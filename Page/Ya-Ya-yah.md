@@ -172,7 +172,7 @@
 <td><p>1か所1公演<br />
 1万5000人動員[40]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
-<td><p>初の単独コンサート[41]。<a href="https://ja.wikipedia.org/wiki/NEWS_(グループ)" title="wikilink">NEWSや</a><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a>が応援に駆け付けた[42]。</p></td>
+<td><p>初の単独コンサート[41]。<a href="https://ja.wikipedia.org/wiki/NEWS_(グループ)" title="wikilink">NEWSや</a><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>が応援に駆け付けた[42]。</p></td>
 </tr>
 <tr class="even">
 <td><p>3月26日</p></td>

@@ -5,7 +5,7 @@
 
 ## 略歴
 
-1963年[シカゴ大学](../Page/シカゴ大学.md "wikilink")政治学部卒業、1964年[イェール大学](../Page/イェール大学.md "wikilink")大学院修士課程修了。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[ニューヨーク市立大学大学院センター](../Page/ニューヨーク市立大学大学院センター.md "wikilink")で博士号（[政治学](../Page/政治学.md "wikilink")）取得。
+1963年[シカゴ大学](../Page/シカゴ大学.md "wikilink")政治学部卒業、1964年[イェール大学](../Page/イェール大学.md "wikilink")大学院修士課程修了。[1968年](../Page/1968年.md "wikilink")、[ニューヨーク市立大学大学院センター](../Page/ニューヨーク市立大学大学院センター.md "wikilink")で博士号（[政治学](../Page/政治学.md "wikilink")）取得。
 
 ニューヨーク市立大学助教授・准教授（1968-78年）、[国防大学教授](https://ja.wikipedia.org/wiki/国防大学_\(アメリカ合衆国\) "wikilink")（1978-80年）、[中央情報局](../Page/中央情報局.md "wikilink")(CIA)（1980-81年、滞在研究者）、[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")[高等国際問題研究大学院（SAIS）ボローニャ](https://ja.wikipedia.org/wiki/SAIS "wikilink")・センター教授（1981-83年）、[コーネル大学](../Page/コーネル大学.md "wikilink")政治学部教授（1983-92年）、[ピッツバーグ大学](../Page/ピッツバーグ大学.md "wikilink")政治学部教授（1992-96年）、[オハイオ州立大学](https://ja.wikipedia.org/wiki/オハイオ州立大学 "wikilink")教授（1996-2002年）、[ダートマス大学](../Page/ダートマス大学.md "wikilink")教授（2002-12年）を経て、現在は[キングス・カレッジ・ロンドン](../Page/キングス・カレッジ・ロンドン.md "wikilink")戦争研究学部教授、ダートマス大学名誉教授。
 

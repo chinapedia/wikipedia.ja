@@ -1180,7 +1180,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - ウメのほし
   - [ガチャガチャポン\!](../Page/ガチャガチャポン!.md "wikilink") ※フジテレビ地上波でも放送された。
   - [ポンキッキ](../Page/ポンキッキ.md "wikilink") ※フジテレビ地上波でも放送された。
-  - [Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")→[beポンキッキーズ](https://ja.wikipedia.org/wiki/beポンキッキーズ "wikilink") ※2012年3月にチバテレでも放送された。
+  - [Beポンキッキ](../Page/Beポンキッキ.md "wikilink")→[beポンキッキーズ](https://ja.wikipedia.org/wiki/beポンキッキーズ "wikilink") ※2012年3月にチバテレでも放送された。
   - [ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")
   - MYてれび
   - [トーマスくらぶ](https://ja.wikipedia.org/wiki/きかんしゃトーマス "wikilink")

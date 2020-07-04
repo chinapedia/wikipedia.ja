@@ -29,7 +29,7 @@ IRCはデータの通信に関する[プロトコル](../Page/プロトコル.md
       - [Colloquy](https://ja.wikipedia.org/wiki/Colloquy "wikilink")
       - [LimeChat for Mac](../Page/LimeChat.md "wikilink")
   - [Linux](../Page/Linux.md "wikilink")
-      - [Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")
+      - [Kopete](../Page/Kopete.md "wikilink")
       - [Konversation](../Page/Konversation.md "wikilink")
       - [Empathy](https://ja.wikipedia.org/wiki/Empathy "wikilink")
       - [KSirc](../Page/KSirc.md "wikilink")
@@ -54,7 +54,7 @@ IRCはデータの通信に関する[プロトコル](../Page/プロトコル.md
 
 [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")中心の[インターネットスイート](../Page/インターネットスイート.md "wikilink")の機能のひとつとして、IRCクライアントの機能を備える。[ChatZilla](../Page/ChatZilla.md "wikilink")はウェブブラウザ向けアドオンも用意されており、[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")などの[Mozilla](../Page/Mozilla.md "wikilink")アプリケーションを拡張するかたちで利用することもできる。
 
-[Pidgin](../Page/Pidgin.md "wikilink")、[Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")などは、複数のプロトコルを扱えるクライアントで、IRCのほかにも [Windows Live メッセンジャーや](../Page/Windows_Live_メッセンジャー.md "wikilink")、[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")などのプロトコルを利用することができる。
+[Pidgin](../Page/Pidgin.md "wikilink")、[Kopete](../Page/Kopete.md "wikilink")などは、複数のプロトコルを扱えるクライアントで、IRCのほかにも [Windows Live メッセンジャーや](../Page/Windows_Live_メッセンジャー.md "wikilink")、[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")などのプロトコルを利用することができる。
 
 ## 主なネットワーク
 

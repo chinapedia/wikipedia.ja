@@ -24,7 +24,7 @@
 
 本来は、[モールス通信において通信文を短縮するものであり](../Page/モールス符号.md "wikilink")、音声通信においては[船舶無線](https://ja.wikipedia.org/wiki/船舶無線 "wikilink")や[航空無線](https://ja.wikipedia.org/wiki/航空無線 "wikilink")では一部が用いられるのみである。 陸上通信では一部の組織内で使用することもある。（例として[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ・デイド郡警察がある](https://ja.wikipedia.org/wiki/マイアミ・デイド郡_\(フロリダ州\)#警察 "wikilink")。“METRO DADE COUNTY - POLICE SIGNAL CODES”\[6\]を参照。） また、未使用のQ符号に独自の意義をつけて組織内で使用することもある。[ロシア軍](../Page/ロシア連邦軍.md "wikilink")(Russian military)（但し非公式情報による。）、[ドイツ警察](../Page/ドイツの警察.md "wikilink")(German police)などの例 \[7\] がある。
 
-[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")ではQRA〜QTHが日常的に用いられており、定義とはやや異なる意味で慣用されている場合もある。 この慣用については異論を唱える人\[8\]もいる。
+[アマチュア無線](../Page/アマチュア無線.md "wikilink")ではQRA〜QTHが日常的に用いられており、定義とはやや異なる意味で慣用されている場合もある。 この慣用については異論を唱える人\[8\]もいる。
 
 ### 歴史
 

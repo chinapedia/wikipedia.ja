@@ -1,11 +1,11 @@
 > この記事は[塩化銀\(I\)](https://ja.wikipedia.org/wiki/塩化銀\(I\))から翻訳されています。
 
 
-| Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **塩化銀(I)**（えんかぎん いち、）は、[化学式](../Page/化学式.md "wikilink")が AgCl と表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[塩化物](../Page/塩化物.md "wikilink")である。通常、単に「塩化銀」と言った場合はこの塩化銀(I)を指す。天然には[角銀鉱](https://ja.wikipedia.org/wiki/角銀鉱 "wikilink")という[鉱物](../Page/鉱物.md "wikilink")として産する。
+| Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **塩化銀(I)**（えんかぎん いち、）は、[化学式](../Page/化学式.md "wikilink")が AgCl と表される[銀](../Page/銀.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")である。通常、単に「塩化銀」と言った場合はこの塩化銀(I)を指す。天然には[角銀鉱](https://ja.wikipedia.org/wiki/角銀鉱 "wikilink")という[鉱物](../Page/鉱物.md "wikilink")として産する。
 
 ## 製法
 
-[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")と[塩素](../Page/塩素.md "wikilink")の直接反応のほか、銀イオンと塩化物イオンの反応によって生成する。この沈殿反応は塩化物イオンあるいは銀イオンの[定性分析](../Page/定性分析.md "wikilink")、あるいは[定量分析](../Page/定量分析.md "wikilink")に利用される。
+[銀](../Page/銀.md "wikilink")と[塩素](../Page/塩素.md "wikilink")の直接反応のほか、銀イオンと塩化物イオンの反応によって生成する。この沈殿反応は塩化物イオンあるいは銀イオンの[定性分析](../Page/定性分析.md "wikilink")、あるいは[定量分析](../Page/定量分析.md "wikilink")に利用される。
 
   -
     <chem>2Ag\\ + Cl2 -\> 2AgCl</chem>
@@ -33,7 +33,7 @@
   -
     <chem>{AgCl} + Cl^-\\ \\rightleftarrows\\ \[AgCl2\]^-</chem>
 
-また、濃厚な[硝酸銀(I)](../Page/硝酸銀\(I\).md "wikilink")あるいは[過塩素酸銀(I)](https://ja.wikipedia.org/wiki/過塩素酸銀\(I\) "wikilink")などの銀塩水溶液に対しても幾分溶解度が増大し、以下のような錯イオンを生成することが知られている\[4\]。
+また、濃厚な[硝酸銀(I)](../Page/硝酸銀\(I\).md "wikilink")あるいは[過塩素酸銀(I)](../Page/過塩素酸銀\(I\).md "wikilink")などの銀塩水溶液に対しても幾分溶解度が増大し、以下のような錯イオンを生成することが知られている\[4\]。
 
   -
     <chem>{AgCl} + Ag^+\\ \\rightleftarrows\\ \[Ag2Cl\]^+</chem>

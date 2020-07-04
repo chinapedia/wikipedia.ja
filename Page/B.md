@@ -30,7 +30,7 @@
 
   - （ビー）
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ボー
+  - [エス](../Page/エスペラント.md "wikilink")：ボー
 
 ## 音価
 

@@ -198,7 +198,7 @@ Suicaエリア外では、クレジットカードによるチャージができ
 
 なお、JALカードSuicaはSuica定期券としては使えない。
 
-航空会社と提携した[電子マネー](../Page/電子マネー.md "wikilink")では、[2003年](../Page/2003年.md "wikilink")（平成15年）に[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")の[ANAマイレージクラブ](../Page/ANAマイレージクラブ.md "wikilink")と[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")（[ビットワレット](https://ja.wikipedia.org/wiki/ビットワレット "wikilink")）の提携例があり、これに対抗した形となったが、[2007年](../Page/2007年.md "wikilink")（平成19年）になって全日本空輸とも提携し一体型カードを出すと[11月29日](../Page/11月29日.md "wikilink")付の日本経済新聞などで報じられた\[1\]。これを受けて、JR東日本は「検討をしているが決定していない」とするコメントを発表した\[2\]が、後に正式合意に至り、12月6日に包括提携を発表した。提携内容は「[ANA VISA Suicaカード](../Page/ANAカード.md "wikilink")」（[Type IIカード](https://ja.wikipedia.org/wiki/#TypeIIカード "wikilink")）の発行、AMCマイルからSuicaポイントへの交換など\[3\]\[4\]。
+航空会社と提携した[電子マネー](../Page/電子マネー.md "wikilink")では、[2003年](../Page/2003年.md "wikilink")（平成15年）に[全日本空輸](../Page/全日本空輸.md "wikilink")の[ANAマイレージクラブ](../Page/ANAマイレージクラブ.md "wikilink")と[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")（[ビットワレット](https://ja.wikipedia.org/wiki/ビットワレット "wikilink")）の提携例があり、これに対抗した形となったが、[2007年](../Page/2007年.md "wikilink")（平成19年）になって全日本空輸とも提携し一体型カードを出すと[11月29日](../Page/11月29日.md "wikilink")付の日本経済新聞などで報じられた\[1\]。これを受けて、JR東日本は「検討をしているが決定していない」とするコメントを発表した\[2\]が、後に正式合意に至り、12月6日に包括提携を発表した。提携内容は「[ANA VISA Suicaカード](../Page/ANAカード.md "wikilink")」（[Type IIカード](https://ja.wikipedia.org/wiki/#TypeIIカード "wikilink")）の発行、AMCマイルからSuicaポイントへの交換など\[3\]\[4\]。
 
 #### 流通・小売り
 

@@ -297,7 +297,7 @@
   - [きせかえアレンジ](https://ja.wikipedia.org/wiki/きせかえアレンジ "wikilink")(3G)
   - [S\!まとめて支払い](https://ja.wikipedia.org/wiki/S!まとめて支払い "wikilink")(3G)
   - [ダブルナンバー](../Page/ダブルナンバー.md "wikilink")(3G) - [2013年](../Page/2013年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")で新規加入受付終了\[20\]\[21\]。既存加入者は継続。
-  - [世界対応ケータイ](https://ja.wikipedia.org/wiki/世界対応ケータイ "wikilink")（旧・国際ローミング）（3G、Xシリーズ）
+  - [世界対応ケータイ](../Page/世界対応ケータイ.md "wikilink")（旧・国際ローミング）（3G、Xシリーズ）
 
 #### コンテンツ
 

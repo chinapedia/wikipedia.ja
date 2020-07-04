@@ -13,7 +13,7 @@
 
 画像に埋め込まれた[カラープロファイリングを読みこみ正確な色空間を描画可能である](https://ja.wikipedia.org/wiki/カラープロファイル "wikilink")。
 
-[CSSでは](../Page/Cascading_Style_Sheets.md "wikilink")、開発中の仕様も一部実装し、比較的正確な描画が望める。[Acid2](../Page/Acid2.md "wikilink")テストに最初期（2005年4月\[1\]）に合格している。 開発中のWebKit r31356（最初のスコア100は、r31342）を利用することによって、[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")テストにも公開版として最初に合格するWebブラウザとなった\[2\]。ただし、[iOS版は](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、Acid3でのスコアは100であるにもかかわらず、Acid2には未合格である（version 4.0.5現在）。
+[CSSでは](../Page/Cascading_Style_Sheets.md "wikilink")、開発中の仕様も一部実装し、比較的正確な描画が望める。[Acid2](../Page/Acid2.md "wikilink")テストに最初期（2005年4月\[1\]）に合格している。 開発中のWebKit r31356（最初のスコア100は、r31342）を利用することによって、[Acid3](../Page/Acid3.md "wikilink")テストにも公開版として最初に合格するWebブラウザとなった\[2\]。ただし、[iOS版は](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、Acid3でのスコアは100であるにもかかわらず、Acid2には未合格である（version 4.0.5現在）。
 
 [JavaScript](../Page/JavaScript.md "wikilink")に関しては、[JavaScriptCore](../Page/WebKit.md "wikilink") [フレームワークを中核に備えている](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")。KDE開発のKJSを前身とするフレームワークであり、[OS全般の](../Page/オペレーティングシステム.md "wikilink") [JavaScript](../Page/JavaScript.md "wikilink") の処理に用いられている。図形を描画する[canvas要素](https://ja.wikipedia.org/wiki/canvas要素 "wikilink")を実装しており、JavaScriptもこれに対応する。
 

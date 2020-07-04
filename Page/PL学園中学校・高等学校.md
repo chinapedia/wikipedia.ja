@@ -339,7 +339,7 @@
 </ul>
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/今岡誠" title="wikilink">今岡誠</a>★
+<dd><a href="../Page/今岡誠.md" title="wikilink">今岡誠</a>★
 </dd>
 </dl>
 <ul>

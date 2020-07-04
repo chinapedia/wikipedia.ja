@@ -39,7 +39,7 @@
 
   - [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[ハンガリー語](../Page/ハンガリー語.md "wikilink")：ゼー
 
-  - [エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ゾー
+  - [エスペラント](../Page/エスペラント.md "wikilink")：ゾー
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では「**ズィー**」、「**ゼット**」と呼ぶことが多い\[1\]。
 

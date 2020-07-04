@@ -139,7 +139,7 @@
 （<a href="../Page/奥井雅美.md" title="wikilink">奥井雅美</a>）</p></td>
 <td><p>赤い華<br />
 （椎名へきる）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BODY_MAKES_STREAM" title="wikilink">BODY MAKES STREAM</a><br />
+<td><p><a href="../Page/BODY_MAKES_STREAM.md" title="wikilink">BODY MAKES STREAM</a><br />
 （TWO-MIX）</p></td>
 </tr>
 <tr class="even">

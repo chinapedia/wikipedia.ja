@@ -67,11 +67,11 @@
   - [アフターバーナー](../Page/アフターバーナー_\(ゲーム\).md "wikilink")
   - [ファイナルバブルボブル](../Page/バブルボブル.md "wikilink")
   - [双截龍（ダブルドラゴン）](../Page/ダブルドラゴンシリーズ.md "wikilink")
-  - [R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")
+  - [R-TYPE](../Page/R-TYPE.md "wikilink")
   - [アルゴスの十字剣](https://ja.wikipedia.org/wiki/アルゴスの戦士#アルゴスの十字剣 "wikilink") - サリオ発売
   - [ソロモンの鍵](../Page/ソロモンの鍵_\(ゲーム\).md "wikilink") - サリオ発売
   - [テディーボーイ・ブルース](https://ja.wikipedia.org/wiki/テディーボーイ・ブルース "wikilink")
-  - [サンダーブレード](https://ja.wikipedia.org/wiki/サンダーブレード "wikilink")
+  - [サンダーブレード](../Page/サンダーブレード.md "wikilink")
   - [青春スキャンダル](../Page/青春スキャンダル.md "wikilink")
   - [忍者プリンセス](https://ja.wikipedia.org/wiki/忍者プリンセス "wikilink")
 

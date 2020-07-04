@@ -11,7 +11,7 @@
   - [協会貨物約款](../Page/協会貨物約款.md "wikilink") (Institute Cargo Clauses)
   - [国際クリケット評議会](../Page/国際クリケット評議会.md "wikilink") (International Cricket Council)
   - [インターナショナルチャンピオンズカップ](https://ja.wikipedia.org/wiki/インターナショナルチャンピオンズカップ "wikilink")（International Champions Cup）
-  - [国際マンガ家大会](https://ja.wikipedia.org/wiki/マンガサミット "wikilink") (International Comic Airtist Conference)
+  - [国際マンガ家大会](../Page/マンガサミット.md "wikilink") (International Comic Airtist Conference)
   - [Intel C++ Compiler](../Page/Intel_C++_Compiler.md "wikilink")
   - [国際共産主義潮流](https://ja.wikipedia.org/wiki/国際共産主義潮流 "wikilink") (International Communist Current)
   - [インタークロス・クリエイティブ・センター](https://ja.wikipedia.org/wiki/札幌デジタル創造プラザ "wikilink")(Intercross Creative Center)

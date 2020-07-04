@@ -278,17 +278,17 @@ X.Org Foundationとfreedesktop.orgにより、Xの中核部分の開発が再び
 </tr>
 <tr class="odd">
 <td><p>X10R2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>1月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>1月</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>X10R3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>2月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>2月</p></td>
 <td><p>MIT の外部に初めてリリース。<a href="https://ja.wikipedia.org/wiki/uwm" title="wikilink">uwm</a>が標準のウィンドウマネージャ。</p></td>
 </tr>
 <tr class="odd">
 <td><p>X10R4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>12月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>12月</p></td>
 <td><p>X10 の最後のリリース番号</p></td>
 </tr>
 <tr class="even">

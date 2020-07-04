@@ -58,7 +58,7 @@
     漫画版で、薬師丸法山をはじめゾンビストのメンバー数名が使用。
   - 『[続・戦国自衛隊](https://ja.wikipedia.org/wiki/戦国自衛隊_\(劇画\)#続・戦国自衛隊 "wikilink")』
     [戦国時代に](../Page/戦国時代_\(日本\).md "wikilink")[タイムスリップした](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")[自衛隊](../Page/自衛隊.md "wikilink")の装備の1つとして、作品前半では[試作型が](../Page/プロトタイプ.md "wikilink")、中盤以降は量産型が登場。主人公である島[二尉](https://ja.wikipedia.org/wiki/中尉#自衛隊 "wikilink")（小説版では[三尉](https://ja.wikipedia.org/wiki/少尉#自衛隊 "wikilink")）が使用する。
-  - 『[そらのおとしもの](https://ja.wikipedia.org/wiki/そらのおとしもの "wikilink")』
+  - 『[そらのおとしもの](../Page/そらのおとしもの.md "wikilink")』
     漫画版6話の町ぐるみで行われた[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")にて、[八百屋](../Page/八百屋.md "wikilink")のおばちゃんが[コルク](../Page/コルク.md "wikilink")弾を装填したものを使用。
 
 ### 小説

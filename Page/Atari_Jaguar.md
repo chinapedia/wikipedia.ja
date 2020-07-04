@@ -20,7 +20,7 @@
   - **CPU**
       - "Tom"（主に画像処理）, 25.59 MHz
           - [32ビット](../Page/32ビット.md "wikilink") [RISC](../Page/RISC.md "wikilink") [Graphics Processing Unit](../Page/Graphics_Processing_Unit.md "wikilink")（GPU）（\#1） - 4Kキャッシュ。実質的にはCPU扱いされる。
-          - [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") Object processor（\#2） - プログラマブル。[スプライト処理](../Page/スプライト_\(映像技術\).md "wikilink")、ピクセル処理など、様々な画像処理ユニットとして振る舞える。
+          - [64ビット](../Page/64ビット.md "wikilink") Object processor（\#2） - プログラマブル。[スプライト処理](../Page/スプライト_\(映像技術\).md "wikilink")、ピクセル処理など、様々な画像処理ユニットとして振る舞える。
           - 64ビット [Blitter](https://ja.wikipedia.org/wiki/:en:Blitter "wikilink") processor（\#3） - [コプロセッサ](../Page/コプロセッサ.md "wikilink")。[zバッファ](https://ja.wikipedia.org/wiki/zバッファ "wikilink")と[グーローシェーディング](https://ja.wikipedia.org/wiki/グーローシェーディング "wikilink")をハードウェアサポートしている。
           - 64ビット [DRAM](../Page/Dynamic_Random_Access_Memory.md "wikilink") コントローラ
       - "Jerry" 26.6Mhz

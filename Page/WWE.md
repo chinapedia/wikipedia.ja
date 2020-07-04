@@ -555,7 +555,7 @@ PPVやレスラーを特集したDVDは[ユークス](../Page/ユークス.md "w
 <tr class="odd">
 <td><p><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/此花区.md" title="wikilink">此花区</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/舞洲アリーナ" title="wikilink">舞洲アリーナ</a></p></td>
+<td><p><a href="../Page/舞洲アリーナ.md" title="wikilink">舞洲アリーナ</a></p></td>
 <td><p>大阪大会は<a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a>（大阪城ホール）以来</p></td>
 <td></td>
 <td></td>
@@ -706,14 +706,14 @@ PPVのスケジュールは以下の通りで、日付は現地時間。
 
 ### 2020年のPPVスケジュール
 
-| 日付                                                      | PPV名                                                                              | 開催地                                                                                                     | 会場                                                                          |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | [Royal Rumble](../Page/ロイヤルランブル.md "wikilink")                                    | [テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")                              | [ミニッツメイド・パーク](../Page/ミニッツメイド・パーク.md "wikilink")                            |
-| [2月27日](../Page/2月27日.md "wikilink")                    | [Super ShowDown](https://ja.wikipedia.org/wiki/WWEスーパーショーダウン "wikilink")\[39\]    | [サウジアラビア](../Page/サウジアラビア.md "wikilink")・[リヤド](../Page/リヤド.md "wikilink")                               | [キング・ファハド国際スタジアム](https://ja.wikipedia.org/wiki/キング・ファハド国際スタジアム "wikilink") |
-| [3月8日](../Page/3月8日.md "wikilink")                      | [Elimination Chamber](https://ja.wikipedia.org/wiki/WWEエリミネーション・チェンバー "wikilink") | [ペンシルバニア州](https://ja.wikipedia.org/wiki/ペンシルバニア州 "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink") | [ウェルズ・ファーゴ・センター](../Page/ウェルズ・ファーゴ・センター_\(フィラデルフィア\).md "wikilink")         |
-| [4月5日](../Page/4月5日.md "wikilink")                      | [WrestleMania](../Page/レッスルマニア36.md "wikilink")                                   | [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")             | WWEパフォーマンスセンター                                                              |
-| [7月19日](../Page/7月19日.md "wikilink")                    | [Extreme Rules](https://ja.wikipedia.org/wiki/WWEエキストリーム・ルールズ "wikilink")\[40\]   | [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")                            | [SAPセンター](../Page/SAPセンター.md "wikilink")                                    |
-| [8月23日](../Page/8月23日.md "wikilink")                    | [SummerSlam](../Page/サマースラム.md "wikilink")\[41\]                                  | [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")                          | [TDガーデン](https://ja.wikipedia.org/wiki/TDガーデン "wikilink")                   |
+| 日付                                   | PPV名                                                                              | 開催地                                                                                                     | 会場                                                                          |
+| ------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [1月26日](../Page/1月26日.md "wikilink") | [Royal Rumble](../Page/ロイヤルランブル.md "wikilink")                                    | [テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")                              | [ミニッツメイド・パーク](../Page/ミニッツメイド・パーク.md "wikilink")                            |
+| [2月27日](../Page/2月27日.md "wikilink") | [Super ShowDown](https://ja.wikipedia.org/wiki/WWEスーパーショーダウン "wikilink")\[39\]    | [サウジアラビア](../Page/サウジアラビア.md "wikilink")・[リヤド](../Page/リヤド.md "wikilink")                               | [キング・ファハド国際スタジアム](https://ja.wikipedia.org/wiki/キング・ファハド国際スタジアム "wikilink") |
+| [3月8日](../Page/3月8日.md "wikilink")   | [Elimination Chamber](https://ja.wikipedia.org/wiki/WWEエリミネーション・チェンバー "wikilink") | [ペンシルバニア州](https://ja.wikipedia.org/wiki/ペンシルバニア州 "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink") | [ウェルズ・ファーゴ・センター](../Page/ウェルズ・ファーゴ・センター_\(フィラデルフィア\).md "wikilink")         |
+| [4月5日](../Page/4月5日.md "wikilink")   | [WrestleMania](../Page/レッスルマニア36.md "wikilink")                                   | [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")             | WWEパフォーマンスセンター                                                              |
+| [7月19日](../Page/7月19日.md "wikilink") | [Extreme Rules](https://ja.wikipedia.org/wiki/WWEエキストリーム・ルールズ "wikilink")\[40\]   | [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")                            | [SAPセンター](../Page/SAPセンター.md "wikilink")                                    |
+| [8月23日](../Page/8月23日.md "wikilink") | [SummerSlam](../Page/サマースラム.md "wikilink")\[41\]                                  | [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")                          | [TDガーデン](../Page/TDガーデン.md "wikilink")                                      |
 
 | PPV名                                                                                               |
 | -------------------------------------------------------------------------------------------------- |

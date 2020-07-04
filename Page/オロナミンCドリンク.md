@@ -13,7 +13,7 @@
 
 発売当初、CMキャラクターに[大村崑](../Page/大村崑.md "wikilink")を起用したモノクロの[テレビCMが製作された](../Page/コマーシャルメッセージ.md "wikilink")\[6\]。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[王冠式のキャップから](https://ja.wikipedia.org/wiki/王冠_\(栓\) "wikilink")「スクリューキャップ」\[7\] になったが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に毒物が混入される事件（[パラコート連続毒殺事件](../Page/パラコート連続毒殺事件.md "wikilink")）が各地で起きたのを受け、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、「[マキシキャップ](https://ja.wikipedia.org/wiki/マキシキャップ "wikilink")」\[8\] に変更された。少年の薬物汚染撲滅に取り組む「夜回り先生」こと[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")の著書によれば、空き瓶の中に[シンナー](../Page/シンナー.md "wikilink")を入れる人がいたため現在の方式に変わったという。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に[王冠式のキャップから](https://ja.wikipedia.org/wiki/王冠_\(栓\) "wikilink")「スクリューキャップ」\[7\] になったが、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に毒物が混入される事件（[パラコート連続毒殺事件](../Page/パラコート連続毒殺事件.md "wikilink")）が各地で起きたのを受け、[1986年](../Page/1986年.md "wikilink")、「[マキシキャップ](https://ja.wikipedia.org/wiki/マキシキャップ "wikilink")」\[8\] に変更された。少年の薬物汚染撲滅に取り組む「夜回り先生」こと[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")の著書によれば、空き瓶の中に[シンナー](../Page/シンナー.md "wikilink")を入れる人がいたため現在の方式に変わったという。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には姉妹品の「オロナミンC ロイヤルポリス」が発売された\[9\]\[10\]。これは[ローヤルゼリー](../Page/ローヤルゼリー.md "wikilink")と[プロポリス](../Page/プロポリス.md "wikilink")の抽出物、ハチミツを成分に含む。
 
@@ -51,7 +51,7 @@ CMにおいて上戸彩と共演した主な人物は下記の通り。肩書は
   - [ペ・ヨンジュン](../Page/ペ・ヨンジュン.md "wikilink")（[韓国の俳優](../Page/大韓民国.md "wikilink")：あの人に会いたい編）
   - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（俳優・[タレント](../Page/タレント.md "wikilink")：あの人に会いたい編。なお2005年[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[義経](../Page/義経_\(NHK大河ドラマ\).md "wikilink")』でも共演し、滝沢はCMでも義経役であった）
   - [ボビー・オロゴン](../Page/ボビー・オロゴン.md "wikilink")（タレント・[格闘家](https://ja.wikipedia.org/wiki/格闘家 "wikilink")：大統領編。セコンド役として[アドゴニー・ロロ](../Page/アドゴニー・ロロ.md "wikilink")も友情出演）
-  - [亀梨和也](../Page/亀梨和也.md "wikilink")・[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")：校長編）
+  - [亀梨和也](../Page/亀梨和也.md "wikilink")・[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")：校長編）
   - [中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")（[サッカー選手](../Page/サッカー選手.md "wikilink")・[セルティック](../Page/セルティックFC.md "wikilink")：スポーツ新聞記者編）
   - [ミシェル・ウィー](../Page/ミシェル・ウィー.md "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")：ロングパットのコツ？！編）
   - [楳図かずお](../Page/楳図かずお.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")：楳図先生の驚き編）

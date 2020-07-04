@@ -11,7 +11,7 @@
 
 [1996年](../Page/1996年.md "wikilink")[8月](../Page/8月.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](../Page/伊藤一朗.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作詞・作曲・編曲担当の[五十嵐充](../Page/五十嵐充.md "wikilink")の3人で、1stシングル「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](../Page/エイベックス・エンタテインメント.md "wikilink")）からCDデビューした。同シングルは[オリコンで最高位](../Page/オリコンチャート.md "wikilink")24位を記録し、約10万枚を売り上げた。
 
-90年代ビーイングで圧倒的人気を博していた[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")や当時のエイベックスを牽引していた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が在籍する[Globe](../Page/Globe.md "wikilink")の大成功手法を取り入れ、人気に火がつく。
+90年代ビーイングで圧倒的人気を博していた[ZARD](../Page/ZARD.md "wikilink")や当時のエイベックスを牽引していた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が在籍する[Globe](../Page/Globe.md "wikilink")の大成功手法を取り入れ、人気に火がつく。
 
 翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発売の3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入り、約50万枚のロングヒットを記録。4月発売の1stアルバム『[Everlasting](../Page/Everlasting_\(Every_Little_Thingのアルバム\).md "wikilink")』では初の1位・初のミリオンセラーを記録し、大ブレイクを果たす。6月発売の4thシングル「[For the moment](../Page/For_the_moment.md "wikilink")」でシングルでも初登場1位を獲得し、同年末6thシングル「[Shapes Of Love](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")」にて[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場。
 

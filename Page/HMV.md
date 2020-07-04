@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hmv_Sendai_Ichibancho_Shop.jpg "wikilink") **HMV**（エイチエムブイ\[1\]、エッチエムブイ\[2\]）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の**HMVグループPLC**社が世界展開している[レコード](../Page/レコード.md "wikilink")販売店グループである。
 
-もとは英[グラモフォン社](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")（現 英[EMI](../Page/EMI.md "wikilink")）のブランドだった。「」の[アクロニム](https://ja.wikipedia.org/wiki/アクロニム "wikilink")であり、これは、グラモフォンの姉妹会社である[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ビクタートーキングマシン](../Page/ビクタートーキングマシン.md "wikilink")社（現 米[RCA](../Page/RCA.md "wikilink")）や、その子会社であった[日本ビクター](../Page/日本ビクター.md "wikilink")（現 [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）のマスコット「[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")」のキャッチコピーだった。
+もとは英[グラモフォン社](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")（現 英[EMI](../Page/EMI.md "wikilink")）のブランドだった。「」の[アクロニム](https://ja.wikipedia.org/wiki/アクロニム "wikilink")であり、これは、グラモフォンの姉妹会社である[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ビクタートーキングマシン](../Page/ビクタートーキングマシン.md "wikilink")社（現 米[RCA](../Page/RCA.md "wikilink")）や、その子会社であった[日本ビクター](../Page/日本ビクター.md "wikilink")（現 [JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）のマスコット「[ニッパー](../Page/ニッパー_\(犬\).md "wikilink")」のキャッチコピーだった。
 
 「」などの[キャッチコピー](../Page/キャッチコピー.md "wikilink")を擁する。
 
@@ -21,7 +21,7 @@
 
 ## 「HMV」の由来
 
-「HMV」とはもともと英グラモフォン社の[商標](../Page/商標.md "wikilink")である[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける[犬](../Page/イヌ.md "wikilink")（[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")）のマークのことである。「彼の（亡くなった）主人の声（を聞いている）」という意味で“His Master's Voice”（HMV）と呼ばれる。
+「HMV」とはもともと英グラモフォン社の[商標](../Page/商標.md "wikilink")である[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける[犬](../Page/イヌ.md "wikilink")（[ニッパー](../Page/ニッパー_\(犬\).md "wikilink")）のマークのことである。「彼の（亡くなった）主人の声（を聞いている）」という意味で“His Master's Voice”（HMV）と呼ばれる。
 
 ## 国際展開
 
@@ -31,7 +31,7 @@
 
 ### 日本
 
-日本へは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[日本法人](https://ja.wikipedia.org/wiki/日本法人 "wikilink")である「**HMVジャパン**」を設立して進出した。日本法人の[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")には[ニッパーがなく](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")[蓄音機](../Page/蓄音機.md "wikilink")だけが描かれていた。
+日本へは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[日本法人](https://ja.wikipedia.org/wiki/日本法人 "wikilink")である「**HMVジャパン**」を設立して進出した。日本法人の[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")には[ニッパーがなく](../Page/ニッパー_\(犬\).md "wikilink")[蓄音機](../Page/蓄音機.md "wikilink")だけが描かれていた。
 
 HMVジャパンは、[2007年](../Page/2007年.md "wikilink")8月に[大和証券SMBCプリンシパル・インベストメンツ](https://ja.wikipedia.org/wiki/大和証券SMBCプリンシパル・インベストメンツ "wikilink")の子会社へ売却され、2010年12月に[ローソン](../Page/ローソン.md "wikilink")へ再売却された。2011年9月にローソンエンターメディアに吸収合併されHMVジャパンは消滅。ローソンエンターメディアはローソンHMVエンタテイメントへ商号変更（現：[ローソンエンタテインメント](../Page/ローソンエンタテインメント.md "wikilink")）。
 

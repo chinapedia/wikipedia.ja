@@ -358,7 +358,7 @@
 28. 『[魔法少女リリカルなのはA's](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's "wikilink")』はTBS東名阪系列局で、『[魔法少女リリカルなのはStrikerS](../Page/魔法少女リリカルなのはStrikerS.md "wikilink")』はテレビ東京系列局フルネットでそれぞれ事実上の再放送がなされた。また、『[ガールズ&パンツァー](https://ja.wikipedia.org/wiki/ガールズ&パンツァー "wikilink")』の場合、地上波ではTOKYO MX、テレビ愛知、テレビ大阪で本放送されたが、3年後にテレビ東京・[テレビ北海道](../Page/テレビ北海道.md "wikilink")・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")でも放送され、[テレビせとうち](../Page/テレビせとうち.md "wikilink")を除く[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")各局で放送される結果となった。
 29. 先述の『ラブライブ\!』のほか、『[日常](../Page/日常_\(漫画\).md "wikilink")』は[NHKEテレ](../Page/NHK教育テレビジョン.md "wikilink")[土曜夕方枠にて傑作選が放送された](../Page/NHK教育テレビ土曜夕方6時台枠のアニメ.md "wikilink")。
 30. 特にBSデジタル放送では2007年11月に開局した[BS11](https://ja.wikipedia.org/wiki/BS11 "wikilink")が熱心であり、2010年代から増枠を繰り返した結果、2019年現在、積極的に製作にも関与しているBS11・[BSフジ](../Page/BSフジ.md "wikilink")・[BS日テレなどでUHFアニメがおおむね放送されている](../Page/BS日本.md "wikilink")。
-31. 例としては『[有頂天家族](https://ja.wikipedia.org/wiki/有頂天家族 "wikilink")』（第1期のみ）・『[ろんぐらいだぁす\!](https://ja.wikipedia.org/wiki/ろんぐらいだぁす!#テレビアニメ "wikilink")』ほか。
+31. 例としては『[有頂天家族](../Page/有頂天家族.md "wikilink")』（第1期のみ）・『[ろんぐらいだぁす\!](https://ja.wikipedia.org/wiki/ろんぐらいだぁす!#テレビアニメ "wikilink")』ほか。
 32. キー局および系列各局では22時 - 翌0時台はネットワークセールス番組が多くを占めることに加え、[東海3県](../Page/東海3県.md "wikilink")の独立局である[ぎふチャン](../Page/岐阜放送.md "wikilink")・[三重テレビでも編成の都合](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（特に前者では『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』の同時ネットが行われている）から、1時台以前のローカルセールスアニメの放送自体が難しいという事情もある。
 33. ただし、BS11でも3局とは異なるアニプレックス製作作品を放送していた。
 34. 土曜1時30分 - 2時00分（金曜深夜）枠で放送されることが多い。

@@ -537,7 +537,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>8:00 <strong>The Great Escape!</strong> - <a href="https://ja.wikipedia.org/wiki/井手大介" title="wikilink">井手大介</a><br />
+<td><p>8:00 <strong>The Great Escape!</strong> - <a href="../Page/井手大介.md" title="wikilink">井手大介</a><br />
 ▽9:56 TOKYO City Information<br />
 ▽10:56 InterFM897 LLLLIVE</p></td>
 <td><p>- Ali Morizumi</p></td>
@@ -754,7 +754,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 
 <!-- end list -->
 
-  - [GOOD MORNING GARAGE](https://ja.wikipedia.org/wiki/グッドモーニングガレージ "wikilink") ／ジョージ・ウィリアムズ、古川タロヲ、マイク・ロジャース）
+  - [GOOD MORNING GARAGE](../Page/グッドモーニングガレージ.md "wikilink") ／ジョージ・ウィリアムズ、古川タロヲ、マイク・ロジャース）
 
 <!-- end list -->
 
@@ -814,7 +814,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
   - TOKYO SCENE Presents CLUB STYLE
   - Night Drifter - [Cero](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")
   - ALTERNATIVE NATION - [高樹千佳子](../Page/高樹千佳子.md "wikilink")
-  - HARAJUKU HAIR SALON dea Presents TOKYO PLAYGROUND - 村田倫子（月）、古関れん（火）、武智志穂（水）、中田クルミ（木）、AMIAYA（金）、[井手大介](https://ja.wikipedia.org/wiki/井手大介 "wikilink")
+  - HARAJUKU HAIR SALON dea Presents TOKYO PLAYGROUND - 村田倫子（月）、古関れん（火）、武智志穂（水）、中田クルミ（木）、AMIAYA（金）、[井手大介](../Page/井手大介.md "wikilink")
   - 劇団番町ボーイズ☆のミッドナイト番長\! - [劇団番町ボーイズ☆](https://ja.wikipedia.org/wiki/劇団番町ボーイズ☆ "wikilink")
   - WANIMAのワンチャンラジオシーズン２- WANIMA
   - RYKEYとゆかいな言葉たち - RYKEY

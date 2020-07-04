@@ -101,7 +101,7 @@
   - タイムアタック
     プレイヤー1台でタイムを競うモード。プレイ中は、右上部に筐体内総合1位タイム・筐体内車種別1位タイム・自己ベストタイムと、その下部に、筐体内総合1位タイム差・筐体内車種別1位タイム差（Ver.3から表示）・自己ベストタイム差の比較（Diffタイム）がそれぞれ表示される。筐体のレコード（総合10位以内・車種別の1位）及び、自己ベストを更新すると、パスワードがプレイ後に表示される。
     また、パスワードは、プレイ開始時のステータス画面で確認ができる。また、パスワードにより、インターネットランキングへの参加が可能（Street Stageを除く）。
-    4以降はインターネットランキング機能を標準で実装し、[ALL.Net](https://ja.wikipedia.org/wiki/ALL.Net "wikilink")に接続してある筐体であれば、自己ベスト時のタイムデーターが自動的に送信され、随時ランキングに反映される。
+    4以降はインターネットランキング機能を標準で実装し、[ALL.Net](../Page/ALL.Net.md "wikilink")に接続してある筐体であれば、自己ベスト時のタイムデーターが自動的に送信され、随時ランキングに反映される。
     『6 AA』よりタイムアタックのタイムによるランク基準が追加され、BRONZE・SILVER・GOLD・PLATINUMといったランクだったが、『7 AAX』より新たにSPECIALISTが追加され5ランク構成となった。『8∞』ではシリーズ中ランク基準が最も厳しく、上級者の腕前に使用車種によってはSPECIALISTが取れない事態もあったが、あまりの難易度の高さにより『Zero』ではランク基準が易しくなり、使用車種によってはSPECIALISTが取れない事態が解消されている。
     『8∞』ではDコインを消費することによってゴーストを出現させることができたが『Zero』ではそのままゴーストの表示ができるようになった。
   - 通信対戦
@@ -720,7 +720,7 @@
 
 <!-- end list -->
 
-  - [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [MAZDA](../Page/マツダ.md "wikilink")
       - [ROADSTER RS（NB8C）](../Page/マツダ・ロードスター.md "wikilink")（初期型:大宮智史が搭乗。Ver.3までの中期型から変更）
       - [RX-7 Type RS（FD3S）](../Page/マツダ・RX-7.md "wikilink")（VI型:Ver.3までのSPIRIT R Type Aから変更）
 
@@ -1790,7 +1790,7 @@ Zero Ver.2</p></th>
 </table>
 
 <table>
-<caption><a href="https://ja.wikipedia.org/wiki/マツダ" title="wikilink">MAZDA</a></caption>
+<caption><a href="../Page/マツダ.md" title="wikilink">MAZDA</a></caption>
 <thead>
 <tr class="header">
 <th><p>車種名</p></th>

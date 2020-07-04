@@ -66,7 +66,7 @@
 
 その後もシリーズの追加や入れ替えが行われており、2011年夏モデルではストレートPCとキーボードが融合した「ハイブリッド・モーションPC」であるLIFEBOOK THシリーズを、2012年夏モデルでは富士通製初の[Ultrabook](https://ja.wikipedia.org/wiki/Ultrabook "wikilink")であるLIFEBOOK UHシリーズを、2013年秋冬モデルでは、ディスプレイにチルト機能を備え、タッチ操作がしやすい角度に調整できる一体型デスクトップモデルであるESPRIMO WHシリーズを追加。2014年春モデルでは、既存のLIFEBOOK AHシリーズの派生モデルとして、60歳以上の大人世代に向け、使いやすさだけでなく、デザインにもこだわった新ブランド「GRANNOTE（グランノート、LIFEBOOK AH90/P）」を追加し、一度シリーズが消滅していたLIFEBOOK THシリーズはディスプレイが回転するコンバーチブルタイプのUltrabookとしてラインナップに復活。2015年春モデルでは、コンパクトサイズのデスクトップ型PCとタッチパネルを搭載したバッテリー内蔵ワイヤレス液晶ディスプレイの組み合わせとしたディスプレイ着脱式モデルLIFEBOOK GHシリーズを追加した。
 
-2016年秋冬モデルからは、カスタムメイドモデルにおいて、従前からのMicrosoft Officeに加え、[キングソフト](https://ja.wikipedia.org/wiki/キングソフト "wikilink")製の[Kingsoft Officeも選択可能となった](https://ja.wikipedia.org/wiki/Kingsoft_Office "wikilink")（インストールメディアではなく、シリアルキー記載のライセンスカードが同梱される。使用するには、カード記載のURLから専用サイトにアクセスし、ソフトウェアのダウンロードとパソコンへのインストール作業を行う必要がある）[1](https://www.kingsoft.jp/kingsoft-office/20161108.html)。
+2016年秋冬モデルからは、カスタムメイドモデルにおいて、従前からのMicrosoft Officeに加え、[キングソフト](../Page/キングソフト.md "wikilink")製の[Kingsoft Officeも選択可能となった](https://ja.wikipedia.org/wiki/Kingsoft_Office "wikilink")（インストールメディアではなく、シリアルキー記載のライセンスカードが同梱される。使用するには、カード記載のURLから専用サイトにアクセスし、ソフトウェアのダウンロードとパソコンへのインストール作業を行う必要がある）[1](https://www.kingsoft.jp/kingsoft-office/20161108.html)。
 
 ## ラインアップ
 

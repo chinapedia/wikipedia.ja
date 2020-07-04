@@ -57,7 +57,7 @@ L36A1</p></td>
 <td><p>1,425</p></td>
 <td><p>264</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 </tr>
 </tbody>
 </table>

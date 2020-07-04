@@ -445,7 +445,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デニス・アーウィン" title="wikilink">デニス・アーウィン</a></p></td>
+<td><p><a href="../Page/デニス・アーウィン.md" title="wikilink">デニス・アーウィン</a></p></td>
 <td><p>1990–2002</p></td>
 <td><p>529</p></td>
 </tr>

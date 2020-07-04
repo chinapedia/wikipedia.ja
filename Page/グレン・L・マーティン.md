@@ -21,7 +21,7 @@
   - [B-57 (ライセンス生産)](../Page/イングリッシュ・エレクトリック_キャンベラ.md "wikilink")
   - [PBM](../Page/PBM_\(航空機\).md "wikilink")
   - [P5M](https://ja.wikipedia.org/wiki/P5M_\(航空機\) "wikilink")
-  - [P6M](https://ja.wikipedia.org/wiki/P6M_\(航空機\) "wikilink")
+  - [P6M](../Page/P6M_\(航空機\).md "wikilink")
 
 ### 旅客機
 

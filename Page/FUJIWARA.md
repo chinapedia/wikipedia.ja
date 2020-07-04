@@ -105,7 +105,7 @@
   - [ピッカピカ天然素材\!](../Page/ピッカピカ天然素材!.md "wikilink")（1994年 - 1995年、[TBS系](../Page/TBSテレビ.md "wikilink")）
   - [急性吉本炎](https://ja.wikipedia.org/wiki/急性吉本炎 "wikilink")→慢性吉本炎（1995年 - 1996年、TBS系）
   - 超ねんてん博物館（関西テレビ）
-  - [所のジオ玉](https://ja.wikipedia.org/wiki/所のジオ玉 "wikilink")（日本テレビ系､1996年 - 1997年）
+  - [所のジオ玉](../Page/所のジオ玉.md "wikilink")（日本テレビ系､1996年 - 1997年）
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")､1999年 - 2000年） -戦績5勝0敗 最高509KB
       - 因みに天然素材メンバーの中ではバッファロー吾郎、へびいちごも出場経験があるが、オンエア経験があるのはFUJIWARAのみである。
   - [吉本超合金](../Page/吉本超合金.md "wikilink")（テレビ大阪､1997年 - 2000年）
@@ -139,7 +139,7 @@
   - [明石家さんちゃんねる](../Page/明石家さんちゃんねる.md "wikilink")（TBS系、不定期）
   - [ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2008年） -火曜日1部、隔週
   - [キンコンヒルズ](../Page/キンコンヒルズ.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2006年 - 2009年） - ゲストだが、番組内では準レギュラーと呼ばれた
-  - [一攫千金\!日本ルー列島](https://ja.wikipedia.org/wiki/一攫千金!日本ルー列島 "wikilink")（フジテレビ、2008年 - 2009年）
+  - [一攫千金\!日本ルー列島](../Page/一攫千金!日本ルー列島.md "wikilink")（フジテレビ、2008年 - 2009年）
   - [水野キングダム](../Page/水野キングダム.md "wikilink")（[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2006年 - 2009年）
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ） -特別番組の時から出演、キャッチコピーは「ノンストップギャグマシーン」。コラボカーペットで[5GAP](../Page/5GAP.md "wikilink")久保田賢治 (2008年12月10日)や5GAP久保田賢治&[ものいい吉田サラダ](../Page/ものいい_\(お笑いコンビ\).md "wikilink")(2010年1月1日、ヒーローコラボ名義)や[COWCOW](../Page/COWCOW.md "wikilink")[多田健二](https://ja.wikipedia.org/wiki/多田健二 "wikilink")&[ずん](../Page/ずん.md "wikilink")[飯尾和樹](../Page/飯尾和樹.md "wikilink")(2012年5月26日､原西のみ)と共演。
   - [FUJIWARAのありがたいと思えッ\!](https://ja.wikipedia.org/wiki/FUJIWARAのありがたいと思えッ! "wikilink")（テレビ東京、2009年 - 2010年） -[バラエティ7](../Page/バラエティ7.md "wikilink")内で放送

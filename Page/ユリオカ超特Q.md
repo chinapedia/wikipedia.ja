@@ -1,7 +1,7 @@
 > この記事は[ユリオカ超特Q](https://ja.wikipedia.org/wiki/ユリオカ超特Q)から翻訳されています。
 
 
-**ユリオカ超特Q**（ユリオカ ちょうとっきゅう、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、日本の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[漫談家](https://ja.wikipedia.org/wiki/漫談家 "wikilink")。
+**ユリオカ超特Q**（ユリオカ ちょうとっきゅう、[1968年](../Page/1968年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、日本の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[漫談家](https://ja.wikipedia.org/wiki/漫談家 "wikilink")。
 
 [兵庫県](../Page/兵庫県.md "wikilink")[城崎郡](../Page/城崎郡.md "wikilink")[日高町](../Page/日高町_\(兵庫県\).md "wikilink")（現在の[豊岡市](../Page/豊岡市.md "wikilink")）出身。[トップ・カラー](https://ja.wikipedia.org/wiki/トップ・カラー "wikilink")所属。[日高町立日高東中学校](../Page/豊岡市立日高東中学校.md "wikilink")、[兵庫県立豊岡高等学校](../Page/兵庫県立豊岡高等学校.md "wikilink")、[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")[産業社会学部](https://ja.wikipedia.org/wiki/産業社会学部 "wikilink")卒業。2007年9月末まで[ASH\&Dコーポレーション](https://ja.wikipedia.org/wiki/ASH&Dコーポレーション "wikilink")、2009年3月末まで[オイコーポレーション](../Page/オイコーポレーション.md "wikilink")に在籍。[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")2期生、JCA時代はコンビで活動していた。
 
@@ -68,7 +68,7 @@
 
 ### インターネット
 
-  - [鳥居みゆきの社交辞令でハイタッチ](https://ja.wikipedia.org/wiki/鳥居みゆきの社交辞令でハイタッチ "wikilink") ([GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink") 2008年3月6日)
+  - [鳥居みゆきの社交辞令でハイタッチ](../Page/鳥居みゆきの社交辞令でハイタッチ.md "wikilink") ([GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink") 2008年3月6日)
   - [カンニングの恋愛中毒](../Page/カンニングの恋愛中毒.md "wikilink") (GyaOジョッキー)
   - [B級Cool Japan](http://odoroku.tv/variety/bq/) ([あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")、2011年1月18日-5月10日)
   - 2012年2月14日神取忍率いるLLPW-Xが道場からインターネット生放送（ワールドネットTV,ニコニコ生放送、同時生中継）をしたときに綾川ゆんまおと司会を務めた。
@@ -90,7 +90,7 @@
   - [トップ・カラー](https://ja.wikipedia.org/wiki/トップ・カラー "wikilink")
   - [スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")
   - [兵庫県出身の人物一覧](../Page/兵庫県出身の人物一覧.md "wikilink")
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")
+  - [1968年](../Page/1968年.md "wikilink")
   - [4月1日](../Page/4月1日.md "wikilink")
   - [日本お笑い史](../Page/日本お笑い史.md "wikilink")
 

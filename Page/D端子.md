@@ -194,7 +194,7 @@ BDレコーダー・プレーヤー・薄型テレビの中には低価格帯モ
 [Category:映像端子](https://ja.wikipedia.org/wiki/Category:映像端子 "wikilink") [Category:コネクタ](https://ja.wikipedia.org/wiki/Category:コネクタ "wikilink") [Category:インタフェース規格](https://ja.wikipedia.org/wiki/Category:インタフェース規格 "wikilink")
 
 1.  [TDK テクの雑学 第61回 より](http://www.tdk.co.jp/techmag/knowledge/200701/index.htm)
-2.  実際に[総務省](../Page/総務省.md "wikilink")[東北総合通信局](https://ja.wikipedia.org/wiki/東北総合通信局 "wikilink")がデジタル放送推進用の[ウェブサイト](../Page/ウェブサイト.md "wikilink")にて、D端子をデジタル端子であると紹介していたがこれは間違いである[知りたい情報（Q\&A）](http://s04.megalodon.jp/2007-1224-1657-20/www.ttb.go.jp/digital/touhoku/tok21.html)
+2.  実際に[総務省](../Page/総務省.md "wikilink")[東北総合通信局](../Page/東北総合通信局.md "wikilink")がデジタル放送推進用の[ウェブサイト](../Page/ウェブサイト.md "wikilink")にて、D端子をデジタル端子であると紹介していたがこれは間違いである[知りたい情報（Q\&A）](http://s04.megalodon.jp/2007-1224-1657-20/www.ttb.go.jp/digital/touhoku/tok21.html)
 3.  一方、モデルとなったDFPコネクタはデジタルコンポーネント信号RGBHV
 4.  一般的には[RCA端子](../Page/RCA端子.md "wikilink")が使用されている。
 5.  これに対応するためRCA3端子⇔D端子の変換アダプターが販売されている。

@@ -1,7 +1,7 @@
 > この記事は[Network News Transfer Protocol](https://ja.wikipedia.org/wiki/Network_News_Transfer_Protocol)から翻訳されています。
 
 
-**Network News Transfer Protocol**（ネットワーク ニュース トランスファー プロトコル、**NNTP**）は、[インターネット](../Page/インターネット.md "wikilink")アプリケーション[プロトコル](../Page/プロトコル.md "wikilink")のひとつである。おもに、[ネットニュース](../Page/ネットニュース.md "wikilink") (Usenet) の記事を読むことと記事を投稿することのために使われる。記事は[ニュースサーバ間を相互に配送される](https://ja.wikipedia.org/wiki/:en:news_server "wikilink")。[カリフォルニア大学サンディエゴ校](../Page/カリフォルニア大学サンディエゴ校.md "wikilink")のBrian Kantorと[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")の[Phil LapsleyがNetwork](https://ja.wikipedia.org/wiki/:en:Phil_Lapsley "wikilink") News Transfer Protocolの仕様であるRFC 977を[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の5月に完成させた。他の貢献者として、[Baylor College of MedicineのStan](https://ja.wikipedia.org/wiki/:en:Baylor_College_of_Medicine "wikilink") Barberと[アップルコンピュータのErik](../Page/アップル_\(企業\).md "wikilink") Fairがいる。
+**Network News Transfer Protocol**（ネットワーク ニュース トランスファー プロトコル、**NNTP**）は、[インターネット](../Page/インターネット.md "wikilink")アプリケーション[プロトコル](../Page/プロトコル.md "wikilink")のひとつである。おもに、[ネットニュース](../Page/ネットニュース.md "wikilink") (Usenet) の記事を読むことと記事を投稿することのために使われる。記事は[ニュースサーバ間を相互に配送される](https://ja.wikipedia.org/wiki/:en:news_server "wikilink")。[カリフォルニア大学サンディエゴ校](../Page/カリフォルニア大学サンディエゴ校.md "wikilink")のBrian Kantorと[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")の[Phil LapsleyがNetwork](https://ja.wikipedia.org/wiki/:en:Phil_Lapsley "wikilink") News Transfer Protocolの仕様であるRFC 977を[1986年](../Page/1986年.md "wikilink")の5月に完成させた。他の貢献者として、[Baylor College of MedicineのStan](https://ja.wikipedia.org/wiki/:en:Baylor_College_of_Medicine "wikilink") Barberと[アップルコンピュータのErik](../Page/アップル_\(企業\).md "wikilink") Fairがいる。
 
 Usenetはもともとは[UUCP](https://ja.wikipedia.org/wiki/UUCP "wikilink")ネットワーク上での使用を前提として設計された。つまり、ほとんどの記事は電話回線で直接コンピュータ同士を接続して配送されていた。読者と投稿者は同じニュースサーバにログインし、そのサーバのディスクにある記事を直接読んでいた。
 
@@ -34,7 +34,7 @@ Usenetはもともとは[UUCP](https://ja.wikipedia.org/wiki/UUCP "wikilink")ネ
 
 ## 外部リンク
 
-  - Kantor, Brian and Phil Lapsley. RFC 977 "Network News Transfer Protocol: A Proposed Standard for the Stream-Based Transmission of News." [1986](https://ja.wikipedia.org/wiki/1986年 "wikilink").
+  - Kantor, Brian and Phil Lapsley. RFC 977 "Network News Transfer Protocol: A Proposed Standard for the Stream-Based Transmission of News." [1986](../Page/1986年.md "wikilink").
   - Horton, Mark, and R. Adams. RFC 1036 "Standard for Interchange of USENET Messages." [1987](https://ja.wikipedia.org/wiki/1987年 "wikilink").
   - [NNTP Version 2 draft](http://www.academ.com/academ/nntp/ietf/1996-July/000022.html) an early, abandoned attempt to revise NNTP
   - Barber, Stan, et al. RFC 2980 "Common NNTP Extensions." [2000](../Page/2000年.md "wikilink")

@@ -147,7 +147,7 @@ W-CDMA方式の特徴である海外[ローミング](../Page/ローミング.md
   - 2007年12月 - [N905iBiz](https://ja.wikipedia.org/wiki/N905iBiz "wikilink")発売開始。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月 - [SH905iTV](../Page/SH905iTV.md "wikilink")、[P705i](../Page/P705i.md "wikilink")、[D705i](../Page/D705i.md "wikilink")、[D705iμ](../Page/D705iμ.md "wikilink")発売開始。
   - 2008年2月 - [N705i](../Page/N705i.md "wikilink")、[SO905iCS](../Page/SO905iCS.md "wikilink")、[SH705i](../Page/SH705i.md "wikilink")、[N705iμ](../Page/N705iμ.md "wikilink")、[P705iμ](../Page/P705iμ.md "wikilink")、[F905iBiz](../Page/F905iBiz.md "wikilink")、[L705i](../Page/L705i.md "wikilink")発売開始。
-  - 2008年3月 - [P905iTV](../Page/P905iTV.md "wikilink")、[PROSOLID μ](../Page/P705iμ.md "wikilink")、[NM705i](../Page/NM705i.md "wikilink")、[L705iX](../Page/L705iX.md "wikilink")、[F1100](https://ja.wikipedia.org/wiki/F1100 "wikilink")、[N2502 HIGH-SPEED発売開始](../Page/N2502_HIGH-SPEED.md "wikilink")。
+  - 2008年3月 - [P905iTV](../Page/P905iTV.md "wikilink")、[PROSOLID μ](../Page/P705iμ.md "wikilink")、[NM705i](../Page/NM705i.md "wikilink")、[L705iX](../Page/L705iX.md "wikilink")、[F1100](../Page/F1100.md "wikilink")、[N2502 HIGH-SPEED発売開始](../Page/N2502_HIGH-SPEED.md "wikilink")。
   - 2008年4月 - [SH705iII](https://ja.wikipedia.org/wiki/SH705iII "wikilink")、[らくらくホンプレミアム](https://ja.wikipedia.org/wiki/らくらくホンプレミアム "wikilink")(F884i)、[らくらくホンIVS](https://ja.wikipedia.org/wiki/らくらくホンIVS "wikilink")(F883iESS)発売開始。
   - 2008年5月 - [らくらくホンベーシック](../Page/らくらくホンベーシック.md "wikilink")S(F883iS)発売開始。
   - 2008年6月 - [P906i](https://ja.wikipedia.org/wiki/P906i "wikilink")、[PRADA Phone by LG(L852i)](https://ja.wikipedia.org/wiki/L852i "wikilink")、[SH906i](../Page/SH906i.md "wikilink")、[F906i](https://ja.wikipedia.org/wiki/F906i "wikilink")、[N906iμ](https://ja.wikipedia.org/wiki/N906iμ "wikilink")、[N906i](https://ja.wikipedia.org/wiki/N906i "wikilink")、[F706i](../Page/F706i.md "wikilink")、[N906iL](https://ja.wikipedia.org/wiki/N906iL "wikilink")、[SH906iTV](../Page/SH906iTV.md "wikilink")、[HT1100](https://ja.wikipedia.org/wiki/HT1100 "wikilink")発売開始、[OP2502 HIGH-SPEED発売中止決定](../Page/OP2502_HIGH-SPEED.md "wikilink")。
@@ -945,7 +945,7 @@ USBタイプのデータ通信端末</p></td>
 
 ##### 900iシリーズ
 
-FOMAの端末としては第三世代に当たる。[50xシリーズの機能を採用して](https://ja.wikipedia.org/wiki/mova#50xシリーズ "wikilink")、ドコモのフラッグシップ携帯として登場した。movaシリーズと共通の型番ルールを採用し、9という数字には50xの上位という意味も込め、一般向けに広くアピールした。全機種にQVGA液晶とメガピクセルカメラを搭載した。iアプリは505iの規格をさらに拡張し、500[KB](../Page/バイト_\(情報\).md "wikilink")（ダウンロード100KB、[スクラッチパッド](https://ja.wikipedia.org/wiki/スクラッチパッド "wikilink")400KB）の仕様になった。開発の初期段階では、2103Vとされていた。2005年5月のプレスリリースで900i及び900ixを1098万台発売したと発表した。FOMA普及にかなり貢献したシリーズだが「[着うた](../Page/着うた.md "wikilink")をメール着信音に設定できない」「全体的に動作の機敏さに欠ける」などの問題が残されていた。イメージキャラクターは[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")と[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")（同コンビで901iSシリーズまで起用）。CMソングには[交響曲第9番 (ベートーヴェン)の](../Page/交響曲第9番_\(ベートーヴェン\).md "wikilink")[小西康陽](../Page/小西康陽.md "wikilink")や[ケン・イシイ](../Page/ケン・イシイ.md "wikilink")・[石野卓球](../Page/石野卓球.md "wikilink")らによるアレンジバージョンを起用。 [thumb](https://ja.wikipedia.org/wiki/ファイル:N900i.jpg "wikilink")
+FOMAの端末としては第三世代に当たる。[50xシリーズの機能を採用して](https://ja.wikipedia.org/wiki/mova#50xシリーズ "wikilink")、ドコモのフラッグシップ携帯として登場した。movaシリーズと共通の型番ルールを採用し、9という数字には50xの上位という意味も込め、一般向けに広くアピールした。全機種にQVGA液晶とメガピクセルカメラを搭載した。iアプリは505iの規格をさらに拡張し、500[KB](../Page/バイト_\(情報\).md "wikilink")（ダウンロード100KB、[スクラッチパッド](https://ja.wikipedia.org/wiki/スクラッチパッド "wikilink")400KB）の仕様になった。開発の初期段階では、2103Vとされていた。2005年5月のプレスリリースで900i及び900ixを1098万台発売したと発表した。FOMA普及にかなり貢献したシリーズだが「[着うた](../Page/着うた.md "wikilink")をメール着信音に設定できない」「全体的に動作の機敏さに欠ける」などの問題が残されていた。イメージキャラクターは[坂口憲二](../Page/坂口憲二.md "wikilink")と[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")（同コンビで901iSシリーズまで起用）。CMソングには[交響曲第9番 (ベートーヴェン)の](../Page/交響曲第9番_\(ベートーヴェン\).md "wikilink")[小西康陽](../Page/小西康陽.md "wikilink")や[ケン・イシイ](../Page/ケン・イシイ.md "wikilink")・[石野卓球](../Page/石野卓球.md "wikilink")らによるアレンジバージョンを起用。 [thumb](https://ja.wikipedia.org/wiki/ファイル:N900i.jpg "wikilink")
 
 | 端末型番                                   | 発売開始日      | ブランド | 備考 |
 | -------------------------------------- | ---------- | ---- | -- |
@@ -983,7 +983,7 @@ FOMAの端末としては第三世代に当たる。[50xシリーズの機能を
 
 ##### 902iシリーズ
 
-[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")にSH902i、N902i、D902i、P902i、F902i、SO902iがドコモより[プレスリリース](../Page/プレスリリース.md "wikilink")された。新機能として、[定額制](../Page/定額制.md "wikilink")プランも用意し[トランシーバー](https://ja.wikipedia.org/wiki/トランシーバー "wikilink")のような通話が可能な「[プッシュトーク](../Page/プッシュトーク.md "wikilink")」、「[iモードFelica](https://ja.wikipedia.org/wiki/iモードFelica "wikilink")」の新機能である「[トルカ](https://ja.wikipedia.org/wiki/トルカ "wikilink")」サービスに対応。701iに搭載された[iチャネル](https://ja.wikipedia.org/wiki/iチャネル "wikilink")にも対応している。[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は容量は変わりないが、[HTMLの仕様がバージョンアップしている](../Page/HyperText_Markup_Language.md "wikilink")。902iでは、従来までFOMAの課題となっていたキーレスポンスのもたつきの解消に力が入れられており、今まで特に遅いとされていたP,Nといった[Linux](../Page/Linux.md "wikilink")[OS採用端末のレスポンスもかなり快適になっている](../Page/オペレーティングシステム.md "wikilink")。イメージキャラクターは一新され、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[亀梨和也](../Page/亀梨和也.md "wikilink")と[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")を起用。
+[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")にSH902i、N902i、D902i、P902i、F902i、SO902iがドコモより[プレスリリース](../Page/プレスリリース.md "wikilink")された。新機能として、[定額制](../Page/定額制.md "wikilink")プランも用意し[トランシーバー](https://ja.wikipedia.org/wiki/トランシーバー "wikilink")のような通話が可能な「[プッシュトーク](../Page/プッシュトーク.md "wikilink")」、「[iモードFelica](https://ja.wikipedia.org/wiki/iモードFelica "wikilink")」の新機能である「[トルカ](https://ja.wikipedia.org/wiki/トルカ "wikilink")」サービスに対応。701iに搭載された[iチャネル](https://ja.wikipedia.org/wiki/iチャネル "wikilink")にも対応している。[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")は容量は変わりないが、[HTMLの仕様がバージョンアップしている](../Page/HyperText_Markup_Language.md "wikilink")。902iでは、従来までFOMAの課題となっていたキーレスポンスのもたつきの解消に力が入れられており、今まで特に遅いとされていたP,Nといった[Linux](../Page/Linux.md "wikilink")[OS採用端末のレスポンスもかなり快適になっている](../Page/オペレーティングシステム.md "wikilink")。イメージキャラクターは一新され、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の[亀梨和也](../Page/亀梨和也.md "wikilink")と[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")を起用。
 
 | 端末型番                                   | 発売開始日       | ブランド                                               | 備考 |
 | -------------------------------------- | ----------- | -------------------------------------------------- | -- |
@@ -996,7 +996,7 @@ FOMAの端末としては第三世代に当たる。[50xシリーズの機能を
 
 ##### 902iSシリーズ
 
-[2006年](../Page/2006年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")にD902iS、F902iS、N902iS、P902iS、SH902iSがドコモより[プレスリリース](../Page/プレスリリース.md "wikilink")された。新機能として1.7GHz帯の対応、DCMXアプリのプリセット、着もじ、おまかせロック、外部メモリへのコンテンツ移行、デコメール署名、電話帳預かりサービス、パケット通信中のテレビ電話対応等がある。また、P902iSはドコモ初の着うたフルに対応、N902iS、P902iSが3Gローミングに対応し、F902iSは、[Windows Media Audio形式の音楽ファイル再生に対応](../Page/Windows_Media_Audio.md "wikilink")。またデジタル著作権管理技術（[DRM](../Page/デジタル著作権管理.md "wikilink")）に対応している事などより、[Napster Japan等の有料音楽配信サイトの利用も出来る](../Page/Napster_Japan.md "wikilink")。イメージキャラクターは[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバー全員（903iシリーズまで起用）。
+[2006年](../Page/2006年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")にD902iS、F902iS、N902iS、P902iS、SH902iSがドコモより[プレスリリース](../Page/プレスリリース.md "wikilink")された。新機能として1.7GHz帯の対応、DCMXアプリのプリセット、着もじ、おまかせロック、外部メモリへのコンテンツ移行、デコメール署名、電話帳預かりサービス、パケット通信中のテレビ電話対応等がある。また、P902iSはドコモ初の着うたフルに対応、N902iS、P902iSが3Gローミングに対応し、F902iSは、[Windows Media Audio形式の音楽ファイル再生に対応](../Page/Windows_Media_Audio.md "wikilink")。またデジタル著作権管理技術（[DRM](../Page/デジタル著作権管理.md "wikilink")）に対応している事などより、[Napster Japan等の有料音楽配信サイトの利用も出来る](../Page/Napster_Japan.md "wikilink")。イメージキャラクターは[KAT-TUN](../Page/KAT-TUN.md "wikilink")のメンバー全員（903iシリーズまで起用）。
 
 | 端末型番                                     | 発売開始日      | ブランド | 備考 |
 | ---------------------------------------- | ---------- | ---- | -- |
@@ -1013,7 +1013,7 @@ FOMAの端末としては第三世代に当たる。[50xシリーズの機能を
 
 また、903iシリーズのうち、[D903i](../Page/D903i.md "wikilink")、[SH903i](../Page/SH903i.md "wikilink")、[F903i](../Page/F903i.md "wikilink")の三機種は、[Windows Media Audio形式の音楽ファイル再生に対応](../Page/Windows_Media_Audio.md "wikilink")。またデジタル著作権管理技術（[DRM](../Page/デジタル著作権管理.md "wikilink")）に対応している事などより、[Napster Japan等の有料音楽配信サイトの利用も出来る](../Page/Napster_Japan.md "wikilink")（2007年12月31日まで、Napsterを2週間無料で使えるキャンペーンを行っている）。[SO903i](../Page/SO903i.md "wikilink")は、[ATRAC3](https://ja.wikipedia.org/wiki/ATRAC3 "wikilink")形式及び、[MP3](../Page/MP3.md "wikilink")形式の音楽ファイル再生にも対応している。N903i、P903i、SH903iはSD-Audio対応で、長時間再生が可能となった。SH903iのみWindows Media AudioとSD-Audioの二つの形式に対応している。
 
-イメージキャラクターは902iシリーズ・902iSシリーズに引き続き[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")(赤西も一部出演)。一方カメラのイメージセンサは、SH903i、D903iがCCD（[スーパーCCDハニカム](../Page/スーパーCCDハニカム.md "wikilink")ではない）、P903iが[νMaicovicon](https://ja.wikipedia.org/wiki/νMaicovicon "wikilink")を搭載し、ほかはすべて[CMOSイメージセンサ](../Page/CMOSイメージセンサ.md "wikilink")に変更された。 [thumb](https://ja.wikipedia.org/wiki/ファイル:P903i.jpg "wikilink")
+イメージキャラクターは902iシリーズ・902iSシリーズに引き続き[KAT-TUN](../Page/KAT-TUN.md "wikilink")(赤西も一部出演)。一方カメラのイメージセンサは、SH903i、D903iがCCD（[スーパーCCDハニカム](../Page/スーパーCCDハニカム.md "wikilink")ではない）、P903iが[νMaicovicon](https://ja.wikipedia.org/wiki/νMaicovicon "wikilink")を搭載し、ほかはすべて[CMOSイメージセンサ](../Page/CMOSイメージセンサ.md "wikilink")に変更された。 [thumb](https://ja.wikipedia.org/wiki/ファイル:P903i.jpg "wikilink")
 
 | 端末型番                                   | 発売開始日       | ブランド | 備考 |
 | -------------------------------------- | ----------- | ---- | -- |
@@ -1410,7 +1410,7 @@ W-CDMAに加えGSM/GPRS通信に対応し、国際ローミングが可能。<br
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/F1100" title="wikilink">F1100</a></p></td>
+<td><p><a href="../Page/F1100.md" title="wikilink">F1100</a></p></td>
 <td><p>2008年3月17日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windowsケータイ</a></p></td>
 <td><p>FOMA無線LAN対応</p></td>

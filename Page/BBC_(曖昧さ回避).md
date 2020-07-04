@@ -5,7 +5,7 @@
 
   - [英国放送協会](../Page/英国放送協会.md "wikilink") (The British Broadcasting Corporation)
       - [BBCワールド](https://ja.wikipedia.org/wiki/BBCワールド "wikilink") - 英国放送協会の国際部門により放送される[テレビチャンネル](https://ja.wikipedia.org/wiki/テレビチャンネル "wikilink")。
-      - [BBC Micro](https://ja.wikipedia.org/wiki/BBC_Micro "wikilink")、[BBC Master (英語版)](https://ja.wikipedia.org/wiki/:en:BBC_Master "wikilink") - かつて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で発売された8ビット[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")。
+      - [BBC Micro](../Page/BBC_Micro.md "wikilink")、[BBC Master (英語版)](https://ja.wikipedia.org/wiki/:en:BBC_Master "wikilink") - かつて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で発売された8ビット[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")。
   - [ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")（Brown Boveri & Cie）- かつて[スイス](../Page/スイス.md "wikilink")に存在した[電気機器](https://ja.wikipedia.org/wiki/電気機器 "wikilink")メーカー（現[ABB](https://ja.wikipedia.org/wiki/ABB "wikilink")）。
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink") (Biwako Broadcasting Co., Ltd.) - [滋賀県](../Page/滋賀県.md "wikilink")に本社を置く[放送事業者](../Page/放送事業者.md "wikilink")。
   - [ビーマン・バングラデシュ航空](../Page/ビーマン・バングラデシュ航空.md "wikilink")の[ICAO航空会社コード](https://ja.wikipedia.org/wiki/ICAO航空会社コード "wikilink")。

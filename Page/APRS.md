@@ -1,11 +1,11 @@
 > この記事は[APRS](https://ja.wikipedia.org/wiki/APRS)から翻訳されています。
 
 
-**APRS**（）とは、[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")を用いた位置情報発信システムである\[1\]。
+**APRS**（）とは、[アマチュア無線](../Page/アマチュア無線.md "wikilink")を用いた位置情報発信システムである\[1\]。
 
 ## システム
 
-APRSは、[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")上での[無線パケット通信](../Page/無線パケット通信.md "wikilink")を応用して[リアルタイム](../Page/リアルタイム.md "wikilink")で生データを配信する通信[プロトコル](../Page/プロトコル.md "wikilink")である\[2\]。アメリカ合衆国のアマチュア無線家ボブ・ブラニンガ（Bob Bruninga、WB4APR）が1992年に提唱・発表した。
+APRSは、[アマチュア無線](../Page/アマチュア無線.md "wikilink")上での[無線パケット通信](../Page/無線パケット通信.md "wikilink")を応用して[リアルタイム](../Page/リアルタイム.md "wikilink")で生データを配信する通信[プロトコル](../Page/プロトコル.md "wikilink")である\[2\]。アメリカ合衆国のアマチュア無線家ボブ・ブラニンガ（Bob Bruninga、WB4APR）が1992年に提唱・発表した。
 
 APRSは[GPSなどを利用して行われる移動アマチュア無線局の位置](../Page/グローバル・ポジショニング・システム.md "wikilink")[トラッキング](https://ja.wikipedia.org/wiki/トラッキング "wikilink")機能が有名である。GPS信号を一定の時間間隔で送信するとサーバーにデータが蓄積され、[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")や日付を入力することで位置情報が赤い点の連続で地図上に表示される（GPS信号の送信が途切れたときは青い線で表示される）\[3\]。
 

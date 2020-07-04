@@ -21,7 +21,7 @@
 
 一方で[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")がパソコンの市場を上回るまでに成長し\[1\]、[タブレットも急成長している](../Page/タブレット_\(コンピュータ\).md "wikilink")。その大部分はインテルの競合企業が製造する[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")のプロセッサと、アップルの[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Google](../Page/Google.md "wikilink")の[Android](../Page/Android.md "wikilink") OSを搭載し、インテルとマイクロソフトは大きく出遅れた\[2\]。
 
-インテルは[Atomプロセッサなどモバイル向けの取り組みを強化しているが](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")、2012年現在では成果が出ているとは言い難い。また[Moblin](https://ja.wikipedia.org/wiki/Moblin "wikilink")や[MeeGo](https://ja.wikipedia.org/wiki/MeeGo "wikilink")といった[オープンソース](../Page/オープンソース.md "wikilink")の組み込みOSの開発に力を入れたものの、ほとんど成果がなく終了している。一方マイクロソフトはARMアーキテクチャ（例・[Qualcomm Snapdragonシリーズ等](https://ja.wikipedia.org/wiki/Snapdragon "wikilink")）向けの[Windows Phoneや](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")[Windows RTを推進しており](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink")、両社が[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")市場で築いた特別な関係は、この分野では発揮されていない。
+インテルは[Atomプロセッサなどモバイル向けの取り組みを強化しているが](../Page/Intel_Atom.md "wikilink")、2012年現在では成果が出ているとは言い難い。また[Moblin](https://ja.wikipedia.org/wiki/Moblin "wikilink")や[MeeGo](https://ja.wikipedia.org/wiki/MeeGo "wikilink")といった[オープンソース](../Page/オープンソース.md "wikilink")の組み込みOSの開発に力を入れたものの、ほとんど成果がなく終了している。一方マイクロソフトはARMアーキテクチャ（例・[Qualcomm Snapdragonシリーズ等](https://ja.wikipedia.org/wiki/Snapdragon "wikilink")）向けの[Windows Phoneや](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")[Windows RTを推進しており](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT "wikilink")、両社が[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")市場で築いた特別な関係は、この分野では発揮されていない。
 
 ## 脚注
 

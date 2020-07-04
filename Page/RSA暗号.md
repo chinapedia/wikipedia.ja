@@ -5,7 +5,7 @@
 
 ## 概要
 
-1977年に発明され、発明者である[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")、[アディ・シャミア](../Page/アディ・シャミア.md "wikilink")、[レオナルド・エーデルマン](../Page/レオナルド・エーデルマン.md "wikilink")の原語表記の頭文字をつなげてこのように呼ばれる\[2\]。当時、[ディフィーと](https://ja.wikipedia.org/wiki/ホイットフィールド・ディフィー "wikilink")[ヘルマンによって発表されたばかりの公開鍵暗号という新しい概念に対し](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink")、秘匿や認証を実現できる具体的な[アルゴリズム](../Page/アルゴリズム.md "wikilink")を与えた。発明者3氏は、この功績によって[2002年](../Page/2002年.md "wikilink")の[チューリング賞](../Page/チューリング賞.md "wikilink")を受賞した。この暗号は[フェルマーの小定理](../Page/フェルマーの小定理.md "wikilink")に基づいている\[3\]。
+1977年に発明され、発明者である[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")、[アディ・シャミア](../Page/アディ・シャミア.md "wikilink")、[レオナルド・エーデルマン](../Page/レオナルド・エーデルマン.md "wikilink")の原語表記の頭文字をつなげてこのように呼ばれる\[2\]。当時、[ディフィーと](../Page/ホイットフィールド・ディフィー.md "wikilink")[ヘルマンによって発表されたばかりの公開鍵暗号という新しい概念に対し](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink")、秘匿や認証を実現できる具体的な[アルゴリズム](../Page/アルゴリズム.md "wikilink")を与えた。発明者3氏は、この功績によって[2002年](../Page/2002年.md "wikilink")の[チューリング賞](../Page/チューリング賞.md "wikilink")を受賞した。この暗号は[フェルマーの小定理](../Page/フェルマーの小定理.md "wikilink")に基づいている\[3\]。
 
 RSA暗号は次のような方式である： 鍵ペア（公開鍵と秘密鍵）を作成して公開鍵を公開する。まず、適当な正整数 *e*（通常は小さな数。[65537](https://ja.wikipedia.org/wiki/65537 "wikilink") (= 2<sup>16</sup> + 1) がよく使われる）を選択する。また、大きな2つの素数 {*p*, *q*} を生成し、それらの積 *n* (=*pq*) を求めて、{*e*, *n*} を平文の暗号化に使用する鍵（公開鍵）とする。2つの素数 {*p*, *q*} は、暗号文の復号に使用する鍵（秘密鍵）*d* の生成にも使用し (\(d=e^{-1} \pmod{(p-1)(q-1)}\))、秘密に保管する。
 
@@ -239,7 +239,7 @@ RSA暗号をサポートしているライブラリは以下の通り。
   - [Nettle](https://ja.wikipedia.org/wiki/:en:Nettle_\(cryptographic_library\) "wikilink")
   - [OpenSSL](https://ja.wikipedia.org/wiki/OpenSSL "wikilink")
   - [wolfCrypt](https://ja.wikipedia.org/wiki/wolfCrypt "wikilink")
-  - [GnuTLS](https://ja.wikipedia.org/wiki/GnuTLS "wikilink")
+  - [GnuTLS](../Page/GnuTLS.md "wikilink")
 
 ## 脚注
 

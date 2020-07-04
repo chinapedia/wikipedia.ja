@@ -63,4 +63,4 @@
 
   - [西海放送](https://ja.wikipedia.org/wiki/西海放送 "wikilink") - 1980年まで韓国・群山市に存在した民間ラジオ放送会社の略称。
 
-  - （Session Border Controller: SBC） - [IP電話](../Page/IP電話.md "wikilink")網の境界の[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")装置。
+  - （Session Border Controller: SBC） - [IP電話](../Page/IP電話.md "wikilink")網の境界の[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")装置。

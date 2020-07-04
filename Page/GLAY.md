@@ -1522,7 +1522,7 @@ GLAY CHRISTMAS SHOW 2012 Winter THE SWEET ROOM</p></td>
 <div class="NavContent" style="text-align:left;">
 <p>12/10 <a href="../Page/Zepp.md" title="wikilink">Zepp DiverCity</a><br />
 12/17 <a href="https://ja.wikipedia.org/wiki/大船渡市民文化会館・市立図書館_リアスホール" title="wikilink">大船渡市民文化会館 リアスホール</a><br />
-12/19 <a href="https://ja.wikipedia.org/wiki/いわき芸術文化交流館アリオス" title="wikilink">いわき芸術文化交流館アリオス</a></p>
+12/19 <a href="../Page/いわき芸術文化交流館アリオス.md" title="wikilink">いわき芸術文化交流館アリオス</a></p>
 </div>
 </div></td>
 </tr>

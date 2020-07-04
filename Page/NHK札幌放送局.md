@@ -270,7 +270,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="odd">
 <td><p>赤平</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/赤平中継局" title="wikilink">赤平中継局</a></p></td>
+<td><p><a href="../Page/赤平中継局.md" title="wikilink">赤平中継局</a></p></td>
 <td><p>47ch (3W)</p></td>
 <td><p>45ch (3W)</p></td>
 <td><p>16ch (0.3W)</p></td>
@@ -360,7 +360,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="even">
 <td><p>由仁</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/由仁中継局" title="wikilink">由仁中継局</a></p></td>
+<td><p><a href="../Page/由仁中継局.md" title="wikilink">由仁中継局</a></p></td>
 <td><p>51ch (0.5W)</p></td>
 <td><p>49ch (0.5W)</p></td>
 <td><p>31ch (0.05W)</p></td>
@@ -738,7 +738,7 @@ JOIB</p></th>
   - だいすき北海道
   - ニュース北海道
   - [ほくほくテレビ](../Page/ほくほくテレビ.md "wikilink")
-  - [まるごとニュース北海道](https://ja.wikipedia.org/wiki/まるごとニュース北海道 "wikilink")
+  - [まるごとニュース北海道](../Page/まるごとニュース北海道.md "wikilink")
   - [ネットワークニュース北海道](https://ja.wikipedia.org/wiki/ネットワークニュース北海道 "wikilink")
   - ほっからんど212→[ほっからんど北海道](../Page/ほっからんど北海道.md "wikilink")（一時期の金曜日のみ『週刊ほっからんど』のタイトルで放送されていた）
   - 北海道の窓
@@ -820,7 +820,7 @@ JOIB</p></th>
   - D+RADIO（最終週を除く金曜日 18:00 - 18:50）2012年度
   - ココロウタ（最終週の金曜日 18:00 - 18:50）2012年度
   - 北海道まるごとラジオ「ココロウタ」（第1木曜日17:00-17:55、2013年度）
-  - [もぎたて\!北海道](https://ja.wikipedia.org/wiki/もぎたて!北海道 "wikilink")（全国放送、第1水曜日 21:30 - 21:55）
+  - [もぎたて\!北海道](../Page/もぎたて!北海道.md "wikilink")（全国放送、第1水曜日 21:30 - 21:55）
 
 <!-- end list -->
 

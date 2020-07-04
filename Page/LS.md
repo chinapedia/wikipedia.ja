@@ -36,5 +36,5 @@
   - [LS Models](https://ja.wikipedia.org/wiki/LS_Models "wikilink") - [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[鉄道模型](../Page/鉄道模型.md "wikilink")メーカー
   - [エルエス](../Page/エルエス.md "wikilink") - かつて存在していた日本の模型メーカー
   - [ラストストーリー](https://ja.wikipedia.org/wiki/ラストストーリー "wikilink") (The Last Story) - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向け[RPG](../Page/コンピュータRPG.md "wikilink")
-  - [LS Magazine](../Page/LS_Magazine.md "wikilink") - 2001年から2004年まで存在した[ウクライナ](../Page/ウクライナ.md "wikilink")の[児童ポルノ](https://ja.wikipedia.org/wiki/児童ポルノ "wikilink")([児童エロチカ](../Page/児童エロチカ.md "wikilink"))サイト。
+  - [LS Magazine](../Page/LS_Magazine.md "wikilink") - 2001年から2004年まで存在した[ウクライナ](../Page/ウクライナ.md "wikilink")の[児童ポルノ](../Page/児童ポルノ.md "wikilink")([児童エロチカ](../Page/児童エロチカ.md "wikilink"))サイト。
   - [LSグループ](https://ja.wikipedia.org/wiki/LSグループ "wikilink") - [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の財閥グループ

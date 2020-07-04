@@ -1,7 +1,7 @@
 > この記事は[ジェームズ・M・ブキャナン](https://ja.wikipedia.org/wiki/ジェームズ・M・ブキャナン)から翻訳されています。
 
 
-**ジェームズ・マギル・ブキャナン・ジュニア**（James McGill Buchanan Jr.、[1919年](../Page/1919年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")）は、[公共選択論](../Page/公共選択論.md "wikilink")を提唱した[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[経済学者](../Page/経済学者.md "wikilink")・[財政学](../Page/財政学.md "wikilink")者。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ノーベル経済学賞](../Page/ノーベル経済学賞.md "wikilink")を受賞。[ヴァージニア学派](https://ja.wikipedia.org/wiki/ヴァージニア学派 "wikilink")の中心人物のひとり。
+**ジェームズ・マギル・ブキャナン・ジュニア**（James McGill Buchanan Jr.、[1919年](../Page/1919年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")）は、[公共選択論](../Page/公共選択論.md "wikilink")を提唱した[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[経済学者](../Page/経済学者.md "wikilink")・[財政学](../Page/財政学.md "wikilink")者。[1986年](../Page/1986年.md "wikilink")に[ノーベル経済学賞](../Page/ノーベル経済学賞.md "wikilink")を受賞。[ヴァージニア学派](https://ja.wikipedia.org/wiki/ヴァージニア学派 "wikilink")の中心人物のひとり。
 
 ## 略歴
 
@@ -22,7 +22,7 @@
 
   - 提起した理論は、伝統的な経済学・財政学の領域を超え、政治的・社会的にも大きな影響力を持った。また、[ログローリング](../Page/ログローリング.md "wikilink")の理論の徹底した解析もおこなった。
   - [1967年](../Page/1967年.md "wikilink")、『財政理論― 民主主義過程の財政学 ―(*Public Finance in Democratic Process: Fiscal Institutions and Individual Choice*)』は、彼自身が掲げたように、「それまでの伝統的な財政理論」からの「方法論的転換」を狙ったものであった。当時の財政学では、19世紀以降の参政権拡大により、社会的選択は広く「大衆層」に開放されていったにもかかわらず、依然として財政政策の形成が、これらと全く分離されたまま扱われていた。こうした伝統的な財政理論の範疇を越え、「選択」や「意思決定のルール」といった研究も含めた、その後の「公共選択論」へと道を開いたのが、この『財政理論― 民主主義過程の財政学 ―』であった。
-  - 「財政学」・「経済学」・「[政治過程論](https://ja.wikipedia.org/wiki/政治過程論 "wikilink")」の分野においてパラダイムシフトをもたらすことになるブキャナンの著作群は、[1970年代](../Page/1970年代.md "wikilink")初頭に、山之内光躬（早稲田大学教授） ・日向寺純雄（青山学院大学教授）により日本に紹介された。
+  - 「財政学」・「経済学」・「[政治過程論](../Page/政治過程論.md "wikilink")」の分野においてパラダイムシフトをもたらすことになるブキャナンの著作群は、[1970年代](../Page/1970年代.md "wikilink")初頭に、山之内光躬（早稲田大学教授） ・日向寺純雄（青山学院大学教授）により日本に紹介された。
 
 ## 影響
 

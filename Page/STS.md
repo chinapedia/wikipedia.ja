@@ -22,7 +22,7 @@
   - [台風](../Page/台風.md "wikilink")の国際的な強さの階級のひとつ、severe tropical stormの略
   - [Android](../Page/Android.md "wikilink")向け[Twitter](../Page/Twitter.md "wikilink")[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink")、ShootingStarの略称
   - [署名タイムスタンプ](https://ja.wikipedia.org/wiki/署名タイムスタンプ "wikilink")
-  - [チオ硫酸銀](https://ja.wikipedia.org/wiki/チオ硫酸銀 "wikilink")(Silver Thiosulfate) - [銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[チオ硫酸塩](https://ja.wikipedia.org/wiki/チオ硫酸塩 "wikilink")
+  - [チオ硫酸銀](https://ja.wikipedia.org/wiki/チオ硫酸銀 "wikilink")(Silver Thiosulfate) - [銀](../Page/銀.md "wikilink")の[チオ硫酸塩](https://ja.wikipedia.org/wiki/チオ硫酸塩 "wikilink")
   - 企業名
       - [サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（Saga Television Station） - 日本の[佐賀県](../Page/佐賀県.md "wikilink")に本社を置く[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")系列の[テレビ局](../Page/テレビジョン放送局.md "wikilink")
       - [サザントランスポートサービス](https://ja.wikipedia.org/wiki/サザントランスポートサービス "wikilink") (Southern Transport Services)- [南海電気鉄道](../Page/南海電気鉄道.md "wikilink")のグループ企業

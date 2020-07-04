@@ -115,7 +115,7 @@
 
 [T-Engine](../Page/T-Engine.md "wikilink")プロジェクトは、μITRONからT-Kernelへの移行を呼びかけている。[T-Kernel](https://ja.wikipedia.org/wiki/T-Kernel "wikilink")は、仕様上はμITRON3.0と酷似しておりいくつかの機能拡張を施したものとみなすことができる。2013年9月に打ち上げられた国産ロケット[イプシロンと](../Page/イプシロンロケット.md "wikilink")、それに搭載された観測衛星[ひさき](../Page/ひさき.md "wikilink")に、μITRONとT-Kernelがそれぞれ使われた\[1\]。
 
-2017年3月に発売された家庭用ゲーム機[Nintendo Switchの](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Joy-Conコントローラーの](https://ja.wikipedia.org/wiki/Nintendo_Switch#Joy-Con "wikilink")[NFC制御用OSにイーソル株式会社が開発したμITRON](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")4.0準拠のOSが採用されている\[2\]。
+2017年3月に発売された家庭用ゲーム機[Nintendo Switchの](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Joy-Conコントローラーの](https://ja.wikipedia.org/wiki/Nintendo_Switch#Joy-Con "wikilink")[NFC制御用OSにイーソル株式会社が開発したμITRON](../Page/近距離無線通信.md "wikilink")4.0準拠のOSが採用されている\[2\]。
 
 ## 参考文献
 

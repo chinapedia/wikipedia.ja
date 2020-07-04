@@ -21,7 +21,7 @@ EISAは[ISAを縦方向に拡張し](../Page/Industry_Standard_Architecture.md "
 
 ## 背景
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発表された[Intel 80386によって](../Page/Intel_80386.md "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降、従来16ビット幅の汎用データバスを使用していた[IBM](../Page/IBM.md "wikilink") [PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")と[その互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")、その他の類似した[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系プロセッサ搭載パーソナルコンピュータにおいては、汎用データバスおよびそれを用いる拡張スロットの32ビット化が喫緊の課題となりつつあった。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発表された[Intel 80386によって](../Page/Intel_80386.md "wikilink")、[1986年](../Page/1986年.md "wikilink")以降、従来16ビット幅の汎用データバスを使用していた[IBM](../Page/IBM.md "wikilink") [PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")と[その互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")、その他の類似した[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系プロセッサ搭載パーソナルコンピュータにおいては、汎用データバスおよびそれを用いる拡張スロットの32ビット化が喫緊の課題となりつつあった。
 
 この問題は、一旦は[コンパック](../Page/コンパック.md "wikilink")などによる、32ビット化する範囲をメモリやチップセットといったメインボード上のローカルなバスに留め、外部拡張スロットには従来通りの16ビット幅のデータバスを利用する手法で問題の先送りが図られた。だが、将来のオペレーティングシステムやアプリケーションソフトの必要メモリ量の増加、それに拡張バスに接続される各種デバイスの性能向上を考えた場合、未来のいずれかの時点で汎用データバス規格を変更あるいは拡張し、より高速かつ高機能な32ビットバスを導入する必要があることは明らかであった。
 

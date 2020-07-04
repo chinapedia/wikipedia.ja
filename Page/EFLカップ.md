@@ -97,7 +97,7 @@
 <td></td>
 <td><p>3–1</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セント・アンドルーズ・スタジアム" title="wikilink">セント・アンドルーズ</a></p></td>
+<td><p><a href="../Page/セント・アンドルーズ・スタジアム.md" title="wikilink">セント・アンドルーズ</a></p></td>
 <td><p>31,850</p></td>
 </tr>
 <tr class="even">

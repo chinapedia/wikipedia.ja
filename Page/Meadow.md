@@ -18,7 +18,7 @@
 ## 関連項目
 
   - [NTEmacs](https://ja.wikipedia.org/wiki/NTEmacs "wikilink")
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
 ## 脚注
 

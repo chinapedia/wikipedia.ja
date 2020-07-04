@@ -18,7 +18,7 @@
 
   - （エンメ）
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：モー
+  - [エス](../Page/エスペラント.md "wikilink")：モー
 
 ## 音価
 
@@ -137,7 +137,7 @@
   - m- で[メタ](../Page/化学接頭辞・接尾辞一覧.md "wikilink") () 位を表す。
   - 文法で[男性](../Page/性_\(文法\).md "wikilink") ()。
   - 文字 m の幅。m[ダッシュ](../Page/ダッシュ_\(記号\).md "wikilink") (―)、m[スペース](../Page/スペース.md "wikilink") () など。幅の狭い [n](https://ja.wikipedia.org/wiki/n "wikilink")に対する。
-  - 自動車メーカー・[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の1970年代中期まで使用された丸型ロゴは小文字で[サンセリフ](../Page/サンセリフ.md "wikilink")の"m"の書き始めと書き終わりをそれぞれ長くし、丸の中に収めたもの。
+  - 自動車メーカー・[マツダ](../Page/マツダ.md "wikilink")の1970年代中期まで使用された丸型ロゴは小文字で[サンセリフ](../Page/サンセリフ.md "wikilink")の"m"の書き始めと書き終わりをそれぞれ長くし、丸の中に収めたもの。
   - [英語](../Page/英語.md "wikilink")で [{{en](https://ja.wikipedia.org/wiki/be動詞 "wikilink") の短縮形 。
   - [真夜中](../Page/真夜中.md "wikilink") ()。[正午](../Page/正午.md "wikilink") () と対になる。
   - フラクトゥールで[極大イデアル](https://ja.wikipedia.org/wiki/極大イデアル "wikilink")（とくに[局所環](https://ja.wikipedia.org/wiki/局所環 "wikilink")の極大イデアル）

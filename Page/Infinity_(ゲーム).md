@@ -226,7 +226,7 @@ PS2版は韓国でも発売予定だったが、[ローカライズ](https://ja.
             作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")/歌：川上とも子
       - PSP版OP：**千億の星屑降らす夜ノ空**
           -
-            歌：[Asriel](https://ja.wikipedia.org/wiki/Asriel "wikilink")
+            歌：[Asriel](../Page/Asriel.md "wikilink")
       - PSP版ED：**綻びし華**
           -
             歌：Asriel

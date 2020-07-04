@@ -1,7 +1,7 @@
 > この記事は[WinShell](https://ja.wikipedia.org/wiki/WinShell)から翻訳されています。
 
 
-**WinShell**（ウィンシェル）は、[](../Page/TeX.md "wikilink") による[組版](../Page/組版.md "wikilink")を支援するための[統合環境](https://ja.wikipedia.org/wiki/統合環境 "wikilink")と呼ばれる[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の一つである。[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版Windows上では[WOW64](../Page/WOW64.md "wikilink")による[32ビット](../Page/32ビット.md "wikilink")互換アプリとして動作する。
+**WinShell**（ウィンシェル）は、[](../Page/TeX.md "wikilink") による[組版](../Page/組版.md "wikilink")を支援するための[統合環境](https://ja.wikipedia.org/wiki/統合環境 "wikilink")と呼ばれる[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の一つである。[64ビット](../Page/64ビット.md "wikilink")版Windows上では[WOW64](../Page/WOW64.md "wikilink")による[32ビット](../Page/32ビット.md "wikilink")互換アプリとして動作する。
 
 ## 機能
 

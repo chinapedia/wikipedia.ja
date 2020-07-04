@@ -9,7 +9,7 @@
 
 ### IDE
 
-[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")のハードディスクインタフェースは、当初[ST-506](../Page/ST-506.md "wikilink")、次いでST-506を高速化した[ESDIや](https://ja.wikipedia.org/wiki/Enhanced_Small_Disk_Interface "wikilink")[SCSI等が使用されていたが](../Page/Small_Computer_System_Interface.md "wikilink")、次第にST-506をインテリジェント化（ドライブとコントローラを統合）した[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[コンパック](../Page/コンパック.md "wikilink")と[コナー・ペリフェラル](https://ja.wikipedia.org/wiki/コナー・ペリフェラル "wikilink")が開発した**IDE** (Integrated Drive Electronics) が大勢を占めるようになった。
+[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")のハードディスクインタフェースは、当初[ST-506](../Page/ST-506.md "wikilink")、次いでST-506を高速化した[ESDIや](https://ja.wikipedia.org/wiki/Enhanced_Small_Disk_Interface "wikilink")[SCSI等が使用されていたが](../Page/Small_Computer_System_Interface.md "wikilink")、次第にST-506をインテリジェント化（ドライブとコントローラを統合）した[1986年](../Page/1986年.md "wikilink")に[コンパック](../Page/コンパック.md "wikilink")と[コナー・ペリフェラル](https://ja.wikipedia.org/wiki/コナー・ペリフェラル "wikilink")が開発した**IDE** (Integrated Drive Electronics) が大勢を占めるようになった。
 
 その後、各社独自の拡張が行われ、互換性に問題が出てきたため、[1989年](../Page/1989年.md "wikilink")に各HDDメーカが共通仕様である**ATA** (AT Attachment interface) を制定し、[1994年](../Page/1994年.md "wikilink")に[ANSIでATA](../Page/米国国家規格協会.md "wikilink")-1として規格化された。
 
@@ -300,7 +300,7 @@ UDMA 6において、[32ビット](../Page/32ビット.md "wikilink") 33MHzの[P
   - [ESDI](https://ja.wikipedia.org/wiki/Enhanced_Small_Disk_Interface "wikilink")
   - [シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")
   - [RAID](../Page/RAID.md "wikilink")
-  - [ATA over Ethernet](https://ja.wikipedia.org/wiki/ATA_over_Ethernet "wikilink")
+  - [ATA over Ethernet](../Page/ATA_over_Ethernet.md "wikilink")
   - [転送速度](https://ja.wikipedia.org/wiki/転送速度 "wikilink")
 
 ## 外部リンク

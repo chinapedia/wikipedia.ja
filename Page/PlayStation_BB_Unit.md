@@ -91,7 +91,7 @@ PlayStation BB Unitは[ネットワークアダプタとそれに取り付ける
 
 以下のタイトルはネットワークアダプターの機能のみを使用しており、HDDがなくてもオンライン機能が利用できる（現在はサービス終了）。なお★印は[KDDI](../Page/KDDI.md "wikilink")の[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")サービスを採用している。（[SNKプレイモアのタイトルは](../Page/SNK_\(2001年設立の企業\).md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")終了、[カプコン](../Page/カプコン.md "wikilink")及び[バンダイ](../Page/バンダイ.md "wikilink")のタイトルは[2011年](../Page/2011年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")サービス終了 ）
 
-  - [アウトモデリスタ](https://ja.wikipedia.org/wiki/アウトモデリスタ "wikilink")★（無印は[2004年](../Page/2004年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")付でサービス終了、U.S.-tunedは[2011年](../Page/2011年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")サービス終了）
+  - [アウトモデリスタ](../Page/アウトモデリスタ.md "wikilink")★（無印は[2004年](../Page/2004年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")付でサービス終了、U.S.-tunedは[2011年](../Page/2011年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")サービス終了）
   - [オンラインプロレスリング](https://ja.wikipedia.org/wiki/オンラインプロレスリング "wikilink")（[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")付でサービス終了）
   - [機動戦士ガンダム ガンダムvs.Ζガンダム](../Page/機動戦士ガンダム_ガンダムvs.Ζガンダム.md "wikilink")★（[2011年](../Page/2011年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")付でサービス終了）
   - [機動戦士Ζガンダム エゥーゴvs.ティターンズ](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズ.md "wikilink")★（[2011年](../Page/2011年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")付でサービス終了）

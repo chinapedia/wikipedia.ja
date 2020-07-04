@@ -41,7 +41,7 @@
 
   - [西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")：ヘ
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ゴー
+  - [エス](../Page/エスペラント.md "wikilink")：ゴー
 
   - [越](../Page/ベトナム語.md "wikilink")：ゼー
 

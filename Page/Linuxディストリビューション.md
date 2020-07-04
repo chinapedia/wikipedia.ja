@@ -137,7 +137,7 @@
           - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用している。
 
               - [ChaletOS](https://ja.wikipedia.org/wiki/ChaletOS "wikilink")\[7\]\[8\]\[9\] : [Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")に似た[操作性で](../Page/ユーザインタフェース.md "wikilink")、Windowsアプリを動かす[Wine](../Page/Wine.md "wikilink")も標準搭載。Xubuntuから派生。
-              - [Voyager](https://ja.wikipedia.org/wiki/Voyager_\(オペレーティングシステム\) "wikilink")\[10\]\[11\]\[12\] : Xubuntuから派生した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")産のOS。Xfce採用であるが、MacOS風の画面が美しい。[32bit版と](../Page/32ビット.md "wikilink")[64bit版がある](https://ja.wikipedia.org/wiki/64ビット "wikilink")。
+              - [Voyager](https://ja.wikipedia.org/wiki/Voyager_\(オペレーティングシステム\) "wikilink")\[10\]\[11\]\[12\] : Xubuntuから派生した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")産のOS。Xfce採用であるが、MacOS風の画面が美しい。[32bit版と](../Page/32ビット.md "wikilink")[64bit版がある](../Page/64ビット.md "wikilink")。
 
           - [Zorin OS](https://ja.wikipedia.org/wiki/Zorin_OS "wikilink") : Windows風の操作性を提供するディストリビューション。[Wine](../Page/Wine.md "wikilink")を追加するとWindowsアプリも動作する。
 
@@ -193,7 +193,7 @@
   - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink") : Mandriva Linuxをベースに開発。デスクトップ指向。
   - [Vine Linux](../Page/Vine_Linux.md "wikilink") : 日本国産のLinuxディストリビューション。
   - [RedHawk Linux](https://ja.wikipedia.org/wiki/RedHawk_Linux "wikilink") : [RHELのカーネルをリアルタイムLinuxカーネルに置き換えた](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。商用。
-  - [Oracle Linux](https://ja.wikipedia.org/wiki/Oracle_Linux "wikilink"): [Oracle](https://ja.wikipedia.org/wiki/Oracle "wikilink")がOracle製品に最適化したUnbreakable Enterprise Kernel（UEK）を採用。
+  - [Oracle Linux](../Page/Oracle_Linux.md "wikilink"): [Oracle](https://ja.wikipedia.org/wiki/Oracle "wikilink")がOracle製品に最適化したUnbreakable Enterprise Kernel（UEK）を採用。
 
 ### 開発停止
 

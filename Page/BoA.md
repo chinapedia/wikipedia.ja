@@ -1,7 +1,7 @@
 > この記事は[BoA](https://ja.wikipedia.org/wiki/BoA)から翻訳されています。
 
 
-**BoA**（ボア、本名、權珤雅（クォン・ボア） 、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")\[1\] - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")で、[大韓民国](../Page/大韓民国.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")を中心に活動している。[2000年](../Page/2000年.md "wikilink")に韓国でデビューをし、翌[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に日本デビュー\[2\]。血液型は[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[3\]。「A」が大文字なのは、韓国名の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記の慣習による。
+**BoA**（ボア、本名、權珤雅（クォン・ボア） 、[1986年](../Page/1986年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")\[1\] - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")で、[大韓民国](../Page/大韓民国.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")を中心に活動している。[2000年](../Page/2000年.md "wikilink")に韓国でデビューをし、翌[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に日本デビュー\[2\]。血液型は[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[3\]。「A」が大文字なのは、韓国名の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記の慣習による。
 
 ## 来歴
 
@@ -70,7 +70,7 @@
   - [2012年](../Page/2012年.md "wikilink")
       - [8月5日](../Page/8月5日.md "wikilink")：7集アルバム「[Only One](https://ja.wikipedia.org/wiki/Only_One_\(BoAのアルバム\) "wikilink")」を発売\[9\]。
   - [2013年](../Page/2013年.md "wikilink")
-      - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")・[27日の両日](../Page/1月27日.md "wikilink")、[ソウル市内にある](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[オリンピック公園内のオリンピックホールにおいて](https://ja.wikipedia.org/wiki/オリンピック公園_\(ソウル特別市\) "wikilink")「BoA Special Live 2013\~Here I Am\~」を開催。2000年のデビュー以来、日本国内では幾度も単独公演を開催しているが、韓国国内において単独公演を行ったことは一度も無く、これが自身初の母国・韓国国内における単独公演となった\[10\]。
+      - [1月26日](../Page/1月26日.md "wikilink")・[27日の両日](../Page/1月27日.md "wikilink")、[ソウル市内にある](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[オリンピック公園内のオリンピックホールにおいて](https://ja.wikipedia.org/wiki/オリンピック公園_\(ソウル特別市\) "wikilink")「BoA Special Live 2013\~Here I Am\~」を開催。2000年のデビュー以来、日本国内では幾度も単独公演を開催しているが、韓国国内において単独公演を行ったことは一度も無く、これが自身初の母国・韓国国内における単独公演となった\[10\]。
       - [1月28日](../Page/1月28日.md "wikilink")、配信限定曲「Disturbance」を公開。MVでは、[SHINee](../Page/SHINee.md "wikilink")のテミンと共演。
       - [7月31日](../Page/7月31日.md "wikilink")、「2013 光州ビエンナーレ」ロゴソング「Action」を公開。
   - [2015年](../Page/2015年.md "wikilink")

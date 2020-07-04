@@ -1,7 +1,7 @@
 > この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
 
 
-**KDDI株式会社**（ケイディーディーアイ、英:KDDI CORPORATION）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気通信事業者](../Page/電気通信事業者.md "wikilink")。 [日経平均株価](../Page/日経平均株価.md "wikilink")及び[TOPIX Core30の構成銘柄の一つである](https://ja.wikipedia.org/wiki/TOPIX_Core30 "wikilink")。
+**KDDI株式会社**（ケイディーディーアイ、英:KDDI CORPORATION）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気通信事業者](../Page/電気通信事業者.md "wikilink")。 [日経平均株価](../Page/日経平均株価.md "wikilink")及び[TOPIX Core30の構成銘柄の一つである](../Page/TOPIX_Core30.md "wikilink")。
 
 ## 概要
 

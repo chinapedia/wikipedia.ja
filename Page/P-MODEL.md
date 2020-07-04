@@ -225,7 +225,7 @@ After Dinner<br />
 シンセサイザー</p></td>
 <td><p><br />
 東京都</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>1月 - 1988年12月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>1月 - 1988年12月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LONG_VACATION" title="wikilink">LONG VACATION</a><br />
 Sonic Sky</p></td>
 </tr>
@@ -257,7 +257,7 @@ Systems</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ことぶき光" title="wikilink">ことぶき 光</a></strong><br />
+<td><p><strong><a href="../Page/ことぶき光.md" title="wikilink">ことぶき 光</a></strong><br />
 （ことぶき ひかる）</p></td>
 <td><p>キーボード<br />
 シンセサイザー<br />
@@ -756,7 +756,7 @@ TAKA</p></td>
 
 <!-- end list -->
 
-  - **[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")**
+  - **[1986年](../Page/1986年.md "wikilink")**
 
 <!-- end list -->
 

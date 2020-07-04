@@ -106,7 +106,7 @@
 
 上京した頃、当時死亡率第1位だった[結核](../Page/結核.md "wikilink")にかかったことがあったが、気力で回復したという\[28\]。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に検査入院で[胃癌](../Page/胃癌.md "wikilink")が見つかる\[29\]\[30\]。しかし、仕事の関係者には全く話さなかったという\[31\]。これ以降何かと体調を崩すようになっていた\[32\]。また、[1992年](../Page/1992年.md "wikilink")には[肝臓癌](https://ja.wikipedia.org/wiki/肝臓癌 "wikilink")が見つかり、当時『コロコロコミック』で連載していた大長編ドラえもん作品「[のび太と雲の王国](../Page/ドラえもん_のび太と雲の王国.md "wikilink")」が中断、藤子プロによる絵物語（ビジュアルストーリー）を掲載する事態となった。
+[1986年](../Page/1986年.md "wikilink")に検査入院で[胃癌](../Page/胃癌.md "wikilink")が見つかる\[29\]\[30\]。しかし、仕事の関係者には全く話さなかったという\[31\]。これ以降何かと体調を崩すようになっていた\[32\]。また、[1992年](../Page/1992年.md "wikilink")には[肝臓癌](https://ja.wikipedia.org/wiki/肝臓癌 "wikilink")が見つかり、当時『コロコロコミック』で連載していた大長編ドラえもん作品「[のび太と雲の王国](../Page/ドラえもん_のび太と雲の王国.md "wikilink")」が中断、藤子プロによる絵物語（ビジュアルストーリー）を掲載する事態となった。
 
 ## 手塚治虫との関係
 
@@ -124,7 +124,7 @@
 
 ## 長年にわたるスランプ
 
-藤本は、当初こそ『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』（[1964年](../Page/1964年.md "wikilink")）、『[パーマン](../Page/パーマン.md "wikilink")』（[1966年](../Page/1966年.md "wikilink")）等のヒット作に恵まれたが、それ以降の『[21エモン](../Page/21エモン.md "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）、『[ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）、『[モジャ公](../Page/モジャ公.md "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）といった作品はあまりヒットせず、いずれも短命に終わった。藤子スタジオも、[えびはら武司](../Page/えびはら武司.md "wikilink")などの一部のアシスタントを除いて、『[怪物くん](../Page/怪物くん.md "wikilink")』（[1965年](../Page/1965年.md "wikilink")）、『[黒ィせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）、『[魔太郎がくる\!\!](../Page/魔太郎がくる!!.md "wikilink")』（[1972年](../Page/1972年.md "wikilink")）といったヒット作に当時恵まれていた安孫子の方を中心に手伝うようになった。藤本はスランプに陥り、「[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")」の編集長に「サンデー作家陣から外してほしい。」という手紙を送りつけるようになる。
+藤本は、当初こそ『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』（[1964年](../Page/1964年.md "wikilink")）、『[パーマン](../Page/パーマン.md "wikilink")』（[1966年](../Page/1966年.md "wikilink")）等のヒット作に恵まれたが、それ以降の『[21エモン](../Page/21エモン.md "wikilink")』（[1968年](../Page/1968年.md "wikilink")）、『[ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")』（[1968年](../Page/1968年.md "wikilink")）、『[モジャ公](../Page/モジャ公.md "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）といった作品はあまりヒットせず、いずれも短命に終わった。藤子スタジオも、[えびはら武司](../Page/えびはら武司.md "wikilink")などの一部のアシスタントを除いて、『[怪物くん](../Page/怪物くん.md "wikilink")』（[1965年](../Page/1965年.md "wikilink")）、『[黒ィせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")』（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）、『[魔太郎がくる\!\!](../Page/魔太郎がくる!!.md "wikilink")』（[1972年](../Page/1972年.md "wikilink")）といったヒット作に当時恵まれていた安孫子の方を中心に手伝うようになった。藤本はスランプに陥り、「[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")」の編集長に「サンデー作家陣から外してほしい。」という手紙を送りつけるようになる。
 
 その後、藤本に青年誌である『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』から執筆依頼が来た。藤本は自分の児童向け作調に合っていないという判断で最初は断っていたが、編集者の熱心な要望により渋々引き受けることにした。そこで描かれたのが短編の『[ミノタウロスの皿](../Page/ミノタウロスの皿.md "wikilink")』である。この作品は編集部でも好評であり、「自分にもこんなものが書けるのかという、新しいオモチャを手に入れたような喜びがありました。」と語っている。
 
@@ -192,9 +192,9 @@
   - [すすめロボケット](https://ja.wikipedia.org/wiki/すすめロボケット "wikilink")（[1962年](../Page/1962年.md "wikilink") - [1965年](../Page/1965年.md "wikilink")）
   - [オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")([1964年](../Page/1964年.md "wikilink") - [1967年](../Page/1967年.md "wikilink"))
   - 新[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")（1971年 - [1974年](../Page/1974年.md "wikilink")）
-  - [パーマン](../Page/パーマン.md "wikilink")（[1966年](../Page/1966年.md "wikilink") - 1968年、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - [パーマン](../Page/パーマン.md "wikilink")（[1966年](../Page/1966年.md "wikilink") - 1968年、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1986年](../Page/1986年.md "wikilink")）
   - チンタラ神ちゃん ([1967年](../Page/1967年.md "wikilink"))
-  - [21エモン](../Page/21エモン.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
+  - [21エモン](../Page/21エモン.md "wikilink")（[1968年](../Page/1968年.md "wikilink")）
   - [ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")（1968年）
   - ベラボー (1968年 - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"))
   - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1996年](../Page/1996年.md "wikilink")）
@@ -225,7 +225,7 @@
   - [モジャ公](../Page/モジャ公.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
   - [劇画・オバQ](https://ja.wikipedia.org/wiki/オバケのQ太郎#劇画・オバQ "wikilink")（[1973年](../Page/1973年.md "wikilink")）
   - [中年スーパーマン左江内氏](../Page/中年スーパーマン左江内氏.md "wikilink")（1977年 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
-  - [T・Pぼん](../Page/T・Pぼん.md "wikilink")（タイムパトロールぼん）（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - 1979年、1980年 - 1983年、1984年 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - [T・Pぼん](../Page/T・Pぼん.md "wikilink")（タイムパトロールぼん）（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - 1979年、1980年 - 1983年、1984年 - [1986年](../Page/1986年.md "wikilink")）
   - [ミラ・クル・1](../Page/ミラ・クル・1.md "wikilink")（[1979年](../Page/1979年.md "wikilink")）
   - [大長編ドラえもん](../Page/大長編ドラえもん.md "wikilink")([1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [1996年](../Page/1996年.md "wikilink"))
   - [未来の想い出](../Page/未来の想い出.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）
@@ -234,7 +234,7 @@
 
 ### SF短編
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）にかけて、112作のSF短編読み切りを発表。
+[1968年](../Page/1968年.md "wikilink")（昭和43年）から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）にかけて、112作のSF短編読み切りを発表。
 
 ### 作詞
 

@@ -19,7 +19,7 @@
 
 初期のバージョンは[Apollo/Domainシステムに対応していた](../Page/アポロコンピュータ.md "wikilink")。[モトローラ](../Page/モトローラ.md "wikilink")[68000シリーズのプロセッサに基づいた](../Page/MC68000.md "wikilink")[HP 9000シリーズ](../Page/HP_9000.md "wikilink")200、300、400システムや、HPのFOCUSアーキテクチャに基づいたHP 9000シリーズ500システムでも用いられていた。
 
-2009年現在はPA-RISCレンジのプロセッサと[IA-64](../Page/IA-64.md "wikilink")プロセッサに対応している。バージョンはHP-UX 11i v3 (B.11.31)である。11iとは 11.0のインターネット対応機能強化版の位置付け。11i v1 (B.11.11)において、NTTドコモのiモード[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")システム([CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_\(システム\) "wikilink"))の提案を行う際に強化した機能を標準化し、その上に[スレッド動作をN](../Page/スレッド_\(コンピュータ\).md "wikilink"):Mスレッドに変更している。
+2009年現在はPA-RISCレンジのプロセッサと[IA-64](../Page/IA-64.md "wikilink")プロセッサに対応している。バージョンはHP-UX 11i v3 (B.11.31)である。11iとは 11.0のインターネット対応機能強化版の位置付け。11i v1 (B.11.11)において、NTTドコモのiモード[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")システム([CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_\(システム\) "wikilink"))の提案を行う際に強化した機能を標準化し、その上に[スレッド動作をN](../Page/スレッド_\(コンピュータ\).md "wikilink"):Mスレッドに変更している。
 
 ## 出典
 

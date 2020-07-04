@@ -248,7 +248,7 @@ MANの初期案であるVK3002(MAN)、秘匿名称“トラディショナルな
 ## ギャラリー
 
 ファイル:Bundesarchiv Bild 101I-635-3966-27, Panzerfabrik in Deutschland.jpg|パンターの製造ライン
-（車体前面の形状とペリスコープの数からD型であることがわかる） ファイル:Bundesarchiv Bild 101I-244-2321-34, Ostfront-Süd, Panzer V (Panther).jpg|東部戦線でのパンターA型 1943年 ファイル:Bundesarchiv Bild 101I-301-1954-06, Nordfrankreich, Panzer V (Panther) in Ortschaft.jpg|ノルマンディー（フランス）でのパンターG型 ファイル:Bundesarchiv Bild 146-1976-124-12A, Russland, Infanterie und Panzer im Kampf.jpg|戦闘中のパンターD型 ファイル:Bundesarchiv Bild 101I-711-0427-04, Oberst Karl Lorenz vor Panzer V "Panther".jpg|[グロースドイッチュラント師団](https://ja.wikipedia.org/wiki/グロースドイッチュラント師団 "wikilink")のパンターA型。[1944年](../Page/1944年.md "wikilink")[ウクライナ](../Page/ウクライナ.md "wikilink") ファイル:Romanian_Panther_tanks.jpg|[1946年](../Page/1946年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")、ルーマニアの首都ブカレストでの軍事パレードに参加した、第1ルーマニア義勇師団“トゥドル・ウラジミレスク”所属のパンター。先頭はD型、後続の2両はG型
+（車体前面の形状とペリスコープの数からD型であることがわかる） ファイル:Bundesarchiv Bild 101I-244-2321-34, Ostfront-Süd, Panzer V (Panther).jpg|東部戦線でのパンターA型 1943年 ファイル:Bundesarchiv Bild 101I-301-1954-06, Nordfrankreich, Panzer V (Panther) in Ortschaft.jpg|ノルマンディー（フランス）でのパンターG型 ファイル:Bundesarchiv Bild 146-1976-124-12A, Russland, Infanterie und Panzer im Kampf.jpg|戦闘中のパンターD型 ファイル:Bundesarchiv Bild 101I-711-0427-04, Oberst Karl Lorenz vor Panzer V "Panther".jpg|[グロースドイッチュラント師団](../Page/グロースドイッチュラント師団.md "wikilink")のパンターA型。[1944年](../Page/1944年.md "wikilink")[ウクライナ](../Page/ウクライナ.md "wikilink") ファイル:Romanian_Panther_tanks.jpg|[1946年](../Page/1946年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")、ルーマニアの首都ブカレストでの軍事パレードに参加した、第1ルーマニア義勇師団“トゥドル・ウラジミレスク”所属のパンター。先頭はD型、後続の2両はG型
 
 ## 現存車両
 

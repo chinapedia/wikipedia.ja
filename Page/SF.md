@@ -30,7 +30,7 @@
   - [サウンドファクトリー](../Page/サウンドファクトリー.md "wikilink")（Sound Factory） - [JR東日本に](../Page/東日本旅客鉄道.md "wikilink")[発車メロディ](../Page/発車メロディ.md "wikilink")を供給している会社。(代表的なものはSF10-60など) 。
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")（JOSF）
   - [スターフライヤー](../Page/スターフライヤー.md "wikilink")（SFJ） - 日本の航空会社。
-  - [Syfy](https://ja.wikipedia.org/wiki/Syfy "wikilink")（旧称「The Sci Fi Channel」「SCI FI」） - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局。
+  - [Syfy](../Page/Syfy.md "wikilink")（旧称「The Sci Fi Channel」「SCI FI」） - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局。
   - [サンフランシスコ・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")
   - [サンフランシスコ・フォーティナイナーズ](../Page/サンフランシスコ・フォーティナイナーズ.md "wikilink")
 
@@ -67,7 +67,7 @@
 
 ##### S.F.
 
-  - 『S.F.』 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")発売の[忌野清志郎 JOHNNY LOUIS & CHARの楽曲](../Page/忌野清志郎.md "wikilink")。
+  - 『S.F.』 - [1986年](../Page/1986年.md "wikilink")発売の[忌野清志郎 JOHNNY LOUIS & CHARの楽曲](../Page/忌野清志郎.md "wikilink")。
 
 ##### S.F
 

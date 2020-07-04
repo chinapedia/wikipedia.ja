@@ -131,7 +131,7 @@
 
 ## コンピュータゲーム
 
-マテルからライセンスを受けたコンピュータゲーム版は[トミー](../Page/トミー_\(企業\).md "wikilink")、[ゲームロフト](https://ja.wikipedia.org/wiki/ゲームロフト "wikilink")などから発売されている。一部はオンライン対戦も可能。最大4人（一部機種のみ6人）で対戦ができる。プレイヤーの識別はあらかじめ与えられた色とマークを組み合わせるが、一部の機種では次のようなこともできる。
+マテルからライセンスを受けたコンピュータゲーム版は[トミー](../Page/トミー_\(企業\).md "wikilink")、[ゲームロフト](../Page/ゲームロフト.md "wikilink")などから発売されている。一部はオンライン対戦も可能。最大4人（一部機種のみ6人）で対戦ができる。プレイヤーの識別はあらかじめ与えられた色とマークを組み合わせるが、一部の機種では次のようなこともできる。
 
   - [PlayStation 3版](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版ではそれぞれの[アバター](../Page/アバター.md "wikilink")（Wiiの場合は[Mii](../Page/Mii.md "wikilink")）を使用することができる。
   - [ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")版では写真（[DSiカメラに保存されているのではなく](https://ja.wikipedia.org/wiki/ニンテンドーDSiカメラ "wikilink")、新しくとるもの）を撮ってそれをマークとして使用することができる。

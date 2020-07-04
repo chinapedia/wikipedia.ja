@@ -177,7 +177,7 @@
     直義の配下
     演：[伊藤哲哉](https://ja.wikipedia.org/wiki/伊藤哲哉 "wikilink")
   - [大高重成](https://ja.wikipedia.org/wiki/大高重成 "wikilink")
-    演：[渡辺寛二](https://ja.wikipedia.org/wiki/渡辺寛二 "wikilink")
+    演：[渡辺寛二](../Page/渡辺寛二.md "wikilink")
     直義の配下
 
 ### 北朝・持明院統他

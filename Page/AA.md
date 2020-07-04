@@ -52,7 +52,7 @@
       - [あすかActavis製薬](https://ja.wikipedia.org/wiki/あすかActavis製薬 "wikilink")が製造・販売を手掛ける[後発医薬品](../Page/後発医薬品.md "wikilink")につけられるメーカー符丁。
   - （人の）ユニット名
       - [アコースティック・アルケミー](../Page/アコースティック・アルケミー.md "wikilink") (Acoustic Alchemy)
-      - 政治思想の近しい[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")と[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")の2人を指すことがある。
+      - 政治思想の近しい[安倍晋三](../Page/安倍晋三.md "wikilink")と[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")の2人を指すことがある。
       - AA（ダブルエー）- [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の元[プロレスラー](../Page/プロレスラー.md "wikilink")、[アーン・アンダーソン](../Page/アーン・アンダーソン.md "wikilink") (Arn Anderson)の愛称。
 
 <!-- end list -->

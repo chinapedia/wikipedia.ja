@@ -5,7 +5,7 @@
 
 ## 記号
 
-  - **Ag** - **[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")**の[元素記号](../Page/元素記号.md "wikilink")。
+  - **Ag** - **[銀](../Page/銀.md "wikilink")**の[元素記号](../Page/元素記号.md "wikilink")。
 
 ## 正式名称
 
@@ -50,7 +50,7 @@
   - [世界気象機関](../Page/世界気象機関.md "wikilink")の国名コードで、[アルゼンチン](../Page/アルゼンチン.md "wikilink")を示す。
   - [IATA航空会社コードで](../Page/航空会社コード.md "wikilink")、[コントラクターズ航空](https://ja.wikipedia.org/wiki/コントラクターズ航空 "wikilink") () を示す。
   - 国際標準化機構の行政区画コード（[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")）などのコードで、以下の各国の行政区画を示す。
-      - ルーマニアの[アルジェシュ県](https://ja.wikipedia.org/wiki/アルジェシュ県 "wikilink") - [ISO 3166-2:RO](https://ja.wikipedia.org/wiki/ISO_3166-2:RO "wikilink")
+      - ルーマニアの[アルジェシュ県](../Page/アルジェシュ県.md "wikilink") - [ISO 3166-2:RO](https://ja.wikipedia.org/wiki/ISO_3166-2:RO "wikilink")
       - スイスの[アールガウ州](../Page/アールガウ州.md "wikilink") - [ISO 3166-2:CH](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")
       - イタリアの[アグリジェント県](../Page/アグリジェント県.md "wikilink") - [ISO 3166-2:IT](../Page/ISO_3166-2:IT.md "wikilink")、[県名略記号](../Page/イタリア共和国の県名略記号.md "wikilink")
   - [近鉄2430系電車](https://ja.wikipedia.org/wiki/近鉄2430系電車 "wikilink")（4両編成）の[電算記号](https://ja.wikipedia.org/wiki/編成_\(鉄道\)#編成番号 "wikilink")。

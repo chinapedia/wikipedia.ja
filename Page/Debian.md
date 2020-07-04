@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")、必須なユーティリティ類のutil-linux（[:en:Util-linux](https://ja.wikipedia.org/wiki/:en:Util-linux "wikilink")）、プログラムのビルドに必要な[GCCや](../Page/GNUコンパイラコレクション.md "wikilink")[GNU Binutils](../Page/GNU_Binutils.md "wikilink")、[coreutilsなどのその他の](../Page/GNU_Core_Utilities.md "wikilink")[Unix系](../Page/Unix系.md "wikilink")ユーティリティをはじめ、その他[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")向けや[サーバ](../Page/サーバ.md "wikilink")運用向けなど多数の、計51,000以上のパッケージを提供している\[1\]。ターゲットアーキテクチャとして現在10の[アーキテクチャ向けにリリースされており](../Page/コンピュータ・アーキテクチャ.md "wikilink")\[2\]、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")や[AMDの](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[32ビット](../Page/32ビット.md "wikilink")・[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")[プロセッサ](../Page/プロセッサ.md "wikilink")、組み込み機器で使われる[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")などがそれには含まれている。低水準のパッケージ管理システムは[dpkg](https://ja.wikipedia.org/wiki/dpkg "wikilink")、高水準のパッケージ管理システムは[APT](../Page/APT.md "wikilink")である。[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")は各種のものがパッケージにあるが、Debian 8ではインストール時に選べるのは[GNOME](../Page/GNOME.md "wikilink")、[Xfce](../Page/Xfce.md "wikilink")、[KDE](../Page/KDE.md "wikilink")、[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")、[MATE](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")、[LXQt](https://ja.wikipedia.org/wiki/LXQt "wikilink")である。
+[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")、必須なユーティリティ類のutil-linux（[:en:Util-linux](https://ja.wikipedia.org/wiki/:en:Util-linux "wikilink")）、プログラムのビルドに必要な[GCCや](../Page/GNUコンパイラコレクション.md "wikilink")[GNU Binutils](../Page/GNU_Binutils.md "wikilink")、[coreutilsなどのその他の](../Page/GNU_Core_Utilities.md "wikilink")[Unix系](../Page/Unix系.md "wikilink")ユーティリティをはじめ、その他[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")向けや[サーバ](../Page/サーバ.md "wikilink")運用向けなど多数の、計51,000以上のパッケージを提供している\[1\]。ターゲットアーキテクチャとして現在10の[アーキテクチャ向けにリリースされており](../Page/コンピュータ・アーキテクチャ.md "wikilink")\[2\]、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")や[AMDの](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[32ビット](../Page/32ビット.md "wikilink")・[64ビット](../Page/64ビット.md "wikilink")[プロセッサ](../Page/プロセッサ.md "wikilink")、組み込み機器で使われる[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")などがそれには含まれている。低水準のパッケージ管理システムは[dpkg](https://ja.wikipedia.org/wiki/dpkg "wikilink")、高水準のパッケージ管理システムは[APT](../Page/APT.md "wikilink")である。[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")は各種のものがパッケージにあるが、Debian 8ではインストール時に選べるのは[GNOME](../Page/GNOME.md "wikilink")、[Xfce](../Page/Xfce.md "wikilink")、[KDE](../Page/KDE.md "wikilink")、[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")、[MATE](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")、[LXQt](https://ja.wikipedia.org/wiki/LXQt "wikilink")である。
 
 その他の特徴として、Debianをベースとして、さらにカスタマイズを加えた派生Linuxディストリビューションの作成が考慮されている、という点があり、[Ubuntu](../Page/Ubuntu.md "wikilink")他多くの派生ディストリビューションが存在する。
 
@@ -87,7 +87,7 @@ Debianのstableリリースの長期化と派生であるUbuntuの誕生は、De
 
 [2014年](../Page/2014年.md "wikilink")4月24日、Debian 6.0のサポートが2016年2月まで延長されることが発表され\[15\]、[2014年](../Page/2014年.md "wikilink")6月16日より長期サポート(LTS)期間に入った\[16\]。
 
-[2015年](../Page/2015年.md "wikilink")4月25日、Debian 8.0（コードネーム: jessie）が公開された。このバージョンよりAArch64（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版ARMアーキテクチャ）とPOWER 64 ビットリトルエンディアン版が正式にサポートされた。またs390 アーキテクチャのサポートが終了し、s390xに置き換えられた。なお、ia64 および sparc が、開発者不足から、正式リリースに含まれなくなった。
+[2015年](../Page/2015年.md "wikilink")4月25日、Debian 8.0（コードネーム: jessie）が公開された。このバージョンよりAArch64（[64ビット](../Page/64ビット.md "wikilink")版ARMアーキテクチャ）とPOWER 64 ビットリトルエンディアン版が正式にサポートされた。またs390 アーキテクチャのサポートが終了し、s390xに置き換えられた。なお、ia64 および sparc が、開発者不足から、正式リリースに含まれなくなった。
 
 [2017年](../Page/2017年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、Debian 9.0（コードネーム: stretch）が公開された。このバージョンより64 ビットリトルエンディアン MIPSがサポートに追加された。逆にPowerPC（の[32ビット](../Page/32ビット.md "wikilink")版）がサポートから外れた（PowerPC 64ビット版は引き続きサポートが継続される）。
 
@@ -167,7 +167,7 @@ APTには補助的機能を追加する[フロントエンド](../Page/フロン
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Screenshot-Synaptic_ja.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Screenshot-apt-watch_notification.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Updates-notification-icon.png "wikilink") ユーザーフレンドリーなユーザーインターフェイスは複数存在する。
 
-一般的に良く知られる代表としては、Debianだけでなく RPM系のディストリビューションでも使われている [Synaptic](https://ja.wikipedia.org/wiki/Synaptic "wikilink")（シナプティック）がある。Synapticは、apt-getコマンドを使用せずにシステムの更新が全てマウスで直感的に行えるだけでなく、ソフトウェアの削除機能も備えている。
+一般的に良く知られる代表としては、Debianだけでなく RPM系のディストリビューションでも使われている [Synaptic](../Page/Synaptic.md "wikilink")（シナプティック）がある。Synapticは、apt-getコマンドを使用せずにシステムの更新が全てマウスで直感的に行えるだけでなく、ソフトウェアの削除機能も備えている。
 
 「apt-watch（アプト-ウォッチ）」は、デスクトップで使用するユーザーにとって、アップデートのリリースを直ちに通知してくれるアプレットとして極めて有効なツールである。apt-watch は、より簡易にパッケージの管理を実現するツールとして開発されたアプリケーションである。これは、ネットワークに接続し、アップデータを定期的に監視するアプレットであり、アップデータが利用可能となった時には、クライアントに自動的に更新の通知を行う。Windows Updatesや Red Hat Network と同様な機能を持っている。
 

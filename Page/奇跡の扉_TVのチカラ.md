@@ -5,7 +5,7 @@
 
 ## 概要
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")全国各地で発生した、[殺人](../Page/殺人.md "wikilink")・[失踪](https://ja.wikipedia.org/wiki/失踪 "wikilink")などの[未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")を[生放送](../Page/生放送.md "wikilink")で[テレビ](../Page/テレビ.md "wikilink")の力で視聴者に呼びかける番組。未解決事件の被害者の家族が事件の早期解決のために情報を呼びかけたこともあり、また[事件](../Page/事件.md "wikilink")・[事故](../Page/事故.md "wikilink")・失踪などで[行方不明](../Page/行方不明.md "wikilink")となっている人物の家族が探してほしい人物を捜索を呼びかけることもあるが、[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")になった人が自分の身元の情報収集を呼びかけたり、心臓移植手術費用の募金を呼びかけたりすることもあった。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")全国各地で発生した、[殺人](../Page/殺人.md "wikilink")・[失踪](https://ja.wikipedia.org/wiki/失踪 "wikilink")などの[未解決事件](../Page/未解決事件.md "wikilink")を[生放送](../Page/生放送.md "wikilink")で[テレビ](../Page/テレビ.md "wikilink")の力で視聴者に呼びかける番組。未解決事件の被害者の家族が事件の早期解決のために情報を呼びかけたこともあり、また[事件](../Page/事件.md "wikilink")・[事故](../Page/事故.md "wikilink")・失踪などで[行方不明](../Page/行方不明.md "wikilink")となっている人物の家族が探してほしい人物を捜索を呼びかけることもあるが、[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")になった人が自分の身元の情報収集を呼びかけたり、心臓移植手術費用の募金を呼びかけたりすることもあった。
 
 番組スタッフや私立探偵なども奔走するが、基本的には「事件解決や行方不明者発見の情報の鍵を握っているのは、視聴者の目撃情報である」というスタンスをとっており、この手の内容の番組は他局でも特番シーズンに放送されているが、レギュラー番組として放送されるのは非常に珍しいことであった。
 
@@ -69,7 +69,7 @@
   - [亀戸美人マンガ家殺人事件](../Page/江東区亀戸漫画家女性殺人事件.md "wikilink")（2000年[9月29日](../Page/9月29日.md "wikilink")発生）
   - [世田谷一家殺害事件](../Page/世田谷一家殺害事件.md "wikilink")（[2000年](../Page/2000年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")発生）
   - [泉南郡熊取町小4女児誘拐事件](../Page/泉南郡熊取町小4女児誘拐事件.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")発生）
-  - [廿日市女子高生殺人事件](https://ja.wikipedia.org/wiki/廿日市女子高生殺人事件 "wikilink")（[2004年](../Page/2004年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発生・[2018年](../Page/2018年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")犯人逮捕）
+  - [廿日市女子高生殺人事件](../Page/廿日市女子高生殺人事件.md "wikilink")（[2004年](../Page/2004年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発生・[2018年](../Page/2018年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")犯人逮捕）
   - [津山小3女児殺害事件](../Page/津山小3女児殺害事件.md "wikilink")（[2004年](../Page/2004年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発生・[2018年](../Page/2018年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")犯人逮捕）
   - [品川同性愛者殺害事件](https://ja.wikipedia.org/wiki/品川同性愛者殺害事件 "wikilink")（[2005年](../Page/2005年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")発生・[2007年](../Page/2007年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")犯人逮捕）
   - [秋田児童連続殺害事件](https://ja.wikipedia.org/wiki/秋田児童連続殺害事件 "wikilink")（[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")発生・[2006年](../Page/2006年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")犯人逮捕）
@@ -129,7 +129,7 @@
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")「[Promise](https://ja.wikipedia.org/wiki/Promise/Star "wikilink")」（2005年7月 - 9月）
   - [リュ・シウォン](../Page/リュ・シウォン.md "wikilink")「秋桜（コスモス）」（2005年10月 - 12月）
   - [BoA](../Page/BoA.md "wikilink")「[Everlasting](../Page/Everlasting_\(BoAの曲\).md "wikilink")」（2006年1月 - 3月）
-  - [mink](https://ja.wikipedia.org/wiki/mink "wikilink")「[Like There Is No Tomorrow](https://ja.wikipedia.org/wiki/4_Love "wikilink")」（2006年4月 - 6月）
+  - [mink](https://ja.wikipedia.org/wiki/mink "wikilink")「[Like There Is No Tomorrow](../Page/4_Love.md "wikilink")」（2006年4月 - 6月）
   - [堀江里沙](../Page/堀江里沙.md "wikilink")「ありがとう」（2006年7月 - 9月）
 
 ## ネット局
@@ -396,7 +396,7 @@
 
 ## 関連項目
 
-  - [未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")
+  - [未解決事件](../Page/未解決事件.md "wikilink")
   - [月バラ\!](../Page/月バラ!.md "wikilink")
   - [特捜\!](../Page/特捜!.md "wikilink")
   - [完全特捜宣言\!あなたに逢いたい\!](../Page/完全特捜宣言!あなたに逢いたい!.md "wikilink")

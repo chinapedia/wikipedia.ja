@@ -224,7 +224,7 @@
 
 <!-- end list -->
 
-  - [STEINBERGER](https://ja.wikipedia.org/wiki/スタインバーガー "wikilink") GM-7TA
+  - [STEINBERGER](../Page/スタインバーガー.md "wikilink") GM-7TA
   - STEINBERGER GM-2S
 
 <!-- end list -->
@@ -695,7 +695,7 @@ JUST MOVIN' ON 〜ALL THE-S-HIT〜</a></strong></p></td>
     「『[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")』、『[劇場版パトレイバー](../Page/機動警察パトレイバー_the_Movie.md "wikilink")』とか押井監督の作品のDVDはほとんどすべて持っている。メカも出なければ美女も出ない、おじさんが立ち食い屋でボヤいてるだけの話。それがなんて魅力があるんだろう」と評している。2010年には押井と共同制作した短編アニメーション『[Je t'aime](https://ja.wikipedia.org/wiki/GLAY_\(アルバム\) "wikilink")』の劇中曲としてGLAYの楽曲『Satellite of love』が使用され、「そのときはもうすっごくうれしかったですね」と語っている\[16\]。
   - アニソンベスト3として「哀 戦士」（機動戦士ガンダムII 哀・戦士編）「もってけ！セーラーふく」（らき☆すた）「謡I-Making of Cyborg-」（[GHOST IN THE SHELL / 攻殻機動隊](https://ja.wikipedia.org/wiki/GHOST_IN_THE_SHELL_/_攻殻機動隊 "wikilink")）を挙げる\[17\]。
   - 海外ドラマ『[ブレイキング・バッド](https://ja.wikipedia.org/wiki/ブレイキング・バッド "wikilink")』、『[ウォーキング・デッド](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")』のファンであり、DVDボックスなどにコメントを寄せている。
-  - 2014年4月には[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")にアカウントを開設し、いわゆる「演奏してみた」系動画を投稿し始めている。中でも『[らき☆すた](../Page/らき☆すた.md "wikilink")』の主題歌『[もってけ\!セーラーふく](https://ja.wikipedia.org/wiki/もってけ!セーラーふく "wikilink")』の動画は、同年5月2日の公開からわずか2日で50万再生を超えるほどの話題となった\[18\]。
+  - 2014年4月には[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")にアカウントを開設し、いわゆる「演奏してみた」系動画を投稿し始めている。中でも『[らき☆すた](../Page/らき☆すた.md "wikilink")』の主題歌『[もってけ\!セーラーふく](../Page/もってけ!セーラーふく.md "wikilink")』の動画は、同年5月2日の公開からわずか2日で50万再生を超えるほどの話題となった\[18\]。
   - [紀里谷和明](../Page/紀里谷和明.md "wikilink")監督と親交があったことから、『[CASSHERN](../Page/CASSHERN.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")）に[TAKURO](../Page/TAKURO.md "wikilink")と共に[エキストラ](../Page/エキストラ.md "wikilink")（[虐殺](../Page/虐殺.md "wikilink")される民間人役）で出演。この時、間違えて「TAKURO\!」と叫んでいるが監督はOKを出した。これに対し、TAKUROは実際に感極まってしまったという。
   - [TAKURO](../Page/TAKURO.md "wikilink")とは音楽の嗜好が正反対で、TAKURO曰く「GLAYの中でのライバル」。また、TAKUROは自分が何か提案した時に反論してくれるのがHISASHIであると語っている。また、「彼は短い[小節](https://ja.wikipedia.org/wiki/小節 "wikilink")のなかで印象的な音を選ぶのが天才的にうまい。僕も聴いててギターを弾きたくなる」と賞賛している。
   - [JIRO](../Page/JIRO.md "wikilink")とは、2人きりになると気まずいムードになってしまう事が多いとのことだが、決して仲が悪いわけではない。バンド結成から10年近く経ってようやく2人きりで飲みに行ったと語っていた。
@@ -704,7 +704,7 @@ JUST MOVIN' ON 〜ALL THE-S-HIT〜</a></strong></p></td>
   - [SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")[DAITA](../Page/DAITA.md "wikilink")とは「同世代のギタリスト」であることに加え、「アニメ好き」ということで交流がある。また、GLAYファンクラブ会報Vol.19では「DAITA君は[サンライズ仲間](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")」と語っている。
   - 愛車は白の[ポルシェ・911](../Page/ポルシェ・911.md "wikilink")であり、車色が白でホイールが黒という点が気に入っているらしい。また、無類の車好きであり[グランツーリスモ](../Page/グランツーリスモ.md "wikilink")製作者、[ポリフォニー・デジタル](../Page/ポリフォニー・デジタル.md "wikilink")社代表取締役である[山内一典](../Page/山内一典.md "wikilink")氏とも対談し、初めての車は[ランチア・デルタ](../Page/ランチア・デルタ.md "wikilink")であったことを話した。また、自身が大好きな映画だと語る『[バック・トゥ・ザ・フューチャーシリーズ](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")』に登場する劇中車・[デロリアン](../Page/デロリアン.md "wikilink")社のDMC-12を手に入れようと奮闘したこともある。反面、[徳大寺有恒](../Page/徳大寺有恒.md "wikilink")との対談では「デロリアンを手に入れてしまったら、欲しいものがなくなっちゃうんじゃないか」という不安も明かしている。自身のテレビ番組で[ルノー](../Page/ルノー.md "wikilink")社の[5(サンク)ターボも好きで](../Page/ルノー・5.md "wikilink")、専門店まで探しに行った事を話し、自身の所有するロスマンズカラーのFLY社製ルノー5ターボ ラリー コスタブラバ '85の[スロットカー](../Page/スロットカー.md "wikilink")を番組内で披露した。
   - ちなみにメンバーの中ではもっとも遅くに運転免許を取得している。（元メンバーのAKIRA（本名・上島明）が在籍していた当時、運転免許を持っていなかったのはHISASHIとAKIRAの2名だった。）
-  - 自らTwitterで[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")・[RX-7](https://ja.wikipedia.org/wiki/RX-7 "wikilink")(FD後期型)を写真付きで「車内＆ボディ洗車完了！ハシる」とつぶやいていた。写真から確認できる改造点は[ドアミラー](../Page/ドアミラー.md "wikilink")をエアロミラーに、ラジオアンテナをロッド式から[ヘリカルアンテナ](../Page/ヘリカルアンテナ.md "wikilink")へ交換しているのが確認できる。後のツイートでホイールとバンパーを交換しているのも確認できる。
+  - 自らTwitterで[マツダ](../Page/マツダ.md "wikilink")・[RX-7](https://ja.wikipedia.org/wiki/RX-7 "wikilink")(FD後期型)を写真付きで「車内＆ボディ洗車完了！ハシる」とつぶやいていた。写真から確認できる改造点は[ドアミラー](../Page/ドアミラー.md "wikilink")をエアロミラーに、ラジオアンテナをロッド式から[ヘリカルアンテナ](../Page/ヘリカルアンテナ.md "wikilink")へ交換しているのが確認できる。後のツイートでホイールとバンパーを交換しているのも確認できる。
   - 2006年頃から帽子をかぶることが多くなり、2007年頃からステージに登場する際には杖を持っていることが多くなった。
   - メディアへの関心が非常に高く、自身のプロデュースライブをネット生中継した他、[ニコラジ](https://ja.wikipedia.org/wiki/ニコラジ "wikilink")生中継への出演、『RX-72』のDVD発売記念イベントを[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で生中継した。2011年7月30日のファンクラブ限定ライブ「We Love HAPPY SWING」では、ステージ上から[ウィキペディア](../Page/ウィキペディア.md "wikilink")を読み上げた。
   - 現メンバーの中ではもっとも運動神経が良くないと言われている。元メンバーのAKIRA（本名・上島明）の著書によると、「ボールの投げ方が女の子みたいで様にならない」などと記載されている。

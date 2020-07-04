@@ -21,7 +21,7 @@
 
 ## コンピュータ・情報技術
 
-  - [Software Freedom Conservancy](https://ja.wikipedia.org/wiki/Software_Freedom_Conservancy "wikilink") - [FLOSS](https://ja.wikipedia.org/wiki/FLOSS "wikilink")プロジェクト向けの法的代理人組織。
+  - [Software Freedom Conservancy](https://ja.wikipedia.org/wiki/Software_Freedom_Conservancy "wikilink") - [FLOSS](../Page/FLOSS.md "wikilink")プロジェクト向けの法的代理人組織。
 
   - \- 保護されたシステムファイルのバージョンをスキャンし、誤りのあるファイルを正しいファイルに置き換える[Windowsのコマンド](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 

@@ -87,7 +87,7 @@
   - [デジタル画像](https://ja.wikipedia.org/wiki/デジタル画像 "wikilink")
 
   -
-  - [Photoshop](https://ja.wikipedia.org/wiki/Photoshop "wikilink")は業界標準のデジタル写真編集ツールだが、対抗商品として[FLOSS](https://ja.wikipedia.org/wiki/FLOSS "wikilink")の[GIMP](../Page/GIMP.md "wikilink")がある。
+  - [Photoshop](https://ja.wikipedia.org/wiki/Photoshop "wikilink")は業界標準のデジタル写真編集ツールだが、対抗商品として[FLOSS](../Page/FLOSS.md "wikilink")の[GIMP](../Page/GIMP.md "wikilink")がある。
 
   - [Poser](../Page/Poser.md "wikilink") ソフトモデルに最適化したDIY CGI
 

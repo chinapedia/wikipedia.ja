@@ -3,7 +3,7 @@
 
 『**Stand Up\!\!**』（スタンド アップ）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[金曜ドラマ枠](../Page/金曜ドラマ_\(TBS\).md "wikilink")（毎週金曜日22:00 - 22:54\[1\]、[JST](../Page/日本標準時.md "wikilink")）で[2003年](../Page/2003年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[9月12日](../Page/9月12日.md "wikilink")まで放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[二宮和也](../Page/二宮和也.md "wikilink")。
 
-[東京都](../Page/東京都.md "wikilink")の[戸越](https://ja.wikipedia.org/wiki/戸越 "wikilink")（主に[戸越公園](../Page/戸越公園.md "wikilink")商店街）を舞台に、[童貞](../Page/童貞.md "wikilink")卒業を目標とする[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")たちの青春を描いた[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")。
+[東京都](../Page/東京都.md "wikilink")の[戸越](../Page/戸越.md "wikilink")（主に[戸越公園](../Page/戸越公園.md "wikilink")商店街）を舞台に、[童貞](../Page/童貞.md "wikilink")卒業を目標とする[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")たちの青春を描いた[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")。
 
 キャッチコピーは「**セックスしたい\!オトナになりたい\!**」。
 

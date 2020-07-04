@@ -96,8 +96,8 @@ SD誕生において、横井は漫画家　成井紀郎、江口寿史、鳥山
   - 「[データック](https://ja.wikipedia.org/wiki/データック "wikilink") SDガンダム GUNDAM WARS」（FC）1993年
   - 「SD機動戦士ガンダム2」（SFC）1993年
   - 「[SDガンダムGX](https://ja.wikipedia.org/wiki/SDガンダムGX "wikilink")」（SFC/SHVC-X2）[1994年](../Page/1994年.md "wikilink")
-  - 「[SDガンダムGNEXT](https://ja.wikipedia.org/wiki/SDガンダムGNEXT "wikilink")」（SFC&[BS](../Page/サテラビュー.md "wikilink")/SHVC-ZX3J-JPN）[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-  - 「[SDガンダムGNEXT ユニット&マップコレクション](https://ja.wikipedia.org/wiki/SDガンダムGNEXT "wikilink")」（専用ロムパック/SHVC-039）BSMC-ZX3J-JPN - サテラビュー配信データをROMカセットで販売した形式をとっている。なお、配信時に存在していたユニットが数体削られて発売されている。
+  - 「[SDガンダムGNEXT](../Page/SDガンダムGNEXT.md "wikilink")」（SFC&[BS](../Page/サテラビュー.md "wikilink")/SHVC-ZX3J-JPN）[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
+  - 「[SDガンダムGNEXT ユニット&マップコレクション](../Page/SDガンダムGNEXT.md "wikilink")」（専用ロムパック/SHVC-039）BSMC-ZX3J-JPN - サテラビュー配信データをROMカセットで販売した形式をとっている。なお、配信時に存在していたユニットが数体削られて発売されている。
   - 「[SDガンダム WINNER'S HISTORY](https://ja.wikipedia.org/wiki/SDガンダム_WINNER'S_HISTORY "wikilink")」（[GG](../Page/ゲームギア.md "wikilink")）1995年
   - 「SDガンダム DIMENSION WAR」（[VB](../Page/バーチャルボーイ.md "wikilink")）1995年
   - 「[SDガンダム Power Formation Puzzle](https://ja.wikipedia.org/wiki/SDガンダム_Power_Formation_Puzzle "wikilink")」（SFC）[1996年](../Page/1996年.md "wikilink")
@@ -300,7 +300,7 @@ SD誕生において、横井は漫画家　成井紀郎、江口寿史、鳥山
       - 「SDガンダムフォース 破壊大将軍あらわる\!\!ザコ?」（サンリオピューロランド4Dアトラクション） 2004年
       - ゲーム
           - 「SDガンダムフォース」（GBA）2004年
-          - 「[SDガンダムフォース 大決戦\! 次元海賊デ・スカール\!\!](https://ja.wikipedia.org/wiki/SDガンダムフォース_大決戦!_次元海賊デ・スカール!! "wikilink")」（PS2）2004年
+          - 「[SDガンダムフォース 大決戦\! 次元海賊デ・スカール\!\!](../Page/SDガンダムフォース_大決戦!_次元海賊デ・スカール!!.md "wikilink")」（PS2）2004年
       - 漫画
           - 「SDガンダムフォース」 [あおきけい](../Page/あおきけい.md "wikilink")&[みかまる](https://ja.wikipedia.org/wiki/みかまる "wikilink") 全3巻
           - 「SDガンダムフォース外伝」 [細井雄二](../Page/細井雄二.md "wikilink") 全1巻

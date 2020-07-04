@@ -13,7 +13,7 @@
 
 なお、東海地方では[テレビ愛知](../Page/テレビ愛知.md "wikilink")の開局前だったため、[岐阜放送](../Page/岐阜放送.md "wikilink")がいち早く放送することになった（[中日戦の取材はテレビ愛知開局まではTXが直接やっていたものと思われる](../Page/中日ドラゴンズ.md "wikilink")。[三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")は1987年春より放送開始）。
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月19日](../Page/5月19日.md "wikilink") - 鈴木が病気入院のため降板、元[日本テレビアナウンサーの](../Page/日本テレビ放送網.md "wikilink")[志生野温夫](../Page/志生野温夫.md "wikilink")に交代した。その後平日版は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から23:00 - 23:20（1987年10月から23:30まで拡大）、週末版は[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から23:00 - 23:25にそれぞれ移行。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月19日](../Page/5月19日.md "wikilink") - 鈴木が病気入院のため降板、元[日本テレビアナウンサーの](../Page/日本テレビ放送網.md "wikilink")[志生野温夫](../Page/志生野温夫.md "wikilink")に交代した。その後平日版は[1986年](../Page/1986年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から23:00 - 23:20（1987年10月から23:30まで拡大）、週末版は[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から23:00 - 23:25にそれぞれ移行。
 
 オープニングはCGと実写とで制作され、当初はピッチャーを[モータードライブ](https://ja.wikipedia.org/wiki/モータードライブ "wikilink")で撮影した映像も使われたが、83年10月にマイナーチェンジされ、「プロ野球速報」と題しながらもプロ野球の試合の映像が登場せず[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")や[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[ラグビー](../Page/ラグビー.md "wikilink")等のウィンタースポーツが登場するものに変更となり、テーマミュージックのラストもマイナーチェンジ。その後、BGMにテレビ東京スポーツテーマ「Let's try 0012」を使用したものに移行した。
 

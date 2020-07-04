@@ -1,7 +1,7 @@
 > この記事は[ロバート・F・ヤング](https://ja.wikipedia.org/wiki/ロバート・F・ヤング)から翻訳されています。
 
 
-**ロバート・F・ヤング**（Robert Franklin Young、[1915年](../Page/1915年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。叙情的で優しい、気恥ずかしいほどストレートに愛を語るロマンティックな作風が特徴。作風は[ジャック・フィニイ](../Page/ジャック・フィニイ.md "wikilink")\[1\]、[レイ・ブラッドベリ](../Page/レイ・ブラッドベリ.md "wikilink")や[シオドア・スタージョン](../Page/シオドア・スタージョン.md "wikilink")と類比されることもある。
+**ロバート・F・ヤング**（Robert Franklin Young、[1915年](../Page/1915年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。叙情的で優しい、気恥ずかしいほどストレートに愛を語るロマンティックな作風が特徴。作風は[ジャック・フィニイ](../Page/ジャック・フィニイ.md "wikilink")\[1\]、[レイ・ブラッドベリ](../Page/レイ・ブラッドベリ.md "wikilink")や[シオドア・スタージョン](../Page/シオドア・スタージョン.md "wikilink")と類比されることもある。
 
 1953年に「[スタートリング・ストーリーズ](https://ja.wikipedia.org/wiki/スタートリング・ストーリーズ "wikilink")」誌からデビュー。以降、各誌に多くの短編を寄稿した。『リトル・ドッグ・ゴーン』（*Little Dog Gone*）は1965年の[ヒューゴー賞 短編小説部門にノミネートされた](../Page/ヒューゴー賞_短編小説部門.md "wikilink")。生涯に発表した長編は"*Starfinder*"（1980年）、"*The Last Yggdrasill*"（1982年）、"*Eridahn*"（1983年 邦訳『時が新しかったころ』）、"*The Vizier's Second Daughter*"（1985年 邦訳『宰相の二番目の娘』）の4作、および短編 "*The Quest of the Holy Grille*"（日本語訳未刊）の加筆版で、フランスでのみ刊行された "*La Quete de la Sainte Grille*"（1975年）の計5冊のみである。
 

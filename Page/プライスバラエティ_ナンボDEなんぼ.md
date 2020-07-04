@@ -117,7 +117,7 @@
 
   - [清水よし子](../Page/清水よし子.md "wikilink")
   - [中島誠之助](../Page/中島誠之助.md "wikilink")
-  - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - [井筒和幸](../Page/井筒和幸.md "wikilink")
   - [井上公造](../Page/井上公造.md "wikilink")
   - [鮎川りな](https://ja.wikipedia.org/wiki/鮎川りな "wikilink")
   - [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")

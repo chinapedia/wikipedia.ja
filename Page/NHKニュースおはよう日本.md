@@ -586,7 +586,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <!-- end list -->
 
   - [佐藤克樹](https://ja.wikipedia.org/wiki/佐藤克樹 "wikilink")（2018年4月9日から）　　
-  - [塩田慎二](https://ja.wikipedia.org/wiki/塩田慎二 "wikilink")（2019年4月1日から）
+  - [塩田慎二](../Page/塩田慎二.md "wikilink")（2019年4月1日から）
   - [利根川真也](https://ja.wikipedia.org/wiki/利根川真也 "wikilink")（2019年4月15日から）
 
 <!-- end list -->
@@ -1124,7 +1124,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <tr class="even">
 <td><p>2008.03.31</p></td>
 <td><p>2009.03.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渕岡友美" title="wikilink">渕岡友美</a></p></td>
+<td><p><a href="../Page/渕岡友美.md" title="wikilink">渕岡友美</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/檜山靖洋" title="wikilink">檜山靖洋</a></p></td>
 <td><p><a href="../Page/加藤祐子.md" title="wikilink">加藤祐子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/望月啓太" title="wikilink">望月啓太</a></p></td>
@@ -1141,7 +1141,7 @@ NHKの朝のニュース・情報番組として、その前身となる**『[NH
 <td><p>2011.04.04</p></td>
 <td><p>2011.09.30</p></td>
 <td><p><a href="../Page/渡辺蘭.md" title="wikilink">渡辺蘭</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渕岡友美" title="wikilink">渕岡友美</a></p></td>
+<td><p><a href="../Page/渕岡友美.md" title="wikilink">渕岡友美</a></p></td>
 <td><p><a href="../Page/鹿島綾乃.md" title="wikilink">鹿島綾乃</a><sup>9</sup></p></td>
 <td></td>
 </tr>

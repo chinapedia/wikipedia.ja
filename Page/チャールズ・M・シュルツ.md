@@ -25,7 +25,7 @@
 
 『ピーナッツ』の人気は次第に高まり、[コダック](../Page/コダック.md "wikilink")社や[フォード社がこのキャラクターを使用するまでになった](../Page/フォード・モーター.md "wikilink")。『ピーナッツ』は[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化され[エミー賞](../Page/エミー賞.md "wikilink")や[ピーボディ賞](../Page/ピーボディ賞.md "wikilink")を受賞した。シュルツはアニメ化作品の多くで脚本を担当した。更にシュルツは、アメリカの漫画家にとって最高の栄誉であるを受賞した。
 
-そんな中で、シュルツを支え続けてきた父のカールが[1966年](../Page/1966年.md "wikilink")に死去した。シュルツは悲しみに暮れるも、[1967年](../Page/1967年.md "wikilink")には[ミュージカル](../Page/ミュージカル.md "wikilink")『きみはいい人　チャーリー・ブラウン』が上演され、[タイム誌](https://ja.wikipedia.org/wiki/タイム誌 "wikilink")や[ライフ誌の表紙を](../Page/ライフ_\(雑誌\).md "wikilink")『ピーナッツ』のキャラクターが飾り、さらには[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にスヌーピーが[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")の有人飛行計画のマスコットとなり、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")スヌーピー(のぬいぐるみ)は[アポロ10号に乗って月に向かって飛び立ち](../Page/アポロ計画.md "wikilink")(このとき指令船と月着陸船の名前に採用されたのは「チャーリー・ブラウン」と「スヌーピー」だった)、『ピーナッツ』の人気はますます高まっていった。
+そんな中で、シュルツを支え続けてきた父のカールが[1966年](../Page/1966年.md "wikilink")に死去した。シュルツは悲しみに暮れるも、[1967年](../Page/1967年.md "wikilink")には[ミュージカル](../Page/ミュージカル.md "wikilink")『きみはいい人　チャーリー・ブラウン』が上演され、[タイム誌](https://ja.wikipedia.org/wiki/タイム誌 "wikilink")や[ライフ誌の表紙を](../Page/ライフ_\(雑誌\).md "wikilink")『ピーナッツ』のキャラクターが飾り、さらには[1968年](../Page/1968年.md "wikilink")にスヌーピーが[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")の有人飛行計画のマスコットとなり、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")スヌーピー(のぬいぐるみ)は[アポロ10号に乗って月に向かって飛び立ち](../Page/アポロ計画.md "wikilink")(このとき指令船と月着陸船の名前に採用されたのは「チャーリー・ブラウン」と「スヌーピー」だった)、『ピーナッツ』の人気はますます高まっていった。
 
 [1972年](../Page/1972年.md "wikilink")にジョイスと性格の不一致が原因となり離婚、翌[1973年](../Page/1973年.md "wikilink")、ジーニー・フォーサイスと再婚した。
 
@@ -33,7 +33,7 @@
 
 [1981年](../Page/1981年.md "wikilink")、[心臓](../Page/心臓.md "wikilink")に異変を感じたシュルツは心臓の[バイパス手術を受けることになった](https://ja.wikipedia.org/wiki/冠動脈バイパス移植術 "wikilink")。手術は無事に成功し、看護師に頼まれて病院の[壁](../Page/壁.md "wikilink")にスヌーピーの絵を描いて退院した。
 
-[1984年](../Page/1984年.md "wikilink")には『ピーナッツ』の掲載紙が2000誌に到達し、[ギネスブックに認定された](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には漫画家の殿堂入りを果たし、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の芸術勲章を受章、また[イタリア](../Page/イタリア.md "wikilink")文化大臣から功労賞が贈られた。[ルーヴル美術館](../Page/ルーヴル美術館.md "wikilink")などでは『ピーナッツ』の展覧会が開かれ、[1996年](../Page/1996年.md "wikilink")には[ハリウッド](../Page/ハリウッド.md "wikilink")の[ウォーク・オブ・フェイムにもシュルツの名が登録された](../Page/ハリウッド・ウォーク・オブ・フェーム.md "wikilink")。
+[1984年](../Page/1984年.md "wikilink")には『ピーナッツ』の掲載紙が2000誌に到達し、[ギネスブックに認定された](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。[1986年](../Page/1986年.md "wikilink")には漫画家の殿堂入りを果たし、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の芸術勲章を受章、また[イタリア](../Page/イタリア.md "wikilink")文化大臣から功労賞が贈られた。[ルーヴル美術館](../Page/ルーヴル美術館.md "wikilink")などでは『ピーナッツ』の展覧会が開かれ、[1996年](../Page/1996年.md "wikilink")には[ハリウッド](../Page/ハリウッド.md "wikilink")の[ウォーク・オブ・フェイムにもシュルツの名が登録された](../Page/ハリウッド・ウォーク・オブ・フェーム.md "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[結腸](../Page/結腸.md "wikilink")[癌](https://ja.wikipedia.org/wiki/癌 "wikilink")を宣告されていたシュルツは引退を宣言し、そして[2000年](../Page/2000年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に77歳でこの世を去った。その翌日、『ピーナッツ』日曜版の最終回が掲載された。
 

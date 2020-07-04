@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[ワークステーション](../Page/ワークステーション.md "wikilink")と[周辺機器](../Page/周辺機器.md "wikilink")との接続[インタフェースとして](../Page/インタフェース_\(情報技術\).md "wikilink")、[シュガートのSASI](../Page/シュガートアソシエイツ.md "wikilink") (Shugart Associates System Interface) を拡張し、[ANSIによって規格化された](../Page/米国国家規格協会.md "wikilink")[バス型のインタフェースである](../Page/バス_\(コンピュータ\).md "wikilink")。[8ビット](../Page/8ビット.md "wikilink")または[16ビット](../Page/16ビット.md "wikilink")の[パラレルインタフェース](https://ja.wikipedia.org/wiki/バス_\(コンピュータ\)#パラレルバス "wikilink")。Ultra SCSIでは[シリアル型もある](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")。後述の大型のコネクタ・バス等は近年その役目を終えたが、SCSI規格自体は物理的な仕様のみならずデバイス間の[通信プロトコル](../Page/通信プロトコル.md "wikilink")も規定している。実際に現在普及している高速規格である[ATA](../Page/Advanced_Technology_Attachment.md "wikilink")、[SATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")、[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[IEEE 1394](../Page/IEEE_1394.md "wikilink")、[ファイバチャネル](https://ja.wikipedia.org/wiki/ファイバチャネル "wikilink")上では[SCSIコマンド](https://ja.wikipedia.org/wiki/SCSIコマンド "wikilink")が未だにやり取りされている。
+[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[ワークステーション](../Page/ワークステーション.md "wikilink")と[周辺機器](../Page/周辺機器.md "wikilink")との接続[インタフェースとして](../Page/インタフェース_\(情報技術\).md "wikilink")、[シュガートのSASI](../Page/シュガートアソシエイツ.md "wikilink") (Shugart Associates System Interface) を拡張し、[ANSIによって規格化された](../Page/米国国家規格協会.md "wikilink")[バス型のインタフェースである](../Page/バス_\(コンピュータ\).md "wikilink")。[8ビット](../Page/8ビット.md "wikilink")または[16ビット](../Page/16ビット.md "wikilink")の[パラレルインタフェース](https://ja.wikipedia.org/wiki/バス_\(コンピュータ\)#パラレルバス "wikilink")。Ultra SCSIでは[シリアル型もある](../Page/シリアル通信.md "wikilink")。後述の大型のコネクタ・バス等は近年その役目を終えたが、SCSI規格自体は物理的な仕様のみならずデバイス間の[通信プロトコル](../Page/通信プロトコル.md "wikilink")も規定している。実際に現在普及している高速規格である[ATA](../Page/Advanced_Technology_Attachment.md "wikilink")、[SATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")、[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[IEEE 1394](../Page/IEEE_1394.md "wikilink")、[ファイバチャネル](https://ja.wikipedia.org/wiki/ファイバチャネル "wikilink")上では[SCSIコマンド](https://ja.wikipedia.org/wiki/SCSIコマンド "wikilink")が未だにやり取りされている。
 
 ## 概要
 
@@ -48,7 +48,7 @@ SCSI装置はいくつかの種類ごとに[カテゴリ](../Page/カテゴリ.m
 [thumb製SCSI](https://ja.wikipedia.org/wiki/ファイル:Scsiboard01.jpg "wikilink")-2インタフェースボード\]\] [thumb製](https://ja.wikipedia.org/wiki/ファイル:Buffalo_IFC-SCD2.jpg "wikilink")[PCカード](../Page/PCカード.md "wikilink")形SCSI-2インタフェース\]\] SCSIは何度か規格を更新し、速度の向上や機能の追加が行われている。
 
   - SCSI-1
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にANSIにて制定された最初の規格。HVD（電圧差動型）もこの時点で制定されている。
+    [1986年](../Page/1986年.md "wikilink")にANSIにて制定された最初の規格。HVD（電圧差動型）もこの時点で制定されている。
   - CCS ()
     SCSI-1制定後、色々と開発されたHDD以外の製品などの制御方式を統一するために業界が制定したコマンドセット。ANSIとは無関係である。
   - SCSI-2

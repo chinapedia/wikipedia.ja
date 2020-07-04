@@ -28,7 +28,7 @@ macOS では、拡張子「.DFONT」も使用されている。これは、[Mac 
 ## 関連項目
 
   - [OpenType](../Page/OpenType.md "wikilink")
-  - [FreeType](../Page/FreeType.md "wikilink") - [フリーのフォントラスタライザ](https://ja.wikipedia.org/wiki/FLOSS "wikilink")。TrueType にも対応。
+  - [FreeType](../Page/FreeType.md "wikilink") - [フリーのフォントラスタライザ](../Page/FLOSS.md "wikilink")。TrueType にも対応。
 
 ## 外部リンク
 

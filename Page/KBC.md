@@ -36,7 +36,7 @@
           - KEIO BOOK CLUB - [慶應義塾大学出版会](../Page/慶應義塾大学出版会.md "wikilink")が運営する会員制ウェブサイト\[2\]。
           - KEIO BUSINESS COMMUNITY\[3\]。
       - [甲南大学](../Page/甲南大学.md "wikilink")の部活動団体「KSWL放送部門」。[KBCpresents 甲南大学放送部 KStime 伊丹キャンパス参照](../Page/KBCpresents_甲南大学放送部_KStime_伊丹キャンパス.md "wikilink")。
-      - 大韓民国放送委員会（Korean Broadcasting Commission） - 韓国の行政機関、[大韓民国放送通信委員会](https://ja.wikipedia.org/wiki/大韓民国放送通信委員会 "wikilink")（Korea Communications Commission）の前身。
+      - 大韓民国放送委員会（Korean Broadcasting Commission） - 韓国の行政機関、[大韓民国放送通信委員会](../Page/大韓民国放送通信委員会.md "wikilink")（Korea Communications Commission）の前身。
       - 韓国ボクシング委員会（Korea Boxing Commission） - 韓国における[プロボクシング統括団体](../Page/ボクシング.md "wikilink")。
 
 ## 脚注

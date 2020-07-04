@@ -272,7 +272,7 @@
       - [ニュース845](../Page/ニュース845_\(NHK大阪\).md "wikilink")（平日 20:45 - 21:00、大阪府域放送）
       - [えぇトコ](https://ja.wikipedia.org/wiki/えぇトコ "wikilink")（水曜日 20:15 - 20:42）※同時間帯に他地域で放送されている『[サンドのお風呂いただきます](https://ja.wikipedia.org/wiki/サンドのお風呂いただきます "wikilink")』は、[遅れネット](../Page/遅れネット.md "wikilink")。
       - [上方落語の会](https://ja.wikipedia.org/wiki/上方落語の会 "wikilink")（金曜日 15:15 - 15:58、大相撲・高校野球期間中は休止）
-      - [かんさい熱視線](https://ja.wikipedia.org/wiki/かんさい熱視線 "wikilink")（金曜日 19:30 - 19:55）
+      - [かんさい熱視線](../Page/かんさい熱視線.md "wikilink")（金曜日 19:30 - 19:55）
 
 <!-- end list -->
 
@@ -446,7 +446,7 @@
 <li><a href="../Page/ニュースパーク関西.md" title="wikilink">ニュースパーク関西</a></li>
 <li><a href="../Page/ニュースかんさい発.md" title="wikilink">ニュースかんさい発</a></li>
 <li><a href="../Page/かんさいニュース1番.md" title="wikilink">かんさいニュース1番</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ニューステラス関西" title="wikilink">ニューステラス関西</a>（一部の時間帯を除き府県別放送）</li>
+<li><a href="../Page/ニューステラス関西.md" title="wikilink">ニューステラス関西</a>（一部の時間帯を除き府県別放送）</li>
 <li>きんき845</li>
 <li>発信基地</li>
 <li>アジアマンスリー</li>
@@ -530,7 +530,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/近田雄一.md" title="wikilink">近田雄一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かんさい熱視線" title="wikilink">かんさい熱視線</a><br />
+<td><p><a href="../Page/かんさい熱視線.md" title="wikilink">かんさい熱視線</a><br />
 （キャスター）</p></td>
 <td></td>
 <td></td>
@@ -599,7 +599,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山路忠生" title="wikilink">山路忠生</a></p></td>
+<td><p><a href="../Page/山路忠生.md" title="wikilink">山路忠生</a></p></td>
 <td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
 <td></td>
 <td></td>

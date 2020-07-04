@@ -151,7 +151,7 @@
 <td><p>Navigation6</p></td>
 <td><p>双頭竜</p></td>
 <td><p><a href="../Page/高山カツヒコ.md" title="wikilink">高山カツヒコ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平田智浩" title="wikilink">平田智浩</a></p></td>
+<td><p><a href="../Page/平田智浩.md" title="wikilink">平田智浩</a></p></td>
 <td><p>上坪亮樹</p></td>
 <td><p>畑良子</p></td>
 <td><p>5月8日</p></td>

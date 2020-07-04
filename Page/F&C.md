@@ -76,7 +76,7 @@ F\&Cカードは、[2000年](../Page/2000年.md "wikilink")に株式会社イン
 
 #### F\&C・FC01
 
-  - 2001年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [同窓会again](https://ja.wikipedia.org/wiki/同窓会_\(ゲーム\)#同窓会again "wikilink")
+  - 2001年[1月26日](../Page/1月26日.md "wikilink") - [同窓会again](https://ja.wikipedia.org/wiki/同窓会_\(ゲーム\)#同窓会again "wikilink")
       - 2001年[8月24日](../Page/8月24日.md "wikilink") - [同窓会refrain](https://ja.wikipedia.org/wiki/同窓会_\(ゲーム\)#同窓会refrain "wikilink")
       - 2003年[3月28日](../Page/3月28日.md "wikilink") - F\&C DVD COLLECTION vol.1 同窓会again\&refrain
   - 2001年[8月10日](../Page/8月10日.md "wikilink") - [NAKED BLUE Canvas Wallpaper Collection](https://ja.wikipedia.org/wiki/NAKED_BLUE_Canvas_Wallpaper_Collection "wikilink")：コミックマーケット先行発売
@@ -108,7 +108,7 @@ F\&Cカードは、[2000年](../Page/2000年.md "wikilink")に株式会社イン
       - 2005年[1月28日](../Page/1月28日.md "wikilink") - 一般販売
   - 2005年[6月24日](../Page/6月24日.md "wikilink") - [魔女っ娘ア・ラ・モードII 〜光と闇のエトランゼ〜](https://ja.wikipedia.org/wiki/魔女っ娘ア・ラ・モードII_〜光と闇のエトランゼ〜 "wikilink")
   - 2005年[11月25日](../Page/11月25日.md "wikilink") - 部活規格
-  - 2007年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - 赤いCanvasシリーズ なでしこ 〜朱色のらせん〜
+  - 2007年[1月26日](../Page/1月26日.md "wikilink") - 赤いCanvasシリーズ なでしこ 〜朱色のらせん〜
   - 2007年[9月28日](../Page/9月28日.md "wikilink") - [ほしフル 〜星藤学園天文同好会〜](../Page/ほしフル.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月15日](../Page/8月15日.md "wikilink") - かみてん -死神と天使が俺を狙ってる-：コミックマーケット先行発売
       - [9月26日](../Page/9月26日.md "wikilink") - 一般販売

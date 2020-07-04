@@ -73,10 +73,10 @@
 
   - [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：**JOGP-FM**
 
-| 局名                                                       | 周波数     | 空中線電力 | 偏波面 | 送信場所                                                                                         |
-| -------------------------------------------------------- | ------- | ----- | --- | -------------------------------------------------------------------------------------------- |
-| 横浜                                                       | 81.9MHz | 5kW   | 水平  | 横浜市[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")氷取沢町（[円海山](../Page/円海山.md "wikilink")） |
-| [小田原](https://ja.wikipedia.org/wiki/小田原FM中継局 "wikilink") | 83.5MHz | 100W  | 水平  | [小田原市](../Page/小田原市.md "wikilink")曽我谷津字風越（浅間山）                                               |
+| 局名                                    | 周波数     | 空中線電力 | 偏波面 | 送信場所                                                                                         |
+| ------------------------------------- | ------- | ----- | --- | -------------------------------------------------------------------------------------------- |
+| 横浜                                    | 81.9MHz | 5kW   | 水平  | 横浜市[磯子区](https://ja.wikipedia.org/wiki/磯子区 "wikilink")氷取沢町（[円海山](../Page/円海山.md "wikilink")） |
+| [小田原](../Page/小田原FM中継局.md "wikilink") | 83.5MHz | 100W  | 水平  | [小田原市](../Page/小田原市.md "wikilink")曽我谷津字風越（浅間山）                                               |
 
 ### テレビ中継局
 
@@ -206,7 +206,7 @@
 <td><p>不明</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鶴ヶ峰中継局" title="wikilink">鶴ヶ峰</a></p></td>
+<td><p><a href="../Page/鶴ヶ峰中継局.md" title="wikilink">鶴ヶ峰</a></p></td>
 <td><p>44</p></td>
 <td><p>40</p></td>
 <td><p>0.5W</p></td>
@@ -234,7 +234,7 @@
 <td><p>水平</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/根岸岡村テレビ中継局" title="wikilink">根岸岡村</a></p></td>
+<td><p><a href="../Page/根岸岡村テレビ中継局.md" title="wikilink">根岸岡村</a></p></td>
 <td><p>51</p></td>
 <td><p>49</p></td>
 <td><p>3W</p></td>
@@ -382,7 +382,7 @@
 <td><p>水平</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/箱根湯本中継局" title="wikilink">箱根湯本</a></p></td>
+<td><p><a href="../Page/箱根湯本中継局.md" title="wikilink">箱根湯本</a></p></td>
 <td><p>51</p></td>
 <td><p>49</p></td>
 <td><p>1W</p></td>
@@ -424,7 +424,7 @@
 <td><p>水平</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/相模湖中継局" title="wikilink">相模湖</a></p></td>
+<td><p><a href="../Page/相模湖中継局.md" title="wikilink">相模湖</a></p></td>
 <td><p>51</p></td>
 <td><p>49</p></td>
 <td><p>3W</p></td>

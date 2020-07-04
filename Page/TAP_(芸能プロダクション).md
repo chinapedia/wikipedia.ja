@@ -7,11 +7,11 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")を起こした[ビートたけし](../Page/ビートたけし.md "wikilink")は、[太田プロダクション](../Page/太田プロダクション.md "wikilink")を退社し、[1988年](../Page/1988年.md "wikilink")にたけしと親交が深い[制作会社](../Page/番組制作会社.md "wikilink")・[スーパープロデュースのスタッフだった](../Page/クリエイティブ30.md "wikilink")[森昌行](../Page/森昌行.md "wikilink")が、たけしと[たけし軍団](../Page/たけし軍団.md "wikilink")、[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")らの俳優のマネジメントを目的に設立。森は設立当初は[取締役](../Page/取締役.md "wikilink")制作部長の肩書きだったが、[1992年](../Page/1992年.md "wikilink")から[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")に就任し、[ソナチネや](../Page/ソナチネ_\(映画\).md "wikilink")[キッズ・リターン](../Page/キッズ・リターン.md "wikilink")など[映画監督](../Page/映画監督.md "wikilink")・北野武作品の[プロデューサー](../Page/プロデューサー.md "wikilink")も務めた。
+[1986年](../Page/1986年.md "wikilink")に[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")を起こした[ビートたけし](../Page/ビートたけし.md "wikilink")は、[太田プロダクション](../Page/太田プロダクション.md "wikilink")を退社し、[1988年](../Page/1988年.md "wikilink")にたけしと親交が深い[制作会社](../Page/番組制作会社.md "wikilink")・[スーパープロデュースのスタッフだった](../Page/クリエイティブ30.md "wikilink")[森昌行](../Page/森昌行.md "wikilink")が、たけしと[たけし軍団](../Page/たけし軍団.md "wikilink")、[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")らの俳優のマネジメントを目的に設立。森は設立当初は[取締役](../Page/取締役.md "wikilink")制作部長の肩書きだったが、[1992年](../Page/1992年.md "wikilink")から[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")に就任し、[ソナチネや](../Page/ソナチネ_\(映画\).md "wikilink")[キッズ・リターン](../Page/キッズ・リターン.md "wikilink")など[映画監督](../Page/映画監督.md "wikilink")・北野武作品の[プロデューサー](../Page/プロデューサー.md "wikilink")も務めた。
 
 独立に至った経緯としては、フライデー襲撃事件から復帰後、行く先々で[右翼団体](../Page/右翼団体.md "wikilink")に復帰が時期尚早であると街宣を掛けられたことに太田プロには全く対処してもらえず、街宣を指示していた暴力団幹部らの元に自ら出向き事態を収束させたが、その際に太田プロの退社を条件として提示されたもので、この経緯からオフィス北野と太田プロとの関係は良好であり、設立当初から太田プロ所属のタレントとの共演が多くある。
 
-設立当初、[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")の代表取締役である[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")が役員に連ねており、その関係でたけしが出演していた番組やイベントに同社所属の[荻野目洋子](../Page/荻野目洋子.md "wikilink")や[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[MAX](https://ja.wikipedia.org/wiki/MAX "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")らがゲスト出演していた。また、たけしの長女である[北野井子](../Page/北野井子.md "wikilink")がライジングから歌手デビューを果たしたのも、その縁からである。
+設立当初、[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")の代表取締役である[平哲夫](../Page/平哲夫.md "wikilink")が役員に連ねており、その関係でたけしが出演していた番組やイベントに同社所属の[荻野目洋子](../Page/荻野目洋子.md "wikilink")や[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[MAX](https://ja.wikipedia.org/wiki/MAX "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")らがゲスト出演していた。また、たけしの長女である[北野井子](../Page/北野井子.md "wikilink")がライジングから歌手デビューを果たしたのも、その縁からである。
 
 イベントとして「オフィス北野ライブ」を定期的に開催しており、ビートたけしやツービートがサプライズで出演することもある。
 
@@ -156,7 +156,7 @@
   - [プリズムシャワー](https://ja.wikipedia.org/wiki/プリズムシャワー "wikilink")（湯川セイント、橋本ピー助） - 現在はラフィーネプロモーション所属
   - [ポップコーン正一](https://ja.wikipedia.org/wiki/ポップコーン正一 "wikilink")
   - [堀友理子](../Page/堀友理子.md "wikilink") - 現在は[生島企画室](https://ja.wikipedia.org/wiki/生島企画室 "wikilink")所属
-  - [ホロッコ](https://ja.wikipedia.org/wiki/ホロッコ "wikilink")（[ほり太](https://ja.wikipedia.org/wiki/堀田訓幸 "wikilink")、こまり） - 現在は[フラットファイヴ](../Page/フラットファイヴ.md "wikilink")所属、ラフィーネプロモーションと業務提携
+  - [ホロッコ](../Page/ホロッコ.md "wikilink")（[ほり太](../Page/堀田訓幸.md "wikilink")、こまり） - 現在は[フラットファイヴ](../Page/フラットファイヴ.md "wikilink")所属、ラフィーネプロモーションと業務提携
   - [本間しげる](https://ja.wikipedia.org/wiki/本間しげる "wikilink")
   - [マキタスポーツ](../Page/マキタスポーツ.md "wikilink")\[11\] - 現在はワタナベエンターテインメント所属
   - [マザー・テラサワ](https://ja.wikipedia.org/wiki/マザー・テラサワ "wikilink")

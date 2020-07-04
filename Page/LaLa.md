@@ -40,13 +40,13 @@
   - [あぁ愛しの番長さま](https://ja.wikipedia.org/wiki/あぁ愛しの番長さま "wikilink")（[藤方まゆ](https://ja.wikipedia.org/wiki/藤方まゆ "wikilink")）
   - [あかく咲く声](https://ja.wikipedia.org/wiki/あかく咲く声 "wikilink")（緑川ゆき）
   - [アルトの声の少女](https://ja.wikipedia.org/wiki/アルトの声の少女 "wikilink")（篠有紀子）
-  - [一清&千沙姫シリーズ](https://ja.wikipedia.org/wiki/一清&千沙姫シリーズ "wikilink")（[柳原望](https://ja.wikipedia.org/wiki/柳原望 "wikilink")）
+  - [一清&千沙姫シリーズ](../Page/一清&千沙姫シリーズ.md "wikilink")（[柳原望](https://ja.wikipedia.org/wiki/柳原望 "wikilink")）
   - [一万十秒シリーズ](https://ja.wikipedia.org/wiki/一万十秒シリーズ "wikilink")（[倉多江美](../Page/倉多江美.md "wikilink")）
   - [インナーカルテット](../Page/インナーカルテット.md "wikilink")（[かわみなみ](https://ja.wikipedia.org/wiki/かわみなみ "wikilink")）
   - [with\!\!](https://ja.wikipedia.org/wiki/with!! "wikilink")（[斎藤けん](../Page/斎藤けん.md "wikilink")）
   - [うえぽん](https://ja.wikipedia.org/wiki/うえぽん "wikilink")（[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")）
   - [英会話スクールウォーズ](../Page/英会話スクールウォーズ.md "wikilink")（[マツモトトモ](../Page/マツモトトモ.md "wikilink")）
-  - [エイリアン通り](https://ja.wikipedia.org/wiki/エイリアン通り "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
+  - [エイリアン通り](../Page/エイリアン通り.md "wikilink")（[成田美名子](../Page/成田美名子.md "wikilink")）
   - [eensy-weensy モンスター](https://ja.wikipedia.org/wiki/eensy-weensy_モンスター "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
   - [お池にはまってプリンセス](https://ja.wikipedia.org/wiki/お池にはまってプリンセス "wikilink")（[木村晃子](https://ja.wikipedia.org/wiki/木村晃子 "wikilink")）
   - [王様ゲーム](https://ja.wikipedia.org/wiki/王様ゲーム_\(水野十子\) "wikilink")（[水野十子](../Page/水野十子.md "wikilink")）
@@ -144,7 +144,7 @@
   - [まり子闘争](https://ja.wikipedia.org/wiki/まり子闘争 "wikilink")（[かわみなみ](https://ja.wikipedia.org/wiki/かわみなみ "wikilink")）
   - [摩利と新吾](../Page/摩利と新吾.md "wikilink")（[木原敏江](../Page/木原敏江.md "wikilink")）
   - [みかん絵日記](../Page/みかん絵日記.md "wikilink")（[安孫子三和](../Page/安孫子三和.md "wikilink")）
-  - [みき&ユーティ](https://ja.wikipedia.org/wiki/みき&ユーティ "wikilink")（成田美名子）
+  - [みき&ユーティ](../Page/みき&ユーティ.md "wikilink")（成田美名子）
   - [目隠しの国](../Page/目隠しの国.md "wikilink")（筑波さくら）
   - [めるぷり メルヘン☆プリンス](https://ja.wikipedia.org/wiki/めるぷり_メルヘン☆プリンス "wikilink")（樋野まつり）
   - [もしかしてヴァンプ](../Page/もしかしてヴァンプ.md "wikilink")（橘裕）
@@ -210,7 +210,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")より、従来の別冊・増刊など各誌の再編が始まり、一方では姉妹誌の季刊『LaLa DELUXE』（のち『[LaLa DX](../Page/LaLa_DX.md "wikilink")』）が創刊した。
 
-他方、それまでの『LaLa大増刊』を引き継いで同1985年夏に登場した『LaLaスペシャルWendy』は、翌[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")夏に『LaLaスペシャルCindy』に改題し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には短編特集の増刊『Short Stories』も登場するなど、約2年間にわたって題号や発行周期に混乱が見られたが、[1988年](../Page/1988年.md "wikilink")に季刊の『LaLa Club』（『LaLa SPRING Club』など）に一本化して[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで刊行した。[1991年](../Page/1991年.md "wikilink")には『LaLa'』に再改題して計3回刊行したのを最後に、季刊増刊誌は一時消滅した。
+他方、それまでの『LaLa大増刊』を引き継いで同1985年夏に登場した『LaLaスペシャルWendy』は、翌[1986年](../Page/1986年.md "wikilink")夏に『LaLaスペシャルCindy』に改題し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には短編特集の増刊『Short Stories』も登場するなど、約2年間にわたって題号や発行周期に混乱が見られたが、[1988年](../Page/1988年.md "wikilink")に季刊の『LaLa Club』（『LaLa SPRING Club』など）に一本化して[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで刊行した。[1991年](../Page/1991年.md "wikilink")には『LaLa'』に再改題して計3回刊行したのを最後に、季刊増刊誌は一時消滅した。
 
 のち『Lunatic LaLa』（1994年-1996年、年2回刊）、『LaLaスペシャル』（2004年-2010年、初期は年刊・後期は不定期刊）などが登場している。
 

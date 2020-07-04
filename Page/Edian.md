@@ -1,7 +1,7 @@
 > この記事は[Edian](https://ja.wikipedia.org/wiki/Edian)から翻訳されています。
 
 
-**Edian**（**エディアン**）は、[NECネクサソリューションズ](https://ja.wikipedia.org/wiki/NECネクサソリューションズ "wikilink")から販売されている業務用[DTP](../Page/DTP.md "wikilink")システムのシリーズ名である。
+**Edian**（**エディアン**）は、[NECネクサソリューションズ](../Page/NECネクサソリューションズ.md "wikilink")から販売されている業務用[DTP](../Page/DTP.md "wikilink")システムのシリーズ名である。
 
 現行の製品としては、汎用の「EdianWing」と新聞組版用の「EdianWing NPS」がある。
 

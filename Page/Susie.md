@@ -26,7 +26,7 @@ Susieで読み込める[画像ファイルフォーマット](https://ja.wikiped
 ## 関連項目
 
   - [ViX](../Page/ViX.md "wikilink")
-  - [Linar](https://ja.wikipedia.org/wiki/Linar "wikilink")
+  - [Linar](../Page/Linar.md "wikilink")
 
 ## 外部リンク
 

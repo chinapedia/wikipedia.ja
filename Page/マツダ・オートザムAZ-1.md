@@ -1,7 +1,7 @@
 > この記事は[マツダ・オートザムAZ-1](https://ja.wikipedia.org/wiki/マツダ・オートザムAZ-1)から翻訳されています。
 
 
-**マツダ・オートザムAZ-1**（エーゼットワン）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")5チャンネル化によって誕生した[オートザム](../Page/オートザム.md "wikilink")で販売されていた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の2座席[スポーツクーペである](../Page/クーペ.md "wikilink")。[スズキにも](../Page/スズキ_\(企業\).md "wikilink")[OEM](../Page/OEM.md "wikilink")供給され、[1993年](../Page/1993年.md "wikilink")より「**[CARA](../Page/スズキ・キャラ.md "wikilink")**」（キャラ）の車名で販売された。
+**マツダ・オートザムAZ-1**（エーゼットワン）は、[マツダ](../Page/マツダ.md "wikilink")5チャンネル化によって誕生した[オートザム](../Page/オートザム.md "wikilink")で販売されていた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")の2座席[スポーツクーペである](../Page/クーペ.md "wikilink")。[スズキにも](../Page/スズキ_\(企業\).md "wikilink")[OEM](../Page/OEM.md "wikilink")供給され、[1993年](../Page/1993年.md "wikilink")より「**[CARA](../Page/スズキ・キャラ.md "wikilink")**」（キャラ）の車名で販売された。
 
 ## 概要
 
@@ -51,7 +51,7 @@ AZ-1は、平成初期の同期時に販売されていた[ホンダ・ビート
 
 ## 関連項目
 
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink")
   - [スズキ・キャラ](../Page/スズキ・キャラ.md "wikilink") - [姉妹車](../Page/OEM.md "wikilink")
 
 ## 外部リンク

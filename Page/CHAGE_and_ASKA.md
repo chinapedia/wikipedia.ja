@@ -3,7 +3,7 @@
 
 **CHAGE and ASKA**（チャゲ・アンド・アスカ）（中国語表記: ****、韓国語表記: ****）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。通称：**チャゲアス**。略表記：**C\&A**。表記は、**チャゲ&飛鳥**（1979年 - 1988年）、**CHAGE\&ASUKA**（1989年）、**CHAGE\&ASKA**（1990年 - 2000年）、**CHAGE and ASKA**（2001年 - 2019年）と変わっている。公式ファンクラブは「**TUG OF C\&A**」。
 
-[高校の同級生同士であった](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[Chage](../Page/Chage.md "wikilink")と[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")で結成し、[1979年](../Page/1979年.md "wikilink")に「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー\[1\]。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には「[モーニングムーン](../Page/モーニングムーン.md "wikilink")」がヒット。[1991年](../Page/1991年.md "wikilink")に「[SAY YES](../Page/SAY_YES.md "wikilink")」が[オリコンチャート](../Page/オリコンチャート.md "wikilink")13週連続1位を獲得し、ダブルミリオンを記録。[1992年](../Page/1992年.md "wikilink")には[アルバム](../Page/アルバム.md "wikilink")『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』もダブルミリオンを記録し、アルバム年間1位を獲得。シングルでは「[if](https://ja.wikipedia.org/wiki/if_\(CHAGE_and_ASKAの曲\) "wikilink")」が[ミリオンを記録](../Page/ミリオンセラー.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に「[YAH YAH YAH/夢の番人](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」が史上初となる同一歌手でシングル2作目のダブルミリオンを記録し、年間1位を獲得\[2\]。[1994年](../Page/1994年.md "wikilink")には「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」と「[めぐり逢い](../Page/めぐり逢い_\(CHAGE_and_ASKAの曲\).md "wikilink")」がミリオンを記録。自身初の海外ツアーを開催し、[1996年](../Page/1996年.md "wikilink")にアジア出身者初の『[MTV Unplugged](../Page/MTVアンプラグド.md "wikilink")』に出演して、[2000年](../Page/2000年.md "wikilink")には[韓国で日本人初の大規模ライブを行った](../Page/大韓民国.md "wikilink")。
+[高校の同級生同士であった](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[Chage](../Page/Chage.md "wikilink")と[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")で結成し、[1979年](../Page/1979年.md "wikilink")に「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー\[1\]。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」、[1986年](../Page/1986年.md "wikilink")には「[モーニングムーン](../Page/モーニングムーン.md "wikilink")」がヒット。[1991年](../Page/1991年.md "wikilink")に「[SAY YES](../Page/SAY_YES.md "wikilink")」が[オリコンチャート](../Page/オリコンチャート.md "wikilink")13週連続1位を獲得し、ダブルミリオンを記録。[1992年](../Page/1992年.md "wikilink")には[アルバム](../Page/アルバム.md "wikilink")『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』もダブルミリオンを記録し、アルバム年間1位を獲得。シングルでは「[if](https://ja.wikipedia.org/wiki/if_\(CHAGE_and_ASKAの曲\) "wikilink")」が[ミリオンを記録](../Page/ミリオンセラー.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に「[YAH YAH YAH/夢の番人](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」が史上初となる同一歌手でシングル2作目のダブルミリオンを記録し、年間1位を獲得\[2\]。[1994年](../Page/1994年.md "wikilink")には「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」と「[めぐり逢い](../Page/めぐり逢い_\(CHAGE_and_ASKAの曲\).md "wikilink")」がミリオンを記録。自身初の海外ツアーを開催し、[1996年](../Page/1996年.md "wikilink")にアジア出身者初の『[MTV Unplugged](../Page/MTVアンプラグド.md "wikilink")』に出演して、[2000年](../Page/2000年.md "wikilink")には[韓国で日本人初の大規模ライブを行った](../Page/大韓民国.md "wikilink")。
 
 しかし、[2009年](../Page/2009年.md "wikilink")にデュオでの無期限活動休止を宣言し、[2013年](../Page/2013年.md "wikilink")に再始動を発表するもASKAの[一過性脳虚血発作](../Page/一過性脳虚血発作.md "wikilink")の疑いと薬物事件により白紙となり、デビュー40周年となる[2019年](../Page/2019年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にASKAが脱退を発表した\[3\]。
 
@@ -66,7 +66,7 @@
 
 ### レコード会社の移籍、「SAY YES」のヒット
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
       - キャニオン・レコード移籍後初のシングル「[モーニングムーン](../Page/モーニングムーン.md "wikilink")」がスマッシュヒット。この年はシングル4枚、アルバム2枚、[アナログ盤限定で](../Page/レコード.md "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")1枚を発表。コンサートも夏に[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")で開催する等、1年を通して精力的な活動を行う。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
       - ベスト・アルバム『[SUPER BEST](https://ja.wikipedia.org/wiki/SUPER_BEST_\(CHAGE_and_ASKAのアルバム\) "wikilink")』リリース。3年間[オリコンチャート](../Page/オリコンチャート.md "wikilink")にランクインするというロングセールスを記録する。
@@ -110,7 +110,7 @@
   - [2005年](../Page/2005年.md "wikilink")
       - 11月に「On Your Mark」のPVとライカリールを収録したDVD『ジブリがいっぱいspecial ショートショート』がスタジオジブリから発売される。
   - [2006年](../Page/2006年.md "wikilink")
-      - 12月、国立代々木競技場第一体育館にて[徳永英明](../Page/徳永英明.md "wikilink")、[岡本真夜](../Page/岡本真夜.md "wikilink")とともに『Point Green Live 2006』を行った。会場には[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")も鑑賞に訪れた。
+      - 12月、国立代々木競技場第一体育館にて[徳永英明](../Page/徳永英明.md "wikilink")、[岡本真夜](../Page/岡本真夜.md "wikilink")とともに『Point Green Live 2006』を行った。会場には[安倍晋三](../Page/安倍晋三.md "wikilink")も鑑賞に訪れた。
   - [2007年](../Page/2007年.md "wikilink")
       - 1月、限定シングル「[Man and Woman](../Page/Man_and_Woman.md "wikilink")」・「[Here & There](../Page/Here_&_There.md "wikilink")」を同時リリース。およそ5年ぶりとなるオリジナル・アルバム『[DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(CHAGE_and_ASKAのアルバム\) "wikilink")』をリリース。3月よりコンサートツアー『CHAGE and ASKA Concert tour 2007 DOUBLE』を開催。11月からは、上海大舞台（旧称：上海体育館）での公演を皮切りに8年ぶりにアコースティック・ライブ『CHAGE and ASKA Concert 2007 alive in live』を行った。
   - [2009年](../Page/2009年.md "wikilink")
@@ -1852,7 +1852,7 @@ Best-selling Artist/Asia</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/僕はこの瞳で嘘をつく.md" title="wikilink">僕はこの瞳で嘘をつく</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パナソニック" title="wikilink">Panasonic</a>「<a href="https://ja.wikipedia.org/wiki/HALFコンポ" title="wikilink">HALFコンポ</a>」CMソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パナソニック" title="wikilink">Panasonic</a>「<a href="../Page/HALFコンポ.md" title="wikilink">HALFコンポ</a>」CMソング</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1894,7 +1894,7 @@ Best-selling Artist/Asia</p></td>
 </tr>
 <tr class="odd">
 <td><p>GUYS</p></td>
-<td><p>Panasonic「<a href="https://ja.wikipedia.org/wiki/RESTY" title="wikilink">RESTY</a>」・「<a href="https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ#RQ-S**系" title="wikilink">RQ-S85（deruカセ）</a>」CMソング</p></td>
+<td><p>Panasonic「<a href="../Page/RESTY.md" title="wikilink">RESTY</a>」・「<a href="https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ#RQ-S**系" title="wikilink">RQ-S85（deruカセ）</a>」CMソング</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2185,7 +2185,7 @@ Best-selling Artist/Asia</p></td>
 ### CM
 
   - [国内信販](https://ja.wikipedia.org/wiki/楽天KC "wikilink")「KCカード」（1990年 - 1992年）
-  - [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[HALFコンポ](https://ja.wikipedia.org/wiki/HALFコンポ "wikilink")」（1991年）、「[RQ-S40V（シェルロック）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ#RQ-S**系 "wikilink")」・「[RQ-S85（deruカセ）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ#RQ-S**系 "wikilink")」・「[RESTY](https://ja.wikipedia.org/wiki/RESTY "wikilink")」（1992年）
+  - [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[HALFコンポ](../Page/HALFコンポ.md "wikilink")」（1991年）、「[RQ-S40V（シェルロック）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ#RQ-S**系 "wikilink")」・「[RQ-S85（deruカセ）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ#RQ-S**系 "wikilink")」・「[RESTY](../Page/RESTY.md "wikilink")」（1992年）
   - [JAL](../Page/日本航空.md "wikilink") 企業CM（1992年 - 1997年）、「JAL SEASONS」（1999年）
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink")「Save the Children with CHAGE\&ASKA」（1993年）
   - [ASAHI](../Page/アサヒ飲料.md "wikilink")「J.O.」（1993年）
@@ -2480,7 +2480,7 @@ Best-selling Artist/Asia</p></td>
 51. [チャゲアス復活否定で強がるASKA「連絡はあまりしなくていい」](http://www.zakzak.co.jp/smp/ent/news/170819/ent1708192639-s1.html) ZAKZAK 2017年8月21日閲覧
 52.
 53. [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[トリビアの泉](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』2006年5月31日放送
-54. なお、**バラードのチャゲアス**を払拭されるためにASKAは「[YAH YAH YAH](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」「[晴天を誉めるなら夕暮れを待て](https://ja.wikipedia.org/wiki/晴天を誉めるなら夕暮れを待て "wikilink")」（ASKAソロ楽曲）など、CHAGEは「[濡れた夢](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\)#収録曲 "wikilink")」などのそれぞれが作詞作曲した作品も発売している。
+54. なお、**バラードのチャゲアス**を払拭されるためにASKAは「[YAH YAH YAH](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」「[晴天を誉めるなら夕暮れを待て](../Page/晴天を誉めるなら夕暮れを待て.md "wikilink")」（ASKAソロ楽曲）など、CHAGEは「[濡れた夢](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\)#収録曲 "wikilink")」などのそれぞれが作詞作曲した作品も発売している。
 55. [『日経エンタテインメント』](http://web.archive.org/web/20010217044722/http://ent.nikkeibp.co.jp/ent/bn/9910/021.html#c&a_int) 1999年10月号（インターネット・アーカイブのキャッシュ）より
 56. [【1991年8月】SAY YES “月9”のメガヒット チャゲアス初のミリオンセラー](https://www.sponichi.co.jp/entertainment/yomimono/music/anokoro/08/kiji/K20110805001347320.html) スポニチアネックス 2011年8月5日配信,2019年3月7日閲覧
 57. [Something There](https://www.chage-aska.net/discography/single/something_there.php) CHAGE and ASKA Official Web Site 2019年3月7日閲覧

@@ -9,7 +9,7 @@
 
 Ruby は[1993年](../Page/1993年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に生まれ、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月に[fj上で発表された](../Page/Fj_\(ニュースグループ\).md "wikilink")。名称の Ruby は、プログラミング言語 [Perl](../Page/Perl.md "wikilink") が6月の[誕生石](../Page/誕生石.md "wikilink")である Pearl（[真珠](../Page/真珠.md "wikilink")）と同じ発音をし、「Perlに続く」という意味で、6月の次の誕生石（7月）の[ルビー](../Page/ルビー.md "wikilink")から名付けられた\[2\]。競合言語として Perl の他に [Python](../Page/Python.md "wikilink") があり、「Matz（まつもと） が [Python](../Page/Python.md "wikilink") に満足していれば Ruby は生まれなかったであろう」と公式のリファレンスの用語集で言及されている\[3\]。
 
-機能として、[クラス定義](../Page/クラス_\(コンピュータ\).md "wikilink")、[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")、強力な[正規表現](../Page/正規表現.md "wikilink")処理、[マルチスレッド](https://ja.wikipedia.org/wiki/マルチスレッド "wikilink")、[例外処理](../Page/例外処理.md "wikilink")、[イテレータ](../Page/イテレータ.md "wikilink")、[クロージャ](../Page/クロージャ.md "wikilink")、[Mixin](https://ja.wikipedia.org/wiki/Mixin "wikilink")、[利用者定義演算子](https://ja.wikipedia.org/wiki/利用者定義演算子 "wikilink")などがある。Perl を代替可能であることが初期の段階から重視されている。Perlと同様に[グルー言語](../Page/グルー言語.md "wikilink")としての使い方が可能で、[C言語](../Page/C言語.md "wikilink")プログラムやライブラリを呼び出す[拡張モジュール](https://ja.wikipedia.org/wiki/拡張モジュール "wikilink")を組み込むことができる。
+機能として、[クラス定義](../Page/クラス_\(コンピュータ\).md "wikilink")、[ガベージコレクション](../Page/ガベージコレクション.md "wikilink")、強力な[正規表現](../Page/正規表現.md "wikilink")処理、[マルチスレッド](https://ja.wikipedia.org/wiki/マルチスレッド "wikilink")、[例外処理](../Page/例外処理.md "wikilink")、[イテレータ](../Page/イテレータ.md "wikilink")、[クロージャ](../Page/クロージャ.md "wikilink")、[Mixin](../Page/Mixin.md "wikilink")、[利用者定義演算子](https://ja.wikipedia.org/wiki/利用者定義演算子 "wikilink")などがある。Perl を代替可能であることが初期の段階から重視されている。Perlと同様に[グルー言語](../Page/グルー言語.md "wikilink")としての使い方が可能で、[C言語](../Page/C言語.md "wikilink")プログラムやライブラリを呼び出す[拡張モジュール](https://ja.wikipedia.org/wiki/拡張モジュール "wikilink")を組み込むことができる。
 
 Ruby 処理系は、主に[インタプリタ](../Page/インタプリタ.md "wikilink")として実装されている（詳しくは[\#実装](https://ja.wikipedia.org/wiki/#実装 "wikilink")を参照）。
 
@@ -367,7 +367,7 @@ end
   - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") の [ActiveX](../Page/ActiveX.md "wikilink") 環境で Ruby インタープリターを呼び出す [ActiveScriptRuby](https://ja.wikipedia.org/wiki/ActiveScriptRuby "wikilink")（[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 限定だがHTMLに埋めこんでクライアント上で動かすスクリプト言語として Rubyを指定できるようになる）
   - Ruby から [Win32API](../Page/Windows_API.md "wikilink") や[COMコンポーネントを呼び出すためのライブラリー](../Page/Component_Object_Model.md "wikilink") WIN32OLE
   - JavaScript や Flash 上で動く Ruby の処理系 [HotRuby](https://ja.wikipedia.org/wiki/HotRuby "wikilink")
-  - Ruby による[ビヘイビア駆動開発](https://ja.wikipedia.org/wiki/ビヘイビア駆動開発 "wikilink")のためのフレームワーク [RSpec](https://ja.wikipedia.org/wiki/RSpec "wikilink")
+  - Ruby による[ビヘイビア駆動開発](../Page/ビヘイビア駆動開発.md "wikilink")のためのフレームワーク [RSpec](https://ja.wikipedia.org/wiki/RSpec "wikilink")
   - Ruby で書かれた[ビルドツール](https://ja.wikipedia.org/wiki/ビルドツール "wikilink") [Rake](https://ja.wikipedia.org/wiki/Rake_\(ソフトウェア\) "wikilink")
   - Ruby で書かれたmacOS パッケージ管理システム [homebrew](https://ja.wikipedia.org/wiki/homebrew "wikilink")
   - Ruby から[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")を使用するための拡張ライブラリ [DXRuby](https://ja.wikipedia.org/wiki/DXRuby "wikilink")

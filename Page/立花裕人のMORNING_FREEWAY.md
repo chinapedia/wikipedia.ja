@@ -28,7 +28,7 @@
 
   - [おはようSMAP](../Page/おはようSMAP.md "wikilink") …SMAPのメンバーが一人ずつ登場し、東京地方の天気を伝える。
   - ECOLOMUSIC\! …環境保護に関する話題を取り上げる。
-  - [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") CHINA FILE …中国の経済や文化などを紹介する。
+  - [ANA](../Page/全日本空輸.md "wikilink") CHINA FILE …中国の経済や文化などを紹介する。
   - [MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink") …オリンピックに関するコラム。メダリストのインタビューも放送する。ジャパンFMネットワーク制作の番組。全国のJFN加盟局でも同時、あるいは時間差ネットで放送している。
   - [モーニングショット](../Page/アサヒ飲料.md "wikilink") WAKE UP NEWS …ニュースと話題。
   - [リポビタンD](../Page/大正製薬.md "wikilink") FIELD OF SPORTS …スポーツニュースとスポーツに関する話題。毎日1名にリポビタンD50本をプレゼントする。

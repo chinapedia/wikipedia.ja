@@ -13,7 +13,7 @@
 
 [SDTV](../Page/SDTV.md "wikilink")用VTRとしては最高画質であり、[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")の[編集や](../Page/映像編集.md "wikilink")[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")の出力など高画質を要求される分野で用いられたが、放送局では機器が高価なこと（VTRだけでなく編集設備もコンポーネント信号に対応させる必要がある、[コンポジット映像信号](../Page/コンポジット映像信号.md "wikilink")用機器も残るので変換機器が必要など）、ビデオテープのランニングコストが高いことなどから[D2-VTR](../Page/D2-VTR.md "wikilink")の方が普及した。
 
-D1-VTRの入出力インターフェースの物理規格は、当初ECLレベルのパラレル式([ITU-R BT.656](https://ja.wikipedia.org/wiki/:en:ITU-R_BT.656 "wikilink"))であったが、ソニーが[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")を用いた[シリアル伝送方式を開発](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")・普及させた（[SMPTE 259Mとして規格化](https://ja.wikipedia.org/wiki/:en:SMPTE_259M "wikilink")。**[SDI](https://ja.wikipedia.org/wiki/:en:SMPTE_259M "wikilink")**と略される。）ため、のちの[圧縮技術を用いた放送業務用デジタルVTRの多くが](../Page/データ圧縮.md "wikilink")[SDIをインターフェース規格として採用した](https://ja.wikipedia.org/wiki/:en:SMPTE_259M "wikilink")。また、プロダクションスイッチャ等のビデオ編集・制作機器も「D1信号」および「SDI」に対応した製品が普及している。
+D1-VTRの入出力インターフェースの物理規格は、当初ECLレベルのパラレル式([ITU-R BT.656](https://ja.wikipedia.org/wiki/:en:ITU-R_BT.656 "wikilink"))であったが、ソニーが[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")を用いた[シリアル伝送方式を開発](../Page/シリアル通信.md "wikilink")・普及させた（[SMPTE 259Mとして規格化](https://ja.wikipedia.org/wiki/:en:SMPTE_259M "wikilink")。**[SDI](https://ja.wikipedia.org/wiki/:en:SMPTE_259M "wikilink")**と略される。）ため、のちの[圧縮技術を用いた放送業務用デジタルVTRの多くが](../Page/データ圧縮.md "wikilink")[SDIをインターフェース規格として採用した](https://ja.wikipedia.org/wiki/:en:SMPTE_259M "wikilink")。また、プロダクションスイッチャ等のビデオ編集・制作機器も「D1信号」および「SDI」に対応した製品が普及している。
 
 ## D1 フォーマット概要
 

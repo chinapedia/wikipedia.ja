@@ -120,7 +120,7 @@
 <tr class="odd">
 <td><p>12[11]</p></td>
 <td><p><a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パピヨンズ" title="wikilink">ミヤ蝶美・蝶子</a></p></td>
+<td><p><a href="../Page/パピヨンズ.md" title="wikilink">ミヤ蝶美・蝶子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大阪笑ルーム" title="wikilink">大阪笑ルーム</a></p></td>
 <td><p><a href="../Page/テント_(漫談家).md" title="wikilink">大空テント</a>・<a href="https://ja.wikipedia.org/wiki/幸つくる" title="wikilink">幸つくる</a></p></td>
 </tr>
@@ -147,7 +147,7 @@
 </tr>
 <tr class="odd">
 <td><p>16[15]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/非常階段_(お笑いコンビ).md" title="wikilink">非常階段</a></p></td>
 <td><p><a href="../Page/まるむし商店.md" title="wikilink">まるむし商店</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/立山センター・オーバー" title="wikilink">立山センター・オーバー</a></p></td>
@@ -450,7 +450,7 @@
 14. ノミネート：ちゃらんぽらん、ハイヒール、西田タカミ・キヨミ、まるむし商店、[中田八作・草井毛平](https://ja.wikipedia.org/wiki/中田八作・草井毛平 "wikilink")、[ざっと31](https://ja.wikipedia.org/wiki/ざっと31 "wikilink")、[ひろみ・ゆか](https://ja.wikipedia.org/wiki/ひろみ・ゆか "wikilink")、岡けん太・ゆう太。
 15. ノミネート：非常階段、まるむし商店、立山センター・オーバー、[ピンナップ](https://ja.wikipedia.org/wiki/ピンナップ_\(お笑いコンビ\) "wikilink")、[ブレイク](https://ja.wikipedia.org/wiki/ブレイク_\(お笑いコンビ\) "wikilink")、[ザ・ポテト](https://ja.wikipedia.org/wiki/ポテトフライ_\(お笑いコンビ\) "wikilink")、和光亭幸助・福助、[ソフィア](https://ja.wikipedia.org/wiki/ソフィア_\(お笑いコンビ\) "wikilink")。
 16. ノミネート：どんきほ〜て、岡けん太・ゆう太、ポテトフライ、[ピンクダック](https://ja.wikipedia.org/wiki/ピンクダック "wikilink")、和光亭幸助・福助、[やっちゃん&ゆうちゃん](https://ja.wikipedia.org/wiki/やっちゃん&ゆうちゃん "wikilink")、[ソフィア](https://ja.wikipedia.org/wiki/ソフィア_\(お笑いコンビ\) "wikilink")、[小川あたる・たまる](https://ja.wikipedia.org/wiki/小川あたる・たまる "wikilink")。
-17. ノミネート：オールディーズ、ビッグブラザーズ、和光亭幸助・福助、[キャラメルランド](https://ja.wikipedia.org/wiki/キャラメルランド "wikilink")、[ベジタブル](https://ja.wikipedia.org/wiki/大滝エージェンシー "wikilink")、ミモ・ファルス、[やっちゃん&なお君](https://ja.wikipedia.org/wiki/やっちゃん&なお君 "wikilink")、[ライム・ライト](https://ja.wikipedia.org/wiki/ライム・ライト_\(お笑いコンビ\) "wikilink")。
+17. ノミネート：オールディーズ、ビッグブラザーズ、和光亭幸助・福助、[キャラメルランド](https://ja.wikipedia.org/wiki/キャラメルランド "wikilink")、[ベジタブル](../Page/大滝エージェンシー.md "wikilink")、ミモ・ファルス、[やっちゃん&なお君](https://ja.wikipedia.org/wiki/やっちゃん&なお君 "wikilink")、[ライム・ライト](https://ja.wikipedia.org/wiki/ライム・ライト_\(お笑いコンビ\) "wikilink")。
 18. ノミネート：ミモ・ファルス、中田はじめ・圭祐、シンデレラエキスプレス、[大前銀平・なつ紀](https://ja.wikipedia.org/wiki/大前銀平・なつ紀 "wikilink")、[高山・河本](../Page/ベイブルース.md "wikilink")、[パールピアス](https://ja.wikipedia.org/wiki/パールピアス_\(お笑いコンビ\) "wikilink")、[130R](../Page/130R.md "wikilink")、[リットン調査団](../Page/リットン調査団_\(お笑いコンビ\).md "wikilink")。
 19. ノミネート：ティーアップ、平川タロージロー、ベイブルース、ぴのっきを、[未来世紀01・02](https://ja.wikipedia.org/wiki/未来世紀01・02 "wikilink")、[トゥナイト](../Page/トゥナイト_\(お笑いコンビ\).md "wikilink")、[メキシコ台風](https://ja.wikipedia.org/wiki/メキシコ台風 "wikilink")、[BANG BANG](https://ja.wikipedia.org/wiki/BANG_BANG "wikilink")。
 20. ノミネート：犬丸兄弟、未来世紀01・02、ぴのっきを、[オミーズ](https://ja.wikipedia.org/wiki/オミーズ "wikilink")、[サムソンズ](https://ja.wikipedia.org/wiki/サムソンズ "wikilink")、[新撰組](../Page/山内圭哉.md "wikilink")、[中田尚希・祐士](https://ja.wikipedia.org/wiki/中田なおき "wikilink")、[BANG BANG](https://ja.wikipedia.org/wiki/BANG_BANG "wikilink")。

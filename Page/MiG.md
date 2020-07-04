@@ -63,7 +63,7 @@ Russian UCAV MiG «Scat».jpg|Skat
   - [MiG-6](https://ja.wikipedia.org/wiki/MiG-6_\(航空機\) "wikilink") - 攻撃機
   - [MiG-7](https://ja.wikipedia.org/wiki/MiG-7_\(航空機\) "wikilink") - 戦闘機
   - [MiG-8](https://ja.wikipedia.org/wiki/MiG-8_\(航空機\) "wikilink") ウートカ - 実験機
-  - [MiG-9 «IKh» (I-210)](https://ja.wikipedia.org/wiki/MiG-9_\(航空機・初代\) "wikilink") - 戦闘機
+  - [MiG-9 «IKh» (I-210)](../Page/MiG-9_\(航空機・初代\).md "wikilink") - 戦闘機
   - [MiG-11 (I-220)](https://ja.wikipedia.org/wiki/MiG-11_\(航空機\) "wikilink") - 戦闘機
   - [MiG-13 «N» (I-250)](../Page/MiG-13_\(航空機\).md "wikilink") - ジェット混合戦闘機
   - [MiG-33 (MiG-29ME)](https://ja.wikipedia.org/wiki/MiG-29M_\(航空機\) "wikilink") - 戦闘機
@@ -73,12 +73,12 @@ Russian UCAV MiG «Scat».jpg|Skat
   - [MiG-AT](https://ja.wikipedia.org/wiki/MiG-AT_\(航空機\) "wikilink") - 練習機
   - 1.27 - ステルス戦闘機 ([PAK FA](../Page/Su-57_\(航空機\).md "wikilink"))
   - 1.42 - 多用途戦闘機 ([MFI](../Page/MFI_\(航空機\).md "wikilink"))
-  - [1.44](https://ja.wikipedia.org/wiki/1.44_\(航空機\) "wikilink") 「フラットパック」 - 1.42の概念実証機
+  - [1.44](../Page/1.44_\(航空機\).md "wikilink") 「フラットパック」 - 1.42の概念実証機
   - 4.12 - 多用途戦闘機 (LFS)
   - [7.01](../Page/7.01_\(航空機\).md "wikilink") - 迎撃戦闘機 (MDP)
   - [23-01 (MiG-23PD)](../Page/MiG-23_\(航空機\).md "wikilink") 「フェイスレス」 - 戦闘機
   - [23-31 (MiG-21PD)](../Page/MiG-21_\(航空機\).md "wikilink") 「フィッシュベッド」 - 実験機
-  - [41](https://ja.wikipedia.org/wiki/41_\(航空機\) "wikilink") - 戦闘機
+  - [41](../Page/41_\(航空機\).md "wikilink") - 戦闘機
   - A-144 (MiG-21I) アナローク - 実験機
   - [I-3](https://ja.wikipedia.org/wiki/I-3_\(航空機\) "wikilink") - 迎撃戦闘機
   - [I-7U](https://ja.wikipedia.org/wiki/I-7U_\(航空機\) "wikilink") - 迎撃戦闘機

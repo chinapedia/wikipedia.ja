@@ -268,7 +268,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/斉藤寿朗" title="wikilink">斉藤寿朗</a></p></td>
+<td><p><a href="../Page/斉藤寿朗.md" title="wikilink">斉藤寿朗</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">日本語センター</a></p></td>
 <td></td>
 </tr>

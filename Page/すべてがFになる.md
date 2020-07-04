@@ -679,7 +679,7 @@
 3.  0からカウントした場合、数は1小さくなる。
 4.  テレビアニメでは国立那古野大学。
 5.
-6.  森博嗣 ドラマ化に当たってのメッセージ「連続ドラマ化記念『すべてがFになる』の世界」『[IN★POCKET](https://ja.wikipedia.org/wiki/IN★POCKET "wikilink")』2014年11月号 [講談社](../Page/講談社.md "wikilink") p.169
+6.  森博嗣 ドラマ化に当たってのメッセージ「連続ドラマ化記念『すべてがFになる』の世界」『[IN★POCKET](../Page/IN★POCKET.md "wikilink")』2014年11月号 [講談社](../Page/講談社.md "wikilink") p.169
 7.
 8.
 9.  [すべてがFになる](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/F/index.html) 、[スポニチアネックス](https://ja.wikipedia.org/wiki/スポニチアネックス "wikilink")、2014年12月27日閲覧。

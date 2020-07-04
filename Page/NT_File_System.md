@@ -36,7 +36,7 @@ NTFS 1.2とNTFS 3.xとの間には互換性が無く、Windows NT 4.0上からNT
   - POSIXサポート
     [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")政府のコンピュータ納入の条件として[POSIX](../Page/POSIX.md "wikilink")サポートが必須条項であったため、NTFSはPOSIX.1仕様の環境を提供する。これには、ファイル名やディレクトリ名の大文字と小文字の区別やアクセス権、[ハードリンク](../Page/ハードリンク.md "wikilink")、互換性を持つ[タイムスタンプ](https://ja.wikipedia.org/wiki/タイムスタンプ "wikilink")のサポートが含まれる。
   - [代替データ ストリーム](https://ja.wikipedia.org/wiki/フォーク_\(ファイルシステム\)#マイクロソフト "wikilink")（マルチ データ ストリーム）
-    NTFSは、一つのディレクトリ エントリに対して、複数のデータ ストリームを持つことができる。これは[Macintosh](../Page/Macintosh.md "wikilink")で使われる[HFS+におけるマルチ](https://ja.wikipedia.org/wiki/HFS_Plus "wikilink") フォークに相当する機能で、ファイルの概要情報やアクセス制御リストなどはこの機能を利用してディレクトリ エントリに結び付けられている。
+    NTFSは、一つのディレクトリ エントリに対して、複数のデータ ストリームを持つことができる。これは[Macintosh](../Page/Macintosh.md "wikilink")で使われる[HFS+におけるマルチ](../Page/HFS_Plus.md "wikilink") フォークに相当する機能で、ファイルの概要情報やアクセス制御リストなどはこの機能を利用してディレクトリ エントリに結び付けられている。
 
 ### 頑健性とセキュリティ
 

@@ -9,7 +9,7 @@
 
 バンド名はサーフィン用語の「[チューブライディング](https://ja.wikipedia.org/wiki/:en:Tube_riding "wikilink")」に由来する。アマチュア時代は「パイプライン」というバンド名で活動し、デビューした1985年はバンド名を「The TUBE」としていたが、[北海道文化放送](../Page/北海道文化放送.md "wikilink")の「Sound club 1700」（当時土曜17時台に放送されていた音楽番組）に出演した際、姓名判断師（木村天山）に「画数が悪い、名前の"The"を取ればバンドは良い方向へ向かう」と言われ、翌1986年、3rdシングル「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」発売前に、正式に「**TUBE**」と改名。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[2004年](../Page/2004年.md "wikilink")までシングル連続TOP10入り（15年、歴代2位）の記録を持つ。[アルバム](../Page/アルバム.md "wikilink")は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の「[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")」で週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")3位を記録して以来、2012年まで[アルバム](../Page/アルバム.md "wikilink")連続TOP10入り（27年、歴代2位）をコンスタントに記録している。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[2004年](../Page/2004年.md "wikilink")までシングル連続TOP10入り（15年、歴代2位）の記録を持つ。[アルバム](../Page/アルバム.md "wikilink")は[1986年](../Page/1986年.md "wikilink")の「[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")」で週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")3位を記録して以来、2012年まで[アルバム](../Page/アルバム.md "wikilink")連続TOP10入り（27年、歴代2位）をコンスタントに記録している。
 
 結成地は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[座間市](../Page/座間市.md "wikilink")であり、メンバーの出身地は神奈川[県央](https://ja.wikipedia.org/wiki/県央 "wikilink")地区と[東京都](../Page/東京都.md "wikilink")下である。
 
@@ -96,14 +96,14 @@
 <!-- end list -->
 
   - [5月30日](../Page/5月30日.md "wikilink") - 東京プリンスホテルにて「デビュー・コンベンションライブ」を行なう\[13\]。
-  - [6月1日](../Page/6月1日.md "wikilink") - バンド名「The TUBE」として[ベストセラー・サマー](../Page/ベストセラー・サマー.md "wikilink")でプロデビュー。この曲で[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")、[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")、[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE等の主要な歌番組への初出演を果たす。なお、デビュー当初はTUBEはシングル曲を外部作家に委ねていたが、翌[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")より楽曲はビーイング内の作家にシフトすることになる。
+  - [6月1日](../Page/6月1日.md "wikilink") - バンド名「The TUBE」として[ベストセラー・サマー](../Page/ベストセラー・サマー.md "wikilink")でプロデビュー。この曲で[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")、[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")、[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE等の主要な歌番組への初出演を果たす。なお、デビュー当初はTUBEはシングル曲を外部作家に委ねていたが、翌[1986年](../Page/1986年.md "wikilink")より楽曲はビーイング内の作家にシフトすることになる。
   - [7月1日](../Page/7月1日.md "wikilink") - 1stアルバム「[HEART OF SUMMER](https://ja.wikipedia.org/wiki/HEART_OF_SUMMER "wikilink")」をリリース、CDチャートTOP30入りを果たす。
   - [11月24日](../Page/11月24日.md "wikilink") - 初の単体コンサートを逗子マリーナの会場で行なう\[14\]。
   - [12月1日](../Page/12月1日.md "wikilink") - 「[OFF SHORE DREAMIN'](https://ja.wikipedia.org/wiki/OFF_SHORE_DREAMIN' "wikilink")」をリリース。
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@
 
   - [7月1日](../Page/7月1日.md "wikilink") - 13thシングル「[さよならイエスタデイ](../Page/さよならイエスタデイ.md "wikilink")」リリース。この作品も「あー夏休み」同様に[ラテンリズムのサウンドであり](../Page/ラテン音楽.md "wikilink")、ここでまたTUBEはひとつのスタイル「ラテンサウンド」を確立させることとなる。この作品で初めてシングルの売上枚数が50万枚を突破し、推計60万枚を超すセールスを記録。
   - 日本有線大賞にて「さよならイエスタデイ」で有線音楽優秀賞を受賞。
-  - この年から[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")での野外ライブが恒例になる。（[2015年](../Page/2015年.md "wikilink")を最後に一旦終了）
+  - この年から[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")での野外ライブが恒例になる。（[2015年](../Page/2015年.md "wikilink")を最後に一旦終了）
 
 <!-- end list -->
 
@@ -601,7 +601,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td><p><strong><a href="../Page/シーズン・イン・ザ・サン_(TUBEの曲).md" title="wikilink">シーズン・イン・ザ・サン</a></strong></p></td>
 <td><p>作詞：亜蘭知子<br />
 作曲：織田哲郎<br />
@@ -611,7 +611,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BECAUSE_I_LOVE_YOU_(TUBEの曲)" title="wikilink">BECAUSE I LOVE YOU</a></strong></p></td>
 <td><p>作詞：亜蘭知子<br />
 作曲：長戸大幸・西村麻聡<br />
@@ -1215,7 +1215,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
 <td><p><strong><a href="../Page/シーズン・イン・ザ・サン_(TUBEの曲).md" title="wikilink">シーズン・イン・ザ・サン (Special Remixed Seaside Version)</a></strong></p></td>
 <td><p>作詞：亜蘭知子<br />
 作曲：織田哲郎<br />
@@ -1283,8 +1283,8 @@
 | ----- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------ |
 | 1st   | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")                    | **[HEART OF SUMMER](https://ja.wikipedia.org/wiki/HEART_OF_SUMMER "wikilink")**              | 29位    |
 | 2nd   | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")                  | **[OFF SHORE DREAMIN'](https://ja.wikipedia.org/wiki/OFF_SHORE_DREAMIN' "wikilink")**        | 62位    |
-| 3rd   | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")                    | **[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")**  | 3位     |
-| 4th   | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")                  | **[BOYS ON THE BEACH](https://ja.wikipedia.org/wiki/BOYS_ON_THE_BEACH_\(アルバム\) "wikilink")** | 6位     |
+| 3rd   | [1986年](../Page/1986年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                                       | **[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")**  | 3位     |
+| 4th   | [1986年](../Page/1986年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")                                     | **[BOYS ON THE BEACH](https://ja.wikipedia.org/wiki/BOYS_ON_THE_BEACH_\(アルバム\) "wikilink")** | 6位     |
 | 5th   | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")                  | **[SUMMER DREAM](https://ja.wikipedia.org/wiki/SUMMER_DREAM_\(アルバム\) "wikilink")**           | 2位     |
 | 6th   | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")                | **[Twilight Swim](https://ja.wikipedia.org/wiki/Twilight_Swim "wikilink")**                  | 7位     |
 | 7th   | [1988年](../Page/1988年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")                                     | **[Beach Time](https://ja.wikipedia.org/wiki/Beach_Time_\(アルバム\) "wikilink")**               | 3位     |
@@ -1384,7 +1384,7 @@
 
 | リリース順                                                                                                                                                                                        | リリース日                                                                                         | タイトル                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st                                                                                                                                                                                          | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")   | **THE ISLAND IN THE SUN**                                                                                                                                   |
+| 1st                                                                                                                                                                                          | [1986年](../Page/1986年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")                      | **THE ISLAND IN THE SUN**                                                                                                                                   |
 | 2nd                                                                                                                                                                                          | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")   | **SUMMER DREAM**                                                                                                                                            |
 | 3rd                                                                                                                                                                                          | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink") | **Best Collection On The Beach**                                                                                                                            |
 | 4th                                                                                                                                                                                          | [1988年](../Page/1988年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")                    | **熱帯夜LIVE〜夕方チャンス到来〜**                                                                                                                                       |
@@ -1527,20 +1527,20 @@ TUBEのシングル46作目「<a href="../Page/みんなのうみ.md" title="wik
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
 <td><p><strong>シーズン・イン・ザ・サン</strong></p></td>
 <td><p>バンド・スコア<br />
 <a href="../Page/リットーミュージック.md" title="wikilink">リットーミュージック</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
 <td><p>バンド・スコア 東京音楽書院</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/10月20日.md" title="wikilink">10月20日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/10月20日.md" title="wikilink">10月20日</a></p></td>
 <td><p><strong>TUBE SPECIAL</strong></p></td>
 <td><p>バンド・スコア<br />
 <a href="../Page/ドレミ楽譜出版社.md" title="wikilink">ドレミ楽譜出版社</a></p></td>
@@ -1883,7 +1883,7 @@ TUBE LIVE AROUND SPECIAL<br />
 <td><p><strong>TUBE LIVE AROUND SPECIAL '91<br />
 猛烈残暑</strong></p></td>
 <td><p>全5会場・5公演<br />
-<a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">阪神甲子園球場</a>、<a href="../Page/宇和島市営丸山球場.md" title="wikilink">宇和島市営丸山球場</a>、名古屋城深井丸、横浜スタジアム、<a href="../Page/宜野湾海浜公園.md" title="wikilink">宜野湾市海浜公園野外劇場</a></p></td>
+<a href="../Page/阪神甲子園球場.md" title="wikilink">阪神甲子園球場</a>、<a href="../Page/宇和島市営丸山球場.md" title="wikilink">宇和島市営丸山球場</a>、名古屋城深井丸、横浜スタジアム、<a href="../Page/宜野湾海浜公園.md" title="wikilink">宜野湾市海浜公園野外劇場</a></p></td>
 <td><center>
 <p>-</p>
 <center></td>
@@ -2367,7 +2367,7 @@ Your TUBE ＋ My TUBE</strong></p></td>
 <td><p><strong>TUBE LIVE AROUND SPECIAL 2016<br />
 RIDE ON SUMMER</strong></p></td>
 <td><p>全2会場・2公演<br />
-<a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">阪神甲子園球場</a>、横浜スタジアム</p></td>
+<a href="../Page/阪神甲子園球場.md" title="wikilink">阪神甲子園球場</a>、横浜スタジアム</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2439,7 +2439,7 @@ RIDE ON SUMMER</strong></p></td>
 | [Kona windに吹かれて](https://ja.wikipedia.org/wiki/ゆずれない夏_\(アルバム\) "wikilink")                                                | [ハウステンボス](https://ja.wikipedia.org/wiki/ハウステンボス "wikilink")CMソング                                                                       |
 | [あの夏を探して](https://ja.wikipedia.org/wiki/あの夏を探して "wikilink")                                                               | フジテレビ系ドラマ「[100億の男](../Page/100億の男.md "wikilink")」主題歌                                                                                   |
 | [君にSorry](https://ja.wikipedia.org/wiki/Only_You_君と夏の日を "wikilink")                                                       | 東京スクールオブビジネスCMソング                                                                                                                      |
-| [東京観光専門学校](https://ja.wikipedia.org/wiki/東京観光専門学校 "wikilink")CMソング                                                        |                                                                                                                                        |
+| [東京観光専門学校](../Page/東京観光専門学校.md "wikilink")CMソング                                                                           |                                                                                                                                        |
 | [東京ビジュアルアーツ](https://ja.wikipedia.org/wiki/東京ビジュアルアーツ "wikilink")CMソング                                                    |                                                                                                                                        |
 | [Only You 君と夏の日を](https://ja.wikipedia.org/wiki/Only_You_君と夏の日を "wikilink")                                               | [サッポロビール](../Page/サッポロビール.md "wikilink")「夏の海岸物語」CMソング                                                                                  |
 | [僕達だけのSummer Days](https://ja.wikipedia.org/wiki/Only_Good_Summer "wikilink")                                             | [JAL](../Page/日本航空.md "wikilink")「チケットレスサービス」CMソング                                                                                     |

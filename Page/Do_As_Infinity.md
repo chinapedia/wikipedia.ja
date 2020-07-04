@@ -1257,7 +1257,7 @@
 <a href="../Page/5月7日.md" title="wikilink">5月7日</a>　札幌市民会館<br />
 <a href="../Page/5月14日.md" title="wikilink">5月14日</a>　<a href="../Page/フェニックス・プラザ.md" title="wikilink">フェニックス・プラザ</a><br />
 <a href="../Page/5月15日.md" title="wikilink">5月15日</a>　<a href="../Page/富山市芸術文化ホール.md" title="wikilink">富山市芸術文化ホール</a><br />
-<a href="../Page/5月17日.md" title="wikilink">5月17日</a>　<a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+<a href="../Page/5月17日.md" title="wikilink">5月17日</a>　<a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 <a href="../Page/5月19日.md" title="wikilink">5月19日</a>　広島郵便貯金ホール<br />
 <a href="../Page/5月20日.md" title="wikilink">5月20日</a>　<a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a><br />
 <a href="../Page/5月23日.md" title="wikilink">5月23日</a>　熊本県立劇場<br />

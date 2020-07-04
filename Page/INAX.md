@@ -36,7 +36,7 @@
   - [1949年](../Page/1949年.md "wikilink") - [名古屋証券取引所](../Page/名古屋証券取引所.md "wikilink")に上場。
   - [1958年](../Page/1958年.md "wikilink") - ポリバスの製造を開始。
   - [1967年](../Page/1967年.md "wikilink") - シャワートイレ（温水洗浄便座）付便器「サニタリーナ61」を発売。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ユニットバスの製造を開始。
+  - [1968年](../Page/1968年.md "wikilink") - ユニットバスの製造を開始。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 「ina」のロゴマークを使用開始。
   - [1974年](../Page/1974年.md "wikilink") - 節水消音便器「カスカディーナ」を発売。
   - [1975年](../Page/1975年.md "wikilink") - システムキッチン製造開始。
@@ -44,7 +44,7 @@
   - [1977年](../Page/1977年.md "wikilink") - 簡易水洗便器「トイレーナ」発売開始。
   - [1984年](../Page/1984年.md "wikilink") - システムトイレを発売。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月21日](../Page/4月21日.md "wikilink") - **株式会社イナックス**に商号変更。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 六本木・アークヒルズ内に「XSITE」をオープン。
+  - [1986年](../Page/1986年.md "wikilink") - 六本木・アークヒルズ内に「XSITE」をオープン。
   - [1988年](../Page/1988年.md "wikilink") - 常滑トイレパークを開園。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 世界初の自己発電型自動水栓「オートマージュ」を発売。
   - [1993年](../Page/1993年.md "wikilink") - 住宅用外装材「エクセリア」を発売。

@@ -7,7 +7,7 @@
 
 [ソニー](../Page/ソニー.md "wikilink")が[1996年](../Page/1996年.md "wikilink")から[2014年](../Page/2014年.md "wikilink")6月まで販売し、2014年7月からは切り離され[VAIO株式会社に移管されているためソニー以外製品](https://ja.wikipedia.org/wiki/VAIO_\(企業\) "wikilink")、例えば台湾製のものなどにも冠されている。[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")もソニー株式会社からVAIO株式会社に移管されている。
 
-「Video Audio Integrated Operation」の[頭字語](../Page/頭字語.md "wikilink")とされ、[AV機能を重視している](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")\[1\]。2008年7月には「Visual Audio Intelligent Organizer」と再定義された\[2\]。また、“VAIO”の[ネーミング](https://ja.wikipedia.org/wiki/ネーミング "wikilink")および[ロゴ](../Page/ロゴタイプ.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")は[後藤禎祐](https://ja.wikipedia.org/wiki/後藤禎祐 "wikilink")によるものである\[3\]。なお、ロゴの意匠のうち“VA”は[正弦波](../Page/正弦波.md "wikilink")で[アナログ](../Page/アナログ.md "wikilink")を、“IO”は[1](https://ja.wikipedia.org/wiki/1 "wikilink")と[0](../Page/0.md "wikilink")で[デジタル](../Page/デジタル.md "wikilink")を意味しており\[4\]、「アナログとデジタルの融合」というスローガンを掲げている\[5\]。さらに、ノートパソコンの電源投入時に再生されるサウンドは、プッシュホンの文字対応（[w:Telephone keypad\#Letter mapping](https://ja.wikipedia.org/wiki/w:Telephone_keypad#Letter_mapping "wikilink")）で “V” “A” “I” “O” を押下したときの[DTMF](../Page/DTMF.md "wikilink")音をモチーフとしている\[6\]。
+「Video Audio Integrated Operation」の[頭字語](../Page/頭字語.md "wikilink")とされ、[AV機能を重視している](../Page/オーディオ・ビジュアル.md "wikilink")\[1\]。2008年7月には「Visual Audio Intelligent Organizer」と再定義された\[2\]。また、“VAIO”の[ネーミング](https://ja.wikipedia.org/wiki/ネーミング "wikilink")および[ロゴ](../Page/ロゴタイプ.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")は[後藤禎祐](https://ja.wikipedia.org/wiki/後藤禎祐 "wikilink")によるものである\[3\]。なお、ロゴの意匠のうち“VA”は[正弦波](../Page/正弦波.md "wikilink")で[アナログ](../Page/アナログ.md "wikilink")を、“IO”は[1](https://ja.wikipedia.org/wiki/1 "wikilink")と[0](../Page/0.md "wikilink")で[デジタル](../Page/デジタル.md "wikilink")を意味しており\[4\]、「アナログとデジタルの融合」というスローガンを掲げている\[5\]。さらに、ノートパソコンの電源投入時に再生されるサウンドは、プッシュホンの文字対応（[w:Telephone keypad\#Letter mapping](https://ja.wikipedia.org/wiki/w:Telephone_keypad#Letter_mapping "wikilink")）で “V” “A” “I” “O” を押下したときの[DTMF](../Page/DTMF.md "wikilink")音をモチーフとしている\[6\]。
 
 ## 特徴
 
@@ -20,7 +20,7 @@
 [SONY_VAIO_VPCZ119FJ-S_02.jpg](https://ja.wikipedia.org/wiki/File:SONY_VAIO_VPCZ119FJ-S_02.jpg "fig:SONY_VAIO_VPCZ119FJ-S_02.jpg")
 
   - モバイルとデザイン
-    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に登場したノートPC「VAIO NOTE 505(PCG-505)」以降、VAIOといえば軽量・薄型のモバイルノートパソコンというイメージが定着した\[13\]\[14\]。また、ただ単に軽くて薄いというだけでなく、[マグネシウム](../Page/マグネシウム.md "wikilink")合金を用いたバイオレットカラーのデザインは、圧倒的な存在感も生み出した\[15\]\[16\]。当時のPCの筐体は白もしくは黒・グレー系の色で占められていたが、VAIOでは意図的にバイオレット（[紫色](https://ja.wikipedia.org/wiki/紫色 "wikilink")）を用いた。理由には、「バイオ」という愛称の語感を"[violet（＝菫色）](https://ja.wikipedia.org/wiki/菫色 "wikilink")"と関連付けて名前と製品の特徴を覚えてもらうことと、基本機能では差別化が困難だったPC市場にあって、売り場で目立つようにすることが狙いだったともいわれる。この特徴的なデザインは、パソコン業界でVAIOというブランドが確立される足がかりとなった\[17\]。また、VAIOが「デザインでの差別化」で成功したことは他社製品にも影響を与え、それまでは「傷が目立つ」「傷がつきにくい強度の確保が必要となりコストが高くなる」といった理由で地味な色使いが多かったノートパソコンのデザイントレンドに変化をもたらし、いわゆる「銀パソ\[18\]」が広まるきっかけとなった\[19\]。その後のバイオノートC1（1998年）やUシリーズ・type U（2002年-2008年）、type P（2009年）はその小型さが、バイオC1・バイオノートGT・NVシリーズ（2000年-2002年）は、今まで無かったPCの利用法をそれぞれ実験的に提案する[エポックメイキング](https://ja.wikipedia.org/wiki/エポックメイキング "wikilink")となった。デスクトップモデルでは2000年から展開された液晶モニタと本体一体型のLシリーズ（バイオLX→type L）・Jシリーズや、[MDドライブを内蔵したバイオMX](../Page/ミニディスク.md "wikilink")、円柱型のテレビサイドPC TP1など独創的なデザインのモデルで他社製品と差別化していた。
+    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に登場したノートPC「VAIO NOTE 505(PCG-505)」以降、VAIOといえば軽量・薄型のモバイルノートパソコンというイメージが定着した\[13\]\[14\]。また、ただ単に軽くて薄いというだけでなく、[マグネシウム](../Page/マグネシウム.md "wikilink")合金を用いたバイオレットカラーのデザインは、圧倒的な存在感も生み出した\[15\]\[16\]。当時のPCの筐体は白もしくは黒・グレー系の色で占められていたが、VAIOでは意図的にバイオレット（[紫色](https://ja.wikipedia.org/wiki/紫色 "wikilink")）を用いた。理由には、「バイオ」という愛称の語感を"[violet（＝菫色）](../Page/菫色.md "wikilink")"と関連付けて名前と製品の特徴を覚えてもらうことと、基本機能では差別化が困難だったPC市場にあって、売り場で目立つようにすることが狙いだったともいわれる。この特徴的なデザインは、パソコン業界でVAIOというブランドが確立される足がかりとなった\[17\]。また、VAIOが「デザインでの差別化」で成功したことは他社製品にも影響を与え、それまでは「傷が目立つ」「傷がつきにくい強度の確保が必要となりコストが高くなる」といった理由で地味な色使いが多かったノートパソコンのデザイントレンドに変化をもたらし、いわゆる「銀パソ\[18\]」が広まるきっかけとなった\[19\]。その後のバイオノートC1（1998年）やUシリーズ・type U（2002年-2008年）、type P（2009年）はその小型さが、バイオC1・バイオノートGT・NVシリーズ（2000年-2002年）は、今まで無かったPCの利用法をそれぞれ実験的に提案する[エポックメイキング](https://ja.wikipedia.org/wiki/エポックメイキング "wikilink")となった。デスクトップモデルでは2000年から展開された液晶モニタと本体一体型のLシリーズ（バイオLX→type L）・Jシリーズや、[MDドライブを内蔵したバイオMX](../Page/ミニディスク.md "wikilink")、円柱型のテレビサイドPC TP1など独創的なデザインのモデルで他社製品と差別化していた。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ VAIOシリーズの出荷台数は、1999年度に約140万台、2004年度に33
 
 2006年には[Intel Coreプロセッサーを搭載した新系統モデルが発表され](../Page/Intel_Core.md "wikilink")、2つの[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")を用途に応じて切り替え可能なハイブリッドグラフィックス機能と[ExpressCard](../Page/ExpressCard.md "wikilink")スロットをVAIOで初めて搭載したパワーユーザー向けのtype Sと、マグネシウム合金を用いて軽量化したtype SZ、[ワンセグ](../Page/ワンセグ.md "wikilink")チューナーを内蔵し本体HDDに録画も可能なtype Tなどが発売された。これらはオーナーメイドモデルに限って液晶天板をtype505 EXTREMEよりも材質が進化したプレミアムカーボンによるものが選択できる。[HDV](../Page/HDV.md "wikilink")方式で撮影・録画された動画編集にも耐えうるハイスペックを誇るセパレート（本体・ディスプレイ分離）型のデスクトップマシンtype R masterは、ディスプレイ同梱版で実売価格40万円程度と、前代のマイクロタワーやRX並の高価格モデルとして売り出された。
 
-同年の夏・秋冬モデルは[Intel Core 2プロセッサーが登場し](../Page/Intel_Core_2.md "wikilink")、2007年春モデルは[Windows Vistaへの更新に伴いラインナップが短サイクルで一新されたが](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")、type Tと同等の性能を[文庫本](../Page/文庫本.md "wikilink")大サイズで実現するとともに、[指紋認証や](https://ja.wikipedia.org/wiki/バイオメトリクス "wikilink")[Bluetooth](../Page/Bluetooth.md "wikilink")・[無線LAN](../Page/無線LAN.md "wikilink")を搭載し、[SSDドライブでのゼロ](../Page/ソリッドステートドライブ.md "wikilink")[スピンドル](https://ja.wikipedia.org/wiki/スピンドル "wikilink")化にも対応した（オーナーメイドの場合）type Uが注目を浴びた。また[Let's noteに対抗した軽量で丈夫なビジネスモバイルマシンとしてtype](https://ja.wikipedia.org/wiki/Let's_note "wikilink") Gが発売されている。
+同年の夏・秋冬モデルは[Intel Core 2プロセッサーが登場し](../Page/Intel_Core_2.md "wikilink")、2007年春モデルは[Windows Vistaへの更新に伴いラインナップが短サイクルで一新されたが](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")、type Tと同等の性能を[文庫本](../Page/文庫本.md "wikilink")大サイズで実現するとともに、[指紋認証や](https://ja.wikipedia.org/wiki/バイオメトリクス "wikilink")[Bluetooth](../Page/Bluetooth.md "wikilink")・[無線LAN](../Page/無線LAN.md "wikilink")を搭載し、[SSDドライブでのゼロ](../Page/ソリッドステートドライブ.md "wikilink")[スピンドル](../Page/スピンドル.md "wikilink")化にも対応した（オーナーメイドの場合）type Uが注目を浴びた。また[Let's noteに対抗した軽量で丈夫なビジネスモバイルマシンとしてtype](https://ja.wikipedia.org/wiki/Let's_note "wikilink") Gが発売されている。
 
 第二世代VAIOの[CPU](../Page/CPU.md "wikilink")はほぼ[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製で、[AMD製は](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")2004年発売機種で極稀にしか存在しない。
 
@@ -90,7 +90,7 @@ VAIOシリーズの出荷台数は、1999年度に約140万台、2004年度に33
 
 2007年5月17日には、VAIO国内販売10周年記念としてtype Tの新型で、VGN-TXの後継となるVGN-TZ系統の製品が発表。2008年秋モデルではそれまでメインストリーム的なモバイルノートだったtype SZが終息し、北米市場で先行発表されていたtype Zが発売された。
 
-2008年に廉価な[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")で海外メーカーが隆起すると、価格崩壊を懸念したため同分野の機種発売には消極的であると報じられていた時期もあったが、2009年1月に一般的なネットブックより小型かつ高解像度で[Intel Atomプロセッサーを用いた](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")「type P」を発表。それまでのtype Uシリーズよりも大幅に廉価な10万円以下の実勢価格で売り出された。同シリーズは『ポケットスタイルPC』と提唱し、[ジーパン](https://ja.wikipedia.org/wiki/ジーパン "wikilink")の尻ポケットに本体を差し込んで歩く広告が制作されている。さらに、他社のネットブックと同程度のスペックながらVAIOソフトウェアを搭載したエントリーユーザー向けの「VAIOネットブック『Wシリーズ』」が8月に発売。10月の[Windows 7の発売時期には](https://ja.wikipedia.org/wiki/Windows_7 "wikilink")「type 505 EXTRIME」や「type P」を凌ぐ薄さと長時間稼働を10万円前後の実勢価格で実現した「VAIO Xシリーズ」が発売された。これらモデルより、シリーズ名称が「type XX」から「XXシリーズ」となる。また、一部のシリーズから品番が新しくなり、ボードPC・ノートPCを問わずすべて"VPC"から始まり、ハイフンがなくなった。
+2008年に廉価な[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")で海外メーカーが隆起すると、価格崩壊を懸念したため同分野の機種発売には消極的であると報じられていた時期もあったが、2009年1月に一般的なネットブックより小型かつ高解像度で[Intel Atomプロセッサーを用いた](../Page/Intel_Atom.md "wikilink")「type P」を発表。それまでのtype Uシリーズよりも大幅に廉価な10万円以下の実勢価格で売り出された。同シリーズは『ポケットスタイルPC』と提唱し、[ジーパン](https://ja.wikipedia.org/wiki/ジーパン "wikilink")の尻ポケットに本体を差し込んで歩く広告が制作されている。さらに、他社のネットブックと同程度のスペックながらVAIOソフトウェアを搭載したエントリーユーザー向けの「VAIOネットブック『Wシリーズ』」が8月に発売。10月の[Windows 7の発売時期には](https://ja.wikipedia.org/wiki/Windows_7 "wikilink")「type 505 EXTRIME」や「type P」を凌ぐ薄さと長時間稼働を10万円前後の実勢価格で実現した「VAIO Xシリーズ」が発売された。これらモデルより、シリーズ名称が「type XX」から「XXシリーズ」となる。また、一部のシリーズから品番が新しくなり、ボードPC・ノートPCを問わずすべて"VPC"から始まり、ハイフンがなくなった。
 
 2010年1月発売の春モデルより、シリーズ名が「XXシリーズ」となる。新系統のモデルとして、NシリーズとFシリーズの中間レベルのB4ワイドノート「Eシリーズ」と、Sシリーズとほぼ同等の外観ながら光学ドライブを省いて（1スピンドル）省電力化を徹底した「Yシリーズ」、先代のtype Zのスペックをより昇華した「Zシリーズ」が注目されている。
 
@@ -148,7 +148,7 @@ VAIOシリーズの出荷台数は、1999年度に約140万台、2004年度に33
 22.
 23. [パソコンで終わらない、切り刻まれるソニー](http://toyokeizai.net/articles/-/30854) - 東洋経済オンライン 2014年2月17日（[東洋経済新報](https://ja.wikipedia.org/wiki/東洋経済新報 "wikilink")）
 24. [韓国勢にとってもPC事業は悩みの種、ソニーのVAIO売却はサムスン・LGにも影響か](http://pc.nikkeibp.co.jp/article/column/20140214/1121163/) - PC online 2014年2月14日（[日経BP](../Page/日経BP.md "wikilink")）
-25. [ソニー平井社長がVAIO撤退について語ったこと](http://ascii.jp/elem/000/000/867/867498/) - ASCII.jp 2014年2月15日（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）
+25. [ソニー平井社長がVAIO撤退について語ったこと](http://ascii.jp/elem/000/000/867/867498/) - ASCII.jp 2014年2月15日（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）
 26.
 27.
 28.

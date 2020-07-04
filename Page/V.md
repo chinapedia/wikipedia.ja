@@ -29,7 +29,7 @@
 
   - （ウベ）、（ベ）、（ベバハ）、（ベチカ）
 
-  - [エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ヴォ
+  - [エスペラント](../Page/エスペラント.md "wikilink")：ヴォ
 
   - [日本語](../Page/日本語.md "wikilink")：ブイ（、）、ヴィー（）、ヴイ（、）、ヴィ（）
 
@@ -38,7 +38,7 @@
 この文字が表す音声は、
 
   - [国際音声記号](../Page/国際音声記号.md "wikilink")では、小文字のが[有声唇歯摩擦音](https://ja.wikipedia.org/wiki/有声唇歯摩擦音 "wikilink")を表す。通常は[子音](../Page/子音.md "wikilink")として発音されるが、と単独で[音節](../Page/音節.md "wikilink")性を持つこともできる。
-  - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[英語](../Page/英語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")、[リス語](https://ja.wikipedia.org/wiki/リス語 "wikilink")\[1\]では 。
+  - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[英語](../Page/英語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[エスペラント](../Page/エスペラント.md "wikilink")、[リス語](https://ja.wikipedia.org/wiki/リス語 "wikilink")\[1\]では 。
       - フランス語では語末の子音は発音されない語が多いが、v は発音することが多い。
   - [ラテン語](../Page/ラテン語.md "wikilink")では本来は、母音 と半母音  を区別せず表した。 のために専用の文字 [U](../Page/U.md "wikilink") が導入されてからは、もっぱら  を表す。
   - [チワン語](https://ja.wikipedia.org/wiki/チワン語 "wikilink")では  を表す\[2\]。
@@ -46,7 +46,7 @@
       - ドイツ語では、主に[ラテン語](../Page/ラテン語.md "wikilink")などからの[借用語](../Page/借用語.md "wikilink")では、 と発音する。
       - [インドネシア語](../Page/インドネシア語.md "wikilink")ではしばしば  で発音する。
   - [オランダ語](../Page/オランダ語.md "wikilink")では  だが、特に語頭で[無声化した](../Page/無声音.md "wikilink")  で発音する人が多い。
-  - [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")では [B](../Page/B.md "wikilink") と [V](../Page/V.md "wikilink") を発音上は区別しないため、もっぱら を表す。ただしイタリア系移民の多い[アルゼンチン](../Page/アルゼンチン.md "wikilink")や、アルゼンチンとともに[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")（[ポルトガル語圏](https://ja.wikipedia.org/wiki/ポルトガル語圏 "wikilink")）と国境を接する[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")などのうち一部地域では、他国語の影響で両者を区別し、 を表す（[リオプラテンセ・スペイン語](https://ja.wikipedia.org/wiki/リオプラテンセ・スペイン語 "wikilink")など）。
+  - [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")では [B](../Page/B.md "wikilink") と [V](../Page/V.md "wikilink") を発音上は区別しないため、もっぱら を表す。ただしイタリア系移民の多い[アルゼンチン](../Page/アルゼンチン.md "wikilink")や、アルゼンチンとともに[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")（[ポルトガル語圏](https://ja.wikipedia.org/wiki/ポルトガル語圏 "wikilink")）と国境を接する[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")などのうち一部地域では、他国語の影響で両者を区別し、 を表す（[リオプラテンセ・スペイン語](../Page/リオプラテンセ・スペイン語.md "wikilink")など）。
   - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の共通語（[普通話](../Page/普通話.md "wikilink")）の[拼音](https://ja.wikipedia.org/wiki/拼音 "wikilink")では、ラテン基本字26字のうち唯一使用されない。ただし、[ü](https://ja.wikipedia.org/wiki/ü "wikilink")（ を表す[ウムラウト](../Page/ウムラウト.md "wikilink")付きu）が使用できない場合、vで代用することがある。中国語[IMEのローマ字入力の際にもvキーで入力するものが多い](../Page/インプット_メソッド_エディタ.md "wikilink")。また、中国のパスポートでもVで代用されている。
   - [日本語](../Page/日本語.md "wikilink")のローマ字表記では通常使われないが、IMEでの「[ヴ](https://ja.wikipedia.org/wiki/ヴ "wikilink")」と[ヴァ行](https://ja.wikipedia.org/wiki/ヴァ行 "wikilink")音の入力に使われる。また、Unicodeにおける「ヴ」の名称もKATAKANA LETTER **V**UとVを使用している。
   - [ミャオ語](../Page/ミャオ語.md "wikilink")の川黔滇方言、滇東北方言ではを表すが、黔東方言では[有声軟口蓋摩擦音](https://ja.wikipedia.org/wiki/有声軟口蓋摩擦音 "wikilink")を表す\[3\]。

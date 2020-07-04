@@ -11,7 +11,7 @@
   - 最年少メンバーにして\[1\]、[GLAY](../Page/GLAY.md "wikilink")の副リーダー的存在。また、[the pillowsのトリビュート](https://ja.wikipedia.org/wiki/the_pillows "wikilink")・アルバムにも参加経験あり。
   - メンバーの芸名では唯一本名に由来していない([TAKURO](../Page/TAKURO.md "wikilink")と[HISASHI](../Page/HISASHI.md "wikilink")は下の名前をそのまま、[TERU](../Page/TERU.md "wikilink")は本名の**照彦**の略称である)。由来は、GLAY加入前に所属していたバンド「ピエロ\[2\]」のボーカリストに名前を聞かれ、とっさに「JIRO」と答えたため\[3\]。本人も、何故自分が「JIRO」と言ったのかまったく分からないらしい。
   - GLAYのメンバーを呼ぶ際は、[TAKURO](../Page/TAKURO.md "wikilink")は「TAKUROくん」、[HISASHI](../Page/HISASHI.md "wikilink")なら「トノくん」、[TERU](../Page/TERU.md "wikilink")なら「テッコくん」と呼んでいる。また元メンバーのAKIRA（上島明）のことは「ウエシマくん」、NOBUMASA（大庭伸公）のことは「オバちゃん」と呼んでいた。
-  - ギターのように大きく腕を振って弾く、独特な奏法でベースを弾いている。ベースはギターと違い、和音ではなく単音を的確に弾く必要があるため、弾かない弦をミュートしている。また、影響を受けたベーシストに、元[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の[ダフ・マッケイガン](../Page/ダフ・マッケイガン.md "wikilink")と[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[戸城憲夫](../Page/戸城憲夫.md "wikilink")を挙げている\[4\]。
+  - ギターのように大きく腕を振って弾く、独特な奏法でベースを弾いている。ベースはギターと違い、和音ではなく単音を的確に弾く必要があるため、弾かない弦をミュートしている。また、影響を受けたベーシストに、元[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の[ダフ・マッケイガン](../Page/ダフ・マッケイガン.md "wikilink")と[ZIGGY](../Page/ZIGGY.md "wikilink")の[戸城憲夫](../Page/戸城憲夫.md "wikilink")を挙げている\[4\]。
   - その端正な顔立ちから、女性に非常に人気があり、芸能人でも[武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink")や[佐々木希](https://ja.wikipedia.org/wiki/佐々木希 "wikilink")がJIROのファンを公言している。メンバー曰く、実際にGLAYの中で一番モテるのはJIROで、TAKUROは女の子からJIROのことについての相談も多々あったという。
   - 優れたファッションセンスの持ち主で、衣服にあまりこだわらないTAKUROから相談されるほど。[代官山](https://ja.wikipedia.org/wiki/代官山 "wikilink")でJIROとは気付かれずに「[雑誌](../Page/雑誌.md "wikilink")のオシャレ選手権に出ないか」とスカウトされたこともある。
   - デビュー当初はローラーブレードを履いてスタジオ入りした事があり、事務所側から叱責された。
@@ -131,7 +131,7 @@ GLAYのプロデューサー[佐久間正英](../Page/佐久間正英.md "wikili
 
 <!-- end list -->
 
-  - [Gibson EB-3L](https://ja.wikipedia.org/wiki/ギブソン・EB-3 "wikilink")
+  - [Gibson EB-3L](../Page/ギブソン・EB-3.md "wikilink")
 
 <!-- end list -->
 

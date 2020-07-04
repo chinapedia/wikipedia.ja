@@ -18,7 +18,7 @@
 
   - （エンネ）
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ノー
+  - [エス](../Page/エスペラント.md "wikilink")：ノー
 
   - [越](../Page/ベトナム語.md "wikilink")：エンノ
 

@@ -77,7 +77,7 @@ Sun Cobalt Qube 3（2002年）\]\]
   - [サーバ](../Page/サーバ.md "wikilink")
   - [バーチャルホスト](../Page/バーチャルホスト.md "wikilink")
   - [Server Side Includes](https://ja.wikipedia.org/wiki/Server_Side_Includes "wikilink") (SSI)
-  - [帯域幅調整](../Page/帯域幅調整.md "wikilink") - [トラフィックシェーピング](https://ja.wikipedia.org/wiki/トラフィックシェーピング "wikilink")
+  - [帯域幅調整](../Page/帯域幅調整.md "wikilink") - [トラフィックシェーピング](../Page/トラフィックシェーピング.md "wikilink")
   - [サーバログ](https://ja.wikipedia.org/wiki/サーバログ "wikilink")
 
 [Category:Webサーバ](https://ja.wikipedia.org/wiki/Category:Webサーバ "wikilink") [Category:サーバ](https://ja.wikipedia.org/wiki/Category:サーバ "wikilink") [Category:World_Wide_Web](https://ja.wikipedia.org/wiki/Category:World_Wide_Web "wikilink") [Category:アプリケーションソフト](https://ja.wikipedia.org/wiki/Category:アプリケーションソフト "wikilink")

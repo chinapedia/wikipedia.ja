@@ -67,8 +67,8 @@ viはコンパクトで負荷が小さいため、作業中にテキストファ
 
 ## 参考文献
 
-  - [Linda Lamb](https://ja.wikipedia.org/wiki/リンダ・ラム "wikilink")、[Arnold Robbins](https://ja.wikipedia.org/wiki/アーノルド・ロビンス "wikilink")『[入門 vi 第6版](https://www.oreilly.co.jp/books/4873110831/)』[福崎俊博](https://ja.wikipedia.org/wiki/福崎俊博 "wikilink")訳、[オライリー・ジャパン](https://ja.wikipedia.org/wiki/オライリー・ジャパン "wikilink")、2002年5月、ISBN 4-87311-083-1
-  - [Arnold Robbins](https://ja.wikipedia.org/wiki/アーノルド・ロビンス "wikilink")『[viデスクトップリファレンス](https://www.oreilly.co.jp/books/490090094X/)』[日本ルーセント・テクノロジー株式会社](https://ja.wikipedia.org/wiki/日本ルーセント・テクノロジー株式会社 "wikilink")訳、[オライリー・ジャパン](https://ja.wikipedia.org/wiki/オライリー・ジャパン "wikilink")、1999年6月、ISBN 4-900900-94-X
+  - [Linda Lamb](https://ja.wikipedia.org/wiki/リンダ・ラム "wikilink")、[Arnold Robbins](https://ja.wikipedia.org/wiki/アーノルド・ロビンス "wikilink")『[入門 vi 第6版](https://www.oreilly.co.jp/books/4873110831/)』[福崎俊博](https://ja.wikipedia.org/wiki/福崎俊博 "wikilink")訳、[オライリー・ジャパン](../Page/オライリー・ジャパン.md "wikilink")、2002年5月、ISBN 4-87311-083-1
+  - [Arnold Robbins](https://ja.wikipedia.org/wiki/アーノルド・ロビンス "wikilink")『[viデスクトップリファレンス](https://www.oreilly.co.jp/books/490090094X/)』[日本ルーセント・テクノロジー株式会社](https://ja.wikipedia.org/wiki/日本ルーセント・テクノロジー株式会社 "wikilink")訳、[オライリー・ジャパン](../Page/オライリー・ジャパン.md "wikilink")、1999年6月、ISBN 4-900900-94-X
 
 ## 外部リンク
 

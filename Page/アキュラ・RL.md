@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から販売されていた[アキュラ・レジェンドの後継モデルとして](../Page/ホンダ・レジェンド.md "wikilink")、[1996年](../Page/1996年.md "wikilink")に発売された。アキュラの最上位に位置づけられる、大型最高級[セダン](../Page/セダン.md "wikilink")である。一貫して、[V型6気筒](../Page/V型6気筒.md "wikilink")エンジンを搭載しており、駆動方式は当初[FFであったが](../Page/前輪駆動.md "wikilink")、現行型は[AWDのみとなっている](../Page/四輪駆動.md "wikilink")。日本では、同型車がホンダ・レジェンドの名称で[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から販売されている。
+[1986年](../Page/1986年.md "wikilink")から販売されていた[アキュラ・レジェンドの後継モデルとして](../Page/ホンダ・レジェンド.md "wikilink")、[1996年](../Page/1996年.md "wikilink")に発売された。アキュラの最上位に位置づけられる、大型最高級[セダン](../Page/セダン.md "wikilink")である。一貫して、[V型6気筒](../Page/V型6気筒.md "wikilink")エンジンを搭載しており、駆動方式は当初[FFであったが](../Page/前輪駆動.md "wikilink")、現行型は[AWDのみとなっている](../Page/四輪駆動.md "wikilink")。日本では、同型車がホンダ・レジェンドの名称で[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から販売されている。
 
 ## 初代 KA9型（1996-2004年）
 

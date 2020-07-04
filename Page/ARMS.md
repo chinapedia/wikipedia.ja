@@ -198,7 +198,7 @@
   - 原作協力 - [七月鏡一](../Page/七月鏡一.md "wikilink")
   - 企画 - 植田文郎、[岩田圭介](https://ja.wikipedia.org/wiki/岩田圭介 "wikilink")(TX)
   - エグゼクティブプロデューサー - [加藤俊三](../Page/加藤俊三.md "wikilink")
-  - 監督 - [高谷浩利](../Page/高谷浩利.md "wikilink")（前期） → [亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")（後期）
+  - 監督 - [高谷浩利](../Page/高谷浩利.md "wikilink")（前期） → [亀垣一](../Page/亀垣一.md "wikilink")（後期）
   - シリーズ構成 - 吉永亜矢
   - コンセプター - [宮下隼一](../Page/宮下隼一.md "wikilink")
   - キャラクターデザイン - [佐藤正樹](https://ja.wikipedia.org/wiki/佐藤正樹 "wikilink")
@@ -347,7 +347,7 @@
 <td><p>5月19日</p></td>
 <td><p>共闘（トラスト）</p></td>
 <td><p><a href="../Page/宮下隼一.md" title="wikilink">宮下隼一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀垣一" title="wikilink">亀垣一</a></p></td>
+<td><p><a href="../Page/亀垣一.md" title="wikilink">亀垣一</a></p></td>
 <td><p>いとがしんたろー</p></td>
 <td><p>清水貴子</p></td>
 </tr>

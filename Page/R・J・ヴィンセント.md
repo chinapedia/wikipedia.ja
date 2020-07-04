@@ -3,7 +3,7 @@
 
 **R・J・ヴィンセント**（*Raymond John Vincent*, [1943年](../Page/1943年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")）は、イギリスの国際政治学者。元[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")(LSE)の[国際関係論](../Page/国際関係論.md "wikilink")教授。[英国学派](../Page/英国学派.md "wikilink")の一人。
 
-[ウェールズ大学](https://ja.wikipedia.org/wiki/ウェールズ大学 "wikilink")卒業後、[レスター大学](https://ja.wikipedia.org/wiki/レスター大学 "wikilink")で修士号、[オーストラリア国立大学](../Page/オーストラリア国立大学.md "wikilink")より博士号取得。指導教官は[ヘドリー・ブル](../Page/ヘドリー・ブル.md "wikilink")だった。[キール大学](https://ja.wikipedia.org/wiki/キール大学_\(イギリス\) "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")を経て、[スーザン・ストレンジ](../Page/スーザン・ストレンジ.md "wikilink")の後任として、1989年にLSE教授となる。
+[ウェールズ大学](../Page/ウェールズ大学.md "wikilink")卒業後、[レスター大学](https://ja.wikipedia.org/wiki/レスター大学 "wikilink")で修士号、[オーストラリア国立大学](../Page/オーストラリア国立大学.md "wikilink")より博士号取得。指導教官は[ヘドリー・ブル](../Page/ヘドリー・ブル.md "wikilink")だった。[キール大学](https://ja.wikipedia.org/wiki/キール大学_\(イギリス\) "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")を経て、[スーザン・ストレンジ](../Page/スーザン・ストレンジ.md "wikilink")の後任として、1989年にLSE教授となる。
 
 ## 著作
 

@@ -343,7 +343,7 @@ Perlが利用されている代表的なWeb アプリケーションや管理ツ
 
 ## 参考文献
 
-  - [ラリー・ウォール](../Page/ラリー・ウォール.md "wikilink")、ジョン・オーワント、トム・クリスチャンセン著、[近藤嘉雪](https://ja.wikipedia.org/wiki/近藤嘉雪 "wikilink")訳『プログラミング [Perl](https://www.oreilly.co.jp/books/perl/)』VOLUME 1 (ISBN 4-87311-096-3), 2 (ISBN 4-87311-097-1), [オライリー・ジャパン](https://ja.wikipedia.org/wiki/オライリー・ジャパン "wikilink")、2002年
+  - [ラリー・ウォール](../Page/ラリー・ウォール.md "wikilink")、ジョン・オーワント、トム・クリスチャンセン著、[近藤嘉雪](https://ja.wikipedia.org/wiki/近藤嘉雪 "wikilink")訳『プログラミング [Perl](https://www.oreilly.co.jp/books/perl/)』VOLUME 1 (ISBN 4-87311-096-3), 2 (ISBN 4-87311-097-1), [オライリー・ジャパン](../Page/オライリー・ジャパン.md "wikilink")、2002年
 
 ## 関連項目
 

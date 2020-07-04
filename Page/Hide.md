@@ -180,15 +180,15 @@ zilch（ヂルチ）は、レイ・マクヴェイ (Ray McVeigh) （元プロフ
 
 ### スタジオアルバム
 
-|              | 発売日                                                                              | タイトル                                                       | 規格品番             |
-| ------------ | -------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
-| 1st          | 1994年2月23日                                                                       | **[HIDE YOUR FACE](../Page/HIDE_YOUR_FACE.md "wikilink")** | MVCZ-1001（初回限定盤） |
-| MVCD-11（通常盤） |                                                                                  |                                                            |                  |
-| 2008年12月3日   | UPCH-1640（[SHM-CD再発盤](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")） |                                                            |                  |
-| 2nd          | 1996年9月2日                                                                        | **[PSYENCE](../Page/PSYENCE.md "wikilink")**               | MVCD-39          |
-| 2008年12月3日   | UPCH-1641（SHM-CD再発盤）                                                             |                                                            |                  |
-| 3rd          | 1998年11月21日                                                                      | **[Ja,Zoo](../Page/Ja,Zoo.md "wikilink")**                 | MVCH-29019       |
-| 2008年12月3日   | UPCH-1642（SHM-CD再発盤）                                                             |                                                            |                  |
+|              | 発売日                                                           | タイトル                                                       | 規格品番             |
+| ------------ | ------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
+| 1st          | 1994年2月23日                                                    | **[HIDE YOUR FACE](../Page/HIDE_YOUR_FACE.md "wikilink")** | MVCZ-1001（初回限定盤） |
+| MVCD-11（通常盤） |                                                               |                                                            |                  |
+| 2008年12月3日   | UPCH-1640（[SHM-CD再発盤](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")） |                                                            |                  |
+| 2nd          | 1996年9月2日                                                     | **[PSYENCE](../Page/PSYENCE.md "wikilink")**               | MVCD-39          |
+| 2008年12月3日   | UPCH-1641（SHM-CD再発盤）                                          |                                                            |                  |
+| 3rd          | 1998年11月21日                                                   | **[Ja,Zoo](../Page/Ja,Zoo.md "wikilink")**                 | MVCH-29019       |
+| 2008年12月3日   | UPCH-1642（SHM-CD再発盤）                                          |                                                            |                  |
 
 ### ベストアルバム
 
@@ -1077,7 +1077,7 @@ CHILDREN</strong></p></td>
       - **[RAN](../Page/松川敏也.md "wikilink")** (GUITAR) ([TWINZER](../Page/TWINZER.md "wikilink"))
       - **[PATA](../Page/PATA.md "wikilink")** (GUITAR) (X JAPAN)
       - **[CHIROLYN](../Page/CHIROLYN.md "wikilink")** (BASS) (DEBONAIR)
-      - **[JOE](../Page/宮脇“JOE”知史.md "wikilink")** (DRUMS) ([ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink"))
+      - **[JOE](../Page/宮脇“JOE”知史.md "wikilink")** (DRUMS) ([ZIGGY](../Page/ZIGGY.md "wikilink"))
       - **[D.I.E](../Page/D.I.E..md "wikilink")** (KEYBORD)
       - **[I.N.A](../Page/I.N.A.md "wikilink")** (MANIPULATOR & PERCUSSION)
 

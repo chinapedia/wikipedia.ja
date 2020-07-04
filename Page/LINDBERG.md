@@ -110,7 +110,7 @@
 ### シングル
 
 1.  **ROUTE 246**（1989年4月25日、10JC-402）
-    作曲は[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")。
+    作曲は[ZIGGY](../Page/ZIGGY.md "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")。
 2.  **[今すぐ Kiss Me](../Page/今すぐKiss_Me.md "wikilink")**（1990年2月7日、TKDA-30050）
     [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』主題歌、[映画](../Page/映画.md "wikilink")『[バブルへGO\!\! タイムマシンはドラム式](../Page/バブルへGO!!_タイムマシンはドラム式.md "wikilink")』挿入歌
 3.  **[JUMP](https://ja.wikipedia.org/wiki/JUMP_\(LINDBERGの曲\) "wikilink")**（1990年3月28日、TKDA-30051）

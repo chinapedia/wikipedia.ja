@@ -16,7 +16,7 @@ OriginにはLabTalkと呼ばれるスクリプト言語や、OriginCとよばれ
 ## 機能
 
   - データのグラフ化：　
-      - 2Dグラフ：[折れ線グラフ](https://ja.wikipedia.org/wiki/折れ線グラフ "wikilink")、[散布図](../Page/散布図.md "wikilink")、[棒グラフ](https://ja.wikipedia.org/wiki/棒グラフ "wikilink")、[円グラフ](https://ja.wikipedia.org/wiki/円グラフ "wikilink")、極座標グラフ、[三角グラフ](https://ja.wikipedia.org/wiki/:en:Ternary_plot "wikilink")、[ヒストグラム](../Page/ヒストグラム.md "wikilink")や[箱ひげ図](../Page/箱ひげ図.md "wikilink")などの統計グラフ、ベクトル図や[パイパー・ダイアグラム（英語サイト）などの特殊グラフ](https://ja.wikipedia.org/wiki/:en:Piper_diagram "wikilink")　など。
+      - 2Dグラフ：[折れ線グラフ](../Page/折れ線グラフ.md "wikilink")、[散布図](../Page/散布図.md "wikilink")、[棒グラフ](https://ja.wikipedia.org/wiki/棒グラフ "wikilink")、[円グラフ](https://ja.wikipedia.org/wiki/円グラフ "wikilink")、極座標グラフ、[三角グラフ](https://ja.wikipedia.org/wiki/:en:Ternary_plot "wikilink")、[ヒストグラム](../Page/ヒストグラム.md "wikilink")や[箱ひげ図](../Page/箱ひげ図.md "wikilink")などの統計グラフ、ベクトル図や[パイパー・ダイアグラム（英語サイト）などの特殊グラフ](https://ja.wikipedia.org/wiki/:en:Piper_diagram "wikilink")　など。
       - [OpenGL](../Page/OpenGL.md "wikilink")に基づく３次元グラフや、等高線グラフの作成
       - 2D・3Dのパラメトリック／ノンパラメトリックな関数プロット
       - 複数[レイヤを持つグラフの作成](../Page/レイヤー_\(DTP\).md "wikilink")

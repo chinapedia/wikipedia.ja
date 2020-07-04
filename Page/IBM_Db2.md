@@ -15,7 +15,7 @@
 
 Db2はIBMの関係データベース用の[ミドルウェア](../Page/ミドルウェア.md "wikilink")である。1981年に[メインフレーム](../Page/メインフレーム.md "wikilink")の[DOS/VSE](https://ja.wikipedia.org/wiki/DOS/VSE "wikilink")および[VM/CMS用の](https://ja.wikipedia.org/wiki/z/VM "wikilink")**[SQL/DS](https://ja.wikipedia.org/wiki/SQL/DS "wikilink")**が登場し、1983年の[MVS用が](../Page/Multiple_Virtual_Storage.md "wikilink")**DB2**と名付けられ、1990年代に[UNIX](../Page/UNIX.md "wikilink")版や[Windows版などが追加され](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、更にオブジェクト管理データベースを兼ねた[ORDBMSとなった](https://ja.wikipedia.org/wiki/オブジェクト関係データベース管理システム "wikilink")。IBMは関係データベースの概念を世界で初めて提唱したが、製品の出荷は[オラクルが先となった](../Page/オラクル_\(企業\).md "wikilink")。特徴としては、大規模なデータベースを支える信頼性とスケーラビリティ、コストベースの[照会最適化](../Page/クエリ最適化.md "wikilink")、メインフレーム用から[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")用までの[マルチプラットフォーム対応などが挙げられる](../Page/クロスプラットフォーム.md "wikilink")。
 
-なお、IBMのデータベース関連のソフトウェアブランド名も従来は「DB2」で、多数の製品群でDB2ファミリーを形成した。しかし[2001年](../Page/2001年.md "wikilink")のIBMによる[Informix](../Page/Informix.md "wikilink")買収後は、ソフトウェアブランド名は徐々に「Information Management Software」に変更され、DB2ファミリーや[Informixファミリーはその中の製品群となった](https://ja.wikipedia.org/wiki/IBM_Informix "wikilink")。
+なお、IBMのデータベース関連のソフトウェアブランド名も従来は「DB2」で、多数の製品群でDB2ファミリーを形成した。しかし[2001年](../Page/2001年.md "wikilink")のIBMによる[Informix](../Page/Informix.md "wikilink")買収後は、ソフトウェアブランド名は徐々に「Information Management Software」に変更され、DB2ファミリーや[Informixファミリーはその中の製品群となった](../Page/IBM_Informix.md "wikilink")。
 
 ## 名称
 

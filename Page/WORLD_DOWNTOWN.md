@@ -33,7 +33,7 @@ VTRは、フィリピンでの[ゴキブリ](../Page/ゴキブリ.md "wikilink")
 ### コメンテーター
 
   - ジョージアン・アフシン - 「ニューヨーク在住の経済アナリスト」
-    通称はジョージ。妻子がありながらニューヨーク大学の女子スチューデントのシンディー（実は[新小岩](../Page/新小岩.md "wikilink")の[キャバクラ](https://ja.wikipedia.org/wiki/キャバクラ "wikilink")レディであると後に発覚する）と浮気した挙句捨てられてしまう。その傷を癒すべく[新興宗教にハマり](../Page/新宗教.md "wikilink")、コメンテーター陣を盛んに勧誘するも、その新興宗教に警察の[強制捜査](https://ja.wikipedia.org/wiki/強制捜査 "wikilink")が入り、騙されていたことに気づいてショックで髪がすべて抜ける。その後、[演歌](../Page/演歌.md "wikilink")の大御所「[北島ファミリー](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")」に弟子入りする。
+    通称はジョージ。妻子がありながらニューヨーク大学の女子スチューデントのシンディー（実は[新小岩](../Page/新小岩.md "wikilink")の[キャバクラ](../Page/キャバクラ.md "wikilink")レディであると後に発覚する）と浮気した挙句捨てられてしまう。その傷を癒すべく[新興宗教にハマり](../Page/新宗教.md "wikilink")、コメンテーター陣を盛んに勧誘するも、その新興宗教に警察の[強制捜査](https://ja.wikipedia.org/wiki/強制捜査 "wikilink")が入り、騙されていたことに気づいてショックで髪がすべて抜ける。その後、[演歌](../Page/演歌.md "wikilink")の大御所「[北島ファミリー](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")」に弟子入りする。
     声優は[河本邦弘](../Page/河本邦弘.md "wikilink")。
 
 <!-- end list -->

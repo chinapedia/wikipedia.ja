@@ -78,7 +78,7 @@
 <!-- end list -->
 
   - [日産ディーゼル・スペースランナー Aの型式](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRA#スペースランナーA（AP系） "wikilink")。[三菱ふそう・エアロスター](../Page/三菱ふそう・エアロスター.md "wikilink")のOEM供給車。
-  - [排気ガス](../Page/排気ガス.md "wikilink")対策装置（） - 東洋工業（現 [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）の乗用車に1970年代中盤に搭載された機器。
+  - [排気ガス](../Page/排気ガス.md "wikilink")対策装置（） - 東洋工業（現 [マツダ](../Page/マツダ.md "wikilink")）の乗用車に1970年代中盤に搭載された機器。
   - [PC-9821Ap](https://ja.wikipedia.org/wiki/PC-9821シリーズ#MATE_A "wikilink") - [NECの](../Page/日本電気.md "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")。
   - [プロスト・グランプリ](../Page/プロスト・グランプリ.md "wikilink")のF1マシンの型式。
 

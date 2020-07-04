@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - [ドイツレベル](https://ja.wikipedia.org/wiki/ドイツレベル "wikilink")（ドイツ）
+  - [ドイツレベル](../Page/ドイツレベル.md "wikilink")（ドイツ）
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [ハンブロール](https://ja.wikipedia.org/wiki/ハンブロール "wikilink")（イギリス）
+  - [ハンブロール](../Page/ハンブロール.md "wikilink")（イギリス）
 
 <!-- end list -->
 

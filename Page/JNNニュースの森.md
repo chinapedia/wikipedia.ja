@@ -83,7 +83,7 @@
   - 1997年9月29日 - 松原キャスター就任と同時に、タイトルロゴ及びセット、オープニング映像、テーマ曲を一新。
   - 1999年3月26日 - 福島が降板。[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")と結婚する為、同局を退社。
   - 1999年3月29日 - スポーツコーナーを月～火曜日を[小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")、水～金曜日を[木村郁美](../Page/木村郁美.md "wikilink")がそれぞれ担当。交代制となるのは今回が初。
-  - 1999年9月21日 - 小倉が降板。小倉は『[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")』担当になった。
+  - 1999年9月21日 - 小倉が降板。小倉は『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』担当になった。
   - 1999年9月24日 - 門脇が降板。門脇は[BS-i設立に参加](../Page/BS-TBS.md "wikilink")。
 
 <!-- end list -->

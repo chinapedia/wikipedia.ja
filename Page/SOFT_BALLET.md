@@ -76,7 +76,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")結成。[インディーズ](../Page/インディーズ.md "wikilink")レーベル太陽レコードよりシングル「BODY TO BODY」をリリース後、[1989年](../Page/1989年.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりメジャー・デビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")のライブをもって活動停止。
+[1986年](../Page/1986年.md "wikilink")結成。[インディーズ](../Page/インディーズ.md "wikilink")レーベル太陽レコードよりシングル「BODY TO BODY」をリリース後、[1989年](../Page/1989年.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりメジャー・デビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")のライブをもって活動停止。
 
 [2002年](../Page/2002年.md "wikilink")の「[サマーソニック](../Page/サマーソニック.md "wikilink") 2002」で活動再開し、アルバム2枚をリリース。[2003年](../Page/2003年.md "wikilink")のツアー「大団宴」後、再び活動を休止。
 

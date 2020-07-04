@@ -20,7 +20,7 @@
 
   - （ティー）（[IPA](../Page/国際音声記号.md "wikilink"): ） **
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：トー
+  - [エス](../Page/エスペラント.md "wikilink")：トー
 
 ## 音素
 

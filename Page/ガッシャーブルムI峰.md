@@ -14,7 +14,7 @@
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
       - [6月22日](../Page/6月22日.md "wikilink") - [エリック・エスコフィエ](https://ja.wikipedia.org/wiki/エリック・エスコフィエ "wikilink")がメスナールートを登攀しベースキャンプから21時間で頂上往復。
       - [7月14日](../Page/7月14日.md "wikilink") - [ジャンピエロ・ディ・フェデリコ](https://ja.wikipedia.org/wiki/ジャンピエロ・ディ・フェデリコ "wikilink")が北西壁新ルートで初の単独登頂。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月2日](../Page/8月2日.md "wikilink") - 日本隊の清水修と和久津清が北面新ルートから登頂。後にジャパニーズ・クーロワールと呼ばれ、頂上へ至る標準的なルートとなる。
+  - [1986年](../Page/1986年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink") - 日本隊の清水修と和久津清が北面新ルートから登頂。後にジャパニーズ・クーロワールと呼ばれ、頂上へ至る標準的なルートとなる。
   - [2012年](../Page/2012年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink") - アダム・ビエレツキ、ヤヌシュ・ゴロヴが冬季初登頂。
   - 2017年　マレク・ホレセク、ズデニエック・ハーク　南西壁"Satisfaction"初登攀
 

@@ -187,7 +187,7 @@ MBSATのモバHO\!放送システムに対して、[コールサインJO](https:
 
 ## その他
 
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が国内線で運航する[ボーイング777-200型機にモバHO](https://ja.wikipedia.org/wiki/ボーイング777#777-200.EF.BC.88772A.EF.BC.89 "wikilink")\!を導入する事が計画されていた\[10\]。
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")が国内線で運航する[ボーイング777-200型機にモバHO](https://ja.wikipedia.org/wiki/ボーイング777#777-200.EF.BC.88772A.EF.BC.89 "wikilink")\!を導入する事が計画されていた\[10\]。
 
 <!-- end list -->
 

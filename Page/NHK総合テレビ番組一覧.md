@@ -179,7 +179,7 @@
 
 ### 放送終了
 
-  - [歌のグランド・ショー](../Page/歌のグランド・ショー.md "wikilink")（[1964年](../Page/1964年.md "wikilink")4月 - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")3月）
+  - [歌のグランド・ショー](../Page/歌のグランド・ショー.md "wikilink")（[1964年](../Page/1964年.md "wikilink")4月 - [1968年](../Page/1968年.md "wikilink")3月）
   - [ビッグショー](../Page/ビッグショー_\(テレビ番組\).md "wikilink")（[1974年](../Page/1974年.md "wikilink")4月 - [1979年](../Page/1979年.md "wikilink")3月）
   - [あなたのメロディー](../Page/あなたのメロディー.md "wikilink")（[1963年](../Page/1963年.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）
   - [若さとリズム](../Page/若さとリズム.md "wikilink")（[1965年](../Page/1965年.md "wikilink") - [1966年](../Page/1966年.md "wikilink")）
@@ -192,14 +192,14 @@
   - [歌のゴールデンステージ](https://ja.wikipedia.org/wiki/歌のゴールデンステージ "wikilink")
   - [花のステージ](../Page/花のステージ.md "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")1月 - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")4月）
   - [歌のビッグステージ](../Page/歌のビッグステージ_\(NHK総合\).md "wikilink")（1980年4月 - [1981年](../Page/1981年.md "wikilink")3月）
-  - [NHK歌謡ホール](../Page/NHK歌謡ホール.md "wikilink")（1981年4月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月）
+  - [NHK歌謡ホール](../Page/NHK歌謡ホール.md "wikilink")（1981年4月 - [1986年](../Page/1986年.md "wikilink")3月）
   - [NHK歌謡ステージ](https://ja.wikipedia.org/wiki/NHK歌謡ステージ "wikilink")（1986年4月 - [1988年](../Page/1988年.md "wikilink")3月）
   - [NHK歌謡パレード](../Page/NHK歌謡パレード.md "wikilink")（1988年4月 - [1991年](../Page/1991年.md "wikilink")3月）
-  - [歌謡リクエストショー](https://ja.wikipedia.org/wiki/歌謡リクエストショー "wikilink")（1991年4月 - [1992年](../Page/1992年.md "wikilink")3月）
+  - [歌謡リクエストショー](../Page/歌謡リクエストショー.md "wikilink")（1991年4月 - [1992年](../Page/1992年.md "wikilink")3月）
   - [NHKヒットステージ](../Page/NHKヒットステージ.md "wikilink")（1992年4月 - [1993年](../Page/1993年.md "wikilink")3月）
   - [NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink") （1993年4月 - [2016年](../Page/2016年.md "wikilink")3月）
   - [ステージ101](../Page/ステージ101.md "wikilink")（[1970年](../Page/1970年.md "wikilink")1月 - 1974年3月）
-  - [レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")（[1974年](../Page/1974年.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - [レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")（[1974年](../Page/1974年.md "wikilink") - [1986年](../Page/1986年.md "wikilink")）
   - [ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")（1986年 - 1988年）
   - [ジャストポップアップ](https://ja.wikipedia.org/wiki/ジャストポップアップ "wikilink")（1988年 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）
   - [メガロックショー](https://ja.wikipedia.org/wiki/メガロックショー "wikilink")（1991年 - 1992年）
@@ -885,7 +885,7 @@
   - [NHK衛星放送番組一覧](../Page/NHK衛星放送番組一覧.md "wikilink")
   - [地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")
   - [23時のNHK](../Page/23時のNHK.md "wikilink")
-  - [EYES](https://ja.wikipedia.org/wiki/EYES_\(NHK\) "wikilink")
+  - [EYES](../Page/EYES_\(NHK\).md "wikilink")
   - [NHKラジオ第1番組一覧](../Page/NHKラジオ第1番組一覧.md "wikilink")
   - [NHKラジオ第2放送\#番組一覧](https://ja.wikipedia.org/wiki/NHKラジオ第2放送#番組一覧 "wikilink")
   - [NHK FM番組一覧](../Page/NHK_FM番組一覧.md "wikilink")

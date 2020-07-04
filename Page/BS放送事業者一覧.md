@@ -1002,7 +1002,7 @@ BS-TBS</p></td>
 25. 試験放送開始は[1984年](../Page/1984年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")。
 26.
 27.
-28. 試験放送開始は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")。
+28. 試験放送開始は[1986年](../Page/1986年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")。
 29.
 30.
 31.

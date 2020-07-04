@@ -86,7 +86,7 @@
 
 [大河ドラマ](../Page/大河ドラマ.md "wikilink")『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』の放送に合わせて、姫路報道室 中村由香が[黒田孝高](../Page/黒田孝高.md "wikilink")ゆかりの物を紹介する。
 
-  - [KANSAI FOCUS & KANSAI SPORTS](https://ja.wikipedia.org/wiki/ニューステラス関西 "wikilink")
+  - [KANSAI FOCUS & KANSAI SPORTS](../Page/ニューステラス関西.md "wikilink")
 
 2012年4月-2015年3月。[大阪局から放送](../Page/NHK大阪放送局.md "wikilink")。 この他に不定期で県内のスポーツ情報が放送される。
 

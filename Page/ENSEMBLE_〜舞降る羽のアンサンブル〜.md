@@ -16,7 +16,7 @@
   - 日吉 楓 （ひよし かえで）
     主人公。幼い頃に寺田家に預けられた。
   - 寺田 桜子 （てらだ さくらこ）
-    [声](../Page/声優.md "wikilink")：[春瀬みき](https://ja.wikipedia.org/wiki/春瀬みき "wikilink")
+    [声](../Page/声優.md "wikilink")：[春瀬みき](../Page/春瀬みき.md "wikilink")
     寺田家の長女。小さい頃は楓と喧嘩ばかりしていた。
   - 寺田 若葉 （てらだ わかば）
     声：[桜川未央](../Page/桜川未央.md "wikilink")

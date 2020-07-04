@@ -901,7 +901,7 @@ ViおよびVimの操作体系は、数多くのソフトウェアに継承もし
   - [Sublime Text](https://ja.wikipedia.org/wiki/Sublime_Text "wikilink")（Vintage, Vintageousプラグイン）
   - [Emacs](../Page/Emacs.md "wikilink")（Evilプラグイン）
   - [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink")（Vrapperプラグイン）
-  - [Kate](https://ja.wikipedia.org/wiki/Kate "wikilink")（VI Input mode）
+  - [Kate](../Page/Kate.md "wikilink")（VI Input mode）
   - [Xcode](../Page/Xcode.md "wikilink")（Xvimプラグイン）
 
 また、片指で移動ができることはPDF・画像ビューワーやブラウザと相性がよい。
@@ -928,7 +928,7 @@ ViおよびVimの操作体系は、数多くのソフトウェアに継承もし
 
 ## 関連項目
 
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
   - [VimConf](https://ja.wikipedia.org/wiki/VimConf "wikilink")
 
 ## 外部リンク

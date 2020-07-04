@@ -1,7 +1,7 @@
 > この記事は[Tigers-ai](https://ja.wikipedia.org/wiki/Tigers-ai)から翻訳されています。
 
 
-**Tigers-ai**（タイガース アイ）は、[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")や[京セラドーム大阪で開催される](../Page/大阪ドーム.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")・[阪神タイガース](../Page/阪神タイガース.md "wikilink")の試合映像を多方面に配信している組織である。[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")の[子会社](../Page/子会社.md "wikilink")、[阪神コンテンツリンク](../Page/阪神コンテンツリンク.md "wikilink")が運営している。
+**Tigers-ai**（タイガース アイ）は、[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")や[京セラドーム大阪で開催される](../Page/大阪ドーム.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")・[阪神タイガース](../Page/阪神タイガース.md "wikilink")の試合映像を多方面に配信している組織である。[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")の[子会社](../Page/子会社.md "wikilink")、[阪神コンテンツリンク](../Page/阪神コンテンツリンク.md "wikilink")が運営している。
 
 ## 概要
 

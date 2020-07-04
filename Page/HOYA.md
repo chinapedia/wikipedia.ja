@@ -39,7 +39,7 @@
       - 8月 - 新本社ビルを現在地に竣工。
       - 10月 - 子会社の株式会社保谷レンズおよび株式会社保谷クリスタルを吸収合併し、商号をホーヤ株式会社に変更。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月 - 児玉開発研究所を埼玉県児玉町に新設。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月 - R\&Dを東京都昭島市にセンター竣工。
+  - [1986年](../Page/1986年.md "wikilink")10月 - R\&Dを東京都昭島市にセンター竣工。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
       - 6月 - [白内障](../Page/白内障.md "wikilink")術後用[眼内レンズ](../Page/眼内レンズ.md "wikilink")を製造開始。
       - 11月 - [光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")による[非球面モールドレンズ製造開始](../Page/非球面レンズ.md "wikilink")。

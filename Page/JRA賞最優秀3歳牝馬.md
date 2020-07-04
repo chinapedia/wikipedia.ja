@@ -83,7 +83,7 @@
 <td><p>牝4</p></td>
 <td><p>10戦3勝<br />
 優駿牝馬</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="../Page/伊藤勝吉.md" title="wikilink">伊藤勝吉</a></p></td>
 <td><p>吉田一太郎</p></td>
 <td></td>
@@ -170,12 +170,12 @@
 <td><p>5戦2勝<br />
 優駿牝馬</p></td>
 <td><p><a href="../Page/荻伏牧場.md" title="wikilink">荻伏牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅見国一" title="wikilink">浅見国一</a></p></td>
+<td><p><a href="../Page/浅見国一.md" title="wikilink">浅見国一</a></p></td>
 <td><p>小林信夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルピナス_(競走馬)" title="wikilink">ルピナス</a></p></td>
 <td><p>牝4</p></td>
 <td><p>16戦6勝<br />
@@ -303,7 +303,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インターグロリア" title="wikilink">インターグロリア</a></p></td>
+<td><p><a href="../Page/インターグロリア.md" title="wikilink">インターグロリア</a></p></td>
 <td><p>牝4</p></td>
 <td><p>9戦5勝<br />
 桜花賞、<a href="../Page/エリザベス女王杯.md" title="wikilink">エリザベス女王杯</a></p></td>
@@ -411,7 +411,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/メジロラモーヌ.md" title="wikilink">メジロラモーヌ</a></p></td>
 <td><p>牝4</p></td>
 <td><p>8戦6勝<br />
@@ -493,7 +493,7 @@
 <td><p>牝4</p></td>
 <td><p>4戦3勝<br />
 桜花賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トウショウ牧場" title="wikilink">トウショウ牧場</a></p></td>
+<td><p><a href="../Page/トウショウ牧場.md" title="wikilink">トウショウ牧場</a></p></td>
 <td><p><a href="../Page/鶴留明雄.md" title="wikilink">鶴留明雄</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トウショウ産業" title="wikilink">トウショウ産業</a>（株）</p></td>
 <td></td>

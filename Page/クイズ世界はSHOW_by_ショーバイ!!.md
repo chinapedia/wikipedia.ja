@@ -36,7 +36,7 @@
   - [山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")（1993年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、[9月22日](../Page/9月22日.md "wikilink")、[12月22日](../Page/12月22日.md "wikilink")の通算3回）
   - [島田紳助](../Page/島田紳助.md "wikilink")（1993年[9月29日](../Page/9月29日.md "wikilink")、[12月1日](../Page/12月1日.md "wikilink")、[12月15日](../Page/12月15日.md "wikilink")、1994年[1月19日](../Page/1月19日.md "wikilink")、[2月2日](../Page/2月2日.md "wikilink")、[3月2日](../Page/3月2日.md "wikilink")の通算6回）
   - [板東英二](../Page/板東英二.md "wikilink")（1993年[10月20日](../Page/10月20日.md "wikilink")、1994年[1月12日](../Page/1月12日.md "wikilink")の通算2回）
-  - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（1993年[10月27日](../Page/10月27日.md "wikilink")、1994年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")の通算2回）
+  - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（1993年[10月27日](../Page/10月27日.md "wikilink")、1994年[1月26日](../Page/1月26日.md "wikilink")の通算2回）
   - [高田純次](../Page/高田純次.md "wikilink")（1993年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")の通算1回）
   - [ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")（1993年12月15日の通算1回※）
   - [蛭子能収](../Page/蛭子能収.md "wikilink")（1993年12月22日の通算1回※）

@@ -69,7 +69,7 @@
     声 - [小西克幸](../Page/小西克幸.md "wikilink")
     お茶の水工業大学の学生。和也の学友。
   - 田所 田
-    声 - [くわはら利晃](https://ja.wikipedia.org/wiki/くわはら利晃 "wikilink")
+    声 - [くわはら利晃](../Page/くわはら利晃.md "wikilink")
     お茶の水工業大学の学生。和也の学友。
   - 光明寺 ひかり
     声 - [菊地祥子](../Page/菊地祥子.md "wikilink")

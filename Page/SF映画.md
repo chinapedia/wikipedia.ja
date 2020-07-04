@@ -58,8 +58,8 @@ SFは現在の世界とは違う作品世界を、社会的、文化的、技術
   - [1966年](../Page/1966年.md "wikilink")『[華氏451](../Page/華氏451.md "wikilink")』(FAHRENHEIT 451)
   - [1967年](../Page/1967年.md "wikilink")『[バーバレラ](../Page/バーバレラ.md "wikilink")』(BARBARELLA)
   - [1967年](../Page/1967年.md "wikilink")『[魚が出てきた日](https://ja.wikipedia.org/wiki/魚が出てきた日 "wikilink")』(THE DAY THE FISH CAME OUT)
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』(2001: A SPACE ODYSSEY)、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")『[猿の惑星](https://ja.wikipedia.org/wiki/猿の惑星_\(映画\) "wikilink")』(PLANET OF THE APES)
+  - [1968年](../Page/1968年.md "wikilink")『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』(2001: A SPACE ODYSSEY)、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督
+  - [1968年](../Page/1968年.md "wikilink")『[猿の惑星](https://ja.wikipedia.org/wiki/猿の惑星_\(映画\) "wikilink")』(PLANET OF THE APES)
 
 日本では、[東宝](../Page/東宝.md "wikilink")のSFシリーズとも言える『[電送人間](../Page/電送人間.md "wikilink")』、『[ガス人間第一号](../Page/ガス人間第一号.md "wikilink")』が1960年に、『[世界大戦争](../Page/世界大戦争.md "wikilink")』が1961年に、『[妖星ゴラス](../Page/妖星ゴラス.md "wikilink")』が1962年に、『[マタンゴ](../Page/マタンゴ.md "wikilink")』、『[海底軍艦](../Page/海底軍艦_\(映画\).md "wikilink")』が1963年に公開されている。
 

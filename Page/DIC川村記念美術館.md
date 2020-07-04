@@ -28,11 +28,11 @@
   - [エルンスト](../Page/マックス・エルンスト.md "wikilink")『石化した森』（[1927年](../Page/1927年.md "wikilink")）
   - [ジャクソン・ポロック](../Page/ジャクソン・ポロック.md "wikilink")『緑、黒、黄褐色のコンポジション』（[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")）
   - [マーク・ロスコ](../Page/マーク・ロスコ.md "wikilink")『無題』（シーグラムビル壁画）（[1958年](../Page/1958年.md "wikilink")・[1959年](../Page/1959年.md "wikilink")）
-  - [フランク・ステラ](../Page/フランク・ステラ.md "wikilink")『ヒラクラ III』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
+  - [フランク・ステラ](../Page/フランク・ステラ.md "wikilink")『ヒラクラ III』（[1968年](../Page/1968年.md "wikilink")）
 
 <File:Rembrandt> van Rijn - Portrait of a Man in a Broad-Brimmed Hat - Google Art Project.jpg|レンブラント『広つば帽を被った男』1635年 <File:Pierre> Auguste Renoir - Bather - Google Art Project.jpg|ルノワール『水浴する女』1891年 <File:Claude> Monet - Waterlilies - Google Art Project (hgEnPzjBK2STHg).jpg|モネ『睡蓮』1907年
 
-当館が所蔵していた[バーネット・ニューマン](../Page/バーネット・ニューマン.md "wikilink")『アンナの光』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）は、2013年に日本国外の企業へ譲渡されたことが館から公式発表されている\[5\]\[6\]。
+当館が所蔵していた[バーネット・ニューマン](../Page/バーネット・ニューマン.md "wikilink")『アンナの光』（[1968年](../Page/1968年.md "wikilink")）は、2013年に日本国外の企業へ譲渡されたことが館から公式発表されている\[5\]\[6\]。
 
 館蔵品には[尾形光琳](../Page/尾形光琳.md "wikilink")、[長谷川等伯](../Page/長谷川等伯.md "wikilink")など、日本の近世絵画にも優れたものがあったが、収集方針の変更にともない、当館は日本画の展示を2017年12月3日で終了し、収蔵する日本画は他へ譲渡することを公式サイトで発表した。[重要文化財](../Page/重要文化財.md "wikilink")の[長谷川等伯](../Page/長谷川等伯.md "wikilink")筆『烏鷺図』も館外に移動した\[7\]。
 

@@ -19,7 +19,7 @@ Photoshop の標準[画像ファイルフォーマット](https://ja.wikipedia.o
 
 バージョン 2.5からは[Microsoft Windows版も登場し](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、パソコンの高性能化、低価格化に伴い、そのハードルは低くなり、プロフェッショナルユーザーだけでなく、[アマチュア](../Page/アマチュア.md "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")や[写真家](../Page/写真家.md "wikilink")、画像加工に興味ある一般ユーザーにも浸透し、画像加工・調整を行う上で、[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となっている。[英語](../Page/英語.md "wikilink")では[動詞](../Page/動詞.md "wikilink")にもなっており、"写真をphotoshopする" とは、（自分の顔写真を綺麗に見せるためなどで）[デジタル写真](../Page/デジタル写真.md "wikilink")をPhotoshopで加工修正することをいうが、これはアドビシステムズのイメージダウンになるので、アドビは「photoshopという動詞やphotoshopedという用語は使用しないように」とガイドラインで呼びかけている。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発売されたCS4(11) から、Windows版には[32ビット](../Page/32ビット.md "wikilink")版に加えて新たに[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版も投入され、これにより使用可能なメモリの量からくる制約が軽減されている。[Mac OS X版ではPhotoshop](https://ja.wikipedia.org/wiki/macOS "wikilink") CS(8.0)以来利用してきたAPIの[Carbon](../Page/Carbon.md "wikilink")が32ビットのみであったことから、64ビットへの移行に時間が掛かり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発売されたCS5(12)で[Cocoa](../Page/Cocoa.md "wikilink")に移行するまで待つこととなった。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発売されたCS4(11) から、Windows版には[32ビット](../Page/32ビット.md "wikilink")版に加えて新たに[64ビット](../Page/64ビット.md "wikilink")版も投入され、これにより使用可能なメモリの量からくる制約が軽減されている。[Mac OS X版ではPhotoshop](https://ja.wikipedia.org/wiki/macOS "wikilink") CS(8.0)以来利用してきたAPIの[Carbon](../Page/Carbon.md "wikilink")が32ビットのみであったことから、64ビットへの移行に時間が掛かり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に発売されたCS5(12)で[Cocoa](../Page/Cocoa.md "wikilink")に移行するまで待つこととなった。
 
 2019年11月4日にiPad版がリリースされたが、従来のPhotoshopとUIが大きく異なる上、多くの機能がない為に芳しくない評価を受けている\[13\]。
 

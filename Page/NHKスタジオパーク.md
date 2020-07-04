@@ -549,7 +549,7 @@
   - [ゆうどき](../Page/ゆうどき.md "wikilink")（非公開放送）
   - [スタジオパークからこんにちは](../Page/スタジオパークからこんにちは.md "wikilink")
   - [4時も\!シブ5時](https://ja.wikipedia.org/wiki/ニュース_シブ5時#『4時も!シブ5時』 "wikilink")
-  - [日曜バラエティー](https://ja.wikipedia.org/wiki/日曜バラエティー "wikilink")（ラジオ第1）
+  - [日曜バラエティー](../Page/日曜バラエティー.md "wikilink")（ラジオ第1）
 
 ## データ
 
@@ -580,7 +580,7 @@
 <!-- end list -->
 
   - [土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")
-  - [歌の散歩道](https://ja.wikipedia.org/wiki/歌の散歩道 "wikilink")
+  - [歌の散歩道](../Page/歌の散歩道.md "wikilink")
   - [スタジオパークからおめでとう](../Page/スタジオパークからおめでとう.md "wikilink")○○（○には西暦が入る）:毎年元日に放送
   - [POP UP JAPAN](../Page/POP_UP_JAPAN.md "wikilink")
   - 以下は過去に放送

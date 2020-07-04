@@ -393,7 +393,7 @@
   - [渋谷・コクーン歌舞伎](https://ja.wikipedia.org/wiki/渋谷・コクーン歌舞伎 "wikilink")
   - [Bunkamuraドゥマゴ文学賞](../Page/Bunkamuraドゥマゴ文学賞.md "wikilink")
   - [東京国際映画祭](../Page/東京国際映画祭.md "wikilink")
-  - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の「[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")」 — 1989年から2004年まで13回開催後、[青山劇場](../Page/青山劇場.md "wikilink")、[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")にて開催。
+  - [中島みゆき](../Page/中島みゆき.md "wikilink")の「[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")」 — 1989年から2004年まで13回開催後、[青山劇場](../Page/青山劇場.md "wikilink")、[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")にて開催。
   - [徹子の部屋コンサート](https://ja.wikipedia.org/wiki/徹子の部屋#徹子の部屋コンサート "wikilink") — 第1回（2006年）・第2回（2007年）が開催された。
 
 ## フランチャイズ・システム

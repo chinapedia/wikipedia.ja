@@ -152,7 +152,7 @@
 
   - 単行本3巻
 
-:\* 人は日々[サブリミナルメッセージで洗脳され](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")、偽救世主が各国で台頭している。
+:\* 人は日々[サブリミナルメッセージで洗脳され](../Page/サブリミナル効果.md "wikilink")、偽救世主が各国で台頭している。
 
 :\* 1999年、[太陽黒点](../Page/太陽黒点.md "wikilink")周期が低迷し[大不況](https://ja.wikipedia.org/wiki/大不況 "wikilink")が起こる。
 

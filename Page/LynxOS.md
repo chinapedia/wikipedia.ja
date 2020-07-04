@@ -7,7 +7,7 @@
 
 ## 沿革
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にテキサス州ダラスで[モトローラ](../Page/モトローラ.md "wikilink")（現・[フリースケール・セミコンダクタ](../Page/フリースケール・セミコンダクタ.md "wikilink")）の[MC68010](../Page/MC68010.md "wikilink")向けOSとして最初のバージョンが開発された。[1988年](../Page/1988年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")にかけて、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[80386向けに移植](../Page/Intel_80386.md "wikilink")。1989年前後に、アプリケーションバイナリインタフェース (ABI) が、UNIX System V Release 3互換となった。
+[1986年](../Page/1986年.md "wikilink")にテキサス州ダラスで[モトローラ](../Page/モトローラ.md "wikilink")（現・[フリースケール・セミコンダクタ](../Page/フリースケール・セミコンダクタ.md "wikilink")）の[MC68010](../Page/MC68010.md "wikilink")向けOSとして最初のバージョンが開発された。[1988年](../Page/1988年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")にかけて、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[80386向けに移植](../Page/Intel_80386.md "wikilink")。1989年前後に、アプリケーションバイナリインタフェース (ABI) が、UNIX System V Release 3互換となった。
 
 その後、Linuxなどの他のOSとの互換性も追加された。[Usenet](https://ja.wikipedia.org/wiki/Usenet "wikilink")の[ニュースグループ](../Page/ニュースグループ.md "wikilink")ではcomp.os.lynxでLynxOSの話題を扱っている。
 

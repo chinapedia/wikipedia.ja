@@ -5,7 +5,7 @@
 
 ## 概要
 
-低年齢層を狙った[廉価版](../Page/廉価版.md "wikilink")として発売された。[宇宙船](../Page/宇宙船.md "wikilink")を[イメージ](../Page/イメージ.md "wikilink")した流線型の[デザイン](../Page/デザイン.md "wikilink")が特徴的。\[1\]当初、[CD-ROM<sup>2</sup>等と接続する](../Page/CD-ROM2.md "wikilink")[拡張バス](https://ja.wikipedia.org/wiki/拡張バス "wikilink")を省略して価格を抑える事を[コンセプトとした](../Page/概念.md "wikilink")。広告や付属の小冊子には[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")がイメージキャラクターとして起用された。[スーパーグラフィックス](https://ja.wikipedia.org/wiki/スーパーグラフィックス "wikilink")ほどではないが本体は大型化し横幅は初代PCエンジンの対角線より大きい。
+低年齢層を狙った[廉価版](../Page/廉価版.md "wikilink")として発売された。[宇宙船](../Page/宇宙船.md "wikilink")を[イメージ](../Page/イメージ.md "wikilink")した流線型の[デザイン](../Page/デザイン.md "wikilink")が特徴的。\[1\]当初、[CD-ROM<sup>2</sup>等と接続する](../Page/CD-ROM2.md "wikilink")[拡張バス](https://ja.wikipedia.org/wiki/拡張バス "wikilink")を省略して価格を抑える事を[コンセプトとした](../Page/概念.md "wikilink")。広告や付属の小冊子には[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")がイメージキャラクターとして起用された。[スーパーグラフィックス](../Page/スーパーグラフィックス.md "wikilink")ほどではないが本体は大型化し横幅は初代PCエンジンの対角線より大きい。
 
 廉価版とはいえ、当時の店頭では旧機種の販売価格が同等まで下がっており、拡張性の無さが嫌われ、あまり売れなかった。廉価なセーブユニットとして普及した天の声2が使用できず、高価な純正品しか選択肢がない事も廉価版としての商品価値を低下させた。PCエンジンの市場がCD-ROM<sup>2</sup>に移行するとこれを接続できないシャトルの存在は省みられなくなり、NECは機能削減のない廉価商品として[コアグラフィックスIIを発売した](../Page/PCエンジンコアグラフィックス.md "wikilink")。
 

@@ -75,7 +75,7 @@ HelloWorldプログラムで例を示す
   - [ビルド (ソフトウェア)](https://ja.wikipedia.org/wiki/ビルド_\(ソフトウェア\) "wikilink")
   - [Gnits Standards](https://ja.wikipedia.org/wiki/:en:Gnits_Standards "wikilink")
   - [GNU Coding Standards](https://ja.wikipedia.org/wiki/:en:GNU_Coding_Standards "wikilink")
-  - [CMake](https://ja.wikipedia.org/wiki/CMake "wikilink")
+  - [CMake](../Page/CMake.md "wikilink")
   - [Meson](https://ja.wikipedia.org/wiki/Meson_\(ソフトウェア\) "wikilink")
   - [Apache Ant](../Page/Apache_Ant.md "wikilink")
   - [Apache Maven](../Page/Apache_Maven.md "wikilink")

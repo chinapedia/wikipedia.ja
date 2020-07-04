@@ -202,7 +202,7 @@ Nintendo Switch Online</a></p></td>
   - 西田泰也
   - 木村雅人
   - 山城重喜
-  - [今村孝矢](https://ja.wikipedia.org/wiki/今村孝矢 "wikilink")
+  - [今村孝矢](../Page/今村孝矢.md "wikilink")
   - [有本正直](https://ja.wikipedia.org/wiki/有本正直 "wikilink")
   - 森直樹
 

@@ -569,7 +569,7 @@ sakuraの逮捕後、「曲作りとリフレッシュ」の名目で渡[英し]
   - 4月2日
       -
         34thシングル「[DRINK IT DOWN](https://ja.wikipedia.org/wiki/DRINK_IT_DOWN "wikilink")」を発売。20作目のオリコンシングルチャート1位を獲得。
-        ライブビデオ『[Are you ready? 2007 またハートに火をつけろ\! in OKINAWA](https://ja.wikipedia.org/wiki/Are_you_ready?_2007_またハートに火をつけろ!_in_OKINAWA "wikilink")』を発売。
+        ライブビデオ『[Are you ready? 2007 またハートに火をつけろ\! in OKINAWA](../Page/Are_you_ready?_2007_またハートに火をつけろ!_in_OKINAWA.md "wikilink")』を発売。
   - 4月12日、[MySpace](https://ja.wikipedia.org/wiki/MySpace "wikilink")上で「[L'Arc〜en〜Ciel Official MySpace](http://www.myspace.com/larcenciel)」を開設。
   - 4月19日 - 6月8日、中華人民共和国・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・大韓民国・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・東京・大阪の全7会場を回るコンサートツアー「[TOUR 2008 L'7 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/TOUR_2008_L'7_〜Trans_ASIA_via_PARIS〜 "wikilink")」を開催し、約30万人を動員。5月9日のパリ公演の模様は、東京・大阪・福岡・広島・新潟の全国5箇所の[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")において、世界初となる海外コンサートの同時中継が行われた。
   - 5月13日の[読売新聞](../Page/読売新聞.md "wikilink")朝刊でニューシングルの発売と、2011年に控える結成20周年記念ライブの開催を発表\[101\]。これに関連し、記念ライブまでのライブ活動の休止を発表した。
@@ -669,7 +669,7 @@ sakuraの逮捕後、「曲作りとリフレッシュ」の名目で渡[英し]
 
 **2016年**
 
-  - 9月13日、新曲「[Don't be Afraid](https://ja.wikipedia.org/wiki/Don't_be_Afraid "wikilink")」の完成を発表。また、[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")より、[カプコン](../Page/カプコン.md "wikilink")社のゲーム『[バイオハザード](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』とのコラボ企画となる、[PlayStation VR向けミュージックビデオ](https://ja.wikipedia.org/wiki/PlayStation_VR "wikilink")「[Don't be Afraid -Biohazard×L'Arc-en-Ciel on PlayStation VR-](https://ja.wikipedia.org/wiki/Don't_be_Afraid#Don't_be_Afraid_–Biohazard_×_L'Arc-en-Ciel_on_PlayStation_VR- "wikilink")」が併せて発表された。本作は[PlayStation Storeにて](../Page/PlayStation_Store.md "wikilink")11月17日に配信。さらに、本作の先行体験版が10月13日に配信された\[141\]。なお、本作は世界初のPlayStation VRのフルデジタイズ360°MVソフトとなる\[142\]。
+  - 9月13日、新曲「[Don't be Afraid](https://ja.wikipedia.org/wiki/Don't_be_Afraid "wikilink")」の完成を発表。また、[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")より、[カプコン](../Page/カプコン.md "wikilink")社のゲーム『[バイオハザード](../Page/バイオハザードシリーズ.md "wikilink")』とのコラボ企画となる、[PlayStation VR向けミュージックビデオ](https://ja.wikipedia.org/wiki/PlayStation_VR "wikilink")「[Don't be Afraid -Biohazard×L'Arc-en-Ciel on PlayStation VR-](https://ja.wikipedia.org/wiki/Don't_be_Afraid#Don't_be_Afraid_–Biohazard_×_L'Arc-en-Ciel_on_PlayStation_VR- "wikilink")」が併せて発表された。本作は[PlayStation Storeにて](../Page/PlayStation_Store.md "wikilink")11月17日に配信。さらに、本作の先行体験版が10月13日に配信された\[141\]。なお、本作は世界初のPlayStation VRのフルデジタイズ360°MVソフトとなる\[142\]。
   - 11月8日、新曲「Don't be Afraid」が[ソニー・ピクチャーズ・エンターテイメント製作である](../Page/ソニー・ピクチャーズ_エンタテインメント_\(日本\).md "wikilink")、上記ゲームの実写映画『[バイオハザード: ザ・ファイナル](https://ja.wikipedia.org/wiki/バイオハザード:_ザ・ファイナル "wikilink")』の日本語吹き替え版主題歌になることが発表された。
   - 11月25日、「[Don't be Afraid -English version-](https://ja.wikipedia.org/wiki/Don't_be_Afraid "wikilink")」の音楽配信サイトmora、iTunes Store、レコチョクでの配信を開始。同日mora、VICTOR STUDIO HD-Music.、e-onkyoでハイレゾ音源の配信も開始した。
   - 12月21日、41stシングル「[Don't be Afraid](https://ja.wikipedia.org/wiki/Don't_be_Afraid "wikilink")」を発売\[143\]。
@@ -763,7 +763,7 @@ sakuraの逮捕後、「曲作りとリフレッシュ」の名目で渡[英し]
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li><a href="../Page/ニュー・ウェイヴ_(音楽).md" title="wikilink">ニュー・ウェイヴ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ゴシック・ロック" title="wikilink">ゴシック・ロック</a></li>
+<li><a href="../Page/ゴシック・ロック.md" title="wikilink">ゴシック・ロック</a></li>
 <li><a href="../Page/ニューロマンティック.md" title="wikilink">ニューロマンティック</a></li>
 <li><a href="../Page/ハードロック.md" title="wikilink">ハードロック</a></li>
 <li><a href="../Page/ヘヴィメタル.md" title="wikilink">ヘヴィメタル</a></li>
@@ -854,12 +854,12 @@ sakuraの逮捕後、「曲作りとリフレッシュ」の名目で渡[英し]
 <li>『<strong><a href="../Page/アリス・イン・チェインズ.md" title="wikilink">アリス・イン・チェインズ</a></strong>』[211]</li>
 <li>『<a href="../Page/イギー・ポップ.md" title="wikilink">イギー・ポップ</a>』[212]</li>
 <li>『<a href="../Page/イングヴェイ・マルムスティーン.md" title="wikilink">イングヴェイ・マルムスティーン</a>』</li>
-<li>『<strong><a href="https://ja.wikipedia.org/wiki/ヴァンデンバーグ_(バンド)" title="wikilink">ヴァンデンバーグ</a></strong>』[213]</li>
+<li>『<strong><a href="../Page/ヴァンデンバーグ_(バンド).md" title="wikilink">ヴァンデンバーグ</a></strong>』[213]</li>
 <li>『<a href="../Page/カーティス・メイフィールド.md" title="wikilink">カーティス・メイフィールド</a>』[214]</li>
 <li>『<a href="../Page/ゲイリー・ムーア.md" title="wikilink">ゲイリー・ムーア</a>』</li>
 <li>『<strong><a href="../Page/コールドプレイ.md" title="wikilink">コールドプレイ</a></strong>』[215]</li>
 <li>『<strong><a href="../Page/ザ・キュアー.md" title="wikilink">ザ・キュアー</a></strong>』[216]</li>
-<li>『<strong><a href="https://ja.wikipedia.org/wiki/ザ・ザ" title="wikilink">ザ・ザ</a></strong>』[217]</li>
+<li>『<strong><a href="../Page/ザ・ザ.md" title="wikilink">ザ・ザ</a></strong>』[217]</li>
 <li>『<strong><a href="../Page/ザ・スミス.md" title="wikilink">ザ・スミス</a></strong>』</li>
 <li>『<a href="../Page/ジョニー・マー.md" title="wikilink">ジョニー・マー</a>』</li>
 <li>『ジェフ・バックリィ』[218]</li>
@@ -1523,7 +1523,7 @@ L'Arc〜en〜Cielはインディーズ時代に[デモテープ](https://ja.wiki
 5月8日 福島市市民会館<br />
 5月10日 <a href="../Page/愛媛県県民文化会館.md" title="wikilink">愛媛県県民文化会館</a><br />
 5月12日 <a href="https://ja.wikipedia.org/wiki/岡山市立市民文化ホール" title="wikilink">岡山市立市民文化ホール</a><br />
-5月13日 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール</a><br />
+5月13日 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール</a><br />
 5月15日 <a href="https://ja.wikipedia.org/wiki/栃木県総合文化センター" title="wikilink">栃木県総合文化センター</a><br />
 5月16日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a><br />
 5月21日 <a href="https://ja.wikipedia.org/wiki/さいたま市文化センター" title="wikilink">浦和市文化センター</a><br />
@@ -1874,7 +1874,7 @@ L'Arc〜en〜Cielはインディーズ時代に[デモテープ](https://ja.wiki
 6月20日 新潟県民会館<br />
 6月24日 香川県県民ホール<br />
 6月25日 愛媛県県民文化会館<br />
-6月27日 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+6月27日 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 6月29日 広島厚生年金会館<br />
 6月30日 広島厚生年金会館<br />
 7月2日 神戸国際会館<br />

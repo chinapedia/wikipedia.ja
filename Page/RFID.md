@@ -58,7 +58,7 @@
 </tr>
 <tr class="even">
 <td><p>13.56MHz</p></td>
-<td><p>これも電磁誘導方式である。電波方式の<a href="https://ja.wikipedia.org/wiki/万引き防止システム" title="wikilink">万引き防止システム</a>は、13.56MHzに近い8.2MHz帯が主流であり、パッシブタイプの元になった技術である。<a href="../Page/FeliCa.md" title="wikilink">FeliCa</a>はこの技術から発生した13.56MHzを使っており、一般的な<a href="https://ja.wikipedia.org/wiki/近距離無線通信" title="wikilink">近距離無線通信</a><a href="../Page/ICカード.md" title="wikilink">ICカード</a>として広く使われ、もっとも身近な存在といえる。通信可能距離は最大1m程度である。</p>
+<td><p>これも電磁誘導方式である。電波方式の<a href="https://ja.wikipedia.org/wiki/万引き防止システム" title="wikilink">万引き防止システム</a>は、13.56MHzに近い8.2MHz帯が主流であり、パッシブタイプの元になった技術である。<a href="../Page/FeliCa.md" title="wikilink">FeliCa</a>はこの技術から発生した13.56MHzを使っており、一般的な<a href="../Page/近距離無線通信.md" title="wikilink">近距離無線通信</a><a href="../Page/ICカード.md" title="wikilink">ICカード</a>として広く使われ、もっとも身近な存在といえる。通信可能距離は最大1m程度である。</p>
 <p>日本では、1998年にワイヤレスカードシステムの<a href="https://ja.wikipedia.org/wiki/無線局" title="wikilink">無線局</a>として法制化[1]され、リーダは<a href="https://ja.wikipedia.org/wiki/適合表示無線設備" title="wikilink">適合表示無線設備</a>でなければならず、<a href="../Page/空中線電力.md" title="wikilink">空中線電力</a>が10mWまでは、いわゆる<a href="../Page/小電力無線局.md" title="wikilink">小電力無線局</a>として免許不要だが、超えると最大1Wまで<a href="https://ja.wikipedia.org/wiki/簡易無線局" title="wikilink">簡易無線局</a>または<a href="https://ja.wikipedia.org/wiki/構内無線局" title="wikilink">構内無線局</a>の<a href="../Page/無線局免許状.md" title="wikilink">無線局免許状</a>を要した。</p>
 <p>2002年には誘導式読み書き通信設備という高周波利用設備[2]となり、<a href="../Page/総務省.md" title="wikilink">総務省</a>の型式指定を要するが許可不要となった。</p>
 <ul>
@@ -200,7 +200,7 @@ RFタグは、バーコードと対比して語られることが多い。一見
 
 ## 関連項目
 
-  - [近距離無線通信](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")
+  - [近距離無線通信](../Page/近距離無線通信.md "wikilink")
   - [電磁シールド](https://ja.wikipedia.org/wiki/電磁シールド "wikilink")
   - [センサネットワーク](https://ja.wikipedia.org/wiki/センサネットワーク "wikilink")
   - [プライバシーバイデザイン](https://ja.wikipedia.org/wiki/プライバシーバイデザイン "wikilink")

@@ -107,8 +107,8 @@ XF2Y及びYF2Yは兵装搭載試験を実施していないために武器及び
 
 <!-- end list -->
 
-  - [マーチン P6M](https://ja.wikipedia.org/wiki/P6M_\(航空機\) "wikilink"):[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の大型ジェット飛行艇
-  - [XF10F](https://ja.wikipedia.org/wiki/XF10F_\(航空機\) "wikilink"):[可変後退翼によって空母への離着艦の問題を解決しようとしたが](../Page/可変翼.md "wikilink")、XF2Y-1同様にスチームカタパルトとアングルド・デッキの実用化によってその意義を失い、開発が中止された。
+  - [マーチン P6M](../Page/P6M_\(航空機\).md "wikilink"):[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の大型ジェット飛行艇
+  - [XF10F](../Page/XF10F_\(航空機\).md "wikilink"):[可変後退翼によって空母への離着艦の問題を解決しようとしたが](../Page/可変翼.md "wikilink")、XF2Y-1同様にスチームカタパルトとアングルド・デッキの実用化によってその意義を失い、開発が中止された。
 
 [Category:アメリカ合衆国の戦闘機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戦闘機 "wikilink") [Category:水上機](https://ja.wikipedia.org/wiki/Category:水上機 "wikilink") [Category:アメリカ合衆国の試作機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の試作機 "wikilink") [Category:コンベアの航空機](https://ja.wikipedia.org/wiki/Category:コンベアの航空機 "wikilink")
 

@@ -29,7 +29,7 @@ Firebirdは一般的なC/S(Client Server)のデータベースとしての利用
 
 2004年2月23日、Firebird 1.5がリリースされた\[8\]。ポーティングのため2000年よりソースコードを[C言語](../Page/C言語.md "wikilink")から[C++](../Page/C++.md "wikilink")へ変更する開発が行われてきたが、このリリースは初めてC++コードベースを使った安定版である。[クエリ最適化](../Page/クエリ最適化.md "wikilink")の改良、[SQL](../Page/SQL.md "wikilink")92準拠の式、[SQL:1999](https://ja.wikipedia.org/wiki/SQL:1999 "wikilink")準拠の[SAVEPOINT](https://ja.wikipedia.org/wiki/SAVEPOINT_\(SQL\) "wikilink")、明示的なロックが追加された\[9\]。
 
-2006年11月12日、Firebird 2.0がリリースされた\[10\]。[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")アーキテクチャのサポート、FROM句での入れ子テーブル、ロック時のタイムアウトでの式の利用が追加された\[11\]。さらに、バージョン 2.1にて、[データベーストリガ](https://ja.wikipedia.org/wiki/データベーストリガ "wikilink")、[再帰クエリ](https://ja.wikipedia.org/wiki/再帰クエリ "wikilink")、[SQL:2003](https://ja.wikipedia.org/wiki/SQL:2003 "wikilink")準拠の[MERGE文が追加された](https://ja.wikipedia.org/wiki/MERGE_\(SQL\) "wikilink")\[12\]。
+2006年11月12日、Firebird 2.0がリリースされた\[10\]。[64ビット](../Page/64ビット.md "wikilink")アーキテクチャのサポート、FROM句での入れ子テーブル、ロック時のタイムアウトでの式の利用が追加された\[11\]。さらに、バージョン 2.1にて、[データベーストリガ](https://ja.wikipedia.org/wiki/データベーストリガ "wikilink")、[再帰クエリ](https://ja.wikipedia.org/wiki/再帰クエリ "wikilink")、[SQL:2003](https://ja.wikipedia.org/wiki/SQL:2003 "wikilink")準拠の[MERGE文が追加された](https://ja.wikipedia.org/wiki/MERGE_\(SQL\) "wikilink")\[12\]。
 
 2010年10月4日、Firebird 2.5がリリースされた\[13\]。これまでスレッドモデルで実装されたSuper Serverと、プロセスモデルで実装されたClassic Serverの2つのサーバーモデルを並行して開発してきたが、バージョン2.5では新たにSuper Classicと称するサーバーモデルが追加される。Super Classic版では、Super Server版のボトルネックとなっていた統合型キャッシュを見直し、スレッド毎にキャッシュバッファを実装することで、これまで弱点とされてきたSMPへの対応を強化し、スケーラビリティが向上する予定である。その他に、[正規表現](../Page/正規表現.md "wikilink")や外部データベースへの接続が追加された\[14\]。
 

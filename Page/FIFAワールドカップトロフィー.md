@@ -11,7 +11,7 @@
 
 最初のトロフィーはFIFAワールドカップを企画した当時の[FIFA会長](../Page/国際サッカー連盟.md "wikilink")[ジュール・リメ](../Page/ジュール・リメ.md "wikilink")が寄贈したため、その名を冠し**ジュール・リメ・トロフィー**と呼ばれる。
 
-製作は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[彫刻家](../Page/彫刻家.md "wikilink")であるが行った\[1\]。純[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")製に[金メッキ](https://ja.wikipedia.org/wiki/金メッキ "wikilink")\[2\]で、高さ35cm、重さは3800gあり、勝利の女神[ニケ](https://ja.wikipedia.org/wiki/ニケ "wikilink")が十角形のカップを支える形をしている。[1970年](../Page/1970年.md "wikilink")に[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")が3回目の優勝を果たし、その偉業を称えてブラジルに永久に渡されることになった。しかし現在ブラジルで保管されているトロフィーはレプリカである（後述）。
+製作は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[彫刻家](../Page/彫刻家.md "wikilink")であるが行った\[1\]。純[銀](../Page/銀.md "wikilink")製に[金メッキ](https://ja.wikipedia.org/wiki/金メッキ "wikilink")\[2\]で、高さ35cm、重さは3800gあり、勝利の女神[ニケ](https://ja.wikipedia.org/wiki/ニケ "wikilink")が十角形のカップを支える形をしている。[1970年](../Page/1970年.md "wikilink")に[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")が3回目の優勝を果たし、その偉業を称えてブラジルに永久に渡されることになった。しかし現在ブラジルで保管されているトロフィーはレプリカである（後述）。
 
 [2015年](../Page/2015年.md "wikilink")1月、破損したために取り替えられたオリジナルの台座（第1回から第4回までの大会優勝国の銘が貼られている。盗まれて行方不明になっているのは第5回大会から使用され始めた2代目）がFIFA地下倉庫で偶然に発見された。この部品は2016年にチューリヒに作られる「FIFAワールド・フットボール・ミュージアム」で公開される\[3\]。
 

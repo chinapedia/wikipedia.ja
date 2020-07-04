@@ -77,7 +77,7 @@
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>[11]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山口達也" title="wikilink">山口達也</a>[12]<br />
+<td><p><a href="../Page/山口達也.md" title="wikilink">山口達也</a>[12]<br />
 （やまぐち たつや）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
@@ -145,13 +145,13 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2006年[7月12日](../Page/7月12日.md "wikilink")、TVなどで見せる「仲間同士で遊ぶ」という[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")にマッチしたという理由から、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Xbox 360の](../Page/Xbox_360.md "wikilink")[イメージキャラクターに起用が決定](../Page/キャラクター.md "wikilink")。
 
-2006年[8月23日](../Page/8月23日.md "wikilink")、「[宙船(そらふね)/do\! do\! do\!](https://ja.wikipedia.org/wiki/宙船/do!_do!_do! "wikilink")」をリリース。収録されている「宙船」は長瀬が主演した日本テレビの土曜ドラマ『[マイ★ボス マイ★ヒーロー](https://ja.wikipedia.org/wiki/マイ★ボス_マイ★ヒーロー "wikilink")』の主題歌。同曲の作詞・作曲を手掛けたのは[シンガー・ソングライター](https://ja.wikipedia.org/wiki/シンガー・ソングライター "wikilink")[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")。「ハードな歌謡ロック」をイメージしたという「宙船」により、TOKIO（ジャニーズ）と中島みゆきというコラボレーションが実現した。オリコンチャートで初登場1位を獲得した（通算5作目、TOKIOが同じ年にシングル2作で首位を獲得したのは初めてである）。なお、翌[2007年](../Page/2007年.md "wikilink")3月開幕の「[第79回選抜高等学校野球大会](../Page/第79回選抜高等学校野球大会.md "wikilink")」では、[開会式](https://ja.wikipedia.org/wiki/開会式 "wikilink")の[入場行進曲にも採用された](../Page/選抜高等学校野球大会入場行進曲.md "wikilink")。
+2006年[8月23日](../Page/8月23日.md "wikilink")、「[宙船(そらふね)/do\! do\! do\!](https://ja.wikipedia.org/wiki/宙船/do!_do!_do! "wikilink")」をリリース。収録されている「宙船」は長瀬が主演した日本テレビの土曜ドラマ『[マイ★ボス マイ★ヒーロー](https://ja.wikipedia.org/wiki/マイ★ボス_マイ★ヒーロー "wikilink")』の主題歌。同曲の作詞・作曲を手掛けたのは[シンガー・ソングライター](https://ja.wikipedia.org/wiki/シンガー・ソングライター "wikilink")[中島みゆき](../Page/中島みゆき.md "wikilink")。「ハードな歌謡ロック」をイメージしたという「宙船」により、TOKIO（ジャニーズ）と中島みゆきというコラボレーションが実現した。オリコンチャートで初登場1位を獲得した（通算5作目、TOKIOが同じ年にシングル2作で首位を獲得したのは初めてである）。なお、翌[2007年](../Page/2007年.md "wikilink")3月開幕の「[第79回選抜高等学校野球大会](../Page/第79回選抜高等学校野球大会.md "wikilink")」では、[開会式](https://ja.wikipedia.org/wiki/開会式 "wikilink")の[入場行進曲にも採用された](../Page/選抜高等学校野球大会入場行進曲.md "wikilink")。
 
 2006年[10月18日](../Page/10月18日.md "wikilink")、1年8ヶ月ぶりとなるアルバム『[Harvest](https://ja.wikipedia.org/wiki/Harvest_\(TOKIOのアルバム\) "wikilink")』をリリース。
 
 2007年[3月28日](../Page/3月28日.md "wikilink")、「[ひかりのまち/ラン・フリー(スワン・ダンスを君と)](https://ja.wikipedia.org/wiki/ひかりのまち/ラン・フリー\(スワン・ダンスを君と\) "wikilink")」をリリース。大物アーティストとのコラボ第2弾となるこの曲は[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")が作詞・作曲をした。
 
-2007年[8月15日](../Page/8月15日.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")とのコラボ2作目となる「[本日、未熟者/Over Drive](https://ja.wikipedia.org/wiki/本日、未熟者/Over_Drive "wikilink")」をリリース。山口達也主演で日本テレビの土曜ドラマ『[受験の神様](../Page/受験の神様.md "wikilink")』の主題歌である。
+2007年[8月15日](../Page/8月15日.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[中島みゆき](../Page/中島みゆき.md "wikilink")とのコラボ2作目となる「[本日、未熟者/Over Drive](https://ja.wikipedia.org/wiki/本日、未熟者/Over_Drive "wikilink")」をリリース。山口達也主演で日本テレビの土曜ドラマ『[受験の神様](../Page/受験の神様.md "wikilink")』の主題歌である。
 
 2007年[11月28日](../Page/11月28日.md "wikilink")、「[青春 SEISYuN](../Page/青春_SEISYuN.md "wikilink")」をリリース。長瀬智也主演でTBSの金曜ドラマ『[歌姫](../Page/歌姫_\(劇作品\).md "wikilink")』の主題歌となり、作詞、作曲はシンガーソングライターの[長渕剛](../Page/長渕剛.md "wikilink")が手掛けた。大物アーティストとのコラボは3度目となり、1年3ヶ月ぶりのシングル初登場で首位を獲得した。
 
@@ -617,7 +617,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
   - TOKIO カラオケ HIT CLUB（1993年10月 - 1994年3月、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - TOKIO 震災復興支援特別番組（2011年4月 - 2012年3月、[Date fm](../Page/エフエム仙台.md "wikilink")・[ふくしまFM](../Page/エフエム福島.md "wikilink")・[エフエム岩手](../Page/エフエム岩手.md "wikilink")）
       - 各放送局はそれぞれ別の内容。
-      - TOKIO・[嵐](../Page/嵐_\(グループ\).md "wikilink")・[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")が1週間ごとに交代して出演した。
+      - TOKIO・[嵐](../Page/嵐_\(グループ\).md "wikilink")・[KAT-TUN](../Page/KAT-TUN.md "wikilink")が1週間ごとに交代して出演した。
 
 ### CM
 
@@ -636,7 +636,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
   - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")・企業、宅配サービス（2010年2月 - 2018年4月）
   - [農林水産省](../Page/農林水産省.md "wikilink")・[FOOD ACTION NIPPON](https://ja.wikipedia.org/wiki/FOOD_ACTION_NIPPON "wikilink")「食べて応援しよう！」（2011年 - 2013年）
   - [グリー](../Page/グリー_\(企業\).md "wikilink")・[探検ドリランド](https://ja.wikipedia.org/wiki/GREE "wikilink")（2011年7月29日 - 2013年）
-  - [すき家](https://ja.wikipedia.org/wiki/すき家 "wikilink")（2011年9月 - 10月）
+  - [すき家](../Page/すき家.md "wikilink")（2011年9月 - 10月）
   - [福島県](../Page/福島県.md "wikilink")・県産農林水産物PR事業（2012年7月 - ）
   - [日本中央競馬会](../Page/日本中央競馬会.md "wikilink")・企業CM（2014年）
   - [スズキ](../Page/スズキ_\(企業\).md "wikilink")「[ソリオ/ソリオバンディット](../Page/スズキ・ソリオ.md "wikilink")」（2015年 - 2018年）

@@ -782,7 +782,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2017年のザ・ベスト・FIFAフットボールアウォーズ" title="wikilink">2017</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サリーナ・ウィーグマン" title="wikilink">サリーナ・ウィーグマン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サッカーオランダ女子代表" title="wikilink">オランダ代表</a></p></td>
+<td><p><a href="../Page/サッカーオランダ女子代表.md" title="wikilink">オランダ代表</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2018年のザ・ベスト・FIFAフットボールアウォーズ" title="wikilink">2018</a></p></td>

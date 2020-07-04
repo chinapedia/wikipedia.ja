@@ -19,7 +19,7 @@
 
 ### BDPG
 
-[BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")/[レコーダー用に](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")[BDを用いた](../Page/Blu-ray_Disc.md "wikilink")**BDPG**も[2006年](../Page/2006年.md "wikilink")以降に登場している\[2\]。操作方法はDVDPGそのままに、DVD以上の画質や音質でゲーム内容を楽しめる。
+[BDプレーヤー](../Page/BDプレーヤー.md "wikilink")/[レコーダー用に](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")[BDを用いた](../Page/Blu-ray_Disc.md "wikilink")**BDPG**も[2006年](../Page/2006年.md "wikilink")以降に登場している\[2\]。操作方法はDVDPGそのままに、DVD以上の画質や音質でゲーム内容を楽しめる。
 
 [BD-J](../Page/BD-J.md "wikilink")（Blu-ray Disc Java）を使うことにより、DVDPGでは不可能だったPCゲームにより近い複雑な内容も実現可能である。ただし、BDプレーヤー/レコーダーの性能によっては動作が重くなることもある。
 

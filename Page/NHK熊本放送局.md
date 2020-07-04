@@ -121,7 +121,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/稲塚貴一" title="wikilink">稲塚貴一</a></p></td>
+<td><p><a href="../Page/稲塚貴一.md" title="wikilink">稲塚貴一</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クマロク!" title="wikilink">クマロク!</a><br />
 （キャスター）</p></td>

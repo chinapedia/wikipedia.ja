@@ -27,10 +27,10 @@
 
 ### その他の企業・法人
 
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")傘下の[アウトソーシング](../Page/アウトソーシング.md "wikilink")企業・[ANAビジネスクリエイト](https://ja.wikipedia.org/wiki/ANAビジネスクリエイト "wikilink") (ANA Business Create Co., Ltd.) の略称。
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")傘下の[アウトソーシング](../Page/アウトソーシング.md "wikilink")企業・[ANAビジネスクリエイト](https://ja.wikipedia.org/wiki/ANAビジネスクリエイト "wikilink") (ANA Business Create Co., Ltd.) の略称。
   - [中国農業銀行](../Page/中国農業銀行.md "wikilink") (Agricultural Bank of China) の略称。
   - [ABC (新聞)](https://ja.wikipedia.org/wiki/ABC_\(新聞\) "wikilink") - スペインの新聞。
-  - [ABCサービス](https://ja.wikipedia.org/wiki/ABCサービス "wikilink") - 日本の[人材派遣会社](https://ja.wikipedia.org/wiki/人材派遣会社 "wikilink")。
+  - [ABCサービス](../Page/ABCサービス.md "wikilink") - 日本の[人材派遣会社](https://ja.wikipedia.org/wiki/人材派遣会社 "wikilink")。
   - [ABCクッキングスタジオ](../Page/ABCクッキングスタジオ.md "wikilink")
   - [ABC (静岡県のパチンコ業)](https://ja.wikipedia.org/wiki/ABC_\(静岡県のパチンコ業\) "wikilink") - 静岡県 を中心に、主に[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")店を展開する企業。
   - [ABCホビー](https://ja.wikipedia.org/wiki/ABCホビー "wikilink") - [RCカー等の製造](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")・販売を行う大阪市東淀川区の会社。
@@ -57,7 +57,7 @@
   - [ABC (ジャクソン5の曲)](https://ja.wikipedia.org/wiki/ABC_\(ジャクソン5の曲\) "wikilink") - [ジャクソン5](../Page/ジャクソン5.md "wikilink")の曲のひとつ。
       - [ABC (アルバム)](https://ja.wikipedia.org/wiki/ABC_\(アルバム\) "wikilink") - 上記を収録したジャクソン5のアルバム 。
   - [A.B.C.](https://ja.wikipedia.org/wiki/A.B.C. "wikilink") - [ジャニーズ](../Page/ジャニーズ.md "wikilink")事務所所属のユニット、[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")の前身。
-  - [ABCの歌](https://ja.wikipedia.org/wiki/ABCの歌 "wikilink")
+  - [ABCの歌](../Page/ABCの歌.md "wikilink")
   - [ABC (少年隊の曲)](https://ja.wikipedia.org/wiki/ABC_\(少年隊の曲\) "wikilink") - [少年隊](../Page/少年隊.md "wikilink")のシングル 。
   - [ABCレコード](../Page/ABCレコード.md "wikilink") - アメリカのレコード会社。
   - [ABC/ピコ ファースト](https://ja.wikipedia.org/wiki/ABC/ピコ_ファースト "wikilink") [ピコのアルバム](../Page/樋口康雄.md "wikilink")。

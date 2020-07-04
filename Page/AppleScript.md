@@ -51,7 +51,7 @@ AppleScriptへのコードサインはApple純正の[スクリプトエディタ
 
 ### 異なるOSバージョン間の互換性
 
-AppleScript書類のフォーマットは維持されているため、基本的には互換性が確保されている。これまでMac OS X v10.4の[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[CPU](../Page/CPU.md "wikilink")への移行や、[Mac OS X v10.7の](https://ja.wikipedia.org/wiki/Mac_OS_X_Lion "wikilink")[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")への移行などのOSの基盤の大変革期があったが、AppleScriptそのものについてはほぼ影響はなかった。AppleScriptの処理系そのものの変更が小刻みであったため、15年前に作られたソートルーチンがそのまま使えたりもする。
+AppleScript書類のフォーマットは維持されているため、基本的には互換性が確保されている。これまでMac OS X v10.4の[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[CPU](../Page/CPU.md "wikilink")への移行や、[Mac OS X v10.7の](https://ja.wikipedia.org/wiki/Mac_OS_X_Lion "wikilink")[64ビット](../Page/64ビット.md "wikilink")への移行などのOSの基盤の大変革期があったが、AppleScriptそのものについてはほぼ影響はなかった。AppleScriptの処理系そのものの変更が小刻みであったため、15年前に作られたソートルーチンがそのまま使えたりもする。
 
 ただし、AppleScriptだけでなくOSAXや外部のアプリケーションの機能を利用していた場合には、部品ごとに確認が必要となる。
 

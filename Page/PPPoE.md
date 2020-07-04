@@ -16,7 +16,7 @@
 
 [イーサネット](../Page/イーサネット.md "wikilink")ではPPPoEを使わなくても、IPパケットを直接扱うことができる。あえてPPPoEを使うのは、PPPが持つユーザ認証などの機能を使うためである。代償として[MTU減少をはじめとする](../Page/Maximum_Transmission_Unit.md "wikilink")[オーバーヘッド](https://ja.wikipedia.org/wiki/オーバーヘッド "wikilink")が発生する。
 
-2000年頃、[ISP](https://ja.wikipedia.org/wiki/ISP "wikilink")の[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")へのDSL接続を介してパケットをトンネリングするための技術として使われだした。2005年のネットワークの技術書には、「ほとんどのDSLプロバイダは、[認証](../Page/認証.md "wikilink")・[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")・[圧縮](https://ja.wikipedia.org/wiki/圧縮 "wikilink")のためにPPPoEを使用する」と書かれている\[1\]。一般的なPPPoEの利用では、ユーザー名とパスワードでユーザーを認証するために[PAPや](https://ja.wikipedia.org/wiki/Password_Authentication_Protocol "wikilink")[CHAPが使用される](https://ja.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol "wikilink")\[2\]。
+2000年頃、[ISP](https://ja.wikipedia.org/wiki/ISP "wikilink")の[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")へのDSL接続を介してパケットをトンネリングするための技術として使われだした。2005年のネットワークの技術書には、「ほとんどのDSLプロバイダは、[認証](../Page/認証.md "wikilink")・[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")・[圧縮](https://ja.wikipedia.org/wiki/圧縮 "wikilink")のためにPPPoEを使用する」と書かれている\[1\]。一般的なPPPoEの利用では、ユーザー名とパスワードでユーザーを認証するために[PAPや](../Page/Password_Authentication_Protocol.md "wikilink")[CHAPが使用される](../Page/Challenge-Handshake_Authentication_Protocol.md "wikilink")\[2\]。
 
 [カスタマ構内設備](https://ja.wikipedia.org/wiki/カスタマ構内設備 "wikilink")においては、PPPoEは、[ブロードバンドルーター](https://ja.wikipedia.org/wiki/ブロードバンドルーター "wikilink")で実装される場合と、ルーティングを行わない[DSLモデム](https://ja.wikipedia.org/wiki/DSLモデム "wikilink")を使用する場合には、PC上で実装される場合とがある。2016年現在では、ほとんどのOSがPPPoEをサポートしている。
 

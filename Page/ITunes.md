@@ -614,7 +614,7 @@ UIを大幅に刷新、iTunes Storeやミニプレイヤーのデザインも変
   - **12.1** - [2015年](../Page/2015年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")
       - [OS X Yosemiteの通知センターのためのiTunesウィジェットを追加](https://ja.wikipedia.org/wiki/OS_X_Yosemite "wikilink")
       - iPhone、iPad、iPod touchとの同期時のパフォーマンスを改善
-      - Windows版（[Vista以降](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")）は[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")に完全対応
+      - Windows版（[Vista以降](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")）は[64ビット](../Page/64ビット.md "wikilink")に完全対応
   - 12.1.1 - 2015年[2月19日](../Page/2月19日.md "wikilink")
       - Windows版のみ
       - オーディオ再生が断片化する問題を解決

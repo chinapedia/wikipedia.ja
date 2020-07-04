@@ -11,7 +11,7 @@ N-IIロケットは前身の[N-Iロケット](../Page/N-Iロケット.md "wikili
 
 当初は、N-Iロケットの開発時に技術導入し国産化した第二段エンジンの[LE-3](https://ja.wikipedia.org/wiki/LE-3 "wikilink")の性能向上によって打ち上げ能力を向上する計画であったが、希望期間内に日本国内の技術のみで改良するには技術の蓄積が不足していたため\[2\]、[静止軌道](../Page/静止軌道.md "wikilink")(GEO)に350kg級の衛星を送る能力を確保するべく、引き続きデルタロケットの技術導入を行うことになった。こうして第二段エンジンはデルタロケットで使われていた第二段エンジン(AJ10-118F)の改良型を使用することになった。このようにN-IIロケットはライセンス生産品と[ノックダウン生産](../Page/ノックダウン生産.md "wikilink")品を継ぎ接ぎしているため、N-Iでは53%から65%程度だった[国産化率](https://ja.wikipedia.org/wiki/国産化率 "wikilink")が56%から61%程度へと低下している\[3\]。
 
-[1981年](../Page/1981年.md "wikilink")（昭和56年）に技術試験衛星「きく3号」を搭載した第1号機が打ち上げられ、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）まで合計8機すべての打ち上げに成功し運用を終了した。後継は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）に初飛行した[H-Iロケット](../Page/H-Iロケット.md "wikilink")である。
+[1981年](../Page/1981年.md "wikilink")（昭和56年）に技術試験衛星「きく3号」を搭載した第1号機が打ち上げられ、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）まで合計8機すべての打ち上げに成功し運用を終了した。後継は[1986年](../Page/1986年.md "wikilink")（昭和61年）に初飛行した[H-Iロケット](../Page/H-Iロケット.md "wikilink")である。
 
 ## 諸元と構成
 
@@ -160,7 +160,7 @@ N-IIロケットは前身の[N-Iロケット](../Page/N-Iロケット.md "wikili
 テム</p></td>
 <td><p>ピッチ<br />
 ヨー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジンバル" title="wikilink">ジンバル</a></p></td>
+<td><p><a href="../Page/ジンバル.md" title="wikilink">ジンバル</a></p></td>
 <td><p>N/A</p></td>
 <td><p>ジンバル（推力飛行中）<br />
 ガスジェット（慣性飛行中）</p></td>
@@ -287,7 +287,7 @@ N-IIロケットは前身の[N-Iロケット](../Page/N-Iロケット.md "wikili
 <tr class="odd">
 <td><p>7号機<br />
 (N14F)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/2月12日.md" title="wikilink">2月12日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/2月12日.md" title="wikilink">2月12日</a></p></td>
 <td><p>bgcolor = "#90ff90"|成功</p></td>
 <td><p><a href="../Page/ゆり2号b.md" title="wikilink">ゆり2号b</a></p></td>
 <td><p>放送衛星2号b</p></td>

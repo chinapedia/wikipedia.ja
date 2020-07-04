@@ -1,7 +1,7 @@
 > この記事は[Char](https://ja.wikipedia.org/wiki/Char)から翻訳されています。
 
 
-**Char**（チャー、[1955年](../Page/1955年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。本名は、**竹中 尚人**（たけなか ひさと）。[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[戸越](https://ja.wikipedia.org/wiki/戸越 "wikilink")出身。
+**Char**（チャー、[1955年](../Page/1955年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。本名は、**竹中 尚人**（たけなか ひさと）。[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[戸越](../Page/戸越.md "wikilink")出身。
 
 ## 来歴
 
@@ -11,7 +11,7 @@
 
 ### アマチュア時代
 
-11歳 ～ 13歳（[1966年](../Page/1966年.md "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）に同級生の[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")らと『FOX』結成。[ヤードバーズ](../Page/ヤードバーズ.md "wikilink")、[ドアーズ](../Page/ドアーズ.md "wikilink")、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")等をレパートリーとしていた。14歳 ～（1969年）『JAH（ヤッハ）』結成。3人のバンドで、メンバーの名前の頭文字から命名。ヤードバーズ、クリーム等をレパートリーとしバンド・コンテスト等にも出場。この時、早くもプロ・デビューの話を持ちかけられるが、『生ギターでフォークみたいのやらない？』という条件に断る。
+11歳 ～ 13歳（[1966年](../Page/1966年.md "wikilink") - [1968年](../Page/1968年.md "wikilink")）に同級生の[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")らと『FOX』結成。[ヤードバーズ](../Page/ヤードバーズ.md "wikilink")、[ドアーズ](../Page/ドアーズ.md "wikilink")、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")等をレパートリーとしていた。14歳 ～（1969年）『JAH（ヤッハ）』結成。3人のバンドで、メンバーの名前の頭文字から命名。ヤードバーズ、クリーム等をレパートリーとしバンド・コンテスト等にも出場。この時、早くもプロ・デビューの話を持ちかけられるが、『生ギターでフォークみたいのやらない？』という条件に断る。
 
 16歳（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）『GAS MASK』結成。ヤマハ・ライトミュージックコンテストに出場しオリジナル曲を演奏。地区ブロックで2位を受賞する。オリジナル曲以外は、[グランド・ファンク・レイルロード](../Page/グランド・ファンク・レイルロード.md "wikilink")等をレパートリーとしていた。
 
@@ -57,7 +57,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、「[ピンククラウド](../Page/ピンククラウド.md "wikilink")」は2度目のレコード会社を移籍。7月、日比谷野外音楽堂で、観客を入れずに収録されたミニ・アルバムを発表。この頃、単身渡英し半年を過ごす。そのため、PINK CLOUDとしてのバンド活動は年間でも数回となる。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月　[忌野清志郎](../Page/忌野清志郎.md "wikilink")とアニメ[県立地球防衛軍](../Page/県立地球防衛軍.md "wikilink")のサウンドトラックとして『忌野清志郎、JOHNNY, LOUIS & CHAR』名義で『S.F』を発表。同年は『忌野清志郎、JOHNNY, LOUIS & CHAR』でのLIVEを学園祭や野外イベントで行った。
+[1986年](../Page/1986年.md "wikilink")3月　[忌野清志郎](../Page/忌野清志郎.md "wikilink")とアニメ[県立地球防衛軍](../Page/県立地球防衛軍.md "wikilink")のサウンドトラックとして『忌野清志郎、JOHNNY, LOUIS & CHAR』名義で『S.F』を発表。同年は『忌野清志郎、JOHNNY, LOUIS & CHAR』でのLIVEを学園祭や野外イベントで行った。
 
 ### 一度目のレーベル立ち上げ
 
@@ -312,7 +312,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 | R-1 (Route One)     | [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")『[アトレーワゴン エアロダウンヒット](../Page/ダイハツ・アトレー.md "wikilink")』CMソング                        |
 | HOPE                | [Jスカイスポーツ](../Page/J_SPORTS.md "wikilink") [2000年サイクルロードレース世界4大会](https://ja.wikipedia.org/wiki/ジャパンカップサイクルロードレース2000 "wikilink") イメージソング |
 | Long Distance Call  | [もしもし、ホットライン](../Page/りらいあコミュニケーションズ.md "wikilink") イメージソング                                                                               |
-| Round Trip          | [ANA機内放送](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")『White Room』テーマソング                                                               |
+| Round Trip          | [ANA機内放送](../Page/全日本空輸.md "wikilink")『White Room』テーマソング                                                                                  |
 | Water Business      | [ダノン](../Page/ダノン.md "wikilink")『[evian](../Page/エビアン_\(ミネラルウォーター\).md "wikilink")』イメージソング                                                |
 | A FAIR WIND         | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』オープニングテーマ                                            |
 | OSAMPO              | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』                                            |
@@ -350,7 +350,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
   - [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink") 『FEAT A.I』（2004年12月1日）
   - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")（2005年1月22日）
   - [米米CLUB](../Page/米米CLUB.md "wikilink")『[E-ヨ](../Page/E-ヨ.md "wikilink")』（2006年8月23日）
-  - [布袋寅泰](../Page/布袋寅泰.md "wikilink")『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』（2006年12月6日)
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink")『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』（2006年12月6日)
   - [E.D.O](https://ja.wikipedia.org/wiki/E.D.O "wikilink")『カミヒコウキ meets. Char』（2008年5月14日）
   - [押尾コータロー](../Page/押尾コータロー.md "wikilink")『[You & Me](https://ja.wikipedia.org/wiki/You_%26_Me_\(押尾コータローのアルバム\) "wikilink")』（2008年10月1日）
 

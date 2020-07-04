@@ -65,7 +65,7 @@
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - [DR<sup>2</sup>ナイト雀鬼](../Page/DR2ナイト雀鬼.md "wikilink") ※
   - 1995年[8月3日](../Page/8月3日.md "wikilink") - [Filsnown -光と刻-](../Page/Filsnown.md "wikilink") ※
-  - [1996年](../Page/1996年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [雫](../Page/雫_\(アダルトゲーム\).md "wikilink") ※
+  - [1996年](../Page/1996年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - [雫](../Page/雫_\(アダルトゲーム\).md "wikilink") ※
   - 1996年[7月26日](../Page/7月26日.md "wikilink") - [痕](../Page/痕.md "wikilink") ※
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [ToHeart](../Page/To_Heart.md "wikilink") ※
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink") ※

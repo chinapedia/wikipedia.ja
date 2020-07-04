@@ -207,7 +207,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ系列深夜ニュース枠" title="wikilink">最終版</a></p></td>
+<td><p><a href="../Page/TBSテレビ系列深夜ニュース枠.md" title="wikilink">最終版</a></p></td>
 <td><p><a href="../Page/向井政生.md" title="wikilink">向井政生</a><sup>6・7</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古谷有美" title="wikilink">古谷有美</a><sup>9</sup></p></td>
 <td></td>

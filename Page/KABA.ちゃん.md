@@ -3,7 +3,7 @@
 
 **KABA.ちゃん**（カバちゃん\[1\]、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月19日](../Page/6月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")、[振付師](../Page/振付師.md "wikilink")。本名、**椛島 一華**（かばしま いちか）\[2\]。
 
-[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")出身\[3\]。[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属。以前は[ジールアソシエイツ](https://ja.wikipedia.org/wiki/ジールアソシエイツ "wikilink")、[アンセムに所属していた](../Page/アンセム_\(芸能プロダクション\).md "wikilink")。
+[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")出身\[3\]。[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属。以前は[ジールアソシエイツ](../Page/ジールアソシエイツ.md "wikilink")、[アンセムに所属していた](../Page/アンセム_\(芸能プロダクション\).md "wikilink")。
 
 [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースの元[dosのメンバー](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[華原朋美](../Page/華原朋美.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")の代表曲「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」の振付師\[4\]としても有名である。
 
@@ -97,7 +97,7 @@ CONCERT TOUR 2000・2001・2002・2003 等</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/MAX_(音楽グループ)" title="wikilink">MAX</a></p></td>
-<td><p>1999年/『<a href="https://ja.wikipedia.org/wiki/Love_impact" title="wikilink">Love impact</a>』『<a href="https://ja.wikipedia.org/wiki/銀河の誓い" title="wikilink">銀河の誓い</a>』（<a href="../Page/HIM_(音楽プロジェクト).md" title="wikilink">HIM</a>『<a href="https://ja.wikipedia.org/wiki/AQUARIUS_(HIMの曲)" title="wikilink">AQUARIUS</a>』のカバー）<br />
+<td><p>1999年/『<a href="https://ja.wikipedia.org/wiki/Love_impact" title="wikilink">Love impact</a>』『<a href="https://ja.wikipedia.org/wiki/銀河の誓い" title="wikilink">銀河の誓い</a>』（<a href="../Page/HIM_(音楽プロジェクト).md" title="wikilink">HIM</a>『<a href="../Page/AQUARIUS_(HIMの曲).md" title="wikilink">AQUARIUS</a>』のカバー）<br />
 2010年/『<a href="https://ja.wikipedia.org/wiki/BE_MAX" title="wikilink">どんなときも。</a>』（<a href="../Page/槇原敬之.md" title="wikilink">槇原敬之</a>『<a href="../Page/どんなときも。.md" title="wikilink">どんなときも。</a>』のカバー）</p></td>
 </tr>
 <tr class="odd">

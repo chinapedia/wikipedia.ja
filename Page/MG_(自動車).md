@@ -73,7 +73,7 @@
 
 ### Rover
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") オースチン・ローバー・グループは、[ローバー公社](../Page/ローバー・グループ.md "wikilink")(ROVER GROUP PLC)となる。
+[1986年](../Page/1986年.md "wikilink") オースチン・ローバー・グループは、[ローバー公社](../Page/ローバー・グループ.md "wikilink")(ROVER GROUP PLC)となる。
 
 [1988年](../Page/1988年.md "wikilink") ローバー公社は、[BAe](https://ja.wikipedia.org/wiki/BAe "wikilink")社(ブリティッシュ・エアロスペース)に払い下げられ、[ROVER Carsとなる](../Page/ローバー_\(自動車\).md "wikilink")。
 

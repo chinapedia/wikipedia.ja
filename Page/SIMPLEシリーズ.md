@@ -229,7 +229,7 @@
 34. [THE 恋愛ホラーアドベンチャー 漂流少女](https://ja.wikipedia.org/wiki/THE_恋愛ホラーアドベンチャー_漂流少女 "wikilink")
 35. THE ヘリコプター
 36. THE 娘♥育成シミュレーション 〜お父さんといっしょ〜
-37. [THE シューティング 〜ダブル紫炎龍〜](https://ja.wikipedia.org/wiki/紫炎龍 "wikilink")
+37. [THE シューティング 〜ダブル紫炎龍〜](../Page/紫炎龍.md "wikilink")
 38. [漢のためのバイブル THE 友情アドベンチャー-炎多留・魂-](https://ja.wikipedia.org/wiki/漢のためのバイブル_THE_友情アドベンチャー-炎多留・魂- "wikilink")
 39. [THE ぼくの街づくり〜街ingメーカー++〜](../Page/街ingメーカー.md "wikilink")
 40. THE 東洋三大占術 〜風水・姓名判断・易占〜
@@ -237,7 +237,7 @@
 42. THE 異種格闘技 ボクシングVSキックVS空手VSプロレスVS柔術VS…
 43. THE 裁判 〜新米司法官 桃田司の10の裁判ファイル〜
 44. [THE はじめてのRPG 〜伝説の継承者〜](https://ja.wikipedia.org/wiki/THE_はじめてのRPG_〜伝説の継承者〜 "wikilink")
-45. [THE 恋と涙と、追憶と…。〜スレッドカラーズ さよならの向こう側〜](https://ja.wikipedia.org/wiki/Thread_Colors〜さよならの向こう側〜 "wikilink")
+45. [THE 恋と涙と、追憶と…。〜スレッドカラーズ さよならの向こう側〜](../Page/Thread_Colors〜さよならの向こう側〜.md "wikilink")
 46. THE 漢字クイズ 〜チャレンジ漢字検定〜
 47. [THE 合戦 関ヶ原](../Page/THE_合戦_関ヶ原.md "wikilink")
 48. [THE タクシー 〜運転手は君だ〜](https://ja.wikipedia.org/wiki/THE_タクシー_〜運転手は君だ〜 "wikilink")

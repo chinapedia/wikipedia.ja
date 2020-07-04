@@ -9,7 +9,7 @@
   - [ジョージ・ワシントン (曖昧さ回避)](../Page/ジョージ・ワシントン_\(曖昧さ回避\).md "wikilink")
       - [ジョージ・ワシントン](../Page/ジョージ・ワシントン.md "wikilink") (George Washington) - アメリカ合衆国の政治家で、同国初代大統領。
   - [ギガ](../Page/ギガ.md "wikilink")[ワット](../Page/ワット.md "wikilink") () - 電力・仕事率の単位。10億[ワット](../Page/ワット.md "wikilink")。
-  - [ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink") () - [プロトコル](../Page/プロトコル.md "wikilink")の異なる[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")を接続するための通信機器。
+  - [ゲートウェイ](../Page/ゲートウェイ.md "wikilink") () - [プロトコル](../Page/プロトコル.md "wikilink")の異なる[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")を接続するための通信機器。
   - [架空地線](https://ja.wikipedia.org/wiki/架空地線 "wikilink") () - 送電[鉄塔](../Page/鉄塔.md "wikilink")や[電柱](../Page/電柱.md "wikilink")の最上端に架けられた、雷よけ用の[電線](../Page/電線.md "wikilink")。
   - [海上強風警報](https://ja.wikipedia.org/wiki/海上強風警報 "wikilink") () - [気象庁](../Page/気象庁.md "wikilink")が発表する、海上における強風に関する[気象警報](../Page/気象警報.md "wikilink")。
   - [総重量](../Page/重さ.md "wikilink") ()

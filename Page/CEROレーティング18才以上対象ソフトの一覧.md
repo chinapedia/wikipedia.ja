@@ -19,7 +19,7 @@
 ### ニンテンドーゲームキューブ
 
   - <span style="color:#FF0000;">'''Z : '''</span>[killer7](https://ja.wikipedia.org/wiki/killer7 "wikilink")
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")
       - <span style="color:#FF8000;">'''D : '''</span>[バイオハザード CODE:Veronica](../Page/バイオハザード_CODE:Veronica.md "wikilink") 完全版
       - <span style="color:#FF0000;">'''Z : '''</span>[バイオハザード4](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")
 
@@ -73,7 +73,7 @@
   - <span style="color:#FF0000;">'''Z : '''</span>[DRIV3R](../Page/DRIV3R.md "wikilink")
   - <span style="color:#FF8000;">'''D : '''</span>[ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")
   - <span style="color:#FF8000;">'''D : '''</span>[ナノブレイカー](https://ja.wikipedia.org/wiki/ナノブレイカー "wikilink")
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")
       - <span style="color:#FF8000;">'''D : '''</span>[バイオハザード4](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")
       - <span style="color:#FF8000;">'''D : '''</span>[バイオハザード CODE:Veronica](../Page/バイオハザード_CODE:Veronica.md "wikilink") 完全版
   - <span style="color:#FF8000;">'''D : '''</span>バックヤードレスリング

@@ -9,7 +9,7 @@
 
 番組内容は週替わりの特集VTRが中心だが、スポーツ中継を行う場合もある\[1\]。開始当初、番組は「テレビ版『[Number](../Page/Sports_Graphic_Number.md "wikilink")』」を目指して制作されていた\[2\]。番組中で使われる音楽の一部はオリジナルで制作しており、これらの楽曲を集めたアルバムを、これまでに2枚発売している。
 
-当初は生放送だったが、放送期間中に南原が『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[3\]、中西が『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』（[TOKYO FM](../Page/エフエム東京.md "wikilink")）\[4\]とメイン司会を務める帯の情報番組を抱えるようになり、本番組の数時間後に二人が同番組に出演するというスケジュール上の負担を軽減するため、生放送そのものが行われなくなり、現在は全編事前収録となっている。
+当初は生放送だったが、放送期間中に南原が『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[3\]、中西が『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』（[TOKYO FM](../Page/エフエム東京.md "wikilink")）\[4\]とメイン司会を務める帯の情報番組を抱えるようになり、本番組の数時間後に二人が同番組に出演するというスケジュール上の負担を軽減するため、生放送そのものが行われなくなり、現在は全編事前収録となっている。
 
 ### 放送
 
@@ -58,7 +58,7 @@
 | 2003.10 | 2006.3  | [大木優紀](https://ja.wikipedia.org/wiki/大木優紀 "wikilink")   |
 | 2006.4  | 2008.9  | [久保田直子](https://ja.wikipedia.org/wiki/久保田直子 "wikilink") |
 | 2008.10 | 2011.3  | [本間智恵](https://ja.wikipedia.org/wiki/本間智恵 "wikilink")   |
-| 2011.4  | 2011.12 | [竹内由恵](https://ja.wikipedia.org/wiki/竹内由恵 "wikilink")   |
+| 2011.4  | 2011.12 | [竹内由恵](../Page/竹内由恵.md "wikilink")                      |
 | 2012.1  | （不在）    |                                                         |
 | 2012.2  | 2013.3  | [工藤公康](../Page/工藤公康.md "wikilink")                      |
 | 2013.4  | 2015.1  | [三上大樹](https://ja.wikipedia.org/wiki/三上大樹 "wikilink")   |

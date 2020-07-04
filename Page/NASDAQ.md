@@ -58,7 +58,7 @@
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[2000年](../Page/2000年.md "wikilink")に[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")と提携した「NASDAQ JAPAN」（ナスダック・ジャパン）市場を開設したが、24時間取引の是非やシステム上の問題なども絡み、[2002年](../Page/2002年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に提携を解消。後に「[ニッポン・ニュー・マーケット ヘラクレス](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")」に改めることとなった。 NASDAQと似ている日本における新興企業向け市場として[マザーズ](../Page/マザーズ.md "wikilink")がある。
 
-[韓国にも新興企業向け店頭株式市場として](../Page/大韓民国.md "wikilink")「[KOSDAQ](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")」（コスダック）が存在したが、[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[韓国証券取引所](https://ja.wikipedia.org/wiki/韓国証券取引所 "wikilink")および[韓国先物取引所](https://ja.wikipedia.org/wiki/韓国先物取引所 "wikilink")と合併し、現在は「[韓国取引所](https://ja.wikipedia.org/wiki/韓国証券先物取引所 "wikilink")」（略称：KRX）となっている。
+[韓国にも新興企業向け店頭株式市場として](../Page/大韓民国.md "wikilink")「[KOSDAQ](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")」（コスダック）が存在したが、[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[韓国証券取引所](https://ja.wikipedia.org/wiki/韓国証券取引所 "wikilink")および[韓国先物取引所](https://ja.wikipedia.org/wiki/韓国先物取引所 "wikilink")と合併し、現在は「[韓国取引所](https://ja.wikipedia.org/wiki/韓国証券先物取引所 "wikilink")」（略称：KRX）となっている。
 
 ## 関連項目
 

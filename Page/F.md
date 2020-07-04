@@ -14,7 +14,7 @@
   - [西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")：エフェ
   - [伊](../Page/イタリア語.md "wikilink")：エッフェ
   - [ウェールズ語](../Page/ウェールズ語.md "wikilink")：エヴ
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：フォー
+  - [エス](../Page/エスペラント.md "wikilink")：フォー
 
 ## 音素
 

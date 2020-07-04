@@ -57,7 +57,7 @@
   - [I album -iD-](../Page/I_album_-iD-.md "wikilink") - [KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")9枚目のオリジナル[アルバム](https://ja.wikipedia.org/wiki/音楽アルバム "wikilink")。
   - [ID (ASKAの曲)](https://ja.wikipedia.org/wiki/ID_\(ASKAの曲\) "wikilink") - [ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")の5枚目の[シングル](https://ja.wikipedia.org/wiki/音楽シングル "wikilink")。
   - [ID (LiSAの曲)](https://ja.wikipedia.org/wiki/ID_\(LiSAの曲\) "wikilink") - [LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")の1枚目の配信シングル。
-  - [ID (相川七瀬のアルバム)](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink") - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバム。
+  - [ID (相川七瀬のアルバム)](../Page/ID_\(相川七瀬のアルバム\).md "wikilink") - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバム。
   - [ID (dreamのアルバム)](../Page/ID_\(dreamのアルバム\).md "wikilink") - [dreamの](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")4枚目のオリジナルアルバム。
   - [ID (渡辺美里のアルバム)](https://ja.wikipedia.org/wiki/ID_\(渡辺美里のアルバム\) "wikilink")
 

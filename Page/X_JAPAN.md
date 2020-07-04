@@ -21,7 +21,7 @@
 
 上京後の2人は、何のツテもない状態でメンバーやライブハウスを探し、1年後の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にはバンドとしての体裁を何とか整えられた。同年6月、1作目のシングル「I'LL KILL YOU」をDada Recordsからリリース。1986年にYOSHIKIが自身のレーベル「[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")」を設立し、2作目のシングル「[オルガスム](../Page/オルガスム_\(Xの曲\).md "wikilink")」をリリースする。この頃になるとファンもある程度定着したが、メンバーは常に流動的で、YOSHIKIの1日十何時間も練習する姿勢に見切りを付けられることが原因であることが多く、存在が判明していないのを含めると脱退したメンバーは20人は超える。YOSHIKIも難しい注文に答えてくれるだけではなく、自分の方針に忠告をしてくれて、且つお互いの個性を認め合い、尊敬・成長し合えるメンバーを探していた\[12\]。
 
-その後、一時期Xに加入していたTAIJIが[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の年末に再び加入。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")ビクターから発売されたオムニバス・アルバム『SKULL THRASH ZONE Vol.1』のレコーディングでPATAがヘルプで参加。その後、1987年初めには、[SAVER TIGERを解散させ美容師になる決心をしたHIDEをYOSHIKIが説得し](../Page/横須賀サーベルタイガー.md "wikilink")、Xに加入させた。交通事故を起こしたISAOの脱退後にPATAも正式にメンバーとなり、メジャーデビュー時のメンバーが揃った。
+その後、一時期Xに加入していたTAIJIが[1986年](../Page/1986年.md "wikilink")の年末に再び加入。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")ビクターから発売されたオムニバス・アルバム『SKULL THRASH ZONE Vol.1』のレコーディングでPATAがヘルプで参加。その後、1987年初めには、[SAVER TIGERを解散させ美容師になる決心をしたHIDEをYOSHIKIが説得し](../Page/横須賀サーベルタイガー.md "wikilink")、Xに加入させた。交通事故を起こしたISAOの脱退後にPATAも正式にメンバーとなり、メジャーデビュー時のメンバーが揃った。
 
 ライブ・ハウスでは、メンバーが暴れて火を吹いたりYOSHIKIが[シンバル](../Page/シンバル.md "wikilink")にガソリンを注いで燃やすなどのパフォーマンスを敢行し、数々のライブハウスから出入り禁止となった。打ち上げでも喧嘩が絶えず店がメチャメチャに壊れるなどトラブル続きだったため、ロックミュージシャンが居酒屋へ入る際にはYOSHIKIがいないか店にチェックされた程であり、当時のインディーズロック事情に詳しい漫画家の[喜国雅彦](../Page/喜国雅彦.md "wikilink")によると、当時の渋谷の居酒屋はミュージシャン同士の喧嘩が多かった事から「ギターお断り、ミュージシャンお断り、バンドマンお断り」極めつけは名指しで**「Xお断り」**と貼り出された店もあったという\[13\]。その特異な行動から、[HIDE率いる](https://ja.wikipedia.org/wiki/hide "wikilink")[SAVER TIGER](../Page/横須賀サーベルタイガー.md "wikilink")、[TAIJIが在籍したディメンシアと共に](../Page/沢田泰司.md "wikilink")「**関東三大粗大ゴミバンド**」とバッシングの対象になった。
 
@@ -255,7 +255,7 @@ X JAPANの音楽性はアメリカとイギリスの[グラム・メタル](../P
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/HEATH.md" title="wikilink">HEATH</a></strong></p></td>
-<td><p><small>（<a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a> -）</small></p></td>
+<td><p><small>（<a href="../Page/1968年.md" title="wikilink">1968年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a> -）</small></p></td>
 <td><p><small>[1992-1997/09/22, 2007/10/22-]</small></p></td>
 </tr>
 <tr class="even">

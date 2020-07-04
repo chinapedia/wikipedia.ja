@@ -35,7 +35,7 @@
   - [1981年](../Page/1981年.md "wikilink")（昭和56年）[3月16日](../Page/3月16日.md "wikilink") - 山口FMステレオ回線開通。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）[12月25日](../Page/12月25日.md "wikilink") - 総合テレビ音声多重放送開始。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[9月1日](../Page/9月1日.md "wikilink") - 緊急警報放送開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[11月29日](../Page/11月29日.md "wikilink") - 文字多重放送開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[11月29日](../Page/11月29日.md "wikilink") - 文字多重放送開始。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）[7月22日](../Page/7月22日.md "wikilink") - NHKの組織改革により下関放送局を[下関支局と改称](https://ja.wikipedia.org/wiki/NHK下関支局 "wikilink")。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - 山口放送局と[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・[KBS昌原放送総局](https://ja.wikipedia.org/wiki/KBS昌原放送総局 "wikilink")の間で地域放送の協力協定を結ぶ
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[3月21日](../Page/3月21日.md "wikilink") - 教育テレビ音声多重放送開始。
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/下関市.md" title="wikilink">下関西局</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/下関西中継局" title="wikilink">浅野</a><sup>*</sup></p></td>
+<td><p><a href="../Page/下関西中継局.md" title="wikilink">浅野</a><sup>*</sup></p></td>
 <td><p>16ch(3W)</p></td>
 <td><p>13ch(3W)</p></td>
 <td><p>-</p></td>

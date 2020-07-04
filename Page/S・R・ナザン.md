@@ -7,7 +7,7 @@
 
 情報機関出身とされる。[フリーメイソン](https://ja.wikipedia.org/wiki/フリーメイソン "wikilink")のメンバーである。[2009年](../Page/2009年.md "wikilink")にシンガポールの大統領として初めて[国賓](https://ja.wikipedia.org/wiki/国賓 "wikilink")訪日し、皇居における歓迎行事、[天皇](https://ja.wikipedia.org/wiki/明仁 "wikilink")・[皇后両陛下会見](../Page/上皇后美智子.md "wikilink")、宮中晩餐、衆参両議院議長、[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")総理大臣（当時）による大統領表敬が行われた\[3\]。また[広島において](https://ja.wikipedia.org/wiki/広島市 "wikilink")[原爆被害者に面会した初めての外国元首である](../Page/広島市への原子爆弾投下.md "wikilink")\[4\]。
 
-2016年7月に[脳梗塞](../Page/脳梗塞.md "wikilink")で入院・治療、8月22日死亡。8月25日に[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相が[安倍昭恵](../Page/安倍昭恵.md "wikilink")夫人及び[岸田文雄](../Page/岸田文雄.md "wikilink")外相とともにシンガポール議会を弔問に訪れた。
+2016年7月に[脳梗塞](../Page/脳梗塞.md "wikilink")で入院・治療、8月22日死亡。8月25日に[安倍晋三](../Page/安倍晋三.md "wikilink")首相が[安倍昭恵](../Page/安倍昭恵.md "wikilink")夫人及び[岸田文雄](../Page/岸田文雄.md "wikilink")外相とともにシンガポール議会を弔問に訪れた。
 
 ## 年譜
 
@@ -16,7 +16,7 @@
   - 1955年　医療ソーシャルワーカーとして公務員としてのキャリアを開始
   - 1966年　外務省に入省
   - 1971年　国防省に異動し、安全保障情報部長
-  - 1973年　[三菱重工シンガポール社長を兼務](../Page/三菱重工業.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで）
+  - 1973年　[三菱重工シンガポール社長を兼務](../Page/三菱重工業.md "wikilink")（[1986年](../Page/1986年.md "wikilink")まで）
   - 1974年　[シンガポール事件](https://ja.wikipedia.org/wiki/シンガポール事件 "wikilink")。人質となっていた[ロイヤル・ダッチ・シェル](../Page/ロイヤル・ダッチ・シェル.md "wikilink")の従業員の代わりに人質となり、シンガポールから[クウェート](../Page/クウェート.md "wikilink")へ同行する\[6\]。
   - 1979年　外務省に復帰、1982年の退職まで外務事務次官を務める
   - 1982年　[ストレーツ・タイムズ](https://ja.wikipedia.org/wiki/ストレーツ・タイムズ "wikilink")社長に就任

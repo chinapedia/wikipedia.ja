@@ -603,7 +603,7 @@
 ### テレビ
 
   - [とちぎテレビ](../Page/とちぎテレビ.md "wikilink")
-      - [スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")[Jリーグ中継](../Page/Jリーグ中継.md "wikilink")（Jリーグから製作を委託され、ホームゲーム全試合を[スカチャン](../Page/スカチャン.md "wikilink")で生中継、不定期で県内向けに地上波生中継、[J SPORTSで録画中継](../Page/J_SPORTS.md "wikilink")。実況は主に[篠田和之](https://ja.wikipedia.org/wiki/篠田和之 "wikilink")、ピッチレポーターは2011年まで[萬代裕子](https://ja.wikipedia.org/wiki/萬代裕子 "wikilink")、2012年から[針谷衣織里](https://ja.wikipedia.org/wiki/針谷衣織里 "wikilink")が担当。2011年から[佐藤悠介](../Page/佐藤悠介.md "wikilink")がプレイヤー解説）
+      - [スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")[Jリーグ中継](../Page/Jリーグ中継.md "wikilink")（Jリーグから製作を委託され、ホームゲーム全試合を[スカチャン](../Page/スカチャン.md "wikilink")で生中継、不定期で県内向けに地上波生中継、[J SPORTSで録画中継](../Page/J_SPORTS.md "wikilink")。実況は主に[篠田和之](https://ja.wikipedia.org/wiki/篠田和之 "wikilink")、ピッチレポーターは2011年まで[萬代裕子](../Page/萬代裕子.md "wikilink")、2012年から[針谷衣織里](https://ja.wikipedia.org/wiki/針谷衣織里 "wikilink")が担当。2011年から[佐藤悠介](../Page/佐藤悠介.md "wikilink")がプレイヤー解説）
       - [T.S.☆LAB\!\! 栃木サッカー研究所](https://ja.wikipedia.org/wiki/T.S.☆LAB!!_栃木サッカー研究所 "wikilink") 毎週月曜22:00～22:30 (再放送 毎週金曜日17:00～17:30)
       - [TOCHIGI FIGHTING\!\!SC一枚岩](https://ja.wikipedia.org/wiki/TOCHIGI_FIGHTING!!SC一枚岩 "wikilink") (2009年3月～2013年12月)
       - Go to J\!\!～SC一枚岩～ (2007年は独立した番組として放送、2008年は[イブニング6月曜日のコーナーとして放送](../Page/イブニング6_\(とちぎテレビ\).md "wikilink"))

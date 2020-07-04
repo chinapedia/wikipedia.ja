@@ -104,7 +104,7 @@ DVD版は[マーベラスエンターテイメント](https://ja.wikipedia.org/w
 
   - 原案 - 『[F-ZERO](https://ja.wikipedia.org/wiki/F-ZEROシリーズ "wikilink")』シリーズ（[任天堂](../Page/任天堂.md "wikilink")）
   - 監督 - [知吹愛弓](../Page/知吹愛弓.md "wikilink")
-  - 監修 - [宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")、[今村孝矢](https://ja.wikipedia.org/wiki/今村孝矢 "wikilink")
+  - 監修 - [宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")、[今村孝矢](../Page/今村孝矢.md "wikilink")
   - シリーズ構成 - [酒井あきよし](../Page/酒井あきよし.md "wikilink")
   - キャラクターデザイン - [芦田豊雄](../Page/芦田豊雄.md "wikilink")
   - メカニックデザインワークス - 大河広行、小原渉平

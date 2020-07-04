@@ -38,7 +38,7 @@
   - 『[すてきにハンドメイド](https://ja.wikipedia.org/wiki/すてきにハンドメイド "wikilink")』（月刊）：旧「[おしゃれ工房](../Page/おしゃれ工房.md "wikilink")」「婦人百科」
   - 『[きょうの健康](../Page/きょうの健康.md "wikilink")』（月刊）
   - 『[趣味の園芸](../Page/趣味の園芸.md "wikilink")』（月刊）：ウェブサイト『みんなの趣味の園芸』も展開
-  - 『[趣味の園芸 やさいの時間](https://ja.wikipedia.org/wiki/趣味の園芸_やさいの時間 "wikilink")』（隔月刊）
+  - 『[趣味の園芸 やさいの時間](../Page/趣味の園芸_やさいの時間.md "wikilink")』（隔月刊）
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
   - 『[ラジオ英会話](https://ja.wikipedia.org/wiki/ラジオ英会話 "wikilink")』
   - 『[英会話タイムトライアル](https://ja.wikipedia.org/wiki/英会話タイムトライアル "wikilink")』
   - 『[遠山顕の英会話楽習](https://ja.wikipedia.org/wiki/遠山顕の英会話楽習 "wikilink")』
-  - 『[入門ビジネス英語](https://ja.wikipedia.org/wiki/入門ビジネス英語 "wikilink")』
+  - 『[入門ビジネス英語](../Page/入門ビジネス英語.md "wikilink")』
   - 『[実践ビジネス英語](https://ja.wikipedia.org/wiki/実践ビジネス英語 "wikilink")』
   - 『[エンジョイ・シンプル・イングリッシュ](https://ja.wikipedia.org/wiki/エンジョイ・シンプル・イングリッシュ "wikilink")』
 
@@ -87,12 +87,12 @@
 
   - 『[まいにちドイツ語](https://ja.wikipedia.org/wiki/まいにちドイツ語 "wikilink")』
   - 『[まいにちフランス語](https://ja.wikipedia.org/wiki/まいにちフランス語 "wikilink")』
-  - 『[まいにちスペイン語](https://ja.wikipedia.org/wiki/まいにちスペイン語 "wikilink")』
-  - 『[まいにちイタリア語](https://ja.wikipedia.org/wiki/まいにちイタリア語 "wikilink")』
-  - 『[まいにちロシア語](https://ja.wikipedia.org/wiki/まいにちロシア語 "wikilink")』
+  - 『[まいにちスペイン語](../Page/まいにちスペイン語.md "wikilink")』
+  - 『[まいにちイタリア語](../Page/まいにちイタリア語.md "wikilink")』
+  - 『[まいにちロシア語](../Page/まいにちロシア語.md "wikilink")』
   - 『[まいにち中国語](https://ja.wikipedia.org/wiki/まいにち中国語 "wikilink")』
   - 『[おもてなしの中国語](https://ja.wikipedia.org/wiki/おもてなしの中国語 "wikilink")』
-  - 『[まいにちハングル講座](https://ja.wikipedia.org/wiki/まいにちハングル講座 "wikilink")』
+  - 『[まいにちハングル講座](../Page/まいにちハングル講座.md "wikilink")』
   - 『[おもてなしのハングル](https://ja.wikipedia.org/wiki/おもてなしのハングル "wikilink")』
   - 『[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語入門 "wikilink")』(年1回刊）
   - 『[アラビア語講座](../Page/アラビア語講座.md "wikilink")』（年2回刊）

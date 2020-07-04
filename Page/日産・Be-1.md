@@ -1,7 +1,7 @@
 > この記事は[日産・Be-1](https://ja.wikipedia.org/wiki/日産・Be-1)から翻訳されています。
 
 
-**Be-1**（ビー・ワン）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に販売した[乗用車](../Page/乗用車.md "wikilink")である。型式はBK10型。初代[日産・マーチ](../Page/日産・マーチ.md "wikilink")に[レトロ](../Page/レトロ.md "wikilink")なデザインを与えた小型車であり、「[パイクカー](https://ja.wikipedia.org/wiki/パイクカー "wikilink")」と呼ばれる分野の先駆けとなった。
+**Be-1**（ビー・ワン）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に販売した[乗用車](../Page/乗用車.md "wikilink")である。型式はBK10型。初代[日産・マーチ](../Page/日産・マーチ.md "wikilink")に[レトロ](../Page/レトロ.md "wikilink")なデザインを与えた小型車であり、「[パイクカー](../Page/パイクカー.md "wikilink")」と呼ばれる分野の先駆けとなった。
 
 ## 概要
 

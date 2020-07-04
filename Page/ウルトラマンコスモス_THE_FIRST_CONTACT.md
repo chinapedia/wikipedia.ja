@@ -162,7 +162,7 @@
 
 ムサシが拾ったおもちゃを木本博士が改造したハイテクロボット。愛称はゴン。腹に[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")を持つ。1420Mhz（ウルトラ信号）を感知する。武器は目から発射されるショックビーム。[テレビシリーズにも度々登場する](https://ja.wikipedia.org/wiki/ウルトラマンコスモスの登場怪獣#スーパーハイテクロボット_クレバーゴン "wikilink")。
 
-  - モデルは『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』に登場した[クレージーゴン](https://ja.wikipedia.org/wiki/ウルトラセブンの登場怪獣#ロボット怪獣_クレージーゴン "wikilink")。
+  - モデルは『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』に登場した[クレージーゴン](https://ja.wikipedia.org/wiki/ウルトラセブンの登場怪獣#ロボット怪獣_クレージーゴン "wikilink")。
 
 ## キャスト
 

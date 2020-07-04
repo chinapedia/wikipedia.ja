@@ -92,7 +92,7 @@
 | <ruby><rb>**[ジュリアーノ勝又](https://ja.wikipedia.org/wiki/勝又隆一 "wikilink")**</rb><rp>（</rp><rt>ジュリアーノかつまた</rt><rp>）</rp></ruby>            | キーボード                                  | 生年月日非公表                                                                                   | 出身地非公表                                                           | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 1997年                                |                                                                                                                                    |
 | **[トシ](https://ja.wikipedia.org/wiki/高畠俊男 "wikilink")**                                                                               | ドラムス                                   | 生年月日非公表                                                                                   | 出身地非公表                                                           | 1995年 - 1997年                                                                                  |                                                                                                                                    |
 | **[マル](https://ja.wikipedia.org/wiki/丸山龍男 "wikilink")**                                                                               | パーカッション                                | [1960年](../Page/1960年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")                  | 神奈川県[横浜市](../Page/横浜市.md "wikilink")                             | 1982年 - 1988年                                                                                  |                                                                                                                                    |
-| <ruby><rb>**[ヒマラヤン下神](https://ja.wikipedia.org/wiki/下神竜哉 "wikilink")**</rb><rp>（</rp><rt>ヒマラヤンしもがみ</rt><rp>）</rp></ruby>              | [トランペット](../Page/トランペット.md "wikilink") | 1964年[7月15日](../Page/7月15日.md "wikilink")                                                 | 東京都[国立市](../Page/国立市.md "wikilink")                              | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 1997年                                | [BIG HORNS BEEのメンバーとして参加していたが](../Page/BIG_HORNS_BEE.md "wikilink")、第1期解散後に脱退。サポートメンバーとして状況に応じて参戦。2019年 a K2C tour 「おかわり」初日公演のみ参加。 |
+| <ruby><rb>**[ヒマラヤン下神](https://ja.wikipedia.org/wiki/下神竜哉 "wikilink")**</rb><rp>（</rp><rt>ヒマラヤンしもがみ</rt><rp>）</rp></ruby>              | [トランペット](../Page/トランペット.md "wikilink") | 1964年[7月15日](../Page/7月15日.md "wikilink")                                                 | 東京都[国立市](../Page/国立市.md "wikilink")                              | [1986年](../Page/1986年.md "wikilink") - 1997年                                                   | [BIG HORNS BEEのメンバーとして参加していたが](../Page/BIG_HORNS_BEE.md "wikilink")、第1期解散後に脱退。サポートメンバーとして状況に応じて参戦。2019年 a K2C tour 「おかわり」初日公演のみ参加。 |
 | <ruby><rb>**[アンデス村田](../Page/村田陽一.md "wikilink")**</rb><rp>（</rp><rt>アンデスむらた</rt><rp>）</rp></ruby>                                    | [トロンボーン](../Page/トロンボーン.md "wikilink") | [1963年](../Page/1963年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                  | [静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink") | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 1986年                                | BIG HORNS BEEのメンバーとして参加していたが脱退。                                                                                                    |
 | <ruby><rb>**ロッキー多田**</rb><rp>（</rp><rt>ロッキーただ</rt><rp>）</rp></ruby>                                                                   | トランペット                                 | 生年月日非公表                                                                                   | 東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")           | 1985年 - 1988年                                                                                  | BIG HORNS BEEのメンバーとして参加していたが脱退。サポートメンバーとして、TV収録など状況に応じて参加。                                                                         |
 | <ruby><rb>**[ビューティー近藤](https://ja.wikipedia.org/wiki/近藤和彦_\(サックス奏者\) "wikilink")**</rb><rp>（</rp><rt>ビューティーこんどう</rt><rp>）</rp></ruby> | サックス                                   | 1964年[5月27日](../Page/5月27日.md "wikilink")                                                 | [山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink") | [1989年](../Page/1989年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") | BIG HORNS BEEのメンバーとして参加していたが脱退。                                                                                                    |
@@ -185,7 +185,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td></td>
 <td><p>EP</p></td>
 <td><p>07-SH-1765</p></td>
@@ -536,7 +536,7 @@ SRCL-30012〜3</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
 <td></td>
 <td><p>LP<br />
 CD<br />
@@ -1184,7 +1184,7 @@ SRBL-1857（DVD版）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>1月21日 - 1月23日</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>1月21日 - 1月23日</p></td>
 <td><p>コンサートツアー</p></td>
 <td><p>DEBUT SHARISHARISM</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

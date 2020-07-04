@@ -1,7 +1,7 @@
 > この記事は[NNNライブオンネットワーク](https://ja.wikipedia.org/wiki/NNNライブオンネットワーク)から翻訳されています。
 
 
-『**NNNライブオンネットワーク**』（エヌエヌエヌライブオンネットワーク、英語表記：*NNN LIVE ON NETWORK*）とは、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までにかけて放送された夕方の[ニュース](../Page/ニュース.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。
+『**NNNライブオンネットワーク**』（エヌエヌエヌライブオンネットワーク、英語表記：*NNN LIVE ON NETWORK*）とは、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1986年](../Page/1986年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までにかけて放送された夕方の[ニュース](../Page/ニュース.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。
 
 ## 番組概要
 

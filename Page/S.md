@@ -24,7 +24,7 @@
 
   - [洪](../Page/ハンガリー語.md "wikilink")：エシュ
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ソー
+  - [エス](../Page/エスペラント.md "wikilink")：ソー
 
 ## 音素
 

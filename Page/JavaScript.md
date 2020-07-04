@@ -493,7 +493,7 @@ Server</p></td>
 
 [Category:JavaScript](https://ja.wikipedia.org/wiki/Category:JavaScript "wikilink") [Category:スクリプト言語](https://ja.wikipedia.org/wiki/Category:スクリプト言語 "wikilink") [Category:ウェブ開発](https://ja.wikipedia.org/wiki/Category:ウェブ開発 "wikilink") [Category:ウェブサイトの構成](https://ja.wikipedia.org/wiki/Category:ウェブサイトの構成 "wikilink")
 
-1.  JavaScript 第5版（[オライリー・ジャパン](https://ja.wikipedia.org/wiki/オライリー・ジャパン "wikilink")、2007）P2。
+1.  JavaScript 第5版（[オライリー・ジャパン](../Page/オライリー・ジャパン.md "wikilink")、2007）P2。
 2.  [ECMA-262 第5版 2.Conformance](https://www.ecma-international.org/ecma-262/5.1/index.html#sec-2)
 3.  新しい（ES2015以降）JavaScriptではクラスの構文によりプロトタイプを意識せずに[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")プログラミングをすることが可能になったが、言語設計は[プロトタイプベース](../Page/プロトタイプベース.md "wikilink")の設計を維持している。
 4.

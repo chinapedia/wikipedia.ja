@@ -11,7 +11,7 @@
 
 ## 歴史
 
-もとはアドビシステムズ社内用の[フォント](../Page/フォント.md "wikilink")制作・[PostScript](../Page/PostScript.md "wikilink")編集ソフトウェアであったが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月に[Macintosh](../Page/Macintosh.md "wikilink")版が一般向けに開発され、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")1月に出荷された。
+もとはアドビシステムズ社内用の[フォント](../Page/フォント.md "wikilink")制作・[PostScript](../Page/PostScript.md "wikilink")編集ソフトウェアであったが、[1986年](../Page/1986年.md "wikilink")12月に[Macintosh](../Page/Macintosh.md "wikilink")版が一般向けに開発され、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")1月に出荷された。
 
 [1988年](../Page/1988年.md "wikilink")、多くの新しい機能を導入したIllustrator 88（バージョン 1.6）がリリースされた。日本語版も発売されたが、88としての記述はなかった。
 
@@ -45,7 +45,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月、CS5（バージョン 15）をリリース。「遠近グリッド」や「絵筆ブラシ」などの機能を追加した。
 
-[2012年](../Page/2012年.md "wikilink")4月23日、CS6（バージョン 16）をリリース。[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")に対応、線にグラデーションが付けられるようになった\[4\]。他にも[ユーザーインターフェース](https://ja.wikipedia.org/wiki/ユーザーインターフェース "wikilink")、レイヤーパネル、RGBコードなどが新しくなっている。 互換性を犠牲にし、システムの根幹から構造が見直され数々の基礎的で重要なツールが改善しているが、[InDesignでは既に数バージョン前から実現しているバックアップ機能がないなど前時代的な設計も未だに数多く見受けられる](../Page/Adobe_InDesign.md "wikilink")。
+[2012年](../Page/2012年.md "wikilink")4月23日、CS6（バージョン 16）をリリース。[64ビット](../Page/64ビット.md "wikilink")に対応、線にグラデーションが付けられるようになった\[4\]。他にも[ユーザーインターフェース](https://ja.wikipedia.org/wiki/ユーザーインターフェース "wikilink")、レイヤーパネル、RGBコードなどが新しくなっている。 互換性を犠牲にし、システムの根幹から構造が見直され数々の基礎的で重要なツールが改善しているが、[InDesignでは既に数バージョン前から実現しているバックアップ機能がないなど前時代的な設計も未だに数多く見受けられる](../Page/Adobe_InDesign.md "wikilink")。
 
 アドビ社の新戦略である[Adobe Creative Cloudの導入に伴い](https://ja.wikipedia.org/wiki/Adobe_Creative_Cloud "wikilink")、Illustrator CCがリリースされた。バージョン17にあたるCCは、他のCreative Suiteに属していたソフト群と同様、サブスクリプションによるサービスモデルのみよって販売されるようになった初めてのバージョンである。カラーやフォント、プログラムの設定の同期、クラウドへのドキュメント保存、[Behance](../Page/Behance.md "wikilink")との連携を始めとして、タッチ入力に対応したTouch Type Toolの導入、イメージを利用したブラシ、CSS書き出し、ファイルのパッケージングなどが新たに実装された。
 
@@ -111,7 +111,7 @@ Illustratorは、プラグインソフトの活用により機能性を向上さ
 1.
 2.
 3.  [Illustrator 10 以前の文書を Illustrator CS で開くとエリア内の文字が上下に移動する](https://helpx.adobe.com/jp/illustrator/kb/224488.html) アドビサポート ( 2016年9月14日)
-4.  宮本朱美"[旧バージョンとの違いは？『Adobe Illustrator CS6』の新機能を大紹介](http://weekly.ascii.jp/elem/000/000/086/86672/)"[ASCII MEDIA WORKS](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2012年5月2日（2012年6月16日閲覧。）
+4.  宮本朱美"[旧バージョンとの違いは？『Adobe Illustrator CS6』の新機能を大紹介](http://weekly.ascii.jp/elem/000/000/086/86672/)"[ASCII MEDIA WORKS](../Page/アスキー・メディアワークス.md "wikilink")、2012年5月2日（2012年6月16日閲覧。）
 5.
 6.
 7.  [Inkscape for Adobe Illustrator users](http://wiki.inkscape.org/wiki/index.php/Inkscape_for_Adobe_Illustrator_users#Formats), *Inkscape.org*

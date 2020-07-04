@@ -395,7 +395,7 @@
   - 「[T・R・Y -RETURN TO YOURSELF-](../Page/T・R・Y_-RETURN_TO_YOURSELF-.md "wikilink")」：[TWO-MIX](../Page/TWO-MIX.md "wikilink") (1996.1 - 1996.3)
   - 「無限大の夢」：小嶋希代子 (1996.7 - 1996.9)
   - 「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」：[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") (1998. - 1998.9)※
-  - 「[BODY MAKES STREAM](https://ja.wikipedia.org/wiki/BODY_MAKES_STREAM "wikilink")」：TWO-MIX (1999.4 - 1999.6)
+  - 「[BODY MAKES STREAM](../Page/BODY_MAKES_STREAM.md "wikilink")」：TWO-MIX (1999.4 - 1999.6)
   - 「[BLACK](https://ja.wikipedia.org/wiki/BLACK_\(SIAM_SHADEの曲\) "wikilink")」：[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")（1999.7 - 1999.9）
   - 「[サイクリングビート330](https://ja.wikipedia.org/wiki/WEED_CROWN/サイクリングビート330 "wikilink")」：[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")（1999.10 - 1999.12）
   - 「[直感パラダイス](https://ja.wikipedia.org/wiki/直感パラダイス "wikilink")」：[Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")（2000.1 - 2000.3）
@@ -619,7 +619,7 @@
   - CAM：笹原健吾、清水陽平、荒井隆之
   - 音声：浜崎健、角田(野)彰久、菅原正巳
   - 照明：佐藤友泰
-  - 音効：[ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")
+  - 音効：[ZACK](../Page/フリーダム・オブ・ザック.md "wikilink")
   - MA：津田のぞみ、松元裕二、山下諒
   - 編成：菅原興二、金沢景敏、佐々木威憲、長尾昇、竹内敦史
   - 制作デスク：竹林桂子、薄井透江

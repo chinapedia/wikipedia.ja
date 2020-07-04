@@ -7,7 +7,7 @@
 
 ## 概要
 
-日産ディーゼルは[1973年](../Page/1973年.md "wikilink")の[4R82型製造終了後以降](https://ja.wikipedia.org/wiki/日産ディーゼル・R/RA "wikilink")、9m大型バスを製造していなかったが、同社製バスを多く使う[関東バス](../Page/関東バス.md "wikilink")からの要請で、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に再び路線バスの製造を再開した。しかしながら、どの車種をとっても生産台数が少なく、近年では発注があってから[国土交通省](../Page/国土交通省.md "wikilink")の型式認定を受ける場合もある。[新長期規制に完全に適合した](../Page/平成17年排出ガス規制_\(ディーゼル車\).md "wikilink")[2007年](../Page/2007年.md "wikilink")9月以降は発売されていない。
+日産ディーゼルは[1973年](../Page/1973年.md "wikilink")の[4R82型製造終了後以降](https://ja.wikipedia.org/wiki/日産ディーゼル・R/RA "wikilink")、9m大型バスを製造していなかったが、同社製バスを多く使う[関東バス](../Page/関東バス.md "wikilink")からの要請で、[1986年](../Page/1986年.md "wikilink")に再び路線バスの製造を再開した。しかしながら、どの車種をとっても生産台数が少なく、近年では発注があってから[国土交通省](../Page/国土交通省.md "wikilink")の型式認定を受ける場合もある。[新長期規制に完全に適合した](../Page/平成17年排出ガス規制_\(ディーゼル車\).md "wikilink")[2007年](../Page/2007年.md "wikilink")9月以降は発売されていない。
 
 一方の9m観光バスは路線と同じシャーシーのRP系で、[1991年](../Page/1991年.md "wikilink")に参入している。こちらも生産台数が少なく、[2005年](../Page/2005年.md "wikilink")に生産中止となった。その後観光RP系の後継として2008年より2010年まで三菱ふそうからのOEM供給でAM系が発売されていた。
 
@@ -19,7 +19,7 @@
 
 ### P-RP80系
 
-[Onomichishikoutsukyoku_P-RP80G.jpg](https://ja.wikipedia.org/wiki/File:Onomichishikoutsukyoku_P-RP80G.jpg "fig:Onomichishikoutsukyoku_P-RP80G.jpg") [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にP-RP80G型が製造開始される。エンジンはFE6型（180PS）である。ただし製造台数は少なく、P-RP80G型は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで製造された。
+[Onomichishikoutsukyoku_P-RP80G.jpg](https://ja.wikipedia.org/wiki/File:Onomichishikoutsukyoku_P-RP80G.jpg "fig:Onomichishikoutsukyoku_P-RP80G.jpg") [1986年](../Page/1986年.md "wikilink")にP-RP80G型が製造開始される。エンジンはFE6型（180PS）である。ただし製造台数は少なく、P-RP80G型は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで製造された。
 
 ### U-RP210系
 

@@ -9,7 +9,7 @@
 
 ICカードの普及以前は、[1960年](../Page/1960年.md "wikilink")に[IBM](../Page/IBM.md "wikilink")によって発明された[磁気ストライプカード](https://ja.wikipedia.org/wiki/磁気ストライプカード "wikilink")が使われていた。
 
-ICカードは、ドイツでは[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[ヘルムート・グレトルップ](https://ja.wikipedia.org/wiki/ヘルムート・グレトルップ "wikilink")（Helmut Gröttrup）とユルゲン・デトロフ（Jürgen Dethloff）が共同で、日本では[1970年](../Page/1970年.md "wikilink")に[有村國孝](https://ja.wikipedia.org/wiki/有村國孝 "wikilink")が、フランスでは[1974年](../Page/1974年.md "wikilink")にローラン・モレノ (Roland Moreno) が、それぞれ発明している。グレトルップは1968年に[特許](../Page/特許.md "wikilink")を申請したが、認められたのは1982年になった。
+ICカードは、ドイツでは[1968年](../Page/1968年.md "wikilink")に[ヘルムート・グレトルップ](https://ja.wikipedia.org/wiki/ヘルムート・グレトルップ "wikilink")（Helmut Gröttrup）とユルゲン・デトロフ（Jürgen Dethloff）が共同で、日本では[1970年](../Page/1970年.md "wikilink")に[有村國孝](https://ja.wikipedia.org/wiki/有村國孝 "wikilink")が、フランスでは[1974年](../Page/1974年.md "wikilink")にローラン・モレノ (Roland Moreno) が、それぞれ発明している。グレトルップは1968年に[特許](../Page/特許.md "wikilink")を申請したが、認められたのは1982年になった。
 
 ICカードをその機能により分類すると、次の4つに分けられる。
 
@@ -62,9 +62,9 @@ ICカードは[プラスチック](https://ja.wikipedia.org/wiki/プラスチッ
 
 ### 非接触型
 
-非接触型ICカードは、読取り機の磁界を通過する[電磁誘導](../Page/電磁誘導.md "wikilink")の起電力を利用している。国際規格[ISO/IEC 14443がある](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")。リーダとライタの通信距離に応じて「密着型」「近接型」「近傍型」「遠隔型」の4種類に区別され、さらに近接型は「Type A」「Type B」に分類される。欧州ではType Aカード、特に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップスエレクトロニクス](https://ja.wikipedia.org/wiki/フィリップスエレクトロニクス "wikilink")が開発した[MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink")が普及している。米国では[モトローラ](../Page/モトローラ.md "wikilink")が開発したType Bカードも普及している。
+非接触型ICカードは、読取り機の磁界を通過する[電磁誘導](../Page/電磁誘導.md "wikilink")の起電力を利用している。国際規格[ISO/IEC 14443がある](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")。リーダとライタの通信距離に応じて「密着型」「近接型」「近傍型」「遠隔型」の4種類に区別され、さらに近接型は「Type A」「Type B」に分類される。欧州ではType Aカード、特に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップスエレクトロニクス](https://ja.wikipedia.org/wiki/フィリップスエレクトロニクス "wikilink")が開発した[MIFARE](../Page/MIFARE.md "wikilink")が普及している。米国では[モトローラ](../Page/モトローラ.md "wikilink")が開発したType Bカードも普及している。
 
-[ソニー](../Page/ソニー.md "wikilink")は自社が開発した[FeliCa](../Page/FeliCa.md "wikilink")をType CとしてISO/IEC 14443に提案したが、この国際規格には採用されず、後にFeliCaとMIFAREの上位通信方式がISO/IEC 18092 ([NFC](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink"), Near Field Communication) として標準化された（FeliCaと同時期にType D - Gも提案されていたが、規格が乱立するとして標準化の議論を停止した）。2005年1月には、拡張規格であるNFC IP-2がISO/IEC 21481として国際標準規格に制定されType Bにも対応した。
+[ソニー](../Page/ソニー.md "wikilink")は自社が開発した[FeliCa](../Page/FeliCa.md "wikilink")をType CとしてISO/IEC 14443に提案したが、この国際規格には採用されず、後にFeliCaとMIFAREの上位通信方式がISO/IEC 18092 ([NFC](../Page/近距離無線通信.md "wikilink"), Near Field Communication) として標準化された（FeliCaと同時期にType D - Gも提案されていたが、規格が乱立するとして標準化の議論を停止した）。2005年1月には、拡張規格であるNFC IP-2がISO/IEC 21481として国際標準規格に制定されType Bにも対応した。
 
 日本ではJIS X 6321 - 6323がある。特定用途向けの規格に、[住民基本台帳カード](../Page/住民基本台帳カード.md "wikilink")仕様 (Type B)、[日本鉄道サイバネティクス協議会によるFeliCaの技術を採用した](https://ja.wikipedia.org/wiki/日本鉄道技術協会#日本鉄道サイバネティクス協議会 "wikilink")[ICカード乗車券規格](../Page/乗車カード.md "wikilink")（サイバネ規格）などが普及している。サイバネ規格のアプリケーションに関係する部分を除いた部分は、[JICSAP仕様の第](https://ja.wikipedia.org/wiki/日本ICカードシステム利用促進協議会 "wikilink")4部で仕様が規定されている。
 
@@ -434,7 +434,7 @@ ICカードは電子マネーにも導入されている。
   - 長崎電気軌道（2008年3月20日導入開始 2009年1月1日導入完了）・松浦鉄道（2011年3月12日）の「[長崎スマートカード](../Page/長崎スマートカード.md "wikilink")」→2020年取扱終了
   - [北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）の「[Kitaca](../Page/Kitaca.md "wikilink")」（キタカ）\[25\]（2008年10月25日）
   - 株式会社ですかの「ICカード 『[ですか](https://ja.wikipedia.org/wiki/ですか "wikilink")』」（2009年1月25日）
-  - [札幌市交通局](../Page/札幌市交通局.md "wikilink")の「[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")」（サピカ、札幌総合情報サービス発行)（2009年1月30日）他、バス会社3社が参入
+  - [札幌市交通局](../Page/札幌市交通局.md "wikilink")の「[SAPICA](../Page/SAPICA.md "wikilink")」（サピカ、札幌総合情報サービス発行)（2009年1月30日）他、バス会社3社が参入
   - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）の「[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")」（スゴカ）\[26\]（2009年3月1日）
   - [北九州高速鉄道](../Page/北九州高速鉄道.md "wikilink")の「mono SUGOCA」（モノスゴカ）\[27\]（2015年10月1日）　2008年1月15日から2月29日と2010年2月8日から1か月間の2回、Type-B採用の「monoca」（モノカ）実証実験実施
   - [福岡市交通局](../Page/福岡市交通局.md "wikilink")の「[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")」([福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")発行)（2009年3月7日）\[28\]

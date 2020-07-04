@@ -53,7 +53,7 @@ HCVは[血液](../Page/血液.md "wikilink")が主な感染経路で、かつて
   - 肝障害
       - [ALT値](../Page/アラニンアミノ基転移酵素.md "wikilink")・[AST値](../Page/アスパラギン酸アミノ基転移酵素.md "wikilink")
   - 肝線維化
-      - IV型[コラーゲン](../Page/コラーゲン.md "wikilink")・[ヒアルロン酸](https://ja.wikipedia.org/wiki/ヒアルロン酸 "wikilink")など
+      - IV型[コラーゲン](../Page/コラーゲン.md "wikilink")・[ヒアルロン酸](../Page/ヒアルロン酸.md "wikilink")など
   - 肝機能
       - [血小板](../Page/血小板.md "wikilink") (Plt)、[プロトロンビン時間](../Page/プロトロンビン時間.md "wikilink") (PT)、[アルブミン](../Page/アルブミン.md "wikilink") (Alb)、[コリンエステラーゼ](../Page/コリンエステラーゼ.md "wikilink") (ChE) など
   - 肝細胞癌の[腫瘍マーカー](https://ja.wikipedia.org/wiki/腫瘍マーカー "wikilink")

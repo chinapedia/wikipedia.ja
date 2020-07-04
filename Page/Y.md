@@ -58,7 +58,7 @@
   - [ドイツ語](../Page/ドイツ語.md "wikilink")では [j](https://ja.wikipedia.org/wiki/j "wikilink") に等しい場合もあるが、普通は [ü](https://ja.wikipedia.org/wiki/ü "wikilink") に等しい。すなわち、唇を丸めて「イ」と言う[円唇前舌狭母音](https://ja.wikipedia.org/wiki/円唇前舌狭母音 "wikilink")  ないし  である。[デンマーク語](../Page/デンマーク語.md "wikilink")、[ノルウェー語](../Page/ノルウェー語.md "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")でもこれに近い発音である。
   - ラテン文字を使う[スラヴ語](../Page/スラヴ語派.md "wikilink")（[ポーランド語](../Page/ポーランド語.md "wikilink")など）、または[キリル文字](../Page/キリル文字.md "wikilink")のラテン転写で、[ы](https://ja.wikipedia.org/wiki/ы "wikilink") に相当する音を表すのに用いる。
   - [ベトナム語](../Page/ベトナム語.md "wikilink")では、やや長い  である。ひとつの音節内で他の母音とともに用いられたときは、主母音となることが多い。
-  - [エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")では外来語のみに使い、読み方が不明なときは文末なら  、それ以外は  と発音することが推奨されている。
+  - [エスペラント](../Page/エスペラント.md "wikilink")では外来語のみに使い、読み方が不明なときは文末なら  、それ以外は  と発音することが推奨されている。
   - [日本語](../Page/日本語.md "wikilink")の[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")綴りでは[や行](../Page/や行.md "wikilink")および[開拗音](https://ja.wikipedia.org/wiki/開拗音 "wikilink")の表記に使用する。
   - [朝鮮語](../Page/朝鮮語.md "wikilink")のローマ字綴りでは、母音の内j系の二重母音である[ㅑ](https://ja.wikipedia.org/wiki/ㅑ "wikilink")、[ㅒ](https://ja.wikipedia.org/wiki/ㅒ "wikilink")、[ㅕ](../Page/ㅕ.md "wikilink")、[ㅖ](https://ja.wikipedia.org/wiki/ㅖ "wikilink")、[ㅛ](https://ja.wikipedia.org/wiki/ㅛ "wikilink")、[ㅠ](https://ja.wikipedia.org/wiki/ㅠ "wikilink")は ya,yae,yeo,ye,yo,yu と y を含む綴りとなる。
   - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、介音 /i/ を含む韻母の表記に使われる。ただし、声母（頭子音）が付く場合、y は i に変わる。「一」「伊」など主母音、尾音無しで介音 /i/ のみの場合、発音は  であり、半母音  が発音されるわけではないが、yi と表記する。

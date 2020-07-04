@@ -56,7 +56,7 @@ Y染色体が男性のみに1本単独で存在するため、突然変異など
 
 ### Y染色体ハプログループ
 
-父系で[遺伝](../Page/遺伝.md "wikilink")するY染色体の[ハプログループ](https://ja.wikipedia.org/wiki/ハプログループ "wikilink")（＝[ハプロタイプ](../Page/ハプロタイプ.md "wikilink")の[集団](../Page/集団.md "wikilink")）を[Y染色体ハプログループ](https://ja.wikipedia.org/wiki/Y染色体ハプログループ "wikilink")という。Y染色体ハプログループを人類全体について調べることで、世界各地の民族の由来を調べることができる。
+父系で[遺伝](../Page/遺伝.md "wikilink")するY染色体の[ハプログループ](../Page/ハプログループ.md "wikilink")（＝[ハプロタイプ](../Page/ハプロタイプ.md "wikilink")の[集団](../Page/集団.md "wikilink")）を[Y染色体ハプログループ](https://ja.wikipedia.org/wiki/Y染色体ハプログループ "wikilink")という。Y染色体ハプログループを人類全体について調べることで、世界各地の民族の由来を調べることができる。
 
 ### Y染色体過剰症群
 

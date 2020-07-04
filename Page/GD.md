@@ -7,7 +7,7 @@
 
   - [グレナダ](https://ja.wikipedia.org/wiki/グレナダ "wikilink") () の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
 
-  - [グロースドイッチュラント師団](https://ja.wikipedia.org/wiki/グロースドイッチュラント師団 "wikilink")の略称。
+  - [グロースドイッチュラント師団](../Page/グロースドイッチュラント師団.md "wikilink")の略称。
 
   - [GD-ROM](../Page/GD-ROM.md "wikilink") - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")で採用された光ディスク
 

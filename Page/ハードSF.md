@@ -79,7 +79,7 @@
 | [ジェイムズ・P・ホーガン](../Page/ジェイムズ・P・ホーガン.md "wikilink")                        | 『[星を継ぐもの](../Page/星を継ぐもの.md "wikilink")』、『[未来の二つの顔](../Page/未来の二つの顔.md "wikilink")』、『[造物主の掟](../Page/造物主の掟.md "wikilink")』等 |
 | [ハル・クレメント](../Page/ハル・クレメント.md "wikilink")                                | 『重力の使命』等                                                                                                                    |
 | [ジュール・ヴェルヌ](../Page/ジュール・ヴェルヌ.md "wikilink")                              | 『[月世界旅行](../Page/月世界旅行.md "wikilink")』、『[海底二万里](../Page/海底二万里.md "wikilink")』等                                              |
-| [スタニスワフ・レム](../Page/スタニスワフ・レム.md "wikilink")                              | 『[ソラリスの陽のもとに](https://ja.wikipedia.org/wiki/ソラリスの陽のもとに "wikilink")』、『虚数』等                                                   |
+| [スタニスワフ・レム](../Page/スタニスワフ・レム.md "wikilink")                              | 『[ソラリスの陽のもとに](../Page/ソラリスの陽のもとに.md "wikilink")』、『虚数』等                                                                      |
 | [石原藤夫](../Page/石原藤夫.md "wikilink")                                        | 「惑星」シリーズ、『宇宙船オロモルフ号の冒険』等                                                                                                    |
 | [堀晃](../Page/堀晃.md "wikilink")                                            | 「トリニティ」シリーズ、『バビロニア・ウェーブ』等                                                                                                   |
 | [クライン・ユーベルシュタイン](../Page/クライン・ユーベルシュタイン.md "wikilink")                    | 『緑の石』、『青い紐』、『赤い星』等                                                                                                          |
@@ -88,7 +88,7 @@
 | [谷甲州](../Page/谷甲州.md "wikilink")                                          | 「[航空宇宙軍史](../Page/航空宇宙軍史.md "wikilink")」シリーズ等                                                                               |
 | [瀬名秀明](../Page/瀬名秀明.md "wikilink")                                        | 『[BRAIN VALLEY](https://ja.wikipedia.org/wiki/BRAIN_VALLEY "wikilink")』等                                                    |
 | [野尻抱介](../Page/野尻抱介.md "wikilink")                                        | 「[ロケットガール](https://ja.wikipedia.org/wiki/ロケットガール "wikilink")」シリーズ、『太陽の簒奪者』等                                                 |
-| [山本弘](../Page/山本弘_\(作家\).md "wikilink")                                   | 「[サイバーナイト](https://ja.wikipedia.org/wiki/サイバーナイト "wikilink")」シリーズ、『時の果てのフェブラリー』等                                            |
+| [山本弘](../Page/山本弘_\(作家\).md "wikilink")                                   | 「[サイバーナイト](../Page/サイバーナイト.md "wikilink")」シリーズ、『時の果てのフェブラリー』等                                                               |
 | [光瀬龍](../Page/光瀬龍.md "wikilink")                                          | 『[百億の昼と千億の夜](../Page/百億の昼と千億の夜.md "wikilink")』、『宇宙年代記』シリーズ等                                                                 |
 | [笹本祐一](../Page/笹本祐一.md "wikilink")                                        | 「[ARIEL](../Page/ARIEL.md "wikilink")」シリーズ、「[星のパイロット](https://ja.wikipedia.org/wiki/星のパイロット "wikilink")」シリーズ等\[18\]         |
 | [神林長平](../Page/神林長平.md "wikilink")                                        | 「[戦闘妖精・雪風](../Page/戦闘妖精・雪風.md "wikilink")」シリーズ、『魂の駆動体』等                                                                     |

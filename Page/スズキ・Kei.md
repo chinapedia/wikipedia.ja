@@ -16,7 +16,7 @@
 
 当初は3ドアのみであったが、翌[1999年](../Page/1999年.md "wikilink")（平成11年）3月に5ドアを追加。[ジムニーとの競合を極力避け](../Page/スズキ・ジムニー.md "wikilink")、[2000年](../Page/2000年.md "wikilink")（平成12年）5月からは5ドアのみの構成となった。[居住](https://ja.wikipedia.org/wiki/居住 "wikilink")空間や[ラゲージスペースは](https://ja.wikipedia.org/wiki/トランク_\(自動車\) "wikilink")[セダン](../Page/セダン.md "wikilink")タイプよりやや広いものの、特に高さで[トールワゴンタイプには敵わない内容となっており](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")、室内容積最優先のユーザよりもスタイリング・走破性重視のユーザーに求められている。そのこともあり、使い勝手向上のため[スペアタイヤ](../Page/スペアタイヤ.md "wikilink")の上部に34Lの大容量「ラゲッジボックス」が標準装備されていた\[3\]。
 
-初代[シボレー・クルーズ](../Page/シボレー・クルーズ.md "wikilink")や初代[スイフト/欧州向けイグニスといったスズキ製の](../Page/スズキ・スイフト.md "wikilink")[普通自動車](../Page/普通自動車.md "wikilink")はKeiの派生車とも言えるモデルで、部品の多くが共通化されている。また、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")に対し、[ラピュタとして](../Page/マツダ・ラピュタ.md "wikilink")[2005年](../Page/2005年.md "wikilink")（平成17年）まで[OEM供給していた](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")。なお、3ドア車のドア、サイドステップは専用品で、5ドア車との互換性はない。
+初代[シボレー・クルーズ](../Page/シボレー・クルーズ.md "wikilink")や初代[スイフト/欧州向けイグニスといったスズキ製の](../Page/スズキ・スイフト.md "wikilink")[普通自動車](../Page/普通自動車.md "wikilink")はKeiの派生車とも言えるモデルで、部品の多くが共通化されている。また、[マツダ](../Page/マツダ.md "wikilink")に対し、[ラピュタとして](../Page/マツダ・ラピュタ.md "wikilink")[2005年](../Page/2005年.md "wikilink")（平成17年）まで[OEM供給していた](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")。なお、3ドア車のドア、サイドステップは専用品で、5ドア車との互換性はない。
 
 ## 初代 HN11S/HN12S/HN21S/HN22S型 （1998年-2009年）
 

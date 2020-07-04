@@ -16,7 +16,7 @@
 ### 初代\[2\] T16\#型（1985年 - 1989年）
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")8月発売。[セリカ](../Page/トヨタ・セリカ.md "wikilink")/[コロナクーペの](../Page/トヨタ・コロナクーペ.md "wikilink")[兄弟車](https://ja.wikipedia.org/wiki/兄弟車 "wikilink")。3代目カリーナ3ドアリフトバック[クーペ](../Page/クーペ.md "wikilink")の事実上の後継車にあたる。他にない車高をおさえたデザインと、4代目セリカの車台を流用した4ドアピラーレスハードトップ（トヨタ車初）が話題となり、記録的セールスで当時「トヨタの傑作」と言わしめた。\[3\]発売当初は1,800cc SOHC（1S-iLU型）、1,800cc SOHC（1S-ELU型）、2,000cc スポーツツインカム（[3S-GELU型](../Page/トヨタ・3S-GE.md "wikilink")）の3種類のエンジンを搭載。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")前半 - 小変更。一部グレードにおいてサイドミラーがカラー化。
+  - [1986年](../Page/1986年.md "wikilink")前半 - 小変更。一部グレードにおいてサイドミラーがカラー化。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")8月 - [マイナーチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")。フロントグリル奥にフォグランプが内蔵され、上位グレードはテールランプの車名ロゴがライト連動で光る『ブライトエンブレム』\[4\]を装備。1S-E型エンジンが廃止され、2,000cc ハイメカツインカムの3S-FE型が採用される。
   - [1988年](../Page/1988年.md "wikilink")5月 - 1S-i型エンジンが廃止され、1,800cc ハイメカツインカムの4S-Fi型が採用される。これにより、シリーズ全車[DOHC](../Page/DOHC.md "wikilink")化完了。全車の[マフラーがデュアルパイプ化される](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。
 

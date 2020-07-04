@@ -21,7 +21,7 @@
 #### 川田町へ移転、電リク時代の終了
 
   - [2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にエフエム富士本社が[川田町アリアへ移転したのに伴い](https://ja.wikipedia.org/wiki/アリア・ディ・フィレンツェ "wikilink")、[7月3日](../Page/7月3日.md "wikilink")の放送よりアリア内の本社スタジオAからの生放送を開始。アリアから最初に放送したDJは月曜日担当の[Happy だんばらである](../Page/Happy_だんばら.md "wikilink")。
-  - この頃から新聞[ラ・テ欄などで](https://ja.wikipedia.org/wiki/番組表 "wikilink")「○○イズム」（○○はDJの愛称が入る）の表記が増えてくる。（例：「"セ"イズム」=[服部整治](../Page/服部整治.md "wikilink")\[1\]「さっちゃんイズム」=[大出佐智子](https://ja.wikipedia.org/wiki/大出佐智子 "wikilink")、など）
+  - この頃から新聞[ラ・テ欄などで](https://ja.wikipedia.org/wiki/番組表 "wikilink")「○○イズム」（○○はDJの愛称が入る）の表記が増えてくる。（例：「"セ"イズム」=[服部整治](../Page/服部整治.md "wikilink")\[1\]「さっちゃんイズム」=[大出佐智子](../Page/大出佐智子.md "wikilink")、など）
   - 2000年代まで乱立していた電リク番組も、FAX、[パソコンやメール機能付き](../Page/パーソナルコンピュータ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")等の普及によって次々と消え、関東近郊の他FM局ではRADIO-izm以外では、[裏番組](../Page/裏番組.md "wikilink")であった[bayfm](https://ja.wikipedia.org/wiki/bayfm "wikilink")の「[BAY LINE 7300](../Page/BAY_LINE_7300.md "wikilink")」と[J-WAVE](../Page/J-WAVE.md "wikilink")の「[GROOVE LINE](../Page/GROOVE_LINE.md "wikilink")」を残すのみとなった。RADIO-izmも時代の流れには逆らえず、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春に番組がリニューアルされることになり、「SUNSET CALLING」時代から足かけ18年続いた電話受付を[3月31日](../Page/3月31日.md "wikilink")をもって終了した。なお「GROOVE LINE」も同日で電話受付を終了、また「BAY LINE 7300」も[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")\[2\]をもって番組を終了\[3\]、これで関東地区のFM局からレギュラー放送の電リク番組が姿を消したことになる\[4\]。
 
 ### 4時間時代
@@ -47,7 +47,7 @@
   - [実由](https://ja.wikipedia.org/wiki/実由 "wikilink")（2002.1-2008.3 水→火）
   - [江藤麻由](../Page/江藤麻由.md "wikilink")（2002.1-2003.9 木）
   - [斉藤りさ](../Page/斉藤りさ.md "wikilink")（2005.4-2007.3 木）
-  - [大出佐智子](https://ja.wikipedia.org/wiki/大出佐智子 "wikilink")（2007.4-2009.3 木）
+  - [大出佐智子](../Page/大出佐智子.md "wikilink")（2007.4-2009.3 木）
   - [野村富美江](https://ja.wikipedia.org/wiki/野村富美江 "wikilink")（2008.4-2009.3 火）
 
 ### 男性

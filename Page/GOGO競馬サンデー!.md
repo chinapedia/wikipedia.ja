@@ -13,7 +13,7 @@ MBSラジオにおける初めての競馬中継は、[1952年](../Page/1952年.
 
 ### レギュラー化
 
-[1970年](../Page/1970年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に土曜日に限り「MBSジャンボサタデー」の1コーナーとして競馬中継をメインレースに限り放送\[3\]。そして再度、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")10月10日から『**MBS日曜競馬**』（エムビーエスにちようけいば）（13時開始）のタイトルでレギュラー放送を再開した\[4\]。当初の司会には[津川雅彦](../Page/津川雅彦.md "wikilink")、[片山明彦](https://ja.wikipedia.org/wiki/片山明彦 "wikilink")、[ロイ・ジェームス](../Page/ロイ・ジェームス.md "wikilink")、[2代目桂春蝶](../Page/桂春蝶_\(2代目\).md "wikilink")、初代[森乃福郎](../Page/森乃福郎.md "wikilink")といったタレント、解説にも[浅見国一](https://ja.wikipedia.org/wiki/浅見国一 "wikilink")、[武田文吾](../Page/武田文吾.md "wikilink")など調教師や、[ケイバブック](../Page/ケイバブック.md "wikilink")からも[内炭重雄](https://ja.wikipedia.org/wiki/内炭重雄 "wikilink")、[井尻恵三](https://ja.wikipedia.org/wiki/井尻恵三 "wikilink")といった有名トラックマンを起用していた\[5\]。
+[1970年](../Page/1970年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に土曜日に限り「MBSジャンボサタデー」の1コーナーとして競馬中継をメインレースに限り放送\[3\]。そして再度、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")10月10日から『**MBS日曜競馬**』（エムビーエスにちようけいば）（13時開始）のタイトルでレギュラー放送を再開した\[4\]。当初の司会には[津川雅彦](../Page/津川雅彦.md "wikilink")、[片山明彦](https://ja.wikipedia.org/wiki/片山明彦 "wikilink")、[ロイ・ジェームス](../Page/ロイ・ジェームス.md "wikilink")、[2代目桂春蝶](../Page/桂春蝶_\(2代目\).md "wikilink")、初代[森乃福郎](../Page/森乃福郎.md "wikilink")といったタレント、解説にも[浅見国一](../Page/浅見国一.md "wikilink")、[武田文吾](../Page/武田文吾.md "wikilink")など調教師や、[ケイバブック](../Page/ケイバブック.md "wikilink")からも[内炭重雄](https://ja.wikipedia.org/wiki/内炭重雄 "wikilink")、[井尻恵三](https://ja.wikipedia.org/wiki/井尻恵三 "wikilink")といった有名トラックマンを起用していた\[5\]。
 
 ### CRKとの業務提携
 

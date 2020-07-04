@@ -1335,7 +1335,7 @@ tae</p></td>
 <!-- end list -->
 
   - てっちゃんねる（[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")、2016年9月1日 - ）
-  - [イマドキッ](https://ja.wikipedia.org/wiki/イマドキッ "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、2017年4月27日 - ）
+  - [イマドキッ](../Page/イマドキッ.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、2017年4月27日 - ）
 
 <!-- end list -->
 
@@ -1372,7 +1372,7 @@ tae</p></td>
 
 使用楽器はインディーズ期より[ZONのベースを愛用している](https://ja.wikipedia.org/wiki/ゾン_\(楽器メーカー\) "wikilink")。その後、[ESPとエンドースメント契約を結び](../Page/イーエスピー.md "wikilink")、自身のシグネイチャーモデル等を使い始める。ESPのミュージシャンモデルシリーズから各種4弦ベースを初めとして5弦ベース・6弦ベース、LAKLANDからはtetsuya MODELとして5弦ベースがそれぞれ発売されている。レコーディング等では、55-94やBardicは持っていくもののほとんどZONを使用している模様。また、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")であった[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")（現在は[アレンジャー](../Page/編曲家.md "wikilink")）の所有しているベースや、以前[YAMAHA](https://ja.wikipedia.org/wiki/YAMAHA "wikilink")から限定販売されていた岡野ハジメモデルなども『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』のレコーディングで使用している。
 
-[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")やケーブル、[DIなどは曲に応じて変更していて](../Page/ダイレクト・ボックス.md "wikilink")、1曲毎に弦を張り替えている。弦はDR、[ストラップ](../Page/ストラップ.md "wikilink")はLive Lineのもの、シールドやスピーカーケーブルやパッチケーブルなどのケーブル類はAET Individual Design、Providence、Pete CORNISHなどを、 アンプは[Ampeg](https://ja.wikipedia.org/wiki/アンペグ "wikilink")、Trace Elliot、Hartke、キャビネットはBASSON製やAmpeg製のものを愛用しており、機材ケースは[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")にちなんで長年赤を使っていたが、シルバーを経て現在はピンクのものを使用している。
+[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")やケーブル、[DIなどは曲に応じて変更していて](../Page/ダイレクト・ボックス.md "wikilink")、1曲毎に弦を張り替えている。弦はDR、[ストラップ](../Page/ストラップ.md "wikilink")はLive Lineのもの、シールドやスピーカーケーブルやパッチケーブルなどのケーブル類はAET Individual Design、Providence、Pete CORNISHなどを、 アンプは[Ampeg](../Page/アンペグ.md "wikilink")、Trace Elliot、Hartke、キャビネットはBASSON製やAmpeg製のものを愛用しており、機材ケースは[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")にちなんで長年赤を使っていたが、シルバーを経て現在はピンクのものを使用している。
 
 ちなみにBardic、BUZZ BASS、BUGSY（本人所有のみ）、Bandit（4弦、6弦共に）、BASS IV（本人所有のみ）、ELT-I、百式、JUGGLER BASS、FLYING Y、Thunderbird Typeに採用されている「ESP」の筆記体ロゴは、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")のギタリストである[カーク・ハメット](../Page/カーク・ハメット.md "wikilink")とtetsuyaしか使えない特別なロゴである。
 
@@ -1481,7 +1481,7 @@ tae</p></td>
 <li>Roland G-707</li>
 <li>KLEIN Proto Type</li>
 <li>BORN TO ROCK F4b</li>
-<li><a href="https://ja.wikipedia.org/wiki/スタインバーガー" title="wikilink">Steinberger</a> GM4T</li>
+<li><a href="../Page/スタインバーガー.md" title="wikilink">Steinberger</a> GM4T</li>
 <li>Steinberger GM4-12</li>
 <li>Steinberger M Series W-Neck</li>
 <li>Steinberger GM7TA</li>
@@ -1694,7 +1694,7 @@ tae</p></td>
 18. [ラルク アン シエルのtetsuがtetsuyaに改名](http://www.oricon.co.jp/news/71201/full/) - オリコン
 19. [【ライヴレポート】TETSUYA、バンド編成の夜に「もうすぐ１周年です、ありがとう」](https://www.barks.jp/news/?id=1000126740) - BARKS
 20. [TETSUYA、Xmasディナーショーで“ファンツアー”開催発表](https://www.barks.jp/news/?id=1000122743) - BARKS
-21. [TOKYO FM](../Page/エフエム東京.md "wikilink")「[LOWSON COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")」2001年7月14日
+21. [TOKYO FM](../Page/エフエム東京.md "wikilink")「[LOWSON COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")」2001年7月14日
 22. [TETSUYA、「SPROUSE」レーベル再始動 プロデューサー活動予告も](http://www.oricon.co.jp/news/2059716/full/) - oricon
 23.
 24. [TETSUYAがユニバーサルミュージックへ移籍、東名阪ツアーも決定](http://natalie.mu/music/news/190235) - ナタリー

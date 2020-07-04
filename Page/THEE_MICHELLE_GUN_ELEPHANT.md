@@ -66,7 +66,7 @@
   -
 
       -
-        [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")生まれ。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。脱退後は**THE WATTER**のギター担当として活動している。
+        [1968年](../Page/1968年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")生まれ。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。脱退後は**THE WATTER**のギター担当として活動している。
 
 上記の他にも、結成時に在籍し、直後に脱退した旧メンバーが2名挙げられるが、氏名が公表されていないのでここでは割愛する。なお、シガケイイチはアルバム『MAXIMUM\! MAXIMUM\!\! MAXIMUM\!\!\!』に氏名が掲載されている。
 

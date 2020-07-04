@@ -81,7 +81,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - **[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")**
   - **[イシバシハザマ](../Page/イシバシハザマ.md "wikilink")**
   - '''[レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")
-  - **[エハラマサヒロ](https://ja.wikipedia.org/wiki/エハラマサヒロ "wikilink")**
+  - **[エハラマサヒロ](../Page/エハラマサヒロ.md "wikilink")**
   - **[ネゴシックス](../Page/ネゴシックス.md "wikilink")**
 
 ### 2008年のリニューアル時の卒業芸人
@@ -157,7 +157,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - **[アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink")** 「逆境乗り越えピン芸人」(河井)
   - **[コマンダンテ](https://ja.wikipedia.org/wiki/コマンダンテ_\(お笑いコンビ\) "wikilink")**
   - [ドルフィンズ](https://ja.wikipedia.org/wiki/ドルフィンズ_\(お笑い\) "wikilink")
-  - [モストデンジャラス](https://ja.wikipedia.org/wiki/モストデンジャラス "wikilink")（旧: 極悪連合 → モストデンジャラストリオ）「base1いじら連合」( 極悪連合 )（解散）
+  - [モストデンジャラス](../Page/モストデンジャラス.md "wikilink")（旧: 極悪連合 → モストデンジャラストリオ）「base1いじら連合」( 極悪連合 )（解散）
   - **[プラス・マイナス](../Page/プラス・マイナス.md "wikilink")**（旧: プラスマイナス）
   - [span\!](https://ja.wikipedia.org/wiki/span! "wikilink") 「激しく動く凸凹コンビ」
   - [さかなDVD](https://ja.wikipedia.org/wiki/さかなDVD "wikilink") （解散） 「脳裏に焼き付けろ‼」
@@ -234,7 +234,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
 
   - [ガリガリガリクソン](https://ja.wikipedia.org/wiki/ガリガリガリクソン "wikilink")
   - [いがわゆり蚊](../Page/いがわゆり蚊.md "wikilink")
-  - **[バイク川崎バイク](https://ja.wikipedia.org/wiki/バイク川崎バイク "wikilink")**
+  - **[バイク川崎バイク](../Page/バイク川崎バイク.md "wikilink")**
   - [帽子屋お松](https://ja.wikipedia.org/wiki/帽子屋お松 "wikilink")
   - [山田ひろあき](https://ja.wikipedia.org/wiki/山田ひろあき "wikilink")
   - **[ツジカオルコ](../Page/ツジカオルコ.md "wikilink")**
@@ -300,7 +300,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - 平安京999（「[勝山梶](https://ja.wikipedia.org/wiki/勝山梶 "wikilink")」の勝山慎司が以前組んでいたトリオ）
   - 大浦梶（「勝山梶」の梶剛が以前組んでいたコンビ）
   - 宇宙ネズミ
-  - 町の帽子屋さん（解散後は2人とも「[帽子屋お松](https://ja.wikipedia.org/wiki/帽子屋お松 "wikilink")」、「[バイク川崎バイク](https://ja.wikipedia.org/wiki/バイク川崎バイク "wikilink")」と名を変えピンで活動中）
+  - 町の帽子屋さん（解散後は2人とも「[帽子屋お松](https://ja.wikipedia.org/wiki/帽子屋お松 "wikilink")」、「[バイク川崎バイク](../Page/バイク川崎バイク.md "wikilink")」と名を変えピンで活動中）
   - ラブソング（バイク川崎バイクはピンで活動中）
   - 高校デビュー（佐竹は「ガトリングガン」を結成後、元グッドモーニングの吉田と「ストライク」を結成）
   - ギャラクシー（梅木は「[丼](../Page/ハニートラップ_\(お笑い\).md "wikilink")」を結成）

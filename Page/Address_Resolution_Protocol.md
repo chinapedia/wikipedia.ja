@@ -94,7 +94,7 @@ ARPはレイヤ3アドレスをレイヤ2アドレスに変換するので、InA
 
 ## ARPスプーフィングとプロキシARP
 
-[ARP_Spoofing.svg](https://ja.wikipedia.org/wiki/File:ARP_Spoofing.svg "fig:ARP_Spoofing.svg")攻撃が成功した場合、攻撃者は[中間者攻撃](https://ja.wikipedia.org/wiki/中間者攻撃 "wikilink")を行うことができる。\]\]  ARPにはネットワーク上のARPリプライを認証する方法がなく、ARPリプライは必要なレイヤ2アドレスを持つシステム以外のシステムから送信される可能性もある。プロキシARP(Proxy ARP)は、ネットワークの設計の一部として、他のネットワークにARP要求があった場合に[ルータ](https://ja.wikipedia.org/wiki/ルータ "wikilink")がホストに代わって回答する仕組みであり、[NAT環境下において使用される例が多い](../Page/ネットワークアドレス変換.md "wikilink")。これに対して、ARPスプーフィング(ARP spoofing)は、そのシステム宛てのデータを傍受する目的で、別のシステムのアドレスに対するARPリクエストに応答するものである。ARPスプーフィングを使用して、悪意のあるユーザがネットワーク上の他のユーザーに対して[中間者攻撃](https://ja.wikipedia.org/wiki/中間者攻撃 "wikilink")や[DoS攻撃](../Page/DoS攻撃.md "wikilink")を行う可能性がある。ARP自体にはこのような攻撃からの保護方法は提供されておらず、ARPスプーフィング攻撃を検出して対策するための様々なソフトウェアが存在する\[18\]。
+[ARP_Spoofing.svg](https://ja.wikipedia.org/wiki/File:ARP_Spoofing.svg "fig:ARP_Spoofing.svg")攻撃が成功した場合、攻撃者は[中間者攻撃](../Page/中間者攻撃.md "wikilink")を行うことができる。\]\]  ARPにはネットワーク上のARPリプライを認証する方法がなく、ARPリプライは必要なレイヤ2アドレスを持つシステム以外のシステムから送信される可能性もある。プロキシARP(Proxy ARP)は、ネットワークの設計の一部として、他のネットワークにARP要求があった場合に[ルータ](https://ja.wikipedia.org/wiki/ルータ "wikilink")がホストに代わって回答する仕組みであり、[NAT環境下において使用される例が多い](../Page/ネットワークアドレス変換.md "wikilink")。これに対して、ARPスプーフィング(ARP spoofing)は、そのシステム宛てのデータを傍受する目的で、別のシステムのアドレスに対するARPリクエストに応答するものである。ARPスプーフィングを使用して、悪意のあるユーザがネットワーク上の他のユーザーに対して[中間者攻撃](../Page/中間者攻撃.md "wikilink")や[DoS攻撃](../Page/DoS攻撃.md "wikilink")を行う可能性がある。ARP自体にはこのような攻撃からの保護方法は提供されておらず、ARPスプーフィング攻撃を検出して対策するための様々なソフトウェアが存在する\[18\]。
 
 ## ARPの代替
 

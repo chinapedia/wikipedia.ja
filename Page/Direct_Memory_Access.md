@@ -21,7 +21,7 @@ DMAは[PDPシリーズ](../Page/PDPシリーズ.md "wikilink")において採用
 
 Intelの[i80286](../Page/Intel_80286.md "wikilink")（APX286）などでは、当時通常のI/Oを制御するためには充分な動作速度だった事、主流の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")において、i8249等の低速なDMACしか搭載されておらず、他に適当なDMACが存在しなかった事などから、DMAはあまり使用されなくなった。
 
-CPUの世代が[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")になり、充分に高速になると、今度は、低速なI/Oの管理が[ボトルネック](../Page/ボトルネック.md "wikilink")となったため、いわゆる[チップセット](../Page/チップセット.md "wikilink")にI/O専用の高速なDMACが搭載されたり、周辺機器制御LSIが簡単なDMA機能を持つようになり、再度DMAが活用されるようになった。Pentium以降主流となった[PCIバスでは](../Page/Peripheral_Component_Interconnect.md "wikilink")、[バスマスタリング](https://ja.wikipedia.org/wiki/バスマスタリング "wikilink")としてDMAが実装されている。
+CPUの世代が[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")になり、充分に高速になると、今度は、低速なI/Oの管理が[ボトルネック](../Page/ボトルネック.md "wikilink")となったため、いわゆる[チップセット](../Page/チップセット.md "wikilink")にI/O専用の高速なDMACが搭載されたり、周辺機器制御LSIが簡単なDMA機能を持つようになり、再度DMAが活用されるようになった。Pentium以降主流となった[PCIバスでは](../Page/Peripheral_Component_Interconnect.md "wikilink")、[バスマスタリング](../Page/バスマスタリング.md "wikilink")としてDMAが実装されている。
 
 ## 高機能DMAC
 
@@ -42,7 +42,7 @@ CPUの世代が[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")にな
 
 ## 関連項目
 
-  - [バスマスタリング](https://ja.wikipedia.org/wiki/バスマスタリング "wikilink")
+  - [バスマスタリング](../Page/バスマスタリング.md "wikilink")
   - [Remote Direct Memory Access](https://ja.wikipedia.org/wiki/Remote_Direct_Memory_Access "wikilink")
   - [PIO病](https://ja.wikipedia.org/wiki/PIO病 "wikilink")
 

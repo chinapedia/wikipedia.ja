@@ -19,7 +19,7 @@ EGAは最大640x350ピクセルの[画面解像度](../Page/画面解像度.md "
 
 EGAは350ラインモード時に21.8kHz、200ラインモード時に15.7kHzで駆動するデュアルシンクである。オリジナルのCGAモードも存在するが、EGAはCGAとのハードウェア互換性は完全ではない。EGAはボード上のスイッチの設定を変えることでMDA用モニターを使用できるものの、この設定では640x350高解像度モノクログラフィックと標準MDAテキストモードのみが利用可能である。
 
-EGAカードは[ISAバスを採用し](../Page/Industry_Standard_Architecture.md "wikilink")、当初は[8ビット](../Page/8ビット.md "wikilink")版および[16ビット](../Page/16ビット.md "wikilink")版が用意されていた。オリジナルのIBM製EGAカードは64KBの[オンボードRAMを持ち](../Page/VRAM.md "wikilink")、64KBを追加するためには[ドーターボード](https://ja.wikipedia.org/wiki/ドーターボード "wikilink")を必要とした。（64KBのEGAカードでは640x350モード時は4色に制限される。）ほとんどの[サードパーティー](../Page/サードパーティー.md "wikilink")製カードは128KBが実装済みで、一部は256KBを搭載して複数のグラフィックページをサポートした。いくつかのサードパーティー製EGA互換品（特に[ATIテクノロジーズやパラダイス](../Page/ATI_Technologies.md "wikilink")（現・[ウェスタン・ディジタル](https://ja.wikipedia.org/wiki/ウェスタン・デジタル "wikilink")）のボードが知られる）は640x400、640x480、720x540などの拡張されたグラフィックモード、モニター種別の自動検出、CGAモニターを使うための400ライン[インターレース](../Page/インターレース.md "wikilink")モードをサポートしていた。
+EGAカードは[ISAバスを採用し](../Page/Industry_Standard_Architecture.md "wikilink")、当初は[8ビット](../Page/8ビット.md "wikilink")版および[16ビット](../Page/16ビット.md "wikilink")版が用意されていた。オリジナルのIBM製EGAカードは64KBの[オンボードRAMを持ち](../Page/VRAM.md "wikilink")、64KBを追加するためには[ドーターボード](../Page/ドーターボード.md "wikilink")を必要とした。（64KBのEGAカードでは640x350モード時は4色に制限される。）ほとんどの[サードパーティー](../Page/サードパーティー.md "wikilink")製カードは128KBが実装済みで、一部は256KBを搭載して複数のグラフィックページをサポートした。いくつかのサードパーティー製EGA互換品（特に[ATIテクノロジーズやパラダイス](../Page/ATI_Technologies.md "wikilink")（現・[ウェスタン・ディジタル](https://ja.wikipedia.org/wiki/ウェスタン・デジタル "wikilink")）のボードが知られる）は640x400、640x480、720x540などの拡張されたグラフィックモード、モニター種別の自動検出、CGAモニターを使うための400ライン[インターレース](../Page/インターレース.md "wikilink")モードをサポートしていた。
 
 ### 表示機能
 

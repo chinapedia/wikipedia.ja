@@ -5,7 +5,7 @@
 
 他のFEP/IMEの辞書をインポートしたり、独自のユーザ辞書を作成できる、弄れる/遊べる[辞書](https://ja.wikipedia.org/wiki/辞書 "wikilink")や、[ローマ字入力](../Page/ローマ字入力.md "wikilink")やキーのフル[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")という機能に加え、MAPI（マルチアプリケーションインターフェイス）を装備することで、FEPを限定していた[アプリケーションでも使用できたことから](../Page/アプリケーションソフトウェア.md "wikilink")、利用者は複数のFEPの辞書をそれぞれ鍛えるという非効率や、FEP/IMEの異なる操作性への習熟といった苦痛から解放された。
 
-商用[パソコン通信](../Page/パソコン通信.md "wikilink")[NIFTY-Serve](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")（現[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")）などの[フォーラム](https://ja.wikipedia.org/wiki/フォーラム "wikilink")（後にステーション）で活発な意見交換が行われ、ユーザが作成した辞書や、カスタマイズツールなども公開されるとともに、WX 本体も改良が加えられ着実に進歩を遂げた。また、約20,000人(?)の [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")ユーザの署名活動によって、WX for OS/2が開発に至った。
+商用[パソコン通信](../Page/パソコン通信.md "wikilink")[NIFTY-Serve](../Page/ニフティサーブ.md "wikilink")（現[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")）などの[フォーラム](https://ja.wikipedia.org/wiki/フォーラム "wikilink")（後にステーション）で活発な意見交換が行われ、ユーザが作成した辞書や、カスタマイズツールなども公開されるとともに、WX 本体も改良が加えられ着実に進歩を遂げた。また、約20,000人(?)の [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")ユーザの署名活動によって、WX for OS/2が開発に至った。
 
 @Nifty のステーション閉鎖後、[インターネット](../Page/インターネット.md "wikilink")上にサポートページ「e言葉」が開始されるとともに「WXG for [Linux](../Page/Linux.md "wikilink")/[FreeBSD](../Page/FreeBSD.md "wikilink") 1.0β」が[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開され大きな話題になる。しかし、正式版の公開を待たずして閉鎖に至った。
 

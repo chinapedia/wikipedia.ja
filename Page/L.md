@@ -19,7 +19,7 @@
 
   - （エッレ）
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink"): ロー
+  - [エス](../Page/エスペラント.md "wikilink"): ロー
 
 ## 音素
 

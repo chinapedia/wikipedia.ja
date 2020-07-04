@@ -168,7 +168,7 @@ ID：2</p></td>
 ### 現在
 
   - [ニュースブリッジ北九州](https://ja.wikipedia.org/wiki/ニュースブリッジ北九州 "wikilink")（総合テレビ　月曜〜金曜 18:30 - 18:59）
-  - [ニュース845北九州](https://ja.wikipedia.org/wiki/ニュース845北九州 "wikilink")（総合テレビ　平日 20:45 - 21:00）
+  - [ニュース845北九州](../Page/ニュース845北九州.md "wikilink")（総合テレビ　平日 20:45 - 21:00）
   - ふるさと探訪（1分、随時）
 
 <!-- end list -->
@@ -196,7 +196,7 @@ ID：2</p></td>
   - [イブニングネットワーク北九州](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")（総合テレビ 1995年度まで）
   - 6時半です\!ニュースセンター北九州（総合テレビ [1996年](../Page/1996年.md "wikilink")度）
   - [NEWSシャトル北九州](../Page/ニュースシャトル北九州.md "wikilink")（総合テレビ 1997年度-2007年度）
-  - [こんばんは北九州](https://ja.wikipedia.org/wiki/こんばんは北九州 "wikilink")（総合テレビ　2008年度-2012年度）
+  - [こんばんは北九州](../Page/こんばんは北九州.md "wikilink")（総合テレビ　2008年度-2012年度）
 
 <!-- end list -->
 
@@ -261,7 +261,7 @@ ID：2</p></td>
 <tr class="even">
 <td><p>藤重博貴</p></td>
 <td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/ニュース845北九州" title="wikilink">ニュース845北九州</a><br />
+<td><p>|<a href="../Page/ニュース845北九州.md" title="wikilink">ニュース845北九州</a><br />
 きたきゅーラジオ</p></td>
 </tr>
 <tr class="odd">

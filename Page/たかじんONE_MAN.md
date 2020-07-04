@@ -21,7 +21,7 @@
 
 9年半という放送期間は、たかじんが64歳で逝去した2014年1月の時点で終了していた[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")では最も長く、逝去後もたかじんの名を残したまま放送中の番組を含めても3番目の長さである（1番は[関西テレビ](../Page/関西テレビ放送.md "wikilink")『[たかじん胸いっぱい](../Page/胸いっぱいサミット!.md "wikilink")』の19年・2番は[ytv](../Page/讀賣テレビ放送.md "wikilink")『[たかじんのそこまで言って委員会](https://ja.wikipedia.org/wiki/そこまで言って委員会NP "wikilink")』の10年）。
 
-MBSテレビでは、当番組の後番組として『[よゐこのワケアリ](https://ja.wikipedia.org/wiki/よゐこのワケアリ "wikilink")』を半年間放送。以降は、『[よゐこ部](../Page/よゐこ部.md "wikilink")』（2010年12月末で終了）をはさんで、『[ごぶごぶ](../Page/ごぶごぶ.md "wikilink")』を長年放送されていた。その後は『[ケンゴロー](https://ja.wikipedia.org/wiki/ケンゴロー "wikilink")』が放送されて、[2017年](../Page/2017年.md "wikilink")6月現在再び『ごぶごぶ』となっている。
+MBSテレビでは、当番組の後番組として『[よゐこのワケアリ](../Page/よゐこのワケアリ.md "wikilink")』を半年間放送。以降は、『[よゐこ部](../Page/よゐこ部.md "wikilink")』（2010年12月末で終了）をはさんで、『[ごぶごぶ](../Page/ごぶごぶ.md "wikilink")』を長年放送されていた。その後は『[ケンゴロー](https://ja.wikipedia.org/wiki/ケンゴロー "wikilink")』が放送されて、[2017年](../Page/2017年.md "wikilink")6月現在再び『ごぶごぶ』となっている。
 
 ## 出演者
 

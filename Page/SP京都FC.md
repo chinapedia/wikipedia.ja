@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink")のサッカー部として創部。[2000年](../Page/2000年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")に[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へそれぞれ昇格した\[1\]。また、[2014年](../Page/2014年.md "wikilink")より登録チーム名を「佐川印刷京都サッカークラブ」、呼称を「佐川印刷京都」へ変更\[2\]。さらに[2015年](../Page/2015年.md "wikilink")より「SP京都フットボールクラブ」（呼称：SP京都FC）に名称変更した\[3\]。
+[1986年](../Page/1986年.md "wikilink")に[佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink")のサッカー部として創部。[2000年](../Page/2000年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")に[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へそれぞれ昇格した\[1\]。また、[2014年](../Page/2014年.md "wikilink")より登録チーム名を「佐川印刷京都サッカークラブ」、呼称を「佐川印刷京都」へ変更\[2\]。さらに[2015年](../Page/2015年.md "wikilink")より「SP京都フットボールクラブ」（呼称：SP京都FC）に名称変更した\[3\]。
 
 ## 歴史
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
     **佐川印刷サッカー部**として創部し\[4\]\[5\]、1998年の京都府1部リーグ昇格を機に本格的に強化を開始\[6\]\[7\]。
   - [2000年](../Page/2000年.md "wikilink")
     [関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")へ昇格。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")に初出場して準優勝。

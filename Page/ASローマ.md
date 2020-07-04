@@ -37,7 +37,7 @@
 
 2000年にイタリア国内のクラブではラツィオに次いで株式を上場した。これにより補強資金を確保できたクラブは、2000-01シーズン開幕前に[ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")、[エメルソン](../Page/エメルソン・フェレイラ・ダ・ローザ.md "wikilink")、[ワルテル・サムエル](../Page/ワルテル・サムエル.md "wikilink")といった選手を補強した。バティストゥータ、[マルコ・デルヴェッキオ](../Page/マルコ・デルヴェッキオ.md "wikilink")、[ヴィンチェンツォ・モンテッラ](../Page/ヴィンチェンツォ・モンテッラ.md "wikilink")らを再び司令塔のポジションに戻ったトッティが操る攻撃陣、エメルソン、[カフー](../Page/カフー.md "wikilink")、[アウダイール](../Page/アウダイール.md "wikilink")、サムエルの守備陣を擁したチームは序盤戦から首位を走り続け、失速することなく18シーズンぶり3回目のスクデットを獲得し、昨季の雪辱を見事に晴らした。
 
-以降のシーズンも[アントニオ・カッサーノ](https://ja.wikipedia.org/wiki/アントニオ・カッサーノ "wikilink")らを補強して優勝争いに加わり、2001-02シーズンと2003-04シーズンには2位に食い込みUEFAチャンピオンズリーグ出場権を獲得した。
+以降のシーズンも[アントニオ・カッサーノ](../Page/アントニオ・カッサーノ.md "wikilink")らを補強して優勝争いに加わり、2001-02シーズンと2003-04シーズンには2位に食い込みUEFAチャンピオンズリーグ出場権を獲得した。
 
 ### クラブレコード更新
 
@@ -812,7 +812,7 @@
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>2-2</p></td>
 <td><p>1-1</p></td>
@@ -2053,7 +2053,7 @@
 | 1996–1997 | INA Assitalia                                                                                                  |                                                         |
 | 1998-2000 | [DIADORA](https://ja.wikipedia.org/wiki/ディアドラ "wikilink")                                                      |                                                         |
 | 2001–2002 | [Kappa](../Page/Kappa.md "wikilink")                                                                           |                                                         |
-| 2003      | [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")                                                          |                                                         |
+| 2003      | [MAZDA](../Page/マツダ.md "wikilink")                                                                             |                                                         |
 | 2004-2005 | DIADORA                                                                                                        |                                                         |
 | 2006–2007 | <small>*none*</small>                                                                                          |                                                         |
 | 2008–2013 | [Kappa](../Page/Kappa.md "wikilink")                                                                           | WIND                                                    |

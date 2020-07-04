@@ -48,7 +48,7 @@
       - 日本ライセンシーの（初代）ユニーにより6月に[岐阜県](../Page/岐阜県.md "wikilink")[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")に日本100号店となる蘇原店（既に閉店）が開店、7月には[横浜市](../Page/横浜市.md "wikilink")[港南区](https://ja.wikipedia.org/wiki/港南区 "wikilink")に関東地方出店1号店である清水橋店（既に閉店）を開店し[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")へ出店開始した。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）1月 - 当時日本ライセンシーだった（初代）ユニー株式会社の完全子会社として（初代）[サークルケイ・ジャパン株式会社が設立され](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")、ライセンス契約と当時運営していた135店舗を継承。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年） - サークルKコンビニエンスストアーズ有限公司（日本ライセンシーの（初代）サークルケイ・ジャパンが一部出資）により香港1号店が開店。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）
       - 1月 - 横浜市緑区[鴨居に](https://ja.wikipedia.org/wiki/鴨居_\(横浜市\) "wikilink")、サークルK日本国内消滅まで使われたイメージカラー3色の新デザインの採用1号店であるサークルK鴨居店開店（従来店は赤レンガ屋根を前面にデザイン）。
       - 4月 - （初代）サークルケイ・ジャパンが[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")に北陸地方1号店である泉ヶ丘店（現存せず）を開店し、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")への出店開始。
       - 11月 - [サークルケイ・ノースジャパン](../Page/サークルケイ・ノースジャパン.md "wikilink")が[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")に東北地区エリアフランチャイズ1号店である青森中央店を出店し、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")への出店開始。

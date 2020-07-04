@@ -20,7 +20,7 @@
 
   - （ディー） ([IPA](../Page/国際音声記号.md "wikilink"): ) **
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ドー
+  - [エス](../Page/エスペラント.md "wikilink")：ドー
 
   - [越](../Page/ベトナム語.md "wikilink")：ゼー
 
@@ -112,7 +112,7 @@
 ### 商品名・作品名・固有名等
 
   - コンピュータ
-      - [D (データベース言語仕様)](https://ja.wikipedia.org/wiki/D_\(データベース言語仕様\) "wikilink")（[Tutorial D](https://ja.wikipedia.org/wiki/Tutorial_D "wikilink") などの[データベース言語](../Page/データベース言語.md "wikilink")の基となっている仕様）
+      - [D (データベース言語仕様)](../Page/D_\(データベース言語仕様\).md "wikilink")（[Tutorial D](https://ja.wikipedia.org/wiki/Tutorial_D "wikilink") などの[データベース言語](../Page/データベース言語.md "wikilink")の基となっている仕様）
       - [D言語](../Page/D言語.md "wikilink")（[プログラミング言語](../Page/プログラミング言語.md "wikilink")の一つ）。
       - [D〜欧州蜃気楼〜](../Page/D〜欧州蜃気楼〜.md "wikilink")（[ウルフチーム](../Page/ウルフチーム.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売した[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")を舞台としたパソコン用[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")）。
   - 電気・機械

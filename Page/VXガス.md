@@ -18,7 +18,7 @@
   - [1952年](../Page/1952年.md "wikilink")：[ラナジット・ゴーシュ](https://ja.wikipedia.org/wiki/ラナジット・ゴーシュ "wikilink") (Ranajit Ghosh) によってイギリスの[ポートンダウン](https://ja.wikipedia.org/wiki/ポートンダウン "wikilink")（Porton Down）にある政府研究施設で発明。
   - [1956年](../Page/1956年.md "wikilink")：イギリスは[化学](../Page/化学兵器.md "wikilink")・[生物兵器](../Page/生物兵器.md "wikilink")を廃棄したため、VXガスもこの時に廃棄された。
   - [1958年](../Page/1958年.md "wikilink")：イギリス政府は、核兵器に関する情報と引きかえに、アメリカへVXの研究資料を渡した。
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") -：アメリカ軍は、[ロッキーマウンテン兵器工場](https://ja.wikipedia.org/wiki/ロッキーマウンテン兵器工場 "wikilink")でVXガスの大量生産に入った。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") -：アメリカ軍は、[ロッキーマウンテン兵器工場](../Page/ロッキーマウンテン兵器工場.md "wikilink")でVXガスの大量生産に入った。
   - [1960年代](../Page/1960年代.md "wikilink")初期：VXガスを散布する[M23化学兵器地雷](https://ja.wikipedia.org/wiki/M23化学兵器地雷 "wikilink")、約100,000個が製造される。
   - [1967年](../Page/1967年.md "wikilink")：アメリカでも化学兵器の廃棄が行われ、7,380発のVX[弾頭](../Page/弾頭.md "wikilink")が[貨物船](../Page/貨物船.md "wikilink")に積まれたまま[ニュージャージー](https://ja.wikipedia.org/wiki/ニュージャージー "wikilink")沖に沈められた。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")、[アメリカ合衆国による沖縄統治](../Page/アメリカ合衆国による沖縄統治.md "wikilink")下にあった（[琉球政府](../Page/琉球政府.md "wikilink")）美里村の知花弾薬庫（現・[沖縄県](../Page/沖縄県.md "wikilink")[沖縄市](../Page/沖縄市.md "wikilink")の嘉手納弾薬庫地区）内の「[レッド・ハット・エリア](https://ja.wikipedia.org/wiki/レッドハット作戦 "wikilink")」でVXガス放出事故が起き、アメリカ軍人ら24人が病院に収容された。

@@ -16,7 +16,7 @@
 
   - [Ao (複合商業ビル)](https://ja.wikipedia.org/wiki/Ao_\(複合商業ビル\) "wikilink") - 東京青山にある複合商業ビル。
 
-  - [ESRBレイティング別対象ソフト一覧・AO (18歳未満提供禁止)](https://ja.wikipedia.org/wiki/ESRBレイティング別対象ソフト一覧・AO_\(18歳未満提供禁止\) "wikilink") () - 米国のゲームレーティング。
+  - [ESRBレイティング別対象ソフト一覧・AO (18歳未満提供禁止)](../Page/ESRBレイティング別対象ソフト一覧・AO_\(18歳未満提供禁止\).md "wikilink") () - 米国のゲームレーティング。
 
   - 企業・法人
 

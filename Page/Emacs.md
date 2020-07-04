@@ -244,7 +244,7 @@ EmacsのLispベースの設計の欠点は、Lispコードの読込み、[解釈
 
   - [GNU TeXmacs](https://ja.wikipedia.org/wiki/GNU_TeXmacs "wikilink")
 
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
   - [UNIXユーティリティの一覧](https://ja.wikipedia.org/wiki/UNIXユーティリティの一覧 "wikilink")
 

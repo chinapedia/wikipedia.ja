@@ -1,7 +1,7 @@
 > この記事は[マツダ・AZ-ワゴン](https://ja.wikipedia.org/wiki/マツダ・AZ-ワゴン)から翻訳されています。
 
 
-**AZ-ワゴン**（*AZ-WAGON*）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が販売していた[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。
+**AZ-ワゴン**（*AZ-WAGON*）は、[マツダ](../Page/マツダ.md "wikilink")が販売していた[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。
 
 ## 概要
 

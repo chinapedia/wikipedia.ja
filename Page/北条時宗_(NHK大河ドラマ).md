@@ -97,7 +97,7 @@
 
 <!-- end list -->
 
-  - [幸寿丸→北条貞時](../Page/北条貞時.md "wikilink")：[金子雄](https://ja.wikipedia.org/wiki/金子雄 "wikilink")→小池城太朗（二役）→[佐保祐樹](https://ja.wikipedia.org/wiki/佐保祐樹 "wikilink")
+  - [幸寿丸→北条貞時](../Page/北条貞時.md "wikilink")：[金子雄](../Page/金子雄.md "wikilink")→小池城太朗（二役）→[佐保祐樹](https://ja.wikipedia.org/wiki/佐保祐樹 "wikilink")
 
 <!-- end list -->
 
@@ -646,7 +646,7 @@
 
 <!-- end list -->
 
-  - [二階堂行綱](https://ja.wikipedia.org/wiki/二階堂行綱 "wikilink")：[青野武](../Page/青野武.md "wikilink")
+  - [二階堂行綱](../Page/二階堂行綱.md "wikilink")：[青野武](../Page/青野武.md "wikilink")
 
 <!-- end list -->
 

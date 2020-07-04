@@ -460,7 +460,7 @@
 東海林真一</p></td>
 <td><p>磨積良亜澄</p></td>
 <td><p>寺岡巌</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

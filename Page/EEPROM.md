@@ -75,7 +75,7 @@ EPROMは電気だけでは消去できず、フローティングゲートへの
   - [インフィニオン・テクノロジーズ](../Page/インフィニオン・テクノロジーズ.md "wikilink")
   - [三菱電機](../Page/三菱電機.md "wikilink")
   - [NXPセミコンダクターズ](https://ja.wikipedia.org/wiki/NXPセミコンダクターズ "wikilink")
-  - [オン・セミコンダクター](https://ja.wikipedia.org/wiki/オン・セミコンダクター "wikilink")
+  - [オン・セミコンダクター](../Page/オン・セミコンダクター.md "wikilink")
   - [ルネサス エレクトロニクス](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")
   - [ローム](../Page/ローム.md "wikilink")
   - [サムスン電子](../Page/サムスン電子.md "wikilink")

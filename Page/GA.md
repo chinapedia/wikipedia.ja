@@ -11,7 +11,7 @@
       - [ジベレリン酸](../Page/ジベレリン酸.md "wikilink") (gibberellic acid) - [植物ホルモン](../Page/植物ホルモン.md "wikilink")
       - [ジベレリン](../Page/ジベレリン.md "wikilink") (gibberellin) - 植物ホルモン。単にGAと呼ぶことは希だが、種類にGA1、GA2等がある。
       - [グラフィックアクセラレータ](../Page/グラフィックアクセラレータ.md "wikilink") (graphics accelerator)
-      - [グリコアルブミン](https://ja.wikipedia.org/wiki/グリコアルブミン "wikilink") (glycosylated albumin) - [血糖](https://ja.wikipedia.org/wiki/血糖 "wikilink")の状態を反映する糖化蛋白質
+      - [グリコアルブミン](../Page/グリコアルブミン.md "wikilink") (glycosylated albumin) - [血糖](https://ja.wikipedia.org/wiki/血糖 "wikilink")の状態を反映する糖化蛋白質
       - [ゴーアラウンド](../Page/着陸復行.md "wikilink") (go-around)
       - [共同海損](../Page/共同海損.md "wikilink") (general average)
       - [ギャンブラーズ・アノニマス](../Page/ギャンブラーズ・アノニマス.md "wikilink") (gamblers anonymous)。[ギャンブル依存症](https://ja.wikipedia.org/wiki/ギャンブル依存症 "wikilink")を抱える人たちの[ピアサポート](../Page/ピアサポート.md "wikilink")グループ。

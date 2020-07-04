@@ -5,7 +5,7 @@
 
 初期のコードベースはIBM [VisualAge](https://ja.wikipedia.org/wiki/VisualAge "wikilink")に由来している。Java開発ツールを含むEclipse[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")（SDK）は、Java開発者向けのものである。ユーザーは、他のプログラミング言語の開発ツールキットなど、Eclipseプラットフォーム用に書かれたプラグインをインストールすることで、その機能を拡張することができ、独自のプラグインモジュールを書いてコントリビュートすることができる。Eclipseのバージョン3で[OSGi](../Page/OSGi.md "wikilink")実装(Equinox)が導入されて以来、プラグインは動的に停止することができ、(OSGI)バンドルと呼ばれている。
 
-Eclipse [ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") （SDK）は[フリーでオープンソースのソフトウェアであり](https://ja.wikipedia.org/wiki/FLOSS "wikilink")、 [Eclipse Public Licenseの条件に基づいてリリースされているが](https://ja.wikipedia.org/wiki/Eclipse_Public_License "wikilink")、 [GNU General Public Licenseとは互換性がない](../Page/GNU_General_Public_License.md "wikilink")。 \[3\] これは、[GNU Classpathで実行される最初のIDEの](../Page/GNU_Classpath.md "wikilink")1つであり、[IcedTea](https://ja.wikipedia.org/wiki/IcedTea "wikilink")で問題なく実行される。
+Eclipse [ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") （SDK）は[フリーでオープンソースのソフトウェアであり](../Page/FLOSS.md "wikilink")、 [Eclipse Public Licenseの条件に基づいてリリースされているが](https://ja.wikipedia.org/wiki/Eclipse_Public_License "wikilink")、 [GNU General Public Licenseとは互換性がない](../Page/GNU_General_Public_License.md "wikilink")。 \[3\] これは、[GNU Classpathで実行される最初のIDEの](../Page/GNU_Classpath.md "wikilink")1つであり、[IcedTea](https://ja.wikipedia.org/wiki/IcedTea "wikilink")で問題なく実行される。
 
 ## 歴史
 

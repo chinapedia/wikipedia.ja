@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[ソニー](../Page/ソニー.md "wikilink")株式会社仙台テクノロジーセンターのサッカー同好会として発足。同年、宮城県実業団リーグに加盟し、長年宮城県リーグを主として活動。1997年度の[全国地域リーグ決勝大会で優勝し](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")、[ジャパンフットボールリーグ](../Page/ジャパンフットボールリーグ.md "wikilink")（旧JFL）昇格を果たした。
+[1968年](../Page/1968年.md "wikilink")に[ソニー](../Page/ソニー.md "wikilink")株式会社仙台テクノロジーセンターのサッカー同好会として発足。同年、宮城県実業団リーグに加盟し、長年宮城県リーグを主として活動。1997年度の[全国地域リーグ決勝大会で優勝し](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")、[ジャパンフットボールリーグ](../Page/ジャパンフットボールリーグ.md "wikilink")（旧JFL）昇格を果たした。
 
 チーム所在地は、[仙台市都心部](../Page/仙台市都心部.md "wikilink")から見て北東郊外の[多賀城市](../Page/多賀城市.md "wikilink")。ホームスタジアムは[ユアテックスタジアム仙台](../Page/仙台スタジアム.md "wikilink")（[仙台市](../Page/仙台市.md "wikilink")[泉区](../Page/泉区_\(仙台市\).md "wikilink")）であり、[宮城県サッカー場](../Page/宮城県サッカー場.md "wikilink")（[利府町](../Page/利府町.md "wikilink")）、[七ヶ浜サッカースタジアム](../Page/七ヶ浜サッカースタジアム.md "wikilink")（[七ヶ浜町](../Page/七ヶ浜町.md "wikilink")）でもホームゲームが開催される。すなわち、旧[宮城郡](../Page/宮城郡.md "wikilink")地域（[仙塩](https://ja.wikipedia.org/wiki/仙塩 "wikilink")地区）を主な活動地域とするチームである。
 
@@ -23,7 +23,7 @@
 
 ### 2008年
 
-OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")から[大久保剛志](../Page/大久保剛志.md "wikilink")を[期限付き移籍](../Page/期限付き移籍.md "wikilink")で獲得したほか、上記の麻生、今田の他に[大瀧義史](https://ja.wikipedia.org/wiki/大瀧義史 "wikilink")など大卒の選手を獲得し、また[栃木SC](../Page/栃木SC.md "wikilink")から[谷池洋平](../Page/谷池洋平.md "wikilink")、[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")から[天羽良輔](../Page/天羽良輔.md "wikilink")とJリーグでも実績のある選手を獲得し上位進出を目指したが万年中位という位置からの脱却ができず9位に終わった。
+OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")から[大久保剛志](../Page/大久保剛志.md "wikilink")を[期限付き移籍](../Page/期限付き移籍.md "wikilink")で獲得したほか、上記の麻生、今田の他に[大瀧義史](../Page/大瀧義史.md "wikilink")など大卒の選手を獲得し、また[栃木SC](../Page/栃木SC.md "wikilink")から[谷池洋平](../Page/谷池洋平.md "wikilink")、[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")から[天羽良輔](../Page/天羽良輔.md "wikilink")とJリーグでも実績のある選手を獲得し上位進出を目指したが万年中位という位置からの脱却ができず9位に終わった。
 
 ### 2009年
 
@@ -39,7 +39,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 
 ### 2012年
 
-コーチだった[石川雅人](https://ja.wikipedia.org/wiki/石川雅人 "wikilink")が監督に昇格。現役を引退しばかりの本多がコーチ就任した。またベガルタ仙台から大久保が2年ぶりに復帰したのをはじめ、[ジェフリザーブズ](https://ja.wikipedia.org/wiki/ジェフリザーブズ "wikilink")から[瀧本雄太](https://ja.wikipedia.org/wiki/瀧本雄太 "wikilink")、[アルテ高崎](../Page/アルテ高崎.md "wikilink")から[山藤健太](https://ja.wikipedia.org/wiki/山藤健太 "wikilink")と[布施有太](https://ja.wikipedia.org/wiki/布施有太 "wikilink")を獲得したが、新卒で加入した選手がJFL加盟後初めて1人もいなかった。開幕2連敗したもののその後はリーグ2位タイの失点数もあり、守り勝ちする試合で勝ち点を積み重ねた。しかしリーグワーストの27得点を示すように年間通じて決定力不足に悩まされ、特にリーグ後半は決定力不足が顕著になり、8月以降複数得点する試合が1試合もなく、最後は10試合連続未勝利・4試合連続完封負けでリーグ戦を終えた。シーズン終了後に[橋本尚樹](../Page/橋本尚樹.md "wikilink")、[斎藤雅也](../Page/斎藤雅也.md "wikilink")、[門馬匡史](../Page/門馬匡史.md "wikilink")、[山内達夫](https://ja.wikipedia.org/wiki/山内達夫 "wikilink")の4選手が社業専念で現役引退となった（山内は後に[サウルコス福井](../Page/サウルコス福井.md "wikilink")へ移籍した）。
+コーチだった[石川雅人](https://ja.wikipedia.org/wiki/石川雅人 "wikilink")が監督に昇格。現役を引退しばかりの本多がコーチ就任した。またベガルタ仙台から大久保が2年ぶりに復帰したのをはじめ、[ジェフリザーブズ](https://ja.wikipedia.org/wiki/ジェフリザーブズ "wikilink")から[瀧本雄太](https://ja.wikipedia.org/wiki/瀧本雄太 "wikilink")、[アルテ高崎](../Page/アルテ高崎.md "wikilink")から[山藤健太](https://ja.wikipedia.org/wiki/山藤健太 "wikilink")と[布施有太](https://ja.wikipedia.org/wiki/布施有太 "wikilink")を獲得したが、新卒で加入した選手がJFL加盟後初めて1人もいなかった。開幕2連敗したもののその後はリーグ2位タイの失点数もあり、守り勝ちする試合で勝ち点を積み重ねた。しかしリーグワーストの27得点を示すように年間通じて決定力不足に悩まされ、特にリーグ後半は決定力不足が顕著になり、8月以降複数得点する試合が1試合もなく、最後は10試合連続未勝利・4試合連続完封負けでリーグ戦を終えた。シーズン終了後に[橋本尚樹](../Page/橋本尚樹.md "wikilink")、[斎藤雅也](../Page/斎藤雅也.md "wikilink")、[門馬匡史](../Page/門馬匡史.md "wikilink")、[山内達夫](../Page/山内達夫.md "wikilink")の4選手が社業専念で現役引退となった（山内は後に[サウルコス福井](../Page/サウルコス福井.md "wikilink")へ移籍した）。
 
 ### 2013年
 
@@ -47,7 +47,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 
 ### 2014年
 
-[川口大紀](https://ja.wikipedia.org/wiki/川口大紀 "wikilink")、[吉田吏玖](https://ja.wikipedia.org/wiki/吉田吏玖 "wikilink")、[細見諒](https://ja.wikipedia.org/wiki/細見諒 "wikilink")、[田中豪紀](https://ja.wikipedia.org/wiki/田中豪紀 "wikilink")、[内野裕太](https://ja.wikipedia.org/wiki/内野裕太 "wikilink")の大卒選手5人が加入した。1stステージは4位、2ndステージは5位で年間順位も5位で終わったものの[天皇杯](https://ja.wikipedia.org/wiki/第95回天皇杯全日本サッカー選手権大会 "wikilink")2回戦では[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")に2-2でPK戦の末勝利し、前年の雪辱を果たした。そして内野が新人ながら12得点で得点ランキング3位に食い込み新人王を獲得。シーズン終了後、2003年から12年間在籍した[桐田英樹](../Page/桐田英樹.md "wikilink")を初めとして、[元木数馬](https://ja.wikipedia.org/wiki/元木数馬 "wikilink")、宮尾勇輝、[李澤忍治](https://ja.wikipedia.org/wiki/李澤忍治 "wikilink")、布施有太の5人がチームを離れた。
+[川口大紀](https://ja.wikipedia.org/wiki/川口大紀 "wikilink")、[吉田吏玖](https://ja.wikipedia.org/wiki/吉田吏玖 "wikilink")、[細見諒](https://ja.wikipedia.org/wiki/細見諒 "wikilink")、[田中豪紀](https://ja.wikipedia.org/wiki/田中豪紀 "wikilink")、[内野裕太](https://ja.wikipedia.org/wiki/内野裕太 "wikilink")の大卒選手5人が加入した。1stステージは4位、2ndステージは5位で年間順位も5位で終わったものの[天皇杯](https://ja.wikipedia.org/wiki/第95回天皇杯全日本サッカー選手権大会 "wikilink")2回戦では[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")に2-2でPK戦の末勝利し、前年の雪辱を果たした。そして内野が新人ながら12得点で得点ランキング3位に食い込み新人王を獲得。シーズン終了後、2003年から12年間在籍した[桐田英樹](../Page/桐田英樹.md "wikilink")を初めとして、[元木数馬](../Page/元木数馬.md "wikilink")、宮尾勇輝、[李澤忍治](https://ja.wikipedia.org/wiki/李澤忍治 "wikilink")、布施有太の5人がチームを離れた。
 
 ### 2015年
 
@@ -72,7 +72,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 ## 逸話
 
   - 現在ジュビロ磐田に在籍している日本代表DF[今野泰幸](../Page/今野泰幸.md "wikilink")は、2000年に本人の地元でもあるソニー仙台FCへの入部が内定していたが、ソニー仙台と[コンサドーレ札幌が練習試合を行った際](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")、ソニー仙台の練習生として参加していた今野のプレーに札幌の監督だった[岡田武史](../Page/岡田武史.md "wikilink")が目を付け、急転札幌の練習に参加してプロ入りに至った。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[天皇杯の](https://ja.wikipedia.org/wiki/第90回天皇杯全日本サッカー選手権大会 "wikilink")2回戦にてベガルタ仙台との12年ぶり3回目の「[仙台ダービー](../Page/仙台ダービー.md "wikilink")」が実現、延長の末ダービー戦初勝利を上げ、3回戦へ進出した。この年の天皇杯は1回戦の2日後に2回戦が行われるという過密日程であった。その上、1回戦に勝ったチームの相手は全て大会シードのJリーグチームであるという、アマチュアチームにとって大きなコンディション差を強いられたトーナメント設定であった。更に1回戦の[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")戦では延長を含む120分間の試合を行っており、不利な状況であったにも関わらず、選手は相手に引けを取らない動きを見せ、延長後半、途中出場の[桐田英樹](../Page/桐田英樹.md "wikilink")が[大瀧義史](https://ja.wikipedia.org/wiki/大瀧義史 "wikilink")からの浮いたパスを頭で合わせて、決勝点を挙げた。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[天皇杯の](https://ja.wikipedia.org/wiki/第90回天皇杯全日本サッカー選手権大会 "wikilink")2回戦にてベガルタ仙台との12年ぶり3回目の「[仙台ダービー](../Page/仙台ダービー.md "wikilink")」が実現、延長の末ダービー戦初勝利を上げ、3回戦へ進出した。この年の天皇杯は1回戦の2日後に2回戦が行われるという過密日程であった。その上、1回戦に勝ったチームの相手は全て大会シードのJリーグチームであるという、アマチュアチームにとって大きなコンディション差を強いられたトーナメント設定であった。更に1回戦の[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")戦では延長を含む120分間の試合を行っており、不利な状況であったにも関わらず、選手は相手に引けを取らない動きを見せ、延長後半、途中出場の[桐田英樹](../Page/桐田英樹.md "wikilink")が[大瀧義史](../Page/大瀧義史.md "wikilink")からの浮いたパスを頭で合わせて、決勝点を挙げた。
 
 ## 成績
 
@@ -529,7 +529,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 ### 個人
 
   - **JFL MVP**
-      - 2015年 - [瀬田貴仁](https://ja.wikipedia.org/wiki/瀬田貴仁 "wikilink")
+      - 2015年 - [瀬田貴仁](../Page/瀬田貴仁.md "wikilink")
   - **JFLベストイレブン**
       - 2000年 - 田端秀規
       - 2002年 - [高田昌明](../Page/高田昌明.md "wikilink")

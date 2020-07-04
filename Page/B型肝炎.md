@@ -1,13 +1,13 @@
 > この記事は[B型肝炎](https://ja.wikipedia.org/wiki/B型肝炎)から翻訳されています。
 
 
-**B型肝炎**（Bがたかんえん、）とは、[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink") (HBV) に感染することで発症する[ウイルス性肝炎](../Page/ウイルス性肝炎.md "wikilink")の一つ。
+**B型肝炎**（Bがたかんえん、）とは、[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink") (HBV) に感染することで発症する[ウイルス性肝炎](../Page/ウイルス性肝炎.md "wikilink")の一つ。
 
 [血液](../Page/血液.md "wikilink")を介して感染するため、従来の検査体制が確立されない時期に[輸血](../Page/輸血.md "wikilink")を介して、または1986年に母子間ブロックが実施されるようになる前には[母子感染](https://ja.wikipedia.org/wiki/母子感染 "wikilink")で感染した。感染の予防策としては、注射器を共用しない、性行為時に[コンドーム](../Page/コンドーム.md "wikilink")の着用といったことがある。
 
 主な治療法は、[インターフェロン](../Page/インターフェロン.md "wikilink")や核酸アナログ製剤を用いた[抗ウイルス療法](https://ja.wikipedia.org/wiki/抗ウイルス療法 "wikilink")などがある。
 
-日本において[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")保有者（キャリア）は、150万人程度といわれている。その内の約95％は自然治癒するが、約5％は肝炎発症となり、[慢性肝炎](https://ja.wikipedia.org/wiki/慢性肝炎 "wikilink")、[肝硬変](../Page/肝硬変.md "wikilink")、[肝臓ガン](https://ja.wikipedia.org/wiki/肝臓ガン "wikilink")へと進行することがある。
+日本において[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")保有者（キャリア）は、150万人程度といわれている。その内の約95％は自然治癒するが、約5％は肝炎発症となり、[慢性肝炎](https://ja.wikipedia.org/wiki/慢性肝炎 "wikilink")、[肝硬変](../Page/肝硬変.md "wikilink")、[肝臓ガン](https://ja.wikipedia.org/wiki/肝臓ガン "wikilink")へと進行することがある。
 
 ## 疫学
 
@@ -17,7 +17,7 @@
 
 ## 感染
 
-[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")は、[血液](../Page/血液.md "wikilink")や体液の飛沫を介して感染する。感染経路は主に以下がある。成人以降での水平感染の多くは、一過性であることが多い。
+[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")は、[血液](../Page/血液.md "wikilink")や体液の飛沫を介して感染する。感染経路は主に以下がある。成人以降での水平感染の多くは、一過性であることが多い。
 
   - 垂直感染：[母子感染](https://ja.wikipedia.org/wiki/母子感染 "wikilink")
   - 水平感染：[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")・[性感染症](../Page/性感染症.md "wikilink")・[輸血](../Page/輸血.md "wikilink")・[臓器移植](../Page/移植_\(医療\).md "wikilink")・[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")・針刺し事故・コンタクトスポーツ等
@@ -36,18 +36,18 @@
 
 ### 初期感染
 
-[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")に感染した場合、多くは無症状で経過するが、20～30%が[急性肝炎](https://ja.wikipedia.org/wiki/急性肝炎 "wikilink")を発症し、1～2%が[劇症肝炎](https://ja.wikipedia.org/wiki/劇症肝炎 "wikilink")化する。[D型肝炎](https://ja.wikipedia.org/wiki/D型肝炎 "wikilink")の混合感染が生じる場合もある。成人の初感染の多くは、免疫応答でウイルスを排除しての一過性感染であるが、近年成人感染のキャリア化が報告されている。
+[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")に感染した場合、多くは無症状で経過するが、20～30%が[急性肝炎](https://ja.wikipedia.org/wiki/急性肝炎 "wikilink")を発症し、1～2%が[劇症肝炎](https://ja.wikipedia.org/wiki/劇症肝炎 "wikilink")化する。[D型肝炎](https://ja.wikipedia.org/wiki/D型肝炎 "wikilink")の混合感染が生じる場合もある。成人の初感染の多くは、免疫応答でウイルスを排除しての一過性感染であるが、近年成人感染のキャリア化が報告されている。
 
 ### 持続感染
 
-[母子感染](https://ja.wikipedia.org/wiki/母子感染 "wikilink")の90%以上は、[C型肝炎](../Page/C型肝炎.md "wikilink")と同様、[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")に持続的感染を呈する場合が多い。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から母子間ブロックが行われるようになってからは感染はほとんど防げている。
+[母子感染](https://ja.wikipedia.org/wiki/母子感染 "wikilink")の90%以上は、[C型肝炎](../Page/C型肝炎.md "wikilink")と同様、[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")に持続的感染を呈する場合が多い。[1986年](../Page/1986年.md "wikilink")から母子間ブロックが行われるようになってからは感染はほとんど防げている。
 
   - HBe抗原陽性無症候性キャリア
-    血液検査にて、HBe抗原陽性を示し、[ALT高値を示さない状態](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")。[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")が増殖しているが、肝障害は呈していない状態のこと。多くの場合、自然経過でHBe抗原陰性・HBe抗体陽性を生じ、HBe抗体陽性無症候性キャリアへ移行する（HBeセロコンバージョン：HBe seroconversionという）が、一部は慢性肝炎へと移行する。
+    血液検査にて、HBe抗原陽性を示し、[ALT高値を示さない状態](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")。[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")が増殖しているが、肝障害は呈していない状態のこと。多くの場合、自然経過でHBe抗原陰性・HBe抗体陽性を生じ、HBe抗体陽性無症候性キャリアへ移行する（HBeセロコンバージョン：HBe seroconversionという）が、一部は慢性肝炎へと移行する。
   - HBe抗体陽性無症候性キャリア
-    血液検査にて、HBe抗体陽性を示し、[ALT高値を示さない状態](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")。[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")が完全には排除しきれていないが、ウイルスの増殖は抑えられ、肝障害を呈さなくなった状態のこと。多くの場合は自然経過を経る。ほとんどは、再活性化や肝硬変へは移行しない。一部のみがウイルスの再増殖による再活性化する。また肝逸脱酵素の上昇を伴わずとも肝硬変に進展していることもまれにある。
+    血液検査にて、HBe抗体陽性を示し、[ALT高値を示さない状態](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")。[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")が完全には排除しきれていないが、ウイルスの増殖は抑えられ、肝障害を呈さなくなった状態のこと。多くの場合は自然経過を経る。ほとんどは、再活性化や肝硬変へは移行しない。一部のみがウイルスの再増殖による再活性化する。また肝逸脱酵素の上昇を伴わずとも肝硬変に進展していることもまれにある。
   - 慢性B型肝炎
-    [B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")が増殖し、血液検査において[ALT高値持続認め](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")、肝障害を呈している状態。[肝硬変](../Page/肝硬変.md "wikilink")への移行・[肝細胞癌](../Page/肝細胞癌.md "wikilink")の発症を生じてくる。
+    [B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")が増殖し、血液検査において[ALT高値持続認め](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")、肝障害を呈している状態。[肝硬変](../Page/肝硬変.md "wikilink")への移行・[肝細胞癌](../Page/肝細胞癌.md "wikilink")の発症を生じてくる。
     稀に、HBs抗原陰性・HBs抗体陽性となる場合もあり（HBsセロコンバージョン：HBs seroconversionという）、予後良好である。
   - de novo 急性B型肝炎
     近年、さまざまな[免疫抑制剤](../Page/免疫抑制剤.md "wikilink")・[抗がん剤](../Page/抗がん剤.md "wikilink")・[分子標的治療薬](https://ja.wikipedia.org/wiki/分子標的治療薬 "wikilink")が開発され、それらの使用により沈静化していたB型肝炎か再燃するもの。[劇症肝炎](https://ja.wikipedia.org/wiki/劇症肝炎 "wikilink")への移行率が高く、注意を要する。2001年[リツキシマブ](../Page/リツキシマブ.md "wikilink")と[ステロイド](../Page/ステロイド.md "wikilink")の併用により加療していた[悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")患者が、B型肝炎を発症したことが報告されてからクローズアップされている。
@@ -146,7 +146,7 @@ B型肝硬変</p></td>
   - 肝障害
       - [ALT](https://ja.wikipedia.org/wiki/アラニントランスアミナーゼ "wikilink")・[AST](../Page/アスパラギン酸アミノ基転移酵素.md "wikilink")
   - 肝線維化
-      - IV型[コラーゲン](../Page/コラーゲン.md "wikilink")・[ヒアルロン酸](https://ja.wikipedia.org/wiki/ヒアルロン酸 "wikilink")など
+      - IV型[コラーゲン](../Page/コラーゲン.md "wikilink")・[ヒアルロン酸](../Page/ヒアルロン酸.md "wikilink")など
   - 肝機能
       - [血小板](../Page/血小板.md "wikilink")（Plt）、[プロトロンビン時間](../Page/プロトロンビン時間.md "wikilink")（PT）、[アルブミン](../Page/アルブミン.md "wikilink") (Alb)、[コリンエステラーゼ](../Page/コリンエステラーゼ.md "wikilink") (ChE) など
   - 肝細胞癌の[腫瘍マーカー](https://ja.wikipedia.org/wiki/腫瘍マーカー "wikilink")
@@ -205,7 +205,7 @@ B型肝炎ウイルスに対しては、高HBIG（高力価HBs抗原ヒト免疫
 
 ### 抗ウイルス療法
 
-B型肝炎における[抗ウイルス治療](https://ja.wikipedia.org/wiki/抗ウイルス治療 "wikilink")は、[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")の活動を抑制する治療である。[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")は自然経過において、ウイルスに対する抗体（HBs抗体ないしHBe抗体）が取得されることで、ウイルスの活性化が沈静化していくが、これを「セロコンバージョン（seroconversion）」と呼ぶ。[抗ウイルス治療](https://ja.wikipedia.org/wiki/抗ウイルス治療 "wikilink")はこの状態を促していくことと、この状態に近いウイルスの活動性の鎮静が目標である。よって、現在の医療では「B型肝炎ウイルスの完全排除」は困難である。
+B型肝炎における[抗ウイルス治療](https://ja.wikipedia.org/wiki/抗ウイルス治療 "wikilink")は、[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")の活動を抑制する治療である。[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")は自然経過において、ウイルスに対する抗体（HBs抗体ないしHBe抗体）が取得されることで、ウイルスの活性化が沈静化していくが、これを「セロコンバージョン（seroconversion）」と呼ぶ。[抗ウイルス治療](https://ja.wikipedia.org/wiki/抗ウイルス治療 "wikilink")はこの状態を促していくことと、この状態に近いウイルスの活動性の鎮静が目標である。よって、現在の医療では「B型肝炎ウイルスの完全排除」は困難である。
 
 治療適応は「HBe抗原陽性無症候性キャリア」・「慢性B型肝炎」・「B型[肝硬変](../Page/肝硬変.md "wikilink")」である。日本肝臓学会編「慢性肝炎・肝硬変診療ガイド2016」によると\[14\]抗ウイルス療法の治療対象は慢性肝炎症例ではHBe抗原陽性、陰性に関わらずALTが31IU/l以上、HBV-DNA量が4 log copy/ml(2000IU/ml)以上である。肝硬変症例ではHBV-DNA量が陽性ならばHBe抗原やHBs抗原、ALT値、HBV-DNA量に関わらず治療対象である。
 

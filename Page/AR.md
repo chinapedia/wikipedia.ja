@@ -20,7 +20,7 @@
 ### 普通名詞・術語
 
   - [アージェント](../Page/アージェント_\(紋章学\).md "wikilink") () - 紋章学での「銀色」。
-  - [銀](https://ja.wikipedia.org/wiki/銀 "wikilink") () の貨幣学での略記。
+  - [銀](../Page/銀.md "wikilink") () の貨幣学での略記。
   - [空気銃](../Page/空気銃.md "wikilink") ()
   - [拡張現実](../Page/拡張現実.md "wikilink")・強化現実 ()
   - [大動脈弁閉鎖不全症](https://ja.wikipedia.org/wiki/大動脈弁閉鎖不全症 "wikilink") ()

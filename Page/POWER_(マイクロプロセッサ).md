@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Power5.jpg "wikilink")  \[1\]（パワー）は、 をベースとした、[IBM](../Page/IBM.md "wikilink")の[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink") ([CPU](../Page/CPU.md "wikilink")) のシリーズである。
 
-当初は[32ビット](../Page/32ビット.md "wikilink")であったが、 以降は[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")化された。また派生製品に  がある。2019年3月時点の最新版は[POWER9](https://ja.wikipedia.org/wiki/POWER9 "wikilink")である。
+当初は[32ビット](../Page/32ビット.md "wikilink")であったが、 以降は[64ビット](../Page/64ビット.md "wikilink")化された。また派生製品に  がある。2019年3月時点の最新版は[POWER9](https://ja.wikipedia.org/wiki/POWER9 "wikilink")である。
 
 特徴として、比較的低い[クロック](../Page/クロック.md "wikilink")で性能を発揮できるため、同じ性能ならば消費電力や発熱量を抑えられ、また動作周波数を引き上げる事により更なる性能向上が容易である。このためIBMなどの[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")、 [ワークステーション](../Page/ワークステーション.md "wikilink")、[オフィスコンピュータ](../Page/オフィスコンピュータ.md "wikilink")などで使用されている。
 

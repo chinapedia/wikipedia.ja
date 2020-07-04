@@ -14,6 +14,6 @@
   - [社団法人](../Page/社団法人.md "wikilink")[日本アド・コンテンツ制作社連盟](https://ja.wikipedia.org/wiki/日本アド・コンテンツ制作社連盟 "wikilink")の略
   - [パチスロ](../Page/パチスロ.md "wikilink")の[ボーナスゲーム](../Page/ボーナスゲーム.md "wikilink")における「**JAC**ゲーム（ジャックゲーム）」のこと。
   - JAC851-過去に[fm osakaで放送されていたラジオ番組](../Page/エフエム大阪.md "wikilink")。DJは月・火曜日は[谷口キヨコ](https://ja.wikipedia.org/wiki/谷口キヨコ "wikilink")、水・木曜日は樹原マユミ。
-  - [日本山岳会](https://ja.wikipedia.org/wiki/日本山岳会 "wikilink") (The **J**apanese **A**lpine **C**lub)
+  - [日本山岳会](../Page/日本山岳会.md "wikilink") (The **J**apanese **A**lpine **C**lub)
   - [日本革命的共産主義者同盟革命的マルクス主義派](../Page/日本革命的共産主義者同盟革命的マルクス主義派.md "wikilink")（革マル派）の特殊工作部隊
   - [中華人民共和国](../Page/中華人民共和国.md "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[江淮汽車](https://ja.wikipedia.org/wiki/江淮汽車 "wikilink") (**J**ianghuai **A**utomobile **C**o., Ltd.) の略称。

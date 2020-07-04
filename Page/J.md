@@ -33,7 +33,7 @@
 
   - （ジョッタ）
 
-  - [エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ヨー
+  - [エスペラント](../Page/エスペラント.md "wikilink")：ヨー
 
   - [インドネシア語](../Page/インドネシア語.md "wikilink")：ジェー
 

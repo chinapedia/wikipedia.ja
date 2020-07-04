@@ -34,7 +34,7 @@ __NOTOC__ **FF**, **ff**
 
 ## 固有名詞
 
-  - [FF (航空機)](https://ja.wikipedia.org/wiki/FF_\(航空機\) "wikilink") - グラマン社が開発した複葉複座戦闘機。
+  - [FF (航空機)](../Page/FF_\(航空機\).md "wikilink") - グラマン社が開発した複葉複座戦闘機。
   - [F\&Fビル](https://ja.wikipedia.org/wiki/F&Fビル "wikilink") - 「FF(エフエフ)ビル」とも呼ばれる。
   - [エフ・エフ](https://ja.wikipedia.org/wiki/エフ・エフ "wikilink") - 日本の[テレビ番組](../Page/テレビ番組.md "wikilink")[制作プロダクション](../Page/制作プロダクション.md "wikilink")。
   - [フェラーリ・FF](https://ja.wikipedia.org/wiki/フェラーリ・FF "wikilink") - [フェラーリ](../Page/フェラーリ.md "wikilink")の車種名で、Ferrari Fourの略称でもある。

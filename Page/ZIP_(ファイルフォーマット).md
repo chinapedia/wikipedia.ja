@@ -19,7 +19,7 @@ ZIPファイルフォーマット仕様は、PKZIP0.9のパッケージに同梱
 
 ZIPフォーマットは[オープンフォーマット](../Page/オープンフォーマット.md "wikilink")として[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")でリリースされたものであり、ZIPフォーマットは誰しもが自由に利用でき、個人、団体、組織、あらゆる形態の利用において法的にもモラル的にも全くは制約はない\[3\]。
 
-PKWAREもまた基本フォーマットをパブリックドメインとしており、誰でもZIPファイルを扱うアプリケーションを開発することができる。同じ見解が[FLOSS](https://ja.wikipedia.org/wiki/FLOSS "wikilink") [Info-ZIP](https://ja.wikipedia.org/wiki/Info-ZIP "wikilink")バージョンのプロダクトに付属するUNIX/LINUXドキュメント内でも見られる。そのドキュメントではzipファイルフォーマット、圧縮フォーマット、.ZIPの拡張子やファイルフォーマットへの小さな変更をパブリックドメインに置いたフィル・カッツへの感謝の念を示している。
+PKWAREもまた基本フォーマットをパブリックドメインとしており、誰でもZIPファイルを扱うアプリケーションを開発することができる。同じ見解が[FLOSS](../Page/FLOSS.md "wikilink") [Info-ZIP](https://ja.wikipedia.org/wiki/Info-ZIP "wikilink")バージョンのプロダクトに付属するUNIX/LINUXドキュメント内でも見られる。そのドキュメントではzipファイルフォーマット、圧縮フォーマット、.ZIPの拡張子やファイルフォーマットへの小さな変更をパブリックドメインに置いたフィル・カッツへの感謝の念を示している。
 
 ## 起源
 
@@ -213,7 +213,7 @@ Windowsでは、Windows 98のためにリリースされたPlus\!パック以降
 
 ## 強力な暗号化についての議論
 
-2003年に [WinZip](../Page/WinZip.md "wikilink") 9.0パブリックベータをリリースしたとき、WinZipは独自の[AES-256暗号を導入した](../Page/Advanced_Encryption_Standard.md "wikilink")。それは違うファイルフォーマットを用いた新たな仕様としてドキュメントに記載された\[23\]。暗号の標準規格は [プロプライエタリ](../Page/プロプライエタリ・ソフトウェア.md "wikilink") では無いが、 PKWARE は2001年以降、PKZIP 5.0や6.0では使用されていた強力な暗号化仕様 (SES) を含めるようにAPPNOTE.TXTを更新しなかった。WinZipの[技術コンサルタント](https://ja.wikipedia.org/wiki/技術コンサルタント "wikilink") Kevin Kearneyや[スタッフイット](../Page/StuffIt.md "wikilink") プロダクトマネージャ Mathew CovingtonはSESを差し控えるようにPKWAREを非難。これに対し、PKZIPチーフ技術オフィサーのJim Petersonは承認に基づく暗号化規格はまだ完全ではないと主張。しかし、バージョン 4.5の頃（PKWARE の FTP サイトで確認できる）に公開された最新のAPPNOTE.TXTには、SESだけではなく、同時期に存在したPKZIPプロダクトで作成された.ZIPファイルが用いたDeflate64、DCL Implode、BZip2も除外された。
+2003年に [WinZip](../Page/WinZip.md "wikilink") 9.0パブリックベータをリリースしたとき、WinZipは独自の[AES-256暗号を導入した](../Page/Advanced_Encryption_Standard.md "wikilink")。それは違うファイルフォーマットを用いた新たな仕様としてドキュメントに記載された\[23\]。暗号の標準規格は [プロプライエタリ](../Page/プロプライエタリ・ソフトウェア.md "wikilink") では無いが、 PKWARE は2001年以降、PKZIP 5.0や6.0では使用されていた強力な暗号化仕様 (SES) を含めるようにAPPNOTE.TXTを更新しなかった。WinZipの[技術コンサルタント](../Page/技術コンサルタント.md "wikilink") Kevin Kearneyや[スタッフイット](../Page/StuffIt.md "wikilink") プロダクトマネージャ Mathew CovingtonはSESを差し控えるようにPKWAREを非難。これに対し、PKZIPチーフ技術オフィサーのJim Petersonは承認に基づく暗号化規格はまだ完全ではないと主張。しかし、バージョン 4.5の頃（PKWARE の FTP サイトで確認できる）に公開された最新のAPPNOTE.TXTには、SESだけではなく、同時期に存在したPKZIPプロダクトで作成された.ZIPファイルが用いたDeflate64、DCL Implode、BZip2も除外された。
 
 この欠点を克服するために[PentaZip](https://ja.wikipedia.org/wiki/PentaZip "wikilink")のような同時期に存在したプロダクトは違うファイルフォーマットにZIPアーカイブを暗号化する強力なZIP暗号化を実装した\[24\]。
 

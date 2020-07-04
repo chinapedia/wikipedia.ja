@@ -5,9 +5,9 @@
 
 ## 概要
 
-[全日空 (ANA)を舞台に](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")演じる若手の旅客機[パイロット](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")・新海元を中心に、恋愛と仕事に生きる人達を描く青春ドラマ。[ヒロイン](../Page/ヒロイン.md "wikilink")は[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")。共演に[堤真一](../Page/堤真一.md "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")、[竹中直人](../Page/竹中直人.md "wikilink")、[いかりや長介](../Page/いかりや長介.md "wikilink")など。
+[全日空 (ANA)を舞台に](../Page/全日本空輸.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")演じる若手の旅客機[パイロット](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")・新海元を中心に、恋愛と仕事に生きる人達を描く青春ドラマ。[ヒロイン](../Page/ヒロイン.md "wikilink")は[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")。共演に[堤真一](../Page/堤真一.md "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")、[竹中直人](../Page/竹中直人.md "wikilink")、[いかりや長介](../Page/いかりや長介.md "wikilink")など。
 
-第1話放送後から、撮影に全面協力していた[ANAの株価が上昇](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。ドラマ放送後、ANAはもとより、[JALなど含めた航空業界への就職希望者が急増する現象が起きた](../Page/日本航空.md "wikilink")。この航空業界への就職ブームについては、当時のTBS系の報道番組の中で取り上げられた。
+第1話放送後から、撮影に全面協力していた[ANAの株価が上昇](../Page/全日本空輸.md "wikilink")。ドラマ放送後、ANAはもとより、[JALなど含めた航空業界への就職希望者が急増する現象が起きた](../Page/日本航空.md "wikilink")。この航空業界への就職ブームについては、当時のTBS系の報道番組の中で取り上げられた。
 
 全話平均視聴率は30.6%、最高視聴率は最終回の37.6%、瞬間最高視聴率は41.6%を記録した（いずれも[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、関東地区）。
 
@@ -297,7 +297,7 @@
 
 ## その他
 
-  - ドラマ中で登場するANAマネージメントセンターの外観やロビーなどは一般のビジネスビルを使用した。[パイロットブリーフィングルームはスタジオ内のセットである](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。なお、キャビンアテンダントルームなどは実際の[ANAのオフィスで撮影されANA社員もエキストラとして撮影協力している](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。
+  - ドラマ中で登場するANAマネージメントセンターの外観やロビーなどは一般のビジネスビルを使用した。[パイロットブリーフィングルームはスタジオ内のセットである](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。なお、キャビンアテンダントルームなどは実際の[ANAのオフィスで撮影されANA社員もエキストラとして撮影協力している](../Page/全日本空輸.md "wikilink")。
   - 元（木村拓哉）が乗っている愛車の[トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ランドクルーザーBJ40のナンバーは](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#40系（1960年-1984年） "wikilink")「は16-10」で『パイロット』と読める。
   - 5話の収録で堤真一が同じ場面（「今日は**X線検査場**が混雑している」というセリフを言う場面）で言えなくなってしまうNGを5回も出し、[ハプニング大賞の伝説となった](../Page/オールスター赤面申告!ハプニング大賞.md "wikilink")。続く6回目でやっと成功したものの、今度は竹中がNGを出し(しかもアドリブの歌詞で)、堤と木村に責めを受けた(特に堤は「**やっと言えたのに\!**」と大激怒した)。
   - [成田空港](https://ja.wikipedia.org/wiki/成田空港 "wikilink")周辺にある機体撮影スポットとして航空機マニアに人気の「[三里塚さくらの丘](https://ja.wikipedia.org/wiki/三里塚さくらの丘 "wikilink")」の展望台が舞台として使用された。
@@ -311,7 +311,7 @@
 
 ## 関連項目
 
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")
   - [成田国際空港](../Page/成田国際空港.md "wikilink")
   - [東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")
   - [白い滑走路](https://ja.wikipedia.org/wiki/白い滑走路 "wikilink") - かつて同じくTBS系列で放映された航空ものの連続ドラマ（協力会社は[日本航空](../Page/日本航空.md "wikilink")）。

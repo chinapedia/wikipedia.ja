@@ -987,7 +987,7 @@
   - 美食結社WONDERKITCHEN
   - 俳句の歳時記〜五七五のきらめき〜
   - [TV Bible Series](https://ja.wikipedia.org/wiki/TV_Bible_Series "wikilink")
-  - [Tokyo Stylish Party](https://ja.wikipedia.org/wiki/Tokyo_Stylish_Party "wikilink")
+  - [Tokyo Stylish Party](../Page/Tokyo_Stylish_Party.md "wikilink")
   - [アスリートLiveTV](https://ja.wikipedia.org/wiki/アスリートLiveTV "wikilink")（旧題：SpoMaga）
   - [Theゲームナイト](https://ja.wikipedia.org/wiki/Theゲームナイト "wikilink")
   - ALOHA CHANNEL

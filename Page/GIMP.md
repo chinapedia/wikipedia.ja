@@ -112,7 +112,7 @@ GIMP をベースにしたいくつかの派生バージョンやカスタマイ
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
   - [Corel Paint Shop Pro](../Page/Corel_Paint_Shop_Pro.md "wikilink")
   - [Corel PHOTO-PAINT](../Page/Corel_PHOTO-PAINT.md "wikilink")
-  - [Tango Desktop Project](https://ja.wikipedia.org/wiki/Tango_Desktop_Project "wikilink") - GIMP のメニュー画面のアイコンは、このプロジェクトによるガイドラインに沿って開発されている。
+  - [Tango Desktop Project](../Page/Tango_Desktop_Project.md "wikilink") - GIMP のメニュー画面のアイコンは、このプロジェクトによるガイドラインに沿って開発されている。
 
 ## 外部リンク
 

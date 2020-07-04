@@ -57,7 +57,7 @@ NHKラジオ第1の17年ぶりの大改編により2008年3月をもって番組
 
 ## 過去のアシスタント
 
-  - [岩井理江](https://ja.wikipedia.org/wiki/岩井理江 "wikilink")
+  - [岩井理江](../Page/岩井理江.md "wikilink")
 
 ## 関連
 

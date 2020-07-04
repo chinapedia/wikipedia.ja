@@ -101,7 +101,7 @@ GPLを採用したことがLinuxを共有の物として開発することを推
 
 <!-- end list -->
 
-  - [Blackfin](https://ja.wikipedia.org/wiki/Blackfin "wikilink")
+  - [Blackfin](../Page/Blackfin.md "wikilink")
 
   - [CRIS](https://ja.wikipedia.org/wiki/CRIS "wikilink")
 

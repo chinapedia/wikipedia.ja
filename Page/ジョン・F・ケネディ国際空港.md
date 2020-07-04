@@ -352,7 +352,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
   - [DFS](https://ja.wikipedia.org/wiki/DFS "wikilink")
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
   - [ターミナル (映画)](../Page/ターミナル_\(映画\).md "wikilink")
-  - [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink") - エピソード1で登場した。
+  - [リトル・チャロ](../Page/リトル・チャロ.md "wikilink") - エピソード1で登場した。
   - [PAN AM/パンナム](https://ja.wikipedia.org/wiki/PAN_AM/パンナム "wikilink") - ドラマ。
 
 ## 外部リンク

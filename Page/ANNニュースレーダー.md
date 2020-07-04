@@ -241,7 +241,7 @@
   - 東日本放送 - [KHBニュース](../Page/KHBニュース.md "wikilink") → [夕刊ですKHB](https://ja.wikipedia.org/wiki/夕刊ですKHB "wikilink")
   - 福島放送 - [イブニングふくしま](https://ja.wikipedia.org/wiki/イブニングふくしま "wikilink")/[KFBニュース](../Page/KFBニュース.md "wikilink") → [KFBニュースレーダー](https://ja.wikipedia.org/wiki/KFBニュースレーダー "wikilink")
   - 新潟テレビ21 - [NT21ニュース](../Page/UX_News.md "wikilink") → [ニュースポート21](https://ja.wikipedia.org/wiki/ニュースポート21 "wikilink") → [NT21ニュースレーダー](https://ja.wikipedia.org/wiki/NT21ニュースレーダー "wikilink")
-  - テレビ信州 - [TSBニュース](https://ja.wikipedia.org/wiki/TSBニュース "wikilink")
+  - テレビ信州 - [TSBニュース](../Page/TSBニュース.md "wikilink")
   - 静岡けんみんテレビ（現:静岡朝日テレビ） - [けんみんテレビニュース → けんみんテレビニューストピックス](https://ja.wikipedia.org/wiki/けんみんテレビニュース "wikilink") → [ニュースイブニング530 → ANNニュースイブニング静岡](../Page/ANNニュースイブニング静岡.md "wikilink")
   - 名古屋テレビ - [名古屋テレビニュース](https://ja.wikipedia.org/wiki/名古屋テレビニュース "wikilink") → [名古屋テレビニュース6:15 → 名古屋テレビニュース6:10 → 名古屋テレビニュース6:00](https://ja.wikipedia.org/wiki/名古屋テレビニュース6:00 "wikilink") → [Nagoya TV ニュースJUST6](https://ja.wikipedia.org/wiki/Nagoya_TV_ニュースJUST6 "wikilink")
   - 朝日放送 - [ABCフラッシュニュース](../Page/ABCフラッシュニュース.md "wikilink") → [たいむ6 ABC → たいむ6 ANN](../Page/たいむ6.md "wikilink")
@@ -269,7 +269,7 @@
 
 [Category:ANNニュースレーダー](https://ja.wikipedia.org/wiki/Category:ANNニュースレーダー "wikilink")
 
-1.  「6サテ」がスタートしてからは順序がローカル→全国ニュースといったん入れ替わるが、45分ワイドになってからの[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月度改編から再び全国→ローカルに戻される（後述）。
+1.  「6サテ」がスタートしてからは順序がローカル→全国ニュースといったん入れ替わるが、45分ワイドになってからの[1986年](../Page/1986年.md "wikilink")10月度改編から再び全国→ローカルに戻される（後述）。
 2.  1987年4月からは50分。
 3.  なお、ローカル枠内の進行は、別のテレビ朝日アナウンサー（男女コンビ）が担当しており、メインキャスターは番組冒頭の挨拶とローカル枠終了直前の「ネット枠予告」で顔出しするのみであった（突発事故・事件などでローカル枠を準ネット化した際に限り、メインキャスターが全編通しで担当）。
 4.  一部地域では18:20まで。

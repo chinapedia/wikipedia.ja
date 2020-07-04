@@ -517,7 +517,7 @@
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（1998年〜1999年、TBS）ゲストライブ
   - [POP JAM](https://ja.wikipedia.org/wiki/POP_JAM "wikilink")（NHK）
   - [V-R EVENING JAPAN](https://ja.wikipedia.org/wiki/V-R_EVENING_JAPAN "wikilink")（[スペースシャワーVMC](https://ja.wikipedia.org/wiki/スペースシャワーVMC "wikilink")）
-  - [音楽缶](https://ja.wikipedia.org/wiki/音楽缶 "wikilink")（テレビ神奈川）
+  - [音楽缶](../Page/音楽缶.md "wikilink")（テレビ神奈川）
   - [音楽的流行](https://ja.wikipedia.org/wiki/音楽的流行 "wikilink")
   - [m.m.m\!](https://ja.wikipedia.org/wiki/m.m.m! "wikilink")
   - [Beat Bang](https://ja.wikipedia.org/wiki/Beat_Bang "wikilink")

@@ -191,7 +191,7 @@
 | |    | |発表日        | |タイトル                                                                                 | |規格品番     | |備考                                                                                                                                                                  |
 | ---- | ----------- | ------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1st  | 1996年7月22日  | **[amiyumi](https://ja.wikipedia.org/wiki/amiyumi "wikilink")**                       | ESCB-1722 |                                                                                                                                                                      |
-| 2nd  | 1998年4月1日   | **[JET CD](https://ja.wikipedia.org/wiki/JET_CD "wikilink")**                         | ESCB-1871 | ミリオンヒット、台湾、香港でも発売                                                                                                                                                    |
+| 2nd  | 1998年4月1日   | **[JET CD](../Page/JET_CD.md "wikilink")**                                            | ESCB-1871 | ミリオンヒット、台湾、香港でも発売                                                                                                                                                    |
 | 3rd  | 1999年6月23日  | **[FEVER\*FEVER](../Page/FEVER*FEVER.md "wikilink")**                                 | ESCB-1995 | 台湾、香港でも発売                                                                                                                                                            |
 | 4th  | 2000年10月12日 | **[SPIKE](../Page/SPIKE.md "wikilink")**                                              | ESCB-2174 | 2002年5月にアメリカでインディーズレーベルで発売                                                                                                                                           |
 | 5th  | 2003年1月22日  | **[NICE.](../Page/NICE..md "wikilink")**                                              | ESCL-2357 | [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")でも発売。但し収録曲が若干異なる。ジャケットも日本盤とは異なり、ジョンとヨーコの平和のベッド・インを模したもの。 |
@@ -327,7 +327,7 @@
   - [長谷工コーポレーション](../Page/長谷工コーポレーション.md "wikilink")・[有楽土地](../Page/大成有楽不動産.md "wikilink")・[伊藤忠都市開発](../Page/伊藤忠都市開発.md "wikilink")他 コロンブスシティ（千葉県幕張新都心）（2006年）
   - [ジョインベスト証券](../Page/ジョインベスト証券.md "wikilink")（2006年）
   - [GAP](https://ja.wikipedia.org/wiki/GAP "wikilink")ワールド展開広告キャラクター（2007年）
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") [中国線就航](../Page/中華人民共和国.md "wikilink")20周年キャンペーン（2007年）
+  - [全日本空輸](../Page/全日本空輸.md "wikilink") [中国線就航](../Page/中華人民共和国.md "wikilink")20周年キャンペーン（2007年）
   - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink") [ラヴーシュカ](https://ja.wikipedia.org/wiki/Lavshuca "wikilink")（2007年 - ）
   - [カゴメ](../Page/カゴメ.md "wikilink") [野菜生活](../Page/カゴメ・野菜生活100.md "wikilink")（2008年）
   - [森永乳業](../Page/森永乳業.md "wikilink") [エスキモーMOW](https://ja.wikipedia.org/wiki/エスキモーMOW "wikilink")、[ビヒダスヨーグルト](https://ja.wikipedia.org/wiki/ビヒダスヨーグルト "wikilink")（2008年 - ）

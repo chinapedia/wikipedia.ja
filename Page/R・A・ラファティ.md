@@ -13,12 +13,12 @@
 
 ### 長篇
 
-  - *[Past Master](https://ja.wikipedia.org/wiki/:en:Past_Master_\(novel\) "wikilink")* ([1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")) 邦訳『トマス・モアの大冒険 -パスト・マスター』[井上央](https://ja.wikipedia.org/wiki/井上央 "wikilink")訳、[青心社](https://ja.wikipedia.org/wiki/青心社 "wikilink")文庫、[1993年](../Page/1993年.md "wikilink")
-  - *The Reefs of Earth* ([1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")) 邦訳『地球礁』[柳下毅一郎](../Page/柳下毅一郎.md "wikilink")訳、[河出書房新社](../Page/河出書房新社.md "wikilink")、[2002年](../Page/2002年.md "wikilink")　のち河出文庫
-  - *Space Chantey* ([1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")) 邦訳『宇宙舟歌』柳下毅一郎訳、[国書刊行会](../Page/国書刊行会.md "wikilink")〈[未来の文学](../Page/未来の文学.md "wikilink")〉、[2005年](../Page/2005年.md "wikilink")
+  - *[Past Master](https://ja.wikipedia.org/wiki/:en:Past_Master_\(novel\) "wikilink")* ([1968年](../Page/1968年.md "wikilink")) 邦訳『トマス・モアの大冒険 -パスト・マスター』[井上央](https://ja.wikipedia.org/wiki/井上央 "wikilink")訳、[青心社](https://ja.wikipedia.org/wiki/青心社 "wikilink")文庫、[1993年](../Page/1993年.md "wikilink")
+  - *The Reefs of Earth* ([1968年](../Page/1968年.md "wikilink")) 邦訳『地球礁』[柳下毅一郎](../Page/柳下毅一郎.md "wikilink")訳、[河出書房新社](../Page/河出書房新社.md "wikilink")、[2002年](../Page/2002年.md "wikilink")　のち河出文庫
+  - *Space Chantey* ([1968年](../Page/1968年.md "wikilink")) 邦訳『宇宙舟歌』柳下毅一郎訳、[国書刊行会](../Page/国書刊行会.md "wikilink")〈[未来の文学](../Page/未来の文学.md "wikilink")〉、[2005年](../Page/2005年.md "wikilink")
   - *[Fourth Mansions](https://ja.wikipedia.org/wiki/:en:Fourth_Mansions "wikilink")* ([1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")) 邦訳『第四の館』柳下毅一郎訳、[国書刊行会](../Page/国書刊行会.md "wikilink")〈[未来の文学](../Page/未来の文学.md "wikilink")〉、[2013年](../Page/2013年.md "wikilink")
-  - *Arrive At Easterwine* ([1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")) 邦訳『イースターワインに到着』[越智道雄](https://ja.wikipedia.org/wiki/越智道雄 "wikilink")訳、[サンリオ](../Page/サンリオ.md "wikilink")SF文庫、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
-  - *The Devil Is Dead* ([1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")) 邦訳『悪魔は死んだ』井上央訳、[サンリオ](../Page/サンリオ.md "wikilink")SF文庫、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - *Arrive At Easterwine* ([1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")) 邦訳『イースターワインに到着』[越智道雄](https://ja.wikipedia.org/wiki/越智道雄 "wikilink")訳、[サンリオ](../Page/サンリオ.md "wikilink")SF文庫、[1986年](../Page/1986年.md "wikilink")
+  - *The Devil Is Dead* ([1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")) 邦訳『悪魔は死んだ』井上央訳、[サンリオ](../Page/サンリオ.md "wikilink")SF文庫、[1986年](../Page/1986年.md "wikilink")
   - *Serpent's Egg* ([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")) 邦訳『蛇の卵』井上央訳、[青心社](https://ja.wikipedia.org/wiki/青心社 "wikilink")、[2013年](../Page/2013年.md "wikilink")
 
 ### 短篇集

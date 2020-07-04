@@ -5,7 +5,7 @@
 
 ## 概要
 
-元々**大協石油四日市サッカー部**として[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")で活動していたが、[1984年](../Page/1984年.md "wikilink")に**コスモ大協**に改称。その後、会社が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に丸善石油と合併し[コスモ石油](../Page/コスモ石油.md "wikilink")となったのに伴い、チーム名も**コスモ石油サッカー部**に変更された。
+元々**大協石油四日市サッカー部**として[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")で活動していたが、[1984年](../Page/1984年.md "wikilink")に**コスモ大協**に改称。その後、会社が[1986年](../Page/1986年.md "wikilink")に丸善石油と合併し[コスモ石油](../Page/コスモ石油.md "wikilink")となったのに伴い、チーム名も**コスモ石油サッカー部**に変更された。
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に大協石油として1シーズン、コスモ石油に改名後の1986年からJSLが終了する[1991年](../Page/1991年.md "wikilink")までJSL2部に在籍した。
 

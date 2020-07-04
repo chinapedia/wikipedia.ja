@@ -86,7 +86,7 @@
         最終決戦では惑星タコラへの気がかりと高機動小隊の侵入阻止の[捨て駒扱いされていることに嫌気がさしており](https://ja.wikipedia.org/wiki/将棋#将棋に由来する慣用表現 "wikilink")、バイオ レックス、スカル、ババと共にダークミリオンを離反した。
   - ミスター イー・エイ・ディ (Mr. EAD)
     声 - 岩田安宣
-    年齢不詳。謎の組織EADが開発した[アンドロイド](https://ja.wikipedia.org/wiki/人造人間#アンドロイド、サイボーグ "wikilink")。ネオ[キョートシティで作られた](https://ja.wikipedia.org/wiki/京都 "wikilink")。グランプリの参戦は完璧なアンドロイドを作るための過程でしかない。量産化がすでに始まっているとのこと。
+    年齢不詳。謎の組織EADが開発した[アンドロイド](https://ja.wikipedia.org/wiki/人造人間#アンドロイド、サイボーグ "wikilink")。ネオ[キョートシティで作られた](../Page/京都.md "wikilink")。グランプリの参戦は完璧なアンドロイドを作るための過程でしかない。量産化がすでに始まっているとのこと。
     [任天堂](../Page/任天堂.md "wikilink")のソフトウェア開発部署のひとつ、「情報開発本部」の英語での呼称が**[Entertainment Analysis and Development](https://ja.wikipedia.org/wiki/:en:Nintendo_Entertainment_Analysis_and_Development "wikilink")**、略してEADであるほか、グレートスターの製作者「シーゲル キューポン」を漢字で書くと「[茂 宮本](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")」となる。また、顔も[マリオに似ており](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")、[ベルトにはスターが付いており](../Page/ベルト_\(服飾\).md "wikilink")、[ブーツ](https://ja.wikipedia.org/wiki/ブーツ "wikilink")にはキノコが付いている。
     搭乗マシンは**グレートスター** (GREAT STAR) 。製作：シーゲル　キューポン、エンジン：EAD152×2重量：1,870キログラム、性能評価：E/A/D、No.9。GXでは「私の兄弟」で、Mr. EADの別個体から作られたと語っている。名前の通り性能はE・A・D。パイロットがアンドロイドなので操作性が重視されず極端に扱いにくいが、加速とブースター性能はかなり良い。重量の割にボティも弱いので、超上級者向け。GBA版『ファルコン伝説』および『CLIMAX』でも概ね同様の性能を持つ。
       - アニメ版

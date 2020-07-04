@@ -54,7 +54,7 @@
       - 平山さとみ - 第6弾後半
       - [浜家有文子](../Page/浜家有文子.md "wikilink") - 第7・9弾
       - 堤満莉子 - 第8弾・第11 - 13弾
-      - [有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")（[タレント](../Page/タレント.md "wikilink")） - 第10弾
+      - [有坂来瞳](../Page/有坂来瞳.md "wikilink")（[タレント](../Page/タレント.md "wikilink")） - 第10弾
       - [佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")（[女優](../Page/俳優.md "wikilink")） - 第23弾
       - [豊口めぐみ](../Page/豊口めぐみ.md "wikilink")（[声優](../Page/声優.md "wikilink")） - 第24・25弾
 
@@ -609,7 +609,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/キバの紋章" title="wikilink">キバの紋章</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真崎守" title="wikilink">真崎守</a></p></td>
+<td><p><a href="../Page/真崎守.md" title="wikilink">真崎守</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -720,7 +720,7 @@
 <td><p>クロマティ高校|魁</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エリート狂走曲" title="wikilink">エリート狂走曲</a></p></td>
+<td><p><a href="../Page/エリート狂走曲.md" title="wikilink">エリート狂走曲</a></p></td>
 <td><p><a href="../Page/弓月光.md" title="wikilink">弓月光</a></p></td>
 <td></td>
 <td></td>

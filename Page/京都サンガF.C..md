@@ -849,7 +849,7 @@ J2第34節の札幌戦が8月16日の17時20分キックオフの薄暮開催と
   - [京スポ NEWS ENTERTAINMENT〜](../Page/京スポ.md "wikilink")〜SPORTS（2004年 - 現在放送中）
   - サンガ@LOVE（2006年）
       - 試合ハイライトや選手のインタビューを中心とした番組であった。
-  - [ぽじポジたまご](https://ja.wikipedia.org/wiki/ぽじポジたまご "wikilink")
+  - [ぽじポジたまご](../Page/ぽじポジたまご.md "wikilink")
 
 <!-- end list -->
 

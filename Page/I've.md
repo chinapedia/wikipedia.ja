@@ -1,7 +1,7 @@
 > この記事は[I\'ve](https://ja.wikipedia.org/wiki/I\'ve)から翻訳されています。
 
 
-**I've**（アイブ、アイヴ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本拠地を置く[音楽](../Page/音楽.md "wikilink")[制作プロダクション](../Page/制作プロダクション.md "wikilink")。雑誌媒体などでは[音楽クリエイターチーム](https://ja.wikipedia.org/wiki/音楽クリエイターチーム "wikilink")、サウンドチームと紹介されることが多い。
+**I've**（アイブ、アイヴ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本拠地を置く[音楽](../Page/音楽.md "wikilink")[制作プロダクション](../Page/制作プロダクション.md "wikilink")。雑誌媒体などでは[音楽クリエイターチーム](../Page/音楽クリエイターチーム.md "wikilink")、サウンドチームと紹介されることが多い。
 
 ## 概要
 
@@ -35,7 +35,7 @@ I'veの名称は、1998年の秋に『Lips〜笑顔の行方〜』というPCゲ
 
 [2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")、I'veとしては初[コマーシャルの音楽を担当](../Page/コマーシャルメッセージ.md "wikilink")。タイアップの[企業](../Page/企業.md "wikilink")は「[ドワンゴ](../Page/ドワンゴ.md "wikilink")」で使用された。楽曲はKOTOKOの「[421-a will-](../Page/421-a_will-.md "wikilink")」。
 
-2005年[10月15日](../Page/10月15日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")にて初のライブ『[I've in BUDOKAN 2005 〜Open the Birth Gate〜](https://ja.wikipedia.org/wiki/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜 "wikilink")』を開催。約7500人の観客を動員。翌[2006年](../Page/2006年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")、このライブの模様を収録した[DVD](../Page/DVD.md "wikilink")を発売。しかし、本作は音声品質にクレームが相次ぎ、[11月10日](../Page/11月10日.md "wikilink")、そのクレームに対応する形で『I've in BUDOKAN 2005 〜COMPLETE EDIT〜』が発売されている。初版との交換も可能であったが、[12月10日](../Page/12月10日.md "wikilink")に店頭での交換期間が終了。
+2005年[10月15日](../Page/10月15日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")にて初のライブ『[I've in BUDOKAN 2005 〜Open the Birth Gate〜](../Page/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜.md "wikilink")』を開催。約7500人の観客を動員。翌[2006年](../Page/2006年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")、このライブの模様を収録した[DVD](../Page/DVD.md "wikilink")を発売。しかし、本作は音声品質にクレームが相次ぎ、[11月10日](../Page/11月10日.md "wikilink")、そのクレームに対応する形で『I've in BUDOKAN 2005 〜COMPLETE EDIT〜』が発売されている。初版との交換も可能であったが、[12月10日](../Page/12月10日.md "wikilink")に店頭での交換期間が終了。
 
 [2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")、全国ロードショーされた劇場版アニメ『[灼眼のシャナ](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\)#劇場版『灼眼のシャナ』 "wikilink")』が公開された。その主題歌『[天壌を翔る者たち](../Page/天壌を翔る者たち.md "wikilink")』をI'veボーカリスト5人で構成されたスペシャルユニット[Love Planet Fiveが担当](https://ja.wikipedia.org/wiki/天壌を翔る者たち#Love_Planet_Five "wikilink")。I've初の劇場作品への楽曲提供となった。
 
@@ -241,9 +241,9 @@ I'veの名称は、1998年の秋に『Lips〜笑顔の行方〜』というPCゲ
 ## ゲスト参加・楽曲提供した主な歌手
 
   - [Lia](../Page/Lia.md "wikilink")（りあ）
-    現在はqueens labelで活動しており、一時期[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")在住だった。『[I've in BUDOKAN 2005 〜Open the Birth Gate〜](https://ja.wikipedia.org/wiki/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜 "wikilink")』にもゲスト出演した。
+    現在はqueens labelで活動しており、一時期[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")在住だった。『[I've in BUDOKAN 2005 〜Open the Birth Gate〜](../Page/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜.md "wikilink")』にもゲスト出演した。
   - [彩菜](../Page/彩菜.md "wikilink")（あやな）
-    『[I've in BUDOKAN 2005 〜Open the Birth Gate〜](https://ja.wikipedia.org/wiki/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜 "wikilink")』にゲスト出演し、I've15周年LIVEにも出演した。
+    『[I've in BUDOKAN 2005 〜Open the Birth Gate〜](../Page/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜.md "wikilink")』にゲスト出演し、I've15周年LIVEにも出演した。
   - [佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")（さとう ひろみ）
     [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")とのユニットにて『I've in BUDOKAN 2005 〜Open the Birth Gate〜』にもゲスト出演した。[2016年](../Page/2016年.md "wikilink")をもって歌手活動を引退。
   - MAKO（まこ）

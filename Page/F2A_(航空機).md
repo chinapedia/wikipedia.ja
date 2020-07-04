@@ -2,7 +2,7 @@
 
 
 {{ Infobox 航空機 | 名称=F2A バッファロー | 画像=<File:Brewster_F2A-3_g16055.jpg> | キャプション=[ジョセフ・C・クリフトン少佐の搭乗するF](https://ja.wikipedia.org/wiki/:en:Joseph_C._Clifton "wikilink")2A-3
-([1942年](../Page/1942年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者=デイトン・T・ブラウン | 製造者=[ブルースター・エアロノーティカル](../Page/ブルースター・エアロノーティカル.md "wikilink")社 | 運用者= | 運用者 more=
+([1942年](../Page/1942年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者=デイトン・T・ブラウン | 製造者=[ブルースター・エアロノーティカル](../Page/ブルースター・エアロノーティカル.md "wikilink")社 | 運用者= | 運用者 more=
 \*\* （[海軍](../Page/アメリカ海軍.md "wikilink")、[海兵隊](../Page/アメリカ海兵隊.md "wikilink")）
 
   -   - （[空軍](https://ja.wikipedia.org/wiki/フィンランド空軍 "wikilink")）
@@ -18,13 +18,13 @@
   -   - 1+170機 ※アメリカ軍向け
       - 346機 ※海外向け
 
-| 生産開始年月日=[1938年](../Page/1938年.md "wikilink") | 運用開始年月日=[1939年](../Page/1939年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") | 退役年月日=[1948年](../Page/1948年.md "wikilink")（フィンランド空軍） | 運用状況=退役 | ユニットコスト= }} **F2A バッファロー**（*Brewster F2A Buffalo* ）は[ブルースター社が開発し](../Page/ブルースター・エアロノーティカル.md "wikilink")[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+| 生産開始年月日=[1938年](../Page/1938年.md "wikilink") | 運用開始年月日=[1939年](../Page/1939年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") | 退役年月日=[1948年](../Page/1948年.md "wikilink")（フィンランド空軍） | 運用状況=退役 | ユニットコスト= }} **F2A バッファロー**（*Brewster F2A Buffalo* ）は[ブルースター社が開発し](../Page/ブルースター・エアロノーティカル.md "wikilink")[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
 愛称の「**バッファロー** (Buffalo)」は牛の仲間の[バッファロー](../Page/バッファロー.md "wikilink")由来だが、これは[イギリス空軍](../Page/イギリス空軍.md "wikilink")での愛称の逆輸入である。アメリカではあまり目立った戦闘はしていないが、輸出先のフィンランド空軍でソ連との戦闘において活躍した。
 
 ## 概要
 
-[1935年](../Page/1935年.md "wikilink")、米海軍は[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")の近代化を計画し、現用の複葉戦闘機である[グラマン](../Page/グラマン.md "wikilink")社製の[F3Fフライングバレルの更新となる新型艦上戦闘機を計画した](../Page/F3F_\(航空機\).md "wikilink")。翌[1936年](../Page/1936年.md "wikilink")に発表された要求仕様は「[単葉機](../Page/単葉機.md "wikilink")であること」「折り畳み翼、引き込み脚、密閉式コクピットをもつこと」であった。この要求に対し新興メーカーであるブルースターも[グラマン](../Page/グラマン.md "wikilink")、[セヴァスキーとともに競争試作に参加し](../Page/セバスキー.md "wikilink")、同社の提出した“B-139”(Brewster model 139)は3社の中で最も高い性能を示して採用された。しかし、ブルースター社の生産能力の問題から生産が遅延し、発注された数を納期までに納入することができず、1941年の[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開戦時には、グラマン社が前述の計画に提出した案を発展させて開発した後発の[F4Fワイルドキャットが数量的な主力艦上戦闘機となっていた](../Page/F4F_\(航空機\).md "wikilink")。
+[1935年](../Page/1935年.md "wikilink")、米海軍は[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")の近代化を計画し、現用の複葉戦闘機である[グラマン](../Page/グラマン.md "wikilink")社製の[F3Fフライングバレルの更新となる新型艦上戦闘機を計画した](../Page/F3F_\(航空機\).md "wikilink")。翌[1936年](../Page/1936年.md "wikilink")に発表された要求仕様は「[単葉機](../Page/単葉機.md "wikilink")であること」「折り畳み翼、引き込み脚、密閉式コクピットをもつこと」であった。この要求に対し新興メーカーであるブルースターも[グラマン](../Page/グラマン.md "wikilink")、[セヴァスキーとともに競争試作に参加し](../Page/セバスキー.md "wikilink")、同社の提出した“B-139”(Brewster model 139)は3社の中で最も高い性能を示して採用された。しかし、ブルースター社の生産能力の問題から生産が遅延し、発注された数を納期までに納入することができず、1941年の[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")開戦時には、グラマン社が前述の計画に提出した案を発展させて開発した後発の[F4Fワイルドキャットが数量的な主力艦上戦闘機となっていた](../Page/F4F_\(航空機\).md "wikilink")。
 
 生産や配備数以外にもF2Aは1941年の時点では既にF4Fのみならず[枢軸国](../Page/枢軸国.md "wikilink")軍の戦闘機に対して性能が劣ることは明白となっていた。そのため[第2次世界大戦](https://ja.wikipedia.org/wiki/第2次世界大戦 "wikilink")の緒戦において枢軸軍相手に大きな被害を出し、性能不足として1942年以降は前線から引き揚げられた。
 
@@ -81,7 +81,7 @@ VMF-221所属のF2A-3は1942年5-6月に行われた[ミッドウェー海戦](h
 
 アメリカが初の[護衛空母](../Page/護衛空母.md "wikilink")である[ロング・アイランドを完成させると](../Page/ロング・アイランド_\(護衛空母\).md "wikilink")、F2Aはその搭載機として候補に挙げられ、実際に搭載してのテストが行われたが、最終的には護衛空母への搭載機としてはF4Fとその社外生産機（ゼネラルモーターズ FM）が選定され、こうした2線機としてもF4Fに取って代わられることになった。
 
-なお、元々オランダが購入して東インド部隊に配備し、オランダの降伏後にはマラヤ方面から米軍基地に避退した機体（B-339）があり、これらは短期間[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")(USAAF)に配備された後、オーストラリア／ニュージランド空軍に供与されて1943年11月まで用いられ、両軍の機種改変後の1944年にアメリカ陸軍航空隊に移管する形で返却された（後述「[\#イギリス及び英連邦諸国における運用](https://ja.wikipedia.org/wiki/#イギリス及び英連邦諸国における運用 "wikilink")」および「[\#オランダによる運用](https://ja.wikipedia.org/wiki/#オランダによる運用 "wikilink")」参照）。
+なお、元々オランダが購入して東インド部隊に配備し、オランダの降伏後にはマラヤ方面から米軍基地に避退した機体（B-339）があり、これらは短期間[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")(USAAF)に配備された後、オーストラリア／ニュージランド空軍に供与されて1943年11月まで用いられ、両軍の機種改変後の1944年にアメリカ陸軍航空隊に移管する形で返却された（後述「[\#イギリス及び英連邦諸国における運用](https://ja.wikipedia.org/wiki/#イギリス及び英連邦諸国における運用 "wikilink")」および「[\#オランダによる運用](https://ja.wikipedia.org/wiki/#オランダによる運用 "wikilink")」参照）。
 
 <File:F2A-2> VF-2 retracting landing gear 1940.jpg|離陸直後に車輪を格納するF2A-2
 アメリカ海軍第2戦闘航空隊(VF-2)所属の機体（Bu.No.1410号機）
@@ -116,7 +116,7 @@ VMF-221所属のF2A-3は1942年5-6月に行われた[ミッドウェー海戦](h
 
 これらマラヤやビルマ、[オランダ領東インド](../Page/オランダ領東インド.md "wikilink")（[インドネシア](../Page/インドネシア.md "wikilink")）などに配備された英軍の機体は、機体の性能低下に加えて搭乗員の訓練不足や運用体制の構築が不十分であったことに起因する整備・支援体制の不足、更には司令部が日本軍機の性能を実際よりも低く見ていたことによる稚拙な作戦指揮から、[マレー作戦](../Page/マレー作戦.md "wikilink")の開始後に陸軍の[隼や海軍の](../Page/一式戦闘機.md "wikilink")[零戦などと戦闘を行い](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")、そのほとんどが撃墜、あるいは地上撃破されることとなった。機体の性能差に加え、極東戦線ではレーダー探知と連動した航空管制の導入が進められていたが、充分な実働体制を構築する以前に開戦となり、連携の取れた組織的な部隊運用ができなかったことも、日本軍機に一方的な敗北を喫した要因と見られている。現地では翼内機銃や弾薬、翼内タンクの燃料を減らすなどして軽量化し速度と運動性を向上させる努力が払われたが、ほとんど効果はなかったという。
 
-[Air_Ministry_Second_World_War_Official_Collection_CF753.jpg](https://ja.wikipedia.org/wiki/File:Air_Ministry_Second_World_War_Official_Collection_CF753.jpg "fig:Air_Ministry_Second_World_War_Official_Collection_CF753.jpg") [オーストラリア](../Page/オーストラリア空軍.md "wikilink")／[ニュージーランド空軍](https://ja.wikipedia.org/wiki/ニュージーランド空軍 "wikilink")では、開戦初頭に英連邦軍としてシンガポールとマラヤに派遣された部隊が使用した他、オランダ東インド部隊降伏後にはマラヤ方面から米軍基地に避退した機体、およびオランダが発注したが引き渡し不能となった機体をアメリカより供与され、主に戦線後方で防空と哨戒、偵察と訓練に用いられた。1943年11月まで現役で用いられたこれらの機体は、アメリカから新型機が供与されると[1944年](../Page/1944年.md "wikilink")には装備から外され、[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")に移管する形で返納されている。両空軍ではバッファローに搭乗した中から4人の[エース・パイロット](https://ja.wikipedia.org/wiki/エース・パイロット "wikilink")が誕生した。 {{-}}
+[Air_Ministry_Second_World_War_Official_Collection_CF753.jpg](https://ja.wikipedia.org/wiki/File:Air_Ministry_Second_World_War_Official_Collection_CF753.jpg "fig:Air_Ministry_Second_World_War_Official_Collection_CF753.jpg") [オーストラリア](../Page/オーストラリア空軍.md "wikilink")／[ニュージーランド空軍](https://ja.wikipedia.org/wiki/ニュージーランド空軍 "wikilink")では、開戦初頭に英連邦軍としてシンガポールとマラヤに派遣された部隊が使用した他、オランダ東インド部隊降伏後にはマラヤ方面から米軍基地に避退した機体、およびオランダが発注したが引き渡し不能となった機体をアメリカより供与され、主に戦線後方で防空と哨戒、偵察と訓練に用いられた。1943年11月まで現役で用いられたこれらの機体は、アメリカから新型機が供与されると[1944年](../Page/1944年.md "wikilink")には装備から外され、[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")に移管する形で返納されている。両空軍ではバッファローに搭乗した中から4人の[エース・パイロット](https://ja.wikipedia.org/wiki/エース・パイロット "wikilink")が誕生した。 {{-}}
 
 #### オランダによる運用
 

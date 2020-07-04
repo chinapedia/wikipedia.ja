@@ -175,7 +175,7 @@
 </tr>
 <tr class="odd">
 <td><p>Y将軍</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイル・ダイ" title="wikilink">デイル・ダイ</a></p></td>
+<td><p><a href="../Page/デイル・ダイ.md" title="wikilink">デイル・ダイ</a></p></td>
 <td><p>小島敏彦</p></td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@
 
 翻訳：たかしまちせこ、演出：福永莞爾、調整：荒井孝、制作：東北新社、プロデューサー：圓井一夫
 
-その他の声の出演：有本欽隆、[岩田安生](../Page/岩田安生.md "wikilink")、[池水通洋](../Page/池水通洋.md "wikilink")、伊井篤史、[叶木翔子](../Page/叶木翔子.md "wikilink")、[瀬畑奈津子](https://ja.wikipedia.org/wiki/瀬畑奈津子 "wikilink")、[火野カチコ](https://ja.wikipedia.org/wiki/火野カチ子 "wikilink")、[宝亀克寿](../Page/宝亀克寿.md "wikilink")、[堀越真己](../Page/堀越真己.md "wikilink")、[宮田光](../Page/宮田光.md "wikilink")、[幹本雄之](../Page/幹本雄之.md "wikilink")
+その他の声の出演：有本欽隆、[岩田安生](../Page/岩田安生.md "wikilink")、[池水通洋](../Page/池水通洋.md "wikilink")、伊井篤史、[叶木翔子](../Page/叶木翔子.md "wikilink")、[瀬畑奈津子](../Page/瀬畑奈津子.md "wikilink")、[火野カチコ](https://ja.wikipedia.org/wiki/火野カチ子 "wikilink")、[宝亀克寿](../Page/宝亀克寿.md "wikilink")、[堀越真己](../Page/堀越真己.md "wikilink")、[宮田光](../Page/宮田光.md "wikilink")、[幹本雄之](../Page/幹本雄之.md "wikilink")
 
 ## 受賞歴
 

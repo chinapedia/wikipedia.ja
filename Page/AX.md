@@ -5,7 +5,7 @@
 
 ## 概要
 
-[日本電気](../Page/日本電気.md "wikilink")(NEC)の[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")が日本のパソコン市場で首位を固めつつあった[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に、対抗規格として[アスキーと](../Page/アスキー_\(企業\).md "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")により提唱された規格で、当時PC/AT互換機で登場からの期間が長く、安定度が高かったと思われる表示規格の[EGAモード](../Page/Enhanced_Graphics_Adapter.md "wikilink")（640×350ドット）をもとに、日本語対応と解像度を高めた[JEGAモード](../Page/Japanese_Enhanced_Graphics_Adapter.md "wikilink")（640×480ドット）を採用し\[1\]、専用チップ\[2\]で構成されていた。
+[日本電気](../Page/日本電気.md "wikilink")(NEC)の[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")が日本のパソコン市場で首位を固めつつあった[1986年](../Page/1986年.md "wikilink")に、対抗規格として[アスキーと](../Page/アスキー_\(企業\).md "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")により提唱された規格で、当時PC/AT互換機で登場からの期間が長く、安定度が高かったと思われる表示規格の[EGAモード](../Page/Enhanced_Graphics_Adapter.md "wikilink")（640×350ドット）をもとに、日本語対応と解像度を高めた[JEGAモード](../Page/Japanese_Enhanced_Graphics_Adapter.md "wikilink")（640×480ドット）を採用し\[1\]、専用チップ\[2\]で構成されていた。
 
 ## 歴史
 

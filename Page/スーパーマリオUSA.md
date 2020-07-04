@@ -5,7 +5,7 @@
 
 ## 概要
 
-元々は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売された『**[夢工場ドキドキパニック](https://ja.wikipedia.org/wiki/夢工場ドキドキパニック "wikilink")**』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）をベースに、キャラクターをマリオシリーズのものに置き換えた作品であり、同作を[アメリカなどの日本国外の市場に輸出する際](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、プレイヤーとなるキャラクターを[マリオ達に差し替えたうえで](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")『**SUPER MARIO BROS. 2**』（[1988年](../Page/1988年.md "wikilink")）として発売されたソフトである。このため、日本版の『[スーパーマリオブラザーズ2](../Page/スーパーマリオブラザーズ2.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）は当初は国外でリリースされなかった。
+元々は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売された『**[夢工場ドキドキパニック](https://ja.wikipedia.org/wiki/夢工場ドキドキパニック "wikilink")**』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）をベースに、キャラクターをマリオシリーズのものに置き換えた作品であり、同作を[アメリカなどの日本国外の市場に輸出する際](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、プレイヤーとなるキャラクターを[マリオ達に差し替えたうえで](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")『**SUPER MARIO BROS. 2**』（[1988年](../Page/1988年.md "wikilink")）として発売されたソフトである。このため、日本版の『[スーパーマリオブラザーズ2](../Page/スーパーマリオブラザーズ2.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）は当初は国外でリリースされなかった。
 
 その後、遅れて日本国外で発売された『SUPER MARIO BROS. 2』を日本向けに逆輸入したタイトルが、この『スーパーマリオUSA』である。日本での販売に際しては、タイトルのとおり「アメリカで発売されたゲーム」という事でユーザーの興味を引くだけでなく、ディスク用の『夢工場ドキドキパニック』をROMカセットで再発売するという意味合いも強かった\[1\]。
 

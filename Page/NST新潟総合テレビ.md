@@ -15,7 +15,7 @@
 
   - 本社 - 〒950-8572 [新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区八千代二丁目](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")3番1号
       - 2004年10月完成。立地的に「[万代シテイ](../Page/万代シテイ.md "wikilink")」に程近く、本社敷地内には万代シテイの駐車場がある。[信濃川](../Page/信濃川.md "wikilink")右岸（旧[新潟鉄道管理局グラウンド跡](../Page/東日本旅客鉄道新潟支社.md "wikilink")）に位置し、付近には[八千代橋](../Page/八千代橋.md "wikilink")がある。
-  - 長岡支社 - 〒940-0033 [長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")今朝白二丁目1番4号
+  - 長岡支社 - 〒940-0033 [長岡市](../Page/長岡市.md "wikilink")今朝白二丁目1番4号
       - 「**長岡放送センター**」跡地（後述）。同敷地内には、「[駒形十吉記念美術館](https://ja.wikipedia.org/wiki/駒形十吉記念美術館 "wikilink")」があり、別棟のビルに長岡支社が入居している。
   - 上越支社 - [上越市](../Page/上越市.md "wikilink")西城町三丁目5番24号（上越[大同生命](https://ja.wikipedia.org/wiki/大同生命 "wikilink")ビル内）
   - ゆきぐに魚沼支社 - [南魚沼市](../Page/南魚沼市.md "wikilink")[六日町](../Page/六日町.md "wikilink")106番地1
@@ -28,7 +28,7 @@
   - 本社（旧社屋） - 新潟市（現・新潟市中央区）上所一丁目11番31号
       - 長岡放送センターがあった時代は、本社機能だけでなく、[スタジオ](../Page/スタジオ.md "wikilink")も設けられていた。
       - 新潟市中央区八千代に移転後は解体され、現在は駐車場となっている。
-  - 長岡放送センター - [長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")今朝白二丁目1番4号
+  - 長岡放送センター - [長岡市](../Page/長岡市.md "wikilink")今朝白二丁目1番4号
       - 開局から1991年10月に新潟市本社に廃統合するまで、[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")およびスタジオ機能として存在していた。
       - 統廃合後に解体され、1994年に「駒形十吉記念美術館」として開館。敷地内には、別棟で長岡支社の建物も設けられている。
 
@@ -274,7 +274,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 
   - [1967年](../Page/1967年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") 予備免許取得。
       - 当時のUHF第1次チャンネルプランに基づく初の予備免許交付で、この日は、[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")、[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")、[長野放送](../Page/長野放送.md "wikilink")、[テレビ静岡](../Page/テレビ静岡.md "wikilink")、[岡山放送](../Page/岡山放送.md "wikilink")、[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")等にも、同時に予備免許が交付された。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")
+  - [1968年](../Page/1968年.md "wikilink")
       - [3月2日](../Page/3月2日.md "wikilink") NST 新潟総合テレビ設立。
       - 10月頃 NST 長岡放送センター完成。屋根に取り付けられた大きな***NST***の看板が印象的な建物であった。
       - [11月7日](../Page/11月7日.md "wikilink") 放送試験電波発射。マスターは松下（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）製で、[1981年](../Page/1981年.md "wikilink")6月下旬の音声多重放送開始に伴う更改まで使われ続けた。送信機は東芝製。
@@ -310,7 +310,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
           - CM送出にアンペックス社製[1インチVTR](../Page/1インチVTR.md "wikilink")を2台採用し、CM送出の効率化を図る。
       - [6月](../Page/6月.md "wikilink")下旬 [音声多重放送](../Page/音声多重放送.md "wikilink")免許取得。これに伴い、新しい主調整設備（松下＝現・パナソニック製）に更改、稼動開始。
       - 6月26日 通常番組終了後（深夜）、音声多重試験放送を開始（画像は静止画、音声のみ）。
-      - [7月1日](../Page/7月1日.md "wikilink") 音声多重放送を開始。最初の番組は、ABC制作の、[甲子園球場からの](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")[阪神](../Page/阪神タイガース.md "wikilink")－[巨人戦の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[実況生放送であった](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")（ステレオ放送。ANNの『[水曜スペシャル](../Page/水曜スペシャル.md "wikilink")』枠での放送）。
+      - [7月1日](../Page/7月1日.md "wikilink") 音声多重放送を開始。最初の番組は、ABC制作の、[甲子園球場からの](../Page/阪神甲子園球場.md "wikilink")[阪神](../Page/阪神タイガース.md "wikilink")－[巨人戦の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[実況生放送であった](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")（ステレオ放送。ANNの『[水曜スペシャル](../Page/水曜スペシャル.md "wikilink")』枠での放送）。
   - 1981年7月27、28日 [高校野球県大会の準決勝](https://ja.wikipedia.org/wiki/全国高等学校野球選手権新潟大会#放送 "wikilink")、決勝の模様を[長岡市悠久山野球場](../Page/長岡市悠久山野球場.md "wikilink")から、同局ローカル番組初のステレオ（生中継）で放送\[21\]。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") ローカルの天気予報の一部時間帯がステレオ化される\[22\]。
@@ -384,7 +384,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 
 ## ネットワークの移り変わり
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月16日](../Page/12月16日.md "wikilink") - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[NETテレビのトリプルクロスネット局としてテレビ本放送を開始](../Page/テレビ朝日.md "wikilink")。ニュースネットは[NNN](../Page/日本ニュースネットワーク.md "wikilink")・[FNN](../Page/フジニュースネットワーク.md "wikilink")・NET-[朝日テレビニュース系列](https://ja.wikipedia.org/wiki/テレビ朝日映像 "wikilink")。
+  - [1968年](../Page/1968年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[NETテレビのトリプルクロスネット局としてテレビ本放送を開始](../Page/テレビ朝日.md "wikilink")。ニュースネットは[NNN](../Page/日本ニュースネットワーク.md "wikilink")・[FNN](../Page/フジニュースネットワーク.md "wikilink")・NET-[朝日テレビニュース系列](https://ja.wikipedia.org/wiki/テレビ朝日映像 "wikilink")。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - この日発足した[FNSに加盟](../Page/フジネットワーク.md "wikilink")。
   - [1970年](../Page/1970年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - NET-朝日テレビニュース系列が[ANNとして発足し加盟](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。
   - [1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [腸捻転](https://ja.wikipedia.org/wiki/腸捻転 "wikilink")解消に伴い、トリプルクロスのうちANN系列準キー局が[毎日放送から](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[朝日放送に変更される](../Page/朝日放送テレビ.md "wikilink")。

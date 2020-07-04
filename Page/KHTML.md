@@ -16,7 +16,7 @@ KHTMLを搭載するブラウザはあまり知られておらず、多くのウ
 
 ## 関連項目
 
-  - [KDOM](https://ja.wikipedia.org/wiki/KDOM "wikilink")
+  - [KDOM](../Page/KDOM.md "wikilink")
   - [KJS](../Page/KJS.md "wikilink")
 
 ## 外部リンク

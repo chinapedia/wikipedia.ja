@@ -14,7 +14,7 @@
   - [E07A型](../Page/ホンダ・E型エンジン.md "wikilink")
     [1991年](../Page/1991年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")に発表したビートに搭載されデビューした、[直列3気筒](../Page/直列3気筒.md "wikilink") [SOHC](../Page/SOHC.md "wikilink") [12Valve](../Page/マルチバルブ.md "wikilink") 656ccのエンジン。搭載方法([横置き](../Page/横置きエンジン.md "wikilink")[ミッドシップ](../Page/ミッドシップ.md "wikilink"))が近い[アクティ用の同型エンジンがベース](../Page/ホンダ・アクティ.md "wikilink")。
     [エアクリーナー](../Page/エアクリーナー.md "wikilink")と共用の大型の吸気チャンバー（5L）直後に、3つの気筒ごとに独立したスロットルバルブを持ち、φ36mmからφ29mmまで絞られて行く吸気マニフォールドを備える。軽自動車用[自然吸気](../Page/自然吸気.md "wikilink")エンジンで唯一[自主規制上限の](https://ja.wikipedia.org/wiki/自動車馬力規制#自動車 "wikilink") 64PS/8,100rpm 、6.1kgf·m/7,000rpmを誇った。
-    [1993年](../Page/1993年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発表した2代目トゥデイにも搭載されたが、こちらは低回転域でのトルクを重視して圧縮比は9.8（この値は非MTREC仕様と同様であり、ビートは10.0）とし、58PS/7,300rpm 、6.1kgf·m/6,200rpmにデチューンされていた。
+    [1993年](../Page/1993年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に発表した2代目トゥデイにも搭載されたが、こちらは低回転域でのトルクを重視して圧縮比は9.8（この値は非MTREC仕様と同様であり、ビートは10.0）とし、58PS/7,300rpm 、6.1kgf·m/6,200rpmにデチューンされていた。
 
 ## 外部リンク
 

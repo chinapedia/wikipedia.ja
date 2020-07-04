@@ -17,7 +17,7 @@
 <!-- end list -->
 
   -
-    [イットリウム](https://ja.wikipedia.org/wiki/イットリウム "wikilink") (Y) 、 [ジルコニウム](../Page/ジルコニウム.md "wikilink") (Zr) 、[ニオブ](../Page/ニオブ.md "wikilink") (Nb) 、[モリブデン](../Page/モリブデン.md "wikilink") (Mo) 、[テクネチウム](../Page/テクネチウム.md "wikilink") (Tc) 、[ルテニウム](../Page/ルテニウム.md "wikilink") (Ru) 、[ロジウム](../Page/ロジウム.md "wikilink") (Rh) 、[パラジウム](../Page/パラジウム.md "wikilink") (Pd) 、[銀](https://ja.wikipedia.org/wiki/銀 "wikilink") (Ag) 、 [カドミウム](../Page/カドミウム.md "wikilink") (Cd)
+    [イットリウム](https://ja.wikipedia.org/wiki/イットリウム "wikilink") (Y) 、 [ジルコニウム](../Page/ジルコニウム.md "wikilink") (Zr) 、[ニオブ](../Page/ニオブ.md "wikilink") (Nb) 、[モリブデン](../Page/モリブデン.md "wikilink") (Mo) 、[テクネチウム](../Page/テクネチウム.md "wikilink") (Tc) 、[ルテニウム](../Page/ルテニウム.md "wikilink") (Ru) 、[ロジウム](../Page/ロジウム.md "wikilink") (Rh) 、[パラジウム](../Page/パラジウム.md "wikilink") (Pd) 、[銀](../Page/銀.md "wikilink") (Ag) 、 [カドミウム](../Page/カドミウム.md "wikilink") (Cd)
 
 <!-- end list -->
 

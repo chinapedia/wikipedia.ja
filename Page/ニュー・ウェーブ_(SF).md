@@ -19,7 +19,7 @@
 
 ### 運動の発生
 
-ニューウェーブの厳密な発生元についての共通認識は無いといってよい。（[アダム・ロバーツ](https://ja.wikipedia.org/wiki/アダム・ロバーツ "wikilink")は[アルフレッド・ベスター](../Page/アルフレッド・ベスター.md "wikilink")がこのジャンルを開拓したと主張し\[8\]、[マイケル・ムアコック](../Page/マイケル・ムアコック.md "wikilink")は[リイ・ブラケット](../Page/リイ・ブラケット.md "wikilink")を「真の教母」\[9\]の一人と称している。）しかし多くの評論家も認めるのは、ニューウェーブは1964年に[マイクル・ムアコック](https://ja.wikipedia.org/wiki/マイクル・ムアコック "wikilink")が編集長となった『[ニュー・ワールズ](https://ja.wikipedia.org/wiki/ニュー・ワールズ "wikilink")』誌で始まったということだ。\[10\]
+ニューウェーブの厳密な発生元についての共通認識は無いといってよい。（[アダム・ロバーツ](../Page/アダム・ロバーツ.md "wikilink")は[アルフレッド・ベスター](../Page/アルフレッド・ベスター.md "wikilink")がこのジャンルを開拓したと主張し\[8\]、[マイケル・ムアコック](../Page/マイケル・ムアコック.md "wikilink")は[リイ・ブラケット](../Page/リイ・ブラケット.md "wikilink")を「真の教母」\[9\]の一人と称している。）しかし多くの評論家も認めるのは、ニューウェーブは1964年に[マイクル・ムアコック](https://ja.wikipedia.org/wiki/マイクル・ムアコック "wikilink")が編集長となった『[ニュー・ワールズ](https://ja.wikipedia.org/wiki/ニュー・ワールズ "wikilink")』誌で始まったということだ。\[10\]
 
 [Michael_Moorcock_2012.jpg](https://ja.wikipedia.org/wiki/File:Michael_Moorcock_2012.jpg "fig:Michael_Moorcock_2012.jpg")（2012年）\]\] アメリカで[ゴールドスミスが編集していた](https://ja.wikipedia.org/wiki/:en:Cele_Goldsmith_Lalli "wikilink")『[アメージング・ストーリーズ](../Page/アメージング・ストーリーズ.md "wikilink")』誌や『[ファンタジイ・アンド・サイエンス・フィクション](https://ja.wikipedia.org/wiki/ファンタジイ・アンド・サイエンス・フィクション "wikilink")』誌が非日常的な物語を生み出していた時期に、ムアコックは新しい方針への転換を図った。『ニュー・ワールズ』は旧来のSF誌との差別化を模索し、1964年の復刊時からSF誌というよりは、[実験的](https://ja.wikipedia.org/wiki/:en:Experimental_literature "wikilink")[文芸雑誌](../Page/文芸雑誌.md "wikilink")のようなスタイルに変貌した。
 

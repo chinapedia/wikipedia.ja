@@ -11,7 +11,7 @@ IEコンポーネントブラウザではHTMLレンダリングエンジンをIn
 
 [プロキシ](../Page/プロキシ.md "wikilink")の切り替えや[JavaScript](../Page/JavaScript.md "wikilink")などの有効・無効を1、2回のクリックでできるなど、操作性の向上（IEの機能を基にしながらIE以上の操作性・機能性を持たせる）などを目的として、様々なブラウザが作られている。
 
-ちなみに、Windows版[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 4以降のレンダリングエンジンは[Trident](../Page/Trident.md "wikilink")、[Macintosh](../Page/Macintosh.md "wikilink")版の[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink") 5のレンダリングエンジンは[Tasman](https://ja.wikipedia.org/wiki/Tasman "wikilink")という。Tasmanに対応したIEコンポーネントブラウザは存在しない。
+ちなみに、Windows版[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 4以降のレンダリングエンジンは[Trident](../Page/Trident.md "wikilink")、[Macintosh](../Page/Macintosh.md "wikilink")版の[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink") 5のレンダリングエンジンは[Tasman](../Page/Tasman.md "wikilink")という。Tasmanに対応したIEコンポーネントブラウザは存在しない。
 
 ## 主なIEコンポーネントブラウザ
 

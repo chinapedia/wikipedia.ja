@@ -329,7 +329,7 @@ KID作品の[スクリプトエンジンは](../Page/スクリプトエンジン
   - [サイバーフロント](../Page/サイバーフロント.md "wikilink") - 旧キッド倒産後のブランド継承先
   - [5pb.](../Page/5pb..md "wikilink") - 『Memories Off』シリーズの権利を取得（旧キッドの主要スタッフが移籍）
   - [レジスタ](../Page/レジスタ_\(ゲーム会社\).md "wikilink") - 『infinity』シリーズ第3作の完成した後に[中澤工](../Page/中澤工.md "wikilink")ら一部のスタッフが移籍
-  - [ガイズウェア](https://ja.wikipedia.org/wiki/ガイズウェア "wikilink") - プロデューサーであった亀谷恒治が代表を務めるゲーム開発会社
+  - [ガイズウェア](../Page/ガイズウェア.md "wikilink") - プロデューサーであった亀谷恒治が代表を務めるゲーム開発会社
   - [塩田信之](https://ja.wikipedia.org/wiki/塩田信之_\(作曲家\) "wikilink") - 1989年から1999年まで所属していた[サウンドコンポーザー](../Page/作曲家.md "wikilink")
 
 ## 外部リンク

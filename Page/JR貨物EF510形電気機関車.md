@@ -7,7 +7,7 @@
 
 ## 概要
 
-[日本海縦貫線](../Page/日本海縦貫線.md "wikilink")・[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")などで[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）から長年使用されてきた交直両用電気機関車[EF81形の取替えを目的に開発された](../Page/国鉄EF81形電気機関車.md "wikilink")\[1\]。
+[日本海縦貫線](../Page/日本海縦貫線.md "wikilink")・[常磐線](https://ja.wikipedia.org/wiki/常磐線 "wikilink")などで[1968年](../Page/1968年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）から長年使用されてきた交直両用電気機関車[EF81形の取替えを目的に開発された](../Page/国鉄EF81形電気機関車.md "wikilink")\[1\]。
 
 日本海縦貫線は区間内が直流・交流 (60 [Hz](../Page/ヘルツ.md "wikilink")) ・交流 (50 Hz) の異なる方式で[電化され](../Page/鉄道の電化.md "wikilink")、これまで同区間を通して運転される機関車牽引列車はEF81形を使用してきた。[JR移行直後から後継機の開発が開始され](../Page/国鉄分割民営化.md "wikilink")、同区間用として[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に[EF500形が試作された](../Page/JR貨物EF500形電気機関車.md "wikilink")。定格出力 6,000 [kW](../Page/ワット.md "wikilink") の同形式は輸送量に比べ過大な出力や技術上の問題などで量産に至らず、輸送量に適合した性能を有する新型機関車の開発が以後の課題とされた。
 

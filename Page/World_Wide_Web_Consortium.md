@@ -111,7 +111,7 @@ W3C/[インターネット技術標準化委員会 (IETF)](https://ja.wikipedia.
 
   - [WSDL](../Page/Web_Services_Description_Language.md "wikilink")
 
-  - [XAdES](https://ja.wikipedia.org/wiki/XAdES "wikilink")
+  - [XAdES](../Page/XAdES.md "wikilink")
 
   - [XForms](../Page/XForms.md "wikilink")
 

@@ -7,9 +7,9 @@
 
 ## 概要
 
-FeliCaは、非接触型ICカードのための[通信](../Page/通信.md "wikilink")技術として、ソニーが開発した。非接触型ICカードは、リーダ・ライタから[キャリアを送信して](https://ja.wikipedia.org/wiki/搬送波 "wikilink")[電磁誘導](../Page/電磁誘導.md "wikilink")によりICカードに電力を供給し、キャリアの[変調](https://ja.wikipedia.org/wiki/変調 "wikilink")によりリーダ・ライタとカード間で通信を行う。例えば[ISO/IEC 14443で規格化されているTYPE](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink") B方式は、[ASK](https://ja.wikipedia.org/wiki/振幅偏移変調 "wikilink")10%で変調を行い、[NRZ符号を採用しているのに対してFeliCaの方式は変調が](https://ja.wikipedia.org/wiki/Non-return-to-zero "wikilink")[ASK](https://ja.wikipedia.org/wiki/ASK "wikilink")10%と同じであるが、マンチェスタ (Manchester) 符号を採用しているところが異なる。
+FeliCaは、非接触型ICカードのための[通信](../Page/通信.md "wikilink")技術として、ソニーが開発した。非接触型ICカードは、リーダ・ライタから[キャリアを送信して](https://ja.wikipedia.org/wiki/搬送波 "wikilink")[電磁誘導](../Page/電磁誘導.md "wikilink")によりICカードに電力を供給し、キャリアの[変調](https://ja.wikipedia.org/wiki/変調 "wikilink")によりリーダ・ライタとカード間で通信を行う。例えば[ISO/IEC 14443で規格化されているTYPE](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink") B方式は、[ASK](../Page/振幅偏移変調.md "wikilink")10%で変調を行い、[NRZ符号を採用しているのに対してFeliCaの方式は変調が](https://ja.wikipedia.org/wiki/Non-return-to-zero "wikilink")[ASK](https://ja.wikipedia.org/wiki/ASK "wikilink")10%と同じであるが、マンチェスタ (Manchester) 符号を採用しているところが異なる。
 
-当初、[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")にISO/IEC 14443 TYPE Cとして提案を行った。同時にTYPE D〜Gまでが提案されたが「[近距離無線通信](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")規格の乱立になる」として、[国際規格](../Page/国際規格.md "wikilink")議論が停止され採用されなかった。その後、FeliCaと上位互換性のある方式が[ISO/IEC 18092 (Near Field Communication, NFC TYPE-F)](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink") として規格化された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[JICSAP](https://www.jicsap.com/)（[一般社団法人 ID認証技術推進協会](https://ja.wikipedia.org/wiki/ID認証技術推進協会 "wikilink")） ICカード仕様V2.0「第4部 高速処理用ICカード」や、[日本鉄道サイバネティクス協議会](https://ja.wikipedia.org/wiki/日本鉄道サイバネティクス協議会 "wikilink")でのICカード規定として規格化されている。
+当初、[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")にISO/IEC 14443 TYPE Cとして提案を行った。同時にTYPE D〜Gまでが提案されたが「[近距離無線通信](../Page/近距離無線通信.md "wikilink")規格の乱立になる」として、[国際規格](../Page/国際規格.md "wikilink")議論が停止され採用されなかった。その後、FeliCaと上位互換性のある方式が[ISO/IEC 18092 (Near Field Communication, NFC TYPE-F)](../Page/近距離無線通信.md "wikilink") として規格化された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[JICSAP](https://www.jicsap.com/)（[一般社団法人 ID認証技術推進協会](https://ja.wikipedia.org/wiki/ID認証技術推進協会 "wikilink")） ICカード仕様V2.0「第4部 高速処理用ICカード」や、[日本鉄道サイバネティクス協議会](https://ja.wikipedia.org/wiki/日本鉄道サイバネティクス協議会 "wikilink")でのICカード規定として規格化されている。
 
 FeliCaは通常のICカードと同様に、キャッシュカードやIDカードなどに適用可能な技術である。特に高速処理が求められる、[自動改札機](../Page/自動改札機.md "wikilink")や建物入館の[セキュリティゲート](https://ja.wikipedia.org/wiki/セキュリティゲート "wikilink")や、[キャッシュレジスター](../Page/キャッシュレジスター.md "wikilink")のアプリケーション向けに特化したコマンド体系になっている。そのため、ISO 7816-3の基本コマンドとは互換性はない。また、ICチップ内部のメモリは16バイト固定長のレコードのみがサポートされていて、で規定されているファイル構造との互換性はない。
 
@@ -155,12 +155,12 @@ FACTAはゴシップ誌としての性質があり、この記事はソニー批
   - [おサイフケータイ](../Page/おサイフケータイ.md "wikilink")
   - [フェリカネットワークス](../Page/フェリカネットワークス.md "wikilink")
   - [RFID](../Page/RFID.md "wikilink")
-  - [MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink") - 主に欧米で利用されている非接触ICカード通信規格
+  - [MIFARE](../Page/MIFARE.md "wikilink") - 主に欧米で利用されている非接触ICカード通信規格
       - [taspo](https://ja.wikipedia.org/wiki/taspo "wikilink") - 日本で使われている[たばこ](../Page/たばこ.md "wikilink")の[自動販売機](../Page/自動販売機.md "wikilink")成人認証用カード
   - [FeliCaポート](../Page/FeliCaポート.md "wikilink")
       - [PaSoRi](../Page/PaSoRi.md "wikilink")
   - [TransferJet](https://ja.wikipedia.org/wiki/TransferJet "wikilink")
-  - [ISO/IEC 18092 (Near Field Communication, NFC)](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink") - NFC Type Fとして規格化
+  - [ISO/IEC 18092 (Near Field Communication, NFC)](../Page/近距離無線通信.md "wikilink") - NFC Type Fとして規格化
   - [ガラパゴス化](https://ja.wikipedia.org/wiki/ガラパゴス化 "wikilink")
   - [ガラパゴススマートフォン](https://ja.wikipedia.org/wiki/ガラパゴススマートフォン "wikilink")
 

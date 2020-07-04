@@ -126,7 +126,7 @@
   - 絵を描くのが得意であり、GLAYの作品や活動等で披露する事もある。また、GLAYのマスコットキャラクターであるズラーは彼の落書きから生まれたものである。
   - 趣味は[料理](../Page/料理.md "wikilink")であり、その腕前はメンバーも絶賛するほどである。
   - 好きな食べ物は鶏の唐揚げ。本人曰く、「肉料理の王様」。しかし、幼い頃に鳥（雀）に襲われた経験から、鳥（特に小鳥）自体は嫌いである。「[BEAUTIFUL DREAMER](https://ja.wikipedia.org/wiki/BEAUTIFUL_DREAMER/STREET_LIFE "wikilink")」のPVで鷹を手懐けるシーンでは後に「とても怖かった」と語っている。
-  - 好きな街のひとつに[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")をあげていて、[Twitter](../Page/Twitter.md "wikilink")や京都でのライブやイベントの度に公言したり、プライベートでも比較的頻繁に京都を訪ねては散策するほどお気に入りである。
+  - 好きな街のひとつに[京都](../Page/京都.md "wikilink")をあげていて、[Twitter](../Page/Twitter.md "wikilink")や京都でのライブやイベントの度に公言したり、プライベートでも比較的頻繁に京都を訪ねては散策するほどお気に入りである。
   - ファンの間では「天然」キャラとして知られ、その不可思議な言動等が親しまれている。
   - 早寝・早起きの朝型人間である\[34\]。メンバーではJIROも同様であるが、HISASHIは本人曰く「TERUが起きる頃に寝る」。
   - GLAYとしてはボーカルの他に[ギター](../Page/ギター.md "wikilink")、[ブルースハープ](https://ja.wikipedia.org/wiki/ブルースハープ "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")などを演奏することもある。また、前述のようにGLAY結成当初はドラムを担当していた。自身作詞作曲の「Little Lovebirds」ではドラムを演奏している他、「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」の[PVでドラムを叩いているシーンが見られる](../Page/ミュージック・ビデオ.md "wikilink")。

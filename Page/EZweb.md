@@ -89,7 +89,7 @@ auの[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン
 
   - [iモード](https://ja.wikipedia.org/wiki/iモード "wikilink") - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
   - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink") - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")
-  - [EMnet](https://ja.wikipedia.org/wiki/EMnet "wikilink") - [イー・モバイル](../Page/イー・モバイル.md "wikilink")（現・ソフトバンク [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ブランド）
+  - [EMnet](../Page/EMnet.md "wikilink") - [イー・モバイル](../Page/イー・モバイル.md "wikilink")（現・ソフトバンク [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ブランド）
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@ auの[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン
 
 <!-- end list -->
 
-  - [契約者固有ID](https://ja.wikipedia.org/wiki/契約者固有ID "wikilink")
+  - [契約者固有ID](../Page/契約者固有ID.md "wikilink")
 
 ## 外部リンク
 

@@ -330,7 +330,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/エンジェル・フェスタ!" title="wikilink">エンジェル・フェスタ!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鏡遊" title="wikilink">鏡遊</a></p></td>
+<td><p><a href="../Page/鏡遊.md" title="wikilink">鏡遊</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川上哲也" title="wikilink">川上哲也</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
@@ -576,7 +576,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/彼女に耳としっぽがついてる理由を説明できない。" title="wikilink">彼女に耳としっぽがついてる理由を説明できない。</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三上康明" title="wikilink">三上康明</a></p></td>
+<td><p><a href="../Page/三上康明.md" title="wikilink">三上康明</a></p></td>
 <td><p><a href="../Page/稲垣みいこ.md" title="wikilink">稲垣みいこ</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
@@ -2238,7 +2238,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/星を追う子ども" title="wikilink">星を追う子ども</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あきさかあさひ" title="wikilink">あきさかあさひ</a><br />
 <small>原作：新海誠</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村貴世" title="wikilink">西村貴世</a>他</p></td>
+<td><p><a href="../Page/西村貴世.md" title="wikilink">西村貴世</a>他</p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">

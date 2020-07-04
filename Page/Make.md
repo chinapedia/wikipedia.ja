@@ -19,7 +19,7 @@ Feldman は、変更されたが実行可能ファイルが誤って更新され
 
 ## 互換性
 
-Linux Standard Baseでも指定コマンドになっている\[1\]。最近では[CMake](https://ja.wikipedia.org/wiki/CMake "wikilink")を使う場合がある。
+Linux Standard Baseでも指定コマンドになっている\[1\]。最近では[CMake](../Page/CMake.md "wikilink")を使う場合がある。
 
 makeには互換性のない亜種が存在する。同様のツールとして[rake](https://ja.wikipedia.org/wiki/rake_\(ソフトウェア\) "wikilink")（[Ruby](../Page/Ruby.md "wikilink")用）、setup（[Python](../Page/Python.md "wikilink")用）がある。
 
@@ -40,7 +40,7 @@ makeには互換性のない亜種が存在する。同様のツールとして[
   - [Apache Ant](../Page/Apache_Ant.md "wikilink") - Java用のmake
   - [SCons](https://ja.wikipedia.org/wiki/SCons "wikilink") - makeの代替ユーティリティ
   - [Ninja](https://ja.wikipedia.org/wiki/Ninja_\(ソフトウェア\) "wikilink") - makeの代替ユーティリティ
-  - [CMake](https://ja.wikipedia.org/wiki/CMake "wikilink") - クロスプラットフォームでオープンソースなビルドシステム
+  - [CMake](../Page/CMake.md "wikilink") - クロスプラットフォームでオープンソースなビルドシステム
   - [Meson](https://ja.wikipedia.org/wiki/Meson_\(ソフトウェア\) "wikilink") - クロスプラットフォームでオープンソースなビルドシステム
   - [NAnt](https://ja.wikipedia.org/wiki/NAnt "wikilink") - .NET Frameworkで使用できるオープンソースのビルドシステム
   - [MSBuild](https://ja.wikipedia.org/wiki/MSBuild "wikilink") - .NET Frameworkで構築されたマイクロソフト標準のビルドシステム

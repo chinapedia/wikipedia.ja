@@ -292,7 +292,7 @@
   - [オースン・スコット・カード](../Page/オースン・スコット・カード.md "wikilink") (Orson Scott Card)
   - [ヘンリー・カットナー](../Page/ヘンリー・カットナー.md "wikilink") (Henry Kuttner)
   - [レイ・カミングス](../Page/レイ・カミングス.md "wikilink") (Ray Cummings)
-  - [レイモンド・Z・ガラン](https://ja.wikipedia.org/wiki/レイモンド・Z・ガラン "wikilink")（Raymond Z. Gallun）
+  - [レイモンド・Z・ガラン](../Page/レイモンド・Z・ガラン.md "wikilink")（Raymond Z. Gallun）
   - [ジェイムズ・E・ガン](../Page/ジェイムズ・E・ガン_\(小説家\).md "wikilink") (James E. Gunn)
   - [ヒューゴー・ガーンズバック](../Page/ヒューゴー・ガーンズバック.md "wikilink")（Hugo Gernsback）
   - [ウィリアム・ギブスン](../Page/ウィリアム・ギブスン.md "wikilink") (William Gibson)

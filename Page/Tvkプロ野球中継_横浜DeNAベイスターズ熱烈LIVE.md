@@ -9,7 +9,7 @@
 
 [1972年](../Page/1972年.md "wikilink")3月、[4月1日](../Page/4月1日.md "wikilink")の開局を目前に控え、[試験放送](../Page/試験放送.md "wikilink")を行っていたテレビ神奈川（TVK）が[大洋ホエールズ対](../Page/横浜DeNAベイスターズ.md "wikilink")[南海ホークスの](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[オープン戦](../Page/オープン戦.md "wikilink")（[横浜公園平和球場](https://ja.wikipedia.org/wiki/横浜公園平和球場 "wikilink")）を中継したのが、TVKにおけるプロ野球中継の始まりである\[1\]。
 
-以来、[川崎球場](../Page/川崎球場.md "wikilink")を[本拠地としていた大洋](https://ja.wikipedia.org/wiki/専用球場 "wikilink")（1978年からは、[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")への移転に伴い、横浜大洋ホエールズ）の試合を積極的に中継してきた。その間、[1973年](../Page/1973年.md "wikilink")8月に[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")（神宮球場）で初のナイター中継を行った\[2\]。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月には、横浜スタジアムの竣工記念として行われた対[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（巨人）戦が完全放送されている\[3\]。横浜移転後は、大洋戦のほか[ロッテ・オリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink") （川崎球場）、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（神宮球場）の主催ゲームを中心に、[サンテレビのネット受けで](../Page/サンテレビジョン.md "wikilink")[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦なども放送してきたが、[1993年](../Page/1993年.md "wikilink")に大洋が横浜ベイスターズにチーム名を変更すると同時に、地元密着型の放送へ切り換えている。
+以来、[川崎球場](../Page/川崎球場.md "wikilink")を[本拠地としていた大洋](https://ja.wikipedia.org/wiki/専用球場 "wikilink")（1978年からは、[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")への移転に伴い、横浜大洋ホエールズ）の試合を積極的に中継してきた。その間、[1973年](../Page/1973年.md "wikilink")8月に[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")（神宮球場）で初のナイター中継を行った\[2\]。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月には、横浜スタジアムの竣工記念として行われた対[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（巨人）戦が完全放送されている\[3\]。横浜移転後は、大洋戦のほか[ロッテ・オリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink") （川崎球場）、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")（神宮球場）の主催ゲームを中心に、[サンテレビのネット受けで](../Page/サンテレビジョン.md "wikilink")[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦なども放送してきたが、[1993年](../Page/1993年.md "wikilink")に大洋が横浜ベイスターズにチーム名を変更すると同時に、地元密着型の放送へ切り換えている。
 
 また、横浜主催分は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[J SPORTS（旧：SKY Sports→Jスカイスポーツ）でも同時放送しており](../Page/J_SPORTS.md "wikilink")、プレイボールからゲームセットまで完全中継していた\[4\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1991年](../Page/1991年.md "wikilink")まではTVKでも試合終了まで放送していたが、[1992年](../Page/1992年.md "wikilink")からは最大延長が21時50分までとなった。例外として、ベイスターズが優勝争いの佳境に差し掛かっていた[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズン終盤は『**ベイスターズ・スペシャルナイター**』と題して特別に放送全カードを試合終了まで中継し、38年ぶりのリーグ優勝決定試合も生中継することができた\[5\]。
 
@@ -31,7 +31,7 @@ tvkは自社でHD対応の大型中継車を所有していないため、球団
 
 ### 複数カード中継時代
 
-  - 『**TVKハイアップナイター**』（1970年代 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - 『**TVKハイアップナイター**』（1970年代 - [1986年](../Page/1986年.md "wikilink")）
       -
         大洋戦のほか、ロッテ、ヤクルト、日本ハム（[後楽園球場](../Page/後楽園球場.md "wikilink")）、阪神戦を放送。大洋がビジター遠征で、かつヤクルト、ロッテがホームゲームを実施する日にはヤクルト、ロッテの主催試合もTVKが自社製作して放送を行っていた。なお[ジプシー・ロッテ](../Page/ジプシー・ロッテ.md "wikilink")時代に[京都市西京極総合運動公園野球場](../Page/京都市西京極総合運動公園野球場.md "wikilink")で行っていたロッテの主管試合（[1973年](../Page/1973年.md "wikilink")[9月](../Page/9月.md "wikilink")）は[近畿放送（現・KBS京都）が制作したものをネットしたことがあった](../Page/京都放送.md "wikilink")。
         また、[日本テレビ制作の巨人戦](../Page/日本テレビ放送網.md "wikilink")（後楽園）の[トップ&リレー中継なども放送していた](../Page/プロ野球トップ&リレー中継.md "wikilink")。
@@ -289,7 +289,7 @@ tvk自社制作中継ではホエールズ・ベイスターズOBにほぼ限定
 
 <!-- end list -->
 
-  - [大矢陽子](https://ja.wikipedia.org/wiki/大矢陽子 "wikilink")（2004年 - 2005年。オフィシャルリポーター）
+  - [大矢陽子](../Page/大矢陽子.md "wikilink")（2004年 - 2005年。オフィシャルリポーター）
   - [吉岡さちこ](../Page/吉岡さちこ.md "wikilink")（2005年 - 2009年。オフィシャルリポーター）
   - [芦崎愛](https://ja.wikipedia.org/wiki/芦崎愛 "wikilink")（2010年 - 2011年。オフィシャルリポーター。球団制作の一部試合のみ登場）
   - [ケチャップ](../Page/ケチャップ_\(タレント\).md "wikilink")（球団制作の一部試合のみ登場）
@@ -377,7 +377,7 @@ TBSニュースバード制作中継を放送する際、
   - [東通](https://ja.wikipedia.org/wiki/東通 "wikilink")（技術協力）
   - [プロ野球トップ&リレー中継](../Page/プロ野球トップ&リレー中継.md "wikilink")
   - [雨傘番組](../Page/雨傘番組.md "wikilink")
-  - [ハマスタWAVE](https://ja.wikipedia.org/wiki/ハマスタWAVE "wikilink")
+  - [ハマスタWAVE](../Page/ハマスタWAVE.md "wikilink")
 
 ## 外部リンク
 

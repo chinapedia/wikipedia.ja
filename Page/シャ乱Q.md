@@ -7,18 +7,18 @@
 
 ## メンバー
 
-  - **[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月29日](../Page/10月29日.md "wikilink") - ）<small>（歳）</small>**
+  - **[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[1968年](../Page/1968年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink") - ）<small>（歳）</small>**
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")担当。
-  - **[はたけ](../Page/はたけ.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）<small>（歳）</small>**
+  - **[はたけ](../Page/はたけ.md "wikilink")（[1968年](../Page/1968年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）<small>（歳）</small>**
       - [ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、作曲担当。[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。
-  - **[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月31日](../Page/12月31日.md "wikilink") - ）<small>（歳）</small>**
+  - **[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")（[1968年](../Page/1968年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") - ）<small>（歳）</small>**
       - [ドラムス](../Page/ドラムセット.md "wikilink")、作詞担当。
   - **[たいせい](../Page/たいせい.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") - ）<small>（歳）</small>**
       - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、作曲担当。
 
 ### 旧メンバー
 
-  - **[しゅう](../Page/しゅう.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）<small>（歳）</small>**
+  - **[しゅう](../Page/しゅう.md "wikilink")（[1968年](../Page/1968年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）<small>（歳）</small>**
       - ベース、作曲担当。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")脱退。
 
 ## 来歴

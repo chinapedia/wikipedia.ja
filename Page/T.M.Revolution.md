@@ -611,7 +611,7 @@
 | 5th  | 2000年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")                              | **[progress](https://ja.wikipedia.org/wiki/progress_\(T.M.Revolutionのアルバム\) "wikilink")**             | 3位※ |
 | 6th  | [2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | **[coordinate](https://ja.wikipedia.org/wiki/coordinate "wikilink")**                                 | 9位※ |
 | 7th  | 2004年[3月17日](../Page/3月17日.md "wikilink")                                                   | **[SEVENTH HEAVEN](https://ja.wikipedia.org/wiki/SEVENTH_HEAVEN_\(T.M.Revolutionのアルバム\) "wikilink")** | 6位★ |
-| 8th  | 2005年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")                                | **[vertical infinity](https://ja.wikipedia.org/wiki/vertical_infinity "wikilink")**                   | 3位  |
+| 8th  | 2005年[1月26日](../Page/1月26日.md "wikilink")                                                   | **[vertical infinity](https://ja.wikipedia.org/wiki/vertical_infinity "wikilink")**                   | 3位  |
 | 9th  | 2011年[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")                                | **[CLOUD NINE](https://ja.wikipedia.org/wiki/CLOUD_NINE "wikilink")**                                 | 2位  |
 | 10th | 2015年[5月13日](../Page/5月13日.md "wikilink")                                                   | **[天](https://ja.wikipedia.org/wiki/天_\(T.M.Revolutionのアルバム\) "wikilink")**                           | 2位  |
 

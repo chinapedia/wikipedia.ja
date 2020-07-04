@@ -29,7 +29,7 @@
 
 [デジタル放送](../Page/デジタル放送.md "wikilink")の録画は、[デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")（デッキ単体・内蔵テレビ）と[RCA端子](../Page/RCA端子.md "wikilink")（[S端子](../Page/S端子.md "wikilink")含む）で[コンポジット](../Page/コンポジット映像信号.md "wikilink")（アナログ）接続し、出力された[標準画質](https://ja.wikipedia.org/wiki/標準画質 "wikilink")を内蔵HDDへ[ムーブする方法しか無かった](https://ja.wikipedia.org/wiki/コピーワンス "wikilink")。[コピーワンス](https://ja.wikipedia.org/wiki/コピーワンス "wikilink")のため[CPRM](../Page/CPRM.md "wikilink")非対応の初代機種ではこのムーブは不可である。
 
-2011年7月に地上波アナログ放送とBSアナログ放送の停波を迎えたため、[デジアナ変換されていない住宅では本機単体でのテレビ放送の録画が不可能となるため注意が必要である](https://ja.wikipedia.org/wiki/2011年問題_\(日本のテレビジョン放送\) "wikilink")。
+2011年7月に地上波アナログ放送とBSアナログ放送の停波を迎えたため、[デジアナ変換されていない住宅では本機単体でのテレビ放送の録画が不可能となるため注意が必要である](../Page/2011年問題_\(日本のテレビジョン放送\).md "wikilink")。
 
 ### PlayStation 2機能
 

@@ -99,7 +99,7 @@ CD-ROM流通のCDは、メーカーからPCソフト[問屋](../Page/問屋.md "
   - [CD-R](../Page/CD-R.md "wikilink")
   - [CD-RW](../Page/CD-RW.md "wikilink")
   - [Live CD](../Page/Live_CD.md "wikilink")
-  - [スーパー・ハイ・マテリアルCD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")
+  - [スーパー・ハイ・マテリアルCD](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")
   - [CD EXTRA](../Page/CD_EXTRA.md "wikilink")
   - [光学ドライブ](../Page/光学ドライブ.md "wikilink")
 

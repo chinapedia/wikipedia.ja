@@ -99,7 +99,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1969-70" title="wikilink">1969-70</a></p></td>
 <td><p><strong><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p><a href="../Page/エルンスト・ハッペル・シュターディオン.md" title="wikilink">プラーター</a>（<a href="https://ja.wikipedia.org/wiki/ウィーン" title="wikilink">ウィーン</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -586,7 +586,7 @@
 <td><p>1966</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td></td>

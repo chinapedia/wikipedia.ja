@@ -5,7 +5,7 @@
 
 ## 概要
 
-[FUNK](../Page/ファンク.md "wikilink")＋[PUNK](../Page/パンク・ロック.md "wikilink")＋[FANSを語源としている](../Page/ファン.md "wikilink")[造語](../Page/造語.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売の[シングル](../Page/シングル.md "wikilink")「[Come on Let's Dance (This is the FANKS DYNA-MIX)](../Page/Come_on_Let's_Dance_\(This_is_the_FANKS_DYNA-MIX\).md "wikilink")」で初めて提唱された。そして、同曲をリードシングルとするアルバム「[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")」においては、FANKSの中に“Powerful and Tenderness”というキーワードを込めている。
+[FUNK](../Page/ファンク.md "wikilink")＋[PUNK](../Page/パンク・ロック.md "wikilink")＋[FANSを語源としている](../Page/ファン.md "wikilink")[造語](../Page/造語.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売の[シングル](../Page/シングル.md "wikilink")「[Come on Let's Dance (This is the FANKS DYNA-MIX)](../Page/Come_on_Let's_Dance_\(This_is_the_FANKS_DYNA-MIX\).md "wikilink")」で初めて提唱された。そして、同曲をリードシングルとするアルバム「[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")」においては、FANKSの中に“Powerful and Tenderness”というキーワードを込めている。
 
 その後、**FANKS**は『TM NETWORK TOUR '86 FANKS DYNA☆MIX』、『TM NETWORK TOUR '87 FANKS\! BANG THE GONG』、『TM NETWORK FANKS CRY-MAX』とライブツアーのタイトルに使われ、彼らの初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")は「ファンへのお中元」の意味を込めて『[Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")』と名づけられており、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")末発売のアルバム「[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")」まではFANKSという言葉を積極的に使用していた。
 

@@ -137,11 +137,11 @@
   - [零 月蝕の仮面](https://ja.wikipedia.org/wiki/零_\(ゲーム\)#零_月蝕の仮面 "wikilink")（コンテンツアイコン：「恐怖」）
   - [007 慰めの報酬](https://ja.wikipedia.org/wiki/007_慰めの報酬_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
   - [WWE 2008 SmackDown vs Raw](../Page/WWE_2008_SmackDown_vs_Raw.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
-  - [DISASTER DAY OF CRISIS](https://ja.wikipedia.org/wiki/DISASTER_DAY_OF_CRISIS "wikilink")（コンテンツアイコン：「暴力」）
+  - [DISASTER DAY OF CRISIS](../Page/DISASTER_DAY_OF_CRISIS.md "wikilink")（コンテンツアイコン：「暴力」）
   - [天誅4](https://ja.wikipedia.org/wiki/天誅_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
   - [トゥームレイダー アンダーワールド](../Page/トゥームレイダー.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ネクロネシア](https://ja.wikipedia.org/wiki/ネクロネシア "wikilink")（コンテンツアイコン：「暴力」）
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")（コンテンツアイコン：「暴力」）
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")（コンテンツアイコン：「暴力」）
       - [バイオハザード0](../Page/バイオハザード0.md "wikilink") <small>\*Best Price\!版は2011年6月以降の発売分より黒色パッケージでの発売</small>
       - [バイオハザード アンブレラ・クロニクルズ](../Page/バイオハザード_アンブレラ・クロニクルズ.md "wikilink")
   - [メダル・オブ・オナー ヒーローズ2](../Page/メダル・オブ・オナー_ヒーローズ2.md "wikilink")（コンテンツアイコン：「暴力」）
@@ -200,7 +200,7 @@
   - [真・女神転生 STRANGE JOURNEY](https://ja.wikipedia.org/wiki/真・女神転生_STRANGE_JOURNEY "wikilink")（コンテンツアイコン：「犯罪」）
   - [ストライクウィッチーズ いやす・なおす・ぷにぷにする](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")2（コンテンツアイコン：「セクシャル」） <small>\*ストライクウィッチーズ -蒼空の電撃戦 新隊長 奮闘する\!-は全年齢対象</small>
   - [生徒会の一存 -DSする生徒会-](https://ja.wikipedia.org/wiki/生徒会の一存 "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [そらのおとしもの フォルテ ドリーミーシーズン](https://ja.wikipedia.org/wiki/そらのおとしもの "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [そらのおとしもの フォルテ ドリーミーシーズン](../Page/そらのおとしもの.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - タッチde楽勝\! パチスロ宣言 [リオデカーニバル](../Page/リオデカーニバル.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [探偵 神宮寺三郎シリーズ](https://ja.wikipedia.org/wiki/探偵_神宮寺三郎シリーズ "wikilink")
       - 探偵 神宮寺三郎DS いにしえの記憶（コンテンツアイコン：「ギャンブル」）
@@ -259,7 +259,7 @@
   - ゴールデンアイ ダーク・エージェント（コンテンツアイコン：「犯罪」）
   - [007 エブリシング オア ナッシング](../Page/007_エブリシング_オア_ナッシング.md "wikilink")（コンテンツアイコン：「暴力」）
   - WWE デイ・オブ・レコニング（コンテンツアイコン：「セクシャル、暴力」）
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")（コンテンツアイコン：「不明（実際は「暴力」）」）
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")（コンテンツアイコン：「不明（実際は「暴力」）」）
       - [バイオハザード2](../Page/バイオハザード2.md "wikilink")（再発版のみ）
       - [バイオハザード0](../Page/バイオハザード0.md "wikilink")
   - [メダル・オブ・オナー ライジングサン](../Page/メダル・オブ・オナー_ライジングサン.md "wikilink")（コンテンツアイコン：「不明」）
@@ -374,7 +374,7 @@ PlayStation Vita
       - BLAZBLUE -CONTINUUM SHIFT EXTEND-
       - BLAZBLUE -CHRONOPHANTASMA-
       - BLAZBLUE -CHRONOPHANTASMA EXTEND-
-  - [ペルソナ4 ザ・ゴールデン](https://ja.wikipedia.org/wiki/ペルソナ4 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [ペルソナ4 ザ・ゴールデン](../Page/ペルソナ4.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [Unit 13](https://ja.wikipedia.org/wiki/Unit_13 "wikilink")（コンテンツアイコン：「暴力」）
   - [夜廻](https://ja.wikipedia.org/wiki/夜廻 "wikilink")（コンテンツアイコン：「暴力」）
   - [ラグナロク オデッセイ](https://ja.wikipedia.org/wiki/ラグナロク_オデッセイ "wikilink")（コンテンツアイコン：「暴力」）
@@ -577,7 +577,7 @@ PlayStation Vita
   - [戦律のストラタス](https://ja.wikipedia.org/wiki/戦律のストラタス "wikilink")（コンテンツアイコン：「暴力」）
   - [ソウルキャリバー Broken Destiny](https://ja.wikipedia.org/wiki/ソウルキャリバー_Broken_Destiny "wikilink")（コンテンツアイコン：「セクシャル」）
   - [SOCOM: U.S. Navy SEALs Portable](https://ja.wikipedia.org/wiki/SOCOM:_U.S._Navy_SEALs_Portable "wikilink")（コンテンツアイコン：「暴力」）
-  - [そらのおとしもの ドキドキサマーバケーション](https://ja.wikipedia.org/wiki/そらのおとしもの "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [そらのおとしもの ドキドキサマーバケーション](../Page/そらのおとしもの.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [D.C.III Plus 〜ダ・カーポIII プラス〜](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")（コンテンツアイコン：「セクシャル」）
   - 007 ロシアより愛をこめて（コンテンツアイコン：「恋愛」）
@@ -596,7 +596,7 @@ PlayStation Vita
   - [TRICK×LOGIC](https://ja.wikipedia.org/wiki/トリックロジック "wikilink")（Season1・Season2とも）（コンテンツアイコン：「暴力」）
   - [ドリームクラブ ポータブル](https://ja.wikipedia.org/wiki/ドリームクラブ "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ナノダイバー](https://ja.wikipedia.org/wiki/ナノダイバー "wikilink")（コンテンツアイコン：「???」）
-  - [奈落の城 PORTABLE 一柳和、2度目の受難](https://ja.wikipedia.org/wiki/奈落の城_一柳和、2度目の受難 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [奈落の城 PORTABLE 一柳和、2度目の受難](../Page/奈落の城_一柳和、2度目の受難.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Never7 -the end of infinity-](https://ja.wikipedia.org/wiki/Never7_-the_end_of_infinity- "wikilink")（コンテンツアイコン：「セクシャル」）
   - [鋼の錬金術師 FULLMETAL ALCHEMIST 約束の日へ](https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST_約束の日へ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [薄桜鬼シリーズ](https://ja.wikipedia.org/wiki/薄桜鬼_〜新選組奇譚〜 "wikilink") <small>\*薄桜鬼 遊戯録は全年齢対象、薄桜鬼 随想録 ポータブルは12才以上対象</small>
@@ -825,7 +825,7 @@ PlayStation Vita
   - [センチメンタルプレリュード](../Page/センチメンタルプレリュード.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [空色の風琴 Remix](../Page/空色の風琴.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [大脱走 THE GREAT ESCAPE](https://ja.wikipedia.org/wiki/大脱走_THE_GREAT_ESCAPE "wikilink")（コンテンツアイコン：「暴力」）
-  - [D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [W〜ウィッシュ〜](../Page/W〜ウィッシュ〜.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [007シリーズ](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")
       - [007 ナイトファイア](../Page/007_ナイトファイア.md "wikilink")（『EA BEST HITS 007 ナイトファイア&007 エブリシング オア ナッシング』同梱版）（コンテンツアイコン：「暴力」）
@@ -888,7 +888,7 @@ PlayStation Vita
 
   - [ななついろ★ドロップス Pure\!\!](../Page/ななついろ★ドロップス.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル、飲酒・喫煙」）
 
-  - [奈落の城 一柳和、2度目の受難](https://ja.wikipedia.org/wiki/奈落の城_一柳和、2度目の受難 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [奈落の城 一柳和、2度目の受難](../Page/奈落の城_一柳和、2度目の受難.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
 
   - [NUGA-CEL\!](https://ja.wikipedia.org/wiki/NUGA-CEL! "wikilink")（コンテンツアイコン：「セクシャル」）
 
@@ -989,7 +989,7 @@ PlayStation Vita
 
   - [魔女っ娘ア・ラ・モードII 〜魔法と剣のストラグル〜](https://ja.wikipedia.org/wiki/魔女っ娘ア・ラ・モードII_〜魔法と剣のストラグル〜 "wikilink")（コンテンツアイコン：「セクシャル」）
 
-  - [マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")（コンテンツアイコン：「暴力」）
+  - [マーセナリーズ](../Page/マーセナリーズ.md "wikilink")（コンテンツアイコン：「暴力」）
 
   - [マーセナリーズ2 ワールド イン フレームス](../Page/マーセナリーズ2_ワールド_イン_フレームス.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
 

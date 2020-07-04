@@ -1,13 +1,13 @@
 > この記事は[WEEKEND Hi!](https://ja.wikipedia.org/wiki/WEEKEND_Hi!)から翻訳されています。
 
 
-**WEEKEND Hi\!**（ウィークエンド ハイ）は、[1990年代](../Page/1990年代.md "wikilink")に関東圏の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")・[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[東京](../Page/東京都.md "wikilink")・[代々木](../Page/代々木.md "wikilink")にあるFM-FUJI東京支社スタジオ[STUDIO ViViDから生放送されていた](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")。
+**WEEKEND Hi\!**（ウィークエンド ハイ）は、[1990年代](../Page/1990年代.md "wikilink")に関東圏の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")・[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[東京](../Page/東京都.md "wikilink")・[代々木](../Page/代々木.md "wikilink")にあるFM-FUJI東京支社スタジオ[STUDIO ViViDから生放送されていた](../Page/STUDIO_ViViD.md "wikilink")。
 
 ## 概要
 
 [1992年](../Page/1992年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に放送開始、毎週土曜日夜21:00から24:00（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")より～23:55 ）までの3時間にわたって生放送。パーソナリティは[音楽評論家](../Page/音楽評論家.md "wikilink")の[大森庸雄](../Page/大森庸雄.md "wikilink")が務め、[1999年](../Page/1999年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に放送を終了するまでの7年間にわたり人気を博した。
 
-基本的には東京・[代々木](../Page/代々木.md "wikilink")の[STUDIO ViViDからの放送だが](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")、[山梨県](../Page/山梨県.md "wikilink")を本拠とするFM富士らしく『山が富士ならFM-FUJI』などといった、山梨を愛する郷土色豊かなコーナーも多彩であった。
+基本的には東京・[代々木](../Page/代々木.md "wikilink")の[STUDIO ViViDからの放送だが](../Page/STUDIO_ViViD.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")を本拠とするFM富士らしく『山が富士ならFM-FUJI』などといった、山梨を愛する郷土色豊かなコーナーも多彩であった。
 
 また、ただ曲をかけ[葉書](https://ja.wikipedia.org/wiki/葉書 "wikilink")や[FAXを読むだけではなく](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、[リスナー](../Page/リスナー.md "wikilink")が電話出演をしたり、リスナー同士で意見交換をしあったりなど、他のラジオ番組とは一線を画した、リスナーとの連帯感が取れるコミュニケーションツール的な番組でもあった。大体のリスナーは、毎回、放送中にFAXを送れば大森に読んで貰えた。　
 
@@ -25,7 +25,7 @@
 
 ### 前期（1992年4月～1996年9月）
 
-[1992年](../Page/1992年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、[甲府市](../Page/甲府市.md "wikilink")[丸の内のFM](../Page/丸の内_\(甲府市\).md "wikilink")-FUJI本社スタジオ（当時\[2\]）から生放送開始。同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")にある東京支社に[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")『[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")』が新設され、第9回放送となる[5月30日](../Page/5月30日.md "wikilink")よりViViDへ移行。以後、7年にわたって続く人気番組となる。
+[1992年](../Page/1992年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、[甲府市](../Page/甲府市.md "wikilink")[丸の内のFM](../Page/丸の内_\(甲府市\).md "wikilink")-FUJI本社スタジオ（当時\[2\]）から生放送開始。同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")にある東京支社に[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")『[STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")』が新設され、第9回放送となる[5月30日](../Page/5月30日.md "wikilink")よりViViDへ移行。以後、7年にわたって続く人気番組となる。
 
 前期には『山が富士ならFM富士』をはじめ、リスナー参加コーナー『GA-GA-GU-GU\!』（のちの『何でも相談\!今夜教えてYO\!』の源流にあたる）、思い出の曲とエピソードを紹介する『MEMORIES』などといったコーナーが目白押しだったほか、不定期で、大森がリスナー宅に電話をかけて直撃する企画や、山梨の知識を競うクイズ『カルト富士大会』などといった企画も行われた。
 
@@ -130,7 +130,7 @@
 ## 関連項目
 
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")
-  - [STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")
+  - [STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")
 
 ## 脚注
 
@@ -144,5 +144,5 @@
 6.  上良もサンミュージック所属時、相澤宅に身を寄せ、身の回りの世話をしてもらっていた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")の『[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")』（テレビ朝日系）で紹介された。
 7.  現在は[藤賀事務所](https://ja.wikipedia.org/wiki/藤賀事務所 "wikilink")に所属。
 8.  本番組終了後、大谷が後番組『[JUNGLE PARADISE](../Page/JUNGLE_PARADISE.md "wikilink")』にゲスト出演した。
-9.  『[SUNSHINE BREEZE](../Page/SUNSHINE_BREEZE.md "wikilink")』は当時甲府本社から放送していたが、1998年より[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")（最末期は新宿[タワーレコード](../Page/タワーレコード.md "wikilink")サテライトスタジオ）へ移行。WEEKEND Hi\!と同じく1999年3月27日に放送終了した。
+9.  『[SUNSHINE BREEZE](../Page/SUNSHINE_BREEZE.md "wikilink")』は当時甲府本社から放送していたが、1998年より[STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")（最末期は新宿[タワーレコード](../Page/タワーレコード.md "wikilink")サテライトスタジオ）へ移行。WEEKEND Hi\!と同じく1999年3月27日に放送終了した。
 10. 『SUNSHINE BREEZE』後期のメインパーソナリティを務めた。

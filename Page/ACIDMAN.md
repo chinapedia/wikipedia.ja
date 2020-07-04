@@ -1223,7 +1223,7 @@ TYXT-19008/9 (BD版)</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/3月11日.md" title="wikilink">3月11日</a></p></td>
 <td><p>ACIDMAN LIVE in FUKUSHIMA 2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわき芸術文化交流館アリオス" title="wikilink">いわき芸術文化交流館アリオス</a></p></td>
+<td><p><a href="../Page/いわき芸術文化交流館アリオス.md" title="wikilink">いわき芸術文化交流館アリオス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a>～<a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>

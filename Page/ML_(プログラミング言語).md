@@ -1,7 +1,7 @@
 > この記事は[ML \(プログラミング言語\)](https://ja.wikipedia.org/wiki/ML_\(プログラミング言語\))から翻訳されています。
 
 
-**ML**（えむえる、Meta-Language）は、[関数型言語](../Page/関数型言語.md "wikilink")のひとつである。現代風の関数型言語としては歴史が古いほうで、[型推論](../Page/型推論.md "wikilink")機能などを持つが、デフォルトの[評価戦略](https://ja.wikipedia.org/wiki/評価戦略 "wikilink")は[遅延評価](../Page/遅延評価.md "wikilink")ではなく[先行評価](https://ja.wikipedia.org/wiki/先行評価 "wikilink")で、書き換えが可能なレコード型を持つなど、いわゆる「純粋関数型」でない特徴や機能を持つ。
+**ML**（えむえる、Meta-Language）は、[関数型言語](../Page/関数型言語.md "wikilink")のひとつである。現代風の関数型言語としては歴史が古いほうで、[型推論](../Page/型推論.md "wikilink")機能などを持つが、デフォルトの[評価戦略](../Page/評価戦略.md "wikilink")は[遅延評価](../Page/遅延評価.md "wikilink")ではなく[先行評価](https://ja.wikipedia.org/wiki/先行評価 "wikilink")で、書き換えが可能なレコード型を持つなど、いわゆる「純粋関数型」でない特徴や機能を持つ。
 
 ## 概要
 

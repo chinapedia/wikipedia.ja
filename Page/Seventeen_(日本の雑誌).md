@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")6月に、総合少女週刊誌『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』のお姉さん雑誌『**週刊セブンティーン**』として創刊、[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1944年に創刊された『[Seventeen](https://ja.wikipedia.org/wiki/Seventeen_\(アメリカの雑誌\) "wikilink")』の日本版として出発した。掲載内容は[ファッション](../Page/ファッション.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[芸能など多岐にわたる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")。
+[1968年](../Page/1968年.md "wikilink")6月に、総合少女週刊誌『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』のお姉さん雑誌『**週刊セブンティーン**』として創刊、[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1944年に創刊された『[Seventeen](https://ja.wikipedia.org/wiki/Seventeen_\(アメリカの雑誌\) "wikilink")』の日本版として出発した。掲載内容は[ファッション](../Page/ファッション.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[芸能など多岐にわたる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")。
 
 通巻1000号となる[1988年](../Page/1988年.md "wikilink")1月3日号より、誌名の表記をアルファベットの『**SEVENTEEN**』としてリニューアル。判型は大きいサイズ、刊行は月2回の隔週刊（毎月1日・15日）に変更し、漫画部分が無くなった。 [漫画雑誌](../Page/漫画雑誌.md "wikilink")としての部分は『月刊ティアラ』として新創刊され、引き継がれた。その後、ライバル誌だった[小学館](../Page/小学館.md "wikilink")の『[プチセブン](../Page/プチセブン.md "wikilink")』の廃刊後、急速に売り上げを伸ばし、「ティーンのNo.1雑誌」と銘打っている。
 
@@ -19,13 +19,13 @@
 
 ## 月刊セブンティーン
 
-[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に『**別冊セブンティーン**』として創刊（1969年12月号）。毎月24日発売。掲載内容は、少女漫画の他にファッションや芸能もあった。[1973年](../Page/1973年.md "wikilink")6月号より『**月刊セブンティーン**』へ名称を変更し、新創刊する。『週刊』の「**週セ**」に対し、「**月セ**」と呼ばれ、以下のヒット作を生み出したが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月号を最後に廃刊。従来「月刊セブンティーン特別編集」とされていた『[ヤングユー](../Page/ヤングユー.md "wikilink")』が隔月刊から月刊になった。
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に『**別冊セブンティーン**』として創刊（1969年12月号）。毎月24日発売。掲載内容は、少女漫画の他にファッションや芸能もあった。[1973年](../Page/1973年.md "wikilink")6月号より『**月刊セブンティーン**』へ名称を変更し、新創刊する。『週刊』の「**週セ**」に対し、「**月セ**」と呼ばれ、以下のヒット作を生み出したが、[1986年](../Page/1986年.md "wikilink")12月号を最後に廃刊。従来「月刊セブンティーン特別編集」とされていた『[ヤングユー](../Page/ヤングユー.md "wikilink")』が隔月刊から月刊になった。
 
 ## 掲載されていた漫画
 
 ### 週刊セブンティーン時代
 
-  - [西谷祥子](https://ja.wikipedia.org/wiki/西谷祥子 "wikilink")『花びら日記』[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")1号より掲載。
+  - [西谷祥子](../Page/西谷祥子.md "wikilink")『花びら日記』[1968年](../Page/1968年.md "wikilink")1号より掲載。
   - [水野英子](../Page/水野英子.md "wikilink")『[ファイヤー\!](https://ja.wikipedia.org/wiki/ファイヤー! "wikilink")』
   - [津雲むつみ](../Page/津雲むつみ.md "wikilink")『[おれは男だ\!](../Page/おれは男だ!.md "wikilink")』『彩りのころ』『[風と共に去りぬ](../Page/風と共に去りぬ.md "wikilink")』
   - 武田京子『さぼてんとマシュマロ』
@@ -40,10 +40,10 @@
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") [ティーンのための総合](../Page/ティーンエイジャー.md "wikilink")[週刊誌](../Page/週刊誌.md "wikilink")として、『**週刊セブンティーン**』創刊。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") 『**別冊セブンティーン**』創刊。
+  - [1968年](../Page/1968年.md "wikilink") [ティーンのための総合](../Page/ティーンエイジャー.md "wikilink")[週刊誌](../Page/週刊誌.md "wikilink")として、『**週刊セブンティーン**』創刊。
+  - [1968年](../Page/1968年.md "wikilink") 『**別冊セブンティーン**』創刊。
   - [1973年](../Page/1973年.md "wikilink") 『別冊セブンティーン』が『**月刊セブンティーン**』として新創刊。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") 『月刊セブンティーン』廃刊。同時に『ヤングユー』が月刊化。
+  - [1986年](../Page/1986年.md "wikilink") 『月刊セブンティーン』廃刊。同時に『ヤングユー』が月刊化。
   - [1988年](../Page/1988年.md "wikilink") 『週刊セブンティーン』がリニューアル。表記をアルファベットの『**SEVENTEEN**』に変更。週刊から月2回刊へ。内容もファッション雑誌となった。漫画雑誌部分は、『月刊ティアラ』として新創刊。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 10月号より月2回刊から月刊へ。表記を『**Seventeen**』に変更。
 
@@ -529,7 +529,7 @@
   - [石橋杏奈](https://ja.wikipedia.org/wiki/石橋杏奈 "wikilink")
   - [滝沢カレン](../Page/滝沢カレン.md "wikilink")（ミスセブンティーン2008、現在は[JJ専属](../Page/JJ_\(雑誌\).md "wikilink")）
   - [高田有紗](https://ja.wikipedia.org/wiki/高田有紗 "wikilink")（ミスセブンティーン2009）
-  - [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")（表紙34回。卒業後は[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")を経て、現在は[GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")専属）
+  - [桐谷美玲](../Page/桐谷美玲.md "wikilink")（表紙34回。卒業後は[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")を経て、現在は[GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")専属）
 
 </div>
 
@@ -791,15 +791,15 @@
 
 ## ミスセブンティーン
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1999年](../Page/1999年.md "wikilink")までの休止期をはさんで2期に分かれる。
+[1986年](../Page/1986年.md "wikilink")から[1999年](../Page/1999年.md "wikilink")までの休止期をはさんで2期に分かれる。
 
 ### 旧オーディション
 
-[1970年](../Page/1970年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで、「**ミスセブンティーン**」と題したオーディション大会を開催していた。
+[1970年](../Page/1970年.md "wikilink")から[1986年](../Page/1986年.md "wikilink")まで、「**ミスセブンティーン**」と題したオーディション大会を開催していた。
 
 [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")大会は[坂口良子](../Page/坂口良子.md "wikilink")がグランプリ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")大会では[松田聖子](../Page/松田聖子.md "wikilink")が地区大会でスカウトされた。中でも[1984年](../Page/1984年.md "wikilink")大会は非常に水準の高い大会となり（応募総数歴代最大18万325人）、[松本典子](../Page/松本典子.md "wikilink")や[網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")らがグランプリを受賞し、入賞者の全てが歌手ないしは女優としてデビューしている。[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")、[工藤静香](../Page/工藤静香.md "wikilink")、[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")、[清原亜希](https://ja.wikipedia.org/wiki/清原亜希 "wikilink")などが出場していた。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した（出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された）。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
+[1986年](../Page/1986年.md "wikilink")の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した（出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された）。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
 
 #### コンテスト受賞者
 
@@ -812,7 +812,7 @@
   - [佐東由梨](../Page/佐東由梨.md "wikilink")（1982グランプリ）
   - [横田早苗](https://ja.wikipedia.org/wiki/横田早苗 "wikilink")（1982準グランプリ）
   - [菊地陽子](../Page/菊地陽子.md "wikilink")（1982[TBS賞](../Page/TBSテレビ.md "wikilink")）
-  - [百瀬まなみ](https://ja.wikipedia.org/wiki/百瀬まなみ "wikilink")（1982特別賞）
+  - [百瀬まなみ](../Page/百瀬まなみ.md "wikilink")（1982特別賞）
   - [網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")（1984グランプリ）
   - [松本典子](../Page/松本典子.md "wikilink")（1984グランプリ）
   - [藤原理恵](../Page/藤原理恵.md "wikilink")（1984準グランプリ）
@@ -837,7 +837,7 @@
 
 ### 現在のオーディション
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降一時休止していたが、[1999年](../Page/1999年.md "wikilink")からオーディションが再開され、現在は専属モデルの選出に特化している。下記のテンプレート参照。
+[1986年](../Page/1986年.md "wikilink")以降一時休止していたが、[1999年](../Page/1999年.md "wikilink")からオーディションが再開され、現在は専属モデルの選出に特化している。下記のテンプレート参照。
 
 4月号にモデルの応募方法が記載され、8月号で最終選考で残った候補者による読者投票で決定する。
 
@@ -873,7 +873,7 @@
 [Category:セブンティーン_(雑誌)](https://ja.wikipedia.org/wiki/Category:セブンティーン_\(雑誌\) "wikilink")
 
 1.  一般公募ではあるが、既に[芸能事務所](../Page/芸能事務所.md "wikilink")に所属しているモデル・女優も多い。
-2.  例を挙げると、[谷口紗耶香](../Page/谷口紗耶香.md "wikilink")や[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")、[佐藤ありさ](../Page/佐藤ありさ.md "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")、[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")、[広瀬アリス](https://ja.wikipedia.org/wiki/広瀬アリス "wikilink")・[すず](https://ja.wikipedia.org/wiki/広瀬すず "wikilink")[姉妹](../Page/姉妹.md "wikilink")、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")、[中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")、[三吉彩花](../Page/三吉彩花.md "wikilink")、[江野沢愛美](https://ja.wikipedia.org/wiki/江野沢愛美 "wikilink")、[飯豊まりえ](https://ja.wikipedia.org/wiki/飯豊まりえ "wikilink")など。
+2.  例を挙げると、[谷口紗耶香](../Page/谷口紗耶香.md "wikilink")や[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")、[佐藤ありさ](../Page/佐藤ありさ.md "wikilink")、[桐谷美玲](../Page/桐谷美玲.md "wikilink")、[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")、[広瀬アリス](https://ja.wikipedia.org/wiki/広瀬アリス "wikilink")・[すず](https://ja.wikipedia.org/wiki/広瀬すず "wikilink")[姉妹](../Page/姉妹.md "wikilink")、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")、[中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")、[三吉彩花](../Page/三吉彩花.md "wikilink")、[江野沢愛美](https://ja.wikipedia.org/wiki/江野沢愛美 "wikilink")、[飯豊まりえ](https://ja.wikipedia.org/wiki/飯豊まりえ "wikilink")など。
 3.
 4.  [中条あやみ、「CanCam」専属モデルに決定！【本人メッセージ】](https://cancam.jp/archives/488235?from=slide_home1) *CanCam.jp（キャンキャン） | 【公式】* (2017年9月15日) 2017年9月15日閲覧
 5.  [樫本琳花twitter](https://twitter.com/rinka_kashimoto/status/946661156927574016)

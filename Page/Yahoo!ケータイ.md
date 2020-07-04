@@ -53,7 +53,7 @@ Yahoo\!ケータイトップページの内容は、サービス開始の2006年
 
   - [iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")/[spモード](https://ja.wikipedia.org/wiki/spモード "wikilink")（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）
   - [EZweb](../Page/EZweb.md "wikilink")/[IS NET](https://ja.wikipedia.org/wiki/IS_NET "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")(各[au](../Page/Au_\(携帯電話\).md "wikilink"))）
-  - [EMnet](https://ja.wikipedia.org/wiki/EMnet "wikilink")（[イー・モバイル](../Page/イー・モバイル.md "wikilink")。後の[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")([ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")・[ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")連合)）
+  - [EMnet](../Page/EMnet.md "wikilink")（[イー・モバイル](../Page/イー・モバイル.md "wikilink")。後の[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")([ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")・[ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")連合)）
   - [Disney Web](https://ja.wikipedia.org/wiki/Disney_Web "wikilink")（[ディズニー・モバイル](../Page/ディズニー・モバイル.md "wikilink")）
   - [CLUB AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")（[ウィルコム](../Page/ウィルコム.md "wikilink")。後のY\!mobile）
 
@@ -66,7 +66,7 @@ Yahoo\!ケータイトップページの内容は、サービス開始の2006年
   - [S\!GPSナビ](../Page/S!GPSナビ.md "wikilink")　
   - [S\!FeliCa](../Page/S!FeliCa.md "wikilink")
   - [SoftBank 3G](../Page/SoftBank_3G.md "wikilink")
-  - [契約者固有ID](https://ja.wikipedia.org/wiki/契約者固有ID "wikilink")
+  - [契約者固有ID](../Page/契約者固有ID.md "wikilink")
 
 ## 外部リンク
 

@@ -35,7 +35,7 @@
 
   - [イネ](../Page/インドネシア語.md "wikilink")：キー
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：クーオ
+  - [エス](../Page/エスペラント.md "wikilink")：クーオ
 
 ## 音価
 
@@ -51,7 +51,7 @@
 
 :\* [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")では qu の綴りで a, o, u の前では 、e, i の前で  または語によって 。ただしブラジルでは e, i の前で  と発音するには qü と綴る。
 
-:\* [エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")では外来語のみに使う。読み方がわからない場合、単独の q は 、qu は  と発音することが推奨されている。qu を含む西欧語の単語がエスペラントに取り入れられた時は kv になる。(quality → kvalito)
+:\* [エスペラント](../Page/エスペラント.md "wikilink")では外来語のみに使う。読み方がわからない場合、単独の q は 、qu は  と発音することが推奨されている。qu を含む西欧語の単語がエスペラントに取り入れられた時は kv になる。(quality → kvalito)
 
   - 古ギリシア語  に連なる[アラビア語](../Page/アラビア語.md "wikilink")  やそれに由来する音
 

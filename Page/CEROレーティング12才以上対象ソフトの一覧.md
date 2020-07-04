@@ -353,7 +353,7 @@
   - [Apathy アパシー ～鳴神学園都市伝説探偵局～](../Page/アパシー_鳴神学園都市伝説探偵局.md "wikilink")（コンテンツアイコン：「恐怖」）
   - [anan監修　女ヂカラ緊急アップ\!DS](https://ja.wikipedia.org/wiki/anan監修_女ヂカラ緊急アップ!DS "wikilink")（コンテンツアイコン：「セクシャル」）
   - [アンジェリーク デュエット](../Page/アンジェリーク.md "wikilink")（コンテンツアイコン：「恋愛」）
-  - [ヴァルキリープロファイル 咎を背負う者](https://ja.wikipedia.org/wiki/ヴァルキリープロファイル_咎を背負う者 "wikilink")（コンテンツアイコン：「犯罪、言葉・その他」）
+  - [ヴァルキリープロファイル 咎を背負う者](../Page/ヴァルキリープロファイル_咎を背負う者.md "wikilink")（コンテンツアイコン：「犯罪、言葉・その他」）
   - [ウィザードリィ](../Page/ウィザードリィ.md "wikilink")シリーズ
       - [ウィザードリィ 〜生命の楔〜](https://ja.wikipedia.org/wiki/ウィザードリィ_〜生命の楔〜 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
       - [ウィザードリィ 〜忘却の遺産〜](https://ja.wikipedia.org/wiki/ウィザードリィ_〜忘却の遺産〜 "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -539,7 +539,7 @@
   - [メダル・オブ・オナー アドバンス](https://ja.wikipedia.org/wiki/メダル・オブ・オナー_アドバンス "wikilink")（コンテンツアイコン：「暴力」）
   - ロード・オブ・ザ・リング/王の帰還（コンテンツアイコン：「暴力」）
   - [タクティクスオウガ外伝](../Page/タクティクスオウガ外伝_The_Knight_of_Lodis.md "wikilink")（コンテンツアイコン：「犯罪」）
-  - [ダブルドラゴン アドバンス](https://ja.wikipedia.org/wiki/ダブルドラゴン_アドバンス "wikilink")（コンテンツアイコン：「暴力」）
+  - [ダブルドラゴン アドバンス](../Page/ダブルドラゴン_アドバンス.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ナポレオン](../Page/ナポレオン_\(ゲーム\).md "wikilink")（コンテンツアイコン：「暴力」）
   - [ファイナルファイト ONE](https://ja.wikipedia.org/wiki/ファイナルファイト_ONE "wikilink")（コンテンツアイコン：「暴力、犯罪」）
 
@@ -629,7 +629,7 @@
   - [真・三國無双7 with 猛将伝](https://ja.wikipedia.org/wiki/真・三國無双7_with_猛将伝 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [サモンナイト6 失われた境界たち](https://ja.wikipedia.org/wiki/サモンナイト6_失われた境界たち "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [シャンティ ヒーロー アルティメット・エディション](https://ja.wikipedia.org/wiki/シャンティ "wikilink"):ハーフ・ジーニー（コンテンツアイコン：「セクシャル、暴力、犯罪」）
-  - [戦場のヴァルキュリア リマスター](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪、言葉・その他」）
+  - [戦場のヴァルキュリア リマスター](../Page/戦場のヴァルキュリア.md "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪、言葉・その他」）
   - [スーパーロボット大戦OG ムーン・デュエラーズ](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ムーン・デュエラーズ "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [超次次元ゲイム ネプテューヌ Re:Birth 1+](https://ja.wikipedia.org/wiki/超次元ゲイム_ネプテューヌ "wikilink")（コンテンツアイコン：「セクシャル」）
   - [テイルズ オブ シリーズ](../Page/テイルズ_オブ_シリーズ.md "wikilink")
@@ -795,12 +795,12 @@
       - スーパーストリートファイターIV
       - スーパーストリートファイターIV ARCADE EDITION
   - [スポーツチャンピオン](https://ja.wikipedia.org/wiki/スポーツチャンピオン "wikilink")（コンテンツアイコン：「暴力」）
-  - [スライ・クーパー コレクション](https://ja.wikipedia.org/wiki/怪盗スライ・クーパー "wikilink")（コンテンツアイコン：「犯罪」）
+  - [スライ・クーパー コレクション](../Page/怪盗スライ・クーパー.md "wikilink")（コンテンツアイコン：「犯罪」）
   - [戦国BASARA](../Page/戦国BASARA.md "wikilink")3（コンテンツアイコン：「セクシャル、暴力」）
   - [戦国無双シリーズ](https://ja.wikipedia.org/wiki/戦国無双シリーズ "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
       - [戦国無双3 Z](https://ja.wikipedia.org/wiki/戦国無双3 "wikilink")
       - 戦国無双3 Empires
-  - [戦場のヴァルキュリア](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪、言葉・その他」）
+  - [戦場のヴァルキュリア](../Page/戦場のヴァルキュリア.md "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪、言葉・その他」）
   - [大航海時代Online](../Page/大航海時代Online.md "wikilink")
       - 大航海時代Online 〜Cruz del Sur〜（コンテンツアイコン：「暴力」）
       - 大航海時代Online 〜El Oriente〜（コンテンツアイコン：「暴力」）
@@ -957,7 +957,7 @@
   - [俺たちのサバゲー PORTABLE](https://ja.wikipedia.org/wiki/俺たちのサバゲー_PORTABLE "wikilink")（コンテンツアイコン：「暴力」）
   - [俺たちのサバゲー VERSUS](https://ja.wikipedia.org/wiki/俺たちのサバゲー_VERSUS "wikilink")（コンテンツアイコン：「暴力」）
   - [俺の妹がこんなに可愛いわけがない ポータブル](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない_ポータブル "wikilink")（通常版。限定版「“俺”の妹と恋しよっ♪ボックス」は15才以上対象）（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
-  - [学園ヘタリア Portable](https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア "wikilink")（コンテンツアイコン：「恋愛」）
+  - [学園ヘタリア Portable](../Page/Axis_powers_ヘタリア.md "wikilink")（コンテンツアイコン：「恋愛」）
   - [カヌチ 二つの翼](https://ja.wikipedia.org/wiki/カヌチ "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")（コンテンツアイコン：「恋愛、言葉・その他」）
   - [カルネージハート エクサ](../Page/Carnage_Heart_PORTABLE.md "wikilink")（コンテンツアイコン：「犯罪」）
@@ -1115,7 +1115,7 @@
   - [VitaminX Evolution Plus](https://ja.wikipedia.org/wiki/VitaminX "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [VitaminXtoZ](https://ja.wikipedia.org/wiki/VitaminXtoZ "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [羊くんならキスしてあげる☆](../Page/羊くんならキスしてあげる☆.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
-  - [Φなる・あぷろーち2 〜1st priority〜 ポータブル](https://ja.wikipedia.org/wiki/Φなる・あぷろーち2_〜1st_priority〜 "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
+  - [Φなる・あぷろーち2 〜1st priority〜 ポータブル](../Page/Φなる・あぷろーち2_〜1st_priority〜.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [ファインダーラブ](../Page/ファインダーラブ.md "wikilink")シリーズ（コンテンツアイコン：「セクシャル」）
       - ファインダーラブ 工藤理沙 ファーストショットは君と。
       - ファインダーラブ 原史奈 ふたりのふたりで…。
@@ -1347,8 +1347,8 @@
   - [灼眼のシャナ](../Page/灼眼のシャナ.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [シャドウハーツ・フロム・ザ・ニューワールド](../Page/シャドウハーツ・フロム・ザ・ニューワールド.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [首都高バトル0](../Page/首都高バトル0.md "wikilink")（2005年発売のPlayStation 2 the Best）（コンテンツアイコン：「犯罪」）
-  - [十二国記 -赫々たる王道 紅緑の羽化-](https://ja.wikipedia.org/wiki/十二国記_-赫々たる王道_紅緑の羽化- "wikilink")（コンテンツアイコン：「不明」）
-  - [十二国記 -紅蓮の標 黄塵の路-](https://ja.wikipedia.org/wiki/十二国記_-紅蓮の標_黄塵の路- "wikilink")（コンテンツアイコン：「不明」）
+  - [十二国記 -赫々たる王道 紅緑の羽化-](../Page/十二国記_-赫々たる王道_紅緑の羽化-.md "wikilink")（コンテンツアイコン：「不明」）
+  - [十二国記 -紅蓮の標 黄塵の路-](../Page/十二国記_-紅蓮の標_黄塵の路-.md "wikilink")（コンテンツアイコン：「不明」）
   - [女子高生 GAME'S-HIGH\!\!](https://ja.wikipedia.org/wiki/女子高生_\(漫画\) "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [ジョジョの奇妙な冒険 ファントムブラッド](../Page/ジョジョの奇妙な冒険_ファントムブラッド_\(アクションゲーム\).md "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪」）
   - [ジルオール インフィニット](../Page/ジルオール.md "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -1520,7 +1520,7 @@
   - [ファンタシースターユニバース](../Page/ファンタシースターユニバース.md "wikilink")（コンテンツアイコン：「恋愛、暴力」）
   - [ファンタシースターユニバース イルミナスの野望](../Page/ファンタシースターユニバース_イルミナスの野望.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ふぁいなりすと](../Page/ふぁいなりすと.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
-  - [Φなる・あぷろーち2 〜1st priority〜](https://ja.wikipedia.org/wiki/Φなる・あぷろーち2_〜1st_priority〜 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
+  - [Φなる・あぷろーち2 〜1st priority〜](../Page/Φなる・あぷろーち2_〜1st_priority〜.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
   - [ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink") <small>\*[ファイナルファンタジーXII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")は全年齢対象</small>
       - [ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")（アルティメットヒッツ）（コンテンツアイコン：「セクシャル、暴力」）
       - [ファイナルファンタジーX-2](https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 "wikilink")（アルティメットヒッツ）（コンテンツアイコン：「セクシャル」）
@@ -1544,7 +1544,7 @@
   - [ペルソナシリーズ](../Page/ペルソナシリーズ.md "wikilink")
       - [ペルソナ3](../Page/ペルソナ3.md "wikilink")（コンテンツアイコン：「セクシャル」）
       - ペルソナ3フェス（コンテンツアイコン：「セクシャル、暴力、言葉・その他」）
-      - [ペルソナ4](https://ja.wikipedia.org/wiki/ペルソナ4 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
+      - [ペルソナ4](../Page/ペルソナ4.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [放課後のラブビート](https://ja.wikipedia.org/wiki/放課後のラブビート "wikilink")（コンテンツアイコン：「恋愛」）
   - [北斗の拳 〜審判の双蒼星 拳豪列伝〜](../Page/北斗の拳_\(対戦型格闘ゲーム\).md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [保健室へようこそ](https://ja.wikipedia.org/wiki/保健室へようこそ "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
@@ -2071,7 +2071,7 @@
       - THE KING OF FIGHTERS 2003（コンテンツアイコン：「セクシャル、暴力」）
       - THE KING OF FIGHTERS NEOWAVE（コンテンツアイコン：「暴力」）
       - [KOF MAXIMUM IMPACT MANIAX](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
-  - [ザ シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")：ヒットアンドラン（コンテンツアイコン：「犯罪」）
+  - [ザ シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")：ヒットアンドラン（コンテンツアイコン：「犯罪」）
   - [真・三國無双4](https://ja.wikipedia.org/wiki/真・三國無双4 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力」）
   - [ソウルキャリバーII](../Page/ソウルキャリバーII.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
@@ -2098,7 +2098,7 @@
       - [ザ・スーパー忍](https://ja.wikipedia.org/wiki/ザ・スーパー忍 "wikilink")
       - [ザ・スーパー忍II](https://ja.wikipedia.org/wiki/ザ・スーパー忍II "wikilink")
   - [エターナルチャンピオンズ](https://ja.wikipedia.org/wiki/エターナルチャンピオンズ "wikilink")（コンテンツアイコン：「暴力」）
-  - [フェリオス](https://ja.wikipedia.org/wiki/フェリオス "wikilink")（コンテンツアイコン：「暴力」）
+  - [フェリオス](../Page/フェリオス.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ローリングサンダー2](https://ja.wikipedia.org/wiki/ローリングサンダー2 "wikilink")（コンテンツアイコン：「暴力」）
   - [フォゴットンワールズ](https://ja.wikipedia.org/wiki/フォゴットンワールズ "wikilink")（コンテンツアイコン：「暴力」）
   - [戦場の狼II](../Page/戦場の狼II.md "wikilink")（コンテンツアイコン：「暴力」）
@@ -2255,7 +2255,7 @@ NEOGEO
   - [ナックルヘッズ](../Page/ナックルヘッズ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ニンジャウォーリアーズ](../Page/ニンジャウォーリアーズ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [忍者龍剣伝](../Page/忍者龍剣伝.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [フェリオス](https://ja.wikipedia.org/wiki/フェリオス "wikilink")（コンテンツアイコン：「暴力」）
+  - [フェリオス](../Page/フェリオス.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ローリングサンダーシリーズ](../Page/ローリングサンダー_\(コンピュータゲーム\).md "wikilink")（コンテンツアイコン：「暴力」）
       - ローリングサンダー
       - [ローリングサンダー2](https://ja.wikipedia.org/wiki/ローリングサンダー2 "wikilink")

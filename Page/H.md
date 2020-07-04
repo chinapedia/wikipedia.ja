@@ -30,7 +30,7 @@
 
   - （ハッシュ）
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")・[典](../Page/スウェーデン語.md "wikilink")・[諾](../Page/ノルウェー語.md "wikilink")・[丁](../Page/デンマーク語.md "wikilink")・[芬](../Page/フィンランド語.md "wikilink")：ホー
+  - [エス](../Page/エスペラント.md "wikilink")・[典](../Page/スウェーデン語.md "wikilink")・[諾](../Page/ノルウェー語.md "wikilink")・[丁](../Page/デンマーク語.md "wikilink")・[芬](../Page/フィンランド語.md "wikilink")：ホー
 
   - [波](../Page/ポーランド語.md "wikilink")・[越](../Page/ベトナム語.md "wikilink")：ハ
 

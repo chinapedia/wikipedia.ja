@@ -2412,7 +2412,7 @@
 
   - 脚本 - [桜井正明](../Page/桜井正明.md "wikilink")、[岸間信明](../Page/岸間信明.md "wikilink")、[菅良幸](../Page/菅良幸.md "wikilink")、[丸尾みほ](../Page/丸尾みほ.md "wikilink")、[桶谷顕](../Page/桶谷顕.md "wikilink")、[茂木仁史](../Page/茂木仁史.md "wikilink")、深見弘、杉原めぐみ、[渡辺麻実](../Page/渡辺麻実.md "wikilink")、[松下幹夫](https://ja.wikipedia.org/wiki/松下幹夫 "wikilink")、[山本優](../Page/山本優.md "wikilink")、[山田隆司](../Page/山田隆司.md "wikilink")、水出弘一、並木敏、[田口成光](../Page/田口成光.md "wikilink")、[中弘子](https://ja.wikipedia.org/wiki/中弘子 "wikilink")、麻尾るみこ、佐々木裕之、岡かすみ、立花遊、小川あさ美、吉田進、八木良一、[安藤豊弘](https://ja.wikipedia.org/wiki/安藤豊弘 "wikilink")、片平圭子、[朝倉千筆](../Page/朝倉千筆.md "wikilink") 他
   - コンテ・演出 - 笹川ひろし、原田益次、[須永司](../Page/須永司.md "wikilink")、[やすみ哲夫](../Page/やすみ哲夫.md "wikilink")、棚橋一徳、中村喜則、吉永尚之、[青山弘](https://ja.wikipedia.org/wiki/青山弘 "wikilink")、[原恵一](../Page/原恵一.md "wikilink")、[平井峰太郎](../Page/平井峰太郎.md "wikilink")、長尾粛、[白石邦俊](https://ja.wikipedia.org/wiki/クニトシロウ "wikilink")、竹内大三、小松和彦、棚橋正人、[永樹凡人](../Page/ながきふさひろ.md "wikilink")、天海ひろし、棚沢隆、[塚田庄英](../Page/塚田庄英.md "wikilink")、大谷正弘、[前園文夫](https://ja.wikipedia.org/wiki/前園文夫 "wikilink")、[パクキョンスン](https://ja.wikipedia.org/wiki/パクキョンスン "wikilink")、石崎すすむ、小林真理、津野明朗、木暮輝夫、遠藤克己、近藤英輔、[高柳哲司](../Page/高柳哲司.md "wikilink")、松島明子、細谷秋夫、[北原健雄](../Page/北原健雄.md "wikilink")、山崎友正、槌田幸一、殿勝秀樹、[渡辺はじめ](../Page/渡辺はじめ.md "wikilink")、[遠藤徹哉](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink")、北爪宏示 他
-  - 作画監督 - 富永貞義、森下圭介、細谷秋夫、斉藤起己、[なかじまちゅうじ](../Page/なかじまちゅうじ.md "wikilink")、畑良子、石黒育、[堤規至](../Page/堤規至.md "wikilink")、[川島明](https://ja.wikipedia.org/wiki/川島彰 "wikilink")、[渡辺はじめ](../Page/渡辺はじめ.md "wikilink") 他
+  - 作画監督 - 富永貞義、森下圭介、細谷秋夫、斉藤起己、[なかじまちゅうじ](../Page/なかじまちゅうじ.md "wikilink")、畑良子、石黒育、[堤規至](../Page/堤規至.md "wikilink")、[川島明](../Page/川島彰.md "wikilink")、[渡辺はじめ](../Page/渡辺はじめ.md "wikilink") 他
   - 作画 - シンエイ動画、トミプロダクション、風プロダクション、パンメディア、サンシャイン、スタジオルック、[じゃんぐるじむ](../Page/じゃんぐるじむ.md "wikilink")、ACプロ、[動画工房](../Page/動画工房.md "wikilink")、[OHプロダクション](../Page/オープロダクション.md "wikilink") 他
   - 仕上 - スタジオキリー、[スタジオディーン](../Page/スタジオディーン.md "wikilink")、スタジオルック、[スタジオエル](../Page/スタジオエル.md "wikilink")、スタジオゼップ、所沢グループ、スタジオM
   - 背景 - [アトリエローク](../Page/アトリエローク07.md "wikilink")、[スタジオユニ](../Page/スタジオユニ.md "wikilink")
@@ -2817,7 +2817,7 @@
 
 ※これらは未だDVD化されていない。
 
-  - オバケのQ太郎 とびだせ\! バケバケ大作戦（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - オバケのQ太郎 とびだせ\! バケバケ大作戦（[1986年](../Page/1986年.md "wikilink")）
       - 総監督 - 笹川ひろし
       - 監督 - 原田益次
       - 脚本 - 桜井正明

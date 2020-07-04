@@ -3,7 +3,7 @@
 
 **Darwin**（ダーウィン）は[アップルが開発する](../Page/アップル_\(企業\).md "wikilink")[Unix系](../Page/Unix系.md "wikilink")の[POSIX](../Page/POSIX.md "wikilink")準拠[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。技術的には[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")から[OPENSTEP](../Page/OPENSTEP.md "wikilink")に続く流れを汲み、[Mach 3.0](../Page/Mach.md "wikilink")+[BSD](../Page/BSD.md "wikilink")をベースとし、一部の機能は他の[BSD](../Page/BSD.md "wikilink")系OSからも取り入れている。Darwinは[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、さらには[watchOS](https://ja.wikipedia.org/wiki/watchOS "wikilink")と[tvOS](https://ja.wikipedia.org/wiki/tvOS "wikilink")の基礎となる部分でもある。
 
-Darwinは[オープンソース](../Page/オープンソース.md "wikilink")及び[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開されており、他のフリーなUnix系同様に特定のライセンス、[Apple Public Source License](https://ja.wikipedia.org/wiki/Apple_Public_Source_License "wikilink") (APSL) 下で入手、インストール、運用が可能であり、[PowerPC](../Page/PowerPC.md "wikilink")ベースの[Macintosh](../Page/Macintosh.md "wikilink")だけでなく、サポートされているハードウェアドライバの問題からハードウェア構成は限定されるが、[Intel Macではない](../Page/Intel_Mac.md "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")機でも動作する。
+Darwinは[オープンソース](../Page/オープンソース.md "wikilink")及び[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として公開されており、他のフリーなUnix系同様に特定のライセンス、[Apple Public Source License](../Page/Apple_Public_Source_License.md "wikilink") (APSL) 下で入手、インストール、運用が可能であり、[PowerPC](../Page/PowerPC.md "wikilink")ベースの[Macintosh](../Page/Macintosh.md "wikilink")だけでなく、サポートされているハードウェアドライバの問題からハードウェア構成は限定されるが、[Intel Macではない](../Page/Intel_Mac.md "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")機でも動作する。
 
 しかし、この公開されていた[ソースコード](../Page/ソースコード.md "wikilink")では当初Intel Macには対応していなかったためインテル製[CPU](../Page/CPU.md "wikilink")に移行後は[クローズドソース](../Page/クローズドソース.md "wikilink")になるのではないかという憶測も流れたが、Intel Mac発売から半年後に対応のソースコードが公開された。
 
@@ -103,7 +103,7 @@ Mac OS X for <a href="../Page/Apple_TV.md" title="wikilink">Apple TV</a> <small>
 <td><p>10.0</p></td>
 <td><p>2009年8月28日</p></td>
 <td><p><a href="../Page/Mac_OS_X_v10.6.md" title="wikilink">Mac OS X v10.6</a></p></td>
-<td><p>PowerPCの公式サポートの終了（ただしカーネルなどいくつかの<a href="../Page/ファットバイナリ.md" title="wikilink">ファットバイナリ</a>がPPCイメージをまだ含んでいる）、64ビットのカーネルとドライバ、<a href="https://ja.wikipedia.org/wiki/Grand_Central_Dispatch" title="wikilink">libdispatch</a><a href="https://ja.wikipedia.org/wiki/タスク並列性" title="wikilink">タスク並列化フレームワーク</a>、<a href="../Page/OpenCL.md" title="wikilink">OpenCL</a>ヘテロジニアスコンピューティングフレームワーク、<a href="../Page/C言語.md" title="wikilink">C言語</a>のBlocks（<a href="../Page/クロージャ.md" title="wikilink">クロージャ</a>を作るために<a href="../Page/ラムダ計算.md" title="wikilink">ラムダ式のような構文を用いる非標準の言語拡張</a>）のサポート、HFS+における透過的な<a href="https://ja.wikipedia.org/wiki/ファイル圧縮" title="wikilink">ファイル圧縮</a>。[11]</p></td>
+<td><p>PowerPCの公式サポートの終了（ただしカーネルなどいくつかの<a href="../Page/ファットバイナリ.md" title="wikilink">ファットバイナリ</a>がPPCイメージをまだ含んでいる）、64ビットのカーネルとドライバ、<a href="https://ja.wikipedia.org/wiki/Grand_Central_Dispatch" title="wikilink">libdispatch</a><a href="../Page/タスク並列性.md" title="wikilink">タスク並列化フレームワーク</a>、<a href="../Page/OpenCL.md" title="wikilink">OpenCL</a>ヘテロジニアスコンピューティングフレームワーク、<a href="../Page/C言語.md" title="wikilink">C言語</a>のBlocks（<a href="../Page/クロージャ.md" title="wikilink">クロージャ</a>を作るために<a href="../Page/ラムダ計算.md" title="wikilink">ラムダ式のような構文を用いる非標準の言語拡張</a>）のサポート、HFS+における透過的な<a href="https://ja.wikipedia.org/wiki/ファイル圧縮" title="wikilink">ファイル圧縮</a>。[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>10.1.0</p></td>

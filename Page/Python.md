@@ -13,7 +13,7 @@
 
 これらの特性によりPythonは広い支持を獲得し、[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")や[デスクトップアプリケーション](https://ja.wikipedia.org/wiki/デスクトップアプリケーション "wikilink")などの開発はもとより、システム用の記述 (script) や、各種の自動処理、理工学や統計・解析など、幅広い領域における有力なプログラム言語となった。プログラミング作業が容易で能率的であることは、ソフトウェア企業にとっては投入人員の節約、開発時間の短縮、ひいてはコスト削減に有益であることから、産業分野でも広く利用されている。[Google](../Page/Google.md "wikilink")など主要言語に採用している企業も多い。
 
-Pythonの[リファレンス実装](../Page/リファレンス実装.md "wikilink")である[CPython](https://ja.wikipedia.org/wiki/CPython "wikilink")は、[フリーかつオープンソースのソフトウェアであり](https://ja.wikipedia.org/wiki/FLOSS "wikilink")、コミュニティベースの開発モデルを採用している。CPythonは、非営利団体である[Pythonソフトウェア財団](https://ja.wikipedia.org/wiki/Pythonソフトウェア財団 "wikilink")が管理している。その他の実装としては、[PyPy](https://ja.wikipedia.org/wiki/PyPy "wikilink")や[IronPython](../Page/IronPython.md "wikilink")などが有名である。
+Pythonの[リファレンス実装](../Page/リファレンス実装.md "wikilink")である[CPython](https://ja.wikipedia.org/wiki/CPython "wikilink")は、[フリーかつオープンソースのソフトウェアであり](../Page/FLOSS.md "wikilink")、コミュニティベースの開発モデルを採用している。CPythonは、非営利団体である[Pythonソフトウェア財団](https://ja.wikipedia.org/wiki/Pythonソフトウェア財団 "wikilink")が管理している。その他の実装としては、[PyPy](https://ja.wikipedia.org/wiki/PyPy "wikilink")や[IronPython](../Page/IronPython.md "wikilink")などが有名である。
 
 Pythonは、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")人の[グイド・ヴァンロッサム](https://ja.wikipedia.org/wiki/グイド・ヴァンロッサム "wikilink")が開発した。名前の由来は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のテレビ局 [BBC](../Page/英国放送協会.md "wikilink") が製作したコメディ番組『[空飛ぶモンティ・パイソン](../Page/空飛ぶモンティ・パイソン.md "wikilink") (*Monty Python's Flying Circus*)』である。Pythonという英単語が意味する[爬虫類](../Page/爬虫類.md "wikilink")の[ニシキヘビがPython言語のマスコットやアイコンとして使われている](../Page/ニシキヘビ属.md "wikilink")。
 

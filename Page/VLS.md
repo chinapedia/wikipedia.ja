@@ -88,7 +88,7 @@
   - SM-233（[P-700 グラニート用](../Page/P-700_\(ミサイル\).md "wikilink")）
     重長距離[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")。NATOコードネームではSS-N-19 シップレック（Shipwreck）と呼ばれた。
   - [3S14 UKSK](https://ja.wikipedia.org/wiki/3S14_UKSK "wikilink")（[P-800 オーニクス及び](../Page/P-800_\(ミサイル\).md "wikilink")、[クラブ用](https://ja.wikipedia.org/wiki/クラブ_\(ミサイル\) "wikilink")）
-    　従来、専用の垂直発射機を必要としていたオーニクス系列とクラブ系列双方のミサイルを搭載可能。[3K37 ヨーシュ用と同様箱型の外観で](https://ja.wikipedia.org/wiki/3K90#3K37ヨーシュ "wikilink")、1基8セルから構成される。[インド海軍](../Page/インド海軍.md "wikilink")向け[タルワー級フリゲート](https://ja.wikipedia.org/wiki/タルワー級フリゲート "wikilink")、[シヴァリク級フリゲート](https://ja.wikipedia.org/wiki/シヴァリク級フリゲート "wikilink")に搭載されており、ロシア本国においてもアドミラル・ゴルシコフ級フリゲートや[ステレグシュチイ級フリゲート](https://ja.wikipedia.org/wiki/ステレグシュチイ級フリゲート "wikilink")に搭載されている。
+    　従来、専用の垂直発射機を必要としていたオーニクス系列とクラブ系列双方のミサイルを搭載可能。[3K37 ヨーシュ用と同様箱型の外観で](https://ja.wikipedia.org/wiki/3K90#3K37ヨーシュ "wikilink")、1基8セルから構成される。[インド海軍](../Page/インド海軍.md "wikilink")向け[タルワー級フリゲート](https://ja.wikipedia.org/wiki/タルワー級フリゲート "wikilink")、[シヴァリク級フリゲート](https://ja.wikipedia.org/wiki/シヴァリク級フリゲート "wikilink")に搭載されており、ロシア本国においてもアドミラル・ゴルシコフ級フリゲートや[ステレグシュチイ級フリゲート](../Page/ステレグシュチイ級フリゲート.md "wikilink")に搭載されている。
   - 3S97.2K（[3K96 リドゥート用](https://ja.wikipedia.org/wiki/3K96_リドゥート "wikilink")）
     複数種の異なる対空ミサイルを搭載可能で、長距離から近距離まで対応できる。建造中の[アドミラル・ゴルシコフ級フリゲート](../Page/アドミラル・ゴルシコフ級フリゲート.md "wikilink")に、3S90E.1に替えて搭載予定。
   - 3R-14V（[P-800 オーニクス及び](../Page/P-800_\(ミサイル\).md "wikilink")、[クラブ用](https://ja.wikipedia.org/wiki/クラブ_\(ミサイル\) "wikilink")）

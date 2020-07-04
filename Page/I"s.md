@@ -204,7 +204,7 @@
   - 監督・絵コンテ - [杜野幼青](../Page/影山楙倫.md "wikilink")
   - 構成・脚本 - [影山楙倫](../Page/影山楙倫.md "wikilink")
   - 演出 - 内田祐司
-  - キャラクターデザイン - [りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink")
+  - キャラクターデザイン - [りんしん](../Page/りんしん.md "wikilink")
   - 作画監督 - 高木信一郎
   - 美術監督 - 伊藤聖
   - 色彩設計 - 中田亮大
@@ -241,7 +241,7 @@
   - ナミ - [鈴木菜穂子](../Page/鈴木菜穂子.md "wikilink")
   - 磯崎 泉 - [門脇舞](../Page/門脇舞以.md "wikilink")
   - 古川リエ - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
-  - カミノギ イサイ - [諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")
+  - カミノギ イサイ - [諸角憲一](../Page/諸角憲一.md "wikilink")
   - 鮫島/マリオネットキング -[成瀬誠](../Page/成瀬誠.md "wikilink")
   - 花園広巳 - [江川央生](../Page/江川央生.md "wikilink")
   - 瀬戸貴子 - [湯屋敦子](../Page/湯屋敦子.md "wikilink")
@@ -250,7 +250,7 @@
 
   - 監督 - [神戸守](../Page/神戸守.md "wikilink")
   - シリーズ構成・脚本 - [大石哲也](../Page/大石哲也.md "wikilink")
-  - キャラクターデザイン - [りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink")
+  - キャラクターデザイン - [りんしん](../Page/りんしん.md "wikilink")
   - 美術監督 - 常盤庄司
   - 色彩設計 - 中田亮大
   - 撮影監督 - 山口則和
@@ -265,20 +265,20 @@
 #### 主題歌
 
   - オープニングテーマ「二人のI"s 〜i will follow you〜」
-    作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - [大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌 - Mizuho
+    作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - [大石憲一郎](../Page/大石憲一郎.md "wikilink") / 歌 - Mizuho
   - エンディングテーマ「小さな翼 〜eyes for you〜」
     作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - 桑田衛 / 歌 - Mizuho
 
 #### 各話リスト
 
-| 話数 | サブタイトル                  | 絵コンテ                             | 演出                                                    | 作画監督                                                    |
-| -- | ----------------------- | -------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
-| 1  | au commencement（始まり）    | [神戸守](../Page/神戸守.md "wikilink") | 小高義規                                                  | [宮田奈保美](https://ja.wikipedia.org/wiki/宮田奈保美 "wikilink") |
-| 2  | souvenir（回想）            | 岩永彰                              | [りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink") |                                                         |
-| 3  | adieu（別れ）               | 小高義規                             | EUM IK HYUN                                           |                                                         |
-| 4  | vertige（めまい）            | 岩永彰                              | 嶋田俊彦                                                  |                                                         |
-| 5  | declaration d'amour（告白） | 小高義規                             | 白石涼子                                                  |                                                         |
-| 6  | ensemble（一緒に）           | 岩永彰                              | りんしん                                                  |                                                         |
+| 話数 | サブタイトル                  | 絵コンテ                             | 演出                                 | 作画監督                                                    |
+| -- | ----------------------- | -------------------------------- | ---------------------------------- | ------------------------------------------------------- |
+| 1  | au commencement（始まり）    | [神戸守](../Page/神戸守.md "wikilink") | 小高義規                               | [宮田奈保美](https://ja.wikipedia.org/wiki/宮田奈保美 "wikilink") |
+| 2  | souvenir（回想）            | 岩永彰                              | [りんしん](../Page/りんしん.md "wikilink") |                                                         |
+| 3  | adieu（別れ）               | 小高義規                             | EUM IK HYUN                        |                                                         |
+| 4  | vertige（めまい）            | 岩永彰                              | 嶋田俊彦                               |                                                         |
+| 5  | declaration d'amour（告白） | 小高義規                             | 白石涼子                               |                                                         |
+| 6  | ensemble（一緒に）           | 岩永彰                              | りんしん                               |                                                         |
 
 ## 実写ドラマ
 

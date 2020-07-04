@@ -84,7 +84,7 @@
 
   - [キルトS](https://ja.wikipedia.org/wiki/キルトS "wikilink")、[キルトT](https://ja.wikipedia.org/wiki/キルトT "wikilink")（[高橋美由紀](../Page/高橋美由紀_\(漫画家\).md "wikilink")）
   - [天宮ごよみ〜雲の通い路〜](https://ja.wikipedia.org/wiki/天宮ごよみ〜雲の通い路〜 "wikilink")（[瀧川真由](https://ja.wikipedia.org/wiki/瀧川真由 "wikilink")）
-  - [北宋風雲伝](../Page/北宋風雲伝.md "wikilink")、[新☆再生縁 〜明王朝宮廷物語〜](https://ja.wikipedia.org/wiki/新☆再生縁_〜明王朝宮廷物語〜 "wikilink")（[滝口琳々](https://ja.wikipedia.org/wiki/滝口琳々 "wikilink")）
+  - [北宋風雲伝](../Page/北宋風雲伝.md "wikilink")、[新☆再生縁 〜明王朝宮廷物語〜](https://ja.wikipedia.org/wiki/新☆再生縁_〜明王朝宮廷物語〜 "wikilink")（[滝口琳々](../Page/滝口琳々.md "wikilink")）
   - [女王様の犬](https://ja.wikipedia.org/wiki/女王様の犬 "wikilink")、[縛り屋小町](https://ja.wikipedia.org/wiki/縛り屋小町 "wikilink")、[HONEY×BULLET](https://ja.wikipedia.org/wiki/HONEY×BULLET "wikilink")（[竹内未来](https://ja.wikipedia.org/wiki/竹内未来 "wikilink")）
   - [まろまろまーろ](https://ja.wikipedia.org/wiki/まろまろまーろ "wikilink")（[竹野カエ](https://ja.wikipedia.org/wiki/竹野カエ "wikilink")）
   - [ファントム・コグニクション](https://ja.wikipedia.org/wiki/ファントム・コグニクション "wikilink")（[伊庭竹緒](https://ja.wikipedia.org/wiki/伊庭竹緒 "wikilink")）

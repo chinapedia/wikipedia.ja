@@ -6,7 +6,7 @@
   - [インベスター・リレーションズ](../Page/インベスター・リレーションズ.md "wikilink")(Investor Relations)　企業が株主や投資家に対し、財務状況など投資の判断に必要な情報を提供していく活動全般。IR情報は投資家向け広報、IRサイトはその情報を提供している[ウェブサイト](../Page/ウェブサイト.md "wikilink")。
   - [イラン](../Page/イラン.md "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
   - [イラン航空](https://ja.wikipedia.org/wiki/イラン航空 "wikilink") (Iran Air) の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")
-  - [インパルス応答](https://ja.wikipedia.org/wiki/インパルス応答 "wikilink")(impulse response) - [有限インパルス応答](https://ja.wikipedia.org/wiki/有限インパルス応答 "wikilink")、[無限インパルス応答](../Page/無限インパルス応答.md "wikilink")も参照。
+  - [インパルス応答](../Page/インパルス応答.md "wikilink")(impulse response) - [有限インパルス応答](https://ja.wikipedia.org/wiki/有限インパルス応答 "wikilink")、[無限インパルス応答](../Page/無限インパルス応答.md "wikilink")も参照。
   - [赤外線](../Page/赤外線.md "wikilink") (infrared)
       - [赤外分光法](../Page/赤外分光法.md "wikilink")
   - [情報検索](../Page/情報検索.md "wikilink") (information retrieval)

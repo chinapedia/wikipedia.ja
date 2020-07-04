@@ -48,7 +48,7 @@
   - [コッドのセル・オートマトン](../Page/コッドのセル・オートマトン.md "wikilink")
   - [関係の正規化](https://ja.wikipedia.org/wiki/関係の正規化 "wikilink")
   - [クリス・デイト](../Page/クリス・デイト.md "wikilink")
-  - [ヒュー・ダーウェン](https://ja.wikipedia.org/wiki/ヒュー・ダーウェン "wikilink")
+  - [ヒュー・ダーウェン](../Page/ヒュー・ダーウェン.md "wikilink")
 
 [Category:イギリスの計算機科学者](https://ja.wikipedia.org/wiki/Category:イギリスの計算機科学者 "wikilink") [Category:データベース研究者](https://ja.wikipedia.org/wiki/Category:データベース研究者 "wikilink") [Category:チューリング賞受賞者](https://ja.wikipedia.org/wiki/Category:チューリング賞受賞者 "wikilink") [Category:IBMフェロー](https://ja.wikipedia.org/wiki/Category:IBMフェロー "wikilink") [Category:テネシー大学の教員](https://ja.wikipedia.org/wiki/Category:テネシー大学の教員 "wikilink") [Category:ACMフェロー](https://ja.wikipedia.org/wiki/Category:ACMフェロー "wikilink") [Category:ミシガン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ミシガン大学出身の人物 "wikilink") [Category:ウェイマス出身の人物](https://ja.wikipedia.org/wiki/Category:ウェイマス出身の人物 "wikilink") [Category:1923年生](https://ja.wikipedia.org/wiki/Category:1923年生 "wikilink") [Category:2003年没](https://ja.wikipedia.org/wiki/Category:2003年没 "wikilink")
 

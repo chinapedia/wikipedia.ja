@@ -199,7 +199,7 @@
   - [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")
   - [島ひとみ](../Page/島ひとみ.md "wikilink")（2013年4月〜2015年3月27日）
   - [丸井汐里](https://ja.wikipedia.org/wiki/丸井汐里 "wikilink")（2015年4月6日〜2017年3月17日）
-  - [秋山千鶴](https://ja.wikipedia.org/wiki/秋山千鶴 "wikilink")（2012.4月〜2018年3月23日）
+  - [秋山千鶴](../Page/秋山千鶴.md "wikilink")（2012.4月〜2018年3月23日）
 
 ### お天気キャスター
 

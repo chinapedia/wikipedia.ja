@@ -78,7 +78,7 @@
   - [ヱヴァンゲリヲン新劇場版:破](https://ja.wikipedia.org/wiki/ヱヴァンゲリヲン新劇場版:破 "wikilink")（デザインワークス）
   - [宇宙ショーへようこそ](https://ja.wikipedia.org/wiki/宇宙ショーへようこそ "wikilink")（プロダクションデザイン）
   - [荒川アンダー ザ ブリッジ×ブリッジ](https://ja.wikipedia.org/wiki/荒川アンダー_ザ_ブリッジ#テレビアニメ "wikilink")（第6話エンドカード)
-  - [アスタロッテのおもちゃ\!](https://ja.wikipedia.org/wiki/ロッテのおもちゃ! "wikilink")（ワールドビジュアルデザイナー）
+  - [アスタロッテのおもちゃ\!](../Page/ロッテのおもちゃ!.md "wikilink")（ワールドビジュアルデザイナー）
   - [ギルティクラウン](https://ja.wikipedia.org/wiki/ギルティクラウン "wikilink")（第7話エンドカード)
   - [戦姫絶唱シンフォギア](https://ja.wikipedia.org/wiki/戦姫絶唱シンフォギア "wikilink")（クリーチャーデザイン）
   - [伏 鉄砲娘の捕物帳](https://ja.wikipedia.org/wiki/伏_鉄砲娘の捕物帳 "wikilink")（ビジュアルイメージ）

@@ -1,7 +1,7 @@
 > この記事は[JUNGLE PARADISE](https://ja.wikipedia.org/wiki/JUNGLE_PARADISE)から翻訳されています。
 
 
-『**JUNGLE PARADISE**』（ジャングル・パラダイス）は、[FM-FUJIで](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[1999年](../Page/1999年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称**ジャンパラ**。同社東京支社[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")（[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")）から生放送、関東・甲信地区で聴取可能であった。
+『**JUNGLE PARADISE**』（ジャングル・パラダイス）は、[FM-FUJIで](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[1999年](../Page/1999年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称**ジャンパラ**。同社東京支社[STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")（[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")）から生放送、関東・甲信地区で聴取可能であった。
 
 ## 概要
 

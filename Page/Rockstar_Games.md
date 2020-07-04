@@ -60,7 +60,7 @@
   - [モンスタートラックマッドネス64](https://ja.wikipedia.org/wiki/モンスタートラックマッドネス2 "wikilink")
   - [マンハント シリーズ](https://ja.wikipedia.org/wiki/マンハント_シリーズ "wikilink")
       - [マンハント](../Page/マンハント.md "wikilink")
-      - [マンハント2](https://ja.wikipedia.org/wiki/マンハント2 "wikilink")
+      - [マンハント2](../Page/マンハント2.md "wikilink")
   - [Oni](https://ja.wikipedia.org/wiki/Oni_\(コンピュータゲーム\) "wikilink")
   - [レッド・デッドシリーズ](https://ja.wikipedia.org/wiki/レッド・デッドシリーズ "wikilink")
       - [レッド・デッド・リボルバー](https://ja.wikipedia.org/wiki/レッド・デッド・リボルバー "wikilink")

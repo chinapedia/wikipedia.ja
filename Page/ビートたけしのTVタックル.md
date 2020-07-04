@@ -23,9 +23,9 @@
 
 [2009年](../Page/2009年.md "wikilink")（平成21年）8月31日は、[前日に行われた](../Page/8月30日.md "wikilink")[第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")の総括・分析のため、番組20年の中で初めて[生放送](../Page/生放送.md "wikilink")を行った。これはレギュラーの大竹と阿川がラジオ番組『[大竹まこと ゴールデンラジオ\!](../Page/大竹まこと_ゴールデンラジオ!.md "wikilink")』（[文化放送](../Page/文化放送.md "wikilink")）に出演しているため昼の収録ができなくなったからである。[2011年](../Page/2011年.md "wikilink")（平成23年）4月11日・同年12月19日・2012年（平成24年）11月12日に放送された3時間スペシャルのそれぞれ後半で放送された分も生放送であった。4月11日分は、後半部分\[1\]で[前日に行われた](../Page/4月10日.md "wikilink")[第17回統一地方選挙](https://ja.wikipedia.org/wiki/第17回統一地方選挙 "wikilink")総括・分析のため（主に[東京都知事選挙について](https://ja.wikipedia.org/wiki/2011年東京都知事選挙 "wikilink")）、12月19日は、当日死去した[金正日](https://ja.wikipedia.org/wiki/金正日 "wikilink")[総書記について](https://ja.wikipedia.org/wiki/朝鮮労働党中央委員会総書記 "wikilink")、2012年11月12日は政局関係について、[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）12月17日では、[前日に投開票された](../Page/12月16日.md "wikilink")[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")と[2012年東京都知事選挙](https://ja.wikipedia.org/wiki/2012年東京都知事選挙 "wikilink")の総括と分析について、以上4つの放送が、[生放送](../Page/生放送.md "wikilink")となった。2012年11月19日分は前週に引き続き生放送となった。これは16日に[衆議院が解散となったことと](https://ja.wikipedia.org/wiki/近いうち解散 "wikilink")、15日にレギュラー出演していた[三宅久之](../Page/三宅久之.md "wikilink")が死去したため。
 
-[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")などの自民党幹部も出演している。かつては[浜田幸一](https://ja.wikipedia.org/wiki/浜田幸一 "wikilink")がそのキャラクターから「**悪党党**」\[2\]幹事長として意見を述べていた。
+[安倍晋三](../Page/安倍晋三.md "wikilink")などの自民党幹部も出演している。かつては[浜田幸一](https://ja.wikipedia.org/wiki/浜田幸一 "wikilink")がそのキャラクターから「**悪党党**」\[2\]幹事長として意見を述べていた。
 
-ゴールデン時代は不定期で前枠の「[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")」「[Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")」との[合同](../Page/コンプレックス_\(番組形式\).md "wikilink")（まれに他の特番とも合同）の3時間スペシャルで休止にすることがあったり、前2番組を休止にして当番組を3時間スペシャル\[3\]にすることがあるが、[2013年](../Page/2013年.md "wikilink")（平成25年）5月13日の回では、この3番組を初めて合同させた3時間スペシャルが行われた(阿川、江口らが「Qさま\!\!」の[プレッシャーSTUDY](../Page/プレッシャーSTUDY.md "wikilink")に参加、「Qさま\!\!」側から[やくみつる](../Page/やくみつる.md "wikilink")、[石原良純](../Page/石原良純.md "wikilink")が本番組に参加)。
+ゴールデン時代は不定期で前枠の「[お試しかっ\!](../Page/もしものシミュレーションバラエティー_お試しかっ!.md "wikilink")」「[Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")」との[合同](../Page/コンプレックス_\(番組形式\).md "wikilink")（まれに他の特番とも合同）の3時間スペシャルで休止にすることがあったり、前2番組を休止にして当番組を3時間スペシャル\[3\]にすることがあるが、[2013年](../Page/2013年.md "wikilink")（平成25年）5月13日の回では、この3番組を初めて合同させた3時間スペシャルが行われた(阿川、江口らが「Qさま\!\!」の[プレッシャーSTUDY](../Page/プレッシャーSTUDY.md "wikilink")に参加、「Qさま\!\!」側から[やくみつる](../Page/やくみつる.md "wikilink")、[石原良純](../Page/石原良純.md "wikilink")が本番組に参加)。
 
 2014年3月31日以降は放送開始25周年の機に放送枠を月曜日の21時台から「[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")」（[朝日放送〈当時〉を除く月](../Page/朝日放送テレビ.md "wikilink") - 木曜日の23:15 - 翌0:15に放送）の月曜枠へ移動\[4\]する。サラリーマンが帰宅後の視聴を想定した案で、月曜日の21時台は[池上彰](../Page/池上彰.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")『[ここがポイント\!\!池上彰解説塾](https://ja.wikipedia.org/wiki/ここがポイント!!池上彰解説塾 "wikilink")』をレギュラーで放送し、21時からニュース番組が3番組続く\[5\]。テレビ朝日の[ゴールデン](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")・[プライムタイム](../Page/プライムタイム.md "wikilink")番組が「ネオバラエティ」枠に移動したのは、2010年4月の『[今すぐ使える豆知識 クイズ雑学王](../Page/今すぐ使える豆知識_クイズ雑学王.md "wikilink")』（水曜日20時台 → 「ネオバラエティ」月曜枠）以来4年振り、ただし、「雑学王」は[2007年](../Page/2007年.md "wikilink")10月3日 - 同年12月19日に「ネオバラエティ」の水曜枠で放送されているため、ネオバラエティ未経験番組としては初めての枠移動になる。
 
@@ -155,7 +155,7 @@
   - [小野寺五典](../Page/小野寺五典.md "wikilink")（衆議院議員、元[防衛大臣](../Page/防衛大臣.md "wikilink")）
   - [河野太郎](../Page/河野太郎.md "wikilink")（衆議院議員、[防衛大臣](../Page/防衛大臣.md "wikilink")、元[外務大臣](../Page/外務大臣_\(日本\).md "wikilink")、元[法務副大臣](https://ja.wikipedia.org/wiki/法務副大臣 "wikilink")）
   - [鴻池祥肇](https://ja.wikipedia.org/wiki/鴻池祥肇 "wikilink")（参議院議員、元官房副長官）
-  - [安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")（衆議院議員、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、元[内閣官房長官](../Page/内閣官房長官.md "wikilink")、元[党幹事長](../Page/自由民主党幹事長.md "wikilink")）
+  - [安倍晋三](../Page/安倍晋三.md "wikilink")（衆議院議員、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、元[内閣官房長官](../Page/内閣官房長官.md "wikilink")、元[党幹事長](../Page/自由民主党幹事長.md "wikilink")）
   - [秋葉賢也](../Page/秋葉賢也.md "wikilink")（衆議院議員、元[厚生労働副大臣](https://ja.wikipedia.org/wiki/厚生労働副大臣 "wikilink")、元[復興副大臣](https://ja.wikipedia.org/wiki/復興副大臣 "wikilink")）
   - [衛藤征士郎](../Page/衛藤征士郎.md "wikilink")（衆議院議員、元防衛庁長官、元[衆議院副議長](https://ja.wikipedia.org/wiki/衆議院議長 "wikilink")）
   - [石破茂](https://ja.wikipedia.org/wiki/石破茂 "wikilink")（衆議院議員、元[地方創生担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（地方創生担当） "wikilink")、元[国家戦略特別区域担当大臣](https://ja.wikipedia.org/wiki/内閣府特命担当大臣（国家戦略特別区域担当） "wikilink")、元[党幹事長](../Page/自由民主党幹事長.md "wikilink")、元[農林水産大臣](../Page/農林水産大臣.md "wikilink")、元防衛大臣、元防衛庁長官、元[防衛庁副長官](https://ja.wikipedia.org/wiki/防衛庁副長官 "wikilink")） - 組閣直後の放送（収録は直前）で「祝・防衛庁長官就任\!」とテロップ表示される。
@@ -359,7 +359,7 @@
   - [崔洋一](../Page/崔洋一.md "wikilink")（映画監督）
   - [江川達也](../Page/江川達也.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")）
   - [飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")（元[AV女優](../Page/AV女優.md "wikilink")・タレント）
-  - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")（映画監督）
+  - [井筒和幸](../Page/井筒和幸.md "wikilink")（映画監督）
   - [林寛子](../Page/林寛子_\(タレント\).md "wikilink")（タレント）
   - [島田律子](../Page/島田律子.md "wikilink")（エッセイスト）
   - [野坂昭如](../Page/野坂昭如.md "wikilink")（作家、元参議院議員）
@@ -459,7 +459,7 @@
   - 将軍・福田康家：[福田康夫](../Page/福田康夫.md "wikilink")
   - 元将軍・小泉純七郎：[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")
   - 元将軍・森喜太朗：[森喜朗](../Page/森喜朗.md "wikilink")
-  - 安倍晋吾：[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")
+  - 安倍晋吾：[安倍晋三](../Page/安倍晋三.md "wikilink")
   - 前側用人・与謝野薫：[与謝野馨](../Page/与謝野馨.md "wikilink")
   - 武部勤守：[武部勤](../Page/武部勤.md "wikilink")
   - 戦対奉行・古賀誠之助：[古賀誠](https://ja.wikipedia.org/wiki/古賀誠 "wikilink")
@@ -480,7 +480,7 @@
   - 元飛脚奉行・野田聖之介：[野田聖子](../Page/野田聖子.md "wikilink")
   - 元幕府外交特使・猪口邦姫：[猪口邦子](../Page/猪口邦子.md "wikilink")
   - 旗本・佐藤ゆか里：[佐藤ゆかり](../Page/佐藤ゆかり.md "wikilink")
-  - 将軍候補・小池百合之丞：[小池百合子](https://ja.wikipedia.org/wiki/小池百合子 "wikilink")
+  - 将軍候補・小池百合之丞：[小池百合子](../Page/小池百合子.md "wikilink")
   - 谷垣藩家老・石破茂吉：[石破茂](https://ja.wikipedia.org/wiki/石破茂 "wikilink")
   - 大老・細田博行：[細田博之](../Page/細田博之.md "wikilink")
   - 谷垣藩藩士・平沢勝衛：[平沢勝栄](../Page/平沢勝栄.md "wikilink")（本人出演）
@@ -563,7 +563,7 @@
 ### 20時台の番組とのクロスプログラム
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月まで、たけし、大竹、阿川の3人が揃い、たけしが「このあとは、たけしのTVタックル\!\!」と述べているが、たけしが噛んだのか笑いを誘うシーンがあった。
-  - 2010年4月以後、直前の番組である「[クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")」の司会を務める[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")と[優香](../Page/優香.md "wikilink")が担当している。ただし、「[もしものシミュレーションバラエティー お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")」がスペシャルを行う場合はこの番組の司会を務める[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")が担当している。
+  - 2010年4月以後、直前の番組である「[クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")」の司会を務める[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")と[優香](../Page/優香.md "wikilink")が担当している。ただし、「[もしものシミュレーションバラエティー お試しかっ\!](../Page/もしものシミュレーションバラエティー_お試しかっ!.md "wikilink")」がスペシャルを行う場合はこの番組の司会を務める[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")が担当している。
 
 ### 22時台の番組とのクロスプログラム
 
@@ -613,7 +613,7 @@
   - 2011年4月11日の3時間スペシャルの後半は生放送だったが、放送はCM中に地震が発生し、たけしと[東国原英夫](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")の2人が椅子に隠れた。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）4月2日長らく字幕放送が行われていなかったが、当日放送分の「三宅久之マル秘卒業記念3時間スペシャル」から字幕放送が開始された。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）2月10日、日曜21:00 - 23:10（本来の『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』枠）で、『**ビートたけしのプレミアTVタックル**』が放送された。[2月4日](../Page/2月4日.md "wikilink")ならびに[2月11日](../Page/2月11日.md "wikilink")のレギュラー放送が2週連続で休止されたことに対する事実上の代替となった。
-  - [2013年](../Page/2013年.md "wikilink")（平成25年）5月13日、3週間振りの放送は、史上初の『[もしものシミュレーションバラエティー お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』・『[クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")』との合体3時間スペシャル。当番組に『Qさま』から「[プレッシャーSTUDY](../Page/プレッシャーSTUDY.md "wikilink")」メンバーの[やくみつる](../Page/やくみつる.md "wikilink")と石原良純がゲスト出演した。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）5月13日、3週間振りの放送は、史上初の『[もしものシミュレーションバラエティー お試しかっ\!](../Page/もしものシミュレーションバラエティー_お試しかっ!.md "wikilink")』・『[クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")』との合体3時間スペシャル。当番組に『Qさま』から「[プレッシャーSTUDY](../Page/プレッシャーSTUDY.md "wikilink")」メンバーの[やくみつる](../Page/やくみつる.md "wikilink")と石原良純がゲスト出演した。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）5月20日から6月10日までの4週はいずれも通常放送であったものの、テレビ朝日他一部地域のみ20:58開始の[フライングスタートとなった](../Page/フライングスタート_\(放送\).md "wikilink")。通常放送がフライング体制となったのは[2001年](../Page/2001年.md "wikilink")9月以来11年8ヶ月振り（このときは系列局全局で20:54開始であった）。ただし21:00までは当日の放送内容を紹介し、21:00から大半の地域が飛び乗り、本編開始となった。『お試しかっ』や『Qさま』の3時間SPで3週休止した後、同年[7月1日](../Page/7月1日.md "wikilink")放送分から再び21:00開始に戻る。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）12月9日、11月29日から始まったテレビ朝日開局55周年記念番組『[55時間テレビ](https://ja.wikipedia.org/wiki/55時間テレビ "wikilink")』のラストとして、23:15 - 翌0:15（本来の[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")枠）で「特別編 [たけしの知らないニュース2013](https://ja.wikipedia.org/wiki/世界がザワついた（秘）映像_ビートたけしの知らないニュース "wikilink")」として放送。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）3月31日、この日より[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")枠にて放送。同時に[モノラル制作（モノステレオ放送）から](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")[ステレオ制作（フルステレオ放送）に変更された](../Page/ステレオ放送.md "wikilink")。
@@ -1057,7 +1057,7 @@
 #### 1989年
 
   - 1989.07 - 1989.09：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")「[おねがい天国](https://ja.wikipedia.org/wiki/おねがい天国 "wikilink")」
-  - 1989.10 - 1989.12：[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")「[I'M GETTIN' BLUE](https://ja.wikipedia.org/wiki/I'M_GETTIN'_BLUE "wikilink")」
+  - 1989.10 - 1989.12：[ZIGGY](../Page/ZIGGY.md "wikilink")「[I'M GETTIN' BLUE](https://ja.wikipedia.org/wiki/I'M_GETTIN'_BLUE "wikilink")」
 
 #### 1990年
 

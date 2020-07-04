@@ -102,7 +102,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")の生放送に出演する場合、昼から始まるリハーサルを終えると夜の出演までは時間が空いてしまう。この空き時間に、SUGIZOやJは、当時[テレビ朝日](../Page/テレビ朝日.md "wikilink")の近くにあったCDショップ六本木WAVEで手当たり次第気になるCDを買っていたという。また、SUGIZOは[土屋昌巳](../Page/土屋昌巳.md "wikilink")や[坂本龍一](../Page/坂本龍一.md "wikilink")からオススメの音楽を教わっていた。このような音楽的貪欲さがLUNA SEAというバンドの音楽性の基礎につながっているのではないかとライターの藤谷は述べている。
 
-このほかに、INORANは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")を尊敬しているという。SUGIZOは[カオスUK](https://ja.wikipedia.org/wiki/カオスUK "wikilink")、[ディスチャージをルーツとしており](../Page/ディスチャージ_\(バンド\).md "wikilink")、[クラス](../Page/クラス_\(バンド\).md "wikilink")、[ポップ・グループ](../Page/ポップ・グループ.md "wikilink")なども好きなバンドにあげている\[16\]。また、LUNA SEAの活動の初期には[バウハウスや](../Page/バウハウス_\(バンド\).md "wikilink")などの[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")からも影響を受けていたという\[17\]。
+このほかに、INORANは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")を尊敬しているという。SUGIZOは[カオスUK](https://ja.wikipedia.org/wiki/カオスUK "wikilink")、[ディスチャージをルーツとしており](../Page/ディスチャージ_\(バンド\).md "wikilink")、[クラス](../Page/クラス_\(バンド\).md "wikilink")、[ポップ・グループ](../Page/ポップ・グループ.md "wikilink")なども好きなバンドにあげている\[16\]。また、LUNA SEAの活動の初期には[バウハウスや](../Page/バウハウス_\(バンド\).md "wikilink")などの[ゴシック・ロック](../Page/ゴシック・ロック.md "wikilink")からも影響を受けていたという\[17\]。
 
 ## 来歴
 
@@ -638,7 +638,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   - [1月11日](../Page/1月11日.md "wikilink")：ライブツアー「LUNA SEA LIVE TOUR 2012-2013 The End of the Dream」の[日本武道館](../Page/日本武道館.md "wikilink")6DAYS公演がスタート。全6公演。
-  - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink"):ライブツアー「LUNA SEA LIVE TOUR 2012-2013 The End of the Dream」のアジアツアーが、台湾のネオスタジオでスタート。全5公演。
+  - [1月26日](../Page/1月26日.md "wikilink"):ライブツアー「LUNA SEA LIVE TOUR 2012-2013 The End of the Dream」のアジアツアーが、台湾のネオスタジオでスタート。全5公演。
   - [2月17日](../Page/2月17日.md "wikilink")：ファンクラブ限定ライブ「SLAVE限定GIG 2013」を、両国国技館で開催。
   - [3月27日](../Page/3月27日.md "wikilink")：2012年にWOWOWで放送された無観客ライブと2010-11年の初カウントダウンライブ at 神戸ワールド記念ホールを収録したBD＆DVD「The End of the Dream -prologue-」、12年振りとなるスタンディングツアーの最終公演を収録したライブDVD「The End of the Dream ZEPP TOUR 2012『降臨』」、ベストアルバム『COMPLETE BEST-ASIA LIMITED EDITION-』を発売。
   - [4月24日](../Page/4月24日.md "wikilink")：ライブBD「The End of the Dream ZEPP TOUR 2012『降臨』」を発売。
@@ -2462,7 +2462,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 10月30日 <a href="../Page/岐阜市文化センター.md" title="wikilink">岐阜市文化センター</a><br />
 10月31日 <a href="https://ja.wikipedia.org/wiki/沼津市文化センター" title="wikilink">沼津市文化センター</a><br />
 11月2日 <a href="../Page/神戸ハーバーランド.md" title="wikilink">神戸国際会館ハーバーランドプラザ</a><br />
-11月5日 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール</a><br />
+11月5日 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール</a><br />
 11月8日 熊本市民会館<br />
 11月11日 <a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a><br />
 11月13日 <a href="../Page/長崎市公会堂.md" title="wikilink">長崎市公会堂</a><br />
@@ -3400,7 +3400,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 93. vs AION/DECAMERON
 94. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
 95. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
-96. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
+96. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](../Page/ZIGGY.md "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
 97.
 98. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
 99.

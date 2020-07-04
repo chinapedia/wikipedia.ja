@@ -323,7 +323,7 @@
 
   - 原作 - [浦沢直樹](../Page/浦沢直樹.md "wikilink")
   - 製作 - [多賀英典](../Page/多賀英典.md "wikilink")（第1 - 102話）・伊地智啓（第103 - 124話）
-  - 企画 - [落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")
+  - 企画 - [落合茂一](../Page/落合茂一.md "wikilink")
   - シリーズ構成 - [井上敏樹](../Page/井上敏樹.md "wikilink")
   - 音楽 - [森英治](../Page/森英治.md "wikilink")（[ピカソ](../Page/ピカソ_\(バンド\).md "wikilink")）、AXISS
   - キャラクターデザイン - [兼森義則](../Page/兼森義則.md "wikilink")
@@ -634,7 +634,7 @@
 
 #### スタッフ
 
-  - 企画 - [中谷敏夫](https://ja.wikipedia.org/wiki/中谷敏夫 "wikilink")、[諏訪道彦](../Page/諏訪道彦.md "wikilink")、田旗ひろし、[落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")
+  - 企画 - [中谷敏夫](https://ja.wikipedia.org/wiki/中谷敏夫 "wikilink")、[諏訪道彦](../Page/諏訪道彦.md "wikilink")、田旗ひろし、[落合茂一](../Page/落合茂一.md "wikilink")
   - 脚本 - [井上敏樹](../Page/井上敏樹.md "wikilink")
   - キャラクターデザイン - [兼森義則](../Page/兼森義則.md "wikilink")、君塚勝教
   - 作画監督 - 君塚勝教
@@ -652,7 +652,7 @@
 #### 主題歌
 
   - 主題歌「Today is another day」
-    作詞 - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") / 作曲 - [織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲 - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") / 歌 - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+    作詞 - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") / 作曲 - [織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲 - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") / 歌 - [ZARD](../Page/ZARD.md "wikilink")
   - 挿入歌「見つめていたいね」
     作詞 - 坂井泉水 / 作曲 - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") / 編曲 - [明石昌夫](../Page/明石昌夫.md "wikilink") / 歌 - ZARD
 
@@ -737,7 +737,7 @@
 
 ## 実写版映画
 
-[1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にアニメ化より先に、[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")主演で実写映画化\[48\]。柔道家やプロレスラーが[カメオ出演](../Page/カメオ出演.md "wikilink")している。製作は[東宝映画](https://ja.wikipedia.org/wiki/東宝映画_\(企業\) "wikilink")、[マイカル](../Page/マイカル.md "wikilink")（現：[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")）。配給は[東宝](../Page/東宝.md "wikilink")。上映時間は97分。
+[1989年](../Page/1989年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にアニメ化より先に、[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")主演で実写映画化\[48\]。柔道家やプロレスラーが[カメオ出演](../Page/カメオ出演.md "wikilink")している。製作は[東宝映画](https://ja.wikipedia.org/wiki/東宝映画_\(企業\) "wikilink")、[マイカル](../Page/マイカル.md "wikilink")（現：[イオンリテール](../Page/イオンリテール.md "wikilink")）。配給は[東宝](../Page/東宝.md "wikilink")。上映時間は97分。
 
 ### キャスト
 
@@ -777,7 +777,7 @@
   - 照明 - [大澤暉男](https://ja.wikipedia.org/wiki/大澤暉男 "wikilink")
   - 編集 - [長田千鶴子](https://ja.wikipedia.org/wiki/長田千鶴子 "wikilink")
   - スチール - 橋山直己
-  - 主題歌 - 浅香唯「[NEVERLAND 〜YAWARA\!メインテーマ〜](https://ja.wikipedia.org/wiki/NEVERLAND_〜YAWARA!メインテーマ〜 "wikilink")」
+  - 主題歌 - 浅香唯「[NEVERLAND 〜YAWARA\!メインテーマ〜](../Page/NEVERLAND_〜YAWARA!メインテーマ〜.md "wikilink")」
   - サウンドトラック - [YAWARA\! オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/YAWARA!_オリジナル・サウンドトラック "wikilink")
 
 ### 同時上映

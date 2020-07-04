@@ -273,7 +273,7 @@ BMP-1は、ソ連の友好国に対する輸出も行われ、現在でも旧ソ
     [チェチェン解放軍](https://ja.wikipedia.org/wiki/チェチェン解放軍 "wikilink")・[自由シリア軍](https://ja.wikipedia.org/wiki/自由シリア軍 "wikilink")の兵器として登場。また、[中華人民解放軍](https://ja.wikipedia.org/wiki/中華人民解放軍 "wikilink")の兵器として、86式歩兵戦闘車（WZ-501／ZBD-86）が登場する。
   - 『[大戦略シリーズ](../Page/大戦略シリーズ.md "wikilink")』
     旧[東側諸国](../Page/東側諸国.md "wikilink")の装備として登場。
-  - 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+  - 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
     [北朝鮮反乱軍が使用する歩兵戦闘車として](../Page/朝鮮民主主義人民共和国.md "wikilink")「BMP APC」の名称で登場する。[ロシアン・マフィア](../Page/ロシアン・マフィア.md "wikilink")のSHOPからも購入可能。
   - 『[WarThunder](https://ja.wikipedia.org/wiki/WarThunder "wikilink")』
     ソ連陸軍ツリーのランクVIに軽戦車として登場。

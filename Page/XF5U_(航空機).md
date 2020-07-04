@@ -1,7 +1,7 @@
 > この記事は[XF5U \(航空機\)](https://ja.wikipedia.org/wiki/XF5U_\(航空機\))から翻訳されています。
 
 
-**XF5U**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の依頼で[ヴォート社とその技師](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[Charles H. Zimmermanが設計](https://ja.wikipedia.org/wiki/:en:Charles_H._Zimmerman "wikilink")・[試作した](../Page/プロトタイプ.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。
+**XF5U**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の依頼で[ヴォート社とその技師](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[Charles H. Zimmermanが設計](https://ja.wikipedia.org/wiki/:en:Charles_H._Zimmerman "wikilink")・[試作した](../Page/プロトタイプ.md "wikilink")[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。
 
 円盤状の形状から**フライング・[パンケーキ](../Page/ホットケーキ.md "wikilink")**（）または**フライング・[フラップジャック](https://ja.wikipedia.org/wiki/ホットケーキ#各国のホットケーキ "wikilink")**（）の愛称がつけられている。
 
@@ -107,7 +107,7 @@ XF5Uは"フライング・[パンケーキ](../Page/ホットケーキ.md "wikil
 
 ## 関連項目
 
-  - [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")
+  - [艦上戦闘機](../Page/艦上戦闘機.md "wikilink")
   - [ザック AS-6](../Page/ザック_AS-6.md "wikilink")
 
 ## 外部リンク

@@ -15,7 +15,7 @@ MSNは1995年の[Windows 95の発売と共にサービスを開始した](../Pag
 
 以下では主に日本国内における沿革を記す。
 
-  - 1995年 - [パソコン通信](../Page/パソコン通信.md "wikilink")サービス "The Microsoft Network" として、[Microsoft Windows 95発売と同時にサービスを開始](../Page/Microsoft_Windows_95.md "wikilink")（米国では8月、日本では11月23日）。[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")と[電話回線](../Page/電話回線.md "wikilink")を使って専用のアクセスポイントに接続し、接続時間に応じた従量制料金を取るなど、パソコン通信そのものであった。内容的にも[AOL](../Page/AOL.md "wikilink")や[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")といったパソコン通信業者と同様に、内部で閉じた掲示板やチャット、ニュースなどのサービスを提供していた。
+  - 1995年 - [パソコン通信](../Page/パソコン通信.md "wikilink")サービス "The Microsoft Network" として、[Microsoft Windows 95発売と同時にサービスを開始](../Page/Microsoft_Windows_95.md "wikilink")（米国では8月、日本では11月23日）。[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")と[電話回線](../Page/電話回線.md "wikilink")を使って専用のアクセスポイントに接続し、接続時間に応じた従量制料金を取るなど、パソコン通信そのものであった。内容的にも[AOL](../Page/AOL.md "wikilink")や[ニフティサーブ](../Page/ニフティサーブ.md "wikilink")といったパソコン通信業者と同様に、内部で閉じた掲示板やチャット、ニュースなどのサービスを提供していた。
 
 <!-- end list -->
 

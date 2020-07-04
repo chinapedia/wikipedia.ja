@@ -15,7 +15,7 @@ Lucifer・DESはホルスト・ファイステルらの考えた[Feistel構造](
 
 ### NSAの設計への関与
 
-1975年3月17日、規格案としてのDESが *[Federal Register](https://ja.wikipedia.org/wiki/連邦官報 "wikilink")* に発表された。そしてコメントが募集され、翌年には2回ワークショップを開催してこの規格案について議論した。各所から様々な批判が寄せられた。中には[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の先駆者である[マーティン・ヘルマン](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink")と[ホイットフィールド・ディフィー](https://ja.wikipedia.org/wiki/ホイットフィールド・ディフィー "wikilink")の批判があり、鍵長が短いという点と謎めいた「[Sボックス](../Page/Sボックス.md "wikilink")」がNSAによる不適切な干渉を意味しているのではないかと指摘した。それは、このアルゴリズムを諜報機関が密かに弱め、その諜報機関だけが暗号化されたメッセージを容易に解読できるようにしたのではないかという疑いが持たれたのである\[2\]。アラン・コンハイム（DES設計者の1人）はそれについて「我々はSボックスをワシントンに送った。戻ってきたものは送ったものとは全く異なっていた」と述べた\[3\]。アメリカ合衆国上院諜報特別委員会がNSAの行為に不適切な干渉があったかどうかを調査した。調査結果の公開された要約には次のように書かれている。
+1975年3月17日、規格案としてのDESが *[Federal Register](https://ja.wikipedia.org/wiki/連邦官報 "wikilink")* に発表された。そしてコメントが募集され、翌年には2回ワークショップを開催してこの規格案について議論した。各所から様々な批判が寄せられた。中には[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の先駆者である[マーティン・ヘルマン](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink")と[ホイットフィールド・ディフィー](../Page/ホイットフィールド・ディフィー.md "wikilink")の批判があり、鍵長が短いという点と謎めいた「[Sボックス](../Page/Sボックス.md "wikilink")」がNSAによる不適切な干渉を意味しているのではないかと指摘した。それは、このアルゴリズムを諜報機関が密かに弱め、その諜報機関だけが暗号化されたメッセージを容易に解読できるようにしたのではないかという疑いが持たれたのである\[2\]。アラン・コンハイム（DES設計者の1人）はそれについて「我々はSボックスをワシントンに送った。戻ってきたものは送ったものとは全く異なっていた」と述べた\[3\]。アメリカ合衆国上院諜報特別委員会がNSAの行為に不適切な干渉があったかどうかを調査した。調査結果の公開された要約には次のように書かれている。
 
   -
     「DESの開発において、NSAは[IBM](../Page/IBM.md "wikilink")に対して鍵長が短くても大丈夫だと納得させ、Sボックスの開発を間接的に支援し、最終的なDESアルゴリズムが統計学的にも数学的にも考えられる最高のものだと保証した」\[4\]
@@ -261,7 +261,7 @@ DESの暗号学的安全性は最大でも約64ビットである。例えば、
 
   - Coppersmith, Don. (1994). [The data encryption standard (DES) and its strength against attacks](http://web.archive.org/web/20070316233309/http://www.research.ibm.com/journal/rd/383/coppersmith.pdf). *IBM Journal of Research and Development*, **38**(3), 243–250.
 
-  - [Diffie, Whitfield](https://ja.wikipedia.org/wiki/ホイットフィールド・ディフィー "wikilink") and [Martin Hellman](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink"), "Exhaustive Cryptanalysis of the NBS Data Encryption Standard" IEEE Computer 10(6), June 1977, pp74–84
+  - [Diffie, Whitfield](../Page/ホイットフィールド・ディフィー.md "wikilink") and [Martin Hellman](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink"), "Exhaustive Cryptanalysis of the NBS Data Encryption Standard" IEEE Computer 10(6), June 1977, pp74–84
 
   - Ehrsam et al., Product Block Cipher System for Data Security, , Filed February 24, 1975
 

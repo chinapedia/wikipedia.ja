@@ -331,9 +331,9 @@
         68点
       - [お歯黒べったり](../Page/お歯黒べったり.md "wikilink")
         人間の脳や目玉を欲し、猛スピードで追いかけて来る。子供の頭を丸呑みできる程の大きな口を持つ。転送されて早々のタケシに襲いかかるが、逆にタケシの鉄山靠を食らって即死。
-      - [泥田坊](https://ja.wikipedia.org/wiki/泥田坊 "wikilink")
+      - [泥田坊](../Page/泥田坊.md "wikilink")
         「田を返せー」が口癖。その巨体に似合わず、素早い攻撃を繰り出す。また、口から強力な酸を吐く。風に頭部をもぎ取られ、倒される。
-      - [網切](https://ja.wikipedia.org/wiki/網切 "wikilink")
+      - [網切](../Page/網切.md "wikilink")
         長い尾を持つ。スーツの耐久力を無視する両手の鎌は強力。桑原に鎌で斬りつけようとするも、二口女を盾にされ、かわされる。桑原にXショットガンで攻撃されてしっぽを破壊され逃亡。その後、遭遇した島木のZガンで即死。
       - [一本だたら](../Page/一本だたら.md "wikilink")
         一つ目の巨大な頭部から腕と一本足が生えた妖怪の宇宙人。作中ではオカマのような風貌と口調で登場している。加藤を丸呑みにしようとしたが逆に顎を破壊され、Yガンで転送される。
@@ -834,7 +834,7 @@
 
   - オープニングテーマ「[Super Shooter](../Page/GALAXY_\(RIP_SLYMEの曲\).md "wikilink")」
     作詞・作曲・歌 - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
-  - エンディングテーマ「[Last Kiss](https://ja.wikipedia.org/wiki/Last_Kiss_\(BONNIE_PINKの曲\) "wikilink")」
+  - エンディングテーマ「[Last Kiss](../Page/Last_Kiss_\(BONNIE_PINKの曲\).md "wikilink")」
     作詞・作曲・歌 - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")
 
 ### 各話リスト

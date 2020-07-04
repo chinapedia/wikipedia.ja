@@ -117,7 +117,7 @@
   - 「Dynamic\!Atomic\!S.C.B.G.」[新堂敦士](../Page/新堂敦士.md "wikilink")（2003年頃）
   - 「翼～つばさ～」[INSPi](../Page/INSPi.md "wikilink")（2003年頃）
   - 「[へこんだ気持ち 溶かすキミ](../Page/へこんだ気持ち_溶かすキミ.md "wikilink")」[三枝夕夏 IN db](../Page/三枝夕夏_IN_db.md "wikilink")（2004年頃）
-  - 「[たったひとりの君](https://ja.wikipedia.org/wiki/たったひとりの君 "wikilink")」[樋井明日香](../Page/樋井明日香.md "wikilink")（2004年頃）
+  - 「[たったひとりの君](../Page/たったひとりの君.md "wikilink")」[樋井明日香](../Page/樋井明日香.md "wikilink")（2004年頃）
   - 「Happy Life」[DGEM](../Page/月嶋カリン.md "wikilink")（2004年頃）
   - 「[ねがい](https://ja.wikipedia.org/wiki/ねがい/バースデーイヴ "wikilink")」[TiA](../Page/TiA.md "wikilink")（[2005年](../Page/2005年.md "wikilink")頃）
   - 「あなたとならば」[O's](../Page/O's.md "wikilink")（2005年6月～9月）

@@ -38,7 +38,7 @@ tRNAの3'末端にあるCCAの[アデノシン](../Page/アデノシン.md "wiki
 
 ## 訳語について
 
-[学術用語集](https://ja.wikipedia.org/wiki/学術用語集 "wikilink")では植物学編・遺伝学編が「転移RNA（運搬RNA）」、動物学編が「運搬RNA」としている（すべて増訂版）。[JISの生体工学用語](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")(K3610)では「転移RNA」である。一般には「転移RNA」の方が好んで用いられる傾向にあるが、高校教育では「運搬RNA」が用いられている。
+[学術用語集](../Page/学術用語集.md "wikilink")では植物学編・遺伝学編が「転移RNA（運搬RNA）」、動物学編が「運搬RNA」としている（すべて増訂版）。[JISの生体工学用語](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")(K3610)では「転移RNA」である。一般には「転移RNA」の方が好んで用いられる傾向にあるが、高校教育では「運搬RNA」が用いられている。
 
 ## 関連項目
 

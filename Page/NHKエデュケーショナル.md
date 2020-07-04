@@ -38,7 +38,7 @@
 <li><a href="../Page/いないいないばあっ!.md" title="wikilink">いないいないばあっ!</a></li>
 <li><a href="../Page/えいごであそぼ.md" title="wikilink">えいごであそぼ</a></li>
 <li><a href="../Page/おかあさんといっしょ.md" title="wikilink">おかあさんといっしょ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/おはなしのくに" title="wikilink">おはなしのくに</a></li>
+<li><a href="../Page/おはなしのくに.md" title="wikilink">おはなしのくに</a></li>
 <li><a href="../Page/きょうの健康.md" title="wikilink">きょうの健康</a></li>
 <li><a href="../Page/きょうの料理.md" title="wikilink">きょうの料理</a></li>
 <li><a href="../Page/きょうの料理ビギナーズ.md" title="wikilink">きょうの料理ビギナーズ</a></li>
@@ -60,7 +60,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/シャキーン!" title="wikilink">シャキーン!</a></li>
 <li><a href="../Page/趣味の園芸.md" title="wikilink">趣味の園芸</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/趣味の園芸ビギナーズ" title="wikilink">趣味の園芸ビギナーズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/趣味の園芸_やさいの時間" title="wikilink">趣味の園芸 やさいの時間</a></li>
+<li><a href="../Page/趣味の園芸_やさいの時間.md" title="wikilink">趣味の園芸 やさいの時間</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/将棋講座_(NHK)" title="wikilink">将棋講座</a></li>
 <li><a href="../Page/NHK杯テレビ将棋トーナメント.md" title="wikilink">NHK杯テレビ将棋トーナメント</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/すイエんサー" title="wikilink">すイエんサー</a></li>
@@ -141,13 +141,13 @@
 <td><ul>
 <li><a href="../Page/NHK高校講座.md" title="wikilink">NHK高校講座</a></li>
 <li><a href="../Page/アラビア語講座.md" title="wikilink">アラビア語講座</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちイタリア語" title="wikilink">アンコール まいにちイタリア語</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちスペイン語" title="wikilink">アンコール まいにちスペイン語</a></li>
+<li><a href="../Page/まいにちイタリア語.md" title="wikilink">アンコール まいにちイタリア語</a></li>
+<li><a href="../Page/まいにちスペイン語.md" title="wikilink">アンコール まいにちスペイン語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/まいにち中国語" title="wikilink">アンコール まいにち中国語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/まいにちドイツ語" title="wikilink">アンコール まいにちドイツ語</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちハングル講座" title="wikilink">アンコール まいにちハングル講座</a></li>
+<li><a href="../Page/まいにちハングル講座.md" title="wikilink">アンコール まいにちハングル講座</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/まいにちフランス語" title="wikilink">アンコール まいにちフランス語</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちロシア語" title="wikilink">アンコール まいにちロシア語</a></li>
+<li><a href="../Page/まいにちロシア語.md" title="wikilink">アンコール まいにちロシア語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/英語5分間トレーニング" title="wikilink">英語5分間トレーニング</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/お話でてこい" title="wikilink">お話でてこい</a></li>
 <li><a href="../Page/カルチャーラジオ.md" title="wikilink">カルチャーラジオ</a></li>
@@ -161,18 +161,18 @@
 <li><a href="https://ja.wikipedia.org/wiki/古典講読" title="wikilink">古典講読</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/実践ビジネス英語" title="wikilink">実践ビジネス英語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/社会福祉セミナー" title="wikilink">社会福祉セミナー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/入門ビジネス英語" title="wikilink">入門ビジネス英語</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/文化講演会" title="wikilink">文化講演会</a></li>
+<li><a href="../Page/入門ビジネス英語.md" title="wikilink">入門ビジネス英語</a></li>
+<li><a href="../Page/文化講演会.md" title="wikilink">文化講演会</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ポルトガル語入門_楽しいブラジルの旅" title="wikilink">ポルトガル語入門〜楽しいブラジルの旅</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちイタリア語" title="wikilink">まいにちイタリア語</a></li>
+<li><a href="../Page/まいにちイタリア語.md" title="wikilink">まいにちイタリア語</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちスペイン語" title="wikilink">まいにちスペイン語</a></li>
+<li><a href="../Page/まいにちスペイン語.md" title="wikilink">まいにちスペイン語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/まいにち中国語" title="wikilink">まいにち中国語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/まいにちドイツ語" title="wikilink">まいにちドイツ語</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちハングル講座" title="wikilink">まいにちハングル講座</a></li>
+<li><a href="../Page/まいにちハングル講座.md" title="wikilink">まいにちハングル講座</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/まいにちフランス語" title="wikilink">まいにちフランス語</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/まいにちロシア語" title="wikilink">まいにちロシア語</a></li>
+<li><a href="../Page/まいにちロシア語.md" title="wikilink">まいにちロシア語</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ラジオ英会話" title="wikilink">ラジオ英会話</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/リトル・チャロ2" title="wikilink">リトル・チャロ2 心にしみる英語ドラマ</a></li>
 <li><a href="../Page/朗読_(ラジオ番組).md" title="wikilink">朗読</a></li>

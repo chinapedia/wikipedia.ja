@@ -10,7 +10,7 @@
 ATPアーゼのうちイオン輸送性ATPアーゼの一群がATP合成酵素を含んでいる。イオン輸送性ATPアーゼは以下のように分類される。
 
   - F型ATPアーゼ – ほとんどの生物がATP合成に用いている
-  - P型ATPアーゼ – [イオン](../Page/イオン.md "wikilink")の[能動輸送](https://ja.wikipedia.org/wiki/能動輸送 "wikilink")に用いられる、ATP消費型
+  - P型ATPアーゼ – [イオン](../Page/イオン.md "wikilink")の[能動輸送](../Page/能動輸送.md "wikilink")に用いられる、ATP消費型
   - V型ATPアーゼ – [液胞](../Page/液胞.md "wikilink") (**v**acuole) に存在する、能動輸送に用いられる
   - A型ATPアーゼ – [古細菌](https://ja.wikipedia.org/wiki/古細菌 "wikilink")の用いるATP合成酵素
 

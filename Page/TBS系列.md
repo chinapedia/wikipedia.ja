@@ -80,7 +80,7 @@ TBSテレビの略称が「TBS」\[1\]、TBSラジオの略称が「TBS R」\[2\
           - [民放テレビ全国四波化](https://ja.wikipedia.org/wiki/民放テレビ全国四波化 "wikilink")
           - [開局を断念した放送局一覧](../Page/開局を断念した放送局一覧.md "wikilink")
           - [かつて日本に存在した放送局](https://ja.wikipedia.org/wiki/かつて日本に存在した放送局 "wikilink")
-          - [2011年問題 (日本のテレビジョン放送)](https://ja.wikipedia.org/wiki/2011年問題_\(日本のテレビジョン放送\) "wikilink")
+          - [2011年問題 (日本のテレビジョン放送)](../Page/2011年問題_\(日本のテレビジョン放送\).md "wikilink")
   - [AMステレオ対応受信機の歴史](https://ja.wikipedia.org/wiki/AMステレオ対応受信機の歴史 "wikilink")
   - [日本の地上デジタルテレビ放送](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")
   - [関東ローカル](../Page/関東ローカル.md "wikilink")

@@ -19,7 +19,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")・[エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：イー
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")・[エス](../Page/エスペラント.md "wikilink")：イー
   - [仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[伊](../Page/イタリア語.md "wikilink")：イ
   - [西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")：イ／イ・ラティナ（ラテン式のi（イ）という意味）
   - [英](../Page/英語.md "wikilink")：アイ

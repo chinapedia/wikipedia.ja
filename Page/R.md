@@ -28,7 +28,7 @@
 
   - [典](../Page/スウェーデン語.md "wikilink")・[芬](../Page/フィンランド語.md "wikilink")：アェル
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ロー
+  - [エス](../Page/エスペラント.md "wikilink")：ロー
 
 ## 音価
 

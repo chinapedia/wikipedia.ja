@@ -157,7 +157,7 @@ Windows 3.0からの主な変更点は、動作の高速化やセットアップ
   - Windows for Workgroups 3.1
     1992年10月27日リリース\[84\]。Windows 3.1 にファイル共有などのネットワーク機能を追加するアドオンパッケージ。[NetBIOS上の](../Page/NetBEUI.md "wikilink")[SMBプロトコルを利用するものであった](../Page/Server_Message_Block.md "wikilink")\[85\]。Windows for Workgroupsの日本語版は発売されなかった。1994年に次期Windows（[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")）が発売される見込みであったことから、米国のマイクロソフト本社が開発しない決定を下したためと推測された\[86\]。Windows 3.1とは別のフルパッケージとして発売されている。
   - Windows 3.11
-    1992年12月31日リリース\[87\]。Windows 3.1 のアップデート版（今で言うところのサービスパック適用版）であり、Windows 3.1のパッケージを小変更した形で発売された。この修正ファイルは[CompuServe](../Page/CompuServe.md "wikilink")等の[パソコン通信](../Page/パソコン通信.md "wikilink")でも配布された\[88\]。なお、日本語版ではこれと関係なくアップデートがリリースされ、雑誌の付録CDや[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")等のパソコン通信で修正ファイルが配布された\[89\]\[90\]。
+    1992年12月31日リリース\[87\]。Windows 3.1 のアップデート版（今で言うところのサービスパック適用版）であり、Windows 3.1のパッケージを小変更した形で発売された。この修正ファイルは[CompuServe](../Page/CompuServe.md "wikilink")等の[パソコン通信](../Page/パソコン通信.md "wikilink")でも配布された\[88\]。なお、日本語版ではこれと関係なくアップデートがリリースされ、雑誌の付録CDや[ニフティサーブ](../Page/ニフティサーブ.md "wikilink")等のパソコン通信で修正ファイルが配布された\[89\]\[90\]。
   - Windows for Workgroups 3.11
     1993年11月リリース\[91\]。P2P通信の無効化設定を追加、[IPX/SPX](https://ja.wikipedia.org/wiki/IPX/SPX "wikilink")プロトコルスタック、32ビットファイルアクセス等 [Windows 95](../Page/Microsoft_Windows_95.md "wikilink") で実装される予定のものを一部先取りで実装している\[92\]。[TCP/IPをサポートするアドオンも](../Page/インターネット・プロトコル・スイート.md "wikilink")[パソコン通信](../Page/パソコン通信.md "wikilink")を通じて供給された\[93\]。日本語版は発売されなかった。Windows 3.11とは別のフルパッケージとして発売されている。
   - Windows 3.2

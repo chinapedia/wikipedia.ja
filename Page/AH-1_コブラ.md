@@ -88,7 +88,7 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 [AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg](https://ja.wikipedia.org/wiki/File:AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg "fig:AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg") アメリカ海兵隊は、洋上運用が多いことからエンジンをツインパックの[T400としたAH](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー・カナダ_PT6T "wikilink")-1J シーコブラを採用した。
 
-その後も改良が続けられ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月から実戦配備されている[米海兵隊向けの](../Page/アメリカ海兵隊.md "wikilink")**[AH-1W スーパーコブラ](https://ja.wikipedia.org/wiki/AH-1W_スーパーコブラ "wikilink")**などの派生型もある。最新型は**[AH-1Z ヴァイパー](https://ja.wikipedia.org/wiki/AH-1Z_ヴァイパー "wikilink")**で、米海兵隊は[2004年](../Page/2004年.md "wikilink")-[2013年](../Page/2013年.md "wikilink")までに180機をAH-1W スーパーコブラからAH-1Z ヴァイパーに[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")時に改造更新することを計画している。 {{-}}
+その後も改良が続けられ、[1986年](../Page/1986年.md "wikilink")3月から実戦配備されている[米海兵隊向けの](../Page/アメリカ海兵隊.md "wikilink")**[AH-1W スーパーコブラ](https://ja.wikipedia.org/wiki/AH-1W_スーパーコブラ "wikilink")**などの派生型もある。最新型は**[AH-1Z ヴァイパー](https://ja.wikipedia.org/wiki/AH-1Z_ヴァイパー "wikilink")**で、米海兵隊は[2004年](../Page/2004年.md "wikilink")-[2013年](../Page/2013年.md "wikilink")までに180機をAH-1W スーパーコブラからAH-1Z ヴァイパーに[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")時に改造更新することを計画している。 {{-}}
 
 ## 各国の運用状況
 

@@ -297,7 +297,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
     BONUS EDIT枠でcompleteMIX2のアナザー譜面の一部（GOTTAMIX2で収録されなかったもの）、GOTTAMIX2関連曲3曲を収録。アペンドディスクとしては最終作。
   - beatmania THE SOUND OF TOKYO\!（[2001年](../Page/2001年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")発売、BEST版は2001年11月22日発売） ★
     readymadeレーベルを率いる大物ミュージシャン・[小西康陽](../Page/小西康陽.md "wikilink")がプロデュースしたバージョン。楽曲のみならず、インターフェースにも個性が色濃く反映されている。GOTTAMIX以来のお笑い芸人としてのアーティスト参加で、[ふかわりょう](../Page/ふかわりょう.md "wikilink")がロケットマン名義で参加。
-  - beatmania 6thMIX + CORE REMIX（[2002年](../Page/2002年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売） ★
+  - beatmania 6thMIX + CORE REMIX（[2002年](../Page/2002年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売） ★
     タイトルどおりシリーズ中唯一のカップリング移植で、2バージョンの楽曲をまとめてプレイできる。
     家庭用追加曲も、CORE REMIXに倣う形でAPPPEND YebisuMIXの楽曲のリミックス曲が中心。アーケード版と違い、各楽曲のクラシックバージョン（オリジナル版）は未収録。
     「オリジナルエキスパートコース」、「セパレートフレーム」、『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』用コントローラーを想定した設定などコンシューマ版『beatmania IIDX』を意識する形でのシステム改修が施された。基本的なシステム・選択画面は6thMIXに準ずるが、CORE REMIXでの楽曲やモードを選択した際の演出も用意されている。

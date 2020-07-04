@@ -67,7 +67,7 @@
   - [デスティネーションキャンペーン](../Page/デスティネーションキャンペーン.md "wikilink") () - [JR](../Page/JR.md "wikilink")および自治体・観光事業者協働の大型観光キャンペーン。
   - [国鉄千葉動力車労働組合](../Page/国鉄千葉動力車労働組合.md "wikilink") - 通称:動労千葉 ()
   - [NHK浜松支局](../Page/NHK浜松支局.md "wikilink")の[ラジオ第2](../Page/NHKラジオ第2放送.md "wikilink")・[教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JODC/-DTV)。
-  - [電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")() - [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")の漫画単行本レーベル。
+  - [電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")() - [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")の漫画単行本レーベル。
 
 ### 製品名・商品名・番組名等
 
@@ -81,7 +81,7 @@
 
   - [D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink") - アダルトゲーム、及び[それを元とした全年齢向けアニメ](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")、マンガ。
   - [ドリームクラブ](https://ja.wikipedia.org/wiki/ドリームクラブ "wikilink")（DREAM C CLUB） - 恋愛ゲーム、およびそれを元にしたアニメなど。
-  - [ドリフトシティ](https://ja.wikipedia.org/wiki/ドリフトシティ "wikilink") () - [オンライン](../Page/オンラインゲーム.md "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")。
+  - [ドリフトシティ](../Page/ドリフトシティ.md "wikilink") () - [オンライン](../Page/オンラインゲーム.md "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")。
 
 ### その他の固有名詞
 

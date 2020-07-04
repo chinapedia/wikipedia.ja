@@ -201,7 +201,7 @@ WINK BEST</strong></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SELECTION_-_25th_Anniversary_Self_Selection_-" title="wikilink">SELECTION - 25th Anniversary Self Selection -</a></strong></p></td>
 <td><p>デビュー25周年記念企画の一環として発売<br />
 鈴木早智子、相田翔子による選曲で構成されている<br />
-2枚組・<a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">スーパー・ハイ・マテリアルCD</a>（SHM-CD）仕様</p></td>
+2枚組・<a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">スーパー・ハイ・マテリアルCD</a>（SHM-CD）仕様</p></td>
 </tr>
 </tbody>
 </table>

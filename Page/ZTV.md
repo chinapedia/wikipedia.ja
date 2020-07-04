@@ -10,7 +10,7 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 「**津ケーブルテレビ**」として設立。
   - [1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 開局。
   - [2000年](../Page/2000年.md "wikilink") - 「**ゼットティヴィ**」に。
-  - [2002年](../Page/2002年.md "wikilink") - 現社名（「**ZTV**」）に変更。ZTVの"Z"は、「津」の音読み「ツ」が[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")のZで表記出来ることから（[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")→MAZDAなど）。
+  - [2002年](../Page/2002年.md "wikilink") - 現社名（「**ZTV**」）に変更。ZTVの"Z"は、「津」の音読み「ツ」が[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")のZで表記出来ることから（[マツダ](../Page/マツダ.md "wikilink")→MAZDAなど）。
   - [2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 奈良県内の事業を近鉄ケーブルネットワークへ譲渡。
   - [2007年](../Page/2007年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - 三重県内のうち鳥羽志摩エリアの事業を[アイティービー](../Page/アイティービー.md "wikilink")（iTV）へ譲渡。
   - 2007年[10月26日](../Page/10月26日.md "wikilink") - [東レ](../Page/東レ.md "wikilink")と[富士通](../Page/富士通.md "wikilink")からそれぞれ保有する「[滋賀ケーブルネットワーク](../Page/滋賀ケーブルネットワーク.md "wikilink")」の全株式を譲り受け、同社を子会社化することが決定する。

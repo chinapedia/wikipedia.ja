@@ -11,7 +11,7 @@
 
 できる限りコンパクトでシンプルにというコンセプトで特集コーナー等は基本的に排除し、当初は天気予報すらなかった。放送開始時からエンディングの木村の[駄洒落](../Page/駄洒落.md "wikilink")が話題を呼んだ。
 
-[1993年](../Page/1993年.md "wikilink")に放送時間は延長し、それに伴い天気予報が新設。翌年の[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からダジャレは廃止となり、[裏番組](../Page/裏番組.md "wikilink")であった[TBSの](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")』内の「[多事争論](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23#多事争論 "wikilink")」に対抗する「**太郎のCOらM**」がスタートした。
+[1993年](../Page/1993年.md "wikilink")に放送時間は延長し、それに伴い天気予報が新設。翌年の[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からダジャレは廃止となり、[裏番組](../Page/裏番組.md "wikilink")であった[TBSの](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』内の「[多事争論](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23#多事争論 "wikilink")」に対抗する「**太郎のCOらM**」がスタートした。
 
 番組は、1994年3月31日で終了し、翌日の同年[4月1日](../Page/4月1日.md "wikilink")の放送から『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』を吸収した『**[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")**』がスタートした（週末は『**[スポーツWAVE](../Page/スポーツWAVE.md "wikilink")**』）。
 

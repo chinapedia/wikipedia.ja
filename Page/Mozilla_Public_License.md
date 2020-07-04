@@ -9,7 +9,7 @@ MPLは[修正BSDライセンスと](../Page/BSDライセンス.md "wikilink")[GN
 
 初期の1.0から1.1、2.0と2度の改訂を経ており\[2\]、2012年1月に発表された2.0では、ライセンス文の簡素化、他ライセンスとの相互運用性の向上、特許保護を盛り込むことによるコード貢献者の権利侵害からの保護などが行われている\[3\]。
 
-MPL 2.0は[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Mozilla Thunderbirdをはじめとする](../Page/Mozilla_Thunderbird.md "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")ソフトウェアで利用されている\[4\]。また、[Adobe Flexや](https://ja.wikipedia.org/wiki/Adobe_Flex "wikilink")[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") 4.0以降（[LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink") 3以降との[デュアルライセンス](../Page/デュアルライセンス.md "wikilink")）にも利用されている\[5\]\[6\]\[7\]。以前のバージョンであるMPL 1.1は、[Common Development and Distribution Licenseのようなソフトウェア企業による派生ライセンスに広く用いられている](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")\[8\]。
+MPL 2.0は[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Mozilla Thunderbirdをはじめとする](../Page/Mozilla_Thunderbird.md "wikilink")[Mozilla](../Page/Mozilla.md "wikilink")ソフトウェアで利用されている\[4\]。また、[Adobe Flexや](https://ja.wikipedia.org/wiki/Adobe_Flex "wikilink")[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") 4.0以降（[LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink") 3以降との[デュアルライセンス](../Page/デュアルライセンス.md "wikilink")）にも利用されている\[5\]\[6\]\[7\]。以前のバージョンであるMPL 1.1は、[Common Development and Distribution Licenseのようなソフトウェア企業による派生ライセンスに広く用いられている](../Page/Common_Development_and_Distribution_License.md "wikilink")\[8\]。
 
 ## 利用条件
 
@@ -51,7 +51,7 @@ MPL 2.0は、[Apache Licenseおよび特別な留保がない限り](../Page/Apa
 
   - [AROS](https://ja.wikipedia.org/wiki/AROS "wikilink") Public License
   - [Celtx](https://ja.wikipedia.org/wiki/Celtx "wikilink") Public License\[30\]
-  - [Common Development and Distribution License](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")
+  - [Common Development and Distribution License](../Page/Common_Development_and_Distribution_License.md "wikilink")
   - [Common Public Attribution License](https://ja.wikipedia.org/wiki/Common_Public_Attribution_License "wikilink")
   - [Erlang](https://ja.wikipedia.org/wiki/Erlang_\(programming_language\) "wikilink") Public License (based on MPL v1.0)\[31\]
   - [Firebird](https://ja.wikipedia.org/wiki/Firebird_\(database_server\) "wikilink") Initial Developer's Public License (based on MPL v1.1)\[32\]

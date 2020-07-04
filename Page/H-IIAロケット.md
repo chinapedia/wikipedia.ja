@@ -154,7 +154,7 @@ H-IIからの主な変更点を以下に記す。
 </tr>
 <tr class="even">
 <td><p>姿勢制御方式</p></td>
-<td><p>エンジン<a href="https://ja.wikipedia.org/wiki/ジンバル" title="wikilink">ジンバル</a><br />
+<td><p>エンジン<a href="../Page/ジンバル.md" title="wikilink">ジンバル</a><br />
 補助エンジン</p></td>
 <td><p>ノズルジンバル</p></td>
 <td><p>無し</p></td>

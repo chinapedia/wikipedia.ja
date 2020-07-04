@@ -382,7 +382,7 @@
 | **水曜**                                                                                                              |                          |                                                 |
 | [あひるの空](../Page/あひるの空.md "wikilink")                                                                                | 24:30 - 24:59            |                                                 |
 | **金曜**                                                                                                              |                          |                                                 |
-| [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")                                                     | 17:00 - 17:28            | \[43\]                                          |
+| [遊☆戯☆王5D's](../Page/遊☆戯☆王5D's.md "wikilink")                                                                        | 17:00 - 17:28            | \[43\]                                          |
 | [遊☆戯☆王SEVENS](../Page/遊☆戯☆王SEVENS.md "wikilink")                                                                    | 17:28 - 17:58            |                                                 |
 | [ブラッククローバー](https://ja.wikipedia.org/wiki/ブラッククローバー "wikilink")                                                     | 24:30 - 24:59            | \[44\]                                          |
 | **土曜**                                                                                                              |                          |                                                 |
@@ -965,7 +965,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <!-- end list -->
 
   - [TXNニュース](../Page/TXNニュース.md "wikilink")※BSでは2014年2月23日放送分で打ち切り、現在は地上波のみ放送。
-  - [田勢康弘の週刊ニュース新書](https://ja.wikipedia.org/wiki/田勢康弘の週刊ニュース新書 "wikilink")
+  - [田勢康弘の週刊ニュース新書](../Page/田勢康弘の週刊ニュース新書.md "wikilink")
   - [マネーの羅針盤](https://ja.wikipedia.org/wiki/マネーの羅針盤 "wikilink")
   - サテライトJ
   - ルック@マーケット
@@ -1212,7 +1212,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
       - 美男<イケメン>バンド 〜キミに届けるピュアビート〜
       - 太陽人イ・ジェマ
       - [大王の道](https://ja.wikipedia.org/wiki/大王の道 "wikilink")
-      - [大祚榮 -テジョヨン-](https://ja.wikipedia.org/wiki/大祚榮_\(テレビドラマ\) "wikilink")
+      - [大祚榮 -テジョヨン-](../Page/大祚榮_\(テレビドラマ\).md "wikilink")
       - [愛するウンドン](https://ja.wikipedia.org/wiki/愛するウンドン "wikilink")
       - [トンイ](https://ja.wikipedia.org/wiki/トンイ "wikilink")
       - [輝くか、狂うか](https://ja.wikipedia.org/wiki/輝くか、狂うか "wikilink")

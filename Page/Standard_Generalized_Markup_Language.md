@@ -15,7 +15,7 @@
 
 [1979年](../Page/1979年.md "wikilink")、[IBM](../Page/IBM.md "wikilink")で[プロジェクトマネージャ](../Page/プロジェクトマネージャ.md "wikilink")をしていた は、Edward MosherおよびRaymond Lorieらとともに、「[GML](https://ja.wikipedia.org/wiki/Generalized_Markup_Language "wikilink")」(Generalized Markup Language) を発表し、それは「DCF」(Document Composition Facility) の名で商業化された。この成功でゴールドファーブは有名になり、IBMを退職してGMLの後継言語であるSGMLを開発することになったのである。
 
-ISOのSGML規約は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の出版後2ヶ月も経たないうちに[ベストセラー](../Page/ベストセラー.md "wikilink")となった（その10年前に発売された[FORTRAN](../Page/FORTRAN.md "wikilink")のISO規約の部数を2ヶ月で超えた）。
+ISOのSGML規約は[1986年](../Page/1986年.md "wikilink")の出版後2ヶ月も経たないうちに[ベストセラー](../Page/ベストセラー.md "wikilink")となった（その10年前に発売された[FORTRAN](../Page/FORTRAN.md "wikilink")のISO規約の部数を2ヶ月で超えた）。
 
 SGMLは、[ISOから正式に承認される以前から](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")、すでに、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")や[ECの公式出版事務局など](../Page/欧州共同体.md "wikilink")、数々の公的機関で使用され始めていた。ゴールドファーブの古巣のIBM社でも導入され、同社の文書システムに大変革をおこした。ヨーロッパでもCERN（[欧州原子核研究機構](../Page/欧州原子核研究機構.md "wikilink")）など、広く採用され、例えばフランスを例に挙げると、[エアバス](../Page/エアバス.md "wikilink")社、[SNECMA](https://ja.wikipedia.org/wiki/SNECMA "wikilink")（フランス国営の航空機エンジンメーカー）およびフランス軍などで採用されることになった。
 

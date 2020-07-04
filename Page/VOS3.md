@@ -49,7 +49,7 @@ VOS3/ES1(VOS3/Extend System product 1)は[IBM](../Page/IBM.md "wikilink") [MVS](
 
   - 31ビットアドレッシングサポート
 
-ECSは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）1月出荷のバージョンからサポートされた。
+ECSは[1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）1月出荷のバージョンからサポートされた。
 
   - VOS3/ES1 ECSサポート
 

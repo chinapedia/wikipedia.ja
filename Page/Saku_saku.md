@@ -205,7 +205,7 @@
   - 7月26日 - かながわ33市町村のアンソロジーの完全版を含めた、初の完全撮り下ろしDVD、『saku saku Ver.6.5 SP VIVA\!神奈川』が2010年9月15日に発売されることが番組内ほかで発表された。
   - 10月4日 - 黒枠だった16:9画面の両サイドに背景\[6\]が入る(2011年4月1日まで実施)。
   - 10月12日 - 日テレプラスでの放送が打ち切られた(再放送は10月18日まで)。
-  - 11月29日 - 2007年7月以来の奄美大島ロケを週を通して各曜日の第2ブロックにて放送。前回同様、現地案内人として[中孝介](../Page/中孝介.md "wikilink")が登場。2010年10月10日に行われた「Setting Sun Sound Festival \~in Amami\~Vol.1」出演の中孝介、[カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")のライブの一部およびインタビューも放送された。
+  - 11月29日 - 2007年7月以来の奄美大島ロケを週を通して各曜日の第2ブロックにて放送。前回同様、現地案内人として[中孝介](../Page/中孝介.md "wikilink")が登場。2010年10月10日に行われた「Setting Sun Sound Festival \~in Amami\~Vol.1」出演の中孝介、[カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")、[キマグレン](../Page/キマグレン.md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")のライブの一部およびインタビューも放送された。
   - 12月28日 - 山形テレビでの放送が打ち切られた。
 
 <!-- end list -->
@@ -307,7 +307,7 @@
   - 5月8日 - この週のゲストだった[ふぇのたす](https://ja.wikipedia.org/wiki/ふぇのたす "wikilink")の澤"sweets"ミキヒコの急逝が発表されたことを受け、再放送に追悼テロップを表示。5月18日のサクナラのコーナーは澤の急逝を悼む内容が放送された（番組の収録は放送の2週間前に行われるため）。
   - 5月8日 - 7\!\!が「39（サンキュー）～ありがとうのうた～」を初披露。以後、同曲のメロディーが番組内（主にサクナラのコーナー）で[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")として使用される。
   - 6月1日 - 朝放送分の時報テロップがピンクの縁取りの大きなものに変更、その横に県内各地の天気と気温、降水確率の表示が追加された（tvkでのカスタムフォント導入に伴うもの。提供やCM時は通常の時報テロップのまま）。
-  - 7月13日～7月17日 - 番組全編[ロケを敢行](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。ゲストコーナーを含む全ての放送を[横浜・八景島シーパラダイス](../Page/横浜・八景島シーパラダイス.md "wikilink")からのロケで行った。
+  - 7月13日～7月17日 - 番組全編[ロケを敢行](../Page/ロケーション撮影.md "wikilink")。ゲストコーナーを含む全ての放送を[横浜・八景島シーパラダイス](../Page/横浜・八景島シーパラダイス.md "wikilink")からのロケで行った。
   - 11月9日～11月13日 - NANAEが7\!\!のライブツアーのため不在。あゆみくりかまきが代理MCを兼務した。
 
 <!-- end list -->
@@ -760,7 +760,7 @@
 
   - WAKU<sup>2</sup> DOKI<sup>2</sup> 回れっ\!ルーレット\!ぐるぐる回れっ\!
     コーナータイトル…「[スペランカー](../Page/スペランカー.md "wikilink")」ゲーム中のメインテーマ
-    顔に持つ男入場…「[スクーン](https://ja.wikipedia.org/wiki/スクーン "wikilink")」タイトル
+    顔に持つ男入場…「[スクーン](../Page/スクーン.md "wikilink")」タイトル
     ルーレットを回すとき…「[ゼルダの伝説](../Page/ゼルダの伝説.md "wikilink")」（第1作）ゼルダ姫救出時ファンファーレ
     ルーレットの回転音…「[メトロイド](../Page/メトロイド.md "wikilink")」で残りエネルギーが少なくなった時に発せられる警告音
     ルーレット停止時…「[リンクの冒険](../Page/リンクの冒険.md "wikilink")」レベルアップ
@@ -1110,7 +1110,7 @@
 <div class="NavContent" style="text-align: left;">
 
   - 1月「[You](../Page/You_\(木村カエラの曲\).md "wikilink")」/[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")
-  - 2月「[ほんの少しだけ](../Page/ほんの少しだけ.md "wikilink")」/[槇原敬之](../Page/槇原敬之.md "wikilink") feat.KURO from [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - 2月「[ほんの少しだけ](../Page/ほんの少しだけ.md "wikilink")」/[槇原敬之](../Page/槇原敬之.md "wikilink") feat.KURO from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - 3月「[ラハイナ](https://ja.wikipedia.org/wiki/ラハイナ_\(DEPAPEPEの曲\) "wikilink")」/DEPAPEPE
   - 4月「sky」/[as](../Page/As_\(歌手\).md "wikilink")
   - 5月「Simple」/[Caravan](../Page/Caravan.md "wikilink")
@@ -1165,7 +1165,7 @@
 
   - 1月「[若者のすべて](https://ja.wikipedia.org/wiki/若者のすべて_\(フジファブリックの曲\) "wikilink")」/[フジファブリック](../Page/フジファブリック.md "wikilink")
   - 2月「[Jasper](../Page/Jasper.md "wikilink")」/[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")
-  - 3月「[瞳孔ソナー](https://ja.wikipedia.org/wiki/瞳孔ソナー "wikilink")」/[依布サラサ](https://ja.wikipedia.org/wiki/依布サラサ "wikilink")
+  - 3月「[瞳孔ソナー](../Page/瞳孔ソナー.md "wikilink")」/[依布サラサ](https://ja.wikipedia.org/wiki/依布サラサ "wikilink")
   - 4月「[帰りたくなったよ](https://ja.wikipedia.org/wiki/帰りたくなったよ "wikilink")」/[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
   - 5月「[KARMA feat. BIG RON](https://ja.wikipedia.org/wiki/"Yes"rhyme-dentity "wikilink")」/[LITTLE](../Page/LITTLE.md "wikilink")
   - 6月「[TIME FLIES.EVERYTHING GOES](https://ja.wikipedia.org/wiki/popdod "wikilink")」/[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")
@@ -1252,7 +1252,7 @@
   - 4月「[100万回の「I love you」](https://ja.wikipedia.org/wiki/100万回の「I_love_you」 "wikilink")」/[Rake](https://ja.wikipedia.org/wiki/Rake_\(シンガーソングライター\) "wikilink")
   - 5月「紫陽花」/[NIKIIE](https://ja.wikipedia.org/wiki/NIKIIE "wikilink")
   - 6月「[水無月](https://ja.wikipedia.org/wiki/水無月_\(秦基博の曲\) "wikilink")」/[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")
-  - 7月「蛍灯」/[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")
+  - 7月「蛍灯」/[キマグレン](../Page/キマグレン.md "wikilink")
   - 8月「Toy box」/[JAY'ED](../Page/JAY'ED.md "wikilink")x[若旦那](../Page/若旦那_\(ミュージシャン\).md "wikilink")
   - 9月「[たいせつな光](https://ja.wikipedia.org/wiki/たいせつな光 "wikilink")」/[fumika](https://ja.wikipedia.org/wiki/fumika "wikilink")
   - 10月「[チョコレート](https://ja.wikipedia.org/wiki/8EIGHT8 "wikilink")」/[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")

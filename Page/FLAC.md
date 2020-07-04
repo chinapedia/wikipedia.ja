@@ -27,7 +27,7 @@
       - この他にも2009年3月時点では、[マージ・レコード](../Page/マージ・レコード.md "wikilink")、[Linn Records](http://www.linnrecords.com/)、[Deutsche Grammophon](http://www2.deutschegrammophon.com/)などがFLACファイルのダウンロード販売を行っている。
       - [ビートルズ](../Page/ビートルズ.md "wikilink")の2009年リマスターCD発売の際、USBメモリ版も発売され、FLAC形式の24bit高音質版が収録された。
       - 2010年7月7日より[オンキヨー](../Page/オンキヨー.md "wikilink")（のち[オンキヨー&パイオニア](https://ja.wikipedia.org/wiki/オンキヨー&パイオニア "wikilink")イノベーションズに移管）が運営するe-onkyo musicでFLAC形式の楽曲の配信が始まった\[3\]。
-      - [携帯音楽プレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")では、[Cowon](../Page/Cowon.md "wikilink")製品、[Creative Zen](../Page/Creative_Zen.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")・[ウォークマン](../Page/ウォークマン.md "wikilink")の2012年以降の国内及び欧米モデルの一部\[4\]などが対応している。据え置き型のネットワークメディアプレーヤー、一部の[AVアンプ](https://ja.wikipedia.org/wiki/AVアンプ "wikilink")、高機能な[BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")などにも対応する製品がある。
+      - [携帯音楽プレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")では、[Cowon](../Page/Cowon.md "wikilink")製品、[Creative Zen](../Page/Creative_Zen.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")・[ウォークマン](../Page/ウォークマン.md "wikilink")の2012年以降の国内及び欧米モデルの一部\[4\]などが対応している。据え置き型のネットワークメディアプレーヤー、一部の[AVアンプ](https://ja.wikipedia.org/wiki/AVアンプ "wikilink")、高機能な[BDプレーヤー](../Page/BDプレーヤー.md "wikilink")などにも対応する製品がある。
       - 2017年現在市販されている[カーオーディオ](../Page/カーオーディオ.md "wikilink")では対応しているものが多い。
       - 2013年10月17日より[ソニーグループ](../Page/ソニーグループ.md "wikilink")の[レーベルゲート](../Page/レーベルゲート.md "wikilink")が運営する[mora](https://ja.wikipedia.org/wiki/mora "wikilink")でFLAC形式の楽曲の配信が始まった\[5\]。
       - 2019年4月現在、[オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")から発売されている携帯型[リニアPCMレコーダー](https://ja.wikipedia.org/wiki/リニアPCMレコーダー "wikilink")「LS-P4」は一連のリニアPCMレコーダーとしては唯一、**FLACを用いた自己録音・再生に対応**している。

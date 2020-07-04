@@ -58,7 +58,7 @@
   - 1968年（昭和43年） - 株式会社呉造船所を合併。
   - 1975年（昭和50年） - 当時世界最大のタンカー（約48万トン）「[日精丸](../Page/日精丸.md "wikilink")」就航。
   - 2000年（平成12年） - [川崎重工業](../Page/川崎重工業.md "wikilink")・[三井造船](https://ja.wikipedia.org/wiki/三井造船 "wikilink")と官公庁船分野を除く船舶・海洋事業の業務提携を締結。[日産自動車](../Page/日産自動車.md "wikilink")から宇宙航空事業・防衛事業を譲受（現[IHIエアロスペース](../Page/IHIエアロスペース.md "wikilink")）。
-  - 2002年（平成14年） - 臨海地区開発の影響で東京第1工場（豊洲）を閉鎖。事業は横浜第3工場に移管。船舶・海洋事業を[アイ・エイチ・アイ マリンユナイテッドに分社化](https://ja.wikipedia.org/wiki/アイ・エイチ・アイ_マリンユナイテッド "wikilink")。
+  - 2002年（平成14年） - 臨海地区開発の影響で東京第1工場（豊洲）を閉鎖。事業は横浜第3工場に移管。船舶・海洋事業を[アイ・エイチ・アイ マリンユナイテッドに分社化](../Page/アイ・エイチ・アイ_マリンユナイテッド.md "wikilink")。
   - 2003年（平成15年） - [新潟鐵工所](../Page/新潟鐵工所.md "wikilink")から原動機事業（新潟原動機）、輸送機器事業（現[新潟トランシス](../Page/新潟トランシス.md "wikilink")）を譲受。
   - 2006年（平成18年） - アイ・エイチ・アイ マリンユナイテッドを完全子会社化。本社を[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町二丁目から](../Page/大手町_\(千代田区\).md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[豊洲](../Page/豊洲.md "wikilink")三丁目に移転。
 
@@ -93,7 +93,7 @@
 
 ### 船舶・海洋製品
 
-船舶・海洋事業については、2002年に分社化した[アイ・エイチ・アイ マリンユナイテッド](https://ja.wikipedia.org/wiki/アイ・エイチ・アイ_マリンユナイテッド "wikilink") (IHIMU)、2013年からはIHIMUが[ユニバーサル造船](../Page/ユニバーサル造船.md "wikilink")と合併した[ジャパン マリンユナイテッド](https://ja.wikipedia.org/wiki/ジャパン_マリンユナイテッド "wikilink")(JMU)に移行した。
+船舶・海洋事業については、2002年に分社化した[アイ・エイチ・アイ マリンユナイテッド](../Page/アイ・エイチ・アイ_マリンユナイテッド.md "wikilink") (IHIMU)、2013年からはIHIMUが[ユニバーサル造船](../Page/ユニバーサル造船.md "wikilink")と合併した[ジャパン マリンユナイテッド](https://ja.wikipedia.org/wiki/ジャパン_マリンユナイテッド "wikilink")(JMU)に移行した。
 
 #### 商船・海洋製品
 
@@ -135,7 +135,7 @@
       - [樅型](../Page/樅型駆逐艦.md "wikilink")：[栂](https://ja.wikipedia.org/wiki/栂_\(駆逐艦\) "wikilink")、[薄](https://ja.wikipedia.org/wiki/薄_\(駆逐艦\) "wikilink")、[菫](https://ja.wikipedia.org/wiki/菫_\(樅型駆逐艦\) "wikilink")、[蓬](https://ja.wikipedia.org/wiki/蓬_\(駆逐艦\) "wikilink")
       - [若竹型](../Page/若竹型駆逐艦.md "wikilink")：[朝顔](https://ja.wikipedia.org/wiki/朝顔_\(駆逐艦\) "wikilink")、[夕顔](https://ja.wikipedia.org/wiki/夕顔_\(駆逐艦\) "wikilink")
       - [神風型](../Page/神風型駆逐艦_\(2代\).md "wikilink")：[疾風](../Page/疾風_\(2代神風型駆逐艦\).md "wikilink")\[II\]
-      - [睦月型](../Page/睦月型駆逐艦.md "wikilink")：[卯月](https://ja.wikipedia.org/wiki/卯月_\(睦月型駆逐艦\) "wikilink")\[II\]\[25\]、[長月](../Page/長月_\(睦月型駆逐艦\).md "wikilink")\[II\]\[26\]
+      - [睦月型](../Page/睦月型駆逐艦.md "wikilink")：[卯月](../Page/卯月_\(睦月型駆逐艦\).md "wikilink")\[II\]\[25\]、[長月](../Page/長月_\(睦月型駆逐艦\).md "wikilink")\[II\]\[26\]
       - [吹雪型](../Page/吹雪型駆逐艦.md "wikilink")：[薄雲](https://ja.wikipedia.org/wiki/薄雲_\(吹雪型駆逐艦\) "wikilink")\[II\]、[天霧](../Page/天霧_\(駆逐艦\).md "wikilink")
 
 ##### 播磨造船所（戦前）
@@ -190,15 +190,15 @@
 <!-- end list -->
 
   - [むらさめ型汎用護衛艦](../Page/むらさめ型護衛艦.md "wikilink")
-      - DD-101 「[むらさめ](https://ja.wikipedia.org/wiki/むらさめ_\(護衛艦・2代\) "wikilink")」（1番艦）\[38\]
-      - DD-106 「[さみだれ](https://ja.wikipedia.org/wiki/さみだれ_\(護衛艦\) "wikilink")」（6番艦）\[39\]
-      - DD-108 「[あけぼの](https://ja.wikipedia.org/wiki/あけぼの_\(護衛艦・2代\) "wikilink")」（8番艦）\[40\]
+      - DD-101 「[むらさめ](../Page/むらさめ_\(護衛艦・2代\).md "wikilink")」（1番艦）\[38\]
+      - DD-106 「[さみだれ](../Page/さみだれ_\(護衛艦\).md "wikilink")」（6番艦）\[39\]
+      - DD-108 「[あけぼの](../Page/あけぼの_\(護衛艦・2代\).md "wikilink")」（8番艦）\[40\]
 
 ##### アイ・エイチ・アイ マリンユナイテッド（横浜）
 
   - [たかなみ型汎用護衛艦](../Page/たかなみ型護衛艦.md "wikilink")
-      - DD-112 「[まきなみ](https://ja.wikipedia.org/wiki/まきなみ_\(護衛艦・2代\) "wikilink")」（3番艦）\[41\]
-      - DD-114 「[すずなみ](https://ja.wikipedia.org/wiki/すずなみ_\(護衛艦\) "wikilink")」（5番艦）\[42\]
+      - DD-112 「[まきなみ](../Page/まきなみ_\(護衛艦・2代\).md "wikilink")」（3番艦）\[41\]
+      - DD-114 「[すずなみ](../Page/すずなみ_\(護衛艦\).md "wikilink")」（5番艦）\[42\]
 
 <!-- end list -->
 

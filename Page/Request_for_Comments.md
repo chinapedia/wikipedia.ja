@@ -11,7 +11,7 @@
 
 ## 歴史
 
-RFCは、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")ごろ、[スティーブ・クロッカー](https://ja.wikipedia.org/wiki/スティーブ・クロッカー "wikilink") が考案したと言われており、はじめのRFCは[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")の日付となっている (RFC 1) 。その後[情報科学研究所](https://ja.wikipedia.org/wiki/情報科学研究所 "wikilink") (ISI) の[ジョン・ポステル](../Page/ジョン・ポステル.md "wikilink")により管理される。RFCの歴史についてはRFC 2555に*30 Years of RFCs*としてまとめられている。
+RFCは、[1968年](../Page/1968年.md "wikilink")ごろ、[スティーブ・クロッカー](https://ja.wikipedia.org/wiki/スティーブ・クロッカー "wikilink") が考案したと言われており、はじめのRFCは[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")の日付となっている (RFC 1) 。その後[情報科学研究所](https://ja.wikipedia.org/wiki/情報科学研究所 "wikilink") (ISI) の[ジョン・ポステル](../Page/ジョン・ポステル.md "wikilink")により管理される。RFCの歴史についてはRFC 2555に*30 Years of RFCs*としてまとめられている。
 
 ## 位置付け
 

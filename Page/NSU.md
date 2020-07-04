@@ -13,7 +13,7 @@
 
 1957年、小型車の「[プリンツ](https://ja.wikipedia.org/wiki/:en:NSU_Prinz "wikilink")」を発表して自動車製造を再開。社名も**NSU Automobil AG** （後に **NSU Motorenwerke AG**） になった。
 
-[1964年](../Page/1964年.md "wikilink")に世界初の[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")搭載車である「[ヴァンケルスパイダー](https://ja.wikipedia.org/wiki/NSU・ヴァンケルスパイダー "wikilink")」（1ローター）を発売。[1967年](../Page/1967年.md "wikilink")セダン初のロータリー車「[Ro80](../Page/NSU・Ro80.md "wikilink")」を世に送り出した。ロータリーエンジンの技術はのち[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")（当時は東洋工業）に供与された。
+[1964年](../Page/1964年.md "wikilink")に世界初の[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")搭載車である「[ヴァンケルスパイダー](https://ja.wikipedia.org/wiki/NSU・ヴァンケルスパイダー "wikilink")」（1ローター）を発売。[1967年](../Page/1967年.md "wikilink")セダン初のロータリー車「[Ro80](../Page/NSU・Ro80.md "wikilink")」を世に送り出した。ロータリーエンジンの技術はのち[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[マツダ](../Page/マツダ.md "wikilink")（当時は東洋工業）に供与された。
 
 しかしヴァンケルスパイダーやRo80は、チャターマーク（ローターハウジング内壁に波状磨耗を起こす致命的なトラブル）をはじめとするエンジンの問題を克服できず、特にRo80では多くの[クレーム](../Page/クレーム.md "wikilink")がNSUに寄せられた。これが経営に影響し、Ro80の[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")版である「[K70](../Page/フォルクスワーゲン・K70.md "wikilink")」発表直前の[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にNSUは[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")（VW）傘下に入り、ほぼ同時期にVW系列に入った[アウトウニオン](../Page/アウトウニオン.md "wikilink")に吸収合併され、**AUDI NSU AUTOUNION AG**（現在の[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")）となった。K70は「[ビートル](../Page/フォルクスワーゲン・タイプ1.md "wikilink")」のイメージからの脱却を図るVWの経営判断からVWブランドで発売され、Ro80は1977年に製造を中止し、NSUブランドの自動車は消滅した。なおこれに先んじて、オートバイ製造は1964年の4サイクル車「マキシ」と2サイクル車「プリマ」の製造中止をもって撤退している。
 

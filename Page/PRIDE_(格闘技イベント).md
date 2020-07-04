@@ -47,7 +47,7 @@ KRSのスーパーバイザーは、[三井物産](https://ja.wikipedia.org/wiki
 
 2003年ミドル級グランプリが2004年にはヘビー級グランプリが行われる。また2005年には再びミドル級グランプリが行われたほか、武士道においてウェルター級およびライト級のグランプリも開催された。
 
-2004年12月31日、「[PRIDE男祭り 2004 -SADAME-](../Page/PRIDE_男祭り_2004.md "wikilink")」において[国際レスリング連盟](https://ja.wikipedia.org/wiki/国際レスリング連盟 "wikilink")（FILA）会長のラファエル・マルティニティと、[日本レスリング協会](https://ja.wikipedia.org/wiki/日本レスリング協会 "wikilink")会長の[福田富昭](../Page/福田富昭.md "wikilink")がリング上より「FILAはアマチュアレスラーのプロ格闘技活動を公式に認め、今後協会よりオリンピックメダリストをはじめ、世界中の強豪レスラーをPRIDEに送りこむ」という内容の挨拶を行う。
+2004年12月31日、「[PRIDE男祭り 2004 -SADAME-](../Page/PRIDE_男祭り_2004.md "wikilink")」において[国際レスリング連盟](https://ja.wikipedia.org/wiki/国際レスリング連盟 "wikilink")（FILA）会長のラファエル・マルティニティと、[日本レスリング協会](../Page/日本レスリング協会.md "wikilink")会長の[福田富昭](../Page/福田富昭.md "wikilink")がリング上より「FILAはアマチュアレスラーのプロ格闘技活動を公式に認め、今後協会よりオリンピックメダリストをはじめ、世界中の強豪レスラーをPRIDEに送りこむ」という内容の挨拶を行う。
 
 2005年4月23日から『PRIDE GRANDPRIX 2005』を開催。12月31日には「[PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink")」を開催し49801人の集客に成功した。
 
@@ -107,7 +107,7 @@ KRS時代には、当時[格闘技通信](../Page/格闘技通信.md "wikilink")
 
 また、東海テレビが東海地区のみで放映した独自編集版（「テレビ中継」の項参照）では、当時自社製作していたPRIDE情報番組のナビゲーターが、そちらでもそのままナビゲーターを務めた（「PRIDE炎のリング」と「PRE-PRIDE」が[リサ・ステッグマイヤー](https://ja.wikipedia.org/wiki/リサ・ステッグマイヤー "wikilink")、「PRIDE王」が[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")）。
 
-フジテレビの放送中止後は、解説を高田延彦と[高阪剛](../Page/高阪剛.md "wikilink")、実況を[矢野武](../Page/矢野武.md "wikilink")、[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")が担当していた。海外向けPPVの実況は[マウロ・ラナーロ](https://ja.wikipedia.org/wiki/マウロ・ラナーロ "wikilink")、解説は[バス・ルッテン](../Page/バス・ルッテン.md "wikilink")が行った。
+フジテレビの放送中止後は、解説を高田延彦と[高阪剛](../Page/高阪剛.md "wikilink")、実況を[矢野武](../Page/矢野武.md "wikilink")、[市川勝也](../Page/市川勝也.md "wikilink")が担当していた。海外向けPPVの実況は[マウロ・ラナーロ](https://ja.wikipedia.org/wiki/マウロ・ラナーロ "wikilink")、解説は[バス・ルッテン](../Page/バス・ルッテン.md "wikilink")が行った。
 
 ### フジテレビで放送していた時の番組スタッフ
 

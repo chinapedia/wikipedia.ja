@@ -24,7 +24,7 @@
   - [2000年](../Page/2000年.md "wikilink")（平成12年）
       - [6月22日](../Page/6月22日.md "wikilink") - 商号を**株式会社ビーエス・アイ**に変更。
       - [12月1日](../Page/12月1日.md "wikilink")11:00 - **BS-i**として本放送開始。
-  - [2004年](../Page/2004年.md "wikilink")（平成16年）7月 - 本社を[TBS会館から](https://ja.wikipedia.org/wiki/赤坂メディアビル "wikilink")[TBS放送センター](https://ja.wikipedia.org/wiki/TBSテレビ#TBS放送センター_\(ビッグハット\) "wikilink")15階に移転。
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）7月 - 本社を[TBS会館から](../Page/赤坂メディアビル.md "wikilink")[TBS放送センター](https://ja.wikipedia.org/wiki/TBSテレビ#TBS放送センター_\(ビッグハット\) "wikilink")15階に移転。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [9月30日](../Page/9月30日.md "wikilink") - [BSデジタル音声放送](../Page/BSデジタル音声放送.md "wikilink")を終了。
       - 12月1日 - 開局5周年。

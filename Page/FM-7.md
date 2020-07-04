@@ -299,7 +299,7 @@ FM-7/77シリーズとは高い互換性を持つ。
   - 初代（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月発売）ワイヤレスキーボード、nキーロールオーバー対応。F-BASIC V3.3L10添付。
       - FM77AV-1 FDD1基搭載。128,000円。
       - FM77AV-2 FDD2基搭載。158,000円。
-  - 二代目（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")発売）2DD/2D兼用FDD搭載、ワイヤレスキーボード、[2キーロールオーバー](https://ja.wikipedia.org/wiki/nキーロールオーバー "wikilink")。
+  - 二代目（[1986年](../Page/1986年.md "wikilink")発売）2DD/2D兼用FDD搭載、ワイヤレスキーボード、[2キーロールオーバー](https://ja.wikipedia.org/wiki/nキーロールオーバー "wikilink")。
       - FM77AV20-1 FDD1基搭載。138,000円。F-BASIC V3.3L20添付。
       - FM77AV20-2 FDD2基搭載。168,000円。F-BASIC V3.3L20添付。
       - FM77AV40 FDD2基搭載。228,000円。日本語カード搭載。VRAM144KB（320×200×262,144色1画面・640×400×8色1画面）、[DMAC追加](../Page/Direct_Memory_Access.md "wikilink")。F-BASIC V3.4L10添付。

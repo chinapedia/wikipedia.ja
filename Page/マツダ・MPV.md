@@ -1,7 +1,7 @@
 > この記事は[マツダ・MPV](https://ja.wikipedia.org/wiki/マツダ・MPV)から翻訳されています。
 
 
-**MPV**（エムピーブイ） は[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造・販売していた[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。
+**MPV**（エムピーブイ） は[マツダ](../Page/マツダ.md "wikilink")が製造・販売していた[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。
 
 ## 概要
 
@@ -177,7 +177,7 @@
 ## 取扱店
 
   - [マツダオート店→アンフィニ店→マツダアンフィニ店](../Page/マツダアンフィニ.md "wikilink")（発売当初より）
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")店（1997年頃より）
+  - [マツダ](../Page/マツダ.md "wikilink")店（1997年頃より）
   - [マツダオートザム店](../Page/オートザム.md "wikilink")（2004年より）
 
 ## 製造

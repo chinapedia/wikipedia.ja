@@ -577,7 +577,7 @@
 <td><ul>
 <li>怪魔異生獣
 <ul>
-<li>アッチペッチー（声 - <a href="https://ja.wikipedia.org/wiki/斉藤茂一" title="wikilink">斉藤茂</a>）</li>
+<li>アッチペッチー（声 - <a href="../Page/斉藤茂一.md" title="wikilink">斉藤茂</a>）</li>
 </ul></li>
 <li>怪魔妖族
 <ul>

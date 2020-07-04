@@ -35,7 +35,7 @@
   - [ミステリーショッパー](https://ja.wikipedia.org/wiki/ミステリーショッパー "wikilink")。店舗の偵察モニターのこと。
   - [モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink")(Morgan Stanley)、または同社の[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")([NYSE](../Page/ニューヨーク証券取引所.md "wikilink")：[MS](http://www.nyse.com/about/listed/lcddata.html?ticker=MS))。
   - [電磁開閉器](../Page/電磁開閉器.md "wikilink")（マグネット・スイッチ、英語ではElectromagnetic Switchと表記し頭文字は一致しない）
-  - [マラ・サルバトルチャ](https://ja.wikipedia.org/wiki/マラ・サルバトルチャ "wikilink") (Mara Salvatrucha)。中央アメリカの犯罪組織の略称。
+  - [マラ・サルバトルチャ](../Page/マラ・サルバトルチャ.md "wikilink") (Mara Salvatrucha)。中央アメリカの犯罪組織の略称。
   - マーケティング・スペシャリスト。医薬品卸売会社の営業担当者のこと。 (Marketing Specialist)
   - [メタルスラッグ](../Page/メタルスラッグ.md "wikilink") (METAL SLUG)
   - [明光商会](../Page/明光商会.md "wikilink")

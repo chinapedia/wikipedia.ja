@@ -59,7 +59,7 @@
 
 ### 高校野球地区予選編
 
-[夏の高校野球の](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")[山形県](../Page/山形県.md "wikilink")予選。あと一勝で[甲子園という所まで進んだ雪隆たち如月高校野球部だったが](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")、勝ち進むに従って突然部室の窓ガラスが割れるなど[ポルターガイスト現象](../Page/ポルターガイスト現象.md "wikilink")が頻繁に起こるという問題も抱えていた。それについて様々な推測をしながらも、目の前に迫った甲子園への興奮もあり、それ程問題にもしなかった雪隆たちだが、県予選決勝の日、突然今までで最大の怪奇現象に見舞われる。雪隆達の応援に行く途中、偶然その怪異を目撃したディスクン星人のラファティの知らせで事件を知ったクラフト達は、救出方法を模索する。
+[夏の高校野球の](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")[山形県](../Page/山形県.md "wikilink")予選。あと一勝で[甲子園という所まで進んだ雪隆たち如月高校野球部だったが](../Page/阪神甲子園球場.md "wikilink")、勝ち進むに従って突然部室の窓ガラスが割れるなど[ポルターガイスト現象](../Page/ポルターガイスト現象.md "wikilink")が頻繁に起こるという問題も抱えていた。それについて様々な推測をしながらも、目の前に迫った甲子園への興奮もあり、それ程問題にもしなかった雪隆たちだが、県予選決勝の日、突然今までで最大の怪奇現象に見舞われる。雪隆達の応援に行く途中、偶然その怪異を目撃したディスクン星人のラファティの知らせで事件を知ったクラフト達は、救出方法を模索する。
 
 ### 原色戦隊カラーレンジャー・人魚編
 
@@ -204,7 +204,7 @@
     声 - [森谷里美](https://ja.wikipedia.org/wiki/森谷里美 "wikilink")
     野球部[マネージャー](https://ja.wikipedia.org/wiki/マネージャー#学校の部活動のマネージャー "wikilink")。美人だが、なぜかキャプテン岩田にぞっこん。
   - 田中
-    野球部の[控え選手](../Page/サブメンバー.md "wikilink")。[甲子園球場で](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")[巨人阪神戦を観戦したことがあった](../Page/伝統の一戦.md "wikilink")。その際、自分の名前のシールをベンチの下に貼り付ける。
+    野球部の[控え選手](../Page/サブメンバー.md "wikilink")。[甲子園球場で](../Page/阪神甲子園球場.md "wikilink")[巨人阪神戦を観戦したことがあった](../Page/伝統の一戦.md "wikilink")。その際、自分の名前のシールをベンチの下に貼り付ける。
 
 ### ディスクン星人
 
@@ -433,7 +433,7 @@
 
   - [レベルE | アニプレックス](https://www.aniplex.co.jp/level-e/index.html)
 
-  - [「奴は必ずその少し斜め上を行く！」ということでねんどろいど化ｹﾃｰｲ！「ねんどろいど 王子」！｜フィギュアメーカー・グッドスマイルカンパニー勤務 『カホタンブログ』](https://ameblo.jp/gsc-mikatan/entry-10897350108.html) - [グッドスマイルカンパニー](../Page/グッドスマイルカンパニー.md "wikilink")から発売された王子の[ねんどろいど](https://ja.wikipedia.org/wiki/ねんどろいど "wikilink")を紹介。
+  - [「奴は必ずその少し斜め上を行く！」ということでねんどろいど化ｹﾃｰｲ！「ねんどろいど 王子」！｜フィギュアメーカー・グッドスマイルカンパニー勤務 『カホタンブログ』](https://ameblo.jp/gsc-mikatan/entry-10897350108.html) - [グッドスマイルカンパニー](../Page/グッドスマイルカンパニー.md "wikilink")から発売された王子の[ねんどろいど](../Page/ねんどろいど.md "wikilink")を紹介。
 
 [Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:山形県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:山形県を舞台とした作品 "wikilink") [Category:地球外生命体を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした漫画作品 "wikilink") [Category:王子を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:王子を主人公とした漫画作品 "wikilink") [Category:オムニバス漫画](https://ja.wikipedia.org/wiki/Category:オムニバス漫画 "wikilink") [Category:アニメ作品_れ](https://ja.wikipedia.org/wiki/Category:アニメ作品_れ "wikilink") [Category:2011年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2011年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:ぴえろ](https://ja.wikipedia.org/wiki/Category:ぴえろ "wikilink") [Category:デイヴィッドプロダクション](https://ja.wikipedia.org/wiki/Category:デイヴィッドプロダクション "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:地球外生命体を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ作品 "wikilink") [Category:王子を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:王子を主人公としたアニメ作品 "wikilink")
 

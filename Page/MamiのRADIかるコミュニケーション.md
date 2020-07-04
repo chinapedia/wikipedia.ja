@@ -72,7 +72,7 @@
 
 [1984年](../Page/1984年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に『[ラジオアニメック・決定\!アニメ最前線](../Page/週刊ラジオアニメック.md "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）の後番組として、東海ラジオとラジオ大阪の2局ネット体制でスタート。放送時間は、開始当初は毎週土曜日20:00-20:30。
 
-その後、ラジオ大阪は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")をもってネットを休止、同年4月からSTVラジオ・KBCラジオの2局がネットを開始する。関西地区では[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")より[KBS京都でネット復帰し](../Page/京都放送.md "wikilink")、[1989年](../Page/1989年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")まで放送される。その後[1989年](../Page/1989年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")までラジオ大阪で、[1992年](../Page/1992年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")までラジオ関西で放送された後、[1993年](../Page/1993年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")にラジオ大阪でネットが再開するが[2004年](../Page/2004年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")をもって放送を終了した。[2004年](../Page/2004年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")よりラジオ関西で放送を開始、4局ネットとなった。
+その後、ラジオ大阪は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")をもってネットを休止、同年4月からSTVラジオ・KBCラジオの2局がネットを開始する。関西地区では[1986年](../Page/1986年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")より[KBS京都でネット復帰し](../Page/京都放送.md "wikilink")、[1989年](../Page/1989年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")まで放送される。その後[1989年](../Page/1989年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")までラジオ大阪で、[1992年](../Page/1992年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")までラジオ関西で放送された後、[1993年](../Page/1993年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")にラジオ大阪でネットが再開するが[2004年](../Page/2004年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")をもって放送を終了した。[2004年](../Page/2004年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")よりラジオ関西で放送を開始、4局ネットとなった。
 
 このように関西地方ではネット局の変遷が著しいが、その他の地域では放送時間の変更こそあれ東海ラジオ・KBCラジオ・STVラジオでのネットを一貫して継続している。いずれも[NRNの親局出力](../Page/全国ラジオネットワーク.md "wikilink")50kW局であり、NRNの事実上の[基幹局](../Page/基幹局.md "wikilink")でもある。
 
@@ -133,7 +133,7 @@
 
 ## 本
 
-  - 「ハートパニック」[花伝社](../Page/マンガハウス.md "wikilink")・刊（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月10日](../Page/11月10日.md "wikilink")） - 発行元の花伝社は[さくまあきら](../Page/さくまあきら.md "wikilink")が立ち上げた会社で、2012年現在存在する[同名の出版社とは無関係](../Page/花伝社.md "wikilink")。同人誌の装丁で発行され、書店流通には乗らなかった。
+  - 「ハートパニック」[花伝社](../Page/マンガハウス.md "wikilink")・刊（[1986年](../Page/1986年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")） - 発行元の花伝社は[さくまあきら](../Page/さくまあきら.md "wikilink")が立ち上げた会社で、2012年現在存在する[同名の出版社とは無関係](../Page/花伝社.md "wikilink")。同人誌の装丁で発行され、書店流通には乗らなかった。
   - 「mamiのRADIかるコミュニケーション ラジオ伝説」[ラポート](../Page/ラポート.md "wikilink")・刊（[1988年](../Page/1988年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")）
   - 「RADIコミ新聞 COMPLETE BOOK」[ラジオ大阪](../Page/大阪放送.md "wikilink")・刊（出版を予定されていたが、権利問題などの事情で発売中止）
 
@@ -147,7 +147,7 @@
 
 ## 収録
 
-公開収録など一部の放送回を除き、開始から終了まで、東京都港区赤坂のフラミンゴスタジオで収録されていた。収録風景の見学は許可されていた時期もあったが心無い熱狂的リスナーが小森に危害を加えようとした事件があったため、その後スタジオの見学やスタジオ前での出待ち等は不可となる。隣では、2008年3月まで『[TV Game Radions V3](../Page/TV_Game_Radions_V3.md "wikilink")』が収録されていた。プロデューサーはボス是枝、ディレクターは1998年10月11日まではボス是枝、同年10月18日からは[さとDUE](https://ja.wikipedia.org/wiki/佐藤卓矢 "wikilink")、2000年9月3日からはガンちゃん（フルネーム：マシンガン野郎）。
+公開収録など一部の放送回を除き、開始から終了まで、東京都港区赤坂のフラミンゴスタジオで収録されていた。収録風景の見学は許可されていた時期もあったが心無い熱狂的リスナーが小森に危害を加えようとした事件があったため、その後スタジオの見学やスタジオ前での出待ち等は不可となる。隣では、2008年3月まで『[TV Game Radions V3](../Page/TV_Game_Radions_V3.md "wikilink")』が収録されていた。プロデューサーはボス是枝、ディレクターは1998年10月11日まではボス是枝、同年10月18日からは[さとDUE](../Page/佐藤卓矢.md "wikilink")、2000年9月3日からはガンちゃん（フルネーム：マシンガン野郎）。
 
 2004年3月7日より、ディレクターにボス是枝（BOSS KOREEDER）が復帰（事実上の[スーパーバイザー](../Page/スーパーバイザー.md "wikilink")）。2006年10月よりディレクターはたぐっちゃん。ADは2006年まで桂（かつら）ちゃん。
 

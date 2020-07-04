@@ -5,7 +5,7 @@
 
 ` }}`
 
-| Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **硝酸銀(I)**（しょうさんぎん いち）は[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink") AgNO<sub>3</sub>、[式量](https://ja.wikipedia.org/wiki/式量 "wikilink") 169.89 の[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[硝酸塩](../Page/硝酸塩.md "wikilink")である。日本の法令では[毒物及び劇物取締法](https://ja.wikipedia.org/wiki/毒物及び劇物取締法 "wikilink")により劇物に指定される。銀を[硝酸](../Page/硝酸.md "wikilink")に溶かすと得られる。
+| Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **硝酸銀(I)**（しょうさんぎん いち）は[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink") AgNO<sub>3</sub>、[式量](https://ja.wikipedia.org/wiki/式量 "wikilink") 169.89 の[銀](../Page/銀.md "wikilink")の[硝酸塩](../Page/硝酸塩.md "wikilink")である。日本の法令では[毒物及び劇物取締法](https://ja.wikipedia.org/wiki/毒物及び劇物取締法 "wikilink")により劇物に指定される。銀を[硝酸](../Page/硝酸.md "wikilink")に溶かすと得られる。
 
 ## 合成
 

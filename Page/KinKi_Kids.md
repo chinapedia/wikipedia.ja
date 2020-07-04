@@ -1118,7 +1118,7 @@ BD総合：1位<br />
 <td><p>堂本光一</p></td>
 <td><p>堂本光一</p></td>
 <td><p>-</p></td>
-<td><p>光一ソロ曲、後に<a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a>へ楽曲を提供。</p></td>
+<td><p>光一ソロ曲、後に<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>へ楽曲を提供。</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -1488,7 +1488,7 @@ BD総合：1位<br />
 <td><p>キンキキッズ 緊急全国ツアー KinKi you コンサート。[236]</p></td>
 <td><p>13か所27公演<br />
 39万人動員[237]</p></td>
-<td><p>東京ドーム、京セラドーム大阪、<a href="../Page/長野市若里多目的スポーツアリーナ.md" title="wikilink">長野・ビッグハット</a>、<a href="../Page/宮城県総合運動公園総合体育館.md" title="wikilink">仙台・ホットハウススーパーアリーナ</a>、<a href="../Page/名古屋市総合体育館.md" title="wikilink">名古屋・日本ガイシスポーツプラザ ガイシホール</a>、<a href="../Page/北海道立総合体育センター.md" title="wikilink">北海道立総合体育センター</a>（北海きたえーる）、<a href="../Page/朱鷺メッセ.md" title="wikilink">朱鷺メッセ 新潟コンベンションセンター</a>、マリンメッセ福岡、<a href="../Page/福井県産業振興施設.md" title="wikilink">サンドーム福井</a>、広島グリーンアリーナ、<a href="https://ja.wikipedia.org/wiki/静岡県小笠山総合運動公園アリーナ" title="wikilink">静岡エコパアリーナ</a>、<a href="../Page/ビーコンプラザ.md" title="wikilink">大分・ビーコンプラザ コンベンションホール</a>、<a href="../Page/鹿児島アリーナ.md" title="wikilink">鹿児島アリーナ</a></p></td>
+<td><p>東京ドーム、京セラドーム大阪、<a href="../Page/長野市若里多目的スポーツアリーナ.md" title="wikilink">長野・ビッグハット</a>、<a href="../Page/宮城県総合運動公園総合体育館.md" title="wikilink">仙台・ホットハウススーパーアリーナ</a>、<a href="../Page/名古屋市総合体育館.md" title="wikilink">名古屋・日本ガイシスポーツプラザ ガイシホール</a>、<a href="../Page/北海道立総合体育センター.md" title="wikilink">北海道立総合体育センター</a>（北海きたえーる）、<a href="../Page/朱鷺メッセ.md" title="wikilink">朱鷺メッセ 新潟コンベンションセンター</a>、マリンメッセ福岡、<a href="../Page/福井県産業振興施設.md" title="wikilink">サンドーム福井</a>、広島グリーンアリーナ、<a href="../Page/静岡県小笠山総合運動公園アリーナ.md" title="wikilink">静岡エコパアリーナ</a>、<a href="../Page/ビーコンプラザ.md" title="wikilink">大分・ビーコンプラザ コンベンションホール</a>、<a href="../Page/鹿児島アリーナ.md" title="wikilink">鹿児島アリーナ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年11月30日<br />
@@ -1743,7 +1743,7 @@ BD総合：1位<br />
   - [日本新聞協会](../Page/日本新聞協会.md "wikilink")PRイメージキャラクター（広告、ポスターのみ）
   - [日産自動車](../Page/日産自動車.md "wikilink")（1997年6月 - 1998年1月）
   - [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[ファンタ](../Page/ファンタ_\(飲料\).md "wikilink")」（1998年）
-  - [全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") パラダイス沖縄イメージキャラクター（1998年4月 - ）\[365\]
+  - [全日空](../Page/全日本空輸.md "wikilink") パラダイス沖縄イメージキャラクター（1998年4月 - ）\[365\]
       - '98 ANA'S パラダイス沖縄（1998年5月20日 - ）\[366\]
       - ANA'S PARADISE Vacation
       - '99 ANA's パラダイス沖縄（1999年5月5日 - ）\[367\]

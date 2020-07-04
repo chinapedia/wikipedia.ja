@@ -172,7 +172,7 @@
 
 2019年
 
-  - 9月18日 - 平均年齢20歳の4人組女性バンド[SARD UNDERGROUNDが](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink")[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の名曲をカバーしたアルバム「ZARD tribute」でメジャーデビュー。
+  - 9月18日 - 平均年齢20歳の4人組女性バンド[SARD UNDERGROUNDが](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink")[ZARD](../Page/ZARD.md "wikilink")の名曲をカバーしたアルバム「ZARD tribute」でメジャーデビュー。
 
 ## 特徴・来歴
 

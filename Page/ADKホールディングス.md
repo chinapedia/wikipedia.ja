@@ -363,7 +363,7 @@
   - [阿部秀司](../Page/阿部秀司_\(映画プロデューサー\).md "wikilink")（CMディレクター、クリエイティブディレクター、コピーライター、映画プロデューサー、企画制作プロダクション[ROBOT](https://ja.wikipedia.org/wiki/ROBOT "wikilink")創業者）
   - [石川真一郎](https://ja.wikipedia.org/wiki/石川真一郎 "wikilink")（[ゴンゾ](../Page/ゴンゾ.md "wikilink")代表取締役社長）
   - [市川喜康](../Page/市川喜康.md "wikilink")（作詞家・作曲家・クリエイティブディレクター。ADK出身・現ADK Wonder Records代表）
-  - [伊藤直樹](https://ja.wikipedia.org/wiki/伊藤直樹 "wikilink")（クリエイティブディレクター・コピーライター・アートディレクター。現PARTY代表）
+  - [伊藤直樹](../Page/伊藤直樹.md "wikilink")（クリエイティブディレクター・コピーライター・アートディレクター。現PARTY代表）
   - [犬童一心](../Page/犬童一心.md "wikilink")（映画監督）（ADKアーツ在籍）
   - [稲垣正夫](https://ja.wikipedia.org/wiki/稲垣正夫_\(実業家\) "wikilink")（旭通信社創業者）
   - [岩村暢子](https://ja.wikipedia.org/wiki/岩村暢子 "wikilink")（現代家族論研究者、ADK200Xファミリーデザイン室室長）（ADK在籍）

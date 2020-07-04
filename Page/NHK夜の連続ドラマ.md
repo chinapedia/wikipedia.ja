@@ -88,7 +88,7 @@
 <td><p><a href="../Page/市川森一.md" title="wikilink">市川森一</a></p></td>
 <td><p><a href="../Page/さだまさし.md" title="wikilink">さだまさし</a><br />
 「<a href="../Page/精霊流し_(曲).md" title="wikilink">精霊流し</a>」</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂口憲二" title="wikilink">坂口憲二</a></p></td>
+<td><p><a href="../Page/坂口憲二.md" title="wikilink">坂口憲二</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村俊介" title="wikilink">中村俊介</a>、<a href="../Page/新山千春.md" title="wikilink">新山千春</a>、<a href="../Page/風吹ジュン.md" title="wikilink">風吹ジュン</a>、<a href="../Page/根津甚八_(俳優).md" title="wikilink">根津甚八</a>、<a href="../Page/宮崎美子.md" title="wikilink">宮崎美子</a></p></td>
 </tr>
 <tr class="even">
@@ -325,7 +325,7 @@
 <td><p><a href="../Page/七色のおばんざい.md" title="wikilink">七色のおばんざい</a></p></td>
 <td><p>2005年6月20日 - 7月28日</p></td>
 <td><p>名古屋放送局</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柴田よしき" title="wikilink">柴田よしき</a></p></td>
+<td><p><a href="../Page/柴田よしき.md" title="wikilink">柴田よしき</a></p></td>
 <td><p><a href="../Page/長川千佳子.md" title="wikilink">長川千佳子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/後藤真希" title="wikilink">後藤真希</a><br />
 「<a href="https://ja.wikipedia.org/wiki/スッピンと涙。" title="wikilink">スッピンと涙。</a>」</p></td>

@@ -41,7 +41,7 @@ ThinkPadはビジネス向けが中心であり（IBM時代の一時期、一般
 
 ### 誕生
 
-IBMの最初の[ポータブルコンピュータ](../Page/ポータブルコンピュータ.md "wikilink")は[1975年](../Page/1975年.md "wikilink")の[IBM 5100である](https://ja.wikipedia.org/wiki/IBM_5100 "wikilink")。日本独自仕様では[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[ラップトップPCの](../Page/ラップトップパソコン.md "wikilink")[マルチステーション5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink") 5535-M、[1989年](../Page/1989年.md "wikilink")のA4サイズの[AS/400](https://ja.wikipedia.org/wiki/AS/400 "wikilink")端末用の5549オンラインノート\[11\]\[12\]などである。
+IBMの最初の[ポータブルコンピュータ](../Page/ポータブルコンピュータ.md "wikilink")は[1975年](../Page/1975年.md "wikilink")の[IBM 5100である](https://ja.wikipedia.org/wiki/IBM_5100 "wikilink")。日本独自仕様では[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[ラップトップPCの](../Page/ラップトップパソコン.md "wikilink")[マルチステーション5550](../Page/マルチステーション5550.md "wikilink") 5535-M、[1989年](../Page/1989年.md "wikilink")のA4サイズの[AS/400](https://ja.wikipedia.org/wiki/AS/400 "wikilink")端末用の5549オンラインノート\[11\]\[12\]などである。
 
 IBMの最初の[PC/AT互換のラップトップPCは](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の日本の[PS/55](https://ja.wikipedia.org/wiki/PS/55 "wikilink")シリーズ **5535-S** である。5535-Sは[VGAと内部的な](../Page/Video_Graphics_Array.md "wikilink")[ATバスを搭載し](../Page/Industry_Standard_Architecture.md "wikilink")、当モデルの専用[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")として[IBM DOS/Vが同時発表され](https://ja.wikipedia.org/wiki/DOS/V "wikilink")、日本にPC/AT互換機が普及する契機となった。
 
@@ -53,7 +53,7 @@ ThinkPadは、ほとんどが[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/A
 
 ### レノボによる買収
 
-[2004年](../Page/2004年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")、[IBM](../Page/IBM.md "wikilink")と[レノボ](../Page/レノボ.md "wikilink")はパーソナルコンピュータ事業のレノボによる買収を含む戦略的提携を発表した\[17\]。この対象にはThinkPadや[NetVista](https://ja.wikipedia.org/wiki/NetVista "wikilink")などの製品、ブランド、PC部門（IBM PC事業部、PCC）が含まれ、[PCサーバ](../Page/PCサーバ.md "wikilink")の[eServer xSeriesなどは含まれなかった](../Page/System_x.md "wikilink")。この結果、ThinkPad開発の主体を担っていた[日本IBM大和事業所](../Page/日本IBM大和事業所.md "wikilink")の技術者の大半も[レノボ](../Page/レノボ.md "wikilink")社に移籍した。2015年現在では、x86サーバ・ワークステーション事業も、ThinkServer/ThinkStation としてレノボに移管されている\[18\]。
+[2004年](../Page/2004年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")、[IBM](../Page/IBM.md "wikilink")と[レノボ](../Page/レノボ.md "wikilink")はパーソナルコンピュータ事業のレノボによる買収を含む戦略的提携を発表した\[17\]。この対象にはThinkPadや[NetVista](../Page/NetVista.md "wikilink")などの製品、ブランド、PC部門（IBM PC事業部、PCC）が含まれ、[PCサーバ](../Page/PCサーバ.md "wikilink")の[eServer xSeriesなどは含まれなかった](../Page/System_x.md "wikilink")。この結果、ThinkPad開発の主体を担っていた[日本IBM大和事業所](../Page/日本IBM大和事業所.md "wikilink")の技術者の大半も[レノボ](../Page/レノボ.md "wikilink")社に移籍した。2015年現在では、x86サーバ・ワークステーション事業も、ThinkServer/ThinkStation としてレノボに移管されている\[18\]。
 
 特にThinkPadは市場で高いブランドを認知されていたため、買収後のブランドや品質・サポートの維持について多くの報道や議論が行われた\[19\]\[20\]\[21\]\[22\]。
 
@@ -216,7 +216,7 @@ ThinkPadはレノボ移行後も、継続して神奈川県大和市のレノボ
 
 <!-- end list -->
 
-  - [ThinkPad Gシリーズ](../Page/ThinkPad_G.md "wikilink") - デスクトップ・リプレースメント、A4オールインワン・デスクノート、3[スピンドル](https://ja.wikipedia.org/wiki/スピンドル "wikilink")、ウルトラベイ非対応。CPUに高発熱の[Pentium 4を採用したことで](../Page/Pentium_4.md "wikilink")、デスクノートとも呼べる廃熱に余裕を持たせた大型筐体になっている。ウルトラベイ非対応。低発熱のCPUが発売されたことで廃版。
+  - [ThinkPad Gシリーズ](../Page/ThinkPad_G.md "wikilink") - デスクトップ・リプレースメント、A4オールインワン・デスクノート、3[スピンドル](../Page/スピンドル.md "wikilink")、ウルトラベイ非対応。CPUに高発熱の[Pentium 4を採用したことで](../Page/Pentium_4.md "wikilink")、デスクノートとも呼べる廃熱に余裕を持たせた大型筐体になっている。ウルトラベイ非対応。低発熱のCPUが発売されたことで廃版。
       - G40/ G41
       - G50a
 

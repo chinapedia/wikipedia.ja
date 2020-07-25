@@ -23,7 +23,7 @@
 
 [1989年](../Page/1989年.md "wikilink")にリリースした4枚目のアルバム『TABOO』でチャート第1位を獲得。
 
-パブリックイメージとして定着している『バブル期』の音楽性は、櫻井の志向を反映した[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")色が強い。
+パブリックイメージとして定着している『バブル期』の音楽性は、櫻井の志向を反映した[ゴシック・ロック](../Page/ゴシック・ロック.md "wikilink")色が強い。
 
 また、バンドの音楽性はオルタナティヴ、エレクトロニカなど、ポップスを主軸に様々なジャンルに変化し続けており、アルバムごとに異なるアプローチを打ち出している。
 
@@ -54,7 +54,7 @@
       - 当初、今井は外部からボーカルを連れて来るつもりだったが、櫻井がボーカルへ転向を志願。
       - 空席となったドラムスは樋口の誘いにより、実兄のヤガミトールが加入。
       - 12月4日、新宿JAMで現メンバーでの初ライブを開催。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
       - 地元群馬県の小規模の公会堂や東京のライブハウス、学園祭を中心にライブ活動を行う。
       - 10月21日、インディーズレーベル太陽レコードより、インディーズで1stシングル「[TO-SEARCH](https://ja.wikipedia.org/wiki/TO-SEARCH "wikilink")」リリース。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
@@ -280,7 +280,7 @@
       - 10月25日-12月14日、スタンディングツアー『TOUR 2014 metaform nights 〜或いはアナーキー〜』開催。
       - 12月29日、[日本武道館](../Page/日本武道館.md "wikilink")にて『或いはアナーキー ― N P P N B D K N ―』公演を開催。
   - [2015年](../Page/2015年.md "wikilink")
-      - 2月1日、BUCK-TICK史上最大のヒットアルバム『悪の華』を、全曲リミックス・リマスターを施し、[プラチナSHM仕様で](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")『惡の華(2015年ミックス版)』として、また、同作品のビデオアルバムもリミックス・リマスター仕様で再発売。
+      - 2月1日、BUCK-TICK史上最大のヒットアルバム『悪の華』を、全曲リミックス・リマスターを施し、[プラチナSHM仕様で](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")『惡の華(2015年ミックス版)』として、また、同作品のビデオアルバムもリミックス・リマスター仕様で再発売。
       - 6月28日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて[LUNA SEA初の主宰ロックフェス](../Page/LUNA_SEA.md "wikilink")『LUNATIC FEST. (通称ルナフェス)』に出演\[5\]\[6\]。その後、櫻井敦司10年ぶりのソロ活動としてソロプロジェクト「THE MORTAL」を始動。今井寿＆藤井麻輝ユニット[SCHAFT](../Page/SCHAFT.md "wikilink")が本格再始動。
       - 12月13日-12月29日、ライブツアー『[THE DAY IN QUESTION](../Page/THE_DAY_IN_QUESTION.md "wikilink")』開催（全5公演）。
   - [2016年](../Page/2016年.md "wikilink")
@@ -312,7 +312,7 @@
 
 ## 影響
 
-日本のバンドからの影響も受けているほか、1970年代から1980年代のイギリスの[ポスト・パンク](https://ja.wikipedia.org/wiki/ポスト・パンク "wikilink")から強い影響を受けている。具体的には、、[ロバート・スミス](https://ja.wikipedia.org/wiki/ロバート・スミス "wikilink")、[バウハウス](../Page/バウハウス_\(バンド\).md "wikilink") (メンバー全員で[ピーター・マーフィー](../Page/ピーター・マーフィー.md "wikilink")のライブを見に行ったこともあるとのこと)\[12\]。[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")、[XTC](https://ja.wikipedia.org/wiki/XTC "wikilink")などからも影響を受けているという。今井は中でも特にから影響を受けているが、『狂った太陽』ではその影響が見て取れる。また、[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[クラフトワーク](../Page/クラフトワーク.md "wikilink")、[ウルトラヴォックス](../Page/ウルトラヴォックス.md "wikilink")のような[ニュー・ウェイヴや](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")[エレクトロニックアーティスト](../Page/電子音楽.md "wikilink")、[The Stalinなどのパンクバンドから影響を受けていると述べている](https://ja.wikipedia.org/wiki/The_Stalin "wikilink")。他には。櫻井は[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")から強い影響を語っており、2004年のソロライブでは"Space Oddity"のカバーも披露している。彼は、[シスターズ・オブ・マーシー](https://ja.wikipedia.org/wiki/シスターズ・オブ・マーシー "wikilink")、[スージー・アンド・ザ・バンシーズ](../Page/スージー・アンド・ザ・バンシーズ.md "wikilink")、、[DER ZIBET](../Page/DER_ZIBET.md "wikilink")、[土屋昌巳](../Page/土屋昌巳.md "wikilink")などのポスト・パンクや[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")のアーティストからも影響を受けている。"ダーク"な音楽を愛好していると語っている。星野とヤガミは好きなアーティストとして、[ビートルズ](../Page/ビートルズ.md "wikilink")をあげる。ヤガミは[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のファンでもあり、[キッス](../Page/キッス.md "wikilink")や[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")などのハードロックバンドやパンクバンドも好きだという\[13\]\[14\]\[15\]。
+日本のバンドからの影響も受けているほか、1970年代から1980年代のイギリスの[ポスト・パンク](https://ja.wikipedia.org/wiki/ポスト・パンク "wikilink")から強い影響を受けている。具体的には、、[ロバート・スミス](https://ja.wikipedia.org/wiki/ロバート・スミス "wikilink")、[バウハウス](../Page/バウハウス_\(バンド\).md "wikilink") (メンバー全員で[ピーター・マーフィー](../Page/ピーター・マーフィー.md "wikilink")のライブを見に行ったこともあるとのこと)\[12\]。[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")、[XTC](https://ja.wikipedia.org/wiki/XTC "wikilink")などからも影響を受けているという。今井は中でも特にから影響を受けているが、『狂った太陽』ではその影響が見て取れる。また、[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[クラフトワーク](../Page/クラフトワーク.md "wikilink")、[ウルトラヴォックス](../Page/ウルトラヴォックス.md "wikilink")のような[ニュー・ウェイヴや](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")[エレクトロニックアーティスト](../Page/電子音楽.md "wikilink")、[The Stalinなどのパンクバンドから影響を受けていると述べている](https://ja.wikipedia.org/wiki/The_Stalin "wikilink")。他には。櫻井は[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")から強い影響を語っており、2004年のソロライブでは"Space Oddity"のカバーも披露している。彼は、[シスターズ・オブ・マーシー](https://ja.wikipedia.org/wiki/シスターズ・オブ・マーシー "wikilink")、[スージー・アンド・ザ・バンシーズ](../Page/スージー・アンド・ザ・バンシーズ.md "wikilink")、、[DER ZIBET](../Page/DER_ZIBET.md "wikilink")、[土屋昌巳](../Page/土屋昌巳.md "wikilink")などのポスト・パンクや[ゴシック・ロック](../Page/ゴシック・ロック.md "wikilink")のアーティストからも影響を受けている。"ダーク"な音楽を愛好していると語っている。星野とヤガミは好きなアーティストとして、[ビートルズ](../Page/ビートルズ.md "wikilink")をあげる。ヤガミは[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のファンでもあり、[キッス](../Page/キッス.md "wikilink")や[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")などのハードロックバンドやパンクバンドも好きだという\[13\]\[14\]\[15\]。
 
 ## 用語
 

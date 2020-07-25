@@ -22,7 +22,7 @@
   - 前田元彦：[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")
   - 木村道子：[大谷直子](../Page/大谷直子.md "wikilink")
   - 田村先生：[久世光彦](../Page/久世光彦.md "wikilink")
-  - 巌岳医師：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - 巌岳医師：[中島みゆき](../Page/中島みゆき.md "wikilink")
   - 院長：[三浦友和](../Page/三浦友和.md "wikilink")
   - 看護師長：[石川真希](https://ja.wikipedia.org/wiki/石川真希 "wikilink")
   - 望月：[大石幸子](https://ja.wikipedia.org/wiki/大石幸子 "wikilink")

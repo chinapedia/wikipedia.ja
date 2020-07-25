@@ -21,7 +21,7 @@
     [声](../Page/声優.md "wikilink") - [ルネッサンス山田](https://ja.wikipedia.org/wiki/ルネッサンス山田 "wikilink")
     男の中の男を目指していたが、謎の薬で女になる。実は染色体レベルでは半陰陽。
   - 桜塚 カオル（さくらづか かおる）
-    声 - [春瀬みき](https://ja.wikipedia.org/wiki/春瀬みき "wikilink")
+    声 - [春瀬みき](../Page/春瀬みき.md "wikilink")
     薫の女の子バージョン。たくやと違って、体が女になっても言葉遣いや精神は男のまま。
   - 麻倉 瑞希（あさくら みずき）
     声 - [長崎みなみ](../Page/長崎みなみ.md "wikilink")

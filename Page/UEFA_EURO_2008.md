@@ -209,7 +209,7 @@
 収容人数: 31,957人</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルズ・アリーナ" title="wikilink">EMシュターディオン・ヴァルス・ジーツェンハイム</a><br />
 収容人数: 31,020人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ティヴォリ・シュターディオン" title="wikilink">ティヴォリ・シュターディオン</a><br />
+<td><p><a href="../Page/ティヴォリ・シュターディオン.md" title="wikilink">ティヴォリ・シュターディオン</a><br />
 収容人数: 31,600人</p></td>
 </tr>
 <tr class="even">

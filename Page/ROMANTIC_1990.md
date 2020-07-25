@@ -45,7 +45,7 @@
 5.  **BLUE**
 6.  **MODERN VISION**
       -
-        デモテープの段階では[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の『[移民の歌](https://ja.wikipedia.org/wiki/移民の歌 "wikilink")』を意識して政治的にニュートラル、かつナンセンスな解釈で作るつもりであったが、布袋の手によりテーマ性および日本人好みな[アレンジが施された](../Page/編曲.md "wikilink")。活動休止後の吉川のソロライブにおいて、この曲だけは演奏されることがあった（現在ではその他のCOMPLEXの楽曲も披露されている）。また、後に吉川が[DISCO TWINSとのコラボレートユニット](../Page/DISCO_TWINS_\(バンド\).md "wikilink")「DISCO K2 TWINS」として、セルフカバーしている。
+        デモテープの段階では[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の『[移民の歌](../Page/移民の歌.md "wikilink")』を意識して政治的にニュートラル、かつナンセンスな解釈で作るつもりであったが、布袋の手によりテーマ性および日本人好みな[アレンジが施された](../Page/編曲.md "wikilink")。活動休止後の吉川のソロライブにおいて、この曲だけは演奏されることがあった（現在ではその他のCOMPLEXの楽曲も披露されている）。また、後に吉川が[DISCO TWINSとのコラボレートユニット](../Page/DISCO_TWINS_\(バンド\).md "wikilink")「DISCO K2 TWINS」として、セルフカバーしている。
 7.  **THE WALL**
       -
         前年に起こった[ベルリンの壁崩壊](../Page/ベルリンの壁崩壊.md "wikilink")がモチーフになっている。「ニュースを見てて、いてもたってもいられなくなってベルリンに行き、そのまま現地で書いた曲」と布袋は語っている。吉川の歌唱部分は前半のみで、後半は外国人のトークなどが挿入され、インストゥルメンタルのような構成になっている。
@@ -139,7 +139,7 @@ TOTT-5660</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
 <td><p>EMIミュージック・ジャパン／イーストワールド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>TOCT-95115</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>仕様</p></td>

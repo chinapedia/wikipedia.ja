@@ -33,7 +33,7 @@
 ## 主な出身プロ野球選手
 
   - [煤孫伝](https://ja.wikipedia.org/wiki/煤孫伝 "wikilink")：外野手（[1937年](../Page/1937年.md "wikilink")春[大東京軍入団](../Page/松竹ロビンス.md "wikilink")）
-  - [小田野柏](https://ja.wikipedia.org/wiki/小田野柏 "wikilink")：外野手（[1938年](../Page/1938年.md "wikilink")春[阪急軍入団](../Page/オリックス・バファローズ.md "wikilink")）
+  - [小田野柏](../Page/小田野柏.md "wikilink")：外野手（[1938年](../Page/1938年.md "wikilink")春[阪急軍入団](../Page/オリックス・バファローズ.md "wikilink")）
   - [佐藤孝夫](../Page/佐藤孝夫.md "wikilink")：外野手（[1952年](../Page/1952年.md "wikilink")[国鉄スワローズ入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")）
   - [若生和也](https://ja.wikipedia.org/wiki/若生和也 "wikilink")：投手（[1967年](../Page/1967年.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")ドラフト3位→[ロッテオリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink")；退部後他チームを経て指名）
   - [高橋英二](https://ja.wikipedia.org/wiki/高橋英二 "wikilink")：内野手（[1970年](../Page/1970年.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ドラフト6位→[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")）

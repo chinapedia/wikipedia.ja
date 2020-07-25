@@ -147,7 +147,7 @@ HMVによるTop 100 Japanese pops ArtistsのNo.73に選ばれる\[1\]。
 
   - 2013年
 
-[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、全国期間限定で『VANISHING POINT』公開。[1月30日](../Page/1月30日.md "wikilink")、DVD、Blu-ray『VANISHING POINT』リリース。『VANISHING POINT』公開を記念して、解散までに発表してきたシングル曲をコンプリートした『COMPLETE SINGLE COLLECTION 「SINGLES」』を[3月27日](../Page/3月27日.md "wikilink")に発売予定。それと同時に、"BJCキャンペーン"と題し、過去のアルバム作品を[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")にて、過去のDVD作品を廉価版にて再発。
+[1月26日](../Page/1月26日.md "wikilink")、全国期間限定で『VANISHING POINT』公開。[1月30日](../Page/1月30日.md "wikilink")、DVD、Blu-ray『VANISHING POINT』リリース。『VANISHING POINT』公開を記念して、解散までに発表してきたシングル曲をコンプリートした『COMPLETE SINGLE COLLECTION 「SINGLES」』を[3月27日](../Page/3月27日.md "wikilink")に発売予定。それと同時に、"BJCキャンペーン"と題し、過去のアルバム作品を[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")にて、過去のDVD作品を廉価版にて再発。
 
 ## 概要
 

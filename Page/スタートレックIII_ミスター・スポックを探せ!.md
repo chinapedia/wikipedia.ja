@@ -125,7 +125,7 @@
 
   -
     演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：木原たけし（復刻部分：中村久世）、調整：上村利秋、制作：スタジオ・エコー
-    その他声の出演：[寺島信子](../Page/寺島信子.md "wikilink")、[寺杣昌紀](../Page/てらそままさき.md "wikilink")、[仲野裕](../Page/仲野裕.md "wikilink")、[諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")、[小宮和枝](../Page/小宮和枝.md "wikilink")、[廣田行生](../Page/廣田行生.md "wikilink")、[佐藤晴男](../Page/佐藤晴男.md "wikilink")、[松井範雄](../Page/松井範雄.md "wikilink")、[沢りつお](../Page/沢りつお.md "wikilink")、[後藤敦](../Page/後藤敦.md "wikilink")、[華村りこ](https://ja.wikipedia.org/wiki/華村りこ "wikilink")、[上田陽司](../Page/上田燿司.md "wikilink")、[飯島肇](../Page/飯島肇.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[倉持良子](https://ja.wikipedia.org/wiki/倉持良子 "wikilink")
+    その他声の出演：[寺島信子](../Page/寺島信子.md "wikilink")、[寺杣昌紀](../Page/てらそままさき.md "wikilink")、[仲野裕](../Page/仲野裕.md "wikilink")、[諸角憲一](../Page/諸角憲一.md "wikilink")、[小宮和枝](../Page/小宮和枝.md "wikilink")、[廣田行生](../Page/廣田行生.md "wikilink")、[佐藤晴男](../Page/佐藤晴男.md "wikilink")、[松井範雄](../Page/松井範雄.md "wikilink")、[沢りつお](../Page/沢りつお.md "wikilink")、[後藤敦](../Page/後藤敦.md "wikilink")、[華村りこ](https://ja.wikipedia.org/wiki/華村りこ "wikilink")、[上田陽司](../Page/上田燿司.md "wikilink")、[飯島肇](../Page/飯島肇.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[倉持良子](https://ja.wikipedia.org/wiki/倉持良子 "wikilink")
 
 ## スタッフ
 

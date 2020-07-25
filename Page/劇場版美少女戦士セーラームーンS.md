@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - 製作：[高岩淡](https://ja.wikipedia.org/wiki/高岩淡 "wikilink")、[宮原照夫](https://ja.wikipedia.org/wiki/宮原照夫 "wikilink")（[講談社](../Page/講談社.md "wikilink")）、[泊懋](https://ja.wikipedia.org/wiki/泊懋 "wikilink")
+  - 製作：[高岩淡](../Page/高岩淡.md "wikilink")、[宮原照夫](https://ja.wikipedia.org/wiki/宮原照夫 "wikilink")（[講談社](../Page/講談社.md "wikilink")）、[泊懋](https://ja.wikipedia.org/wiki/泊懋 "wikilink")
   - 企画：[東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
   - 原作：[武内直子](../Page/武内直子.md "wikilink")
   - 脚本：[富田祐弘](../Page/富田祐弘.md "wikilink")

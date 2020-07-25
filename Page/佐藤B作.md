@@ -36,7 +36,7 @@
       - [春日局](../Page/春日局_\(NHK大河ドラマ\).md "wikilink")（1989年1月1日〜12月17日） - 三条西公国 役
       - [毛利元就](../Page/毛利元就_\(NHK大河ドラマ\).md "wikilink")（1997年1月5日〜12月14日） - 平佐就有 役
       - [新選組\!](../Page/新選組!.md "wikilink")（2004年1月11日〜12月12日） - [永井尚志](../Page/永井尚志.md "wikilink") 役
-      - [八重の桜](https://ja.wikipedia.org/wiki/八重の桜 "wikilink")（2013年1月6日〜 ） - [田中土佐](https://ja.wikipedia.org/wiki/田中玄清 "wikilink") 役
+      - [八重の桜](https://ja.wikipedia.org/wiki/八重の桜 "wikilink")（2013年1月6日〜 ） - [田中土佐](../Page/田中玄清.md "wikilink") 役
   - 金曜時代劇「[夢暦長崎奉行](https://ja.wikipedia.org/wiki/夢暦長崎奉行 "wikilink")」（1996年3月 - 9月） - 石本幸三郎 役
   - 玩具の神様（1999年）
   - [人生はフルコース](../Page/人生はフルコース.md "wikilink")（2006年7月8日、15日、22日） - 谷中健一 役

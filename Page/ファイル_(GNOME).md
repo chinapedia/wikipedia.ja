@@ -28,7 +28,7 @@ GNOME 3.6より、「Nautilus」の名前が「ファイル」に改名された
 
 ## 関連項目
 
-  - [Dolphin](https://ja.wikipedia.org/wiki/Dolphin_\(ファイルマネージャ\) "wikilink")
+  - [Dolphin](../Page/Dolphin_\(ファイルマネージャ\).md "wikilink")
   - [Konqueror](../Page/Konqueror.md "wikilink")
   - [Nemo](https://ja.wikipedia.org/wiki/Nemo_\(ファイルマネージャ\) "wikilink")
   - [Thunar](../Page/Thunar.md "wikilink")

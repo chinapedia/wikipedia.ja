@@ -197,7 +197,7 @@
   - 2013年
       - 11月28日、[NHKホール](../Page/NHKホール.md "wikilink")で行われた「日・ASEAN友好音楽祭〜災害復興への祈り〜」に参加。
       - 11月30日、「第7回アジア国際子ども映画祭」に出演。
-      - 12月14日、[帝国ホテル](../Page/帝国ホテル.md "wikilink")で行われた日・[ASEAN首脳晩さん会で](../Page/東南アジア諸国連合.md "wikilink")、[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相ら220人を前にライブを実施。
+      - 12月14日、[帝国ホテル](../Page/帝国ホテル.md "wikilink")で行われた日・[ASEAN首脳晩さん会で](../Page/東南アジア諸国連合.md "wikilink")、[安倍晋三](../Page/安倍晋三.md "wikilink")首相ら220人を前にライブを実施。
 
 <!-- end list -->
 
@@ -463,7 +463,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Pieces_(w-inds.の曲)" title="wikilink">Pieces</a></strong></p></td>
+<td><p><strong><a href="../Page/Pieces_(w-inds.の曲).md" title="wikilink">Pieces</a></strong></p></td>
 <td><p>2004年3月10日</p></td>
 <td><p>CCCD</p></td>
 <td><p>2位</p></td>
@@ -471,7 +471,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/キレイだ" title="wikilink">キレイだ</a></strong></p></td>
+<td><p><strong><a href="../Page/キレイだ.md" title="wikilink">キレイだ</a></strong></p></td>
 <td><p>2004年6月2日</p></td>
 <td><p>CCCD</p></td>
 <td><p>4位</p></td>
@@ -573,7 +573,7 @@
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アメあと" title="wikilink">アメあと</a></strong></p></td>
+<td><p><strong><a href="../Page/アメあと.md" title="wikilink">アメあと</a></strong></p></td>
 <td><p>2008年4月23日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>7位</p></td>
@@ -911,8 +911,8 @@ c/w「Love or Leave」（全盤共通）<br />
 | **SUPER LOVER 〜I need you tonight〜** | 日本テレビ系『[あんグラ☆NOW\!](../Page/あんたにグラッツェ!.md "wikilink")』2003年5月度エンディングテーマ                                                                                                                                                                                                                                                     | 「[SUPER LOVER〜I need you tonight〜](../Page/SUPER_LOVER〜I_need_you_tonight〜.md "wikilink")」              |
 | **Love is message**                  | [ブルボン](../Page/ブルボン.md "wikilink")『MINTREX』[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")                                                                                                                                                                                                                          | 「[Love is message](../Page/Love_is_message.md "wikilink")」                                              |
 | **Long Road**                        | 日本テレビ系『あんグラ☆NOW\!』2003年11月度エンディングテーマ                                                                                                                                                                                                                                                                                        | 「[Long Road](../Page/Long_Road.md "wikilink")」                                                          |
-| **Pieces**                           | ブルボン『フルーツガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[Pieces](https://ja.wikipedia.org/wiki/Pieces_\(w-inds.の曲\) "wikilink")」                               |
-| **キレイだ**                             | ブルボン『フルーツガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")」                                                 |
+| **Pieces**                           | ブルボン『フルーツガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[Pieces](../Page/Pieces_\(w-inds.の曲\).md "wikilink")」                                                  |
+| **キレイだ**                             | ブルボン『フルーツガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[キレイだ](../Page/キレイだ.md "wikilink")」                                                                    |
 | **四季**                               | ブルボン『ブルボンガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[四季](../Page/四季_\(w-inds.の曲\).md "wikilink")」                                                          |
 | **夢の場所へ**                            | 日本テレビ系『[第83回全国高等学校サッカー選手権大会](../Page/第83回全国高等学校サッカー選手権大会.md "wikilink")』イメージソング                                                                                                                                                                                                                                             | 「[夢の場所へ](../Page/夢の場所へ.md "wikilink")」                                                                  |
 | *' 変わりゆく空*'                          | ブルボン『ブルボンガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[変わりゆく空](../Page/変わりゆく空.md "wikilink")」                                                                |
@@ -926,7 +926,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | **LOVE IS THE GREATEST THING**       | 映画『[シュレック3](../Page/シュレック3.md "wikilink")』日本語吹き替え版イメージソング [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")独占先行配信（TV-SPOT投下）                                                                                                                                                                                    | 「[LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink")」                        |
 | **SHINING STAR**                     | [北海商科大学](../Page/北海商科大学.md "wikilink")[CFソング](https://ja.wikipedia.org/wiki/CFソング "wikilink")                                                                                                                                                                                                                               | 「LOVE IS THE GREATEST THING」                                                                            |
 | **Beautiful Life**                   | [ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[オトコの子育て](../Page/オトコの子育て.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")                                                                                                                                                   | 「[Beautiful Life](../Page/Beautiful_Life_\(w-inds.の曲\).md "wikilink")」                                  |
-| **アメあと**                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』第8期エンディングテーマ                                                                                                                                                                     | 「[アメあと](https://ja.wikipedia.org/wiki/アメあと "wikilink")」                                                 |
+| **アメあと**                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』第8期エンディングテーマ                                                                                                                                                                     | 「[アメあと](../Page/アメあと.md "wikilink")」                                                                    |
 | **Everyday**                         | 日本テレビ系『[THE・サンデー NEXT](https://ja.wikipedia.org/wiki/THE・サンデー_NEXT "wikilink")』2009年11月度エンディングテーマ [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")独占先行配信（TV-SPOT投下）                                                                                                                                            | 「[Everyday/CAN'T GET BACK](https://ja.wikipedia.org/wiki/Everyday/CAN'T_GET_BACK "wikilink")」           |
 | **CAN'T GET BACK**                   | 日本テレビ系『[スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")』2008年11月度エンディングテーマ                                                                                                                                                                                                                                                      | 「[Everyday/CAN'T GET BACK](https://ja.wikipedia.org/wiki/Everyday/CAN'T_GET_BACK "wikilink")」           |
 | **Rain Is Fallin**'                  | 日本テレビ系『江川×堀尾のSUPERうるぐす』2009年4、5月度テーマソング                                                                                                                                                                                                                                                                                     | 「[Rain Is Fallin'/HYBRID DREAM](https://ja.wikipedia.org/wiki/Rain_Is_Fallin'/HYBRID_DREAM "wikilink")」 |
@@ -1887,7 +1887,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [もうすぐレコード大賞2007](https://ja.wikipedia.org/wiki/もうすぐレコード大賞2007 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [COUNT DOWN TV SP 「CDTVSP プレミアライブ2007＞＞2008」](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_SP_「CDTVSP_プレミアライブ2007＞＞2008」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [MMM](https://ja.wikipedia.org/wiki/MMM "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [全力\!Tunes](https://ja.wikipedia.org/wiki/全力!Tunes "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [全力\!Tunes](../Page/全力!Tunes.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [MTV VIDEO MUSIC AWARDS JAPAN 2008](https://ja.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AWARDS_JAPAN_2008 "wikilink")([MTV](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink"))
   - [音流～On Ryu～](https://ja.wikipedia.org/wiki/音流～On_Ryu～ "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [オンタマ:音魂](https://ja.wikipedia.org/wiki/オンタマ:音魂 "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
@@ -1951,7 +1951,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | 4  | 2005年（[第47回](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")） | [十六夜の月](../Page/十六夜の月.md "wikilink")                                           | 金賞（大賞ノミネート作品）           |
 | 5  | 2006年（[第48回](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")） | [ブギウギ66](../Page/ブギウギ66.md "wikilink")                                         | 金賞（大賞ノミネート作品）           |
 | 6  | 2007年（[第49回](../Page/第49回日本レコード大賞.md "wikilink")）                    | [LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink") | 金賞（大賞、最優秀歌唱賞ノミネート作品）    |
-| 7  | 2008年（[第50回](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink")） | [アメあと](https://ja.wikipedia.org/wiki/アメあと "wikilink")                          | 優秀作品賞（大賞ノミネート作品）        |
+| 7  | 2008年（[第50回](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink")） | [アメあと](../Page/アメあと.md "wikilink")                                             | 優秀作品賞（大賞ノミネート作品）        |
 | 8  | 2009年（[第51回](https://ja.wikipedia.org/wiki/第51回日本レコード大賞 "wikilink")） | [Rain Is Fallin'](https://ja.wikipedia.org/wiki/Rain_Is_Fallin' "wikilink")    | 優秀作品賞（大賞ノミネート作品）        |
 | 9  | 2010年（[第52回](https://ja.wikipedia.org/wiki/第52回日本レコード大賞 "wikilink")） | [New World](https://ja.wikipedia.org/wiki/New_World "wikilink")                | 優秀作品賞（大賞ノミネート作品）        |
 
@@ -2133,7 +2133,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - MTV Student Voice Awards 2006 最優秀ダンスアーティスト賞
 
-  -  2006 中国&台湾HITO流行音楽賞 “Bset HITO pop song” （『**[キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")**』）
+  -  2006 中国&台湾HITO流行音楽賞 “Bset HITO pop song” （『**[キレイだ](../Page/キレイだ.md "wikilink")**』）
 
   - MTV Channel マンダリンアウォーズ： Mandarin Awards 2006 “The Most Popular Group of Japan”
 
@@ -2169,7 +2169,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - 第5回 アジアソングフェスティバル “THE BEST ASIAN ARTIST AWARDS”
 
-  - [第50回日本レコード大賞](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink") 優秀作品賞 （『**[アメあと](https://ja.wikipedia.org/wiki/アメあと "wikilink")**』）
+  - [第50回日本レコード大賞](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink") 優秀作品賞 （『**[アメあと](../Page/アメあと.md "wikilink")**』）
 
 <!-- end list -->
 

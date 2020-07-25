@@ -80,7 +80,7 @@
   - [失恋保険〜女の安心保障〜](../Page/失恋保険〜女の安心保障〜.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2006年）
   - [株式投資バラエティ 株って行こう\!](https://ja.wikipedia.org/wiki/株式投資バラエティ_株って行こう! "wikilink")（[casTY](https://ja.wikipedia.org/wiki/casTY "wikilink")、吉田のみ）
   - [ゼベック・オンライン](../Page/ゼベック・オンライン.md "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2005年1月10日）
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、2007年12月28日）キャッチコピーは「脱力系 不思議ワールド」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、2007年12月28日）キャッチコピーは「脱力系 不思議ワールド」
   - [U・LA・LA](https://ja.wikipedia.org/wiki/U・LA・LA "wikilink")@7（TOKYO MX） - 『よしもとうららちゃん』コーナー
   - [めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")（フジテレビ、2010年6月12日） - 『歌がへたな王座決定戦』コーナー
   - [EXILE魂](https://ja.wikipedia.org/wiki/EXILE魂 "wikilink")（TBS、2010年10月24日）

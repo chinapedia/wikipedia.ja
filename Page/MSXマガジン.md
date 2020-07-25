@@ -50,7 +50,7 @@
 [Category:アスキー](https://ja.wikipedia.org/wiki/Category:アスキー "wikilink") [Category:パソコン雑誌の歴史](https://ja.wikipedia.org/wiki/Category:パソコン雑誌の歴史 "wikilink") [Category:MSX](https://ja.wikipedia.org/wiki/Category:MSX "wikilink") [Category:1983年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1983年創刊の雑誌 "wikilink") [Category:1992年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1992年休廃刊の雑誌 "wikilink")
 
 1.  MSXアソシエーション「[西さんVS 孫さん\!? MSXの誕生秘話をちょっと語るぞ\!:MSX30周年](http://weekly.ascii.co.jp/elem/000/000/149/149619/)」 週アスPLUS 2013年6月11日
-2.  [Mマガの歴史](http://ascii.asciimw.jp/pb/ant/msx/htm/history.htm) [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")公式サイト内
+2.  [Mマガの歴史](http://ascii.asciimw.jp/pb/ant/msx/htm/history.htm) [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")公式サイト内
 3.  小川真理生「コンピュータ雑誌市場狙う創刊攻勢 アスキー『MSXマガジン』vs日経マグロウヒル『日経パソコン』」『[創](https://ja.wikipedia.org/wiki/創_\(雑誌\) "wikilink")』1983年11月号、pp.83-84
 4.  西田昇平『ファミコン陣営の野望』電波新聞社、1986年、pp.89、93。田口旬一インタビューより
 5.  [MSXは“新庄”だ\!?――MSX復活\!“MSXマガジンまつり”開催\!\!](http://ascii.jp/elem/000/000/336/336119/) ASCII.JP×デジタル 2003年2月11日

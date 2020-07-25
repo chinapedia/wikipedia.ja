@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - セクシーDDIT（[都々逸](https://ja.wikipedia.org/wiki/都々逸 "wikilink")）
+  - セクシーDDIT（[都々逸](../Page/都々逸.md "wikilink")）
 
 <!-- end list -->
 
@@ -176,25 +176,25 @@
 
 ## ゲスト
 
-| 放送日         | ゲスト                                                                                                                                              |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2005年4月9日   | [いとうせいこう](../Page/いとうせいこう.md "wikilink")                                                                                                         |
-| 2005年4月23日  | [リリー・フランキー](../Page/リリー・フランキー.md "wikilink")                                                                                                     |
-| 2005年4月30日  | [しりあがり寿](../Page/しりあがり寿.md "wikilink")                                                                                                           |
-| 2005年5月7日   | [梅澤学滋](https://ja.wikipedia.org/wiki/梅澤学滋 "wikilink")（[サザンハリケーン](../Page/サザンハリケーン.md "wikilink")）                                                |
-| 2005年6月4日   | [LITTLE](../Page/LITTLE.md "wikilink")([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))                                             |
-| 2005年6月25日  | [ジャガー](../Page/ジャガー_\(ローカルタレント\).md "wikilink")                                                                                                  |
-| 2005年7月2日   | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                                                                                             |
-| 2005年7月30日  | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                                                                                         |
-| 2005年8月13日  | [金剛地武志](../Page/金剛地武志.md "wikilink")、[宮城マリオ](../Page/宮城マリオ.md "wikilink")                                                                        |
-| 2005年9月10日  | [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")、[猫ひろし](../Page/猫ひろし.md "wikilink")、[ジジ・ぶぅ](https://ja.wikipedia.org/wiki/ジジ・ぶぅ "wikilink") |
-| 2005年10月15日 | [遠藤賢司](../Page/遠藤賢司.md "wikilink")                                                                                                               |
-| 2005年10月22日 | [スチャダラパー](../Page/スチャダラパー.md "wikilink")                                                                                                         |
-| 2005年10月29日 | [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")                                                                                          |
-| 2005年11月26日 | 猫ひろし、[ウクレレえいじ](https://ja.wikipedia.org/wiki/ウクレレえいじ "wikilink")                                                                                 |
-| 2006年1月21日  | [ROLLY](../Page/ROLLY.md "wikilink")                                                                                                             |
-| 2006年3月11日  | ウクレレえいじ                                                                                                                                          |
-| 2006年3月18日  | 猫ひろし                                                                                                                                             |
+| 放送日         | ゲスト                                                                                                                           |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2005年4月9日   | [いとうせいこう](../Page/いとうせいこう.md "wikilink")                                                                                      |
+| 2005年4月23日  | [リリー・フランキー](../Page/リリー・フランキー.md "wikilink")                                                                                  |
+| 2005年4月30日  | [しりあがり寿](../Page/しりあがり寿.md "wikilink")                                                                                        |
+| 2005年5月7日   | [梅澤学滋](https://ja.wikipedia.org/wiki/梅澤学滋 "wikilink")（[サザンハリケーン](../Page/サザンハリケーン.md "wikilink")）                             |
+| 2005年6月4日   | [LITTLE](../Page/LITTLE.md "wikilink")([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))                          |
+| 2005年6月25日  | [ジャガー](../Page/ジャガー_\(ローカルタレント\).md "wikilink")                                                                               |
+| 2005年7月2日   | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                                                                          |
+| 2005年7月30日  | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                                                                      |
+| 2005年8月13日  | [金剛地武志](../Page/金剛地武志.md "wikilink")、[宮城マリオ](../Page/宮城マリオ.md "wikilink")                                                     |
+| 2005年9月10日  | [井筒和幸](../Page/井筒和幸.md "wikilink")、[猫ひろし](../Page/猫ひろし.md "wikilink")、[ジジ・ぶぅ](https://ja.wikipedia.org/wiki/ジジ・ぶぅ "wikilink") |
+| 2005年10月15日 | [遠藤賢司](../Page/遠藤賢司.md "wikilink")                                                                                            |
+| 2005年10月22日 | [スチャダラパー](../Page/スチャダラパー.md "wikilink")                                                                                      |
+| 2005年10月29日 | [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")                                                                       |
+| 2005年11月26日 | 猫ひろし、[ウクレレえいじ](https://ja.wikipedia.org/wiki/ウクレレえいじ "wikilink")                                                              |
+| 2006年1月21日  | [ROLLY](../Page/ROLLY.md "wikilink")                                                                                          |
+| 2006年3月11日  | ウクレレえいじ                                                                                                                       |
+| 2006年3月18日  | 猫ひろし                                                                                                                          |
 
 ## 外部リンク
 

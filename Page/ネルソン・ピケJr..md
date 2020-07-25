@@ -501,7 +501,7 @@ SPR</a><br />
 <tr class="odd">
 <td><p><a href="../Page/2008年のF1世界選手権.md" title="wikilink">2008年</a></p></td>
 <td><p><a href="../Page/ルノーF1.md" title="wikilink">ルノー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルノー・R28" title="wikilink">R28</a></p></td>
+<td><p><a href="../Page/ルノー・R28.md" title="wikilink">R28</a></p></td>
 <td><p><a href="../Page/2008年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="../Page/2008年マレーシアグランプリ.md" title="wikilink">MAL</a><br />

@@ -731,7 +731,7 @@
 <td><p>1986-87</p></td>
 <td><p>CC</p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>2-0, 1-1</p></td>
 <td><p>7.0</p></td>
 </tr>

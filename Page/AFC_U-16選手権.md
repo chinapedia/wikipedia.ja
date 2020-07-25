@@ -62,7 +62,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/AFC_U-17選手権1986.md" title="wikilink">2</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />

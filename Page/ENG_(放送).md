@@ -1,7 +1,7 @@
 > この記事は[ENG \(放送\)](https://ja.wikipedia.org/wiki/ENG_\(放送\))から翻訳されています。
 
 
-**ENG** (Electronic News Gathering) は、直訳すると「電子的ニュース取材」となる。電子的とは[フィルムの代わりに](../Page/写真フィルム.md "wikilink")[電子媒体](../Page/電子媒体.md "wikilink")を用いるという意味であり、[ニュース](../Page/ニュース.md "wikilink")に限らず、[テレビ番組](../Page/テレビ番組.md "wikilink")全般の番組素材を収集するシステムとして、[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")と[ビデオテープレコーダ](../Page/ビデオテープレコーダ.md "wikilink") （VTR） の組み合わせ、あるいはVTR一体型のビデオカメラなどにより、番組素材となる[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を収集（[取材](https://ja.wikipedia.org/wiki/取材 "wikilink")）するシステムをいう。特に[ロケ取材に有効で](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、日本では[昭和](../Page/昭和.md "wikilink")40年代から50年代にかけてこのシステムが導入され、テレビ番組[制作の機動性](https://ja.wikipedia.org/wiki/製作#制作 "wikilink")・速報性は格段に高まった。
+**ENG** (Electronic News Gathering) は、直訳すると「電子的ニュース取材」となる。電子的とは[フィルムの代わりに](../Page/写真フィルム.md "wikilink")[電子媒体](../Page/電子媒体.md "wikilink")を用いるという意味であり、[ニュース](../Page/ニュース.md "wikilink")に限らず、[テレビ番組](../Page/テレビ番組.md "wikilink")全般の番組素材を収集するシステムとして、[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")と[ビデオテープレコーダ](../Page/ビデオテープレコーダ.md "wikilink") （VTR） の組み合わせ、あるいはVTR一体型のビデオカメラなどにより、番組素材となる[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を収集（[取材](https://ja.wikipedia.org/wiki/取材 "wikilink")）するシステムをいう。特に[ロケ取材に有効で](../Page/ロケーション撮影.md "wikilink")、日本では[昭和](../Page/昭和.md "wikilink")40年代から50年代にかけてこのシステムが導入され、テレビ番組[制作の機動性](https://ja.wikipedia.org/wiki/製作#制作 "wikilink")・速報性は格段に高まった。
 
 ## 概要
 

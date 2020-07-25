@@ -1,7 +1,7 @@
 > この記事は[スポーツ特Q](https://ja.wikipedia.org/wiki/スポーツ特Q)から翻訳されています。
 
 
-『**スポーツ特Q**』（スポーツとっきゅう）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（一部の系列局を除く）で日曜夕方（18:00 - 18:30）に放送された[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組である。
+『**スポーツ特Q**』（スポーツとっきゅう）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（一部の系列局を除く）で日曜夕方（18:00 - 18:30）に放送された[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組である。
 
 ## 概要
 

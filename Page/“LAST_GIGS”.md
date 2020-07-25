@@ -18,7 +18,7 @@
 
   - 初回特典はモノクロピンナップと正方形のステッカーで、CDに封入できないサイズのためか店頭配布だった。
   - [2001年](../Page/2001年.md "wikilink")にはDVD化（『["LAST GIGS" (Video)](https://ja.wikipedia.org/wiki/"LAST_GIGS"_\(Video\) "wikilink")』参照）された。但しライブが完全収録されたわけではなく、本作の楽曲分のみが映像化されている。DVDでは新たにリミックスを施し、「PROLOGUE」、「[WORKING MAN](../Page/B・BLUE.md "wikilink")」前と「[DREAMIN'](../Page/BOOWY_\(アルバム\).md "wikilink")」後のMCが追加された。DVDには当時のコンサートパンフレット縮小復刻版が付属していた。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に全曲を収録した完全版『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』としてDVD、CDが発売された。曲目は4月5日公演に準拠している\[1\]。また、これに統合される形で本作は廃盤になった\[2\]。そのため、「BOØWY 30th ANNIVERSARY」の際に行われた、BOØWY各アルバムの[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")化の企画も、本作ではなく『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』の方で行われ、再発売されていない。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に全曲を収録した完全版『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』としてDVD、CDが発売された。曲目は4月5日公演に準拠している\[1\]。また、これに統合される形で本作は廃盤になった\[2\]。そのため、「BOØWY 30th ANNIVERSARY」の際に行われた、BOØWY各アルバムの[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")化の企画も、本作ではなく『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』の方で行われ、再発売されていない。
 
 ## リリース履歴
 
@@ -84,7 +84,7 @@ ZT28-5200 (CT)</p></td>
 <td><p>TOCT-25615</p></td>
 <td><p>-</p></td>
 <td><p>24ビット・デジタル・リマスター盤<br />
-『<a href="https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE" title="wikilink">“LAST GIGS” COMPLETE</a>』リリース後に廃盤</p></td>
+『<a href="../Page/“LAST_GIGS”_COMPLETE.md" title="wikilink">“LAST GIGS” COMPLETE</a>』リリース後に廃盤</p></td>
 </tr>
 </tbody>
 </table>

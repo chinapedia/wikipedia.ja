@@ -16,7 +16,7 @@
       - [フォレックス・トレード](https://ja.wikipedia.org/wiki/フォレックス・トレード "wikilink") () - 日本のFX会社
       - [フォーミュラ・トヨタ](../Page/フォーミュラ・トヨタ.md "wikilink") () - トヨタ自動車が主催する自動車レース
       - [フォーバルテレコム](../Page/フォーバルテレコム.md "wikilink") () - 日本の通信会社。IP電話「[FTフォン](https://ja.wikipedia.org/wiki/FTフォン "wikilink")」を運営。
-      - [FT (店舗ブランド)](https://ja.wikipedia.org/wiki/FT_\(店舗ブランド\) "wikilink") - [イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")が運営する商業施設。
+      - [FT (店舗ブランド)](https://ja.wikipedia.org/wiki/FT_\(店舗ブランド\) "wikilink") - [イオンリテール](../Page/イオンリテール.md "wikilink")が運営する商業施設。
       - [FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") - [真島ヒロ](../Page/真島ヒロ.md "wikilink")の漫画
   - マーケティング用語で、12歳～19歳の女性
   - [フィールドテスト](https://ja.wikipedia.org/wiki/フィールドテスト "wikilink")、現地試験 ()

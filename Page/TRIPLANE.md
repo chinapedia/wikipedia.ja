@@ -646,7 +646,7 @@ NFCD-27345:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>ココロハコブ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>『<a href="https://ja.wikipedia.org/wiki/トミカヒーロー_レスキューフォース" title="wikilink">トミカヒーロー レスキューフォース</a>』エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>『<a href="../Page/トミカヒーロー_レスキューフォース.md" title="wikilink">トミカヒーロー レスキューフォース</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>モノローグ〜アコースティックVer.〜</p></td>

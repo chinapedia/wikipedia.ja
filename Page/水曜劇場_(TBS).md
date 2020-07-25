@@ -188,7 +188,7 @@
 
 <!-- end list -->
 
-  - 放送期間：1967年9月13日 - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")1月24日
+  - 放送期間：1967年9月13日 - [1968年](../Page/1968年.md "wikilink")1月24日
   - 主な出演者：[長谷川一夫](../Page/長谷川一夫.md "wikilink")、[淡島千景](../Page/淡島千景.md "wikilink")、[長谷川裕見子](../Page/長谷川裕見子.md "wikilink")
 
 <!-- end list -->

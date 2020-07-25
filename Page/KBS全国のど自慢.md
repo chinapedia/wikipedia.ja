@@ -17,7 +17,7 @@
 
   - （[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）
 
-  - （[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - （[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1986年](../Page/1986年.md "wikilink")）
 
   - （KBSアナウンサー、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）
 

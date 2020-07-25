@@ -459,7 +459,7 @@
 
 :\* [6月13日](../Page/6月13日.md "wikilink")、新宿LOFTにて、ツアー「科学と学習」追加公演ライブイベント『cali≠gari 20th caliversary "2013-2014"全国ツアーファイナル「大人の科学と学習〜カリガリじゃないじゃない(T-T) 〜」』開催。**cali≠gari**、[GOATBED](https://ja.wikipedia.org/wiki/GOATBED "wikilink")、[LAB. THE BASEMENT](../Page/LAB._THE_BASEMENT.md "wikilink")、[MKG出演](../Page/村井研次郎.md "wikilink")。オールナイトイベント。
 
-:\* [6月28日](../Page/6月28日.md "wikilink")、日比谷野外大音楽堂にて、 [アーバンギャルド](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")とのツーマンライブ『カリ≠ガリ対アーバンギャルド 真梅雨の血闘！！野音に死す！！』開催。
+:\* [6月28日](../Page/6月28日.md "wikilink")、日比谷野外大音楽堂にて、 [アーバンギャルド](../Page/アーバンギャルド.md "wikilink")とのツーマンライブ『カリ≠ガリ対アーバンギャルド 真梅雨の血闘！！野音に死す！！』開催。
 
 :\* [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、公式サイト上にて第7期終了と最終公演を発表。
 

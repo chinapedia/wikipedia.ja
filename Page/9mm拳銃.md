@@ -65,7 +65,7 @@
 
 [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")において[拳銃](../Page/拳銃.md "wikilink")は3佐以上の[幹部自衛官](../Page/自衛官.md "wikilink")\[19\]、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の[車長](https://ja.wikipedia.org/wiki/指揮官 "wikilink")（他の戦車乗員は８９式小銃の折曲銃床式を携行する）、[84mm無反動砲](../Page/カールグスタフ_\(無反動砲\).md "wikilink")（A/B）の砲手、[01式軽対戦車誘導弾](../Page/01式軽対戦車誘導弾.md "wikilink")手、[79式対舟艇対戦車誘導弾](../Page/79式対舟艇対戦車誘導弾.md "wikilink")および[87式対戦車誘導弾](../Page/87式対戦車誘導弾.md "wikilink")の操作手たる陸曹、[警務官](../Page/警務官.md "wikilink")などが装備するが、[2000年代](../Page/2000年代.md "wikilink")に入ってからは、市街地戦闘訓練や海外派遣時に一般の隊員も拳銃を装備するようになった。[中央即応連隊](../Page/中央即応連隊.md "wikilink")では大半の隊員が装備しているが、員数分配備されていないのが現状である。
 
-配備に合わせ[射撃競技会や射撃検定に](https://ja.wikipedia.org/wiki/戦技競技会 "wikilink")『9mm拳銃の部』が新設された。
+配備に合わせ[射撃競技会や射撃検定に](../Page/戦技競技会.md "wikilink")『9mm拳銃の部』が新設された。
 
 9mm拳銃以外にも、[H\&K USP](../Page/H&K_USP.md "wikilink")（[特殊作戦群](../Page/特殊作戦群.md "wikilink")）\[20\]、特殊拳銃（[ザウエル&ゾーン](../Page/ザウエル&ゾーン.md "wikilink")社製、機種・使用部隊不明）\[21\]、大口径拳銃（機種・使用部隊不明）\[22\]などが採用されている。
 

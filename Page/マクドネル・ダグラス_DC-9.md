@@ -33,7 +33,7 @@
 
 ### 開発
 
-[McDonnell_Douglas_DC-9-15,_Ozark_Air_Lines_JP6265879.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-15,_Ozark_Air_Lines_JP6265879.jpg "fig:McDonnell_Douglas_DC-9-15,_Ozark_Air_Lines_JP6265879.jpg") [McDonnell_Douglas_DC-9-51,_Trans_World_Airlines_-_TWA_AN0215777.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-51,_Trans_World_Airlines_-_TWA_AN0215777.jpg "fig:McDonnell_Douglas_DC-9-51,_Trans_World_Airlines_-_TWA_AN0215777.jpg")）\]\] [N954AT_(15246599649).jpg](https://ja.wikipedia.org/wiki/File:N954AT_\(15246599649\).jpg "fig:N954AT_(15246599649).jpg")）\]\] [ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")は、当時アメリカ国内線などで多数運航されていた[コンベア240](../Page/コンベア240.md "wikilink")や[ダグラスDC-4](https://ja.wikipedia.org/wiki/ダグラスDC-4 "wikilink")などの[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")旅客機の代替として、[1963年](../Page/1963年.md "wikilink")から短距離用の[ジェット](../Page/ジェット機.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")の開発を始め、[プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink")の[JT8Dエンジン双発でT尾翼を持つ](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_JT8D "wikilink")70から90席の小型旅客機を計画した。
+[McDonnell_Douglas_DC-9-15,_Ozark_Air_Lines_JP6265879.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-15,_Ozark_Air_Lines_JP6265879.jpg "fig:McDonnell_Douglas_DC-9-15,_Ozark_Air_Lines_JP6265879.jpg") [McDonnell_Douglas_DC-9-51,_Trans_World_Airlines_-_TWA_AN0215777.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-51,_Trans_World_Airlines_-_TWA_AN0215777.jpg "fig:McDonnell_Douglas_DC-9-51,_Trans_World_Airlines_-_TWA_AN0215777.jpg")）\]\] [N954AT_(15246599649).jpg](https://ja.wikipedia.org/wiki/File:N954AT_\(15246599649\).jpg "fig:N954AT_(15246599649).jpg")）\]\] [ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")は、当時アメリカ国内線などで多数運航されていた[コンベア240](../Page/コンベア240.md "wikilink")や[ダグラスDC-4](https://ja.wikipedia.org/wiki/ダグラスDC-4 "wikilink")などの[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")旅客機の代替として、[1963年](../Page/1963年.md "wikilink")から短距離用の[ジェット](../Page/ジェット機.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")の開発を始め、[プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink")の[JT8Dエンジン双発でT尾翼を持つ](../Page/プラット・アンド・ホイットニー_JT8D.md "wikilink")70から90席の小型旅客機を計画した。
 
 当時すでに就航が開始されていた[ボーイング727](../Page/ボーイング727.md "wikilink")や、開発が進んでいた[737への対抗上](../Page/ボーイング737.md "wikilink")、[DC-8で得られた既知技術を極力流用するのみならず](../Page/ダグラス_DC-8.md "wikilink")、[デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink") (DHC) 以下、生産分担予定のパートナーに開発費用まで含む設計を委託し、驚異的とも言える短期間で分散共同開発が進められた結果、試作機は[1965年](../Page/1965年.md "wikilink")2月に初飛行し、その年の12月に[デルタ航空](../Page/デルタ航空.md "wikilink")で就航した。
 
@@ -73,7 +73,7 @@
 
 ### DC-9-40型機
 
-さらに胴体を延長したこの型は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")3月に[スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink")によって運航が始められた。胴体を-30型より2m延長、乗客数125人に増加させた。-40型は何種類かのJT8D型エンジン（推力 64.5 - 71kN）が使用できる。71機が製造された。旧[東亜国内航空が自社導入したのがこのモデルである](../Page/日本エアシステム.md "wikilink")（リースで-30・-50型も運航していた。いずれもアメリカ籍のNナンバー）。
+さらに胴体を延長したこの型は、[1968年](../Page/1968年.md "wikilink")3月に[スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink")によって運航が始められた。胴体を-30型より2m延長、乗客数125人に増加させた。-40型は何種類かのJT8D型エンジン（推力 64.5 - 71kN）が使用できる。71機が製造された。旧[東亜国内航空が自社導入したのがこのモデルである](../Page/日本エアシステム.md "wikilink")（リースで-30・-50型も運航していた。いずれもアメリカ籍のNナンバー）。
 
 ### DC-9-50型機
 

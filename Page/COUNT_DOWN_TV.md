@@ -121,7 +121,7 @@
 
       - PVに出ている有名人特集
       - びしょ濡れPV特集
-      - 様々なアーティストによるメドレー（「[ハナミズキ](../Page/ハナミズキ.md "wikilink")」[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")、「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、「[糸](https://ja.wikipedia.org/wiki/命の別名/糸 "wikilink")」[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、「[卒業写真](../Page/卒業写真_\(荒井由実の曲\).md "wikilink")」）など
+      - 様々なアーティストによるメドレー（「[ハナミズキ](../Page/ハナミズキ.md "wikilink")」[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")、「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、「[糸](https://ja.wikipedia.org/wiki/命の別名/糸 "wikilink")」[中島みゆき](../Page/中島みゆき.md "wikilink")、「[卒業写真](../Page/卒業写真_\(荒井由実の曲\).md "wikilink")」）など
 
   - バンド列伝
 
@@ -155,7 +155,7 @@
   - [WON'T BE LONG](../Page/WON'T_BE_LONG.md "wikilink")／[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")&[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")（有線データのみで、1週間早く94位にランクイン）
   - [玄海船歌](../Page/玄海船歌.md "wikilink")／氷川きよし（有線データのみで、1週間早く92位にランクイン）
   - [キセキ](https://ja.wikipedia.org/wiki/キセキ_\(GReeeeNの曲\) "wikilink")／[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink") （2週早く76位にランクイン）
-  - [Prisoner Of Love](https://ja.wikipedia.org/wiki/Prisoner_Of_Love "wikilink")／宇多田ヒカル （アルバム曲で、リカットシングル発売前に1週早く84位にランクイン）
+  - [Prisoner Of Love](../Page/Prisoner_Of_Love.md "wikilink")／宇多田ヒカル （アルバム曲で、リカットシングル発売前に1週早く84位にランクイン）
   - Laugh away／[YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink") （アルバム曲で、94位にランクイン）
   - [もう一度… feat.BENI](https://ja.wikipedia.org/wiki/もう一度…_feat.BENI "wikilink")／[童子-T](../Page/童子-T.md "wikilink")（4週間早く90位に1週ランクイン）
   - [木曽川しぐれ](https://ja.wikipedia.org/wiki/木曽川しぐれ "wikilink")／[川中美幸](../Page/川中美幸.md "wikilink")（1週間早く92位にランクイン）
@@ -372,7 +372,7 @@ CGではなく本人が番組やゲストライブの進行などを行ってい
 
 2018年度以降に動画配信サイト[Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")で実施。
 
-  - [島田秀平](https://ja.wikipedia.org/wiki/島田秀平 "wikilink")（2018年度）
+  - [島田秀平](../Page/島田秀平.md "wikilink")（2018年度）
   - [朝日奈央](../Page/朝日奈央.md "wikilink")（2018年度）
   - [宇賀神メグ](https://ja.wikipedia.org/wiki/宇賀神メグ "wikilink")☆（2019年度）
   - [田村真子](https://ja.wikipedia.org/wiki/田村真子 "wikilink")☆（2019年度）
@@ -616,7 +616,7 @@ CGではなく本人が番組やゲストライブの進行などを行ってい
 <td><p>上半期<br />
 年間</p></td>
 <td><p><a href="../Page/Real_Face.md" title="wikilink">Real Face</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
@@ -887,7 +887,7 @@ CGではなく本人が番組やゲストライブの進行などを行ってい
 <td><p>13周年</p></td>
 <td><p>2006年4月2日</p></td>
 <td><p><a href="../Page/Real_Face.md" title="wikilink">Real Face</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>14周年</p></td>

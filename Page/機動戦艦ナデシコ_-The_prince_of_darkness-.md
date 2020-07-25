@@ -80,7 +80,7 @@
   - プロデューサー：下地志直
   - キャラクター原案：[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")
   - キャラクターデザイン・総作画監督：[後藤圭二](../Page/後藤圭二.md "wikilink")
-  - メカニックデザイン：[中原れい](../Page/中原れい.md "wikilink")、[鈴木雅久](../Page/鈴木雅久.md "wikilink")、[武半慎吾](https://ja.wikipedia.org/wiki/武半慎吾 "wikilink")、[森木靖泰](https://ja.wikipedia.org/wiki/森木靖泰 "wikilink")
+  - メカニックデザイン：[中原れい](../Page/中原れい.md "wikilink")、[鈴木雅久](../Page/鈴木雅久.md "wikilink")、[武半慎吾](https://ja.wikipedia.org/wiki/武半慎吾 "wikilink")、[森木靖泰](../Page/森木靖泰.md "wikilink")
   - メカニック原案（TVシリーズ）：[明貴美加](../Page/明貴美加.md "wikilink")
   - メカニックデザイン協力：前田明寿、坂崎忠
   - カラーコーディネーター：青木弘美、上谷秀夫

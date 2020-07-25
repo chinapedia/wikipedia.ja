@@ -7,7 +7,7 @@
 
 ## 概要と沿革
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")のエンサイクロペディア・ブリタニカ（EB）社から[東京放送](../Page/東京放送ホールディングス.md "wikilink")（TBS）に、[ブリタニカ百科事典](../Page/ブリタニカ百科事典.md "wikilink")の日本語版出版提携の打診があった。これを受け、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")9月設立。当初の資本金は2億5000万円。出資比率はEB社55%、TBS40%、[凸版印刷](../Page/凸版印刷.md "wikilink")5%。[社長](../Page/社長.md "wikilink")にはTBS取締役の[分部芳雄](https://ja.wikipedia.org/wiki/分部芳雄 "wikilink")、代表権のない取締役会長には旗振り役だったTBS社長の[今道潤三](https://ja.wikipedia.org/wiki/今道潤三 "wikilink")が就任した。
+[1968年](../Page/1968年.md "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")のエンサイクロペディア・ブリタニカ（EB）社から[東京放送](../Page/東京放送ホールディングス.md "wikilink")（TBS）に、[ブリタニカ百科事典](../Page/ブリタニカ百科事典.md "wikilink")の日本語版出版提携の打診があった。これを受け、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")9月設立。当初の資本金は2億5000万円。出資比率はEB社55%、TBS40%、[凸版印刷](../Page/凸版印刷.md "wikilink")5%。[社長](../Page/社長.md "wikilink")にはTBS取締役の[分部芳雄](https://ja.wikipedia.org/wiki/分部芳雄 "wikilink")、代表権のない取締役会長には旗振り役だったTBS社長の[今道潤三](https://ja.wikipedia.org/wiki/今道潤三 "wikilink")が就任した。
 
 ブリタニカ百科事典の日本語版『ブリタニカ国際大百科事典』は、翻訳、書き換えなどに手間取り、第1回配本の発刊は[1972年](../Page/1972年.md "wikilink")5月、全巻完結したのは[1975年](../Page/1975年.md "wikilink")12月だったが、売れ行きは好調で、[1981年](../Page/1981年.md "wikilink")には販売数が50万セットを超えた。販売方法は全国を網羅する[訪問販売](../Page/訪問販売.md "wikilink")を主とした。
 
@@ -15,7 +15,7 @@
 
 [1981年](../Page/1981年.md "wikilink")、TBSは持ち株を[サントリー](../Page/サントリー.md "wikilink")株式会社に売却。この結果比率はサントリー51%、EB社25%、TBS13%、凸版5%などとなり、TBSブリタニカの経営はサントリーの手に移った。ただし、社名はTBSブリタニカを引き継ぎ、百科事典の販売も継続した。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月に「[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")日本版」、同年6月に「アステイオン」、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に「[フィガロジャポン](https://ja.wikipedia.org/wiki/フィガロジャポン "wikilink")」を創刊。[1992年](../Page/1992年.md "wikilink")には、前年死去した[作家](../Page/作家.md "wikilink")・[開高健](../Page/開高健.md "wikilink")の名を冠した「[開高健賞](https://ja.wikipedia.org/wiki/開高健賞 "wikilink")」を創設した。この賞は[2001年](../Page/2001年.md "wikilink")まで続けられる。
+[1986年](../Page/1986年.md "wikilink")1月に「[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")日本版」、同年6月に「アステイオン」、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に「[フィガロジャポン](https://ja.wikipedia.org/wiki/フィガロジャポン "wikilink")」を創刊。[1992年](../Page/1992年.md "wikilink")には、前年死去した[作家](../Page/作家.md "wikilink")・[開高健](../Page/開高健.md "wikilink")の名を冠した「[開高健賞](https://ja.wikipedia.org/wiki/開高健賞 "wikilink")」を創設した。この賞は[2001年](../Page/2001年.md "wikilink")まで続けられる。
 
 [2000年](../Page/2000年.md "wikilink")には、EB社が新たな日本法人「ブリタニカ・ジャパン」を設立し\[1\]、『ブリタニカ国際大百科事典』の事業を傘下に置いた（2002年に紙ベースの百科事典出版・販売事業からは撤退）。
 

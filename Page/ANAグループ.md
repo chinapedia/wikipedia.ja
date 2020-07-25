@@ -1,7 +1,7 @@
 > この記事は[ANAグループ](https://ja.wikipedia.org/wiki/ANAグループ)から翻訳されています。
 
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:Shiodome_City_Center_2012.JPG "wikilink")（[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）\]\] **ANAグループ**（エーエヌエーグループ）は、[純粋持株会社である](../Page/持株会社.md "wikilink")[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")株式会社、およびその子会社で日本の大手[航空会社](../Page/航空会社.md "wikilink")である[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）を中心とする企業グループである。2018年3月末現在で[連結子会社](../Page/連結子会社.md "wikilink")126社、関連会社45社から構成される\[1\]。グループ行動指針は「あんしん、あったか、あかるく元気！」\[2\]。
+[200px](https://ja.wikipedia.org/wiki/ファイル:Shiodome_City_Center_2012.JPG "wikilink")（[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）\]\] **ANAグループ**（エーエヌエーグループ）は、[純粋持株会社である](../Page/持株会社.md "wikilink")[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")株式会社、およびその子会社で日本の大手[航空会社](../Page/航空会社.md "wikilink")である[全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）を中心とする企業グループである。2018年3月末現在で[連結子会社](../Page/連結子会社.md "wikilink")126社、関連会社45社から構成される\[1\]。グループ行動指針は「あんしん、あったか、あかるく元気！」\[2\]。
 
 ## 主なグループ会社一覧
 
@@ -13,7 +13,7 @@
 
 ### 航空運送
 
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）
   - [ANAウイングス](https://ja.wikipedia.org/wiki/ANAウイングス "wikilink")
   - [エアージャパン](../Page/エアージャパン.md "wikilink")
   - [バニラ・エア](https://ja.wikipedia.org/wiki/バニラ・エア "wikilink")（[LCC](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")）

@@ -27,7 +27,7 @@
 
   - [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")、[パチスロ](../Page/パチスロ.md "wikilink")・[カラオケ](../Page/カラオケ.md "wikilink")・[雀荘](https://ja.wikipedia.org/wiki/雀荘 "wikilink")・[ボウリング](../Page/ボウリング.md "wikilink")・[ゲームセンター](../Page/ゲームセンター.md "wikilink")
   - 託児ルーム
-  - [インターネットカフェ](https://ja.wikipedia.org/wiki/インターネットカフェ "wikilink")
+  - [インターネットカフェ](../Page/インターネットカフェ.md "wikilink")
   - 飲食店（[うどん](../Page/うどん.md "wikilink")・[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")等）
 
 ## 松山温泉

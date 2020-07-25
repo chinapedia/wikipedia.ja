@@ -81,7 +81,7 @@
       - 水曜日：日本人の創った色（[吉岡幸雄](https://ja.wikipedia.org/wiki/吉岡幸雄 "wikilink")）
   - 2002年2月 - 3月期
       - 月曜日：生命の未来図（[柳澤桂子](../Page/柳澤桂子.md "wikilink")）
-      - 火曜日：超・美術鑑賞術（[森村泰昌](https://ja.wikipedia.org/wiki/森村泰昌 "wikilink")）
+      - 火曜日：超・美術鑑賞術（[森村泰昌](../Page/森村泰昌.md "wikilink")）
       - 水曜日：反骨のジャーナリスト（[鎌田慧](../Page/鎌田慧.md "wikilink")）
   - 2002年4月 - 5月期
       - 月曜日：豊かさはどこへ行くのか（[堺屋太一](../Page/堺屋太一.md "wikilink")）

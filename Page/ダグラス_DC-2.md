@@ -49,7 +49,7 @@
 
 [thumbに](https://ja.wikipedia.org/wiki/ファイル:1937_Semi-stamp_in_Japan.JPG "wikilink")[逓信省](../Page/逓信省.md "wikilink")が発行した飛行場整備寄付金付愛国切手。[日本アルプス](../Page/日本アルプス.md "wikilink")上空を飛ぶDC-2が描かれている\]\] DC-2は、TWAに続いて他の航空会社からの受注にも成功する。[KLMオランダ航空](../Page/KLMオランダ航空.md "wikilink")に納入された最初のDC-2は、[ロンドン](../Page/ロンドン.md "wikilink")—[メルボルン](../Page/メルボルン.md "wikilink")間の[マックロバートソン・エアレース](../Page/マックロバートソン・エアレース.md "wikilink")に参加し、輸送機型の機体でありながら、レース用高速機である[DH-88 コメットに次ぐ](https://ja.wikipedia.org/wiki/デハビランド_DH-88 "wikilink")2位を達成、その飛行性能をアピールした。その後KLMオランダ航空は[植民地](../Page/植民地.md "wikilink")である[ジャワ](https://ja.wikipedia.org/wiki/ジャワ "wikilink")との長距離定期便に就航させた。
 
-DC-2は[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")でも使用された。制式名はC-32（空中指揮機）、C-33（輸送機）、C-34（VIP輸送機）、C-38、C-39、C-41、C-42である。
+DC-2は[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")でも使用された。制式名はC-32（空中指揮機）、C-33（輸送機）、C-34（VIP輸送機）、C-38、C-39、C-41、C-42である。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[日本航空輸送](../Page/日本航空輸送.md "wikilink")が8機を輸入して運用したほか、[中島飛行機](../Page/中島飛行機.md "wikilink")が[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行ない6機を製造した。また、中島では[陸軍向けの大型輸送機](../Page/大日本帝国陸軍.md "wikilink")「キ16」としてDC-2をベースとした機体の開発も計画されていたが、陸軍の方針が固まっていなかったため見送られている\[1\]。DC-2のライセンス生産で得られた技術は、後に[中島AT-2](../Page/中島AT-2.md "wikilink")の開発や、DC-3を元にした[零式輸送機](../Page/零式輸送機.md "wikilink")の生産に生かされている。
 

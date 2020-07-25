@@ -177,7 +177,7 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/将軍様はお年頃" title="wikilink">将軍様はお年頃</a></strong></p></td>
 <td><p>庄名泉石、蟹屋しく、あおなまさお</p></td>
 <td><p>空下元、宮蔵</p></td>

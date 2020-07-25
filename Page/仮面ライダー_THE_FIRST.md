@@ -160,7 +160,7 @@
   - コブラ：[吉田瑞穂](../Page/吉田瑞穂_\(スーツアクター\).md "wikilink")
   - スネーク：砂押裕美
   - [秋山智彦](../Page/秋山智彦.md "wikilink")
-  - [大西雅樹](https://ja.wikipedia.org/wiki/大西雅樹 "wikilink")
+  - [大西雅樹](../Page/大西雅樹.md "wikilink")
   - 帯金伸行
   - [佐々木俊宜](../Page/佐々木俊宜.md "wikilink")
   - 茂野圭佑

@@ -514,7 +514,7 @@
   - 小道具：加賀谷寿雄（2018年-）
   - 特殊効果：石本貢司
   - 美術協力：[つむら工芸](../Page/つむら工芸.md "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")、ギミック、東京衣裳、A.I.C、ゴーベック・ストレーダーズ（ゴーベック→2020年）、グリーン・アート
-  - 制作協力：[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、[東通企画](../Page/東通企画.md "wikilink")、[レジスタエックスワン](https://ja.wikipedia.org/wiki/レジスタエックスワン "wikilink")（レジスタ→2015年-）、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、[広島テレビ](../Page/広島テレビ放送.md "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")（放送局→2016年-）
+  - 制作協力：[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")、[東通企画](../Page/東通企画.md "wikilink")、[レジスタエックスワン](../Page/レジスタエックスワン.md "wikilink")（レジスタ→2015年-）、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、[広島テレビ](../Page/広島テレビ放送.md "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")（放送局→2016年-）
   - ディレクター：林龍之介（ytv、2019年-、2016-2018年はAD）、玄順俊弘（ytv、2015,2019年-、2014年はENG D、2016年はイベントFD、2018年はイベントスタッフ、以前は制作）、飯田隆之（ytv、2014,2016,2019年-、2015年はイベントFD、2018年はイベントスタッフ）、滝村展宏（レジスタX1）
   - 演出・CD：廣田晃二（ytv、2019年-、2015年はAD、2016-2018年はD）
   - プロデューサー：花房政寿（ytv、2016年-、2015年はAP）

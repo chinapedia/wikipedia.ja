@@ -40,7 +40,7 @@
   - [片岡源五右衛門](../Page/片岡高房.md "wikilink")：**[中村又五郎](https://ja.wikipedia.org/wiki/中村又五郎_\(2代目\) "wikilink")**
   - [不破数右衛門](../Page/不破正種.md "wikilink")：**[黒川弥太郎](../Page/黒川弥太郎.md "wikilink")**
   - [原惣右衛門](../Page/原元辰.md "wikilink")：**[中村福助](../Page/中村福助_\(高砂屋5代目\).md "wikilink")**（[中村芝翫とは別人](../Page/中村芝翫_\(7代目\).md "wikilink")）
-  - [前原伊助](../Page/前原宗房.md "wikilink")：**[林成年](https://ja.wikipedia.org/wiki/林成年 "wikilink")**
+  - [前原伊助](../Page/前原宗房.md "wikilink")：**[林成年](../Page/林成年.md "wikilink")**
   - [奥田孫太夫](../Page/奥田重盛.md "wikilink")：**[下元勉](../Page/下元勉.md "wikilink")**
   - [礒貝十郎左衛門](../Page/礒貝正久.md "wikilink")：**[井上孝雄](../Page/井上孝雄.md "wikilink")**
   - [堀部安兵衛](../Page/堀部武庸.md "wikilink")：**[加藤武](../Page/加藤武.md "wikilink")**

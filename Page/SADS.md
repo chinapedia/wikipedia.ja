@@ -319,7 +319,7 @@ The reproduction 7th anniversary『FALLING』THE LIVE</p></td>
 
 直接的な原因は、2002年に行われたロングツアーで背負った負債である。借金を含めた[マネジメント](https://ja.wikipedia.org/wiki/マネジメント "wikilink")の問題は全て清春自身が処理を行っていた。「責任を果たさないのに、あれこれ言う」(清春) との一言が、清春と他のメンバーとの意識の差を如実に物語っている。なお、この借金はツアー公演に関するものと思われていたが、その後の清春のインタビューによると、「ツアー中の移動は新幹線なら全部グリーン車、飛行機は[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")」といった贅沢を尽くした事も含まれていたことが判明している。
 
-SADSの活動停止後、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のボーカル[森重樹一](../Page/森重樹一.md "wikilink")は｢[The DUST'N'BONEZ](../Page/The_DUST'N'BONEZ.md "wikilink")｣結成のため清春に対し、「(坂下を) 借りてもいい?」と連絡をし、清春もそれを快諾する。しかし、実際にドラムに脱退した満園が居ることを後から知り、坂下はThe DUST'N'BONEZに加入するとともにSADSを脱退。そして、The DUST'N'BONEZとしてのインタビューで坂下の脱退が坂下の口から正式に告げられた。発表が遅れた理由としてSADS側の方で都合のいい時期に発表すると思っていたと語っている。
+SADSの活動停止後、[ZIGGY](../Page/ZIGGY.md "wikilink")のボーカル[森重樹一](../Page/森重樹一.md "wikilink")は｢[The DUST'N'BONEZ](../Page/The_DUST'N'BONEZ.md "wikilink")｣結成のため清春に対し、「(坂下を) 借りてもいい?」と連絡をし、清春もそれを快諾する。しかし、実際にドラムに脱退した満園が居ることを後から知り、坂下はThe DUST'N'BONEZに加入するとともにSADSを脱退。そして、The DUST'N'BONEZとしてのインタビューで坂下の脱退が坂下の口から正式に告げられた。発表が遅れた理由としてSADS側の方で都合のいい時期に発表すると思っていたと語っている。
 
 このように解散の引き金は幾つかあったにせよ、清春自身はバンド結成後のファーストツアー後から一貫してSADSに対する虚無感を抱いていたことを『清春35X』をはじめとしたインタビュー内で語っている。
 
@@ -1274,7 +1274,7 @@ SPECIAL STANDING GIG</p></td>
 9月30日 広島厚生年金会館<br />
 10月2日 松山市民会館<br />
 10月4日 <a href="../Page/鳥取県立県民文化会館.md" title="wikilink">鳥取県立県民文化会館</a><br />
-10月5日 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+10月5日 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 10月7日 スターピアくだまつ<br />
 10月9日 群馬音楽センター<br />
 10月10日 新潟県民会館<br />
@@ -1620,7 +1620,7 @@ FOR HEAVY PETTIING＆FOR ENTERTAINMENT</p></td>
 <tr class="even">
 <td><p>3マン</p></td>
 <td><p>TRIBAL NIGHT！<br />
-～<a href="https://ja.wikipedia.org/wiki/ZIGGY" title="wikilink">ZIGGY</a>×SADS～</p></td>
+～<a href="../Page/ZIGGY.md" title="wikilink">ZIGGY</a>×SADS～</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>全1公演</p>

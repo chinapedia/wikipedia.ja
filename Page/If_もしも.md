@@ -33,7 +33,7 @@
         出演：[保阪尚輝](https://ja.wikipedia.org/wiki/保阪尚輝 "wikilink")、[白島靖代](../Page/白島靖代.md "wikilink")、[鶴田真由](../Page/鶴田真由.md "wikilink")、[豊原功輔](https://ja.wikipedia.org/wiki/豊原功輔 "wikilink")
 2.  彼女がすわるのは左のイスか右のイスか（1993年5月6日）：制作・にっかつ撮影所
       -
-        脚本：[武上純希](../Page/武上純希.md "wikilink")、監督：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")
+        脚本：[武上純希](../Page/武上純希.md "wikilink")、監督：[田中経一](../Page/田中経一.md "wikilink")
         出演：[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")、[峰岸徹](../Page/峰岸徹.md "wikilink")、[西村和彦](../Page/西村和彦.md "wikilink")、[生田智子](../Page/生田智子.md "wikilink")、[大方斐紗子](../Page/大方斐紗子.md "wikilink")、[仲谷昇](../Page/仲谷昇.md "wikilink")、[牧原俊幸](../Page/牧原俊幸.md "wikilink")
 3.  あるフェミニスト課長の秘書選び 美人かブスか（1993年5月13日）：制作・共同テレビ
       -

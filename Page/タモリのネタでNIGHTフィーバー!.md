@@ -74,7 +74,7 @@
       - 小野智子
   - [太田プロ](../Page/太田プロダクション.md "wikilink")
       - 中蔦玲子
-  - [オスカー](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")
+  - [オスカー](../Page/オスカープロモーション.md "wikilink")
       - 猪原恵利子
       - 田中千鶴
       - とうほりか

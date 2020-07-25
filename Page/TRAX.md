@@ -23,7 +23,7 @@
 
 ### 過去のメンバー
 
-  - Rose（ローズ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）[ドラムス](../Page/ドラムセット.md "wikilink")、[ギター](../Page/ギター.md "wikilink") 本名：[ノ・ミヌ](https://ja.wikipedia.org/wiki/ノ・ミヌ "wikilink")。※2006年に脱退。
+  - Rose（ローズ、[1986年](../Page/1986年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）[ドラムス](../Page/ドラムセット.md "wikilink")、[ギター](../Page/ギター.md "wikilink") 本名：[ノ・ミヌ](https://ja.wikipedia.org/wiki/ノ・ミヌ "wikilink")。※2006年に脱退。
   - Attack（アタック　[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月15日](../Page/6月15日.md "wikilink") - ）ベース 本名：[カン・ジョンウ](https://ja.wikipedia.org/wiki/カン・ジョンウ "wikilink")。※2008年に脱退。
 
 ## ディスコグラフィ

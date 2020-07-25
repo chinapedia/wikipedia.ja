@@ -145,7 +145,7 @@ Windows NTが[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")以外の[アー
 
 ### Win64
 
-Win64は、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")プログラム用の実装である。、[IA-64](../Page/IA-64.md "wikilink")及び[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")用の2種類の実装が存在する。Windows 10では[ARM64](https://ja.wikipedia.org/wiki/ARM64 "wikilink")の将来的なサポートが計画されている\[17\] \[18\]。
+Win64は、[64ビット](../Page/64ビット.md "wikilink")プログラム用の実装である。、[IA-64](../Page/IA-64.md "wikilink")及び[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")用の2種類の実装が存在する。Windows 10では[ARM64](https://ja.wikipedia.org/wiki/ARM64 "wikilink")の将来的なサポートが計画されている\[17\] \[18\]。
 
 ### WinRT
 

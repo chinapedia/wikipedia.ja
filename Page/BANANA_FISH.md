@@ -75,7 +75,7 @@
   - アッシュ・リンクス（Ash Lynx）
     声 - [古澤徹](../Page/古澤徹.md "wikilink") / [内田雄馬](https://ja.wikipedia.org/wiki/内田雄馬 "wikilink")、[塙真奈美](https://ja.wikipedia.org/wiki/塙真奈美 "wikilink")（幼少期）
     演 - 柄谷吾史（2005年、2009年版） 演- 永井樹（幼少期） 演 - [磯村洋祐](https://ja.wikipedia.org/wiki/磯村洋祐 "wikilink")（2012年版）
-    本作の主人公。17歳（初登場時）〜19歳（最終回）。「アッシュ（灰）・リンクス（山猫）」は通称であり、本名はAslan Jade Callenreese（アスラン・ジェイド・カーレンリース、物語中盤でディノ・ゴルツィネとの間に[養子縁組](https://ja.wikipedia.org/wiki/養子縁組 "wikilink")が成立し、以降の姓はゴルツィネとなる）生年月日は[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")生まれ。
+    本作の主人公。17歳（初登場時）〜19歳（最終回）。「アッシュ（灰）・リンクス（山猫）」は通称であり、本名はAslan Jade Callenreese（アスラン・ジェイド・カーレンリース、物語中盤でディノ・ゴルツィネとの間に[養子縁組](https://ja.wikipedia.org/wiki/養子縁組 "wikilink")が成立し、以降の姓はゴルツィネとなる）生年月日は[1968年](../Page/1968年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")生まれ。
 
 身長: 17歳時；5フィート9インチ（約175.26cm）、体重: 135ポンド（約61.235kg）、
 

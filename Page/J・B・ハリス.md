@@ -17,7 +17,7 @@
 
 ## 著書
 
-  - ぼくは日本兵だった （訳：[後藤新樹](https://ja.wikipedia.org/wiki/後藤新樹 "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[旺文社](../Page/旺文社.md "wikilink")、ISBN 4-01-071051-9）
+  - ぼくは日本兵だった （訳：[後藤新樹](https://ja.wikipedia.org/wiki/後藤新樹 "wikilink")、[1986年](../Page/1986年.md "wikilink")、[旺文社](../Page/旺文社.md "wikilink")、ISBN 4-01-071051-9）
   - 日米会話必携 （共著：[J・A・サージェント](https://ja.wikipedia.org/wiki/J・A・サージェント "wikilink")、須藤兼吉、1961年、旺文社）
   - 英語演説の仕方 （共著：J・A・サージェント、[小川芳男](https://ja.wikipedia.org/wiki/小川芳男 "wikilink")、1956年、旺文社）
   - 日米会話必携 （共著：J・A・サージェント、須藤兼吉、1955年、旺文社）

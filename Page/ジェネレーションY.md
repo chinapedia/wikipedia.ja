@@ -60,7 +60,7 @@
 
 [ロシア](../Page/ロシア.md "wikilink")のジェネレーションYは、一桁台〜10代でソ連崩壊に遭遇し、グローバル資本主義による不況（[ロシア財政危機](../Page/ロシア財政危機.md "wikilink")）に巻き込まれたことから、[ウラジーミル・プーチン](../Page/ウラジーミル・プーチン.md "wikilink")の[反米](../Page/反米.md "wikilink")・大国路線を支持する者が多いという。
 
-また、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のジェネレーションYは「**[88万ウォン世代](https://ja.wikipedia.org/wiki/88万ウォン世代 "wikilink")**」とも呼ばれており、10代で[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")に遭遇したために[プレカリアート](../Page/プレカリアート.md "wikilink")が多く、[金大中](../Page/金大中.md "wikilink")政権が敷いた[新自由主義](../Page/新自由主義.md "wikilink")に反発するが故に、[李明博](../Page/李明博.md "wikilink")（[ハンナラ党](https://ja.wikipedia.org/wiki/ハンナラ党 "wikilink")）を大統領に当選させる原動力にもなった。
+また、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のジェネレーションYは「**[88万ウォン世代](../Page/88万ウォン世代.md "wikilink")**」とも呼ばれており、10代で[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")に遭遇したために[プレカリアート](../Page/プレカリアート.md "wikilink")が多く、[金大中](../Page/金大中.md "wikilink")政権が敷いた[新自由主義](../Page/新自由主義.md "wikilink")に反発するが故に、[李明博](../Page/李明博.md "wikilink")（[ハンナラ党](https://ja.wikipedia.org/wiki/ハンナラ党 "wikilink")）を大統領に当選させる原動力にもなった。
 
 ## 参考文献
 
@@ -80,8 +80,8 @@
   - [ロスト・ジェネレーション](../Page/失われた世代.md "wikilink")（曽祖父母世代）
   - [真性団塊ジュニア](../Page/ポスト団塊ジュニア.md "wikilink")・[松坂世代](https://ja.wikipedia.org/wiki/松坂世代 "wikilink")（ジェネレーションY前期の日本版）
   - [ゆとり世代](https://ja.wikipedia.org/wiki/ゆとり世代 "wikilink")・[さとり世代](https://ja.wikipedia.org/wiki/さとり世代 "wikilink")（定義により異なるが、ジェネレーションY後期やジェネレーションZの日本版）
-  - [88万ウォン世代](https://ja.wikipedia.org/wiki/88万ウォン世代 "wikilink")（ジェネレーションYの韓国版）
-  - [ジェネレーションY〜地球未来図〜](https://ja.wikipedia.org/wiki/ジェネレーションY〜地球未来図〜 "wikilink") - 世界各国のジェネレーションYが出演していた[NHK BS1の](../Page/NHK_BS1.md "wikilink")[討論番組](../Page/討論番組.md "wikilink")。
+  - [88万ウォン世代](../Page/88万ウォン世代.md "wikilink")（ジェネレーションYの韓国版）
+  - [ジェネレーションY〜地球未来図〜](../Page/ジェネレーションY〜地球未来図〜.md "wikilink") - 世界各国のジェネレーションYが出演していた[NHK BS1の](../Page/NHK_BS1.md "wikilink")[討論番組](../Page/討論番組.md "wikilink")。
   - [サイオン](../Page/サイオン.md "wikilink") - ジェネレーションYを主要顧客と想定した、北米における[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")のブランド。
 
 ## 外部リンク

@@ -2,7 +2,7 @@
 
 
 {{ Infobox 航空機 | 名称=SH-5 | 画像=ファイル:DATANSHAN_AVIATION_MUSEUM_BEIJING_CHINA_OCT_2012_(8162326573).jpg|300px | キャプション=水轟五型（SH-5）
-中国空軍航空博物館の展示機 | 用途=多用途飛行艇 | 分類=[飛行艇](../Page/飛行艇.md "wikilink") | 設計者= | 製造者=[哈爾浜飛機製造公司](../Page/哈爾浜飛機製造公司.md "wikilink") | 運用者=（[中国人民解放軍海軍](../Page/中国人民解放軍海軍.md "wikilink")） | 初飛行年月日=[1976年](../Page/1976年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") | 生産数=7機 | 生産開始年月日=[1984年](../Page/1984年.md "wikilink") | 運用開始年月日=[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | 退役年月日= | 運用状況=4機現役（2010年現在） | ユニットコスト= }} **SH-5**（、）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[哈爾浜飛機製造公司](../Page/哈爾浜飛機製造公司.md "wikilink")が[対潜哨戒機](../Page/対潜哨戒機.md "wikilink")として開発した[飛行艇](../Page/飛行艇.md "wikilink")である。
+中国空軍航空博物館の展示機 | 用途=多用途飛行艇 | 分類=[飛行艇](../Page/飛行艇.md "wikilink") | 設計者= | 製造者=[哈爾浜飛機製造公司](../Page/哈爾浜飛機製造公司.md "wikilink") | 運用者=（[中国人民解放軍海軍](../Page/中国人民解放軍海軍.md "wikilink")） | 初飛行年月日=[1976年](../Page/1976年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") | 生産数=7機 | 生産開始年月日=[1984年](../Page/1984年.md "wikilink") | 運用開始年月日=[1986年](../Page/1986年.md "wikilink") | 退役年月日= | 運用状況=4機現役（2010年現在） | ユニットコスト= }} **SH-5**（、）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[哈爾浜飛機製造公司](../Page/哈爾浜飛機製造公司.md "wikilink")が[対潜哨戒機](../Page/対潜哨戒機.md "wikilink")として開発した[飛行艇](../Page/飛行艇.md "wikilink")である。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 
 ## 開発・運用
 
-[1960年代](../Page/1960年代.md "wikilink")末から[1970年代](../Page/1970年代.md "wikilink")前半にかけて開発が開始され、[1973年](../Page/1973年.md "wikilink")の末に原型機が完成し、[1976年](../Page/1976年.md "wikilink")4月3日に初飛行した\[3\]。[1984年](../Page/1984年.md "wikilink")から生産が開始され、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には実戦部隊への配備が開始された。
+[1960年代](../Page/1960年代.md "wikilink")末から[1970年代](../Page/1970年代.md "wikilink")前半にかけて開発が開始され、[1973年](../Page/1973年.md "wikilink")の末に原型機が完成し、[1976年](../Page/1976年.md "wikilink")4月3日に初飛行した\[3\]。[1984年](../Page/1984年.md "wikilink")から生産が開始され、[1986年](../Page/1986年.md "wikilink")には実戦部隊への配備が開始された。
 
 生産は少数で打ち切られ、試作機も含め7機程度の生産に留まったと見られる。現有数は5機とする資料もある。少なくとも4機が[北海艦隊](../Page/北海艦隊.md "wikilink")に配備されている\[4\]他、1機が[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")郊外にある[中国空軍航空博物館](../Page/中国空軍航空博物館.md "wikilink")にて展示されている。
 

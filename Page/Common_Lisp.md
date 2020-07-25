@@ -1,7 +1,7 @@
 > この記事は[Common Lisp](https://ja.wikipedia.org/wiki/Common_Lisp)から翻訳されています。
 
 
-（コモン・リスプ）は、コンピュータ・[プログラミング言語](../Page/プログラミング言語.md "wikilink") [Lisp](https://ja.wikipedia.org/wiki/Lisp "wikilink")の標準（の、ひとつ）であり、[Lisp方言のひとつである](../Page/方言_\(プログラミング言語\).md "wikilink")。Common Lispの略称は**CL**(ごくまれにclispとも。なおCLISPという実装が実在するので混同回避のためあまり用いられない)。規格は[ANSIによる](../Page/米国国家規格協会.md "wikilink") ANSI INCITS X3.226-1994 (R2004) 。仕様を指すこともあれば、実装を指すこともある。いくつかの、[フリーソフトウェアの定義](https://ja.wikipedia.org/wiki/フリーソフトウェアの定義 "wikilink")に合致したライセンスによりライセンスされている実装や、[オープンソースの定義](https://ja.wikipedia.org/wiki/オープンソースの定義 "wikilink")に合致したライセンスによりライセンスされている実装や、プロプライエタリなライセンスによりライセンスされている実装がある。
+（コモン・リスプ）は、コンピュータ・[プログラミング言語](../Page/プログラミング言語.md "wikilink") [Lisp](https://ja.wikipedia.org/wiki/Lisp "wikilink")の標準（の、ひとつ）であり、[Lisp方言のひとつである](../Page/方言_\(プログラミング言語\).md "wikilink")。Common Lispの略称は**CL**(ごくまれにclispとも。なおCLISPという実装が実在するので混同回避のためあまり用いられない)。規格は[ANSIによる](../Page/米国国家規格協会.md "wikilink") ANSI INCITS X3.226-1994 (R2004) 。仕様を指すこともあれば、実装を指すこともある。いくつかの、[フリーソフトウェアの定義](../Page/フリーソフトウェアの定義.md "wikilink")に合致したライセンスによりライセンスされている実装や、[オープンソースの定義](https://ja.wikipedia.org/wiki/オープンソースの定義 "wikilink")に合致したライセンスによりライセンスされている実装や、プロプライエタリなライセンスによりライセンスされている実装がある。
 
 Lispの基本的な特徴の他、いくつかのプログラミングパラダイムのLispへの取り込みについて標準を提供しているという、[マルチパラダイムプログラミング言語](https://ja.wikipedia.org/wiki/マルチパラダイムプログラミング言語 "wikilink")という面がある。
 

@@ -19,7 +19,7 @@ NOCTYの名称は、溝口の 「のくち」+cityによる。溝口の駅前再
     6F：生活雑貨([無印良品](https://ja.wikipedia.org/wiki/無印良品 "wikilink"))
     5F：手芸・旅行・保険・ビューティー([新宿オカダヤ](../Page/オカダヤ.md "wikilink"), [近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")など)
     4F：レディス&メンズファッション・雑貨・コスメ・ビューティー([ジーユー](https://ja.wikipedia.org/wiki/ジーユー "wikilink")など)
-    3F：レディス&メンズファッション・雑貨・メガネ([Zoff](https://ja.wikipedia.org/wiki/Zoff "wikilink"), ASBeeなど)
+    3F：レディス&メンズファッション・雑貨・メガネ([Zoff](../Page/Zoff.md "wikilink"), ASBeeなど)
     2F：レディスファッション・ファッション雑貨([ローリーズファーム](https://ja.wikipedia.org/wiki/ローリーズファーム "wikilink")など)
   - 10F みぞのくち献血ルーム(全血：9：40-13：00/14：00-17：30, 成分：9:40-12:00/14:00-16:30)
   - 10F 溝ノ口年金相談センター(平日：8：30-17：15, 第2土：9：30-16：00　※土日祝休業)

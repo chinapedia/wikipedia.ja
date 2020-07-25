@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - [アルヴィーダス・マツィヤウスカス](https://ja.wikipedia.org/wiki/アルヴィーダス・マツィヤウスカス "wikilink") 2006-2008
+  - [アルヴィーダス・マツィヤウスカス](../Page/アルヴィーダス・マツィヤウスカス.md "wikilink") 2006-2008
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
 
 <!-- end list -->
 
-  - [ソフォクリース・スコーツァニーティス](https://ja.wikipedia.org/wiki/ソフォクリース・スコーツァニーティス "wikilink")
+  - [ソフォクリース・スコーツァニーティス](../Page/ソフォクリース・スコーツァニーティス.md "wikilink")
 
   - [パトリック・フェメルリンク](https://ja.wikipedia.org/wiki/パトリック・フェメルリンク "wikilink") 2000-2002
 

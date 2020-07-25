@@ -86,7 +86,7 @@
   - 『愛のゆくえ』
       - 作詞：[伊井田朗](https://ja.wikipedia.org/wiki/伊井田朗 "wikilink") 作曲：[水森英夫](../Page/水森英夫.md "wikilink") 編曲：[高田弘](../Page/高田弘.md "wikilink") 歌：[幸田薫](https://ja.wikipedia.org/wiki/幸田薫 "wikilink")
   - 『想い出はたそがれ色』
-      - 作詞・作曲：[たきのえいじ](../Page/たきのえいじ.md "wikilink") 編曲：[神保正明](https://ja.wikipedia.org/wiki/神保雅彰 "wikilink") 歌：幸田薫
+      - 作詞・作曲：[たきのえいじ](../Page/たきのえいじ.md "wikilink") 編曲：[神保正明](../Page/神保雅彰.md "wikilink") 歌：幸田薫
   - 『通り雨』
       - 作詞・作曲：[竹田賢](https://ja.wikipedia.org/wiki/竹田賢 "wikilink") 編曲：竜崎孝路 歌：[豊島ひとみ](https://ja.wikipedia.org/wiki/豊島ひとみ "wikilink")
 
@@ -1214,7 +1214,7 @@
 <tr class="odd">
 <td><p>第107話</p></td>
 <td><p><strong>暴走トラック炎上!</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮田雪" title="wikilink">宮田雪</a></p></td>
+<td><p><a href="../Page/宮田雪.md" title="wikilink">宮田雪</a></p></td>
 <td><p>渡辺拓也</p></td>
 <td><p>12月6日</p></td>
 <td><p><a href="../Page/内藤剛志.md" title="wikilink">内藤剛志</a>、<a href="https://ja.wikipedia.org/wiki/吉岡睦子" title="wikilink">吉岡睦子</a>、中田博久、高品正広、壇喧太、深見博、龍駿介、松尾文人、<a href="https://ja.wikipedia.org/wiki/石神一" title="wikilink">石神一</a>、川部修詩、加々良一和輝、中村玉江、緒方光平、<a href="https://ja.wikipedia.org/wiki/山田俊志" title="wikilink">山田俊志</a></p></td>
@@ -1394,7 +1394,7 @@
 <td><p><strong>-木暮課長- 不死鳥の如く・今</strong></p></td>
 <td><p>大野武雄</p></td>
 <td><p>4月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中原早苗" title="wikilink">中原早苗</a>、<a href="../Page/前田昌明.md" title="wikilink">前田昌明</a>、<a href="https://ja.wikipedia.org/wiki/牧口昌代" title="wikilink">牧口昌代</a>、<a href="https://ja.wikipedia.org/wiki/浜世凜子" title="wikilink">浜世凜子</a>、<a href="https://ja.wikipedia.org/wiki/出光元" title="wikilink">出光元</a>、川崎あかね、森大河、佐竹一男、清水宏、鈴木和夫、草薙良一、上野忠彦、北村克美、<a href="https://ja.wikipedia.org/wiki/斉藤由美" title="wikilink">斉藤由美</a>、森下明</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中原早苗" title="wikilink">中原早苗</a>、<a href="../Page/前田昌明.md" title="wikilink">前田昌明</a>、<a href="https://ja.wikipedia.org/wiki/牧口昌代" title="wikilink">牧口昌代</a>、<a href="https://ja.wikipedia.org/wiki/浜世凜子" title="wikilink">浜世凜子</a>、<a href="../Page/出光元.md" title="wikilink">出光元</a>、川崎あかね、森大河、佐竹一男、清水宏、鈴木和夫、草薙良一、上野忠彦、北村克美、<a href="https://ja.wikipedia.org/wiki/斉藤由美" title="wikilink">斉藤由美</a>、森下明</p></td>
 <td><p>15.7%</p></td>
 <td><p>BOX3</p></td>
 <td></td>

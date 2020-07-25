@@ -1,7 +1,7 @@
 > この記事は[RADICAL LEAGUE](https://ja.wikipedia.org/wiki/RADICAL_LEAGUE)から翻訳されています。
 
 
-**RADICAL LEAGUE**（**ラジカル・リーグ**）とは、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[FM-FUJIで平日夜に放送していた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[代々木](../Page/代々木.md "wikilink")にある「[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")」から公開生放送されていた。
+**RADICAL LEAGUE**（**ラジカル・リーグ**）とは、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[FM-FUJIで平日夜に放送していた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[代々木](../Page/代々木.md "wikilink")にある「[STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")」から公開生放送されていた。
 
 ## 概要
 
@@ -200,7 +200,7 @@
 ## 関連項目
 
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")
-  - [STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")
+  - [STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")
   - [NEVERMIND\!\!](https://ja.wikipedia.org/wiki/NEVERMIND!! "wikilink")（後継番組）
   - [JUNGLE PARADISE](../Page/JUNGLE_PARADISE.md "wikilink")（[BOOMER](../Page/BOOMER.md "wikilink")、[劇団ひとり](../Page/劇団ひとり.md "wikilink")などが出演）
   - [SATURDAY GLASS SHOW](../Page/SATURDAY_GLASS_SHOW.md "wikilink")（[ダーリンハニー](../Page/ダーリンハニー.md "wikilink")が出演）

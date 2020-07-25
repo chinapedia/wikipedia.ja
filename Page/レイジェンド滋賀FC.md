@@ -228,7 +228,7 @@
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>8</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山田清人_(サッカー選手)" title="wikilink">山田清人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/つくばFC" title="wikilink">ジョイフル本田つくばFC</a></p></td>
+<td><p><a href="../Page/つくばFC.md" title="wikilink">ジョイフル本田つくばFC</a></p></td>
 <td><p>2019年</p></td>
 <td></td>
 </tr>

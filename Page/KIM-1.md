@@ -36,7 +36,7 @@ KIMを出して間もなく[モステクノロジー](../Page/モステクノロ
 
 KIM-1の説明書には "1 K BYTE RAM" とあるが、6102×8による1024バイトの他に6530×2による128バイトが加わるので、正確には1152バイトである。[Byte magazine](https://ja.wikipedia.org/wiki/:en:Byte_magazine "wikilink") 1976年4月号で紹介され、掲載された広告には "1 K BYTE RAM" および "2048 ROM BYTES" と書かれていた\[4\]。
 
-6530の多くのI/Oピンは基板の端にあるコネクタ部分に接続されていて、[TTY 33-ASR](../Page/ASR-33.md "wikilink")[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")や紙テープ装置を接続する[シリアルポートとして使うことができた](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")。一部のコネクタピンは電源供給用、また一部は[カセットテープレコーダを接続することができる](../Page/コンパクトカセット.md "wikilink")。
+6530の多くのI/Oピンは基板の端にあるコネクタ部分に接続されていて、[TTY 33-ASR](../Page/ASR-33.md "wikilink")[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")や紙テープ装置を接続する[シリアルポートとして使うことができた](../Page/シリアル通信.md "wikilink")。一部のコネクタピンは電源供給用、また一部は[カセットテープレコーダを接続することができる](../Page/コンパクトカセット.md "wikilink")。
 
 初期の[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")である [Altair 8800](../Page/Altair_8800.md "wikilink") などは、ずらっと並んだスイッチでデータを入力した。使いやすくするためには、まず「[ブートストラップローダ](https://ja.wikipedia.org/wiki/ブートストラップローダ "wikilink")」という小さなプログラムをスイッチを使ってマシンに入力しなければならなかった。一度プログラムを入力し終えると、そのローダがもっと大きなプログラムを[紙テープ](../Page/紙テープ.md "wikilink")読み取り装置などから読み込んだ。これにはどんなに小さなプログラムでも読み込むのに5分以上かかり、スイッチを操作していてちょっとでも間違えるとブートストラップローダが誤動作することになるのである。そうなったら、最初からやり直すことになる。
 
@@ -57,7 +57,7 @@ KIM-1はもう少し複雑なブートストラップ・ローダに相当する
   - 8×6102 [SRAM](../Page/Static_Random_Access_Memory.md "wikilink") 1024×1 （合計1152バイト）
   - 6×[7セグメント](../Page/7セグメントディスプレイ.md "wikilink")[LED](../Page/発光ダイオード.md "wikilink")
   - 24キーの電卓型[キーパッド](https://ja.wikipedia.org/wiki/キーパッド "wikilink")
-  - 2×[シリアルポート](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")
+  - 2×[シリアルポート](../Page/シリアル通信.md "wikilink")
   - Terminal Interface Monitor (TIM) - [ブート](../Page/ブート.md "wikilink")、キーパッド、7セグメントLED、カセットレコーダを制御
 
 ## テープのフォーマット

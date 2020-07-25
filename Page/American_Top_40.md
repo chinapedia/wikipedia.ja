@@ -94,7 +94,7 @@
 
 ### ラジオ関東時代
 
-[1972年](../Page/1972年.md "wikilink")10月14日から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月27日まで[ラジオ関東（現ラジオ日本）で](../Page/アール・エフ・ラジオ日本.md "wikilink")、『全米トップ40』というタイトルで放送（[ラジオ関西](../Page/ラジオ関西.md "wikilink")でも遅れネット）。[DJは音楽評論家の](../Page/ディスクジョッキー.md "wikilink")[湯川れい子](../Page/湯川れい子.md "wikilink")と同局アナウンサーの[坂井隆夫](https://ja.wikipedia.org/wiki/坂井隆夫 "wikilink")。他にも現在DJとなった[矢口清治](../Page/矢口清治.md "wikilink")や、音楽評論家となった[今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink")のデビューのきっかけはこの番組であった。
+[1972年](../Page/1972年.md "wikilink")10月14日から[1986年](../Page/1986年.md "wikilink")9月27日まで[ラジオ関東（現ラジオ日本）で](../Page/アール・エフ・ラジオ日本.md "wikilink")、『全米トップ40』というタイトルで放送（[ラジオ関西](../Page/ラジオ関西.md "wikilink")でも遅れネット）。[DJは音楽評論家の](../Page/ディスクジョッキー.md "wikilink")[湯川れい子](../Page/湯川れい子.md "wikilink")と同局アナウンサーの[坂井隆夫](https://ja.wikipedia.org/wiki/坂井隆夫 "wikilink")。他にも現在DJとなった[矢口清治](../Page/矢口清治.md "wikilink")や、音楽評論家となった[今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink")のデビューのきっかけはこの番組であった。
 
 当時はアメリカからの放送の解説のほか、「Joke Box」（[空耳アワー](../Page/空耳アワー.md "wikilink")の先駆けとも言える企画）など日本独自のコーナーも放送され、人気を博した。ケーシーの名文句、"Join me next week our weekly countdown. 'til then, keep your feet on the ground and keep reaching for the stars." を、作詞家兼翻訳家でもあった湯川れい子は「来週まで地面にちゃんとあんよをつけて、星に手をさしのべて待っていてくださいね」と訳して番組の締めに使用していた。
 
@@ -102,7 +102,7 @@
 
 ### FM東京時代
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")からは[FM東京（現：TOKYO FM）で放送開始](../Page/エフエム東京.md "wikilink")。当初は日曜の19:00〜20:55に放送された。ローカルセールスの形態は取らず、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など全国共通スポンサーが付いてのスタートだったが、各局の編成上の都合から[JFN系列のフルネットではなく](../Page/全国FM放送協議会.md "wikilink")、ネット局は11局にとどまった。また、オリジナルの4時間を2時間に編集しての放送だった。
+[1986年](../Page/1986年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")からは[FM東京（現：TOKYO FM）で放送開始](../Page/エフエム東京.md "wikilink")。当初は日曜の19:00〜20:55に放送された。ローカルセールスの形態は取らず、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など全国共通スポンサーが付いてのスタートだったが、各局の編成上の都合から[JFN系列のフルネットではなく](../Page/全国FM放送協議会.md "wikilink")、ネット局は11局にとどまった。また、オリジナルの4時間を2時間に編集しての放送だった。
 
 この時間帯での放送は6年あまり続いたが、スポンサーの降板に伴い[1993年](../Page/1993年.md "wikilink")4月より時間帯を金曜の深夜1:00に移転。放送時間こそオリジナルと同じ\[2\]4時間となったものの、ネット局は大幅に減り、[広島FMなどネット局の一部は午前](../Page/広島エフエム放送.md "wikilink")2時ないし3時から「飛び乗る」形で放送した\[3\]。
 

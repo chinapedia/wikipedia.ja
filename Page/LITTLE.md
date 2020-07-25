@@ -15,7 +15,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[BMG JAPAN所属となる](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。ちなみに[MCUや](../Page/MCU_\(ラッパー\).md "wikilink")、[KREVA](../Page/KREVA.md "wikilink")と[CUEZERO](../Page/CUEZERO.md "wikilink")のユニットである[BY PHAR THE DOPESTも所属している](../Page/BY_PHAR_THE_DOPEST.md "wikilink")。4月25日に新たにオフィシャルサイトをオープンし、[7月18日](../Page/7月18日.md "wikilink")に約2年振りとなるニューシングル「[ワンマンショウ](../Page/ワンマンショウ.md "wikilink")」をリリースし、夏には「おれがオーガナイズ2007夏－3 Party」というイベントを主催し、[B BOY PARK](../Page/B_BOY_PARK.md "wikilink")10周年のライブイベントを行なった。9月19日にはシングル「夢のせい」をリリースした。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")、3rdアルバム『[“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink")』をリリース。同日自らの誕生日とデビュー10周年記念を兼ねたライブを行った。ゲストとしてアルバムで共演した[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")（[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")）、SMALLEST（[トリカブト](../Page/トリカブト_\(ユニット\).md "wikilink")）、[SHOGO](../Page/SHOGO.md "wikilink")（[175R](../Page/175R.md "wikilink")）、[CUEZERO](../Page/CUEZERO.md "wikilink")、[童子-T](../Page/童子-T.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")らの他、サプライズで[KREVA](../Page/KREVA.md "wikilink")と[MCUが登場し](../Page/MCU_\(ラッパー\).md "wikilink")、ライブDJを務めた[DJ SHUHOを含めKICK](../Page/DJ_SHUHO.md "wikilink") THE CAN CREWのメンバーが集結したことも話題となった。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")、3rdアルバム『[“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink")』をリリース。同日自らの誕生日とデビュー10周年記念を兼ねたライブを行った。ゲストとしてアルバムで共演した[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")（[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")）、SMALLEST（[トリカブト](../Page/トリカブト_\(ユニット\).md "wikilink")）、[SHOGO](../Page/SHOGO.md "wikilink")（[175R](../Page/175R.md "wikilink")）、[CUEZERO](../Page/CUEZERO.md "wikilink")、[童子-T](../Page/童子-T.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")らの他、サプライズで[KREVA](../Page/KREVA.md "wikilink")と[MCUが登場し](../Page/MCU_\(ラッパー\).md "wikilink")、ライブDJを務めた[DJ SHUHOを含めKICK](../Page/DJ_SHUHO.md "wikilink") THE CAN CREWのメンバーが集結したことも話題となった。
 
 2011年、MCUと[UL](https://ja.wikipedia.org/wiki/UL "wikilink")を結成。
 
@@ -127,7 +127,7 @@
 
 :: ミニ塾。feat. 塾長、マキシ・シングル「スモールワールド」に収録（[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")）
 
-:: ちなみに塾長は[シーモネーター](https://ja.wikipedia.org/wiki/シーモネーター "wikilink")（当時）、他にも[トリカブトのSMALLEST](../Page/トリカブト_\(ユニット\).md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICROが参加](../Page/MICRO_\(ラッパー\).md "wikilink")
+:: ちなみに塾長は[シーモネーター](https://ja.wikipedia.org/wiki/シーモネーター "wikilink")（当時）、他にも[トリカブトのSMALLEST](../Page/トリカブト_\(ユニット\).md "wikilink")、[HOME MADE 家族の](../Page/HOME_MADE_家族.md "wikilink")[MICROが参加](../Page/MICRO_\(ラッパー\).md "wikilink")
 
 :\* センチメンタルラブ feat. LITTLE ＜KICK THE CAN CREW＞
 

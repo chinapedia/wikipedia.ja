@@ -964,7 +964,7 @@ XLCN-71010:通常盤</p></td>
 <li>new world / <a href="../Page/175R.md" title="wikilink">175R</a></li>
 <li>Endless Crow's Cry / <a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></li>
 <li><strong>カマたまご / B-DASH</strong></li>
-<li>Good Luck Homies feat.山猿 / <a href="https://ja.wikipedia.org/wiki/LGYankees" title="wikilink">LGYankees</a></li>
+<li>Good Luck Homies feat.山猿 / <a href="../Page/LGYankees.md" title="wikilink">LGYankees</a></li>
 <li>俺 / <a href="../Page/スキップカウズ.md" title="wikilink">スキップカウズ</a></li>
 <li>RED / <a href="../Page/HIGH_and_MIGHTY_COLOR.md" title="wikilink">HIGH and MIGHTY COLOR</a></li>
 <li>サヨナラを告げる歌 / <a href="https://ja.wikipedia.org/wiki/ジルバ_(バンド)" title="wikilink">ジルバ</a></li>

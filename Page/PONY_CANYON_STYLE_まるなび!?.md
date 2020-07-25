@@ -473,7 +473,7 @@
   - [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")
   - [声優](../Page/声優.md "wikilink")
   - [川澄綾子のBest Communication](../Page/川澄綾子のBest_Communication.md "wikilink")
-  - [かのこんラジオ 〜耕太とちずるのゆやよん成長日記〜](https://ja.wikipedia.org/wiki/かのこんラジオ_〜耕太とちずるのゆやよん成長日記〜 "wikilink")
+  - [かのこんラジオ 〜耕太とちずるのゆやよん成長日記〜](../Page/かのこんラジオ_〜耕太とちずるのゆやよん成長日記〜.md "wikilink")
   - [ラジオ・クイーンズブレイド](https://ja.wikipedia.org/wiki/ラジオ・クイーンズブレイド "wikilink")
 
 ## 外部リンク

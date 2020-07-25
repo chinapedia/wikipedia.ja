@@ -23,7 +23,7 @@
 
 そうした中、[インド](../Page/インド.md "wikilink")が興味を持ち[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に試作車が2両製作され、それぞれイギリスとインドでの試験に供された。[インド軍](../Page/インド軍.md "wikilink")は試験の結果に満足し、[1964年](../Page/1964年.md "wikilink")に****(Vijayanta、勝利)の制式名で[ライセンス生産](../Page/ライセンス生産.md "wikilink")を含めた採用を決定した。ヴィジャンダは翌[1965年](../Page/1965年.md "wikilink")から[マドラス](https://ja.wikipedia.org/wiki/マドラス "wikilink")のアバディ工廠で生産が始まり、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")までに2,200両が生産・配備された。
 
-この他、[クウェート](../Page/クウェート.md "wikilink")軍が[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に採用し、[1970年](../Page/1970年.md "wikilink")から[1972年](../Page/1972年.md "wikilink")に70両が引き渡されている。クウェート陸軍のビッカースMBTは[湾岸戦争](../Page/湾岸戦争.md "wikilink")で[イラク](../Page/イラク.md "wikilink")軍を迎え撃ったが、自動装填装置や[2A46 125mm滑腔砲を有する](https://ja.wikipedia.org/wiki/2A46_125mm滑腔砲 "wikilink")[T-72](../Page/T-72.md "wikilink")などのイラク軍戦車には分が悪かった。
+この他、[クウェート](../Page/クウェート.md "wikilink")軍が[1968年](../Page/1968年.md "wikilink")に採用し、[1970年](../Page/1970年.md "wikilink")から[1972年](../Page/1972年.md "wikilink")に70両が引き渡されている。クウェート陸軍のビッカースMBTは[湾岸戦争](../Page/湾岸戦争.md "wikilink")で[イラク](../Page/イラク.md "wikilink")軍を迎え撃ったが、自動装填装置や[2A46 125mm滑腔砲を有する](https://ja.wikipedia.org/wiki/2A46_125mm滑腔砲 "wikilink")[T-72](../Page/T-72.md "wikilink")などのイラク軍戦車には分が悪かった。
 
 ## 改良型の登場
 

@@ -1,7 +1,7 @@
 > この記事は[ANAインスピレーション](https://ja.wikipedia.org/wiki/ANAインスピレーション)から翻訳されています。
 
 
-**ANAインスピレーション**（ANA Inspiration）は、全米女子[ゴルフ](../Page/ゴルフ.md "wikilink")のメジャー選手権のひとつである。選手権のスポンサーは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が務め、[IMGとの共催で行われる](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")。
+**ANAインスピレーション**（ANA Inspiration）は、全米女子[ゴルフ](../Page/ゴルフ.md "wikilink")のメジャー選手権のひとつである。選手権のスポンサーは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[全日本空輸](../Page/全日本空輸.md "wikilink")が務め、[IMGとの共催で行われる](../Page/インターナショナル・マネジメント・グループ.md "wikilink")。
 
 ## 概要
 
@@ -420,7 +420,7 @@
 <td><p>500,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>Apr 3–6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パット・ブラッドリー" title="wikilink">パット・ブラッドリー</a></p></td>
 <td></td>

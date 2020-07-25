@@ -100,7 +100,7 @@
   - [CANAAN](https://ja.wikipedia.org/wiki/CANAAN "wikilink")
   - [神々の悪戯](https://ja.wikipedia.org/wiki/神々の悪戯 "wikilink")
   - [キャシャーン Sins](../Page/キャシャーン_Sins.md "wikilink")
-  - [キューティクル探偵因幡](https://ja.wikipedia.org/wiki/キューティクル探偵因幡 "wikilink")
+  - [キューティクル探偵因幡](../Page/キューティクル探偵因幡.md "wikilink")
   - [きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink")
   - [グラスリップ](https://ja.wikipedia.org/wiki/グラスリップ "wikilink")
   - [健全ロボ ダイミダラー](https://ja.wikipedia.org/wiki/健全ロボ_ダイミダラー "wikilink")
@@ -212,7 +212,7 @@
   - [バイオハザード](../Page/バイオハザード_\(映画\).md "wikilink")
   - [BULLY ブリー](https://ja.wikipedia.org/wiki/BULLY_ブリー "wikilink")
   - [ぼのぼの クモモの木のこと](https://ja.wikipedia.org/wiki/ぼのぼの_クモモの木のこと "wikilink")
-  - [マーサの幸せレシピ](https://ja.wikipedia.org/wiki/マーサの幸せレシピ "wikilink")
+  - [マーサの幸せレシピ](../Page/マーサの幸せレシピ.md "wikilink")
   - [マグダレンの祈り](../Page/マグダレンの祈り.md "wikilink")
   - [メメント](../Page/メメント_\(映画\).md "wikilink")
   - [メルシィ\!人生](https://ja.wikipedia.org/wiki/メルシィ!人生 "wikilink")
@@ -353,8 +353,8 @@
       - 最終章 愛シキモノタチへ
   - [恋と嘘](https://ja.wikipedia.org/wiki/恋と嘘 "wikilink")
   - コードネーム：ジャッカル
-  - [ゴールデンスランバー](https://ja.wikipedia.org/wiki/ゴールデンスランバー "wikilink")
-  - [極道めし](https://ja.wikipedia.org/wiki/極道めし "wikilink")
+  - [ゴールデンスランバー](../Page/ゴールデンスランバー.md "wikilink")
+  - [極道めし](../Page/極道めし.md "wikilink")
   - [コズモポリス](https://ja.wikipedia.org/wiki/コズモポリス "wikilink")
   - [コロンビアーナ](https://ja.wikipedia.org/wiki/コロンビアーナ "wikilink")
   - [婚前特急](https://ja.wikipedia.org/wiki/婚前特急 "wikilink")
@@ -397,7 +397,7 @@
   - [デザート・フラワー](https://ja.wikipedia.org/wiki/デザート・フラワー "wikilink")
   - [トイレット](https://ja.wikipedia.org/wiki/トイレット_\(映画\) "wikilink")
   - [東京公園](https://ja.wikipedia.org/wiki/東京公園 "wikilink")
-  - [Dr.パルナサスの鏡](https://ja.wikipedia.org/wiki/Dr.パルナサスの鏡 "wikilink")
+  - [Dr.パルナサスの鏡](../Page/Dr.パルナサスの鏡.md "wikilink")
   - ニューヨーク・バーグドルフ 魔法のデパート
   - [ドラゴンゲート 空飛ぶ剣と幻の秘宝](https://ja.wikipedia.org/wiki/ドラゴンゲート_空飛ぶ剣と幻の秘宝 "wikilink")
   - [ドリームハウス](https://ja.wikipedia.org/wiki/ドリームハウス "wikilink")
@@ -429,7 +429,7 @@
   - [ブリッツ](https://ja.wikipedia.org/wiki/ブリッツ_\(映画\) "wikilink")
   - [ブロークンシティ](https://ja.wikipedia.org/wiki/ブロークンシティ "wikilink")
   - ブロードウェイ♪ブロードウェイ コーラスラインにかける夢
-  - [ペルソナ4](https://ja.wikipedia.org/wiki/ペルソナ4 "wikilink") the Animation -the Factor of Hope-
+  - [ペルソナ4](../Page/ペルソナ4.md "wikilink") the Animation -the Factor of Hope-
   - [抱擁のかけら](https://ja.wikipedia.org/wiki/抱擁のかけら "wikilink")
   - [ホーボー・ウィズ・ショットガン](https://ja.wikipedia.org/wiki/ホーボー・ウィズ・ショットガン "wikilink")
   - [ボクたちの交換日記](https://ja.wikipedia.org/wiki/ボクたちの交換日記 "wikilink")

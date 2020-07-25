@@ -28,7 +28,7 @@
   - 在武
     声：[飛田展男](../Page/飛田展男.md "wikilink")
   - 黒澤
-    声：[平尾仁](https://ja.wikipedia.org/wiki/平尾仁 "wikilink")
+    声：[平尾仁](../Page/平尾仁.md "wikilink")
   - 金城
     声：[小西克幸](../Page/小西克幸.md "wikilink")
   - チャンプア

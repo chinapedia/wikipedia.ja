@@ -27,7 +27,7 @@
   - 初期モデルでは2つのカウンタータイマーを装備。
   - いくつかのモデルでは[ネットワーク・インターフェイス・プロセッサを装備](../Page/ネットワークカード.md "wikilink")。
   - 汎用タイマー (GPT) モジュール：パルス計数器、CCP(capture/compare/PWM)機能。
-  - いくつかのモデルは通信処理モジュール (CPM) や[シリアル通信](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")コントローラー (SCC) を装備し、[イーサネット](../Page/イーサネット.md "wikilink")や[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")をサポートしている。
+  - いくつかのモデルは通信処理モジュール (CPM) や[シリアル通信](../Page/シリアル通信.md "wikilink")コントローラー (SCC) を装備し、[イーサネット](../Page/イーサネット.md "wikilink")や[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")をサポートしている。
   - 多くのモデルはキュー付シリアルモジュール (QSM) を装備。クロック同期式[SPIバス](https://ja.wikipedia.org/wiki/SPIバス "wikilink")とロジックレベルの[RS-232](../Page/RS-232.md "wikilink")C・[UART](../Page/UART.md "wikilink")機能をサポートしている。
 
 [Category:モトローラのマイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:モトローラのマイクロプロセッサ "wikilink")

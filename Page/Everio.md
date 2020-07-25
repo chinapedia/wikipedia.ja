@@ -108,7 +108,7 @@ GZ-HD30/40とGZ-HD60以降のEverioはハイビジョンタイプのみパソコ
 
 ## ノンリニア編集
 
-Everioは、HDDにMPEG-2ファイルで記録され、パソコンとUSBで接続して取り込むことができる。パソコンとの親和性は高く、使用環境を満たせば即座に編集することができる。なお、Everioは特殊な独自形式を採用しており、GZ-MGシリーズは、SD-VIDEO規格準拠のMPEG-2 (.mod)で記録され、MPEG-2 PS(Program Stream)で多重化している。また、GZ-HDシリーズは、同規格準拠のMPEG-2(.tod)で記録され、MPEG-2 TS(Transport Stream)で多重化している。編集は、同梱のソフトウェア「CyberLink DVD Solution」で行う。市販の編集ソフト[EDIUS](../Page/EDIUS.md "wikilink")と[VideoStudio](https://ja.wikipedia.org/wiki/VideoStudio "wikilink")で.mod,.todを直接読み込んで編集できる。
+Everioは、HDDにMPEG-2ファイルで記録され、パソコンとUSBで接続して取り込むことができる。パソコンとの親和性は高く、使用環境を満たせば即座に編集することができる。なお、Everioは特殊な独自形式を採用しており、GZ-MGシリーズは、SD-VIDEO規格準拠のMPEG-2 (.mod)で記録され、MPEG-2 PS(Program Stream)で多重化している。また、GZ-HDシリーズは、同規格準拠のMPEG-2(.tod)で記録され、MPEG-2 TS(Transport Stream)で多重化している。編集は、同梱のソフトウェア「CyberLink DVD Solution」で行う。市販の編集ソフト[EDIUS](../Page/EDIUS.md "wikilink")と[VideoStudio](../Page/VideoStudio.md "wikilink")で.mod,.todを直接読み込んで編集できる。
 
 ## 出典
 

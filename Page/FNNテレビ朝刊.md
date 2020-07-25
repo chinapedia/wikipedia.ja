@@ -16,7 +16,7 @@
 
 [1970年代](../Page/1970年代.md "wikilink")中盤の一時期、多くの系列局は早朝放送の開始が7時前後で、かつ人気番組『[ママとあそぼう\!ピンポンパン](../Page/ママとあそぼう!ピンポンパン.md "wikilink")』が8時台前半に放送されたことから、この時期の「テレビ朝刊」は8:45から8:55（局により天気予報やローカルニュース内包のため9時まで）と、主要ネットワークの早朝第一版ニュースでもっとも遅い時間から放送されていた\[1\]。
 
-なお、第2期後継（1982年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後）の『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』が放送されて以後も[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月まで、[沖縄テレビは放送開始が午前](../Page/沖縄テレビ放送.md "wikilink")7時からだった編成上の都合のため、7:15から10分間だけの飛び乗り放送を行った際、この『FNNテレビ朝刊』という題で放送し続けた。[テレビ大分](../Page/テレビ大分.md "wikilink")は[クロスネット](../Page/クロスネット局.md "wikilink")（当時はFNN／[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")／[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）であり、通常は[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")をネットしていたが、日曜日に限りNNNを休止してこの番組を放送。産経テレニュースの時代もテレビ朝刊としていた（1993年10月から日曜もNNNに変更）。
+なお、第2期後継（1982年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後）の『[FNNモーニングワイド ニュース&スポーツ](../Page/FNNモーニングワイド_ニュース&スポーツ.md "wikilink")』が放送されて以後も[1986年](../Page/1986年.md "wikilink")3月まで、[沖縄テレビは放送開始が午前](../Page/沖縄テレビ放送.md "wikilink")7時からだった編成上の都合のため、7:15から10分間だけの飛び乗り放送を行った際、この『FNNテレビ朝刊』という題で放送し続けた。[テレビ大分](../Page/テレビ大分.md "wikilink")は[クロスネット](../Page/クロスネット局.md "wikilink")（当時はFNN／[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")／[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）であり、通常は[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")をネットしていたが、日曜日に限りNNNを休止してこの番組を放送。産経テレニュースの時代もテレビ朝刊としていた（1993年10月から日曜もNNNに変更）。
 
 [関西テレビでは](../Page/関西テレビ放送.md "wikilink")、宇宙空間をバックに同局のチャンネル番号"8"（六角形を上下に2つ繋げる）が現われるOPとEDを用いていた（いわゆる「**[スキャニメイト](../Page/スキャニメイト.md "wikilink")**」映像で、差し替えタイトルは『サンケイテレビ朝刊　FNN』だった）。
 

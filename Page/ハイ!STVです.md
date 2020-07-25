@@ -21,7 +21,7 @@
   - [森中慎也](../Page/森中慎也.md "wikilink")
   - [明石英一郎](../Page/明石英一郎.md "wikilink")（2011年8月14日放送分のスペシャルのみ。）
   - [松下ゆきこ](https://ja.wikipedia.org/wiki/松下祐貴子 "wikilink")（同上）
-  - [萩原隆雄](https://ja.wikipedia.org/wiki/萩原隆雄 "wikilink")
+  - [萩原隆雄](../Page/萩原隆雄.md "wikilink")
 
 ## 脚注
 

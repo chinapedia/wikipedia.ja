@@ -15,7 +15,7 @@
 
 前作『[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")』リリース後、TM NETWORKは6月22日から11月3日まで、ファンイベントとなる「PARTY OF TM VISION」を11都市全13会場にて開催した。
 
-[8月25日](../Page/8月25日.md "wikilink")には初のビデオ作品『[VISION FESTIVAL](https://ja.wikipedia.org/wiki/VISION_FESTIVAL "wikilink")』をリリース、[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")から[11月27日](../Page/11月27日.md "wikilink")まではライブツアー「DRAGON THE FESTIVAL featuring TM NETWORK」を8都市全8公演敢行した。
+[8月25日](../Page/8月25日.md "wikilink")には初のビデオ作品『[VISION FESTIVAL](../Page/VISION_FESTIVAL.md "wikilink")』をリリース、[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")から[11月27日](../Page/11月27日.md "wikilink")まではライブツアー「DRAGON THE FESTIVAL featuring TM NETWORK」を8都市全8公演敢行した。
 
 この時期に[菊地秀行](../Page/菊地秀行.md "wikilink")の小説『[吸血鬼ハンターD](../Page/吸血鬼ハンターD.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [2007年](../Page/2007年.md "wikilink")）の[OVA](../Page/OVA.md "wikilink")版のサウンドトラック製作の依頼を受けた小室は、『[吸血鬼ハンター“D”オリジナル・アニメーション・サウンド・トラック](../Page/吸血鬼ハンター“D”オリジナル・アニメーション・サウンド・トラック.md "wikilink")』と並行する形で本作の製作に着手する事となった\[2\]。しかし、同時進行で2枚のアルバムを製作する事が困難であった事から、本作はミニアルバムとして製作される事となった\[3\]。
 

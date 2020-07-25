@@ -1,7 +1,7 @@
 > この記事は[HEATH](https://ja.wikipedia.org/wiki/HEATH)から翻訳されています。
 
 
-**HEATH**（ヒース、本名：**森江 博** - もりえ ひろし、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")。ソロ活動時の名前は「heath」、X JAPANでは「HEATH」である。愛称は「ひーちゃん」(主に[HIDEから呼ばれた](https://ja.wikipedia.org/wiki/hide "wikilink"))。
+**HEATH**（ヒース、本名：**森江 博** - もりえ ひろし、[1968年](../Page/1968年.md "wikilink")（昭和43年）[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")。ソロ活動時の名前は「heath」、X JAPANでは「HEATH」である。愛称は「ひーちゃん」(主に[HIDEから呼ばれた](https://ja.wikipedia.org/wiki/hide "wikilink"))。
 
 ## 来歴
 

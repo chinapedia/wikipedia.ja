@@ -11,7 +11,7 @@
 
 一部のデスクトップパソコンにも搭載され、Pentium M対応の[マザーボード](../Page/マザーボード.md "wikilink")も売り出されていた。小型で静粛性の高いデスクトップパソコンを組み立てることができた。
 
-Pentium Mは、IA-32の[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")拡張命令である[Intel 64には対応していない](https://ja.wikipedia.org/wiki/x64 "wikilink")。
+Pentium Mは、IA-32の[64ビット](../Page/64ビット.md "wikilink")拡張命令である[Intel 64には対応していない](https://ja.wikipedia.org/wiki/x64 "wikilink")。
 
 ## 設計
 
@@ -94,7 +94,7 @@ Pentium Mは、IA-32の[64ビット](https://ja.wikipedia.org/wiki/64ビット "
   - [Celeron M](https://ja.wikipedia.org/wiki/Celeron_M "wikilink") - Pentium MやCoreの廉価版。2ndキャッシュ半減やIntel SpeedStep テクノロジが省略されている。
   - [Pentium 4-M](../Page/Pentium_4-M.md "wikilink") - Pentium 4をベースにしたモバイル向けCPU。
   - [Intel Core](../Page/Intel_Core.md "wikilink") - Yonah以降このブランド名に移行した。
-  - [Intel A100](https://ja.wikipedia.org/wiki/Intel_A100 "wikilink") - Dothanを流用した[LPIA製品](https://ja.wikipedia.org/wiki/インテル#LPIA "wikilink")。
+  - [Intel A100](../Page/Intel_A100.md "wikilink") - Dothanを流用した[LPIA製品](https://ja.wikipedia.org/wiki/インテル#LPIA "wikilink")。
   - [Turion 64](../Page/Turion_64.md "wikilink") - 競合他社製品。
 
 ## 外部リンク

@@ -17,12 +17,12 @@
 
 <!-- end list -->
 
-  - Twisting the rope （[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）：『黒龍とお茶を』の続編、未訳
+  - Twisting the rope （[1986年](../Page/1986年.md "wikilink")）：『黒龍とお茶を』の続編、未訳
 
 <!-- end list -->
 
   - 「魔法の歌」シリーズ
-      - 『ダミアーノ』 Damiano ([1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")) ([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[井辻朱美](../Page/井辻朱美.md "wikilink")訳、ハヤカワ文庫FT)
+      - 『ダミアーノ』 Damiano ([1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")) ([1986年](../Page/1986年.md "wikilink")、[井辻朱美](../Page/井辻朱美.md "wikilink")訳、ハヤカワ文庫FT)
       - 『サーラ』 Damiano's Lute ([1984年](../Page/1984年.md "wikilink")) ([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[井辻朱美](../Page/井辻朱美.md "wikilink")訳、ハヤカワ文庫FT)
       - 『ラファエル』 Raphael ([1984年](../Page/1984年.md "wikilink")) ([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[井辻朱美](../Page/井辻朱美.md "wikilink")訳、ハヤカワ文庫FT)
 

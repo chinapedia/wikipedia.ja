@@ -316,7 +316,7 @@ Fire Bomberの[ドラム担当](../Page/ドラムセット.md "wikilink")。
     『マクロス7』第20話でバサラが連日の徹夜を経て作り第21話から22話にかけてレコーディング、第23話で完成版が流される。サウンドフォース結成後の戦闘シーンにおいてもっとも頻繁に使用されている。
   -
     作詞 - K.INOJO、福山恭子 / 作曲 - 福山芳樹 / 編曲 - [田中裕千](https://ja.wikipedia.org/wiki/田中裕千 "wikilink")
-    『マクロス7』第40話より使用。後述する「POWER TO THE DREAM」同様、バサラの歌唱を担当する福山芳樹が制作側の発注とは関係なく持ち込んだ曲である\[184\]。原曲は福山が当時結成していたバンド、[HUMMING BIRDの](https://ja.wikipedia.org/wiki/HUMMING_BIRD_\(バンド\) "wikilink")「FLY AWAY」。アミノはこの曲を聞いた際には「これラスト以外では使えないだろう」と思い、[イントロ部分と](../Page/導入部.md "wikilink")[アウトロ](../Page/アウトロ.md "wikilink")部分は当初隠され、最終話のクライマックスとなる場面でのみ使用されている\[185\]。
+    『マクロス7』第40話より使用。後述する「POWER TO THE DREAM」同様、バサラの歌唱を担当する福山芳樹が制作側の発注とは関係なく持ち込んだ曲である\[184\]。原曲は福山が当時結成していたバンド、[HUMMING BIRDの](../Page/HUMMING_BIRD_\(バンド\).md "wikilink")「FLY AWAY」。アミノはこの曲を聞いた際には「これラスト以外では使えないだろう」と思い、[イントロ部分と](../Page/導入部.md "wikilink")[アウトロ](../Page/アウトロ.md "wikilink")部分は当初隠され、最終話のクライマックスとなる場面でのみ使用されている\[185\]。
     [PlayStation用ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[マクロス デジタルミッション VF-X](https://ja.wikipedia.org/wiki/マクロス_デジタルミッション_VF-X "wikilink")』の[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")曲でもある（同ゲームにFire Bomberは登場しない）。『マクロスF』第17話では劇中曲、『[マクロスΔ](https://ja.wikipedia.org/wiki/マクロスΔ "wikilink")』第19話ではBGMとして使用されている。
     2017年にデビューしたプロレスラーの[納谷幸男](https://ja.wikipedia.org/wiki/納谷幸男 "wikilink")は、入場時のテーマソングに本曲を使用している\[186\]。
   -
@@ -433,7 +433,7 @@ OVA『[マクロス ダイナマイト7](../Page/マクロス_ダイナマイト
     作曲 - 福山芳樹 / 編曲 - 蛭子圭一
     『ACOUSTIC FIRE\!\!』に収録。
   -
-    作詞 - 石川雅敏 / 作曲 - [南部昌江](https://ja.wikipedia.org/wiki/南部昌江 "wikilink") / 編曲 - ON-DO
+    作詞 - 石川雅敏 / 作曲 - [南部昌江](../Page/南部昌江.md "wikilink") / 編曲 - ON-DO
     『DYNAMITE FIRE\!\!』に収録。
   -
     作詞 - 福山恭子/ 作曲 - 福山芳樹 / 編曲 - [島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")
@@ -662,7 +662,7 @@ OVA『[マクロス ダイナマイト7](../Page/マクロス_ダイナマイト
   - 『ミス マクロス7』[徳間書店](../Page/徳間書店.md "wikilink")、1995年。
   - 『FIRE BOMBER 公式プログラム in マクロス7』徳間書店、1995年。
   - VHS / LD『マクロス7』各巻封入ライナーノート　[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")、1995年 - 1996年。
-  - 『マクロスプラス MOVIE EDITION』『マクロス7 銀河がオレを呼んでいる\!』パンフレット　[ビックウエスト](https://ja.wikipedia.org/wiki/ビックウエスト "wikilink")、1995年。
+  - 『マクロスプラス MOVIE EDITION』『マクロス7 銀河がオレを呼んでいる\!』パンフレット　[ビックウエスト](../Page/ビックウエスト.md "wikilink")、1995年。
   - 『マクロスFB7 銀河流魂 オレノウタヲキケ！』パンフレット　ビックウエスト、2012年。
   - 『[マクロス7 ドッキングフェスティバル 歌は銀河を救う](https://ja.wikipedia.org/wiki/マクロス7_ドッキングフェスティバル_歌は銀河を救う "wikilink")』封入ブックレット　[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、1995年。
   - 「Fire Bomber Official fan book」『ULTRA FIRE\!\! FIRE BOMBER BEST ALBUM』封入ブックレット　ビクターエンタテインメント、1999年。
@@ -673,7 +673,7 @@ OVA『[マクロス ダイナマイト7](../Page/マクロス_ダイナマイト
 ## 関連項目
 
   - [マクロスシリーズの音楽](https://ja.wikipedia.org/wiki/マクロスシリーズの音楽 "wikilink")
-  - [HUMMING BIRD (バンド)](https://ja.wikipedia.org/wiki/HUMMING_BIRD_\(バンド\) "wikilink")
+  - [HUMMING BIRD (バンド)](../Page/HUMMING_BIRD_\(バンド\).md "wikilink")
 
 [Category:マクロスシリーズの用語](https://ja.wikipedia.org/wiki/Category:マクロスシリーズの用語 "wikilink") [Category:マクロスシリーズの登場人物](https://ja.wikipedia.org/wiki/Category:マクロスシリーズの登場人物 "wikilink") [Category:架空の音楽グループ](https://ja.wikipedia.org/wiki/Category:架空の音楽グループ "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
 

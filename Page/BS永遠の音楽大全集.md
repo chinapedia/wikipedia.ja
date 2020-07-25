@@ -434,7 +434,7 @@
   - [ザ・ハプニングス・フォー](https://ja.wikipedia.org/wiki/ザ・ハプニングス・フォー "wikilink")
   - [真木ひでと](../Page/真木ひでと.md "wikilink")
   - [湯原昌幸](../Page/湯原昌幸.md "wikilink")
-  - [ザ・ジャガーズ](https://ja.wikipedia.org/wiki/ザ・ジャガーズ "wikilink")
+  - [ザ・ジャガーズ](../Page/ザ・ジャガーズ.md "wikilink")
   - [ジャッキー吉川とブルーコメッツ](https://ja.wikipedia.org/wiki/ジャッキー吉川とブルーコメッツ "wikilink")
   - 松崎しげる
   - 岡忠夫&喜多村次郎（[ザ・カーナビーツ](../Page/ザ・カーナビーツ.md "wikilink")）

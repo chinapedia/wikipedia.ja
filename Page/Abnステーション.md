@@ -97,7 +97,7 @@
 
 ## イベント
 
-  - 「スーパーJチャンネルファンのつどいin NAGANO」（長野朝日放送主催、2008年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、[メルパルク](../Page/メルパルク.md "wikilink")長野）
+  - 「スーパーJチャンネルファンのつどいin NAGANO」（長野朝日放送主催、2008年[1月26日](../Page/1月26日.md "wikilink")、[メルパルク](../Page/メルパルク.md "wikilink")長野）
 
 ## 脚注
 

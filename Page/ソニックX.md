@@ -197,7 +197,7 @@
 ## 作中用語
 
   - ステーションスクエア (Station Square)
-    クリス達が住む世界にある都市。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にある。ただ、基本的には第1期の舞台はアメリカ合衆国やステーションスクエアだが、エピソード17にて[中国の旧市街地](../Page/中華人民共和国.md "wikilink")（中国語が表記されている為、そう推測できる）らしき場所が登場しており、またエピソード22では[雷門](../Page/雷門.md "wikilink")や[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の城下町が登場している。
+    クリス達が住む世界にある都市。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にある。ただ、基本的には第1期の舞台はアメリカ合衆国やステーションスクエアだが、エピソード17にて[中国の旧市街地](../Page/中華人民共和国.md "wikilink")（中国語が表記されている為、そう推測できる）らしき場所が登場しており、またエピソード22では[雷門](../Page/雷門.md "wikilink")や[京都](../Page/京都.md "wikilink")の城下町が登場している。
   - カオスエメラルド (Chaos Emerald)
     ソニック達の世界に存在する宝石。大きさは大人の握り拳ほどある。「奇跡の宝石」と呼ばれ金、白、紫、赤、緑、青、水色の計7つ存在し揃えると強大な力が発生する。そのため常に争奪戦の対象になっている。
     エピソード45では赤のカオスエメラルドを景品とした、トーナメント方式のソニックバトルまで開催された。
@@ -228,12 +228,12 @@
   - 企画 - SONIC Project
   - スーパーバイザー - 西山彰則、前川司郎、[飯塚隆](https://ja.wikipedia.org/wiki/飯塚隆 "wikilink")
   - エクゼクティブプロデューサー - [中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")
-  - プロデューサー - 笹村武史、[松元理人](https://ja.wikipedia.org/wiki/松元理人 "wikilink")
+  - プロデューサー - 笹村武史、[松元理人](../Page/松元理人.md "wikilink")
   - アソシエイトプロデューサー - 佐々木絵美
   - [ストーリーエディター](../Page/シリーズ構成.md "wikilink") - [まさきひろ](../Page/まさきひろ.md "wikilink")（第1期）、[吉村清子](https://ja.wikipedia.org/wiki/吉村清子 "wikilink")（第2期）\[16\]
   - キャラクター原案 - 上川祐司
   - キャラクターデザイン - [平山智](../Page/平山智_\(アニメーター\).md "wikilink")
-  - メカキャラクターデザイン - [森木靖泰](https://ja.wikipedia.org/wiki/森木靖泰 "wikilink")
+  - メカキャラクターデザイン - [森木靖泰](../Page/森木靖泰.md "wikilink")
   - メカ作画監督 - 渡辺圭祐、亀垣一
   - 美術監督 - [飯島由樹子](https://ja.wikipedia.org/wiki/飯島由樹子 "wikilink")
   - 美術設定 - 大河内稔
@@ -249,7 +249,7 @@
   - 制作担当 - 宮本秀晃→（不在）
   - アニメーションプロデューサー - 水沼健二
   - アニメーション制作 - [東京ムービー](../Page/トムス・エンタテインメント.md "wikilink")
-  - 監督 - [亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")
+  - 監督 - [亀垣一](../Page/亀垣一.md "wikilink")
   - 製作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")
 
 ## 主題歌
@@ -307,7 +307,7 @@
 <td><p>エピソード 1</p></td>
 <td><p>超音速ヒーロー登場!</p></td>
 <td><p><a href="../Page/まさきひろ.md" title="wikilink">まさきひろ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀垣一" title="wikilink">亀垣一</a></p></td>
+<td><p><a href="../Page/亀垣一.md" title="wikilink">亀垣一</a></p></td>
 <td><p><a href="../Page/平山智_(アニメーター).md" title="wikilink">平山智</a></p></td>
 <td><p><strong>2003年</strong><br />
 4月6日</p></td>

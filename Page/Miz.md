@@ -489,7 +489,7 @@ Good bye, yesterday：<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title
 ## 関連人物
 
   - [新井章太](https://ja.wikipedia.org/wiki/新井章太 "wikilink")
-  - [岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - [岩田雅之](../Page/岩田雅之.md "wikilink")
   - [鎌田俊哉](https://ja.wikipedia.org/wiki/鎌田俊哉 "wikilink")
   - [鈴木渉](https://ja.wikipedia.org/wiki/鈴木渉 "wikilink")
   - [舛岡圭司](https://ja.wikipedia.org/wiki/舛岡圭司 "wikilink")

@@ -11,7 +11,7 @@
 
 ## 出演者
 
-  - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の有名釣り師の[西山徹](../Page/西山徹.md "wikilink")、[大塚貴汪](../Page/大塚貴汪.md "wikilink")、[村越正海](../Page/村越正海.md "wikilink")、[村田満](https://ja.wikipedia.org/wiki/村田満 "wikilink")、[岩井渓一郎](../Page/岩井渓一郎.md "wikilink")や、[バスプロの](../Page/バスフィッシング・プロフェッショナル.md "wikilink")[並木敏成](../Page/並木敏成.md "wikilink")、[清水盛三](../Page/清水盛三.md "wikilink")、[大森貴洋](../Page/大森貴洋.md "wikilink")、[宮崎友輔](https://ja.wikipedia.org/wiki/宮崎友輔 "wikilink")などが出演している（出演していた）。西山に関しては、放送時間が土曜夕方に変更された際に特別追悼番組が制作された。
+  - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の有名釣り師の[西山徹](../Page/西山徹.md "wikilink")、[大塚貴汪](../Page/大塚貴汪.md "wikilink")、[村越正海](../Page/村越正海.md "wikilink")、[村田満](../Page/村田満.md "wikilink")、[岩井渓一郎](../Page/岩井渓一郎.md "wikilink")や、[バスプロの](../Page/バスフィッシング・プロフェッショナル.md "wikilink")[並木敏成](../Page/並木敏成.md "wikilink")、[清水盛三](../Page/清水盛三.md "wikilink")、[大森貴洋](../Page/大森貴洋.md "wikilink")、[宮崎友輔](https://ja.wikipedia.org/wiki/宮崎友輔 "wikilink")などが出演している（出演していた）。西山に関しては、放送時間が土曜夕方に変更された際に特別追悼番組が制作された。
   - 釣り愛好家の[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")や元[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")、女性タレントきっての釣り愛好家として知られる[水野裕子](../Page/水野裕子.md "wikilink")、[上野ひとみ](https://ja.wikipedia.org/wiki/上野ひとみ "wikilink")、[児島玲子](../Page/児島玲子.md "wikilink")（長年[釣り・ロマンを求めて](../Page/釣り・ロマンを求めて.md "wikilink")等シマノ系に出演していたが2014年よりがダイワとテスター契約したために）、[あべなぎさ](../Page/あべなぎさ.md "wikilink")、[晴山由梨](https://ja.wikipedia.org/wiki/晴山由梨 "wikilink")など芸能人や著名人も登場する。水野は2003年10月から数年間自身のコーナーが存在し、事実上の準レギュラーでもあった。
 
 この時の構成は、タレントフィッシングカップのプロデューサー　水野重幸が行っている。

@@ -32,7 +32,7 @@
 
 ## 「SENDAI光のページェント」との関係
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）から「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")」は始まっており、「NIIGATA光のページェント」はその次の年から始まっている。名称および[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")における[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")・[漢字](../Page/漢字.md "wikilink")・[かな](../Page/かな.md "wikilink")の使い分けが同じであり、「けやき並木に電飾する」という点でも両イベントは共通する。ただし、[けやきの電飾方法や](https://ja.wikipedia.org/wiki/SENDAI光のページェント#電飾の特徴とその様子 "wikilink")[イベントの規模に大きな違いがある](https://ja.wikipedia.org/wiki/光のページェント#イルミネーション・イベント "wikilink")。
+[1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）から「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")」は始まっており、「NIIGATA光のページェント」はその次の年から始まっている。名称および[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")における[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")・[漢字](../Page/漢字.md "wikilink")・[かな](../Page/かな.md "wikilink")の使い分けが同じであり、「けやき並木に電飾する」という点でも両イベントは共通する。ただし、[けやきの電飾方法や](https://ja.wikipedia.org/wiki/SENDAI光のページェント#電飾の特徴とその様子 "wikilink")[イベントの規模に大きな違いがある](https://ja.wikipedia.org/wiki/光のページェント#イルミネーション・イベント "wikilink")。
 
 なお、SENDAI光のページェント実行委員会をサポートしている[仙台市](../Page/仙台市.md "wikilink")の興行会社のGIPが、「NIIGATA光のページェント」が始まる前から\[12\]「光のページェント」の[商標](../Page/商標.md "wikilink")の登録・管理を順次開始している\[13\]。このため、「NIIGATA光のページェント」の関連グッズを作成・販売する場合は、「SENDAI光のページェント」の[知的財産権](../Page/知的財産権.md "wikilink")を尊重しなくてはならない。
 

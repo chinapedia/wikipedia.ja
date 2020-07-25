@@ -23,7 +23,7 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[LP](../Page/レコード.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/カセットテープ.md "wikilink")3形態でリリースされた。
+[1986年](../Page/1986年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")[LP](../Page/レコード.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/カセットテープ.md "wikilink")3形態でリリースされた。
 
 また、前作と同様に[CD](../Page/コンパクトディスク.md "wikilink")、[CTにのみ](../Page/カセットテープ.md "wikilink")「NOISE LIMITTER」と「[WORKING MAN](../Page/B・BLUE.md "wikilink")」の2曲が追加収録されており、LPにはこの2曲は収録されていない。
 
@@ -70,7 +70,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
 <td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a><br />

@@ -548,7 +548,7 @@
 </tr>
 <tr class="even">
 <td><p>2013年4月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -590,7 +590,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -623,7 +623,7 @@
 </tr>
 <tr class="even">
 <td><p>2012年2月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td></td>
 <td></td>
 </tr>

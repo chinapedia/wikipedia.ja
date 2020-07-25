@@ -95,7 +95,7 @@
 <!-- end list -->
 
   -
-    劇団初の時代劇作品。スピーディーな殺陣や勧善懲悪のストーリー展開など、随所に名作時代劇や[大衆演劇](https://ja.wikipedia.org/wiki/大衆演劇 "wikilink")の要素が取り入れられている。劇団の演目のなかでコント色が強い。
+    劇団初の時代劇作品。スピーディーな殺陣や勧善懲悪のストーリー展開など、随所に名作時代劇や[大衆演劇](../Page/大衆演劇.md "wikilink")の要素が取り入れられている。劇団の演目のなかでコント色が強い。
     [2004年](../Page/2004年.md "wikilink")[11月](../Page/11月.md "wikilink")の嘉穂劇場復活公演が[DVD](../Page/DVD.md "wikilink")化された。
 
 <!-- end list -->
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、「大手航空会社の半額運賃」で航空業界にたった一機で参入したスカイマークエアラインズ。ところが新規参入ゆえに様々な苦難を強いられる。そんなある日、「[福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")さん」の策略によって、[雁ノ巣に追い出されてしまう](https://ja.wikipedia.org/wiki/福岡第一飛行場 "wikilink")。そこで彼が見たものは、ボロボロに朽ち果てた[飛行機](../Page/飛行機.md "wikilink")の[格納庫](../Page/格納庫.md "wikilink")だった……。
+    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、「大手航空会社の半額運賃」で航空業界にたった一機で参入したスカイマークエアラインズ。ところが新規参入ゆえに様々な苦難を強いられる。そんなある日、「[福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")さん」の策略によって、[雁ノ巣に追い出されてしまう](../Page/福岡第一飛行場.md "wikilink")。そこで彼が見たものは、ボロボロに朽ち果てた[飛行機](../Page/飛行機.md "wikilink")の[格納庫](../Page/格納庫.md "wikilink")だった……。
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 
   - [青春トライ'97](https://ja.wikipedia.org/wiki/青春トライ'97 "wikilink")（1997年、[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）（大塚ムネト） - 倉沢彦右衛門嘉成 役
   - [青春トライ'98](https://ja.wikipedia.org/wiki/青春トライ'98 "wikilink")（1998年、朝日放送）（大塚ムネト） - 倉沢彦右衛門 役
-  - [Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")） 2008年〜2010年レギュラー（大塚ムネト）、コーナードラマ『すすめ\!ひかり侍』出演
+  - [Beポンキッキ](../Page/Beポンキッキ.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")） 2008年〜2010年レギュラー（大塚ムネト）、コーナードラマ『すすめ\!ひかり侍』出演
 
 ### ラジオ
 

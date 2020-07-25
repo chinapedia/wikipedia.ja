@@ -1,7 +1,7 @@
 > この記事は[As \(歌手\)](https://ja.wikipedia.org/wiki/As_\(歌手\))から翻訳されています。
 
 
-**as**（あす、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。本名:小池 珠美（こいけ たまみ）。[東京都](../Page/東京都.md "wikilink")出身。[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")、元[ダブルウィング](https://ja.wikipedia.org/wiki/ダブルウィング "wikilink")所属。血液型A型。
+**as**（あす、[1986年](../Page/1986年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。本名:小池 珠美（こいけ たまみ）。[東京都](../Page/東京都.md "wikilink")出身。[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")、元[ダブルウィング](https://ja.wikipedia.org/wiki/ダブルウィング "wikilink")所属。血液型A型。
 
 ## 略歴
 

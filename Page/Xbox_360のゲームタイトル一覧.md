@@ -9,7 +9,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
 
 [Xbox Liveで体験版を配信したソフトは](../Page/Xbox_Live.md "wikilink")◆を表記（日本タグ以外のものも含む）。
 
-なお、Xbox Live Arcadeで配信されているソフトについては*[Xbox Live Arcadeのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xbox_Live_Arcadeのゲームタイトル一覧 "wikilink")*を参照。
+なお、Xbox Live Arcadeで配信されているソフトについては*[Xbox Live Arcadeのゲームタイトル一覧](../Page/Xbox_Live_Arcadeのゲームタイトル一覧.md "wikilink")*を参照。
 
 ## 2005年（全10タイトル）
 
@@ -166,7 +166,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 1月17日 [ドリフトナイツ ジュースド2](../Page/ドリフトナイツ_ジュースド2.md "wikilink")（THQジャパン）
   - 1月31日 [セガラリー REVO](../Page/セガラリーチャンピオンシップ.md "wikilink")（セガ）◆
   - 1月31日 [デビルメイクライ4](https://ja.wikipedia.org/wiki/デビルメイクライ4 "wikilink")（カプコン）◆
-  - 2月7日 [Battlestations: Midway](https://ja.wikipedia.org/wiki/Battlestations:_Midway "wikilink")（スパイク）◆
+  - 2月7日 [Battlestations: Midway](../Page/Battlestations:_Midway.md "wikilink")（スパイク）◆
   - 2月11日 [ニンジャガイデンブラック（Xboxクラシックス](../Page/忍者龍剣伝.md "wikilink")
   - 2月14日 [WWE 2008 SmackDown vs Raw](../Page/WWE_2008_SmackDown_vs_Raw.md "wikilink")（THQジャパン）◆
   - 2月21日 [Bioshock](https://ja.wikipedia.org/wiki/Bioshock "wikilink")（スパイク）◆
@@ -184,22 +184,22 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 3月27日 [ライデンファイターズ エイシズ](../Page/ライデンファイターズ_エイシズ.md "wikilink")（サクセス）◆
   - 4月10日 [テュロック](../Page/テュロック.md "wikilink")（ディズニーインタラクティブスタジオ）◆
   - 4月21日 [トム・クランシーシリーズ スプリンターセル カオスセオリー](../Page/スプリンターセルシリーズ.md "wikilink")（Xboxクラシックス）
-  - 4月24日 [フロントライン フュエル・オブ・ウォー](https://ja.wikipedia.org/wiki/フロントライン_フュエル・オブ・ウォー "wikilink")（THQジャパン）◆
+  - 4月24日 [フロントライン フュエル・オブ・ウォー](../Page/フロントライン_フュエル・オブ・ウォー.md "wikilink")（THQジャパン）◆
   - 4月24日 [レインボーシックス ベガス 2](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス_2 "wikilink")（ユービーアイソフト）
-  - 5月15日 [ザ・ダークネス](https://ja.wikipedia.org/wiki/ザ・ダークネス_\(ゲーム\) "wikilink")（スパイク）◆
-  - 5月22日 [ストラングルホールド (ゲーム)](https://ja.wikipedia.org/wiki/ストラングルホールド_\(ゲーム\) "wikilink")（サクセス）◆
+  - 5月15日 [ザ・ダークネス](../Page/ザ・ダークネス_\(ゲーム\).md "wikilink")（スパイク）◆
+  - 5月22日 [ストラングルホールド (ゲーム)](../Page/ストラングルホールド_\(ゲーム\).md "wikilink")（サクセス）◆
   - 5月22日 [オレンジボックス](../Page/The_Orange_Box.md "wikilink")（エレクトロニック・アーツ）◆
   - 5月29日 [バトルファンタジア](../Page/バトルファンタジア.md "wikilink")（アークシステムワークス）
   - 5月29日 [オーバーロード 復活ノ時](../Page/オーバーロード.md "wikilink"):魔王サマ（マイクロソフト）
   - 5月29日 [ロストプラネット コロニーズ](https://ja.wikipedia.org/wiki/ロストプラネット_コロニーズ "wikilink")（カプコン）
-  - 6月5日 [ドラゴンボールZ バーストリミット](https://ja.wikipedia.org/wiki/ドラゴンボールZ_バーストリミット "wikilink")（バンダイナムコゲームス）◆
+  - 6月5日 [ドラゴンボールZ バーストリミット](../Page/ドラゴンボールZ_バーストリミット.md "wikilink")（バンダイナムコゲームス）◆
   - 6月5日 [NINJA GAIDEN 2](../Page/NINJA_GAIDEN_2.md "wikilink")（テクモ）◆
   - 6月5日 [FIFA ストリート3](https://ja.wikipedia.org/wiki/FIFA_ストリート3 "wikilink")（エレクトロニック・アーツ）◆
   - 6月16日 [GUILTY GEAR XX \# RELOAD](../Page/GUILTY_GEAR_XX.md "wikilink")（Xboxクラシックス）
   - 6月19日 [フラットアウト アルティメット カルネージ](https://ja.wikipedia.org/wiki/フラットアウト_アルティメット_カルネージ "wikilink")（ラッセル）◆
   - 6月26日 [Battlefield: Bad Company](../Page/バトルフィールド_バッド_カンパニー.md "wikilink")（エレクトロニック・アーツ）◆
   - 6月26日 [ガンダム オペレーショントロイ](../Page/ガンダム_オペレーショントロイ.md "wikilink")（バンダイナムコゲームス）◆
-  - 7月10日 [KANE\&LYNCH: DEAD MEN](https://ja.wikipedia.org/wiki/KANE&LYNCH:_DEAD_MEN "wikilink")（スパイク）◆
+  - 7月10日 [KANE\&LYNCH: DEAD MEN](../Page/KANE&LYNCH:_DEAD_MEN.md "wikilink")（スパイク）◆
   - 7月17日 [マイトアンドマジック エレメンツ](https://ja.wikipedia.org/wiki/マイト・アンド・マジック#その他の派生作品 "wikilink")（ユービーアイソフト）
   - 7月21日 [ジェイド エンパイア 〜翡翠の帝国〜](https://ja.wikipedia.org/wiki/ジェイド_エンパイア_〜翡翠の帝国〜 "wikilink")（Xboxクラシックス）
   - 7月24日 [BULLY](https://ja.wikipedia.org/wiki/BULLY "wikilink")（[ベセスダ・ソフトワークス](https://ja.wikipedia.org/wiki/ベセスダ・ソフトワークス "wikilink")）
@@ -267,7 +267,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 3月5日 [バイオハザード5](../Page/バイオハザード5.md "wikilink")（カプコン）
   - 3月26日 [007 慰めの報酬](https://ja.wikipedia.org/wiki/007_慰めの報酬_\(ゲーム\) "wikilink")（スクウェア・エニックス）
   - 3月26日 [NBA 2K9](https://ja.wikipedia.org/wiki/NBA_2K9 "wikilink")（スパイク）
-  - 4月2日 [11eyes CrossOver](https://ja.wikipedia.org/wiki/11eyes_-罪と罰と贖いの少女- "wikilink")（5pb.Games）
+  - 4月2日 [11eyes CrossOver](../Page/11eyes_-罪と罰と贖いの少女-.md "wikilink")（5pb.Games）
   - 4月16日 [You're in the Movies:めざせ\!ムービースター](https://ja.wikipedia.org/wiki/You're_in_the_Movies:めざせ!ムービースター "wikilink")（マイクロソフト）
   - 4月16日 [ゴッドファーザー2](https://ja.wikipedia.org/wiki/THE_GODFATHER2 "wikilink")（エレクトロニック・アーツ）
   - 4月23日 [H.A.W.X](https://ja.wikipedia.org/wiki/トムクランシーズ_H.A.W.X. "wikilink")（ユービーアイソフト）

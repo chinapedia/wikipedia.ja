@@ -480,7 +480,7 @@
 
   - [ディーン・リチャーズ](https://ja.wikipedia.org/wiki/ディーン・リチャーズ_\(サッカー選手\) "wikilink") 1995-1999
 
-  - [デニス・アーウィン](https://ja.wikipedia.org/wiki/デニス・アーウィン "wikilink") 2002-2004
+  - [デニス・アーウィン](../Page/デニス・アーウィン.md "wikilink") 2002-2004
 
   - [リー・ネイラー](../Page/リー・ネイラー.md "wikilink") 1997-2006
 
@@ -488,7 +488,7 @@
 
   - [チャールズ・マルグルー](https://ja.wikipedia.org/wiki/チャールズ・マルグルー "wikilink") 2006-2008
 
-  - [マイケル・マンシェン](https://ja.wikipedia.org/wiki/マイケル・マンシェン "wikilink") 2008, 2009-2010
+  - [マイケル・マンシェン](../Page/マイケル・マンシェン.md "wikilink") 2008, 2009-2010
 
   - [ロナルド・ズバル](https://ja.wikipedia.org/wiki/ロナルド・ズバル "wikilink") 2009-2013
 

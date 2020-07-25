@@ -1,7 +1,7 @@
 > この記事は[SHRDLU](https://ja.wikipedia.org/wiki/SHRDLU)から翻訳されています。
 
 
-**SHRDLU**とは、[自然言語処理](../Page/自然言語処理.md "wikilink")を行う人工知能研究初期の研究開発プロジェクトである。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")から[1970年](../Page/1970年.md "wikilink")にかけて、[テリー・ウィノグラード](../Page/テリー・ウィノグラード.md "wikilink")によって実施された。自然言語により仮想世界の操作を行う事ができる。実装はソフトウエア面では[プログラミング言語](../Page/プログラミング言語.md "wikilink")[Lispと](https://ja.wikipedia.org/wiki/LISP "wikilink")[Planner](../Page/Planner.md "wikilink")を用いて記述され、ハードウエア面では[DEC社のコンピュータ](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")・[PDP-6](../Page/PDP-6.md "wikilink")および同社のグラフィック[端末](../Page/端末.md "wikilink")上で動作した。後に[ユタ大学](../Page/ユタ大学.md "wikilink")の[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")研究所によって改良され、SHRDLUの「世界」はフル3Dで描画されるようになった。
+**SHRDLU**とは、[自然言語処理](../Page/自然言語処理.md "wikilink")を行う人工知能研究初期の研究開発プロジェクトである。[1968年](../Page/1968年.md "wikilink")から[1970年](../Page/1970年.md "wikilink")にかけて、[テリー・ウィノグラード](../Page/テリー・ウィノグラード.md "wikilink")によって実施された。自然言語により仮想世界の操作を行う事ができる。実装はソフトウエア面では[プログラミング言語](../Page/プログラミング言語.md "wikilink")[Lispと](https://ja.wikipedia.org/wiki/LISP "wikilink")[Planner](../Page/Planner.md "wikilink")を用いて記述され、ハードウエア面では[DEC社のコンピュータ](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")・[PDP-6](../Page/PDP-6.md "wikilink")および同社のグラフィック[端末](../Page/端末.md "wikilink")上で動作した。後に[ユタ大学](../Page/ユタ大学.md "wikilink")の[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")研究所によって改良され、SHRDLUの「世界」はフル3Dで描画されるようになった。
 
 SHRDLUの名称は[etaoin shrdluに由来している](https://ja.wikipedia.org/wiki/etaoin_shrdlu "wikilink")。
 

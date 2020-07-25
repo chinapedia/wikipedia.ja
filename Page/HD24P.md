@@ -39,7 +39,7 @@
 ## 関連項目
 
   - [CineAlta](../Page/CineAlta.md "wikilink") - ソニー
-  - [パナビジョン](https://ja.wikipedia.org/wiki/パナビジョン_\(会社\) "wikilink")
+  - [パナビジョン](../Page/パナビジョン_\(会社\).md "wikilink")
   - [アーノルド&リヒター](../Page/アーノルド&リヒター.md "wikilink") (ARRI)
   - [シネライクガンマ](https://ja.wikipedia.org/wiki/シネライクガンマ "wikilink") - [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")
 

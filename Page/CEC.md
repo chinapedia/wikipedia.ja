@@ -11,7 +11,7 @@
 
   - [中央電子](../Page/中央電子.md "wikilink")（Chuo Electronics Co., Ltd.） - 1960年に設立した[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")の[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")。
 
-  - [コンピュータ教育開発センター](https://ja.wikipedia.org/wiki/コンピュータ教育開発センター "wikilink") \[1\]（Center for Educational Computing） - [文部科学省](../Page/文部科学省.md "wikilink")と[経済産業省](../Page/経済産業省.md "wikilink")共管の[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")設立。
+  - [コンピュータ教育開発センター](https://ja.wikipedia.org/wiki/コンピュータ教育開発センター "wikilink") \[1\]（Center for Educational Computing） - [文部科学省](../Page/文部科学省.md "wikilink")と[経済産業省](../Page/経済産業省.md "wikilink")共管の[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")。[1986年](../Page/1986年.md "wikilink")設立。
 
   - [設備システムエネルギー消費係数](https://ja.wikipedia.org/wiki/設備システムエネルギー消費係数 "wikilink")（Coefficient of Energy Consumption）
 

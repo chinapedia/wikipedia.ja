@@ -16,7 +16,7 @@
 
 ### FLATBACKER
 
-[1982年](../Page/1982年.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で結成。結成当時のバンド名は「**FRATVACKER**」。ヘヴィメタルのみならず、スラッシュメタルやハードコア・パンクの要素も取り入れた音楽性であった。[1984年](../Page/1984年.md "wikilink")に7曲入りデモテープ『皆殺し』を発表。同年にヤマハ主催のコンテストで優秀賞を獲得し\[1\]、この事がきっかけでビクターのディレクターと知り合い、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にビクターより1stアルバム『戦争 -アクシデント-』を発表。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には2ndアルバム『餌 -ESA-』を発表。その後、世界規模での活動に向けて渡米。
+[1982年](../Page/1982年.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で結成。結成当時のバンド名は「**FRATVACKER**」。ヘヴィメタルのみならず、スラッシュメタルやハードコア・パンクの要素も取り入れた音楽性であった。[1984年](../Page/1984年.md "wikilink")に7曲入りデモテープ『皆殺し』を発表。同年にヤマハ主催のコンテストで優秀賞を獲得し\[1\]、この事がきっかけでビクターのディレクターと知り合い、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にビクターより1stアルバム『戦争 -アクシデント-』を発表。[1986年](../Page/1986年.md "wikilink")には2ndアルバム『餌 -ESA-』を発表。その後、世界規模での活動に向けて渡米。
 
 ### E・Z・O
 

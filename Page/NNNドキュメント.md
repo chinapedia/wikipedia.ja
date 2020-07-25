@@ -7,7 +7,7 @@
 
 [1970年](../Page/1970年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")、放送開始。現在放送中の日本テレビの番組では『[キユーピー3分クッキング（NTVバージョン）](https://ja.wikipedia.org/wiki/キユーピー3分クッキング#NTVバージョン "wikilink")』、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』に次いで歴代第3位の[長寿番組である](../Page/長寿番組の一覧.md "wikilink")\[1\]。当初は「番組リーダー」という進行役を置き、[山口崇](../Page/山口崇.md "wikilink")（1970年）、[寺田農](../Page/寺田農.md "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1972年](../Page/1972年.md "wikilink")）がそれぞれ担当していた。[1973年](../Page/1973年.md "wikilink")に進行役は廃止している\[2\]。
 
-年々放送時間が後ろにずれていき、通常編成時には日曜23時台開始だったものが、1990年4月から月曜0時台（日曜24時台）開始となり、放送時間が繰り下がる傾向はあるものの、放送開始当初から日曜版の[夜ニュース](https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠 "wikilink")（[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")→[NNNニュース](../Page/NNNニュース.md "wikilink")→[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")）の次の枠で放送されている。
+年々放送時間が後ろにずれていき、通常編成時には日曜23時台開始だったものが、1990年4月から月曜0時台（日曜24時台）開始となり、放送時間が繰り下がる傾向はあるものの、放送開始当初から日曜版の[夜ニュース](../Page/日本テレビ系列深夜ニュース枠.md "wikilink")（[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")→[NNNニュース](../Page/NNNニュース.md "wikilink")→[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")）の次の枠で放送されている。
 
 本番組のネット局は当初[読売テレビのみだったが](../Page/讀賣テレビ放送.md "wikilink")\[3\]、徐々にネット局が増え現在ではNNN加盟30局のうち[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除く29局に加え、NNNに加盟していない[沖縄テレビを含む全](../Page/沖縄テレビ放送.md "wikilink")30局で放送されている。『ドキュメント'70』のように、番組開始当初はタイトルに「NNN」は入っていなかったが\[4\]、[1974年](../Page/1974年.md "wikilink")4月よりNNNネットワークの共同制作番組となったのを機にタイトルに「NNN」が入るようになった\[5\]。ただし、沖縄テレビはNNN非加盟を考慮し「NNN」のクレジットは外されており、CM終了後の画面で、NNNクレジットが見えないように独自で隠している。[スポンサー](../Page/スポンサー.md "wikilink")については、各局個別である。
 
@@ -15,7 +15,7 @@
 
 放送テーマは[平和](../Page/平和.md "wikilink")・[福祉](../Page/福祉.md "wikilink")・[環境](../Page/環境.md "wikilink")・[教育](../Page/教育.md "wikilink")・[雇用](../Page/雇用.md "wikilink")など。7・8月には[広島テレビ制作の](../Page/広島テレビ放送.md "wikilink")[原爆症](../Page/原爆症.md "wikilink")問題など、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")を扱った企画が放送される傾向にある。2011年3月の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")や[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")以後、これらの話題を取り上げる場合は「3・11大震災シリーズ」のサブタイトルが付くようになった（ただし付かない場合もある）。ローカルなテーマでも全国ネットで放送されることもあり、競争率は高く、年間50本程度放送する枠に対し、数百本という企画がNNN各社から日本テレビに上がってくるため、別名「甲子園」とも呼ばれている\[7\]。なお、内容の一部を再編集したものが[夕方のニュース番組などでも特集されることがある](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")。
 
-[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")、[文化庁芸術祭大賞](../Page/芸術祭_\(文化庁\).md "wikilink")、[日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink")最優秀賞、[放送文化基金](https://ja.wikipedia.org/wiki/放送文化基金 "wikilink")賞などを受賞している他、[エミー賞](../Page/エミー賞.md "wikilink")国際賞を日本の番組で初受賞している（1975年6月29日放送、日本テレビ制作『明日をつかめ\!貴くん〜4745日の記録』）。
+[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")、[文化庁芸術祭大賞](../Page/芸術祭_\(文化庁\).md "wikilink")、[日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink")最優秀賞、[放送文化基金](../Page/放送文化基金.md "wikilink")賞などを受賞している他、[エミー賞](../Page/エミー賞.md "wikilink")国際賞を日本の番組で初受賞している（1975年6月29日放送、日本テレビ制作『明日をつかめ\!貴くん〜4745日の記録』）。
 
 [ナレーションは基本的に](https://ja.wikipedia.org/wiki/ナレーター "wikilink")[声優](../Page/声優.md "wikilink")や[タレント](../Page/タレント.md "wikilink")が行っているが、制作局のアナウンサーや解説委員もナレーションを務めることがある（特に読売テレビ・[札幌テレビ制作分にこの傾向があり](../Page/札幌テレビ放送.md "wikilink")、日本テレビや[山口放送](../Page/山口放送.md "wikilink")でも稀にある）。また取り上げた題材が個人に関わる場合、ごく稀に本人自身が担当する場合もある。
 

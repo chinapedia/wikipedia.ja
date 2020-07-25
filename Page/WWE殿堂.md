@@ -583,7 +583,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファビュラス・フリーバーズ" title="wikilink">ファビュラス・フリーバーズ</a><br />
 （マイケル・ヘイズ、<a href="../Page/テリー・ゴディ.md" title="wikilink">テリー・ゴディ</a>、<a href="https://ja.wikipedia.org/wiki/バディ・ロバーツ" title="wikilink">バディ・ロバーツ</a>、<a href="https://ja.wikipedia.org/wiki/ジム・ガービン" title="wikilink">ジミー・ガービン</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュー・デイ_(プロレス)" title="wikilink">ニュー・デイ</a> (<a href="https://ja.wikipedia.org/wiki/エットレ・ユエン" title="wikilink">ビッグ・E</a>&amp;<a href="https://ja.wikipedia.org/wiki/コフィ・キングストン" title="wikilink">コフィ・キングストン</a>&amp;<a href="https://ja.wikipedia.org/wiki/エグザビアー・ウッズ" title="wikilink">エグザビアー・ウッズ</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュー・デイ_(プロレス)" title="wikilink">ニュー・デイ</a> (<a href="https://ja.wikipedia.org/wiki/エットレ・ユエン" title="wikilink">ビッグ・E</a>&amp;<a href="../Page/コフィ・キングストン.md" title="wikilink">コフィ・キングストン</a>&amp;<a href="https://ja.wikipedia.org/wiki/エグザビアー・ウッズ" title="wikilink">エグザビアー・ウッズ</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/レイ・トレイラー" title="wikilink">ビッグ・ボスマン</a></p></td>

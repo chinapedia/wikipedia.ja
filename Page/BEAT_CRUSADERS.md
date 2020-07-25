@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **[ヒダカトオル](../Page/日高央.md "wikilink")**（本名：[日高央](../Page/日高央.md "wikilink")（ひだかとおる）、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")- 、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")[高根台](../Page/高根台.md "wikilink")出身、血液型B型、[明海大学](../Page/明海大学.md "wikilink")卒） - ボーカル・ギター
+  - **[ヒダカトオル](../Page/日高央.md "wikilink")**（本名：[日高央](../Page/日高央.md "wikilink")（ひだかとおる）、[1968年](../Page/1968年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")- 、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")[高根台](../Page/高根台.md "wikilink")出身、血液型B型、[明海大学](../Page/明海大学.md "wikilink")卒） - ボーカル・ギター
       - サラリーマンPUNXと称して、働きながらバンド活動を行っていた。
       - インディーズ時代の表記はhidaka、メジャー移籍後はカタカナ表記。
       - BEAT CRUSADERSを結成する前は、旧メンバーthaiと初代ドラムのイワハラと「[PESELA-QUESELA-IN](https://ja.wikipedia.org/wiki/PESELA-QUESELA-IN "wikilink")」（ペセラ・ケセラ・イン）というバンドでも活動していた(この時点では「[日高央](../Page/日高央.md "wikilink")」表記)。

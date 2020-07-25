@@ -1,7 +1,7 @@
 > この記事は[Bugってハニー](https://ja.wikipedia.org/wiki/Bugってハニー)から翻訳されています。
 
 
-『**Bugってハニー**』（バグってハニー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列他にて放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビアニメ](../Page/アニメ.md "wikilink")。全51話。
+『**Bugってハニー**』（バグってハニー）は、[1986年](../Page/1986年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列他にて放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビアニメ](../Page/アニメ.md "wikilink")。全51話。
 
 ## 概要
 
@@ -64,7 +64,7 @@
   - 作画監督 - [香西隆男](../Page/香西隆男.md "wikilink")
   - 美術監督 - 横山幸博
   - 撮影監督 - 野村隆
-  - 録音監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 音楽監督 - [鈴木清司](../Page/鈴木清司.md "wikilink")
   - 編集 - 鶴渕允寿、高橋知子
   - 文芸 - 小野田博之
@@ -129,7 +129,7 @@
 <a href="../Page/山本優.md" title="wikilink">山本優</a></p></td>
 <td></td>
 <td><p><a href="../Page/永丘昭典.md" title="wikilink">永丘昭典</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></strong><br />
+<td><p><strong><a href="../Page/1986年.md" title="wikilink">1986年</a></strong><br />
 <a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
 </tr>
 <tr class="even">
@@ -217,7 +217,7 @@
 <td><p>ハンバーガー35連射!</p></td>
 <td><p>岡かすみ</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大賀俊二" title="wikilink">大賀俊二</a></p></td>
+<td><p><a href="../Page/大賀俊二.md" title="wikilink">大賀俊二</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
 </tr>
 <tr class="odd">

@@ -634,7 +634,7 @@ QLVD0001</p></td>
 
 ### イベント
 
-  - [I've in BUDOKAN 2005 〜Open the Birth Gate〜](https://ja.wikipedia.org/wiki/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜 "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") [日本武道館](../Page/日本武道館.md "wikilink")）
+  - [I've in BUDOKAN 2005 〜Open the Birth Gate〜](../Page/I've_in_BUDOKAN_2005_〜Open_the_Birth_Gate〜.md "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") [日本武道館](../Page/日本武道館.md "wikilink")）
   - KSL Live World 2008 〜way to the LittleBusters\! EX〜（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月10日](../Page/5月10日.md "wikilink") [新木場STUDIO COAST](https://ja.wikipedia.org/wiki/新木場STUDIO_COAST "wikilink")／[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月17日](../Page/5月17日.md "wikilink") [大阪](../Page/大阪.md "wikilink")[Namba Hatch](https://ja.wikipedia.org/wiki/Namba_Hatch "wikilink")）
   - [TBSアニメフェスタ](../Page/TBSアニメフェスタ.md "wikilink")2008（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月16日](../Page/8月16日.md "wikilink")〜[8月17日](../Page/8月17日.md "wikilink") 文京シビックホール大ホール）
   - [Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2008 -CHALLENGE-（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月30日](../Page/7月30日.md "wikilink") [さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）

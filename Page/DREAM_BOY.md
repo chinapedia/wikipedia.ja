@@ -14,7 +14,7 @@
   - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")：役者\[17\]
   - [薬師寺保栄](https://ja.wikipedia.org/wiki/薬師寺保栄 "wikilink")\[18\]
   - [真琴つばさ](https://ja.wikipedia.org/wiki/真琴つばさ "wikilink")\[19\]\[20\]
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")\[21\]
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")\[21\]
       - [亀梨和也](../Page/亀梨和也.md "wikilink")\[22\]、[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")\[23\]、[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")\[24\]、[田中聖](../Page/田中聖.md "wikilink")\[25\]、[上田竜也](../Page/上田竜也.md "wikilink")\[26\]、[中丸雄一](../Page/中丸雄一.md "wikilink")\[27\]
   - [関ジャニ8](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")\[28\]
       - [横山裕](../Page/横山裕.md "wikilink")\[29\]、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")\[30\]、[村上信五](../Page/村上信五.md "wikilink")\[31\]、[丸山隆平](../Page/丸山隆平.md "wikilink")\[32\]、[安田章大](../Page/安田章大.md "wikilink")\[33\]、[大倉忠義](../Page/大倉忠義.md "wikilink")\[34\]
@@ -218,7 +218,7 @@
 
 帝劇100周年記念公演の1つであり、本作2年ぶりの上演\[341\]。主演は亀梨和也。2011年9月3日 - 9月25日に帝国劇場にて上演され\[342\]、千秋楽で通算350回公演を達成\[343\]。アイドルグループを解散した3人のその後を描く物語であり\[344\]、目標を失った青年を亀梨、ボクシングチャンプを[田中聖](../Page/田中聖.md "wikilink")、ミュージシャンを[中丸雄一](../Page/中丸雄一.md "wikilink")が演じ\[345\]、3人はそれぞれボクシング映画の主演、モデルとなる選手、主題歌担当、として1つの映画に携わることになる\[346\]。
 
-メインキャスト3人とも[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバーであり、彼らはこの舞台限定で「勝運」を名乗った\[347\]。これはジャニー喜多川の命名であり、同年3月に起きた[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の復興の願いが込められている\[348\]。またここ数年は亀梨らメインキャストも打ち合わせに参加しており、演出を手掛けるジャニーの提案や助言は少なくなっているという\[349\]。
+メインキャスト3人とも[KAT-TUN](../Page/KAT-TUN.md "wikilink")のメンバーであり、彼らはこの舞台限定で「勝運」を名乗った\[347\]。これはジャニー喜多川の命名であり、同年3月に起きた[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の復興の願いが込められている\[348\]。またここ数年は亀梨らメインキャストも打ち合わせに参加しており、演出を手掛けるジャニーの提案や助言は少なくなっているという\[349\]。
 
 今作では「10Battles」をテーマとした様々な対決が行われる。例えば亀梨と田中聖のボクシング対決\[350\]、田中聖と中丸の[ラップ](../Page/ラップ.md "wikilink")と[ボイスパーカッション](../Page/ボイスパーカッション.md "wikilink")対決\[351\]、鳳蘭と真琴つばさの「元宝塚対決」\[352\]、田中聖と[田中樹](https://ja.wikipedia.org/wiki/田中樹 "wikilink")の「兄弟対決」\[353\]など。また[中国](../Page/中国.md "wikilink")から雑技団を招いて、亀梨はバンジージャンプを取り入れたフライングの新技「険勝好運舞空大回転」を約20日間で習得、披露した\[354\]。なお震災の影響で客席上空へのフライングは自粛された\[355\]。
 

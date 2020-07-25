@@ -128,7 +128,7 @@ NT32を含むEDKによってWindowsアプリケーション内でEFIファーム
 
 2008年、x86-64 システムでのUEFI採用が増えた。その多くは Compatibility Support Module (CSM) を使ったBIOSベースのOSのブートしか許していないが（従ってユーザーにはUEFIベースであることが明示されていない）、UEFIベースのOSのブートを許すシステムも出てきている。例えば、IBM x3450 サーバ、ClickBIOSを搭載した[MSI製マザーボード](../Page/Micro-Star_International.md "wikilink")、HP EliteBookやタブレットPC、HP CompaqノートPCなどがある。
 
-2009年、IBMはUEFIを搭載した [System x](../Page/System_x.md "wikilink") マシンや [BladeCenter](https://ja.wikipedia.org/wiki/BladeCenter "wikilink") マシンを出荷した。デルもUEFIを搭載したサーバを出荷している。他にも UEFI のホワイトペーパーに採用例が挙げられている\[36\]。[Sandy Bridge](https://ja.wikipedia.org/wiki/Sandy_Bridgeマイクロアーキテクチャ "wikilink") [PC](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink") プラットフォームの多くはUEFIを採用している。
+2009年、IBMはUEFIを搭載した [System x](../Page/System_x.md "wikilink") マシンや [BladeCenter](../Page/BladeCenter.md "wikilink") マシンを出荷した。デルもUEFIを搭載したサーバを出荷している。他にも UEFI のホワイトペーパーに採用例が挙げられている\[36\]。[Sandy Bridge](https://ja.wikipedia.org/wiki/Sandy_Bridgeマイクロアーキテクチャ "wikilink") [PC](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink") プラットフォームの多くはUEFIを採用している。
 
 ### オペレーティングシステム（OS）
 

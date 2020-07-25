@@ -41,7 +41,7 @@
 <td><p>4月10日</p></td>
 <td><p>天功VS覆面マジシャン 超魔術空前の大バトル</p></td>
 <td><p>モノラル</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/引田天功_(2代目)" title="wikilink">二代目引田天功</a>、<a href="../Page/くりぃむしちゅー.md" title="wikilink">くりぃむしちゅー</a>、<a href="../Page/小倉淳.md" title="wikilink">小倉淳</a></p></td>
+<td><p><a href="../Page/引田天功_(2代目).md" title="wikilink">二代目引田天功</a>、<a href="../Page/くりぃむしちゅー.md" title="wikilink">くりぃむしちゅー</a>、<a href="../Page/小倉淳.md" title="wikilink">小倉淳</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

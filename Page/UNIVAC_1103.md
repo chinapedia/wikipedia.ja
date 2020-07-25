@@ -1,7 +1,7 @@
 > この記事は[UNIVAC 1103](https://ja.wikipedia.org/wiki/UNIVAC_1103)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:UNIVAC-1103-BRL61-0905.jpg "wikilink") **UNIVAC 1103**（ユニバック1103）または **ERA 1103**は、[UNIVAC 1101の後継](https://ja.wikipedia.org/wiki/UNIVAC_1101 "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")である。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")10月、[Engineering Research Associates](https://ja.wikipedia.org/wiki/:en:Engineering_Research_Associates "wikilink") の設計の基に[レミントン・ランド](https://ja.wikipedia.org/wiki/レミントン・ランド "wikilink")社が製造した。[シーモア・クレイ](../Page/シーモア・クレイ.md "wikilink")が設計した最初のコンピュータである\[1\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:UNIVAC-1103-BRL61-0905.jpg "wikilink") **UNIVAC 1103**（ユニバック1103）または **ERA 1103**は、[UNIVAC 1101の後継](../Page/UNIVAC_1101.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")である。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")10月、[Engineering Research Associates](https://ja.wikipedia.org/wiki/:en:Engineering_Research_Associates "wikilink") の設計の基に[レミントン・ランド](https://ja.wikipedia.org/wiki/レミントン・ランド "wikilink")社が製造した。[シーモア・クレイ](../Page/シーモア・クレイ.md "wikilink")が設計した最初のコンピュータである\[1\]。
 
 ## 歴史
 

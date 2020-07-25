@@ -108,7 +108,7 @@
   - [井伊掃部頭直弼](../Page/井伊直弼.md "wikilink")：[杉良太郎](../Page/杉良太郎.md "wikilink")
       -
         反対派の粛清を行う（安政の大獄）が、水戸派の浪士に[桜田門外で殺される](https://ja.wikipedia.org/wiki/桜田門外の変 "wikilink")。
-  - [酒井雅楽頭忠績](../Page/酒井忠績.md "wikilink")：[御友公喜](https://ja.wikipedia.org/wiki/御友公喜 "wikilink")
+  - [酒井雅楽頭忠績](../Page/酒井忠績.md "wikilink")：[御友公喜](../Page/御友公喜.md "wikilink")
   - [阿部伊勢守正弘](../Page/阿部正弘.md "wikilink")：[大橋吾郎](../Page/大橋吾郎.md "wikilink")
   - [阿部正外](../Page/阿部正外.md "wikilink")：[小川隆市](../Page/小川隆市.md "wikilink")
   - [久世広周](../Page/久世広周.md "wikilink")：[江上雅彦](https://ja.wikipedia.org/wiki/江上雅彦 "wikilink")→[大和田伸也](../Page/大和田伸也.md "wikilink")
@@ -202,7 +202,7 @@
   - [会沢正志斎](../Page/会沢正志斎.md "wikilink")：[飯沼慧](https://ja.wikipedia.org/wiki/飯沼慧 "wikilink")
   - [佐藤図書](https://ja.wikipedia.org/wiki/佐藤図書 "wikilink")：[中西良太](../Page/中西良太.md "wikilink")
   - [市川三左衛門](https://ja.wikipedia.org/wiki/市川三左衛門 "wikilink")：[川辺久造](../Page/川辺久造.md "wikilink")
-  - [鵜飼吉左衛門](https://ja.wikipedia.org/wiki/鵜飼吉左衛門 "wikilink")：[村松克巳](https://ja.wikipedia.org/wiki/村松克巳 "wikilink")
+  - [鵜飼吉左衛門](../Page/鵜飼吉左衛門.md "wikilink")：[村松克巳](https://ja.wikipedia.org/wiki/村松克巳 "wikilink")
   - [結城寅寿](https://ja.wikipedia.org/wiki/結城寅寿 "wikilink")：[及川以造](../Page/及川いぞう.md "wikilink")
   - [今井金右衛門](https://ja.wikipedia.org/wiki/今井金右衛門 "wikilink")：[伊藤高](../Page/伊藤高.md "wikilink")
   - [中根雪江](../Page/中根雪江.md "wikilink")：[石立鉄男](../Page/石立鉄男.md "wikilink")
@@ -215,7 +215,7 @@
   - [品川弥二郎](../Page/品川弥二郎.md "wikilink")：[佐藤壱史](https://ja.wikipedia.org/wiki/佐藤壱史 "wikilink")
   - [後藤象二郎](../Page/後藤象二郎.md "wikilink")：[小木茂光](../Page/小木茂光.md "wikilink")
   - [佐久間象山](https://ja.wikipedia.org/wiki/佐久間象山 "wikilink")：[秋間登](../Page/秋間登.md "wikilink")
-  - [真木和泉](../Page/真木保臣.md "wikilink")：[山口嘉三](https://ja.wikipedia.org/wiki/山口嘉三 "wikilink")
+  - [真木和泉](../Page/真木保臣.md "wikilink")：[山口嘉三](../Page/山口嘉三.md "wikilink")
   - [鈴木石見守](https://ja.wikipedia.org/wiki/鈴木重棟 "wikilink")：[頭師孝雄](../Page/頭師孝雄.md "wikilink")
   - [田丸稲之衛門](../Page/田丸稲之衛門.md "wikilink")：[田口計](../Page/田口計.md "wikilink")
 

@@ -185,7 +185,7 @@
 
   - [ラドスラフ・コヴァーチ](https://ja.wikipedia.org/wiki/ラドスラフ・コヴァーチ "wikilink")　2003-2005
 
-  - [ヤン・シマーク](https://ja.wikipedia.org/wiki/ヤン・シマーク "wikilink")　2004-2007
+  - [ヤン・シマーク](../Page/ヤン・シマーク.md "wikilink")　2004-2007
 
   - [ユライ・クツカ](https://ja.wikipedia.org/wiki/ユライ・クツカ "wikilink")　2009-2011
 

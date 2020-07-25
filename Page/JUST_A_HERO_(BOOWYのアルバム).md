@@ -33,7 +33,7 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/カセットテープ.md "wikilink")3形態でリリースされた。LP初回生産分のみピンナップポスター（LPサイズ）が付属していた。
+[1986年](../Page/1986年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[東芝EMIのイーストワールドレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/カセットテープ.md "wikilink")3形態でリリースされた。LP初回生産分のみピンナップポスター（LPサイズ）が付属していた。
 
 なお、「PLASTIC OCEAN」はCD、CTにのみ収録されており、LPには収録されていない。これは、当時まだ普及していなかったCDの売り上げを伸ばすために、各レコード会社がCDのみ楽曲を追加収録する(大体レコードよりも1～3曲の追加が一般的だった)という戦略がとられていたことから、本作でも採用されたもの\[8\]。
 
@@ -229,7 +229,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
 <td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a><br />

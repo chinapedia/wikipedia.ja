@@ -21,7 +21,7 @@
   - [1925年](../Page/1925年.md "wikilink") - バイエルやヘキストなどの化学工業会社とともに合同し、[IG・ファルベン](../Page/IG・ファルベンインドゥストリー.md "wikilink") (IG Farben) が成立する\[5\]。
   - [1935年](../Page/1935年.md "wikilink") - IG・ファルベンと[AEG](https://ja.wikipedia.org/wiki/AEG "wikilink")が[オープンリール](../Page/オープンリール.md "wikilink")を初めて開発した。
   - [1952年](../Page/1952年.md "wikilink") - IG・ファルベンが解体され、新バーディシェ・アニリン・ウント・ゾーダ・ファブリーク（BASF）として再発足\[6\]。また[ロイヤル・ダッチ・シェル](../Page/ロイヤル・ダッチ・シェル.md "wikilink")と提携し、合弁で[ライニッシェ・オレフィンを設立した](https://ja.wikipedia.org/wiki/:de:Rheinische_Olefinwerke "wikilink")。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [ヘルボルを買収した](https://ja.wikipedia.org/wiki/:en:Herbol "wikilink")。
+  - [1968年](../Page/1968年.md "wikilink") - [ヘルボルを買収した](https://ja.wikipedia.org/wiki/:en:Herbol "wikilink")。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [ウィンターシャルと](https://ja.wikipedia.org/wiki/経済の奇跡 "wikilink")*[Wyandotte Chemicals Co.](https://ja.wikipedia.org/wiki/:en:Wyandotte,_Michigan#Business_and_industry "wikilink")* を買収した\[7\]。
   - [1975年](../Page/1975年.md "wikilink") - ドラッグストアの[ブーツと医薬品の](https://ja.wikipedia.org/wiki/ブーツ_\(ドラッグストア\) "wikilink")[Knoll AGを買収した](https://ja.wikipedia.org/wiki/:de:Knoll_AG "wikilink")\[8\]。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 東ドイツ[人民公社の](https://ja.wikipedia.org/wiki/人民公社_\(東ドイツ\) "wikilink")*[Synthesewerk Schwarzheide](https://ja.wikipedia.org/wiki/:de:BASF_Schwarzheide "wikilink")* を支配した\[9\]。

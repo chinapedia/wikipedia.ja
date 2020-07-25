@@ -113,7 +113,7 @@
           - <s>ASKA（シークレットゲスト）
           - 小田和正
           - [KAN](../Page/KAN.md "wikilink")
-          - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+          - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
           - BONNIE PINK
           - レミオロメン (Band Act)
           - [風味堂](../Page/風味堂.md "wikilink") (Feature Artists)
@@ -236,7 +236,7 @@
           - スガシカオ
       - 7月20日
           - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
-          - [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")
+          - [キマグレン](../Page/キマグレン.md "wikilink")
           - 倖田來未
           - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")
           - [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")

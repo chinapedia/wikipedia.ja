@@ -110,7 +110,7 @@
 <!-- end list -->
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）、勾当台公園近くに（当時）[東北一の](https://ja.wikipedia.org/wiki/東北地方 "wikilink")[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")の[タワービルが完成し](../Page/仙台第一生命タワービルディング.md "wikilink")、また、[青葉神社](../Page/青葉神社.md "wikilink")例大祭（仙台祭り）が[仙台・青葉まつり](../Page/仙台・青葉まつり.md "wikilink")として復活した。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）、[勾当台通](../Page/勾当台通.md "wikilink")と[東二番丁通り](../Page/東二番丁通り.md "wikilink")が直結。これは、仙台市営地下鉄南北線および[勾当台公園駅](../Page/勾当台公園駅.md "wikilink")の工事に合わせたものである。年末には「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")」が初開催された。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）、[勾当台通](../Page/勾当台通.md "wikilink")と[東二番丁通り](../Page/東二番丁通り.md "wikilink")が直結。これは、仙台市営地下鉄南北線および[勾当台公園駅](../Page/勾当台公園駅.md "wikilink")の工事に合わせたものである。年末には「[SENDAI光のページェント](../Page/SENDAI光のページェント.md "wikilink")」が初開催された。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』の放送により、「[政宗ブーム](https://ja.wikipedia.org/wiki/独眼竜政宗_\(NHK大河ドラマ\)#大河バブルの先駆け "wikilink")」が起きる。[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")（[1982年](../Page/1982年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")開業）などで1年を通じて仙台に空前の観光客が集まる。3月には[ファッションビル](https://ja.wikipedia.org/wiki/ファッションビル "wikilink")「[ファッションドーム141](../Page/141ビル.md "wikilink")」が勾当台公園の斜向かいに開業。[7月15日](../Page/7月15日.md "wikilink")には仙台市営地下鉄南北線が開業し、勾当台公園駅と141が直結する。
 
 ### LIVE 141　定禅寺ストリートジャズフェスティバル

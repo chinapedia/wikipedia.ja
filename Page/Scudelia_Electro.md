@@ -13,7 +13,7 @@
 
 ## メンバー
 
-  - **[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")**（いしだ ショーキチ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [静岡県](../Page/静岡県.md "wikilink")出身）
+  - **[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")**（いしだ ショーキチ、[1968年](../Page/1968年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [静岡県](../Page/静岡県.md "wikilink")出身）
 
 <!-- end list -->
 

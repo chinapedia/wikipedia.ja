@@ -56,7 +56,7 @@
   - VE (ビデオエンジニア) ： 中村寿昌（池田屋）
   - VTR編集 ： 小宮純一（[麻布プラザ](../Page/麻布プラザ.md "wikilink")）
   - MA ： 岡崎博之（麻布プラザ）
-  - 音効 ： [ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")
+  - 音効 ： [ZACK](../Page/フリーダム・オブ・ザック.md "wikilink")
   - ディレクター ： [清水俊雄](https://ja.wikipedia.org/wiki/清水俊雄 "wikilink")、野口詠介、鈴木伸嘉(メディア・バスターズ)
   - プロデューサー ： [梅崎陽](https://ja.wikipedia.org/wiki/梅崎陽 "wikilink")
   - 統括プロデューサー ： [川原愼](https://ja.wikipedia.org/wiki/川原愼 "wikilink")

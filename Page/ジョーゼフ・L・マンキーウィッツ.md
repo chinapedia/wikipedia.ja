@@ -51,7 +51,7 @@
 
   - [激怒](https://ja.wikipedia.org/wiki/激怒_\(1936年の映画\) "wikilink") *Fury* （1936） - [フリッツ・ラング](../Page/フリッツ・ラング.md "wikilink")監督
   - [フィラデルフィア物語](../Page/フィラデルフィア物語.md "wikilink") *The Philadelphia Story* （1940） - [ジョージ・キューカー](../Page/ジョージ・キューカー.md "wikilink")監督
-  - [女性No.1](https://ja.wikipedia.org/wiki/女性No.1 "wikilink") *Woman of the Year* （1942） - [ジョージ・スティーヴンス](https://ja.wikipedia.org/wiki/ジョージ・スティーヴンス "wikilink")監督
+  - [女性No.1](https://ja.wikipedia.org/wiki/女性No.1 "wikilink") *Woman of the Year* （1942） - [ジョージ・スティーヴンス](../Page/ジョージ・スティーヴンス.md "wikilink")監督
   - 王国の鍵 *The Keys of the Kingdom* （1945） - [ジョン・M・スタール](https://ja.wikipedia.org/wiki/ジョン・M・スタール "wikilink")監督
 
 ### 監督作品

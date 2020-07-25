@@ -15,7 +15,7 @@
 
 ARDFの起源は[1926年](../Page/1926年.md "wikilink")の「Wireless World」誌に「隠された送信機を探索する」という記事が掲載されたことが始まりといわれる。また[オリエンテーリング](../Page/オリエンテーリング.md "wikilink")の盛んな[北欧](../Page/北ヨーロッパ.md "wikilink")、特に[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")では[1948年](../Page/1948年.md "wikilink")に最初の競技会が開催された。ただ当時は[無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")が現在のように軽くなく、持ち運びも不便だったため、[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")や[自動車](../Page/自動車.md "wikilink")などの[乗り物](../Page/乗り物.md "wikilink")を利用した。
 
-冷戦時代には[中国](../Page/中国.md "wikilink")が[ソ連からARDFを広め](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")「無線電測向」という名称で競技が開催されていた。これは同国で[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")が解禁される前である。
+冷戦時代には[中国](../Page/中国.md "wikilink")が[ソ連からARDFを広め](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")「無線電測向」という名称で競技が開催されていた。これは同国で[アマチュア無線](../Page/アマチュア無線.md "wikilink")が解禁される前である。
 
 日本では[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")(JARL)が[1981年](../Page/1981年.md "wikilink")より[中国](../Page/中国.md "wikilink")に訪中団を派遣、JARL NEWS[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月号にARDF国際ルールの記事が掲載された。国際ルールに則って日本で競技が行われたのは、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")に[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")で開催された競技大会であり、[1989年](../Page/1989年.md "wikilink")にはJARLの主催となった。また、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には従来の「[FOXテーリング](https://ja.wikipedia.org/wiki/フォックスハンティング "wikilink")」という呼称から、国際的に通用する「ARDF」という名称に変更された。[2005年](../Page/2005年.md "wikilink")9月19日から23日まで、日本ではじめてとなる国際競技大会、「第6回[IARU](https://ja.wikipedia.org/wiki/IARU "wikilink")第3地域ARDF選手権大会」が[新潟県](../Page/新潟県.md "wikilink")[阿賀野市](https://ja.wikipedia.org/wiki/阿賀野市 "wikilink")において開催された。
 
@@ -302,7 +302,7 @@ ARDF全国競技大会に名称変更された。
 
 ## 関連項目
 
-  - [アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")
+  - [アマチュア無線](../Page/アマチュア無線.md "wikilink")
   - [無線方向探知機](https://ja.wikipedia.org/wiki/無線方向探知機 "wikilink")
 
 ## 外部リンク

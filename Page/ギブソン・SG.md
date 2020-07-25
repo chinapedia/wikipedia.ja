@@ -111,11 +111,11 @@
         クリーム時代に愛用\[8\]。カラフルな[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック "wikilink")ペイントを施している（後に[トッド・ラングレン](../Page/トッド・ラングレン.md "wikilink")が所有）。
   - [ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")（[ビートルズ](../Page/ビートルズ.md "wikilink")）
       -
-        エリック・クラプトンと同時期の[1966年](../Page/1966年.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")頃まで使用した。ジョージがSGを抱えている写真や映像はさほど多くは無いが、レコーディングではビートルズ中期によく使用していた。プロモーション・フィルムの「ペーパーバック・ライター」「レイン」、また「レディ・マドンナ」（実際には「[ヘイ・ブルドッグ](../Page/ヘイ・ブルドッグ.md "wikilink")」のレコーディング風景）などでその姿が確認出来る。66年の日本公演にも、バックアップとして用意されていた。写真では『Beatles gear 日本語翻訳版』（ISBN 4845607980）などに掲載されている。ジョージは、これを[バッドフィンガー](../Page/バッドフィンガー.md "wikilink")の[ピート・ハム](https://ja.wikipedia.org/wiki/ピート・ハム "wikilink")に譲り、近年オークションに出品された\[9\]。
+        エリック・クラプトンと同時期の[1966年](../Page/1966年.md "wikilink")から[1968年](../Page/1968年.md "wikilink")頃まで使用した。ジョージがSGを抱えている写真や映像はさほど多くは無いが、レコーディングではビートルズ中期によく使用していた。プロモーション・フィルムの「ペーパーバック・ライター」「レイン」、また「レディ・マドンナ」（実際には「[ヘイ・ブルドッグ](../Page/ヘイ・ブルドッグ.md "wikilink")」のレコーディング風景）などでその姿が確認出来る。66年の日本公演にも、バックアップとして用意されていた。写真では『Beatles gear 日本語翻訳版』（ISBN 4845607980）などに掲載されている。ジョージは、これを[バッドフィンガー](../Page/バッドフィンガー.md "wikilink")の[ピート・ハム](https://ja.wikipedia.org/wiki/ピート・ハム "wikilink")に譲り、近年オークションに出品された\[9\]。
   - [ジミー・マッカロク](https://ja.wikipedia.org/wiki/ジミー・マッカロク "wikilink")（[ウイングス](../Page/ウイングス.md "wikilink")）
   - [ディッキー・ベッツ](https://ja.wikipedia.org/wiki/ディッキー・ベッツ "wikilink") （[オールマン・ブラザーズ・バンド](../Page/オールマン・ブラザーズ・バンド.md "wikilink")）
       -
-        デビュー以前より、1961年製スタンダードを使用。ビブラート・ユニットは取り外され、ストップテールピースが取り付けられていた。57年のレスポールを購入する際、資金の足しにするために[デュアン・オールマン](https://ja.wikipedia.org/wiki/デュアン・オールマン "wikilink")に売却。近年、シグネイチャー・モデルも発売。
+        デビュー以前より、1961年製スタンダードを使用。ビブラート・ユニットは取り外され、ストップテールピースが取り付けられていた。57年のレスポールを購入する際、資金の足しにするために[デュアン・オールマン](../Page/デュアン・オールマン.md "wikilink")に売却。近年、シグネイチャー・モデルも発売。
   - [デレク・トラックス](../Page/デレク・トラックス.md "wikilink")
       -
         シグネイチャー・モデルも近年発売された\[10\]。
@@ -137,7 +137,7 @@
   - [バーナード・サムナー](../Page/バーナード・サムナー.md "wikilink")（[ニュー・オーダー](../Page/ニュー・オーダー.md "wikilink")）
   - [リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")（[ウィーザー](../Page/ウィーザー.md "wikilink")）
   - [ケリー・ジョーンズ](https://ja.wikipedia.org/wiki/ケリー・ジョーンズ "wikilink") （[ステレオフォニックス](../Page/ステレオフォニックス.md "wikilink")）
-  - [トム・リントン](https://ja.wikipedia.org/wiki/トム・リントン "wikilink")（[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")）
+  - [トム・リントン](https://ja.wikipedia.org/wiki/トム・リントン "wikilink")（[ジミー・イート・ワールド](../Page/ジミー・イート・ワールド.md "wikilink")）
   - [パトリック・スタンプ](../Page/パトリック・スタンプ.md "wikilink")（[フォール・アウト・ボーイ](../Page/フォール・アウト・ボーイ.md "wikilink")）
   - [ダロン・マラキアン](https://ja.wikipedia.org/wiki/ダロン・マラキアン "wikilink")（[システム・オブ・ア・ダウン](../Page/システム・オブ・ア・ダウン.md "wikilink")、[スカーズ・オン・ブロードウェイ](https://ja.wikipedia.org/wiki/スカーズ・オン・ブロードウェイ "wikilink")）
   - イアン・マッケイ（[フガジ](https://ja.wikipedia.org/wiki/Fugazi "wikilink")）
@@ -154,7 +154,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="../Page/安部俊幸.md" title="wikilink">安部俊幸</a>（<a href="https://ja.wikipedia.org/wiki/チューリップ_(バンド)" title="wikilink">チューリップ</a>）<a href="../Page/ギブソン・ES-335.md" title="wikilink">ES-335と併用</a></li>
+<li><a href="../Page/安部俊幸.md" title="wikilink">安部俊幸</a>（<a href="../Page/チューリップ_(バンド).md" title="wikilink">チューリップ</a>）<a href="../Page/ギブソン・ES-335.md" title="wikilink">ES-335と併用</a></li>
 <li><a href="../Page/中山加奈子.md" title="wikilink">中山加奈子</a>（<a href="../Page/プリンセス_プリンセス.md" title="wikilink">プリンセス プリンセス</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/福山雅治" title="wikilink">福山雅治</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/岡野昭仁" title="wikilink">岡野昭仁</a>（<a href="https://ja.wikipedia.org/wiki/ポルノグラフィティ" title="wikilink">ポルノグラフィティ</a>）</li>

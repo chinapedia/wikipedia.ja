@@ -89,7 +89,7 @@
   - [椎原権兵衛](https://ja.wikipedia.org/wiki/椎原与右衛門 "wikilink")（しいはら ごんべえ）
     演：[森三平太](https://ja.wikipedia.org/wiki/森三平太 "wikilink")
     西郷家親戚・家事手伝い。
-  - [西郷菊次郎](https://ja.wikipedia.org/wiki/西郷菊次郎 "wikilink")（さいごう きくじろう）
+  - [西郷菊次郎](../Page/西郷菊次郎.md "wikilink")（さいごう きくじろう）
     演：[六浦誠](https://ja.wikipedia.org/wiki/六浦誠 "wikilink")（幼年期：[若菜大輔](https://ja.wikipedia.org/wiki/若菜大輔 "wikilink")）
     隆盛と愛加那の子。のち[京都市長](../Page/京都市長.md "wikilink")
   - [市来琴](../Page/市来琴.md "wikilink")（いちぎ こと）

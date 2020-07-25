@@ -42,7 +42,7 @@
 
 RCCでは、ホーム戦に限り、公式サイトでラジオ中継と同一音声をインターネット配信していた（2009年までは無料。2010年～2015年は有料）が、2015年シーズン限りで配信終了した。
 
-しかし、2016年5月27日の[DeNA対広島](../Page/横浜DeNAベイスターズ.md "wikilink")（横浜スタジアム。解説：[田尾安志](../Page/田尾安志.md "wikilink")、実況：[洗川雄司](../Page/洗川雄司.md "wikilink") ([LF](../Page/ニッポン放送.md "wikilink"))）はRCCのホームページにてインターネット配信を行った。当日は[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")(当時)が[平和記念公園を訪れスピーチを行い](https://ja.wikipedia.org/wiki/広島平和記念公園 "wikilink")、RCCラジオではオバマ大統領と[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")内閣総理大臣のスピーチを生中継するため試合開始から放送することが出来なかった。さらに、前年9月でネットを打ち切っていたTBSラジオの『[荻上チキ・Session-22](https://ja.wikipedia.org/wiki/荻上チキ・Session-22 "wikilink")』が、オバマ大統領広島訪問関連の内容で、RCCのスタジオからの放送となったことから同番組を臨時ネットした関係で、最大延長も22時までとされていた（『Canvas 〜キャンバス〜』を休止）。
+しかし、2016年5月27日の[DeNA対広島](../Page/横浜DeNAベイスターズ.md "wikilink")（横浜スタジアム。解説：[田尾安志](../Page/田尾安志.md "wikilink")、実況：[洗川雄司](../Page/洗川雄司.md "wikilink") ([LF](../Page/ニッポン放送.md "wikilink"))）はRCCのホームページにてインターネット配信を行った。当日は[バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")(当時)が[平和記念公園を訪れスピーチを行い](https://ja.wikipedia.org/wiki/広島平和記念公園 "wikilink")、RCCラジオではオバマ大統領と[安倍晋三](../Page/安倍晋三.md "wikilink")内閣総理大臣のスピーチを生中継するため試合開始から放送することが出来なかった。さらに、前年9月でネットを打ち切っていたTBSラジオの『[荻上チキ・Session-22](https://ja.wikipedia.org/wiki/荻上チキ・Session-22 "wikilink")』が、オバマ大統領広島訪問関連の内容で、RCCのスタジオからの放送となったことから同番組を臨時ネットした関係で、最大延長も22時までとされていた（『Canvas 〜キャンバス〜』を休止）。
 
 尚、RCCでは、RCCテレビの中継がある日を中心に、一部のホーム戦は有料ライブ中継を行っている。
 

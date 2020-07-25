@@ -540,7 +540,7 @@ NHKのど自慢では、1998年（[平成](../Page/平成.md "wikilink")10年）
 
 :\* [増田有華](https://ja.wikipedia.org/wiki/増田有華 "wikilink")（<small>元</small>[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）…[大阪府](../Page/大阪府.md "wikilink")
 
-:\* [松澤ミキ](https://ja.wikipedia.org/wiki/松澤ミキ "wikilink")
+:\* [松澤ミキ](../Page/松澤ミキ.md "wikilink")
 
   - グランプリ獲得者リスト
 
@@ -719,7 +719,7 @@ NHKのど自慢では、1998年（[平成](../Page/平成.md "wikilink")10年）
       - [KAT-TUNの世界一ダメな夜\!](https://ja.wikipedia.org/wiki/KAT-TUNの世界一ダメな夜! "wikilink") - 「**ダメのど自慢大会**」と題したコーナーで歌が下手な出場者がそれぞれ一曲ずつ歌を披露するというものである。コーナーのタイトルロゴは本家とほぼ似ている。
       - [AKBINGO\!](https://ja.wikipedia.org/wiki/AKBINGO! "wikilink") - 『モテ自慢』としてモテ期を鐘で判定。ロゴが本家を引用している。
       - [60番勝負](https://ja.wikipedia.org/wiki/60番勝負 "wikilink")
-  - [のど自慢](https://ja.wikipedia.org/wiki/のど自慢_\(映画\) "wikilink") - [1999年](../Page/1999年.md "wikilink")公開の映画（[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")監督）で、NHKのど自慢出場を目指し奮闘する人々を描く。のちに舞台化もされた。
+  - [のど自慢](https://ja.wikipedia.org/wiki/のど自慢_\(映画\) "wikilink") - [1999年](../Page/1999年.md "wikilink")公開の映画（[井筒和幸](../Page/井筒和幸.md "wikilink")監督）で、NHKのど自慢出場を目指し奮闘する人々を描く。のちに舞台化もされた。
       - [ビッグ・ショー\! ハワイに唄えば](../Page/ビッグ・ショー!_ハワイに唄えば.md "wikilink") - 1999年公開の映画（井筒和幸監督）。上記『のど自慢』の続編的作品。
       - [青いうた〜のど自慢 青春編〜](../Page/青いうた〜のど自慢_青春編〜.md "wikilink") - [2005年](../Page/2005年.md "wikilink")公開の映画（[金田敬](https://ja.wikipedia.org/wiki/金田敬 "wikilink")監督）。上記『のど自慢』のアナザーストーリー的作品。
 
@@ -754,12 +754,12 @@ NHKのど自慢では、1998年（[平成](../Page/平成.md "wikilink")10年）
 18. 日本国内については、かつて火曜日の17時台などに再放送を行っていた時期があったが、現在国内での再放送は行われていない。
 19. かつては日曜日の初回放送終了後、[NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink")でも2週間見逃し番組サービスとして配信されていた。
 20.
-21. ラジオ放送は[TBS](../Page/TBSラジオ.md "wikilink")・[RCCなど](../Page/中国放送.md "wikilink")[JRNによる中継のため](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、「[日曜バラエティー](https://ja.wikipedia.org/wiki/日曜バラエティー "wikilink")」を拡大放送（1月4日も同様、NHKワールド・ラジオ日本もそのまま当番組を同時放送）するか、単発特別番組を放送するかのいずれかで対応。
+21. ラジオ放送は[TBS](../Page/TBSラジオ.md "wikilink")・[RCCなど](../Page/中国放送.md "wikilink")[JRNによる中継のため](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、「[日曜バラエティー](../Page/日曜バラエティー.md "wikilink")」を拡大放送（1月4日も同様、NHKワールド・ラジオ日本もそのまま当番組を同時放送）するか、単発特別番組を放送するかのいずれかで対応。
 22. 1回放送の場合は25-31日の日曜。2回放送の場合はこれに7-10日の間の日曜も含む。
 23. 放送前日の予選会が行われないため。事前収録を放送するときはその限りではない。
 24. 2019年は1月27日放送分が錦織圭が決勝まで行った場合この日収録とし3月3日に放送するとしていた。
 25. 2019年は[みちのくモノがたり](https://ja.wikipedia.org/wiki/みちのくモノがたり "wikilink")のスペシャルを放送した。
-26. 駅伝・マラソン中継がある場合、BS2はアンコールアワーなど別番組を放送（2011年のびわ湖毎日マラソンの当日は前日に総合テレビとラジオ第1で放送されたチャンピオン大会を時差放送）していた。NHKワールド・ラジオ日本は国際放送独自編成としてFM放送、地上デジタルラジオ実用化試験放送の番組に差し替えている（「全国都道府県対抗男子駅伝競走大会」が開催される日のみ、ラジオ第1放送と同時放送で「[日曜バラエティー](https://ja.wikipedia.org/wiki/日曜バラエティー "wikilink")」を放送）。NHKワールド・ラジオ日本では本番組が休止の場合、土曜日深夜2時台の再放送も休止となり、「[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")」を同時放送。
+26. 駅伝・マラソン中継がある場合、BS2はアンコールアワーなど別番組を放送（2011年のびわ湖毎日マラソンの当日は前日に総合テレビとラジオ第1で放送されたチャンピオン大会を時差放送）していた。NHKワールド・ラジオ日本は国際放送独自編成としてFM放送、地上デジタルラジオ実用化試験放送の番組に差し替えている（「全国都道府県対抗男子駅伝競走大会」が開催される日のみ、ラジオ第1放送と同時放送で「[日曜バラエティー](../Page/日曜バラエティー.md "wikilink")」を放送）。NHKワールド・ラジオ日本では本番組が休止の場合、土曜日深夜2時台の再放送も休止となり、「[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")」を同時放送。
 27. 2018年まで3月第1日曜が[びわ湖毎日マラソン](../Page/びわ湖毎日マラソン.md "wikilink")、1991年までは、12月1日-7日の間の日曜が[福岡国際マラソン](../Page/福岡国際マラソン.md "wikilink")のために休止となったこともあった。1992年以降は、テレビは[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、ラジオは[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[KBCなど](../Page/KBCラジオ.md "wikilink")[NRNでそれぞれ放送](../Page/全国ラジオネットワーク.md "wikilink")。
 28. テレビでは[Eテレで放送](../Page/NHK教育テレビジョン.md "wikilink")。
 29. 全国大会にてテレビではEテレで放送、地方大会は一部地域のみ放送 。

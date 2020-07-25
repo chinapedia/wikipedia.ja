@@ -25,8 +25,8 @@
   - 『FOCUS』編集部と編集長の盗み撮り
   - [Sugarのミキのヌード](../Page/Sugar_\(日本のコーラスグループ\).md "wikilink")
   - [徳島ラジオ商殺し事件](../Page/徳島ラジオ商殺し事件.md "wikilink")の冤罪被害者の遺体写真
-  - 『[忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")』に[杉良太郎](../Page/杉良太郎.md "wikilink")がケムマキ役で出演（[ガセネタ](https://ja.wikipedia.org/wiki/ガセネタ "wikilink")）
-  - [ゴジラ](../Page/ゴジラ.md "wikilink")と[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")の消された部分
+  - 『[忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")』に[杉良太郎](../Page/杉良太郎.md "wikilink")がケムマキ役で出演（[ガセネタ](../Page/ガセネタ.md "wikilink")）
+  - [ゴジラ](../Page/ゴジラ.md "wikilink")と[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")の消された部分
 
 ## 参考文献
 

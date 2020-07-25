@@ -171,7 +171,7 @@ Playmate of the Yearへの対価
 
 ### アメリカ
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")大手の「[セブン-イレブン](../Page/セブン-イレブン_\(米国\).md "wikilink")」は、[キリスト教右派](https://ja.wikipedia.org/wiki/キリスト教右派 "wikilink")を始めとした、各方面からの圧力を受けて『プレイボーイ』の取り扱いを取り止めたが、結局2003年末頃に販売を再開した。
+[1986年](../Page/1986年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")大手の「[セブン-イレブン](../Page/セブン-イレブン_\(米国\).md "wikilink")」は、[キリスト教右派](https://ja.wikipedia.org/wiki/キリスト教右派 "wikilink")を始めとした、各方面からの圧力を受けて『プレイボーイ』の取り扱いを取り止めたが、結局2003年末頃に販売を再開した。
 
 ### 日本
 

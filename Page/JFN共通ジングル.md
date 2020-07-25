@@ -299,7 +299,7 @@
   - 金11:00 … 『[松任谷由実のYuming Chord](https://ja.wikipedia.org/wiki/松任谷由実のYuming_Chord "wikilink")』
   - 金22:00、23:00 … 『[SCHOOL OF LOCK\! FRIDAY](../Page/SCHOOL_OF_LOCK!.md "wikilink")』
   - 土10:00 … 『[TOYOTA Athlete Beat](https://ja.wikipedia.org/wiki/TOYOTA_Athlete_Beat "wikilink")』
-  - 土13:00 … 『[JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")』
+  - 土13:00 … 『[JA全農 COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")』
   - 土14:00 … 『[福山雅治 福のラジオ](../Page/福山雅治_福のラジオ.md "wikilink")』
   - 土15:00 … 『[COSMO POPS STATION](https://ja.wikipedia.org/wiki/COSMO_POPS_STATION "wikilink")』
   - 土15:30 … 『[東京海上日動 Challenge Stories 〜人生は、挑戦であふれている〜](https://ja.wikipedia.org/wiki/東京海上日動_Challenge_Stories_〜人生は、挑戦であふれている〜 "wikilink")』
@@ -331,7 +331,7 @@
 7.  男性ヴォイスと女性ヴォイスの2種類があった。
 8.  現在はFM IWATEの他のジングルと同じ扱いで、本来の時間以外のところで使用している。
 9.  同年12月31日をもって『Radio80』の愛称を廃止している。
-10. JFN系列以外でも、毎週土曜に放送されている[COUNTDOWN JAPANのスポンサーが](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")[ローソン](../Page/ローソン.md "wikilink")だった頃は、ローソンの店内放送『[ローソンCSほっとステーション](../Page/ローソンCSほっとステーション.md "wikilink")』でも流れていた。しかし、ステーションコールがないバージョンのものだった。
+10. JFN系列以外でも、毎週土曜に放送されている[COUNTDOWN JAPANのスポンサーが](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")[ローソン](../Page/ローソン.md "wikilink")だった頃は、ローソンの店内放送『[ローソンCSほっとステーション](../Page/ローソンCSほっとステーション.md "wikilink")』でも流れていた。しかし、ステーションコールがないバージョンのものだった。
 11. TOKYO FMでは時刻をアナウンスする枠。地方局ではJFN共通ジングルに差し替えられる。
 12. AM局の[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")と[和歌山放送](../Page/和歌山放送.md "wikilink")にもネットされているが、ジングル部分はカットされ時報後すぐ番組に入っている。また[エフエム群馬](../Page/エフエム群馬.md "wikilink")では日22:00。
 13. 長らくジングルが使用されていない番組であったが、2010年4月より使用開始。

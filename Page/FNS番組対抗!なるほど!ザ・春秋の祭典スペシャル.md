@@ -127,29 +127,29 @@
 
 <!-- end list -->
 
-  - 放送日：[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")月曜日
+  - 放送日：[1986年](../Page/1986年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")月曜日
   - 放送時間：19:00 - 21:48
 
-| 出場番組                                                                                                    | 出場者                                                                     | 結果 | 備考 |
-| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -- | -- |
-| [木曜劇場](../Page/木曜劇場.md "wikilink")「[ライスカレー](../Page/ライスカレー_\(テレビドラマ\).md "wikilink")」                   | [時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")                   |    |    |
-| [スケバン刑事II 少女鉄仮面伝説](../Page/スケバン刑事II_少女鉄仮面伝説.md "wikilink")                                              | [南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")                   |    |    |
-| [森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")                          | [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")                     |    |    |
-| [オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")                                                          | [明石家さんま](../Page/明石家さんま.md "wikilink")                                  |    |    |
-| [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")                                                          | [逸見政孝](../Page/逸見政孝.md "wikilink")                                      |    |    |
-| [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE                                   | [芳村真理](../Page/芳村真理.md "wikilink")、[古舘伊知郎](../Page/古舘伊知郎.md "wikilink") |    |    |
-| [花嫁衣裳は誰が着る](../Page/花嫁衣裳は誰が着る.md "wikilink")&[ヤヌスの鏡](../Page/ヤヌスの鏡.md "wikilink")                       | [堀ちえみ](../Page/堀ちえみ.md "wikilink")                                      |    |    |
-| [木曜ドラマストリート](../Page/木曜ドラマストリート.md "wikilink")「[あいつと私](https://ja.wikipedia.org/wiki/あいつと私 "wikilink")」 |                                                                         |    |    |
-| 金曜女のドラマスペシャル                                                                                            |                                                                         |    |    |
-| [ライオンのいただきます](../Page/ライオンのいただきます.md "wikilink")                                                        | [小堺一機](../Page/小堺一機.md "wikilink")                                      |    |    |
-| 声優チーム                                                                                                   |                                                                         |    |    |
-| [オールスター家族対抗歌合戦](../Page/オールスター家族対抗歌合戦.md "wikilink")                                                    | [小川宏](../Page/小川宏.md "wikilink")、[榊原郁恵](../Page/榊原郁恵.md "wikilink")     |    |    |
+| 出場番組                                                                                  | 出場者                                                                     | 結果 | 備考 |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -- | -- |
+| [木曜劇場](../Page/木曜劇場.md "wikilink")「[ライスカレー](../Page/ライスカレー_\(テレビドラマ\).md "wikilink")」 | [時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")                   |    |    |
+| [スケバン刑事II 少女鉄仮面伝説](../Page/スケバン刑事II_少女鉄仮面伝説.md "wikilink")                            | [南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")                   |    |    |
+| [森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")        | [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")                     |    |    |
+| [オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")                                        | [明石家さんま](../Page/明石家さんま.md "wikilink")                                  |    |    |
+| [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")                                        | [逸見政孝](../Page/逸見政孝.md "wikilink")                                      |    |    |
+| [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE                 | [芳村真理](../Page/芳村真理.md "wikilink")、[古舘伊知郎](../Page/古舘伊知郎.md "wikilink") |    |    |
+| [花嫁衣裳は誰が着る](../Page/花嫁衣裳は誰が着る.md "wikilink")&[ヤヌスの鏡](../Page/ヤヌスの鏡.md "wikilink")     | [堀ちえみ](../Page/堀ちえみ.md "wikilink")                                      |    |    |
+| [木曜ドラマストリート](../Page/木曜ドラマストリート.md "wikilink")「[あいつと私](../Page/あいつと私.md "wikilink")」  |                                                                         |    |    |
+| 金曜女のドラマスペシャル                                                                          |                                                                         |    |    |
+| [ライオンのいただきます](../Page/ライオンのいただきます.md "wikilink")                                      | [小堺一機](../Page/小堺一機.md "wikilink")                                      |    |    |
+| 声優チーム                                                                                 |                                                                         |    |    |
+| [オールスター家族対抗歌合戦](../Page/オールスター家族対抗歌合戦.md "wikilink")                                  | [小川宏](../Page/小川宏.md "wikilink")、[榊原郁恵](../Page/榊原郁恵.md "wikilink")     |    |    |
 
   - 秋の祭典
 
 <!-- end list -->
 
-  - 放送日：[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")月曜日
+  - 放送日：[1986年](../Page/1986年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")月曜日
   - 放送時間：19:00 - 21:48
 
 ### 1987年
@@ -178,7 +178,7 @@
 | 出場番組チーム                                                                                                                                                                                                     |
 | 森田一義アワー 笑っていいとも\!                                                                                                                                                                                           |
 | [アリエスの乙女たち](../Page/アリエスの乙女たち.md "wikilink")                                                                                                                                                                |
-| [キスより簡単](https://ja.wikipedia.org/wiki/キスより簡単 "wikilink")                                                                                                                                                   |
+| [キスより簡単](../Page/キスより簡単.md "wikilink")                                                                                                                                                                      |
 | FNNスーパータイム＆[FNNニュース工場](../Page/FNNニュース工場.md "wikilink")                                                                                                                                                     |
 
   - 秋の祭典

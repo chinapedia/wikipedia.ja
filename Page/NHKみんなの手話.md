@@ -105,7 +105,7 @@
 ### 2007年度 - 2009年度
 
   - 講師：[早瀬憲太郎](https://ja.wikipedia.org/wiki/早瀬憲太郎 "wikilink")、[小椋英子](https://ja.wikipedia.org/wiki/小椋英子 "wikilink")
-  - 生徒兼司会：[林家正蔵](https://ja.wikipedia.org/wiki/林家正蔵 "wikilink")
+  - 生徒兼司会：[林家正蔵](../Page/林家正蔵.md "wikilink")
 
 ### 2010年度 - 2011年度
 

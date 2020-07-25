@@ -226,7 +226,7 @@
   - [18祭](https://ja.wikipedia.org/wiki/18祭 "wikilink")
   - [NHK総合テレビ番組一覧](../Page/NHK総合テレビ番組一覧.md "wikilink")
   - [NHKラジオ番組一覧](https://ja.wikipedia.org/wiki/NHKラジオ番組一覧 "wikilink")
-  - [原伸次](../Page/原伸次.md "wikilink") - 元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")→[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")）、現[野球解説者](../Page/野球解説者.md "wikilink")。[広島・広陵高等学校時代に](../Page/広陵高等学校_\(広島県\).md "wikilink")[春](../Page/第52回選抜高等学校野球大会.md "wikilink")、[夏と続けて](../Page/第62回全国高等学校野球選手権大会.md "wikilink")[甲子園出場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")。原とバッテリーを組んだ渡辺一博投手(当時)が夏の大会後、大会でのエピソードを弁論のテーマにし、1980年度の全国大会([1981年](../Page/1981年.md "wikilink")1月)に出場、見事準優勝した。
+  - [原伸次](../Page/原伸次.md "wikilink") - 元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")→[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")）、現[野球解説者](../Page/野球解説者.md "wikilink")。[広島・広陵高等学校時代に](../Page/広陵高等学校_\(広島県\).md "wikilink")[春](../Page/第52回選抜高等学校野球大会.md "wikilink")、[夏と続けて](../Page/第62回全国高等学校野球選手権大会.md "wikilink")[甲子園出場](../Page/阪神甲子園球場.md "wikilink")。原とバッテリーを組んだ渡辺一博投手(当時)が夏の大会後、大会でのエピソードを弁論のテーマにし、1980年度の全国大会([1981年](../Page/1981年.md "wikilink")1月)に出場、見事準優勝した。
   - [ばらえてい テレビファソラシド](../Page/ばらえてい_テレビファソラシド.md "wikilink") - [1979年](../Page/1979年.md "wikilink")～[1982年](../Page/1982年.md "wikilink")に総合テレビで放送された人気番組。レギュラーの1人である[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が「NHKには『青年の主張』というお笑い番組がありますが…。」と番組内で発言し、NHK局内で問題になったことがある。
 
 ## 脚注

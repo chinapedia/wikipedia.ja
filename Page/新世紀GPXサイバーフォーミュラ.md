@@ -1350,7 +1350,7 @@ EDテーマの入り方は一貫して、「本編のラストシーンからエ
   - 「Adagio」（新世紀GPXサイバーフォーミュラSAGA最終話）
     作詞 - 松本花奈 / 作曲・編曲 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink") / 歌 - CaYOCO
   - 「POWER of LOVE」（新世紀GPXサイバーフォーミュラSIN）
-    作詞 - [椎名可憐](https://ja.wikipedia.org/wiki/椎名可憐 "wikilink") / 作曲 - M Rie / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
+    作詞 - [椎名可憐](https://ja.wikipedia.org/wiki/椎名可憐 "wikilink") / 作曲 - M Rie / 編曲 - [須藤賢一](../Page/須藤賢一.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
 
 ## 各話リスト (TV)
 
@@ -1581,7 +1581,7 @@ EDテーマの入り方は一貫して、「本編のラストシーンからエ
 <td><p>9月6日</p></td>
 <td><p>カナダ第4戦決勝</p></td>
 <td><p>赤根和樹</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三家本泰美" title="wikilink">三家本泰美</a></p></td>
+<td><p><a href="../Page/三家本泰美.md" title="wikilink">三家本泰美</a></p></td>
 <td><p>高畑順三郎</p></td>
 <td></td>
 </tr>

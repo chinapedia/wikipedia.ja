@@ -9,7 +9,7 @@
 
 ## 経歴
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") [カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")入学
+  - [1968年](../Page/1968年.md "wikilink") [カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")入学
   - [1972年](../Page/1972年.md "wikilink") 同校にて学士号取得
   - [1979年](../Page/1979年.md "wikilink") [マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")にて博士号取得後、[ベル研究所](../Page/ベル研究所.md "wikilink")勤務
   - [1989年](../Page/1989年.md "wikilink") [スタンフォード大学](../Page/スタンフォード大学.md "wikilink")物理学教授（〜2004年）
@@ -17,7 +17,7 @@
 
 ## 受賞歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") [オリバー・E・バックリー凝縮系賞](https://ja.wikipedia.org/wiki/オリバー・E・バックリー凝縮系賞 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink") [オリバー・E・バックリー凝縮系賞](https://ja.wikipedia.org/wiki/オリバー・E・バックリー凝縮系賞 "wikilink")
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") [ベンジャミン・フランクリン・メダル](https://ja.wikipedia.org/wiki/ベンジャミン・フランクリン・メダル_\(フランクリン協会\) "wikilink")、ノーベル物理学賞
 
 ## 著書

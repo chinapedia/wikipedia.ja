@@ -35,7 +35,7 @@
   - ギター : [松澤浩明](https://ja.wikipedia.org/wiki/松澤浩明 "wikilink")
   - キーボード : [河野陽吾](../Page/河野陽吾.md "wikilink")
   - ベース : [池田育義](https://ja.wikipedia.org/wiki/池田育義 "wikilink")
-  - ドラムス : [豊川義弘](https://ja.wikipedia.org/wiki/豊川義弘 "wikilink") 後に[グランドスラムに参加](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")。
+  - ドラムス : [豊川義弘](https://ja.wikipedia.org/wiki/豊川義弘 "wikilink") 後に[グランドスラムに参加](../Page/グランドスラム_\(ロックバンド\).md "wikilink")。
 
 ## ディスコグラフィ
 

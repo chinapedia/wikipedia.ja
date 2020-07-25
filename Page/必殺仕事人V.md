@@ -110,7 +110,7 @@ __TOC__{{-}}
 
 :\* お弓 - 角倉清美
 
-:\* 永瀬 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 永瀬 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* 八木原 - 丘路千
 
@@ -438,7 +438,7 @@ __TOC__{{-}}
 
 :\* 正太 - 池田直人
 
-:\* 松五郎 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 松五郎 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* おみち - 桐山まゆみ
 

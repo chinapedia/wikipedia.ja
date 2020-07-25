@@ -288,7 +288,7 @@
 <td><p>第13話</p></td>
 <td><p>覚鳴 -awake-</p></td>
 <td><p>川面真也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下喜光" title="wikilink">山下喜光</a></p></td>
+<td><p><a href="../Page/山下喜光.md" title="wikilink">山下喜光</a></p></td>
 <td><p>6月28日</p></td>
 <td></td>
 </tr>

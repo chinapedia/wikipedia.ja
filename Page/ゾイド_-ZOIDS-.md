@@ -1291,7 +1291,7 @@
 ## 映像ソフト化
 
   - セルDVDは全14巻、レンタル・セルVHSは全18巻。何れもジャケットイラストは異なる。
-  - [Blu-ray](../Page/Blu-ray_Disc.md "wikilink") BOXは[2013年](../Page/2013年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発売。完全初回生産限定版には、[コトブキヤ](https://ja.wikipedia.org/wiki/コトブキヤ "wikilink")[HMMシリーズ](https://ja.wikipedia.org/wiki/ハイエンドマスターモデル "wikilink") 『[ブレードライガー](https://ja.wikipedia.org/wiki/ブレードライガー "wikilink") Blu-ray BOX Limited Ver』（クリア成型色仕様）が封入される\[34\]。
+  - [Blu-ray](../Page/Blu-ray_Disc.md "wikilink") BOXは[2013年](../Page/2013年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に発売。完全初回生産限定版には、[コトブキヤ](https://ja.wikipedia.org/wiki/コトブキヤ "wikilink")[HMMシリーズ](../Page/ハイエンドマスターモデル.md "wikilink") 『[ブレードライガー](https://ja.wikipedia.org/wiki/ブレードライガー "wikilink") Blu-ray BOX Limited Ver』（クリア成型色仕様）が封入される\[34\]。
 
 ## ゲーム出演
 

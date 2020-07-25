@@ -605,12 +605,12 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
   - 三神官・ベル - [川名真知子](../Page/川名真知子.md "wikilink")
   - 三神官・ローズ - [佐藤朱](../Page/佐藤朱.md "wikilink")
   - オープニングヴォイス - [ウォード・セクストン](https://ja.wikipedia.org/wiki/ウォード・セクストン "wikilink")
-  - モラックス、アスモディ、ダンタリアン、ガーゴイル - [濱野雅嗣](https://ja.wikipedia.org/wiki/濱野雅嗣 "wikilink")
+  - モラックス、アスモディ、ダンタリアン、ガーゴイル - [濱野雅嗣](../Page/濱野雅嗣.md "wikilink")
   - 謎の黄金騎士 - [半田雅和](../Page/半田雅和.md "wikilink")（9）
 
 ### スーツアクター
 
-  - 黄金騎士・牙狼 - [大西雅樹](https://ja.wikipedia.org/wiki/大西雅樹 "wikilink")\[52\]
+  - 黄金騎士・牙狼 - [大西雅樹](../Page/大西雅樹.md "wikilink")\[52\]
   - 銀牙騎士・絶狼 - [マーク武蔵](../Page/マーク武蔵.md "wikilink")\[53\]
   - 暗黒騎士・呀 - [前田浩](../Page/前田浩.md "wikilink")\[54\]
   - 魔獣装甲コダマ - [秋山智彦](../Page/秋山智彦.md "wikilink")\[55\]
@@ -678,7 +678,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
   - 女 - [安間里恵](https://ja.wikipedia.org/wiki/安間里恵 "wikilink")、[林田麻里](https://ja.wikipedia.org/wiki/林田麻里 "wikilink")（10）
   - 社員 - [児玉貴志](https://ja.wikipedia.org/wiki/児玉貴志 "wikilink")（10）
   - 重役 - [大槻修治](https://ja.wikipedia.org/wiki/大槻修治 "wikilink")（10）
-  - 若者達 - 富田稔、[砂押裕美](https://ja.wikipedia.org/wiki/砂押裕美 "wikilink")、[熊田弥生](https://ja.wikipedia.org/wiki/熊田弥生 "wikilink")、[永島さゆり](https://ja.wikipedia.org/wiki/永島さゆり "wikilink")、[大西雅樹](https://ja.wikipedia.org/wiki/大西雅樹 "wikilink")（10）
+  - 若者達 - 富田稔、[砂押裕美](https://ja.wikipedia.org/wiki/砂押裕美 "wikilink")、[熊田弥生](https://ja.wikipedia.org/wiki/熊田弥生 "wikilink")、[永島さゆり](https://ja.wikipedia.org/wiki/永島さゆり "wikilink")、[大西雅樹](../Page/大西雅樹.md "wikilink")（10）
   - 椚礼次郎 / ダンタリアン人間態 - [川平慈英](../Page/川平慈英.md "wikilink") (11)
   - 里美 - [作間ゆい](https://ja.wikipedia.org/wiki/作間ゆい "wikilink") (11)
   - おもちゃおじさん / ノウル人間態 - [ぜんじろう](../Page/ぜんじろう.md "wikilink") (12)

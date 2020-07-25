@@ -49,7 +49,7 @@ UPnP、DLNA、Viiv、Plays For Sureは、それぞれベースとしている規
     <!-- end list -->
       - [VIERA](../Page/VIERA.md "wikilink")（プラズマテレビ・液晶テレビ、VT2シリーズ・VT3シリーズ・RT2Bシリーズ・GT3シリーズ・ST3シリーズ・S3シリーズ・D2シリーズ・DT3シリーズ・G3シリーズ・X3シリーズ・他）、[ブルーレイDIGA](https://ja.wikipedia.org/wiki/DIGA "wikilink")（BDレコーダー、2008年秋モデル以降）
   - [アイ・オー・データ機器](../Page/アイ・オー・データ機器.md "wikilink")
-      - AVeL LinkPlayer（ネットワークメディアプレーヤー）、[LANDISK](https://ja.wikipedia.org/wiki/LANDISK "wikilink")（NAS）
+      - AVeL LinkPlayer（ネットワークメディアプレーヤー）、[LANDISK](../Page/LANDISK.md "wikilink")（NAS）
   - [バッファロー](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink")
       - LinkTheater（ネットワークメディアプレーヤー）、LinkStation（NAS、HS-DGLシリーズ、HS-DHGLシリーズ）、TeraStation（NAS、HS-DTGL/R5シリーズ）
   - ソニー・エリクソン・モバイルコミュニケーションズ（現[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")）

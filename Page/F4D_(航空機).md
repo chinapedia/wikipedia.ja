@@ -2,7 +2,7 @@
 
 
 {{ Infobox 航空機 | 名称=F4D / F-6 スカイレイ | 画像=<File:Douglas> F4D-1 Skyray of VMF-115 in flight, 4 April 1957 (NNAM.1996.253.7328.029).jpg | キャプション=飛行するF4D-1 134815号機
-(VMF-115戦闘飛行隊所属、[1957年](../Page/1957年.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者=[エドワード・ヘンリー・ハイネマン](https://ja.wikipedia.org/wiki/エド・ハイネマン "wikilink") | 製造者=[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")社 | 運用者 more=
+(VMF-115戦闘飛行隊所属、[1957年](../Page/1957年.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者=[エドワード・ヘンリー・ハイネマン](https://ja.wikipedia.org/wiki/エド・ハイネマン "wikilink") | 製造者=[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")社 | 運用者 more=
 \*\*
 
   -   -
@@ -13,7 +13,7 @@
 
   -   - [1954年](../Page/1954年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")（F4D-1）
 
-| 生産数=422機 | 生産開始年月日= | 運用開始年月日=[1956年](../Page/1956年.md "wikilink") | 退役年月日=[1964年](../Page/1964年.md "wikilink") | 運用状況=退役 | ユニットコスト= }} **F4D スカイレイ**（*Douglas F4D Skyray* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、1950年代に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+| 生産数=422機 | 生産開始年月日= | 運用開始年月日=[1956年](../Page/1956年.md "wikilink") | 退役年月日=[1964年](../Page/1964年.md "wikilink") | 運用状況=退役 | ユニットコスト= }} **F4D スカイレイ**（*Douglas F4D Skyray* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、1950年代に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
 愛称の「**スカイレイ** (Skyray)」は、「空の[エイ](../Page/エイ.md "wikilink")」の意。後に命名法則の改正により**F-6 スカイレイ**となった。
 

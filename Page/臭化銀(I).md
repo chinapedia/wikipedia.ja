@@ -5,7 +5,7 @@
 
 ` }}`
 
-| Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **臭化銀(I)**（しゅうかぎん いち、）とは、[ハロゲン化銀](https://ja.wikipedia.org/wiki/ハロゲン化銀 "wikilink")の一種で、[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[臭化物](../Page/臭化物.md "wikilink")。[黄色](../Page/黄色.md "wikilink")の[固体](../Page/固体.md "wikilink")である。[化学式](../Page/化学式.md "wikilink") AgBr。[CAS登録番号](../Page/CAS登録番号.md "wikilink")\[7785-23-1\]。天然には[臭銀鉱](https://ja.wikipedia.org/wiki/臭銀鉱 "wikilink")（あるいは臭化銀鉱、bromargyrite）という[鉱物](../Page/鉱物.md "wikilink")として、主に[メキシコ](../Page/メキシコ.md "wikilink")などで産出される。
+| Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **臭化銀(I)**（しゅうかぎん いち、）とは、[ハロゲン化銀](https://ja.wikipedia.org/wiki/ハロゲン化銀 "wikilink")の一種で、[銀](../Page/銀.md "wikilink")の[臭化物](../Page/臭化物.md "wikilink")。[黄色](../Page/黄色.md "wikilink")の[固体](../Page/固体.md "wikilink")である。[化学式](../Page/化学式.md "wikilink") AgBr。[CAS登録番号](../Page/CAS登録番号.md "wikilink")\[7785-23-1\]。天然には[臭銀鉱](https://ja.wikipedia.org/wiki/臭銀鉱 "wikilink")（あるいは臭化銀鉱、bromargyrite）という[鉱物](../Page/鉱物.md "wikilink")として、主に[メキシコ](../Page/メキシコ.md "wikilink")などで産出される。
 
 ## 製法
 

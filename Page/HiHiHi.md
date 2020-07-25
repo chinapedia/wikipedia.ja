@@ -1,7 +1,7 @@
 > この記事は[HiHiHi](https://ja.wikipedia.org/wiki/HiHiHi)から翻訳されています。
 
 
-**HiHiHi**（ハイハイハイ）は[RKBラジオ](../Page/RKBラジオ.md "wikilink")で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[4月7日](../Page/4月7日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")（平成5年）[4月30日](../Page/4月30日.md "wikilink")までに放送された夜ワイド番組である。
+**HiHiHi**（ハイハイハイ）は[RKBラジオ](../Page/RKBラジオ.md "wikilink")で[1986年](../Page/1986年.md "wikilink")（昭和61年）[4月7日](../Page/4月7日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")（平成5年）[4月30日](../Page/4月30日.md "wikilink")までに放送された夜ワイド番組である。
 
 番組のサブタイトルは「おとなは・いけない・課外授業」。
 

@@ -1,7 +1,7 @@
 > この記事は[BOOMER](https://ja.wikipedia.org/wiki/BOOMER)から翻訳されています。
 
 
-**BOOMER**（**ブーマー**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動するフリーの[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。元[三木プロダクション](https://ja.wikipedia.org/wiki/三木プロダクション "wikilink")（元サワズカムパニー）所属。
+**BOOMER**（**ブーマー**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動するフリーの[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。元[三木プロダクション](../Page/三木プロダクション.md "wikilink")（元サワズカムパニー）所属。
 
 ## メンバー
 

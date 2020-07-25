@@ -15,7 +15,7 @@
       - [Windows XP](../Page/Microsoft_Windows_XP.md "wikilink") - [Luna](../Page/Luna.md "wikilink")
       - デスクトップテーマ - デスクトップの壁紙・アイコンなどの外観を一括して変更する機能。[Windows 95](../Page/Microsoft_Windows_95.md "wikilink") [Plus\!からXPまでに対応](../Page/Microsoft_Plus!.md "wikilink")。
   - [Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")
-  - [WindowBlinds](https://ja.wikipedia.org/wiki/WindowBlinds "wikilink")
+  - [WindowBlinds](../Page/WindowBlinds.md "wikilink")
   - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink") - テーマ または コンプリートテーマ と呼ぶ。旧名称ペルソナ(Personas)\[1\]
   - [Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink") - テーマ
   - [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink") - 従来のスキンと、Opera 12以降のテーマがある。スキンは廃止予定。

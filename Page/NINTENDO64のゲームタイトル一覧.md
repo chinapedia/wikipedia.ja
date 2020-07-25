@@ -54,7 +54,7 @@
   - 11月28日 [ファミスタ64](../Page/ファミスタ64.md "wikilink")（[ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）
   - 11月28日 [64大相撲](../Page/64大相撲.md "wikilink")（[ボトムアップ](../Page/ボトムアップ.md "wikilink")）
   - 12月5日 [トップギア・ラリー](https://ja.wikipedia.org/wiki/トップギア・ラリー "wikilink")（[コトブキシステム](../Page/コトブキシステム.md "wikilink")）
-  - 12月5日 [デュアルヒーローズ](https://ja.wikipedia.org/wiki/デュアルヒーローズ "wikilink")（ハドソン）
+  - 12月5日 [デュアルヒーローズ](../Page/デュアルヒーローズ.md "wikilink")（ハドソン）
   - 12月12日 [スノボキッズ](../Page/スノボキッズ.md "wikilink")（[アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")）
   - 12月12日 [カメレオンツイスト](../Page/カメレオンツイスト.md "wikilink")（[日本システムサプライ](../Page/日本システムサプライ.md "wikilink")）
   - 12月18日 [飛龍の拳](../Page/飛龍の拳.md "wikilink")ツイン（[カルチャーブレーン](https://ja.wikipedia.org/wiki/カルチャーブレーン "wikilink")）

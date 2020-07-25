@@ -179,7 +179,7 @@
     演：[早川純一](https://ja.wikipedia.org/wiki/早川純一 "wikilink")
     石川数正の祖父。
   - [本多平八郎忠豊](https://ja.wikipedia.org/wiki/本多忠豊 "wikilink")
-    演：[山口嘉三](https://ja.wikipedia.org/wiki/山口嘉三 "wikilink")
+    演：[山口嘉三](../Page/山口嘉三.md "wikilink")
     本多平八郎忠勝の祖父。
   - [本多平八郎忠高](../Page/本多忠高.md "wikilink")
     演：[村嶋修](https://ja.wikipedia.org/wiki/村嶋修 "wikilink")
@@ -524,7 +524,7 @@
     演：[有川博](../Page/有川博.md "wikilink")
   - [小西行長](../Page/小西行長.md "wikilink")
     演：[纓片達雄](https://ja.wikipedia.org/wiki/纓片達雄 "wikilink")
-  - [島津義弘](https://ja.wikipedia.org/wiki/島津義弘 "wikilink")
+  - [島津義弘](../Page/島津義弘.md "wikilink")
     演：[田崎潤](../Page/田崎潤.md "wikilink")
   - [島津豊久](../Page/島津豊久.md "wikilink")
     演：[片岡弘貴](https://ja.wikipedia.org/wiki/片岡弘貴 "wikilink")
@@ -553,7 +553,7 @@
   - [細川忠興](../Page/細川忠興.md "wikilink")
     演：[岩下浩](https://ja.wikipedia.org/wiki/岩下浩 "wikilink")
     細川藤孝（幽斎）の長男。
-  - [小笠原少斎](https://ja.wikipedia.org/wiki/小笠原秀清 "wikilink")
+  - [小笠原少斎](../Page/小笠原秀清.md "wikilink")
     演：※配役不明
   - [浅野幸長](../Page/浅野幸長.md "wikilink")
     演：[森田順平](../Page/森田順平.md "wikilink")

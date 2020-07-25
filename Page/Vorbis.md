@@ -92,7 +92,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
   - [MPlayer](../Page/MPlayer.md "wikilink")
   - [VLC media player](https://ja.wikipedia.org/wiki/VLC_media_player "wikilink")
   - [Xbmc](https://ja.wikipedia.org/wiki/Xbmc "wikilink")
-  - [Kaffeine](https://ja.wikipedia.org/wiki/Kaffeine "wikilink")
+  - [Kaffeine](../Page/Kaffeine.md "wikilink")
   - [xine](https://ja.wikipedia.org/wiki/xine "wikilink")
   - [QuickTime](../Page/QuickTime.md "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") - QuickTimeコンポーネント\[11\]の追加により再生可能
   - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink") - [DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink")フィルタ（[ffdshow](https://ja.wikipedia.org/wiki/ffdshow "wikilink")、公式配布のフィルタ\[12\]等の追加により再生可能

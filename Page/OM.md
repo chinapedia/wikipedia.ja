@@ -7,7 +7,7 @@
   - [オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink") - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のサッカークラブ。
   - [オム・ドゥイル](https://ja.wikipedia.org/wiki/オム・ドゥイル "wikilink") - 日本の[テコンドー](../Page/テコンドー.md "wikilink")選手。
   - [オリンパスOMシステム](../Page/オリンパスOMシステム.md "wikilink") - [オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")の35mm銀塩[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。
-  - Old Man - [アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")における、ベテランの男性アマチュア無線家。
+  - Old Man - [アマチュア無線](../Page/アマチュア無線.md "wikilink")における、ベテランの男性アマチュア無線家。
   - [メリット勲章](../Page/メリット勲章.md "wikilink")受勲者が関することのできる称号。
   - [サンリオ](../Page/サンリオ.md "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")、[おさるのもんきち](../Page/おさるのもんきち.md "wikilink") (**O**saru no **M**onkichi)
   - Outer marker - [計器着陸装置](../Page/計器着陸装置.md "wikilink")のマーカービーコン

@@ -30,7 +30,7 @@
     ボーカル、[ギター](../Page/ギター.md "wikilink")担当。最年長のメンバーで初代[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")を務めた。結成時から在籍していたが2003年末に卒業し、[2011年](../Page/2011年.md "wikilink")[8月](../Page/8月.md "wikilink")の再結成後も不参加で特に不参加の理由についても言及もされなかった。
   - [MIZUHO](../Page/MIZUHO.md "wikilink")（ミズホ）A型
     本名：斉藤瑞穂(さいとう みずほ) 生年月日：
-    ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")担当。5thシングル「[夢ノカケラ・・・](https://ja.wikipedia.org/wiki/夢ノカケラ・・・ "wikilink")」ではキーボードも担当。後に2代目リーダー。結成時から2005年の解散まで在籍していたが、2011年8月の再結成からは不参加。言及されなかったTAKAYOと違い、再結成参加を打診したが既に結婚し子供もいることと音楽から遠ざかりドラムももう叩けないことを理由に断られたことが雑誌やTVで語られている(TVでは産休のため活動休止中と扱われた)。
+    ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")担当。5thシングル「[夢ノカケラ・・・](../Page/夢ノカケラ・・・.md "wikilink")」ではキーボードも担当。後に2代目リーダー。結成時から2005年の解散まで在籍していたが、2011年8月の再結成からは不参加。言及されなかったTAKAYOと違い、再結成参加を打診したが既に結婚し子供もいることと音楽から遠ざかりドラムももう叩けないことを理由に断られたことが雑誌やTVで語られている(TVでは産休のため活動休止中と扱われた)。
   - [TOMOKA](../Page/西村朝香.md "wikilink")（トモカ）O型
     本名：西村朝香（にしむら ともか） 生年月日：
     ボーカル、ギター、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。インディーズデビュー時の最終候補の5人に入っており、外された後はソロや[RunZ](../Page/RunZ.md "wikilink")のメンバーとして活動していた。2004年にTAKAYOの後任として復帰し、[2011年](../Page/2011年.md "wikilink")[8月](../Page/8月.md "wikilink")の再結成後も在籍していたが、1度目の再結成延長期間中の同年10月に突如として体調不良を理由に脱退および[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")[引退](../Page/引退.md "wikilink")を発表し、コメントのみで即日引退した。
@@ -66,7 +66,7 @@
 
 解散までの活動期間は[CDデビュー日から数えて](../Page/コンパクトディスク.md "wikilink")4年（1515日）だった。期間中にはシングル15枚、アルバム3枚＋ベスト1枚の計19枚、ミュージックビデオ3本をリリースした。
 
-[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")にはファン投票により選出されたカップリング曲のベスト盤『[ura E 〜Complete B side Melodies〜](https://ja.wikipedia.org/wiki/ura_E_〜Complete_B_side_Melodies〜 "wikilink")』が発売された。また同年[5月24日](../Page/5月24日.md "wikilink")にはベストミュージッククリップ集のDVD『[ZONE BEST MEMORIAL CLIPS](https://ja.wikipedia.org/wiki/ZONE_BEST_MEMORIAL_CLIPS "wikilink")』も発売された。
+[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")にはファン投票により選出されたカップリング曲のベスト盤『[ura E 〜Complete B side Melodies〜](https://ja.wikipedia.org/wiki/ura_E_〜Complete_B_side_Melodies〜 "wikilink")』が発売された。また同年[5月24日](../Page/5月24日.md "wikilink")にはベストミュージッククリップ集のDVD『[ZONE BEST MEMORIAL CLIPS](../Page/ZONE_BEST_MEMORIAL_CLIPS.md "wikilink")』も発売された。
 
 ### 解散後
 
@@ -207,7 +207,7 @@
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2002年2月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/夢ノカケラ・・・" title="wikilink">夢ノカケラ・・・</a></strong></p></td>
+<td><p><strong><a href="../Page/夢ノカケラ・・・.md" title="wikilink">夢ノカケラ・・・</a></strong></p></td>
 <td><p>3位</p></td>
 <td><p>1stアルバム『Z』と同時発売。2002年『紅白歌合戦』で歌われた。<br />
 <a href="../Page/ハウス食品.md" title="wikilink">ハウス食品</a>「<a href="https://ja.wikipedia.org/wiki/フルーチェ" title="wikilink">フルーチェ</a>」CMソング。</p></td>
@@ -246,14 +246,14 @@
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2003年7月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/H・A・N・A・B・I_〜君がいた夏〜" title="wikilink">H・A・N・A・B・I 〜君がいた夏〜</a></strong></p></td>
+<td><p><strong><a href="../Page/H・A・N・A・B・I_〜君がいた夏〜.md" title="wikilink">H・A・N・A・B・I 〜君がいた夏〜</a></strong></p></td>
 <td><p>3位</p></td>
 <td><p>10万枚限定生産盤。</p></td>
 </tr>
 <tr class="even">
 <td><p>11th</p></td>
 <td><p>2003年10月29日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/僕の手紙" title="wikilink">僕の手紙</a></strong></p></td>
+<td><p><strong><a href="../Page/僕の手紙.md" title="wikilink">僕の手紙</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>』エンディングテーマ。</p></td>
 </tr>
@@ -387,9 +387,9 @@
 1.  ZONE CLIPS 01 〜Sunny Side〜（2003年10月29日）
 2.  ZONE CLIPS 02 〜Forever Side〜（2004年3月17日）
 3.  ZONE TV special DVD edition「ユメハジマッタバカリ」（2004年9月29日）
-4.  [ZONE CLIPS 03 〜2005卒業〜](https://ja.wikipedia.org/wiki/ZONE_CLIPS_03_〜2005卒業〜 "wikilink")（2005年5月18日）[UMDは](../Page/ユニバーサル・メディア・ディスク.md "wikilink")6月22日発売。
+4.  [ZONE CLIPS 03 〜2005卒業〜](../Page/ZONE_CLIPS_03_〜2005卒業〜.md "wikilink")（2005年5月18日）[UMDは](../Page/ユニバーサル・メディア・ディスク.md "wikilink")6月22日発売。
 5.  [ZONE FINAL in 日本武道館 2005/04/01 〜心を込めてありがとう〜](https://ja.wikipedia.org/wiki/ZONE_FINAL_in_日本武道館_2005/04/01_〜心を込めてありがとう〜 "wikilink")（2005年6月22日）UMDも同日発売。
-6.  [ZONE BEST MEMORIAL CLIPS](https://ja.wikipedia.org/wiki/ZONE_BEST_MEMORIAL_CLIPS "wikilink")（2006年5月24日）
+6.  [ZONE BEST MEMORIAL CLIPS](../Page/ZONE_BEST_MEMORIAL_CLIPS.md "wikilink")（2006年5月24日）
 7.  [「10年後の8月…」ZONE復活しまっSHOW\!\!〜同窓会だよ全員集合\!〜](https://ja.wikipedia.org/wiki/「10年後の8月…」ZONE復活しまっSHOW!!〜同窓会だよ全員集合!〜 "wikilink")（2011年12月21日）DVD/Blu-ray同時発売
 8.  [ZONE 7年振りツアー「2人になりましたけど…NANIKA?」](https://ja.wikipedia.org/wiki/ZONE_7年振りツアー「2人になりましたけど…NANIKA?」 "wikilink")（2012年10月10日）DVD/Blu-ray同時発売
 

@@ -132,7 +132,7 @@
 
   - [1月3日](../Page/1月3日.md "wikilink")、前年に続き後楽園ホールで全席2000円興行を開催。
   - [1月12日](../Page/1月12日.md "wikilink")と13日、大阪・[道頓堀アリーナ](https://ja.wikipedia.org/wiki/道頓堀アリーナ "wikilink")にて2DAYS興行を開催。
-  - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、ブラウザゲーム「[リング☆ドリーム 女子プロレス大戦](https://ja.wikipedia.org/wiki/リング☆ドリーム_女子プロレス大戦 "wikilink")」とのコラボレーション実施を発表。\[5\]
+  - [1月26日](../Page/1月26日.md "wikilink")、ブラウザゲーム「[リング☆ドリーム 女子プロレス大戦](https://ja.wikipedia.org/wiki/リング☆ドリーム_女子プロレス大戦 "wikilink")」とのコラボレーション実施を発表。\[5\]
   - 同月、佐々木大輔が所属選手に。佐藤光留はレギュラー契約を更新しなかったがユニオンにはフリーとして参戦する他にハードヒットも継続。
   - [2月19日](../Page/2月19日.md "wikilink")、「アップアップDDT（仮）〜[アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink") vs ほもいろクローバーZ、アイドルvsプロレス異種対バン戦Vol.1〜」を新宿FACEで開催。
   - [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、後楽園ホールを最後に柿本大地が退団。ドロップキックの店長も[木高イサミ](../Page/木高イサミ.md "wikilink")と交代となる。
@@ -141,7 +141,7 @@
   - [5月11日](../Page/5月11日.md "wikilink")、[札幌テイセンホールにてワンマッチ興行を](../Page/サッポロテイセンボウル.md "wikilink")4本立てで開催。
   - [5月25日](../Page/5月25日.md "wikilink")、[名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink")大会を開催。
   - [6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")、「DDT×[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")異種対バン路上ライブプロレス」を[浅草花やしき](../Page/浅草花やしき.md "wikilink")で開催。
-  - [6月10日](../Page/6月10日.md "wikilink")、[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")と業務提携を結んだことを発表\[7\]。
+  - [6月10日](../Page/6月10日.md "wikilink")、[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")と業務提携を結んだことを発表\[7\]。
   - [6月18日](../Page/6月18日.md "wikilink")、「故・[冬木弘道](../Page/冬木弘道.md "wikilink")13回忌メモリアル興行&[金村キンタロー](../Page/金村キンタロー.md "wikilink")デビュー25周年記念興行」に協力。DDTからは高木三四郎大社長とヤス・ウラノが参戦。
   - [6月29日](../Page/6月29日.md "wikilink")、後楽園ホール大会よりそれまでオープニングテーマとして使用されていた「INTO THE LIGHT」から、オリジナル曲の「Get Ready」に変更。
   - [7月6日](../Page/7月6日.md "wikilink")、スポルティーバアリーナで開催される「[高井AID](../Page/高井憲吾.md "wikilink")」に協力。

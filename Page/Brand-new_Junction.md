@@ -6,7 +6,7 @@
 ## 概要
 
   - 放送内容は、[中日新聞](../Page/中日新聞.md "wikilink")提供によるヘッドライン[ニュース](../Page/ニュース.md "wikilink")（[中日新聞ニュース](../Page/中日新聞ニュース.md "wikilink")）を始め、道路[交通情報](../Page/交通情報.md "wikilink")や[気象情報](../Page/天気予報.md "wikilink")・イベント情報・[駿河湾フェリーの運航情報などが主体となる](https://ja.wikipedia.org/wiki/エスパルスドリームフェリー#フェリー事業 "wikilink")。
-  - 8:00 - 8:17は、[TOKYO FM](../Page/エフエム東京.md "wikilink")「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」のコーナー3番組を内包・[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")する。
+  - 8:00 - 8:17は、[TOKYO FM](../Page/エフエム東京.md "wikilink")「[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")」のコーナー3番組を内包・[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")する。
   - [アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が[パーソナリティ並びに](../Page/ラジオパーソナリティ.md "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")業務を兼ねる[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")放送である\[1\]。
   - 放送開始当時は、K-MIXの女性アナウンサー全員が曜日毎に出演していた。
   - 2011年4月より、番組開始以来初めて男性パーソナリティが出演する。
@@ -72,7 +72,7 @@
   - 7:57 - 7:58 - **Brand-new Stock**
       -
         [東京証券取引所](../Page/東京証券取引所.md "wikilink")における前営業日の[日経平均株価](../Page/日経平均株価.md "wikilink")と[TOPIX](https://ja.wikipedia.org/wiki/TOPIX "wikilink")の終値。
-  - 8:00 - 8:18 - [Aラインネット枠](../Page/JFNラインネット番組.md "wikilink")（[中西哲生のクロノスの](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")8時台コーナー番組）
+  - 8:00 - 8:18 - [Aラインネット枠](../Page/JFNラインネット番組.md "wikilink")（[中西哲生のクロノスの](../Page/クロノス_\(ラジオ番組\).md "wikilink")8時台コーナー番組）
       - 8:00 - 8:08 - **[SUZUKI Breakfast News](https://ja.wikipedia.org/wiki/SUZUKI_Breakfast_News "wikilink")**
       - 8:09 - 8:10 - **[第一生命 武井咲「今日の一句」](https://ja.wikipedia.org/wiki/SUZUKI_Breakfast_News#第一生命_武井咲「今日の一句」 "wikilink")**
       - 8:10 - 8:18 - **[Honda Smile Mission](https://ja.wikipedia.org/wiki/Honda_Smile_Mission "wikilink")**

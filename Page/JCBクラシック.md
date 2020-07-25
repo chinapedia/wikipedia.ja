@@ -33,7 +33,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")　[羽川豊](../Page/羽川豊.md "wikilink")
   - [1984年](../Page/1984年.md "wikilink")　[井上幸一](https://ja.wikipedia.org/wiki/井上幸一 "wikilink")
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")　[デビッド・イシイ](../Page/デビッド・イシイ.md "wikilink")
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")　杉原輝雄
+  - [1986年](../Page/1986年.md "wikilink")　杉原輝雄
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")　[金井清一](https://ja.wikipedia.org/wiki/金井清一 "wikilink")
 
 <!-- end list -->

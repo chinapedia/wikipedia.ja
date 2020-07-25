@@ -811,7 +811,7 @@ J SPORTS制作分に出演の解説者には、地上波の広島戦ではビジ
   - 真鍋杏奈（2016年 - ）
   - [羽村亜美](https://ja.wikipedia.org/wiki/羽村亜美 "wikilink")（2017年 - ）
   - 竹村美緒（2018年 - ）
-  - [萬代裕子](https://ja.wikipedia.org/wiki/萬代裕子 "wikilink")（2015年のみ）
+  - [萬代裕子](../Page/萬代裕子.md "wikilink")（2015年のみ）
   - 東優花（2016年のみ）
 
 ### 実況アナウンサーの備考

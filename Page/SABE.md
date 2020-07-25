@@ -1,11 +1,11 @@
 > この記事は[SABE](https://ja.wikipedia.org/wiki/SABE)から翻訳されています。
 
 
-**SABE**（さべ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月23日](../Page/3月23日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。男性。
+**SABE**（さべ、[1968年](../Page/1968年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[新潟県](../Page/新潟県.md "wikilink")[長岡市](../Page/長岡市.md "wikilink")出身。男性。
 
 ## 来歴
 
-小学生の頃より漫画が好きで漫画家を目指していた。影響を受けたのは『[超人ロック](../Page/超人ロック.md "wikilink")』や『[銀河鉄道999](../Page/銀河鉄道999.md "wikilink")』。高校時代より同人活動を始め、卒業後上京し東京のデザイン学校に進学。在学中の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、編集者にスカウトされ、漫画家デビュー。以降、[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")雑誌で活躍。
+小学生の頃より漫画が好きで漫画家を目指していた。影響を受けたのは『[超人ロック](../Page/超人ロック.md "wikilink")』や『[銀河鉄道999](../Page/銀河鉄道999.md "wikilink")』。高校時代より同人活動を始め、卒業後上京し東京のデザイン学校に進学。在学中の[1986年](../Page/1986年.md "wikilink")、編集者にスカウトされ、漫画家デビュー。以降、[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")雑誌で活躍。
 
 2000年代中盤より[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の「[robot](https://ja.wikipedia.org/wiki/robot_\(雑誌\) "wikilink")」で『雀ロボが行く〜\!\!』、[講談社](../Page/講談社.md "wikilink")発行の「[月刊アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")」で『世界の孫』などを発表し一般漫画誌にも進出。
 

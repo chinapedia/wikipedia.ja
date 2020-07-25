@@ -1,7 +1,7 @@
 > この記事は[D-STAR](https://ja.wikipedia.org/wiki/D-STAR)から翻訳されています。
 
 
-**D-STAR**（）とは、[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")が開発した音声モードとデータモードとをもつ[デジタル](../Page/デジタル.md "wikilink")化された[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")通信網である。従来と同様の無線機同士直接の通信又は[レピータ](https://ja.wikipedia.org/wiki/レピータ "wikilink")を介した通信の他に、レピータ間の中継ができるよう設計されているなどの特徴がある。
+**D-STAR**（）とは、[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")が開発した音声モードとデータモードとをもつ[デジタル](../Page/デジタル.md "wikilink")化された[アマチュア無線](../Page/アマチュア無線.md "wikilink")通信網である。従来と同様の無線機同士直接の通信又は[レピータ](https://ja.wikipedia.org/wiki/レピータ "wikilink")を介した通信の他に、レピータ間の中継ができるよう設計されているなどの特徴がある。
 
 D-STAR方式のレピータを、ここではデジタルレピータと書く。
 
@@ -23,7 +23,7 @@ VHF・UHF帯を使用し、音声を[AMBE](https://ja.wikipedia.org/wiki/AMBE "w
 
 ## 中継
 
-デジタルレピータ局間は、5GHzまたは10GHz帯レピータアシスト局による10M[bpsの](../Page/ビット毎秒.md "wikilink")[非同期転送モード](https://ja.wikipedia.org/wiki/データ転送 "wikilink")（[ATM](../Page/Asynchronous_Transfer_Mode.md "wikilink")）回線（アシスト回線という）、もしくはレピータに接続された[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")と呼ばれる[ホストPC間の](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")[インターネット](../Page/インターネット.md "wikilink")接続により中継ができる。DDモード上の[TCP/IPについては](../Page/インターネット・プロトコル・スイート.md "wikilink")、ゲートウェイから外部の[インターネット](../Page/インターネット.md "wikilink")へも接続できる。
+デジタルレピータ局間は、5GHzまたは10GHz帯レピータアシスト局による10M[bpsの](../Page/ビット毎秒.md "wikilink")[非同期転送モード](https://ja.wikipedia.org/wiki/データ転送 "wikilink")（[ATM](../Page/Asynchronous_Transfer_Mode.md "wikilink")）回線（アシスト回線という）、もしくはレピータに接続された[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")と呼ばれる[ホストPC間の](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")[インターネット](../Page/インターネット.md "wikilink")接続により中継ができる。DDモード上の[TCP/IPについては](../Page/インターネット・プロトコル・スイート.md "wikilink")、ゲートウェイから外部の[インターネット](../Page/インターネット.md "wikilink")へも接続できる。
 
 ## 従来のアマチュア無線におけるパケット通信との互換性
 

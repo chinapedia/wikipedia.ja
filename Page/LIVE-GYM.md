@@ -193,7 +193,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 11/26 室蘭市文化センター<br />
 11/27 札幌市民会館<br />
 11/29 <a href="../Page/岩手県民会館.md" title="wikilink">岩手県民会館</a><br />
-12/03 <a href="https://ja.wikipedia.org/wiki/モリシア津田沼" title="wikilink">習志野市文化ホール</a><br />
+12/03 <a href="../Page/モリシア津田沼.md" title="wikilink">習志野市文化ホール</a><br />
 12/04 <a href="https://ja.wikipedia.org/wiki/川崎市教育文化会館" title="wikilink">川崎市教育文化会館</a><br />
 12/05 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a><br />
 12/07 青森市文化会館<br />
@@ -252,7 +252,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 06/11 大宮ソニックシティ<br />
 06/13 愛媛県県民文化会館<br />
 06/15 <a href="../Page/香川県県民ホール.md" title="wikilink">香川県県民ホール</a><br />
-06/18 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール</a><br />
+06/18 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール</a><br />
 06/20 <a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a><br />
 06/21 メルパルクホール広島<br />
 06/23 <a href="https://ja.wikipedia.org/wiki/周南市文化会館" title="wikilink">徳山市文化会館</a><br />
@@ -483,7 +483,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 02/10 川口リリアホール<br />
 02/14 倉敷市民会館<br />
 02/15 倉敷市民会館<br />
-02/17 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+02/17 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 02/18 <a href="../Page/鳥取県立県民文化会館.md" title="wikilink">鳥取県立県民文化会館</a><br />
 02/22 神戸国際会館<br />
 02/23 神戸国際会館<br />
@@ -1081,7 +1081,7 @@ Official Concert International Day</a></p></td>
 06/03 真駒内アイスアリーナ<br />
 06/04 真駒内アイスアリーナ<br />
 06/12 長野エムウェーブ<br />
-06/17 <a href="https://ja.wikipedia.org/wiki/静岡県小笠山総合運動公園アリーナ" title="wikilink">エコパアリーナ</a><br />
+06/17 <a href="../Page/静岡県小笠山総合運動公園アリーナ.md" title="wikilink">エコパアリーナ</a><br />
 06/18 エコパアリーナ<br />
 06/21 神戸ワールド記念ホール<br />
 06/22 神戸ワールド記念ホール<br />
@@ -1314,7 +1314,7 @@ Official Concert International Day</a></p></td>
 <div class="NavContent" style="text-align:left;">
 <p>07/20 <a href="../Page/石橋文化センター.md" title="wikilink">石橋文化ホール</a><br />
 07/24 <a href="https://ja.wikipedia.org/wiki/岸和田市立浪切ホール" title="wikilink">岸和田市立浪切ホール</a><br />
-07/27 <a href="https://ja.wikipedia.org/wiki/いわき芸術文化交流館アリオス" title="wikilink">いわきアリオス</a><br />
+07/27 <a href="../Page/いわき芸術文化交流館アリオス.md" title="wikilink">いわきアリオス</a><br />
 07/28 <a href="../Page/市原市市民会館.md" title="wikilink">市原市市民会館</a><br />
 07/30 <a href="../Page/まつもと市民芸術館.md" title="wikilink">まつもと市民芸術館</a><br />
 07/31 土岐市文化プラザ<br />

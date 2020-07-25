@@ -17,7 +17,7 @@
   - 7:37 押しBANG！
   - 7:55 [さきがけニュース](https://ja.wikipedia.org/wiki/さきがけABSニュース "wikilink")
   - 8:00 [話題のアンテナ 日本全国8時です](../Page/話題のアンテナ_日本全国8時です.md "wikilink")
-  - 8:25 交通情報（提供：[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink"))
+  - 8:25 交通情報（提供：[聖教新聞](../Page/聖教新聞.md "wikilink"))
   - 8:30 おはようレーダー（提供：[秋田三菱自動車](../Page/秋田三菱自動車販売.md "wikilink")）
   - 8:40 押しBANG！
   - 8:55 さきがけニュース

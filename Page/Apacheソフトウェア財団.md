@@ -65,9 +65,9 @@ ASFでは[Apache HTTP Serverだけでなく様々な](../Page/Apache_HTTP_Server
   - [Apache Cayenne](https://ja.wikipedia.org/wiki/Apache_Cayenne "wikilink") - [オブジェクトリレーショナルマッピング](https://ja.wikipedia.org/wiki/オブジェクトリレーショナルマッピング "wikilink")[フレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")
   - [Apache Cocoon](../Page/Apache_Cocoon.md "wikilink") - [XML文書と](../Page/Extensible_Markup_Language.md "wikilink")[XSLT](../Page/XSL_Transformations.md "wikilink")[スタイルシート](../Page/スタイルシート.md "wikilink")を[ウェブアプリケーションサーバ](https://ja.wikipedia.org/wiki/ウェブアプリケーションサーバ "wikilink")で処理する[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink")の、Javaのフレームワーク
   - [Apache Commons](../Page/Apache_Commons.md "wikilink") - Javaのライブラリを集めた集合体。
-      - [Apache Commons Collections](https://ja.wikipedia.org/wiki/Apache_Commons_Collections "wikilink")
+      - [Apache Commons Collections](../Page/Apache_Commons_Collections.md "wikilink")
       - [Apache Commons IO](https://ja.wikipedia.org/wiki/Apache_Commons_IO "wikilink")
-      - [Apache Commons Lang](https://ja.wikipedia.org/wiki/Apache_Commons_Lang "wikilink")
+      - [Apache Commons Lang](../Page/Apache_Commons_Lang.md "wikilink")
       - [Apache Commons Math](../Page/Apache_Commons_Math.md "wikilink")
   - [Apache Cordova](https://ja.wikipedia.org/wiki/Apache_Cordova "wikilink") - モバイルアプリケーション開発フレームワーク。[アドビシステムズ](../Page/アドビシステムズ.md "wikilink")社からソースの寄贈を受け発足。
   - [Apache DB](https://ja.wikipedia.org/wiki/Apache_DB "wikilink")

@@ -3,7 +3,7 @@
 
 **岩崎元是\&WINDY**（いわさき もとよし アンド ウィンディー）は、1980年代の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にシングル『夏の翼』が、[東レ](../Page/東レ.md "wikilink")の[CMソングに抜擢されチャートヒットを記録](../Page/コマーシャルソング.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")リリースの『まるで天使のように』も東レのCMソングに使われた。
+[1986年](../Page/1986年.md "wikilink")にシングル『夏の翼』が、[東レ](../Page/東レ.md "wikilink")の[CMソングに抜擢されチャートヒットを記録](../Page/コマーシャルソング.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")リリースの『まるで天使のように』も東レのCMソングに使われた。
 
 ## メンバー
 

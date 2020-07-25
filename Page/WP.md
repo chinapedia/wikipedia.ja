@@ -8,7 +8,7 @@
   - [リン化タングステン](https://ja.wikipedia.org/wiki/リン化タングステン "wikilink") ()
   - [ワードプロセッサ](../Page/ワードプロセッサ.md "wikilink") ()
   - ソフトウェア名
-      - [ワードパーフェクト](https://ja.wikipedia.org/wiki/WordPerfect "wikilink") () - ワープロソフト
+      - [ワードパーフェクト](../Page/WordPerfect.md "wikilink") () - ワープロソフト
       - [ワードプレス](../Page/WordPress.md "wikilink") () - CMS
       - [ウイニングポスト](../Page/ウイニングポストシリーズ.md "wikilink") () - 競馬ゲーム
       - [ウィンドウズフォン](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink") () - モバイル端末用OS

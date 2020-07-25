@@ -796,7 +796,7 @@
 
 :\# 東京03、5番6番、[EE男](../Page/EE男.md "wikilink")、パッション屋良、ピース、[ガッポリ建設](https://ja.wikipedia.org/wiki/ガッポリ建設 "wikilink")
 
-:\#: [弾丸ジャッキー](https://ja.wikipedia.org/wiki/弾丸ジャッキー "wikilink")、[狩野英孝](../Page/狩野英孝.md "wikilink")
+:\#: [弾丸ジャッキー](../Page/弾丸ジャッキー.md "wikilink")、[狩野英孝](../Page/狩野英孝.md "wikilink")
 
 :\#\* 「鎌倉ぶら～り幸せGETの旅」東京03、パッション屋良
 
@@ -808,7 +808,7 @@
 
 :\# タカアンドトシ、ザ・たっち、[ハマカーン](../Page/ハマカーン.md "wikilink")、[やまもとまさみ](../Page/やまもとまさみ.md "wikilink")、クールポコ、ビーム
 
-:\#: [アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ_\(お笑いコンビ\) "wikilink")、[HEY\!たくちゃん](../Page/HEY!たくちゃん.md "wikilink")
+:\#: [アイデンティティ](../Page/アイデンティティ_\(お笑いコンビ\).md "wikilink")、[HEY\!たくちゃん](../Page/HEY!たくちゃん.md "wikilink")
 
 :\#\* 「突撃！笑いの晩ごはん」タカアンドトシ、吉村（平成ノブシコブシ）、黒瀬（パンクブーブー）、宮地（ニブンノゴ\!）
 

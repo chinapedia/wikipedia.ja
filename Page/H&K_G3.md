@@ -195,7 +195,7 @@ G3で採用したローラーロッキング機構は、用途、[口径](../Pag
 
 ### 5.56×45mm
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HK43.jpg "wikilink") [1960年代](../Page/1960年代.md "wikilink")、G3のスケールダウンモデルとして[5.56x45mm NATO弾を使用する](../Page/5.56x45mm_NATO弾.md "wikilink")[H\&K HK33が設計された](https://ja.wikipedia.org/wiki/H&K_HK33 "wikilink")。G3と同様、HK33にも様々な派生型が存在する。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HK43.jpg "wikilink") [1960年代](../Page/1960年代.md "wikilink")、G3のスケールダウンモデルとして[5.56x45mm NATO弾を使用する](../Page/5.56x45mm_NATO弾.md "wikilink")[H\&K HK33が設計された](../Page/H&K_HK33.md "wikilink")。G3と同様、HK33にも様々な派生型が存在する。
 
 ### MP5シリーズ
 

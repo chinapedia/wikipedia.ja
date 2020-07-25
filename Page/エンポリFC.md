@@ -276,7 +276,7 @@
 
   - [ニコラ・ポッツィ](../Page/ニコラ・ポッツィ.md "wikilink") 2005-2009
 
-  - [セバスティアン・ジョヴィンコ](https://ja.wikipedia.org/wiki/セバスティアン・ジョヴィンコ "wikilink") 2007-2008
+  - [セバスティアン・ジョヴィンコ](../Page/セバスティアン・ジョヴィンコ.md "wikilink") 2007-2008
 
   - [レヴァン・ムチェドリーゼ](https://ja.wikipedia.org/wiki/レヴァン・ムチェドリーゼ "wikilink") 2008-2019
 

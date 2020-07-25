@@ -33,7 +33,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")『[マーマー](https://ja.wikipedia.org/wiki/マーマー "wikilink")』*Murmur* - 36位、[ゴールド](../Page/ゴールドディスク.md "wikilink") (US)
   - [1984年](../Page/1984年.md "wikilink")『[夢の肖像](https://ja.wikipedia.org/wiki/夢の肖像 "wikilink")』*Reckoning* - 27位、ゴールド (US)
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")『[玉手箱](https://ja.wikipedia.org/wiki/玉手箱_\(アルバム\) "wikilink")』*Fables Of The Reconstruction* - 28位、ゴールド (US)
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")『[ライフズ・リッチ・ページェント](https://ja.wikipedia.org/wiki/ライフズ・リッチ・ページェント "wikilink")』*Lifes Rich Pageant* - 21位、ゴールド (US)
+  - [1986年](../Page/1986年.md "wikilink")『[ライフズ・リッチ・ページェント](https://ja.wikipedia.org/wiki/ライフズ・リッチ・ページェント "wikilink")』*Lifes Rich Pageant* - 21位、ゴールド (US)
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")『[ドキュメント](https://ja.wikipedia.org/wiki/ドキュメント_\(アルバム\) "wikilink")』*Document* - 10位、[プラチナ](../Page/ゴールドディスク.md "wikilink") (US)
   - [1988年](../Page/1988年.md "wikilink")『[グリーン](https://ja.wikipedia.org/wiki/グリーン_\(R.E.M.のアルバム\) "wikilink")』*Green* - 12位、2xプラチナ (US)
   - [1991年](../Page/1991年.md "wikilink")『[アウト・オブ・タイム](https://ja.wikipedia.org/wiki/アウト・オブ・タイム_\(アルバム\) "wikilink")』*Out Of Time* - 1位、4xプラチナ (US)
@@ -140,7 +140,7 @@
 
 <!-- end list -->
 
-  - ミルズとベリーは高校以来の音楽仲間で、二人は[ジョージア大学](https://ja.wikipedia.org/wiki/ジョージア大学 "wikilink")に通っていた。
+  - ミルズとベリーは高校以来の音楽仲間で、二人は[ジョージア大学](../Page/ジョージア大学.md "wikilink")に通っていた。
 
 <!-- end list -->
 

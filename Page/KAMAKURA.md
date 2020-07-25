@@ -23,7 +23,7 @@
 
 ## リリース
 
-本作の発売後[ステッカーや](../Page/シール.md "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")度の[カレンダー](../Page/カレンダー.md "wikilink")などとセットになった『KAMAKURA-BOX』も発売されている。
+本作の発売後[ステッカーや](../Page/シール.md "wikilink")[1986年](../Page/1986年.md "wikilink")度の[カレンダー](../Page/カレンダー.md "wikilink")などとセットになった『KAMAKURA-BOX』も発売されている。
 
 1998年の再発盤の初回限定盤は、オリジナルLP復刻ジャケット（いわゆる紙ジャケット）仕様で、当時[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサーの[辻よしなり](../Page/辻よしなり.md "wikilink")によるライナーノーツが封入されている。
 

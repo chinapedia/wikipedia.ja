@@ -12,7 +12,7 @@
 仙台と新潟を結ぶ公共交通機関として、以前は航空路線が存在した。また、鉄道利用ではかつて直通[急行](../Page/急行列車.md "wikilink")「あさひ」（後に「べにばな」に改称）が走っていた。
 
   - 航空路線：[仙台空港](../Page/仙台空港.md "wikilink") - [新潟空港](https://ja.wikipedia.org/wiki/新潟空港 "wikilink")…フライト時間は50分程度
-      - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（1978年 - 1992年）[YS-11](../Page/YS-11.md "wikilink")（定員64人）8,850円 → [737](../Page/ボーイング737.md "wikilink")（定員126人）→ [A320](../Page/エアバスA320.md "wikilink")（定員166人）→廃止
+      - [全日本空輸](../Page/全日本空輸.md "wikilink")（1978年 - 1992年）[YS-11](../Page/YS-11.md "wikilink")（定員64人）8,850円 → [737](../Page/ボーイング737.md "wikilink")（定員126人）→ [A320](../Page/エアバスA320.md "wikilink")（定員166人）→廃止
       - [ジェイエア](../Page/ジェイエア.md "wikilink")（1986年 - 1994年）（定員19人）15,700円→廃止
   - 鉄道：[仙台駅](../Page/仙台駅.md "wikilink") - [新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")
       - 「[べにばな (列車)\#沿革](https://ja.wikipedia.org/wiki/べにばな_\(列車\)#沿革 "wikilink")」参照

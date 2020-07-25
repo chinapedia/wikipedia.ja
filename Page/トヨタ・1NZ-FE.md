@@ -1,7 +1,7 @@
 > この記事は[トヨタ・1NZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1NZ-FE)から翻訳されています。
 
 
-**1NZ-FE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の主力[エンジン](../Page/エンジン.md "wikilink")の内の一つ、[NZエンジンの内の一形式](../Page/トヨタ・NZエンジン.md "wikilink")。主な搭載車種は同社の[カローラシリーズ](../Page/トヨタ・カローラ.md "wikilink")、[プレミオ](../Page/トヨタ・プレミオ.md "wikilink")、[アリオン](../Page/トヨタ・アリオン.md "wikilink")、[ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")、[プラッツ](../Page/トヨタ・プラッツ.md "wikilink")、[オーリス](https://ja.wikipedia.org/wiki/トヨタ・オーリス "wikilink")、[シエンタ](../Page/トヨタ・シエンタ.md "wikilink")、[プロボックス](../Page/トヨタ・プロボックス.md "wikilink")、[ラクティス](../Page/トヨタ・ラクティス.md "wikilink")、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）の[トレジア](https://ja.wikipedia.org/wiki/スバル・トレジア "wikilink")、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[ファミリアバンなどと乗用車](../Page/マツダ・ファミリア.md "wikilink")、商用車問わず多くの車種に幅広く搭載されている。
+**1NZ-FE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の主力[エンジン](../Page/エンジン.md "wikilink")の内の一つ、[NZエンジンの内の一形式](../Page/トヨタ・NZエンジン.md "wikilink")。主な搭載車種は同社の[カローラシリーズ](../Page/トヨタ・カローラ.md "wikilink")、[プレミオ](../Page/トヨタ・プレミオ.md "wikilink")、[アリオン](../Page/トヨタ・アリオン.md "wikilink")、[ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")、[プラッツ](../Page/トヨタ・プラッツ.md "wikilink")、[オーリス](https://ja.wikipedia.org/wiki/トヨタ・オーリス "wikilink")、[シエンタ](../Page/トヨタ・シエンタ.md "wikilink")、[プロボックス](../Page/トヨタ・プロボックス.md "wikilink")、[ラクティス](../Page/トヨタ・ラクティス.md "wikilink")、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）の[トレジア](https://ja.wikipedia.org/wiki/スバル・トレジア "wikilink")、[マツダ](../Page/マツダ.md "wikilink")の[ファミリアバンなどと乗用車](../Page/マツダ・ファミリア.md "wikilink")、商用車問わず多くの車種に幅広く搭載されている。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 ※乗用車用に限り記述
 
   - [R系](https://ja.wikipedia.org/wiki/トヨタ・R型エンジン#R "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）→[2R系](https://ja.wikipedia.org/wiki/トヨタ・R型エンジン#2R "wikilink")（[1963年](../Page/1963年.md "wikilink")）→[1A系](https://ja.wikipedia.org/wiki/トヨタ・A型エンジン_\(2代目\)#1A系 "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）→[3A系](https://ja.wikipedia.org/wiki/トヨタ・A型エンジン_\(2代目\)#3A系 "wikilink")（[1979年](../Page/1979年.md "wikilink")）→[5A系](https://ja.wikipedia.org/wiki/トヨタ・A型エンジン_\(2代目\)#5A系 "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）→**1NZ系**（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）→M15A系（[2020年](../Page/2020年.md "wikilink")）※これより[直列3気筒](../Page/直列3気筒.md "wikilink")\[1\]
-  - [3E系](https://ja.wikipedia.org/wiki/トヨタ・E型エンジン#3E "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）→[5E系](https://ja.wikipedia.org/wiki/トヨタ・E型エンジン#5E-FE "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）→**1NZ系**（1997年）→[2NR系](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン "wikilink")\[2\]（2010年）→M15A系（2020年）※これより[直列3気筒](../Page/直列3気筒.md "wikilink")
+  - [3E系](https://ja.wikipedia.org/wiki/トヨタ・E型エンジン#3E "wikilink")（[1986年](../Page/1986年.md "wikilink")）→[5E系](https://ja.wikipedia.org/wiki/トヨタ・E型エンジン#5E-FE "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）→**1NZ系**（1997年）→[2NR系](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン "wikilink")\[2\]（2010年）→M15A系（2020年）※これより[直列3気筒](../Page/直列3気筒.md "wikilink")
 
 ## スペック
 

@@ -45,7 +45,7 @@
 
   - [めざましテレビ アクア](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") - 2014年3月31日から2018年3月30日まで放送された[フジテレビの早朝の報道](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・情報番組。
   - 　スポーツ選手
-  - 　[天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。
+  - 　[天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。
 
 ## 関連項目
 

@@ -122,7 +122,7 @@ CT32-5443</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
 <td><p>EMIミュージック・ジャパン／イーストワールド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>TOCT-95114</p></td>
 <td><p>75位</p></td>
 <td><p><a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスター</a>仕様</p></td>

@@ -47,7 +47,7 @@
   - [逆転裁判](../Page/逆転裁判.md "wikilink")事典（カプコン）
       - 逆転裁判4限定版に同梱。
   - ANAオリジナル [ご当地検定DS](../Page/ご当地検定DS.md "wikilink")（スパイク）
-      - 2007年の「[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") NIPPON2 SPRINGキャンペーン」で、キャンペーン対象の搭乗者に抽選でニンテンドーDS Lite本体と共にプレゼントされた。製品版の内容を一部変更したもの\[1\]。
+      - 2007年の「[ANA](../Page/全日本空輸.md "wikilink") NIPPON2 SPRINGキャンペーン」で、キャンペーン対象の搭乗者に抽選でニンテンドーDS Lite本体と共にプレゼントされた。製品版の内容を一部変更したもの\[1\]。
   - [LEVEL 5 PREMIUM SILVER](https://ja.wikipedia.org/wiki/LEVEL_5_PREMIUM_SILVER "wikilink")（レベルファイブ）
       - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")2007レベルファイブブースで無料配布された体験版ソフト。後に[レイトン教授と悪魔の箱](../Page/レイトン教授と悪魔の箱.md "wikilink")に同内容を収録。
   - [LEVEL 5 PREMIUM GOLD](https://ja.wikipedia.org/wiki/LEVEL_5_PREMIUM_GOLD "wikilink")（レベルファイブ）

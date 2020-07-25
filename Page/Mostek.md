@@ -9,7 +9,7 @@ Mostekの最初の契約は[バロース](../Page/バロース.md "wikilink")社
 
 最初の製品は新たに建設した[NMOS](https://ja.wikipedia.org/wiki/NMOS "wikilink")半導体工場で製造した単純なシフター回路IC **MK1001**である。 次いで 1K [DRAM](../Page/Dynamic_Random_Access_Memory.md "wikilink") **MK4006** を製造する。 Mostek は、[イオン注入](../Page/イオン注入.md "wikilink")法を Sprague Electric 社と協同開発していた。イオン注入法は集積回路の電力消費を低減すると共に電源供給回路を簡略化できる技術である（従来、+5V、+12V、-5Vの電圧供給が必要だったが、イオン注入法を使えば +5Vだけでよい）。 このため MK4006 はコンピュータで使用する際にコストを抑えることができ、その結果、ベストセラーになった。
 
-1970年、日本の電卓メーカー[ビジコン](../Page/ビジコン.md "wikilink")社は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")とMostekに新しい電卓の開発への協力を打診した。 インテルの方が素早く動いて[Intel 4004を開発し](../Page/Intel_4004.md "wikilink")、それが卓上計算機に使われた。Mostekは開発に時間がかかったが、必要な回路をワンチップ化することに成功し、**MK6010**を完成させた。ビジコンはそれを持ち運び可能な電卓 **Handy LE-120** に使用した。当時としては世界最小の電卓であった。同じく[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")もMostekのチップを使い、[HP-35](https://ja.wikipedia.org/wiki/HP-35 "wikilink")を作っている。
+1970年、日本の電卓メーカー[ビジコン](../Page/ビジコン.md "wikilink")社は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")とMostekに新しい電卓の開発への協力を打診した。 インテルの方が素早く動いて[Intel 4004を開発し](../Page/Intel_4004.md "wikilink")、それが卓上計算機に使われた。Mostekは開発に時間がかかったが、必要な回路をワンチップ化することに成功し、**MK6010**を完成させた。ビジコンはそれを持ち運び可能な電卓 **Handy LE-120** に使用した。当時としては世界最小の電卓であった。同じく[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")もMostekのチップを使い、[HP-35](../Page/HP-35.md "wikilink")を作っている。
 
 ## DRAM事業
 

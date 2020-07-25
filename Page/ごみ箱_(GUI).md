@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p>ごみ箱</p></td>
 <td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>（<a href="../Page/Linux.md" title="wikilink">Linux</a>など）</p></td>
-<td><p><a href="../Page/Konqueror.md" title="wikilink">Konqueror</a> と <a href="https://ja.wikipedia.org/wiki/Dolphin_(ファイルマネージャ)" title="wikilink">Dolphin</a></p></td>
+<td><p><a href="../Page/Konqueror.md" title="wikilink">Konqueror</a> と <a href="../Page/Dolphin_(ファイルマネージャ).md" title="wikilink">Dolphin</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ごみ箱</p></td>

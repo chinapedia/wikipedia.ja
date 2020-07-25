@@ -85,7 +85,7 @@
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関西広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MBSラジオ" title="wikilink">毎日放送</a>（MBS）</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/子守康範_朝からてんコモリ!" title="wikilink">子守康範 朝からてんコモリ!</a>』内</p></td>
+<td><p>『<a href="../Page/子守康範_朝からてんコモリ!.md" title="wikilink">子守康範 朝からてんコモリ!</a>』内</p></td>
 <td></td>
 </tr>
 <tr class="odd">

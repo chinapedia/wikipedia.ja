@@ -1,9 +1,9 @@
 > この記事は[蒼き流星SPTレイズナー](https://ja.wikipedia.org/wiki/蒼き流星SPTレイズナー)から翻訳されています。
 
 
-『**蒼き流星SPTレイズナー**』（あおきりゅうせい エスピーティー レイズナー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[10月3日](../Page/10月3日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[6月26日](../Page/6月26日.md "wikilink")まで[日本テレビほかで木曜](../Page/日本テレビ放送網.md "wikilink") 17:30 - 18:00に全38話が放送された、[日本サンライズ](https://ja.wikipedia.org/wiki/日本サンライズ "wikilink")製作の[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")（[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")）である。
+『**蒼き流星SPTレイズナー**』（あおきりゅうせい エスピーティー レイズナー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[10月3日](../Page/10月3日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")（昭和61年）[6月26日](../Page/6月26日.md "wikilink")まで[日本テレビほかで木曜](../Page/日本テレビ放送網.md "wikilink") 17:30 - 18:00に全38話が放送された、[日本サンライズ](https://ja.wikipedia.org/wiki/日本サンライズ "wikilink")製作の[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")（[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")）である。
 
-放送は当初の予定を果たせず[打ち切り](../Page/打ち切り.md "wikilink")となったが、完結編は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[OVA](../Page/OVA.md "wikilink")で発売された。
+放送は当初の予定を果たせず[打ち切り](../Page/打ち切り.md "wikilink")となったが、完結編は[1986年](../Page/1986年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[OVA](../Page/OVA.md "wikilink")で発売された。
 
 ## 概要
 
@@ -764,7 +764,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
 東芝映像ソフトから[VHS](../Page/VHS.md "wikilink")、[ベータマックス](https://ja.wikipedia.org/wiki/ベータマックス "wikilink")、[VHD](../Page/VHD.md "wikilink")で発売（[LDは](../Page/レーザーディスク.md "wikilink")[創美企画](https://ja.wikipedia.org/wiki/創美企画 "wikilink")から発売）。
 
   - ACT-I 「エイジ1996」
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")8月21日発売。
+    [1986年](../Page/1986年.md "wikilink")8月21日発売。
     第1話 - 第24話のテレビシリーズの総集編。本編後の予告には新作映像でゴステロが登場する。
   - ACT-II 「ル・カイン1999」
     1986年9月21日発売。
@@ -958,7 +958,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
 
 ## 番組終了とその後
 
-10%前後という高い平均視聴率を記録していた。しかし、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")末から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")初頭にかけて発覚した[サンヨー石油ファンヒーター一酸化炭素中毒事故により](https://ja.wikipedia.org/wiki/三洋電機#石油ファンヒーター事故 "wikilink")、2クールをもって[三洋電機](../Page/三洋電機.md "wikilink")（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）がスポンサーを降板。さらにタイアップのプラモデルの売れ行きが不振だったことも重なり、メインスポンサーの[バンダイ](../Page/バンダイ.md "wikilink")の意向で、第38話で急遽[打ち切り](../Page/打ち切り.md "wikilink")となった。公式には「元々2クールで完了の予定を4クールに延長したが、最終的には3クールまでの延長となった。従って打ち切りではない」と説明されている。なお、遅れネットした系列局では番組販売扱いで三洋電機・バンダイともスポンサーに就かなかった局もあった。
+10%前後という高い平均視聴率を記録していた。しかし、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")末から[1986年](../Page/1986年.md "wikilink")初頭にかけて発覚した[サンヨー石油ファンヒーター一酸化炭素中毒事故により](https://ja.wikipedia.org/wiki/三洋電機#石油ファンヒーター事故 "wikilink")、2クールをもって[三洋電機](../Page/三洋電機.md "wikilink")（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）がスポンサーを降板。さらにタイアップのプラモデルの売れ行きが不振だったことも重なり、メインスポンサーの[バンダイ](../Page/バンダイ.md "wikilink")の意向で、第38話で急遽[打ち切り](../Page/打ち切り.md "wikilink")となった。公式には「元々2クールで完了の予定を4クールに延長したが、最終的には3クールまでの延長となった。従って打ち切りではない」と説明されている。なお、遅れネットした系列局では番組販売扱いで三洋電機・バンダイともスポンサーに就かなかった局もあった。
 
 放送上の最終回である第38話は、打ち切り決定が最終話放送日の2週間前という急遽の決定ということもあり、途中の回を省略していきなり最終回に話が飛んだような苦肉の内容で制作された。そのため直前の37話と話の内容がつながらず、第37話で大破したはずのレイズナーは修復・改造強化されザカールと互角の戦闘を繰り広げ、開発途上だった地球側SPTも既に量産されてグラドス軍と戦闘するなどしている。
 

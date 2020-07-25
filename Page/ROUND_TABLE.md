@@ -396,7 +396,7 @@
       - 2008年6月25日発売
     <!-- end list -->
     1.  恋をしてる
-          - バラエティ番組『[うぇぶたま3](https://ja.wikipedia.org/wiki/うぇぶたま3 "wikilink")』エンディング主題歌
+          - バラエティ番組『[うぇぶたま3](../Page/うぇぶたま3.md "wikilink")』エンディング主題歌
           - 作詞：伊藤利恵子 / 作曲：北川勝利 / 編曲：北川勝利・[長谷泰宏](https://ja.wikipedia.org/wiki/長谷泰宏 "wikilink")
     2.  シンフォニー
           - テレビアニメ『ARIA The ANIMATION』挿入歌
@@ -1282,7 +1282,7 @@
 
 ### その他
 
-  - [Chappie](https://ja.wikipedia.org/wiki/Chappie "wikilink")
+  - [Chappie](../Page/Chappie.md "wikilink")
 
 <!-- end list -->
 

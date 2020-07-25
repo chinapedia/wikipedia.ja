@@ -94,7 +94,7 @@
   - [よしもとオンライン](https://ja.wikipedia.org/wiki/よしもとオンライン "wikilink")「週刊COWOO\!NEWS」（[よしもと劇場](https://ja.wikipedia.org/wiki/よしもと劇場 "wikilink")）毎週水曜日
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）ゴールドラッシュ2008ではFINAL敗退、本戦では3rdステージ敗退
   - [ジャングルTV 〜タモリの法則〜](../Page/ジャングルTV_〜タモリの法則〜.md "wikilink")（毎日放送）ジャングルクッキングにレポーター役として出演
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBS、2007年12月29日）キャッチコピーは「アットホームコメディ」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBS、2007年12月29日）キャッチコピーは「アットホームコメディ」
   - [めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、「[笑わず嫌い王決定戦](../Page/笑わず嫌い王決定戦.md "wikilink")」2008年3月8日）（「恋の中かま騒ぎ」、2008年10月25日、11月8日、2011年1月29日）（「近くへ行きたい」、2011年11月26日）
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、「チーム秒殺」として、2008年3月12日）その他不定期
   - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")（TBS、「第2回・真夏の芸人大運動会」、2008年8月12日\[前\]、2008年8月19日\[後\]）
@@ -124,7 +124,7 @@
   - [バカソウル](https://ja.wikipedia.org/wiki/バカソウル "wikilink")（テレビ東京）
   - [ざっくりハイタッチ](https://ja.wikipedia.org/wiki/ざっくりハイタッチ "wikilink")（テレビ東京、不定期）
   - [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")魔法のランプSHOW2（[2013年](../Page/2013年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")、日本テレビ）
-  - [最強銀河 究極ゼロ 〜バトルスピリッツ〜](https://ja.wikipedia.org/wiki/最強銀河_究極ゼロ_〜バトルスピリッツ〜 "wikilink")（[2014年](../Page/2014年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、善しがヨシ船長役、多田がタダ先輩役、[メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")） - 声の出演(ゲスト出演)
+  - [最強銀河 究極ゼロ 〜バトルスピリッツ〜](https://ja.wikipedia.org/wiki/最強銀河_究極ゼロ_〜バトルスピリッツ〜 "wikilink")（[2014年](../Page/2014年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、善しがヨシ船長役、多田がタダ先輩役、[メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")） - 声の出演(ゲスト出演)
   - [情報ワイド てっぺん静岡](https://ja.wikipedia.org/wiki/情報ワイド_てっぺん静岡 "wikilink")（[テレビ静岡](../Page/テレビ静岡.md "wikilink")、2013年9月-2019年6月）- 月曜「静岡あたりまえ散歩」のコーナーに出演。
 
 ほか多数

@@ -30,7 +30,7 @@ __NOTOC__ **SG**, **Sg**, **sg**
   - [SGシステム株式会社サッカー部](https://ja.wikipedia.org/wiki/SGシステム株式会社サッカー部 "wikilink")（）。2010年に現名称に改称された。
   - [三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")(Sambun Gossip)。[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")の4枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
   - [東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")で、[世田谷線を表す記号](https://ja.wikipedia.org/wiki/東急世田谷線 "wikilink")。
-  - [湘南ゴールド](https://ja.wikipedia.org/wiki/湘南ゴールド "wikilink")()柑橘類
+  - [湘南ゴールド](../Page/湘南ゴールド.md "wikilink")()柑橘類
 
 ## Sg
 

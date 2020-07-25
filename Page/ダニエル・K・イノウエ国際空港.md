@@ -41,7 +41,7 @@
 
 2018年6月から搭乗口ゲート番号表記が変更になり、「コミューター・ターミナル」跡地にハワイアン航空専用として新設予定のマウカ・コンコース（ゲートA1 - A12）は将来使用予定で未使用とし、「インター・アイランド・ターミナル」（ゲート49 - 61）が「ターミナル1」で（ゲートA13 - A20）と（ゲートB1 - B5）、「メイン・ターミナル」は「ターミナル2」でエヴァ･コンコース（ゲート26 - 34）が（ゲートC1 - C9）、セントラル･コンコース（ゲート14 - 23）が（ゲートE1 - E10）、ダイヤモンドヘッド･コンコース（ゲート6 - 11）が（ゲートG1 - G6）、各コンコースに無いゲート12､13､24､25がそれぞれゲートF2､F1､D1､D2と割り振り変更された\[6\]。
 
-メインターミナルのエヴァ･コンコースのゲート29 (C4)、34 (C9) は[エアバスA380](../Page/エアバスA380.md "wikilink")に対応している。2019年5月24日から、[ANAがA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")380の就航を開始して供用開始となった\[7\]。
+メインターミナルのエヴァ･コンコースのゲート29 (C4)、34 (C9) は[エアバスA380](../Page/エアバスA380.md "wikilink")に対応している。2019年5月24日から、[ANAがA](../Page/全日本空輸.md "wikilink")380の就航を開始して供用開始となった\[7\]。
 
 貨物機専用ターミナルは5か所の貨物エリア内に、航空会社所有と州所有の9つのターミナルビルが置かれている。各ターミナルは出発カウンターや連絡通路などの空港内の公共スペースの多くがオープンエアとなっている。
 
@@ -205,7 +205,7 @@
 <!-- end list -->
 
   - [ハワイ島](../Page/ハワイ島.md "wikilink") : [ヒロ](https://ja.wikipedia.org/wiki/ヒロ_\(ハワイ島\) "wikilink")、[カイルア・コナ](../Page/カイルア・コナ.md "wikilink")
-  - [マウイ島](../Page/マウイ島.md "wikilink") : [カフルイ](https://ja.wikipedia.org/wiki/カフルイ "wikilink")、[ラハイナ](https://ja.wikipedia.org/wiki/ラハイナ "wikilink")、[カフルイ](https://ja.wikipedia.org/wiki/カフルイ "wikilink")
+  - [マウイ島](../Page/マウイ島.md "wikilink") : [カフルイ](../Page/カフルイ.md "wikilink")、[ラハイナ](https://ja.wikipedia.org/wiki/ラハイナ "wikilink")、[カフルイ](../Page/カフルイ.md "wikilink")
   - [カウアイ島](../Page/カウアイ島.md "wikilink") : [リフエ](https://ja.wikipedia.org/wiki/リフエ "wikilink")
   - その他 : [ラナイ島](../Page/ラナイ島.md "wikilink")、[モロカイ島](../Page/モロカイ島.md "wikilink")
 
@@ -287,7 +287,7 @@
 
 [Douglas_DC-8-55,_Japan_Airlines_(JAL)_JP7316431.jpg](https://ja.wikipedia.org/wiki/File:Douglas_DC-8-55,_Japan_Airlines_\(JAL\)_JP7316431.jpg "fig:Douglas_DC-8-55,_Japan_Airlines_(JAL)_JP7316431.jpg")[DC-8](https://ja.wikipedia.org/wiki/DC-8 "wikilink")(1969年)\]\] 日本 - ホノルル線を運航していたものの撤退した航空会社は多く、古くは[英国海外航空](../Page/英国海外航空.md "wikilink")の世界一周便の一部として[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")からの直行便が[1970年代](../Page/1970年代.md "wikilink")初頭まで運航されていた他、[タイの](../Page/タイ王国.md "wikilink")[エア・サイアム](https://ja.wikipedia.org/wiki/エア・サイアム "wikilink")が運航していたこともある。開設当初から同路線のアメリカ側航空会社の主力であった[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に同社の経営状況悪化により路線をユナイテッド航空に譲渡した。
 
-その後、[1990年代](../Page/1990年代.md "wikilink")に[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")も[名古屋空港と](../Page/名古屋飛行場.md "wikilink")[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")からの直行便を運航していた他、[日本エアシステム](../Page/日本エアシステム.md "wikilink")が成田国際空港との直行便を運航していた（DC-10-30による週2便）が、いずれも撤退した。
+その後、[1990年代](../Page/1990年代.md "wikilink")に[全日本空輸](../Page/全日本空輸.md "wikilink")も[名古屋空港と](../Page/名古屋飛行場.md "wikilink")[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")からの直行便を運航していた他、[日本エアシステム](../Page/日本エアシステム.md "wikilink")が成田国際空港との直行便を運航していた（DC-10-30による週2便）が、いずれも撤退した。
 
 ユナイテッド航空（[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink"))や[コンチネンタル・ミクロネシア](../Page/コンチネンタル・ミクロネシア.md "wikilink")（成田国際空港と中部国際空港）、[ノースウエスト航空](../Page/ノースウエスト航空.md "wikilink")（[名古屋空港（当時）などの直行便も相次いで運休となった](../Page/名古屋飛行場.md "wikilink")。 過去にノースウエスト航空（運航開始当初は[ハワイアン航空](../Page/ハワイアン航空.md "wikilink")名義）及び[JALウェイズ](../Page/JALウェイズ.md "wikilink")によって[福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")との間にも直行便が運航されていたが、前者は1990年代後半に、後者は[2005年](../Page/2005年.md "wikilink")10月5日運休となった。
 

@@ -157,7 +157,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - 国語
-      - [おはなしのくに](https://ja.wikipedia.org/wiki/おはなしのくに "wikilink")
+      - [おはなしのくに](../Page/おはなしのくに.md "wikilink")
       - [おはなしのくにクラシック](https://ja.wikipedia.org/wiki/おはなしのくに#おはなしのくにクラシック "wikilink")
       - [お伝と伝じろう](https://ja.wikipedia.org/wiki/お伝と伝じろう "wikilink")
       - [ことばドリル](https://ja.wikipedia.org/wiki/ことばドリル "wikilink")
@@ -270,9 +270,9 @@
           - [ふしぎがいっぱい](https://ja.wikipedia.org/wiki/ふしぎがいっぱい "wikilink")
           - [ふしぎ情報局](https://ja.wikipedia.org/wiki/ふしぎ情報局 "wikilink")
           - [3つのとびら](../Page/3つのとびら.md "wikilink")（2003年4月9日 - 2006年3月）
-          - [データボックス しらべてサイエンス](https://ja.wikipedia.org/wiki/データボックス_しらべてサイエンス "wikilink")（2000年4月10日 - 2003年3月13日）
-          - [しらべてサイエンス](https://ja.wikipedia.org/wiki/しらべてサイエンス "wikilink")（1995年4月10日 - 2000年3月13日）
-          - [はてな・サイエンス](https://ja.wikipedia.org/wiki/はてな・サイエンス "wikilink")（1990年4月2日 - 1995年3月18日）
+          - [データボックス しらべてサイエンス](../Page/データボックス_しらべてサイエンス.md "wikilink")（2000年4月10日 - 2003年3月13日）
+          - [しらべてサイエンス](../Page/しらべてサイエンス.md "wikilink")（1995年4月10日 - 2000年3月13日）
+          - [はてな・サイエンス](../Page/はてな・サイエンス.md "wikilink")（1990年4月2日 - 1995年3月18日）
           - [理科教室小学校6年生](https://ja.wikipedia.org/wiki/理科教室小学校6年生 "wikilink")（1959年 - 1990年3月）
       - その他
           - [デジタル大図鑑](https://ja.wikipedia.org/wiki/デジタル大図鑑 "wikilink")（1999年4月 - 2002年3月）
@@ -300,8 +300,8 @@
           - [見えるぞ\!ニッポン](https://ja.wikipedia.org/wiki/見えるぞ!ニッポン "wikilink")
           - [知っトク地図帳](https://ja.wikipedia.org/wiki/知っトク地図帳 "wikilink")
           - [どきどきこどもふどき](https://ja.wikipedia.org/wiki/どきどきこどもふどき "wikilink")（2011年4月6日 - 2015年3月11日）
-          - [くらし探偵団](https://ja.wikipedia.org/wiki/くらし探偵団 "wikilink")（2002年4月9日 - 2005年3月）
-          - [くらし発見](https://ja.wikipedia.org/wiki/くらし発見 "wikilink")（1987年4月6日 - 2002年3月4日）
+          - [くらし探偵団](../Page/くらし探偵団.md "wikilink")（2002年4月9日 - 2005年3月）
+          - [くらし発見](../Page/くらし発見.md "wikilink")（1987年4月6日 - 2002年3月4日）
           - [わたしたちのくらし](../Page/わたしたちのくらし.md "wikilink")（1961年 - 1987年3月19日）
       - 5年向け
           - [どきどきこどもふどき](https://ja.wikipedia.org/wiki/どきどきこどもふどき "wikilink")（2011年4月6日 - 2015年3月11日）
@@ -309,7 +309,7 @@
           - [なぜなぜ日本](https://ja.wikipedia.org/wiki/なぜなぜ日本 "wikilink")（1997年4月8日 - 2003年3月）
           - [ジャパン&ワールド](https://ja.wikipedia.org/wiki/ジャパン&ワールド "wikilink")（1993年4月6日 - 1997年3月）
           - [リポートにっぽん](https://ja.wikipedia.org/wiki/リポートにっぽん "wikilink")（1985年4月10日 - 1993年3月）
-          - [テレビの旅](https://ja.wikipedia.org/wiki/テレビの旅 "wikilink")（1959年 - 1985年3月）
+          - [テレビの旅](../Page/テレビの旅.md "wikilink")（1959年 - 1985年3月）
       - 6年向け
           - [どきどきこどもふどき](https://ja.wikipedia.org/wiki/どきどきこどもふどき "wikilink")（2011年4月6日 - 2015年3月11日）
           - [見える歴史](https://ja.wikipedia.org/wiki/見える歴史 "wikilink")（2008年3月31日 - 2012年3月）
@@ -328,7 +328,7 @@
       - 1・2年向け
           - [ドレミノテレビ](../Page/ドレミノテレビ.md "wikilink")（2003年4月 - 2006年3月）
           - [まちかどド・レ・ミ](../Page/まちかどド・レ・ミ.md "wikilink")（1996年4月8日 - 2003年3月19日）
-          - [うたって・ゴー](https://ja.wikipedia.org/wiki/うたって・ゴー "wikilink")（1974年4月12日 - 1996年3月6日）
+          - [うたって・ゴー](../Page/うたって・ゴー.md "wikilink")（1974年4月12日 - 1996年3月6日）
           - [ワンツー・どん](../Page/ワンツー・どん.md "wikilink")（1974年4月10日 - 1996年3月4日）
       - 3年向け
           - [歌えリコーダー](https://ja.wikipedia.org/wiki/歌えリコーダー "wikilink")（2000年4月 - 2003年3月）
@@ -868,7 +868,7 @@
   - [ニュースで英会話](https://ja.wikipedia.org/wiki/ニュースで英会話 "wikilink")
   - [トラッドジャパン](https://ja.wikipedia.org/wiki/トラッドジャパン "wikilink")
   - [スーパープレゼンテーション](https://ja.wikipedia.org/wiki/スーパープレゼンテーション "wikilink")
-  - [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink")
+  - [リトル・チャロ](../Page/リトル・チャロ.md "wikilink")
 
 </div>
 

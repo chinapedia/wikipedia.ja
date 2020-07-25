@@ -119,7 +119,7 @@
   - [BLOOD+](../Page/BLOOD+.md "wikilink")
   - [ブレイク ブレイド](../Page/ブレイク_ブレイド.md "wikilink")
   - [PERSONA3 THE MOVIEシリーズ](../Page/ペルソナ3.md "wikilink")（読売広告社と共同出資）
-  - [Persona4 the ANIMATIONシリーズ](https://ja.wikipedia.org/wiki/ペルソナ4 "wikilink")（読売広告社と共同出資）
+  - [Persona4 the ANIMATIONシリーズ](../Page/ペルソナ4.md "wikilink")（読売広告社と共同出資）
   - [魔法少女まどか☆マギカ](https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカ "wikilink")シリーズ
   - [まりあ†ほりっく あらいぶ](../Page/まりあ†ほりっく.md "wikilink")
   - [ミチコとハッチン](../Page/ミチコとハッチン.md "wikilink")（読売広告社と共同出資）

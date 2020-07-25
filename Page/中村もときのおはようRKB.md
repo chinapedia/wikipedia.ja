@@ -26,11 +26,11 @@
   - 7:33 天気予報
   - 7:35 今日の数字（日産プリンス福岡販売）
   - 7:40 モーニングレーダー（[サニクリーン](https://ja.wikipedia.org/wiki/サニクリーン "wikilink")、[クボタハウス](https://ja.wikipedia.org/wiki/クボタハウス "wikilink")、[トーホーコーエイ](https://ja.wikipedia.org/wiki/トーホーコーエイ "wikilink")）
-  - 7:50 交通情報（紳士服の[フタタ](../Page/フタタ.md "wikilink")、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")オート）
+  - 7:50 交通情報（紳士服の[フタタ](../Page/フタタ.md "wikilink")、[マツダ](../Page/マツダ.md "wikilink")オート）
   - 8:00 [日本全国8時です](../Page/話題のアンテナ_日本全国8時です.md "wikilink")（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、トヨタディーラー）
   - 8:14 天気予報、ヘッドラインNOW
   - 8:15 日産グリーンタイム（[日産自動車](../Page/日産自動車.md "wikilink")グループ）、交通情報
-  - 8:35 旅はおおらか（[全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")）
+  - 8:35 旅はおおらか（[全日空](../Page/全日本空輸.md "wikilink")）
   - 8:42 原田佳子のワンポイントゴルフ（スポーツロード）
   - 8:50 天気予報、交通情報（[新出光](../Page/新出光.md "wikilink")、[ウベハウス](../Page/ウベハウス.md "wikilink")、[ニッポンレンタカー](../Page/ニッポンレンタカー.md "wikilink")）
   - 8:57 レースガイド

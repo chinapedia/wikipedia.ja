@@ -7,7 +7,7 @@
 
   - 官公庁
 
-      - [海軍捜査局](https://ja.wikipedia.org/wiki/海軍犯罪捜査局 "wikilink")  - アメリカ。現 海軍犯罪捜査局。
+      - [海軍捜査局](../Page/海軍犯罪捜査局.md "wikilink")  - アメリカ。現 海軍犯罪捜査局。
       - [大韓民国国家情報院](../Page/大韓民国国家情報院.md "wikilink")
       - [ギリシア国家情報庁](https://ja.wikipedia.org/wiki/ギリシア国家情報庁 "wikilink")
       - [ノルウェー情報部](https://ja.wikipedia.org/wiki/ノルウェー情報部 "wikilink")

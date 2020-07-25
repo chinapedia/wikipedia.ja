@@ -21,7 +21,7 @@
 
   - [ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [ポンキッキーズ21](../Page/ポンキッキーズ21.md "wikilink")（フジテレビ系）
-  - [Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）
+  - [Beポンキッキ](../Page/Beポンキッキ.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）
 
 ## 外部リンク
 

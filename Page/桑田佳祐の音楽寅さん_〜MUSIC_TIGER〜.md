@@ -9,7 +9,7 @@
 
 第1期は[2000年](../Page/2000年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")にレギュラー放送を開始し、[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで25回（全24回+1回という扱い）が放送。桑田の本業である[ミュージシャン活動に差し支えない範囲で番組を継続するのは](https://ja.wikipedia.org/wiki/音楽家 "wikilink")「半年間が限界」との意向から、放送回数が**全24回**（2[クール](../Page/クール_\(放送\).md "wikilink")）と決められた上で、オープニングでは毎週「STAGE ○○（累積放送回数）/24（全放送回数）」と残り放送回数が告知されるという、バラエティー番組としては珍しい形を取った。また、ユースケに関してはスケジュールの都合で出演時間が少なくなった回がいくつか存在している。
 
-当初テレビ情報誌などでは「**桑田がホストを務め、毎回ゲストを呼ぶトークバラエティ**」などと告知がされていたが、実際は固定されたテーマが無く、ライブ演奏が中心の回やスタジオ[コント](../Page/コント.md "wikilink")が中心の回、シナリオに沿ったドラマ仕立ての企画が中心の回、[ロケーション撮影](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")が中心の回であったりと様々で、桑田の「**目立ちたがり屋の芸人**」\[1\]としての側面が垣間見えるものであった。番組内ではコントめいたやり取りや適当で的外れな発言をしたり、下ネタや「内輪受け」的ノリもあったものの、1回の平均視聴率が9%〜10%と好調であった。また、演出や番組内で発した冗談が時折誤解や批判を生んだ事もあった。
+当初テレビ情報誌などでは「**桑田がホストを務め、毎回ゲストを呼ぶトークバラエティ**」などと告知がされていたが、実際は固定されたテーマが無く、ライブ演奏が中心の回やスタジオ[コント](../Page/コント.md "wikilink")が中心の回、シナリオに沿ったドラマ仕立ての企画が中心の回、[ロケーション撮影](../Page/ロケーション撮影.md "wikilink")が中心の回であったりと様々で、桑田の「**目立ちたがり屋の芸人**」\[1\]としての側面が垣間見えるものであった。番組内ではコントめいたやり取りや適当で的外れな発言をしたり、下ネタや「内輪受け」的ノリもあったものの、1回の平均視聴率が9%〜10%と好調であった。また、演出や番組内で発した冗談が時折誤解や批判を生んだ事もあった。
 
 [2009年](../Page/2009年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")からは番組タイトル・出演者も同じく第2期が放送開始された（当初は**当番組を踏襲した形の新番組**という位置付けで、**タイトル未定**としてテレビ情報誌などに掲載された）。今回も9月までの半年間限定で放送が行われた。この他、レギュラー放送を行っていない期間もサザンオールスターズ・桑田自身の活動に平行する形で、[2003年](../Page/2003年.md "wikilink")・[2006年](../Page/2006年.md "wikilink")・[2012年](../Page/2012年.md "wikilink")に単発のスペシャル番組が放映された。
 
@@ -169,7 +169,7 @@
 
 1.  [プカプカ](https://ja.wikipedia.org/wiki/プカプカ "wikilink")（[西岡恭蔵](../Page/西岡恭蔵.md "wikilink")）
 2.  [サルビアの花](https://ja.wikipedia.org/wiki/サルビアの花 "wikilink")（[早川義夫](../Page/早川義夫.md "wikilink")）
-3.  [サボテンの花](../Page/サボテンの花_\(曲\).md "wikilink")（[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")）
+3.  [サボテンの花](../Page/サボテンの花_\(曲\).md "wikilink")（[チューリップ](../Page/チューリップ_\(バンド\).md "wikilink")）
 4.  [竹田の子守唄](../Page/竹田の子守唄.md "wikilink")（[赤い鳥](https://ja.wikipedia.org/wiki/赤い鳥_\(フォークグループ\) "wikilink")）
 
 ### STAGE 13 2000年サザン三部作一挙公開
@@ -199,7 +199,7 @@
 
 [Kamakura_Budda_Daibutsu_front_1885.jpg](https://ja.wikipedia.org/wiki/File:Kamakura_Budda_Daibutsu_front_1885.jpg "fig:Kamakura_Budda_Daibutsu_front_1885.jpg")
 
-  - 2001年[1月19日](../Page/1月19日.md "wikilink")・[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")放送
+  - 2001年[1月19日](../Page/1月19日.md "wikilink")・[1月26日](../Page/1月26日.md "wikilink")放送
 
 桑田のファンであり、携帯の着メロが「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」であるという[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")と鎌倉で疑似デートをする企画。[建長寺](../Page/建長寺.md "wikilink")・[銭洗弁財天宇賀福神社](https://ja.wikipedia.org/wiki/銭洗弁財天宇賀福神社 "wikilink")・くずきり みのわ・[高徳院](../Page/高徳院.md "wikilink")・[長谷寺](../Page/長谷寺_\(鎌倉市\).md "wikilink")・宮代商店・逗子ボウル・[由比ヶ浜](../Page/由比ヶ浜.md "wikilink")を訪れた。
 
@@ -278,11 +278,11 @@
         ゲストは[木梨憲武](../Page/木梨憲武.md "wikilink")（北島の物真似）。この曲のみバンドメンバーは、桑田（ボーカル・ギター）、斎藤誠（ギター）、片山敦夫（キーボード）、角田俊介（ベース）、高尾俊行（ドラムス）、清水美恵（コーラス）、安奈陽子（コーラス）。
         この曲は後に[とんねるず](../Page/とんねるず.md "wikilink")が司会を務め、[2012年](../Page/2012年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に放送された『[とんねるずが生放送\!音楽番組全部見せます\!\!-名曲で元気になろう-](https://ja.wikipedia.org/wiki/とんねるずが生放送!音楽番組全部見せます!!-名曲で元気になろう- "wikilink")』の「伝説の共演100選」のコーナーで**桑田佳祐×木梨憲武**名義、楽曲名も原曲の『Layla』『与作』として放送された。
 
-### STAGE 21 寅さん[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で誕生会 初体験\!お茶屋遊び
+### STAGE 21 寅さん[京都](../Page/京都.md "wikilink")で誕生会 初体験\!お茶屋遊び
 
   - 2001年[3月2日](../Page/3月2日.md "wikilink")放送
 
-この回の収録日が2月26日で、桑田の45回目の誕生日だった事を記念して行われた企画。かねてから桑田が著書などで「好きなんです」と述べていた[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")でロケを敢行した\[14\]。
+この回の収録日が2月26日で、桑田の45回目の誕生日だった事を記念して行われた企画。かねてから桑田が著書などで「好きなんです」と述べていた[京都](../Page/京都.md "wikilink")でロケを敢行した\[14\]。
 
   - 演奏曲
 
@@ -408,7 +408,7 @@
 
   - 2009年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送
 
-[ビートルズ](../Page/ビートルズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[Abbey Road](../Page/アビイ・ロード.md "wikilink")』に収録された楽曲へ日本語の空耳歌詞を当てて、メドレー形式で演奏するという企画。歌詞は2009年当時の日本の政治・経済を桑田なりのユーモアを交えて風刺したものとなっている。アルバム名は『アベー・ロード』。[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")をもじったタイトルではあるが、この企画が制作・放送された頃は[麻生太郎政権下であった](https://ja.wikipedia.org/wiki/麻生内閣 "wikilink")。
+[ビートルズ](../Page/ビートルズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[Abbey Road](../Page/アビイ・ロード.md "wikilink")』に収録された楽曲へ日本語の空耳歌詞を当てて、メドレー形式で演奏するという企画。歌詞は2009年当時の日本の政治・経済を桑田なりのユーモアを交えて風刺したものとなっている。アルバム名は『アベー・ロード』。[安倍晋三](../Page/安倍晋三.md "wikilink")をもじったタイトルではあるが、この企画が制作・放送された頃は[麻生太郎政権下であった](https://ja.wikipedia.org/wiki/麻生内閣 "wikilink")。
 
 この回から番組タイトルロゴの右上に「あいなめ」の文字が付け加えられた。書体は「あいのり」のタイトルロゴに似せたものを使用している。また、DVDでは権利上の問題により収録されておらず、『100ページブックレット「音楽寅の巻」』に歌詞が収録された。
 
@@ -433,7 +433,7 @@
 13. 「死刑」にするも「罰する」も非道\!? - （[She Came In Through The Bathroom Window](../Page/シー・ケイム・イン・スルー・ザ・バスルーム・ウィンドー.md "wikilink")） - 11に続き裁判員制度
 14. 公然知らんばい(Bye)\!? - （[Golden Slumbers](../Page/ゴールデン・スランバー.md "wikilink")） - [閣僚](https://ja.wikipedia.org/wiki/閣僚 "wikilink")の辞任
 15. 借金(かり)が増え\!\!（[Carry That Weight](../Page/キャリー・ザット・ウェイト.md "wikilink")） - [日本国債](../Page/日本国債.md "wikilink")、[世界金融危機](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")
-16. 次年度 - （[The End](../Page/ジ・エンド_\(ビートルズの曲\).md "wikilink")） - [第1次安倍内閣](../Page/第1次安倍内閣_\(改造\).md "wikilink")\[21\]　[ザ・ニュースペーパー](../Page/ザ・ニュースペーパー.md "wikilink")の福本ヒデが[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")に扮して出演している。
+16. 次年度 - （[The End](../Page/ジ・エンド_\(ビートルズの曲\).md "wikilink")） - [第1次安倍内閣](../Page/第1次安倍内閣_\(改造\).md "wikilink")\[21\]　[ザ・ニュースペーパー](../Page/ザ・ニュースペーパー.md "wikilink")の福本ヒデが[安倍晋三](../Page/安倍晋三.md "wikilink")に扮して出演している。
 
 <!-- end list -->
 
@@ -640,7 +640,7 @@
 14. [SAKURA](../Page/SAKURA_\(いきものがかりの曲\).md "wikilink")（[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、2006年）
 15. [閃光少女](../Page/閃光少女.md "wikilink")（[東京事変](../Page/東京事変.md "wikilink")、2007年）
 16. [LIFE is... 〜another story〜](../Page/LIFE_is..._〜another_story〜.md "wikilink")（[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、2003年）
-17. [地上の星](https://ja.wikipedia.org/wiki/地上の星 "wikilink")（[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、2000年）
+17. [地上の星](https://ja.wikipedia.org/wiki/地上の星 "wikilink")（[中島みゆき](../Page/中島みゆき.md "wikilink")、2000年）
 18. [タイガー&ドラゴン](https://ja.wikipedia.org/wiki/タイガー&ドラゴン_\(曲\) "wikilink")（[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")、2002年）
 19. [アシンメトリー](../Page/アシンメトリー_\(スガシカオの曲\).md "wikilink")（[スガシカオ](../Page/スガシカオ.md "wikilink")、2002年）
 20. [ワダツミの木](../Page/ワダツミの木.md "wikilink")（[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")、2002年）
@@ -941,7 +941,7 @@
 
 #### サザンオールスターズ SPECIAL LIVE in 建長寺
 
-[Kenchoji_Sanmon_2009.jpg](https://ja.wikipedia.org/wiki/File:Kenchoji_Sanmon_2009.jpg "fig:Kenchoji_Sanmon_2009.jpg") [建長寺](../Page/建長寺.md "wikilink")で行われたサザンオールスターズのライブを放送。放送では前述のバー「南ちゃん」のコントとつなげる形で、ユースケが閉店後の店を飛び出して鎌倉に向かい、「いざ、鎌倉\!\!」と叫んで和太鼓を叩くと、その音につられる形で専業主婦に扮した[原由子](../Page/原由子.md "wikilink")、タクシー運転手に扮した[松田弘](../Page/松田弘.md "wikilink")、土木作業員に扮した[関口和之](../Page/関口和之.md "wikilink")、やり手社長に扮した[野沢秀行](../Page/野沢秀行.md "wikilink")、たこ焼き職人に扮した桑田、傘張り職人に扮した[小倉博和](../Page/小倉博和.md "wikilink")が、それぞれの移動手段(原は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")、松田は[タクシー](../Page/タクシー.md "wikilink")、関口は[原付バイク](https://ja.wikipedia.org/wiki/原付バイク "wikilink")、桑田は[馬](https://ja.wikipedia.org/wiki/馬 "wikilink"))で鎌倉に向かうコントが放送され、前述の記者会見の会場の壁が開く形でライブがスタートするという演出を行った。なお、野沢秀行に関しては「鎌倉」を「[キャバクラ](https://ja.wikipedia.org/wiki/キャバクラ "wikilink")」と聞き間違えてキャバ嬢と遊び、ライブには参加しないというオチとなった(当時野沢は持病の[ヘルニア](https://ja.wikipedia.org/wiki/ヘルニア "wikilink")でライブを休むことが多かったため、そうした演出を行った)。
+[Kenchoji_Sanmon_2009.jpg](https://ja.wikipedia.org/wiki/File:Kenchoji_Sanmon_2009.jpg "fig:Kenchoji_Sanmon_2009.jpg") [建長寺](../Page/建長寺.md "wikilink")で行われたサザンオールスターズのライブを放送。放送では前述のバー「南ちゃん」のコントとつなげる形で、ユースケが閉店後の店を飛び出して鎌倉に向かい、「いざ、鎌倉\!\!」と叫んで和太鼓を叩くと、その音につられる形で専業主婦に扮した[原由子](../Page/原由子.md "wikilink")、タクシー運転手に扮した[松田弘](../Page/松田弘.md "wikilink")、土木作業員に扮した[関口和之](../Page/関口和之.md "wikilink")、やり手社長に扮した[野沢秀行](../Page/野沢秀行.md "wikilink")、たこ焼き職人に扮した桑田、傘張り職人に扮した[小倉博和](../Page/小倉博和.md "wikilink")が、それぞれの移動手段(原は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")、松田は[タクシー](../Page/タクシー.md "wikilink")、関口は[原付バイク](https://ja.wikipedia.org/wiki/原付バイク "wikilink")、桑田は[馬](https://ja.wikipedia.org/wiki/馬 "wikilink"))で鎌倉に向かうコントが放送され、前述の記者会見の会場の壁が開く形でライブがスタートするという演出を行った。なお、野沢秀行に関しては「鎌倉」を「[キャバクラ](../Page/キャバクラ.md "wikilink")」と聞き間違えてキャバ嬢と遊び、ライブには参加しないというオチとなった(当時野沢は持病の[ヘルニア](https://ja.wikipedia.org/wiki/ヘルニア "wikilink")でライブを休むことが多かったため、そうした演出を行った)。
 
   - 演奏曲
 
@@ -1120,7 +1120,7 @@ DVD-BOX発売記念の[\#第2期（本放送）](https://ja.wikipedia.org/wiki/#
 18. ユースケの本名は「中山祐介」。
 19. 『[MUSICMAN](https://ja.wikipedia.org/wiki/MUSICMAN_\(桑田佳祐のアルバム\) "wikilink")』初回限定盤付録『MUSIC MANS NOTE』p38より。
 20. [桑田佳祐「アベーロード」が話題　ビートルズの空耳で政治風刺](https://www.huffingtonpost.jp/2015/01/04/keisuke-kuwata-abe-road_n_6414512.html)2015年01月06日 ハフポスト日本版
-21. 後年[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")は[サザンの年越しライブに](https://ja.wikipedia.org/wiki/ひつじだよ!_全員集合!#安倍首相来場 "wikilink")[昭恵夫人とともに来場し話題となった](../Page/安倍昭恵.md "wikilink")。
+21. 後年[安倍晋三](../Page/安倍晋三.md "wikilink")は[サザンの年越しライブに](https://ja.wikipedia.org/wiki/ひつじだよ!_全員集合!#安倍首相来場 "wikilink")[昭恵夫人とともに来場し話題となった](../Page/安倍昭恵.md "wikilink")。
 22. 『産経新聞』平成21年（2009年）6月12日付大阪本社夕刊10面。
 23.
 24.

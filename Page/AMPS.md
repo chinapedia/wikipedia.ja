@@ -1,7 +1,7 @@
 > この記事は[AMPS](https://ja.wikipedia.org/wiki/AMPS)から翻訳されています。
 
 
-**AMPS**（Advanced Mobile Phone System）は、[FDD](https://ja.wikipedia.org/wiki/周波数分割複信 "wikilink")-[FDMA](https://ja.wikipedia.org/wiki/周波数分割多元接続 "wikilink")-[FMの](../Page/周波数変調.md "wikilink")[アナログ](../Page/アナログ.md "wikilink")方式の[第一世代携帯電話](https://ja.wikipedia.org/wiki/第一世代携帯電話 "wikilink")方式の一つである。
+**AMPS**（Advanced Mobile Phone System）は、[FDD](https://ja.wikipedia.org/wiki/周波数分割複信 "wikilink")-[FDMA](../Page/周波数分割多元接続.md "wikilink")-[FMの](../Page/周波数変調.md "wikilink")[アナログ](../Page/アナログ.md "wikilink")方式の[第一世代携帯電話](https://ja.wikipedia.org/wiki/第一世代携帯電話 "wikilink")方式の一つである。
 
 ## 概要
 

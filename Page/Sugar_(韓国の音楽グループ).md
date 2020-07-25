@@ -21,7 +21,7 @@
       - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
       - 特技は[バドミントン](../Page/バドミントン.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
       - [韓国](../Page/大韓民国.md "wikilink")1集時には**Sae Byul**（セビョル、<span lang="ko">새별</span>）の名で活動した。
-      - Sugar解散後、**ハン・イェウォン**(<span lang="ko">한예원</span>)に名を変更して女優転身。ドラマ「[オンエアー](https://ja.wikipedia.org/wiki/オンエアー_\(テレビドラマ\) "wikilink")」などに出演。
+      - Sugar解散後、**ハン・イェウォン**(<span lang="ko">한예원</span>)に名を変更して女優転身。ドラマ「[オンエアー](../Page/オンエアー_\(テレビドラマ\).md "wikilink")」などに出演。
 
 <!-- end list -->
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[10月1日](../Page/10月1日.md "wikilink")：[第一音響](https://ja.wikipedia.org/wiki/第一音響 "wikilink")から派生。
+  - [1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[10月1日](../Page/10月1日.md "wikilink")：[第一音響](https://ja.wikipedia.org/wiki/第一音響 "wikilink")から派生。
   - 社名は設立メンバーが4人だったことから。
 
 ## 所属スタッフ

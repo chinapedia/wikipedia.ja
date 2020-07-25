@@ -427,7 +427,7 @@ FCポルトのライバルは[ベンフィカと](../Page/SLベンフィカ.md "
 
   - [パウロ・サントス](../Page/パウロ・サントス.md "wikilink")
 
-  - [イビツァ・クラリ](https://ja.wikipedia.org/wiki/イビツァ・クラリ "wikilink")
+  - [イビツァ・クラリ](../Page/イビツァ・クラリ.md "wikilink")
 
   - [エンリケ・イラーリオ](../Page/エンリケ・イラーリオ.md "wikilink")
 

@@ -28,7 +28,7 @@ USエアウェイズ便は慣習で「サボテン (CACTUS)」と呼ばれる。
 ## 歴史
 
   - 1979年 : [アレゲニー航空](https://ja.wikipedia.org/wiki/アレゲニー航空 "wikilink")がUSエアー（USAir）へ社名を変更。
-  - 1987年 : USエアーが[ピードモント航空](https://ja.wikipedia.org/wiki/ピードモント航空 "wikilink")、[パシフィック・サウスウエスト航空](https://ja.wikipedia.org/wiki/パシフィック・サウスウエスト航空 "wikilink")と合併。
+  - 1987年 : USエアーが[ピードモント航空](../Page/ピードモント航空.md "wikilink")、[パシフィック・サウスウエスト航空](https://ja.wikipedia.org/wiki/パシフィック・サウスウエスト航空 "wikilink")と合併。
   - 1997年 : USエアウェイズに社名変更。
   - 2002年8月11日 : [アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")の影響で、[連邦倒産法第11章](../Page/連邦倒産法第11章.md "wikilink")の適用を受ける。
   - 2004年5月4日 : [スターアライアンス](../Page/スターアライアンス.md "wikilink")に加盟。
@@ -453,7 +453,7 @@ USエアウェイズ便は慣習で「サボテン (CACTUS)」と呼ばれる。
 
 ### 2012年4月以前の保有機材
 
-[PSAや](https://ja.wikipedia.org/wiki/パシフィック・サウスウエスト航空 "wikilink")[ピードモント航空](https://ja.wikipedia.org/wiki/ピードモント航空 "wikilink")と合併した際に、USエアウェイズが所有することとなった機体の一部は、元の航空会社の塗装に、「USAir」とだけ描いて運用に入れることもあった。
+[PSAや](https://ja.wikipedia.org/wiki/パシフィック・サウスウエスト航空 "wikilink")[ピードモント航空](../Page/ピードモント航空.md "wikilink")と合併した際に、USエアウェイズが所有することとなった機体の一部は、元の航空会社の塗装に、「USAir」とだけ描いて運用に入れることもあった。
 
   - [BAe146-200](../Page/BAe_146.md "wikilink")
   - [ダグラス DC-3](../Page/ダグラス_DC-3.md "wikilink")
@@ -515,7 +515,7 @@ USエアウェイズとUSエアーに関する事故
 ## 関連項目
 
   - [アレゲニー航空](https://ja.wikipedia.org/wiki/アレゲニー航空 "wikilink") （前身の一つ）
-  - [ピードモント航空](https://ja.wikipedia.org/wiki/ピードモント航空 "wikilink") （同上）
+  - [ピードモント航空](../Page/ピードモント航空.md "wikilink") （同上）
   - [パシフィック・サウスウエスト航空](https://ja.wikipedia.org/wiki/パシフィック・サウスウエスト航空 "wikilink") （同上）
   - [アメリカウエスト航空](../Page/アメリカウエスト航空.md "wikilink") （同上）
   - [シャトル便](../Page/シャトル便.md "wikilink")

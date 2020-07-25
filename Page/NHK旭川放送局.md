@@ -161,7 +161,7 @@
   - [1977年](../Page/1977年.md "wikilink")（昭和52年）[10月20日](../Page/10月20日.md "wikilink") FMステレオ放送設備完成。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[11月23日](../Page/11月23日.md "wikilink") 中波チャンネルプラン変更。
   - [1979年](../Page/1979年.md "wikilink")（昭和54年）6月 コンピュータによる運行装置の運用開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）8月 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）8月 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[3月21日](../Page/3月21日.md "wikilink") 教育テレビジョン音声多重放送全国同時開始。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[10月1日](../Page/10月1日.md "wikilink") 旭川（旭山）と和寒中継局で地上デジタル放送開始。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") アナログ放送終了。

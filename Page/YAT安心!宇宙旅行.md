@@ -191,7 +191,7 @@
 
   - 第1期
 
-:;オープニングテーマ「[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink")」
+:;オープニングテーマ「[HEAVEN](../Page/HEAVEN_\(HIMの曲\).md "wikilink")」
 
 ::唄 - [HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")
 

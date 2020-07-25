@@ -52,7 +52,7 @@
   - 6月「nowhere man」／[The Kaleidoscope](../Page/The_Kaleidoscope.md "wikilink")
   - 7月「[Amazing Kiss](../Page/Amazing_Kiss.md "wikilink")」／[BoA](../Page/BoA.md "wikilink")
   - 8月「進行形」／[HEADS](https://ja.wikipedia.org/wiki/HEADS "wikilink")
-  - 9月「[センチメント・エキスプレス](https://ja.wikipedia.org/wiki/センチメント・エキスプレス "wikilink")」／[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
+  - 9月「[センチメント・エキスプレス](../Page/センチメント・エキスプレス.md "wikilink")」／[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
   - 10月「[僕の行方](../Page/僕の行方.md "wikilink")」／[キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")
   - 11月「[青い青いこの地球に](../Page/青い青いこの地球に.md "wikilink")」／[上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")
   - 12月「どんまいどんまい」／[素一](https://ja.wikipedia.org/wiki/素一 "wikilink")
@@ -99,7 +99,7 @@
   - 8月「青春キネマ」／[CHABA](../Page/CHABA.md "wikilink")
   - 9月「その先に霞んでいる」／[サザーランド](../Page/サザーランド_\(バンド\).md "wikilink")
   - 10月「[赤黄色の金木犀](https://ja.wikipedia.org/wiki/赤黄色の金木犀 "wikilink")」／[フジファブリック](../Page/フジファブリック.md "wikilink")
-  - 11月「アイコトバ」／[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - 11月「アイコトバ」／[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - 12月「冬色ガール」／[スムルース](../Page/スムルース.md "wikilink")
 
 ### 2005年（平成17年）

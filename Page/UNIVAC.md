@@ -30,7 +30,7 @@ UNIVAC Iは、[1952年アメリカ合衆国大統領選挙](https://ja.wikipedia
       - **UNIVAC III**（[1962年](../Page/1962年.md "wikilink")）: UNIVAC I および II の後継機。二進数マシンだが、十進方式の従来機種との互換性も保持していた。
   - **UNIVAC Solid State** は2アドレス式の二進化十進式コンピュータ。主記憶装置は[磁気ドラムメモリ](../Page/磁気ドラムメモリ.md "wikilink")。半導体を使用している。
   - 初期の UNIVAC 110x [真空管](../Page/真空管.md "wikilink")コンピュータ
-      - **[UNIVAC 1101](https://ja.wikipedia.org/wiki/UNIVAC_1101 "wikilink")**、または **ERA 1101**: Engineering Research Associates (ERA) の設計。24ビットマシンで、磁気ドラムメモリを使用。
+      - **[UNIVAC 1101](../Page/UNIVAC_1101.md "wikilink")**、または **ERA 1101**: Engineering Research Associates (ERA) の設計。24ビットマシンで、磁気ドラムメモリを使用。
       - **UNIVAC 1102**、または **ERA 1102**: ERAが[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")のために開発。
       - [UNIVAC 1103](../Page/UNIVAC_1103.md "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）: 1101の後継機。36ビット機。磁気ドラムメモリと[ウィリアムス管](https://ja.wikipedia.org/wiki/ウィリアムス管 "wikilink")をメモリとして使用。改良版の**1103A**（1956年）もある（磁気コアメモリを使った最初のマシンの1つ）。
       - **UNIVAC 1104**（[1957年](../Page/1957年.md "wikilink")）: 1103の30ビット版。[ボマークミサイルの制御システムを開発していた](../Page/ボマーク_\(ミサイル\).md "wikilink")[ウェスティングハウス・エレクトリック](../Page/ウェスティングハウス・エレクトリック.md "wikilink")向けに開発。しかし、ボマークが[1960年代](../Page/1960年代.md "wikilink")に実際に配備されたときには、もっと新しいコンピュータに置き換えられていた。
@@ -66,7 +66,7 @@ UNIVAC Iは、[1952年アメリカ合衆国大統領選挙](https://ja.wikipedia
 
 ## 特撮とUNIVAC
 
-『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』の[ウルトラ警備隊](../Page/ウルトラ警備隊.md "wikilink")のシーンでしばしばUNIVACのコンピュータが登場した。もっとも登場したのはマシン本体ではなくMT装置のみであった。 [紙テープ](../Page/紙テープ.md "wikilink")が出力され、それを人間が直接読むというシーンがある。UNIVACのライバルの[IBM](../Page/IBM.md "wikilink")のコンピュータでは入出力は一般に紙テープではなく[パンチカード](../Page/パンチカード.md "wikilink")であった。
+『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』の[ウルトラ警備隊](../Page/ウルトラ警備隊.md "wikilink")のシーンでしばしばUNIVACのコンピュータが登場した。もっとも登場したのはマシン本体ではなくMT装置のみであった。 [紙テープ](../Page/紙テープ.md "wikilink")が出力され、それを人間が直接読むというシーンがある。UNIVACのライバルの[IBM](../Page/IBM.md "wikilink")のコンピュータでは入出力は一般に紙テープではなく[パンチカード](../Page/パンチカード.md "wikilink")であった。
 
 ## 登録商標
 

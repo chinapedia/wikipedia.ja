@@ -2665,7 +2665,7 @@ AVXD-92307</p></td>
 5月3日 <a href="../Page/アルカスSASEBO.md" title="wikilink">アルカスSASEBO</a><br />
 5月6日 <a href="../Page/大分県立総合文化センター.md" title="wikilink">大分 iichikoグランシアタ</a><br />
 5月12日 <a href="../Page/鳥取県立県民文化会館.md" title="wikilink">鳥取 とりぎん文化会館（梨花ホール）</a><br />
-5月13日 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+5月13日 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 5月20日 <a href="../Page/八王子市民会館.md" title="wikilink">オリンパスホール八王子</a><br />
 5月23日 <a href="../Page/札幌市民ホール.md" title="wikilink">札幌市民ホール</a><br />
 5月24日 札幌市民ホール<br />
@@ -2733,7 +2733,7 @@ AVXD-92307</p></td>
 6月29日 <a href="https://ja.wikipedia.org/wiki/米子コンベンションセンター" title="wikilink">米子コンベンションセンター SHiP</a>BiG<br />
 6月30日 <a href="../Page/香川県県民ホール.md" title="wikilink">高松 アルファあなぶきホール</a><br />
 7月6日 倉敷市民会館<br />
-7月7日 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール オレンジホール</a><br />
+7月7日 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール オレンジホール</a><br />
 7月14日 神戸国際会館こくさいホール<br />
 7月20日 富山オーバード・ホール<br />
 7月21日 ホクト文化ホール<br />
@@ -2781,7 +2781,7 @@ AVXD-92307</p></td>
 6月1日 国立代々木競技場第一体育館<br />
 6月7日 大阪城ホール<br />
 6月8日 大阪城ホール<br />
-6月14日 <a href="https://ja.wikipedia.org/wiki/静岡県小笠山総合運動公園アリーナ" title="wikilink">エコパアリーナ</a><br />
+6月14日 <a href="../Page/静岡県小笠山総合運動公園アリーナ.md" title="wikilink">エコパアリーナ</a><br />
 6月15日 エコパアリーナ<br />
 6月21日 <a href="../Page/広島県立総合体育館.md" title="wikilink">広島グリーンアリーナ</a><br />
 6月22日 広島グリーンアリーナ<br />
@@ -3424,7 +3424,7 @@ AVXD-92307</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SAILING_(AAAの曲)" title="wikilink">SAILING</a></p></td>
 <td><p>イトーヨーカドー『7day@HOME』CMソング<br />
 イトーヨーカドー『good day』CMソング<br />
-<a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a>『<a href="https://ja.wikipedia.org/wiki/今ちゃんの「実は…」" title="wikilink">今ちゃんの「実は…」</a>』エンディングテーマ</p></td>
+<a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a>『<a href="../Page/今ちゃんの「実は…」.md" title="wikilink">今ちゃんの「実は…」</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SAILING_(AAAの曲)" title="wikilink">WISHES</a></p></td>

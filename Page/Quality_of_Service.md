@@ -79,7 +79,7 @@ LANスイッチ（レイヤー2スイッチ）でも、IEEE 802.1Qの[VLAN](http
   - [Quality of Experience](https://ja.wikipedia.org/wiki/Quality_of_Experience "wikilink")（QoE）
   - [Resource Reservation Protocol](../Page/Resource_Reservation_Protocol.md "wikilink") （リソース予約プロトコル）
   - [ポリシーベースQoS保証](../Page/ポリシーベースQoS保証.md "wikilink")
-  - [トラフィックシェーピング](https://ja.wikipedia.org/wiki/トラフィックシェーピング "wikilink") - [リーキーバケット](https://ja.wikipedia.org/wiki/リーキーバケット "wikilink")、[トークンバケット](https://ja.wikipedia.org/wiki/トークンバケット "wikilink")
+  - [トラフィックシェーピング](../Page/トラフィックシェーピング.md "wikilink") - [リーキーバケット](https://ja.wikipedia.org/wiki/リーキーバケット "wikilink")、[トークンバケット](https://ja.wikipedia.org/wiki/トークンバケット "wikilink")
 
 [Category:コンピュータネットワーク](https://ja.wikipedia.org/wiki/Category:コンピュータネットワーク "wikilink") [Category:ネットワーク技術](https://ja.wikipedia.org/wiki/Category:ネットワーク技術 "wikilink")
 

@@ -9,7 +9,7 @@
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")のワールド記念ホールと、[8月7日](../Page/8月7日.md "wikilink")の横浜文化体育館での2日間行われた4時間にも及ぶライブから収録されている。
   - 映像は1987年に発売されており、このアルバムはLD/DVD版を音源化したものである。全2枚組。但し「INSTANT LOVE」のみがLD/DVDには収録されていない（曲順違いのビデオテープ版には収録されていた）。
-  - [2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に、コンプリート版である『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』が発売された。
+  - [2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に、コンプリート版である『[“GIGS” CASE OF BOØWY COMPLETE](../Page/“GIGS”_CASE_OF_BOOWY_COMPLETE.md "wikilink")』が発売された。
 
 ## 収録曲
 

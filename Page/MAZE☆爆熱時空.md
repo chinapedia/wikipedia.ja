@@ -295,7 +295,7 @@
   - オープニングテーマ「虚空の迷宮」
     作詞 - [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") / 作曲 - [エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink") / 編曲 - [聖飢魔II](../Page/聖飢魔II.md "wikilink")・[松崎雄一](../Page/松崎雄一.md "wikilink") / 歌 - 聖飢魔II
   - 前期エンディングテーマ「JUNK BOY」
-    作詞 - [薫理](https://ja.wikipedia.org/wiki/仁科かおり "wikilink") / 作曲 - ARG / 編曲 - 2LUV / 歌 - [KAORI 2 LUV](https://ja.wikipedia.org/wiki/仁科かおり "wikilink")
+    作詞 - [薫理](../Page/仁科かおり.md "wikilink") / 作曲 - ARG / 編曲 - 2LUV / 歌 - [KAORI 2 LUV](../Page/仁科かおり.md "wikilink")
   - 後期エンディングテーマ「ハッピーマニア」
     作詞 - 真間綾 / 作曲・編曲 - 山本姫子 / 歌 - [さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")
   - 最終回エンディングテーマ「時空を超えろ\!冒険者」

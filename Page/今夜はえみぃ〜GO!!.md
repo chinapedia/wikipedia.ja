@@ -37,7 +37,7 @@
   - [城咲仁](../Page/城咲仁.md "wikilink")
   - [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")
   - [ロザン](../Page/ロザン.md "wikilink")
-  - [有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
+  - [有坂来瞳](../Page/有坂来瞳.md "wikilink")
   - [辻本茂雄](../Page/辻本茂雄.md "wikilink")
   - [岸部四郎](../Page/岸部四郎.md "wikilink")（初期）　他多数
 

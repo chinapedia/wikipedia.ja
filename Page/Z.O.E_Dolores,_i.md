@@ -323,7 +323,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイ・ハード" title="wikilink">ダイ・ハード</a></p></td>
+<td><p><a href="../Page/ダイ・ハード.md" title="wikilink">ダイ・ハード</a></p></td>
 <td><p>小倉宏文<br />
 吉村あきら</p></td>
 <td><p>森下博光</p></td>

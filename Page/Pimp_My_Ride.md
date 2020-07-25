@@ -68,7 +68,7 @@
 12. [フォルクスワーゲン・ビートル](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ビートル "wikilink")
 13. [ホンダ・CR-X](../Page/ホンダ・CR-X.md "wikilink")
 14. [トヨタ・ランドクルーザー](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")
-15. [フォード・エスコート](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")
+15. [フォード・エスコート](../Page/フォード・エスコート.md "wikilink")
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 <!-- end list -->
 
 1.  キャデラック・エルドラド
-2.  [フォード・エスコート](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")
+2.  [フォード・エスコート](../Page/フォード・エスコート.md "wikilink")
 3.  [ワーゲン・ワーゲンバス](../Page/フォルクスワーゲン・タイプ2.md "wikilink")
 4.  [シボレー・サバーバン](../Page/シボレー・サバーバン.md "wikilink")
 5.  [シボレー・ブレイザー](https://ja.wikipedia.org/wiki/シボレー・ブレイザー "wikilink")

@@ -127,7 +127,7 @@ end
 
   - [対称差](../Page/対称差.md "wikilink")
   - [排他的論理和](../Page/排他的論理和.md "wikilink")
-  - [XOR連結リスト](https://ja.wikipedia.org/wiki/XOR連結リスト "wikilink")
+  - [XOR連結リスト](../Page/XOR連結リスト.md "wikilink")
 
 [pl:Zamiana wartości zmiennych](https://ja.wikipedia.org/wiki/pl:Zamiana_wartości_zmiennych "wikilink")
 

@@ -19,7 +19,7 @@
 
 故郷の[高知県](../Page/高知県.md "wikilink")中村市（現[四万十市](../Page/四万十市.md "wikilink")）で静養に努めていた江戸は映画監督・[山本政志](../Page/山本政志.md "wikilink")の尽力もあり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に日比谷野外音楽堂で行われたイベント「アース・ビート伝説'85」で復帰。そして、江戸の発病前後のライブの模様がアルバム『君と踊りあかそう日の出を見るまで』として発表される。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から江戸が東京で暮らす準備ができ、本格的に活動再開。9月、[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")、[TOMATOS](https://ja.wikipedia.org/wiki/TOMATOS "wikilink")、[S-KEN & HOT BOMBOMSと共に](https://ja.wikipedia.org/wiki/S-KEN "wikilink")、シリーズ・イベント「東京ソイソース」の第1回を開催（1988年まで計5回開催、第1回のみ渋谷ライブイン、2回目以降は[インクスティック](https://ja.wikipedia.org/wiki/インクスティック "wikilink")芝浦ファクトリー）。東京ソイソースでは、ライブとライブの間にDJが入るという初めての試みをし、[いとうせいこう](../Page/いとうせいこう.md "wikilink")&[タイニー・パンクス](https://ja.wikipedia.org/wiki/タイニー・パンクス "wikilink")、[近田春夫](../Page/近田春夫.md "wikilink")、[ランキン・タクシー](../Page/ランキン・タクシー.md "wikilink")、[ECDなども出演した](../Page/ECD_\(ミュージシャン\).md "wikilink")。11月の六本木インクスティックでのライブでは以前のイメージとは結びつきそうになかった全員赤の揃いのジャケット姿で登場。12月「ライブ・ジャック」（フジテレビ）に出演。なお、1986年頃からライブや作品で「**JAGATARA**」とバンド名をクレジットするようになる。
+[1986年](../Page/1986年.md "wikilink")から江戸が東京で暮らす準備ができ、本格的に活動再開。9月、[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")、[TOMATOS](https://ja.wikipedia.org/wiki/TOMATOS "wikilink")、[S-KEN & HOT BOMBOMSと共に](https://ja.wikipedia.org/wiki/S-KEN "wikilink")、シリーズ・イベント「東京ソイソース」の第1回を開催（1988年まで計5回開催、第1回のみ渋谷ライブイン、2回目以降は[インクスティック](https://ja.wikipedia.org/wiki/インクスティック "wikilink")芝浦ファクトリー）。東京ソイソースでは、ライブとライブの間にDJが入るという初めての試みをし、[いとうせいこう](../Page/いとうせいこう.md "wikilink")&[タイニー・パンクス](https://ja.wikipedia.org/wiki/タイニー・パンクス "wikilink")、[近田春夫](../Page/近田春夫.md "wikilink")、[ランキン・タクシー](../Page/ランキン・タクシー.md "wikilink")、[ECDなども出演した](../Page/ECD_\(ミュージシャン\).md "wikilink")。11月の六本木インクスティックでのライブでは以前のイメージとは結びつきそうになかった全員赤の揃いのジャケット姿で登場。12月「ライブ・ジャック」（フジテレビ）に出演。なお、1986年頃からライブや作品で「**JAGATARA**」とバンド名をクレジットするようになる。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にアルバム『裸の王様』、『ニセ予言者ども』、山本政志の映画『ロビンソンの庭』サウンドトラックなど矢継ぎ早に作品を発表。4時間踊りっぱなしのライブ「DANCEMANIA 4 HOURS」（渋谷パルコ・パート3）、その他多数のライブ、学園祭等に出演し観客動員も急上昇する。また、横浜寿町フリーコンサートにも数度参加している。\[2\]
 
@@ -491,7 +491,7 @@ A面がJAGATARA、B面が吉川洋一郎、Hamza El Din<br />
   - 松原研二**「じゃがたら写真集」** [オークラ出版](../Page/オークラ出版.md "wikilink")（2000）
       -
         「LAST TANGO IN JUKU / HEY SAY\!（ロックを葬り去る歌）」のシングルCD付
-  - [陣野俊史](https://ja.wikipedia.org/wiki/陣野俊史 "wikilink")**「じゃがたら」** [河出書房新社](../Page/河出書房新社.md "wikilink")（2000）
+  - [陣野俊史](../Page/陣野俊史.md "wikilink")**「じゃがたら」** [河出書房新社](../Page/河出書房新社.md "wikilink")（2000）
       -
         2009年に「江戸アケミ墓参記」を追加した増補版発行
   - OTO・こだまたけひろ**「つながった世界-僕のじゃがたら物語」** ele-king books（[Pヴァイン](../Page/Pヴァイン.md "wikilink")）（2014)

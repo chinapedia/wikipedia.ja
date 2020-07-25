@@ -110,7 +110,7 @@
   - イムニティ
     声 : [水鏡](../Page/水鏡_\(声優\).md "wikilink") / [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")
     リコと良く似た見た目の少女。フローリア学園に忍び込み召喚の塔を破壊したりと破滅の中でも活発的に行動している。攻撃方法はリコとほとんど同じであるが、彼女の方が攻撃的である。
-    リコと同様に「導きの書」の精霊。世界の因果律を守る白の書の精霊である。破滅側についているが、白の主には絶対服従のため、白の主がピンチの時に大河を手助けしたりと必ずしも敵対関係とはならない（『[Xross Scramble](https://ja.wikipedia.org/wiki/Xross_Scramble#Xross_SAVIOR "wikilink")』や『[オトメクライシス](https://ja.wikipedia.org/wiki/オトメクライシス "wikilink")』では未亜に忠義をつくす書の精霊として味方になっている）。
+    リコと同様に「導きの書」の精霊。世界の因果律を守る白の書の精霊である。破滅側についているが、白の主には絶対服従のため、白の主がピンチの時に大河を手助けしたりと必ずしも敵対関係とはならない（『[Xross Scramble](https://ja.wikipedia.org/wiki/Xross_Scramble#Xross_SAVIOR "wikilink")』や『[オトメクライシス](../Page/オトメクライシス.md "wikilink")』では未亜に忠義をつくす書の精霊として味方になっている）。
 
 ### 上位存在
 

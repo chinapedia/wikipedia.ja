@@ -736,7 +736,7 @@
 <!-- end list -->
 
   -
-    ○[ベス・フェニックス](https://ja.wikipedia.org/wiki/ベス・フェニックス "wikilink")、[メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")、[ジリアン](https://ja.wikipedia.org/wiki/ジリアン・フレッチャー "wikilink")、[レイラ](https://ja.wikipedia.org/wiki/レイラ・エル "wikilink")、[ビクトリア](https://ja.wikipedia.org/wiki/リサ・マリー・バロン "wikilink")、[ナタリア](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink") vs [ミッキー・ジェームス](https://ja.wikipedia.org/wiki/ミッキー・ジェームス "wikilink")、[マリア](../Page/マリア・ケネリス.md "wikilink")、[アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")、[ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")、[チェリー](https://ja.wikipedia.org/wiki/カラ・ドリュー "wikilink")、[ケリー・ケリー](https://ja.wikipedia.org/wiki/バービー・ブランク "wikilink")●
+    ○[ベス・フェニックス](https://ja.wikipedia.org/wiki/ベス・フェニックス "wikilink")、[メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")、[ジリアン](https://ja.wikipedia.org/wiki/ジリアン・フレッチャー "wikilink")、[レイラ](https://ja.wikipedia.org/wiki/レイラ・エル "wikilink")、[ビクトリア](https://ja.wikipedia.org/wiki/リサ・マリー・バロン "wikilink")、[ナタリア](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink") vs [ミッキー・ジェームス](https://ja.wikipedia.org/wiki/ミッキー・ジェームス "wikilink")、[マリア](../Page/マリア・ケネリス.md "wikilink")、[アシュリー](../Page/アシュリー・マッサーロ.md "wikilink")、[ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")、[チェリー](https://ja.wikipedia.org/wiki/カラ・ドリュー "wikilink")、[ケリー・ケリー](https://ja.wikipedia.org/wiki/バービー・ブランク "wikilink")●
 
 <!-- end list -->
 

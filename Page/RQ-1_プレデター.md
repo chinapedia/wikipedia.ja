@@ -103,7 +103,7 @@ RQ-1の**R**は[偵察](../Page/偵察.md "wikilink")（＝Reconnaissance）、*
 
   - 『[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")』
     シーズン4に「RQ-2」の名称で形状が酷似した[UAVが登場](../Page/無人航空機.md "wikilink")。[テロリストの](https://ja.wikipedia.org/wiki/テロリズム "wikilink")[核弾頭](../Page/核弾頭.md "wikilink")使用に用いられる。外観は[RQ-2 パイオニアとは異なり](https://ja.wikipedia.org/wiki/RQ-2_パイオニア "wikilink")、[RQ-4 グローバルホークを](https://ja.wikipedia.org/wiki/RQ-4_グローバルホーク "wikilink")[ミニチュア](https://ja.wikipedia.org/wiki/ミニチュア "wikilink")にしたような形状をしている。
-  - 『[NCIS 〜ネイビー犯罪捜査班](https://ja.wikipedia.org/wiki/NCIS_〜ネイビー犯罪捜査班 "wikilink")』
+  - 『[NCIS 〜ネイビー犯罪捜査班](../Page/NCIS_〜ネイビー犯罪捜査班.md "wikilink")』
     空動実験用の[模型](../Page/模型.md "wikilink")が登場。
   - 『[Unmanned](https://ja.wikipedia.org/wiki/:en:Unmanned "wikilink")』
     優秀なプレデターオペレーターである主人公が、本機による[民間人](../Page/民間人.md "wikilink")[誤爆](../Page/誤爆.md "wikilink")をきっかけに葛藤する姿を描いた作品。

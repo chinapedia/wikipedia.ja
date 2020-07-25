@@ -66,7 +66,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 | 13 | [1965年](../Page/1965年.md "wikilink")                    | 高川秀格                                                  | 藤沢秀行                                                  |
 | 14 | [1966年](../Page/1966年.md "wikilink")                    | [橋本昌二](../Page/橋本昌二.md "wikilink")                    | 藤沢朋斎                                                  |
 | 15 | [1967年](../Page/1967年.md "wikilink")                    | [大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink") | 橋本昌二                                                  |
-| 16 | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | 藤沢秀行                                                  | 藤沢朋斎                                                  |
+| 16 | [1968年](../Page/1968年.md "wikilink")                    | 藤沢秀行                                                  | 藤沢朋斎                                                  |
 | 17 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | [林海峰](https://ja.wikipedia.org/wiki/林海峰 "wikilink")   | 坂田栄男                                                  |
 | 18 | [1970年](../Page/1970年.md "wikilink")                    | 大竹英雄(2)                                               | [石田芳夫](https://ja.wikipedia.org/wiki/石田芳夫 "wikilink") |
 | 19 | [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | 坂田栄男(8)                                               | 大竹英雄                                                  |
@@ -84,7 +84,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 | 31 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | [本田邦久](../Page/本田邦久.md "wikilink")                    | 武宮正樹                                                  |
 | 32 | [1984年](../Page/1984年.md "wikilink")                    | 橋本昌二(3)                                               | 石田芳夫                                                  |
 | 33 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | [小林光一](https://ja.wikipedia.org/wiki/小林光一 "wikilink") | 武宮正樹                                                  |
-| 34 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | 石田芳夫                                                  | 林海峰                                                   |
+| 34 | [1986年](../Page/1986年.md "wikilink")                    | 石田芳夫                                                  | 林海峰                                                   |
 | 35 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | 加藤正夫                                                  | [王立誠](../Page/王立誠.md "wikilink")                      |
 | 36 | [1988年](../Page/1988年.md "wikilink")                    | 武宮正樹                                                  | [小林覚](https://ja.wikipedia.org/wiki/小林覚 "wikilink")   |
 | 37 | [1989年](../Page/1989年.md "wikilink")                    | 石田芳夫(2)                                               | 大竹英雄                                                  |

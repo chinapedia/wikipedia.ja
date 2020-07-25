@@ -981,7 +981,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FMとよみ" title="wikilink">FMとよみ</a></p></td>
+<td><p><a href="../Page/FMとよみ.md" title="wikilink">FMとよみ</a></p></td>
 <td><p>沖縄県<a href="../Page/豊見城市.md" title="wikilink">豊見城市</a></p></td>
 <td><p><span style="display:none">20110610</span>2011年6月10日</p></td>
 <td><p>-</p></td>

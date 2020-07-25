@@ -232,7 +232,7 @@
 | 5  | 2006年 | [リアーナ](../Page/リアーナ.md "wikilink")                                      | ポン･デ･リプレイ                                                               |
 | 6  | 2007年 | ニーヨ                                                                     | ソー・シック                                                                  |
 | 7  | 2008年 | [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")                     | [鱗 (うろこ)](../Page/鱗_\(曲\).md "wikilink")                                |
-| 8  | 2009年 | [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")                 | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")       |
+| 8  | 2009年 | [キマグレン](../Page/キマグレン.md "wikilink")                                    | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")       |
 | 9  | 2010年 | [BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")             | \[\[ガラガラ_GO                                                            |
 | 10 | 2011年 | [ジャスティン・ビーバー](https://ja.wikipedia.org/wiki/ジャスティン・ビーバー "wikilink")     | Baby feat. [リュダクリス](../Page/リュダクリス.md "wikilink")                       |
 | 11 | 2012年 | [2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")                   | [I AM THE BEST](https://ja.wikipedia.org/wiki/I_AM_THE_BEST "wikilink") |
@@ -251,23 +251,23 @@
 
   - 第14回の表彰はなし。
 
-| 回  | 年     | アーティスト名                                                                     | 曲名                                                                                    |
-| -- | ----- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 2  | 2003年 | [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")                  | [バイ・ザ・ウェイ](../Page/バイ・ザ・ウェイ.md "wikilink")                                            |
-| 3  | 2004年 | [グッド・シャーロット](../Page/グッド・シャーロット.md "wikilink")                              | The Anthem                                                                            |
-| 4  | 2005年 | [フーバスタンク](https://ja.wikipedia.org/wiki/フーバスタンク "wikilink")                 | [ザ・リーズン](https://ja.wikipedia.org/wiki/ザ・リーズン "wikilink")                             |
-| 5  | 2006年 | [グリーン・デイ](../Page/グリーン・デイ.md "wikilink")                                    | Boulevard of Broken Dreams                                                            |
-| 6  | 2007年 | [マイ・ケミカル・ロマンス](../Page/マイ・ケミカル・ロマンス.md "wikilink")                          | [ウェルカム・トゥ・ザ・ブラック・パレード](https://ja.wikipedia.org/wiki/ウェルカム・トゥ・ザ・ブラック・パレード "wikilink") |
-| 7  | 2008年 | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")               | [オーダーメイド](../Page/オーダーメイド_\(曲\).md "wikilink")                                        |
-| 8  | 2009年 | [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")       | [爪爪爪](https://ja.wikipedia.org/wiki/爪爪爪 "wikilink")                                   |
-| 9  | 2010年 | [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")               | [Dancing On The Fire](https://ja.wikipedia.org/wiki/Dancing_On_The_Fire "wikilink")   |
-| 10 | 2011年 | [トキオ・ホテル](../Page/トキオ・ホテル.md "wikilink")                                    | Darkside of the Sun                                                                   |
-| 11 | 2012年 | ONE OK ROCK                                                                 | [アンサイズニア](https://ja.wikipedia.org/wiki/アンサイズニア "wikilink")                           |
-| 12 | 2013年 | The Beginning                                                               |                                                                                       |
-| 13 | 2014年 | [Be the light](https://ja.wikipedia.org/wiki/人生×僕= "wikilink")              |                                                                                       |
-| 15 | 2016年 | [［Alexandros］](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")       | [Swan](https://ja.wikipedia.org/wiki/Swan_\(［Alexandros］の曲\) "wikilink")              |
-| 17 | 2018年 | [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")                   | [ヒューマン](https://ja.wikipedia.org/wiki/ヒューマン "wikilink")                               |
-| 18 | 2019年 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") | Aurora                                                                                |
+| 回  | 年     | アーティスト名                                                                     | 曲名                                                                                  |
+| -- | ----- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 2  | 2003年 | [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")                  | [バイ・ザ・ウェイ](../Page/バイ・ザ・ウェイ.md "wikilink")                                          |
+| 3  | 2004年 | [グッド・シャーロット](../Page/グッド・シャーロット.md "wikilink")                              | The Anthem                                                                          |
+| 4  | 2005年 | [フーバスタンク](https://ja.wikipedia.org/wiki/フーバスタンク "wikilink")                 | [ザ・リーズン](https://ja.wikipedia.org/wiki/ザ・リーズン "wikilink")                           |
+| 5  | 2006年 | [グリーン・デイ](../Page/グリーン・デイ.md "wikilink")                                    | Boulevard of Broken Dreams                                                          |
+| 6  | 2007年 | [マイ・ケミカル・ロマンス](../Page/マイ・ケミカル・ロマンス.md "wikilink")                          | [ウェルカム・トゥ・ザ・ブラック・パレード](../Page/ウェルカム・トゥ・ザ・ブラック・パレード.md "wikilink")                  |
+| 7  | 2008年 | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")               | [オーダーメイド](../Page/オーダーメイド_\(曲\).md "wikilink")                                      |
+| 8  | 2009年 | [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")       | [爪爪爪](https://ja.wikipedia.org/wiki/爪爪爪 "wikilink")                                 |
+| 9  | 2010年 | [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")               | [Dancing On The Fire](https://ja.wikipedia.org/wiki/Dancing_On_The_Fire "wikilink") |
+| 10 | 2011年 | [トキオ・ホテル](../Page/トキオ・ホテル.md "wikilink")                                    | Darkside of the Sun                                                                 |
+| 11 | 2012年 | ONE OK ROCK                                                                 | [アンサイズニア](https://ja.wikipedia.org/wiki/アンサイズニア "wikilink")                         |
+| 12 | 2013年 | The Beginning                                                               |                                                                                     |
+| 13 | 2014年 | [Be the light](https://ja.wikipedia.org/wiki/人生×僕= "wikilink")              |                                                                                     |
+| 15 | 2016年 | [［Alexandros］](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")       | [Swan](https://ja.wikipedia.org/wiki/Swan_\(［Alexandros］の曲\) "wikilink")            |
+| 17 | 2018年 | [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")                   | [ヒューマン](https://ja.wikipedia.org/wiki/ヒューマン "wikilink")                             |
+| 18 | 2019年 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") | Aurora                                                                              |
 
 ### 最優秀メタルビデオ賞／Best Metal Video
 
@@ -341,7 +341,7 @@
 | 8  | 2009年 | [TERIYAKI BOYZ®](../Page/TERIYAKI_BOYZ.md "wikilink")                                                  | ZOCK ON\! feat.[Pharrell](../Page/ファレル・ウィリアムス.md "wikilink") and [Busta Rhymes](../Page/バスタ・ライムス.md "wikilink") |
 | 9  | 2010年 | KREVA                                                                                                  | [瞬間speechless](https://ja.wikipedia.org/wiki/赤_\(KREVAのシングル\) "wikilink")                                       |
 | 10 | 2011年 | エミネム                                                                                                   | ノット・アフレイド                                                                                                       |
-| 11 | 2012年 | KREVA                                                                                                  | [基準](https://ja.wikipedia.org/wiki/基準 "wikilink")                                                               |
+| 11 | 2012年 | KREVA                                                                                                  | [基準](../Page/基準.md "wikilink")                                                                                  |
 | 12 | 2013年 | [エイサップ・ロッキー](https://ja.wikipedia.org/wiki/エイサップ・ロッキー "wikilink")                                      | F\*\*kin' Problems feat. DRAKE, 2 CHAINZ & KENDRICK LAMAR                                                       |
 | 13 | 2014年 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")                                              | [愛ブルーム](https://ja.wikipedia.org/wiki/愛ブルーム/RULE "wikilink")                                                    |
 | 15 | 2016年 | [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")                                                | Flying B                                                                                                        |
@@ -384,13 +384,13 @@
 
 ### 最優秀レゲエビデオ賞／Best Reggae Video
 
-| 回  | 年     | アーティスト名                                                     | 作品名                                                                         |
-| -- | ----- | ----------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 9  | 2010年 | [HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink") | [KEEP IT BLAZING](https://ja.wikipedia.org/wiki/KEEP_IT_BLAZING "wikilink") |
-| 10 | 2011年 | [アイヤズ](https://ja.wikipedia.org/wiki/Iyaz "wikilink")       | リプレイ                                                                        |
-| 11 | 2012年 | SEAN PAUL                                                   | She Doesn't Mind                                                            |
-| 12 | 2013年 | [lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")     | Clown Love                                                                  |
-| 13 | 2014年 | Sky is the Limit feat. RHYMESTER                            |                                                                             |
+| 回  | 年     | アーティスト名                                                 | 作品名                                                                         |
+| -- | ----- | ------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 9  | 2010年 | [HAN-KUN](../Page/HAN-KUN.md "wikilink")                | [KEEP IT BLAZING](https://ja.wikipedia.org/wiki/KEEP_IT_BLAZING "wikilink") |
+| 10 | 2011年 | [アイヤズ](https://ja.wikipedia.org/wiki/Iyaz "wikilink")   | リプレイ                                                                        |
+| 11 | 2012年 | SEAN PAUL                                               | She Doesn't Mind                                                            |
+| 12 | 2013年 | [lecca](https://ja.wikipedia.org/wiki/lecca "wikilink") | Clown Love                                                                  |
+| 13 | 2014年 | Sky is the Limit feat. RHYMESTER                        |                                                                             |
 
 ### 最優秀カラオケソング賞／Best Karaoke Song
 
@@ -398,7 +398,7 @@
 
 | 回  | 年     | アーティスト名                                                           | 曲名                                                                                     |
 | -- | ----- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 8  | 2009年 | [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")           | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")                      |
+| 8  | 2009年 | [キマグレン](../Page/キマグレン.md "wikilink")                              | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")                      |
 | 9  | 2010年 | 加藤ミリヤ×清水翔太                                                        | [Love Forever](https://ja.wikipedia.org/wiki/Love_Forever_\(加藤ミリヤ×清水翔太の曲\) "wikilink") |
 | 10 | 2011年 | 少女時代                                                              | [GENIE](https://ja.wikipedia.org/wiki/GENIE "wikilink")                                |
 | 11 | 2012年 | [ソナーポケット](https://ja.wikipedia.org/wiki/ソナーポケット "wikilink")       | 365日のラブストーリー。                                                                          |

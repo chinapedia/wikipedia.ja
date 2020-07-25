@@ -58,7 +58,7 @@
   - 1966年 - [ワールドコン](../Page/ワールドコン.md "wikilink")のゲスト・オブ・オナーとして招待された。
   - 1976年 - ガンダルフ賞グランドマスター賞
   - 1978年 - [SFWA](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")[グランド・マスター賞](https://ja.wikipedia.org/wiki/デーモン・ナイト記念グランド・マスター賞 "wikilink")
-  - 1995年 - [サイドワイズ賞](https://ja.wikipedia.org/wiki/サイドワイズ賞 "wikilink")特別賞
+  - 1995年 - [サイドワイズ賞](../Page/サイドワイズ賞.md "wikilink")特別賞
   - 1997年 - 自伝 *Time and Chance* で[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")ノンフィクション部門（現関連書籍部門）を受賞
 
 ## 作品リスト

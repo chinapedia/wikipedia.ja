@@ -7,7 +7,7 @@
 
 [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")周辺出身の3人組。[THE BLUE HEARTSに憧れた当時中学一年生のメンバーたちにより結成され](../Page/THE_BLUE_HEARTS.md "wikilink")、その後何度かのメンバーチェンジを経てデビュー当時の5人体制となる。2度のメンバー脱退があったが、サポートメンバーを迎えながら継続的に活動。バンド名の由来は[THE JAMの同名曲より](../Page/ザ・ジャム.md "wikilink")。ロゴマークは正五角形。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](../Page/ウィーザー.md "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](https://ja.wikipedia.org/wiki/グラフティー "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](https://ja.wikipedia.org/wiki/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\) "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に提供。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](../Page/ウィーザー.md "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](../Page/グラフティー.md "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に提供。
 
 メジャーデビュー5周年となった[2006年](../Page/2006年.md "wikilink")には2月にアルバム『[TUTTI](../Page/TUTTI.md "wikilink")』、5月にシングル「[VISTA/ハミングライフ](https://ja.wikipedia.org/wiki/VISTA/ハミングライフ "wikilink")」、6月にベストアルバム『[BEST OF GOING UNDER GROUND with YOU](../Page/BEST_OF_GOING_UNDER_GROUND_with_YOU.md "wikilink")』を相次いでリリースすると共に、3月からのツアー「TUTTI」にて7月6日、[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")では初の[日本武道館](../Page/日本武道館.md "wikilink")公演を実施。後にこの公演は、全曲ノーカットで[DVD](../Page/DVD.md "wikilink")化された。
 
@@ -134,27 +134,27 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラフティー" title="wikilink">グラフティー</a></p></td>
+<td><p><a href="../Page/グラフティー.md" title="wikilink">グラフティー</a></p></td>
 <td><p>VICL-35265</p></td>
 </tr>
 <tr class="odd">
 <td><p>2001年<a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/センチメント・エキスプレス" title="wikilink">センチメント・エキスプレス</a></p></td>
+<td><p><a href="../Page/センチメント・エキスプレス.md" title="wikilink">センチメント・エキスプレス</a></p></td>
 <td><p>VICL-35298</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/4月17日.md" title="wikilink">4月17日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミラージュ_(GOING_UNDER_GROUNDの曲)" title="wikilink">ミラージュ</a></p></td>
+<td><p><a href="../Page/ミラージュ_(GOING_UNDER_GROUNDの曲).md" title="wikilink">ミラージュ</a></p></td>
 <td><p>VICL-35379</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年<a href="../Page/7月10日.md" title="wikilink">7月10日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランブル" title="wikilink">ランブル</a></p></td>
+<td><p><a href="../Page/ランブル.md" title="wikilink">ランブル</a></p></td>
 <td><p>VICL-35405</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイアリー_(曲)" title="wikilink">ダイアリー</a></p></td>
+<td><p><a href="../Page/ダイアリー_(曲).md" title="wikilink">ダイアリー</a></p></td>
 <td><p>VICL-35494<br />
 （CCCD盤）</p></td>
 </tr>
@@ -167,12 +167,12 @@
 </tr>
 <tr class="even">
 <td><p>2003年<a href="../Page/9月24日.md" title="wikilink">9月24日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トワイライト_(GOING_UNDER_GROUNDの曲)" title="wikilink">トワイライト</a></p></td>
+<td><p><a href="../Page/トワイライト_(GOING_UNDER_GROUNDの曲).md" title="wikilink">トワイライト</a></p></td>
 <td><p>VICL-35585</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハートビート_(GOING_UNDER_GROUNDの曲)" title="wikilink">ハートビート</a></p></td>
+<td><p><a href="../Page/ハートビート_(GOING_UNDER_GROUNDの曲).md" title="wikilink">ハートビート</a></p></td>
 <td><p>VICL-35619<br />
 （CCCD盤）</p></td>
 </tr>
@@ -185,12 +185,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンキュー_(曲)" title="wikilink">サンキュー</a></p></td>
+<td><p><a href="../Page/サンキュー_(曲).md" title="wikilink">サンキュー</a></p></td>
 <td><p>VICL-35704</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年<a href="../Page/12月8日.md" title="wikilink">12月8日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/同じ月を見てた" title="wikilink">同じ月を見てた</a></p></td>
+<td><p><a href="../Page/同じ月を見てた.md" title="wikilink">同じ月を見てた</a></p></td>
 <td><p>VICL-35734</p></td>
 </tr>
 <tr class="odd">
@@ -200,7 +200,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年<a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STAND_BY_ME_(GOING_UNDER_GROUNDの曲)" title="wikilink">STAND BY ME</a></p></td>
+<td><p><a href="../Page/STAND_BY_ME_(GOING_UNDER_GROUNDの曲).md" title="wikilink">STAND BY ME</a></p></td>
 <td><p>VICL-35820</p></td>
 </tr>
 <tr class="odd">
@@ -210,7 +210,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Happy_Birthday_(GOING_UNDER_GROUNDの曲)" title="wikilink">Happy Birthday</a></p></td>
+<td><p><a href="../Page/Happy_Birthday_(GOING_UNDER_GROUNDの曲).md" title="wikilink">Happy Birthday</a></p></td>
 <td><p>VICL-35926</p></td>
 </tr>
 <tr class="odd">
@@ -220,22 +220,22 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/胸いっぱい" title="wikilink">胸いっぱい</a></p></td>
+<td><p><a href="../Page/胸いっぱい.md" title="wikilink">胸いっぱい</a></p></td>
 <td><p>VICL-36226</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年<a href="../Page/6月13日.md" title="wikilink">6月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TWISTER_(曲)" title="wikilink">TWISTER</a></p></td>
+<td><p><a href="../Page/TWISTER_(曲).md" title="wikilink">TWISTER</a></p></td>
 <td><p>VICL-36293</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年<a href="../Page/10月17日.md" title="wikilink">10月17日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さかさまワールド" title="wikilink">さかさまワールド</a></p></td>
+<td><p><a href="../Page/さかさまワールド.md" title="wikilink">さかさまワールド</a></p></td>
 <td><p>VICL-36345</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月19日.md" title="wikilink">3月19日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/初恋_(GOING_UNDER_GROUNDの曲)" title="wikilink">初恋</a></p></td>
+<td><p><a href="../Page/初恋_(GOING_UNDER_GROUNDの曲).md" title="wikilink">初恋</a></p></td>
 <td><p>VICL-36425</p></td>
 </tr>
 <tr class="even">
@@ -654,7 +654,7 @@
 <!-- end list -->
 
   -
-    4回出演し、「[ランブル](https://ja.wikipedia.org/wiki/ランブル "wikilink")」「[トワイライト](https://ja.wikipedia.org/wiki/トワイライト_\(GOING_UNDER_GROUNDの曲\) "wikilink")」「[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")」「[VISTA](https://ja.wikipedia.org/wiki/VISTA/ハミングライフ "wikilink")」を演奏した。
+    4回出演し、「[ランブル](../Page/ランブル.md "wikilink")」「[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」「[VISTA](https://ja.wikipedia.org/wiki/VISTA/ハミングライフ "wikilink")」を演奏した。
 
 <!-- end list -->
 
@@ -1055,8 +1055,8 @@
   - [ケイタイモ](../Page/ケイタイモ.md "wikilink") - 2010年のライブにキーボーディストとしてゲスト参加。
   - [マシータ](../Page/マシータ.md "wikilink") - 2015年よりサポートドラムとしてライブに参加。
   - [宮尾和孝](../Page/宮尾和孝.md "wikilink") - イラストレーター。河野丈洋の中学校時代の同級生であり、GOING UNDER GROUNDのCD、DVD作品のジャケットイラストを多く手がける。
-  - [Bank Band](../Page/Bank_Band.md "wikilink") - アルバム『[沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink")』（2010年6月30日発売）に「[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")」のカバーが収録されている。
-  - [Lead](../Page/Lead.md "wikilink") - シングル『Upturn』（2013年6月19日発売）に「[トワイライト](https://ja.wikipedia.org/wiki/トワイライト_\(GOING_UNDER_GROUNDの曲\) "wikilink")」のカバーが収録されている。
+  - [Bank Band](../Page/Bank_Band.md "wikilink") - アルバム『[沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink")』（2010年6月30日発売）に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
+  - [Lead](../Page/Lead.md "wikilink") - シングル『Upturn』（2013年6月19日発売）に「[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
   - [劇団ひとり](../Page/劇団ひとり.md "wikilink") - シングル『いっしょに帰ろう』（2009年1月21日発売）のPVに出演して、プライベートでも親交がある。
 
 ## 外部リンク

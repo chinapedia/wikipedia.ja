@@ -126,7 +126,7 @@ bambooが16歳の頃にバンドブームの影響を受けて音楽活動を始
 
 <!-- end list -->
 
-  - [有頂天家族](https://ja.wikipedia.org/wiki/有頂天家族 "wikilink")
+  - [有頂天家族](../Page/有頂天家族.md "wikilink")
 
 <!-- end list -->
 

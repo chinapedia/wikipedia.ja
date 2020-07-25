@@ -45,7 +45,7 @@
   - [大竹まこと](../Page/大竹まこと.md "wikilink")（内閣情報室長）
   - [下條アトム](../Page/下條アトム.md "wikilink")（医師）
   - [大河内浩](../Page/大河内浩.md "wikilink") (科学者)
-  - [引田天功](https://ja.wikipedia.org/wiki/引田天功_\(2代目\) "wikilink")
+  - [引田天功](../Page/引田天功_\(2代目\).md "wikilink")
   - [不破弘樹](../Page/不破弘樹.md "wikilink") （陸上選手）
   - [丹波哲郎](../Page/丹波哲郎.md "wikilink")（大曽根）
   - [北大路欣也](../Page/北大路欣也.md "wikilink")（小島博士）…特別出演
@@ -53,7 +53,7 @@
 ## スタッフ
 
   - 監督：[佐藤純彌](../Page/佐藤純彌.md "wikilink")
-  - 製作：[高岩淡](https://ja.wikipedia.org/wiki/高岩淡 "wikilink")　伊藤邦男　[山科誠](../Page/山科誠.md "wikilink")　[植村伴次郎](https://ja.wikipedia.org/wiki/植村伴次郎 "wikilink")
+  - 製作：[高岩淡](../Page/高岩淡.md "wikilink")　伊藤邦男　[山科誠](../Page/山科誠.md "wikilink")　[植村伴次郎](https://ja.wikipedia.org/wiki/植村伴次郎 "wikilink")
   - プロデューサー：野村敏哉　山川秀樹　[冨永理生子](https://ja.wikipedia.org/wiki/冨永理生子 "wikilink")
   - 企画：[岡田裕介](../Page/岡田裕介.md "wikilink")　大沢清孝　角田良平　植村徹
   - 脚本：[早坂暁](../Page/早坂暁.md "wikilink")

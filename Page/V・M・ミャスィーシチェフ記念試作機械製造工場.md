@@ -8,7 +8,7 @@
 
 ## 概要
 
-は元は[ペトリャコフ設計局で働いていたが](../Page/V・M・ペトリャコーフ記念試作設計局.md "wikilink")、[1942年](../Page/1942年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に局長の[ヴラジーミル・ミハーイロヴィチ・ペトリャコーフが搭乗機](https://ja.wikipedia.org/wiki/ヴラジーミル・ペトリャコーフ "wikilink")[Pe-2の火災事故で死亡すると](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink")、[1943年](../Page/1943年.md "wikilink")5月からはミャスィーシチェフが同設計局を率いることになり、1951年にはミャスィーシチェフは新たに**第23試作設計局**(****)を開設した。
+は元は[ペトリャコフ設計局で働いていたが](../Page/V・M・ペトリャコーフ記念試作設計局.md "wikilink")、[1942年](../Page/1942年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に局長の[ヴラジーミル・ミハーイロヴィチ・ペトリャコーフが搭乗機](https://ja.wikipedia.org/wiki/ヴラジーミル・ペトリャコーフ "wikilink")[Pe-2の火災事故で死亡すると](../Page/Pe-2_\(航空機\).md "wikilink")、[1943年](../Page/1943年.md "wikilink")5月からはミャスィーシチェフが同設計局を率いることになり、1951年にはミャスィーシチェフは新たに**第23試作設計局**(****)を開設した。
 
 同設計局は戦後[M-4をはじめとする大型](../Page/M-4_\(航空機\).md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")を製作し、西側に「ボマー・ギャップ」論を生み出させた。[1966年](../Page/1966年.md "wikilink")には、**設計局「試作機械製造工場」**(****)と改称された。
 
@@ -37,7 +37,7 @@
   - [M-101T](https://ja.wikipedia.org/wiki/M-101_\(航空機\) "wikilink")
   - M-102
   - M-500
-  - [Pe-2A](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink")
+  - [Pe-2A](../Page/Pe-2_\(航空機\).md "wikilink")
   - Pe-2B
   - Pe-2I
   - Pe-2M

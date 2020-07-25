@@ -74,7 +74,7 @@ HAMMERの[後継](https://ja.wikipedia.org/wiki/後継 "wikilink")として、HA
 
 ## 開発と配布
 
-[FreeBSD](../Page/FreeBSD.md "wikilink")と[OpenBSD](../Page/OpenBSD.md "wikilink")と同様に、DragonFly BSDの開発者は[関数プロトタイプ](https://ja.wikipedia.org/wiki/関数プロトタイプ "wikilink")スタイルの[Cのコードを](../Page/C言語.md "wikilink")、より現代的で[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink")準拠のものに少しずつ置き換えている。他のOSと同様に、DragonFlyのバージョンの[GCC](https://ja.wikipedia.org/wiki/GCC "wikilink")は、Stack-Smashing Protecterがデフォルトで有効になっており、バッファ・オーバーフローに基づいた攻撃に対する追加的な保護を提供している。ただし、[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")からは、この保護付きのカーネルのビルドはデフォルトではない\[14\]。
+[FreeBSD](../Page/FreeBSD.md "wikilink")と[OpenBSD](../Page/OpenBSD.md "wikilink")と同様に、DragonFly BSDの開発者は[関数プロトタイプ](../Page/関数プロトタイプ.md "wikilink")スタイルの[Cのコードを](../Page/C言語.md "wikilink")、より現代的で[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink")準拠のものに少しずつ置き換えている。他のOSと同様に、DragonFlyのバージョンの[GCC](https://ja.wikipedia.org/wiki/GCC "wikilink")は、Stack-Smashing Protecterがデフォルトで有効になっており、バッファ・オーバーフローに基づいた攻撃に対する追加的な保護を提供している。ただし、[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")からは、この保護付きのカーネルのビルドはデフォルトではない\[14\]。
 
 FreeBSDの派生物として、DragonFlyは、簡単に使うことができる統合されたビルドシステムを持ち、このシステムは、ベースシステムの全体をソースコードから少ないコマンドでリビルドすることができる。DragonFlyの開発者たちは、[Git](../Page/Git.md "wikilink")をDragonFlyのソースコードを管理するために使っている。また、FreeBSDとは違って、Dragonflyは、安定版と非安定版のリリースの両方をひとつのソースツリーに持っており、これはより小さな開発ベースによるものである\[15\]。
 

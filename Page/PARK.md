@@ -70,7 +70,7 @@ MOTOKATSU（[宮上元克](../Page/宮上元克.md "wikilink")）は、「ヒサ
 3.  **IN SURFACE NOISE** - *Surface Noise*
 4.  **パラサイト（寄生虫）** - *Parasite*
       -
-        セルフカバーアルバム『THE MAD CAPSULE MARKET'S』に収録され、ベストアルバム『1990-1996』にも収録された。[PVには](../Page/ミュージック・ビデオ.md "wikilink")、テレビアニメ『[マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")』（[1967年](../Page/1967年.md "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[タツノコプロ](../Page/タツノコプロ.md "wikilink")）の映像が挿入されている。VHS『VIDEO』やDVD『1990-1996』で視聴する事が可能。
+        セルフカバーアルバム『THE MAD CAPSULE MARKET'S』に収録され、ベストアルバム『1990-1996』にも収録された。[PVには](../Page/ミュージック・ビデオ.md "wikilink")、テレビアニメ『[マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")』（[1967年](../Page/1967年.md "wikilink") - [1968年](../Page/1968年.md "wikilink")、[タツノコプロ](../Page/タツノコプロ.md "wikilink")）の映像が挿入されている。VHS『VIDEO』やDVD『1990-1996』で視聴する事が可能。
 5.  **公園へあと少し** - *Edge of The Park*
       -
         ベストアルバム『1990-1996』に収録された。

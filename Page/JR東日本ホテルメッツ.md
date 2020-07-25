@@ -271,7 +271,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 </tr>
 <tr class="odd">
 <td><p><strong>JR東日本ホテルメッツ 長岡</strong></p></td>
-<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="https://ja.wikipedia.org/wiki/長岡市" title="wikilink">長岡市</a>台町2-4-9</p></td>
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/長岡市.md" title="wikilink">長岡市</a>台町2-4-9</p></td>
 <td><p><a href="../Page/長岡駅.md" title="wikilink">長岡駅</a>東口直結</p></td>
 <td><p>122</p></td>
 <td><p>1999年7月21日</p></td>

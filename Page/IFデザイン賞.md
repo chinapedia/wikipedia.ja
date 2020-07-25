@@ -20,14 +20,14 @@ iFデザイン賞はIDEA賞(アメリカ)、レッドドット・デザイン賞
   - プラマイゼロ株式会社の掃除機「コードレスクリーナーY010」- 2015年金賞
   - 錦城護謨株式会社 「HODOHKUN Guideway」- 2016年、プロダクト分野の“パブリックデザイン”において日本初の金賞受賞\[9\]
   - トリニティ株式会社「NuAns NEO」- 2017年、「Telecommunication」カテゴリーにおいて、日本初の金賞を受賞\[10\]
-  - [穴織カーボン](https://ja.wikipedia.org/wiki/穴織カーボン "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT OVAL」-2017年デザイン賞\[11\]
+  - [穴織カーボン](../Page/穴織カーボン.md "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT OVAL」-2017年デザイン賞\[11\]
   - レノ・デザインワークス / Go Organics Japan「二丈紅白米」-2017年デザイン賞 (九州地方において初受賞)
   - [タイガー魔法瓶](../Page/タイガー魔法瓶.md "wikilink")株式会社 土鍋圧力IH炊飯ジャー〈THE炊きたて〉JPG-X100 2018年デザイン賞
-  - [穴織カーボン](https://ja.wikipedia.org/wiki/穴織カーボン "wikilink")株式会社 カーボンすき焼き鍋「ANAORI CARBON GRILL JAZZ」-2018年デザイン賞
+  - [穴織カーボン](../Page/穴織カーボン.md "wikilink")株式会社 カーボンすき焼き鍋「ANAORI CARBON GRILL JAZZ」-2018年デザイン賞
   - [蛇の目ミシン工業](../Page/蛇の目ミシン工業.md "wikilink")株式会社 エアースレッド小型ロック「マイロックエアー2000D」- 2019年デザイン賞
   - [タイガー魔法瓶](../Page/タイガー魔法瓶.md "wikilink")株式会社 「Maho Nabé」 2019年デザイン賞\[12\]
-  - [穴織カーボン](https://ja.wikipedia.org/wiki/穴織カーボン "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT OVAL-X」-2019年デザイン賞
-  - [穴織カーボン](https://ja.wikipedia.org/wiki/穴織カーボン "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT DISC」-2019年金賞
+  - [穴織カーボン](../Page/穴織カーボン.md "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT OVAL-X」-2019年デザイン賞
+  - [穴織カーボン](../Page/穴織カーボン.md "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT DISC」-2019年金賞
   - [株式会社ワイ・エス・エム](http://www.ysm-products.jp/ja)「NIGHT BOOK」-2019年デザイン賞
   - Nature株式会社 エネルギーマネジメントシステム「Nature Remo E」-2020デザイン賞\[13\]
   - [島産業株式会社](http://parisparis.jp)　家庭用生ごみ減量乾燥機「Paris Paris Cue」 - 2020年デザイン賞\[14\]

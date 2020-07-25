@@ -30,7 +30,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 ## その他のG3タイプの狙撃銃
 
   - T12
-    [トルコ](../Page/トルコ.md "wikilink")の[MKE社が独自に開発したもの](https://ja.wikipedia.org/wiki/:en:Mechanical_and_Chemical_Industry_Corporation "wikilink")。[HK33の](https://ja.wikipedia.org/wiki/H&K_HK33 "wikilink")[バレルを延長し](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、リアサイトを取り外し、PSG1の[ストックと](../Page/銃床.md "wikilink")[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")のハンドガードを装備したモデル。
+    [トルコ](../Page/トルコ.md "wikilink")の[MKE社が独自に開発したもの](https://ja.wikipedia.org/wiki/:en:Mechanical_and_Chemical_Industry_Corporation "wikilink")。[HK33の](../Page/H&K_HK33.md "wikilink")[バレルを延長し](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、リアサイトを取り外し、PSG1の[ストックと](../Page/銃床.md "wikilink")[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")のハンドガードを装備したモデル。
   - MSG3
     [G3タイプの](../Page/H&K_G3.md "wikilink")[狙撃銃](../Page/狙撃銃.md "wikilink")のなかで一番G3に近い。MSG90タイプの少し短いストックを装備し、リアサイトの位置がG3より少し前にある。
   - [MSG90](../Page/H&K_MSG90.md "wikilink")
@@ -271,12 +271,12 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
   - 『[青の祓魔師](https://ja.wikipedia.org/wiki/青の祓魔師 "wikilink")』
     『[機動警察パトレイバー2 the Movie](https://ja.wikipedia.org/wiki/機動警察パトレイバー2_the_Movie "wikilink")』
     [警視庁](../Page/警視庁.md "wikilink")[機動隊](https://ja.wikipedia.org/wiki/機動隊 "wikilink")の狙撃隊員が、[飛行船](../Page/飛行船.md "wikilink")を[狙撃](../Page/狙撃.md "wikilink")するために使用する。
-  - 『[キューティクル探偵因幡](https://ja.wikipedia.org/wiki/キューティクル探偵因幡 "wikilink")』
+  - 『[キューティクル探偵因幡](../Page/キューティクル探偵因幡.md "wikilink")』
     OPに登場。
   - 『[キルミーベイベー](https://ja.wikipedia.org/wiki/キルミーベイベー "wikilink")』
     『[シティーハンター](../Page/シティーハンター.md "wikilink")』『[エンジェル・ハート](../Page/エンジェル・ハート.md "wikilink")』
     『シティーハンター』では97年スペシャルにてプロフェッサーこと武藤武明をはじめとする人物が、『エンジェル・ハート』においてはシャンインなど多くの人物が狙撃に使用。
-  - 『[そらのおとしもの](https://ja.wikipedia.org/wiki/そらのおとしもの "wikilink")』
+  - 『[そらのおとしもの](../Page/そらのおとしもの.md "wikilink")』
     漫画版6話の町ぐるみで行われた[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")にて、守形英四郎と五月田根美香子が[コルク](../Page/コルク.md "wikilink")弾を装填したものを使用。互いに同じ[弾道](../Page/弾道.md "wikilink")で狙撃し合い、弾を相殺させている。
   - 『チェイサー朱理』
     20発[弾倉](../Page/弾倉.md "wikilink")を装着。
@@ -335,7 +335,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
       -
         「軍用スナイパーライフル」の名称で登場する。警察の狙撃[部隊](../Page/部隊.md "wikilink")が使用する。
 
-  - 『[クロスファイア](https://ja.wikipedia.org/wiki/クロスファイア_\(オンラインゲーム\) "wikilink")』
+  - 『[クロスファイア](../Page/クロスファイア_\(オンラインゲーム\).md "wikilink")』
     期間限定のイベントで抽選で貰えた狙撃銃。
 
   - 『[ゴーストリコン アドバンスウォーファイター](../Page/ゴーストリコン_アドバンスウォーファイター.md "wikilink")』
@@ -350,7 +350,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
   - 『[スペシャルフォース](../Page/スペシャルフォース_\(オンラインゲーム\).md "wikilink")』
     狙撃銃として初期に購入可能。また、ゲームオリジナルの「GOLD_PSG1」などもある。
 
-  - 『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
+  - 『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』
 
 :; 『[バイオハザード5](../Page/バイオハザード5.md "wikilink")』
 

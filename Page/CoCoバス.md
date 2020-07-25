@@ -35,7 +35,7 @@
 
 ### 北東部循環（1号線）
 
-  - [武蔵小金井駅](https://ja.wikipedia.org/wiki/武蔵小金井駅 "wikilink")北口→地蔵通り西→[東小金井駅](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")→[法政大学](https://ja.wikipedia.org/wiki/法政大学#施設 "wikilink")→関野橋→[小金井公園](../Page/小金井公園.md "wikilink")入口→[たてもの園入口](../Page/江戸東京たてもの園.md "wikilink")→[緑町四丁目](https://ja.wikipedia.org/wiki/緑町_\(小金井市\) "wikilink")→[小金井郵便局](https://ja.wikipedia.org/wiki/小金井郵便局 "wikilink")→小金井市役所入口→武蔵小金井駅北口
+  - [武蔵小金井駅](https://ja.wikipedia.org/wiki/武蔵小金井駅 "wikilink")北口→地蔵通り西→[東小金井駅](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")→[法政大学](https://ja.wikipedia.org/wiki/法政大学#施設 "wikilink")→関野橋→[小金井公園](../Page/小金井公園.md "wikilink")入口→[たてもの園入口](../Page/江戸東京たてもの園.md "wikilink")→[緑町四丁目](https://ja.wikipedia.org/wiki/緑町_\(小金井市\) "wikilink")→[小金井郵便局](../Page/小金井郵便局.md "wikilink")→小金井市役所入口→武蔵小金井駅北口
 
 [武蔵小金井駅](https://ja.wikipedia.org/wiki/武蔵小金井駅 "wikilink")・[東小金井駅](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")間の中央線北側を反時計回りに周回する経路。
 

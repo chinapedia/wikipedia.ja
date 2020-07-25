@@ -15,7 +15,7 @@
     1966年4月から[1975年](../Page/1975年.md "wikilink")10月までは同じ枠で「**金曜時代劇**」として『[赤ひげ](../Page/赤ひげ_\(1972年のテレビドラマ\).md "wikilink")』 『[天下御免](../Page/天下御免.md "wikilink")』などが年間（4[クール](../Page/クール_\(放送\).md "wikilink")）シリーズとして放送されていた（ただし第3クール〈10月〉に始まりほぼ翌年の10月初めに終了という変則的な枠であった）。この枠の時代劇は、1975年10月 - [1977年](../Page/1977年.md "wikilink")3月には『[新・坊っちゃん](../Page/新・坊っちゃん.md "wikilink")』『[いごっそう段六](https://ja.wikipedia.org/wiki/いごっそう段六 "wikilink")』『[丼池太閤記](https://ja.wikipedia.org/wiki/丼池太閤記 "wikilink")』などの近・現代劇（明治・昭和戦後初期が舞台）が放送されたため一時中断されたものの、[1977年](../Page/1977年.md "wikilink")4月 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月には『[鳴門秘帖](../Page/鳴門秘帖.md "wikilink")』が放送され復活した。
   - 水曜時代劇
     この後1978年4月 - [1984年](../Page/1984年.md "wikilink")3月には、時代劇の放送枠が水曜20時枠（この枠はもともと[1960年代](../Page/1960年代.md "wikilink")から毎週水曜日20時 - 20時45分に放送していた「水曜劇場」〈または[水曜ドラマ](../Page/水曜ドラマ_\(NHK\).md "wikilink")〉で、当初は現代劇の放送枠であった）に移動して「**水曜時代劇**」として放送され、『[日本巌窟王](https://ja.wikipedia.org/wiki/日本巌窟王 "wikilink")』『[風神の門](../Page/風神の門.md "wikilink")』『[御宿かわせみ](../Page/御宿かわせみ.md "wikilink")』『[いのち燃ゆ](https://ja.wikipedia.org/wiki/いのち燃ゆ "wikilink")』などの名作を輩出した。
-    1984年4月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月は大河ドラマが近・現代劇路線に方向を転換したため、それに代わるシリーズ「**[新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")**」として、1作品1年間のペースで『[宮本武蔵](../Page/宮本武蔵_\(NHK新大型時代劇\).md "wikilink")』『[真田太平記](../Page/真田太平記_\(テレビドラマ\).md "wikilink")』『[武蔵坊弁慶](../Page/武蔵坊弁慶_\(テレビドラマ\).md "wikilink")』の3本を放送した。しかし、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から大河ドラマが時代劇に再び路線を戻したため、それ以後の水曜日20時からは時代劇と現代劇路線を混在した「[水曜ドラマシリーズ](../Page/水曜ドラマ_\(NHK\).md "wikilink")」を放送していた。この時期に放送された時代劇が『[びいどろで候〜長崎屋夢日記](../Page/びいどろで候〜長崎屋夢日記.md "wikilink")』（1990年4月 - 7月）である。
+    1984年4月 - [1986年](../Page/1986年.md "wikilink")12月は大河ドラマが近・現代劇路線に方向を転換したため、それに代わるシリーズ「**[新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")**」として、1作品1年間のペースで『[宮本武蔵](../Page/宮本武蔵_\(NHK新大型時代劇\).md "wikilink")』『[真田太平記](../Page/真田太平記_\(テレビドラマ\).md "wikilink")』『[武蔵坊弁慶](../Page/武蔵坊弁慶_\(テレビドラマ\).md "wikilink")』の3本を放送した。しかし、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から大河ドラマが時代劇に再び路線を戻したため、それ以後の水曜日20時からは時代劇と現代劇路線を混在した「[水曜ドラマシリーズ](../Page/水曜ドラマ_\(NHK\).md "wikilink")」を放送していた。この時期に放送された時代劇が『[びいどろで候〜長崎屋夢日記](../Page/びいどろで候〜長崎屋夢日記.md "wikilink")』（1990年4月 - 7月）である。
   - （第二次）金曜時代劇・時代劇ロマン・（第三次）金曜時代劇
     1991年4月から水曜日20時枠は「[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")」（19時30分 - ）に変更されることになり、これに代わる新しい時代劇枠を[金曜日](../Page/金曜日.md "wikilink")の20時 - 20時45分の枠に「**金曜時代劇**」として放送するようになる。なお[1992年](../Page/1992年.md "wikilink")度のみ[コンプレックス形式が採られたため](../Page/コンプレックス_\(番組形式\).md "wikilink")、19時30分 - 20時15分の枠で時代劇を放送、後半30分枠は現代劇の「[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(NHK\) "wikilink")」が併せて放送された。
     その後[2000年](../Page/2000年.md "wikilink")4月の番組大幅改定に伴い、番組枠を[月曜](../Page/月曜日.md "wikilink")21時15分 - 21時58分に移動して「**時代劇ロマン**」として1年間放送した後、[2001年](../Page/2001年.md "wikilink")4月から再び金曜日の21時15分 - 21時58分に戻り、「**金曜時代劇**」のタイトルも復活した。しかし1999年まで原則として年2本（2クールのドラマが2本）の制作であった時代劇枠は、TV時代劇総体の不振という状況もあって、2000年度以降1本ごとの回数が大幅に減らされた。これを補うため、過去に「[正月時代劇](../Page/NHK正月時代劇.md "wikilink")」として放送され好評を博した作品を2回分に再編集しアンコール放送することもこの時期から行われるようになった。
@@ -49,7 +49,7 @@
 ### 金曜時代劇（1966 - 1977年度）
 
   - [大岡政談 池田大助捕物帳](https://ja.wikipedia.org/wiki/大岡政談_池田大助捕物帳 "wikilink")（1966年4月 - [1967年](../Page/1967年.md "wikilink")3月）
-  - [文五捕物絵図](https://ja.wikipedia.org/wiki/文五捕物絵図 "wikilink")（1967年4月 - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")10月）
+  - [文五捕物絵図](https://ja.wikipedia.org/wiki/文五捕物絵図 "wikilink")（1967年4月 - [1968年](../Page/1968年.md "wikilink")10月）
   - [開化探偵帳](https://ja.wikipedia.org/wiki/開化探偵帳 "wikilink")（1968年11月 - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月）
   - [鞍馬天狗](https://ja.wikipedia.org/wiki/鞍馬天狗_\(1969年のテレビドラマ\) "wikilink")（1969年10月 - [1970年](../Page/1970年.md "wikilink")10月）
   - [男は度胸](../Page/男は度胸.md "wikilink")（1970年10月 - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")10月）
@@ -157,11 +157,11 @@
 
 このシリーズを最後に、チャンネル再編で総合テレビでの放送枠はいったん消滅。
 
-  - [オトコマエ\!](https://ja.wikipedia.org/wiki/オトコマエ! "wikilink")（2008年4月 - 7月）
+  - [オトコマエ\!](../Page/オトコマエ!.md "wikilink")（2008年4月 - 7月）
   - [陽炎の辻2〜居眠り磐音 江戸双紙〜](../Page/陽炎の辻〜居眠り磐音_江戸双紙〜.md "wikilink")（2008年9月 - 11月）
   - [浪花の華〜緒方洪庵事件帳〜](https://ja.wikipedia.org/wiki/浪花の華〜緒方洪庵事件帳〜 "wikilink")（[2009年](../Page/2009年.md "wikilink")1月 - 3月）
   - [陽炎の辻3〜居眠り磐音 江戸双紙〜](../Page/陽炎の辻〜居眠り磐音_江戸双紙〜.md "wikilink")（2009年4月 - 8月）
-  - [オトコマエ\!](https://ja.wikipedia.org/wiki/オトコマエ! "wikilink")2（2009年9月 - 12月）
+  - [オトコマエ\!](../Page/オトコマエ!.md "wikilink")2（2009年9月 - 12月）
   - [咲くやこの花](https://ja.wikipedia.org/wiki/咲くやこの花_\(テレビドラマ\) "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月 - 3月）
   - [まっつぐ〜鎌倉河岸捕物控〜](https://ja.wikipedia.org/wiki/鎌倉河岸捕物控 "wikilink")（2010年4月 - 8月）
   - [桂ちづる診察日録](https://ja.wikipedia.org/wiki/藍染袴お匙帖 "wikilink")（2010年9月 - 12月）

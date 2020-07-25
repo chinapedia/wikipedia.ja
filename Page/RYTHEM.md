@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")とは[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「スッキリ！」内で紹介されお互いの存在を知り、ラジオ局（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")）で出会い、YUIから元々コラボしようと温めていた楽曲「[Love Call](https://ja.wikipedia.org/wiki/Love_Call/あかりのありか "wikilink")」をコラボレーションしてほしいと依頼し、実現した。
+  - [キマグレン](../Page/キマグレン.md "wikilink")とは[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「スッキリ！」内で紹介されお互いの存在を知り、ラジオ局（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")）で出会い、YUIから元々コラボしようと温めていた楽曲「[Love Call](https://ja.wikipedia.org/wiki/Love_Call/あかりのありか "wikilink")」をコラボレーションしてほしいと依頼し、実現した。
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 | AICL-1687                                                                |                                                                                               |                                                                                                                       |                                       |             |      |                                                                     |
 | 5th                                                                      | 2004年[5月26日](../Page/5月26日.md "wikilink")                                                     | **[万華鏡キラキラ](../Page/万華鏡キラキラ.md "wikilink")**                                                                          | CD                                    | AICL-1534   | 13位  |                                                                     |
 | AICL-1688                                                                |                                                                                               |                                                                                                                       |                                       |             |      |                                                                     |
-| 6th                                                                      | [2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")   | **[ホウキ雲](../Page/ホウキ雲.md "wikilink")**                                                                                | CD                                    | AICL-1585   | 12位  | [夢現ファクトリー](../Page/夢現ファクトリー.md "wikilink")                          |
+| 6th                                                                      | [2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")                      | **[ホウキ雲](../Page/ホウキ雲.md "wikilink")**                                                                                | CD                                    | AICL-1585   | 12位  | [夢現ファクトリー](../Page/夢現ファクトリー.md "wikilink")                          |
 | 7th                                                                      | 2005年[8月24日](../Page/8月24日.md "wikilink")                                                     | **[三日月ラプソディー](../Page/三日月ラプソディー.md "wikilink")**                                                                      | CD                                    | AICL-1649   | 67位  |                                                                     |
 | 8th                                                                      | [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")                        | **[20粒のココロ](../Page/20粒のココロ.md "wikilink")**                                                                          | CD                                    | AICL-1664   | 63位  |                                                                     |
 | 9th                                                                      | 2006年[3月1日](../Page/3月1日.md "wikilink")                                                       | **[ココロビーダマ](../Page/ココロビーダマ.md "wikilink")**                                                                          | CD                                    | AICL-1732   | 53位  |                                                                     |
@@ -516,5 +516,5 @@
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2011年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に解散した音楽グループ "wikilink")
 
 1.  [日本旅行 × RYTHEM　コラボレーションキャンペーン](http://www.nta.co.jp/kansai/rythem/)
-2.  「Love Call」はRYTHEM with [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")名義
+2.  「Love Call」はRYTHEM with [キマグレン](../Page/キマグレン.md "wikilink")名義
 3.  楽曲が起用された年ではなく、音源化された年で明記。

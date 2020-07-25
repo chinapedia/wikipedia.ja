@@ -39,7 +39,7 @@
   - [La-15](../Page/La-15_\(航空機\).md "wikilink")
   - [MiG-9](../Page/MiG-9_\(航空機\).md "wikilink")
   - [MiG-15](../Page/MiG-15_\(航空機\).md "wikilink")
-  - [Su-9](https://ja.wikipedia.org/wiki/Su-9_\(航空機・初代\) "wikilink")
+  - [Su-9](../Page/Su-9_\(航空機・初代\).md "wikilink")
 
 ## 外部リンク
 

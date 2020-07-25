@@ -96,7 +96,7 @@
 
   - [ミショ・ブレチュコ](https://ja.wikipedia.org/wiki/ミショ・ブレチュコ "wikilink") 2006-2007
 
-  - [ローナルド・ゲルサリウ](https://ja.wikipedia.org/wiki/ローナルド・ゲルサリウ "wikilink") 2012–2014
+  - [ローナルド・ゲルサリウ](../Page/ローナルド・ゲルサリウ.md "wikilink") 2012–2014
 
 ### MF
 

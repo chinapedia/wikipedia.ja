@@ -17,7 +17,7 @@
 
 また結成から現在に至るまで地元が名古屋という関係から、近年は[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")との関係が深い。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にはドラゴンズの[チアリーディング](../Page/チアリーディング.md "wikilink")チームである[チア・ドラゴンズ](../Page/チア・ドラゴンズ.md "wikilink")のダンス曲「Winds of Wins」を提供し、[浅尾拓也](../Page/浅尾拓也.md "wikilink")投手に登場曲「1-9(theme from No.41)」を提供した。チア・ドラゴンズに[2011年](../Page/2011年.md "wikilink")「Fly High」、[2012年](../Page/2012年.md "wikilink")「JOIN US」、[2013年](../Page/2013年.md "wikilink")「Let's Dance」を提供しているほか、[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")での中日戦の場内演出などを現在に至るまでDJ MITSUが総合プロデュースしている。
 
-2011年、DJ MITSUの呼びかけで、nobodyknows+とともに名古屋を拠点に活躍し交流のある[HOME MADE 家族や](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[SEAMO](../Page/SEAMO.md "wikilink")のコラボレーションで[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティーソング「HOLD MY HAND」を作成。期間限定リリースながら、iTunes HipHopチャートで1位を記録。収益金の全てを名古屋市に寄付する。
+2011年、DJ MITSUの呼びかけで、nobodyknows+とともに名古屋を拠点に活躍し交流のある[HOME MADE 家族や](../Page/HOME_MADE_家族.md "wikilink")[SEAMO](../Page/SEAMO.md "wikilink")のコラボレーションで[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティーソング「HOLD MY HAND」を作成。期間限定リリースながら、iTunes HipHopチャートで1位を記録。収益金の全てを名古屋市に寄付する。
 
 唯一の主催イベントとなる年末の恒例ワンマンライブ『出張ネバーランド・大忘年会スペシャル』には、名古屋ゆかりのアーティストや著名人、格闘家やプロ野球選手などがゲストとして登場、大盛況を博している。
 
@@ -314,7 +314,7 @@ AICL-1824:通常盤</p></td>
 <td></td>
 <td><ol>
 <li>HOLD MY HAND<br />
-<a href="https://ja.wikipedia.org/wiki/HOME_MADE_家族" title="wikilink">HOME MADE 家族</a>、<a href="../Page/SEAMO.md" title="wikilink">SEAMO</a>とのコラボチャリティーシングル</li>
+<a href="../Page/HOME_MADE_家族.md" title="wikilink">HOME MADE 家族</a>、<a href="../Page/SEAMO.md" title="wikilink">SEAMO</a>とのコラボチャリティーシングル</li>
 </ol></td>
 <td><p>限定流通</p></td>
 </tr>

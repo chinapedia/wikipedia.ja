@@ -149,7 +149,7 @@
   - [香川伸行](../Page/香川伸行.md "wikilink")（1990年 - 2001年）
   - [高倉照幸](../Page/高倉照幸.md "wikilink")
   - [野口正明](../Page/野口正明.md "wikilink")
-  - [簑原宏](https://ja.wikipedia.org/wiki/簑原宏 "wikilink")
+  - [簑原宏](../Page/簑原宏.md "wikilink")
   - [基満男](../Page/基満男.md "wikilink")（1989年。当時[tvk解説者兼](../Page/テレビ神奈川.md "wikilink")）
   - [山内孝徳](../Page/山内孝徳.md "wikilink")（1993年 - 2013年。現：TOKYO MX ホークス球団制作中継解説者）『強気のエース』→『ホークス一筋のエース』
   - [杉本正](../Page/杉本正_\(野球\).md "wikilink")（1994年）

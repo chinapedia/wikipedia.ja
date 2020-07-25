@@ -29,7 +29,7 @@ Eスポが発生すると、通常は受信できない遠距離のVHF放送やV
 
 トーンスケルチ機能を持たない場合、[地方自治体](https://ja.wikipedia.org/wiki/地方自治体 "wikilink")の同報系[防災無線](../Page/防災無線.md "wikilink")設備を利用した「地方自治体からのお知らせ」などが、同じ周波数を使っている遠方の地方自治体の設備で受信され、全く関係ない土地の「お知らせ」が流れることがある。
 
-[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")では21MHz帯、28MHz帯、50MHz帯の[周波数の反射が顕著で](../Page/アマチュア無線の周波数帯.md "wikilink")、長距離（300 - 1500km以内。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")⇔[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")、関東⇔[九州](../Page/九州.md "wikilink")）の交信が可能となる。(ただし、21MHz以下の周波数(7MHz〜18MHz等)でもEスポによる反射は起こっている。)
+[アマチュア無線](../Page/アマチュア無線.md "wikilink")では21MHz帯、28MHz帯、50MHz帯の[周波数の反射が顕著で](../Page/アマチュア無線の周波数帯.md "wikilink")、長距離（300 - 1500km以内。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")⇔[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")、関東⇔[九州](../Page/九州.md "wikilink")）の交信が可能となる。(ただし、21MHz以下の周波数(7MHz〜18MHz等)でもEスポによる反射は起こっている。)
 
 また[市民ラジオ](../Page/市民ラジオ.md "wikilink")では、出力0.5Wの小電力と小型ホイップアンテナの無線設備でありながらも、Eスポ反射を利用した1000km以上の遠距離交信も可能となる。（[オーストラリア](../Page/オーストラリア.md "wikilink")と通信してしまった実例がある。国外のCB無線局と通信するのは電波法違反だが「犯意なし」ということで処分はされなかった。）
 

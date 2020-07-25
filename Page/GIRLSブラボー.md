@@ -330,7 +330,7 @@
 <tr class="even">
 <td><p>7</p></td>
 <td><p>おムコさん探しでブラボー!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/そ〜とめこういちろう" title="wikilink">そーとめこういちろう</a></p></td>
+<td><p><a href="../Page/そ〜とめこういちろう.md" title="wikilink">そーとめこういちろう</a></p></td>
 <td><p>花井信也</p></td>
 <td><p>荒尾英幸</p></td>
 <td></td>

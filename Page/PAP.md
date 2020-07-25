@@ -4,7 +4,7 @@
 **PAP**
 
   - プロトコル
-      - [Password Authentication Protocol](https://ja.wikipedia.org/wiki/Password_Authentication_Protocol "wikilink") - [Point-to-Point Protocol](../Page/Point-to-Point_Protocol.md "wikilink") の一部のデータ通信を行うための認証プロトコル。
+      - [Password Authentication Protocol](../Page/Password_Authentication_Protocol.md "wikilink") - [Point-to-Point Protocol](../Page/Point-to-Point_Protocol.md "wikilink") の一部のデータ通信を行うための認証プロトコル。
       - [Printer Access Protocol](https://ja.wikipedia.org/wiki/Printer_Access_Protocol "wikilink") - [AppleTalk](../Page/AppleTalk.md "wikilink")の一部のプリンタ共有のためのプロトコル。
   - 酵素
       - [前立腺酸性ホスファターゼ](https://ja.wikipedia.org/wiki/前立腺酸性ホスファターゼ "wikilink") () - [前立腺特異抗原](../Page/前立腺特異抗原.md "wikilink")のマーカーに使われる。

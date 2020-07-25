@@ -7,7 +7,7 @@
 
 ## 沿革
 
-[1981年](../Page/1981年.md "wikilink")に開催された[神戸ポートアイランド博覧会](../Page/神戸ポートアイランド博覧会.md "wikilink")に[UCC上島珈琲](../Page/UCC上島珈琲.md "wikilink")が出展した[コーヒーカップ](../Page/コーヒーカップ.md "wikilink")を模した外観の[パビリオン](../Page/パビリオン.md "wikilink")**「UCCコーヒー館」**をルーツとする施設で、博覧会閉幕後に名称を現在のUCCコーヒー博物館として営業開始した。日本で唯一、[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")のみをテーマにした博物館である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")からの大改装によりコーヒー文化発祥の[イスラム教](../Page/イスラム教.md "wikilink")の[モスク](../Page/モスク.md "wikilink")を模した外観に変更され、コーヒー学の確立とコーヒー文化の普及を目的に掲げて[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")にリニューアルオープンした。なお、この10月1日は「[国際コーヒーの日](https://ja.wikipedia.org/wiki/国際コーヒーの日 "wikilink")」にあたる。
+[1981年](../Page/1981年.md "wikilink")に開催された[神戸ポートアイランド博覧会](../Page/神戸ポートアイランド博覧会.md "wikilink")に[UCC上島珈琲](../Page/UCC上島珈琲.md "wikilink")が出展した[コーヒーカップ](../Page/コーヒーカップ.md "wikilink")を模した外観の[パビリオン](../Page/パビリオン.md "wikilink")**「UCCコーヒー館」**をルーツとする施設で、博覧会閉幕後に名称を現在のUCCコーヒー博物館として営業開始した。日本で唯一、[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")のみをテーマにした博物館である。[1986年](../Page/1986年.md "wikilink")からの大改装によりコーヒー文化発祥の[イスラム教](../Page/イスラム教.md "wikilink")の[モスク](../Page/モスク.md "wikilink")を模した外観に変更され、コーヒー学の確立とコーヒー文化の普及を目的に掲げて[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")にリニューアルオープンした。なお、この10月1日は「[国際コーヒーの日](https://ja.wikipedia.org/wiki/国際コーヒーの日 "wikilink")」にあたる。
 
 ## 展示内容
 

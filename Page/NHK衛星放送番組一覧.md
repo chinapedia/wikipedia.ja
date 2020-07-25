@@ -282,11 +282,11 @@
   - [こだわりライフヨーロッパ](https://ja.wikipedia.org/wiki/こだわりライフヨーロッパ "wikilink")
   - [アジアンスマイル](https://ja.wikipedia.org/wiki/アジアンスマイル "wikilink")
   - [ニューヨークウェーブ](https://ja.wikipedia.org/wiki/ニューヨークウェーブ "wikilink")
-  - [ジェネレーションY〜地球未来図〜](https://ja.wikipedia.org/wiki/ジェネレーションY〜地球未来図〜 "wikilink")
+  - [ジェネレーションY〜地球未来図〜](../Page/ジェネレーションY〜地球未来図〜.md "wikilink")
   - [地球ウォーカー](https://ja.wikipedia.org/wiki/地球ウォーカー "wikilink")（2003年4月9日 - 2004年10月24日放送）
   - [地球街角アングル](https://ja.wikipedia.org/wiki/地球街角アングル "wikilink")（2004年10月29日 - 2006年4月2日放送） - NHKワールドでも放送。
   - [ニューヨーク街物語](https://ja.wikipedia.org/wiki/ニューヨーク街物語 "wikilink")（2006年4月9日 - 2009年3月28日放送）
-  - [関口知宏のファーストジャパニーズ](https://ja.wikipedia.org/wiki/関口知宏のファーストジャパニーズ "wikilink")
+  - [関口知宏のファーストジャパニーズ](../Page/関口知宏のファーストジャパニーズ.md "wikilink")
   - [関口知宏のOnly1](https://ja.wikipedia.org/wiki/関口知宏のOnly1 "wikilink")
   - [BS特集](../Page/BS特集.md "wikilink")
   - [20世紀・家族の歳月](https://ja.wikipedia.org/wiki/20世紀・家族の歳月 "wikilink")
@@ -465,7 +465,7 @@
   - [BS永遠の音楽大全集](../Page/BS永遠の音楽大全集.md "wikilink")
   - [BSサタデーライブ](https://ja.wikipedia.org/wiki/BSサタデーライブ "wikilink")
   - [サンデーヤングミュージック](../Page/サンデーヤングミュージック.md "wikilink")
-  - [渋谷らいぶステージ](https://ja.wikipedia.org/wiki/渋谷らいぶステージ "wikilink")
+  - [渋谷らいぶステージ](../Page/渋谷らいぶステージ.md "wikilink")
   - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")
   - [フォークの達人](../Page/フォークの達人.md "wikilink")
   - [蔵出し劇場](../Page/蔵出し劇場.md "wikilink") [ビッグショー](../Page/ビッグショー_\(テレビ番組\).md "wikilink")
@@ -539,7 +539,7 @@
   - [華麗なるペテン師たち](../Page/華麗なるペテン師たち.md "wikilink")
   - [FBI失踪者を追え](https://ja.wikipedia.org/wiki/FBI失踪者を追え "wikilink")
   - [オールイン 運命の愛](../Page/オールイン_運命の愛.md "wikilink")
-  - [南北戦争物語 愛と自由への大地](https://ja.wikipedia.org/wiki/南北戦争物語_愛と自由への大地 "wikilink")
+  - [南北戦争物語 愛と自由への大地](../Page/南北戦争物語_愛と自由への大地.md "wikilink")
   - [ザ・ホスピタル](../Page/ザ・ホスピタル.md "wikilink")
   - [ステート・ウイズイン 〜テロリストの幻影〜](https://ja.wikipedia.org/wiki/ステート・ウイズイン_〜テロリストの幻影〜 "wikilink")
 
@@ -554,7 +554,7 @@
   - [あなたのアンコール](../Page/あなたのアンコール.md "wikilink")
   - [BS大好き](https://ja.wikipedia.org/wiki/BS大好き "wikilink")（BShiとの[サイマル放送](../Page/サイマル放送.md "wikilink")。ただし、BShiではプロ野球中継など特別番組や土曜ドラマ放送時には放送しない場合があるが、この場合はBS2のみで放送される）
   - ワールドニュースアワー（BS1がメジャーリーグ中継により放送できない時は、8時台のみBS2で放送している。）
-  - [大逆転将棋](https://ja.wikipedia.org/wiki/大逆転将棋 "wikilink")（毎年正月明けに放送）
+  - [大逆転将棋](../Page/大逆転将棋.md "wikilink")（毎年正月明けに放送）
   - [ふるさと競演](https://ja.wikipedia.org/wiki/ふるさと競演 "wikilink")（[秋田放送局制作](../Page/NHK秋田放送局.md "wikilink")、不定期に放送される）
   - [日めくりタイムトラベル](https://ja.wikipedia.org/wiki/日めくりタイムトラベル "wikilink")
       - 2009年4月29日には総合テレビで『日めくりタイムトラベル なるほど\!昭和バスツアー』と題した単発番組を放送（字幕放送あり、バスツアーのロケのみハイビジョン収録）
@@ -757,7 +757,7 @@
 <!-- end list -->
 
   - [100年インタビュー](../Page/100年インタビュー.md "wikilink")
-  - [わたしが子どもだったころ](https://ja.wikipedia.org/wiki/わたしが子どもだったころ_\(テレビ番組\) "wikilink")
+  - [わたしが子どもだったころ](../Page/わたしが子どもだったころ_\(テレビ番組\).md "wikilink")
   - [ダーウィンの動物大図鑑 はろ〜\!あにまる](https://ja.wikipedia.org/wiki/ダーウィンの動物大図鑑_はろ〜!あにまる "wikilink")
 
 <!-- end list -->

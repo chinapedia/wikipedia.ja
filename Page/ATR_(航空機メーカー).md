@@ -25,7 +25,7 @@
 
 ## 日本での動き
 
-  - [2007年](../Page/2007年.md "wikilink")4月にATR社副社長が来日し、[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")や[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")などの航空会社や[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[沖縄県](../Page/沖縄県.md "wikilink")などの地方公共団体を訪問しATR機の商品特性について説明した。同年6月にはさらに、アレーニア・アエロナウティカの親会社である[フィンメッカニカ](https://ja.wikipedia.org/wiki/フィンメッカニカ "wikilink")社の[社長](../Page/社長.md "wikilink")兼[CEOが来日し](../Page/最高経営責任者.md "wikilink")、ATR社の日本の小型旅客機市場への参入を表明した\[2\]。
+  - [2007年](../Page/2007年.md "wikilink")4月にATR社副社長が来日し、[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")や[全日本空輸](../Page/全日本空輸.md "wikilink")などの航空会社や[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[沖縄県](../Page/沖縄県.md "wikilink")などの地方公共団体を訪問しATR機の商品特性について説明した。同年6月にはさらに、アレーニア・アエロナウティカの親会社である[フィンメッカニカ](https://ja.wikipedia.org/wiki/フィンメッカニカ "wikilink")社の[社長](../Page/社長.md "wikilink")兼[CEOが来日し](../Page/最高経営責任者.md "wikilink")、ATR社の日本の小型旅客機市場への参入を表明した\[2\]。
 
 <!-- end list -->
 

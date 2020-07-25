@@ -27,7 +27,7 @@
   - 第31・32回放送(2004年9月18日・9月25日配信)　櫻井優香（オンザランA\&R）
   - 第54回放送(2005年2月26日配信)　[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")
   - 第55回放送(2005年3月5日配信)　[橋本みゆき](../Page/橋本みゆき.md "wikilink")
-  - 第61回放送(2005年4月16日配信)　[らまマン](https://ja.wikipedia.org/wiki/らまマン "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")
+  - 第61回放送(2005年4月16日配信)　[らまマン](https://ja.wikipedia.org/wiki/らまマン "wikilink")、[かゆらゆか](../Page/かゆらゆか.md "wikilink")
   - 第64回放送(2005年5月7日配信)　[らまマン](https://ja.wikipedia.org/wiki/らまマン "wikilink")
   - 第72・73回放送(2005年7月2日・7月9日配信)　[橋本みゆき](../Page/橋本みゆき.md "wikilink")
   - 第76回放送(2005年7月30日配信)　[bamboo](../Page/Milktub.md "wikilink")（[グリーングリーン3](../Page/グリーングリーン3_ハローグッバイ.md "wikilink") [プロデューサー](../Page/プロデューサー.md "wikilink")）

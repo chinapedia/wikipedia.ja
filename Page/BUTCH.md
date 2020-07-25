@@ -20,7 +20,7 @@
   - [競艇](../Page/競艇.md "wikilink")、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")、[酒](../Page/酒.md "wikilink")が好き。泳ぎ、理数系が苦手。
   - 既婚。1度[離婚](../Page/離婚.md "wikilink")経験がある。
   - [遅刻](../Page/遅刻.md "wikilink")癖がある。生放送の番組に遅れて出てくるのも珍しくない。
-  - 昔[キャラクターショー](https://ja.wikipedia.org/wiki/キャラクターショー "wikilink")の[スーツアクター](../Page/スーツアクター.md "wikilink")をやっていた。
+  - 昔[キャラクターショー](../Page/キャラクターショー.md "wikilink")の[スーツアクター](../Page/スーツアクター.md "wikilink")をやっていた。
   - 2001年に、「あの、煌めきの日々よ」という舞台に出演した。
 
 ## [ブチカン内天気予報の物真似レパートリー](../Page/BUTCH_COUNTDOWN_RADIO.md "wikilink")

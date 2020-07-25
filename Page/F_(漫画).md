@@ -1,7 +1,7 @@
 > この記事は[F \(漫画\)](https://ja.wikipedia.org/wiki/F_\(漫画\))から翻訳されています。
 
 
-『**F**』（エフ）は、[六田登](../Page/六田登.md "wikilink")による日本の漫画、またそれを原作にした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1992年](../Page/1992年.md "wikilink")まで『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて連載された。単行本は[小学館](../Page/小学館.md "wikilink")より発刊。全28巻（文庫版は全19巻）。
+『**F**』（エフ）は、[六田登](../Page/六田登.md "wikilink")による日本の漫画、またそれを原作にした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1986年](../Page/1986年.md "wikilink")から[1992年](../Page/1992年.md "wikilink")まで『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて連載された。単行本は[小学館](../Page/小学館.md "wikilink")より発刊。全28巻（文庫版は全19巻）。
 
 [2002年](../Page/2002年.md "wikilink")には続編の『[F REGENERATION 瑠璃](../Page/F_REGENERATION_瑠璃.md "wikilink")』、さらに[2009年](../Page/2009年.md "wikilink")にはシリーズ最新作の『[F FINAL](https://ja.wikipedia.org/wiki/F_FINAL "wikilink")』が登場している。
 
@@ -205,7 +205,7 @@
 
   - [ゲイリー・ブラバム](https://ja.wikipedia.org/wiki/ゲイリー・ブラバム "wikilink")
 
-  - [ディモン・ヒル](https://ja.wikipedia.org/wiki/デイモン・ヒル "wikilink")
+  - [ディモン・ヒル](../Page/デイモン・ヒル.md "wikilink")
 
   - [マーチン・ドネリー](../Page/マーティン・ドネリー.md "wikilink")
 
@@ -241,7 +241,7 @@
 
   - 製作 - [多賀英典](../Page/多賀英典.md "wikilink")
   - 原作 - [六田登](../Page/六田登.md "wikilink")
-  - 企画 - [落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")
+  - 企画 - [落合茂一](../Page/落合茂一.md "wikilink")
   - 監督 - [真下耕一](../Page/真下耕一.md "wikilink")
   - シリーズ構成・脚本 - [高屋敷英夫](../Page/高屋敷英夫.md "wikilink")
   - キャラクターデザイン - 工藤柾輝

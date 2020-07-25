@@ -87,7 +87,7 @@
   - [エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")
   - [トム・ペティ＆ハートブレイカーズ](https://ja.wikipedia.org/wiki/トム・ペティ＆ハートブレイカーズ "wikilink")
   - [ボビー・ブラウン](../Page/ボビー・ブラウン.md "wikilink")
-  - [ジョディ・ワトリー](https://ja.wikipedia.org/wiki/ジョディ・ワトリー "wikilink")
+  - [ジョディ・ワトリー](../Page/ジョディ・ワトリー.md "wikilink")
   - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")
 
 ## リイシューの状況

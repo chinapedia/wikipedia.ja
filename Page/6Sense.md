@@ -27,7 +27,7 @@
 （7時台）
 
   - [STARBUCKS World in Motion](https://ja.wikipedia.org/wiki/STARBUCKS_World_In_Motion "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - ） - ニュースと話題
-  - [聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")プラネットグラフィティ - CM扱いのため、TFMのタイムテーブルには掲載されていない。地球環境にちなんだ話題
+  - [聖教新聞](../Page/聖教新聞.md "wikilink")プラネットグラフィティ - CM扱いのため、TFMのタイムテーブルには掲載されていない。地球環境にちなんだ話題
   - [リポビタンD](../Page/リポビタンD.md "wikilink") SPORTS FILE - スポーツニュースとスポーツに関連した話題。毎日頑張っている人1名にリポビタンDを1ケースプレゼントする企画もやっている。
   - [TOYOTA VIEW UP TOMORROW](https://ja.wikipedia.org/wiki/TOYOTA_VIEW_UP_TOMORROW "wikilink") - 各界で活躍する人物にインタビューをおこなう。
   - [フライエミレーツ](../Page/エミレーツ航空.md "wikilink") NEWS ON AIR - 海外からのニュース。

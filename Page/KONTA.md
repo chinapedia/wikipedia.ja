@@ -92,7 +92,7 @@
 
 ### ゲーム
 
-  - [遊☆戯☆王ゼアル デュエルターミナル](https://ja.wikipedia.org/wiki/遊☆戯☆王ゼアル_デュエルターミナル "wikilink") - リシド 役
+  - [遊☆戯☆王ゼアル デュエルターミナル](../Page/遊☆戯☆王ゼアル_デュエルターミナル.md "wikilink") - リシド 役
   - [ロリポップチェーンソー](https://ja.wikipedia.org/wiki/ロリポップチェーンソー "wikilink")（2012年、[角川ゲームス](https://ja.wikipedia.org/wiki/角川ゲームス "wikilink")） - ルイス・レジェンド 役
 
 ## ディスコグラフィー

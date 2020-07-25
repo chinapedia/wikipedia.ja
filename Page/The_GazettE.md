@@ -121,7 +121,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 
 <!-- end list -->
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、上記ツアー(「Pulse Wriggling To Black」)の最中に12thシングル『[紅蓮](https://ja.wikipedia.org/wiki/紅蓮_\(曲\) "wikilink")』をリリース。同時期に[ジェムケリー](https://ja.wikipedia.org/wiki/ジェムケリー "wikilink")とのコラボレーション・アクセサリーを限定発売し、そのテレビCMに表題曲が使用された(のち2010年末に18thシングル『PLEDGE』で再びジェムケリーとのコラボレーションを行う)。同年11月12日に13thシングル『[LEECH](https://ja.wikipedia.org/wiki/LEECH "wikilink")』をリリースし、初のオリコン・デイリーチャート1位を記録。15日に[新宿ステーションスクエアにてシークレットライブを行ったところ約](../Page/新宿アルタ.md "wikilink")7,000人のファンが殺到し、2曲を演奏したところで中止となった。この様子はネットで生中継されると共に、後日[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")内で特集された。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、上記ツアー(「Pulse Wriggling To Black」)の最中に12thシングル『[紅蓮](../Page/紅蓮_\(曲\).md "wikilink")』をリリース。同時期に[ジェムケリー](https://ja.wikipedia.org/wiki/ジェムケリー "wikilink")とのコラボレーション・アクセサリーを限定発売し、そのテレビCMに表題曲が使用された(のち2010年末に18thシングル『PLEDGE』で再びジェムケリーとのコラボレーションを行う)。同年11月12日に13thシングル『[LEECH](https://ja.wikipedia.org/wiki/LEECH "wikilink")』をリリースし、初のオリコン・デイリーチャート1位を記録。15日に[新宿ステーションスクエアにてシークレットライブを行ったところ約](../Page/新宿アルタ.md "wikilink")7,000人のファンが殺到し、2曲を演奏したところで中止となった。この様子はネットで生中継されると共に、後日[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")内で特集された。
 
 <!-- end list -->
 
@@ -324,7 +324,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/紅蓮_(曲)" title="wikilink">紅蓮</a></strong></p></td>
+<td><p><strong><a href="../Page/紅蓮_(曲).md" title="wikilink">紅蓮</a></strong></p></td>
 <td><p>2008年2月13日</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ジェムケリー" title="wikilink">ジェムケリー</a>」CMソング、オリコン総合チャート3位</p></td>
 </tr>

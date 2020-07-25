@@ -1,7 +1,7 @@
 > この記事は[UNICORN](https://ja.wikipedia.org/wiki/UNICORN)から翻訳されています。
 
 
-**UNICORN**（ユニコーン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")にて結成し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、アルバム『[BOOM](../Page/BOOM.md "wikilink")』でデビュー。[1993年](../Page/1993年.md "wikilink")に解散。[2009年](../Page/2009年.md "wikilink")に再結成し活動を再開した。
+**UNICORN**（ユニコーン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1986年](../Page/1986年.md "wikilink")に[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")にて結成し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、アルバム『[BOOM](../Page/BOOM.md "wikilink")』でデビュー。[1993年](../Page/1993年.md "wikilink")に解散。[2009年](../Page/2009年.md "wikilink")に再結成し活動を再開した。
 
 ## 概要
 
@@ -218,7 +218,7 @@ PlotData=
 
 ## 略歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月、川西、手島が中心となって「ユニコーン」を結成。手島が、ライブハウスの演奏で目をつけていたEBI(堀内)を勧誘し加入。2度の勧誘を経て最後に奥田が加入。12月、CBSソニーオーディション決勝にて合格。
+  - [1986年](../Page/1986年.md "wikilink")3月、川西、手島が中心となって「ユニコーン」を結成。手島が、ライブハウスの演奏で目をつけていたEBI(堀内)を勧誘し加入。2度の勧誘を経て最後に奥田が加入。12月、CBSソニーオーディション決勝にて合格。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月21日、1stアルバム『[BOOM](../Page/BOOM.md "wikilink")』でデビュー。
   - [1988年](../Page/1988年.md "wikilink")1月、向井が健康上の理由から脱退。以後のレコーディングとライヴには、[笹路正徳](../Page/笹路正徳.md "wikilink")、阿部義晴がサポートメンバーとして参加。5月、阿部が正式加入。
   - [1989年](../Page/1989年.md "wikilink")7月10日、初の[日本武道館](../Page/日本武道館.md "wikilink")でのライヴを行う。
@@ -824,7 +824,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 5/2 広島郵便貯金会館<br />
 5/3 愛媛県県民文化会館<br />
 5/5 <a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a><br />
-5/6 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+5/6 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 5/8 大阪厚生年金会館<br />
 5/10 <a href="https://ja.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県民ホール</a><br />
 5/11 栃木会館<br />
@@ -905,7 +905,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 1/26 大阪厚生年金会館<br />
 1/27 大阪厚生年金会館<br />
 1/29 宮城県民会館<br />
-2/2 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール</a><br />
+2/2 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール</a><br />
 2/3 鳥取市民会館<br />
 2/4 島根県民会館<br />
 2/6 広島郵便貯金会館<br />

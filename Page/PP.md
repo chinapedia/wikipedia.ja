@@ -37,7 +37,7 @@
   - [パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")
   - [ポールポジション (曖昧さ回避)](https://ja.wikipedia.org/wiki/ポールポジション_\(曖昧さ回避\) "wikilink") (**p**ole **p**osition)
   - [プロスペクト](https://ja.wikipedia.org/wiki/プロスペクト "wikilink")（**P**ros**P**ect） - 「見込み客」を意味する営業用語
-  - [プロダクトプレイスメント](https://ja.wikipedia.org/wiki/プロダクトプレイスメント "wikilink") (**P**roduct **P**lacement) - 劇中において、小道具とや背景として商標を表示させる手法のこと。
+  - [プロダクトプレイスメント](../Page/プロダクトプレイスメント.md "wikilink") (**P**roduct **P**lacement) - 劇中において、小道具とや背景として商標を表示させる手法のこと。
   - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")：JO**PP**-DTV/JO**PP**-FM）
   - [ワルサーPP](../Page/ワルサーPP.md "wikilink") (*Polizei Pistole*)
   - PP（ぺーぺー）- [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[政党](../Page/政党.md "wikilink")である[国民党](../Page/国民党_\(スペイン\).md "wikilink")（Partido Popular）の略称

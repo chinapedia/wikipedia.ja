@@ -12,7 +12,7 @@
   - [1933年](../Page/1933年.md "wikilink")（昭和8年）[7月25日](../Page/7月25日.md "wikilink") - 札幌-仙台間の中継線開通\[4\]。
   - [1934年](../Page/1934年.md "wikilink")（昭和9年）[5月16日](../Page/5月16日.md "wikilink") - 支部制廃止\[5\]。本部（東京）の下に置かれた全国6中央放送局の1つとなる\[6\]。
   - [1943年](../Page/1943年.md "wikilink")（昭和18年） - 仙台放送合唱団が専属の[プロ](../Page/プロフェッショナル.md "wikilink")[合唱団](https://ja.wikipedia.org/wiki/合唱団 "wikilink")として発足。
-  - [1944年](../Page/1944年.md "wikilink")（昭和19年） - [仙台放送管弦楽団が発足](https://ja.wikipedia.org/wiki/NHK仙台放送管弦楽団 "wikilink")。
+  - [1944年](../Page/1944年.md "wikilink")（昭和19年） - [仙台放送管弦楽団が発足](../Page/NHK仙台放送管弦楽団.md "wikilink")。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）[9月23日](../Page/9月23日.md "wikilink") - 局内に[進駐軍の放送局である](../Page/連合国軍最高司令官総司令部.md "wikilink")[AFRS仙台](../Page/AFN.md "wikilink")（WLKE、1450[kc/s](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 3[kW](https://ja.wikipedia.org/wiki/キロワット "wikilink")）が開局し、[原町ラジオ放送所から送信を開始](../Page/NHK原町ラジオ放送所.md "wikilink")。同局は、キャンプ・センダイ（[仙台城](../Page/仙台城.md "wikilink")二の丸）に移転後、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）[10月3日](../Page/10月3日.md "wikilink")閉局。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1956年](../Page/1956年.md "wikilink")（昭和31年）[3月21日](../Page/3月21日.md "wikilink") - テレビ放送開始\[7\]\[8\]。
@@ -345,7 +345,7 @@
   - よじらじ\!宮城
   - [夕べのひととき](https://ja.wikipedia.org/wiki/夕べのひと時 "wikilink")（FM放送 月-金曜日 18:00 - 18:50）
       - 東北ブロックネット。2011年度から2013年度までは「サバトセーラ東北」として土曜日単日の放送に集約。
-  - [ぬくだまりの宿 みちのく亭](https://ja.wikipedia.org/wiki/ぬくだまりの宿_みちのく亭 "wikilink")（ラジオ第1放送 全国放送 毎月第2火曜日 21:30 - 21:55）
+  - [ぬくだまりの宿 みちのく亭](../Page/ぬくだまりの宿_みちのく亭.md "wikilink")（ラジオ第1放送 全国放送 毎月第2火曜日 21:30 - 21:55）
   - [サバトセーラ東北](https://ja.wikipedia.org/wiki/サバトセーラ東北 "wikilink")（FM放送 土曜日 18:00 - 18:50） - 東北6県ブロックネット。「[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")定期演奏会中継」等、特別番組で休止あり。
   - 仙台音楽倶楽部（月1回土曜日 16:00 - 18:50） - [FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")の仙台放送局制作枠を引き継いだもので、年に一度はテレビ用スタジオからの公開生放送を実施。総合テレビ（宮城県域のみ）で後日、深夜枠にその模様を放映したこともあった。東日本大震災以降休止していたが、2011年8月から再開。2011年12月29日に全国放送を行った。2014年3月末をもって終了。
 
@@ -651,7 +651,7 @@
 
 ## 専属の音楽部門
 
-  - [NHK仙台放送管弦楽団](https://ja.wikipedia.org/wiki/NHK仙台放送管弦楽団 "wikilink")
+  - [NHK仙台放送管弦楽団](../Page/NHK仙台放送管弦楽団.md "wikilink")
   - NHK仙台少年少女合唱隊
 
 <!-- end list -->

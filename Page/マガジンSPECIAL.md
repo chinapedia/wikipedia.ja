@@ -96,7 +96,7 @@
 
       - （外部リンク）
   - [ガチャガチャ](../Page/ガチャガチャ.md "wikilink")（[玉越博幸](../Page/玉越博幸.md "wikilink")）2003年No.8 - 2007年10月 ← 本誌より移籍
-  - [奏 〜かなで〜](https://ja.wikipedia.org/wiki/奏_〜かなで〜 "wikilink")（[瀬上あきら](../Page/瀬上あきら.md "wikilink")）2008年No.5 - 2011年No.12
+  - [奏 〜かなで〜](../Page/奏_〜かなで〜.md "wikilink")（[瀬上あきら](../Page/瀬上あきら.md "wikilink")）2008年No.5 - 2011年No.12
   - [彼女とキスする50の方法](https://ja.wikipedia.org/wiki/彼女とキスする50の方法 "wikilink")（[山根聖史](https://ja.wikipedia.org/wiki/山根聖史 "wikilink")）2008年No.8 - 2009年No.12
   - [彼女の感触](https://ja.wikipedia.org/wiki/彼女の感触 "wikilink")（[前田峻也](https://ja.wikipedia.org/wiki/前田峻也 "wikilink")）2015年No.1 - No.10
   - [神喰らい 〜カミグライ〜](https://ja.wikipedia.org/wiki/神喰らい_〜カミグライ〜 "wikilink")（瀬上あきら）2007年No.1 - No.3、短期集中連載
@@ -116,7 +116,7 @@
   - [さよならトリガー](https://ja.wikipedia.org/wiki/さよならトリガー "wikilink")（[千田大輔](https://ja.wikipedia.org/wiki/千田大輔 "wikilink")）2014年No.1 - 2016年No.2
   - [30センチスター](https://ja.wikipedia.org/wiki/30センチスター "wikilink")（[北野詠一](https://ja.wikipedia.org/wiki/北野詠一 "wikilink")）2013年No.11 - 2014年No.9
   - [JKコンプレックス](https://ja.wikipedia.org/wiki/JKコンプレックス "wikilink")（[松下こーいち](https://ja.wikipedia.org/wiki/松下こーいち "wikilink")）2011年No.7 - 2012年No.11 ★
-  - [Z-END](https://ja.wikipedia.org/wiki/ジエンド "wikilink")（[村枝賢一](../Page/村枝賢一.md "wikilink")）2009年No.9 - 2010年No.6 ← 『[ヒーロークロスライン](../Page/ヒーロークロスライン.md "wikilink")』より移籍
+  - [Z-END](../Page/ジエンド.md "wikilink")（[村枝賢一](../Page/村枝賢一.md "wikilink")）2009年No.9 - 2010年No.6 ← 『[ヒーロークロスライン](../Page/ヒーロークロスライン.md "wikilink")』より移籍
       - （外部リンク）
   - [CITY GAME -都市遊戯-](https://ja.wikipedia.org/wiki/CITY_GAME_-都市遊戯- "wikilink")（[結城利哉](https://ja.wikipedia.org/wiki/結城利哉 "wikilink")） ★
   - [GIANT STEP](https://ja.wikipedia.org/wiki/GIANT_STEP "wikilink")（[寺嶋裕二](../Page/寺嶋裕二.md "wikilink")）2002年No.2 - 2003年No.8
@@ -205,7 +205,7 @@
   - [BOYS BE… next season](https://ja.wikipedia.org/wiki/BOYS_BE… "wikilink")（原作/[イタバシマサヒロ](https://ja.wikipedia.org/wiki/イタバシマサヒロ "wikilink") 漫画/玉越博幸）2009年No.11 - 2012年No.3
   - [ホームベース\!](https://ja.wikipedia.org/wiki/ホームベース! "wikilink")（[松下マイ](https://ja.wikipedia.org/wiki/松下マイ "wikilink")） ★
   - [ポッキリ劇場](https://ja.wikipedia.org/wiki/ポッキリ劇場 "wikilink")（[西本英雄](../Page/西本英雄.md "wikilink")） ★
-  - [ボックス\!](https://ja.wikipedia.org/wiki/ボックス! "wikilink")（原作/[百田尚樹](../Page/百田尚樹.md "wikilink") 作画/[大羽隆廣](https://ja.wikipedia.org/wiki/大羽隆廣 "wikilink")）2010年No.12 - 2012年No.11
+  - [ボックス\!](https://ja.wikipedia.org/wiki/ボックス! "wikilink")（原作/[百田尚樹](../Page/百田尚樹.md "wikilink") 作画/[大羽隆廣](../Page/大羽隆廣.md "wikilink")）2010年No.12 - 2012年No.11
   - [Pop'n蘭丸](https://ja.wikipedia.org/wiki/Pop'n蘭丸 "wikilink")（[井上大助](../Page/井上大助.md "wikilink")） ★
 
 #### ま行

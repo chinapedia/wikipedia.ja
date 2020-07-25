@@ -24,7 +24,7 @@
 ### 1985年-1989年（1985年 リーグ初優勝）
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"):得点王とアシスト王の2冠に輝いた[ピヤポン・ピウオン](../Page/ピヤポン・ピウオン.md "wikilink")を擁した1985年に初のリーグ優勝を飾った。
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"):リーグ準優勝
+    [1986年](../Page/1986年.md "wikilink"):リーグ準優勝
     [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink"):リーグ5位
     [1988年](../Page/1988年.md "wikilink"):リーグ4位、FAカップ優勝
     [1989年](../Page/1989年.md "wikilink"):韓国プロサッカー大会準優勝
@@ -259,7 +259,7 @@
 
   - [リカルド・エステベス](https://ja.wikipedia.org/wiki/リカルド・エステベス "wikilink") 2010
 
-  - [セルヴェル・ジェパロフ](https://ja.wikipedia.org/wiki/セルヴェル・ジェパロフ "wikilink") 2010-2011
+  - [セルヴェル・ジェパロフ](../Page/セルヴェル・ジェパロフ.md "wikilink") 2010-2011
 
   - [マウリシオ・モリーナ](https://ja.wikipedia.org/wiki/マウリシオ・モリーナ "wikilink") 2011-2015
 

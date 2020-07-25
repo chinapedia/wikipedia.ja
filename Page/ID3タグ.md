@@ -239,7 +239,7 @@ ID3v1.1 形式
 </tr>
 <tr class="even">
 <td><p>49</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴシック・ロック" title="wikilink">Gothic</a></p></td>
+<td><p><a href="../Page/ゴシック・ロック.md" title="wikilink">Gothic</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>50</p></td>
@@ -403,7 +403,7 @@ ID3v1.1 形式
 </tr>
 <tr class="odd">
 <td><p>91</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴシック・ロック" title="wikilink">Gothic Rock</a></p></td>
+<td><p><a href="../Page/ゴシック・ロック.md" title="wikilink">Gothic Rock</a></p></td>
 </tr>
 <tr class="even">
 <td><p>92</p></td>

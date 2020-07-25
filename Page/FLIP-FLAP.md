@@ -31,7 +31,7 @@
   - 地球たべもの大百科（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")、2000年4月 - 2002年3月） - レギュラー
   - [天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")（NHK教育テレビ、2001年4月 - ） - レギュラー（2005年4月以降は不定期）
   - ツインズ探偵社2（テレビ東京、2004年4月 - 2005年3月） - レギュラー
-  - [おはなしのくに](https://ja.wikipedia.org/wiki/おはなしのくに "wikilink") 第4回「[ももたろう](../Page/桃太郎.md "wikilink")」（NHK教育テレビ、2006年5月 - 6月） - 朗読と出演
+  - [おはなしのくに](../Page/おはなしのくに.md "wikilink") 第4回「[ももたろう](../Page/桃太郎.md "wikilink")」（NHK教育テレビ、2006年5月 - 6月） - 朗読と出演
   - [ゆるやかナビゲーション ゆるナビ](../Page/ゆるやかナビゲーション_ゆるナビ.md "wikilink")（[NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")、2006年4月 - 2007年3月） - レギュラー
   - [医龍-Team Medical Dragon-](../Page/医龍-Team_Medical_Dragon-_\(テレビドラマ\).md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2006年4月 - 6月） - 北岡恵（YUKO）、北岡望（AIKO） 役
   - [ものまねバトル](../Page/ものまねバトル.md "wikilink")40（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）

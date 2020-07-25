@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
 <td><p>徳間ジャパン／ジャパンレコーズ</p></td>
 <td><p><a href="../Page/カセットテープ.md" title="wikilink">CT</a></p></td>
 <td><p>28J-2048</p></td>
@@ -249,7 +249,7 @@ CT</p></td>
     <!-- end list -->
 
       -
-        ジュリーとは、当時氷室が飼っていたウサギのことである。中期まではライブの山場で演奏されるナンバーとして知られ、84年8月の[高知県立県民文化ホール](https://ja.wikipedia.org/wiki/高知県立県民文化ホール "wikilink")・グリーンホールでのライブではオーディエンスがあまりにエキサイトしたために演奏が中断した事もあった。1985年頃までセットリストに残った。
+        ジュリーとは、当時氷室が飼っていたウサギのことである。中期まではライブの山場で演奏されるナンバーとして知られ、84年8月の[高知県立県民文化ホール](../Page/高知県立県民文化ホール.md "wikilink")・グリーンホールでのライブではオーディエンスがあまりにエキサイトしたために演奏が中断した事もあった。1985年頃までセットリストに残った。
 
 2.  **TEENAGE EMOTION** (4:06)
 

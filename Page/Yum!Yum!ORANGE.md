@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - **Ichi-low**（[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）　[ドラム](../Page/ドラムセット.md "wikilink")
+  - **Ichi-low**（[1月26日](../Page/1月26日.md "wikilink")）　[ドラム](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
 

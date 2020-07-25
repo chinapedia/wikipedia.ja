@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")、MBSの全額出資により「**株式会社ミリカ音楽出版**」として設立。MBSのラジオ番組「[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")」で生まれたヒット曲の権利ビジネスを展開することを目的とした。
+[1968年](../Page/1968年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")、MBSの全額出資により「**株式会社ミリカ音楽出版**」として設立。MBSのラジオ番組「[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")」で生まれたヒット曲の権利ビジネスを展開することを目的とした。
 
 [1989年](../Page/1989年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に「**株式会社エムビーエス企画**」に商号を変更し、音楽出版社からテレビ・ラジオ・イベントの企画・制作を手がける総合制作プロダクションに移行した。[2001年](../Page/2001年.md "wikilink")7月、[音楽](../Page/音楽.md "wikilink")出版事業を「株式会社**[ミリカ・ミュージック](../Page/ミリカ・ミュージック.md "wikilink")**」に分社したのち、[2002年](../Page/2002年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")、現行の「株式会社MBS企画」（社名登記を[カタカナから](../Page/片仮名.md "wikilink")[英字に変更](../Page/ラテン文字.md "wikilink")）に商号を変更した。
 
@@ -118,7 +118,7 @@
   - 株式会社[アップフロントエージェンシー](https://ja.wikipedia.org/wiki/アップフロントエージェンシー "wikilink")
   - 株式会社[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")
   - 株式会社[太田プロダクション](../Page/太田プロダクション.md "wikilink")
-  - 株式会社[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")
+  - 株式会社[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")
   - 株式会社[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")
   - 四季株式会社
   - 株式会社[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
@@ -150,7 +150,7 @@
   - [女性ホルモン分泌バラエティー 全力☆が〜る](https://ja.wikipedia.org/wiki/女性ホルモン分泌バラエティー_全力☆が〜る "wikilink")
   - [MUSIC EDGE](https://ja.wikipedia.org/wiki/MUSIC_EDGE "wikilink")
   - [ごぶごぶ](../Page/ごぶごぶ.md "wikilink")
-  - [住人十色](https://ja.wikipedia.org/wiki/住人十色 "wikilink")
+  - [住人十色](../Page/住人十色.md "wikilink")
   - [スパモク\!\!](https://ja.wikipedia.org/wiki/スパモク!! "wikilink")（MBSが制作に関与する場合）
   - [夢の扉+](https://ja.wikipedia.org/wiki/夢の扉+ "wikilink")（[TBS制作](../Page/TBSテレビ.md "wikilink")）
   - [美の京都遺産](https://ja.wikipedia.org/wiki/美の京都遺産 "wikilink")
@@ -169,13 +169,13 @@
 
   - [歌のない歌謡曲](../Page/歌のない歌謡曲.md "wikilink")
   - [唐さん・一枝の艶歌でOH\!きに](https://ja.wikipedia.org/wiki/唐さん・一枝の艶歌でOH!きに "wikilink")
-  - [大人のわがまま](https://ja.wikipedia.org/wiki/大人のわがまま "wikilink")
+  - [大人のわがまま](../Page/大人のわがまま.md "wikilink")
   - [宍戸一夫の情熱喫茶](https://ja.wikipedia.org/wiki/宍戸一夫の情熱喫茶 "wikilink")
   - [小泉ニロの『みんなの北海道』](https://ja.wikipedia.org/wiki/小泉ニロの『みんなの北海道』 "wikilink")
   - [U.K.WEEKEND MUSIC PARTY『チア・ミュージック』](https://ja.wikipedia.org/wiki/U.K.WEEKEND_MUSIC_PARTY『チア・ミュージック』 "wikilink")
   - [馬場章夫の新・大阪大発見](https://ja.wikipedia.org/wiki/馬場章夫の新・大阪大発見 "wikilink")
   - [朝いちばん\!豊島美雪です](../Page/朝いちばん!豊島美雪です.md "wikilink")
-  - [子守康範 朝からてんコモリ\!](https://ja.wikipedia.org/wiki/子守康範_朝からてんコモリ! "wikilink")
+  - [子守康範 朝からてんコモリ\!](../Page/子守康範_朝からてんコモリ!.md "wikilink")
   - [聞くジャニ∞](../Page/聞くジャニ∞.md "wikilink")
   - [ほっとココロ765](https://ja.wikipedia.org/wiki/ほっとココロ765 "wikilink")（[FM COCOLO](../Page/FM_COCOLO.md "wikilink")）ほか
 

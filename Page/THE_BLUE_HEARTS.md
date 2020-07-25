@@ -163,7 +163,7 @@
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
 
 <!-- end list -->
 
@@ -228,7 +228,7 @@
 
 <!-- end list -->
 
-  - [8月13日](../Page/8月13日.md "wikilink")、[長野県](../Page/長野県.md "wikilink")[千曲市](../Page/千曲市.md "wikilink")にある[科野の里歴史公園](../Page/埴科古墳群.md "wikilink")「[あんずの里](https://ja.wikipedia.org/wiki/あんずの里 "wikilink")ロックフェスティバル」にて最後の出演。これがブルーハーツの最後のライブとなる。
+  - [8月13日](../Page/8月13日.md "wikilink")、[長野県](../Page/長野県.md "wikilink")[千曲市](../Page/千曲市.md "wikilink")にある[科野の里歴史公園](../Page/埴科古墳群.md "wikilink")「[あんずの里](../Page/あんずの里.md "wikilink")ロックフェスティバル」にて最後の出演。これがブルーハーツの最後のライブとなる。
   - [12月25日](../Page/12月25日.md "wikilink")、[ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")に「THE BLUE HEARTS」として甲本と真島が出演。[GEISHA GIRLSとこじつけ音作文](../Page/GEISHA_GIRLS.md "wikilink")、乳首相撲対決、寸止めキス対決をした。これが「THE BLUE HEARTS」としての最後のテレビ出演となった。
 
 <!-- end list -->
@@ -1730,7 +1730,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2/18 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a> 中ホール</p></td>
+<td><p>2/18 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a> 中ホール</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2770,7 +2770,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>10/4 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a></p></td>
+<td><p>10/4 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2784,7 +2784,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>10/11 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県民文化ホール</a></p></td>
+<td><p>10/11 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県民文化ホール</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3002,7 +3002,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 </tr>
 <tr class="even">
 <td><p><strong>ON TOUR 1989-1990 全国版</strong></p></td>
-<td><p>12/26 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県民文化ホール</a></p></td>
+<td><p>12/26 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県民文化ホール</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3205,7 +3205,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 ### ライブによって歌詞が変わる曲
 
   - ブルースをけとばせ
-    アルバムに収録される前は毎回歌詞を変えて歌っていた。「[宮崎勤](../Page/宮崎勤.md "wikilink")」、「[永山則夫](../Page/永山則夫.md "wikilink")」、「[川俣軍司](https://ja.wikipedia.org/wiki/深川通り魔殺人事件 "wikilink")」や「[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")」といった歌詞が登場したりもした。
+    アルバムに収録される前は毎回歌詞を変えて歌っていた。「[宮崎勤](../Page/宮崎勤.md "wikilink")」、「[永山則夫](../Page/永山則夫.md "wikilink")」、「[川俣軍司](https://ja.wikipedia.org/wiki/深川通り魔殺人事件 "wikilink")」や「[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")」といった歌詞が登場したりもした。
 
 <!-- end list -->
 

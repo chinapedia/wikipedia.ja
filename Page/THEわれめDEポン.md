@@ -17,7 +17,7 @@
 
 その他、2015年に[麻雀最強戦](https://ja.wikipedia.org/wiki/麻雀最強戦 "wikilink")とのコラボとして「麻雀地上最強位決定戦 THE 最強 DE ポン」、2017年には同じフジテレビONEで放送中の[極雀](https://ja.wikipedia.org/wiki/極雀 "wikilink")とのコラボとして「～地上最強位決定戦～THE極雀DEポン」（通称：極ポン）も行われた。
 
-司会は[たけし軍団](../Page/たけし軍団.md "wikilink")の[ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")（放送開始当初は[森脇健児](../Page/森脇健児.md "wikilink")）。実況は[野島卓](../Page/野島卓.md "wikilink")が担当していたが、2004年9月から[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ転勤となったことから、2004年10月17日放送の第59弾から[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")が務め、2007年1月1日の放送ではフジテレビよりフリーとなった[山中秀樹](../Page/山中秀樹.md "wikilink")が務めた。 2008年1月3日に放送された第65弾はニューヨークから帰国した野島が3年ぶりに復帰し、2011年の番組再開後も担当していたが、2016年4月から2017年9月は[ユアタイム](https://ja.wikipedia.org/wiki/ユアタイム "wikilink")を担当する事になったため、この間は主に[中村光宏](../Page/中村光宏.md "wikilink")と[谷岡慎一](https://ja.wikipedia.org/wiki/谷岡慎一 "wikilink")が務めた。ただし、野島も24時間生スペシャルや中村、谷岡が取材等で欠席もしくは、途中退席という場合に実況を務めている。 解説者は地上波時代には[麻将連合のプロ雀士](../Page/麻将連合-μ-.md "wikilink")・[井出洋介](../Page/井出洋介.md "wikilink")が出演していた。CS放送開始以降しばらくは[梶本琢程](https://ja.wikipedia.org/wiki/梶本琢程 "wikilink")が解説を担当し、2013年の24時間生スペシャルから[土田浩翔](../Page/土田浩翔.md "wikilink")が登場してからは、土田が主に解説を務めている（土田不在時には梶本が担当）。2016年4月以降は土田と女流プロの2名で解説を行っている。2016年9月の第103弾からは[古久根英孝](https://ja.wikipedia.org/wiki/古久根英孝 "wikilink")も解説に加わった。
+司会は[たけし軍団](../Page/たけし軍団.md "wikilink")の[ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")（放送開始当初は[森脇健児](../Page/森脇健児.md "wikilink")）。実況は[野島卓](../Page/野島卓.md "wikilink")が担当していたが、2004年9月から[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ転勤となったことから、2004年10月17日放送の第59弾から[桜井堅一朗](../Page/桜井堅一朗.md "wikilink")が務め、2007年1月1日の放送ではフジテレビよりフリーとなった[山中秀樹](../Page/山中秀樹.md "wikilink")が務めた。 2008年1月3日に放送された第65弾はニューヨークから帰国した野島が3年ぶりに復帰し、2011年の番組再開後も担当していたが、2016年4月から2017年9月は[ユアタイム](https://ja.wikipedia.org/wiki/ユアタイム "wikilink")を担当する事になったため、この間は主に[中村光宏](../Page/中村光宏.md "wikilink")と[谷岡慎一](https://ja.wikipedia.org/wiki/谷岡慎一 "wikilink")が務めた。ただし、野島も24時間生スペシャルや中村、谷岡が取材等で欠席もしくは、途中退席という場合に実況を務めている。 解説者は地上波時代には[麻将連合のプロ雀士](../Page/麻将連合-μ-.md "wikilink")・[井出洋介](../Page/井出洋介.md "wikilink")が出演していた。CS放送開始以降しばらくは[梶本琢程](https://ja.wikipedia.org/wiki/梶本琢程 "wikilink")が解説を担当し、2013年の24時間生スペシャルから[土田浩翔](../Page/土田浩翔.md "wikilink")が登場してからは、土田が主に解説を務めている（土田不在時には梶本が担当）。2016年4月以降は土田と女流プロの2名で解説を行っている。2016年9月の第103弾からは[古久根英孝](../Page/古久根英孝.md "wikilink")も解説に加わった。
 
 生放送再開後の第66弾からは、各ゲーム終了毎に[馬場裕一](../Page/馬場裕一.md "wikilink")によるミニコーナー「バビィに聞け\!」としてTwitterに寄せられた質問や応援メッセージを紹介する\[1\]。
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
   - [土田浩翔](../Page/土田浩翔.md "wikilink")（24時間SP2013 - ）
-  - [古久根英孝](https://ja.wikipedia.org/wiki/古久根英孝 "wikilink")（第103弾 - )
+  - [古久根英孝](../Page/古久根英孝.md "wikilink")（第103弾 - )
   - [近藤誠一](https://ja.wikipedia.org/wiki/近藤誠一_\(プロ雀士\) "wikilink")（第117弾 - )
       - 2016年4月以降解説を担当した女流雀士
           - [宮内こずえ](../Page/宮内こずえ.md "wikilink")（第100弾 - ）、小笠原奈央（第101弾 - ）、[高宮まり](https://ja.wikipedia.org/wiki/高宮まり "wikilink")（24時間SP2016 - ）、[黒沢咲](../Page/黒沢咲.md "wikilink")（第118弾 - ）、[日向藍子](https://ja.wikipedia.org/wiki/日向藍子 "wikilink")（第120弾 - ）、[松嶋桃](https://ja.wikipedia.org/wiki/松嶋桃 "wikilink")（第126弾 - ）、[東城りお](https://ja.wikipedia.org/wiki/東城りお "wikilink")（24時間SP2019 - ）
@@ -81,7 +81,7 @@
   - [井出洋介](../Page/井出洋介.md "wikilink")（プロ雀士・麻将連合代表／第65弾まで解説）
   - [梶本琢程](https://ja.wikipedia.org/wiki/梶本琢程 "wikilink")（第66弾 - 第89弾）
   - [森脇健児](../Page/森脇健児.md "wikilink")（レギュラー放送司会、生スペシャルでは第1弾のみ）
-  - [桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")（元フジテレビアナウンサー／第59弾 - 第63弾実況）
+  - [桜井堅一朗](../Page/桜井堅一朗.md "wikilink")（元フジテレビアナウンサー／第59弾 - 第63弾実況）
   - [山中秀樹](../Page/山中秀樹.md "wikilink")（元フジテレビアナウンサー／2007年第64弾実況）
   - [佐藤里佳](https://ja.wikipedia.org/wiki/佐藤里佳 "wikilink")（フジテレビアナウンサー／第92弾実況）
   - [内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")（元フジテレビアナウンサー／元アシスタント）
@@ -164,7 +164,7 @@
   - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
   - [内山信二](../Page/内山信二.md "wikilink")
   - [江波杏子](../Page/江波杏子.md "wikilink")
-  - [エハラマサヒロ](https://ja.wikipedia.org/wiki/エハラマサヒロ "wikilink")
+  - [エハラマサヒロ](../Page/エハラマサヒロ.md "wikilink")
   - [大村朋宏](../Page/大村朋宏.md "wikilink")（[トータルテンボス](../Page/トータルテンボス.md "wikilink")）
   - [岡田紗佳](https://ja.wikipedia.org/wiki/岡田紗佳 "wikilink")
   - [落合博満](../Page/落合博満.md "wikilink")

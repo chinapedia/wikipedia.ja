@@ -128,7 +128,7 @@
 
   - [フェティシズム](../Page/フェティシズム.md "wikilink")
   - [幻視芸術](https://ja.wikipedia.org/wiki/幻視芸術 "wikilink")
-  - [R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink") - [アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")による[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。敵のデザインはギーガーから影響を強く受けている。
+  - [R-TYPE](../Page/R-TYPE.md "wikilink") - [アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")による[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。敵のデザインはギーガーから影響を強く受けている。
 
 ## 外部リンク
 

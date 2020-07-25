@@ -277,7 +277,7 @@
 <td><p>おとこ仁太よ！サンダイオー</p></td>
 <td><p><a href="../Page/田口勝彦_(監督).md" title="wikilink">田口章一</a></p></td>
 <td><p>八尋旭</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三家本泰美" title="wikilink">三家本泰美</a></p></td>
+<td><p><a href="../Page/三家本泰美.md" title="wikilink">三家本泰美</a></p></td>
 <td><p>イガンダー</p></td>
 <td><p><a href="../Page/8月16日.md" title="wikilink">8月16日</a></p></td>
 </tr>

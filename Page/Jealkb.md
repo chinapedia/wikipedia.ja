@@ -51,7 +51,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、シングル『[誓い](../Page/誓い_\(jealkbの曲\).md "wikilink")』でメジャーデビュー。日本台湾同時発売。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、[Zepp Tokyoでのワンマンライブ](../Page/Zepp.md "wikilink")「冬薔薇ノ誓」にて2800名を動員。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")、[Zepp Tokyoでのワンマンライブ](../Page/Zepp.md "wikilink")「冬薔薇ノ誓」にて2800名を動員。
 
 同年3月、ealkbオフィシャルファンクラブ「jealkb AIRLINE」発足。
 

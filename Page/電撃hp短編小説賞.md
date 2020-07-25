@@ -1,7 +1,7 @@
 > この記事は[電撃hp短編小説賞](https://ja.wikipedia.org/wiki/電撃hp短編小説賞)から翻訳されています。
 
 
-**電撃hp短編小説賞**（でんげきエイチピーたんぺんしょうせつしょう）とは[メディアワークス](../Page/メディアワークス.md "wikilink")（現[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")/[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）が主催していた短編小説の新人賞である。同社刊の雑誌『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")』を母体としていた。
+**電撃hp短編小説賞**（でんげきエイチピーたんぺんしょうせつしょう）とは[メディアワークス](../Page/メディアワークス.md "wikilink")（現[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")/[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）が主催していた短編小説の新人賞である。同社刊の雑誌『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")』を母体としていた。
 
 第1回から第4回までは編集部内で最終選考作を選んだ上で候補作を雑誌に掲載して読者投票で受賞作を決めていたが、第5回からはプロ作家の選考委員による最終選考に切り替えられた。[2007年](../Page/2007年.md "wikilink")は実施されずその後母体であった『電撃hp』自体も休刊となったため、正式な休止・終了の告知は出ていないが今後は[電撃小説大賞](../Page/電撃小説大賞.md "wikilink")に一本化され開催されない可能性が高い。
 

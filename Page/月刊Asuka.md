@@ -37,7 +37,7 @@
   - [蒼のマハラジャ](https://ja.wikipedia.org/wiki/蒼のマハラジャ "wikilink")（[神坂智子](../Page/神坂智子.md "wikilink")）
   - [あひるの王子さま](../Page/あひるの王子さま.md "wikilink")（[森永あい](../Page/森永あい.md "wikilink")）
   - [赤き月の廻るころ](https://ja.wikipedia.org/wiki/赤き月の廻るころ "wikilink")（作画：[音中さわき](https://ja.wikipedia.org/wiki/音中さわき "wikilink") / 原作：[岐川新](https://ja.wikipedia.org/wiki/岐川新 "wikilink") / キャラクター原案：[凪かすみ](https://ja.wikipedia.org/wiki/凪かすみ "wikilink")）
-  - [あやはとり召喚帖](https://ja.wikipedia.org/wiki/あやはとり召喚帖 "wikilink")（作画：[梶山ミカ](https://ja.wikipedia.org/wiki/梶山ミカ "wikilink") / ストーリー原案：[橋本夏鳴](https://ja.wikipedia.org/wiki/橋本夏鳴 "wikilink")）
+  - [あやはとり召喚帖](https://ja.wikipedia.org/wiki/あやはとり召喚帖 "wikilink")（作画：[梶山ミカ](../Page/梶山ミカ.md "wikilink") / ストーリー原案：[橋本夏鳴](https://ja.wikipedia.org/wiki/橋本夏鳴 "wikilink")）
   - [アンジェリーク](../Page/アンジェリーク.md "wikilink")（作画：[由羅カイリ](../Page/由羅カイリ.md "wikilink") / 著作権：[KOEI](https://ja.wikipedia.org/wiki/KOEI "wikilink")）
   - [イマドキ青春](https://ja.wikipedia.org/wiki/イマドキ青春 "wikilink")（[カワハラ恋](https://ja.wikipedia.org/wiki/カワハラ恋 "wikilink")）
   - [うそつきエンゲージ](https://ja.wikipedia.org/wiki/うそつきエンゲージ "wikilink")（[山田シロ](https://ja.wikipedia.org/wiki/山田シロ "wikilink")）
@@ -99,7 +99,7 @@
 
   - [1001](https://ja.wikipedia.org/wiki/1001_\(漫画\) "wikilink") （[杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")）
   - [何モナイ君タチヘ](https://ja.wikipedia.org/wiki/何モナイ君タチヘ "wikilink")（鳩也直）\[4\]
-  - [ネオ アンジェリーク](../Page/ネオ_アンジェリーク.md "wikilink")（作画：[梶山ミカ](https://ja.wikipedia.org/wiki/梶山ミカ "wikilink") / 原案：[ルビー・パーティー](https://ja.wikipedia.org/wiki/ルビー・パーティー "wikilink") / キャラクター原案：[由羅カイリ](../Page/由羅カイリ.md "wikilink")）
+  - [ネオ アンジェリーク](../Page/ネオ_アンジェリーク.md "wikilink")（作画：[梶山ミカ](../Page/梶山ミカ.md "wikilink") / 原案：[ルビー・パーティー](https://ja.wikipedia.org/wiki/ルビー・パーティー "wikilink") / キャラクター原案：[由羅カイリ](../Page/由羅カイリ.md "wikilink")）
 
 ### は行
 

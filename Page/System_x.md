@@ -7,7 +7,7 @@
 
 ## 名称
 
-正式名称は「IBM System x」である。IBMのサーバー全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](../Page/System_i.md "wikilink")、[System p](../Page/System_p.md "wikilink")、System x、[System Storage](https://ja.wikipedia.org/wiki/System_Storage "wikilink")）の1つで、x86サーバーのシリーズである。
+正式名称は「IBM System x」である。IBMのサーバー全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](../Page/System_i.md "wikilink")、[System p](../Page/System_p.md "wikilink")、System x、[System Storage](../Page/System_Storage.md "wikilink")）の1つで、x86サーバーのシリーズである。
 
 ## 歴史
 
@@ -15,7 +15,7 @@
 
 IBMは1981年の[IBM PCでパーソナルコンピュータ市場に参入したが](../Page/IBM_PC.md "wikilink")、[1984年](../Page/1984年.md "wikilink")の[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")以降は[NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink")など企業の[サーバー](https://ja.wikipedia.org/wiki/サーバー "wikilink")用途も増加し、更に[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[IBM PS/2以降は](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")など本格的なサーバー用途も可能となった。しかし製品系列としてはデスクトップPCとサーバーPCは分かれておらず、担当部門もIBM PC事業部(IBM PC Company(PCC))であった。
 
-1996年のIBM PC Serverシリーズ（7xx、5xx、3xx）より、デスクトップPCの[IBM PC Seriesや](https://ja.wikipedia.org/wiki/IBM_PC_Series "wikilink")[ThinkPad](../Page/ThinkPad.md "wikilink")から独立して、サーバー製品の1ブランドと位置づけられ、開発部門もサーバー事業部（システムテクノロジー事業部）の一部となった。
+1996年のIBM PC Serverシリーズ（7xx、5xx、3xx）より、デスクトップPCの[IBM PC Seriesや](../Page/IBM_PC_Series.md "wikilink")[ThinkPad](../Page/ThinkPad.md "wikilink")から独立して、サーバー製品の1ブランドと位置づけられ、開発部門もサーバー事業部（システムテクノロジー事業部）の一部となった。
 
 その後、[ネットワーク・コンピューティング](https://ja.wikipedia.org/wiki/ネットワーク・コンピューティング "wikilink")の提唱に合わせて1999年にはNetFinityシリーズ（8xxx、7xxxx、6xxxx、5xxx、4xxxx、3xxx、1xxx）に名称変更され、2001年のサーバーブランド統合でIBM eServer xSeries （4xx、3xx、2xx、1xx）に名称変更され、更に2005年のサーバーブランド名称変更（[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")）でIBM System x （x3xxx）と名称変更された。
 

@@ -7,7 +7,7 @@
 
 「[メディアミックス](../Page/メディアミックス.md "wikilink")誌」と銘打って1999年[6月26日](../Page/6月26日.md "wikilink")発売の8月号にて創刊。そのコンセプト通り[アニメ](../Page/アニメ.md "wikilink")や[特撮](../Page/特撮.md "wikilink")や[ゲーム](../Page/ゲーム.md "wikilink")など他ジャンルの作品を[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")した作品が多く掲載されていた。創刊当初は全ての作品のネーム（台詞）に読み仮名が振られていたが、後期は読み仮名を振らない作品が多くなっていた。また、1999年より「永井豪新人大賞」を主催し\[1\]、出身者には[コンノトヒロ](https://ja.wikipedia.org/wiki/コンノトヒロ "wikilink")などがいる。
 
-[2006年](../Page/2006年.md "wikilink")の発行部数は月平均でおよそ4万部であったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には2万2500部まで落ち込み、2009年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売の3月号をもって休刊した\[2\]。一部の連載については、講談社が発行する別の漫画雑誌（主に『[マガジンGREAT](../Page/月刊少年マガジン+.md "wikilink")』）へ移籍したが、年内に同誌が『[マガジンイーノ](../Page/月刊少年マガジン+.md "wikilink")』へとリニューアルされ、新雑誌創刊に際しての事実上の合併であることが判明した。移籍した漫画については後述。
+[2006年](../Page/2006年.md "wikilink")の発行部数は月平均でおよそ4万部であったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には2万2500部まで落ち込み、2009年[1月26日](../Page/1月26日.md "wikilink")発売の3月号をもって休刊した\[2\]。一部の連載については、講談社が発行する別の漫画雑誌（主に『[マガジンGREAT](../Page/月刊少年マガジン+.md "wikilink")』）へ移籍したが、年内に同誌が『[マガジンイーノ](../Page/月刊少年マガジン+.md "wikilink")』へとリニューアルされ、新雑誌創刊に際しての事実上の合併であることが判明した。移籍した漫画については後述。
 
 ## 特徴
 
@@ -17,7 +17,7 @@
 
 ## 歴代掲載作品
 
-  - [RD 潜脳調査室](https://ja.wikipedia.org/wiki/RD_潜脳調査室 "wikilink")（原作：[Production I.G](../Page/プロダクション・アイジー.md "wikilink")・[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")、原作協力：[クロスロード](../Page/クロスロード.md "wikilink")、漫画：[宮野桃太郎](https://ja.wikipedia.org/wiki/宮野桃太郎 "wikilink")）
+  - [RD 潜脳調査室](../Page/RD_潜脳調査室.md "wikilink")（原作：[Production I.G](../Page/プロダクション・アイジー.md "wikilink")・[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")、原作協力：[クロスロード](../Page/クロスロード.md "wikilink")、漫画：[宮野桃太郎](https://ja.wikipedia.org/wiki/宮野桃太郎 "wikilink")）
   - [アイはカゲロウ](https://ja.wikipedia.org/wiki/アイはカゲロウ "wikilink")（[瀬口たかひろ](../Page/瀬口たかひろ.md "wikilink") 全2巻）
   - [蒼い空のネオスフィア](../Page/蒼い空のネオスフィア.md "wikilink")（[海野智](https://ja.wikipedia.org/wiki/海野智 "wikilink")原作：[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink") 全1巻）
   - [Atomicネコカブッ](https://ja.wikipedia.org/wiki/Atomicネコカブッ "wikilink")（[二階堂ヒカル](https://ja.wikipedia.org/wiki/二階堂ヒカル "wikilink") 全4巻）
@@ -29,7 +29,7 @@
   - [ism/i](https://ja.wikipedia.org/wiki/ism/i "wikilink")（[夏十耳](https://ja.wikipedia.org/wiki/夏十耳 "wikilink")・[空十雲](https://ja.wikipedia.org/wiki/空十雲 "wikilink")）
   - [ウルトラマンSTORY 0](../Page/ウルトラマンSTORY_0.md "wikilink")（作画：[真船一雄](../Page/真船一雄.md "wikilink") 原作・監修：[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")） *- 関連『[ウルトラマンシリーズ](https://ja.wikipedia.org/wiki/ウルトラマンシリーズ "wikilink")』*
       -
-        **移籍** → [テレまんがヒーローズ](https://ja.wikipedia.org/wiki/テレまんがヒーローズ "wikilink")。
+        **移籍** → [テレまんがヒーローズ](../Page/テレまんがヒーローズ.md "wikilink")。
   - [8マン インフィニティ](../Page/8マン_インフィニティ.md "wikilink")（作画：[鷹氏隆之](https://ja.wikipedia.org/wiki/鷹氏隆之 "wikilink") 原作：七月鏡一 全6巻） *- 関連『[8マン](../Page/8マン.md "wikilink")』*
 
 <!-- end list -->

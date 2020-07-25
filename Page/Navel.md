@@ -324,7 +324,7 @@ Navelブランド作品には必ず名前が入っていたが、アッチョリ
 5.
 6.  「Top News 乙女理論とその周辺」、『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』2013年5月号（[マックス](../Page/マックス_\(出版社\).md "wikilink")）、46-47頁、2013年。
 7.
-8.  『[DENGEKI HIME](../Page/DENGEKI_HIME.md "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）2014年1月号、16-21頁。
+8.  『[DENGEKI HIME](../Page/DENGEKI_HIME.md "wikilink")』（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）2014年1月号、16-21頁。
 9.  「絶対誰かに話したくなる『月に寄りそう乙女の作法2』最速マル秘ガイド」、『[BugBug](../Page/BugBug.md "wikilink")』2014年8月号（Vol.240）、149-155頁、[サン出版](https://ja.wikipedia.org/wiki/サン出版 "wikilink")。
 10.
 11.

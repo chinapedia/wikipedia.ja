@@ -23,7 +23,7 @@
   -
 
       -
-        STANCE PUNKSのツアー初日に参加。通称“白盤”と呼ばれる5曲入りデモ[CDRを](https://ja.wikipedia.org/wiki/R盤 "wikilink")100枚限定で無料配布。
+        STANCE PUNKSのツアー初日に参加。通称“白盤”と呼ばれる5曲入りデモ[CDRを](../Page/R盤.md "wikilink")100枚限定で無料配布。
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
 
 ## 盗作騒動
 
-  - 2005年発売のシングル「サヨナラの名場面」が[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の「[ファイト\!](https://ja.wikipedia.org/wiki/空と君のあいだに/ファイト! "wikilink")」と酷似しているとネット上で騒動が起こり、同年[2005年](../Page/2005年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")の記事で、シングル「サヨナラの名場面／Sing A Well」とアルバム「HIGHWAY61」の販売を停止。「ファイト\!」の著作権を有する[財団法人](../Page/財団法人.md "wikilink")[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")がそれに同意したと発表した。
+  - 2005年発売のシングル「サヨナラの名場面」が[中島みゆき](../Page/中島みゆき.md "wikilink")の「[ファイト\!](https://ja.wikipedia.org/wiki/空と君のあいだに/ファイト! "wikilink")」と酷似しているとネット上で騒動が起こり、同年[2005年](../Page/2005年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")の記事で、シングル「サヨナラの名場面／Sing A Well」とアルバム「HIGHWAY61」の販売を停止。「ファイト\!」の著作権を有する[財団法人](../Page/財団法人.md "wikilink")[ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")がそれに同意したと発表した。
 
 ## 外部リンク
 

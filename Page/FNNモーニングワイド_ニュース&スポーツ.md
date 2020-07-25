@@ -1,7 +1,7 @@
 > この記事は[FNNモーニングワイド ニュース\&スポーツ](https://ja.wikipedia.org/wiki/FNNモーニングワイド_ニュース\&スポーツ)から翻訳されています。
 
 
-『**FNNモーニングワイド ニュース&スポーツ**』（エフエヌエヌモーニングワイド ニュースアンドスポーツ）は[1982年](../Page/1982年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[フジテレビ以下](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN各局で放送された朝の](../Page/フジニュースネットワーク.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。放送時間は6:30 - 7:25（[JST](../Page/日本標準時.md "wikilink")）。[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")など、一部局ではタイトルが改題されて放送された。
+『**FNNモーニングワイド ニュース&スポーツ**』（エフエヌエヌモーニングワイド ニュースアンドスポーツ）は[1982年](../Page/1982年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[フジテレビ以下](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN各局で放送された朝の](../Page/フジニュースネットワーク.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。放送時間は6:30 - 7:25（[JST](../Page/日本標準時.md "wikilink")）。[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")など、一部局ではタイトルが改題されて放送された。
 
 ## 歴代キャスター
 

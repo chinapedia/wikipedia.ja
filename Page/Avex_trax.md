@@ -450,7 +450,7 @@
   - [Vimclip](https://ja.wikipedia.org/wiki/Vimclip "wikilink") (2012年)
   - [Well Stone bros](https://ja.wikipedia.org/wiki/Well_Stone_bros "wikilink") (2014年〜2015年)
   - [wi☆th](https://ja.wikipedia.org/wiki/wi☆th "wikilink") (2002年)（活動終了）
-  - [YAK.](https://ja.wikipedia.org/wiki/YAK. "wikilink") (2008年)
+  - [YAK.](../Page/YAK..md "wikilink") (2008年)
   - [YMCK](../Page/YMCK.md "wikilink") (2008年〜2009年)
   - [YOJI BIOMEHANIKA](../Page/YOJI.md "wikilink") (2001年,2015年)
   - [ZZ](../Page/ZZ_\(バンド\).md "wikilink") (2003年〜2006年)

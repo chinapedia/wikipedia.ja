@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:WEEE_symbol_vectors.svg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:WEEE.svg "wikilink")
 
-**WEEE指令**（ウィーしれい、ダブリュートリプルイーしれい、英: Waste Electrical and Electronic Equipment Directive、WEEE Directive）は、[廃電気・電子製品](https://ja.wikipedia.org/wiki/電気電子機器廃棄物 "wikilink")（WEEE）に関する[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")（EU）の[指令である](https://ja.wikipedia.org/wiki/指令_\(EU\) "wikilink")。単に、**WEEE**（ウィー）とも呼ばれる。[2003年](../Page/2003年.md "wikilink")2月に[RoHS](../Page/RoHS.md "wikilink")（ローズ）指令と共に[公布](../Page/公布.md "wikilink")・[施行](../Page/施行.md "wikilink")された。その後、2012.7.4改正した。
+**WEEE指令**（ウィーしれい、ダブリュートリプルイーしれい、英: Waste Electrical and Electronic Equipment Directive、WEEE Directive）は、[廃電気・電子製品](https://ja.wikipedia.org/wiki/電気電子機器廃棄物 "wikilink")（WEEE）に関する[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")（EU）の[指令である](../Page/指令_\(EU\).md "wikilink")。単に、**WEEE**（ウィー）とも呼ばれる。[2003年](../Page/2003年.md "wikilink")2月に[RoHS](../Page/RoHS.md "wikilink")（ローズ）指令と共に[公布](../Page/公布.md "wikilink")・[施行](../Page/施行.md "wikilink")された。その後、2012.7.4改正した。
 
 原文は、“DIRECTIVE 2002/96/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 January 2003 on waste electrical and electronic equipment (WEEE)”\[1\]であり、***W**aste **E**lectrical and **E**lectronic **E**quipment*の頭文字から***WEEE***と呼ばれている。
 

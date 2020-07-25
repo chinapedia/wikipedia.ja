@@ -41,7 +41,7 @@
   - [機動警察パトレイバー the Movie](../Page/機動警察パトレイバー_the_Movie.md "wikilink")
   - [機動警察パトレイバー 2 the Movie](../Page/機動警察パトレイバー_2_the_Movie.md "wikilink")
   - [キャンディ・キャンディ](https://ja.wikipedia.org/wiki/キャンディ・キャンディ "wikilink")（NET→ANB）
-  - [キン肉マン キン肉星王位争奪編](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")（NTV）
+  - [キン肉マン キン肉星王位争奪編](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")（NTV）
   - [くじらのホセフィーナ](../Page/くじらのホセフィーナ.md "wikilink")（12ch）
   - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")（CX）
   - [鋼鉄ジーグ](../Page/鋼鉄ジーグ.md "wikilink")（NET）

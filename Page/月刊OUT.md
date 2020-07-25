@@ -106,7 +106,7 @@
   - 『ヤナケンのS・S100本勝負』（柳沢健二、挿絵・柳沢健二）
   - 『[竜伝説ハルミ](https://ja.wikipedia.org/wiki/竜伝説ハルミ "wikilink")』（[あきみれい](https://ja.wikipedia.org/wiki/あきみれい "wikilink")、挿絵・[近永早苗](https://ja.wikipedia.org/wiki/近永早苗 "wikilink")）
   - 『[NG騎士ラムネ&40](../Page/NG騎士ラムネ&40.md "wikilink")XX』（[千葉克彦](../Page/千葉克彦.md "wikilink")、挿絵・[伊東岳彦](../Page/伊東岳彦.md "wikilink")、[中原れい](../Page/中原れい.md "wikilink")）
-  - 『[鎧外伝・水滸 澪の彼方へ](../Page/鎧伝サムライトルーパー.md "wikilink")』（[河原よしえ](https://ja.wikipedia.org/wiki/河原よしえ "wikilink")、挿絵・[鳳巳乱](https://ja.wikipedia.org/wiki/鳳巳乱 "wikilink")）
+  - 『[鎧外伝・水滸 澪の彼方へ](../Page/鎧伝サムライトルーパー.md "wikilink")』（[河原よしえ](../Page/河原よしえ.md "wikilink")、挿絵・[鳳巳乱](https://ja.wikipedia.org/wiki/鳳巳乱 "wikilink")）
   - 『[鎧伝サムライトルーパー 夕陽の果て](../Page/鎧伝サムライトルーパー.md "wikilink")異聞』（[海老沼三郎](https://ja.wikipedia.org/wiki/海老沼三郎 "wikilink")、挿絵・[山田きさらか](https://ja.wikipedia.org/wiki/山田きさらか "wikilink")）
 
 ## 読者の呼称

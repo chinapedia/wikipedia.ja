@@ -19,7 +19,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
 [2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")に限定10万枚で発売された「Suicaデビュー記念Suicaイオカード」にこのペンギンが描かれて人気に火がつき、このカードが[ネットオークション等で一時](../Page/インターネットオークション.md "wikilink")1万円を超える価格で取引されることもあった。翌[2002年](../Page/2002年.md "wikilink")（平成14年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の[東京モノレール](../Page/東京モノレール.md "wikilink")「導入記念モノレールSuicaカード」、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の「[りんかい線](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")[相互乗り入れ記念Suicaイオカード](../Page/直通運転.md "wikilink")」、[東京臨海高速鉄道](../Page/東京臨海高速鉄道.md "wikilink")「りんかい線全線開通記念りんかいSuicaカード」、東京モノレール「Suicaネットワーク拡大記念モノレールSuicaカード」がいずれもこのペンギンをモチーフとしたデザインであったこと、発行枚数が1万枚と少なかったことから、[マニア](../Page/マニア.md "wikilink")や価格高騰を狙った[転売](https://ja.wikipedia.org/wiki/転売 "wikilink")目的の人間が殺到、発売前日から各駅に徹夜の行列ができるなどの事態となった。
 
-[2003年](../Page/2003年.md "wikilink")（平成15年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")の[日本航空](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")（JAL）・[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）・東京モノレール提携記念Suicaイオカードは、JAL・ANA国内線機内でのみの各5,000枚限定販売とされ、これのみを目当てに[航空機](../Page/航空機.md "wikilink")に搭乗するという現象がみられた。
+[2003年](../Page/2003年.md "wikilink")（平成15年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")の[日本航空](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")（JAL）・[全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）・東京モノレール提携記念Suicaイオカードは、JAL・ANA国内線機内でのみの各5,000枚限定販売とされ、これのみを目当てに[航空機](../Page/航空機.md "wikilink")に搭乗するという現象がみられた。
 
 その後、2003年[6月](../Page/6月.md "wikilink")から発行された一般販売用の[電子マネー](../Page/電子マネー.md "wikilink")対応Suicaからはペンギンが本採用され、以後発売された記念Suicaも発売枚数が原則2万枚に引き上げられたこともあって、ペンギンカード目当てに窓口に殺到するという当初のような混乱は減少した。
 

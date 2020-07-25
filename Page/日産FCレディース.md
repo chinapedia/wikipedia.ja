@@ -3,7 +3,7 @@
 
 **日産FCレディース**（にっさんエフシーレディース）は、かつて存在した[女子サッカー](../Page/女子サッカー.md "wikilink")チーム。当初は[東京都](../Page/東京都.md "wikilink")、のち[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")を拠点としていた。
 
-日本の女子サッカー初のクラブチーム「[FCジンナン](../Page/FCジンナン.md "wikilink")」を前身とし、[日産自動車](../Page/日産自動車.md "wikilink")のスポンサードにより[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に誕生し、[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（JLSL）に所属していた。[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")（JSL）に所属していた[日産自動車サッカー部](../Page/日産自動車サッカー部.md "wikilink")（現：[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）の女子チームという位置づけであった。
+日本の女子サッカー初のクラブチーム「[FCジンナン](../Page/FCジンナン.md "wikilink")」を前身とし、[日産自動車](../Page/日産自動車.md "wikilink")のスポンサードにより[1986年](../Page/1986年.md "wikilink")に誕生し、[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（JLSL）に所属していた。[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")（JSL）に所属していた[日産自動車サッカー部](../Page/日産自動車サッカー部.md "wikilink")（現：[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）の女子チームという位置づけであった。
 
 [日本女子代表が多く所属していた](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")。なお、[1993年](../Page/1993年.md "wikilink")から男子チームが[Jリーグに](../Page/日本プロサッカーリーグ.md "wikilink")「横浜マリノス」として参加することとなったため、それらの関係から[1994年](../Page/1994年.md "wikilink")に廃部となった。
 
@@ -11,9 +11,9 @@
 
 「[1990年アジア競技大会](../Page/1990年アジア競技大会.md "wikilink")」から女子サッカーが正式種目になることに伴い「女子もサッカーの全国リーグを作ろう。」との機運が高まったため、各地域でのリーグで活動していたチームを中心に「日本女子サッカーリーグ」(JLSL)が[1989年](../Page/1989年.md "wikilink")に誕生することが決定した。
 
-東京都リーグに所属していたFCジンナンもJLSLへの参加を検討したが、チームの安定した運営を図るためにスポンサーを求めたところ、JSLの強豪「日産自動車サッカー部」を持つ日産自動車がスポンサーとなることが決定。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から女子チーム「日産FCレディース」として誕生した。
+東京都リーグに所属していたFCジンナンもJLSLへの参加を検討したが、チームの安定した運営を図るためにスポンサーを求めたところ、JSLの強豪「日産自動車サッカー部」を持つ日産自動車がスポンサーとなることが決定。[1986年](../Page/1986年.md "wikilink")から女子チーム「日産FCレディース」として誕生した。
 
-[坂田恵](https://ja.wikipedia.org/wiki/坂田恵 "wikilink")、[小澤純子](https://ja.wikipedia.org/wiki/小澤純子 "wikilink")、[山木里恵](../Page/山木里恵.md "wikilink")など[日本女子代表の所属するチームのため上位の成績を期待されたが](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")、JLSL加入の際に[高倉麻子](../Page/高倉麻子.md "wikilink")が[読売ベレーザに移籍したことが影響したのか](https://ja.wikipedia.org/wiki/日テレ・ベレーザ "wikilink")、失点は少ないが得点もそれほど伸びなかったため思ったほどの結果を残すことが出来ず、また[1993年](../Page/1993年.md "wikilink")から男子チームが[Jリーグに](../Page/日本プロサッカーリーグ.md "wikilink")「横浜マリノス」として参加することも決定したため、その関係から1993年シーズンをもって廃部が決定。翌[1994年](../Page/1994年.md "wikilink")3月に行われた[第15回全日本女子サッカー選手権大会](../Page/第15回全日本女子サッカー選手権大会.md "wikilink")準々決勝で[シロキFCセレーナ](../Page/シロキFCセレーナ.md "wikilink")に[PK戦](../Page/PK戦.md "wikilink")で敗れ、短い歴史に幕を降ろした。
+[坂田恵](../Page/坂田恵.md "wikilink")、[小澤純子](https://ja.wikipedia.org/wiki/小澤純子 "wikilink")、[山木里恵](../Page/山木里恵.md "wikilink")など[日本女子代表の所属するチームのため上位の成績を期待されたが](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")、JLSL加入の際に[高倉麻子](../Page/高倉麻子.md "wikilink")が[読売ベレーザに移籍したことが影響したのか](https://ja.wikipedia.org/wiki/日テレ・ベレーザ "wikilink")、失点は少ないが得点もそれほど伸びなかったため思ったほどの結果を残すことが出来ず、また[1993年](../Page/1993年.md "wikilink")から男子チームが[Jリーグに](../Page/日本プロサッカーリーグ.md "wikilink")「横浜マリノス」として参加することも決定したため、その関係から1993年シーズンをもって廃部が決定。翌[1994年](../Page/1994年.md "wikilink")3月に行われた[第15回全日本女子サッカー選手権大会](../Page/第15回全日本女子サッカー選手権大会.md "wikilink")準々決勝で[シロキFCセレーナ](../Page/シロキFCセレーナ.md "wikilink")に[PK戦](../Page/PK戦.md "wikilink")で敗れ、短い歴史に幕を降ろした。
 
 ## 成績
 
@@ -53,7 +53,7 @@
 
   - GK
       - [小澤純子](https://ja.wikipedia.org/wiki/小澤純子 "wikilink")（[日本女子代表](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")）
-      - [坂田恵](https://ja.wikipedia.org/wiki/坂田恵 "wikilink")（日本女子代表）
+      - [坂田恵](../Page/坂田恵.md "wikilink")（日本女子代表）
   - MF
       - [山木里恵](../Page/山木里恵.md "wikilink")（日本女子代表）
   - FW

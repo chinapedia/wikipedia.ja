@@ -87,7 +87,7 @@
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[6月](../Page/6月.md "wikilink") - 昭島研究所（現株式会社三井造船昭島研究所）開設。
   - [1981年](../Page/1981年.md "wikilink")（昭和56年）10月 - 大分事業所操業開始。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月 - 三造環境サービス株式会社（現三井造船環境エンジニアリング株式会社）を設立。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）5月 - 三造メタル株式会社（後に三井ミーハナイト・メタル株式会社に吸収合併）を設立。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）5月 - 三造メタル株式会社（後に三井ミーハナイト・メタル株式会社に吸収合併）を設立。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）6月 - 三井造船プラント工事株式会社（現三井造船プラントエンジニアリング株式会社）を設立。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）10月 - 株式会社大分三井造船（後に三井造船に吸収合併）、株式会社由良三井造船（その後、株式会社エム・イー・エス由良を経てMES-KHI由良ドック株式会社）を設立。三井物産と共同でPACECO.CORP.を設立。
   - 1988年（昭和63年）12月 - 株式会社モデック（現三井海洋開発株式会社）に経営参加。
@@ -140,7 +140,7 @@
       - [鵜来（うくる）型](../Page/鵜来型海防艦.md "wikilink") - [稲木](https://ja.wikipedia.org/wiki/稲木_\(海防艦\) "wikilink")（いなぎ） -[羽節](https://ja.wikipedia.org/wiki/羽節_\(海防艦\) "wikilink")（はぶし） - [男鹿](https://ja.wikipedia.org/wiki/男鹿_\(海防艦\) "wikilink")（おしか） - [金輪](https://ja.wikipedia.org/wiki/金輪_\(海防艦\) "wikilink")（かなわ） - [高根](https://ja.wikipedia.org/wiki/高根_\(海防艦\) "wikilink")（たかね）
   - [砲艦](../Page/砲艦.md "wikilink")
       - [熱海（あたみ）型](../Page/熱海型砲艦.md "wikilink")：[熱海](../Page/熱海_\(砲艦\).md "wikilink")
-      - [小鷹](https://ja.wikipedia.org/wiki/小鷹_\(砲艦\) "wikilink")
+      - [小鷹](../Page/小鷹_\(砲艦\).md "wikilink")
   - [水雷艇](../Page/水雷艇.md "wikilink")
       - [鴻（おおとり）型](../Page/鴻型水雷艇.md "wikilink")：[雉](https://ja.wikipedia.org/wiki/雉_\(鴻型水雷艇\) "wikilink")（きじ）
   - [掃海艇](../Page/掃海艇.md "wikilink")
@@ -173,7 +173,7 @@
       - [はつゆき型](../Page/はつゆき型護衛艦.md "wikilink")：[はまゆきDD-126](https://ja.wikipedia.org/wiki/はまゆき_\(護衛艦\) "wikilink") - [DD-131 せとゆき](https://ja.wikipedia.org/wiki/せとゆき_\(練習艦\) "wikilink")
       - [あさぎり型](../Page/あさぎり型護衛艦.md "wikilink")：[DD-152 やまぎり](https://ja.wikipedia.org/wiki/やまぎり_\(護衛艦\) "wikilink")
       - [あぶくま型](../Page/あぶくま型護衛艦.md "wikilink")：[DE-229 あぶくま](https://ja.wikipedia.org/wiki/あぶくま_\(護衛艦\) "wikilink") - [DE-231 おおよど](https://ja.wikipedia.org/wiki/おおよど_\(護衛艦\) "wikilink")
-      - [むらさめ型](../Page/むらさめ型護衛艦.md "wikilink")：[DD-102 はるさめ](https://ja.wikipedia.org/wiki/はるさめ_\(護衛艦・2代\) "wikilink")
+      - [むらさめ型](../Page/むらさめ型護衛艦.md "wikilink")：[DD-102 はるさめ](../Page/はるさめ_\(護衛艦・2代\).md "wikilink")
       - [あきづき型](../Page/あきづき型護衛艦_\(2代\).md "wikilink")：[DD-118 ふゆづき](https://ja.wikipedia.org/wiki/ふゆづき_\(護衛艦\) "wikilink")
       - [3900トン型](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")
   - [補給艦](../Page/補給艦.md "wikilink")

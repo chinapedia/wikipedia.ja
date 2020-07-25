@@ -398,7 +398,7 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
   - [佐々木義人](../Page/佐々木義人.md "wikilink")
   - [星川尚浩](../Page/星川尚浩.md "wikilink")
   - [浪口修](../Page/浪口修.md "wikilink")
-  - [斎藤譲](https://ja.wikipedia.org/wiki/斎藤譲 "wikilink")
+  - [斎藤譲](../Page/斎藤譲.md "wikilink")
   - [柿沼謙太](https://ja.wikipedia.org/wiki/柿沼謙太 "wikilink")
   - [高西翔太](https://ja.wikipedia.org/wiki/高西翔太 "wikilink")
   - [山上康弘](https://ja.wikipedia.org/wiki/山上康弘 "wikilink")（プロレスリングZERO1九州）

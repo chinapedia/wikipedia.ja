@@ -9,7 +9,7 @@
 
 また安達かおるのみならず、[バクシーシ山下](../Page/バクシーシ山下.md "wikilink")、[カンパニー松尾](../Page/カンパニー松尾.md "wikilink")、[インジャン古河](https://ja.wikipedia.org/wiki/インジャン古河 "wikilink")など数多くの異色AV監督を輩出したことでも知られる。
 
-元々はビデ倫（[日本ビデオ倫理協会](https://ja.wikipedia.org/wiki/日本ビデオ倫理協会 "wikilink")）所属だったが、あまりの過激さゆえに発売禁止、審査拒否になることもしばしばあった。バクシーシ山下の『女犯』は、あまりにリアルなレイプ映像ゆえ[フェミニスト](https://ja.wikipedia.org/wiki/フェミニスト "wikilink")団体から抗議が殺到し、社会問題となった。また[井口昇](../Page/井口昇.md "wikilink")による史上最悪のエログロドキュメント『ウンゲロミミズ』（主演：[卯月妙子](https://ja.wikipedia.org/wiki/卯月妙子 "wikilink")）では[排泄物](https://ja.wikipedia.org/wiki/排泄物 "wikilink")や[嘔吐物](../Page/吐瀉物.md "wikilink")、[虫](../Page/虫.md "wikilink")などを扱った過激な演出から一部でカルト的人気を得る。
+元々はビデ倫（[日本ビデオ倫理協会](../Page/日本ビデオ倫理協会.md "wikilink")）所属だったが、あまりの過激さゆえに発売禁止、審査拒否になることもしばしばあった。バクシーシ山下の『女犯』は、あまりにリアルなレイプ映像ゆえ[フェミニスト](https://ja.wikipedia.org/wiki/フェミニスト "wikilink")団体から抗議が殺到し、社会問題となった。また[井口昇](../Page/井口昇.md "wikilink")による史上最悪のエログロドキュメント『ウンゲロミミズ』（主演：[卯月妙子](https://ja.wikipedia.org/wiki/卯月妙子 "wikilink")）では[排泄物](https://ja.wikipedia.org/wiki/排泄物 "wikilink")や[嘔吐物](../Page/吐瀉物.md "wikilink")、[虫](../Page/虫.md "wikilink")などを扱った過激な演出から一部でカルト的人気を得る。
 
 1989年にはNHKのドキュメンタリー番組で『わくわく汚物ランド』撮影現場が取材されるなど、マニアカルチャーの代表格とも得る存在となった\[1\]。
 

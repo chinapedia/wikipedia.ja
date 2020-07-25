@@ -5,7 +5,7 @@
 
 ## 概要
 
-それまで月曜21時台に放送されていた連続ドラマ枠『[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")』に代わり、毎週硬軟を混在させたドキュメンタリー作品を放送する番組として制作された。番組スタート当初は、放送開始当日に[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")から民営化したばかりの[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社 (NTT) の[一社提供](../Page/一社提供.md "wikilink")であったが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月にNTTを筆頭に[NEC](../Page/日本電気.md "wikilink")・[JR貨物などの複数社提供番組となるとともに](../Page/日本貨物鉄道.md "wikilink")、タイトルから「NTTアワー」が取れて「TIME21」となった。
+それまで月曜21時台に放送されていた連続ドラマ枠『[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")』に代わり、毎週硬軟を混在させたドキュメンタリー作品を放送する番組として制作された。番組スタート当初は、放送開始当日に[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")から民営化したばかりの[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社 (NTT) の[一社提供](../Page/一社提供.md "wikilink")であったが、[1986年](../Page/1986年.md "wikilink")4月にNTTを筆頭に[NEC](../Page/日本電気.md "wikilink")・[JR貨物などの複数社提供番組となるとともに](../Page/日本貨物鉄道.md "wikilink")、タイトルから「NTTアワー」が取れて「TIME21」となった。
 
 オープニング映像はNTT一社提供時代には静止画だったが、複数社提供移行後は[CGを用いた映像に変更された](../Page/コンピュータグラフィックス.md "wikilink")。また、[提供クレジット](../Page/提供クレジット.md "wikilink")も一社提供時代には白地に同社ロゴを大写しする（上に『提供』の文字が入る）様式だったが、複数社提供になってからは[ブルーバック](../Page/ブルーバック.md "wikilink")画面に変更されるとともに、読み上げ時には[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")を流していた。
 
@@ -238,7 +238,7 @@
 ## 備考
 
   - 日本テレビでは、[金曜日](../Page/金曜日.md "wikilink")10:30 - 11:25や平日16:00 - 16:55（[青春アワー・青春アクションシリーズ](https://ja.wikipedia.org/wiki/青春アワー・青春アクションシリーズ "wikilink")終了後の一時期）に再放送された。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、当番組の撮影で[ケニア](../Page/ケニア.md "wikilink")を訪れた[松島トモ子](../Page/松島トモ子.md "wikilink")が[ライオン](../Page/ライオン.md "wikilink")と[ヒョウ](../Page/ヒョウ.md "wikilink")に襲われ瀕死の重傷を負った。
+  - [1986年](../Page/1986年.md "wikilink")、当番組の撮影で[ケニア](../Page/ケニア.md "wikilink")を訪れた[松島トモ子](../Page/松島トモ子.md "wikilink")が[ライオン](../Page/ライオン.md "wikilink")と[ヒョウ](../Page/ヒョウ.md "wikilink")に襲われ瀕死の重傷を負った。
 
 ## 歴代スタッフ
 

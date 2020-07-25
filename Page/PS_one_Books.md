@@ -175,7 +175,7 @@
   - [ロックマン6 史上最大の戦い\!\!](../Page/ロックマン6_史上最大の戦い!!.md "wikilink")
   - [ロックマンX4](../Page/ロックマンX4.md "wikilink")
   - [ワイルドアームズ](../Page/ワイルドアームズ.md "wikilink")
-  - [ワイルドアームズ セカンドイグニッション](https://ja.wikipedia.org/wiki/ワイルドアームズ_セカンドイグニッション "wikilink")
+  - [ワイルドアームズ セカンドイグニッション](../Page/ワイルドアームズ_セカンドイグニッション.md "wikilink")
   - [俺の屍を越えてゆけ](../Page/俺の屍を越えてゆけ.md "wikilink")
   - [俺の料理](../Page/俺の料理.md "wikilink")
   - [全日本プロレス 王者の魂](https://ja.wikipedia.org/wiki/全日本プロレス_王者の魂 "wikilink")

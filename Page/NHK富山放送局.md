@@ -97,7 +97,7 @@
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [呉羽山のテレビ送信所が無人化される](../Page/呉羽丘陵.md "wikilink")\[8\]。
   - [1967年](../Page/1967年.md "wikilink")（昭和42年）[3月20日](../Page/3月20日.md "wikilink") - 現在の局舎が完成\[9\]。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[3月1日](../Page/3月1日.md "wikilink") - 総合テレビ、音声多重放送を開始\[10\]。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - [文字放送開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年） - [文字放送開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[8月3日](../Page/8月3日.md "wikilink") - 局舎を改修\[11\]。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）[10月1日](../Page/10月1日.md "wikilink") - 総合・教育テレビ、[地上デジタル放送開始](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[11月25日](../Page/11月25日.md "wikilink") - 「宇奈月大原」・「細入猪谷」の両デジタル中継局開局。これにより富山県内でのデジタル中継局の整備が完了（[参考リンク](http://www.soumu.go.jp/soutsu/hokuriku/press/2009/pre091125-1.html)）。

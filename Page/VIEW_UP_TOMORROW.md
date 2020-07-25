@@ -20,7 +20,7 @@
       - 2004年[10月1日](../Page/10月1日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")：「[6Sense](../Page/6Sense.md "wikilink")」
       - 2006年4月1日 - 2006年9月30日：「[Eyes on Japan](../Page/Eyes_on_Japan.md "wikilink")」
       - 2006年10月1日 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月31日：「[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")」
-      - 2008年4月1日 - [2009年](../Page/2009年.md "wikilink")9月30日：「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」
+      - 2008年4月1日 - [2009年](../Page/2009年.md "wikilink")9月30日：「[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")」
   - 番組には前身となるのもあった。
       - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月 - 2001年3月まで：「[TOYOTA 何でもカウントダウン](https://ja.wikipedia.org/wiki/TOYOTA_何でもカウントダウン "wikilink")（のちに「[TOYOTA カウントダウン・ボックス](https://ja.wikipedia.org/wiki/TOYOTA_カウントダウン・ボックス "wikilink")」に番組名変更）」。[2000年](../Page/2000年.md "wikilink")3月まで7時10分からの20分間の放送だった。
       - 1995年3月までは「TOYOTA ビッグバン・グローバル」という番組名だった。その前には7:10-30に「トヨタ・ジャスト・イン・ザ・モーニング」という番組があった。

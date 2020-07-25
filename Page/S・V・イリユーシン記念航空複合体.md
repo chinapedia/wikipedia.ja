@@ -87,7 +87,7 @@
       - [Il-106（初代）](https://ja.wikipedia.org/wiki/Il-106_\(航空機・初代\) "wikilink")
       - [Il-106](https://ja.wikipedia.org/wiki/Il-106_\(航空機\) "wikilink")
       - [Il-112](https://ja.wikipedia.org/wiki/Il-112_\(航空機\) "wikilink")
-      - [Il-214](https://ja.wikipedia.org/wiki/Il-214_\(航空機\) "wikilink") 多用途輸送機 ("MTA")。インドの[ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")と共同開発中の多用途輸送機
+      - [Il-214](https://ja.wikipedia.org/wiki/Il-214_\(航空機\) "wikilink") 多用途輸送機 ("MTA")。インドの[ヒンドスタン航空機](../Page/ヒンドスタン航空機.md "wikilink")と共同開発中の多用途輸送機
   - 早期警戒機
       - [Il-80 VKP](https://ja.wikipedia.org/wiki/Il-80_\(航空機\) "wikilink") *（マックスドーム）*
       - [Il-50](../Page/A-50_\(航空機\).md "wikilink") *（メインステイ）*（Il-76の派生型、但し、設計はベリエフ設計局）

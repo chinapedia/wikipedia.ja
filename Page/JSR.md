@@ -24,7 +24,7 @@
   - [1960年](../Page/1960年.md "wikilink")（昭和35年）4月、四日市工場（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")）稼動開始、[合成ゴム](https://ja.wikipedia.org/wiki/合成ゴム "wikilink")生産開始。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）3月、[合成ゴム](https://ja.wikipedia.org/wiki/合成ゴム "wikilink")[ラテックス](../Page/ラテックス.md "wikilink")生産開始。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）10月、[合成樹脂](../Page/合成樹脂.md "wikilink")生産開始。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）4月、千葉工場（[千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")）稼動開始。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）4月、千葉工場（[千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")）稼動開始。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）4月、「日本合成ゴム株式会社に関する臨時措置に関する法律を廃止する法律」により[民営化](../Page/民営化.md "wikilink")。
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）10月、株式を東証2部・大証2部に上場。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）1月、鹿島工場（[茨城県](../Page/茨城県.md "wikilink")[鹿島郡神栖町](../Page/鹿島郡_\(茨城県\).md "wikilink")、現：[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")）稼動開始。
@@ -63,7 +63,7 @@
       - 12月、[日本アイ・ビー・エム](../Page/日本アイ・ビー・エム.md "wikilink")、千住金属工業と300mmウェハ対応の半導体高密度実装用バンプ形成技術Injection Molded Solderを開発
   - [2016年](../Page/2016年.md "wikilink")（平成28年）
       - 2月、ベルギー[IMEC](https://ja.wikipedia.org/wiki/IMEC "wikilink")とEUVリソグラフィ用フォトレジスト製造合弁会社EUV Resist Manufacturing & Qualification Center N.V.（ベルギー）を設立
-      - 8月、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")等と[3Dプリント](https://ja.wikipedia.org/wiki/3Dプリント "wikilink")義足を共同開発。
+      - 8月、[全日本空輸](../Page/全日本空輸.md "wikilink")等と[3Dプリント](https://ja.wikipedia.org/wiki/3Dプリント "wikilink")義足を共同開発。
       - 9月、[3Dプリンティング](https://ja.wikipedia.org/wiki/3Dプリンティング "wikilink")技術会社のCarbon 3D, Inc. (米国)に出資
       - 12月、[株式会社ジーンテクノサイエンス](https://ja.wikipedia.org/wiki/株式会社ジーンテクノサイエンス "wikilink")と資本業務提携に合意
   - [2017年](../Page/2017年.md "wikilink")（平成29年）

@@ -30,7 +30,7 @@ Pb(NO3)2(aq)\\ + 2KI(aq) -\> PbI2(s)\\ + 2KNO3(aq) </chem>
 
 ## 用途
 
-[マッチ](https://ja.wikipedia.org/wiki/マッチ "wikilink")、あるいは[アジ化鉛](https://ja.wikipedia.org/wiki/アジ化鉛 "wikilink")のような特殊な爆発物の製造、[更紗](https://ja.wikipedia.org/wiki/更紗 "wikilink")を染色する際の[媒染剤](https://ja.wikipedia.org/wiki/媒染剤 "wikilink")、他の鉛化合物の合成原料、[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")や[ポリエステル](../Page/ポリエステル.md "wikilink")の熱安定化剤、[感熱紙](../Page/感熱紙.md "wikilink")の被覆剤、[殺鼠剤](../Page/殺鼠剤.md "wikilink")に使われる。
+[マッチ](https://ja.wikipedia.org/wiki/マッチ "wikilink")、あるいは[アジ化鉛](https://ja.wikipedia.org/wiki/アジ化鉛 "wikilink")のような特殊な爆発物の製造、[更紗](../Page/更紗.md "wikilink")を染色する際の[媒染剤](https://ja.wikipedia.org/wiki/媒染剤 "wikilink")、他の鉛化合物の合成原料、[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")や[ポリエステル](../Page/ポリエステル.md "wikilink")の熱安定化剤、[感熱紙](../Page/感熱紙.md "wikilink")の被覆剤、[殺鼠剤](../Page/殺鼠剤.md "wikilink")に使われる。
 
 [金](../Page/金.md "wikilink")の[青化法](https://ja.wikipedia.org/wiki/青化法 "wikilink")（[抽出](../Page/抽出.md "wikilink")法の一種）で浸出（リーチング）を行う過程に用いると速さと収率の向上が見られ、特に部分的に酸化された[鉱石](../Page/鉱石.md "wikilink")に対して著しい効果を発揮するとされる。
 

@@ -175,7 +175,7 @@
 
 1位　**[五木寛之](../Page/五木寛之.md "wikilink")に気に入られて[TBSラジオに出かかる](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")**
 
-2位　**[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")から手紙をもらった**
+2位　**[中島みゆき](../Page/中島みゆき.md "wikilink")から手紙をもらった**
 
 3位　**飲み会で高橋シュウイチ（漢字不明）逆ギレ事件**
 

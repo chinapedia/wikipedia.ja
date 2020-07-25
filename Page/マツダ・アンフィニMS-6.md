@@ -1,7 +1,7 @@
 > この記事は[マツダ・アンフィニMS-6](https://ja.wikipedia.org/wiki/マツダ・アンフィニMS-6)から翻訳されています。
 
 
-**アンフィニMS-6** (*εfini MS-6*)は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が展開していた販売店ブランド[アンフィニで](../Page/マツダアンフィニ.md "wikilink")、[1991年](../Page/1991年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")にかけて販売された、[D](../Page/Dセグメント.md "wikilink")/[Eセグメント](../Page/Eセグメント.md "wikilink")に属する5ドア[ハッチバックセダン](https://ja.wikipedia.org/wiki/ハッチバックセダン "wikilink")である。
+**アンフィニMS-6** (*εfini MS-6*)は、[マツダ](../Page/マツダ.md "wikilink")が展開していた販売店ブランド[アンフィニで](../Page/マツダアンフィニ.md "wikilink")、[1991年](../Page/1991年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")にかけて販売された、[D](../Page/Dセグメント.md "wikilink")/[Eセグメント](../Page/Eセグメント.md "wikilink")に属する5ドア[ハッチバックセダン](https://ja.wikipedia.org/wiki/ハッチバックセダン "wikilink")である。
 
 [クロノスの](../Page/マツダ・クロノス.md "wikilink")5ドアモデルでもある同車は、[欧州諸国においては](../Page/ヨーロッパ.md "wikilink")**マツダ・626**として、[1992年](../Page/1992年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけて販売された。また、同車のバッジエンジニアリングである[テルスターTX5が](https://ja.wikipedia.org/wiki/フォード・テルスター#3代目（GE系_1991年-1995年） "wikilink")、同社が展開していた販売店ブランド[オートラマ](../Page/オートラマ.md "wikilink")で、1991年から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にかけて販売された。
 
@@ -54,7 +54,7 @@
 
 ## 関連項目
 
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink")
   - [マツダアンフィニ](../Page/マツダアンフィニ.md "wikilink")
   - [マツダ・クロノス](../Page/マツダ・クロノス.md "wikilink")
 

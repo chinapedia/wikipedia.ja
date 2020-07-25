@@ -5,13 +5,13 @@
 
 ## 概要
 
-クラブカラーから**ヴィオラ**（[イタリア語](../Page/イタリア語.md "wikilink")で「[紫](../Page/紫.md "wikilink")・[菫色](https://ja.wikipedia.org/wiki/菫色 "wikilink")」）の愛称で呼ばれる。また、フィレンツェ市のシンボルである百合の紋章から**ジリアーティ**（[イタリア語](../Page/イタリア語.md "wikilink")で「百合の人」）とも呼ばれる。
+クラブカラーから**ヴィオラ**（[イタリア語](../Page/イタリア語.md "wikilink")で「[紫](../Page/紫.md "wikilink")・[菫色](../Page/菫色.md "wikilink")」）の愛称で呼ばれる。また、フィレンツェ市のシンボルである百合の紋章から**ジリアーティ**（[イタリア語](../Page/イタリア語.md "wikilink")で「百合の人」）とも呼ばれる。
 
 クラブの全盛期にはリーグ戦、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")、カップウィナーズカップなどで優勝を経験するなど、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")、[ローマなどのトップグループに次ぐ強豪クラブとして確固たる地位を築いた](../Page/ASローマ.md "wikilink")。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代中期以降も[ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")、[マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink")らを擁して上位に食い込んだ。
 
-なお、日本にもフィオレンティーナのサポーターは多く、クラブ公認サポーターズクラブ「ヴィオラクラブ・ジャパン」も存在している。クラブとしても1997年から[任天堂](../Page/任天堂.md "wikilink")と2年間、1999年から[TOYOTAと](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")8年間（クラブ消滅により2002年からセリエAに復帰する2004年までは一時撤退）、2011年から2014年まで[MAZDAと](https://ja.wikipedia.org/wiki/マツダ "wikilink")3年間それぞれメインスポンサー契約を結んでおり、延べ10年以上に渡って日本企業をユニフォームの胸ロゴとしている他、2004年には[中田英寿](../Page/中田英寿.md "wikilink")を獲得するなど日本とは浅からぬ縁があるといえる。ちなみに、任天堂は[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")、MAZDAは[サンフレッチェ広島のスポンサーでいずれも紫がチームカラーである](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")（TOYOTAがスポンサーの[名古屋グランパスのチームカラーは赤](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")）。
+なお、日本にもフィオレンティーナのサポーターは多く、クラブ公認サポーターズクラブ「ヴィオラクラブ・ジャパン」も存在している。クラブとしても1997年から[任天堂](../Page/任天堂.md "wikilink")と2年間、1999年から[TOYOTAと](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")8年間（クラブ消滅により2002年からセリエAに復帰する2004年までは一時撤退）、2011年から2014年まで[MAZDAと](../Page/マツダ.md "wikilink")3年間それぞれメインスポンサー契約を結んでおり、延べ10年以上に渡って日本企業をユニフォームの胸ロゴとしている他、2004年には[中田英寿](../Page/中田英寿.md "wikilink")を獲得するなど日本とは浅からぬ縁があるといえる。ちなみに、任天堂は[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")、MAZDAは[サンフレッチェ広島のスポンサーでいずれも紫がチームカラーである](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")（TOYOTAがスポンサーの[名古屋グランパスのチームカラーは赤](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")）。
 
 ## 歴史
 
@@ -370,7 +370,7 @@
 
   - [パオロ・コンティ](../Page/パオロ・コンティ.md "wikilink")
 
-  - [ジョバンニ・ガッリ](https://ja.wikipedia.org/wiki/ジョバンニ・ガッリ "wikilink")
+  - [ジョバンニ・ガッリ](../Page/ジョバンニ・ガッリ.md "wikilink")
 
   - [ヴァレリオ・フィオーリ](../Page/ヴァレリオ・フィオーリ.md "wikilink")
 
@@ -464,13 +464,13 @@
 
   - [ネヴィオ・スカラ](https://ja.wikipedia.org/wiki/ネヴィオ・スカラ "wikilink")
 
-  - [ガブリオレ・オリアリ](https://ja.wikipedia.org/wiki/ガブリオレ・オリアリ "wikilink")
+  - [ガブリオレ・オリアリ](../Page/ガブリオレ・オリアリ.md "wikilink")
 
   - [ソクラテス](../Page/ソクラテス_\(サッカー選手\).md "wikilink")
 
   - [ジャンカルロ・アントニョーニ](../Page/ジャンカルロ・アントニョーニ.md "wikilink")
 
-  - [アントニオ・ディ・ジェンナロ](https://ja.wikipedia.org/wiki/アントニオ・ディ・ジェンナロ "wikilink")
+  - [アントニオ・ディ・ジェンナロ](../Page/アントニオ・ディ・ジェンナロ.md "wikilink")
 
   - [ドゥンガ](../Page/ドゥンガ.md "wikilink")
 
@@ -478,7 +478,7 @@
 
   - [アンジェロ・ディ・リービオ](../Page/アンジェロ・ディ・リービオ.md "wikilink")
 
-  - [ニコラ・ベルティ](https://ja.wikipedia.org/wiki/ニコラ・ベルティ "wikilink")
+  - [ニコラ・ベルティ](../Page/ニコラ・ベルティ.md "wikilink")
 
   - [シュテファン・エッフェンベルク](../Page/シュテファン・エッフェンベルク.md "wikilink")
 
@@ -500,7 +500,7 @@
 
   - [マルティン・ヨルゲンセン](../Page/マルティン・ヨルゲンセン.md "wikilink")
 
-  - [ドメニコ・モルフェオ](https://ja.wikipedia.org/wiki/ドメニコ・モルフェオ "wikilink")
+  - [ドメニコ・モルフェオ](../Page/ドメニコ・モルフェオ.md "wikilink")
 
   - [クリスティアン・ブロッキ](../Page/クリスティアン・ブロッキ.md "wikilink")
 
@@ -572,7 +572,7 @@
 
   - [ピエリーノ・プラティ](https://ja.wikipedia.org/wiki/ピエリーノ・プラティ "wikilink")
 
-  - [フランチェスコ・グラツィアーニ](https://ja.wikipedia.org/wiki/フランチェスコ・グラツィアーニ "wikilink")
+  - [フランチェスコ・グラツィアーニ](../Page/フランチェスコ・グラツィアーニ.md "wikilink")
 
   - [ダニエル・ベルトーニ](https://ja.wikipedia.org/wiki/ダニエル・ベルトーニ "wikilink")
 
@@ -758,7 +758,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ" title="wikilink">MAZDA</a></p></td>
+<td><p><a href="../Page/マツダ.md" title="wikilink">MAZDA</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

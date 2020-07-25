@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 5月6日 [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") HOLIDAY AIR CURRENT (9:00-18:00)
+  - 5月6日 [ANA](../Page/全日本空輸.md "wikilink") HOLIDAY AIR CURRENT (9:00-18:00)
 
 <!-- end list -->
 

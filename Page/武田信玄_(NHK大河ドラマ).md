@@ -211,7 +211,7 @@
   - 古川小平太
     演：[藤原稔三](https://ja.wikipedia.org/wiki/藤原稔三 "wikilink")
   - 三枝半兵衛
-    演：[山中一徳](https://ja.wikipedia.org/wiki/山中一徳 "wikilink")
+    演：[山中一徳](../Page/山中一徳.md "wikilink")
   - 高間雄斎
     演：[有川博](../Page/有川博.md "wikilink")
   - 曾根原主膳
@@ -362,7 +362,7 @@
     （うめ→於梅）
     演：[岡本舞](../Page/岡本舞.md "wikilink")（幼少期：[安藤明子](https://ja.wikipedia.org/wiki/安藤明子 "wikilink")、少女期：[畑仲美和](https://ja.wikipedia.org/wiki/畑仲美和 "wikilink")）
     晴信の娘、氏政の正室。義信事件の後、離縁され甲斐に戻る。その後、病になり本人の願いにより赤子のように信玄に抱かれながら亡くなる。
-  - [松田康郷](https://ja.wikipedia.org/wiki/松田康郷 "wikilink")（まつだ やすさと）
+  - [松田康郷](../Page/松田康郷.md "wikilink")（まつだ やすさと）
     演：[北村総一朗](../Page/北村総一朗.md "wikilink")
     北条家臣。外交を担い、甲府、駿府、春日山に度々出向く。
   - [松田憲秀](../Page/松田憲秀.md "wikilink")（まつだ のりひで）

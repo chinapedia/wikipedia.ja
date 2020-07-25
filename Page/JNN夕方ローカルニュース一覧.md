@@ -29,7 +29,7 @@
       - キャスター:[佐藤香](https://ja.wikipedia.org/wiki/佐藤香 "wikilink")
       - ニュースキャスター：[今泉清保](../Page/今泉清保.md "wikilink")・[河村庸市](https://ja.wikipedia.org/wiki/河村庸市 "wikilink")・[近藤志生里](https://ja.wikipedia.org/wiki/近藤志生里 "wikilink")
       - フィールドキャスター：[高山基彦](https://ja.wikipedia.org/wiki/高山基彦 "wikilink")・[池田麻美](../Page/池田麻美.md "wikilink")・[五月女舞香](https://ja.wikipedia.org/wiki/五月女舞香 "wikilink")、ほか
-      - 天気キャスター：[吉田篤](https://ja.wikipedia.org/wiki/吉田篤 "wikilink")（[アップルウェザー](https://ja.wikipedia.org/wiki/アップルウェザー "wikilink")所属気象予報士）
+      - 天気キャスター：[吉田篤](https://ja.wikipedia.org/wiki/吉田篤 "wikilink")（[アップルウェザー](../Page/アップルウェザー.md "wikilink")所属気象予報士）
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）
       - 『[IBCニュースエコー](../Page/ニュースエコー.md "wikilink")』■（月 - 金 18:15 - 18:55\[5\]）
       - キャスター：[江幡平三郎](https://ja.wikipedia.org/wiki/江幡平三郎 "wikilink")（月 - 水）、[奥村奈穂美](../Page/奥村奈穂美.md "wikilink")（月 - 水）、[浅見智](../Page/浅見智.md "wikilink")（木・金）、[甲斐谷望](https://ja.wikipedia.org/wiki/甲斐谷望 "wikilink")（木・金）
@@ -202,7 +202,7 @@
   - BSN 新潟放送
     [BSNニュース](https://ja.wikipedia.org/wiki/BSNニュース "wikilink") - [BSNニュースワイド](../Page/BSNニュースワイド.md "wikilink") - [イブニング王国](https://ja.wikipedia.org/wiki/イブニング王国 "wikilink")NEWS - [THE NEWS 新潟](https://ja.wikipedia.org/wiki/THE_NEWS_新潟 "wikilink") - [Nスタ新潟](https://ja.wikipedia.org/wiki/Nスタ新潟 "wikilink")
   - SBC 信越放送
-    [信毎ニュース](../Page/信毎ニュース.md "wikilink") - [信州まるごとワイド。キャッチ\!](../Page/信州まるごとワイド。キャッチ!.md "wikilink") ‐ [NEWS キャッチ\!](../Page/NEWS_キャッチ!.md "wikilink") - [SBC News6](https://ja.wikipedia.org/wiki/SBC_News6 "wikilink") - [総力報道\!THE NEWS SBC](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_SBC "wikilink")
+    [信毎ニュース](../Page/信毎ニュース.md "wikilink") - [信州まるごとワイド。キャッチ\!](../Page/信州まるごとワイド。キャッチ!.md "wikilink") ‐ [NEWS キャッチ\!](../Page/NEWS_キャッチ!.md "wikilink") - [SBC News6](../Page/SBC_News6.md "wikilink") - [総力報道\!THE NEWS SBC](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_SBC "wikilink")
   - UTY テレビ山梨
     [UTYニュース](https://ja.wikipedia.org/wiki/UTYニュース "wikilink") - [テレポートやまなし](https://ja.wikipedia.org/wiki/テレポートやまなし "wikilink") - [UTYニュースワイド](https://ja.wikipedia.org/wiki/UTYニュースワイド "wikilink") - [UTYニュースの星](../Page/UTYニュースの星.md "wikilink")
   - TUT チューリップテレビ

@@ -70,7 +70,7 @@
   - 脚本 : [マギー](../Page/マギー_\(俳優\).md "wikilink")
   - 音楽 : [服部隆之](../Page/服部隆之.md "wikilink")
   - 撮影 : [高瀬比呂志](https://ja.wikipedia.org/wiki/高瀬比呂志 "wikilink")
-  - 編集 : [田口拓也](https://ja.wikipedia.org/wiki/田口拓也 "wikilink")
+  - 編集 : [田口拓也](../Page/田口拓也.md "wikilink")
   - 画コンテ : [ヒグチしんじ](../Page/樋口真嗣.md "wikilink")
   - キャスティング : [杉野剛](https://ja.wikipedia.org/wiki/杉野剛 "wikilink")
   - エンディングタイトル : 山本雅之

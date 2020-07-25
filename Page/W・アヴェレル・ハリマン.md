@@ -1,7 +1,7 @@
 > この記事は[W・アヴェレル・ハリマン](https://ja.wikipedia.org/wiki/W・アヴェレル・ハリマン)から翻訳されています。
 
 
-**ウィリアム・アヴェレル・ハリマン**（, [1891年](../Page/1891年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")、[銀行家](https://ja.wikipedia.org/wiki/銀行家 "wikilink")、[実業家](../Page/実業家.md "wikilink")。[トルーマン政権の商務長官](../Page/ハリー・S・トルーマン.md "wikilink")（[1946年](../Page/1946年.md "wikilink") - [1948年](../Page/1948年.md "wikilink")）、[ニューヨーク州知事](https://ja.wikipedia.org/wiki/ニューヨーク州知事 "wikilink")（[1955年](../Page/1955年.md "wikilink") - [1959年](../Page/1959年.md "wikilink")）。[アメリカ対日協議会](https://ja.wikipedia.org/wiki/アメリカ対日協議会 "wikilink")のスポンサー。
+**ウィリアム・アヴェレル・ハリマン**（, [1891年](../Page/1891年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")、[銀行家](https://ja.wikipedia.org/wiki/銀行家 "wikilink")、[実業家](../Page/実業家.md "wikilink")。[トルーマン政権の商務長官](../Page/ハリー・S・トルーマン.md "wikilink")（[1946年](../Page/1946年.md "wikilink") - [1948年](../Page/1948年.md "wikilink")）、[ニューヨーク州知事](https://ja.wikipedia.org/wiki/ニューヨーク州知事 "wikilink")（[1955年](../Page/1955年.md "wikilink") - [1959年](../Page/1959年.md "wikilink")）。[アメリカ対日協議会](https://ja.wikipedia.org/wiki/アメリカ対日協議会 "wikilink")のスポンサー。
 
 ## 生涯
 

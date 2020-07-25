@@ -19,7 +19,7 @@
   - [ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）
   - [ダルムシュタット工科大学](https://ja.wikipedia.org/wiki/ダルムシュタット工科大学 "wikilink")（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")）
   - [ソウル大学](https://ja.wikipedia.org/wiki/ソウル大学 "wikilink")（[韓国](../Page/大韓民国.md "wikilink")）
-  - [サンパウロ大学](https://ja.wikipedia.org/wiki/サンパウロ大学 "wikilink")（[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）
+  - [サンパウロ大学](../Page/サンパウロ大学.md "wikilink")（[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）
 
 ## 東京工業大学におけるIDC参加方法
 

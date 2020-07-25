@@ -407,7 +407,7 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [櫻谷勉](https://ja.wikipedia.org/wiki/櫻谷勉 "wikilink")
   - [サム・ノートンナイト](https://ja.wikipedia.org/wiki/サム・ノートンナイト "wikilink")
   - [茂野海人](https://ja.wikipedia.org/wiki/茂野海人 "wikilink") (6)
-  - [首藤甲子郎](https://ja.wikipedia.org/wiki/首藤甲子郎 "wikilink")
+  - [首藤甲子郎](../Page/首藤甲子郎.md "wikilink")
   - [田村優](https://ja.wikipedia.org/wiki/田村優_\(ラグビー選手\) "wikilink") (50)
   - [西田創](https://ja.wikipedia.org/wiki/西田創 "wikilink")
   - [日高健](https://ja.wikipedia.org/wiki/日高健 "wikilink")
@@ -429,7 +429,7 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [李珍錫](https://ja.wikipedia.org/wiki/李珍錫 "wikilink") (KOR)
   - [山田龍之介](https://ja.wikipedia.org/wiki/山田龍之介 "wikilink")
   - [ラトゥイラレプハ](https://ja.wikipedia.org/wiki/ラトゥイラレプハ "wikilink")
-  - [権丈太郎](https://ja.wikipedia.org/wiki/権丈太郎 "wikilink")
+  - [権丈太郎](../Page/権丈太郎.md "wikilink")
   - [スコット・ヒギンボザム](https://ja.wikipedia.org/wiki/スコット・ヒギンボザム "wikilink")（AUS）
   - [岡新之助タフォキタウ](https://ja.wikipedia.org/wiki/岡新之助タフォキタウ "wikilink")（TON）
   - [デレック・カーペンター](https://ja.wikipedia.org/wiki/デレック・カーペンター "wikilink") (2)

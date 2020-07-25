@@ -7,7 +7,7 @@
 
 一大[バレーボール](../Page/バレーボール.md "wikilink")ブームを起こしたスポーツ根性（[スポ根](../Page/スポ根.md "wikilink")）漫画としても有名であり、連載当時は『[サインはV\!](https://ja.wikipedia.org/wiki/サインはV! "wikilink")』と並ぶ2大バレーボール漫画として知られていた。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")1月から[1970年](../Page/1970年.md "wikilink")12月まで『[週刊マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載された。[マーガレットコミックス](../Page/マーガレットコミックス.md "wikilink")から全12巻が刊行され、[少女漫画](../Page/少女漫画.md "wikilink")の単行本として初めて10巻を超えた作品となった。
+[1968年](../Page/1968年.md "wikilink")1月から[1970年](../Page/1970年.md "wikilink")12月まで『[週刊マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載された。[マーガレットコミックス](../Page/マーガレットコミックス.md "wikilink")から全12巻が刊行され、[少女漫画](../Page/少女漫画.md "wikilink")の単行本として初めて10巻を超えた作品となった。
 
 続編として、[1975年](../Page/1975年.md "wikilink")に連載された『新アタックNo.1』がある。また、[2004年](../Page/2004年.md "wikilink")11月からは[小沢花音](https://ja.wikipedia.org/wiki/小沢花音 "wikilink")作画によってリメイク版の『新・アタックNo.1』が『マーガレット』に連載されている。
 

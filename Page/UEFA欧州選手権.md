@@ -87,7 +87,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州選手権1968" title="wikilink">3</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 1</strong><br />
@@ -1173,7 +1173,7 @@
 <td><p><a href="../Page/UEFA_EURO_2012.md" title="wikilink">2012</a></p></td>
 <td><p><a href="../Page/アンドレス・イニエスタ.md" title="wikilink">アンドレス・イニエスタ</a></p></td>
 <td><p><a href="../Page/フェルナンド・トーレス.md" title="wikilink">フェルナンド・トーレス</a><br />
- <a href="https://ja.wikipedia.org/wiki/マリオ・バロテッリ" title="wikilink">マリオ・バロテッリ</a><br />
+ <a href="../Page/マリオ・バロテッリ.md" title="wikilink">マリオ・バロテッリ</a><br />
  <a href="../Page/マリオ・ゴメス.md" title="wikilink">マリオ・ゴメス</a><br />
  <a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a><br />
  <a href="https://ja.wikipedia.org/wiki/アラン・ジャゴエフ" title="wikilink">アラン・ジャゴエフ</a><br />

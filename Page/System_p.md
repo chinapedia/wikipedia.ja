@@ -7,7 +7,7 @@
 
 ## 名称
 
-正式名称は「IBM eServer pSeries」である。IBMのサーバ全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](../Page/System_i.md "wikilink")、System p、[System x](../Page/System_x.md "wikilink")、[System Storage](https://ja.wikipedia.org/wiki/System_Storage "wikilink")）の1つである。「p」は「performance（パフォーマンス）」を意味する。また[POWER5](https://ja.wikipedia.org/wiki/POWER5 "wikilink")ベースのものを **p5** とも称する。
+正式名称は「IBM eServer pSeries」である。IBMのサーバ全体のブランド名「[IBM Systems](https://ja.wikipedia.org/wiki/IBM_Systems "wikilink")」を構成するシリーズ（[System z](../Page/System_z.md "wikilink")、[System i](../Page/System_i.md "wikilink")、System p、[System x](../Page/System_x.md "wikilink")、[System Storage](../Page/System_Storage.md "wikilink")）の1つである。「p」は「performance（パフォーマンス）」を意味する。また[POWER5](https://ja.wikipedia.org/wiki/POWER5 "wikilink")ベースのものを **p5** とも称する。
 
 ## 歴史
 

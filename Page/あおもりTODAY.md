@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - [青山英次](../Page/青山英次.md "wikilink")（2014年4月2日から）
-  - 小林貴子（[気象予報士](../Page/気象予報士.md "wikilink")･[防災士](../Page/防災士.md "wikilink")、[アップルウェザー](https://ja.wikipedia.org/wiki/アップルウェザー "wikilink")所属）
+  - 小林貴子（[気象予報士](../Page/気象予報士.md "wikilink")･[防災士](../Page/防災士.md "wikilink")、[アップルウェザー](../Page/アップルウェザー.md "wikilink")所属）
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
       - 新人時代に同期の菅原・永井・上野の3人は共に水曜日「それいけ\!お天気追跡隊」の「お天気ノー天気隊」隊員として番組にレギュラー出演していた。
   - [工藤淳](https://ja.wikipedia.org/wiki/工藤淳_\(気象予報士\) "wikilink")（気象予報士･防災士、アップルウェザー代表取締役社長兼青森県防災士会会長）
   - [樋田かおり](https://ja.wikipedia.org/wiki/樋田かおり "wikilink")（水曜日の月一回、日本原燃サイクル情報センターからの公開放送担当、2011年3月迄）
-  - [吉田篤](https://ja.wikipedia.org/wiki/吉田篤 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")･[防災士](../Page/防災士.md "wikilink")、[アップルウェザー](https://ja.wikipedia.org/wiki/アップルウェザー "wikilink")所属　小林貴子が産休の期間、代理で出演していた）
+  - [吉田篤](https://ja.wikipedia.org/wiki/吉田篤 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")･[防災士](../Page/防災士.md "wikilink")、[アップルウェザー](../Page/アップルウェザー.md "wikilink")所属　小林貴子が産休の期間、代理で出演していた）
   - [星和明](https://ja.wikipedia.org/wiki/星和明 "wikilink")（2009年4月6日から2012年9月25日まで、月曜・火曜ラジオカーリポーター）
 
 ## ディレクター
@@ -343,7 +343,7 @@
 
 ## 番組内のBGMについて
 
-  - 天気予報で使われているBGMは、2009年3月まで[今井美樹](../Page/今井美樹.md "wikilink")の唄で知られる「[彼女とTIP ON DUO](https://ja.wikipedia.org/wiki/彼女とTIP_ON_DUO "wikilink")」のインストであった。尚、このインスト及び曲の長さは、約3分50秒である。 尚、[2009年](../Page/2009年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")の放送では、12時07分頃(お昼の東奥日報ニュース前)に今井が歌う「彼女とTIP ON DUO」が放送された。
+  - 天気予報で使われているBGMは、2009年3月まで[今井美樹](../Page/今井美樹.md "wikilink")の唄で知られる「[彼女とTIP ON DUO](https://ja.wikipedia.org/wiki/彼女とTIP_ON_DUO "wikilink")」のインストであった。尚、このインスト及び曲の長さは、約3分50秒である。 尚、[2009年](../Page/2009年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")の放送では、12時07分頃(お昼の東奥日報ニュース前)に今井が歌う「彼女とTIP ON DUO」が放送された。
   - 2006年11月から2009年3月まで交通情報内で流れるBGMは、[今日も\!あさぷり](../Page/今日も!あさぷり.md "wikilink")内で流れるものと共通化された。2006年秋の改編時のごく初期は[サタデー夢ラジオ](../Page/サタデー夢ラジオ.md "wikilink")の交通情報のBGMが使われていた。
   - JR空席情報で使われている（以前は交通情報にも使われていた）BGMは[東北放送](../Page/東北放送.md "wikilink")テレビの『[イブニングニュースTBC](https://ja.wikipedia.org/wiki/イブニングニュースTBC "wikilink")』のオープニングで使われていた。
   - 2010年3月まで「ラジオ伝言板」の各放送局別の提供の時に流れていたBGMは、[松岡直也](../Page/松岡直也.md "wikilink")の「GIRL IN THE MIRROR」である。

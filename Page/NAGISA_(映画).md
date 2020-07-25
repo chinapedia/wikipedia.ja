@@ -40,7 +40,7 @@
   - 竹脇宗徳：[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
   - 神主：[柄本明](../Page/柄本明.md "wikilink")
   - タツヤ：[島村勝](https://ja.wikipedia.org/wiki/島村勝 "wikilink")
-  - 電器屋の主人：[出光元](https://ja.wikipedia.org/wiki/出光元 "wikilink")
+  - 電器屋の主人：[出光元](../Page/出光元.md "wikilink")
   - おミズ：[深水三章](../Page/深水三章.md "wikilink")
   - のぼる：[鏑木貴仁](https://ja.wikipedia.org/wiki/鏑木貴仁 "wikilink")
   - あきら：[渡部祐希](https://ja.wikipedia.org/wiki/渡部祐希 "wikilink")

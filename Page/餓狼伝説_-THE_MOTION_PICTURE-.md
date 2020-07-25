@@ -56,7 +56,7 @@
 ## 主題歌
 
   - エンディングテーマ「夜明けのレジェンド」
-    作詞：[亜伊林](https://ja.wikipedia.org/wiki/亜伊林 "wikilink") / 作曲：[清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲：[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink") / 歌：[錦織一清](../Page/錦織一清.md "wikilink")
+    作詞：[亜伊林](https://ja.wikipedia.org/wiki/亜伊林 "wikilink") / 作曲：[清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲：[井上日徳](../Page/井上日徳.md "wikilink") / 歌：[錦織一清](../Page/錦織一清.md "wikilink")
 
 ## キャスト
 

@@ -308,7 +308,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1986_FIFAワールドカップ.md" title="wikilink">13</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 - 2</strong></p></td>
@@ -603,7 +603,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1986_FIFAワールドカップ.md" title="wikilink">13</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/メキシコシティ.md" title="wikilink">メキシコシティ</a></p></td>
 <td><p><a href="../Page/エスタディオ・アステカ.md" title="wikilink">エスタディオ・アステカ</a></p></td>
 <td><p>52</p></td>
@@ -2178,7 +2178,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1986_FIFAワールドカップ.md" title="wikilink">13</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アステカ_(サッカー)" title="wikilink">アステカ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピケ_(マスコット)" title="wikilink">ピケ</a></p></td>

@@ -157,7 +157,7 @@
       - [Fender Precision Bass](../Page/フェンダー・プレシジョンベース.md "wikilink")
       - G\&L L-2000
   - アンプ
-      - [Ampeg](https://ja.wikipedia.org/wiki/アンペグ "wikilink") SVT-VR
+      - [Ampeg](../Page/アンペグ.md "wikilink") SVT-VR
       - Ampeg SVT-810E
 
 <!-- end list -->

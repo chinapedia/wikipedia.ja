@@ -35,7 +35,7 @@
 
 ### 寺院の殺人
 
-1935年に発表された詩劇。[殉教](../Page/殉教.md "wikilink")者[トマス・ア・ベケットを主人公とする](https://ja.wikipedia.org/wiki/トマス・ベケット "wikilink")。[無韻詩で書かれている](https://ja.wikipedia.org/wiki/ブランクヴァース "wikilink")。『寺院の殺人』（1935年）の第2幕に登場する「誘惑者」と主人公トマスの対話は、[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")の『[マスグレーヴ家の儀式](../Page/マスグレーヴ家の儀式.md "wikilink")』を真似たものである。
+1935年に発表された詩劇。[殉教](../Page/殉教.md "wikilink")者[トマス・ア・ベケットを主人公とする](https://ja.wikipedia.org/wiki/トマス・ベケット "wikilink")。[無韻詩で書かれている](../Page/ブランクヴァース.md "wikilink")。『寺院の殺人』（1935年）の第2幕に登場する「誘惑者」と主人公トマスの対話は、[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")の『[マスグレーヴ家の儀式](../Page/マスグレーヴ家の儀式.md "wikilink")』を真似たものである。
 
   - [福田恆存](../Page/福田恆存.md "wikilink")訳（1954年、新潮社）、のち『エリオット全集2　詩劇』
   - [高橋康也](../Page/高橋康也.md "wikilink")訳（1971年、白水社 → 2001年、リキエスタの会）
@@ -82,7 +82,7 @@
   - 『エリオット伝』 [スティーヴン・スペンダー](https://ja.wikipedia.org/wiki/スティーブン・スペンダー "wikilink")、[和田旦](https://ja.wikipedia.org/wiki/和田旦 "wikilink")訳、[みすず書房](../Page/みすず書房.md "wikilink")、1979年
   - 『T・S・エリオット』 [ノースロップ・フライ](https://ja.wikipedia.org/wiki/ノースロップ・フライ "wikilink")、遠藤光訳、清水弘文堂書房、1981年
   - 『T・S・エリオット』 ピーター・アクロイド、武谷紀久雄訳、みすず書房、1988年
-  - 『T・S・エリオット 人と思想』 [徳永暢三](https://ja.wikipedia.org/wiki/徳永暢三 "wikilink")、[清水書院](https://ja.wikipedia.org/wiki/清水書院 "wikilink")、1992年、新装版2014年。新書版の入門書
+  - 『T・S・エリオット 人と思想』 [徳永暢三](https://ja.wikipedia.org/wiki/徳永暢三 "wikilink")、[清水書院](../Page/清水書院.md "wikilink")、1992年、新装版2014年。新書版の入門書
 
 ## 参考文献（近年）
 

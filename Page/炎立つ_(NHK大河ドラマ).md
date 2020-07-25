@@ -473,7 +473,7 @@
     演：[深水三章](../Page/深水三章.md "wikilink")
   - [静賢](https://ja.wikipedia.org/wiki/静賢 "wikilink")（せいけん）
     演：[山崎一](../Page/山崎一.md "wikilink")
-  - [源資賢](https://ja.wikipedia.org/wiki/源資賢 "wikilink")（みなもと の すけかた）
+  - [源資賢](../Page/源資賢.md "wikilink")（みなもと の すけかた）
     演：[前田昌明](../Page/前田昌明.md "wikilink")
   - [西行](../Page/西行.md "wikilink")（さいぎょう）
     演：[柳生博](../Page/柳生博.md "wikilink")

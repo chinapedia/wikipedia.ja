@@ -285,7 +285,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 <td><p>秦基博</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></p></td>
 <td><p>EXILE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a></p></td>
+<td><p><a href="../Page/キマグレン.md" title="wikilink">キマグレン</a></p></td>
 <td><p>スガシカオ<br />
 平井堅</p></td>
 </tr>

@@ -195,7 +195,7 @@ G3とG3-Xが合わさった外見であるが、基本カラーは[黒](https://
   - [野口雅弘](https://ja.wikipedia.org/wiki/野口雅弘_\(俳優\) "wikilink")
   - 朱源実
   - [歌澤寅右衛門](../Page/歌澤寅右衛門.md "wikilink")
-  - 深海の部下 - [松林慎司](https://ja.wikipedia.org/wiki/松林慎司 "wikilink")、[金子裕](https://ja.wikipedia.org/wiki/金子裕_\(俳優\) "wikilink")
+  - 深海の部下 - [松林慎司](../Page/松林慎司.md "wikilink")、[金子裕](https://ja.wikipedia.org/wiki/金子裕_\(俳優\) "wikilink")
   - [芝崎昇](../Page/芝崎昇.md "wikilink")
   - 松浦健城
   - [川屋せっちん](https://ja.wikipedia.org/wiki/河屋秀俊 "wikilink")

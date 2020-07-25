@@ -79,7 +79,7 @@
   - [FOCUS RS](../Page/フォード・フォーカス.md "wikilink")
   - [PUMA](https://ja.wikipedia.org/wiki/:en:Ford_Puma "wikilink")
   - [SIERRA RS COSWORTH](https://ja.wikipedia.org/wiki/フォード・シエラ "wikilink")
-  - [ESCORT RS COSWORTH](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")
+  - [ESCORT RS COSWORTH](../Page/フォード・エスコート.md "wikilink")
 
 <!-- end list -->
 
@@ -115,7 +115,7 @@
 
 <!-- end list -->
 
-  - [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [MAZDA](../Page/マツダ.md "wikilink")
 
 <!-- end list -->
 

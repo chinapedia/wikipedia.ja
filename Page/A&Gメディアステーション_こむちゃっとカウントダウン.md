@@ -1317,7 +1317,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>4月2日</p></td>
 <td><p>440</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Azusa_(シンガーソングライター)" title="wikilink">azusa</a></p></td>
+<td><p><a href="../Page/Azusa_(シンガーソングライター).md" title="wikilink">azusa</a></p></td>
 <td><p>442</p></td>
 </tr>
 <tr class="odd">

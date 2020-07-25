@@ -7,7 +7,7 @@
 
 ## スタイル・機構
 
-[1976年](../Page/1976年.md "wikilink")にBMWモータースポーツ（現[BMW M](../Page/BMW_M.md "wikilink")）は、当時[ポルシェ・934](https://ja.wikipedia.org/wiki/ポルシェ・934 "wikilink")や[ポルシェ・935](https://ja.wikipedia.org/wiki/ポルシェ・935 "wikilink")の独擅場だったグループ4およびグループ5[シルエットフォーミュラ](https://ja.wikipedia.org/wiki/シルエットフォーミュラ "wikilink")を制するため**E-26**の開発を始めた。
+[1976年](../Page/1976年.md "wikilink")にBMWモータースポーツ（現[BMW M](../Page/BMW_M.md "wikilink")）は、当時[ポルシェ・934](../Page/ポルシェ・934.md "wikilink")や[ポルシェ・935](https://ja.wikipedia.org/wiki/ポルシェ・935 "wikilink")の独擅場だったグループ4およびグループ5[シルエットフォーミュラ](https://ja.wikipedia.org/wiki/シルエットフォーミュラ "wikilink")を制するため**E-26**の開発を始めた。
 
 当初想定されていた自社製の[V型12気筒](../Page/V型12気筒.md "wikilink")4.5 Lエンジンは、大きく重く明らかにエコロジーとは無縁であったため、[オイルショック](../Page/オイルショック.md "wikilink")の風が吹く中、一般世論に反するものとして葬り去られることになり、代わりに[ヨーロッパツーリングカー選手権](../Page/ヨーロッパツーリングカー選手権.md "wikilink")用に開発されたM-88型3,453 cc[直列6気筒](../Page/直列6気筒.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")エンジンがクーゲルフィッシャーの機械式[インジェクションと組み合わせ採用された](../Page/燃料噴射装置.md "wikilink")。このユニットは長大でありその結果[ホイールベース](../Page/ホイールベース.md "wikilink")の延長という弊害をもたらしたが、潤滑系統に[ドライサンプ](../Page/ドライサンプ.md "wikilink")方式を採用することによりエンジンの搭載位置を大幅に下げ、重心を低くすることを可能とした。そのため[クランクシャフト](../Page/クランクシャフト.md "wikilink")の中心は地上から185 mmに設定されている。[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")9.0で277馬力/6,500 rpmの[公道](../Page/公道.md "wikilink")仕様、圧縮比11.5で470馬力/9,000 rpmのグループ4仕様、排気量を3,153 ccに減じ[KKK製](https://ja.wikipedia.org/wiki/:de:Kühnle,_Kopp_&_Kausch "wikilink")[ターボを装備した](../Page/ターボチャージャー.md "wikilink")850馬力/9,000 rpmのグループ5仕様が用意された。
 

@@ -166,7 +166,7 @@
   - 工員：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")（モーニング娘。OG）
   - 錦野弘太郎：[鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
   - 迫田：[井之脇海](https://ja.wikipedia.org/wiki/井之脇海 "wikilink")
-  - [平山祐介](https://ja.wikipedia.org/wiki/平山祐介 "wikilink")、[山本龍二](../Page/山本龍二.md "wikilink") 他
+  - [平山祐介](../Page/平山祐介.md "wikilink")、[山本龍二](../Page/山本龍二.md "wikilink") 他
 
 ## 脚注
 

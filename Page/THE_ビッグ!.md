@@ -1,7 +1,7 @@
 > この記事は[THE ビッグ!](https://ja.wikipedia.org/wiki/THE_ビッグ!)から翻訳されています。
 
 
-『**THE ビッグ\!**』（ザ・ビッグ）は、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）制作の[ビンゴ](../Page/ビンゴ.md "wikilink")を使った[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")&[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。
+『**THE ビッグ\!**』（ザ・ビッグ）は、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）制作の[ビンゴ](../Page/ビンゴ.md "wikilink")を使った[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")&[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。
 
 本項では、リニューアル後の『**THE ビッグチャンス**』および『**生クイズだよ\!日本全国THEビッグチャンス**』についても触れる。
 

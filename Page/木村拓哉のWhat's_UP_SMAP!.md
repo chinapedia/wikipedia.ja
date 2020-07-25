@@ -66,7 +66,7 @@
 
 開始当初は不明、1996年4月～1996年9月は[日本生命](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")、1996年10月～1997年3月は[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")、1999年4月～2001年9月は[ウィダーinゼリー](https://ja.wikipedia.org/wiki/ウィダーinゼリー "wikilink")の一社提供だった（木村が当時、ウィザーinゼリーのCMに出演していたタイミングによる。但し、ネット局のタイムテーブルには[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")の表記だった）。
 
-2001年10月～2002年3月まで、[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink")が一社提供したが、「[JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")」の一社スポンサーになったのに伴い本番組降板。同年4月～2007年3月の間はノンスポンサーとなる。
+2001年10月～2002年3月まで、[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink")が一社提供したが、「[JA全農 COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")」の一社スポンサーになったのに伴い本番組降板。同年4月～2007年3月の間はノンスポンサーとなる。
 
 そして2007年4月に[ニコン](../Page/ニコン.md "wikilink")と[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")が参入。その後[明治製菓](../Page/明治製菓.md "wikilink")もスポンサー参入するも、数ヶ月で降板。明治製菓スポンサー期間はビクターエンタテインメントの[提供クレジット](../Page/提供クレジット.md "wikilink")はされず、一時降板のという形を採っていた。
 

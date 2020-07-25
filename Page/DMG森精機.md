@@ -11,7 +11,7 @@
 
 ## 歴史
 
-[1948年](../Page/1948年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")23年）に[奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")で創業した。当初は繊維機械を製造していたものの、[1958年](../Page/1958年.md "wikilink")（昭和33年）に一転して工作機械製造の分野へと進出し、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）には数値制御式（NC）旋盤の製造を始めた。
+[1948年](../Page/1948年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")23年）に[奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")で創業した。当初は繊維機械を製造していたものの、[1958年](../Page/1958年.md "wikilink")（昭和33年）に一転して工作機械製造の分野へと進出し、[1968年](../Page/1968年.md "wikilink")（昭和43年）には数値制御式（NC）旋盤の製造を始めた。
 
 1990年代初頭には工作機械業界での発言力を強める狙いもあって同業の大阪機工（現・[OKK](../Page/OKK_\(企業\).md "wikilink")）の株式を買い占め、経営権を握ろうとしたことがあるが、激しい抵抗に遭ったため断念した。しかしながら[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）5月には、独創的な[CNC](https://ja.wikipedia.org/wiki/CNC "wikilink")立形[研削盤](https://ja.wikipedia.org/wiki/研削盤 "wikilink")で知られていた[太陽工機](../Page/太陽工機.md "wikilink")が傘下入りし、[2002年](../Page/2002年.md "wikilink")（平成14年）には経営の行き詰まった[日立精機](https://ja.wikipedia.org/wiki/日立精機 "wikilink")の事業を吸収するなど、積極的に事業の拡大を図っているほか、[2000年](../Page/2000年.md "wikilink")（平成12年）には[ツガミ](../Page/ツガミ.md "wikilink")の自動旋盤の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")における販売を受託する提携を行なっている。
 

@@ -34,7 +34,7 @@
     1月1日に、親会社のダイエーがイオンの完全子会社となったことに伴い、OPAもイオングループのストアブランドとなる。
     同年11月17日にイオンがグループ内の都市型ファッションビル・ディベロッパー事業の再編を行うことを発表。
   - [2016年](../Page/2016年.md "wikilink")
-    3月1日付で[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")内にある[ビブレ](../Page/ビブレ.md "wikilink")・[フォーラス](../Page/フォーラス.md "wikilink")事業部をOPAへ統合。[株式交換](../Page/株式交換.md "wikilink")により、ダイエーからイオングループの[イオンモール](../Page/イオンモール.md "wikilink")の完全子会社となった。また会社もダイエー本社が入居する[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽の東陽駅前ビルから千葉県に移動した](../Page/東陽_\(江東区\).md "wikilink")。
+    3月1日付で[イオンリテール](../Page/イオンリテール.md "wikilink")内にある[ビブレ](../Page/ビブレ.md "wikilink")・[フォーラス](../Page/フォーラス.md "wikilink")事業部をOPAへ統合。[株式交換](../Page/株式交換.md "wikilink")により、ダイエーからイオングループの[イオンモール](../Page/イオンモール.md "wikilink")の完全子会社となった。また会社もダイエー本社が入居する[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽の東陽駅前ビルから千葉県に移動した](../Page/東陽_\(江東区\).md "wikilink")。
     これにより、ダイエー系列の「OPA」（9店）・イオン系列の「フォーラス」（4店）・旧[マイカル](../Page/マイカル.md "wikilink")系列の「ビブレ」（8店）の3ブランドの運営会社が1社（一部店舗を除く\[2\]）に統合・集約された\[3\]\[4\]。統合当初よりフォーラス店舗については順次オーパに転換する方針としていたが\[5\]\[6\]\[7\]、2019年以降はビブレをOPAに転換するケースも見られるようになった。
   - [2017年](../Page/2017年.md "wikilink")
     [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - この日開業の「三宮オーパ2」より新ロゴを導入\[8\]。
@@ -163,7 +163,7 @@
 [Category:美浜区の企業](https://ja.wikipedia.org/wiki/Category:美浜区の企業 "wikilink") [Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:日本の商業施設](https://ja.wikipedia.org/wiki/Category:日本の商業施設 "wikilink") [Category:日本の商業施設運営会社](https://ja.wikipedia.org/wiki/Category:日本の商業施設運営会社 "wikilink") [Category:ダイエーの歴史](https://ja.wikipedia.org/wiki/Category:ダイエーの歴史 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:ビブレ](https://ja.wikipedia.org/wiki/Category:ビブレ "wikilink")
 
 1.  なお、2014年度内の親会社ダイエーのイオンによる子会社化が決定したと同時に、同社をイオングループにおける「ショッピングモールの中核ブランドにする」構想も明らかにした。
-2.  [イオンモール](../Page/イオンモール.md "wikilink")内に専門店として出店している「ビブレジーン」業態は引き続き[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")が運営している。ただしビブレジーン[レイクタウンのみOPAの運営に移管された](../Page/イオンレイクタウン.md "wikilink")。
+2.  [イオンモール](../Page/イオンモール.md "wikilink")内に専門店として出店している「ビブレジーン」業態は引き続き[イオンリテール](../Page/イオンリテール.md "wikilink")が運営している。ただしビブレジーン[レイクタウンのみOPAの運営に移管された](../Page/イオンレイクタウン.md "wikilink")。
 3.   - イオン株式会社 ニュースリリース 2015年11月17日
 4.   - イオンモール株式会社 ニュースリリース 2015年11月17日
 5.  [仙台フォーラス、12月16日リニューアルオープン－地下1階を「生活提案型」に](http://toshoken.com/news/8575)都市商業研究所(2016年12月21日)2016年12月28日閲覧。

@@ -69,7 +69,7 @@ Mi-2USの発展型。名称は「[無誘導ロケットによって](../Page/ロ
 
 ### ゲーム
 
-  - 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+  - 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
     [北朝鮮反乱軍の](../Page/朝鮮民主主義人民共和国.md "wikilink")[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")として、[S-5ロケット弾](https://ja.wikipedia.org/wiki/S-5ロケット弾 "wikilink")ポッドを搭載したMi-2URNが登場する。
       - 『[マーセナリーズ2 ワールド イン フレームス](../Page/マーセナリーズ2_ワールド_イン_フレームス.md "wikilink")』
         PS2版のみ登場。[海賊](../Page/海賊.md "wikilink")が使用。

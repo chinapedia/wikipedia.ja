@@ -21,7 +21,7 @@
 
 ## リイシュー
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")初CD化。[1993年](../Page/1993年.md "wikilink")の『[コンプリート・スタジオ・レコーディングス](../Page/コンプリート・スタジオ・レコーディングス.md "wikilink")』で全曲[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")化。[1994年](../Page/1994年.md "wikilink")単独リリース。[2014年](../Page/2014年.md "wikilink")、最新リマスター版が『I』、『[III](../Page/レッド・ツェッペリン_III.md "wikilink")』と同時にリリースされる。デラックス・エディションおよびスーパー・デラックス・エディション付属のコンパニオンディスクには、各曲のラフ・ミックス・バージョンやバッキング・トラックの他、未発表曲「ラ・ラ」が収録された。
+[1986年](../Page/1986年.md "wikilink")初CD化。[1993年](../Page/1993年.md "wikilink")の『[コンプリート・スタジオ・レコーディングス](../Page/コンプリート・スタジオ・レコーディングス.md "wikilink")』で全曲[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")化。[1994年](../Page/1994年.md "wikilink")単独リリース。[2014年](../Page/2014年.md "wikilink")、最新リマスター版が『I』、『[III](../Page/レッド・ツェッペリン_III.md "wikilink")』と同時にリリースされる。デラックス・エディションおよびスーパー・デラックス・エディション付属のコンパニオンディスクには、各曲のラフ・ミックス・バージョンやバッキング・トラックの他、未発表曲「ラ・ラ」が収録された。
 
 ## 収録曲
 
@@ -32,7 +32,7 @@
 <!-- end list -->
 
 1.  **[胸いっぱいの愛を](https://ja.wikipedia.org/wiki/胸いっぱいの愛を_\(レッド・ツェッペリンの曲\) "wikilink")** - *Whole Lotta Love* (Bonham, Jones, Page, Plant, Dixon)
-      - 本作およびバンドを代表する1曲。歌詞が[マディ・ウォーターズ](../Page/マディ・ウォーターズ.md "wikilink")のナンバー、「*You Need Love*」から流用されており、後に著作権問題で訴えられ\[10\]、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の発掘ライブアルバム『[BBCライヴ](https://ja.wikipedia.org/wiki/BBCライヴ_\(レッド・ツェッペリンのアルバム\) "wikilink")』以降はクレジットに作者の[ウィリー・ディクスン](../Page/ウィリー・ディクスン.md "wikilink")の名が加えられるようになった。
+      - 本作およびバンドを代表する1曲。歌詞が[マディ・ウォーターズ](../Page/マディ・ウォーターズ.md "wikilink")のナンバー、「*You Need Love*」から流用されており、後に著作権問題で訴えられ\[10\]、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の発掘ライブアルバム『[BBCライヴ](../Page/BBCライヴ_\(レッド・ツェッペリンのアルバム\).md "wikilink")』以降はクレジットに作者の[ウィリー・ディクスン](../Page/ウィリー・ディクスン.md "wikilink")の名が加えられるようになった。
 2.  **強き二人の愛** - *What is and What Should Never Be* (Page & Plant)
 3.  **レモン・ソング** - *The Lemon Song* (Bonham, Burnett, Jones, Page & Plant)
       - [ハウリン・ウルフ](../Page/ハウリン・ウルフ.md "wikilink")の「*Killing Floor*」に、[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")の「*Travelling Riverside Blues*」の歌詞が織り交ぜられている。後に[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")誌から勧められたハウリン・ウルフに抗議されたが和解、クレジットにウルフの名（本名のChester Burnett）が加えられるようになった\[11\]。

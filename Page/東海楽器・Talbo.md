@@ -300,7 +300,7 @@ SG（シルバー・グレー）</p></td>
 
   - 神田商会
 
-:\* [Z-Talbo](https://ja.wikipedia.org/wiki/Z-Talbo "wikilink") シリーズ
+:\* [Z-Talbo](../Page/Z-Talbo.md "wikilink") シリーズ
 
 :\*: Z-Talbo Jr.、ZT-2500 SSH
 

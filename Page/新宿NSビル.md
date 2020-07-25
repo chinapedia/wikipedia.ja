@@ -98,7 +98,7 @@
   - [タリーズコーヒー](../Page/タリーズコーヒー.md "wikilink")
   - [丸亀製麺](https://ja.wikipedia.org/wiki/丸亀製麺 "wikilink")
   - [CoCo壱番屋](../Page/壱番屋.md "wikilink")
-  - [すき家](https://ja.wikipedia.org/wiki/すき家 "wikilink")
+  - [すき家](../Page/すき家.md "wikilink")
   - 榊原記念クリニック ([榊原記念病院](https://ja.wikipedia.org/wiki/榊原記念病院 "wikilink")の分院)
   - アル バーチョ
 

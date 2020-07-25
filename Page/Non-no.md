@@ -131,7 +131,7 @@
   - [三根梓](https://ja.wikipedia.org/wiki/三根梓 "wikilink") - 2012年7月号 - 2014年11月号
   - [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink") - 2008年7/20号 - 2015年2月号
   - [波瑠](../Page/波瑠.md "wikilink") - 2012年6月号 - 2015年5月号 (表紙3回）
-  - [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") - 2012年3月号 - 2015年6月号 (表紙15回）
+  - [桐谷美玲](../Page/桐谷美玲.md "wikilink") - 2012年3月号 - 2015年6月号 (表紙15回）
   - [二村祥絵](https://ja.wikipedia.org/wiki/二村祥絵 "wikilink") - 2013年6月号 - 2015年6月号\[8\]
   - [竹富聖花](https://ja.wikipedia.org/wiki/竹富聖花 "wikilink") - 2013年6月号 - 2016年1月号
   - [上田眞央](https://ja.wikipedia.org/wiki/上田眞央 "wikilink") - 2011年3月号 - 2016年5月号
@@ -229,7 +229,7 @@
 | 2016年5月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                                                                                 | 2             |          |
 | 2016年6月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                                                                      | 15            |          |
 | 2016年7月号  | [本田翼](../Page/本田翼.md "wikilink")、[大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                                                                                  | 本田(16)、大政(8)  |          |
-| 2016年8月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                                                                                                                 | ★15(最終)       |          |
+| 2016年8月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                                                                                                                    | ★15(最終)       |          |
 | 2016年9月号  | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）                                                       | 2             |          |
 | 2016年10月号 | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                           | 新木(2)、新川(3)   |          |
 | 2016年11月号 | [本田翼](../Page/本田翼.md "wikilink")                                                                                                                                      | 17            |          |
@@ -237,20 +237,20 @@
 
 2015年
 
-| 号         | 表紙モデル                                                                                  | 表紙登場回数        | 備考       |
-| --------- | -------------------------------------------------------------------------------------- | ------------- | -------- |
-| 2015年1月号  | [本田翼](../Page/本田翼.md "wikilink")                                                       | 8             |          |
-| 2015年2月号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                  | ー             | ※専属モデル以外 |
-| 2015年3月号  | [本田翼](../Page/本田翼.md "wikilink")                                                       | 9             |          |
-| 2015年4月号  | [本田翼](../Page/本田翼.md "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") | 本田(10)、桐谷(12) |          |
-| 2015年5月号  | [本田翼](../Page/本田翼.md "wikilink")                                                       | 11            |          |
-| 2015年6月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                                  | 13            |          |
-| 2015年7月号  | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                                    | 6             |          |
-| 2015年8月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                  | ☆初            |          |
-| 2015年9月号  | [本田翼](../Page/本田翼.md "wikilink")                                                       | 12            |          |
-| 2015年10月号 | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                                  | 14            |          |
-| 2015年11月号 | [本田翼](../Page/本田翼.md "wikilink")                                                       | 13            |          |
-| 2015年12月号 | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                                    | 7             |          |
+| 号         | 表紙モデル                                                               | 表紙登場回数        | 備考       |
+| --------- | ------------------------------------------------------------------- | ------------- | -------- |
+| 2015年1月号  | [本田翼](../Page/本田翼.md "wikilink")                                    | 8             |          |
+| 2015年2月号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                               | ー             | ※専属モデル以外 |
+| 2015年3月号  | [本田翼](../Page/本田翼.md "wikilink")                                    | 9             |          |
+| 2015年4月号  | [本田翼](../Page/本田翼.md "wikilink")、[桐谷美玲](../Page/桐谷美玲.md "wikilink") | 本田(10)、桐谷(12) |          |
+| 2015年5月号  | [本田翼](../Page/本田翼.md "wikilink")                                    | 11            |          |
+| 2015年6月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                  | 13            |          |
+| 2015年7月号  | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                 | 6             |          |
+| 2015年8月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")               | ☆初            |          |
+| 2015年9月号  | [本田翼](../Page/本田翼.md "wikilink")                                    | 12            |          |
+| 2015年10月号 | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                  | 14            |          |
+| 2015年11月号 | [本田翼](../Page/本田翼.md "wikilink")                                    | 13            |          |
+| 2015年12月号 | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                 | 7             |          |
 
 2014年
 
@@ -258,16 +258,16 @@
 | --------- | ---------------------------------------------------------- | ------ | -------- |
 | 2014年1月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")    |        |          |
 | 2014年2月号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                      | ー      | ※専属モデル以外 |
-| 2014年3月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")      | 7      |          |
+| 2014年3月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                         | 7      |          |
 | 2014年4月号  | [本田翼](../Page/本田翼.md "wikilink")                           | 5      |          |
-| 2014年5月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")      | 8      |          |
+| 2014年5月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                         | 8      |          |
 | 2014年6月号  | [本田翼](../Page/本田翼.md "wikilink")                           | 6      |          |
-| 2014年7月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")      | 9      |          |
+| 2014年7月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                         | 9      |          |
 | 2014年8月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")    | ★?(最終) |          |
 | 2014年9月号  | [能年玲奈](https://ja.wikipedia.org/wiki/のん_\(女優\) "wikilink") | ー      | ※専属モデル以外 |
 | 2014年10月号 | [本田翼](../Page/本田翼.md "wikilink")                           | 7      |          |
-| 2014年11月号 | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")      | 10     |          |
-| 2014年12月号 | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")      | 11     |          |
+| 2014年11月号 | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                         | 10     |          |
+| 2014年12月号 | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                         | 11     |          |
 
 2013年
 
@@ -275,13 +275,13 @@
 | --------- | ---------------------------------------------------------------------------------- | ----------- | -------- |
 | 2013年1月号  | [佐藤ありさ](../Page/佐藤ありさ.md "wikilink")                                               | 6           |          |
 | 2013年2月号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                              | ー           | ※専属モデル以外 |
-| 2013年3月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                              | 5           |          |
+| 2013年3月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                                 | 5           |          |
 | 2013年4月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")                            |             |          |
 | 2013年5月号  | [本田翼](../Page/本田翼.md "wikilink")                                                   | 3           |          |
 | 2013年6月号  | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                                | 4           |          |
 | 2013年7月号  | [佐藤ありさ](../Page/佐藤ありさ.md "wikilink")                                               | ★7(最終)      |          |
 | 2013年8月号  | [剛力彩芽](https://ja.wikipedia.org/wiki/剛力彩芽 "wikilink")                              | ー           | ※専属モデル以外 |
-| 2013年9月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                              | 6           |          |
+| 2013年9月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                                 | 6           |          |
 | 2013年10月号 | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")、[波瑠](../Page/波瑠.md "wikilink") | 大政(5)、波瑠(2) |          |
 | 2013年11月号 | [本田翼](../Page/本田翼.md "wikilink")                                                   | 4           |          |
 | 2013年12月号 | [波瑠](../Page/波瑠.md "wikilink")                                                     | ★3(最終)      |          |
@@ -292,15 +292,15 @@
 | --------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------ | -------- |
 | 2012年1月号  | [榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")                                                                   | ー                  | ※専属モデル以外 |
 | 2012年2月号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                   | ー                  | ※専属モデル以外 |
-| 2012年3月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                                                                   | ☆初                 |          |
-| 2012年4月号  | [佐藤ありさ](../Page/佐藤ありさ.md "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                              | 佐藤(4)、桐谷(2)        |          |
-| 2012年5月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")           | 岸本(?)、桐谷(3)        |          |
+| 2012年3月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                                                                      | ☆初                 |          |
+| 2012年4月号  | [佐藤ありさ](../Page/佐藤ありさ.md "wikilink")、[桐谷美玲](../Page/桐谷美玲.md "wikilink")                                                 | 佐藤(4)、桐谷(2)        |          |
+| 2012年5月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")、[桐谷美玲](../Page/桐谷美玲.md "wikilink")                              | 岸本(?)、桐谷(3)        |          |
 | 2012年6月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                        | ☆初                 |          |
 | 2012年7月号  | [佐々木希](https://ja.wikipedia.org/wiki/佐々木希 "wikilink")                                                                   | ★9(最終)             |          |
 | 2012年8月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink")                                                                 |                    |          |
 | 2012年9月号  | [佐藤ありさ](../Page/佐藤ありさ.md "wikilink")、[大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")、[波瑠](../Page/波瑠.md "wikilink") | 佐藤(5)、大政(2)、☆波瑠(初) |          |
 | 2012年10月号 | [本田翼](../Page/本田翼.md "wikilink")                                                                                        | 2                  |          |
-| 2012年11月号 | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")                                                                   | 4                  |          |
+| 2012年11月号 | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                                                                                      | 4                  |          |
 | 2012年12月号 | [大政絢](https://ja.wikipedia.org/wiki/大政絢 "wikilink")                                                                     | 3                  |          |
 
 2011年

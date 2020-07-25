@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[1996年](../Page/1996年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に、[アスキー](../Page/アスキー_\(企業\).md "wikilink")（後の[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、現KADOKAWA）の[CD-ROM](../Page/CD-ROM.md "wikilink")マガジン『[TECH Win](https://ja.wikipedia.org/wiki/TECH_Win "wikilink")』のアダルトゲーム版として関連会社の[アスペクトより創刊](../Page/アスペクト_\(企業\).md "wikilink")。
+[1996年](../Page/1996年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に、[アスキー](../Page/アスキー_\(企業\).md "wikilink")（後の[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、現KADOKAWA）の[CD-ROM](../Page/CD-ROM.md "wikilink")マガジン『[TECH Win](https://ja.wikipedia.org/wiki/TECH_Win "wikilink")』のアダルトゲーム版として関連会社の[アスペクトより創刊](../Page/アスペクト_\(企業\).md "wikilink")。
 
 表紙は創刊号（1996年11月号）を[うたたねひろゆき](../Page/うたたねひろゆき.md "wikilink")、2号（1996年12月号）を[相沢早苗が担当した後](https://ja.wikipedia.org/wiki/相沢早苗_\(漫画家\) "wikilink")、3号（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月号）から2019年7月号までの間は[にしき義統](https://ja.wikipedia.org/wiki/にしき義統 "wikilink")が担当した\[2\]。[2005年](../Page/2005年.md "wikilink")2月号で通巻100号を達成し、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")で1日限定の記念イベントが開かれた。
 

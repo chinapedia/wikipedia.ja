@@ -342,7 +342,7 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2008年3月19日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/雅-THIS_IZ_THE_JAPANESE_KABUKI_ROCK-" title="wikilink">雅-THIS IZ THE JAPANESE KABUKI ROCK-</a></strong></p></td>
+<td><p><strong><a href="../Page/雅-THIS_IZ_THE_JAPANESE_KABUKI_ROCK-.md" title="wikilink">雅-THIS IZ THE JAPANESE KABUKI ROCK-</a></strong></p></td>
 <td><p>25位</p></td>
 </tr>
 <tr class="odd">

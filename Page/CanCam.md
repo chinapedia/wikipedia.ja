@@ -601,7 +601,7 @@
 </tr>
 <tr class="even">
 <td><p>2012年10月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミランダ・カー" title="wikilink">ミランダ・カー</a></p></td>
+<td><p><a href="../Page/ミランダ・カー.md" title="wikilink">ミランダ・カー</a></p></td>
 <td></td>
 <td></td>
 </tr>

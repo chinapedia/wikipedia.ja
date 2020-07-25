@@ -51,7 +51,7 @@ Yak-7は当初、[Yak-1を改修したUTI](../Page/Yak-1_\(航空機\).md "wikil
   - 翼面積：17.15 m<sup>2</sup>
   - 空虚重量：2450 kg
   - 最大離陸重量：2935 kg
-  - 発動機：[クリーモフ設計局製](https://ja.wikipedia.org/wiki/クリーモフ_\(企業\) "wikilink") [M-105PA](https://ja.wikipedia.org/wiki/クリーモフ_M-105 "wikilink") [液冷式](../Page/液冷エンジン.md "wikilink")[エンジン](../Page/エンジン.md "wikilink") ×1
+  - 発動機：[クリーモフ設計局製](../Page/クリーモフ_\(企業\).md "wikilink") [M-105PA](https://ja.wikipedia.org/wiki/クリーモフ_M-105 "wikilink") [液冷式](../Page/液冷エンジン.md "wikilink")[エンジン](../Page/エンジン.md "wikilink") ×1
   - 出力：1050 [馬力](../Page/馬力.md "wikilink")
   - 最高速度(地表高度)：495 km/h
   - 最高速度：571 km/h

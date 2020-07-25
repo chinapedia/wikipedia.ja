@@ -17,7 +17,7 @@ IBMのカスタム化は任天堂の仕様を上回る性能となった。Gekko
   - [PowerPC 750CXe](https://ja.wikipedia.org/wiki/:en:PowerPC_7xx#PowerPC_750CXe "wikilink") コア (GameCube用にカスタマイズ)
   - 486MHz
   - [32ビット](../Page/32ビット.md "wikilink") [整数ユニット](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")
-  - [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") または SIMD 32 bit x 2 として使用可能な 浮動小数点ユニット
+  - [64ビット](../Page/64ビット.md "wikilink") または SIMD 32 bit x 2 として使用可能な 浮動小数点ユニット
   - PowerPC 750 + 約50の[3D グラフィック用](../Page/3次元コンピュータグラフィックス.md "wikilink")[SIMD](../Page/SIMD.md "wikilink")命令
   - 64 bitの拡張された[60x bus](https://ja.wikipedia.org/wiki/:en:PowerPC_600#60x_bus "wikilink") ([チップセット](../Page/チップセット.md "wikilink")/[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink") 162 MHz、1.3GB/s）
   - 64 KB 8-way L1 [キャッシュ](../Page/キャッシュ.md "wikilink")（命令 32 KB + データ 32KB）

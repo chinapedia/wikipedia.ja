@@ -171,7 +171,7 @@
   - 原作 - [藤原としひろ](https://ja.wikipedia.org/wiki/藤原としひろ "wikilink")、[江鳥告](https://ja.wikipedia.org/wiki/江鳥告 "wikilink")（[講談社](../Page/講談社.md "wikilink")刊『[月刊コミックボンボン](../Page/コミックボンボン.md "wikilink")』連載）
   - 監督 - [浜名孝行](../Page/浜名孝行.md "wikilink")
   - シリーズ構成 - [志茂文彦](../Page/志茂文彦.md "wikilink")
-  - キャラクターデザイン・総作画監督 - [谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")
+  - キャラクターデザイン・総作画監督 - [谷津美弥子](../Page/谷津美弥子.md "wikilink")
   - 美術監督 - 鈴木聡、いそぶちちか
   - 色彩設計 - 赤間美佐子
   - CG監督 - 水谷英二
@@ -234,7 +234,7 @@
 <td><p>これがMTBバトルだ!</p></td>
 <td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
 <td><p><a href="../Page/浜名孝行.md" title="wikilink">浜名孝行</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷津美弥子" title="wikilink">谷津美弥子</a></p></td>
+<td><p><a href="../Page/谷津美弥子.md" title="wikilink">谷津美弥子</a></p></td>
 <td><p><strong>2005年</strong><br />
 10月1日</p></td>
 <td></td>

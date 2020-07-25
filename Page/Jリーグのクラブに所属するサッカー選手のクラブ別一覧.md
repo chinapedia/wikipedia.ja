@@ -79,7 +79,7 @@
 
 ## 中国
 
-  - [ガイナーレ鳥取の選手一覧](https://ja.wikipedia.org/wiki/ガイナーレ鳥取の選手一覧 "wikilink")
+  - [ガイナーレ鳥取の選手一覧](../Page/ガイナーレ鳥取の選手一覧.md "wikilink")
   - [ファジアーノ岡山FCの選手一覧](https://ja.wikipedia.org/wiki/ファジアーノ岡山FCの選手一覧 "wikilink")
 
 <!-- end list -->

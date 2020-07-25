@@ -34,7 +34,7 @@
   - リズム天国シリーズ - ｢はたらくまんじゅう｣に登場。一部のモードでは名前の記載も確認できる。
       - [みんなのリズム天国](https://ja.wikipedia.org/wiki/みんなのリズム天国 "wikilink")（[2011年](../Page/2011年.md "wikilink")）
       - [リズム天国 ザ・ベスト+](https://ja.wikipedia.org/wiki/リズム天国_ザ・ベスト+ "wikilink")（[2015年](../Page/2015年.md "wikilink")）
-  - [スーパーマリオシリーズ](https://ja.wikipedia.org/wiki/スーパーマリオシリーズ "wikilink")
+  - [スーパーマリオシリーズ](../Page/スーパーマリオシリーズ.md "wikilink")
       - [スーパーマリオメーカー](https://ja.wikipedia.org/wiki/スーパーマリオメーカー "wikilink")（[2015年](../Page/2015年.md "wikilink")）
       - [スーパーマリオオデッセイ](https://ja.wikipedia.org/wiki/スーパーマリオオデッセイ "wikilink")（[2017年](../Page/2017年.md "wikilink")）
   - その他

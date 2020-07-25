@@ -611,7 +611,7 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
   - [私の日本語辞典](https://ja.wikipedia.org/wiki/私の日本語辞典 "wikilink")（土曜 21:00 - 21:40、再放送：翌週土曜 13:20 - 14:00）
   - [古典講読](https://ja.wikipedia.org/wiki/古典講読 "wikilink")（土曜 17:00 - 17:45、日曜 6:00 - 6:45）
   - [こころをよむ](https://ja.wikipedia.org/wiki/こころをよむ "wikilink")（日曜 6:45 - 7:25、再放送：13:20 - 14:00）
-  - [文化講演会](https://ja.wikipedia.org/wiki/文化講演会 "wikilink")（日曜 21:00 - 22:00）　
+  - [文化講演会](../Page/文化講演会.md "wikilink")（日曜 21:00 - 22:00）　
   - [朗読](../Page/朗読_\(ラジオ番組\).md "wikilink")（月曜 - 金曜 9:45 - 10:00、再放送：土曜 21:45 - 23:00）
   - [ことば力アップ](https://ja.wikipedia.org/wiki/ことば力アップ "wikilink")（土曜 10:45 - 11:00・16:45 - 17:00・21:40 - 21:55）
   - [宗教の時間](../Page/宗教の時間_\(NHKラジオ\).md "wikilink")（日曜 8:30 - 9:00、再放送：18:30 - 19:00）

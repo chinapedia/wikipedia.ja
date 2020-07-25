@@ -20,7 +20,7 @@
       - 『HIP POP』 - HIP HOPをメインとした番組([奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ "wikilink")との共同制作)
       - 『情報IN』 - 『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』放送終了後に放送されてた「SUNDAY BLUES LIVE」の模様を紹介した番組。([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")との共同制作)
       - 『Future Paradise』 - [KISS-FM KOBEで土曜日の午後に放送されてたラジオ番組](https://ja.wikipedia.org/wiki/KISS-FM_KOBE "wikilink")。初代サウンドクルーは永井"ホトケ"隆。二代目サウンドクルーが椎名祐海。三代目サウンドクルーは[WAG](../Page/WAG.md "wikilink")。永井"ホトケ"隆がサウンドクルーを担当した時は、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")（[B'z](../Page/B'z.md "wikilink")）や[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")がゲストに出演していた。
-      - 『PASTIME PARADISE』 - [α-stationで放送されていたラジオ番組](../Page/エフエム京都.md "wikilink")。初代DJはQuncho\~。1994年10月放送開始から半年間は金曜日の24：30からの30分番組。1995年4月から土曜日18：00からの60分番組になる。Quncho\~時代はマンスリーゲスト制で稲葉浩志や大黒摩季らがゲスト出演していた。[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")もゲスト予定だったが、取りやめになっている。二代目DJはSTORMYの立原燎。三代目DJは[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")が担当。
+      - 『PASTIME PARADISE』 - [α-stationで放送されていたラジオ番組](../Page/エフエム京都.md "wikilink")。初代DJはQuncho\~。1994年10月放送開始から半年間は金曜日の24：30からの30分番組。1995年4月から土曜日18：00からの60分番組になる。Quncho\~時代はマンスリーゲスト制で稲葉浩志や大黒摩季らがゲスト出演していた。[ZARD](../Page/ZARD.md "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")もゲスト予定だったが、取りやめになっている。二代目DJはSTORMYの立原燎。三代目DJは[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")が担当。
       - 『HEAVEN's RADIO』→『VIVA\!WEST』 - 1995年秋放送開始。[FM OH\!で夕方に放送されてたJ](../Page/エフエム大阪.md "wikilink")-POP番組『Jay-Land SHUFFLE』に内包されてた5分番組。
       - 『大阪 BLUES SPIRITS』 - 1996年春放送開始の[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で日曜深夜に放送されてた永井"ホトケ"隆がDJの番組。
       - 『週刊J-ROCK MATE』 - 1998年秋に[ラジオ関西](../Page/ラジオ関西.md "wikilink")で木曜深夜に放送されてた2時間番組。『J-ROCK magazine』と連携した番組で、編集長を務めてた斉田才がDJを務めた。
@@ -64,7 +64,7 @@
 
 ## BEST10入りしたARTIST（1位獲得ARTISTを除く）
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [奥田民生](../Page/奥田民生.md "wikilink")
   - [DEEN](../Page/DEEN.md "wikilink")
   - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
@@ -98,7 +98,7 @@
 
   - L'Arc〜en〜Ciel「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
   - B'z 「[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")」
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink") 「[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")」
+  - [ZARD](../Page/ZARD.md "wikilink") 「[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")」
   - [Barbier](https://ja.wikipedia.org/wiki/Barbier "wikilink") with [IZUMI SAKAI](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")「[クリスマスタイム](https://ja.wikipedia.org/wiki/クリスマスタイム "wikilink")」
   - [BA-JI](https://ja.wikipedia.org/wiki/BA-JI "wikilink") 「遊びに行こうよ」
   - Barbier 「LOVE」

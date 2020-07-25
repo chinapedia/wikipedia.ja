@@ -84,7 +84,7 @@
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）12月 - 日本鋼管不動産株式会社を設立。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年）2月 - 福山製鉄所発足。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）1月 -　[日本ブラストマシン](https://ja.wikipedia.org/wiki/日本ブラストマシン "wikilink")株式会社（現・[JFEプラントエンジ](../Page/JFEプラントエンジ.md "wikilink")）に資本参加。　
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）4月 - 川崎製鉄所・鶴見製鉄所・水江製鉄所を統合し京浜製鉄所発足。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）4月 - 川崎製鉄所・鶴見製鉄所・水江製鉄所を統合し京浜製鉄所発足。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）1月 - 津造船所発足。
   - [1974年](../Page/1974年.md "wikilink")（昭和49年） - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に、日本鋼管本社ビル竣工（2007年に解体され、現在は[三井住友銀行本店ビルディング](https://ja.wikipedia.org/wiki/三井住友銀行本店ビルディング "wikilink")）。
   - [1976年](../Page/1976年.md "wikilink")（昭和51年）11月、京浜製鉄所の[埋め立て地](https://ja.wikipedia.org/wiki/埋め立て地 "wikilink")・[扇島](https://ja.wikipedia.org/wiki/扇島 "wikilink")に第1[高炉](https://ja.wikipedia.org/wiki/高炉 "wikilink")が火入れされて、新製鉄施設群がスタート。

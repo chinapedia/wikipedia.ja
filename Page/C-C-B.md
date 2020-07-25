@@ -14,7 +14,7 @@
   - [1982年](../Page/1982年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")57年）、青山に上野義美が開局したミニFM局「KIDS RADIO STATION」（通称:KIDS）が、夏をイメージさせる新生バンドを、数組結成させ競わせるプロジェクトに、渡辺・笠・関口を含む5人がバンドを組み参加。その中の一つとして、[グループ・サウンズ](../Page/グループ・サウンズ.md "wikilink")の再来を思わせる「和製[ビーチボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")」をコンセプトにメンバーが集められ、『**Coconut Boys**』結成。しかし、実はメンバー全員、それまでビーチボーイズの音楽を耳にしたことはあれど造詣が深いわけではなく、バンド名や音楽性などメンバーの趣味嗜好は反映されなかった。結成当初は5人（後にまで在籍したメンバーは渡辺、笠、関口。田口と米川は1984年に加入）で活動。
     同年、KIDS自主制作の企画カセットテープ『RASPBERRY AVENUE』に参加してマイナーデビュー（後述[ディスコグラフィー項参照](https://ja.wikipedia.org/wiki/C-C-B#ディスコグラフィー "wikilink")）。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）、シングル『Candy』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。全農ヨープレイトのCM曲に起用されるがヒットには至らなかった。
-  - [1984年](../Page/1984年.md "wikilink")（昭和59年）、初期メンバーの山下と山本が脱退し、田口、米川が新メンバーとして加入。セカンドシングル『瞳少女』が[ロート製薬](../Page/ロート製薬.md "wikilink")「[なみだロート](../Page/ロート製薬の製品.md "wikilink")」のCM曲に、両A面の『チリドッグがお気に入り』が[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")「[ファミリア](../Page/マツダ・ファミリア.md "wikilink")」のCM曲に起用される\[1\]。
+  - [1984年](../Page/1984年.md "wikilink")（昭和59年）、初期メンバーの山下と山本が脱退し、田口、米川が新メンバーとして加入。セカンドシングル『瞳少女』が[ロート製薬](../Page/ロート製薬.md "wikilink")「[なみだロート](../Page/ロート製薬の製品.md "wikilink")」のCM曲に、両A面の『チリドッグがお気に入り』が[マツダ](../Page/マツダ.md "wikilink")「[ファミリア](../Page/マツダ・ファミリア.md "wikilink")」のCM曲に起用される\[1\]。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）、バンド名を**C-C-B**に変更（関口はC-N-Bを提案したが、渡辺が「読みやすいしゴロも良い」とC-C-Bに決めた。当時、ファンクラブ「May Club」会報には「C・Boys」との呼称表記もみられる）。
   - 起死回生をかけた3枚目のシングル『[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")』が[TBSテレビ](../Page/TBSテレビ.md "wikilink")で連続ドラマ『[毎度おさわがせします](../Page/毎度おさわがせします.md "wikilink")』（1985年1月8日放送開始）オープニングテーマ曲に起用される。同年1月25日リリース。同年2月21日、『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』の“今週のスポットライト”に出演。そのカラフルな髪色や当時は珍しかった[電子ドラム](https://ja.wikipedia.org/wiki/電子ドラム "wikilink")のシモンズを叩きながらドラマーがリードボーカルをとるスタイルも話題となり、一躍ブレイク。以降は、[松本隆](../Page/松本隆.md "wikilink")・[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")コンビによる[ポップスで次々とヒットを飛ばした](../Page/ポピュラー音楽.md "wikilink")。
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）、[第15回東京音楽祭](https://ja.wikipedia.org/wiki/第15回東京音楽祭 "wikilink")に出場。シングルの『元気なブロークンハート』発売を期に、全員髪の毛をナチュラルな黒にした。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）、[第15回東京音楽祭](https://ja.wikipedia.org/wiki/第15回東京音楽祭 "wikilink")に出場。シングルの『元気なブロークンハート』発売を期に、全員髪の毛をナチュラルな黒にした。
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - [2015年](../Page/2015年.md "wikilink")1月21日、過去に発表した[オリジナルアルバム](https://ja.wikipedia.org/wiki/C-C-B#オリジナルアルバム "wikilink")9枚が、[SHM-CDで](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")[ユニバーサルミュージックより再発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（1994年に発売された“Plus版”に収録されたようなボーナストラックは収録されておらず、本来のオリジナルアルバムと同じ内容である）\[8\]。
+  - [2015年](../Page/2015年.md "wikilink")1月21日、過去に発表した[オリジナルアルバム](https://ja.wikipedia.org/wiki/C-C-B#オリジナルアルバム "wikilink")9枚が、[SHM-CDで](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")[ユニバーサルミュージックより再発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（1994年に発売された“Plus版”に収録されたようなボーナストラックは収録されておらず、本来のオリジナルアルバムと同じ内容である）\[8\]。
   - 2015年1月30日、明後日2月1日の渡辺のバースデーライブ『「ゴーゴーヒデキ」前夜祭』として、**C-C-B名義でのワンマンライブ**が行われた。解散時の4人が同列に名を連ね、 “C-C-B”として観客を前に演奏を披露したのは、1989年10月9日の解散コンサート以来である。
       - 2月1日、『AJ-米田渡-×WY×C-C-B「ゴーゴーヒデキ」』において、2015年6月に『**C-C-B TOUR 2015 「Welcome to the C-C-B SHOW」 〜昔の名前で出ています〜**』と銘打ったC-C-B名義でのライブツアーを行う旨を発表した（2015年6月14日・ 熊本 DRUM Be-9 V1、19日・名古屋THE BOTTOM LINE、21日・神戸CHICKEN GEORGE、23日・[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")）。
       - 6月12日夜、渡辺が自宅で体調を崩し（吐き気などを訴え）救急搬送された。搬送先の病院で[大動脈解離](../Page/大動脈解離.md "wikilink")と診断され緊急手術を受け、入院。6月14日から予定していたワンマンライブツアー全公演を中止とした\[9\]。
@@ -156,7 +156,7 @@
 
 :\*結成当初からのメンバーであったが、1987年1月の[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")3Day's公演最終日に脱退を表明。脱退直前よりソロ活動を展開。シンガーソングライターを主軸とするかたわら、[俳優](../Page/俳優.md "wikilink")や[小説](../Page/小説.md "wikilink")執筆、ラジオパーソナリティなどに挑戦した。
 
-:\*初期は髪を緑色に染めていた。黒髪に戻してからは髪を伸ばして後ろで束ねたり、カーリーヘアにしていた。2008年に再結成した際は、当時のイメージを再現するため緑色の[カツラを着用した](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")（2009年まで）。
+:\*初期は髪を緑色に染めていた。黒髪に戻してからは髪を伸ばして後ろで束ねたり、カーリーヘアにしていた。2008年に再結成した際は、当時のイメージを再現するため緑色の[カツラを着用した](../Page/かつら_\(装身具\).md "wikilink")（2009年まで）。
 
 :\*AJ-米田渡-及び2015年以降のC-C-B名義の活動には参加せず、ソロ活動を行っている。
 
@@ -175,7 +175,7 @@
 2.  **[瞳少女](../Page/瞳少女.md "wikilink")** （1984年7月25日）
 3.  **[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")** （1985年1月25日）
 4.  **[スクール・ガール](../Page/スクール・ガール.md "wikilink")** （1985年4月25日）
-5.  **[Lucky Chanceをもう一度](https://ja.wikipedia.org/wiki/Lucky_Chanceをもう一度 "wikilink")** （1985年8月21日）
+5.  **[Lucky Chanceをもう一度](../Page/Lucky_Chanceをもう一度.md "wikilink")** （1985年8月21日）
 6.  **[空想Kiss](../Page/空想Kiss.md "wikilink")** （1985年11月27日）
 7.  **[元気なブロークン・ハート](../Page/元気なブロークン・ハート.md "wikilink")** （1986年4月9日）
 8.  **[不自然な君が好き](../Page/不自然な君が好き.md "wikilink")** （1986年8月27日）
@@ -190,7 +190,7 @@
 
 ### 12インチシングル
 
-  - **[Lucky Chanceをもう一度-Lucky-Mix](https://ja.wikipedia.org/wiki/Lucky_Chanceをもう一度 "wikilink")** （1985年10月1日）
+  - **[Lucky Chanceをもう一度-Lucky-Mix](../Page/Lucky_Chanceをもう一度.md "wikilink")** （1985年10月1日）
   - **[元気なブロークンハート](https://ja.wikipedia.org/wiki/元気なブロークンハート "wikilink")-Broken-Mix** （1986年5月10日）
   - **[ないものねだりのI Want You-ゼイ肉-Mix](https://ja.wikipedia.org/wiki/ないものねだりのI_Want_You "wikilink")** （1987年2月1日）
 
@@ -202,7 +202,7 @@
 
 <!-- end list -->
 
-1.  **[Mild Weekend](https://ja.wikipedia.org/wiki/Mild_Weekend "wikilink")** （1983年6月25日）
+1.  **[Mild Weekend](../Page/Mild_Weekend.md "wikilink")** （1983年6月25日）
 2.  **[Boy's Life](https://ja.wikipedia.org/wiki/Boy's_Life_\(アルバム\) "wikilink")** （1984年8月25日）
 3.  **[すてきなビート](https://ja.wikipedia.org/wiki/すてきなビート "wikilink")** （1985年5月25日）
 4.  **[僕たちNo-No-No](https://ja.wikipedia.org/wiki/僕たちNo-No-No "wikilink")** （1985年12月15日）
@@ -313,7 +313,7 @@
 
 ### バラエティー等
 
-  - C-C-Bのファーストドリーム（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")、TBS） - お正月特番。歌ありコントありのバラエティー番組\[37\]。
+  - C-C-Bのファーストドリーム（[1986年](../Page/1986年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")、TBS） - お正月特番。歌ありコントありのバラエティー番組\[37\]。
   - [レッツ・ラ・ゴー\!](../Page/レッツ・ラ・ゴー!.md "wikilink")（1986年[1月9日](../Page/1月9日.md "wikilink") - [3月20日](../Page/3月20日.md "wikilink")、TBS） - 「COCONUT倶楽部」コーナーを担当。視聴者からの質問に答えるなどトーク主体。コーナー内で必ず一曲は演奏を披露した。
   - [MTV](../Page/MTVジャパン.md "wikilink") Music Television（1986年、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")） - 邦楽PVを紹介するコーナーを担当。
 
@@ -342,7 +342,7 @@
 
 <!-- end list -->
 
-  - [ライオン サウンドNo.17・Let it C-C-B](https://ja.wikipedia.org/wiki/ライオン_サウンドNo.17・Let_it_C-C-B "wikilink") （1988年10月16日 - 1989年10月8日、[文化放送](../Page/文化放送.md "wikilink")） - 解散前日まで放送。最後のラジオ番組。
+  - [ライオン サウンドNo.17・Let it C-C-B](../Page/ライオン_サウンドNo.17・Let_it_C-C-B.md "wikilink") （1988年10月16日 - 1989年10月8日、[文化放送](../Page/文化放送.md "wikilink")） - 解散前日まで放送。最後のラジオ番組。
   - [ABCラジオファンキーズ](../Page/ABCラジオファンキーズ.md "wikilink") （1987年10月 - 1988年9月、[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")） - 火曜日担当。渡辺が一人で大阪に出向いて生放送を行っていた。共演は[熊谷ニーナ](../Page/熊谷ニーナ.md "wikilink")、[岡けんた・ゆうた](../Page/おかけんた・ゆうた.md "wikilink")\[38\]
   - [ど〜んとラジオ\!\!ぼくらの元気は夢現代∞](../Page/ど〜んとラジオ!!ぼくらの元気は夢現代∞.md "wikilink") （1988年 - 1989年、[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")） - 月に一回程度（不定期）の出演。田口と米川の二人で出演し、音楽や趣味について多く語っていた。前身の番組[TOKYOパニックごっくんNITE](../Page/TOKYOパニックごっくんNITE.md "wikilink")でもパーソナリティーを務めている。
 

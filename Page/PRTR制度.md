@@ -41,7 +41,7 @@ PRTR法が対象とする物質は、詳細な[リスク評価](https://ja.wikip
   - [特定有害廃棄物等の輸出入等の規制に関する法律](../Page/特定有害廃棄物等の輸出入等の規制に関する法律.md "wikilink")
   - [有害物質を含有する家庭用品の規制に関する法律](https://ja.wikipedia.org/wiki/有害物質を含有する家庭用品の規制に関する法律 "wikilink")
   - [オーフス条約](../Page/オーフス条約.md "wikilink")
-  - [有害化学物質排出目録制度](https://ja.wikipedia.org/wiki/有害化学物質排出目録制度 "wikilink")
+  - [有害化学物質排出目録制度](../Page/有害化学物質排出目録制度.md "wikilink")
 
 ## 外部リンク
 

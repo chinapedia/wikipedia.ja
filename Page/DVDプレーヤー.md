@@ -79,7 +79,7 @@ BDプレーヤーの普及に伴い、DVD専用機の生産は縮小している
   - [DVD-Video](../Page/DVD-Video.md "wikilink")
   - [DVDレコーダー](../Page/DVDレコーダー.md "wikilink")
   - [BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")
-  - [BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")
+  - [BDプレーヤー](../Page/BDプレーヤー.md "wikilink")
   - [ユニバーサルプレーヤー](../Page/ユニバーサルプレーヤー.md "wikilink")
   - [光学ドライブ](../Page/光学ドライブ.md "wikilink")
   - [レンズクリーナー](https://ja.wikipedia.org/wiki/レンズクリーナー "wikilink")

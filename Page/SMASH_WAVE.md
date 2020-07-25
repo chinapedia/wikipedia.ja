@@ -17,7 +17,7 @@
   - EIJI[食堂](../Page/食堂.md "wikilink")（リスナーと電話をつないで簡単[料理](../Page/料理.md "wikilink")を教えてもらう）⇒新番組Hyper Night Program GOW\!\!にて「食堂GOW\!\!」として継続
   - エイジズ・チョイス（EIJIが毎日お薦めの曲を紹介）⇒新番組Hyper Night Program GOW\!\!にて「DJ'sチョイス」として継続
   - TODAY'S GUEST（[プロモーションで来福する](../Page/宣伝.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")ゲストが主に登場。ゲストがいない場合はリスナーと電話をつないでトーク）⇒新番組Hyper Night Program GOW\!\!にて継続
-  - [ラジオ劇団『小さな奇跡』](https://ja.wikipedia.org/wiki/ラジオ劇団『小さな奇跡』 "wikilink")（[TOKYO FM製作](../Page/エフエム東京.md "wikilink")）
+  - [ラジオ劇団『小さな奇跡』](../Page/ラジオ劇団『小さな奇跡』.md "wikilink")（[TOKYO FM製作](../Page/エフエム東京.md "wikilink")）
   - 相談\!パラダイス（リスナーの悩みや疑問に答えるコーナー）
   - DJ・EIJIのファイトコール
   - ラストソングリクエスト

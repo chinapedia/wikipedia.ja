@@ -282,7 +282,7 @@ POCS-1029:通常盤</p></td>
 <ol>
 <li>HARMONY / Tahiti80</li>
 <li>Birds / <a href="../Page/空気公団.md" title="wikilink">空気公団</a></li>
-<li>Kindly / <a href="https://ja.wikipedia.org/wiki/羊毛とおはな" title="wikilink">羊毛とおはな</a></li>
+<li>Kindly / <a href="../Page/羊毛とおはな.md" title="wikilink">羊毛とおはな</a></li>
 <li>Trees / <a href="../Page/MONKEY_MAJIK.md" title="wikilink">MONKEY MAJIK</a></li>
 <li>You and Me / <a href="../Page/キセル_(バンド).md" title="wikilink">キセル</a></li>
 <li>Stars / <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>

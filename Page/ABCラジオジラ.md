@@ -1,7 +1,7 @@
 > この記事は[ABCラジオジラ](https://ja.wikipedia.org/wiki/ABCラジオジラ)から翻訳されています。
 
 
-『**ABCラジオジラ**』（エービーシーラジオジラ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")まで、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABC）で放送された若者向け[深夜ラジオ番組である](../Page/深夜放送.md "wikilink")。
+『**ABCラジオジラ**』（エービーシーラジオジラ）は、[1986年](../Page/1986年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")まで、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABC）で放送された若者向け[深夜ラジオ番組である](../Page/深夜放送.md "wikilink")。
 
 ## 概要
 

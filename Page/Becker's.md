@@ -17,7 +17,7 @@
 
 ## 沿革
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）
+  - [1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - [ロイヤルホスト](../Page/ロイヤルホスト.md "wikilink")を展開する[ロイヤルの副社長の](../Page/ロイヤルホールディングス.md "wikilink")[井上恵次](https://ja.wikipedia.org/wiki/井上恵次 "wikilink")が、ファストフードショップ業態のチェーン店を展開のため、**ベッカーズ株式会社**を創設。
       - [11月](../Page/11月.md "wikilink") - 東京都新宿区[西新宿](../Page/西新宿.md "wikilink")の[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")、「[新宿三井ビルディング](../Page/新宿三井ビルディング.md "wikilink")」に1号店をオープン。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）[5月16日](../Page/5月16日.md "wikilink") - ベッカーズが、**ジェイアール東日本レストラン**に[買収され](https://ja.wikipedia.org/wiki/企業買収 "wikilink")**株式会社ジェイ・ビー**に社名変更。

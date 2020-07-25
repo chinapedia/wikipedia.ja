@@ -5,7 +5,7 @@
 
 [2004年](../Page/2004年.md "wikilink")、AVメーカー[V\&Rプランニング](../Page/V&Rプランニング.md "wikilink")制作部に所属していた、[竹本シンゴ](../Page/竹本シンゴ.md "wikilink")、[テンプルすわ](https://ja.wikipedia.org/wiki/テンプルすわ "wikilink")、[神戸たろう](https://ja.wikipedia.org/wiki/神戸たろう "wikilink")、[ささきうずまき](../Page/ささきうずまき.md "wikilink")が分離独立し、V\&Rプランニングの子会社として設立。
 
-もともと[V\&Rプランニング](../Page/V&Rプランニング.md "wikilink")の監督だった竹本シンゴ、テンプルすわ、神戸たろう、ささきうずまきといった旧V\&Rプランニング制作陣が監督として所属。V\&Rプランニングは、2004年に所属していた[日本ビデオ倫理協会](https://ja.wikipedia.org/wiki/日本ビデオ倫理協会 "wikilink")を脱退、セルビデオを主な[市場](../Page/市場.md "wikilink")とする[メディア倫理協会](https://ja.wikipedia.org/wiki/メディア倫理協会 "wikilink")に移籍した。V\&Rプロダクツも設立後そのまま主戦場をセルビデオ業界に置き、[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")での[流通](https://ja.wikipedia.org/wiki/流通 "wikilink")を主として製作を行なっている。
+もともと[V\&Rプランニング](../Page/V&Rプランニング.md "wikilink")の監督だった竹本シンゴ、テンプルすわ、神戸たろう、ささきうずまきといった旧V\&Rプランニング制作陣が監督として所属。V\&Rプランニングは、2004年に所属していた[日本ビデオ倫理協会](../Page/日本ビデオ倫理協会.md "wikilink")を脱退、セルビデオを主な[市場](../Page/市場.md "wikilink")とする[メディア倫理協会](https://ja.wikipedia.org/wiki/メディア倫理協会 "wikilink")に移籍した。V\&Rプロダクツも設立後そのまま主戦場をセルビデオ業界に置き、[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")での[流通](https://ja.wikipedia.org/wiki/流通 "wikilink")を主として製作を行なっている。
 
 [2007年](../Page/2007年.md "wikilink")夏、V\&Rプロダクツの社長である竹本シンゴが、親会社の[V\&Rプランニング](../Page/V&Rプランニング.md "wikilink")と子会社のV\&Rプロダクツとの『親・子会社という関係』から独立採算体制に独立したいという希望を出すが、V\&Rプランニング側の返答は「解雇」。V\&Rプロダクツの社員・制作スタッフは、萩澤カルメンを除き全員が一斉退社する騒動に発展した。 旧スタッフによる作品は2007年9月発売が最後であり、2007年10月以降の作品は新スタッフが制作している。 竹本シンゴ、テンプルすわ、神戸たろう、ささきうずまきは、V\&Rプロダクツの路線を継承した新メーカー[ロケットを](https://ja.wikipedia.org/wiki/ROCKET_\(アダルトビデオ\) "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に設立した。
 

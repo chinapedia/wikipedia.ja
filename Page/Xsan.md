@@ -28,7 +28,7 @@ Xsanは、[クアンタムの](../Page/クアンタム_\(企業\).md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月 - Xsan 2発表。[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の改良、[Spotlight](../Page/Spotlight.md "wikilink")対応、MultiSAN対応、動作保証ストレージにPromise VTrak E-Class RAIDを公式認定\[4\]\[5\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月 - Xsan 2.1：Xsan Adminのバグ修正、フェイルオーバーや互換性・信頼性等の機能改善\[6\]
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月 - Xsan 2.1.1：ファイルシステムの信頼性の向上、Xsan Adminの信頼性向上、ファイルシステムのパフォーマンスの向上等、機能改善\[7\]
-  - [2009年](../Page/2009年.md "wikilink")9月 - Xsan 2.2：Mac OS XおよびMac OS X Server v10.5.8以降v10.6 Snow Leopard対応、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")化、[拡張属性](https://ja.wikipedia.org/wiki/拡張ファイル属性 "wikilink")(extended attributes)対応\[8\]、信頼性の向上、セキュリティアップデート\[9\]など\[10\]。このバージョンからIntel Macのみの対応となった。
+  - [2009年](../Page/2009年.md "wikilink")9月 - Xsan 2.2：Mac OS XおよびMac OS X Server v10.5.8以降v10.6 Snow Leopard対応、[64ビット](../Page/64ビット.md "wikilink")化、[拡張属性](https://ja.wikipedia.org/wiki/拡張ファイル属性 "wikilink")(extended attributes)対応\[8\]、信頼性の向上、セキュリティアップデート\[9\]など\[10\]。このバージョンからIntel Macのみの対応となった。
   - [2009年](../Page/2009年.md "wikilink")12月 - Xsan 2.2.1：ファイルシステムの信頼性の向上、cvfsckの向上など\[11\]
   - [2011年](../Page/2011年.md "wikilink")7月 - Xsan 2.3：OS X Lion/Lion Serverに標準添付(実質無償化)。システム環境設定にXsanクライアント向けペインが含まれるようになった。
 

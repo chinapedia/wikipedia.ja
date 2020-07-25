@@ -116,7 +116,7 @@
 <td><p>松本・櫻井</p></td>
 <td><p>カツラメーカー<br />
 <a href="https://ja.wikipedia.org/wiki/アデランス" title="wikilink">アデランス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かつら_(装身具)" title="wikilink">カツラ</a></p></td>
+<td><p><a href="../Page/かつら_(装身具).md" title="wikilink">カツラ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>相葉・二宮・大野</p></td>
@@ -437,7 +437,7 @@ ZOO</p></td>
 <td><p>松本・大野</p></td>
 <td><p>カツラメーカー<br />
 <a href="https://ja.wikipedia.org/wiki/アデランス" title="wikilink">アデランス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かつら_(装身具)" title="wikilink">カツラの販売</a>、店舗</p></td>
+<td><p><a href="../Page/かつら_(装身具).md" title="wikilink">カツラの販売</a>、店舗</p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>

@@ -25,7 +25,7 @@
 
 ケネディは[1964年](../Page/1964年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[バージニア州](../Page/バージニア州.md "wikilink")[ニューポートニューズ](../Page/ニューポートニューズ.md "wikilink")の[ニューポート・ニューズ造船所](../Page/ニューポート・ニューズ造船所.md "wikilink")で起工した。1967年5月27日に[ジャクリーン・ケネディとその](../Page/ジャクリーン・ケネディ・オナシス.md "wikilink")9歳の娘である[キャロラインによって命名](https://ja.wikipedia.org/wiki/キャロライン・ケネディ "wikilink")、進水、1968年9月7日に初代艦長アール・イエイツ[大佐](../Page/大佐.md "wikilink")の指揮下就役した。
 
-ケネディの[処女航海](https://ja.wikipedia.org/wiki/処女航海 "wikilink")は悪化する[中東](../Page/中東.md "wikilink")情勢に対処するため[地中海](../Page/地中海.md "wikilink")への配備によるものだった。1970年代に[F-14 トムキャット](../Page/F-14_\(戦闘機\).md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")と[S-3 ヴァイキング](../Page/S-3_\(航空機\).md "wikilink")[艦上哨戒機を運用するための改修が行われた](https://ja.wikipedia.org/wiki/対潜哨戒機#艦上哨戒機 "wikilink")。1974年には[大西洋艦隊において](https://ja.wikipedia.org/wiki/大西洋艦隊_\(アメリカ海軍\) "wikilink")[マージョリー・ステレット戦艦基金賞](../Page/マージョリー・ステレット戦艦基金賞.md "wikilink")を受賞した。
+ケネディの[処女航海](https://ja.wikipedia.org/wiki/処女航海 "wikilink")は悪化する[中東](../Page/中東.md "wikilink")情勢に対処するため[地中海](../Page/地中海.md "wikilink")への配備によるものだった。1970年代に[F-14 トムキャット](../Page/F-14_\(戦闘機\).md "wikilink")[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")と[S-3 ヴァイキング](../Page/S-3_\(航空機\).md "wikilink")[艦上哨戒機を運用するための改修が行われた](https://ja.wikipedia.org/wiki/対潜哨戒機#艦上哨戒機 "wikilink")。1974年には[大西洋艦隊において](../Page/大西洋艦隊_\(アメリカ海軍\).md "wikilink")[マージョリー・ステレット戦艦基金賞](../Page/マージョリー・ステレット戦艦基金賞.md "wikilink")を受賞した。
 
 1975年11月22日、ケネディは[ベルナップ級ミサイル巡洋艦](../Page/ベルナップ級ミサイル巡洋艦.md "wikilink")[ベルナップ](../Page/ベルナップ_\(ミサイル巡洋艦\).md "wikilink")(*USS Belknap, CG-26*) と衝突事故を起こす。この事故でベルナップは火災を生じ、その上構部の大半を消失した。事故後ケネディは「*Can Opener*」と渾名された。
 

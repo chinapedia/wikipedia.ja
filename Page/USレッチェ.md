@@ -115,7 +115,7 @@
 
   - [エリオ・グスティネッティ](https://ja.wikipedia.org/wiki/エリオ・グスティネッティ "wikilink") 2013
 
-  - [フランチェスコ・モリエーロ](https://ja.wikipedia.org/wiki/フランチェスコ・モリエーロ "wikilink") 2013
+  - [フランチェスコ・モリエーロ](../Page/フランチェスコ・モリエーロ.md "wikilink") 2013
 
   -  [ファビオ・リヴェラーニ](../Page/ファビオ・リヴェラーニ.md "wikilink") 2017-
 
@@ -129,7 +129,7 @@
 
 ### DF
 
-  - [フランコ・カウジオ](https://ja.wikipedia.org/wiki/フランコ・カウジオ "wikilink") 1964-1965, 1985-1986
+  - [フランコ・カウジオ](../Page/フランコ・カウジオ.md "wikilink") 1964-1965, 1985-1986
 
   - [マッシモ・オッド](../Page/マッシモ・オッド.md "wikilink") 1997-1998, 2011-2012
 
@@ -157,7 +157,7 @@
 
   - [アントニオ・コンテ](../Page/アントニオ・コンテ.md "wikilink") 1985-1991
 
-  - [フランチェスコ・モリエーロ](https://ja.wikipedia.org/wiki/フランチェスコ・モリエーロ "wikilink") 1986-1992
+  - [フランチェスコ・モリエーロ](../Page/フランチェスコ・モリエーロ.md "wikilink") 1986-1992
 
   - [マジーニョ](https://ja.wikipedia.org/wiki/イオマール・ド・ナシメント "wikilink") 1990-1991
 

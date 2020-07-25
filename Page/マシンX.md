@@ -26,7 +26,7 @@
   - ホイール：[イタリア](../Page/イタリア.md "wikilink")・[カンパニョーロ](../Page/カンパニョーロ.md "wikilink")製[マグネシウムホイール](../Page/マグネシウムホイール.md "wikilink")（ゴールドに塗装）
   - シート：[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[RECARO製](../Page/レカロ.md "wikilink")[バケットシート](../Page/バケットシート.md "wikilink")
   - [シートベルト](../Page/シートベルト.md "wikilink")：[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・ブリタックス製4点式
-  - [ステアリング・ホイール](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink")：[イタリア](../Page/イタリア.md "wikilink")・[ナルディ](https://ja.wikipedia.org/wiki/ナルディ "wikilink")製
+  - [ステアリング・ホイール](../Page/ステアリング・ホイール.md "wikilink")：[イタリア](../Page/イタリア.md "wikilink")・[ナルディ](https://ja.wikipedia.org/wiki/ナルディ "wikilink")製
 
 ### 主な特殊装置
 

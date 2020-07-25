@@ -25,12 +25,12 @@
   - [1977年](../Page/1977年.md "wikilink")（昭和52年）[2月16日](../Page/2月16日.md "wikilink") - FM放送のローカル放送でステレオ放送開始。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[11月23日](../Page/11月23日.md "wikilink") - ラジオ放送の周波数一斉変更。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 総合テレビで[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[6月12日](../Page/6月12日.md "wikilink") - [文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[6月12日](../Page/6月12日.md "wikilink") - [文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")開始。
   - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[6月1日](../Page/6月1日.md "wikilink") - [衛星放送本放送開始](../Page/日本における衛星放送.md "wikilink")。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）7月 - 嶺南報道室開設。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）[12月1日](../Page/12月1日.md "wikilink") - [BSデジタル放送開始](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[5月1日](../Page/5月1日.md "wikilink") - [地上デジタルテレビ放送](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink") (JOFG-DTV & JOFC-DTV) 開始。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - [地上アナログテレビ放送終了](https://ja.wikipedia.org/wiki/2011年問題_\(日本のテレビジョン放送\) "wikilink")。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - [地上アナログテレビ放送終了](../Page/2011年問題_\(日本のテレビジョン放送\).md "wikilink")。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）[12月1日](../Page/12月1日.md "wikilink") - [4K8K衛星放送開始](https://ja.wikipedia.org/wiki/4K_8Kテレビ放送 "wikilink")。
 
 ## 放送局データ

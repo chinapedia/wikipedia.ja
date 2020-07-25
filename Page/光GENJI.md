@@ -1,7 +1,7 @@
 > この記事は[光GENJI](https://ja.wikipedia.org/wiki/光GENJI)から翻訳されています。
 
 
-**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「**最後のスーパーアイドル**」などと称されている。
+**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](../Page/赤坂晃.md "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「**最後のスーパーアイドル**」などと称されている。
 
 ## メンバー
 
@@ -72,7 +72,7 @@
 <td><p>WING RUN[26]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/赤坂晃" title="wikilink">赤坂晃</a></strong><br />
+<td><p><strong><a href="../Page/赤坂晃.md" title="wikilink">赤坂晃</a></strong><br />
 </p></td>
 <td><p>[27]、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#B型の亜種" title="wikilink">B型</a>[28]、<br />
 <a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/国立市.md" title="wikilink">国立市</a>出身[29]</p></td>

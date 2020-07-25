@@ -120,7 +120,7 @@ DLPプロジェクタを製造している主なメーカーは次の通り。
   - [デジタルミラーデバイス](../Page/デジタルミラーデバイス.md "wikilink")
   - [リアプロジェクションテレビ](../Page/リアプロジェクションテレビ.md "wikilink")
   - [レーザーテレビ](https://ja.wikipedia.org/wiki/レーザーテレビ "wikilink")
-  - [The Society for Information Display](https://ja.wikipedia.org/wiki/The_Society_for_Information_Display "wikilink")(SID:世界最大のディスプレイ学会)
+  - [The Society for Information Display](../Page/The_Society_for_Information_Display.md "wikilink")(SID:世界最大のディスプレイ学会)
   - [機械式テレビジョン](../Page/機械式テレビジョン.md "wikilink") - 表示に機械的な動作を有するテレビジョン。
 
 ## 外部リンク

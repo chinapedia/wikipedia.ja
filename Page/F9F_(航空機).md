@@ -2,7 +2,7 @@
 
 
 {{ Infobox 航空機 | 名称 = F9F / F-9 パンサー | 画像 = <File:Grumman> F9F-2 Panther in flight c1949.jpg | キャプション = 飛行するF9F-2 122567号機
-([1949年](../Page/1949年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink")、[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")、[練習機](../Page/練習機.md "wikilink")、[標的機](https://ja.wikipedia.org/wiki/標的機 "wikilink") | 分類 = [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者 = [ロバート・L・ホール](https://ja.wikipedia.org/wiki/:en:Robert_Hall_\(aircraft_designer\) "wikilink") | 製造者=[グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 more =
+([1949年](../Page/1949年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink")、[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")、[練習機](../Page/練習機.md "wikilink")、[標的機](https://ja.wikipedia.org/wiki/標的機 "wikilink") | 分類 = [艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者 = [ロバート・L・ホール](https://ja.wikipedia.org/wiki/:en:Robert_Hall_\(aircraft_designer\) "wikilink") | 製造者=[グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 more =
 
   -   -   -
           - [Seal_of_the_United_States_Marine_Corps.svg](https://ja.wikipedia.org/wiki/File:Seal_of_the_United_States_Marine_Corps.svg "fig:Seal_of_the_United_States_Marine_Corps.svg") [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")
@@ -15,7 +15,7 @@
 
 | 運用状況 = 退役 | ユニットコスト = 105,793[米ドル](../Page/アメリカ合衆国ドル.md "wikilink")（1955年、F9F-2） }}
 
-**F9F**（*Grumman F9F* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。[1962年](../Page/1962年.md "wikilink")の命名規則変更により、一部のパンサーと大部分のクーガーは**F9F**から**F-9**となった。
+**F9F**（*Grumman F9F* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。[1962年](../Page/1962年.md "wikilink")の命名規則変更により、一部のパンサーと大部分のクーガーは**F9F**から**F-9**となった。
 
 **F9F / F-9 パンサー**（*F9F / F-9 Panther* ）は、F9Fのうち前期の艦上[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。グラマン社が製造した機体としては初、アメリカ海軍の採用機としては[FH](../Page/FH_\(航空機\).md "wikilink")、[F2H / F-2に続く](../Page/F2H_\(航空機\).md "wikilink")3番目のジェット機。[F4Fワイルドキャット以来のグラマン社製品](../Page/F4F_\(航空機\).md "wikilink")「猫戦闘機」らしく頑丈で生産性に重点が置かれ、円形断面の太く短い胴体に直線翼を組み合わせた手堅い設計となっている。愛称の「**[パンサー](../Page/パンサー.md "wikilink")** (Panther)」は、アメリカの用法で[ピューマ](../Page/ピューマ.md "wikilink")を意味する。
 

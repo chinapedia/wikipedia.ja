@@ -6,7 +6,7 @@
 ## 概要
 
   - [1993年](../Page/1993年.md "wikilink")に[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")（後にポリグラム 現在は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）にあったビーイング専門の**b.gram**レーベルを法人化し、設立されたレコード会社が株式会社ビーグラムレコーズである。
-  - B-Gram RECORDS第一弾作品は[DEEN](../Page/DEEN.md "wikilink")の「[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")」（BGDH-1002）である。BGDH-1001が欠番となっているのは[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の「[負けないで](../Page/負けないで.md "wikilink")」がポリドールとの契約の関係上間に間に合わなかったためである。
+  - B-Gram RECORDS第一弾作品は[DEEN](../Page/DEEN.md "wikilink")の「[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")」（BGDH-1002）である。BGDH-1001が欠番となっているのは[ZARD](../Page/ZARD.md "wikilink")の「[負けないで](../Page/負けないで.md "wikilink")」がポリドールとの契約の関係上間に間に合わなかったためである。
   - [2007年](../Page/2007年.md "wikilink")に親会社ビーイングに事実上吸収され（法人自体は2013年8月現在残存している）、法人から1レーベルとなった。
   - リリースする[CDの枚数が減ったためか](../Page/コンパクトディスク.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")のテーマ曲を集めたアルバムや、[2002年](../Page/2002年.md "wikilink")7月からは、[90年代に活躍した](../Page/1990年代.md "wikilink")「ビーイングブーム」の先駆けのアーティストをおさめた『[at the BEING studio](https://ja.wikipedia.org/wiki/at_the_BEING_studio "wikilink")』シリーズをリリースしている。かつてのWebサイト（Being Music Fantasy）内で使用されていたバナーは東京都のシルエットである。
   - また、[GIZA studioの作品のレコード協会分類上の発売元として記載されていた](../Page/GIZA_studio.md "wikilink")。（[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")発売の[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「[Feel fine\!](../Page/Feel_fine!.md "wikilink")」まで）
@@ -14,24 +14,24 @@
 ## 沿革
 
   - [1991年](../Page/1991年.md "wikilink") - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、ZARDのデビューに合わせて[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")に*b.gram*レーベルが設立される。
-  - [1993年](../Page/1993年.md "wikilink") - [2月26日](../Page/2月26日.md "wikilink")、ビーイングとポリドールの共同出資によって（株）**B-Gram RECORDS**が設立され、販売はポリドールに委託する。初代代表取締役は[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")と[TUBE](../Page/TUBE.md "wikilink")のディレクターを務めていた[小松久](../Page/小松久.md "wikilink")で、取締役として[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")も名を連ねていた。
+  - [1993年](../Page/1993年.md "wikilink") - [2月26日](../Page/2月26日.md "wikilink")、ビーイングとポリドールの共同出資によって（株）**B-Gram RECORDS**が設立され、販売はポリドールに委託する。初代代表取締役は[ZARD](../Page/ZARD.md "wikilink")と[TUBE](../Page/TUBE.md "wikilink")のディレクターを務めていた[小松久](../Page/小松久.md "wikilink")で、取締役として[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")も名を連ねていた。
       - [11月1日](../Page/11月1日.md "wikilink")　-　同レーベルの楽曲管理を目的とした出版管理会社の株式会社グラムミュージックを設立。\[1\]
       - [12月1日](../Page/12月1日.md "wikilink")　-　 ポリドールの営業本部が[ポリグラム](../Page/ポリグラム.md "wikilink")へ移管された事に伴い、販売元が変更される。\[2\]
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [1月12日](../Page/1月12日.md "wikilink")にビーイング100%出資で自社販売会社[（株）J-DISC](../Page/J-DISC_Being.md "wikilink")（後にJ-DISC Being）を設立し、同年3月より販売元が移管された。それに伴い、B-Gramはビーイング100%出資の会社となった。同時期に、心斎橋ダイヤモンドビル内に同社の大阪支社であるビーグラムレコーズ大阪\[3\]が設立され、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のファンクラブ業務をおこなっていた。J-DISCに販売元が移管された後も、しばらくはポリドールの社員が出向という形でレーベルマネジメントに携わっていた。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [1月12日](../Page/1月12日.md "wikilink")にビーイング100%出資で自社販売会社[（株）J-DISC](../Page/J-DISC_Being.md "wikilink")（後にJ-DISC Being）を設立し、同年3月より販売元が移管された。それに伴い、B-Gramはビーイング100%出資の会社となった。同時期に、心斎橋ダイヤモンドビル内に同社の大阪支社であるビーグラムレコーズ大阪\[3\]が設立され、[ZARD](../Page/ZARD.md "wikilink")のファンクラブ業務をおこなっていた。J-DISCに販売元が移管された後も、しばらくはポリドールの社員が出向という形でレーベルマネジメントに携わっていた。
       - [4月1日](../Page/4月1日.md "wikilink") - J-DISCに販売元が移管された為、[日本レコード協会](../Page/日本レコード協会.md "wikilink")に正式加盟に伴いメジャーレコード会社となった。\[4\]
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [9月1日](../Page/9月1日.md "wikilink")に新レーベル**[GIZA studio](../Page/GIZA_studio.md "wikilink")**を大阪で設立。
   - [2002年](../Page/2002年.md "wikilink") - [2月20日](../Page/2月20日.md "wikilink")にRooms RECORDSが[B'z](../Page/B'z.md "wikilink")のプライベートレーベル[VERMILLION RECORDSへ社名変更及び再編されたのを機に](../Page/VERMILLION_RECORDS.md "wikilink")、[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")・[Mi-Ke](../Page/Mi-Ke.md "wikilink")・[織田哲郎](../Page/織田哲郎.md "wikilink")・[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")・[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")ら旧所属アーティストの原盤権を継承する事になった。\[5\]
       - [5月1日](../Page/5月1日.md "wikilink") - GIZA studioを分離・独立させる。（台湾新光美音での権利元及びインディーズレーベルのTENT HOUSEの発売元はB-Gramのまま。）
   - [2003年](../Page/2003年.md "wikilink") - [10月1日](../Page/10月1日.md "wikilink")に[ZAIN RECORDSを吸収合併](../Page/ZAIN_RECORDS.md "wikilink")。レーベルとして**ZAIN RECORDS**を設立。
   - [2007年](../Page/2007年.md "wikilink") - [5月19日](../Page/5月19日.md "wikilink")にB-Gramを関連会社の[VERMILLION RECORDSと企画販売のJ](../Page/VERMILLION_RECORDS.md "wikilink")-DISC Beingが親会社のビーイングに吸収される事になった。
-      - [5月27日](../Page/5月27日.md "wikilink")、B-Gram RECORDSレーベル唯一の所属アーティストであった[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が逝去。
+      - [5月27日](../Page/5月27日.md "wikilink")、B-Gram RECORDSレーベル唯一の所属アーティストであった[ZARD](../Page/ZARD.md "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が逝去。
   - [2011年](../Page/2011年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - 期間限定という形で再結成された[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")がB-Gram RECORDSレーベルに所属した。
 
 ## レーベル　および　所属アーティスト
 
 ### B-Gram RECORDS
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")
 
 ### ZAIN RECORDS　および　BIG M.F.
@@ -126,7 +126,7 @@
 [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:かつて存在した日本のレコード会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード会社 "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:ユニバーサルミュージックジャパン](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパン "wikilink")
 
 1.  2003年に音楽出版業務はビーイングに吸収され、現在は[ビー企画室](https://ja.wikipedia.org/wiki/ビー企画室 "wikilink")に業務移管されている。
-2.  販売元の表記が**DISTRIBUTED by PolyGram,K.K.**に変更されるのは[1994年](../Page/1994年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に発売された[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の「[この愛に泳ぎ疲れても/Boy](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")」より。同日に同社から再発売された[WANDS](../Page/WANDS.md "wikilink")と[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の旧譜における表記は、**DISTRIBUTED by POLYDOR,K.K.**になっている。
+2.  販売元の表記が**DISTRIBUTED by PolyGram,K.K.**に変更されるのは[1994年](../Page/1994年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に発売された[ZARD](../Page/ZARD.md "wikilink")の「[この愛に泳ぎ疲れても/Boy](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")」より。同日に同社から再発売された[WANDS](../Page/WANDS.md "wikilink")と[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の旧譜における表記は、**DISTRIBUTED by POLYDOR,K.K.**になっている。
 3.  同ビル内にはルームスレコーズ大阪やJ-DISCなどの関連会社が入居しており、2001年に北堀江に移転するまで稼働していた。
 4.  それまではレコード協会に加盟していたポリグラムから販売していたので、準メジャー扱いだった。同日にB-Gramと一緒に日本レコード協会に正式加盟したレコード会社は、[avextrax](https://ja.wikipedia.org/wiki/avextrax "wikilink")である。
 5.  Rooms RECORDS・Rhizomeレーベルに所属していた[近藤房之助](../Page/近藤房之助.md "wikilink")と[DIMENSION](../Page/DIMENSION.md "wikilink")は、ZAIN RECORDSへ移籍。それに伴いRhizomeレーベルは終了した。

@@ -5,7 +5,7 @@
 
 同社のアーケードゲーム『[ディグダグ](../Page/ディグダグ.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）の続編。本作では「戦略的島崩しゲーム」と銘打ち、「舞台となる小さな島の表面にひびを入れて崩し、崩落に敵を巻き込んで倒す」というスタイルに変更された。開発はナムコ開発一課が行い、音楽は[小沢純子](../Page/小沢純子.md "wikilink")が担当している。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ファミリーコンピュータ ディスクシステムに移植された他](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")用ソフト『**ビデオゲームアンソロジーVol.12 ディグダグI & II**』として『ディグダグ』と併録する形で移植された。[2004年](../Page/2004年.md "wikilink")以降は携帯電話アプリゲームとして配信された他、[2009年](../Page/2009年.md "wikilink")には[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")アーケードにてアーケード版が配信、さらに[2016年](../Page/2016年.md "wikilink")には[Wii U用ソフトとしてバーチャルコンソールにてファミリーコンピュータ版が配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。それ以外にもアーケード版は[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[Xbox360](https://ja.wikipedia.org/wiki/Xbox360 "wikilink")などのオムニバスソフトに収録された。
+[1986年](../Page/1986年.md "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ファミリーコンピュータ ディスクシステムに移植された他](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")用ソフト『**ビデオゲームアンソロジーVol.12 ディグダグI & II**』として『ディグダグ』と併録する形で移植された。[2004年](../Page/2004年.md "wikilink")以降は携帯電話アプリゲームとして配信された他、[2009年](../Page/2009年.md "wikilink")には[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")アーケードにてアーケード版が配信、さらに[2016年](../Page/2016年.md "wikilink")には[Wii U用ソフトとしてバーチャルコンソールにてファミリーコンピュータ版が配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。それ以外にもアーケード版は[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[Xbox360](https://ja.wikipedia.org/wiki/Xbox360 "wikilink")などのオムニバスソフトに収録された。
 
 ## ゲーム内容
 
@@ -205,7 +205,7 @@
 </table>
 
   - ファミリーコンピュータ版
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")に「ナムコット ファミリーコンピュータゲームシリーズ」第14弾として発売された。中間デモのディグダグシアター、BGM、島を1ブロック崩すと出る魚、スペシャルフラッグ、夜間の背景のラウンドや地面のカラーの追加、広大なラウンドでは開始前にスクロールして全景を見せるなどが追加された。また、FC版では全72ステージの構成となっている。
+    [1986年](../Page/1986年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に「ナムコット ファミリーコンピュータゲームシリーズ」第14弾として発売された。中間デモのディグダグシアター、BGM、島を1ブロック崩すと出る魚、スペシャルフラッグ、夜間の背景のラウンドや地面のカラーの追加、広大なラウンドでは開始前にスクロールして全景を見せるなどが追加された。また、FC版では全72ステージの構成となっている。
     [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")には[ファミリーコンピュータ ディスクシステム書き換え専用としても発売](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")。また、[2016年](../Page/2016年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")には[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")用ソフトとして配信された。
   - X68000版
     1995年発売。電波新聞社より発売の『ビデオゲームアンソロジーVol.12 ディグダグ I\&II』に初代と同時収録で移植された。

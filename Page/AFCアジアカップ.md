@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/AFCアジアカップ1968.md" title="wikilink">4</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>-----</strong></p></td>
@@ -1597,7 +1597,7 @@
 <td><p>2004,2007,2011,2015</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セルヴェル・ジェパロフ" title="wikilink">セルヴェル・ジェパロフ</a></p></td>
+<td><p><a href="../Page/セルヴェル・ジェパロフ.md" title="wikilink">セルヴェル・ジェパロフ</a></p></td>
 <td><p>2004,2007,2011,2015</p></td>
 <td></td>
 </tr>

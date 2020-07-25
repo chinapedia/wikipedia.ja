@@ -240,7 +240,7 @@ NHK（[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wik
 
 <!-- end list -->
 
-  - 未発表だが、[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")、[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")、[私も一言\!夕方ニュースの各番組担当キャスターが中心](https://ja.wikipedia.org/wiki/先読み!夕方ニュース "wikilink")
+  - 未発表だが、[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")、[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")、[私も一言\!夕方ニュースの各番組担当キャスターが中心](../Page/先読み!夕方ニュース.md "wikilink")
 
 #### 各局担当
 

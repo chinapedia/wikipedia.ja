@@ -1,7 +1,7 @@
 > この記事は[Missing \(小説\)](https://ja.wikipedia.org/wiki/Missing_\(小説\))から翻訳されています。
 
 
-『**Missing**』（ミッシング）は、[甲田学人](../Page/甲田学人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[翠川しん](https://ja.wikipedia.org/wiki/翠川しん "wikilink")。[電撃文庫](../Page/電撃文庫.md "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）より、[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")にかけて刊行された。[2020年](../Page/2020年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")より[メディアワークス文庫](https://ja.wikipedia.org/wiki/メディアワークス文庫 "wikilink")より復刊している。復刊の表紙絵は花邑まい。
+『**Missing**』（ミッシング）は、[甲田学人](../Page/甲田学人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[翠川しん](https://ja.wikipedia.org/wiki/翠川しん "wikilink")。[電撃文庫](../Page/電撃文庫.md "wikilink")（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）より、[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")にかけて刊行された。[2020年](../Page/2020年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")より[メディアワークス文庫](https://ja.wikipedia.org/wiki/メディアワークス文庫 "wikilink")より復刊している。復刊の表紙絵は花邑まい。
 
 番外編として『夜魔』が刊行されている。
 
@@ -217,7 +217,7 @@
 ## 漫画
 
   - Missing 神隠しの物語
-    作画：[睦月れい](https://ja.wikipedia.org/wiki/睦月れい "wikilink")　全3巻　[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
+    作画：[睦月れい](https://ja.wikipedia.org/wiki/睦月れい "wikilink")　全3巻　[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")
     1.  ISBN 4-8402-3073-0
     2.  ISBN 4-8402-3192-3
     3.  ISBN 4-8402-3251-2

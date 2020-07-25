@@ -80,7 +80,7 @@
 かつては久本朋子不在時の出演だった。
 
   - [光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")
-  - [有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
+  - [有坂来瞳](../Page/有坂来瞳.md "wikilink")
   - [吉野紗香](../Page/吉野紗香.md "wikilink")
   - [根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink") など
 

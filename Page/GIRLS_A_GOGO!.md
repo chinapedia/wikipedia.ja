@@ -11,7 +11,7 @@
 
 ## スタッフ
 
-  - 企画：[古賀誠一](https://ja.wikipedia.org/wiki/古賀誠一 "wikilink")（[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")）
+  - 企画：[古賀誠一](https://ja.wikipedia.org/wiki/古賀誠一 "wikilink")（[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")）
   - ナレーター：[杉本るみ](../Page/杉本るみ.md "wikilink")
   - Voice：[ウォード・セクストン](https://ja.wikipedia.org/wiki/ウォード・セクストン "wikilink")
   - 構成：飯田茉千子、谷中友保、山下たけはる

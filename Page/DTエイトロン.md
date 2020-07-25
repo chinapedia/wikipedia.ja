@@ -215,7 +215,7 @@
 <td><p>5</p></td>
 <td><p>DELETE KEY</p></td>
 <td><p>石山タカ明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀垣一" title="wikilink">亀垣一</a></p></td>
+<td><p><a href="../Page/亀垣一.md" title="wikilink">亀垣一</a></p></td>
 <td><p>筏雅律</p></td>
 <td><p>5月16日</p></td>
 <td></td>

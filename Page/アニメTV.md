@@ -239,7 +239,7 @@
 26. mo・o\!（歌：[LOVERIN TAMBURIN](../Page/LOVERIN_TAMBURIN.md "wikilink")）
 27. [JOINT](../Page/JOINT_\(川田まみの曲\).md "wikilink")（歌：川田まみ）
 28. [euphoric field](https://ja.wikipedia.org/wiki/euphoric_field "wikilink")（feat.[ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")）
-29. [ひかりなでしこ](https://ja.wikipedia.org/wiki/ひかりなでしこ "wikilink")（歌：[島みやえい子](../Page/島みやえい子.md "wikilink")）
+29. [ひかりなでしこ](../Page/ひかりなでしこ.md "wikilink")（歌：[島みやえい子](../Page/島みやえい子.md "wikilink")）
 30. [Over the Future](https://ja.wikipedia.org/wiki/Fly_To_The_Future "wikilink")（歌：[可憐Girl's](../Page/可憐Girl's.md "wikilink")）
 31. Yells 〜It's a beautiful life〜（歌：[アニサマフレンズ](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#2008年 "wikilink")）
 32. [Fly Away](../Page/Fly_Away_\(THYMEの曲\).md "wikilink")（歌：[THYME](../Page/THYME.md "wikilink")）

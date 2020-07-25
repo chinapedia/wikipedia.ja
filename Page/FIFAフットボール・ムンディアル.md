@@ -1,7 +1,7 @@
 > この記事は[FIFAフットボール・ムンディアル](https://ja.wikipedia.org/wiki/FIFAフットボール・ムンディアル)から翻訳されています。
 
 
-**FIFAフットボール・ムンディアル**（FIFA futbol mundial）は、[IMGの番組制作部門](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")・TWI / IMG Mediaが制作する世界の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")事情を取り上げる情報番組である。題目はスペイン語で「世界のサッカー」の意。近年、FIFA（[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")）の冠がつくようになった。
+**FIFAフットボール・ムンディアル**（FIFA futbol mundial）は、[IMGの番組制作部門](../Page/インターナショナル・マネジメント・グループ.md "wikilink")・TWI / IMG Mediaが制作する世界の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")事情を取り上げる情報番組である。題目はスペイン語で「世界のサッカー」の意。近年、FIFA（[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")）の冠がつくようになった。
 
 ## 概要
 

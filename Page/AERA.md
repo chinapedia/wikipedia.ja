@@ -13,7 +13,7 @@
 
 ## 表紙について
 
-創刊号の表紙を飾ったのは[利根川進](https://ja.wikipedia.org/wiki/利根川進 "wikilink")。創刊以来[2016年](../Page/2016年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")号まで続いたのが、写真家[坂田栄一郎](../Page/坂田栄一郎.md "wikilink")による表紙写真である。同年[4月18日](../Page/4月18日.md "wikilink")号からは[蜷川実花](../Page/蜷川実花.md "wikilink")が表紙写真を担当（同号の表紙を飾ったのは[渡辺謙](../Page/渡辺謙.md "wikilink")）。各界を代表する有名人の顔が撮影されることが多い。
+創刊号の表紙を飾ったのは[利根川進](../Page/利根川進.md "wikilink")。創刊以来[2016年](../Page/2016年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")号まで続いたのが、写真家[坂田栄一郎](../Page/坂田栄一郎.md "wikilink")による表紙写真である。同年[4月18日](../Page/4月18日.md "wikilink")号からは[蜷川実花](../Page/蜷川実花.md "wikilink")が表紙写真を担当（同号の表紙を飾ったのは[渡辺謙](../Page/渡辺謙.md "wikilink")）。各界を代表する有名人の顔が撮影されることが多い。
 
 漫画・アニメのキャラクターとしては、[2003年](../Page/2003年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")号で[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")が、[2015年](../Page/2015年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")号で[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")が、同年[8月31日](../Page/8月31日.md "wikilink")号で[綾波レイ](../Page/綾波レイ.md "wikilink")が表紙を飾っている。[2014年](../Page/2014年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")増大号では[宮崎駿](../Page/宮崎駿.md "wikilink")画のイラスト、2015年[1月12日](../Page/1月12日.md "wikilink")増大号では画のイラストが表紙を飾っている。また、ニュース写真が表紙を飾ることがある。
 
@@ -59,7 +59,7 @@
   - [田岡俊次](../Page/田岡俊次.md "wikilink")（元副編集長、軍事評論家）
   - [烏賀陽弘道](../Page/烏賀陽弘道.md "wikilink")
   - [大鹿靖明](../Page/大鹿靖明.md "wikilink")（スタッフライター）
-  - [眞木準](https://ja.wikipedia.org/wiki/眞木準 "wikilink")（誌名を命名したコピーライター）
+  - [眞木準](../Page/眞木準.md "wikilink")（誌名を命名したコピーライター）
 
 ## 脚注
 

@@ -49,9 +49,9 @@
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")、今泉のみ）
   - [新春ホワイトカーペット](https://ja.wikipedia.org/wiki/新春ホワイトカーペット "wikilink")(フジテレビ、今泉のみ)キャッチコピーは「今日はハッキリ物申す」
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")(フジテレビ、今泉のみ)キャッチコピーは「今日はハッキリ物申す」
-      - コラボカーペットで[ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")[鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")、[キングオブコメディ](../Page/キングオブコメディ.md "wikilink")[今野浩喜](../Page/今野浩喜.md "wikilink")(第1回のみ)､[我が家](../Page/我が家.md "wikilink")[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")(第1回のみ)、[ロッチ](../Page/ロッチ.md "wikilink")[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")(第2回のみ)、[狩野英孝](../Page/狩野英孝.md "wikilink")(第3回のみ)と言ってみ隊名義で共演(Q太郎を含む2人は全て参加)。
+      - コラボカーペットで[ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")[鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")、[キングオブコメディ](../Page/キングオブコメディ.md "wikilink")[今野浩喜](../Page/今野浩喜.md "wikilink")(第1回のみ)､[我が家](../Page/我が家.md "wikilink")[谷田部俊](../Page/谷田部俊.md "wikilink")(第1回のみ)、[ロッチ](../Page/ロッチ.md "wikilink")[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")(第2回のみ)、[狩野英孝](../Page/狩野英孝.md "wikilink")(第3回のみ)と言ってみ隊名義で共演(Q太郎を含む2人は全て参加)。
       - 2009年8月29日でコラボカーペットで共演した言ってみ隊の第1回のメンバーと共にレッドカーペット賞を受賞
-  - [ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [ケータイ捜査官7](../Page/ケータイ捜査官7.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [新世紀ネタキング決定戦](https://ja.wikipedia.org/wiki/新世紀ネタキング決定戦 "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、今泉のみ）
 
 ## 舞台

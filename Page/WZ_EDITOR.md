@@ -134,7 +134,7 @@ WZ EDITORの機能を[Windows CE上に移植した](https://ja.wikipedia.org/wik
 ## 関連項目
 
   - [VZ Editor](../Page/VZ_Editor.md "wikilink") - ビレッジセンターから発売されたテキストエディタ。WZ EDITORの実質的な前身ソフト。
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [ジュニア・タッグリーグ戦優勝](https://ja.wikipedia.org/wiki/JUNIOR_HYPER_TAG_LEAGUE "wikilink")（パートナーはMAZADA）
+  - [ジュニア・タッグリーグ戦優勝](../Page/JUNIOR_HYPER_TAG_LEAGUE.md "wikilink")（パートナーはMAZADA）
   - [アジアタッグ王座](../Page/アジアタッグ王座.md "wikilink")…第81代（パートナーは[鈴木みのる](../Page/鈴木みのる.md "wikilink")）
 
 <!-- end list -->

@@ -37,7 +37,7 @@
   - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 29ch 10W
   - [高山](../Page/高山中継局.md "wikilink") 29ch 20W
   - [下呂](../Page/下呂中継局.md "wikilink") 29ch 3W
-  - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 24ch 10W
+  - [中濃](../Page/中濃テレビ中継局.md "wikilink") 24ch 10W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 29ch 3W
   - [長良](../Page/長良テレビ中継局.md "wikilink") 29ch 2W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 29ch 1W
@@ -70,7 +70,7 @@
   - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 31ch 10W
   - [高山](../Page/高山中継局.md "wikilink") 31ch 20W
   - [下呂](../Page/下呂中継局.md "wikilink") 31ch 3W
-  - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 31ch 10W
+  - [中濃](../Page/中濃テレビ中継局.md "wikilink") 31ch 10W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 31ch 3W
   - [長良](../Page/長良テレビ中継局.md "wikilink") 31ch 2W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 34ch 1W
@@ -117,7 +117,7 @@
   - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 4ch 映像100W/音声25W
   - [高山](../Page/高山中継局.md "wikilink") 4ch 映像30W/音声7.5W
   - [下呂](../Page/下呂中継局.md "wikilink") 4ch 映像10W/音声2.5W
-  - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 43ch 映像30W/音声7.5W
+  - [中濃](../Page/中濃テレビ中継局.md "wikilink") 43ch 映像30W/音声7.5W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 44ch 映像30W/音声7.5W
   - [長良](../Page/長良テレビ中継局.md "wikilink") 53ch 映像10W/音声2.5W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 40ch 映像10W/音声2.5W
@@ -147,7 +147,7 @@
   - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 12ch 映像100W/音声25W
   - [高山](../Page/高山中継局.md "wikilink") 2ch 映像30W/音声7.5W
   - [下呂](../Page/下呂中継局.md "wikilink") 12ch 映像10W/音声2.5W
-  - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 50ch 映像30W/音声7.5W
+  - [中濃](../Page/中濃テレビ中継局.md "wikilink") 50ch 映像30W/音声7.5W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 46ch 映像30W/音声7.5W
   - [長良](../Page/長良テレビ中継局.md "wikilink") 49ch 映像10W/音声2.5W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 42ch 映像10W/音声2.5W

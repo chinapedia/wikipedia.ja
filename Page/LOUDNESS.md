@@ -327,7 +327,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
 
 <!-- end list -->
 

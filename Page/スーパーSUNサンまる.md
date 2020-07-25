@@ -21,7 +21,7 @@
 ### ゲストMC
 
   - [ブラボー中谷](../Page/ブラボー中谷.md "wikilink")（マジシャン） ※隔週出演
-  - [高階航](https://ja.wikipedia.org/wiki/高階航 "wikilink")（作家） ※隔週出演
+  - [高階航](../Page/高階航.md "wikilink")（作家） ※隔週出演
 
 ### その他の出演者
 

@@ -35,7 +35,7 @@ __TOC__ {{-}}
   - 春奈の叔母 : [岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink")
   - 春奈のマネージャー : [大杉漣](../Page/大杉漣.md "wikilink")
   - 青木 : [アル北郷](https://ja.wikipedia.org/wiki/アル北郷 "wikilink")
-  - 梅川 : [吉田蓑太郎](https://ja.wikipedia.org/wiki/桐竹勘十郎 "wikilink")
+  - 梅川 : [吉田蓑太郎](../Page/桐竹勘十郎.md "wikilink")
   - 忠兵衛 : [吉田玉女](https://ja.wikipedia.org/wiki/吉田玉女 "wikilink")
   - 大夫 : [豊竹嶋大夫](https://ja.wikipedia.org/wiki/豊竹嶋大夫 "wikilink")
   - 三味線 : [鶴澤清介](https://ja.wikipedia.org/wiki/鶴澤清介 "wikilink")

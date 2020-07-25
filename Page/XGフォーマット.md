@@ -34,7 +34,7 @@ XGフォーマット自体は、[ローランド](../Page/ローランド.md "wi
 ### XG対応（XGlite対応）音源モジュール
 
   - MU5を除く[MUシリーズ](../Page/ヤマハ・MUシリーズ.md "wikilink")
-  - KORG [NX5R](https://ja.wikipedia.org/wiki/コルグ・Nシリーズ "wikilink")
+  - KORG [NX5R](../Page/コルグ・Nシリーズ.md "wikilink")
   - EDIROL [SDシリーズ](../Page/エディロール・SDシリーズ.md "wikilink")（SD-50を除く、XGlite対応）
 
 ### XG対応シンセサイザー
@@ -173,7 +173,7 @@ XGフォーマット自体は、[ローランド](../Page/ローランド.md "wi
 
 ### MU50と互換性を持つ他機種の登場（1995年～1996年）
 
-この[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて、ヤマハは[ワークステーションタイプのシンセサイザー](../Page/ミュージックワークステーション.md "wikilink")[QS300](https://ja.wikipedia.org/wiki/ヤマハ・QS300 "wikilink")、音源内蔵キーボード[CBX-K1XG](../Page/ヤマハ・CBXシリーズ.md "wikilink")、[ドーターボード](https://ja.wikipedia.org/wiki/ドーターボード "wikilink")音源DB50XG、音源内蔵[シーケンサー](../Page/ミュージックシーケンサー.md "wikilink")[QY700](../Page/ヤマハ・QYシリーズ.md "wikilink")、DTM用シンセサイザー[CS1x](../Page/ヤマハ・CSシリーズ.md "wikilink")、MU50のディスプレイ、ボタン類省略モデル[MU10と](../Page/ヤマハ・MUシリーズ.md "wikilink")、MU50互換品を多数発売した。
+この[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて、ヤマハは[ワークステーションタイプのシンセサイザー](../Page/ミュージックワークステーション.md "wikilink")[QS300](https://ja.wikipedia.org/wiki/ヤマハ・QS300 "wikilink")、音源内蔵キーボード[CBX-K1XG](../Page/ヤマハ・CBXシリーズ.md "wikilink")、[ドーターボード](../Page/ドーターボード.md "wikilink")音源DB50XG、音源内蔵[シーケンサー](../Page/ミュージックシーケンサー.md "wikilink")[QY700](../Page/ヤマハ・QYシリーズ.md "wikilink")、DTM用シンセサイザー[CS1x](../Page/ヤマハ・CSシリーズ.md "wikilink")、MU50のディスプレイ、ボタン類省略モデル[MU10と](../Page/ヤマハ・MUシリーズ.md "wikilink")、MU50互換品を多数発売した。
 
 そしてヤマハのホームページ上からダウンロード可能なデモソングもMU50準拠のMIDIデータとなっており、ヤマハのPCカラオケ『歌楽』のMIDIデータもMU50準拠となっていた。ヤマハはハード面だけでなくソフト面でもMU50の標準機化を進めていた。 一方で、ユーザは発音数が多いMU80を購入するケースが多く、アマチュアが作成したXG対応のMIDIデータはMU80準拠の作品が多く見受けられた。
 

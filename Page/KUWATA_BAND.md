@@ -3,7 +3,7 @@
 
 **KUWATA BAND**（クワタバンド）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")を中心にして結成された[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーは[パーカッション](../Page/パーカッション.md "wikilink")の[今野多久郎](https://ja.wikipedia.org/wiki/スペクトラム_\(日本のバンド\)#メンバー "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")はサザンの専用[レーベルである](../Page/レコードレーベル.md "wikilink")[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
-桑田の[妻である](../Page/配偶者.md "wikilink")[原由子](../Page/原由子.md "wikilink")が産休中である[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から1年限定で活動した。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に放送された[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[メリー・クリスマス・ショー](../Page/メリー・クリスマス・ショー.md "wikilink")』内では一度限りの再結成を果たしている。
+桑田の[妻である](../Page/配偶者.md "wikilink")[原由子](../Page/原由子.md "wikilink")が産休中である[1986年](../Page/1986年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から1年限定で活動した。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に放送された[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[メリー・クリスマス・ショー](../Page/メリー・クリスマス・ショー.md "wikilink")』内では一度限りの再結成を果たしている。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
 
 ## 概要
 
-「いつかデタラメなロックをやってみたい\!」という桑田の思いが結成動機となり、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に1年限定で活動。当初メンバーは琢磨・小島を除いた4人しか揃わなかったが、デビューシングル「[BAN BAN BAN](../Page/BAN_BAN_BAN_\(曲\).md "wikilink")」でのテレビ出演時には現在のメンバーになっていた。当時桑田は「日本人・中国人・韓国人のロックもいずれ近いうちにすべて英語になるだろう」と本気で思っていたことからアルバム『[NIPPON NO ROCK BAND](../Page/NIPPON_NO_ROCK_BAND.md "wikilink")』の曲はすべて[英語](../Page/英語.md "wikilink")詞で書かれるなど、当初から日本の[ロックへの問題点を投げかける姿勢が強く見られた](../Page/ロック_\(音楽\).md "wikilink")。また、当時は桑田曰く深く考えもせずに「俺たちもいずれは海を渡っていく」と海外進出も視野に入れた発言をしていた\[1\]。
+「いつかデタラメなロックをやってみたい\!」という桑田の思いが結成動機となり、[1986年](../Page/1986年.md "wikilink")に1年限定で活動。当初メンバーは琢磨・小島を除いた4人しか揃わなかったが、デビューシングル「[BAN BAN BAN](../Page/BAN_BAN_BAN_\(曲\).md "wikilink")」でのテレビ出演時には現在のメンバーになっていた。当時桑田は「日本人・中国人・韓国人のロックもいずれ近いうちにすべて英語になるだろう」と本気で思っていたことからアルバム『[NIPPON NO ROCK BAND](../Page/NIPPON_NO_ROCK_BAND.md "wikilink")』の曲はすべて[英語](../Page/英語.md "wikilink")詞で書かれるなど、当初から日本の[ロックへの問題点を投げかける姿勢が強く見られた](../Page/ロック_\(音楽\).md "wikilink")。また、当時は桑田曰く深く考えもせずに「俺たちもいずれは海を渡っていく」と海外進出も視野に入れた発言をしていた\[1\]。
 
 アルバムは全英語詞だが、シングルA面は全て桑田による日本語詞であった。また、ライブでは[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")曲のカバー、シングルc/wでもカバー曲や、アルバムも含めバンド名義での作曲に取り組むなど、サザンでは見せない様々な手法を繰り広げた。これらは全てデタラメロックに力を注ぐため、1年間の限定の活動であったこともあり、色々な事を試してみようという考えからであった。
 
@@ -28,7 +28,7 @@
 
 ## 来歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が同じサザンのメンバーである[松田弘](../Page/松田弘.md "wikilink")など他[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")に声を掛け、結成。
       - [4月5日](../Page/4月5日.md "wikilink")、1stシングル『[BAN BAN BAN](../Page/BAN_BAN_BAN_\(曲\).md "wikilink")』でデビュー。
       - [7月5日](../Page/7月5日.md "wikilink")、2ndシングル『[MERRY X'MAS IN SUMMER](../Page/MERRY_X'MAS_IN_SUMMER.md "wikilink")』、3rdシングル『 [スキップ・ビート (SKIPPED BEAT)](../Page/スキップ・ビート.md "wikilink")』を同時発売。『スキップ・ビート』は、当時サザンで桑田の成し遂げていなかった、シングルでの[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を記録。
@@ -79,7 +79,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">EP</a></p></td>
 <td><p>VIHX-1683</p></td>
@@ -136,7 +136,7 @@
 <tbody>
 <tr class="odd">
 <td><p>オリジナルアルバム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
 <td></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 CD<br />
@@ -219,12 +219,12 @@ VIBL-43</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a>〜<a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a>〜<a href="../Page/10月11日.md" title="wikilink">10月11日</a></p></td>
 <td><p>コンサートツアー</p></td>
 <td><p><a href="../Page/TDK.md" title="wikilink">TDK</a> AD SPECIAL<br />
 </p></td>
 <td><p>全国31都市51公演</p></td>
-<td><p>練馬文化センター、<a href="../Page/フェニックス・プラザ.md" title="wikilink">福井フェニックスプラザ</a>、<a href="../Page/金沢歌劇座.md" title="wikilink">金沢市観光会館</a>、富山市公会堂、松本社会文化会館、<a href="../Page/長野県県民文化会館.md" title="wikilink">長野県県民文化会館</a>、<a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a>、<a href="https://ja.wikipedia.org/wiki/周南市文化会館" title="wikilink">徳山市文化会館</a>、<a href="../Page/広島県立文化芸術ホール.md" title="wikilink">広島郵便貯金会館</a>、<a href="../Page/岡山市民会館.md" title="wikilink">岡山市民会館</a>、<a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a>、<a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a>、<a href="../Page/山梨県立県民文化ホール.md" title="wikilink">山梨県立県民文化ホール</a>、<a href="../Page/群馬県民会館.md" title="wikilink">群馬県民会館</a>、<a href="../Page/宇都宮市文化会館.md" title="wikilink">宇都宮市文化会館</a>、<a href="https://ja.wikipedia.org/wiki/さいたま市文化センター" title="wikilink">浦和市文化センター</a>、<a href="../Page/千葉県文化会館.md" title="wikilink">千葉県文化会館</a>、<a href="../Page/茨城県立県民文化センター.md" title="wikilink">茨城県立県民文化センター</a>、<a href="../Page/さっぽろ芸術文化の館.md" title="wikilink">北海道厚生年金会館</a>、釧路市民文化会館、室蘭新日鉄ホール、<a href="../Page/岩手県民会館.md" title="wikilink">岩手県民会館</a>、<a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a>、<a href="../Page/宮城県民会館.md" title="wikilink">宮城県民会館</a>、<a href="../Page/秋田県民会館.md" title="wikilink">秋田県民会館</a>、<a href="../Page/青森市文化会館.md" title="wikilink">青森市文化会館</a>、<a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a>、<a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール</a>、<a href="../Page/愛媛県県民文化会館.md" title="wikilink">愛媛県県民文化会館</a>、高松市立市民会館、<a href="../Page/徳島市立文化センター.md" title="wikilink">徳島市立文化センター</a>、<a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a>、<a href="../Page/長崎市公会堂.md" title="wikilink">長崎市公会堂</a>、<a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a>、宮崎市民プラザ、<a href="../Page/熊本市民会館.md" title="wikilink">熊本市民会館</a>、<a href="https://ja.wikipedia.org/wiki/京都会館" title="wikilink">京都会館</a>、<a href="https://ja.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県民ホール</a>、<a href="https://ja.wikipedia.org/wiki/四日市市文化会館" title="wikilink">四日市市文化会館</a>、<a href="../Page/名古屋市民会館.md" title="wikilink">名古屋市民会館</a>、<a href="../Page/岐阜市民会館.md" title="wikilink">岐阜市民会館</a>、<a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>、<a href="../Page/フェスティバルホール.md" title="wikilink">フェスティバルホール</a>、<a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>、<a href="../Page/NHKホール.md" title="wikilink">NHKホール</a></p></td>
+<td><p>練馬文化センター、<a href="../Page/フェニックス・プラザ.md" title="wikilink">福井フェニックスプラザ</a>、<a href="../Page/金沢歌劇座.md" title="wikilink">金沢市観光会館</a>、富山市公会堂、松本社会文化会館、<a href="../Page/長野県県民文化会館.md" title="wikilink">長野県県民文化会館</a>、<a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a>、<a href="https://ja.wikipedia.org/wiki/周南市文化会館" title="wikilink">徳山市文化会館</a>、<a href="../Page/広島県立文化芸術ホール.md" title="wikilink">広島郵便貯金会館</a>、<a href="../Page/岡山市民会館.md" title="wikilink">岡山市民会館</a>、<a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a>、<a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a>、<a href="../Page/山梨県立県民文化ホール.md" title="wikilink">山梨県立県民文化ホール</a>、<a href="../Page/群馬県民会館.md" title="wikilink">群馬県民会館</a>、<a href="../Page/宇都宮市文化会館.md" title="wikilink">宇都宮市文化会館</a>、<a href="https://ja.wikipedia.org/wiki/さいたま市文化センター" title="wikilink">浦和市文化センター</a>、<a href="../Page/千葉県文化会館.md" title="wikilink">千葉県文化会館</a>、<a href="../Page/茨城県立県民文化センター.md" title="wikilink">茨城県立県民文化センター</a>、<a href="../Page/さっぽろ芸術文化の館.md" title="wikilink">北海道厚生年金会館</a>、釧路市民文化会館、室蘭新日鉄ホール、<a href="../Page/岩手県民会館.md" title="wikilink">岩手県民会館</a>、<a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a>、<a href="../Page/宮城県民会館.md" title="wikilink">宮城県民会館</a>、<a href="../Page/秋田県民会館.md" title="wikilink">秋田県民会館</a>、<a href="../Page/青森市文化会館.md" title="wikilink">青森市文化会館</a>、<a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a>、<a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール</a>、<a href="../Page/愛媛県県民文化会館.md" title="wikilink">愛媛県県民文化会館</a>、高松市立市民会館、<a href="../Page/徳島市立文化センター.md" title="wikilink">徳島市立文化センター</a>、<a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a>、<a href="../Page/長崎市公会堂.md" title="wikilink">長崎市公会堂</a>、<a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a>、宮崎市民プラザ、<a href="../Page/熊本市民会館.md" title="wikilink">熊本市民会館</a>、<a href="https://ja.wikipedia.org/wiki/京都会館" title="wikilink">京都会館</a>、<a href="https://ja.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県民ホール</a>、<a href="https://ja.wikipedia.org/wiki/四日市市文化会館" title="wikilink">四日市市文化会館</a>、<a href="../Page/名古屋市民会館.md" title="wikilink">名古屋市民会館</a>、<a href="../Page/岐阜市民会館.md" title="wikilink">岐阜市民会館</a>、<a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>、<a href="../Page/フェスティバルホール.md" title="wikilink">フェスティバルホール</a>、<a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>、<a href="../Page/NHKホール.md" title="wikilink">NHKホール</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/1月8日.md" title="wikilink">1月8日</a>〜<a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>

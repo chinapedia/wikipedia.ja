@@ -100,7 +100,7 @@
 <td><p><strong>1983年</strong><br />
 4月3日</p></td>
 <td><p><a href="../Page/日暮裕一.md" title="wikilink">日暮裕一</a><br />
-<a href="https://ja.wikipedia.org/wiki/宮田雪" title="wikilink">宮田雪</a></p></td>
+<a href="../Page/宮田雪.md" title="wikilink">宮田雪</a></p></td>
 <td><p><a href="../Page/小澤啓一.md" title="wikilink">小澤啓一</a></p></td>
 <td><p><a href="../Page/根上淳.md" title="wikilink">根上淳</a>、<a href="../Page/内田勝正.md" title="wikilink">内田勝正</a>、<a href="https://ja.wikipedia.org/wiki/上原敏郎" title="wikilink">上原敏郎</a>、<a href="https://ja.wikipedia.org/wiki/辰馬伸" title="wikilink">辰馬伸</a>、<a href="https://ja.wikipedia.org/wiki/西朱実" title="wikilink">西朱実</a>、<a href="https://ja.wikipedia.org/wiki/稲田ゆみ子" title="wikilink">稲田ゆみ子</a>、<a href="../Page/麿のぼる.md" title="wikilink">麿のぼる</a>、<a href="https://ja.wikipedia.org/wiki/中山照康" title="wikilink">中山照康</a>、<a href="https://ja.wikipedia.org/wiki/近藤良介" title="wikilink">近藤良介</a>、<a href="https://ja.wikipedia.org/wiki/小西陽子" title="wikilink">小西陽子</a></p></td>
 <td><p>14.3%</p></td>

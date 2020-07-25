@@ -223,7 +223,7 @@
 
 <!-- end list -->
 
-  - **[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")**
+  - **[KAT-TUN](../Page/KAT-TUN.md "wikilink")**
       - 「[Real Face](../Page/Real_Face.md "wikilink")」（編曲）
       - 「[HEARTBREAK CLUB](https://ja.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")」（編曲）
       - 「[YOU](https://ja.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")」（編曲）

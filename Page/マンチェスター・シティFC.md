@@ -534,7 +534,7 @@
 
 <!-- end list -->
 
-  - [マリオ・バロテッリ](https://ja.wikipedia.org/wiki/マリオ・バロテッリ "wikilink") 2010-2013
+  - [マリオ・バロテッリ](../Page/マリオ・バロテッリ.md "wikilink") 2010-2013
 
   - [ヨン・グイデッティ](https://ja.wikipedia.org/wiki/ヨン・グイデッティ "wikilink") 2008-2015
 

@@ -32,7 +32,7 @@
 
   - [AYA (AV女優)](../Page/AYA_\(AV女優\).md "wikilink") - 2004年デビューのAV女優。
   - [福永あや](../Page/福永あや.md "wikilink") (AYA) - 2006年デビューのAV女優。
-  - [牧野田彩](https://ja.wikipedia.org/wiki/牧野田彩 "wikilink") (AYA) - 2009年デビューのAV女優。音楽ユニット[L☆IS](https://ja.wikipedia.org/wiki/L☆IS "wikilink")のメンバー。タレント。
+  - [牧野田彩](https://ja.wikipedia.org/wiki/牧野田彩 "wikilink") (AYA) - 2009年デビューのAV女優。音楽ユニット[L☆IS](../Page/L☆IS.md "wikilink")のメンバー。タレント。
 
 <!-- end list -->
 

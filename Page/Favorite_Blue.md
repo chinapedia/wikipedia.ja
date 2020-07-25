@@ -15,7 +15,7 @@
 
 ## メンバー
 
-  - **[木村貴志](https://ja.wikipedia.org/wiki/t-kimura "wikilink")**（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ） ギター、キーボード、作曲、編曲担当
+  - **[木村貴志](https://ja.wikipedia.org/wiki/t-kimura "wikilink")**（[1968年](../Page/1968年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ） ギター、キーボード、作曲、編曲担当
   - **[松崎麻矢](../Page/松崎麻矢.md "wikilink")**（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ） ヴォーカル、作詞担当
 
 ## ディスコグラフィー

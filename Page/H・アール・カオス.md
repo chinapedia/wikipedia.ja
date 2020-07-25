@@ -14,7 +14,7 @@
 ## 国内の主な受賞歴
 
   - 1993年 - [キリンコンテンポラリーアワード](https://ja.wikipedia.org/wiki/キリンアートプロジェクト "wikilink")
-  - 1996年 - 第27回[舞踊批評家協会](https://ja.wikipedia.org/wiki/舞踊批評家協会 "wikilink")賞新人賞、[日本バレエ協会](https://ja.wikipedia.org/wiki/日本バレエ協会 "wikilink")振付特別賞
+  - 1996年 - 第27回[舞踊批評家協会](https://ja.wikipedia.org/wiki/舞踊批評家協会 "wikilink")賞新人賞、[日本バレエ協会](../Page/日本バレエ協会.md "wikilink")振付特別賞
   - 1997年 - [村松賞](https://ja.wikipedia.org/wiki/村松賞 "wikilink")
   - 1998年 - 第29回舞踊批評家協会賞大賞
   - 2000年 - [千年文化芸術祭](https://ja.wikipedia.org/wiki/千年文化芸術祭 "wikilink") 優秀作品賞

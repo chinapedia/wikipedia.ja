@@ -112,7 +112,7 @@
 
   - [周防正行](../Page/周防正行.md "wikilink") （監督・脚本・原案）
   - [徳間康快](../Page/徳間康快.md "wikilink")（製作総指揮）
-  - 加藤博之、[漆戸靖治](https://ja.wikipedia.org/wiki/漆戸靖治 "wikilink")、大野茂、五十嵐一弘（製作者）
+  - 加藤博之、[漆戸靖治](../Page/漆戸靖治.md "wikilink")、大野茂、五十嵐一弘（製作者）
   - [池田哲也](https://ja.wikipedia.org/wiki/池田哲也 "wikilink")（チーフプロデューサー）
   - [桝井省志](../Page/桝井省志.md "wikilink") [小形雄二](https://ja.wikipedia.org/wiki/小形雄二 "wikilink") （プロデューサー）
   - [栢野直樹](https://ja.wikipedia.org/wiki/栢野直樹 "wikilink") （撮影）

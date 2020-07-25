@@ -1,7 +1,7 @@
 > この記事は[激闘!クラッシュギアTURBO](https://ja.wikipedia.org/wiki/激闘!クラッシュギアTURBO)から翻訳されています。
 
 
-『**激闘\!クラッシュギアTURBO**』（げきとう クラッシュギアターボ）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されたバトル玩具『[クラッシュギア](../Page/クラッシュギア.md "wikilink")』をモチーフとした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2001年](../Page/2001年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")まで[名古屋テレビ発](../Page/名古屋テレビ放送.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列局で放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。全68話。
+『**激闘\!クラッシュギアTURBO**』（げきとう クラッシュギアターボ）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されたバトル玩具『[クラッシュギア](../Page/クラッシュギア.md "wikilink")』をモチーフとした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2001年](../Page/2001年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")まで[名古屋テレビ発](../Page/名古屋テレビ放送.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列局で放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。全68話。
 
 一部では"TURBO"を"T（ターボ）"と表記することがある。また、後継番組として『[クラッシュギアNitro](../Page/クラッシュギアNitro.md "wikilink")』がある。
 
@@ -1919,7 +1919,7 @@
   - CGプロデューサー - [今西隆志](../Page/今西隆志.md "wikilink")
   - 編集 - 野尻由紀子
   - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
-  - 音楽 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")、[河野陽吾](../Page/河野陽吾.md "wikilink")
+  - 音楽 - [須藤賢一](../Page/須藤賢一.md "wikilink")、[河野陽吾](../Page/河野陽吾.md "wikilink")
   - 音楽プロデューサー - [井上俊次](../Page/井上俊次.md "wikilink")
   - 音楽制作 - [ランティス](../Page/ランティス.md "wikilink")
   - プロデューサー - 原口淳、本名洋一、[古里尚丈](../Page/古里尚丈.md "wikilink")
@@ -2618,7 +2618,7 @@
 <td><p>輝け!熱きギア魂!</p></td>
 <td><p>菱田正和</p></td>
 <td><p>戸部敦夫</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td></td>
 <td></td>
 </tr>

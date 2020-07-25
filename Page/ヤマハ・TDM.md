@@ -13,7 +13,7 @@
 #### 初期型
 
   - 形式:3VD（国内仕様は4EP）
-  - エンジンは同社のビッグオフローダーモデル「[XTZ750スーパーテネレ](https://ja.wikipedia.org/wiki/ヤマハ・XTZ750スーパーテネレ "wikilink")」の[水冷](../Page/水冷エンジン.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[5バルブ](https://ja.wikipedia.org/wiki/5バルブエンジン "wikilink")[並列2気筒の排気量を](../Page/直列2気筒.md "wikilink")850[ccに拡大](https://ja.wikipedia.org/wiki/立方メートル#分量・倍量単位 "wikilink")。
+  - エンジンは同社のビッグオフローダーモデル「[XTZ750スーパーテネレ](../Page/ヤマハ・XTZ750スーパーテネレ.md "wikilink")」の[水冷](../Page/水冷エンジン.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[5バルブ](https://ja.wikipedia.org/wiki/5バルブエンジン "wikilink")[並列2気筒の排気量を](../Page/直列2気筒.md "wikilink")850[ccに拡大](https://ja.wikipedia.org/wiki/立方メートル#分量・倍量単位 "wikilink")。
   - フレームはスチールながら高剛性のデルタボックス構造を持つ。外見はオフロードモデルに類似しているが、車体構成は純粋なオンロードモデルである。
   - 翌[1992年](../Page/1992年.md "wikilink")2月より日本国内でも販売が開始された。
   - このモデルについて、[エイリアン (映画)等で有名な](../Page/エイリアン_\(映画\).md "wikilink")[H・R・ギーガー](../Page/H・R・ギーガー.md "wikilink")によるデザインとの噂があるが、「ギーガーは関わっていない」とヤマハによって否定されている。（出典　別冊モーターサイクリスト1998年6月号追跡シリーズでのオーナー質疑にて）

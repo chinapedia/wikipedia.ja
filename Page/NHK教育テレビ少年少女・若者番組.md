@@ -230,7 +230,7 @@ hello,</a></p></td>
 | [バビブベボディ](https://ja.wikipedia.org/wiki/バビブベボディ "wikilink")           | 土曜10:30 - 10:40 |
 | [ごちそんぐDJ](https://ja.wikipedia.org/wiki/DJみそしるとMCごはん "wikilink")      | 土曜10:40 - 10:45 |
 | [ざんねんないきもの事典](https://ja.wikipedia.org/wiki/ざんねんないきもの事典 "wikilink")   | 土曜10:45 - 10:50 |
-| [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink")           | 土曜10:50 - 11:00 |
+| [リトル・チャロ](../Page/リトル・チャロ.md "wikilink")                              | 土曜10:50 - 11:00 |
 | [サイエンスZERO](../Page/サイエンスZERO.md "wikilink")                          | 土曜11:00 - 11:30 |
 | [いじめをノックアウト](https://ja.wikipedia.org/wiki/いじめをノックアウト "wikilink")     | 土曜11:30 - 11:40 |
 
@@ -922,7 +922,7 @@ NHK短期ドラマ
 <!-- end list -->
 
   - [しばわんこの和のこころ](../Page/しばわんこの和のこころ.md "wikilink")
-  - [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink")
+  - [リトル・チャロ](../Page/リトル・チャロ.md "wikilink")
   - [マリー&ガリー](https://ja.wikipedia.org/wiki/マリー&ガリー "wikilink")
   - [リトル・チャロ2](https://ja.wikipedia.org/wiki/リトル・チャロ2 "wikilink")
   - [Minuscule ミニスキュル 〜小さなムシの物語〜](https://ja.wikipedia.org/wiki/Minuscule_ミニスキュル_〜小さなムシの物語〜 "wikilink")
@@ -1058,7 +1058,7 @@ NHK短期ドラマ
   - [どようこどもSP](https://ja.wikipedia.org/wiki/どようこどもSP "wikilink")
   - [子供の時間](https://ja.wikipedia.org/wiki/子供の時間_\(NHKテレビ番組\) "wikilink")
   - [Eテレキッズ](https://ja.wikipedia.org/wiki/Eテレキッズ "wikilink")
-  - [EYES](https://ja.wikipedia.org/wiki/EYES_\(NHK\) "wikilink")
+  - [EYES](../Page/EYES_\(NHK\).md "wikilink")
   - [23時のNHK](../Page/23時のNHK.md "wikilink")
 
 ## 外部リンク

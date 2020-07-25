@@ -1,7 +1,7 @@
 > この記事は[ナイトinナイト](https://ja.wikipedia.org/wiki/ナイトinナイト)から翻訳されています。
 
 
-**ナイトinナイト**（ナイト イン ナイト、[英語](../Page/英語.md "wikilink")表記：*Knight in Night*）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")から、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")\[1\]で、毎週[月](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")の深夜（[JST](../Page/日本標準時.md "wikilink")）に放送している[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")放送枠の総称。2019年10月からは23時17分 - 翌0時17分に放送している。
+**ナイトinナイト**（ナイト イン ナイト、[英語](../Page/英語.md "wikilink")表記：*Knight in Night*）は、[1986年](../Page/1986年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")から、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")\[1\]で、毎週[月](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")の深夜（[JST](../Page/日本標準時.md "wikilink")）に放送している[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")放送枠の総称。2019年10月からは23時17分 - 翌0時17分に放送している。
 
 同時刻にキー局[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている「[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")」枠は、朝日放送テレビでは時差ネットとなっている。
 
@@ -63,7 +63,7 @@
       - 2016年3月までは日曜枠（『ナイトinナイト』枠外）に放送。4月から月曜枠に移動。
   - 火曜日『[相席食堂](https://ja.wikipedia.org/wiki/相席食堂 "wikilink")』（2019年4月 - ） - 出演:[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")（[大悟](https://ja.wikipedia.org/wiki/大悟_\(お笑い芸人\) "wikilink")・[ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")）ほか
       - 2018年4月から2019年3月までは日曜枠（『ナイトinナイト』枠外）に放送。4月から火曜枠に移動。
-  - 水曜日『[今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』（2008年4月 - ） - 出演:[今田耕司](../Page/今田耕司.md "wikilink")・[月亭八方](../Page/月亭八方.md "wikilink")ほか
+  - 水曜日『[今ちゃんの「実は…」](../Page/今ちゃんの「実は…」.md "wikilink")』（2008年4月 - ） - 出演:[今田耕司](../Page/今田耕司.md "wikilink")・[月亭八方](../Page/月亭八方.md "wikilink")ほか
   - 木曜日『[やすとものいたって真剣です](../Page/やすとものいたって真剣です.md "wikilink")』（2020年4月 - ） - 出演:[海原やすよ・ともこ](../Page/海原やすよ・ともこ.md "wikilink")ほか
       - 2019年10月から2020年3月まで日曜枠（『ナイトinナイト』枠外）で放送されていた『[やすともの恋愛島](https://ja.wikipedia.org/wiki/やすともの恋愛島 "wikilink")』を発展させたもの。
   - 金曜日 『[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")』（1988年3月 - ） - 出演:[松本人志](../Page/松本人志.md "wikilink")・[増田紗織](https://ja.wikipedia.org/wiki/増田紗織 "wikilink")ほか

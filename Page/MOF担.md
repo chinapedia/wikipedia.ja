@@ -5,7 +5,7 @@
 
 ## 概要
 
-当時の担当者の目的は、官僚と懇意になって金融検査の検査日などを聞き出したり、新しいプロジェクトなどへの[根回し](https://ja.wikipedia.org/wiki/根回し "wikilink")であったが、次第に便宜供与や[接待](../Page/接待.md "wikilink")の規模や内容のレベルが深刻化し、[ノーパンしゃぶしゃぶ](https://ja.wikipedia.org/wiki/ノーパンしゃぶしゃぶ "wikilink")店での接待が報道されると[世論](../Page/世論.md "wikilink")の批判が殺到し[社会問題](../Page/社会問題.md "wikilink")化した\[1\]。1998年には[大蔵省接待汚職事件](https://ja.wikipedia.org/wiki/大蔵省接待汚職事件 "wikilink")で[逮捕](../Page/逮捕.md "wikilink")者を出すまでに発展、[国家公務員倫理法](../Page/国家公務員倫理法.md "wikilink")の制定へとつながった。
+当時の担当者の目的は、官僚と懇意になって金融検査の検査日などを聞き出したり、新しいプロジェクトなどへの[根回し](https://ja.wikipedia.org/wiki/根回し "wikilink")であったが、次第に便宜供与や[接待](../Page/接待.md "wikilink")の規模や内容のレベルが深刻化し、[ノーパンしゃぶしゃぶ](../Page/ノーパンしゃぶしゃぶ.md "wikilink")店での接待が報道されると[世論](../Page/世論.md "wikilink")の批判が殺到し[社会問題](../Page/社会問題.md "wikilink")化した\[1\]。1998年には[大蔵省接待汚職事件](https://ja.wikipedia.org/wiki/大蔵省接待汚職事件 "wikilink")で[逮捕](../Page/逮捕.md "wikilink")者を出すまでに発展、[国家公務員倫理法](../Page/国家公務員倫理法.md "wikilink")の制定へとつながった。
 
 上記の反省点も要因の一つとなり、大蔵省への過度の権力集中を是正すべく[2001年](../Page/2001年.md "wikilink")の[中央省庁再編](../Page/中央省庁再編.md "wikilink")に先立ち金融行政の管轄が金融監督庁（現：[金融庁](../Page/金融庁.md "wikilink")）へ分離された。それに伴いこの俗称は廃止されたが、同様の仕事自体は金融庁に対して[FSA担](https://ja.wikipedia.org/wiki/FSA担 "wikilink")（**F**inancial **S**ervices **A**gency）と呼ばれ現存するという。また、[日本銀行](https://ja.wikipedia.org/wiki/日本銀行 "wikilink")に対しては[BOJ担](https://ja.wikipedia.org/wiki/BOJ担 "wikilink")（**B**ank **O**f **J**apan）と呼ばれる。
 

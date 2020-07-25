@@ -103,7 +103,7 @@
 
 [1996年](../Page/1996年.md "wikilink")2月、11thシングル『[WORST CRIME 〜About a rock star who was a swindler〜/Blind To My Heart](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")』を発表後、長戸が求めるWANDSのスタイルと音楽性との違いを理由に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")初頭に上杉昇と柴崎浩が脱退（後に2人は**[al.ni.co](https://ja.wikipedia.org/wiki/al.ni.co "wikilink")**を結成）し、活動を休止。ビーイングが「WANDS」の名前を商標登録していたため、残った木村真也は2代目ボーカルに和久二郎、ギターに杉元一生を迎え、第3期WANDSとして活動を再開する。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、当時デビュー直後であった[小松未歩](../Page/小松未歩.md "wikilink")の楽曲提供により、12thシングル『[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")』を発表。その後も[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")や[GARNET CROWとしてデビューする前の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")からの楽曲提供を受け、シングル4枚、オリジナルアルバム1枚を発表したが、[2000年](../Page/2000年.md "wikilink")3月に公式サイト上で「解体」（解散）を表明した。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、当時デビュー直後であった[小松未歩](../Page/小松未歩.md "wikilink")の楽曲提供により、12thシングル『[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")』を発表。その後も[ZARD](../Page/ZARD.md "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")や[GARNET CROWとしてデビューする前の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")からの楽曲提供を受け、シングル4枚、オリジナルアルバム1枚を発表したが、[2000年](../Page/2000年.md "wikilink")3月に公式サイト上で「解体」（解散）を表明した。
 
 ### 解体後（2000年 - 2019年）
 
@@ -517,7 +517,7 @@
 <tr class="even">
 <td><p>1993年<a href="../Page/6月9日.md" title="wikilink">6月9日</a></p></td>
 <td><p><strong><a href="../Page/果てしない夢を.md" title="wikilink">果てしない夢を</a></strong></p></td>
-<td><p><a href="../Page/ZYYG.md" title="wikilink">ZYYG</a>, <a href="../Page/出口雅之.md" title="wikilink">REV</a>, <a href="https://ja.wikipedia.org/wiki/ZARD" title="wikilink">ZARD</a><br />
+<td><p><a href="../Page/ZYYG.md" title="wikilink">ZYYG</a>, <a href="../Page/出口雅之.md" title="wikilink">REV</a>, <a href="../Page/ZARD.md" title="wikilink">ZARD</a><br />
 &amp; WANDS featuring <a href="../Page/長嶋茂雄.md" title="wikilink">長嶋茂雄</a></p></td>
 <td><p>8cm CD</p></td>
 <td><p>ZADL-1007</p></td>
@@ -788,7 +788,7 @@ Jumpin' Jack Boy</p></td>
   - [中山美穂](../Page/中山美穂.md "wikilink")
   - [ZYYG](../Page/ZYYG.md "wikilink")
   - [出口雅之](../Page/出口雅之.md "wikilink")（REV）
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [川島だりあ](../Page/川島だりあ.md "wikilink")
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")
 

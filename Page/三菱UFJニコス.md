@@ -47,7 +47,7 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 
 ### 株式会社UFJカード
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [東海銀行](../Page/東海銀行.md "wikilink")（現:[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）系のクレジットカード会社として「株式会社ミリオンカード・サービス」（mc）設立。
+  - [1968年](../Page/1968年.md "wikilink") - [東海銀行](../Page/東海銀行.md "wikilink")（現:[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）系のクレジットカード会社として「株式会社ミリオンカード・サービス」（mc）設立。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 三和銀行、JCBのフランチャイジーとして「株式会社三和カードサービス」を設立。
   - [2000年](../Page/2000年.md "wikilink") - 株式会社三和カードサービスが[東洋カードサービス株式会社と株式会社](../Page/東洋信託銀行.md "wikilink")[大同生命](https://ja.wikipedia.org/wiki/大同生命 "wikilink")カードサービスを合併。商号を「株式会社[フィナンシャルワン](../Page/フィナンシャルワン.md "wikilink")カード」に変更。
   - [2002年](../Page/2002年.md "wikilink")1月15日 - [UFJ銀行](../Page/UFJ銀行.md "wikilink")発足と合わせて、株式会社ミリオンカード・サービスが株式会社フィナンシャルワンカードを合併し、株式会社UFJカード（登記上は株式会社ユーエフジェイカード）に商号変更。ブランド名をミリオンカードから、[UFJカード](../Page/UFJカード.md "wikilink")に変更。
@@ -243,7 +243,7 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
     [山崎一](../Page/山崎一.md "wikilink")
     2011年11月より出演。
   - [松坂桃李](https://ja.wikipedia.org/wiki/松坂桃李 "wikilink")
-    [小島藤子](https://ja.wikipedia.org/wiki/小島藤子 "wikilink")
+    [小島藤子](../Page/小島藤子.md "wikilink")
     MUFGカードゴールド、2012年7月7日から。
 
 ※**以下は過去の出演者**※

@@ -20,7 +20,7 @@
   - [S.E.S.](../Page/S.E.S..md "wikilink")（金曜）
   - [LFクールK](../Page/垣花正.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")・垣花正アナウンサー）
   - [春日由実](https://ja.wikipedia.org/wiki/春日由実 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")アナウンサー）
-  - [桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")アナウンサー）
+  - [桜井堅一朗](../Page/桜井堅一朗.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")アナウンサー）
 
 ## 主なコーナー
 
@@ -86,7 +86,7 @@
 #### 東京ジョイポリス
 
   - ジョークボックス
-    テーマパーク「[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")」から中継（木曜日）。[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")アナ（当時）が中継担当しジョイポリスに集まった人に[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")を披露してもらうコーナー。[早川伸吾](../Page/早川伸吾.md "wikilink")や[末高斗夢らが出演していた](../Page/三遊亭とむ.md "wikilink")。ちなみに桜井は、その後『[DAIBAクシン\!\!cheki b.](../Page/DAIBAクシン!!cheki_b..md "wikilink")』にて[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")とともに司会を務めることになる。
+    テーマパーク「[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")」から中継（木曜日）。[桜井堅一朗](../Page/桜井堅一朗.md "wikilink")アナ（当時）が中継担当しジョイポリスに集まった人に[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")を披露してもらうコーナー。[早川伸吾](../Page/早川伸吾.md "wikilink")や[末高斗夢らが出演していた](../Page/三遊亭とむ.md "wikilink")。ちなみに桜井は、その後『[DAIBAクシン\!\!cheki b.](../Page/DAIBAクシン!!cheki_b..md "wikilink")』にて[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")とともに司会を務めることになる。
 
 ## 放送内容
 

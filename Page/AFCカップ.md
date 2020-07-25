@@ -79,7 +79,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2009" title="wikilink">2009</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・クウェートSC" title="wikilink">アル・クウェート</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・クウェートSC.md" title="wikilink">アル・クウェート</a></strong></p></td>
 <td><p>(H)<strong>2 - 1</strong></p></td>
 </tr>
 <tr class="even">
@@ -95,12 +95,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2012" title="wikilink">2012</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・クウェートSC" title="wikilink">アル・クウェート</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・クウェートSC.md" title="wikilink">アル・クウェート</a></strong></p></td>
 <td><p>(A)<strong>4 - 0</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCカップ2013" title="wikilink">2013</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・クウェートSC" title="wikilink">アル・クウェート</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・クウェートSC.md" title="wikilink">アル・クウェート</a></strong></p></td>
 <td><p>(A)<strong>2 - 0</strong></p></td>
 </tr>
 <tr class="even">
@@ -160,7 +160,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・クウェートSC" title="wikilink">アル・クウェート</a></p></td>
+<td><p><a href="../Page/アル・クウェートSC.md" title="wikilink">アル・クウェート</a></p></td>
 <td><p><strong>3</strong></p></td>
 <td><p>1</p></td>
 <td><p>2009,2012,2013</p></td>

@@ -2,7 +2,7 @@
 
 
 {{ Infobox 航空機 | 名称 = F8F ベアキャット | 画像 = <File:Ray> Wagner Collection Image (16342418702).jpg | キャプション = 飛行するF8F-1 95280号機
-([空母ボクサーVF](../Page/ボクサー_\(空母\).md "wikilink")-5A所属、[1947年](../Page/1947年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者 = [ウィリアム・トーマス・シュウェンドラー](https://ja.wikipedia.org/wiki/:en:William_T._Schwendler "wikilink")、[ロバート・L・ホール](https://ja.wikipedia.org/wiki/:en:Robert_Hall_\(aircraft_designer\) "wikilink") | 製造者 = [グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 = | 運用者 more =
+([空母ボクサーVF](../Page/ボクサー_\(空母\).md "wikilink")-5A所属、[1947年](../Page/1947年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = [艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者 = [ウィリアム・トーマス・シュウェンドラー](https://ja.wikipedia.org/wiki/:en:William_T._Schwendler "wikilink")、[ロバート・L・ホール](https://ja.wikipedia.org/wiki/:en:Robert_Hall_\(aircraft_designer\) "wikilink") | 製造者 = [グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 = | 運用者 more =
 \*\*
 
   -   - [Emblem_of_the_United_States_Navy.png](https://ja.wikipedia.org/wiki/File:Emblem_of_the_United_States_Navy.png "fig:Emblem_of_the_United_States_Navy.png") [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")
@@ -19,9 +19,9 @@
 
 | 運用状況=退役 | ユニットコスト= }}
 
-**F8F ベアキャット**（*Grumman F8F Bearcat* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、第二次大戦後に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+**F8F ベアキャット**（*Grumman F8F Bearcat* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、第二次大戦後に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
-愛称の「**ベアキャット** (Bearcat)」は、[ビントロング](../Page/ビントロング.md "wikilink")の別名であり、勇敢な闘士という意味もある。小型軽量化及び徹底的に洗練された空力構造、高い防弾性能をもつ機体に大出力のエンジンを搭載し、[陸軍航空隊の](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")[P-51マスタングと並び](../Page/P-51_\(航空機\).md "wikilink")、最強の[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")戦闘機、また最強のレシプロ艦上戦闘機と評される事もある。
+愛称の「**ベアキャット** (Bearcat)」は、[ビントロング](../Page/ビントロング.md "wikilink")の別名であり、勇敢な闘士という意味もある。小型軽量化及び徹底的に洗練された空力構造、高い防弾性能をもつ機体に大出力のエンジンを搭載し、[陸軍航空隊の](../Page/アメリカ陸軍航空隊.md "wikilink")[P-51マスタングと並び](../Page/P-51_\(航空機\).md "wikilink")、最強の[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")戦闘機、また最強のレシプロ艦上戦闘機と評される事もある。
 
 ## 概要
 

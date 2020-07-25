@@ -87,7 +87,7 @@
 
 ### 麻雀
 
-  - [モンド麻雀プロリーグ](https://ja.wikipedia.org/wiki/モンド麻雀プロリーグ "wikilink")（2010年11月 - ）
+  - [モンド麻雀プロリーグ](../Page/モンド麻雀プロリーグ.md "wikilink")（2010年11月 - ）
       - 女流モンド杯
       - モンド杯
       - 名人戦
@@ -107,7 +107,7 @@
 
 #### パチスロ
 
-  - [パチスロ常勝理論\!](https://ja.wikipedia.org/wiki/パチスロ常勝理論! "wikilink")
+  - [パチスロ常勝理論\!](../Page/パチスロ常勝理論!.md "wikilink")
   - [吼えろ\!パチスロリーグ](https://ja.wikipedia.org/wiki/パチスロリーグ#吼えろ!パチスロリーグ "wikilink")
 
 ### Vシネマ

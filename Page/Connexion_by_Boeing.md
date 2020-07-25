@@ -7,7 +7,7 @@
 
 機体に取り付けられたアンテナによる衛星回線もしくは地上回線との接続を介し、機内に[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")[タブレット端末](https://ja.wikipedia.org/wiki/タブレット端末 "wikilink")を持ち込んでネットを閲覧することができるというもの。通信速度も[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")もしくは[ＩＳＤＮ](https://ja.wikipedia.org/wiki/ＩＳＤＮ "wikilink")並だという。
 
-[日本航空](../Page/日本航空.md "wikilink")、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[ルフトハンザドイツ航空](../Page/ルフトハンザドイツ航空.md "wikilink")、[シンガポール航空](../Page/シンガポール航空.md "wikilink")、[スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink")、などが導入・サービス提供をしていた。しかし、ビジネスの要である米大手航空会社が採用しなかったこともあり、2006年までの利用は予想を下回り、ボーイングは「Connexion By Boeing」の業務拡大を停止するとともに、同事業の売却を検討していることを明らかにした。結局売却も行わず、2006年12月29日をもってサービスを終了した。その後、独自システムで同種のサービスを安価に提供できるとする競合会社[1](http://www.aircell.com)\[[http://www.row44.com\]が、2008年より](http://www.row44.com%5Dが、2008年より)[アメリカン航空](../Page/アメリカン航空.md "wikilink")などで機内インターネットのサービスを始めている[2](http://www.aviatn.com/2009/09/-vol-391.html)。
+[日本航空](../Page/日本航空.md "wikilink")、[全日本空輸](../Page/全日本空輸.md "wikilink")、[ルフトハンザドイツ航空](../Page/ルフトハンザドイツ航空.md "wikilink")、[シンガポール航空](../Page/シンガポール航空.md "wikilink")、[スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink")、などが導入・サービス提供をしていた。しかし、ビジネスの要である米大手航空会社が採用しなかったこともあり、2006年までの利用は予想を下回り、ボーイングは「Connexion By Boeing」の業務拡大を停止するとともに、同事業の売却を検討していることを明らかにした。結局売却も行わず、2006年12月29日をもってサービスを終了した。その後、独自システムで同種のサービスを安価に提供できるとする競合会社[1](http://www.aircell.com)\[[http://www.row44.com\]が、2008年より](http://www.row44.com%5Dが、2008年より)[アメリカン航空](../Page/アメリカン航空.md "wikilink")などで機内インターネットのサービスを始めている[2](http://www.aviatn.com/2009/09/-vol-391.html)。
 
 ## 料金
 
@@ -37,7 +37,7 @@
   - 成田⇔[ニューヨーク](../Page/ニューヨーク.md "wikilink")（[JFK](../Page/ジョン・F・ケネディ国際空港.md "wikilink")）
   - 成田⇔[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
 
-**ANA（[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")）** サービス名：[ANA@Air](http://www.ana.co.jp/int_svc/promotion/cbb/index.html)
+**ANA（[全日本空輸](../Page/全日本空輸.md "wikilink")）** サービス名：[ANA@Air](http://www.ana.co.jp/int_svc/promotion/cbb/index.html)
 
   - [成田](../Page/成田国際空港.md "wikilink")⇔[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")（一部の便でのサービス）
   - 成田⇔[ニューヨーク](../Page/ニューヨーク.md "wikilink")

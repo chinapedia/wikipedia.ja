@@ -94,7 +94,7 @@ OVA『[フリクリ](../Page/フリクリ.md "wikilink")』には『DAICON IV』
 
 ## 関連項目
 
-  - [アオイホノオ](https://ja.wikipedia.org/wiki/アオイホノオ "wikilink") - [島本和彦](../Page/島本和彦.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/日本の漫画 "wikilink")。島本はDAICON FILMのメンバーと同時期に[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")に在籍しており、当時の様子が自伝的に描かれている。DAICON FILMのメンバーが集まりアニメを制作する過程も、主人公（および当時の島本本人）は直接関わっていないながら、大きく扱われている。
+  - [アオイホノオ](../Page/アオイホノオ.md "wikilink") - [島本和彦](../Page/島本和彦.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/日本の漫画 "wikilink")。島本はDAICON FILMのメンバーと同時期に[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")に在籍しており、当時の様子が自伝的に描かれている。DAICON FILMのメンバーが集まりアニメを制作する過程も、主人公（および当時の島本本人）は直接関わっていないながら、大きく扱われている。
   - [近畿大学SF研究会](https://ja.wikipedia.org/wiki/近畿大学SF研究会 "wikilink") - DAICONIII,DAICONIV,DAICON6の開催に携わる。
   - [スタジオ・アオーク](https://ja.wikipedia.org/wiki/シベール_\(同人誌\)#シベール・メンバーのその後 "wikilink") - 『DAICON III OPENING ANIMATION』に触発されて結成された[同人サークル](../Page/同人サークル.md "wikilink")。[あさりよしとお](../Page/あさりよしとお.md "wikilink")、[森野うさぎ](https://ja.wikipedia.org/wiki/森野うさぎ "wikilink")、[豊島ゆーさく](https://ja.wikipedia.org/wiki/豊島ゆーさく "wikilink")などの漫画家が集まって複数の短編アニメーションを自主制作した。代表作に『AWAKE』『[魔法のルージュ りっぷ☆すてぃっく](../Page/魔法のルージュ_りっぷ☆すてぃっく.md "wikilink")』などがある。
 

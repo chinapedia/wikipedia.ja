@@ -11,7 +11,7 @@ UMKは『[さんさんサタデー](../Page/さんさんサタデー.md "wikilin
 
 ## 番組の特色
 
-この番組は、司会者たちもリポーターとして加わり、県内の様々な[ロケに出向くのが特徴](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。彼らリポーター陣、そして取材を受けた県民の人たちが起こすハプニングにより、様々なNG場面・名場面・珍場面を残している。
+この番組は、司会者たちもリポーターとして加わり、県内の様々な[ロケに出向くのが特徴](../Page/ロケーション撮影.md "wikilink")。彼らリポーター陣、そして取材を受けた県民の人たちが起こすハプニングにより、様々なNG場面・名場面・珍場面を残している。
 
 [FNN](../Page/フジニュースネットワーク.md "wikilink")・[FNSの](../Page/フジネットワーク.md "wikilink")『[がんばった大賞](https://ja.wikipedia.org/wiki/がんばった大賞 "wikilink")』、[NNNの](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[ニュースの女王決定戦](../Page/ニュースの女王決定戦.md "wikilink")』、[ANNの](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[おもしろニュースグランプリ](https://ja.wikipedia.org/wiki/おもしろニュースグランプリ "wikilink")』などで紹介されるテレビ宮崎のNG集のほとんどがこの番組からのものである。
 

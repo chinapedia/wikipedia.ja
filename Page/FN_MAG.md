@@ -9,7 +9,7 @@
 
 運用思想としては、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")製[MG34](https://ja.wikipedia.org/wiki/ラインメタル/マウザー・ヴェルケMG34機関銃 "wikilink")/[MG42によって証明された](../Page/グロスフスMG42機関銃.md "wikilink")[汎用機関銃](../Page/汎用機関銃.md "wikilink")の有効性を受け継ぐものである。
 
-FN MAGのメカニズムは、[ブローニング BARのロッキング機構を基礎としたが](../Page/ブローニングM1918自動小銃.md "wikilink")、[ベルト給弾機構とロッキング](https://ja.wikipedia.org/wiki/弾帯 "wikilink")・ボルト機構との組み合わせはMG42が参考にされた。また、引き金まわりの機構や、[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")を多用することにより生産性を向上している点も、MG42の影響を受けている。ただし、[NATOはベルトリンクも規格化したので](../Page/北大西洋条約機構.md "wikilink")、正確にはMG42と同じものではない（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に再設計された[MG3がMG](../Page/ラインメタルMG3.md "wikilink")42の直系）。
+FN MAGのメカニズムは、[ブローニング BARのロッキング機構を基礎としたが](../Page/ブローニングM1918自動小銃.md "wikilink")、[ベルト給弾機構とロッキング](https://ja.wikipedia.org/wiki/弾帯 "wikilink")・ボルト機構との組み合わせはMG42が参考にされた。また、引き金まわりの機構や、[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")を多用することにより生産性を向上している点も、MG42の影響を受けている。ただし、[NATOはベルトリンクも規格化したので](../Page/北大西洋条約機構.md "wikilink")、正確にはMG42と同じものではない（[1968年](../Page/1968年.md "wikilink")に再設計された[MG3がMG](../Page/ラインメタルMG3.md "wikilink")42の直系）。
 
 FN MAGは、全ての状況下において非常に信頼できる[機関銃](../Page/機関銃.md "wikilink")であることが判明した。[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")におけるテストでは、動作不良（部品故障含む）の頻度は26,000発に1回というもので、弾詰まりによる射撃停止はさらにそれよりも低かった。
 

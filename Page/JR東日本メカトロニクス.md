@@ -18,7 +18,7 @@
 ## 沿革
 
   - [1967年](../Page/1967年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 東北交通機械　営業開始
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")4月 - 日本交通機械・新潟交通機械　営業開始
+  - [1968年](../Page/1968年.md "wikilink")4月 - 日本交通機械・新潟交通機械　営業開始
   - [1992年](../Page/1992年.md "wikilink")
       - 4月 - ジェイアール東日本メカトロニクス　発足
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 6営業所（東京・横浜・八王子・上野・大宮・千葉）体制で営業開始

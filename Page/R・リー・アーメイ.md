@@ -13,7 +13,7 @@
 
 後年に過酷な新兵訓練の場面を演じたアーメイだが、軍人上がりの父親による軍隊式の躾の方が現実の軍隊での訓練より厳しかったため、訓練課程は苦にならなかったという\[7\]。[1965年](../Page/1965年.md "wikilink")から[1967年](../Page/1967年.md "wikilink")までの2年間、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")の海兵隊サンディエゴ新兵訓練所 (MCRD San Diego) で、DI（ドリル・インストラクター、教練指導官）として勤務。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[第17海兵航空支援群に配属され](https://ja.wikipedia.org/wiki/:en:Marine_Wing_Support_Group_17 "wikilink")[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に従軍。[普天間飛行場](../Page/普天間飛行場.md "wikilink")でも2度ほど勤務する。この間何度も負傷し、[1972年](../Page/1972年.md "wikilink")に二等軍曹（[Staff Sergeant](https://ja.wikipedia.org/wiki/:en:Staff_sergeant#U.S._Marine_Corps "wikilink")）で[名誉除隊](../Page/名誉除隊.md "wikilink")。しかし、負傷は戦闘によるものではないという事で[パープルハート章](../Page/パープルハート章.md "wikilink")は授与されなかった。
+[1968年](../Page/1968年.md "wikilink")、[第17海兵航空支援群に配属され](https://ja.wikipedia.org/wiki/:en:Marine_Wing_Support_Group_17 "wikilink")[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")に従軍。[普天間飛行場](../Page/普天間飛行場.md "wikilink")でも2度ほど勤務する。この間何度も負傷し、[1972年](../Page/1972年.md "wikilink")に二等軍曹（[Staff Sergeant](https://ja.wikipedia.org/wiki/:en:Staff_sergeant#U.S._Marine_Corps "wikilink")）で[名誉除隊](../Page/名誉除隊.md "wikilink")。しかし、負傷は戦闘によるものではないという事で[パープルハート章](../Page/パープルハート章.md "wikilink")は授与されなかった。
 
 退役後もPTSD（[心的外傷後ストレス障害](https://ja.wikipedia.org/wiki/心的外傷後ストレス障害 "wikilink")）とみられる戦闘経験の悪夢と闘っていた。かつて赴任した沖縄に4年ほど滞在し、いくつかのパブを経営するが、売却して[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")に移住する\[8\]。
 
@@ -463,7 +463,7 @@
 
 ### テレビアニメ
 
-  - [ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink") - *The Simpsons*（1995年、2015年）
+  - [ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink") - *The Simpsons*（1995年、2015年）
   - [ファミリー・ガイ](../Page/ファミリー・ガイ.md "wikilink") - *Family Guy*（2001年）
   - [インベーダー・ジム](../Page/インベーダー・ジム.md "wikilink") - *Invader ZIM*（2002年）
   - [学園パトロール フィルモア](../Page/学園パトロール_フィルモア.md "wikilink") - *Fillmore\!*（2002年）

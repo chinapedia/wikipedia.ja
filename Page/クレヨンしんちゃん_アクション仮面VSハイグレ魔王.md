@@ -116,7 +116,7 @@
   - [しんのすけ](../Page/野原しんのすけ.md "wikilink") - [矢島晶子](../Page/矢島晶子.md "wikilink")
   - [みさえ](../Page/野原みさえ.md "wikilink") - [ならはしみき](../Page/ならはしみき.md "wikilink")
   - [ひろし](../Page/野原ひろし.md "wikilink") - [藤原啓治](../Page/藤原啓治.md "wikilink")
-  - 風間くん、[シロ](https://ja.wikipedia.org/wiki/シロ_\(クレヨンしんちゃん\) "wikilink") - [真柴摩利](../Page/真柴摩利.md "wikilink")
+  - 風間くん、[シロ](../Page/シロ_\(クレヨンしんちゃん\).md "wikilink") - [真柴摩利](../Page/真柴摩利.md "wikilink")
   - ネネちゃん - [林玉緒](../Page/林玉緒.md "wikilink")
   - マサオくん - [鈴木みえ](../Page/一龍斎貞友.md "wikilink")
   - ボーちゃん - [佐藤智恵](../Page/佐藤智恵.md "wikilink")

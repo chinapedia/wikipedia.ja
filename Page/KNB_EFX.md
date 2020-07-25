@@ -371,7 +371,7 @@
   - [トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")
   - [プラネット・テラー in グラインドハウス](../Page/プラネット・テラー_in_グラインドハウス.md "wikilink")
   - [鉄ワン・アンダードッグ](https://ja.wikipedia.org/wiki/鉄ワン・アンダードッグ "wikilink")
-  - [ミスト](https://ja.wikipedia.org/wiki/ミスト_\(映画\) "wikilink")
+  - [ミスト](../Page/ミスト_\(映画\).md "wikilink")
 
 <!-- end list -->
 

@@ -63,7 +63,7 @@
 
 ### 過去に担当
 
-  - [中田美香](../Page/中田美香.md "wikilink")（[JFNCパーソナリティー](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）※2007年9月までは月曜 - 木曜、2007年10月 - 2008年3月は水曜・木曜。全国ネット番組[クロノスへ異動](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")。
+  - [中田美香](../Page/中田美香.md "wikilink")（[JFNCパーソナリティー](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）※2007年9月までは月曜 - 木曜、2007年10月 - 2008年3月は水曜・木曜。全国ネット番組[クロノスへ異動](../Page/クロノス_\(ラジオ番組\).md "wikilink")。
   - [水谷ユミ](https://ja.wikipedia.org/wiki/水谷ユミ "wikilink")※2007年10月 - 2008年9月に月曜・火曜を担当。
 
 ## タイムテーブル

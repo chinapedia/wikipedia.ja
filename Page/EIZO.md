@@ -27,7 +27,7 @@
 ## 歴史
 
   - [1967年](../Page/1967年.md "wikilink")（昭和42年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") ‐ 石川県[七尾市](../Page/七尾市.md "wikilink")に七尾電機株式会社設立
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") ‐ 石川県[羽咋市](../Page/羽咋市.md "wikilink")に羽咋電機株式会社を設立
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") ‐ 石川県[羽咋市](../Page/羽咋市.md "wikilink")に羽咋電機株式会社を設立
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") ‐ 電子機器製造を行っていた七尾電機株式会社の事業の一部を移管し、電子機器の開発、生産、販売を開始。株式会社ナナオに商号変更
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") ‐ 欧州向けに「**EIZO**」ブランドにてコンピュータ用ディスプレイ装置を販売開始
   - <span style="visibility:hidden">1985年（昭和60年）</span>[9月](../Page/9月.md "wikilink") ‐ 北米向けに「**NANAO**」ブランドにてコンピュータ用ディスプレイ装置を販売開始

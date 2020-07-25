@@ -37,7 +37,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 </tr>
 <tr class="odd">
 <td><p>第2回<br />
-（<a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>）</p></td>
+（<a href="../Page/1986年.md" title="wikilink">1986年</a>）</p></td>
 <td><p><a href="../Page/須田哲夫.md" title="wikilink">須田哲夫</a><br />
 （<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>）</p></td>
 <td></td>

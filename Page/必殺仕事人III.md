@@ -153,7 +153,7 @@
 
 :\* 寅造 - [丹古母鬼馬二](../Page/丹古母鬼馬二.md "wikilink")
 
-:\* 将監 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 将監 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* 新二郎 - [伊藤武史](https://ja.wikipedia.org/wiki/伊藤武史 "wikilink")
 
@@ -567,7 +567,7 @@
 
 :\* 日下平八郎 - [高峰圭二](../Page/高峰圭二.md "wikilink")
 
-:\* 桃井兵庫 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 桃井兵庫 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
   -
 

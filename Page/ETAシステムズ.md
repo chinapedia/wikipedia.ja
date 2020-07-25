@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[CDCは](../Page/コントロール・データ・コーポレーション.md "wikilink")、[シーモア・クレイ](../Page/シーモア・クレイ.md "wikilink")が自らの[クレイ](../Page/クレイ.md "wikilink")・リサーチ社を設立してからは、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")市場での立場が弱くなっていった。CDCの[ウィリアム・ノリス](https://ja.wikipedia.org/wiki/ウィリアム・ノリス "wikilink")は、世界最高性能のスーパーコンピュータを作るには大きくなり過ぎた会社では無理だと判断し、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、開発部門をスピンオフさせたETAシステムズ社を設立した。ETAシステムズは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")までに10[G](../Page/ギガ.md "wikilink")[FLOPS](../Page/FLOPS.md "wikilink")のマシン（[命令サイクル](../Page/命令_\(コンピュータ\).md "wikilink")10[ナノ](https://ja.wikipedia.org/wiki/ナノ "wikilink")秒）を作ることを目標としていた。
+[CDCは](../Page/コントロール・データ・コーポレーション.md "wikilink")、[シーモア・クレイ](../Page/シーモア・クレイ.md "wikilink")が自らの[クレイ](../Page/クレイ.md "wikilink")・リサーチ社を設立してからは、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")市場での立場が弱くなっていった。CDCの[ウィリアム・ノリス](https://ja.wikipedia.org/wiki/ウィリアム・ノリス "wikilink")は、世界最高性能のスーパーコンピュータを作るには大きくなり過ぎた会社では無理だと判断し、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、開発部門をスピンオフさせたETAシステムズ社を設立した。ETAシステムズは[1986年](../Page/1986年.md "wikilink")までに10[G](../Page/ギガ.md "wikilink")[FLOPS](../Page/FLOPS.md "wikilink")のマシン（[命令サイクル](../Page/命令_\(コンピュータ\).md "wikilink")10[ナノ](https://ja.wikipedia.org/wiki/ナノ "wikilink")秒）を作ることを目標としていた。
 
 この目標を達成するため、ETAは[CMOS](../Page/CMOS.md "wikilink")回路を[液体窒素](../Page/液体窒素.md "wikilink")で冷却することによって高[クロック](../Page/クロック.md "wikilink")で駆動するなどの革新的技術を生み出した。これによってETA10は7ナノ秒の命令サイクルを実現し、ベンチマークでは 10GFLOPSを達成した。しかし、実際のアプリケーションでは最高でも4.5GFLOPSしか出せなかったとも言われている。
 
@@ -44,7 +44,7 @@ ETAのソフトウェアの問題はOSの選択だけではなかった。[FORTR
   - [台湾中央研究院](http://www.sinica.edu.tw/main_e.shtml)
   - [ドイツ気象局](https://ja.wikipedia.org/wiki/ドイツ気象局 "wikilink")
 
-[NASAによれば](../Page/アメリカ航空宇宙局.md "wikilink")、ETA10は[エイムズ研究センター](https://ja.wikipedia.org/wiki/エイムズ研究センター "wikilink")での受け入れ試験で不合格になったという\[2\]。
+[NASAによれば](../Page/アメリカ航空宇宙局.md "wikilink")、ETA10は[エイムズ研究センター](../Page/エイムズ研究センター.md "wikilink")での受け入れ試験で不合格になったという\[2\]。
 
 ### 東京工業大学への納入
 

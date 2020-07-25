@@ -156,7 +156,7 @@
 <!-- end list -->
 
   -
-    [ライト・トゥ・センサー](../Page/ライト・トゥ・センサー.md "wikilink")（[ブル・ブキャナン](../Page/バリー・ブキャナン.md "wikilink")＆[グッドファーザー](https://ja.wikipedia.org/wiki/チャールズ・ライト_\(プロレスラー\) "wikilink")）(c) vs ○[エッジ](../Page/アダム・コープランド.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink") vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")）● vs [ロード・ドッグ](../Page/ブライアン・ジェイムス.md "wikilink")＆[K-クイック](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")
+    [ライト・トゥ・センサー](../Page/ライト・トゥ・センサー.md "wikilink")（[ブル・ブキャナン](../Page/バリー・ブキャナン.md "wikilink")＆[グッドファーザー](https://ja.wikipedia.org/wiki/チャールズ・ライト_\(プロレスラー\) "wikilink")）(c) vs ○[エッジ](../Page/アダム・コープランド.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink") vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")）● vs [ロード・ドッグ](../Page/ブライアン・ジェイムス.md "wikilink")＆[K-クイック](../Page/ロン・キリングス.md "wikilink")
 
 <!-- end list -->
 
@@ -518,7 +518,7 @@
 <!-- end list -->
 
   -
-    ○[ポール・ロンドン](../Page/ポール・ロンドン.md "wikilink")＆[ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")(c)（w / [アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")） vs [ウィリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")＆[デイブ・テイラー](https://ja.wikipedia.org/wiki/デビット・テイラー "wikilink") vs [MNM](../Page/MNM.md "wikilink")（[ジョニー・ナイトロ](../Page/ジョン・ヘニガン.md "wikilink")＆[ジョイ・マーキュリー](../Page/アダム・バーチ.md "wikilink")）（w / [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")） vs [ハーディー・ボーイズ](../Page/ハーディー・ボーイズ.md "wikilink")（[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")）
+    ○[ポール・ロンドン](../Page/ポール・ロンドン.md "wikilink")＆[ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")(c)（w / [アシュリー](../Page/アシュリー・マッサーロ.md "wikilink")） vs [ウィリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")＆[デイブ・テイラー](https://ja.wikipedia.org/wiki/デビット・テイラー "wikilink") vs [MNM](../Page/MNM.md "wikilink")（[ジョニー・ナイトロ](../Page/ジョン・ヘニガン.md "wikilink")＆[ジョイ・マーキュリー](../Page/アダム・バーチ.md "wikilink")）（w / [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink")） vs [ハーディー・ボーイズ](../Page/ハーディー・ボーイズ.md "wikilink")（[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")）
 
 <!-- end list -->
 

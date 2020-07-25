@@ -103,7 +103,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/仁科かおり" title="wikilink">仁科かおり</a></p></td>
+<td><p><a href="../Page/仁科かおり.md" title="wikilink">仁科かおり</a></p></td>
 <td><p>Chorus</p></td>
 <td><p>ボーカル・コーラスとして参加。</p></td>
 </tr>

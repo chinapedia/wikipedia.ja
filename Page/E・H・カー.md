@@ -5,7 +5,7 @@
 
 ## 略歴・人物
 
-[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")を卒業後、[1916年](../Page/1916年.md "wikilink")から[1936年](../Page/1936年.md "wikilink")まで[イギリス外務省に勤務](../Page/外務・英連邦省.md "wikilink")。退職後、[ウェールズ大学](https://ja.wikipedia.org/wiki/ウェールズ大学 "wikilink")アベリストウィス校（現在、英国立アベリストウィス大学）の[国際関係論](../Page/国際関係論.md "wikilink")（国際政治学部）の学部長に就任。
+[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")を卒業後、[1916年](../Page/1916年.md "wikilink")から[1936年](../Page/1936年.md "wikilink")まで[イギリス外務省に勤務](../Page/外務・英連邦省.md "wikilink")。退職後、[ウェールズ大学](../Page/ウェールズ大学.md "wikilink")アベリストウィス校（現在、英国立アベリストウィス大学）の[国際関係論](../Page/国際関係論.md "wikilink")（国際政治学部）の学部長に就任。
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中は[イギリス情報省](https://ja.wikipedia.org/wiki/イギリス情報省 "wikilink")（[Ministry of Information](https://ja.wikipedia.org/wiki/:en:Ministry_of_Information_\(United_Kingdom\) "wikilink")）の職員および『[タイムズ](../Page/タイムズ.md "wikilink")』紙の記者として活動。戦後は、その親ソ的な立場が災いし、一時的に英国の学界とは距離を置く。[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")[トリニティ・カレッジの研究員として学究生活に入った後は](https://ja.wikipedia.org/wiki/トリニティ・カレッジ_\(ケンブリッジ大学\) "wikilink")、もっぱら[ロシア革命](../Page/ロシア革命.md "wikilink")史の研究（全14巻）をライフワークとする。
 

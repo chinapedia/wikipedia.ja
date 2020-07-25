@@ -214,7 +214,7 @@ TBSラジオの[2003年](../Page/2003年.md "wikilink")[秋](../Page/秋.md "wik
   - **松島 淳**（まつしま じゅん・火曜ディレクター）
     通称：*MJ*。『[ストリーム](../Page/ストリーム_\(TBSラジオ\).md "wikilink")』木曜日担当[ディレクター](../Page/ディレクター.md "wikilink")。TBSHD傘下のラジオ制作会社「株式会社テレコム・サウンズ」所属。手紙の内容が宮川にうまく伝わらないことが多く、放送中に「逝ってよし」と罵られる事が多かった。
     かつては『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』『[デジタル怪傑頭巾デジ虫](https://ja.wikipedia.org/wiki/デジタル怪傑頭巾デジ虫 "wikilink")』『[榎さんのおはようさん\!](https://ja.wikipedia.org/wiki/榎さんのおはようさん! "wikilink")』のディレクターも担当していた。
-    [キャバクラ](https://ja.wikipedia.org/wiki/キャバクラ "wikilink")と女子大生が好き（特に学歴が高い娘が好き）だと、大野やサトケンの手紙でよく暴露されていた。
+    [キャバクラ](../Page/キャバクラ.md "wikilink")と女子大生が好き（特に学歴が高い娘が好き）だと、大野やサトケンの手紙でよく暴露されていた。
   - **山口 ショウ**（やまぐち しょう　火・水曜アシスタントディレクター）
     TBSHD傘下のラジオ制作会社「株式会社テレコム・サウンズ」所属。
     元AD小田喜に代わって火曜AD。作家の大野に「給料の半分を風俗に使っている」「弁当選びのセンスがない」などと、暴露の洗礼を浴びた。
@@ -309,12 +309,12 @@ TBSラジオの[2003年](../Page/2003年.md "wikilink")[秋](../Page/秋.md "wik
 
   - 番組開始当初3ヶ月間は[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")カードがスポンサーにつき、最後のCM枠で宮川が[生コマーシャル](../Page/生コマーシャル.md "wikilink")風に行っていた。
   - その後はノンスポンサーだが、年末になると[小学館](../Page/小学館.md "wikilink")の[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")など数社が期間限定のスポンサーがついた（ほかに[JA-SS](../Page/JA-SS.md "wikilink")や[DHC](https://ja.wikipedia.org/wiki/DHC "wikilink")など）。2006年3月にも期間限定のスポンサー（[キャステラ](https://ja.wikipedia.org/wiki/キャステラ "wikilink")）（[BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")、[城島茂のどっち派?\!](../Page/城島茂のどっち派?!.md "wikilink")、[JUNK](../Page/JUNK.md "wikilink")でもCMが流れた））がついた。
-  - CM枠は提供スポンサーがつく時期以外はTBSラジオの番宣やイベント告知のみであった。また毎年3月になると提供スポンサーではなかったものの[朝日新聞](../Page/朝日新聞社.md "wikilink")（2005年3月）や[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[ブルボン](../Page/ブルボン.md "wikilink")（2006年3月）、[東芝](../Page/東芝.md "wikilink")（2006年7月）などのCMが一定期間だけ多数流れることもあった。
+  - CM枠は提供スポンサーがつく時期以外はTBSラジオの番宣やイベント告知のみであった。また毎年3月になると提供スポンサーではなかったものの[朝日新聞](../Page/朝日新聞社.md "wikilink")（2005年3月）や[ANA](../Page/全日本空輸.md "wikilink")、[ブルボン](../Page/ブルボン.md "wikilink")（2006年3月）、[東芝](../Page/東芝.md "wikilink")（2006年7月）などのCMが一定期間だけ多数流れることもあった。
   - TBSラジオ環境キャンペーン期間中は[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")、[太陽生命](../Page/太陽生命保険.md "wikilink")、[日本アムウェイ](https://ja.wikipedia.org/wiki/日本アムウェイ "wikilink")、[NECなどの協賛スポンサーのCMが流れた](../Page/日本電気.md "wikilink")。
 
 ## 書籍
 
-  - 夜な夜なニュースいぢり X-Radio バツラジ（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")）　ISBN 4048673637
+  - 夜な夜なニュースいぢり X-Radio バツラジ（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")）　ISBN 4048673637
 
 ## テーマソング
 

@@ -74,7 +74,7 @@
       - [吟遊黙示録マイネリーベwieder](https://ja.wikipedia.org/wiki/吟遊黙示録マイネリーベwieder "wikilink") ※[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")
   - [グリザイアの果実](https://ja.wikipedia.org/wiki/グリザイアの果実 "wikilink")
   - [クロスゲーム](https://ja.wikipedia.org/wiki/クロスゲーム "wikilink") ※[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")
-  - [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink") ※主題歌（後半OP）はユニバーサルミュージック、EDは[コロムビアミュージックエンタテインメントの制作](../Page/日本コロムビア.md "wikilink")
+  - [GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink") ※主題歌（後半OP）はユニバーサルミュージック、EDは[コロムビアミュージックエンタテインメントの制作](../Page/日本コロムビア.md "wikilink")
   - [ケメコデラックス\!](https://ja.wikipedia.org/wiki/ケメコデラックス! "wikilink")
   - [劇場版CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\)#劇場版アニメ "wikilink") ※フロンティアワークス（京都アニメーション版は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")が制作）
   - [ケンコー全裸系水泳部 ウミショー](../Page/ケンコー全裸系水泳部_ウミショー.md "wikilink") ※5pb.
@@ -243,7 +243,7 @@
   - [ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink") - 旧：東芝エンタテインメント。ジェネオンと共同企画のアニメ作品も多い。
       - [伊平崇耶](../Page/伊平崇耶.md "wikilink") - 元ショウゲート所属のプロデューサーで、川瀬プロデューサーとコンビを組む事も多い。
   - [アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink") - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）土曜深夜の[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠。ジェネオン制作の[UHFアニメ](../Page/UHFアニメ.md "wikilink")が放映される事が比較的多い。
-  - [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")） - 2008年頃から[電撃文庫](../Page/電撃文庫.md "wikilink")作品のアニメ化を一手に引き受けていて、イベントを共催することもある。
+  - [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")） - 2008年頃から[電撃文庫](../Page/電撃文庫.md "wikilink")作品のアニメ化を一手に引き受けていて、イベントを共催することもある。
   - [RADIO RONDO ROBE](https://ja.wikipedia.org/wiki/RADIO_RONDO_ROBE "wikilink") - 超\!A\&G+で放送中のラジオ番組。
   - [ワーナー エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/ワーナー_エンターテイメント_ジャパン "wikilink")（※かつての[トワーニ](https://ja.wikipedia.org/wiki/トワーニ "wikilink")） - RONDO ROBE関与の対象外。
 

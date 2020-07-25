@@ -312,7 +312,7 @@
   - [山口雅史](https://ja.wikipedia.org/wiki/山口雅史 "wikilink")([宮尾すすむ](../Page/宮尾すすむ.md "wikilink")の長男。主に[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、[IGF中継担当](../Page/イノキ・ゲノム・フェデレーション.md "wikilink"))
   - [矢野武](../Page/矢野武.md "wikilink")([修斗](../Page/修斗.md "wikilink")）
   - [高橋大輔](https://ja.wikipedia.org/wiki/高橋大輔_\(アナウンサー\) "wikilink")([ZERO1](../Page/ZERO1.md "wikilink")、[パンクラス](../Page/パンクラス.md "wikilink"))
-  - [市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")([シュートボクシング](../Page/シュートボクシング.md "wikilink")）
+  - [市川勝也](../Page/市川勝也.md "wikilink")([シュートボクシング](../Page/シュートボクシング.md "wikilink")）
   - [バロン山崎](https://ja.wikipedia.org/wiki/バロン山崎 "wikilink")
   - [シンペー](https://ja.wikipedia.org/wiki/シンペー "wikilink")
 

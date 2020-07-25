@@ -5,7 +5,7 @@
 
 ## 概要
 
-1994年の結成後、初期の頃は当時日本において[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")/[スクリーモ](../Page/スクリーモ.md "wikilink")等の音楽を形容する言葉になじみがなかったためか、[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")バンドの位置づけで認識されていた。後にエモ等のアーティストを多数輩出するDOUGHOUSEより海外版をリリースすることにより、徐々に日本においてもエモの先駆者という扱いを受ける。 2枚目のアルバム『PUT ON FRESH PAINT』から『FOUR COLOR PROBLEM』までの1990年代後半から2000年代には絶大な基盤を確立していった。初期の音楽性は、当時隆盛を極めていた[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")ブームに追随するような、テンポの速い演奏に英語詞のボーカルを乗せるといったものだったが、次第に[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")や[ウィーザー](../Page/ウィーザー.md "wikilink")に代表される泣きメロを重視した[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")、[パワー・ポップ](https://ja.wikipedia.org/wiki/パワー・ポップ "wikilink")を彷彿させるようなものへと変遷していった。また、それに伴って日本語詞の割合を増やしていき、第1期のラストアルバム『variandante』では全収録曲が日本語詞で書かれた。
+1994年の結成後、初期の頃は当時日本において[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")/[スクリーモ](../Page/スクリーモ.md "wikilink")等の音楽を形容する言葉になじみがなかったためか、[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")バンドの位置づけで認識されていた。後にエモ等のアーティストを多数輩出するDOUGHOUSEより海外版をリリースすることにより、徐々に日本においてもエモの先駆者という扱いを受ける。 2枚目のアルバム『PUT ON FRESH PAINT』から『FOUR COLOR PROBLEM』までの1990年代後半から2000年代には絶大な基盤を確立していった。初期の音楽性は、当時隆盛を極めていた[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")ブームに追随するような、テンポの速い演奏に英語詞のボーカルを乗せるといったものだったが、次第に[ジミー・イート・ワールド](../Page/ジミー・イート・ワールド.md "wikilink")や[ウィーザー](../Page/ウィーザー.md "wikilink")に代表される泣きメロを重視した[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")、[パワー・ポップ](https://ja.wikipedia.org/wiki/パワー・ポップ "wikilink")を彷彿させるようなものへと変遷していった。また、それに伴って日本語詞の割合を増やしていき、第1期のラストアルバム『variandante』では全収録曲が日本語詞で書かれた。
 
 1枚目のアルバム『GRIP』とシングル『A SINGLE WORD』をトイズファクトリー内の[PIZZA OF DEATH RECORDS](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")\[1\]よりリリースしているが、後にはINIというレーベルを立ち上げ、そちらからリリースを行うようになっている。
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - [ドラム](../Page/ドラムセット.md "wikilink")、コーラス：**山崎聖之**（やまざき まさゆき、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）
+  - [ドラム](../Page/ドラムセット.md "wikilink")、コーラス：**山崎聖之**（やまざき まさゆき、[1986年](../Page/1986年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）
 
 <!-- end list -->
 

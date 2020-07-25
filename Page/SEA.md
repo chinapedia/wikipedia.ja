@@ -39,5 +39,5 @@
   - [英語](../Page/英語.md "wikilink")で[海](../Page/海.md "wikilink")
   - [北原愛子](../Page/北原愛子.md "wikilink")のアルバム『』
   - [単一欧州議定書](https://ja.wikipedia.org/wiki/単一欧州議定書 "wikilink")
-  - [マンソン住血吸虫](https://ja.wikipedia.org/wiki/マンソン住血吸虫 "wikilink")
+  - [マンソン住血吸虫](../Page/マンソン住血吸虫.md "wikilink")
   - [戦略的環境アセスメント](../Page/戦略的環境アセスメント.md "wikilink")

@@ -875,7 +875,7 @@
 <th><p>参加曲</p></th>
 <th><p>役</p></th>
 <th><p>備考 |-</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ZARD" title="wikilink">ZARD</a></p></th>
+<th><p><a href="../Page/ZARD.md" title="wikilink">ZARD</a></p></th>
 <th><p>1999年2月17日</p></th>
 <th><p><a href="../Page/永遠_(ZARDのアルバム).md" title="wikilink">永遠</a></p></th>
 <th></th>

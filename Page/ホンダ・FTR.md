@@ -5,7 +5,7 @@
 
 ## 概要
 
-フラットトラックレース（[ダートトラックレース](../Page/ダートトラックレース.md "wikilink")）をイメージしたオートバイである。フラットトラックレーサー（Flat Track Racer）の頭文字をそのまま転用した車名は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売された**FTR250**と[2000年](../Page/2000年.md "wikilink")に発売された**FTR**の2車種に付与されており、いずれも250ccクラス（[軽二輪](../Page/普通自動二輪車.md "wikilink")）の[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載する。
+フラットトラックレース（[ダートトラックレース](../Page/ダートトラックレース.md "wikilink")）をイメージしたオートバイである。フラットトラックレーサー（Flat Track Racer）の頭文字をそのまま転用した車名は、[1986年](../Page/1986年.md "wikilink")に発売された**FTR250**と[2000年](../Page/2000年.md "wikilink")に発売された**FTR**の2車種に付与されており、いずれも250ccクラス（[軽二輪](../Page/普通自動二輪車.md "wikilink")）の[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載する。
 
 ## モデル一覧
 

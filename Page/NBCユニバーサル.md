@@ -14,7 +14,7 @@
 ### 地上波
 
   - [NBC](../Page/NBC.md "wikilink")
-  - [テレムンド](https://ja.wikipedia.org/wiki/テレムンド "wikilink")（[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")放送局。2001年、NBCが[リバティメディア](../Page/リバティメディア.md "wikilink")および[ソニー・ピクチャーズ・エンタテインメントより買収](../Page/ソニー・ピクチャーズ・エンタテインメント_\(米国\).md "wikilink")）
+  - [テレムンド](../Page/テレムンド.md "wikilink")（[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")放送局。2001年、NBCが[リバティメディア](../Page/リバティメディア.md "wikilink")および[ソニー・ピクチャーズ・エンタテインメントより買収](../Page/ソニー・ピクチャーズ・エンタテインメント_\(米国\).md "wikilink")）
 
 ### ケーブルテレビ向けチャンネル
 
@@ -28,7 +28,7 @@
   - [NBCウェザー・プラス](https://ja.wikipedia.org/wiki/NBCウェザー・プラス "wikilink")（2004年11月に開局した[天気予報](../Page/天気予報.md "wikilink")専門チャンネル。系列局における[デジタル放送](../Page/デジタル放送.md "wikilink")の[サブチャンネル](https://ja.wikipedia.org/wiki/サブチャンネル "wikilink")にもキャリーされており、本部からの情報に系列局からの情報を加える形でカスタマイズされている。一部の局ではブロードバンド配信もされている）
   - [Oxygen](https://ja.wikipedia.org/wiki/w:en:Oxygen_\(TV_channel\) "wikilink")（2000年開局。2007年10月買収）
   - [Sleuth](https://ja.wikipedia.org/wiki/w:en:Sleuth_\(TV_channel\) "wikilink")（2006年1月開局）
-  - [Syfy](https://ja.wikipedia.org/wiki/Syfy "wikilink")（2002年、[USAネットワーク](../Page/USAネットワーク.md "wikilink")とともに[ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink")が買収）
+  - [Syfy](../Page/Syfy.md "wikilink")（2002年、[USAネットワーク](../Page/USAネットワーク.md "wikilink")とともに[ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink")が買収）
   - [ショップNBC](https://ja.wikipedia.org/wiki/ショップNBC "wikilink")（[テレビショッピング](../Page/テレビショッピング.md "wikilink")チャンネル。1991年「バリュービジョン」として開局、2000年チャンネル名変更。NBCユニバーサルは運営するバリュービジョンメディア社の株式37%を所有）
   - [サンダンスチャンネル](https://ja.wikipedia.org/wiki/サンダンスチャンネル "wikilink")（[ロバート・レッドフォード](../Page/ロバート・レッドフォード.md "wikilink")、および[CBSコーポレーション](../Page/CBSコーポレーション.md "wikilink")との共同出資）
   - [ユニバーサルHD](https://ja.wikipedia.org/wiki/ユニバーサルHD "wikilink")（2003年7月「Bravo HD+」として開局、2004年12月チャンネル名変更）

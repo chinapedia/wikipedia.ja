@@ -13,7 +13,7 @@
 
 ### ティラノザウルス・レックス期（1967年 - 1970年）
 
-[Marc_Bolan_Truck_Off_1974_by_Ian_Dickson.jpg](https://ja.wikipedia.org/wiki/File:Marc_Bolan_Truck_Off_1974_by_Ian_Dickson.jpg "fig:Marc_Bolan_Truck_Off_1974_by_Ian_Dickson.jpg") [1967年](../Page/1967年.md "wikilink")、アコースティック・ギターとヴォーカルのマーク・ボラン、パーカッションのスティーヴ・トゥックの二人組で、**ティラノザウルス・レックス**（**Tyrannosaurus Rex**）を結成し、翌[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にデビュー。サイケデリックな[フォークロック](../Page/フォークロック.md "wikilink")・グループとして一部でカルト的な人気を誇った。
+[Marc_Bolan_Truck_Off_1974_by_Ian_Dickson.jpg](https://ja.wikipedia.org/wiki/File:Marc_Bolan_Truck_Off_1974_by_Ian_Dickson.jpg "fig:Marc_Bolan_Truck_Off_1974_by_Ian_Dickson.jpg") [1967年](../Page/1967年.md "wikilink")、アコースティック・ギターとヴォーカルのマーク・ボラン、パーカッションのスティーヴ・トゥックの二人組で、**ティラノザウルス・レックス**（**Tyrannosaurus Rex**）を結成し、翌[1968年](../Page/1968年.md "wikilink")にデビュー。サイケデリックな[フォークロック](../Page/フォークロック.md "wikilink")・グループとして一部でカルト的な人気を誇った。
 
 この時期の彼らを熱心に応援していたのが、DJのジョン・ピールだった。グループはデビューアルバム『ティラノザウルス・レックス登場\!\!』をリリースし、全英15位を記録。その後、新しいパートナーにミッキー・フィンを迎え、[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")を導入したのは1970年だった。
 
@@ -249,7 +249,7 @@ PlotData=
 
 #### アルバム
 
-  - 『[ティラノザウルス・レックス登場\!\!](../Page/ティラノザウルス・レックス登場!!.md "wikilink")』 - *My People Were Fair And Had Sky In Their Hair, But Now They're Content To Wear Stars On Their Brows*（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
+  - 『[ティラノザウルス・レックス登場\!\!](../Page/ティラノザウルス・レックス登場!!.md "wikilink")』 - *My People Were Fair And Had Sky In Their Hair, But Now They're Content To Wear Stars On Their Brows*（[1968年](../Page/1968年.md "wikilink")）
   - 『[神秘の覇者](https://ja.wikipedia.org/wiki/神秘の覇者 "wikilink")』 - *Prophets, Seers And Sages, The Angels Of The Ages*（1968年）
   - 『[ユニコーン](../Page/ユニコーン_\(アルバム\).md "wikilink")』 - *Unicorn*（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
   - 『[ベアード・オブ・スターズ](https://ja.wikipedia.org/wiki/ベアード・オブ・スターズ "wikilink")』 - *A Beard Of Stars*（[1970年](../Page/1970年.md "wikilink")）

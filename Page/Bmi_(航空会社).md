@@ -204,7 +204,7 @@
 
 1.  2010年頃から、[プレスリリース](../Page/プレスリリース.md "wikilink")などで自社を「British Midland International (bmi)」と記述している[1](http://www.flybmi.com/bmi/en-gb/about-us/media-centre/press-releases/20101011.aspx)。
 2.  [bmiの会社紹介](http://www.flybmi.com/bmi/en-gb/about-us/bmi/bmi.aspx)には、と書かれている。
-3.  「bmi」と「ブリティッシュ・ミッドランド航空」の呼称の関係は、ちょうどかつて所属していたスターアライアンスのメンバーである[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が公式な呼称を「」としているのと似ている。
+3.  「bmi」と「ブリティッシュ・ミッドランド航空」の呼称の関係は、ちょうどかつて所属していたスターアライアンスのメンバーである[全日本空輸](../Page/全日本空輸.md "wikilink")が公式な呼称を「」としているのと似ている。
 4.  [BRITISH AIRWAYS ANNOUNCES CONSULTATION TO INTEGRATE BMI MAINLINE](http://press.ba.com/?p=2247) - [ブリティッシュエアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュエアウェイズ "wikilink")プレスリリースより(英語)
 5.  [BMI FORMALLY LEAVES STAR ALLIANCE.](http://www.staralliance.com/ja/press/bmi-removal-prp/) - [スターアライアンス](../Page/スターアライアンス.md "wikilink")公式サイトより(英語)
 6.

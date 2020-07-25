@@ -140,7 +140,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCユース選手権1968" title="wikilink">10</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 - 0</strong></p></td>
@@ -302,7 +302,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCユース選手権1986" title="wikilink">24</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>

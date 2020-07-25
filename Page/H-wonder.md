@@ -1,7 +1,7 @@
 > この記事は[H-wonder](https://ja.wikipedia.org/wiki/H-wonder)から翻訳されています。
 
 
-**h-wonder**（エイチ・ワンダー、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[9月23日](../Page/9月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。元[歌手](../Page/歌手.md "wikilink")。本名、**和田 弘樹**（わだ ひろき）。[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身。SCOOP MUSIC\[[http://www.scoop.co.jp/index.html\]所属](http://www.scoop.co.jp/index.html%5D所属)。
+**h-wonder**（エイチ・ワンダー、[1968年](../Page/1968年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。元[歌手](../Page/歌手.md "wikilink")。本名、**和田 弘樹**（わだ ひろき）。[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身。SCOOP MUSIC\[[http://www.scoop.co.jp/index.html\]所属](http://www.scoop.co.jp/index.html%5D所属)。
 
 ## 略歴
 

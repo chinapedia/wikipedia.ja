@@ -3,11 +3,11 @@
 
 『**SAYURI**』（*Memoirs of a Geisha*）は、[2005年の](../Page/2005年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で出版された[アメリカ人作家の](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")による[小説](../Page/小説.md "wikilink")『[さゆり](../Page/さゆり_\(小説\).md "wikilink")』を原作とした作品である。
 
-監督は[ロブ・マーシャル](../Page/ロブ・マーシャル.md "wikilink")、主演は[チャン・ツィイー](https://ja.wikipedia.org/wiki/チャン・ツィイー "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前後にかけて[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で活躍した[芸者](https://ja.wikipedia.org/wiki/芸者 "wikilink")の話である。[第78回アカデミー賞](../Page/第78回アカデミー賞.md "wikilink")で6部門ノミネートされ、3部門で受賞した（この年の最多受賞タイ）。
+監督は[ロブ・マーシャル](../Page/ロブ・マーシャル.md "wikilink")、主演は[チャン・ツィイー](https://ja.wikipedia.org/wiki/チャン・ツィイー "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前後にかけて[京都](../Page/京都.md "wikilink")で活躍した[芸者](https://ja.wikipedia.org/wiki/芸者 "wikilink")の話である。[第78回アカデミー賞](../Page/第78回アカデミー賞.md "wikilink")で6部門ノミネートされ、3部門で受賞した（この年の最多受賞タイ）。
 
 ## あらすじ
 
-[1929年](../Page/1929年.md "wikilink")、[世界恐慌](../Page/世界恐慌.md "wikilink")の折、貧しい漁村の9歳の少女、千代が[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")・[祇園](../Page/祇園.md "wikilink")を模した架空の町の[花街](../Page/花街.md "wikilink")の置屋に売られ、厳しい生活の中で人気[芸者](https://ja.wikipedia.org/wiki/芸者 "wikilink")に成長していく姿を描いている。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")へ向けて戦時色が強まってゆく日本を背景に、戦争、敗戦といった社会の変化によって影響される人生を表現している。
+[1929年](../Page/1929年.md "wikilink")、[世界恐慌](../Page/世界恐慌.md "wikilink")の折、貧しい漁村の9歳の少女、千代が[京都](../Page/京都.md "wikilink")・[祇園](../Page/祇園.md "wikilink")を模した架空の町の[花街](../Page/花街.md "wikilink")の置屋に売られ、厳しい生活の中で人気[芸者](https://ja.wikipedia.org/wiki/芸者 "wikilink")に成長していく姿を描いている。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")へ向けて戦時色が強まってゆく日本を背景に、戦争、敗戦といった社会の変化によって影響される人生を表現している。
 
 ## キャスト
 
@@ -40,7 +40,7 @@
 
 これは、芸者に対する中国語の名称で説明される。[日本語](../Page/日本語.md "wikilink")では"芸者"と書かれるが、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")では"藝伎/"と書かれる。日本語の“芸妓”は、「芸者（女芸者）」、「芸子（げいこ）」と呼ぶのが古い言いかたであるが、明治以降、「芸妓（げいぎ）」という呼名も行われるようになった。しかし、多くの人が、故意ではないにしろ（過激な国家主義者の場合は故意にだが）、"藝妓/"と書く。この二つの非常によく似た文字 "伎" と "妓" の現代中国語のおける違いは、前者が芸術、技術の専門家を意味し、後者は売春婦を意味する点にある。しかしながら、[古典中国語](https://ja.wikipedia.org/wiki/古典中国語 "wikilink")では両方とも正しく（“伎”は男性用、"妓"は女性用です）、ともにチャン・ツィイーが『[LOVERS](../Page/LOVERS_\(映画\).md "wikilink")』で演じたような、音楽と踊りで男性客をもてなすことを職業とする女性を表すのに使われた。文化の特定の一部分であることと"妓"の意味が変化したことは、中国の人々にとって、「チャン・ツィイー、コン・リーが日本関係の映画に出演するのはかまわない（実際チャン・ツィイーは、[鈴木清順](../Page/鈴木清順.md "wikilink")監督作『[オペレッタ狸御殿](../Page/オペレッタ狸御殿.md "wikilink")』で主演している）が、売春婦役は受け入れられない」という間違った議論を招いた。この為、中国での反日感情を煽るとの理由から中国での同映画の上映中止が決まった。
 
-否定的な反応の一部は、「中国映画では、有名女優が売春婦を演じることは比較的稀なためである」という意見もある。香港でさえ、ミシェル・ヨーは、「なぜこのような選択をしたのか」と彼女に問いつめるリポーターに囲まれた（しかし、たとえば[セシリア・チャン](https://ja.wikipedia.org/wiki/セシリア・チャン "wikilink")が『[ワン・ナイト・イン・モンコック](https://ja.wikipedia.org/wiki/ワン・ナイト・イン・モンコック "wikilink")』（[2004年](../Page/2004年.md "wikilink")）で売春婦を演じたときは論争はなく、大部分の中国人は気にしなかった）。
+否定的な反応の一部は、「中国映画では、有名女優が売春婦を演じることは比較的稀なためである」という意見もある。香港でさえ、ミシェル・ヨーは、「なぜこのような選択をしたのか」と彼女に問いつめるリポーターに囲まれた（しかし、たとえば[セシリア・チャン](../Page/セシリア・チャン.md "wikilink")が『[ワン・ナイト・イン・モンコック](https://ja.wikipedia.org/wiki/ワン・ナイト・イン・モンコック "wikilink")』（[2004年](../Page/2004年.md "wikilink")）で売春婦を演じたときは論争はなく、大部分の中国人は気にしなかった）。
 
 アメリカでも批判が起き、「日本を舞台にした映画で、日本人が主人公なのに日本人を使わないのか」「主人公は日本人で[ハリウッド](../Page/ハリウッド.md "wikilink")デビューを果たした[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")や[小雪を使うべきだった](https://ja.wikipedia.org/wiki/小雪_\(女優\) "wikilink")」という意見もあった。しかしこのキャスティングは、ハリウッド映画業界での組合協定のためである。 \[1\]
 

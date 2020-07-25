@@ -764,7 +764,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 ### 過去の出演番組
 
   - DAI★安BSフジNAVI\!（2004年7月 - 2006年3月、BSフジ）
-  - [検定ジャポン](https://ja.wikipedia.org/wiki/検定ジャポン "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [検定ジャポン](../Page/検定ジャポン.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [太田光の私が総理大臣になったら…秘書田中。](../Page/太田光の私が総理大臣になったら…秘書田中。.md "wikilink")（日本テレビ） - 準レギュラー
   - [カンニングのDAI安吉日\!](../Page/カンニングのDAI安吉日!.md "wikilink")（[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - 2018年3月25日、[BSフジ](../Page/BSフジ.md "wikilink")）
   - [森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")（2008年10月1日 - 2011年3月30日、フジテレビ） - 水曜日レギュラー
@@ -890,7 +890,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 ## その他制作活動
 
-  - ローリー・ロドキンとのコラボレーション・ジュエリー（[2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[2012年](../Page/2012年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）
+  - ローリー・ロドキンとのコラボレーション・ジュエリー（[2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[2012年](../Page/2012年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）
   - amebaのピグ・パーカー（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 現在終了）
 
 ### その他活動

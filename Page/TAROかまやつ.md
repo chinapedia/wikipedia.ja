@@ -1,7 +1,7 @@
 > この記事は[TAROかまやつ](https://ja.wikipedia.org/wiki/TAROかまやつ)から翻訳されています。
 
 
-**TAROかまやつ**（本名：**釜萢 太郎**、かまやつ たろう、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ）は、 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[青山生まれの](../Page/青山_\(東京都港区\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")で[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の元社員。[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
+**TAROかまやつ**（本名：**釜萢 太郎**、かまやつ たろう、[1968年](../Page/1968年.md "wikilink") - ）は、 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[青山生まれの](../Page/青山_\(東京都港区\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")で[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の元社員。[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
 
 ## 来歴・人物
 

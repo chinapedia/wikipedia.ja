@@ -103,7 +103,7 @@
   - 7:43　（月）[コンサドーレ情報](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")／（火）[ホッカイドウ競馬](https://ja.wikipedia.org/wiki/ホッカイドウ競馬 "wikilink")情報／（水）[ファイターズ情報](../Page/北海道日本ハムファイターズ.md "wikilink")／（木）サテライト石狩KEIRIN情報
   - 7:48　天気予報
   - 7:52　BRAND NEWS
-  - ***8:00 - 20　[八代英輝のクロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink") - [八代英輝](../Page/八代英輝.md "wikilink")、[柴田幸子](../Page/柴田幸子.md "wikilink")（TOKYO FM）***
+  - ***8:00 - 20　[八代英輝のクロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink") - [八代英輝](../Page/八代英輝.md "wikilink")、[柴田幸子](../Page/柴田幸子.md "wikilink")（TOKYO FM）***
 
 <!-- end list -->
 

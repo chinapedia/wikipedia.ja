@@ -5,7 +5,7 @@
 
 ## 概要
 
-白地に左肩から右下へ伸びる赤いタスキ模様のホームゲーム用ユニフォームが特徴。通称である「リーベル」は、[ラプラタ川](../Page/ラプラタ川.md "wikilink")の英語表記であるRiver Plateの[リオプラテンセ・スペイン語](https://ja.wikipedia.org/wiki/リオプラテンセ・スペイン語 "wikilink")発音が由来である。
+白地に左肩から右下へ伸びる赤いタスキ模様のホームゲーム用ユニフォームが特徴。通称である「リーベル」は、[ラプラタ川](../Page/ラプラタ川.md "wikilink")の英語表記であるRiver Plateの[リオプラテンセ・スペイン語](../Page/リオプラテンセ・スペイン語.md "wikilink")発音が由来である。
 
 選手育成を重視しており、多数の有名選手を輩出している。1930年代にサッカーの歴史上最高額の移籍金で選手を獲得したことから、ロス・ミジョナリオス（億万長者）の異名を持つ\[1\]。
 
@@ -43,7 +43,7 @@
 
 ### 1960年代 - 低迷
 
-1960年代は、[アマデオ・カリーソ](https://ja.wikipedia.org/wiki/アマデオ・カリーソ "wikilink")、[エルミンド・オネガ](https://ja.wikipedia.org/wiki/エルミンド・オネガ "wikilink")、[オスカル・マス](https://ja.wikipedia.org/wiki/オスカル・マス "wikilink")、[ルイス・クビジャ](https://ja.wikipedia.org/wiki/ルイス・クビジャ "wikilink")、[ロベルト・マトッサス](https://ja.wikipedia.org/wiki/ロベルト・マトッサス "wikilink")などの名手を擁していたが、国内リーグでは無冠に終わった。10年間で成績が2位の時が8度あり、優勝まで一歩届かぬ年が続いた。国際舞台でも1966年に[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")で決勝まで進むが、[CAペニャロール](../Page/CAペニャロール.md "wikilink")に敗れ、国内でも国外の大会でも無冠に終わった。
+1960年代は、[アマデオ・カリーソ](https://ja.wikipedia.org/wiki/アマデオ・カリーソ "wikilink")、[エルミンド・オネガ](https://ja.wikipedia.org/wiki/エルミンド・オネガ "wikilink")、[オスカル・マス](https://ja.wikipedia.org/wiki/オスカル・マス "wikilink")、[ルイス・クビジャ](../Page/ルイス・クビジャ.md "wikilink")、[ロベルト・マトッサス](https://ja.wikipedia.org/wiki/ロベルト・マトッサス "wikilink")などの名手を擁していたが、国内リーグでは無冠に終わった。10年間で成績が2位の時が8度あり、優勝まで一歩届かぬ年が続いた。国際舞台でも1966年に[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")で決勝まで進むが、[CAペニャロール](../Page/CAペニャロール.md "wikilink")に敗れ、国内でも国外の大会でも無冠に終わった。
 
 ### 1970年代 - 続く低迷、そして復活
 

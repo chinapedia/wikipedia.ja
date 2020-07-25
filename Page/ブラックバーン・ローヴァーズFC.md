@@ -632,7 +632,7 @@
 
   - [ティム・シャーウッド](https://ja.wikipedia.org/wiki/ティム・シャーウッド "wikilink") 1992 - 1999
 
-  - [デビッド・バッティ](https://ja.wikipedia.org/wiki/デビッド・バッティ "wikilink") 1993.10 - 1996.3
+  - [デビッド・バッティ](../Page/デビッド・バッティ.md "wikilink") 1993.10 - 1996.3
 
   - [マシュー・ホームズ](https://ja.wikipedia.org/wiki/マシュー・ホームズ "wikilink") 1995 - 1997
 
@@ -720,7 +720,7 @@
 
   - [ドワイト・ヨーク](../Page/ドワイト・ヨーク.md "wikilink") 2002 - 2004
 
-  - [マット・ダービーシャー](https://ja.wikipedia.org/wiki/マット・ダービーシャー "wikilink") 2003 - 2009
+  - [マット・ダービーシャー](../Page/マット・ダービーシャー.md "wikilink") 2003 - 2009
 
   - [ジョナサン・ステッド](../Page/ジョナサン・ステッド.md "wikilink") 2004.2 - 2005
 

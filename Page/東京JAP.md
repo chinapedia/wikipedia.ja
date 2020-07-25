@@ -73,7 +73,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")プロデュース演出のアルバム「東京JAP大作戦」発売・コンサートデビュー。
   - [1984年](../Page/1984年.md "wikilink")、佐藤が脱退。
   - 1984年、「[摩天楼ブルース](https://ja.wikipedia.org/wiki/摩天楼ブルース "wikilink")」が[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[少女に何が起ったか](../Page/少女に何が起ったか.md "wikilink")』の主題歌としてヒットする。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、活動休止。
+  - [1986年](../Page/1986年.md "wikilink")、活動休止。
   - その後、赤坂はラジオDJに転向。立川、実田はバンド「KAO」を結成する。現在は赤坂と真田の所属事務所として「東京JAP」の名を残している。
 
 ## ディスコグラフィ

@@ -56,7 +56,7 @@
 
 なお、**Adobe Premiere 6.5**をもってMac版の開発が終了していたが、2007年7月リリースの**Adobe Premiere Pro CS3**よりIntel Mac版の開発・販売が開始されている。また、2010年1月リリースのPremiere Elements 9からIntel Mac版の開発・販売が開始されている。
 
-[簡易版であるAdobe](../Page/廉価版.md "wikilink") Premiere Elementsは、[iMovie](https://ja.wikipedia.org/wiki/iMovie "wikilink")や[VideoStudio](https://ja.wikipedia.org/wiki/VideoStudio "wikilink")、EDIUS Neoなどと競合する。
+[簡易版であるAdobe](../Page/廉価版.md "wikilink") Premiere Elementsは、[iMovie](https://ja.wikipedia.org/wiki/iMovie "wikilink")や[VideoStudio](../Page/VideoStudio.md "wikilink")、EDIUS Neoなどと競合する。
 
 ## 外部リンク
 

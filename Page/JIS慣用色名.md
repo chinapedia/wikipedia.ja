@@ -123,7 +123,7 @@
 | \#324784                                                                               | [るり紺](https://ja.wikipedia.org/wiki/瑠璃紺 "wikilink")           | 6PB 3/8                                      |
 | \#333C5E                                                                               | [紺色](https://ja.wikipedia.org/wiki/紺色 "wikilink")             | 6PB 2.5/4                                    |
 | \#4C5DAB                                                                               | [かきつばた色](https://ja.wikipedia.org/wiki/杜若色 "wikilink")        | 7PB 4/10                                     |
-| \#383C57                                                                               | [勝色](https://ja.wikipedia.org/wiki/勝色 "wikilink")（かちいろ）       | 7PB 2.5/3                                    |
+| \#383C57                                                                               | [勝色](../Page/勝色.md "wikilink")（かちいろ）                          | 7PB 2.5/3                                    |
 | \#414FA3                                                                               | [群青（ぐんじょう）色](../Page/群青色.md "wikilink")                       | 7.5PB 3.5/11                                 |
 | \#232538                                                                               | [鉄紺](https://ja.wikipedia.org/wiki/鉄紺 "wikilink")             | 7.5PB 1.5/2                                  |
 | \#6869A8                                                                               | [藤納戸](https://ja.wikipedia.org/wiki/藤納戸 "wikilink")           | 9PB 4.5/7.5                                  |
@@ -132,7 +132,7 @@
 | \#A09BD8                                                                               | [藤色](../Page/藤色.md "wikilink")                                | 10PB 6.5/6.5                                 |
 | \#948BDB                                                                               | [藤紫](https://ja.wikipedia.org/wiki/藤紫 "wikilink")             | 0.5P 6/9                                     |
 | \#704CBC                                                                               | [青紫](../Page/青紫.md "wikilink")                                | 2.5P 4/14                                    |
-| \#6D52AB                                                                               | [菫（すみれ）色](https://ja.wikipedia.org/wiki/菫色 "wikilink")        | 2.5P 4/11                                    |
+| \#6D52AB                                                                               | [菫（すみれ）色](../Page/菫色.md "wikilink")                           | 2.5P 4/11                                    |
 | \#675D7E                                                                               | [鳩羽（はとば）色](https://ja.wikipedia.org/wiki/鳩羽色 "wikilink")      | 2.5P 4/3.5                                   |
 | \#7051AA                                                                               | [しょうぶ色](https://ja.wikipedia.org/wiki/菖蒲色 "wikilink")         | 2.5P 4/3.5                                   |
 | \#5F4C86                                                                               | [江戸紫](../Page/江戸紫.md "wikilink")                              | 3P 3.5/7                                     |
@@ -191,7 +191,7 @@
 | \#FF5D20 | [チャイニーズレッド](https://ja.wikipedia.org/wiki/チャイニーズレッド "wikilink")   | 10R 6/15                                     |
 | \#CC572C | [キャロットオレンジ](https://ja.wikipedia.org/wiki/キャロットオレンジ "wikilink")   | 10R 5/11                                     |
 | \#A8593C | [バーントシェンナ](https://ja.wikipedia.org/wiki/バーントシェンナ "wikilink")     | 10R 4.5/7.5                                  |
-| \#52372F | [チョコレート](https://ja.wikipedia.org/wiki/チョコレート色 "wikilink")        | 10R 2.5/2.5                                  |
+| \#52372F | [チョコレート](../Page/チョコレート色.md "wikilink")                           | 10R 2.5/2.5                                  |
 | \#754C38 | [ココアブラウン](https://ja.wikipedia.org/wiki/ココアブラウン "wikilink")       | 2YR 3.5/4                                    |
 | \#EBC0AF | [ピーチ](../Page/ピーチ.md "wikilink")                                  | 3YR 8/3.5                                    |
 | \#BB6421 | [ローシェンナ](https://ja.wikipedia.org/wiki/ローシェンナ "wikilink")         | 4YR 5/9                                      |
@@ -210,7 +210,7 @@
 | \#C1AB96 | [ベージュ](https://ja.wikipedia.org/wiki/ベージュ "wikilink")             | 10YR 7/2.5                                   |
 | \#C18A39 | [イエローオーカー](https://ja.wikipedia.org/wiki/イエローオーカー "wikilink")     | 10YR 6/7.5                                   |
 | \#5B462A | [バーントアンバー](https://ja.wikipedia.org/wiki/バーントアンバー "wikilink")     | 10YR 3/3                                     |
-| \#4A3B2A | [セピア](https://ja.wikipedia.org/wiki/セピア "wikilink")               | 10YR 2.5/2                                   |
+| \#4A3B2A | [セピア](../Page/セピア.md "wikilink")                                  | 10YR 2.5/2                                   |
 | \#9A753A | [カーキー](https://ja.wikipedia.org/wiki/カーキー "wikilink")             | 1Y 5/5.5                                     |
 | \#E3B466 | [ブロンド](https://ja.wikipedia.org/wiki/ブロンド "wikilink")             | 2Y 7.5/7                                     |
 | \#F2C26B | [ネープルスイエロー](https://ja.wikipedia.org/wiki/ネープルスイエロー "wikilink")   | 2.5Y 8/7.5                                   |
@@ -261,9 +261,9 @@
 | \#414FA3 | [ウルトラマリンブルー](../Page/群青色.md "wikilink")                           | 7.5PB 3.5/11                                 |
 | \#37438F | [オリエンタルブルー](https://ja.wikipedia.org/wiki/オリエンタルブルー "wikilink")   | 7.5PB 3/10                                   |
 | \#776ED2 | [ウィスタリア](https://ja.wikipedia.org/wiki/ウィスタリア "wikilink")         | 10PB 5/12                                    |
-| \#40317E | [パンジー](https://ja.wikipedia.org/wiki/菫色 "wikilink")               | 1P 2.5/10                                    |
+| \#40317E | [パンジー](../Page/菫色.md "wikilink")                                  | 1P 2.5/10                                    |
 | \#836DC5 | [ヘリオトロープ](https://ja.wikipedia.org/wiki/ヘリオトロープ "wikilink")       | 2P 5/10.5                                    |
-| \#6D52AB | [バイオレット](https://ja.wikipedia.org/wiki/菫色 "wikilink")             | 2.5P 4/11                                    |
+| \#6D52AB | [バイオレット](../Page/菫色.md "wikilink")                                | 2.5P 4/11                                    |
 | \#9E8EAE | [ラベンダー](../Page/ラベンダー.md "wikilink")                              | 5P 6/3                                       |
 | \#835FA8 | [モーブ](https://ja.wikipedia.org/wiki/モーブ_\(色\) "wikilink")         | 5P 4.5/9                                     |
 | \#C2A2DA | [ライラック](https://ja.wikipedia.org/wiki/ライラック_\(色\) "wikilink")     | 6P 7/6                                       |

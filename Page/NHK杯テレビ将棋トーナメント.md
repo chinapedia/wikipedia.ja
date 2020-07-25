@@ -404,7 +404,7 @@
 <td><p>2018</p></td>
 <td><p>加藤桃子</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/及川拓馬" title="wikilink">及川拓馬</a></p></td>
+<td><p><a href="../Page/及川拓馬.md" title="wikilink">及川拓馬</a></p></td>
 </tr>
 <tr class="even">
 <td><p>●</p></td>
@@ -442,7 +442,7 @@
 
 第53回（2003年度）で[中井広恵](https://ja.wikipedia.org/wiki/中井広恵 "wikilink")女流三冠が[畠山鎮](../Page/畠山鎮.md "wikilink")六段を破り、女流棋士として初めてNHK杯での白星を挙げた。中井はさらに2回戦で[順位戦](../Page/順位戦.md "wikilink")A級在籍中であった[青野照市](../Page/青野照市.md "wikilink")九段に勝利した（3回戦で[中原誠](../Page/中原誠.md "wikilink")[永世十段に敗れた](https://ja.wikipedia.org/wiki/十段戦_\(将棋\)#永世十段・永世九段 "wikilink")）。中井は翌54回（2004年度）にも出場し、1回戦で[佐藤秀司](../Page/佐藤秀司.md "wikilink")六段に勝利した（2回戦で[佐藤康光](../Page/佐藤康光.md "wikilink")[棋聖に敗れた](../Page/棋聖戦_\(将棋\).md "wikilink")）。
 
-中井が2年連続でNHK杯で白星を挙げたものの、その後はNHK杯で勝利する女流棋士は久しく現れなかった。しかし、第68回（2018年）で[加藤桃子](https://ja.wikipedia.org/wiki/加藤桃子 "wikilink")[女王が](../Page/マイナビ女子オープン.md "wikilink")[及川拓馬](https://ja.wikipedia.org/wiki/及川拓馬 "wikilink")六段に勝利し、女流棋士\[16\]として14年ぶりとなるNHK杯での白星を挙げた。続く第69回（2019年度）では、9年ぶりに出場した[里見香奈](https://ja.wikipedia.org/wiki/里見香奈 "wikilink")女流五冠が[高崎一生](https://ja.wikipedia.org/wiki/高崎一生 "wikilink")六段に勝利し、2年連続で女流棋士としてのNHK杯での白星を挙げた。
+中井が2年連続でNHK杯で白星を挙げたものの、その後はNHK杯で勝利する女流棋士は久しく現れなかった。しかし、第68回（2018年）で[加藤桃子](https://ja.wikipedia.org/wiki/加藤桃子 "wikilink")[女王が](../Page/マイナビ女子オープン.md "wikilink")[及川拓馬](../Page/及川拓馬.md "wikilink")六段に勝利し、女流棋士\[16\]として14年ぶりとなるNHK杯での白星を挙げた。続く第69回（2019年度）では、9年ぶりに出場した[里見香奈](https://ja.wikipedia.org/wiki/里見香奈 "wikilink")女流五冠が[高崎一生](https://ja.wikipedia.org/wiki/高崎一生 "wikilink")六段に勝利し、2年連続で女流棋士としてのNHK杯での白星を挙げた。
 
 ### 出場女流棋士決定戦
 
@@ -1190,7 +1190,7 @@
 
   - [橋本崇載](../Page/橋本崇載.md "wikilink")四段が第54回（[2004年](../Page/2004年.md "wikilink")度）の本戦に出場し、対[松尾歩](../Page/松尾歩.md "wikilink")五段戦では金髪、パンチパーマ、紫のシャツというファッションで対局した。また、第57回（[2007年](../Page/2007年.md "wikilink")度）での対[阿部隆](../Page/阿部隆.md "wikilink")八段戦でのカメラを意識した目線は話題を呼んだ。
   - [吉田正和四段は本戦初出場となった第](https://ja.wikipedia.org/wiki/渡辺正和_\(棋士\) "wikilink")60回（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度）の第1回戦（屋敷伸之九段戦）に剃髪をして登場した。
-  - 第62回（[2012年](../Page/2012年.md "wikilink")度）1回戦第3局（2012年4月22日放送）では[佐藤紳哉](../Page/佐藤紳哉.md "wikilink")六段が[カツラをつけて登場し](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")、[豊島将之](../Page/豊島将之.md "wikilink")七段との対局前インタビューで、格闘技やプロレスの煽りのような受け答えをして話題となった\[53\]。その（放送日基準で）半年後の2回戦第12局（10月28日放送）では、[橋本崇載](../Page/橋本崇載.md "wikilink")八段が[羽生善治](../Page/羽生善治.md "wikilink")三冠との対局前インタビューで佐藤の発言を引用してパフォーマンスを真似た。佐藤の「煽り発言」は以降も多く引用され、対象となった豊島自身も、解説を務めた第63回（[2013年](../Page/2013年.md "wikilink")度）準々決勝第4局（2014年2月23日放送・[屋敷伸之](../Page/屋敷伸之.md "wikilink")九段対[大石直嗣](https://ja.wikipedia.org/wiki/大石直嗣 "wikilink")六段）で、対局する両者を評するために引用した。
+  - 第62回（[2012年](../Page/2012年.md "wikilink")度）1回戦第3局（2012年4月22日放送）では[佐藤紳哉](../Page/佐藤紳哉.md "wikilink")六段が[カツラをつけて登場し](../Page/かつら_\(装身具\).md "wikilink")、[豊島将之](../Page/豊島将之.md "wikilink")七段との対局前インタビューで、格闘技やプロレスの煽りのような受け答えをして話題となった\[53\]。その（放送日基準で）半年後の2回戦第12局（10月28日放送）では、[橋本崇載](../Page/橋本崇載.md "wikilink")八段が[羽生善治](../Page/羽生善治.md "wikilink")三冠との対局前インタビューで佐藤の発言を引用してパフォーマンスを真似た。佐藤の「煽り発言」は以降も多く引用され、対象となった豊島自身も、解説を務めた第63回（[2013年](../Page/2013年.md "wikilink")度）準々決勝第4局（2014年2月23日放送・[屋敷伸之](../Page/屋敷伸之.md "wikilink")九段対[大石直嗣](https://ja.wikipedia.org/wiki/大石直嗣 "wikilink")六段）で、対局する両者を評するために引用した。
 
 <!-- end list -->
 

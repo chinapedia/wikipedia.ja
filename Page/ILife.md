@@ -26,7 +26,7 @@
   - [2009年](../Page/2009年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") - 「iLife '09」発売
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月21日](../Page/10月21日.md "wikilink") - 「iLife '11」発売
   - [2011年](../Page/2011年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - 「iLife '11」が[Mac App Storeからも発売](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")。
-  - [2013年](../Page/2013年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink") - 「iLife '11」から無料アップグレード。[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")がサポートされたほか、[iCloud](https://ja.wikipedia.org/wiki/iCloud "wikilink")との統合も進んだ。
+  - [2013年](../Page/2013年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink") - 「iLife '11」から無料アップグレード。[64ビット](../Page/64ビット.md "wikilink")がサポートされたほか、[iCloud](https://ja.wikipedia.org/wiki/iCloud "wikilink")との統合も進んだ。
 
 ## 同梱ソフト
 

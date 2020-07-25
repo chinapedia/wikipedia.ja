@@ -1,7 +1,7 @@
 > この記事は[THE3名様](https://ja.wikipedia.org/wiki/THE3名様)から翻訳されています。
 
 
-『**THE3名様**』（ザ さんめいさま）は、[石原まこちん](../Page/石原まこちん.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[2000年](../Page/2000年.md "wikilink")より[2007年](../Page/2007年.md "wikilink")まで連載され、その後[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Bbmfマガジン](https://ja.wikipedia.org/wiki/Bbmfマガジン "wikilink")の[携帯コミック](../Page/携帯コミック.md "wikilink")にて、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からは[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")の『[電撃コミック ジャパン](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン "wikilink")』として配信されている。
+『**THE3名様**』（ザ さんめいさま）は、[石原まこちん](../Page/石原まこちん.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[2000年](../Page/2000年.md "wikilink")より[2007年](../Page/2007年.md "wikilink")まで連載され、その後[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Bbmfマガジン](https://ja.wikipedia.org/wiki/Bbmfマガジン "wikilink")の[携帯コミック](../Page/携帯コミック.md "wikilink")にて、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からは[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")の『[電撃コミック ジャパン](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン "wikilink")』として配信されている。
 
 単行本は、これまでに小学館から全10集、Bbmfマガジンから「追加注文編」が1集、アスキー・メディアワークスから「新装開店編」が2集発行されている。
 

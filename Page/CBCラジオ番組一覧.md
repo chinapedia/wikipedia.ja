@@ -253,7 +253,7 @@ P:<a href="https://ja.wikipedia.org/wiki/名古屋おもてなし武将隊" titl
 </tr>
 <tr class="even">
 <td><p>21:45 <a href="https://ja.wikipedia.org/wiki/ココロのオンガク_〜music_for_you〜" title="wikilink">ココロのオンガク 〜music for you〜</a>(QR)<br />
-P:<a href="https://ja.wikipedia.org/wiki/井手大介" title="wikilink">井手大介</a></p></td>
+P:<a href="../Page/井手大介.md" title="wikilink">井手大介</a></p></td>
 <td></td>
 <td></td>
 <td></td>

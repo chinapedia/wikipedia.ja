@@ -35,7 +35,7 @@
 
 3月4日、サラトガは3隻の駆逐艦に護衛されて[マジュロ環礁](https://ja.wikipedia.org/wiki/マジュロ環礁 "wikilink")を出発し、[エスピリトゥ・サント島](https://ja.wikipedia.org/wiki/エスピリトゥ・サント島 "wikilink")、オーストラリアの[ホバート](../Page/ホバート.md "wikilink")、[タスマニア](https://ja.wikipedia.org/wiki/タスマニア "wikilink")、[フリーマントルを経由して太平洋からインド洋に転戦した](../Page/フリーマントル_\(西オーストラリア州\).md "wikilink")。3月27日、洋上で空母[イラストリアス](../Page/イラストリアス_\(空母・初代\).md "wikilink")、戦艦4隻などからなるイギリス海軍艦隊と合流、31日に[セイロン島](../Page/セイロン島.md "wikilink")に到着した。
 
-サラトガは調整の後、4月16日に[トリンコマリー](https://ja.wikipedia.org/wiki/トリンコマリー "wikilink")を出撃して19日に2隻の空母は[スマトラ島](../Page/スマトラ島.md "wikilink")北西端の沖にある[サバン](https://ja.wikipedia.org/wiki/サバン "wikilink")島を空襲、主に日本軍の港湾施設と石油備蓄に攻撃を行った（[コックピット作戦](https://ja.wikipedia.org/wiki/コックピット作戦 "wikilink")）。同様の手法で5月17日に[ジャワ島](../Page/ジャワ島.md "wikilink")の[スラバヤ](../Page/スラバヤ.md "wikilink")を空襲した（[トランサム作戦](https://ja.wikipedia.org/wiki/トランサム作戦 "wikilink")）。その後、本国に帰還した。
+サラトガは調整の後、4月16日に[トリンコマリー](../Page/トリンコマリー.md "wikilink")を出撃して19日に2隻の空母は[スマトラ島](../Page/スマトラ島.md "wikilink")北西端の沖にある[サバン](https://ja.wikipedia.org/wiki/サバン "wikilink")島を空襲、主に日本軍の港湾施設と石油備蓄に攻撃を行った（[コックピット作戦](https://ja.wikipedia.org/wiki/コックピット作戦 "wikilink")）。同様の手法で5月17日に[ジャワ島](../Page/ジャワ島.md "wikilink")の[スラバヤ](../Page/スラバヤ.md "wikilink")を空襲した（[トランサム作戦](https://ja.wikipedia.org/wiki/トランサム作戦 "wikilink")）。その後、本国に帰還した。
 
 ### 終戦直前
 

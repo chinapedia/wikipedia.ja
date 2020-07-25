@@ -236,7 +236,7 @@
   - 2002年～2008年3月30日放送まではTOP3予想を受け付け、TOP3を完全に的中すると抽選で1名にCD券1万円分が送られた。なお、正解者がいない場合は次週に繰り越されるが、正解者なしは年間でも数回しかなかった。2008年4月7日放送以後は、ある特定の1曲の順位を予想する「注目曲予想」に変更され、2008年10月12日放送以後は1位予想に変更された。
   - スポンサーの関係で（[下記参照](https://ja.wikipedia.org/wiki/OSAKAN_HOT_100#スポンサー "wikilink")）『OSAKAN HOT 100』の携帯サイトは[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")しか対応していないので、[Y\!ケータイ](https://ja.wikipedia.org/wiki/Y!ケータイ "wikilink")では原則としてチャートを見ることができない\[17\]。\[18\]
   - ウェブサイトのランキングやチャートシートでは原則として洋楽曲は原題表記になっているが、一部例外が存在する（[DJ BOBOの](https://ja.wikipedia.org/wiki/DJ_BOBO "wikilink")『チワワ de こんチワワ(原題:Chihuahua)』、[O-Zone](../Page/O-Zone.md "wikilink")の『[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")(原題:Dragostea Din Tei)』、[Carlitoの](../Page/ジョニー・ヤコブセン.md "wikilink")『Go\!Go\!カリート(原題:Carlito(Who's That Boy))』等）。
-  - 1990年9月23日と9月30日のチャートでは、当時、特に全国的にはリバイバルヒットしていたわけではなかった[ザ・ナック](../Page/ザ・ナック.md "wikilink")の『[マイ・シャローナ](https://ja.wikipedia.org/wiki/マイ・シャローナ "wikilink")』（1979年発売）が9位を記録したことがあった。同曲が[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『FLASH BACK HITS IN USA』に収録され、FM802の[ヘビーローテーションに選ばれたことにより起こった現象である](../Page/ヘヴィー・ローテーション.md "wikilink")\[19\]。
+  - 1990年9月23日と9月30日のチャートでは、当時、特に全国的にはリバイバルヒットしていたわけではなかった[ザ・ナック](../Page/ザ・ナック.md "wikilink")の『[マイ・シャローナ](../Page/マイ・シャローナ.md "wikilink")』（1979年発売）が9位を記録したことがあった。同曲が[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『FLASH BACK HITS IN USA』に収録され、FM802の[ヘビーローテーションに選ばれたことにより起こった現象である](../Page/ヘヴィー・ローテーション.md "wikilink")\[19\]。
   - 2007年頃まで、1位の曲が発表される直前に流れていたギターの[インスト曲は](../Page/器楽曲.md "wikilink")、CIRCUIT V. PANTHERの「MIRACLE」。
   - 本番組のチャートシートがセールスポイントを集計したCDショップにてフリーペーパーと同じスペースに陳列されていたが、2010年3月に廃止された。翌月からはウェブサイトからチャートシートをダウンロードすることができる。
 
@@ -262,7 +262,7 @@
   - 2008年9月7日現在、同番組にもっとも多く楽曲をチャートインさせているアーティストは、[ドリームズ・カム・トゥルーで](../Page/DREAMS_COME_TRUE.md "wikilink")58曲\[20\]\[21\]。
   - 2018年10月14日現在、同番組にもっとも多く楽曲を1位にランクインさせているアーティストは、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")で20曲\[22\]\[23\]。
   - 2008年8月31日現在、同番組で最も長く1位を獲得した[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")曲は、[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")の「VIRTUAL INSANITY」で16週連続1位\[24\]。
-  - 2015年11月22日現在、同番組で最も長く1位を獲得した[邦楽](../Page/邦楽.md "wikilink")([J-POP](../Page/J-POP.md "wikilink"))曲は、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の「[ええねん](https://ja.wikipedia.org/wiki/ええねん_\(曲\) "wikilink")」、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")「[プラネタリウム](../Page/プラネタリウム_\(BUMP_OF_CHICKENの曲\).md "wikilink")」\[25\]\[26\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の「[新宝島](https://ja.wikipedia.org/wiki/新宝島_\(曲\) "wikilink")」で9週連続1位。
+  - 2015年11月22日現在、同番組で最も長く1位を獲得した[邦楽](../Page/邦楽.md "wikilink")([J-POP](../Page/J-POP.md "wikilink"))曲は、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の「[ええねん](../Page/ええねん_\(曲\).md "wikilink")」、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")「[プラネタリウム](../Page/プラネタリウム_\(BUMP_OF_CHICKENの曲\).md "wikilink")」\[25\]\[26\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の「[新宝島](https://ja.wikipedia.org/wiki/新宝島_\(曲\) "wikilink")」で9週連続1位。
   - 2017年1月22日現在、同番組で連続1位ではないが、[星野源](../Page/星野源.md "wikilink")の「[恋](https://ja.wikipedia.org/wiki/恋_\(星野源の曲\) "wikilink")」が通算10週の1位を獲得し、通算だが邦楽では史上初の記録を更新。
 
 ## 年間チャート

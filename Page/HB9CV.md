@@ -1,7 +1,7 @@
 > この記事は[HB9CV](https://ja.wikipedia.org/wiki/HB9CV)から翻訳されています。
 
 
-**HB9CV**（エイチビーナインシーブイ）とは[スイス](../Page/スイス.md "wikilink")の[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")家が開発した[アンテナ](../Page/アンテナ.md "wikilink")である。
+**HB9CV**（エイチビーナインシーブイ）とは[スイス](../Page/スイス.md "wikilink")の[アマチュア無線](../Page/アマチュア無線.md "wikilink")家が開発した[アンテナ](../Page/アンテナ.md "wikilink")である。
 
 ## 構造
 
@@ -30,6 +30,6 @@ HB9CVをベースにしたアンテナには以下のバリエーションがあ
 ## 関連項目
 
   - [八木・宇田アンテナ](../Page/八木・宇田アンテナ.md "wikilink")
-  - [アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")
+  - [アマチュア無線](../Page/アマチュア無線.md "wikilink")
 
 [Category:アンテナ](https://ja.wikipedia.org/wiki/Category:アンテナ "wikilink") [Category:アマチュア無線](https://ja.wikipedia.org/wiki/Category:アマチュア無線 "wikilink")

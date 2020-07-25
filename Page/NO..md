@@ -9,7 +9,7 @@
   - ビーイング系アーティストの[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が毎日約1分半放映され、普段、あまり見ることが出来ないアーティストのレコーディング作業や、当番組でしか視聴出来ない別バージョンのプロモーションビデオも放映されていた。
   - 当時ヒット曲を多数送り出していたビーイングのマスメディアに対する方針として、93年春頃からメディアへの露出を極力抑えるイメージ戦略があったとされ、当番組の開始時期はZARDやWANDSがテレビに出演しなくなった時期と重なっている。
   - 音楽番組などのテレビに出演しないアーティストの動く映像や、ビデオクリップが多数紹介された。特に金曜日の[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")終了直後のオンエアでは有力アーティストが配置され、自社がスポンサー提供する帯番組を最大限に活用してアーティスト像のイメージコントロールをするという形での宣伝も担っていた。
-  - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は、元・[Mi-Ke](../Page/Mi-Ke.md "wikilink")の[村上遙](../Page/村上遙.md "wikilink")が担当し、オープニングの「エヌオーッ\!」というタイトルコールの叫びは、ナレーターを務める村上遥が「エヌオーッ\!」のタイトルコールを叫ぶ回と、プロモーションビデオに出演するアーティスト自ら「エヌオーッ\!」のタイトルコールを叫ぶ回があり、オープニングの「エヌオーッ\!」のタイトルコールの声で、今日はどのアーティストのプロモーションビデオが放映されるかが分かる目安にもなっていた。ただし、必ず声とその日に登場するアーティストが一致しているわけではなかった。ちなみに、「エヌオーッ\!」のタイトルコールを収録していたアーティストは、[B'z](../Page/B'z.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")（[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")）・[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")・[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")・[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")（ボーカルの[浅岡雄也](../Page/浅岡雄也.md "wikilink")）・[PAMELAH](../Page/PAMELAH.md "wikilink")（ボーカルの[水原由貴](../Page/水原由貴.md "wikilink")）などであった。
+  - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は、元・[Mi-Ke](../Page/Mi-Ke.md "wikilink")の[村上遙](../Page/村上遙.md "wikilink")が担当し、オープニングの「エヌオーッ\!」というタイトルコールの叫びは、ナレーターを務める村上遥が「エヌオーッ\!」のタイトルコールを叫ぶ回と、プロモーションビデオに出演するアーティスト自ら「エヌオーッ\!」のタイトルコールを叫ぶ回があり、オープニングの「エヌオーッ\!」のタイトルコールの声で、今日はどのアーティストのプロモーションビデオが放映されるかが分かる目安にもなっていた。ただし、必ず声とその日に登場するアーティストが一致しているわけではなかった。ちなみに、「エヌオーッ\!」のタイトルコールを収録していたアーティストは、[B'z](../Page/B'z.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")（[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")）・[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")・[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")・[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")（ボーカルの[浅岡雄也](../Page/浅岡雄也.md "wikilink")）・[PAMELAH](../Page/PAMELAH.md "wikilink")（ボーカルの[水原由貴](../Page/水原由貴.md "wikilink")）などであった。
   - [1996年](../Page/1996年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、年末の1時間スペシャル番組として「NO.スペシャル」が一部系列局を除き放送されていた\[1\]。司会は[村上遥](https://ja.wikipedia.org/wiki/村上遥 "wikilink")とUJが担当していた回や、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[高井正憲](../Page/高井正憲.md "wikilink")アナ（当時）が担当していた回もあった。
   - オープニングや放送中に表示されるタイトルロゴは何度か変遷しており、1993年の放送開始～1998年3月まではオープニングで使用された様々なロゴをそのまま使用し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月からは、NO.の文字ロゴ、オープニングのタイトルコール、担当ナレーターが一新され、1998年夏から1999年の1月末までは、当時「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」のナレーターも担当していた[鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink")がナレーターを担当、1999年2月から9月24日の最終回まではHIROMIがナレーターを担当した。
   - キー局のテレビ朝日では[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")から[金曜](https://ja.wikipedia.org/wiki/金曜 "wikilink")の20:54から20:56までの2分間の放送であったが、放送時間帯は各系列局によって異なっていた。各局の過去の放送時間は、各局の放送時間を参照のこと。
@@ -73,8 +73,8 @@
   - 小松未歩 アルバム「[謎](../Page/謎_\(アルバム\).md "wikilink")」紹介映像
   - B'z「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」「[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")」
   - 大黒摩季「[ゲンキダシテ](https://ja.wikipedia.org/wiki/ゲンキダシテ "wikilink")」「[空](../Page/空_\(大黒摩季の曲\).md "wikilink")」
-  - 大黒摩季「[POWER OF DREAMS](https://ja.wikipedia.org/wiki/POWER_OF_DREAMS "wikilink")」全曲紹介Part.1・Part.2
-  - 大黒摩季「[Sunshine](https://ja.wikipedia.org/wiki/POWER_OF_DREAMS "wikilink")」「[Afternoon Cafe](https://ja.wikipedia.org/wiki/POWER_OF_DREAMS "wikilink")」（アルバム「POWER OF DREAMS」発売時にビデオクリップが制作され放送された）
+  - 大黒摩季「[POWER OF DREAMS](../Page/POWER_OF_DREAMS.md "wikilink")」全曲紹介Part.1・Part.2
+  - 大黒摩季「[Sunshine](../Page/POWER_OF_DREAMS.md "wikilink")」「[Afternoon Cafe](../Page/POWER_OF_DREAMS.md "wikilink")」（アルバム「POWER OF DREAMS」発売時にビデオクリップが制作され放送された）
   - 宇徳敬子「[満ち潮の満月](../Page/満ち潮の満月.md "wikilink")」
 
 ### 1998年

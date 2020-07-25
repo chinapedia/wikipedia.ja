@@ -284,5 +284,5 @@
   -
 [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:未完結テレビ番組](https://ja.wikipedia.org/wiki/Category:未完結テレビ番組 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:NHK和歌山](https://ja.wikipedia.org/wiki/Category:NHK和歌山 "wikilink")
 
-1.  17時台のBKニュース（以前は[ニューステラス関西](https://ja.wikipedia.org/wiki/ニューステラス関西 "wikilink")）を、一部録画放送。
+1.  17時台のBKニュース（以前は[ニューステラス関西](../Page/ニューステラス関西.md "wikilink")）を、一部録画放送。
 2.  NHK和歌山放送局アナウンサー。当初は隔週でキャスターを担当していた。

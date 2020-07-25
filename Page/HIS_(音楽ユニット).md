@@ -23,7 +23,7 @@
 
   - 『[日本の人](https://ja.wikipedia.org/wiki/日本の人 "wikilink")』（[1991年](../Page/1991年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")、東芝EMI）
       - [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") - 24ビット・リマスタリングで再発売。
-      - [2016年](../Page/2016年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（[2013年](../Page/2013年.md "wikilink")にEMIミュージック・ジャパン（東芝EMIの後身）を吸収合併）から[SHM-CDと](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")[アナログレコードで再々発売](../Page/レコード.md "wikilink")。
+      - [2016年](../Page/2016年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（[2013年](../Page/2013年.md "wikilink")にEMIミュージック・ジャパン（東芝EMIの後身）を吸収合併）から[SHM-CDと](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")[アナログレコードで再々発売](../Page/レコード.md "wikilink")。
 
 ### シングル
 

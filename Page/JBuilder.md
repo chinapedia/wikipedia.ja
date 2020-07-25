@@ -13,7 +13,7 @@ JBuilderは[エンタープライズ向けの製品である](../Page/企業.md 
 
 ## 特徴
 
-企業[ブランド](../Page/ブランド.md "wikilink")であり、[オンラインヘルプ](https://ja.wikipedia.org/wiki/オンラインヘルプ "wikilink")が充実している。 Javaの[ネットワーク構築は製品版のみとなっている](../Page/コンピュータネットワーク.md "wikilink")。 [インストール](../Page/インストール.md "wikilink")時はJava開発環境も同時に導入される。
+企業[ブランド](../Page/ブランド.md "wikilink")であり、[オンラインヘルプ](../Page/オンラインヘルプ.md "wikilink")が充実している。 Javaの[ネットワーク構築は製品版のみとなっている](../Page/コンピュータネットワーク.md "wikilink")。 [インストール](../Page/インストール.md "wikilink")時はJava開発環境も同時に導入される。
 
 ## 外部リンク
 

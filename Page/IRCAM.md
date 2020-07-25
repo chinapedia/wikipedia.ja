@@ -197,7 +197,7 @@ IRCAMのエントランスは、ポンピドゥー・センター南側に位置
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink"): [サン・テチエンヌ](https://ja.wikipedia.org/wiki/サン・テチエンヌ "wikilink")においてピエール・ブーレーズが講演中に現代音楽研究所の設立を示唆
+  - [1968年](../Page/1968年.md "wikilink"): [サン・テチエンヌ](https://ja.wikipedia.org/wiki/サン・テチエンヌ "wikilink")においてピエール・ブーレーズが講演中に現代音楽研究所の設立を示唆
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"): ポンピドゥー大統領が[現代アート](https://ja.wikipedia.org/wiki/現代アート "wikilink")総合施設建設計画を公表
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"): [ポンピドゥ・センター](https://ja.wikipedia.org/wiki/ポンピドゥ・センター "wikilink")計画の一環として、ブーレーズが研究所設立計画を公表
   - [1970年](../Page/1970年.md "wikilink"): 計画開始 (構想責任者: ピエール・ブーレーズ)

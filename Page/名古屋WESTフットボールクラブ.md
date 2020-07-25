@@ -9,7 +9,7 @@
 
 [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に[天皇杯に初出場](../Page/第41回天皇杯全日本サッカー選手権大会.md "wikilink")。初戦で[日立製作所本社サッカー部](../Page/日立製作所本社サッカー部.md "wikilink")に敗退した。
 
-[1965年](../Page/1965年.md "wikilink")に始まった[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")（JSL）に[東海地方](../Page/東海地方.md "wikilink")から創立メンバー（オリジナル8）として参加。[1966年](../Page/1966年.md "wikilink")、JSLから[東海社会人サッカーリーグ](../Page/東海社会人サッカーリーグ.md "wikilink")に降格。1シーズンを東海リーグで過ごした後、[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")に優勝して[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にJSLに復帰。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")シーズンにJSLで最下位となり入替戦にも敗れ、翌シーズンから始まるJSL2部へ降格した。 しかし会社の方針によりJSL2部には参加せず休部する事になり、現役生活の継続を望んだ選手達は[永大産業サッカー部](../Page/永大産業サッカー部.md "wikilink")を始め、別々のチームへ移籍した。
+[1965年](../Page/1965年.md "wikilink")に始まった[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")（JSL）に[東海地方](../Page/東海地方.md "wikilink")から創立メンバー（オリジナル8）として参加。[1966年](../Page/1966年.md "wikilink")、JSLから[東海社会人サッカーリーグ](../Page/東海社会人サッカーリーグ.md "wikilink")に降格。1シーズンを東海リーグで過ごした後、[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")に優勝して[1968年](../Page/1968年.md "wikilink")にJSLに復帰。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")シーズンにJSLで最下位となり入替戦にも敗れ、翌シーズンから始まるJSL2部へ降格した。 しかし会社の方針によりJSL2部には参加せず休部する事になり、現役生活の継続を望んだ選手達は[永大産業サッカー部](../Page/永大産業サッカー部.md "wikilink")を始め、別々のチームへ移籍した。
 
 ### 戦績
 

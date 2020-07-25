@@ -139,7 +139,7 @@
   - [佐久川{{ruby](https://ja.wikipedia.org/wiki/佐久川智 "wikilink") - より
   - [木下瑠音](https://ja.wikipedia.org/wiki/木下瑠音 "wikilink") - より
   - [笠井美穂](https://ja.wikipedia.org/wiki/笠井美穂 "wikilink") - より
-  - [秋山千鶴](https://ja.wikipedia.org/wiki/秋山千鶴 "wikilink") - より
+  - [秋山千鶴](../Page/秋山千鶴.md "wikilink") - より
   - [細谷翠](https://ja.wikipedia.org/wiki/細谷翠 "wikilink") - より
   - [阪田陽子](https://ja.wikipedia.org/wiki/阪田陽子 "wikilink") - より
   - [徳田琴美](https://ja.wikipedia.org/wiki/徳田琴美 "wikilink") - より
@@ -387,7 +387,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/笠井美穂" title="wikilink">笠井美穂</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/河野千秋" title="wikilink">河野千秋</a></li>
 </ul>
-<p>* <a href="https://ja.wikipedia.org/wiki/秋山千鶴" title="wikilink">秋山千鶴</a>[23]（{{Dts</p></td>
+<p>* <a href="../Page/秋山千鶴.md" title="wikilink">秋山千鶴</a>[23]（{{Dts</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -3012,7 +3012,7 @@
 <tr class="even">
 <td><p><br />
 [29]</p></td>
-<td><p>歯止めの掛からない<a href="https://ja.wikipedia.org/wiki/少子化" title="wikilink">少子化</a><sub>（外村）</sub>[30]</p></td>
+<td><p>歯止めの掛からない<a href="../Page/少子化.md" title="wikilink">少子化</a><sub>（外村）</sub>[30]</p></td>
 <td><p>上代真希</p></td>
 <td><p>「母親を尊敬」[31]</p></td>
 <td><p><a href="../Page/塩澤大輔.md" title="wikilink">塩澤大輔</a></p></td>

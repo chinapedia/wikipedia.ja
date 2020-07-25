@@ -1,7 +1,7 @@
 > この記事は[必殺仕事人V・激闘編](https://ja.wikipedia.org/wiki/必殺仕事人V・激闘編)から翻訳されています。
 
 
-『**必殺仕事人V・激闘編**』（ひっさつしごとにんファイブ げきとうへん）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")まで、[テレビ朝日系で毎週金曜日](../Page/オールニッポン・ニュースネットワーク.md "wikilink")22:00 - 22:54に放送された、[朝日放送と](../Page/朝日放送テレビ.md "wikilink")[松竹](../Page/松竹.md "wikilink")（京都映画撮影所、現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）共同製作のテレビ[時代劇](../Page/時代劇.md "wikilink")。全33話。主演は[藤田まこと](../Page/藤田まこと.md "wikilink")。
+『**必殺仕事人V・激闘編**』（ひっさつしごとにんファイブ げきとうへん）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")まで、[テレビ朝日系で毎週金曜日](../Page/オールニッポン・ニュースネットワーク.md "wikilink")22:00 - 22:54に放送された、[朝日放送と](../Page/朝日放送テレビ.md "wikilink")[松竹](../Page/松竹.md "wikilink")（京都映画撮影所、現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）共同製作のテレビ[時代劇](../Page/時代劇.md "wikilink")。全33話。主演は[藤田まこと](../Page/藤田まこと.md "wikilink")。
 
 [必殺シリーズ](../Page/必殺シリーズ.md "wikilink")の第25作、[必殺仕事人](https://ja.wikipedia.org/wiki/必殺仕事人 "wikilink")シリーズの第6作、[中村主水](../Page/中村主水.md "wikilink")シリーズの第12作である。
 
@@ -165,7 +165,7 @@
 
 :\* 吉蔵 - [遠藤太津朗](../Page/遠藤太津朗.md "wikilink")
 
-:\* 三野田外記 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 三野田外記 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* 丑松 - [浜田雄史](https://ja.wikipedia.org/wiki/浜田雄史 "wikilink")
 
@@ -311,7 +311,7 @@
 
 :\* 甚十郎 - [野口貴史](https://ja.wikipedia.org/wiki/野口貴史 "wikilink")
 
-:\* 熊蔵 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 熊蔵 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* 孫太郎 - [当銀長太郎](https://ja.wikipedia.org/wiki/当銀長太郎 "wikilink")
 
@@ -491,7 +491,7 @@
 
 :\* 香川屋 - [内田勝正](../Page/内田勝正.md "wikilink")
 
-:\* 松田右近 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 松田右近 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* 弥助 - [玉生司朗](https://ja.wikipedia.org/wiki/玉生司朗 "wikilink")
 
@@ -569,7 +569,7 @@
 
 :\* 三野田左太夫 - [西沢利明](../Page/西沢利明.md "wikilink")
 
-:\* 平岡誠三郎 - [山口嘉三](https://ja.wikipedia.org/wiki/山口嘉三 "wikilink")
+:\* 平岡誠三郎 - [山口嘉三](../Page/山口嘉三.md "wikilink")
 
 :\* お里 - 井上ユカリ
 

@@ -69,7 +69,7 @@
 [TDK-Lambda_Nagaoka_Technical_Center.JPG](https://ja.wikipedia.org/wiki/File:TDK-Lambda_Nagaoka_Technical_Center.JPG "fig:TDK-Lambda_Nagaoka_Technical_Center.JPG")
 
   - 本社 - [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
-  - 長岡テクニカルセンター - [新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")
+  - 長岡テクニカルセンター - [新潟県](../Page/新潟県.md "wikilink")[長岡市](../Page/長岡市.md "wikilink")
 
 ## 関連会社
 

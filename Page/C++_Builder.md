@@ -101,7 +101,7 @@ Starterとアカデミック版を除き、C++Builder 6、2007、2009、2010、X
 
 新たに「Metropolis UI」を導入したことにより、タッチ対応、ライブタイルサポートなどを搭載した[Windows 8デスクトップアプリケーションの開発が可能になった](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")。ただし[WinRTには対応しない](https://ja.wikipedia.org/wiki/Windowsランタイム "wikilink")
 
-[2012年](../Page/2012年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")にリリースされたアップデートにより、[Clang](https://ja.wikipedia.org/wiki/Clang "wikilink")、[LLVM](../Page/LLVM.md "wikilink")に対応した[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")コンパイラが追加提供された\[6\]。ただし、[32ビット](../Page/32ビット.md "wikilink")コンパイラは従来通りBCC32なため、Win32 / Win64でソースコードに互換性がない事もあった。この問題の解消には後述する「[C++ Builder 10 Seattle](https://ja.wikipedia.org/wiki/#C++_Builder_10_Seattle "wikilink")」の登場を待たなくてはならなかった。
+[2012年](../Page/2012年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")にリリースされたアップデートにより、[Clang](https://ja.wikipedia.org/wiki/Clang "wikilink")、[LLVM](../Page/LLVM.md "wikilink")に対応した[64ビット](../Page/64ビット.md "wikilink")コンパイラが追加提供された\[6\]。ただし、[32ビット](../Page/32ビット.md "wikilink")コンパイラは従来通りBCC32なため、Win32 / Win64でソースコードに互換性がない事もあった。この問題の解消には後述する「[C++ Builder 10 Seattle](https://ja.wikipedia.org/wiki/#C++_Builder_10_Seattle "wikilink")」の登場を待たなくてはならなかった。
 
 搭載されるコンパイラはBCC32（Windows 32ビット）、BCC64（Windows 64ビット / Clang）、BCCOSX (OS X) の3つとなった。
 
@@ -197,7 +197,7 @@ Starter Edition は廃止された。Professional Edition にあった別売の 
 
 Windows 用 [32ビット](../Page/32ビット.md "wikilink") コンパイラ (BCC32X, BCC32C) にて [C++17](https://ja.wikipedia.org/wiki/C%2B%2B17 "wikilink") をサポートするようになった。
 
-[2019年](../Page/2019年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")にリリースされた Release 2 (10.3.2) において、Windows 用 [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") コンパイラ (BCC64) にて [C++17](https://ja.wikipedia.org/wiki/C%2B%2B17 "wikilink") をサポートするようになった。[Language Server Protocol](https://ja.wikipedia.org/wiki/Language_Server_Protocol "wikilink") (LSP) に対応し、コード補完 (Code Insight) の性能が向上した。
+[2019年](../Page/2019年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")にリリースされた Release 2 (10.3.2) において、Windows 用 [64ビット](../Page/64ビット.md "wikilink") コンパイラ (BCC64) にて [C++17](https://ja.wikipedia.org/wiki/C%2B%2B17 "wikilink") をサポートするようになった。[Language Server Protocol](https://ja.wikipedia.org/wiki/Language_Server_Protocol "wikilink") (LSP) に対応し、コード補完 (Code Insight) の性能が向上した。
 
 Starter / Community 版を除き、C++ Builder 6、2007、2009、2010、XE - XE8、10 - 10.2 のライセンスが付属する。
 

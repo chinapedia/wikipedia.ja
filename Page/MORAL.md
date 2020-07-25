@@ -88,7 +88,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/2月5日.md" title="wikilink">2月5日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/2月5日.md" title="wikilink">2月5日</a></p></td>
 <td><p>ビクター／Invitation</p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>VDR-1149</p></td>
@@ -165,7 +165,7 @@ VCF-1617</p></td>
 <td><p>11</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
 <td><p>ビクター／Invitation</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>VICL-70099</p></td>
 <td><p>92位</p></td>
 <td></td>

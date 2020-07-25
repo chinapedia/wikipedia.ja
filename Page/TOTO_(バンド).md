@@ -160,7 +160,7 @@
 
 <!-- end list -->
 
-  - [サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")（Simon Phillips、 [1957年](../Page/1957年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ） - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink")（Simon Phillips、 [1957年](../Page/1957年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ） - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
 
@@ -593,9 +593,9 @@ XIV Tour 2016</p></td>
 
 ### オリジナル・アルバム
 
-  - 『[宇宙の騎士](https://ja.wikipedia.org/wiki/宇宙の騎士 "wikilink")』 - *[Toto](https://ja.wikipedia.org/wiki/:en:Toto_\(album\) "wikilink")* (1978年)
-  - 『[ハイドラ](https://ja.wikipedia.org/wiki/ハイドラ_\(アルバム\) "wikilink")』 - *[Hydra](https://ja.wikipedia.org/wiki/:en:Hydra_\(Toto_album\) "wikilink")* (1979年)
-  - 『[ターン・バック](https://ja.wikipedia.org/wiki/ターン・バック_\(TOTOのアルバム\) "wikilink")』 - *[Turn Back](https://ja.wikipedia.org/wiki/:en:Turn_Back_\(Toto_album\) "wikilink")* (1981年)
+  - 『[宇宙の騎士](../Page/宇宙の騎士.md "wikilink")』 - *[Toto](https://ja.wikipedia.org/wiki/:en:Toto_\(album\) "wikilink")* (1978年)
+  - 『[ハイドラ](../Page/ハイドラ_\(アルバム\).md "wikilink")』 - *[Hydra](https://ja.wikipedia.org/wiki/:en:Hydra_\(Toto_album\) "wikilink")* (1979年)
+  - 『[ターン・バック](../Page/ターン・バック_\(TOTOのアルバム\).md "wikilink")』 - *[Turn Back](https://ja.wikipedia.org/wiki/:en:Turn_Back_\(Toto_album\) "wikilink")* (1981年)
   - 『[TOTO IV〜聖なる剣〜](../Page/聖なる剣.md "wikilink")』 - *[Toto IV](https://ja.wikipedia.org/wiki/:en:Toto_IV "wikilink")* (1982年)
   - 『[アイソレーション](https://ja.wikipedia.org/wiki/アイソレーション_\(アルバム\) "wikilink")』 - *[Isolation](https://ja.wikipedia.org/wiki/:en:Isolation_\(Toto_album\) "wikilink")* (1984年)
   - 『[ファーレンハイト](https://ja.wikipedia.org/wiki/ファーレンハイト_\(アルバム\) "wikilink")』 - *[Fahrenheit](https://ja.wikipedia.org/wiki/:en:Fahrenheit_\(Toto_album\) "wikilink")* (1986年)
@@ -721,7 +721,7 @@ XIV Tour 2016</p></td>
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
 
 <!-- end list -->
 

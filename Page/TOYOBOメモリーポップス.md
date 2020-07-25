@@ -1,7 +1,7 @@
 > この記事は[TOYOBOメモリーポップス](https://ja.wikipedia.org/wiki/TOYOBOメモリーポップス)から翻訳されています。
 
 
-『**TOYOBOメモリーポップス**』（とうようぼうメモリーポップス）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。他に[JRN系列の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[CBCラジオ](../Page/CBCラジオ.md "wikilink")と[RKBラジオ](../Page/RKBラジオ.md "wikilink")でも放送されていた。[東洋紡](../Page/東洋紡.md "wikilink")の一社提供。
+『**TOYOBOメモリーポップス**』（とうようぼうメモリーポップス）は、[1986年](../Page/1986年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。他に[JRN系列の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[CBCラジオ](../Page/CBCラジオ.md "wikilink")と[RKBラジオ](../Page/RKBラジオ.md "wikilink")でも放送されていた。[東洋紡](../Page/東洋紡.md "wikilink")の一社提供。
 
 ## 概要
 

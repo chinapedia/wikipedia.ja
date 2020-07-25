@@ -35,7 +35,7 @@
 
 ### 番組の終了
 
-当番組は12年10ヶ月にわたり千葉テレビを代表する番組として放送してきたが、2011年4月1日を持って終了\[3\]。翌週4月4日からは、当番組をリニューアルした新しい情報番組『[ハピはぴ・モーニング〜ハピモ〜](https://ja.wikipedia.org/wiki/ハピはぴ・モーニング〜ハピモ〜 "wikilink")』を放送\[4\]。MCは月・火曜→火・水曜が[未莉](https://ja.wikipedia.org/wiki/未莉 "wikilink")、水曜→月曜が千葉テレビアナウンサー2名（[谷岡恵里子](https://ja.wikipedia.org/wiki/谷岡恵里子 "wikilink")、[笠井さやか](../Page/笠井さやか.md "wikilink")→笠井さやか、[石田浩子](https://ja.wikipedia.org/wiki/石田浩子 "wikilink")）が週替わりで出演、木・金曜が[知念沙也樺](https://ja.wikipedia.org/wiki/知念沙也樺 "wikilink")が担当。\[5\]この番組も当番組同様首都圏トライアングル同時ネットされるが、同時ネット時間は7:00-7:30に変更され、6:30-7:00及び7:30-8:00は千葉テレビのみの放送となる。
+当番組は12年10ヶ月にわたり千葉テレビを代表する番組として放送してきたが、2011年4月1日を持って終了\[3\]。翌週4月4日からは、当番組をリニューアルした新しい情報番組『[ハピはぴ・モーニング〜ハピモ〜](https://ja.wikipedia.org/wiki/ハピはぴ・モーニング〜ハピモ〜 "wikilink")』を放送\[4\]。MCは月・火曜→火・水曜が[未莉](https://ja.wikipedia.org/wiki/未莉 "wikilink")、水曜→月曜が千葉テレビアナウンサー2名（[谷岡恵里子](https://ja.wikipedia.org/wiki/谷岡恵里子 "wikilink")、[笠井さやか](../Page/笠井さやか.md "wikilink")→笠井さやか、[石田浩子](../Page/石田浩子.md "wikilink")）が週替わりで出演、木・金曜が[知念沙也樺](https://ja.wikipedia.org/wiki/知念沙也樺 "wikilink")が担当。\[5\]この番組も当番組同様首都圏トライアングル同時ネットされるが、同時ネット時間は7:00-7:30に変更され、6:30-7:00及び7:30-8:00は千葉テレビのみの放送となる。
 
 放送最終週の「朝まる川柳」には各曜日のMCの名前に関したお題が設定され\[6\]、番組最終日の4月1日には歴代司会者の[宮崎留実](https://ja.wikipedia.org/wiki/宮崎留実 "wikilink")からの投稿もあった。エンディングでは各曜日のMCはともに挨拶を行い、月～水曜日担当の佐々と南波は水曜日に、木・金曜日担当の河村と佐々木には金曜日に番組スタッフから花束が送られた。また、佐々木は担当最終日には涙を見せた。
 
@@ -86,7 +86,7 @@
   - [黒宮千香子](../Page/黒宮千香子.md "wikilink") 2005年4月～2008年3月 (木、金)
   - [渡名喜織恵](../Page/渡名喜織恵.md "wikilink") 2005年10月～2008年3月 (月～水)
   - [小川りかこ](https://ja.wikipedia.org/wiki/小川りかこ "wikilink") 2005年10月～2008年3月 (月～水)
-  - [土屋晴乃](https://ja.wikipedia.org/wiki/土屋晴乃 "wikilink") 2008年[4月2日](../Page/4月2日.md "wikilink")～[2009年](../Page/2009年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")(水～金)
+  - [土屋晴乃](../Page/土屋晴乃.md "wikilink") 2008年[4月2日](../Page/4月2日.md "wikilink")～[2009年](../Page/2009年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")(水～金)
   - [森田雪](https://ja.wikipedia.org/wiki/森田雪 "wikilink") 2008年4月2日～2009年[10月2日](../Page/10月2日.md "wikilink")(水～金)
   - [宮崎留実](https://ja.wikipedia.org/wiki/宮崎留実 "wikilink") 2008年4月～[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")(月、火)
   - [山崎彩](https://ja.wikipedia.org/wiki/山崎彩 "wikilink") 2008年4月～[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")(月、火)

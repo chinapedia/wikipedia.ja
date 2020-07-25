@@ -257,7 +257,7 @@ DVDの大森一樹のコメントによれば、23世紀の日本の増長や一
   - 陸上幕僚長（志村武雄\[9\]）：[荻原賢三](https://ja.wikipedia.org/wiki/荻原賢三 "wikilink")
   - 海上幕僚長（平田大輔\[10\]）：[辰馬伸](https://ja.wikipedia.org/wiki/辰馬伸 "wikilink")
   - ラゴス島日本軍軍曹：[渡辺哲](../Page/渡辺哲.md "wikilink")
-  - 自衛隊情報処理室員：[小木茂光](../Page/小木茂光.md "wikilink")、[坂田祥一郎](https://ja.wikipedia.org/wiki/坂田祥一郎 "wikilink")、[井上康](https://ja.wikipedia.org/wiki/井上康 "wikilink")、[秋田宗好](https://ja.wikipedia.org/wiki/秋田宗好 "wikilink")
+  - 自衛隊情報処理室員：[小木茂光](../Page/小木茂光.md "wikilink")、[坂田祥一郎](https://ja.wikipedia.org/wiki/坂田祥一郎 "wikilink")、[井上康](https://ja.wikipedia.org/wiki/井上康 "wikilink")、[秋田宗好](../Page/秋田宗好.md "wikilink")
   - M101：[マイケル・フォキャノン](https://ja.wikipedia.org/wiki/マイケル・フォキャノン "wikilink")
   - M102：[マーク・フォキャノン](https://ja.wikipedia.org/wiki/マーク・フォキャノン "wikilink")
   - ニュースキャスター：[藤本修子](https://ja.wikipedia.org/wiki/藤本修子 "wikilink")

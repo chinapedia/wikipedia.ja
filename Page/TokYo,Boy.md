@@ -48,7 +48,7 @@
   - [ナイツ](../Page/ナイツ_\(お笑いコンビ\).md "wikilink")
   - [近田春夫](../Page/近田春夫.md "wikilink")
   - [高城剛](../Page/高城剛.md "wikilink")
-  - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - [井筒和幸](../Page/井筒和幸.md "wikilink")
   - [竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")
   - [泉麻人](../Page/泉麻人.md "wikilink")
   - [ホーム･チーム](../Page/ホーム・チーム_\(お笑い\).md "wikilink")
@@ -104,7 +104,7 @@
   - 構成：[村上卓史](../Page/村上卓史.md "wikilink")、[小高弘嗣](https://ja.wikipedia.org/wiki/小高弘嗣 "wikilink")、[つじまるみ](https://ja.wikipedia.org/wiki/つじまこと "wikilink")、[西田啓昭](https://ja.wikipedia.org/wiki/西田啓昭 "wikilink")
   - 技術：Zeta
   - 編集・MA：[NEK STUDIO](../Page/日本映像教育社.md "wikilink") → [ヌーベルPC（ヌーベルバーグ）](https://ja.wikipedia.org/wiki/ヌーベルアージュ "wikilink")
-  - 音効：[ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")
+  - 音効：[ZACK](../Page/フリーダム・オブ・ザック.md "wikilink")
   - 制作:[LOCOMOTION](../Page/ロコモーション_\(企業\).md "wikilink")
 
 ### ナレーター

@@ -59,7 +59,7 @@ GNOME端末はタブをサポートしている\[10\]ユーザーはいくつも
 
 ## 関連項目
 
-  - [Konsole](https://ja.wikipedia.org/wiki/Konsole "wikilink") - [KDE](../Page/KDE.md "wikilink")における標準の端末エミュレータ
+  - [Konsole](../Page/Konsole.md "wikilink") - [KDE](../Page/KDE.md "wikilink")における標準の端末エミュレータ
 
 ## 外部リンク
 

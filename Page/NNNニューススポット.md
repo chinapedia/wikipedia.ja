@@ -209,7 +209,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/テレビ信州.md" title="wikilink">テレビ信州</a>（TSB）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TSBニュース" title="wikilink">TSBニュース</a></p></td>
+<td><p><a href="../Page/TSBニュース.md" title="wikilink">TSBニュース</a></p></td>
 <td><p>▲</p></td>
 <td><p>土日のタイトルは『<a href="https://ja.wikipedia.org/wiki/NNNニューススポット_TSB" title="wikilink">NNNニューススポット TSB</a>』</p></td>
 </tr>
@@ -306,7 +306,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/熊本県民テレビ.md" title="wikilink">くまもと県民テレビ</a>（KKT）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KKTニュース" title="wikilink">KKTニュース</a></p></td>
+<td><p><a href="../Page/KKTニュース.md" title="wikilink">KKTニュース</a></p></td>
 <td></td>
 <td></td>
 </tr>

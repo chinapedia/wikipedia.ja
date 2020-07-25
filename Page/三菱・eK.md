@@ -448,7 +448,7 @@ Mitsubishi eK Custom T B11W 02.JPG|2013年6月販売型 カスタム T（2013年
 6.  デアゴスティーニジャパン 週刊日本の名車第42号25ページより。
 7.  OEM車種のオッティも同様にラインアップされていた。
 8.  裏面センターハブ付近にENKEIロゴが確認できる。
-9.  以前発売されていた[スズキ・Kei](../Page/スズキ・Kei.md "wikilink")やOEM車種の[マツダ・ラピュタ](../Page/マツダ・ラピュタ.md "wikilink")も実質的にはクロスオーバーSUVだが、[スズキや](../Page/スズキ_\(企業\).md "wikilink")[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")では[セダン](../Page/セダン.md "wikilink")と[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の間を埋めるモデルとして扱われ、クロスオーバーSUVとは言いにくい部分もあった。2019年3月現在、[スズキ・ハスラー](https://ja.wikipedia.org/wiki/スズキ・ハスラー "wikilink")とOEM車種の[マツダ・フレアクロスオーバー](https://ja.wikipedia.org/wiki/マツダ・フレアクロスオーバー "wikilink")、[ダイハツ・キャスト](https://ja.wikipedia.org/wiki/ダイハツ・キャスト "wikilink")アクティバとOEM車種の[トヨタ・ピクシスジョイ Cが公式にクロスオーバーSUVとされている](https://ja.wikipedia.org/wiki/トヨタ・ピクシスジョイ "wikilink")。
+9.  以前発売されていた[スズキ・Kei](../Page/スズキ・Kei.md "wikilink")やOEM車種の[マツダ・ラピュタ](../Page/マツダ・ラピュタ.md "wikilink")も実質的にはクロスオーバーSUVだが、[スズキや](../Page/スズキ_\(企業\).md "wikilink")[マツダ](../Page/マツダ.md "wikilink")では[セダン](../Page/セダン.md "wikilink")と[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の間を埋めるモデルとして扱われ、クロスオーバーSUVとは言いにくい部分もあった。2019年3月現在、[スズキ・ハスラー](https://ja.wikipedia.org/wiki/スズキ・ハスラー "wikilink")とOEM車種の[マツダ・フレアクロスオーバー](https://ja.wikipedia.org/wiki/マツダ・フレアクロスオーバー "wikilink")、[ダイハツ・キャスト](https://ja.wikipedia.org/wiki/ダイハツ・キャスト "wikilink")アクティバとOEM車種の[トヨタ・ピクシスジョイ Cが公式にクロスオーバーSUVとされている](https://ja.wikipedia.org/wiki/トヨタ・ピクシスジョイ "wikilink")。
 10.
 11.
 12.

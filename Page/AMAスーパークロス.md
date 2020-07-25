@@ -119,7 +119,7 @@
 <td><p><a href="../Page/エディ・ウォーレン.md" title="wikilink">エディ・ウォーレン</a>（カワサキ）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/リック・ジョンソン.md" title="wikilink">リック・ジョンソン</a>（ホンダ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドニー・シュミット" title="wikilink">ドニー・シュミット</a>（カワサキ）</p></td>
 <td><p>K・タービン（ホンダ）</p></td>

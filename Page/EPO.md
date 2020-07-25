@@ -153,7 +153,7 @@
 | 8  | 1985年[4月21日](../Page/4月21日.md "wikilink")                                                     | [COMPACT-CLUB](https://ja.wikipedia.org/wiki/COMPACT-CLUB "wikilink") (12inch Single)                           |
 | 9  | 1985年[8月5日](../Page/8月5日.md "wikilink")                                                       | [音楽のような風](https://ja.wikipedia.org/wiki/音楽のような風 "wikilink")／擬似恋人達の夜                                             |
 | 10 | 1985年[11月20日](../Page/11月20日.md "wikilink")                                                   | [12月のエイプリル・フール](https://ja.wikipedia.org/wiki/12月のエイプリル・フール "wikilink")／じょうずな不良のしかた                             |
-| 11 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")   | [渚のモニュメント](https://ja.wikipedia.org/wiki/渚のモニュメント "wikilink")／すてきなジェニー                                          |
+| 11 | [1986年](../Page/1986年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                      | [渚のモニュメント](https://ja.wikipedia.org/wiki/渚のモニュメント "wikilink")／すてきなジェニー                                          |
 | 12 | 1986年[6月20日](../Page/6月20日.md "wikilink")                                                     | [太陽にPUMP\!PUMP\!](https://ja.wikipedia.org/wiki/太陽にPUMP!PUMP! "wikilink")／ナーヴァス                                 |
 | 13 | 1986年[11月1日](../Page/11月1日.md "wikilink")                                                     | [アレイ・キャッツ](https://ja.wikipedia.org/wiki/アレイ・キャッツ "wikilink") (Single Version)／Middle Twenties                  |
 | 14 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")   | [DOWN TOWNラプソディー](https://ja.wikipedia.org/wiki/DOWN_TOWNラプソディー "wikilink")／恋のアンビバレンス                           |
@@ -201,7 +201,7 @@
 | 5   | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")                      | [VITAMIN E・P・O](https://ja.wikipedia.org/wiki/VITAMIN_E・P・O "wikilink")                                               |
 | 6   | [1984年](../Page/1984年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")                                       | [HI・TOUCH-HI・TECH](https://ja.wikipedia.org/wiki/HI・TOUCH-HI・TECH "wikilink")                                         |
 | 7   | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")                    | [HARMONY](https://ja.wikipedia.org/wiki/HARMONY_\(EPOのアルバム\) "wikilink")                                              |
-| 8   | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")   | [PUMP\! PUMP\!](https://ja.wikipedia.org/wiki/PUMP!_PUMP! "wikilink")                                                 |
+| 8   | [1986年](../Page/1986年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")                      | [PUMP\! PUMP\!](https://ja.wikipedia.org/wiki/PUMP!_PUMP! "wikilink")                                                 |
 | 9   | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")                    | [GO GO EPO](https://ja.wikipedia.org/wiki/GO_GO_EPO "wikilink")                                                       |
 | 10  | 1987年[12月5日](../Page/12月5日.md "wikilink")                                                                      | [POP TRACKS](https://ja.wikipedia.org/wiki/POP_TRACKS "wikilink")                                                     |
 | 11  | [1988年](../Page/1988年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")                                       | [FREE STYLE](https://ja.wikipedia.org/wiki/FREE_STYLE_\(アルバム\) "wikilink")                                            |
@@ -226,7 +226,7 @@
 |      | 発売日                                                                                           | タイトル                                                                                                                                  |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | RCA  | [1984年](../Page/1984年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | [THE BEST STATION JOEPO 1980-1984](https://ja.wikipedia.org/wiki/THE_BEST_STATION_JOEPO_1980-1984 "wikilink")（含未発表曲）                  |
-| MIDI | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")   | [The very best of EPO](https://ja.wikipedia.org/wiki/The_very_best_of_EPO "wikilink")                                                 |
+| MIDI | [1986年](../Page/1986年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")                      | [The very best of EPO](https://ja.wikipedia.org/wiki/The_very_best_of_EPO "wikilink")                                                 |
 | MIDI | [1989年](../Page/1989年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")                    | [THE BALLADS](https://ja.wikipedia.org/wiki/THE_BALLADS "wikilink")（含新録曲）                                                             |
 | MIDI | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月21日](../Page/11月21日.md "wikilink") | [CM TRACKS](https://ja.wikipedia.org/wiki/CM_TRACKS "wikilink")（含アルバム未収録曲・未発表曲）                                                       |
 | MIDI | [1991年](../Page/1991年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")                      | [SINGLE TRACKS](https://ja.wikipedia.org/wiki/SINGLE_TRACKS "wikilink")（含アルバム未収録曲）                                                    |
@@ -410,7 +410,7 @@
       - [ロンリージャーニー](../Page/ミ・アモーレ.md "wikilink")
       - [ロマンティックな夜だわ](../Page/BITTER_AND_SWEET_\(中森明菜のアルバム\).md "wikilink")
   - [中山美穂](../Page/中山美穂.md "wikilink")
-      - [悲しみのライダー](https://ja.wikipedia.org/wiki/ONE_AND_ONLY_\(アルバム\) "wikilink")
+      - [悲しみのライダー](../Page/ONE_AND_ONLY_\(アルバム\).md "wikilink")
   - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink")
       - ななつちがい
   - [藤井隆](../Page/藤井隆.md "wikilink")

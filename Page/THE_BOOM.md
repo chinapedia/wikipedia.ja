@@ -1,11 +1,11 @@
 > この記事は[THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM)から翻訳されています。
 
 
-**THE BOOM**（ザ・ブーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に結成し、[2014年](../Page/2014年.md "wikilink")に解散した。
+**THE BOOM**（ザ・ブーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1986年](../Page/1986年.md "wikilink")に結成し、[2014年](../Page/2014年.md "wikilink")に解散した。
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")11月結成。「THE BOOM」というバンド名は、「常に流行に左右されず自分たちの音楽を貫いていけるように」という逆説で、ヴォーカルの[宮沢和史](../Page/宮沢和史.md "wikilink")による命名である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[7月26日](../Page/7月26日.md "wikilink")より、[原宿](../Page/原宿.md "wikilink")の[ホコ天でバンド活動を始める](../Page/歩行者天国.md "wikilink")。
+[1986年](../Page/1986年.md "wikilink")11月結成。「THE BOOM」というバンド名は、「常に流行に左右されず自分たちの音楽を貫いていけるように」という逆説で、ヴォーカルの[宮沢和史](../Page/宮沢和史.md "wikilink")による命名である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[7月26日](../Page/7月26日.md "wikilink")より、[原宿](../Page/原宿.md "wikilink")の[ホコ天でバンド活動を始める](../Page/歩行者天国.md "wikilink")。
 
 [1988年](../Page/1988年.md "wikilink")（昭和63年）[12月18日](../Page/12月18日.md "wikilink")、ソニーのオーディションに合格、翌[1989年](../Page/1989年.md "wikilink")（平成元年）[5月21日](../Page/5月21日.md "wikilink")、シングル「[君はTVっ子](../Page/君はTVっ子.md "wikilink")」とアルバム『A Peacetime Boom』でメジャーデビュー。代表曲は「[星のラブレター](../Page/星のラブレター.md "wikilink")」（1989年）、「[島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」（[1993年](../Page/1993年.md "wikilink")）、「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）など多数。結成から解散までの28年間で（途中数回の活動休止はあったものの）1度のメンバーチェンジもなかった。1980年代後期のバンドブームでおびただしい数のバンドがデビューする中、ライブでの跳んだり、踊ったり、ステージから観客席に飛び込むなど、派手なパフォーマンスで人気を博した。
 

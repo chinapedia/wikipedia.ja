@@ -183,7 +183,7 @@ HQ版の発売に伴い、オリジナルのPC版は2011年[4月21日](../Page/4
   - サポートカンパニー - [レジスタ](../Page/レジスタ_\(ゲーム会社\).md "wikilink")
   - スペシャルサンクス - 中村奈緒、神吉弘毅（[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")・ジャパン）、School Days 制作委員会
   - エグゼクティブプロデューサー - [大場規勝](https://ja.wikipedia.org/wiki/大場規勝 "wikilink")
-  - 制作 - [ガイズウェア](https://ja.wikipedia.org/wiki/ガイズウェア "wikilink")
+  - 制作 - [ガイズウェア](../Page/ガイズウェア.md "wikilink")
   - 製作 - 株式会社[インターチャネル](../Page/インターチャネル.md "wikilink")・ホロン
 
 ## TVアニメ

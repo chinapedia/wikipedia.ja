@@ -772,7 +772,7 @@
   - [にっぽんのうた 世界の歌](https://ja.wikipedia.org/wiki/にっぽんのうた_世界の歌 "wikilink")（2009年4月6日 - 2012年3月29日）
   - [気ままにクラシック](../Page/気ままにクラシック.md "wikilink")（2002年4月5日 - 2012年3月30日）
   - [熊川哲也のバレエ音楽スタジオ](https://ja.wikipedia.org/wiki/熊川哲也のバレエ音楽スタジオ "wikilink")（2011年4月29日 - 2012年3月30日）
-  - [U-18 ユーガタM塾](https://ja.wikipedia.org/wiki/U-18_ユーガタM塾 "wikilink")（2008年4月4日 - 2012年3月31日）
+  - [U-18 ユーガタM塾](../Page/U-18_ユーガタM塾.md "wikilink")（2008年4月4日 - 2012年3月31日）
   - [FMシンフォニー・コンサート](../Page/FMシンフォニー・コンサート.md "wikilink")（1985年4月6日 - 2007年4月1日、2009年4月5日 - 2012年4月1日）
   - [大貫妙子 懐かしい未来](https://ja.wikipedia.org/wiki/大貫妙子_懐かしい未来 "wikilink")（ - 2012年4月3日）
   - [FM番組トピックス](https://ja.wikipedia.org/wiki/FM番組トピックス "wikilink")\[21\]

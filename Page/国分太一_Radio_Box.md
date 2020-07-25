@@ -245,7 +245,7 @@
 
   - [ケンタロウ](../Page/ケンタロウ.md "wikilink")（2009年5月）
   - 片桐舞子（[MAY'S](../Page/MAY'S.md "wikilink")）（2009年9月）
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")（2011年5月）
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")（2011年5月）
   - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（当時KAT-TUN）（2012年10月）
   - [中山優馬](../Page/中山優馬.md "wikilink")（2013年10月）
   - [岩本照](../Page/岩本照.md "wikilink")（2019年2月）（2020年2月）

@@ -224,7 +224,7 @@
 <td><p>Battle 13</p></td>
 <td><p>純白のブランシェ 楓のほほえみ</p></td>
 <td><p>葉月九ロウ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平田智浩" title="wikilink">平田智浩</a></p></td>
+<td><p><a href="../Page/平田智浩.md" title="wikilink">平田智浩</a></p></td>
 <td><p>磨積良亜澄</p></td>
 <td><p>阿保孝雄<br />
 小森高博</p></td>

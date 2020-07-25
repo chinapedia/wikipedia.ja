@@ -221,7 +221,7 @@
 <td><p>2008.10.05</p></td>
 <td><p>2009.03.30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/本間智恵" title="wikilink">本間智恵</a><sup>6</sup><br />
-<a href="https://ja.wikipedia.org/wiki/八木麻紗子" title="wikilink">八木麻紗子</a><sup>6</sup></p></td>
+<a href="../Page/八木麻紗子.md" title="wikilink">八木麻紗子</a><sup>6</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -235,7 +235,7 @@
 <td><p>2012.10.01</p></td>
 <td><p>加藤泰平</p></td>
 <td><p>本間智恵<sup>6</sup><br />
-<a href="https://ja.wikipedia.org/wiki/竹内由恵" title="wikilink">竹内由恵</a><sup>6</sup></p></td>
+<a href="../Page/竹内由恵.md" title="wikilink">竹内由恵</a><sup>6</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012.10.07</p></td>
@@ -349,7 +349,7 @@
 
 ## 特別編成
 
-編成上の都合により、[平日・土曜日の最終ニュースが休止となる際](https://ja.wikipedia.org/wiki/テレビ朝日系列深夜ニュース枠 "wikilink")、原則として15分以上の放送枠がある場合に放送される。しかし年末年始や15分以上\[9\]の放送枠が確保できない等の理由で休止となる場合は、代替として5 - 10分間の『ANNニュース』が放送される。
+編成上の都合により、[平日・土曜日の最終ニュースが休止となる際](../Page/テレビ朝日系列深夜ニュース枠.md "wikilink")、原則として15分以上の放送枠がある場合に放送される。しかし年末年始や15分以上\[9\]の放送枠が確保できない等の理由で休止となる場合は、代替として5 - 10分間の『ANNニュース』が放送される。
 
 [年末年始](../Page/年末年始.md "wikilink")は週末の通常版を放送する場合と休止する場合があり、放送する場合は、2012年9月までは土曜版のフォーマットで15 - 20分間程度の短縮版が放送された。基本的にはキャスター陣のうち男女のアナウンサー2人が出演し、ニュース・スポーツニュース・天気予報のすべてを担当していた。
 
@@ -419,7 +419,7 @@
 
 ## 関連項目
 
-  - [テレビ朝日系列深夜ニュース枠](https://ja.wikipedia.org/wiki/テレビ朝日系列深夜ニュース枠 "wikilink")
+  - [テレビ朝日系列深夜ニュース枠](../Page/テレビ朝日系列深夜ニュース枠.md "wikilink")
   - [テレビ朝日系列スポーツニュース枠](https://ja.wikipedia.org/wiki/テレビ朝日系列スポーツニュース枠 "wikilink")
   - [ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")

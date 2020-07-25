@@ -28,7 +28,7 @@
   - [森脇健児](../Page/森脇健児.md "wikilink")、[山田雅人](../Page/山田雅人.md "wikilink")、[タージン](../Page/タージン.md "wikilink")（リポーター、[和光プロダクション](https://ja.wikipedia.org/wiki/和光プロダクション "wikilink")所属）、[川下大洋](../Page/川下大洋.md "wikilink")（現・[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属）、[いま寛大](../Page/はな寛太・いま寛大.md "wikilink")
   - 番組中期以降は松竹芸能や大滝エージェンシーなど、吉本以外に所属している若手芸人や、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")の弟子らが番組レギュラーとして出演していた。[高田伸彦がお悩み相談コーナーに出演していたこともある](../Page/高田延彦.md "wikilink")。
       - 大阪キッズ（後によしもとクリエイティブ・エージェンシー所属、解散）、[シンデレラエキスプレス](../Page/シンデレラエキスプレス.md "wikilink")、[小川恵理子](../Page/小川恵理子.md "wikilink")、[成知由梨](https://ja.wikipedia.org/wiki/成知由梨 "wikilink")、[笑福亭達瓶](https://ja.wikipedia.org/wiki/笑福亭達瓶 "wikilink")、[笑福亭瓶太](https://ja.wikipedia.org/wiki/笑福亭瓶太 "wikilink")、亀井真司、[こうのきよし](https://ja.wikipedia.org/wiki/こうのきよし "wikilink")（当時の表記は本名の「鴻野潔」）
-      - [大滝エージェンシー](https://ja.wikipedia.org/wiki/大滝エージェンシー "wikilink")所属タレント（当時） - [岩崎なおあき](../Page/岩崎なおあき.md "wikilink")（当時の表記は本名の「岩崎直哲」）、マース増成、武蔵と小次郎
+      - [大滝エージェンシー](../Page/大滝エージェンシー.md "wikilink")所属タレント（当時） - [岩崎なおあき](../Page/岩崎なおあき.md "wikilink")（当時の表記は本名の「岩崎直哲」）、マース増成、武蔵と小次郎
       - 番組エンディング告知担当：住吉里美 → 藤岡久美子（※かつて[三桂](../Page/三桂.md "wikilink")に所属し、同じ夕方枠の『[屋台の目ぇ](../Page/屋台の目ぇ.md "wikilink")』（毎日放送）などに出演していた[藤岡久美子](../Page/藤岡久美子.md "wikilink")とは別人。こちらの本職は声優である）
       - ほか
 

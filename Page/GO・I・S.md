@@ -64,4 +64,4 @@
 
 [Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink")
 
-1.  ただジングルの中には、「すご〜いー・・・ゴイス」というものがあったことから、「すごい」という言葉を、[逆さまにした業界用語の](https://ja.wikipedia.org/wiki/ズージャ語 "wikilink")「ごいす」ではないかという説もある。
+1.  ただジングルの中には、「すご〜いー・・・ゴイス」というものがあったことから、「すごい」という言葉を、[逆さまにした業界用語の](../Page/ズージャ語.md "wikilink")「ごいす」ではないかという説もある。

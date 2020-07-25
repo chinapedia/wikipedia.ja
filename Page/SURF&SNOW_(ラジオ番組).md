@@ -41,7 +41,7 @@
 
 ### TBSラジオ時代
 
-  - 1985年10月7日-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月4日 [月曜日](../Page/月曜日.md "wikilink")-[金曜日](../Page/金曜日.md "wikilink") 23：45-25：00（『[NISSANミッドナイトステーション](../Page/NISSANミッドナイトステーション.md "wikilink")』枠）
+  - 1985年10月7日-[1986年](../Page/1986年.md "wikilink")4月4日 [月曜日](../Page/月曜日.md "wikilink")-[金曜日](../Page/金曜日.md "wikilink") 23：45-25：00（『[NISSANミッドナイトステーション](../Page/NISSANミッドナイトステーション.md "wikilink")』枠）
   - 1986年4月7日-[1988年](../Page/1988年.md "wikilink")10月7日 月曜日-金曜日 24：00-24：56
   - 1988年10月10日-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")10月5日 月曜日-金曜日 24：00-25：00
   - 1990年10月8日-[1991年](../Page/1991年.md "wikilink")4月5日 月曜日-金曜日 24：00-24：45

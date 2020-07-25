@@ -45,7 +45,7 @@ BSD FFS は、データブロックとそれに関連するメタデータを同
 
 [Linux](../Page/Linux.md "wikilink")でもBSDなどとの互換性のためにUFSを実装しているが、UFSには共通の標準実装があるわけではないので、Linux がサポートしているのは読み込みが中心であり、書き込みは完全サポートしていない。Linux の [ext2](https://ja.wikipedia.org/wiki/ext2 "wikilink") ファイルシステムは UFS の影響を受けている（実際、4.4BSDから派生した一部のシステムでは、UFSを上位層とし、ext2 をFFSやLFSなどのように下位層として使えるものもある）。
 
-[NeXTStep](../Page/NEXTSTEP.md "wikilink") もBSDから派生しているため、UFS を使っていた。それより派生した[アップルの](../Page/アップル_\(企業\).md "wikilink") [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") では、[HFS+の代替として](https://ja.wikipedia.org/wiki/HFS_Plus "wikilink") UFS を使うこともできたが、[Mac OS X v10.5](../Page/Mac_OS_X_v10.5.md "wikilink") 以降では UFS でフォーマットされたボリュームにインストールできなくなった。また、UFS ボリュームにインストールされたv10.5より前のバージョンの macOS をv10.5以降のバージョンにアップグレードすることもできなくなった。\[3\]。
+[NeXTStep](../Page/NEXTSTEP.md "wikilink") もBSDから派生しているため、UFS を使っていた。それより派生した[アップルの](../Page/アップル_\(企業\).md "wikilink") [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") では、[HFS+の代替として](../Page/HFS_Plus.md "wikilink") UFS を使うこともできたが、[Mac OS X v10.5](../Page/Mac_OS_X_v10.5.md "wikilink") 以降では UFS でフォーマットされたボリュームにインストールできなくなった。また、UFS ボリュームにインストールされたv10.5より前のバージョンの macOS をv10.5以降のバージョンにアップグレードすることもできなくなった。\[3\]。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[JNNスポーツチャンネル](https://ja.wikipedia.org/wiki/JNNスポーツチャンネル)から翻訳されています。
 
 
-『**JNNスポーツチャンネル**』（ジェイエヌエヌ スポーツチャンネル、英称:*JNN SPORTS CHANNEL*）は、[TBS](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）にて[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月までに放送された[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。略称は「**スポチャン**」。
+『**JNNスポーツチャンネル**』（ジェイエヌエヌ スポーツチャンネル、英称:*JNN SPORTS CHANNEL*）は、[TBS](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）にて[1986年](../Page/1986年.md "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月までに放送された[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。略称は「**スポチャン**」。
 
 ## 番組概要
 
@@ -9,7 +9,7 @@
 
 その後一旦1986年10月から『[ネットワークJNN](../Page/ネットワーク_\(ニュース番組\).md "wikilink")』の放送開始に伴って平日版は休止で週末のみとなるが、1987年10月に最終版ニュースが22時台（『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』→『[JNNニュースデスク'88・'89](../Page/JNNニュースデスク'88・'89.md "wikilink")』）に繰り上がったことから全曜日放送復活。ただし平日は20分枠に縮小。
 
-1989年10月に再び平日の最終版ニュースが23時台（『[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")』）に繰り下がり週末のみに戻る。そして、1990年10月から当番組の次に放送されていた『[JNNニュース](../Page/JNNニュース.md "wikilink")』と共に『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』に統合されることが決まったため、同年9月で放送終了となる。
+1989年10月に再び平日の最終版ニュースが23時台（『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』）に繰り下がり週末のみに戻る。そして、1990年10月から当番組の次に放送されていた『[JNNニュース](../Page/JNNニュース.md "wikilink")』と共に『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』に統合されることが決まったため、同年9月で放送終了となる。
 
 なお、「スポーツチャンネル」の名称は、平日版の放送終了後に始まった『NEWS23』のスポーツコーナー名として暫くの間引き継がれた（後に「SPORTS23」に改題）。
 
@@ -65,7 +65,7 @@
 <tr class="odd">
 <td><p>1989.10.2</p></td>
 <td><p>1990.9.30</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23" title="wikilink">放送終了</a>）</p></td>
+<td><p>（<a href="../Page/筑紫哲也_NEWS23.md" title="wikilink">放送終了</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -112,7 +112,7 @@
 <tr class="even">
 <td><p>1989.10</p></td>
 <td><p>1990.9</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23" title="wikilink">放送終了</a>）</p></td>
+<td><p>（<a href="../Page/筑紫哲也_NEWS23.md" title="wikilink">放送終了</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><small></p>

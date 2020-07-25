@@ -47,7 +47,7 @@ Virtual SIM技術は、米アップルによって研究が進められ、特許
 
 ## NFC
 
-UICC（SIMカード等）に[NFC](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")（Near Field Communication：近距離無線通信）のアプリケーションを内蔵し、移動機（携帯電話端末）内のCLFとUICC（SIMカード等）を、SWPやHCIでインタフェースする事により[非接触型決済](../Page/非接触型決済.md "wikilink")機能をUICC（SIMカード等）に付加できる。
+UICC（SIMカード等）に[NFC](../Page/近距離無線通信.md "wikilink")（Near Field Communication：近距離無線通信）のアプリケーションを内蔵し、移動機（携帯電話端末）内のCLFとUICC（SIMカード等）を、SWPやHCIでインタフェースする事により[非接触型決済](../Page/非接触型決済.md "wikilink")機能をUICC（SIMカード等）に付加できる。
 
 [3GPP](../Page/3GPP.md "wikilink")リリース7にて、非接触型[ICカード](../Page/ICカード.md "wikilink")機能をサポートするUICCへの拡張規格が決まった。これはUICC（SIMカード等）とNFCの無線通信を行う非接触無線チップCLF（Contactless Front End）とのインタフェースを規格化したものである。このインタフェースはSWP（Single Wire Protocol）という。CLFは通常、移動機のプリント基板に実装されるが、同時にCLFは移動機内に実装されたNFC用のアンテナに接続され、外部のリーダ・ライターとNFCの通信を行う。
 

@@ -100,7 +100,7 @@
 ## マッハGoGoGo（第1作）
 
   - 放送局 - [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（本放送当時は[FNS発足前](../Page/フジネットワーク.md "wikilink")）
-  - 放送期間 - [1967年](../Page/1967年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")
+  - 放送期間 - [1967年](../Page/1967年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [1968年](../Page/1968年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")
   - 放送日時 - 日曜 19時00分 - 19時30分（第1話 - 第13話） → 日曜 18時30分 - 19時00分（第14話 - 第52話）
 
 第1作のオープニングでは、[セルアニメ](../Page/セルアニメ.md "wikilink")では手間の掛かる、被写体が静止状態でカメラアングルのみを変化させていく技法が多用されている。
@@ -968,7 +968,7 @@
   - アニメーション制作 - [スタジオロン](../Page/スタジオロン.md "wikilink")
   - キャラクター原案・デザイン - [吉田すずか](https://ja.wikipedia.org/wiki/吉田すずか "wikilink")
   - シリーズ構成 - 山田隆司
-  - 総作画監督 - [谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")
+  - 総作画監督 - [谷津美弥子](../Page/谷津美弥子.md "wikilink")
   - レイアウト - 荒川眞嗣
   - 美術監督 - 井野川潔美
   - 美術設定・メカデザイン - 益田賢治

@@ -66,6 +66,6 @@ US-VISITプログラム下における出国管理（指紋スキャン・顔写
   - [ビザ免除プログラム](https://ja.wikipedia.org/wiki/ビザ免除プログラム "wikilink") - VWP、短期滞在査証免除措置
   - [出入国管理](../Page/出入国管理.md "wikilink")
   - [自動化ゲート](https://ja.wikipedia.org/wiki/自動化ゲート "wikilink")
-  - [J-BIS](https://ja.wikipedia.org/wiki/J-BIS "wikilink")
+  - [J-BIS](../Page/J-BIS.md "wikilink")
 
 [Category:アメリカ合衆国の行政](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の行政 "wikilink") [Category:セキュリティ技術](https://ja.wikipedia.org/wiki/Category:セキュリティ技術 "wikilink") [Category:生体認証](https://ja.wikipedia.org/wiki/Category:生体認証 "wikilink") [Category:自動化出入国管理システム](https://ja.wikipedia.org/wiki/Category:自動化出入国管理システム "wikilink") [Category:アメリカ合衆国の国境](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の国境 "wikilink")

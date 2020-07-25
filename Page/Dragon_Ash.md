@@ -109,7 +109,7 @@
 
 ### 1998年
 
-  - [9月2日](../Page/9月2日.md "wikilink")、2ndアルバム『[Buzz Songs](https://ja.wikipedia.org/wiki/Buzz_Songs "wikilink")』を発売。発売当時はランキング上位にならなかったが、99年のブレイクによってロングヒットし70万枚を超える売り上げを記録。
+  - [9月2日](../Page/9月2日.md "wikilink")、2ndアルバム『[Buzz Songs](../Page/Buzz_Songs.md "wikilink")』を発売。発売当時はランキング上位にならなかったが、99年のブレイクによってロングヒットし70万枚を超える売り上げを記録。
 
 ### 1999年
 
@@ -698,7 +698,7 @@ Hot Albums</a><br />
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Buzz_Songs" title="wikilink">Buzz Songs</a></strong></p></td>
+<td><p><strong><a href="../Page/Buzz_Songs.md" title="wikilink">Buzz Songs</a></strong></p></td>
 <td><p>VICL-60270 (CD)</p></td>
 <td><p>8位</p></td>
 <td><p>-</p></td>

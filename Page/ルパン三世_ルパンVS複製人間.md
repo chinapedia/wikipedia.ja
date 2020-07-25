@@ -148,7 +148,7 @@
   - 美術 - [阿部行夫](https://ja.wikipedia.org/wiki/阿部行夫 "wikilink")
   - 撮影監督 - [黒木敬七](../Page/トランス・アーツ.md "wikilink")
   - 編集 - [相原義彰](https://ja.wikipedia.org/wiki/相原義彰 "wikilink")
-  - 録音 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 音楽 - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
   - 選曲 - [鈴木清司](../Page/鈴木清司.md "wikilink")
   - 製作補 - [郷田三朗](https://ja.wikipedia.org/wiki/郷田三朗 "wikilink")、[片山哲生](https://ja.wikipedia.org/wiki/片山哲生 "wikilink")
@@ -159,8 +159,8 @@
       - [オカスタジオ](https://ja.wikipedia.org/wiki/オカスタジオ "wikilink") - [増谷三郎](https://ja.wikipedia.org/wiki/増谷三郎 "wikilink")、椙目八男
       - [スタジオメイツ](https://ja.wikipedia.org/wiki/スタジオメイツ "wikilink") - [小泉謙三](https://ja.wikipedia.org/wiki/小泉謙三 "wikilink")、大宅幸男、[一川孝久](https://ja.wikipedia.org/wiki/一川孝久 "wikilink")、島田和義、神林美雪、中島裕子、岸本良子、井上由美、内山幸子
       - [スタジオ・ライブ](../Page/スタジオ・ライブ.md "wikilink") - さかいあきお、安藤淳子、小河清美、北川祐子、高橋理恵、[渡辺浩](../Page/わたなべひろし.md "wikilink")、丸山政次
-      - [OHプロダクション](https://ja.wikipedia.org/wiki/OH!プロダクション "wikilink") - [丹内司](https://ja.wikipedia.org/wiki/丹内司 "wikilink")、[友永和秀](../Page/友永和秀.md "wikilink")、岡本健一、山内昇寿郎、[葛岡博](https://ja.wikipedia.org/wiki/葛岡博 "wikilink")、槌田幸一
-      - T・A・F - [古瀬登](https://ja.wikipedia.org/wiki/古瀬登 "wikilink")
+      - [OHプロダクション](https://ja.wikipedia.org/wiki/OH!プロダクション "wikilink") - [丹内司](../Page/丹内司.md "wikilink")、[友永和秀](../Page/友永和秀.md "wikilink")、岡本健一、山内昇寿郎、[葛岡博](https://ja.wikipedia.org/wiki/葛岡博 "wikilink")、槌田幸一
+      - T・A・F - [古瀬登](../Page/古瀬登.md "wikilink")
   - 動画チェック - [大武正枝](https://ja.wikipedia.org/wiki/大武正枝 "wikilink")
   - 美術助手 - 野谷顕次、門野真理子
   - 背景
@@ -233,7 +233,7 @@
 
     そして、アメリカのPioneerが"Lupin The 3rd：The Movie - The Secret of Mamo"のタイトルで発売したもの（演出 - [リチャード・エプカー](../Page/リチャード・エプカー.md "wikilink")）がある。同社は『TV第2シリーズ』の翻訳も行っており、名前の変更は行われていない。
 
-    上記3つ以外に、[全日空国際線の機内上映のために製作された英語版もある](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。
+    上記3つ以外に、[全日空国際線の機内上映のために製作された英語版もある](../Page/全日本空輸.md "wikilink")。
 
   - 声の出演
 

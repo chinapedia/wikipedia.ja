@@ -36,7 +36,7 @@
   - [田巻佑規子](../Page/田巻佑規子.md "wikilink")
   - 鈴木恵理
   - [倉見慶子](../Page/倉見慶子.md "wikilink")
-  - [早川英治](https://ja.wikipedia.org/wiki/早川英治 "wikilink")
+  - [早川英治](../Page/早川英治.md "wikilink")
   - [岸田麻未](https://ja.wikipedia.org/wiki/岸田あさみ "wikilink")
   - [吉田圭吾](https://ja.wikipedia.org/wiki/吉田圭吾_\(アナウンサー\) "wikilink")
   - [菰田敦子](../Page/菰田敦子.md "wikilink")

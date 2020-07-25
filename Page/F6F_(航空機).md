@@ -1,7 +1,7 @@
 > この記事は[F6F \(航空機\)](https://ja.wikipedia.org/wiki/F6F_\(航空機\))から翻訳されています。
 
 
-**F6F ヘルキャット**（*Grumman F6F Hellcat*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中盤以降に使用した[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。愛称の「**ヘルキャット**(Hellcat)」は、直訳すれば「地獄の猫」であるが、スラングでは「性悪女」や「意地の悪い女」の意味も持つ。
+**F6F ヘルキャット**（*Grumman F6F Hellcat*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中盤以降に使用した[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。愛称の「**ヘルキャット**(Hellcat)」は、直訳すれば「地獄の猫」であるが、スラングでは「性悪女」や「意地の悪い女」の意味も持つ。
 
 アメリカ海軍の本命は[1940年](../Page/1940年.md "wikilink")に初飛行した[F4Uであったが](../Page/F4U_\(航空機\).md "wikilink")、実際には開発時期が遅いこちらが艦上戦闘機の主力となった。
 

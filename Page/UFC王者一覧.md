@@ -686,7 +686,7 @@ UFC 31にて旧ライト級から現在の階級区分へ変更。
 <td><p>正規王者マット・セラとの王座統一戦により獲得<br />
 ○ <a href="../Page/ジョン・フィッチ.md" title="wikilink">ジョン・フィッチ</a>（<a href="../Page/UFC_87.md" title="wikilink">UFC 87</a>）<br />
 ○ BJ・ペン（<a href="https://ja.wikipedia.org/wiki/UFC_94" title="wikilink">UFC 94</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/チアゴ・アウベス" title="wikilink">チアゴ・アウベス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_100" title="wikilink">UFC 100</a>）<br />
+○ <a href="../Page/チアゴ・アウベス.md" title="wikilink">チアゴ・アウベス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_100" title="wikilink">UFC 100</a>）<br />
 ○ <a href="../Page/ダン・ハーディー.md" title="wikilink">ダン・ハーディー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_111" title="wikilink">UFC 111</a>）<br />
 ○ <a href="../Page/ジョシュ・コスチェック.md" title="wikilink">ジョシュ・コスチェック</a>（<a href="https://ja.wikipedia.org/wiki/UFC_124" title="wikilink">UFC 124</a>）<br />
 ○ <a href="../Page/ジェイク・シールズ.md" title="wikilink">ジェイク・シールズ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_129" title="wikilink">UFC 129</a>）<br />
@@ -843,7 +843,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>3</p></td>
 <td><p>フランク・エドガーとの王座戦により獲得<br />
 ○ フランク・エドガー（<a href="https://ja.wikipedia.org/wiki/UFC_150" title="wikilink">UFC 150</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ネイト・ディアス" title="wikilink">ネイト・ディアス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_on_FOX_5" title="wikilink">UFC on FOX 5</a>）<br />
+○ <a href="../Page/ネイト・ディアス.md" title="wikilink">ネイト・ディアス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_on_FOX_5" title="wikilink">UFC on FOX 5</a>）<br />
 ○ <a href="../Page/ギルバート・メレンデス.md" title="wikilink">ギルバート・メレンデス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_on_FOX_7" title="wikilink">UFC on FOX 7</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -864,7 +864,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エディ・アルバレス" title="wikilink">エディ・アルバレス</a></p></td>
+<td><p><a href="../Page/エディ・アルバレス.md" title="wikilink">エディ・アルバレス</a></p></td>
 <td><p>2016年7月7日 - 2016年11月12日</p></td>
 <td><p>0</p></td>
 <td><p>ハファエル・ドス・アンジョスとの王座戦により獲得</p></td>

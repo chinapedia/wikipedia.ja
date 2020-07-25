@@ -30,7 +30,7 @@ RHELは、[Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink") (RHL)に由来す
 
 の関係にある。
 
-[CentOS](../Page/CentOS.md "wikilink")や[Scientific Linux](../Page/Scientific_Linux.md "wikilink")、[StartCom Linux](../Page/StartCom_Linux.md "wikilink")、[White Box Enterprise Linuxなどは](../Page/White_Box_Enterprise_Linux.md "wikilink")、レッドハットが公開しているソースコードを元にした[無償で利用できるLinuxディストリビューションであり](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション "wikilink")、RHELとの互換性を目標としている。その他、[Oracle Linux](https://ja.wikipedia.org/wiki/Oracle_Linux "wikilink") は RHEL をベースに独自のカーネルを搭載している。
+[CentOS](../Page/CentOS.md "wikilink")や[Scientific Linux](../Page/Scientific_Linux.md "wikilink")、[StartCom Linux](../Page/StartCom_Linux.md "wikilink")、[White Box Enterprise Linuxなどは](../Page/White_Box_Enterprise_Linux.md "wikilink")、レッドハットが公開しているソースコードを元にした[無償で利用できるLinuxディストリビューションであり](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux派生ディストリビューション "wikilink")、RHELとの互換性を目標としている。その他、[Oracle Linux](../Page/Oracle_Linux.md "wikilink") は RHEL をベースに独自のカーネルを搭載している。
 
 ## リリースバージョンの経歴
 

@@ -288,7 +288,7 @@
   - [金剛別当忠綱](https://ja.wikipedia.org/wiki/金剛別当秀綱 "wikilink")：[天野勝弘](../Page/天野勝弘.md "wikilink")
   - [伊賀良目七郎](https://ja.wikipedia.org/wiki/伊賀良目高重 "wikilink")：[石田圭祐](https://ja.wikipedia.org/wiki/石田圭祐 "wikilink")
   - [河辺太郎](https://ja.wikipedia.org/wiki/河辺高経 "wikilink")：[坂西良太](https://ja.wikipedia.org/wiki/坂西良太 "wikilink")
-  - [河田次郎](https://ja.wikipedia.org/wiki/河田次郎 "wikilink")：[青山義典](https://ja.wikipedia.org/wiki/青山義典 "wikilink")
+  - [河田次郎](https://ja.wikipedia.org/wiki/河田次郎 "wikilink")：[青山義典](../Page/青山義典.md "wikilink")
 
 ### 朝廷
 

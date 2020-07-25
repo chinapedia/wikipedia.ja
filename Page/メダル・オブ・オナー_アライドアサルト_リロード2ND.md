@@ -7,7 +7,7 @@
 
 ## ストーリー
 
-舞台は第二次世界大戦の北アフリカ戦線。プレイヤーはアメリカ陸軍軍曹ジョン･ベイカー軍曹となり北アフリカ戦線での[カセリーヌ峠の戦い](https://ja.wikipedia.org/wiki/カセリーヌ峠の戦い "wikilink")・[シチリア島上陸作戦](https://ja.wikipedia.org/wiki/シチリア島上陸作戦 "wikilink")（[ハスキー作戦](../Page/ハスキー作戦.md "wikilink")）・イタリア侵攻作戦（[アンツィオの戦い](https://ja.wikipedia.org/wiki/アンツィオの戦い "wikilink")）に参加し、イタリア軍及びドイツ軍を相手に戦っていく。
+舞台は第二次世界大戦の北アフリカ戦線。プレイヤーはアメリカ陸軍軍曹ジョン･ベイカー軍曹となり北アフリカ戦線での[カセリーヌ峠の戦い](https://ja.wikipedia.org/wiki/カセリーヌ峠の戦い "wikilink")・[シチリア島上陸作戦](https://ja.wikipedia.org/wiki/シチリア島上陸作戦 "wikilink")（[ハスキー作戦](../Page/ハスキー作戦.md "wikilink")）・イタリア侵攻作戦（[アンツィオの戦い](../Page/アンツィオの戦い.md "wikilink")）に参加し、イタリア軍及びドイツ軍を相手に戦っていく。
 
 ## 登場人物
 

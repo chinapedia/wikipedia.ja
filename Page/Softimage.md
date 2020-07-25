@@ -15,7 +15,7 @@
 
 ## 歴史
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[モントリオール](../Page/モントリオール.md "wikilink")でSoftimage社が設立される。創立者はアニメーター出身のDaniel Langlois。
+  - [1986年](../Page/1986年.md "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[モントリオール](../Page/モントリオール.md "wikilink")でSoftimage社が設立される。創立者はアニメーター出身のDaniel Langlois。
   - [1988年](../Page/1988年.md "wikilink")、最初のバージョンとなる「SOFTIMAGE Creative Environment 1.0」をSIGGRAPHで発表した。
   - [1989年](../Page/1989年.md "wikilink")、SOFTIMAGE Creative Environment 1.6、1.65を出荷。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、SOFTIMAGE Creative Environment 2.0を出荷。同社は画期的なアニメーション作成方法であるインバース・キネマティクスを発表。3Dアニメーション産業の中心的な企業へと急速に成長するきっかけになった。インバース・キネマティクスは後にSOFTIMAGE Creative Environmentの標準機能として実装される。

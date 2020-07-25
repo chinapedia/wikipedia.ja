@@ -158,7 +158,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
 
   - [ラバウル](../Page/ラバウル.md "wikilink")：197裁判、被告408人
   - [ラブアン](../Page/ラブアン.md "wikilink")：16裁判、被告157人
-      - [サンダカン死の行進](https://ja.wikipedia.org/wiki/サンダカン死の行進 "wikilink")（オーストラリア・ラブアン裁判14号）
+      - [サンダカン死の行進](../Page/サンダカン死の行進.md "wikilink")（オーストラリア・ラブアン裁判14号）
   - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")：13裁判、被告42人 ～1948年12月13日
       - [ガスマタ豪軍飛行士介錯事件](https://ja.wikipedia.org/wiki/ガスマタ豪軍飛行士介錯事件 "wikilink")（オーストラリア・香港裁判13号）
   - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")：24裁判、被告62人
@@ -323,7 +323,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
   - [私は貝になりたい](../Page/私は貝になりたい.md "wikilink") - [加藤哲太郎](../Page/加藤哲太郎.md "wikilink")
   - [はだしのゲン](../Page/はだしのゲン.md "wikilink")
   - [プライド・運命の瞬間](../Page/プライド・運命の瞬間.md "wikilink")
-  - [ムルデカ17805](https://ja.wikipedia.org/wiki/ムルデカ17805 "wikilink")
+  - [ムルデカ17805](../Page/ムルデカ17805.md "wikilink")
   - [人間の條件 (映画)](../Page/人間の條件_\(映画\).md "wikilink")
   - [アンボンで何が裁かれたか](https://ja.wikipedia.org/wiki/アンボンで何が裁かれたか "wikilink")
   - [ミュージカル南十字星](../Page/ミュージカル南十字星.md "wikilink")

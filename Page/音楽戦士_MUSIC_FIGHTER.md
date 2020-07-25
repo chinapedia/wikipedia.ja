@@ -340,7 +340,7 @@
 <td><p>2005年<br />
 3月度</p></td>
 <td><p>「<a href="../Page/関白_(曲).md" title="wikilink">関白</a>」 <a href="../Page/SEAMO.md" title="wikilink">SEAMO</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/ON_THE_RUN" title="wikilink">ON THE RUN</a>」 <a href="https://ja.wikipedia.org/wiki/HOME_MADE_家族" title="wikilink">HOME MADE 家族</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/ON_THE_RUN" title="wikilink">ON THE RUN</a>」 <a href="../Page/HOME_MADE_家族.md" title="wikilink">HOME MADE 家族</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年<br />
@@ -561,7 +561,7 @@
 <tr class="odd">
 <td><p>2008年<br />
 4月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/春_(中孝介の曲)" title="wikilink">春</a>」 <a href="../Page/中孝介.md" title="wikilink">中孝介</a></p></td>
+<td><p>「<a href="../Page/春_(中孝介の曲).md" title="wikilink">春</a>」 <a href="../Page/中孝介.md" title="wikilink">中孝介</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Boyfriend／Girlfriend" title="wikilink">Boyfriend／Girlfriend</a>」 <a href="../Page/田中ロウマ.md" title="wikilink">田中ロウマ</a> feat. <a href="https://ja.wikipedia.org/wiki/melody." title="wikilink">melody.</a></p></td>
 </tr>
 <tr class="even">
@@ -731,7 +731,7 @@ Miss Monday</p></td>
 
 1.  2009年4月3日放送回オープニングより
 2.  2009年4月10日放送回スタジオトークでの西野の発言より
-3.  青木が公式に産休を取る以前にも収録に参加しなかったことがある。2009年12月18日に放映された[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")がゲストのスタジオトークと、2010年2月12日に放映された[HOME MADE 家族がゲストのスタジオトークで](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、この2回は青木の代役は立てずキングコングだけでコーナーを進行した。いずれについても番組内では特に説明なし。
+3.  青木が公式に産休を取る以前にも収録に参加しなかったことがある。2009年12月18日に放映された[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")がゲストのスタジオトークと、2010年2月12日に放映された[HOME MADE 家族がゲストのスタジオトークで](../Page/HOME_MADE_家族.md "wikilink")、この2回は青木の代役は立てずキングコングだけでコーナーを進行した。いずれについても番組内では特に説明なし。
 4.  2004年12月までは24:44〜25:44、2005年1月〜3月は24:54〜25:54、4月〜9月は24:39〜25:39、2006年4月〜2008年3月は24:50〜25:45、4月〜2009年9月は24:55〜25:50）
 5.  12月10日、参加アーティストの中に[麻薬及び向精神薬取締法](../Page/麻薬及び向精神薬取締法.md "wikilink")違反容疑による逮捕者が出たため（参考: [ケタミン所持・使用　歌手・詩音容疑者逮捕 | 日テレNEWS24](http://www.news24.jp/articles/2009/12/10/07149510.html) - 2009年12月12日閲覧）、第1週だけで差し替えとなった。
 6.  第2週より。

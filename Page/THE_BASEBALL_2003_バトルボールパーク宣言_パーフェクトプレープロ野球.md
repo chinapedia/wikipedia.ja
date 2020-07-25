@@ -83,7 +83,7 @@
 <td><p>外国人の生徒のみで構成された高校。先発のピエールが持つフォークボールは、ナポレオンフォークと名付けられたオリジナル変化球。</p></td>
 <td><p>ジョニー・ハースト</p></td>
 <td><p>外野手・一塁手</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">阪神甲子園球場</a></p></td>
+<td><p><a href="../Page/阪神甲子園球場.md" title="wikilink">阪神甲子園球場</a></p></td>
 </tr>
 <tr class="even">
 <td><p>青空少年野球部</p></td>

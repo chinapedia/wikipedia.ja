@@ -156,7 +156,7 @@
 <!-- end list -->
 
   -
-    中継ゲストで金本を迎え、この日[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")で行われた[オールスターゲームの第](../Page/2005年のオールスターゲーム_\(日本プロ野球\).md "wikilink")2戦を中心に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")、[世界水泳の結果が放送された](../Page/2005年世界水泳選手権.md "wikilink")。
+    中継ゲストで金本を迎え、この日[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")で行われた[オールスターゲームの第](../Page/2005年のオールスターゲーム_\(日本プロ野球\).md "wikilink")2戦を中心に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")、[世界水泳の結果が放送された](../Page/2005年世界水泳選手権.md "wikilink")。
     「体感\!すぽると」では、松下を迎えての紳助と中居の[アーチェリー](../Page/アーチェリー.md "wikilink")対決、卓球バッティングマシンとの対決をした。
   - THE WAVE\! Episode-5
     放送直後のスタジオはTHE WAVE\!の緊迫感に紳助、中居、内田、三宅、高樹の5人を始めスタジオに居る全てのすぽると\!スタッフがその緊迫感に言葉を失って唯々と呆然と立っていた。

@@ -175,7 +175,7 @@
 
 ### さ・た行
 
-  - [チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink") (1997年〜)
+  - [チューリップ](../Page/チューリップ_\(バンド\).md "wikilink") (1997年〜)
       - [財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink") → [ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink") → [日本コロムビア](../Page/日本コロムビア.md "wikilink")から移籍）
   - [酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")（2016年〜）
   - [斉藤和義](../Page/斉藤和義.md "wikilink") (2000年〜)
@@ -309,7 +309,7 @@
   - [アン・ルイス](../Page/アン・ルイス.md "wikilink") (1971年〜1981年)
   - [飯島真理](../Page/飯島真理.md "wikilink") (1982年〜1987年、 → [アルファ・ムーン](https://ja.wikipedia.org/wiki/Moon_Records "wikilink")（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）への移籍を経て、現在はアメリカを拠点としてインディーズで活動中）
   - [石川ひとみ](../Page/石川ひとみ.md "wikilink") (1999年)
-  - [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")（1964年〜、 → [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[コロムビアに移籍](../Page/日本コロムビア.md "wikilink")、[1980年代](../Page/1980年代.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink") → [CBS・ソニーを経て](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[トーラスレコード](../Page/トーラスレコード.md "wikilink")に移籍後は女優業に専念）
+  - [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")（1964年〜、 → [1968年](../Page/1968年.md "wikilink")に[コロムビアに移籍](../Page/日本コロムビア.md "wikilink")、[1980年代](../Page/1980年代.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink") → [CBS・ソニーを経て](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[トーラスレコード](../Page/トーラスレコード.md "wikilink")に移籍後は女優業に専念）
   - [石野真子](../Page/石野真子.md "wikilink") (1978年〜)
   - [磯貝サイモン](../Page/磯貝サイモン.md "wikilink") (2006年〜2008年)
   - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
@@ -360,7 +360,7 @@
   - [クラッシュギャルズ](../Page/クラッシュギャルズ.md "wikilink") (1984年〜1988年)
   - [倉橋ヨエコ](../Page/倉橋ヨエコ.md "wikilink")（2005年〜[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")廃業）
   - [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink") (2012年〜2014年)（2014年、[ユニバーサルミュージックへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
-  - [KUWATA BAND](../Page/KUWATA_BAND.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の1年限りで解散）
+  - [KUWATA BAND](../Page/KUWATA_BAND.md "wikilink")（[1986年](../Page/1986年.md "wikilink")の1年限りで解散）
   - [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")（2001年〜2009年、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")へ移籍）
   - [洸平](https://ja.wikipedia.org/wiki/松下洸平 "wikilink")（2008年〜2009年後半リリースなし）
   - [小鳩くるみ](../Page/鷲津名都江.md "wikilink") (1953年〜1988年)
@@ -434,7 +434,7 @@
   - [高橋美佳子](../Page/高橋美佳子.md "wikilink")（2000年〜2001年パープルヒルズレコードに移籍）
   - [高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink") (1990年〜1999年)
   - [太川陽介](../Page/太川陽介.md "wikilink") (1976年〜1985年)
-  - [竹内電気](https://ja.wikipedia.org/wiki/竹内電気 "wikilink") (2008年〜2010年)
+  - [竹内電気](../Page/竹内電気.md "wikilink") (2008年〜2010年)
   - 伊達春樹（ → [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に本名の[山本譲二](../Page/山本譲二.md "wikilink")に改名してポニーキャニオンから再デビュー。同社の演歌部門撤退により、現在はテイチクエンタテインメントに在籍）
   - Taja (2008年〜2009年)
   - [立川清登](../Page/立川清登.md "wikilink")（1985年12月31日逝去）
@@ -457,7 +457,7 @@
   - [DOBERMAN INC](https://ja.wikipedia.org/wiki/DOBERMAN_INC "wikilink") (2004年〜2007年)
   - [豊田泰光](../Page/豊田泰光.md "wikilink")
   - [トルネード竜巻](../Page/トルネード竜巻.md "wikilink") (2004年〜2005年)
-  - [とんねるず](../Page/とんねるず.md "wikilink")（1984年→[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にポニーキャニオンへ移籍）
+  - [とんねるず](../Page/とんねるず.md "wikilink")（1984年→[1986年](../Page/1986年.md "wikilink")にポニーキャニオンへ移籍）
 
 **な・は行**
 
@@ -610,7 +610,7 @@
   - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")
   - [ザ・カーナビーツ](../Page/ザ・カーナビーツ.md "wikilink")（[アイ高野](../Page/アイ高野.md "wikilink")）
   - [ザ・サベージ](https://ja.wikipedia.org/wiki/ザ・サベージ "wikilink")（[寺尾聰](../Page/寺尾聰.md "wikilink")）
-  - [ザ・ジャガーズ](https://ja.wikipedia.org/wiki/ザ・ジャガーズ "wikilink")
+  - [ザ・ジャガーズ](../Page/ザ・ジャガーズ.md "wikilink")
   - [ザ・スパイダース](../Page/ザ・スパイダース.md "wikilink")（[堺正章](../Page/堺正章.md "wikilink")、[井上順](../Page/井上順.md "wikilink")(※)、[かまやつひろし](../Page/かまやつひろし.md "wikilink")(※)）
   - [ザ・テンプターズ](../Page/ザ・テンプターズ.md "wikilink")（[萩原健一](https://ja.wikipedia.org/wiki/萩原健一 "wikilink")）
   - [長谷川きよし](../Page/長谷川きよし.md "wikilink")※

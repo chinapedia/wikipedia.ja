@@ -417,7 +417,7 @@
 
   - \- 福山弘幸
 
-  - \- [大村亨](https://ja.wikipedia.org/wiki/大村亨 "wikilink")
+  - \- [大村亨](../Page/大村亨.md "wikilink")
 
   - 伊藤弘幸
 

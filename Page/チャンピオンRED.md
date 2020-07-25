@@ -101,7 +101,7 @@
 ### か行
 
   - [学園創世 猫天\!](../Page/学園創世_猫天!.md "wikilink")（[岩原裕二](../Page/岩原裕二.md "wikilink")）2006年7月号 - 2008年12月号
-  - [家電探偵は静かに嗤う。](https://ja.wikipedia.org/wiki/家電探偵は静かに嗤う。 "wikilink")（原作：[藤見泰高](https://ja.wikipedia.org/wiki/藤見泰高 "wikilink")、漫画：岩澤紫麗）2011年11月号 - 2013年7月号
+  - [家電探偵は静かに嗤う。](https://ja.wikipedia.org/wiki/家電探偵は静かに嗤う。 "wikilink")（原作：[藤見泰高](../Page/藤見泰高.md "wikilink")、漫画：岩澤紫麗）2011年11月号 - 2013年7月号
   - カラスヤサトシのオタク探訪（[カラスヤサトシ](../Page/カラスヤサトシ.md "wikilink")）2010年5月号 - 2011年12月号
   - 変わりナデシコ（EBA）2017年2月号 - 2017年5月号、※『チャンピオンクロス』に移籍。
   - [ガンフロンティア 〜ハーロック&トチロー青春の旅〜](../Page/ガンフロンティア_\(漫画\).md "wikilink")（原作：[松本零士](../Page/松本零士.md "wikilink")、漫画：[島崎譲](../Page/島崎譲.md "wikilink")）2016年12月号 - 2017年5月号
@@ -193,7 +193,7 @@
   - [ばくおん\!\! 〜鈴乃木凜の野望〜](https://ja.wikipedia.org/wiki/ばくおん!! "wikilink")（原作：[おりもとみまな](../Page/おりもとみまな.md "wikilink")、漫画：[藍井彬](../Page/旭凛太郎.md "wikilink")）2018年7月号 - 2018年12月号
   - [バットマンアンドジャスティスリーグ](https://ja.wikipedia.org/wiki/バットマンアンドジャスティスリーグ "wikilink")（[手代木史織](../Page/手代木史織.md "wikilink")）2017年8月号 - 2019年7月号
   - [果つることなき未来ヨリ 〜銀色の翼〜](https://ja.wikipedia.org/wiki/果つることなき未来ヨリ "wikilink")（原作：[フロントウイング](../Page/フロントウイング.md "wikilink")、漫画：廣瀬周）2016年3月号 - 2016年12月号
-  - 必蟲SWEEPERS（原作：[藤見泰高](https://ja.wikipedia.org/wiki/藤見泰高 "wikilink")、作画：[カミムラ晋作](https://ja.wikipedia.org/wiki/カミムラ晋作 "wikilink")）2010年8月号 - 2011年3月号
+  - 必蟲SWEEPERS（原作：[藤見泰高](../Page/藤見泰高.md "wikilink")、作画：[カミムラ晋作](../Page/カミムラ晋作.md "wikilink")）2010年8月号 - 2011年3月号
   - ひとつキ\!（原作&プロデュース：岡田芽武、漫画：[てんま乱丸](https://ja.wikipedia.org/wiki/てんま乱丸 "wikilink")）2009年7月号
   - ひみchuの文子さま（[マツリセイシロウ](../Page/マツリセイシロウ.md "wikilink")）2009年8月号 - 2011年1月号
   - [不安の種](../Page/不安の種.md "wikilink")（[中山昌亮](../Page/中山昌亮.md "wikilink")）2002年12月号 - 2005年5月号、※『週刊少年チャンピオン』へ移籍
@@ -209,7 +209,7 @@
   - プリンセスは身悶える（[速野悠二](../Page/速野悠二.md "wikilink")）2007年8月号 - 2007年10月号
   - [BLUE DROP 〜天使の僕ら〜](../Page/BLUE_DROP.md "wikilink")（[吉富昭仁](../Page/吉富昭仁.md "wikilink")）2007年4月号 - 2008年3月号
   - [フロンティア](https://ja.wikipedia.org/wiki/フロンティア_\(漫画\) "wikilink")（[石渡洋司](https://ja.wikipedia.org/wiki/石渡洋司 "wikilink")）2002年10月号 - 2004年2月号
-  - [ベクター・ケースファイル 稲穂の昆虫記](../Page/ベクター・ケースファイル_稲穂の昆虫記.md "wikilink")（原作：[藤見泰高](https://ja.wikipedia.org/wiki/藤見泰高 "wikilink")、作画：[カミムラ晋作](https://ja.wikipedia.org/wiki/カミムラ晋作 "wikilink")）2006年9月号 - 2010年6月号
+  - [ベクター・ケースファイル 稲穂の昆虫記](../Page/ベクター・ケースファイル_稲穂の昆虫記.md "wikilink")（原作：[藤見泰高](../Page/藤見泰高.md "wikilink")、作画：[カミムラ晋作](../Page/カミムラ晋作.md "wikilink")）2006年9月号 - 2010年6月号
   - ペット的きもち（柴田芳樹）2002年11月号 - 2004年5月号
   - [HEAVENイレブン](../Page/HEAVENイレブン.md "wikilink")（大和田秀樹）2002年10月号 - 2005年4月号
   - [ペンギン娘](../Page/ペンギン娘.md "wikilink")MAX（[高橋てつや](../Page/高橋てつや.md "wikilink")）2008年2月号 - 2010年3月号、※『週刊少年チャンピオン』から移籍
@@ -231,7 +231,7 @@
   - [三つ目黙示録 〜悪魔王子シャラク〜](../Page/三つ目がとおる.md "wikilink")（原作：[手塚治虫](../Page/手塚治虫.md "wikilink")、脚本：[藤澤勇希](https://ja.wikipedia.org/wiki/藤澤勇希 "wikilink")、漫画：[柚木N'](https://ja.wikipedia.org/wiki/柚木N' "wikilink")）2016年11月号 - 2018年5月号
   - みのりスキャンダル（[速野悠二](../Page/速野悠二.md "wikilink")）2010年5月号 - 2011年5月号
   - メタルドクター（[ボウイナイフ](https://ja.wikipedia.org/wiki/ボウイナイフ_\(漫画家\) "wikilink")）2013年2月号 - 2013年4月号、※短期集中連載
-  - [猛獣性少年少女](https://ja.wikipedia.org/wiki/猛獣性少年少女 "wikilink")（[中田ゆみ](https://ja.wikipedia.org/wiki/中田ゆみ "wikilink")）2016年8月号 - 2018年8月号
+  - [猛獣性少年少女](https://ja.wikipedia.org/wiki/猛獣性少年少女 "wikilink")（[中田ゆみ](../Page/中田ゆみ.md "wikilink")）2016年8月号 - 2018年8月号
   - MONOクロ（[糸杉柾宏](https://ja.wikipedia.org/wiki/糸杉柾宏 "wikilink")）2006年6月号 - 2007年5月号、※シリーズ連載
 
 ### や行

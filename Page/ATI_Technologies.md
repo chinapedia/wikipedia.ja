@@ -7,7 +7,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[中国出身の何国源](../Page/中華人民共和国.md "wikilink")（ホー・クォックユェン、Ho, Kwok Yuen）らによって設立され\[2\]、[ビデオカード](../Page/ビデオカード.md "wikilink")の**[Radeon](../Page/AMD_Radeon.md "wikilink")**シリーズを開発していることで知られる。設立当時は経営状態を左右してしまうようなリスクの大きな高性能な製品の開発には消極的で、低価格ではあるものの堅実な製品「Mach」シリーズを開発、半導体単体での販売はせずに半製品にまで仕立ててアセンブリメーカーに対して販売していた。
 
-[1990年代](../Page/1990年代.md "wikilink")中期にはビデオ市場に多数のメーカーが参入し、老舗のATIも数あるメーカーの中の一つとして認識されていた。90年代後半にはうなぎ登りになる開発費に見合う販売が出来ない[シーラス・ロジック](https://ja.wikipedia.org/wiki/シーラス・ロジック "wikilink")や[3dfx](../Page/3dfx.md "wikilink")など競合メーカーが次々撤退していく中、[Rageシリーズで着実な販売をし](../Page/ATI_Rage.md "wikilink")、それに続くRadeonシリーズのヒットにより、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[NVIDIA](../Page/NVIDIA.md "wikilink")に続くビデオチップメーカーの巨頭となる。
+[1990年代](../Page/1990年代.md "wikilink")中期にはビデオ市場に多数のメーカーが参入し、老舗のATIも数あるメーカーの中の一つとして認識されていた。90年代後半にはうなぎ登りになる開発費に見合う販売が出来ない[シーラス・ロジック](../Page/シーラス・ロジック.md "wikilink")や[3dfx](../Page/3dfx.md "wikilink")など競合メーカーが次々撤退していく中、[Rageシリーズで着実な販売をし](../Page/ATI_Rage.md "wikilink")、それに続くRadeonシリーズのヒットにより、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[NVIDIA](../Page/NVIDIA.md "wikilink")に続くビデオチップメーカーの巨頭となる。
 
 [ゲーム機](../Page/ゲーム機.md "wikilink")である[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")のビデオチップを開発した[ArtX](https://ja.wikipedia.org/wiki/ArtX "wikilink")を買収している。
 

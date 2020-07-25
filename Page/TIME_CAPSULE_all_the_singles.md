@@ -13,7 +13,7 @@
 
 初回盤はBOXケース仕様、40ページブックレット付き、ピクチャーディスク仕様。また、2枚のディスクがそれぞれ単独のケースに収められている。BOXの蓋にはデジタル式の[時計](../Page/時計.md "wikilink")が埋め込まれていて、電池交換も可能である。
 
-後に、内容が重複する『[THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")』『[THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")』がリリースされるが、本作収録の「Detour」はこの作品及び、[2020年](../Page/2020年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")にリリースされた「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」のみの収録となっている。
+後に、内容が重複する『[THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink")』『[THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")』がリリースされるが、本作収録の「Detour」はこの作品及び、[2020年](../Page/2020年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")にリリースされた「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」のみの収録となっている。
 
 ## 収録曲
 

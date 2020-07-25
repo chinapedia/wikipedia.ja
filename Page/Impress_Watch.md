@@ -28,7 +28,7 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
   - Free Watch
     有料メールマガジン「INTERNET Watch」のダイジェスト版として創刊。購読料金は無料。Impress Watchシリーズの記事のヘッドラインと記事の抜粋を配信。[1996年](../Page/1996年.md "wikilink")3月創刊\[7\]。
   - PC Watch
-    [パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")総合ニュースサイト。[1996年](../Page/1996年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")創刊。後述のケータイ Watch(Mobile Central)やAV Watchが開設される前は、[携帯電話](../Page/携帯電話.md "wikilink")や[オーディオ・ビジュアル](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")関連のニュースも掲載されていた。
+    [パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")総合ニュースサイト。[1996年](../Page/1996年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")創刊。後述のケータイ Watch(Mobile Central)やAV Watchが開設される前は、[携帯電話](../Page/携帯電話.md "wikilink")や[オーディオ・ビジュアル](../Page/オーディオ・ビジュアル.md "wikilink")関連のニュースも掲載されていた。
   - AKIBA PC Hotline\!
     [秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")のPCショップや自作パーツの最新情報や価格情報を配信。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に「秋葉原マップ」として創刊、その後[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に現在の名称に。
   - [窓の杜](../Page/窓の杜.md "wikilink")
@@ -38,7 +38,7 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
   -
     [コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")専門ニュースサイト。[2000年](../Page/2000年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")創刊。
   - AV Watch
-    [AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")や[DVD](../Page/DVD.md "wikilink")ソフトに関する情報サイト。[2001年](../Page/2001年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")にプレビュー版創刊後、同年2月1日に正式に創刊。
+    [AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")や[DVD](../Page/DVD.md "wikilink")ソフトに関する情報サイト。[2001年](../Page/2001年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")にプレビュー版創刊後、同年2月1日に正式に創刊。
   - クラウド Watch
     [2003年](../Page/2003年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に法人向けITニュースサイト「Enterprise Watch」として創刊\[8\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")情報に特化する形で現在の名称にリニューアル。
   - デジカメ Watch

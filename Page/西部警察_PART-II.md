@@ -148,7 +148,7 @@
 <td><p>第5話</p></td>
 <td><p>消えた身代金</p></td>
 <td><p>6月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮田雪" title="wikilink">宮田雪</a></p></td>
+<td><p><a href="../Page/宮田雪.md" title="wikilink">宮田雪</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮越澄" title="wikilink">宮越澄</a></p></td>
 <td><p><a href="../Page/安井昌二.md" title="wikilink">安井昌二</a>、<a href="https://ja.wikipedia.org/wiki/荻原紀" title="wikilink">荻原紀</a>、<a href="https://ja.wikipedia.org/wiki/草薙良一" title="wikilink">草薙良一</a>、<a href="https://ja.wikipedia.org/wiki/永野明彦" title="wikilink">永野明彦</a>、<a href="../Page/明石勤.md" title="wikilink">明石勤</a>、<a href="https://ja.wikipedia.org/wiki/梓あつこ" title="wikilink">梓あつこ</a>、<a href="https://ja.wikipedia.org/wiki/大島宇三郎" title="wikilink">大島宇三郎</a>、<a href="https://ja.wikipedia.org/wiki/伊吹礼一" title="wikilink">伊吹礼一</a>、<a href="https://ja.wikipedia.org/wiki/川崎絵美里" title="wikilink">川崎絵美里</a>、<a href="https://ja.wikipedia.org/wiki/竹本史朗" title="wikilink">竹本史朗</a>、<a href="https://ja.wikipedia.org/wiki/伊藤菊治" title="wikilink">伊藤菊治</a></p></td>
 <td><p>15.1%</p></td>

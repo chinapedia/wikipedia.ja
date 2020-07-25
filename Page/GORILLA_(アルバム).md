@@ -3,7 +3,7 @@
 
 『**GORILLA**』（ゴリラ）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")3枚目のスタジオ・アルバム。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[エピックソニーレコードからリリースされた](../Page/エピックレコードジャパン.md "wikilink")。前作『[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）より1年振り、ミニアルバム『[TWINKLE NIGHT](../Page/TWINKLE_NIGHT.md "wikilink")』（1985年）よりおよそ半年振りにリリースされた作品であり、作詞は[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[川村真澄](../Page/川村真澄.md "wikilink")、[西門加里](../Page/小室みつ子.md "wikilink")、[竹花いち子](https://ja.wikipedia.org/wiki/竹花いち子 "wikilink")、[神沢礼江](../Page/神沢礼江.md "wikilink")の6名が担当しており、作曲は小室および木根が担当、プロデューサーは小室と[小坂洋二](../Page/小坂洋二.md "wikilink")が担当しており、初めて外部プロデューサーが関わった作品となった。
+[1986年](../Page/1986年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[エピックソニーレコードからリリースされた](../Page/エピックレコードジャパン.md "wikilink")。前作『[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）より1年振り、ミニアルバム『[TWINKLE NIGHT](../Page/TWINKLE_NIGHT.md "wikilink")』（1985年）よりおよそ半年振りにリリースされた作品であり、作詞は[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[川村真澄](../Page/川村真澄.md "wikilink")、[西門加里](../Page/小室みつ子.md "wikilink")、[竹花いち子](https://ja.wikipedia.org/wiki/竹花いち子 "wikilink")、[神沢礼江](../Page/神沢礼江.md "wikilink")の6名が担当しており、作曲は小室および木根が担当、プロデューサーは小室と[小坂洋二](../Page/小坂洋二.md "wikilink")が担当しており、初めて外部プロデューサーが関わった作品となった。
 
 レコーディングは同年に日本国内の[CBSソニー六本木スタジオ](https://ja.wikipedia.org/wiki/CBSソニー六本木スタジオ "wikilink")、[CBSソニー信濃町スタジオ](https://ja.wikipedia.org/wiki/CBSソニー信濃町スタジオ "wikilink")、STUDIO 221で行われた他、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のMEDIA SOUNDおよびSORCERER SOUNDにおいても行われ、同グループとしては初の日本国外レコーディング作品となった。本作は「*Powerful and Tenderness*」というテーマの下、ファンキーな曲やバラード曲などを収録している。
 
@@ -43,7 +43,7 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[EPIC・ソニーより](../Page/エピックレコードジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CT](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
+[1986年](../Page/1986年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[EPIC・ソニーより](../Page/エピックレコードジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CT](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
 
 その後も[1991年](../Page/1991年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")、[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")とCD盤のみ再リリースされ、[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
 
@@ -192,7 +192,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
 <td><p><a href="../Page/エピックレコードジャパン.md" title="wikilink">EPIC・ソニー</a></p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />

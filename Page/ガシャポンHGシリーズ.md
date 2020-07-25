@@ -206,7 +206,7 @@
       - HGPLUS EX アクションポーズ ドラゴンボールZ
       - H.G.C.O.R.E-EX　機動戦士ガンダム
   - プレミアムバンダイ「ガシャデパ」受注専売(受注された順の羅列)
-      - HGシリーズ ウルトラマン・[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")怪獣コンプリート計画 完結セット
+      - HGシリーズ ウルトラマン・[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")怪獣コンプリート計画 完結セット
       - HGシリーズ [仮面ライダーBLACK](../Page/仮面ライダーBLACK.md "wikilink")\&BLACK RX 最終決戦セット
       - HGシリーズ HGヒーローズ スーパー戦隊EX　―史上最強のブレイブ―
       - HG [HUNTER×HUNTER](../Page/HUNTER×HUNTER.md "wikilink")　ゴン

@@ -411,7 +411,7 @@ TBSチャンネルの[オリジナル番組については後述](https://ja.wik
   - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")
   - [ウルフルズ](../Page/ウルフルズ.md "wikilink")
   - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
-  - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - [中島みゆき](../Page/中島みゆき.md "wikilink")
   - [愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")
   - [アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")
@@ -804,7 +804,7 @@ TBS、および系列局の[MBSや](https://ja.wikipedia.org/wiki/MBSテレビ "
 ### ドキュメンタリー
 
   - [兼高かおる世界の旅](https://ja.wikipedia.org/wiki/兼高かおる世界の旅 "wikilink")
-  - [筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink") 対談特選 〜時代を映す言葉たち〜
+  - [筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink") 対談特選 〜時代を映す言葉たち〜
   - [世界遺産](https://ja.wikipedia.org/wiki/THE世界遺産 "wikilink")
   - [新世界紀行](../Page/日曜特集・新世界紀行.md "wikilink")
   - [野生の王国](../Page/野生の王国.md "wikilink")（MBS制作）

@@ -9,7 +9,7 @@
 
 [1973年](../Page/1973年.md "wikilink")・[1974年](../Page/1974年.md "wikilink")は「**LPGAジャパンクラシック**」として開催され、当時毎日放送が加盟していたNET（現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）系列で放送された。[1975年](../Page/1975年.md "wikilink")から[1979年](../Page/1979年.md "wikilink")までは「**LPGA美津濃クラシック**」として開催された。同時に、在阪局の[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")の影響でTBS系列へ移行した。
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1992年](../Page/1992年.md "wikilink")までは「**[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")ジャパンクラシック**」、[1993年](../Page/1993年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")までは「**[東レ](../Page/東レ.md "wikilink")ジャパンクイーンズカップ**」として開催され、毎年[毎日放送と](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBSの交互による製作で](../Page/TBSテレビ.md "wikilink")[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")または[関東](../Page/関東.md "wikilink")の[ゴルフコース](https://ja.wikipedia.org/wiki/ゴルフコース "wikilink")を舞台に開催された。マツダジャパンクラシック時代は、一度主催者の本社がある[広島県](../Page/広島県.md "wikilink")で開催された事もあり、[広島電鉄](../Page/広島電鉄.md "wikilink")が広告電車を運転した事もあった。その後[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のみ「**LPGAジャパンクラシック**」として開催され、[1999年](../Page/1999年.md "wikilink")からは前年まで開催されていた「[ミズノオープンレディーストーナメント](../Page/全英への道_ミズノオープン.md "wikilink")」（[ミズノ](../Page/ミズノ.md "wikilink")・[読売テレビ主催](../Page/讀賣テレビ放送.md "wikilink")）と統合され「**ミズノクラシック**」へと改名される。1999年までは関東と関西で交互に開催されていた。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1992年](../Page/1992年.md "wikilink")までは「**[マツダ](../Page/マツダ.md "wikilink")ジャパンクラシック**」、[1993年](../Page/1993年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")までは「**[東レ](../Page/東レ.md "wikilink")ジャパンクイーンズカップ**」として開催され、毎年[毎日放送と](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBSの交互による製作で](../Page/TBSテレビ.md "wikilink")[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")または[関東](../Page/関東.md "wikilink")の[ゴルフコース](https://ja.wikipedia.org/wiki/ゴルフコース "wikilink")を舞台に開催された。マツダジャパンクラシック時代は、一度主催者の本社がある[広島県](../Page/広島県.md "wikilink")で開催された事もあり、[広島電鉄](../Page/広島電鉄.md "wikilink")が広告電車を運転した事もあった。その後[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のみ「**LPGAジャパンクラシック**」として開催され、[1999年](../Page/1999年.md "wikilink")からは前年まで開催されていた「[ミズノオープンレディーストーナメント](../Page/全英への道_ミズノオープン.md "wikilink")」（[ミズノ](../Page/ミズノ.md "wikilink")・[読売テレビ主催](../Page/讀賣テレビ放送.md "wikilink")）と統合され「**ミズノクラシック**」へと改名される。1999年までは関東と関西で交互に開催されていた。
 
 [2001年](../Page/2001年.md "wikilink")からはミズノ単独主催となり、[2005年](../Page/2005年.md "wikilink")までは[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")の瀬田ゴルフコース・北コースで、また[2006年](../Page/2006年.md "wikilink")から[2015年](../Page/2015年.md "wikilink")までは、[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")の[伊勢志摩](../Page/伊勢志摩.md "wikilink")事業計画の一環として[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[志摩市](../Page/志摩市.md "wikilink")にある[近鉄賢島カンツリークラブ](https://ja.wikipedia.org/wiki/近鉄賢島カンツリークラブ "wikilink")で開催されていた。[2016年](../Page/2016年.md "wikilink")については当初開催コース未定となっていたが、2016年[1月20日](../Page/1月20日.md "wikilink")に[茨城県](../Page/茨城県.md "wikilink")[小美玉市](../Page/小美玉市.md "wikilink")にある[太平洋クラブ](../Page/太平洋クラブ.md "wikilink")美野里コースで開催されることを日本女子プロゴルフ協会が発表した\[1\]。2018年から再び瀬田GC北Cにて開催\[2\]。
 
@@ -236,7 +236,7 @@
 <tr class="even">
 <td><p>1998年</p></td>
 <td><p><strong>LPGAジャパンクラシック</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林浩美" title="wikilink">小林浩美</a></p></td>
+<td><p><a href="../Page/小林浩美.md" title="wikilink">小林浩美</a></p></td>
 <td><p>-11</p></td>
 <td><p>埼玉県</p></td>
 <td><p>武蔵丘ゴルフコース</p></td>

@@ -13,7 +13,7 @@
 
 本誌の編集部は1996年よりゲームコミックチャレンジ賞を主催し、本誌以外にアンソロジー集「[スーパーコミック劇場](../Page/スーパーコミック劇場.md "wikilink")」の編集も行っていたが、[2006年](../Page/2006年.md "wikilink")をもって漫画賞・アンソロジー集の刊行とも終了している。
 
-[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化された連載作品には、『[最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』『[E'S](../Page/E'S.md "wikilink")』『[ぱにぽに](https://ja.wikipedia.org/wiki/ぱにぽに "wikilink")』（それぞれ、『幻想魔伝 最遊記』『E'S OTHERWISE』『ぱにぽにだっしゅ\!』にタイトル変更）『[ZOMBIE-LOAN](../Page/ZOMBIE-LOAN.md "wikilink")』『[隠の王](https://ja.wikipedia.org/wiki/隠の王 "wikilink")』『[黒執事](../Page/黒執事.md "wikilink")』『[PandoraHearts](../Page/PandoraHearts.md "wikilink")』『[君と僕。](../Page/君と僕。.md "wikilink")』『[キューティクル探偵因幡](https://ja.wikipedia.org/wiki/キューティクル探偵因幡 "wikilink")』『[青春×機関銃](https://ja.wikipedia.org/wiki/青春×機関銃 "wikilink")』『[王室教師ハイネ](https://ja.wikipedia.org/wiki/王室教師ハイネ "wikilink")』がある。
+[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化された連載作品には、『[最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』『[E'S](../Page/E'S.md "wikilink")』『[ぱにぽに](https://ja.wikipedia.org/wiki/ぱにぽに "wikilink")』（それぞれ、『幻想魔伝 最遊記』『E'S OTHERWISE』『ぱにぽにだっしゅ\!』にタイトル変更）『[ZOMBIE-LOAN](../Page/ZOMBIE-LOAN.md "wikilink")』『[隠の王](https://ja.wikipedia.org/wiki/隠の王 "wikilink")』『[黒執事](../Page/黒執事.md "wikilink")』『[PandoraHearts](../Page/PandoraHearts.md "wikilink")』『[君と僕。](../Page/君と僕。.md "wikilink")』『[キューティクル探偵因幡](../Page/キューティクル探偵因幡.md "wikilink")』『[青春×機関銃](https://ja.wikipedia.org/wiki/青春×機関銃 "wikilink")』『[王室教師ハイネ](https://ja.wikipedia.org/wiki/王室教師ハイネ "wikilink")』がある。
 
 ## 連載作品
 

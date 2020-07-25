@@ -111,7 +111,7 @@
 
   - [ジャンフランコ・ゾラ](../Page/ジャンフランコ・ゾラ.md "wikilink") 2016.12-2017.4
 
-  - [ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink") 2017.4-2017.9
+  - [ハリー・レドナップ](../Page/ハリー・レドナップ.md "wikilink") 2017.4-2017.9
 
   - [スティーヴ・コッテリル](https://ja.wikipedia.org/wiki/スティーヴ・コッテリル "wikilink") 2017.9-2018.3
 
@@ -169,7 +169,7 @@
 
   - [ミカエル・フォルセル](../Page/ミカエル・フォルセル.md "wikilink") 2003-2005.1, 2005-2008
 
-  - [ケヴィン・フィリップス](https://ja.wikipedia.org/wiki/ケヴィン・フィリップス "wikilink") 2008-2011
+  - [ケヴィン・フィリップス](../Page/ケヴィン・フィリップス.md "wikilink") 2008-2011
 
   - [クリスティアン・ベニテス](https://ja.wikipedia.org/wiki/クリスティアン・ベニテス "wikilink") 2009-2010
 

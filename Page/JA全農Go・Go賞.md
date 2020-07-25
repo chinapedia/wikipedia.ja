@@ -351,7 +351,7 @@
 <td></td>
 <td><p>4月</p></td>
 <td><p>好走塁賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今岡誠" title="wikilink">今岡誠</a></p></td>
+<td><p><a href="../Page/今岡誠.md" title="wikilink">今岡誠</a></p></td>
 <td><p>阪神</p></td>
 </tr>
 <tr class="even">

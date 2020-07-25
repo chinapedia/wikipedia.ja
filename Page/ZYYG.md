@@ -41,7 +41,7 @@
 <!-- end list -->
 
   -
-    東京都出身。在籍時はデビュー曲を除く全ての作曲、並びに全ての楽曲の編曲を担当。ZYYGでの活動と平行して作曲家としても活躍、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[MANISH](../Page/MANISH.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[柳原愛子の楽曲を手がける](https://ja.wikipedia.org/wiki/柳原愛子_\(歌手\) "wikilink")。
+    東京都出身。在籍時はデビュー曲を除く全ての作曲、並びに全ての楽曲の編曲を担当。ZYYGでの活動と平行して作曲家としても活躍、[ZARD](../Page/ZARD.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[MANISH](../Page/MANISH.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[柳原愛子の楽曲を手がける](https://ja.wikipedia.org/wiki/柳原愛子_\(歌手\) "wikilink")。
 
 <!-- end list -->
 

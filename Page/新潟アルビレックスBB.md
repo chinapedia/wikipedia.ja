@@ -1,11 +1,11 @@
 > この記事は[新潟アルビレックスBB](https://ja.wikipedia.org/wiki/新潟アルビレックスBB)から翻訳されています。
 
 
-**新潟アルビレックスBB**（にいがたアルビレックスビービー、）は、[新潟県](../Page/新潟県.md "wikilink")の[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")を本拠地として[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[上越市](../Page/上越市.md "wikilink")といった新潟県全域で活動する[B.LEAGUEに所属するプロ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。
+**新潟アルビレックスBB**（にいがたアルビレックスビービー、）は、[新潟県](../Page/新潟県.md "wikilink")の[長岡市](../Page/長岡市.md "wikilink")を本拠地として[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[上越市](../Page/上越市.md "wikilink")といった新潟県全域で活動する[B.LEAGUEに所属するプロ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。
 
 ## 概要
 
-[Albirexbb_080923.jpg](https://ja.wikipedia.org/wiki/File:Albirexbb_080923.jpg "fig:Albirexbb_080923.jpg")[9月23日](../Page/9月23日.md "wikilink")、[秋田県立体育館](https://ja.wikipedia.org/wiki/秋田県立体育館 "wikilink")\]\] 母体は[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")バスケットボール部（[大和証券ホットブリザーズ](https://ja.wikipedia.org/wiki/大和証券ホットブリザーズ "wikilink")）。2000年に休部となった同チームの譲渡を受けて日本初のプロバスケットボールチームとして発足された。
+[Albirexbb_080923.jpg](https://ja.wikipedia.org/wiki/File:Albirexbb_080923.jpg "fig:Albirexbb_080923.jpg")[9月23日](../Page/9月23日.md "wikilink")、[秋田県立体育館](https://ja.wikipedia.org/wiki/秋田県立体育館 "wikilink")\]\] 母体は[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")バスケットボール部（[大和証券ホットブリザーズ](../Page/大和証券ホットブリザーズ.md "wikilink")）。2000年に休部となった同チームの譲渡を受けて日本初のプロバスケットボールチームとして発足された。
 
 ### チーム名の由来
 
@@ -54,7 +54,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
   - 亀田総合体育館
   - 新津B\&G海洋センター
 
-2016年〜：[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")
+2016年〜：[長岡市](../Page/長岡市.md "wikilink")
 
 11-12シーズンから、[長岡市厚生会館](../Page/長岡市厚生会館.md "wikilink")を建替えて造られた[アオーレ長岡](https://ja.wikipedia.org/wiki/アオーレ長岡 "wikilink")がホームゲーム会場として加わり、16-17シーズンから始まるBリーグのホームアリーナに決定した\[1\]。この決定に伴い、ホームタウンが新潟市から移転。練習拠点も、中之島体育館(新潟県内初となるスポーツ専用床使用)を主に使用することとなった。
 
@@ -496,7 +496,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 <!-- end list -->
 
-  - Bリーグ 2016-17 5,286人[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")[アオーレ長岡](https://ja.wikipedia.org/wiki/アオーレ長岡 "wikilink")
+  - Bリーグ 2016-17 5,286人[長岡市](../Page/長岡市.md "wikilink")[アオーレ長岡](https://ja.wikipedia.org/wiki/アオーレ長岡 "wikilink")
   - bjリーグ 2006-07 4,515人[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")
 
 <!-- end list -->
@@ -531,7 +531,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 | 試合数                                                   | 合計                                                                 | 平均                                       | 最大      | 最小        |
 | 2005-06                                               | [新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")                | **[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")** | 約5,000席 | 10        |
 | 新潟市                                                   | [市東総合SC](https://ja.wikipedia.org/wiki/新潟市東総合スポーツセンター "wikilink")  | 3,120席                                   | 2       | \---人     |
-| [長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")   | [市厚生会館](../Page/長岡市厚生会館.md "wikilink")                             | 席                                        | 4       | \---人     |
+| [長岡市](../Page/長岡市.md "wikilink")                      | [市厚生会館](../Page/長岡市厚生会館.md "wikilink")                             | 席                                        | 4       | \---人     |
 | [小千谷市](../Page/小千谷市.md "wikilink")                    | [市総合体育館](https://ja.wikipedia.org/wiki/小千谷市総合体育館 "wikilink")       | 席                                        | 2       | \---人     |
 | [上越市](../Page/上越市.md "wikilink")                      | [リージョンプラザ](https://ja.wikipedia.org/wiki/リージョンプラザ上越 "wikilink")    | 3,476席                                   | 2       | \---人     |
 | *ホーム計*                                                | 20                                                                 | 60,160人                                  | 3,008人  | 4,394人    |

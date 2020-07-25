@@ -9,7 +9,7 @@
 
 編成上の都合（年末年始、その他）により番組が放送休止となることがあり、この場合は通常放送していない[JFN製作の](../Page/全国FM放送協議会.md "wikilink")『[Switch\!](../Page/Switch!.md "wikilink")』（2005年9月までは『[CO-CO MIX](../Page/CO-CO_MIX.md "wikilink")』）がネットされる。
 
-後番組はJFNCの「[ONCE](https://ja.wikipedia.org/wiki/ONCE "wikilink")」。4年ぶりに昼枠がJFNCの枠となる。金曜日に関しては、2011年12月から[ニコニコフライデー](https://ja.wikipedia.org/wiki/ニコニコフライデー "wikilink")が放送開始し、再び自社制作枠に戻った。
+後番組はJFNCの「[ONCE](../Page/ONCE.md "wikilink")」。4年ぶりに昼枠がJFNCの枠となる。金曜日に関しては、2011年12月から[ニコニコフライデー](https://ja.wikipedia.org/wiki/ニコニコフライデー "wikilink")が放送開始し、再び自社制作枠に戻った。
 
 ## パーソナリティ
 

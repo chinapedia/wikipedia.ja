@@ -72,7 +72,7 @@
   - [内山絵里加](https://ja.wikipedia.org/wiki/内山絵里加 "wikilink")（[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")）
   - 浦野遥（[NHK宇都宮放送局](../Page/NHK宇都宮放送局.md "wikilink")キャスター）
   - [神谷文乃](https://ja.wikipedia.org/wiki/神谷文乃 "wikilink")（☆[岡山放送](../Page/岡山放送.md "wikilink")）
-  - [亀井京子](https://ja.wikipedia.org/wiki/亀井京子 "wikilink")（元[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [亀井京子](../Page/亀井京子.md "wikilink")（元[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [木下瑠音](https://ja.wikipedia.org/wiki/木下瑠音 "wikilink")（元[仙台放送](../Page/仙台放送.md "wikilink")）
   - 小林美保（☆[NHK新潟放送局](../Page/NHK新潟放送局.md "wikilink")キャスター）
   - [阪中香織](../Page/石川香織.md "wikilink")（元[日本BS放送](../Page/日本BS放送.md "wikilink")）

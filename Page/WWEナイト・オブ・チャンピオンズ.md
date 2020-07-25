@@ -292,7 +292,7 @@
 <!-- end list -->
 
   -
-    ○エア・ブーン([エヴァン・ボーン](../Page/マット・コークラン.md "wikilink")&[コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・サーコーディエ・メンサー "wikilink"))(c) vs [ザ・ミズ](https://ja.wikipedia.org/wiki/マイク・ミザニン "wikilink")&[Rトゥルース](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")●
+    ○エア・ブーン([エヴァン・ボーン](../Page/マット・コークラン.md "wikilink")&[コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・サーコーディエ・メンサー "wikilink"))(c) vs [ザ・ミズ](https://ja.wikipedia.org/wiki/マイク・ミザニン "wikilink")&[Rトゥルース](../Page/ロン・キリングス.md "wikilink")●
     挑戦者組の反則負け。
 
 <!-- end list -->
@@ -353,7 +353,7 @@
 ### 第5回大会（2012年）WWE Night of Champions 2012
 
   - 開催日 : 9月16日
-  - 開催場所 : [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")の[TDガーデン](https://ja.wikipedia.org/wiki/TDガーデン "wikilink")
+  - 開催場所 : [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")の[TDガーデン](../Page/TDガーデン.md "wikilink")
   - 観客動員数 : 14,886人
   - 公式大会曲 : [ケヴィン・ルドルフ](https://ja.wikipedia.org/wiki/ケヴィン・ルドルフ "wikilink") - "Champions"
 
@@ -382,7 +382,7 @@
 <!-- end list -->
 
   -
-    ●[コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・サーコーディエ・メンサー "wikilink")&[Rトゥルース](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")(c) vs [チーム・ヘル・ノー](https://ja.wikipedia.org/wiki/チーム・ヘル・ノー "wikilink")([ダニエル・ブライアン](../Page/ブライアン・ダニエルソン.md "wikilink")&[ケイン](../Page/ケイン_\(プロレスラー\).md "wikilink"))○
+    ●[コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・サーコーディエ・メンサー "wikilink")&[Rトゥルース](../Page/ロン・キリングス.md "wikilink")(c) vs [チーム・ヘル・ノー](https://ja.wikipedia.org/wiki/チーム・ヘル・ノー "wikilink")([ダニエル・ブライアン](../Page/ブライアン・ダニエルソン.md "wikilink")&[ケイン](../Page/ケイン_\(プロレスラー\).md "wikilink"))○
 
 <!-- end list -->
 
@@ -429,7 +429,7 @@
 ### 第6回大会（2013年）WWE Night of Champions 2013
 
   - 開催日 : 9月15日
-  - 開催場所 : [ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")の[ジョー・ルイス・アリーナ](https://ja.wikipedia.org/wiki/ジョー・ルイス・アリーナ "wikilink")
+  - 開催場所 : [ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")の[ジョー・ルイス・アリーナ](../Page/ジョー・ルイス・アリーナ.md "wikilink")
   - 観客動員数 : 10,500人
   - 公式大会曲 : [ジム・ジョンストン](https://ja.wikipedia.org/wiki/ジム・ジョンストン "wikilink") - "Big Epic Night"
 
@@ -549,7 +549,7 @@
 <!-- end list -->
 
   -
-    ●[ドルフ・ジグラー](https://ja.wikipedia.org/wiki/ドルフ・ジグラー "wikilink")(c)(w / [Rトゥルース](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")) vs [ザ・ミズ](../Page/ザ・ミズ.md "wikilink")(w / [ダミアン・ミズドウ](https://ja.wikipedia.org/wiki/アーロン・ハダッド "wikilink"))○
+    ●[ドルフ・ジグラー](https://ja.wikipedia.org/wiki/ドルフ・ジグラー "wikilink")(c)(w / [Rトゥルース](../Page/ロン・キリングス.md "wikilink")) vs [ザ・ミズ](../Page/ザ・ミズ.md "wikilink")(w / [ダミアン・ミズドウ](https://ja.wikipedia.org/wiki/アーロン・ハダッド "wikilink"))○
 
 <!-- end list -->
 
@@ -601,7 +601,7 @@
 <!-- end list -->
 
   -
-    ○[スターダスト](../Page/コーディ・ローデス.md "wikilink") & [ジ・アセンション](https://ja.wikipedia.org/wiki/ジ・アセンション "wikilink")([コナー](https://ja.wikipedia.org/wiki/ライアン・パーメーター "wikilink") & [ビクター](https://ja.wikipedia.org/wiki/エリック・トンプソン "wikilink")) vs [ネヴィル](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink") & [ルチャ・ドラゴンズ](https://ja.wikipedia.org/wiki/ルチャ・ドラゴンズ "wikilink")([カリスト](https://ja.wikipedia.org/wiki/サムライ・デル・ソル "wikilink") & [シン・カラ](https://ja.wikipedia.org/wiki/ホルヘ・アリアス "wikilink"))●
+    ○[スターダスト](../Page/コーディ・ローデス.md "wikilink") & [ジ・アセンション](https://ja.wikipedia.org/wiki/ジ・アセンション "wikilink")([コナー](https://ja.wikipedia.org/wiki/ライアン・パーメーター "wikilink") & [ビクター](https://ja.wikipedia.org/wiki/エリック・トンプソン "wikilink")) vs [ネヴィル](../Page/ベンジャミン・サッタリー.md "wikilink") & [ルチャ・ドラゴンズ](https://ja.wikipedia.org/wiki/ルチャ・ドラゴンズ "wikilink")([カリスト](https://ja.wikipedia.org/wiki/サムライ・デル・ソル "wikilink") & [シン・カラ](https://ja.wikipedia.org/wiki/ホルヘ・アリアス "wikilink"))●
 
 <!-- end list -->
 
@@ -623,7 +623,7 @@
 <!-- end list -->
 
   -
-    ●[ニュー・デイ](https://ja.wikipedia.org/wiki/ニュー・デイ_\(プロレス\) "wikilink")([ビッグ・E](https://ja.wikipedia.org/wiki/エットレ・ユエン "wikilink") & [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")(w/[エグザビアー・ウッズ](https://ja.wikipedia.org/wiki/エグザビアー・ウッズ "wikilink")))(c) vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")([ババレイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink") & [ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink"))○
+    ●[ニュー・デイ](https://ja.wikipedia.org/wiki/ニュー・デイ_\(プロレス\) "wikilink")([ビッグ・E](https://ja.wikipedia.org/wiki/エットレ・ユエン "wikilink") & [コフィ・キングストン](../Page/コフィ・キングストン.md "wikilink")(w/[エグザビアー・ウッズ](https://ja.wikipedia.org/wiki/エグザビアー・ウッズ "wikilink")))(c) vs [ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")([ババレイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink") & [ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink"))○
     DQのため、王座移動なし
 
 <!-- end list -->

@@ -75,7 +75,7 @@ Gew43において、作動不良や部品破損が頻発したのは事実であ
   - 『[スナイパーエリートV2](https://ja.wikipedia.org/wiki/スナイパーエリートV2 "wikilink")』
     ZF4 スコープが装着されているものを物語後半で入手できる。[DLCを除けば唯一のセミオート](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")[狙撃銃](../Page/狙撃銃.md "wikilink")であり、より高い制圧効果を発揮する。
 
-  - 『[戦場のヴァルキュリア](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")』
+  - 『[戦場のヴァルキュリア](../Page/戦場のヴァルキュリア.md "wikilink")』
     「ガリアン」の名称で登場する。
 
   - 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』

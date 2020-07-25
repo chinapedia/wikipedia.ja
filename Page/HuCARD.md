@@ -11,7 +11,7 @@
 
 その構造上大容量化と追加機能の搭載が困難である。
 
-  - 初期型HuCARDは容量が2Mbit（256KB）しか記録できなかったため、初期の[キラーソフト](../Page/キラーソフト.md "wikilink")だった『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』は1～4面まで収録した前編として『R-TYPE I』を、5～8面を収録した後編を『R-TYPE II』として2枚別々に3ヶ月の間を空けて発売された。後に4Mbit（512KB）、8Mbit（1MB）と容量拡張が行われた。最大容量は『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")ダッシュ』の20Mbit（2.5MB）。
+  - 初期型HuCARDは容量が2Mbit（256KB）しか記録できなかったため、初期の[キラーソフト](../Page/キラーソフト.md "wikilink")だった『[R-TYPE](../Page/R-TYPE.md "wikilink")』は1～4面まで収録した前編として『R-TYPE I』を、5～8面を収録した後編を『R-TYPE II』として2枚別々に3ヶ月の間を空けて発売された。後に4Mbit（512KB）、8Mbit（1MB）と容量拡張が行われた。最大容量は『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")ダッシュ』の20Mbit（2.5MB）。
   - [CD-ROM<sup>2</sup>用のスーパーシステムカードや](../Page/SUPER_CD-ROM2.md "wikilink")[アーケードカード](../Page/アーケードカード.md "wikilink")ではRAMも併せて搭載しており、HuCARD版『[ポピュラス](../Page/ポピュラス.md "wikilink")』内にはRAMが搭載されている\[1\]。
   - 『[天の声BANK](https://ja.wikipedia.org/wiki/PCエンジン#周辺機器 "wikilink")』は[SRAM](../Page/Static_Random_Access_Memory.md "wikilink")[バッテリーバックアップ](../Page/バッテリーバックアップ.md "wikilink")搭載している。
 
@@ -46,7 +46,7 @@
   -
 
       -
-        『[R-TYPE I/II](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』、『[カトちゃんケンちゃん](../Page/カトちゃんケンちゃん.md "wikilink")』、『[THE 功夫](https://ja.wikipedia.org/wiki/THE_功夫 "wikilink")』、『[邪聖剣ネクロマンサー](../Page/邪聖剣ネクロマンサー.md "wikilink")』、『[ビックリマンワールド](https://ja.wikipedia.org/wiki/ビックリマンワールド_\(ゲーム\) "wikilink")』、『[ボンバーマン](../Page/ボンバーマン_\(PCエンジン\).md "wikilink")』、『[モトローダー](https://ja.wikipedia.org/wiki/モトローダー "wikilink")』他
+        『[R-TYPE I/II](../Page/R-TYPE.md "wikilink")』、『[カトちゃんケンちゃん](../Page/カトちゃんケンちゃん.md "wikilink")』、『[THE 功夫](https://ja.wikipedia.org/wiki/THE_功夫 "wikilink")』、『[邪聖剣ネクロマンサー](../Page/邪聖剣ネクロマンサー.md "wikilink")』、『[ビックリマンワールド](https://ja.wikipedia.org/wiki/ビックリマンワールド_\(ゲーム\) "wikilink")』、『[ボンバーマン](../Page/ボンバーマン_\(PCエンジン\).md "wikilink")』、『[モトローダー](../Page/モトローダー.md "wikilink")』他
 
 <!-- end list -->
 

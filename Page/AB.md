@@ -28,7 +28,7 @@
   - [アンハイザー・ブッシュ](../Page/アンハイザー・ブッシュ.md "wikilink") () - アメリカのビール会社。
   - [AB Airlines](https://ja.wikipedia.org/wiki/AB_Airlines "wikilink") - かつて存在したイギリスの航空会社。
   - [米国船級協会](https://ja.wikipedia.org/wiki/米国船級協会 "wikilink")
-  - [アーリアン・ブラザーフッド](https://ja.wikipedia.org/wiki/アーリアン・ブラザーフッド "wikilink") () - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[犯罪組織](https://ja.wikipedia.org/wiki/犯罪組織 "wikilink")。
+  - [アーリアン・ブラザーフッド](../Page/アーリアン・ブラザーフッド.md "wikilink") () - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[犯罪組織](https://ja.wikipedia.org/wiki/犯罪組織 "wikilink")。
   - [ABコペンハーゲン](../Page/ABコペンハーゲン.md "wikilink")（） - [デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")のプロサッカークラブ。
   - [オートバックス](../Page/オートバックスセブン.md "wikilink") () - 日本の自動車用品店チェーン。
   - [アクションバンド](https://ja.wikipedia.org/wiki/アクションバンド "wikilink") () - 株式会社[マガジンランド](https://ja.wikipedia.org/wiki/マガジンランド "wikilink")がかつて発行していた雑誌。
@@ -40,7 +40,7 @@
   - [世界気象機関](../Page/世界気象機関.md "wikilink")（WMO）の[国名コード](../Page/国名コード.md "wikilink")で、**[アルバニア](../Page/アルバニア.md "wikilink")**を示す。
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の行政区画コード（[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")）などのコードで、以下の各国の行政区画を示す。
       - カナダの**[アルバータ州](../Page/アルバータ州.md "wikilink")** - [ISO 3166-2:CA](../Page/ISO_3166-2:CA.md "wikilink")
-      - ルーマニアの**[アルバ県](https://ja.wikipedia.org/wiki/アルバ県 "wikilink")** - [ISO 3166-2:RO](https://ja.wikipedia.org/wiki/ISO_3166-2:RO "wikilink")
+      - ルーマニアの**[アルバ県](../Page/アルバ県.md "wikilink")** - [ISO 3166-2:RO](https://ja.wikipedia.org/wiki/ISO_3166-2:RO "wikilink")
       - イギリスの[アバディーン](../Page/アバディーン.md "wikilink")周辺の郵便コード ()
   - 国際標準化機構の[言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、**[アブハズ語](../Page/アブハズ語.md "wikilink")**を示す。
   - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[エア・ベルリン](https://ja.wikipedia.org/wiki/エア・ベルリン "wikilink")**を示す。

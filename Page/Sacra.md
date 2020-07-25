@@ -49,7 +49,7 @@
 
   - ターキー（本名：細川 央行（ほそかわ たかゆき）、[1973年](../Page/1973年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - ）
     [ドラム担当](../Page/ドラムセット.md "wikilink")。元[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")
-  - 荒幡亮平（あらはた りょうへい、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）
+  - 荒幡亮平（あらはた りょうへい、[1986年](../Page/1986年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）
     キーボード担当。
   - 高田政良（たかだ まさよし [1977年](../Page/1977年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") - )
     ドラム担当。[大阪府](../Page/大阪府.md "wikilink")[交野市](../Page/交野市.md "wikilink")生まれ。元[KUMACHI](../Page/KUMACHI.md "wikilink")のメンバー。[DUCCI](https://ja.wikipedia.org/wiki/DUCCI "wikilink")名義でARIA ASIA、[Red Pepper Girlsでも活動](https://ja.wikipedia.org/wiki/レッド・ペッパー・ガールズ "wikilink")。

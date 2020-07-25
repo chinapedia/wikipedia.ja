@@ -47,7 +47,7 @@
 
   - [水銀](../Page/水銀.md "wikilink") ()
   - [水銀柱ミリメートル](../Page/水銀柱ミリメートル.md "wikilink")
-  - [ハプログループ](https://ja.wikipedia.org/wiki/ハプログループ "wikilink") ()
+  - [ハプログループ](../Page/ハプログループ.md "wikilink") ()
   - [ヘモグロビン](../Page/ヘモグロビン.md "wikilink") ()
 
 ## hg

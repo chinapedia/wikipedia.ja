@@ -55,7 +55,7 @@
         [JUDY AND MARYのカバー](../Page/JUDY_AND_MARY.md "wikilink")。 [恩田快人](../Page/恩田快人.md "wikilink")（元 JUDY AND MARY）プロデュース。
 6.  I'M GETTIN' BLUE （2003年6月25日）
       -
-        [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のカバー。 Ai+BANDプロデュース。
+        [ZIGGY](../Page/ZIGGY.md "wikilink")のカバー。 Ai+BANDプロデュース。
 7.  ハッピィ(\*^o^\*)SUNDAY （2004年3月17日）
       -
         オリジナル楽曲。 川添智久プロデュース

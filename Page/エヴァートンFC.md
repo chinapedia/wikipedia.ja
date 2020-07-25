@@ -423,7 +423,7 @@
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKブラン" title="wikilink">ブラン</a></p></td>
+<td><p><a href="../Page/SKブラン.md" title="wikilink">ブラン</a></p></td>
 <td><p>6–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''8–1</p></td>
@@ -741,7 +741,7 @@
 
   - [ポール・ジェラード](https://ja.wikipedia.org/wiki/ポール・ジェラード "wikilink") 1996 - 2004
 
-  - [ナイジェル・マーティン](https://ja.wikipedia.org/wiki/ナイジェル・マーティン "wikilink") 2003 - 2006
+  - [ナイジェル・マーティン](../Page/ナイジェル・マーティン.md "wikilink") 2003 - 2006
 
   - [イアイン・ターナー](../Page/イアイン・ターナー.md "wikilink") 2003 - 2011
 
@@ -757,7 +757,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [マーティン・キーオン](https://ja.wikipedia.org/wiki/マーティン・キーオン "wikilink") 1989 - 1993
+  - [マーティン・キーオン](../Page/マーティン・キーオン.md "wikilink") 1989 - 1993
 
   - [デイビッド・アンズワース](https://ja.wikipedia.org/wiki/デイビッド・アンズワース "wikilink") 1991 - 2004
 
@@ -769,7 +769,7 @@
 
   - [ピーター・クラーク](https://ja.wikipedia.org/wiki/ピーター・クラーク "wikilink") 1998 - 2004
 
-  - [アベル・シャヴィエル](https://ja.wikipedia.org/wiki/アベル・シャヴィエル "wikilink") 1999 - 2002
+  - [アベル・シャヴィエル](../Page/アベル・シャヴィエル.md "wikilink") 1999 - 2002
 
   - [デヴィッド・ウィアー](../Page/デヴィッド・ウィアー_\(サッカー選手\).md "wikilink") 1999 - 2007
 
@@ -783,7 +783,7 @@
 
   - [アレッサンドロ・ピストーネ](../Page/アレッサンドロ・ピストーネ.md "wikilink") 2000 - 2007
 
-  - [トニー・ヒバート](https://ja.wikipedia.org/wiki/トニー・ヒバート "wikilink") 2000 - 2016
+  - [トニー・ヒバート](../Page/トニー・ヒバート.md "wikilink") 2000 - 2016
 
   - [アラン・スタッブス](../Page/アラン・スタッブス.md "wikilink") 2001 - 2005
 

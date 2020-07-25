@@ -1,13 +1,13 @@
 > この記事は[FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気)から翻訳されています。
 
 
-『**FNNニュース・明日の天気**』（エフエヌエヌニュース・あすのてんき）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN系列局で](../Page/フジニュースネットワーク.md "wikilink")[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")番組。放送地域（ネット局）によっては番組名が改題されており、この状況はこの枠の番組名が変更されても（『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・明日の天気』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』→『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』→『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』→『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』）続いていた。しかし2018年春改編によって『THE NEWSα Pick』が終了し、フジテレビにおけるこの時間のスポットニュースは廃止されたが、一部地域の系列局ではローカルニュースや天気予報番組が継続されている。
+『**FNNニュース・明日の天気**』（エフエヌエヌニュース・あすのてんき）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN系列局で](../Page/フジニュースネットワーク.md "wikilink")[1968年](../Page/1968年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")番組。放送地域（ネット局）によっては番組名が改題されており、この状況はこの枠の番組名が変更されても（『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・明日の天気』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』→『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』→『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』→『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』）続いていた。しかし2018年春改編によって『THE NEWSα Pick』が終了し、フジテレビにおけるこの時間のスポットニュースは廃止されたが、一部地域の系列局ではローカルニュースや天気予報番組が継続されている。
 
 ## 概要
 
 フジテレビでは、[1963年](../Page/1963年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から20時台のスポットタイムを導入したが、当初はニュースを編成せず日替わりで世相を斬る『[一刀両断](https://ja.wikipedia.org/wiki/一刀両断 "wikilink")』や、様々な芸能人が社会風刺コントを繰り広げる『[待ッテマシタ\!](https://ja.wikipedia.org/wiki/待ッテマシタ! "wikilink")』（[1972年](../Page/1972年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からは[ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")のみの出演となり、『[クレージーの待ッテマシタ\!](https://ja.wikipedia.org/wiki/待ッテマシタ! "wikilink")』と改題）を放送、そして[1965年](../Page/1965年.md "wikilink")10月より『待ッテマシタ\!』の[日曜日](../Page/日曜日.md "wikilink")放送を廃止し、日曜日20:56 - 21:00に『ニュース・シャッター』を開始した。
 
-[1967年](../Page/1967年.md "wikilink")4月に日曜20時台が45分時代劇『[ひばり・与一の花と剣](https://ja.wikipedia.org/wiki/ひばり・与一の花と剣 "wikilink")』と15分番組『[リレー寄席](https://ja.wikipedia.org/wiki/リレー寄席 "wikilink")』の2本立てとなって放送枠が消滅し、1967年10月以降は放送枠は復活したものの『芸能トピックス』が放送されたため一時中断したが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から『**FNNニュース**』として復活（これに伴い『芸能トピックス』は19:56へ繰上げ）、[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")からフジテレビが[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")・[NET（現：テレビ朝日）に](../Page/テレビ朝日.md "wikilink")1年遅れて、夜のスポットタイムを4分から5分に拡大\[1\]するのを機に、『（クレージーの）待ッテマシタ\!』を終了して毎日放送に移行、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは『**明日の天気**』がスタートした。
+[1967年](../Page/1967年.md "wikilink")4月に日曜20時台が45分時代劇『[ひばり・与一の花と剣](https://ja.wikipedia.org/wiki/ひばり・与一の花と剣 "wikilink")』と15分番組『[リレー寄席](https://ja.wikipedia.org/wiki/リレー寄席 "wikilink")』の2本立てとなって放送枠が消滅し、1967年10月以降は放送枠は復活したものの『芸能トピックス』が放送されたため一時中断したが、[1968年](../Page/1968年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から『**FNNニュース**』として復活（これに伴い『芸能トピックス』は19:56へ繰上げ）、[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")からフジテレビが[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")・[NET（現：テレビ朝日）に](../Page/テレビ朝日.md "wikilink")1年遅れて、夜のスポットタイムを4分から5分に拡大\[1\]するのを機に、『（クレージーの）待ッテマシタ\!』を終了して毎日放送に移行、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは『**明日の天気**』がスタートした。
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")（音声多重放送開始）から[1990年代](../Page/1990年代.md "wikilink")前半には、[英語](../Page/英語.md "wikilink")の[二ヶ国語放送](https://ja.wikipedia.org/wiki/二ヶ国語放送 "wikilink")が実施されていた（ニュース・天気共に）。
 
@@ -241,7 +241,7 @@
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup> 同日<a href="https://ja.wikipedia.org/wiki/フジテレビ系列深夜ニュース枠" title="wikilink">最終ニュースを兼務</a>（詳細は各番組のページを参照）。</li>
+<li><sup>1</sup> 同日<a href="../Page/フジテレビ系列深夜ニュース枠.md" title="wikilink">最終ニュースを兼務</a>（詳細は各番組のページを参照）。</li>
 <li><sup>2</sup> 同日<a href="../Page/フジテレビ系列夕方ニュース枠.md" title="wikilink">夕方のニュースを兼務</a>（詳細は各番組のページを参照）。</li>
 <li><sup>3</sup> 20時前の『<a href="https://ja.wikipedia.org/wiki/FNNニュース" title="wikilink">FNNニュース</a>』を兼務（同番組は稀に他のアナウンサーが担当）。</li>
 </ul>
@@ -259,7 +259,7 @@
 
 平日は主に男性アナウンサーがシフト勤務で担当。例外として『[FNN NEWSCOM](../Page/FNN_NEWSCOM.md "wikilink")』が放送されていた1990年4月から1994年3月までは全曜日にわたって同番組担当の男性アナウンサーが兼務していた。しかし、1994年4月に開始された『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』のニュースキャスター全員フリーだったため、シフト勤務に戻った。
 
-週末は『[FNNニュースレポート23:30](../Page/FNNニュースレポート23:30.md "wikilink")』の担当アナウンサーが固定された1980年4月以降、[最終ニュースを担当する男性アナウンサーが兼務した](https://ja.wikipedia.org/wiki/フジテレビ系列深夜ニュース枠 "wikilink")。当時は報道番組を担当するアナウンサーの人数自体が現在より少なく、一部のアナウンサーは[夕方ニュースも含めた](../Page/フジテレビ系列夕方ニュース枠.md "wikilink")3番組を兼務した。例外として1997年4月以降は『[ニュースJAPAN WEEKEND](../Page/ニュースJAPAN_WEEKEND.md "wikilink")』のキャスターをフリーの[松山香織](../Page/松山香織.md "wikilink")が務めたため、シフト勤務であった。
+週末は『[FNNニュースレポート23:30](../Page/FNNニュースレポート23:30.md "wikilink")』の担当アナウンサーが固定された1980年4月以降、[最終ニュースを担当する男性アナウンサーが兼務した](../Page/フジテレビ系列深夜ニュース枠.md "wikilink")。当時は報道番組を担当するアナウンサーの人数自体が現在より少なく、一部のアナウンサーは[夕方ニュースも含めた](../Page/フジテレビ系列夕方ニュース枠.md "wikilink")3番組を兼務した。例外として1997年4月以降は『[ニュースJAPAN WEEKEND](../Page/ニュースJAPAN_WEEKEND.md "wikilink")』のキャスターをフリーの[松山香織](../Page/松山香織.md "wikilink")が務めたため、シフト勤務であった。
 
 ## ネット局と提供クレジット
 
@@ -367,7 +367,7 @@
 </tr>
 <tr class="even">
 <td><p>EBC <a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送（現：テレビ愛媛）</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EBCニュース" title="wikilink">EBCニュース</a></p></td>
+<td><p><a href="../Page/EBCニュース.md" title="wikilink">EBCニュース</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>KSS <a href="../Page/高知さんさんテレビ.md" title="wikilink">高知さんさんテレビ</a><br />

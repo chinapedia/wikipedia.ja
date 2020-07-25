@@ -11,7 +11,7 @@
 
 [1972年](../Page/1972年.md "wikilink")、[高石ともや](../Page/高石ともや.md "wikilink")らが設立したURCよりファーストアルバム『きのうの思い出に別れをつげるんだもの』を発表する。西岡恭蔵作の「プカプカ」がヒット。また大塚まさじによる「子供たちの朝」（「ピストル魔の少年」こと[永山則夫](../Page/永山則夫.md "wikilink")に捧げられた）、ボブ・ディランの「アイ・シャル・ビー・リリースト」の日本語カバー「男らしいってわかるかい」も話題となった。ロック色が強かったため、「東の[はっぴいえんど](../Page/はっぴいえんど.md "wikilink")、西のザ・ディランII」などと対比される。西岡恭蔵も同年にソロアルバム『ディランにて』でデビューしている。
 
-[友部正人](../Page/友部正人.md "wikilink")、[なぎらけんいち](../Page/なぎら健壱.md "wikilink")、[斉藤哲夫](../Page/斉藤哲夫.md "wikilink")、[三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")（4組とも生まれは関西出身ではない）、[加川良](../Page/加川良.md "wikilink")、西岡恭蔵らとともに高石ともや、[岡林信康](https://ja.wikipedia.org/wiki/岡林信康 "wikilink")、[高田渡](../Page/高田渡.md "wikilink")、[中川五郎](../Page/中川五郎.md "wikilink")らに代わる新しい世代の[関西フォーク](https://ja.wikipedia.org/wiki/関西フォーク "wikilink")の担い手として注目を浴びる。
+[友部正人](../Page/友部正人.md "wikilink")、[なぎらけんいち](../Page/なぎら健壱.md "wikilink")、[斉藤哲夫](../Page/斉藤哲夫.md "wikilink")、[三上寛](https://ja.wikipedia.org/wiki/三上寛 "wikilink")（4組とも生まれは関西出身ではない）、[加川良](../Page/加川良.md "wikilink")、西岡恭蔵らとともに高石ともや、[岡林信康](https://ja.wikipedia.org/wiki/岡林信康 "wikilink")、[高田渡](../Page/高田渡.md "wikilink")、[中川五郎](../Page/中川五郎.md "wikilink")らに代わる新しい世代の[関西フォーク](../Page/関西フォーク.md "wikilink")の担い手として注目を浴びる。
 
 [1973年](../Page/1973年.md "wikilink")、URCよりアコースティックサウンドを強調したセカンドアルバム『SECOND』を発表する。[シンガーズ・スリー](../Page/シンガーズ・スリー.md "wikilink")によるコーラスや[駒沢裕城](../Page/駒沢裕城.md "wikilink")による[ペダルスティール・ギターなど繊細な音作りとなっている](../Page/スティール・ギター.md "wikilink")。
 

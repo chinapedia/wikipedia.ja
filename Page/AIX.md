@@ -7,7 +7,7 @@
 
 AIX は [UNIX](../Page/UNIX.md "wikilink") [System V Release 3](https://ja.wikipedia.org/wiki/UNIX_System_V#SVR3 "wikilink") (SVR3) ベースの [IBM](../Page/IBM.md "wikilink") の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")で、[The Open Group](../Page/The_Open_Group.md "wikilink") の UNIX認証を受けている\[2\]。AIXは、IBM の [RT-PC](https://ja.wikipedia.org/wiki/RT-PC "wikilink")、[RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink")、[pSeries](https://ja.wikipedia.org/wiki/pSeries "wikilink")、[System p](../Page/System_p.md "wikilink")、[Power Systems](https://ja.wikipedia.org/wiki/Power_Systems "wikilink") シリーズの他、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の [Bull](../Page/Bull.md "wikilink") や、[日立製作所](../Page/日立製作所.md "wikilink")の [EP8000](https://ja.wikipedia.org/wiki/EP8000 "wikilink") シリーズやSR16000などでも採用されている。
 
-最新版の AIX 7.2 では、[カーネル](../Page/カーネル.md "wikilink")は [64-bit](https://ja.wikipedia.org/wiki/64ビット "wikilink") で、[POWER](../Page/POWER_\(マイクロプロセッサ\).md "wikilink") 系の [CPU](../Page/CPU.md "wikilink")（[POWER7](https://ja.wikipedia.org/wiki/POWER7 "wikilink")、[POWER8](https://ja.wikipedia.org/wiki/POWER8 "wikilink")）をサポートする\[3\]。
+最新版の AIX 7.2 では、[カーネル](../Page/カーネル.md "wikilink")は [64-bit](../Page/64ビット.md "wikilink") で、[POWER](../Page/POWER_\(マイクロプロセッサ\).md "wikilink") 系の [CPU](../Page/CPU.md "wikilink")（[POWER7](https://ja.wikipedia.org/wiki/POWER7 "wikilink")、[POWER8](https://ja.wikipedia.org/wiki/POWER8 "wikilink")）をサポートする\[3\]。
 
 ## 特徴
 
@@ -31,7 +31,7 @@ AIX は [System V Release 3](https://ja.wikipedia.org/wiki/UNIX_System_V#SVR3 "w
 
 ### 管理ツール
 
-他の [UNIX](../Page/UNIX.md "wikilink") および [UNIX 互換](../Page/Unix系.md "wikilink") OS と比較して特徴的な点として、主要なシステム設定を階層型の管理画面である [SMIT](https://ja.wikipedia.org/wiki/SMIT "wikilink") から行う（[HP-UX](../Page/HP-UX.md "wikilink") の SAM に相当する）。また主要なシステム設定情報は **ODM** という /etc ディレクトリ配下のデータベースに[バイナリ](../Page/バイナリ.md "wikilink")形式で格納される。このためコマンドの知識が少ないユーザーでも操作を行え履歴も残り、システム設定ファイルの誤編集による問題も発生しにくいが、仮にデータベース情報の不整合などが発生した場合は専用の知識が必要である。
+他の [UNIX](../Page/UNIX.md "wikilink") および [UNIX 互換](../Page/Unix系.md "wikilink") OS と比較して特徴的な点として、主要なシステム設定を階層型の管理画面である [SMIT](../Page/SMIT.md "wikilink") から行う（[HP-UX](../Page/HP-UX.md "wikilink") の SAM に相当する）。また主要なシステム設定情報は **ODM** という /etc ディレクトリ配下のデータベースに[バイナリ](../Page/バイナリ.md "wikilink")形式で格納される。このためコマンドの知識が少ないユーザーでも操作を行え履歴も残り、システム設定ファイルの誤編集による問題も発生しにくいが、仮にデータベース情報の不整合などが発生した場合は専用の知識が必要である。
 
 ### 大規模ワークロードサポート
 
@@ -57,7 +57,7 @@ AIX 4.3.3 以降から付属する CD-ROM の AIX Toolbox for Linux Applications
 
 いくつかの異なるバージョンの AIX がかつて存在していたが、不人気なものは消えていった。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に登場した AIX V1 は [IBM RT-PC](../Page/IBM_RT-PC.md "wikilink") で動作した。このバージョンは [UNIX System V](../Page/UNIX_System_V.md "wikilink") Release 3 をベースにしていた。
+[1986年](../Page/1986年.md "wikilink")に登場した AIX V1 は [IBM RT-PC](../Page/IBM_RT-PC.md "wikilink") で動作した。このバージョンは [UNIX System V](../Page/UNIX_System_V.md "wikilink") Release 3 をベースにしていた。
 
 [1989年](../Page/1989年.md "wikilink")、AIX は [RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink") シリーズのワークステーションとサーバ用 OS となった。AIX は開発の過程で 4.2[BSD](../Page/BSD.md "wikilink") や 4.3[BSD](../Page/BSD.md "wikilink") の機能を IBM と INTERACTIVE Systems Corporation がマージした。
 
@@ -104,7 +104,7 @@ AIX 5L 5.3 でのスケーラビリティは以下の通りである。
 
 ## バージョン
 
-  - AIX v1, [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - AIX v1, [1986年](../Page/1986年.md "wikilink")
   - AIX v2, [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
   - AIX v3, [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")
   - AIX v3.1

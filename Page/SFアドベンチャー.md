@@ -3,7 +3,7 @@
 
 『**SFアドベンチャー**』(**SF Adventure**) は、1979年春に[徳間書店](../Page/徳間書店.md "wikilink")から創刊された[SF雑誌である](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。創刊号にはタイトルの脇に「[問題小説](https://ja.wikipedia.org/wiki/問題小説 "wikilink") SPECIAL \[春季号\]」と銘打たれていた。創刊編集長は[荒井修](https://ja.wikipedia.org/wiki/荒井修 "wikilink")。1982年から[菅原善雄](https://ja.wikipedia.org/wiki/菅原善雄 "wikilink")が編集長。三代目編集長は[石井紀男](https://ja.wikipedia.org/wiki/石井紀男 "wikilink")。
 
-掲載作品は、[小松左京](../Page/小松左京.md "wikilink")や[半村良](../Page/半村良.md "wikilink")ら第一線の作家による連載、主軸となった[平井和正](../Page/平井和正.md "wikilink")の『[真幻魔大戦](../Page/真幻魔大戦.md "wikilink")』、『[狼のレクイエム・黄金の少女](../Page/ウルフガイ.md "wikilink")』、『[地球樹の女神](https://ja.wikipedia.org/wiki/地球樹の女神 "wikilink")』など、日本人作家のSF作品を主体としていた。1981年に同時期に創刊した[光文社](../Page/光文社.md "wikilink")のSF雑誌『[SF宝石](../Page/SF宝石.md "wikilink")』が休刊したのち、同誌のSF書評連載「新刊チェック・リスト」を受け継いでいる。
+掲載作品は、[小松左京](../Page/小松左京.md "wikilink")や[半村良](../Page/半村良.md "wikilink")ら第一線の作家による連載、主軸となった[平井和正](../Page/平井和正.md "wikilink")の『[真幻魔大戦](../Page/真幻魔大戦.md "wikilink")』、『[狼のレクイエム・黄金の少女](../Page/ウルフガイ.md "wikilink")』、『[地球樹の女神](../Page/地球樹の女神.md "wikilink")』など、日本人作家のSF作品を主体としていた。1981年に同時期に創刊した[光文社](../Page/光文社.md "wikilink")のSF雑誌『[SF宝石](../Page/SF宝石.md "wikilink")』が休刊したのち、同誌のSF書評連載「新刊チェック・リスト」を受け継いでいる。
 
 [日本SF大賞](../Page/日本SF大賞.md "wikilink")の発表誌でもあった。
 

@@ -66,7 +66,7 @@
 
   - [横田守](../Page/横田守.md "wikilink")
   - [土代昭治](https://ja.wikipedia.org/wiki/土代昭治 "wikilink")
-  - [テリらじ](https://ja.wikipedia.org/wiki/テリらじ "wikilink")
+  - [テリらじ](../Page/テリらじ.md "wikilink")
   - [スタジオライン](../Page/スタジオライン.md "wikilink")
   - [CALIGULA](../Page/CALIGULA.md "wikilink")、[Gash](https://ja.wikipedia.org/wiki/Gash "wikilink") - 姉妹ブランド
 

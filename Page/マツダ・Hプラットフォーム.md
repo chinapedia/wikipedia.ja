@@ -1,7 +1,7 @@
 > この記事は[マツダ・Hプラットフォーム](https://ja.wikipedia.org/wiki/マツダ・Hプラットフォーム)から翻訳されています。
 
 
-**マツダ・Hプラットフォーム**とは、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[FR駆動の大型高級](../Page/二輪駆動.md "wikilink")[自動車](../Page/自動車.md "wikilink")用[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。このプラットフォームを用いる車両の[VINコードは](../Page/車台番号.md "wikilink")、先頭が**H**から始まる。
+**マツダ・Hプラットフォーム**とは、[マツダ](../Page/マツダ.md "wikilink")の[FR駆動の大型高級](../Page/二輪駆動.md "wikilink")[自動車](../Page/自動車.md "wikilink")用[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。このプラットフォームを用いる車両の[VINコードは](../Page/車台番号.md "wikilink")、先頭が**H**から始まる。
 
 マツダの車種には、他にも[VINコードにHを採用した車両が存在するが](../Page/車台番号.md "wikilink")、[スズキより](../Page/スズキ_\(企業\).md "wikilink")[OEM](../Page/OEM.md "wikilink")供給された車両で採用されているコードであり、マツダ開発のプラットフォームではない。
 

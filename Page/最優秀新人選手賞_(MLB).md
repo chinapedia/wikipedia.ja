@@ -252,7 +252,7 @@ P</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッド・ウォーレル" title="wikilink">トッド・ウォーレル</a></p></td>
+<td><p><a href="../Page/トッド・ウォーレル.md" title="wikilink">トッド・ウォーレル</a></p></td>
 <td><p>P</p></td>
 </tr>
 <tr class="even">

@@ -67,7 +67,7 @@
 | -------------------------------------------------------------------------- | -------------------------------------- | ------ |
 | [スタッド・ロワ・ボードゥワン](../Page/ボードゥアン国王競技場.md "wikilink")                        | [ブリュッセル](../Page/ブリュッセル.md "wikilink") | 50,000 |
 | [ヤン・ブレイデル・スタディオン](https://ja.wikipedia.org/wiki/ヤン・ブレイデルスタディオン "wikilink") | [ブルッヘ](../Page/ブルッヘ.md "wikilink")     | 30,000 |
-| [スタッド・ドゥ・スクレッサン](https://ja.wikipedia.org/wiki/スタッド・モーリス・デュフラン "wikilink") | [リエージュ](../Page/リエージュ.md "wikilink")   | 30,000 |
+| [スタッド・ドゥ・スクレッサン](../Page/スタッド・モーリス・デュフラン.md "wikilink")                    | [リエージュ](../Page/リエージュ.md "wikilink")   | 30,000 |
 | [スタッド・デュ・ペイ・ド・シャルルロワ](../Page/スタッド・デュ・ペイ・ド・シャルルロワ.md "wikilink")           | [シャルルロワ](../Page/シャルルロワ.md "wikilink") | 30,000 |
 
 ### オランダ
@@ -176,7 +176,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・モーリス・デュフラン" title="wikilink">スタッド・ドゥ・スクレッサン</a> (18:00)</p></td>
+<td><p><a href="../Page/スタッド・モーリス・デュフラン.md" title="wikilink">スタッド・ドゥ・スクレッサン</a> (18:00)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a><br />
@@ -782,7 +782,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・モーリス・デュフラン" title="wikilink">スタッド・ドゥ・スクレッサン</a> (20:45)</p></td>
+<td><p><a href="../Page/スタッド・モーリス・デュフラン.md" title="wikilink">スタッド・ドゥ・スクレッサン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Norway.svg" title="fig:Flag_of_Norway.svg">Flag_of_Norway.svg</a><br />
@@ -1068,7 +1068,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・モーリス・デュフラン" title="wikilink">スタッド・ドゥ・スクレッサン</a> (20:45)</p></td>
+<td><p><a href="../Page/スタッド・モーリス・デュフラン.md" title="wikilink">スタッド・ドゥ・スクレッサン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Denmark.svg" title="fig:Flag_of_Denmark.svg">Flag_of_Denmark.svg</a><br />

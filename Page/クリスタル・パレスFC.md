@@ -327,7 +327,7 @@
 
   - GK
 
-    [ナイジェル・マーティン](https://ja.wikipedia.org/wiki/ナイジェル・マーティン "wikilink") 1989-1996
+    [ナイジェル・マーティン](../Page/ナイジェル・マーティン.md "wikilink") 1989-1996
 
     [カルロ・ナッシュ](https://ja.wikipedia.org/wiki/カルロ・ナッシュ "wikilink") 1996-1998
 

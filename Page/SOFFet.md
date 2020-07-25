@@ -555,7 +555,7 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/高木聡" title="wikilink">高木聡</a></p></td>
-<td><p>「蒼空バラッド」(出演:<a href="https://ja.wikipedia.org/wiki/米村美咲" title="wikilink">米村美咲</a>)</p></td>
+<td><p>「蒼空バラッド」(出演:<a href="../Page/米村美咲.md" title="wikilink">米村美咲</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/高城明久" title="wikilink">高城明久</a></p></td>

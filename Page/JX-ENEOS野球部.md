@@ -193,7 +193,7 @@
   - [池邉啓二](https://ja.wikipedia.org/wiki/池邉啓二 "wikilink")（外野手） - 選手として在籍。**ミスター社会人**と呼ばれた。
   - [石山建一](../Page/石山建一.md "wikilink")（内野手） - 選手として在籍。現役引退後、[早稲田大学野球部](../Page/早稲田大学野球部.md "wikilink")、[プリンスホテル硬式野球部](../Page/プリンスホテル硬式野球部.md "wikilink")の監督を歴任。
   - [大城基志](https://ja.wikipedia.org/wiki/大城基志 "wikilink")（投手） - 2012年に史上初となる同一年の都市対抗野球と日本選手権でMVPを獲得。
-  - [坂口裕之](https://ja.wikipedia.org/wiki/坂口裕之 "wikilink")（外野手） - 選手・監督として在籍。[バルセロナオリンピック](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピックの野球競技 "wikilink")[日本代表](../Page/1992年バルセロナオリンピックの野球競技・日本代表.md "wikilink")。現在はNHKの春夏の高校野球中継の解説者。
+  - [坂口裕之](https://ja.wikipedia.org/wiki/坂口裕之 "wikilink")（外野手） - 選手・監督として在籍。[バルセロナオリンピック](../Page/1992年バルセロナオリンピックの野球競技.md "wikilink")[日本代表](../Page/1992年バルセロナオリンピックの野球競技・日本代表.md "wikilink")。現在はNHKの春夏の高校野球中継の解説者。
   - [高林孝行](../Page/高林孝行.md "wikilink")（外野手） - 選手として在籍。[アトランタオリンピック](../Page/1996年アトランタオリンピックの野球競技.md "wikilink")[日本代表](../Page/1996年アトランタオリンピックの野球競技・日本代表.md "wikilink")。
   - [徳永耕治](https://ja.wikipedia.org/wiki/徳永耕治 "wikilink")（内野手） - 選手として在籍。バルセロナオリンピック日本代表。
   - [野島正弘](../Page/野島正弘.md "wikilink")（内野手） - 選手として在籍。アトランタオリンピック日本代表。

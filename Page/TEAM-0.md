@@ -5,12 +5,12 @@
 
 ## メンバー
 
-**山崎邦正**（やまさき ほうせい [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）
+**山崎邦正**（やまさき ほうせい [1968年](../Page/1968年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）
 
   - ボケ担当
   - [兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")出身。
 
-**軌保博光**（のりやす ひろみつ [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ）
+**軌保博光**（のりやす ひろみつ [1968年](../Page/1968年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ）
 
   - ツッコミ担当
   - [兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")出身\[1\]。

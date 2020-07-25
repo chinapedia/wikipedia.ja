@@ -352,7 +352,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 19. MY OLYMPIC αは『[Happy Happy FRIDAY](https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY "wikilink")』（金曜）に内包。
 20. MY OLYMPIC αは『水木彩也子のFRIDAY×FRIDAY』（金曜）に内包。
 21. MY OLYMPIC αは『牛嶋俊明 ドリームファクトリー』（金曜）に内包。
-22. MY OLYMPIC αは『[Passion Live〜情熱生放送〜WEEKEND SHUTTLE](https://ja.wikipedia.org/wiki/Passion_Live〜情熱生放送〜WEEKEND_SHUTTLE "wikilink")』（金曜）に内包。
+22. MY OLYMPIC αは『[Passion Live〜情熱生放送〜WEEKEND SHUTTLE](../Page/Passion_Live〜情熱生放送〜WEEKEND_SHUTTLE.md "wikilink")』（金曜）に内包。
 23. MY OLYMPIC αは『Groovy Radio Caravan』（月曜 - 木曜）、『Groovy Radio Caravan〜Friday Edition〜』（金曜）にそれぞれ内包。
 24. MY OLYMPIC αは『[FRIDAY ONLINE-FIVE COLORS RADIO-](https://ja.wikipedia.org/wiki/FRIDAY_ONLINE-FIVE_COLORS_RADIO- "wikilink")』（金曜）に内包。
 25. MY OLYMPIC αは『[Fly-Day Wonder3](https://ja.wikipedia.org/wiki/Fly-Day_Wonder3 "wikilink")』（金曜）に内包。

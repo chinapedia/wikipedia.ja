@@ -20,7 +20,7 @@
 
   - 1994年 - **東京マイカー販売株式会社**の車買取部門としてガリバー1号店安積店をオープン、ガリバーフランチャイズ1号店弘前店をオープン、[福島県](../Page/福島県.md "wikilink")[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")に株式会社ガリバーインターナショナル・コーポレーションを設立。
   - 1996年 - [千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")に東京本社を開設しフランチャイズ本部機能を移転、[商号](../Page/商号.md "wikilink")を**株式会社ガリバーインターナショナル**に変更。
-  - 1998年 - [日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")に[株式](../Page/株式.md "wikilink")を登録。
+  - 1998年 - [日本証券業協会](../Page/日本証券業協会.md "wikilink")に[株式](../Page/株式.md "wikilink")を登録。
   - 2000年 - 本社を[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に移転、[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部に[上場](../Page/上場.md "wikilink")。
   - 2001年 - [ISO 9000](../Page/ISO_9000.md "wikilink")（2000年度版）取得。
   - 2003年 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に指定替え。

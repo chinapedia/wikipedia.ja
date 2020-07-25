@@ -198,7 +198,7 @@
       - ED4 「ポルカ de 鷹の爪」(作詞・作曲・編曲)
   - 『秘密結社鷹の爪MAX』(2013年)
       - ED 「鷹の爪音頭」(作詞･作曲･編曲)
-  - 『[キューティクル探偵因幡](https://ja.wikipedia.org/wiki/キューティクル探偵因幡 "wikilink")』(2013年)
+  - 『[キューティクル探偵因幡](../Page/キューティクル探偵因幡.md "wikilink")』(2013年)
       - ED「プリマ・ステラ」(作詞・作曲･編曲)
   - 『[問題児たちが異世界から来るそうですよ?](https://ja.wikipedia.org/wiki/問題児たちが異世界から来るそうですよ? "wikilink")』(2013年)
       - OP「[Black † White](https://ja.wikipedia.org/wiki/Black_†_White "wikilink")」(作詞・作曲)

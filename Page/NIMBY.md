@@ -111,7 +111,7 @@ NIMBY問題におけるこれらの論点はいずれも程度と主観の問題
   - [国鉄横浜新貨物線](https://ja.wikipedia.org/wiki/東海道貨物線 "wikilink") - 通勤線混雑緩和のために[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")を迂回する貨物専用線が計画されたが（[鶴見](https://ja.wikipedia.org/wiki/鶴見駅 "wikilink")-[東戸塚](https://ja.wikipedia.org/wiki/東戸塚駅 "wikilink")）、恩恵を受けずに騒音のみを被ることが予想された沿線からの反対運動を招き、着工が遅れた。
   - [名古屋新幹線訴訟](https://ja.wikipedia.org/wiki/名古屋新幹線訴訟 "wikilink")
   - [原子力商船むつ](../Page/むつ_\(原子力船\).md "wikilink")
-  - [東京ゴミ戦争](https://ja.wikipedia.org/wiki/東京ゴミ戦争 "wikilink")
+  - [東京ゴミ戦争](../Page/東京ゴミ戦争.md "wikilink")
   - [普天間基地移設問題](https://ja.wikipedia.org/wiki/普天間基地移設問題 "wikilink")
   - [小金井ごみ問題](https://ja.wikipedia.org/wiki/小金井ごみ問題 "wikilink")、[小金井市\#ゴミ処理](https://ja.wikipedia.org/wiki/小金井市#ゴミ処理 "wikilink")、[二枚橋衛生組合](https://ja.wikipedia.org/wiki/二枚橋衛生組合 "wikilink")も参照
   - 検査施設 - [コートジボワール](../Page/コートジボワール.md "wikilink")で[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")検査施設の建設現場を反対派住民が襲撃、破壊した\[11\]。
@@ -150,7 +150,7 @@ NIMBY問題におけるこれらの論点はいずれも程度と主観の問題
   - [Highway revolts](https://ja.wikipedia.org/wiki/w:Highway_revolts "wikilink")
   - [LULU (土地利用)](https://ja.wikipedia.org/wiki/LULU_\(土地利用\) "wikilink")
   - [ラッダイト運動](../Page/ラッダイト運動.md "wikilink")
-  - [東京ゴミ戦争](https://ja.wikipedia.org/wiki/東京ゴミ戦争 "wikilink")
+  - [東京ゴミ戦争](../Page/東京ゴミ戦争.md "wikilink")
   - [Pulp mill conflict between Argentina and Uruguay](https://ja.wikipedia.org/wiki/w:Uruguay_River_pulp_mill_dispute "wikilink")
   - [Smart growth](https://ja.wikipedia.org/wiki/w:Smart_growth "wikilink")
   - [Somebody Else's Problem](https://ja.wikipedia.org/wiki/w:Somebody_Else's_Problem "wikilink")

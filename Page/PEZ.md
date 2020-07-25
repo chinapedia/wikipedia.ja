@@ -53,7 +53,7 @@
   - [スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")
   - スーパーヒーローズ
   - [原始家族フリントストーン](../Page/原始家族フリントストーン.md "wikilink")
-  - [ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")
+  - [ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")
   - [ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")
   - スポーツ
   - [ティーンエイジ・ミュータント・ニンジャ・タートルズ](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink")
@@ -72,7 +72,7 @@
 
   - [U.S. Patent 2620061](https://www.google.com/patents/US2620061) - [1952年](../Page/1952年.md "wikilink")製造
   - [U.S. Patent 2853206](https://www.google.com/patents/US2853206) - [1958年](../Page/1958年.md "wikilink")製造
-  - [U.S. Patent 3410455](https://www.google.com/patents/US3410455) - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")製造
+  - [U.S. Patent 3410455](https://www.google.com/patents/US3410455) - [1968年](../Page/1968年.md "wikilink")製造
   - [U.S. Patent 3432074](https://www.google.com/patents/US3432074) - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")製造
   - [U.S. Patent 3845882](https://www.google.com/patents/US3845882) - [1974年](../Page/1974年.md "wikilink")製造
   - [U.S. Patent 3863804](https://www.google.com/patents/US3863804) - [1975年](../Page/1975年.md "wikilink")製造

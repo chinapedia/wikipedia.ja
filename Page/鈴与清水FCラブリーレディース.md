@@ -5,7 +5,7 @@
 
 ## クラブの概要・歴史
 
-[1967年](../Page/1967年.md "wikilink")、清水市サッカー協会が市内の[江尻小学校](https://ja.wikipedia.org/wiki/静岡市立清水江尻小学校 "wikilink")、[入江小学校](https://ja.wikipedia.org/wiki/静岡市立清水入江小学校 "wikilink")、[庵原小学校の子供による選抜チーム](https://ja.wikipedia.org/wiki/静岡市立清水庵原小学校 "wikilink")「オール清水」が結成される。後に「[清水FC](https://ja.wikipedia.org/wiki/清水FC "wikilink")」となるこのチームは、その後、各年代による選抜チームが作られ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には女子チーム「清水FC女子」が結成された。
+[1967年](../Page/1967年.md "wikilink")、清水市サッカー協会が市内の[江尻小学校](https://ja.wikipedia.org/wiki/静岡市立清水江尻小学校 "wikilink")、[入江小学校](https://ja.wikipedia.org/wiki/静岡市立清水入江小学校 "wikilink")、[庵原小学校の子供による選抜チーム](https://ja.wikipedia.org/wiki/静岡市立清水庵原小学校 "wikilink")「オール清水」が結成される。後に「[清水FC](https://ja.wikipedia.org/wiki/清水FC "wikilink")」となるこのチームは、その後、各年代による選抜チームが作られ、[1986年](../Page/1986年.md "wikilink")には女子チーム「清水FC女子」が結成された。
 
 [1989年](../Page/1989年.md "wikilink")の日本女子サッカーリーグ結成に伴い、それまでの選抜チームから独立したチームに転換することになり、[皇后杯全日本女子サッカー選手権大会](https://ja.wikipedia.org/wiki/皇后杯全日本女子サッカー選手権大会 "wikilink")を7年連続で優勝した[清水第八スポーツクラブの選手を中心とした新チーム](https://ja.wikipedia.org/wiki/清水第八プレアデス "wikilink")「**清水FCレディース**」を結成。地元の物流会社「[鈴与](../Page/鈴与.md "wikilink")」がスポンサーとなった。
 
@@ -73,7 +73,7 @@
       - [山口小百合](https://ja.wikipedia.org/wiki/山口小百合 "wikilink")（[日本女子代表](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")）
   - MF
       - [木岡二葉](https://ja.wikipedia.org/wiki/木岡二葉 "wikilink")（日本女子代表／[JFA役員](../Page/日本サッカー協会.md "wikilink")／女子サッカー[FIFA親善大使](../Page/国際サッカー連盟.md "wikilink") (FIFA Ambassadors for Women's Football) ）
-      - [ナタリー・ゲーリス](https://ja.wikipedia.org/wiki/ナタリー・ゲーリス "wikilink")（[オランダ女子代表](https://ja.wikipedia.org/wiki/サッカーオランダ女子代表 "wikilink")）
+      - [ナタリー・ゲーリス](https://ja.wikipedia.org/wiki/ナタリー・ゲーリス "wikilink")（[オランダ女子代表](../Page/サッカーオランダ女子代表.md "wikilink")）
   - FW
       - [半田悦子](../Page/半田悦子.md "wikilink")（日本女子代表／JFA公認S級コーチ）
       - [周台英](https://ja.wikipedia.org/wiki/周台英 "wikilink")（[チャイニーズタイペイ女子代表](../Page/サッカーチャイニーズタイペイ女子代表.md "wikilink")）

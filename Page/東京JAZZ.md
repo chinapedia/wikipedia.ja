@@ -243,7 +243,7 @@
   - [ロビー・ボトス](https://ja.wikipedia.org/wiki/ロビー・ボトス "wikilink")
   - [ロン・カーター](../Page/ロン・カーター.md "wikilink")
   - [ロイ・アサフ](https://ja.wikipedia.org/wiki/ロイ・アサフ "wikilink")
-  - [サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")
+  - [サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink")
   - [ウーア](https://ja.wikipedia.org/wiki/ウーア "wikilink")
   - [ダイニュース・プラウスカス](https://ja.wikipedia.org/wiki/ダイニュース・プラウスカス "wikilink")
   - [ウーター・ヘメル](../Page/ウーター・ヘメル.md "wikilink")

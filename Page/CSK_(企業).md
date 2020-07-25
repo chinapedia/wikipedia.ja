@@ -21,22 +21,22 @@
 
 ## 歴代社長
 
-| \!氏名 | 在任期間 | 出身                                                                                             |
-| ---- | ---- | ---------------------------------------------------------------------------------------------- |
-| 1    | 大川功  | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1996年](../Page/1996年.md "wikilink") |
-| 2    | 福島吉治 | 1996年 - [2000年](../Page/2000年.md "wikilink")                                                   |
-| 3    | 青園雅紘 | 2000年 - [2003年](../Page/2003年.md "wikilink")                                                   |
-| 4    | 林由修  | 2003年 - [2005年](../Page/2005年.md "wikilink")                                                   |
-| 5    | 広瀬省三 | 2005年 - 2005年                                                                                  |
-| 6    | 福山義人 | 2005年 - [2009年](../Page/2009年.md "wikilink")                                                   |
-| 7    | 中西毅  | 2009年 - [2011年](../Page/2011年.md "wikilink")                                                   |
-|      |      |                                                                                                |
+| \!氏名 | 在任期間 | 出身                                                                          |
+| ---- | ---- | --------------------------------------------------------------------------- |
+| 1    | 大川功  | [1968年](../Page/1968年.md "wikilink") - [1996年](../Page/1996年.md "wikilink") |
+| 2    | 福島吉治 | 1996年 - [2000年](../Page/2000年.md "wikilink")                                |
+| 3    | 青園雅紘 | 2000年 - [2003年](../Page/2003年.md "wikilink")                                |
+| 4    | 林由修  | 2003年 - [2005年](../Page/2005年.md "wikilink")                                |
+| 5    | 広瀬省三 | 2005年 - 2005年                                                               |
+| 6    | 福山義人 | 2005年 - [2009年](../Page/2009年.md "wikilink")                                |
+| 7    | 中西毅  | 2009年 - [2011年](../Page/2011年.md "wikilink")                                |
+|      |      |                                                                             |
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[10月7日](../Page/10月7日.md "wikilink") - 大阪淀屋橋に**コンピューターサービス**株式会社設立。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）[10月7日](../Page/10月7日.md "wikilink") - 大阪淀屋橋に**コンピューターサービス**株式会社設立。
   - [1977年](../Page/1977年.md "wikilink")（昭和52年）[8月](../Page/8月.md "wikilink") - 本社を大阪から東京都新宿区へ移転。
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）[9月](../Page/9月.md "wikilink") - 株式を店頭銘柄として[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")（東京地区）に登録。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）[9月](../Page/9月.md "wikilink") - 株式を店頭銘柄として[日本証券業協会](../Page/日本証券業協会.md "wikilink")（東京地区）に登録。
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）[6月](../Page/6月.md "wikilink") - 東京証券取引所第2部に株式上場。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）8月 - [NASDAQ](../Page/NASDAQ.md "wikilink")に株式を登録。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 株式会社セガ・エンタープライゼス（現 株式会社[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）に資本・経営参加。
@@ -104,7 +104,7 @@
   - 株式会社アスキー（のちの株式会社[メディアリーヴス](../Page/メディアリーヴス.md "wikilink")）- ユニゾン・メディア・パートナーズに譲渡しグループから離脱。のちに株式会社角川ホールディングス（現・[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）が買収し、自身の子会社の[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")に吸収合併され解散。
   - 株式会社シーエスケイ・エレクトロニクス（通称社名・CSKエレクトロニクス、現・株式会社[MAGねっとホールディングス](../Page/MAGねっとホールディングス.md "wikilink")）- かつての亜土電子工業（ADO）。
       - [T-ZONE](https://ja.wikipedia.org/wiki/T-ZONE "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）11月事業停止。
-  - ネクストコム株式会社（東証2部上場、現・[三井情報](https://ja.wikipedia.org/wiki/三井情報 "wikilink")株式会社） - 三井物産との合弁。大元の設立母体であった旧CSKの経営危機後は三井物産が引き継ぎ子会社化、三井グループの[SI中堅で社名](https://ja.wikipedia.org/wiki/システム・インテグレーション "wikilink")・英名略称の由来でもある旧三井情報開発（MKI）を吸収合併（共に上場子会社でもあった）し現社名となる。
+  - ネクストコム株式会社（東証2部上場、現・[三井情報](../Page/三井情報.md "wikilink")株式会社） - 三井物産との合弁。大元の設立母体であった旧CSKの経営危機後は三井物産が引き継ぎ子会社化、三井グループの[SI中堅で社名](https://ja.wikipedia.org/wiki/システム・インテグレーション "wikilink")・英名略称の由来でもある旧三井情報開発（MKI）を吸収合併（共に上場子会社でもあった）し現社名となる。
   - 株式会社[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")（のちの株式会社スパイキー、株式会社クロスナイン）- [サミー](../Page/サミー.md "wikilink")が買収しグループから離脱。のちに[ゲオ](../Page/ゲオ.md "wikilink")が買収し、3度の事業転換を経てゲオに吸収合併され解散。
   - [コスモ証券](https://ja.wikipedia.org/wiki/コスモ証券 "wikilink")株式会社（新・[岩井コスモ証券](../Page/岩井コスモ証券.md "wikilink")株式会社）- 元[大和銀行](../Page/大和銀行.md "wikilink")（現[りそなホールディングス](../Page/りそなホールディングス.md "wikilink")）子会社でかつての[同根](https://ja.wikipedia.org/wiki/野村財閥 "wikilink")。[岩井証券(旧社)によりセカンドバイアウト実施](https://ja.wikipedia.org/wiki/岩井コスモホールディングス "wikilink")、のちに共同持株会社・岩井コスモホールディングスを設立し、[岩井（新社）](../Page/岩井証券.md "wikilink")・コスモ両社がぶら下がる形となった。[2012年](../Page/2012年.md "wikilink")（平成24年）の5月下旬に後者に該当する同社を存続会社として合併して新体制となる\[2\]。
   - 株式会社ISAO - 豊田通商子会社に事業譲渡。

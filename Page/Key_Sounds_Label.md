@@ -128,7 +128,7 @@
 </tr>
 <tr class="odd">
 <td><p>0019</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Love_Song_(riyaのアルバム)" title="wikilink">Love Song</a></p></td>
+<td><p><a href="../Page/Love_Song_(riyaのアルバム).md" title="wikilink">Love Song</a></p></td>
 <td><p>riya</p></td>
 <td><p>2005年8月31日</p></td>
 <td><p>生産終了</p></td>

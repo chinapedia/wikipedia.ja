@@ -49,7 +49,7 @@
         「中学・高校に憧れたプログレッシヴ・ロックを今その時に戻って作ったらどうなるか」「『オリコンチャート1位』『ミリオンヒット』等数字を意識せずに『とにかくコンセプトが面白い』『演奏がテクニカル』というのを楽しんで欲しい」\[7\]「聞き終わった後に残った印象を元に、もう一度振り返ってから各部分を聴き直して確認するという楽しみ方をして欲しい」という思いから33分を超える大作にする必要があった\[8\]。
         レコーディングはLAで行われた。作詞を担当した小室みつ子はLAから送られてきた音源をもとに、不眠で詞を完成させた。また、小室みつ子は本作の楽曲全ての作詞を担当している。
         『I FIRST IMPRESSION』は、2001年（当時）の生活。『II SECOND IMPRESSION』は、「その中にいる自分は昔どこから始めたんだっけ」という遠いところを見るような場面で鳴っている音。そして『III THIRD IMPRESSION』はこれから先の、「希望は見えるが、楽観視できない未来」を表している\[9\]。
-        全楽章のベースとなるメロディを全て即興で一気に制作し、小室によるピアノパートは1テイクで直しも無かった。ただ譜面を書かず、構成を覚えるための反復練習もしなかったので、ライブツアー「[LIVE TOUR Major Turn-Round](https://ja.wikipedia.org/wiki/LIVE_TOUR_Major_Turn-Round "wikilink")」のリハーサルの際には「自分で自分の曲をコピーしている気分だった」と語っている\[10\]。
+        全楽章のベースとなるメロディを全て即興で一気に制作し、小室によるピアノパートは1テイクで直しも無かった。ただ譜面を書かず、構成を覚えるための反復練習もしなかったので、ライブツアー「[LIVE TOUR Major Turn-Round](../Page/LIVE_TOUR_Major_Turn-Round.md "wikilink")」のリハーサルの際には「自分で自分の曲をコピーしている気分だった」と語っている\[10\]。
         録音は小室のピアノを録った後、更にイメージを膨らませながら仮メロディをキーボードで弾いてデータ化し[Pro Toolsに入れて](../Page/Pro_Tools.md "wikilink")、その後生のドラム・ベース・ギターを入れた後、改めて小室のキーボードのパートを録った。ピアノパート以外はPro Toolsでの切り貼り・ノイズによる編集を随所に施した\[11\]。
 4.  **PALE SHELTER**
       - 作詞：小室みつ子　作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")　編曲：小室哲哉
@@ -112,7 +112,7 @@
   - **[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")** - ピアノ、[ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - **[葛城哲哉](../Page/葛城哲哉.md "wikilink")** - ギター、コーラス
   - **[Carmine Rojas](https://ja.wikipedia.org/wiki/:en:Carmine_Rojas "wikilink")** - [ベース](../Page/エレクトリックベース.md "wikilink")
-  - **[サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - **[サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink")** - [ドラムス](../Page/ドラムセット.md "wikilink")
   - **[松尾和博](https://ja.wikipedia.org/wiki/松尾和博 "wikilink")** - ギター（\#6）
   - **[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")** - ベース（\#6）
   - **[古川いち子](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")** - マスタリング

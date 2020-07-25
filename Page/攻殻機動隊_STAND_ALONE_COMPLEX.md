@@ -141,7 +141,7 @@
   - 「lithium flower」
     作詞 - Tim Jensen / 作曲・編曲 - 菅野よう子 / 歌 - Scott Matthew
   - 「I do」
-    作詞・歌 - [Ilaria Graziano](https://ja.wikipedia.org/wiki/イラリア・グラツィアーノ "wikilink") / 作曲・編曲 - 菅野よう子
+    作詞・歌 - [Ilaria Graziano](../Page/イラリア・グラツィアーノ.md "wikilink") / 作曲・編曲 - 菅野よう子
       - 地上波放送時
     ※もともとは「[攻殻機動隊 S.A.C. 2nd GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")」中の挿入曲であった。
 

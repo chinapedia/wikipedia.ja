@@ -39,7 +39,7 @@
       - [4月1日](../Page/4月1日.md "wikilink") - [FM放送開始](../Page/NHK-FM放送.md "wikilink")（**JOKK-FM**）。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - カラー放送開始。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[6月](../Page/6月.md "wikilink") - 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[11月](../Page/11月.md "wikilink") - 総合テレビジョン[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[11月](../Page/11月.md "wikilink") - 総合テレビジョン[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")開始。
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 教育テレビジョン音声多重放送開始。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [8月27日](../Page/8月27日.md "wikilink") - 岡山市（現・北区）駅元町の[リットシティビル](../Page/リットシティビル.md "wikilink")\[5\]南棟（低層棟）1〜3階へ放送会館を移転（3代目局舎）。リットシティビルの放送会館部分のフロアはNHKが区分所有（移転契約時に岡山市から買取）。新放送会館からの放送は[8月22日](../Page/8月22日.md "wikilink")から開始。同時にアナログ・地上デジタル対応統合送出マスター運用開始\[6\]。

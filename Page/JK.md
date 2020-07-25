@@ -19,7 +19,7 @@
   - [ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink") (John Fitzgerald Kennedy, JFK) - [1963年](../Page/1963年.md "wikilink")に暗殺された元アメリカ合衆国大統領。
   - [北野順一](../Page/北野順一.md "wikilink") (**J**unichi **K**itano) - ラジオパーソナリティ。
   - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink") - お笑いコンビ。「JK」名で、CDを発売。
-  - [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink") - 毎週金曜朝より、[J-WAVE](../Page/J-WAVE.md "wikilink")で「[〜**JK** RADIO〜TOKYO UNITED](https://ja.wikipedia.org/wiki/〜JK_RADIO〜TOKYO_UNITED "wikilink")」のナビゲーターを務めている。
+  - [ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink") - 毎週金曜朝より、[J-WAVE](../Page/J-WAVE.md "wikilink")で「[〜**JK** RADIO〜TOKYO UNITED](../Page/〜JK_RADIO〜TOKYO_UNITED.md "wikilink")」のナビゲーターを務めている。
 
 ## 符号
 

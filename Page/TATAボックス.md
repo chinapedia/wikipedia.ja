@@ -19,7 +19,7 @@ TATAボックスは[真正細菌](https://ja.wikipedia.org/wiki/真正細菌 "wi
 
 ## 関連項目
 
-  - [転写開始前複合体](https://ja.wikipedia.org/wiki/転写開始前複合体 "wikilink")
+  - [転写開始前複合体](../Page/転写開始前複合体.md "wikilink")
 
 [Category:遺伝子](https://ja.wikipedia.org/wiki/Category:遺伝子 "wikilink")
 

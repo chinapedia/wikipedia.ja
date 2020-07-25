@@ -38,7 +38,7 @@
   - [1964年](../Page/1964年.md "wikilink")（昭和39年） - 釧路放送会館落成。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年） - 総合テレビジョンカラー放送開始。[FM実用化試験放送開始](../Page/NHK-FM放送.md "wikilink")（本放送開始は全国一斉に合わせた）。
   - [1977年](../Page/1977年.md "wikilink")（昭和52年） - FM[ステレオ放送](../Page/ステレオ放送.md "wikilink")開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年） - 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
   - [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[10月1日](../Page/10月1日.md "wikilink") - [地上デジタルテレビジョン放送開始](../Page/地上デジタルテレビ放送.md "wikilink")。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。翌日午前0時までに完全停波。
 
@@ -243,7 +243,7 @@
   - [夕べのひととき](https://ja.wikipedia.org/wiki/夕べのひと時 "wikilink")（ - 1988年3月）（FM　月 - 金18:00 - 18:50）
   - PGFMスタジオ
   - [FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")（FM　土15:05 - 18:00）
-  - [まるごとニュース北海道](https://ja.wikipedia.org/wiki/まるごとニュース北海道 "wikilink")釧路（2008年4月 - 2010年3月）（総合　月 - 金18:45 - 18:50、18:55 - 18:58）
+  - [まるごとニュース北海道](../Page/まるごとニュース北海道.md "wikilink")釧路（2008年4月 - 2010年3月）（総合　月 - 金18:45 - 18:50、18:55 - 18:58）
   - [ほっからんど釧路](../Page/ほっからんど北海道.md "wikilink")（1991年4月 - 2010年3月）（総合　月 - 金11:50 - 12:00）
   - [ネットワークニュース北海道](https://ja.wikipedia.org/wiki/ネットワークニュース北海道 "wikilink")釧路（総合、平日 18:45 - 18:50、18:53 - 18:56）
 

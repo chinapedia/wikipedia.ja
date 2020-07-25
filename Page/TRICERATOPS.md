@@ -237,7 +237,7 @@
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_CAPTAIN" title="wikilink">THE CAPTAIN</a></strong></p></td>
 <td><p>VICL-35764</p></td>
 <td></td>
@@ -516,7 +516,7 @@ NFCD-27341（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a><br />
-<a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong>連載・おとといミーティング<br />
 TRICERATOPS “12-Bar” BOOK＋CD</strong></p></td>
 <td><p>-</p></td>
@@ -842,7 +842,7 @@ VIBL-534</p></td>
   - 2010年11月11日〜12月12日 - WE ARE ONE TOUR 2010
   - 2011年04月11日〜04月12日 - DINOSAUR ROCK 'N ROLL 5 WE ARE ONE -CERTIFICATE-
       -
-        w/[BARBARS](https://ja.wikipedia.org/wiki/BARBARS "wikilink") / TRICERATOPS / [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") / [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") / 菅原卓郎 / 藤井フミヤ
+        w/[BARBARS](https://ja.wikipedia.org/wiki/BARBARS "wikilink") / TRICERATOPS / [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink") / [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") / 菅原卓郎 / 藤井フミヤ
   - 2011年07月15日〜08月21日 - TRICERATOPS SUMMER TOUR "MOD SURFER"
   - 2011年11月03日〜11月19日 - TRICERATOPS WINTER 2011
   - 2012年04月12日 - 連載・おとといミーティング TRICERATOPS "12-Bar" vol.8 大阪
@@ -933,7 +933,7 @@ VIBL-534</p></td>
   - 2011年05月05日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2011
   - 2011年05月27日 - QUATTRO MIRAGE VOL.2 〜MORE ACTION, MORE HOPE.〜
   - 2011年08月06日 - ROCK IN JAPAN FESTIVAL 2011
-  - 2011年10月09日 - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") 家族 Fes. 2011
+  - 2011年10月09日 - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink") 家族 Fes. 2011
   - 2011年12月29日 - COUNTDOWN JAPAN 11/12
   - 2011年12月30日 - FM802 ROCK FESTIVAL [RADIO CRAZY](https://ja.wikipedia.org/wiki/RADIO_CRAZY "wikilink") 2011
   - 2012年03月24日 - 卒フェス2012 〜サクラサクトキトビラアク〜

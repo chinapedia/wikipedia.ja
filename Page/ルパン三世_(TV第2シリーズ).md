@@ -53,7 +53,7 @@
 
 前シリーズでキャラクターデザイン、作画監督を担当した大塚康生は、『TV第2シリーズ』の企画内容を知り、素直には喜べなかったという。彼も、劇場映画作品への参加を東京ムービー社長から誘われ、[シンエイ動画](../Page/シンエイ動画.md "wikilink")からテレコムへと宮崎同様に移籍していたが、劇場版第1作『ルパン三世 ルパンVS複製人間』では製作がすでに進行していたため、監修名義でほとんど何もしなかった。宮崎駿が監督を務めた第2作『ルパン三世 カリオストロの城』には作画監督として参加している。TV版には、原画の下請けを担当するテレコムの、新人アニメーターの教育係として参加している。大塚は、第72話「スケートボード殺人事件」にて、人手不足を補うため久々に作画に参加、前シリーズ風のルパンたちを描く。このテレコム作画回は新作スタッフによってすべて本シリーズの顔に修正された。その後もテレコムが作画を担当した第82話「とっつぁん人質救出作戦」、第84話「復讐はルパンにまかせろ」、第99話「荒野に散ったコンバットマグナム」、第105話「怪奇鬼首島に女が消えた」まで本シリーズのデザインに基づいた修正が施された。だが、その後もキャラクターデザインを尊重しない作画が続いたため、北原は修正を放棄してしまう。第143話「マイアミ銀行襲撃記念日」からは修正がなされず（『TV第1シリーズ』や『ルパン三世 カリオストロの城』に近い作画）、前述の「ルパンの顔が違う」と局側から一度は納品拒否される事態が生じたのはこのためである。
 
-なお、このシリーズから、[2001年](../Page/2001年.md "wikilink")放送のTVスペシャル第13作『[ルパン三世 アルカトラズコネクション](../Page/ルパン三世_アルカトラズコネクション.md "wikilink")』まではメインスタッフ、キャストがほぼ変わらずに推移する。キャストは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に山田の死去によりルパン三世の声優が[栗田貫一](../Page/栗田貫一.md "wikilink")に変更されたのを除き上記の通り[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで固定されていたが、スタッフでは文芸の**飯岡順一（1971〜）**、撮影の**[長谷川肇](https://ja.wikipedia.org/wiki/長谷川肇_\(撮影監督\) "wikilink")**、**小林健一**および[トムス・フォト](../Page/トムス・フォト.md "wikilink")スタッフ（1977〜2000）、音楽の**大野雄二（1977〜）**、音楽監督の**鈴木清司（1977〜2013）**、録音の**加藤敏（1977〜2010）**、編集の**鶴渕充寿**と**高橋（鶴渕）和子（1977〜2001）**、音響効果の**糸川幸良（1977〜2006）**、以上の面々は以後24年に渡り、劇場映画、TVシリーズ、TVスペシャルに携わることになった。[2019年](../Page/2019年.md "wikilink")現在も声優の[小林清志](../Page/小林清志.md "wikilink")、スタッフでは[飯岡順一](https://ja.wikipedia.org/wiki/飯岡順一 "wikilink")（コミック版のシナリオ編集を含む）、[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")は現役で登板し続けている。
+なお、このシリーズから、[2001年](../Page/2001年.md "wikilink")放送のTVスペシャル第13作『[ルパン三世 アルカトラズコネクション](../Page/ルパン三世_アルカトラズコネクション.md "wikilink")』まではメインスタッフ、キャストがほぼ変わらずに推移する。キャストは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に山田の死去によりルパン三世の声優が[栗田貫一](../Page/栗田貫一.md "wikilink")に変更されたのを除き上記の通り[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで固定されていたが、スタッフでは文芸の**飯岡順一（1971〜）**、撮影の**[長谷川肇](https://ja.wikipedia.org/wiki/長谷川肇_\(撮影監督\) "wikilink")**、**小林健一**および[トムス・フォト](../Page/トムス・フォト.md "wikilink")スタッフ（1977〜2000）、音楽の**大野雄二（1977〜）**、音楽監督の**鈴木清司（1977〜2013）**、録音の**加藤敏（1977〜2010）**、編集の**鶴渕充寿**と**高橋（鶴渕）和子（1977〜2001）**、音響効果の**糸川幸良（1977〜2006）**、以上の面々は以後24年に渡り、劇場映画、TVシリーズ、TVスペシャルに携わることになった。[2019年](../Page/2019年.md "wikilink")現在も声優の[小林清志](../Page/小林清志.md "wikilink")、スタッフでは[飯岡順一](../Page/飯岡順一.md "wikilink")（コミック版のシナリオ編集を含む）、[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")は現役で登板し続けている。
 
 ### 評価・影響など
 
@@ -94,17 +94,17 @@
   - 監修 - [鈴木清順](../Page/鈴木清順.md "wikilink")（第1話-第51話 ), [野村孝](https://ja.wikipedia.org/wiki/野村孝 "wikilink") (第52話-第103話), [宮崎 駿](../Page/宮崎駿.md "wikilink") (第104話-第155話)
   - プロデューサー - 高橋靖二（NTV）/高橋美光（TMS）
   - シリーズ構成 - [大和屋竺](../Page/大和屋竺.md "wikilink")（第53話 - ）
-  - 文芸担当 - [飯岡順一](https://ja.wikipedia.org/wiki/飯岡順一 "wikilink")（第53話 - ）
+  - 文芸担当 - [飯岡順一](../Page/飯岡順一.md "wikilink")（第53話 - ）
   - キャラクターデザイン - [北原健雄](../Page/北原健雄.md "wikilink")
   - 作画監修 - [大塚康生](../Page/大塚康生.md "wikilink")（テレコム回の一部参加）
   - レイアウト - [葛岡博](https://ja.wikipedia.org/wiki/葛岡博 "wikilink")
   - 美術監督 - 龍池昇、清水一利（第2話）
   - 美術設定 - 曽我元、橋本三郎、[山本二三](../Page/山本二三.md "wikilink")、松浦裕子
   - 撮影監督 - 小林健一、[長谷川肇](https://ja.wikipedia.org/wiki/長谷川肇_\(撮影監督\) "wikilink")
-  - 録音監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 選曲 - [鈴木清司](../Page/鈴木清司.md "wikilink")
   - 制作担当 - [堀越とおる](../Page/堀越徹.md "wikilink")（NTV）、仙石鎮彦（TMS）
-  - 作画 - [児玉兼嗣](../Page/こだま兼嗣.md "wikilink")、[一川孝久](https://ja.wikipedia.org/wiki/一川孝久 "wikilink")、[米川功真](https://ja.wikipedia.org/wiki/米川功真 "wikilink")、[友永和秀](../Page/友永和秀.md "wikilink")、[伊東誠](https://ja.wikipedia.org/wiki/伊東誠_\(作画監督\) "wikilink")、[丹内司](https://ja.wikipedia.org/wiki/丹内司 "wikilink")、[辻初樹](../Page/辻初樹.md "wikilink")、[小林一幸](https://ja.wikipedia.org/wiki/小林一幸 "wikilink")、[青木悠三](../Page/青木悠三.md "wikilink")、[木下ゆうき](../Page/木下ゆうき.md "wikilink")、[正延宏三](https://ja.wikipedia.org/wiki/正延宏三 "wikilink")、[坂巻貞彦](https://ja.wikipedia.org/wiki/坂巻貞彦 "wikilink")、[椛島義夫](../Page/椛島義夫.md "wikilink")、[大武正枝](https://ja.wikipedia.org/wiki/大武正枝 "wikilink")、[富沢信雄](https://ja.wikipedia.org/wiki/富沢信雄 "wikilink")、[田中敦子](../Page/田中敦子_\(アニメーター\).md "wikilink")、[青木康直](../Page/青木康直.md "wikilink")、[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")、[片山一良](../Page/片山一良_\(アニメ監督\).md "wikilink") 他
+  - 作画 - [児玉兼嗣](../Page/こだま兼嗣.md "wikilink")、[一川孝久](https://ja.wikipedia.org/wiki/一川孝久 "wikilink")、[米川功真](https://ja.wikipedia.org/wiki/米川功真 "wikilink")、[友永和秀](../Page/友永和秀.md "wikilink")、[伊東誠](https://ja.wikipedia.org/wiki/伊東誠_\(作画監督\) "wikilink")、[丹内司](../Page/丹内司.md "wikilink")、[辻初樹](../Page/辻初樹.md "wikilink")、[小林一幸](https://ja.wikipedia.org/wiki/小林一幸 "wikilink")、[青木悠三](../Page/青木悠三.md "wikilink")、[木下ゆうき](../Page/木下ゆうき.md "wikilink")、[正延宏三](https://ja.wikipedia.org/wiki/正延宏三 "wikilink")、[坂巻貞彦](https://ja.wikipedia.org/wiki/坂巻貞彦 "wikilink")、[椛島義夫](../Page/椛島義夫.md "wikilink")、[大武正枝](https://ja.wikipedia.org/wiki/大武正枝 "wikilink")、[富沢信雄](../Page/富沢信雄.md "wikilink")、[田中敦子](../Page/田中敦子_\(アニメーター\).md "wikilink")、[青木康直](../Page/青木康直.md "wikilink")、[小原秀一](https://ja.wikipedia.org/wiki/小原秀一 "wikilink")、[片山一良](../Page/片山一良_\(アニメ監督\).md "wikilink") 他
   - 色指定 - 関根栄子、山田由美子、工藤秀子、岡嶋国敏、伊藤純子、大野雅世、山本雅世、山名公枝、遠藤登志子、池内道子、[近藤浩子](https://ja.wikipedia.org/wiki/近藤浩子 "wikilink")
   - 背景 - [男鹿和雄](../Page/男鹿和雄.md "wikilink")、[窪田忠雄](../Page/窪田忠雄.md "wikilink") 他
   - 撮影 - 長谷川肇、[杉村重郎](https://ja.wikipedia.org/wiki/杉村重郎 "wikilink") 他
@@ -423,7 +423,7 @@
 <td><p>第24話</p></td>
 <td><p>3月20日</p></td>
 <td><p>怪盗ねずみ小僧現わる</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮田雪" title="wikilink">宮田雪</a></p></td>
+<td><p><a href="../Page/宮田雪.md" title="wikilink">宮田雪</a></p></td>
 <td><p>宮本清司</p></td>
 <td><p>北原健雄<br />
 児玉兼嗣</p></td>
@@ -575,7 +575,7 @@
 <td><p>7月10日</p></td>
 <td><p>ミサイルジャック作戦</p></td>
 <td><p>毛利蘭</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三家本泰美" title="wikilink">三家本泰美</a></p></td>
+<td><p><a href="../Page/三家本泰美.md" title="wikilink">三家本泰美</a></p></td>
 <td><p>三家本泰美</p></td>
 <td></td>
 </tr>
@@ -1139,7 +1139,7 @@
 <td><p>大和屋竺</p></td>
 <td><p>吉田しげつぐ</p></td>
 <td><p>北原健雄<br />
-<a href="https://ja.wikipedia.org/wiki/丹内司" title="wikilink">丹内司</a></p></td>
+<a href="../Page/丹内司.md" title="wikilink">丹内司</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

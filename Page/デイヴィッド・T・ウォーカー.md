@@ -27,7 +27,7 @@
 
 ### アルバム
 
-  - SIDEWALK（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
+  - SIDEWALK（[1968年](../Page/1968年.md "wikilink")）
   - GOING UP\!（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
   - PLUM HAPPY（[1970年](../Page/1970年.md "wikilink")）
   - DAVID T.WALKER（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）

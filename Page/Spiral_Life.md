@@ -6,7 +6,7 @@
 ## メンバー
 
   - **[車谷浩司](../Page/車谷浩司.md "wikilink")**（くるまたに こうじ [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月29日](../Page/8月29日.md "wikilink") - 、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身）
-  - **[石田小吉](../Page/石田ショーキチ.md "wikilink")**（いしだ しょうきち [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - 、[静岡県](../Page/静岡県.md "wikilink")出身）
+  - **[石田小吉](../Page/石田ショーキチ.md "wikilink")**（いしだ しょうきち [1968年](../Page/1968年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - 、[静岡県](../Page/静岡県.md "wikilink")出身）
 
 ## 来歴
 
@@ -983,7 +983,7 @@ UVBA-5001</p></td>
 <td><p>Polystar</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong>CARAMELBOX SOUNDBOOK OPENINGS～演劇集団キャラメルボックス・オープニング曲集～</strong></p></td>
 <td><p>MTCA-1017</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

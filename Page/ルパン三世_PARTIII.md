@@ -59,14 +59,14 @@
 
   - 原作 - モンキー・パンチ
   - 製作 - [藤岡豊](../Page/藤岡豊.md "wikilink")（東京ムービー・ノンクレジット）
-  - プロデューサー - [松元理人](https://ja.wikipedia.org/wiki/松元理人 "wikilink")（東京ムービー新社）、佐野寿七（[YTV](../Page/讀賣テレビ放送.md "wikilink")・ノンクレジット）
-  - シリーズ構成 - [飯岡順一](https://ja.wikipedia.org/wiki/飯岡順一 "wikilink")、小野田博之
+  - プロデューサー - [松元理人](../Page/松元理人.md "wikilink")（東京ムービー新社）、佐野寿七（[YTV](../Page/讀賣テレビ放送.md "wikilink")・ノンクレジット）
+  - シリーズ構成 - [飯岡順一](../Page/飯岡順一.md "wikilink")、小野田博之
   - 音楽 - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
       - 演奏 - スーパー・セクシャル・トランスポート
   - 美術監督 - 石垣努
   - 撮影監督 - [長谷川肇](https://ja.wikipedia.org/wiki/長谷川肇_\(撮影監督\) "wikilink")
   - 音楽監督 - [鈴木清司](../Page/鈴木清司.md "wikilink")
-  - 録音監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - キャラクターデザイン・作画監修 - [青木悠三](../Page/青木悠三.md "wikilink")
   - 選曲 - [合田豊](https://ja.wikipedia.org/wiki/合田豊 "wikilink")
   - 音響効果 - 宮田音響
@@ -113,7 +113,7 @@
 <td><p>第2話</p></td>
 <td><p>3月10日</p></td>
 <td><p>大いなる罠を暴け</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高階航" title="wikilink">高階航</a></p></td>
+<td><p><a href="../Page/高階航.md" title="wikilink">高階航</a></p></td>
 <td><p><a href="../Page/こだま兼嗣.md" title="wikilink">こだま兼嗣</a></p></td>
 <td><p><a href="../Page/小川博司_(アニメーター).md" title="wikilink">小川博司</a></p></td>
 <td></td>
@@ -132,7 +132,7 @@
 <td><p>3月24日</p></td>
 <td><p>テレパシーは愛のシグナル</p></td>
 <td><p>高階航</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鍋島修" title="wikilink">鍋島修</a></p></td>
+<td><p><a href="../Page/鍋島修.md" title="wikilink">鍋島修</a></p></td>
 <td><p>松原京子</p></td>
 <td></td>
 </tr>
@@ -236,7 +236,7 @@
 <td><p>11月3日</p></td>
 <td><p>殺しが静かにやってくる</p></td>
 <td><p><a href="../Page/大川俊道.md" title="wikilink">大川俊道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀垣一" title="wikilink">亀垣一</a></p></td>
+<td><p><a href="../Page/亀垣一.md" title="wikilink">亀垣一</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -590,7 +590,7 @@
 
 ## 補足事項
 
-  - 放送開始は「パート3」に合わせて、番組改編では異例となる[3月3日](../Page/3月3日.md "wikilink")だった。これはプロデューサーの[松元理人](https://ja.wikipedia.org/wiki/松元理人 "wikilink")によると、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")秋に制作が決まった時点では、1984年4月から放送される予定だったが、諸事情により83年12月に放送開始が3月に繰り上がることが決まり、演出陣はシナリオを持ち帰り、正月返上でコンテを切るなど、突貫工事での制作を迫られることとなったという\[8\]。放送開始前に、子供の声で「3月3日は[耳の日](https://ja.wikipedia.org/wiki/耳の日 "wikilink")…（[絵描き歌](https://ja.wikipedia.org/wiki/絵描き歌 "wikilink")風に耳から順番にルパンの顔が描かれていき）…あ\!ルパンだ\!\!」と叫ばれる内容の[番組宣伝](../Page/番組宣伝.md "wikilink")CMが製作された。
+  - 放送開始は「パート3」に合わせて、番組改編では異例となる[3月3日](../Page/3月3日.md "wikilink")だった。これはプロデューサーの[松元理人](../Page/松元理人.md "wikilink")によると、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")秋に制作が決まった時点では、1984年4月から放送される予定だったが、諸事情により83年12月に放送開始が3月に繰り上がることが決まり、演出陣はシナリオを持ち帰り、正月返上でコンテを切るなど、突貫工事での制作を迫られることとなったという\[8\]。放送開始前に、子供の声で「3月3日は[耳の日](https://ja.wikipedia.org/wiki/耳の日 "wikilink")…（[絵描き歌](https://ja.wikipedia.org/wiki/絵描き歌 "wikilink")風に耳から順番にルパンの顔が描かれていき）…あ\!ルパンだ\!\!」と叫ばれる内容の[番組宣伝](../Page/番組宣伝.md "wikilink")CMが製作された。
   - 第35話「ターゲットは白銀の果てに」からOP映像が変更されている。前期は青木のデザインを基調とした作画による登場キャラクターの紹介に重点を置いた映像を用いていたが、後期では本編同様ギャグタッチの強い作画・演出による映像となり、主題歌の歌詞も表示されないようになった。なお、後年制作されたHDリマスター版は第27話からOPが変更されている。
 
 <!-- end list -->

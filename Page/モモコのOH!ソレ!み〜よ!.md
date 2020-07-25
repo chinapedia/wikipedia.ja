@@ -104,7 +104,7 @@
 #### 準レギュラー・ゲスト扱い
 
   - [阿藤快](../Page/阿藤快.md "wikilink")
-  - [有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
+  - [有坂来瞳](../Page/有坂来瞳.md "wikilink")
   - [彦摩呂](../Page/彦摩呂.md "wikilink")
   - [テンダラー](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")（[白川悟実](https://ja.wikipedia.org/wiki/白川悟実 "wikilink")・[浜本広晃](https://ja.wikipedia.org/wiki/浜本広晃 "wikilink")）
   - [海原やすよ・ともこ](../Page/海原やすよ・ともこ.md "wikilink")
@@ -160,7 +160,7 @@
   - 2006年10月 - 12月：[TRIPPER](https://ja.wikipedia.org/wiki/TRIPPER "wikilink")「キラキラ」
   - 2007年7月 - 9月：[PeachJam](https://ja.wikipedia.org/wiki/PeachJam "wikilink")「一生分の愛を、君に。」
   - 2008年4月 - 6月：[Sleeper](https://ja.wikipedia.org/wiki/Sleeper "wikilink")「Life Cast」
-  - 2008年7月 - 9月：[YAK.](https://ja.wikipedia.org/wiki/YAK. "wikilink")「ヘーゼルナッツ」
+  - 2008年7月 - 9月：[YAK.](../Page/YAK..md "wikilink")「ヘーゼルナッツ」
   - 2008年10月 - 12月：[Sista Five](../Page/Sista_Five.md "wikilink")「言葉に出来ない思いがあるから」
   - 2009年1月 - 3月：[funnySkash](https://ja.wikipedia.org/wiki/funnySkash "wikilink")「雲の流れ」
   - 2009年4月 - 6月：[ラディカルズ](https://ja.wikipedia.org/wiki/ラディカルズ "wikilink")「GENARATION」

@@ -86,7 +86,7 @@
   - 1話から赤い[ベスト](../Page/ベスト.md "wikilink")に[デニム](../Page/デニム.md "wikilink")生地の青色の[半ズボン](../Page/半ズボン.md "wikilink")・[草履](../Page/草履.md "wikilink")を履いており、これがデフォルトの服装となっている。
   - ドラム島・[アラバスタ王国](../Page/アラバスタ王国.md "wikilink")ではそれぞれ環境に合わせて上着を羽織っていた。
   - 空島では、リストバンド・[腕輪を身に着けていた](../Page/ブレスレット.md "wikilink")。
-  - [デービーバックファイトでは](https://ja.wikipedia.org/wiki/ONE_PIECEの用語一覧#デービーバックファイト "wikilink")、巨大な[アフロの](../Page/アフロヘアー.md "wikilink")[カツラ](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")・赤い[グローブ](../Page/グローブ.md "wikilink")・赤い半ズボンに替え、胸には青緑色の[髑髏](../Page/髑髏.md "wikilink")の[ペイント](https://ja.wikipedia.org/wiki/ペイント "wikilink")をしていた。
+  - [デービーバックファイトでは](https://ja.wikipedia.org/wiki/ONE_PIECEの用語一覧#デービーバックファイト "wikilink")、巨大な[アフロの](../Page/アフロヘアー.md "wikilink")[カツラ](../Page/かつら_\(装身具\).md "wikilink")・赤い[グローブ](../Page/グローブ.md "wikilink")・赤い半ズボンに替え、胸には青緑色の[髑髏](../Page/髑髏.md "wikilink")の[ペイント](https://ja.wikipedia.org/wiki/ペイント "wikilink")をしていた。
   - 海列車で、青色の半ズボンから黒色の半ズボンに着替える。
   - スリラーバークでは、オレンジ色のベストと赤い半ズボンを着用。スリラーバークの戦闘後、ガラスのバンド（キャプテン・ジョンのトレジャーマーク）を左腕に身につける。
   - シャボンディ諸島では、青いベストを着用。ズボンの色は赤だが、アニメでは黒になっている。

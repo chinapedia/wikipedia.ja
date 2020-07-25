@@ -100,14 +100,14 @@
 <td><p>2</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/USM_JAPAN" title="wikilink">USM JAPAN</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a> + <a href="../Page/Blu-ray_Disc.md" title="wikilink">BD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a> + <a href="../Page/Blu-ray_Disc.md" title="wikilink">BD</a></p></td>
 <td><p>UPCY-9908</p></td>
 <td><p>-</p></td>
 <td><p>リイシュー限定版。東芝EMI版と同一音源。<br />
 付属のBlu-ray Discには『BE MY BABY』『romantic extra』と同一内容の映像が収録されている。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>UPCY-7579</p></td>
 <td><p>-</p></td>
 <td><p>リイシュー通常版。東芝EMI版と同一音源。</p></td>

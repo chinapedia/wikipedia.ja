@@ -29,7 +29,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
   - [1963年](../Page/1963年.md "wikilink")（昭和38年） - 東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田和泉町](../Page/神田和泉町.md "wikilink")に本社を移転
   - 1984年（昭和59年） - 黒部工場体育館で創業50年記念式典挙行。ジミー・カーター元米国大統領はじめ国内外から1200人の来賓が出席\[2\]
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年） - [ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")で農牧業開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - [インドネシア](../Page/インドネシア.md "wikilink")にアルミ建材初の海外一貫生産工場稼働。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年） - [インドネシア](../Page/インドネシア.md "wikilink")にアルミ建材初の海外一貫生産工場稼働。
   - [1994年](../Page/1994年.md "wikilink")（平成6年） - 商号を吉田工業株式会社から「**ワイケイケイ株式会社**」に変更。
   - [2003年](../Page/2003年.md "wikilink")（平成15年） - 建材製造事業本部がYKK AP株式会社に統合し、YKKグループ建材事業の完全一体化。
   - [2007年](../Page/2007年.md "wikilink") 9月中間期の連結最終損益が123億9000万円の赤字,欧州委員会の声明によると、メーカー同士で価格引き上げ、最低価格の固定、顧客の配分などを決めていたという。
@@ -91,7 +91,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
   - [YKKアワー キックボクシング中継](../Page/YKKアワー_キックボクシング中継.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 途中より。
   - [ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")（TBS） - 開始当初は一社提供番組であり、『YKKファミリーアワー クイズ100人に聞きました』というタイトルだった。
-  - [筑紫哲也NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")（TBS）
+  - [筑紫哲也NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")（TBS）
   - [日本テレビ火曜8時枠時代劇](../Page/日本テレビ火曜8時枠時代劇.md "wikilink")
   - [ニュース・パレード](../Page/ニュース・パレード.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - YKK Sound Galley AZ - （[J-WAVE](../Page/J-WAVE.md "wikilink"), DJ:[加藤和彦](../Page/加藤和彦.md "wikilink")）

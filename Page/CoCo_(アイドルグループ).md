@@ -72,7 +72,7 @@
 <td><p>1990年1月24日</p></td>
 <td><p>4位</p></td>
 <td><p>作詞: 及川眠子<br />
-作曲: <a href="https://ja.wikipedia.org/wiki/岩田雅之" title="wikilink">岩田雅之</a><br />
+作曲: <a href="../Page/岩田雅之.md" title="wikilink">岩田雅之</a><br />
 編曲: <a href="../Page/有賀啓雄.md" title="wikilink">有賀啓雄</a></p></td>
 <td><p>自己最大セールス作品<br />
 <a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>『<a href="../Page/歌のトップテン.md" title="wikilink">歌のトップテン</a>』にもランクイン<br />

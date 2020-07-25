@@ -538,7 +538,7 @@
 <!-- end list -->
 
   -
-    ○[ポール・ロンドン](../Page/ポール・ロンドン.md "wikilink")＆[ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")(c)（w / [アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")） vs [アイドル・スティーブンス](https://ja.wikipedia.org/wiki/アーロン・スティーブンス "wikilink")＆[K.C.ジェームス](https://ja.wikipedia.org/wiki/カート・セラーズ "wikilink")（w / [ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")）●
+    ○[ポール・ロンドン](../Page/ポール・ロンドン.md "wikilink")＆[ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")(c)（w / [アシュリー](../Page/アシュリー・マッサーロ.md "wikilink")） vs [アイドル・スティーブンス](https://ja.wikipedia.org/wiki/アーロン・スティーブンス "wikilink")＆[K.C.ジェームス](https://ja.wikipedia.org/wiki/カート・セラーズ "wikilink")（w / [ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")）●
 
 <!-- end list -->
 
@@ -838,7 +838,7 @@
 <!-- end list -->
 
   -
-    ●[ネヴィル](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")(c) vs [エンツォ・アモーレ](https://ja.wikipedia.org/wiki/エリック・アーント "wikilink")○
+    ●[ネヴィル](../Page/ベンジャミン・サッタリー.md "wikilink")(c) vs [エンツォ・アモーレ](https://ja.wikipedia.org/wiki/エリック・アーント "wikilink")○
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[IBM RT-PC](https://ja.wikipedia.org/wiki/IBM_RT-PC)から翻訳されています。
 
 
-**IBM RT**は[ISAバスと](../Page/Industry_Standard_Architecture.md "wikilink")[IBM 801からの派生品である](../Page/IBM_801.md "wikilink")[ROMP](../Page/ROMP.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を使った[コンピュータ](../Page/コンピュータ.md "wikilink")システムである。このシステムは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、**RT PC**(*RISC Technology Personal Computer*)として最初に登場し、**[AIX](../Page/AIX.md "wikilink")** 1.x, 2.x または**AOS**(*Academic Operating System*)か Pick operating system が動作した。一般に間違って*PC RT*と覚えている人が多いので注意。後にIBMは名前を単純化した。このマシンはあまり成功せず、全ての機種が[1991年](../Page/1991年.md "wikilink")に値下げされた。しかし開発は拍車がかかり、後に[RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink")と[POWERのシリーズに引き継がれ](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")、後の[PowerPC](../Page/PowerPC.md "wikilink")へと繋がっていくのである。
+**IBM RT**は[ISAバスと](../Page/Industry_Standard_Architecture.md "wikilink")[IBM 801からの派生品である](../Page/IBM_801.md "wikilink")[ROMP](../Page/ROMP.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を使った[コンピュータ](../Page/コンピュータ.md "wikilink")システムである。このシステムは[1986年](../Page/1986年.md "wikilink")、**RT PC**(*RISC Technology Personal Computer*)として最初に登場し、**[AIX](../Page/AIX.md "wikilink")** 1.x, 2.x または**AOS**(*Academic Operating System*)か Pick operating system が動作した。一般に間違って*PC RT*と覚えている人が多いので注意。後にIBMは名前を単純化した。このマシンはあまり成功せず、全ての機種が[1991年](../Page/1991年.md "wikilink")に値下げされた。しかし開発は拍車がかかり、後に[RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink")と[POWERのシリーズに引き継がれ](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")、後の[PowerPC](../Page/PowerPC.md "wikilink")へと繋がっていくのである。
 
 ## ハードウェア
 

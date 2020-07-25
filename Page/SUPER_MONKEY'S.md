@@ -62,7 +62,7 @@
 <!-- end list -->
 
   -
-    デビュー時からメインボーカルを担当。デビュー前、アクターズの仲間と一緒に出場した[琉球放送](../Page/琉球放送.md "wikilink")のローカル番組「HOT NIGHT沖縄アイランド」内で行われた「ちびっ子カラオケ大会」（1989年8月1日O.A）で[ゆうゆの](../Page/岩井由紀子.md "wikilink")『-3℃』を堂々披露し優勝を果たす\[5\]。その後は学校へ行くのも惜しんで大好きな歌とダンスに没頭、スクールでの行事優先としその節約のために食べ物以外では水ばかり飲んでいた。自分からはあまり前に出ないが反面負けず嫌いでもある。[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")、[ポーラ・アブドゥル](https://ja.wikipedia.org/wiki/ポーラ・アブドゥル "wikilink")に強く影響を受けており、当時語っていた夢は「ダンサブルな歌手」\[6\]。
+    デビュー時からメインボーカルを担当。デビュー前、アクターズの仲間と一緒に出場した[琉球放送](../Page/琉球放送.md "wikilink")のローカル番組「HOT NIGHT沖縄アイランド」内で行われた「ちびっ子カラオケ大会」（1989年8月1日O.A）で[ゆうゆの](../Page/岩井由紀子.md "wikilink")『-3℃』を堂々披露し優勝を果たす\[5\]。その後は学校へ行くのも惜しんで大好きな歌とダンスに没頭、スクールでの行事優先としその節約のために食べ物以外では水ばかり飲んでいた。自分からはあまり前に出ないが反面負けず嫌いでもある。[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")、[ポーラ・アブドゥル](../Page/ポーラ・アブドゥル.md "wikilink")に強く影響を受けており、当時語っていた夢は「ダンサブルな歌手」\[6\]。
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@
 <strong>「ORIGINAL TRACKS VOL.1」</strong></p>
 <hr />
 <p>Best Album <strong></strong><br />
-<strong>「<a href="https://ja.wikipedia.org/wiki/181920" title="wikilink">181920</a>」</strong></p>
+<strong>「<a href="../Page/181920.md" title="wikilink">181920</a>」</strong></p>
 <hr />
 <p>Best Album <strong></strong><br />
 <strong>「Finally」</strong></p></td>
@@ -451,7 +451,7 @@ VHS、LDと同日リリース。</p></td>
 <tr class="even">
 <td><p>安室奈美恵</p></td>
 <td><p>1998年1月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/181920" title="wikilink">181920</a></strong></p></td>
+<td><p><strong><a href="../Page/181920.md" title="wikilink">181920</a></strong></p></td>
 <td><p>AVCD-11624</p></td>
 <td><p>1位</p></td>
 <td><p>ソロ転身及び、avex移籍後初となるソロワーク第一弾の集大成ともいえるベスト・アルバム。<br />
@@ -769,7 +769,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>8月14日</p></td>
 <td><p><em>SUPER MONKEY'S4 ミニライブ</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンライズもとみや" title="wikilink">サンライズもとみや</a>[18]</p></td>
+<td><p><a href="../Page/サンライズもとみや.md" title="wikilink">サンライズもとみや</a>[18]</p></td>
 <td></td>
 </tr>
 <tr class="odd">

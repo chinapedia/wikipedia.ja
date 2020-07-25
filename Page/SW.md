@@ -28,7 +28,7 @@
   - コード
       - [スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
       - [ナミビア航空](../Page/ナミビア航空.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
-      - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内の[空港施設利用料](https://ja.wikipedia.org/wiki/空港施設利用料 "wikilink")。詳細は[サーチャージ (運賃)参照](https://ja.wikipedia.org/wiki/サーチャージ_\(運賃\) "wikilink")。
+      - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内の[空港施設利用料](https://ja.wikipedia.org/wiki/空港施設利用料 "wikilink")。詳細は[サーチャージ (運賃)参照](../Page/サーチャージ_\(運賃\).md "wikilink")。
   - 軍事
       - [アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")[戦略航空団](https://ja.wikipedia.org/wiki/戦略航空団 "wikilink") (Strategic Wing)
       - [サイドワインダーミサイル](../Page/サイドワインダー_\(ミサイル\).md "wikilink") (Sidewinder)

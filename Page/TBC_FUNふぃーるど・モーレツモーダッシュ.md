@@ -1,7 +1,7 @@
 > この記事は[TBC FUNふぃーるど・モーレツモーダッシュ](https://ja.wikipedia.org/wiki/TBC_FUNふぃーるど・モーレツモーダッシュ)から翻訳されています。
 
 
-**TBC FUNふぃーるど・モーレツモーダッシュ**（ティービーシー ファンふぃーるど モーレツモーダッシュ）とは、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")までの月曜日 - 金曜日23:15-23:30に[東北放送](../Page/東北放送.md "wikilink") (TBCラジオ) で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。番組内容そのものは、2008年[4月5日](../Page/4月5日.md "wikilink") - [6月28日](../Page/6月28日.md "wikilink")に毎週土曜日22:30-23:00に放送されていた**[ハロー\!プロジェクト メロン記念日の“ムラタジオ”](https://ja.wikipedia.org/wiki/ハロー!プロジェクト_メロン記念日の“ムラタジオ” "wikilink")**に引き継がれた。
+**TBC FUNふぃーるど・モーレツモーダッシュ**（ティービーシー ファンふぃーるど モーレツモーダッシュ）とは、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")までの月曜日 - 金曜日23:15-23:30に[東北放送](../Page/東北放送.md "wikilink") (TBCラジオ) で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。番組内容そのものは、2008年[4月5日](../Page/4月5日.md "wikilink") - [6月28日](../Page/6月28日.md "wikilink")に毎週土曜日22:30-23:00に放送されていた**[ハロー\!プロジェクト メロン記念日の“ムラタジオ”](../Page/ハロー!プロジェクト_メロン記念日の“ムラタジオ”.md "wikilink")**に引き継がれた。
 
 ## 概要
 

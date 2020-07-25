@@ -48,13 +48,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td><p><a href="../Page/石井和子.md" title="wikilink">石井和子</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
 <td><p><a href="../Page/絵門ゆう子.md" title="wikilink">池田裕子</a></p></td>
 <td></td>

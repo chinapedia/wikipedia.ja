@@ -136,7 +136,7 @@
       - [Custom Shop](https://ja.wikipedia.org/wiki/フェンダー・カスタム・ショップ "wikilink") Precison Bass（Built by [Dennis Galuszka](https://ja.wikipedia.org/wiki/フェンダー・カスタム・ショップ#現職スタッフ "wikilink")）
       - American Deluxe Precision Bass
   - **アンプ**
-      - [Ampeg](https://ja.wikipedia.org/wiki/アンペグ "wikilink") SVT-4PRO／TC Electronic RH750＋Fender TB-2000（アンプヘッド）
+      - [Ampeg](../Page/アンペグ.md "wikilink") SVT-4PRO／TC Electronic RH750＋Fender TB-2000（アンプヘッド）
       - Ampeg SVT-810E／Fender 610 Pro Cabinet（キャビネット）
   - **エフェクター**
       - [BOSS](../Page/ボス_\(企業\).md "wikilink") LS-2（ラインセレクター）

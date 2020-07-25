@@ -102,7 +102,7 @@
   - 監督 - [木村真一郎](../Page/木村真一郎.md "wikilink")
   - シリーズ構成 - [水上清資](../Page/水上清資.md "wikilink")
   - キャラクターデザイン・総作画監督 - [平田雄三](../Page/平田雄三.md "wikilink")
-  - メカニックデザイン - [森木靖泰](https://ja.wikipedia.org/wiki/森木靖泰 "wikilink")
+  - メカニックデザイン - [森木靖泰](../Page/森木靖泰.md "wikilink")
   - アクションディレクター - 椛島洋介
   - キーアニメーター - [金子ひらく](../Page/金子ひらく.md "wikilink")
   - 美術監督 - [吉原俊一郎](https://ja.wikipedia.org/wiki/吉原俊一郎 "wikilink")

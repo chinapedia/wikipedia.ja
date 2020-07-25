@@ -5,7 +5,7 @@
 
 ## 概要
 
-[東京証券取引所](../Page/東京証券取引所.md "wikilink")の一部に上場していたが、[2006年](../Page/2006年.md "wikilink")（平成18年）[9月1日](../Page/9月1日.md "wikilink")、ホーマック（現・[DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")）・ダイキ（現・[DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink")）と経営統合し、[共同持株会社DCM](../Page/持株会社.md "wikilink") Japanホールディングス（現・[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）の傘下となった。
+[東京証券取引所](../Page/東京証券取引所.md "wikilink")の一部に上場していたが、[2006年](../Page/2006年.md "wikilink")（平成18年）[9月1日](../Page/9月1日.md "wikilink")、ホーマック（現・[DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")）・ダイキ（現・[DCMダイキ](../Page/DCMダイキ.md "wikilink")）と経営統合し、[共同持株会社DCM](../Page/持株会社.md "wikilink") Japanホールディングス（現・[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）の傘下となった。
 
 一時期は[カー用品店](https://ja.wikipedia.org/wiki/カー用品店 "wikilink")「[イエローハット](../Page/イエローハット.md "wikilink")」の[フランチャイジーとして](../Page/フランチャイズ.md "wikilink")、カー用品店をチェーン展開したが、撤退した。
 
@@ -41,7 +41,7 @@
   - [2014年](../Page/2014年.md "wikilink")（平成26年）[10月1日](../Page/10月1日.md "wikilink") - 株式会社[エディオン](../Page/エディオン.md "wikilink")がホームセンター事業である[ホームエキスポ](../Page/ホームエキスポ.md "wikilink")を分社化の後、全株式を譲り受け完全子会社化\[1\]。
   - [2015年](../Page/2015年.md "wikilink")（平成27年）[3月1日](../Page/3月1日.md "wikilink") - 「**DCMカーマ株式会社**」に商号を変更。また、「**カーマホームセンター**」「**カーマ21**」「**カーマプロ**」の3つの店舗ブランドをそれぞれ「**DCMカーマ**」「**DCMカーマ21**」「**DCMカーマプロ**」に変更。同日、子会社のホームエキスポを吸収合併\[2\]。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）[3月17日](../Page/3月17日.md "wikilink") - [ユニーグループ・ホールディングス](https://ja.wikipedia.org/wiki/ユニーグループ・ホールディングス "wikilink")（現・[ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）傘下の「[ユーホーム](https://ja.wikipedia.org/wiki/ユーホーム "wikilink")」が撤退することに伴い、11店舗のうち8店舗（矢作店、阿久比店、安城店、稲沢店、各務原店、大和郡山店、桶狭間店、嬉野店）の事業を買収\[3\]\[4\]。
-      - ただし最終的に、大和郡山店についてはDCMカーマではなく[DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink")が営業することとなった\[5\]。
+      - ただし最終的に、大和郡山店についてはDCMカーマではなく[DCMダイキ](../Page/DCMダイキ.md "wikilink")が営業することとなった\[5\]。
 
 ## 展開する店舗
 
@@ -56,7 +56,7 @@
   - [DCMホールディングス](../Page/DCMホールディングス.md "wikilink")株式会社
   - [DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")株式会社
       - 株式会社[ホーマックニコット](https://ja.wikipedia.org/wiki/ホーマックニコット "wikilink")
-  - [DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink")株式会社
+  - [DCMダイキ](../Page/DCMダイキ.md "wikilink")株式会社
       - 株式会社[ホームセンターサンコー](../Page/ホームセンターサンコー.md "wikilink")
   - DCMアール
 

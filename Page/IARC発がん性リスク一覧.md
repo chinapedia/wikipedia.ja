@@ -164,7 +164,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/B型肝炎ウイルス" title="wikilink">B型肝炎ウイルス</a>の慢性感染 (Hepatitis B virus, chronic infection with)</p></td>
+<td><p><a href="../Page/B型肝炎ウイルス.md" title="wikilink">B型肝炎ウイルス</a>の慢性感染 (Hepatitis B virus, chronic infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -319,7 +319,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビルハルツ住血吸虫" title="wikilink">ビルハルツ住血吸虫</a>への感染 (Schistosoma haematobium, infection with)</p></td>
+<td><p><a href="../Page/ビルハルツ住血吸虫.md" title="wikilink">ビルハルツ住血吸虫</a>への感染 (Schistosoma haematobium, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2891,7 +2891,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/D型肝炎ウイルス" title="wikilink">D型肝炎ウイルス</a>感染 (Hepatitis D virus)</p></td>
+<td><p><a href="../Page/D型肝炎ウイルス.md" title="wikilink">D型肝炎ウイルス</a>感染 (Hepatitis D virus)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3791,7 +3791,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マンソン住血吸虫" title="wikilink">マンソン住血吸虫</a>感染 (Schistosoma mansoni (infection with))</p></td>
+<td><p><a href="../Page/マンソン住血吸虫.md" title="wikilink">マンソン住血吸虫</a>感染 (Schistosoma mansoni (infection with))</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>

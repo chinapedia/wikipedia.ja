@@ -1095,7 +1095,7 @@ TEAM長岡</p></td>
   - [生田斗真](../Page/生田斗真.md "wikilink")
   - [石井一久](../Page/石井一久.md "wikilink")
   - [石塚英彦](../Page/石塚英彦.md "wikilink")
-  - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - [井筒和幸](../Page/井筒和幸.md "wikilink")
   - [江川卓](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")
   - [大泉洋](../Page/大泉洋.md "wikilink")
   - [おすぎ](../Page/おすぎ.md "wikilink")
@@ -1309,7 +1309,7 @@ TEAM長岡</p></td>
   - アシスタントディレクター：横山健一、佐藤宏太郎、樋口絵里子、宮内敦史
   - ディレクター：長沼昭悟、亀田剛、石川のりひさ、大谷卓、太田実、柳瀬由紀子
   - AP：増谷秀行
-  - 総合演出：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")
+  - 総合演出：[田中経一](../Page/田中経一.md "wikilink")
   - プロデューサー：[坪井貴史](../Page/坪井貴史.md "wikilink")
   - プロデューサー・演出：[板谷栄司](../Page/板谷栄司.md "wikilink")
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")

@@ -252,7 +252,7 @@ SLPS-00341</p></td>
 <!-- end list -->
 
   - アイレム・アーケードクラシックス版
-    [1996年](../Page/1996年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[アイマックスが](https://ja.wikipedia.org/wiki/I'MAX "wikilink")『[ジッピーレース](../Page/ジッピーレース.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）、『[10ヤードファイト](https://ja.wikipedia.org/wiki/10ヤードファイト "wikilink")』（1983年）をカップリングした『アイレム・アーケードクラシックス』としてアーケード版をほぼ完全移植で収録し、セガサターン版とPlayStation版が発売された。
+    [1996年](../Page/1996年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[アイマックスが](https://ja.wikipedia.org/wiki/I'MAX "wikilink")『[ジッピーレース](../Page/ジッピーレース.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）、『[10ヤードファイト](../Page/10ヤードファイト.md "wikilink")』（1983年）をカップリングした『アイレム・アーケードクラシックス』としてアーケード版をほぼ完全移植で収録し、セガサターン版とPlayStation版が発売された。
     PlayStation版は2010年10月27日から2011年8月11日まで[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信された。
 
 ## スタッフ

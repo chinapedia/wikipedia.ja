@@ -19,7 +19,7 @@
 
 この球場の[屋根](../Page/屋根.md "wikilink")は、[テフロン](https://ja.wikipedia.org/wiki/テフロン "wikilink")加工された[ガラス繊維](../Page/ガラス繊維.md "wikilink")で出来た340トンの屋根を空気圧で押し上げる方式を採用している。この方式が採用されるのは、他の方式に比べ工期、費用とも約3分の1で済ませられるからである。
 
-[1981年](../Page/1981年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")や[1982年](../Page/1982年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")、多量の雪が屋根の上に積もったため、屋根が破損し萎んでしまった。この時は、まだシーズンオフだったが、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")にも同じ事故が発生し、予定されていた野球の試合が中止になってしまった。また、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")には強風で屋根が破損し、試合が一時中断している。
+[1981年](../Page/1981年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")や[1982年](../Page/1982年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")、多量の雪が屋根の上に積もったため、屋根が破損し萎んでしまった。この時は、まだシーズンオフだったが、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")にも同じ事故が発生し、予定されていた野球の試合が中止になってしまった。また、[1986年](../Page/1986年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")には強風で屋根が破損し、試合が一時中断している。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月12日](../Page/12月12日.md "wikilink")には猛吹雪で屋根の一部が崩壊、[NFL](../Page/NFL.md "wikilink")のバイキングスのホームゲーム2試合が場所を変更して開催された\[4\]\[5\]。
 

@@ -89,7 +89,7 @@
 <tr class="even">
 <td><p>1995年7月9日</p></td>
 <td><p>眼鏡屋</p></td>
-<td><p>赤縁のメガネ → <a href="https://ja.wikipedia.org/wiki/ウルトラセブン" title="wikilink">ウルトラセブン</a> <a href="../Page/コンタクトレンズ.md" title="wikilink">コンタクト</a> → コンパクト</p>
+<td><p>赤縁のメガネ → <a href="../Page/ウルトラセブン.md" title="wikilink">ウルトラセブン</a> <a href="../Page/コンタクトレンズ.md" title="wikilink">コンタクト</a> → コンパクト</p>
 <p>ハード (コンタクト) → ハードロック</p>
 <p>今田に 「勉強しといてや」と言う → 受験生と先生の禁断の恋の寸劇</p>
 <p>「<strong>メガネ屋でメガネも買わんとミニコントやってるほうがおかしいわ！</strong>」</p></td>
@@ -289,7 +289,7 @@
   - 宇多田ヒカルはMr. BATERのコントが気に入っているらしく、2007年8月12日のフジテレビ系「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」の歌収録の合間に「今日パーティー行かなあかんねん」と「どんどっとっと」を披露したそうである。
   - [KOJI-1200のシングル](../Page/今田耕司.md "wikilink")「ナウ・ロマンティック」アナログ盤では冒頭のインディアンネタで同曲を歌い「いつ売れんねん\!」とBATERが叫ぶくだりが曲前に追加されている。
   - 鮮魚店の回で今田が「[初鰹](https://ja.wikipedia.org/wiki/初鰹 "wikilink")」と間違えて持ってきたのは「（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")当時の）[小学二年生](../Page/小学二年生.md "wikilink")」8月号である。
-  - 「[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")」の第一訓「天然パーマに悪い奴はいない」に、Mr. BATERに酷似した借金取り兼[ノーパンしゃぶしゃぶ](https://ja.wikipedia.org/wiki/ノーパンしゃぶしゃぶ "wikilink")天国の社長が登場する。
+  - 「[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")」の第一訓「天然パーマに悪い奴はいない」に、Mr. BATERに酷似した借金取り兼[ノーパンしゃぶしゃぶ](../Page/ノーパンしゃぶしゃぶ.md "wikilink")天国の社長が登場する。
 
 ## キャスト
 

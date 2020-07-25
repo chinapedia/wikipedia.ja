@@ -1031,7 +1031,7 @@
 
 本誌からのメディアミックスについては「[ALMIGHTY×10](../Page/ALMIGHTY×10.md "wikilink")」を[ドラマCD化したり](../Page/ラジオドラマ.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月号から6月号にかけてモデルの[岡本玲](https://ja.wikipedia.org/wiki/岡本玲 "wikilink")を題材にとったタイアップ（セミドキュメンタリー）漫画を掲載したり、「さくら前線」が本誌公式サイトでネット小説化（後に書籍化）した実績がある。
 
-しかし、テレビアニメ化・テレビドラマ化・テレビゲーム化作品は存在しない。そういった点では母体誌の『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』がタイアップやメディアミックスを積極的に行っていることや、もうひとつの母体誌の『[Sho-Comi](../Page/少女コミック.md "wikilink")』が『[快感♥フレーズ](../Page/快感・フレーズ.md "wikilink")』アニメ終了後も『[あずみ](../Page/あずみ.md "wikilink")』が映画化された際に主演の[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")を題材にとったタイアップ（セミドキュメンタリー）漫画を掲載したり、[青木琴美による](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")2作品のメディアミックスを行ったり連載作のCDドラマ化やテレビゲーム化を積極的に行っている事とは対照的だった。
+しかし、テレビアニメ化・テレビドラマ化・テレビゲーム化作品は存在しない。そういった点では母体誌の『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』がタイアップやメディアミックスを積極的に行っていることや、もうひとつの母体誌の『[Sho-Comi](../Page/少女コミック.md "wikilink")』が『[快感♥フレーズ](../Page/快感・フレーズ.md "wikilink")』アニメ終了後も『[あずみ](../Page/あずみ.md "wikilink")』が映画化された際に主演の[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")を題材にとったタイアップ（セミドキュメンタリー）漫画を掲載したり、[青木琴美による](../Page/青木琴美_\(漫画家\).md "wikilink")2作品のメディアミックスを行ったり連載作のCDドラマ化やテレビゲーム化を積極的に行っている事とは対照的だった。
 
 ## イベント
 

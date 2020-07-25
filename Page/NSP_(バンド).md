@@ -659,7 +659,7 @@
 </tr>
 <tr class="odd">
 <td><p>28th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
 <td><p><strong>シェイキンLADY</strong></p></td>
 <td><p>シェイキンLADY</p></td>
 <td><p><a href="../Page/天野滋.md" title="wikilink">天野音彦</a></p></td>
@@ -722,7 +722,7 @@
 | 14th | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")   | **瞬**               | 55位  |                     |
 | 15th | [1984年](../Page/1984年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")                      | **冬の時代**            | 91位  |                     |
 | 16th | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")   | **水と太陽**            | \-   |                     |
-| 17th | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")   | **APOCALYPSE**      | \-   | 中村脱退後、新メンバーによるアルバム。 |
+| 17th | [1986年](../Page/1986年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | **APOCALYPSE**      | \-   | 中村脱退後、新メンバーによるアルバム。 |
 | 18th | [2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")                        | **Radio days**      | 152位 | 19年ぶりのオリジナルアルバム     |
 
 #### ライブアルバム
@@ -891,7 +891,7 @@
 
   - [ニューミュージック](../Page/ニューミュージック.md "wikilink")
   - [岩手県出身の人物一覧](../Page/岩手県出身の人物一覧.md "wikilink")
-  - [Melody](../Page/Melody_\(アイドルグループ\).md "wikilink")「[Melody BEST](https://ja.wikipedia.org/wiki/Melody_BEST "wikilink")」
+  - [Melody](../Page/Melody_\(アイドルグループ\).md "wikilink")「[Melody BEST](../Page/Melody_BEST.md "wikilink")」
 
 ## 外部リンク
 

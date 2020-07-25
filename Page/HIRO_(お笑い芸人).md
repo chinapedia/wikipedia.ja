@@ -1,7 +1,7 @@
 > この記事は[HIRO \(お笑い芸人\)](https://ja.wikipedia.org/wiki/HIRO_\(お笑い芸人\))から翻訳されています。
 
 
-**HIRO**（ひろ、[1977年](../Page/1977年.md "wikilink")（昭和52年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。お笑いトリオ・[安田大サーカス](../Page/安田大サーカス.md "wikilink")の[ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。[中村部屋](../Page/中村部屋.md "wikilink")（現:東関部屋）所属の元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。本名、**廣瀬 康幸**（ひろせ やすゆき）。
+**HIRO**（ひろ、[1977年](../Page/1977年.md "wikilink")（昭和52年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。お笑いトリオ・[安田大サーカス](../Page/安田大サーカス.md "wikilink")の[ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。[中村部屋](../Page/中村部屋.md "wikilink")（現:東関部屋）所属の元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。本名、**廣瀬 康幸**（ひろせ やすゆき）。
 
 [和歌山県](../Page/和歌山県.md "wikilink")[和歌山市](../Page/和歌山市.md "wikilink")出身。[松竹芸能](../Page/松竹芸能.md "wikilink")所属。ニックネームは「HIROくん」。大相撲時代の四股名は**和歌桜**（わかざくら）、最高位は[序二段](../Page/序二段.md "wikilink")163枚目。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、[星座](../Page/星座.md "wikilink")おうし座。
 
@@ -21,7 +21,7 @@
 
 ### テレビ
 
-  - [トミカヒーロー レスキューフォース](https://ja.wikipedia.org/wiki/トミカヒーロー_レスキューフォース "wikilink")（2008年 - 2009年、[テレビ愛知](../Page/テレビ愛知.md "wikilink")）- 3大幹部シーカ（声）役
+  - [トミカヒーロー レスキューフォース](../Page/トミカヒーロー_レスキューフォース.md "wikilink")（2008年 - 2009年、[テレビ愛知](../Page/テレビ愛知.md "wikilink")）- 3大幹部シーカ（声）役
   - [シルシルミシル](https://ja.wikipedia.org/wiki/シルシルミシル "wikilink")（食べ物関連の検証企画に出演 ）
   - [フィッシング倶楽部](https://ja.wikipedia.org/wiki/フィッシング倶楽部 "wikilink")（2010年4月 -、[テレ玉など](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
   - [ウンナンのラフな感じで。](https://ja.wikipedia.org/wiki/ウンナンのラフな感じで。 "wikilink")（幕下力士役でVTR出演 ）

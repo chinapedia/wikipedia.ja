@@ -62,7 +62,7 @@
   - 企画 - [永田芳男](https://ja.wikipedia.org/wiki/永田芳男 "wikilink")、[宮内正喜](https://ja.wikipedia.org/wiki/宮内正喜 "wikilink")
   - 撮影 - [藤石修](../Page/藤石修.md "wikilink")
   - 美術監督 - [梅田正則](https://ja.wikipedia.org/wiki/梅田正則 "wikilink")
-  - 編集 - [田口拓也](https://ja.wikipedia.org/wiki/田口拓也 "wikilink")
+  - 編集 - [田口拓也](../Page/田口拓也.md "wikilink")
   - 照明 - [加瀬弘行](https://ja.wikipedia.org/wiki/加瀬弘行 "wikilink")
   - 録音 - [芦原邦雄](https://ja.wikipedia.org/wiki/芦原邦雄 "wikilink")
   - エクゼクティブ・プロデューサー - [亀山千広](../Page/亀山千広.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）

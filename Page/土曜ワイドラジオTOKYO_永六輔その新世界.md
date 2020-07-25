@@ -289,7 +289,7 @@
 <!-- end list -->
 
   -
-    1985年4月6日～[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink") 9:00-13:00
+    1985年4月6日～[1986年](../Page/1986年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") 9:00-13:00
     1986年[4月12日](../Page/4月12日.md "wikilink")～1988年4月9日 9:00-11:00
 
 ### 第5代

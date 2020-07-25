@@ -23,7 +23,7 @@
 
 ### 最初の中継
 
-MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")で行われた「['95プロ野球日韓親善スーパーゲーム](../Page/日韓プロ野球スーパーゲーム.md "wikilink")」第3戦で、開局記念特別番組として午後1時から試合終了まで生中継した。これはサンテレビからのネット供給による放送で、MXテレビ、サンテレビ（制作局）、[KBS京都の](../Page/京都放送.md "wikilink")3局ネットで放送された（KBS京都は競馬中継のため変則時間帯を適用）。この日は日曜日だったため、関東地区の他の[独立UHF放送局](https://ja.wikipedia.org/wiki/独立UHF放送局 "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")、テレ玉、チバテレビ、[群馬テレビ](../Page/群馬テレビ.md "wikilink")）は[中央競馬ワイド中継](../Page/中央競馬ワイド中継.md "wikilink")を放送する関係でネットしなかった。
+MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")で行われた「['95プロ野球日韓親善スーパーゲーム](../Page/日韓プロ野球スーパーゲーム.md "wikilink")」第3戦で、開局記念特別番組として午後1時から試合終了まで生中継した。これはサンテレビからのネット供給による放送で、MXテレビ、サンテレビ（制作局）、[KBS京都の](../Page/京都放送.md "wikilink")3局ネットで放送された（KBS京都は競馬中継のため変則時間帯を適用）。この日は日曜日だったため、関東地区の他の[独立UHF放送局](https://ja.wikipedia.org/wiki/独立UHF放送局 "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")、テレ玉、チバテレビ、[群馬テレビ](../Page/群馬テレビ.md "wikilink")）は[中央競馬ワイド中継](../Page/中央競馬ワイド中継.md "wikilink")を放送する関係でネットしなかった。
 
 なお、開局当時のTOKYO MXはスポンサーが極めて少なく、ほとんど[CMなしで放送していた](../Page/コマーシャルメッセージ.md "wikilink")（ただし、[東京新聞](../Page/東京新聞.md "wikilink")や[伊藤園](../Page/伊藤園.md "wikilink")「充実野菜」などのCMが番組の合間に流されていた）。
 
@@ -32,7 +32,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 ### 番組開始前の前史
 
   - **[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")** [11月1日](../Page/11月1日.md "wikilink")午後6時、[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（MXテレビ）開局。
-      - [11月5日](../Page/11月5日.md "wikilink")午後1時より「'95プロ野球日韓親善スーパーゲーム」第3戦（[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")、[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")）を生中継。
+      - [11月5日](../Page/11月5日.md "wikilink")午後1時より「'95プロ野球日韓親善スーパーゲーム」第3戦（[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")、[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")）を生中継。
   - **[1996年](../Page/1996年.md "wikilink")**
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink")春季リーグの中継を開始。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[高校野球東東京大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")・西東京大会の中継を開始。[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")より決勝戦を中継する。当時は「[東京NEWS](../Page/東京NEWS.md "wikilink")」を優先させていたため13時からの中継となる。
@@ -77,7 +77,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
   - 2007年度よりソフトバンクの主催試合を中継する『[STRONG\!ホークス野球中継](https://ja.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink")』が放送開始されるが、MXスタジアムにおいて従来から細々と放送されている自社制作のヤクルト戦中継も引き続き行われた。その一方で、サンテレビ制作の阪神戦中継はわずか2試合（いずれも対中日戦）にまで激減した。しかも2試合のうち[7月14日](../Page/7月14日.md "wikilink")は雨天中止となったため、実際に中継されたのは[9月15日](../Page/9月15日.md "wikilink")の1試合だけであった。
       - これとは別に、[7月19日](../Page/7月19日.md "wikilink")に[松山坊っちゃんスタジアムで開催された](../Page/松山中央公園野球場.md "wikilink")[フレッシュオールスターゲーム](../Page/フレッシュオールスターゲーム.md "wikilink")をサンテレビからネット受けして生中継した。
-      - 9月15日は 阪神対中日（デーゲーム、[甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")。サンテレビ制作）と『[STRONG\!ホークス野球中継](https://ja.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink") ソフトバンク対日本ハム（ナイター、[福岡Yahoo\! Japanドーム](../Page/福岡ドーム.md "wikilink")。自主製作）と、TOKYO MXでは野球中継が2本続けて放送された。
+      - 9月15日は 阪神対中日（デーゲーム、[甲子園球場](../Page/阪神甲子園球場.md "wikilink")。サンテレビ制作）と『[STRONG\!ホークス野球中継](https://ja.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink") ソフトバンク対日本ハム（ナイター、[福岡Yahoo\! Japanドーム](../Page/福岡ドーム.md "wikilink")。自主製作）と、TOKYO MXでは野球中継が2本続けて放送された。
 
 #### 2008年
 
@@ -289,7 +289,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 <!-- end list -->
 
   - 2001年 - [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink")「ぼくの味方」
-  - 2002年 - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")「HEAVEN AND HELL」
+  - 2002年 - [ZIGGY](../Page/ZIGGY.md "wikilink")「HEAVEN AND HELL」
   - 2003年 - [Michelle143](../Page/Michelle143.md "wikilink")「泣いてたまるか」
   - 2004年 - [浅岡雄也](../Page/浅岡雄也.md "wikilink")「Re:start」
   - 2005年 - [Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink")「Precious Days」

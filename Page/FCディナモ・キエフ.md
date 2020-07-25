@@ -389,7 +389,7 @@
 
   - [カハ・カラーゼ](../Page/カハ・カラーゼ.md "wikilink") 1998-2001
 
-  - [ボドナール・ラースロー](https://ja.wikipedia.org/wiki/ボドナール・ラースロー "wikilink") 2000-2004
+  - [ボドナール・ラースロー](../Page/ボドナール・ラースロー.md "wikilink") 2000-2004
 
   - [ゴラン・ガヴランチッチ](https://ja.wikipedia.org/wiki/ゴラン・ガヴランチッチ "wikilink") 2001-2008
 

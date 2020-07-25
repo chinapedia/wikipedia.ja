@@ -97,7 +97,7 @@
 <td><p>2003年2月19日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/涙のハリケーン" title="wikilink">涙のハリケーン</a></p></td>
 <td><p>COCA-15454</p></td>
-<td><p>TBS系アニメ『<a href="https://ja.wikipedia.org/wiki/GetBackers-奪還屋-" title="wikilink">GetBackers-奪還屋-</a>』エンディングテーマ</p></td>
+<td><p>TBS系アニメ『<a href="../Page/GetBackers-奪還屋-.md" title="wikilink">GetBackers-奪還屋-</a>』エンディングテーマ</p></td>
 <td><p>19位</p></td>
 </tr>
 <tr class="odd">

@@ -24,7 +24,7 @@
   - バッファロー5人娘（安野モヨコ）\[5\]
   - ヘチマミルク（[コナリミサト](../Page/コナリミサト.md "wikilink")）
   - MAKE A GO★GO（たまきちひろ）
-  - ハツタイケン（[水元ローラ](https://ja.wikipedia.org/wiki/水元ローラ "wikilink")）
+  - ハツタイケン（[水元ローラ](../Page/水元ローラ.md "wikilink")）
 
 ## 専属モデル
 

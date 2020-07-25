@@ -660,7 +660,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ラサッド・ハッセン・ヌイウィ" title="wikilink">ラサッド</a> (5月-6月)<br />
  <a href="https://ja.wikipedia.org/wiki/ネイサン・バーンズ" title="wikilink">ネイサン・バーンズ</a> (7月-)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミケーレ・カニーニ" title="wikilink">カニーニ</a> (-6月)<br />
- <a href="https://ja.wikipedia.org/wiki/ブラダ・アブラモフ" title="wikilink">ブラダ・アブラモフ</a> (9月-)</p></td>
+ <a href="../Page/ブラダ・アブラモフ.md" title="wikilink">ブラダ・アブラモフ</a> (9月-)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フランシスコ・ホセ・サンダサ・アセンシオ" title="wikilink">サンダサ</a> (7月-)</p></td>
 </tr>
 <tr class="even">
@@ -2639,7 +2639,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C" title="wikilink">サンフレッチェ広島</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラダ・アブラモフ" title="wikilink">ブラダ・アブラモフ</a></p></td>
+<td><p><a href="../Page/ブラダ・アブラモフ.md" title="wikilink">ブラダ・アブラモフ</a></p></td>
 <td><p>2015</p></td>
 <td></td>
 <td></td>

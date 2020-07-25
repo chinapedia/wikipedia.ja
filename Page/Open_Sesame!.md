@@ -29,7 +29,7 @@
 
   - 07:30 オープニング、モーニング･ビュー
   - 07:50 ローカル枠
-  - 08:00 「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」Aラインネット（[SUZUKI Inside Story他](../Page/SUZUKI_Inside_Story.md "wikilink")）
+  - 08:00 「[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")」Aラインネット（[SUZUKI Inside Story他](../Page/SUZUKI_Inside_Story.md "wikilink")）
   - 08:20 モーニング･ドライブ
   - 08:55 JFNニュース【地域差替枠】
   - 09:00 オープニング

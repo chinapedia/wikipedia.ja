@@ -3,7 +3,7 @@
 
 『**MODERN TIME**』（モダン・タイム）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[吉川晃司](../Page/吉川晃司.md "wikilink")の4枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[SMSレコードよりリリースされた](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")。
+[1986年](../Page/1986年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[SMSレコードよりリリースされた](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")。
 
 ## 解説
 
@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
 <td><p><a href="../Page/バンダイ・ミュージックエンタテインメント.md" title="wikilink">SMSレコード</a></p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />

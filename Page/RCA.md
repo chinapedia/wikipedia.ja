@@ -15,12 +15,12 @@
   - [1929年](../Page/1929年.md "wikilink") - [ビクタートーキングマシン](../Page/ビクタートーキングマシン.md "wikilink")（当時の[日本ビクター](../Page/日本ビクター.md "wikilink")の親会社）を買収し、[RCAビクターを設立する](../Page/RCAレコード.md "wikilink")。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 社名をRCAと改称する。
   - [1984年](../Page/1984年.md "wikilink")4月 - CEDの商業的な失敗が[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")などで報じられる（[\#終焉](https://ja.wikipedia.org/wiki/#終焉 "wikilink")）。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月 - グループ全体をGEが凡そ64億ドル（概算1兆2000億円）で買収する。CED事業の失敗で大損したことが一因とされる。この買収額は当時のアメリカ企業による最高額であり、GEの[コングロマリット](../Page/コングロマリット.md "wikilink")化を推し進める象徴でもあった。
+  - [1986年](../Page/1986年.md "wikilink")12月 - グループ全体をGEが凡そ64億ドル（概算1兆2000億円）で買収する。CED事業の失敗で大損したことが一因とされる。この買収額は当時のアメリカ企業による最高額であり、GEの[コングロマリット](../Page/コングロマリット.md "wikilink")化を推し進める象徴でもあった。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")　- GEはNBC事業を残し、その他の事業・資産を[トムソンと](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")に売却。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1992年](../Page/1992年.md "wikilink") - [ジェイコブ・ロスチャイルド](https://ja.wikipedia.org/wiki/ジェイコブ・ロスチャイルド_\(第4代ロスチャイルド男爵\) "wikilink")（コンシル・メンバー、最終年はシニア・[フェロー](../Page/フェロー.md "wikilink")）\[1\]
+  - [1986年](../Page/1986年.md "wikilink")から[1992年](../Page/1992年.md "wikilink") - [ジェイコブ・ロスチャイルド](https://ja.wikipedia.org/wiki/ジェイコブ・ロスチャイルド_\(第4代ロスチャイルド男爵\) "wikilink")（コンシル・メンバー、最終年はシニア・[フェロー](../Page/フェロー.md "wikilink")）\[1\]
   - [1994年](../Page/1994年.md "wikilink") - [RCAドーム](../Page/RCAドーム.md "wikilink")の命名権を買収。
   - [2002年](../Page/2002年.md "wikilink") - トムソンは[中国](../Page/中国.md "wikilink")の家電メーカー・[TCL社と](../Page/TCL集団.md "wikilink")、RCAブランドのテレビなどの生産・流通の合弁事業を開始。
-  - [2003年](../Page/2003年.md "wikilink") - 「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")」の商標をGEからトムソンが買収。但し[BMG](../Page/BMG.md "wikilink")の持つ使用権は継続。
+  - [2003年](../Page/2003年.md "wikilink") - 「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](../Page/ニッパー_\(犬\).md "wikilink")」の商標をGEからトムソンが買収。但し[BMG](../Page/BMG.md "wikilink")の持つ使用権は継続。
   - [2006年](../Page/2006年.md "wikilink") - トムソンは家電アクセサリー部門とその分野でのRCAブランドの使用権を[Audiovox](https://ja.wikipedia.org/wiki/Audiovox "wikilink")社に売却。
   - [2007年](../Page/2007年.md "wikilink") - トムソンは欧州域外の家電事業とその分野でのRCAブランドの使用権の売却を決定。
 
@@ -39,7 +39,7 @@
       - 11月頃 - 2インチの白黒VTRを独自に改造した、世界初の実用化2インチカラーVTRを開発、製造。米NBCに於いての運用を開始する。
   - [1958年](../Page/1958年.md "wikilink") - ステレオ・レコードの発売に伴い、同ソフトの再生装置が入ったステレオ・セットを発売する。
   - [1959年](../Page/1959年.md "wikilink")初め - 2インチカラーVTRの方式にて、米[アンペックス](../Page/アンペックス.md "wikilink")の別の方式（ローバンド方式）に合意。同VTRの製造を同方式の物に切り替える。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [CMOS標準ロジックIC](https://ja.wikipedia.org/wiki/CMOS#CMOS標準ロジックIC "wikilink")、CD4000シリーズの販売開始
+  - [1968年](../Page/1968年.md "wikilink") - [CMOS標準ロジックIC](https://ja.wikipedia.org/wiki/CMOS#CMOS標準ロジックIC "wikilink")、CD4000シリーズの販売開始
   - [1981年](../Page/1981年.md "wikilink") - カラーテレビを上回る費用を投じて開発された「CEDビデオディスク（商品名：セレクタビジョン）」の再生機とビデオディスクソフトがアメリカで市販化される。
 
 ## エレクトロニクス部門
@@ -76,13 +76,13 @@ RCA及び
 
 ### 終焉
 
-1984年に表面化したCEDビデオディスクの商業的な大失敗により経営が悪化し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月にかつての親会社GEへ[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")・吸収された。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャック・ウェルチ](../Page/ジャック・ウェルチ.md "wikilink")の方針により、旧RCAの家電部門はトムソンに、子会社であったRCAレコードはドイツの[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")の[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")に売却された。
+1984年に表面化したCEDビデオディスクの商業的な大失敗により経営が悪化し、[1986年](../Page/1986年.md "wikilink")12月にかつての親会社GEへ[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")・吸収された。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャック・ウェルチ](../Page/ジャック・ウェルチ.md "wikilink")の方針により、旧RCAの家電部門はトムソンに、子会社であったRCAレコードはドイツの[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")の[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")に売却された。
 
 日本でのRCAレコードは、当初はビクター音楽産業（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）が担っていたが、[1975年](../Page/1975年.md "wikilink")に[日本ビクターと米RCAレコードの合弁により](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")[RVC株式会社が設立され移管された](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。その後、親会社の資本構成の変遷（[ソニーBMGの発足](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")）により、現在は[株式会社ソニー・ミュージックエンタテインメントへ吸収されている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## RCAブランド
 
-過去、北米市場でトムソンが販売したRCAブランドの[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")など、高[付加価値](../Page/付加価値.md "wikilink")の商品は日本ビクターからのOEM。北米では「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")」の商標（もともとは英[グラモフォンの商標](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")）を使用していた。
+過去、北米市場でトムソンが販売したRCAブランドの[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")など、高[付加価値](../Page/付加価値.md "wikilink")の商品は日本ビクターからのOEM。北米では「[蓄音機](../Page/蓄音機.md "wikilink")に耳を傾ける犬[ニッパー](../Page/ニッパー_\(犬\).md "wikilink")」の商標（もともとは英[グラモフォンの商標](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")）を使用していた。
 
 [デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")、[ポータブルプレーヤー](../Page/携帯音楽プレーヤー.md "wikilink")、[クロックラジオ](https://ja.wikipedia.org/wiki/クロックラジオ "wikilink")などは[タイのメーカー製](../Page/タイ王国.md "wikilink")。[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")に関しては、トムソンのグループ企業である中国・[TCL及び周辺企業から供給されていた](../Page/TCL集団.md "wikilink")。
 

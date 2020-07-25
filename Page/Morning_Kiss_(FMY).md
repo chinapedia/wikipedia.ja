@@ -11,7 +11,7 @@
 
 Morning Kissのオープニングで使われているジングルでは、「**Heart Warm Radio**」という部分が残っていた。
 
-2008年4月、各種ワイド番組のレーベルを「Street」に設定することに伴い、『[Morning Street](https://ja.wikipedia.org/wiki/Morning_Street "wikilink")』に衣替えした。
+2008年4月、各種ワイド番組のレーベルを「Street」に設定することに伴い、『[Morning Street](../Page/Morning_Street.md "wikilink")』に衣替えした。
 
 ## パーソナリティ
 

@@ -39,7 +39,7 @@ PメールDXセンターは、「H"」端末登場後にH"LINKセンターとし
 
 Pメールと同様に、電話番号を使用してウィルコム端末同士で直接送受信できる。
 
-またPメールと同様に、一部の端末機種ではPメールにアニメーション絵文字やフレームなどの装飾を付けることが可能。AIR-EDGE PHONE以降の端末ではフレーム装飾に対応していない。アニメーション絵文字については、AIR-EDGE PHONE以降の端末は基本的に対応している。ただし、[AH-K3001V](../Page/AH-K3001V.md "wikilink")/[WX300K](https://ja.wikipedia.org/wiki/WX300K "wikilink")/[WX310K](../Page/WX310K.md "wikilink")/[WX320K](../Page/WX320K.md "wikilink")/[WX320KR](https://ja.wikipedia.org/wiki/WX320KR "wikilink")など京セラの端末ではこの装飾機能には対応していないものもある。だが2008年3月発売の[WX330K](https://ja.wikipedia.org/wiki/WX330K "wikilink")では対応しており、現時点で発売されている機種のほとんどでアニメーション絵文字が使用可能となる。
+またPメールと同様に、一部の端末機種ではPメールにアニメーション絵文字やフレームなどの装飾を付けることが可能。AIR-EDGE PHONE以降の端末ではフレーム装飾に対応していない。アニメーション絵文字については、AIR-EDGE PHONE以降の端末は基本的に対応している。ただし、[AH-K3001V](../Page/AH-K3001V.md "wikilink")/[WX300K](https://ja.wikipedia.org/wiki/WX300K "wikilink")/[WX310K](../Page/WX310K.md "wikilink")/[WX320K](../Page/WX320K.md "wikilink")/[WX320KR](https://ja.wikipedia.org/wiki/WX320KR "wikilink")など京セラの端末ではこの装飾機能には対応していないものもある。だが2008年3月発売の[WX330K](../Page/WX330K.md "wikilink")では対応しており、現時点で発売されている機種のほとんどでアニメーション絵文字が使用可能となる。
 
 [WX11K](https://ja.wikipedia.org/wiki/WX11K "wikilink")・[WX12K](https://ja.wikipedia.org/wiki/WX12K "wikilink")・[WX04S](https://ja.wikipedia.org/wiki/WX04S "wikilink")・[301JR](https://ja.wikipedia.org/wiki/301JR "wikilink")・[301KC](https://ja.wikipedia.org/wiki/301KC "wikilink")については、[2014年](../Page/2014年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")以降、SMSの送受信にも対応された（デュアルモード機については、3G回線側で対応済みのため、PHS回線側では実施しない）。ただし、アップデート対応となるため、実施しない場合はライトメールの送受信となる（[401KC](https://ja.wikipedia.org/wiki/401KC "wikilink")以降の端末は、当初からSMS対応）。なお、送信側・受信側のいずれかがSMS非対応端末の場合は、ライトメールとして処理される（当然、この場合の携帯電話相互間は、送受信不可となる）。
 

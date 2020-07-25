@@ -33,7 +33,7 @@ DJ
 リリーフ
 
   - [梅津智弘](../Page/梅津智弘.md "wikilink")投手 - 11月2日出演。同年[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")が[ドラフト](../Page/プロ野球ドラフト会議.md "wikilink")1位指名した[今村猛](https://ja.wikipedia.org/wiki/今村猛 "wikilink")投手のニックネームに倣い**ウメルン**と名乗る。
-  - [今井啓介](../Page/今井啓介.md "wikilink")投手 - 11月9日出演。番組前に収録していた[HOME MADE 家族のファンであり](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、サインを貰い喜んでいた。
+  - [今井啓介](../Page/今井啓介.md "wikilink")投手 - 11月9日出演。番組前に収録していた[HOME MADE 家族のファンであり](../Page/HOME_MADE_家族.md "wikilink")、サインを貰い喜んでいた。
   - [篠田純平](../Page/篠田純平.md "wikilink")投手 - 11月16日出演。再び原稿を読むなど[リスナー](../Page/リスナー.md "wikilink")を楽しませた。
 
 ## 以前の出演者

@@ -81,7 +81,7 @@
   - サンドキングズ (*Sandkings* 1979) - 1980年ヒューゴー賞、[ネビュラ賞](https://ja.wikipedia.org/wiki/ネビュラ賞_中編小説部門 "wikilink")、ローカス賞受賞、『サンドキングス』 (ハヤカワ文庫SF)に収録
   - ナイトフライヤー (*Nightflyers* 1980) - 1981年ローカス賞、アナログAnLab賞、1983年[星雲賞](../Page/星雲賞.md "wikilink")海外部門受賞。 『[S-Fマガジン](../Page/S-Fマガジン.md "wikilink")』1982年8月号-9月号に収録
       - 1987年に映画化された[1](http://www.imdb.com/title/tt0093626/)。
-      - 2018年には[Syfy](https://ja.wikipedia.org/wiki/Syfy "wikilink")チャンネルで『[Nightflyers/ナイトフライヤー](https://ja.wikipedia.org/wiki/Nightflyers/ナイトフライヤー "wikilink")』としてTVドラマシリーズ化され\[22\]\[23\]、アメリカ国外では[Netflix](../Page/Netflix.md "wikilink")で配信される予定である。
+      - 2018年には[Syfy](../Page/Syfy.md "wikilink")チャンネルで『[Nightflyers/ナイトフライヤー](https://ja.wikipedia.org/wiki/Nightflyers/ナイトフライヤー "wikilink")』としてTVドラマシリーズ化され\[22\]\[23\]、アメリカ国外では[Netflix](../Page/Netflix.md "wikilink")で配信される予定である。
   - *Guardians* (1981) - 1982年ローカス賞受賞
   - モンキー療法 (*The Monkey Treatment* 1983) - 1984年ローカス賞受賞、『洋梨形の男』(河出書房新社)に収録
   - *Loaves and Fishes* (1984) - 1985年アナログAnLab賞受賞

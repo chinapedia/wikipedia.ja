@@ -5,7 +5,7 @@
 
 同社の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")RPGシリーズ『[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")』の第2作目。前作にあたる[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")/[マスターシステム](https://ja.wikipedia.org/wiki/マスターシステム "wikilink")用ソフト『[ファンタシースター](../Page/ファンタシースター.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）から千年後の世界を舞台に、主人公たちを操作して惑星モタビアおよびデゾリスにおけるバイオモンスター発生の原因を調査する事を目的としている。
 
-開発は[セガ第7AM研究開発部が行い](https://ja.wikipedia.org/wiki/セガワウ "wikilink")、プロデューサーおよびプログラムはセガ・マークIII用ソフト『[スペースハリアー](../Page/スペースハリアー.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）を手掛けた[中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")、ディレクターおよびシナリオは前作にてアシスタントを手掛けた青木千恵子、音楽は前作に引き続き上保徳彦が担当している。
+開発は[セガ第7AM研究開発部が行い](https://ja.wikipedia.org/wiki/セガワウ "wikilink")、プロデューサーおよびプログラムはセガ・マークIII用ソフト『[スペースハリアー](../Page/スペースハリアー.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）を手掛けた[中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")、ディレクターおよびシナリオは前作にてアシスタントを手掛けた青木千恵子、音楽は前作に引き続き上保徳彦が担当している。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された他、[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として配信された。[2009年](../Page/2009年.md "wikilink")には[Xbox 360用ソフトとして](../Page/Xbox_360.md "wikilink")[Xbox Live Arcadeにて配信](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[iOS用ソフトとして配信された](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。また、[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『**ファンタシースターコレクション**』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）や[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**セガエイジス2500シリーズ Vol.17 ファンタシースター generation:2**』（[2005年](../Page/2005年.md "wikilink")）、『**SEGA AGES 2500シリーズ Vol.32 ファンタシースター コンプリートコレクション**』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）などのオムニバスソフトに収録された。
 
@@ -303,7 +303,7 @@
 <td><p>SEGA AGES 2500シリーズ Vol.17<br />
 ファンタシースター generation:2</p></td>
 <td><p>{{vgrelease new|JP|2014年8月20日[11]<ref>{{Cite web |author=皐月誠 |date=2014-08-20</p></td>
-<td><p>title=『ファンタシースター generation』シリーズが配信開始。初期『ファンタシースター』のリメイク版がPS3にて再登場！ |website=<a href="https://ja.wikipedia.org/wiki/アスキー・メディアワークス" title="wikilink">電撃オンライン</a> |publisher=<a href="https://ja.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a> |language= <a href="../Page/日本語.md" title="wikilink">日本語</a> |accessdate=2020-03-08}}</ref>[12]}}</p></td>
+<td><p>title=『ファンタシースター generation』シリーズが配信開始。初期『ファンタシースター』のリメイク版がPS3にて再登場！ |website=<a href="../Page/アスキー・メディアワークス.md" title="wikilink">電撃オンライン</a> |publisher=<a href="https://ja.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a> |language= <a href="../Page/日本語.md" title="wikilink">日本語</a> |accessdate=2020-03-08}}</ref>[12]}}</p></td>
 <td><p>PlayStation 3<br />
 (PlayStation Network)</p></td>
 <td><p>セガ</p></td>

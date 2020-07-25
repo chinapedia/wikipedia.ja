@@ -53,7 +53,7 @@
 
 ### 元メンバー
 
-  - [t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")（ティー・キムラ、本名：木村貴志（きむら たかし）、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ） リーダー、プロデュース、作曲・編曲、シンセサイザー、キーボード、ギター、ピアノ、ヴォコーダー、ボーカル担当
+  - [t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")（ティー・キムラ、本名：木村貴志（きむら たかし）、[1968年](../Page/1968年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ） リーダー、プロデュース、作曲・編曲、シンセサイザー、キーボード、ギター、ピアノ、ヴォコーダー、ボーカル担当
 
 ### サポート
 
@@ -145,7 +145,7 @@
 | 4th  | [2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                    | **[SYNERGY](../Page/SYNERGY.md "wikilink")**                                             | AVCT-10108      |
 | 5th  | [2003年](../Page/2003年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")                    | **[DECADANCE](../Page/DECADANCE.md "wikilink")**                                         | AVCT-10134      |
 | 6th  | [2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                    | **[Deep Calm](../Page/Deep_Calm.md "wikilink")**                                         | AVCT-10140\~1/B |
-| 7th  | [2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | **[BOULDER](../Page/BOULDER.md "wikilink")**                                             | AVCT-10152\~3/B |
+| 7th  | [2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")                    | **[BOULDER](../Page/BOULDER.md "wikilink")**                                             | AVCT-10152\~3/B |
 | 8th  | [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                    | **[GRID](../Page/GRID.md "wikilink")**                                                   | AVCT-10156\~7/B |
 | 9th  | [2009年](../Page/2009年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")                    | **[Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")**                      | AVCT-10169      |
 | 10th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")   | **[Dream Again](https://ja.wikipedia.org/wiki/Dream_Again_\(m.o.v.eのアルバム\) "wikilink")** | AVCT-10172\~3/B |
@@ -591,7 +591,7 @@
 ## m.o.v.eと頭文字D
 
 [InitialD_FD3S_m.o.v.e.JPG](https://ja.wikipedia.org/wiki/File:InitialD_FD3S_m.o.v.e.JPG "fig:InitialD_FD3S_m.o.v.e.JPG")」のPVに登場した
-[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
+[マツダ](../Page/マツダ.md "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
 [フジミ模型](../Page/フジミ模型.md "wikilink")1/24頭文字Dシリーズより改造\]\]
 
   - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](../Page/ドリフト走行.md "wikilink")。

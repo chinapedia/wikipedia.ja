@@ -1498,7 +1498,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/天文" title="wikilink">天文</a>部</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜庭ななみ" title="wikilink">桜庭ななみ</a></p></td>
+<td><p><a href="../Page/桜庭ななみ.md" title="wikilink">桜庭ななみ</a></p></td>
 <td><p>「<a href="../Page/宇宙.md" title="wikilink">宇宙</a>」や「<a href="../Page/天体.md" title="wikilink">星</a>」にちなんだテーマを募集</p></td>
 <td><p>2009年7月16日</p></td>
 </tr>
@@ -2358,7 +2358,7 @@ MY GENERATION参加アーティスト
 
 :; SCHOOL OF LOCK\!presents 夏のはじめてアシスト2009
 
-:: 生徒の“はじめて体験”をサポートする企画。閃光ライオットコースと夏の冒険コース、合計8名に[ANA国内航空券をプレゼントするアシスト](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")1と、“はじめて体験”の軍資金1万円を20名にプレゼントするアシスト2があった。
+:: 生徒の“はじめて体験”をサポートする企画。閃光ライオットコースと夏の冒険コース、合計8名に[ANA国内航空券をプレゼントするアシスト](../Page/全日本空輸.md "wikilink")1と、“はじめて体験”の軍資金1万円を20名にプレゼントするアシスト2があった。
 
 ::
 

@@ -766,7 +766,7 @@
 
   - [エドアルド・レヤ](https://ja.wikipedia.org/wiki/エドアルド・レヤ "wikilink") 1968-1973
 
-  - [フランコ・カウジオ](https://ja.wikipedia.org/wiki/フランコ・カウジオ "wikilink") 1969-1970
+  - [フランコ・カウジオ](../Page/フランコ・カウジオ.md "wikilink") 1969-1970
 
   - [ジャン・ピエロ・ガスペリーニ](https://ja.wikipedia.org/wiki/ジャン・ピエロ・ガスペリーニ "wikilink") 1978-1983
 

@@ -7,7 +7,7 @@
 
 ## 放送時間
 
-  - 8:10 - 8:18 （2008年3月までは『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』の1コーナーとして放送）
+  - 8:10 - 8:18 （2008年3月までは『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』の1コーナーとして放送）
       - かつてはクロノスの前身である『[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")』や『[Eyes on Japan](../Page/Eyes_on_Japan.md "wikilink")』、『[6Sense](../Page/6Sense.md "wikilink")』の1コーナーとして放送されていた。
       - [FMぐんま](../Page/エフエム群馬.md "wikilink")、[radio CUBE FM三重では放送されておらず](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")、栃木県の[RADIO BERRYでは自社制作のワイド番組](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")『[B-UP\!](../Page/B-UP!.md "wikilink")』内で放送される形をとる。
 

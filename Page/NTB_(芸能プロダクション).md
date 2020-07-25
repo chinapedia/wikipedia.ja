@@ -3,7 +3,7 @@
 
 **株式会社 NTB**（エヌティービー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[中部地方](../Page/中部地方.md "wikilink")を活動拠点としている[芸能事務所](../Page/芸能事務所.md "wikilink")である。所属タレントたちの中部地方（特に[中京圏](../Page/中京圏.md "wikilink")）における芸能活動のマネージメントを主としている。
 
-旧社名は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）7月に創立された**株式会社名古屋タレントビューロー**（なごやタレントビューロー）。
+旧社名は、[1968年](../Page/1968年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）7月に創立された**株式会社名古屋タレントビューロー**（なごやタレントビューロー）。
 
 ## 概要
 
@@ -51,7 +51,7 @@
   - [戸井康成](../Page/戸井康成.md "wikilink")\[4\]（個人事務所設立）
   - [平松圭子](../Page/平松圭子.md "wikilink")（現在の所属先不明）
   - [平松伴康](https://ja.wikipedia.org/wiki/平松伴康 "wikilink")（[セントラルジャパン](../Page/セントラルジャパン.md "wikilink")へ移籍）
-  - [藤田陽子](../Page/藤田陽子_\(ローカルタレント\).md "wikilink")\[5\]（[三木プロダクション](https://ja.wikipedia.org/wiki/三木プロダクション "wikilink")へ移籍）
+  - [藤田陽子](../Page/藤田陽子_\(ローカルタレント\).md "wikilink")\[5\]（[三木プロダクション](../Page/三木プロダクション.md "wikilink")へ移籍）
   - [間宮優希](../Page/間宮優希.md "wikilink")\[6\]（[ホリプロ](../Page/ホリプロ.md "wikilink")へ移籍）
   - [六車勇輝](../Page/六車勇輝.md "wikilink")（一般企業に就職\[7\]）
 

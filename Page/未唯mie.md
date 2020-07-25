@@ -149,7 +149,7 @@ MIE 名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a></p></td>
 <td><p><strong>Dreamer</strong><br />
 作詞：<a href="../Page/川村真澄.md" title="wikilink">川村真澄</a><br />
 作曲：筒美京平<br />
@@ -162,7 +162,7 @@ MIE 名義</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
 <td><p><strong>昼顔恋話(ロマン)</strong><br />
 作詞：川村真澄<br />
 作曲：筒美京平<br />

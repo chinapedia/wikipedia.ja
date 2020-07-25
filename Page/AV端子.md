@@ -1,7 +1,7 @@
 > この記事は[AV端子](https://ja.wikipedia.org/wiki/AV端子)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:RCA_type_jack_and_plug_Video_&_Audio.jpg "wikilink")、**A**udio（[ステレオ](../Page/ステレオ.md "wikilink")音声信号（右・赤色、左・白色）と**V**ideo（[コンポジット映像信号](../Page/コンポジット映像信号.md "wikilink")、黄色）のジャック（上）と対応するプラグ（下）\]\] **AV端子**（AVたんし）とは、[音響機器](../Page/音響機器.md "wikilink")や[映像機器](../Page/映像機器.md "wikilink")（[AV機器](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")）同士を接続し、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")等の[信号をやり取りするために使われる接続端子の総称](../Page/信号_\(電気工学\).md "wikilink")。端子形状や流れる信号の規格により様々なものがある。また単に「AV端子」はRCA端子を示すことが多い。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:RCA_type_jack_and_plug_Video_&_Audio.jpg "wikilink")、**A**udio（[ステレオ](../Page/ステレオ.md "wikilink")音声信号（右・赤色、左・白色）と**V**ideo（[コンポジット映像信号](../Page/コンポジット映像信号.md "wikilink")、黄色）のジャック（上）と対応するプラグ（下）\]\] **AV端子**（AVたんし）とは、[音響機器](../Page/音響機器.md "wikilink")や[映像機器](../Page/映像機器.md "wikilink")（[AV機器](../Page/オーディオ・ビジュアル.md "wikilink")）同士を接続し、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")等の[信号をやり取りするために使われる接続端子の総称](../Page/信号_\(電気工学\).md "wikilink")。端子形状や流れる信号の規格により様々なものがある。また単に「AV端子」はRCA端子を示すことが多い。
 
 ## 端子の形状による分類
 
@@ -74,7 +74,7 @@ Image:Photo-audiojacks.jpg|フォーン端子 Image:BNC connectors.jpg|BNC端子
 
 ## 関連項目
 
-  - [オーディオ・ビジュアル](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")
+  - [オーディオ・ビジュアル](../Page/オーディオ・ビジュアル.md "wikilink")
   - [音響機器](../Page/音響機器.md "wikilink")
   - [映像機器](../Page/映像機器.md "wikilink")
   - [Hi-Fi](../Page/Hi-Fi.md "wikilink")

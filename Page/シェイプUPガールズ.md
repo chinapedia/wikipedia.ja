@@ -1,7 +1,7 @@
 > この記事は[シェイプUPガールズ](https://ja.wikipedia.org/wiki/シェイプUPガールズ)から翻訳されています。
 
 
-**シェイプUPガールズ**（シェイプアップガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[タレント](../Page/タレント.md "wikilink")グループ。[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")所属。
+**シェイプUPガールズ**（シェイプアップガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[タレント](../Page/タレント.md "wikilink")グループ。[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")所属。
 
 ## 概要
 
@@ -12,9 +12,9 @@
 ## メンバー
 
   - [梶原真弓](../Page/梶原真弓.md "wikilink")（かじわら まゆみ、[1967年](../Page/1967年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink") - ）
-  - [中島史恵](../Page/中島史恵.md "wikilink")（なかじま ふみえ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月14日](../Page/6月14日.md "wikilink") - ）
+  - [中島史恵](../Page/中島史恵.md "wikilink")（なかじま ふみえ、[1968年](../Page/1968年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") - ）
   - [三瀬真美子](../Page/三瀬真美子.md "wikilink")（みせ まみこ、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[9月17日](../Page/9月17日.md "wikilink") - ）
-  - [今井恵理](../Page/今井恵理.md "wikilink")（いまい えり、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ）
+  - [今井恵理](../Page/今井恵理.md "wikilink")（いまい えり、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月26日](../Page/1月26日.md "wikilink") - ）
 
 今井以外は現在もオスカープロモーションに所属。
 

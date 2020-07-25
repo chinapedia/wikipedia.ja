@@ -7,7 +7,7 @@
 
 ## 規格
 
-[2004年](../Page/2004年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に、WUSBの規格を策定するための推進団体としてWireless USB Promoter Groupが発足した。同グループには、Agere Systems（現[LSIコーポレーション](https://ja.wikipedia.org/wiki/LSIコーポレーション "wikilink")）、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP)、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink") (NEC)、[フィリップス](../Page/フィリップス.md "wikilink")、[サムスン電子](../Page/サムスン電子.md "wikilink")が参加している。
+[2004年](../Page/2004年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に、WUSBの規格を策定するための推進団体としてWireless USB Promoter Groupが発足した。同グループには、Agere Systems（現[LSIコーポレーション](../Page/LSIコーポレーション.md "wikilink")）、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP)、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink") (NEC)、[フィリップス](../Page/フィリップス.md "wikilink")、[サムスン電子](../Page/サムスン電子.md "wikilink")が参加している。
 
 [2005年](../Page/2005年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にはWireless USB Specification 1.0の仕様が完成したことがアナウンスされたが、ホストとデバイス間の初回の接続手順を定めたAssociation Model部分の標準化が難航し、結局同モデルの標準は[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に公開された。そのためWUSBを搭載した最終製品の出荷は2006年後半までずれ込んだ。またマイクロソフトも、[Windows Vistaのリリース版にはWUSB用の](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")は収録されないことを明らかにしている。
 

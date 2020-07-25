@@ -1,13 +1,13 @@
 > この記事は[KLIAエクスプレス](https://ja.wikipedia.org/wiki/KLIAエクスプレス)から翻訳されています。
 
 
-**KLIAエクスプレス**（ケイエルアイエー-エクスプレス、）は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[クアラルンプール](../Page/クアラルンプール.md "wikilink")にある[KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")と[クアラルンプール国際空港](../Page/クアラルンプール国際空港.md "wikilink")を結ぶ路線、列車の名称である。
+**KLIAエクスプレス**（ケイエルアイエー-エクスプレス、）は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[クアラルンプール](../Page/クアラルンプール.md "wikilink")にある[KLセントラル駅](../Page/KLセントラル駅.md "wikilink")と[クアラルンプール国際空港](../Page/クアラルンプール国際空港.md "wikilink")を結ぶ路線、列車の名称である。
 
 ## 概要
 
 **エクスプレス・レール・リンク** () によって運営されている。
 
-  - [2002年](../Page/2002年.md "wikilink")4月14日 【開業】[KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink") - [KLIA駅](https://ja.wikipedia.org/wiki/クアラ・ルンプール国際空港駅 "wikilink") (57.6km)
+  - [2002年](../Page/2002年.md "wikilink")4月14日 【開業】[KLセントラル駅](../Page/KLセントラル駅.md "wikilink") - [KLIA駅](https://ja.wikipedia.org/wiki/クアラ・ルンプール国際空港駅 "wikilink") (57.6km)
   - [2014年](../Page/2014年.md "wikilink")5月2日 【開業】KLIA駅 - \[1\]
 
 [マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")、[キャセイパシフィック航空](../Page/キャセイパシフィック航空.md "wikilink")、[マリンドエア](https://ja.wikipedia.org/wiki/マリンドエア "wikilink")の乗客に対し、KLセントラル駅で搭乗手続きができるサービスを実施している\[2\]
@@ -35,7 +35,7 @@
 <td><p>2002年</p></td>
 <td><p>57 km</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KLセントラル駅" title="wikilink">KLセントラル駅</a> - KLIA2</p></td>
+<td><p><a href="../Page/KLセントラル駅.md" title="wikilink">KLセントラル駅</a> - KLIA2</p></td>
 </tr>
 <tr class="even">
 <td><p><big></p>
@@ -46,18 +46,18 @@
 <td><p>2002年</p></td>
 <td><p>57 km</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KLセントラル駅" title="wikilink">KLセントラル駅</a> - KLIA2</p></td>
+<td><p><a href="../Page/KLセントラル駅.md" title="wikilink">KLセントラル駅</a> - KLIA2</p></td>
 </tr>
 </tbody>
 </table>
 
 ### KLIAエクスプレス
 
-[KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")から[KLIA駅](https://ja.wikipedia.org/wiki/クアラ・ルンプール国際空港駅 "wikilink")、までを途中駅には停まらず最高時速160kmで走る。
+[KLセントラル駅](../Page/KLセントラル駅.md "wikilink")から[KLIA駅](https://ja.wikipedia.org/wiki/クアラ・ルンプール国際空港駅 "wikilink")、までを途中駅には停まらず最高時速160kmで走る。
 
 全線とおしの所要時間は33分である。
 
-  - [KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")発:始発05時00分 - 00時40分
+  - [KLセントラル駅](../Page/KLセントラル駅.md "wikilink")発:始発05時00分 - 00時40分
 
   - 発:始発4時55分 - 0時55分
 
@@ -69,7 +69,7 @@
 
 全線とおしの所要時間は39分である。
 
-  - [KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")発・[始発](../Page/始発.md "wikilink")04時33分 - [終電](../Page/終電.md "wikilink")00時03分
+  - [KLセントラル駅](../Page/KLセントラル駅.md "wikilink")発・[始発](../Page/始発.md "wikilink")04時33分 - [終電](../Page/終電.md "wikilink")00時03分
 
   - 発 ・始発05時48分 - 終電0時59分
 
@@ -106,7 +106,7 @@
 <tr class="odd">
 <td><p>KT1、KE1</p></td>
 <td><p>KL Sentral</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KLセントラル駅" title="wikilink">KLセントラル</a></p></td>
+<td><p><a href="../Page/KLセントラル駅.md" title="wikilink">KLセントラル</a></p></td>
 <td><p>0分</p></td>
 <td><p>0分</p></td>
 <td><p>0.0km</p></td>

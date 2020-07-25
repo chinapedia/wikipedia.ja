@@ -20,7 +20,7 @@
   - [1960年](../Page/1960年.md "wikilink")9月30日　[日本プロレス](../Page/日本プロレス.md "wikilink")・[台東区体育館大会で](https://ja.wikipedia.org/wiki/台東リバーサイドスポーツセンター "wikilink")[馬場正平](../Page/ジャイアント馬場.md "wikilink")、[猪木寛至が同日デビュー](../Page/アントニオ猪木.md "wikilink")。
   - [1967年](../Page/1967年.md "wikilink")10月6日　馬場が[吉村道明](../Page/吉村道明.md "wikilink")と組んで保持していた[インターナショナル・タッグ王座](../Page/インターナショナル・タッグ王座.md "wikilink")戦で[カウボーイ・ビル・ワット](https://ja.wikipedia.org/wiki/ビル・ワット "wikilink")&[ターザン・タイラー](../Page/ターザン・タイラー.md "wikilink")に敗れ王座陥落。この試合の後、吉村が王座海外流出阻止のため馬場のパートナーを辞退して代わりに猪木が起用される。
   - 1967年10月31日　[大阪府立体育館で行われたインターナショナル](../Page/大阪府立体育会館.md "wikilink")・タッグ王座戦でワット&タイラーを破りBI砲初の王座戴冠。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")1月8日　[広島県立体育館での防衛戦を猪木が](../Page/広島県立総合体育館.md "wikilink")[広島空港の](../Page/広島西飛行場.md "wikilink")[雪害による閉鎖で会場入りできずに欠場](https://ja.wikipedia.org/wiki/雪#雪害 "wikilink")、王座返上。
+  - [1968年](../Page/1968年.md "wikilink")1月8日　[広島県立体育館での防衛戦を猪木が](../Page/広島県立総合体育館.md "wikilink")[広島空港の](../Page/広島西飛行場.md "wikilink")[雪害による閉鎖で会場入りできずに欠場](https://ja.wikipedia.org/wiki/雪#雪害 "wikilink")、王座返上。
   - 1968年2月3日　空位となったインタータッグ王座の決定戦で[クラッシャー・リソワスキー](../Page/クラッシャー・リソワスキー.md "wikilink")&[ビル・ミラーを破り王座復帰](https://ja.wikipedia.org/wiki/ビル・ミラー_\(プロレスラー\) "wikilink")。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")1月9日　広島県立体育館で[ウィルバー・スナイダー](../Page/ウイルバー・スナイダー.md "wikilink")&[ダニー・ホッジ](../Page/ダニー・ホッジ.md "wikilink")に敗れインタータッグ王座転落。
   - 1969年2月4日　[札幌中島体育センター](https://ja.wikipedia.org/wiki/札幌中島体育センター "wikilink")でスナイダー&ホッジを破り王座復帰。

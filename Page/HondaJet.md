@@ -202,7 +202,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
 </ref>
 
-  - 2015年 [日本航空協会](https://ja.wikipedia.org/wiki/日本航空協会 "wikilink") - 「空の夢賞」<ref>
+  - 2015年 [日本航空協会](../Page/日本航空協会.md "wikilink") - 「空の夢賞」<ref>
 
 </ref>
 

@@ -144,7 +144,7 @@
       - [毎日甲子園ボウル](https://ja.wikipedia.org/wiki/甲子園ボウル#テレビ放送 "wikilink") **G** - BS-TBSでも中継を実施。
       - [週刊サッカー・ナビ](https://ja.wikipedia.org/wiki/週刊サッカー・ナビ "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")制作） **G**
       - [ワールドゴルフマガジン](https://ja.wikipedia.org/wiki/GOLFING_WORLD "wikilink")（GAORA制作） **G**
-      - [FIFAフットボール・ムンディアル](../Page/FIFAフットボール・ムンディアル.md "wikilink")（GAORA・[IMG制作](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")） **G**
+      - [FIFAフットボール・ムンディアル](../Page/FIFAフットボール・ムンディアル.md "wikilink")（GAORA・[IMG制作](../Page/インターナショナル・マネジメント・グループ.md "wikilink")） **G**
       - [グンゼワールドテニス](https://ja.wikipedia.org/wiki/グンゼワールドテニス "wikilink")
       - [オリックス](../Page/オリックス_\(企業\).md "wikilink")→[イトーキ](../Page/イトーキ.md "wikilink")→[カップヌードル](../Page/カップヌードル.md "wikilink")→[サンライズ](../Page/サンライズ_\(ペットフード\).md "wikilink") ハワイアンレディースオープンゴルフ
       - [ソウル国際女子駅伝](https://ja.wikipedia.org/wiki/ソウル国際女子駅伝 "wikilink")
@@ -165,7 +165,7 @@
 
 ### スポーツ関連項目
 
-  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")、[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")、[大阪ドーム](../Page/大阪ドーム.md "wikilink")、[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")、[MBSタイガースライブ](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")、[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")、[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")、[近鉄ライナーズ](../Page/近鉄ライナーズ.md "wikilink")、[神戸製鋼コベルコスティーラーズ](../Page/神戸製鋼コベルコスティーラーズ.md "wikilink")、[長居陸上競技場](../Page/長居陸上競技場.md "wikilink")、[近鉄花園ラグビー場](https://ja.wikipedia.org/wiki/近鉄花園ラグビー場 "wikilink")、[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")
+  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")、[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")、[大阪ドーム](../Page/大阪ドーム.md "wikilink")、[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")、[MBSタイガースライブ](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")、[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")、[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")、[近鉄ライナーズ](../Page/近鉄ライナーズ.md "wikilink")、[神戸製鋼コベルコスティーラーズ](../Page/神戸製鋼コベルコスティーラーズ.md "wikilink")、[長居陸上競技場](../Page/長居陸上競技場.md "wikilink")、[近鉄花園ラグビー場](https://ja.wikipedia.org/wiki/近鉄花園ラグビー場 "wikilink")、[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")
 
 ## バラエティ
 
@@ -183,7 +183,7 @@
       - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（月 23:56 - 翌0:53） **G** - MBS以外は遅れネットで放送されている。
       - [ごぶごぶ](../Page/ごぶごぶ.md "wikilink")（火 23:56 - 翌0:53）
       - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（土 12:54 - 13:54） **G**
-      - [住人十色](https://ja.wikipedia.org/wiki/住人十色 "wikilink")（土 17:00 - 17:30）
+      - [住人十色](../Page/住人十色.md "wikilink")（土 17:00 - 17:30）
   - 関西ローカル
       - [ロボロボ](https://ja.wikipedia.org/wiki/ロボロボ "wikilink")（火 - 金 0:53 - 0:59〈月 - 木深夜〉）
       - [関西発\!才能発掘TV マンモスター](https://ja.wikipedia.org/wiki/関西発!才能発掘TV_マンモスター "wikilink")（火 0:59 - 1:30〈月深夜〉）
@@ -303,13 +303,13 @@
       - [中川家ん\!](../Page/中川家ん!.md "wikilink")
       - [たかじんONE MAN](../Page/たかじんONE_MAN.md "wikilink")
       - [ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")
-      - [よゐこのワケアリ](https://ja.wikipedia.org/wiki/よゐこのワケアリ "wikilink")
+      - [よゐこのワケアリ](../Page/よゐこのワケアリ.md "wikilink")
       - [よゐこ部](../Page/よゐこ部.md "wikilink")
       - [熱血\!テレビ番長](https://ja.wikipedia.org/wiki/熱血!テレビ番長 "wikilink")
       - [女性ホルモン分泌バラエティー 全力☆が〜る](https://ja.wikipedia.org/wiki/女性ホルモン分泌バラエティー_全力☆が〜る "wikilink")
       - [千原ジュニアのまぶしいチカラ](https://ja.wikipedia.org/wiki/千原ジュニアのまぶしいチカラ "wikilink")
       - [パテナの神様\!](https://ja.wikipedia.org/wiki/パテナの神様! "wikilink")
-      - [ロケみつ](https://ja.wikipedia.org/wiki/ロケみつ "wikilink")
+      - [ロケみつ](../Page/ロケみつ.md "wikilink")
       - [メッセンジャー&なるみの大阪ワイドショー](https://ja.wikipedia.org/wiki/メッセンジャー&なるみの大阪ワイドショー "wikilink")
       - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")
   - 関西ローカル
@@ -381,7 +381,7 @@
           - 女の子宣言\! ヒルぽよTV
       - [ここだけの噺](https://ja.wikipedia.org/wiki/ここだけの噺 "wikilink")
       - [おとな会](https://ja.wikipedia.org/wiki/おとな会 "wikilink")
-      - [スキマでジャルジャル](https://ja.wikipedia.org/wiki/スキマでジャルジャル "wikilink")
+      - [スキマでジャルジャル](../Page/スキマでジャルジャル.md "wikilink")
       - [かかあ天下にさせへんで\!](https://ja.wikipedia.org/wiki/かかあ天下にさせへんで! "wikilink")
       - [ナミノリ\!ジェニー](https://ja.wikipedia.org/wiki/ナミノリ!ジェニー "wikilink")
       - [＃ミスコレ](https://ja.wikipedia.org/wiki/＃ミスコレ "wikilink")
@@ -1337,7 +1337,7 @@
   - ☆[モーニングジャンボ奥さま8時半です](../Page/モーニングジャンボ奥さま8時半です.md "wikilink")→☆◇[モーニングEye](../Page/モーニングEye.md "wikilink") - 現在の『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』枠。
   - ☆◇[3時にあいましょう](../Page/3時にあいましょう.md "wikilink")
   - ☆◇[キッチンパトロール](../Page/キッチンパトロール.md "wikilink")
-  - ☆◇[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink") - 現在の『[NEWS23](https://ja.wikipedia.org/wiki/NEWS23#NEWS23（2013年4月1日_-_） "wikilink")』枠。
+  - ☆◇[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink") - 現在の『[NEWS23](https://ja.wikipedia.org/wiki/NEWS23#NEWS23（2013年4月1日_-_） "wikilink")』枠。
   - ☆◇[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink") - 第1シリーズから第3シリーズまで。
   - ★◇[そこが知りたい](../Page/そこが知りたい.md "wikilink")
   - ☆[明日がござる](../Page/明日がござる.md "wikilink")
@@ -1491,7 +1491,7 @@
 
 ### 夜間
 
-  - 夜間にはダイジェスト番組（題名は『センバツダイジェスト』→『球春センバツ甲子園』→『センバツバーニングスタジアム』→『[みんなの甲子園](../Page/みんなの甲子園.md "wikilink")』と遍歴を重ねる）を行っているが、この番組は[JNNニュース最終便終了後の自社制作バラエティの枠内で放送されているため](https://ja.wikipedia.org/wiki/TBSテレビ系列深夜ニュース枠 "wikilink")、大会期間中はこれらの番組は2011年までは休止されていたが、2012年度は開催期間中もダイジェスト番組の終了後、原則時間を繰り下げて放送される。
+  - 夜間にはダイジェスト番組（題名は『センバツダイジェスト』→『球春センバツ甲子園』→『センバツバーニングスタジアム』→『[みんなの甲子園](../Page/みんなの甲子園.md "wikilink")』と遍歴を重ねる）を行っているが、この番組は[JNNニュース最終便終了後の自社制作バラエティの枠内で放送されているため](../Page/TBSテレビ系列深夜ニュース枠.md "wikilink")、大会期間中はこれらの番組は2011年までは休止されていたが、2012年度は開催期間中もダイジェスト番組の終了後、原則時間を繰り下げて放送される。
   - このダイジェスト番組は基本的に関西ローカルの番組となる（TBS\[14\]などJNN系列局・[BS-TBS](../Page/BS-TBS.md "wikilink")・[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")といったTBS系列の衛星放送でもでは基本的には放送されない。GAORAでは基本的に翌朝の第1試合前放送）。また、土曜の『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』は放送時間が変更される。その後の深夜1時台以降のアンコールアワーの時間帯も「春休みシネマスペシャル」と題した映画の放送枠に当てられ、通常番組は休止となるものもある。TBSでもこの期間は[番組改編](https://ja.wikipedia.org/wiki/番組改編 "wikilink")期ということもあり、23:55枠と0:25からの『[オビラジR](../Page/オビラジR.md "wikilink")』を休止し、特別番組を組んでいる（その場合、一部の番組はでも時差ネットを行う）。
 
 ## 関連項目

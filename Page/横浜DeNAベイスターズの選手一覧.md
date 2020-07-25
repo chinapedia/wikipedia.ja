@@ -93,7 +93,7 @@
 | 背番号 | 選手名                                                   | 投 | 打 | 備考          |
 | --- | ----------------------------------------------------- | - | - | ----------- |
 | 10  | [戸柱恭孝](https://ja.wikipedia.org/wiki/戸柱恭孝 "wikilink") | 右 | 左 |             |
-| 29  | [伊藤光](https://ja.wikipedia.org/wiki/伊藤光 "wikilink")   | 右 | 右 |             |
+| 29  | [伊藤光](../Page/伊藤光.md "wikilink")                      | 右 | 右 |             |
 | 32  | [益子京右](https://ja.wikipedia.org/wiki/益子京右 "wikilink") | 右 | 右 |             |
 | 36  | [高城俊人](https://ja.wikipedia.org/wiki/高城俊人 "wikilink") | 右 | 右 | オリックスから移籍   |
 | 39  | [嶺井博希](https://ja.wikipedia.org/wiki/嶺井博希 "wikilink") | 右 | 右 |             |
@@ -179,7 +179,7 @@
   - [新井昌則](https://ja.wikipedia.org/wiki/新井昌則 "wikilink")（1967 - 1971）
   - [荒井幸雄](../Page/荒井幸雄.md "wikilink")（1998 - 2000）
   - [荒川昇治](../Page/荒川昇治.md "wikilink")（1952 - 1954）
-  - [荒川尭](../Page/荒川尭.md "wikilink")（1970途 - 終了）※[荒川事件](https://ja.wikipedia.org/wiki/荒川事件 "wikilink")に伴い、翌年[サンケイアトムズに移籍する前提での入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")。
+  - [荒川尭](../Page/荒川尭.md "wikilink")（1970途 - 終了）※[荒川事件](../Page/荒川事件.md "wikilink")に伴い、翌年[サンケイアトムズに移籍する前提での入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")。
   - [荒木健治](https://ja.wikipedia.org/wiki/荒木健治 "wikilink")（1950）
   - [荒木茂](https://ja.wikipedia.org/wiki/荒木茂_\(野球\) "wikilink")（1950 - 1952）
   - [荒木大輔](https://ja.wikipedia.org/wiki/荒木大輔 "wikilink")（1996）
@@ -248,7 +248,7 @@
   - [岩岡保宏](https://ja.wikipedia.org/wiki/岩岡保宏 "wikilink")（1956 - 1962）
   - [岩下正明](../Page/岩下正明.md "wikilink")（1988）
   - [岩本尭](../Page/岩本尭.md "wikilink")（1959 - 1961）
-  - [岩本信一](https://ja.wikipedia.org/wiki/岩本信一 "wikilink")（1950）
+  - [岩本信一](../Page/岩本信一.md "wikilink")（1950）
   - [岩本守道](https://ja.wikipedia.org/wiki/岩本守道 "wikilink")（1991 - 1997）
   - [岩本泰英](https://ja.wikipedia.org/wiki/岩本泰英 "wikilink")（1961 - 1962）
   - [岩本義行](../Page/岩本義行.md "wikilink")（1950 - 1954）
@@ -637,7 +637,7 @@
   - [ジョン・ズーバー](../Page/ジョン・ズーバー.md "wikilink")（2001）
   - [杉浦清](../Page/杉浦清.md "wikilink")（1951）
   - [杉浦幸二](../Page/杉浦幸二.md "wikilink")（1985 - 1991）
-  - [杉浦正幸](https://ja.wikipedia.org/wiki/杉浦竜太郎 "wikilink")（1955）
+  - [杉浦正幸](../Page/杉浦竜太郎.md "wikilink")（1955）
   - [杉川喜久雄](https://ja.wikipedia.org/wiki/杉川喜久雄 "wikilink")（1952 - 1956）
   - [杉永政信](../Page/杉永政信.md "wikilink")（1980 - 1985）
   - [杉原洋](../Page/杉原洋.md "wikilink")（2010 - 2011）
@@ -762,7 +762,7 @@
   - [谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")（1989 - 2001）
   - [谷野彰](https://ja.wikipedia.org/wiki/谷野彰 "wikilink")（1957 - 1959）
   - [種田仁](../Page/種田仁.md "wikilink")（2001途 - 2007）
-  - [種田弘](https://ja.wikipedia.org/wiki/種田弘 "wikilink")（1950 - 1952途）
+  - [種田弘](../Page/種田弘.md "wikilink")（1950 - 1952途）
   - [田村丈](https://ja.wikipedia.org/wiki/田村丈 "wikilink")（2016 - 2019）
   - [多村仁志](https://ja.wikipedia.org/wiki/多村仁志 "wikilink")（1995 - 2006・2013 - 2015）
   - [田村政雄](../Page/田村政雄.md "wikilink")（1976 - 1978）
@@ -807,7 +807,7 @@
 <!-- end list -->
 
   - [手沢庄司](../Page/手沢庄司.md "wikilink")（1953 - 1954）
-  - [手塚明治](https://ja.wikipedia.org/wiki/手塚明治 "wikilink")（1955 - 1956）
+  - [手塚明治](../Page/手塚明治.md "wikilink")（1955 - 1956）
   - [寺島公](https://ja.wikipedia.org/wiki/寺島公 "wikilink")（1950 - 1951）
   - [寺田克己](https://ja.wikipedia.org/wiki/寺田克己 "wikilink")（1955）
   - [寺田光輝](https://ja.wikipedia.org/wiki/寺田光輝 "wikilink")（2018 - 2019）
@@ -971,7 +971,7 @@
 
   - [ジェームス・ピータース](../Page/ジェームス・ピータース.md "wikilink")（1981 - 1982）
   - [ラリー・ビグビー](../Page/ラリー・ビグビー.md "wikilink")（2008）
-  - [引地信之](https://ja.wikipedia.org/wiki/引地信之 "wikilink")（1952 - 1959）
+  - [引地信之](../Page/引地信之.md "wikilink")（1952 - 1959）
   - [日野善朗](../Page/日野善朗.md "wikilink")（1985 - 1991）
   - [トラビス・ヒューズ](../Page/トラビス・ヒューズ.md "wikilink")（2008 - 2008途）
   - [平岡一郎](../Page/平岡一郎.md "wikilink")（1965 - 1969・1971 - 1975）
@@ -979,7 +979,7 @@
   - [平田薫](../Page/平田薫_\(野球\).md "wikilink")（1985 - 1987）
   - [平塚克洋](../Page/平塚克洋.md "wikilink")（1990 - 1993）
   - [平野克明](https://ja.wikipedia.org/wiki/平野克明 "wikilink")（1964）
-  - [平野謙二](https://ja.wikipedia.org/wiki/平野謙二 "wikilink")（1953 - 1954）
+  - [平野謙二](../Page/平野謙二.md "wikilink")（1953 - 1954）
   - [平野洋司](https://ja.wikipedia.org/wiki/平野洋司 "wikilink")（1963 - 1964）
   - [平松政次](../Page/平松政次.md "wikilink")（1967途 - 1984）
   - [平山菊二](../Page/平山菊二.md "wikilink")（1950 - 1953）
@@ -1084,7 +1084,7 @@
   - [松浦宏明](../Page/松浦宏明.md "wikilink")（1995途 - 終了）
   - [松枝三男](https://ja.wikipedia.org/wiki/松枝三男 "wikilink")（1970 - 1972）
   - [松岡一郎](https://ja.wikipedia.org/wiki/松岡一郎 "wikilink")（1953 - 1954）
-  - [松岡功祐](https://ja.wikipedia.org/wiki/松岡功祐 "wikilink")（1967 - 1977）
+  - [松岡功祐](../Page/松岡功祐.md "wikilink")（1967 - 1977）
   - [松家卓弘](../Page/松家卓弘.md "wikilink")（2005 - 2009）
   - [眞下貴之](https://ja.wikipedia.org/wiki/眞下貴之 "wikilink")（2010 - 2014）
   - [ジム・マック](https://ja.wikipedia.org/wiki/ジム・マクマナス "wikilink")（1962 - 1963）
@@ -1131,17 +1131,17 @@
   - [南竜介](../Page/南竜介.md "wikilink")（2000 - 2006途）
   - [峰国安](https://ja.wikipedia.org/wiki/峰国安 "wikilink")（1959 - 1968）
   - [三野勝大](../Page/三野勝大.md "wikilink")（1999途 - 2001）
-  - [三平晴樹](https://ja.wikipedia.org/wiki/三平晴樹 "wikilink")（1963）
+  - [三平晴樹](../Page/三平晴樹.md "wikilink")（1963）
   - [フェリックス・ミヤーン](../Page/フェリックス・ミヤーン.md "wikilink")（1978 - 1980）
   - [宮内洋](../Page/宮内洋_\(野球\).md "wikilink")（1998 - 2001）
   - [宮川一彦](../Page/宮川一彦.md "wikilink")（1991 - 1999）
-  - [宮崎仁郎](https://ja.wikipedia.org/wiki/宮崎仁郎 "wikilink")（1953）
+  - [宮崎仁郎](../Page/宮崎仁郎.md "wikilink")（1953）
   - [宮崎剛](../Page/宮崎剛_\(野球\).md "wikilink")（1950 - 1955）
   - [宮崎元忠](https://ja.wikipedia.org/wiki/宮崎元忠 "wikilink")（1961 - 1964）
   - [宮里太](../Page/宮里太.md "wikilink")（1989 - 1997）
   - [宮沢重雄](https://ja.wikipedia.org/wiki/宮沢重雄 "wikilink")（1957 - 1958）
   - [宮下正彦](../Page/宮下正彦.md "wikilink")（1987 - 1991）
-  - [宮原秀明](https://ja.wikipedia.org/wiki/宮原秀明 "wikilink")（1973）
+  - [宮原秀明](../Page/宮原秀明.md "wikilink")（1973）
   - [宮本和佳](https://ja.wikipedia.org/wiki/宮本和佳 "wikilink")（1958 - 1962）
   - [宮本四郎](../Page/宮本四郎.md "wikilink")（1975 - 1980）
   - [宮本幸信](../Page/宮本幸信.md "wikilink")（1980）
@@ -1167,7 +1167,7 @@
 
 <!-- end list -->
 
-  - [目時春雄](https://ja.wikipedia.org/wiki/目時春雄 "wikilink")（1953 - 1958）
+  - [目時春雄](../Page/目時春雄.md "wikilink")（1953 - 1958）
   - [ルー・メローニ](../Page/ルー・メローニ.md "wikilink")（2000 - 2000途）
 
 <!-- end list -->
@@ -1320,7 +1320,7 @@
   - [若菜嘉晴](../Page/若菜嘉晴.md "wikilink")（1983途 - 1988）
   - [若林憲一](../Page/若林憲一.md "wikilink")（1972 - 1981）
   - [若生照元](https://ja.wikipedia.org/wiki/若生照元 "wikilink")（1960 - 1963）
-  - [渡辺清](https://ja.wikipedia.org/wiki/渡辺清_\(野球\) "wikilink")（1960 - 1961）
+  - [渡辺清](../Page/渡辺清_\(野球\).md "wikilink")（1960 - 1961）
   - [渡辺省吾](https://ja.wikipedia.org/wiki/渡辺省吾 "wikilink")（1973 - 1974）
   - [渡辺誠太郎](../Page/渡辺誠太郎.md "wikilink")（1951）
   - [渡辺庸](https://ja.wikipedia.org/wiki/渡辺庸 "wikilink")（1954）

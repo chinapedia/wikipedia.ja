@@ -61,7 +61,7 @@ VNC状態になると知られている種:\[1\]
   - *[Enterococcus hirae](https://ja.wikipedia.org/wiki/w:Enterococcus_hirae "wikilink")*
   - *[Enterococcus faecium](https://ja.wikipedia.org/wiki/w:Enterococcus_faecium "wikilink")*
   - *[Erwinia amylovora](https://ja.wikipedia.org/wiki/w:Erwinia_amylovora "wikilink")*（[火傷病](../Page/火傷病.md "wikilink")菌）
-  - *[Escherichia coli](https://ja.wikipedia.org/wiki/w:Escherichia_coli "wikilink")*（[大腸菌](../Page/大腸菌.md "wikilink")） ([EHEC](https://ja.wikipedia.org/wiki/w:Escherichia_coli_O157:H7 "wikilink")（[病原性大腸菌](https://ja.wikipedia.org/wiki/病原性大腸菌 "wikilink")）を含む。)
+  - *[Escherichia coli](https://ja.wikipedia.org/wiki/w:Escherichia_coli "wikilink")*（[大腸菌](../Page/大腸菌.md "wikilink")） ([EHEC](https://ja.wikipedia.org/wiki/w:Escherichia_coli_O157:H7 "wikilink")（[病原性大腸菌](../Page/病原性大腸菌.md "wikilink")）を含む。)
   - *[Francisella tularensis](https://ja.wikipedia.org/wiki/w:Francisella_tularensis "wikilink")*
   - *[Helicobacter pylori](https://ja.wikipedia.org/wiki/w:Helicobacter_pylori "wikilink")*（[ヘリコバクター・ピロリ](../Page/ヘリコバクター・ピロリ.md "wikilink")）
   - *[Klebsiella aerogenes](https://ja.wikipedia.org/wiki/w:Klebsiella_aerogenes "wikilink")*

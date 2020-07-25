@@ -15,7 +15,7 @@
 
 [16ビットパソコン](https://ja.wikipedia.org/wiki/16ビットパソコン "wikilink")時代になると、3Dゴルフシミュレーションを引き継いだ[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[11月](../Page/11月.md "wikilink")に発売した[ゴルフ](../Page/ゴルフ.md "wikilink")ゲーム・[遙かなるオーガスタ](../Page/遙かなるオーガスタ.md "wikilink")シリーズが看板作品になる。3D表示システム「POLYSYS（ポリシス）」を使用し、発表当時にこのシステムで「10年は食う」と公言していた。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に経営難の[クリスタルソフト](../Page/クリスタルソフト.md "wikilink")（XTALSOFT）を救済合併し、**T\&E SOFT大阪開発部**を設立。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）3月に[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")（現[ユニバーサル ミュージック日本法人](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト「ハイドライド・スペシャル」の開発で[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")へ参入。1990年（平成2年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト「[地球解放軍ジ・アース](https://ja.wikipedia.org/wiki/地球解放軍ジアース "wikilink")」から自社ブランド販売でのコンシューマ参入を開始した。 [1991年](../Page/1991年.md "wikilink")（平成3年）4月に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト「NEW 3D GOLF SIMULATION1[遙かなるオーガスタ](../Page/遙かなるオーガスタ.md "wikilink")」がスマッシュヒットしたことから、徐々にパソコンから家庭用ゲーム機へと活動を移行させた。
+[1986年](../Page/1986年.md "wikilink")（昭和61年）3月に[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")（現[ユニバーサル ミュージック日本法人](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト「ハイドライド・スペシャル」の開発で[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")へ参入。1990年（平成2年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト「[地球解放軍ジ・アース](https://ja.wikipedia.org/wiki/地球解放軍ジアース "wikilink")」から自社ブランド販売でのコンシューマ参入を開始した。 [1991年](../Page/1991年.md "wikilink")（平成3年）4月に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト「NEW 3D GOLF SIMULATION1[遙かなるオーガスタ](../Page/遙かなるオーガスタ.md "wikilink")」がスマッシュヒットしたことから、徐々にパソコンから家庭用ゲーム機へと活動を移行させた。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）に資金難で、横山兄弟の旧知の仲の[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス・ホールディングス](https://ja.wikipedia.org/wiki/スクウェア・エニックス・ホールディングス "wikilink")）のオーナー、[宮本雅史が資金援助をする代わりに筆頭株主となり](../Page/宮本雅史_\(投資家\).md "wikilink")、後にスクウェア自身も出資する形で兄弟会社になる。
 
@@ -46,7 +46,7 @@
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）1月 - **T\&E SOFTユーザーズクラブ発足**。会報紙「**T\&E PRESS**」創刊。（1990年7月運営終了）
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）10月 - **クリスタルソフト株式会社**と合併、**大阪開発部**を設立。
   - [1993年](../Page/1993年.md "wikilink")（平成5年）5月 - 本社を名古屋市名東区照が丘に移転。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）2月 - 株式を[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")の店頭銘柄として登録。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）2月 - 株式を[日本証券業協会](../Page/日本証券業協会.md "wikilink")の店頭銘柄として登録。
   - 1995年（平成7年）4月 - 大阪開発部を[大阪市](../Page/大阪市.md "wikilink")[淀川区](../Page/淀川区.md "wikilink")西宮原に移転。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）10月 - 本社を[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に移転。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）5月 - **株式会社ディーワンダーランド**に社名を変更。
@@ -100,7 +100,7 @@
       - 7月 [惑星メフィウス](https://ja.wikipedia.org/wiki/惑星メフィウス "wikilink") VHD版（[日本ビクターより発売](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）
       - 9月 ピクセル2
       - 12月 ハイドライドII シャイン オブ ダークネス
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
       - 2月 [レイドック](../Page/レイドック.md "wikilink")
       - 3月 ハイドライド・スペシャル [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")版（東芝EMIより発売）
       - 12月 [DAIVA](../Page/DAIVA.md "wikilink") STORY6 ナーサティアの玉座（東芝EMIより発売）

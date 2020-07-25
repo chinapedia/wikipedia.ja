@@ -49,7 +49,7 @@
 
 ## 来日履歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") プロモーション来日。音楽雑誌のインタビューなど。
+  - [1986年](../Page/1986年.md "wikilink") プロモーション来日。音楽雑誌のインタビューなど。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") アフターバーナー・ツアー。2月17日 [日本武道館](../Page/日本武道館.md "wikilink")、2月18日 [横浜文化体育館](../Page/横浜文化体育館.md "wikilink")、[大阪城ホール](../Page/大阪城ホール.md "wikilink")
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") [軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink") [ホンダ・Z](../Page/ホンダ・Z.md "wikilink")のTVCMに出演（来日はしていない）。
   - [1999年](../Page/1999年.md "wikilink") [フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")'99 出演。

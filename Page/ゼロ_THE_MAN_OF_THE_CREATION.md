@@ -474,7 +474,7 @@
   - 251　[ゴッホ](../Page/フィンセント・ファン・ゴッホ.md "wikilink")「絶望する[自画像](../Page/自画像.md "wikilink")」
   - 252　[ルイ16世の呪われた錠と鍵](https://ja.wikipedia.org/wiki/ルイ16世_\(フランス王\) "wikilink")
   - 253　未完「[黄金時代](../Page/黄金時代.md "wikilink")」
-  - 254　[曜変天目茶碗](https://ja.wikipedia.org/wiki/曜変天目茶碗 "wikilink")
+  - 254　[曜変天目茶碗](../Page/曜変天目茶碗.md "wikilink")
   - 255　Joyeux Noël\!
 
 （第40巻）
@@ -636,7 +636,7 @@
   - 340　[サン＝テグジュペリ](../Page/アントワーヌ・ド・サン＝テグジュペリ.md "wikilink") ラスト・フライト
   - 341　[赤い髪の女](../Page/黒田清輝.md "wikilink")
   - 342　[シークレットサービスの苦悩](../Page/アメリカ合衆国シークレットサービス.md "wikilink")
-  - 343　悲劇の美 [HANAKO](https://ja.wikipedia.org/wiki/花子_\(女優\) "wikilink")
+  - 343　悲劇の美 [HANAKO](../Page/花子_\(女優\).md "wikilink")
   - 344　100年の[カレーライス](../Page/カレーライス.md "wikilink")
   - 345　ビューイックを手にした男
 

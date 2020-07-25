@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1982年](../Page/1982年.md "wikilink")から製造販売されていたロードスポーツモデルの[VFシリーズが](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月に実施した[フルモデルチェンジに併せて車名も変更したのが本シリーズであり](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")、以下のコンセプトが提案された。
+[1982年](../Page/1982年.md "wikilink")から製造販売されていたロードスポーツモデルの[VFシリーズが](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")、[1986年](../Page/1986年.md "wikilink")4月に実施した[フルモデルチェンジに併せて車名も変更したのが本シリーズであり](https://ja.wikipedia.org/wiki/モデルチェンジ_\(自動車\) "wikilink")、以下のコンセプトが提案された。
 
   - 当時競技専用車両であった[RVFシリーズ](../Page/ホンダ・RVF.md "wikilink")\[1\]から、レースで培われ実証された数々の最新技術をフィードバック\[2\]。
   - 走行性能ならびに「ライダーの快適性と人車一体感を追求したスーパーエアロフォルム\[3\]」が目指す快適性とクオリティを高次元で調和\[4\]。

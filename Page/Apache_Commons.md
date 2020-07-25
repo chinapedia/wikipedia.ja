@@ -30,10 +30,10 @@ Commons Proper の一般カテゴリ一覧
   - BCEL - [Javaバイトコード](https://ja.wikipedia.org/wiki/Javaバイトコード "wikilink")を扱うライブラリ。
   - BeanUtils - [Java Beansをサポート](https://ja.wikipedia.org/wiki/Java_Beans "wikilink")。
   - BSF
-  - Chain - [GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")[デザインパターンの一つ](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")、[Chain of Responsibility パターンをサポート](https://ja.wikipedia.org/wiki/Chain_of_Responsibility_パターン "wikilink")。
+  - Chain - [GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")[デザインパターンの一つ](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")、[Chain of Responsibility パターンをサポート](../Page/Chain_of_Responsibility_パターン.md "wikilink")。
   - CLI
   - Codec
-  - [Collections](https://ja.wikipedia.org/wiki/Apache_Commons_Collections "wikilink") - [java.util](https://ja.wikipedia.org/wiki/java.util "wikilink")パッケージにある[コレクションフレームワーク](https://ja.wikipedia.org/wiki/コレクションフレームワーク "wikilink")を拡張するクラス群。
+  - [Collections](../Page/Apache_Commons_Collections.md "wikilink") - [java.util](https://ja.wikipedia.org/wiki/java.util "wikilink")パッケージにある[コレクションフレームワーク](https://ja.wikipedia.org/wiki/コレクションフレームワーク "wikilink")を拡張するクラス群。
   - Compress - [tar](https://ja.wikipedia.org/wiki/tar "wikilink"), [ZIP](https://ja.wikipedia.org/wiki/ZIP "wikilink"), [bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")をサポート。
   - Configuration - クラスのような設定ファイルを弄るクラス群。
   - CSV
@@ -43,7 +43,7 @@ Commons Proper の一般カテゴリ一覧
   - Digester
   - Discovery
   - EL
-  - [Email](https://ja.wikipedia.org/wiki/Apache_Commons_Email "wikilink") - [メールライブラリ](../Page/電子メール.md "wikilink")
+  - [Email](../Page/Apache_Commons_Email.md "wikilink") - [メールライブラリ](../Page/電子メール.md "wikilink")
   - Exec
   - FileUpload - [Java Servlet](../Page/Java_Servlet.md "wikilink")/[JSPでのファイルアップロードをサポート](../Page/JavaServer_Pages.md "wikilink")。
   - [IO](https://ja.wikipedia.org/wiki/Apache_Commons_IO "wikilink") - [java.io](https://ja.wikipedia.org/wiki/java.io "wikilink")パッケージをサポート。
@@ -51,7 +51,7 @@ Commons Proper の一般カテゴリ一覧
   - Jelly
   - Jexl
   - JXPath
-  - [Lang](https://ja.wikipedia.org/wiki/Apache_Commons_Lang "wikilink") - [java.lang](https://ja.wikipedia.org/wiki/java.lang "wikilink")パッケージを拡張する。StringUtilsほか、, , , [メソッド](https://ja.wikipedia.org/wiki/メソッド "wikilink")の[オーバーライド](../Page/オーバーライド.md "wikilink")を支援するクラスなどが存在する。
+  - [Lang](../Page/Apache_Commons_Lang.md "wikilink") - [java.lang](https://ja.wikipedia.org/wiki/java.lang "wikilink")パッケージを拡張する。StringUtilsほか、, , , [メソッド](https://ja.wikipedia.org/wiki/メソッド "wikilink")の[オーバーライド](../Page/オーバーライド.md "wikilink")を支援するクラスなどが存在する。
   - Launcher
   - Logging - ひとつのプログラムで[Java Logging API](https://ja.wikipedia.org/wiki/Java_Logging_API "wikilink")([java.util.logging](https://ja.wikipedia.org/wiki/java.util.logging "wikilink")パッケージ)や[Jakarta Log4Jを併用し](https://ja.wikipedia.org/wiki/Jakarta_Log4J "wikilink")、簡単に複数の[ロギング](https://ja.wikipedia.org/wiki/ロギング "wikilink")APIを切り替えるときに便利なAPI。
   - [Math](../Page/Apache_Commons_Math.md "wikilink") - クラスや[java.math](https://ja.wikipedia.org/wiki/java.math "wikilink")パッケージにはない数学ライブラリを提供。[複素数](../Page/複素数.md "wikilink")や[行列](https://ja.wikipedia.org/wiki/行列 "wikilink")演算、[統計学](../Page/統計学.md "wikilink")などのライブラリが揃っている。
@@ -93,7 +93,7 @@ public String toString() {
 
 ### Commons Collections
 
-[Apache Commons Collections](https://ja.wikipedia.org/wiki/Apache_Commons_Collections "wikilink") には、主に、java.util の Collection 関係の拡張した物が入っている。
+[Apache Commons Collections](../Page/Apache_Commons_Collections.md "wikilink") には、主に、java.util の Collection 関係の拡張した物が入っている。
 
 #### 例
 

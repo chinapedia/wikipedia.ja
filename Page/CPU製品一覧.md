@@ -236,9 +236,9 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
       - [Pentium Extreme Edition](../Page/Pentium_Extreme_Edition.md "wikilink") - 2005年
       - [Intel Core](../Page/Intel_Core.md "wikilink") - [2006年](../Page/2006年.md "wikilink")
       - [Intel Core 2](../Page/Intel_Core_2.md "wikilink") - [2006年](../Page/2006年.md "wikilink")
-      - [Intel A100](https://ja.wikipedia.org/wiki/Intel_A100 "wikilink") - [2007年](../Page/2007年.md "wikilink")
+      - [Intel A100](../Page/Intel_A100.md "wikilink") - [2007年](../Page/2007年.md "wikilink")
       - [Pentium Dual-Core](../Page/Pentium_Dual-Core.md "wikilink") - 2007年 これ以後の“Pentium”はCeleronとCoreの間に位置づけられた*ブランド*
-      - [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
+      - [Intel Atom](../Page/Intel_Atom.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [Intel Core i7](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
   - [IA-64](../Page/IA-64.md "wikilink")
       - [Itanium](../Page/Itanium.md "wikilink") - [2001年](../Page/2001年.md "wikilink")
@@ -334,7 +334,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
 ### ヒューレット・パッカード
 
-  - [PA-RISC](../Page/PA-RISC.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [PA-RISC](../Page/PA-RISC.md "wikilink") - [1986年](../Page/1986年.md "wikilink")
       - PA-RISC7200 - [1994年](../Page/1994年.md "wikilink")
       - PA-RISC8000 - [1996年](../Page/1996年.md "wikilink")
 
@@ -359,7 +359,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
 ### ミップス・テクノロジーズ
 
-  - [R2000](../Page/R2000.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [R2000](../Page/R2000.md "wikilink") - [1986年](../Page/1986年.md "wikilink")
   - [R3000](../Page/R3000.md "wikilink")
   - MIPS64
       - [R4000](https://ja.wikipedia.org/wiki/R4000 "wikilink") - [1991年](../Page/1991年.md "wikilink")

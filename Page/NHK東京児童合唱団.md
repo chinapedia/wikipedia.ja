@@ -220,7 +220,7 @@
 
   - [歌のメリーゴーランド](https://ja.wikipedia.org/wiki/歌のメリーゴーランド "wikilink")
   - [ワンツー・どん](../Page/ワンツー・どん.md "wikilink")
-  - [うたって・ゴー](https://ja.wikipedia.org/wiki/うたって・ゴー "wikilink")
+  - [うたって・ゴー](../Page/うたって・ゴー.md "wikilink")
   - [ふえはうたう](https://ja.wikipedia.org/wiki/ふえはうたう "wikilink")
   - [まちかどド・レ・ミ](../Page/まちかどド・レ・ミ.md "wikilink")
   - [歌えリコーダー](https://ja.wikipedia.org/wiki/歌えリコーダー "wikilink")
@@ -228,7 +228,7 @@
 ## レコード
 
   - N児をメインにしたアルバムは、[キングレコード](../Page/キングレコード.md "wikilink")から出された下記の2枚しか制作されていない。後にCD復刻されている。
-      - 「NHK東京放送児童合唱団 ぼくらのリサイタル」（指揮：[荒谷俊治](https://ja.wikipedia.org/wiki/荒谷俊治 "wikilink")、伴奏：[プロコルデ室内楽団](https://ja.wikipedia.org/wiki/プロコルデ室内楽団 "wikilink")、[日本合奏団](https://ja.wikipedia.org/wiki/日本合奏団 "wikilink")、ピアノ伴奏：[三浦みどり](https://ja.wikipedia.org/wiki/三浦みどり "wikilink")、[井上二葉](../Page/井上二葉.md "wikilink")）
+      - 「NHK東京放送児童合唱団 ぼくらのリサイタル」（指揮：[荒谷俊治](../Page/荒谷俊治.md "wikilink")、伴奏：[プロコルデ室内楽団](https://ja.wikipedia.org/wiki/プロコルデ室内楽団 "wikilink")、[日本合奏団](https://ja.wikipedia.org/wiki/日本合奏団 "wikilink")、ピアノ伴奏：[三浦みどり](https://ja.wikipedia.org/wiki/三浦みどり "wikilink")、[井上二葉](../Page/井上二葉.md "wikilink")）
       - 「NHK東京放送児童合唱団 ぼくらのリサイタル2」（指揮：[岩城宏之](../Page/岩城宏之.md "wikilink")、伴奏：プロコルデ室内楽団）
 
 ## かつて共演した団体、指揮者、声楽家、著名人
@@ -352,7 +352,7 @@
   - [三善晃](../Page/三善晃.md "wikilink")
   - [北爪道夫](../Page/北爪道夫.md "wikilink")
   - [池辺晋一郎](../Page/池辺晋一郎.md "wikilink")
-  - [鷹羽弘晃](https://ja.wikipedia.org/wiki/鷹羽弘晃 "wikilink")
+  - [鷹羽弘晃](../Page/鷹羽弘晃.md "wikilink")
   - [信長貴富](../Page/信長貴富.md "wikilink")
   - [鈴木輝昭](../Page/鈴木輝昭.md "wikilink")
   - [糀場富美子](https://ja.wikipedia.org/wiki/糀場富美子 "wikilink")

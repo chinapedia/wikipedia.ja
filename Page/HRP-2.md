@@ -50,7 +50,7 @@
   - [Gynoid](https://ja.wikipedia.org/wiki/Gynoid "wikilink")
   - [REEM-B](https://ja.wikipedia.org/wiki/REEM-B "wikilink")
   - [ASIMO](../Page/ASIMO.md "wikilink")
-  - [HUBO](https://ja.wikipedia.org/wiki/HUBO "wikilink")
+  - [HUBO](../Page/HUBO.md "wikilink")
   - [KHR-1](https://ja.wikipedia.org/wiki/KHR-1 "wikilink")
 
 ## 外部リンク

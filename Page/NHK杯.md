@@ -13,7 +13,7 @@
   - NHK杯カーリング選手権
   - [NHK杯全日本カヌースラローム競技大会](https://ja.wikipedia.org/wiki/NHK杯全日本カヌースラローム競技大会 "wikilink")
   - [全日本選抜ボウリング選手権大会](../Page/全日本選抜ボウリング選手権大会.md "wikilink")
-  - [NHK杯全国中学校放送コンテスト](https://ja.wikipedia.org/wiki/NHK杯全国中学校放送コンテスト "wikilink")
+  - [NHK杯全国中学校放送コンテスト](../Page/NHK杯全国中学校放送コンテスト.md "wikilink")
   - [NHK杯全国高等学校放送コンテスト](https://ja.wikipedia.org/wiki/NHK杯全国高等学校放送コンテスト "wikilink")
   - [NHK全国大学放送コンテスト](../Page/NHK全国大学放送コンテスト.md "wikilink")
   - [NHK全国学校音楽コンクール](../Page/NHK全国学校音楽コンクール.md "wikilink")
@@ -49,5 +49,5 @@
 
 [Category:トロフィー](https://ja.wikipedia.org/wiki/Category:トロフィー "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink")
 
-1.  [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")の元日に[NHK元日サッカー大会が](https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会#NHK杯 "wikilink")1回だけ行われた。その後[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")から天皇杯決勝戦が定着。
+1.  [1968年](../Page/1968年.md "wikilink")の元日に[NHK元日サッカー大会が](https://ja.wikipedia.org/wiki/天皇杯_JFA_全日本サッカー選手権大会#NHK杯 "wikilink")1回だけ行われた。その後[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")から天皇杯決勝戦が定着。
 2.  [NHK杯 輝け！！全日本“大失敗”選手権大会 ～みんながでるテレビ～](http://www4.nhk.or.jp/daishippai-tv/) NHKオンライン

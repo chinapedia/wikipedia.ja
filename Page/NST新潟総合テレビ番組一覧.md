@@ -162,7 +162,7 @@
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")（[1974年](../Page/1974年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に打ち切り）
   - [銭形平次 (大川橋蔵)](../Page/銭形平次_\(大川橋蔵\).md "wikilink")（1976年4月BSNより移行）
   - [華麗なる刑事](../Page/華麗なる刑事.md "wikilink")
-  - [〜ジョーデキ\!POP COMPANY〜POP屋](https://ja.wikipedia.org/wiki/〜ジョーデキ!POP_COMPANY〜POP屋 "wikilink")
+  - [〜ジョーデキ\!POP COMPANY〜POP屋](../Page/〜ジョーデキ!POP_COMPANY〜POP屋.md "wikilink")
   - [おもしろ言葉ゲーム OMOJAN](https://ja.wikipedia.org/wiki/おもしろ言葉ゲーム_OMOJAN "wikilink")
   - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [世界は言葉でできている](https://ja.wikipedia.org/wiki/世界は言葉でできている "wikilink")

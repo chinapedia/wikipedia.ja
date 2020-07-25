@@ -1452,7 +1452,7 @@ VICL-63932</p></td>
 
 :\***2019年**
 
-:\*\* [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「ANA SUPER VALUE」（6月）
+:\*\* [全日本空輸](../Page/全日本空輸.md "wikilink")「ANA SUPER VALUE」（6月）
 
 :\*\* [サンヨー食品](../Page/サンヨー食品.md "wikilink")「[サッポロ一番](https://ja.wikipedia.org/wiki/サッポロ一番 "wikilink") [カップスター](https://ja.wikipedia.org/wiki/カップスター "wikilink") ダンス篇」（9月）
 

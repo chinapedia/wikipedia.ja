@@ -30,7 +30,7 @@
 
   - [1981年](../Page/1981年.md "wikilink")8月 - [有限会社](../Page/有限会社.md "wikilink")ノヴァ企画を設立。
   - 1981年9月 - [心斎橋](../Page/心斎橋.md "wikilink")に初出店。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月 - 東京進出開始。以後、関東・関西一円に拠店展開してゆく。
+  - [1986年](../Page/1986年.md "wikilink")1月 - 東京進出開始。以後、関東・関西一円に拠店展開してゆく。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月 - 株式会社ノヴァを設立。
   - [1992年](../Page/1992年.md "wikilink")4月 - こども英会話をスタート。
   - [1999年](../Page/1999年.md "wikilink")3月 - こども英会話の[NOVA KIDSを開始](https://ja.wikipedia.org/wiki/NOVA_KIDS "wikilink")。全国展開へ。

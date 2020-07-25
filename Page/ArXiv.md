@@ -116,7 +116,7 @@ arXivは2012年7月現在、メインのサーバを除き世界8ヵ国にミラ
 <tr class="even">
 <td></td>
 <td><p><a href="http://br.arXiv.org">http://br.arXiv.org</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンパウロ大学" title="wikilink">サンパウロ大学</a>物理学科</p></td>
+<td><p><a href="../Page/サンパウロ大学.md" title="wikilink">サンパウロ大学</a>物理学科</p></td>
 <td><p>2012年4月運用停止</p></td>
 </tr>
 <tr class="odd">

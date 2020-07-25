@@ -183,7 +183,7 @@
 <td><p>2nd</p></td>
 <td><p>BGDH-1007</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/7月17日.md" title="wikilink">7月17日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/翼を広げて" title="wikilink">翼を広げて</a></strong></p></td>
+<td><p><strong><a href="../Page/翼を広げて.md" title="wikilink">翼を広げて</a></strong></p></td>
 <td><p>作詞：<a href="https://ja.wikipedia.org/wiki/坂井泉水" title="wikilink">坂井泉水</a><br />
 作曲：織田哲郎<br />
 編曲：葉山たけし</p></td>
@@ -2346,7 +2346,7 @@ Zepp Tokyo</p></td>
 <p>11/16　イーグルスドーム（宮城）</p>
 <p>11/18　青森BLACKBOX（青森）</p>
 <p>11/20　<a href="https://ja.wikipedia.org/wiki/盛岡市民文化ホール" title="wikilink">盛岡市民文化ホール</a>（岩手）</p>
-<p>11/22 <a href="https://ja.wikipedia.org/wiki/いわき芸術文化交流館アリオス" title="wikilink">いわき芸術文化交流館アリオス</a>（福島）</p>
+<p>11/22 <a href="../Page/いわき芸術文化交流館アリオス.md" title="wikilink">いわき芸術文化交流館アリオス</a>（福島）</p>
 <p>12/1　室町三井ホール（東京）（1日ツーステージ）</p></td>
 <td><p>ボーカル、ピアノ＋ストリングスの編成で行われた。東京は追加公演。</p></td>
 </tr>

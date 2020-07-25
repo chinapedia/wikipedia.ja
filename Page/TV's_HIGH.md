@@ -52,7 +52,7 @@
 8.  2000年[12月22日](../Page/12月22日.md "wikilink")
 9.  [2001年](../Page/2001年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")
 10. 2001年[1月19日](../Page/1月19日.md "wikilink")…総集編
-11. 2001年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+11. 2001年[1月26日](../Page/1月26日.md "wikilink")
 12. 2001年[2月2日](../Page/2月2日.md "wikilink")
 13. 2001年[2月9日](../Page/2月9日.md "wikilink")
 14. 2001年[2月16日](../Page/2月16日.md "wikilink")

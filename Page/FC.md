@@ -22,7 +22,7 @@
   - [未来世紀](../Page/未来世紀.md "wikilink") (FUTURE CENTURY：F.C.) - [アニメ](../Page/アニメ.md "wikilink")『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』の舞台となる架空の[紀年法](../Page/紀年法.md "wikilink")。
   - [NHK福井放送局](../Page/NHK福井放送局.md "wikilink")の[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")・[教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOFC/JOFC-DTV）。
   - 以下の自動車の型式。
-      - 2代目[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")・[RX-7](../Page/マツダ・RX-7.md "wikilink")([FC3S/FC3C](https://ja.wikipedia.org/wiki/マツダ・RX-7#2代目・FC3S型（1985-1991年） "wikilink"))。
+      - 2代目[マツダ](../Page/マツダ.md "wikilink")・[RX-7](../Page/マツダ・RX-7.md "wikilink")([FC3S/FC3C](https://ja.wikipedia.org/wiki/マツダ・RX-7#2代目・FC3S型（1985-1991年） "wikilink"))。
       - [ヒュンダイ・ラヴィータ](https://ja.wikipedia.org/wiki/ヒュンダイ・ラヴィータ "wikilink")の形式名。
       - [日野・レンジャー](../Page/日野・レンジャー.md "wikilink")の型式名の一。ベッドレス4tクラスに与えられる。
   - FC(Free Child)。[エゴグラム](https://ja.wikipedia.org/wiki/エゴグラム "wikilink")における5つの自我状態のうちの一つ。

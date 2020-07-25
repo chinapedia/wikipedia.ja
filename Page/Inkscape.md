@@ -147,7 +147,7 @@ Sodipodiのリリースについては示さず、[フォーク後のInkscapeの
 
   - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
   - [CorelDRAW](../Page/CorelDRAW.md "wikilink")
-  - [OpenDocumentをサポートするアプリケーションの一覧](https://ja.wikipedia.org/wiki/OpenDocumentをサポートするアプリケーションの一覧 "wikilink")
+  - [OpenDocumentをサポートするアプリケーションの一覧](../Page/OpenDocumentをサポートするアプリケーションの一覧.md "wikilink")
   - [Scalable Vector Graphics](../Page/Scalable_Vector_Graphics.md "wikilink") (SVG)
   - [Open Clip Art Library](../Page/Open_Clip_Art_Library.md "wikilink") - Sodipodiは世界の国旗などのSVG[クリップアート](../Page/クリップアート.md "wikilink")コレクションを開始した。その作業がOpen Clip Art Libraryの発祥の一因となった。
   - [GIMP](../Page/GIMP.md "wikilink") - オープンソースで開発されている[ペイントソフト](../Page/ペイントソフト.md "wikilink")

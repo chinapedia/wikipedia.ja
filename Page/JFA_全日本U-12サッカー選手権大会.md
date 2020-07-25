@@ -168,7 +168,7 @@ FC浦和（埼玉県）</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>清水FC（静岡県）<br />
 <a href="https://ja.wikipedia.org/wiki/FC邑楽" title="wikilink">FC邑楽</a>（群馬県）</p></td>
 <td><p>4-4</p></td>

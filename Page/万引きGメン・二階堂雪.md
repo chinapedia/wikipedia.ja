@@ -332,7 +332,7 @@
 
 :\* 宮島和樹 （能登食祭市場 店長） - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
 
-:\* 伊藤（仏壇店職人） - [渡辺寛二](https://ja.wikipedia.org/wiki/渡辺寛二 "wikilink")
+:\* 伊藤（仏壇店職人） - [渡辺寛二](../Page/渡辺寛二.md "wikilink")
 
 :\* 福田隆哉（みさきの腹違いの弟） - 伊方勝\[15\]
 
@@ -568,7 +568,7 @@
 
 :\* [二階堂透の同僚](https://ja.wikipedia.org/wiki/#二階堂透 "wikilink") - [山田隆夫](../Page/山田隆夫.md "wikilink")、[竹田君](https://ja.wikipedia.org/wiki/竹田君 "wikilink")
 
-:\* 五十嵐（相模原中央警察署 警部） - [加藤満](https://ja.wikipedia.org/wiki/加藤満 "wikilink")
+:\* 五十嵐（相模原中央警察署 警部） - [加藤満](../Page/加藤満.md "wikilink")
 
 :\* 葉山（相模原中央警察署 刑事） - [菊池隆志](../Page/菊池隆志.md "wikilink")\[36\]
 

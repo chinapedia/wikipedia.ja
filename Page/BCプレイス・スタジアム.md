@@ -7,7 +7,7 @@
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")完成。「BC」とは、バンクーバーを含む[ブリティッシュコロンビア州](../Page/ブリティッシュコロンビア州.md "wikilink")（Province of ***B**ritish **C**olumbia*）の略称である。内外の気圧差によって屋根を支持する[空気膜構造による建築物であり](https://ja.wikipedia.org/wiki/膜構造#空気膜構造 "wikilink")、同方式では世界最大。同方式を採用し、BCプレイスの5年後に竣工した日本の[東京ドーム](../Page/東京ドーム.md "wikilink")が類似した外観を持つ。
 
-[バンクーバー国際交通博覧会](../Page/バンクーバー国際交通博覧会.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）と連動して[ウォーターフロント](../Page/ウォーターフロント.md "wikilink")の再開発が行われ、BCプレイス・スタジアムは同博覧会メイン会場の中心部に接する位置に建設された。
+[バンクーバー国際交通博覧会](../Page/バンクーバー国際交通博覧会.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）と連動して[ウォーターフロント](../Page/ウォーターフロント.md "wikilink")の再開発が行われ、BCプレイス・スタジアムは同博覧会メイン会場の中心部に接する位置に建設された。
 
 [カナディアンフットボール](../Page/カナディアンフットボール.md "wikilink")リーグ・[BCライオンズの本拠地で](../Page/ブリティッシュ・コロンビア・ライオンズ.md "wikilink")、フットボール以外にも[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")、[見本市](../Page/見本市.md "wikilink")などに利用されている。
 

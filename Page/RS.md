@@ -55,7 +55,7 @@
       - [トヨタ・ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")のグレード名 - [トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
       - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")のカスタム最上級グレード名 (ターボエンジン搭載グレード)
       - [日野自動車](../Page/日野自動車.md "wikilink")の大型観光バス・RS - [日野・セレガ\#RS](https://ja.wikipedia.org/wiki/日野・セレガ#RS "wikilink")を参照
-      - [マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink")のグレード名 - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+      - [マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink")のグレード名 - [マツダ](../Page/マツダ.md "wikilink")
       - [スズキ・アルト](../Page/スズキ・アルト.md "wikilink")ターボRS - [スズキ](../Page/スズキ_\(企業\).md "wikilink")
       - [スズキ・スイフト](../Page/スズキ・スイフト.md "wikilink")の3代目（ZC72S・ZD72S）から追加されたグレード名（[特別仕様車](../Page/特別仕様車.md "wikilink")） - [スズキ](../Page/スズキ_\(企業\).md "wikilink")
       - RS[フリップフロップ](../Page/フリップフロップ.md "wikilink") - [フリップフロップ](../Page/フリップフロップ.md "wikilink")の一つ
@@ -73,7 +73,7 @@
   - [リード・ソロモン符号](../Page/リード・ソロモン符号.md "wikilink") (Reed-Solomon code) - [誤り訂正符号](https://ja.wikipedia.org/wiki/誤り訂正符号 "wikilink")の1つ
   - [PC-9801RS](https://ja.wikipedia.org/wiki/PC-9800シリーズ#80286/80386とEGCの搭載 "wikilink") - [NECの](../Page/日本電気.md "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")
   - [ロシア船級協会](https://ja.wikipedia.org/wiki/ロシア船級協会 "wikilink") - 船舶などの検査を行う[船級協会](../Page/船級協会.md "wikilink")のひとつ
-  - [無線通信](../Page/無線通信.md "wikilink")、特に[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")における相手側電波の受信状況の事。[RSレポート](https://ja.wikipedia.org/wiki/RSレポート "wikilink")、RSコードとも言う。Rは了解度（5段階）で受信者の主観、Sは信号強度(9段階）で受信機のシグナルメーターの目盛りに従って報告する
+  - [無線通信](../Page/無線通信.md "wikilink")、特に[アマチュア無線](../Page/アマチュア無線.md "wikilink")における相手側電波の受信状況の事。[RSレポート](https://ja.wikipedia.org/wiki/RSレポート "wikilink")、RSコードとも言う。Rは了解度（5段階）で受信者の主観、Sは信号強度(9段階）で受信機のシグナルメーターの目盛りに従って報告する
   - [信頼可能な](https://ja.wikipedia.org/wiki/信頼性 "wikilink")[情報源](../Page/情報源.md "wikilink")（Reliable Source(s)）
   - [Windows 10の](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[コードネーム](../Page/コードネーム.md "wikilink")Redstoneの略
 

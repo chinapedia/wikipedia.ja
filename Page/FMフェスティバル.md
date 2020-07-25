@@ -28,4 +28,4 @@
 [Category:JFN系の特別番組](https://ja.wikipedia.org/wiki/Category:JFN系の特別番組 "wikilink") [Category:TOKYO_FMの特別番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの特別番組 "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink")
 
 1.
-2.  TOKYOFMでは月曜から木曜の19:52-20:00まで放送中。一時期週末に1週間分の講義ダイジェストをまとめて放送していた時期あり。2018年10月現在は「[クロノスWIZ](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」内にて先週分の講義を再放送している。
+2.  TOKYOFMでは月曜から木曜の19:52-20:00まで放送中。一時期週末に1週間分の講義ダイジェストをまとめて放送していた時期あり。2018年10月現在は「[クロノスWIZ](../Page/クロノス_\(ラジオ番組\).md "wikilink")」内にて先週分の講義を再放送している。

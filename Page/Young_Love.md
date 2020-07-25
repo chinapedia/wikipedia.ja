@@ -69,7 +69,7 @@
 5.  **Moon Light Lover** (4'53)
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／管編曲:山本拓夫 & サザンオールスターズ）
       -
-        [ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")「[NIFTY-Serve](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")」（現・NIFTY-SERVE）CMソング。
+        [ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")「[NIFTY-Serve](../Page/ニフティサーブ.md "wikilink")」（現・NIFTY-SERVE）CMソング。
         歌詞に登場する「匂艶（にじいろ）」は「[匂艶 THE NIGHT CLUB](../Page/匂艶_THE_NIGHT_CLUB.md "wikilink")」でも使われた桑田の造語である。
         この曲のベースは関口の演奏ではなく桑田が[ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")で打ち込んだものになっている\[4\]。
         20周年[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[海のYeah\!\!](../Page/海のYeah!!.md "wikilink")』や、[バラード](../Page/バラード.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink")』にも収録されている。

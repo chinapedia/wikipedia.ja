@@ -15,7 +15,7 @@
 
 FNCは、FN社が期待をかけて市場に投入した製品であったが、いざ販売を始めてみるとFALほどの成功を収められなかった。ある程度の生産設備を必要とするアルミ合金を使用するために高価な銃になったことも足を引っ張った点ではあるが、FNCが販売を始める頃には、競合機種が多数存在し、FNCはマーケットに投入するタイミングを逃してしまったために失敗してしまった面の方が影響していると思われる。
 
-唯一の例外は本国ベルギーでの制式採用であり、[FN SCARや](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")[FN F2000など後続のアサルトライフルが開発された現在でも軍が使用している](../Page/FN_F2000.md "wikilink")。
+唯一の例外は本国ベルギーでの制式採用であり、[FN SCARや](../Page/FN_SCAR.md "wikilink")[FN F2000など後続のアサルトライフルが開発された現在でも軍が使用している](../Page/FN_F2000.md "wikilink")。
 
 結果だけ見れば、同世代のアサルトライフルとしては第一級の性能を持ちながら、運に恵まれなかった不遇の銃となってしまった。
 
@@ -29,7 +29,7 @@ FNCは、FN社が期待をかけて市場に投入した製品であったが、
 
 ## 使用国
 
-[Saber_Junction_15_150423-A-BS310-017.jpg](https://ja.wikipedia.org/wiki/File:Saber_Junction_15_150423-A-BS310-017.jpg "fig:Saber_Junction_15_150423-A-BS310-017.jpg") 最終的に制式採用されたのは[ベルギー軍](https://ja.wikipedia.org/wiki/ベルギーの軍事 "wikilink")、[インドネシア軍](https://ja.wikipedia.org/wiki/インドネシア国軍 "wikilink")、[スウェーデン軍](../Page/スウェーデン軍.md "wikilink")を含む数ヶ国と、他の例として[イタリア軍警察に一部が導入された程度で](../Page/カラビニエリ.md "wikilink")、[FALに比べ](../Page/FN_FAL.md "wikilink")、大規模な採用は少なかった。
+[Saber_Junction_15_150423-A-BS310-017.jpg](https://ja.wikipedia.org/wiki/File:Saber_Junction_15_150423-A-BS310-017.jpg "fig:Saber_Junction_15_150423-A-BS310-017.jpg") 最終的に制式採用されたのは[ベルギー軍](../Page/ベルギーの軍事.md "wikilink")、[インドネシア軍](https://ja.wikipedia.org/wiki/インドネシア国軍 "wikilink")、[スウェーデン軍](../Page/スウェーデン軍.md "wikilink")を含む数ヶ国と、他の例として[イタリア軍警察に一部が導入された程度で](../Page/カラビニエリ.md "wikilink")、[FALに比べ](../Page/FN_FAL.md "wikilink")、大規模な採用は少なかった。
 
 現在、[FN社は](../Page/FNハースタル.md "wikilink")[1990年代](../Page/1990年代.md "wikilink")に[コルト社から](../Page/コルト・ファイヤーアームズ.md "wikilink")[M16の生産権を獲得したため](../Page/M16自動小銃.md "wikilink")、FNCの販売は行っていない。
 

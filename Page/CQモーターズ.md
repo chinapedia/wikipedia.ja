@@ -21,7 +21,7 @@
   - [2003年](../Page/2003年.md "wikilink")（平成15年） - 10月、[MINEサーキット](../Page/MINEサーキット.md "wikilink")（[山口県](../Page/山口県.md "wikilink")[美祢市](../Page/美祢市.md "wikilink")）の経営権を取得。
   - [2004年](../Page/2004年.md "wikilink")（平成16年） - [ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に日本からチョロQチーム参戦。その一方、Q-CARの製造を終了。
   - [2005年](../Page/2005年.md "wikilink")（平成17年） - チョロQモーターズ株式会社の経営に他社資本を入れる。タカラ本体は出資比率を引き下げ、連結決算の対象外とする。
-  - [2006年](../Page/2006年.md "wikilink")（平成18年） - 1月、MINEサーキットを[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")に譲渡（サーキットは2月28日に閉鎖）。3月、CQモーターズ株式会社に社名を変更、本社を[千葉県](../Page/千葉県.md "wikilink")[いすみ市](../Page/いすみ市.md "wikilink")深堀1751番地11に移転。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年） - 1月、MINEサーキットを[マツダ](../Page/マツダ.md "wikilink")に譲渡（サーキットは2月28日に閉鎖）。3月、CQモーターズ株式会社に社名を変更、本社を[千葉県](../Page/千葉県.md "wikilink")[いすみ市](../Page/いすみ市.md "wikilink")深堀1751番地11に移転。
 
 ## Q-CARの種類
 

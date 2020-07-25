@@ -5,7 +5,7 @@
 
   - [Association for Computing Machinery](../Page/Association_for_Computing_Machinery.md "wikilink") - アメリカ合衆国に本部のある[計算機科学](../Page/計算機科学.md "wikilink")の国際学会。
 
-  - [空中戦闘機動](https://ja.wikipedia.org/wiki/空中戦闘機動 "wikilink") (Air Combat Manoeuvering)
+  - [空中戦闘機動](../Page/空中戦闘機動.md "wikilink") (Air Combat Manoeuvering)
 
   - [発達型巡航ミサイル](../Page/ACM_\(ミサイル\).md "wikilink") (Advanced Cruise Missile)
 

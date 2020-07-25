@@ -270,7 +270,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・ディ・マッテオ" title="wikilink">ロベルト・ディ・マッテオ</a></p></td>
+<td><p><a href="../Page/ロベルト・ディ・マッテオ.md" title="wikilink">ロベルト・ディ・マッテオ</a></p></td>
 <td></td>
 <td></td>
 <td></td>

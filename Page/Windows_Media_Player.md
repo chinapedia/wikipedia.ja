@@ -65,7 +65,7 @@ Windows Media Player 9の次のバージョン。Windows XP Media Center Edition
 
 ### Windows Media Player 11
 
-Windows Vistaに標準搭載され、Windows XP Service Pack 2 向けも用意されている。Windows Media Player 10よりもグラフィカルになった。また、Windows Vista向けとWindows XP向けではアイコンが異なっている。[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版OSには[32ビット](../Page/32ビット.md "wikilink")版と64ビット版のWMPが付属するが、既定で32ビット版のWMPが使用されるようになっている。
+Windows Vistaに標準搭載され、Windows XP Service Pack 2 向けも用意されている。Windows Media Player 10よりもグラフィカルになった。また、Windows Vista向けとWindows XP向けではアイコンが異なっている。[64ビット](../Page/64ビット.md "wikilink")版OSには[32ビット](../Page/32ビット.md "wikilink")版と64ビット版のWMPが付属するが、既定で32ビット版のWMPが使用されるようになっている。
 
 ### Windows Media Player 12
 

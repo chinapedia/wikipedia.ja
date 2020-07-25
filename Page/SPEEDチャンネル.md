@@ -117,7 +117,7 @@
   - [久保千代志](../Page/久保千代志.md "wikilink")
   - [菊池仁志](https://ja.wikipedia.org/wiki/菊池仁志 "wikilink")
   - [後閑信一](../Page/後閑信一.md "wikilink")
-  - [木庭賢也](https://ja.wikipedia.org/wiki/木庭賢也 "wikilink")
+  - [木庭賢也](../Page/木庭賢也.md "wikilink")
   - [坂本勉](../Page/坂本勉.md "wikilink")
   - [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")
   - [鈴木誠](../Page/鈴木誠_\(競輪選手\).md "wikilink")

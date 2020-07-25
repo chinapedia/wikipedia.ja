@@ -5,7 +5,7 @@
 
 ## 録音
 
-  - BOØWY初のライブアルバムで、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")の初の[日本武道館](../Page/日本武道館.md "wikilink")公演を収録したという事になっているが、実際に当日の日本武道館での演奏が収録されたのは、「PROLOGUE」(SE)、「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」、「[ROUGE OF GRAY](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")」、「[IMAGE DOWN](https://ja.wikipedia.org/wiki/IMAGE_DOWN "wikilink")」、「[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")」の5曲にとどまっており、それ以外の曲は同ツアーの他会場での音源で、ボーカル・コーラスの一部差し替えや[キーボードの音](../Page/キーボード_\(楽器\).md "wikilink")、観客の歓声等がオーバーダビングされている曲もある。これは「オーバーダビングをきちんと施すことによって、よりグレードの高い作品にしたい」というメンバーの希望からである。
+  - BOØWY初のライブアルバムで、[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の初の[日本武道館](../Page/日本武道館.md "wikilink")公演を収録したという事になっているが、実際に当日の日本武道館での演奏が収録されたのは、「PROLOGUE」(SE)、「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」、「[ROUGE OF GRAY](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")」、「[IMAGE DOWN](https://ja.wikipedia.org/wiki/IMAGE_DOWN "wikilink")」、「[JUST A HERO](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")」の5曲にとどまっており、それ以外の曲は同ツアーの他会場での音源で、ボーカル・コーラスの一部差し替えや[キーボードの音](../Page/キーボード_\(楽器\).md "wikilink")、観客の歓声等がオーバーダビングされている曲もある。これは「オーバーダビングをきちんと施すことによって、よりグレードの高い作品にしたい」というメンバーの希望からである。
   - 「IMAGE DOWN」演奏中に[氷室京介](../Page/氷室京介.md "wikilink")が言った「ライブハウス武道館へようこそ」というフレーズが有名。
   - 当初からメンバーの意向で武道館公演と同じ7月中での発売日が先に設定された為（但し製品の発売日表記は「H･8･22」(1986年8月22日)になっている）、予め収録曲も決定した上でライヴ翌日からスタジオでのオーバーダビングとミキシング作業が開始された。
   - 発売時は[CD](../Page/コンパクトディスク.md "wikilink")、[レコード](../Page/レコード.md "wikilink")、[カセットの](../Page/コンパクトカセット.md "wikilink")3形態で「合計」10万枚限定で発売され\[1\]、即完売した。完売後、特にBOØWY解散直後は、限定盤ということもあり、レンタルレコード店にもほとんど置かれていなかったため、中古レコード店ではプレミア価格での取引が行われており（特にCD盤は、コンディションによっては10万円以上の価格が付けられたこともある）、この状況により1989年12月の再発売が行われた。但し、再発盤は通常のプラケースに入れた形で、ジャケットもオリジナルの内ジャケットをベースにしたもので発売された。
@@ -32,7 +32,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
 <td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／イーストワールド</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a><br />
@@ -109,7 +109,7 @@ TOTT-5610</p></td>
 
 1.  **PROLOGUE** (3:31)
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")の日本武道館公演より。オープニングSEでテープ演奏の為、実際の演奏ではない。
+        [1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の日本武道館公演より。オープニングSEでテープ演奏の為、実際の演奏ではない。
 2.  **[BAD FEELING](../Page/BAD_FEELING.md "wikilink")** (5:03)
       - 作詞：[氷室京介](../Page/氷室京介.md "wikilink")・[高橋信](../Page/高橋まこと.md "wikilink")　作曲：布袋寅泰
     <!-- end list -->
@@ -172,7 +172,7 @@ TOTT-5610</p></td>
     <!-- end list -->
 
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")の日本武道館公演より。キーボードと観客の声がオーバーダビングされている。当日の演奏より短く編集されており、曲中での氷室のMCや布袋・松井・高橋のコーラスの一部がカットされている。
+        [1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")の日本武道館公演より。キーボードと観客の声がオーバーダビングされている。当日の演奏より短く編集されており、曲中での氷室のMCや布袋・松井・高橋のコーラスの一部がカットされている。
 
 4.  **[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")** (4:05)
 

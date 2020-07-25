@@ -733,7 +733,7 @@ ACT4では主役校となっている。
   - 色彩設計 - 鈴城るみ子
   - 撮影監督 - 青木孝司
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
-  - 音楽 - [井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")
+  - 音楽 - [井上日徳](../Page/井上日徳.md "wikilink")
   - 音響監督 - [三間雅文](../Page/三間雅文.md "wikilink")
   - エグゼクティブプロデューサー - 宇佐美廉
   - アニメーション制作 - [A・C・G・T](../Page/エー・シー・ジー・ティー.md "wikilink")

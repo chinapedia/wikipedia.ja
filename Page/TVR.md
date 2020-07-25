@@ -39,7 +39,7 @@ TVRの創始者となるトレバー・ウィルキンソンは、[1937年](../P
 
 そこで登場したのが**ピーター・ウィラー**である。彼は[1981年](../Page/1981年.md "wikilink")に経営権を手に入れ、不評であったタスミンにバリエーション（TVR初のコンバーチブル、4シーターなど）を追加し、エンジンを創業当時から長らく搭載してきた[フォード](../Page/フォード・モーター.md "wikilink")[V8から](../Page/V型8気筒.md "wikilink")[ローバー](../Page/ローバー_\(自動車\).md "wikilink")[V8に変更し](../Page/V型8気筒.md "wikilink")、シャーシを細くすることによって軽量化した。
 
-その後[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には**Sシリーズ**を発表、年間生産台数は700台を超えた。更に[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に「[グリフィス](../Page/TVR・グリフィス.md "wikilink")」、[1992年](../Page/1992年.md "wikilink")には「[キミーラ](../Page/TVR・キミーラ.md "wikilink")」を発表した。キミーラの独特かつオーソドックス（特にフロントマスク）なデザインは好評で、TVR史上最も売れた車種となった。
+その後[1986年](../Page/1986年.md "wikilink")には**Sシリーズ**を発表、年間生産台数は700台を超えた。更に[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に「[グリフィス](../Page/TVR・グリフィス.md "wikilink")」、[1992年](../Page/1992年.md "wikilink")には「[キミーラ](../Page/TVR・キミーラ.md "wikilink")」を発表した。キミーラの独特かつオーソドックス（特にフロントマスク）なデザインは好評で、TVR史上最も売れた車種となった。
 
 [1994年](../Page/1994年.md "wikilink")にはバックヤードビルダーとしては常識外の自社製V8エンジン「[AJP8](../Page/TVR・AJP8.md "wikilink")」を開発、それを搭載する「[サーブラウ](../Page/TVR・サーブラウ.md "wikilink")」を発表する。その後[1996年](../Page/1996年.md "wikilink")に「[Speed Twelve](https://ja.wikipedia.org/wiki/TVR・Speed_Twelve "wikilink")」、「[Speed Six](https://ja.wikipedia.org/wiki/TVR・Speed_Six "wikilink")」と次々に自社製エンジンを開発、それらを搭載したタスカンを[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に、[タモーラを](../Page/TVR・タモーラ.md "wikilink")[2001年](../Page/2001年.md "wikilink")に発表した。
 

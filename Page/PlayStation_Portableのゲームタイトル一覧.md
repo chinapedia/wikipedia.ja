@@ -261,7 +261,7 @@
 | 08月10日 | [山佐Digiポータブル「祭りの達人 〜ウィンちゃんの夏祭り〜」](../Page/祭の達人_ウィンちゃんの夏祭り.md "wikilink")                                                                      | [ヤマサエンタテインメント](../Page/山佐.md "wikilink")                                          |                     |         |   |               |
 | 08月24日 | [GUILTY GEAR JUDGEMENT](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ#GUILTY_GEAR_JUDGMENT "wikilink")                                        | [アークシステムワークス](../Page/アークシステムワークス.md "wikilink")                                  |                     |         |   |               |
 | 08月24日 | [七田式トレーニング 右脳鍛錬ウノタン ポータブル](https://ja.wikipedia.org/wiki/七田式トレーニング_右脳鍛錬ウノタン "wikilink")                                                       | [インターチャネル](../Page/インターチャネル.md "wikilink")                                        |                     |         |   |               |
-| 08月24日 | [ウイニングポスト6 2006](https://ja.wikipedia.org/wiki/ウイニングポスト6 "wikilink")                                                                          | コーエー                                                                              |                     |         |   |               |
+| 08月24日 | [ウイニングポスト6 2006](../Page/ウイニングポスト6.md "wikilink")                                                                                             | コーエー                                                                              |                     |         |   |               |
 | 08月24日 | [タマラン](https://ja.wikipedia.org/wiki/【Hg】ハイドリウム "wikilink")                                                                                   | ソニー・コンピュータエンタテインメント                                                               |                     |         |   |               |
 | 08月24日 | \[\[SIMPLEシリーズ|SIMPLE2500シリーズポータブル                                                                                                            | Vol.7 THE どこでも漢字クイズ〜チャレンジ\!漢字検定2006〜\]\]                                          | ディースリー・パブリッシャー      |         |   |               |
 | 08月24日 | [パイレーツ・オブ・カリビアン / デッドマンズ・チェスト](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/呪われた海賊たち "wikilink")                                              | ディースリー・パブリッシャー                                                                    |                     |         |   |               |
@@ -447,13 +447,13 @@
 | 01月24日 | [ユグドラ・ユニオン](../Page/ユグドラ・ユニオン.md "wikilink")                                                                      | スティング                                                                           | 0,471MB | ●       | ●       |                   |
 | 01月31日 | [SEGA RALLY REVO](../Page/セガラリーチャンピオンシップ.md "wikilink")                                                           | セガ                                                                              |         |         |         |                   |
 | 01月31日 | [太平洋の嵐 〜戦艦大和、暁に出撃す〜](https://ja.wikipedia.org/wiki/太平洋の嵐_\(ゲーム\) "wikilink")                                      | システムソフト・アルファー                                                                   | 0,283MB | ●       | ●       |                   |
-| 02月07日 | [Coded Soul -受け継がれしイデア-](https://ja.wikipedia.org/wiki/Coded_Soul_-受け継がれしイデア- "wikilink")                         | ソニー・コンピュータエンタテインメント                                                             | 0,383MB | ●       | ●       |                   |
+| 02月07日 | [Coded Soul -受け継がれしイデア-](../Page/Coded_Soul_-受け継がれしイデア-.md "wikilink")                                            | ソニー・コンピュータエンタテインメント                                                             | 0,383MB | ●       | ●       |                   |
 | 02月07日 | [機動戦士ガンダム ギレンの野望 アクシズの脅威](../Page/機動戦士ガンダム_ギレンの野望_アクシズの脅威.md "wikilink")                                          | バンダイナムコゲームス                                                                     |         |         |         | スペシャルパックあり        |
 | 02月14日 | [メダル・オブ・オナー ヒーローズ2](../Page/メダル・オブ・オナー_ヒーローズ2.md "wikilink")                                                      | エレクトロニック・アーツ                                                                    | 1,100MB | ●       | ●       |                   |
 | 02月21日 | [無双OROCHI](../Page/無双OROCHI.md "wikilink")                                                                        | コーエー                                                                            | 0,784MB | ●       | ●       |                   |
 | 02月21日 | [スペースインベーダーエクストリーム](https://ja.wikipedia.org/wiki/スペースインベーダーエクストリーム "wikilink")                                   | タイトー                                                                            |         |         |         |                   |
 | 02月28日 | [MyStylist](https://ja.wikipedia.org/wiki/ちょっとショット#MyStylist "wikilink")                                          | ソニー・コンピュータエンタテインメント                                                             | 0,109MB |         |         |                   |
-| 03月19日 | [無限回廊](https://ja.wikipedia.org/wiki/無限回廊 "wikilink")                                                             | ソニー・コンピュータエンタテインメント                                                             | 0,045MB | ●       | ●       |                   |
+| 03月19日 | [無限回廊](../Page/無限回廊.md "wikilink")                                                                                | ソニー・コンピュータエンタテインメント                                                             | 0,045MB | ●       | ●       |                   |
 | 03月19日 | [テイルズ オブ リバース](../Page/テイルズ_オブ_リバース.md "wikilink")                                                                | バンダイナムコゲームス                                                                     | 1,489MB | ●       |         |                   |
 | 03月19日 | [ニード・フォー・スピード プロストリート](../Page/ニード・フォー・スピード_プロストリート.md "wikilink")                                                | エレクトロニック・アーツ                                                                    | 0,759MB | ●       | ●       |                   |
 | 03月27日 | [モンスターハンターポータブル 2nd G](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル#モンスターハンター_ポータブル_2nd_G "wikilink")            | カプコン                                                                            | 0,801MB | ●       | ●       | ハンターズパックGあり       |
@@ -479,8 +479,8 @@
 | 06月12日 | [MEDICAL91](https://ja.wikipedia.org/wiki/MEDICAL91 "wikilink")ポータブル                                              | [TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")                       | 0,520MB | ●       | ●       |                   |
 | 06月19日 | [スーパーロボット大戦A PORTABLE](../Page/スーパーロボット大戦A.md "wikilink")                                                         | バンダイナムコゲームス                                                                     |         |         |         |                   |
 | 06月26日 | [剣と魔法と学園モノ。](../Page/剣と魔法と学園モノ。.md "wikilink")                                                                    | [アクワイア](../Page/アクワイア_\(ゲーム会社\).md "wikilink")                                  | 0,197MB | ●       | ●       |                   |
-| 06月26日 | [ウイニングポスト6 2008](https://ja.wikipedia.org/wiki/ウイニングポスト6 "wikilink")                                              | コーエー                                                                            |         |         |         |                   |
-| 06月26日 | [ワールドネバーランド 2in1ポータブル 〜オルルド王国物語&プルト共和国物語〜](https://ja.wikipedia.org/wiki/ワールド・ネバーランド_〜オルルド王国物語〜 "wikilink")       | [fonfun](https://ja.wikipedia.org/wiki/fonfun "wikilink")                       | 0,368MB | ●       | ●       |                   |
+| 06月26日 | [ウイニングポスト6 2008](../Page/ウイニングポスト6.md "wikilink")                                                                 | コーエー                                                                            |         |         |         |                   |
+| 06月26日 | [ワールドネバーランド 2in1ポータブル 〜オルルド王国物語&プルト共和国物語〜](../Page/ワールド・ネバーランド_〜オルルド王国物語〜.md "wikilink")                          | [fonfun](https://ja.wikipedia.org/wiki/fonfun "wikilink")                       | 0,368MB | ●       | ●       |                   |
 | 06月26日 | [神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")0〜4話フルパック                                                           | プロトタイプ                                                                          | 0,738MB | ●       | ●       |                   |
 | 07月03日 | [みんなで読書 名作&推理&怪談&文学](https://ja.wikipedia.org/wiki/みんなで読書 "wikilink")                                             | [ドラス](https://ja.wikipedia.org/wiki/ドラス "wikilink")                             | 0,182MB | ●       | ●       |                   |
 | 07月10日 | [God of War 落日の悲愴曲](../Page/ゴッド・オブ・ウォー.md "wikilink")                                                             | カプコン                                                                            | 1,309MB |         |         |                   |
@@ -538,7 +538,7 @@
 | 12月11日 | \[\[Zwei                                                                                                          | |Zwei                                                                           | \]\]    | 日本ファルコム | 0,791MB | ●                 |
 | 12月18日 | [ディシディア ファイナルファンタジー](https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー "wikilink")                                 | スクウェア・エニックス                                                                     | 1,517MB | ●       | ●       | PSP-3000同梱版あり     |
 | 12月18日 | [ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink")                                                | エレクトロニック・アーツ                                                                    | 0,988MB | ●       | ●       |                   |
-| 12月18日 | [ソルフェージュ 〜Sweet harmony〜](https://ja.wikipedia.org/wiki/ソルフェージュ_\(ゲーム\) "wikilink")                               | [ガンホー・ワークス](../Page/ガンホー・ワークス.md "wikilink")                                    | 1,322MB | ●       | ●       | 初回限定版あり           |
+| 12月18日 | [ソルフェージュ 〜Sweet harmony〜](../Page/ソルフェージュ_\(ゲーム\).md "wikilink")                                                  | [ガンホー・ワークス](../Page/ガンホー・ワークス.md "wikilink")                                    | 1,322MB | ●       | ●       | 初回限定版あり           |
 | 12月18日 | [クリムゾン・ルーム リバース](https://ja.wikipedia.org/wiki/クリムゾン・ルーム "wikilink")                                              | サクセス                                                                            | 0,194MB | ●       |         |                   |
 | 12月18日 | [最強将棋 BONANZA](../Page/Bonanza.md "wikilink")                                                                     | サクセス                                                                            | 0,161MB | ●       |         |                   |
 | 12月18日 | [オツゲー 占イナンデス。](https://ja.wikipedia.org/wiki/オツゲー_占イナンデス。 "wikilink")                                             | ドラス                                                                             |         |         |         |                   |
@@ -1059,7 +1059,7 @@
 </tr>
 <tr class="even">
 <td><p>04月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Φなる・あぷろーち2_〜1st_priority〜" title="wikilink">Φなる・あぷろーち2 〜1st priority〜ポータブル</a></p></td>
+<td><p><a href="../Page/Φなる・あぷろーち2_〜1st_priority〜.md" title="wikilink">Φなる・あぷろーち2 〜1st priority〜ポータブル</a></p></td>
 <td><p>プリンセスソフト</p></td>
 <td></td>
 <td></td>
@@ -1646,7 +1646,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月01日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト7" title="wikilink">ウイニングポスト7 2009</a></p></td>
+<td><p><a href="../Page/ウイニングポスト7.md" title="wikilink">ウイニングポスト7 2009</a></p></td>
 <td><p>コーエー</p></td>
 <td><p>0,455MB</p></td>
 <td><p>●</p></td>
@@ -2141,7 +2141,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="even">
 <td><p>12月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奈落の城_一柳和、2度目の受難" title="wikilink">奈落の城 PORTABLE 一柳和、2度目の受難</a></p></td>
+<td><p><a href="../Page/奈落の城_一柳和、2度目の受難.md" title="wikilink">奈落の城 PORTABLE 一柳和、2度目の受難</a></p></td>
 <td><p>日本一ソフトウェア</p></td>
 <td><p>0,563MB</p></td>
 <td><p>●</p></td>
@@ -2384,7 +2384,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="odd">
 <td><p>01月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/11eyes_-罪と罰と贖いの少女-" title="wikilink">11eyes CrossOver</a></p></td>
+<td><p><a href="../Page/11eyes_-罪と罰と贖いの少女-.md" title="wikilink">11eyes CrossOver</a></p></td>
 <td><p>5pb.</p></td>
 <td></td>
 <td></td>
@@ -2772,7 +2772,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="even">
 <td><p>03月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/そらのおとしもの" title="wikilink">そらのおとしもの -ドキドキサマーバケーション-</a></p></td>
+<td><p><a href="../Page/そらのおとしもの.md" title="wikilink">そらのおとしもの -ドキドキサマーバケーション-</a></p></td>
 <td><p>角川書店</p></td>
 <td></td>
 <td></td>
@@ -3674,7 +3674,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="even">
 <td><p>09月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト7" title="wikilink">ウイニングポスト7 2010</a></p></td>
+<td><p><a href="../Page/ウイニングポスト7.md" title="wikilink">ウイニングポスト7 2010</a></p></td>
 <td><p>コーエーテクモゲームス</p></td>
 <td></td>
 <td></td>
@@ -4688,7 +4688,7 @@ Welcomeセットあり</p></td>
 </tr>
 <tr class="odd">
 <td><p>03月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">学園ヘタリアPortable</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">学園ヘタリアPortable</a></p></td>
 <td><p>アイディアファクトリー</p></td>
 <td></td>
 <td></td>
@@ -6352,7 +6352,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="even">
 <td><p>03月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト7" title="wikilink">ウイニングポスト7 2012</a></p></td>
+<td><p><a href="../Page/ウイニングポスト7.md" title="wikilink">ウイニングポスト7 2012</a></p></td>
 <td><p>コーエーテクモゲームス</p></td>
 <td></td>
 <td></td>
@@ -8029,7 +8029,7 @@ DISC1(1145MB)・DISC2(1020MB)の2枚組</p></td>
 </tr>
 <tr class="even">
 <td><p>03月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト7" title="wikilink">ウイニングポスト7 2013</a></p></td>
+<td><p><a href="../Page/ウイニングポスト7.md" title="wikilink">ウイニングポスト7 2013</a></p></td>
 <td><p>コーエーテクモゲームス</p></td>
 <td><p>1,519MB</p></td>
 <td><p>●</p></td>
@@ -8852,7 +8852,7 @@ DISC1(1145MB)・DISC2(1020MB)の2枚組</p></td>
 | 2008年06月19日 | [昇天ビート](https://ja.wikipedia.org/wiki/昇天ビート "wikilink")                                                       | ソニー・コンピュータエンタテインメント                                           | 227MB | ● |          |
 | 2008年12月18日 | [ハムスターチャンネル](https://ja.wikipedia.org/wiki/ハムスターチャンネル "wikilink")                                             | [エイチアイ](https://ja.wikipedia.org/wiki/エイチアイ "wikilink")       | 026MB | ● |          |
 | 2008年12月18日 | [STAR STRIKE PORTABLE](https://ja.wikipedia.org/wiki/STAR_STRIKE_PORTABLE "wikilink")                         | ソニー・コンピュータエンタテインメント                                           | 073MB | ● |          |
-| 2009年02月05日 | [ブレインチャレンジ](https://ja.wikipedia.org/wiki/ブレインチャレンジ "wikilink")                                               | [ゲームロフト](https://ja.wikipedia.org/wiki/ゲームロフト "wikilink")     | 044MB | ● |          |
+| 2009年02月05日 | [ブレインチャレンジ](https://ja.wikipedia.org/wiki/ブレインチャレンジ "wikilink")                                               | [ゲームロフト](../Page/ゲームロフト.md "wikilink")                        | 044MB | ● |          |
 | 2009年06月11日 | [Everyday Shooter](https://ja.wikipedia.org/wiki/Everyday_Shooter "wikilink")                                 | ソニー・コンピュータエンタテインメント                                           | 048MB | ● |          |
 | 2009年06月18日 | [クルトン](../Page/クルトン.md "wikilink")                                                                            | ソニー・コンピュータエンタテインメント                                           | 026MB | ● |          |
 | 2009年10月29日 | [CRYSTAL DEFENDERS](../Page/クリスタル_ガーディアンズ.md "wikilink")                                                      | スクウェア・エニックス                                                   | 012MB | ● |          |

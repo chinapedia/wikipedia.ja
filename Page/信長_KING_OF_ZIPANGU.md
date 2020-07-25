@@ -178,7 +178,7 @@
   - [足利義輝](https://ja.wikipedia.org/wiki/足利義輝 "wikilink")：[宮田恭男](https://ja.wikipedia.org/wiki/宮田恭男 "wikilink")
   - [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink")：[青山裕一](../Page/花柳寿楽_\(3代目\).md "wikilink")
   - [和田惟政](../Page/和田惟政.md "wikilink")：[新井康弘](../Page/新井康弘.md "wikilink")
-  - [三淵藤英](../Page/三淵藤英.md "wikilink")：[渡辺寛二](https://ja.wikipedia.org/wiki/渡辺寛二 "wikilink")
+  - [三淵藤英](../Page/三淵藤英.md "wikilink")：[渡辺寛二](../Page/渡辺寛二.md "wikilink")
   - [上野秀政](../Page/上野清信.md "wikilink")：[横光克彦](../Page/横光克彦.md "wikilink")
   - [武田勝頼](../Page/武田勝頼.md "wikilink")：[北谷等](https://ja.wikipedia.org/wiki/北谷等 "wikilink")→[黒田隆哉](../Page/黒田崇矢.md "wikilink")
   - [武田信勝](../Page/武田信勝.md "wikilink")：[小橋賢児](../Page/小橋賢児.md "wikilink")
@@ -198,7 +198,7 @@
   - [ヴィレラ](../Page/ガスパル・ヴィレラ.md "wikilink")：テリー・オブライエン（[二役](https://ja.wikipedia.org/wiki/二役 "wikilink")）
   - [アルメイダ](../Page/ルイス・デ・アルメイダ.md "wikilink")：[ガブリエル・メラク](https://ja.wikipedia.org/wiki/ガブリエル・メラク "wikilink")
   - [トルレス神父](../Page/コスメ・デ・トーレス.md "wikilink")：[カルロス・モリーナ](https://ja.wikipedia.org/wiki/カルロス・モリーナ "wikilink")
-  - [フェルナンデス修道士](https://ja.wikipedia.org/wiki/フアン・フェルナンデス_\(宣教師\) "wikilink")：[アルメイダ・ジョワリ](https://ja.wikipedia.org/wiki/アルメイダ・ジョワリ "wikilink")
+  - [フェルナンデス修道士](../Page/フアン・フェルナンデス_\(宣教師\).md "wikilink")：[アルメイダ・ジョワリ](https://ja.wikipedia.org/wiki/アルメイダ・ジョワリ "wikilink")
   - [ヴァリニャーノ](../Page/アレッサンドロ・ヴァリニャーノ.md "wikilink")：[ブライアン・バークガフニ](https://ja.wikipedia.org/wiki/ブライアン・バークガフニ "wikilink")
   - [オルガンティーノ](../Page/グネッキ・ソルディ・オルガンティノ.md "wikilink")：[細川フランコ](https://ja.wikipedia.org/wiki/フランコ・マウリッリ "wikilink")
   - [カブラル](../Page/フランシスコ・カブラル.md "wikilink")：[ジョバンニ・プッチ](https://ja.wikipedia.org/wiki/ジョバンニ・プッチ "wikilink")
@@ -308,12 +308,12 @@
   - ディオゴ：[モロ師岡](../Page/モロ師岡.md "wikilink")
   - 庄右衛門：[森下哲夫](../Page/森下哲夫.md "wikilink")
   - 佐野源右衛門：[加藤治](../Page/加藤治.md "wikilink")
-  - 長良新九郎：[蒔田浩](https://ja.wikipedia.org/wiki/蒔田浩 "wikilink")
+  - 長良新九郎：[蒔田浩](../Page/蒔田浩.md "wikilink")
 
 <!-- end list -->
 
   -
-    信長家臣。放送当時の[岐阜](../Page/岐阜市.md "wikilink")[市長](../Page/市町村長.md "wikilink")。放送にあたり岐阜市は制作協力している。詳しくは[蒔田浩](https://ja.wikipedia.org/wiki/蒔田浩 "wikilink")の項にて。
+    信長家臣。放送当時の[岐阜](../Page/岐阜市.md "wikilink")[市長](../Page/市町村長.md "wikilink")。放送にあたり岐阜市は制作協力している。詳しくは[蒔田浩](../Page/蒔田浩.md "wikilink")の項にて。
 
 ## スタッフ
 

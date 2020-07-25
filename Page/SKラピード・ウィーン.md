@@ -1859,7 +1859,7 @@
 
   - [ヘルゲ・パイヤー](../Page/ヘルゲ・パイヤー.md "wikilink") 1997-2012
 
-  - [ユルゲン・マッホ](https://ja.wikipedia.org/wiki/ユルゲン・マッホ "wikilink") 2004-2005
+  - [ユルゲン・マッホ](../Page/ユルゲン・マッホ.md "wikilink") 2004-2005
 
 <!-- end list -->
 
@@ -1875,7 +1875,7 @@
 
   - [トリフォン・イヴァノフ](https://ja.wikipedia.org/wiki/トリフォン・イヴァノフ "wikilink") 1995-1997
 
-  - [マーティン・ヒデン](https://ja.wikipedia.org/wiki/マーティン・ヒデン "wikilink") 1997、2003-2008、2008-2009
+  - [マーティン・ヒデン](../Page/マーティン・ヒデン.md "wikilink") 1997、2003-2008、2008-2009
 
 <!-- end list -->
 

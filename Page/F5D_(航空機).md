@@ -1,7 +1,7 @@
 > この記事は[F5D \(航空機\)](https://ja.wikipedia.org/wiki/F5D_\(航空機\))から翻訳されています。
 
 
-**F5D スカイランサー**（*Douglas F5D Skylancer* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が](../Page/ダグラス・エアクラフト.md "wikilink")[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した試作[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。[F4Dスカイレイ戦闘機の改良型であったが量産されなかった](../Page/F4D_\(航空機\).md "wikilink")。
+**F5D スカイランサー**（*Douglas F5D Skylancer* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が](../Page/ダグラス・エアクラフト.md "wikilink")[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した試作[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。[F4Dスカイレイ戦闘機の改良型であったが量産されなかった](../Page/F4D_\(航空機\).md "wikilink")。
 
 愛称の「**スカイランサー** () 」は、空の[槍騎兵](../Page/槍騎兵.md "wikilink")の意である。
 

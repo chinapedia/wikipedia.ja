@@ -658,7 +658,7 @@
 <td><p>49</p></td>
 <td><p>もう少し居てくれんか?村上!</p></td>
 <td><p>菅良幸</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三家本泰美" title="wikilink">三家本泰美</a></p></td>
+<td><p><a href="../Page/三家本泰美.md" title="wikilink">三家本泰美</a></p></td>
 <td><p>濁川敦</p></td>
 <td><p>藪野浩二</p></td>
 <td><p>青木哲朗</p></td>

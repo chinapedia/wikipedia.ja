@@ -277,7 +277,7 @@ PlotData=
   - 1990年、[花田裕之](../Page/花田裕之.md "wikilink")のツアー『ROCK\&ROLL JET-SET RIFF ROUGH TOUR』に布袋と松井が参加。
   - 解散後、氷室と布袋が直接会話したのは、布袋の『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』完成後。布袋が氷室を訪ねると「聴いたよ」と答え、感想として「長げーよ」とコメントしたという。「良いけど長い」「長いの作りたかったんだからいいんじゃない？」と氷室は答え、率直な感想をもらえたとして布袋は嬉しかったとコメントしている\[69\]。
       - これ以前にも[横浜中華街](../Page/横浜中華街.md "wikilink")のレストランで偶然氷室と布袋が居合わせたことがあり、布袋は自身のラジオ番組にて「なんかこっちは緊張したけどね」と語っている\[70\]。
-  - [1992年](../Page/1992年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")、布袋の『[GUITARHYTHM WILD](../Page/GUITARHYTHM_WILD.md "wikilink") TOUR』の[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")公演を氷室が観覧した\[71\]。
+  - [1992年](../Page/1992年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")、布袋の『[GUITARHYTHM WILD](../Page/GUITARHYTHM_WILD.md "wikilink") TOUR』の[京都](../Page/京都.md "wikilink")公演を氷室が観覧した\[71\]。
   - [1993年](../Page/1993年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、氷室のファンクラブイベントに高橋が特別ゲストで参加。当時高橋は[De+LAXの解散が決定し無気力状態の日々を送っており](../Page/De-LAX.md "wikilink")、かつての戦友である氷室との再会で音楽への情熱が再燃したと語っている\[72\]。
   - 1993年、松井のアルバム『[あの頃僕らは](https://ja.wikipedia.org/wiki/あの頃僕らは "wikilink")』に布袋が参加。
   - 1994年、高橋のアルバム『楽しき人生』に布袋と松井が参加\[73\]。松井は同アルバムのライブにもゲスト参加した。
@@ -726,7 +726,7 @@ PlotData=
 <li>1987年1月23日 名古屋市公会堂</li>
 <li>1987年1月26日 広島郵便貯金会館</li>
 <li>1987年1月27日 <a href="../Page/倉敷市民会館.md" title="wikilink">倉敷市民会館</a></li>
-<li>1987年1月29日 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a></li>
+<li>1987年1月29日 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a></li>
 <li>1987年2月3日 <a href="../Page/愛媛県県民文化会館.md" title="wikilink">愛媛県県民文化会館</a></li>
 <li>1987年2月4日 高知県立県民文化ホール</li>
 <li>1987年2月5日 福岡市民会館</li>
@@ -997,7 +997,7 @@ PlotData=
 
   - [吉川晃司](../Page/吉川晃司.md "wikilink")（イベントで共演するなど交流があった。1986年、新宿都有3号地で豪雨の中の競演が有名。アルバム『JUST A HERO』収録の「1994-Label Of Complex-」にヴォーカルで参加。解散後に布袋寅泰と「[COMPLEX](../Page/COMPLEX.md "wikilink")」を結成。）
 
-  - [山下久美子](../Page/山下久美子.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に布袋と結婚。山下のツアーに布袋と松井がサポートで参加した他、イベントでも共演した。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[離婚](../Page/離婚.md "wikilink")。）
+  - [山下久美子](../Page/山下久美子.md "wikilink")（[1986年](../Page/1986年.md "wikilink")に布袋と結婚。山下のツアーに布袋と松井がサポートで参加した他、イベントでも共演した。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[離婚](../Page/離婚.md "wikilink")。）
 
   - [44MAGNUM](../Page/44MAGNUM.md "wikilink")（かつて同じ事務所に所属し、新宿都有3号地での共演、アルバム『FOUR FIGURES』に布袋が参加するなどの交流があった。）
 

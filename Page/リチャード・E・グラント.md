@@ -15,7 +15,7 @@
 
 ### プライベート
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にJoan Washingtonと結婚。娘が一人いる。
+[1986年](../Page/1986年.md "wikilink")にJoan Washingtonと結婚。娘が一人いる。
 
 ## 出演作品
 

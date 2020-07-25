@@ -29,7 +29,7 @@
       - BA10（8.60m/4.3m/3.03m/2.45m/DA640型/130ps）
       - BA20（9.15m/4.3m/3.03m/2.45m/DA640型/130ps）
       - BA30（9.65m/4.8m/3.05m/2.45m/DA640型/130ps）
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - BA-N系に更に短いボディのBA01N/05Nも追加。
+  - [1968年](../Page/1968年.md "wikilink") - BA-N系に更に短いボディのBA01N/05Nも追加。
       - BA01N（8.07m/3.9m/3.06m/2.25m/DA640型/130ps）
       - BA05N（8.57m/3.9m/3.06m/2.25m/DA640型/130ps）
   - BA10/20は後に[E＊M430へ](https://ja.wikipedia.org/wiki/いすゞ・エルガLT#ECM/EDM "wikilink")、BA30は後に[CLM470へ](../Page/いすゞ・C系.md "wikilink")、BA-N系は後に[BK30〜CCM系へそれぞれバトンタッチされる](https://ja.wikipedia.org/wiki/いすゞ・ジャーニーK#BK30 "wikilink")
@@ -115,7 +115,7 @@ KC-LT333J
 Image:ErgaLT-kyosyu.jpg|教習車
 KL-LT233J2
 [安全運転中央研修所](https://ja.wikipedia.org/wiki/安全運転中央研修所 "wikilink") Image:Isuzucubicｌｔ-shikensha.jpg|キュービックLT中型二種試験車
-[三重県運転免許センター](https://ja.wikipedia.org/wiki/三重県運転免許センター "wikilink")
+[三重県運転免許センター](../Page/三重県運転免許センター.md "wikilink")
 
 ## 関連項目
 

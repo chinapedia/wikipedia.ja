@@ -25,7 +25,7 @@
 
 [2006年](../Page/2006年.md "wikilink")3月、初の[USツアー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（全9公演）を行う\[14\]。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")「カナディアンミュージックフェスティバル」「[サウス・バイ・サウスウエスト](https://ja.wikipedia.org/wiki/サウス・バイ・サウスウエスト "wikilink")」に出演。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、全国展開する雑貨屋[ヴィレッジヴァンガードにてジャズのスタンダードを独自のアレンジでカヴァーした限定CD](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")「黒船のジャズ」をリリース、4月には[TBS系](../Page/TBSテレビ.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")「[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")」に生出演\[15\]。同年、約3年ぶりに国内レーベル（[Sony Musicグループの](https://ja.wikipedia.org/wiki/Sony_Music "wikilink")[DefSTAR RECORDS](https://ja.wikipedia.org/wiki/DefSTAR_RECORDS "wikilink")）へ移籍。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月、全国展開する雑貨屋[ヴィレッジヴァンガードにてジャズのスタンダードを独自のアレンジでカヴァーした限定CD](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")「黒船のジャズ」をリリース、4月には[TBS系](../Page/TBSテレビ.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")「[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")」に生出演\[15\]。同年、約3年ぶりに国内レーベル（[Sony Musicグループの](https://ja.wikipedia.org/wiki/Sony_Music "wikilink")[DefSTAR RECORDS](https://ja.wikipedia.org/wiki/DefSTAR_RECORDS "wikilink")）へ移籍。
 
 [2011年](../Page/2011年.md "wikilink")9月、アルバム「向日葵-Himawari」を全曲無料配信する“合法ダウンロード”企画を実施する。
 

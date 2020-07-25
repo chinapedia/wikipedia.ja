@@ -1,7 +1,7 @@
 > この記事は[おはようSMAP](https://ja.wikipedia.org/wiki/おはようSMAP)から翻訳されています。
 
 
-『**おはようSMAP**』（おはようスマップ）は、[TOKYO FMで](../Page/エフエム東京.md "wikilink")[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")まで放送されていた[天気予報](../Page/天気予報.md "wikilink")番組である。開始当初は『**SMAPの天気予報**』としてスタート。『[中西哲生のクロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink") (月 - 木)、[速水健朗のクロノス・フライデー](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink") (金)』（月-金 6:00-9:00）の番組内に内包する1コーナーとして月 - 金曜日 6:25 - 6:30に放送されていた。
+『**おはようSMAP**』（おはようスマップ）は、[TOKYO FMで](../Page/エフエム東京.md "wikilink")[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")まで放送されていた[天気予報](../Page/天気予報.md "wikilink")番組である。開始当初は『**SMAPの天気予報**』としてスタート。『[中西哲生のクロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink") (月 - 木)、[速水健朗のクロノス・フライデー](../Page/クロノス_\(ラジオ番組\).md "wikilink") (金)』（月-金 6:00-9:00）の番組内に内包する1コーナーとして月 - 金曜日 6:25 - 6:30に放送されていた。
 
 ## 概要
 

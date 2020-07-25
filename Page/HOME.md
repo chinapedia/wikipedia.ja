@@ -15,7 +15,7 @@
   - [HOME (井上侑のアルバム)](https://ja.wikipedia.org/wiki/HOME_\(井上侑のアルバム\) "wikilink") - [井上侑](https://ja.wikipedia.org/wiki/井上侑 "wikilink")のアルバム。
   - [HOME (山崎まさよしのアルバム)](../Page/HOME_\(山崎まさよしのアルバム\).md "wikilink") - [山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")のアルバム。
   - [Home (アンジェラ・アキのアルバム)](https://ja.wikipedia.org/wiki/Home_\(アンジェラ・アキのアルバム\) "wikilink") - [アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のアルバム。表題曲「HOME」を収録。
-  - [HOME (HOME MADE 家族のアルバム)](https://ja.wikipedia.org/wiki/HOME_\(HOME_MADE_家族のアルバム\) "wikilink") - [HOME MADE 家族のアルバム](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")。
+  - [HOME (HOME MADE 家族のアルバム)](https://ja.wikipedia.org/wiki/HOME_\(HOME_MADE_家族のアルバム\) "wikilink") - [HOME MADE 家族のアルバム](../Page/HOME_MADE_家族.md "wikilink")。
   - [HOME (Mr.Childrenのアルバム)](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink") - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のアルバム。
   - [Home (ゆずのアルバム)](https://ja.wikipedia.org/wiki/Home_\(ゆずのアルバム\) "wikilink") - [ゆずのベストアルバム](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")。
 

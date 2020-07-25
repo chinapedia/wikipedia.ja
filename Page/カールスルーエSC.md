@@ -209,7 +209,7 @@
 
   - [トーマス・ヘスラー](../Page/トーマス・ヘスラー.md "wikilink") 1994-1998
 
-  - [パトリク・イェジェク](https://ja.wikipedia.org/wiki/パトリク・イェジェク "wikilink") 2003
+  - [パトリク・イェジェク](../Page/パトリク・イェジェク.md "wikilink") 2003
 
   - [ハイナル・タマーシュ](https://ja.wikipedia.org/wiki/ハイナル・タマーシュ "wikilink") 2007-2008
 

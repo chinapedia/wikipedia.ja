@@ -7,7 +7,7 @@
 
 CompuServeの本来のパソコン通信サービスであるCompuServe Classicは[2009年](../Page/2009年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")にサービスを終了し、AOLのサービスの別ブランドであるCompuServe 2000のみが残った\[2\]。
 
-CompuServeは日本の大手パソコン通信会社である[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")株式会社とも提携しており、ニフティはCompuServeの代理店業務を行っていた\[3\]。また、日本国内でのパソコン通信である[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")からCompuServeに接続することもできた。主な接続方法には、専用線であるコンピュサーブネットワーク（GO CPS）経由と、CompuServe Information Service（GO CIS）経由があり、その他INFONET、TYMNET、VENUS-P等を経由して接続する方法もあった。また、telnetからも接続できた。なお、ニフティサーブは2006年3月31日までにすべてのパソコン通信サービスを終了している\[4\]。
+CompuServeは日本の大手パソコン通信会社である[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")株式会社とも提携しており、ニフティはCompuServeの代理店業務を行っていた\[3\]。また、日本国内でのパソコン通信である[ニフティサーブ](../Page/ニフティサーブ.md "wikilink")からCompuServeに接続することもできた。主な接続方法には、専用線であるコンピュサーブネットワーク（GO CPS）経由と、CompuServe Information Service（GO CIS）経由があり、その他INFONET、TYMNET、VENUS-P等を経由して接続する方法もあった。また、telnetからも接続できた。なお、ニフティサーブは2006年3月31日までにすべてのパソコン通信サービスを終了している\[4\]。
 
 ## 脚注
 

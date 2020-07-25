@@ -14,7 +14,7 @@
   - [松田聖子](../Page/松田聖子.md "wikilink") - 夢で逢えたら　（[1981年](../Page/1981年.md "wikilink")4月 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月）
   - [川島なお美](../Page/川島なお美.md "wikilink") - 恋のサウンドグラフィティ　（1983年4月 - [1984年](../Page/1984年.md "wikilink")9月）
   - [菊池桃子](../Page/菊池桃子.md "wikilink") - 桃子と少し夜更かし　（1984年10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月）
-  - [松本典子](../Page/松本典子.md "wikilink") - ひみつのエアメール　（1985年4月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月）
+  - [松本典子](../Page/松本典子.md "wikilink") - ひみつのエアメール　（1985年4月 - [1986年](../Page/1986年.md "wikilink")3月）
   - [国生さゆり](../Page/国生さゆり.md "wikilink") - 走れメロン　（1986年4月 - [1988年](../Page/1988年.md "wikilink")3月）
   - [渡辺美奈代](../Page/渡辺美奈代.md "wikilink") - 恋はちょっぴり\!　（1988年4月 - [1989年](../Page/1989年.md "wikilink")12月）
   - [ribbon](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink") - ハートに“ribbon”　（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月 - [1992年](../Page/1992年.md "wikilink")3月）

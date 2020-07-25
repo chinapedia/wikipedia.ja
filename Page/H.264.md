@@ -5,7 +5,7 @@
 
 [ITU-T](../Page/ITU-T.md "wikilink")では「H.264」として、[2003年](../Page/2003年.md "wikilink")初めに勧告された。[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IECでは](../Page/国際電気標準会議.md "wikilink")、ISO/IEC 14496-10「[MPEG-4](../Page/MPEG-4.md "wikilink") Part 10 Advanced Video Coding（通称：MPEG-4 AVC）」として規定されている。どちらも技術的には同一のものであり、ITU-TとISO/IECが共同で策定したため、両者の呼称を「**H.264/MPEG-4 AVC**」「**MPEG-4 AVC/H.264**」と併記することが多い。規格文書では「**ITU-T Rec. H.264 | ISO/IEC 14496-10 Advanced Video Coding**」と縦線で区切られているため、「**H.264|MPEG-4 AVC**」などとすることもある。主にソフトウェア内部の識別子として「AVC1」も使われている。
 
-従来方式である[MPEG-2](../Page/MPEG-2.md "wikilink")などの2倍以上の[圧縮効率を実現する](https://ja.wikipedia.org/wiki/データ圧縮比 "wikilink")。[携帯電話](../Page/携帯電話.md "wikilink")などの低[ビットレート用途から](../Page/ビット毎秒.md "wikilink")、[HDTVクラスの高ビットレート用途に至るまで幅広く利用されることを想定している](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。
+従来方式である[MPEG-2](../Page/MPEG-2.md "wikilink")などの2倍以上の[圧縮効率を実現する](../Page/データ圧縮比.md "wikilink")。[携帯電話](../Page/携帯電話.md "wikilink")などの低[ビットレート用途から](../Page/ビット毎秒.md "wikilink")、[HDTVクラスの高ビットレート用途に至るまで幅広く利用されることを想定している](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。
 
 ## 技術概要
 

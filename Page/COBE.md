@@ -91,7 +91,7 @@ DIRBE と FIRAS で得られた 140 - 5000µm の結果から、EBL の全強度
 
   - [あかり](../Page/あかり_\(人工衛星\).md "wikilink")
   - [スピッツァー宇宙望遠鏡](../Page/スピッツァー宇宙望遠鏡.md "wikilink")
-  - [ハーシェル宇宙天文台](https://ja.wikipedia.org/wiki/ハーシェル宇宙天文台 "wikilink")
+  - [ハーシェル宇宙天文台](../Page/ハーシェル宇宙天文台.md "wikilink")
   - [プランク (人工衛星)](https://ja.wikipedia.org/wiki/プランク_\(人工衛星\) "wikilink")
   - [WMAP](../Page/WMAP.md "wikilink")（COBE の後継プロジェクト）
   - [IRAS](../Page/IRAS.md "wikilink")

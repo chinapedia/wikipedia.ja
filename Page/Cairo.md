@@ -19,7 +19,7 @@
 
   - [GTK](../Page/GTK_\(ツールキット\).md "wikilink") - バージョン2.8以降、cairoを用いてWidgetの描画を行っている。
   - [Mozilla](../Page/Mozilla.md "wikilink"), [Firefox](../Page/Mozilla_Firefox.md "wikilink") - レンダリングエンジン[Gecko](../Page/Gecko.md "wikilink")の描画にcairoを採用。
-  - [Poppler](https://ja.wikipedia.org/wiki/Poppler "wikilink") - cairo を用いたPDF描画ライブラリ。
+  - [Poppler](../Page/Poppler.md "wikilink") - cairo を用いたPDF描画ライブラリ。
   - [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")
   - [GIMP](../Page/GIMP.md "wikilink")
 

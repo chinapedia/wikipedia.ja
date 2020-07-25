@@ -327,7 +327,7 @@
   - テレビ金沢 - 『昼Nワイド』（1993年4月以降）
   - よみうりテレビ - 『NNNよみうりニュース』
   - 広島テレビ - 『[NNN昼のニュースひろしま](https://ja.wikipedia.org/wiki/NNN昼のニュースひろしま "wikilink")』
-  - 長崎国際テレビ - 『[NIB昼のニュース](https://ja.wikipedia.org/wiki/NIB昼のニュース "wikilink")』
+  - 長崎国際テレビ - 『[NIB昼のニュース](../Page/NIB昼のニュース.md "wikilink")』
   - 鹿児島テレビ - 『[KTSニュース](../Page/KTSニュース.md "wikilink")』
   - 鹿児島読売テレビ - 『KYT昼のニュース NNN』
 

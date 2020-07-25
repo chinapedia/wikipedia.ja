@@ -193,7 +193,7 @@
   - [パーフェクト ヒューマン](https://ja.wikipedia.org/wiki/パーフェクト_ヒューマン "wikilink") （[高橋一仁](https://ja.wikipedia.org/wiki/高橋一仁 "wikilink") 全5巻\[90\]）
   - 俳句トゥ ザ フューチャー（[吉沢緑時](https://ja.wikipedia.org/wiki/吉沢緑時 "wikilink")、全1巻\[91\]）
   - はいさい新聞文化生活部（原作：高津太郎、作画：ひらまつおさむ、全2巻）
-  - ハガワの異常な愛情（[大羽隆廣](https://ja.wikipedia.org/wiki/大羽隆廣 "wikilink")、全1巻）
+  - ハガワの異常な愛情（[大羽隆廣](../Page/大羽隆廣.md "wikilink")、全1巻）
   - 走れ\!バンクマン（[高野洋](https://ja.wikipedia.org/wiki/高野洋 "wikilink")）
   - パスタでボ〜ノ（[沖田龍児](https://ja.wikipedia.org/wiki/沖田龍児 "wikilink")）
   - はちまきおじさん（[白木卓](https://ja.wikipedia.org/wiki/白木卓 "wikilink")）

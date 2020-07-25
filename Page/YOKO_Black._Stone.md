@@ -43,7 +43,7 @@
   - [碧井椿](../Page/碧井椿.md "wikilink") - 「未来を」
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink") - 「Rescue me」（作詞・作曲・編曲）「Baby I Like」「Did I Hear You Say That You're In Love」 「It's Alright」「Stepping ∞ Out」「Baby Tonight 〜You & Me〜」「Can't get enough 〜gimme your love〜」「think about」「Double Rainbow」「All Night」「What are you waiting for」「thankful」「Not that kind a girl」「gonna keep on tryin'」「愛をもっと」「想いの先に...」「Wonderland」（作曲・編曲）「Kiss」（作曲）
   - [滴草由実](../Page/滴草由実.md "wikilink") - 「[星月夜](https://ja.wikipedia.org/wiki/TAKE_ME_TAKE_ME "wikilink")」\[2\]「MOVE ON」「眠れぬ少女」「Tell me how you feel」（作曲・編曲）
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink") - 「[Get U're Dream](../Page/Get_U're_Dream.md "wikilink")（Version Three）」（編曲）
+  - [ZARD](../Page/ZARD.md "wikilink") - 「[Get U're Dream](../Page/Get_U're_Dream.md "wikilink")（Version Three）」（編曲）
   - [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink") - 「[JUDY 〜English ver.〜](https://ja.wikipedia.org/wiki/GOODBYE_LONELY_〜Bside_collection〜 "wikilink")」(英訳詞)
   - [小泉ニロ](../Page/小泉ニロ.md "wikilink")
   - [PINC INC](https://ja.wikipedia.org/wiki/PINC_INC "wikilink")

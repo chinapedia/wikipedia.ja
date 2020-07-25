@@ -18,7 +18,7 @@
 函館エリアで[北都交通と](../Page/北都交通_\(北海道\).md "wikilink")[定期観光バス](../Page/定期観光バス.md "wikilink")を[共同運行](../Page/共同運行.md "wikilink")する。いわゆる一般路線バスの運行は行っていない。車両は6台登録されている\[1\]。
 
   - お気軽元町半日コース
-    [湯の川温泉](../Page/湯の川温泉_\(北海道\).md "wikilink") - [函館駅前バスターミナル](../Page/函館駅前バスターミナル.md "wikilink") - 旧イギリス領事館 - 元町 - [立待岬](https://ja.wikipedia.org/wiki/立待岬 "wikilink") - ブルームーン/[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")記念館 - [金森赤レンガ倉庫](../Page/金森赤レンガ倉庫.md "wikilink") - 函館駅前バスターミナル
+    [湯の川温泉](../Page/湯の川温泉_\(北海道\).md "wikilink") - [函館駅前バスターミナル](../Page/函館駅前バスターミナル.md "wikilink") - 旧イギリス領事館 - 元町 - [立待岬](../Page/立待岬.md "wikilink") - ブルームーン/[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")記念館 - [金森赤レンガ倉庫](../Page/金森赤レンガ倉庫.md "wikilink") - 函館駅前バスターミナル
   - お気軽半日歴史散歩コース
     函館駅前バスターミナル - [五稜郭公園](https://ja.wikipedia.org/wiki/五稜郭公園 "wikilink")・[五稜郭タワー](../Page/五稜郭タワー.md "wikilink") - [トラピスチヌ修道院](https://ja.wikipedia.org/wiki/トラピスチヌ修道院 "wikilink") - 土方啄木浪漫館 - 啄木小公園 - 函館駅前バスターミナル - 湯の川温泉
   - Mt.函館夜景ロマンコース

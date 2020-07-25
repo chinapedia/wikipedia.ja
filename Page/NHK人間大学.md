@@ -93,7 +93,7 @@
 <td><p>宇宙はどこまでわかっているか<br />
 <a href="../Page/池内了.md" title="wikilink">池内了</a></p></td>
 <td><p>少女へのまなざし<br />
-<a href="https://ja.wikipedia.org/wiki/本田和子" title="wikilink">本田和子</a></p></td>
+<a href="../Page/本田和子.md" title="wikilink">本田和子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>

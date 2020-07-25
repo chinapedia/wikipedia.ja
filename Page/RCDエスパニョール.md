@@ -15,7 +15,7 @@
 
 2006年夏、[ビルバオで](../Page/アスレティック・ビルバオ.md "wikilink")[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")出場権を獲得した[エルネスト・バルベルデ](https://ja.wikipedia.org/wiki/エルネスト・バルベルデ "wikilink")監督と契約した。
 
-2006-07シーズン前半戦は優勝争いに絡んだが、後半戦に大きく失速して11位でシーズンを終えた。FW[ラウール・タムード](../Page/ラウール・タムード.md "wikilink")とFW[ルイス・ガルシアの両エースが合わせて](https://ja.wikipedia.org/wiki/ルイス・ガルシア・フェルナンデス "wikilink")25得点し、ラウール・タムードは[マラニョンが持っていたクラブ記録](https://ja.wikipedia.org/wiki/ラファエル・カルロス・ペレス・ゴンサレス "wikilink")（111得点）を塗り替えた。[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")などと同居したグループリーグを4戦4勝（得点11、失点2）で首位通過し、決勝トーナメントでは[ASリヴォルノ・カルチョ](../Page/ASリヴォルノ・カルチョ.md "wikilink")、[マッカビ・ハイファ](https://ja.wikipedia.org/wiki/マッカビ・ハイファ "wikilink")、[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")、[ヴェルダー・ブレーメン](../Page/ヴェルダー・ブレーメン.md "wikilink")を倒して決勝に進出した。決勝ではPK戦の末に[セビージャに敗れたが](../Page/セビージャFC.md "wikilink")、FW[ワルテル・パンディアーニ](https://ja.wikipedia.org/wiki/ワルテル・パンディアーニ "wikilink")が得点王を獲得した。
+2006-07シーズン前半戦は優勝争いに絡んだが、後半戦に大きく失速して11位でシーズンを終えた。FW[ラウール・タムード](../Page/ラウール・タムード.md "wikilink")とFW[ルイス・ガルシアの両エースが合わせて](../Page/ルイス・ガルシア・フェルナンデス.md "wikilink")25得点し、ラウール・タムードは[マラニョンが持っていたクラブ記録](https://ja.wikipedia.org/wiki/ラファエル・カルロス・ペレス・ゴンサレス "wikilink")（111得点）を塗り替えた。[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")などと同居したグループリーグを4戦4勝（得点11、失点2）で首位通過し、決勝トーナメントでは[ASリヴォルノ・カルチョ](../Page/ASリヴォルノ・カルチョ.md "wikilink")、[マッカビ・ハイファ](https://ja.wikipedia.org/wiki/マッカビ・ハイファ "wikilink")、[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")、[ヴェルダー・ブレーメン](../Page/ヴェルダー・ブレーメン.md "wikilink")を倒して決勝に進出した。決勝ではPK戦の末に[セビージャに敗れたが](../Page/セビージャFC.md "wikilink")、FW[ワルテル・パンディアーニ](https://ja.wikipedia.org/wiki/ワルテル・パンディアーニ "wikilink")が得点王を獲得した。
 
 2007年夏、スーパーサブ的な存在だったワルテル・パンディアーニが[オサスナに移籍したが](../Page/CAオサスナ.md "wikilink")、MF[バルド](https://ja.wikipedia.org/wiki/バルミロ・ロペス・ロチャ "wikilink")、MF[ミラン・スミリャニッチ](https://ja.wikipedia.org/wiki/ミラン・スミリャニッチ "wikilink")、DF[クレメンテ・ロドリゲス](../Page/クレメンテ・ロドリゲス.md "wikilink")などを獲得して選手層の充実を図った。
 
@@ -713,7 +713,7 @@
 
   - [フランシスコ・ルフェテ](../Page/フランシスコ・ルフェテ.md "wikilink") 2006 - 2009
 
-  - [アルベルト・リエラ](https://ja.wikipedia.org/wiki/アルベルト・リエラ "wikilink") 2006 - 2008
+  - [アルベルト・リエラ](../Page/アルベルト・リエラ.md "wikilink") 2006 - 2008
 
   - [ミゲル・パランカ](https://ja.wikipedia.org/wiki/ミゲル・パランカ "wikilink") 2006 - 2008
 
@@ -749,7 +749,7 @@
 
   - [ホナタン・ソリアーノ・カサス](https://ja.wikipedia.org/wiki/ホナタン・ソリアーノ・カサス "wikilink") 2002 - 2009
 
-  - [ルイス・ガルシア](https://ja.wikipedia.org/wiki/ルイス・ガルシア・フェルナンデス "wikilink") 2005 - 2011
+  - [ルイス・ガルシア](../Page/ルイス・ガルシア・フェルナンデス.md "wikilink") 2005 - 2011
 
   - [ワルテル・パンディアーニ](https://ja.wikipedia.org/wiki/ワルテル・パンディアーニ "wikilink") 2006 - 2007、2011 - 2012
 

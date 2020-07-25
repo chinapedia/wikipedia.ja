@@ -141,7 +141,7 @@
   - [タイガー・ジェット・シン](../Page/タイガー・ジェット・シン.md "wikilink")
   - [ダグ・ギルバート](https://ja.wikipedia.org/wiki/ダグ・ギルバート "wikilink")（フレディ・クルーガー）
   - [ダン・スバーン](../Page/ダン・スバーン.md "wikilink")
-  - [ディック・スレーター](https://ja.wikipedia.org/wiki/ディック・スレーター "wikilink")
+  - [ディック・スレーター](../Page/ディック・スレーター.md "wikilink")
   - [ディック・マードック](../Page/ディック・マードック.md "wikilink")
   - [バンパイア・ウォリアー](../Page/デビッド・ヒース.md "wikilink")
   - [テリー・ゴディ](../Page/テリー・ゴディ.md "wikilink")

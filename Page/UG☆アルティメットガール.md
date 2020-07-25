@@ -9,7 +9,7 @@
 
 普通の[女子高生](../Page/女子高生.md "wikilink")3人が[巨大ヒロインに](../Page/巨大娘.md "wikilink")[変身して](../Page/変身_\(ヒーロー\).md "wikilink")[怪獣](../Page/怪獣.md "wikilink")と闘うという設定。[m.o.e.](https://ja.wikipedia.org/wiki/m.o.e. "wikilink")の[UHFアニメ](../Page/UHFアニメ.md "wikilink")らしく、[お色気](https://ja.wikipedia.org/wiki/お色気 "wikilink")要素が多い（それでも[変身3部作](../Page/変身3部作.md "wikilink")に見られたような過激な描写はあまりなかった）。
 
-『[A15](../Page/A15.md "wikilink")』が放送されていた[tvkや](../Page/テレビ神奈川.md "wikilink")[サンテレビ関連のネタもある](../Page/サンテレビジョン.md "wikilink")。監督の[ムトウユージ](../Page/ムトウユージ.md "wikilink")が後年に自身の[Twitter](../Page/Twitter.md "wikilink")で明かしたところによれば、第7話の制作に際してはサンテレビの地元である[神戸](../Page/神戸.md "wikilink")での[ロケを行い](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、同局内の[喫茶店](../Page/喫茶店.md "wikilink")などを訪れて[神戸港](../Page/神戸港.md "wikilink")の風景を撮影したという\[1\]。
+『[A15](../Page/A15.md "wikilink")』が放送されていた[tvkや](../Page/テレビ神奈川.md "wikilink")[サンテレビ関連のネタもある](../Page/サンテレビジョン.md "wikilink")。監督の[ムトウユージ](../Page/ムトウユージ.md "wikilink")が後年に自身の[Twitter](../Page/Twitter.md "wikilink")で明かしたところによれば、第7話の制作に際してはサンテレビの地元である[神戸](../Page/神戸.md "wikilink")での[ロケを行い](../Page/ロケーション撮影.md "wikilink")、同局内の[喫茶店](../Page/喫茶店.md "wikilink")などを訪れて[神戸港](../Page/神戸港.md "wikilink")の風景を撮影したという\[1\]。
 
 ## あらすじ
 
@@ -237,7 +237,7 @@ UFOマンが戦った怪獣。
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>アキバより愛をこめて</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/ウルトラセブン" title="wikilink">ウルトラセブン</a>』第12話<br />
+<td><p>『<a href="../Page/ウルトラセブン.md" title="wikilink">ウルトラセブン</a>』第12話<br />
 「遊星より愛をこめて」</p></td>
 <td><p><a href="../Page/今千秋.md" title="wikilink">今千秋</a></p></td>
 <td><p><a href="../Page/沼田誠也.md" title="wikilink">沼田誠也</a></p></td>

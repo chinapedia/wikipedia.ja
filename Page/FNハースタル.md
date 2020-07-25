@@ -31,7 +31,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
 
 [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")などから反対されていたにも関わらず、7.62mm口径をNATO弾に制定したアメリカは、[1960年代](../Page/1960年代.md "wikilink")半ばに5.56mm口径を、大胆にもNATO弾へと制定した。そのため、[1977年](../Page/1977年.md "wikilink")\~[1979年](../Page/1979年.md "wikilink")にかけ、NATO諸国は5.56mm弾の比較テストを行い、その結果、FN社の開発した[SS109弾をNATO弾に制定することとした](https://ja.wikipedia.org/wiki/5.56mm_NATO弾 "wikilink")。これに合わせ、FN社は5.56mm口径のアサルトライフル、「[CAL（軽オートマチック・カービン）](../Page/FN_CAL.md "wikilink")」を開発した。しかし、アメリカ製[M16ライフルへの対抗意識で](../Page/M16自動小銃.md "wikilink")、ヴェルヴィエら開発陣営はCALの開発を早めたため、設計を十分に練る事が出来なかった。そのことがCALの信頼性不足や短命さにつながってしまい、CALはFALの様な成功をおさめる事は出来なかった。CALの失敗が明らかとなった[1970年代](../Page/1970年代.md "wikilink")半ばに、CALを簡略化した「[FN FNC](../Page/FN_FNC.md "wikilink")」の開発を開始。[1979年](../Page/1979年.md "wikilink")に生産に入るが、そのころにはどの国もアメリカのM16シリーズを採用、もしくは自国で5.56mm口径ライフルを開発していた他、当時の流行に反した堅実すぎる仕様等が原因でFNCは自国と[スウェーデン軍](../Page/スウェーデン軍.md "wikilink")、[インドネシア軍](https://ja.wikipedia.org/wiki/インドネシア軍 "wikilink")の3カ国でしか採用されなかった。FNCはCAL同様FALの様な成功をおさめることが出来ず、FN社は5.56mm口径軍用銃開発の波に乗り損ねてしまった。しかし、5.56mm口径の「[ミニミ軽機関銃](../Page/ミニミ軽機関銃.md "wikilink")」を開発し、アメリカ、日本など10カ国で以上で採用され、5.56mm銃身が真っ赤になるほど撃っても問題なく撃てる傑作LMGだった。 [1980年代](../Page/1980年代.md "wikilink")にFN社自身で新たな波を作ろうとした。それは、新弾薬を使用する「[FN P90 PDW](../Page/FN_P90.md "wikilink")」と「[BRG-15重機関銃](https://ja.wikipedia.org/wiki/FN_BRG-15 "wikilink")」である。BRG-15はブローニングM2重機関銃の後任を狙った重機関銃で、口径は15mm（後の改良で15.5mmとなる）である。しかし、既にM2重機関銃を運用している国からすれば、保有している兵器と弾薬を破棄しなくてはならず、しかもM2はまだ現役で運用する事が可能な程の性能を有しているため、BRG-15に転換する必然性は薄かった。結局、BRG-15計画は[1990年代](../Page/1990年代.md "wikilink")初めに中止された。P90は新たに5.7mm口径を採用したもので、FN社はP90と同一の弾薬を使用する自動拳銃「[Five-seveN](../Page/FN_Five-seveN.md "wikilink")」を1990年代初めに開発しており、ライフル弾と拳銃弾の中間に位置する新規格の開拓を狙ったものだった。しかしBRG-15と同じく新弾薬を採用していることや、有効射程、命中性などの観点での問題、そもそも冷戦が終結しPDW計画が中止された事もあって、各国が採用を躊躇い、肝心のPDWとして採用されることはなかった。ただしP90は1997年の[在ペルー日本大使公邸占拠事件](../Page/在ペルー日本大使公邸占拠事件.md "wikilink")がきっかけとなり、一部の特殊部隊に特殊作戦向けの**サブマシンガン**として採用された。
 
-[1970年代](../Page/1970年代.md "wikilink")はヒット銃器メーカーの一員であったFN社は、1980年代に入ってからの相次ぐ企画倒れに低迷を続け、それに止めを刺すように[冷戦](../Page/冷戦.md "wikilink")終結の近づきによる軍需低迷も加わり、FN社の業績は大きく低下した。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、FN社は[ブローニング・アームズ](../Page/ブローニング・アームズ.md "wikilink")社を傘下に収める。そのブローニング社は、[1989年](../Page/1989年.md "wikilink")に[U.S.リピーティング・アームズ社](../Page/ウィンチェスター・リピーティングアームズ.md "wikilink")（商標:ウィンチェスター）を買収した。これらアメリカを代表する銃器メーカーを買収したFN社は、同業社の買収のほかにも[スポーツ用品市場にも進出し多角化を図るも](https://ja.wikipedia.org/wiki/スポーツ器具 "wikilink")、それが裏目にでる結果となり、負債を増加させ、さらなる経営圧迫を招いてしまう。[1991年](../Page/1991年.md "wikilink")、ついにFN社はフランスの防衛グループ企業GIAT（現 [ネクスター](https://ja.wikipedia.org/wiki/ネクスター "wikilink")）傘下に入り、**FNハースタル**（FN Herstal）と社名を変更、GIAT社はFN社とその傘下企業をハースタル・グループへと再編した。1997年でハースタル・グループはベルギー[ワロン地域](../Page/ワロン地域.md "wikilink")資金によってGIATから独立した。
+[1970年代](../Page/1970年代.md "wikilink")はヒット銃器メーカーの一員であったFN社は、1980年代に入ってからの相次ぐ企画倒れに低迷を続け、それに止めを刺すように[冷戦](../Page/冷戦.md "wikilink")終結の近づきによる軍需低迷も加わり、FN社の業績は大きく低下した。[1986年](../Page/1986年.md "wikilink")、FN社は[ブローニング・アームズ](../Page/ブローニング・アームズ.md "wikilink")社を傘下に収める。そのブローニング社は、[1989年](../Page/1989年.md "wikilink")に[U.S.リピーティング・アームズ社](../Page/ウィンチェスター・リピーティングアームズ.md "wikilink")（商標:ウィンチェスター）を買収した。これらアメリカを代表する銃器メーカーを買収したFN社は、同業社の買収のほかにも[スポーツ用品市場にも進出し多角化を図るも](https://ja.wikipedia.org/wiki/スポーツ器具 "wikilink")、それが裏目にでる結果となり、負債を増加させ、さらなる経営圧迫を招いてしまう。[1991年](../Page/1991年.md "wikilink")、ついにFN社はフランスの防衛グループ企業GIAT（現 [ネクスター](https://ja.wikipedia.org/wiki/ネクスター "wikilink")）傘下に入り、**FNハースタル**（FN Herstal）と社名を変更、GIAT社はFN社とその傘下企業をハースタル・グループへと再編した。1997年でハースタル・グループはベルギー[ワロン地域](../Page/ワロン地域.md "wikilink")資金によってGIATから独立した。
 
 現在、ハースタル・グループの中核企業であるFN社は、軍・警察用の小火器や関連製品の開発、販売を中心として活動している。
 
@@ -104,7 +104,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
   - [ブローニング・オート22](https://ja.wikipedia.org/wiki/ブローニング・オート22 "wikilink")
   - [FNAR](https://ja.wikipedia.org/wiki/:en:FN_FNAR "wikilink")
   - [FS2000](../Page/FN_F2000.md "wikilink")・・・F2000の民間向けモデル　セミオートのみ
-  - [SCAR 16S](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")・・・SCAR-Lの民間向けモデル　セミオートのみ
+  - [SCAR 16S](../Page/FN_SCAR.md "wikilink")・・・SCAR-Lの民間向けモデル　セミオートのみ
 
 ### 突撃銃
 
@@ -115,7 +115,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
   - [FNC](../Page/FN_FNC.md "wikilink")
   - [F2000](../Page/FN_F2000.md "wikilink")
   - [M16A4](https://ja.wikipedia.org/wiki/M16自動小銃#M16A4\(905\) "wikilink")・・・FNH USA社でライセンス生産
-  - [SCAR](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")
+  - [SCAR](../Page/FN_SCAR.md "wikilink")
   - [FNAC](https://ja.wikipedia.org/wiki/FN_FNAC "wikilink")
 
 ### 分隊支援火器(SAW)・汎用機関銃(GPMG)
@@ -134,7 +134,7 @@ FALはFN社を軍用ライフルメーカーとしての確たる地位を築い
 ### グレネードランチャー
 
   - [シングル・ショット・グレネードランチャー](https://ja.wikipedia.org/wiki/FNシングル・ショット・グレネードランチャー "wikilink")
-  - [MK13(FN40GL)](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")・・・SCAR用
+  - [MK13(FN40GL)](../Page/FN_SCAR.md "wikilink")・・・SCAR用
   - [GL1](../Page/FN_F2000.md "wikilink")・・・F2000用
 
 ### 低致死性兵器

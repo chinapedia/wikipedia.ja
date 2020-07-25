@@ -230,7 +230,7 @@
   - D - [家中宏](../Page/家中宏.md "wikilink")
   - 左手 - 永井一郎
   - レイラ＝マーカス - [高山みなみ](../Page/高山みなみ.md "wikilink")
-  - マイエル＝リンク - [諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")
+  - マイエル＝リンク - [諸角憲一](../Page/諸角憲一.md "wikilink")
   - シャーロット＝エルバーン - [冬馬由美](../Page/冬馬由美.md "wikilink")
   - ボルゴフ＝マーカス - [立木文彦](../Page/立木文彦.md "wikilink")
   - カーミラ - [野沢由香里](../Page/野沢由香里.md "wikilink")

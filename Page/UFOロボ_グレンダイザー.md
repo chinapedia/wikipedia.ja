@@ -1289,7 +1289,7 @@
   -
 
       -
-        1975年10月号 - 1977年3月号 [桜多吾作](../Page/桜多吾作.md "wikilink")：単行本は[秋田書店](../Page/秋田書店.md "wikilink")[サンデーコミックス](https://ja.wikipedia.org/wiki/サンデーコミックス "wikilink")(全3巻)のほか[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")アクションコミックス(全3巻)で刊行。
+        1975年10月号 - 1977年3月号 [桜多吾作](../Page/桜多吾作.md "wikilink")：単行本は[秋田書店](../Page/秋田書店.md "wikilink")[サンデーコミックス](../Page/サンデーコミックス.md "wikilink")(全3巻)のほか[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")アクションコミックス(全3巻)で刊行。
 
 <!-- end list -->
 
@@ -1425,7 +1425,7 @@
 1.  なお兜甲児の登場はテレビ局側からの要望であり、そのためにスタッフが混乱したとの勝田稔男のコメントがある。（LPレコード「アニメ愛蔵版シリーズ UFOロボ グレンダイザー～デュークフリード死闘の記録」CZ-7158 1981年12月 ライナーノート“なつかしい思い出 東映動画プロデューサー勝田稔男”）
 2.  本作放映開始の翌年の1976年には、TBS系で『[UFO戦士ダイアポロン](../Page/UFO戦士ダイアポロン.md "wikilink")』が放映されている。
 3.  ロボットアニメ以外では、『[宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")』や『[宇宙の騎士テッカマン](../Page/宇宙の騎士テッカマン.md "wikilink")』などが先行している。
-4.  ただし、実写も含めたSFドラマの範疇であれば、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』や『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』などの円谷プロ作品が先行者である。
+4.  ただし、実写も含めたSFドラマの範疇であれば、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』や『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』などの円谷プロ作品が先行者である。
 5.  JASRAC賞－[第1回～第5回](http://www.jasrac.or.jp/profile/prize/1982.html)／[第6回～第10回](http://www.jasrac.or.jp/profile/prize/1988.html)
 6.  [劇場版で一時的にグレートマジンガーを操縦する](../Page/UFOロボ_グレンダイザー対グレートマジンガー.md "wikilink")、TFO大破後にボスボロットに搭乗した程度。
 7.

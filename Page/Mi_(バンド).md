@@ -17,7 +17,7 @@
 
   - Maika（まいか、本名：伊藤舞華、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[1988年](../Page/1988年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")-）[東京都](../Page/東京都.md "wikilink")出身。O型。身長159cm
     [2004年](../Page/2004年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に、当時中学生だったが、前述のプロジェクトのスタッフルームに一番近いコンビニで買い物をしていた時に声をかけられる。中学生からバンドのヴォーカルとして活動していたが、そのバンドの解散と高校進学に伴い、正式にMiのボーカルとなる。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")人との[クォーターである](https://ja.wikipedia.org/wiki/クオーター "wikilink")。愛称は、「マイキー」。姉はメジャーで活躍している「[マリア](../Page/マリア_\(日本の歌手\).md "wikilink")」（ユニバーサルミュージック）
-  - Aya（あや、本名：清水綾、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")-）[東京都](../Page/東京都.md "wikilink")出身。A型。身長164cm
+  - Aya（あや、本名：清水綾、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[1986年](../Page/1986年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")-）[東京都](../Page/東京都.md "wikilink")出身。A型。身長164cm
     3歳からピアノを弾き続けており、高校時代に活動していたバンド時代の[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")の経験を買われ、Miでも作詞作曲をてがける。愛称は「あやまん」、「あやまんちゅん」。
     [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のファンである。
   - Yuri（ゆり、本名：伊達友梨子、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")-）[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。O型。身長156cm

@@ -20,7 +20,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 山田が脱退し、代わりに秦が加入。レコード会社をZAIN RECORDから日本コロムビアBeat reCに移籍。
   - [1999年](../Page/1999年.md "wikilink") - 解散。
 
-しかし、2001年頃まで[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")や[FIELD OF VIEWの作品にコーラスなどで参加した大田のクレジットには](../Page/FIELD_OF_VIEW.md "wikilink")「from BAAD」と表記されていた。
+しかし、2001年頃まで[ZARD](../Page/ZARD.md "wikilink")や[FIELD OF VIEWの作品にコーラスなどで参加した大田のクレジットには](../Page/FIELD_OF_VIEW.md "wikilink")「from BAAD」と表記されていた。
 
 ## ディスコグラフィー
 

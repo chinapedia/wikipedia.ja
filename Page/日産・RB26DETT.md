@@ -74,7 +74,7 @@ RB26DETTは、開発当時[グループA](../Page/グループA.md "wikilink") (
 
   - [日産のエンジン型式一覧](../Page/日産のエンジン型式一覧.md "wikilink")
   - [日産・RBエンジン](../Page/日産・RBエンジン.md "wikilink")
-  - [日産・VR38DETT](https://ja.wikipedia.org/wiki/日産・VR38DETT "wikilink")
+  - [日産・VR38DETT](../Page/日産・VR38DETT.md "wikilink")
 
 [en:Nissan_RB_engine\#RB26DETT](https://ja.wikipedia.org/wiki/en:Nissan_RB_engine#RB26DETT "wikilink")
 

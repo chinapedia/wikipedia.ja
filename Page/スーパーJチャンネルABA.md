@@ -94,7 +94,7 @@
   - [藤元由紀](https://ja.wikipedia.org/wiki/藤元由紀 "wikilink")（天気予報担当）
   - [増田明美](../Page/増田明美_\(アナウンサー\).md "wikilink")
   - [柳瀬若菜](../Page/柳瀬若菜.md "wikilink")
-  - [吉葉和義](https://ja.wikipedia.org/wiki/吉葉和義 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")・[アップルウェザー](https://ja.wikipedia.org/wiki/アップルウェザー "wikilink")所属、「ツキイチおてんき～わ～ど」に出演）
+  - [吉葉和義](https://ja.wikipedia.org/wiki/吉葉和義 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")・[アップルウェザー](../Page/アップルウェザー.md "wikilink")所属、「ツキイチおてんき～わ～ど」に出演）
   - [鈴木理香子](../Page/鈴木理香子.md "wikilink")
   - [藤岡勇貴](../Page/藤岡勇貴.md "wikilink")
   - [対馬孝之](../Page/対馬孝之.md "wikilink")

@@ -53,7 +53,7 @@
       - **[FCガンジュ岩手](../Page/FCガンジュ岩手.md "wikilink")**（1部、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")、[八幡平市](../Page/八幡平市.md "wikilink")） - 代表挨拶にJリーグを目指す旨を記載\[11\]。
       - **[Cobaltore女川](../Page/Cobaltore女川.md "wikilink")**（1部、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[牡鹿郡](https://ja.wikipedia.org/wiki/牡鹿郡 "wikilink")[女川町](https://ja.wikipedia.org/wiki/女川町 "wikilink")） - 公式サイトにJリーグ入りを目指すことを記載\[12\]。
   - [関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")
-      - **[つくばFC](https://ja.wikipedia.org/wiki/つくばFC "wikilink")**（1部、[茨城県](../Page/茨城県.md "wikilink")[つくば市](../Page/つくば市.md "wikilink")） - つくばFC男子のトップチームである「ジョイフル本田つくばFC」は、将来の「Jリーグ」参入を目指し活動している\[13\]。
+      - **[つくばFC](../Page/つくばFC.md "wikilink")**（1部、[茨城県](../Page/茨城県.md "wikilink")[つくば市](../Page/つくば市.md "wikilink")） - つくばFC男子のトップチームである「ジョイフル本田つくばFC」は、将来の「Jリーグ」参入を目指し活動している\[13\]。
       - **[アイデンティみらい](https://ja.wikipedia.org/wiki/アイデンティみらい "wikilink")**（2部、[茨城県](../Page/茨城県.md "wikilink")[取手市](../Page/取手市.md "wikilink")、[守谷市](../Page/守谷市.md "wikilink")、[つくばみらい市](../Page/つくばみらい市.md "wikilink")、[常総市](../Page/常総市.md "wikilink")） - 公式サイトにJリーグを目指すことを記載\[14\]。
       - **[東京23フットボールクラブ](../Page/東京23フットボールクラブ.md "wikilink")**（1部、[東京都](../Page/東京都.md "wikilink")[特別区(東京23区)](../Page/東京都区部.md "wikilink")） - 公式サイトにて“私たちの目標は「Jリーグ」のその先にある「世界」なのです”と公言\[15\]。
       - **[東京ユナイテッドFC](https://ja.wikipedia.org/wiki/東京ユナイテッドFC "wikilink")**（1部、[東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")を中心とする[特別区(東京23区)](../Page/東京都区部.md "wikilink")） - Jリーグクラブとして、日本を代表する国際的なサッカークラブを目指す\[16\]。

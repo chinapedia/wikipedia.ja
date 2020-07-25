@@ -124,10 +124,10 @@
       -
         32ビットCPU。1990年代前半のパソコンの代表的なCPUとなった。
   - 1985年 [386ライセンス訴訟](https://ja.wikipedia.org/wiki/386ライセンス訴訟 "wikilink")
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") [MIPS](../Page/ミップス・テクノロジーズ.md "wikilink") [R2000](../Page/R2000.md "wikilink")
+  - [1986年](../Page/1986年.md "wikilink") [MIPS](../Page/ミップス・テクノロジーズ.md "wikilink") [R2000](../Page/R2000.md "wikilink")
       -
         ほぼ最初の商用 32ビットRISC CPU。[DECや](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")のワークステーションで採用された。MIPSはその後、いったんシリコングラフィックスに買収されCPUの開発を続けた。
-  - 1986年 [エイコーン・コンピュータ](https://ja.wikipedia.org/wiki/エイコーン・コンピュータ "wikilink") ARM2を開発
+  - 1986年 [エイコーン・コンピュータ](../Page/エイコーン・コンピュータ.md "wikilink") ARM2を開発
       -
         32ビット RISC CPU。[Acorn Archimedesに搭載された](https://ja.wikipedia.org/wiki/Acorn_Archimedes "wikilink")。6502の発展として設計されCISCとしての特徴も併せ持つ。低消費電力に注力した[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")は後にGSM携帯電話や[アップル・ニュートン](../Page/アップル・ニュートン.md "wikilink")に採用され組み込みCPUとして圧倒的なシェアを誇る。
   - 1986年10月 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](../Page/PA-RISC.md "wikilink")
@@ -151,7 +151,7 @@
 
 ## 1990年代前半 64ビットRISC の登場
 
-CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")CPUが登場した。[RISC](../Page/RISC.md "wikilink") CPUを採用した[ワークステーション](../Page/ワークステーション.md "wikilink")はこの頃全盛時代を迎えた。パソコンの分野では [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代初頭に16ビットCPUから32ビットCPUへの移行が進み、本格的に32ビット時代に入った。それまでのパソコン用CPUでは、新型CPUが登場してから本格的に普及するまで4-5年程度の遅延が生じていたが、パソコン市場が拡大し競争が活発になるにつれて最新CPUが短期間のうちに普及パソコンに採用されるようになっていった。
+CPUの分野では業務用向けに[64ビット](../Page/64ビット.md "wikilink")CPUが登場した。[RISC](../Page/RISC.md "wikilink") CPUを採用した[ワークステーション](../Page/ワークステーション.md "wikilink")はこの頃全盛時代を迎えた。パソコンの分野では [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代初頭に16ビットCPUから32ビットCPUへの移行が進み、本格的に32ビット時代に入った。それまでのパソコン用CPUでは、新型CPUが登場してから本格的に普及するまで4-5年程度の遅延が生じていたが、パソコン市場が拡大し競争が活発になるにつれて最新CPUが短期間のうちに普及パソコンに採用されるようになっていった。
 
   - [1991年](../Page/1991年.md "wikilink") [MIPS](../Page/ミップス・テクノロジーズ.md "wikilink") [R4000](https://ja.wikipedia.org/wiki/R4000 "wikilink")
       -
@@ -365,7 +365,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   - 2007年11月12日　インテル、45nmプロセスで製作された Intel Core 2 プロセッサ （コードネーム : [Penryn](https://ja.wikipedia.org/wiki/Intel_Core_2#Penryn "wikilink")）を発表。
     [ハフニウム](../Page/ハフニウム.md "wikilink")を使ったHigh-K絶縁膜・金属ゲートを初めて採用、Super Shuffleエンジン、ATA命令などを新たに搭載、Radix-16 dividerによる高速な除算を実現。
   - 2007年11月19日 AMD K10マイクロアーキテクチャに基づいたデスクトップ用プロセッサ [Phenom](https://ja.wikipedia.org/wiki/Phenom "wikilink")を発表した。Phenomのバリエーションにおいてはクアッドコアの他に、世界初の x86 トリプルコア採用 CPU Phenom 8000 シリーズが発売された。
-  - 2008年3月2日 インテル、低消費電力プロセッサ [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") （コードネーム : Silverthorne）を発表。
+  - 2008年3月2日 インテル、低消費電力プロセッサ [Intel Atom](../Page/Intel_Atom.md "wikilink") （コードネーム : Silverthorne）を発表。
     あえて[アウトオブオーダー実行](https://ja.wikipedia.org/wiki/アウトオブオーダー実行 "wikilink")を採用せず、他方[同時マルチスレッディング](../Page/同時マルチスレッディング.md "wikilink")を採用するなど、消費電力と性能に関する取り組みに特徴がある。
   - 2008年4月9日、サンと富士通は、UltraSPARC T2 Plus（コードネーム : Victoria Falls）発表。
     SMP対応機能が追加され、SMP構成で256ハードウェアスレッドをサポート。\[1\]\[2\]
@@ -401,7 +401,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 
 2000年代以降、クロック周波数当たりの性能を稼ぐために[SIMD](../Page/SIMD.md "wikilink")などCPUに内蔵された命令の複雑化・多様化が進み､並列処理に特化した[GPUなどの専用回路もCPUの一機能として取り込まれつつある](../Page/Graphics_Processing_Unit.md "wikilink")。
 
-パーソナルコンピュータやPCサーバだけでなく、スーパーコンピュータやハイエンドのサーバーにおいてもx86の進出が進んだ。一方、2010年代に入り著しくなっているのが、組み込み用途とデスクトップの境界領域にあたる携帯デバイスの成長である。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")など、[モバイルオペレーティングシステム](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")を搭載した情報機器にはパソコン並みの汎用性が強く求められ､組み込み向けプロセッサと汎用CPUの境界はあいまいとなりつつある。この分野においては多様なニーズに特化した[SoCに組み込まれる](../Page/System-on-a-chip.md "wikilink")[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")が標準の座を固め、[Atomなどのx](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")86プロセッサの進出は不調に終わった。
+パーソナルコンピュータやPCサーバだけでなく、スーパーコンピュータやハイエンドのサーバーにおいてもx86の進出が進んだ。一方、2010年代に入り著しくなっているのが、組み込み用途とデスクトップの境界領域にあたる携帯デバイスの成長である。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")など、[モバイルオペレーティングシステム](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")を搭載した情報機器にはパソコン並みの汎用性が強く求められ､組み込み向けプロセッサと汎用CPUの境界はあいまいとなりつつある。この分野においては多様なニーズに特化した[SoCに組み込まれる](../Page/System-on-a-chip.md "wikilink")[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")が標準の座を固め、[Atomなどのx](../Page/Intel_Atom.md "wikilink")86プロセッサの進出は不調に終わった。
 
   - 2010年2月9日 IBM、[POWER7を発表](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")。
 

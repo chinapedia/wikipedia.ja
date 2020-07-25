@@ -61,7 +61,7 @@
       - 作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        本作オリジナル楽曲。「[DOUBLE-DECADE TOUR "NETWORK"](https://ja.wikipedia.org/wiki/DOUBLE-DECADE_TOUR_"NETWORK" "wikilink")」で披露する時に歌詞を乗せるアイディアがあった\[7\]。
+        本作オリジナル楽曲。「[DOUBLE-DECADE TOUR "NETWORK"](../Page/DOUBLE-DECADE_TOUR_"NETWORK".md "wikilink")」で披露する時に歌詞を乗せるアイディアがあった\[7\]。
 10. **COME CLOSER**
       - 作詞・作曲・編曲：小室哲哉
     <!-- end list -->
@@ -87,5 +87,5 @@
 3.
 4.
 5.
-6.  本アルバムリリース後のライヴツアー[DOUBLE-DECADE TOUR "NETWORK"ではこれを基にしたバージョンで演奏しており](https://ja.wikipedia.org/wiki/DOUBLE-DECADE_TOUR_"NETWORK" "wikilink")、ラストのサビ部分を２コーラス演奏している他、同ツアーのファイナルとなる2004年6月24日及び6月25日ではラスト部分から[原曲版と同じ進行となる](../Page/TIME_TO_COUNT_DOWN.md "wikilink")「D.D. TOUR FINAL VERSION」として披露された。
+6.  本アルバムリリース後のライヴツアー[DOUBLE-DECADE TOUR "NETWORK"ではこれを基にしたバージョンで演奏しており](../Page/DOUBLE-DECADE_TOUR_"NETWORK".md "wikilink")、ラストのサビ部分を２コーラス演奏している他、同ツアーのファイナルとなる2004年6月24日及び6月25日ではラスト部分から[原曲版と同じ進行となる](../Page/TIME_TO_COUNT_DOWN.md "wikilink")「D.D. TOUR FINAL VERSION」として披露された。
 7.

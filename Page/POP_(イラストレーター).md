@@ -28,7 +28,7 @@
   - [ハローキティといっしょ\!](https://ja.wikipedia.org/wiki/ハローキティといっしょ! "wikilink") 水無瀬シズク（[サンリオウェーブ](https://ja.wikipedia.org/wiki/サンリオウェーブ "wikilink")、2009年8月6日）
   - 「自由」（[ガンガンONLINE](https://ja.wikipedia.org/wiki/ガンガンONLINE "wikilink")2009年10月15日）
   - [ジュエルペット](https://ja.wikipedia.org/wiki/ジュエルペット "wikilink") ジュエルフェスティバルはおおさわぎ\!?（[角川つばさ文庫](https://ja.wikipedia.org/wiki/角川つばさ文庫 "wikilink")〈[角川書店](../Page/角川書店.md "wikilink")〉、文：[金杉弘子](https://ja.wikipedia.org/wiki/金杉弘子 "wikilink")、2012年5月15日）
-  - どうぶつと魔法の街 不思議なお姫様、来る！（角川つばさ文庫〈[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")〉、文：[高瀬美恵](../Page/高瀬美恵.md "wikilink")、2013年2月15日）
+  - どうぶつと魔法の街 不思議なお姫様、来る！（角川つばさ文庫〈[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")〉、文：[高瀬美恵](../Page/高瀬美恵.md "wikilink")、2013年2月15日）
   - 戸越ぷらむ（VTuber、ミギナナメ／ 2018年7月23日）
 
 ### 絵本

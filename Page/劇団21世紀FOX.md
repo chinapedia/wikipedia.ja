@@ -28,7 +28,7 @@
 
   - [河本浩之](../Page/河本浩之.md "wikilink")
   - [宮下タケル](../Page/宮下タケル.md "wikilink")
-  - [山口勝平](../Page/山口勝平.md "wikilink")（声優として[悟空所属](https://ja.wikipedia.org/wiki/悟空_\(芸能プロダクション\) "wikilink")）
+  - [山口勝平](../Page/山口勝平.md "wikilink")（声優として[悟空所属](../Page/悟空_\(芸能プロダクション\).md "wikilink")）
 
 ### 女性
 
@@ -41,7 +41,7 @@
   - [粟津貴嗣](../Page/粟津貴嗣.md "wikilink")（旧名：小泉一郎太、現所属：[アトミックモンキー](../Page/アトミックモンキー.md "wikilink")）
   - [井田国男](https://ja.wikipedia.org/wiki/井田国男 "wikilink")（現所属：[プロダクション・エース](../Page/プロダクション・エース.md "wikilink")）
   - [伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")（現所属：[マウスプロモーション](../Page/マウスプロモーション.md "wikilink")）
-  - [川鍋雅樹](../Page/川鍋雅樹.md "wikilink")（現所属：[悟空](https://ja.wikipedia.org/wiki/悟空_\(芸能プロダクション\) "wikilink")）
+  - [川鍋雅樹](../Page/川鍋雅樹.md "wikilink")（現所属：[悟空](../Page/悟空_\(芸能プロダクション\).md "wikilink")）
   - [肝付兼太](../Page/肝付兼太.md "wikilink")（[81プロデュース](../Page/81プロデュース.md "wikilink")移籍後死去）
   - [黒瀬浩二](https://ja.wikipedia.org/wiki/黒瀬浩二 "wikilink")
   - [坂野茂](https://ja.wikipedia.org/wiki/坂野茂 "wikilink")（現所属：[アズリードカンパニー](https://ja.wikipedia.org/wiki/アズリードカンパニー "wikilink")）

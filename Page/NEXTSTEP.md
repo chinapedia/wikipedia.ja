@@ -5,7 +5,7 @@
 
 オリジナル版は同社独自のコンピュータ「[NeXTcube](../Page/NeXTcube.md "wikilink")」上で動作するよう開発された。NEXTSTEPそのものは商業的にあまり成功しなかったものの、技術面や[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")面で後世に与えた影響は大きい。現在の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[iOSはNEXTSTEPの後身である](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。
 
-NeXTSTEP 1.0 は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")からのプレビューを経て[1989年](../Page/1989年.md "wikilink")9月18日にリリースされた。
+NeXTSTEP 1.0 は、[1986年](../Page/1986年.md "wikilink")からのプレビューを経て[1989年](../Page/1989年.md "wikilink")9月18日にリリースされた。
 
 最終リリースとなった 3.3 は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースされている。最終リリース時点では、[モトローラ](../Page/モトローラ.md "wikilink")[68000ファミリ](../Page/MC68000.md "wikilink")（NeXTのマシン）だけでなく、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")（[IBM](../Page/IBM.md "wikilink")互換機）、[サンの](../Page/サン・マイクロシステムズ.md "wikilink")[SPARC](../Page/SPARC.md "wikilink")、[HPの](../Page/ヒューレット・パッカード.md "wikilink")[PA-RISC](../Page/PA-RISC.md "wikilink")でも動作した。
 

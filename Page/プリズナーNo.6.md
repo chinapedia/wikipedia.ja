@@ -1,7 +1,7 @@
 > この記事は[プリズナーNo.6](https://ja.wikipedia.org/wiki/プリズナーNo.6)から翻訳されています。
 
 
-『**プリズナーNo.6**』（原題:***The Prisoner***）は、[1967年](../Page/1967年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にかけて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で製作・放映された連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。主演・企画・監督（一部の回）は[パトリック・マクグーハン](../Page/パトリック・マクグーハン.md "wikilink")（Patrick McGoohan）。各話約52分、全17本。
+『**プリズナーNo.6**』（原題:***The Prisoner***）は、[1967年](../Page/1967年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1968年](../Page/1968年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")にかけて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で製作・放映された連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。主演・企画・監督（一部の回）は[パトリック・マクグーハン](../Page/パトリック・マクグーハン.md "wikilink")（Patrick McGoohan）。各話約52分、全17本。
 
 ジャンルとしては[SF的な](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[スパイ](../Page/スパイ.md "wikilink")ものであるが、斬新で[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")的な演出や[哲学](../Page/哲学.md "wikilink")的なメッセージが随所にちりばめられており、[2017年](../Page/2017年.md "wikilink")現在でも一部に熱狂的なファンをもち[カルト的な人気を保っている](../Page/カルト映画.md "wikilink")。
 
@@ -80,7 +80,7 @@
 
 ### 日本語吹替版
 
-:\* 演出：[加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+:\* 演出：[加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
 
 :\* 翻訳：山田小枝子
 
@@ -377,7 +377,7 @@
 ## 関連作品
 
   - [Alice 6](https://ja.wikipedia.org/wiki/Alice_6 "wikilink") - 第11話（最終話）は本作のパロディ。
-  - [ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink") - シーズン12第6話「ミスターX告発の行方(The Computer Wore Menace Shoes)」は本作のパロディ。「Number Six」という役名でパトリック・マクグーハンも声の出演をしている。
+  - [ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink") - シーズン12第6話「ミスターX告発の行方(The Computer Wore Menace Shoes)」は本作のパロディ。「Number Six」という役名でパトリック・マクグーハンも声の出演をしている。
   - [マトリックス](../Page/マトリックス_\(映画\).md "wikilink") - エージェントに追われる主人公ネオが逃げ込んだ部屋で老婆が視聴しているTVに本作が映っている。
   - [宇宙刑事シャリバン](../Page/宇宙刑事シャリバン.md "wikilink") - 本作に登場する白い巨大な球体（ローヴァー）を模した球体が、敵ボスの化身として度々登場する。
   - [ルパン三世 (TV第2シリーズ)](../Page/ルパン三世_\(TV第2シリーズ\).md "wikilink") - 第62話「ルパンを呼ぶ悪魔の鐘の音」が本作を彷彿させている。

@@ -19,7 +19,7 @@
 
   - [1944年](../Page/1944年.md "wikilink") [チョークリバー研究所](https://ja.wikipedia.org/wiki/チョークリバー研究所 "wikilink")（[ディープリバー](../Page/ディープリバー_\(オンタリオ州\).md "wikilink")）に重水炉建設プロジェクト発足。
   - [1962年](../Page/1962年.md "wikilink") 原型炉 (Nuclear Power Demonstration) 完成。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") ダグラスポイント発電所にて営業運転開始。
+  - [1968年](../Page/1968年.md "wikilink") ダグラスポイント発電所にて営業運転開始。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") [大韓民国](../Page/大韓民国.md "wikilink")・[月城原子力発電所](https://ja.wikipedia.org/wiki/月城原子力発電所 "wikilink")にて営業運転開始。
   - [2002年](../Page/2002年.md "wikilink") [中華人民共和国](../Page/中華人民共和国.md "wikilink")・[秦山原子力発電所](https://ja.wikipedia.org/wiki/秦山原子力発電所 "wikilink")にて営業運転開始。
 
@@ -73,7 +73,7 @@
 
 ## この炉を採用している発電所
 
-  - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")：[ブルース](https://ja.wikipedia.org/wiki/ブルース原子力発電所 "wikilink")、ダーリントン
+  - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")：[ブルース](../Page/ブルース原子力発電所.md "wikilink")、ダーリントン
   - [インド](../Page/インド.md "wikilink")：ラージャスターン
   - [アルゼンチン](../Page/アルゼンチン.md "wikilink")：エンバルセ
   - [中国](../Page/中華人民共和国.md "wikilink")：秦山3

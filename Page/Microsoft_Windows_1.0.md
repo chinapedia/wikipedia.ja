@@ -9,7 +9,7 @@ IBM PCなど[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系のPCはもと
 
 [テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")では[スティーブ・バルマー](../Page/スティーブ・バルマー.md "wikilink")が熱狂的にWindows 1.0を宣伝し大きな印象を与えた\[3\]。しかし[Intel 80286で搭載された](../Page/Intel_80286.md "wikilink")[プロテクトモード](../Page/プロテクトモード.md "wikilink")には対応していなかったために、メモリ利用の上限サイズが640KBになっている。また当時の一般的なパソコンの性能では動作が重かった。Windowsの発売延期や仕様変更が繰り返されたことでソフトウェアメーカーがWindows対応ソフトの開発から退いてしまったことも影響した。結果として米国での発売発表当時（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）の騒ぎとは逆に、発売後の評判はあまり思わしくなかった\[4\]。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではMS-DOS Ver. 3.1と共に[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")OSとして[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")製パソコン[PC-9801VX](../Page/PC-9800シリーズ.md "wikilink")4/WNに採用され、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月](../Page/11月.md "wikilink")に発売された\[5\]。しかし、そのすぐ後に[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")やWindows 2.0の登場が予期されていたこともあり、Windows 1.0に対する日本のソフトウェアメーカーの反応は米国と同様に鈍かった\[6\]。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではMS-DOS Ver. 3.1と共に[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")OSとして[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")製パソコン[PC-9801VX](../Page/PC-9800シリーズ.md "wikilink")4/WNに採用され、[1986年](../Page/1986年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売された\[5\]。しかし、そのすぐ後に[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")やWindows 2.0の登場が予期されていたこともあり、Windows 1.0に対する日本のソフトウェアメーカーの反応は米国と同様に鈍かった\[6\]。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にマイクロソフトのロゴが変更されたため、起動画面のマイクロソフトのロゴはバージョンが1985年発売の1.01と1.02そして1986年発売の1.03までが旧ロゴ、1987年発売のバージョン1.04は新ロゴとなっている。
 

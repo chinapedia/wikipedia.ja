@@ -449,7 +449,7 @@
 
   - [イヴィツァ・オリッチ](../Page/イヴィツァ・オリッチ.md "wikilink") 2007.1-2009, 2015-2016
 
-  - [ムラデン・ペトリッチ](https://ja.wikipedia.org/wiki/ムラデン・ペトリッチ "wikilink") 2008-2012
+  - [ムラデン・ペトリッチ](../Page/ムラデン・ペトリッチ.md "wikilink") 2008-2012
 
   - [マルクス・ベリ](https://ja.wikipedia.org/wiki/マルクス・ベリ "wikilink") 2009-2013
 

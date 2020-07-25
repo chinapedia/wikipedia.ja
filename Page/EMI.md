@@ -19,7 +19,7 @@
 
   - [1897年](../Page/1897年.md "wikilink") - ディスク型蓄音機「グラモフォン」の製造・販売を行っていた[ベルリーナ・グラモフォン](https://ja.wikipedia.org/wiki/ベルリーナ・グラモフォン "wikilink")社のヨーロッパ進出のため、イギリスのオーエンが[エミール・ベルリナー](../Page/エミール・ベルリナー.md "wikilink")から蓄音機に関する特許を受け取り、[ロンドン](../Page/ロンドン.md "wikilink")に「英グラモフォン」を設立する。
   - [1898年](../Page/1898年.md "wikilink") - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ハノーファー](../Page/ハノーファー.md "wikilink")に工場を設立し、クラシック音楽のレーベル「[ドイツ・グラモフォン](../Page/ドイツ・グラモフォン.md "wikilink")」の始まりとなる。
-  - [1907年](../Page/1907年.md "wikilink") - のちに[日本ビクター](../Page/日本ビクター.md "wikilink")も用いる[ニッパー犬のマークを採用し](https://ja.wikipedia.org/wiki/ニッパー_\(犬\) "wikilink")、犬とともに記される"His Master's Voice"の頭文字から「[HMV](../Page/HMV.md "wikilink")」と愛称される。
+  - [1907年](../Page/1907年.md "wikilink") - のちに[日本ビクター](../Page/日本ビクター.md "wikilink")も用いる[ニッパー犬のマークを採用し](../Page/ニッパー_\(犬\).md "wikilink")、犬とともに記される"His Master's Voice"の頭文字から「[HMV](../Page/HMV.md "wikilink")」と愛称される。
   - [1925年](../Page/1925年.md "wikilink") - [第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の勃発によって、英グラモフォンのドイツ支社であった「ドイツ・グラモフォン」がドイツ資本の会社となったため、新レーベル「[エレクトローラ](https://ja.wikipedia.org/wiki/エレクトローラ "wikilink")」を設立する。
   - [1931年](../Page/1931年.md "wikilink") - 英コロムビアと合併し、Electric and Musical Industries Ltd（EMI）となる。
 
@@ -33,7 +33,7 @@
       - 2月4日 - ロンドンのキングス・ウェイ・ホールで、正規のステレオ録音を開始する。第1号は[ニコライ・マルコ](../Page/ニコライ・マルコ.md "wikilink")指揮、[フィルハーモニア管弦楽団](../Page/フィルハーモニア管弦楽団.md "wikilink")演奏、[プロコフィエフ作曲](../Page/セルゲイ・プロコフィエフ.md "wikilink") 交響曲第7番「青春」\[2\]である。
       - 後半頃 - 米キャピトル・レコードの買収が完了し、コロムビア・HMVの流れで続いていた米コロムビア・米RCAビクターとの業務提携が打ち切られる\[3\]。
   - [1958年](../Page/1958年.md "wikilink")10月 - ステレオLPの発売を開始。第1回発売はレコード番号ASD251の、[サー・トーマス・ビーチャム指揮](../Page/トーマス・ビーチャム.md "wikilink")、[ロイヤル・フィルハーモニー管弦楽団](../Page/ロイヤル・フィルハーモニー管弦楽団.md "wikilink")演奏、[R・コルサコフ作曲](../Page/ニコライ・リムスキー＝コルサコフ.md "wikilink") 交響詩「[シェヘラザード](../Page/シェヘラザード_\(リムスキー＝コルサコフ\).md "wikilink")」ほか
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")-EMIの[ゴッドフリー・ハウンズフィールド](../Page/ゴッドフリー・ハウンズフィールド.md "wikilink")が[X線](../Page/X線.md "wikilink")[CTを発明](../Page/コンピュータ断層撮影.md "wikilink")。[1972年](../Page/1972年.md "wikilink")には臨床用CT(EMIスキャナ)を製作(後に撤退)。
+  - [1968年](../Page/1968年.md "wikilink")-EMIの[ゴッドフリー・ハウンズフィールド](../Page/ゴッドフリー・ハウンズフィールド.md "wikilink")が[X線](../Page/X線.md "wikilink")[CTを発明](../Page/コンピュータ断層撮影.md "wikilink")。[1972年](../Page/1972年.md "wikilink")には臨床用CT(EMIスキャナ)を製作(後に撤退)。
 
 [thumb](https://ja.wikipedia.org/wiki/画像:TG12345_Mk.II_desk_\(1970s\)_and_Microphones,_Abbey_Road_Studios.jpg "wikilink")
 

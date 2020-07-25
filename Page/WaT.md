@@ -26,7 +26,7 @@
 <td><p><ruby><rb><strong><a href="../Page/小池徹平.md" title="wikilink">小池徹平</a></strong></rb><rp>（</rp><rt>こいけ てっぺい</rt><rp>）</rp></ruby><br />
 </p></td>
 <td><p>ボーカル、ギター、<a href="../Page/ハーモニカ.md" title="wikilink">ブルースハープ</a>、コーラス、作詞、作曲</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/1月5日.md" title="wikilink">1月5日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/1月5日.md" title="wikilink">1月5日</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪狭山市.md" title="wikilink">大阪狭山市</a></p></td>
 </tr>
 </tbody>

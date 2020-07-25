@@ -91,7 +91,7 @@
     4.  selfish -instrumental-（DVD付）、season（CDのみ）
     <!-- end list -->
       - DVD アゲハ -Music Video-
-5.  **[Break the Chain](https://ja.wikipedia.org/wiki/Break_the_Chain "wikilink")**（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月26日）
+5.  **[Break the Chain](../Page/Break_the_Chain.md "wikilink")**（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月26日）
     1.  Break the Chain
           - 特撮テレビドラマ『[仮面ライダーキバ](https://ja.wikipedia.org/wiki/仮面ライダーキバ "wikilink")』主題歌
     2.  Break the Chain (TV size edit)

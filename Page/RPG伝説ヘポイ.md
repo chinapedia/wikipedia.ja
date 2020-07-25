@@ -95,7 +95,7 @@
     声 - [三浦雅子](../Page/三浦雅子.md "wikilink")
     ヘポイの妹。ヘポイ同様生きたぬいぐるみである。
   - ペペコ
-    声 - [長尾理保子](https://ja.wikipedia.org/wiki/長尾理保子 "wikilink")
+    声 - [長尾理保子](../Page/長尾理保子.md "wikilink")
     ヘポイの妹。彼女も生きたぬいぐるみ。
   - タクワン道人
     声 - [勝田久](../Page/勝田久.md "wikilink")

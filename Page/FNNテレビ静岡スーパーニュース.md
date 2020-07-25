@@ -35,7 +35,7 @@
   - 榛葉晴彦（テレビ静岡報道局所属）
   - 舘石昌宏（当時テレビ静岡報道局所属、現・FNNロンドン特派員）
   - 柴田浩伸（テレビ静岡報道局所属）
-  - [小澤一彦](https://ja.wikipedia.org/wiki/小澤一彦 "wikilink")
+  - [小澤一彦](../Page/小澤一彦.md "wikilink")
   - [菰田玲子](../Page/菰田玲子.md "wikilink")
   - [戸塚貴久子](../Page/戸塚貴久子.md "wikilink")
   - [伊藤由美子](https://ja.wikipedia.org/wiki/伊藤由美子_\(アナウンサー\) "wikilink")

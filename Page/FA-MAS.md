@@ -127,7 +127,7 @@
   - 『[エウレカセブンAO](https://ja.wikipedia.org/wiki/エウレカセブンAO "wikilink")』
     ゲネラシオン・ブル社の[警備員](../Page/警備員.md "wikilink")などが装備している。
 
-  - 『[キューティクル探偵因幡](https://ja.wikipedia.org/wiki/キューティクル探偵因幡 "wikilink")』
+  - 『[キューティクル探偵因幡](../Page/キューティクル探偵因幡.md "wikilink")』
     OPに登場。
 
   - 『[クレヨンしんちゃん 電撃\!ブタのヒヅメ大作戦](../Page/クレヨンしんちゃん_電撃!ブタのヒヅメ大作戦.md "wikilink")』
@@ -219,7 +219,7 @@
   - [ステアーAUG](https://ja.wikipedia.org/wiki/ステアーAUG "wikilink")
   - [L85](../Page/L85.md "wikilink")
   - [VHS](https://ja.wikipedia.org/wiki/VHS_\(アサルトライフル\) "wikilink") - [クロアチア](../Page/クロアチア.md "wikilink")で開発された外観がFA-MASに似た[アサルトライフル](../Page/アサルトライフル.md "wikilink")。
-  - [95式自動歩槍](https://ja.wikipedia.org/wiki/95式自動歩槍 "wikilink") - ブルパップ方式を採用した[中国北方工業公司（Norinco）製アサルトライフル](../Page/中国兵器工業集団.md "wikilink")。外見がFA-MASと類似していることから、一部では「チャイナトランペット」「チャマス」等と呼称されることがある。
+  - [95式自動歩槍](../Page/95式自動歩槍.md "wikilink") - ブルパップ方式を採用した[中国北方工業公司（Norinco）製アサルトライフル](../Page/中国兵器工業集団.md "wikilink")。外見がFA-MASと類似していることから、一部では「チャイナトランペット」「チャマス」等と呼称されることがある。
 
 [Category:自動小銃](https://ja.wikipedia.org/wiki/Category:自動小銃 "wikilink") [Category:アサルトライフル](https://ja.wikipedia.org/wiki/Category:アサルトライフル "wikilink") [Category:ブルパップ式小銃](https://ja.wikipedia.org/wiki/Category:ブルパップ式小銃 "wikilink") [Category:5.56mm銃](https://ja.wikipedia.org/wiki/Category:5.56mm銃 "wikilink") [Category:フランス陸軍の小火器](https://ja.wikipedia.org/wiki/Category:フランス陸軍の小火器 "wikilink")
 

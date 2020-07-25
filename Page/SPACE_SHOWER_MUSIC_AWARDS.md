@@ -630,7 +630,7 @@ SHANE LESTER</p></td>
 | 6  | 2002年 | [PEACE -strings version-](https://ja.wikipedia.org/wiki/PEACE_-strings_version- "wikilink") | [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")          | [河瀬直美](https://ja.wikipedia.org/wiki/河瀬直美 "wikilink") |
 | 7  | 2003年 | 02                                                                                          | [RIZE](../Page/RIZE.md "wikilink")                            | 井上靖雄                                                  |
 | 8  | 2004年 | [タンデム](https://ja.wikipedia.org/wiki/タンデム_\(曲\) "wikilink")                                 | [HALCALI](../Page/HALCALI.md "wikilink")                      | [田中秀幸](../Page/田中秀幸_\(アートディレクター\).md "wikilink")      |
-| 9  | 2005年 | [Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")      | [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")  | [服部一成](../Page/服部一成.md "wikilink")                    |
+| 9  | 2005年 | [Home Sweet Home](../Page/Home_Sweet_Home_\(YUKIの曲\).md "wikilink")                         | [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")  | [服部一成](../Page/服部一成.md "wikilink")                    |
 | 14 | 2010年 | [ふたつの唇](https://ja.wikipedia.org/wiki/THE_GENERATION_〜ふたつの唇〜 "wikilink")                    | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")       | [久保茂昭](../Page/久保茂昭.md "wikilink")                    |
 | 15 | 2011年 | [マニフェスト](https://ja.wikipedia.org/wiki/マニフェスト_\(RADWIMPSの曲\) "wikilink")                    | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink") | 直                                                     |
 

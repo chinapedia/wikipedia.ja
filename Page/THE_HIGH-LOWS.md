@@ -40,7 +40,7 @@
 
   - 夏、↑THE HIGH-LOWS↓結成。メンバーは、[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")、[真島昌利](../Page/真島昌利.md "wikilink")、[調先人](../Page/調先人.md "wikilink")、[大島賢治](../Page/大島賢治.md "wikilink")、[白井幹夫](../Page/白井幹夫.md "wikilink")(デビュー時はサポートだったが、後に正式加入。)
   - 7月 - 11月、イベント、学園祭などに出演。
-  - [10月25日](../Page/10月25日.md "wikilink")、デビューシングル「[ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")」、1stアルバム『[THE HIGH-LOWS](https://ja.wikipedia.org/wiki/THE_HIGH-LOWS_\(アルバム\) "wikilink")』同時発売。
+  - [10月25日](../Page/10月25日.md "wikilink")、デビューシングル「[ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")」、1stアルバム『[THE HIGH-LOWS](../Page/THE_HIGH-LOWS_\(アルバム\).md "wikilink")』同時発売。
   - TBS系ドラマ『[未成年](../Page/未成年_\(テレビドラマ\).md "wikilink")』の第一話オープニングに登場。
 
 <!-- end list -->
@@ -321,8 +321,8 @@
 
 | 枚   | リリース日       | タイトル                                                                                                    | 最高順位             |
 | --- | ----------- | ------------------------------------------------------------------------------------------------------- | ---------------- |
-| 1st | 1995年10月25日 | **[THE HIGH-LOWS](https://ja.wikipedia.org/wiki/THE_HIGH-LOWS_\(アルバム\) "wikilink")**                    | 5位               |
-| 2nd | 1996年12月6日  | **[Tigermobile](https://ja.wikipedia.org/wiki/Tigermobile "wikilink")**                                 | 6位               |
+| 1st | 1995年10月25日 | **[THE HIGH-LOWS](../Page/THE_HIGH-LOWS_\(アルバム\).md "wikilink")**                                       | 5位               |
+| 2nd | 1996年12月6日  | **[Tigermobile](../Page/Tigermobile.md "wikilink")**                                                    | 6位               |
 | 3rd | 1998年5月8日   | **[ロブスター](https://ja.wikipedia.org/wiki/ロブスター_\(アルバム\) "wikilink")**                                    | 5位               |
 | 4th | 1999年6月9日   | **[バームクーヘン](https://ja.wikipedia.org/wiki/バームクーヘン_\(アルバム\) "wikilink")**                                | 8位               |
 | 5th | 2000年6月9日   | **[Relaxin' WITH THE HIGH-LOWS](https://ja.wikipedia.org/wiki/Relaxin'_WITH_THE_HIGH-LOWS "wikilink")** | 3位               |

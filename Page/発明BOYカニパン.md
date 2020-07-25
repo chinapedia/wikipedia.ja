@@ -288,7 +288,7 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>激闘! 発明グランプリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牛草健" title="wikilink">牛草健</a></p></td>
+<td><p><a href="../Page/牛草健.md" title="wikilink">牛草健</a></p></td>
 <td><p>塚本哲哉</p></td>
 <td><p><a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
 <td></td>

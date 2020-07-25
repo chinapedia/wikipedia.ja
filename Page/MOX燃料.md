@@ -36,7 +36,7 @@
 
 ### 試験運転が実施された軽水炉
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にかけて、少数のMOX燃料を使用して、健全性を確認する試験運転が実施された。
+[1986年](../Page/1986年.md "wikilink")-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にかけて、少数のMOX燃料を使用して、健全性を確認する試験運転が実施された。
 
   - [日本原子力発電](../Page/日本原子力発電.md "wikilink")（株）[敦賀原子力発電所](https://ja.wikipedia.org/wiki/敦賀原子力発電所 "wikilink")1号機
   - [関西電力](../Page/関西電力.md "wikilink")（株）[美浜原子力発電所](https://ja.wikipedia.org/wiki/美浜原子力発電所 "wikilink")1号機

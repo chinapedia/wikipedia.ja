@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - 月曜日：川淵海（うみちゃん）
-  - 火曜日：安部杏実（あずみん）→2008年まで[山口県立大学](../Page/山口県立大学.md "wikilink")在学中のままエフエム山口のパーソナリティとして「[Morning Street](https://ja.wikipedia.org/wiki/Morning_Street "wikilink")」「[Music Soldiers](../Page/Music_Soldiers.md "wikilink")」などのパーソナリティーを務めていた。
+  - 火曜日：安部杏実（あずみん）→2008年まで[山口県立大学](../Page/山口県立大学.md "wikilink")在学中のままエフエム山口のパーソナリティとして「[Morning Street](../Page/Morning_Street.md "wikilink")」「[Music Soldiers](../Page/Music_Soldiers.md "wikilink")」などのパーソナリティーを務めていた。
   - 水曜日：上村咲予子（さよべぇ）
   - 木曜日：[梶田温子](https://ja.wikipedia.org/wiki/梶田温子 "wikilink")（みっちゃん）→のちに[NHK山口放送局](../Page/NHK山口放送局.md "wikilink")の契約アナウンサーとなり、[地上デジタル放送推進大使](../Page/地上デジタル放送推進大使.md "wikilink")も務めた。契約終了後は[NHK福岡を経て](../Page/NHK福岡放送局.md "wikilink")、2010年春から[NHK高松の契約アナウンサー](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")。
 

@@ -1,7 +1,7 @@
 > この記事は[シュートinサタデー](https://ja.wikipedia.org/wiki/シュートinサタデー)から翻訳されています。
 
 
-『**モーニングショー・シュートinサタデー**』（モーニングショー・シュートインサタデー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[フジテレビ系列で](../Page/フジネットワーク.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた、[関西テレビ製作の朝の](../Page/関西テレビ放送.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")・[トーク番組](../Page/トーク番組.md "wikilink")である。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 8:30 - 9:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**モーニングショー・シュートinサタデー**』（モーニングショー・シュートインサタデー）は、[1986年](../Page/1986年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[フジテレビ系列で](../Page/フジネットワーク.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた、[関西テレビ製作の朝の](../Page/関西テレビ放送.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")・[トーク番組](../Page/トーク番組.md "wikilink")である。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 8:30 - 9:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 番組は毎回ゲストを迎え、司会の[釜本邦茂](../Page/釜本邦茂.md "wikilink")が彼らとトークを展開。また、関西ローカルで放送されていた『[アタック600](../Page/アタック600.md "wikilink")』でユーモラスな語り口を披露していた[福井敏雄](../Page/福井敏雄.md "wikilink")が番組最後のコーナー「週間天気予報」を担当していた。福井の気象情報コーナーは、次番組『[土曜大好き\!830](../Page/土曜大好き!830.md "wikilink")』にも引き継がれた。
 

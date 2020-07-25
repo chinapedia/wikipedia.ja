@@ -89,7 +89,7 @@
   - 久我潔：武本尚司（7）
   - コンビニ・バイト：堀越彰（7）
   - 田中の部下の女：[櫻井ゆか](../Page/坂野友香.md "wikilink")（7）
-  - 刑事：[坂口進也](https://ja.wikipedia.org/wiki/坂口進也 "wikilink")、[若林久弥](https://ja.wikipedia.org/wiki/若林久弥 "wikilink")（7）
+  - 刑事：[坂口進也](https://ja.wikipedia.org/wiki/坂口進也 "wikilink")、[若林久弥](../Page/若林久弥.md "wikilink")（7）
   - 警備員：[檀臣幸](../Page/檀臣幸.md "wikilink")（7）
   - 警官：松井錦吾（7）
   - 公園の刑事：岩瀬裕二、中田敦夫（7）
@@ -236,7 +236,7 @@
   - 雛：ミニヨン（24）
   - 仙童平馬：[橋爪淳](../Page/橋爪淳.md "wikilink")（25）
   - 酒井勝人：[嶋田久作](../Page/嶋田久作.md "wikilink")（25）
-  - [長南年恵](https://ja.wikipedia.org/wiki/長南年恵 "wikilink")：[渡辺梓](../Page/渡辺梓.md "wikilink")（25）
+  - [長南年恵](../Page/長南年恵.md "wikilink")：[渡辺梓](../Page/渡辺梓.md "wikilink")（25）
   - 矢野祐子：小川はるみ（25）
   - 後藤美姫：[林真里花](../Page/林真里花.md "wikilink")（25）
   - 日下部四郎：佐野史郎（25）

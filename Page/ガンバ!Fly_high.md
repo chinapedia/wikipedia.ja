@@ -178,7 +178,7 @@
     全日本ジュニアチームのコーチ。藤巻の「他人の視界が見える」能力を知り、最初期に才能を見抜いた。
   - 剣物 永造（けんもつ えいぞう）
     声 - [大滝進矢](../Page/大滝進矢.md "wikilink")
-    [日本体操協会](https://ja.wikipedia.org/wiki/日本体操協会 "wikilink")役員。藤巻を世界ジュニア代表に推す。
+    [日本体操協会](../Page/日本体操協会.md "wikilink")役員。藤巻を世界ジュニア代表に推す。
     名前の由来は[監物永三](../Page/監物永三.md "wikilink")から。
   - 古屋 達造（こや たつぞう）
     日本体操協会役員、嵐雲高校体操部監督。堀田の才能を愛し、何かとかばってきた。交歓試合後、平成学園の「楽しい体操」を認め、日本トップ選手の新技練習に招待する。
@@ -223,7 +223,7 @@
 
   - 原作 - 森末慎二
   - 漫画 - 菊田洋之（小学館文庫）
-  - 監督 - [亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")
+  - 監督 - [亀垣一](../Page/亀垣一.md "wikilink")
   - 企画 - [諏訪道彦](../Page/諏訪道彦.md "wikilink")（よみうりテレビ）
   - シリーズ構成 - [千葉克彦](../Page/千葉克彦.md "wikilink")
   - キャラクターデザイン - [本橋秀之](../Page/本橋秀之.md "wikilink")
@@ -276,7 +276,7 @@
 <td><p>1</p></td>
 <td><p>なぜだ!?練習ゼロで競技会</p></td>
 <td><p><a href="../Page/千葉克彦.md" title="wikilink">千葉克彦</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/亀垣一" title="wikilink">亀垣一</a></p></td>
+<td><p><a href="../Page/亀垣一.md" title="wikilink">亀垣一</a></p></td>
 <td><p><a href="../Page/本橋秀之.md" title="wikilink">本橋秀之</a></p></td>
 <td><p><strong><a href="../Page/1996年.md" title="wikilink">1996年</a></strong><br />
 <a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>

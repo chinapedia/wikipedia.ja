@@ -14,7 +14,7 @@
 ## 代表的な企画
 
   - 青春プレイバック
-    原則として毎回、番組の最後に放送された、さまざまな著名人が人生の分岐点となった場所を女性司会者と一緒に訪ねるコーナー。1983年9月24日放送分では、[吉永小百合](../Page/吉永小百合.md "wikilink")が17歳のときに主演した映画『[キューポラのある街](../Page/キューポラのある街.md "wikilink")』の[ロケ地の](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[埼玉県](../Page/埼玉県.md "wikilink")[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")にある荒川土手を訪ねて思い出を語った。めったに見られない貴重な[インタビュー](../Page/インタビュー.md "wikilink")で、後に[NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")で放送されるほどリクエストが大きかった。1985年4月に司会が変わった際に「[青春プレーバック](https://ja.wikipedia.org/wiki/青春プレーバック "wikilink")」のタイトルで独立した。
+    原則として毎回、番組の最後に放送された、さまざまな著名人が人生の分岐点となった場所を女性司会者と一緒に訪ねるコーナー。1983年9月24日放送分では、[吉永小百合](../Page/吉永小百合.md "wikilink")が17歳のときに主演した映画『[キューポラのある街](../Page/キューポラのある街.md "wikilink")』の[ロケ地の](../Page/ロケーション撮影.md "wikilink")[埼玉県](../Page/埼玉県.md "wikilink")[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")にある荒川土手を訪ねて思い出を語った。めったに見られない貴重な[インタビュー](../Page/インタビュー.md "wikilink")で、後に[NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")で放送されるほどリクエストが大きかった。1985年4月に司会が変わった際に「[青春プレーバック](https://ja.wikipedia.org/wiki/青春プレーバック "wikilink")」のタイトルで独立した。
   - 誰でもミュージシャン 坂本龍一の音楽講座
     番組の中で最も人気を集めたコーナーで、坂本が音楽に関しての疑問・質問に答えたり音楽に関する実験的な講座が行われた。音の出るものをスタジオに用意して好きな音を出してと指示を与え各自がいろいろな音を出していくうちにいつしかセッションが始まり、そこに音楽が生まれるという実験も行われた。また、坂本自身が曲を演奏するライブもあり、非常に貴重なシーンになった。「[YMOの音楽講座](../Page/イエロー・マジック・オーケストラ.md "wikilink")」もあり、メンバーの3人がトークや演奏で番組を盛り上げたこともあった。
   - 投書で作ったYOU文化祭
@@ -109,7 +109,7 @@
   - [千昌夫](../Page/千昌夫.md "wikilink")
   - [とんねるず](../Page/とんねるず.md "wikilink")
   - [岡本太郎](../Page/岡本太郎.md "wikilink")
-  - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - [井筒和幸](../Page/井筒和幸.md "wikilink")
   - [沢田研二](../Page/沢田研二.md "wikilink")
   - [篠山紀信](../Page/篠山紀信.md "wikilink")
   - [横尾忠則](../Page/横尾忠則.md "wikilink")
@@ -183,7 +183,7 @@
 <td><p>5</p></td>
 <td><p>5月8日</p></td>
 <td><p>六法全書は幸せがいっぱい ―法律に強くなれ―</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井筒和幸" title="wikilink">井筒和幸</a>、<a href="../Page/栗本慎一郎.md" title="wikilink">栗本慎一郎</a>、伊藤まゆ</p></td>
+<td><p><a href="../Page/井筒和幸.md" title="wikilink">井筒和幸</a>、<a href="../Page/栗本慎一郎.md" title="wikilink">栗本慎一郎</a>、伊藤まゆ</p></td>
 <td><p><a href="../Page/坂田明.md" title="wikilink">坂田明</a></p></td>
 <td></td>
 </tr>
@@ -1356,7 +1356,7 @@
 <td><p>137</p></td>
 <td><p>4月13日</p></td>
 <td><p>運動音痴のためのスポーツ教室</p></td>
-<td><p>江本孟紀、<a href="https://ja.wikipedia.org/wiki/引田天功_(2代目)" title="wikilink">引田天功</a>、三波春夫</p></td>
+<td><p>江本孟紀、<a href="../Page/引田天功_(2代目).md" title="wikilink">引田天功</a>、三波春夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1442,7 +1442,7 @@
 <td><p>149</p></td>
 <td><p>7月6日</p></td>
 <td><p>マサツ解消・国際親善の輪！ ―家庭でもできる外国人交際法―</p></td>
-<td><p>夢枕獏、<a href="https://ja.wikipedia.org/wiki/山口文憲" title="wikilink">山口文憲</a>、<a href="../Page/デーブ・スペクター.md" title="wikilink">デーブ・スペクター</a></p></td>
+<td><p>夢枕獏、<a href="../Page/山口文憲.md" title="wikilink">山口文憲</a>、<a href="../Page/デーブ・スペクター.md" title="wikilink">デーブ・スペクター</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

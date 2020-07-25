@@ -77,7 +77,7 @@
   - マキシ『**CAN YOU CELEBRATE? -MAXI-**』(Wedding Mix・Heavenly Mix)
       - 祝福記念。
   - オリジナル 『**[Concentration 20](../Page/Concentration_20.md "wikilink")**』(remix)
-  - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
+  - ベスト『**[181920](../Page/181920.md "wikilink")**』（『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
   - ベスト『**[Ballada](https://ja.wikipedia.org/wiki/Ballada "wikilink")**』(New Vocal)
       - [葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")をヴァイオリンゲストとして参加。

@@ -1,7 +1,7 @@
 > この記事は[Tru64 UNIX](https://ja.wikipedia.org/wiki/Tru64_UNIX)から翻訳されています。
 
 
-**Tru64 UNIX**は[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")（以前は[コンパック](../Page/コンパック.md "wikilink")、その前は[DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")） の[Alphaプラットフォーム向け](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")[UNIX](../Page/UNIX.md "wikilink")である。以前には**Digital UNIX**として、その前は**[OSF/1](https://ja.wikipedia.org/wiki/OSF/1 "wikilink")**として知られていた。DECのさらにその前のUNIX製品は[Ultrix](../Page/Ultrix.md "wikilink")として知られている。
+**Tru64 UNIX**は[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")（以前は[コンパック](../Page/コンパック.md "wikilink")、その前は[DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")） の[Alphaプラットフォーム向け](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")[64ビット](../Page/64ビット.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")である。以前には**Digital UNIX**として、その前は**[OSF/1](https://ja.wikipedia.org/wiki/OSF/1 "wikilink")**として知られていた。DECのさらにその前のUNIX製品は[Ultrix](../Page/Ultrix.md "wikilink")として知られている。
 
 Tru64 UNIXは、[Mach](../Page/Mach.md "wikilink")カーネル上に構築されているという点で他の一般的な商用UNIXとは一線を画している。Tru64 UNIXは時として[POSIX](../Page/POSIX.md "wikilink")との[互換性](../Page/互換性.md "wikilink")の欠点を批判されることがある。
 

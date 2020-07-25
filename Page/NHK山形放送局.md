@@ -22,13 +22,13 @@
   - 1962年（昭和37年）[11月1日](../Page/11月1日.md "wikilink") - 教育テレビジョン開局（4ch,JOJC-TV。鶴岡局と同時）。
   - 1962年（昭和37年）[12月24日](../Page/12月24日.md "wikilink") - FM実用化試験局開局。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）[3月20日](../Page/3月20日.md "wikilink") - テレビ放送カラー放送開始。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[3月24日](../Page/3月24日.md "wikilink") - 現在の放送会館が完成、桜町へ移転。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）[3月24日](../Page/3月24日.md "wikilink") - 現在の放送会館が完成、桜町へ移転。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - FM放送本放送開始（鶴岡局と同時）。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 総合テレビ全面カラー化。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[2月21日](../Page/2月21日.md "wikilink") - テレビ音声多重放送開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[2月21日](../Page/2月21日.md "wikilink") - テレビ音声多重放送開始。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）12月1日 - [地上デジタル放送の本放送を開始](../Page/地上デジタルテレビ放送.md "wikilink")（これと同日に、山形県内民間放送の[YBC](../Page/山形放送.md "wikilink")・[TUYも開始](../Page/テレビユー山形.md "wikilink")）。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[1月24日](../Page/1月24日.md "wikilink") - 『[今夜はなまらナイト](../Page/今夜はなまらナイト.md "wikilink")』第1回放送。
-  - [2009年](../Page/2009年.md "wikilink")（平成21年）[9月4日](../Page/9月4日.md "wikilink") - テレビ放送開始50周年を記念し、[酒田市](../Page/酒田市.md "wikilink")のご当地アイドル“[SHIP](../Page/SHIP_\(グループ\).md "wikilink")”の結成からメジャーデビューまでをもとに描いたドラマ『[スキップ\!〜商店街が生んだアイドル〜](https://ja.wikipedia.org/wiki/スキップ!〜商店街が生んだアイドル〜 "wikilink")』を制作・県内向け放送。9月20日の『[地域発\!ぐるっと日本](https://ja.wikipedia.org/wiki/地域発!ぐるっと日本 "wikilink")』で全国放送。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[9月4日](../Page/9月4日.md "wikilink") - テレビ放送開始50周年を記念し、[酒田市](../Page/酒田市.md "wikilink")のご当地アイドル“[SHIP](../Page/SHIP_\(グループ\).md "wikilink")”の結成からメジャーデビューまでをもとに描いたドラマ『[スキップ\!〜商店街が生んだアイドル〜](https://ja.wikipedia.org/wiki/スキップ!〜商店街が生んだアイドル〜 "wikilink")』を制作・県内向け放送。9月20日の『[地域発\!ぐるっと日本](../Page/地域発!ぐるっと日本.md "wikilink")』で全国放送。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）[4月29日](../Page/4月29日.md "wikilink") - この年の[大型連休より](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、祝日のローカルニュース枠・天気はすべて[仙台からの東北ブロックニュースに統一され](../Page/NHK仙台放送局.md "wikilink")、山形からの祝日ニュース枠と気象情報枠はテレビ・ラジオすべてで全廃した。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）[2月6日](../Page/2月6日.md "wikilink") - 酒田支局の男性記者が[強姦致傷](https://ja.wikipedia.org/wiki/強姦致傷 "wikilink")と[住居侵入罪](../Page/住居侵入罪.md "wikilink")で[山形県警](https://ja.wikipedia.org/wiki/山形県警 "wikilink")に逮捕された\[1\]。周辺では同様の被害が報告されており、容疑者は[NHK甲府放送局](../Page/NHK甲府放送局.md "wikilink")時代から犯行を重ねていた疑いがもたれているが\[2\]、[山形地検は逮捕容疑の事件について同月](../Page/山形地方検察庁.md "wikilink")27日に[山形地裁](https://ja.wikipedia.org/wiki/山形地裁 "wikilink")に起訴した\[3\]。また、[山梨県警](https://ja.wikipedia.org/wiki/山梨県警 "wikilink")は甲府放送局在任中の事件について、3月15日に強姦と住居侵入の容疑で再逮捕した\[4\]。これらを受け、[上田良一](https://ja.wikipedia.org/wiki/上田良一 "wikilink")[NHK会長](https://ja.wikipedia.org/wiki/NHK会長 "wikilink")の役員報酬が3ヶ月30パーセントの自主返納に、[堂元光](https://ja.wikipedia.org/wiki/堂元光 "wikilink")副会長及び[木田幸紀](https://ja.wikipedia.org/wiki/木田幸紀 "wikilink")専務理事、[荒木裕志](https://ja.wikipedia.org/wiki/荒木裕志 "wikilink")理事の役員報酬が3ヶ月10パーセントの自主返納に、それぞれなった\[5\]。　

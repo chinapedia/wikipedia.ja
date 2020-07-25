@@ -101,7 +101,7 @@ FEをフルカウル化したモデル。フロントブレーキをインボー
 
 ### MC15型
 
-[Honda_VTR250_2009_Engine_Radiator.JPG](https://ja.wikipedia.org/wiki/File:Honda_VTR250_2009_Engine_Radiator.JPG "fig:Honda_VTR250_2009_Engine_Radiator.JPG") [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月9日発表、同月23日発売\[18\]。通称3型（VT250FG）。型式名MC15。エンジン型式も以下の大幅な設計変更を実施したためMC15E型となった。
+[Honda_VTR250_2009_Engine_Radiator.JPG](https://ja.wikipedia.org/wiki/File:Honda_VTR250_2009_Engine_Radiator.JPG "fig:Honda_VTR250_2009_Engine_Radiator.JPG") [1986年](../Page/1986年.md "wikilink")4月9日発表、同月23日発売\[18\]。通称3型（VT250FG）。型式名MC15。エンジン型式も以下の大幅な設計変更を実施したためMC15E型となった。
 
   - シリンダー行程を0.1mm伸ばして排気量が1cc拡大され249ccに変更。
   - クラッチを油圧式から一般的なワイヤー式に変更。

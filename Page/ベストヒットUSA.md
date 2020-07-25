@@ -117,7 +117,7 @@
   - 上記『サーフ・サイド・フリーウェイ』に代わり、2013年4月から「[A.L.L.Y.](https://ja.wikipedia.org/wiki/A.L.L.Y. "wikilink")」の『The Walk』が使用されていたが、2015年8月28日放送分から『Don't Worry Baby』の使用が再開された。また、テーマ曲に合わせてタイトル映像も変わり、『The Walk』時代のロボット（立方体形の頭部がCDジャケットになっている）が行進する映像から、番組開始当初に使用されていた「CDジャケットがドミノ倒し風に倒れていく映像」に現代風アレンジを加えつつも忠実に再現した映像に変更されている。
   - 一部の曲には、英語の歌詞テロップもしくは日本語訳のテロップが付く場合がある。
   - テレビ朝日から[通販CD](../Page/通販CD.md "wikilink")も発売している。[関連リンク](http://www.tv-asahi.co.jp/besthitusa/cd.html)
-  - [ANA国際線のシートテレビでは](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、毎月「ANA presents タイムマシーンスペシャル」として番組のコーナーを独立させた動画を配信し、好評を博している。
+  - [ANA国際線のシートテレビでは](../Page/全日本空輸.md "wikilink")、毎月「ANA presents タイムマシーンスペシャル」として番組のコーナーを独立させた動画を配信し、好評を博している。
   - 2006年10月から2009年3月23日までは、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")でも放送されていた。
   - 2007年4月より、[KDDI](../Page/KDDI.md "wikilink")ならびに[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[au携帯電話で当番組と連動したサイト](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「ベストヒットau」をスタート。先着100名に洋楽の[着うた](../Page/着うた.md "wikilink")をプレゼントしている。
   - 2012年7月10日放送では[シェネル](https://ja.wikipedia.org/wiki/シェネル "wikilink")がゲストVJとして「COUNT DOWN USA」を全て紹介した。

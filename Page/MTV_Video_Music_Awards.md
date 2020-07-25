@@ -70,7 +70,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/ダイアー・ストレイツ.md" title="wikilink">ダイアー・ストレイツ</a> — "<a href="https://ja.wikipedia.org/wiki/マネー・フォー・ナッシング" title="wikilink">Money for Nothing</a>"</p></td>
 <td><p><small></p>
 <ul>

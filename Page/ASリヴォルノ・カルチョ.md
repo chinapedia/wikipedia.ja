@@ -139,7 +139,7 @@
 
 ### GK
 
-  - [ステファノ・タッコーニ](https://ja.wikipedia.org/wiki/ステファノ・タッコーニ "wikilink") 1978-1979
+  - [ステファノ・タッコーニ](../Page/ステファノ・タッコーニ.md "wikilink") 1978-1979
 
   - [マルコ・アメリア](../Page/マルコ・アメリア.md "wikilink")　2001-2003, 2004-2008
 
@@ -165,7 +165,7 @@
 
   - [ラフマン・レザイー](../Page/ラフマン・レザイー.md "wikilink") 2006-2008
 
-  - [ネルソン・リバス](https://ja.wikipedia.org/wiki/ネルソン・リバス "wikilink") 2009-2010
+  - [ネルソン・リバス](../Page/ネルソン・リバス.md "wikilink") 2009-2010
 
   - [ルーカ・シリガルディ](https://ja.wikipedia.org/wiki/ルーカ・シリガルディ "wikilink") 2011-2015
 

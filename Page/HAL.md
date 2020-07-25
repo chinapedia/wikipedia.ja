@@ -18,7 +18,7 @@
   - [ホーランド・アメリカライン](../Page/ホーランド・アメリカライン.md "wikilink")（Holland America Line）
   - [ハリバートンの](https://ja.wikipedia.org/wiki/ハリバートン_\(企業\) "wikilink")[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")。
   - [ハワイアン航空](../Page/ハワイアン航空.md "wikilink")の[ICAO](../Page/国際民間航空機関.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
-  - [ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")（[Hindustan Aeronautics Limited](https://ja.wikipedia.org/wiki/:en:Hindustan_Aeronautics_Limited "wikilink")） - [インド](../Page/インド.md "wikilink")の航空機メーカー。
+  - [ヒンドスタン航空機](../Page/ヒンドスタン航空機.md "wikilink")（[Hindustan Aeronautics Limited](https://ja.wikipedia.org/wiki/:en:Hindustan_Aeronautics_Limited "wikilink")） - [インド](../Page/インド.md "wikilink")の航空機メーカー。
   - [HAL (専門学校)](../Page/HAL_\(専門学校\).md "wikilink") - 日本の[専門学校](../Page/専門学校.md "wikilink")。旧校名は「コンピュータ総合学園HAL」で、[学校法人日本教育財団](../Page/学校法人日本教育財団.md "wikilink")が運営。
   - [HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink") - 日本の[ゲームソフト](../Page/ゲームソフト.md "wikilink")開発会社。
   - HAL INDUSTRY（[ハル・インダストリ](../Page/ハル・インダストリ.md "wikilink")）- 日本の消臭研究会社。

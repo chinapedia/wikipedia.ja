@@ -14,7 +14,7 @@
 ## スタジオMC
 
   - [飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")
-  - [内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")
+  - [内田朝陽](../Page/内田朝陽.md "wikilink")
 
 ## エンディングテーマ
 

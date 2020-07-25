@@ -28,7 +28,7 @@
 ## 略歴
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")：[大阪](../Page/大阪.md "wikilink")にて[DYNAMITE TOMMYが](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")「こんなクソみたいな世界ムカつくからありとあらゆる手段で叩きつぶしてやる」ためにCOLOR結成。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")：フリー・ウィル・レコード（現在の[フリーウィル](../Page/フリーウィル.md "wikilink")）設立。
+  - [1986年](../Page/1986年.md "wikilink")：フリー・ウィル・レコード（現在の[フリーウィル](../Page/フリーウィル.md "wikilink")）設立。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")：1st[EP](../Page/レコード.md "wikilink")『MOLT GRAIN』リリース。[Xや](../Page/X_JAPAN.md "wikilink")[RAPES](../Page/RAPES.md "wikilink")との交遊が深まる。11月ベースのMARRYが加入、黄金メンバーが揃う。
   - [1988年](../Page/1988年.md "wikilink")：1月、1stアルバム『激突\!\!』リリース。11月、インディーズ界初のCDシングル無料配布GIGを東京、大阪にて敢行。
   - [1989年](../Page/1989年.md "wikilink")：3月、初回プレスのみTシャツ付きで『FOOLS\!GET LUCKY\!\!』リリース。インディーズチャート1位に。5月、『FOOLS\!GET LUCKY\!\!』より『BROKEN TAVARN』シングルカット。10月、[日本クラウン](../Page/日本クラウン.md "wikilink")よりメジャーデビュー。

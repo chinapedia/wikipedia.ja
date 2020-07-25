@@ -17,7 +17,7 @@
 
 [1984年](../Page/1984年.md "wikilink")4月、諸般の事情から新井が降番して中川がメイン司会者に昇格し、[ヨアンナ・ディック](https://ja.wikipedia.org/wiki/ヨアンナ・ディック "wikilink")（Ioanna Dick、現姓：スィラヴァン Sillavan、元[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[大池キリスト教会](https://ja.wikipedia.org/wiki/大池キリスト教会 "wikilink")）をアシスタントに起用し、説教や信者の告白に司会者が脇目も憚らず貰い泣きするという、"Praise the Lord" の番組形式を踏襲したものの、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")には[キリスト教](../Page/キリスト教.md "wikilink")[テーマパーク](../Page/テーマパーク.md "wikilink")『[楽園USA](https://ja.wikipedia.org/wiki/楽園USA "wikilink")』（[Heritage USA](https://ja.wikipedia.org/wiki/:en:Heritage_USA "wikilink")）への過剰投資と献金額の頭打ちからPTLクラブ本部の財政難が深刻化したため、PTLクラブの日本事務所『PTLクラブジャパン』への資金供与が途絶。これにより『PTLクラブジャパン』が置かれていた[日本アッセンブリーズ・オブ・ゴッド教団](../Page/日本アッセンブリーズ・オブ・ゴッド教団.md "wikilink")で内紛が勃発し（詳細次項）、同年末を以って中川が離脱、降番した。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月以降は、中川が主幹として立ち上げた新団体[ハーベスト・タイム・ミニストリーズ](https://ja.wikipedia.org/wiki/ハーベスト・タイム・ミニストリーズ "wikilink")が、別番組『ハーベスト・タイム』の制作配給に着手した。これが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで続いた。
+[1986年](../Page/1986年.md "wikilink")1月以降は、中川が主幹として立ち上げた新団体[ハーベスト・タイム・ミニストリーズ](https://ja.wikipedia.org/wiki/ハーベスト・タイム・ミニストリーズ "wikilink")が、別番組『ハーベスト・タイム』の制作配給に着手した。これが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで続いた。
 
 ### 『ライフ・ライン』と教団の迷走
 

@@ -48,7 +48,7 @@
 <!-- end list -->
 
   -
-    [2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[DRAGON GATEで復活して](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に封印されたが2010年[4月19日](../Page/4月19日.md "wikilink")に天龍プロジェクトで復活。
+    [2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[DRAGON GATEで復活して](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に封印されたが2010年[4月19日](../Page/4月19日.md "wikilink")に天龍プロジェクトで復活。
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
   - [タイフーン](https://ja.wikipedia.org/wiki/フレッド・オットマン "wikilink")
   - [ダミアン](../Page/ダミアン666.md "wikilink")
   - [チャボ・ゲレロ](../Page/チャボ・ゲレロ・シニア.md "wikilink")
-  - [ディック・スレーター](https://ja.wikipedia.org/wiki/ディック・スレーター "wikilink")
+  - [ディック・スレーター](../Page/ディック・スレーター.md "wikilink")
   - [ドインク・ザ・クラウン](https://ja.wikipedia.org/wiki/マット・ボーン "wikilink")
   - [デスマスク](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")
   - [ドクター・ルーサー](https://ja.wikipedia.org/wiki/ドクター・ルーサー "wikilink")

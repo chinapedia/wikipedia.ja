@@ -1,7 +1,7 @@
 > この記事は[RoHS](https://ja.wikipedia.org/wiki/RoHS)から翻訳されています。
 
 
-**RoHS**（ローズ）は、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")・[電気](../Page/電気.md "wikilink")機器における特定[有害物質](../Page/有害物質.md "wikilink")の使用制限についての[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")(EU)による[指令である](https://ja.wikipedia.org/wiki/指令_\(EU\) "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に[WEEE指令](../Page/WEEE指令.md "wikilink")と共に[公布](../Page/公布.md "wikilink")され、[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[施行](../Page/施行.md "wikilink")された。[2011年](../Page/2011年.md "wikilink")7月1日には改正指令が公布され、同年[7月21日](../Page/7月21日.md "wikilink")に発効。旧指令は[2013年](../Page/2013年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に失効している\[1\]。
+**RoHS**（ローズ）は、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")・[電気](../Page/電気.md "wikilink")機器における特定[有害物質](../Page/有害物質.md "wikilink")の使用制限についての[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")(EU)による[指令である](../Page/指令_\(EU\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に[WEEE指令](../Page/WEEE指令.md "wikilink")と共に[公布](../Page/公布.md "wikilink")され、[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[施行](../Page/施行.md "wikilink")された。[2011年](../Page/2011年.md "wikilink")7月1日には改正指令が公布され、同年[7月21日](../Page/7月21日.md "wikilink")に発効。旧指令は[2013年](../Page/2013年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に失効している\[1\]。
 
 ## 概要
 

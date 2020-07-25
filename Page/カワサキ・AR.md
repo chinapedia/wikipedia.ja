@@ -7,7 +7,7 @@
 
 ### AR125 (S)
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、それまで生産されていた[空冷モデルであった](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[KH125のモデルチェンジ版として登場](https://ja.wikipedia.org/wiki/カワサキ・KH "wikilink")。[1960年代](../Page/1960年代.md "wikilink")のモデル、Aシリーズの名を受け継ぐスポーツモデルとなった。[水冷](../Page/水冷エンジン.md "wikilink")[単気筒](../Page/単気筒エンジン.md "wikilink")124ccの[2ストロークエンジン](../Page/2ストローク機関.md "wikilink")、続く上級モデルのGPzシリーズに連なるビキニ[カウル](../Page/カウル.md "wikilink")、金色のキャストホイール、フロントディスクブレーキを装着。最高出力は22[馬力](../Page/馬力.md "wikilink")。また[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、[GPZ900Rを髣髴とさせるフルカウルボディを採用した](../Page/カワサキ・GPZ900R.md "wikilink")“S”が登場した。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、それまで生産されていた[空冷モデルであった](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[KH125のモデルチェンジ版として登場](https://ja.wikipedia.org/wiki/カワサキ・KH "wikilink")。[1960年代](../Page/1960年代.md "wikilink")のモデル、Aシリーズの名を受け継ぐスポーツモデルとなった。[水冷](../Page/水冷エンジン.md "wikilink")[単気筒](../Page/単気筒エンジン.md "wikilink")124ccの[2ストロークエンジン](../Page/2ストローク機関.md "wikilink")、続く上級モデルのGPzシリーズに連なるビキニ[カウル](../Page/カウル.md "wikilink")、金色のキャストホイール、フロントディスクブレーキを装着。最高出力は22[馬力](../Page/馬力.md "wikilink")。また[1986年](../Page/1986年.md "wikilink")には、[GPZ900Rを髣髴とさせるフルカウルボディを採用した](../Page/カワサキ・GPZ900R.md "wikilink")“S”が登場した。
 
 特徴的な機構としてRRISを搭載。ロータリーバルブとリードバルブを併用するもので、後に発売されたKR250にも採用されている。また最適な冷却水温を確保するため、このクラスでは初めて[ラジエーター](../Page/ラジエーター.md "wikilink")に[サーモスタット](../Page/サーモスタット.md "wikilink")が装備された。この新機構とビキニカウルにより、メーター読みで120km/h+αの最高速を誇った。
 

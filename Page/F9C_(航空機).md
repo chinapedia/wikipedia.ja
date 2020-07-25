@@ -1,7 +1,7 @@
 > この記事は[F9C \(航空機\)](https://ja.wikipedia.org/wiki/F9C_\(航空機\))から翻訳されています。
 
 
-**F9C スパローホーク**（*Curtiss-Wright F9C Sparrowhawk* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が開発し1930年代に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。アメリカ海軍の[飛行船](../Page/飛行船.md "wikilink")、[アクロン(ZRS-4)と](../Page/アクロン_\(飛行船\).md "wikilink")、同型の[メイコン(ZRS-5)に搭載されて運用された](https://ja.wikipedia.org/wiki/メイコン_\(飛行船\) "wikilink")。
+**F9C スパローホーク**（*Curtiss-Wright F9C Sparrowhawk* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が開発し1930年代に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。アメリカ海軍の[飛行船](../Page/飛行船.md "wikilink")、[アクロン(ZRS-4)と](../Page/アクロン_\(飛行船\).md "wikilink")、同型の[メイコン(ZRS-5)に搭載されて運用された](https://ja.wikipedia.org/wiki/メイコン_\(飛行船\) "wikilink")。
 
 愛称の「**スパローホーク** (Sparrowhawk)」は、[猛禽類](../Page/猛禽類.md "wikilink")である[ハイタカ](https://ja.wikipedia.org/wiki/ハイタカ "wikilink")の意。
 

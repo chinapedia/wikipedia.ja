@@ -6,12 +6,12 @@
 ## メンバー
 
   - **[宮下雄也](../Page/宮下雄也.md "wikilink")**（みやした ゆうや、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - 、[大阪府](../Page/大阪府.md "wikilink")出身）
-  - **[米原幸佑](../Page/米原幸佑.md "wikilink")**（よねはら こうすけ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月13日](../Page/3月13日.md "wikilink") - 、[大阪府](../Page/大阪府.md "wikilink")出身）
+  - **[米原幸佑](../Page/米原幸佑.md "wikilink")**（よねはら こうすけ、[1986年](../Page/1986年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") - 、[大阪府](../Page/大阪府.md "wikilink")出身）
   - **[永田彬](../Page/永田彬.md "wikilink")**（ながた あきら、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月22日](../Page/1月22日.md "wikilink") - 、[大阪府](../Page/大阪府.md "wikilink")出身）
 
 ## 元メンバー
 
-  - **[上山竜司](../Page/上山竜治.md "wikilink")**（かみやま りゅうじ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月10日](../Page/9月10日.md "wikilink") - 、[東京都](../Page/東京都.md "wikilink")出身）2014年8月31日脱退
+  - **[上山竜司](../Page/上山竜治.md "wikilink")**（かみやま りゅうじ、[1986年](../Page/1986年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink") - 、[東京都](../Page/東京都.md "wikilink")出身）2014年8月31日脱退
 
 ## 出演
 

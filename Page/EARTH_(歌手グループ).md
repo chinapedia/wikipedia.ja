@@ -43,7 +43,7 @@
 
 ### アルバム
 
-1.  **[Bright Tomorrow](https://ja.wikipedia.org/wiki/Bright_Tomorrow "wikilink")**（2001年3月28日、AVCD-16006、12位）
+1.  **[Bright Tomorrow](../Page/Bright_Tomorrow.md "wikilink")**（2001年3月28日、AVCD-16006、12位）
 
 ### 映像作品
 

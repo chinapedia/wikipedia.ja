@@ -17,7 +17,7 @@
 ※試合形式は、いずれも金網デスマッチである。
 
   - トリプルスレットタッグマッチ（[ダーク・マッチ](../Page/ダーク・マッチ.md "wikilink")として開催）
-    [デビッド・ヤング](https://ja.wikipedia.org/wiki/デビッド・ヤング_\(プロレスラー\) "wikilink")&[レックス・ロブト](https://ja.wikipedia.org/wiki/レックス・ロブト "wikilink")● vs 3 Live Kru（[ロン・キリングス](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")&[コナン](https://ja.wikipedia.org/wiki/コナン_\(プロレスラー\) "wikilink")）○ vs ザ・ナチュラルズ（[アンディ・ダグラス](https://ja.wikipedia.org/wiki/アンディ・ダグラス "wikilink")&[チェイス・スティーブンス](https://ja.wikipedia.org/wiki/チェイス・スティーブンス "wikilink")）（w / [クリス・キャンディード](https://ja.wikipedia.org/wiki/クリス・キャンディード "wikilink")）
+    [デビッド・ヤング](https://ja.wikipedia.org/wiki/デビッド・ヤング_\(プロレスラー\) "wikilink")&[レックス・ロブト](https://ja.wikipedia.org/wiki/レックス・ロブト "wikilink")● vs 3 Live Kru（[ロン・キリングス](../Page/ロン・キリングス.md "wikilink")&[コナン](https://ja.wikipedia.org/wiki/コナン_\(プロレスラー\) "wikilink")）○ vs ザ・ナチュラルズ（[アンディ・ダグラス](https://ja.wikipedia.org/wiki/アンディ・ダグラス "wikilink")&[チェイス・スティーブンス](https://ja.wikipedia.org/wiki/チェイス・スティーブンス "wikilink")）（w / [クリス・キャンディード](https://ja.wikipedia.org/wiki/クリス・キャンディード "wikilink")）
 
 <!-- end list -->
 

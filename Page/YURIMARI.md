@@ -12,7 +12,7 @@
   - **[YURI](../Page/中村ゆり.md "wikilink")**（ゆり）
       - 本名は成友理（성우리 / ソン・ウリ）で通名は中村友理（なかむら ゆり）。[1982年](../Page/1982年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")[寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")出身。血液型はAB型。
       - 『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』で行われた「乱発オーディション」に合格し、友人だった伊澤真理とYURIMARIを結成。
-      - 解散後は「中村ゆり」の名で女優として活躍。『[東京フレンズ](../Page/東京フレンズ.md "wikilink")』などに出演。『[パッチギ\! LOVE\&PEACE](../Page/パッチギ!_LOVE&PEACE.md "wikilink")』では、メインキャストとして出演。監督を務めた[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")に「[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")を蹴落とす事ができる逸材」と言わしめた演技力を持つ。『パッチギ\!〜』出演時に役柄だけでなく、自身も父が在日韓国人3世、母が韓国生まれの在日韓国人であることを明かした。
+      - 解散後は「中村ゆり」の名で女優として活躍。『[東京フレンズ](../Page/東京フレンズ.md "wikilink")』などに出演。『[パッチギ\! LOVE\&PEACE](../Page/パッチギ!_LOVE&PEACE.md "wikilink")』では、メインキャストとして出演。監督を務めた[井筒和幸](../Page/井筒和幸.md "wikilink")に「[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")を蹴落とす事ができる逸材」と言わしめた演技力を持つ。『パッチギ\!〜』出演時に役柄だけでなく、自身も父が在日韓国人3世、母が韓国生まれの在日韓国人であることを明かした。
   - **[MARI](../Page/MARI_\(タレント\).md "wikilink")**（まり）
       - 本名は伊澤真理。[1982年](../Page/1982年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")生まれ。[滋賀県](../Page/滋賀県.md "wikilink")[甲賀市](../Page/甲賀市.md "wikilink")出身（[大阪府](../Page/大阪府.md "wikilink")出身としているが、富山のメディアでのインタビューや『[めちゃイケ](../Page/めちゃ×2イケてるッ!.md "wikilink")』出演時に滋賀県出身であることを明かしている）。血液型はB型。両親の離婚以前は「田中真理」が本名だった。
       - 解散後、『[伝説の教師](../Page/伝説の教師.md "wikilink")』などのドラマやバラエティー番組に出演していたが、一時期芸能界を離れ渡米。帰国後結婚し一児をもうけたのち離婚。「いざわまり」と改名して芸能界に復帰、関西を拠点に活動している。

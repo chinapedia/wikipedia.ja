@@ -11,7 +11,7 @@
 
 iCab 4.0以降はレンダリングエンジンが[WebKit](../Page/WebKit.md "wikilink")に置き換えられ、[Safari](../Page/Safari.md "wikilink")と同等のレンダリング能力を得た。そのため現在のiCabは、Crystal Atari Browserと全くの別物である。
 
-2009年6月7日、iCab 4.6は[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")を100/100で通過した初めてのウェブブラウザとなった。 なお、Safari 4はその翌日にリリースされたにもかかわらず、Acid3を初めて100/100で通過した正式版のウェブブラウザとされている。
+2009年6月7日、iCab 4.6は[Acid3](../Page/Acid3.md "wikilink")を100/100で通過した初めてのウェブブラウザとなった。 なお、Safari 4はその翌日にリリースされたにもかかわらず、Acid3を初めて100/100で通過した正式版のウェブブラウザとされている。
 
 ## バージョン
 

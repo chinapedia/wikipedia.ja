@@ -17,7 +17,7 @@
   - ポンキチ （1997年2月 - 同年3月、27:00 - 29:00）
   - [衛藤利恵](../Page/衛藤利恵.md "wikilink")■ （1997年4月 - 同年9月、25:00 - 26:00）
   - [ハルニレ](../Page/ハルニレ.md "wikilink") （1997年4月 - 同年9月、26:00 - 27:00）
-  - [伊能静](https://ja.wikipedia.org/wiki/伊能静 "wikilink") （1997年4月 - 1998年3月、27:00 - 28:00） ※ ←火曜日から移動
+  - [伊能静](../Page/伊能静.md "wikilink") （1997年4月 - 1998年3月、27:00 - 28:00） ※ ←火曜日から移動
   - [SIDE ONE](https://ja.wikipedia.org/wiki/SIDE_ONE "wikilink") （1997年4月 - 1998年9月、28:00 - 29:00 → 26:00 - 27:00）
   - [小谷美紗子](../Page/小谷美紗子.md "wikilink")■ （1997年10月 - 1998年3月、25:00 - 26:00）
   - [中川優美](https://ja.wikipedia.org/wiki/中川優美 "wikilink")（[Jack\&Betty](../Page/Jack&Betty.md "wikilink")） （1997年10月 - 1998年9月、28:00 - 29:00）

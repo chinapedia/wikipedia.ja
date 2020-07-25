@@ -500,7 +500,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/へんな子ちゃん" title="wikilink">へんな子ちゃん</a></p></td>
+<td><p><a href="../Page/へんな子ちゃん.md" title="wikilink">へんな子ちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2008年4月25日</p></td>
 <td></td>
@@ -599,7 +599,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">ヘタリア Axis Powers</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア Axis Powers</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメイトモバイルシリーズ" title="wikilink">モバイルアニメイト</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a>1月24日</p></td>
 <td><p>後にTV放映<br />
@@ -660,7 +660,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">ヘタリア Axis Powers （第2期）</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア Axis Powers （第2期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメイトモバイルシリーズ" title="wikilink">モバイルアニメイト</a></p></td>
 <td><p>2009年7月24日</p></td>
 <td><p>後にTV放映<br />
@@ -748,7 +748,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">ヘタリア World Series （第3期）</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア World Series （第3期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメイトモバイルシリーズ" title="wikilink">モバイルアニメイト</a></p></td>
 <td><p>2010年3月26日</p></td>
 <td><p>後にTV放映</p></td>
@@ -790,7 +790,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">ヘタリア World Series （第4期）</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア World Series （第4期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメイトモバイルシリーズ" title="wikilink">モバイルアニメイト</a></p></td>
 <td><p>2010年9月10日</p></td>
 <td><p>後にTV放映</p></td>
@@ -1175,7 +1175,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">ヘタリア The Beautiful World （第5期）</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア The Beautiful World （第5期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメイトTV" title="wikilink">アニメイトTV</a><br />
 <a href="https://ja.wikipedia.org/wiki/アニメイトモバイルシリーズ" title="wikilink">モバイルアニメイト</a></p></td>
 <td><p>2013年1月25日</p></td>
@@ -1942,7 +1942,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Axis_powers_ヘタリア" title="wikilink">ヘタリア The World Twinkle （第6期）</a></p></td>
+<td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア The World Twinkle （第6期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドコモ・アニメストア" title="wikilink">dアニメストア</a></p></td>
 <td><p>2015年7月3日</p></td>
 <td></td>

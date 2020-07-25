@@ -20,7 +20,7 @@
 ## 作品
 
   - シングル「Dear my friends」から「ランブルフィッシュ」までの4タイトルとアルバム3タイトルはCDのみとDVD付の2種類で販売された。ジャケット写真やCDの収録内容に違いはない。
-  - 『[ウィダーinゼリー](https://ja.wikipedia.org/wiki/ウィダーinゼリー "wikilink")』のCMソングとして使われたカバー曲「[マイ・シャローナ](https://ja.wikipedia.org/wiki/マイ・シャローナ "wikilink")」はリリースには至っていない。
+  - 『[ウィダーinゼリー](https://ja.wikipedia.org/wiki/ウィダーinゼリー "wikilink")』のCMソングとして使われたカバー曲「[マイ・シャローナ](../Page/マイ・シャローナ.md "wikilink")」はリリースには至っていない。
 
 ### シングル
 

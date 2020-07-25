@@ -22,7 +22,7 @@
   - [1981年](../Page/1981年.md "wikilink") 関東実業団リーグ2部からスタート
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") 日本リーグ2部昇格
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") 日本リーグ1部昇格
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") 日本リーグ2部降格
+  - [1986年](../Page/1986年.md "wikilink") 日本リーグ2部降格
   - [1988年](../Page/1988年.md "wikilink") 日本リーグ1部復帰
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") 日本リーグ2部降格
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") 関東実業団リーグ1部降格
@@ -103,7 +103,7 @@
   - [バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")
   - [翔べ\!ラビッツ](https://ja.wikipedia.org/wiki/翔べ!ラビッツ "wikilink")
   - [フライング☆ラビッツ](../Page/フライング☆ラビッツ.md "wikilink")
-  - [大和証券ホットブリザーズ](https://ja.wikipedia.org/wiki/大和証券ホットブリザーズ "wikilink")
+  - [大和証券ホットブリザーズ](../Page/大和証券ホットブリザーズ.md "wikilink")
   - 「JAL女子バスケの涙」（フジテレビ系列 2011年3月）
 
 ## 外部リンク

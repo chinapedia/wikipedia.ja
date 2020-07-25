@@ -24,7 +24,7 @@
 ### その他
 
   - [細胞調製施設](https://ja.wikipedia.org/wiki/細胞調製施設 "wikilink")または[細胞培養センター](https://ja.wikipedia.org/wiki/細胞培養センター "wikilink") (Cell Processing Center)
-  - [サウジアラムコ](https://ja.wikipedia.org/wiki/サウジアラムコ "wikilink")の研究機関 [College Preparatory Center](https://ja.wikipedia.org/wiki/:en:College_Preparatory_Center "wikilink")
+  - [サウジアラムコ](../Page/サウジアラムコ.md "wikilink")の研究機関 [College Preparatory Center](https://ja.wikipedia.org/wiki/:en:College_Preparatory_Center "wikilink")
 
 ## 科学
 

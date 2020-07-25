@@ -84,7 +84,7 @@
   - 根本沙織（健の妻）：[安奈とも](../Page/安奈とも.md "wikilink")
   - 女：[泉晶子](../Page/泉晶子.md "wikilink")
   - その夫：[山崎大輔](https://ja.wikipedia.org/wiki/山崎大輔 "wikilink")
-  - ：[ハルカ・オース](https://ja.wikipedia.org/wiki/ハルカ・オース "wikilink")
+  - ：[ハルカ・オース](../Page/ハルカ・オース.md "wikilink")
   - ：[染谷夏子](https://ja.wikipedia.org/wiki/染谷夏子 "wikilink")
   - ：[鈴木茜](../Page/鈴木茜.md "wikilink")
   - ：[清原りょう](../Page/清原りょう.md "wikilink")

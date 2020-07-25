@@ -17,7 +17,7 @@ OLEを活用しているソフトウェア実例としては、[Microsoft Office
 
 OLE 1.0は1990年、[動的データ交換](../Page/動的データ交換.md "wikilink") (Dynamic Data Exchange, DDE) の後継として公開された。DDEが2つのアプリケーションの間で限定的なデータ転送を行う仕組みだったのに対し、OLEは2つのドキュメント間の連携（リンク）や、あるドキュメントに別のドキュメントを埋め込みを管理する機能を持った仕組みであった。
 
-OLEサーバとクライアント間の通信には、システムライブラリを介するが、これには[仮想関数テーブル](https://ja.wikipedia.org/wiki/仮想関数テーブル "wikilink") (vtable, VTBL) が用いられた。VTBLには、OLEシステムがサーバやクライアントとの通信に用いる関数へのポインタが所定の構造に従って収められている。サーバとクライアントに対応するシステムライブラリは、OLESVR.DLLとOLECLI.DLLで、当初はこの2つの間の通信に`WM_DDE_EXECUTE`メッセージが利用されていた。
+OLEサーバとクライアント間の通信には、システムライブラリを介するが、これには[仮想関数テーブル](../Page/仮想関数テーブル.md "wikilink") (vtable, VTBL) が用いられた。VTBLには、OLEシステムがサーバやクライアントとの通信に用いる関数へのポインタが所定の構造に従って収められている。サーバとクライアントに対応するシステムライブラリは、OLESVR.DLLとOLECLI.DLLで、当初はこの2つの間の通信に`WM_DDE_EXECUTE`メッセージが利用されていた。
 
 OLE 1.0は後に[COMや](../Page/Component_Object_Model.md "wikilink")[DCOMとして](../Page/Distributed_Component_Object_Model.md "wikilink")[ソフトウェアの部品化を実現するアーキテクチャとなっていった](../Page/ソフトウェアコンポーネント.md "wikilink")。
 

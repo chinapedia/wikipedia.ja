@@ -5,7 +5,7 @@
 
 ## 概要
 
-駅ビル「CoCoLo」は、[新潟県](../Page/新潟県.md "wikilink")のほぼ全域と[山形県](../Page/山形県.md "wikilink")[庄内地方](../Page/庄内地方.md "wikilink")のJR東日本区間を管轄するJR新潟支社の管内に所在する[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")（[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")）・[長岡駅](../Page/長岡駅.md "wikilink")（[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）・[越後湯沢駅](../Page/越後湯沢駅.md "wikilink")（[湯沢町](../Page/湯沢町.md "wikilink")）の3駅で展開している。
+駅ビル「CoCoLo」は、[新潟県](../Page/新潟県.md "wikilink")のほぼ全域と[山形県](../Page/山形県.md "wikilink")[庄内地方](../Page/庄内地方.md "wikilink")のJR東日本区間を管轄するJR新潟支社の管内に所在する[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")（[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")）・[長岡駅](../Page/長岡駅.md "wikilink")（[長岡市](../Page/長岡市.md "wikilink")）・[越後湯沢駅](../Page/越後湯沢駅.md "wikilink")（[湯沢町](../Page/湯沢町.md "wikilink")）の3駅で展開している。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）からは「**LIFE PLAZA CoCoLo**」をキャッチフレーズに、より立地に特化した店舗構成を打ち出している。
 

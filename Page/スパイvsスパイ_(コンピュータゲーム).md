@@ -114,7 +114,7 @@
 <td><p>Spy vs Spy</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コモドール16" title="wikilink">コモドール16</a><br />
-<a href="https://ja.wikipedia.org/wiki/BBC_Micro" title="wikilink">BBC Micro</a></p></td>
+<a href="../Page/BBC_Micro.md" title="wikilink">BBC Micro</a></p></td>
 <td><p>Artcrew Productions</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tynesoft" title="wikilink">Tynesoft</a></p></td>
 <td><p>フロッピーディスク</p></td>
@@ -183,7 +183,7 @@
 </table>
 
   - ファミリーコンピュータ版
-    [ケムコから](https://ja.wikipedia.org/wiki/コトブキシステム#ケムコ（KEMCO） "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月に発売された。クレジットは『MAD MAGAZINE'S OFFICIAL KEMCO』。ストーリーは1Pのヘッケルはケムコの産業スパイ、2Pのジャッケルはライバル会社トムコの産業スパイという設定で、2人が奪い合う設計図はゲーム界の元締めであるジンテンドウの開発した新型ディスクシステムの設計図を奪うというもの。本作発売年の2月に任天堂[ディスクシステムが発売](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")。『別冊宝島797 僕たちの好きなTVゲーム 80年代懐かしゲーム編』では「産業スパイが狙うような最新機器として、ディスクシステムは認知されていた…のかなぁ」と解説されている\[3\]。ケムコからは[1999年](../Page/1999年.md "wikilink")に[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")版も発売されている。
+    [ケムコから](https://ja.wikipedia.org/wiki/コトブキシステム#ケムコ（KEMCO） "wikilink")[1986年](../Page/1986年.md "wikilink")4月に発売された。クレジットは『MAD MAGAZINE'S OFFICIAL KEMCO』。ストーリーは1Pのヘッケルはケムコの産業スパイ、2Pのジャッケルはライバル会社トムコの産業スパイという設定で、2人が奪い合う設計図はゲーム界の元締めであるジンテンドウの開発した新型ディスクシステムの設計図を奪うというもの。本作発売年の2月に任天堂[ディスクシステムが発売](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")。『別冊宝島797 僕たちの好きなTVゲーム 80年代懐かしゲーム編』では「産業スパイが狙うような最新機器として、ディスクシステムは認知されていた…のかなぁ」と解説されている\[3\]。ケムコからは[1999年](../Page/1999年.md "wikilink")に[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")版も発売されている。
   - セガ・マークIII版
     セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から1986年6月に発売され、移植は[中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")が担当した。
   - 日本国内PC版

@@ -1,7 +1,7 @@
 > この記事は[J.BOY \(アルバム\)](https://ja.wikipedia.org/wiki/J.BOY_\(アルバム\))から翻訳されています。
 
 
-『**J.BOY**』（ジェー・ボーイ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の2枚組[アルバム](../Page/アルバム.md "wikilink")。発売当時は[CD盤](../Page/コンパクトディスク.md "wikilink")、[アナログ盤](../Page/レコード.md "wikilink")、[カセット盤の](../Page/カセットテープ.md "wikilink")3形態で発売された。浜田にとって初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。
+『**J.BOY**』（ジェー・ボーイ）は、[1986年](../Page/1986年.md "wikilink")に発表された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の2枚組[アルバム](../Page/アルバム.md "wikilink")。発売当時は[CD盤](../Page/コンパクトディスク.md "wikilink")、[アナログ盤](../Page/レコード.md "wikilink")、[カセット盤の](../Page/カセットテープ.md "wikilink")3形態で発売された。浜田にとって初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。
 
 ## 概要
 
@@ -198,7 +198,7 @@
   -
     Performed by Shogo Hamada & [The Fuse](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")
       -
-        at [Yoyogi Olympic Pool](../Page/国立代々木競技場.md "wikilink"), [October 5th](../Page/10月5日.md "wikilink") [1986](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+        at [Yoyogi Olympic Pool](../Page/国立代々木競技場.md "wikilink"), [October 5th](../Page/10月5日.md "wikilink") [1986](../Page/1986年.md "wikilink")
 
 **SUPPLEMENTAL DISC**
 

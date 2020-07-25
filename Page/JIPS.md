@@ -16,7 +16,7 @@
 
   - JIPS(J)は『[ACOS-6](../Page/ACOS-6.md "wikilink")』
   - JIPS(E)は『[ACOS-2](../Page/ACOS-2.md "wikilink")』、『[ACOS-4](../Page/ACOS-4.md "wikilink")』
-  - NEC内部コード(E)は『[ITOS](https://ja.wikipedia.org/wiki/ITOS "wikilink")』、『[A-VX](https://ja.wikipedia.org/wiki/A-VX "wikilink")』等のオフコン
+  - NEC内部コード(E)は『[ITOS](https://ja.wikipedia.org/wiki/ITOS "wikilink")』、『[A-VX](../Page/A-VX.md "wikilink")』等のオフコン
 
 でそれぞれ用いられる。
 

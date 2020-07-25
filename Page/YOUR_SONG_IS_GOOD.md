@@ -72,7 +72,7 @@
     栃木県出身。武蔵野美術大学卒。既婚。
     元NUTS\&MILKのヴォーカル（バンド初期はドラムスを担当）。前身バンドのSCHOOL JACKETSではヴォーカルとトロンボーンを担当していた。
     イラストレーターを兼任しており、ジャケットデザイン、グッズデザインなどは彼の手によるものが多い。
-    ギターは主に[エピフォン・カジノ](../Page/エピフォン・カジノ.md "wikilink")、[ESP](../Page/イーエスピー.md "wikilink")・TORROCCO(通称MORROCCO)を初めとした数種のセミアコースティックギターを使用。結成初期までは、[スタインバーガー](https://ja.wikipedia.org/wiki/スタインバーガー "wikilink")タイプのギターを使用していた。
+    ギターは主に[エピフォン・カジノ](../Page/エピフォン・カジノ.md "wikilink")、[ESP](../Page/イーエスピー.md "wikilink")・TORROCCO(通称MORROCCO)を初めとした数種のセミアコースティックギターを使用。結成初期までは、[スタインバーガー](../Page/スタインバーガー.md "wikilink")タイプのギターを使用していた。
     サイトウと旧メンバーのマツムラとは武蔵野美術大学時代の同級生で、シライシとは高校時代の同級生である。
     [COMEBACK MY DAUGHTERSの高本和英](https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS "wikilink")、[FRONTIER BACKYARDのTGMX](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink")、元[riddim saunterの田中啓史とともに](https://ja.wikipedia.org/wiki/riddim_saunter "wikilink")、フォークカルテット「[THE DEKITS](https://ja.wikipedia.org/wiki/THE_DEKITS "wikilink")」としても活動している。
     NHK総合「[バナナ♪ゼロミュージック](https://ja.wikipedia.org/wiki/バナナ♪ゼロミュージック "wikilink")」にてハウスバンド「オルケスタ・"バナナゼロ"・ムジカ」のギターを担当。

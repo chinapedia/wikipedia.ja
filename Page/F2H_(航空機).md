@@ -2,7 +2,7 @@
 
 
 {{ Infobox 航空機 | 名称=F2H バンシー | 画像=画像:F2H_Banshee_VF-11_over_Wonsan_colour_1952.jpg | キャプション=飛行するF2H-2 125663号機
-([VF-11戦闘飛行隊所属](https://ja.wikipedia.org/wiki/:en:VF-11 "wikilink")、[1952年](../Page/1952年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者= | 製造者=[マクダネル・エアクラフト社](../Page/マクドネル・エアクラフト.md "wikilink") | 運用者 more=
+([VF-11戦闘飛行隊所属](https://ja.wikipedia.org/wiki/:en:VF-11 "wikilink")、[1952年](../Page/1952年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者= | 製造者=[マクダネル・エアクラフト社](../Page/マクドネル・エアクラフト.md "wikilink") | 運用者 more=
 \*\*
 
   -   -
@@ -17,13 +17,13 @@
       - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（米海軍・海兵隊予備役）
       - [1962年](../Page/1962年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")（カナダ海軍）
 
-| 運用状況=退役 | 原型機=[FH ファントム](../Page/FH_\(航空機\).md "wikilink") | ユニットコスト= }} **F2H バンシー**（*McDonnell F2H Banshee* ）は、[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用した[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+| 運用状況=退役 | 原型機=[FH ファントム](../Page/FH_\(航空機\).md "wikilink") | ユニットコスト= }} **F2H バンシー**（*McDonnell F2H Banshee* ）は、[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用した[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
 愛称の「**[バンシー](../Page/バンシー.md "wikilink")**(Banshee)」は、スコットランドに伝わる女の妖精のこと。
 
 ## 概要
 
-F2Hは世界初の純ジェット[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である[FH（FH-1）ファントム（初代）の発展型として開発された](../Page/FH_\(航空機\).md "wikilink")、事実上アメリカ海軍初の実用ジェット艦上戦闘機である。
+F2Hは世界初の純ジェット[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である[FH（FH-1）ファントム（初代）の発展型として開発された](../Page/FH_\(航空機\).md "wikilink")、事実上アメリカ海軍初の実用ジェット艦上戦闘機である。
 
 第二次世界大戦が終結したこともあり少数が発注されたのみのFHに比べ、F2Hは[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")の生産終了までに800機以上が生産され、[カナダ海軍](../Page/カナダ海軍.md "wikilink")でも運用された。
 

@@ -5,7 +5,7 @@
 
 ## ストーリー
 
-主人公のココ＝シャルマンは、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")に住む[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")のたまご。[フランス人](../Page/フランス人.md "wikilink")の父（繊維会社社長）と[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母（実家は[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")・[西陣](../Page/西陣.md "wikilink")の生地問屋）を持つ[ハーフである](../Page/混血.md "wikilink")。恋と友情を交えつつ、ファッション界に新風を巻き起こそうとするココの姿を描く。
+主人公のココ＝シャルマンは、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")に住む[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")のたまご。[フランス人](../Page/フランス人.md "wikilink")の父（繊維会社社長）と[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母（実家は[京都](../Page/京都.md "wikilink")・[西陣](../Page/西陣.md "wikilink")の生地問屋）を持つ[ハーフである](../Page/混血.md "wikilink")。恋と友情を交えつつ、ファッション界に新風を巻き起こそうとするココの姿を描く。
 
 ## 漫画
 

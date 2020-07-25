@@ -2,13 +2,13 @@
 
 
 {{ Infobox 航空機 | 名称=FH ファントム | 画像=<File:FH-1> Phantom in flight in February 1948.jpg | キャプション=飛行するFH-1 111793号機
-(VMF-122戦闘飛行隊所属、[1949年](../Page/1949年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")撮影） | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者= | 製造者=[マクダネル・エアクラフト社](../Page/マクドネル・エアクラフト.md "wikilink") | 運用者 more=
+(VMF-122戦闘飛行隊所属、[1949年](../Page/1949年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")撮影） | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者= | 製造者=[マクダネル・エアクラフト社](../Page/マクドネル・エアクラフト.md "wikilink") | 運用者 more=
 \*\*
 
   -   -
       - [Seal_of_the_United_States_Marine_Corps.svg](https://ja.wikipedia.org/wiki/File:Seal_of_the_United_States_Marine_Corps.svg "fig:Seal_of_the_United_States_Marine_Corps.svg") [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")
 
-| 初飛行年月日=[1945年](../Page/1945年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\] | 生産数=62機 | 生産開始年月日=
+| 初飛行年月日=[1945年](../Page/1945年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")\[1\] | 生産数=62機 | 生産開始年月日=
 \*\* [1944年](../Page/1944年.md "wikilink")（XFH-1）
 
   -   - [1947年](../Page/1947年.md "wikilink")（FH-1）
@@ -18,9 +18,9 @@
 
   -   - [1954年](../Page/1954年.md "wikilink")[6月](../Page/6月.md "wikilink")（アメリカ海軍予備役）
 
-| 運用状況=退役 | ユニットコスト= | 派生型=[F2H バンシー](../Page/F2H_\(航空機\).md "wikilink") }} **FH ファントム**（*McDonnell FH Phantom*）は、アメリカ合衆国の[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海兵隊で運用されたジェット推進の](../Page/アメリカ海兵隊.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+| 運用状況=退役 | ユニットコスト= | 派生型=[F2H バンシー](../Page/F2H_\(航空機\).md "wikilink") }} **FH ファントム**（*McDonnell FH Phantom*）は、アメリカ合衆国の[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海兵隊で運用されたジェット推進の](../Page/アメリカ海兵隊.md "wikilink")[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
-愛称の「**[ファントム](../Page/ファントム.md "wikilink")**(phantom)」は、幽霊、亡霊の意。[1945年](../Page/1945年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に初飛行した世界初の実用ジェット[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。
+愛称の「**[ファントム](../Page/ファントム.md "wikilink")**(phantom)」は、幽霊、亡霊の意。[1945年](../Page/1945年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に初飛行した世界初の実用ジェット[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。
 
 ## 概要
 
@@ -37,7 +37,7 @@
 
 機体は、葉巻型の胴体に低翼配置・直線翼の主翼を持つ、黎明期のジェット戦闘機としてはオーソドックスなものである。上記のようにエンジンは[ウェスティングハウス・エレクトリック](../Page/ウェスティングハウス・エレクトリック.md "wikilink")社が開発したターボジェットエンジンを2基、主翼付け根に装備している。武装は、機首に12.7mm機関銃4門を搭載している。
 
-試作初号機は[1945年](../Page/1945年.md "wikilink")1月に完成したが、[ウェスティングハウスX](../Page/ウェスティングハウス・エレクトリック.md "wikilink")19B-2Bジェットエンジンが1基しか届かず、当初は各種地上試験を行うのみであった。しかし、[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に1基のエンジンだけを装備して初飛行を行った\[4\]。1945年[3月7日](../Page/3月7日.md "wikilink")にFD-1として100機の量産機発注を受けたが、戦争が終結したため発注は60機に減少された。その後、二基のエンジンを搭載した完全形として飛行試験は順調に続けられ、[1946年](../Page/1946年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")には、アメリカのジェット戦闘機として初めて、[航空母艦](../Page/航空母艦.md "wikilink")「[フランクリン・D・ルーズベルト](../Page/フランクリン・D・ルーズベルト_\(空母\).md "wikilink")」での運用試験に成功している\[5\]。
+試作初号機は[1945年](../Page/1945年.md "wikilink")1月に完成したが、[ウェスティングハウスX](../Page/ウェスティングハウス・エレクトリック.md "wikilink")19B-2Bジェットエンジンが1基しか届かず、当初は各種地上試験を行うのみであった。しかし、[1月26日](../Page/1月26日.md "wikilink")に1基のエンジンだけを装備して初飛行を行った\[4\]。1945年[3月7日](../Page/3月7日.md "wikilink")にFD-1として100機の量産機発注を受けたが、戦争が終結したため発注は60機に減少された。その後、二基のエンジンを搭載した完全形として飛行試験は順調に続けられ、[1946年](../Page/1946年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")には、アメリカのジェット戦闘機として初めて、[航空母艦](../Page/航空母艦.md "wikilink")「[フランクリン・D・ルーズベルト](../Page/フランクリン・D・ルーズベルト_\(空母\).md "wikilink")」での運用試験に成功している\[5\]。
 
 [1947年](../Page/1947年.md "wikilink")1月より量産機の製造が開始され、量産型はウェスティングハウスJ30-WE-20エンジンを使用し、試作型より大幅に出力が向上している。[1947年](../Page/1947年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")よりアメリカ海軍VF-17A航空隊に配備が開始され、[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")のVMF-122及びVMF-311航空隊でも使用された\[6\]。
 

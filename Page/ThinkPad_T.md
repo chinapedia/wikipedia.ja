@@ -13,7 +13,7 @@
 
 Tシリーズは、[600シリーズの後継機種で](../Page/ThinkPad_600.md "wikilink")、ThinkPadシリーズの最上位モデルとして位置付けられている。[Gシリーズ](../Page/ThinkPad_G.md "wikilink")・[Aシリーズの高性能とXシリーズの携帯性を兼ね備えており](https://ja.wikipedia.org/wiki/ThinkPad_A "wikilink")、
 
-2[スピンドル](https://ja.wikipedia.org/wiki/スピンドル "wikilink")ノートパソコンであり、当初から[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブは割り切って省いている。その分を[筐体](../Page/筐体.md "wikilink")の薄型化や他のデバイスのポートにあてており、重量をバッテリー込みで2 kg強に抑えている（14.1インチ液晶モデル）。
+2[スピンドル](../Page/スピンドル.md "wikilink")ノートパソコンであり、当初から[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブは割り切って省いている。その分を[筐体](../Page/筐体.md "wikilink")の薄型化や他のデバイスのポートにあてており、重量をバッテリー込みで2 kg強に抑えている（14.1インチ液晶モデル）。
 
 特にT2xシリーズは、同時期に販売されたシリーズの中では故障が少なく丈夫であった。また自己責任ではあるが、[CPU](../Page/CPU.md "wikilink")や[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の交換には特に細工は不要で、
 

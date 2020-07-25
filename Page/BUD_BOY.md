@@ -110,7 +110,7 @@
 **エンディングテーマ「Mighty Dream」**
 
   -
-    作詞：[小峰公子](https://ja.wikipedia.org/wiki/小峰公子 "wikilink")、作曲・編曲：[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")、歌：田野恵・関俊彦
+    作詞：[小峰公子](https://ja.wikipedia.org/wiki/小峰公子 "wikilink")、作曲・編曲：[井上日徳](../Page/井上日徳.md "wikilink")、歌：田野恵・関俊彦
 
 <!-- end list -->
 

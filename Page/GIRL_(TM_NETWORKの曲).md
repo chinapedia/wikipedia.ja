@@ -25,7 +25,7 @@
   - [GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")
   - [NAOTO KINE PRESENTS TMN BLUE](../Page/NAOTO_KINE_PRESENTS_TMN_BLUE.md "wikilink")
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")

@@ -80,7 +80,7 @@
 
 :\*その他キャスト：[大久保正信](../Page/大久保正信.md "wikilink")、[藤城裕士](../Page/藤城裕士.md "wikilink")、[藤井敏夫](../Page/藤井敏夫.md "wikilink")、[辻由美子](https://ja.wikipedia.org/wiki/辻由美子 "wikilink")、[津田延代](../Page/津田延代.md "wikilink")、[仲木隆司](../Page/仲木隆司.md "wikilink")、[村山塁](https://ja.wikipedia.org/wiki/村山塁 "wikilink")
 
-:\*演出：[加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")、効果：TFCグループ、制作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
+:\*演出：[加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")、効果：TFCグループ、制作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
 
   - テレビ朝日旧版：初回放送1979年12月2日21:00-22:54『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』
   - テレビ朝日新版：初回放送1985年5月19日21:02-22:54『日曜洋画劇場』

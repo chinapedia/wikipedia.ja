@@ -50,7 +50,7 @@
   - [インパクト\!](../Page/インパクト!.md "wikilink")（フジテレビ系）
   - [笑っていいとも\!](https://ja.wikipedia.org/wiki/笑っていいとも! "wikilink")（フジテレビ系）
   - [くるくるドカン〜新しい波を探して〜](../Page/くるくるドカン〜新しい波を探して〜.md "wikilink")（フジテレビ系）
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBS、2007年12月28日） キャッチコピーは「アゴものまね師」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBS、2007年12月28日） キャッチコピーは「アゴものまね師」
   - [ゴールドラッシュ2008〜今年こそブレイクしたい芸人が開く 新しきイロモネアの夜明け\!\!](https://ja.wikipedia.org/wiki/ザ・イロモネア "wikilink")（TBS、2008年1月3日）
   - [2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")（TBS、2008年3月11日、アゴものまねを披露＆父親の話。）
   - [九州青春銀行](../Page/九州青春銀行.md "wikilink")（[RKBテレビ](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、2008年7月23・30日）スタジオゲスト
@@ -115,7 +115,7 @@
   - [城島茂](../Page/城島茂.md "wikilink")
   - [風間俊介](https://ja.wikipedia.org/wiki/風間俊介 "wikilink")
   - [八乙女光](../Page/八乙女光.md "wikilink")
-  - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - [井筒和幸](../Page/井筒和幸.md "wikilink")
   - [田村正和](../Page/田村正和.md "wikilink")
   - [水谷豊](https://ja.wikipedia.org/wiki/水谷豊 "wikilink")
   - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")
@@ -168,7 +168,7 @@
   - [みのもんた](../Page/みのもんた.md "wikilink")
   - [小倉智昭](../Page/小倉智昭.md "wikilink")
   - [小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")
-  - [安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")
+  - [安倍晋三](../Page/安倍晋三.md "wikilink")
   - [福田康夫](../Page/福田康夫.md "wikilink")
   - [麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")
   - [枝野幸男](../Page/枝野幸男.md "wikilink")

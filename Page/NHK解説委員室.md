@@ -452,7 +452,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/五十嵐公利" title="wikilink">五十嵐公利</a></p></td>
 <td><p>国際政治</p></td>
 <td><p>記者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/先読み!夕方ニュース" title="wikilink">先読み!夕方ニュース</a></p></td>
+<td><p><a href="../Page/先読み!夕方ニュース.md" title="wikilink">先読み!夕方ニュース</a></p></td>
 <td><p>現在・NHK部外解説委員、<a href="../Page/2000年.md" title="wikilink">2000年</a>から<a href="../Page/2003年.md" title="wikilink">2003年</a>まで解説委員長、ワシントン支局長やアメリカ総局長を歴任</p></td>
 </tr>
 <tr class="even">
@@ -644,7 +644,7 @@
 <td><p>政治</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/日曜討論.md" title="wikilink">日曜討論</a>（不定期）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本国際放送" title="wikilink">日本国際放送</a>社長</p></td>
+<td><p><a href="../Page/日本国際放送.md" title="wikilink">日本国際放送</a>社長</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/園田矢" title="wikilink">園田矢</a><br />
@@ -652,7 +652,7 @@
 <td><p>国際政治</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/NHKニュース21.md" title="wikilink">NHKニュース21</a><br />
-<a href="https://ja.wikipedia.org/wiki/先読み!夕方ニュース" title="wikilink">先読み!夕方ニュース</a>（隔週）</p></td>
+<a href="../Page/先読み!夕方ニュース.md" title="wikilink">先読み!夕方ニュース</a>（隔週）</p></td>
 <td><p><a href="../Page/東海大学.md" title="wikilink">東海大学</a>特任教授。定年後も長く外部委員として勤務した。</p></td>
 </tr>
 <tr class="odd">
@@ -661,7 +661,7 @@
 <td><p>国際政治</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/NHKニュース21.md" title="wikilink">NHKニュース21</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本国際放送" title="wikilink">日本国際放送</a>社長、<a href="../Page/外務報道官.md" title="wikilink">外務報道官</a>、<a href="../Page/外務省.md" title="wikilink">外務省</a><a href="../Page/参与.md" title="wikilink">参与</a>、<a href="https://ja.wikipedia.org/wiki/海外通信・放送・郵便事業支援機構" title="wikilink">海外通信・放送・郵便事業支援機構</a>会長、<a href="../Page/1996年.md" title="wikilink">1996年</a>から<a href="../Page/2000年.md" title="wikilink">2000年</a>まで解説委員長。</p></td>
+<td><p><a href="../Page/日本国際放送.md" title="wikilink">日本国際放送</a>社長、<a href="../Page/外務報道官.md" title="wikilink">外務報道官</a>、<a href="../Page/外務省.md" title="wikilink">外務省</a><a href="../Page/参与.md" title="wikilink">参与</a>、<a href="https://ja.wikipedia.org/wiki/海外通信・放送・郵便事業支援機構" title="wikilink">海外通信・放送・郵便事業支援機構</a>会長、<a href="../Page/1996年.md" title="wikilink">1996年</a>から<a href="../Page/2000年.md" title="wikilink">2000年</a>まで解説委員長。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/高柳雄一" title="wikilink">高柳雄一</a></p></td>

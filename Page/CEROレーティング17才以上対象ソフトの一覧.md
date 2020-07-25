@@ -102,7 +102,7 @@
   - [デッドスペース エクストラクション](https://ja.wikipedia.org/wiki/デッドスペース_エクストラクション "wikilink")（コンテンツアイコン：「暴力」）
   - [デッドライジング ゾンビのいけにえ](https://ja.wikipedia.org/wiki/デッドライジング_ゾンビのいけにえ "wikilink")（コンテンツアイコン：「暴力」）
   - [NO MORE HEROES](../Page/NO_MORE_HEROES.md "wikilink")（本作の移植版はバージョンによりレーティングが異なる）（コンテンツアイコン：「犯罪」）
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")（コンテンツアイコン：「暴力」）
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")（コンテンツアイコン：「暴力」）
       - [バイオハザード4 Wii edition](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")
       - [バイオハザード](../Page/バイオハザード_\(ゲーム\).md "wikilink") <small>\*Best Price\!版は2011年6月以降の発売分より黒色パッケージでの発売</small>
 
@@ -167,7 +167,7 @@
 
 ### ニンテンドーゲームキューブ
 
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink") （いずれも「18才以上対象」から変更）
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink") （いずれも「18才以上対象」から変更）
       - [バイオハザード3 LAST ESCAPE](../Page/バイオハザード3_LAST_ESCAPE.md "wikilink")（再発版のみ）（コンテンツアイコン：「暴力」）
       - [バイオハザード CODE:Veronica](../Page/バイオハザード_CODE:Veronica.md "wikilink") 完全版（コンテンツアイコン：「暴力」）
 
@@ -206,7 +206,7 @@
       - [ニューダンガンロンパV3 みんなのコロシアイ新学期](https://ja.wikipedia.org/wiki/ニューダンガンロンパV3_みんなのコロシアイ新学期 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
   - [デート・ア・ライブ 凜緒リンカーネイションHD](https://ja.wikipedia.org/wiki/デート・ア・ライブ "wikilink")（コンテンツアイコン：「セクシャル」）
   - [夏色ハイスクル★青春白書](https://ja.wikipedia.org/wiki/夏色ハイスクル★青春白書 "wikilink")〜転校初日のオレが幼馴染と再会したら報道部員にされていて激写少年の日々はスクープ大連発でイガイとモテモテなのに何故かマイメモリーはパンツ写真ばっかりという現実と向き合いながら考えるひと夏の島の学園生活と赤裸々な恋の行方。〜（コンテンツアイコン：「セクシャル」）
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")
       - [バイオハザード6](https://ja.wikipedia.org/wiki/バイオハザード6 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
       - [バイオハザード7 レジデント イービル](https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル "wikilink") （コンテンツアイコン：「恐怖、暴力、犯罪、言葉・その他」）
       - [バイオハザード RE:2](https://ja.wikipedia.org/wiki/バイオハザード_RE:2 "wikilink")
@@ -303,7 +303,7 @@ PlayStation 3
   - [KILLZONE 3](https://ja.wikipedia.org/wiki/KILLZONE_3 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [QUANTUM THEORY](https://ja.wikipedia.org/wiki/QUANTUM_THEORY "wikilink")（コンテンツアイコン：「暴力」）
   - [CRYSIS 2](https://ja.wikipedia.org/wiki/Crysis_2 "wikilink")（コンテンツアイコン：「暴力」）
-  - [KANE\&LYNCH: DEAD MEN](https://ja.wikipedia.org/wiki/KANE&LYNCH:_DEAD_MEN "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [KANE\&LYNCH: DEAD MEN](../Page/KANE&LYNCH:_DEAD_MEN.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [KANE\&LYNCH 2: DOG DAYS](https://ja.wikipedia.org/wiki/KANE&LYNCH_2:_DOG_DAYS "wikilink")（コンテンツアイコン：「暴力、犯罪、言葉・その他」）
   - [コール オブ デューティ モダン・ウォーフェア2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [コール・オブ・ファレス 血の絆](https://ja.wikipedia.org/wiki/コール・オブ・ファレス_血の絆 "wikilink")（コンテンツアイコン：「暴力」）
@@ -330,7 +330,7 @@ PlayStation 3
   - [侍道4](https://ja.wikipedia.org/wiki/侍道4 "wikilink")（コンテンツアイコン：「暴力、犯罪、セクシャル、ギャンブル」）
   - [JUST CAUSE 2](https://ja.wikipedia.org/wiki/Just_Cause_2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [シンギュラリティ](https://ja.wikipedia.org/wiki/シンギュラリティ_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
-  - [ストラングルホールド](https://ja.wikipedia.org/wiki/ストラングルホールド_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
+  - [ストラングルホールド](../Page/ストラングルホールド_\(ゲーム\).md "wikilink")（コンテンツアイコン：「暴力」）
   - [SOCOM: CONFRONTATION](https://ja.wikipedia.org/wiki/SOCOM:_CONFRONTATION "wikilink")（コンテンツアイコン：「暴力」）
   - [SOCOM 4: U.S. Navy SEALs](https://ja.wikipedia.org/wiki/SOCOM_4:_U.S._Navy_SEALs "wikilink")（コンテンツアイコン：「暴力」）
   - [ZONE OF THE ENDERS HD EDITION](../Page/ZONE_OF_THE_ENDERS.md "wikilink")（**Xbox 360版は「C」区分**）（コンテンツアイコン：「暴力」）
@@ -356,7 +356,7 @@ PlayStation 3
   - [NO MORE HEROES 英雄たちの楽園](../Page/NO_MORE_HEROES.md "wikilink")（**Xbox 360版『NO MORE HEROES RED ZONE Edition』は「Z」区分**）（コンテンツアイコン：「犯罪」）
   - [バイオショック](https://ja.wikipedia.org/wiki/Bioshock "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [バイオニックコマンドー](../Page/バイオニックコマンドー.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")
       - [バイオハザード5](../Page/バイオハザード5.md "wikilink")（コンテンツアイコン：「暴力、犯罪」）
           - バイオハザード5 オルタナティブ エディション（コンテンツアイコン：「暴力、犯罪」）
       - [バイオハザード6](https://ja.wikipedia.org/wiki/バイオハザード6 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
@@ -530,7 +530,7 @@ PlayStation 2
       - トム・クランシーシリーズ [スプリンターセル カオスセオリー](https://ja.wikipedia.org/wiki/スプリンターセル_カオスセオリー "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")（コンテンツアイコン：「不明」）
   - [ナノブレイカー](https://ja.wikipedia.org/wiki/ナノブレイカー "wikilink")（コンテンツアイコン：「暴力」）
-  - [バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")
+  - [バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")
       - [バイオハザード CODE:Veronica](../Page/バイオハザード_CODE:Veronica.md "wikilink") 完全版（カプコレ、プレミアムパック、Best Price\!）（コンテンツアイコン：「暴力」）
       - [バイオハザード4](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")（コンテンツアイコン：「暴力」）
   - [バックヤードレスリング](https://ja.wikipedia.org/wiki/バックヤードレスリング "wikilink")（コンテンツアイコン：「不明」）
@@ -678,7 +678,7 @@ Xbox 360
   - [QUANTUM THEORY](https://ja.wikipedia.org/wiki/QUANTUM_THEORY "wikilink")（コンテンツアイコン：「暴力」）
   - [CRYSIS 2](https://ja.wikipedia.org/wiki/Crysis_2 "wikilink")（コンテンツアイコン：「暴力」）
   - [CROSS†CHANNEL 〜In memory of all people〜](../Page/CROSS†CHANNEL.md "wikilink")（コンテンツアイコン：「犯罪、セクシャル」）
-  - [KANE\&LYNCH: DEAD MEN](https://ja.wikipedia.org/wiki/KANE&LYNCH:_DEAD_MEN "wikilink")（コンテンツアイコン：「犯罪、暴力」）
+  - [KANE\&LYNCH: DEAD MEN](../Page/KANE&LYNCH:_DEAD_MEN.md "wikilink")（コンテンツアイコン：「犯罪、暴力」）
   - [KANE\&LYNCH 2: DOG DAYS](https://ja.wikipedia.org/wiki/KANE&LYNCH_2:_DOG_DAYS "wikilink")（コンテンツアイコン：「犯罪、暴力、言葉・その他」）
   - [コール オブ デューティ モダン・ウォーフェア2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア2 "wikilink")（コンテンツアイコン：「犯罪、暴力」）
   - [コール・オブ・ファレス 血の絆](https://ja.wikipedia.org/wiki/コール・オブ・ファレス_血の絆 "wikilink")（コンテンツアイコン：「暴力」）
@@ -703,7 +703,7 @@ Xbox 360
   - [JUST CAUSE 2](https://ja.wikipedia.org/wiki/Just_Cause_2 "wikilink")（コンテンツアイコン：「犯罪、暴力」、[前作は](https://ja.wikipedia.org/wiki/Just_Cause "wikilink")「Z」区分）
   - [シャドウラン](../Page/シャドウラン.md "wikilink")（コンテンツアイコン：「暴力」）
   - [シンギュラリティ](https://ja.wikipedia.org/wiki/シンギュラリティ_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
-  - [ストラングルホールド](https://ja.wikipedia.org/wiki/ストラングルホールド_\(ゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
+  - [ストラングルホールド](../Page/ストラングルホールド_\(ゲーム\).md "wikilink")（コンテンツアイコン：「暴力」）
   - [DARKSIDERS 〜審判の時〜](https://ja.wikipedia.org/wiki/DARKSIDERS_〜審判の時〜 "wikilink")（コンテンツアイコン：「暴力」）
   - [ダブルクラッチ](https://ja.wikipedia.org/wiki/Double_Clutch "wikilink")（コンテンツアイコン：「暴力」）
   - [タユタマ -Kiss on my Deity-](../Page/タユタマ_-Kiss_on_my_Deity-.md "wikilink") (コンテンツアイコン：「犯罪」)
@@ -738,7 +738,7 @@ Xbox 360
   - [BULLY](https://ja.wikipedia.org/wiki/BULLY "wikilink")（コンテンツアイコン：「ギャンブル」）
   - [Brink](https://ja.wikipedia.org/wiki/Brink "wikilink")（コンテンツアイコン：「暴力」）
   - [Prey](../Page/Prey.md "wikilink")（コンテンツアイコン:「暴力」）
-  - [フロントライン フュエル・オブ・ウォー](https://ja.wikipedia.org/wiki/フロントライン_フュエル・オブ・ウォー "wikilink")（コンテンツアイコン：「暴力」）
+  - [フロントライン フュエル・オブ・ウォー](../Page/フロントライン_フュエル・オブ・ウォー.md "wikilink")（コンテンツアイコン：「暴力」）
   - [Haloシリーズ](../Page/HALO_\(ビデオゲームシリーズ\).md "wikilink")（コンテンツアイコン:「暴力」）
       - [Halo 3](../Page/Halo_3.md "wikilink")
       - [Halo 3: ODST](https://ja.wikipedia.org/wiki/Halo_3:_ODST "wikilink")
@@ -858,7 +858,7 @@ Xbox 360
   - [バイオハザード5](../Page/バイオハザード5.md "wikilink")（コンテンツアイコン：「犯罪、暴力」）
   - [バレットストーム](https://ja.wikipedia.org/wiki/バレットストーム "wikilink")（コンテンツアイコン：「暴力」）
   - [フル スペクトラム ウォリアー2 テン ハンマーズ](../Page/フル_スペクトラム_ウォリアー.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [フロントライン フュエル・オブ・ウォー](https://ja.wikipedia.org/wiki/フロントライン_フュエル・オブ・ウォー "wikilink")（コンテンツアイコン：「暴力」）
+  - [フロントライン フュエル・オブ・ウォー](../Page/フロントライン_フュエル・オブ・ウォー.md "wikilink")（コンテンツアイコン：「暴力」）
   - [Hellgate: London](https://ja.wikipedia.org/wiki/Hellgate:_London "wikilink")（コンテンツアイコン：「???」）
 
 ## その他

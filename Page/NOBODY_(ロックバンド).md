@@ -142,7 +142,7 @@
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月29日.md" title="wikilink">9月29日</a></p></td>
 <td><p><strong>RESTLESS HEART</strong></p></td>
 <td><p>DEEP IN LOVE</p></td>
 <td><p>EP</p></td>
@@ -553,9 +553,9 @@
       - [セシル](../Page/セシル_\(浅香唯の曲\).md "wikilink")
       - [泣かないでMY HEART](https://ja.wikipedia.org/wiki/泣かないでMY_HEART "wikilink")
       - [トライアル](https://ja.wikipedia.org/wiki/トライアル "wikilink")
-      - [NEVERLAND 〜YAWARA\!メインテーマ〜](https://ja.wikipedia.org/wiki/NEVERLAND_〜YAWARA!メインテーマ〜 "wikilink")
+      - [NEVERLAND 〜YAWARA\!メインテーマ〜](../Page/NEVERLAND_〜YAWARA!メインテーマ〜.md "wikilink")
       - [笑顔はどうしたの](https://ja.wikipedia.org/wiki/笑顔はどうしたの "wikilink")
-      - [恋のロックンロール・サーカス](https://ja.wikipedia.org/wiki/恋のロックンロール・サーカス "wikilink")
+      - [恋のロックンロール・サーカス](../Page/恋のロックンロール・サーカス.md "wikilink")
       - [愛の元気主義](https://ja.wikipedia.org/wiki/愛の元気主義 "wikilink")
       - Be Yourself（以上作曲）
   - [石川秀美](../Page/石川秀美.md "wikilink")

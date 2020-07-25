@@ -26,12 +26,12 @@
 
 ### BO-SO ゴールデンタッグトーナメント
 
-| 年     | 開催期間          | 優勝者                                                                                                       | 準優勝者                                                          |
-| ----- | ------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 2013年 | 2月9日 - 2月24日  | 滝澤大志&[彰人](https://ja.wikipedia.org/wiki/彰人 "wikilink")                                                    | 真霜拳號&関根龍一                                                     |
-| 2014年 | 2月1日 - 2月16日  | 火野裕士\&HIROKI                                                                                              | ヒロ・トウナイ&[佐藤悠己](https://ja.wikipedia.org/wiki/佐藤悠己 "wikilink") |
-| 2015年 | 2月28日 - 3月8日  | [タンク永井](https://ja.wikipedia.org/wiki/タンク永井 "wikilink")&佐藤悠己                                              | 稲松三郎&関根龍一                                                     |
-| 2016年 | 2月27日 - 3月13日 | 滝澤大志&[吉野コータロー](https://ja.wikipedia.org/wiki/吉野コータロー "wikilink")                                          | タンク永井&[雄馬](https://ja.wikipedia.org/wiki/雄馬 "wikilink")       |
-| 2017年 | 1月8日 - 1月29日  | [吉田綾斗](https://ja.wikipedia.org/wiki/吉田綾斗 "wikilink")&[最上九](https://ja.wikipedia.org/wiki/最上九 "wikilink") | 真霜拳號&[本田アユム](https://ja.wikipedia.org/wiki/本田アユム "wikilink")  |
+| 年     | 開催期間          | 優勝者                                                                                                       | 準優勝者                                                         |
+| ----- | ------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 2013年 | 2月9日 - 2月24日  | 滝澤大志&[彰人](https://ja.wikipedia.org/wiki/彰人 "wikilink")                                                    | 真霜拳號&関根龍一                                                    |
+| 2014年 | 2月1日 - 2月16日  | 火野裕士\&HIROKI                                                                                              | ヒロ・トウナイ&[佐藤悠己](../Page/佐藤悠己.md "wikilink")                   |
+| 2015年 | 2月28日 - 3月8日  | [タンク永井](https://ja.wikipedia.org/wiki/タンク永井 "wikilink")&佐藤悠己                                              | 稲松三郎&関根龍一                                                    |
+| 2016年 | 2月27日 - 3月13日 | 滝澤大志&[吉野コータロー](https://ja.wikipedia.org/wiki/吉野コータロー "wikilink")                                          | タンク永井&[雄馬](https://ja.wikipedia.org/wiki/雄馬 "wikilink")      |
+| 2017年 | 1月8日 - 1月29日  | [吉田綾斗](https://ja.wikipedia.org/wiki/吉田綾斗 "wikilink")&[最上九](https://ja.wikipedia.org/wiki/最上九 "wikilink") | 真霜拳號&[本田アユム](https://ja.wikipedia.org/wiki/本田アユム "wikilink") |
 
 [Category:プロレスのトーナメント戦](https://ja.wikipedia.org/wiki/Category:プロレスのトーナメント戦 "wikilink") [Category:KAIENTAI-DOJOの興行](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOの興行 "wikilink")

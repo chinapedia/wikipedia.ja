@@ -7,14 +7,14 @@
 
 Beagleで検索可能なものとして、
 
-  - 会話のログ（[Gaim](https://ja.wikipedia.org/wiki/Gaim "wikilink")、[Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")、[IRCのログ](../Page/Internet_Relay_Chat.md "wikilink")）
+  - 会話のログ（[Gaim](https://ja.wikipedia.org/wiki/Gaim "wikilink")、[Kopete](../Page/Kopete.md "wikilink")、[IRCのログ](../Page/Internet_Relay_Chat.md "wikilink")）
   - ドキュメント（[AbiWord](../Page/AbiWord.md "wikilink"), [OpenOffice.org](../Page/OpenOffice.org.md "wikilink"), [Microsoft Office](../Page/Microsoft_Office.md "wikilink"), [PDF](../Page/Portable_Document_Format.md "wikilink"), [テキストファイル](../Page/テキストファイル.md "wikilink") (.txt), [リッチテキスト](../Page/Rich_Text_Format.md "wikilink")）
-  - [電子メール](../Page/電子メール.md "wikilink")とアドレスブック（[Evolutionや](../Page/Evolution_\(ソフトウェア\).md "wikilink")[KMail](https://ja.wikipedia.org/wiki/KMail "wikilink")）
+  - [電子メール](../Page/電子メール.md "wikilink")とアドレスブック（[Evolutionや](../Page/Evolution_\(ソフトウェア\).md "wikilink")[KMail](../Page/KMail.md "wikilink")）
   - ヘルプファイル（[Texinfo](../Page/Texinfo.md "wikilink")、manページ）
   - 画像ファイル ([PNG](../Page/Portable_Network_Graphics.md "wikilink"), [JPEG](../Page/JPEG.md "wikilink"))
   - 音楽ファイル ([MP3](../Page/MP3.md "wikilink"), [ogg](https://ja.wikipedia.org/wiki/ogg "wikilink"), [FLAC](../Page/FLAC.md "wikilink"))
   - [Tomboyで書かれたメモ](https://ja.wikipedia.org/wiki/Tomboy_\(ソフトウェア\) "wikilink")
-  - [RSS](../Page/RSS.md "wikilink")フィード（[Blam](https://ja.wikipedia.org/wiki/Blam "wikilink")、[Liferea](https://ja.wikipedia.org/wiki/Liferea "wikilink")、[Akregator](https://ja.wikipedia.org/wiki/Akregator "wikilink")などから）
+  - [RSS](../Page/RSS.md "wikilink")フィード（[Blam](https://ja.wikipedia.org/wiki/Blam "wikilink")、[Liferea](https://ja.wikipedia.org/wiki/Liferea "wikilink")、[Akregator](../Page/Akregator.md "wikilink")などから）
   - [ソースコード](../Page/ソースコード.md "wikilink") ([C](../Page/C言語.md "wikilink"), [C++](../Page/C++.md "wikilink"), [C\#](../Page/C_Sharp.md "wikilink"), [Fortran](https://ja.wikipedia.org/wiki/Fortran "wikilink"), [Java](https://ja.wikipedia.org/wiki/Java "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink"), [Pascal](../Page/Pascal.md "wikilink"), [Perl](../Page/Perl.md "wikilink"), [PHP](../Page/PHP_\(プログラミング言語\).md "wikilink"), [Python](../Page/Python.md "wikilink"))
   - [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")の履歴 ([Firefox](../Page/Mozilla_Firefox.md "wikilink"), [Konqueror](../Page/Konqueror.md "wikilink"))
 

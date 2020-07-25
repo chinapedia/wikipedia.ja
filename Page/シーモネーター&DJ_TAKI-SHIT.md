@@ -247,7 +247,7 @@
 <li>HURRY UP / BUZZER BEATER</li>
 <li>犬、走ル / ASIAN PIMPS</li>
 <li>よっしゃ、こい / UPPER KUT</li>
-<li>灰 / <a href="https://ja.wikipedia.org/wiki/HOME_MADE_家族" title="wikilink">HOME MADE 家族</a></li>
+<li>灰 / <a href="../Page/HOME_MADE_家族.md" title="wikilink">HOME MADE 家族</a></li>
 <li>NIGHT ROAD / THA NOIZ</li>
 <li>Judgement Night / WRECK SQUAD</li>
 <li>こころうた / BECAUSE OF EVERYTHING a.k.a 影武者</li>

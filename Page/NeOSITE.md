@@ -31,7 +31,7 @@
       - [breakthrough](https://ja.wikipedia.org/wiki/breakthrough_\(アーティスト\) "wikilink") (2005年)
   - [JUICE](https://ja.wikipedia.org/wiki/JUICE "wikilink") (2003年〜2004年)
   - [NO PLAN](../Page/NO_PLAN.md "wikilink") (2003年〜2004年)
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") (2004年〜2014年)
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink") (2004年〜2014年)
   - [D.L.](../Page/DEV_LARGE.md "wikilink") (2005年〜2006年)（NeOSITEで数枚のシングル、アルバムをリリース。）
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") (2006年〜2008年)（⇒[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）
   - [ILLMATIC BUDDHA MC's](https://ja.wikipedia.org/wiki/ILLMATIC_BUDDHA_MC's "wikilink")／[スチャダラパー](../Page/スチャダラパー.md "wikilink") (2006年)

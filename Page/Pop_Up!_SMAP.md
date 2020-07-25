@@ -27,7 +27,7 @@
         作曲・編曲:中塚武 feat. GROOVY SAUCE CREW
 2.  **TAKE OFF**
       -
-        作詞:MICRO（[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")） / 作曲:MICRO・Takahiro / 編曲:Takahiro
+        作詞:MICRO（[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")） / 作曲:MICRO・Takahiro / 編曲:Takahiro
 3.  **Nai Yai Yai**
       -
         作詞・作曲・編曲：[タカチャ](../Page/タカチャ.md "wikilink")

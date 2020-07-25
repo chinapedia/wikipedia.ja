@@ -178,7 +178,7 @@
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープスカイ" title="wikilink">ディープスカイ</a></p></td>
+<td><p><a href="../Page/ディープスカイ.md" title="wikilink">ディープスカイ</a></p></td>
 <td></td>
 <td></td>
 <td></td>

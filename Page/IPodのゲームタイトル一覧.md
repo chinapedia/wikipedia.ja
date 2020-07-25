@@ -22,7 +22,7 @@
 
   - 2月28日 [ミズ・パックマン](../Page/ミズ・パックマン.md "wikilink")（Namco Networks America）
   - 4月24日 [iPod Quiz](https://ja.wikipedia.org/wiki/iPod_Quiz "wikilink")（アップル）\[3\]
-  - 5月22日 [LOST](https://ja.wikipedia.org/wiki/LOST "wikilink")（[ゲームロフト](https://ja.wikipedia.org/wiki/ゲームロフト "wikilink")）\[4\]
+  - 5月22日 [LOST](https://ja.wikipedia.org/wiki/LOST "wikilink")（[ゲームロフト](../Page/ゲームロフト.md "wikilink")）\[4\]
   - 6月6日 [ナンプレ](../Page/数独.md "wikilink")（エレクトロニック・アーツ）
   - 7月18日 [The Sims Bowling](https://ja.wikipedia.org/wiki/ザ・シムズ2#.E3.81.9D.E3.81.AE.E4.BB.96 "wikilink")、エレクトロニック・アーツ）
   - 8月1日 [The Sims Pool](https://ja.wikipedia.org/wiki/ザ・シムズ2#.E3.81.9D.E3.81.AE.E4.BB.96 "wikilink")（エレクトロニック・アーツ）
@@ -35,7 +35,7 @@
 
 ## 2008年（全27タイトル）
 
-  - 1月16日 [ブロック ブレーカー デラックス](https://ja.wikipedia.org/wiki/ブロック_ブレーカー_デラックス "wikilink")（ゲームロフト）
+  - 1月16日 [ブロック ブレーカー デラックス](../Page/ブロック_ブレーカー_デラックス.md "wikilink")（ゲームロフト）
   - 1月23日 [Pole Position: Remix](../Page/ポールポジション_\(ゲーム\).md "wikilink")（Namco Networks America）
   - 2月6日 [Naval Battle](https://ja.wikipedia.org/wiki/Naval_Battle "wikilink")（ゲームロフト）
   - 2月6日 [Chess & Backgammon](https://ja.wikipedia.org/wiki/Chess_&_Backgammon "wikilink")（ゲームロフト）

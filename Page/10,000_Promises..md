@@ -278,7 +278,7 @@ SECL-230:通常盤</p></td>
 
   - [オールナイトニッポンR スペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")
   - [PARKSIDE JAM](../Page/PARKSIDE_JAM.md "wikilink")
-  - [岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - [岩田雅之](../Page/岩田雅之.md "wikilink")
   - [solaya](https://ja.wikipedia.org/wiki/solaya "wikilink")
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink")

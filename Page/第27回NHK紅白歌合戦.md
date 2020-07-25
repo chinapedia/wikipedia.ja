@@ -13,7 +13,7 @@
   - 紅組応援団：[浅茅陽子](../Page/浅茅陽子.md "wikilink")（この年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[雲のじゅうたん](../Page/雲のじゅうたん.md "wikilink")』のヒロイン・小野間（稲葉）真琴役）、[仁科明子](../Page/仁科亜季子.md "wikilink")（『その人は今…』の美佐役）
   - 白組応援団：[中条静夫](../Page/中条静夫.md "wikilink")（『雲のじゅうたん』のヒロインの父・小野間左衛門役）、[草刈正雄](../Page/草刈正雄.md "wikilink")（この年の[大河ドラマ](https://ja.wikipedia.org/wiki/NHK大河ドラマ "wikilink")『[風と雲と虹と](../Page/風と雲と虹と.md "wikilink")』の[鹿島玄明役](../Page/藤原玄明.md "wikilink")）
   - テレビ中継：[金子辰雄](https://ja.wikipedia.org/wiki/金子辰雄 "wikilink")アナウンサー
-  - 得点集計スタジオ：[中江陽三](https://ja.wikipedia.org/wiki/中江陽三 "wikilink")アナウンサー
+  - 得点集計スタジオ：[中江陽三](../Page/中江陽三.md "wikilink")アナウンサー
 
 <!-- end list -->
 

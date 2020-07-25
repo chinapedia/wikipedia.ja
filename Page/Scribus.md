@@ -98,7 +98,7 @@ Scribusは [QuarkXPress](../Page/QuarkXPress.md "wikilink")や[Microsoft Publish
 ## 関連項目
 
   - [DTP](../Page/DTP.md "wikilink")
-  - [OpenDocumentをサポートするアプリケーションの一覧](https://ja.wikipedia.org/wiki/OpenDocumentをサポートするアプリケーションの一覧 "wikilink")
+  - [OpenDocumentをサポートするアプリケーションの一覧](../Page/OpenDocumentをサポートするアプリケーションの一覧.md "wikilink")
   - [オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")
 
 ## 脚注

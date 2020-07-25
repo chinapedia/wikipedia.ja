@@ -1613,7 +1613,7 @@
 
   - [飯田健巳](https://ja.wikipedia.org/wiki/飯田健巳 "wikilink")：[カターレ富山](../Page/カターレ富山.md "wikilink")アカデミーGKコーチ
 
-  - [大久保択生](https://ja.wikipedia.org/wiki/大久保択生 "wikilink")：[清水エスパルス](../Page/清水エスパルス.md "wikilink")
+  - [大久保択生](../Page/大久保択生.md "wikilink")：[清水エスパルス](../Page/清水エスパルス.md "wikilink")
 
   - [岩丸史也](../Page/岩丸史也.md "wikilink")
 

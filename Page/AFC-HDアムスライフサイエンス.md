@@ -12,7 +12,7 @@
   - [2000年](../Page/2000年.md "wikilink")9月 - 「味王食品株式会社」が「株式会社あさやま総合企画」を吸収合併。
   - [2001年](../Page/2001年.md "wikilink")1月 - 社名を「株式会社アムスライフサイエンス」に変更。
   - [2005年](../Page/2005年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")上場。
-  - [2007年](../Page/2007年.md "wikilink")6月 - 「[本草製薬](https://ja.wikipedia.org/wiki/本草製薬 "wikilink")株式会社」（連結子会社）を設立。医薬品事業に進出。
+  - [2007年](../Page/2007年.md "wikilink")6月 - 「[本草製薬](../Page/本草製薬.md "wikilink")株式会社」（連結子会社）を設立。医薬品事業に進出。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月 - 社名を「株式会社AFC-HDアムスライフサイエンス」に変更。
 
 ## 関連会社
@@ -20,7 +20,7 @@
   - [エーエフシー](../Page/エーエフシー.md "wikilink")（AFC） - 販売会社
   - [日本予防医学研究所](https://nyk-labo.com/)（NYK） - 研究開発
   - [けんこうTV](https://www.kenkotv.com/)（KTV） - 情報発信。[240スタイル](https://ja.wikipedia.org/wiki/240スタイル "wikilink")も参照。
-  - [本草製薬](https://ja.wikipedia.org/wiki/本草製薬 "wikilink") - 製薬会社
+  - [本草製薬](../Page/本草製薬.md "wikilink") - 製薬会社
 
 ## 注釈
 

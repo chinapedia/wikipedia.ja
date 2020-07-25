@@ -197,7 +197,7 @@ USAF</p></td>
 <td><p>初期の<a href="../Page/スペースプレーン.md" title="wikilink">スペースプレーン</a>。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/X-21_(航空機)" title="wikilink">ノースロップ X-21</a></p></td>
+<td><p><a href="../Page/X-21_(航空機).md" title="wikilink">ノースロップ X-21</a></p></td>
 <td><p>ノースロップ<br />
 USAF</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:X21A.jpg" title="fig:X21A.jpg">X21A.jpg</a></p></td>
@@ -222,7 +222,7 @@ USAF</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リフティングボディ" title="wikilink">リフティングボディ</a>試験機。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/X-24_(航空機)" title="wikilink">マーティン・マリエッタ X-24</a></p></td>
+<td><p><a href="../Page/X-24_(航空機).md" title="wikilink">マーティン・マリエッタ X-24</a></p></td>
 <td><p>マーティン・マリエッタ<br />
 USAF、NASA</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:X24.jpg" title="fig:X24.jpg">X24.jpg</a><br />
@@ -235,13 +235,13 @@ USAF、NASA</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:Bensen_Aircraft" title="wikilink">ベンセン・エアクラフト</a><br />
 USAF</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:X-25.jpg" title="fig:X-25.jpg">X-25.jpg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a></p></td>
 <td><p>航空機脱出用<a href="../Page/オートジャイロ.md" title="wikilink">オートジャイロ</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/X-26_(航空機)" title="wikilink">シュワイザー X-26<br />
 フリゲート</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シュワイザー・エアクラフト" title="wikilink">シュワイザー・エアクラフト</a><br />
+<td><p><a href="../Page/シュワイザー・エアクラフト.md" title="wikilink">シュワイザー・エアクラフト</a><br />
 <a href="../Page/国防高等研究計画局.md" title="wikilink">DARPA</a>、<a href="../Page/アメリカ陸軍.md" title="wikilink">US Army</a>、USN</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:X-26_sailplane.jpg" title="fig:X-26_sailplane.jpg">X-26_sailplane.jpg</a><br />
 <a href="https://ja.wikipedia.org/wiki/File:QT-2PCs_in_STAAF,_RVN_Hanger_c1968.jpg" title="fig:QT-2PCs_in_STAAF,_RVN_Hanger_c1968.jpg">QT-2PCs_in_STAAF,_RVN_Hanger_c1968.jpg</a></p></td>

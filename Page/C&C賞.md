@@ -41,7 +41,7 @@
   - 2003年B: [ゴードン・ムーア](../Page/ゴードン・ムーア.md "wikilink")
   - 2002年A: [梅棹忠夫](../Page/梅棹忠夫.md "wikilink")
   - 2002年B: [エドガー・ダイクストラ](../Page/エドガー・ダイクストラ.md "wikilink")
-  - 2001年A: [菅野卓雄](https://ja.wikipedia.org/wiki/菅野卓雄 "wikilink")
+  - 2001年A: [菅野卓雄](../Page/菅野卓雄.md "wikilink")
   - 2001年B: [アラン・ケイ](../Page/アラン・ケイ.md "wikilink")
   - 2000年A: [金出武雄](../Page/金出武雄.md "wikilink")
   - 2000年B: ロバート・W・ダットン（Robert W. Dutton）

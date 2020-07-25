@@ -62,7 +62,7 @@
   - 2009年 [チャイナ・ミエヴィル](https://ja.wikipedia.org/wiki/チャイナ・ミエヴィル "wikilink")『都市と都市』*The City and the City*
   - 2010年 イアン・マクドナルド『旋舞の千年都市』*The Dervish House*
   - 2011年 クリストファー・プリースト『夢幻諸島から』*The Islanders*
-  - 2012年 [アダム・ロバーツ](https://ja.wikipedia.org/wiki/アダム・ロバーツ "wikilink")『ジャック・グラス伝』 *Jack Glass*
+  - 2012年 [アダム・ロバーツ](../Page/アダム・ロバーツ.md "wikilink")『ジャック・グラス伝』 *Jack Glass*
   - 2013年 [ガレス・L・パウエル](../Page/ガレス・L・パウエル.md "wikilink")『ガンメタル・ゴースト』*Ack-Ack Macaque*、[アン・レッキー](https://ja.wikipedia.org/wiki/アン・レッキー "wikilink")『叛逆航路』*Ancillary Justice*
   - 2014年 アン・レッキー『亡霊星域』*Ancillary Sword*
   - 2015年  *House of Shattered Wings*

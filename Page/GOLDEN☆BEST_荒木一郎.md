@@ -49,7 +49,7 @@
 <!-- end list -->
 
   - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[荒木一郎](../Page/荒木一郎.md "wikilink")
-  - [編曲](../Page/編曲.md "wikilink")：荒木一郎・[畠山明博](https://ja.wikipedia.org/wiki/畠山明博 "wikilink")(\#1,3,4,18,20)、[江夏健二](https://ja.wikipedia.org/wiki/江夏健二 "wikilink")(\#2,7,21)、[小谷充](https://ja.wikipedia.org/wiki/小谷充 "wikilink")(\#5,9,16,17,19)、[樋口康雄](../Page/樋口康雄.md "wikilink")(\#6)、[神保正明](https://ja.wikipedia.org/wiki/神保雅彰 "wikilink")(\#8,10,11,22)、[竜崎孝路](../Page/竜崎孝路.md "wikilink")(\#12)、荒木一郎(\#13)、[深町純](../Page/深町純.md "wikilink")(\#14)、畠山明博(\#15)
+  - [編曲](../Page/編曲.md "wikilink")：荒木一郎・[畠山明博](https://ja.wikipedia.org/wiki/畠山明博 "wikilink")(\#1,3,4,18,20)、[江夏健二](https://ja.wikipedia.org/wiki/江夏健二 "wikilink")(\#2,7,21)、[小谷充](https://ja.wikipedia.org/wiki/小谷充 "wikilink")(\#5,9,16,17,19)、[樋口康雄](../Page/樋口康雄.md "wikilink")(\#6)、[神保正明](../Page/神保雅彰.md "wikilink")(\#8,10,11,22)、[竜崎孝路](../Page/竜崎孝路.md "wikilink")(\#12)、荒木一郎(\#13)、[深町純](../Page/深町純.md "wikilink")(\#14)、畠山明博(\#15)
 
 ## 関連項目
 

@@ -820,7 +820,7 @@ GyaO・Yahoo\!動画ともに[WMVに含まれる固有の](../Page/Windows_Media
 <td><p><a href="https://ja.wikipedia.org/wiki/デラ☆エロパラ" title="wikilink">デラ☆エロパラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハイキングウォーキングの芸人★チェキ!" title="wikilink">ハイキングウォーキングの芸人★チェキ!</a></p></td>
 <td><p>第1週<br />
-<a href="https://ja.wikipedia.org/wiki/鳥居みゆきの社交辞令でハイタッチ" title="wikilink">鳥居みゆきの社交辞令でハイタッチ</a><br />
+<a href="../Page/鳥居みゆきの社交辞令でハイタッチ.md" title="wikilink">鳥居みゆきの社交辞令でハイタッチ</a><br />
 第2週〜第5週<br />
 <a href="https://ja.wikipedia.org/wiki/超サンミュージック" title="wikilink">超サンミュージック</a><br />
 「三拍子ナイト」<br />

@@ -11,7 +11,7 @@
 
   - K - [こひなたえり](https://ja.wikipedia.org/wiki/小日向えり_\(声優\) "wikilink")（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月18日](../Page/11月18日.md "wikilink") - 、[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）
   - i - [今井麻夏](https://ja.wikipedia.org/wiki/今井麻夏 "wikilink")（いまいあさか、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月23日](../Page/6月23日.md "wikilink") - 、血液型O型）
-  - s - [佐藤聡美](../Page/佐藤聡美.md "wikilink")（さとうさとみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月8日](../Page/5月8日.md "wikilink") - 、血液型O型）
+  - s - [佐藤聡美](../Page/佐藤聡美.md "wikilink")（さとうさとみ、[1986年](../Page/1986年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - 、血液型O型）
   - t - [棚橋麻衣](../Page/棚橋麻衣.md "wikilink")（たなはしまい、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月23日](../Page/8月23日.md "wikilink") - 、血液型A型）
   - y - [吉冨加奈恵](https://ja.wikipedia.org/wiki/吉冨かなえ "wikilink")（よしとみかなえ、[1989年](../Page/1989年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - 、血液型B型）
 

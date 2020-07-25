@@ -1,7 +1,7 @@
 > この記事は[Golden Best 〜15th Anniversary〜](https://ja.wikipedia.org/wiki/Golden_Best_〜15th_Anniversary〜)から翻訳されています。
 
 
-『**Golden Best 〜15th Anniversary〜**』（ゴールデン・ベスト フィフティーンス・アニヴァーサリー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の2枚組[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")は初回限定盤の『**AQUA 〜Summer〜**』JBCJ-9013〜14、『**CRYSTAL 〜Autumn to Winter〜**』JBCJ-9015〜16、『**DREAM 〜Spring〜**』JBCJ-9017〜18、通常盤のCD2枚組 JBCJ-9019～20。
+『**Golden Best 〜15th Anniversary〜**』（ゴールデン・ベスト フィフティーンス・アニヴァーサリー）は、[ZARD](../Page/ZARD.md "wikilink")の2枚組[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")は初回限定盤の『**AQUA 〜Summer〜**』JBCJ-9013〜14、『**CRYSTAL 〜Autumn to Winter〜**』JBCJ-9015〜16、『**DREAM 〜Spring〜**』JBCJ-9017〜18、通常盤のCD2枚組 JBCJ-9019～20。
 
 ## 概要
 

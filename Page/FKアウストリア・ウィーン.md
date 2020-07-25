@@ -329,7 +329,7 @@
 
   - [パウル・シャルナー](../Page/パウル・シャルナー.md "wikilink") 1999-2003
 
-  - [マーティン・ヒデン](https://ja.wikipedia.org/wiki/マーティン・ヒデン "wikilink") 2000-2003
+  - [マーティン・ヒデン](../Page/マーティン・ヒデン.md "wikilink") 2000-2003
 
   - [ダヴィド・アラバ](https://ja.wikipedia.org/wiki/ダヴィド・アラバ "wikilink") 2002-2008
 
@@ -345,7 +345,7 @@
 
   - [マリオ・トキッチ](../Page/マリオ・トキッチ.md "wikilink") 2005-2007
 
-  - [ローナルド・ゲルサリウ](https://ja.wikipedia.org/wiki/ローナルド・ゲルサリウ "wikilink") 2007-2008
+  - [ローナルド・ゲルサリウ](../Page/ローナルド・ゲルサリウ.md "wikilink") 2007-2008
 
   - [ヤツェク・ボンク](https://ja.wikipedia.org/wiki/ヤツェク・ボンク "wikilink") 2007-2010
 
@@ -381,7 +381,7 @@
 
   - [アンジェイ・クビツァ](../Page/アンジェイ・クビツァ.md "wikilink") 1994-1995
 
-  - [パトリク・イェジェク](https://ja.wikipedia.org/wiki/パトリク・イェジェク "wikilink") 2000-2001
+  - [パトリク・イェジェク](../Page/パトリク・イェジェク.md "wikilink") 2000-2001
 
   - [アリョーシャ・アサノビッチ](https://ja.wikipedia.org/wiki/アリョーシャ・アサノビッチ "wikilink") 2000-2001
 

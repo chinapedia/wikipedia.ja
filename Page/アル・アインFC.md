@@ -109,7 +109,7 @@
 
   - [ロドリゴ・メンデス](../Page/ロドリゴ・ファビアーノ・メンデス.md "wikilink") 2003-2004
 
-  - [バシャール・アブドゥッラー](https://ja.wikipedia.org/wiki/バシャール・アブドゥッラー "wikilink") 2003-2004
+  - [バシャール・アブドゥッラー](../Page/バシャール・アブドゥッラー.md "wikilink") 2003-2004
 
   - [ロベルト・アクーニャ](https://ja.wikipedia.org/wiki/ロベルト・アクーニャ "wikilink") 2004
 
@@ -121,7 +121,7 @@
 
   - [ドド](../Page/リカルド・ルーカス.md "wikilink") 2006-2007
 
-  - [ナシャト・アクラム](https://ja.wikipedia.org/wiki/ナシャト・アクラム "wikilink") 2007
+  - [ナシャト・アクラム](../Page/ナシャト・アクラム.md "wikilink") 2007
 
   - [ハワル・ムラ・モハメド](https://ja.wikipedia.org/wiki/ハワル・ムラ・モハメド "wikilink") 2007
 

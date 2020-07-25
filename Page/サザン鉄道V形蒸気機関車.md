@@ -58,7 +58,7 @@
 | 30917 | 917 | *[Ardingly](https://ja.wikipedia.org/wiki/w:en:Ardingly_College "wikilink")*                          |    | 1934 |
 | 30918 | 918 | *[Hurstpierpoint](https://ja.wikipedia.org/wiki/w:en:Hurstpierpoint_College "wikilink")*              |    | 1934 |
 | 30919 | 919 | *[Harrow](../Page/ハーロー校.md "wikilink")*                                                               |    | 1934 |
-| 30920 | 920 | *[Rugby](https://ja.wikipedia.org/wiki/ラグビー校 "wikilink")*                                             |    | 1934 |
+| 30920 | 920 | *[Rugby](../Page/ラグビー校.md "wikilink")*                                                                |    | 1934 |
 | 30921 | 921 | *[Shrewsbury](https://ja.wikipedia.org/wiki/シュルーズベリー校 "wikilink")*                                    |    | 1934 |
 | 30922 | 922 | *[Marlborough](https://ja.wikipedia.org/wiki/w:en:Marlborough_College "wikilink")*                    |    | 1934 |
 | 30923 | 923 | *[Bradfield](https://ja.wikipedia.org/wiki/w:en:Bradfield_College "wikilink")*                        |    | 1934 |

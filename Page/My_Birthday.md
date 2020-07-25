@@ -49,7 +49,7 @@
 
   - [ルネ・ヴァン・ダール・ワタナベ](https://ja.wikipedia.org/wiki/ルネ・ヴァン・ダール・ワタナベ "wikilink")
   - [エミール・シェラザード](https://ja.wikipedia.org/wiki/エミール・シェラザード "wikilink")
-  - [マドモアゼル・愛](https://ja.wikipedia.org/wiki/マドモアゼル・愛 "wikilink")
+  - [マドモアゼル・愛](../Page/マドモアゼル・愛.md "wikilink")
   - [浅野八郎](https://ja.wikipedia.org/wiki/浅野八郎 "wikilink")
   - [マーク・矢崎治信](https://ja.wikipedia.org/wiki/マーク・矢崎治信 "wikilink")
   - [ルル・ラブア](https://ja.wikipedia.org/wiki/ルル・ラブア "wikilink")
@@ -92,7 +92,7 @@
           - おまじないグッズショップ「[魔女っこハウス](https://ja.wikipedia.org/wiki/魔女っこハウス "wikilink")」
       - 一般店舗
           - [クレープハウス・ユニ](https://ja.wikipedia.org/wiki/クレープハウス・ユニ "wikilink")
-          - [生活の木](https://ja.wikipedia.org/wiki/生活の木 "wikilink")
+          - [生活の木](../Page/生活の木.md "wikilink")
 
 ## 関連誌
 

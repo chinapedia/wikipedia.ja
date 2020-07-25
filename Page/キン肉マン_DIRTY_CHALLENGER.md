@@ -3,7 +3,7 @@
 
 『**キン肉マン DIRTY CHALLENGER**』（キンにくマン ダーティ チャレンジャー）は、[1992年](../Page/1992年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に[ユタカから発売された](https://ja.wikipedia.org/wiki/ユタカ_\(企業\) "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。ジャンルは[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。
 
-[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画『[キン肉マン](../Page/キン肉マン.md "wikilink")』（[1979年](../Page/1979年.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）および[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[キン肉マン キン肉星王位争奪編](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』（[1991年](../Page/1991年.md "wikilink") - [1992年](../Page/1992年.md "wikilink")）を題材としており、同アニメの放送に合わせ開発された作品である。原作に登場する超人たちが格闘や多彩な組み技を使って戦う。相手をフォールするか、体力を減らしギブアップさせることにより勝敗を決する無制限の3本勝負。
+[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画『[キン肉マン](../Page/キン肉マン.md "wikilink")』（[1979年](../Page/1979年.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）および[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[キン肉マン キン肉星王位争奪編](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")』（[1991年](../Page/1991年.md "wikilink") - [1992年](../Page/1992年.md "wikilink")）を題材としており、同アニメの放送に合わせ開発された作品である。原作に登場する超人たちが格闘や多彩な組み技を使って戦う。相手をフォールするか、体力を減らしギブアップさせることにより勝敗を決する無制限の3本勝負。
 
 ## ゲーム内容
 

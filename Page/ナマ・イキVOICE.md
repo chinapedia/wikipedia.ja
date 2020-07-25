@@ -62,7 +62,7 @@
 ## テーマ曲
 
   - 「レモン」[伊藤ゴロー](../Page/伊藤ゴロー.md "wikilink") feat.[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")（2010年 - 現在、通常版のみで使用され特別番組では用いられないことが多い）2016年4月2日放送分から、曲調をアレンジした上で引き続き使用されていた。2017年4月以降に1年弱程度オープニングアニメーションが廃止されていた時期の「レモン」はスタジオパート冒頭のみで使用されていた。原田のアルバム『noon moon』収録。
-  - [のん](https://ja.wikipedia.org/wiki/のん_\(女優\) "wikilink")、元[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")の[ノマアキコ](https://ja.wikipedia.org/wiki/ノマアキコ "wikilink")、[チリヌルヲワカ](../Page/チリヌルヲワカ.md "wikilink")の[ユウによる新テーマ曲が使用開始予定](https://ja.wikipedia.org/wiki/中島優美 "wikilink")\[7\]。
+  - [のん](https://ja.wikipedia.org/wiki/のん_\(女優\) "wikilink")、元[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")の[ノマアキコ](../Page/ノマアキコ.md "wikilink")、[チリヌルヲワカ](../Page/チリヌルヲワカ.md "wikilink")の[ユウによる新テーマ曲が使用開始予定](https://ja.wikipedia.org/wiki/中島優美 "wikilink")\[7\]。
 
 ## スタジオ
 

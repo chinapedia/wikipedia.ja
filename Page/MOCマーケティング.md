@@ -16,7 +16,7 @@
 ## 沿革
 
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")　三井物産石油販売 (株) として設立
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") 千葉製油所（[極東石油工業](https://ja.wikipedia.org/wiki/極東石油工業 "wikilink") (株)）操業開始
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") 千葉製油所（[極東石油工業](https://ja.wikipedia.org/wiki/極東石油工業 "wikilink") (株)）操業開始
   - [1981年](../Page/1981年.md "wikilink")（昭和56年）[11月](../Page/11月.md "wikilink") 三井物産石油 (株) と改称
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") 三井石油 (株) と改称
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") 三井液化ガス (株) を合併

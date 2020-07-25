@@ -1,7 +1,7 @@
 > この記事は[英語が苦手な大人のDSトレーニング えいご漬け](https://ja.wikipedia.org/wiki/英語が苦手な大人のDSトレーニング_えいご漬け)から翻訳されています。
 
 
-『**英語が苦手な大人のDSトレーニング えいご漬け**』（えいごがにがてなおとなのディーエストレーニング えいごづけ）は、[2006年](../Page/2006年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")向けの[英語](../Page/英語.md "wikilink")トレーニング[ゲーム](../Page/ゲーム.md "wikilink")である。
+『**英語が苦手な大人のDSトレーニング えいご漬け**』（えいごがにがてなおとなのディーエストレーニング えいごづけ）は、[2006年](../Page/2006年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")向けの[英語](../Page/英語.md "wikilink")トレーニング[ゲーム](../Page/ゲーム.md "wikilink")である。
 
 本ゲームは、英語の[ディクテーション](https://ja.wikipedia.org/wiki/ディクテーション "wikilink")（聞いて書き取る）トレーニングを行うゲームである。聴こえてきた英単語・英文を附属のタッチペンで書き取ることで、自動的に採点が行われる仕組みである。[Touch\! Generationsシリーズの一つで](../Page/Touch!_Generations.md "wikilink")、手書き入力機能やゲーム要素を交えた内容である。PC版の[えいご漬け](../Page/えいご漬け.md "wikilink")と同様に、[桐原書店](../Page/桐原書店.md "wikilink")の『データベース3000　基本英単語・熟語（新装版）』の単語と文章を使用している。[TOEIC](../Page/国際コミュニケーション英語能力テスト.md "wikilink")400点以下～600点の人が主な対象。
 

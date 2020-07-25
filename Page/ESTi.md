@@ -36,11 +36,11 @@
   - [O2Jam](../Page/O2Jam.md "wikilink") U　（MOMO、Android、iOS）
   - [トリックスター](../Page/トリックスター_\(オンラインゲーム\).md "wikilink")　（Ntreev Soft、PCオンライン）
   - [タワー オブ アイオン](https://ja.wikipedia.org/wiki/タワー_オブ_アイオン "wikilink")　（[エヌ・シー・ジャパン](../Page/エヌ・シー・ジャパン.md "wikilink")、PCオンライン）
-  - [ドリフトシティ](https://ja.wikipedia.org/wiki/ドリフトシティ "wikilink")　（[ハンゲーム](../Page/ハンゲーム.md "wikilink")、PCオンライン）
+  - [ドリフトシティ](../Page/ドリフトシティ.md "wikilink")　（[ハンゲーム](../Page/ハンゲーム.md "wikilink")、PCオンライン）
   - アスタリア（原題Call of Chaos）　（ハンゲーム、PCオンライン）
   - G2〜Guns Gunner　（ハンゲーム、PCオンライン）
   - Cyphers　（Neople、PCオンライン）
-  - [StreetGears](https://ja.wikipedia.org/wiki/StreetGears "wikilink")　（エヌフレーバー、PCオンライン）
+  - [StreetGears](../Page/StreetGears.md "wikilink")　（エヌフレーバー、PCオンライン）
   - [マグナカルタ](../Page/マグナカルタ_\(ゲーム\).md "wikilink")　（SOFTMAX、Windows、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
   - [4LEAF](../Page/ルーンの子供たち.md "wikilink")　（SOFTMAX、PCオンライン）
   - [BnB](https://ja.wikipedia.org/wiki/BnB "wikilink") Adventure　（SOFTMAX、NEXON、Windows）

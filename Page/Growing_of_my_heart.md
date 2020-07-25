@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><p>前作:<br />
-<a href="https://ja.wikipedia.org/wiki/ZARD" title="wikilink">ZARD</a><br />
+<a href="../Page/ZARD.md" title="wikilink">ZARD</a><br />
 「<a href="https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル(帆)のように" title="wikilink">星のかがやきよ</a>」</p></td>
 </tr>
 </tbody>

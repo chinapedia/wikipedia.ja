@@ -7,7 +7,7 @@
 
 懐かしの[テレビ番組](../Page/テレビ番組.md "wikilink")をクイズの題材にしていた番組で\[1\]、[高田純次](../Page/高田純次.md "wikilink")と[蓮舫](../Page/蓮舫.md "wikilink")が司会を務めていた。当時は1980年代末期からのレトロブームの影響で、[TBSの](../Page/TBSテレビ.md "wikilink")『[テレビ探偵団](../Page/テレビ探偵団.md "wikilink")』や『[いきなり\!クライマックス](../Page/いきなり!クライマックス.md "wikilink")』のように往年の番組を紹介する番組が多かった。
 
-オープニングでは、司会の高田がオリジナルテーマ「テレビの国から僕らのために」（『[おそ松くん](../Page/おそ松くん.md "wikilink")』、『[ハクション大魔王](../Page/ハクション大魔王.md "wikilink")』、『[魔女っ子メグちゃん](../Page/魔女っ子メグちゃん.md "wikilink")』、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』、『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』、『[月光仮面](../Page/月光仮面.md "wikilink")』、『[ひょっこりひょうたん島](../Page/ひょっこりひょうたん島.md "wikilink")』、『[サザエさん](../Page/サザエさん.md "wikilink")』、『[サインはV](../Page/サインはV.md "wikilink")』の主題歌をもじったものだった）を歌いながら登場していた。エンディングでは[KAN](../Page/KAN.md "wikilink")の「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」が流れる中、金色の高田純次像が回旋していた。
+オープニングでは、司会の高田がオリジナルテーマ「テレビの国から僕らのために」（『[おそ松くん](../Page/おそ松くん.md "wikilink")』、『[ハクション大魔王](../Page/ハクション大魔王.md "wikilink")』、『[魔女っ子メグちゃん](../Page/魔女っ子メグちゃん.md "wikilink")』、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』、『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』、『[月光仮面](../Page/月光仮面.md "wikilink")』、『[ひょっこりひょうたん島](../Page/ひょっこりひょうたん島.md "wikilink")』、『[サザエさん](../Page/サザエさん.md "wikilink")』、『[サインはV](../Page/サインはV.md "wikilink")』の主題歌をもじったものだった）を歌いながら登場していた。エンディングでは[KAN](../Page/KAN.md "wikilink")の「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」が流れる中、金色の高田純次像が回旋していた。
 
 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある[放送ライブラリー](../Page/放送ライブラリー.md "wikilink")には、この番組の初回の記録映像が保存されている\[2\]。
 

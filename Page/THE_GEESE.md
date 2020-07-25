@@ -126,7 +126,7 @@
   - [キングオブコント](../Page/キングオブコント.md "wikilink")（TBSテレビ、2008年10月5日、2015年10月11日）キャッチコピーは「解散を懸けた挑戦\!」（2008年）「7年越し 悲願のセカンドチャンス」（2015年）
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（日本テレビ、2008年11月15日）キャッチコピーは「段違いの方程式」
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（TBSテレビ）ゴールドラッシュSPで初登場。3回勝ち抜き本戦出場権獲得。2010年2月25日放送分で本戦初挑戦。結果は4thステージ敗退。
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBSテレビ、2008年12月29日）キャッチコピーは「ちょっと変わった隠し味」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBSテレビ、2008年12月29日）キャッチコピーは「ちょっと変わった隠し味」
   - [爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")（フジテレビ、2009年6月10日）
   - [99プラス](../Page/99プラス.md "wikilink")（日本テレビ、2009年）
   - [フジテレビからの〜\!](https://ja.wikipedia.org/wiki/フジテレビからの〜! "wikilink")（フジテレビ、2011年）

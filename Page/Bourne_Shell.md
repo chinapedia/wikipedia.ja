@@ -3,7 +3,7 @@
 
 **Bourne Shell**(**ボーンシェル**)は、[Unix Version 7](../Page/Version_7_Unix.md "wikilink") の[Unixシェル](https://ja.wikipedia.org/wiki/Unixシェル "wikilink")である。[POSIX](../Page/POSIX.md "wikilink")規格で規定されるUnix系システムにおいて `/bin/sh` はBourne Shell互換のシェルであり、`/bin/sh`はBourne Shellかその互換プログラムへの[シンボリックリンク](https://ja.wikipedia.org/wiki/シンボリックリンク "wikilink")か[ハードリンク](../Page/ハードリンク.md "wikilink")になっている。多くのUnix系システムでは現在でもシェルスクリプトを記述するのに`/bin/sh`が一般的に使われている。ただし、ユーザの使うログインシェルにはより新しいシェルを用いることが一般的である。
 
-[AT\&T](../Page/AT&T.md "wikilink")[ベル研究所](../Page/ベル研究所.md "wikilink")の[スティーブン・ボーン](https://ja.wikipedia.org/wiki/スティーブン・ボーン "wikilink")が開発し、それまでの [Thompson shell](https://ja.wikipedia.org/wiki/Thompson_shell "wikilink") を置き換えた。いずれもコマンド名は **`sh`** である。[Version 7 Unix](../Page/Version_7_Unix.md "wikilink") の一部として1977年に大学等に配布された。対話型のコマンドインタプリタとしても使われるが、[スクリプト言語](../Page/スクリプト言語.md "wikilink")としての性格が強く、一般に構造化プログラムを作り出すと考えられている全ての機能を含んでいる。
+[AT\&T](../Page/AT&T.md "wikilink")[ベル研究所](../Page/ベル研究所.md "wikilink")の[スティーブン・ボーン](../Page/スティーブン・ボーン.md "wikilink")が開発し、それまでの [Thompson shell](https://ja.wikipedia.org/wiki/Thompson_shell "wikilink") を置き換えた。いずれもコマンド名は **`sh`** である。[Version 7 Unix](../Page/Version_7_Unix.md "wikilink") の一部として1977年に大学等に配布された。対話型のコマンドインタプリタとしても使われるが、[スクリプト言語](../Page/スクリプト言語.md "wikilink")としての性格が強く、一般に構造化プログラムを作り出すと考えられている全ての機能を含んでいる。
 
 [ブライアン・カーニハン](../Page/ブライアン・カーニハン.md "wikilink")と[ロブ・パイク](../Page/ロブ・パイク.md "wikilink")による『UNIXプログラミング環境』の出版が Bourne Shell の人気を高めた。これはチュートリアル形式でプログラミング言語としてのシェルを紹介した最初の商業出版本である。
 
@@ -89,7 +89,7 @@ Bourne shell ではなく Thompson shell から派生した [C Shell](../Page/C_
 
 [rcは](../Page/Rc_\(シェル\).md "wikilink")、[ベル研究所](../Page/ベル研究所.md "wikilink")のが  での sh の後継として開発した。[Plan 9 from Bell Labs](../Page/Plan_9_from_Bell_Labs.md "wikilink") ではデフォルトシェルとされている。 の一部としてUNIXにも移植されたことがある。
 
-かつて[CSRGのBSDリリースでも使われた](../Page/Computer_Systems_Research_Group.md "wikilink") Bourne Shell には著作権問題がまとわりついていた。そこで Kenneth Almquist が [Almquist Shell](https://ja.wikipedia.org/wiki/Almquist_Shell "wikilink") とも呼ばれる Bourne Shell のクローンを開発した。これは[BSDライセンス](../Page/BSDライセンス.md "wikilink")で提供されていて、現在もBSD系でメモリ容量が小さい場合などに使われている。Linux にも移植され [Debian Almquist shell](https://ja.wikipedia.org/wiki/Debian_Almquist_shell "wikilink") または dash と呼ばれている。メモリ使用量が小さいため、シェルスクリプトの実行が bash よりも高速という特徴がある。
+かつて[CSRGのBSDリリースでも使われた](../Page/Computer_Systems_Research_Group.md "wikilink") Bourne Shell には著作権問題がまとわりついていた。そこで Kenneth Almquist が [Almquist Shell](../Page/Almquist_Shell.md "wikilink") とも呼ばれる Bourne Shell のクローンを開発した。これは[BSDライセンス](../Page/BSDライセンス.md "wikilink")で提供されていて、現在もBSD系でメモリ容量が小さい場合などに使われている。Linux にも移植され [Debian Almquist shell](https://ja.wikipedia.org/wiki/Debian_Almquist_shell "wikilink") または dash と呼ばれている。メモリ使用量が小さいため、シェルスクリプトの実行が bash よりも高速という特徴がある。
 
 ## 利用
 

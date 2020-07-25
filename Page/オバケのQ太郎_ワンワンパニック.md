@@ -151,12 +151,12 @@ Q太郎と犬の垂直座標が同じ前後1コマ分で重なると、犬は吼
 ## その他
 
   -
-    発売当時に放送された特撮番組『[巨獣特捜ジャスピオン](../Page/巨獣特捜ジャスピオン.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）第42話で本作の画面が映る箇所があるが、音楽や効果音は差し替えられていた。
+    発売当時に放送された特撮番組『[巨獣特捜ジャスピオン](../Page/巨獣特捜ジャスピオン.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1986年](../Page/1986年.md "wikilink")）第42話で本作の画面が映る箇所があるが、音楽や効果音は差し替えられていた。
 
 ## 参考文献
 
   - 『オバケのQ太郎ワンワンパニック裏技虎の巻』
-    [小学館](../Page/小学館.md "wikilink") [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発行。漫画形式で解説する攻略本。
+    [小学館](../Page/小学館.md "wikilink") [1986年](../Page/1986年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発行。漫画形式で解説する攻略本。
     漫画作者:[しのだひでお](../Page/しのだひでお.md "wikilink")。Q太郎以外はオリジナルキャラクター。
 
 ## 関連項目

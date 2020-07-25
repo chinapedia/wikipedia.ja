@@ -65,7 +65,7 @@
 
   - [ボルトロ・ムッティ](https://ja.wikipedia.org/wiki/ボルトロ・ムッティ "wikilink") 2007-2008
 
-  - [ルイジ・アポローニ](https://ja.wikipedia.org/wiki/ルイジ・アポローニ "wikilink") 2009-2010
+  - [ルイジ・アポローニ](../Page/ルイジ・アポローニ.md "wikilink") 2009-2010
 
   -  2010–2011,2012,2016
 

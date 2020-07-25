@@ -151,7 +151,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="../Page/夢の中へ.md" title="wikilink">夢の中へ</a> / <a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ぼくたちの失敗" title="wikilink">ぼくたちの失敗</a> / <a href="../Page/森田童子.md" title="wikilink">森田童子</a></li>
+<li><a href="../Page/ぼくたちの失敗.md" title="wikilink">ぼくたちの失敗</a> / <a href="../Page/森田童子.md" title="wikilink">森田童子</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/人間なんて_(よしだたくろうのアルバム)" title="wikilink">人間なんて</a> / <a href="../Page/吉田拓郎.md" title="wikilink">吉田拓郎</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/傘がない" title="wikilink">傘がない</a> / 井上陽水</li>
 <li><a href="https://ja.wikipedia.org/wiki/春夏秋冬_(泉谷しげるの曲)" title="wikilink">春夏秋冬</a> / <a href="../Page/泉谷しげる.md" title="wikilink">泉谷しげる</a></li>

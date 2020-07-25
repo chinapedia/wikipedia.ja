@@ -83,7 +83,7 @@
 
 ## スタッフ
 
-  - 製作総指揮 - [高岩淡](https://ja.wikipedia.org/wiki/高岩淡 "wikilink")、安齊富夫、泊懋
+  - 製作総指揮 - [高岩淡](../Page/高岩淡.md "wikilink")、安齊富夫、泊懋
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")
   - 企画 - [森下孝三](../Page/森下孝三.md "wikilink")、蛭田成一、[清水賢治](../Page/清水賢治.md "wikilink")、金田耕司、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")
   - 製作担当 - 杉本隆一

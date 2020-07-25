@@ -30,7 +30,7 @@
 
   - [伊東豊雄](../Page/伊東豊雄.md "wikilink")
   - [隈研吾](../Page/隈研吾.md "wikilink")
-  - [サイトウマコト](https://ja.wikipedia.org/wiki/サイトウマコト "wikilink")
+  - [サイトウマコト](../Page/サイトウマコト.md "wikilink")
   - [斎藤和弘](https://ja.wikipedia.org/wiki/斎藤和弘 "wikilink")
   - [森田恭通](https://ja.wikipedia.org/wiki/森田恭通 "wikilink")
   - [高野秀士](https://ja.wikipedia.org/wiki/高野秀士 "wikilink")
@@ -51,7 +51,7 @@
   - [井上正人](https://ja.wikipedia.org/wiki/井上正人 "wikilink")
   - [大江匡](https://ja.wikipedia.org/wiki/大江匡 "wikilink")
   - [佐藤可士和](../Page/佐藤可士和.md "wikilink")
-  - [眞木準](https://ja.wikipedia.org/wiki/眞木準 "wikilink")
+  - [眞木準](../Page/眞木準.md "wikilink")
   - [八木岡聡](https://ja.wikipedia.org/wiki/八木岡聡 "wikilink")
   - [青木克憲](https://ja.wikipedia.org/wiki/青木克憲 "wikilink")
 

@@ -15,7 +15,7 @@
 
   - シングルポイントインジェクション (Single point injection) - [燃料噴射装置](../Page/燃料噴射装置.md "wikilink")の方式の一つ
 
-  - [Software in the Public Interest](../Page/Software_in_the_Public_Interest.md "wikilink") - [FLOSS](https://ja.wikipedia.org/wiki/FLOSS "wikilink")に関する[非営利団体](../Page/非営利団体.md "wikilink")
+  - [Software in the Public Interest](../Page/Software_in_the_Public_Interest.md "wikilink") - [FLOSS](../Page/FLOSS.md "wikilink")に関する[非営利団体](../Page/非営利団体.md "wikilink")
 
   - [ソニー・ピクチャーズ・イメージワークス](../Page/ソニー・ピクチャーズ・イメージワークス.md "wikilink") (Sony Pictures Imageworks)
 

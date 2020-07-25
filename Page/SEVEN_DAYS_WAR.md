@@ -38,7 +38,7 @@ TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink") (Four Pieces Band Mix）
   - [THE GREATEST HITS - 小室哲哉作品集 - s](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_-_小室哲哉作品集_-_s "wikilink")
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink")
   - [TM NETWORK BEST OF BEST](../Page/TM_NETWORK_BEST_OF_BEST.md "wikilink")
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TK BOX 〜TETSUYA KOMURO HIT HISTORY〜](https://ja.wikipedia.org/wiki/TK_BOX_〜TETSUYA_KOMURO_HIT_HISTORY〜 "wikilink")

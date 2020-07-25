@@ -5,7 +5,7 @@
 
 ## 歴史
 
-wxWidgets(当初はwxWindows)は[1992年](../Page/1992年.md "wikilink")、[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")でによって開発が開始された\[1\]。は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[セント・アンドルーズ大学 (スコットランド)で](../Page/セント・アンドルーズ大学_\(スコットランド\).md "wikilink")[計算科学](../Page/計算科学.md "wikilink")の優等学位を取得しており、現在でも中心的な開発者である\[2\]\[3\]。
+wxWidgets(当初はwxWindows)は[1992年](../Page/1992年.md "wikilink")、[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")でによって開発が開始された\[1\]。は[1986年](../Page/1986年.md "wikilink")に[セント・アンドルーズ大学 (スコットランド)で](../Page/セント・アンドルーズ大学_\(スコットランド\).md "wikilink")[計算科学](../Page/計算科学.md "wikilink")の優等学位を取得しており、現在でも中心的な開発者である\[2\]\[3\]。
 
 [2004年](../Page/2004年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")、wxWindowsの開発者たちは、プロジェクト名を*wxWidgets*に変更する旨を発表した。これは[マイクロソフト](../Page/マイクロソフト.md "wikilink")がJulian Smartに対して、自社の持つ*[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")*という[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の登録[商標](../Page/商標.md "wikilink")に配慮してほしいと要請したためである\[4\]。メジャーリリースバージョンは、[2003年](../Page/2003年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に2.4、[2005年](../Page/2005年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に2.6、[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に2.8.0がリリースされた。
 

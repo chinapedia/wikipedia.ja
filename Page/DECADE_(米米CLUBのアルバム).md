@@ -22,7 +22,7 @@
 5.  **[元祖 sure danse](https://ja.wikipedia.org/wiki/sure_danse "wikilink")**
       -
         ソニーの担当者に「こんな曲じゃ売れない」と言われ、後に通常の[sûre danseを発表](https://ja.wikipedia.org/wiki/sure_danse "wikilink")。しかし、本当はこの形で出したかったのを今回のベストで現実のものとした。
-6.  **[ひとすじになれない](https://ja.wikipedia.org/wiki/ひとすじになれない "wikilink")**
+6.  **[ひとすじになれない](../Page/ひとすじになれない.md "wikilink")**
 7.  **[愛してる](https://ja.wikipedia.org/wiki/君がいるだけで/愛してる "wikilink")**
 8.  **[FUNK FUJIYAMA](../Page/FUNK_FUJIYAMA.md "wikilink")**
       -

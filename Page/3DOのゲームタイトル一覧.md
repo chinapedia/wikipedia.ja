@@ -48,7 +48,7 @@
   - 9月2日 [グリム名作劇場2「ヘンゼルとグレーテル」](../Page/ヘンゼルとグレーテル.md "wikilink")（イマ・カンパニー）
   - 9月2日 [グリム名作劇場3「赤ずきん」](../Page/赤ずきん.md "wikilink")（イマ・カンパニー）
   - 9月2日 [シャドー・ウォリアー](https://ja.wikipedia.org/wiki/シャドー・ウォリアー "wikilink")（T\&Eソフト）
-  - 9月16日 [ウイニングポスト](https://ja.wikipedia.org/wiki/ウイニングポスト "wikilink")（[光栄](../Page/コーエー.md "wikilink")）
+  - 9月16日 [ウイニングポスト](../Page/ウイニングポスト.md "wikilink")（[光栄](../Page/コーエー.md "wikilink")）
   - 9月16日 [信長の野望・覇王伝](../Page/信長の野望・覇王伝.md "wikilink")（光栄）
   - 9月16日 [ショックウェーブ](https://ja.wikipedia.org/wiki/ショックウェーブ_\(ゲーム\) "wikilink")（エレクトロニック・アーツ・ビクター）
   - 9月16日 [バトルチェス](https://ja.wikipedia.org/wiki/バトルチェス "wikilink")（インタープレイ）
@@ -125,7 +125,7 @@
   - 3月17日 [トゥインクル☆ナイツ](https://ja.wikipedia.org/wiki/トゥインクル☆ナイツ "wikilink")（インタラス）
   - 3月17日 [美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")S（バンダイ）
   - 3月24日 [スターコントロールII](https://ja.wikipedia.org/wiki/スターコントロールII "wikilink")（BMGビクター/クリスタル・ダイナミクス）
-  - 3月24日 [バーチャルカメラマン Part2](https://ja.wikipedia.org/wiki/バーチャルカメラマン "wikilink") [かわいなつみ](https://ja.wikipedia.org/wiki/かわいなつみ "wikilink")＆[立原貴美](../Page/立原貴美.md "wikilink")（ナグザット）
+  - 3月24日 [バーチャルカメラマン Part2](https://ja.wikipedia.org/wiki/バーチャルカメラマン "wikilink") [かわいなつみ](../Page/かわいなつみ.md "wikilink")＆[立原貴美](../Page/立原貴美.md "wikilink")（ナグザット）
   - 3月24日 [爆笑\!\!オール吉本クイズ王決定戦](https://ja.wikipedia.org/wiki/爆笑!!オール吉本クイズ王決定戦 "wikilink")（[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")）
   - 3月24日 [三國志IV](../Page/三國志IV.md "wikilink")（光栄）
   - 4月1日 [Dの食卓](https://ja.wikipedia.org/wiki/Dの食卓 "wikilink")（三栄書房）

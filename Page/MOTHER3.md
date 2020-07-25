@@ -595,7 +595,7 @@
   - ブタ母艦
     ブタマスク軍の母艦である[飛行船](../Page/飛行船.md "wikilink")。[プロペラ](../Page/プロペラ.md "wikilink")で飛行し、飛行中には廃棄物を落とす。ブタマスクのテーマソングを鳴らしながら進む。
   - ポークビーン
-    ブタマスク軍が使用している[楕円体](https://ja.wikipedia.org/wiki/楕円体 "wikilink")の乗り物。定期的な充電が必要だが、長時間の充電は禁物。わずかに宙に浮いて移動できるが、なぜかバナナでスリップする。壊れやすい。
+    ブタマスク軍が使用している[楕円体](../Page/楕円体.md "wikilink")の乗り物。定期的な充電が必要だが、長時間の充電は禁物。わずかに宙に浮いて移動できるが、なぜかバナナでスリップする。壊れやすい。
   - ブタ[せんしゃ](https://ja.wikipedia.org/wiki/戦車 "wikilink")
     ブタマスク軍の兵器。第3章のボスが搭乗している。黒い排気ガスを撒き散らしながら動く。一定のダメージを与えると砲筒が詰まってしまい、中に乗るブタマスクが文句を言ってきたり砲弾を投げつけたりしてくる。
   - [電車](../Page/電車.md "wikilink")
@@ -716,7 +716,7 @@ TechnologyTellのラダは本作は過去作より驚くほど「ダーク」と
 ## 関連イベント
 
   - NO MOTHER NO LIFE
-    [タワーレコード](../Page/タワーレコード.md "wikilink")の協力で[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")から[11月15日](../Page/11月15日.md "wikilink")の期間に実施した、サウンドトラック『MOTHER3+』に関するキャンペーン。「魑魅魍魎[スタンプラリー](../Page/スタンプラリー.md "wikilink")」という企画が[東京](../Page/東京.md "wikilink")・[横浜](../Page/横浜市.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")・[大阪](../Page/大阪.md "wikilink")の店舗で行われた\[54\]。
+    [タワーレコード](../Page/タワーレコード.md "wikilink")の協力で[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")から[11月15日](../Page/11月15日.md "wikilink")の期間に実施した、サウンドトラック『MOTHER3+』に関するキャンペーン。「魑魅魍魎[スタンプラリー](../Page/スタンプラリー.md "wikilink")」という企画が[東京](../Page/東京.md "wikilink")・[横浜](../Page/横浜市.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[京都](../Page/京都.md "wikilink")・[大阪](../Page/大阪.md "wikilink")の店舗で行われた\[54\]。
 
 ## MOTHER3 豚王の最期
 

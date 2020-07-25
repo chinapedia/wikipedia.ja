@@ -102,7 +102,7 @@
   - [森繁久彌](../Page/森繁久彌.md "wikilink")
   - [左卜全](../Page/左卜全.md "wikilink")
   - [月の家圓鏡](../Page/橘家圓蔵_\(8代目\).md "wikilink")
-  - [三浦布美子](https://ja.wikipedia.org/wiki/三浦布美子 "wikilink")
+  - [三浦布美子](../Page/三浦布美子.md "wikilink")
   - [三遊亭小圓遊](https://ja.wikipedia.org/wiki/三遊亭小圓遊#4代目 "wikilink")
   - [古今亭志ん朝](../Page/古今亭志ん朝.md "wikilink")
   - [瑳川哲朗](../Page/瑳川哲朗.md "wikilink")
@@ -134,7 +134,7 @@
 
 ## 後日譚
 
-  - 坂本の白組司会は今回限りで、翌年の[第21回では宮田が](../Page/第21回NHK紅白歌合戦.md "wikilink")3年ぶりに白組司会に復帰する。この後タレントの白組司会は、[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）の[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")まで待つことになる。
+  - 坂本の白組司会は今回限りで、翌年の[第21回では宮田が](../Page/第21回NHK紅白歌合戦.md "wikilink")3年ぶりに白組司会に復帰する。この後タレントの白組司会は、[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）の[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")まで待つことになる。
   - 2003年度下期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[てるてる家族](../Page/てるてる家族.md "wikilink")』で[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")をモデルにした役・夏子（演・[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")）が紅白歌合戦に出場したシーンで、今回の舞台セットや歌唱シーンが再現された。
 
 ## 脚注

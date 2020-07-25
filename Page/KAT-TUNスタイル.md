@@ -1,7 +1,7 @@
 > この記事は[KAT-TUNスタイル](https://ja.wikipedia.org/wiki/KAT-TUNスタイル)から翻訳されています。
 
 
-**KAT-TUNスタイル**（カトゥーンスタイル、英字表記：**KAT-TUN STYLE**\[1\]）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列全国ネットで放送していた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。当時[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバーだった[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")・[田中聖](../Page/田中聖.md "wikilink")が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
+**KAT-TUNスタイル**（カトゥーンスタイル、英字表記：**KAT-TUN STYLE**\[1\]）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列全国ネットで放送していた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。当時[KAT-TUN](../Page/KAT-TUN.md "wikilink")のメンバーだった[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")・[田中聖](../Page/田中聖.md "wikilink")が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 レギュラー放送の場合は曜日によってコーナーが違い、大々的なイベントや番組の節目等では1週間単位でスペシャルコーナーを設ける。
 
-[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より田中に代わり、新たに[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")が田口とパーソナリティを務めたが、2008年3月31日よりメンバーシャッフルとして再び田中聖と田口の2人でパーソナリティを務めている。赤西は3月28日を最後に降板。この改編時から、金曜日は[亀梨和也](../Page/亀梨和也.md "wikilink")がパーソナリティを務める『[亀梨和也のKス バイ Kス](https://ja.wikipedia.org/wiki/亀梨和也のKス・バイ・Kス "wikilink")』『亀梨和也のKス バイ Kス・KAT-TUNスタイルフライデースペシャル』（当初は『亀梨和也（仮）』『亀梨和也（仮）KAT-TUNスタイルフライデースペシャル』）を開始。
+[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より田中に代わり、新たに[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")が田口とパーソナリティを務めたが、2008年3月31日よりメンバーシャッフルとして再び田中聖と田口の2人でパーソナリティを務めている。赤西は3月28日を最後に降板。この改編時から、金曜日は[亀梨和也](../Page/亀梨和也.md "wikilink")がパーソナリティを務める『[亀梨和也のKス バイ Kス](../Page/亀梨和也のKス・バイ・Kス.md "wikilink")』『亀梨和也のKス バイ Kス・KAT-TUNスタイルフライデースペシャル』（当初は『亀梨和也（仮）』『亀梨和也（仮）KAT-TUNスタイルフライデースペシャル』）を開始。
 
 2008年[9月8日](../Page/9月8日.md "wikilink")より、『[銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")』内の放送になった。『銀河に吠えろ\!宇宙GメンTAKUYA』の時間帯で特別番組『[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")』が放送された場合には23:50 - 24:00に放送された。
 
@@ -365,7 +365,7 @@
 <!-- end list -->
 
   -
-    （番組開始 - 2007年9月28日）締めの挨拶として、田中がリスナーから届いた一文を紹介する。外国語、方言、面白いセリフ等内容は様々。以前は「Good night, baby」と挨拶していた田中が他国語を取り入れたところ、次第にリスナーからも挨拶文が届き始めた為に一コーナーとして確立された。また、[金曜日](../Page/金曜日.md "wikilink")のみ2人とも「Good night, baby」と挨拶をする。BGMは[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の『[GLORIA](https://ja.wikipedia.org/wiki/Real_Face#収録曲 "wikilink")（オリジナル・カラオケ）』である。
+    （番組開始 - 2007年9月28日）締めの挨拶として、田中がリスナーから届いた一文を紹介する。外国語、方言、面白いセリフ等内容は様々。以前は「Good night, baby」と挨拶していた田中が他国語を取り入れたところ、次第にリスナーからも挨拶文が届き始めた為に一コーナーとして確立された。また、[金曜日](../Page/金曜日.md "wikilink")のみ2人とも「Good night, baby」と挨拶をする。BGMは[KAT-TUN](../Page/KAT-TUN.md "wikilink")の『[GLORIA](https://ja.wikipedia.org/wiki/Real_Face#収録曲 "wikilink")（オリジナル・カラオケ）』である。
     （2007年10月1日 - ）リスナーが考えた2人のユニット名を紹介する。
     （2007年11月12日 - 2008年3月28日）リスナーが考えた赤西仁の掴みネタを紹介する。
     （2010年 - ）田口が考えたエンディングコーナー「読めよコラ！」。2009年発売のKAT-TUNのアルバムBreak the recorsに収録されている田中のソロ曲「PIERROT」のサビ部分のメロディに合わせてリスナーからのメールを読む。

@@ -92,7 +92,7 @@
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1955年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1955年のテレビ番組_\(日本\) "wikilink") [Category:1955年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1955年のラジオ番組_\(日本\) "wikilink") [Category:1955年の音楽](https://ja.wikipedia.org/wiki/Category:1955年の音楽 "wikilink") [Category:1955年12月](https://ja.wikipedia.org/wiki/Category:1955年12月 "wikilink")
 
-1.  [1957年](../Page/1957年.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")まで放送された『[オールスター大行進](https://ja.wikipedia.org/wiki/オールスター大行進 "wikilink")』の前身。ちなみに『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』も元々は『オールスター大行進』の流れを踏襲するような形で[大晦日](../Page/大晦日.md "wikilink")の放送が開始された。
+1.  [1957年](../Page/1957年.md "wikilink")から[1968年](../Page/1968年.md "wikilink")まで放送された『[オールスター大行進](https://ja.wikipedia.org/wiki/オールスター大行進 "wikilink")』の前身。ちなみに『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』も元々は『オールスター大行進』の流れを踏襲するような形で[大晦日](../Page/大晦日.md "wikilink")の放送が開始された。
 2.  [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦のウラ話』,53頁。
 3.
 4.

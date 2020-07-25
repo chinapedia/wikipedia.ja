@@ -1,7 +1,7 @@
 > この記事は[CLIPS](https://ja.wikipedia.org/wiki/CLIPS)から翻訳されています。
 
 
-**CLIPS**とは、[ソフトウェア](../Page/ソフトウェア.md "wikilink")の名称であり[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")の一種である。***C** **L**anguage **I**ntegrated **P**roduction **S**ystem*([C言語](../Page/C言語.md "wikilink")統合型プロダクションシステム)の略。その文法と名称は[チャールズ・フォーギー](https://ja.wikipedia.org/wiki/チャールズ・フォーギー "wikilink")の[OPS](https://ja.wikipedia.org/wiki/OPS5 "wikilink")(Official Production System、もっとも公式(Official)なものでは全くない)からインスパイアされたものである。CLIPSの最初のバージョンは[1984年](../Page/1984年.md "wikilink")に[NASAの](../Page/アメリカ航空宇宙局.md "wikilink")[ジョンソン宇宙センター](../Page/ジョンソン宇宙センター.md "wikilink")で(既存のシステム ART\*Inference の後継として)開発された。[1990年代](../Page/1990年代.md "wikilink")初めに国家予算問題で予算がつかなくなり、NASAは自力での開発をやめて一般の商用ソフトウェアを購入することになった。
+**CLIPS**とは、[ソフトウェア](../Page/ソフトウェア.md "wikilink")の名称であり[エキスパートシステム](../Page/エキスパートシステム.md "wikilink")の一種である。***C** **L**anguage **I**ntegrated **P**roduction **S**ystem*([C言語](../Page/C言語.md "wikilink")統合型プロダクションシステム)の略。その文法と名称は[チャールズ・フォーギー](../Page/チャールズ・フォーギー.md "wikilink")の[OPS](https://ja.wikipedia.org/wiki/OPS5 "wikilink")(Official Production System、もっとも公式(Official)なものでは全くない)からインスパイアされたものである。CLIPSの最初のバージョンは[1984年](../Page/1984年.md "wikilink")に[NASAの](../Page/アメリカ航空宇宙局.md "wikilink")[ジョンソン宇宙センター](../Page/ジョンソン宇宙センター.md "wikilink")で(既存のシステム ART\*Inference の後継として)開発された。[1990年代](../Page/1990年代.md "wikilink")初めに国家予算問題で予算がつかなくなり、NASAは自力での開発をやめて一般の商用ソフトウェアを購入することになった。
 
 CLIPSは高速で効率がよく無料であるため、最も広く使われているエキスパートシステム・ツールと言えるだろう。現在はパブリックドメインだが、それでもオリジナルの作者ゲーリー・ライリーがアップデートとサポートを続けている。
 

@@ -28,7 +28,7 @@
 ## 単行本
 
   - 集英社のテレビ・コミックス『ビッグX』（[集英社](../Page/集英社.md "wikilink")）全10巻
-  - [サンデーコミックス](https://ja.wikipedia.org/wiki/サンデーコミックス "wikilink")『ビッグX』（[秋田書店](../Page/秋田書店.md "wikilink")）全4巻
+  - [サンデーコミックス](../Page/サンデーコミックス.md "wikilink")『ビッグX』（[秋田書店](../Page/秋田書店.md "wikilink")）全4巻
   - [手塚治虫漫画全集](../Page/手塚治虫漫画全集.md "wikilink")『ビッグX』（[講談社](../Page/講談社.md "wikilink")）全4巻
   - 手塚治虫名作集『ビッグX』（[ホーム社](https://ja.wikipedia.org/wiki/ホーム社 "wikilink")）全3巻
   - [集英社文庫](../Page/集英社文庫.md "wikilink")手塚治虫名作集『ビッグX』（集英社）全3巻

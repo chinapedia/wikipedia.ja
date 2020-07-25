@@ -367,7 +367,7 @@ LLI解散後も王座のみ存続して[WAR](../Page/WAR_\(プロレス\).md "wi
 </tr>
 <tr class="even">
 <td><p>第56代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤悠己" title="wikilink">佐藤悠己</a></p></td>
+<td><p><a href="../Page/佐藤悠己.md" title="wikilink">佐藤悠己</a></p></td>
 <td><p>1</p></td>
 <td><p>2012年11月4日<br />
 3WAYマッチで柏に勝利</p></td>

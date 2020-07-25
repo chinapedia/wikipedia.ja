@@ -44,7 +44,7 @@
     <!-- end list -->
       - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(Eighteen's Summer Mix)
           - グルーヴ感を出すために打ち込みのベースを生音に差し替えた\[6\]。オリジナルにはなかった歌詞が追加されている。また、交響曲風にアレンジされたインタールード「**Interlude 〜Don't wanna cry Symphonic Style**」も収録されている\[7\]。
-      - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
+      - ベスト『**[181920](../Page/181920.md "wikilink")**』（『**181920 & films**』も同様）
           - 収録曲の中で唯一、シングルともオリジナルアルバムとも異なるバージョンである。具体的には、アレンジはシングルバージョンで歌詞はオリジナルアルバムバージョン。
       - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
       - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）

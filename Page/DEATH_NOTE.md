@@ -50,7 +50,7 @@ Lの死の直後、[養護施設](https://ja.wikipedia.org/wiki/養護施設 "wi
   - [夜神月](../Page/夜神月.md "wikilink")（やがみ ライト、Light Yagami）
     [声](../Page/声優.md "wikilink") - [宮野真守](../Page/宮野真守.md "wikilink")
     [演](../Page/俳優.md "wikilink") - [藤原竜也](../Page/藤原竜也.md "wikilink")（実写映画版）/ [浦井健治](https://ja.wikipedia.org/wiki/浦井健治 "wikilink")・[柿澤勇人](https://ja.wikipedia.org/wiki/柿澤勇人 "wikilink")（舞台版）/ [窪田正孝](../Page/窪田正孝.md "wikilink")（ドラマ版）/ 石川樹（ドラマ版幼少期）
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（アニメ版では[1989年](../Page/1989年.md "wikilink")、ドラマ版では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）[2月28日](../Page/2月28日.md "wikilink")生まれ。
+    [1986年](../Page/1986年.md "wikilink")（アニメ版では[1989年](../Page/1989年.md "wikilink")、ドラマ版では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）[2月28日](../Page/2月28日.md "wikilink")生まれ。
     本作の[主人公](../Page/主人公.md "wikilink")。官僚を目指す優秀で人柄もいい学生だったが、デスノートを拾った事を機に、犯罪者や自身を追う者達を粛清し、彼が認めた真面目で心優しい人間だけの世界を造り上げ、自らはその「[新世界の神](../Page/独裁者.md "wikilink")」として君臨することを目論むようになる。
   - [弥海砂](../Page/弥海砂.md "wikilink")（あまね ミサ、Misa Amane）
     声 - [平野綾](../Page/平野綾.md "wikilink")
@@ -61,7 +61,7 @@ Lの死の直後、[養護施設](https://ja.wikipedia.org/wiki/養護施設 "wi
     声 - [山口勝平](../Page/山口勝平.md "wikilink")
     演 - [松山ケンイチ](https://ja.wikipedia.org/wiki/松山ケンイチ "wikilink")（実写映画版）/ [小池徹平](../Page/小池徹平.md "wikilink")（舞台版）/ [山﨑賢人](https://ja.wikipedia.org/wiki/山崎賢人 "wikilink")（ドラマ版）
     1979年（アニメ版では[1982年](../Page/1982年.md "wikilink")、ドラマ版では[1991年](../Page/1991年.md "wikilink")）[10月31日](../Page/10月31日.md "wikilink")生まれ（24–25歳）。 本名エル＝ローライト（L Lawliet）。身長179cm、体重50kg（いずれも推定）。
-    世界中の[未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")を解決している探偵。その推理力の高さから、「影のトップ」「最後の切り札」「世界一の[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")」といわれている。大の甘党で常に何かしら甘味を食べている。
+    世界中の[未解決事件](../Page/未解決事件.md "wikilink")を解決している探偵。その推理力の高さから、「影のトップ」「最後の切り札」「世界一の[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")」といわれている。大の甘党で常に何かしら甘味を食べている。
   - [ニア](https://ja.wikipedia.org/wiki/ニア_\(DEATH_NOTE\) "wikilink")（Near）
     声 - [日高のり子](../Page/日高のり子.md "wikilink")
     演 - 福田響志（実写映画版）/ [優希美青](https://ja.wikipedia.org/wiki/優希美青 "wikilink")（ドラマ版）
@@ -543,7 +543,7 @@ Lの死の直後、[養護施設](https://ja.wikipedia.org/wiki/養護施設 "wi
   - Real Action Heroes DeathNote 夜神月
   - Real Action Heroes DeathNote L
   - Real Action Heroes DeathNote 弥海砂
-  - デスノート [ねんどろいど](https://ja.wikipedia.org/wiki/ねんどろいど "wikilink") 夜神月
+  - デスノート [ねんどろいど](../Page/ねんどろいど.md "wikilink") 夜神月
   - デスノート ねんどろいど L
   - デスノート ねんどろいど 弥海砂
   - デスノート ねんどろいど リューク

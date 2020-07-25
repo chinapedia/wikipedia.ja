@@ -181,7 +181,7 @@
       - [The Days](https://ja.wikipedia.org/wiki/HOCUS_POCUS_2 "wikilink")（編曲）
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")
       - [ひとひら](https://ja.wikipedia.org/wiki/北風と太陽_\(E-girlsの曲\) "wikilink")（共作曲）
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")
       - [Unstoppable](https://ja.wikipedia.org/wiki/CAST "wikilink")（作詞/共作曲）
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
       - [Into You](https://ja.wikipedia.org/wiki/Love_Collection_2_〜pink〜 "wikilink")（共作曲/編曲）

@@ -72,7 +72,7 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
     USBメディア内のISOイメージからのインストールをサポートを追加。
 
   - 5.0（[2013年](../Page/2013年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")）
-    [Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）のサポート。
+    [Windows 8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")（[64ビット](../Page/64ビット.md "wikilink")）のサポート。
 
     3TBのHDDを搭載したMacのサポート。
 
@@ -81,13 +81,13 @@ Boot camp環境は、仮想化ソフトウェアであるParallels Desktop for M
     Mountain Lion version 10.8.3以降のOS Xでのみ対応。
 
   - 5.1（[2014年](../Page/2014年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")）
-    [Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）および[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink") Pro（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）のサポート。
+    [Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")（[64ビット](../Page/64ビット.md "wikilink")）および[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink") Pro（[64ビット](../Page/64ビット.md "wikilink")）のサポート。
 
   - 5.1.2（[2014年](../Page/2014年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")）
     6.0（[2015年](../Page/2015年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")）
-    [Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）のサポートを追加。
+    [Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")（[64ビット](../Page/64ビット.md "wikilink")）のサポートを追加。
 
-    [Windows 10は](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版のみ対応で、公式対応は、下記の機種である。
+    [Windows 10は](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[64ビット](../Page/64ビット.md "wikilink")版のみ対応で、公式対応は、下記の機種である。
 
       -
         **MacBook Pro:** MacBook Pro (Retina, 15-inch Mid 2015), MacBook Pro (Retina 13-inch Early 2015), MacBook Pro (Retina, 15-inch Mid 2014), MacBook Pro (Retina 13-inch Mid 2014), MacBook Pro (Retina 15-inch Late 2013), MacBook Pro (Retina 13-inch Late 2013), MacBook Pro(Retina, 15-inch Early 2013), MacBook Pro (Retina 13-inch Early 2013), MacBook Pro (Retina 13-inch Late 2012), MacBook Pro (Retina Mid 2012), MacBook Pro (13-inch Mid 2012), MacBook Pro (15-inch Mid 2012)

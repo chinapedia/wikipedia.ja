@@ -13,7 +13,7 @@
 
 タイトル通り、この番組は[電話リクエスト](https://ja.wikipedia.org/wiki/電話リクエスト "wikilink")による生放送音楽番組である。
 受付時間は全曜日とも18:30からで、当日の[イブニングウェーブ担当の](../Page/日産イブニングウェーブ.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が本日のDJを呼び、「リクエスト、スタート」のコールで電話、FAXの受付が開始される。受付時間は放送終了30分前まで。
-ただし、「[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")中継（[IBSスーパーサッカー](https://ja.wikipedia.org/wiki/IBSスーパーサッカー "wikilink")）」（水曜に不定期）、「県立高校解答と解説」（3月第1週）が同枠に入っている場合は休止となるため、受付もお休みとなる。
+ただし、「[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")中継（[IBSスーパーサッカー](../Page/IBSスーパーサッカー.md "wikilink")）」（水曜に不定期）、「県立高校解答と解説」（3月第1週）が同枠に入っている場合は休止となるため、受付もお休みとなる。
 番組の中盤には、洋楽のリクエスト特集を行う。
 
 ## 主なDJ陣

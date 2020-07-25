@@ -65,7 +65,7 @@
 
 ## 後日譚
 
-  - 今回の福士を最後にNHKの女性[アナウンサーによる紅組司会は](../Page/日本のアナウンサー.md "wikilink")、[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）の2人体制となった際の[目加田賴子まで途絶えており](../Page/目加田頼子.md "wikilink")、単独では[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）の[久保純子](../Page/久保純子.md "wikilink")までなかった。
+  - 今回の福士を最後にNHKの女性[アナウンサーによる紅組司会は](../Page/日本のアナウンサー.md "wikilink")、[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）の2人体制となった際の[目加田賴子まで途絶えており](../Page/目加田頼子.md "wikilink")、単独では[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）の[久保純子](../Page/久保純子.md "wikilink")までなかった。
   - [2004年](../Page/2004年.md "wikilink")に[NHKラジオ第1で放送された特集番組内で](../Page/NHKラジオ第1放送.md "wikilink")、現存するラジオ中継の音声のうち、オープニングと6人の出場歌手の歌の音声が紹介された。紹介された歌手達は以下の通り（当時の歌唱順）。
       - 紅組 … [宮城まり子](../Page/宮城まり子.md "wikilink")、[松田トシ](../Page/松田トシ.md "wikilink")、[雪村いづみ](../Page/雪村いづみ.md "wikilink")
       - 白組 … [岡本敦郎](../Page/岡本敦郎.md "wikilink")、[河野ヨシユキ](../Page/河野ヨシユキ.md "wikilink")、[藤山一郎](../Page/藤山一郎.md "wikilink")

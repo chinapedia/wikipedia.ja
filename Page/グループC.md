@@ -37,7 +37,7 @@
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
       -
         C1の総燃料使用量が削減され燃費規制が強化。[ル・マン24時間レースでは](https://ja.wikipedia.org/wiki/1985年のル・マン24時間レース "wikilink")2,600Lから2,210Lに変更された。選手権対象がメーカーから参戦チームに変更された。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
       -
         シリーズに耐久レースだけでなく短距離レースも加え、シリーズ名称を[世界耐久選手権](../Page/スポーツカー世界選手権.md "wikilink") (WEC) から[世界スポーツプロトタイプカー選手権](../Page/スポーツカー世界選手権.md "wikilink") (WSPC) と改称され、多くの自動車メーカーが[ワークス参戦し大きな盛り上がりを見せた](../Page/ワークス・チーム.md "wikilink")。[ル・マン24時間レースでの総燃料使用量が変更され](https://ja.wikipedia.org/wiki/1986年のル・マン24時間レース "wikilink")、C1は2,550L、C2は1,650Lとなった。
   - [1988年](../Page/1988年.md "wikilink")
@@ -112,7 +112,7 @@
 
   - [トムス童夢・セリカC](https://ja.wikipedia.org/wiki/トムス童夢・セリカC "wikilink")（国産初のグループCカー）
   - [童夢・84C](../Page/童夢・84C.md "wikilink")/トヨタ（国産C1で初めて優勝したグループCカー）
-  - [トムス・86C](../Page/トムス・86C.md "wikilink")/トヨタ（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の[WEC-JAPAN](../Page/WEC-JAPAN.md "wikilink")で幻のポールポジション。ドライバーは[中嶋悟](../Page/中嶋悟.md "wikilink")だった）
+  - [トムス・86C](../Page/トムス・86C.md "wikilink")/トヨタ（[1986年](../Page/1986年.md "wikilink")の[WEC-JAPAN](../Page/WEC-JAPAN.md "wikilink")で幻のポールポジション。ドライバーは[中嶋悟](../Page/中嶋悟.md "wikilink")だった）
   - [トヨタ・87C](../Page/トヨタ・87C.md "wikilink")（1987年 JSPCで2勝）
   - [トヨタ・88C-V](../Page/トヨタ・88C-V.md "wikilink")（国産で初めてフルカーボン[モノコック](../Page/モノコック.md "wikilink")を採用したグループCカー）
   - [トヨタ・89C-V](../Page/トヨタ・89C-V.md "wikilink")（1989年 WSPC鈴鹿でポールポジション獲得）

@@ -42,7 +42,7 @@
   - [2012年](../Page/2012年.md "wikilink") SongBook配信開始（2016年現在はApp Storeから削除済み）。
   - [2013年](../Page/2013年.md "wikilink") 2012c 日本語版アップデート。アップデートながら多少の新機能（移調楽器間のサポート等）も搭載。
   - [2014年](../Page/2014年.md "wikilink") 2014 新しいファイル形式で保存が可能。Mac版は[PowerPC](../Page/PowerPC.md "wikilink")への対応打ち切り。
-  - [2016年](../Page/2016年.md "wikilink") 25 [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")対応。
+  - [2016年](../Page/2016年.md "wikilink") 25 [64ビット](../Page/64ビット.md "wikilink")対応。
   - [2019年](../Page/2019年.md "wikilink") 26
 
 ## 簡易バージョン

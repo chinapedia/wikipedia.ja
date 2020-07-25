@@ -1,7 +1,7 @@
 > この記事は[秋田Aスケ・Bスケ](https://ja.wikipedia.org/wiki/秋田Aスケ・Bスケ)から翻訳されています。
 
 
-**秋田Aスケ・Bスケ**（あきたえーすけ・びーすけ）は、戦中〜戦後に活躍した、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫才](../Page/漫才.md "wikilink")のコンビ。結成当時は吉本興業、その後、[大滝エージェンシー](https://ja.wikipedia.org/wiki/大滝エージェンシー "wikilink")→株式会社[パルティール](https://ja.wikipedia.org/wiki/パルティール "wikilink")所属。
+**秋田Aスケ・Bスケ**（あきたえーすけ・びーすけ）は、戦中〜戦後に活躍した、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫才](../Page/漫才.md "wikilink")のコンビ。結成当時は吉本興業、その後、[大滝エージェンシー](../Page/大滝エージェンシー.md "wikilink")→株式会社[パルティール](https://ja.wikipedia.org/wiki/パルティール "wikilink")所属。
 
 二人は従兄弟の関係だという。
 

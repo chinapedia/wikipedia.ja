@@ -13,7 +13,7 @@
       - 作詞：[櫻井和寿](../Page/桜井和寿.md "wikilink") / 作曲：[小林武史](../Page/小林武史.md "wikilink") / 編曲：[Bank Band](../Page/Bank_Band.md "wikilink")
     <!-- end list -->
       -
-        [TBS系](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")』テーマソング（[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")）。
+        [TBS系](../Page/TBSテレビ.md "wikilink")『[筑紫哲也 NEWS23](../Page/筑紫哲也_NEWS23.md "wikilink")』テーマソング（[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")）。
         [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")名義の作品で作曲が共作であるものは存在するが、それぞれを2人が担当する組み合わせは初となる。
         タイトルの「**to U**」の「**U**」は「**you**」（あなた）と「**Universe**」（全世界）のダブルミーニングであり、曲の世界観のスケールの大きさとそのメッセージが個人のレベルにまで浸透していくストーリーを端的に表している。
         当初は[Lily Chou-Chouプロジェクトを終えたSalyuが単独で仮歌を歌っていたが](../Page/Lily_Chou-Chou.md "wikilink")、後に櫻井が歌詞を書き加えた上で自らもボーカルに参加し、櫻井とSalyuのデュエット形式で歌われている。そのためこの曲の名義は**Bank Band with Salyu**となっている。
@@ -60,7 +60,7 @@
 ### [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")
 
   -
-    櫻井和寿・GAKU-MC・中村中・My Little Lover・[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")・大塚愛・ポルノグラフィティ・[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")・トータス松本・[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")・KREVA・Salyu・スガシカオ・今井美樹・[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")・[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")・[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")・[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")・[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")・一青窈・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
+    櫻井和寿・GAKU-MC・中村中・My Little Lover・[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")・大塚愛・ポルノグラフィティ・[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")・トータス松本・[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")・KREVA・Salyu・スガシカオ・今井美樹・[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")・[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")・[キマグレン](../Page/キマグレン.md "wikilink")・[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")・[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")・一青窈・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
 
 ### [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink")
 

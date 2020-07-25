@@ -1,7 +1,7 @@
 > この記事は[SIGNAL \(KAT-TUNの曲\)](https://ja.wikipedia.org/wiki/SIGNAL_\(KAT-TUNの曲\))から翻訳されています。
 
 
-「**SIGNAL**」（シグナル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の2枚目のシングル。
+「**SIGNAL**」（シグナル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の2枚目のシングル。
 
 ## 概要
 

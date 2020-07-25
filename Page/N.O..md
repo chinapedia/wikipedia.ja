@@ -31,7 +31,7 @@
 
   - 『[スーパージョッキー](../Page/スーパージョッキー.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）にゲスト出演した際、[細川ふみえ](../Page/細川ふみえ.md "wikilink")が「今回は特別な楽器で演奏します」と発表したものの、実際は瀧が後ろで[轆轤](../Page/轆轤.md "wikilink")を回転させた上で[陶芸](../Page/陶芸.md "wikilink")[粘土](../Page/粘土.md "wikilink")で形を作っただけであった。演奏終了後、司会の[ビートたけし](../Page/ビートたけし.md "wikilink")は「何をやっていたんでしょうか」と苦笑した。
   - 『[タモリの音楽は世界だ](../Page/タモリの音楽は世界だ.md "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）の[テクノ特集でゲスト出演し](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")、この曲を披露した際、瀧はおもちゃのギターをぶん回していた。途中、勢い余って遠くに飛んでいき、慌てて拾いに行ったりもしている。
-  - 『[MJ -MUSIC JOURNAL-](../Page/MJ_-MUSIC_JOURNAL-.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）に出演した際、瀧は[ローランド](../Page/ローランド.md "wikilink")のロゴのついた[サンドバッグ](https://ja.wikipedia.org/wiki/サンドバッグ "wikilink")を殴ったり、数羽の[ニワトリ](../Page/ニワトリ.md "wikilink")を逃がして捕まえるというパフォーマンスを行っている。途中逃げ回ったニワトリが思ったよりもスタジオ中に行ってしまい、瀧が画面からフェイドアウトしてしまっている。
+  - 『[MJ -MUSIC JOURNAL-](../Page/MJ_-MUSIC_JOURNAL-.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）に出演した際、瀧は[ローランド](../Page/ローランド.md "wikilink")のロゴのついた[サンドバッグ](../Page/サンドバッグ.md "wikilink")を殴ったり、数羽の[ニワトリ](../Page/ニワトリ.md "wikilink")を逃がして捕まえるというパフォーマンスを行っている。途中逃げ回ったニワトリが思ったよりもスタジオ中に行ってしまい、瀧が画面からフェイドアウトしてしまっている。
   - その他、わたあめを作る、ギターを振り回す、琵琶を弾く、おにぎりを握るなどの「演奏」をしている。
 
 ## メディアでの使用

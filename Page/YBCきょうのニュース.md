@@ -9,6 +9,6 @@
 
 ## 補足
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")、全国ニュース枠が『NNN6:30きょうのニュース』から『NNNライブオンネットワーク』に変わったが、この番組も同年同月から1987年[1月9日](../Page/1月9日.md "wikilink")の間だけ、『**YBCライブオンネットワーク**』に一時的な変更をしたことがあった。、1987年[1月12日](../Page/1月12日.md "wikilink")から『YBCきょうのニュース』にタイトルを直し、最終回まで流した。なお、『きょうのニュース』への再改題後には、独自のタイトルロゴが使用された。
+[1986年](../Page/1986年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、全国ニュース枠が『NNN6:30きょうのニュース』から『NNNライブオンネットワーク』に変わったが、この番組も同年同月から1987年[1月9日](../Page/1月9日.md "wikilink")の間だけ、『**YBCライブオンネットワーク**』に一時的な変更をしたことがあった。、1987年[1月12日](../Page/1月12日.md "wikilink")から『YBCきょうのニュース』にタイトルを直し、最終回まで流した。なお、『きょうのニュース』への再改題後には、独自のタイトルロゴが使用された。
 
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:山形放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山形放送のテレビ番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:NNNライブオンネットワーク](https://ja.wikipedia.org/wiki/Category:NNNライブオンネットワーク "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")

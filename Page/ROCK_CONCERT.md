@@ -1,11 +1,11 @@
 > この記事は[ROCK CONCERT](https://ja.wikipedia.org/wiki/ROCK_CONCERT)から翻訳されています。
 
 
-『**ROCK CONCERT**』（ロック・コンサート）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**ROCK CONCERT**』（ロック・コンサート）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 ## 背景
 
-[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")活動休止中の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1年間限定で結成されたKUWATA BANDが最後に発売した作品。同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")までに約50本行われたライブツアー「ROCK CONCERT」から、[9月26日](../Page/9月26日.md "wikilink")の[名古屋市民会館](../Page/名古屋市民会館.md "wikilink")公演と[10月8日](../Page/10月8日.md "wikilink")・[9日の](../Page/10月9日.md "wikilink")[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演の音源から選出して収録された作品である。ちなみに[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が[嘉門雄三名義で発売した作品を除き](../Page/嘉門雄三_&_VICTOR_WHEELS_LIVE!.md "wikilink")、現在までサザン本体及びサザンのメンバーはライブアルバムを発売していない。嘉門雄三名義の作品は現在廃盤のため、現行作品として唯一のライブアルバムとなる。ただ、ライブ演奏の曲などが[シングル](../Page/シングル.md "wikilink")に収録されることはある。
+[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")活動休止中の[1986年](../Page/1986年.md "wikilink")1年間限定で結成されたKUWATA BANDが最後に発売した作品。同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")までに約50本行われたライブツアー「ROCK CONCERT」から、[9月26日](../Page/9月26日.md "wikilink")の[名古屋市民会館](../Page/名古屋市民会館.md "wikilink")公演と[10月8日](../Page/10月8日.md "wikilink")・[9日の](../Page/10月9日.md "wikilink")[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演の音源から選出して収録された作品である。ちなみに[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が[嘉門雄三名義で発売した作品を除き](../Page/嘉門雄三_&_VICTOR_WHEELS_LIVE!.md "wikilink")、現在までサザン本体及びサザンのメンバーはライブアルバムを発売していない。嘉門雄三名義の作品は現在廃盤のため、現行作品として唯一のライブアルバムとなる。ただ、ライブ演奏の曲などが[シングル](../Page/シングル.md "wikilink")に収録されることはある。
 
 ## 音楽性・アートワーク
 

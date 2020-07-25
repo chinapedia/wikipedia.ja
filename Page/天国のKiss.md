@@ -196,7 +196,7 @@
 <!-- end list -->
 
   -
-    演：[有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
+    演：[有坂来瞳](../Page/有坂来瞳.md "wikilink")
     明日美の友人。17歳。ホラーが大好きで、怪談にも詳しく、霊感も強い。占い師を志望している。
 
 <!-- end list -->

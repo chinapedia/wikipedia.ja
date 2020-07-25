@@ -7,7 +7,7 @@
 
 1998年リリースのアルバム『Far East Groove』に収録されている「鳳凰」は、[K-1](../Page/K-1.md "wikilink") JAPANのテーマ曲として使用された。
 
-[和風総本家](https://ja.wikipedia.org/wiki/和風総本家 "wikilink")のBGMとして、よく使用されている。
+[和風総本家](../Page/和風総本家.md "wikilink")のBGMとして、よく使用されている。
 
 ## メンバー
 

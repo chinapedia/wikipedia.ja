@@ -52,7 +52,7 @@ Rogier と Chauvaud (1997年) は MD2 の圧縮関数でのコリジョンを見
 
 2009年、2<sup>63.3</sup> の圧縮関数評価と等価な[時間複雑性および](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink") 2<sup>52</sup> のハッシュ値のメモリ容量による[衝突攻撃](https://ja.wikipedia.org/wiki/衝突攻撃 "wikilink")で MD2 の脆弱性が示された。これは2<sup>65.5</sup>の圧縮関数評価が必要と見積もられている[誕生日攻撃](https://ja.wikipedia.org/wiki/誕生日攻撃 "wikilink")よりも若干よい値である\[4\]。
 
-2009年、[OpenSSL](https://ja.wikipedia.org/wiki/OpenSSL "wikilink")、[GnuTLS](https://ja.wikipedia.org/wiki/GnuTLS "wikilink")、[Network Security Services](https://ja.wikipedia.org/wiki/Network_Security_Services "wikilink") においてMD2を使用不可にするセキュリティアップデートが発行された\[5\]。
+2009年、[OpenSSL](https://ja.wikipedia.org/wiki/OpenSSL "wikilink")、[GnuTLS](../Page/GnuTLS.md "wikilink")、[Network Security Services](https://ja.wikipedia.org/wiki/Network_Security_Services "wikilink") においてMD2を使用不可にするセキュリティアップデートが発行された\[5\]。
 
 ## 参考文献
 

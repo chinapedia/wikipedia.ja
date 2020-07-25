@@ -1,11 +1,11 @@
 > この記事は[Teenage Walk](https://ja.wikipedia.org/wiki/Teenage_Walk)から翻訳されています。
 
 
-「**Teenage Walk**」（ティーンエイジ・ウォーク）は、[渡辺美里](../Page/渡辺美里.md "wikilink")の楽曲で、5枚目のシングル。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に発売された。
+「**Teenage Walk**」（ティーンエイジ・ウォーク）は、[渡辺美里](../Page/渡辺美里.md "wikilink")の楽曲で、5枚目のシングル。[1986年](../Page/1986年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に発売された。
 
 ## 解説
 
-[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「'86 夏の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")」キャンペーンソングとしてヒットした。
+[全日本空輸](../Page/全日本空輸.md "wikilink")「'86 夏の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")」キャンペーンソングとしてヒットした。
 
 シングル「[My Revolution](../Page/My_Revolution.md "wikilink")」のヒットを受け、その第2弾シングルとして企画制作された。サウンドは[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（作曲）、[大村雅朗](../Page/大村雅朗.md "wikilink")（編曲）によって手掛けられ、作詞はシングル「GROWIN' UP」以来2度目となる[神沢礼江](../Page/神沢礼江.md "wikilink")による。小室は「My Revolution」の大ヒットを受け、この曲の製作には相当なプレッシャーを感じていたと話している。
 

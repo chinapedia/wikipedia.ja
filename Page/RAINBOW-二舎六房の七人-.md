@@ -180,7 +180,7 @@
 
 ## 舞台
 
-  - 第一章は[昭和30](../Page/1955年.md "wikilink")～[31年](../Page/1956年.md "wikilink")、第二章は[昭和32](../Page/1957年.md "wikilink")～[33年](../Page/1958年.md "wikilink")、第三章は[昭和35](../Page/1960年.md "wikilink")～[39年](../Page/1964年.md "wikilink")、第四章は[昭和28](https://ja.wikipedia.org/wiki/1953年 "wikilink")～30年及び昭和39～[43年を舞台にしている](https://ja.wikipedia.org/wiki/1968年 "wikilink")。
+  - 第一章は[昭和30](../Page/1955年.md "wikilink")～[31年](../Page/1956年.md "wikilink")、第二章は[昭和32](../Page/1957年.md "wikilink")～[33年](../Page/1958年.md "wikilink")、第三章は[昭和35](../Page/1960年.md "wikilink")～[39年](../Page/1964年.md "wikilink")、第四章は[昭和28](https://ja.wikipedia.org/wiki/1953年 "wikilink")～30年及び昭和39～[43年を舞台にしている](../Page/1968年.md "wikilink")。
   - なお、[東京](../Page/東京.md "wikilink")・[湘南](../Page/湘南.md "wikilink")が舞台の中心となっている。
 
 ## 単行本

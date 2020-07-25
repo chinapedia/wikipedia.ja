@@ -13,7 +13,7 @@
   - 紅組応援団：[海原千里・万里](../Page/海原千里・万里.md "wikilink")、[ハナ肇](../Page/ハナ肇.md "wikilink")
   - 白組応援団：[三波伸介](../Page/三波伸介_\(初代\).md "wikilink")、[笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")
   - テレビ中継：[金子辰雄](https://ja.wikipedia.org/wiki/金子辰雄 "wikilink")アナウンサー
-  - 得点集計スタジオ：[中江陽三](https://ja.wikipedia.org/wiki/中江陽三 "wikilink")アナウンサー
+  - 得点集計スタジオ：[中江陽三](../Page/中江陽三.md "wikilink")アナウンサー
 
 <!-- end list -->
 

@@ -71,7 +71,7 @@
       - [川島だりあ](../Page/川島だりあ.md "wikilink")([FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink")) - コーラス
       - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス
       - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink") - コーラス
-      - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")([ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")) - コーラス
+      - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")([ZARD](../Page/ZARD.md "wikilink")) - コーラス
 
 ## 関連項目
 

@@ -403,7 +403,7 @@
   - [直江山城守](../Page/直江兼続.md "wikilink")（なおえ やましろのかみ）
     演：[矢島健一](../Page/矢島健一.md "wikilink")
     会津の大名[上杉景勝](../Page/上杉景勝.md "wikilink")の家臣だが秀吉から直轄した大名でもある。石田三成の盟友。自らが書いた書状を家康に送って挑発、これに激怒した家康は上杉征伐を決断し、関ヶ原の戦い勃発の原因となる。
-  - [島津義弘](https://ja.wikipedia.org/wiki/島津義弘 "wikilink")（しまづ よしひろ）
+  - [島津義弘](../Page/島津義弘.md "wikilink")（しまづ よしひろ）
     演：[岩崎ひろし](../Page/岩崎ひろし.md "wikilink")
     薩摩の大名。関ヶ原の戦いでは西軍に属すが積極的に戦おうとはせず、戦の勝敗が決した後に敵中突破を敢行した。
   - [島津豊久](../Page/島津豊久.md "wikilink")（しまづ とよひさ）
@@ -499,7 +499,7 @@
     （たま → 玉 → ガラシャ）
     演：[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")（少女期：[今泉野乃香](../Page/今泉野乃香.md "wikilink")）
     光秀の娘で、忠興の妻。子どもの頃、徳次郎や小三郎にいじめられていたところを、千代に助けられたことがある。父が起こした本能寺の変により「謀反人の娘」として幽閉生活を送り、その後キリシタンとなる。関ヶ原の戦いの際に石田三成から人質として大坂城に入るよう求められるが、これを拒絶し、家臣に自分を討たせて亡くなった。
-  - [小笠原少斎](https://ja.wikipedia.org/wiki/小笠原秀清 "wikilink")（おがさわら しょうさい）
+  - [小笠原少斎](../Page/小笠原秀清.md "wikilink")（おがさわら しょうさい）
     演：[嶋田久作](../Page/嶋田久作.md "wikilink")
     細川家家臣。キリシタンであるため自害できないガラシャに懇願され、槍で胸を突いて介錯した。
   - [細川忠興](../Page/細川忠興.md "wikilink")（ほそかわ ただおき）
@@ -989,7 +989,7 @@
 <td><p>9月3日</p></td>
 <td><p>北条攻め</p></td>
 <td><p>加藤拓</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小田原城" title="wikilink">小田原城</a>天守閣（<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/小田原市.md" title="wikilink">小田原市</a>）</p></td>
+<td><p><a href="../Page/小田原城.md" title="wikilink">小田原城</a>天守閣（<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/小田原市.md" title="wikilink">小田原市</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第36回</p></td>

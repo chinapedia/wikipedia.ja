@@ -418,7 +418,7 @@ D<sub><em>2</em></sub> ( 5 <strong>,</strong> 10 )</p></td>
 
 [メインフレーム](../Page/メインフレーム.md "wikilink")2台をデュプレックス（二重化）構成とし、現用系のダウンに対応して即座に待機系がサービスを継続するようになっていた。センターは[東京](../Page/東京.md "wikilink")と[大阪](../Page/大阪.md "wikilink")に設置され、東京センターは同時接続可能数を約500とした。
 
-サブセンターは[1972年](../Page/1972年.md "wikilink")度末までに[横浜](../Page/横浜.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")、[神戸](../Page/神戸.md "wikilink")に開設、その後プッシュホン加入数に合わせて全国に拡大されていった。サブセンターとセンター間は2400[bpsの](../Page/ビット毎秒.md "wikilink")[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")で接続された。
+サブセンターは[1972年](../Page/1972年.md "wikilink")度末までに[横浜](../Page/横浜.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[京都](../Page/京都.md "wikilink")、[神戸](../Page/神戸.md "wikilink")に開設、その後プッシュホン加入数に合わせて全国に拡大されていった。サブセンターとセンター間は2400[bpsの](../Page/ビット毎秒.md "wikilink")[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")で接続された。
 
 ## 脚注
 

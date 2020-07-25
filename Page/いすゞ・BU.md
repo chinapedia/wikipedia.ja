@@ -67,7 +67,7 @@
 
   - [北村車体](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")
 
-ファイル:Gunma bus BU10 kitamura.jpg|BU10 [群馬バス](../Page/群馬バス.md "wikilink") バス窓 ファイル:MDC-BUS-No461.jpg|BU10K [松本電気鉄道](../Page/松本電鉄バス.md "wikilink") 1974年式まではバス窓 ファイル:MDC-BUS-No517-Front.jpg|BU10K 松本電気鉄道 1975年式以降はアルミサッシ化 ファイル:Kanachu BU10D Kitamura.jpg|BU10D [神奈川中央交通](https://ja.wikipedia.org/wiki/神奈川中央交通 "wikilink")
+ファイル:Gunma bus BU10 kitamura.jpg|BU10 [群馬バス](../Page/群馬バス.md "wikilink") バス窓 ファイル:MDC-BUS-No461.jpg|BU10K [松本電気鉄道](../Page/松本電鉄バス.md "wikilink") 1974年式まではバス窓 ファイル:MDC-BUS-No517-Front.jpg|BU10K 松本電気鉄道 1975年式以降はアルミサッシ化 ファイル:Kanachu BU10D Kitamura.jpg|BU10D [神奈川中央交通](../Page/神奈川中央交通.md "wikilink")
 
   - [日野車体](../Page/日野車体工業.md "wikilink")
 

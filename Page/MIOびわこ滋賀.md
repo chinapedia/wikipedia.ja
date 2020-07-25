@@ -107,7 +107,7 @@
 
 ### 年度別入場者数
 
-  - 東近江:[東近江市布引運動公園陸上競技場](https://ja.wikipedia.org/wiki/東近江市布引運動公園陸上競技場 "wikilink")、甲賀:[甲賀市水口スポーツの森](https://ja.wikipedia.org/wiki/甲賀市水口スポーツの森 "wikilink")陸上競技場、湖南:[湖南市市民グラウンド陸上競技場](https://ja.wikipedia.org/wiki/湖南市市民グラウンド陸上競技場 "wikilink")、皇子山:[皇子山陸上競技場](../Page/皇子山陸上競技場.md "wikilink")
+  - 東近江:[東近江市布引運動公園陸上競技場](https://ja.wikipedia.org/wiki/東近江市布引運動公園陸上競技場 "wikilink")、甲賀:[甲賀市水口スポーツの森](https://ja.wikipedia.org/wiki/甲賀市水口スポーツの森 "wikilink")陸上競技場、湖南:[湖南市市民グラウンド陸上競技場](../Page/湖南市市民グラウンド陸上競技場.md "wikilink")、皇子山:[皇子山陸上競技場](../Page/皇子山陸上競技場.md "wikilink")
   - 入場者数の**太字**は各所属ディビジョン毎の歴代最多。
   - 試合数および観客入場者数データはリーグ戦のみ。
 

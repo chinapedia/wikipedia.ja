@@ -5,7 +5,7 @@
 
 ## 概説
 
-[MARTIJN Associationにより](../Page/MARTIJN.md "wikilink")[編集](../Page/編集.md "wikilink")・[出版](../Page/出版.md "wikilink")されている、[小児愛専門誌](../Page/ペドフィリア.md "wikilink")。不定期刊で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")創刊。
+[MARTIJN Associationにより](../Page/MARTIJN.md "wikilink")[編集](../Page/編集.md "wikilink")・[出版](../Page/出版.md "wikilink")されている、[小児愛専門誌](../Page/ペドフィリア.md "wikilink")。不定期刊で[1986年](../Page/1986年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")創刊。
 
 創刊当時は小児愛関連の[歴史](../Page/歴史.md "wikilink")や諸情報、[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")などで構成されていたが、最近では[小説](../Page/小説.md "wikilink")も多く含まれている。また、小児愛専門誌ではあるが、[少年愛](../Page/少年愛.md "wikilink")に傾いており、表紙の殆どは[少年](../Page/少年.md "wikilink")の[写真](../Page/写真.md "wikilink")で構成されている。
 
@@ -17,10 +17,10 @@
 
 ## 歴史
 
-  - 創刊号 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")発行
-  - 第2号 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")発行
-  - 第4号 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink")発行
-  - 第5号 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月](../Page/11月.md "wikilink")発行
+  - 創刊号 - [1986年](../Page/1986年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")発行
+  - 第2号 - [1986年](../Page/1986年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")発行
+  - 第4号 - [1986年](../Page/1986年.md "wikilink")[9月](../Page/9月.md "wikilink")発行
+  - 第5号 - [1986年](../Page/1986年.md "wikilink")[11月](../Page/11月.md "wikilink")発行
   - 第5号 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発行
   - 第6号 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")発行
   - 第7号 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")発行

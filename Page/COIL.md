@@ -1567,7 +1567,7 @@
 <li>他アーティストに提供した楽曲のセルフカバーを収録したセルフカバーミニアルバム。</li>
 </ul>
 <ol>
-<li>Good Day Afternoon (原曲：<a href="https://ja.wikipedia.org/wiki/Chappie" title="wikilink">Chappie</a>)</li>
+<li>Good Day Afternoon (原曲：<a href="../Page/Chappie.md" title="wikilink">Chappie</a>)</li>
 <li>ザルで水くむ恋心 (原曲：<a href="../Page/森高千里.md" title="wikilink">森高千里</a>)</li>
 <li>イコール ゼロ (原曲：<a href="../Page/杏子_(ミュージシャン).md" title="wikilink">杏子</a>)</li>
 <li>ハミングバード (原曲：<a href="https://ja.wikipedia.org/wiki/元ちとせ" title="wikilink">元ちとせ</a>)</li>
@@ -1609,13 +1609,13 @@
 
 ## 楽曲提供
 
-  - [森高千里](../Page/森高千里.md "wikilink") Album "[Sava Sava](https://ja.wikipedia.org/wiki/Sava_Sava "wikilink")"（1998年9月9日）
+  - [森高千里](../Page/森高千里.md "wikilink") Album "[Sava Sava](../Page/Sava_Sava.md "wikilink")"（1998年9月9日）
       -
         「ザルで水くむ恋心」作詞：森高千里　作曲：COIL　編曲：COIL
   - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink") Album "BLACKTHORN CIDER"（1999年3月3日）
       -
         「イコール・ゼロ」作詞：杏子　作曲：COIL　編曲：COIL
-  - [Chappie](https://ja.wikipedia.org/wiki/Chappie "wikilink") maxi single "Good Day Afternoon"（1999年5月5日）
+  - [Chappie](../Page/Chappie.md "wikilink") maxi single "Good Day Afternoon"（1999年5月5日）
       -
         「Good Day Afternoon」作詞：オカモトサダヨシ　作曲：オカモトサダヨシ　編曲：COIL
         「MCダイエット」作詞：サトウヨースケ　作曲：サトウヨースケ　編曲：COIL

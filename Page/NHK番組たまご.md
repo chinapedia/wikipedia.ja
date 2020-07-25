@@ -380,7 +380,7 @@ NHKでは以前から、新番組編成の参考となる[特別番組](../Page/
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | 1月3日                                                                   | ストリートダンスの国の王子様※                                                                                              | 教育テレビで放送                                                          |
 | [1月14日](../Page/1月14日.md "wikilink")                                   | [にっぽん熱中クラブ](https://ja.wikipedia.org/wiki/熱中スタジアム#にっぽん熱中クラブ "wikilink")                                      | BS2で放送                                                            |
-| [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")                | [さんぷんまる](https://ja.wikipedia.org/wiki/さんぷんまる "wikilink")                                                    | ※                                                                 |
+| [1月26日](../Page/1月26日.md "wikilink")                                   | [さんぷんまる](https://ja.wikipedia.org/wiki/さんぷんまる "wikilink")                                                    | ※                                                                 |
 | [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")                | 笑謝和（ワラシャワ）〜笑いのシャワー拡大版〜                                                                                       |                                                                   |
 | [3月19](../Page/3月19日.md "wikilink")・[20日](../Page/3月20日.md "wikilink") | EE感じに社会人                                                                                                     |                                                                   |
 | 3月20日                                                                  | [森山家の大パニック\!](https://ja.wikipedia.org/wiki/森山家の大パニック! "wikilink")                                           |                                                                   |
@@ -1381,7 +1381,7 @@ NHKでは以前から、新番組編成の参考となる[特別番組](../Page/
 <tr class="odd">
 <td><p>2009年4月</p></td>
 <td><p>2009年5月</p></td>
-<td><p>（<a href="https://ja.wikipedia.org/wiki/EYES_(NHK)" title="wikilink">EYES</a>）<a href="https://ja.wikipedia.org/wiki/笑・神・降・臨" title="wikilink">笑・神・降・臨</a></p></td>
+<td><p>（<a href="../Page/EYES_(NHK).md" title="wikilink">EYES</a>）<a href="https://ja.wikipedia.org/wiki/笑・神・降・臨" title="wikilink">笑・神・降・臨</a></p></td>
 <td><p>同題</p></td>
 </tr>
 <tr class="even">

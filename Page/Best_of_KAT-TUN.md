@@ -1,7 +1,7 @@
 > この記事は[Best of KAT-TUN](https://ja.wikipedia.org/wiki/Best_of_KAT-TUN)から翻訳されています。
 
 
-『**Best of KAT-TUN**』（ベスト オブ カトゥーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+『**Best of KAT-TUN**』（ベスト オブ カトゥーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

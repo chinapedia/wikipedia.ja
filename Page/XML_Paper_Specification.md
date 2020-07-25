@@ -26,7 +26,7 @@ OpenXPS と XPS の違い\[3\]
 
 ## ソフトウェアとハードウェアのサポート
 
-マイクロソフトは [Microsoft Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") で XPS の閲覧および出力をサポートしたが、[Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") バージョン 1803 で機能が削除された\[4\]。マイクロソフト以外の XPS の取り扱いは、ソフトウェアとハードウェアのいずれかまたは両方での対応が増えてきている\[5\]。Windows 以外の環境、Mac OS X や GNU/Linux 環境においても、[KDE](../Page/KDE.md "wikilink") プロジェクトの [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink") や [NiXPS](https://ja.wikipedia.org/wiki/NiXPS "wikilink") をはじめ、XPS に対応したものがある。
+マイクロソフトは [Microsoft Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") で XPS の閲覧および出力をサポートしたが、[Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") バージョン 1803 で機能が削除された\[4\]。マイクロソフト以外の XPS の取り扱いは、ソフトウェアとハードウェアのいずれかまたは両方での対応が増えてきている\[5\]。Windows 以外の環境、Mac OS X や GNU/Linux 環境においても、[KDE](../Page/KDE.md "wikilink") プロジェクトの [Okular](../Page/Okular.md "wikilink") や [NiXPS](https://ja.wikipedia.org/wiki/NiXPS "wikilink") をはじめ、XPS に対応したものがある。
 
 ## 脚注
 

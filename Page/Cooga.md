@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")、[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")大宮スケートセンター大会で神谷美織として対[高橋美香戦でデビュー](../Page/高橋美華.md "wikilink")。
+[1986年](../Page/1986年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")、[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")大宮スケートセンター大会で神谷美織として対[高橋美香戦でデビュー](../Page/高橋美華.md "wikilink")。
 
 [1992年](../Page/1992年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、引退。
 

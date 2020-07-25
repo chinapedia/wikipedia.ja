@@ -97,7 +97,7 @@
 ## エピソード
 
   - "Chirolyn"という芸名は「幼い頃、*ヒロシ*と発音できず、自分のことを*チロシ*と言っていた」ことから。
-  - hideのライブ中『LEMONed I Scream』という楽曲では、ロザンナという女性キャラクターに扮して"hideとロザンナ"としてhideとデュエットをした（元ネタは[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にデビューして一世を風靡した[ヒデとロザンナ](../Page/ヒデとロザンナ.md "wikilink")）。また自作曲『KIMI WA KAWATTCHIMATTA』も披露したが、この時のベース演奏はhideであった。
+  - hideのライブ中『LEMONed I Scream』という楽曲では、ロザンナという女性キャラクターに扮して"hideとロザンナ"としてhideとデュエットをした（元ネタは[1968年](../Page/1968年.md "wikilink")にデビューして一世を風靡した[ヒデとロザンナ](../Page/ヒデとロザンナ.md "wikilink")）。また自作曲『KIMI WA KAWATTCHIMATTA』も披露したが、この時のベース演奏はhideであった。
   - 布袋寅泰『SPACE COWBOY TOUR』におけるクレジットは"SPACE GERONIMO (HIROSHI) "となっている。
 
 ## サポートしたアーティスト
@@ -115,7 +115,7 @@
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
       -
         2010年『[Can We Go Back](https://ja.wikipedia.org/wiki/Can_We_Go_Back "wikilink")』PVやテレビにもバックバンドとして出演。
-  - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
+  - [ZIGGY](../Page/ZIGGY.md "wikilink")
       -
         “ウッディ渡邊紘士”名義でデビュー10周年ライブなどに参加。
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")

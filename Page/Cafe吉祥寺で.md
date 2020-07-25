@@ -299,7 +299,7 @@
 
   - 原作：『Cafe吉祥寺で』（作：宮本夕生、著者：ねぎしきょうこ）
   - 脚本：[高山直也](../Page/高山直也.md "wikilink")、[國沢真理子](https://ja.wikipedia.org/wiki/國沢真理子 "wikilink")、[半澤律子](https://ja.wikipedia.org/wiki/半澤律子 "wikilink")
-  - 監督：[本橋圭太](../Page/本橋圭太.md "wikilink")、[浅見真史](https://ja.wikipedia.org/wiki/浅見真史 "wikilink")、[近藤俊明](https://ja.wikipedia.org/wiki/近藤俊明 "wikilink")、[島﨑敏樹](https://ja.wikipedia.org/wiki/島﨑敏樹 "wikilink")
+  - 監督：[本橋圭太](../Page/本橋圭太.md "wikilink")、[浅見真史](https://ja.wikipedia.org/wiki/浅見真史 "wikilink")、[近藤俊明](../Page/近藤俊明.md "wikilink")、[島﨑敏樹](https://ja.wikipedia.org/wiki/島﨑敏樹 "wikilink")
   - プロデューサー：浦井孝行・櫻井美恵子（国際放映）
   - チーフプロデューサー：橋本かおり（テレビ東京）
   - 音楽：[福島祐子](https://ja.wikipedia.org/wiki/福島祐子 "wikilink")

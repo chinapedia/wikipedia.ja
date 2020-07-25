@@ -7,7 +7,7 @@
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、[芳野藤丸](../Page/芳野藤丸.md "wikilink")を中心に腕利き[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")で編成され、One Line Band名義で[アルバム](../Page/アルバム.md "wikilink")『Yellow Magic』を[ビクター音楽産業より発売する](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。このバンドに[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")の[飯田則子](https://ja.wikipedia.org/wiki/飯田則子 "wikilink")が目をつけ、[1979年](../Page/1979年.md "wikilink")、[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[俺たちは天使だ\!](../Page/俺たちは天使だ!.md "wikilink")』の音楽担当として抜擢される事となる。このドラマの音楽を手がけるにあたり、メンバーに[ケーシー・ランキン](../Page/ケーシー・ランキン.md "wikilink")を迎え入れ、バンド名をSHŌGUNと変更する。ドラマの[主題歌](../Page/主題歌.md "wikilink")となった「[男達のメロディー](https://ja.wikipedia.org/wiki/男達のメロディー "wikilink")」は50万枚を超えるヒットを記録した。1979年10月、テレビアニメ映画『[大恐竜時代](https://ja.wikipedia.org/wiki/大恐竜時代 "wikilink")』の音楽を担当。
 
-バンド名の由来は、たまたま番組の開始前に日本テレビ音楽の[砂土居政和](https://ja.wikipedia.org/wiki/砂土居政和 "wikilink")がアメリカへ旅行をした際、空港で山積みにされていた本『[将軍 SHŌGUN](https://ja.wikipedia.org/wiki/将軍_SHOGUN "wikilink")』を見たのがきっかけで、その砂土居の「バンド名はSHŌGUN（将軍）でどうかな?」と部下の飯田の夢であった「外国でも通用できるバンド名」という希望と一致し、決定した。この事実からもわかる通り、当初はSHŌGUNとしてのグループ活動はメンバーの念頭にはなかったのである。
+バンド名の由来は、たまたま番組の開始前に日本テレビ音楽の[砂土居政和](https://ja.wikipedia.org/wiki/砂土居政和 "wikilink")がアメリカへ旅行をした際、空港で山積みにされていた本『[将軍 SHŌGUN](../Page/将軍_SHOGUN.md "wikilink")』を見たのがきっかけで、その砂土居の「バンド名はSHŌGUN（将軍）でどうかな?」と部下の飯田の夢であった「外国でも通用できるバンド名」という希望と一致し、決定した。この事実からもわかる通り、当初はSHŌGUNとしてのグループ活動はメンバーの念頭にはなかったのである。
 
 そして同年、ドラマ『[探偵物語](../Page/探偵物語.md "wikilink")』でも音楽と主題歌を担当した。メンバー全員がデビューの時点で既に10年以上[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")として活躍していた実力派であったが、わずか2年足らずで藤丸・[大谷和夫](../Page/大谷和夫.md "wikilink")の[マリファナ所持により活動停止となる](https://ja.wikipedia.org/wiki/大麻 "wikilink")。
 

@@ -1,7 +1,7 @@
 > この記事は[My Baby Grand 〜ぬくもりが欲しくて〜](https://ja.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜)から翻訳されています。
 
 
-「**My Baby Grand 〜ぬくもりが欲しくて〜**」（マイ・ベイビー・グランド ぬくもりがほしくて）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の23作目の[シングル](../Page/シングル.md "wikilink")。
+「**My Baby Grand 〜ぬくもりが欲しくて〜**」（マイ・ベイビー・グランド ぬくもりがほしくて）は、[ZARD](../Page/ZARD.md "wikilink")の23作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

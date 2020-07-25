@@ -25,7 +25,7 @@
 3.  **より道**
       -
         aikoによる弾き語りである。
-        この曲はカップリングとして扱われていたため『[彼女](../Page/彼女_\(アルバム\).md "wikilink")』『[秘密](https://ja.wikipedia.org/wiki/秘密_\(aikoのアルバム\) "wikilink")』には収録されていなかったが、アルバム『[BABY](https://ja.wikipedia.org/wiki/BABY_\(aikoのアルバム\) "wikilink")』にロックバージョンとして収録されている。アルバム2作を跨ぎカップリングが収録されるのは「[花火](../Page/花火_\(aikoの曲\).md "wikilink")」のカップリング曲「相合傘」が『[秋 そばにいるよ](../Page/秋_そばにいるよ.md "wikilink")』に収録されて以来2回目である。
+        この曲はカップリングとして扱われていたため『[彼女](../Page/彼女_\(アルバム\).md "wikilink")』『[秘密](../Page/秘密_\(aikoのアルバム\).md "wikilink")』には収録されていなかったが、アルバム『[BABY](https://ja.wikipedia.org/wiki/BABY_\(aikoのアルバム\) "wikilink")』にロックバージョンとして収録されている。アルバム2作を跨ぎカップリングが収録されるのは「[花火](../Page/花火_\(aikoの曲\).md "wikilink")」のカップリング曲「相合傘」が『[秋 そばにいるよ](../Page/秋_そばにいるよ.md "wikilink")』に収録されて以来2回目である。
 4.  キラキラ（instrumental）
 
 <!-- end list -->

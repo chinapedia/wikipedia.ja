@@ -5,7 +5,7 @@
 
 [1954年](../Page/1954年.md "wikilink")に第一回大会が行われ、[2020年](../Page/2020年.md "wikilink")で67回を数える。地方大会で上位に入賞した個人・団体が[東京](../Page/東京.md "wikilink")の[NHKホール](../Page/NHKホール.md "wikilink")と[国立オリンピック記念青少年総合センター](../Page/国立オリンピック記念青少年総合センター.md "wikilink")で開かれる全国大会で技を競い合う。
 
-なお、[1981年](../Page/1981年.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（第9回記念大会）まで行われた中学招待部門を踏まえ、[1984年](../Page/1984年.md "wikilink")より[NHK杯全国中学校放送コンテスト](https://ja.wikipedia.org/wiki/NHK杯全国中学校放送コンテスト "wikilink")が開かれている。
+なお、[1981年](../Page/1981年.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（第9回記念大会）まで行われた中学招待部門を踏まえ、[1984年](../Page/1984年.md "wikilink")より[NHK杯全国中学校放送コンテスト](../Page/NHK杯全国中学校放送コンテスト.md "wikilink")が開かれている。
 
 2020年の第67回大会は[オリンピック・パラリンピックにより東京での開催が難しいため](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")、神戸・[甲南大学](../Page/甲南大学.md "wikilink")で開催される予定だったが、新型コロナウイルスの感染拡大のため、全国大会・都道府県大会ともに中止が決まった\[1\]。
 
@@ -145,7 +145,7 @@
 
 ### 平成29年 (第64回) の朗読指定作品
 
-1.  「[掌の小説](https://ja.wikipedia.org/wiki/掌の小説 "wikilink")」[川端康成](https://ja.wikipedia.org/wiki/川端康成 "wikilink") 著 (新潮文庫)
+1.  「[掌の小説](../Page/掌の小説.md "wikilink")」[川端康成](https://ja.wikipedia.org/wiki/川端康成 "wikilink") 著 (新潮文庫)
 2.  「遠い朝の本たち」[須賀敦子](../Page/須賀敦子.md "wikilink") 著 (ちくま文庫)
 3.  「チア男子\!\!」[朝井リョウ](https://ja.wikipedia.org/wiki/朝井リョウ "wikilink") 著 (集英社文庫)
 4.  「愛の妖精」[ジョルジュ・サンド](../Page/ジョルジュ・サンド.md "wikilink") 著／[宮崎嶺雄](../Page/宮崎嶺雄.md "wikilink") 訳 (岩波文庫)
@@ -397,7 +397,7 @@ RKB毎日放送</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲塚貴一" title="wikilink">稲塚貴一</a> ・ア<br />
+<td><p><a href="../Page/稲塚貴一.md" title="wikilink">稲塚貴一</a> ・ア<br />
 NHK</p></td>
 <td></td>
 <td></td>

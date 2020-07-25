@@ -195,7 +195,7 @@
 <td><p>25</p></td>
 <td><p><strong><a href="../Page/青木真也.md" title="wikilink">青木真也</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/石川直生" title="wikilink">石川直生</a></strong></p></td>
+<td><p><strong><a href="../Page/石川直生.md" title="wikilink">石川直生</a></strong></p></td>
 <td><p><small>ムエタイ好きバカサバイバーvsキックボクサーナオキックの対談。</small></p></td>
 </tr>
 <tr class="even">

@@ -516,7 +516,7 @@
 
   - [ナンパリス・メンディ](https://ja.wikipedia.org/wiki/ナンパリス・メンディ "wikilink") 2013-2016, 2017-2018
 
-  - [マチュー・ボドメ](https://ja.wikipedia.org/wiki/マチュー・ボドメ "wikilink") 2013-2017
+  - [マチュー・ボドメ](../Page/マチュー・ボドメ.md "wikilink") 2013-2017
 
   - [ハテム・ベン・アルファ](../Page/ハテム・ベン・アルファ.md "wikilink") 2015-2016
 

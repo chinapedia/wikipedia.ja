@@ -200,7 +200,7 @@ Scribes は [GNU General Public License](../Page/GNU_General_Public_License.md "
 
 ## 関連項目
 
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
 ## 外部リンク
 

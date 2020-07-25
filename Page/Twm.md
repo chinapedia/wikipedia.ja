@@ -7,7 +7,7 @@
 
 現在では何らかの原因で[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")などが立ち上がらない時などに、緊急用として使われているのがほとんどであるが、動作の軽快さ、仕様の単純さ、カスタマイズのしやすさ、他ライブラリへの依存度の少なさといった理由により少数の愛好者が存在する。
 
-コードはもはやメンテナンスされていないが、[swm](https://ja.wikipedia.org/wiki/swm "wikilink")、[vtwm](https://ja.wikipedia.org/wiki/vtwm "wikilink")、[CTWM](https://ja.wikipedia.org/wiki/CTWM "wikilink")、[FVWM](../Page/FVWM.md "wikilink")といった様々な派生が作られている。
+コードはもはやメンテナンスされていないが、[swm](https://ja.wikipedia.org/wiki/swm "wikilink")、[vtwm](https://ja.wikipedia.org/wiki/vtwm "wikilink")、[CTWM](../Page/CTWM.md "wikilink")、[FVWM](../Page/FVWM.md "wikilink")といった様々な派生が作られている。
 
 ## 歴史
 

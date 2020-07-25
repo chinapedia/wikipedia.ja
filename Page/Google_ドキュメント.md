@@ -61,7 +61,7 @@ Google ドキュメントから直接[ブログ](../Page/ブログ.md "wikilink"
   - [Google ドライブ](https://ja.wikipedia.org/wiki/Google_ドライブ "wikilink")
   - [オンラインスプレッドシート](https://ja.wikipedia.org/wiki/オンラインスプレッドシート "wikilink")
   - [オフィススイートの比較](../Page/オフィススイートの比較.md "wikilink")
-  - [OpenDocumentをサポートするアプリケーションの一覧](https://ja.wikipedia.org/wiki/OpenDocumentをサポートするアプリケーションの一覧 "wikilink")
+  - [OpenDocumentをサポートするアプリケーションの一覧](../Page/OpenDocumentをサポートするアプリケーションの一覧.md "wikilink")
   - [PaaS](https://ja.wikipedia.org/wiki/PaaS "wikilink")
   - [クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")
   - [ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")

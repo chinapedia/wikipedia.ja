@@ -163,7 +163,7 @@
       - 44thシングル。[CX系列連続ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[傷だらけの女](../Page/傷だらけの女.md "wikilink")』主題歌。オリジナルアルバム未収録。
 15. **永遠の嘘をついてくれ**
       -
-        作詞・作曲:[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink") 編曲：吉田拓郎
+        作詞・作曲:[中島みゆき](../Page/中島みゆき.md "wikilink") 編曲：吉田拓郎
     <!-- end list -->
       - 23rdアルバム『[Long time no see](https://ja.wikipedia.org/wiki/Long_time_no_see "wikilink")』より。[1996年](../Page/1996年.md "wikilink")中島みゆきが[セルフカバー](../Page/セルフカバー.md "wikilink")。
 16. **僕の人生の今は何章目ぐらいだろう**

@@ -38,7 +38,7 @@
   - [MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")（両曲、\#1はオリジナルバージョンとChristmas Standard、\#2は愛Version）
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 1](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends#SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends_1 "wikilink")（\#1）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1、Re Track）
-  - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](https://ja.wikipedia.org/wiki/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!! "wikilink")（\#1、ライブ音源とGospel mix）
+  - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](../Page/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!!.md "wikilink")（\#1、ライブ音源とGospel mix）
   - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1、ライブ音源）
 
 **[PV集](../Page/ミュージック・ビデオ.md "wikilink")**
@@ -53,7 +53,7 @@
   - [FUN Greatest Hits of 90's](../Page/FUN_Greatest_Hits_of_90's.md "wikilink")（\#1）
   - Fantastic Christmas（\#1）
   - ウインターソング（\#1）
-  - [Lovely\! Cute\&Sweet J-Ballads](https://ja.wikipedia.org/wiki/Lovely!_Cute&Sweet_J-Ballads "wikilink")（\#1）
+  - [Lovely\! Cute\&Sweet J-Ballads](../Page/Lovely!_Cute&Sweet_J-Ballads.md "wikilink")（\#1）
   - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink") NO.1 HITS〜コイウタ（\#1）
   - J-ポッパー伝説涙\[DJ和 in No.1 J-POP MIX\]（\#1）
   - 胸キュン90's 〜ひとりで聴きたい恋の唄〜（\#1、Re Track）

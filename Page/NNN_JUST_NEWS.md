@@ -253,7 +253,7 @@
   - 1980年10月1日に長野の[NNN系列局として](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[テレビ信州](../Page/テレビ信州.md "wikilink")が開局しているが放送当時は[ANNとのクロスネットで](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、朝・深夜はNNN、昼・夕方はANNと決めていたため、放送しなかった。また、九州のNNN系列局である[テレビ大分](../Page/テレビ大分.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、現在はFNN単独局の[テレビ長崎](../Page/テレビ長崎.md "wikilink")はFNNの夕方の全国ニュースをネットしていて、この番組の時間帯もローカルニュースだったため放送しなかった。また、[広島テレビ放送](../Page/広島テレビ放送.md "wikilink")も、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")（FNN/FNS系）が開局する1975年10月1日以後にNNN/NNSへのネット一本化に伴ってネットを開始しており、それまではFNNニュースをネットしていたため放送がなかった。
   - 現在はFNN単独局の[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")もクロスネット局当時この時間帯はアニメ枠であり、テレビ新潟開局まで新潟県では放送しなかった。
   - キャスターの國弘正雄が挨拶を行うスタジオシーンで、走査線にビデオテープのドロップアウトが認められた事がある。当時のオープニングでは、いち早く導入された最新のタイプCフォーマットVTRをパンするシーンを流していたが、一部または全シーンを事前収録してオフライン放映していたと考えられる。
-  - [北日本放送](../Page/北日本放送.md "wikilink")では18:50 - 19:00に自社制作のクイズ番組『[ビバ\!クイズ](https://ja.wikipedia.org/wiki/ビバ!クイズ "wikilink")』を放送していたため18:50に当番組のネットを飛び降りており、後述の列島事件簿やAround The Worldは放送されなかった。
+  - [北日本放送](../Page/北日本放送.md "wikilink")では18:50 - 19:00に自社制作のクイズ番組『[ビバ\!クイズ](../Page/ビバ!クイズ.md "wikilink")』を放送していたため18:50に当番組のネットを飛び降りており、後述の列島事件簿やAround The Worldは放送されなかった。
   - [1979年](../Page/1979年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦（[後楽園球場](../Page/後楽園球場.md "wikilink")）で、[江川卓](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）が[プロ野球デビューを果たした](../Page/日本プロ野球.md "wikilink")。その時は19時から[プロ野球土曜ナイター中継が始まることになっていたが](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")、それに先駆け1回の立ち上がりの部分について[ディレード](../Page/撮って出し.md "wikilink")（映像には「中継録画」と表記。解説・[中村稔](../Page/中村稔_\(投手\).md "wikilink")、実況・[小川光明](../Page/小川光明.md "wikilink")）で放送された。
 
 <!-- end list -->
@@ -289,7 +289,7 @@
   - HTV 広島テレビ - [広島テレビニュース](../Page/広島テレビNEWS.md "wikilink")→[広島テレビニュースアイ](https://ja.wikipedia.org/wiki/広島テレビニュースアイ "wikilink")
   - KRY 山口放送 - [KRYニュース](../Page/KRYニュース.md "wikilink")→[KRY テレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")
   - FBS 福岡放送 - [FBSニュース](https://ja.wikipedia.org/wiki/FBS_NEWS "wikilink")→[FBSニュースリポート](https://ja.wikipedia.org/wiki/FBSニュースリポート "wikilink")→[FBS EVENING NEWS](https://ja.wikipedia.org/wiki/FBS_EVENING_NEWS "wikilink")（17時台へ移動）
-  - KKT くまもと県民テレビ - [KKTニュース](https://ja.wikipedia.org/wiki/KKTニュース "wikilink")
+  - KKT くまもと県民テレビ - [KKTニュース](../Page/KKTニュース.md "wikilink")
   - KTS 鹿児島テレビ - [KTSテレビ夕刊](../Page/KTSテレビ夕刊.md "wikilink")
 
 ## 主なコーナー

@@ -13,7 +13,7 @@
 
 [オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")タイトルの冒頭部分で、[風林火山](../Page/風林火山.md "wikilink")の句「**疾きこと風の如く、徐かなること林の如く、侵掠すること火の如く、動かざること山の如し**」が内野聖陽によって朗読されており、第30回放送分より新たに収録し直されたものを放送している。
 
-本編・次回予告の後、関連する名所・名刹を紹介するコーナー「風林火山紀行」が設けられた。最終回では、武田家と上杉家のその後について紹介された。[クランクイン](https://ja.wikipedia.org/wiki/クランクイン "wikilink")当初は全49回（2007年12月9日終了）での放送予定だったが、番組の人気と、[クライマックス](../Page/クライマックス.md "wikilink")である第四次川中島の戦いの[ロケで迫力シーンが多く撮れたことを理由に急遽](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")1話分を増やし、全50回放送へと変更された\[5\]。大河ドラマ放送途中での増話決定は例が無い。なおNHKが公開した「平成19年度収支予算と事業計画の説明資料」によると、1話当たりの制作費は6,080万円となっている。
+本編・次回予告の後、関連する名所・名刹を紹介するコーナー「風林火山紀行」が設けられた。最終回では、武田家と上杉家のその後について紹介された。[クランクイン](https://ja.wikipedia.org/wiki/クランクイン "wikilink")当初は全49回（2007年12月9日終了）での放送予定だったが、番組の人気と、[クライマックス](../Page/クライマックス.md "wikilink")である第四次川中島の戦いの[ロケで迫力シーンが多く撮れたことを理由に急遽](../Page/ロケーション撮影.md "wikilink")1話分を増やし、全50回放送へと変更された\[5\]。大河ドラマ放送途中での増話決定は例が無い。なおNHKが公開した「平成19年度収支予算と事業計画の説明資料」によると、1話当たりの制作費は6,080万円となっている。
 
 最高視聴率22.9%、平均視聴率18.7%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）\[6\]。
 
@@ -21,7 +21,7 @@
 
 制作統括の[若泉久朗](https://ja.wikipedia.org/wiki/若泉久朗 "wikilink")（脚本の大森寿美男とは連続テレビ小説『[てるてる家族](../Page/てるてる家族.md "wikilink")』でもコンビを組む）は、「**本格派かつ新鮮**」「**新鮮かつ重厚**」をモットーとし、いわゆる「大河ドラマ常連俳優」\[7\]や「[民放でおなじみの人気](../Page/民間放送.md "wikilink")[タレント](../Page/タレント.md "wikilink")・[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」などを極力排した配役を行った。主演の[内野聖陽](../Page/内野聖陽.md "wikilink")は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")『[徳川慶喜](../Page/徳川慶喜_\(NHK大河ドラマ\).md "wikilink")』以来、2度目の出演にしての主役を射止めた。
 
-今回が大河ドラマ初出演となる[板垣信方](../Page/板垣信方.md "wikilink")役の[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")を筆頭に、武田信玄役に[歌舞伎](../Page/歌舞伎.md "wikilink")役者の[二代目 市川亀治郎](../Page/市川猿之助_\(4代目\).md "wikilink")、[上杉謙信](../Page/上杉謙信.md "wikilink")役に[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")、ヒロイン[由布姫役に新人の](../Page/諏訪御料人.md "wikilink")[柴本幸](../Page/柴本幸.md "wikilink")、[北条氏康](../Page/北条氏康.md "wikilink")役に[大衆演劇](https://ja.wikipedia.org/wiki/大衆演劇 "wikilink")の[松井誠](../Page/松井誠.md "wikilink")など、テレビドラマでの[露出の少ない役者](https://ja.wikipedia.org/wiki/露出_\(宣伝\) "wikilink")、または大河ドラマ初出演となる役者陣が主要キャストに名を連ねた。その他、[加藤武](../Page/加藤武.md "wikilink")・[仲代達矢](../Page/仲代達矢.md "wikilink")・[金田明夫](../Page/金田明夫.md "wikilink")・[小日向文世](../Page/小日向文世.md "wikilink")ら舞台演劇を主に活動する俳優、[声優](../Page/声優.md "wikilink")を掛け持つ[伊武雅刀](../Page/伊武雅刀.md "wikilink")、[桜井幸子](../Page/桜井幸子.md "wikilink")・[池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")・[佐藤隆太](../Page/佐藤隆太.md "wikilink")・[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")など、ベテランから若手に至るまで映画・テレビドラマ・演劇の各界で活躍する俳優陣が脇を固めた。全体的な配役は一般的な知名度よりも演技力を重要視しており、そのため近年の大河ドラマに見られた配役傾向とは異なっているが\[8\]、各出演者の演技は総じてメディアで評価されている\[9\]\[10\]。さらに[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")・[笹野高史](../Page/笹野高史.md "wikilink")・[鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")・[佐藤慶](../Page/佐藤慶.md "wikilink")・[井川遥](https://ja.wikipedia.org/wiki/井川遥 "wikilink")・[緑魔子](../Page/緑魔子.md "wikilink")などがゲスト出演した。
+今回が大河ドラマ初出演となる[板垣信方](../Page/板垣信方.md "wikilink")役の[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")を筆頭に、武田信玄役に[歌舞伎](../Page/歌舞伎.md "wikilink")役者の[二代目 市川亀治郎](../Page/市川猿之助_\(4代目\).md "wikilink")、[上杉謙信](../Page/上杉謙信.md "wikilink")役に[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")、ヒロイン[由布姫役に新人の](../Page/諏訪御料人.md "wikilink")[柴本幸](../Page/柴本幸.md "wikilink")、[北条氏康](../Page/北条氏康.md "wikilink")役に[大衆演劇](../Page/大衆演劇.md "wikilink")の[松井誠](../Page/松井誠.md "wikilink")など、テレビドラマでの[露出の少ない役者](https://ja.wikipedia.org/wiki/露出_\(宣伝\) "wikilink")、または大河ドラマ初出演となる役者陣が主要キャストに名を連ねた。その他、[加藤武](../Page/加藤武.md "wikilink")・[仲代達矢](../Page/仲代達矢.md "wikilink")・[金田明夫](../Page/金田明夫.md "wikilink")・[小日向文世](../Page/小日向文世.md "wikilink")ら舞台演劇を主に活動する俳優、[声優](../Page/声優.md "wikilink")を掛け持つ[伊武雅刀](../Page/伊武雅刀.md "wikilink")、[桜井幸子](../Page/桜井幸子.md "wikilink")・[池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")・[佐藤隆太](../Page/佐藤隆太.md "wikilink")・[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")など、ベテランから若手に至るまで映画・テレビドラマ・演劇の各界で活躍する俳優陣が脇を固めた。全体的な配役は一般的な知名度よりも演技力を重要視しており、そのため近年の大河ドラマに見られた配役傾向とは異なっているが\[8\]、各出演者の演技は総じてメディアで評価されている\[9\]\[10\]。さらに[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")・[笹野高史](../Page/笹野高史.md "wikilink")・[鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")・[佐藤慶](../Page/佐藤慶.md "wikilink")・[井川遥](https://ja.wikipedia.org/wiki/井川遥 "wikilink")・[緑魔子](../Page/緑魔子.md "wikilink")などがゲスト出演した。
 
 例年に比べ一部キャストの発表時期が遅く、[宇佐美定満](../Page/宇佐美定満.md "wikilink")役の[緒形拳](../Page/緒形拳.md "wikilink")や[村上義清](../Page/村上義清.md "wikilink")役の[永島敏行](../Page/永島敏行.md "wikilink")などドラマ後半の主要人物のキャストの多くは放送時の6月以降に発表されたが、これは若泉の方針によるものである。
 
@@ -524,7 +524,7 @@
 
   - [北条氏康](../Page/北条氏康.md "wikilink")（ほうじょう うじやす）
     演：[松井誠](../Page/松井誠.md "wikilink")
-    [相模国](../Page/相模国.md "wikilink")[北条家](https://ja.wikipedia.org/wiki/後北条氏 "wikilink")3代目当主で、晴信や義元と並ぶ名将。晴信とは同世代である。父・氏綱の「義を守りての滅亡と、義を捨てての栄華とは、天地格別にて候」など五箇条の遺訓をよく守り、関東へ勢力を拡大した。勘助は浪人時代に北条家へも仕官を求め、氏康は勘助の才を認めつつも武田家への復讐を諫める。このときの縁で、勘助はしばしば使者として北条家へも赴いている。河越野戦では10倍もの上杉氏の連合軍を破ったが、自らを「臆病者」と自覚しており、「無理な戦はしない」ことを信条としている。関東に出兵した政虎と対峙した際には[小田原城](https://ja.wikipedia.org/wiki/小田原城 "wikilink")に篭城して上杉勢を迎え撃ち、氏康の要請で出兵に応じた武田軍の北信濃侵攻により上杉勢が退却するまでの間、多大な被害を与えた。
+    [相模国](../Page/相模国.md "wikilink")[北条家](https://ja.wikipedia.org/wiki/後北条氏 "wikilink")3代目当主で、晴信や義元と並ぶ名将。晴信とは同世代である。父・氏綱の「義を守りての滅亡と、義を捨てての栄華とは、天地格別にて候」など五箇条の遺訓をよく守り、関東へ勢力を拡大した。勘助は浪人時代に北条家へも仕官を求め、氏康は勘助の才を認めつつも武田家への復讐を諫める。このときの縁で、勘助はしばしば使者として北条家へも赴いている。河越野戦では10倍もの上杉氏の連合軍を破ったが、自らを「臆病者」と自覚しており、「無理な戦はしない」ことを信条としている。関東に出兵した政虎と対峙した際には[小田原城](../Page/小田原城.md "wikilink")に篭城して上杉勢を迎え撃ち、氏康の要請で出兵に応じた武田軍の北信濃侵攻により上杉勢が退却するまでの間、多大な被害を与えた。
   - [北条氏綱](../Page/北条氏綱.md "wikilink")（ほうじょう うじつな）
     演：[品川徹](../Page/品川徹.md "wikilink")
     相模国北条家2代目当主、氏康の父。甲斐へ攻め入り、武田信虎と戦う。死に際し、嫡子・氏康に五箇条の遺訓を残す。
@@ -547,7 +547,7 @@
   - 福島彦十郎（くしま ひこじゅうろう）
     演：[崎本大海](../Page/崎本大海.md "wikilink")
     福島越前守の嫡子。花倉の乱で父を襲った勘助を恨む。後に縁故で北条家を頼り、訪れた勘助と再会する。河越夜戦では勘助を狙撃し、瀕死の重傷を負わせた。
-  - [弁千代](https://ja.wikipedia.org/wiki/北条綱房 "wikilink")（べんちよ）
+  - [弁千代](../Page/北条綱房.md "wikilink")（べんちよ）
     氏康の小姓。北条綱成の実弟にあたる。河越夜戦に従軍。
 
 #### 上杉（関東管領）家と武蔵・上野の豪族たち
@@ -563,7 +563,7 @@
     上杉憲政の嫡子。平井城から越後に落ち延びた父憲政と別れ、上野に残るも妻鹿田新介らの寝返りにより、北条氏康の下に引き出される。最期は氏康の前で縄を解かれ、渡された刀で氏康の額に傷を付けて一矢報いたものの、直後に氏康自身の手で斬られた。その最期を氏康は、「義を守りての滅亡」と讃えた。
   - [倉賀野直行](../Page/倉賀野尚行.md "wikilink")（くらがの なおゆき）
     演：[大門正明](../Page/大門正明.md "wikilink")
-    憲政の家臣。[倉賀野城](https://ja.wikipedia.org/wiki/倉賀野城 "wikilink")城主。北条氏康の攻撃により主君憲政が関東を追われると、それに付き従い、共に越後の景虎のもとへ身を寄せた。
+    憲政の家臣。[倉賀野城](../Page/倉賀野城.md "wikilink")城主。北条氏康の攻撃により主君憲政が関東を追われると、それに付き従い、共に越後の景虎のもとへ身を寄せた。
   - [妻鹿田新介](https://ja.wikipedia.org/wiki/妻鹿田新助 "wikilink")（めかた しんすけ）
     演：[田中実](../Page/田中実_\(俳優\).md "wikilink")
     憲政の家臣で、妻は竜若丸の乳母。平井城落城の際、氏康の追っ手から逃れようとする憲政に対し、二人が同時に捕らえられて上杉家の血が絶えてしまうことを理由に竜若丸とは別々に逃げるよう提言し、自身は竜若丸の護衛を引き受ける。だが、それは新介の謀略であり、竜若丸を捕らえそれを手土産に北条に寝返ろうとしたためであった。竜若丸を氏康に引き渡そうとするものの、その卑怯な行いに怒った氏康の命で成敗された。
@@ -709,7 +709,7 @@
     演：[岡森諦](../Page/岡森諦.md "wikilink")
     諏訪家に仕える地侍、ヒサの父。男手ひとつでヒサを育てる。最初はヒサが平蔵に思いを寄せているのに頭を痛め、諏訪西方衆の有賀家に輿入れさせた。諏訪家が武田に降った後は、諏訪を離れ大井貞隆、村上義清を頼ってあくまでも武田に抗う。寄親の須田新左衛門の名代として松尾城を攻めるが、真田幸隆の謀略によって討ち死にした。その後、平蔵とヒサによって墓を建てられ、平蔵はその墓に元は勘助のものだった摩利支天のお守りを供えた。後にその墓を勘助と幸隆、忍芽が見つけ、摩利支天のお守りは再び勘助の元へ戻った。
   - 十吾郎（じゅうごろう）
-    演：[吉田翔](https://ja.wikipedia.org/wiki/吉田翔_\(俳優\) "wikilink")
+    演：[吉田翔](../Page/吉田翔_\(俳優\).md "wikilink")
     平蔵とヒサの長男。祖父の名から命名。
   - ミツ
     演：[相原綺羅](https://ja.wikipedia.org/wiki/相原綺羅 "wikilink")
@@ -925,7 +925,7 @@
 <td><p>2月11日</p></td>
 <td><p>仕官への道</p></td>
 <td><p>磯智明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小田原城" title="wikilink">小田原城</a>（<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/小田原市.md" title="wikilink">小田原市</a>）<br />
+<td><p><a href="../Page/小田原城.md" title="wikilink">小田原城</a>（<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/小田原市.md" title="wikilink">小田原市</a>）<br />
 <a href="../Page/早雲寺.md" title="wikilink">早雲寺</a>（神奈川県<a href="../Page/箱根町.md" title="wikilink">箱根町</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1238,7 +1238,7 @@
 <td><p>いざ川中島</p></td>
 <td><p>清水一彦</p></td>
 <td><p>海津城［<a href="../Page/松代城.md" title="wikilink">松代城</a>］（長野県長野市）<br />
-<a href="https://ja.wikipedia.org/wiki/妻女山" title="wikilink">妻女山</a>（長野県長野市）</p></td>
+<a href="../Page/妻女山.md" title="wikilink">妻女山</a>（長野県長野市）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第49回</p></td>

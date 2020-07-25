@@ -9,7 +9,7 @@
 
 13歳でスカウトされ[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』の[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")となる\[3\]。[2009年](../Page/2009年.md "wikilink")から『[Oggi](https://ja.wikipedia.org/wiki/Oggi "wikilink")』の専属モデルをつとめている。
 
-2013年、事務所を[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")から[ボン・イマージュ](https://ja.wikipedia.org/wiki/ボン・イマージュ "wikilink")に移籍した。2014年10月、オスカープロモーションに再所属した。 2019年1月、PKPに所属。
+2013年、事務所を[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")から[ボン・イマージュ](https://ja.wikipedia.org/wiki/ボン・イマージュ "wikilink")に移籍した。2014年10月、オスカープロモーションに再所属した。 2019年1月、PKPに所属。
 
 ## 出演
 

@@ -50,7 +50,7 @@
 
 ## テレビドラマ（1986年版）
 
-『**Wの悲劇 京都資産家殺人事件**』と題して、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")「[金曜女のドラマスペシャル](../Page/金曜女のドラマスペシャル.md "wikilink")」（毎週金曜日21:02 - 22:52）で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")に放送された\[3\]。
+『**Wの悲劇 京都資産家殺人事件**』と題して、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")「[金曜女のドラマスペシャル](../Page/金曜女のドラマスペシャル.md "wikilink")」（毎週金曜日21:02 - 22:52）で[1986年](../Page/1986年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に放送された\[3\]。
 
 ### キャスト（1986年版）
 
@@ -160,7 +160,7 @@
 ### 補足
 
   - 与兵衛の葬式は1月の設定だが、その帰り道のシーンは紅葉だった。
-  - 春生の職業が[キャバ嬢になっている](https://ja.wikipedia.org/wiki/キャバクラ "wikilink")。そのため春生（菅野）と摩子（谷村）がキャバクラ仲間で会話する回想シーンがあり、そこで2人はコスプレ（春生=[ブルマー](../Page/ブルマー.md "wikilink")姿の女子高生、摩子=[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")）をしていた。
+  - 春生の職業が[キャバ嬢になっている](../Page/キャバクラ.md "wikilink")。そのため春生（菅野）と摩子（谷村）がキャバクラ仲間で会話する回想シーンがあり、そこで2人はコスプレ（春生=[ブルマー](../Page/ブルマー.md "wikilink")姿の女子高生、摩子=[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")）をしていた。
 
 ## テレビドラマ（2012年版）
 

@@ -7,7 +7,7 @@
 
 [2005年](../Page/2005年.md "wikilink")に[プロフェッショナルリーグを制し](../Page/プロヴィンシャル・リーグ.md "wikilink")、翌年から同リーグと合併した[タイ・プレミアリーグへ参加した](https://ja.wikipedia.org/wiki/タイ・リーグ1 "wikilink")。[2007年](../Page/2007年.md "wikilink")度のタイ・プレミアリーグを制し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度の[AFCチャンピオンズリーグに出場した](../Page/AFCチャンピオンズリーグ2008.md "wikilink")。ACLでは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")や[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[全南ドラゴンズ](../Page/全南ドラゴンズ.md "wikilink")と引き分け、[オーストラリア](../Page/オーストラリア.md "wikilink")の[メルボルン・ビクトリーFC](../Page/メルボルン・ビクトリーFC.md "wikilink")に勝利するなど旋風を巻き起こしたが終盤失速し、結局グループリーグ4位に終わった。
 
-[2007年](../Page/2007年.md "wikilink")11月に[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")・[マンチェスター・シティと契約して話題となったタイの](../Page/マンチェスター・シティFC.md "wikilink")3選手のうち、2人（[スリー・スカ](https://ja.wikipedia.org/wiki/スリー・スカ "wikilink")、[キャップラウット・サイワエワ](https://ja.wikipedia.org/wiki/キャップラウット・サイワエワ "wikilink")）がこのクラブ出身。また[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[JFLの](../Page/日本フットボールリーグ.md "wikilink")[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")に期限付き移籍した[アドゥール・ラッソ](https://ja.wikipedia.org/wiki/アドゥール・ラッソ "wikilink")も在籍している。
+[2007年](../Page/2007年.md "wikilink")11月に[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")・[マンチェスター・シティと契約して話題となったタイの](../Page/マンチェスター・シティFC.md "wikilink")3選手のうち、2人（[スリー・スカ](https://ja.wikipedia.org/wiki/スリー・スカ "wikilink")、[キャップラウット・サイワエワ](https://ja.wikipedia.org/wiki/キャップラウット・サイワエワ "wikilink")）がこのクラブ出身。また[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[JFLの](../Page/日本フットボールリーグ.md "wikilink")[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")に期限付き移籍した[アドゥール・ラッソ](../Page/アドゥール・ラッソ.md "wikilink")も在籍している。
 
 選手および指導者として長く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で過ごした経験のある[ヴィタヤ・ラオハクル](../Page/ヴィタヤ・ラオハクル.md "wikilink")が2011年から2013年まで監督を、2014年からは[テクニカルディレクターを務めており](../Page/テクニカルディレクター_\(スポーツ\).md "wikilink")、日本人の選手やスタッフを加入させてクラブの日本化に強い影響を与えた。
 
@@ -336,9 +336,9 @@
 
 **[MF](../Page/ミッドフィールダー.md "wikilink")**
 
-  - [アドゥール・ラッソ](https://ja.wikipedia.org/wiki/アドゥール・ラッソ "wikilink") 2004-2007、2009-2015
+  - [アドゥール・ラッソ](../Page/アドゥール・ラッソ.md "wikilink") 2004-2007、2009-2015
 
-  - [コン・ハメド](https://ja.wikipedia.org/wiki/コン・ハメド "wikilink") 2005-2006
+  - [コン・ハメド](../Page/コン・ハメド.md "wikilink") 2005-2006
 
   - [櫛田一斗](https://ja.wikipedia.org/wiki/櫛田一斗 "wikilink") 2011-2015
 

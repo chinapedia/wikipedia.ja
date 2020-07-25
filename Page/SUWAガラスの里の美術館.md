@@ -53,7 +53,7 @@
       - [大村美術館](../Page/大村美術館.md "wikilink")
       - [成田美術館](../Page/成田美術館.md "wikilink")  
       - [箱根ラリック美術館](https://ja.wikipedia.org/wiki/箱根ラリック美術館 "wikilink")
-      - [飛騨高山美術館](https://ja.wikipedia.org/wiki/飛騨高山美術館 "wikilink")
+      - [飛騨高山美術館](../Page/飛騨高山美術館.md "wikilink")
 
 ## 外部リンク
 

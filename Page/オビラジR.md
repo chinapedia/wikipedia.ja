@@ -29,7 +29,7 @@
     冠番組。[\#概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")も参照。
     番組開始当初 - [ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")の「[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")」1部司会と「夜」（実際には夜と深夜）の同日帯番組司会となる。水曜日は「[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」や「[オリキュン](../Page/オリキュン.md "wikilink")」（いずれも[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にも出演し、昼・夕方・夜の水曜日4番組をはしごしていた。水曜日は2007年4月から6月の間にヨシモト∞水曜日担当ではなくなった為に夕方がなくなり、昼夜の3番組をはしご出演に変更。
     2007年10月当時 - 水曜日は「森田一義アワー 笑っていいとも\!」や「[ジャンプ\!○○中](../Page/ジャンプ!○○中.md "wikilink")」（いずれもフジテレビ）に出演し、昼夜3番組（夕方の「ヨシモト∞」2部司会も増えて4番組の可能性あり）をはしご。
-    2008年4月当時 - 火曜日から木曜日までは、[MUSIC ON\! TVの](../Page/MUSIC_ON!_TV.md "wikilink")「エムエム」司会との同日帯番組司会となり、木曜日は[全国一斉\!日本人テスト](https://ja.wikipedia.org/wiki/全国一斉!日本人テスト "wikilink")（フジテレビ）との夜間3番組はしご出演となった。
+    2008年4月当時 - 火曜日から木曜日までは、[MUSIC ON\! TVの](../Page/MUSIC_ON!_TV.md "wikilink")「エムエム」司会との同日帯番組司会となり、木曜日は[全国一斉\!日本人テスト](../Page/全国一斉!日本人テスト.md "wikilink")（フジテレビ）との夜間3番組はしご出演となった。
     2008年10月当時 - 2008年4月と基本的に同じだが、水曜日は[クギづけ 投稿動画ハイスクール](https://ja.wikipedia.org/wiki/クギづけ_投稿動画ハイスクール "wikilink")(日テレ)と夜間3番組はしご出演。
 
 ### アシスタント
@@ -176,9 +176,9 @@
   - [浦えりか](../Page/浦えりか.md "wikilink")
   - [小川愛美](https://ja.wikipedia.org/wiki/西野愛美 "wikilink")
   - [川村りか](../Page/川村りか.md "wikilink")
-  - [神田茉里奈](https://ja.wikipedia.org/wiki/神田茉里奈 "wikilink")
+  - [神田茉里奈](../Page/神田茉里奈.md "wikilink")
   - [KONAN](../Page/KONAN.md "wikilink")
-  - [島田和菜](https://ja.wikipedia.org/wiki/島田和菜 "wikilink")
+  - [島田和菜](../Page/島田和菜.md "wikilink")
   - [鈴木ひろみ](https://ja.wikipedia.org/wiki/鈴木ひろみ "wikilink")
   - [瀬長奈津実](../Page/瀬長奈津実.md "wikilink")
   - [高見こころ](../Page/高見こころ.md "wikilink")
@@ -193,7 +193,7 @@
 
 #### 歴代の主なメンバー
 
-※以下のうち◇がついたメンバーは、「[アナCAN](https://ja.wikipedia.org/wiki/アナCAN "wikilink")」への移籍組
+※以下のうち◇がついたメンバーは、「[アナCAN](../Page/アナCAN.md "wikilink")」への移籍組
 
   - [伊藤友里](../Page/伊藤友里.md "wikilink")◇
   - [猪熊真理子](https://ja.wikipedia.org/wiki/猪熊真理子 "wikilink")（2005年[ワールド・ミス・ユニバーシティー・コンテスト](https://ja.wikipedia.org/wiki/ワールド・ミス・ユニバーシティー・コンテスト "wikilink")ファイナリスト）

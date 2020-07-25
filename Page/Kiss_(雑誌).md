@@ -58,7 +58,7 @@
   - あかねSAL☆（原作：[岡田惠和](../Page/岡田惠和.md "wikilink")、漫画：[なかはら★ももた](https://ja.wikipedia.org/wiki/なかはら★ももた "wikilink")）
   - アナタとわたしの探偵社（[柴門ふみ](https://ja.wikipedia.org/wiki/柴門ふみ "wikilink")）
   - あなたにホの字（[こやまゆかり](https://ja.wikipedia.org/wiki/こやまゆかり "wikilink")）
-  - アラビア猫のゴルム（[ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")）
+  - アラビア猫のゴルム（[ヤマザキマリ](../Page/ヤマザキマリ.md "wikilink")）
   - アリスとアマリリス（[小沢真理](../Page/小沢真理.md "wikilink")）
   - [ありをりはべり](https://ja.wikipedia.org/wiki/ありをりはべり "wikilink")（[日向なつお](https://ja.wikipedia.org/wiki/日向なつお "wikilink")）
       - ありをりはべり いまそかり - 続編。

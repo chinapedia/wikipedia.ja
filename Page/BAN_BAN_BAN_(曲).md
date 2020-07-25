@@ -1,7 +1,7 @@
 > この記事は[BAN BAN BAN \(曲\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(曲\))から翻訳されています。
 
 
-「**BAN BAN BAN**」（バン・バン・バン）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**BAN BAN BAN**」（バン・バン・バン）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [1993年](../Page/1993年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に8cmCDで再発売し、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売している。
 

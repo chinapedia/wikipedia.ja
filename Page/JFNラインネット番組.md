@@ -40,7 +40,7 @@
   - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")
   - [JET STREAM](../Page/JET_STREAM.md "wikilink")
   - [松任谷由実のYuming Chord](https://ja.wikipedia.org/wiki/松任谷由実のYuming_Chord "wikilink")
-  - [JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")
+  - [JA全農 COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")
   - [福山雅治 福のラジオ](../Page/福山雅治_福のラジオ.md "wikilink")
   - [COSMO POPS STATION](https://ja.wikipedia.org/wiki/COSMO_POPS_STATION "wikilink")
   - [山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")

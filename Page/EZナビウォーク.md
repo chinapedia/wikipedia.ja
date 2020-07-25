@@ -24,7 +24,7 @@
       - W40番台(全機種)
       - W50番台(全機種)
       - W60番台([xmini](https://ja.wikipedia.org/wiki/xmini "wikilink")(W65S)を除く)
-      - X00x番台([PT001](https://ja.wikipedia.org/wiki/PT001 "wikilink")([簡単ケータイS](https://ja.wikipedia.org/wiki/簡単ケータイS "wikilink")\[1\])を除く)
+      - X00x番台([PT001](https://ja.wikipedia.org/wiki/PT001 "wikilink")([簡単ケータイS](../Page/簡単ケータイS.md "wikilink")\[1\])を除く)
       - XY0x番台([mamorino](https://ja.wikipedia.org/wiki/mamorino "wikilink")(KYY01)を除く\[2\])
       - [NEW STANDARDシリーズ](https://ja.wikipedia.org/wiki/NEW_STANDARD_\(携帯電話\) "wikilink")（XX0x番台・全機種）
       - [iida](https://ja.wikipedia.org/wiki/iida "wikilink")シリーズ（XX0x番台・全機種）

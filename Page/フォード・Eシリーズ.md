@@ -21,7 +21,7 @@
 
 ## 1968 - 1974
 
-[2ndgen_Econoline.jpg](https://ja.wikipedia.org/wiki/File:2ndgen_Econoline.jpg "fig:2ndgen_Econoline.jpg") [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に 2代目モデルのフォード E-シリーズへ[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")。 エンジンが[フロント下に移された](../Page/セミキャブオーバー.md "wikilink")。デザインは、ヨーロッパ仕様である[フォード・トランジット](https://ja.wikipedia.org/wiki/フォード・トランジット "wikilink")に似せたものであった。 "Twin I-Beam"と呼ばれるフロント・サスペンションのV8エンジンが搭載された。
+[2ndgen_Econoline.jpg](https://ja.wikipedia.org/wiki/File:2ndgen_Econoline.jpg "fig:2ndgen_Econoline.jpg") [1968年](../Page/1968年.md "wikilink")に 2代目モデルのフォード E-シリーズへ[フルモデルチェンジ](https://ja.wikipedia.org/wiki/フルモデルチェンジ "wikilink")。 エンジンが[フロント下に移された](../Page/セミキャブオーバー.md "wikilink")。デザインは、ヨーロッパ仕様である[フォード・トランジット](https://ja.wikipedia.org/wiki/フォード・トランジット "wikilink")に似せたものであった。 "Twin I-Beam"と呼ばれるフロント・サスペンションのV8エンジンが搭載された。
 
 [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")にグリルデザインが変更された。
 

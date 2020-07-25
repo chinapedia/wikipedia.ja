@@ -11,7 +11,7 @@
 
 この曲で[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に初出演した。
 
-2008年の43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
+2008年の43rdシングル「[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")」には、10th Anniversary versionとして新録音された。
 
 ## 収録曲
 

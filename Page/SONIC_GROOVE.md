@@ -285,7 +285,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16006</p></td>
 <td><p>CDアルバム</p></td>
 <td><p>EARTH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Bright_Tomorrow" title="wikilink">Bright Tomorrow</a></p></td>
+<td><p><a href="../Page/Bright_Tomorrow.md" title="wikilink">Bright Tomorrow</a></p></td>
 <td><p>2001年3月28日</p></td>
 </tr>
 <tr class="odd">
@@ -328,7 +328,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16012</p></td>
 <td><p>CDシングル</p></td>
 <td><p>hiro</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Confession" title="wikilink">Confession</a></p></td>
+<td><p><a href="../Page/Confession.md" title="wikilink">Confession</a></p></td>
 <td><p>2001年11月21日</p></td>
 </tr>
 <tr class="odd">
@@ -384,7 +384,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16020</p></td>
 <td><p>CDシングル</p></td>
 <td><p>hiro</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Eternal_Place" title="wikilink">Eternal Place</a></p></td>
+<td><p><a href="../Page/Eternal_Place.md" title="wikilink">Eternal Place</a></p></td>
 <td><p>2002年6月5日</p></td>
 </tr>
 <tr class="odd">
@@ -427,7 +427,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16026</p></td>
 <td><p>CDシングル</p></td>
 <td><p>hiro</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Baby_don&#39;t_cry_(hiroの曲)" title="wikilink">Baby don't cry</a></p></td>
+<td><p><a href="../Page/Baby_don&#39;t_cry_(hiroの曲).md" title="wikilink">Baby don't cry</a></p></td>
 <td><p>2003年2月26日</p></td>
 </tr>
 <tr class="odd">
@@ -583,7 +583,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16048</p></td>
 <td><p>CDシングル</p></td>
 <td><p>樋井明日香</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/たったひとりの君" title="wikilink">たったひとりの君</a></p></td>
+<td><p><a href="../Page/たったひとりの君.md" title="wikilink">たったひとりの君</a></p></td>
 <td><p>2004年4月14日</p></td>
 </tr>
 <tr class="odd">
@@ -697,7 +697,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16064</p></td>
 <td><p>CDシングル</p></td>
 <td><p>HINOIチーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IKE_IKE" title="wikilink">IKE IKE</a>(DVD付)</p></td>
+<td><p><a href="../Page/IKE_IKE.md" title="wikilink">IKE IKE</a>(DVD付)</p></td>
 <td><p>2005年5月18日</p></td>
 </tr>
 <tr class="odd">
@@ -1153,7 +1153,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16128</p></td>
 <td><p>CDシングル</p></td>
 <td><p>谷村奈南</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Again_(谷村奈南の曲)" title="wikilink">Again</a>(DVD付)</p></td>
+<td><p><a href="../Page/Again_(谷村奈南の曲).md" title="wikilink">Again</a>(DVD付)</p></td>
 <td><p>2007年5月30日</p></td>
 </tr>
 <tr class="odd">

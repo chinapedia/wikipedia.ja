@@ -534,7 +534,7 @@ Yahoo\! JAPANが2014年に創設した賞で、前年から検索数が最も上
   - **大賞** ： **[横浜流星](https://ja.wikipedia.org/wiki/横浜流星 "wikilink")**
   - **パーソンカテゴリー**
       - 俳優部門：横浜流星
-      - 女優部門：[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")
+      - 女優部門：[蒼井優](../Page/蒼井優.md "wikilink")
       - お笑い芸人部門：[りんごちゃん](https://ja.wikipedia.org/wiki/りんごちゃん_\(ものまねタレント\) "wikilink")
       - アスリート部門：[渋野日向子](https://ja.wikipedia.org/wiki/渋野日向子 "wikilink")
       - モデル部門：[ゆきぽよ](https://ja.wikipedia.org/wiki/木村有希_\(モデル\) "wikilink")

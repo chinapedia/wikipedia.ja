@@ -15,7 +15,7 @@
 | ------------------------------------------------------- | ------------------------------------------------------------- | -------------- |
 | [1966年](../Page/1966年.md "wikilink")                    | [チェ・ヒジュン](https://ja.wikipedia.org/wiki/チェ・ヒジュン "wikilink")   | 「下宿生（）         |
 | [1967年](../Page/1967年.md "wikilink")                    | [李美子](https://ja.wikipedia.org/wiki/李美子 "wikilink")           | 「エレジーの女王（）     |
-| [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | [李美子](https://ja.wikipedia.org/wiki/李美子 "wikilink")           | 「女の一生（）」       |
+| [1968年](../Page/1968年.md "wikilink")                    | [李美子](https://ja.wikipedia.org/wiki/李美子 "wikilink")           | 「女の一生（）」       |
 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | [李美子](https://ja.wikipedia.org/wiki/李美子 "wikilink")           | 「島の村の先生（）」     |
 | [1970年](../Page/1970年.md "wikilink")                    | [パールシスターズ](https://ja.wikipedia.org/wiki/パールシスターズ "wikilink") | 「あなた（）」        |
 | [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | [南珍](https://ja.wikipedia.org/wiki/南珍 "wikilink")             | 「心がきれいでなければ（）」 |
@@ -39,7 +39,7 @@
 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | [チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")                    | 「僕はお前が好き（）」    | チョー・ヨンピル                                                      | 「僕はお前が好き（）」    |
 | [1984年](../Page/1984年.md "wikilink")                    | [チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")                    | 「友よ（）」         | [イ・ソニ](https://ja.wikipedia.org/wiki/イ・ソニ "wikilink")         | 「Jへ（）」         |
 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | [チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")                    | 「昨日、今日、そして（）」  | [ギム・ボムリョン](https://ja.wikipedia.org/wiki/ギム・ボムリョン "wikilink") | 「風風風（）         |
-| [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")                    | 「虚空（）」         | チョー・ヨンピル                                                      | 「虚空（）」         |
+| [1986年](../Page/1986年.md "wikilink")                    | [チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")                    | 「虚空（）」         | チョー・ヨンピル                                                      | 「虚空（）」         |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | 歌謡祭形式で開催                                                      |                |                                                               |                |
 | [1988年](../Page/1988年.md "wikilink")                    | [チュ・ヒョンミ](https://ja.wikipedia.org/wiki/チュ・ヒョンミ "wikilink")   | 「新沙洞のあの人（）」    | チュ・ヒョンミ                                                       | 「新沙洞のあの人（）」    |
 | [1989年](../Page/1989年.md "wikilink")                    | [チュ・ヒョンミ](https://ja.wikipedia.org/wiki/チュ・ヒョンミ "wikilink")   | 「片思い（짝사랑）」     | チュ・ヒョンミ                                                       | 「片思い（짝사랑）」     |

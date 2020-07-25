@@ -9,7 +9,7 @@
 
 [中山エミリ](../Page/中山エミリ.md "wikilink")の普通免許取得企画がスタートしたが難航。最終的に番組終了までに免許取得に失敗するという前代未聞の事態となった。
 
-[スーパーカブの改造企画は](https://ja.wikipedia.org/wiki/ホンダ・カブ "wikilink")、[長野博](../Page/長野博.md "wikilink")が工場に通いカブに[サイドカー](../Page/サイドカー.md "wikilink")取り付けに成功。このバイクで番組準レギュラーである[ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")の[しょうへいが全国を旅する企画に移行](../Page/ファンキーモンキークリニック.md "wikilink")(コーナー中にコンビ解散となり[しょうへいは](../Page/ファンキーモンキークリニック.md "wikilink")[ピン芸人](../Page/ピン芸人.md "wikilink")に)。サイドカーの助手席に[出川哲朗](../Page/出川哲朗.md "wikilink")を乗せ、[箱根](../Page/箱根.md "wikilink")や[大阪](../Page/大阪.md "wikilink")、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")などを旅した。
+[スーパーカブの改造企画は](https://ja.wikipedia.org/wiki/ホンダ・カブ "wikilink")、[長野博](../Page/長野博.md "wikilink")が工場に通いカブに[サイドカー](../Page/サイドカー.md "wikilink")取り付けに成功。このバイクで番組準レギュラーである[ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")の[しょうへいが全国を旅する企画に移行](../Page/ファンキーモンキークリニック.md "wikilink")(コーナー中にコンビ解散となり[しょうへいは](../Page/ファンキーモンキークリニック.md "wikilink")[ピン芸人](../Page/ピン芸人.md "wikilink")に)。サイドカーの助手席に[出川哲朗](../Page/出川哲朗.md "wikilink")を乗せ、[箱根](../Page/箱根.md "wikilink")や[大阪](../Page/大阪.md "wikilink")、[京都](../Page/京都.md "wikilink")などを旅した。
 
 この番組の終了を機に、1997年4月放送開始の『[U・S](../Page/U・S.md "wikilink")』から続いたホンダ提供のモータースポーツ情報番組シリーズは一旦終了。その後はしばらく中断していたが、2005年1月から『[スポーツMAX](https://ja.wikipedia.org/wiki/スポーツMAX "wikilink")』金曜放送分にホンダ提供のモータースポーツ情報コーナーを始めたことで復活した。
 

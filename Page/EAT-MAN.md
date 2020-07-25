@@ -238,7 +238,7 @@
 <td><p>面出明美</p></td>
 <td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
 <td><p>織田美浩</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平田智浩" title="wikilink">平田智浩</a></p></td>
+<td><p><a href="../Page/平田智浩.md" title="wikilink">平田智浩</a></p></td>
 <td><p><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 </tr>
 <tr class="even">

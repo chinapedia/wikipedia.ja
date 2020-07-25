@@ -17,9 +17,9 @@
 
   - [チャールズ・グローヴズ](../Page/チャールズ・グローヴズ.md "wikilink")　[1944年](../Page/1944年.md "wikilink")-[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")
   - [ジョン・ホプキンス](https://ja.wikipedia.org/wiki/ジョン・ホプキンス_\(指揮者\) "wikilink")　[1952年](../Page/1952年.md "wikilink")-[1957年](../Page/1957年.md "wikilink")
-  - [ジョージ・ハースト](https://ja.wikipedia.org/wiki/ジョージ・ハースト "wikilink")　[1958年](../Page/1958年.md "wikilink")-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")
-  - [ブライデン・トムソン](https://ja.wikipedia.org/wiki/ブライデン・トムソン "wikilink")　[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")-[1973年](../Page/1973年.md "wikilink")
-  - [レイモンド・レッパード](https://ja.wikipedia.org/wiki/レイモンド・レッパード "wikilink")　[1973年](../Page/1973年.md "wikilink")-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")
+  - [ジョージ・ハースト](https://ja.wikipedia.org/wiki/ジョージ・ハースト "wikilink")　[1958年](../Page/1958年.md "wikilink")-[1968年](../Page/1968年.md "wikilink")
+  - [ブライデン・トムソン](https://ja.wikipedia.org/wiki/ブライデン・トムソン "wikilink")　[1968年](../Page/1968年.md "wikilink")-[1973年](../Page/1973年.md "wikilink")
+  - [レイモンド・レッパード](../Page/レイモンド・レッパード.md "wikilink")　[1973年](../Page/1973年.md "wikilink")-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")
   - [エドワード・ダウンズ](https://ja.wikipedia.org/wiki/エドワード・ダウンズ "wikilink")　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")-[1991年](../Page/1991年.md "wikilink")
   - [ヤン・パスカル・トルトゥリエ](../Page/ヤン・パスカル・トルトゥリエ.md "wikilink")　[1992年](../Page/1992年.md "wikilink")-[2002年](../Page/2002年.md "wikilink")
   - [ジャナンドレア・ノセダ](../Page/ジャナンドレア・ノセダ.md "wikilink")　[2002年](../Page/2002年.md "wikilink")-[2011年](../Page/2011年.md "wikilink")

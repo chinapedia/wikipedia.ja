@@ -234,7 +234,7 @@
 
 :\*\*[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")（[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")）（10月放送分の司会担当）
 
-:\*\*[我が家](../Page/我が家.md "wikilink")（[坪倉由幸](https://ja.wikipedia.org/wiki/坪倉由幸 "wikilink")・[杉山裕之](https://ja.wikipedia.org/wiki/杉山裕之 "wikilink")・[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")）
+:\*\*[我が家](../Page/我が家.md "wikilink")（[坪倉由幸](../Page/坪倉由幸.md "wikilink")・[杉山裕之](../Page/杉山裕之.md "wikilink")・[谷田部俊](../Page/谷田部俊.md "wikilink")）
 
 :\*\*[福田花音](../Page/福田花音.md "wikilink")（[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）
 
@@ -314,7 +314,7 @@
 
 :\*\*櫻井紗季（東京パフォーマンスドール）
 
-:\*\*[市川理矩](https://ja.wikipedia.org/wiki/市川理矩 "wikilink")
+:\*\*[市川理矩](../Page/市川理矩.md "wikilink")
 
 :\*2020年度
 

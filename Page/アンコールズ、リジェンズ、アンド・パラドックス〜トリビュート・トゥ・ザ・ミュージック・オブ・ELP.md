@@ -7,7 +7,7 @@
 
 [ドリーム・シアター](../Page/ドリーム・シアター.md "wikilink")や[マジェラン](../Page/マジェラン.md "wikilink")、[カイロ等のアルバムをリリースしている](../Page/カイロ_\(バンド\).md "wikilink")「[マグナ・カルタ・レコード](https://ja.wikipedia.org/wiki/マグナ・カルタ・レコード "wikilink")」がリリースした[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。
 
-ドリーム・シアターやマジェランのメンバー/元メンバーの他、[カール・パーマー](../Page/カール・パーマー.md "wikilink")と[エイジア](../Page/エイジア.md "wikilink")を結成していた[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")と[ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink")、[3(スリー)に参加した](../Page/3_\(バンド\).md "wikilink")[ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink")、元[イエスの](../Page/イエス_\(バンド\).md "wikilink")[ピーター・バンクス](../Page/ピーター・バンクス.md "wikilink")と[イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink")、さらに[グレン・ヒューズ](../Page/グレン・ヒューズ.md "wikilink")や[サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")等が参加している。
+ドリーム・シアターやマジェランのメンバー/元メンバーの他、[カール・パーマー](../Page/カール・パーマー.md "wikilink")と[エイジア](../Page/エイジア.md "wikilink")を結成していた[ジョン・ウェットン](../Page/ジョン・ウェットン.md "wikilink")と[ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink")、[3(スリー)に参加した](../Page/3_\(バンド\).md "wikilink")[ロバート・ベリー](../Page/ロバート・ベリー.md "wikilink")、元[イエスの](../Page/イエス_\(バンド\).md "wikilink")[ピーター・バンクス](../Page/ピーター・バンクス.md "wikilink")と[イゴール・コロシェフ](../Page/イゴール・コロシェフ.md "wikilink")、さらに[グレン・ヒューズ](../Page/グレン・ヒューズ.md "wikilink")や[サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink")等が参加している。
 
 ## 収録曲（参加ミュージシャン）
 
@@ -28,7 +28,7 @@
   - ウェイン・ガードナー (2、3、5、7、8)
   - エリク・ノーランダー (4)
   - [グレン・ヒューズ](../Page/グレン・ヒューズ.md "wikilink") (4)
-  - [サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink") (1、4、6、9、10)
+  - [サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink") (1、4、6、9、10)
   - [ジェイムズ・ラブリエ](../Page/ジェイムズ・ラブリエ.md "wikilink") (5、9)
   - [ジェフ・ダウンズ](../Page/ジェフ・ダウンズ.md "wikilink") (8)
   - [ジェリー・グッドマン](https://ja.wikipedia.org/wiki/ジェリー・グッドマン "wikilink") (6)

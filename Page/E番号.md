@@ -723,7 +723,7 @@
 </tr>
 <tr class="even">
 <td><p>E174</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/銀" title="wikilink">銀</a></p></td>
+<td><p><a href="../Page/銀.md" title="wikilink">銀</a></p></td>
 <td><p>銀色</p></td>
 <td><p>EU認可[69]</p></td>
 </tr>
@@ -841,7 +841,7 @@
 | E318 | エリソルビン酸ナトリウム                                                                                                                                                                                                                                                                      | 抗酸化物質                                                       | （重複？）                                  |
 | E319 | [tert-ブチルヒドロキノン](https://ja.wikipedia.org/wiki/tert-ブチルヒドロキノン "wikilink")（TBHQ）                                                                                                                                                                                                   | 抗酸化物質                                                       | EU認可\[129\]                            |
 | E320 | [ブチルヒドロキシアニソール](../Page/ブチルヒドロキシアニソール.md "wikilink")（BHA）                                                                                                                                                                                                                         | 抗酸化物質                                                       | EU認可\[130\]                            |
-| E321 | [ジブチルヒドロキシトルエン](https://ja.wikipedia.org/wiki/ジブチルヒドロキシトルエン "wikilink")（BHT）                                                                                                                                                                                                      | 抗酸化物質                                                       | EU認可\[131\]                            |
+| E321 | [ジブチルヒドロキシトルエン](../Page/ジブチルヒドロキシトルエン.md "wikilink")（BHT）                                                                                                                                                                                                                         | 抗酸化物質                                                       | EU認可\[131\]                            |
 | E322 | [レシチン](../Page/レシチン.md "wikilink")                                                                                                                                                                                                                                                | 乳化剤                                                         | EU認可\[132\]                            |
 | E323 | [アノキソマー](https://ja.wikipedia.org/wiki/アノキソマー "wikilink")                                                                                                                                                                                                                         | 抗酸化物質                                                       |                                        |
 | E324 | [エトキシキン](../Page/エトキシキン.md "wikilink")                                                                                                                                                                                                                                            | 抗酸化物質                                                       |                                        |

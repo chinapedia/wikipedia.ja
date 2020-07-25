@@ -31,7 +31,7 @@
         作詞：相田毅 / 作曲・編曲：[野崎昌利](https://ja.wikipedia.org/wiki/野崎昌利 "wikilink") / コーラスアレンジ：椎名和夫
 6.  **Fade Out**
       -
-        作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲：[羽田一郎](../Page/羽田一郎.md "wikilink") / 編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲：[羽田一郎](../Page/羽田一郎.md "wikilink") / 編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
         リミックスアルバム「[BOO](../Page/BOO_\(アルバム\).md "wikilink")」にも収録されている。
 7.  **恋のメロディー** - [木村拓哉](../Page/木村拓哉.md "wikilink")
       -

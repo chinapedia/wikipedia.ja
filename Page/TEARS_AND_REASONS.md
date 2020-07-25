@@ -33,7 +33,7 @@
 6.  **私らしく**
 7.  **冬の終り**
       -
-        1992年[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ボクたちのドラマシリーズ](../Page/ボクたちのドラマシリーズ.md "wikilink")『[その時、ハートは盗まれた](https://ja.wikipedia.org/wiki/その時、ハートは盗まれた "wikilink")』エンディングテーマ。
+        1992年[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ボクたちのドラマシリーズ](../Page/ボクたちのドラマシリーズ.md "wikilink")『[その時、ハートは盗まれた](../Page/その時、ハートは盗まれた.md "wikilink")』エンディングテーマ。
 8.  **So high**
       -
         同じくドラマ『その時、ハートは盗まれた』劇中歌。

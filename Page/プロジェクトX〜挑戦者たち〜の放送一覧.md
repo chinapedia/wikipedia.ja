@@ -153,7 +153,7 @@
 <tr class="odd">
 <td><p>015</p></td>
 <td><p>7月4日</p></td>
-<td><p>海のかなたの<a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">甲子園</a><br />
+<td><p>海のかなたの<a href="../Page/阪神甲子園球場.md" title="wikilink">甲子園</a><br />
 熱血教師たち・沖縄野球 涙の初勝利</p></td>
 <td><p><a href="../Page/第40回全国高等学校野球選手権大会.md" title="wikilink">沖縄初の高校野球全国大会出場</a></p></td>
 <td><p><a href="../Page/沖縄県立首里高等学校.md" title="wikilink">首里高校</a></p></td>
@@ -279,7 +279,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>ロータリー47士の戦い<br />
 夢のエンジン・廃墟からの誕生</p></td>
 <td><p><a href="../Page/ロータリーエンジン.md" title="wikilink">ロータリーエンジン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ" title="wikilink">マツダ</a></p></td>
+<td><p><a href="../Page/マツダ.md" title="wikilink">マツダ</a></p></td>
 <td><p>前編</p></td>
 </tr>
 <tr class="odd">
@@ -585,7 +585,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>兄弟10人 海の革命劇<br />
 〜<a href="../Page/魚群探知機.md" title="wikilink">魚群探知機</a>・ドンビリ船の奇跡〜</p></td>
 <td><p>魚群探知機</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古野電気" title="wikilink">古野電気</a></p></td>
+<td><p><a href="../Page/古野電気.md" title="wikilink">古野電気</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1754,7 +1754,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>技術者魂 永遠に<br />
 〜新ロータリーエンジン　革命車に挑む〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RX-8" title="wikilink">RX-8</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ" title="wikilink">マツダ</a></p></td>
+<td><p><a href="../Page/マツダ.md" title="wikilink">マツダ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

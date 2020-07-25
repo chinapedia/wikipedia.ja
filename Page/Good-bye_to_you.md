@@ -41,7 +41,7 @@
 10. **I LOVE YOU** - 原曲:大森絹子「やさしくしないで」
       -
         作詞:栗林誠一郎 編曲:栗林誠一郎・明石昌夫
-11. **IT'S A BOY** - 原曲:[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+11. **IT'S A BOY** - 原曲:[ZARD](../Page/ZARD.md "wikilink")
       -
         作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 編曲:栗林誠一郎・明石昌夫
 

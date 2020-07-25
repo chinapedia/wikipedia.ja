@@ -5,7 +5,7 @@
 
 ## 概要
 
-[JOAK.JPG](https://ja.wikipedia.org/wiki/File:JOAK.JPG "fig:JOAK.JPG") NHK発祥の地である[愛宕山に世界初の放送専門博物館として](../Page/愛宕山_\(東京都港区\).md "wikilink")[1956年](../Page/1956年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")31年）に開館。開館当時は東京放送局の局舎を使用していた。現在の塔屋付4階建てビルは[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）に新築されたもので、当時使われていた建物は現存しない。以前は[NHK放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")と同居していたため、展示室は2階までだったが、[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）に同研究所が近くの[愛宕グリーンヒルズ](../Page/愛宕グリーンヒルズ.md "wikilink")MORIタワーに移転したことから、全フロアに拡張して[2003年](../Page/2003年.md "wikilink")（平成15年）にリニューアルオープンした。放送開始90周年の記念事業として[2016年](../Page/2016年.md "wikilink")（平成28年）に再度リニューアルオープンした\[1\]。
+[JOAK.JPG](https://ja.wikipedia.org/wiki/File:JOAK.JPG "fig:JOAK.JPG") NHK発祥の地である[愛宕山に世界初の放送専門博物館として](../Page/愛宕山_\(東京都港区\).md "wikilink")[1956年](../Page/1956年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")31年）に開館。開館当時は東京放送局の局舎を使用していた。現在の塔屋付4階建てビルは[1968年](../Page/1968年.md "wikilink")（昭和43年）に新築されたもので、当時使われていた建物は現存しない。以前は[NHK放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")と同居していたため、展示室は2階までだったが、[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）に同研究所が近くの[愛宕グリーンヒルズ](../Page/愛宕グリーンヒルズ.md "wikilink")MORIタワーに移転したことから、全フロアに拡張して[2003年](../Page/2003年.md "wikilink")（平成15年）にリニューアルオープンした。放送開始90周年の記念事業として[2016年](../Page/2016年.md "wikilink")（平成28年）に再度リニューアルオープンした\[1\]。
 
 [玉音盤など約](../Page/玉音放送.md "wikilink")3万件を超える資料を所蔵している。それぞれの時代の[ラジオ受信機や](../Page/受信機.md "wikilink")[テレビ受像機](../Page/テレビ受像機.md "wikilink")が展示され、[動態保存](../Page/動態保存.md "wikilink")（通電すれば作動する状態で保存・展示。テレビはアナログビデオ信号を入力することが必要）にも努めている\[2\]。
 

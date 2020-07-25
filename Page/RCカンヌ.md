@@ -77,7 +77,7 @@
 
   - [ストラーシミラ・フィリポヴァ](https://ja.wikipedia.org/wiki/ストラーシミラ・フィリポヴァ "wikilink")
 
-  - [エヴァ・ヤネヴァ](https://ja.wikipedia.org/wiki/エヴァ・ヤネヴァ "wikilink")
+  - [エヴァ・ヤネヴァ](../Page/エヴァ・ヤネヴァ.md "wikilink")
 
   - [マリヤ・フィリポバ](https://ja.wikipedia.org/wiki/マリヤ・フィリポバ "wikilink")
 

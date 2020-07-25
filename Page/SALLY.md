@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")、解散。
+  - [1986年](../Page/1986年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、解散。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
         B面 作詞/YOSUKE\&KEACH ・[大野轟二](https://ja.wikipedia.org/wiki/大野轟二 "wikilink")、作曲/YOSUKE\&KEACH、編曲/勝山俊一郎
         ※ [つくば万博](../Page/国際科学技術博覧会.md "wikilink")・[講談社](../Page/講談社.md "wikilink")館イメージソング（君の瞳に恋してる）
         ※ [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「ザギー」CMソング（サマータイムメモリー）
-6.  mコードにHeartbreak（c/w わがままなロマンティストと移り気な娘たち（移り気な娘たちにI Love You）） - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
+6.  mコードにHeartbreak（c/w わがままなロマンティストと移り気な娘たち（移り気な娘たちにI Love You）） - [1986年](../Page/1986年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
       -
         A面 作詞・作曲/[杉山洋介](../Page/杉山洋介.md "wikilink")、編曲/坂下秀実
         B面 作詞・作曲/KEACH、編曲/坂下秀実

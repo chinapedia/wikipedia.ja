@@ -31,77 +31,77 @@
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                                          | [スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink") | [リーグカップ](../Page/スコティッシュリーグカップ.md "wikilink") |
-| ------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- |
-| リーグ     | 試                                                                               | 勝                                                                 | 分                                             |
-| 1951-52 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                                                | 20                                            |
-| 1952-53 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                                                | 19                                            |
-| 1953-54 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                                                | 15                                            |
-| 1954-55 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                                                | 15                                            |
-| 1955-56 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 19                                            |
-| 1956-57 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 12                                            |
-| 1957-58 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 13                                            |
-| 1958-59 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 13                                            |
-| 1959-60 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 14                                            |
-| 1960-61 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 15                                            |
-| 1961-62 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 14                                            |
-| 1962-63 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 8                                             |
-| 1963-64 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 12                                            |
-| 1964-65 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 21                                            |
-| 1965-66 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 16                                            |
-| 1966-67 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 19                                            |
-| 1967-68 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 20                                            |
-| 1968-69 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 12                                            |
-| 1969-70 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 19                                            |
-| 1970-71 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 10                                            |
-| 1971-72 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 19                                            |
-| 1972-73 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 19                                            |
-| 1973-74 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 20                                            |
-| 1974-75 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                                                | 20                                            |
-| 1975-76 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 18                                            |
-| 1976-77 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 8                                             |
-| 1977-78 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 15                                            |
-| 1978-79 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 12                                            |
-| 1979-80 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 6                                             |
-| 1980-81 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 39                                                                | 25                                            |
-| 1981-82 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 11                                            |
-| 1982-83 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 7                                             |
-| 1983-84 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 12                                            |
-| 1984-85 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 10                                            |
-| 1985-86 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 11                                            |
-| 1986-87 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                                                | 10                                            |
-| 1987-88 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                                                | 12                                            |
-| 1988-89 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 13                                            |
-| 1989-90 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 12                                            |
-| 1990-91 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 6                                             |
-| 1991-92 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                                                | 16                                            |
-| 1992-93 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                                                | 12                                            |
-| 1993-94 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                                                | 16                                            |
-| 1994-95 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 12                                            |
-| 1995-96 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 11                                            |
-| 1996-97 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 9                                             |
-| 1997-98 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                                                | 6                                             |
-| 1998-99 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 28                                            |
-| 1999-00 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 36                                                                | 10                                            |
-| 2000-01 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 18                                            |
-| 2001-02 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 10                                            |
-| 2002-03 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 15                                            |
-| 2003-04 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 11                                            |
-| 2004-05 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 18                                            |
-| 2005-06 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 17                                            |
-| 2006-07 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 13                                            |
-| 2007-08 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 14                                            |
-| 2008-09 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 11                                            |
-| 2009-10 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 15                                            |
-| 2010-11 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 10                                            |
-| 2011-12 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 8                                             |
-| 2012-13 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 13                                            |
-| 2013-14 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 38                                                                | 8                                             |
-| 2014–15 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                                                | 21                                            |
-| 2015–16 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                                                | 21                                            |
-| 2016–17 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                                                | 19                                            |
-| 2017–18 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 38                                                                | 18                                            |
-| 2018-19 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 33                                                                | 14                                            |
+| シーズン    | ディビジョン                                                                          | [スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink") | [リーグカップ](../Page/スコティッシュリーグカップ.md "wikilink") |
+| ------- | ------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------- |
+| リーグ     | 試                                                                               | 勝                                              | 分                                             |
+| 1951-52 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                             | 20                                            |
+| 1952-53 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                             | 19                                            |
+| 1953-54 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                             | 15                                            |
+| 1954-55 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 30                                             | 15                                            |
+| 1955-56 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 19                                            |
+| 1956-57 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 12                                            |
+| 1957-58 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 13                                            |
+| 1958-59 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 13                                            |
+| 1959-60 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 14                                            |
+| 1960-61 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 15                                            |
+| 1961-62 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 14                                            |
+| 1962-63 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 8                                             |
+| 1963-64 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 12                                            |
+| 1964-65 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 21                                            |
+| 1965-66 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 16                                            |
+| 1966-67 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 19                                            |
+| 1967-68 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 20                                            |
+| 1968-69 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 12                                            |
+| 1969-70 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 19                                            |
+| 1970-71 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 10                                            |
+| 1971-72 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 19                                            |
+| 1972-73 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 19                                            |
+| 1973-74 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 20                                            |
+| 1974-75 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 34                                             | 20                                            |
+| 1975-76 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 18                                            |
+| 1976-77 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 8                                             |
+| 1977-78 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 15                                            |
+| 1978-79 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 12                                            |
+| 1979-80 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 6                                             |
+| 1980-81 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・ファーストディビジョン "wikilink")           | 39                                             | 25                                            |
+| 1981-82 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 11                                            |
+| 1982-83 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 7                                             |
+| 1983-84 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 12                                            |
+| 1984-85 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 10                                            |
+| 1985-86 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 11                                            |
+| 1986-87 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                             | 10                                            |
+| 1987-88 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                             | 12                                            |
+| 1988-89 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 13                                            |
+| 1989-90 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 12                                            |
+| 1990-91 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 6                                             |
+| 1991-92 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                             | 16                                            |
+| 1992-93 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                             | 12                                            |
+| 1993-94 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 44                                             | 16                                            |
+| 1994-95 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 12                                            |
+| 1995-96 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 11                                            |
+| 1996-97 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 9                                             |
+| 1997-98 | [プレミア](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")             | 36                                             | 6                                             |
+| 1998-99 | [ファースト](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                             | 28                                            |
+| 1999-00 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 36                                             | 10                                            |
+| 2000-01 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 18                                            |
+| 2001-02 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 10                                            |
+| 2002-03 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 15                                            |
+| 2003-04 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 11                                            |
+| 2004-05 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 18                                            |
+| 2005-06 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 17                                            |
+| 2006-07 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 13                                            |
+| 2007-08 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 14                                            |
+| 2008-09 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 11                                            |
+| 2009-10 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 15                                            |
+| 2010-11 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 10                                            |
+| 2011-12 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 8                                             |
+| 2012-13 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                             | 13                                            |
+| 2013-14 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 38                                             | 8                                             |
+| 2014–15 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                             | 21                                            |
+| 2015–16 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                             | 21                                            |
+| 2016–17 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                             | 19                                            |
+| 2017–18 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 38                                             | 18                                            |
+| 2018-19 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 33                                             | 14                                            |
 
 ## 欧州の成績
 
@@ -354,7 +354,7 @@
   - スコティッシュ・フットボール・チャンピオン: 4回（1903年、1948年、1951年、1952年）
   - スコットランド1部リーグチャンピオン: 1981年、1999年<sup>注1</sup>
   - スコットランド2部リーグチャンピオン: 1894年、1895年、1933年
-  - [スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink"): 3回（1887年、1902年、2016年）
+  - [スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink"): 3回（1887年、1902年、2016年）
   - [スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink"): 3回（1972-1973, 1991-1992, 2006-2007）
   - 世界チャンピオン: 1回（1887年、本文参照）
   - ドライブロウカップ: 2回（1972年、1973年）

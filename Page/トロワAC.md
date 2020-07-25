@@ -3,7 +3,7 @@
 
 **エスペローンス・スポルティーヴ・トロワ・オーブ・シャンパーニュ**（**Espérance Sportive Troyes Aube Champagne**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トロワ](../Page/トロワ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に所属。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、かつて存在したトロワを拠点としたクラブチーム、Association Sportive Troyenne et Savinienne(1900-1965)とTroyes Aube Football(1970-1979)に次ぐ3番目のサッカークラブとして創設。6部リーグにあたるDivision d'Honneurからスタートし、1996年にディヴィジオン・ドゥ（現在の[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")）へ昇格したことを機にプロチームとなった。
+[1986年](../Page/1986年.md "wikilink")、かつて存在したトロワを拠点としたクラブチーム、Association Sportive Troyenne et Savinienne(1900-1965)とTroyes Aube Football(1970-1979)に次ぐ3番目のサッカークラブとして創設。6部リーグにあたるDivision d'Honneurからスタートし、1996年にディヴィジオン・ドゥ（現在の[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")）へ昇格したことを機にプロチームとなった。
 
 1999-2000シーズンにディヴィジオン・アン（現在の[リーグ・アン](../Page/リーグ・アン.md "wikilink")）に初昇格。2000年に前身の**Association Troyes Aube Champagne**から現在の名称へと変更した。[2001年](../Page/2001年.md "wikilink")には[UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink")で[ニューカッスル・ユナイテッドFC](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")を破り[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")に参戦、リーグでも好成績を残した。
 

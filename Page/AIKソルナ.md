@@ -137,7 +137,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–3</p></td>
 <td></td>
@@ -380,7 +380,7 @@
 <td><p>1984</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1984" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>2–3</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1位</p></td>

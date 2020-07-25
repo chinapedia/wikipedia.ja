@@ -17,7 +17,7 @@
 
   - Heaven - [ブライアン・アダムス](../Page/ブライアン・アダムス.md "wikilink")のシングル。1985年発売。
   - Heaven - [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")のデビューシングル。1991年9月21日発売。
-  - [HEAVEN (HIMの曲)](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink") - [HIMの](../Page/HIM_\(音楽プロジェクト\).md "wikilink")7枚目のシングル（最後のシングル）。1996年12月1日発売。
+  - [HEAVEN (HIMの曲)](../Page/HEAVEN_\(HIMの曲\).md "wikilink") - [HIMの](../Page/HIM_\(音楽プロジェクト\).md "wikilink")7枚目のシングル（最後のシングル）。1996年12月1日発売。
   - HEAVEN - [森若香織](../Page/森若香織.md "wikilink")の3枚目のシングル。1997年発売。
   - HEAVEN - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の曲。14枚目のシングル「[HEAVEN/Squall](https://ja.wikipedia.org/wiki/HEAVEN/Squall "wikilink")」（1999年11月17日発売）に収録。
   - [HEAVEN (Tourbillonの曲)](../Page/HEAVEN_\(Tourbillonの曲\).md "wikilink") - [Tourbillonのデビューシングル](../Page/Tourbillon_\(バンド\).md "wikilink")。2005年9月7日発売。

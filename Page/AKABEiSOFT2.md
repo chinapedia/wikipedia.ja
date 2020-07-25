@@ -82,7 +82,7 @@
   - 2005年[11月25日](../Page/11月25日.md "wikilink") - [車輪の国、向日葵の少女](../Page/車輪の国、向日葵の少女.md "wikilink")
   - [2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - [その横顔を見つめてしまう〜A Profile 完全版〜](../Page/その横顔を見つめてしまう〜A_Profile_完全版〜.md "wikilink")
   - 2006年[9月29日](../Page/9月29日.md "wikilink") - [こんな娘がいたら僕はもう…\!\!](../Page/こんな娘がいたら僕はもう…!!.md "wikilink")
-  - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [車輪の国、悠久の少年少女](../Page/車輪の国、悠久の少年少女.md "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - [車輪の国、悠久の少年少女](../Page/車輪の国、悠久の少年少女.md "wikilink")
   - 2007年[7月26日](../Page/7月26日.md "wikilink") - [魂響〜円環の絆〜](../Page/魂響〜たまゆら〜.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - あかべぇそふとつぅデスクトップアクセサリー集『[赤箱](https://ja.wikipedia.org/wiki/赤箱 "wikilink")』
   - 2008年[5月29日](../Page/5月29日.md "wikilink") - [G線上の魔王](../Page/G線上の魔王.md "wikilink")

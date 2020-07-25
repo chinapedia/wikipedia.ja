@@ -88,7 +88,7 @@
   - 『[鋼の錬金術師 COMPLETE BEST](https://ja.wikipedia.org/wiki/鋼の錬金術師_COMPLETE_BEST "wikilink")』 (\#1)
   - 『Ki/oon Records Overseas Compilation』 (\#1)
   - 『鋼の錬金術師 BOX SET -ARCHIVES-』 (\#1)
-  - 『[Anime×Music Collaboration 39 '02-'07](https://ja.wikipedia.org/wiki/Anime×Music_Collaboration_39_'02-'07 "wikilink")』 (\#1)
+  - 『[Anime×Music Collaboration 39 '02-'07](../Page/Anime×Music_Collaboration_39_'02-'07.md "wikilink")』 (\#1)
   - 『鋼の錬金術師 THE BEST』 (\#1)
 
 <!-- end list -->

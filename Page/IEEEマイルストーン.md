@@ -120,7 +120,7 @@
 <td><p><a href="../Page/サウスカロライナ州.md" title="wikilink">サウスカロライナ州</a>の世界初の<a href="../Page/発電所.md" title="wikilink">発電所</a>（エレクトリック・イルミネーティング・カンパニー・オブ・チャールストン）</p></td>
 <td><p><a href="../Page/1882年.md" title="wikilink">1882年</a></p></td>
 <td><p><a href="../Page/サウスカロライナ州.md" title="wikilink">サウスカロライナ州</a><a href="../Page/チャールストン_(サウスカロライナ州).md" title="wikilink">チャールストン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -166,7 +166,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>（<a href="https://ja.wikipedia.org/wiki/フランク・スプレイグ" title="wikilink">フランク・スプレイグ</a>）</p></td>
+<td><p>（<a href="../Page/フランク・スプレイグ.md" title="wikilink">フランク・スプレイグ</a>）</p></td>
 <td><p><a href="../Page/1888年.md" title="wikilink">1888年</a></p></td>
 <td><p><a href="../Page/バージニア州.md" title="wikilink">バージニア州</a><a href="../Page/リッチモンド.md" title="wikilink">リッチモンド</a></p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
@@ -748,7 +748,7 @@
 </tr>
 <tr class="odd">
 <td><p>1960年代</p></td>
-<td><p><a href="../Page/気象衛星.md" title="wikilink">気象衛星</a><a href="https://ja.wikipedia.org/wiki/タイロス1号" title="wikilink">タイロス1号</a></p></td>
+<td><p><a href="../Page/気象衛星.md" title="wikilink">気象衛星</a><a href="../Page/タイロス1号.md" title="wikilink">タイロス1号</a></p></td>
 <td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
 <td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="../Page/プリンストン_(ニュージャージー州).md" title="wikilink">プリンストン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
@@ -930,14 +930,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/液晶ディスプレイ" title="wikilink">液晶ディスプレイ</a>（<a href="../Page/RCA.md" title="wikilink">RCA</a> ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="../Page/プリンストン_(ニュージャージー州).md" title="wikilink">プリンストン</a></p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/欧州原子核研究機構.md" title="wikilink">CERNの実験器具</a> （ワイヤチェンバ、ドリフトチェンバ等）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュネーブ" title="wikilink">ジュネーブ</a></p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
@@ -999,7 +999,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>初の<a href="../Page/関数電卓.md" title="wikilink">科学技術計算用ポケット電卓</a>「<a href="https://ja.wikipedia.org/wiki/HP-35" title="wikilink">HP-35</a>」の開発（<a href="../Page/ヒューレット・パッカード.md" title="wikilink">ヒューレット・パッカード</a>）</p></td>
+<td><p>初の<a href="../Page/関数電卓.md" title="wikilink">科学技術計算用ポケット電卓</a>「<a href="../Page/HP-35.md" title="wikilink">HP-35</a>」の開発（<a href="../Page/ヒューレット・パッカード.md" title="wikilink">ヒューレット・パッカード</a>）</p></td>
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
 <td><p><a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/パロアルト_(カリフォルニア州).md" title="wikilink">パロアルト</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>

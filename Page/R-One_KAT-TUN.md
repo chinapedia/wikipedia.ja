@@ -1,7 +1,7 @@
 > この記事は[R-One KAT-TUN](https://ja.wikipedia.org/wiki/R-One_KAT-TUN)から翻訳されています。
 
 
-**R-One KAT-TUN**（アールワン カトゥーン）とは、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[上田竜也](../Page/上田竜也.md "wikilink")と[中丸雄一](../Page/中丸雄一.md "wikilink")の二人が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")のラジオ番組。
+**R-One KAT-TUN**（アールワン カトゥーン）とは、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の[上田竜也](../Page/上田竜也.md "wikilink")と[中丸雄一](../Page/中丸雄一.md "wikilink")の二人が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")のラジオ番組。
 
 ## 概要
 

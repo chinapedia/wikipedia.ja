@@ -13,7 +13,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")末現在、発行枚数3,207万枚・取り扱い件数5,540万件／月（PASMO加盟店を含む。対抗するEdyは発行枚数6,180万枚・3,000万件／月=同年12月現在）の電子マネー取り扱い件数を、同年度には1日800万件を目標とし、現在では[鉄道駅](../Page/鉄道駅.md "wikilink")構内（いわゆる「駅ナカ」）に留まらず、街中へもSuica対応[店](../Page/店.md "wikilink")舗の積極的な拡大を行っている。2010年12月末現在の導入店舗数は約123,970店である。
 
-なお、[ビットワレット](../Page/楽天Edy_\(企業\).md "wikilink")（当時）の[Edy（現：楽天Edy）や](../Page/楽天Edy.md "wikilink")[イオン](../Page/イオン_\(企業\).md "wikilink")（[純粋持株会社](https://ja.wikipedia.org/wiki/純粋持株会社 "wikilink")移行に伴い、現在は、[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")と[イオン銀行](../Page/イオン銀行.md "wikilink")の事業）の[WAON](../Page/WAON.md "wikilink")との競争は「電子マネー戦争」とも評され、さらに[2007年](../Page/2007年.md "wikilink")からは[セブン&アイ・ホールディングス](../Page/セブン&アイ・ホールディングス.md "wikilink")系列のアイワイカード・サービス（現・[セブン・カードサービス](../Page/セブン・カードサービス.md "wikilink")）が発行する[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")（発行枚数890万枚）も加わり、三つ巴の争いとなっている。
+なお、[ビットワレット](../Page/楽天Edy_\(企業\).md "wikilink")（当時）の[Edy（現：楽天Edy）や](../Page/楽天Edy.md "wikilink")[イオン](../Page/イオン_\(企業\).md "wikilink")（[純粋持株会社](https://ja.wikipedia.org/wiki/純粋持株会社 "wikilink")移行に伴い、現在は、[イオンリテール](../Page/イオンリテール.md "wikilink")と[イオン銀行](../Page/イオン銀行.md "wikilink")の事業）の[WAON](../Page/WAON.md "wikilink")との競争は「電子マネー戦争」とも評され、さらに[2007年](../Page/2007年.md "wikilink")からは[セブン&アイ・ホールディングス](../Page/セブン&アイ・ホールディングス.md "wikilink")系列のアイワイカード・サービス（現・[セブン・カードサービス](../Page/セブン・カードサービス.md "wikilink")）が発行する[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")（発行枚数890万枚）も加わり、三つ巴の争いとなっている。
 
 Suicaの残高（[ストアードフェア](https://ja.wikipedia.org/wiki/ストアードフェア "wikilink")=SF）を汎用電子マネーとして使えるという事に着目したJR東日本は、[2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")より[VIEW Suicaカード会員限定で駅の](../Page/VIEW_Suicaカード.md "wikilink")[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")「[NEWDAYS](../Page/NewDays.md "wikilink")」での利用を中心にSuica電子マネー[モニター](../Page/モニター.md "wikilink")（実用化最終テスト）を行い、翌[2004年](../Page/2004年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")より正式にSuicaショッピングサービスとしてスタートした。
 
@@ -181,7 +181,7 @@ NECインフロンティアの汎用型リーダライタ（Suica・iD・Edy・Q
   - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - [てんや全店舗へ順次導入開始](../Page/テンコーポレーション.md "wikilink")\[21\]。
   - [2月22日](../Page/2月22日.md "wikilink") - [ラゾーナ川崎プラザ](../Page/ラゾーナ川崎プラザ.md "wikilink")にiD・Edyと共に導入（共用端末にEdyが参加した初の導入事例\[22\]）。
   - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 首都圏のスリーエフ全店舗に導入完了（なお、計画当初は2006年秋までに完了する予定であった。）。
-  - [3月1日](../Page/3月1日.md "wikilink") - 東北地方の[ジャスコ](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")、マックスバリュ（一部除く）で[WAON](../Page/WAON.md "wikilink")と共に導入。
+  - [3月1日](../Page/3月1日.md "wikilink") - 東北地方の[ジャスコ](../Page/イオンリテール.md "wikilink")、マックスバリュ（一部除く）で[WAON](../Page/WAON.md "wikilink")と共に導入。
   - [3月15日](../Page/3月15日.md "wikilink") - この日より上越・長野新幹線の車内販売にSuica決済ハンディ端末を先行導入。
   - 3月18日 - [ICOCA](../Page/ICOCA.md "wikilink")と電子マネーの相互利用開始。
   - 3月X日 - [秋田駅](../Page/秋田駅.md "wikilink")構内（Suicaエリア外）のNEWDAYS、自動販売機に導入。その後、同駅にSuica対応ロッカーも導入された。

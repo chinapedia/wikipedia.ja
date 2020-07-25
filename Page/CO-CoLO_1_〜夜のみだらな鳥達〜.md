@@ -3,7 +3,7 @@
 
 『**CO-C<span class="Unicode">ó</span>LO 1 〜夜のみだらな鳥達〜**』（ココロファースト よるのみだらなとりたち）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の23作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/イーストワールドよりリリース。ちなみに発売日の[6月25日](../Page/6月25日.md "wikilink")は沢田研二の誕生日。
+[1986年](../Page/1986年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/イーストワールドよりリリース。ちなみに発売日の[6月25日](../Page/6月25日.md "wikilink")は沢田研二の誕生日。
 
 ## 解説
 

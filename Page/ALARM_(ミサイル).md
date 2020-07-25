@@ -5,7 +5,7 @@
 
 ## 概要
 
-[イギリス空軍](../Page/イギリス空軍.md "wikilink")の[マーテルの後継として](https://ja.wikipedia.org/wiki/マーテル_\(ミサイル\) "wikilink")[MBDA](../Page/MBDA.md "wikilink")社が開発し、[サウジアラビア空軍](https://ja.wikipedia.org/wiki/サウジアラビア空軍 "wikilink")でも使用されている。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にロケット・モーターの不具合が発見されたため、配備は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで遅れ、[湾岸戦争](../Page/湾岸戦争.md "wikilink")の勃発により改修の終了とともに配備された。湾岸戦争では[トーネード GR.1に搭載](../Page/トーネード_IDS.md "wikilink")、使用された。
+[イギリス空軍](../Page/イギリス空軍.md "wikilink")の[マーテルの後継として](https://ja.wikipedia.org/wiki/マーテル_\(ミサイル\) "wikilink")[MBDA](../Page/MBDA.md "wikilink")社が開発し、[サウジアラビア空軍](https://ja.wikipedia.org/wiki/サウジアラビア空軍 "wikilink")でも使用されている。[1986年](../Page/1986年.md "wikilink")にロケット・モーターの不具合が発見されたため、配備は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで遅れ、[湾岸戦争](../Page/湾岸戦争.md "wikilink")の勃発により改修の終了とともに配備された。湾岸戦争では[トーネード GR.1に搭載](../Page/トーネード_IDS.md "wikilink")、使用された。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")からは延命措置とロケット、[シーカー](https://ja.wikipedia.org/wiki/シーカー "wikilink")などを改修したALARM IIの研究が始まった。ALARM IIは[2001年](../Page/2001年.md "wikilink")に配備がなされ、[イラク戦争](../Page/イラク戦争.md "wikilink")ではトーネード GR.4と少数の[トーネード F.3が使用した](../Page/トーネード_ADV.md "wikilink")。
 

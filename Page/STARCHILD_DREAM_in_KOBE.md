@@ -71,7 +71,7 @@
   - 白石涼子
   - 野中藍
   - 堀江由衣
-  - pRythme（[麻生夏子](https://ja.wikipedia.org/wiki/麻生夏子 "wikilink")・[河瀬ゆり](https://ja.wikipedia.org/wiki/河瀬ゆり "wikilink")・[椋木えり](https://ja.wikipedia.org/wiki/椋木えり "wikilink")）
+  - pRythme（[麻生夏子](https://ja.wikipedia.org/wiki/麻生夏子 "wikilink")・[河瀬ゆり](../Page/河瀬ゆり.md "wikilink")・[椋木えり](../Page/椋木えり.md "wikilink")）
 
 ## 特番
 

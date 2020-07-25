@@ -15,7 +15,7 @@
 
 一方、[1994年](../Page/1994年.md "wikilink")からは音楽制作の活動を始め、[川内太郎](https://ja.wikipedia.org/wiki/川内太郎 "wikilink")と共に「[MALAWI ROCKS PRODUCTION](https://ja.wikipedia.org/wiki/MALAWI_ROCKS "wikilink")」を設立。それに呼応する形で[リミックスCD](https://ja.wikipedia.org/wiki/リミックスCD "wikilink")リリースの話が舞い込むようになり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にDJミックス・アルバム『[EMMA HOUSE](https://ja.wikipedia.org/wiki/EMMA_HOUSE "wikilink")』をリリースした。以後、このシリーズは現在までリリースが続いている。
 
-[2000年](../Page/2000年.md "wikilink")には自身のレーベル兼事務所「[NITELIST MUSIC](https://ja.wikipedia.org/wiki/NITELIST_MUSIC "wikilink")」を設立。現在も「EMMA HOUSE」（[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")WORLD、[宇都宮](https://ja.wikipedia.org/wiki/宇都宮 "wikilink")PLANETなど、地方開催のみ。東京は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月14日をもって、[西麻布](../Page/西麻布.md "wikilink")[YELLOW](https://ja.wikipedia.org/wiki/YELLOW "wikilink")の閉店に伴い、一旦終了）、渋谷[WOMB](https://ja.wikipedia.org/wiki/WOMB "wikilink")での「TROUBLE HOUSE」、[新木場](../Page/新木場.md "wikilink")[STUDIO COASTでの](../Page/STUDIO_COAST.md "wikilink")「ULTRA MUSIC」などを中心に、海外でのDJプレイや楽曲制作などを積極的に行っている。
+[2000年](../Page/2000年.md "wikilink")には自身のレーベル兼事務所「[NITELIST MUSIC](https://ja.wikipedia.org/wiki/NITELIST_MUSIC "wikilink")」を設立。現在も「EMMA HOUSE」（[京都](../Page/京都.md "wikilink")WORLD、[宇都宮](https://ja.wikipedia.org/wiki/宇都宮 "wikilink")PLANETなど、地方開催のみ。東京は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月14日をもって、[西麻布](../Page/西麻布.md "wikilink")[YELLOW](https://ja.wikipedia.org/wiki/YELLOW "wikilink")の閉店に伴い、一旦終了）、渋谷[WOMB](../Page/WOMB.md "wikilink")での「TROUBLE HOUSE」、[新木場](../Page/新木場.md "wikilink")[STUDIO COASTでの](../Page/STUDIO_COAST.md "wikilink")「ULTRA MUSIC」などを中心に、海外でのDJプレイや楽曲制作などを積極的に行っている。
 
 ## 概要
 

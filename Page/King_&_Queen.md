@@ -33,11 +33,11 @@
 
 ### リリース履歴
 
-| No. | 日付                                                                                            | [レーベル](../Page/レコードレーベル.md "wikilink")                 | 規格                                                                 | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                                                                                                                                             |
-| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [1996年](../Page/1996年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")                      | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールド | [CD](../Page/コンパクトディスク.md "wikilink")                              | TOCT-9350                          | 1位   |                                                                                                                                                |
-| 2   | [2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | 東芝EMI／アストロノーツスター                                       | CD                                                                 | AJCH-30010                         | \-   | [デジタルリマスタリング盤](../Page/デジタルリマスター.md "wikilink")                                                                                                |
-| 3   | [2012年](../Page/2012年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")                        | EMIミュージック・ジャパン／ヴァージン                                   | [SHM-CD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink") | TOCT-95126                         | 23位  | 2000年[デジタルリマスタリング盤](../Page/デジタルリマスター.md "wikilink")、『[MEMORIAL SUPER BOX](https://ja.wikipedia.org/wiki/MEMORIAL_SUPER_BOX "wikilink")』でのリリース |
+| No. | 日付                                                                                            | [レーベル](../Page/レコードレーベル.md "wikilink")                 | 規格                                              | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                                                                                                                                             |
+| --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------- | ---------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [1996年](../Page/1996年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")                      | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールド | [CD](../Page/コンパクトディスク.md "wikilink")           | TOCT-9350                          | 1位   |                                                                                                                                                |
+| 2   | [2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | 東芝EMI／アストロノーツスター                                       | CD                                              | AJCH-30010                         | \-   | [デジタルリマスタリング盤](../Page/デジタルリマスター.md "wikilink")                                                                                                |
+| 3   | [2012年](../Page/2012年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")                        | EMIミュージック・ジャパン／ヴァージン                                   | [SHM-CD](../Page/スーパー・ハイ・マテリアルCD.md "wikilink") | TOCT-95126                         | 23位  | 2000年[デジタルリマスタリング盤](../Page/デジタルリマスター.md "wikilink")、『[MEMORIAL SUPER BOX](https://ja.wikipedia.org/wiki/MEMORIAL_SUPER_BOX "wikilink")』でのリリース |
 
 ## ツアー
 
@@ -148,7 +148,7 @@
 3.  [DOBERMANツアーパンフレット](../Page/DOBERMAN_\(アルバム\).md "wikilink") 『THE BIBLE　別有天地非世俗』より
 4.
 5.
-6.  結果的にこの話は布袋のスケジュールの関係で実現しなかったものの、セッツァーとは後年『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』や2007年のライブ『HOTEI presents "SUPER SOUL SESSIONS" BRIAN SETZER vs HOTEI vs [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")』でも競演を果たしている。
+6.  結果的にこの話は布袋のスケジュールの関係で実現しなかったものの、セッツァーとは後年『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』や2007年のライブ『HOTEI presents "SUPER SOUL SESSIONS" BRIAN SETZER vs HOTEI vs [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")』でも競演を果たしている。
 7.
 8.
 9.  『H』収録分は映像のみライブのものであり、音源はアルバムのものが使用されている。

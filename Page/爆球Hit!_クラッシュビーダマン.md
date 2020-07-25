@@ -163,7 +163,7 @@
     声 - [斉藤瑞樹](../Page/斉藤瑞樹.md "wikilink")
     西園寺と何やら取引をしている男性。[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")で話す。アニメでは第32話から登場。
   - 謎の男
-    声 - [菅谷勇](../Page/菅谷勇.md "wikilink")、[岡林史泰](https://ja.wikipedia.org/wiki/岡林史泰 "wikilink")、永野善一
+    声 - [菅谷勇](../Page/菅谷勇.md "wikilink")、[岡林史泰](../Page/岡林史泰.md "wikilink")、永野善一
     西園寺コンツェルンの配下の組織に指令を下している男性で、少なくとも8人はいる。[コードネーム](../Page/コードネーム.md "wikilink")があるようで、「No.7」などと呼ばれている。この中でNo.7とNo.8はすでに蔵人を裏切っていた。アニメでは第8話から登場。
   - 西島 サブ（にしじま サブ）
     声 - [芝原チヤコ](../Page/芝原チヤコ.md "wikilink")
@@ -183,7 +183,7 @@
   - 我利（がり）
     声 - [河相智哉](../Page/河相智哉.md "wikilink")
   - ギララ
-    声 - [岡林史泰](https://ja.wikipedia.org/wiki/岡林史泰 "wikilink")
+    声 - [岡林史泰](../Page/岡林史泰.md "wikilink")
   - コブラ
     声 - [松本吉朗](../Page/松本ヨシロウ.md "wikilink")
     大蔵の手下。仲は決してよいとは言えず、互いにいがみあっている。アニメでは第15話から登場。

@@ -1,7 +1,7 @@
 > この記事は[What a beautiful moment](https://ja.wikipedia.org/wiki/What_a_beautiful_moment)から翻訳されています。
 
 
-『**What a beautiful moment**』（ワット・ア・ビューティフル・モーメント）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の1作目の映像作品。
+『**What a beautiful moment**』（ワット・ア・ビューティフル・モーメント）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")の1作目の映像作品。
 
 ## 内容
 
@@ -90,6 +90,6 @@ ZARD初のライブ映像を収録したDVD。主に[東京国際フォーラム
 
 ## 関連項目
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
 
 [Category:ZARDの映像作品](https://ja.wikipedia.org/wiki/Category:ZARDの映像作品 "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink")

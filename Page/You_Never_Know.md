@@ -18,7 +18,7 @@ CDジャーナルは「リズム先行のサウンドが主流の時代にメロ
 1.  **君がいない**
       -
         作詞:栗林誠一郎 編曲:栗林誠一郎・[明石昌夫](../Page/明石昌夫.md "wikilink")
-        1991年7月に[TUNE'S](../Page/TUNE'S.md "wikilink")（当時はTUNE's Blues Band名義）、1993年2月に[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が歌詞を一部変更してリリースした（ZARD版は作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")となっている）。
+        1991年7月に[TUNE'S](../Page/TUNE'S.md "wikilink")（当時はTUNE's Blues Band名義）、1993年2月に[ZARD](../Page/ZARD.md "wikilink")が歌詞を一部変更してリリースした（ZARD版は作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")となっている）。
 2.  **誰のためでもない夜**
       -
         作詞:[小田佳奈子](../Page/小田佳奈子.md "wikilink") 編曲:栗林誠一郎・明石昌夫

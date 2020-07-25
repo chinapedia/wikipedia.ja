@@ -65,7 +65,7 @@
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")8月 - **株式会社尼崎すし半本店**を[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")に設立
+  - [1968年](../Page/1968年.md "wikilink")8月 - **株式会社尼崎すし半本店**を[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")に設立
   - 1968年11月 - 第1号店、「尼崎本店」を兵庫県尼崎市に開店（現さとすし半 尼崎本店）
   - [1974年](../Page/1974年.md "wikilink")7月 - 商号を**株式会社サト**に変更
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")7月 - 洋食店第1号店を兵庫県[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")に開店
@@ -73,7 +73,7 @@
   - 1979年7月 - 中部地区第1号店を開店
   - [1982年](../Page/1982年.md "wikilink")6月 - [堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")に大阪工場を開設、本社工場を移転（本社商品センター）
   - [1984年](../Page/1984年.md "wikilink")3月 - 株式上場（大証2部）
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")11月 - 米国の[ホワイト・キャッスルと提携し](https://ja.wikipedia.org/wiki/ホワイト・キャッスル_\(ファストフード\) "wikilink")、100円バーガーとして数店を出店したが、後に撤退\[15\]。
+  - [1986年](../Page/1986年.md "wikilink")11月 - 米国の[ホワイト・キャッスルと提携し](https://ja.wikipedia.org/wiki/ホワイト・キャッスル_\(ファストフード\) "wikilink")、100円バーガーとして数店を出店したが、後に撤退\[15\]。
   - [1989年](../Page/1989年.md "wikilink")9月 - 株式を大証1部に指定替え
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月 - 本社商品センターを拡張
   - 1998年10月 - 商号を**サトレストランシステムズ株式会社**に変更

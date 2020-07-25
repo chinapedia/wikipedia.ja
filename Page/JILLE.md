@@ -68,9 +68,9 @@
   - [後藤ゆきこ](../Page/後藤ゆきこ.md "wikilink")
   - 白石、海老原、北風、竹中、羽角
   - [小倉遥](../Page/小倉遥.md "wikilink")
-  - [石橋茜](https://ja.wikipedia.org/wiki/石橋茜 "wikilink")、[佐藤由梨](https://ja.wikipedia.org/wiki/佐藤由梨 "wikilink")
+  - [石橋茜](../Page/石橋茜.md "wikilink")、[佐藤由梨](https://ja.wikipedia.org/wiki/佐藤由梨 "wikilink")
   - [松嶋初音](../Page/松嶋初音.md "wikilink")
-  - [橋本紗和](https://ja.wikipedia.org/wiki/橋本紗和 "wikilink")、[藤井梨花](https://ja.wikipedia.org/wiki/藤井梨花 "wikilink")
+  - [橋本紗和](../Page/橋本紗和.md "wikilink")、[藤井梨花](https://ja.wikipedia.org/wiki/藤井梨花 "wikilink")
   - [仁科仁美](https://ja.wikipedia.org/wiki/仁科仁美 "wikilink")
   - [高杉美和子](https://ja.wikipedia.org/wiki/高杉美和子 "wikilink")、[鈴木由美](https://ja.wikipedia.org/wiki/鈴木由美 "wikilink")、[河口恵梨](https://ja.wikipedia.org/wiki/河口恵梨 "wikilink")
   - [田中愛美](https://ja.wikipedia.org/wiki/田中愛美 "wikilink")

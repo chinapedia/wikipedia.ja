@@ -1,7 +1,7 @@
 > この記事は[広田さくら \(AV女優\)](https://ja.wikipedia.org/wiki/広田さくら_\(AV女優\))から翻訳されています。
 
 
-**広田さくら**（ひろた さくら、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月5日](../Page/8月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
+**広田さくら**（ひろた さくら、[1986年](../Page/1986年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身。身長163cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink"):B83（Cカップ-65） W60 H85。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink"):A型。趣味:読書、特技:バレーボール
 

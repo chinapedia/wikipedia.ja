@@ -8,7 +8,7 @@
 CPS-2は、2種類のボードから成り立っている。
 
   - Aボード
-    [JAMMA](https://ja.wikipedia.org/wiki/日本アミューズメントマシン工業協会 "wikilink")[ハーネスに接続し](https://ja.wikipedia.org/wiki/ワイヤーハーネス "wikilink")、またCPS-2用ゲームに共通の構成要素を含む。
+    [JAMMA](https://ja.wikipedia.org/wiki/日本アミューズメントマシン工業協会 "wikilink")[ハーネスに接続し](../Page/ワイヤーハーネス.md "wikilink")、またCPS-2用ゲームに共通の構成要素を含む。
   - Bボード
     ゲーム本体が格納される。
 
@@ -216,7 +216,7 @@ CPS-2はプログラム[ROMを](https://ja.wikipedia.org/wiki/Read_Only_Memory "
 </tr>
 <tr class="even">
 <td><p>1996年08月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロックマン2・ザ・パワーファイターズ" title="wikilink">ロックマン2・ザ・パワーファイターズ</a></p></td>
+<td><p><a href="../Page/ロックマン2・ザ・パワーファイターズ.md" title="wikilink">ロックマン2・ザ・パワーファイターズ</a></p></td>
 <td><p>Mega Man 2 - The Power Fighters</p></td>
 <td></td>
 </tr>

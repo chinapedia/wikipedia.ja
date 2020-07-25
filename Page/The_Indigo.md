@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - **市川 裕一**（いちかわ ゆういち／[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")生まれ／[東京都](../Page/東京都.md "wikilink")出身／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・トラックメイキング担当）
+  - **市川 裕一**（いちかわ ゆういち／[1968年](../Page/1968年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")生まれ／[東京都](../Page/東京都.md "wikilink")出身／[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")／[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・トラックメイキング担当）
 
 <!-- end list -->
 

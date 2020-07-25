@@ -7,7 +7,7 @@
 
 作詞は[ちあき哲也](../Page/ちあき哲也.md "wikilink")、作曲は矢沢永吉。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月25日発売の[アルバム](../Page/アルバム.md "wikilink")『[東京ナイト](https://ja.wikipedia.org/wiki/東京ナイト_\(矢沢永吉のアルバム\) "wikilink")』に収録。同年のコンサートツアーのタイトル「Feelin' come HA〜HA」は、この曲の歌詞から取られている。
+[1986年](../Page/1986年.md "wikilink")7月25日発売の[アルバム](../Page/アルバム.md "wikilink")『[東京ナイト](https://ja.wikipedia.org/wiki/東京ナイト_\(矢沢永吉のアルバム\) "wikilink")』に収録。同年のコンサートツアーのタイトル「Feelin' come HA〜HA」は、この曲の歌詞から取られている。
 
 また、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")5月18日に全米発売されたアルバム『[FLASH IN JAPAN](https://ja.wikipedia.org/wiki/FLASH_IN_JAPAN "wikilink")』（[1999年](../Page/1999年.md "wikilink")12月24日、日本発売）に、英詞版「HURRICANE」が収録されている。
 

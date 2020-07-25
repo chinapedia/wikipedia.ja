@@ -6,7 +6,7 @@
 ## 概要
 
 2000年3月まで放送された前番組『[THIS MORNING](../Page/THIS_MORNING.md "wikilink")』を受ける形で、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された朝のワイド番組。
-放送開始からの1年間は5:00 - 8:55に放送された。なお、7:00 - 7:30と8:00 - 8:20はTOKYO FMネット番組（当時：『[立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")』、現：『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』）を放送する形とした。
+放送開始からの1年間は5:00 - 8:55に放送された。なお、7:00 - 7:30と8:00 - 8:20はTOKYO FMネット番組（当時：『[立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")』、現：『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』）を放送する形とした。
 
 当初から女性パーソナリティは5時台のみの担当となっており、これは終了までそのまま引き継がれている。
 

@@ -1,7 +1,7 @@
 > この記事は[EVAアニメータ](https://ja.wikipedia.org/wiki/EVAアニメータ)から翻訳されています。
 
 
-**EVA アニメータ**（EVA ANIMATER）は、[シャープ](../Page/シャープ.md "wikilink")株式会社が開発している[動画](../Page/動画.md "wikilink")を扱うための規格及びそれを制作する同社のソフトウェアやアニメーションフォーマットの名称。同社が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に出願した[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")「EVA」が愛称である。また「EVA」は**Extended Vector Animation**の略。拡張子は**.eva**
+**EVA アニメータ**（EVA ANIMATER）は、[シャープ](../Page/シャープ.md "wikilink")株式会社が開発している[動画](../Page/動画.md "wikilink")を扱うための規格及びそれを制作する同社のソフトウェアやアニメーションフォーマットの名称。同社が[1986年](../Page/1986年.md "wikilink")に出願した[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")「EVA」が愛称である。また「EVA」は**Extended Vector Animation**の略。拡張子は**.eva**
 
 ## 概要
 

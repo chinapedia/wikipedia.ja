@@ -1,7 +1,7 @@
 > この記事は[第37回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦)から翻訳されています。
 
 
-『**第37回NHK紅白歌合戦**』（だいさんじゅうななかいエヌエイチケイこうはくうたがっせん）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算37回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時から23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
+『**第37回NHK紅白歌合戦**』（だいさんじゅうななかいエヌエイチケイこうはくうたがっせん）は、[1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算37回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時から23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
@@ -145,7 +145,7 @@
 ## 関連項目
 
   - [1986年の音楽](../Page/1986年の音楽.md "wikilink")
-  - [世界紅白歌合戦](https://ja.wikipedia.org/wiki/世界紅白歌合戦 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")・[86年の](https://ja.wikipedia.org/wiki/1986年 "wikilink")2年間[フジテレビ系列で](../Page/フジネットワーク.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』のスペシャル企画として『紅白歌合戦』の[真裏で放送された](../Page/裏番組.md "wikilink")（1985年は火曜日だったため『夜ヒット』扱いではなく『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』の一つとして）。総合司会は[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")・[芳村真理](../Page/芳村真理.md "wikilink")・[谷村新司](../Page/谷村新司.md "wikilink")。
+  - [世界紅白歌合戦](https://ja.wikipedia.org/wiki/世界紅白歌合戦 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")・[86年の](../Page/1986年.md "wikilink")2年間[フジテレビ系列で](../Page/フジネットワーク.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』のスペシャル企画として『紅白歌合戦』の[真裏で放送された](../Page/裏番組.md "wikilink")（1985年は火曜日だったため『夜ヒット』扱いではなく『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』の一つとして）。総合司会は[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")・[芳村真理](../Page/芳村真理.md "wikilink")・[谷村新司](../Page/谷村新司.md "wikilink")。
 
 ## 外部リンク
 

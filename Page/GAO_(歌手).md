@@ -25,7 +25,7 @@
   - 2011年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[歌の楽園](https://ja.wikipedia.org/wiki/歌の楽園 "wikilink")」出演。「サヨナラ」を歌唱。
   - 2011年[6月4日](../Page/6月4日.md "wikilink") [TOKYO FM](../Page/エフエム東京.md "wikilink")「KIRIN BEER “Good Luck” LIVE」に出演。アルバム曲やシングル等を披露。
   - 2011年[7月30日](../Page/7月30日.md "wikilink") [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ブラマヨとゆかいな仲間たち アツアツっ\!](https://ja.wikipedia.org/wiki/ブラマヨとゆかいな仲間たち_アツアツっ! "wikilink")」に出演。「サヨナラ」のリリース当時の話を披露。
-  - 2011年[8月15日](../Page/8月15日.md "wikilink") テレビ朝日「[もしものシミュレーションバラエティー お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")」に出演。『人気カラオケ全国ランキング 1位から10位を全て埋めるまでおわれま10』企画で「サヨナラ」を歌唱。
+  - 2011年[8月15日](../Page/8月15日.md "wikilink") テレビ朝日「[もしものシミュレーションバラエティー お試しかっ\!](../Page/もしものシミュレーションバラエティー_お試しかっ!.md "wikilink")」に出演。『人気カラオケ全国ランキング 1位から10位を全て埋めるまでおわれま10』企画で「サヨナラ」を歌唱。
   - 2011年[12月7日](../Page/12月7日.md "wikilink") [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")」に出演。コーナー『世代が分かるンデス\!』で「サヨナラ」を歌唱。
   - 2011年[12月26日](../Page/12月26日.md "wikilink") フジテレビ「史上最大の大忘年会 さんまの全日本宴会芸コンテスト」に出演。GAO本人が「サヨナラ」を披露し、途中から[渡辺直美](../Page/渡辺直美.md "wikilink")、[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")、[真栄田賢がGAOのものまねをして一緒に歌った](../Page/スリムクラブ.md "wikilink")。
   - [2012年](../Page/2012年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") フジテレビ「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演。『今聴きたい\!名曲HEY\!HEY\!HEY\!』特集で「サヨナラ」を歌唱。

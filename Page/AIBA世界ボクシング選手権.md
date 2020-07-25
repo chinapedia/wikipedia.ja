@@ -7,7 +7,7 @@
 
 [1974年](../Page/1974年.md "wikilink")に第1回開催。当初は4年に1度オリンピック中間年の開催であったが、[1989年](../Page/1989年.md "wikilink")からは2年に1度奇数年の開催となった。[オリンピックと並ぶアマチュアボクシングの権威ある大会となっている](https://ja.wikipedia.org/wiki/オリンピックボクシング競技 "wikilink")。
 
-日本人では第2回[フライ級](../Page/フライ級.md "wikilink")で[石井幸喜](https://ja.wikipedia.org/wiki/石井幸喜 "wikilink")、第14回[ライトウェルター級で](../Page/スーパーライト級.md "wikilink")[川内将嗣](../Page/川内将嗣.md "wikilink")がともに[銅メダル](../Page/銅メダル.md "wikilink")を、第16回[ミドル級](../Page/ミドル級.md "wikilink")で[村田諒太](https://ja.wikipedia.org/wiki/村田諒太 "wikilink")が[銀メダル](../Page/銀メダル.md "wikilink")を獲得している。
+日本人では第2回[フライ級](../Page/フライ級.md "wikilink")で[石井幸喜](../Page/石井幸喜.md "wikilink")、第14回[ライトウェルター級で](../Page/スーパーライト級.md "wikilink")[川内将嗣](../Page/川内将嗣.md "wikilink")がともに[銅メダル](../Page/銅メダル.md "wikilink")を、第16回[ミドル級](../Page/ミドル級.md "wikilink")で[村田諒太](https://ja.wikipedia.org/wiki/村田諒太 "wikilink")が[銀メダル](../Page/銀メダル.md "wikilink")を獲得している。
 
 階級は、2003年にライトミドル級（71kg以下）が廃止、2011年にフェザー級（57kg以下）が廃止されて、現在は10階級で行われている。
 
@@ -18,7 +18,7 @@
 | 1                                                                | [1974年](../Page/1974年.md "wikilink")                    | [ハバナ](../Page/ハバナ.md "wikilink")（）                      | 8月17日 - 30日    |
 | 2                                                                | [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") | [ベオグラード](../Page/ベオグラード.md "wikilink")（）                | 5月6日 - 20日     |
 | 3                                                                | [1982年](../Page/1982年.md "wikilink")                    | [ミュンヘン](../Page/ミュンヘン.md "wikilink")（）                  | 5月4日 - 15日     |
-| 4                                                                | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [リノ](../Page/リノ_\(ネバダ州\).md "wikilink")（）               | 5月8日 - 18日     |
+| 4                                                                | [1986年](../Page/1986年.md "wikilink")                    | [リノ](../Page/リノ_\(ネバダ州\).md "wikilink")（）               | 5月8日 - 18日     |
 | 5                                                                | [1989年](../Page/1989年.md "wikilink")                    | [モスクワ](../Page/モスクワ.md "wikilink")（）                    | 9月17日 - 10月1日  |
 | 6                                                                | [1991年](../Page/1991年.md "wikilink")                    | [シドニー](../Page/シドニー.md "wikilink")（）                    | 11月14日 - 23日   |
 | 7                                                                | [1993年](../Page/1993年.md "wikilink")                    | [タンペレ](../Page/タンペレ.md "wikilink")（）                    | 5月7日 - 16日     |
@@ -28,7 +28,7 @@
 | 11                                                               | [2001年](../Page/2001年.md "wikilink")                    | [ベルファスト](../Page/ベルファスト.md "wikilink")（）                | 6月3日 - 10日     |
 | [12](https://ja.wikipedia.org/wiki/2003年世界ボクシング選手権大会 "wikilink") | [2003年](../Page/2003年.md "wikilink")                    | [バンコク](../Page/バンコク.md "wikilink")（）                    | 7月6日 - 13日     |
 | [13](../Page/2005年世界ボクシング選手権大会.md "wikilink")                    | [2005年](../Page/2005年.md "wikilink")                    | [綿陽](../Page/綿陽市.md "wikilink")（）                       | 11月13日 - 20日   |
-| [14](https://ja.wikipedia.org/wiki/2007年世界ボクシング選手権大会 "wikilink") | [2007年](../Page/2007年.md "wikilink")                    | [シカゴ](../Page/シカゴ.md "wikilink")（）                      | 10月23日 - 11月3日 |
+| [14](../Page/2007年世界ボクシング選手権大会.md "wikilink")                    | [2007年](../Page/2007年.md "wikilink")                    | [シカゴ](../Page/シカゴ.md "wikilink")（）                      | 10月23日 - 11月3日 |
 | [15](https://ja.wikipedia.org/wiki/2009年世界ボクシング選手権大会 "wikilink") | [2009年](../Page/2009年.md "wikilink")                    | [ミラノ](../Page/ミラノ.md "wikilink")（）                      | 8月21日 - 9月5日   |
 | [16](https://ja.wikipedia.org/wiki/2011年世界ボクシング選手権大会 "wikilink") | [2011年](../Page/2011年.md "wikilink")                    | [バクー](../Page/バクー.md "wikilink")（）                      | 9月16日 - 10月1日  |
 | [17](https://ja.wikipedia.org/wiki/2013年世界ボクシング選手権大会 "wikilink") | [2013年](../Page/2013年.md "wikilink")                    | [アルマトイ](../Page/アルマトイ.md "wikilink")（）                  | 10月14日 – 26日   |

@@ -503,7 +503,7 @@ TECI-1109:通常盤</p></td>
 
 ## 関連項目
 
-  - [NORISHIROCKS](https://ja.wikipedia.org/wiki/NORISHIROCKS "wikilink")
+  - [NORISHIROCKS](../Page/NORISHIROCKS.md "wikilink")
   - [中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")
 
 ## 外部リンク

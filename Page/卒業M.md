@@ -175,7 +175,7 @@
   - キャラクター原案：西臣匡子
   - エグゼクティブプロデューサー：前山寛邦
   - プロデューサー：熊田和生
-  - 監督・演出・絵コンテ：[亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")
+  - 監督・演出・絵コンテ：[亀垣一](../Page/亀垣一.md "wikilink")
   - キャラクターデザイン・作画監督：[本橋秀之](../Page/本橋秀之.md "wikilink")
   - 色彩設定：坂井憲興
   - 美術監督：[飯島由樹子](https://ja.wikipedia.org/wiki/飯島由樹子 "wikilink")

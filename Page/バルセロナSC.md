@@ -45,7 +45,7 @@
 
   - [マルコ・エチェベリ](../Page/マルコ・エチェベリ.md "wikilink") 1997,1999
 
-  - [イバン・カビエデス](https://ja.wikipedia.org/wiki/イバン・カビエデス "wikilink") 2001-2002
+  - [イバン・カビエデス](../Page/イバン・カビエデス.md "wikilink") 2001-2002
 
   - [イバン・ウルタード](../Page/イバン・ウルタード.md "wikilink") 2002-2003, 2008
 
@@ -95,7 +95,7 @@
 
   - [ラモン・ベルヌンシオ](https://ja.wikipedia.org/wiki/ラモン・ベルヌンシオ "wikilink") 2007
 
-  - [ルイス・クビジャ](https://ja.wikipedia.org/wiki/ルイス・クビジャ "wikilink") 2007
+  - [ルイス・クビジャ](../Page/ルイス・クビジャ.md "wikilink") 2007
 
   - [エベル・ウーゴ・アルメイダ](https://ja.wikipedia.org/wiki/エベル・ウーゴ・アルメイダ "wikilink") 2008
 

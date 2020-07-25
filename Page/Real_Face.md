@@ -1,7 +1,7 @@
 > この記事は[Real Face](https://ja.wikipedia.org/wiki/Real_Face)から翻訳されています。
 
 
-「**Real Face**」（リアル フェイス）は、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")シングル。[2006年](../Page/2006年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
+「**Real Face**」（リアル フェイス）は、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")シングル。[2006年](../Page/2006年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 本作のタイトルを冠した、DVD『**[Real Face Film](https://ja.wikipedia.org/wiki/#Real_Face_Film "wikilink")**』についても本項で触れる。
 
@@ -31,7 +31,7 @@
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[バレーボール・ワールドグランドチャンピオンズカップ](../Page/バレーボール・ワールドグランドチャンピオンズカップ.md "wikilink")2005』テーマソング
 3.  **Will Be All Right**※ (4:42)
       -
-        作詞：[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、作曲・編曲：[原一博](../Page/原一博.md "wikilink")
+        作詞：[KAT-TUN](../Page/KAT-TUN.md "wikilink")、作曲・編曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
       - 日本テレビ系『バレーボール・ワールドグランドチャンピオンズカップ2005』応援ソング
       - [文化放送](../Page/文化放送.md "wikilink")『[R-One KAT-TUN](../Page/R-One_KAT-TUN.md "wikilink")』エンディングテーマ

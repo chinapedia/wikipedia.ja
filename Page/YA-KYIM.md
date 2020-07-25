@@ -7,8 +7,8 @@
 
 ## メンバー
 
-  - ALISA（本名：柿沼亜里沙）（メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ）
-  - [MIKU](https://ja.wikipedia.org/wiki/MIKU_a.k.a_Tomboy "wikilink")（本名：山崎未来）（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月25日](../Page/10月25日.md "wikilink") - ）
+  - ALISA（本名：柿沼亜里沙）（メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[1986年](../Page/1986年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ）
+  - [MIKU](https://ja.wikipedia.org/wiki/MIKU_a.k.a_Tomboy "wikilink")（本名：山崎未来）（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[1986年](../Page/1986年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - ）
   - YURIE（本名：石川友里恵）（ボーカル、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）
 
 ## 来歴

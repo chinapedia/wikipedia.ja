@@ -24,7 +24,7 @@
 ### ICE
 
   - [宮内和之](../Page/宮内和之.md "wikilink")（みやうちかずゆき、[1964年](../Page/1964年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")）ギター、楽曲アレンジ全般、[耳下腺がんのため死去](https://ja.wikipedia.org/wiki/唾液腺#耳下腺 "wikilink")。43歳没。
-  - [国岡真由美](https://ja.wikipedia.org/wiki/国岡真由美 "wikilink")（くにおかまゆみ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）ボーカル
+  - [国岡真由美](https://ja.wikipedia.org/wiki/国岡真由美 "wikilink")（くにおかまゆみ、[1968年](../Page/1968年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）ボーカル
 
 なお、宮内の晩年ふたりは結婚。夫婦でもある。
 

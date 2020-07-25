@@ -6,7 +6,7 @@
 ## 概要
 
   - いくつかの曲間に効果的にInterludeが組み込まれていることも特徴的。
-  - [ファーストアルバムとしては異例の大ヒットを記録した](https://ja.wikipedia.org/wiki/序数詞 "wikilink")。
+  - [ファーストアルバムとしては異例の大ヒットを記録した](../Page/序数詞.md "wikilink")。
   - [ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")オーディションを勝ち抜いた二人がデビューしたその年に発表したアルバム。
   - 『愛しすぎて』の後には『〜DJ WATARAI Interlude〜』、『[君をさがしてた 〜The Wedding Song〜](https://ja.wikipedia.org/wiki/Point_of_No_Return/君をさがしてた_〜The_Wedding_Song〜 "wikilink")』の後には『〜KEIKO LEE Interlude〜』と銘打ったインストゥルメンタルが収録されている（曲名クレジットとして。トラック化はされていない）。
   - [プレ](https://ja.wikipedia.org/wiki/プレ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングルの](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")『[最後の夜](https://ja.wikipedia.org/wiki/最後の夜/My_Cherie_Amour "wikilink")』、シングル『[PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink")』のB面『[TWO](../Page/PIECES_OF_A_DREAM.md "wikilink")』、シングル『[You Go Your Way](https://ja.wikipedia.org/wiki/You_Go_Your_Way "wikilink")』のB面『[B.M.N. (BIG MAN, NOW)](https://ja.wikipedia.org/wiki/You_Go_Your_Way "wikilink")』は未収録になっている。うち、『最後の夜』と『B.M.N. (BIG MAN, NOW)』は後に企画盤『[Between the Lines](../Page/Between_the_Lines.md "wikilink")』に収録され、『TWO』はベストアルバム『[CHEMISTRY 2001-2011](https://ja.wikipedia.org/wiki/CHEMISTRY_2001-2011 "wikilink")』に収録された。（『最後の夜』はCHEMISTRY 2001-2011にも収録されている。）

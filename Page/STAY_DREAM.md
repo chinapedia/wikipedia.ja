@@ -35,13 +35,13 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
+[1986年](../Page/1986年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[東芝EMIのエキスプレスレーベルより](../Page/EMIミュージック・ジャパン.md "wikilink")、[レコード](../Page/レコード.md "wikilink")、[カセットテープ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。
 
 [2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に24ビット・デジタルリマスター、紙ジャケット仕様で再リリースされた\[15\]。
 
 ## プロモーション
 
-本作に関するプロモーションとしては、8月7日に[TBS系音楽番組](../Page/TBS系列.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）に出演し、演奏前のトークでは[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と共演した後に「SUPER STAR」を演奏、また、9月1日に[日本テレビ系音楽番組](../Page/日本テレビ系列.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）にて出演した際は演奏前のトークで元妻である[石野真子](../Page/石野真子.md "wikilink")と再会し、「SUPER STAR」を演奏した。
+本作に関するプロモーションとしては、8月7日に[TBS系音楽番組](../Page/TBS系列.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）に出演し、演奏前のトークでは[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と共演した後に「SUPER STAR」を演奏、また、9月1日に[日本テレビ系音楽番組](../Page/日本テレビ系列.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（[1986年](../Page/1986年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）にて出演した際は演奏前のトークで元妻である[石野真子](../Page/石野真子.md "wikilink")と再会し、「SUPER STAR」を演奏した。
 
 ## アートワーク
 
@@ -169,7 +169,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/10月22日.md" title="wikilink">10月22日</a></p></td>
 <td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />

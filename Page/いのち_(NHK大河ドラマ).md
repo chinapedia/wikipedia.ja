@@ -1,7 +1,7 @@
 > この記事は[いのち \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/いのち_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**いのち**』は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[12月14日](../Page/12月14日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")第24作である。
+『**いのち**』は、[1986年](../Page/1986年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[12月14日](../Page/12月14日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")第24作である。
 
 ## 概要
 

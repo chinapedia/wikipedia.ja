@@ -66,8 +66,8 @@
       - [裸足のシンデレラボーイ](https://ja.wikipedia.org/wiki/サヤエンドウ/裸足のシンデレラボーイ "wikilink")（2006年）
       - [with me](https://ja.wikipedia.org/wiki/weeeek "wikilink")（2007年）
       - [Why](https://ja.wikipedia.org/wiki/weeeek "wikilink")（2007年）
-      - [SUMMER TIME](https://ja.wikipedia.org/wiki/SUMMER_TIME_\(NEWSの曲\) "wikilink")（2008年）
-      - [EASY COME, EASY GO](https://ja.wikipedia.org/wiki/SUMMER_TIME_\(NEWSの曲\) "wikilink")（2008年）
+      - [SUMMER TIME](../Page/SUMMER_TIME_\(NEWSの曲\).md "wikilink")（2008年）
+      - [EASY COME, EASY GO](../Page/SUMMER_TIME_\(NEWSの曲\).md "wikilink")（2008年）
       - [ガンガンガンバッテ](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")（2008年）
       - [恋のABO](https://ja.wikipedia.org/wiki/恋のABO "wikilink")（2009年）
       - [ラビリンス](https://ja.wikipedia.org/wiki/恋のABO "wikilink")（2009年）

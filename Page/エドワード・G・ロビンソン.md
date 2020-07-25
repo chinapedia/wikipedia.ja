@@ -1,7 +1,7 @@
 > この記事は[エドワード・G・ロビンソン](https://ja.wikipedia.org/wiki/エドワード・G・ロビンソン)から翻訳されています。
 
 
-**エドワード・G・ロビンソン**（**Edward G. Robinson**, [1893年](../Page/1893年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。[ハリウッド](../Page/ハリウッド.md "wikilink")で[性格俳優](https://ja.wikipedia.org/wiki/性格俳優 "wikilink")として活躍、50年の俳優生活で101本の映画に出演した。
+**エドワード・G・ロビンソン**（**Edward G. Robinson**, [1893年](../Page/1893年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。[ハリウッド](../Page/ハリウッド.md "wikilink")で[性格俳優](https://ja.wikipedia.org/wiki/性格俳優 "wikilink")として活躍、50年の俳優生活で101本の映画に出演した。
 
 ## 略歴
 
@@ -21,7 +21,7 @@
 
 晩年の出演としては、主演の[スティーブ・マックイーン](../Page/スティーブ・マックイーン.md "wikilink")を向こうに張る老ギャンブラーとして堂々たる貫禄を見せた『シンシナティ・キッド』(1965年)が挙げられる。
 
-[1973年](../Page/1973年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、79歳で死去。『[ソイレント・グリーン](../Page/ソイレント・グリーン.md "wikilink")』が遺作となった。現役時代にはその演技力への評価にも関わらず、アカデミー賞受賞に一度も至らなかったが、死の約2ヶ月後に開催された[第45回](https://ja.wikipedia.org/wiki/第45回アカデミー賞 "wikilink")[アカデミー賞](../Page/アカデミー賞.md "wikilink")で名誉賞が授与された。
+[1973年](../Page/1973年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、79歳で死去。『[ソイレント・グリーン](../Page/ソイレント・グリーン.md "wikilink")』が遺作となった。現役時代にはその演技力への評価にも関わらず、アカデミー賞受賞に一度も至らなかったが、死の約2ヶ月後に開催された[第45回](https://ja.wikipedia.org/wiki/第45回アカデミー賞 "wikilink")[アカデミー賞](../Page/アカデミー賞.md "wikilink")で名誉賞が授与された。
 
 ## 主な出演作品
 

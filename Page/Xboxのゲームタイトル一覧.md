@@ -65,7 +65,7 @@
 | 10月3日  | [エッグマニア つかんで\!まわして\!どっすんぱず〜る\!](https://ja.wikipedia.org/wiki/エッグマニア_つかんで!まわして!どっすんぱず〜る! "wikilink")                | |[コトブキシステム](../Page/コトブキシステム.md "wikilink")                        | ★  |
 | 10月10日 | [Jockey's Road](https://ja.wikipedia.org/wiki/Jockey's_Road "wikilink")                                             | マイクロソフト                                                            |    |
 | 10月24日 | [クラッシュ・バンディクー4 さくれつ\!魔神パワー](../Page/クラッシュ・バンディクー4_さくれつ!魔神パワー.md "wikilink")                                         | コナミ                                                                | ★  |
-| 11月14日 | [テトリスワールド](https://ja.wikipedia.org/wiki/テトリスワールド "wikilink")                                                       | サクセス                                                               | ★  |
+| 11月14日 | [テトリスワールド](../Page/テトリスワールド.md "wikilink")                                                                          | サクセス                                                               | ★  |
 | 11月21日 | [カンタム レッドシフト 超高速空間バトルレース](https://ja.wikipedia.org/wiki/カンタム_レッドシフト_超高速空間バトルレース "wikilink")                         | マイクロソフト                                                            | ★  |
 | 11月28日 | [デッド トゥ ライツ](https://ja.wikipedia.org/wiki/デッド_トゥ_ライツ "wikilink")                                                   | |[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")               | ★  |
 | 11月28日 | [ドリホー](https://ja.wikipedia.org/wiki/ドリホー "wikilink")                                                               | |[ハイウェイスター](../Page/ハイウェイスター_\(ゲーム\).md "wikilink")                |    |

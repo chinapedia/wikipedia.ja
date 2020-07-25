@@ -7,7 +7,7 @@
 
   - [1975年](../Page/1975年.md "wikilink")[9月](../Page/9月.md "wikilink") - **日本ケミカルリサーチ株式会社**設立。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 東京事務所を設置。
-  - [1992年](../Page/1992年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")（現・[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）に店頭銘柄として登録。
+  - [1992年](../Page/1992年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [日本証券業協会](../Page/日本証券業協会.md "wikilink")（現・[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）に店頭銘柄として登録。
   - [1993年](../Page/1993年.md "wikilink")[6月](../Page/6月.md "wikilink") - 本社を芦屋の現在地に移転。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")市場第2部上場。
   - [2009年](../Page/2009年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [グラクソ・スミスクライン](../Page/グラクソ・スミスクライン.md "wikilink")グループと提携。

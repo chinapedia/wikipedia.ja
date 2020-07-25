@@ -22,7 +22,7 @@
 1.  **Ya Ya (あの<ruby><rb>時代</rb><rp></rp><rt>とき</rt><rp></rp></ruby>を忘れない)** (3:54)
       -
         （作詞・作曲：[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲：サザンオールスターズ　弦管編曲：[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")）
-        [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")『[MPV](../Page/マツダ・MPV.md "wikilink")』CMソング\[1\]。
+        [マツダ](../Page/マツダ.md "wikilink")『[MPV](../Page/マツダ・MPV.md "wikilink")』CMソング\[1\]。
         歌詞に登場する「better days」とは桑田らが[青山学院大学](../Page/青山学院大学.md "wikilink")で所属していた軽音楽[サークルの名前で](../Page/クラブ活動.md "wikilink")、大学構内の様子も描写されている。ちなみに同年7月に発売されたアルバム『[NUDE MAN](../Page/NUDE_MAN.md "wikilink")』収録の「PLASTIC SUPER STAR (LIVE IN BETTER DAYS)」はその当時のライブテイクを収録したものである。
 2.  **シャッポ** (4:29)
       -

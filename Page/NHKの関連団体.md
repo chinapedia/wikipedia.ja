@@ -44,7 +44,7 @@ NHKは[教育テレビの開設など業務の拡大を続けていった結果]
 
 [2004年](../Page/2004年.md "wikilink")のチーフプロデューサーの制作費詐取に端を発した[一連のNHKの不祥事では関連団体も槍玉に挙げられるようになった](https://ja.wikipedia.org/wiki/NHKの不祥事 "wikilink")。
 
-2008年3月6日には外国人向けテレビ国際放送を行う子会社として[日本国際放送](https://ja.wikipedia.org/wiki/日本国際放送 "wikilink")を同年4月1日に設立することが発表された\[4\]。
+2008年3月6日には外国人向けテレビ国際放送を行う子会社として[日本国際放送](../Page/日本国際放送.md "wikilink")を同年4月1日に設立することが発表された\[4\]。
 
 ## 関連団体の問題点
 
@@ -73,7 +73,7 @@ NHKは[教育テレビの開設など業務の拡大を続けていった結果]
   - 株式会社[NHKプロモーション](https://ja.wikipedia.org/wiki/NHKプロモーション "wikilink")
   - 株式会社[NHKアート](https://ja.wikipedia.org/wiki/NHKアート "wikilink")
   - 株式会社[NHK出版](../Page/NHK出版.md "wikilink")（2011年1月1日「株式会社日本放送出版協会」から社名変更。ただしNHK出版の名称は十数年来略称として使われている）
-  - 株式会社[日本国際放送](https://ja.wikipedia.org/wiki/日本国際放送 "wikilink")
+  - 株式会社[日本国際放送](../Page/日本国際放送.md "wikilink")
 
 #### 業務支援分野
 

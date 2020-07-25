@@ -168,11 +168,11 @@
 
 <!-- end list -->
 
-  - 親子のふれあいや美しい自然、大国の核実験などの要件から、作品としての深さに勝るとの批評もある\[2\]。景山自身による作品解説にて、「[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[ティオマン島](https://ja.wikipedia.org/wiki/ティオマン島 "wikilink")に潜りに行った時、ストーリーが全部できちゃった。」と[剽窃](https://ja.wikipedia.org/wiki/剽窃 "wikilink")説を否定する記述がある\[3\]。
+  - 親子のふれあいや美しい自然、大国の核実験などの要件から、作品としての深さに勝るとの批評もある\[2\]。景山自身による作品解説にて、「[1986年](../Page/1986年.md "wikilink")に[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[ティオマン島](https://ja.wikipedia.org/wiki/ティオマン島 "wikilink")に潜りに行った時、ストーリーが全部できちゃった。」と[剽窃](https://ja.wikipedia.org/wiki/剽窃 "wikilink")説を否定する記述がある\[3\]。
 
 <!-- end list -->
 
-  - 角川映画「[ルビー・カイロ](https://ja.wikipedia.org/wiki/ルビー・カイロ "wikilink")」ビデオソフト(PCVE-30093・ポニーキャニオンより発売・販売)巻末には本作の予告編が収録され「製作・[角川春樹](../Page/角川春樹.md "wikilink")」となっている。製作途中、不祥事により当時の角川書店代表取締役社長を退任。製作が「COO製作委員会」の[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")メンバーであった[漆戸靖治](https://ja.wikipedia.org/wiki/漆戸靖治 "wikilink")へ交代。
+  - 角川映画「[ルビー・カイロ](https://ja.wikipedia.org/wiki/ルビー・カイロ "wikilink")」ビデオソフト(PCVE-30093・ポニーキャニオンより発売・販売)巻末には本作の予告編が収録され「製作・[角川春樹](../Page/角川春樹.md "wikilink")」となっている。製作途中、不祥事により当時の角川書店代表取締役社長を退任。製作が「COO製作委員会」の[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")メンバーであった[漆戸靖治](../Page/漆戸靖治.md "wikilink")へ交代。
 
 ## 脚注
 

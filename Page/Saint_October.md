@@ -405,7 +405,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>ロリ再戦! エルロックの超リベンジ!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田由香" title="wikilink">山田由香</a></p></td>
+<td><p><a href="../Page/山田由香.md" title="wikilink">山田由香</a></p></td>
 <td><p>筑紫大介</p></td>
 <td><p>五代春香</p></td>
 <td></td>

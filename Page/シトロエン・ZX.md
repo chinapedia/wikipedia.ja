@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に生産を終了した[GSの後継車種として登場した](../Page/シトロエン・GS.md "wikilink")[BXは](../Page/シトロエン・BX.md "wikilink")1,400-1,900ccクラスとなり、水冷エンジンを持ち装備も上級化したため、ベースモデルの[AXとの車格のギャップが大きくなり過ぎ](../Page/シトロエン・AX.md "wikilink")、GSの購買層を完全には吸収できなくなってしまった。この隙間を埋めるために[1991年](../Page/1991年.md "wikilink")に発表されたのがZXである。
+[1986年](../Page/1986年.md "wikilink")に生産を終了した[GSの後継車種として登場した](../Page/シトロエン・GS.md "wikilink")[BXは](../Page/シトロエン・BX.md "wikilink")1,400-1,900ccクラスとなり、水冷エンジンを持ち装備も上級化したため、ベースモデルの[AXとの車格のギャップが大きくなり過ぎ](../Page/シトロエン・AX.md "wikilink")、GSの購買層を完全には吸収できなくなってしまった。この隙間を埋めるために[1991年](../Page/1991年.md "wikilink")に発表されたのがZXである。
 
 同じ[PSA・プジョーシトロエン](https://ja.wikipedia.org/wiki/PSA・プジョーシトロエン "wikilink")グループの[プジョー・306](../Page/プジョー・306.md "wikilink")の[パイロットモデルという性格を持ち](../Page/パイロット版.md "wikilink")、[ホイールベース](../Page/ホイールベース.md "wikilink")は異なるが、[プラットフォームを共有している](../Page/プラットフォーム_\(自動車\).md "wikilink")。ボディ形状は5ドアの[ハッチバック](../Page/ハッチバック.md "wikilink")でスタートし、[クーペ](../Page/クーペ.md "wikilink")と呼ばれる3ドアハッチバックや、ブレークと呼ばれる[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")も後に追加された。
 

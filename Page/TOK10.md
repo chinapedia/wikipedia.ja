@@ -142,7 +142,7 @@
       - Guitars：[Steve Lukather](../Page/スティーヴ・ルカサー.md "wikilink")
       - Keyboards：[David Paich](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink")
       - Bass：[Mike Porcaro](https://ja.wikipedia.org/wiki/マイク・ポーカロ "wikilink")
-      - Drums：[Simon Phillips](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")
+      - Drums：[Simon Phillips](../Page/サイモン・フィリップス.md "wikilink")
       - Background Vocal：[Bobby Kimball](https://ja.wikipedia.org/wiki/ボビー・キンボール "wikilink")
 
 **DAYBREAK**

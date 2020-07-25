@@ -263,7 +263,7 @@
 
 :\* 原田有紀（勝手に保険証を使用された女性・ホステス） - [中野若葉](https://ja.wikipedia.org/wiki/中野若葉 "wikilink")
 
-:\* 太田（サンライズクレジット 営業推進課長） - [渡辺寛二](https://ja.wikipedia.org/wiki/渡辺寛二 "wikilink")
+:\* 太田（サンライズクレジット 営業推進課長） - [渡辺寛二](../Page/渡辺寛二.md "wikilink")
 
 :\* 遠藤清乃（典恵の娘） - [荻野なお](https://ja.wikipedia.org/wiki/荻野なお "wikilink")\[26\]
 
@@ -277,7 +277,7 @@
 
 :\* 南聡子（勝手に保険証を使用された女性・舞台女優） - [橋本亜紀](https://ja.wikipedia.org/wiki/橋本亜紀 "wikilink")
 
-:\* 有福（松本南警察署 刑事） - [加藤満](https://ja.wikipedia.org/wiki/加藤満 "wikilink")
+:\* 有福（松本南警察署 刑事） - [加藤満](../Page/加藤満.md "wikilink")
 
 :\* 冒頭の不正カード所持者 - [小林太樹](https://ja.wikipedia.org/wiki/小林太樹 "wikilink")
 

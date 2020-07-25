@@ -25,7 +25,7 @@
         作詞：[MICHICO](../Page/MICHICO.md "wikilink") / 作曲：T-Kura、MICHICO / 編曲：[T-Kura](https://ja.wikipedia.org/wiki/T-Kura "wikilink")
     <!-- end list -->
       - 『music.jp』CMソング
-      - ベストアルバム『[EXILE ENTERTAINMENT BEST](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』に再録バージョンが収録。
+      - ベストアルバム『[EXILE ENTERTAINMENT BEST](../Page/EXILE_ENTERTAINMENT_BEST.md "wikilink")』に再録バージョンが収録。
 3.  **[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")** (4:30)
       -
         作詞：[秋元康](../Page/秋元康.md "wikilink") / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")

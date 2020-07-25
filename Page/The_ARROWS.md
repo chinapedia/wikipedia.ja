@@ -313,7 +313,7 @@ MSAR-001</small></p></td>
   - 十時愛梨（原田ひとみ）・日野茜（赤﨑千夏）・高森藍子（金子有希）・星輝子（松田颯水）・堀裕子（鈴木絵理）『[絶対特権主張しますっ\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER_jewelries! "wikilink")』(2014年12月24日)
   - トカッチ（CV：平牧仁）『ブルーレンズの向こうへ』[烈車戦隊トッキュウジャー](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー "wikilink")キャラクターソング
   - カグラ（CV：森高愛）『参上\!なりきり♡GIRL』烈車戦隊トッキュウジャーキャラクターソング
-  - [高橋秀幸](https://ja.wikipedia.org/wiki/高橋秀幸 "wikilink")『高めろ！忍タリティ！！』[手裏剣戦隊ニンニンジャー](https://ja.wikipedia.org/wiki/手裏剣戦隊ニンニンジャー "wikilink")挿入歌
+  - [高橋秀幸](../Page/高橋秀幸.md "wikilink")『高めろ！忍タリティ！！』[手裏剣戦隊ニンニンジャー](https://ja.wikipedia.org/wiki/手裏剣戦隊ニンニンジャー "wikilink")挿入歌
   - [山形ユキオ](../Page/山形ユキオ.md "wikilink")『超絶ライオンハオー！』手裏剣戦隊ニンニンジャー挿入歌
   - [鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")『[Absolute Soul](https://ja.wikipedia.org/wiki/Absolute_Soul "wikilink")』[アブソリュート・デュオ](https://ja.wikipedia.org/wiki/アブソリュート・デュオ "wikilink")OP
   - にーそっくすす（木戸衣吹、優木かな、石上静香、大西沙織、加隈亜衣）

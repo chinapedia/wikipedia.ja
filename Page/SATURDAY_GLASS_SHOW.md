@@ -1,7 +1,7 @@
 > この記事は[SATURDAY GLASS SHOW](https://ja.wikipedia.org/wiki/SATURDAY_GLASS_SHOW)から翻訳されています。
 
 
-**SATURDAY GLASS SHOW** （*サタデー・グラス・ショー*）は、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。同社東京支社[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")（[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")）から生放送、[首都圏のみで聴取可能であった](../Page/首都圏_\(日本\).md "wikilink")。通称**サタグラ**、もしくは**SGS**。
+**SATURDAY GLASS SHOW** （*サタデー・グラス・ショー*）は、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。同社東京支社[STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")（[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")）から生放送、[首都圏のみで聴取可能であった](../Page/首都圏_\(日本\).md "wikilink")。通称**サタグラ**、もしくは**SGS**。
 
 ## 概要
 

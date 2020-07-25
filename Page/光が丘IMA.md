@@ -17,7 +17,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[4月24日](../Page/4月24日.md "wikilink")に現在の中央館がオープンし、[1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）[4月17日](../Page/4月17日.md "wikilink")に東館および南館がオープンした。
 
-オープン当初のキーテナントは、当時の[セゾングループ](../Page/セゾングループ.md "wikilink")（西友）の「光が丘[西武](../Page/リヴィン.md "wikilink")」店と「[忠実屋](../Page/忠実屋.md "wikilink")フランツ」だった。[1994年](../Page/1994年.md "wikilink")（平成6年）[3月1日](../Page/3月1日.md "wikilink")の忠実屋のダイエーへの吸収合併、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の「光が丘西武」のLIVINへの業態変更（1号店）、そして2016年（平成28年）3月1日のダイエーから[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")への運営承継 \[1\]を経て、現在の構成になっている。なお、ダイエーにおいては[2016年](../Page/2016年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")までダイエーで営業が続けられ、同年3月12日にイオンに変更された。
+オープン当初のキーテナントは、当時の[セゾングループ](../Page/セゾングループ.md "wikilink")（西友）の「光が丘[西武](../Page/リヴィン.md "wikilink")」店と「[忠実屋](../Page/忠実屋.md "wikilink")フランツ」だった。[1994年](../Page/1994年.md "wikilink")（平成6年）[3月1日](../Page/3月1日.md "wikilink")の忠実屋のダイエーへの吸収合併、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の「光が丘西武」のLIVINへの業態変更（1号店）、そして2016年（平成28年）3月1日のダイエーから[イオンリテール](../Page/イオンリテール.md "wikilink")への運営承継 \[1\]を経て、現在の構成になっている。なお、ダイエーにおいては[2016年](../Page/2016年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")までダイエーで営業が続けられ、同年3月12日にイオンに変更された。
 
 2000年4月9日まで[東京テアトル](../Page/東京テアトル.md "wikilink")運営の映画館「光が丘テアトル西友」が存在した。\[2\]
 

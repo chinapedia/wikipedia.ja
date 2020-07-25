@@ -223,7 +223,7 @@ IBMのi Seriesの発売の決定から、X20シリーズからは派生モデル
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:X22_UltraBase.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:X22_UltraBase_Back.jpg "wikilink") ThinkPad Xシリーズにはウルトラベース（ドッキングステーション、ポートリプリケーター）が用意されており、Xシリーズの本体をウルトラベースに装着することにより、機能を拡張することができる。
 
-ウルトラベースには[光学ドライブ](../Page/光学ドライブ.md "wikilink")（ウルトラベイなどのドライブベイに装着する構造である）、[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")、[PS/2コネクタ](https://ja.wikipedia.org/wiki/PS/2コネクタ "wikilink")、[パラレルポート](../Page/パラレルポート.md "wikilink")、および、[シリアルポート](../Page/シリアルポート.md "wikilink")などが搭載されており、ウルトラベースを利用することで、2[スピンドル](https://ja.wikipedia.org/wiki/スピンドル "wikilink")モデルかあるいはそれ以上に相当する装備を容易に使用できるようになる。
+ウルトラベースには[光学ドライブ](../Page/光学ドライブ.md "wikilink")（ウルトラベイなどのドライブベイに装着する構造である）、[フロッピーディスクドライブ](https://ja.wikipedia.org/wiki/フロッピーディスクドライブ "wikilink")、[PS/2コネクタ](https://ja.wikipedia.org/wiki/PS/2コネクタ "wikilink")、[パラレルポート](../Page/パラレルポート.md "wikilink")、および、[シリアルポート](../Page/シリアルポート.md "wikilink")などが搭載されており、ウルトラベースを利用することで、2[スピンドル](../Page/スピンドル.md "wikilink")モデルかあるいはそれ以上に相当する装備を容易に使用できるようになる。
 
 ウルトラベースは、X2xシリーズであればX2xシリーズ用ウルトラベース、X3xシリーズであればX3xシリーズ用ウルトラベース、のように、それぞれに対応した製品が用意されている。
 

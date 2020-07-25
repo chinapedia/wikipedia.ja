@@ -50,7 +50,7 @@
   - セメントミキサーズ
   - [VAXPOP](https://ja.wikipedia.org/wiki/VAXPOP "wikilink")
   - [スーザン・オズボーン](https://ja.wikipedia.org/wiki/スーザン・オズボーン "wikilink")
-  - [HUMMING BIRD](https://ja.wikipedia.org/wiki/HUMMING_BIRD_\(バンド\) "wikilink")
+  - [HUMMING BIRD](../Page/HUMMING_BIRD_\(バンド\).md "wikilink")
 
 ## 脚注
 

@@ -37,7 +37,7 @@
 
 [1984年](../Page/1984年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")にBQレコードより、[LPにてリリースされた](../Page/レコード.md "wikilink")。その際、予約特典として、「バキューム」と「解剖室」の新録音バージョンが収録された[ソノシート](../Page/ソノシート.md "wikilink")が付属されていた。この2曲はアルバム『[trash](https://ja.wikipedia.org/wiki/trash_\(ザ・スターリンのアルバム\) "wikilink")』（1981年）に収録されていた曲。このソノシートでは本アルバム参加メンバーにより、新たに録音された音源が収録されている。また、「バキューム」は歌詞が『trash』収録のものと異なっている。この音源は、後に編集盤『[STALINISM](../Page/STALINISM.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）に収録された。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")には[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")プロデュースによってリミックス版が『[Fish Inn (リミックス盤)](../Page/Fish_Inn_\(リミックス盤\).md "wikilink")』としてリリースされた。
+[1986年](../Page/1986年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")には[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")プロデュースによってリミックス版が『[Fish Inn (リミックス盤)](../Page/Fish_Inn_\(リミックス盤\).md "wikilink")』としてリリースされた。
 
 [2005年](../Page/2005年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")にはインディペンデント・レーベルのSS RECORDINGSより、24ビットデジタルリマスタリングされ、紙ジャケット仕様にて初[CD化された](../Page/コンパクトディスク.md "wikilink")\[20\]。
 

@@ -108,7 +108,7 @@ SmackDown LIVE同様、RAWにも番組の最高責任者としてマッチメー
   - [ダスティ・ローデス](../Page/ダスティ・ローデス.md "wikilink")（2009年[8月31日](../Page/8月31日.md "wikilink")）
   - [ボブ・バーカー](https://ja.wikipedia.org/wiki/ボブ・バーカー "wikilink")（2009年[9月7日](../Page/9月7日.md "wikilink")）
   - [トリッシュ・ストラタス](../Page/トリッシュ・ストラタス.md "wikilink")（2009年[9月14日](../Page/9月14日.md "wikilink")）
-  - [セドリック・ジ・エンターテイナー](https://ja.wikipedia.org/wiki/セドリック・ジ・エンターテイナー "wikilink")（2009年[9月21日](../Page/9月21日.md "wikilink")）
+  - [セドリック・ジ・エンターテイナー](../Page/セドリック・ジ・エンターテイナー.md "wikilink")（2009年[9月21日](../Page/9月21日.md "wikilink")）
   - [アル・シャープトン](https://ja.wikipedia.org/wiki/アル・シャープトン "wikilink")（2009年[9月28日](../Page/9月28日.md "wikilink")）
   - [ベン・ロスリスバーガー](../Page/ベン・ロスリスバーガー.md "wikilink")（2009年[10月5日](../Page/10月5日.md "wikilink")）
   - [ナンシー・オデール](https://ja.wikipedia.org/wiki/ナンシー・オデール "wikilink")＆[マリア・メノウノス](https://ja.wikipedia.org/wiki/マリア・メノウノス "wikilink")（2009年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")）
@@ -154,7 +154,7 @@ SmackDown LIVE同様、RAWにも番組の最高責任者としてマッチメー
   - [ジョニー・ノックスビル](https://ja.wikipedia.org/wiki/ジョニー・ノックスビル "wikilink")（2010年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")）
   - [ボビー・J.トンプソン](https://ja.wikipedia.org/wiki/ボビー・J.トンプソン "wikilink")（2010年[10月18日](../Page/10月18日.md "wikilink")）
   - [トビー・キース](https://ja.wikipedia.org/wiki/トビー・キース "wikilink")（2010年[10月25日](../Page/10月25日.md "wikilink")）
-  - [ポール・ルーベンス](https://ja.wikipedia.org/wiki/ポール・ルーベンス "wikilink")（2010年[11月1日](../Page/11月1日.md "wikilink")）
+  - [ポール・ルーベンス](../Page/ポール・ルーベンス.md "wikilink")（2010年[11月1日](../Page/11月1日.md "wikilink")）
   - [リマ・ファキ](https://ja.wikipedia.org/wiki/リマ・ファキ "wikilink")（2010年[11月29日](../Page/11月29日.md "wikilink")）
   - [アリエル・ウィンター](../Page/アリエル・ウィンター.md "wikilink")（2011年[2月14日](../Page/2月14日.md "wikilink")）
   - [ニコール・ ポリッツィ](https://ja.wikipedia.org/wiki/ニコール・_ポリッツィ "wikilink")（2011年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")）
@@ -211,7 +211,7 @@ SmackDown LIVE同様、RAWにも番組の最高責任者としてマッチメー
 
 ## 日本での放送
 
-日本国内では毎週火曜日にJ SPORTS 4で放送。これとは別に日本語字幕版、ダイジェスト『[ボトムライン](https://ja.wikipedia.org/wiki/WWE・ボトムライン "wikilink")』も放送されている。2017年と18年は[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")でも放送されていた。解説は[斎藤文彦](https://ja.wikipedia.org/wiki/斎藤文彦 "wikilink")、実況は週替わりで[高橋大輔](https://ja.wikipedia.org/wiki/高橋大輔_\(アナウンサー\) "wikilink")、[土居壮](../Page/土居壮.md "wikilink")、[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")、[新谷賢太郎](https://ja.wikipedia.org/wiki/新谷賢太郎 "wikilink")が担当していた。
+日本国内では毎週火曜日にJ SPORTS 4で放送。これとは別に日本語字幕版、ダイジェスト『[ボトムライン](https://ja.wikipedia.org/wiki/WWE・ボトムライン "wikilink")』も放送されている。2017年と18年は[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")でも放送されていた。解説は[斎藤文彦](https://ja.wikipedia.org/wiki/斎藤文彦 "wikilink")、実況は週替わりで[高橋大輔](https://ja.wikipedia.org/wiki/高橋大輔_\(アナウンサー\) "wikilink")、[土居壮](../Page/土居壮.md "wikilink")、[市川勝也](../Page/市川勝也.md "wikilink")、[新谷賢太郎](https://ja.wikipedia.org/wiki/新谷賢太郎 "wikilink")が担当していた。
 
 ## 脚注
 

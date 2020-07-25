@@ -46,7 +46,7 @@
   - [ワイ\!ワイ\!ワイ\!](../Page/ワイ!ワイ!ワイ!.md "wikilink")（[ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")、2003年10月 - 2005年11月）水曜日アシスタントなど
   - [やりすぎコージー](../Page/やりすぎコージー.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）ゴシップハンター、芸人300人が選ぶ今おもしろいネタTOP50\!「CD芸人」
   - [アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2008年11月26日）玉城のみ
-  - [松本見聞録](https://ja.wikipedia.org/wiki/松本見聞録 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2008年12月14日）玉城のみ、「ギャグ数珠つなぎ」
+  - [松本見聞録](../Page/松本見聞録.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2008年12月14日）玉城のみ、「ギャグ数珠つなぎ」
   - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")、2009年12月30日）
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（TBS、2010年1月13日）[ガレッジセール](../Page/ガレッジセール.md "wikilink")、[スリムクラブ](../Page/スリムクラブ.md "wikilink")と共にユニット「Sa:Japan」として。
   - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")） 戦績0勝1敗 最高157KB

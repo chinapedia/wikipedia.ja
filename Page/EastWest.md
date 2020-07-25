@@ -1,7 +1,7 @@
 > この記事は[EastWest](https://ja.wikipedia.org/wiki/EastWest)から翻訳されています。
 
 
-**EastWest**（イーストウェスト）は日本楽器製造（[ヤマハ](../Page/ヤマハ.md "wikilink")）東京支店の主催により、[1976年](../Page/1976年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にかけて年1回行われた[アマチュア](../Page/アマチュア.md "wikilink")[バンドのコンテスト](../Page/バンド_\(音楽\).md "wikilink")。[関東ローカル](../Page/関東ローカル.md "wikilink")の大会であったが、後にプロデビューして活躍することになるバンドを多く輩出した。
+**EastWest**（イーストウェスト）は日本楽器製造（[ヤマハ](../Page/ヤマハ.md "wikilink")）東京支店の主催により、[1976年](../Page/1976年.md "wikilink")から[1986年](../Page/1986年.md "wikilink")にかけて年1回行われた[アマチュア](../Page/アマチュア.md "wikilink")[バンドのコンテスト](../Page/バンド_\(音楽\).md "wikilink")。[関東ローカル](../Page/関東ローカル.md "wikilink")の大会であったが、後にプロデビューして活躍することになるバンドを多く輩出した。
 
 第1回のみ[新橋](../Page/新橋_\(東京都港区\).md "wikilink")[ヤクルトホール](../Page/ヤクルトホール.md "wikilink")で開催されたが、[1977年](../Page/1977年.md "wikilink")の第2回以降は[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")を会場とした。また[1979年](../Page/1979年.md "wikilink")の第4回大会からは、ジュニア／レディース／シニアの3部門に分かれた。
 
@@ -25,7 +25,7 @@
   - [LA-PPISCH](https://ja.wikipedia.org/wiki/LA-PPISCH "wikilink")(1985年決勝進出)
   - [THE HEART](https://ja.wikipedia.org/wiki/THE_HEART "wikilink")（1985年ジュニア部門グランプリ、[井口一彦](../Page/井口一彦.md "wikilink")・[斉藤律](../Page/斉藤律.md "wikilink")が所属）
   - [ヤンキース](https://ja.wikipedia.org/wiki/ヤンキース_\(バンド\) "wikilink")(1985年シニア部門グランプリ)
-  - [喝\!タルイバンド](https://ja.wikipedia.org/wiki/喝!タルイバンド "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")入賞、[垂井ひろし](https://ja.wikipedia.org/wiki/垂井ひろし "wikilink")・[嘉多山信](https://ja.wikipedia.org/wiki/嘉多山信 "wikilink")が所属）
+  - [喝\!タルイバンド](https://ja.wikipedia.org/wiki/喝!タルイバンド "wikilink")（[1986年](../Page/1986年.md "wikilink")入賞、[垂井ひろし](https://ja.wikipedia.org/wiki/垂井ひろし "wikilink")・[嘉多山信](https://ja.wikipedia.org/wiki/嘉多山信 "wikilink")が所属）
 
 ## 外部リンク
 

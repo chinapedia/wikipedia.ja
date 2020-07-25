@@ -1,7 +1,7 @@
 > この記事は[RTBF](https://ja.wikipedia.org/wiki/RTBF)から翻訳されています。
 
 
-**RTBF**(**ラジオ&テレビ・ベルギー・フランス語放送** フランス語表記：Radio télévision belge de la communauté française)はベルギーの[公共放送](../Page/公共放送.md "wikilink")局。首都[ブリュッセル](../Page/ブリュッセル.md "wikilink")及び[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")を[公用語](../Page/公用語.md "wikilink")とする同国南部[ワロン地域](../Page/ワロン地域.md "wikilink")を主な対象としている。北部[フランデレン地域](../Page/フランデレン地域.md "wikilink")では　**[vrt](https://ja.wikipedia.org/wiki/VRT "wikilink")**　が[フラマン語](../Page/フラマン語.md "wikilink")放送を行っている。
+**RTBF**(**ラジオ&テレビ・ベルギー・フランス語放送** フランス語表記：Radio télévision belge de la communauté française)はベルギーの[公共放送](../Page/公共放送.md "wikilink")局。首都[ブリュッセル](../Page/ブリュッセル.md "wikilink")及び[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")を[公用語](../Page/公用語.md "wikilink")とする同国南部[ワロン地域](../Page/ワロン地域.md "wikilink")を主な対象としている。北部[フランデレン地域](../Page/フランデレン地域.md "wikilink")では　**[vrt](../Page/VRT.md "wikilink")**　が[フラマン語](../Page/フラマン語.md "wikilink")放送を行っている。
 
 ## 歴史
 

@@ -108,7 +108,7 @@
 ### クレジットカードとして使用した場合
 
 ビックカメラSuicaカードをクレジットカードとして使用した場合、次表のように、加盟店・商品・支払方法によってビックポイントとJRE POINTのいずれかまたは両方が付与される（2018年6月28日現在）。さらに、WEB明細ポイントサービスを申し込んでいる場合、クレジットカードとしての使用があった月の翌々月16日に50ポイントのJRE POINTが付与される。なお、JCBのOki Dokiポイントを貯めることはできない。
-2012年10月1日より、ビューカードでの[楽天Edy](../Page/楽天Edy.md "wikilink")チャージ、[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")チャージ、[SMART ICOCAクイックチャージ](../Page/SMART_ICOCA.md "wikilink")、[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")オートチャージ利用分は、ポイント付与の対象外となった。\[5\]
+2012年10月1日より、ビューカードでの[楽天Edy](../Page/楽天Edy.md "wikilink")チャージ、[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")チャージ、[SMART ICOCAクイックチャージ](../Page/SMART_ICOCA.md "wikilink")、[SAPICA](../Page/SAPICA.md "wikilink")オートチャージ利用分は、ポイント付与の対象外となった。\[5\]
 
 <table>
 <thead>

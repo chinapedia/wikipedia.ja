@@ -6,7 +6,7 @@
 ## 出演者
 
   - 総合司会：[保阪尚希](../Page/保阪尚希.md "wikilink")
-  - アシスタント：[類家明日香](../Page/類家明日香.md "wikilink")（途中2007年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、第17回から[野仲美貴](../Page/野仲美貴.md "wikilink")に交代）
+  - アシスタント：[類家明日香](../Page/類家明日香.md "wikilink")（途中2007年[1月26日](../Page/1月26日.md "wikilink")、第17回から[野仲美貴](../Page/野仲美貴.md "wikilink")に交代）
   - 現役の女子大生10数名とゲスト
 
 ## 出演ゲスト

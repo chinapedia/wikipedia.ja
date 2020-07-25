@@ -1,7 +1,7 @@
 > この記事は[電撃PlayStation](https://ja.wikipedia.org/wiki/電撃PlayStation)から翻訳されています。
 
 
-『**電撃PlayStation**』（でんげきプレイステーション）は、[KADOKAWA Game Linkageが発行する](https://ja.wikipedia.org/wiki/KADOKAWA_Game_Linkage "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。発売は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")。かつては[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）により発行されていた。2020年3月28日発売のVol.686をもって定期刊行終了\[1\]\[2\]。
+『**電撃PlayStation**』（でんげきプレイステーション）は、[KADOKAWA Game Linkageが発行する](https://ja.wikipedia.org/wiki/KADOKAWA_Game_Linkage "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。発売は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")。かつては[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）により発行されていた。2020年3月28日発売のVol.686をもって定期刊行終了\[1\]\[2\]。
 
 。
 
@@ -19,7 +19,7 @@
 
 ゲーム発売と同時にインターネット上で攻略情報が氾濫する近年では速報性で不利である上にメーカーからの情報規制を受けるゲーム雑誌の攻略情報記事は時代遅れとなっており、雑誌としての特色は薄れつつある。そのため近年ではゲーム攻略記事からゲーム関連漫画へと中心の転換を計っており本誌記事で人気の漫画家やイラストレーター、読者投稿を中心とする漫画小冊子『[電撃4コマ](../Page/電撃4コマ.md "wikilink")』を毎号付録にしている。過去の別冊付録としては本誌と違った視点からゲームを語るテキストと漫画の小冊子として全10冊が刊行された「電撃Re:Play」や、攻略記事をまとめた冊子として定番化していた「電撃 Play Question SPECIAL」等がある。別冊付録がテキストや攻略中心の冊子から漫画中心の冊子に移行した事からも、編集方針の変遷が伺える。
 
-現在ターゲットとする読者層は、主に[キャラクターゲーム](../Page/キャラクターゲーム.md "wikilink")・[ギャルゲー](../Page/ギャルゲー.md "wikilink")ムなどのファン層が中心で、Vol.419における前評判ランキングでは1位が『[ペルソナ4](https://ja.wikipedia.org/wiki/ペルソナ4 "wikilink")』、5位が『[遙かなる時空の中で4](../Page/遙かなる時空の中で4.md "wikilink")』である。『[ファイナルファンタジーXIII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII "wikilink")』は3位、発売直前の『[METAL GEAR SOLID4](../Page/メタルギアソリッド4.md "wikilink")』は2位にとどまっており、競合他誌における読者ランキングとかけ離れている事から、読者の嗜好に他誌との隔たりが窺える。公式サイトではフィギュア・男装カフェ・声優関連等のニュースもゲームに関連するものならば、新作ゲーム紹介と同等の扱いで並ぶ。
+現在ターゲットとする読者層は、主に[キャラクターゲーム](../Page/キャラクターゲーム.md "wikilink")・[ギャルゲー](../Page/ギャルゲー.md "wikilink")ムなどのファン層が中心で、Vol.419における前評判ランキングでは1位が『[ペルソナ4](../Page/ペルソナ4.md "wikilink")』、5位が『[遙かなる時空の中で4](../Page/遙かなる時空の中で4.md "wikilink")』である。『[ファイナルファンタジーXIII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII "wikilink")』は3位、発売直前の『[METAL GEAR SOLID4](../Page/メタルギアソリッド4.md "wikilink")』は2位にとどまっており、競合他誌における読者ランキングとかけ離れている事から、読者の嗜好に他誌との隔たりが窺える。公式サイトではフィギュア・男装カフェ・声優関連等のニュースもゲームに関連するものならば、新作ゲーム紹介と同等の扱いで並ぶ。
 
 ## 不祥事
 

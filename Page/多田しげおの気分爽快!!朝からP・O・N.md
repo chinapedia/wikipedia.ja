@@ -122,7 +122,7 @@
   - **ヒーリングカプセル**（不定期）
   - 交通情報
   - **デイリーECOランキング**
-      - [SBSラジオ](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")「[IPPO](https://ja.wikipedia.org/wiki/IPPO "wikilink")」及び[SBCラジオ](../Page/信越放送.md "wikilink")「[坂ちゃんのずくだせえぶりでい](https://ja.wikipedia.org/wiki/坂ちゃんのずくだせえぶりでい "wikilink")」内でも放送されているが、内容は各局で異なる（いわゆる“[企画ネット](../Page/企画ネット番組.md "wikilink")”）。また、2011年5月に[浜岡原子力発電所](../Page/浜岡原子力発電所.md "wikilink")の[原子炉](../Page/原子炉.md "wikilink")運転停止が発表されて以降はコーナー冒頭での[中部電力](../Page/中部電力.md "wikilink")の提供紹介が無くなっていたが、2015年9月21日より再開した。
+      - [SBSラジオ](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")「[IPPO](https://ja.wikipedia.org/wiki/IPPO "wikilink")」及び[SBCラジオ](../Page/信越放送.md "wikilink")「[坂ちゃんのずくだせえぶりでい](../Page/坂ちゃんのずくだせえぶりでい.md "wikilink")」内でも放送されているが、内容は各局で異なる（いわゆる“[企画ネット](../Page/企画ネット番組.md "wikilink")”）。また、2011年5月に[浜岡原子力発電所](../Page/浜岡原子力発電所.md "wikilink")の[原子炉](../Page/原子炉.md "wikilink")運転停止が発表されて以降はコーナー冒頭での[中部電力](../Page/中部電力.md "wikilink")の提供紹介が無くなっていたが、2015年9月21日より再開した。
   - スキー場便り
       - 1月 - 3月、終了時期は年により異なる。2011年は[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響で、地震発生日の3月11日を最後に放送されず。
   - [快適生活ラジオショッピング](https://ja.wikipedia.org/wiki/快適生活ラジオショッピング "wikilink")

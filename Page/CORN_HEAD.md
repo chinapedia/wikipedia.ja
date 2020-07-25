@@ -682,7 +682,7 @@
 <li>Play Sound / <a href="https://ja.wikipedia.org/wiki/HUSH" title="wikilink">HUSH</a></li>
 <li>Y.G.N. / <a href="https://ja.wikipedia.org/wiki/RUDE_BOY_FACE" title="wikilink">RUDE BOY FACE</a></li>
 <li>I'm Shooter / <a href="https://ja.wikipedia.org/wiki/SILVER_BUCK" title="wikilink">SILVER BUCK</a> Ft.<a href="https://ja.wikipedia.org/wiki/VEGA-T" title="wikilink">VEGA-T</a>&amp;<a href="https://ja.wikipedia.org/wiki/YELLOW_LOVER_MAN" title="wikilink">YELLOW LOVER MAN</a></li>
-<li>大成功 / <a href="https://ja.wikipedia.org/wiki/HAN-KUN" title="wikilink">HAN-KUN</a></li>
+<li>大成功 / <a href="../Page/HAN-KUN.md" title="wikilink">HAN-KUN</a></li>
 <li>Kono Otode / <a href="https://ja.wikipedia.org/wiki/RED_RICE" title="wikilink">RED RICE</a></li>
 <li>Soccer / <a href="https://ja.wikipedia.org/wiki/EAZZY" title="wikilink">EAZZY</a></li>
 <li>Stand Up / <a href="https://ja.wikipedia.org/wiki/KEN-J." title="wikilink">KEN-J.</a></li>

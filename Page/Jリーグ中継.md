@@ -993,7 +993,7 @@ DAZNは、不具合を発見した段階で、まだ試合中であったG大阪
 <!-- end list -->
 
   - [コンサドーレライブスタジアム](../Page/コンサドーレライブスタジアム.md "wikilink")（北海道放送）
-  - [IBSスーパーサッカー](https://ja.wikipedia.org/wiki/IBSスーパーサッカー "wikilink")（茨城放送）
+  - [IBSスーパーサッカー](../Page/IBSスーパーサッカー.md "wikilink")（茨城放送）
   - [サッカースタジアムライブ](https://ja.wikipedia.org/wiki/サッカースタジアムライブ "wikilink")（NACK5）
   - [SBSビッグナイター](../Page/SBSビッグナイター.md "wikilink")（静岡放送）
   - [東海ラジオ ワイルドサッカー](../Page/東海ラジオ_ワイルドサッカー.md "wikilink")（東海ラジオ）

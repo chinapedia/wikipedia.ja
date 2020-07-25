@@ -20,7 +20,7 @@
 | 3     | [8月25日](../Page/8月25日.md "wikilink") - [27日](../Page/8月27日.md "wikilink")                                     | アオキボウル                                           | 稲橋和枝（新東京ダイヤモンドボウル）                                                    |
 | 4     | [10月7日](../Page/10月7日.md "wikilink") - [9日](../Page/10月9日.md "wikilink")                                      | 柿田川パークレーンズ                                       | 愛甲恵子（フリー）                                                             |
 | 5     | [2006年](../Page/2006年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [22日](../Page/1月22日.md "wikilink") | [博多スターレーン](../Page/博多スターレーン.md "wikilink")       | [板倉奈智美](https://ja.wikipedia.org/wiki/板倉奈智美 "wikilink")（イースタンスポーツ）    |
-| 6     | [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - [26日](../Page/2月26日.md "wikilink")                  | 星ヶ丘ボウル                                           | [清水弘子](https://ja.wikipedia.org/wiki/清水弘子 "wikilink")（フリー）            |
+| 6     | [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - [26日](../Page/2月26日.md "wikilink")                  | 星ヶ丘ボウル                                           | [清水弘子](../Page/清水弘子.md "wikilink")（フリー）                               |
 | 終     | [4月12日](../Page/4月12日.md "wikilink") - [16日](../Page/4月16日.md "wikilink")                                     | [東京ドームボウリングセンター](../Page/東京ドームシティ.md "wikilink") | [谷川章子](https://ja.wikipedia.org/wiki/谷川章子 "wikilink")（セントレジャー・マネジメント） |
 
 ## 2006-07シーズン

@@ -37,7 +37,7 @@
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink") (More Rock)
   - [BEST TRACKS ～A message to the next generation～](https://ja.wikipedia.org/wiki/BEST_TRACKS_～A_message_to_the_next_generation～ "wikilink")
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")

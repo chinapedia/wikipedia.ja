@@ -79,7 +79,7 @@
 
   -
     初ライヴからの付き合い\[5\]。
-    元[UGUISS](https://ja.wikipedia.org/wiki/UGUISS "wikilink")、元[TULIP](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")。
+    元[UGUISS](https://ja.wikipedia.org/wiki/UGUISS "wikilink")、元[TULIP](../Page/チューリップ_\(バンド\).md "wikilink")。
 
 ## 来歴
 

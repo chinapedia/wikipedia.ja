@@ -158,7 +158,7 @@
 
   - Guitars & Electric Sitar & Keyboards & Chorus：長谷川智樹
   - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")：[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")
-  - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - Drums：[宮田繁男](../Page/宮田繁男.md "wikilink")
   - Chorus：[杉並児童合唱団](../Page/杉並児童合唱団.md "wikilink")、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
 
 **love letter**

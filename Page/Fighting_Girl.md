@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 粟村元(23)…[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")
+  - 粟村元(23)…[坂口憲二](../Page/坂口憲二.md "wikilink")
   - 大伴洋輔(29)…[勝村政信](../Page/勝村政信.md "wikilink")
   - 吉田冬実(16)…[平山綾](https://ja.wikipedia.org/wiki/平山あや "wikilink")
 

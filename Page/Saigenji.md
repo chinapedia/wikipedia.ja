@@ -101,7 +101,7 @@
   - [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")『夏をあきらめて』（2006年5月）/プロデュース・ギター
   - [織田哲郎](../Page/織田哲郎.md "wikilink")『シーズン・イン・ザ・サン』（2006年9月）/編曲・ギター・コーラス
   - 比屋定篤子『君とみつけた海』（2007年11月）/作曲・編曲・ギター
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")『Walkin' in the rain』（2008年4月）/編曲
+  - [Sweep](../Page/Sweep.md "wikilink")『Walkin' in the rain』（2008年4月）/編曲
   - [多和田えみ](https://ja.wikipedia.org/wiki/多和田えみ "wikilink")『時の空』（2009年6月24日）/作曲・ギター・スキャット
   - 多和田えみ『MUSING』（2009年6月24日）/作曲・編曲・プロデュース
   - [福山潤](../Page/福山潤.md "wikilink")『Love Letters～南の街より』（2009年11月26日）/作曲・編曲・ギター

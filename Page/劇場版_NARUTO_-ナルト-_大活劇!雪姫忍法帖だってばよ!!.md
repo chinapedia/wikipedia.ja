@@ -112,7 +112,7 @@
 
 ## 主題歌
 
-  - [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「[Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")」
+  - [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「[Home Sweet Home](../Page/Home_Sweet_Home_\(YUKIの曲\).md "wikilink")」
 
 ## 同時上映
 

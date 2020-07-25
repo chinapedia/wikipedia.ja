@@ -212,7 +212,7 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
   - [新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")の熱狂的ファンでエヴァ携帯を宝物にしており、本人は電源を入れたことが無い。しかし吉岡がIZAMと喧嘩をした後、本人のいない間に子供に触らせて怒りを発散していることをばらされた（勿論電源を入れられている）\[6\]。
   - SHAZNA時代から好きな芸人として[江頭2:50](../Page/江頭2:50.md "wikilink")を挙げている。
   - [空手](https://ja.wikipedia.org/wiki/空手 "wikilink")初段である。
-  - インディーズ時代からメジャーデビューまでの間、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")[RX-7](https://ja.wikipedia.org/wiki/RX-7 "wikilink")に乗っていた。
+  - インディーズ時代からメジャーデビューまでの間、[マツダ](../Page/マツダ.md "wikilink")[RX-7](https://ja.wikipedia.org/wiki/RX-7 "wikilink")に乗っていた。
 
 ## 脚注
 

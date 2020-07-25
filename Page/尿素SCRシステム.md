@@ -97,7 +97,7 @@
 <!-- end list -->
 
   - 乗用車
-    [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")は、2009年後半から欧州市場で発売される[CX-7のディーゼル仕様に](../Page/マツダ・CX-7.md "wikilink")、尿素SCRシステムを搭載した\[11\]。しかし、独自技術によりこのシステムを不要としたクリーンディーゼル「[SKYACTIV-D](https://ja.wikipedia.org/wiki/マツダ・SKYACTIV-D "wikilink")」（[2012年](../Page/2012年.md "wikilink")発売の[CX-5から搭載](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")）を開発したため、以降はOEM供給（[ハイエース](../Page/トヨタ・ハイエース.md "wikilink") / [レジアスエース](../Page/トヨタ・レジアスエース.md "wikilink")→[ボンゴブローニイバンなど](../Page/マツダ・ボンゴ.md "wikilink")）を受ける車両などに限られている。
+    [マツダ](../Page/マツダ.md "wikilink")は、2009年後半から欧州市場で発売される[CX-7のディーゼル仕様に](../Page/マツダ・CX-7.md "wikilink")、尿素SCRシステムを搭載した\[11\]。しかし、独自技術によりこのシステムを不要としたクリーンディーゼル「[SKYACTIV-D](https://ja.wikipedia.org/wiki/マツダ・SKYACTIV-D "wikilink")」（[2012年](../Page/2012年.md "wikilink")発売の[CX-5から搭載](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")）を開発したため、以降はOEM供給（[ハイエース](../Page/トヨタ・ハイエース.md "wikilink") / [レジアスエース](../Page/トヨタ・レジアスエース.md "wikilink")→[ボンゴブローニイバンなど](../Page/マツダ・ボンゴ.md "wikilink")）を受ける車両などに限られている。
     [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")は、2015年に登場した[GD型エンジンに](https://ja.wikipedia.org/wiki/トヨタ・GDエンジン "wikilink")、尿素SCRシステムを導入している。
 
 ### 外国メーカー

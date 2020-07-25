@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - **[スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink"):7回**
+  - **[スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink"):7回**
       - 1946-47, 1969-70, 1981-82, 1982-83, 1983-84, 1985-86, 1989-90
 
 <!-- end list -->
@@ -43,7 +43,7 @@
 <tr class="header">
 <th><p>シーズン</p></th>
 <th><p>ディビジョン</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/スコティッシュカップ" title="wikilink">スコティッシュ<br />
+<th><p><a href="../Page/スコティッシュカップ.md" title="wikilink">スコティッシュ<br />
 カップ</a></p></th>
 <th><p><a href="../Page/スコティッシュリーグカップ.md" title="wikilink">リーグカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/UEFA" title="wikilink">欧州カップ</a></p></th>

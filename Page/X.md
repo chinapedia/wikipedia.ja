@@ -21,7 +21,7 @@
 
   - [伊](../Page/イタリア語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")：イクス
 
-  - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：イクソ
+  - [エス](../Page/エスペラント.md "wikilink")：イクソ
 
   - （エキス）
 

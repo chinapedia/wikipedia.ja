@@ -1,7 +1,7 @@
 > この記事は[永遠 \(ZARDの曲\)](https://ja.wikipedia.org/wiki/永遠_\(ZARDの曲\))から翻訳されています。
 
 
-「**永遠**」（えいえん）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の22作目の[シングル](../Page/シングル.md "wikilink")。
+「**永遠**」（えいえん）は、[ZARD](../Page/ZARD.md "wikilink")の22作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

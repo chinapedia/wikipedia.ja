@@ -49,7 +49,7 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
   - 『[スーパーベースボール](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")』（[BS朝日](../Page/ビーエス朝日.md "wikilink")、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
   - 『[S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』（[BS-TBS](../Page/BS-TBS.md "wikilink")、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - 『[ALWAYS Baseball](../Page/ベースボールLive.md "wikilink")』（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")、[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）
-  - 『[BS12 プロ野球中継](https://ja.wikipedia.org/wiki/BS12_プロ野球中継 "wikilink")』（[TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）
+  - 『[BS12 プロ野球中継](../Page/BS12_プロ野球中継.md "wikilink")』（[TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）
       - 北海道日本ハムファイターズを除くパ・リーグ主催試合を放送。
   - 『[J SPORTS STADIUM](../Page/J_SPORTS_STADIUM.md "wikilink")』（[J sports](https://ja.wikipedia.org/wiki/J_sports "wikilink")）
       - 中日ドラゴンズ・広島東洋カープ・オリックスバファローズ・東北楽天ゴールデンイーグルス主催全試合を放送。

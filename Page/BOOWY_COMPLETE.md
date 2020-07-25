@@ -11,7 +11,7 @@
   - 1991年12月24日に10万セット限定で発売された初版は、黒い外箱に金色で文字が刻まれる装丁になっている。その後、再発売を望む多数の声に応え1993年3月3日に15万セット限定で再リリースされた『**BOØWY COMPLETE REQUIRED EDITION**』の装丁は白いボックスに黒で文字が刻まれている。この、通称「黒箱」と「白箱」には、外箱の違い以外に、添付されたブックレットの内容にも若干の違いがあった。なお、黒箱と白箱の『[“SINGLES”](../Page/“SINGLES”.md "wikilink")』に収録されている「Marionette」がシングルバージョンではなくアルバムバージョンで収録されているため、厳密には完全版と言えない。
   - さらにその後、2002年3月29日には『[MORAL](../Page/MORAL.md "wikilink")』を除く9枚が東芝EMIによるHDCD 20bit デジタル・リマスタリング音源で、『[MORAL](../Page/MORAL.md "wikilink")』は、VICTORのデジタル・リマスター音源で収録した『**BOØWY COMPLETE 21st CENTURY 20th ANNIVERSARY EDITION**』がリリースされた。音質が改善されただけでなく、『“SINGLES”』に収録されている「Marionette」がシングルバージョンで収録されたため、まさしく完全版と言える内容になった。
   - 正規音源のコンプリートはこのボックスで可能になったが、アルバムカバーやインナースリーヴはブックレットに載っていない（フロントカバーのみ小さく単色刷り）。[LPではカスタムレーベル仕様だった](../Page/レコード.md "wikilink")『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』から『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』までの4枚についてはオリジナルCDでも東芝EMI共通のものが使われて、カラー刷り歌詞カードもモノクロになっている等、オリジナルアルバムのアートワークは再現されていなかった。このセットでもレーベルはオリジナルLPを再現していない。
-  - ボックス内のライブ盤である『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』、『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』の2枚は、後にリニューアルした『“GIGS” JUST A HERO TOUR 1986 NAKED』、『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』として発売されている。なお、Disc8の『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』、Disc10の『“SPECIALS”』以外の各アルバムも[2012年](../Page/2012年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に「BOØWY 30th ANNIVERSARY」の一環として、『[MORAL](../Page/MORAL.md "wikilink")』が[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")で、それ以外は[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")の高音質規格CDで再発売されている（『“LAST GIGS”』は『“LAST GIGS” COMPLETE』がブルースペックCD化されている）。
+  - ボックス内のライブ盤である『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』、『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』の2枚は、後にリニューアルした『“GIGS” JUST A HERO TOUR 1986 NAKED』、『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』として発売されている。なお、Disc8の『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』、Disc10の『“SPECIALS”』以外の各アルバムも[2012年](../Page/2012年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に「BOØWY 30th ANNIVERSARY」の一環として、『[MORAL](../Page/MORAL.md "wikilink")』が[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")で、それ以外は[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")の高音質規格CDで再発売されている（『“LAST GIGS”』は『“LAST GIGS” COMPLETE』がブルースペックCD化されている）。
 
 ## リリース履歴
 
@@ -118,7 +118,7 @@
       - 作詞：氷室狂介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        8thシングル「DAKARA」のB面曲。アルバム『[MORAL+3](../Page/MORAL+3.md "wikilink")』にも収録されている。「OUT\!\!」、「DAKARA」と同様、解散後まで未発表だった曲。松井常松の[スラップが聞ける数少ない曲](../Page/スラップ奏法.md "wikilink")。1987年の「“GIGS” CASE OF BOØWY」で演奏されていて、その時の模様は『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』に収録されている。
+        8thシングル「DAKARA」のB面曲。アルバム『[MORAL+3](../Page/MORAL+3.md "wikilink")』にも収録されている。「OUT\!\!」、「DAKARA」と同様、解散後まで未発表だった曲。松井常松の[スラップが聞ける数少ない曲](../Page/スラップ奏法.md "wikilink")。1987年の「“GIGS” CASE OF BOØWY」で演奏されていて、その時の模様は『[“GIGS” CASE OF BOØWY COMPLETE](../Page/“GIGS”_CASE_OF_BOOWY_COMPLETE.md "wikilink")』に収録されている。
 4.  **[OUR LANGUAGE](../Page/BAD_FEELING.md "wikilink")** (4:17)
       - 作詞・作曲：氷室京介、布袋寅泰 / 編曲：布袋寅泰
     <!-- end list -->

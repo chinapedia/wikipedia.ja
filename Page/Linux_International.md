@@ -1,7 +1,7 @@
 > この記事は[Linux International](https://ja.wikipedia.org/wiki/Linux_International)から翻訳されています。
 
 
-**Linux International**（リナックス インターナショナル、**LI**）は、[Linux](../Page/Linux.md "wikilink")関連のソフトウェア、[OSなどの促進をしている非営利団体である](../Page/オペレーティングシステム.md "wikilink")\[1\]。代表は[ジョン・"マッドドッグ"・ホール](https://ja.wikipedia.org/wiki/ジョン・ホール_\(プログラマ\) "wikilink")\[2\]。フリーおよびオープンソースソフトウェア（ [FOSS](https://ja.wikipedia.org/wiki/FLOSS "wikilink") ）の国際的な理解と利用に向けて取り組むユーザーの国際的な団体。コミュニケーションの最後の形式は2014年7月1日であるので\[3\]組織は機能していないようである。
+**Linux International**（リナックス インターナショナル、**LI**）は、[Linux](../Page/Linux.md "wikilink")関連のソフトウェア、[OSなどの促進をしている非営利団体である](../Page/オペレーティングシステム.md "wikilink")\[1\]。代表は[ジョン・"マッドドッグ"・ホール](https://ja.wikipedia.org/wiki/ジョン・ホール_\(プログラマ\) "wikilink")\[2\]。フリーおよびオープンソースソフトウェア（ [FOSS](../Page/FLOSS.md "wikilink") ）の国際的な理解と利用に向けて取り組むユーザーの国際的な団体。コミュニケーションの最後の形式は2014年7月1日であるので\[3\]組織は機能していないようである。
 
 ## 関連項目
 

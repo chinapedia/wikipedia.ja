@@ -392,7 +392,7 @@
 <td><p>2011年11月20日</p></td>
 <td><p>『私の悲しみ』<a href="https://ja.wikipedia.org/wiki/堀内博志" title="wikilink">堀内博志</a>監督</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/キユミの詩集_サユルの刺繍" title="wikilink">キユミの詩集 サユルの刺繍</a>』<a href="https://ja.wikipedia.org/wiki/杉田愉" title="wikilink">杉田愉</a>監督</p></td>
-<td><p>・男優賞:<a href="https://ja.wikipedia.org/wiki/弾丸ジャッキー" title="wikilink">松雪オラキオ</a>(『春夏秋冬くるぐる』)<br />
+<td><p>・男優賞:<a href="../Page/弾丸ジャッキー.md" title="wikilink">松雪オラキオ</a>(『春夏秋冬くるぐる』)<br />
 ・女優賞:<a href="https://ja.wikipedia.org/wiki/よこえとも子" title="wikilink">よこえとも子</a>(『私の悲しみ』)</p></td>
 <td></td>
 </tr>
@@ -715,7 +715,7 @@
 <strong><a href="../Page/三浦友和.md" title="wikilink">三浦友和</a></strong> - 『<a href="https://ja.wikipedia.org/wiki/葛城事件" title="wikilink">葛城事件</a>』『<a href="https://ja.wikipedia.org/wiki/64（ロクヨン）#映画" title="wikilink">64 -ロクヨン-</a>』<br />
 <strong><a href="../Page/オダギリジョー.md" title="wikilink">オダギリジョー</a></strong> - 『オーバー・フェンス』『<a href="https://ja.wikipedia.org/wiki/FOUJITA" title="wikilink">FOUJITA</a>』<br />
 <strong><a href="https://ja.wikipedia.org/wiki/小泉今日子" title="wikilink">小泉今日子</a></strong> - 『<a href="https://ja.wikipedia.org/wiki/ふきげんな過去" title="wikilink">ふきげんな過去</a>』<br />
-<strong><a href="https://ja.wikipedia.org/wiki/蒼井優" title="wikilink">蒼井優</a></strong> - 『オーバー・フェンス』『<a href="https://ja.wikipedia.org/wiki/岸辺の旅#映画" title="wikilink">岸辺の旅</a>』『<a href="https://ja.wikipedia.org/wiki/家族はつらいよ" title="wikilink">家族はつらいよ</a>』<br />
+<strong><a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></strong> - 『オーバー・フェンス』『<a href="https://ja.wikipedia.org/wiki/岸辺の旅#映画" title="wikilink">岸辺の旅</a>』『<a href="https://ja.wikipedia.org/wiki/家族はつらいよ" title="wikilink">家族はつらいよ</a>』<br />
 <strong><a href="../Page/前田司郎.md" title="wikilink">前田司郎</a>監督</strong> - 『ふきげんな過去』<br />
 <strong><a href="../Page/小泉徳宏.md" title="wikilink">小泉徳宏</a>監督</strong> - 『<a href="https://ja.wikipedia.org/wiki/ちはやふる#映画" title="wikilink">ちはやふる -上の句-</a>』『ちはやふる -下の句-』<br />
 <strong><a href="../Page/若葉竜也.md" title="wikilink">若葉竜也</a></strong> - 『葛城事件』<br />
@@ -830,7 +830,7 @@
 <strong><a href="../Page/山崎努.md" title="wikilink">山﨑努</a></strong> - 『長いお別れ』<br />
 <strong><a href="../Page/井浦新.md" title="wikilink">井浦新</a></strong> - 『嵐電』『<a href="https://ja.wikipedia.org/wiki/こはく_(映画)" title="wikilink">こはく</a>』『<a href="https://ja.wikipedia.org/wiki/赤い雪_Red_Snow" title="wikilink">赤い雪</a>』『<a href="https://ja.wikipedia.org/wiki/止められるか、俺たちを" title="wikilink">止められるか、俺たちを</a>』『<a href="https://ja.wikipedia.org/wiki/宮本から君へ#映画" title="wikilink">宮本から君へ</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/ドラゴンクエスト_ユア・ストーリー" title="wikilink">ドラゴンクエスト ユア・ストーリー</a>』<br />
-<strong><a href="https://ja.wikipedia.org/wiki/蒼井優" title="wikilink">蒼井優</a></strong> - 『長いお別れ』『宮本から君へ』『<a href="https://ja.wikipedia.org/wiki/斬、" title="wikilink">斬、</a>』『<a href="https://ja.wikipedia.org/wiki/ある船頭の話" title="wikilink">ある船頭の話</a>』『<a href="https://ja.wikipedia.org/wiki/海獣の子供#劇場アニメ" title="wikilink">海獣の子供</a>』<br />
+<strong><a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></strong> - 『長いお別れ』『宮本から君へ』『<a href="https://ja.wikipedia.org/wiki/斬、" title="wikilink">斬、</a>』『<a href="https://ja.wikipedia.org/wiki/ある船頭の話" title="wikilink">ある船頭の話</a>』『<a href="https://ja.wikipedia.org/wiki/海獣の子供#劇場アニメ" title="wikilink">海獣の子供</a>』<br />
 <strong><a href="https://ja.wikipedia.org/wiki/前田敦子" title="wikilink">前田敦子</a></strong> - 『<a href="https://ja.wikipedia.org/wiki/旅のおわり世界のはじまり" title="wikilink">旅のおわり世界のはじまり</a>』『<a href="https://ja.wikipedia.org/wiki/葬式の名人" title="wikilink">葬式の名人</a>』『<a href="https://ja.wikipedia.org/wiki/町田くんの世界#映画" title="wikilink">町田くんの世界</a>』『<a href="https://ja.wikipedia.org/wiki/マスカレード・ホテル#映画" title="wikilink">マスカレード・ホテル</a>』<br />
 『<a href="https://ja.wikipedia.org/wiki/コンフィデンスマンJP#映画" title="wikilink">コンフィデンスマンJP</a>』<br />
 <strong><a href="https://ja.wikipedia.org/wiki/山戸結希" title="wikilink">山戸結希</a>監督</strong> - 『<a href="https://ja.wikipedia.org/wiki/ホットギミック_ガールミーツボーイ" title="wikilink">ホットギミック ガールミーツボーイ</a>』『<a href="https://ja.wikipedia.org/wiki/21世紀の女の子" title="wikilink">21世紀の女の子</a>』<br />
@@ -1521,7 +1521,7 @@ beyond's presents 映像と音のLIVE -- 劇伴の実験</p></td>
 <td><p>2015年8月29日</p></td>
 <td><p>[<a href="http://www.tamaeiga.org/special/minna/">http://www.tamaeiga.org/special/minna/</a>　「みんなの学校」上映会]</p></td>
 <td><p>『みんなの学校』</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湯浅誠" title="wikilink">湯浅誠</a></p></td>
+<td><p><a href="../Page/湯浅誠.md" title="wikilink">湯浅誠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年2月13日</p></td>

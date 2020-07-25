@@ -7,7 +7,7 @@
 
 ## 概要
 
-[カプコン](../Page/カプコン.md "wikilink")の[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』の映画化権を持つ[コンスタンティン・フィルム](https://ja.wikipedia.org/wiki/コンスタンティン・フィルム "wikilink")から監督に抜擢され、前作の監督・脚本・製作を担当した [ポール・W・S・アンダーソン](../Page/ポール・W・S・アンダーソン.md "wikilink")は、同時期に制作していた[エイリアンVSプレデター (映画)に監督として参加し](https://ja.wikipedia.org/wiki/エイリアンVSプレデター_\(映画\) "wikilink")、撮影に入っていたため\[1\]、本作では脚本と製作に周り、ポールが指名する形で\[2\]、本作の監督はが担当することになった。主演のアリス役は『I』に引き続き[ミラ・ジョヴォヴィッチ](../Page/ミラ・ジョヴォヴィッチ.md "wikilink")が務める。
+[カプコン](../Page/カプコン.md "wikilink")の[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』の映画化権を持つ[コンスタンティン・フィルム](https://ja.wikipedia.org/wiki/コンスタンティン・フィルム "wikilink")から監督に抜擢され、前作の監督・脚本・製作を担当した [ポール・W・S・アンダーソン](../Page/ポール・W・S・アンダーソン.md "wikilink")は、同時期に制作していた[エイリアンVSプレデター (映画)に監督として参加し](https://ja.wikipedia.org/wiki/エイリアンVSプレデター_\(映画\) "wikilink")、撮影に入っていたため\[1\]、本作では脚本と製作に周り、ポールが指名する形で\[2\]、本作の監督はが担当することになった。主演のアリス役は『I』に引き続き[ミラ・ジョヴォヴィッチ](../Page/ミラ・ジョヴォヴィッチ.md "wikilink")が務める。
 
 シリーズの他の作品はPG-12指定を受けているが本作はシリーズで唯一受けていない。
 
@@ -386,7 +386,7 @@
   - 撮影 - [クリスチャン・セバルト](https://ja.wikipedia.org/wiki/クリスチャン・セバルト "wikilink")、[デレク・ロジャース](https://ja.wikipedia.org/wiki/デレク・ロジャース "wikilink")
   - 編集 - エディ・ハミルトン
   - 音楽 - [ジェフ・ダナ](https://ja.wikipedia.org/wiki/ジェフ・ダナ "wikilink")
-  - 原案 - [カプコン](../Page/カプコン.md "wikilink")『[バイオハザード](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
+  - 原案 - [カプコン](../Page/カプコン.md "wikilink")『[バイオハザード](../Page/バイオハザードシリーズ.md "wikilink")』
   - ノヴェライズ本 - [角川ホラー文庫](../Page/角川文庫.md "wikilink")
   - 視覚効果 - [ダブル・ネガティブ](https://ja.wikipedia.org/wiki/ダブル・ネガティブ "wikilink")
 

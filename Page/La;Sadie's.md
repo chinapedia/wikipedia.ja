@@ -44,7 +44,7 @@
 ### 旧メンバー
 
   - 紫緒（[ギター](../Page/ギター.md "wikilink")）
-    [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")生まれ、[兵庫県](../Page/兵庫県.md "wikilink")出身、血液型A型。
+    [1月26日](../Page/1月26日.md "wikilink")生まれ、[兵庫県](../Page/兵庫県.md "wikilink")出身、血液型A型。
     当時のバンド歴は3年（ex. SHЁY≠DЁ → Fistiv Eye's → na：rses）
 
 <small>メンバーの詳細はすべて「[…結末…](https://ja.wikipedia.org/wiki/La;Sadie's#書籍 "wikilink")」から出典。</small>

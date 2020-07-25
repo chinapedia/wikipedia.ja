@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [今夜もハッスル](https://ja.wikipedia.org/wiki/今夜もハッスル "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")、2008年7月12日）
+  - [今夜もハッスル](../Page/今夜もハッスル.md "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")、2008年7月12日）
   - [お笑いメリーゴーランド](https://ja.wikipedia.org/wiki/お笑いメリーゴーランド "wikilink")（TBSテレビ、2008年10月16日）- 第2回で[友近](../Page/友近.md "wikilink")、[木村明浩](https://ja.wikipedia.org/wiki/木村明浩 "wikilink")（[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")）、[指圧野郎](https://ja.wikipedia.org/wiki/指圧野郎 "wikilink")と一緒に「友近チーム」のメンバーで出演
   - [千鳥のぼっけぇTV\!](../Page/千鳥のぼっけぇTV!.md "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）
   - [ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")（毎日放送）

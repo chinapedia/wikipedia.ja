@@ -94,7 +94,7 @@
 
 飼育中の動物は[ジャージー牛](../Page/ジャージー種.md "wikilink")、[アルパカ](../Page/アルパカ.md "wikilink")、[ウマ](../Page/ウマ.md "wikilink")、[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")、[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")、[カピバラ](../Page/カピバラ.md "wikilink")、[イヌ](../Page/イヌ.md "wikilink")、[ウサギ](../Page/ウサギ.md "wikilink")、[モルモット](../Page/モルモット.md "wikilink")、[アヒル](../Page/アヒル.md "wikilink")、[ハクチョウ](../Page/ハクチョウ.md "wikilink")、[コイ](https://ja.wikipedia.org/wiki/コイ "wikilink")である。
 
-那須りんどう湖レイクビューの5頭のアルパカは株式会社[山古志アルパカ村ゆかりである](https://ja.wikipedia.org/wiki/山古志村 "wikilink")。2018年8月16日[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の夕刊に旧・[山古志村](https://ja.wikipedia.org/wiki/山古志村 "wikilink")（現・[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）のアルパカとのつながりの記事が掲載された。
+那須りんどう湖レイクビューの5頭のアルパカは株式会社[山古志アルパカ村ゆかりである](https://ja.wikipedia.org/wiki/山古志村 "wikilink")。2018年8月16日[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の夕刊に旧・[山古志村](https://ja.wikipedia.org/wiki/山古志村 "wikilink")（現・[長岡市](../Page/長岡市.md "wikilink")）のアルパカとのつながりの記事が掲載された。
 
   - ふれあい動物コーナー（モルモットやウサギを抱くことができる。）
   - 餌あげ体験（アルパカ、ウマ、ヤギ、ヒツジ、ウシにエサを与える体験ができる。動物によってエサの種類が異なる。）

@@ -193,7 +193,7 @@
 <a href="../Page/稲葉実.md" title="wikilink">稲葉実</a><br />
 <a href="../Page/深見梨加.md" title="wikilink">深実りか</a><br />
 <a href="../Page/吉田美保.md" title="wikilink">吉田美保</a><br />
-<a href="https://ja.wikipedia.org/wiki/佐藤ユリ" title="wikilink">佐藤ユリ</a></p></td>
+<a href="../Page/佐藤ユリ.md" title="wikilink">佐藤ユリ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

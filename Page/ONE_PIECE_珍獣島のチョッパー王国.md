@@ -74,7 +74,7 @@ DVD版は2002年10月21日発売。映画10作目を記念して[Blu-ray Disc版
 
 ## スタッフ
 
-  - 製作 - [高岩淡](https://ja.wikipedia.org/wiki/高岩淡 "wikilink")、泊懋、[山下秀樹](https://ja.wikipedia.org/wiki/山下秀樹 "wikilink")、宮内正喜、東聡
+  - 製作 - [高岩淡](../Page/高岩淡.md "wikilink")、泊懋、[山下秀樹](https://ja.wikipedia.org/wiki/山下秀樹 "wikilink")、宮内正喜、東聡
   - 原作 - [尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
   - 企画 - 清水慎治
   - 脚本 - [橋本裕志](../Page/橋本裕志.md "wikilink")

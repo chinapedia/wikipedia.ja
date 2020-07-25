@@ -673,7 +673,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/清水弘子" title="wikilink">清水弘子</a></p></td>
+<td><p><a href="../Page/清水弘子.md" title="wikilink">清水弘子</a></p></td>
 <td><p>魅惑のレフティ</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -1664,7 +1664,7 @@
 <td><p>現・小山幸恵</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/清水弘子" title="wikilink">清水弘子</a></p></td>
+<td><p><a href="../Page/清水弘子.md" title="wikilink">清水弘子</a></p></td>
 <td><p>魅惑のレフティ</p></td>
 <td><p>◎</p></td>
 <td><p>1</p></td>
@@ -5004,6 +5004,6 @@ D:坂本詩緒里 168、E:岩見彩乃 181、F:キム・スルギ 168<br />
 58. 藤田が[全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")の地方予選ロケで不在のため。[高校生クイズ南九州大会（日テレ公式サイト）](http://www.ntv.co.jp/quiz/schedule/minamiKyushu.html)
 59. [ボウリング革命 P★League-Yahoo\!テレビ.Gガイド〔テレビ番組表〕](http://tv.yahoo.co.jp/program/70307066/)
 60.
-61. 浅田梨奈、[大石奈緒](https://ja.wikipedia.org/wiki/大石奈緒 "wikilink")、[片井文乃](https://ja.wikipedia.org/wiki/片井文乃 "wikilink")、[金城愛乃](https://ja.wikipedia.org/wiki/金城愛乃 "wikilink")、[酒井美佳](https://ja.wikipedia.org/wiki/酒井美佳 "wikilink")、[酒井玲佳](https://ja.wikipedia.org/wiki/酒井玲佳 "wikilink")、[清水弘子](https://ja.wikipedia.org/wiki/清水弘子 "wikilink")、[高坂麻衣](https://ja.wikipedia.org/wiki/高坂麻衣 "wikilink")、竹俣茉耶、[谷川章子](https://ja.wikipedia.org/wiki/谷川章子 "wikilink")、戸塚里恵、[中谷優子](../Page/中谷優子.md "wikilink")、[名和秋](https://ja.wikipedia.org/wiki/名和秋 "wikilink")、[長谷川真実](https://ja.wikipedia.org/wiki/長谷川真実 "wikilink")、[姫路麗](https://ja.wikipedia.org/wiki/姫路麗 "wikilink")、[松永裕美](https://ja.wikipedia.org/wiki/松永裕美 "wikilink")、[宮城鈴菜](https://ja.wikipedia.org/wiki/宮城鈴菜 "wikilink")、[森彩奈江](https://ja.wikipedia.org/wiki/森彩奈江 "wikilink")、[吉田真由美](https://ja.wikipedia.org/wiki/吉田真由美 "wikilink")。
+61. 浅田梨奈、[大石奈緒](https://ja.wikipedia.org/wiki/大石奈緒 "wikilink")、[片井文乃](https://ja.wikipedia.org/wiki/片井文乃 "wikilink")、[金城愛乃](https://ja.wikipedia.org/wiki/金城愛乃 "wikilink")、[酒井美佳](https://ja.wikipedia.org/wiki/酒井美佳 "wikilink")、[酒井玲佳](https://ja.wikipedia.org/wiki/酒井玲佳 "wikilink")、[清水弘子](../Page/清水弘子.md "wikilink")、[高坂麻衣](https://ja.wikipedia.org/wiki/高坂麻衣 "wikilink")、竹俣茉耶、[谷川章子](https://ja.wikipedia.org/wiki/谷川章子 "wikilink")、戸塚里恵、[中谷優子](../Page/中谷優子.md "wikilink")、[名和秋](https://ja.wikipedia.org/wiki/名和秋 "wikilink")、[長谷川真実](https://ja.wikipedia.org/wiki/長谷川真実 "wikilink")、[姫路麗](https://ja.wikipedia.org/wiki/姫路麗 "wikilink")、[松永裕美](https://ja.wikipedia.org/wiki/松永裕美 "wikilink")、[宮城鈴菜](https://ja.wikipedia.org/wiki/宮城鈴菜 "wikilink")、[森彩奈江](https://ja.wikipedia.org/wiki/森彩奈江 "wikilink")、[吉田真由美](https://ja.wikipedia.org/wiki/吉田真由美 "wikilink")。
 62. 選ばれた7人は過去のP★トークでの出演回数・面白トークや面白場面、そして心に残るトーク等を作ったPリーガーが中心。
 63. [P★LEAGUEオフィシャルグッズ情報｜P★League](http://www.p-league.jp/goods/index.html)

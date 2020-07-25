@@ -144,7 +144,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アンリミテッド・オーバースキル" title="wikilink">アンリミテッド・オーバースキル</a></p></td>
 <td><p><a href="../Page/神野オキナ.md" title="wikilink">神野オキナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/唯" title="wikilink">唯</a></p></td>
+<td><p><a href="../Page/唯.md" title="wikilink">唯</a></p></td>
 <td><p>単巻</p></td>
 </tr>
 <tr class="even">
@@ -526,7 +526,7 @@
 <td><p>全7巻</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/くろかの" title="wikilink">くろかの</a></p></td>
+<td><p><a href="../Page/くろかの.md" title="wikilink">くろかの</a></p></td>
 <td><p>夏緑</p></td>
 <td><p><a href="../Page/さいとうつかさ.md" title="wikilink">さいとうつかさ</a></p></td>
 <td><p>単巻</p></td>
@@ -635,7 +635,7 @@
 <td><p>単巻</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴッデス!" title="wikilink">ゴッデス!</a></p></td>
+<td><p><a href="../Page/ゴッデス!.md" title="wikilink">ゴッデス!</a></p></td>
 <td><p><a href="../Page/ひかわ玲子.md" title="wikilink">ひかわ玲子</a></p></td>
 <td><p><a href="../Page/近衛乙嗣.md" title="wikilink">近衛乙嗣</a></p></td>
 <td><p>全3巻</p></td>

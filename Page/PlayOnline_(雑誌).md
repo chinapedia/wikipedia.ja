@@ -23,7 +23,7 @@
 
   - [QUAKE](https://ja.wikipedia.org/wiki/QUAKE "wikilink")
   - [ディアブロ](../Page/ディアブロ_\(ゲーム\).md "wikilink")
-  - [ウルティマオンライン](https://ja.wikipedia.org/wiki/ウルティマオンライン "wikilink")
+  - [ウルティマオンライン](../Page/ウルティマオンライン.md "wikilink")
   - [エバークエスト](../Page/エバークエスト.md "wikilink") など
 
 ## 外部リンク

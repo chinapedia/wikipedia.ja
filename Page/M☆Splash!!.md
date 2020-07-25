@@ -37,7 +37,7 @@
 
 ## その他
 
-  - MC[庄司こなつ](https://ja.wikipedia.org/wiki/庄司こなつ "wikilink")・[村井真里](../Page/村井真里.md "wikilink")（2009年シーズンで退任）・[渡辺将成](https://ja.wikipedia.org/wiki/渡辺将成 "wikilink")と試合前・後のステージを盛り上げている。
+  - MC[庄司こなつ](../Page/庄司こなつ.md "wikilink")・[村井真里](../Page/村井真里.md "wikilink")（2009年シーズンで退任）・[渡辺将成](https://ja.wikipedia.org/wiki/渡辺将成 "wikilink")と試合前・後のステージを盛り上げている。
   - 2006年度のメンバーにかつて「[みんなが出るテレビ](../Page/みんなが出るテレビ.md "wikilink")」（[tvk](../Page/テレビ神奈川.md "wikilink")）のレポーターとして出演していた[水木香](../Page/水木香.md "wikilink")がいる（番組で共演した[出口紗智子](https://ja.wikipedia.org/wiki/出口紗智子 "wikilink")はチームヴィーナスの2007年度メンバー）。
   - 同じく2006年度メンバーの[生宗香](https://ja.wikipedia.org/wiki/生宗香 "wikilink")が[『ぷっ』すま](../Page/『ぷっ』すま.md "wikilink") ([テレビ朝日](../Page/テレビ朝日.md "wikilink")・2007年1月16日放送)の「ペア当て眼力バトル\! リアル神経衰弱\!」に出題者として出演。マスコットの[マーくん](https://ja.wikipedia.org/wiki/マーくん "wikilink")も応援に駆けつけた。
   - [女優魂](../Page/女優魂.md "wikilink")（[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")制作・日本テレビ系列ネット）にメンバーのうち2名が出演したことがある。この時はチア・ドラゴンズからも2名が出演し、その4人のうちの誰が偽物かを当てる内容だった。偽物を演じたのは[鈴木あきえ](../Page/鈴木あきえ.md "wikilink")でチア・ドラゴンズに扮していた。

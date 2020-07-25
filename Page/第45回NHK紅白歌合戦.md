@@ -123,7 +123,7 @@
 
 今回から[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）まで[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属グループからの出場歌手は[SMAP](../Page/SMAP.md "wikilink")と[TOKIO](../Page/TOKIO.md "wikilink")（今回初出場）の2組のみとなった\[36\]。
 
-[松任谷由実](../Page/松任谷由実.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』の主題歌「[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")」を担当）・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")らが出場を辞退した\[37\]。
+[松任谷由実](../Page/松任谷由実.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』の主題歌「[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")」を担当）・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[中島みゆき](../Page/中島みゆき.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")らが出場を辞退した\[37\]。
 
 ### その他
 

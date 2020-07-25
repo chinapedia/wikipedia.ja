@@ -15,7 +15,7 @@
       - [和矢・久美のタラレバニラNEO](https://ja.wikipedia.org/wiki/和矢・久美のタラレバニラNEO "wikilink")（パーソナリティー：[一条和矢](../Page/一条和矢.md "wikilink")・[夏目久美](../Page/夏目久美.md "wikilink")）
       - [体育倉庫'5\!](https://ja.wikipedia.org/wiki/体育倉庫'5! "wikilink")（パーソナリティー：[酒井玲](https://ja.wikipedia.org/wiki/酒井玲 "wikilink")・[カルア](https://ja.wikipedia.org/wiki/カルア "wikilink")・[深月れいの](https://ja.wikipedia.org/wiki/深月れいの "wikilink")・[畑谷明日香](https://ja.wikipedia.org/wiki/畑谷明日香 "wikilink")・[木下鈴奈](../Page/木下鈴奈.md "wikilink")）
       - [花園BL倶楽部](https://ja.wikipedia.org/wiki/花園BL倶楽部 "wikilink")（パーソナリティ：[一条和矢](../Page/一条和矢.md "wikilink")・[佐藤勝巨](https://ja.wikipedia.org/wiki/佐藤勝巨 "wikilink")）
-  - [「ちあ+からのチ・カ・ラ」&「ラジオTempa」](https://ja.wikipedia.org/wiki/「ちあ+からのチ・カ・ラ」&「ラジオTempa」 "wikilink")\[2\]（パーソナリティー：[宮沢ゆあな](https://ja.wikipedia.org/wiki/宮沢ゆあな "wikilink")・[薬師るり](../Page/薬師るり.md "wikilink")・[朝樹りさ](../Page/朝樹りさ.md "wikilink")・[上田朱音](https://ja.wikipedia.org/wiki/上田朱音 "wikilink")）
+  - [「ちあ+からのチ・カ・ラ」&「ラジオTempa」](https://ja.wikipedia.org/wiki/「ちあ+からのチ・カ・ラ」&「ラジオTempa」 "wikilink")\[2\]（パーソナリティー：[宮沢ゆあな](../Page/宮沢ゆあな.md "wikilink")・[薬師るり](../Page/薬師るり.md "wikilink")・[朝樹りさ](../Page/朝樹りさ.md "wikilink")・[上田朱音](https://ja.wikipedia.org/wiki/上田朱音 "wikilink")）
   - [☆（ビク）ラジ〜南国でイって何が悪い。〜](https://ja.wikipedia.org/wiki/☆（ビク）ラジ〜南国でイって何が悪い。〜 "wikilink")（パーソナリティー：[東かりん](https://ja.wikipedia.org/wiki/東かりん "wikilink")・[青葉りんご](../Page/青葉りんご.md "wikilink")）
   - [教えて\!ご主人様ぁ〜](https://ja.wikipedia.org/wiki/教えて!ご主人様ぁ〜 "wikilink")
   - [菜々美&いりたんの飲んべぇでいいよ in Galge.com](https://ja.wikipedia.org/wiki/菜々美&いりたんの飲んべぇでいいよ#菜々美&いりたんの飲んべぇでいいよ_in_Galge.com "wikilink")（パーソナリティー：[夏川菜々美](https://ja.wikipedia.org/wiki/夏川菜々美 "wikilink")・入井聡\[3\]）

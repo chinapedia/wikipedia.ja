@@ -15,7 +15,7 @@
   - [2006年](../Page/2006年.md "wikilink")、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink") houzan's cosmos CircutLadyとして活動。
   - [2007年](../Page/2007年.md "wikilink")、グラビアアイドルユニット[VENUS](../Page/VENUS_\(2007年結成のアイドルユニット\).md "wikilink")（[安藤悠美](../Page/安藤悠美.md "wikilink")、つばきあみ、[永作あいり](https://ja.wikipedia.org/wiki/永作あいり "wikilink")）を結成。
   - 同年、[ABCヴィーナスバトル](../Page/ABCヴィーナスバトル.md "wikilink")2007〜有名企業イメージガール選択会議（[ABC](../Page/朝日放送テレビ.md "wikilink")）にて、[JINRO](https://ja.wikipedia.org/wiki/眞露 "wikilink")、[マンダム](../Page/マンダム.md "wikilink")、『[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")』（集英社）の各代表からの指名を受け、抽選の結果、『週刊プレイボーイ』誌の宣伝活動を担うこととなった。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のバラエティ番組『[おねがい\!マスカット](https://ja.wikipedia.org/wiki/おねがい!マスカット "wikilink")』のレギュラー出演者・[恵比寿マスカッツ](https://ja.wikipedia.org/wiki/恵比寿マスカッツ "wikilink")の1期生となる。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のバラエティ番組『[おねがい\!マスカット](../Page/おねがい!マスカット.md "wikilink")』のレギュラー出演者・[恵比寿マスカッツ](https://ja.wikipedia.org/wiki/恵比寿マスカッツ "wikilink")の1期生となる。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")から、SDN48（2期生）として活動開始\[2\]。これに伴い、『[ちょいとマスカット\!](https://ja.wikipedia.org/wiki/ちょいとマスカット! "wikilink")』のレギュラー・恵比寿マスカッツを卒業。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")、『[すっぽんの女たち](https://ja.wikipedia.org/wiki/すっぽんの女たち "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）番組内でSDN48デビュー曲を歌う選抜メンバー12人を発表、最終順位4位になる（2期生最上位）。
   - [2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた『SDN48 コンサート「NEXT ENCORE」 in NHKホール』をもってSDN48を卒業。
@@ -117,7 +117,7 @@
   - [女子アナ一直線\!](../Page/女子アナ一直線!.md "wikilink")（2007年7月 - 9月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - 週刊プレイガール（2007年10月 - 2008年3月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - プレイガール
   - [オビラジR](../Page/オビラジR.md "wikilink")（2007年10月 - 2009年3月、[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [おねがい\!マスカット](https://ja.wikipedia.org/wiki/おねがい!マスカット "wikilink") （2008年5月19日 - 2009年3月31日、テレビ東京）
+  - [おねがい\!マスカット](../Page/おねがい!マスカット.md "wikilink") （2008年5月19日 - 2009年3月31日、テレビ東京）
   - [アイドル@deep](https://ja.wikipedia.org/wiki/アイドル@deep "wikilink")（2009年1月16日 - 3月27日、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
   - [白黒アンジャッシュ](../Page/白黒アンジャッシュ.md "wikilink")（2009年4月 - 2015年6月30日、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")）
   - [おねだり\!\!マスカット](https://ja.wikipedia.org/wiki/おねだり!!マスカット "wikilink") （2009年4月7日 - 2010年3月29日、テレビ東京）

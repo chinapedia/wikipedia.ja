@@ -3,7 +3,7 @@
 
 **Origin Systems**（オリジン・システムズ）は、かつて存在した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[オースティンの](../Page/オースティン_\(テキサス州\).md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発[企業](../Page/企業.md "wikilink")。
 
-代表作は[ウルティマ](../Page/ウルティマ.md "wikilink")([Ultima](https://ja.wikipedia.org/wiki/:en:Ultima "wikilink"))、[ウルティマオンライン](https://ja.wikipedia.org/wiki/ウルティマオンライン "wikilink")([Ultima Online](https://ja.wikipedia.org/wiki/:en:Ultima_Online "wikilink"))。名実共に[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")というジャンルを牽引してきた企業である。
+代表作は[ウルティマ](../Page/ウルティマ.md "wikilink")([Ultima](https://ja.wikipedia.org/wiki/:en:Ultima "wikilink"))、[ウルティマオンライン](../Page/ウルティマオンライン.md "wikilink")([Ultima Online](https://ja.wikipedia.org/wiki/:en:Ultima_Online "wikilink"))。名実共に[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")というジャンルを牽引してきた企業である。
 
 1983年にウルティマの開発者である、[リチャード・ギャリオット](../Page/リチャード・ギャリオット.md "wikilink")と、兄のロバート・ギャリオットの兄弟によって、Ultima III Exodusの発売のため設立された。以降のウルティマシリーズはOriginから発売されているが、Ultima Iは1981年にCalifornia Pacificから発売され、Ultima IIはOn-line Systems(現[Sierra Entertainment](https://ja.wikipedia.org/wiki/:en:Sierra_Entertainment "wikilink"))から発売されているため、Originが発売した最初のウルティマはUltima IIIだった。
 

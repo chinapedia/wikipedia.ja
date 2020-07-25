@@ -62,7 +62,7 @@
   - [動画編集ソフトウェア](https://ja.wikipedia.org/wiki/動画編集ソフトウェア "wikilink")
   - [Avidemux](https://ja.wikipedia.org/wiki/Avidemux "wikilink")
   - [AviUtl](../Page/AviUtl.md "wikilink")
-  - [AviSynth](https://ja.wikipedia.org/wiki/AviSynth "wikilink")
+  - [AviSynth](../Page/AviSynth.md "wikilink")
   - [OpenShot Video Editor](https://ja.wikipedia.org/wiki/OpenShot_Video_Editor "wikilink")
   - [TMPGEnc](../Page/TMPGEnc.md "wikilink")
   - [ノンリニア編集](../Page/ノンリニア編集.md "wikilink")

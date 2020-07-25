@@ -55,7 +55,7 @@ Zipperでは[読者モデル](../Page/読者モデル.md "wikilink")のことを
   - [チャットモンチー](../Page/チャットモンチー.md "wikilink")「チャットモンチーの“作文（ちゃくぶん）”」
   - [ベッキー](../Page/ベッキー.md "wikilink")「ハッピーへんかん所」\[24\]
   - [矢沢あい](../Page/矢沢あい.md "wikilink")「Paradise Kiss」（1999年 - 2003年）\[25\]
-  - [嶽本野ばら](https://ja.wikipedia.org/wiki/嶽本野ばら "wikilink")「乙女のトリビア」（2005年 - 2007年）\[26\]
+  - [嶽本野ばら](../Page/嶽本野ばら.md "wikilink")「乙女のトリビア」（2005年 - 2007年）\[26\]
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")「対決\! ももクロちゃれんZ」（2011年 - ）\[27\]
   - [高城れに](https://ja.wikipedia.org/wiki/高城れに "wikilink")「風雲\! たかぎ城」（2012年 - 2013年）\[28\]
   - [喜矢武豊](https://ja.wikipedia.org/wiki/喜矢武豊 "wikilink")「カレCan」（2012年 - ）\[29\]

@@ -23,7 +23,7 @@
   - [岩清水愛](https://ja.wikipedia.org/wiki/岩清水愛 "wikilink")
   - [田中洋平](https://ja.wikipedia.org/wiki/田中洋平 "wikilink")
   - [小山満利子](https://ja.wikipedia.org/wiki/小山満利子 "wikilink")
-  - [高橋よしえ](https://ja.wikipedia.org/wiki/高橋よしえ "wikilink")
+  - [高橋よしえ](../Page/高橋よしえ.md "wikilink")
   - [吉村真紀](https://ja.wikipedia.org/wiki/吉村真紀 "wikilink")
   - [真猿](https://ja.wikipedia.org/wiki/真猿_\(タレント\) "wikilink")
 

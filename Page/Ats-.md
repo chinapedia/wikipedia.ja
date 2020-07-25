@@ -3,7 +3,7 @@
 
 **ats-**（エーティーエス、[5月7日](../Page/5月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽クリエーター、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")。
 
-[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。音楽グループ[HΛL](../Page/HΛL.md "wikilink")のメンバーとして活動していた。[現在はエイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink") [tearbridge production所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。Dark Heavy Unrealistic系サウンドを得意とする。楽曲のジャンルはロック、メタル、EDM、R\&B、バラード、ポップスと多彩。インスト楽曲や劇伴作品も数多い。
+[新潟県](../Page/新潟県.md "wikilink")[長岡市](../Page/長岡市.md "wikilink")出身。音楽グループ[HΛL](../Page/HΛL.md "wikilink")のメンバーとして活動していた。[現在はエイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink") [tearbridge production所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。Dark Heavy Unrealistic系サウンドを得意とする。楽曲のジャンルはロック、メタル、EDM、R\&B、バラード、ポップスと多彩。インスト楽曲や劇伴作品も数多い。
 
 ## 概略
 
@@ -193,7 +193,7 @@
       - 輪舞-revolution（編曲）
       - GooD LucK（編曲）
       - タッチ（編曲）
-      - 蕾 〜tsubomi〜（作曲） TVアニメ『[BLUE DRAGON 天界の七竜](https://ja.wikipedia.org/wiki/BLUE_DRAGON_\(アニメ\) "wikilink")』4thED主題歌
+      - 蕾 〜tsubomi〜（作曲） TVアニメ『[BLUE DRAGON 天界の七竜](../Page/BLUE_DRAGON_\(アニメ\).md "wikilink")』4thED主題歌
   - [SAYAKA](../Page/神田沙也加.md "wikilink")
       - ラヂオのじかん（編曲）
   - [GICODE](../Page/GICODE.md "wikilink")
@@ -518,7 +518,7 @@
   - [飯塚昌明](../Page/飯塚昌明.md "wikilink")
   - [Gajin](../Page/Gajin.md "wikilink")
   - [渡辺広 (俳優)](https://ja.wikipedia.org/wiki/渡辺広_\(俳優\) "wikilink")
-  - [新潟県出身の人物一覧](https://ja.wikipedia.org/wiki/新潟県出身の人物一覧 "wikilink")
+  - [新潟県出身の人物一覧](../Page/新潟県出身の人物一覧.md "wikilink")
 
 ## 外部リンク
 

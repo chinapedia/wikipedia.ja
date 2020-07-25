@@ -1,7 +1,7 @@
 > この記事は[ZARD BEST 〜Request Memorial〜](https://ja.wikipedia.org/wiki/ZARD_BEST_〜Request_Memorial〜)から翻訳されています。
 
 
-『**ZARD BEST 〜Request Memorial〜**』（ザード・ベスト リクエスト・メモリアル）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")2枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。CDコードはJBCJ-1024。
+『**ZARD BEST 〜Request Memorial〜**』（ザード・ベスト リクエスト・メモリアル）は、[ZARD](../Page/ZARD.md "wikilink")2枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。CDコードはJBCJ-1024。
 
 ## 内容
 

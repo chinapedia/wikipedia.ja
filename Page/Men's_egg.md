@@ -37,7 +37,7 @@
     2006年（平成18年）3月に当時人気モデルだった照井憲宇の提案により、誌面で人気のブランドを集めた男性向けのテナントフロア「109MEN'S」として営業を開始している。
   - モデル
     照井憲宇が読モブランドで成功した事を切り口に、その後[植竹拓](../Page/植竹拓.md "wikilink")（通称「元祖」）を筆頭に、川島隼輔、伊利篤、等の「読モ（メンモ）」と呼ばれるモデル陣が雑誌引退後に服のブランドを立ち上げるなど、[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")における[読者モデル](../Page/読者モデル.md "wikilink")の新しいスタイルを作りだした雑誌である。
-    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")現在も[梅田直樹](https://ja.wikipedia.org/wiki/梅田直樹 "wikilink")、今井諒、[澤本幸秀](https://ja.wikipedia.org/wiki/澤本幸秀 "wikilink")、[佐藤歩](https://ja.wikipedia.org/wiki/佐藤歩 "wikilink")といった人気モデルを抱え、ギャル男ムーブメントを作り出している。
+    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")現在も[梅田直樹](../Page/梅田直樹.md "wikilink")、今井諒、[澤本幸秀](https://ja.wikipedia.org/wiki/澤本幸秀 "wikilink")、[佐藤歩](https://ja.wikipedia.org/wiki/佐藤歩 "wikilink")といった人気モデルを抱え、ギャル男ムーブメントを作り出している。
   - さまざまな企画
     「漢旅」（富士の[樹海](https://ja.wikipedia.org/wiki/樹海 "wikilink")横断挑戦など）、「職業訓練所」（自衛隊やオカマバーなどを一日体験）、「格付けSHOW」（[読者モデル](../Page/読者モデル.md "wikilink")達が本気で体力・知力を競い合うガチンコ企画）など、[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")クラスの体当たり企画が多い。
     「格付けSHOW」から発展する形で、様々な対決の勝敗を読者が予想するtoto企画も不定期で開催されているが、編集部側でも、余りの正解率の低さから「難問だった」と度々称する程、上位ランクの当選（全問正解及びそれに準ずる成績の読者）が稀である。
@@ -94,7 +94,7 @@
 ### Men's egg
 
   - 川島隼輔（しゅんチャン）
-  - [梅田直樹](https://ja.wikipedia.org/wiki/梅田直樹 "wikilink")（梅しゃん）
+  - [梅田直樹](../Page/梅田直樹.md "wikilink")（梅しゃん）
   - [JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")（ジョイ）
   - 堤賢二
   - [引地敬澄](https://ja.wikipedia.org/wiki/引地敬澄 "wikilink")（ひきち、ひっち）

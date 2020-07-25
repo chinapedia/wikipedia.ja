@@ -96,7 +96,7 @@
   - [ぼくとシムのまち](../Page/ぼくとシムのまち.md "wikilink")（藤丸あお）
   - トラブル☆まじかる☆ももこ♡（さならりょう）
   - [ロックマンゼクスアドベント](https://ja.wikipedia.org/wiki/ロックマンゼクスアドベント "wikilink")（おぎのしん）
-  - [ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")（[おびひろし](../Page/帯ひろ志.md "wikilink")）
+  - [ケータイ捜査官7](../Page/ケータイ捜査官7.md "wikilink")（[おびひろし](../Page/帯ひろ志.md "wikilink")）
   - [めっちゃ\!太鼓の達人DS 7つの島の大冒険](https://ja.wikipedia.org/wiki/めっちゃ!太鼓の達人DS_7つの島の大冒険 "wikilink")（[蒔野靖弘](https://ja.wikipedia.org/wiki/牧野靖弘 "wikilink")）
   - [全員集合 ギャグって\!\!ロックマン\!](../Page/ロックマンシリーズ.md "wikilink")（[ひのでや三吉](https://ja.wikipedia.org/wiki/ひのでや参吉 "wikilink")）
   - [きゃっとげーまー ヌコ](https://ja.wikipedia.org/wiki/きゃっとげーまー_ヌコ "wikilink")（[すぎやまかずみ](https://ja.wikipedia.org/wiki/すぎやまかずみ "wikilink")）

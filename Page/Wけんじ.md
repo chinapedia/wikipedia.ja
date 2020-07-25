@@ -62,7 +62,7 @@
 ## 弟子
 
   - [Wモアモア](../Page/Wモアモア.md "wikilink")（東城けん・東城しん）
-  - [東京二](https://ja.wikipedia.org/wiki/東京二・京太 "wikilink")
+  - [東京二](../Page/東京二・京太.md "wikilink")
   - [Wエース](https://ja.wikipedia.org/wiki/Wエース "wikilink")の[谷エース](https://ja.wikipedia.org/wiki/谷エース "wikilink")
       - [ニックス](../Page/ニックス_\(お笑いコンビ\).md "wikilink")
       - Wリンダ（[世界のうめざわ](../Page/世界のうめざわ.md "wikilink")・赤江謙一）
@@ -98,7 +98,7 @@
   - 「[初詣\!爆笑ヒットパレード](../Page/初詣!爆笑ヒットパレード.md "wikilink")」（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - 「[水戸黄門](../Page/水戸黄門_\(パナソニック_ドラマシアター\).md "wikilink")」（[TBS](../Page/TBSテレビ.md "wikilink")）[1966年](../Page/1966年.md "wikilink")（昭和41年）
   - 「[眠狂四郎](https://ja.wikipedia.org/wiki/眠狂四郎_\(1967年のテレビドラマ\) "wikilink")」（フジテレビ）[1967年](../Page/1967年.md "wikilink")（昭和42年）
-  - 「[エプロンおばさん 第2期](https://ja.wikipedia.org/wiki/エプロンおばさん#第2期 "wikilink")」（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、1967年 - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）（昭和42年・43年）
+  - 「[エプロンおばさん 第2期](https://ja.wikipedia.org/wiki/エプロンおばさん#第2期 "wikilink")」（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、1967年 - [1968年](../Page/1968年.md "wikilink")）（昭和42年・43年）
   - 「[大忠臣蔵](../Page/大忠臣蔵_\(1971年のテレビドラマ\).md "wikilink")」（NET）[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）
   - 「[花王名人劇場](../Page/花王名人劇場.md "wikilink") Wけんじリサイタル」（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）
   - 「[元祖どっきりカメラ](../Page/元祖どっきりカメラ.md "wikilink")」（日本テレビ）

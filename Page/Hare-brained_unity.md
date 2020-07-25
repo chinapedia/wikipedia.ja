@@ -32,7 +32,7 @@
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 自主制作CD『光と影/トオイソラ』をライブ会場、下北沢ハイラインレコーズで限定リリース。
   - [2004年](../Page/2004年.md "wikilink")
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")オムニバス「HI-STYLEVol.07」に参加。
-      - [9月](../Page/9月.md "wikilink") - [1stミニアルバム](https://ja.wikipedia.org/wiki/序数詞 "wikilink")『光-hikari-』(6曲)をROCKTRADEよりリリース。
+      - [9月](../Page/9月.md "wikilink") - [1stミニアルバム](../Page/序数詞.md "wikilink")『光-hikari-』(6曲)をROCKTRADEよりリリース。
   - [2005年](../Page/2005年.md "wikilink")
       - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 下北沢ハイラインレコーズ限定シングル『白い街/LOTUSEATER』リリース。
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [1st](https://ja.wikipedia.org/wiki/1st "wikilink")マキシシングル『SAYONARA e.p.』（3曲）リリース。

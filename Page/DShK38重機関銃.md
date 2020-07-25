@@ -99,7 +99,7 @@ M2重機関銃改造のものは、機関部がより単純な箱型をしてい
   - 『[バトルフィールド バッド カンパニー2](https://ja.wikipedia.org/wiki/バトルフィールド_バッド_カンパニー2 "wikilink")』
     [南ベトナム解放民族戦線](../Page/南ベトナム解放民族戦線.md "wikilink")勢力側の機銃付き車両の機銃として配備されている。操作可能。
 
-  - 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+  - 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
     [北朝鮮反乱軍が使用する](../Page/朝鮮民主主義人民共和国.md "wikilink")[BTRと](../Page/BTR-60.md "wikilink")[T-54](../Page/T-54.md "wikilink")に搭載されている。
 
       - 『[マーセナリーズ2 ワールド イン フレームス](../Page/マーセナリーズ2_ワールド_イン_フレームス.md "wikilink")』

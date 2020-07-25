@@ -61,7 +61,7 @@
 
   - [スティー・スックソムギット](https://ja.wikipedia.org/wiki/スティー・スックソムギット "wikilink") 2003-2006
 
-  - [コン・ハメド](https://ja.wikipedia.org/wiki/コン・ハメド "wikilink") 2007
+  - [コン・ハメド](../Page/コン・ハメド.md "wikilink") 2007
 
   - [村上範和](https://ja.wikipedia.org/wiki/村上範和 "wikilink") 2009
 

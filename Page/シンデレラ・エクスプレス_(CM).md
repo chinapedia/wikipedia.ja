@@ -32,7 +32,7 @@
 
 ## その他
 
-このCMの前年である[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")には、「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」の第1550回として『週末物語 シンデレラ・エクスプレス』（[森田芳光](../Page/森田芳光.md "wikilink")脚本、[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")・[荻野目慶子](../Page/荻野目慶子.md "wikilink")主演）という単発の[テレビドラマ](../Page/テレビドラマ.md "wikilink")が、[毎日放送の制作によりTBS系列で放送されていた](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。こちらも離れ離れに暮らす男女の遠距離恋愛がテーマとなっており、主題歌も同じく松任谷由実「シンデレラ・エクスプレス」を起用している（大阪を舞台としているため、新大阪発最終列車「ひかり170号」がドラマの中心となっている）\[3\]。
+このCMの前年である[1986年](../Page/1986年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")には、「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」の第1550回として『週末物語 シンデレラ・エクスプレス』（[森田芳光](../Page/森田芳光.md "wikilink")脚本、[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")・[荻野目慶子](../Page/荻野目慶子.md "wikilink")主演）という単発の[テレビドラマ](../Page/テレビドラマ.md "wikilink")が、[毎日放送の制作によりTBS系列で放送されていた](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。こちらも離れ離れに暮らす男女の遠距離恋愛がテーマとなっており、主題歌も同じく松任谷由実「シンデレラ・エクスプレス」を起用している（大阪を舞台としているため、新大阪発最終列車「ひかり170号」がドラマの中心となっている）\[3\]。
 
 ## 脚注
 

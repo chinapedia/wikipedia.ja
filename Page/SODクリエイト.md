@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/矢沢のん" title="wikilink">矢沢のん</a></p></td>
+<td><p><a href="../Page/矢沢のん.md" title="wikilink">矢沢のん</a></p></td>
 <td><p>芸能人 矢沢のん 関西発 現役「TVタレント」デビュー(2008-7-4)</p></td>
 </tr>
 <tr class="odd">

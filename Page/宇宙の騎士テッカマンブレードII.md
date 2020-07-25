@@ -136,7 +136,7 @@
 
 本作よりも前に、前作から2年後の第二次ラダム戦役を舞台にした続編の制作が進められていた。前作の悲劇的な世界観を踏襲した設定で、脚本の骨子も出来上がっていたが、[あかほりさとる](../Page/あかほりさとる.md "wikilink")の「（前作と）同じような雰囲気になってはいけない」という鶴の一声で制作は中止され、この中止された脚本・設定を踏まえて本作は作られた（[本人は否定](https://twitter.com/poli_aka/status/1228466049323896833)）。「2度目のラダム侵攻（本作は3度目）」「アキがテッカマンに変身する」「Dボゥイの復活」といった、前作からの大幅な基本設定の変更でありながら本作では説明されることのなかった出来事が描かれている。
 
-商用[パソコン通信](../Page/パソコン通信.md "wikilink")サービス『[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")』のアニメフォーラム内テッカマンブレード会議室でOVA制作スタッフの一人が『ラダム再び』と題してストーリーを公表し、同フォーラムのデータライブラリに過去ログが保存されていた。また前作と本作の10年間に起こった出来事も年表として公開され、本作には登場しない旧スペースナイツメンバーの去就なども全て明らかにされていた。[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")会員であれば誰でもこの過去ログデータを入手できていたが、2006年にパソコン通信サービスが終了したため、現在では入手が困難になっている。
+商用[パソコン通信](../Page/パソコン通信.md "wikilink")サービス『[ニフティサーブ](../Page/ニフティサーブ.md "wikilink")』のアニメフォーラム内テッカマンブレード会議室でOVA制作スタッフの一人が『ラダム再び』と題してストーリーを公表し、同フォーラムのデータライブラリに過去ログが保存されていた。また前作と本作の10年間に起こった出来事も年表として公開され、本作には登場しない旧スペースナイツメンバーの去就なども全て明らかにされていた。[@nifty](https://ja.wikipedia.org/wiki/@nifty "wikilink")会員であれば誰でもこの過去ログデータを入手できていたが、2006年にパソコン通信サービスが終了したため、現在では入手が困難になっている。
 
 ### MISSING LING
 
@@ -241,7 +241,7 @@
 
 ## 参考文献
 
-  - [ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink") 「宇宙の騎士テッカマンブレード会議室」 の過去ログ
+  - [ニフティサーブ](../Page/ニフティサーブ.md "wikilink") 「宇宙の騎士テッカマンブレード会議室」 の過去ログ
 
 [Category:アニメ作品_う](https://ja.wikipedia.org/wiki/Category:アニメ作品_う "wikilink") [Category:1994年のOVA](https://ja.wikipedia.org/wiki/Category:1994年のOVA "wikilink") [Category:創通のアニメ作品](https://ja.wikipedia.org/wiki/Category:創通のアニメ作品 "wikilink") [Category:宇宙の騎士テッカマン](https://ja.wikipedia.org/wiki/Category:宇宙の騎士テッカマン "wikilink") [Category:地球外生命体を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ作品 "wikilink") [Category:寄生生物を題材とした作品](https://ja.wikipedia.org/wiki/Category:寄生生物を題材とした作品 "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
 

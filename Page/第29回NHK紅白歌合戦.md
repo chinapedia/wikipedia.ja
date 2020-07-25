@@ -13,7 +13,7 @@
   - 紅組応援リーダー：[浅茅陽子](../Page/浅茅陽子.md "wikilink")
   - 白組応援リーダー：[西田敏行](../Page/西田敏行.md "wikilink")
   - テレビ中継：[金子辰雄](https://ja.wikipedia.org/wiki/金子辰雄 "wikilink")アナウンサー（※今回は現存するVTRには実況音声が録音されていない）
-  - 得点集計センター：[中江陽三](https://ja.wikipedia.org/wiki/中江陽三 "wikilink")アナウンサー
+  - 得点集計センター：[中江陽三](../Page/中江陽三.md "wikilink")アナウンサー
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
   - [植村直己](../Page/植村直己.md "wikilink")（探検家。この年犬ぞりを操って人類史上初の北極点単独行に成功）
   - [八千草薫](../Page/八千草薫.md "wikilink")（女優。『[魅惑のファンタジー](https://ja.wikipedia.org/wiki/魅惑のファンタジー "wikilink")』の司会者）
   - [安奈淳](../Page/安奈淳.md "wikilink")（女優。この年の大河ドラマ『[黄金の日日](../Page/黄金の日日.md "wikilink")』のツル役）
-  - 森和人（[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")機長。当時の飛行時間日本記録保持者）
+  - 森和人（[全日本空輸](../Page/全日本空輸.md "wikilink")機長。当時の飛行時間日本記録保持者）
   - [森下洋子](../Page/森下洋子.md "wikilink")（バレリーナ）
   - [山本浩二](../Page/山本浩二.md "wikilink")（[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")外野手。この年初の本塁打王を獲得）
   - [川口幹夫](../Page/川口幹夫.md "wikilink")･NHK番組制作局長

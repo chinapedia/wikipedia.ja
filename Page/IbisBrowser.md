@@ -39,7 +39,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")、Windows Mobile Standard向けのibisBrowserDXがリリース[3](http://www.ibis.ne.jp/publicity/press20071030Browser.html)、同年11月20日には、Professional向けがリリースされた。[4](http://www.ibis.ne.jp/publicity/press20071120Browser.html)
 
-[SoftBank X](../Page/SoftBank_X.md "wikilink") シリーズのWindows Mobile端末、WILLCOMの[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズ・[WILLCOM 03および](../Page/WS020SH.md "wikilink")[EMOBILEの](../Page/イー・モバイル.md "wikilink")[EMONSTER](https://ja.wikipedia.org/wiki/EMONSTER "wikilink")、[EM・ONE](../Page/EM・ONE.md "wikilink")に対応。
+[SoftBank X](../Page/SoftBank_X.md "wikilink") シリーズのWindows Mobile端末、WILLCOMの[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズ・[WILLCOM 03および](../Page/WS020SH.md "wikilink")[EMOBILEの](../Page/イー・モバイル.md "wikilink")[EMONSTER](../Page/EMONSTER.md "wikilink")、[EM・ONE](../Page/EM・ONE.md "wikilink")に対応。
 
 #### ソフトバンクモバイル版
 

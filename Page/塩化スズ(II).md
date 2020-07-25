@@ -43,7 +43,7 @@
     <chem>SnCl2(aq)\\ + 2NaOH(aq) -\> SnO{\\cdot}H2O(s)\\ + 2NaCl(aq)</chem>
     <chem>SnO{\\cdot}H2O(s)\\ + NaOH (aq) -\> NaSn(OH)3(aq)</chem>
 
-無水塩化スズ(II)は水以外の溶媒中において、様々な化合物に変化する。例えば、[ジブチルヒドロキシトルエン](https://ja.wikipedia.org/wiki/ジブチルヒドロキシトルエン "wikilink")と塩化スズ(II)を[テトラヒドロフラン](../Page/テトラヒドロフラン.md "wikilink")（THF）中で反応させると、2分子が[配位結合](../Page/配位結合.md "wikilink")した黄色い直線状の分子Sn(O[Ar](https://ja.wikipedia.org/wiki/アリール基 "wikilink"))<sub>2</sub>ができる\[3\]。
+無水塩化スズ(II)は水以外の溶媒中において、様々な化合物に変化する。例えば、[ジブチルヒドロキシトルエン](../Page/ジブチルヒドロキシトルエン.md "wikilink")と塩化スズ(II)を[テトラヒドロフラン](../Page/テトラヒドロフラン.md "wikilink")（THF）中で反応させると、2分子が[配位結合](../Page/配位結合.md "wikilink")した黄色い直線状の分子Sn(O[Ar](https://ja.wikipedia.org/wiki/アリール基 "wikilink"))<sub>2</sub>ができる\[3\]。
 
 塩化スズ(II)はとしても働き、[塩化物](../Page/塩化物.md "wikilink")イオンなどを[配位子](https://ja.wikipedia.org/wiki/配位子 "wikilink")として錯体を形成する。
 

@@ -17,7 +17,7 @@
   - 弐～ニィ～（Guitar）[1984年](../Page/1984年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")生、A型
   - 愁～shuU～（Bass）[1984年](../Page/1984年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")生、O型
       - [蜉蝣の](../Page/蜉蝣_\(バンド\).md "wikilink")[ローディー](../Page/ローディー.md "wikilink")を務めていた経験があり、[大佑](../Page/大佑.md "wikilink")と黒の隠者達の『[漆黒の光](https://ja.wikipedia.org/wiki/漆黒の光 "wikilink")』にベースで参加している。
-  - Яyo（リョウ）（Drums）[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")生、A型
+  - Яyo（リョウ）（Drums）[1986年](../Page/1986年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")生、A型
 
 弐とЯyoは実の兄弟である。（2014年にTwitter開設の際に公表。弐が兄、Яyoが弟である）
 
@@ -589,7 +589,7 @@ XNDC-10048（通常盤）</p></td>
 オリコン総合チャート35位。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/GO_(girugameshのアルバム)" title="wikilink">GO</a></strong></p></td>
 <td><p>XNDC-10054～5/B（激アツ盤）<br />
 XNDC-10056（通常盤）</p></td>

@@ -16,7 +16,7 @@ PANTHERファンの事を「**やひらー**」という。
   - 2004年4月、SEX MACHINEGUNS再結成の際に正式メンバーとして再び参加。その後、同バンドのメンバーである[SPEED STAR SYPAN JOE](../Page/JOE_\(ドラマー\).md "wikilink")(Dr)と[SAMURAI.W.KENJILAW](../Page/村井研次郎.md "wikilink")(B)の三人で、[インストバンド](../Page/器楽曲.md "wikilink")・**ELLEGUNS**も結成。
   - 2006年9月7日、ELLEGUNSのメンバー三人で、SEX MACHINEGUNSを正式に脱退。同時に、所属事務所Marsaからも離れる。アーティスト名を**PANTHER**に変更。
   - 2006年12月6日、同じくJOEと村井研次郎にアーティスト名を変更した元ELLEGUNSの二人と共に結成した新バンド・J-P-K PROJECTを、**[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")**と改名。今後は新たにヴォーカルを迎えて、CYCLEとして本格的なバンド活動をして行く予定。
-  - 2011年1月、ソロ活動再開。[Shibuya O-WESTにてワンマンライブを敢行](../Page/Shibuya_O-WEST.md "wikilink")。ゲストギタリストとして白田一秀(ex.[PRESENCE](../Page/PRESENCE.md "wikilink") / ex.[GRAND SLAM](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")) ,[橘高文彦](../Page/橘高文彦.md "wikilink")(from：[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")、[X.Y.Z.→A](../Page/X.Y.Z.→A.md "wikilink"))を招致。
+  - 2011年1月、ソロ活動再開。[Shibuya O-WESTにてワンマンライブを敢行](../Page/Shibuya_O-WEST.md "wikilink")。ゲストギタリストとして白田一秀(ex.[PRESENCE](../Page/PRESENCE.md "wikilink") / ex.[GRAND SLAM](../Page/グランドスラム_\(ロックバンド\).md "wikilink")) ,[橘高文彦](../Page/橘高文彦.md "wikilink")(from：[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")、[X.Y.Z.→A](../Page/X.Y.Z.→A.md "wikilink"))を招致。
   - 2011年4月13日、ソロアルバム「Sexy Finger III」をリリース。
 
 ## 特徴

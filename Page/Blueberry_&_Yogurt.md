@@ -27,7 +27,7 @@
 
   - Rita's Hour 04 -HolyNight Unplugged- （2006年6月10日）
   - motion （2007年12月7日）
-  - [monologue -ものろぉぐ復刻版-](https://ja.wikipedia.org/wiki/Monologue_-ものろぉぐ- "wikilink") （復刻:2008年2月29日）
+  - [monologue -ものろぉぐ復刻版-](../Page/Monologue_-ものろぉぐ-.md "wikilink") （復刻:2008年2月29日）
   - meaning （2010年08月13日）
   - Moment -Re:sale- （2010年8月16日）
   - museum piece（2013年9月27日）

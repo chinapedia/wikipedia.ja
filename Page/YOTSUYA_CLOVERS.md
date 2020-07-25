@@ -47,7 +47,7 @@
         [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月15日](../Page/5月15日.md "wikilink")生まれ、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")出身。身長150cm、血液型はA型。2007年に入団したが短期間で退団。
   - [幸坂ゆか](http://yaplog.jp/yuka0219/)（ - 2007年9月9日）
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。身長164cm、血液型はA型。2007年に入団したが短期間で退団。
+        [1986年](../Page/1986年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")生まれ、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。身長164cm、血液型はA型。2007年に入団したが短期間で退団。
   - [伊藤雅子](../Page/伊藤雅子.md "wikilink")（ - 2008年1月11日）
   - [清水香苗](https://ja.wikipedia.org/wiki/清水香苗 "wikilink")（ - 2008年3月30日）
   - [高坂友衣](https://ja.wikipedia.org/wiki/高坂友衣 "wikilink")（ - 2008年12月21日）
@@ -59,7 +59,7 @@
   - [村田千鶴](../Page/村田千鶴.md "wikilink")（ - 2008年12月21日）
   - 小田原彩（ - 2008年12月21日）
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身。身長158cm、スリーサイズは[B](../Page/バスト.md "wikilink")82・[W](../Page/ウエスト.md "wikilink")58・[H](../Page/尻.md "wikilink")83。血液型はA型。愛称は**「アチャ」**。[2007年](../Page/2007年.md "wikilink")入団、背番号は「6」。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")更新の『アチャブログ』にて「違う形で頑張っていく」ことになったことを報告し、退団。『[宇宙一せまい授業\!](https://ja.wikipedia.org/wiki/宇宙一せまい授業! "wikilink")』（[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）、『[シバトラ](https://ja.wikipedia.org/wiki/シバトラ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）第1話（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")放送）に出演。
+        [1986年](../Page/1986年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身。身長158cm、スリーサイズは[B](../Page/バスト.md "wikilink")82・[W](../Page/ウエスト.md "wikilink")58・[H](../Page/尻.md "wikilink")83。血液型はA型。愛称は**「アチャ」**。[2007年](../Page/2007年.md "wikilink")入団、背番号は「6」。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")更新の『アチャブログ』にて「違う形で頑張っていく」ことになったことを報告し、退団。『[宇宙一せまい授業\!](https://ja.wikipedia.org/wiki/宇宙一せまい授業! "wikilink")』（[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）、『[シバトラ](https://ja.wikipedia.org/wiki/シバトラ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）第1話（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")放送）に出演。
   - アフロ奈美恵（ - 2009年1月15日）
   - 奈良鹿子（ - 2009年1月15日）
   - [枚田菜々子](https://ja.wikipedia.org/wiki/枚田菜々子 "wikilink")

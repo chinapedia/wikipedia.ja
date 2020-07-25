@@ -19,7 +19,7 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月19日](../Page/4月19日.md "wikilink") - CAPCHER
   - 1998年[8月29日](../Page/8月29日.md "wikilink") - DOUTYS（β版）
   - 1998年[10月1日](../Page/10月1日.md "wikilink") - 潮
-  - 1999年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - Mission Field Intruder 2nd
+  - 1999年[1月26日](../Page/1月26日.md "wikilink") - Mission Field Intruder 2nd
   - 1999年[7月28日](../Page/7月28日.md "wikilink") - はたらく・くるま\!
   - 1999年[8月27日](../Page/8月27日.md "wikilink") - ラブラブ
   - 1999年[8月30日](../Page/8月30日.md "wikilink") - ぎゃるゲッチュウ\!（R15指定）

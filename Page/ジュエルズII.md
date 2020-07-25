@@ -13,8 +13,8 @@
 
 ## 発売日
 
-  - [2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")([CD](../Page/コンパクトディスク.md "wikilink")) - TOCP-67530
-  - [2013年](../Page/2013年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")([SHM-CD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")) - UICY-15270
+  - [2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")([CD](../Page/コンパクトディスク.md "wikilink")) - TOCP-67530
+  - [2013年](../Page/2013年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")([SHM-CD](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")) - UICY-15270
 
 ## 収録曲
 

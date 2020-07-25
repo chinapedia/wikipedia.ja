@@ -49,7 +49,7 @@
 
 ## 使用機材
 
-[ドラムセット](../Page/ドラムセット.md "wikilink")は、初期から愛用している[Pearlの](../Page/パール楽器製造.md "wikilink")[メイプル](../Page/カエデ.md "wikilink")・シリーズを主軸として、[ロートタム数台をならべた仕様に加え](../Page/ロート・トム.md "wikilink")、特殊な効果音などは[RolandV](../Page/ローランド.md "wikilink")-Drumパッドを数台配置し、そこからRoland TD-10に[トリガー振動として認識され](https://ja.wikipedia.org/wiki/シュミットトリガ "wikilink")、そこから内蔵音源と[サンプラー](../Page/サンプラー.md "wikilink")に[サンプリング](../Page/サンプリング.md "wikilink")された音色から出力されるようなシステムとなっている\[5\]。
+[ドラムセット](../Page/ドラムセット.md "wikilink")は、初期から愛用している[Pearlの](../Page/パール楽器製造.md "wikilink")[メイプル](../Page/カエデ.md "wikilink")・シリーズを主軸として、[ロートタム数台をならべた仕様に加え](../Page/ロート・トム.md "wikilink")、特殊な効果音などは[RolandV](../Page/ローランド.md "wikilink")-Drumパッドを数台配置し、そこからRoland TD-10に[トリガー振動として認識され](../Page/シュミットトリガ.md "wikilink")、そこから内蔵音源と[サンプラー](../Page/サンプラー.md "wikilink")に[サンプリング](../Page/サンプリング.md "wikilink")された音色から出力されるようなシステムとなっている\[5\]。
 
 ## 出典
 

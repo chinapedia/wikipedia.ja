@@ -36,7 +36,7 @@
 ## 年表
 
   - [1967年](../Page/1967年.md "wikilink") - **株式会社大新クレジットビューロー**設立
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [日本消費者金融協会](https://ja.wikipedia.org/wiki/日本消費者金融協会 "wikilink")（JCFA）設立の発起人となる
+  - [1968年](../Page/1968年.md "wikilink") - [日本消費者金融協会](https://ja.wikipedia.org/wiki/日本消費者金融協会 "wikilink")（JCFA）設立の発起人となる
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 信用情報センター「[レンダース・エクスチェンジ](https://ja.wikipedia.org/wiki/レンダース・エクスチェンジ "wikilink")」設立の中心的な役割を担う
   - [1973年](../Page/1973年.md "wikilink") - [関東地区に初進出し](https://ja.wikipedia.org/wiki/関東地方 "wikilink")、[東京支社](../Page/東京都.md "wikilink")・[神田支店を開設](../Page/神田_\(千代田区\).md "wikilink")
   - [2000年](../Page/2000年.md "wikilink") - [インターネット](../Page/インターネット.md "wikilink")による『Webローン』展開

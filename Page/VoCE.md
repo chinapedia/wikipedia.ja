@@ -41,7 +41,7 @@
 
 ### KAT-TUN盗撮問題
 
-2006年5月発覚\[6\]。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")を取り上げた記事にコンサート会場での[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")写真を使用。前号とは違い観客の写真を目線無しで2006年7月号に掲載した。さらにKAT-TUNグッズからメンバーの写真をスキャンして無断掲載していた疑惑\[7\]がもたれている。
+2006年5月発覚\[6\]。[KAT-TUN](../Page/KAT-TUN.md "wikilink")を取り上げた記事にコンサート会場での[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")写真を使用。前号とは違い観客の写真を目線無しで2006年7月号に掲載した。さらにKAT-TUNグッズからメンバーの写真をスキャンして無断掲載していた疑惑\[7\]がもたれている。
 
 ## 出典
 

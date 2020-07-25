@@ -15,7 +15,7 @@
 
 ライブ・アルバム「[COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink")」ではアルバム1曲目に収録されている。ライブツアー『KISS JAPAN DANCING DYNA-MIX TM NETWORK ARENA TOUR』からの音源である。このバージョンはイントロがサビから始まっている。静かなイントロで始まる原曲バージョン、DRESSバージョンとは対照的である。
 
-1994年の[終了ライヴでは](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")5月18日での2曲目で披露され、原曲バージョン基調でDRESSバージョンでの冒頭の台詞が加わったアレンジで披露された。
+1994年の[終了ライヴでは](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink")5月18日での2曲目で披露され、原曲バージョン基調でDRESSバージョンでの冒頭の台詞が加わったアレンジで披露された。
 
 2014年にリリースされたセルフリプロダクト・アルバム「[DRESS2](https://ja.wikipedia.org/wiki/DRESS2 "wikilink")」では2014バージョンとして収録されボーカルも新規に録り直されている。
 

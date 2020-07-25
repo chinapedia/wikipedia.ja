@@ -154,7 +154,7 @@ InfiniBandではデータは、ひとつあたり最大4 KBの複数のパケッ
 
 そこで、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")を中心に[スイッチ](../Page/スイッチ.md "wikilink")型ファブリックインターコネクトテクノロジをベースとした新しいI/OアーキテクチャとしてNGIO (Next Generation I/O)が提唱され、規格定義を開始した\[2\]。一方、[タンデムコンピューターズ](../Page/タンデムコンピューターズ.md "wikilink")社の[ServerNet](https://ja.wikipedia.org/wiki/ServerNet "wikilink")の流れを汲む[Compaq](../Page/コンパック.md "wikilink")（HPに吸収合併された）、[HP社](../Page/ヒューレット・パッカード.md "wikilink")、[IBM](../Page/IBM.md "wikilink")社の3社は、同様の技術をサポートしたFIO (Future I/O)を提唱した。
 
-ところが、[1999年](../Page/1999年.md "wikilink")の[IDF Spring 1999において](https://ja.wikipedia.org/wiki/インテル・デベロッパー・フォーラム "wikilink")、NGIOの情報が公開された際、FIOの仕様の一部が取り込まれており、最終的には両陣営が歩み寄り、SIO (System I/O)として統合されることとなった。
+ところが、[1999年](../Page/1999年.md "wikilink")の[IDF Spring 1999において](../Page/インテル・デベロッパー・フォーラム.md "wikilink")、NGIOの情報が公開された際、FIOの仕様の一部が取り込まれており、最終的には両陣営が歩み寄り、SIO (System I/O)として統合されることとなった。
 
 その後、2000年1月に、SIOはInfiniBandに改称された。
 

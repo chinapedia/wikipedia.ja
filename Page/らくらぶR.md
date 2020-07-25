@@ -98,7 +98,7 @@
 
   - Joshinプレゼンツ企画
 
-[阪神タイガース](../Page/阪神タイガース.md "wikilink")を応援する特番企画で、[上新電機](../Page/上新電機.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")で放送。第1弾では、[ソフトバンクファンである森脇と](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[亀山つとむ応援団が](../Page/亀山努.md "wikilink")[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")で試合見学ツアー。上新電機イメージキャラクターの[今岡誠](https://ja.wikipedia.org/wiki/今岡誠 "wikilink")、[赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")、[矢野燿大](../Page/矢野燿大.md "wikilink")も出演した。第2弾では[松村邦洋](../Page/松村邦洋.md "wikilink")も加わり、[片岡篤史](../Page/片岡篤史.md "wikilink")（現・[関西テレビ解説者](../Page/関西テレビ放送.md "wikilink")）、[杉山直久](../Page/杉山直久.md "wikilink")、[橋本健太郎](../Page/橋本健太郎.md "wikilink")らとの温泉バスツアーを開催した。第3弾の内容は、森脇が1日だけ上新電機の店員を体験するというものだった。
+[阪神タイガース](../Page/阪神タイガース.md "wikilink")を応援する特番企画で、[上新電機](../Page/上新電機.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")で放送。第1弾では、[ソフトバンクファンである森脇と](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[亀山つとむ応援団が](../Page/亀山努.md "wikilink")[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")で試合見学ツアー。上新電機イメージキャラクターの[今岡誠](../Page/今岡誠.md "wikilink")、[赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")、[矢野燿大](../Page/矢野燿大.md "wikilink")も出演した。第2弾では[松村邦洋](../Page/松村邦洋.md "wikilink")も加わり、[片岡篤史](../Page/片岡篤史.md "wikilink")（現・[関西テレビ解説者](../Page/関西テレビ放送.md "wikilink")）、[杉山直久](../Page/杉山直久.md "wikilink")、[橋本健太郎](../Page/橋本健太郎.md "wikilink")らとの温泉バスツアーを開催した。第3弾の内容は、森脇が1日だけ上新電機の店員を体験するというものだった。
 
   - 森脇サンタ企画
 

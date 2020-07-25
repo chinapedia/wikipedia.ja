@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・アハリ・ジッダ" title="wikilink">アル・アハリ</a></strong></p></td>
+<td><p><strong><a href="../Page/アル・アハリ・ジッダ.md" title="wikilink">アル・アハリ</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/クラブ・アフリカーン.md" title="wikilink">クラブ・アフリカーン</a></p></td>
 </tr>
@@ -361,7 +361,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・アハリ・ジッダ" title="wikilink">アル・アハリ</a></p></td>
+<td><p><a href="../Page/アル・アハリ・ジッダ.md" title="wikilink">アル・アハリ</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2002</p></td>

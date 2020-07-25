@@ -1,7 +1,7 @@
 > この記事は[F3H \(航空機\)](https://ja.wikipedia.org/wiki/F3H_\(航空機\))から翻訳されています。
 
 
-**F3H デーモン**（*McDonnell F3H Demon*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上ジェット戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。 [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")における艦上全天候戦闘機として、1950年代から1960年代にかけて運用された。
+**F3H デーモン**（*McDonnell F3H Demon*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上ジェット戦闘機](../Page/艦上戦闘機.md "wikilink")。 [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")における艦上全天候戦闘機として、1950年代から1960年代にかけて運用された。
 
 ## 概要
 
@@ -93,7 +93,7 @@ F3Hは、1959年まで生産が続けられた。1964年には最後の配備飛
 
 <!-- end list -->
 
-  - [XF10F](https://ja.wikipedia.org/wiki/XF10F_\(航空機\) "wikilink")
+  - [XF10F](../Page/XF10F_\(航空機\).md "wikilink")
 
 <!-- end list -->
 

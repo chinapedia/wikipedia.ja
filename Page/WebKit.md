@@ -33,7 +33,7 @@ WebKitは[KHTML](../Page/KHTML.md "wikilink")を基にした[HTMLパーザかつ
 
 2007年11月には、[HTML5](../Page/HTML5.md "wikilink")のメディア機能のサポートを達成したことが発表された\[5\]。このHTML5に部分対応したWebKitでは、組み込み動画のネイティブ描画とスクリプトコントロールが可能である。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、WebKit r31356（最初のスコア100はr31342）が、世界で最初に公開された[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")（[ウェブ標準](../Page/ウェブ標準.md "wikilink")準拠の指標の一つ）に合格したレンダリングエンジンとなった\[6\]。2008年[9月25日](../Page/9月25日.md "wikilink")、スムーズなアニメーションを含め、Acid3を完全にパスしたと発表された\[7\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、WebKit r31356（最初のスコア100はr31342）が、世界で最初に公開された[Acid3](../Page/Acid3.md "wikilink")（[ウェブ標準](../Page/ウェブ標準.md "wikilink")準拠の指標の一つ）に合格したレンダリングエンジンとなった\[6\]。2008年[9月25日](../Page/9月25日.md "wikilink")、スムーズなアニメーションを含め、Acid3を完全にパスしたと発表された\[7\]。
 
 ### WebKit2
 

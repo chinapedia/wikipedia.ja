@@ -136,7 +136,7 @@ TDP所属選手には[フォーミュラ・トヨタ](../Page/フォーミュラ
   - [窪田善文](https://ja.wikipedia.org/wiki/窪田善文 "wikilink")（2006）
   - [増田定臣](https://ja.wikipedia.org/wiki/増田定臣 "wikilink")（2006）
   - [石浦宏明](../Page/石浦宏明.md "wikilink")（2006-2011）
-  - [井口卓人](https://ja.wikipedia.org/wiki/井口卓人 "wikilink")（2006-2011）
+  - [井口卓人](../Page/井口卓人.md "wikilink")（2006-2011）
   - [松井孝允](https://ja.wikipedia.org/wiki/松井孝允 "wikilink")（2007）
   - [蒲生尚弥](https://ja.wikipedia.org/wiki/蒲生尚弥 "wikilink")（2008-2011）
   - [国本雄資](https://ja.wikipedia.org/wiki/国本雄資 "wikilink")（2008-2013）

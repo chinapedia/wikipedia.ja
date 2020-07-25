@@ -39,7 +39,7 @@ auブランドを開発した株式会社[ジザイズ](https://ja.wikipedia.org
 
 引き換えにPDC方式の縮小を進め、[2003年](../Page/2003年.md "wikilink")（平成15年）[3月31日](../Page/3月31日.md "wikilink")にPDC方式のサービスを終了し\[12\]\[13\]、現在はcdmaOne上位互換の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink") (3G) 「[CDMA2000 1x](../Page/CDMA2000_1x.md "wikilink")（のちに[CDMA 1Xに改名](../Page/CDMA_1X.md "wikilink")）」への切り替えを進めている。
 
-[EZweb](../Page/EZweb.md "wikilink")で[インターネット](../Page/インターネット.md "wikilink")にアクセスできるほか、CDMA 1X WIN（のちのau 3G）のほとんどの音声端末（ただし[W11H](../Page/W11H.md "wikilink")および[W11K](../Page/W11K.md "wikilink")、[W21H](../Page/W21H.md "wikilink")、[W21K](../Page/W21K.md "wikilink")、[簡単ケータイ W32K](../Page/W32K.md "wikilink")、[Walkman Phone, Xmini(W65S)](https://ja.wikipedia.org/wiki/Xmini "wikilink")、[E30HT](https://ja.wikipedia.org/wiki/E30HT "wikilink")、[簡単ケータイS PT001は除く](https://ja.wikipedia.org/wiki/PT001 "wikilink")）とA1400シリーズならびにA1000シリーズ、[A101Kを除くCDMA](https://ja.wikipedia.org/wiki/簡単ケータイS "wikilink") 1X（のちのau 3G）のほとんどの音声端末がgpsOne技術を利用した[GPSに対応する](../Page/グローバル・ポジショニング・システム.md "wikilink")。それを生かして、GPS対応機では[カーナビと同等の機能を持つ](../Page/カーナビゲーション.md "wikilink")「[EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")」や、ハンディナビとして使える「[EZナビウォーク](../Page/EZナビウォーク.md "wikilink")」（サービス開始当初は「EZ@NAVI」）を提供している。他にGPSを使った天気予報などのサービスがある。
+[EZweb](../Page/EZweb.md "wikilink")で[インターネット](../Page/インターネット.md "wikilink")にアクセスできるほか、CDMA 1X WIN（のちのau 3G）のほとんどの音声端末（ただし[W11H](../Page/W11H.md "wikilink")および[W11K](../Page/W11K.md "wikilink")、[W21H](../Page/W21H.md "wikilink")、[W21K](../Page/W21K.md "wikilink")、[簡単ケータイ W32K](../Page/W32K.md "wikilink")、[Walkman Phone, Xmini(W65S)](https://ja.wikipedia.org/wiki/Xmini "wikilink")、[E30HT](https://ja.wikipedia.org/wiki/E30HT "wikilink")、[簡単ケータイS PT001は除く](https://ja.wikipedia.org/wiki/PT001 "wikilink")）とA1400シリーズならびにA1000シリーズ、[A101Kを除くCDMA](../Page/簡単ケータイS.md "wikilink") 1X（のちのau 3G）のほとんどの音声端末がgpsOne技術を利用した[GPSに対応する](../Page/グローバル・ポジショニング・システム.md "wikilink")。それを生かして、GPS対応機では[カーナビと同等の機能を持つ](../Page/カーナビゲーション.md "wikilink")「[EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")」や、ハンディナビとして使える「[EZナビウォーク](../Page/EZナビウォーク.md "wikilink")」（サービス開始当初は「EZ@NAVI」）を提供している。他にGPSを使った天気予報などのサービスがある。
 
 また、[2003年](../Page/2003年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")からは、日本初となる[第三・五世代携帯電話 (3.5G)](https://ja.wikipedia.org/wiki/第三・五世代携帯電話 "wikilink") 「[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")」の愛称でCDMA2000 1x EV-DO Rev.0のサービスを開始し、「EZ[着うたフル](../Page/着うたフル.md "wikilink")」（2009年10月以降より単に「着うたフル」に改称）や、端末のみを利用したパケット通信定額制「[EZフラット](https://ja.wikipedia.org/wiki/EZフラット "wikilink")」を初めとした画期的なサービス、端末のデザインなどが評価され、2003年度から2006年度にかけて純増シェアトップを獲得した。
 
@@ -72,7 +72,7 @@ auブランドを開発した株式会社[ジザイズ](https://ja.wikipedia.org
       - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") : 新共通プラットフォーム「[KCP+](../Page/KCP+.md "wikilink")」を搭載した実機が初めて展示された。
       - [2月26日](../Page/2月26日.md "wikilink") : 2007年12月以降\[17\]のプリペイド契約者数の異常な急増が報道される。（→[プリペイド契約急増問題](https://ja.wikipedia.org/wiki/#プリペイド契約急増問題 "wikilink")）
       - [3月1日](../Page/3月1日.md "wikilink") : 「家族割」と「誰でも割」（あるいは「スマイルハート割引」）を併用して契約する（既に契約済みを含む）ユーザーを対象に**家族間の国内通話を無料化**。
-      - [3月19日](../Page/3月19日.md "wikilink") : [JR東日本が提供する](../Page/東日本旅客鉄道.md "wikilink")[「モバイルSuica」用アプリを](../Page/モバイルSuica.md "wikilink")[W62S](https://ja.wikipedia.org/wiki/W62S "wikilink")以降の[EZ FeliCa対応機種よりプリセットすると発表](../Page/EZ_FeliCa.md "wikilink")。
+      - [3月19日](../Page/3月19日.md "wikilink") : [JR東日本が提供する](../Page/東日本旅客鉄道.md "wikilink")[「モバイルSuica」用アプリを](../Page/モバイルSuica.md "wikilink")[W62S](../Page/W62S.md "wikilink")以降の[EZ FeliCa対応機種よりプリセットすると発表](../Page/EZ_FeliCa.md "wikilink")。
       - [3月28日](../Page/3月28日.md "wikilink") : 既存の[京セラ](../Page/京セラ.md "wikilink")製端末「**[W42K](../Page/W42K.md "wikilink")**」の[電池パックの不具合について発表した](../Page/二次電池.md "wikilink")。（→[電池パックの不具合についての公表遅れ](https://ja.wikipedia.org/wiki/#電池パックの不具合についての公表遅れ "wikilink")）
       - [5月9日](../Page/5月9日.md "wikilink") : 4月の携帯電話契約数がauブランド発足直後の2000年7月以来およそ8年ぶりの大幅純減（-11万8400件）となった。これはツーカー終了による自動解約（23万4,100件の純減）と大量のプリペイド端末無料配布分の有効期限切れによるもので、au単体では11万5,400件の純増である\[18\]。
       - [6月3日](../Page/6月3日.md "wikilink") : 月額利用料が割安な「シンプルコース」を同年[6月10日](../Page/6月10日.md "wikilink")に改定し、新たな料金プラン「**新シンプルプラン**」7種類を提供する。なお同年6月10日以降は、シンプルコースを選択した場合、[W61S](../Page/W61S.md "wikilink")（沖縄セルラーは対象外）と2008年夏モデル以降の最新機種のいずれかを購入する際、端末代金を分割払い（[割賦販売](../Page/割賦販売.md "wikilink")）で購入する事が可能になる。
@@ -414,7 +414,7 @@ auにおいては[キャリアショップ](https://ja.wikipedia.org/wiki/キャ
   - [KCP+](../Page/KCP+.md "wikilink")
   - [au Smart Sports](https://ja.wikipedia.org/wiki/au_Smart_Sports "wikilink")
   - [Skype au](https://ja.wikipedia.org/wiki/Skype_au "wikilink")
-  - [ラブハピ](https://ja.wikipedia.org/wiki/デコレ村の絵文字たち "wikilink") : 旧・デコレ村の絵文字たち
+  - [ラブハピ](../Page/デコレ村の絵文字たち.md "wikilink") : 旧・デコレ村の絵文字たち
   - [Giga-IR](https://ja.wikipedia.org/wiki/Giga-IR "wikilink")
   - [TransferJet](https://ja.wikipedia.org/wiki/TransferJet "wikilink")
   - [朝日新聞社](../Page/朝日新聞社.md "wikilink") : [EZニュースEX](https://ja.wikipedia.org/wiki/EZニュースEX "wikilink")の配信等で提携。

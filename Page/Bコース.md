@@ -142,7 +142,7 @@
   - [音リコ\!](../Page/音リコ!.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2008年4月1日）
   - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")、2008年12月25日）
   - [U・LA・LA](https://ja.wikipedia.org/wiki/U・LA・LA "wikilink")@7（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")） - 『よしもとうららちゃん』コーナー
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")） - キャッチコピーは「ポロシャツ信号機」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")） - キャッチコピーは「ポロシャツ信号機」
   - [お笑いメリーゴーランド](https://ja.wikipedia.org/wiki/お笑いメリーゴーランド "wikilink")（TBSテレビ）
   - [鬼のワラ塾](https://ja.wikipedia.org/wiki/鬼のワラ塾 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [おはスタ](../Page/おはスタ.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
@@ -156,7 +156,7 @@
   - [音の素](https://ja.wikipedia.org/wiki/音の素 "wikilink")（日本テレビ）
   - [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（日本テレビ、2008年4月5日）
   - [浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")（日本テレビ、2008年5月22日）
-  - [アナCAN](https://ja.wikipedia.org/wiki/アナCAN "wikilink")（TBSテレビ、2008年11月29日）
+  - [アナCAN](../Page/アナCAN.md "wikilink")（TBSテレビ、2008年11月29日）
   - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（テレビ朝日）
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - キャッチコピーは「トリオ・ザ・ポップ」
   - [新春ゴールデンピンクカーペットSP](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ） - キャッチコピーは「トリオ･ザ･ポップ」

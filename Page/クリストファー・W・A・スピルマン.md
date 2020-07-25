@@ -23,7 +23,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")6月、イェール大学大学院歴史学科博士課程修了（歴史学修士，MA，MPhil）。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、みたび来日し[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月から[1989年](../Page/1989年.md "wikilink")4月まで東京大学大学院法科政治研究科で外国人研究生として学ぶ。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、みたび来日し[1986年](../Page/1986年.md "wikilink")4月から[1989年](../Page/1989年.md "wikilink")4月まで東京大学大学院法科政治研究科で外国人研究生として学ぶ。
 
 [1991年](../Page/1991年.md "wikilink")8月から[1993年](../Page/1993年.md "wikilink")7月まで、米国[オールド・ドミニオン大学](https://ja.wikipedia.org/wiki/オールド・ドミニオン大学 "wikilink")歴史学部講師。
 

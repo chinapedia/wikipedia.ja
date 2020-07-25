@@ -9,7 +9,7 @@
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 法人改組し**株式会社三友技術研究所**を設立。
   - [1975年](../Page/1975年.md "wikilink") - **株式会社サンクス**に商号変更。
   - [1982年](../Page/1982年.md "wikilink") - **サンクス株式会社**に商号変更。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - [名古屋証券取引所](../Page/名古屋証券取引所.md "wikilink")2部に上場。
+  - [1986年](../Page/1986年.md "wikilink") - [名古屋証券取引所](../Page/名古屋証券取引所.md "wikilink")2部に上場。
   - [2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - 社名表記をサンクスからSUNXに変更。
   - [2001年](../Page/2001年.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部に上場。
   - [2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - 東京・名古屋両証券取引所1部に指定替え。

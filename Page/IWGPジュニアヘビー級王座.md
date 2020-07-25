@@ -5,7 +5,7 @@
 
 ## 概要
 
-IWGPジュニアヘビー級王座は[IWGP](../Page/IWGP.md "wikilink")として認定するタイトルとしては、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")末に認定された[IWGPタッグ王座](../Page/IWGPタッグ王座.md "wikilink")に次いで[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に設立。
+IWGPジュニアヘビー級王座は[IWGP](../Page/IWGP.md "wikilink")として認定するタイトルとしては、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")末に認定された[IWGPタッグ王座](../Page/IWGPタッグ王座.md "wikilink")に次いで[1986年](../Page/1986年.md "wikilink")に設立。
 
 それまでジュニアヘビー級の王座は、[藤波辰巳が](../Page/藤波辰爾.md "wikilink")1978年1月に獲得した[WWFジュニアヘビー級王座](https://ja.wikipedia.org/wiki/WWFジュニアヘビー級王座 "wikilink")と1980年2月に獲得した[NWAインターナショナル・ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/NWAインターナショナル・ジュニアヘビー級王座 "wikilink")に、[タイガーマスク](../Page/佐山聡.md "wikilink")（初代）が1982年5月に獲得した[NWA世界ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/NWA世界ジュニアヘビー級王座 "wikilink")の3つがあったが、1985年10月末に[WWFが新日本との業務提携を終了し](../Page/WWE.md "wikilink")、WWFジュニアヘビー級王座は[WWFインターナショナル・ヘビー級王座](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")ならびにWWFインターナショナル・タッグ王座とともに返上を余儀なくされ、同時にNWA世界ジュニアヘビー級王座も返上となった。NWAインターナショナル・ジュニアヘビー級王座は、1981年8月の時点で当時王者だった[チャボ・ゲレロが](../Page/チャボ・ゲレロ・シニア.md "wikilink")[全日本プロレス](../Page/全日本プロレス.md "wikilink")への移籍と同時に全日本プロレスに渡り移っていた事から、これらに代わる真の王座としてのベルトが必要であった。
 

@@ -70,7 +70,7 @@
 
 :\* イノ - [ウド鈴木](../Page/ウド鈴木.md "wikilink")
 
-:\* テラ - [坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")
+:\* テラ - [坂口憲二](../Page/坂口憲二.md "wikilink")
 
 :\* 佐伯真介 - [松尾政寿](../Page/松尾政寿.md "wikilink")
 

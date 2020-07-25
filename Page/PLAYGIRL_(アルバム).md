@@ -66,7 +66,7 @@
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#ALL)
   - 小澤正澄：[Guitars](../Page/ギター.md "wikilink") (\#1)、All Instruments & Programming (\#4)
   - [大賀好修](../Page/大賀好修.md "wikilink")：Guitars (\#2,3,6)
-  - [石井裕](https://ja.wikipedia.org/wiki/石井裕_\(ミュージシャン\) "wikilink")：Guitars (\#5)
+  - [石井裕](../Page/石井裕_\(ミュージシャン\).md "wikilink")：Guitars (\#5)
   - さいとうゆうすけ：Guitars (\#5)
   - 有永浩二：Guitars (\#7)
   - [太田伸一郎](https://ja.wikipedia.org/wiki/太田伸一郎 "wikilink")：Chorus (\#3)

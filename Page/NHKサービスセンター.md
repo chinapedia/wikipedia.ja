@@ -36,7 +36,7 @@
   - [あなたのアンコール](../Page/あなたのアンコール.md "wikilink")
   - [デジタル放送なんでも相談室](../Page/デジタル放送なんでも相談室.md "wikilink")→[デジタルQ](https://ja.wikipedia.org/wiki/デジタルQ "wikilink")
   - [土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")
-  - [日曜バラエティー](https://ja.wikipedia.org/wiki/日曜バラエティー "wikilink")
+  - [日曜バラエティー](../Page/日曜バラエティー.md "wikilink")
   - [NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")
   - BSスタイル
   - BS大好き

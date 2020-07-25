@@ -59,7 +59,7 @@
   - [NETJUKE](../Page/NETJUKE.md "wikilink")
   - [Net MD](https://ja.wikipedia.org/wiki/Net_MD "wikilink")
   - [SoundGate](https://ja.wikipedia.org/wiki/SoundGate "wikilink")
-  - [Listen](https://ja.wikipedia.org/wiki/Listen "wikilink")
+  - [Listen](../Page/Listen.md "wikilink")
   - [pixy](https://ja.wikipedia.org/wiki/pixy "wikilink")
 
 ## 外部リンク

@@ -30,7 +30,7 @@
 
 2006年、NHKのドキュメンタリー番組「プロフェッショナル 仕事の流儀」の主題歌「Progress」制作のために結成される。同年12月、[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")にソロで出場したスガシカオの[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")として出演する。
 
-2010年10月2日・3日の2日間にわたり、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")・[平安神宮](../Page/平安神宮.md "wikilink")で開催されたライブイベント「平安神宮 月夜の宴」に、ホストバンドとして出演\[19\]。
+2010年10月2日・3日の2日間にわたり、[京都](../Page/京都.md "wikilink")・[平安神宮](../Page/平安神宮.md "wikilink")で開催されたライブイベント「平安神宮 月夜の宴」に、ホストバンドとして出演\[19\]。
 
 2013年3月22日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にて[トータス松本](../Page/トータス松本.md "wikilink")、一青窈、藤井フミヤ、[佐藤竹善](../Page/佐藤竹善.md "wikilink")というゲストを迎え、3年ぶりに一夜限りとなるプレミアムライブ「Inter FM MUSIC MASTER LIVE with kokua」を開催\[20\]。
 

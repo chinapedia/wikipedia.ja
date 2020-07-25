@@ -3,7 +3,7 @@
 
 **GIGABYTE**（ギガバイト、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[周辺機器](../Page/周辺機器.md "wikilink")のメーカー。
 
-設立は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")。本社は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[新北市](../Page/新北市.md "wikilink")に所在、法人市場と民間市場の双方の[コンピュータ](../Page/コンピュータ.md "wikilink")製品の開発製造を手がけ、世界各国で販売している\[1\]。
+設立は[1986年](../Page/1986年.md "wikilink")。本社は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[新北市](../Page/新北市.md "wikilink")に所在、法人市場と民間市場の双方の[コンピュータ](../Page/コンピュータ.md "wikilink")製品の開発製造を手がけ、世界各国で販売している\[1\]。
 
 製品については、社内ブランドとしてゲーマー向けの「AORUS GAMING」を有する\[2\]。
 

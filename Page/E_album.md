@@ -38,7 +38,7 @@
 6.  **手を振ってさよなら**
     (作詞・作曲・編曲:[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")　ストリングスアレンジ:[村山達哉](https://ja.wikipedia.org/wiki/村山達哉 "wikilink"))
 7.  **Broken冷蔵庫**
-    (作詞:戸沢暢美　作曲:[宮崎歩](../Page/宮崎歩.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink"))
+    (作詞:戸沢暢美　作曲:[宮崎歩](../Page/宮崎歩.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:[岩田雅之](../Page/岩田雅之.md "wikilink"))
 8.  **[情熱](../Page/情熱_\(KinKi_Kidsの曲\).md "wikilink")**
     (作詞:[Satomi](../Page/Satomi.md "wikilink")　作曲:Boris Durdevic　編曲:[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink"))
       -

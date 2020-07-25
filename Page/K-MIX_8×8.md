@@ -14,7 +14,7 @@
 
 ## 終了時点の番組
 
-⚫印…後継番組『[K-mix Maison de Ami](https://ja.wikipedia.org/wiki/K-mix_Maison_de_Ami "wikilink")』の出演者。※『[羊毛とおはな](https://ja.wikipedia.org/wiki/羊毛とおはな "wikilink")ラジオ』は単独番組として継続。
+⚫印…後継番組『[K-mix Maison de Ami](https://ja.wikipedia.org/wiki/K-mix_Maison_de_Ami "wikilink")』の出演者。※『[羊毛とおはな](../Page/羊毛とおはな.md "wikilink")ラジオ』は単独番組として継続。
 
   - 月曜日
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - 前半：**羊毛とおはなラジオ**\[13\] - [羊毛とおはな](https://ja.wikipedia.org/wiki/羊毛とおはな "wikilink")
+  - 前半：**羊毛とおはなラジオ**\[13\] - [羊毛とおはな](../Page/羊毛とおはな.md "wikilink")
       -
         （2012年7月5日 - 2013年3月28日）
     <!-- end list -->

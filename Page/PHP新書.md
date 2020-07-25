@@ -51,7 +51,7 @@
 
 ### は行
 
-  - はじめての哲学史講義（[鷲田小彌太](https://ja.wikipedia.org/wiki/鷲田小彌太 "wikilink")）
+  - はじめての哲学史講義（[鷲田小彌太](../Page/鷲田小彌太.md "wikilink")）
   - 藩と日本人（[武光誠](https://ja.wikipedia.org/wiki/武光誠 "wikilink")）
   - ほんとうは日本に憧れる中国人（[王敏](https://ja.wikipedia.org/wiki/王敏 "wikilink")）
   - 人は誰もがリーダーである（[平尾誠二](../Page/平尾誠二.md "wikilink")）

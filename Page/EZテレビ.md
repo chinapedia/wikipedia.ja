@@ -304,7 +304,7 @@
 
 <!-- end list -->
 
-  - [W61T](https://ja.wikipedia.org/wiki/W61T "wikilink")
+  - [W61T](../Page/W61T.md "wikilink")
 
 <!-- end list -->
 

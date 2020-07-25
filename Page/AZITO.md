@@ -28,7 +28,7 @@
   - AZITO 3D
     シリーズ4作目（[2011年](../Page/2011年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")発売）。プラットフォームを[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")に変更。1作目同様に版権キャラクターはなくなった。
   - AZITO 3D KYOTO/TOKYO/OSAKA
-    ニンテンドー3DSダウンロード専用でAZITO 3Dには未収録だった新マップ版。初級向けの「[KYOTO](https://ja.wikipedia.org/wiki/京都 "wikilink")」が[2012年](../Page/2012年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")、中級向けの「[TOKYO](../Page/東京.md "wikilink")」が[12月5日](../Page/12月5日.md "wikilink")、上級向けの「[OSAKA](../Page/大阪.md "wikilink")」が[2013年](../Page/2013年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")配信開始。ご当地オリジナルのヒーローや怪人が登場する。
+    ニンテンドー3DSダウンロード専用でAZITO 3Dには未収録だった新マップ版。初級向けの「[KYOTO](../Page/京都.md "wikilink")」が[2012年](../Page/2012年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")、中級向けの「[TOKYO](../Page/東京.md "wikilink")」が[12月5日](../Page/12月5日.md "wikilink")、上級向けの「[OSAKA](../Page/大阪.md "wikilink")」が[2013年](../Page/2013年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")配信開始。ご当地オリジナルのヒーローや怪人が登場する。
   - AZITO × タツノコレジェンズ
     シリーズ5作目（[2015年](../Page/2015年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")発売）。プラットフォームは[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")。[タツノコプロ](../Page/タツノコプロ.md "wikilink")のヒーローやロボットが登場する。
 

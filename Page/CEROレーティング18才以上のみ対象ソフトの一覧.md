@@ -236,7 +236,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [コール オブ デューティ モダン・ウォーフェア3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア3 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ ブラックオプス2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス2 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ アドバンスド・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_アドバンスド・ウォーフェア "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [ザ・ダークネス](https://ja.wikipedia.org/wiki/ザ・ダークネス_\(ゲーム\) "wikilink")（コンテンツアイコン：「犯罪」）
+  - [ザ・ダークネス](../Page/ザ・ダークネス_\(ゲーム\).md "wikilink")（コンテンツアイコン：「犯罪」）
   - [ザ・ハウス・オブ・ザ・デッド オーバーキル:ディレクターズカット](https://ja.wikipedia.org/wiki/ザ・ハウス・オブ・ザ・デッド_オーバーキル "wikilink")（コンテンツアイコン：「暴力」）
   - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [シャドウ オブ ザ ダムド](https://ja.wikipedia.org/wiki/シャドウ_オブ_ザ_ダムド "wikilink")（コンテンツアイコン：「暴力」）
@@ -435,7 +435,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [コール オブ デューティ モダン・ウォーフェア3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア3 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ ブラックオプス2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス2 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ アドバンスド・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_アドバンスド・ウォーフェア "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [ザ・ダークネス](https://ja.wikipedia.org/wiki/ザ・ダークネス_\(ゲーム\) "wikilink")（コンテンツアイコン：「犯罪」）
+  - [ザ・ダークネス](../Page/ザ・ダークネス_\(ゲーム\).md "wikilink")（コンテンツアイコン：「犯罪」）
   - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [JUST CAUSE ビバ・レボリューション](https://ja.wikipedia.org/wiki/Just_Cause "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [重鉄騎](https://ja.wikipedia.org/wiki/重鉄騎 "wikilink")（コンテンツアイコン：「暴力」）

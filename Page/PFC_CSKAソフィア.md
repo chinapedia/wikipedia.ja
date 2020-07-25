@@ -25,7 +25,7 @@
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") : クラブ名を**ソフィスキ・ガルニゾン**に変更。
   - [1954年](../Page/1954年.md "wikilink") : クラブ名を**CDNAソフィア**に変更。
   - [1962年](../Page/1962年.md "wikilink") : クラブ名を**CSKAチェルベノ・ズナメ・ソフィア**に変更。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") : クラブ名を**CSKAセプテンブリスコ・ズナメ・ソフィア**に変更。
+  - [1968年](../Page/1968年.md "wikilink") : クラブ名を**CSKAセプテンブリスコ・ズナメ・ソフィア**に変更。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") : クラブを解散させられる。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") : クラブ名を**CSKAスレデッツ・ソフィア**に変更。
   - [1989年](../Page/1989年.md "wikilink") : クラブ名を**CSKAソフィア**に変更。

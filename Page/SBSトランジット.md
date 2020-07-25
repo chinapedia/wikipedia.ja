@@ -7,11 +7,11 @@
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月 デルグロ・コーポレーションからバス事業が分社され、子会社として[シンガポール・バス・サービス](https://ja.wikipedia.org/wiki/シンガポール・バス・サービス "wikilink") (Singapore Bus Service, SBS) が設立される。
   - [2001年](../Page/2001年.md "wikilink")1月 バスと鉄道を運行する事業者ということを明確にするためにSBSトランジットに社名を変更する。
-  - [2003年](../Page/2003年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") [LRTセンカン線](https://ja.wikipedia.org/wiki/LRTセンカン線 "wikilink")（東環状線）の運行を開始する。
+  - [2003年](../Page/2003年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") [LRTセンカン線](../Page/LRTセンカン線.md "wikilink")（東環状線）の運行を開始する。
   - [2003年](../Page/2003年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") [MRT北東線](https://ja.wikipedia.org/wiki/MRT北東線 "wikilink")の運行を開始する。
-  - [2005年](../Page/2005年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") [LRTプンゴル線](https://ja.wikipedia.org/wiki/LRTプンゴル線 "wikilink")（東環状線）と[LRTセンカン線](https://ja.wikipedia.org/wiki/LRTセンカン線 "wikilink")（西環状線）の運行を開始する。
+  - [2005年](../Page/2005年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") [LRTプンゴル線](../Page/LRTプンゴル線.md "wikilink")（東環状線）と[LRTセンカン線](../Page/LRTセンカン線.md "wikilink")（西環状線）の運行を開始する。
   - [2013年](../Page/2013年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") [MRTダウンタウン線](https://ja.wikipedia.org/wiki/MRTダウンタウン線 "wikilink")（第1期区間 4.3km 6駅）の運行を開始する。
-  - [2014年](../Page/2014年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") [LRTプンゴル線](https://ja.wikipedia.org/wiki/LRTプンゴル線 "wikilink")（西環状線）の運行を開始する。
+  - [2014年](../Page/2014年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") [LRTプンゴル線](../Page/LRTプンゴル線.md "wikilink")（西環状線）の運行を開始する。
   - [2015年](../Page/2015年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") [MRTダウンタウン線](https://ja.wikipedia.org/wiki/MRTダウンタウン線 "wikilink")（第2期区間 16.6km 12駅）の運行を開始する。
   - [2017年](../Page/2017年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink") [MRTダウンタウン線](https://ja.wikipedia.org/wiki/MRTダウンタウン線 "wikilink")（第3期区間 21km 16駅）の運行を開始する。
 
@@ -28,7 +28,7 @@
   - バス事業（シンガポール全土でおよそ2,700台のバスが運行されている）
   - [MRT北東線](https://ja.wikipedia.org/wiki/MRT北東線 "wikilink")
   - [MRTダウンタウン線](https://ja.wikipedia.org/wiki/MRTダウンタウン線 "wikilink")
-  - LRT2路線（[プンゴル線](https://ja.wikipedia.org/wiki/LRTプンゴル線 "wikilink")・[センカン線](https://ja.wikipedia.org/wiki/LRTセンカン線 "wikilink")）
+  - LRT2路線（[プンゴル線](../Page/LRTプンゴル線.md "wikilink")・[センカン線](../Page/LRTセンカン線.md "wikilink")）
 
 ## バス車両
 

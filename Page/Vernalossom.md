@@ -624,8 +624,8 @@ AKB48\[3\]・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](h
   - 西山怜那
   - [仁藤萌乃](../Page/仁藤萌乃.md "wikilink") - ホリプロへ移籍。
   - [平田梨奈](https://ja.wikipedia.org/wiki/平田梨奈 "wikilink")
-  - [前田亜美](https://ja.wikipedia.org/wiki/前田亜美 "wikilink") - 一度[フロスツゥー](https://ja.wikipedia.org/wiki/フロスツゥー "wikilink")に移籍、2014年1月1日にAKSに復帰\[48\]、2016年8月29日に卒業。フリー期間を経て、[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")へ移籍。（過去にブレンデン所属）。
-  - [松井咲子](https://ja.wikipedia.org/wiki/松井咲子 "wikilink") - [サムデイへ移籍](https://ja.wikipedia.org/wiki/サムデイ_\(芸能事務所\) "wikilink")。
+  - [前田亜美](https://ja.wikipedia.org/wiki/前田亜美 "wikilink") - 一度[フロスツゥー](https://ja.wikipedia.org/wiki/フロスツゥー "wikilink")に移籍、2014年1月1日にAKSに復帰\[48\]、2016年8月29日に卒業。フリー期間を経て、[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")へ移籍。（過去にブレンデン所属）。
+  - [松井咲子](https://ja.wikipedia.org/wiki/松井咲子 "wikilink") - [サムデイへ移籍](../Page/サムデイ_\(芸能事務所\).md "wikilink")。
   - [森川彩香](https://ja.wikipedia.org/wiki/森川彩香 "wikilink") - [スターレイプロダクション](https://ja.wikipedia.org/wiki/スターレイプロダクション "wikilink")、フリー期間を経て、HeaRTSエンターテイメントへ移籍。
 
 </div>
@@ -1659,7 +1659,7 @@ SKEへ移籍
   - チームJ
       - [仲川遥香](../Page/仲川遥香.md "wikilink") - プロダクション尾木を経て（AKB48在籍時に移籍）、[電通](../Page/電通.md "wikilink")インドネシアへ移籍\[71\]。
   - チームKIII
-      - [近野莉菜](https://ja.wikipedia.org/wiki/近野莉菜 "wikilink") - AKB48在籍時にイトーカンパニーへ移籍。
+      - [近野莉菜](../Page/近野莉菜.md "wikilink") - AKB48在籍時にイトーカンパニーへ移籍。
 
 </div>
 
@@ -1792,7 +1792,7 @@ AKSは[レコードレーベル](../Page/レコードレーベル.md "wikilink")
 ### 制作協力
 
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")
-      - [AKBINGO\!](https://ja.wikipedia.org/wiki/AKBINGO! "wikilink")（[AKB1じ59ふん\!](../Page/AKB1じ59ふん!.md "wikilink")・[AKB0じ59ふん\!](https://ja.wikipedia.org/wiki/AKB0じ59ふん! "wikilink")）
+      - [AKBINGO\!](https://ja.wikipedia.org/wiki/AKBINGO! "wikilink")（[AKB1じ59ふん\!](../Page/AKB1じ59ふん!.md "wikilink")・[AKB0じ59ふん\!](../Page/AKB0じ59ふん!.md "wikilink")）
       - [AKB600sec.](https://ja.wikipedia.org/wiki/AKB600sec. "wikilink")
       - [マジすか学園](https://ja.wikipedia.org/wiki/マジすか学園シリーズ "wikilink")（[マジすか学園4](https://ja.wikipedia.org/wiki/マジすか学園4 "wikilink")・[5](https://ja.wikipedia.org/wiki/マジすか学園5 "wikilink")・[木更津乱闘編](https://ja.wikipedia.org/wiki/マジすか学園0_木更津乱闘編 "wikilink")）
       - [SKE48 エビカルチョ\!](https://ja.wikipedia.org/wiki/SKE48_エビカルチョ! "wikilink")

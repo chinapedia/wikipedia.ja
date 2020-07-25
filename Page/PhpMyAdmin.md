@@ -37,7 +37,7 @@ phpMyAdminと似たような名前の製品もいくつか存在するが、MySQ
 
 ## 関連項目
 
-  - [OpenDocumentをサポートするアプリケーションの一覧](https://ja.wikipedia.org/wiki/OpenDocumentをサポートするアプリケーションの一覧 "wikilink")
+  - [OpenDocumentをサポートするアプリケーションの一覧](../Page/OpenDocumentをサポートするアプリケーションの一覧.md "wikilink")
   - [phpPgAdmin](https://ja.wikipedia.org/wiki/phpPgAdmin "wikilink")
   - [PHP (プログラミング言語)](../Page/PHP_\(プログラミング言語\).md "wikilink")
   - [MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")

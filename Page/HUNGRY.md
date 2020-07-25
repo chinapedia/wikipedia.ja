@@ -31,7 +31,7 @@
 
 ## プロモーション
 
-本作に関連するプロモーションとしては、シングル「久しぶりに俺は泣いたんだ」にて初となるプロモーション・ビデオが制作された他、[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（1985年 - 1989年）に4月24日に出演し同曲を演奏、また「勇次」に関しては7月31日に同番組で演奏した他、[日本テレビ系音楽番組](../Page/日本テレビ系列.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）に出演し演奏した。
+本作に関連するプロモーションとしては、シングル「久しぶりに俺は泣いたんだ」にて初となるプロモーション・ビデオが制作された他、[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（1985年 - 1989年）に4月24日に出演し同曲を演奏、また「勇次」に関しては7月31日に同番組で演奏した他、[日本テレビ系音楽番組](../Page/日本テレビ系列.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（[1986年](../Page/1986年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）に出演し演奏した。
 
 さらに、本作の収録曲をすべて使用したビデオ『HUNGRY』（1985年）がリリースされている（[後述](https://ja.wikipedia.org/wiki/HUNGRY#映像作品 "wikilink")）。
 

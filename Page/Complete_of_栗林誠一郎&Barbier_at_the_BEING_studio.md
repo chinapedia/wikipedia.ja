@@ -5,7 +5,7 @@
 
 ## 内容
 
-[ビーイング](../Page/ビーイング.md "wikilink")によって企画・リリースされた"at the BEING studio"シリーズのコンピレーションアルバム。ただし、他シリーズに入っている未発表曲は収録されていない。殆どが[TUBE](../Page/TUBE.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")などの提供・セルフカバー曲である。また、「バラードが泣いた夜」、Barbier名義の楽曲はセルフプロデュースであるが、このアルバム自体は、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")によるプロデュース扱いとなっている。
+[ビーイング](../Page/ビーイング.md "wikilink")によって企画・リリースされた"at the BEING studio"シリーズのコンピレーションアルバム。ただし、他シリーズに入っている未発表曲は収録されていない。殆どが[TUBE](../Page/TUBE.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[ZARD](../Page/ZARD.md "wikilink")などの提供・セルフカバー曲である。また、「バラードが泣いた夜」、Barbier名義の楽曲はセルフプロデュースであるが、このアルバム自体は、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")によるプロデュース扱いとなっている。
 
 またRooms RECORDS(現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink"))より再発されていない3rdアルバム『[You Never Know](../Page/You_Never_Know.md "wikilink")』からの楽曲が収録されているが、これはBeingが原盤権を保有している為である。尚、1stアルバム『[LA JOLLA](../Page/LA_JOLLA.md "wikilink")』と2ndアルバム『[Summer Illusion](../Page/Summer_Illusion.md "wikilink")』からの楽曲が収録されていないのは、初期の2作品の原盤権が[BMG JAPANにある為](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、収録及び音楽配信が現状権利関係によって困難による為である。 \[1\]
 
@@ -26,7 +26,7 @@
         作詞：[川島だりあ](../Page/川島だりあ.md "wikilink")、作曲・編曲：栗林誠一郎 ストリングスアレンジ：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 4.  **誰かが待っている** \[3:39\]
       -
-        原曲：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+        原曲：[ZARD](../Page/ZARD.md "wikilink")
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")、作曲・編曲：栗林誠一郎
 5.  **Canaria〜カナリヤ〜** \[3:45\]
       -

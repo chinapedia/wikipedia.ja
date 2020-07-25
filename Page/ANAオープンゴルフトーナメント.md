@@ -1,7 +1,7 @@
 > この記事は[ANAオープンゴルフトーナメント](https://ja.wikipedia.org/wiki/ANAオープンゴルフトーナメント)から翻訳されています。
 
 
-**ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は、毎年9月第3週に行われる[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）の主催、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。
+**ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は、毎年9月第3週に行われる[全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）の主催、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。
 
 ## 大会の歴史
 
@@ -215,7 +215,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>第14回</p></td>
 <td><p><a href="../Page/倉本昌弘.md" title="wikilink">倉本昌弘</a></p></td>
 <td><p>札幌ゴルフ倶楽部輪厚コース<br />

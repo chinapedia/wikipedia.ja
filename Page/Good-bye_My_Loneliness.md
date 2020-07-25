@@ -1,7 +1,7 @@
 > この記事は[Good-bye My Loneliness](https://ja.wikipedia.org/wiki/Good-bye_My_Loneliness)から翻訳されています。
 
 
-「**Good-bye My Loneliness**」（グッバイ・マイ・ロンリネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が、**Zard**名義で発売した1作目の[シングル](../Page/シングル.md "wikilink")である。
+「**Good-bye My Loneliness**」（グッバイ・マイ・ロンリネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")が、**Zard**名義で発売した1作目の[シングル](../Page/シングル.md "wikilink")である。
 
 ## 概要
 

@@ -220,7 +220,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
   - 企画：[酒井伸和](../Page/酒井伸和.md "wikilink")
   - 監督：[御影](../Page/御影_\(シナリオライター\).md "wikilink")
-  - 原作・脚本：御影、[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")
+  - 原作・脚本：御影、[鏡遊](../Page/鏡遊.md "wikilink")
   - キャラクターデザイン・作画監督：[七尾奈留](../Page/七尾奈留.md "wikilink")、[2C=がろあ](https://ja.wikipedia.org/wiki/2C＝がろあ "wikilink")
   - 演出チーフ：向井正哉
   - 演出：酒井伸和、結城辰也、姿月景
@@ -295,7 +295,7 @@ minoriの5作目 にあたる本作品は『[水夏](../Page/水夏.md "wikilink
 
 #### スタッフ
 
-  - 原作 - [minori](https://ja.wikipedia.org/wiki/minori "wikilink")、[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")、[御影](../Page/御影_\(シナリオライター\).md "wikilink")
+  - 原作 - [minori](https://ja.wikipedia.org/wiki/minori "wikilink")、[鏡遊](../Page/鏡遊.md "wikilink")、[御影](../Page/御影_\(シナリオライター\).md "wikilink")
   - 監督 - [大沼心](../Page/大沼心.md "wikilink")
   - 監修 - [新房昭之](../Page/新房昭之.md "wikilink")
   - シリーズ構成・脚本 - [高山カツヒコ](../Page/高山カツヒコ.md "wikilink")
@@ -959,7 +959,7 @@ ever forever</p></td>
 
 [月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")にて本体ゲームに先行する形で連載開始。同誌休刊に伴い、[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")に移籍したが、体調不良を理由とした休載が頻発し2010年より掲載されない状態が続き、やがて連載作品紹介からも削除されたが、2014年11月に約5年ぶりに掲載され\[12\]、。連載作品紹介にも再び掲載された。5章はコミカライズされないまま終了となった。
 
-原作：御影・鏡遊、作画：[雅樹里](https://ja.wikipedia.org/wiki/雅樹里 "wikilink")（みやび じゅり）、発行：[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
+原作：御影・鏡遊、作画：[雅樹里](https://ja.wikipedia.org/wiki/雅樹里 "wikilink")（みやび じゅり）、発行：[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")
 
   - 第1巻: 2006年3月15日発行、ISBN 4-8402-3364-0
   - 第2巻: 2006年4月15日発行、ISBN 4-8402-3415-9
@@ -977,7 +977,7 @@ ever forever</p></td>
 
 内容は若干原作と違っている（紘や京介視点のみの描写、第一章におけるみやこと景の絡みがない、など）。
 
-原作：minori [御影](../Page/御影_\(シナリオライター\).md "wikilink")・[鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink")、著：鏡遊、カバーイラスト：[七尾奈留](../Page/七尾奈留.md "wikilink")、本文イラスト：[霜月絹鯊](https://ja.wikipedia.org/wiki/霜月絹鯊 "wikilink")、発売：[富士見書房](../Page/富士見書房.md "wikilink")
+原作：minori [御影](../Page/御影_\(シナリオライター\).md "wikilink")・[鏡遊](../Page/鏡遊.md "wikilink")、著：鏡遊、カバーイラスト：[七尾奈留](../Page/七尾奈留.md "wikilink")、本文イラスト：[霜月絹鯊](https://ja.wikipedia.org/wiki/霜月絹鯊 "wikilink")、発売：[富士見書房](../Page/富士見書房.md "wikilink")
 
   - MIYAKO ef-a fairy tale of the two.：2007年10月25日発売 ISBN 978-4-8291-7665-8
   - KEI ef-a fairy tale of the two.：2007年10月25日発売 ISBN 978-4-8291-7666-5

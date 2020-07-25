@@ -18,7 +18,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月 - イスラエルに現地法人Israel Shiraishi，Ltd．(連結子会社) を設立
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")8月 - エクセルコダイヤモンド東京本店を開設
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月 - 社名を株式会社ダイヤモンドシライシから**株式会社シーマブライダル**に変更
-  - [2000年](../Page/2000年.md "wikilink")3月 - [日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")に株式を店頭登録
+  - [2000年](../Page/2000年.md "wikilink")3月 - [日本証券業協会](../Page/日本証券業協会.md "wikilink")に株式を店頭登録
   - [2001年](../Page/2001年.md "wikilink")10月 - 社名を株式会社シーマブライダルから**株式会社シーマ**に変更
   - [2004年](../Page/2004年.md "wikilink")12月 - ジャスダック証券取引所（現東京証券取引所JASDAQ市場）に株式を上場
   - [2012年](../Page/2012年.md "wikilink") 2月 - 第2回シーマワールドジュエリー大賞開催。

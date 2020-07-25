@@ -64,7 +64,7 @@
   - [鈴木サチ](../Page/鈴木サチ.md "wikilink")
   - ジェリー
   - ステンケン摩耶
-  - [ユリエ](https://ja.wikipedia.org/wiki/ユリエ "wikilink")
+  - [ユリエ](../Page/ユリエ.md "wikilink")
   - [紗耶](../Page/市川紗椰.md "wikilink")
   - [尾澤直美](https://ja.wikipedia.org/wiki/尾澤直美 "wikilink")
   - [真里有](https://ja.wikipedia.org/wiki/MALIA "wikilink")

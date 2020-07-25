@@ -97,7 +97,7 @@
 <td><p>1983-84</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1983-84" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKブラン" title="wikilink">ブラン</a></p></td>
+<td><p><a href="../Page/SKブラン.md" title="wikilink">ブラン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–0</p></td>
 <td><p>'''2–1</p></td>

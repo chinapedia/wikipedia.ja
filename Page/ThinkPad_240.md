@@ -9,7 +9,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/画像:ThinkPad240Z_type2609-93J_kai.jpg "wikilink")
 
-  - [B5サイズ](https://ja.wikipedia.org/wiki/紙の寸法#洋紙 "wikilink")1[スピンドル](https://ja.wikipedia.org/wiki/スピンドル "wikilink")、10.4インチ[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")の[ノートパソコン](../Page/ノートパソコン.md "wikilink")である。IBMが規定したリアル[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")というカテゴリに含まれる。
+  - [B5サイズ](https://ja.wikipedia.org/wiki/紙の寸法#洋紙 "wikilink")1[スピンドル](../Page/スピンドル.md "wikilink")、10.4インチ[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")の[ノートパソコン](../Page/ノートパソコン.md "wikilink")である。IBMが規定したリアル[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")というカテゴリに含まれる。
   - 1999年に[ThinkPad 235](https://ja.wikipedia.org/wiki/ThinkPad_235 "wikilink") および [ThinkPad 535](https://ja.wikipedia.org/wiki/ThinkPad_535 "wikilink") の後継機種として発売された。 それら前モデルは、小さい上面投影面積に対して厚みが大きい、いわゆる「[弁当箱](../Page/弁当箱.md "wikilink")」スタイルであったのに対し、240シリーズは上面投影面積が一回り大きくなった代わりに薄くなった。また、ボトムケースが斜めに切り落とされ、薄さが強調されるとともに持ち運ぶ際に手にかかりやすいように配慮されている。 （斜めに切り落とされた部分の残りは空きスペースであり、筐体を落した際に[マザーボード](../Page/マザーボード.md "wikilink")へのダメージを防ぐ[クラッシャブルスペースとしての役割がある](../Page/クラッシャブルゾーン.md "wikilink")。）
   - 1スピンドルであるため、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")ドライブは専用ケーブルによる外付けとなっている（新品販売時は標準添付）。 外付け[CD-ROM](../Page/CD-ROM.md "wikilink")[ドライブはオプションである](../Page/光学ドライブ.md "wikilink")。
   - [バッテリーは](../Page/リチウムイオン二次電池.md "wikilink")、小型（3セル）、大容量（6セル）、Full Day（9セル）の3タイプが用意された。 当初は小型のものが標準であり、後に一部モデルは大容量のものが標準となった。 Full Dayバッテリーはオプションだった。

@@ -177,7 +177,7 @@
 
   - [プレドラグ・フィリポヴィッチ](https://ja.wikipedia.org/wiki/プレドラグ・フィリポヴィッチ "wikilink") 2002-2006
 
-  - [ボドナール・ラースロー](https://ja.wikipedia.org/wiki/ボドナール・ラースロー "wikilink") 2003-2005
+  - [ボドナール・ラースロー](../Page/ボドナール・ラースロー.md "wikilink") 2003-2005
 
   - [エリック・アッド](../Page/エリック・アッド.md "wikilink") 2002-2011
 

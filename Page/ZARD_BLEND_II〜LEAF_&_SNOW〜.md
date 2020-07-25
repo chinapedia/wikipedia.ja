@@ -1,7 +1,7 @@
 > この記事は[ZARD BLEND II〜LEAF \& SNOW〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_II〜LEAF_\&_SNOW〜)から翻訳されています。
 
 
-『**ZARD BLEND II 〜LEAF & SNOW〜**』（ザード・ブレンド・ツー リーフ・アンド・スノー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のセレクション[アルバム](../Page/アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はJBCJ-9002。[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")形態。
+『**ZARD BLEND II 〜LEAF & SNOW〜**』（ザード・ブレンド・ツー リーフ・アンド・スノー）は、[ZARD](../Page/ZARD.md "wikilink")のセレクション[アルバム](../Page/アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はJBCJ-9002。[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")形態。
 
 ## 解説
 

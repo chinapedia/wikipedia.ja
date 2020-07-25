@@ -603,7 +603,7 @@
   - [大場真人](../Page/大場真人.md "wikilink")（「はたらくおじさん」猫柳君・「サラリーマン・遊びの流儀」）
   - [皆口裕子](../Page/皆口裕子.md "wikilink")（2005年・Season2以降「世界の社食から」、2005年・番組CMナレーション）
   - [窪田等](../Page/窪田等.md "wikilink")（2005年「[前田建設ファンタジー営業部](https://ja.wikipedia.org/wiki/前田建設工業#前田建設ファンタジー営業部 "wikilink")」）
-  - [林田尚親](https://ja.wikipedia.org/wiki/林田尚親 "wikilink")（会社の王国オープニング）
+  - [林田尚親](../Page/林田尚親.md "wikilink")（会社の王国オープニング）
   - [佐久間レイ](../Page/佐久間レイ.md "wikilink")（2004年「元気が出る会議術」岩田君・番組CMナレーション）
   - [梅津秀行](../Page/梅津秀行.md "wikilink")（2004年「元気が出る会議術」猫柳君・「誠」）
   - [山口奈々](../Page/山口奈々.md "wikilink")（Season2「新しいネクタイの結び方講座」）

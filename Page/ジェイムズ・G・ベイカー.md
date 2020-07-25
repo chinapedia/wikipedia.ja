@@ -29,7 +29,7 @@
 
 ### 死去
 
-[2005年](../Page/2005年.md "wikilink")、ベイカーは[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[ベッドフォード](https://ja.wikipedia.org/wiki/ベッドフォード "wikilink")において、90歳で死去した。
+[2005年](../Page/2005年.md "wikilink")、ベイカーは[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[ベッドフォード](../Page/ベッドフォード.md "wikilink")において、90歳で死去した。
 
 ## 家族
 

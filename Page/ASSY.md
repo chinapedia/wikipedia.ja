@@ -27,7 +27,7 @@
   - [ディファレンシャルギア](../Page/差動装置.md "wikilink")（ケースごと）
   - [バンパー](../Page/バンパー.md "wikilink")
   - 灯具（[前照灯](../Page/前照灯.md "wikilink")、[尾灯](../Page/尾灯.md "wikilink")など）
-  - [クリーンエアフィルタ](https://ja.wikipedia.org/wiki/クリーンエアフィルタ_\(自動車用\) "wikilink")・サブASSY
+  - [クリーンエアフィルタ](../Page/クリーンエアフィルタ_\(自動車用\).md "wikilink")・サブASSY
 
 ### 鉄道車両
 

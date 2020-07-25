@@ -90,7 +90,7 @@ JALカードは、[2009年](../Page/2009年.md "wikilink")12月末現在で約2,
 ### 主なJALカードの一覧
 
   - [電子マネーの欄は](https://ja.wikipedia.org/wiki/電子マネー#非接触型決済による電子マネー "wikilink")、プリペイド（前払い）式の中でオートチャージサービスの利用が可能なものを太字で記載。
-  - 表中の記載以外に、全カード共通で[モバイルSuica](../Page/モバイルSuica.md "wikilink")・[SMART ICOCA](../Page/SMART_ICOCA.md "wikilink")・[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")の利用可能。
+  - 表中の記載以外に、全カード共通で[モバイルSuica](../Page/モバイルSuica.md "wikilink")・[SMART ICOCA](../Page/SMART_ICOCA.md "wikilink")・[SAPICA](../Page/SAPICA.md "wikilink")の利用可能。
   - 電子マネーのチャージ分についてはマイル付与対象外のものもあるので注意。
 
 <table>

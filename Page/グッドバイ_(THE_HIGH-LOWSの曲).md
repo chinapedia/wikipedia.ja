@@ -5,7 +5,7 @@
 
 ## 解説
 
-1stアルバム『[THE HIGH-LOWS](https://ja.wikipedia.org/wiki/THE_HIGH-LOWS_\(アルバム\) "wikilink")』からのリカット。
+1stアルバム『[THE HIGH-LOWS](../Page/THE_HIGH-LOWS_\(アルバム\).md "wikilink")』からのリカット。
 
 [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放映された『[週刊地球TV](https://ja.wikipedia.org/wiki/週刊地球TV "wikilink")』のオープニングテーマとして使用された。
 

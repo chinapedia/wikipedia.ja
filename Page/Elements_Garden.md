@@ -1,7 +1,7 @@
 > この記事は[Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden)から翻訳されています。
 
 
-**Elements Garden**（エレメンツ・ガーデン）は、[株式会社アリア](../Page/株式会社_\(日本\).md "wikilink")・エンターテインメント（旧：株式会社シーエムアイ 音楽制作事業部）に所属を置く[音楽](../Page/音楽.md "wikilink")[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")[ブランド](../Page/ブランド.md "wikilink")（[音楽クリエイターチーム](https://ja.wikipedia.org/wiki/音楽クリエイターチーム "wikilink")）である。略称「**エレガ**」。
+**Elements Garden**（エレメンツ・ガーデン）は、[株式会社アリア](../Page/株式会社_\(日本\).md "wikilink")・エンターテインメント（旧：株式会社シーエムアイ 音楽制作事業部）に所属を置く[音楽](../Page/音楽.md "wikilink")[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")[ブランド](../Page/ブランド.md "wikilink")（[音楽クリエイターチーム](../Page/音楽クリエイターチーム.md "wikilink")）である。略称「**エレガ**」。
 
 ## 概要
 

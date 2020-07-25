@@ -1,7 +1,7 @@
 > この記事は[F6D \(航空機\)](https://ja.wikipedia.org/wiki/F6D_\(航空機\))から翻訳されています。
 
 
-**F6D**とは、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。1950年代の後半に計画され、[ダグラス社により開発が行われたが](../Page/ダグラス・エアクラフト.md "wikilink")、製造はされず計画のみに終わった。愛称はミサイリアー(Missileer)。
+**F6D**とは、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。1950年代の後半に計画され、[ダグラス社により開発が行われたが](../Page/ダグラス・エアクラフト.md "wikilink")、製造はされず計画のみに終わった。愛称はミサイリアー(Missileer)。
 
 ## 概要
 

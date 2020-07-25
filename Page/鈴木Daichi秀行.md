@@ -358,7 +358,7 @@
 
 <!-- end list -->
 
-  - **[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")**
+  - **[KAT-TUN](../Page/KAT-TUN.md "wikilink")**
       - 「[ノーマター・マター](https://ja.wikipedia.org/wiki/cartoon_KAT-TUN_II_You "wikilink")」（編曲）
 
 <!-- end list -->
@@ -737,7 +737,7 @@
       - 「[めぐる恋の季節](../Page/めぐる恋の季節.md "wikilink")」（編曲・プログラミング・ギター）
       - 「[次の角を曲がれ](https://ja.wikipedia.org/wiki/The_Middle_Management〜女性中間管理職〜/我武者LIFE/次の角を曲がれ "wikilink")」（編曲・プログラミング・ギター・ベース）
       - 「[As ONE](../Page/キューティークイーン_VOL.1.md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[ほめられ伸び子のテーマ](https://ja.wikipedia.org/wiki/3rd〜LOVE_エスカレーション!〜 "wikilink")」（編曲・プログラミング・ギター）
+      - 「[ほめられ伸び子のテーマ](../Page/3rd〜LOVE_エスカレーション!〜.md "wikilink")」（編曲・プログラミング・ギター）
       - 「[★憧れ My STAR★](https://ja.wikipedia.org/wiki/4憧れ_My_STAR "wikilink")」（編曲・プログラミング・ギター）
       - 「[別れたくない…](https://ja.wikipedia.org/wiki/超WONDERFUL!6 "wikilink")」（編曲・プログラミング・ギター）
       - 「[越えろ\! 楽天イーグルス](https://ja.wikipedia.org/wiki/越えろ!楽天イーグルス "wikilink")」（編曲・プログラミング）
@@ -891,8 +891,8 @@
       - 「[サヨナラのかわりに](../Page/笑顔YESヌード.md "wikilink")」（編曲・ギター）
       - 「[Hand made CITY](../Page/悲しみトワイライト.md "wikilink")」（編曲・ギター）
       - 「[みかん](../Page/みかん_\(モーニング娘。の曲\).md "wikilink")」（編曲・プログラミング・ギター）
-      - 「[リゾナント ブルー](https://ja.wikipedia.org/wiki/リゾナント_ブルー "wikilink")」（編曲・プログラミング・ギター）
-      - 「[その場面でビビっちゃいけないじゃん\!](https://ja.wikipedia.org/wiki/リゾナント_ブルー "wikilink")」（編曲・ギター）
+      - 「[リゾナント ブルー](../Page/リゾナント_ブルー.md "wikilink")」（編曲・プログラミング・ギター）
+      - 「[その場面でビビっちゃいけないじゃん\!](../Page/リゾナント_ブルー.md "wikilink")」（編曲・ギター）
       - 「[すべては愛の力](https://ja.wikipedia.org/wiki/なんちゃって恋愛 "wikilink")」（編曲・ギター）
       - 「[女が目立って なぜイケナイ](https://ja.wikipedia.org/wiki/女が目立って_なぜイケナイ "wikilink")」（編曲・ギター）
       - 「[青空がいつまでも続くような未来であれ\!](../Page/レインボー7.md "wikilink")」（編曲・プログラミング・ギター）

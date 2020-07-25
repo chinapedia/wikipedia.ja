@@ -1,7 +1,7 @@
 > この記事は[KEGG](https://ja.wikipedia.org/wiki/KEGG)から翻訳されています。
 
 
-**KEGG**（Kyoto Encyclopedia of Genes and Genomes："[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")[ゲノム](../Page/ゲノム.md "wikilink")[百科事典](https://ja.wikipedia.org/wiki/百科事典 "wikilink")"の意味）は[バイオインフォマティクス](../Page/バイオインフォマティクス.md "wikilink")研究用の[データベース](../Page/データベース.md "wikilink")。遺伝子、[タンパク質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")、また[代謝](../Page/代謝.md "wikilink")や[シグナル伝達](../Page/シグナル伝達.md "wikilink")などの分子間ネットワークに関する情報を統合したデータベースである。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[京都大学化学研究所](https://ja.wikipedia.org/wiki/京都大学化学研究所 "wikilink")の[金久實](https://ja.wikipedia.org/wiki/金久實 "wikilink")らによるプロジェクトとして発足して整備が続けられ、[ウェブ上で公開されている](../Page/World_Wide_Web.md "wikilink")。
+**KEGG**（Kyoto Encyclopedia of Genes and Genomes："[京都](../Page/京都.md "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")[ゲノム](../Page/ゲノム.md "wikilink")[百科事典](https://ja.wikipedia.org/wiki/百科事典 "wikilink")"の意味）は[バイオインフォマティクス](../Page/バイオインフォマティクス.md "wikilink")研究用の[データベース](../Page/データベース.md "wikilink")。遺伝子、[タンパク質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")、また[代謝](../Page/代謝.md "wikilink")や[シグナル伝達](../Page/シグナル伝達.md "wikilink")などの分子間ネットワークに関する情報を統合したデータベースである。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[京都大学化学研究所](https://ja.wikipedia.org/wiki/京都大学化学研究所 "wikilink")の[金久實](https://ja.wikipedia.org/wiki/金久實 "wikilink")らによるプロジェクトとして発足して整備が続けられ、[ウェブ上で公開されている](../Page/World_Wide_Web.md "wikilink")。
 
 KEGGは、[細胞](../Page/細胞.md "wikilink")レベルでの生命システムの機能に関する知識を、分子間相互作用ネットワーク（代謝、シグナル伝達、遺伝情報等）の[二項関係](../Page/二項関係.md "wikilink")に基づいた情報としてデータベース化し (PATHWAY)、これを中心に据えているのが特徴である。
 

@@ -1,7 +1,7 @@
 > この記事は[Eneloop](https://ja.wikipedia.org/wiki/Eneloop)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sanyo_eneloop_HR-3UTG_and_HR-4UTG.jpg "wikilink") **eneloop**（エネループ）は、[三洋電機](../Page/三洋電機.md "wikilink")が開発、[FDK](https://ja.wikipedia.org/wiki/FDK "wikilink")（旧・三洋エナジートワイセル→[FDKトワイセル](../Page/FDKトワイセル.md "wikilink")）が製造、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が発売する[2005年](../Page/2005年.md "wikilink")（平成17年）[11月14日](../Page/11月14日.md "wikilink")に発売された[ニッケル・水素蓄電池](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")の商品名で、[三洋電機](../Page/三洋電機.md "wikilink")の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")（日本第4947448号・日本第5062218号）である。また、同商品のコンセプトをベースに[2006年](../Page/2006年.md "wikilink")（平成18年）以降展開されている商品群「**eneloop universe**（エネループ ユニバース）」シリーズにつけられた[ブランド](../Page/ブランド.md "wikilink")でもある。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sanyo_eneloop_HR-3UTG_and_HR-4UTG.jpg "wikilink") **eneloop**（エネループ）は、[三洋電機](../Page/三洋電機.md "wikilink")が開発、[FDK](../Page/FDK.md "wikilink")（旧・三洋エナジートワイセル→[FDKトワイセル](../Page/FDKトワイセル.md "wikilink")）が製造、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が発売する[2005年](../Page/2005年.md "wikilink")（平成17年）[11月14日](../Page/11月14日.md "wikilink")に発売された[ニッケル・水素蓄電池](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")の商品名で、[三洋電機](../Page/三洋電機.md "wikilink")の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")（日本第4947448号・日本第5062218号）である。また、同商品のコンセプトをベースに[2006年](../Page/2006年.md "wikilink")（平成18年）以降展開されている商品群「**eneloop universe**（エネループ ユニバース）」シリーズにつけられた[ブランド](../Page/ブランド.md "wikilink")でもある。
 
 なお、三洋電機は[パナソニックグループ](../Page/パナソニックグループ.md "wikilink")内の再編に伴い、[2012年](../Page/2012年.md "wikilink")（平成24年）1月からPanasonicブランドに移行となったが、「eneloop」に関しては[2013年](../Page/2013年.md "wikilink")（平成25年）[4月25日](../Page/4月25日.md "wikilink")までの間、SANYOブランドのままで発売されていた\[1\]。そして、同年[4月26日](../Page/4月26日.md "wikilink")より発売された新モデルからPanasonicブランドとなり、「充電式[EVOLTA](https://ja.wikipedia.org/wiki/EVOLTA "wikilink")」とのデュアルブランドへ移行した。
 
@@ -379,7 +379,7 @@
 
 [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が発売する「FOMA 補助充電アダプタ 01/02/03」および「ポケットチャージャー 01/02/03」には、「Powered by eneloop」のロゴが表記されている（ただし「FOMA 補助充電アダプタ 01」のうち、旧ドコモロゴのロットを除く）。いずれも製造元は[三洋電機](../Page/三洋電機.md "wikilink")である。なお「ポケットチャージャー 02/03」は[Qi規格に対応している](https://ja.wikipedia.org/wiki/Qi_\(ワイヤレス給電\) "wikilink")。
 
-事実上、上記「ポケットチャージャー 02」の[au版にあたる](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「ポータブル充電器02」（[FDKトワイセル](../Page/FDKトワイセル.md "wikilink")→[FDK](https://ja.wikipedia.org/wiki/FDK "wikilink")製）にも、同様に「Powered by eneloop」のロゴが表記されている（ちなみに「ポータブル充電器01」は、当時の[松下電池工業](https://ja.wikipedia.org/wiki/松下電池工業 "wikilink")製であるため、eneloopと直接の関連はない）。ただし「ポータブル充電器02」は[Qi](https://ja.wikipedia.org/wiki/Qi "wikilink")規格に対応していない。
+事実上、上記「ポケットチャージャー 02」の[au版にあたる](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「ポータブル充電器02」（[FDKトワイセル](../Page/FDKトワイセル.md "wikilink")→[FDK](../Page/FDK.md "wikilink")製）にも、同様に「Powered by eneloop」のロゴが表記されている（ちなみに「ポータブル充電器01」は、当時の[松下電池工業](https://ja.wikipedia.org/wiki/松下電池工業 "wikilink")製であるため、eneloopと直接の関連はない）。ただし「ポータブル充電器02」は[Qi](https://ja.wikipedia.org/wiki/Qi "wikilink")規格に対応していない。
 
 かつて[イオンの](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")[プライベートブランド](../Page/プライベートブランド.md "wikilink")である「[トップバリュ 共環宣言](../Page/イオントップバリュ.md "wikilink")」の充電池がエネループの[OEM](../Page/OEM.md "wikilink")で互換性があった。容量と最大充電回数に違いがあったが、併用が可能である。
 
@@ -393,7 +393,7 @@
 
   - [EVOLTA](https://ja.wikipedia.org/wiki/EVOLTA "wikilink") - 親会社の[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が発売する電池のブランド。充電池の「充電式EVOLTA」・「充電式EVOLTA e」と競合になるが、eneloopの2013年4月26日以降のPanasonicブランド移行・販売元のパナソニック本体への移行後もデュアルブランドの形で併売が継続される。なお、「充電式EVOLTA ハイエンドタイプ」とアルカリ乾電池の「EVOLTA」はeneloopと同じ日本製（「EVOLTA」9Ⅴ角形を除く）だが、「充電式EVOLTA スタンダードタイプ」と「充電式EVOLTA e」は中国で製造されている。
   - [パナソニック充電式ニッケル水素電池](../Page/パナソニック充電式ニッケル水素電池.md "wikilink")
-  - 富士通充電池 - eneloopを製造している[FDK](https://ja.wikipedia.org/wiki/FDK "wikilink")が[富士通](../Page/富士通.md "wikilink")ブランドとして発売している。性能などeneloopとほぼ共通している。ただし、ラインナップは異なりeneloop liteに相当するエントリーモデルは用意されていない。
+  - 富士通充電池 - eneloopを製造している[FDK](../Page/FDK.md "wikilink")が[富士通](../Page/富士通.md "wikilink")ブランドとして発売している。性能などeneloopとほぼ共通している。ただし、ラインナップは異なりeneloop liteに相当するエントリーモデルは用意されていない。
 
 ## 外部リンク
 

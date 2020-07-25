@@ -91,7 +91,7 @@
   - [2003年](../Page/2003年.md "wikilink") [デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") 『WHEN THE FUTURE LOVES THE PAST 〜未来が過去を愛するとき〜』（歌詞提供）
   - [2004年](../Page/2004年.md "wikilink") [TOKIO](../Page/TOKIO.md "wikilink") 『[TOK10](../Page/TOK10.md "wikilink")』（ギター参加）
   - [2006年](../Page/2006年.md "wikilink") [桜塚やっくん](../Page/桜塚やっくん.md "wikilink") 『ゲキマジムカツク』（プロデュース他）
-  - [2007年](../Page/2007年.md "wikilink") [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") アルバム『Cartoon KAT-TUN II You』収録　[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")ソロ曲　『サムライ☆ラブ☆アタック』
+  - [2007年](../Page/2007年.md "wikilink") [KAT-TUN](../Page/KAT-TUN.md "wikilink") アルバム『Cartoon KAT-TUN II You』収録　[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")ソロ曲　『サムライ☆ラブ☆アタック』
   - [2007年](../Page/2007年.md "wikilink") [CANTA](../Page/CANTA.md "wikilink") 『流星と春の嵐』（ギター参加）
   - [2007年](../Page/2007年.md "wikilink") [高見沢俊彦](../Page/高見沢俊彦.md "wikilink") 『[Kaleidoscope](../Page/Kaleidoscope_\(高見沢俊彦のアルバム\).md "wikilink")』（ギター参加）
   - [2007年](../Page/2007年.md "wikilink") [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink") アルバム『GOOD FELLAS』収録 「クモの糸」（歌詞曲提供・ギター・コーラス参加）

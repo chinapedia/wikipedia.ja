@@ -89,7 +89,7 @@
 | [1965年](../Page/1965年.md "wikilink")                    | ロベルト・クレメンテ                                                               | PIT                                                             |
 | [1966年](../Page/1966年.md "wikilink")                    | [マティ・アルー](../Page/マティ・アルー.md "wikilink")                                 | PIT                                                             |
 | [1967年](../Page/1967年.md "wikilink")                    | ロベルト・クレメンテ                                                               | PIT                                                             |
-| [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | [ピート・ローズ](https://ja.wikipedia.org/wiki/ピート・ローズ "wikilink")              | CIN                                                             |
+| [1968年](../Page/1968年.md "wikilink")                    | [ピート・ローズ](https://ja.wikipedia.org/wiki/ピート・ローズ "wikilink")              | CIN                                                             |
 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | ピート・ローズ                                                                  | CIN                                                             |
 | [1970年](../Page/1970年.md "wikilink")                    | [リコ・カーティー](https://ja.wikipedia.org/wiki/リコ・カーティー "wikilink")            | ATL                                                             |
 | [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | [ジョー・トーリ](../Page/ジョー・トーリ.md "wikilink")                                 | STL                                                             |
@@ -107,7 +107,7 @@
 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | ビル・マドロック                                                                 | PIT                                                             |
 | [1984年](../Page/1984年.md "wikilink")                    | [トニー・グウィン](../Page/トニー・グウィン.md "wikilink")                               | SD                                                              |
 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | [ウィリー・マギー](../Page/ウィリー・マギー.md "wikilink")                               | STL                                                             |
-| [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [ティム・レインズ](../Page/ティム・レインズ.md "wikilink")                               | MON                                                             |
+| [1986年](../Page/1986年.md "wikilink")                    | [ティム・レインズ](../Page/ティム・レインズ.md "wikilink")                               | MON                                                             |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | トニー・グウィン                                                                 | SD                                                              |
 | [1988年](../Page/1988年.md "wikilink")                    | トニー・グウィン                                                                 | SD                                                              |
 | [1989年](../Page/1989年.md "wikilink")                    | トニー・グウィン                                                                 | SD                                                              |

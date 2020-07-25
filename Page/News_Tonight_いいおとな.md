@@ -112,7 +112,7 @@
 いずれも、当番組と同じ時間帯に[毎日放送がラジオで放送していた報道番組](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")。
 
   - [RadioNews たねまきジャーナル](https://ja.wikipedia.org/wiki/RadioNews_たねまきジャーナル "wikilink")
-  - [MBSニュースレーダー](https://ja.wikipedia.org/wiki/MBSニュースレーダー "wikilink")
+  - [MBSニュースレーダー](../Page/MBSニュースレーダー.md "wikilink")
   - [報道するラジオ](https://ja.wikipedia.org/wiki/報道するラジオ "wikilink")（金曜日のみ放送） - 2016年4月改編で放送枠を毎週月曜日の20:00 - 21:00に移動した後に、2018年3月で終了。
 
 ## 外部リンク

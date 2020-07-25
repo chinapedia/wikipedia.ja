@@ -70,7 +70,7 @@
 
 ## DOLL MASTER ぱられる
 
-『**DOLL MASTER ぱられる**』（ドールマスター ぱられる）は、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")刊行『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』（2009年夏まで）、『[フィギュアマニアックス乙女組](https://ja.wikipedia.org/wiki/フィギュアマニアックス乙女組 "wikilink")』（2010年4月から）にて、[ワンダーフェスティバル](../Page/ワンダーフェスティバル.md "wikilink")開催後に不定期掲載される、[井原裕士](../Page/井原裕士.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。基本的に[フィクション](../Page/フィクション.md "wikilink")だが、イベントレポート要素については[ノンフィクション](../Page/ノンフィクション.md "wikilink")要素も含む。
+『**DOLL MASTER ぱられる**』（ドールマスター ぱられる）は、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")刊行『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』（2009年夏まで）、『[フィギュアマニアックス乙女組](https://ja.wikipedia.org/wiki/フィギュアマニアックス乙女組 "wikilink")』（2010年4月から）にて、[ワンダーフェスティバル](../Page/ワンダーフェスティバル.md "wikilink")開催後に不定期掲載される、[井原裕士](../Page/井原裕士.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。基本的に[フィクション](../Page/フィクション.md "wikilink")だが、イベントレポート要素については[ノンフィクション](../Page/ノンフィクション.md "wikilink")要素も含む。
 
 『DOLL MASTER』後継連載作品『[超常機動サイレーン](../Page/超常機動サイレーン.md "wikilink")』連載中も、ワンダーフェスティバル後はこちらが優先され、『超常機動サイレーン』が休載となった。『超常機動サイレーン』の連載終了後も電撃大王での掲載は2009年夏まで続いていたが、井原の『[武装神姫ZERO](https://ja.wikipedia.org/wiki/武装神姫#漫画 "wikilink")』の連載誌でありフィギュア専門誌である『フィギュアマニアックス乙女組』に掲載誌移動となった。2012年9月27日に、同年夏のレポートの書き下ろしを加えて単行本化された。
 

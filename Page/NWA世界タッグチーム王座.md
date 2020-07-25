@@ -8,7 +8,7 @@
 王座の設立は[1975年](../Page/1975年.md "wikilink")である。シングルレスラーを対象とした[NWA世界ヘビー級王座](../Page/NWA世界ヘビー級王座.md "wikilink")と比較した場合、設立年代が遅い。しかしながら王座設立までNWAのタッグチームを対象とした王座が存在しなかったわけではなく、[1950年](../Page/1950年.md "wikilink")に設立されたNWAサンフランシスコ地区のタッグ王座などのように、NWAの各地区ごとにはタッグ王座は存在した。
 
   - [NWA世界タッグ王座（サンフランシスコ版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(サンフランシスコ版\) "wikilink")
-      - 全米でもっとも古いタッグ選手権でプロモーター[ジョー・マルセウィッツ](https://ja.wikipedia.org/wiki/ジョー・マルセウィッツ "wikilink")が[1950年](../Page/1950年.md "wikilink")4月から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")8月まで認定・管理、後に[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")7月からプロモーターが[ロイ・シャイアー](https://ja.wikipedia.org/wiki/ロイ・シャイアー "wikilink")に変わり[1979年](../Page/1979年.md "wikilink")4月まで存在。
+      - 全米でもっとも古いタッグ選手権でプロモーター[ジョー・マルセウィッツ](https://ja.wikipedia.org/wiki/ジョー・マルセウィッツ "wikilink")が[1950年](../Page/1950年.md "wikilink")4月から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")8月まで認定・管理、後に[1968年](../Page/1968年.md "wikilink")7月からプロモーターが[ロイ・シャイアー](https://ja.wikipedia.org/wiki/ロイ・シャイアー "wikilink")に変わり[1979年](../Page/1979年.md "wikilink")4月まで存在。
   - [NWA世界タッグ王座（シカゴ版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(シカゴ版\) "wikilink")
       - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")から[1960年](../Page/1960年.md "wikilink")8月まで後にAWA（アメリカン・レスリング・アソシエーションのAWAではなくアメリカン・レスリング・アライアンス、プロモーター[バルク・エスティス](https://ja.wikipedia.org/wiki/バルク・エスティス "wikilink")）と言う団体が[1964年](../Page/1964年.md "wikilink")4月まで認定・管理した。
   - [NWA世界タッグ王座（ジョージア版）](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座_\(ジョージア版\) "wikilink")
@@ -367,7 +367,7 @@
 <td><p>テネシー州ナッシュビル</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/3ライブ・クルー" title="wikilink">3LK</a>（<a href="../Page/ブライアン・ジェイムス.md" title="wikilink">BGジェイムス</a> &amp; <a href="https://ja.wikipedia.org/wiki/ロン・キリングス" title="wikilink">ロン・キリングス</a> &amp; <a href="https://ja.wikipedia.org/wiki/コナン_(プロレスラー)" title="wikilink">コナン</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/3ライブ・クルー" title="wikilink">3LK</a>（<a href="../Page/ブライアン・ジェイムス.md" title="wikilink">BGジェイムス</a> &amp; <a href="../Page/ロン・キリングス.md" title="wikilink">ロン・キリングス</a> &amp; <a href="https://ja.wikipedia.org/wiki/コナン_(プロレスラー)" title="wikilink">コナン</a>）</p></td>
 <td><p>1</p></td>
 <td><p>2003年11月26日</p></td>
 <td><p>テネシー州ナッシュビル</p></td>

@@ -1,7 +1,7 @@
 > この記事は[LD\&K Records](https://ja.wikipedia.org/wiki/LD\&K_Records)から翻訳されています。
 
 
-**LD\&K Records**（エル・ディー・アンド・ケイ・レコード）は、日本の[インディーズ](../Page/インディーズ.md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")。[代表取締役](../Page/代表取締役.md "wikilink")は、[大谷秀政](https://ja.wikipedia.org/wiki/大谷秀政 "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")生まれ）。
+**LD\&K Records**（エル・ディー・アンド・ケイ・レコード）は、日本の[インディーズ](../Page/インディーズ.md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")。[代表取締役](../Page/代表取締役.md "wikilink")は、[大谷秀政](https://ja.wikipedia.org/wiki/大谷秀政 "wikilink")（[1968年](../Page/1968年.md "wikilink")[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")生まれ）。
 
 [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")エル・ディー・アンド・ケイは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[有限会社](../Page/有限会社.md "wikilink")として設立、[2004年](../Page/2004年.md "wikilink")より[日本レコード協会](../Page/日本レコード協会.md "wikilink")準[会員](https://ja.wikipedia.org/wiki/会員 "wikilink")。
 
@@ -163,7 +163,7 @@
   - [山本のりこ](https://ja.wikipedia.org/wiki/山本のりこ "wikilink") (2006年)
   - [ユーカリ SOUNDTRACK](https://ja.wikipedia.org/wiki/ユーカリ_SOUNDTRACK "wikilink") (2001年〜2006年)
   - [行方知レズ](https://ja.wikipedia.org/wiki/行方知レズ "wikilink") (2005年)
-  - [羊毛とおはな](https://ja.wikipedia.org/wiki/羊毛とおはな "wikilink") (2007年〜2015年)
+  - [羊毛とおはな](../Page/羊毛とおはな.md "wikilink") (2007年〜2015年)
   - [ルースフォンチ](https://ja.wikipedia.org/wiki/ルースフォンチ "wikilink") (2007年)
   - [六畳人間](https://ja.wikipedia.org/wiki/六畳人間 "wikilink") (2009年)
   - [04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink") (2010年)2015年[日本コロムビア](../Page/日本コロムビア.md "wikilink")よりメジャーデビュー
@@ -2553,7 +2553,7 @@ living records tokyo\* (2003年 - 2014年)
 </tr>
 <tr class="even">
 <td><p>2007年11月06日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/羊毛とおはな" title="wikilink">羊毛とおはな</a>『LIVE IN LIVING '07』</p></td>
+<td><p><a href="../Page/羊毛とおはな.md" title="wikilink">羊毛とおはな</a>『LIVE IN LIVING '07』</p></td>
 <td><p>LRTCD-020</p></td>
 <td></td>
 </tr>

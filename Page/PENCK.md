@@ -5,7 +5,7 @@
 
 ## 特徴
 
-[au design projectの第](https://ja.wikipedia.org/wiki/au_design_project "wikilink")4弾の製品であり、角や突起がないオーバルフォルムが特徴である。端末のデザインや内蔵コンテンツは[サイトウマコト](https://ja.wikipedia.org/wiki/サイトウマコト "wikilink")が手がけている。基本的なスペックは[W22H](../Page/W22H.md "wikilink")と同等で[着うたフル](../Page/着うたフル.md "wikilink")などに対応する。
+[au design projectの第](https://ja.wikipedia.org/wiki/au_design_project "wikilink")4弾の製品であり、角や突起がないオーバルフォルムが特徴である。端末のデザインや内蔵コンテンツは[サイトウマコト](../Page/サイトウマコト.md "wikilink")が手がけている。基本的なスペックは[W22H](../Page/W22H.md "wikilink")と同等で[着うたフル](../Page/着うたフル.md "wikilink")などに対応する。
 
 ## 対応サービス
 

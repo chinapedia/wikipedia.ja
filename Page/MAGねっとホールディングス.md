@@ -13,7 +13,7 @@
 
 出自は、株式会社**亜土電子工業**（あどでんしこうぎょう）という国外資本の[電子部品](../Page/電子部品.md "wikilink")商社で、主に米韓台相手の交易を行う傍ら、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")に店舗を構えて小売も手掛け、マニアが集う[マイコン](../Page/マイコン.md "wikilink")ブームの中心地の一つでもあった。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）、本店ビル「T-zone」（"T"はトヨムラの頭文字。現在の[ツクモeX店](../Page/九十九電機.md "wikilink")）を新築中に資金難に陥っていた、電子部品小売・[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")機器老舗大手の株式会社トヨムラと業務提携し、テナントとして入居すると同時に、「T-ZONE」の[商号](../Page/商号.md "wikilink")を用い始めた。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）、本店ビル「T-zone」（"T"はトヨムラの頭文字。現在の[ツクモeX店](../Page/九十九電機.md "wikilink")）を新築中に資金難に陥っていた、電子部品小売・[アマチュア無線](../Page/アマチュア無線.md "wikilink")機器老舗大手の株式会社トヨムラと業務提携し、テナントとして入居すると同時に、「T-ZONE」の[商号](../Page/商号.md "wikilink")を用い始めた。
 
 亜土電子の店「T-ZONE ADO」では、早くからApple社の[Macintosh](../Page/Macintosh.md "wikilink")、[IBM PS/2シリーズ等の海外製](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の[並行輸入品や](https://ja.wikipedia.org/wiki/輸入#並行輸入 "wikilink")[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")も扱っていたが、[1980年代](../Page/1980年代.md "wikilink")後半のパソコンの本格的普及期が[バブル景気](../Page/バブル景気.md "wikilink")と重なった追い風を受けて、隣接する[家電量販店](../Page/家電量販店.md "wikilink")の[ミナミ電気館](https://ja.wikipedia.org/wiki/ミナミ無線電機 "wikilink")（現在の[ドン・キホーテ秋葉原店](../Page/ドン・キホーテ_\(企業\).md "wikilink")）を旗艦店に、パソコンショップ「T・ZONE」各店を海外展開するまでに成長した。
 
@@ -27,7 +27,7 @@
 
 2003年（平成15年）[8月](../Page/8月.md "wikilink")には[会社分割](../Page/会社分割.md "wikilink")を実施し、パソコンパーツ関連部門は新設子会社の株式会社**T・ZONE DIY**に移管。株式会社ティー・ゾーンは社名変更して、株式会社**T・ZONEホールディングス**になり（同じ頃亜土電子工業が登記上消滅した模様）、更に[2004年](../Page/2004年.md "wikilink")（平成16年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、株式会社T・ZONE DIYは同じT・ZONEホールディングス傘下の[ソフトウェア](../Page/ソフトウェア.md "wikilink")会社である株式会社**ストラテジィ**と合併して、株式会社**T・ZONEストラテジィ**に改編されている。
 
-[2007年](../Page/2007年.md "wikilink")（平成19年）[5月24日](../Page/5月24日.md "wikilink")、T・ZONEホールディングスが、[大島健伸](https://ja.wikipedia.org/wiki/大島健伸 "wikilink")会長の[資産管理会社](https://ja.wikipedia.org/wiki/資産管理会社 "wikilink")（T・ZONEホールディングスから見た場合に、親会社SFCGのさらに親会社となる）「KEホールディングス」を同年[10月1日](../Page/10月1日.md "wikilink")に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")することを発表。合併すれば、T・ZONEホールディングスがSFCGを傘下に収める形となり、表面上親子関係が逆転する。これについては、T・ZONEホールディングス上場先の[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")が「T・ZONEホールディングスが実質的な存続会社でないと認められる」（要は「KEホールディングス」の[裏口上場](https://ja.wikipedia.org/wiki/裏口上場 "wikilink")に当たる）と発表していた\[1\]。この合併は、最終的に[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に中止が発表された。
+[2007年](../Page/2007年.md "wikilink")（平成19年）[5月24日](../Page/5月24日.md "wikilink")、T・ZONEホールディングスが、[大島健伸](https://ja.wikipedia.org/wiki/大島健伸 "wikilink")会長の[資産管理会社](https://ja.wikipedia.org/wiki/資産管理会社 "wikilink")（T・ZONEホールディングスから見た場合に、親会社SFCGのさらに親会社となる）「KEホールディングス」を同年[10月1日](../Page/10月1日.md "wikilink")に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")することを発表。合併すれば、T・ZONEホールディングスがSFCGを傘下に収める形となり、表面上親子関係が逆転する。これについては、T・ZONEホールディングス上場先の[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")が「T・ZONEホールディングスが実質的な存続会社でないと認められる」（要は「KEホールディングス」の[裏口上場](../Page/裏口上場.md "wikilink")に当たる）と発表していた\[1\]。この合併は、最終的に[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に中止が発表された。
 
 [2005年](../Page/2005年.md "wikilink")（平成17年）から2007年（平成19年）にかけて、投資子会社のT・ZONEキャピタルがグループ外の会社に盛んに投資を行ってきたが、2007年（平成19年）12月に、株式会社TZCS（T・ZONEキャピタルから商号変更）の保有全株式をSFCGに譲渡した。
 

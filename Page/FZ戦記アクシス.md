@@ -3,7 +3,7 @@
 
 『'''FZ戦記アクシス (AXIS) *'』は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")に日本の[ウルフチーム](../Page/ウルフチーム.md "wikilink")から発売されたクォータービューの[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")用[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版のタイトルは『*Final Zone''』。
 
-主人公のハワード・ボゥイを操作し、ボアテスム連邦最大の防御ラインである「ブラッディ・アクシス」の要となるザラマ半島軍事基地へ奇襲攻撃する事を目的としている。[日本テレネット時代のウルフチームの代表作でもある](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")『[ファイナルゾーン](https://ja.wikipedia.org/wiki/ファイナルゾーン "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）のシリーズ作品。斜めからの立体的な視点（クォータービュー）を採用したロボットアクションゲーム。
+主人公のハワード・ボゥイを操作し、ボアテスム連邦最大の防御ラインである「ブラッディ・アクシス」の要となるザラマ半島軍事基地へ奇襲攻撃する事を目的としている。[日本テレネット時代のウルフチームの代表作でもある](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")『[ファイナルゾーン](https://ja.wikipedia.org/wiki/ファイナルゾーン "wikilink")』（[1986年](../Page/1986年.md "wikilink")）のシリーズ作品。斜めからの立体的な視点（クォータービュー）を採用したロボットアクションゲーム。
 
 開発はウルフチームが行い、プロデューサーはパソコン用ソフト『[アークス](https://ja.wikipedia.org/wiki/アークス_\(ゲーム\) "wikilink")』（[1988年](../Page/1988年.md "wikilink")）を手掛けた[秋篠雅弘](../Page/秋篠雅弘.md "wikilink")、企画はX68000用ソフト『[グラナダ](../Page/グラナダ_\(ゲーム\).md "wikilink")』（1990年）にてシナリオを手掛けた井上一義、音楽はX68000用ソフト『[ソル・フィース](../Page/ソル・フィース.md "wikilink")』（1990年）を手掛けた[桜庭統](../Page/桜庭統.md "wikilink")、パッケージイラストは[TBS系テレビアニメ](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")『[超時空要塞マクロス](../Page/超時空要塞マクロス.md "wikilink")』（[1982年](../Page/1982年.md "wikilink") - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）を手掛けたイラストレーターの[美樹本晴彦](../Page/美樹本晴彦.md "wikilink")が担当した。
 
@@ -135,7 +135,7 @@ FZ戦記アクシス（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージ
 
 ## 関連項目
 
-  - [ファイナルゾーン](https://ja.wikipedia.org/wiki/ファイナルゾーン "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")） - [日本テレネット時代のウルフチームの代表作](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")。
+  - [ファイナルゾーン](https://ja.wikipedia.org/wiki/ファイナルゾーン "wikilink")（[1986年](../Page/1986年.md "wikilink")） - [日本テレネット時代のウルフチームの代表作](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")。
   - [グラナダ](../Page/グラナダ_\(ゲーム\).md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")） - AXISの前に発売された、トップビュー[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
   - [ソル・フィース](../Page/ソル・フィース.md "wikilink")（1990年） - AXISの後に発売された、横スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 

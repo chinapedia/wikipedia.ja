@@ -7,7 +7,7 @@
 
 さだのアルバムとしては初めて[デジタル録音](https://ja.wikipedia.org/wiki/デジタル録音 "wikilink")によって制作された。さだの作品のレコーディングエンジニアを務めてきた[山下有次](https://ja.wikipedia.org/wiki/山下有次 "wikilink")はデジタル録音技術の完成度に懐疑的であったが、前作『[風のおもかげ](../Page/風のおもかげ.md "wikilink")』の制作で使用した、アナログテープとしては最高レベルの機材（1/2インチ、76cm/s）が使用できない状況であったため、より高いクオリティを求めてデジタル機器の使用に踏み切った。
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の『[私花集](https://ja.wikipedia.org/wiki/私花集_\(さだまさしのアルバム\) "wikilink")』に収録された「[案山子](https://ja.wikipedia.org/wiki/案山子_\(さだまさしの曲\) "wikilink")」/「Sunday Park」以来、7年ぶりに既出のシングル曲「寒北斗」（[1984年](../Page/1984年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")リリース。ただしB面は本作には収録されていない楽曲「オレゴンから愛」）が収録された。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の『[私花集](https://ja.wikipedia.org/wiki/私花集_\(さだまさしのアルバム\) "wikilink")』に収録された「[案山子](../Page/案山子_\(さだまさしの曲\).md "wikilink")」/「Sunday Park」以来、7年ぶりに既出のシングル曲「寒北斗」（[1984年](../Page/1984年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")リリース。ただしB面は本作には収録されていない楽曲「オレゴンから愛」）が収録された。
 
 本格的なCD時代の到来により、次作の『[ADVANTAGE](../Page/ADVANTAGE_\(アルバム\).md "wikilink")』からは[CD](../Page/コンパクトディスク.md "wikilink")、[LPの併売が始まる](../Page/レコード.md "wikilink")。最後のアナログ単独リリースのアルバムとなった。
 

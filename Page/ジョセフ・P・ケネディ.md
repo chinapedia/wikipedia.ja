@@ -117,7 +117,7 @@
 
 [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")、ジョーは自宅で[脳梗塞](../Page/脳梗塞.md "wikilink")の発作を起こした。一命は取り留めたものの、[失語症](../Page/失語症.md "wikilink")および右半身不随となった。以降はジョーにとって悲痛な晩年となった。
 
-大統領の座に押し上げた息子のジャックは[1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に遊説中に暗殺され、兄の後を次いで大統領を目指したボビーまで[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")に暗殺された。末っ子のテッドも上院議員となり、兄たちの果たせなかった夢を果たそうとしたが、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")に起こした「[チャパキディック事件](https://ja.wikipedia.org/wiki/チャパキディック事件 "wikilink")」における自らの過ちで大統領への道を絶たれた。
+大統領の座に押し上げた息子のジャックは[1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に遊説中に暗殺され、兄の後を次いで大統領を目指したボビーまで[1968年](../Page/1968年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に暗殺された。末っ子のテッドも上院議員となり、兄たちの果たせなかった夢を果たそうとしたが、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")に起こした「[チャパキディック事件](https://ja.wikipedia.org/wiki/チャパキディック事件 "wikilink")」における自らの過ちで大統領への道を絶たれた。
 
 1969年11月18日、波乱の生涯と悲痛な晩年を送ったジョーは、家族に見守られながら静かに息を引き取った。81歳であった。妻ローズは長命で、1995年に104歳でこの世を去った。
 

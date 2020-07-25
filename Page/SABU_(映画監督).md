@@ -3,7 +3,7 @@
 
 **SABU**（さぶ、[1964年](../Page/1964年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")、[映画監督](../Page/映画監督.md "wikilink")。本名は**田中博行**\[1\]、旧芸名は**田中博樹**、**サブ**（[片仮名](../Page/片仮名.md "wikilink")表記）。[クリームインターナショナル](../Page/クリームインターナショナル.md "wikilink")所属。
 
-[和歌山県](../Page/和歌山県.md "wikilink")[和歌山市](../Page/和歌山市.md "wikilink")出身\[2\]。[和歌山県立和歌山東高等学校](../Page/和歌山県立和歌山東高等学校.md "wikilink")卒業。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[森田芳光](../Page/森田芳光.md "wikilink")監督『[そろばんずく](https://ja.wikipedia.org/wiki/そろばんずく "wikilink")』で俳優デビュー。[1996年](../Page/1996年.md "wikilink")に映画監督デビューし、多数の映画を監督。海外[映画祭](../Page/映画祭.md "wikilink")への出品も多い。俳優としての出演作品も多いが、現在は映画監督業が主な活動となっている。
+[和歌山県](../Page/和歌山県.md "wikilink")[和歌山市](../Page/和歌山市.md "wikilink")出身\[2\]。[和歌山県立和歌山東高等学校](../Page/和歌山県立和歌山東高等学校.md "wikilink")卒業。[1986年](../Page/1986年.md "wikilink")に[森田芳光](../Page/森田芳光.md "wikilink")監督『[そろばんずく](https://ja.wikipedia.org/wiki/そろばんずく "wikilink")』で俳優デビュー。[1996年](../Page/1996年.md "wikilink")に映画監督デビューし、多数の映画を監督。海外[映画祭](../Page/映画祭.md "wikilink")への出品も多い。俳優としての出演作品も多いが、現在は映画監督業が主な活動となっている。
 
 ## 出演作品
 

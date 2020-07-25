@@ -604,7 +604,7 @@
 </tr>
 <tr class="odd">
 <td><p>第67代</p></td>
-<td><p>ジャッキー佐藤 &amp; <a href="https://ja.wikipedia.org/wiki/ナンシー久美" title="wikilink">ナンシー久美</a></p></td>
+<td><p>ジャッキー佐藤 &amp; <a href="../Page/ナンシー久美.md" title="wikilink">ナンシー久美</a></p></td>
 <td><p>1977年7月29日</p></td>
 <td><p>田園コロシアム<br />
 返上</p></td>

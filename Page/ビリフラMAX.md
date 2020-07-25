@@ -40,7 +40,7 @@
 
 前身である“MEN'S FOUR ビリビリFriday”と同じく、リスナーからのリクエスト・メッセージを中心に進行される。金光によるメッセージ紹介に鈴木が突っ込むのが基本スタイルだが時折アシスタントに話をふることもある。
 
-ニュース・道路交通情報・ネット受けパートと直後のコーナーは時間固定で放送される。一方で、15時台と16時台ではコーナーが前後することがある。17時以降は前身の“COUNT DOWN ATTACK\!\!”の流れをくみ、番組オリジナルチャート“ビリフラMAX TOP10”を紹介する。なお、リクエスト曲とチャートの上位3曲は基本的に全曲オンエアされる。また、この時間帯は[paradise radio](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")→[Evening Streetの金曜版という位置づけもあるため](https://ja.wikipedia.org/wiki/Evening_Street "wikilink")、一部共通のコーナーが設けられている。
+ニュース・道路交通情報・ネット受けパートと直後のコーナーは時間固定で放送される。一方で、15時台と16時台ではコーナーが前後することがある。17時以降は前身の“COUNT DOWN ATTACK\!\!”の流れをくみ、番組オリジナルチャート“ビリフラMAX TOP10”を紹介する。なお、リクエスト曲とチャートの上位3曲は基本的に全曲オンエアされる。また、この時間帯は[paradise radio](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")→[Evening Streetの金曜版という位置づけもあるため](../Page/Evening_Street.md "wikilink")、一部共通のコーナーが設けられている。
 
 ## 期間限定コーナー
 

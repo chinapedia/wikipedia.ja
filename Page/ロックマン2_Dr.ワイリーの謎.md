@@ -112,7 +112,7 @@
   - DWN.012 クイックマン（Quickman）
     前作のエレキマンの特徴を受け継ぎ、高速移動に性能を特化させたロボット。
     特殊武器である小型ブーメラン「クイックブーメラン」を使い、正々堂々とした戦いを好む。しかしある装置に欠陥があり、また、効かない特殊武器で攻撃すると防御のポーズをとる。
-    動きの素早さと高いジャンプ力を自慢にしているスピード狂で、カーレースなどスピード競技が好き。『[ロックマン バトル&チェイス](https://ja.wikipedia.org/wiki/ロックマン_バトル&チェイス "wikilink")』や[アーケード版といった他のジャンルの作品にも登場しており](https://ja.wikipedia.org/wiki/ロックマン2・ザ・パワーファイターズ "wikilink")、総じてスピードを重視した強敵である。
+    動きの素早さと高いジャンプ力を自慢にしているスピード狂で、カーレースなどスピード競技が好き。『[ロックマン バトル&チェイス](https://ja.wikipedia.org/wiki/ロックマン_バトル&チェイス "wikilink")』や[アーケード版といった他のジャンルの作品にも登場しており](../Page/ロックマン2・ザ・パワーファイターズ.md "wikilink")、総じてスピードを重視した強敵である。
     『ロックマン10』までの初代シリーズのボスの中で、ステージ選択画面のマスからはみ出して表示される唯一のボスだった（ブーメランの先がマスからはみ出している）。
   - DWN.013 クラッシュマン（Clashman）\[18\]
     前作のガッツマンとボンバーマンの特徴を受け継いだロボットで、「歩く弾薬庫」と呼ばれる。両腕に強力な破壊力を持つ特殊武器「クラッシュボム」を仕込み、ジャンプからボムを発射、爆発させて攻撃する。
@@ -354,7 +354,7 @@
 <td><p>16</p></td>
 <td><p>ロックマン2 Dr.ワイリーの謎</p></td>
 <td><p>{{vgrelease new|JP|2013年6月12日[25][26]<ref>{{Cite web |author= |date=2013-06-12 |url=<a href="https://dengekionline.com/elem/000/000/654/654859/">https://dengekionline.com/elem/000/000/654/654859/</a> |title=『ロックマン』『ロックマン2 Dr.ワイリーの謎』『ロックマン4 新たなる野望</p></td>
-<td><p>』がWii Uバーチャルコンソールで配信開始 |website=<a href="https://ja.wikipedia.org/wiki/アスキー・メディアワークス" title="wikilink">電撃オンライン</a> |publisher=<a href="https://ja.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a> |language= <a href="../Page/日本語.md" title="wikilink">日本語</a> |accessdate=2019-12-07}}</ref>}}</p></td>
+<td><p>』がWii Uバーチャルコンソールで配信開始 |website=<a href="../Page/アスキー・メディアワークス.md" title="wikilink">電撃オンライン</a> |publisher=<a href="https://ja.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a> |language= <a href="../Page/日本語.md" title="wikilink">日本語</a> |accessdate=2019-12-07}}</ref>}}</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Wii_U" title="wikilink">Wii U</a></p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
@@ -461,7 +461,7 @@
   - 本作に登場するワイリー基地が、『[大乱闘スマッシュブラザーズ for Nintendo 3DS/Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS/Wii_U "wikilink")』（[2014年](../Page/2014年.md "wikilink")）のステージとして登場する。ステージ特有のキャラクターとして、『[ロックマン](../Page/ロックマン_\(ゲーム\).md "wikilink")』（初代）のイエローデビルが登場する。この作品のイエローデビルについては、初代のページを参照。
   - 本作のBGMが一部、『大乱闘スマッシュブラザーズ for Nintendo 3DS/Wii U』にてアレンジを加えて使用されている。また、オリジナルBGMも使用されている。
   - 作中BGMに歌詞をつけた二次創作に『[思い出はおっくせんまん\!](https://ja.wikipedia.org/wiki/思い出はおっくせんまん! "wikilink")』がある。
-  - 本作をテーマにした楽曲に『[エアーマンが倒せない](https://ja.wikipedia.org/wiki/エアーマンが倒せない "wikilink")』がある。
+  - 本作をテーマにした楽曲に『[エアーマンが倒せない](../Page/エアーマンが倒せない.md "wikilink")』がある。
   - 2019年9月にはアイドルグループ[TEAM SHACHIの楽曲](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")「[Rocket Queen feat. MCU](https://ja.wikipedia.org/wiki/Rocket_Queen_feat._MCU/Rock_Away "wikilink")」のプロモーションとして、コラボゲーム『**ROCKMAN 20XX ～戦え！TEAM SHACHI～**』（[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")用の[ブラウザゲーム](../Page/ブラウザゲーム.md "wikilink")）が配信された。『ロックマン2』のキャラクターをベースに、スーパーロボットと化したTEAM SHACHIの4人がDr.ワイリー AIの野望に立ち向かうという内容\[32\]。
 
 ## 脚注
@@ -500,7 +500,7 @@
 15.
 16.
 17. 『ニンテンドークラシックミニ ファミリーコンピューターmagazine』（[アンビット](https://ja.wikipedia.org/wiki/アンビット "wikilink")、2016年）p40 - p41
-18. 『MEGA MAN 2』、『[ロックマン・ザ・パワーバトル](https://ja.wikipedia.org/wiki/ロックマン・ザ・パワーバトル "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）ではCrashman
+18. 『MEGA MAN 2』、『[ロックマン・ザ・パワーバトル](../Page/ロックマン・ザ・パワーバトル.md "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）ではCrashman
 19. 実際には炎が12000℃に達することはなく、[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")化する。
 20. 前作で移動する最大のキャラクターは「ワイリーマシーン」だが、それよりも巨大な外見。
 21. 『ロックマンを作った男たち ロックマン誕生伝説』 - 『[ロックマンメガミックス](../Page/ロックマンメガミックス.md "wikilink")』（[有賀ヒトシ](../Page/有賀ヒトシ.md "wikilink") 著）復刻版単行本2巻

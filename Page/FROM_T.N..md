@@ -27,7 +27,7 @@
 
 ## プロモーション
 
-本作に関連するテレビ出演としては、[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）にて、9月23日に出演しドラマで共演した[白川由美](../Page/白川由美.md "wikilink")と電話で会話した後に「GOOD-BYE青春」を演奏、その他ではTBS系音楽番組『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）にて、10月3日は第18位でスポットライトでの出演、また11月4日には第4位での出演となり、いずれも「GOOD-BYE青春」を演奏した。
+本作に関連するテレビ出演としては、[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（[1968年](../Page/1968年.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）にて、9月23日に出演しドラマで共演した[白川由美](../Page/白川由美.md "wikilink")と電話で会話した後に「GOOD-BYE青春」を演奏、その他ではTBS系音楽番組『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）にて、10月3日は第18位でスポットライトでの出演、また11月4日には第4位での出演となり、いずれも「GOOD-BYE青春」を演奏した。
 
 ## 批評
 

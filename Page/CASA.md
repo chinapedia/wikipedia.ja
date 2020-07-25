@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - お茶の水店（新御茶の水サンクレール）
-  - [大崎ニューシティ](https://ja.wikipedia.org/wiki/大崎ニューシティ "wikilink")店
+  - [大崎ニューシティ](../Page/大崎ニューシティ.md "wikilink")店
   - [八王子ターミナルビル店](https://ja.wikipedia.org/wiki/セレオ八王子 "wikilink")
   - 川崎アゼリア店
   - [浦和コルソ](https://ja.wikipedia.org/wiki/浦和コルソ "wikilink")店

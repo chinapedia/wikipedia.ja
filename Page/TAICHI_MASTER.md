@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - [RYTHEM](../Page/RYTHEM.md "wikilink") with [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")「[Love Call/あかりのありか](https://ja.wikipedia.org/wiki/Love_Call/あかりのありか "wikilink")」(2008年7月23日)
+  - [RYTHEM](../Page/RYTHEM.md "wikilink") with [キマグレン](../Page/キマグレン.md "wikilink")「[Love Call/あかりのありか](https://ja.wikipedia.org/wiki/Love_Call/あかりのありか "wikilink")」(2008年7月23日)
 
 <!-- end list -->
 

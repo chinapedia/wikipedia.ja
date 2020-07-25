@@ -1,7 +1,7 @@
 > この記事は[EDINET](https://ja.wikipedia.org/wiki/EDINET)から翻訳されています。
 
 
-**EDINET**（**Electronic Disclosure for Investors' NETwork**・エディネット）は、[金融商品取引法](../Page/金融商品取引法.md "wikilink")上で**開示用電子情報処理組織**と呼ばれ\[1\]る、[内閣府](../Page/内閣府.md "wikilink")の使用する[ホストコンピューター](../Page/メインフレーム.md "wikilink")・提出[会社](../Page/会社.md "wikilink")の使用する[コンピュータ](../Page/コンピュータ.md "wikilink")ー・[金融商品取引所](https://ja.wikipedia.org/wiki/金融商品取引所 "wikilink")（及び[金融商品取引業協会](https://ja.wikipedia.org/wiki/金融商品取引業協会 "wikilink")）のコンピューターを結んだ、同法に基づく[開示](../Page/情報公開.md "wikilink")[文書](../Page/文書.md "wikilink")に関する[電子情報開示](../Page/電子情報開示.md "wikilink")[システム](../Page/システム.md "wikilink")である。
+**EDINET**（**Electronic Disclosure for Investors' NETwork**・エディネット）は、[金融商品取引法](../Page/金融商品取引法.md "wikilink")上で**開示用電子情報処理組織**と呼ばれ\[1\]る、[内閣府](../Page/内閣府.md "wikilink")の使用する[ホストコンピューター](../Page/メインフレーム.md "wikilink")・提出[会社](../Page/会社.md "wikilink")の使用する[コンピュータ](../Page/コンピュータ.md "wikilink")ー・[金融商品取引所](../Page/金融商品取引所.md "wikilink")（及び[金融商品取引業協会](https://ja.wikipedia.org/wiki/金融商品取引業協会 "wikilink")）のコンピューターを結んだ、同法に基づく[開示](../Page/情報公開.md "wikilink")[文書](../Page/文書.md "wikilink")に関する[電子情報開示](../Page/電子情報開示.md "wikilink")[システム](../Page/システム.md "wikilink")である。
 
 本システムは[金融庁](../Page/金融庁.md "wikilink")の所管であり、[EDGAR](https://ja.wikipedia.org/wiki/EDGAR "wikilink")を[モデルとして構築され](https://ja.wikipedia.org/wiki/模範 "wikilink")、開示文書を[ウェブサイト](../Page/ウェブサイト.md "wikilink")上で閲覧できる。
 

@@ -17,7 +17,7 @@
 
   - 宮下昌也（みやした まさや）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。
-  - [永田雅規](https://ja.wikipedia.org/wiki/永田雅規 "wikilink")（ながた まさき）
+  - [永田雅規](../Page/永田雅規.md "wikilink")（ながた まさき）
     [ダンス](../Page/ダンス.md "wikilink")、[ラップ](../Page/ラップ.md "wikilink")、コーラス、[MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
   - [宮下浩司](https://ja.wikipedia.org/wiki/宮下浩司 "wikilink")（みやした こうじ）
     ギター、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。

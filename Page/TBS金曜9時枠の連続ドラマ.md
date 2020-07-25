@@ -3,7 +3,7 @@
 
 **TBS金曜9時枠の連続ドラマ**は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月から[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")にかけて、[TBS](../Page/TBSテレビ.md "wikilink")[系列にて](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎週[金曜日](../Page/金曜日.md "wikilink")の21時30分～22時26分（1972年3月まで）、のちに21時～21時56分（1972年4月から。後に21時55分→21時54分に変更）([JST](../Page/日本標準時.md "wikilink")) に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。通称**「金9」**。
 
-また、スタート当初は、この放送枠の前後の枠もテレビドラマの枠（前の枠が[近鉄金曜劇場](../Page/近鉄金曜劇場.md "wikilink")、のちに[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")をはじめとする[桜中学シリーズ](../Page/桜中学シリーズ.md "wikilink")などがあった[金曜8時枠](../Page/TBS金曜8時枠の連続ドラマ.md "wikilink")、後の枠が[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")）があったため、金曜日は3時間テレビドラマ（1時間枠×3本）を放映していた（なお、最盛期には火曜日から金曜日まで3時間テレビドラマ（1時間枠×3本）を放映していた）。 その後8時枠はバラエティー枠、10時枠も[報道枠に割り当てられたため](https://ja.wikipedia.org/wiki/TBSテレビ系列深夜ニュース枠 "wikilink")、金ドラがこの9時枠のみだった時代もある。
+また、スタート当初は、この放送枠の前後の枠もテレビドラマの枠（前の枠が[近鉄金曜劇場](../Page/近鉄金曜劇場.md "wikilink")、のちに[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")をはじめとする[桜中学シリーズ](../Page/桜中学シリーズ.md "wikilink")などがあった[金曜8時枠](../Page/TBS金曜8時枠の連続ドラマ.md "wikilink")、後の枠が[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")）があったため、金曜日は3時間テレビドラマ（1時間枠×3本）を放映していた（なお、最盛期には火曜日から金曜日まで3時間テレビドラマ（1時間枠×3本）を放映していた）。 その後8時枠はバラエティー枠、10時枠も[報道枠に割り当てられたため](../Page/TBSテレビ系列深夜ニュース枠.md "wikilink")、金ドラがこの9時枠のみだった時代もある。
 
 ## 概要
 

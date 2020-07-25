@@ -48,7 +48,7 @@
 
   - 2008年[9月28日](../Page/9月28日.md "wikilink")に放送された『[タモリのボキャブラ天国 大復活祭スペシャル](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")』の番組内で、「（改名した事を）誰も知らなかったのに、今日を境に（コンビ名を）「X-GUN」に戻そうと」と発言し、同番組では最後までX-GUN名義で参加。その後、西尾が[自身のブログ](https://blog.goo.ne.jp/niccyamenxgn/e/cb606a662dcdb87d19ad60c755143e99)で正式に「**X-GUN**」への再改名を発表した。
   - 2009年[7月19日](../Page/7月19日.md "wikilink")に原宿で行われた『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")』の連載開始45周年記念イベントにおいて、[スピードワゴン](../Page/スピードワゴン.md "wikilink")・[クワバタオハラ](../Page/クワバタオハラ.md "wikilink")・[ヒデヨシの](../Page/ヒデヨシ_\(お笑い\).md "wikilink")3組と共にスペシャルユニット「ホリプロ009」として出演。全員が劇中のメンバーの衣装を着用して登場しチャリティオークションを行ったほか、劇中のサイボーグたちが各々違う特殊能力を持っている事にちなんで各自が自分の「特殊能力」と称した持ち芸を披露した。
-  - 2011年9月15日、東京・渋谷のダンススタジオBEASTARで行われた韓国映画『ホワイト』のダンスバトルイベントに、事務所の後輩[KICK☆](../Page/KICK☆.md "wikilink")と共に映画に登場するアイドルグループ「ピンクドールズ」の日本版グループとして参加した。イベントでは「[T-ARA](https://ja.wikipedia.org/wiki/T-ara "wikilink")」のカバーダンスチーム「M：name」とダンスのカバーバトルで対決。お揃いの白いロン毛の[カツラをかぶり](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")、ジュリアナクイーンの[荒木久美子](../Page/荒木久美子.md "wikilink")師匠をチームに迎えて特訓を行ったダンスを披露した。
+  - 2011年9月15日、東京・渋谷のダンススタジオBEASTARで行われた韓国映画『ホワイト』のダンスバトルイベントに、事務所の後輩[KICK☆](../Page/KICK☆.md "wikilink")と共に映画に登場するアイドルグループ「ピンクドールズ」の日本版グループとして参加した。イベントでは「[T-ARA](https://ja.wikipedia.org/wiki/T-ara "wikilink")」のカバーダンスチーム「M：name」とダンスのカバーバトルで対決。お揃いの白いロン毛の[カツラをかぶり](../Page/かつら_\(装身具\).md "wikilink")、ジュリアナクイーンの[荒木久美子](../Page/荒木久美子.md "wikilink")師匠をチームに迎えて特訓を行ったダンスを披露した。
   - 2012年、「[AAA TOUR 2012 -777- TRIPLE SEVEN](https://ja.wikipedia.org/wiki/AAA_TOUR_2012_-777-_TRIPLE_SEVEN "wikilink")」では西尾がツアーレポート番組「有沙と洸とブーデーの追いかけセブン」でレポーターを務める。
   - 2013年、「AAA TOUR 2013 Eighth Wonder」では西尾に加えさがねも参加するツアーレポート番組「ブーデーpresents逢いたかったらWonderパフォーマンス\!」でレポーターを務める。
   - 2014年、[PlayStation 3専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『[魁\!\!男塾](../Page/魁!!男塾.md "wikilink") 〜日本よ、これが男である\!〜』のPR用ムービー「男の大バトルスペシャル」にさがねが古坂大魔王、クロちゃん（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）、[ななめ45°](../Page/ななめ45°.md "wikilink")と共に出演。メンバーは『魁\!\!男塾』の世界を再現した衣装（古坂は[長ラン](../Page/長ラン.md "wikilink")に白鉢巻きに下駄履き、さがねは羽織袴、クロちゃんとななめ45°は長ランに学生帽に下駄履き）を着用、古坂とさがねはナース風レースクイーンの衣装を着た木口亜矢と共に進行係を務め、後の4人が白褌一丁になって「男塾入塾試験」と称した過激なゲームを行った\[5\]（[ファミ通.com内記事](http://www.famitsu.com/news/201402/25048846.html)）。
@@ -135,7 +135,7 @@
   - なりギャル.TV（2004年10月 - 2005年9月、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")）**MC**
   - 超音（2005年11月 - 2006年3月、千葉テレビ）**MC**
   - 勝利の女神の法則（2016年4月 - 9月、千葉テレビ）**MC**
-  - [3時は\!ららら♪](https://ja.wikipedia.org/wiki/3時は!ららら♪ "wikilink")（2008年3月31日 - 2016年9月16日、[信越放送](../Page/信越放送.md "wikilink")）西尾のみ
+  - [3時は\!ららら♪](../Page/3時は!ららら♪.md "wikilink")（2008年3月31日 - 2016年9月16日、[信越放送](../Page/信越放送.md "wikilink")）西尾のみ
   - [IJP イジュウインパーク](https://ja.wikipedia.org/wiki/IJP_イジュウインパーク "wikilink")（2010年4月9日 - 2011年3月25日、[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）さがねのみ
   - bump.y JUMP\!\!\!\!\!（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")・2011年6月9日 - 12月8日）西尾のみ**MC**
   - [三又ノ番組](https://ja.wikipedia.org/wiki/三又ノ番組 "wikilink")（2014年4月18日 - 2018年8月24日、[東日本放送](../Page/東日本放送.md "wikilink")）西尾のみレギュラー、さがねはゲストとして不定期出演
@@ -148,10 +148,10 @@
 
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）戦績2勝1敗 最高385KB（これはオフエアのKBであり、オンエアの最高は380KB）
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（TBS）『ゴールドラッシュ』に出演、イロモネア出場権獲得
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBS、2008年12月29日・2009年12月29日）キャッチコピーは「アジアの超特急2008」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBS、2008年12月29日・2009年12月29日）キャッチコピーは「アジアの超特急2008」
   - [オールスター後夜祭](https://ja.wikipedia.org/wiki/オールスター感謝祭#%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%BE%8C%E5%A4%9C%E7%A5%AD "wikilink")（2018年4月7日・10月7日\[8\]、2019年4月7日\[9\]、TBS）
   - [爆笑そっくりものまね紅白歌合戦](https://ja.wikipedia.org/wiki/爆笑そっくりものまね紅白歌合戦スペシャル "wikilink")（フジテレビ）
-  - [爆生レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ）キャッチフレーズは「帰ってきたアジアの超特急」。コラボカーペットでは、小林優介（[響](../Page/響_\(お笑い\).md "wikilink")）&[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")（[我が家](../Page/我が家.md "wikilink")）&[高橋健一](../Page/高橋健一_\(お笑い芸人\).md "wikilink")（[キングオブコメディ](../Page/キングオブコメディ.md "wikilink")）と共演
+  - [爆生レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ）キャッチフレーズは「帰ってきたアジアの超特急」。コラボカーペットでは、小林優介（[響](../Page/響_\(お笑い\).md "wikilink")）&[谷田部俊](../Page/谷田部俊.md "wikilink")（[我が家](../Page/我が家.md "wikilink")）&[高橋健一](../Page/高橋健一_\(お笑い芸人\).md "wikilink")（[キングオブコメディ](../Page/キングオブコメディ.md "wikilink")）と共演
   - [GAHAHAキング 爆笑王決定戦](../Page/GAHAHAキング_爆笑王決定戦.md "wikilink")（テレビ朝日）
   - [GAHAHA王国](../Page/GAHAHA王国.md "wikilink")（テレビ朝日）
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（テレビ朝日）さがねのみ

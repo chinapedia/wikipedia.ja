@@ -11,7 +11,7 @@
 
 作成できるのは、DVD-Videoである。VRモードのDVDや[Blu-ray Discは作成できない](../Page/Blu-ray_Disc.md "wikilink")。
 
-最新版はDVD版のiLife '11にバンドルされているバージョン7.1.2だが、こちらは[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")非対応であるため、[macOS Catalina 10.15では完全に動作しなくなる](https://ja.wikipedia.org/wiki/macOS_Catalina "wikilink")。
+最新版はDVD版のiLife '11にバンドルされているバージョン7.1.2だが、こちらは[64ビット](../Page/64ビット.md "wikilink")非対応であるため、[macOS Catalina 10.15では完全に動作しなくなる](https://ja.wikipedia.org/wiki/macOS_Catalina "wikilink")。
 
 ## 関連ソフトウェア
 

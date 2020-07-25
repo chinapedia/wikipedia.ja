@@ -1,7 +1,7 @@
 > この記事は[竜馬がゆく \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/竜馬がゆく_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**竜馬がゆく**』（りょうまがゆく）は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")に放送されたNHK[大河ドラマ](../Page/大河ドラマ.md "wikilink")第6作。全52回。
+『**竜馬がゆく**』（りょうまがゆく）は、[1968年](../Page/1968年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")に放送されたNHK[大河ドラマ](../Page/大河ドラマ.md "wikilink")第6作。全52回。
 
 [明治](../Page/明治.md "wikilink")百周年を記念して制作された、大河ドラマ初の[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")原作ドラマ。近代日本の扉を大きく開いた青年・**[坂本龍馬](../Page/坂本龍馬.md "wikilink")**の生涯を描いた作品（本作では原作と同様「**竜馬**」の表記が用いられる）。
 

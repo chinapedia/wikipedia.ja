@@ -22,7 +22,7 @@
     （智声（チソン）、*Ji Sung Sunday*、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月12日](../Page/1月12日.md "wikilink") - 本名：秦<span lang="ko">보라</span>、<span lang="ko">진보라</span>）
     [SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属 グループ活動前の2004年に[avex traxから日本デビューをし](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、計2枚のシングルを発表した。現在は主にミュージカル俳優として活動。
   - ダナ
-    （喜悦（ヒヨル）、*Hee Yeol* [Dana](https://ja.wikipedia.org/wiki/:en:Dana_%28Korea%29 "wikilink"))、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月17日](../Page/7月17日.md "wikilink") - 本名：洪成美、<span lang="ko">홍성미</span>）
+    （喜悦（ヒヨル）、*Hee Yeol* [Dana](https://ja.wikipedia.org/wiki/:en:Dana_%28Korea%29 "wikilink"))、[1986年](../Page/1986年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - 本名：洪成美、<span lang="ko">홍성미</span>）
     [SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属 グループ活動前の2001年に韓国でソロデビュー(1集「DANA」)をしている。現在は俳優として活動。
 
 ### 元メンバー

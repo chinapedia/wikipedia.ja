@@ -35,7 +35,7 @@
 
 …[Office 2007と同様の](https://ja.wikipedia.org/wiki/Office_2007 "wikilink")[Microsoft Office](../Page/Microsoft_Office.md "wikilink") Fluent UIを採用
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - MindManager8 for Mac発売
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月26日](../Page/1月26日.md "wikilink") - MindManager8 for Mac発売
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月1日](../Page/9月1日.md "wikilink") - MindManager9 for Windows発売
   - [2017年](../Page/2017年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")　- Mindmanager 2018
   - [2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")　- Mindmanager 2019

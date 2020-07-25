@@ -68,7 +68,7 @@ DVDは2007年12月7日にレンタル開始、12月12日に発売開始。
   - エグゼクティブプロデューサー：[奥田誠治](../Page/奥田誠治_\(映画プロデューサー\).md "wikilink")
   - Coエグゼクティブプロデューサー：[神蔵克](https://ja.wikipedia.org/wiki/神蔵克 "wikilink")
   - プロデューサー：飯沼伸之、久保理茎
-  - 製作会社：「舞妓Haaaan\!\!\!」製作委員会（[NTV](../Page/日本テレビ放送網.md "wikilink")・[東宝](../Page/東宝.md "wikilink")・[S･D･P](https://ja.wikipedia.org/wiki/スターダストピクチャーズ "wikilink")・[ytv](../Page/讀賣テレビ放送.md "wikilink")・[VAP](../Page/バップ.md "wikilink")・[読売新聞](../Page/読売新聞.md "wikilink")・[大人計画](../Page/大人計画.md "wikilink")・[ビーワイルド](../Page/ビーワイルド.md "wikilink")・[STV](../Page/札幌テレビ放送.md "wikilink")・[MMT](../Page/宮城テレビ放送.md "wikilink")・[SDT](../Page/静岡第一テレビ.md "wikilink")・[CTV](../Page/中京テレビ放送.md "wikilink")・[HTV](../Page/広島テレビ放送.md "wikilink")・[FBS](../Page/福岡放送.md "wikilink")）
+  - 製作会社：「舞妓Haaaan\!\!\!」製作委員会（[NTV](../Page/日本テレビ放送網.md "wikilink")・[東宝](../Page/東宝.md "wikilink")・[S･D･P](../Page/スターダストピクチャーズ.md "wikilink")・[ytv](../Page/讀賣テレビ放送.md "wikilink")・[VAP](../Page/バップ.md "wikilink")・[読売新聞](../Page/読売新聞.md "wikilink")・[大人計画](../Page/大人計画.md "wikilink")・[ビーワイルド](../Page/ビーワイルド.md "wikilink")・[STV](../Page/札幌テレビ放送.md "wikilink")・[MMT](../Page/宮城テレビ放送.md "wikilink")・[SDT](../Page/静岡第一テレビ.md "wikilink")・[CTV](../Page/中京テレビ放送.md "wikilink")・[HTV](../Page/広島テレビ放送.md "wikilink")・[FBS](../Page/福岡放送.md "wikilink")）
   - 制作プロダクション：ビーワイルド
   - 企画制作：日テレ
   - 配給：東宝

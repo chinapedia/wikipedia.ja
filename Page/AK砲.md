@@ -1,7 +1,7 @@
 > この記事は[AK砲](https://ja.wikipedia.org/wiki/AK砲)から翻訳されています。
 
 
-**AK砲**（AKほう）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")（現・埼玉西武ライオンズ）に在籍した、3番打者の**[秋山幸二](../Page/秋山幸二.md "wikilink")**（あきやま こうじ）と4番打者の**[清原和博](../Page/清原和博.md "wikilink")**（きよはら かずひろ）の2人を指す通称。
+**AK砲**（AKほう）は、[1986年](../Page/1986年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")（現・埼玉西武ライオンズ）に在籍した、3番打者の**[秋山幸二](../Page/秋山幸二.md "wikilink")**（あきやま こうじ）と4番打者の**[清原和博](../Page/清原和博.md "wikilink")**（きよはら かずひろ）の2人を指す通称。
 
 その後[阪神タイガース](../Page/阪神タイガース.md "wikilink")でもAK砲が誕生したため、本項ではそれについても記述する。
 

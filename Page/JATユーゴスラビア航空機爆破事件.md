@@ -1,7 +1,7 @@
 > この記事は[JATユーゴスラビア航空機爆破事件](https://ja.wikipedia.org/wiki/JATユーゴスラビア航空機爆破事件)から翻訳されています。
 
 
-**JATユーゴスラビア航空機爆破事件**（JATこうくうきばくはじけん）とは[1972年](../Page/1972年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[JATユーゴスラビア航空の](https://ja.wikipedia.org/wiki/Jat航空 "wikilink")[ダグラスDC-9-30](../Page/マクドネル・ダグラス_DC-9.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")が飛行中に爆破された[テロ事件である](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。
+**JATユーゴスラビア航空機爆破事件**（JATこうくうきばくはじけん）とは[1972年](../Page/1972年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[JATユーゴスラビア航空の](https://ja.wikipedia.org/wiki/Jat航空 "wikilink")[ダグラスDC-9-30](../Page/マクドネル・ダグラス_DC-9.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")が飛行中に爆破された[テロ事件である](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。
 
 この事件は[クロアチア](../Page/クロアチア.md "wikilink")[国家主義](../Page/国家主義.md "wikilink")者が仕掛けた[爆発物によって引き起こされたもので](../Page/火薬.md "wikilink")、爆発により機体は空中分解したが、乗員のひとりは奇跡的に救出された。
 

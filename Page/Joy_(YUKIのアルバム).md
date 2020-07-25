@@ -32,7 +32,7 @@
       - 作詞・作曲：YUKI・Jez Ashurt・Richie Wermerling、編曲：湯浅篤
 6.  **サイダー**
       - 作詞・作曲：YUKI・[K.](https://ja.wikipedia.org/wiki/惑星_\(バンド\)#メンバー "wikilink")、編曲：[會田茂一](../Page/會田茂一.md "wikilink")
-7.  **[AIR WAVE](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")**
+7.  **[AIR WAVE](../Page/Home_Sweet_Home_\(YUKIの曲\).md "wikilink")**
       - 作詞：YUKI、作曲・編曲：[Andy Sturmer](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")
     <!-- end list -->
       -
@@ -47,7 +47,7 @@
       - 作詞・作曲：YUKI・Zuriani・Andy Lutschounig、編曲：湯浅篤
 12. **愛しあえば**
       - 作詞・作曲：YUKI・Mats Hedstrom・Jade Ell、編曲：湯浅篤
-13. **[Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")**
+13. **[Home Sweet Home](../Page/Home_Sweet_Home_\(YUKIの曲\).md "wikilink")**
       - 作詞：YUKI、作曲・編曲：[田中ユウスケ](../Page/田中ユウスケ.md "wikilink")
       - 7thシングル曲。『[劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!](../Page/劇場版_NARUTO_-ナルト-_大活劇!雪姫忍法帖だってばよ!!.md "wikilink")』主題歌。必ずこの曲で終わるようにとアルバムのエンディング向けに製作されていた楽曲。
 

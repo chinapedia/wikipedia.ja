@@ -476,7 +476,7 @@ Zepp Osaka</p></th>
 <li><a href="../Page/ドラゴンフォース_(バンド).md" title="wikilink">ドラゴンフォース</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ダウン_(バンド)" title="wikilink">ダウン</a></li>
 <li><a href="../Page/ソイルワーク.md" title="wikilink">ソイルワーク</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ヴァンデンバーグ_(バンド)" title="wikilink">ヴァンデンバーグス・ムーンキングス</a></li>
+<li><a href="../Page/ヴァンデンバーグ_(バンド).md" title="wikilink">ヴァンデンバーグス・ムーンキングス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バトルビースト" title="wikilink">バトルビースト</a></li>
 </ul></td>
 <td><ul>

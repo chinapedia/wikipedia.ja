@@ -18,7 +18,7 @@
 1.  **フラワー**
       -
         （作詞：[HΛL](../Page/HΛL.md "wikilink") / 作曲：HΛL・音妃 / 編曲：[船山基紀](../Page/船山基紀.md "wikilink") / コーラスアレンジ：[松下誠](../Page/松下誠.md "wikilink")）
-        [堂本剛](../Page/堂本剛.md "wikilink")・[堂本光一](../Page/堂本光一.md "wikilink")出演の[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「'99パラダイス[沖縄](../Page/沖縄県.md "wikilink")」キャンペーンCMソング。
+        [堂本剛](../Page/堂本剛.md "wikilink")・[堂本光一](../Page/堂本光一.md "wikilink")出演の[ANA](../Page/全日本空輸.md "wikilink")「'99パラダイス[沖縄](../Page/沖縄県.md "wikilink")」キャンペーンCMソング。
         同[CMと](../Page/コマーシャルメッセージ.md "wikilink")[PV撮影を兼ねて沖縄で行われている](../Page/ミュージック・ビデオ.md "wikilink")。
         [横浜ベイスターズの](../Page/横浜DeNAベイスターズ.md "wikilink")[下園辰哉](../Page/下園辰哉.md "wikilink")が打席に入る際の入場曲として使用している。
         『[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")』にKinKi Kidsが特別出演した際に、[サビ](../Page/サビ.md "wikilink")のみではあったが、歌唱された。

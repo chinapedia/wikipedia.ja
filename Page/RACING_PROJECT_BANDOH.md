@@ -134,7 +134,7 @@
 <td><p>2008年</p></td>
 <td><p>GT300</p></td>
 <td><p>ウェッズスポーツセリカ(-Rd.2)</p></td>
-<td><p><a href="../Page/織戸学.md" title="wikilink">織戸学</a>/<a href="https://ja.wikipedia.org/wiki/阿部翼" title="wikilink">阿部翼</a>/<a href="../Page/関口雄飛.md" title="wikilink">関口雄飛</a></p></td>
+<td><p><a href="../Page/織戸学.md" title="wikilink">織戸学</a>/<a href="../Page/阿部翼.md" title="wikilink">阿部翼</a>/<a href="../Page/関口雄飛.md" title="wikilink">関口雄飛</a></p></td>
 <td><p>12位</p></td>
 </tr>
 <tr class="even">

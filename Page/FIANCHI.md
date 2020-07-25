@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-1.  [Georgy Porgy](https://ja.wikipedia.org/wiki/宇宙の騎士 "wikilink")
+1.  [Georgy Porgy](../Page/宇宙の騎士.md "wikilink")
       - 作詞・作曲：[David Paich](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink")
     <!-- end list -->
       -
@@ -71,7 +71,7 @@
     <!-- end list -->
       -
         [1977年](../Page/1977年.md "wikilink")発売の[スティーリー・ダン](../Page/スティーリー・ダン.md "wikilink")のシングル曲。
-8.  [Honesty](https://ja.wikipedia.org/wiki/オネスティ "wikilink")
+8.  [Honesty](../Page/オネスティ.md "wikilink")
       - 作詞・作曲：[Billy Joel](../Page/ビリー・ジョエル.md "wikilink")
     <!-- end list -->
       -

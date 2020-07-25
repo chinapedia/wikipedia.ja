@@ -413,7 +413,7 @@ TOTT-6280〜1</p></td>
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/12月24日.md" title="wikilink">12月24日</a></p></td>
 <td><p>EMIミュージック・ジャパン／ヴァージン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>TOCT-95002〜3</p></td>
 <td><p>52位</p></td>
 <td><p>2000年<a href="../Page/デジタルリマスター.md" title="wikilink">デジタルリマスタリング盤</a>、<a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット仕様</a>、『<a href="https://ja.wikipedia.org/wiki/GUITARHYTHM_BOX" title="wikilink">GUITARHYTHM BOX</a>』でのリリース</p></td>

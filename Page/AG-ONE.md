@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](../Page/2006年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[株式会社文化放送と](../Page/文化放送.md "wikilink")[株式会社ドワンゴの](../Page/ドワンゴ.md "wikilink")[合弁事業](../Page/合弁事業.md "wikilink")として[株式会社ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")（後に子会社化、現在解散して消滅）の協力を受け設立した会社である（文化放送分は、子会社[株式会社セントラルミュージックからの出資も含む](https://ja.wikipedia.org/wiki/セントラルミュージック "wikilink")）。その後、[角川グループ](https://ja.wikipedia.org/wiki/角川グループ "wikilink")[株式会社メディアワークス](../Page/メディアワークス.md "wikilink")（後の[株式会社アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、現[株式会社KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") アスキー・メディアワークスBC）及び[有限会社グッドスマイルカンパニーも](../Page/グッドスマイルカンパニー.md "wikilink")[第三者割当増資で出資していた](../Page/募集株式.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[株式会社文化放送と](../Page/文化放送.md "wikilink")[株式会社ドワンゴの](../Page/ドワンゴ.md "wikilink")[合弁事業](../Page/合弁事業.md "wikilink")として[株式会社ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")（後に子会社化、現在解散して消滅）の協力を受け設立した会社である（文化放送分は、子会社[株式会社セントラルミュージックからの出資も含む](https://ja.wikipedia.org/wiki/セントラルミュージック "wikilink")）。その後、[角川グループ](https://ja.wikipedia.org/wiki/角川グループ "wikilink")[株式会社メディアワークス](../Page/メディアワークス.md "wikilink")（後の[株式会社アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、現[株式会社KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") アスキー・メディアワークスBC）及び[有限会社グッドスマイルカンパニーも](../Page/グッドスマイルカンパニー.md "wikilink")[第三者割当増資で出資していた](../Page/募集株式.md "wikilink")。
 
 携帯・PCサイト『超\!アニメロ』をドワンゴと共に運営していた。
 

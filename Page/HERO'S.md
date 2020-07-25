@@ -68,7 +68,7 @@ HERO'Sを主催するTBSが2007年3月12日に放送した「総合格闘技HERO
   - TM : 河野志朗
   - VTR編集 : 七條健司
   - MA : 増田仁
-  - 選曲効果 : [ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")
+  - 選曲効果 : [ZACK](../Page/フリーダム・オブ・ザック.md "wikilink")
   - 美術プロデューサー : [古川雅之](https://ja.wikipedia.org/wiki/古川雅之 "wikilink")
   - 美術制作 : 小美野淳一
   - 美術デザイン : [岡嶋正浩](https://ja.wikipedia.org/wiki/岡嶋正浩 "wikilink")

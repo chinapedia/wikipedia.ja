@@ -38,12 +38,12 @@
       - 作詞：[松田聖子](../Page/松田聖子.md "wikilink")／作曲：坂本龍一／編曲：[かしぶち哲郎](../Page/かしぶち哲郎.md "wikilink")
     <!-- end list -->
       -
-        [岡田有希子](../Page/岡田有希子.md "wikilink")のアルバム『ヴィーナス誕生』に収録。シングルカットされた「[くちびるNetwork](../Page/くちびるNetwork.md "wikilink")」はCMのキャンペーンに使われ、[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の作品。
+        [岡田有希子](../Page/岡田有希子.md "wikilink")のアルバム『ヴィーナス誕生』に収録。シングルカットされた「[くちびるNetwork](../Page/くちびるNetwork.md "wikilink")」はCMのキャンペーンに使われ、[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。[1986年](../Page/1986年.md "wikilink")の作品。
 7.  **Some Small Hope**
       - 作曲：坂本龍一、バージニア・アストレイ
     <!-- end list -->
       -
-        バージニア・アストレイのアルバム『Hope in the Darkened Heart』に収録。ボーカルで[デヴィッド・シルヴィアン](../Page/デヴィッド・シルヴィアン.md "wikilink")が参加。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の作品。
+        バージニア・アストレイのアルバム『Hope in the Darkened Heart』に収録。ボーカルで[デヴィッド・シルヴィアン](../Page/デヴィッド・シルヴィアン.md "wikilink")が参加。[1986年](../Page/1986年.md "wikilink")の作品。
 8.  **M4**
       - 作曲：坂本龍一
     <!-- end list -->

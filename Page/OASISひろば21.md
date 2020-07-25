@@ -35,7 +35,7 @@
   - [ハローワーク](https://ja.wikipedia.org/wiki/ハローワーク "wikilink")大分ワークプラザ
   - オアシス21オフィス
       - [NHK文化センター](../Page/NHK文化センター.md "wikilink")
-      - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")大分支店
+      - [全日本空輸](../Page/全日本空輸.md "wikilink")大分支店
       - [三井住友海上火災保険](../Page/三井住友海上火災保険.md "wikilink")大分支店
       - [ソニー生命保険](../Page/ソニー生命保険.md "wikilink")大分支社
   - 中央交番

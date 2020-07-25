@@ -9,7 +9,7 @@
 
 ### P-RU192AA
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）に追加されたブルーリボン大型2.5 m幅の9 m観光バス。H06CT 205psを搭載。リーフサスのRTも存在する。
+[1986年](../Page/1986年.md "wikilink")（昭和61年）に追加されたブルーリボン大型2.5 m幅の9 m観光バス。H06CT 205psを搭載。リーフサスのRTも存在する。
 
 ファイル:JR tokai bus nagoya castle shuttle HINO P-RU192A.jpg|[JR東海バス](https://ja.wikipedia.org/wiki/ジェイアール東海バス "wikilink")
 

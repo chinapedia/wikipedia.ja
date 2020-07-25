@@ -99,7 +99,7 @@ EHRGEIZはドイツ語で「野心」「大志」という意味で、英語のa
 ## 主題歌
 
   - オープニングテーマ「DREAM JACK」
-    作詞 - 石川雅敏 / 作曲・編曲・歌 - [HUMMING BIRD](https://ja.wikipedia.org/wiki/HUMMING_BIRD_\(バンド\) "wikilink")
+    作詞 - 石川雅敏 / 作曲・編曲・歌 - [HUMMING BIRD](../Page/HUMMING_BIRD_\(バンド\).md "wikilink")
   - エンディングテーマ「One Voice for EHRGEIZ」
     作詞 - 夏野芹子 / 作曲・編曲 - 原一博 / 歌 - [福井麻利子](https://ja.wikipedia.org/wiki/福井麻利子 "wikilink")
 

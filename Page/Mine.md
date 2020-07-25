@@ -46,7 +46,7 @@ CDジャーナルは、「特に堂島孝平のペンによるクリスマス・
   - Guitars & Programming：鈴木"CHiBUN"智文
   - Piano & Keyboards：中山努
   - Bass：[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")
-  - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - Drums：[宮田繁男](../Page/宮田繁男.md "wikilink")
 
 **メープルの空**
 

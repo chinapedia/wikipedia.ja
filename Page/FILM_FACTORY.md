@@ -55,7 +55,7 @@
 ### 映画
 
   - [オリヲン座からの招待状](../Page/オリヲン座からの招待状.md "wikilink")
-  - [犬と私の10の約束](https://ja.wikipedia.org/wiki/犬と私の10の約束 "wikilink")
+  - [犬と私の10の約束](../Page/犬と私の10の約束.md "wikilink")
   - [パコと魔法の絵本](../Page/パコと魔法の絵本.md "wikilink")
   - [ウォーリー](../Page/ウォーリー_\(映画\).md "wikilink")
   - [旭山動物園物語 ペンギンが空をとぶ](https://ja.wikipedia.org/wiki/旭山動物園物語_ペンギンが空をとぶ "wikilink")

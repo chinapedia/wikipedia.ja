@@ -7,7 +7,7 @@
 
 ## 略歴
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から5年間、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")に留学しTASISというプライベートスクールで寄宿舎生活を送る。帰国後、[大阪YMCAインターナショナルハイスクール](https://ja.wikipedia.org/wiki/大阪YMCAインターナショナルハイスクール "wikilink")に編入。[東京国際大学](../Page/東京国際大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")へ進学した。[TOEIC](https://ja.wikipedia.org/wiki/TOEIC "wikilink")は860点\[1\]。
+[1986年](../Page/1986年.md "wikilink")から5年間、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")に留学しTASISというプライベートスクールで寄宿舎生活を送る。帰国後、[大阪YMCAインターナショナルハイスクール](https://ja.wikipedia.org/wiki/大阪YMCAインターナショナルハイスクール "wikilink")に編入。[東京国際大学](../Page/東京国際大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")へ進学した。[TOEIC](https://ja.wikipedia.org/wiki/TOEIC "wikilink")は860点\[1\]。
 
 大学卒業後の[1999年](../Page/1999年.md "wikilink")に帰阪。「人に感動を与える表現者になりたい」とDJを志す。[Be Happy\!789での初仕事を経て](https://ja.wikipedia.org/wiki/FMキタ "wikilink")、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に、本名の「楠雄二朗」名義でDJとしての活動を本格的に開始。その直後に、[Kiss-FM KOBE（現：Kiss FM KOBE ）のサウンドクルー](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")（同局独自の「DJ」を意味する呼称）として、自身初のレギュラー番組『Kiss WORLD PROJECT（番組名の「Kiss」は「ケイアイダブリューエス」と読む）』を担当した。
 

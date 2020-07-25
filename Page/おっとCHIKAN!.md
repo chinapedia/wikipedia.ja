@@ -1,7 +1,7 @@
 > この記事は[おっとCHIKAN!](https://ja.wikipedia.org/wiki/おっとCHIKAN!)から翻訳されています。
 
 
-「**おっとCHIKAN\!**」（おっとチカン\!）は、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")にキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）から発売された。
+「**おっとCHIKAN\!**」（おっとチカン\!）は、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）から発売された。
 
 ## 解説
 

@@ -1,7 +1,7 @@
 > この記事は[F3D \(航空機\)](https://ja.wikipedia.org/wiki/F3D_\(航空機\))から翻訳されています。
 
 
-**F3D スカイナイト**（*Douglas F3D Skyknight* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海兵隊で運用された](../Page/アメリカ海兵隊.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+**F3D スカイナイト**（*Douglas F3D Skyknight* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海兵隊で運用された](../Page/アメリカ海兵隊.md "wikilink")[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。
 
 愛称の「**スカイナイト** ()」は、空の騎士の意。後に改称され、**F-10 スカイナイト**となった。
 

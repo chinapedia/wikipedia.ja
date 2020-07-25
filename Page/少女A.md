@@ -78,7 +78,7 @@
   - [嘟嘟](https://ja.wikipedia.org/wiki/嘟嘟 "wikilink") （ドゥドゥ） - [中国](../Page/中国.md "wikilink")の歌手。1985年発売のカセット・アルバム「少女Ａ」で、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")による「少女Ａ」としてカバーした。
   - [楊君子](https://ja.wikipedia.org/wiki/楊君子 "wikilink") - [中国](../Page/中国.md "wikilink")の歌手。1986年発売のカセット・アルバム「跳舞街」で、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")による「単身女郎」としてカバーした。
   - [呉小芸](https://ja.wikipedia.org/wiki/呉小芸 "wikilink") （ウ　ショウイン） - [中国](../Page/中国.md "wikilink")の歌手。1988年発売のカセット・アルバム「単身女郎（二）」で、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")による「単身女郎」としてカバーした。
-  - [伊能静](https://ja.wikipedia.org/wiki/伊能静 "wikilink") （いのうしずか　アニ・イー） - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の歌手。1990年発売のアルバム「緊緊擁抱我」で、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")による「選錯電影、選錯你」としてカバーした。
+  - [伊能静](../Page/伊能静.md "wikilink") （いのうしずか　アニ・イー） - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の歌手。1990年発売のアルバム「緊緊擁抱我」で、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")による「選錯電影、選錯你」としてカバーした。
   - [松本孝弘](../Page/松本孝弘.md "wikilink") (TAK MATSUMOTO) - 2003年発売のアルバム『[THE HIT PARADE](../Page/THE_HIT_PARADE_\(松本孝弘のアルバム\).md "wikilink")』に収録、[上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")がヴォーカリストとして参加している\[57\]。
   - [白石涼子 (嵐山小夜子)](https://ja.wikipedia.org/wiki/白石涼子 "wikilink") - 2009年発売のアニメ『[夏のあらし\!](https://ja.wikipedia.org/wiki/夏のあらし!#挿入歌 "wikilink")』DVD第1巻初回限定版付録CDに収録\[58\]。また、アニメ第12・13話で挿入歌として使われた。
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink") - 2009年発売のライブ・ビデオ『[昭和八十三年度\!ひとり紅白歌合戦](https://ja.wikipedia.org/wiki/昭和八十三年度!ひとり紅白歌合戦 "wikilink")』に収録\[59\]\[60\]。

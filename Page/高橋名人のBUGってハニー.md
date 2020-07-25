@@ -1,7 +1,7 @@
 > この記事は[高橋名人のBUGってハニー](https://ja.wikipedia.org/wiki/高橋名人のBUGってハニー)から翻訳されています。
 
 
-『**高橋名人のBUGってハニー**』（たかはしめいじんのバグってハニー）は、[ハドソン](../Page/ハドソン.md "wikilink")から1987年6月5日に発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")。『[高橋名人の冒険島](../Page/高橋名人の冒険島.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）シリーズの1作に数えられる\[1\]。
+『**高橋名人のBUGってハニー**』（たかはしめいじんのバグってハニー）は、[ハドソン](../Page/ハドソン.md "wikilink")から1987年6月5日に発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")。『[高橋名人の冒険島](../Page/高橋名人の冒険島.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）シリーズの1作に数えられる\[1\]。
 
 ## 概要
 

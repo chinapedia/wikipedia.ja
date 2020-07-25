@@ -853,7 +853,7 @@ CMタレント名鑑2006</p></td>
 <tr class="even">
 <td><p>144</p></td>
 <td><p>2010年4月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜庭ななみ" title="wikilink">桜庭ななみ</a></p></td>
+<td><p><a href="../Page/桜庭ななみ.md" title="wikilink">桜庭ななみ</a></p></td>
 <td><p>桜庭ななみ撮り下ろしインタビュー</p></td>
 </tr>
 <tr class="odd">
@@ -1050,7 +1050,7 @@ CMタレント名鑑2006</p></td>
 <tr class="even">
 <td><p>172</p></td>
 <td><p>2014年12月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td><p>巻頭特集桐谷美玲撮り下ろし&amp;インタビュー。<a href="https://ja.wikipedia.org/wiki/白石麻衣" title="wikilink">白石麻衣</a>撮り下ろし</p></td>
 </tr>
 <tr class="odd">

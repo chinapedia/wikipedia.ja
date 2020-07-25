@@ -70,7 +70,7 @@
   - TVシリーズ『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』のシリアル（連続した数話） *[The Gunfighters](https://ja.wikipedia.org/wiki/:en:The_Gunfighters "wikilink")* ([1966年](../Page/1966年.md "wikilink"))
   - 映画『[墓石と決闘](https://ja.wikipedia.org/wiki/墓石と決闘 "wikilink")』 *[Hour of the Gun](https://ja.wikipedia.org/wiki/:en:Hour_of_the_Gun "wikilink")* ([1967年](../Page/1967年.md "wikilink"))
       - 娯楽活劇版であった『OK牧場の決斗』の[ジョン・スタージェス](../Page/ジョン・スタージェス.md "wikilink")監督による「史実準拠版」。ジェームス・ガーナー主演。OKコラルでの銃撃戦から始まるため、「続編」や「後日譚」とされているが「続編」ではない。「決闘」から始まる殺し合いを史実の順に、法と復讐とで葛藤するワイアットの姿を描いている。アイク・クラントンは生き残り、アープ兄弟との暗闘が続く。弟を殺され、兄も負傷したアープは[ドク・ホリデイ](../Page/ドク・ホリデイ.md "wikilink")とともに犯人追跡に乗り出す。タイトルに「墓石」とあるのはトゥームストーン」の訳とされる。
-  - TVシリーズ『[宇宙大作戦](../Page/宇宙大作戦.md "wikilink")』のエピソード「OK牧場の決闘」 *[Spectre of the Gun](https://ja.wikipedia.org/wiki/:en:Spectre_of_the_Gun_\(TOS_episode\) "wikilink")* ([1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink"))
+  - TVシリーズ『[宇宙大作戦](../Page/宇宙大作戦.md "wikilink")』のエピソード「OK牧場の決闘」 *[Spectre of the Gun](https://ja.wikipedia.org/wiki/:en:Spectre_of_the_Gun_\(TOS_episode\) "wikilink")* ([1968年](../Page/1968年.md "wikilink"))
       - 宇宙大作戦の1エピソードで、宇宙人によってカーク船長らが自己暗示にかけられてトゥームストーンの決闘場所に送られて殺されかかるという話。まもなくこれが宇宙人による自己暗示で幻想であることに気づく。
   - 映画『ドク・ホリデイ』 *[Doc](https://ja.wikipedia.org/wiki/:en:Doc_\(film\) "wikilink")* ([1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink"))
   - 映画『[トゥームストーン](https://ja.wikipedia.org/wiki/トゥームストーン_\(映画\) "wikilink")』 *[Tombstone](https://ja.wikipedia.org/wiki/:en:Tombstone_\(film\) "wikilink")* ([1993年](../Page/1993年.md "wikilink"))

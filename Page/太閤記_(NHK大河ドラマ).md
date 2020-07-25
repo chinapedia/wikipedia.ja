@@ -126,7 +126,7 @@
 
   - 前田犬千代→[前田利家](../Page/前田利家.md "wikilink")：[川津祐介](../Page/川津祐介.md "wikilink")
   - [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink")：[市村家橘](https://ja.wikipedia.org/wiki/市村吉五郎_\(2代目\) "wikilink")
-  - [上杉謙信](../Page/上杉謙信.md "wikilink")：[石山健二郎](https://ja.wikipedia.org/wiki/石山健二郎 "wikilink")
+  - [上杉謙信](../Page/上杉謙信.md "wikilink")：[石山健二郎](../Page/石山健二郎.md "wikilink")
   - [直江実綱](../Page/直江景綱.md "wikilink")：[伊沢一郎](../Page/伊沢一郎.md "wikilink")
   - [浅井長政](../Page/浅井長政.md "wikilink")：[大山克巳](../Page/大山克巳.md "wikilink")
   - [はつ](../Page/常高院.md "wikilink")：[二木てるみ](../Page/二木てるみ.md "wikilink")
@@ -176,7 +176,7 @@
   - お六：[結城美栄子](../Page/結城美栄子.md "wikilink")
       -
         おふくの妹
-  - 於三郎：[辰巳柳太郎](https://ja.wikipedia.org/wiki/辰巳柳太郎 "wikilink")
+  - 於三郎：[辰巳柳太郎](../Page/辰巳柳太郎.md "wikilink")
   - 茶売りの老婆：[北林谷栄](../Page/北林谷栄.md "wikilink")
   - 茶碗屋捨次郎：[三津田健](../Page/三津田健.md "wikilink")
   - 菊丸：**[中山克巳](https://ja.wikipedia.org/wiki/中山克己 "wikilink")**
@@ -311,7 +311,7 @@
 
 ### 制作・技術面について
 
-新人を登用したため、人件費が大幅に削減され、その分、大規模な合戦[ロケーション撮影](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")に回すことができた。また、新しい技術も多く採用された。
+新人を登用したため、人件費が大幅に削減され、その分、大規模な合戦[ロケーション撮影](../Page/ロケーション撮影.md "wikilink")に回すことができた。また、新しい技術も多く採用された。
 
   - 最初の大規模なロケは、1965年1月8日から10日間、[桶狭間の戦い](../Page/桶狭間の戦い.md "wikilink")のシーンを[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[塩原町](../Page/塩原町.md "wikilink")（現・[那須塩原市](../Page/那須塩原市.md "wikilink")）で行った\[37\]。このロケではテレビドラマで初めて[ヘリコプター](../Page/ヘリコプター.md "wikilink")からの空中撮影が行われ\[38\]、前年の[東京オリンピックの撮影で開発されたヘリコプター自動防震装置が用いられた](../Page/1964年東京オリンピック.md "wikilink")\[39\]。また、カメラマンを[足軽](../Page/足軽.md "wikilink")に扮装させて合戦の中に入っての撮影も行われた\[40\]。このロケに際しては地元の協力が得られ、消防団員のエキストラへの参加や婦人会の炊き出しが行われた\[41\]。
   - 大規模なロケはその後も3月に[川崎市](../Page/川崎市.md "wikilink")の柿生、5月には再び塩原で長篠の合戦、8月には[長野県](../Page/長野県.md "wikilink")[飯山市](../Page/飯山市.md "wikilink")北竜湖で、高松城水攻め、山崎の合戦、賤ヶ岳の合戦などの収録が10日間行われた\[42\]。このうち、5月と8月のロケでは再度ヘリコプターを撮影に使用した\[43\]。

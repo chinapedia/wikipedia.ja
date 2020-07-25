@@ -9,7 +9,7 @@
 
   - [嵐](../Page/嵐_\(グループ\).md "wikilink")
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
   - [中山優馬](../Page/中山優馬.md "wikilink")
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")

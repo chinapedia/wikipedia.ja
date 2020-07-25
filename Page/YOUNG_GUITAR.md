@@ -3,7 +3,7 @@
 
 **YOUNG GUITAR**（ヤング・ギター）は日本の音楽雑誌。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に新興音楽出版社（現[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")）から発行。創刊当時は[フォーク雑誌としてスタートしたが](https://ja.wikipedia.org/wiki/フォークギター "wikilink")、[1980年代](../Page/1980年代.md "wikilink")以降、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")、[フュージョンを中心に技巧派](../Page/フュージョン_\(音楽\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")を扱う雑誌となった。
+[1968年](../Page/1968年.md "wikilink")に新興音楽出版社（現[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")）から発行。創刊当時は[フォーク雑誌としてスタートしたが](https://ja.wikipedia.org/wiki/フォークギター "wikilink")、[1980年代](../Page/1980年代.md "wikilink")以降、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")、[フュージョンを中心に技巧派](../Page/フュージョン_\(音楽\).md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")を扱う雑誌となった。
 
 ## 略歴
 

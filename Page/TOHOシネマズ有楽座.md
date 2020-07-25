@@ -127,7 +127,7 @@
   - [あなたは私の婿になる](https://ja.wikipedia.org/wiki/あなたは私の婿になる "wikilink")（2009年）
   - [なくもんか](https://ja.wikipedia.org/wiki/なくもんか "wikilink")（2009年）
   - [ウルルの森の物語](https://ja.wikipedia.org/wiki/ウルルの森の物語 "wikilink")（2009年、2010年1月12日から22日にかけて『[カイジ 人生逆転ゲーム](https://ja.wikipedia.org/wiki/賭博黙示録カイジ#映画 "wikilink")』と入れ替えで上映）
-  - [Dr.パルナサスの鏡](https://ja.wikipedia.org/wiki/Dr.パルナサスの鏡 "wikilink")（2010年）
+  - [Dr.パルナサスの鏡](../Page/Dr.パルナサスの鏡.md "wikilink")（2010年）
   - [オーシャンズ](https://ja.wikipedia.org/wiki/オーシャンズ_\(映画\) "wikilink")（2010年、TOHOシネマズ日劇・スクリーン3からムーブオーバー）
   - [恋するベーカリー](https://ja.wikipedia.org/wiki/恋するベーカリー "wikilink")（2010年、TOHOシネマズ日劇・スクリーン3からムーブオーバー）
   - [噂のモーガン夫妻](https://ja.wikipedia.org/wiki/噂のモーガン夫妻 "wikilink")（2010年）

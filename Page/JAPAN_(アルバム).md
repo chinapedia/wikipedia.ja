@@ -25,7 +25,7 @@
 
 ## 録音
 
-長渕剛通算13枚目のオリジナルアルバムで、瀬尾一三との共同プロデュース。全収録曲を瀬尾との共同アレンジで製作しているが、これはアルバム『[LICENSE](../Page/LICENSE_\(長渕剛のアルバム\).md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』（1988年）に続いて3度目。この頃既に瀬尾は、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")のアルバムプロデュースも手掛けており、まさしく"一人二役"と言っても良い活躍振りである。
+長渕剛通算13枚目のオリジナルアルバムで、瀬尾一三との共同プロデュース。全収録曲を瀬尾との共同アレンジで製作しているが、これはアルバム『[LICENSE](../Page/LICENSE_\(長渕剛のアルバム\).md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』（1988年）に続いて3度目。この頃既に瀬尾は、[中島みゆき](../Page/中島みゆき.md "wikilink")のアルバムプロデュースも手掛けており、まさしく"一人二役"と言っても良い活躍振りである。
 
 以前にアルバム『[時代は僕らに雨を降らしてる](../Page/時代は僕らに雨を降らしてる.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）、『[HOLD YOUR LAST CHANCE](../Page/HOLD_YOUR_LAST_CHANCE.md "wikilink")』（[1984年](../Page/1984年.md "wikilink")）などのアルバムにおいて、ミックスダウンや一部楽曲のレコーディングを[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行ったことはあるが、今回初めて総ての楽曲をロサンゼルスで、現地のスタジオミュージシャンを交えて行った、本格的な日本国外製作のアルバムである\[23\]。瀬尾は日本国外でのレコーディングを積極的に行う人物であるが、長渕が更に本格的に、日本人、そして日本そのものを描くにあたり、敢えて日本の外側というべき[アメリカでレコーディングするには](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、打って付けの存在でもあった。
 

@@ -845,7 +845,7 @@ NSV-1007</p></td>
 <td><p><strong>曲名</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/井筒和幸" title="wikilink">井筒和幸</a></p></td>
+<td><p><a href="../Page/井筒和幸.md" title="wikilink">井筒和幸</a></p></td>
 <td><p>「GET UP!」</p></td>
 </tr>
 <tr class="odd">

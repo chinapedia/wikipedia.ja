@@ -5,7 +5,7 @@
 
 ## 概要・人物
 
-しわがれた渋い声が特徴。MC名の由来は、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")と[小田原城](https://ja.wikipedia.org/wiki/小田原城 "wikilink")に行ったときに、城内に飾られてあった[日本刀](../Page/日本刀.md "wikilink")を見て名付けられた。後に[MURO](../Page/MURO.md "wikilink")によってSとWの間にハイフンが付け足された。歌詞に当て字や記号を用いる事もある。[NITRO MICROPHONE UNDERGROUNDの楽曲や客演した曲ではフック](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")（サビ）を担当することが多く、ラップのときも音階を重視して歌う事が多い。[ONE PIECE愛好者](../Page/ONE_PIECE.md "wikilink")。
+しわがれた渋い声が特徴。MC名の由来は、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")と[小田原城](../Page/小田原城.md "wikilink")に行ったときに、城内に飾られてあった[日本刀](../Page/日本刀.md "wikilink")を見て名付けられた。後に[MURO](../Page/MURO.md "wikilink")によってSとWの間にハイフンが付け足された。歌詞に当て字や記号を用いる事もある。[NITRO MICROPHONE UNDERGROUNDの楽曲や客演した曲ではフック](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")（サビ）を担当することが多く、ラップのときも音階を重視して歌う事が多い。[ONE PIECE愛好者](../Page/ONE_PIECE.md "wikilink")。
 
 ### ファッション関連
 

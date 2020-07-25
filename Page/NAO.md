@@ -27,7 +27,7 @@
 
 ### NAO
 
-  - [NAO (シンガーソングライター)](https://ja.wikipedia.org/wiki/NAO_\(シンガーソングライター\) "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。
+  - [NAO (シンガーソングライター)](../Page/NAO_\(シンガーソングライター\).md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。
   - [NAO (プロレスラー)](../Page/NAO_\(プロレスラー\).md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子プロレスラー](https://ja.wikipedia.org/wiki/女子プロレスラー "wikilink")。
   - NAO - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")。「[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")」の元メンバー。現在は「[machine](https://ja.wikipedia.org/wiki/machine "wikilink")」のメンバー。男性。
   - NAO - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")の[高岡奈央](https://ja.wikipedia.org/wiki/高岡奈央 "wikilink")の通称。

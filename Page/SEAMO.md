@@ -17,13 +17,13 @@
 
 セカンドアルバム『[Live Goes On](../Page/Live_Goes_On.md "wikilink")』が2006年（平成18年）[10月2日](../Page/10月2日.md "wikilink")付[オリコン週間アルバムチャートで初登場](../Page/オリコンチャート.md "wikilink")1位を獲得した。これは[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")としては、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[TOKYO CLASSICに次ぎ](../Page/TOKYO_CLASSIC.md "wikilink")、2番目である。
 
-「マタアイマショウ」～「Continue」までのシングル（リカットシングルの「[Honey Honey feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/Honey_Honey_feat._AYUSE_KOZUE "wikilink")」を除く）全てにおいて、オリコン\* デイリーシングルチャートの最高位でトップ10にランクインし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[5月7日](../Page/5月7日.md "wikilink")発売の「[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")」は自身のシングル最高となるウィークリーチャート初登場5位を記録した。
+「マタアイマショウ」～「Continue」までのシングル（リカットシングルの「[Honey Honey feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/Honey_Honey_feat._AYUSE_KOZUE "wikilink")」を除く）全てにおいて、オリコン\* デイリーシングルチャートの最高位でトップ10にランクインし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[5月7日](../Page/5月7日.md "wikilink")発売の「[MOTHER](../Page/MOTHER_\(SEAMOの曲\).md "wikilink")」は自身のシングル最高となるウィークリーチャート初登場5位を記録した。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）、NEWSに[Happy Birthdayを楽曲提供した](../Page/Happy_Birthday.md "wikilink")。なお、**SEAMO**にとってはジャニーズ事務所所属のアーティストへの楽曲提供は初である（のちに自らも[LOVE SONG COLLECTIONでセルフカバー](https://ja.wikipedia.org/wiki/LOVE_SONG_COLLECTION "wikilink")）。また同年[10月15日](../Page/10月15日.md "wikilink")発売の「Continue」は、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系スペシャルドラマ](../Page/日本テレビ放送網.md "wikilink")「[夢をかなえるゾウ](https://ja.wikipedia.org/wiki/夢をかなえるゾウ "wikilink")」の主題歌に起用された。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）[10月17日](../Page/10月17日.md "wikilink")には、ロックバンド[SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")とのコラボシングル「[ROCK THIS WAY](https://ja.wikipedia.org/wiki/ROCK_THIS_WAY "wikilink")」をリリース。SEAMOがSPYAIR主催のライブに出演したのがきっかけとなり、コラボとなった\[1\]。
 
-同郷の[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")・[Nobodyknows+](../Page/Nobodyknows+.md "wikilink") ・[AZU](../Page/AZU.md "wikilink")やギャングスタラップ風日本語ラップの["E"qual](../Page/"E"qual.md "wikilink")とは現在も交流があり、以前は[TOKONA-X](../Page/TOKONA-X.md "wikilink")とも親交があった。特に後輩でもあるHOME MADE 家族にはシーモネーター時代から「てんぐの兄貴」と呼ばれている。シーモネーターとして活動していたころに、愛知県を中心に展開する弁当チェーン「[ベントマン](../Page/ベントマン.md "wikilink")」に[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")を提供している。スポーツは名古屋を本拠地とする[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のファン。
+同郷の[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")・[Nobodyknows+](../Page/Nobodyknows+.md "wikilink") ・[AZU](../Page/AZU.md "wikilink")やギャングスタラップ風日本語ラップの["E"qual](../Page/"E"qual.md "wikilink")とは現在も交流があり、以前は[TOKONA-X](../Page/TOKONA-X.md "wikilink")とも親交があった。特に後輩でもあるHOME MADE 家族にはシーモネーター時代から「てんぐの兄貴」と呼ばれている。シーモネーターとして活動していたころに、愛知県を中心に展開する弁当チェーン「[ベントマン](../Page/ベントマン.md "wikilink")」に[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")を提供している。スポーツは名古屋を本拠地とする[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のファン。
 
 趣味は[競馬](../Page/競馬.md "wikilink")で、最も好きな馬は[笠松競馬場](../Page/笠松競馬場.md "wikilink")から[中央競馬](../Page/中央競馬.md "wikilink")に移籍して大レースで好勝負を繰り広げた[オグリキャップ](../Page/オグリキャップ.md "wikilink")だという。自身で[一口馬主](../Page/一口馬主.md "wikilink")としても出資しており\[2\]、現役では[ラウダシオン](../Page/ラウダシオン.md "wikilink")(2020年[NHKマイルカップ](../Page/NHKマイルカップ.md "wikilink"))、[ルフトシュトローム](../Page/ルフトシュトローム.md "wikilink")(2020年[ニュージーランドトロフィー](../Page/ニュージーランドトロフィー.md "wikilink"))\[3\]、ルーカス(2017年東京スポーツ杯2歳S2着、GI6勝馬[モーリスの](https://ja.wikipedia.org/wiki/モーリス_\(競走馬\) "wikilink")[全弟](https://ja.wikipedia.org/wiki/競走馬の血統#兄弟姉妹の関係 "wikilink"))、過去にはエピカリス(2017年UAEダービー2着)、[ウインガニオン](https://ja.wikipedia.org/wiki/ウインガニオン "wikilink")(2017年[中京記念](../Page/中京記念.md "wikilink"))、[タッチングスピーチ](https://ja.wikipedia.org/wiki/タッチングスピーチ "wikilink")(2015年[ローズステークス](../Page/ローズステークス.md "wikilink"))、[レッドアリオン](https://ja.wikipedia.org/wiki/レッドアリオン "wikilink")(2015年[マイラーズカップ](../Page/マイラーズカップ.md "wikilink"))などに出資している\[4\]。その延長で[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](../Page/馬主.md "wikilink")資格も取得している\[5\]。
 
@@ -124,7 +124,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MOTHER_(SEAMOの曲)" title="wikilink">MOTHER</a></strong></p></td>
+<td><p><strong><a href="../Page/MOTHER_(SEAMOの曲).md" title="wikilink">MOTHER</a></strong></p></td>
 <td><p>5位</p></td>
 <td><p>DVD付初回生産限定盤：&lt;BVCR-19119/20&gt;<br />
 ギフトパッケージ限定盤：<BVCR-19124><br />
@@ -203,10 +203,10 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 #### 配信限定シングル
 
-| 枚   | リリース日                                                                    | タイトル                                                                                                                                                                                                                                     | 最高順位 | 型番             |
-| --- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------- |
-| 1st | [2009年](../Page/2009年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") | **[キミヲワスレナイ feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/キミヲワスレナイ_feat._AYUSE_KOZUE "wikilink")**                                                                                                                                    |      | 配信限定デジタルシングル   |
-| 2nd | [2011年](../Page/2011年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") | **[HOLD MY HAND](https://ja.wikipedia.org/wiki/nobodyknows+_is_dead? "wikilink")** / [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"), [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink"), SEAMO |      | 配信限定チャリティーシングル |
+| 枚   | リリース日                                                                    | タイトル                                                                                                                                                                                                                  | 最高順位 | 型番             |
+| --- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------- |
+| 1st | [2009年](../Page/2009年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") | **[キミヲワスレナイ feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/キミヲワスレナイ_feat._AYUSE_KOZUE "wikilink")**                                                                                                                 |      | 配信限定デジタルシングル   |
+| 2nd | [2011年](../Page/2011年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") | **[HOLD MY HAND](https://ja.wikipedia.org/wiki/nobodyknows+_is_dead? "wikilink")** / [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"), [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink"), SEAMO |      | 配信限定チャリティーシングル |
 
 ### アルバム
 
@@ -492,10 +492,10 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - 4.二十一世紀旗手 feat シーモネーター、ガリガリ亡者、ヤス一番?
 2.  スネークマンショー「**[ラジオ版スネークマンショー vol.1](https://ja.wikipedia.org/wiki/ラジオ版スネークマンショー_vol.1 "wikilink")**」（2001年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")発売）
       - 14.二十一世紀旗手 / nobodyknows feat シーモネーター、ガリガリ亡者、ヤス一番?
-3.  [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")「**毎日が映画のようなヒトコマ～Life is Beautiful～**」（2002年[7月31日](../Page/7月31日.md "wikilink")発売）
+3.  [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")「**毎日が映画のようなヒトコマ～Life is Beautiful～**」（2002年[7月31日](../Page/7月31日.md "wikilink")発売）
       - 8.WHO’S DA エンターテーナー？featuring シーモネーター（fromシーモネーター＆DJ TAKI-SHIT）
 4.  [ミニ塾](https://ja.wikipedia.org/wiki/ミニ塾 "wikilink")「**SMALL WORLD**」（[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")発売）
-      - 「ミニ塾。feat. 塾長」名義。[トリカブトのSMALLEST](../Page/トリカブト_\(ユニット\).md "wikilink")、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICROによる低身長ユニット](../Page/MICRO_\(ラッパー\).md "wikilink")。SEAMOは塾長として参加。
+      - 「ミニ塾。feat. 塾長」名義。[トリカブトのSMALLEST](../Page/トリカブト_\(ユニット\).md "wikilink")、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")、[HOME MADE 家族の](../Page/HOME_MADE_家族.md "wikilink")[MICROによる低身長ユニット](../Page/MICRO_\(ラッパー\).md "wikilink")。SEAMOは塾長として参加。
 5.  [闇アガリ](https://ja.wikipedia.org/wiki/闇アガリ "wikilink")「**ADVIBES**」（[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売）
       - 4.狼
 6.  [L.L.COOL J太郎](https://ja.wikipedia.org/wiki/L.L.COOL_J太郎 "wikilink")「**プッチRADIO**」（2003年[4月25日](../Page/4月25日.md "wikilink")発売）
@@ -530,7 +530,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 5.  [MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")「**[卒業、そして未来へ。](https://ja.wikipedia.org/wiki/卒業、そして未来へ。 "wikilink")**」（[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売）
       - 初登場23位
       - 「Monkey Majik + SEAMO」名義。MONKEY MAJIKコラボレーションシングル3部作第二弾。
-6.  [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")「**[FAMILIA](https://ja.wikipedia.org/wiki/FAMILIA "wikilink")**」（2007年3月14日発売）
+6.  [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")「**[FAMILIA](https://ja.wikipedia.org/wiki/FAMILIA "wikilink")**」（2007年3月14日発売）
       - 5.fantastic 3 feat. SEAMO
 7.  [手裏剣ジェット](https://ja.wikipedia.org/wiki/手裏剣ジェット "wikilink")「**[空色reflect](https://ja.wikipedia.org/wiki/空色reflect "wikilink")**」（2007年[7月18日](../Page/7月18日.md "wikilink")発売）
       - 2.こころオリジナル feat. SEAMO
@@ -543,7 +543,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - 4.恋唄 with SEAMO
 11. [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")「**[わだ家](https://ja.wikipedia.org/wiki/わだ家 "wikilink")**」（2008年[4月23日](../Page/4月23日.md "wikilink")発売）
       - 6.素直になりたい feat. SEAMO
-      - 和田アキ子に楽曲を提供したナンバー。自身の9thシングル「[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")」に別バージョンが収録。
+      - 和田アキ子に楽曲を提供したナンバー。自身の9thシングル「[MOTHER](../Page/MOTHER_\(SEAMOの曲\).md "wikilink")」に別バージョンが収録。
 12. [AZU](../Page/AZU.md "wikilink")「**[時間よ止まれ feat. SEAMO](../Page/時間よ止まれ_feat._SEAMO.md "wikilink")**」（2008年[7月2日](../Page/7月2日.md "wikilink")発売）
       - 初登場27位
       - 「心の声」以来のコラボ曲。
@@ -659,7 +659,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - (DISC-2) 14.Continue / SEAMO
 14. オムニバス「**[アイのうた WINTER REMIX](https://ja.wikipedia.org/wiki/アイのうた_WINTER_REMIX "wikilink")**」（2010年[12月1日](../Page/12月1日.md "wikilink")発売）
       - 6.時間よ止まれ feat. SEAMO -[LADY BiRD](https://ja.wikipedia.org/wiki/LADY_BiRD "wikilink") Winter Remix- / AZU
-15. オムニバス「**ぜんぶ恋がかなう歌 〜歌詞伝説〜**」（[2011年](../Page/2011年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売）
+15. オムニバス「**ぜんぶ恋がかなう歌 〜歌詞伝説〜**」（[2011年](../Page/2011年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売）
       - 3.マタアイマショウ
 16. オムニバス「**[TRF TRIBUTE ALBUM BEST](https://ja.wikipedia.org/wiki/TRF_TRIBUTE_ALBUM_BEST "wikilink")**」（[2013年](../Page/2013年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")発売）
       - 14.寒い夜だから…(オーバードライブRemix)
@@ -724,7 +724,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 | **From Now**                                                                                                          | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・日本テレビ系「[秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")」エンディングテーマ                                                                       |
 | **Hey Boy, Hey Girl feat. [BoA](../Page/BoA.md "wikilink")**                                                          | [TBS系列](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』エンディングテーマ                                                                                           |
 | **天狗〜祭りのテーマ〜**                                                                                                        | CBC『ザ・プロ野球　燃えよドラゴンズ\!』2008年度テーマ曲                                                                                                                                                                  |
-| **[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")**                                             | TBS系列「[ランク王国](../Page/ランク王国.md "wikilink")」4・5月度オープニングテーマ                                                                                                                                         |
+| **[MOTHER](../Page/MOTHER_\(SEAMOの曲\).md "wikilink")**                                                                | TBS系列「[ランク王国](../Page/ランク王国.md "wikilink")」4・5月度オープニングテーマ                                                                                                                                         |
 | **funky teacher**                                                                                                     | [カートゥーン・ネットワーク](https://ja.wikipedia.org/wiki/カートゥーン・ネットワーク "wikilink")『[クラス・オブ・ミュージック\!](../Page/クラス・オブ・ミュージック!.md "wikilink")』エンディングテーマ                                                         |
 | **[Honey Honey feat. AYUSE KOZUE](https://ja.wikipedia.org/wiki/Honey_Honey_feat._AYUSE_KOZUE "wikilink")**           | TBS系アニメ『[xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink")』エンディングテーマ                                                                                                                                    |
 | **Brotherhood**                                                                                                       | 第55回[さっぽろ夏まつり](https://ja.wikipedia.org/wiki/さっぽろ夏まつり "wikilink")コラボレーションソング                                                                                                                      |
@@ -761,7 +761,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [トップランナー](../Page/トップランナー.md "wikilink")（2006年9月3日）シーモネーター時代の話から、自身の挫折、そして再デビューまでを語った
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2006年10月7日）「マタアイマショウ」をパフォーマンス
   - [紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（2006年12月31日）「ルパン・ザ・ファイヤー」、「マタアイマショウ」をパフォーマンス
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2008年5月9日）「[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(SEAMOの曲\) "wikilink")」をパフォーマンス
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2008年5月9日）「[MOTHER](../Page/MOTHER_\(SEAMOの曲\).md "wikilink")」をパフォーマンス
   - ミュージックステーション（2008年5月9日）「MOTHER」をパフォーマンス
   - COUNT DOWN TV（2008年5月11日）「MOTHER」をパフォーマンス
   - MUSIC JAPAN（2008年10月16日）「[Continue](../Page/Continue_\(SEAMOの曲\).md "wikilink")」をパフォーマンス
@@ -815,7 +815,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink")
   - [ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink")
   - [MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - [PES](../Page/PES.md "wikilink")
   - [CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
@@ -839,7 +839,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")
   - [九州男](https://ja.wikipedia.org/wiki/九州男 "wikilink")
-  - [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")
+  - [キマグレン](../Page/キマグレン.md "wikilink")
   - [YA-KYIM](../Page/YA-KYIM.md "wikilink")
   - [MASH](https://ja.wikipedia.org/wiki/MASH "wikilink")
   - [KAME\&L.N.K](../Page/KAME&L.N.K.md "wikilink")

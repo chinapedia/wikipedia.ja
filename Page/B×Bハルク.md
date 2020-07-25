@@ -142,7 +142,7 @@
       - 第6代（w / [CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")&[ジャック・エバンス](../Page/ジャック・エバンス.md "wikilink")）
       - 第9代（w / [アンソニー・W・森](../Page/アンソニー・W・森.md "wikilink")&[スペル・シーサー](../Page/スペル・シーサー.md "wikilink")）
       - 第14代・17代（w / [鷹木信悟](../Page/鷹木信悟.md "wikilink")&[サイバー・コング](../Page/吉田隆司.md "wikilink")）
-      - 第24代（w / [吉野正人](../Page/吉野正人.md "wikilink")&[PAC](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")）
+      - 第24代（w / [吉野正人](../Page/吉野正人.md "wikilink")&[PAC](../Page/ベンジャミン・サッタリー.md "wikilink")）
       - 第36代（w / 戸澤陽&谷崎なおき）
       - 第44代（w / YAMATO&サイバー・コング）
       - 第61代（w / YAMATO&[Kzy](../Page/Kzy.md "wikilink")）

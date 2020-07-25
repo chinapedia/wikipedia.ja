@@ -1,7 +1,7 @@
 > この記事は[TODAY IS ANOTHER DAY](https://ja.wikipedia.org/wiki/TODAY_IS_ANOTHER_DAY)から翻訳されています。
 
 
-『**TODAY IS ANOTHER DAY**』（トゥデイ・イズ・アナザー・デイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")による[ソロユニット](../Page/一人バンド.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1996年](../Page/1996年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[B-Gram RECORDSから発売した](../Page/B-Gram_RECORDS.md "wikilink")7枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**TODAY IS ANOTHER DAY**』（トゥデイ・イズ・アナザー・デイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")による[ソロユニット](../Page/一人バンド.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")が[1996年](../Page/1996年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[B-Gram RECORDSから発売した](../Page/B-Gram_RECORDS.md "wikilink")7枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 

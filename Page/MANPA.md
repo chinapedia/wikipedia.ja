@@ -501,7 +501,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/RD_潜脳調査室" title="wikilink">RD 潜脳調査室</a></p></td>
+<td><p><a href="../Page/RD_潜脳調査室.md" title="wikilink">RD 潜脳調査室</a></p></td>
 <td><p>2008年5月20日 - 9月30日<br />
 2008年10月7日 - 11月25日</p></td>
 <td><p>第1部（2:09 - 2:39）<br />
@@ -1008,7 +1008,7 @@ AT-X</p></td>
     第1・第2シリーズは、2015年4月期にサンテレビで遅れ放送。第3シリーズ以降はサンテレビで同時期放送。
   - [石田とあさくら](https://ja.wikipedia.org/wiki/石田とあさくら "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
-  - [有頂天家族](https://ja.wikipedia.org/wiki/有頂天家族 "wikilink")
+  - [有頂天家族](../Page/有頂天家族.md "wikilink")
     近畿地方では作品の舞台でもある[京都府](../Page/京都府.md "wikilink")の放送局・KBS京都とサンテレビの[プライムタイム](../Page/プライムタイム.md "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")で放送。
   - [魔法少女大戦](https://ja.wikipedia.org/wiki/魔法少女大戦 "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。

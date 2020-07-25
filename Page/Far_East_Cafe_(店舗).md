@@ -215,7 +215,7 @@
   - シングル『[さよならは 言わない](https://ja.wikipedia.org/wiki/さよならは_言わない "wikilink")』レコーディング
   - 『アースデーコンサート』出演
   - [岩手県](../Page/岩手県.md "wikilink")[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")でのコンサート
-  - [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")主催のライブイベント出演
+  - [キマグレン](../Page/キマグレン.md "wikilink")主催のライブイベント出演
   - [MONGOL 800主催の沖縄でのライブイベント](https://ja.wikipedia.org/wiki/MONGOL_800 "wikilink")『What a Wonderful World\!\!』出演
   - 『クリスマスの約束』ミーティング〜収録\[15\]・他
 

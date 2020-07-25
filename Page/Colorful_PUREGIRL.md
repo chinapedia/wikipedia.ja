@@ -54,8 +54,8 @@
 ## 連載漫画・小説
 
   - 魔法少女町内に現る（[小池定路](https://ja.wikipedia.org/wiki/小池定路 "wikilink")） - [2003年](../Page/2003年.md "wikilink")1月号 - 10月号。後に『[魔法少女チキチキ](https://ja.wikipedia.org/wiki/魔法少女チキチキ "wikilink")』へ改題し、[ジャイブ](../Page/ジャイブ.md "wikilink")『[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")』で連載された。
-  - ロングロングウェイホーム（[かかし朝浩](https://ja.wikipedia.org/wiki/かかし朝浩 "wikilink")）- 『Puregirl』時代の『ロングウェイホーム』を改題し、『Colorful PUREGIRL』でも連載。[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")から単行本化。
-  - [東方香霖堂](../Page/東方香霖堂_〜_Curiosities_of_Lotus_Asia..md "wikilink")（[ZUN](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")）- 2004年1月号 - 2004年10月号。挿絵は[唖采弦二が担当](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。休刊に伴い、『magazine elfics』『[電撃萌王](../Page/電撃萌王.md "wikilink")』などへ移籍。2007年に完結し、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")から単行本化。
+  - ロングロングウェイホーム（[かかし朝浩](../Page/かかし朝浩.md "wikilink")）- 『Puregirl』時代の『ロングウェイホーム』を改題し、『Colorful PUREGIRL』でも連載。[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")から単行本化。
+  - [東方香霖堂](../Page/東方香霖堂_〜_Curiosities_of_Lotus_Asia..md "wikilink")（[ZUN](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")）- 2004年1月号 - 2004年10月号。挿絵は[唖采弦二が担当](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。休刊に伴い、『magazine elfics』『[電撃萌王](../Page/電撃萌王.md "wikilink")』などへ移籍。2007年に完結し、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")から単行本化。
 
 ## 外部リンク
 

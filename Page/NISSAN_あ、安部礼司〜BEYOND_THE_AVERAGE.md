@@ -48,7 +48,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     実家は[目白](../Page/目白.md "wikilink")の[資産家](https://ja.wikipedia.org/wiki/資産家 "wikilink")であり、祖父は経済界と繋がりのある大物らしいが、詳細は不明。刈谷の勤めるIT会社の社長である[赤井彗星](../Page/シャア・アズナブル.md "wikilink")（声：[池田秀一](../Page/池田秀一.md "wikilink")）という名の兄がおり、彗星には「[クラハーシア](../Page/セイラ・マス.md "wikilink")」と呼ばれている。母親は[アフリカ](../Page/アフリカ.md "wikilink")で[井戸](../Page/井戸.md "wikilink")を掘る活動を行う[NGOを主宰し自らも現地へ赴くため](../Page/非政府組織.md "wikilink")、日本を離れていることが多い。
     愛車は[日産・オッティ](../Page/日産・オッティ.md "wikilink")だったが、引越を機に父親に譲った。特技はオッティの[替え歌](../Page/替え歌.md "wikilink")を作ること。
     愛読雑誌は『[CanCam](../Page/CanCam.md "wikilink")』『[AneCan](../Page/AneCan.md "wikilink")』『からだにいいこと』。
-    携帯の着信音は[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の「[恋のつぼみ](../Page/恋のつぼみ.md "wikilink")」→[Kaoru Amaneの](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")「[タイヨウのうた](../Page/タイヨウのうた_\(曲\).md "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")」→[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の「[Baby Don't Cry](../Page/Baby_Don't_Cry_\(安室奈美恵の曲\).md "wikilink")」→[KOH+](../Page/KOH+.md "wikilink")の「[KISSして](../Page/KISSして.md "wikilink")」→[SMAP](../Page/SMAP.md "wikilink")の「[そのまま](https://ja.wikipedia.org/wiki/そのまま/White_Message "wikilink")」→[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Prisoner Of Love](https://ja.wikipedia.org/wiki/Prisoner_Of_Love "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[HANABI](https://ja.wikipedia.org/wiki/HANABI_\(Mr.Childrenの曲\) "wikilink")」→[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") feat.[FUZZY CONTROLの](../Page/FUZZY_CONTROL.md "wikilink")「[その先へ](https://ja.wikipedia.org/wiki/その先へ "wikilink")」→[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の「[戻れない明日](https://ja.wikipedia.org/wiki/戻れない明日 "wikilink")」（全てドラマの主題歌、もしくは挿入歌である）。
+    携帯の着信音は[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の「[恋のつぼみ](../Page/恋のつぼみ.md "wikilink")」→[Kaoru Amaneの](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")「[タイヨウのうた](../Page/タイヨウのうた_\(曲\).md "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")」→[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の「[Baby Don't Cry](../Page/Baby_Don't_Cry_\(安室奈美恵の曲\).md "wikilink")」→[KOH+](../Page/KOH+.md "wikilink")の「[KISSして](../Page/KISSして.md "wikilink")」→[SMAP](../Page/SMAP.md "wikilink")の「[そのまま](https://ja.wikipedia.org/wiki/そのまま/White_Message "wikilink")」→[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Prisoner Of Love](../Page/Prisoner_Of_Love.md "wikilink")」→[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[HANABI](https://ja.wikipedia.org/wiki/HANABI_\(Mr.Childrenの曲\) "wikilink")」→[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") feat.[FUZZY CONTROLの](../Page/FUZZY_CONTROL.md "wikilink")「[その先へ](https://ja.wikipedia.org/wiki/その先へ "wikilink")」→[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の「[戻れない明日](https://ja.wikipedia.org/wiki/戻れない明日 "wikilink")」（全てドラマの主題歌、もしくは挿入歌である）。
   - 安部 永太（あべ えいた）：[沢口千恵](../Page/沢口千恵.md "wikilink")（乳児期）　[榎本泰貴](https://ja.wikipedia.org/wiki/榎本泰貴 "wikilink")（幼少期）　[宮本奈津美](https://ja.wikipedia.org/wiki/宮本奈津美 "wikilink")（シーズン13～）
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")生まれ。
     名前の由来は飛行操縦士を意味する「アビエイター」。安部礼司・優夫妻の長男。
@@ -78,7 +78,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
     趣味は自分の経験を元にした[官能小説](../Page/官能小説.md "wikilink")の執筆。
     携帯の着信音は[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[いとしのエリー](../Page/いとしのエリー.md "wikilink")」。愛車は[日産・エルグランド](../Page/日産・エルグランド.md "wikilink")。
   - 姫川 皐月（ひめかわ さつき）：[平田裕香](../Page/平田裕香.md "wikilink")\[8\]
-    シーズン4から登場。北海道[夕張市](../Page/夕張市.md "wikilink")出身。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")生まれ。愛称は「姫」または「姫ちゃん」。
+    シーズン4から登場。北海道[夕張市](../Page/夕張市.md "wikilink")出身。[1986年](../Page/1986年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")生まれ。愛称は「姫」または「姫ちゃん」。
     開発本部第2グループ所属で逸田の部下だが、性格や仕事の仕方は逸田と正反対である。
     美少女な容姿と、押しの弱い性格（事ある毎に逸田にイビられている）に加え、たまに意味不明なオトボケな言動もしてしまう。その反面、冷静な分析力と強かな一面も持つ。
     逸田と共通の趣味（歴女）を持つが（[石田三成](../Page/石田三成.md "wikilink")のファン）、なぜかそれも打ち解けあうきっかけに役立っていない。
@@ -224,7 +224,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - [武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink") - 新入社員「百獣野 王太郎」として出演。
   - [さかなクン](../Page/さかなクン.md "wikilink") - 魚に詳しいサラリーマン「魚君（うおぎみ）」として出演。
   - [りゅうちぇる](https://ja.wikipedia.org/wiki/りゅうちぇる "wikilink") - 安部と同じ会社の営業課主任「虎舞竜一」を演じた。だが、変化して「ちぇるちぇるランドのりゅうちぇる主任」とキャラクターが変わる。
-  - [アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ_\(お笑いコンビ\) "wikilink") - [孫悟空にあこがれる営業部の若手社員](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")「[野沢雅男](../Page/野沢雅子.md "wikilink")」役、および[ナレーション](../Page/八奈見乗児.md "wikilink")。
+  - [アイデンティティ](../Page/アイデンティティ_\(お笑いコンビ\).md "wikilink") - [孫悟空にあこがれる営業部の若手社員](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")「[野沢雅男](../Page/野沢雅子.md "wikilink")」役、および[ナレーション](../Page/八奈見乗児.md "wikilink")。
   - [山下真司](../Page/山下真司.md "wikilink") - 安部と同じ会社の[泣き虫部長こと](../Page/スクール☆ウォーズ.md "wikilink")「滝沢田賢治郎」として出演\[23\]。
 
 ### その他の登場人物
@@ -502,7 +502,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
   - 2018年1月28日、日産自動車グローバル本社ギャラリーにて開催
       - ゲストは宮田和弥（[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")）。
-      - FM AVERAGEへのサポートとしてスペシャルウィークなどで共演したこともある『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』の[高橋万里恵](https://ja.wikipedia.org/wiki/高橋万里恵 "wikilink")\[38\]を迎え、オリジナルラジオドラマなどの合間で出演した。
+      - FM AVERAGEへのサポートとしてスペシャルウィークなどで共演したこともある『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』の[高橋万里恵](https://ja.wikipedia.org/wiki/高橋万里恵 "wikilink")\[38\]を迎え、オリジナルラジオドラマなどの合間で出演した。
       - [あべフェス2018〜開局\! FM AVERAGE〜](http://www.tfm.co.jp/abe/abefes2018/)
 
 ### チーム安部礼司のコラボツアー2018 in 横浜
@@ -652,7 +652,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 </tr>
 <tr class="even">
 <td><p>2015年5月9日</p></td>
-<td><p>新潟県<a href="https://ja.wikipedia.org/wiki/長岡市" title="wikilink">長岡市</a></p></td>
+<td><p>新潟県<a href="../Page/長岡市.md" title="wikilink">長岡市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アオーレ長岡" title="wikilink">アオーレ長岡</a></p></td>
 <td><p>安部礼司、刈谷勇、飯野平太、鞠谷アンジュ</p></td>
 <td><p>FM-NIIGATAのイベントで収録した。</p></td>
@@ -762,7 +762,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 
   - 脚本：[北阪昌人](http://homepage2.nifty.com/m-kitasaka/)、[村上大樹](../Page/村上大樹.md "wikilink")、[マンボウやしろ](https://ja.wikipedia.org/wiki/マンボウやしろ "wikilink")、[小島万由子](https://ja.wikipedia.org/wiki/小島万由子 "wikilink")、[菊池百恵](https://ja.wikipedia.org/wiki/菊池百恵 "wikilink")
   - 協力：[クリオネ](https://ja.wikipedia.org/wiki/クリオネ_\(企業\) "wikilink")、[ナイロビ](http://nairobi.sessya.com/index.html)、[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")、[青二プロダクション](../Page/青二プロダクション.md "wikilink")、[劇団青年座](../Page/劇団青年座.md "wikilink")、[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")
-  - 企画・原案・総合プロデューサー：[堀内貴之](https://ja.wikipedia.org/wiki/堀内貴之 "wikilink")
+  - 企画・原案・総合プロデューサー：[堀内貴之](../Page/堀内貴之.md "wikilink")
   - プロデューサー：高橋智彦（TOKYO FM 編成制作局番組制作部）
   - 演出：勝島康一（MEGAHOUSE）、山根一森
   - ナレーター：[五十嵐明](../Page/五十嵐明_\(俳優\).md "wikilink")

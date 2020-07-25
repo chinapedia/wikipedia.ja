@@ -1,7 +1,7 @@
 > この記事は[ASTRONAUTS](https://ja.wikipedia.org/wiki/ASTRONAUTS)から翻訳されています。
 
 
-『**ASTRONAUTS**』（アストロノーツ）は、[史村翔](../Page/武論尊.md "wikilink")（武論尊）原作・[沖一](https://ja.wikipedia.org/wiki/沖一 "wikilink")作画による漫画。『[ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[1984年](../Page/1984年.md "wikilink")6号から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")2号まで連載された。
+『**ASTRONAUTS**』（アストロノーツ）は、[史村翔](../Page/武論尊.md "wikilink")（武論尊）原作・[沖一](https://ja.wikipedia.org/wiki/沖一 "wikilink")作画による漫画。『[ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[1984年](../Page/1984年.md "wikilink")6号から[1986年](../Page/1986年.md "wikilink")2号まで連載された。
 
 史村翔が同じく原作を書いた『[ファントム無頼](../Page/ファントム無頼.md "wikilink")』を自衛隊パイロットからNASAの宇宙飛行士に置き換えたリメイク的作品。原作者である史村翔は宇宙物に興味は無かったが、編集者に[スペースシャトル](../Page/スペースシャトル.md "wikilink")展へ無理やり連れて行かれたことがきっかけとなっている。
 

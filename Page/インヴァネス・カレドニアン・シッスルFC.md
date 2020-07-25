@@ -11,13 +11,13 @@
 
 2014年3月16日、[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")決勝に進出したが、[PK戦](../Page/PK戦.md "wikilink")の末、[アバディーンFC](../Page/アバディーンFC.md "wikilink")に敗れて準優勝に終わった\[1\]。
 
-2015年5月30日、[スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink")決勝で[フォルカークFC](../Page/フォルカークFC.md "wikilink")に2-1で勝利し、初優勝を果たした\[2\]。インヴァネスCTはクラブ史上初の欧州カップ戦となる[UEFAヨーロッパリーグ 2015-16出場権](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16 "wikilink")（予選2回戦）を獲得した\[3\]
+2015年5月30日、[スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink")決勝で[フォルカークFC](../Page/フォルカークFC.md "wikilink")に2-1で勝利し、初優勝を果たした\[2\]。インヴァネスCTはクラブ史上初の欧州カップ戦となる[UEFAヨーロッパリーグ 2015-16出場権](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16 "wikilink")（予選2回戦）を獲得した\[3\]
 
 2016-17シーズンは下位へ低迷し、最終順位を最下位で終えたことにより2部降格が決定した。
 
 ## タイトル
 
-  - **[スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink"):**
+  - **[スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink"):**
       - 2014-15
 
 <!-- end list -->
@@ -43,7 +43,7 @@
 <th><p>シーズン</p></th>
 <th><p>リーグ</p></th>
 <th><p>ディビジョン</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/スコティッシュカップ" title="wikilink">スコティッシュ<br />
+<th><p><a href="../Page/スコティッシュカップ.md" title="wikilink">スコティッシュ<br />
 カップ</a></p></th>
 <th><p><a href="../Page/スコティッシュリーグカップ.md" title="wikilink">リーグカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/スコティッシュ・チャレンジカップ" title="wikilink">チャレンジ<br />

@@ -98,7 +98,7 @@
 
 ### 平氏
 
-  - [平清盛](../Page/平清盛.md "wikilink")：**[辰巳柳太郎](https://ja.wikipedia.org/wiki/辰巳柳太郎 "wikilink")**
+  - [平清盛](../Page/平清盛.md "wikilink")：**[辰巳柳太郎](../Page/辰巳柳太郎.md "wikilink")**
   - [平時子](../Page/平時子.md "wikilink")→二位の尼：**[長島丸子](https://ja.wikipedia.org/wiki/長島丸子 "wikilink")**
   - [平宗盛](../Page/平宗盛.md "wikilink")：[東千代之介](../Page/東千代之介.md "wikilink")
   - [平知盛](../Page/平知盛.md "wikilink")：**[市村竹之丞](../Page/中村富十郎_\(5代目\).md "wikilink")**
@@ -138,7 +138,7 @@
   - [高階泰経](../Page/高階泰経.md "wikilink")：*' [坂東蓑助](../Page/坂東三津五郎_\(9代目\).md "wikilink")*'
   - [平知康](../Page/平知康.md "wikilink")：[市村家橘](https://ja.wikipedia.org/wiki/市村吉五郎_\(2代目\) "wikilink")
   - [藤原成経](../Page/藤原成経.md "wikilink")：**[猿若清方](https://ja.wikipedia.org/wiki/猿若清方 "wikilink")**
-  - [一條能保](../Page/一条能保.md "wikilink")：[林成年](https://ja.wikipedia.org/wiki/林成年 "wikilink")
+  - [一條能保](../Page/一条能保.md "wikilink")：[林成年](../Page/林成年.md "wikilink")
 
 ### その他
 

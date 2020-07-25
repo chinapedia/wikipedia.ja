@@ -1,7 +1,7 @@
 > この記事は[ジェームズ・H・ウィルキンソン](https://ja.wikipedia.org/wiki/ジェームズ・H・ウィルキンソン)から翻訳されています。
 
 
-**ジェームズ・ハーディ・ウィルキンソン**（James Hardy Wilkinson、[1919年](../Page/1919年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")）は、[物理学](../Page/物理学.md "wikilink")や[工学](../Page/工学.md "wikilink")に有益な[応用数学](../Page/応用数学.md "wikilink")と[計算機科学](../Page/計算機科学.md "wikilink")の境界領域である[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")の分野で有名\[1\]。
+**ジェームズ・ハーディ・ウィルキンソン**（James Hardy Wilkinson、[1919年](../Page/1919年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [1986年](../Page/1986年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")）は、[物理学](../Page/物理学.md "wikilink")や[工学](../Page/工学.md "wikilink")に有益な[応用数学](../Page/応用数学.md "wikilink")と[計算機科学](../Page/計算機科学.md "wikilink")の境界領域である[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")の分野で有名\[1\]。
 
 ## 経歴
 

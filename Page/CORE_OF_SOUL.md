@@ -129,7 +129,7 @@
     3.  Purple Sky -China Blue Version-\[6:00\]
     4.  Purple Sky -English-a-Wish Version-\[6:01\]
     5.  (エンハンスド)“In Your Arms" MUSIC CLIP “Purple Sky" 対訳
-8.  アゲハ（[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売）オリコン90位
+8.  アゲハ（[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売）オリコン90位
     1.  アゲハ\[3:59\]
           -
             作詞・作曲：Fukko／編曲：Yohey Tsukasaki

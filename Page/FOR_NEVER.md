@@ -43,7 +43,7 @@
 
 その後、[2011年](../Page/2011年.md "wikilink")末にオリジナル・マスターが全曲発見され、遠藤のメジャーデビュー30周年記念盤として、『[I was THE STALIN〜絶賛解散中〜完全版](https://ja.wikipedia.org/wiki/I_was_THE_STALIN〜絶賛解散中〜完全版 "wikilink")』というタイトルで[2012年](../Page/2012年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")にリリースされた\[18\]\[19\]。
 
-[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")にはオリジナル盤を再現した[SHM-CD盤として再リリースされ](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")、[2016年](../Page/2016年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にはオリジナル盤を再現したアナログ盤として再リリースされた\[20\]\[21\]。
+[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")にはオリジナル盤を再現した[SHM-CD盤として再リリースされ](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")、[2016年](../Page/2016年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にはオリジナル盤を再現したアナログ盤として再リリースされた\[20\]\[21\]。
 
 ## 収録曲
 
@@ -151,7 +151,7 @@
 <td><p>5</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
 <td><p>徳間ジャパン／WAX RECORDS</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>TKCA-10117</p></td>
 <td><p>-</p></td>
 <td><p>オリジナル盤を再現</p></td>

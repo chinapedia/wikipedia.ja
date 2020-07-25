@@ -7,7 +7,7 @@
 
 那覇市と[姉妹都市](../Page/姉妹都市.md "wikilink")を結んでいる[ホノルル](../Page/ホノルル.md "wikilink")（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")州都）を中心に[オアフ島](../Page/オアフ島.md "wikilink")で毎年12月の第2日曜日に開催されている[ホノルルマラソン](../Page/ホノルルマラソン.md "wikilink")にちなんで、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に那覇市とホノルル市の姉妹都市締結25周年を記念して第1回大会が開催された。
 
-開催日は第1回はホノルルマラソンと同じ12月8日だったが、翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の第2回から12月の第1日曜日となった（但し[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の第6回を除く）。なおこれまで大会が中止または延期されたことは1度もない。
+開催日は第1回はホノルルマラソンと同じ12月8日だったが、翌年[1986年](../Page/1986年.md "wikilink")の第2回から12月の第1日曜日となった（但し[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の第6回を除く）。なおこれまで大会が中止または延期されたことは1度もない。
 
 制限時間は6時間15分。
 
@@ -48,7 +48,7 @@
 ### オフィシャルスポンサー
 
   - 現在
-    [NTT西日本沖縄支店](../Page/西日本電信電話.md "wikilink")（1998年まで[NTT沖縄支店](../Page/日本電信電話.md "wikilink")）、[琉球銀行](../Page/琉球銀行.md "wikilink")、[アンダーアーマー](../Page/アンダーアーマー.md "wikilink")(2015年から)、[エヌエヌ生命保険](https://ja.wikipedia.org/wiki/エヌエヌ生命保険 "wikilink")(2015年から)、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）、[佐藤製薬](../Page/佐藤製薬.md "wikilink")(2019年から)　
+    [NTT西日本沖縄支店](../Page/西日本電信電話.md "wikilink")（1998年まで[NTT沖縄支店](../Page/日本電信電話.md "wikilink")）、[琉球銀行](../Page/琉球銀行.md "wikilink")、[アンダーアーマー](../Page/アンダーアーマー.md "wikilink")(2015年から)、[エヌエヌ生命保険](https://ja.wikipedia.org/wiki/エヌエヌ生命保険 "wikilink")(2015年から)、[全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）、[佐藤製薬](../Page/佐藤製薬.md "wikilink")(2019年から)　
   - 過去
     [沖縄コカ・コーラボトリング](../Page/沖縄コカ・コーラボトリング.md "wikilink")、 [オリオンビール](../Page/オリオンビール.md "wikilink")、[全労済](../Page/全国労働者共済生活協同組合連合会.md "wikilink")、[日本航空](../Page/日本航空.md "wikilink")、[りゅうせき](../Page/りゅうせき.md "wikilink")ネットワーク会議、[ニューバランス](../Page/ニューバランス.md "wikilink")ほか
 
@@ -98,7 +98,7 @@
 | 大会回数（開催日）                                                                                      | 優勝選手名                                                 | 都道府県 | 優勝タイム          |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---- | -------------- |
 | 1（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月8日](../Page/12月8日.md "wikilink")） | 加藤竹男                                                  | 愛知   | 2時間31分51秒      |
-| 2（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")） | 室井道人                                                  | 神奈川  | 2時間31分37秒      |
+| 2（[1986年](../Page/1986年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")）                    | 室井道人                                                  | 神奈川  | 2時間31分37秒      |
 | 3（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")） | 佐藤健二                                                  | 宮城   | 2時間31分54秒      |
 | 4（[1988年](../Page/1988年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")）                    | 佐藤健二                                                  | 宮城   | 2時間33分32秒      |
 | 5（[1989年](../Page/1989年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")）                    | 天久久志                                                  | 沖縄   | 2時間27分27秒      |

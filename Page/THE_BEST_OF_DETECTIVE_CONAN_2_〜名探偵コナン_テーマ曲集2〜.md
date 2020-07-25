@@ -11,7 +11,7 @@
 
 ## 収録曲の解説
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の「[明日を夢見て](../Page/明日を夢見て_\(曲\).md "wikilink")」は、シングルバージョンをもとに[リミックス](../Page/リミックス.md "wikilink")された[ロンドン](../Page/ロンドン.md "wikilink")リマスタリングバージョンで、[2020年](../Page/2020年.md "wikilink")現在、このアルバムしか収録されていない。
+  - [ZARD](../Page/ZARD.md "wikilink")の「[明日を夢見て](../Page/明日を夢見て_\(曲\).md "wikilink")」は、シングルバージョンをもとに[リミックス](../Page/リミックス.md "wikilink")された[ロンドン](../Page/ロンドン.md "wikilink")リマスタリングバージョンで、[2020年](../Page/2020年.md "wikilink")現在、このアルバムしか収録されていない。
 
 ## 記録
 

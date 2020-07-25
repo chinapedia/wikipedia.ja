@@ -6,7 +6,7 @@
 ## タイムテーブル
 
   - 9:00　オープニング
-  - 9:15　[交通情報](../Page/交通情報.md "wikilink")（提供：[呉工業](https://ja.wikipedia.org/wiki/呉工業 "wikilink")）
+  - 9:15　[交通情報](../Page/交通情報.md "wikilink")（提供：[呉工業](../Page/呉工業.md "wikilink")）
   - 9:20　WORLD CONNEXION
   - 9:45　LIFE IS SUPREME
   - 10:08

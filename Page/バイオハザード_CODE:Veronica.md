@@ -1,7 +1,7 @@
 > この記事は[バイオハザード CODE:Veronica](https://ja.wikipedia.org/wiki/バイオハザード_CODE:Veronica)から翻訳されています。
 
 
-『**バイオハザード CODE：Veronica**』（バイオハザード コード:ベロニカ、BIOHAZARD CODE：Veronica）は、[2000年](../Page/2000年.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用として発売された『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』第4作目の[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。本作以降はタイトルナンバーと発売順が一致しなくなった。開発は[ネクステック](../Page/ネクスエンタテインメント.md "wikilink")。
+『**バイオハザード CODE：Veronica**』（バイオハザード コード:ベロニカ、BIOHAZARD CODE：Veronica）は、[2000年](../Page/2000年.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用として発売された『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』第4作目の[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。本作以降はタイトルナンバーと発売順が一致しなくなった。開発は[ネクステック](../Page/ネクスエンタテインメント.md "wikilink")。
 
 [CERO](https://ja.wikipedia.org/wiki/CERO "wikilink")の年齢区分によりとされている。旧年齢区分から新区分D（17歳以上対象）となった。
 

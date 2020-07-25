@@ -943,7 +943,7 @@ LACM-14855（アニメ盤）</p></td>
 | BIG BANG EXPLOSION 〜Song for Ragnarok Party〜 | オンラインゲーム『ラグナロクオンライン』イメージソング                                                                                                                                |                                                                                                                                           |
 | 爆鎮完了\! レスキューファイアー                            | TVドラマ『トミカヒーロー レスキューファイアー』新OP主題歌                                                                                                                            |                                                                                                                                           |
 | いでよ ガイアレオン                                   | TVドラマ『トミカヒーロー レスキューファイアー』挿入歌                                                                                                                               |                                                                                                                                           |
-| 2010年                                        | TRANSFORMERS EVO.                                                                                                                                          | TVアニメ『[トランスフォーマー アニメイテッド](https://ja.wikipedia.org/wiki/トランスフォーマー_アニメイテッド "wikilink")』OP主題歌                                               |
+| 2010年                                        | TRANSFORMERS EVO.                                                                                                                                          | TVアニメ『[トランスフォーマー アニメイテッド](../Page/トランスフォーマー_アニメイテッド.md "wikilink")』OP主題歌                                                                  |
 | MAXIMIZER                                    | テレビ東京 『[アニソ〜ンぷらす](https://ja.wikipedia.org/wiki/アニソンぷらす "wikilink")』2010年6月度オープニングテーマ                                                                      |                                                                                                                                           |
 | MAXON                                        | TVアニメ『[スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")』OP主題歌                                                  |                                                                                                                                           |
 | 牙狼 〜SAVIOR IN THE DARK〜 RED REQUIEM ver.     | 劇場版『[牙狼＜GARO＞ 〜RED REQUIEM〜](https://ja.wikipedia.org/wiki/牙狼-GARO-_〜RED_REQUIEM〜 "wikilink")』エンディング主題歌                                                    |                                                                                                                                           |
@@ -1066,7 +1066,7 @@ LACM-14855（アニメ盤）</p></td>
 <div class="NavHead" style="text-align:center;">
 </div>
 <div class="NavContent" style="text-align:center;">
-<p><a href="https://ja.wikipedia.org/wiki/須藤賢一" title="wikilink">須藤賢一</a>(Keyboards)<br />
+<p><a href="../Page/須藤賢一.md" title="wikilink">須藤賢一</a>(Keyboards)<br />
 <a href="../Page/河野陽吾.md" title="wikilink">河野陽吾</a>(Keyboards)<br />
 <a href="https://ja.wikipedia.org/wiki/松尾洋一" title="wikilink">松尾洋一</a>(Guitar)<br />
 <a href="../Page/福田洋也.md" title="wikilink">福田洋也</a>(Guitar)<br />

@@ -1,7 +1,7 @@
 > この記事は[HITACHI FAN! FUN! TODAY](https://ja.wikipedia.org/wiki/HITACHI_FAN!_FUN!_TODAY)から翻訳されています。
 
 
-『**HITACHI FAN\! FUN\! TODAY**』（ヒタチ・ファン・ファン・トゥデイ）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月までに[ニッポン放送](../Page/ニッポン放送.md "wikilink")が制作し、[NRN系列のラジオ局で放送された音楽情報番組](../Page/全国ラジオネットワーク.md "wikilink")。担当パーソナリティは[ニッポン放送](../Page/ニッポン放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[上柳昌彦](../Page/上柳昌彦.md "wikilink")\[1\]。
+『**HITACHI FAN\! FUN\! TODAY**』（ヒタチ・ファン・ファン・トゥデイ）は[1986年](../Page/1986年.md "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月までに[ニッポン放送](../Page/ニッポン放送.md "wikilink")が制作し、[NRN系列のラジオ局で放送された音楽情報番組](../Page/全国ラジオネットワーク.md "wikilink")。担当パーソナリティは[ニッポン放送](../Page/ニッポン放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[上柳昌彦](../Page/上柳昌彦.md "wikilink")\[1\]。
 
 ## 番組形態と放送時間
 

@@ -128,8 +128,8 @@
   - ブラウンシュガァデイズ（崎由けぇき）
   - ブレイズ・ソー・エッジ（吐兎モノロブ）
   - [ブレイドブレイカー](https://ja.wikipedia.org/wiki/ブレイドブレイカー "wikilink")（[鈴木恭太郎](https://ja.wikipedia.org/wiki/鈴木恭太郎 "wikilink")） ←『ヤングキングアワーズ』からの移籍
-  - [ブロッケンブラッド](https://ja.wikipedia.org/wiki/ブロッケンブラッド "wikilink")VIII（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")） ←『ヤングキングアワーズ』からの移籍
-  - [ブロッケンブラッド](https://ja.wikipedia.org/wiki/ブロッケンブラッド "wikilink")IX（塩野干支郎次）
+  - [ブロッケンブラッド](../Page/ブロッケンブラッド.md "wikilink")VIII（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")） ←『ヤングキングアワーズ』からの移籍
+  - [ブロッケンブラッド](../Page/ブロッケンブラッド.md "wikilink")IX（塩野干支郎次）
   - 放課後探偵倶楽部（[石川マサキ](../Page/石川マサキ.md "wikilink")）
   - ぼくらのふしだら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - [まるせい](https://ja.wikipedia.org/wiki/まるせい_\(漫画\) "wikilink")（[花見沢Q太郎](../Page/花見沢Q太郎.md "wikilink")） ←『ヤングキング』からの移籍

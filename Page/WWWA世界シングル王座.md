@@ -236,7 +236,7 @@
 <td><p>ジャッキー佐藤</p></td>
 <td><p>3</p></td>
 <td><p>1980年12月16日</p></td>
-<td><p>大田区体育館、<a href="https://ja.wikipedia.org/wiki/ナンシー久美" title="wikilink">ナンシー久美</a></p></td>
+<td><p>大田区体育館、<a href="../Page/ナンシー久美.md" title="wikilink">ナンシー久美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第29代</p></td>

@@ -15,8 +15,8 @@
 
   - A\&W[ルートビア](../Page/ルートビア.md "wikilink")([1919年](../Page/1919年.md "wikilink")発売開始)
   - A\&Wダイエット ルートビア([1974年](../Page/1974年.md "wikilink")発売開始)
-  - A\&W[クリームソーダ](../Page/クリームソーダ.md "wikilink")([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")発売開始)
-  - A\&Wダイエット クリームソーダ([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")発売開始)
+  - A\&W[クリームソーダ](../Page/クリームソーダ.md "wikilink")([1986年](../Page/1986年.md "wikilink")発売開始)
+  - A\&Wダイエット クリームソーダ([1986年](../Page/1986年.md "wikilink")発売開始)
   - A\&W[フロート](../Page/クリームソーダ.md "wikilink")([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")発売開始)
 
 ## 外部リンク

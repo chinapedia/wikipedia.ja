@@ -104,7 +104,7 @@
 
 （連載開始号の古い順 / タイトル五十音順）
 
-  - [ことはの王子様](https://ja.wikipedia.org/wiki/ことはの王子様 "wikilink") （[渡辺純子](../Page/渡辺純子_\(漫画家\).md "wikilink")、創刊号 - 2007年6月号掲載の後、休載中）
+  - [ことはの王子様](../Page/ことはの王子様.md "wikilink") （[渡辺純子](../Page/渡辺純子_\(漫画家\).md "wikilink")、創刊号 - 2007年6月号掲載の後、休載中）
   - [アイオン](https://ja.wikipedia.org/wiki/アイオン_\(漫画\) "wikilink") （[MR+](https://ja.wikipedia.org/wiki/MR+ "wikilink")、2005年4月号 - 2007年8月号掲載の後、休載中）
   - [ディアン先生の弟子](https://ja.wikipedia.org/wiki/ディアン先生の弟子 "wikilink") （[日下さつき](https://ja.wikipedia.org/wiki/日下さつき "wikilink")、2007年6月号 - 2009年1月号掲載の後、休載中）
   - [天国の本屋さん〜路地裏幻草子〜](https://ja.wikipedia.org/wiki/天国の本屋さん〜路地裏幻草子〜 "wikilink") （[阿倍野ちゃこ](../Page/阿倍野ちゃこ.md "wikilink")、2008年9月号 - 2009年9月号掲載の後、休載中）

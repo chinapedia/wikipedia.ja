@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **[このまま君だけを奪い去りたい <キセキVersion>](https://ja.wikipedia.org/wiki/このまま君だけを奪い去りたい/翼を広げて "wikilink")**
-      - 作詞:[上杉昇](../Page/上杉昇.md "wikilink")　作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+      - 作詞:[上杉昇](../Page/上杉昇.md "wikilink")　作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲:[岩田雅之](../Page/岩田雅之.md "wikilink")
     <!-- end list -->
       -
         31stシングル。原曲は[1stシングル](../Page/このまま君だけを奪い去りたい.md "wikilink")。（原曲の編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")）
@@ -22,7 +22,7 @@
       - 作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲:織田哲郎　編曲:[島健](../Page/島健.md "wikilink")
     <!-- end list -->
       -
-        31stシングル両A面曲。原曲は[2ndシングル](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")。（原曲の編曲:葉山たけし）
+        31stシングル両A面曲。原曲は[2ndシングル](../Page/翼を広げて.md "wikilink")。（原曲の編曲:葉山たけし）
 3.  **[ひとりじゃない](../Page/ひとりじゃない_\(DEENの曲\).md "wikilink")**
       - 作詞:[池森秀一](../Page/池森秀一.md "wikilink")　作曲:織田哲郎　編曲:[松浦晃久](https://ja.wikipedia.org/wiki/松浦晃久 "wikilink")
     <!-- end list -->
@@ -89,7 +89,7 @@
 
 ### 初回限定盤 Premium Disc
 
-1.  **Teenage dream** （[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")）
+1.  **Teenage dream** （[ZARD](../Page/ZARD.md "wikilink")）
       - 作詞:坂井泉水　作曲:栗林誠一郎　編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
       -

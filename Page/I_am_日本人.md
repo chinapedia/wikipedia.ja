@@ -32,7 +32,7 @@
   - [ブンシリ](https://ja.wikipedia.org/wiki/ブンシリ "wikilink")
   - [久保田篤](../Page/久保田篤.md "wikilink")
   - [深水三章](../Page/深水三章.md "wikilink")
-  - [緒形幹太](https://ja.wikipedia.org/wiki/緒形幹太 "wikilink")
+  - [緒形幹太](../Page/緒形幹太.md "wikilink")
   - [大和なでしこ](https://ja.wikipedia.org/wiki/大和なでしこ "wikilink")
   - [早瀬久美](../Page/早瀬久美.md "wikilink")
   - [中島マリ](https://ja.wikipedia.org/wiki/中島マリ "wikilink")

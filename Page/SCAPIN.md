@@ -5,7 +5,7 @@
 
 ## 総説
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の戦後処理において、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")が主導する[連合国軍最高司令官総司令部](../Page/連合国軍最高司令官総司令部.md "wikilink")（GHQ/SCAP、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では通称「GHQ」）より様々な指令が出された。その内容は[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")（[日本における検閲](../Page/日本における検閲.md "wikilink")）の規定、[国旗](../Page/国旗.md "wikilink")掲揚の許可、[漁業権](../Page/漁業権.md "wikilink")の範囲を定めるもの、[農地改革](../Page/農地改革.md "wikilink")、など多岐に渡る。それらの目的は日本から[国家主義](../Page/国家主義.md "wikilink")と[軍国主義](../Page/軍国主義.md "wikilink")を一掃することとされている。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の戦後処理において、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")が主導する[連合国軍最高司令官総司令部](../Page/連合国軍最高司令官総司令部.md "wikilink")（GHQ/SCAP、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では通称「GHQ」）より様々な指令が出された。その内容は[検閲](../Page/検閲.md "wikilink")（[日本における検閲](../Page/日本における検閲.md "wikilink")）の規定、[国旗](../Page/国旗.md "wikilink")掲揚の許可、[漁業権](../Page/漁業権.md "wikilink")の範囲を定めるもの、[農地改革](../Page/農地改革.md "wikilink")、など多岐に渡る。それらの目的は日本から[国家主義](../Page/国家主義.md "wikilink")と[軍国主義](../Page/軍国主義.md "wikilink")を一掃することとされている。
 
 SCAPINは、[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")20年）[9月2日](../Page/9月2日.md "wikilink")のSCAPIN-1（[一般命令第一号](https://ja.wikipedia.org/wiki/一般命令第一号 "wikilink")）から[1952年](../Page/1952年.md "wikilink")（昭和27年）[4月26日](../Page/4月26日.md "wikilink")のSCAPIN-2204まで出された。
 
@@ -31,7 +31,7 @@ SCAPINは、[1945年](../Page/1945年.md "wikilink")（[昭和](../Page/昭和.m
 
 #### 南西諸島および小笠原諸島
 
-奄美群島、琉球列島（[尖閣諸島](../Page/尖閣諸島.md "wikilink")を含む）、小笠原諸島などサンフランシスコ講和条約第3条によってアメリカ合衆国の施政権下に置かれた地域については、奄美群島や沖縄での祖国復帰運動や日米間の外交交渉の結果、1953年（昭和28年）12月25日に奄美群島、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[6月26日](../Page/6月26日.md "wikilink")に小笠原諸島、[1972年](../Page/1972年.md "wikilink")（昭和47年）[5月15日](../Page/5月15日.md "wikilink")に沖縄県が日本に復帰した。
+奄美群島、琉球列島（[尖閣諸島](../Page/尖閣諸島.md "wikilink")を含む）、小笠原諸島などサンフランシスコ講和条約第3条によってアメリカ合衆国の施政権下に置かれた地域については、奄美群島や沖縄での祖国復帰運動や日米間の外交交渉の結果、1953年（昭和28年）12月25日に奄美群島、[1968年](../Page/1968年.md "wikilink")（昭和43年）[6月26日](../Page/6月26日.md "wikilink")に小笠原諸島、[1972年](../Page/1972年.md "wikilink")（昭和47年）[5月15日](../Page/5月15日.md "wikilink")に沖縄県が日本に復帰した。
 
 #### 北方領土
 

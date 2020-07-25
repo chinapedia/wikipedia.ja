@@ -18,7 +18,7 @@
 
   - [一戸康太朗](https://ja.wikipedia.org/wiki/一戸康太朗 "wikilink")
   - [大友俊](https://ja.wikipedia.org/wiki/大友俊 "wikilink")
-  - [熊野哲也](https://ja.wikipedia.org/wiki/熊野哲也 "wikilink")
+  - [熊野哲也](../Page/熊野哲也.md "wikilink")
   - [斉藤誠](https://ja.wikipedia.org/wiki/斉藤誠_\(声優\) "wikilink")
   - [齋藤龍吾](../Page/齋藤龍吾.md "wikilink")
   - [新城健](https://ja.wikipedia.org/wiki/新城健 "wikilink")

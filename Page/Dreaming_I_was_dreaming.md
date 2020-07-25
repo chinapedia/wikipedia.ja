@@ -10,7 +10,7 @@
   - ジャケットは表は笑顔のアップ、裏は砂浜を歩く後ろ姿。
   - シングルでは初の[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")が単独で曲を手掛けた、ジャジーなスロウ[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")。
   - 妊娠で膨らんだお腹を抱えながら華麗に踊る姿も話題になった。
-  - 現時点では、オリジナル・アルバムには収録されておらず、結婚発表後に[プロデューサー](../Page/プロデューサー.md "wikilink")の[小室からの祝福祝いとして発売されたマキシ](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")「[CAN YOU CELEBRATE? (MAXI)](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」収録のアレンジバージョン(「Subconscious Mix」とそのインスト）、産休に入ってから発売されたベストアルバム『[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")』、バラードベストアルバム『[Ballada](https://ja.wikipedia.org/wiki/Ballada "wikilink")』の2枚のみとなっている。
+  - 現時点では、オリジナル・アルバムには収録されておらず、結婚発表後に[プロデューサー](../Page/プロデューサー.md "wikilink")の[小室からの祝福祝いとして発売されたマキシ](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")「[CAN YOU CELEBRATE? (MAXI)](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」収録のアレンジバージョン(「Subconscious Mix」とそのインスト）、産休に入ってから発売されたベストアルバム『[181920](../Page/181920.md "wikilink")』、バラードベストアルバム『[Ballada](https://ja.wikipedia.org/wiki/Ballada "wikilink")』の2枚のみとなっている。
   - ライブで歌われることは極めて少なく、披露されたのは2003年から2004年まで及んだツアー「[namie amuro SO CRAZY TOUR featuring BEST SINGLES](https://ja.wikipedia.org/wiki/namie_amuro_SO_CRAZY_tour_featuring_BEST_singles_2003-2004 "wikilink")」で「[SOMETHING 'BOUT THE KISS](../Page/SOMETHING_'BOUT_THE_KISS.md "wikilink")」、「[no more tears](https://ja.wikipedia.org/wiki/Think_of_me/no_more_tears "wikilink")」のメドレーと2014年のツアー「[namie amuro LIVE STYLE 2014](https://ja.wikipedia.org/wiki/namie_amuro_LIVE_STYLE_2014 "wikilink")」の日替わりで歌われた2度きりである。
   - 1999年「[うたばん](../Page/うたばん.md "wikilink")」に出演したとき、長男がなかなか寝付けないので、妊娠中のときレコーディングしたこの曲を子守唄で歌ってみたとコメントしている。しかし効果はゼロだったらしい。
 
@@ -30,7 +30,7 @@
 
   - マキシ『**CAN YOU CELEBRATE? -MAXI-**』(Subconscious Mix)
       - 祝福記念。
-  - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
+  - ベスト『**[181920](../Page/181920.md "wikilink")**』（『**181920 & films**』も同様）
   - ベスト『**[Ballada](https://ja.wikipedia.org/wiki/Ballada "wikilink")**』
       - 表記されていないが、コーラス部分と楽曲を一部再録したバージョンで収録。
   - 『**[namie amuro LIVE STYLE 2014 -Live Ballada-](https://ja.wikipedia.org/wiki/namie_amuro_LIVE_STYLE_2014#namie_amuro_LIVE_STYLE_2014_-Live_Ballada- "wikilink")**』（レンタル限定盤）

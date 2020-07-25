@@ -173,7 +173,7 @@
   - 7月26日 [SIMPLE1500実用シリーズ Vol.08 1時間でわかる株式投資](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 7月26日 [SIMPLE1500実用シリーズ Vol.09 わたしスタイルのアロマセラピー](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 7月26日 [チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")（アンフォグラムハドソン）
-  - 7月26日 [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")（コナミ）
+  - 7月26日 [GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")（コナミ）
   - 7月26日 [キッズステーション アンパンマン2 アンパンマンとだいぼうけん\!](../Page/アンパンマン.md "wikilink")（バンダイ、コントローラ同梱版あり）
   - 7月26日 [キッズステーション デジモンパーク](../Page/デジタルモンスター.md "wikilink")（バンダイ、コントローラ同梱版あり）
   - 7月26日 [キッズステーション も〜っと\! おジャ魔女どれみ MAHO堂スマイルパーティ](https://ja.wikipedia.org/wiki/おジャ魔女どれみ#ゲームなど "wikilink")（バンダイ、コントローラ同梱版あり）

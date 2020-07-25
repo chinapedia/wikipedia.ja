@@ -1,7 +1,7 @@
 > この記事は[ONE DAY \(KUWATA BANDの曲\)](https://ja.wikipedia.org/wiki/ONE_DAY_\(KUWATA_BANDの曲\))から翻訳されています。
 
 
-「**ONE DAY**」（ワン・デイ）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**ONE DAY**」（ワン・デイ）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [1993年](../Page/1993年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に8cmCDで再発し、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発している。
 
@@ -15,7 +15,7 @@
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:KUWATA BAND）
       -
         イントロから[ピアノ](../Page/ピアノ.md "wikilink")を主体としたバラード曲。桑田自身がKUWATA BANDの曲として最初に作った曲である。
-        [2003年](../Page/2003年.md "wikilink")に、サザンファンを公言する[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")が同曲をカヴァーした（アルバム『[Ken's Bar](https://ja.wikipedia.org/wiki/Ken's_Bar "wikilink")』収録）。
+        [2003年](../Page/2003年.md "wikilink")に、サザンファンを公言する[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")が同曲をカヴァーした（アルバム『[Ken's Bar](../Page/Ken's_Bar.md "wikilink")』収録）。
 2.  **[雨を見たかい](https://ja.wikipedia.org/wiki/雨を見たかい "wikilink") (HAVE YOU EVER SEEN THE RAIN)**
     （作詞・作曲:[John Cameron Fogerty](https://ja.wikipedia.org/wiki/ジョン・フォガティ "wikilink")　編曲:KUWATA BAND）
       -

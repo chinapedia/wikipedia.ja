@@ -116,7 +116,7 @@ THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](..
 <td><p>犬士冥合</p></td>
 <td><p>岡本有樹郎</p></td>
 <td><p>奥田淳、堀内博之<br />
-外丸達也、<a href="https://ja.wikipedia.org/wiki/古瀬登" title="wikilink">古瀬登</a></p></td>
+外丸達也、<a href="../Page/古瀬登.md" title="wikilink">古瀬登</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

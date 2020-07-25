@@ -1,7 +1,7 @@
 > この記事は[Envy](https://ja.wikipedia.org/wiki/Envy)から翻訳されています。
 
 
-**envy**（エンヴィー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポスト・ハードコア](https://ja.wikipedia.org/wiki/ポスト・ハードコア "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。前身バンド「**BLIND JUSTICE**」を経て1995年結成。
+**envy**（エンヴィー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポスト・ハードコア](../Page/ポスト・ハードコア.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。前身バンド「**BLIND JUSTICE**」を経て1995年結成。
 
 現在、日本では自身が主宰するSONZAI RECORDS、北アメリカでは[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")系レーベルの[テンポラリー・レジデンス・リミテッド](https://ja.wikipedia.org/wiki/テンポラリー・レジデンス・リミテッド "wikilink")、ヨーロッパでは[モグワイ](../Page/モグワイ.md "wikilink")のレーベルRock Action Recordsから作品をリリースしている。初期〜中期までは国内HCPUNKレーベルHG FACTからリリースしている。
 

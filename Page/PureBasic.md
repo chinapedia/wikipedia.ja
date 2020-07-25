@@ -1,7 +1,7 @@
 > この記事は[PureBasic](https://ja.wikipedia.org/wiki/PureBasic)から翻訳されています。
 
 
-**PureBasic**（**ピュアベーシック**）は、[Fantaisie Software](http://www.purebasic.com)製の商用の[BASIC](../Page/BASIC.md "wikilink")言語およびその[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) であり、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[32ビット](../Page/32ビット.md "wikilink")、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）、[Linux](../Page/Linux.md "wikilink")（32ビット、64ビット）、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")で動作する。[AmigaOS](../Page/AmigaOS.md "wikilink")版は開発中止となり、[オープンソース](../Page/オープンソース.md "wikilink")化されている。
+**PureBasic**（**ピュアベーシック**）は、[Fantaisie Software](http://www.purebasic.com)製の商用の[BASIC](../Page/BASIC.md "wikilink")言語およびその[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) であり、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[32ビット](../Page/32ビット.md "wikilink")、[64ビット](../Page/64ビット.md "wikilink")）、[Linux](../Page/Linux.md "wikilink")（32ビット、64ビット）、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")で動作する。[AmigaOS](../Page/AmigaOS.md "wikilink")版は開発中止となり、[オープンソース](../Page/オープンソース.md "wikilink")化されている。
 
 ## 概要
 

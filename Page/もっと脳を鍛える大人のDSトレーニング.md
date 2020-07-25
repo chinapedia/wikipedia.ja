@@ -147,7 +147,7 @@
 
 ## 関連項目
 
-  - [Dr.MARIO & 細菌撲滅](https://ja.wikipedia.org/wiki/Dr.MARIO_&_細菌撲滅 "wikilink") - [Wiiウェア](../Page/Wiiウェア.md "wikilink")にて2008年3月よりダウンロード販売。「細菌撲滅」と「Dr.マリオ」をカップリングしたゲーム。
+  - [Dr.MARIO & 細菌撲滅](../Page/Dr.MARIO_&_細菌撲滅.md "wikilink") - [Wiiウェア](../Page/Wiiウェア.md "wikilink")にて2008年3月よりダウンロード販売。「細菌撲滅」と「Dr.マリオ」をカップリングしたゲーム。
 
 ## 外部リンク
 

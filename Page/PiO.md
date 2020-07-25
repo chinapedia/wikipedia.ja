@@ -1,7 +1,7 @@
 > この記事は[PiO](https://ja.wikipedia.org/wiki/PiO)から翻訳されています。
 
 
-『**PiO**』（ピオ）は、[工学社](../Page/工学社.md "wikilink")が刊行していた[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。 同社の『[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")』の別冊として[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月に創刊。最初の3号は不定期発売で[1984年](../Page/1984年.md "wikilink")4月号から月刊化\[1\]。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月号（通巻22号）で誌面を一部リニューアルするも、同年10月号（通巻31号）をもって休刊。月刊後の発売日は毎月8日だった。
+『**PiO**』（ピオ）は、[工学社](../Page/工学社.md "wikilink")が刊行していた[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。 同社の『[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")』の別冊として[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月に創刊。最初の3号は不定期発売で[1984年](../Page/1984年.md "wikilink")4月号から月刊化\[1\]。[1986年](../Page/1986年.md "wikilink")1月号（通巻22号）で誌面を一部リニューアルするも、同年10月号（通巻31号）をもって休刊。月刊後の発売日は毎月8日だった。
 
 誌名は、『I/O』の姉妹誌である事から、PC用語 "Parallel I/O" の略から採られている。
 

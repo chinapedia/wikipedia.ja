@@ -76,7 +76,7 @@
       - 松本メイン曲
 10. *' Secret Eyes*'［4:52］
       -
-        作詞：Erykah、Rap詞：櫻井翔、作曲：[Gajin](../Page/Gajin.md "wikilink")、編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：Erykah、Rap詞：櫻井翔、作曲：[Gajin](../Page/Gajin.md "wikilink")、編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
     <!-- end list -->
       - 相葉メイン曲
 11. *' 超²ありがとう*'［4:06］

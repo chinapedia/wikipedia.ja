@@ -5,7 +5,7 @@
 
 ## 概要
 
-1998年6月、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[アイドルハイスクール 芸能女学館](../Page/アイドルハイスクール_芸能女学館.md "wikilink")』に出演していた女子生徒の中から、[avex](https://ja.wikipedia.org/wiki/avex "wikilink")の[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")によって選ばれた5人でグループを結成。プロデュースは[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")。
+1998年6月、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[アイドルハイスクール 芸能女学館](../Page/アイドルハイスクール_芸能女学館.md "wikilink")』に出演していた女子生徒の中から、[avex](https://ja.wikipedia.org/wiki/avex "wikilink")の[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")によって選ばれた5人でグループを結成。プロデュースは[平哲夫](../Page/平哲夫.md "wikilink")。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")、シングル『素肌の季節』で[エイベックスよりデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。4枚目のシングル『かわいいんじゃない？』で[オリコン初登場](../Page/オリコンチャート.md "wikilink")24位を記録するも、アルバムリリースが無いまま[2000年](../Page/2000年.md "wikilink")に解散した\[1\]。
 

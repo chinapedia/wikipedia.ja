@@ -7,7 +7,7 @@
 
 [ホテル](../Page/ホテル.md "wikilink")と[アミューズメント](https://ja.wikipedia.org/wiki/アミューズメント "wikilink")の複合商業施設で、[ダイワロイヤル](https://ja.wikipedia.org/wiki/ダイワロイヤル "wikilink")株式会社（[大和ハウスグループ](../Page/大和ハウス工業.md "wikilink")）が管理運営する。
 
-建物は13階建てで、1階には[居酒屋](../Page/居酒屋.md "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")、[美容室](../Page/美容所.md "wikilink")、[インターネットカフェ](https://ja.wikipedia.org/wiki/インターネットカフェ "wikilink")の他、地元の[ラジオ局である](../Page/ラジオ放送局.md "wikilink")[FMぱるるんの](../Page/水戸コミュニティ放送.md "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")がある。
+建物は13階建てで、1階には[居酒屋](../Page/居酒屋.md "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")、[美容室](../Page/美容所.md "wikilink")、[インターネットカフェ](../Page/インターネットカフェ.md "wikilink")の他、地元の[ラジオ局である](../Page/ラジオ放送局.md "wikilink")[FMぱるるんの](../Page/水戸コミュニティ放送.md "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")がある。
 
 2階には[エステティックサロン](../Page/エステティックサロン.md "wikilink")、[旅行代理店](../Page/旅行代理店.md "wikilink")、3階には[飲食店](../Page/飲食店.md "wikilink")と[ゲームセンター](../Page/ゲームセンター.md "wikilink")、4階には[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")「[ユナイテッド・シネマ](../Page/ユナイテッド・シネマ.md "wikilink")水戸」（入り口は3階）があり、6〜13階はダイワロイネットホテル水戸となっている。
 
@@ -31,7 +31,7 @@
 
   - [ユナイテッド・シネマ](../Page/ユナイテッド・シネマ.md "wikilink")水戸
   - [カレーハウス CoCo壱番屋](../Page/壱番屋.md "wikilink")
-  - [すき家](https://ja.wikipedia.org/wiki/すき家 "wikilink")
+  - [すき家](../Page/すき家.md "wikilink")
   - [タリーズコーヒー](../Page/タリーズコーヒー.md "wikilink")
   - AG SQUARE
   - ダイワロイネットホテル水戸

@@ -128,7 +128,7 @@
 
 ### スーツアクター
 
-  - 黄金騎士・牙狼 - [大西雅樹](https://ja.wikipedia.org/wiki/大西雅樹 "wikilink")\[6\]
+  - 黄金騎士・牙狼 - [大西雅樹](../Page/大西雅樹.md "wikilink")\[6\]
   - 銀牙騎士・絶狼 - [荒川真](https://ja.wikipedia.org/wiki/荒川真_\(俳優\) "wikilink")\[7\]
   - 白夜騎士・ダン - [マーク武蔵](../Page/マーク武蔵.md "wikilink")\[8\]、[前田浩](../Page/前田浩.md "wikilink")\[9\]
   - レギュレイス - [吉田瑞穂](../Page/吉田瑞穂_\(スーツアクター\).md "wikilink")\[10\]

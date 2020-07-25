@@ -23,7 +23,7 @@ TTゲージは、アメリカの自動車デザイナーであったHal Joyceが
 <!-- end list -->
 
   - アメリカのTTゲージ
-    アメリカはTTゲージの誕生の地であり、H.P.プロダクツを創業したHal Joyceは「TTゲージの父」とされている。Joyceは元々自動車のデザイナーで[1947年](../Page/1947年.md "wikilink")頃から生産を始めた。機関車のキット、客車、貨車のキットや線路、ディティールパーツなどを製造した。その後、[ケムトロンなど複数のメーカーがTTゲージに参入した](https://ja.wikipedia.org/wiki/:en:Levon_Kemalyan "wikilink")。H.P.プロダクツは[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")で生産を終了し、金型や製品はいくつかの業者の手に渡った。
+    アメリカはTTゲージの誕生の地であり、H.P.プロダクツを創業したHal Joyceは「TTゲージの父」とされている。Joyceは元々自動車のデザイナーで[1947年](../Page/1947年.md "wikilink")頃から生産を始めた。機関車のキット、客車、貨車のキットや線路、ディティールパーツなどを製造した。その後、[ケムトロンなど複数のメーカーがTTゲージに参入した](https://ja.wikipedia.org/wiki/:en:Levon_Kemalyan "wikilink")。H.P.プロダクツは[1968年](../Page/1968年.md "wikilink")で生産を終了し、金型や製品はいくつかの業者の手に渡った。
 
 <!-- end list -->
 

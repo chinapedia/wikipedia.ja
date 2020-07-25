@@ -56,7 +56,7 @@ MIFESは標準でタブ[MDI動作をするが](../Page/Multiple_Document_Interfa
 ## 関連項目
 
   - [メガソフト](https://ja.wikipedia.org/wiki/メガソフト "wikilink")
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
 ## 脚注
 

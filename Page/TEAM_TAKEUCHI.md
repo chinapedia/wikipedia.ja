@@ -7,7 +7,7 @@
 
 ### トヨタ若手育成プロジェクトGTクラス
 
-[2005年](../Page/2005年.md "wikilink")より[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")とタイアップし、「**トヨタ若手育成プロジェクトGTクラス**」として若手ドライバーの育成を行うことになった。トヨタの若手育成プログラムの第一段階である『[フォーミュラ・トヨタ](../Page/フォーミュラ・トヨタ.md "wikilink")・レーシングスクール（FTRS）』を卒業したドライバーの中から優秀なドライバーを指導し、次期[ワークスドライバーとして育成する](../Page/ワークス・チーム.md "wikilink")。2005年は[平中克幸](../Page/平中克幸.md "wikilink")、[2006年](../Page/2006年.md "wikilink")は[嵯峨宏紀](../Page/嵯峨宏紀.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[井口卓人](https://ja.wikipedia.org/wiki/井口卓人 "wikilink")が起用されている。
+[2005年](../Page/2005年.md "wikilink")より[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")とタイアップし、「**トヨタ若手育成プロジェクトGTクラス**」として若手ドライバーの育成を行うことになった。トヨタの若手育成プログラムの第一段階である『[フォーミュラ・トヨタ](../Page/フォーミュラ・トヨタ.md "wikilink")・レーシングスクール（FTRS）』を卒業したドライバーの中から優秀なドライバーを指導し、次期[ワークスドライバーとして育成する](../Page/ワークス・チーム.md "wikilink")。2005年は[平中克幸](../Page/平中克幸.md "wikilink")、[2006年](../Page/2006年.md "wikilink")は[嵯峨宏紀](../Page/嵯峨宏紀.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[井口卓人](../Page/井口卓人.md "wikilink")が起用されている。
 
 ### クムホタイヤの開発
 
@@ -139,7 +139,7 @@
 <td><p><a href="../Page/2008年のSUPER_GT.md" title="wikilink">2008年</a></p></td>
 <td><p><a href="../Page/レクサス・IS.md" title="wikilink">レクサス・IS</a>350</p></td>
 <td><p><a href="../Page/黒澤琢弥.md" title="wikilink">黒澤琢弥</a><br />
- <a href="https://ja.wikipedia.org/wiki/井口卓人" title="wikilink">井口卓人</a><br />
+ <a href="../Page/井口卓人.md" title="wikilink">井口卓人</a><br />
  <a href="https://ja.wikipedia.org/wiki/山内英輝" title="wikilink">山内英輝</a> (Rd6)</p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
 <td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">OKA</a></p></td>

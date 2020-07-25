@@ -40,7 +40,7 @@ CICSファミリーは以下で構成される。
   - [1999年](../Page/1999年.md "wikilink") CICS Transaction Server 1.3 （[Java](https://ja.wikipedia.org/wiki/Java "wikilink")サポート、CICS Webサポート(CWS)）
   - [2007年](../Page/2007年.md "wikilink") CICS Transaction Server 3.2 （[Webサービス](../Page/Webサービス.md "wikilink")強化）
   - [2009年](../Page/2009年.md "wikilink") CICS Transaction Server 4.1 （イベント処理のサポート、CICS Explorerなど）
-  - [2011年](../Page/2011年.md "wikilink") CICS Transaction Server 4.2 （新しいシステム・イベント、新しい[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")の [Java](https://ja.wikipedia.org/wiki/Java "wikilink")ランタイム環境など）
+  - [2011年](../Page/2011年.md "wikilink") CICS Transaction Server 4.2 （新しいシステム・イベント、新しい[64ビット](../Page/64ビット.md "wikilink")の [Java](https://ja.wikipedia.org/wiki/Java "wikilink")ランタイム環境など）
   - [2012年](../Page/2012年.md "wikilink") CICS Transaction Server 5.1 （Liberty/モバイルによるアジリティ向上と基盤強化）
   - [2014年](../Page/2014年.md "wikilink") CICS Transaction Server 5.2 （更なるサービスアジリティ向上とクラウド・イネーブルメント）\[1\]
   - [2015年](../Page/2015年.md "wikilink") CICS Transaction Server 5.3\[2\]

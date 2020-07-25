@@ -698,7 +698,7 @@
 
 <!-- end list -->
 
-  - **[ラミア](https://ja.wikipedia.org/wiki/ラミア "wikilink")（キャンディス）**
+  - **[ラミア](../Page/ラミア.md "wikilink")（キャンディス）**
 
 <!-- end list -->
 

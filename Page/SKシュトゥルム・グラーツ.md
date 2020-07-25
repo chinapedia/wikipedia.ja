@@ -847,7 +847,7 @@
 
   - [マルクス・ショップ](https://ja.wikipedia.org/wiki/マルクス・ショップ "wikilink") 1991-1996, 1998-2001
 
-  - [マーティン・ヒデン](https://ja.wikipedia.org/wiki/マーティン・ヒデン "wikilink") 1992-1994, 1996-1997
+  - [マーティン・ヒデン](../Page/マーティン・ヒデン.md "wikilink") 1992-1994, 1996-1997
 
   - [フランコ・フォーダ](https://ja.wikipedia.org/wiki/フランコ・フォーダ "wikilink") 1997-2001
 
@@ -861,7 +861,7 @@
 
   - [フランク・フェルラート](../Page/フランク・フェルラート.md "wikilink") 2004-2007
 
-  - [ローナルド・ゲルサリウ](https://ja.wikipedia.org/wiki/ローナルド・ゲルサリウ "wikilink") 2004-2005, 2006
+  - [ローナルド・ゲルサリウ](../Page/ローナルド・ゲルサリウ.md "wikilink") 2004-2005, 2006
 
   - [セバスティアン・プリョードル](../Page/セバスティアン・プリョードル.md "wikilink") 2006-2008
 
@@ -869,7 +869,7 @@
 
   - [ゴルドン・シルデンフェルト](https://ja.wikipedia.org/wiki/ゴルドン・シルデンフェルト "wikilink") 2009-2011
 
-  - [ミラン・ドゥディッチ](https://ja.wikipedia.org/wiki/ミラン・ドゥディッチ "wikilink") 2011-2014
+  - [ミラン・ドゥディッチ](../Page/ミラン・ドゥディッチ.md "wikilink") 2011-2014
 
   - [クリスティアン・シュルツ](https://ja.wikipedia.org/wiki/クリスティアン・シュルツ "wikilink") 2016-
 

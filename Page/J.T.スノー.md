@@ -1,7 +1,7 @@
 > この記事は[J.T.スノー](https://ja.wikipedia.org/wiki/J.T.スノー)から翻訳されています。
 
 
-**ジャック・トーマス・スノー**（**Jack Thomas Snow**, [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月26日](../Page/2月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチ出身の元](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")選手（[一塁手](../Page/一塁手.md "wikilink")）。左投左打（までは両打\[1\]）。
+**ジャック・トーマス・スノー**（**Jack Thomas Snow**, [1968年](../Page/1968年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチ出身の元](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")選手（[一塁手](../Page/一塁手.md "wikilink")）。左投左打（までは両打\[1\]）。
 
 父の[ジャック・スノーは元](https://ja.wikipedia.org/wiki/:en:Jack_Snow_\(American_football\) "wikilink")[NFL](../Page/NFL.md "wikilink")選手で、屈指の[ワイドレシーバーだった](https://ja.wikipedia.org/wiki/ワイドレシーバー_\(アメリカンフットボール\) "wikilink")。
 

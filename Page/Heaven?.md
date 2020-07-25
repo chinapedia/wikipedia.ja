@@ -104,7 +104,7 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
 :\* 八百久 - [山本圭祐](https://ja.wikipedia.org/wiki/山本圭祐 "wikilink")
 
-:\* 丸尾 - [夙川アトム](https://ja.wikipedia.org/wiki/夙川アトム "wikilink")
+:\* 丸尾 - [夙川アトム](../Page/夙川アトム.md "wikilink")
 
 :\* 保健所職員 - [吉田ウーロン太](https://ja.wikipedia.org/wiki/吉田ウーロン太 "wikilink")
 
@@ -152,7 +152,7 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
 :\* 山縣の銀行員時代の上司 - [古坂大魔王](../Page/古坂大魔王.md "wikilink")
 
-:\* 山縣重臣にヘルメットを譲る男 - [バイク川崎バイク](https://ja.wikipedia.org/wiki/バイク川崎バイク "wikilink")
+:\* 山縣重臣にヘルメットを譲る男 - [バイク川崎バイク](../Page/バイク川崎バイク.md "wikilink")
 
   -
 

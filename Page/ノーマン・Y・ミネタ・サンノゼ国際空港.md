@@ -11,7 +11,7 @@
 
 2010年の[JDパワー](../Page/JDパワー.md "wikilink")による調査の結果、サンノゼ国際空港はアメリカにある同規模の空港と比較して最も利用者満足度が低かった。但しこの調査はターミナルBの開業及びターミナルAの改装前に行われたことを留意すべきである。
 
-国際旅客定期路線は[メキシコ](../Page/メキシコ.md "wikilink")の[グアダラハラおよび](../Page/グアダラハラ_\(メキシコ\).md "wikilink")([ボラリス](https://ja.wikipedia.org/wiki/ボラリス "wikilink")及び[アラスカ航空](../Page/アラスカ航空.md "wikilink")）に加え[アメリカン航空](../Page/アメリカン航空.md "wikilink")が[東京/成田線を運航していたが](../Page/成田国際空港.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")をもって廃止された。[2013年](../Page/2013年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")より[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が就航開始、2015年6月23日現在毎日運航されている。機材は、[ボーイング787](../Page/ボーイング787.md "wikilink")-8型機またはボーイング787-9型機である。
+国際旅客定期路線は[メキシコ](../Page/メキシコ.md "wikilink")の[グアダラハラおよび](../Page/グアダラハラ_\(メキシコ\).md "wikilink")([ボラリス](https://ja.wikipedia.org/wiki/ボラリス "wikilink")及び[アラスカ航空](../Page/アラスカ航空.md "wikilink")）に加え[アメリカン航空](../Page/アメリカン航空.md "wikilink")が[東京/成田線を運航していたが](../Page/成田国際空港.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")をもって廃止された。[2013年](../Page/2013年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")より[全日本空輸](../Page/全日本空輸.md "wikilink")が就航開始、2015年6月23日現在毎日運航されている。機材は、[ボーイング787](../Page/ボーイング787.md "wikilink")-8型機またはボーイング787-9型機である。
 
 ## ターミナル
 

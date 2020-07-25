@@ -17,7 +17,7 @@
 <!-- end list -->
 
   - [NWA世界タッグチーム王座](../Page/NWA世界タッグチーム王座.md "wikilink")戦
-    ●3 Live Kru（[BGジェイムズ](../Page/ブライアン・ジェイムス.md "wikilink")＆[ロン・キリングス](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")）（王者） vs [チームカナダ](https://ja.wikipedia.org/wiki/チームカナダ "wikilink")（[エリック・ヤング](https://ja.wikipedia.org/wiki/エリック・ヤング "wikilink")＆[ボビー・ルード](https://ja.wikipedia.org/wiki/ボビー・ルード "wikilink")）○
+    ●3 Live Kru（[BGジェイムズ](../Page/ブライアン・ジェイムス.md "wikilink")＆[ロン・キリングス](../Page/ロン・キリングス.md "wikilink")）（王者） vs [チームカナダ](https://ja.wikipedia.org/wiki/チームカナダ "wikilink")（[エリック・ヤング](https://ja.wikipedia.org/wiki/エリック・ヤング "wikilink")＆[ボビー・ルード](https://ja.wikipedia.org/wiki/ボビー・ルード "wikilink")）○
 
 <!-- end list -->
 

@@ -31,7 +31,7 @@
 | [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(4)                   | 生まれかわれるものならば                                                          |
 | [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(2)      | [純潔](../Page/純潔_\(南沙織の曲\).md "wikilink")                              |
 | [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(14)                | [さよならは突然に](../Page/さよならは突然に.md "wikilink")                            |
-| [本田路津子](../Page/本田路津子.md "wikilink")(2)                     | [耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")       |
+| [本田路津子](../Page/本田路津子.md "wikilink")(2)                     | [耳をすましてごらん](../Page/耳をすましてごらん.md "wikilink")                          |
 | [森山良子](../Page/森山良子.md "wikilink")(3)                       | 美しい星                                                                  |
 | [藤圭子](../Page/藤圭子.md "wikilink")(3)                         | [京都から博多まで](https://ja.wikipedia.org/wiki/京都から博多まで "wikilink")         |
 | [欧陽菲菲](../Page/欧陽菲菲.md "wikilink")(初)                       | 恋の追跡（ラブ・チェイス）                                                         |
@@ -80,7 +80,7 @@
   - [中村汀女](../Page/中村汀女.md "wikilink") - 俳人。この年の12月に金婚式を迎える。
   - [井上ひさし](../Page/井上ひさし.md "wikilink") - 作家。『手鎖心中』で[第67回直木賞を受賞](../Page/直木三十五賞.md "wikilink")。
   - 中野貴代 - 消防官。初の婦人消防官。
-  - 神田好武 - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")機長。この年国交樹立した[中華人民共和国](../Page/中華人民共和国.md "wikilink")への初フライトを担当。
+  - 神田好武 - [全日本空輸](../Page/全日本空輸.md "wikilink")機長。この年国交樹立した[中華人民共和国](../Page/中華人民共和国.md "wikilink")への初フライトを担当。
   - [真木洋子](../Page/真木洋子.md "wikilink") - 女優。この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[藍より青く](../Page/藍より青く.md "wikilink")』のヒロイン・田宮（村上）真紀役。
   - [輪島大士](../Page/輪島大士.md "wikilink") - 大相撲・大関。この年大相撲秋場所で好成績を挙げ大関に昇進。
   - 加藤稔 - NHK芸能局長（審査委員長）
@@ -120,7 +120,7 @@
 
   - トップバッターは前回まで3年連続で白組トリを務めた[森進一](../Page/森進一.md "wikilink")が務めた。前年のトリ担当者がトップバッターを務めるのはこの事例が初めて。
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")は「[あの鐘を鳴らすのはあなた](../Page/あの鐘を鳴らすのはあなた.md "wikilink")」で[第14回日本レコード大賞](https://ja.wikipedia.org/wiki/第14回日本レコード大賞 "wikilink")最優秀歌唱賞を受賞していたが、同曲は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")の[反戦歌](../Page/反戦歌.md "wikilink")の疑いが強いとNHKが判断し、この曲に次いで売れた「[孤独](https://ja.wikipedia.org/wiki/孤独_\(和田アキ子の曲\) "wikilink")」が選曲された。
-  - [本田路津子](../Page/本田路津子.md "wikilink")はこの年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[藍より青く](../Page/藍より青く.md "wikilink")』の主題歌「[耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")」を歌唱。
+  - [本田路津子](../Page/本田路津子.md "wikilink")はこの年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[藍より青く](../Page/藍より青く.md "wikilink")』の主題歌「[耳をすましてごらん](../Page/耳をすましてごらん.md "wikilink")」を歌唱。
   - 紅組司会の佐良が歌手として出演する際の曲紹介は佐良自らが行った。
   - [上條恒彦](../Page/上條恒彦.md "wikilink")のステージでは、上條を輩出した『[ステージ101](../Page/ステージ101.md "wikilink")』のレギュラー「ヤング101」がコーラスで応援参加した。この「ヤング101」のメンバーの中に、後にソロデビューした[田中星児](../Page/田中星児.md "wikilink")・[一城みゆ希](../Page/一城みゆ希.md "wikilink")・[太田裕美](../Page/太田裕美.md "wikilink")・[谷山浩子](../Page/谷山浩子.md "wikilink")らが混ざっている。
   - 橋幸夫の歌唱曲「[子連れ狼](../Page/子連れ狼_\(曲\).md "wikilink")」はレコードでは[若草児童合唱団](https://ja.wikipedia.org/wiki/若草児童合唱団 "wikilink")がバックコーラスを担当しているが、放送時刻の関係で紅白ではスクールメイツとキャンディーズが担当した。

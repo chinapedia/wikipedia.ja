@@ -6,7 +6,7 @@
 ## 内容
 
   - ジャケットは先行シングル2作と同様、コンセプトとなっている画家である[ジョルジュ・バルビエ](../Page/ジョルジュ・バルビエ.md "wikilink")の作品である。
-  - 10曲中7曲は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に提供した楽曲をAMYの英語詞でセルフカバーした曲、1曲がTONEによる英語詞の新録楽曲である。
+  - 10曲中7曲は、[ZARD](../Page/ZARD.md "wikilink")に提供した楽曲をAMYの英語詞でセルフカバーした曲、1曲がTONEによる英語詞の新録楽曲である。
   - 今作では、栗林の作品に多く参加している[DIMENSION](../Page/DIMENSION.md "wikilink")は参加していない。
   - 葉山たけしが一部の楽曲にギターで参加したにもかかわらず、参加ミュージシャンのクレジットは「ゲストボーカル:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")」のみの表記である。
   - 栗林のソロアルバムとしては、「[You Never Know](../Page/You_Never_Know.md "wikilink")」以来、オリコンチャートにランク入りしたアルバムである。
@@ -65,7 +65,7 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
       - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
 
 [Category:栗林誠一郎のアルバム](https://ja.wikipedia.org/wiki/Category:栗林誠一郎のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:B-Gram_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:B-Gram_RECORDSのアルバム "wikilink")

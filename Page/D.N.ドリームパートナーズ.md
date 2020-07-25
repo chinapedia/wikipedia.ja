@@ -15,7 +15,7 @@
   - [BUZZER BEATER](../Page/BUZZER_BEATER.md "wikilink")（日本テレビ版）
   - [逆境無頼カイジ](https://ja.wikipedia.org/wiki/賭博黙示録カイジ#テレビアニメ "wikilink")
   - [魔人探偵脳噛ネウロ](https://ja.wikipedia.org/wiki/魔人探偵脳噛ネウロ "wikilink")
-  - [RD 潜脳調査室](https://ja.wikipedia.org/wiki/RD_潜脳調査室 "wikilink")
+  - [RD 潜脳調査室](../Page/RD_潜脳調査室.md "wikilink")
   - [秘密 〜The Revelation〜](https://ja.wikipedia.org/wiki/秘密_―トップ・シークレット―#テレビアニメ "wikilink")
   - [ONE OUTS -ワンナウツ-](https://ja.wikipedia.org/wiki/ONE_OUTS "wikilink")
   - [魍魎の匣](../Page/魍魎の匣.md "wikilink")
@@ -35,8 +35,8 @@
   - [サタデーTVラボ](../Page/サタデーTVラボ.md "wikilink")
       - [ハリ系](https://ja.wikipedia.org/wiki/ハリ系 "wikilink")
       - [栞と紙魚子](../Page/栞と紙魚子.md "wikilink")の怪奇事件簿
-      - [2クール](https://ja.wikipedia.org/wiki/2クール "wikilink")
-      - [ハッピーミックス](https://ja.wikipedia.org/wiki/ハッピーミックス "wikilink")
+      - [2クール](../Page/2クール.md "wikilink")
+      - [ハッピーミックス](../Page/ハッピーミックス.md "wikilink")
       - [絶対やれるギリシャ神話](https://ja.wikipedia.org/wiki/絶対やれるギリシャ神話 "wikilink")
       - [EXILE GENERATION](https://ja.wikipedia.org/wiki/EXILE_GENERATION "wikilink")
       - [妄想姉妹〜文學という名のもとに〜](https://ja.wikipedia.org/wiki/妄想姉妹〜文學という名のもとに〜 "wikilink")

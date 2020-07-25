@@ -37,7 +37,7 @@ Xabreを採用したビデオカードは大手ボードベンダー各社より
 
 [Sis_760gxlv.jpg](https://ja.wikipedia.org/wiki/File:Sis_760gxlv.jpg "fig:Sis_760gxlv.jpg") SiSは2002年、Intelプラットフォーム向けの[統合チップセット](https://ja.wikipedia.org/wiki/チップセット#統合チップセット "wikilink")"SiS 660"および、AMDプラットフォーム向けの統合チップセット SiS 760 を発表した。これらに統合される Mirage2 (旧称Ultra256)グラフィックスコアはXabre80がベースとなっている。
 
-SiS 760はメインメモリの一部をVRAMとして使用する[UMA以外にビデオメモリ専用に外部メモリを接続する](https://ja.wikipedia.org/wiki/チップセット#統合チップセット "wikilink") Local Frame Buffer (LFB) をサポートする。LFBはメモリバス幅[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")で接続され、UMAとの併用も可能である。LFBとUMAとの併用時にはメモリバス幅は128ビットとなる。
+SiS 760はメインメモリの一部をVRAMとして使用する[UMA以外にビデオメモリ専用に外部メモリを接続する](https://ja.wikipedia.org/wiki/チップセット#統合チップセット "wikilink") Local Frame Buffer (LFB) をサポートする。LFBはメモリバス幅[64ビット](../Page/64ビット.md "wikilink")で接続され、UMAとの併用も可能である。LFBとUMAとの併用時にはメモリバス幅は128ビットとなる。
 
 後にLFBサポートを省略した"SiS 760GX"も発表された。
 

@@ -21,7 +21,7 @@
   - [MASAKIの「チア～ズ\!\!」](https://ja.wikipedia.org/wiki/MASAKIの「チア～ズ!!」 "wikilink")（KBCラジオ　2007年10月 - 2008年3月）
   - [McDonald's Kyushu Real-eyes](../Page/REAL-EYES.md "wikilink")（CROSS FM [2005年](../Page/2005年.md "wikilink")4月 - 2008年3月）
   - [B2B RADIO](../Page/B2B_RADIO.md "wikilink") ([CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink") 月・水 2007年4月 - 2008年10月)
-  - [ベロベロバー](https://ja.wikipedia.org/wiki/ベロベロバー "wikilink")（KBCラジオ 木曜 2008年4月 - 2009年[4月2日](../Page/4月2日.md "wikilink")）
+  - [ベロベロバー](../Page/ベロベロバー.md "wikilink")（KBCラジオ 木曜 2008年4月 - 2009年[4月2日](../Page/4月2日.md "wikilink")）
   - [サタデーミュージックカウントダウン](../Page/サタデーミュージックカウントダウン.md "wikilink")（KBCラジオ 土曜 - 2010年9月）
   - [Groove Train](https://ja.wikipedia.org/wiki/Groove_Train "wikilink") （[cross fm](https://ja.wikipedia.org/wiki/cross_fm "wikilink") 木曜 2011年4月7日 - 2014年3月27日）
   - [SWITCH\!\!](https://ja.wikipedia.org/wiki/SWITCH!! "wikilink")（[cross fm](https://ja.wikipedia.org/wiki/cross_fm "wikilink") 月・火 2014年9月1日 - 2017年9月26日）

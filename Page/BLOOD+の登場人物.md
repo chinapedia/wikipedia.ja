@@ -481,7 +481,7 @@
 
 ### 双翼のバトル輪舞曲（ロンド）
 
-ゲーム『[BLOOD+ 双翼のバトル輪舞曲](https://ja.wikipedia.org/wiki/BLOOD+_双翼のバトル輪舞曲 "wikilink")』の登場人物。
+ゲーム『[BLOOD+ 双翼のバトル輪舞曲](../Page/BLOOD+_双翼のバトル輪舞曲.md "wikilink")』の登場人物。
 
   - 鈴森 繭（すずもり まゆ）
     声 - 門脇舞

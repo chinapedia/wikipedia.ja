@@ -27,7 +27,7 @@ Internet Explorer for Macは、[1997年](https://ja.wikipedia.org/wiki/1997年 "
 
 ### Internet Explorer 5 for Macintosh
 
-バージョン 5は[Tasman](https://ja.wikipedia.org/wiki/Tasman "wikilink")と呼ばれる[HTMLレンダリングエンジン](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")を導入した\[5\]。 Tasmanは以前に比べ高速なブラウジングを提供することができ、また、当時としては最新のHTML 4.0、XML 1.0、CSS 1.0と2.0、[PNG](../Page/Portable_Network_Graphics.md "wikilink")、[DHTML](../Page/ダイナミックHTML.md "wikilink")、[ECMAScript](../Page/ECMAScript.md "wikilink") 262と標準規格に多く対応した\[6\]。また、外観の変更が行われ、[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")のような色使いなどに変更された。色は9色用意され、好みに合ったものに変更することができた。独自の機能として、ウェブページをまとめて保存することができる「インターネット スクラップブック」や、複数のオークションの内容と状態を管理する「オークション マネージャー」などが追加された。\[7\]
+バージョン 5は[Tasman](../Page/Tasman.md "wikilink")と呼ばれる[HTMLレンダリングエンジン](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")を導入した\[5\]。 Tasmanは以前に比べ高速なブラウジングを提供することができ、また、当時としては最新のHTML 4.0、XML 1.0、CSS 1.0と2.0、[PNG](../Page/Portable_Network_Graphics.md "wikilink")、[DHTML](../Page/ダイナミックHTML.md "wikilink")、[ECMAScript](../Page/ECMAScript.md "wikilink") 262と標準規格に多く対応した\[6\]。また、外観の変更が行われ、[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")のような色使いなどに変更された。色は9色用意され、好みに合ったものに変更することができた。独自の機能として、ウェブページをまとめて保存することができる「インターネット スクラップブック」や、複数のオークションの内容と状態を管理する「オークション マネージャー」などが追加された。\[7\]
 
 バージョン 5.2 ではMac OS Xで導入した[Quartz](../Page/Quartz.md "wikilink")に対応した。
 

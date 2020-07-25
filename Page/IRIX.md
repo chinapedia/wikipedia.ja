@@ -11,7 +11,7 @@
 
 }}
 
-**IRIX**（アイリックス）とは、[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink") (SGI) によって開発された、[BSD](../Page/BSD.md "wikilink")機能拡張を施した[System Vをベースとする](../Page/UNIX_System_V.md "wikilink")、[32ビット](../Page/32ビット.md "wikilink")および[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")の[MIPSアーキテクチャ](../Page/MIPSアーキテクチャ.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")および[サーバ](../Page/サーバ.md "wikilink")用[UNIX](../Page/UNIX.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。
+**IRIX**（アイリックス）とは、[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink") (SGI) によって開発された、[BSD](../Page/BSD.md "wikilink")機能拡張を施した[System Vをベースとする](../Page/UNIX_System_V.md "wikilink")、[32ビット](../Page/32ビット.md "wikilink")および[64ビット](../Page/64ビット.md "wikilink")の[MIPSアーキテクチャ](../Page/MIPSアーキテクチャ.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")および[サーバ](../Page/サーバ.md "wikilink")用[UNIX](../Page/UNIX.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。
 
 ## 概要
 

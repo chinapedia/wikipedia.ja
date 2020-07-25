@@ -83,7 +83,7 @@
   - 原作・脚本 - 早川奈津子
   - プロデューサー - 川崎とも子
   - キャラクターデザイン・総作画監督 - ゴトウマサユキ
-  - 音楽 - [井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")
+  - 音楽 - [井上日徳](../Page/井上日徳.md "wikilink")
   - 美術監督 - 源田治行
   - 撮影監督 - 大瀧勝之
   - 音響監督 - [藤山房伸](../Page/藤山房伸.md "wikilink")、[菊田浩巳](../Page/菊田浩巳.md "wikilink")
@@ -93,7 +93,7 @@
 ## 主題歌
 
   - テレビ版オープニングテーマ「TRY」
-    作詞 - [K.INOJO](../Page/K.INOJO.md "wikilink") / 作曲・編曲 - [井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink") / 歌 - 渡部マキ
+    作詞 - [K.INOJO](../Page/K.INOJO.md "wikilink") / 作曲・編曲 - [井上日徳](../Page/井上日徳.md "wikilink") / 歌 - 渡部マキ
   - ビデオ版エンディングテーマ「HELLO」
     作詞 - K.INOJO / 作曲・編曲 - 井上日徳 / 歌 - 渡部マキ
 

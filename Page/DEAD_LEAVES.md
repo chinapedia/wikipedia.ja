@@ -50,7 +50,7 @@
 
 <!-- end list -->
 
-  - 原画：宮澤康紀、[小池健](../Page/小池健.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、小倉陳利、[すしお](../Page/すしお.md "wikilink")、末冨慎治、[芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink")、[久保田誓](../Page/久保田誓.md "wikilink")、丸山友、今石洋之、桑名郁朗、[板垣伸](../Page/板垣伸.md "wikilink")、東出太、杉江敏治、若林要、奥村光博、[渡部圭祐](../Page/渡部圭祐.md "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink")、小松田大全、浅野恭司、窪田康高、永島明子、大久保徹、矢萩利幸、[谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")、植田実、小倉雅誉、泉広代、中村光宣、竹谷今日子、小村方宏治、森田史、近藤圭介、浜浦紳介、伊藤弘樹、テレジア ウィンクラー
+  - 原画：宮澤康紀、[小池健](../Page/小池健.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、小倉陳利、[すしお](../Page/すしお.md "wikilink")、末冨慎治、[芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink")、[久保田誓](../Page/久保田誓.md "wikilink")、丸山友、今石洋之、桑名郁朗、[板垣伸](../Page/板垣伸.md "wikilink")、東出太、杉江敏治、若林要、奥村光博、[渡部圭祐](../Page/渡部圭祐.md "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink")、小松田大全、浅野恭司、窪田康高、永島明子、大久保徹、矢萩利幸、[谷津美弥子](../Page/谷津美弥子.md "wikilink")、植田実、小倉雅誉、泉広代、中村光宣、竹谷今日子、小村方宏治、森田史、近藤圭介、浜浦紳介、伊藤弘樹、テレジア ウィンクラー
 
 ## 関連商品
 

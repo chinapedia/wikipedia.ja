@@ -7,7 +7,7 @@
 
 ## 哲学
 
-Railsの基本理念は「同じことを繰り返さない」（[DRY:*Don't Repeat Yourself*](https://ja.wikipedia.org/wiki/Don't_repeat_yourself "wikilink")）と「[設定より規約](https://ja.wikipedia.org/wiki/設定より規約 "wikilink")」（CoC:*Convention over Configuration*）である。
+Railsの基本理念は「同じことを繰り返さない」（[DRY:*Don't Repeat Yourself*](../Page/Don't_repeat_yourself.md "wikilink")）と「[設定より規約](https://ja.wikipedia.org/wiki/設定より規約 "wikilink")」（CoC:*Convention over Configuration*）である。
 
 「同じことを繰り返さない」というのは、「定義などの作業は一回だけで済ませろ」との意味である\[1\]。「設定よりも規約」とは、「慎重に設計された規約（Convention）に従うことにより、設定（Configuration）を不要にする（あるいは軽減する）」ということである。Railsはフルスタックのフレームワークであり、コンポーネントの統合は手動での設定を必要とせず自動で規約に従い行われる。例えば、Ruby on Railsに組み込みの[ORMライブラリである](https://ja.wikipedia.org/wiki/オブジェクトリレーショナルマッピング "wikilink")[Active Recordでは](../Page/Active_Record.md "wikilink")、クラス定義においてデータベースから読み取るべき属性名等を指定する必要はない。Active Recordは[RDBMSの表定義から自動的にその情報を取得する](../Page/関係データベース管理システム.md "wikilink")。したがって、プログラムとRDBMSの両方にそれを定義するというような冗長な作業を行う必要はない。
 

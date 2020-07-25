@@ -132,7 +132,7 @@
 
   - [ナイジェル・クラフ](https://ja.wikipedia.org/wiki/ナイジェル・クラフ "wikilink") 1984-1993
 
-  - [スチュアート・ピアース](https://ja.wikipedia.org/wiki/スチュアート・ピアース "wikilink") 1985-1997
+  - [スチュアート・ピアース](../Page/スチュアート・ピアース.md "wikilink") 1985-1997
 
   - [スティーヴ・ストーン](https://ja.wikipedia.org/wiki/スティーヴ・ストーン_\(サッカー選手\) "wikilink") 1989-1999
 
@@ -142,7 +142,7 @@
 
   - [スタン・コリーモア](https://ja.wikipedia.org/wiki/スタン・コリーモア "wikilink") 1993-1995
 
-  - [マーロン・ヘアウッド](https://ja.wikipedia.org/wiki/マーロン・ヘアウッド "wikilink") 1996-2003, 2011-2012
+  - [マーロン・ヘアウッド](../Page/マーロン・ヘアウッド.md "wikilink") 1996-2003, 2011-2012
 
   - [ピエール・ファン・ホーイドンク](../Page/ピエール・ファン・ホーイドンク.md "wikilink") 1997-1999
 

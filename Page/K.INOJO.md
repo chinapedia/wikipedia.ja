@@ -14,7 +14,7 @@
 ## 年譜
 
   - [1981年](../Page/1981年.md "wikilink") 大沢誉志幸と共に"クラウディスカイ(CLOUDY SKY)"で[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")よりデビュー。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") 数々のアーティストの[作詞](../Page/作詞.md "wikilink")を手掛ける。
+  - [1986年](../Page/1986年.md "wikilink") 数々のアーティストの[作詞](../Page/作詞.md "wikilink")を手掛ける。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") ベーシストとして活動。大沢誉志幸、沢田研二、田中一郎、元[44MAGNUM](../Page/44MAGNUM.md "wikilink")の広瀬さとし(JIMMY)が結成したTOPAZ、香奈 等、数々のアーティストをサポート。
   - [1991年](../Page/1991年.md "wikilink") ソロアルバム"[GOOD-BYE GERALDINE](https://www.amazon.co.jp/dp/B007CCD830)([コンポジラ](http://www.compozila.co.jp/)／PARANOIZE LABEL)をリリース。
   - [1993年](../Page/1993年.md "wikilink") TV音楽番組／雑誌／ビデオ撮影＆編集／制作プロデュースを始める。
@@ -53,7 +53,7 @@
   - K.INOJO 「GOOD-BYE GERALDINE」
   - [若木未生](../Page/若木未生.md "wikilink") [ハイスクール・オーラバスター](../Page/ハイスクール・オーラバスター.md "wikilink")「ハイスクール・オーラバスター「[オリジナルアルバム I](https://www.amazon.co.jp/dp/B00005FXQ2)」「ハイスクール・オーラバスター「[オリジナルアルバム II END OF SILENCE](https://www.amazon.co.jp/dp/B00005FXQK)」」「ハイスクール・オーラバスター「[オリジナルアルバムD-X 天冥の剣](https://www.amazon.co.jp/dp/B00005FXR7)」」「ハイスクール・オーラバスター「Vocal Collection "Treasures"」」「ハイスクール・オーラバスター「[REUNION-0 空葬の章](https://www.amazon.co.jp/dp/B00ATDD4G0)」」(2013)
   - [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink") 「[Colours](../Page/Colours_\(米倉千尋のアルバム\).md "wikilink")」
-  - [GRAND SLAM](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink") 「[EASY ACTION](https://www.amazon.co.jp/EASY-ACTION-GRAND-SLAM/dp/B000UV9YL0)」
+  - [GRAND SLAM](../Page/グランドスラム_\(ロックバンド\).md "wikilink") 「[EASY ACTION](https://www.amazon.co.jp/EASY-ACTION-GRAND-SLAM/dp/B000UV9YL0)」
   - WHAT'S UP 「WHAT'S UP」
   - [速水奨](../Page/速水奨.md "wikilink")「Liaison」「ORDOVICES」「連鎖\~Chaine」
   - [柳葉敏郎](../Page/柳葉敏郎.md "wikilink") 「N」

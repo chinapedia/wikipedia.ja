@@ -1,13 +1,13 @@
 > この記事は[UP-BEAT](https://ja.wikipedia.org/wiki/UP-BEAT)から翻訳されています。
 
 
-**UP-BEAT**（アップビート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1981年](../Page/1981年.md "wikilink")に結成、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にメジャーデビューし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。
+**UP-BEAT**（アップビート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1981年](../Page/1981年.md "wikilink")に結成、[1986年](../Page/1986年.md "wikilink")にメジャーデビューし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。
 
 ## 来歴
 
 [1981年](../Page/1981年.md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")で結成。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月12日、[12inchレコード](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")「[Kiss...いきなり天国](https://ja.wikipedia.org/wiki/Kiss...いきなり天国 "wikilink")」でデビュー。
+[1986年](../Page/1986年.md "wikilink")5月12日、[12inchレコード](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")「[Kiss...いきなり天国](https://ja.wikipedia.org/wiki/Kiss...いきなり天国 "wikilink")」でデビュー。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")のシングル「[KISS IN THE MOONLIGHT](https://ja.wikipedia.org/wiki/KISS_IN_THE_MOONLIGHT "wikilink")」がフジテレビ系[ドラマ](../Page/テレビドラマ.md "wikilink")『[同級生は13歳](../Page/同級生は13歳.md "wikilink")』の主題歌に採用されヒット、注目される。
 

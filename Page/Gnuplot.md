@@ -3,7 +3,7 @@
 
 [Gnuplot-in-action.png](https://ja.wikipedia.org/wiki/File:Gnuplot-in-action.png "fig:Gnuplot-in-action.png")
 
-**gnuplot**（ニュープロット しばしばグニュープロットとも）は、2[次元](../Page/次元.md "wikilink")もしくは3次元の[グラフを作成するための](../Page/グラフ_\(関数\).md "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")である。[インターネット](../Page/インターネット.md "wikilink")において無料で配布されている[フリーウェア](../Page/フリーウェア.md "wikilink")である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に最初のバージョンが開発された。現在では、[Linux](../Page/Linux.md "wikilink")、[UNIX](../Page/UNIX.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")などの多くの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) に対応したバージョンが開発されている。
+**gnuplot**（ニュープロット しばしばグニュープロットとも）は、2[次元](../Page/次元.md "wikilink")もしくは3次元の[グラフを作成するための](../Page/グラフ_\(関数\).md "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")である。[インターネット](../Page/インターネット.md "wikilink")において無料で配布されている[フリーウェア](../Page/フリーウェア.md "wikilink")である。[1986年](../Page/1986年.md "wikilink")に最初のバージョンが開発された。現在では、[Linux](../Page/Linux.md "wikilink")、[UNIX](../Page/UNIX.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")などの多くの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) に対応したバージョンが開発されている。
 
 [オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")として公開されており、高機能・高精度であることから、特に学術研究に広く利用されている。また、使い方を解説したWebサイトも数多く存在する。過去には[GNU Octaveのプロットエンジンとしても利用されていた](../Page/GNU_Octave.md "wikilink")。
 

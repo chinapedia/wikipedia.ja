@@ -9,7 +9,7 @@
 
 ## Google Wallet
 
-[Google ウォレットは](https://ja.wikipedia.org/wiki/Google_ウォレット "wikilink")[2011年](../Page/2011年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発表された、[NFCを用いた決済サービス](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")。Google版「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」とも呼ばれる。
+[Google ウォレットは](https://ja.wikipedia.org/wiki/Google_ウォレット "wikilink")[2011年](../Page/2011年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発表された、[NFCを用いた決済サービス](../Page/近距離無線通信.md "wikilink")。Google版「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」とも呼ばれる。
 
 ## 脚注
 

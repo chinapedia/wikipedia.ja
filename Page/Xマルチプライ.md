@@ -3,7 +3,7 @@
 
 『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用オリジナルメカ[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。
 
-同社のヒット作である『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）及び『[R-TYPE II](../Page/R-TYPE_II.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の実質的続編として製作されたと言われる。『R-TYPE』の[フォースに代わるバリエーションとして自機から](https://ja.wikipedia.org/wiki/R-TYPE#フォース "wikilink")2本の[触手](../Page/触手.md "wikilink")を生やし、それを自機の移動によって操ると言うアイデアが盛り込まれている。
+同社のヒット作である『[R-TYPE](../Page/R-TYPE.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）及び『[R-TYPE II](../Page/R-TYPE_II.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の実質的続編として製作されたと言われる。『R-TYPE』の[フォースに代わるバリエーションとして自機から](https://ja.wikipedia.org/wiki/R-TYPE#フォース "wikilink")2本の[触手](../Page/触手.md "wikilink")を生やし、それを自機の移動によって操ると言うアイデアが盛り込まれている。
 
 後に[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして発売された『アーケードギアーズ イメージファイト & Xマルチプライ』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）に同社の『[イメージファイト](../Page/イメージファイト.md "wikilink")』（1988年）とのカップリングで収録された。
 

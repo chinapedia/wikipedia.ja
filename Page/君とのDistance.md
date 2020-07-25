@@ -1,7 +1,7 @@
 > この記事は[君とのDistance](https://ja.wikipedia.org/wiki/君とのDistance)から翻訳されています。
 
 
-『**君とのDistance**』（きみとのディスタンス）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の11枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**君とのDistance**』（きみとのディスタンス）は、[ZARD](../Page/ZARD.md "wikilink")の11枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 

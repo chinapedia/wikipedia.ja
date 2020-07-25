@@ -15,7 +15,7 @@
 
 本作はキャラクター・[召喚獣はドット絵やイラスト](../Page/ファイナルファンタジーシリーズの召喚獣.md "wikilink")、背景・マップ・[飛空艇](../Page/飛空艇.md "wikilink")などは3Dグラフィックで表現されている。
 
-開発は、GBAソフト「[モンスターサマナー](https://ja.wikipedia.org/wiki/モンスターサマナー "wikilink")」を出した[シンク・アンド・フィール](https://ja.wikipedia.org/wiki/シンク・アンド・フィール "wikilink")。
+開発は、GBAソフト「[モンスターサマナー](https://ja.wikipedia.org/wiki/モンスターサマナー "wikilink")」を出した[シンク・アンド・フィール](../Page/シンク・アンド・フィール.md "wikilink")。
 
 ### 商品展開
 

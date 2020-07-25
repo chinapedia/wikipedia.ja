@@ -84,7 +84,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤公孝" title="wikilink">伊藤公孝</a>、<a href="https://ja.wikipedia.org/wiki/伊藤早苗" title="wikilink">伊藤早苗</a>、<a href="https://ja.wikipedia.org/wiki/今田正俊" title="wikilink">今田正俊</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/伊藤公孝" title="wikilink">伊藤公孝</a>、<a href="../Page/伊藤早苗.md" title="wikilink">伊藤早苗</a>、<a href="https://ja.wikipedia.org/wiki/今田正俊" title="wikilink">今田正俊</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/篠原久典" title="wikilink">篠原久典</a>、<a href="https://ja.wikipedia.org/wiki/関口章" title="wikilink">関口章</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大堀淳" title="wikilink">大堀淳</a></p></td>
 <td><p><a href="../Page/河田聡.md" title="wikilink">河田聡</a></p></td>

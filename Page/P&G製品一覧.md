@@ -185,7 +185,7 @@
 
   - **現在**
       - [ジレット](../Page/ジレット.md "wikilink") (シェーバー)
-      - [ブラウン](../Page/ブラウン_\(企業\).md "wikilink") (電気製品) - 2013年1月1日付で調理器具および同製品のサポート業務を[デロンギ](https://ja.wikipedia.org/wiki/デロンギ "wikilink")へ移管\[6\]。
+      - [ブラウン](../Page/ブラウン_\(企業\).md "wikilink") (電気製品) - 2013年1月1日付で調理器具および同製品のサポート業務を[デロンギ](../Page/デロンギ.md "wikilink")へ移管\[6\]。
       - [デュラセル](../Page/デュラセル.md "wikilink") (電池)
   - **かつての製品**
       - [アイムス](https://ja.wikipedia.org/wiki/アイムス "wikilink") (ペットフード) - P\&Gジャパンが輸入元、[日本全薬工業](https://ja.wikipedia.org/wiki/日本全薬工業 "wikilink")が販売元となっていたが、2015年4月に[マース ジャパンに売却された](../Page/マース_ジャパン.md "wikilink")。

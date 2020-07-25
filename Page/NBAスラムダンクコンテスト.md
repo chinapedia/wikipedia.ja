@@ -17,7 +17,7 @@
 
   - [1984年](../Page/1984年.md "wikilink") -- [ラリー・ナンス](https://ja.wikipedia.org/wiki/ラリー・ナンス "wikilink")（[フェニックス・サンズ](../Page/フェニックス・サンズ.md "wikilink")）
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") -- [ドミニク・ウィルキンス](../Page/ドミニク・ウィルキンス.md "wikilink")（[アトランタ・ホークス](../Page/アトランタ・ホークス.md "wikilink")）
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") -- [スパッド・ウェブ](https://ja.wikipedia.org/wiki/スパッド・ウェブ "wikilink")（[アトランタ・ホークス](../Page/アトランタ・ホークス.md "wikilink")）
+  - [1986年](../Page/1986年.md "wikilink") -- [スパッド・ウェブ](https://ja.wikipedia.org/wiki/スパッド・ウェブ "wikilink")（[アトランタ・ホークス](../Page/アトランタ・ホークス.md "wikilink")）
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") -- [マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")（[シカゴ・ブルズ](../Page/シカゴ・ブルズ.md "wikilink")）
   - [1988年](../Page/1988年.md "wikilink") -- [マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")（[シカゴ・ブルズ](../Page/シカゴ・ブルズ.md "wikilink")）
   - [1989年](../Page/1989年.md "wikilink") -- [ケニー・ウォーカー](https://ja.wikipedia.org/wiki/ケニー・ウォーカー "wikilink")（[ニューヨーク・ニックス](../Page/ニューヨーク・ニックス.md "wikilink")）
@@ -35,7 +35,7 @@
   - [2001年](../Page/2001年.md "wikilink") -- [デズモンド・メイソン](../Page/デズモンド・メイソン.md "wikilink")([シアトル・スーパーソニックス](../Page/シアトル・スーパーソニックス.md "wikilink")）
   - [2002年](../Page/2002年.md "wikilink") -- [ジェイソン・リチャードソン](../Page/ジェイソン・リチャードソン.md "wikilink")（[ゴールデンステート・ウォリアーズ](../Page/ゴールデンステート・ウォリアーズ.md "wikilink")）
   - [2003年](../Page/2003年.md "wikilink") -- [ジェイソン・リチャードソン](../Page/ジェイソン・リチャードソン.md "wikilink")（[ゴールデンステート・ウォリアーズ](../Page/ゴールデンステート・ウォリアーズ.md "wikilink")）
-  - [2004年](../Page/2004年.md "wikilink") -- [フレッド・ジョーンズ](https://ja.wikipedia.org/wiki/フレッド・ジョーンズ "wikilink")（[インディアナ・ペイサーズ](../Page/インディアナ・ペイサーズ.md "wikilink")）
+  - [2004年](../Page/2004年.md "wikilink") -- [フレッド・ジョーンズ](../Page/フレッド・ジョーンズ.md "wikilink")（[インディアナ・ペイサーズ](../Page/インディアナ・ペイサーズ.md "wikilink")）
   - [2005年](../Page/2005年.md "wikilink") -- [ジョシュ・スミス](../Page/ジョシュ・スミス.md "wikilink")（[アトランタ・ホークス](../Page/アトランタ・ホークス.md "wikilink")）
   - [2006年](../Page/2006年.md "wikilink") -- [ネイト・ロビンソン](../Page/ネイト・ロビンソン.md "wikilink")（[ニューヨーク・ニックス](../Page/ニューヨーク・ニックス.md "wikilink")）
   - [2007年](../Page/2007年.md "wikilink") -- [ジェラルド・グリーン](../Page/ジェラルド・グリーン.md "wikilink")（[ボストン・セルティックス](../Page/ボストン・セルティックス.md "wikilink")）

@@ -1,7 +1,7 @@
 > この記事は[マツダ・CX-7](https://ja.wikipedia.org/wiki/マツダ・CX-7)から翻訳されています。
 
 
-**CX-7**（*シーエックス-セブン*）は[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造・販売していた[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")である。2006年から2012年まで[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で製造され、2014年からは[中国で製造される中国市場専売車となった](../Page/中華人民共和国.md "wikilink")\[1\]。
+**CX-7**（*シーエックス-セブン*）は[マツダ](../Page/マツダ.md "wikilink")が製造・販売していた[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")である。2006年から2012年まで[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で製造され、2014年からは[中国で製造される中国市場専売車となった](../Page/中華人民共和国.md "wikilink")\[1\]。
 
 ## 概要
 
@@ -39,7 +39,7 @@
 
 ## 関連項目
 
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink")
   - [マツダ・CX-4](https://ja.wikipedia.org/wiki/マツダ・CX-4 "wikilink") - 中国市場での後継車種
   - [マツダ・CX-5](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")
   - [マツダ・CX-8](https://ja.wikipedia.org/wiki/マツダ・CX-8 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[MO☆MO](https://ja.wikipedia.org/wiki/MO☆MO)から翻訳されています。
 
 
-**MO☆MO**（もも、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月12日](../Page/8月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。。
+**MO☆MO**（もも、[1986年](../Page/1986年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。。
 
 趣味は[ネイルアート](../Page/ネイルアート.md "wikilink")、特技は[水泳](../Page/水泳.md "wikilink")・[バスケットボール](../Page/バスケットボール.md "wikilink")。
 

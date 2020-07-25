@@ -132,7 +132,7 @@ folder:root
 
 ## 関係するパターン
 
-  - [Interpreter パターン](https://ja.wikipedia.org/wiki/Interpreter_パターン "wikilink") : 文法表現が Composite パターンとなる場合が多い。
+  - [Interpreter パターン](../Page/Interpreter_パターン.md "wikilink") : 文法表現が Composite パターンとなる場合が多い。
 
 ## 関連項目
 

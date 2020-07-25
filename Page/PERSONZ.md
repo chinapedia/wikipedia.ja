@@ -7,7 +7,7 @@
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")結成。当初は女性[ボーカリストの](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[JILL](../Page/JILL.md "wikilink")と[ギタリスト](../Page/ギタリスト.md "wikilink")の[本田毅](../Page/本田毅.md "wikilink")の2人の[ユニットという色彩が強く](../Page/音楽ユニット.md "wikilink")、[バンド名も](../Page/バンド_\(音楽\).md "wikilink")**[NOTHING PERSONAL](https://ja.wikipedia.org/wiki/NOTHING_PERSONAL_\(バンド\) "wikilink")**を名乗っていた。その後、元[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")（一時並行して在籍）の[ベーシスト](../Page/ベーシスト.md "wikilink")、[渡邉貢](../Page/渡邉貢.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[藤田勉](../Page/藤田勉.md "wikilink")が加わり、[1984年](../Page/1984年.md "wikilink")にバンド名を**PERSONZ**に改名。[新宿LOFTを中心としたライブ活動を展開する](../Page/ロフト_\(ライブハウス\).md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。ドラマ『[ママハハ・ブギ](../Page/ママハハ・ブギ.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の[主題歌](../Page/主題歌.md "wikilink")「[DEAR FRIENDS](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_\(PERSONZの曲\) "wikilink")」や、[オリコンチャート](../Page/オリコンチャート.md "wikilink")No.1アルバム『[DREAMERS ONLY](https://ja.wikipedia.org/wiki/DREAMERS_ONLY "wikilink")』が[ヒットした](../Page/ヒット曲.md "wikilink")。
 
-[1992年](../Page/1992年.md "wikilink")に本田が脱退。その後しばらく正式メンバーとしてのギタリストは不在であったが、1996年に元[ガラパゴスの](../Page/ガラパゴス_\(バンド\).md "wikilink")[田中詠司](https://ja.wikipedia.org/wiki/田中詠司 "wikilink")が加入。2001年に田中が脱退した後、[2002年](../Page/2002年.md "wikilink")から本田が復帰。以降、オリジナルメンバーで活動を続けている。2005年には、すべて新曲のライブでもレコーディングでもない世界初のDVDアルバム『[RODEO DRIVE](https://ja.wikipedia.org/wiki/RODEO_DRIVE_\(PERSONZの映像作品\) "wikilink")』を発表。この作品は編集無しの一発録りという、珍しい構成になっている。
+[1992年](../Page/1992年.md "wikilink")に本田が脱退。その後しばらく正式メンバーとしてのギタリストは不在であったが、1996年に元[ガラパゴスの](../Page/ガラパゴス_\(バンド\).md "wikilink")[田中詠司](../Page/田中詠司.md "wikilink")が加入。2001年に田中が脱退した後、[2002年](../Page/2002年.md "wikilink")から本田が復帰。以降、オリジナルメンバーで活動を続けている。2005年には、すべて新曲のライブでもレコーディングでもない世界初のDVDアルバム『[RODEO DRIVE](https://ja.wikipedia.org/wiki/RODEO_DRIVE_\(PERSONZの映像作品\) "wikilink")』を発表。この作品は編集無しの一発録りという、珍しい構成になっている。
 
 ## メンバー
 
@@ -28,13 +28,13 @@
 
 ### 以前に所属していたメンバー
 
-  - [田中詠司](https://ja.wikipedia.org/wiki/田中詠司 "wikilink")（たなか えいじ）:ギタリスト（1996年3月 - 2001年4月21日）、ex-[GALAPAGOS](../Page/ガラパゴス_\(バンド\).md "wikilink")、現在はSWEET NUMBER NINEに所属。
+  - [田中詠司](../Page/田中詠司.md "wikilink")（たなか えいじ）:ギタリスト（1996年3月 - 2001年4月21日）、ex-[GALAPAGOS](../Page/ガラパゴス_\(バンド\).md "wikilink")、現在はSWEET NUMBER NINEに所属。
 
 ## ディスコグラフィ
 
 ### シングル
 
-1.  [RomanEsque-HeartAche](https://ja.wikipedia.org/wiki/RomanEsque-HeartAche "wikilink")（1988年2月24日）
+1.  [RomanEsque-HeartAche](../Page/RomanEsque-HeartAche.md "wikilink")（1988年2月24日）
 2.  [BE HAPPY](https://ja.wikipedia.org/wiki/BE_HAPPY_\(PERSONZの曲\) "wikilink")（1988年7月21日）
 3.  [CAN'T STOP THE LOVE](https://ja.wikipedia.org/wiki/CAN'T_STOP_THE_LOVE_\(PERSONZの曲\) "wikilink")（1988年9月21日）
 4.  [DEAR FRIENDS](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_\(PERSONZの曲\) "wikilink")（1989年2月21日） - TBS系ドラマ『[ママハハ・ブギ](../Page/ママハハ・ブギ.md "wikilink")』主題歌
@@ -53,7 +53,7 @@
 17. [River](https://ja.wikipedia.org/wiki/River_\(PERSONZの曲\) "wikilink")（1998年2月25日）
 18. [DEAR FRIENDS -21st version-](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_-21st_version- "wikilink")（2001年2月9日）
 19. [SINGIN'](https://ja.wikipedia.org/wiki/SINGIN'_\(曲\) "wikilink") （2002年9月26日）
-20. [HEARTSONG](https://ja.wikipedia.org/wiki/HEARTSONG "wikilink")（2006年5月19日） - 携帯限定販売（販売終了）
+20. [HEARTSONG](../Page/HEARTSONG.md "wikilink")（2006年5月19日） - 携帯限定販売（販売終了）
 21. [BRAVE HEART](https://ja.wikipedia.org/wiki/BRAVE_HEART_\(PERSONZの曲\) "wikilink")（2008年5月28日）- デジタルシングル
 22. [THE ONLY ONE](https://ja.wikipedia.org/wiki/THE_ONLY_ONE_\(曲\) "wikilink")（2008年7月30日）- デジタルシングル
 23. C（2011年1月31日）- LIMITED SINGLES12 - 12ヶ月連続リリースのシングル
@@ -72,20 +72,20 @@
 ### アルバム
 
 1.  [Romantic Revolution](https://ja.wikipedia.org/wiki/Romantic_Revolution "wikilink")（1986年7月10日）- ミニアルバム（インディーズ）
-2.  [POWER-PASSION](https://ja.wikipedia.org/wiki/POWER-PASSION "wikilink")（1987年3月11日）- ミニアルバム（インディーズ）
+2.  [POWER-PASSION](../Page/POWER-PASSION.md "wikilink")（1987年3月11日）- ミニアルバム（インディーズ）
 3.  [PERSONZ](https://ja.wikipedia.org/wiki/PERSONZ_\(アルバム\) "wikilink")（1987年9月21日）- 1stアルバム
-4.  [RomanEsque-HeartAche](https://ja.wikipedia.org/wiki/RomanEsque-HeartAche "wikilink")（1988年2月21日）- ミニアルバム
+4.  [RomanEsque-HeartAche](../Page/RomanEsque-HeartAche.md "wikilink")（1988年2月21日）- ミニアルバム
 5.  [MODERN BOOGIE](https://ja.wikipedia.org/wiki/MODERN_BOOGIE "wikilink")（1988年7月21日）- 2ndアルバム
 6.  [NO MORE TEARS](https://ja.wikipedia.org/wiki/NO_MORE_TEARS_\(PERSONZのアルバム\) "wikilink")（1989年3月14日）- 3rdアルバム
 7.  [DREAMERS ONLY](https://ja.wikipedia.org/wiki/DREAMERS_ONLY "wikilink")（1989年12月6日）- 4thアルバム
 8.  [PRECIOUS?](https://ja.wikipedia.org/wiki/PRECIOUS? "wikilink")（1990年12月8日）- 5thアルバム
-9.  [MOVE](https://ja.wikipedia.org/wiki/MOVE_\(PERSONZのアルバム\) "wikilink")（1991年12月4日）- 6thアルバム
-10. [singin'](https://ja.wikipedia.org/wiki/Singin'_\(アルバム\) "wikilink")（1992年12月9日）- ベストアルバム
+9.  [MOVE](../Page/MOVE_\(PERSONZのアルバム\).md "wikilink")（1991年12月4日）- 6thアルバム
+10. [singin'](../Page/Singin'_\(アルバム\).md "wikilink")（1992年12月9日）- ベストアルバム
 11. [Romantic Revolution/POWER-PASSION](https://ja.wikipedia.org/wiki/Romantic_Revolution/POWER-PASSION "wikilink")（1992年12月16日）- インディーズ時代に発売されたLP2作品とソノシートを1枚にまとめたもの
-12. [The Show Must Go On](https://ja.wikipedia.org/wiki/The_Show_Must_Go_On_\(アルバム\) "wikilink")（1993年6月9日）- 7thアルバム
-13. [PERSONZ BEST](https://ja.wikipedia.org/wiki/PERSONZ_BEST "wikilink")（1994年3月23日）- ベストアルバム
-14. [砂の薔薇](https://ja.wikipedia.org/wiki/砂の薔薇_\(アルバム\) "wikilink")（1994年4月20日）- 8thアルバム
-15. [PERSONZ BEST II](https://ja.wikipedia.org/wiki/PERSONZ_BEST_II "wikilink")（1994年12月1日）- ベストアルバム
+12. [The Show Must Go On](../Page/The_Show_Must_Go_On_\(アルバム\).md "wikilink")（1993年6月9日）- 7thアルバム
+13. [PERSONZ BEST](../Page/PERSONZ_BEST.md "wikilink")（1994年3月23日）- ベストアルバム
+14. [砂の薔薇](../Page/砂の薔薇_\(アルバム\).md "wikilink")（1994年4月20日）- 8thアルバム
+15. [PERSONZ BEST II](../Page/PERSONZ_BEST_II.md "wikilink")（1994年12月1日）- ベストアルバム
 16. [OURS](https://ja.wikipedia.org/wiki/OURS_\(アルバム\) "wikilink")（1995年4月8日）- 9thアルバム
 17. [GENERATOR](https://ja.wikipedia.org/wiki/GENERATOR "wikilink")（1995年9月27日）- ミニアルバム
 18. [COME ALIVE 1986-1995](https://ja.wikipedia.org/wiki/COME_ALIVE_1986-1995 "wikilink")（1996年4月17日）- ライブアルバム

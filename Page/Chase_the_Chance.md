@@ -39,7 +39,7 @@
 
   - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(CC Mix)
       - バンドサウンド中心のアレンジを施した\[4\]。
-  - ベスト 『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（ 『**181920 & films**』も同様）
+  - ベスト 『**[181920](../Page/181920.md "wikilink")**』（ 『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）
       - 楽曲を再録・ニューレコーディングで収録。

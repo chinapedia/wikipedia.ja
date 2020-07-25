@@ -49,7 +49,7 @@
 
 ### Standard Edition
 
-『Standard Edition』では、ゲームエンジンが[RealLive](https://ja.wikipedia.org/wiki/RealLive "wikilink")に差し替えられたことにより、Windoows XPに対応できるようになったほか、バックログ機能およびバックログ時の音声再生も可能となった\[5\]。 また、容量が大きいDVD-ROMに収録されるため、オリジナルのグラフィックでは一部256色だったのに対し、『SE』ではフルカラーを実現させることができた\[6\]。
+『Standard Edition』では、ゲームエンジンが[RealLive](../Page/RealLive.md "wikilink")に差し替えられたことにより、Windoows XPに対応できるようになったほか、バックログ機能およびバックログ時の音声再生も可能となった\[5\]。 また、容量が大きいDVD-ROMに収録されるため、オリジナルのグラフィックでは一部256色だったのに対し、『SE』ではフルカラーを実現させることができた\[6\]。
 
 ## 反響
 

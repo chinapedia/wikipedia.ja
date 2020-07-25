@@ -193,7 +193,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
-<td><p>LOVE ME, HATE THE GAME／m-flo  Chan, Thaitanium, <a href="https://ja.wikipedia.org/wiki/陳冠希" title="wikilink">Edison Chen</a>, Ryohei</p></td>
+<td><p>LOVE ME, HATE THE GAME／m-flo  Chan, Thaitanium, <a href="../Page/陳冠希.md" title="wikilink">Edison Chen</a>, Ryohei</p></td>
 <td><p>m-flo「<a href="../Page/COSMICOLOR.md" title="wikilink">COSMICOLOR</a>」</p></td>
 </tr>
 <tr class="even">

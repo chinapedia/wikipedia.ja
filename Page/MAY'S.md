@@ -317,19 +317,19 @@ KICS-1842</p></td>
 
 #### その他
 
-|                                                                                                                                                |                    | タイトル                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------- |
-| レンタル限定CD                                                                                                                                       | 2009年12月21日        | **Prologue of Amazing**                              |
-| 12inch EP                                                                                                                                      | 2009年12月25日        | **The Remixies EP**                                  |
-| 配信限定シングル                                                                                                                                       | 2010年5月19日         | **星の数だけ抱きしめて**                                       |
-| ライブ会場・数量限定&レンタル限定シングル                                                                                                                          | 2010年10月1日\[8\]    | **SUPER SONG**                                       |
-| [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")限定配信                                                                                  | 2011年11月16日        | **今宵、月の下で feat. [上妻宏光](../Page/上妻宏光.md "wikilink")** |
-| ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP I**                               |
-| ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP II**                              |
-| アルバム（クリフエッジ & [LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink") & MAY'S & [Noa](https://ja.wikipedia.org/wiki/Noa "wikilink")名義） | 2015年5月13日         | ''' Quads '''                                        |
-| アルバム（Maicoと恋のキューピッツ♡\[9\]名義）                                                                                                                   | 2018年              | ''' \#totsugitai '''                                 |
-| Digital Single                                                                                                                                 | 2020年4月22日         | ''' F\*ck You 2 My Ex '''                            |
-|                                                                                                                                                |                    |                                                      |
+|                                                                                                                             |                    | タイトル                                                 |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------- |
+| レンタル限定CD                                                                                                                    | 2009年12月21日        | **Prologue of Amazing**                              |
+| 12inch EP                                                                                                                   | 2009年12月25日        | **The Remixies EP**                                  |
+| 配信限定シングル                                                                                                                    | 2010年5月19日         | **星の数だけ抱きしめて**                                       |
+| ライブ会場・数量限定&レンタル限定シングル                                                                                                       | 2010年10月1日\[8\]    | **SUPER SONG**                                       |
+| [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")限定配信                                                               | 2011年11月16日        | **今宵、月の下で feat. [上妻宏光](../Page/上妻宏光.md "wikilink")** |
+| ライブ会場・ファンクラブサイト限定シングル                                                                                                       | 2014年12月20日・12月21日 | **THE CHRISTMAS EP I**                               |
+| ライブ会場・ファンクラブサイト限定シングル                                                                                                       | 2014年12月20日・12月21日 | **THE CHRISTMAS EP II**                              |
+| アルバム（クリフエッジ & [LGYankees](../Page/LGYankees.md "wikilink") & MAY'S & [Noa](https://ja.wikipedia.org/wiki/Noa "wikilink")名義） | 2015年5月13日         | ''' Quads '''                                        |
+| アルバム（Maicoと恋のキューピッツ♡\[9\]名義）                                                                                                | 2018年              | ''' \#totsugitai '''                                 |
+| Digital Single                                                                                                              | 2020年4月22日         | ''' F\*ck You 2 My Ex '''                            |
+|                                                                                                                             |                    |                                                      |
 
 ### インディーズ
 
@@ -474,7 +474,7 @@ CHEER GIRL</p></td>
 </tr>
 <tr class="odd">
 <td><p>たとえ世界が真っ白になっても</p></td>
-<td><p>tvk「<a href="https://ja.wikipedia.org/wiki/音楽缶" title="wikilink">音楽缶</a>」12月度テーマソング[17]<br />
+<td><p>tvk「<a href="../Page/音楽缶.md" title="wikilink">音楽缶</a>」12月度テーマソング[17]<br />
 テレビ東京系「流派-R since 2001」12月度エンディングレコメンド曲[18]<br />
 TBSテレビ「<a href="../Page/噂の!東京マガジン.md" title="wikilink">噂の!東京マガジン</a>」2018年1月〜3月エンディングテーマ[19]</p></td>
 </tr>

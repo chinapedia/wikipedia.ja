@@ -70,7 +70,7 @@
 
 #### 移民の歌（合成）
 
-  - [移民の歌](https://ja.wikipedia.org/wiki/移民の歌 "wikilink")（Immigrant Song）4:03
+  - [移民の歌](../Page/移民の歌.md "wikilink")（Immigrant Song）4:03
   - ・・映像は1972年オーストラリア、シドニー、演奏は『[伝説のライヴ](../Page/伝説のライヴ.md "wikilink")』収録のもの
 
 #### マディソン・スクウェア・ガーデン
@@ -94,7 +94,7 @@
 
 <!-- end list -->
 
-1.  [カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア_\(レッド・ツェッペリンの曲\) "wikilink")（Going to California）4:41
+1.  [カリフォルニア](../Page/カリフォルニア_\(レッド・ツェッペリンの曲\).md "wikilink")（Going to California）4:41
 2.  ザッツ・ザ・ウェイ（That's the Way）6:04
 3.  スノウドニアの小屋（Bron-Yr-Aur Stomp）5:31
 4.  [死にかけて](https://ja.wikipedia.org/wiki/Tone_duh_bell_easy#レッド・ツェッペリンのバージョン "wikilink")（In My Time of Dying）11:14

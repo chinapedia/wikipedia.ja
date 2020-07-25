@@ -170,7 +170,7 @@
 <td><p>優香</p></td>
 <td><p>篠崎ゆかり</p></td>
 <td><p>大森英敏</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三家本泰美" title="wikilink">三家本泰美</a><br />
+<td><p><a href="../Page/三家本泰美.md" title="wikilink">三家本泰美</a><br />
 山口美浩</p></td>
 <td><p>飯田宏義</p></td>
 <td><p>4月17日</p></td>

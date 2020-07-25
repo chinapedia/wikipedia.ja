@@ -1165,7 +1165,7 @@ T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
-<td><p>EARTH「<a href="https://ja.wikipedia.org/wiki/Bright_Tomorrow" title="wikilink">Bright Tomorrow</a>」</p></td>
+<td><p>EARTH「<a href="../Page/Bright_Tomorrow.md" title="wikilink">Bright Tomorrow</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">

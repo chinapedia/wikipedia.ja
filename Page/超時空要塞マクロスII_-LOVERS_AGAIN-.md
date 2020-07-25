@@ -196,7 +196,7 @@
   - 企画 - [大西良昌](https://ja.wikipedia.org/wiki/大西良昌 "wikilink")、[村上克司](../Page/村上克司.md "wikilink")、末吉博彦、瀧井英侍
   - プロデュース - 高梨実、草野啓二、井口真一、谷紳一郎、神田浩武、[井上博明](https://ja.wikipedia.org/wiki/井上博明 "wikilink")、栫裕
   - アシスタント・プロデューサー - 寺田将人、園山靖輔
-  - 宣伝プロデューサー - 田口智幸（[ビックウエスト](https://ja.wikipedia.org/wiki/ビックウエスト "wikilink")）、沢登昌樹（[ムービック](../Page/ムービック.md "wikilink")）
+  - 宣伝プロデューサー - 田口智幸（[ビックウエスト](../Page/ビックウエスト.md "wikilink")）、沢登昌樹（[ムービック](../Page/ムービック.md "wikilink")）
   - 監督 - [八谷賢一](https://ja.wikipedia.org/wiki/八谷賢一 "wikilink")
   - シリーズ構成 - [富田祐弘](../Page/富田祐弘.md "wikilink")
   - キャラクターデザイン - [美樹本晴彦](../Page/美樹本晴彦.md "wikilink")
@@ -231,7 +231,7 @@
 
   - 企画 - 大西良昌（ビックウエスト）
   - プロデューサー - 岡崎千代（テレビせとうち）、田口智幸（ビックウエスト）
-  - 製作 - [テレビせとうち](../Page/テレビせとうち.md "wikilink")、[ビックウエスト](https://ja.wikipedia.org/wiki/ビックウエスト "wikilink")
+  - 製作 - [テレビせとうち](../Page/テレビせとうち.md "wikilink")、[ビックウエスト](../Page/ビックウエスト.md "wikilink")
 
 ## 使用曲
 

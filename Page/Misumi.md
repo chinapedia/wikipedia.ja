@@ -15,7 +15,7 @@
   - [1976年](../Page/1976年.md "wikilink")（昭和51年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [日本ケンタッキー・フライド・チキン](https://ja.wikipedia.org/wiki/日本ケンタッキーフライドチキン "wikilink")（株）と[フランチャイズ](../Page/フランチャイズ.md "wikilink")契約締結。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年） [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 鹿児島市に（株）[オートラマ](../Page/オートラマ.md "wikilink")鹿児島（現・（株）[フォード南九州](../Page/フォード・モーター.md "wikilink")）を設立。
   - 1984年（昭和59年） [6月](../Page/6月.md "wikilink") - [日本出版販売](../Page/日本出版販売.md "wikilink")（株）と取引契約締結。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")（株）とフランチャイズ契約締結。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")（株）とフランチャイズ契約締結。
   - [1989年](../Page/1989年.md "wikilink")（平成元年） [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - （株）ミスミへ社名変更。
   - [1994年](../Page/1994年.md "wikilink")（平成 6年） [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 定款上商号を（株）Misumiに変更。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成 7年） [4月19日](../Page/4月19日.md "wikilink") - 福岡証券取引所に株式上場。

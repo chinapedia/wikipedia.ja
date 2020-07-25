@@ -1,7 +1,7 @@
 > この記事は[AKEMI \(モデル\)](https://ja.wikipedia.org/wiki/AKEMI_\(モデル\))から翻訳されています。
 
 
-**小林 明実**（こばやし あけみ、[1981年](../Page/1981年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[女優](../Page/俳優.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")所属\[1\]。
+**小林 明実**（こばやし あけみ、[1981年](../Page/1981年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[女優](../Page/俳優.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")所属\[1\]。
 
 旧芸名は、**小林あけみ**\[2\]、**小林明美**、**AKEMI**。アニメーターの小林明美とは別人である。
 

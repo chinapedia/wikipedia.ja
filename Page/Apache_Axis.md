@@ -17,7 +17,7 @@
   - [Webサービス](../Page/Webサービス.md "wikilink")
   - [UDDI](https://ja.wikipedia.org/wiki/UDDI "wikilink")
   - [Web Services Description Language](../Page/Web_Services_Description_Language.md "wikilink") (WSDL)
-  - [Java Web Services Development Pack](https://ja.wikipedia.org/wiki/Java_Web_Services_Development_Pack "wikilink") (JWSDP)
+  - [Java Web Services Development Pack](../Page/Java_Web_Services_Development_Pack.md "wikilink") (JWSDP)
 
 ## 外部リンク
 

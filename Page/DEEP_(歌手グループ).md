@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - **KEISEI**（ケイセイ、本名：天羽景聖、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月24日](../Page/1月24日.md "wikilink") - ）
+  - **KEISEI**（ケイセイ、本名：天羽景聖、[1986年](../Page/1986年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - ）
       - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身\[9\]。血液型A型。
       - 専門学校ESPミュージカルアカデミー出身\[10\]。
       - VOCAL BATTLE AUDITIONのセミファイナリストを経て2006年加入\[11\]。
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - **RYO**（リョウ、本名：前田亮太、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月11日](../Page/7月11日.md "wikilink") - ）
+  - **RYO**（リョウ、本名：前田亮太、[1986年](../Page/1986年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - ）
       - 長崎県長崎市出身。血液型O型。
       - VOCAL BATTLE AUDITIONのセミファイナリストを経て2006年加入。2018年12月31日に芸能界引退\[15\]。2019年にブランドを立ち上げた\[16\]。
       - メンバーのYUICHIROは実兄\[17\]。

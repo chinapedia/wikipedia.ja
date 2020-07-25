@@ -76,7 +76,7 @@
 
 *Bonus Track.*
 　　14.　**In My Heart**
-　　　　(作詞・作曲:[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")　編曲:石塚知生　コーラスアレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink"))
+　　　　(作詞・作曲:[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")　編曲:石塚知生　コーラスアレンジ:[岩田雅之](../Page/岩田雅之.md "wikilink"))
 
   -
     　**通常盤のみ収録。**

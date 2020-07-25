@@ -7,15 +7,15 @@
 
 ## メンバー
 
-  - **ハルナ**（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月27日](../Page/10月27日.md "wikilink") - ）ボーカル (現:[ハルナバンドとして活動中](https://ja.wikipedia.org/wiki/南部マンゴーパーティーズ "wikilink"))
-  - **チアキ**（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月23日](../Page/10月23日.md "wikilink") - ）キーボード (現:[南部マンゴーパーティーズ](https://ja.wikipedia.org/wiki/南部マンゴーパーティーズ "wikilink")にて宮茶として活動中)
-  - **ナツミ**（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月24日](../Page/5月24日.md "wikilink") - ）ギター 本名： **(現:[南部マンゴーパーティーズ](https://ja.wikipedia.org/wiki/南部マンゴーパーティーズ "wikilink")の派生バンド、ティーパーティーズとして活動中)**
+  - **ハルナ**（[1986年](../Page/1986年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink") - ）ボーカル (現:[ハルナバンドとして活動中](https://ja.wikipedia.org/wiki/南部マンゴーパーティーズ "wikilink"))
+  - **チアキ**（[1986年](../Page/1986年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") - ）キーボード (現:[南部マンゴーパーティーズ](https://ja.wikipedia.org/wiki/南部マンゴーパーティーズ "wikilink")にて宮茶として活動中)
+  - **ナツミ**（[1986年](../Page/1986年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") - ）ギター 本名： **(現:[南部マンゴーパーティーズ](https://ja.wikipedia.org/wiki/南部マンゴーパーティーズ "wikilink")の派生バンド、ティーパーティーズとして活動中)**
   - **シンタロウ**（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）ギター 本名：**仲田 慎太郎**
   - **ユウスケ**（[1988年](../Page/1988年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") - ）ベース 本名：**新川 由高**
 
 ## 元メンバー
 
-  - **ユウヤ**（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ）ドラム 本名：**山川 優也**
+  - **ユウヤ**（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月26日](../Page/1月26日.md "wikilink") - ）ドラム 本名：**山川 優也**
       -
         肘の故障の治療に専念するため、4thシングル「かさなる影」リリース前後に脱退。
 
@@ -67,7 +67,7 @@
 <td><p><strong><a href="../Page/ユラユラ.md" title="wikilink">ユラユラ</a></strong></p></td>
 <td><p>ESCL-2920</p></td>
 <td><ol>
-<li>ユラユラ（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系 アニメ「<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_(アニメ)" title="wikilink">NARUTO</a>」第九期、<a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>「<a href="https://ja.wikipedia.org/wiki/音楽缶" title="wikilink">音楽缶</a>」2007年1月オープニング・テーマ）</li>
+<li>ユラユラ（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系 アニメ「<a href="https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_(アニメ)" title="wikilink">NARUTO</a>」第九期、<a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>「<a href="../Page/音楽缶.md" title="wikilink">音楽缶</a>」2007年1月オープニング・テーマ）</li>
 <li>物語</li>
 <li>ユラユラ(Instrumental)</li>
 </ol></td>

@@ -1,7 +1,7 @@
 > この記事は[Love,needing](https://ja.wikipedia.org/wiki/Love,needing)から翻訳されています。
 
 
-「**Love,needing**」（ラブ・ニーディング）は、[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された、日本の女性歌手・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の19作目の[シングル](../Page/シングル.md "wikilink")曲。CDコードはGZCA-4020。
+「**Love,needing**」（ラブ・ニーディング）は、[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に発売された、日本の女性歌手・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の19作目の[シングル](../Page/シングル.md "wikilink")曲。CDコードはGZCA-4020。
 
 ## 概要
 

@@ -26,8 +26,8 @@ My Birthday増刊号として1980年にスタート。「MISTY」と名前を変
   - プレゼントストーン（エド）
   - 天下無敵の 開運セレビアン（[ルネ・ヴァン・ダール・ワタナベ](https://ja.wikipedia.org/wiki/ルネ・ヴァン・ダール・ワタナベ "wikilink")）
   - 優しい光の贈り物（[姫乃宮亜美](https://ja.wikipedia.org/wiki/姫乃宮亜美 "wikilink")）
-  - 乙女のお金道（[マドモアゼル・愛](https://ja.wikipedia.org/wiki/マドモアゼル・愛 "wikilink")）
-  - マドモアゼル・愛のアクエリアス・オラシオン（[マドモアゼル・愛](https://ja.wikipedia.org/wiki/マドモアゼル・愛 "wikilink")）
+  - 乙女のお金道（[マドモアゼル・愛](../Page/マドモアゼル・愛.md "wikilink")）
+  - マドモアゼル・愛のアクエリアス・オラシオン（[マドモアゼル・愛](../Page/マドモアゼル・愛.md "wikilink")）
   - 中国神話 昔がたり（[真矢茉子](https://ja.wikipedia.org/wiki/真矢茉子 "wikilink")）
   - 不思議研究所（[マーク矢崎](https://ja.wikipedia.org/wiki/マーク・矢崎治信 "wikilink")）
   - ジョナサン・ケイナーの英国占星術直行便（[ジョナサン・ケイナー](../Page/ジョナサン・ケイナー.md "wikilink")）

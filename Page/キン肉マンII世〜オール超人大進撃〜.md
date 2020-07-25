@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [ガゼルマン](https://ja.wikipedia.org/wiki/ガゼルマン "wikilink")
+  - [ガゼルマン](../Page/ガゼルマン.md "wikilink")
     万太郎の仲間の正義超人。ヘラクレス・ファクトリーを首席で卒業したエリート。詳細は[『キン肉マンII世〜オール超人大進撃〜』でのガゼルマンを参照](https://ja.wikipedia.org/wiki/ガゼルマン#『キン肉マンII世〜オール超人大進撃〜』でのガゼルマン "wikilink")。
 
 <!-- end list -->

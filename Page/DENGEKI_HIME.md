@@ -1,7 +1,7 @@
 > この記事は[DENGEKI HIME](https://ja.wikipedia.org/wiki/DENGEKI_HIME)から翻訳されています。
 
 
-『**DENGEKI HIME**』（でんげきひめ）は、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）が発行していた月刊の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")雑誌である。左綴じの月刊誌で、発売日は毎月30日であった。
+『**DENGEKI HIME**』（でんげきひめ）は、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）が発行していた月刊の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")雑誌である。左綴じの月刊誌で、発売日は毎月30日であった。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 創刊から数年間はアダルトゲーム雑誌で唯一表紙にイラストを使わず、女性タレントを表紙に起用していたが、[2004年](../Page/2004年.md "wikilink")上旬より他誌と同様のイラスト表紙に変更された。[2005年](../Page/2005年.md "wikilink")1月号では、前月から表紙に起用された[Tony](../Page/Tony.md "wikilink")がキャラクターデザインを担当していた縁で家庭用ゲーム『[シャイニング・ティアーズ](../Page/シャイニング・ティアーズ.md "wikilink")』（[セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）のヒロイン・エルウィンが表紙を飾っている。
 
-また、姉妹誌『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")（以下、G's）』と同様に[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")も実施していたが、誌面のリニューアルに伴い2007年3月号の『[きみにおくるぼくのうた](https://ja.wikipedia.org/wiki/きみにおくるぼくのうた "wikilink")』連載終了を最後に停止している。本誌に連載された企画のうち『[メイド イン ドリーム](../Page/メイド_イン_ドリーム.md "wikilink")』は[2002年](../Page/2002年.md "wikilink")に[マリゴールド](../Page/マリゴールド.md "wikilink")より、『[からふる☆エデュケーション](https://ja.wikipedia.org/wiki/からふる☆エデュケーション "wikilink")』は2007年に[SOFT CIRCLE PARTHENONよりゲーム化されている](https://ja.wikipedia.org/wiki/SOFT_CIRCLE_PARTHENON "wikilink")。
+また、姉妹誌『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")（以下、G's）』と同様に[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")も実施していたが、誌面のリニューアルに伴い2007年3月号の『[きみにおくるぼくのうた](../Page/きみにおくるぼくのうた.md "wikilink")』連載終了を最後に停止している。本誌に連載された企画のうち『[メイド イン ドリーム](../Page/メイド_イン_ドリーム.md "wikilink")』は[2002年](../Page/2002年.md "wikilink")に[マリゴールド](../Page/マリゴールド.md "wikilink")より、『[からふる☆エデュケーション](../Page/からふる☆エデュケーション.md "wikilink")』は2007年に[SOFT CIRCLE PARTHENONよりゲーム化されている](https://ja.wikipedia.org/wiki/SOFT_CIRCLE_PARTHENON "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")8月号まで小野田雅が[編集長を務める](../Page/編集者.md "wikilink")。2006年9月号より『G's』編集長である[高野希義](https://ja.wikipedia.org/wiki/高野希義 "wikilink")が本誌編集長を兼務。2007年6月号より、今井利信が編集長に就任。2007年12月号より、寺岡利直が本誌及び『G's』両誌の編集長を兼務。[2011年](../Page/2011年.md "wikilink")6月号より、本誌副編集長だった斉藤康夫が編集長に就任している\[1\]。 また、本誌編集長である斉藤康夫は『[電撃コミック ジャパン](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン "wikilink")』創刊号（2010年）～2012年7月号まで副編集長を、2012年8月号～2013年2月号（2012年[12月25日](../Page/12月25日.md "wikilink")配信にて終了\[2\]）まで『電撃コミック ジャパン』編集長\[3\]も兼務していた。
 
@@ -37,9 +37,9 @@
       - 2004年6月号 - 2005年8月号
   - G爆ちゃん（画：[伊能津](https://ja.wikipedia.org/wiki/伊能津 "wikilink")）
       - 2004年10月号 - 2006年7月号
-  - [からふる☆エデュケーション](https://ja.wikipedia.org/wiki/からふる☆エデュケーション "wikilink")（企画：[パルテノン](https://ja.wikipedia.org/wiki/パルテノン "wikilink")・画：[YUKIRIN](https://ja.wikipedia.org/wiki/YUKIRIN "wikilink")）
+  - [からふる☆エデュケーション](../Page/からふる☆エデュケーション.md "wikilink")（企画：[パルテノン](https://ja.wikipedia.org/wiki/パルテノン "wikilink")・画：[YUKIRIN](https://ja.wikipedia.org/wiki/YUKIRIN "wikilink")）
       - 2005年12月号 - 2007年1月号
-  - [きみにおくるぼくのうた](https://ja.wikipedia.org/wiki/きみにおくるぼくのうた "wikilink")（企画：[桜森柚木](https://ja.wikipedia.org/wiki/桜森柚木 "wikilink")・画：[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")）
+  - [きみにおくるぼくのうた](../Page/きみにおくるぼくのうた.md "wikilink")（企画：[桜森柚木](https://ja.wikipedia.org/wiki/桜森柚木 "wikilink")・画：[水瀬凛](https://ja.wikipedia.org/wiki/水瀬凛 "wikilink")）
       - 2005年12月号 - 2007年3月号
 
 ## 本誌連載の漫画

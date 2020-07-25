@@ -29,7 +29,7 @@
 
   - [木下ココ](../Page/木下ココ.md "wikilink")
   - [木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")
-  - [黒木なつみ](https://ja.wikipedia.org/wiki/黒木なつみ "wikilink")（Yupendiディレクター）
+  - [黒木なつみ](../Page/黒木なつみ.md "wikilink")（Yupendiディレクター）
   - [佐々木希](https://ja.wikipedia.org/wiki/佐々木希 "wikilink")
   - [佐藤栞里](../Page/佐藤栞里.md "wikilink")
   - [愛未](../Page/愛未.md "wikilink")

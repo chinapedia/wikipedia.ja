@@ -5,7 +5,7 @@
 
 ## 概説
 
-FM富士が[JFNに加盟していた当時](../Page/全国FM放送協議会.md "wikilink")、[FM東京（現：TOKYO FM）など他のJFN系列局では土曜午後の枠に](../Page/エフエム東京.md "wikilink")『コーセー歌謡ベスト10』（現『[JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")』）や『DIATONE ポップスベストテン』（現『[コスモ ポップス ベスト10](https://ja.wikipedia.org/wiki/コスモ_ポップス_ベスト10 "wikilink")』）\[1\]などの番組（13 - 16時台はのちの[カウントダウンステーション](../Page/カウントダウンステーション.md "wikilink")枠）\[2\]を放送していたが、FM-FUJIではこれらの番組を放送せず、あくまでも独自色を打ち出し、生ワイド番組を編成。これが『SUNSHINE BREEZE』である。
+FM富士が[JFNに加盟していた当時](../Page/全国FM放送協議会.md "wikilink")、[FM東京（現：TOKYO FM）など他のJFN系列局では土曜午後の枠に](../Page/エフエム東京.md "wikilink")『コーセー歌謡ベスト10』（現『[JA全農 COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")』）や『DIATONE ポップスベストテン』（現『[コスモ ポップス ベスト10](../Page/コスモ_ポップス_ベスト10.md "wikilink")』）\[1\]などの番組（13 - 16時台はのちの[カウントダウンステーション](../Page/カウントダウンステーション.md "wikilink")枠）\[2\]を放送していたが、FM-FUJIではこれらの番組を放送せず、あくまでも独自色を打ち出し、生ワイド番組を編成。これが『SUNSHINE BREEZE』である。
 
 ### 特色
 
@@ -19,7 +19,7 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 
 ## 番組の終了
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より番組の拠点をこれまでの甲府本社から[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")のFM-FUJI東京支社スタジオ「[STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")」へ移行。放送時間も10時～15時30分に拡大され、最長5時間30分となる。東京移行後は電話リクエスト形式が廃止されるなど、番組のシステムや構成に若干変更がなされる。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より番組の拠点をこれまでの甲府本社から[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")のFM-FUJI東京支社スタジオ「[STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")」へ移行。放送時間も10時～15時30分に拡大され、最長5時間30分となる。東京移行後は電話リクエスト形式が廃止されるなど、番組のシステムや構成に若干変更がなされる。
 
 [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは放送場所を代々木から[新宿](../Page/新宿.md "wikilink")[ルミネ](../Page/ルミネ.md "wikilink")2内の[タワーレコード](../Page/タワーレコード.md "wikilink")新宿ルミネ店サテライトスタジオへ移し、放送時間も11時～15時55分（5時間）に復帰した。
 
@@ -61,7 +61,7 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 ## 関連項目
 
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")
-  - [STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")
+  - [STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")
   - [SUNSET CALLING](../Page/SUNSET_CALLING.md "wikilink") - 1993年4月～9月に長谷川が担当していた。
   - [SOUND SPEC.](https://ja.wikipedia.org/wiki/SOUND_SPEC. "wikilink") - 月・火曜を木河が担当していた。
   - [RADIO-izm](../Page/RADIO-izm.md "wikilink") - 1996年から13年間月～金曜夕方に放送された人気番組で、宅麻は初期の3年間金曜日を担当していた。ちなみにSUNSHINE BREEZE最終回の前日に当たる[1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送回で卒業。また、[近田和生](../Page/近田和生.md "wikilink")が宅麻のピンチヒッターを務めたこともある。

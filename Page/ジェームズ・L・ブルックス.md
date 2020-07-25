@@ -3,7 +3,7 @@
 
 **ジェームズ・L・ブルックス**（, [1940年](../Page/1940年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[プロデューサー](../Page/映画プロデューサー.md "wikilink")。[ニューヨーク](../Page/ニューヨーク.md "wikilink")市[ブルックリン出身](../Page/ブルックリン区.md "wikilink")。
 
-[CBS](../Page/CBS.md "wikilink")や[ABCで](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")『メアリー・タイラー・ムーア・ショー』や『[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")』、『トレイシー・ウルマン・ショー』などの人気シリーズを手がけた。映画監督としては『愛と追憶の日々』で[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")と[監督賞と](../Page/アカデミー監督賞.md "wikilink")[脚色賞を受賞している](../Page/アカデミー脚色賞.md "wikilink")。また、これまで[エミー賞](../Page/エミー賞.md "wikilink")を19回受賞している。
+[CBS](../Page/CBS.md "wikilink")や[ABCで](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")『メアリー・タイラー・ムーア・ショー』や『[ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")』、『トレイシー・ウルマン・ショー』などの人気シリーズを手がけた。映画監督としては『愛と追憶の日々』で[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")と[監督賞と](../Page/アカデミー監督賞.md "wikilink")[脚色賞を受賞している](../Page/アカデミー脚色賞.md "wikilink")。また、これまで[エミー賞](../Page/エミー賞.md "wikilink")を19回受賞している。
 
 プロデューサーとしては[トム・ハンクス](../Page/トム・ハンクス.md "wikilink")の『[ビッグ](../Page/ビッグ_\(映画\).md "wikilink")』や[ジョン・キューザック](../Page/ジョン・キューザック.md "wikilink")の『[セイ・エニシング](../Page/セイ・エニシング.md "wikilink")』、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")の『[ザ・エージェント](../Page/ザ・エージェント.md "wikilink")』などを手がけている。[ウェス・アンダーソン](../Page/ウェス・アンダーソン.md "wikilink")を発掘したのも彼である。
 
@@ -32,7 +32,7 @@
 ### テレビ
 
   - [事件記者ルー・グラント](https://ja.wikipedia.org/wiki/事件記者ルー・グラント "wikilink") *Lou Grant* (1977年-1982年) 製作総指揮
-  - [ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink") (1989年-) - 製作総指揮
+  - [ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink") (1989年-) - 製作総指揮
 
 ## 脚注
 

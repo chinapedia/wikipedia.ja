@@ -1,7 +1,7 @@
 > この記事は[GOEMON \(プロレスラー\)](https://ja.wikipedia.org/wiki/GOEMON_\(プロレスラー\))から翻訳されています。
 
 
-**GOEMON**（ゴエモン、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月26日](../Page/6月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名および旧リングネームは**中川 浩二**（なかがわ こうじ）。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。
+**GOEMON**（ゴエモン、[1968年](../Page/1968年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名および旧リングネームは**中川 浩二**（なかがわ こうじ）。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。
 
 ## 経歴
 

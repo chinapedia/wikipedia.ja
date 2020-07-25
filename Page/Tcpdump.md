@@ -15,7 +15,7 @@ tcpdumpを使うときには、 いくつかのフィルターを出力に適応
 
   - ネットワーク通信を行うプログラムのデバッグを行うため。
   - ネットワーク設定の確認のため。具体的には、必要なルーティングが正確に行われているかを調べ、問題を特定するのに使うことができる。
-  - 他の利用者や計算機の通信を横取り、表示するため。[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")や[HTTPのようなプロトコルはネットワークに平文で情報を流すため](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[ルーター](../Page/ルーター.md "wikilink")や[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")の管理者はtcpdumpを用いてログインIDやパスワード、URLなどの様々な情報を得ることが出来る。
+  - 他の利用者や計算機の通信を横取り、表示するため。[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")や[HTTPのようなプロトコルはネットワークに平文で情報を流すため](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[ルーター](../Page/ルーター.md "wikilink")や[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")の管理者はtcpdumpを用いてログインIDやパスワード、URLなどの様々な情報を得ることが出来る。
 
 ## 参考
 

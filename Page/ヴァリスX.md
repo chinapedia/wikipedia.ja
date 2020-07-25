@@ -3,7 +3,7 @@
 
 『**ヴァリスX**』（ヴァリスクロス）は、日本の[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")2月より[日本テレネットが運営していたダウンロード販売サイト](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")[BB5.jp](https://ja.wikipedia.org/wiki/BB5.jp "wikilink")などで5部作として販売され、後に[CD-ROM](../Page/CD-ROM.md "wikilink")媒体のパッケージ版も販売された。
 
-制作は[イーアンツ](../Page/イーアンツ.md "wikilink")。原画を[川合正起](https://ja.wikipedia.org/wiki/川合正起 "wikilink")が、シナリオを[きもとべなたかが担当した](https://ja.wikipedia.org/wiki/刀部智己 "wikilink")。
+制作は[イーアンツ](../Page/イーアンツ.md "wikilink")。原画を[川合正起](../Page/川合正起.md "wikilink")が、シナリオを[きもとべなたかが担当した](https://ja.wikipedia.org/wiki/刀部智己 "wikilink")。
 
 内容は、かつて日本テレネットより発売されていたアクションゲーム『[夢幻戦士ヴァリス](../Page/夢幻戦士ヴァリス.md "wikilink")』の第1作と第2作のリメイクにあたる。だが、オリジナル版と比べる余地がないほどに凌辱的な性的描写が多数盛り込まれており、これを巡って物議を醸すこととなった（詳細は後述）。なお、「ヴァリス」の名前が冠されているが、従来の『夢幻戦士ヴァリス』シリーズの細かいストーリーとキャラクターの性格設定は踏襲されていない。
 

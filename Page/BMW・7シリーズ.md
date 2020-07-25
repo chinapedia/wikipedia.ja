@@ -25,7 +25,7 @@
 
 ### もうひとつの745i
 
-**745i**（[1984年](../Page/1984年.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）[南アフリカ専用モデル](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")
+**745i**（[1984年](../Page/1984年.md "wikilink") - [1986年](../Page/1986年.md "wikilink")）[南アフリカ専用モデル](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")
 
 [ステアリング](../Page/ステアリング.md "wikilink")シャフトとの干渉とブレーキマスターシリンダーの過熱により、ターボモデルの右ハンドル仕様はあきらめざるを得なかったBMWであったが、南ア専用（右ハンドル）のハイパフォーマンスモデルとして、もうひとつの745iを用意した。 この745iは、[M1やM](https://ja.wikipedia.org/wiki/w:BMW_M1 "wikilink")635CSi同様、ボッシュのML[ジェトロニック](https://ja.wikipedia.org/wiki/ジェトロニック "wikilink")を持つ[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")用、[M88型](https://ja.wikipedia.org/wiki/w:BMW_M88 "wikilink")　直列6気筒DOHC24バルブエンジン（3,453 cc　286 hp）を搭載しており、[トランスミッション](../Page/トランスミッション.md "wikilink")は3[ATのほか](../Page/オートマチックトランスミッション.md "wikilink")、[クロースレシオの](../Page/クロスレシオトランスミッション.md "wikilink")5速[MTが選べた](../Page/マニュアルトランスミッション.md "wikilink")。 生産台数は192台と極めて少ない。
 

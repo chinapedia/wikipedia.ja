@@ -49,7 +49,7 @@
   - 1993年
       - [ガンネイル](https://ja.wikipedia.org/wiki/ガンネイル "wikilink")
       - [クイズぱにくるふぁんたじ〜](https://ja.wikipedia.org/wiki/クイズぱにくるふぁんたじ〜 "wikilink")
-      - [サンダードラゴン2](https://ja.wikipedia.org/wiki/サンダードラゴン2 "wikilink")
+      - [サンダードラゴン2](../Page/サンダードラゴン2.md "wikilink")
       - [超時空要塞マクロスII](https://ja.wikipedia.org/wiki/超時空要塞マクロスII_\(アーケードゲーム\) "wikilink")
       - [ボンジャックツイン](https://ja.wikipedia.org/wiki/ボンジャックツイン "wikilink")
   - 1994年

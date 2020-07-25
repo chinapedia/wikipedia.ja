@@ -23,7 +23,7 @@
 
 [2006年](../Page/2006年.md "wikilink")は日本代表決定トーナメントに出場。準々決勝で[安廣一哉](../Page/安廣一哉.md "wikilink")に判定勝ちするも、準決勝ではTKOで勝ち上がってきた[TATSUJI](../Page/TATSUJI.md "wikilink")の前にスタミナ切れを起こし、判定負け。ベスト4に終わった。同年9月4日に行われたK-1 WORLD MAX 〜世界王者対抗戦〜では[ウクライナ](../Page/ウクライナ.md "wikilink")の新星[アルトゥール・キシェンコ](../Page/アルトゥール・キシェンコ.md "wikilink")と対戦。延長まで縺れ込んだ接戦を判定で制した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月2日、「[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜 "wikilink")」に出場。1回戦で[龍二](../Page/龍二.md "wikilink")と対戦し、3Rまで互角の戦いを繰り広げ、2Rに奪ったダウンのポイントを護りきり判定勝ち。準決勝では[前田宏行](../Page/前田宏行.md "wikilink")と対戦し、1Rにダウンを奪われるものの1R終了後、前田が右肘骨折の疑いで[ドクターストップ](https://ja.wikipedia.org/wiki/ドクターストップ "wikilink")によりTKO勝ち。決勝では[城戸康裕](../Page/城戸康裕.md "wikilink")と対戦し、ダウンの奪い合いとなり、KO負け\[1\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月2日、「[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜](../Page/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜.md "wikilink")」に出場。1回戦で[龍二](../Page/龍二.md "wikilink")と対戦し、3Rまで互角の戦いを繰り広げ、2Rに奪ったダウンのポイントを護りきり判定勝ち。準決勝では[前田宏行](../Page/前田宏行.md "wikilink")と対戦し、1Rにダウンを奪われるものの1R終了後、前田が右肘骨折の疑いで[ドクターストップ](https://ja.wikipedia.org/wiki/ドクターストップ "wikilink")によりTKO勝ち。決勝では[城戸康裕](../Page/城戸康裕.md "wikilink")と対戦し、ダウンの奪い合いとなり、KO負け\[1\]。
 
 [2009年](../Page/2009年.md "wikilink")2月23日、[K-1 WORLD MAX 2009 〜日本代表決定トーナメント〜に出場](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_〜日本代表決定トーナメント〜 "wikilink")。HAYATOは、1回戦で[長島☆自演乙☆雄一郎](https://ja.wikipedia.org/wiki/長島☆自演乙☆雄一郎 "wikilink")との対戦にのぞみ、「K-1とオタクの違いをみせる」とコメントするもスリーノックダウンにより2RKO負け。
 

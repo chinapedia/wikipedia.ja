@@ -1,7 +1,7 @@
 > この記事は[キョウハクDOG\'s](https://ja.wikipedia.org/wiki/キョウハクDOG\'s)から翻訳されています。
 
 
-『**キョウハクDOG's**』は、[しゃあ](../Page/しゃあ.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")作品。『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）にて連載されていたが、2006年11月に『電撃帝王』が休刊となった際、姉妹誌等への連載移転が行われず中断した。その後2010年になって『[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）にて連載が再開され、単行本は『**キョウハクDOG's -Another Secret-**』と改題された上で第1巻から再刊された。
+『**キョウハクDOG's**』は、[しゃあ](../Page/しゃあ.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")作品。『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）にて連載されていたが、2006年11月に『電撃帝王』が休刊となった際、姉妹誌等への連載移転が行われず中断した。その後2010年になって『[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")』（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）にて連載が再開され、単行本は『**キョウハクDOG's -Another Secret-**』と改題された上で第1巻から再刊された。
 
 ## 他作品との関連
 
@@ -80,7 +80,7 @@
 
   - [しゃあ](../Page/しゃあ.md "wikilink") 『キョウハクDOG's』 [メディアワークス](../Page/メディアワークス.md "wikilink")〈[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")〉、全1巻
     1.  2005年11月15日初版発行（2005年10月27日発売\[1\]）、ISBN 4-8402-2969-4
-  - しゃあ 『キョウハクDOG's-Another Secret-』 [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")〈電撃コミックス〉、既刊5巻（2015年9月）
+  - しゃあ 『キョウハクDOG's-Another Secret-』 [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")〈電撃コミックス〉、既刊5巻（2015年9月）
     1.  2012年1月27日初版発行（同日発売\[2\]）、ISBN 978-4-04-886277-6
     2.  2012年1月27日初版発行（同日発売\[3\]）、ISBN 978-4-04-886278-3
     3.  2013年3月27日初版発行（同日発売\[4\]）、ISBN 978-4-04-891437-6
@@ -91,7 +91,7 @@
 
 [Category:乃木坂春香の秘密](https://ja.wikipedia.org/wiki/Category:乃木坂春香の秘密 "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:電撃G's_magazineの漫画作品](https://ja.wikipedia.org/wiki/Category:電撃G's_magazineの漫画作品 "wikilink")
 
-1.  「[AMW|雑誌・書籍検索 『キョウハクDOG's(1)』](http://asciimw.jp/search/mode/item/cd/B0512690)」 [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2012年2月22日閲覧。
+1.  「[AMW|雑誌・書籍検索 『キョウハクDOG's(1)』](http://asciimw.jp/search/mode/item/cd/B0512690)」 [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、2012年2月22日閲覧。
 2.  「[AMW|雑誌・書籍検索 『キョウハクDOG's -Another Secret-(1)』](http://asciimw.jp/search/mode/item/cd/B1202410)」 アスキー・メディアワークス、2012年2月22日閲覧。
 3.  「[AMW|雑誌・書籍検索 『キョウハクDOG's -Another Secret-(2)』](http://asciimw.jp/search/mode/item/cd/B1202420)」 アスキー・メディアワークス、2012年2月22日閲覧。
 4.  「[AMW|雑誌・書籍検索 『キョウハクDOG's -Another Secret-(3)』](http://asciimw.jp/search/mode/item/cd/311827300000)」 アスキー・メディアワークス、2014年10月29日閲覧。

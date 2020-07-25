@@ -87,7 +87,7 @@
 ### MF
 
   - 1989-1990  [チリアコ・スフォルツァ](https://ja.wikipedia.org/wiki/チリアコ・スフォルツァ "wikilink")
-  - 1992-1993  [ロベルト・ディ・マッテオ](https://ja.wikipedia.org/wiki/ロベルト・ディ・マッテオ "wikilink")
+  - 1992-1993  [ロベルト・ディ・マッテオ](../Page/ロベルト・ディ・マッテオ.md "wikilink")
   - 2000-2003  [ダビド・デゲン](../Page/ダビド・デゲン.md "wikilink")
   - 2000-2001,2014-  [ダニエル・ギガクス](https://ja.wikipedia.org/wiki/ダニエル・ギガクス "wikilink")
   - 2002-2004  [マレク・チトコ](https://ja.wikipedia.org/wiki/マレク・チトコ "wikilink")

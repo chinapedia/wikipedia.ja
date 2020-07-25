@@ -11,7 +11,7 @@
 
 ## 関連項目
 
-  - [Brasero](https://ja.wikipedia.org/wiki/Brasero "wikilink") - GNOMEデスクトップ環境で動作するライティングソフトウェア
+  - [Brasero](../Page/Brasero.md "wikilink") - GNOMEデスクトップ環境で動作するライティングソフトウェア
 
 ## 外部リンク
 

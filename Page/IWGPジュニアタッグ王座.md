@@ -257,7 +257,7 @@
 </tr>
 <tr class="odd">
 <td><p>第29代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイビー・リチャーズ" title="wikilink">デイビー・リチャーズ</a>&amp;<a href="../Page/ロッキー・ロメロ.md" title="wikilink">ロッキー・ロメロ</a></p></td>
+<td><p><a href="../Page/デイビー・リチャーズ.md" title="wikilink">デイビー・リチャーズ</a>&amp;<a href="../Page/ロッキー・ロメロ.md" title="wikilink">ロッキー・ロメロ</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2011年10月10日</p></td>

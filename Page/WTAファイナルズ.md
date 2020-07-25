@@ -229,14 +229,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>1月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>1月</p></td>
 <td><p><strong><a href="../Page/マルチナ・ナブラチロワ.md" title="wikilink">マルチナ・ナブラチロワ</a></strong></p></td>
 <td><p><a href="../Page/ハナ・マンドリコワ.md" title="wikilink">ハナ・マンドリコワ</a></p></td>
 <td><p>6-2, 6-0, 3-6, 6-1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>11月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>11月</p></td>
 <td><p><strong><a href="../Page/マルチナ・ナブラチロワ.md" title="wikilink">マルチナ・ナブラチロワ</a></strong></p></td>
 <td><p><a href="../Page/シュテフィ・グラフ.md" title="wikilink">シュテフィ・グラフ</a></p></td>
 <td><p>7-6, 6-3, 6-2</p></td>
@@ -553,7 +553,7 @@
 <td><p>6-7, 6-4, 7-6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>1月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>1月</p></td>
 <td><p><strong><a href="../Page/ハナ・マンドリコワ.md" title="wikilink">ハナ・マンドリコワ</a></strong><br />
  <strong><a href="../Page/ウェンディ・ターンブル.md" title="wikilink">ウェンディ・ターンブル</a></strong></p></td>
 <td><p><a href="../Page/クラウディア・コーデ＝キルシュ.md" title="wikilink">クラウディア・コーデ＝キルシュ</a><br />
@@ -561,7 +561,7 @@
 <td><p>6-4, 6-7, 6-3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a>11月</p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a>11月</p></td>
 <td><p><strong><a href="../Page/マルチナ・ナブラチロワ.md" title="wikilink">マルチナ・ナブラチロワ</a></strong><br />
  <strong><a href="../Page/パム・シュライバー.md" title="wikilink">パム・シュライバー</a></strong></p></td>
 <td><p><a href="../Page/クラウディア・コーデ＝キルシュ.md" title="wikilink">クラウディア・コーデ＝キルシュ</a><br />

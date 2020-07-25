@@ -26,7 +26,7 @@
       - [由紀さおり](../Page/由紀さおり.md "wikilink")・[安田祥子](../Page/安田祥子.md "wikilink")はこの年亡くなった[映画監督](../Page/映画監督.md "wikilink")・[黒澤明](../Page/黒澤明.md "wikilink")の追悼として黒澤作品の『[生きる](../Page/生きる_\(映画\).md "wikilink")』の挿入歌「[ゴンドラの唄](https://ja.wikipedia.org/wiki/ゴンドラの唄 "wikilink")」を歌唱。
   - 前回の出演を最後に1年間の産休に入っていた[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が本紅白を以ってステージ復帰。2年連続で「[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」を歌唱\[6\]。歌唱途中、会場からの拍手と声援に感極まって涙を流し、仲の良い[MAXのメンバーに支えられながらステージを後にした](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
       - ちなみにMAXの[Linaは当日](https://ja.wikipedia.org/wiki/Lina_\(歌手\) "wikilink")39度の高熱を出しており、会場に着いた後医務室で倒れ込む状態だったが、医者から尻に注射を打ってステージに立ったという\[7\]。
-  - [さだまさし](../Page/さだまさし.md "wikilink")が歌唱した「[北の国から〜遥かなる大地より〜](https://ja.wikipedia.org/wiki/北の国から〜遥かなる大地より〜 "wikilink")」は歌詞のない楽曲であることから、歌詞を付けて歌うと報道された\[8\]が、実際には歌詞を付けて歌うことはなかった。紅白でのハミング歌唱は史上初\[9\]。
+  - [さだまさし](../Page/さだまさし.md "wikilink")が歌唱した「[北の国から〜遥かなる大地より〜](../Page/北の国から〜遥かなる大地より〜.md "wikilink")」は歌詞のない楽曲であることから、歌詞を付けて歌うと報道された\[8\]が、実際には歌詞を付けて歌うことはなかった。紅白でのハミング歌唱は史上初\[9\]。
   - [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』で結成された[ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")と[ブラックビスケッツ](../Page/ブラックビスケッツ.md "wikilink")が同時に合同ユニットとして初出場。番組出演メンバーも応援団としてステージを盛り上げた。
   - [SMAP](../Page/SMAP.md "wikilink")は「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」を歌唱。司会席に集結した歌手達も観客同様、ペンライトで応援した。中居の代理としてSMAPの曲紹介は久保が行った。
   - 「[アメリカ橋](https://ja.wikipedia.org/wiki/恵比寿南橋#この橋にちなむ曲 "wikilink")」を歌唱した[山川豊](../Page/山川豊.md "wikilink")のバックコーラスには、白組歌手の[美川憲一](../Page/美川憲一.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")に加え同曲を作曲した[平尾昌晃](../Page/平尾昌晃.md "wikilink")が参加して場を盛り上げた。同曲は年跨ぎのヒットとなり、翌年の第50回でも歌唱された（平尾も2年連続で参加）。今回は持ち時間上2番目の一部が割愛されたが、第50回はリピート部分を除いたフルコーラスで歌われた。
@@ -73,7 +73,7 @@
   - [松平健](../Page/松平健.md "wikilink")（[俳優](../Page/俳優.md "wikilink")）：翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の[色部又四郎役](../Page/色部安長.md "wikilink")。
   - [俵万智](../Page/俵万智.md "wikilink")（[歌人](../Page/歌人.md "wikilink")）：歌集『そこまでの空 俵万智の贈り物』を出版。
   - [ジェームス三木](../Page/ジェームス三木.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）：翌々年の大河ドラマ『[葵 徳川三代](../Page/葵_徳川三代.md "wikilink")』の作者。
-  - [服部道子](https://ja.wikipedia.org/wiki/服部道子 "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")）：この年、年間5勝を挙げ賞金女王に輝く。
+  - [服部道子](../Page/服部道子.md "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")）：この年、年間5勝を挙げ賞金女王に輝く。
   - [熊川哲也](../Page/熊川哲也.md "wikilink")（[バレエダンサー](https://ja.wikipedia.org/wiki/バレエダンサー "wikilink")）：翌年[Kバレエカンパニー](https://ja.wikipedia.org/wiki/Kバレエカンパニー "wikilink")を創立。
   - [浅利純子](../Page/浅利純子.md "wikilink")（[陸上](../Page/陸上競技.md "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")）：この年の[東京国際女子マラソン](../Page/東京国際女子マラソン.md "wikilink")で優勝。
   - 大橋晴夫･NHK番組制作局長

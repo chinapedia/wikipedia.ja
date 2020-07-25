@@ -13,7 +13,7 @@
 
 同年には[朝霧JAM](https://ja.wikipedia.org/wiki/朝霧JAM "wikilink")、[2006年](../Page/2006年.md "wikilink")には[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")、[RISING SUN ROCK FESTIVALなどの大型フェスにも出演し話題となる](https://ja.wikipedia.org/wiki/ライジング・サン・ロック・フェスティバル "wikilink")。
 
-また、リミキサー、プロデューサーとしても[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")、[SAWA](https://ja.wikipedia.org/wiki/SAWA "wikilink")、[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、DA PUMPなどの作品に参加している。なお、現在も活動拠点は大阪である。
+また、リミキサー、プロデューサーとしても[Sweep](../Page/Sweep.md "wikilink")、[SAWA](https://ja.wikipedia.org/wiki/SAWA "wikilink")、[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、DA PUMPなどの作品に参加している。なお、現在も活動拠点は大阪である。
 
 ## 主要メンバー
 

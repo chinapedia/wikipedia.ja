@@ -78,7 +78,7 @@
   - [登龍門F](../Page/登龍門F.md "wikilink")
   - [ニューカマーズ](../Page/ニューカマーズ.md "wikilink")
   - [FNSソフト工場](https://ja.wikipedia.org/wiki/FNSソフト工場 "wikilink")（[FNS各局制作](../Page/フジネットワーク.md "wikilink")）
-  - [オッチモ\!](https://ja.wikipedia.org/wiki/オッチモ! "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
+  - [オッチモ\!](../Page/オッチモ!.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
   - [NHK番組たまご](../Page/NHK番組たまご.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [バリューナイトフィーバー](../Page/バリューナイトフィーバー.md "wikilink") → [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [企画工場なりあがり](../Page/企画工場なりあがり.md "wikilink")→[21世紀エジソン](../Page/21世紀エジソン.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）

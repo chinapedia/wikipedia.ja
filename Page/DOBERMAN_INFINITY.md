@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - **[SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink")**（スウェイ、本名：野替愁平、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）MC
+  - **[SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink")**（スウェイ、本名：野替愁平、[1986年](../Page/1986年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）MC
       - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身\[19\]。血液型AB型。
 
 <!-- end list -->

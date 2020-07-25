@@ -5,7 +5,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に、アメリカの玩具メーカーである[ケナー・プロダクツの](https://ja.wikipedia.org/wiki/:en:Kenner_Products "wikilink")[フィギュア](../Page/フィギュア.md "wikilink")シリーズの宣伝のために製作されたアニメ番組である。制作はアメリカとフランスに拠点を持つ[DICで](https://ja.wikipedia.org/wiki/:en:DIC_Entertainment "wikilink")、アニメーションの実製作は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行なわれた。1話25分で全75話。
 
-アメリカでは、[USAネットワーク](../Page/USAネットワーク.md "wikilink")にて1985年から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで放送された。フィギュアシリーズは1988年まで4シーズン続いたが、アニメ化されたのは最初の2シーズンのみであった。 正義の集団『マスク』（**M.A.S.K.**、*Mobile Armored Strike Kommand* ）による犯罪組織『ベノム』（**V.E.N.O.M.**、*Vicious Evil Network of Mayhem* ）の取り締まりを描く。両者は特殊な[マスク](../Page/マスク.md "wikilink")を被ることによりスーパーパワーを編み出し\[1\]、搭乗する車両や船、ヘリコプターなどの乗り物がそれに呼応し変形する。
+アメリカでは、[USAネットワーク](../Page/USAネットワーク.md "wikilink")にて1985年から[1986年](../Page/1986年.md "wikilink")まで放送された。フィギュアシリーズは1988年まで4シーズン続いたが、アニメ化されたのは最初の2シーズンのみであった。 正義の集団『マスク』（**M.A.S.K.**、*Mobile Armored Strike Kommand* ）による犯罪組織『ベノム』（**V.E.N.O.M.**、*Vicious Evil Network of Mayhem* ）の取り締まりを描く。両者は特殊な[マスク](../Page/マスク.md "wikilink")を被ることによりスーパーパワーを編み出し\[1\]、搭乗する車両や船、ヘリコプターなどの乗り物がそれに呼応し変形する。
 
 因みにサンダーホークとは後述のマット・トラッカーの専用可変メカの名称である。
 

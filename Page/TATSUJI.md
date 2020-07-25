@@ -33,7 +33,7 @@
 
 2007年9月30日、「SHOOT BOXING 2007 無双 〜MU-SO〜 其の四」で[宍戸大樹](../Page/宍戸大樹.md "wikilink")にダウンを奪われ判定負けを喫した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月2日、[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜に出場](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜 "wikilink")。1回戦で[前田宏行](../Page/前田宏行.md "wikilink")と対戦。前田相手に真っ向からパンチで打ち合い、1RKO負けを喫した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月2日、[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜に出場](../Page/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜.md "wikilink")。1回戦で[前田宏行](../Page/前田宏行.md "wikilink")と対戦。前田相手に真っ向からパンチで打ち合い、1RKO負けを喫した。
 
 [2009年](../Page/2009年.md "wikilink")2月23日、[K-1 WORLD MAX 2009 〜日本代表決定トーナメント〜に出場](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2009_〜日本代表決定トーナメント〜 "wikilink")。1回戦で3年ぶりの再戦となる[山本優弥](../Page/山本優弥.md "wikilink")と対戦。序盤的確にパンチをヒットさせるも、決め手を欠き延長R判定負けを喫した。
 

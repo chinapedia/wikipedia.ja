@@ -194,7 +194,7 @@ Gt.佃太郎(脱退) Ba.大山敦史(脱退)
 <li>HEY!ねえちゃん</li>
 <li>8月のベースボール</li>
 <li>五線譜のメロディ</li>
-<li><a href="../Page/心の旅_(チューリップの曲).md" title="wikilink">心の旅</a>（<a href="https://ja.wikipedia.org/wiki/チューリップ_(バンド)" title="wikilink">チューリップのカバー</a>）</li>
+<li><a href="../Page/心の旅_(チューリップの曲).md" title="wikilink">心の旅</a>（<a href="../Page/チューリップ_(バンド).md" title="wikilink">チューリップのカバー</a>）</li>
 </ol></td>
 <td><p>HIKARIMON</p></td>
 </tr>

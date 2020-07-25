@@ -470,7 +470,7 @@ KYOCERAブランド（K・KY）</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/W21S.md" title="wikilink">W21S</a>☆/<a href="https://ja.wikipedia.org/wiki/W62S" title="wikilink">W62S Z（カメラなしモデル）</a>☆</p></td>
+<td><p><a href="../Page/W21S.md" title="wikilink">W21S</a>☆/<a href="../Page/W62S.md" title="wikilink">W62S Z（カメラなしモデル）</a>☆</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -495,7 +495,7 @@ KYOCERAブランド（K・KY）</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/W44S.md" title="wikilink">W44S</a>/<a href="../Page/W51S.md" title="wikilink">W51S</a>/<a href="../Page/W52S.md" title="wikilink">W52S</a>/<a href="../Page/W53S.md" title="wikilink">W53S</a>/<a href="https://ja.wikipedia.org/wiki/W62S" title="wikilink">W62S</a>/<a href="https://ja.wikipedia.org/wiki/W64S" title="wikilink">W64S</a>/<a href="https://ja.wikipedia.org/wiki/S002" title="wikilink">S002</a>（SO002）</p></td>
+<td><p><a href="../Page/W44S.md" title="wikilink">W44S</a>/<a href="../Page/W51S.md" title="wikilink">W51S</a>/<a href="../Page/W52S.md" title="wikilink">W52S</a>/<a href="../Page/W53S.md" title="wikilink">W53S</a>/<a href="../Page/W62S.md" title="wikilink">W62S</a>/<a href="https://ja.wikipedia.org/wiki/W64S" title="wikilink">W64S</a>/<a href="https://ja.wikipedia.org/wiki/S002" title="wikilink">S002</a>（SO002）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -826,7 +826,7 @@ TOSHIBAブランド<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/W56T.md" title="wikilink">W56T</a>/<a href="https://ja.wikipedia.org/wiki/W61T" title="wikilink">W61T</a>/<a href="../Page/W62T.md" title="wikilink">W62T</a>/<a href="../Page/Sportio.md" title="wikilink">Sportio</a>（W63T）/<a href="https://ja.wikipedia.org/wiki/W64T" title="wikilink">W64T</a></p></td>
+<td><p><a href="../Page/W56T.md" title="wikilink">W56T</a>/<a href="../Page/W61T.md" title="wikilink">W61T</a>/<a href="../Page/W62T.md" title="wikilink">W62T</a>/<a href="../Page/Sportio.md" title="wikilink">Sportio</a>（W63T）/<a href="https://ja.wikipedia.org/wiki/W64T" title="wikilink">W64T</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

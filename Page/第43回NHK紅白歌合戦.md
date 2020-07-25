@@ -208,7 +208,7 @@
 
   - [南流石](../Page/南流石.md "wikilink")：美川憲一のバックダンサー(流石組)
 
-  - [デンセンマン](https://ja.wikipedia.org/wiki/デンセンマン "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[みごろ\!たべごろ\!笑いごろ\!](../Page/みごろ!たべごろ!笑いごろ!.md "wikilink")』のキャラクター）：DREAMS COME TRUEの曲後。
+  - [デンセンマン](../Page/デンセンマン.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[みごろ\!たべごろ\!笑いごろ\!](../Page/みごろ!たべごろ!笑いごろ!.md "wikilink")』のキャラクター）：DREAMS COME TRUEの曲後。
 
   - [オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")：「紅白判定機」。
 

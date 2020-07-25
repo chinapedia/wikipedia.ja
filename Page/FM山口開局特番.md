@@ -64,13 +64,13 @@
 
 25周年となる2010年は特別番組としては放送されず、代わりに11月29日から12月3日にかけて、平日の自社制作番組を横断する企画として**[OUR MUSIC NO.1 DERBY](https://www.fmy.co.jp/sp/aniv/25/present25.html)**（アワーミュージック・ナンバーワンダービー）が行われた。
 
-事前に社員・スタッフ・関係者全員で、**「これからもFMYでかけ続けたい曲」**をテーマに選曲。この中からリスナーが「これからもFMYで聴き続けたい曲」を投票するもの。結果は、期間内の[Morning Street](https://ja.wikipedia.org/wiki/Morning_Street "wikilink")、[Daytime Street](https://ja.wikipedia.org/wiki/Daytime_Street "wikilink")、[FRIDAY Bang\! Bang\! Highwayの中で発表された](https://ja.wikipedia.org/wiki/FRIDAY_Bang!_Bang!_Highway "wikilink")。
+事前に社員・スタッフ・関係者全員で、**「これからもFMYでかけ続けたい曲」**をテーマに選曲。この中からリスナーが「これからもFMYで聴き続けたい曲」を投票するもの。結果は、期間内の[Morning Street](../Page/Morning_Street.md "wikilink")、[Daytime Street](https://ja.wikipedia.org/wiki/Daytime_Street "wikilink")、[FRIDAY Bang\! Bang\! Highwayの中で発表された](https://ja.wikipedia.org/wiki/FRIDAY_Bang!_Bang!_Highway "wikilink")。
 
 ### 26周年〜29周年　愛あるSONGリクエスト
 
 26周年（2011年）以降は25周年同様に、平日の自社制作番組を横断する企画として**愛あるSONGリクエスト**を行った。
 
-リスナーから家族・男女・自然・故郷など、「愛」を歌った曲を、誰にどんな想いで贈りたいかをキーワードにリクエストを募り、期間内の[Morning Street](https://ja.wikipedia.org/wiki/Morning_Street "wikilink")、[Daytime Street](https://ja.wikipedia.org/wiki/Daytime_Street "wikilink")、[FRIDAY Bang\! Bang\! Highwayの中で発表された](https://ja.wikipedia.org/wiki/FRIDAY_Bang!_Bang!_Highway "wikilink")。
+リスナーから家族・男女・自然・故郷など、「愛」を歌った曲を、誰にどんな想いで贈りたいかをキーワードにリクエストを募り、期間内の[Morning Street](../Page/Morning_Street.md "wikilink")、[Daytime Street](https://ja.wikipedia.org/wiki/Daytime_Street "wikilink")、[FRIDAY Bang\! Bang\! Highwayの中で発表された](https://ja.wikipedia.org/wiki/FRIDAY_Bang!_Bang!_Highway "wikilink")。
 
   - [26周年：愛あるSONGリクエスト](https://www.fmy.co.jp/sp/aniv/26/form.html)（2011年11月21日-12月2日）
   - [27周年：愛あるSONGリクエスト](https://www.fmy.co.jp/sp/aniv/27/)（2012年11月26日-12月7日）

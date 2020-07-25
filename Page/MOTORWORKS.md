@@ -23,8 +23,8 @@
 
 ## メンバー
 
-  - [石田ショーキチ](../Page/石田ショーキチ.md "wikilink")（いしだ しょーきち、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") -）ボーカル、ギター、プログラミング。静岡県出身。
-  - [黒沢健一](../Page/黒沢健一.md "wikilink")（くろさわ けんいち、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月11日](../Page/8月11日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")）ボーカル、ギター。茨城県出身。
+  - [石田ショーキチ](../Page/石田ショーキチ.md "wikilink")（いしだ しょーきち、[1968年](../Page/1968年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") -）ボーカル、ギター、プログラミング。静岡県出身。
+  - [黒沢健一](../Page/黒沢健一.md "wikilink")（くろさわ けんいち、[1968年](../Page/1968年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")）ボーカル、ギター。茨城県出身。
   - [田村明浩](../Page/田村明浩.md "wikilink")（たむら あきひろ、[1967年](../Page/1967年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink") -）ベース、コーラス。静岡県出身。
   - [サンコンJr.](../Page/サンコンJr..md "wikilink")（さんこんじゅにあ、[1970年](../Page/1970年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") -）ドラム、コーラス。大阪府出身。第2期から加入。
 

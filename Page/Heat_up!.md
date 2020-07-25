@@ -9,7 +9,7 @@
   - 本作は初回生産限定、通常盤の2形態で発売。
   - 2006年5月から6月にかけて行われたライブツアー『関ジャニ∞ Concert Tour 2006 Funky Tokyo Osaka Nagoya』の千秋楽である[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館公演を収録。
   - 初回生産限定盤の特典DVDには、収録コントとは別バージョンのコント「**∞（エイト）レンジャー ～あった！黒バイク…！？～**」と本公演のダブルアンコールの「**[好きやねん、大阪。](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**」と「**[∞SAKAおばちゃんROCK](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**」のMVを収録。
-  - 2006年9月18日付のオリコンDVD総合チャート及び音楽DVDチャートで初登場1位を記録し、『[Excite\!\!](https://ja.wikipedia.org/wiki/Excite!! "wikilink")』、『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』、『[DREAM BOYS](../Page/DREAM_BOY.md "wikilink")』（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")と共演）に続き、4作連続でオリコン音楽DVD1位を獲得した。
+  - 2006年9月18日付のオリコンDVD総合チャート及び音楽DVDチャートで初登場1位を記録し、『[Excite\!\!](https://ja.wikipedia.org/wiki/Excite!! "wikilink")』、『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』、『[DREAM BOYS](../Page/DREAM_BOY.md "wikilink")』（[KAT-TUN](../Page/KAT-TUN.md "wikilink")と共演）に続き、4作連続でオリコン音楽DVD1位を獲得した。
 
 ## 販売形態
 

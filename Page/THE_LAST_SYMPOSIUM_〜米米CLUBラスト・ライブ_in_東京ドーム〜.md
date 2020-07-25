@@ -51,7 +51,7 @@
 4.  **BONUS SHOW TIME**
 5.  **愛 Know マジック**
 6.  **竹馬POPSメドレーのテーマ**
-7.  **[ひとすじになれない](https://ja.wikipedia.org/wiki/ひとすじになれない "wikilink")**
+7.  **[ひとすじになれない](../Page/ひとすじになれない.md "wikilink")**
 8.  **[君がいるだけで](https://ja.wikipedia.org/wiki/君がいるだけで "wikilink")**
 9.  **[浪漫飛行](../Page/浪漫飛行.md "wikilink")**
 10. **ホテルくちびる**

@@ -104,7 +104,7 @@
 
 :\* 谷岡（栗山のマネージャー） - [長岡尚彦](../Page/長岡尚彦.md "wikilink")
 
-:\* 田原幹夫 - [根岸大介](https://ja.wikipedia.org/wiki/根岸大介 "wikilink")
+:\* 田原幹夫 - [根岸大介](../Page/根岸大介.md "wikilink")
 
 :\* 島村（津田のボディーガード） - [古川くいち](https://ja.wikipedia.org/wiki/古川くいち "wikilink")
 
@@ -358,7 +358,7 @@
 
 :\* 宝石店員 - [竹本聡子](https://ja.wikipedia.org/wiki/竹本聡子 "wikilink")
 
-:\* 八木順（八木と節子の息子・ひとみの弟） - [吉田翔](https://ja.wikipedia.org/wiki/吉田翔_\(俳優\) "wikilink")\[19\]
+:\* 八木順（八木と節子の息子・ひとみの弟） - [吉田翔](../Page/吉田翔_\(俳優\).md "wikilink")\[19\]
 
 :\* 吉見音松（正造の父・喫茶店「まつね」と居酒屋「松音」のオーナー） - [ケーシー高峰](../Page/ケーシー高峰.md "wikilink")
 
@@ -458,7 +458,7 @@
 
 :\* 中屋繁（中屋ホールディングス 会長） - [矢島健一](../Page/矢島健一.md "wikilink")
 
-:\* 金沢夏生（高一と秀子の娘） - [小島藤子](https://ja.wikipedia.org/wiki/小島藤子 "wikilink")\[26\]（幼少期：[吉川実羽](https://ja.wikipedia.org/wiki/吉川実羽 "wikilink")）
+:\* 金沢夏生（高一と秀子の娘） - [小島藤子](../Page/小島藤子.md "wikilink")\[26\]（幼少期：[吉川実羽](https://ja.wikipedia.org/wiki/吉川実羽 "wikilink")）
 
 :\* 藤本実（無職・「コーポラス角筈」306号室の入居者） - [梨本謙次郎](../Page/梨本謙次郎.md "wikilink")
 
@@ -564,7 +564,7 @@
 
 ::\* 太田幸三（衆議院議員） - [藤田宗久](../Page/藤田宗久.md "wikilink")\[37\]
 
-::\* 三浦良文（間宮土木 社員） - [松林慎司](https://ja.wikipedia.org/wiki/松林慎司 "wikilink")
+::\* 三浦良文（間宮土木 社員） - [松林慎司](../Page/松林慎司.md "wikilink")
 
 ::\* 小林一郎（アパート管理人） - 森章二
 

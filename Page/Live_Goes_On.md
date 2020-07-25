@@ -25,7 +25,7 @@
       -
         Lyrics by Naoki Takada / Music by Naoki Takada & [DJ 大自然](https://ja.wikipedia.org/wiki/DJ_大自然 "wikilink")
         SEAMOは、このDJ 大自然（[トリカブト](../Page/トリカブト_\(ユニット\).md "wikilink")）のトラックを聴いた時、荒々しくて、ワンループでこれしかない、と思った。
-5.  **ANTI HERO feat. [KURO](../Page/KURO.md "wikilink") (from [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))**
+5.  **ANTI HERO feat. [KURO](../Page/KURO.md "wikilink") (from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))**
       -
         Lyrics by Naoki Takada,KURO / Music by Naoki Takada,KURO,Shintaro"Growth"Izutsu
         HOME MADE 家族のKUROが参加したナンバー。「ちょっとKURO、やってくれよ」という軽いノリから始まった。

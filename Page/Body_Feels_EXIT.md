@@ -70,7 +70,7 @@ Side BB
 
   - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(Latin House Mix)
       - [イントロが長く伸ばされており](../Page/導入部.md "wikilink")、演奏時間がシングルのORIGINAL MIXの倍以上の8分以上にも及んでいる[ラテン](../Page/ラテン音楽.md "wikilink")・[ハウス調に](../Page/ハウス_\(音楽\).md "wikilink")[リミックス](../Page/リミックス.md "wikilink")された楽曲。3rdアルバム「[Concentration 20](../Page/Concentration_20.md "wikilink")」を引っ提げて行われた4大ドームツアー『[Namie Amuro Concentration 20 Live in Tokyo Dome](https://ja.wikipedia.org/wiki/Namie_Amuro_Concentration_20_Live_in_Tokyo_Dome "wikilink")』ではこのバージョンで披露されており、このバージョンのイントロ部分は[バンドや](../Page/バンド_\(音楽\).md "wikilink")[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")イントロダクションに使われた。
-  - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
+  - ベスト『**[181920](../Page/181920.md "wikilink")**』（『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）
       - 楽曲を再録・ニューレコーディングで収録。

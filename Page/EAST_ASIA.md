@@ -1,7 +1,7 @@
 > この記事は[EAST ASIA](https://ja.wikipedia.org/wiki/EAST_ASIA)から翻訳されています。
 
 
-『**EAST ASIA**』（イーストエイジア）は、[1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に発表された、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の20作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**EAST ASIA**』（イーストエイジア）は、[1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に発表された、[中島みゆき](../Page/中島みゆき.md "wikilink")の20作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")(特記以外)
+  - 全作詞/作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")(特記以外)
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 
 ## 演奏者
 
-  - Vocals：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - Vocals：[中島みゆき](../Page/中島みゆき.md "wikilink")
 
 **EAST ASIA**
 

@@ -9,7 +9,7 @@
 
 [プロトタイプ](../Page/プロトタイプ.md "wikilink")は、[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")制作の[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")用ソフトウェア「フルカラーペイントツール-彩-」である。[2004年](../Page/2004年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")開始、[2006年](../Page/2006年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に[アルファ版](https://ja.wikipedia.org/wiki/アルファ版 "wikilink")、[2007年](../Page/2007年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ベータ版](../Page/ベータ版.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")に[製品](../Page/製品.md "wikilink")版を発売した。販売は[ライセンスキー](../Page/ライセンスキー.md "wikilink")の[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")となっている。
 
-ライセンスが無い状態では[試用版](https://ja.wikipedia.org/wiki/試用版 "wikilink")扱いとなり、試用期間中は、全ての機能が利用可能である。試用期間終了後はファイルの保存ができないなどの制限が課せられる。継続使用したい場合は、対応する[バージョン](https://ja.wikipedia.org/wiki/バージョン "wikilink")のライセンスを購入することでライセンスキーが発行され、制限は解除される。1ライセンスで複数PCへのインストールも許可されている。購入については、パッケージ販売など小売店などの流通はなく、ライセンスキーの購入による、体験版のアップグレードのみである。
+ライセンスが無い状態では[試用版](../Page/試用版.md "wikilink")扱いとなり、試用期間中は、全ての機能が利用可能である。試用期間終了後はファイルの保存ができないなどの制限が課せられる。継続使用したい場合は、対応する[バージョン](https://ja.wikipedia.org/wiki/バージョン "wikilink")のライセンスを購入することでライセンスキーが発行され、制限は解除される。1ライセンスで複数PCへのインストールも許可されている。購入については、パッケージ販売など小売店などの流通はなく、ライセンスキーの購入による、体験版のアップグレードのみである。
 
 製品版として発売されて以来正式版のバージョンアップがなく、[Windows7](https://ja.wikipedia.org/wiki/Windows7 "wikilink")以降のWindowsには完全対応していなかった。[2011年](../Page/2011年.md "wikilink")9月から現在までバージョン1.2の開発が続けられ、数回のベータ版を得て[2014年](../Page/2014年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")に正式版が公開された。
 

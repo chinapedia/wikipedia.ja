@@ -57,7 +57,7 @@
 
   - [沖縄市のFMステーション「FMコザ」のぶろぐー。](http://fmkoza.seesaa.net/)（2005年以前）
 
-  - [沖縄総合通信事務所](https://ja.wikipedia.org/wiki/沖縄総合通信事務所 "wikilink") 報道資料 平成16年3月31日
+  - [沖縄総合通信事務所](../Page/沖縄総合通信事務所.md "wikilink") 報道資料 平成16年3月31日
 
 [Category:九州地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:九州地方のコミュニティ放送局 "wikilink")
 

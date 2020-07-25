@@ -15,7 +15,7 @@
     (作詞・作曲・編曲:[米米CLUB](../Page/米米CLUB.md "wikilink"))
 2.  **イッショケンメ・ソング**
     (作詞・作曲・編曲:米米CLUB)
-3.  **[アイコトバはア・ブラ・カダ・ブラ](../Page/アイコトバはア・ブラ・カダ・ブラ.md "wikilink")** (米米CLUB vs [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))
+3.  **[アイコトバはア・ブラ・カダ・ブラ](../Page/アイコトバはア・ブラ・カダ・ブラ.md "wikilink")** (米米CLUB vs [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))
     (作詞:米米CLUB・KURO / MICRO / U-ICHI　作曲:米米CLUB・KURO / MICRO / U-ICHI / TAKAHIRO WATANABE　編曲:米米CLUB)
 4.  **BONUS SHOW TIME ～アルバム・ヨコクヘン～**
     (作詞・作曲:米米CLUB)
@@ -56,7 +56,7 @@
   - 菅木真智子：コーラス、コーラスアレンジ(\#2)
   - [弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")：[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")
   - 出口辰治：[ヴィブラフォン](../Page/ヴィブラフォン.md "wikilink")(\#2)
-  - KURO：ボーカル(\#3) ([HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))
+  - KURO：ボーカル(\#3) ([HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))
   - MICRO：ボーカル(\#3) (HOME MADE 家族)
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink")

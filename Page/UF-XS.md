@@ -25,7 +25,7 @@ UF-XSは[1967年](../Page/1967年.md "wikilink")（昭和42年）[10月16日](..
 
 機体はその後、[下総基地](https://ja.wikipedia.org/wiki/下総基地 "wikilink")、[静岡県](../Page/静岡県.md "wikilink")[清水市](../Page/清水市.md "wikilink")（現[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")）三保の[東海大学航空宇宙科学博物館](https://ja.wikipedia.org/wiki/東海大学航空宇宙科学博物館 "wikilink")（1984年7月31日で閉館。ただし閉館後もしばらくの間、本機については、同地の展示館群の他の屋外展示物とともに屋外に静置されていた）を経て、現在はUS-1と共に[岐阜かかみがはら航空宇宙博物館](../Page/岐阜かかみがはら航空宇宙博物館.md "wikilink")に展示されている。
 
-[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）、飛行艇開発の歴史を伝える航空遺産として、一般財団法人[日本航空協会](https://ja.wikipedia.org/wiki/日本航空協会 "wikilink")より「[重要航空遺産](https://ja.wikipedia.org/wiki/重要航空遺産 "wikilink")」に認定された\[6\]。
+[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）、飛行艇開発の歴史を伝える航空遺産として、一般財団法人[日本航空協会](../Page/日本航空協会.md "wikilink")より「[重要航空遺産](https://ja.wikipedia.org/wiki/重要航空遺産 "wikilink")」に認定された\[6\]。
 
 ## スペック
 

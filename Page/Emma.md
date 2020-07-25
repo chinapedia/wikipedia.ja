@@ -5,7 +5,7 @@
 
 ## 概要
 
-1985年[6月10日](../Page/6月10日.md "wikilink")に10日と25日発売の月2回刊として創刊\[1\]。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")には週刊化されるものの、1987年[5月6日](../Page/5月6日.md "wikilink")発売分をもって廃刊となった。
+1985年[6月10日](../Page/6月10日.md "wikilink")に10日と25日発売の月2回刊として創刊\[1\]。[1986年](../Page/1986年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")には週刊化されるものの、1987年[5月6日](../Page/5月6日.md "wikilink")発売分をもって廃刊となった。
 
 この頃並立していた写真週刊誌5誌（いわゆる[3FET](https://ja.wikipedia.org/wiki/3FET "wikilink")⇒『[FOCUS](../Page/FOCUS.md "wikilink")』『[FRIDAY](https://ja.wikipedia.org/wiki/フライデー_\(雑誌\) "wikilink")』『[FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")』『**Emma**』『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(写真週刊誌\) "wikilink")』）の中でも[日本航空123便墜落事故](../Page/日本航空123便墜落事故.md "wikilink")などの衝撃的な遺体写真を掲載するなど、過激さをひとつのウリにしていた雑誌であった。しかし、売り上げ部数では『FRIDAY』、『FOCUS』に後れを取っており、1986年の[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")以降、写真週刊誌全般に対する社会からの批判の声が高まり、社内でも否定的な意見が強まったことから、出版社の意向で廃刊へと至った。最も短命に終わった写真週刊誌だった。
 

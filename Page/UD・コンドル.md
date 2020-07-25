@@ -79,7 +79,7 @@
     低床4WD車が発売される。
   - [1999年](../Page/1999年.md "wikilink")4月
     マイナーチェンジ。逆台形の大型フロントグリルを採用するとともに、平成10年排出ガス規制に適合される。
-  - [2000年](../Page/2000年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+  - [2000年](../Page/2000年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")
     [アリソン・トランスミッション](../Page/アリソン・トランスミッション.md "wikilink")製5速[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")搭載車を設定。
   - 2000年[3月15日](../Page/3月15日.md "wikilink")
     MKシリーズに[炭素繊維](../Page/炭素繊維.md "wikilink")[複合材](https://ja.wikipedia.org/wiki/複合材 "wikilink")を用いた[ウィングボディ](../Page/ウィングボディ.md "wikilink")車を設定。従来のアルミウィング車に比べて250kgの軽量化が図られ、最大積載量4000kgを実現した。（[東レ](../Page/東レ.md "wikilink")＋[浜名ワークス](https://ja.wikipedia.org/wiki/浜名ワークス "wikilink")製）

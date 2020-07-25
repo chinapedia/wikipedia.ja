@@ -16,7 +16,7 @@
     6.  チェスト
     7.  Half Time
     8.  ありえない
-    9.  Five The 梁山泊 feat.[HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink"),[UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"),[RUDEBWOY FACE](https://ja.wikipedia.org/wiki/RUDE_BOY_FACE "wikilink") and [AKTION](https://ja.wikipedia.org/wiki/AKTION "wikilink")
+    9.  Five The 梁山泊 feat.[HAN-KUN](../Page/HAN-KUN.md "wikilink"),[UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"),[RUDEBWOY FACE](https://ja.wikipedia.org/wiki/RUDE_BOY_FACE "wikilink") and [AKTION](https://ja.wikipedia.org/wiki/AKTION "wikilink")
     10. Positive Vibes
     11. 朝五時の太陽 feat.[KEN-U](../Page/KEN-U.md "wikilink")
     12. History

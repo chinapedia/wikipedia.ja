@@ -389,7 +389,7 @@
 
 ## スタッフ
 
-  - 企画 - 原口淳、小林信一、[落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")
+  - 企画 - 原口淳、小林信一、[落合茂一](../Page/落合茂一.md "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")
   - 原案 - [水野祥司](https://ja.wikipedia.org/wiki/水野祥司 "wikilink")、[藤原茂樹](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink")、天野幹俊
   - シリーズ原案 - [酒井あきよし](../Page/酒井あきよし.md "wikilink")
   - 監督 - [川瀬敏文](../Page/川瀬敏文.md "wikilink")
@@ -574,7 +574,7 @@
 <td><p>13</p></td>
 <td><p>たたかえ!ダイブレッダー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大久保智康" title="wikilink">大久保智康</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三家本泰美" title="wikilink">三家本泰美</a></p></td>
+<td><p><a href="../Page/三家本泰美.md" title="wikilink">三家本泰美</a></p></td>
 <td><p>徳田悦郎<br />
 山本勝也</p></td>
 <td><p><a href="../Page/5月2日.md" title="wikilink">5月2日</a></p></td>

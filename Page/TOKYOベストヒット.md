@@ -1,7 +1,7 @@
 > この記事は[TOKYOベストヒット](https://ja.wikipedia.org/wiki/TOKYOベストヒット)から翻訳されています。
 
 
-**TOKYOベストヒット**（とうきょう - ）は、[1984年](../Page/1984年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[金曜日](../Page/金曜日.md "wikilink")の夜の時間帯で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。メインパーソナリティは開始から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで[伊藤政則](../Page/伊藤政則.md "wikilink")、1986年[10月10日](../Page/10月10日.md "wikilink")から最終回まで[関根勤](../Page/関根勤.md "wikilink")がそれぞれ担当した。
+**TOKYOベストヒット**（とうきょう - ）は、[1984年](../Page/1984年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[金曜日](../Page/金曜日.md "wikilink")の夜の時間帯で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。メインパーソナリティは開始から[1986年](../Page/1986年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで[伊藤政則](../Page/伊藤政則.md "wikilink")、1986年[10月10日](../Page/10月10日.md "wikilink")から最終回まで[関根勤](../Page/関根勤.md "wikilink")がそれぞれ担当した。
 
 放送時間は[1989年](../Page/1989年.md "wikilink")3月まで22:00〜25:00、1989年4月からは22:30〜25:00（「[GENJI](../Page/光GENJI.md "wikilink") GENKI爆発」が22:00〜22:30に放送されていたため）。
 
@@ -21,7 +21,7 @@
 
 ### メインパーソナリティ
 
-  - [伊藤政則](../Page/伊藤政則.md "wikilink")（1984年2月10日〜[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")）
+  - [伊藤政則](../Page/伊藤政則.md "wikilink")（1984年2月10日〜[1986年](../Page/1986年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")）
   - [関根勤](../Page/関根勤.md "wikilink")（1986年[10月10日](../Page/10月10日.md "wikilink")〜1990年3月30日）
 
 ### 共演者

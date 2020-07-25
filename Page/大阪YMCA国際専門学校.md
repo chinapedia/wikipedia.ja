@@ -44,7 +44,7 @@
 ## 著名な出身者
 
   - [U.K.](../Page/U.K._\(タレント\).md "wikilink") - ラジオDJ・[タレント](../Page/タレント.md "wikilink")
-  - [利根川進](https://ja.wikipedia.org/wiki/利根川進 "wikilink") - [生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")　※YMCA予備校出身（[浪人中に在籍](../Page/過年度生.md "wikilink")）
+  - [利根川進](../Page/利根川進.md "wikilink") - [生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")　※YMCA予備校出身（[浪人中に在籍](../Page/過年度生.md "wikilink")）
 
 ## 交通
 

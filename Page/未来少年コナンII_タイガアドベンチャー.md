@@ -131,7 +131,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/高木淳" title="wikilink">高木淳</a><br />
 早川啓二</p></td>
 <td><p>花井信也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/そ〜とめこういちろう" title="wikilink">五月女浩一朗</a></p></td>
+<td><p><a href="../Page/そ〜とめこういちろう.md" title="wikilink">五月女浩一朗</a></p></td>
 <td><p><a href="../Page/10月23日.md" title="wikilink">10月23日</a></p></td>
 <td></td>
 </tr>

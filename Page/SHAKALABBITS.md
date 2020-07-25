@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [1999年](../Page/1999年.md "wikilink")5月、東京の音楽専門学校（[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")）で、同期の仲間（、、、）が集まり、 の前身バンド「住-」結成（当時  が坊主頭であり、MAH が  を着けていたというだけで命名。
+  - [1999年](../Page/1999年.md "wikilink")5月、東京の音楽専門学校（[ミューズ音楽院](../Page/ミューズ音楽院.md "wikilink")）で、同期の仲間（、、、）が集まり、 の前身バンド「住-」結成（当時  が坊主頭であり、MAH が  を着けていたというだけで命名。
   - 7月、[住職](../Page/住職.md "wikilink")よりも[お釈迦様の方が立派だろうという事と](https://ja.wikipedia.org/wiki/釈迦 "wikilink")、UKIの好きな動物「[うさぎ](https://ja.wikipedia.org/wiki/うさぎ "wikilink")」を英語の「」に、英語で「」の意味を込め、 誕生。
   - [2002年](../Page/2002年.md "wikilink")5月22日、アルバム「」内の「」をシングルカットしてリリース。同時にメジャーデビューとなった。
   - 6月1日、健康上の理由からギターのMASSYが脱退。
@@ -68,7 +68,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/OVERDOING" title="wikilink">OVERDOING</a></strong></p></td>
+<td><p><strong><a href="../Page/OVERDOING.md" title="wikilink">OVERDOING</a></strong></p></td>
 <td><p>LTDC-013</p></td>
 <td><p>i hate records/Limited Records</p></td>
 </tr>
@@ -82,7 +82,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月22日.md" title="wikilink">5月22日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ROLLIE" title="wikilink">ROLLIE</a></strong></p></td>
+<td><p><strong><a href="../Page/ROLLIE.md" title="wikilink">ROLLIE</a></strong></p></td>
 <td><p>POCE-8600</p></td>
 <td><p>オリコン最高30位、登場回数9回</p></td>
 </tr>
@@ -103,14 +103,14 @@
 <tr class="even">
 <td><p>5th</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Pivot_(SHAKALABBITSの曲)" title="wikilink">Pivot</a></strong></p></td>
+<td><p><strong><a href="../Page/Pivot_(SHAKALABBITSの曲).md" title="wikilink">Pivot</a></strong></p></td>
 <td><p>XLCN-71001</p></td>
 <td><p>オリコン最高6位、登場回数12回</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>2003年<a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9月3日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MONSTER_TREE" title="wikilink">MONSTER TREE</a></strong></p></td>
+<td><p><strong><a href="../Page/MONSTER_TREE.md" title="wikilink">MONSTER TREE</a></strong></p></td>
 <td><p>XLCN-72002</p></td>
 <td><p>オリコン最高位、登場回数回</p></td>
 </tr>
@@ -124,7 +124,7 @@
 <tr class="odd">
 <td><p>8th</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GO☆SKIP_IT" title="wikilink">GO☆SKIP IT</a></strong></p></td>
+<td><p><strong><a href="../Page/GO☆SKIP_IT.md" title="wikilink">GO☆SKIP IT</a></strong></p></td>
 <td><p>XLCN-71005</p></td>
 <td><p>オリコン最高7位、登場回数8回</p></td>
 </tr>
@@ -139,7 +139,7 @@ XLCN-72006:通常盤</p></td>
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2005年<a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Ladybug_(SHAKALABBITSの曲)" title="wikilink">Ladybug</a></strong></p></td>
+<td><p><strong><a href="../Page/Ladybug_(SHAKALABBITSの曲).md" title="wikilink">Ladybug</a></strong></p></td>
 <td><p>XLCN-72007</p></td>
 <td><p>オリコン最高7位、登場回数6回</p></td>
 </tr>

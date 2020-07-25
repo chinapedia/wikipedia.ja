@@ -7,7 +7,7 @@
 
 ## 概要
 
-所属タレントはかつて他の芸能事務所に所属していた人が多いのが特徴で、諸事情がある芸人たちの「最後の砦」として機能している性格を持ち、新興事務所ながら芸人同士のつながりが深く経験も蓄積されている\[1\]。ユース的な要素を持つ下部組織として**[SMA HEET Project](https://ja.wikipedia.org/wiki/SMA_HEET_Project "wikilink")**も存在している。また、他事務所からのオファーがあれば、移籍を容認する方針を取っている。
+所属タレントはかつて他の芸能事務所に所属していた人が多いのが特徴で、諸事情がある芸人たちの「最後の砦」として機能している性格を持ち、新興事務所ながら芸人同士のつながりが深く経験も蓄積されている\[1\]。ユース的な要素を持つ下部組織として**[SMA HEET Project](../Page/SMA_HEET_Project.md "wikilink")**も存在している。また、他事務所からのオファーがあれば、移籍を容認する方針を取っている。
 
 ## SMAトライアウトライブ（笑）
 
@@ -329,7 +329,7 @@
 <!-- end list -->
 
   -
-    [オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")に移籍後、解散
+    [オスカープロモーション](../Page/オスカープロモーション.md "wikilink")に移籍後、解散
 
 <!-- end list -->
 
@@ -342,7 +342,7 @@
 
 <!-- end list -->
 
-  - [夙川アトム](https://ja.wikipedia.org/wiki/夙川アトム "wikilink")
+  - [夙川アトム](../Page/夙川アトム.md "wikilink")
 
 <!-- end list -->
 
@@ -481,7 +481,7 @@
 
 ## 関連項目
 
-  - [SMA HEET Project](https://ja.wikipedia.org/wiki/SMA_HEET_Project "wikilink")
+  - [SMA HEET Project](../Page/SMA_HEET_Project.md "wikilink")
 
 ## 外部リンク
 

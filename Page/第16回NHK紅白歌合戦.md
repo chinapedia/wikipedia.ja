@@ -86,7 +86,7 @@
   - [藤村有弘](../Page/藤村有弘.md "wikilink")
   - [倍賞美津子](../Page/倍賞美津子.md "wikilink")
   - [千羽ちどり](https://ja.wikipedia.org/wiki/千羽ちどり "wikilink")
-  - [三浦布美子](https://ja.wikipedia.org/wiki/三浦布美子 "wikilink")
+  - [三浦布美子](../Page/三浦布美子.md "wikilink")
   - [金井克子](../Page/金井克子.md "wikilink")、ほか
 
 ### 大会委員長
@@ -115,7 +115,7 @@
 
 | 回次                                                                                                                     | 紅組司会                                                    | 主演作品                                                             | 備考                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）                    | [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")   | [はね駒](../Page/はね駒.md "wikilink")                                 | 歌手としても出場。                                                                                                       |
+| [第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）                                       | [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")   | [はね駒](../Page/はね駒.md "wikilink")                                 | 歌手としても出場。                                                                                                       |
 | [第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")（[1992年](../Page/1992年.md "wikilink")）                                       | [石田ひかり](../Page/石田ひかり.md "wikilink")                    | [ひらり](../Page/ひらり_\(テレビドラマ\).md "wikilink")                      |                                                                                                                 |
 | [第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） | [松下奈緒](https://ja.wikipedia.org/wiki/松下奈緒 "wikilink")   | [ゲゲゲの女房](https://ja.wikipedia.org/wiki/ゲゲゲの女房 "wikilink")        |                                                                                                                 |
 | [第62回](https://ja.wikipedia.org/wiki/第62回NHK紅白歌合戦 "wikilink")（[2011年](../Page/2011年.md "wikilink")）                    | [井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink")   | [おひさま](https://ja.wikipedia.org/wiki/おひさま_\(テレビドラマ\) "wikilink") |                                                                                                                 |

@@ -1,7 +1,7 @@
 > この記事は[SourceForge Enterprise](https://ja.wikipedia.org/wiki/SourceForge_Enterprise)から翻訳されています。
 
 
-**TeamForge** は、協働型[バージョン管理](../Page/バージョン管理システム.md "wikilink")・[ソフトウェア開発](../Page/ソフトウェア開発.md "wikilink")管理システムである。各種ソフトウェア開発サービスのフロントエンドを提供し、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")や[Subversionといった](../Page/Apache_Subversion.md "wikilink")[FLOSS](https://ja.wikipedia.org/wiki/FLOSS "wikilink")アプリケーションを統合している。かつては、SourceForge Enterpriseという名称だった。
+**TeamForge** は、協働型[バージョン管理](../Page/バージョン管理システム.md "wikilink")・[ソフトウェア開発](../Page/ソフトウェア開発.md "wikilink")管理システムである。各種ソフトウェア開発サービスのフロントエンドを提供し、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")や[Subversionといった](../Page/Apache_Subversion.md "wikilink")[FLOSS](../Page/FLOSS.md "wikilink")アプリケーションを統合している。かつては、SourceForge Enterpriseという名称だった。
 
 元々は、SourceForge.netで採用されていたシステム自体が[オープンソース](../Page/オープンソース.md "wikilink")だったが、v2.5をフォークする形でv3.0から商用化され、[プロプライエタリ・ソフトウェア](../Page/プロプライエタリ・ソフトウェア.md "wikilink")の SourceForge Enterprise Edition という製品になった。元のv2.0のコードベースから、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")によって [Savannah](https://ja.wikipedia.org/wiki/GNU_Savannah "wikilink") として[フォークされた](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")。また、元々SorceForge.netを開発していた一部のプログラマらが v2.5コードをベースに[GForge](https://ja.wikipedia.org/wiki/GForge "wikilink") という別のフォークを立ち上げている。v4.0からは、完全にJavaベースのシステムにスクラッチから書き直され、元々のSourceForge.netに由来するコードは無くなっている。v5.2より、SourceForgeという名称も外されている。
 

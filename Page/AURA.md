@@ -16,7 +16,7 @@
 ## メンバー
 
   - VOCAL：[REDS☆](../Page/Reds☆.md "wikilink")（みんなのれっず）/赤 [1967年](../Page/1967年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")出身
-  - DRUMS：[KoREDS★](https://ja.wikipedia.org/wiki/KoREDS★ "wikilink")（あなたの子れっず）/紫 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身
+  - DRUMS：[KoREDS★](https://ja.wikipedia.org/wiki/KoREDS★ "wikilink")（あなたの子れっず）/紫 [1968年](../Page/1968年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身
   - GUITAR：PIE（龍巻のピー）※「竜巻のピー」と表記される場合もある/黄 1967年[3月21日](../Page/3月21日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身　2013年5月に[肺がん](https://ja.wikipedia.org/wiki/肺がん "wikilink")で入院。同年12月28日死去。本名：平川秀治
   - BASS：Marble（ぷりんすマーブル）/緑 1968年[2月25日](../Page/2月25日.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身 現在は絹山不動産の代表取締役のほか、2019年11月開局のコミュニティFMである狛江ラジオ放送株式会社（コマラジ）の代表取締役社長などを務める\[1\]。
 

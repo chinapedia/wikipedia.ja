@@ -1,7 +1,7 @@
 > この記事は[K.A.Z \(ギタリスト\)](https://ja.wikipedia.org/wiki/K.A.Z_\(ギタリスト\))から翻訳されています。
 
 
-**K.A.Z**（カズ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月11日](../Page/10月11日.md "wikilink") - ）は、日本の[ギタリスト](../Page/ギタリスト.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[プログラマー](https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽 "wikilink")、[プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。血液型O型。
+**K.A.Z**（カズ、[1968年](../Page/1968年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink") - ）は、日本の[ギタリスト](../Page/ギタリスト.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[プログラマー](https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽 "wikilink")、[プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")出身。血液型O型。
 
 ## 来歴
 

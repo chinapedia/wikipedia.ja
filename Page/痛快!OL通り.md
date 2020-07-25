@@ -1,7 +1,7 @@
 > この記事は[痛快!OL通り](https://ja.wikipedia.org/wiki/痛快!OL通り)から翻訳されています。
 
 
-『**痛快\! OL通り**』（つうかい オーエルどおり）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）に[TBS系列で放映された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。放映期間は、同年10月10日から12月26日までで、放送時間は、毎週金曜日の夜9時からであった。全12話。
+『**痛快\! OL通り**』（つうかい オーエルどおり）は、[1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）に[TBS系列で放映された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。放映期間は、同年10月10日から12月26日までで、放送時間は、毎週金曜日の夜9時からであった。全12話。
 
 ## 概要
 

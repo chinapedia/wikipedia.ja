@@ -1,7 +1,7 @@
 > この記事は[Just believe in love](https://ja.wikipedia.org/wiki/Just_believe_in_love)から翻訳されています。
 
 
-「**Just believe in love**」（ジャスト・ビリーブ・イン・ラヴ）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の14作目の[シングル](../Page/シングル.md "wikilink")。
+「**Just believe in love**」（ジャスト・ビリーブ・イン・ラヴ）は、[ZARD](../Page/ZARD.md "wikilink")の14作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:春畑道哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:春畑道哉が制作した楽曲 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink")

@@ -35,7 +35,7 @@
 
 (**Ester Chavarri**)
 
-声 - [達依久子](https://ja.wikipedia.org/wiki/達依久子 "wikilink")
+声 - [達依久子](../Page/達依久子.md "wikilink")
 
 カミオン隊メンバーの一人。気のいい老婆。65歳。[リーンホースの甲板に複葉機で単身乗り付けるほどの](https://ja.wikipedia.org/wiki/クラップ#リーンホース "wikilink")、豪胆さを持っている。
 

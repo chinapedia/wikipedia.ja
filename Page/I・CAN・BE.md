@@ -5,7 +5,7 @@
 
 ## 解説
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売されたデビューアルバム「[シャリ・シャリズム](https://ja.wikipedia.org/wiki/シャリ・シャリズム "wikilink")」と同時発売となったデビューシングル。アルバム「シャリ・シャリズム」の他、1991年発売の6thアルバム「[K2C](../Page/K2C_\(アルバム\).md "wikilink")」には、[フュージョン調にアレンジされたリメイク版が収録されており](../Page/フュージョン_\(音楽\).md "wikilink")、このヴァージョンは[オートザム・AZ-3](https://ja.wikipedia.org/wiki/マツダ・AZ-3 "wikilink")（[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）のCMソングにも起用された（「Sony By K2C」のテロップ表記あり）。デビュー曲ということもあって、各種の企画盤にも必ず収録されている。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売されたデビューアルバム「[シャリ・シャリズム](https://ja.wikipedia.org/wiki/シャリ・シャリズム "wikilink")」と同時発売となったデビューシングル。アルバム「シャリ・シャリズム」の他、1991年発売の6thアルバム「[K2C](../Page/K2C_\(アルバム\).md "wikilink")」には、[フュージョン調にアレンジされたリメイク版が収録されており](../Page/フュージョン_\(音楽\).md "wikilink")、このヴァージョンは[オートザム・AZ-3](https://ja.wikipedia.org/wiki/マツダ・AZ-3 "wikilink")（[マツダ](../Page/マツダ.md "wikilink")）のCMソングにも起用された（「Sony By K2C」のテロップ表記あり）。デビュー曲ということもあって、各種の企画盤にも必ず収録されている。
 
 恋人との別れを歌った切ないナンバーだが、タイトルの「I・CAN・BE」と歌い上げるフレーズが最後に「[あかんべえ](../Page/あかんべえ.md "wikilink")」に変わるなど、所謂「ソーリー曲」らしさも有するユニークな楽曲である。
 

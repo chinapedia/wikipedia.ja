@@ -160,7 +160,7 @@
     チームスローガン：**One Soul**
     吉澤体制4年目。
     2月よりトップチームの運営がASPから株式会社松本山雅に移行。また、それまで使用していた盾と王冠に月桂樹をあしらったエンブレムが、[松本城](../Page/松本城.md "wikilink")天守の千鳥破風をモチーフとした盾に雷鳥をあしらった現行のエンブレムに変更された。
-    [横浜FMから元](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[日本代表DFの](../Page/サッカー日本代表.md "wikilink")[松田直樹](../Page/松田直樹.md "wikilink")\[34\]\[35\]、[熊本から](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")[渡辺匠](../Page/渡辺匠.md "wikilink")、[水戸から](../Page/水戸ホーリーホック.md "wikilink")3年ぶりのチーム復帰となる[片山真人](../Page/片山真人.md "wikilink")などを獲得。また、ヘッドコーチに[流通経済大学から](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")[柴田峡](https://ja.wikipedia.org/wiki/柴田峡 "wikilink")、GKコーチに[鳥栖から](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")[本間康貴](https://ja.wikipedia.org/wiki/本間康貴 "wikilink")がそれぞれ就任した。
+    [横浜FMから元](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[日本代表DFの](../Page/サッカー日本代表.md "wikilink")[松田直樹](../Page/松田直樹.md "wikilink")\[34\]\[35\]、[熊本から](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")[渡辺匠](../Page/渡辺匠.md "wikilink")、[水戸から](../Page/水戸ホーリーホック.md "wikilink")3年ぶりのチーム復帰となる[片山真人](../Page/片山真人.md "wikilink")などを獲得。また、ヘッドコーチに[流通経済大学から](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")[柴田峡](https://ja.wikipedia.org/wiki/柴田峡 "wikilink")、GKコーチに[鳥栖から](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")[本間康貴](../Page/本間康貴.md "wikilink")がそれぞれ就任した。
     [JFL優勝](../Page/日本フットボールリーグ.md "wikilink")・[J2昇格を至上課題としてシーズンに臨んだが](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")、序盤の成績は低迷。6月に吉澤監督を解任、後任監督にGMの[加藤が就任した](../Page/加藤善之.md "wikilink")。7月に[福岡から](../Page/アビスパ福岡.md "wikilink")[李鍾民](../Page/李鍾民.md "wikilink")を獲得。8月2日、チームを引っ張っていた[松田直樹](../Page/松田直樹.md "wikilink")が練習中に[急性心筋梗塞で突如倒れ](../Page/心筋梗塞.md "wikilink")、8月4日に死去した。
     シーズン中の8月に練習生として練習に参加していた[江原FC](https://ja.wikipedia.org/wiki/江原FC "wikilink")（[Kリーグ](../Page/Kリーグ1.md "wikilink")）の[大橋正博](../Page/大橋正博.md "wikilink")、[横浜FC](../Page/横浜FC.md "wikilink")から[飯尾和也](../Page/飯尾和也.md "wikilink")、[栃木SC](../Page/栃木SC.md "wikilink")からレンタル移籍で[船山貴之](https://ja.wikipedia.org/wiki/船山貴之 "wikilink")を獲得した。リーグ戦は後期第17節の[ホンダロックSC](../Page/ホンダロックSC.md "wikilink")戦に勝利してJFL4位以内を確定（最終順位も4位）。12月12日のJリーグ臨時理事会で正式に[Jリーグへの入会が承認され](../Page/日本プロサッカーリーグ.md "wikilink")、[町田と共に](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")2012年シーズンからの[J2加入が決定した](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で[2006年](../Page/2006年.md "wikilink")から制度化された「上位入賞チームの[全国地域サッカーリーグ決勝大会出場](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")」資格の特権を活かしたチームのJリーグ昇格第1号となった。
     [天皇杯は](https://ja.wikipedia.org/wiki/第91回天皇杯全日本サッカー選手権大会 "wikilink")2回戦で横浜FC(J2)、3回戦で[新潟](../Page/アルビレックス新潟.md "wikilink")（[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")）に勝利し、Jリーグクラブ以外で唯一4回戦進出を果たした。4回戦で[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")(J1)に敗退した。
@@ -1112,7 +1112,7 @@ U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初
 
   - 信越放送
       - 『[モーニングワイド ラジオJ](../Page/モーニングワイド_ラジオJ.md "wikilink")』内「松本山雅 weekly zoom up」（毎週月曜 8:20頃 - ）
-      - 『[坂ちゃんのずくだせえぶりでい](https://ja.wikipedia.org/wiki/坂ちゃんのずくだせえぶりでい "wikilink")』内「ずくだせサッカー魂」（毎週月曜 12:30頃 - ）
+      - 『[坂ちゃんのずくだせえぶりでい](../Page/坂ちゃんのずくだせえぶりでい.md "wikilink")』内「ずくだせサッカー魂」（毎週月曜 12:30頃 - ）
       - 「もっとまつもと！」（毎週水曜 13:15 - 13:30）
 
 ### 新聞

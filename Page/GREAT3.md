@@ -17,7 +17,7 @@
 
 ## メンバー
 
-  - **片寄明人**（かたよせ あきと、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [東京都](../Page/東京都.md "wikilink")出身、B型、180cm）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - **片寄明人**（かたよせ あきと、[1968年](../Page/1968年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [東京都](../Page/東京都.md "wikilink")出身、B型、180cm）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
       -
         高校生の頃から東京の[モッズ](../Page/モッズ.md "wikilink")・シーンに関わっており、当時、[ザ・コーツ](https://ja.wikipedia.org/wiki/ザ・コーツ "wikilink")に在籍していた[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")（[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")）や、THE BIKE(の[加藤ひさし](https://ja.wikipedia.org/wiki/加藤ひさし "wikilink")（現[THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink")）と親交がある。[法政二高](https://ja.wikipedia.org/wiki/法政二高 "wikilink")、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")卒業。
         [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、歌手・モデルの[Chocolat](../Page/Chocolat.md "wikilink")と結婚。chocolatとのデュオChocolat & Akitoとして活動。
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - **白根賢一**（しらね けんいち [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - 東京都出身、A型、176cm）ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - **白根賢一**（しらね けんいち [1968年](../Page/1968年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink") - 東京都出身、A型、176cm）ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
       -
         元GREAT3メンバーの高桑とは幼馴染み。
         ソロユニットLAS VEGAS、Acapulcoとして、また他ミュージシャンのサウンドデザイナー、プロデューサーとしても活動している。

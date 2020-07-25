@@ -17,7 +17,7 @@
 
 1.  **[KANSHAして](https://ja.wikipedia.org/wiki/KANSHAして "wikilink")**（wah wah version）
       -
-        作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:[林田健司](../Page/林田健司.md "wikilink")　編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:[林田健司](../Page/林田健司.md "wikilink")　編曲:[岩田雅之](../Page/岩田雅之.md "wikilink")
     <!-- end list -->
       - 16thシングルのアルバムバージョン
     <!-- end list -->
@@ -105,7 +105,7 @@
   - Drums: [Vinnie Colaiuta](../Page/ヴィニー・カリウタ.md "wikilink")
   - Guitar: [Wah Wah Watson](https://ja.wikipedia.org/wiki/:en:Wah_Wah_Watson "wikilink")
   - Trumpet Solo: [Eric Miyashiro](../Page/エリック・ミヤシロ.md "wikilink")
-  - Chorus: [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - Chorus: [Masayuki Iwata](../Page/岩田雅之.md "wikilink")
   - Horn Section
       - Trumpet & Flugelhorn: John Allmark, Joeseph Giorgianni
       - Trombone: John Wheeler

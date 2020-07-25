@@ -124,7 +124,7 @@
 <tr class="odd">
 <td><p><strong>ピルグリム</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山中一徳" title="wikilink">山中一徳</a></p></td>
+<td><p><a href="../Page/山中一徳.md" title="wikilink">山中一徳</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>トムゼン</strong></p></td>
@@ -224,7 +224,7 @@
 ### DVD
 
   - 『U・ボート ディレクターズ・カット』（パイオニアLDC（現ジェネオン・エンタテインメント））、[1999年](../Page/1999年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")）
-  - 『U・ボート ディレクターズ・カット』（ジェネオン・エンタテインメント、[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）※上記のリパッケージ版。
+  - 『U・ボート ディレクターズ・カット』（ジェネオン・エンタテインメント、[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）※上記のリパッケージ版。
   - 『U・ボート パーフェクト・コレクション』（ジェネオン・エンタテインメント、2005年1月26日）『ディレクターズ・カット』、『TVシリーズ』、『オリジナル劇場版』を同梱した限定セット。
   - 『U・ボート TVシリーズ完全版』（ジェネオン・エンタテインメント、2005年1月26日）
   - 『U・ボート ディレクターズ・カット』（角川書店、[2011年](../Page/2011年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")）※『ディレクターズ・カット』の廉価盤

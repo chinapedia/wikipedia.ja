@@ -123,7 +123,7 @@
     【6】3月、澄空を離れていたりりすが街に戻り、祖母の家で暮らし始める。
   - [Memories Off After Rain](../Page/Memories_Off_After_Rain.md "wikilink") Vol.1 折鶴（2001年5月）
     『1st』と『2nd』の登場人物による外伝。
-    智也・唯笑・巴、澄空学園高校3年生。澄空と浜咲は同じ日程で[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")への修学旅行を実施する。
+    智也・唯笑・巴、澄空学園高校3年生。澄空と浜咲は同じ日程で[京都](../Page/京都.md "wikilink")への修学旅行を実施する。
     唯笑と交際中にもかかわらず、いまだに彩花の件を振り切れていない智也は、弟を交通事故で亡くすという彼と似た過去を持つ巴と知り合い、心を揺らす。
   - [Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")（2001年8月）
     シリーズ第2作。

@@ -23,10 +23,10 @@
         作詞:[上杉昇](../Page/上杉昇.md "wikilink")　作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
         1stシングル。[WANDS](../Page/WANDS.md "wikilink")の上杉昇の提供作。自身最大のセールスを記録した作品。
         作詞者の上杉昇がWANDSにてセルフカバーしている。\[1\]また、作曲者の織田哲郎がセルフカバーしている。\[2\]
-2.  **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")**
+2.  **[翼を広げて](../Page/翼を広げて.md "wikilink")**
       -
         作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲:織田哲郎　編曲:葉山たけし
-        2ndシングル。アルバム初収録。[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の坂井泉水の提供作。
+        2ndシングル。アルバム初収録。[ZARD](../Page/ZARD.md "wikilink")の坂井泉水の提供作。
         作詞者の坂井泉水がZARDとしてセルフカバーしている。\[3\]また、作曲者の織田哲郎がセルフカバーしている。\[4\]
 3.  **[Memories](../Page/Memories_\(DEENの曲\).md "wikilink")**
       -

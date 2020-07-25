@@ -52,7 +52,7 @@
 
 ## 主なスタッフ
 
-  - ナレーター：[田子千尋](https://ja.wikipedia.org/wiki/田子千尋 "wikilink")、[中村江里子](../Page/中村江里子.md "wikilink")（当時フジテレビアナウンサー）、[榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")
+  - ナレーター：[田子千尋](../Page/田子千尋.md "wikilink")、[中村江里子](../Page/中村江里子.md "wikilink")（当時フジテレビアナウンサー）、[榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")
   - アイデア軍団：山中伊知郎、林とど、野中浩之、ENZO CAFFINI
   - TD：[馬場直幸](https://ja.wikipedia.org/wiki/馬場直幸 "wikilink")
   - SW：障子川雅則

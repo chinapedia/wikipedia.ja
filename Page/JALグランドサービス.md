@@ -122,7 +122,7 @@
       - [エィジィエス通商](https://ja.wikipedia.org/wiki/エィジィエス通商 "wikilink")株式会社設立（2002年11月30日、清算）。
   - [1981年](../Page/1981年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")
       - [新東京国際空港](https://ja.wikipedia.org/wiki/新東京国際空港 "wikilink")南ウイング（当時）における[シンガポール航空](../Page/シンガポール航空.md "wikilink")の旅客カウンター業務開始（後に[JALスカイサービス](https://ja.wikipedia.org/wiki/JALスカイサービス "wikilink")に業務移管）。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")
       - 日本航空の[ロードマスター](https://ja.wikipedia.org/wiki/ロードマスター "wikilink")（機側搭載監督者）業務開始。
   - [1989年](../Page/1989年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")
       - [関西空港グランドサービス](https://ja.wikipedia.org/wiki/関西空港グランドサービス "wikilink")株式会社（KGS）設立。

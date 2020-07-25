@@ -363,7 +363,7 @@ DVDプレーヤー単体（再生専用）機のうち据置型は[2008年](http
 
   - [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")
       - [日本の地上デジタルテレビ放送](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")
-      - [2011年問題 (日本のテレビジョン放送)](https://ja.wikipedia.org/wiki/2011年問題_\(日本のテレビジョン放送\) "wikilink")
+      - [2011年問題 (日本のテレビジョン放送)](../Page/2011年問題_\(日本のテレビジョン放送\).md "wikilink")
   - [DVDレコーダー](../Page/DVDレコーダー.md "wikilink")
   - [BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")
   - [カラーテレビ](../Page/カラーテレビ.md "wikilink")

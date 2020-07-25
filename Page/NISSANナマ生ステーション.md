@@ -30,7 +30,7 @@
   - 『NISSANナマ生ステーション・**全国一斉たまげたドン\!**』
 
 （1984年10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月、[上村貢聖](https://ja.wikipedia.org/wiki/上村貢聖 "wikilink")）
-\*『**日産[極楽ワイド鶴ちゃんでーす\!](../Page/極楽ワイド鶴ちゃんでーす!.md "wikilink")・名物直送なんだらぼっち**』 （1985年10月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月、[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")、[石川みゆき](../Page/石川みゆき.md "wikilink")）
+\*『**日産[極楽ワイド鶴ちゃんでーす\!](../Page/極楽ワイド鶴ちゃんでーす!.md "wikilink")・名物直送なんだらぼっち**』 （1985年10月 - [1986年](../Page/1986年.md "wikilink")3月、[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")、[石川みゆき](../Page/石川みゆき.md "wikilink")）
 \*『日産極楽ワイド鶴ちゃんでーす\!・**日本全国なんだらぼっち**』（月 - 木、片岡鶴太郎、石川みゆき）
 
   - 『[金曜タモリ おもしろ大放送\!](../Page/だんとつタモリ_おもしろ大放送!.md "wikilink")・**NISSAN日本全国なんだらぼっち**』（金、タモリ）

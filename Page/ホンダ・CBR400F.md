@@ -37,7 +37,7 @@
 
 :\* ４into２から当時の流行に合せたを採用した[ステンレス製集合](../Page/ステンレス鋼.md "wikilink")[マフラーへ変更](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月、エンジンを[水冷化した](../Page/水冷エンジン.md "wikilink")[NC23型CBR400Rへフルモデルチェンジされ製造販売終了](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")。
+[1986年](../Page/1986年.md "wikilink")7月、エンジンを[水冷化した](../Page/水冷エンジン.md "wikilink")[NC23型CBR400Rへフルモデルチェンジされ製造販売終了](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")。
 
 ## 脚注
 

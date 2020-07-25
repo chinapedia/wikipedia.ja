@@ -82,7 +82,7 @@
 **FIFA女子ランキング**は[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink") (FIFA) により発表されるランキング。FIFAに加盟する各国・地域の女子代表チームのポイントを集計し決定される。[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")から公表されるようになったが、以下の点が男子ランキングと異なる。
 
   - 公表は年4回（原則として3月、6月、9月、12月）のみ（男子は毎月）。
-  - FIFAが初めて公認した女子代表の国際試合（[フランス女子代表対](../Page/サッカーフランス女子代表.md "wikilink")[オランダ女子代表](https://ja.wikipedia.org/wiki/サッカーオランダ女子代表 "wikilink")：[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")）以降の全試合を集計の対象とする。
+  - FIFAが初めて公認した女子代表の国際試合（[フランス女子代表対](../Page/サッカーフランス女子代表.md "wikilink")[オランダ女子代表](../Page/サッカーオランダ女子代表.md "wikilink")：[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")）以降の全試合を集計の対象とする。
   - 直近の成績に影響されにくく、[FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")や[オリンピックへの出場に大きな影響を受けにくい](https://ja.wikipedia.org/wiki/オリンピックサッカー競技 "wikilink")。
   - 国・地域によってはランキングから外れたり、復活したりすることがある。
 

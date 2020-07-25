@@ -76,7 +76,7 @@
 <td><p><strong>Concerts</strong></p></td>
 <td><p>FHCF-2342</p></td>
 <td><ol>
-<li><a href="https://ja.wikipedia.org/wiki/サンバ・ヂ・ウマ・ノタ・ソ" title="wikilink">ONE NOTE SAMBA</a> 【作曲:<a href="../Page/アントニオ・カルロス・ジョビン.md" title="wikilink">アントニオ・カルロス・ジョビン</a>/編曲:SALT&amp;SUGAR】</li>
+<li><a href="../Page/サンバ・ヂ・ウマ・ノタ・ソ.md" title="wikilink">ONE NOTE SAMBA</a> 【作曲:<a href="../Page/アントニオ・カルロス・ジョビン.md" title="wikilink">アントニオ・カルロス・ジョビン</a>/編曲:SALT&amp;SUGAR】</li>
 <li><a href="https://ja.wikipedia.org/wiki/ユー・センド・ミー" title="wikilink">YOU SEND ME</a> 【作詞作曲:<a href="../Page/サム・クック.md" title="wikilink">サム・クック</a>/編曲:SALT&amp;SUGAR】</li>
 <li><a href="../Page/オー!ダーリン.md" title="wikilink">OH! DARLING</a> 【編曲:SALT&amp;SUGAR】</li>
 <li>WAIT FOR THE MAGIC 【作詞作曲:トッド・アーバノス/編曲:塩谷哲】</li>

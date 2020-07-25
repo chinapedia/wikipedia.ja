@@ -483,7 +483,7 @@
 
   - [スロボダン・ライコヴィッチ](../Page/スロボダン・ライコヴィッチ.md "wikilink") 2004-2007 (2005-2007は[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")からのレンタル)
 
-  - [ジョルジェ・ラキッチ](https://ja.wikipedia.org/wiki/ジョルジェ・ラキッチ "wikilink") 2005-2007
+  - [ジョルジェ・ラキッチ](../Page/ジョルジェ・ラキッチ.md "wikilink") 2005-2007
 
   - [アレクサンダル・コラロヴ](https://ja.wikipedia.org/wiki/アレクサンダル・コラロヴ "wikilink") 2006-2007
 

@@ -17,7 +17,7 @@
 
 [1950年代](../Page/1950年代.md "wikilink")に醸造所に 'XXXX' の[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")が設置された。
 
-[1992年](../Page/1992年.md "wikilink")に[ライオンネイサン](https://ja.wikipedia.org/wiki/ライオンネイサン "wikilink")に吸収され、[2009年](../Page/2009年.md "wikilink")には[キリンホールディングス](../Page/キリンホールディングス.md "wikilink")がライオンネイサンを完全子会社化したことにともなって、キリンの傘下となった。
+[1992年](../Page/1992年.md "wikilink")に[ライオンネイサン](../Page/ライオンネイサン.md "wikilink")に吸収され、[2009年](../Page/2009年.md "wikilink")には[キリンホールディングス](../Page/キリンホールディングス.md "wikilink")がライオンネイサンを完全子会社化したことにともなって、キリンの傘下となった。
 
 ## 観光
 

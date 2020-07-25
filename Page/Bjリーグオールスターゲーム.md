@@ -25,7 +25,7 @@ bjリーグの「東アジア構想」に基づき、将来は[日](https://ja.w
       - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")（2007-08）
       - [テレビ大分](../Page/テレビ大分.md "wikilink")（2008-09）
   - 特別協賛
-      - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（2006-07）
+      - [全日本空輸](../Page/全日本空輸.md "wikilink")（2006-07）
       - [BSフジ](../Page/BSフジ.md "wikilink")（2007-08より2009-10まで）
       - [マルコメ](../Page/マルコメ.md "wikilink")（2010-11より2013-2014まで）
       - [ターキッシュ エアラインズ](../Page/ターキッシュ_エアラインズ.md "wikilink")（2014-15より）
@@ -222,7 +222,7 @@ bjリーグ公式ルールに準ずる。
 <tr class="odd">
 <td><p>8</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><br />
-<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/秋田市立体育館" title="wikilink">秋田市立体育館</a><br />
 （<a href="../Page/秋田県.md" title="wikilink">秋田県</a><a href="../Page/秋田市.md" title="wikilink">秋田市</a> ）</p>
 <hr>
@@ -264,7 +264,7 @@ bjリーグ公式ルールに準ずる。
 | -- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1  | [ジェロッド・ワード](../Page/ジェロッド・ワード.md "wikilink")（[富山](../Page/富山グラウジーズ.md "wikilink")）                                             |                                                                                                                                 |            |
 | 2  | [小菅直人](../Page/小菅直人.md "wikilink")（[新潟](../Page/新潟アルビレックスBB.md "wikilink")）                                                    |                                                                                                                                 |            |
-| 3  | [ボビー・セントプルー](https://ja.wikipedia.org/wiki/ボビー・セントプルー "wikilink")（[仙台](../Page/仙台89ERS.md "wikilink")）                         | [マイケル・パーカー](https://ja.wikipedia.org/wiki/マイケル・パーカー "wikilink")（[福岡](https://ja.wikipedia.org/wiki/ライジング福岡 "wikilink")）         | この年よりMIP創設 |
+| 3  | [ボビー・セントプルー](https://ja.wikipedia.org/wiki/ボビー・セントプルー "wikilink")（[仙台](../Page/仙台89ERS.md "wikilink")）                         | [マイケル・パーカー](../Page/マイケル・パーカー.md "wikilink")（[福岡](https://ja.wikipedia.org/wiki/ライジング福岡 "wikilink")）                            | この年よりMIP創設 |
 | 4  | マイケル・パーカー（福岡）                                                                                                                  | [ウェンデル・ホワイト](https://ja.wikipedia.org/wiki/ウェンデル・ホワイト "wikilink")（[浜松](https://ja.wikipedia.org/wiki/浜松・東三河フェニックス "wikilink")）  |            |
 | 5  | [リン・ワシントン](../Page/リン・ワシントン.md "wikilink")（[大阪](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink")）                             | [青木康平](../Page/青木康平.md "wikilink")（[東京](../Page/東京アパッチ.md "wikilink")）                                                          |            |
 | 6  | リン・ワシントン（大阪）                                                                                                                   | [ジョン・ハンフリー](../Page/ジョン・ハンフリー.md "wikilink")（[埼玉](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")）                            |            |

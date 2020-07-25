@@ -52,7 +52,7 @@ Jane（IE版）の名前の由来は[2ちゃんねる用語](https://ja.wikipedi
   - 2006年5月 - 2ちゃんねるの仕様変更（Cookie設定）\[43\]
   - 2006年6月 - 「OpenJane」の事実上の最終版を発表\[44\]
   - 2008年5月 - TGIFImageの脆弱性が発覚\[45\]
-  - 2009年10月 - 「Jane View」が[正規表現](../Page/正規表現.md "wikilink")ライブラリ「[鬼車](https://ja.wikipedia.org/wiki/鬼車 "wikilink")」に対応
+  - 2009年10月 - 「Jane View」が[正規表現](../Page/正規表現.md "wikilink")ライブラリ「[鬼車](../Page/鬼車.md "wikilink")」に対応
   - 2009年10月 - 「Jane Xeno」を発表\[46\]
   - 2011年3月 - 2ちゃんねるの仕様変更（忍法帖）
   - 2012年2月 - 「Jane View」が[SSL通信に対応](../Page/Transport_Layer_Security.md "wikilink")

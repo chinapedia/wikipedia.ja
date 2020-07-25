@@ -1,7 +1,7 @@
 > この記事は[マービンJr.](https://ja.wikipedia.org/wiki/マービンJr.)から翻訳されています。
 
 
-**マービンJr.**（マービン・ジュニア、Marvin Jr.、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。
+**マービンJr.**（マービン・ジュニア、Marvin Jr.、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。
 
 [東京都](../Page/東京都.md "wikilink")[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")出身\[1\]。[追手風部屋](../Page/追手風部屋.md "wikilink")を経て、現在は[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。現在は[松丸ほるもん](https://ja.wikipedia.org/wiki/松丸ほるもん "wikilink")とのお笑いコンビ・[まんぷくフーフー](https://ja.wikipedia.org/wiki/まんぷくフーフー "wikilink")のメンバーとして活動。
 
@@ -9,7 +9,7 @@
 
 ## 来歴
 
-父は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")出身の元[海兵隊員](https://ja.wikipedia.org/wiki/海兵隊員 "wikilink")で現在は日本の[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")局「[Inter FM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")」で[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")として活躍しているマービン・デンジャフィールド。それが縁で平日朝の番組「[グッドモーニングガレージ](https://ja.wikipedia.org/wiki/グッドモーニングガレージ "wikilink")」8時台のスポーツニュースコーナーにて“マービンさんの息子”として取組結果を紹介されたことがある。母は日本人で、本人は日本国籍を取得している。
+父は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")出身の元[海兵隊員](https://ja.wikipedia.org/wiki/海兵隊員 "wikilink")で現在は日本の[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")局「[Inter FM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")」で[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")として活躍しているマービン・デンジャフィールド。それが縁で平日朝の番組「[グッドモーニングガレージ](../Page/グッドモーニングガレージ.md "wikilink")」8時台のスポーツニュースコーナーにて“マービンさんの息子”として取組結果を紹介されたことがある。母は日本人で、本人は日本国籍を取得している。
 
 生まれも育ちも東京で、母方の祖父の影響で相撲に興味を持った。7歳の時に東京都[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")の相撲クラブに入る\[2\]。1995年春には[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[とんねるずの生でダラダラいかせて\!\!](../Page/とんねるずの生でダラダラいかせて!!.md "wikilink")」で、番組準レギュラーの第54代[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")・[輪島大士](../Page/輪島大士.md "wikilink")の指導を受けたことがある\[3\]。当時は口調が舌っ足らずで、自己紹介で「7歳」と言ったつもりが「ララ歳」としか聞こえず、出演者の笑いを誘った（この時は[とんねるず](../Page/とんねるず.md "wikilink")の[石橋貴明](../Page/石橋貴明.md "wikilink")も同行しており、マービンが[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")の[博士と助手〜細かすぎて伝わらないモノマネ選手権〜](../Page/博士と助手〜細かすぎて伝わらないモノマネ選手権〜.md "wikilink")に出演した際に石橋から「小学生の時に会ったことがあるよね」と言われたという\[4\]）その後[わんぱく相撲](../Page/わんぱく相撲.md "wikilink")で活躍し、“下町の[曙](../Page/曙太郎.md "wikilink")”の異名を取った。\[5\][埼玉栄高校相撲部時代には](https://ja.wikipedia.org/wiki/埼玉栄高等学校 "wikilink")、[インターハイ団体戦で連覇を達成するなど活躍した](../Page/全国高等学校総合体育大会.md "wikilink")。同校の1年先輩に澤井＝後の[豪栄道がいる](../Page/豪栄道豪太郎.md "wikilink")。後年本人は「（澤井は）ちょっとやんちゃで後輩からは少し怖がられていたけど、なぜか僕はすぐ気に入られて可愛がってもらいました」と振り返っている。\[6\]稽古場では澤井と300回ほど手を合わせたが、5回だけ勝った相撲は嬉しくて全部覚えていると、2017年に芸人たちと千代の国とで行ったトークライブで語っている\[7\]。
 

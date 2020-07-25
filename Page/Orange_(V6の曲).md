@@ -27,7 +27,7 @@ V6のデビュー10周年記念シングルである。
         作詞:[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、作曲:[浅田直](https://ja.wikipedia.org/wiki/浅田直 "wikilink")、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
 3.  **INNOCENCE**※ - 20th Century
       -
-        作詞:[小幡英之](../Page/小幡英之.md "wikilink") 作曲:[石田匠](https://ja.wikipedia.org/wiki/Ricken's#メンバー "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞:[小幡英之](../Page/小幡英之.md "wikilink") 作曲:[石田匠](https://ja.wikipedia.org/wiki/Ricken's#メンバー "wikilink")、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
 4.  **Like it\!**※
       -
         作詞・作曲:[Gajin](../Page/Gajin.md "wikilink")、編曲：[YANAGIMAN](../Page/YANAGIMAN.md "wikilink")

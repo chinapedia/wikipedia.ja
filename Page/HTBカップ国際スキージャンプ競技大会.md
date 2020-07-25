@@ -147,7 +147,7 @@
 <td><p>13</p></td>
 <td><p>1986 2 1</p></td>
 <td><p>大倉山シャンツェ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤晃_(スキージャンプ)" title="wikilink">佐藤晃</a></p></td>
+<td><p><a href="../Page/佐藤晃_(スキージャンプ).md" title="wikilink">佐藤晃</a></p></td>
 <td><p>東京美装</p></td>
 <td><p>206.2</p></td>
 <td><p>100.5</p></td>

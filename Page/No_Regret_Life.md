@@ -588,7 +588,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="https://ja.wikipedia.org/wiki/流星_(TiAの曲)" title="wikilink">流星</a> / <a href="../Page/TiA.md" title="wikilink">TiA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Home_Sweet_Home_(YUKIの曲)" title="wikilink">Home Sweet Home</a> / <a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a></li>
+<li><a href="../Page/Home_Sweet_Home_(YUKIの曲).md" title="wikilink">Home Sweet Home</a> / <a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/青春狂騒曲" title="wikilink">青春狂騒曲</a> / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マウンテン・ア・ゴーゴー・ツー" title="wikilink">マウンテン・ア・ゴーゴー・ツー</a> / <a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/はじめて君としゃべった" title="wikilink">はじめて君としゃべった</a> / <a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a></li>

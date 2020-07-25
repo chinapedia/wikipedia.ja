@@ -20,7 +20,7 @@
   - [Silly](https://ja.wikipedia.org/wiki/Silly_\(バンド\) "wikilink")
   - [サンタラ](../Page/サンタラ.md "wikilink")
   - [トルネード竜巻](../Page/トルネード竜巻.md "wikilink") - 活動休止。
-  - [アーバンギャルド](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")
+  - [アーバンギャルド](../Page/アーバンギャルド.md "wikilink")
   - [藤田麻衣子](../Page/藤田麻衣子.md "wikilink")
 
 ## 関連項目

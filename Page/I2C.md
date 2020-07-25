@@ -7,7 +7,7 @@
 
 ## 設計
 
-I<sup>2</sup>C で使われているのは、[抵抗で](../Page/抵抗器.md "wikilink")[プルアップ](https://ja.wikipedia.org/wiki/プルアップ "wikilink")された双方向の[オープンコレクタ](https://ja.wikipedia.org/wiki/オープンコレクタ "wikilink")信号線が**2本**だけである。2本の信号線は、**シリアルデータ** (SDA) と**シリアルクロック** (SCL) からなる。 電圧は最高で +5V までで、よく使われるのは +3.3V だが、他の電圧でも構わない。
+I<sup>2</sup>C で使われているのは、[抵抗で](../Page/抵抗器.md "wikilink")[プルアップ](https://ja.wikipedia.org/wiki/プルアップ "wikilink")された双方向の[オープンコレクタ](../Page/オープンコレクタ.md "wikilink")信号線が**2本**だけである。2本の信号線は、**シリアルデータ** (SDA) と**シリアルクロック** (SCL) からなる。 電圧は最高で +5V までで、よく使われるのは +3.3V だが、他の電圧でも構わない。
 
 I<sup>2</sup>C の参照設計では、7[bit](../Page/ビット.md "wikilink") の[アドレス空間](../Page/アドレス空間.md "wikilink")のうち 16 の予約アドレスを除いた最大 112 個の[ノード](https://ja.wikipedia.org/wiki/ノード "wikilink")が、同じバス上で通信できる。 もっとも一般的な I<sup>2</sup>C バスのモードは、100[kbit/s](https://ja.wikipedia.org/wiki/キロビット毎秒 "wikilink") の標準モード () と 10kbit/s の低速モード () だが、クロック周波数はゼロまで下げても構わない。 ノード数の拡大と高速動作が可能な 400kbit/s のファーストモード () や 3.4Mbit/s の高速モード () の追加と、10bit アドレス空間などの機能拡張が行なわれている。
 
@@ -89,7 +89,7 @@ I<sup>2</sup>C が元になっているものには、 ACCESS.bus 、 [VESA](../
   - [SPI](../Page/シリアル・ペリフェラル・インタフェース.md "wikilink")
   - [CCI](https://ja.wikipedia.org/wiki/カメラ制御インターフェース "wikilink") (カメラ制御インターフェース) - I2C互換
   - [1-Wire](https://ja.wikipedia.org/wiki/1-Wire "wikilink")
-  - [Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink") - ヌンチャク等との通信に使用
+  - [Wiiリモコン](../Page/Wiiリモコン.md "wikilink") - ヌンチャク等との通信に使用
 
 ## 参考文献
 

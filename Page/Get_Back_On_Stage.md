@@ -19,7 +19,7 @@
       -
         Lyrics by Naoki Takada / Music by Naoki Takada
         2ndシングル
-4.  **Time Attack featuring [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") & [KURO](../Page/KURO.md "wikilink") ([HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))**
+4.  **Time Attack featuring [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") & [KURO](../Page/KURO.md "wikilink") ([HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))**
       -
         Lyrics by Naoki Takada,MICRO,KURO / Music by Naoki Takada,MICRO,KURO
 5.  **Morning**

@@ -23,7 +23,7 @@ LE-CarIIベースの二軸車両では[ラッシュ時](../Page/ラッシュ時.
 
 ### 2軸車
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Tarumi-Railway_Haimo180-202.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:OumitetudouLE10.JPG "wikilink")[LE10形](../Page/近江鉄道LE10形気動車.md "wikilink")（LE-CarII 2軸車型）\]\] LE-CarIIシリーズの最初期型にあたるもので、[1984年](../Page/1984年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にかけて製造された。車体長さは12.5mで、車体形状は当時富士重工業で製造されていた[R15型バス用ボディに類似するが](https://ja.wikipedia.org/wiki/スバルカスタマイズ工房#R15型_1982〜1990年製造 "wikilink")、前面非貫通形（試作車タイプと5Bタイプと5Eタイプの違いがある）と貫通形、ライトケースの違いを含め納入先によりさまざまなバリエーションがある。また、側面窓は路線バス並の2段窓仕様と観光バス風の一部引違い半固定式（Jベンドガラス）のものがあった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Tarumi-Railway_Haimo180-202.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:OumitetudouLE10.JPG "wikilink")[LE10形](../Page/近江鉄道LE10形気動車.md "wikilink")（LE-CarII 2軸車型）\]\] LE-CarIIシリーズの最初期型にあたるもので、[1984年](../Page/1984年.md "wikilink")から[1986年](../Page/1986年.md "wikilink")にかけて製造された。車体長さは12.5mで、車体形状は当時富士重工業で製造されていた[R15型バス用ボディに類似するが](https://ja.wikipedia.org/wiki/スバルカスタマイズ工房#R15型_1982〜1990年製造 "wikilink")、前面非貫通形（試作車タイプと5Bタイプと5Eタイプの違いがある）と貫通形、ライトケースの違いを含め納入先によりさまざまなバリエーションがある。また、側面窓は路線バス並の2段窓仕様と観光バス風の一部引違い半固定式（Jベンドガラス）のものがあった。
 
 エンジンはバス用、出力180[PS](../Page/馬力.md "wikilink")/2200[rpmの](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")[日産ディーゼル製](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")[PE6H](../Page/日産ディーゼル・P系エンジン.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を搭載し、[台車は](../Page/鉄道車両の台車.md "wikilink")[一軸台車](../Page/一軸台車.md "wikilink")を2つ履き、一方を駆動台車、もう一方を付随台車とする。
 
@@ -39,7 +39,7 @@ LE-CarIIベースの二軸車両では[ラッシュ時](../Page/ラッシュ時.
       - 前面非貫通形（5Eタイプ・ライトケース丸型）、側面2段窓。乗務員用扉を装備。
   - [北条鉄道](../Page/北条鉄道.md "wikilink")[フラワ1985形](../Page/北条鉄道フラワ1985形気動車.md "wikilink")（1985年）
       - 前面非貫通形（5Eタイプ・ライトケース丸型）、側面半固定窓。乗務員用扉を装備。のち2両を[紀州鉄道](../Page/紀州鉄道.md "wikilink")へ譲渡、同社キテツ1形。
-  - [近江鉄道](../Page/近江鉄道.md "wikilink")[LE10形](../Page/近江鉄道LE10形気動車.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
+  - [近江鉄道](../Page/近江鉄道.md "wikilink")[LE10形](../Page/近江鉄道LE10形気動車.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）
       - 前面貫通形（前面窓下ブラックアウトなし標準型・ライトケース角型）、側面2段窓。乗務員用扉を装備。この時期には後述のボギー車が生産開始されており、エンジンはボギー車と同様の出力230PS/1900rpmの日産ディーゼルPE6HTが採用された。二軸LE-Carの製造はこの近江LE10形が最後となった。
   - [有田鉄道](../Page/有田鉄道.md "wikilink")ハイモ180形（[1994年](../Page/1994年.md "wikilink")譲受）
       - 旧樽見鉄道ハイモ180-101。2003年に路線廃止により廃車となったが、[有田川町鉄道公園](https://ja.wikipedia.org/wiki/有田川町鉄道公園 "wikilink")で動態保存中。
@@ -122,7 +122,7 @@ LE-Carでは前面貫通形と非貫通形が存在したが、LE-DCはほとん
 以下は1998年以降の新形式で、すべて前面貫通形、パノラミックウインドウ、側面引き戸、上段固定下段上昇窓、エンジン出力295PS/2100rpm。
 
   - [明知鉄道](../Page/明知鉄道.md "wikilink")アケチ10形（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
-  - [三木鉄道](../Page/三木鉄道.md "wikilink")[ミキ300形](https://ja.wikipedia.org/wiki/三木鉄道ミキ300形気動車 "wikilink")（1998年）
+  - [三木鉄道](../Page/三木鉄道.md "wikilink")[ミキ300形](../Page/三木鉄道ミキ300形気動車.md "wikilink")（1998年）
       - 路線廃止・会社解散に伴い、全車樽見鉄道、北条鉄道、ひたちなか海浜鉄道にそれぞれ譲渡。
   - [樽見鉄道ハイモ295-310形](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-310形気動車 "wikilink")（[1999年](../Page/1999年.md "wikilink")）
   - [樽見鉄道ハイモ295-610形](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-610形気動車 "wikilink")（[2009年](../Page/2009年.md "wikilink")譲受）

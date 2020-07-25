@@ -1,7 +1,7 @@
 > この記事は[Hot Chemistry](https://ja.wikipedia.org/wiki/Hot_Chemistry)から翻訳されています。
 
 
-『**Hot Chemistry**』（ホット・ケミストリー）は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[コンセプトアルバム](https://ja.wikipedia.org/wiki/コンセプトアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された。
+『**Hot Chemistry**』（ホット・ケミストリー）は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[コンセプトアルバム](https://ja.wikipedia.org/wiki/コンセプトアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に発売された。
 
 ## 概要
 

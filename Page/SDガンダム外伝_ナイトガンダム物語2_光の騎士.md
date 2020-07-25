@@ -13,7 +13,7 @@
 
 ### システム
 
-全6章仕立て。前章のキャラクターが合流する章では、レベルや装備が引き継がれる。操作方法が前作『[SDガンダム外伝 ナイトガンダム物語](../Page/SDガンダム外伝_ナイトガンダム物語.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）の『[ドラゴンクエスト](../Page/ドラゴンクエストシリーズ.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）タイプの方式から『[ファイナルファンタジー](../Page/ファイナルファンタジーシリーズ.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）に近いタイプのものへ改められた。
+全6章仕立て。前章のキャラクターが合流する章では、レベルや装備が引き継がれる。操作方法が前作『[SDガンダム外伝 ナイトガンダム物語](../Page/SDガンダム外伝_ナイトガンダム物語.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）の『[ドラゴンクエスト](../Page/ドラゴンクエストシリーズ.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）タイプの方式から『[ファイナルファンタジー](../Page/ファイナルファンタジーシリーズ.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）に近いタイプのものへ改められた。
 
 移動キャラクターが当時の他のRPGに比べると大きく、移動速度も速いため、快適なプレイが可能である。
 

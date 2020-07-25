@@ -89,7 +89,7 @@ V56 VIDEOボードは[ラスタースクロール](../Page/ラスタースクロ
   - [アサルト](../Page/アサルト.md "wikilink")・[アサルト](../Page/アサルト.md "wikilink")プラス (SYSTEM II 第1弾)
   - [オーダイン](../Page/オーダイン.md "wikilink") (SYSTEM II 第2弾)
   - [未来忍者](https://ja.wikipedia.org/wiki/未来忍者 "wikilink") (SYSTEM II 第3弾)
-  - [フェリオス](https://ja.wikipedia.org/wiki/フェリオス "wikilink") (SYSTEM II 第4弾)
+  - [フェリオス](../Page/フェリオス.md "wikilink") (SYSTEM II 第4弾)
   - [ワルキューレの伝説](../Page/ワルキューレの伝説.md "wikilink") (SYSTEM II 第5弾)
   - [ファイネストアワー](https://ja.wikipedia.org/wiki/ファイネストアワー "wikilink") (SYSTEM II 第6弾)
   - [バーニングフォース](../Page/バーニングフォース.md "wikilink") (SYSTEM II 第7弾)

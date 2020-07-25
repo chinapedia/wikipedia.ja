@@ -62,7 +62,7 @@ LRには[富士重工業製や](../Page/スバルカスタマイズ工房.md "wi
   - P-LR311（リーフサス・ターボ車）
   - P-LR212（エアサス）
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に指定車体メーカーである川重車体工業は、いすゞとの[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")アイ・ケイ・コーチ（IK Coach、後の[いすゞバス製造](../Page/いすゞバス製造.md "wikilink")。現：[ジェイ・バス](../Page/ジェイ・バス.md "wikilink")宇都宮工場）を設立した。
+[1986年](../Page/1986年.md "wikilink")に指定車体メーカーである川重車体工業は、いすゞとの[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")アイ・ケイ・コーチ（IK Coach、後の[いすゞバス製造](../Page/いすゞバス製造.md "wikilink")。現：[ジェイ・バス](../Page/ジェイ・バス.md "wikilink")宇都宮工場）を設立した。
 
 ファイル:P-LR212J-Azuma-Bus.JPG|観光仕様
 P-LR212J

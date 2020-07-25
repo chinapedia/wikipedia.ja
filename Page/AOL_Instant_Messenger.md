@@ -30,7 +30,7 @@ AOL Instant Messengerで採用されている[プロトコル](../Page/プロト
   - [Adium](https://ja.wikipedia.org/wiki/Adium "wikilink")
   - BSFlite（英語版）
   - [XMPP](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")
-  - [Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")
+  - [Kopete](../Page/Kopete.md "wikilink")
   - [Miranda IM](https://ja.wikipedia.org/wiki/Miranda_IM "wikilink")（英語版）
   - [Pidgin](../Page/Pidgin.md "wikilink") (旧称：Gaim)
   - TerraIM（英語版）

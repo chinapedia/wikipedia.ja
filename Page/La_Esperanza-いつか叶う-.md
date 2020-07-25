@@ -23,7 +23,7 @@
 
   - カルロス：[春野寿美礼](../Page/春野寿美礼.md "wikilink")（[未涼亜希](../Page/未涼亜希.md "wikilink")）\[1\]
   - ミルバ：[ふづき美世](../Page/ふづき美世.md "wikilink")（[遠野あすか](../Page/遠野あすか.md "wikilink")）\[2\]
-  - ベニート：[水夏希](../Page/水夏希.md "wikilink")（[望月理世](https://ja.wikipedia.org/wiki/望月理世 "wikilink")）\[3\]
+  - ベニート：[水夏希](../Page/水夏希.md "wikilink")（[望月理世](../Page/望月理世.md "wikilink")）\[3\]
   - ファビエル：[霧矢大夢](../Page/霧矢大夢.md "wikilink")（[桐生園加](../Page/桐生園加.md "wikilink")）\[4\]
 
 <!-- end list -->

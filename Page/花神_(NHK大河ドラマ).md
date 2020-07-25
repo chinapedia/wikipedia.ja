@@ -146,7 +146,7 @@
   - [山田宇右衛門](https://ja.wikipedia.org/wiki/山田宇右衛門 "wikilink")
     演：[小栗一也](../Page/小栗一也.md "wikilink")
     第二次長州征伐の際の長州の名目上の責任者。蔵六の立てた作戦に不安を抱き、蔵六から落ち着くように求められる。
-  - [山県半蔵](https://ja.wikipedia.org/wiki/宍戸たまき "wikilink")
+  - [山県半蔵](../Page/宍戸たまき.md "wikilink")
     演：[三升家勝二](../Page/三升家小勝_\(8代目\).md "wikilink")（現：三升家小勝 (8代目) ）
   - [佐々木男也](https://ja.wikipedia.org/wiki/佐々木男也 "wikilink")
     演：[中村靖之介](https://ja.wikipedia.org/wiki/中村靖之介 "wikilink")

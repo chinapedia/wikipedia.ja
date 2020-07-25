@@ -17,7 +17,7 @@
 
 1962年10月、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")[ARPA](../Page/国防高等研究計画局.md "wikilink") の研究部門[IPTOの部長に任命され](https://ja.wikipedia.org/wiki/:en:Information_Processing_Techniques_Office "wikilink")、[1963年](../Page/1963年.md "wikilink")にはARPAの指揮・指令系統の行動科学研究機関の指揮を任された。1963年4月に、[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")やコンピュータネットワークについてのメモ\[4\]をARPAの同僚に送信した。[ARPANET](../Page/ARPANET.md "wikilink")はこのメモに記述されたビジョンから生まれ、のちに[インターネット](../Page/インターネット.md "wikilink")へと発展した。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、MIT電気工学科教授となり、[Project MAC](https://ja.wikipedia.org/wiki/Project_MAC "wikilink") の責任者となった。Project MACはリックライダーの元で、世界初のタイムシェアリングシステムである[CTSS](../Page/CTSS.md "wikilink")や、[Multics](../Page/Multics.md "wikilink")を開発した。Multicsは[UNIX](../Page/UNIX.md "wikilink")開発のきっかけとなったことでも知られている。
+[1968年](../Page/1968年.md "wikilink")、MIT電気工学科教授となり、[Project MAC](https://ja.wikipedia.org/wiki/Project_MAC "wikilink") の責任者となった。Project MACはリックライダーの元で、世界初のタイムシェアリングシステムである[CTSS](../Page/CTSS.md "wikilink")や、[Multics](../Page/Multics.md "wikilink")を開発した。Multicsは[UNIX](../Page/UNIX.md "wikilink")開発のきっかけとなったことでも知られている。
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に引退し、名誉教授となる。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[アーリントンで死去](https://ja.wikipedia.org/wiki/アーリントン_\(マサチューセッツ州\) "wikilink")。同年、Common Wealth Award for Distinguished Serviceを受賞。\[5\]
 

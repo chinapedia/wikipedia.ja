@@ -102,7 +102,7 @@ AVCD-31587:CD</p></td>
 <ul>
 <li>ナミダ(Music Clip)</li>
 </ul></td>
-<td><p><a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a>制作・テレビ東京系特撮ドラマ『<a href="https://ja.wikipedia.org/wiki/トミカヒーロー_レスキューフォース" title="wikilink">トミカヒーロー レスキューフォース</a>』3rdエンディングテーマ</p></td>
+<td><p><a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a>制作・テレビ東京系特撮ドラマ『<a href="../Page/トミカヒーロー_レスキューフォース.md" title="wikilink">トミカヒーロー レスキューフォース</a>』3rdエンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td></td>

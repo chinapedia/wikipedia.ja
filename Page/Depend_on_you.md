@@ -13,7 +13,7 @@
 
 翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて、「Depend on you」が、ニュー・アーティスト・オブ・ザ・イヤー ゴールドディスクとなった\[2\]。
 
-2008年の43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
+2008年の43rdシングル「[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")」には、10th Anniversary versionとして新録音された。
 
 ## 収録曲
 

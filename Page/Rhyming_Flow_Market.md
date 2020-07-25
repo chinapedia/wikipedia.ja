@@ -42,6 +42,6 @@
 
 「[いばらきサッカーフェスティバル](../Page/いばらきサッカーフェスティバル.md "wikilink")」時は、番組に内包する形で放送された。
 
-これ以外にも、[石岡のお祭り特番](../Page/常陸國總社宮大祭.md "wikilink")（2006年のみ）、[IBSスーパーサッカー](https://ja.wikipedia.org/wiki/IBSスーパーサッカー "wikilink")中継、少年サッカー中継、高校野球中継が入る場合は、番組の放送終了を繰り上げた。
+これ以外にも、[石岡のお祭り特番](../Page/常陸國總社宮大祭.md "wikilink")（2006年のみ）、[IBSスーパーサッカー](../Page/IBSスーパーサッカー.md "wikilink")中継、少年サッカー中継、高校野球中継が入る場合は、番組の放送終了を繰り上げた。
 
 [Category:茨城放送の番組](https://ja.wikipedia.org/wiki/Category:茨城放送の番組 "wikilink")

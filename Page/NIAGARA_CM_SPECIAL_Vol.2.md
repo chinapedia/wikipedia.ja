@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>Special Thanks to: <a href="../Page/サンミュージックプロダクション.md" title="wikilink">Sun Music</a>, CMC, Uncle-F,<br />
-Pet Sounds, <a href="../Page/フジパシフィックミュージック.md" title="wikilink">PMP</a>, <a href="../Page/佐藤奈々子.md" title="wikilink">Nanako Satoh</a>, <a href="https://ja.wikipedia.org/wiki/ボンド企画" title="wikilink">Bond</a>,<br />
+Pet Sounds, <a href="../Page/フジパシフィックミュージック.md" title="wikilink">PMP</a>, <a href="../Page/佐藤奈々子.md" title="wikilink">Nanako Satoh</a>, <a href="../Page/ボンド企画.md" title="wikilink">Bond</a>,<br />
 Watanabe-kikaku, Cat, Lollipop, Ryuzo Shirakawa,<br />
 ダイエット・アトム,<br />
 Ms. Miyama, &amp; Niagara Cheer Leaders,<br />

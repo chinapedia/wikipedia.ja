@@ -108,7 +108,7 @@
 
   - 「[新幹線'97恋物語](../Page/新幹線'97恋物語.md "wikilink")」（4月～6月） 出演:高嶋政伸、[渡辺えり子](https://ja.wikipedia.org/wiki/渡辺えり子 "wikilink")、[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")、赤坂晃、[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")ほか 制作：近藤照男プロダクション
   - 「[金のたまご](../Page/金のたまご.md "wikilink")」（7月～9月） 出演:[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")、片岡鶴太郎、[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、[国分太一](../Page/国分太一.md "wikilink")、山岡久乃ほか 制作:[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")
-  - 「[番茶も出花](../Page/番茶も出花.md "wikilink")」（10月～98年3月） 出演:泉ピン子、[一路真輝](../Page/一路真輝.md "wikilink")、[山口達也](https://ja.wikipedia.org/wiki/山口達也 "wikilink")、[小林桂樹](../Page/小林桂樹.md "wikilink")ほか
+  - 「[番茶も出花](../Page/番茶も出花.md "wikilink")」（10月～98年3月） 出演:泉ピン子、[一路真輝](../Page/一路真輝.md "wikilink")、[山口達也](../Page/山口達也.md "wikilink")、[小林桂樹](../Page/小林桂樹.md "wikilink")ほか
 
 **[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")**
 
@@ -139,7 +139,7 @@
 **[2003年](../Page/2003年.md "wikilink")**
 
   - 「[ホットマン](https://ja.wikipedia.org/wiki/ホットマン#ホットマン_&_ホットマン'04春SP "wikilink")」（4月～6月） 原作：[きたがわ翔](../Page/きたがわ翔.md "wikilink") 出演：[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")、[矢田亜希子](../Page/矢田亜希子.md "wikilink")、[小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")ほか 制作:AVEC
-  - 「[愛するために愛されたい](../Page/愛するために愛されたい.md "wikilink")」 （7月～9月）出演：[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")、[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、柳葉敏郎ほか 制作:[共同テレビ](../Page/共同テレビジョン.md "wikilink")
+  - 「[愛するために愛されたい](../Page/愛するために愛されたい.md "wikilink")」 （7月～9月）出演：[坂口憲二](../Page/坂口憲二.md "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")、[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、柳葉敏郎ほか 制作:[共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - 「[エ・アロール それがどうしたの](../Page/エ・アロール_それがどうしたの.md "wikilink")」（10月～12月） 原作：[渡辺淳一](../Page/渡辺淳一.md "wikilink") 出演：[豊川悦司](../Page/豊川悦司.md "wikilink")、[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")、[緒形拳](../Page/緒形拳.md "wikilink")ほか 制作:ドリマックス・テレビジョン
 
 **[2004年](../Page/2004年.md "wikilink")**

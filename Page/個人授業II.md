@@ -111,7 +111,7 @@
   - 2007年7月19日 [ニューハーフ](../Page/ニューハーフ.md "wikilink")学 （[はるな愛](../Page/はるな愛.md "wikilink")、[アンナ](../Page/アンナ_\(お笑い芸人\).md "wikilink")）
   - 2007年7月26日 [ブログ](../Page/ブログ.md "wikilink")学 （[ルー大柴](../Page/ルー大柴.md "wikilink")＆中川翔子）
   - 2007年8月2日 [紅茶](../Page/紅茶.md "wikilink")学 （[アンガールズ](../Page/アンガールズ.md "wikilink")）
-  - 2007年8月9日 [京都](https://ja.wikipedia.org/wiki/京都 "wikilink")不思議学 （[坂下千里子](https://ja.wikipedia.org/wiki/坂下千里子 "wikilink")）
+  - 2007年8月9日 [京都](../Page/京都.md "wikilink")不思議学 （[坂下千里子](https://ja.wikipedia.org/wiki/坂下千里子 "wikilink")）
   - 2007年8月16日 [徳井流](../Page/徳井義実.md "wikilink")[エロス学](../Page/エロティシズム.md "wikilink") ([チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")）
   - 2007年8月23日 変な[生き物学](../Page/生物.md "wikilink") （[ほっしゃん。](https://ja.wikipedia.org/wiki/ほっしゃん。 "wikilink")）
   - 2007年8月30日 [エヴァンゲリオン学](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")（[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")）
@@ -130,7 +130,7 @@
     \- [綾波レイ](../Page/綾波レイ.md "wikilink") （『新世紀エヴァンゲリオン』）
     \- 朝比奈みくる （『涼宮ハルヒの憂鬱』）
     \- [ブルース・リー](../Page/ブルース・リー.md "wikilink") （『[死亡遊戯](../Page/死亡遊戯.md "wikilink")』）
-    \- [猫娘](https://ja.wikipedia.org/wiki/猫娘_\(ゲゲゲの鬼太郎\) "wikilink") （『[ゲゲゲの鬼太郎](../Page/ゲゲゲの鬼太郎.md "wikilink")』）
+    \- [猫娘](../Page/猫娘_\(ゲゲゲの鬼太郎\).md "wikilink") （『[ゲゲゲの鬼太郎](../Page/ゲゲゲの鬼太郎.md "wikilink")』）
     \- [セーラージュピター](../Page/木野まこと.md "wikilink") （『[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")』）
     \- 木之本桜猫耳＋エプロン姿 （『[カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")』）
     \- 葦月伊織 （『[I"s](../Page/I"s.md "wikilink")』）

@@ -50,7 +50,7 @@ CM枠だけでなく、全国ネット番組内に[ローカル枠](https://ja.w
 ニッポン放送・[文化放送](../Page/文化放送.md "wikilink")の[テープネット](../Page/テープネット.md "wikilink")番組では、CM枠が終わる1～3秒前ギリギリでフィラーをフェードアウトさせている。
 
   - 月曜 - 金曜 7:45 QR：[武田鉄矢・今朝の三枚おろし](../Page/武田鉄矢・今朝の三枚おろし.md "wikilink")★
-  - 月曜 - 金曜 11:20 QR：[氷川きよし節](https://ja.wikipedia.org/wiki/氷川きよし節 "wikilink")★
+  - 月曜 - 金曜 11:20 QR：[氷川きよし節](../Page/氷川きよし節.md "wikilink")★
   - 月曜 - 金曜 17:34 QR：[アーサー・ビナード 午後の三枚おろし](https://ja.wikipedia.org/wiki/アーサー・ビナード_午後の三枚おろし "wikilink")★
   - 月曜 - 木曜 22:00 LF：[オールナイトニッポン MUSIC10](https://ja.wikipedia.org/wiki/オールナイトニッポン_MUSIC10 "wikilink")
   - 金曜 22:00 LF：[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")
@@ -85,7 +85,7 @@ CM枠だけでなく、全国ネット番組内に[ローカル枠](https://ja.w
 以下の例は全て生放送。
 
   - 平日 07:30 [OH\! HAPPY MORNING](https://ja.wikipedia.org/wiki/OH!_HAPPY_MORNING "wikilink")
-  - 平日 11:30 [ONCE](https://ja.wikipedia.org/wiki/ONCE "wikilink")
+  - 平日 11:30 [ONCE](../Page/ONCE.md "wikilink")
   - 平日 13:00 [Daily Flyer](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")
   - 月曜 - 木曜 13:30 [flowers](https://ja.wikipedia.org/wiki/flowers_\(ラジオ番組\) "wikilink")
   - 月曜 - 木曜 19:00 [A・O・R](../Page/A・O・R.md "wikilink")

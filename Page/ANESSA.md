@@ -47,7 +47,7 @@
   - [2004年](../Page/2004年.md "wikilink")：[上原美佐](https://ja.wikipedia.org/wiki/上原美佐_\(1983年生\) "wikilink")
   - [2005年](../Page/2005年.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[2019年](../Page/2019年.md "wikilink") -：[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")\[1\]
   - [2009年](../Page/2009年.md "wikilink")：[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")\[2\]
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [2013年](../Page/2013年.md "wikilink")：[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")\[3\]
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [2013年](../Page/2013年.md "wikilink")：[蒼井優](../Page/蒼井優.md "wikilink")\[3\]
   - [2014年](../Page/2014年.md "wikilink") - [2015年](../Page/2015年.md "wikilink")：[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")\[4\]
   - [2016年](../Page/2016年.md "wikilink")：[真木よう子](https://ja.wikipedia.org/wiki/真木よう子 "wikilink")\[5\]
   - [2017年](../Page/2017年.md "wikilink") - ：[森星](https://ja.wikipedia.org/wiki/森星 "wikilink")\[6\]

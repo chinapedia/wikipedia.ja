@@ -188,7 +188,7 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
         この回では、5代目圓楽が[眼鏡](../Page/眼鏡.md "wikilink")をしている。
 11. 史上最短の答え\!?&[ウソ発見器大喜利](../Page/嘘発見器.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[4月12日](../Page/4月12日.md "wikilink")放送）
       -
-        1問目に、5代目圓楽が[下北半島](../Page/下北半島.md "wikilink")で[ロケに行ったときの話をして](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")、それをヒントに作成された問題だと明かした。
+        1問目に、5代目圓楽が[下北半島](../Page/下北半島.md "wikilink")で[ロケに行ったときの話をして](../Page/ロケーション撮影.md "wikilink")、それをヒントに作成された問題だと明かした。
         3問目で、楽太郎の発言を5代目円楽は全部信じなかった。
 12. 年忘れ大盤振る舞い 大喜利問題4連発（[1999年](../Page/1999年.md "wikilink")（平成11年）[12月26日](../Page/12月26日.md "wikilink")放送）
       -
@@ -331,7 +331,7 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
           - 徳光和夫- 放送当時は日本テレビ放送網アナウンサー
           - [中村真弓](../Page/中村真弓.md "wikilink") - 放送当時は[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")アナウンサー。
           - [植松修幹](../Page/植松おさみ.md "wikilink") - 放送当時は[西日本放送](../Page/西日本放送.md "wikilink")のアナウンサーで、現在は[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")兼[讃岐うどん](../Page/讃岐うどん.md "wikilink")店を経営。
-          - [小澤一彦](https://ja.wikipedia.org/wiki/小澤一彦 "wikilink") - 放送当時は[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")（この当時は[フジテレビ系列との](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クロスネット](../Page/クロスネット局.md "wikilink")）のアナウンサーで、その後[テレビ静岡](../Page/テレビ静岡.md "wikilink")に転属。
+          - [小澤一彦](../Page/小澤一彦.md "wikilink") - 放送当時は[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")（この当時は[フジテレビ系列との](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クロスネット](../Page/クロスネット局.md "wikilink")）のアナウンサーで、その後[テレビ静岡](../Page/テレビ静岡.md "wikilink")に転属。
           - 座布団運び：山田隆夫・[林家うん平](../Page/林家うん平.md "wikilink")
       - 日本テレビ花の女子アナウンサー大喜利（[1994年](../Page/1994年.md "wikilink")（平成6年）[1月1日](../Page/1月1日.md "wikilink")放送）
           - 司会：5代目三遊亭圓楽
@@ -361,11 +361,11 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
 <!-- end list -->
 
 1.  ごあいさつ
-2.  [海老一染之助・染太郎](../Page/海老一染之助・染太郎.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[6月1日](../Page/6月1日.md "wikilink")放送）
+2.  [海老一染之助・染太郎](../Page/海老一染之助・染太郎.md "wikilink")（[1986年](../Page/1986年.md "wikilink")（昭和61年）[6月1日](../Page/6月1日.md "wikilink")放送）
 3.  [春日三球・照代](../Page/春日三球・照代.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[1月25日](../Page/1月25日.md "wikilink")放送）
 4.  [マギー司郎](../Page/マギー司郎.md "wikilink")（[1989年](../Page/1989年.md "wikilink")（平成元年）[11月5日](../Page/11月5日.md "wikilink")放送）
 5.  [コロムビア・トップ・ライト](../Page/コロムビア・トップ・ライト.md "wikilink")（[1989年](../Page/1989年.md "wikilink")（平成元年）[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")放送）
-6.  [牧伸二](../Page/牧伸二.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[6月1日](../Page/6月1日.md "wikilink")放送）
+6.  [牧伸二](../Page/牧伸二.md "wikilink")（[1986年](../Page/1986年.md "wikilink")（昭和61年）[6月1日](../Page/6月1日.md "wikilink")放送）
 7.  [夢路いとし・喜味こいし](https://ja.wikipedia.org/wiki/夢路いとし・喜味こいし "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[5月24日](../Page/5月24日.md "wikilink")放送）
 8.  [早野凡平](../Page/早野凡平.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[9月6日](../Page/9月6日.md "wikilink")放送）
 9.  [レツゴー三匹](../Page/レツゴー三匹.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[3月29日](../Page/3月29日.md "wikilink")放送）
@@ -426,7 +426,7 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
       -
         [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[1月3日](../Page/1月3日.md "wikilink")放送「[番組対抗かくし芸大会](../Page/番組対抗かくし芸大会.md "wikilink")」にエントリーしていた収録作品だったが、三波急逝のため放送を見送ったもの。
     <!-- end list -->
-      - 笑点メンバー マジックに挑戦\!（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[12月28日](../Page/12月28日.md "wikilink")放送）
+      - 笑点メンバー マジックに挑戦\!（[1986年](../Page/1986年.md "wikilink")（昭和61年）[12月28日](../Page/12月28日.md "wikilink")放送）
     <!-- end list -->
       -
         [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）～[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）の年末と[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）～[1996年](../Page/1996年.md "wikilink")（平成8年）の新春スペシャルまで、笑点メンバーがマジックに挑戦していた年1回の恒例のコーナーだった。

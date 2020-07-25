@@ -41,6 +41,6 @@
 [Category:日本のディーゼル機関車](https://ja.wikipedia.org/wiki/Category:日本のディーゼル機関車 "wikilink") [Category:大井川鐵道の鉄道車両](https://ja.wikipedia.org/wiki/Category:大井川鐵道の鉄道車両 "wikilink") [Category:加藤製作所製の鉄道車両](https://ja.wikipedia.org/wiki/Category:加藤製作所製の鉄道車両 "wikilink") [Category:1936年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1936年製の鉄道車両 "wikilink")
 
 1.  [ネコ・パブリッシング](../Page/ネコ・パブリッシング.md "wikilink")『RM LIBRARY 96 大井川鐵道井川線』によれば、代用燃料装置を別車体にしたうえ、沿線に製炭所があったことから、代用燃料バスより成績は良好であったという。なお、この時に使用された代用燃料装置が、[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）現在でも千頭駅と川根両国車両区に残っているという。
-2.  その後日野DB31C (85PS/1,200rpm) に換装されている。ネコ・パブリッシング「RM LIBRARY 96 大井川鐵道井川線」によれば、このエンジンは、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）に廃止となった[千頭森林鉄道](../Page/千頭森林鉄道.md "wikilink")の機関車の中から、状態のよいものを選んだという。
+2.  その後日野DB31C (85PS/1,200rpm) に換装されている。ネコ・パブリッシング「RM LIBRARY 96 大井川鐵道井川線」によれば、このエンジンは、[1968年](../Page/1968年.md "wikilink")（昭和43年）に廃止となった[千頭森林鉄道](../Page/千頭森林鉄道.md "wikilink")の機関車の中から、状態のよいものを選んだという。
 3.  ただし、その後の井川線車両の標準の連結器高さ（レール面から640mm）ではなく、普通鉄道と同様の高さ（レール面から880mm）となっていた。現在でも、連結器取付座が残っている。
 4.  井川線用の小型連結器で、同社では「4分の3自動連結器」と呼称している。

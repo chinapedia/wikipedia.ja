@@ -5,7 +5,7 @@
 
 ## 概要
 
-[light](https://ja.wikipedia.org/wiki/light "wikilink")作品『[Sultan 〜The Lovesong is Forever〜](https://ja.wikipedia.org/wiki/Sultan_〜The_Lovesong_is_Forever〜 "wikilink")』を手掛けた、原画・[くすくす](../Page/くすくす.md "wikilink")と、シナリオ・[NYAON](https://ja.wikipedia.org/wiki/NYAON "wikilink")のタッグでの新作（一部のシナリオはlightの[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")が担当している）。
+[light](https://ja.wikipedia.org/wiki/light "wikilink")作品『[Sultan 〜The Lovesong is Forever〜](../Page/Sultan_〜The_Lovesong_is_Forever〜.md "wikilink")』を手掛けた、原画・[くすくす](../Page/くすくす.md "wikilink")と、シナリオ・[NYAON](https://ja.wikipedia.org/wiki/NYAON "wikilink")のタッグでの新作（一部のシナリオはlightの[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")が担当している）。
 
 システムはテキスト型アドベンチャー。どのヒロインのシナリオに進むかは前半でたびたび出現する場所移動の選択によって決定される。選択肢もいくつか存在するが、一部の特殊な例外を除いてはストーリーに直接かかわるものではない。
 
@@ -170,7 +170,7 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
 
 ## 関連項目
 
-  - [Sultan 〜The Lovesong is Forever〜](https://ja.wikipedia.org/wiki/Sultan_〜The_Lovesong_is_Forever〜 "wikilink")
+  - [Sultan 〜The Lovesong is Forever〜](../Page/Sultan_〜The_Lovesong_is_Forever〜.md "wikilink")
   - [もしも明日が晴れならば](../Page/もしも明日が晴れならば.md "wikilink")
   - [さくらシュトラッセ](../Page/さくらシュトラッセ.md "wikilink")
 

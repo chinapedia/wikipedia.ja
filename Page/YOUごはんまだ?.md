@@ -1,7 +1,7 @@
 > この記事は[YOUごはんまだ\?](https://ja.wikipedia.org/wiki/YOUごはんまだ\?)から翻訳されています。
 
 
-**YOUごはんまだ?**（**ゆーごはんまだ**）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月13日](../Page/5月13日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月29日](../Page/1月29日.md "wikilink")まで[朝日放送で放送されていた若者向け](../Page/朝日放送テレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。「[アクティ大阪](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")」の15〜16階に設置されていた[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「[ABCエキスタ](../Page/ABCエキスタ.md "wikilink")」からの公開生放送番組であった。
+**YOUごはんまだ?**（**ゆーごはんまだ**）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月13日](../Page/5月13日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")まで[朝日放送で放送されていた若者向け](../Page/朝日放送テレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。「[アクティ大阪](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")」の15〜16階に設置されていた[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「[ABCエキスタ](../Page/ABCエキスタ.md "wikilink")」からの公開生放送番組であった。
 
 ## 概要
 

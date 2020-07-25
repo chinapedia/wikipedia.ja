@@ -38,7 +38,7 @@
   - 企画：岡田忠明
   - エクゼクティブ・プロデューサー：岡村秀夫　稲葉正治　　　　　　　　
   - プロデューサー： 浅野恵代(OLC・ライツ・エンタテイメント)、　木曽由香里（[アンサー・スタジオ](../Page/アンサー・スタジオ.md "wikilink")）
-  - 監督：[大賀俊二](https://ja.wikipedia.org/wiki/大賀俊二 "wikilink")　[川又浩](https://ja.wikipedia.org/wiki/川又浩 "wikilink")
+  - 監督：[大賀俊二](../Page/大賀俊二.md "wikilink")　[川又浩](https://ja.wikipedia.org/wiki/川又浩 "wikilink")
   - キャラクターデザイン：ストライプスタジオ
   - シリーズ構成：[中瀬理香](../Page/中瀬理香.md "wikilink")
   - シナリオ：[高橋ナツコ](../Page/高橋ナツコ.md "wikilink")　[冨岡淳広](../Page/冨岡淳広.md "wikilink")　[中瀬理香](../Page/中瀬理香.md "wikilink")　[福嶋幸典](https://ja.wikipedia.org/wiki/福嶋幸典 "wikilink")

@@ -72,7 +72,7 @@
   - 辻理々花 - [坂本千夏](../Page/坂本千夏.md "wikilink")
   - ナレーション、安部麗華 - [五十嵐美恵子](https://ja.wikipedia.org/wiki/五十嵐美恵子 "wikilink")
   - 新米 - [岸尾大輔](https://ja.wikipedia.org/wiki/岸尾大輔 "wikilink")
-  - オーナー - [くわはら利晃](https://ja.wikipedia.org/wiki/くわはら利晃 "wikilink")
+  - オーナー - [くわはら利晃](../Page/くわはら利晃.md "wikilink")
   - 教師 - [木内秀信](../Page/木内秀信.md "wikilink")
   - 男子生徒A - [桐井大介](../Page/桐井大介.md "wikilink")
   - 男子生徒B - [川田紳司](../Page/川田紳司.md "wikilink")

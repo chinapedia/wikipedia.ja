@@ -1,7 +1,7 @@
 > この記事は[ElgooG](https://ja.wikipedia.org/wiki/ElgooG)から翻訳されています。
 
 
-**elgooG**（エルグーグ）は、検索エンジン「[Google](../Page/Google.md "wikilink")」の[インターネット](../Page/インターネット.md "wikilink")[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")を掻い潜るための[ミラーサイト](../Page/ミラーサイト.md "wikilink")の一つである。
+**elgooG**（エルグーグ）は、検索エンジン「[Google](../Page/Google.md "wikilink")」の[インターネット](../Page/インターネット.md "wikilink")[検閲](../Page/検閲.md "wikilink")を掻い潜るための[ミラーサイト](../Page/ミラーサイト.md "wikilink")の一つである。
 
 ## 経緯
 
@@ -18,7 +18,7 @@
   - 関連する言葉・事象
       - [Google](../Page/Google.md "wikilink")
       - [金盾](../Page/金盾.md "wikilink")
-      - [検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")
+      - [検閲](../Page/検閲.md "wikilink")
       - [日本における検閲](../Page/日本における検閲.md "wikilink")
       - [言論統制](../Page/言論統制.md "wikilink")
       - [ネット検閲](../Page/ネット検閲.md "wikilink")

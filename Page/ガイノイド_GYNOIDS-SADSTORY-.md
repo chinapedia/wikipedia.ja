@@ -21,7 +21,7 @@
 
 ## キャスト
 
-  - ミカ：[小村りこ](https://ja.wikipedia.org/wiki/江辺香織 "wikilink")
+  - ミカ：[小村りこ](../Page/江辺香織.md "wikilink")
   - エル：[岡崎莉子](https://ja.wikipedia.org/wiki/岡崎莉子 "wikilink")
   - セラ：岡崎莉子（ = 二役）
   - 進藤巡査部長：[谷屋俊輔](https://ja.wikipedia.org/wiki/谷屋俊輔 "wikilink")
@@ -53,7 +53,7 @@
 
 ## 備考・トリヴィア
 
-  - 主演の小村りこ(現・[江辺香織](https://ja.wikipedia.org/wiki/江辺香織 "wikilink"))は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在、ビリヤードのプロとして活躍している。上記『イヴォルバー -EVOLVER-』に続いての主演。
+  - 主演の小村りこ(現・[江辺香織](../Page/江辺香織.md "wikilink"))は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在、ビリヤードのプロとして活躍している。上記『イヴォルバー -EVOLVER-』に続いての主演。
 
 ## 外部リンク
 

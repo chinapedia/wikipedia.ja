@@ -1,7 +1,7 @@
 > この記事は[Duet](https://ja.wikipedia.org/wiki/Duet)から翻訳されています。
 
 
-『**DUeT**』（デュエット）は、[ホーム社](https://ja.wikipedia.org/wiki/ホーム社 "wikilink")発行、[集英社](../Page/集英社.md "wikilink")発売の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")の[男性アイドル](https://ja.wikipedia.org/wiki/男性アイドル "wikilink")雑誌。毎月7日発売。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月号創刊。
+『**DUeT**』（デュエット）は、[ホーム社](https://ja.wikipedia.org/wiki/ホーム社 "wikilink")発行、[集英社](../Page/集英社.md "wikilink")発売の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")の[男性アイドル](https://ja.wikipedia.org/wiki/男性アイドル "wikilink")雑誌。毎月7日発売。[1986年](../Page/1986年.md "wikilink")12月号創刊。
 
 主に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の[タレント](../Page/タレント.md "wikilink")が出演している。
 
@@ -28,7 +28,7 @@
 | 年    | 恋人にしたいアイドル1位                                                                                                                        |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | 2004 | [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")（当時[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）            |
-| 2005 | [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")（当時[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）                  |
+| 2005 | [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")（当時[KAT-TUN](../Page/KAT-TUN.md "wikilink")）                                     |
 | 2006 |                                                                                                                                     |
 | 2007 |                                                                                                                                     |
 | 2008 | [山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink") （[Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")） |

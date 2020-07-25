@@ -44,7 +44,7 @@
 | 03月08日 | [パワースマッシュ3](https://ja.wikipedia.org/wiki/パワースマッシュ3 "wikilink")                             | セガ                                                                                                               |   |   |   |    |
 | 03月15日 | [ファイトナイト ラウンド3](https://ja.wikipedia.org/wiki/ファイトナイト_ラウンド3 "wikilink")【英語版】                | エレクトロニック・アーツ                                                                                                     |   |   |   |    |
 | 03月22日 | [ミストオブカオス](../Page/ミストオブカオス.md "wikilink")                                                  | [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")                                                                 |   |   |   |    |
-| 03月29日 | [ウイニングポスト7 マキシマム2007](https://ja.wikipedia.org/wiki/ウイニングポスト7 "wikilink")                   | コーエー                                                                                                             |   |   |   |    |
+| 03月29日 | [ウイニングポスト7 マキシマム2007](../Page/ウイニングポスト7.md "wikilink")                                      | コーエー                                                                                                             |   |   |   |    |
 | 04月01日 | [プロ野球スピリッツ4](../Page/プロ野球スピリッツ4.md "wikilink")                                              | コナミデジタルエンタテインメント                                                                                                 | ● |   |   |    |
 | 04月26日 | [マッデンNFL](https://ja.wikipedia.org/wiki/マッデンNFL "wikilink")07【英語版】                          | エレクトロニック・アーツ                                                                                                     | ● |   |   |    |
 | 05月24日 | [NBAストリート ホームコート](https://ja.wikipedia.org/wiki/NBAストリート_ホームコート "wikilink")                 | エレクトロニック・アーツ                                                                                                     | ● |   |   |    |
@@ -108,26 +108,26 @@
 | 03月06日 | [ギターヒーロー3 レジェンド オブ ロック](../Page/ギターヒーロー3_レジェンド_オブ_ロック.md "wikilink")                                                | アクティビジョン                                         | ● |    |
 | 03月06日 | [龍が如く 見参\!](../Page/龍が如く_見参!.md "wikilink")                                                                         | セガ                                               |   |    |
 | 03月13日 | [スケート](../Page/スケート.md "wikilink")                                                                                  | エレクトロニック・アーツ                                     | ● |    |
-| 03月13日 | [ウイニングポスト7 マキシマム2008](https://ja.wikipedia.org/wiki/ウイニングポスト7 "wikilink")                                           | コーエー                                             |   |    |
+| 03月13日 | [ウイニングポスト7 マキシマム2008](../Page/ウイニングポスト7.md "wikilink")                                                              | コーエー                                             |   |    |
 | 03月19日 | [アーミー オブ ツー](../Page/アーミー_オブ_ツー.md "wikilink")                                                                      | エレクトロニック・アーツ                                     | ● |    |
 | 03月19日 | [アーマード・コア フォーアンサー](../Page/アーマード・コア_フォーアンサー.md "wikilink")                                                          | フロム・ソフトウェア                                       | ● |    |
 | 03月19日 | [ブレイジング・エンジェル2: シークレット・ミッション・オブ・WWII](https://ja.wikipedia.org/wiki/ブレイジング・エンジェル2:_シークレット・ミッション・オブ・WWII "wikilink") | ユービーアイソフト                                        | ● |    |
 | 03月27日 | [レゴ スター・ウォーズ コンプリート サーガ](https://ja.wikipedia.org/wiki/レゴ_スター・ウォーズ "wikilink")                                      | アクティビジョン                                         |   |    |
 | 03月27日 | [ライラの冒険 黄金の羅針盤](https://ja.wikipedia.org/wiki/ライラの冒険/黄金の羅針盤 "wikilink")                                             | セガ                                               |   |    |
 | 04月01日 | [プロ野球スピリッツ5](../Page/プロ野球スピリッツ5.md "wikilink")                                                                      | コナミデジタルエンタテインメント                                 | ● |    |
-| 04月24日 | [戦場のヴァルキュリア](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")                                                   | セガ                                               |   |    |
+| 04月24日 | [戦場のヴァルキュリア](../Page/戦場のヴァルキュリア.md "wikilink")                                                                      | セガ                                               |   |    |
 | 05月22日 | [ヘイズ](https://ja.wikipedia.org/wiki/ヘイズ_\(ゲームソフト\) "wikilink")                                                      | スパイク                                             | ● |    |
 | 05月22日 | [モーターストーム・コンプリート](https://ja.wikipedia.org/wiki/MotorStorm "wikilink")                                              | ソニー・コンピュータエンタテインメント                              | ● |    |
 | 05月29日 | [テュロック](../Page/テュロック.md "wikilink")                                                                                | タッチストーン                                          | ● |    |
 | 05月29日 | [バトルファンタジア](../Page/バトルファンタジア.md "wikilink")                                                                        | [アークシステムワークス](../Page/アークシステムワークス.md "wikilink") | ● |    |
 | 05月29日 | [レインボーシックス ベガス 2](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス_2 "wikilink")                                         | ユービーアイソフト                                        | ● |    |
-| 06月05日 | [ドラゴンボールZ バーストリミット](https://ja.wikipedia.org/wiki/ドラゴンボールZ_バーストリミット "wikilink")                                     | バンダイナムコゲームス                                      | ● |    |
+| 06月05日 | [ドラゴンボールZ バーストリミット](../Page/ドラゴンボールZ_バーストリミット.md "wikilink")                                                        | バンダイナムコゲームス                                      | ● |    |
 | 06月05日 | FIFA ストリート3                                                                                                         | エレクトロニック・アーツ                                     | ● |    |
 | 06月12日 | [メタルギアソリッド4 ガンズ・オブ・ザ・パトリオット](../Page/メタルギアソリッド4.md "wikilink")                                                      | コナミデジタルエンタテインメント                                 | ● |    |
 | 06月26日 | [Enemy Territory: Quake Wars](../Page/Enemy_Territory:_Quake_Wars.md "wikilink")                                    | アクティビジョン                                         | ● |    |
-| 06月26日 | [ザ・ダークネス](https://ja.wikipedia.org/wiki/ザ・ダークネス_\(ゲーム\) "wikilink")                                                 | スパイク                                             | ● |    |
+| 06月26日 | [ザ・ダークネス](../Page/ザ・ダークネス_\(ゲーム\).md "wikilink")                                                                    | スパイク                                             | ● |    |
 | 07月03日 | [頭文字D エクストリーム ステージ](../Page/頭文字D_ARCADE_STAGE.md "wikilink")                                                        | セガ                                               | ● |    |
-| 07月10日 | [KANE\&LYNCH: DEAD MEN](https://ja.wikipedia.org/wiki/KANE&LYNCH:_DEAD_MEN "wikilink")                              | スパイク                                             | ● |    |
+| 07月10日 | [KANE\&LYNCH: DEAD MEN](../Page/KANE&LYNCH:_DEAD_MEN.md "wikilink")                                                 | スパイク                                             | ● |    |
 | 07月10日 | [ダークセクター](../Page/ダークセクター.md "wikilink")                                                                            | ディースリー・パブリッシャー                                   | ● |    |
 | 07月17日 | [ティアーズ・トゥ・ティアラ 花冠の大地](../Page/ティアーズ・トゥ・ティアラ_花冠の大地.md "wikilink")                                                    | [アクアプラス](../Page/アクアプラス.md "wikilink")           |   |    |
 | 07月24日 | [カンフー・パンダ](../Page/カンフー・パンダ.md "wikilink")                                                                          | アクティビジョン                                         |   |    |
@@ -138,7 +138,7 @@
 | 08月21日 | [ヴァンパイアレイン](https://ja.wikipedia.org/wiki/ヴァンパイアレイン "wikilink"):アルタードスピーシーズ                                         | [AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")   | ● |    |
 | 08月28日 | [バトルフィールド バッド カンパニー](../Page/バトルフィールド_バッド_カンパニー.md "wikilink")                                                      | エレクトロニック・アーツ                                     | ● |    |
 | 08月28日 | [AFRIKA](../Page/AFRIKA.md "wikilink")                                                                              | ソニー・コンピュータエンタテインメント                              |   |    |
-| 09月11日 | [ストラングルホールド](https://ja.wikipedia.org/wiki/ストラングルホールド_\(ゲーム\) "wikilink")                                           | [サクセス](../Page/サクセス_\(ゲーム会社\).md "wikilink")     | ● |    |
+| 09月11日 | [ストラングルホールド](../Page/ストラングルホールド_\(ゲーム\).md "wikilink")                                                              | [サクセス](../Page/サクセス_\(ゲーム会社\).md "wikilink")     | ● |    |
 | 09月11日 | [DOUBLE CLUTCH](https://ja.wikipedia.org/wiki/Double_Clutch "wikilink")                                             | スパイク                                             | ● |    |
 | 09月18日 | [ジーワンジョッキー 2008](../Page/ジーワンジョッキー.md "wikilink")4                                                                  | コーエー                                             |   |    |
 | 09月18日 | [アンリアルトーナメント3](https://ja.wikipedia.org/wiki/Unreal_Tournament#Unreal_Tournament_3 "wikilink")                      | エレクトロニック・アーツ                                     | ● |    |
@@ -827,7 +827,7 @@
 </tr>
 <tr class="even">
 <td><p>09月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト7" title="wikilink">ウイニングポスト7 2010</a></p></td>
+<td><p><a href="../Page/ウイニングポスト7.md" title="wikilink">ウイニングポスト7 2010</a></p></td>
 <td><p>コーエーテクモゲームス</p></td>
 <td></td>
 <td></td>
@@ -1305,7 +1305,7 @@ RACING PACKあり</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無限回廊" title="wikilink">無限回廊 光と影の箱</a></p></td>
+<td><p><a href="../Page/無限回廊.md" title="wikilink">無限回廊 光と影の箱</a></p></td>
 <td><p>ソニー・コンピュータエンタテインメント</p></td>
 <td></td>
 <td><p>○</p></td>
@@ -2061,7 +2061,7 @@ RACING PACKあり</p></td>
 </tr>
 <tr class="odd">
 <td><p>09月08日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バイオハザードシリーズ" title="wikilink">バイオハザード リバイバルセレクション</a></p></td>
+<td><p><a href="../Page/バイオハザードシリーズ.md" title="wikilink">バイオハザード リバイバルセレクション</a></p></td>
 <td><p>カプコン</p></td>
 <td></td>
 <td></td>
@@ -2972,7 +2972,7 @@ HDリマスター</p></td>
 </tr>
 <tr class="odd">
 <td><p>03月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト7" title="wikilink">ウイニングポスト7 2012</a></p></td>
+<td><p><a href="../Page/ウイニングポスト7.md" title="wikilink">ウイニングポスト7 2012</a></p></td>
 <td><p>コーエーテクモゲームス</p></td>
 <td></td>
 <td></td>
@@ -4028,7 +4028,7 @@ HDリマスター</p></td>
 | 03月07日 | [初音ミク Project DIVA F](https://ja.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")                                                     | セガ                                                               |   |   |   |                    |
 | 03月07日 | [Far Cry 3](https://ja.wikipedia.org/wiki/Far_Cry_3 "wikilink")                                                                         | ユービーアイソフト                                                        | ● |   |   |                    |
 | 03月14日 | [ヴァンパイア リザレクション](../Page/ヴァンパイア_\(ゲーム\).md "wikilink")                                                                                  | カプコン                                                             | ● |   |   |                    |
-| 03月14日 | [ウイニングポスト7 2013](https://ja.wikipedia.org/wiki/ウイニングポスト7 "wikilink")                                                                    | コーエーテクモゲームス                                                      |   |   |   |                    |
+| 03月14日 | [ウイニングポスト7 2013](../Page/ウイニングポスト7.md "wikilink")                                                                                       | コーエーテクモゲームス                                                      |   |   |   |                    |
 | 03月14日 | [キングダム ハーツ HD 1.5 リミックス](https://ja.wikipedia.org/wiki/キングダム_ハーツ_HD_1.5_リミックス "wikilink")                                               | スクウェア・エニックス                                                      |   |   |   | HDリマスター            |
 | 03月14日 | [ゴッド・オブ・ウォー：アセンション](https://ja.wikipedia.org/wiki/God_of_War:_Ascension "wikilink")                                                     | ソニー・コンピュータエンタテインメント                                              | ● |   |   |                    |
 | 03月20日 | [ディスガイア D2](https://ja.wikipedia.org/wiki/ディスガイア_D2 "wikilink")                                                                         | 日本一ソフトウェア                                                        |   |   |   |                    |
@@ -5309,30 +5309,30 @@ HDリマスター</p></td>
 
 ### 2008年
 
-| 配信日    | タイトル                                                                                            | 発売元                                                       | 販売 方式 | オ | 備考                           |
-| ------ | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----- | - | ---------------------------- |
-| 01月10日 | [Go\! Sports Skydiving](https://ja.wikipedia.org/wiki/Go!_Sports_Skydiving "wikilink")          | ソニー・コンピュータエンタテインメント                                       |       | ● |                              |
-| 02月07日 | [スネークボール](https://ja.wikipedia.org/wiki/スネークボール "wikilink")                                     | ソニー・コンピュータエンタテインメント                                       |       | ● |                              |
-| 02月14日 | [ブラスト・ファクター コンプリート](https://ja.wikipedia.org/wiki/ブラスト・ファクター_コンプリート "wikilink")                 | ソニー・コンピュータエンタテインメント                                       |       | ● | 追加パック「エクスパンション」「アドバンス」のフルセット |
-| 03月19日 | [無限回廊 -序曲-](https://ja.wikipedia.org/wiki/無限回廊 "wikilink")                                      | ソニー・コンピュータエンタテインメント                                       |       |   |                              |
-| 05月15日 | [Everyday Shooter](https://ja.wikipedia.org/wiki/Everyday_Shooter "wikilink")                   | ソニー・コンピュータエンタテインメント                                       |       |   |                              |
-| 05月29日 | [Fatal Inertia EX](https://ja.wikipedia.org/wiki/Fatal_Inertia_EX "wikilink")                   | コーエー                                                      |       | ● |                              |
-| 06月26日 | [四季庭](https://ja.wikipedia.org/wiki/四季庭 "wikilink")                                             | ソニー・コンピュータエンタテインメント                                       |       |   |                              |
-| 07月02日 | [パチパラ DL（ダウンロード）ハイパー海INカリブ](https://ja.wikipedia.org/wiki/パチパラ_DL（ダウンロード）ハイパー海INカリブ "wikilink") | アイレムソフトウェアエンジニアリング                                        |       |   |                              |
-| 07月10日 | [エレファンク](https://ja.wikipedia.org/wiki/エレファンク "wikilink")                                       | ソニー・コンピュータエンタテインメント                                       |       | ● |                              |
-| 07月31日 | [PixelJunk EDEN](https://ja.wikipedia.org/wiki/PixelJunkシリーズ "wikilink")                        | キュー・ゲームス                                                  |       |   |                              |
-| 08月13日 | [バイオニックコマンドー マスターD復活計画](../Page/トップシークレット_\(ゲーム\).md "wikilink")                                | カプコン                                                      |       |   |                              |
-| 08月21日 | [ラチェット&クランク FUTURE 外伝 海賊ダークーウォーターの秘宝](https://ja.wikipedia.org/wiki/ラチェット&クランク "wikilink")      | ソニー・コンピュータエンタテインメント                                       |       |   |                              |
-| 08月28日 | [The Last Guy](https://ja.wikipedia.org/wiki/The_Last_Guy "wikilink")                           | ソニー・コンピュータエンタテインメント                                       |       |   | 限定配信版あり                      |
-| 09月25日 | [Angel Love Online](../Page/Angel_Love_Online.md "wikilink")                                    | [キューエンタテインメント](../Page/キューエンタテインメント.md "wikilink")        | 基本無料  | ○ | アイテム課金                       |
-| 10月29日 | [WipEout HD](../Page/ワイプアウト.md "wikilink")                                                      | ソニー・コンピュータエンタテインメント                                       |       | ● | 3D立体視対応                      |
-| 10月30日 | [SOCOM:CONFRONTATION](https://ja.wikipedia.org/wiki/SOCOM:CONFRONTATION "wikilink")             | ソニー・コンピュータエンタテインメント                                       |       | ○ |                              |
-| 12月04日 | [Linger In Shadows](https://ja.wikipedia.org/wiki/Linger_In_Shadows "wikilink")                 | ソニー・コンピュータエンタテインメント                                       |       |   |                              |
-| 12月18日 | [みんニャのパターGOLF](https://ja.wikipedia.org/wiki/みんニャのパターGOLF "wikilink")                           | ソニー・コンピュータエンタテインメント                                       |       |   |                              |
-| 12月18日 | [ルミネス スーパーノヴァ](../Page/ルミネス.md "wikilink")                                                      | キューエンタテインメント                                              |       |   |                              |
-| 12月18日 | [ブレインチャレンジ](https://ja.wikipedia.org/wiki/ブレインチャレンジ "wikilink")                                 | [ゲームロフト](https://ja.wikipedia.org/wiki/ゲームロフト "wikilink") |       | ● |                              |
-| 12月18日 | [Catan](https://ja.wikipedia.org/wiki/Catan "wikilink")                                         | [ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")              |       | ● |                              |
-|        |                                                                                                 |                                                           |       |   |                              |
+| 配信日    | タイトル                                                                                            | 発売元                                                | 販売 方式 | オ | 備考                           |
+| ------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- | - | ---------------------------- |
+| 01月10日 | [Go\! Sports Skydiving](https://ja.wikipedia.org/wiki/Go!_Sports_Skydiving "wikilink")          | ソニー・コンピュータエンタテインメント                                |       | ● |                              |
+| 02月07日 | [スネークボール](https://ja.wikipedia.org/wiki/スネークボール "wikilink")                                     | ソニー・コンピュータエンタテインメント                                |       | ● |                              |
+| 02月14日 | [ブラスト・ファクター コンプリート](https://ja.wikipedia.org/wiki/ブラスト・ファクター_コンプリート "wikilink")                 | ソニー・コンピュータエンタテインメント                                |       | ● | 追加パック「エクスパンション」「アドバンス」のフルセット |
+| 03月19日 | [無限回廊 -序曲-](../Page/無限回廊.md "wikilink")                                                         | ソニー・コンピュータエンタテインメント                                |       |   |                              |
+| 05月15日 | [Everyday Shooter](https://ja.wikipedia.org/wiki/Everyday_Shooter "wikilink")                   | ソニー・コンピュータエンタテインメント                                |       |   |                              |
+| 05月29日 | [Fatal Inertia EX](https://ja.wikipedia.org/wiki/Fatal_Inertia_EX "wikilink")                   | コーエー                                               |       | ● |                              |
+| 06月26日 | [四季庭](https://ja.wikipedia.org/wiki/四季庭 "wikilink")                                             | ソニー・コンピュータエンタテインメント                                |       |   |                              |
+| 07月02日 | [パチパラ DL（ダウンロード）ハイパー海INカリブ](https://ja.wikipedia.org/wiki/パチパラ_DL（ダウンロード）ハイパー海INカリブ "wikilink") | アイレムソフトウェアエンジニアリング                                 |       |   |                              |
+| 07月10日 | [エレファンク](https://ja.wikipedia.org/wiki/エレファンク "wikilink")                                       | ソニー・コンピュータエンタテインメント                                |       | ● |                              |
+| 07月31日 | [PixelJunk EDEN](https://ja.wikipedia.org/wiki/PixelJunkシリーズ "wikilink")                        | キュー・ゲームス                                           |       |   |                              |
+| 08月13日 | [バイオニックコマンドー マスターD復活計画](../Page/トップシークレット_\(ゲーム\).md "wikilink")                                | カプコン                                               |       |   |                              |
+| 08月21日 | [ラチェット&クランク FUTURE 外伝 海賊ダークーウォーターの秘宝](../Page/ラチェット&クランク.md "wikilink")                         | ソニー・コンピュータエンタテインメント                                |       |   |                              |
+| 08月28日 | [The Last Guy](https://ja.wikipedia.org/wiki/The_Last_Guy "wikilink")                           | ソニー・コンピュータエンタテインメント                                |       |   | 限定配信版あり                      |
+| 09月25日 | [Angel Love Online](../Page/Angel_Love_Online.md "wikilink")                                    | [キューエンタテインメント](../Page/キューエンタテインメント.md "wikilink") | 基本無料  | ○ | アイテム課金                       |
+| 10月29日 | [WipEout HD](../Page/ワイプアウト.md "wikilink")                                                      | ソニー・コンピュータエンタテインメント                                |       | ● | 3D立体視対応                      |
+| 10月30日 | [SOCOM:CONFRONTATION](https://ja.wikipedia.org/wiki/SOCOM:CONFRONTATION "wikilink")             | ソニー・コンピュータエンタテインメント                                |       | ○ |                              |
+| 12月04日 | [Linger In Shadows](https://ja.wikipedia.org/wiki/Linger_In_Shadows "wikilink")                 | ソニー・コンピュータエンタテインメント                                |       |   |                              |
+| 12月18日 | [みんニャのパターGOLF](https://ja.wikipedia.org/wiki/みんニャのパターGOLF "wikilink")                           | ソニー・コンピュータエンタテインメント                                |       |   |                              |
+| 12月18日 | [ルミネス スーパーノヴァ](../Page/ルミネス.md "wikilink")                                                      | キューエンタテインメント                                       |       |   |                              |
+| 12月18日 | [ブレインチャレンジ](https://ja.wikipedia.org/wiki/ブレインチャレンジ "wikilink")                                 | [ゲームロフト](../Page/ゲームロフト.md "wikilink")             |       | ● |                              |
+| 12月18日 | [Catan](https://ja.wikipedia.org/wiki/Catan "wikilink")                                         | [ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")       |       | ● |                              |
+|        |                                                                                                 |                                                    |       |   |                              |
 
 ### 2009年
 

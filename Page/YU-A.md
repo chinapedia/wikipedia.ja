@@ -1,7 +1,7 @@
 > この記事は[YU-A](https://ja.wikipedia.org/wiki/YU-A)から翻訳されています。
 
 
-**YU-A**（ユア 、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は日本の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
+**YU-A**（ユア 、[1986年](../Page/1986年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）は日本の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
 [2005年](../Page/2005年.md "wikilink")、オーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』に出演し、合格。先に合格していたCHiE、DEMとともに[ガール・グループ](https://ja.wikipedia.org/wiki/ガール・グループ "wikilink")[Foxxi misQを結成し](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")、[2006年](../Page/2006年.md "wikilink")にシングル「[Tha F.Q's Style](../Page/Tha_F.Q's_Style.md "wikilink")」でメジャー・デビュー。グループは、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に活動を休止した。ソロ歌手としては、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[童子-T](../Page/童子-T.md "wikilink")の楽曲「[願い](https://ja.wikipedia.org/wiki/願い_feat._YU-A "wikilink")」に客演で迎えられる。[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")「[逢いたい…](https://ja.wikipedia.org/wiki/逢いたい… "wikilink")」で、ソロデビューを果たした。
 

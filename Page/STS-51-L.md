@@ -1,7 +1,7 @@
 > この記事は[STS-51-L](https://ja.wikipedia.org/wiki/STS-51-L)から翻訳されています。
 
 
-**STS-51L**は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")に行われた、[スペースシャトル](../Page/スペースシャトル.md "wikilink")[チャレンジャーのミッションである](https://ja.wikipedia.org/wiki/チャレンジャー_\(オービタ\) "wikilink")。スペースシャトルのミッションとしては25回目で、チャレンジャーとしては10回目。[ケネディ宇宙センター](https://ja.wikipedia.org/wiki/ケネディ宇宙センター "wikilink")[発射施設39-Bからのシャトルの初打上げであった](https://ja.wikipedia.org/wiki/ケネディ宇宙センター第39発射施設 "wikilink")。
+**STS-51L**は、[1986年](../Page/1986年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に行われた、[スペースシャトル](../Page/スペースシャトル.md "wikilink")[チャレンジャーのミッションである](https://ja.wikipedia.org/wiki/チャレンジャー_\(オービタ\) "wikilink")。スペースシャトルのミッションとしては25回目で、チャレンジャーとしては10回目。[ケネディ宇宙センター](https://ja.wikipedia.org/wiki/ケネディ宇宙センター "wikilink")[発射施設39-Bからのシャトルの初打上げであった](https://ja.wikipedia.org/wiki/ケネディ宇宙センター第39発射施設 "wikilink")。
 
 アメリカでは初のアジア系宇宙飛行士である、日系人の[エリソン・オニヅカ](../Page/エリソン・オニヅカ.md "wikilink")、初の民間人宇宙飛行士で高校教師[クリスタ・マコーリフ](https://ja.wikipedia.org/wiki/クリスタ・マコーリフ "wikilink")、初の黒人宇宙飛行士[ロナルド・マクネイア](https://ja.wikipedia.org/wiki/ロナルド・マクネイア "wikilink")らが搭乗して大きな注目を集めていた。しかし発射から73秒後に空中分解を起こして、乗組員全員が死亡する大惨事となった。機体全体が分解した後も、2基の[固体燃料補助ロケット](https://ja.wikipedia.org/wiki/スペースシャトル固体燃料補助ロケット "wikilink")(SRB)は無制御で飛行を続けていたが、こちらは110秒後に地上からの自爆指令により破壊された。
 

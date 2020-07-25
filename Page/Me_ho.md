@@ -1,7 +1,7 @@
 > この記事は[Me ho](https://ja.wikipedia.org/wiki/Me_ho)から翻訳されています。
 
 
-**ハルカミホ**（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月23日](../Page/6月23日.md "wikilink") - ）は日本の[歌手](../Page/歌手.md "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")出身、血液型O型、[岐阜県立岐阜北高等学校](../Page/岐阜県立岐阜北高等学校.md "wikilink")卒。
+**ハルカミホ**（[1986年](../Page/1986年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - ）は日本の[歌手](../Page/歌手.md "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")出身、血液型O型、[岐阜県立岐阜北高等学校](../Page/岐阜県立岐阜北高等学校.md "wikilink")卒。
 
 ## 略歴
 

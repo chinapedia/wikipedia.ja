@@ -292,7 +292,7 @@
 ## テーマソング
 
   - GET FREE
-    作詞 - HUMMING BIRD / 福山恭子、作曲 - [福山芳樹](../Page/福山芳樹.md "wikilink")、歌 - [HUMMING BIRD](https://ja.wikipedia.org/wiki/HUMMING_BIRD_\(バンド\) "wikilink")
+    作詞 - HUMMING BIRD / 福山恭子、作曲 - [福山芳樹](../Page/福山芳樹.md "wikilink")、歌 - [HUMMING BIRD](../Page/HUMMING_BIRD_\(バンド\).md "wikilink")
     オープニングテーマ。『[マクロス7](../Page/マクロス7.md "wikilink")』で[熱気バサラの歌を担当した](https://ja.wikipedia.org/wiki/Fire_Bomber#熱気バサラ "wikilink")[福山芳樹](../Page/福山芳樹.md "wikilink")が所属するHUMMING BIRDのロックナンバー。
   - SHOOT\&SHOUT
     作詞 - [里乃塚玲央](../Page/里乃塚玲央.md "wikilink")、作曲・編曲 - [神保彰](../Page/神保彰.md "wikilink")、歌 - [高尾直樹](../Page/高尾直樹.md "wikilink")

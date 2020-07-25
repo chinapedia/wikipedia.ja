@@ -40,7 +40,7 @@
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink") (アルバムバージョン)
   - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にThe SAINT MIXが収録)
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink") (Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にThe SAINT MIXが収録)
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)

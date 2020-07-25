@@ -114,7 +114,7 @@
       -
         発売直後の3月、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")によりシングルとしてカバーされている。
     <!-- end list -->
-    1.  [Pieces](https://ja.wikipedia.org/wiki/Pieces_\(w-inds.の曲\) "wikilink")\[5:46\]
+    1.  [Pieces](../Page/Pieces_\(w-inds.の曲\).md "wikilink")\[5:46\]
           -
             作詞：MASAYA・IGOR／作曲：MASAYA／編曲：MASAYA・Yoshihiro Toyoshima
     2.  RIDE 2\[3:33\]

@@ -21,7 +21,7 @@
 
 ## 略歴
 
-  - [1991年](../Page/1991年.md "wikilink")[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")にて結成、[キョート・ジャズ・マッシヴ](https://ja.wikipedia.org/wiki/キョート・ジャズ・マッシヴ "wikilink")からの派生バンドとしてスタート。結成当初は大沢伸一をリーダーとする数人のバンド形式として活動していた。
+  - [1991年](../Page/1991年.md "wikilink")[京都](../Page/京都.md "wikilink")にて結成、[キョート・ジャズ・マッシヴ](https://ja.wikipedia.org/wiki/キョート・ジャズ・マッシヴ "wikilink")からの派生バンドとしてスタート。結成当初は大沢伸一をリーダーとする数人のバンド形式として活動していた。
   - [1993年](../Page/1993年.md "wikilink")に当時の[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")から、ファーストアルバムである「MONDO GROSSO」で正式なメジャーデビュー。作品は海外でもリリースされた。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、続く作品「Born Free」をリリース。このアルバムの発売後にヨーロッパでのツアー敢行を終え、その後[1996年](../Page/1996年.md "wikilink")に大沢伸一を残して他のメンバーが脱退。これ以降、バンドは大沢伸一のみの個人プロジェクトに変更となり、彼の作曲した楽曲で、様々なアーティストへの起用・[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")・[フィーチャリング](../Page/フィーチャリング.md "wikilink")を行う、コラボレーション・ユニットの趣向を基盤としたプロジェクトへ移行した。以降、現在に至るまで、数多くのアーティストへの[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、作曲、[リミックス](../Page/リミックス.md "wikilink")等を手がける。
   - [1999年](../Page/1999年.md "wikilink")に[Sony Music Associated Recordsへとレコード会社を移籍](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、大沢伸一自らREALEYESという個人[レーベルを設立する](../Page/レコードレーベル.md "wikilink")。

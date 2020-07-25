@@ -300,7 +300,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『[EXILE LOVE](../Page/EXILE_LOVE.md "wikilink")』（アルバム）
           -
             「What Is Love」「Make Love」
-      - 『[EXILE ENTERTAINMENT BEST](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』（アルバム）
+      - 『[EXILE ENTERTAINMENT BEST](../Page/EXILE_ENTERTAINMENT_BEST.md "wikilink")』（アルバム）
           -
             「SUPER SHINE」「STAY」「Eastern Boyz 'N Eastern Girlz」「New Jack Swing」「EVOLUTION」「What Is Love」「Make Love」「My Buddy / EXILE TAKAHIRO + NESMITH, SHOKICHI ([J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink"))」
       - 「[The Birthday〜Ti Amo〜](https://ja.wikipedia.org/wiki/The_Birthday〜Ti_Amo〜 "wikilink")」（シングル）

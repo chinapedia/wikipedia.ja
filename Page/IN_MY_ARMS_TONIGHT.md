@@ -1,7 +1,7 @@
 > この記事は[IN MY ARMS TONIGHT](https://ja.wikipedia.org/wiki/IN_MY_ARMS_TONIGHT)から翻訳されています。
 
 
-「**IN MY ARMS TONIGHT**」（イン・マイ・アームズ・トゥナイト）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の5作目の[シングル](../Page/シングル.md "wikilink")。
+「**IN MY ARMS TONIGHT**」（イン・マイ・アームズ・トゥナイト）は、[ZARD](../Page/ZARD.md "wikilink")の5作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

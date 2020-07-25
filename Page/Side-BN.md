@@ -1,7 +1,7 @@
 > この記事は[Side-BN](https://ja.wikipedia.org/wiki/Side-BN)から翻訳されています。
 
 
-『**Side-BN**』（サイド・ビィエヌ）とは、[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")が月刊で発行している[フリーペーパー](../Page/フリーペーパー.md "wikilink")（[フリーマガジン](https://ja.wikipedia.org/wiki/フリーマガジン "wikilink")）。同社の新作[ゲーム](../Page/ゲーム.md "wikilink")の紹介記事を主に掲載している。発行はバンダイナムコエンターテインメント、制作は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")及び[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（ブランドカンパニー）。
+『**Side-BN**』（サイド・ビィエヌ）とは、[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")が月刊で発行している[フリーペーパー](../Page/フリーペーパー.md "wikilink")（[フリーマガジン](https://ja.wikipedia.org/wiki/フリーマガジン "wikilink")）。同社の新作[ゲーム](../Page/ゲーム.md "wikilink")の紹介記事を主に掲載している。発行はバンダイナムコエンターテインメント、制作は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")及び[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（ブランドカンパニー）。
 
 ## 変遷
 

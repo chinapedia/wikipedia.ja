@@ -1,7 +1,7 @@
 > この記事は[ララバイSINGER](https://ja.wikipedia.org/wiki/ララバイSINGER)から翻訳されています。
 
 
-『**ララバイSINGER**』（ララバイシンガー）は、[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の34作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**ララバイSINGER**』（ララバイシンガー）は、[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発表された[中島みゆき](../Page/中島みゆき.md "wikilink")の34作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-  - 全作詞／作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
+  - 全作詞／作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 ## 演奏者
 
-  - Vocals：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - Vocals：[中島みゆき](../Page/中島みゆき.md "wikilink")
 
 **桜らららら**
 

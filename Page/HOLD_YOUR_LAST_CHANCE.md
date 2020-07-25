@@ -65,7 +65,7 @@
 2.  **言わんこっちゃないさ** - *I TOLD YOU SO*
 3.  **TIME GOES AROUND**
       -
-        エレキギターをフォークソングの手法で演奏している。[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")は発表当時自身のラジオ『[桑田佳祐のオールナイトニッポン](https://ja.wikipedia.org/wiki/桑田佳祐のオールナイトニッポン "wikilink")』（1984年 - 1985年）でこの曲を絶賛していた。
+        エレキギターをフォークソングの手法で演奏している。[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")は発表当時自身のラジオ『[桑田佳祐のオールナイトニッポン](../Page/桑田佳祐のオールナイトニッポン.md "wikilink")』（1984年 - 1985年）でこの曲を絶賛していた。
 4.  **WAKE-UP\! IT'S MORNING**
 5.  **COME BACK TO MY HEART**
       -
@@ -92,7 +92,7 @@
 4.  **HOLD YOUR LAST CHANCE**
 
       -
-        テレビドラマ『[まんが道](../Page/まんが道.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）、『[まんが道・青春篇](https://ja.wikipedia.org/wiki/まんが道・青春篇 "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、（いずれも[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）主題歌として主演の[竹本孝之](../Page/竹本孝之.md "wikilink")が[カバー](../Page/カバー.md "wikilink")し、シングルリリースされた。元[プロボクサー](../Page/プロボクサー.md "wikilink")の[戸高秀樹](../Page/戸高秀樹.md "wikilink")選手が現役時代に入場テーマとしても使用していた。[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")から[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")へと移籍した、[プロ野球](../Page/プロ野球.md "wikilink")選手の[大西崇之](https://ja.wikipedia.org/wiki/大西崇之 "wikilink")がカラオケでの持ち歌に同曲を挙げている。
+        テレビドラマ『[まんが道](../Page/まんが道.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）、『[まんが道・青春篇](https://ja.wikipedia.org/wiki/まんが道・青春篇 "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、（いずれも[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）主題歌として主演の[竹本孝之](../Page/竹本孝之.md "wikilink")が[カバー](../Page/カバー.md "wikilink")し、シングルリリースされた。元[プロボクサー](../Page/プロボクサー.md "wikilink")の[戸高秀樹](../Page/戸高秀樹.md "wikilink")選手が現役時代に入場テーマとしても使用していた。[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")から[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")へと移籍した、[プロ野球](../Page/プロ野球.md "wikilink")選手の[大西崇之](https://ja.wikipedia.org/wiki/大西崇之 "wikilink")がカラオケでの持ち歌に同曲を挙げている。
 
 ## スタッフ・クレジット
 

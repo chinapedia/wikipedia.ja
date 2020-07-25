@@ -34,6 +34,6 @@
   - 高橋“Jr.”知治（Bass）
   - 野崎真助（Drums）
   - 松田直人（Piano）
-  - [仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink")（Chorus）
+  - [仁科かおり](../Page/仁科かおり.md "wikilink")（Chorus）
 
 [Category:FictionJunctionの楽曲](https://ja.wikipedia.org/wiki/Category:FictionJunctionの楽曲 "wikilink") [Category:梶浦由記が制作した楽曲](https://ja.wikipedia.org/wiki/Category:梶浦由記が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:.hack](https://ja.wikipedia.org/wiki/Category:.hack "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

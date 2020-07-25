@@ -324,7 +324,7 @@
 <td><p>2013</p></td>
 <td><p>ジャック・グラス伝：宇宙的殺人者</p></td>
 <td><p><em>Jack Glass: The Story of A Murderer</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アダム・ロバーツ" title="wikilink">アダム・ロバーツ</a></p></td>
+<td><p><a href="../Page/アダム・ロバーツ.md" title="wikilink">アダム・ロバーツ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>

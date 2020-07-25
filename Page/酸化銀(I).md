@@ -1,7 +1,7 @@
 > この記事は[酸化銀\(I\)](https://ja.wikipedia.org/wiki/酸化銀\(I\))から翻訳されています。
 
 
-**酸化銀(I)** は[化学式](../Page/化学式.md "wikilink")で表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")化合物の一つ。黒から褐色の細かい粉末で、他の銀化合物の調製に用いられる。
+**酸化銀(I)** は[化学式](../Page/化学式.md "wikilink")で表される[銀](../Page/銀.md "wikilink")化合物の一つ。黒から褐色の細かい粉末で、他の銀化合物の調製に用いられる。
 
 ## 合成
 
@@ -28,7 +28,7 @@
     <chem>Ag2O + 4NH3 + H2O -\> 2\[Ag(NH3)2\]^+ + 2OH-</chem>
     <chem>Ag2O + 4S2O3^2- + H2O -\> 2\[Ag(S2O3)2\]^3- + 2OH-</chem>
 
-多くの銀化合物と同様に[感光性](https://ja.wikipedia.org/wiki/感光性 "wikilink")である。また、280℃以上では[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")と[酸素](../Page/酸素.md "wikilink")に分解する\[8\]。
+多くの銀化合物と同様に[感光性](https://ja.wikipedia.org/wiki/感光性 "wikilink")である。また、280℃以上では[銀](../Page/銀.md "wikilink")と[酸素](../Page/酸素.md "wikilink")に分解する\[8\]。
 
   -
     <chem>2Ag2O -\> 4Ag + O2</chem>
@@ -43,7 +43,7 @@
 
 ## 関連項目
 
-  - [銀](https://ja.wikipedia.org/wiki/銀 "wikilink")
+  - [銀](../Page/銀.md "wikilink")
   - [一酸化銀](https://ja.wikipedia.org/wiki/一酸化銀 "wikilink") ()
   - [酸化銀(III)](https://ja.wikipedia.org/wiki/酸化銀\(III\) "wikilink") ()
   - [酸化銀電池](../Page/酸化銀電池.md "wikilink")

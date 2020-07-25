@@ -317,7 +317,7 @@
       - [バンダイ](../Page/バンダイ.md "wikilink")
       - [バンプレスト](../Page/バンプレスト.md "wikilink")
   - [角川書店](../Page/角川書店.md "wikilink")
-  - [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（2008年3月までは[メディアワークス](../Page/メディアワークス.md "wikilink")）
+  - [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（2008年3月までは[メディアワークス](../Page/メディアワークス.md "wikilink")）
   - [ホビージャパン](../Page/ホビージャパン.md "wikilink")
   - [講談社](../Page/講談社.md "wikilink")
   - [徳間書店](../Page/徳間書店.md "wikilink")

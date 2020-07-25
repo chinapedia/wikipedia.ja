@@ -1,7 +1,7 @@
 > この記事は[日-WINGS](https://ja.wikipedia.org/wiki/日-WINGS)から翻訳されています。
 
 
-『**日-WINGS**』（ひ-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の26作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**日-WINGS**』（ひ-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](../Page/中島みゆき.md "wikilink")の26作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-  - 全作詞／作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
+  - 全作詞／作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -40,7 +40,7 @@
 
 ## 演奏者
 
-  - Vocals：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - Vocals：[中島みゆき](../Page/中島みゆき.md "wikilink")
 
 **竹の歌**
 

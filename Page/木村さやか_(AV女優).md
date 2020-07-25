@@ -1,7 +1,7 @@
 > この記事は[木村さやか \(AV女優\)](https://ja.wikipedia.org/wiki/木村さやか_\(AV女優\))から翻訳されています。
 
 
-**木村 さやか**（きむら さやか、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[9月10日](../Page/9月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
+**木村 さやか**（きむら さやか、[1968年](../Page/1968年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
 [新潟県](../Page/新潟県.md "wikilink")出身（[東京都](../Page/東京都.md "wikilink")出身とする[プロフィール](https://ja.wikipedia.org/wiki/プロフィール "wikilink")もある）。血液型:B型。身長:154cm。スリーサイズ:[B](../Page/バスト.md "wikilink")79・[W](../Page/腰.md "wikilink")54・[H](../Page/尻.md "wikilink")83。
 

@@ -80,12 +80,12 @@ ITVの地方フランチャイズは前記の様に15社、全国向けフラン
   - スコットランド南部・北西イングランドの一部・[マン島](https://ja.wikipedia.org/wiki/マン島 "wikilink")：ボーダー＊（[1959年](../Page/1959年.md "wikilink")-）
   - イングランド北東部：タイン・ティーズ＊（[1959年](../Page/1959年.md "wikilink")-）
   - イングランド北西部：グラナダ＊（[1955年](../Page/1955年.md "wikilink")-）『[シャーロック・ホームズの冒険](../Page/シャーロック・ホームズの冒険_\(テレビドラマ\).md "wikilink")』等
-  - ヨークシャー地方他：ヨークシャー・テレビジョン＊（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")-）
-  - ウェールズ・イングランド西部：ハーレック・テレビジョン（HTV）（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")−）
+  - ヨークシャー地方他：ヨークシャー・テレビジョン＊（[1968年](../Page/1968年.md "wikilink")-）
+  - ウェールズ・イングランド西部：ハーレック・テレビジョン（HTV）（[1968年](../Page/1968年.md "wikilink")−）
   - イングランド中部：セントラル（CTV,[1982年](../Page/1982年.md "wikilink")-[1999年](../Page/1999年.md "wikilink")／カールトン・セントラル（[1999年](../Page/1999年.md "wikilink")-）
   - イングランド東部：アングリア＊（[1959年](../Page/1959年.md "wikilink")-）
-  - [ロンドン](../Page/ロンドン.md "wikilink")平日：テムズ・テレビジョン（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")-[1992年](../Page/1992年.md "wikilink") [月曜](../Page/月曜日.md "wikilink") - [金曜夕方](../Page/金曜日.md "wikilink")）『[ロンドン特捜隊スウィーニー](../Page/ロンドン特捜隊スウィーニー.md "wikilink")』等／カールトン（[1993年](../Page/1993年.md "wikilink")-）◎
-  - ロンドン週末：ロンドン・ウィークエンド・テレビジョン＊（LWT：[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")- 金曜夕方 - [日曜](../Page/日曜日.md "wikilink")）『[名探偵ポワロ](../Page/名探偵ポワロ.md "wikilink")』等◎
+  - [ロンドン](../Page/ロンドン.md "wikilink")平日：テムズ・テレビジョン（[1968年](../Page/1968年.md "wikilink")-[1992年](../Page/1992年.md "wikilink") [月曜](../Page/月曜日.md "wikilink") - [金曜夕方](../Page/金曜日.md "wikilink")）『[ロンドン特捜隊スウィーニー](../Page/ロンドン特捜隊スウィーニー.md "wikilink")』等／カールトン（[1993年](../Page/1993年.md "wikilink")-）◎
+  - ロンドン週末：ロンドン・ウィークエンド・テレビジョン＊（LWT：[1968年](../Page/1968年.md "wikilink")- 金曜夕方 - [日曜](../Page/日曜日.md "wikilink")）『[名探偵ポワロ](../Page/名探偵ポワロ.md "wikilink")』等◎
   - イングランド南部：メリディアン・ブロードキャスティング＊（[1993年](../Page/1993年.md "wikilink")-）『[ホーンブロワー 海の勇者](../Page/ホーンブロワー_海の勇者.md "wikilink")』
   - イングランド南西部：カールトン・ウェストカントリー（[1999年](../Page/1999年.md "wikilink")-。旧ウェストカントリーを[1996年](../Page/1996年.md "wikilink")カールトンが買収 ）
   - 北アイルランド：[アルスター](../Page/アルスター.md "wikilink")・テレビジョン(UTV)（1959年-）

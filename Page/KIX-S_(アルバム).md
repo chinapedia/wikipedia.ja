@@ -19,7 +19,7 @@ CDジャーナルは、「コワもての[レディース](../Page/暴走族.md 
 
 1.  **CRUSH**
       -
-        編曲:[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")
+        編曲:[井上日徳](../Page/井上日徳.md "wikilink")
 2.  **とびきりのLonely time**
       -
         作曲:安宅美春・歌川和彦、編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")

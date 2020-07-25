@@ -31,7 +31,7 @@
 
 ### あなたにいきいきエイジング\!
 
-内容は『**セサミンEプラス**』の紹介で、愛飲者である服飾評論家の[市田ひろみ](../Page/市田ひろみ.md "wikilink")や玩具鑑定士の[北原照久](../Page/北原照久.md "wikilink")他が出演し健康の秘訣を語る。ナビゲーターは[松尾貴史](../Page/松尾貴史.md "wikilink")、ナレーションは[斉藤茂一](https://ja.wikipedia.org/wiki/斉藤茂一 "wikilink")。制作は[アクティブである](https://ja.wikipedia.org/wiki/アクティブ_\(テレビ制作会社\) "wikilink")。
+内容は『**セサミンEプラス**』の紹介で、愛飲者である服飾評論家の[市田ひろみ](../Page/市田ひろみ.md "wikilink")や玩具鑑定士の[北原照久](../Page/北原照久.md "wikilink")他が出演し健康の秘訣を語る。ナビゲーターは[松尾貴史](../Page/松尾貴史.md "wikilink")、ナレーションは[斉藤茂一](../Page/斉藤茂一.md "wikilink")。制作は[アクティブである](https://ja.wikipedia.org/wiki/アクティブ_\(テレビ制作会社\) "wikilink")。
 
 ### 胡麻美人
 
@@ -51,7 +51,7 @@
 
 ### セサミンの魅力すべて見せます。
 
-内容は『**セサミンEプラス**』の紹介で、司会は[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")、セサミニストは、[北原照久](../Page/北原照久.md "wikilink")（玩具鑑定士）、[服部真湖](../Page/服部真湖.md "wikilink")（女優）、[江口ともみ](https://ja.wikipedia.org/wiki/江口ともみ "wikilink")（キャスター）、[蟹瀬誠一](../Page/蟹瀬誠一.md "wikilink")（ジャーナリスト）。ナレーションは[林田尚親](https://ja.wikipedia.org/wiki/林田尚親 "wikilink")。その後の『**セサミンEX**』の紹介ではフリーアナウンサーの[辻よしなり](../Page/辻よしなり.md "wikilink")が司会。
+内容は『**セサミンEプラス**』の紹介で、司会は[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")、セサミニストは、[北原照久](../Page/北原照久.md "wikilink")（玩具鑑定士）、[服部真湖](../Page/服部真湖.md "wikilink")（女優）、[江口ともみ](https://ja.wikipedia.org/wiki/江口ともみ "wikilink")（キャスター）、[蟹瀬誠一](../Page/蟹瀬誠一.md "wikilink")（ジャーナリスト）。ナレーションは[林田尚親](../Page/林田尚親.md "wikilink")。その後の『**セサミンEX**』の紹介ではフリーアナウンサーの[辻よしなり](../Page/辻よしなり.md "wikilink")が司会。
 
 ### セサミン落語劇場 カラダにうれしい\!いにしえの知恵
 
@@ -115,7 +115,7 @@
 
 ### あなたの知らないアブラの世界 〜青魚のサラサラ成分DHA・EPAを徹底解明〜
 
-内容は『**DHA\&EPA+セサミンEX**』の紹介で、アブラ、魚、食の専門家を招き、徹底解明をする。司会は宮本隆治、[亀井京子](https://ja.wikipedia.org/wiki/亀井京子 "wikilink")。パネラーは[森永卓郎](../Page/森永卓郎.md "wikilink")（経済アナリスト、獨協大学教授）、[高見恭子](../Page/高見恭子.md "wikilink")（タレント、作家、ブランドプロデューサー）、[TIM](https://ja.wikipedia.org/wiki/TIM "wikilink")（お笑いコンビ）。
+内容は『**DHA\&EPA+セサミンEX**』の紹介で、アブラ、魚、食の専門家を招き、徹底解明をする。司会は宮本隆治、[亀井京子](../Page/亀井京子.md "wikilink")。パネラーは[森永卓郎](../Page/森永卓郎.md "wikilink")（経済アナリスト、獨協大学教授）、[高見恭子](../Page/高見恭子.md "wikilink")（タレント、作家、ブランドプロデューサー）、[TIM](https://ja.wikipedia.org/wiki/TIM "wikilink")（お笑いコンビ）。
 
 ### 発見\!ローヤルゼリーの神秘の力
 
@@ -177,7 +177,7 @@
 <!-- end list -->
 
   -
-    出演：[中野ブラザーズ](https://ja.wikipedia.org/wiki/中野ブラザーズ "wikilink")、[三屋裕子](../Page/三屋裕子.md "wikilink")、[六代目三遊亭円楽](../Page/三遊亭圓楽_\(6代目\).md "wikilink")、[中尾ミエ](../Page/中尾ミエ.md "wikilink")
+    出演：[中野ブラザーズ](../Page/中野ブラザーズ.md "wikilink")、[三屋裕子](../Page/三屋裕子.md "wikilink")、[六代目三遊亭円楽](../Page/三遊亭圓楽_\(6代目\).md "wikilink")、[中尾ミエ](../Page/中尾ミエ.md "wikilink")
 
 <!-- end list -->
 

@@ -5,7 +5,7 @@
 
 [ロボット](../Page/ロボット.md "wikilink")が中心となる映画ということで、[CGがふんだんに使われている作品である](../Page/コンピュータグラフィックス.md "wikilink")。
 
-本作品では[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")などの美術担当として知られる[池谷仙克](https://ja.wikipedia.org/wiki/池谷仙克 "wikilink")が美術を担当し、デジタル合成を用いる作品に初めて挑んでいる\[1\]。監督の[秋山貴彦](https://ja.wikipedia.org/wiki/秋山貴彦 "wikilink")は、ヒノキオのアパートについて池谷が担当した『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』第8話「狙われた街」に登場するアパートをイメージしており、池谷にもそのイメージの再現を依頼している\[2\]。
+本作品では[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")などの美術担当として知られる[池谷仙克](https://ja.wikipedia.org/wiki/池谷仙克 "wikilink")が美術を担当し、デジタル合成を用いる作品に初めて挑んでいる\[1\]。監督の[秋山貴彦](https://ja.wikipedia.org/wiki/秋山貴彦 "wikilink")は、ヒノキオのアパートについて池谷が担当した『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』第8話「狙われた街」に登場するアパートをイメージしており、池谷にもそのイメージの再現を依頼している\[2\]。
 
 ## あらすじ
 

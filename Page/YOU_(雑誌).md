@@ -18,7 +18,7 @@
   - [1982年](../Page/1982年.md "wikilink") - 月刊誌として新創刊。毎月3日発売。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 姉妹誌『**[オフィスユー](../Page/オフィスユー.md "wikilink")**』創刊。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 『オフィスユー』が月刊誌として新創刊。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 5月に姉妹誌『**[ヤングユー](../Page/ヤングユー.md "wikilink")**』が創刊し、11月に月刊化。
+  - [1986年](../Page/1986年.md "wikilink") - 5月に姉妹誌『**[ヤングユー](../Page/ヤングユー.md "wikilink")**』が創刊し、11月に月刊化。
   - [1988年](../Page/1988年.md "wikilink") - 姉妹誌『**ミステリーYOU**』『**ブライダルYOU**』が創刊。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 姉妹誌『**YOU-all**』が創刊。
   - [1991年](../Page/1991年.md "wikilink") - 姉妹誌『**アフター5YOU**』が6月25日に創刊。『ブライダルYOU』、『YOU-all』が休刊。

@@ -1312,7 +1312,7 @@ RESIDENT DJ's
 <li>DE DE MOUSE</li>
 <li><a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン" title="wikilink">ソウル・フラワー・ユニオン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/竹内電気" title="wikilink">竹内電気</a></li>
+<li><a href="../Page/竹内電気.md" title="wikilink">竹内電気</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_chef_cooks_me" title="wikilink">the chef cooks me</a></li>
 <li>the telephones</li>
 <li><a href="../Page/Northern19.md" title="wikilink">Northern19</a></li>

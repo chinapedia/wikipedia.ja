@@ -32,7 +32,7 @@
 
   - [1958年](../Page/1958年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")33年）[9月](../Page/9月.md "wikilink") - [長野県](../Page/長野県.md "wikilink")[更級郡](../Page/更級郡.md "wikilink")[篠ノ井町](https://ja.wikipedia.org/wiki/篠ノ井町 "wikilink")（現・[長野市](../Page/長野市.md "wikilink")）に洋服の青木を創業。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 長野県[篠ノ井市](../Page/篠ノ井市.md "wikilink")に株式会社洋服の青木を設立。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）7月 - 商号を**株式会社アオキ**に変更。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）7月 - 商号を**株式会社アオキ**に変更。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[11月](../Page/11月.md "wikilink") - オリジナル商品開発に着手。
   - [1975年](../Page/1975年.md "wikilink")（昭和50年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 長野石堂本社ビル竣工。
   - [1976年](../Page/1976年.md "wikilink")（昭和51年）[8月21日](../Page/8月21日.md "wikilink") - アオキファッション販売株式会社を設立\[4\]。
@@ -42,8 +42,8 @@
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）12月 - 長野[南高田店が紳士服専門店ワンフロアの売り場面積が日本最大になる](https://ja.wikipedia.org/wiki/高田_\(長野市\)#南高田 "wikilink")。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 毛織産地の[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")に商品本部開設。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）9月 - 商号を**株式会社アオキインターナショナル**に変更し、[CI導入](../Page/コーポレートアイデンティティ.md "wikilink")（一番下の店舗写真）。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）11月 - 本社を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[緑区](../Page/緑区_\(横浜市\).md "wikilink")（現・[都筑区](https://ja.wikipedia.org/wiki/都筑区 "wikilink")）に移転。翌12月には本社ビルの1〜2階に首都圏最大級となる横浜港北総本店オープン。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月 - 株式を、[社団法人](../Page/社団法人.md "wikilink")[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")東京地区協会に店頭売買銘柄として登録、公開。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）11月 - 本社を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[緑区](../Page/緑区_\(横浜市\).md "wikilink")（現・[都筑区](https://ja.wikipedia.org/wiki/都筑区 "wikilink")）に移転。翌12月には本社ビルの1〜2階に首都圏最大級となる横浜港北総本店オープン。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月 - 株式を、[社団法人](../Page/社団法人.md "wikilink")[日本証券業協会](../Page/日本証券業協会.md "wikilink")東京地区協会に店頭売買銘柄として登録、公開。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）8月 - 全店への[POS](../Page/販売時点情報管理.md "wikilink")[レジスター導入](../Page/キャッシュレジスター.md "wikilink")。
   - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第二部に上場\[6\]。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）11月 - 横浜港北総本店、メンズ専門店世界最大級の売場面積1,000坪に増床。

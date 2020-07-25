@@ -60,7 +60,7 @@ DVD版は2000年10月21日発売。映画10作目を記念して[Blu-ray Disc版
 
 ## スタッフ
 
-  - 製作 - [高岩淡](https://ja.wikipedia.org/wiki/高岩淡 "wikilink")、泊懋、玉村輝雄、[三ツ井康](../Page/三ツ井康.md "wikilink")、柴崎誠
+  - 製作 - [高岩淡](../Page/高岩淡.md "wikilink")、泊懋、玉村輝雄、[三ツ井康](../Page/三ツ井康.md "wikilink")、柴崎誠
   - 企画 - 清水慎治
   - 原作 - [尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
   - 脚本 - [島田満](../Page/島田満.md "wikilink")

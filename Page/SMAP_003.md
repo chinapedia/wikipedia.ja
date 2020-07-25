@@ -15,7 +15,7 @@
         このテーマ曲は歌詞が付いている。6thアルバム「[SMAP 006〜SEXY SIX〜](https://ja.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")」収録曲「**Theme of 006**」でも歌詞が付いており、こちらでは全英詞になっている。
 2.  **Scarface Groove**
       -
-        作詞：相田毅 / 作曲：野崎昌利/ 編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：相田毅 / 作曲：野崎昌利/ 編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
         リミックスアルバム「[BOO](../Page/BOO_\(アルバム\).md "wikilink")」にも収録されている。
 3.  **いますぐ天気にしておくれ**
       -

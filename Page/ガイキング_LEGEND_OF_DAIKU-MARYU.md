@@ -710,7 +710,7 @@
   -
 
       -
-        作詞 - YOFFY / 作曲 - IMAJO / 編曲 - [大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") & サイキックラバー / 歌 - [サイキックラバー](../Page/サイキックラバー.md "wikilink")
+        作詞 - YOFFY / 作曲 - IMAJO / 編曲 - [大石憲一郎](../Page/大石憲一郎.md "wikilink") & サイキックラバー / 歌 - [サイキックラバー](../Page/サイキックラバー.md "wikilink")
         発売元 - [コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")（規格番号：COCC-15827）
           - 29話から後期OP仕様に変更。
           - 39話（最終話）ではEDテーマとしても使用された。

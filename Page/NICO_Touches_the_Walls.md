@@ -1085,7 +1085,7 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <li><a href="../Page/ブルーバード_(いきものがかりの曲).md" title="wikilink">ブルーバード</a> / <a href="https://ja.wikipedia.org/wiki/いきものがかり" title="wikilink">いきものがかり</a></li>
 <li>素直な虹 / <a href="https://ja.wikipedia.org/wiki/surface" title="wikilink">surface</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/Broken_Youth" title="wikilink">Broken Youth</a> / NICO Touches the Walls</strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/NO_RAIN_NO_RAINBOW" title="wikilink">NO RAIN NO RAINBOW</a> / <a href="https://ja.wikipedia.org/wiki/HOME_MADE_家族" title="wikilink">HOME MADE 家族</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/NO_RAIN_NO_RAINBOW" title="wikilink">NO RAIN NO RAINBOW</a> / <a href="../Page/HOME_MADE_家族.md" title="wikilink">HOME MADE 家族</a></li>
 <li>CLOSER / <a href="https://ja.wikipedia.org/wiki/井上ジョー" title="wikilink">井上ジョー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Long_Kiss_Good_Bye" title="wikilink">Long Kiss Good Bye</a> / <a href="../Page/HALCALI.md" title="wikilink">HALCALI</a></li>
 </ol>

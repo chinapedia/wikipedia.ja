@@ -57,7 +57,7 @@ FFDはLittlewitchにおける象徴的な演出方法ではあるが、これを
       - PS2盤 - 2007年[2月22日](../Page/2月22日.md "wikilink")発売 (販売元:サクセス)
   - [リトルウィッチファンディスク -ちいさな魔女の贈りもの-](https://ja.wikipedia.org/wiki/リトルウィッチファンディスク_-ちいさな魔女の贈りもの- "wikilink") (上記3作品のファンディスク) - [2006年](../Page/2006年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")発売
   - [ロンド・リーフレット](../Page/ロンド・リーフレット.md "wikilink")
-      - 初回限定盤 - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売
+      - 初回限定盤 - [2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売
       - ダウンロード版 - 2011年[9月16日](../Page/9月16日.md "wikilink")配信開始
   - [ピリオド](../Page/ピリオド_\(ゲーム\).md "wikilink") - [2007年](../Page/2007年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売
   - [少女魔法学リトルウィッチロマネスク editio perfecta](../Page/少女魔法学リトルウィッチロマネスク.md "wikilink") (リトルウィッチロマネスクをフルボイス化し追加シナリオを加えた完全版)

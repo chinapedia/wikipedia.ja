@@ -115,7 +115,7 @@
   - 芸術祭大賞受賞
   - [エミー賞](../Page/エミー賞.md "wikilink")フィクション部門ノミネート
 
-|- |[城山三郎](../Page/城山三郎.md "wikilink")シリーズ [堂々たる打算](https://ja.wikipedia.org/wiki/堂々たる打算 "wikilink")||6月10日 - 7月15日||6||[山内久](../Page/山内久.md "wikilink")||[和田勉](../Page/和田勉.md "wikilink")||[丹波哲郎](../Page/丹波哲郎.md "wikilink")、[日下武史](../Page/日下武史.md "wikilink")、[辰巳柳太朗](https://ja.wikipedia.org/wiki/辰巳柳太郎 "wikilink")、[仁科明子](../Page/仁科亜季子.md "wikilink")||style="text-align: left;"|
+|- |[城山三郎](../Page/城山三郎.md "wikilink")シリーズ [堂々たる打算](https://ja.wikipedia.org/wiki/堂々たる打算 "wikilink")||6月10日 - 7月15日||6||[山内久](../Page/山内久.md "wikilink")||[和田勉](../Page/和田勉.md "wikilink")||[丹波哲郎](../Page/丹波哲郎.md "wikilink")、[日下武史](../Page/日下武史.md "wikilink")、[辰巳柳太朗](../Page/辰巳柳太郎.md "wikilink")、[仁科明子](../Page/仁科亜季子.md "wikilink")||style="text-align: left;"|
 
   - [ドラマ人間模様](../Page/ドラマ人間模様.md "wikilink")で放送されたものの再編集
 
@@ -197,7 +197,7 @@
 数 || style = "width: 8%;"|[脚本](../Page/脚本.md "wikilink") || style = "width: 8%;" |[演出](../Page/演出.md "wikilink") || 主な出演者 || style = "width: 20%;"|備考 |- |[向田邦子](../Page/向田邦子.md "wikilink")シリーズ [阿修羅のごとく](../Page/阿修羅のごとく.md "wikilink")||1月13日 - 2月3日||3||[向田邦子](../Page/向田邦子.md "wikilink")||[和田勉](../Page/和田勉.md "wikilink")||[八千草薫](../Page/八千草薫.md "wikilink")、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")、[加藤治子](../Page/加藤治子.md "wikilink")、[風吹ジュン](../Page/風吹ジュン.md "wikilink")|| |- |サスペンスロマンシリーズ [死にたがる子](https://ja.wikipedia.org/wiki/死にたがる子 "wikilink")||2月17日||1||[金子成人](../Page/金子成人.md "wikilink")||[中村克史](https://ja.wikipedia.org/wiki/中村克史 "wikilink")||[伊丹一三](../Page/伊丹十三.md "wikilink")、[宮本信子](../Page/宮本信子.md "wikilink")、[春日和秀](https://ja.wikipedia.org/wiki/春日和秀 "wikilink")、[清水健太郎](https://ja.wikipedia.org/wiki/清水健太郎 "wikilink")||style="text-align: left;"|
 
   - 原作：[藤原審彌](../Page/藤原審爾.md "wikilink")
-  - 第5回[放送文化基金](https://ja.wikipedia.org/wiki/放送文化基金 "wikilink")賞本賞受賞
+  - 第5回[放送文化基金](../Page/放送文化基金.md "wikilink")賞本賞受賞
 
 |- |サスペンスロマンシリーズ [血痕追跡](https://ja.wikipedia.org/wiki/血痕追跡 "wikilink")||2月24日||1||[田向正健](../Page/田向正健.md "wikilink")||[富沢正幸](https://ja.wikipedia.org/wiki/富沢正幸 "wikilink")||[江守徹](../Page/江守徹.md "wikilink")、[山本陽子](../Page/山本陽子.md "wikilink")、[草薙幸二郎](../Page/草薙幸二郎.md "wikilink")、[鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")||style="text-align: left;"|
 
@@ -565,7 +565,7 @@
 
   - 2010年
 
-:\* [君たちに明日はない](https://ja.wikipedia.org/wiki/君たちに明日はない "wikilink")（1月16日 - 2月27日、全6回、原作：[垣根涼介](../Page/垣根涼介.md "wikilink")、主演：[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")）
+:\* [君たちに明日はない](https://ja.wikipedia.org/wiki/君たちに明日はない "wikilink")（1月16日 - 2月27日、全6回、原作：[垣根涼介](../Page/垣根涼介.md "wikilink")、主演：[坂口憲二](../Page/坂口憲二.md "wikilink")）
 
 :\* [チェイス〜国税査察官〜](https://ja.wikipedia.org/wiki/チェイス〜国税査察官〜 "wikilink")（4月17日 - 5月22日、全6回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
 

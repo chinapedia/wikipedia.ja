@@ -1,7 +1,7 @@
 > この記事は[MUSIC JAPAN \(岩手めんこいテレビ\)](https://ja.wikipedia.org/wiki/MUSIC_JAPAN_\(岩手めんこいテレビ\))から翻訳されています。
 
 
-『**MUSIC JAPAN**』（ミュージックジャパン）は、[テラモバイル](https://ja.wikipedia.org/wiki/テラモバイル "wikilink")・[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")・[放芸](../Page/放芸.md "wikilink")の3社共同制作による30分間の音楽番組である。2006年7月からは、番組をリニューアルし『[music holic](https://ja.wikipedia.org/wiki/music_holic "wikilink")』を放送した。（後の[Break Point\!](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")(2009年3月放送終了)）
+『**MUSIC JAPAN**』（ミュージックジャパン）は、[テラモバイル](https://ja.wikipedia.org/wiki/テラモバイル "wikilink")・[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")・[放芸](../Page/放芸.md "wikilink")の3社共同制作による30分間の音楽番組である。2006年7月からは、番組をリニューアルし『[music holic](https://ja.wikipedia.org/wiki/music_holic "wikilink")』を放送した。（後の[Break Point\!](../Page/Break_Point!.md "wikilink")(2009年3月放送終了)）
 
 ## 概要
 
@@ -250,7 +250,7 @@ Weekly Countdownお休み</p></td>
 28<br />
 29</strong></p></td>
 <td><p><a href="../Page/Real_Face.md" title="wikilink">Real Face</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>30</strong></p></td>
@@ -358,6 +358,6 @@ Weekly Countdownお休み</p></td>
   - [33rpm](https://ja.wikipedia.org/wiki/33rpm "wikilink")
   - [BEATNIKS](https://ja.wikipedia.org/wiki/BEATNIKS "wikilink")
   - [music\>holic](../Page/Music_holic.md "wikilink")
-  - [Break Point\!](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")
+  - [Break Point\!](../Page/Break_Point!.md "wikilink")
 
 [Category:岩手めんこいテレビの番組](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビの番組 "wikilink") [Category:東北地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:東北地方の深夜テレビ番組 "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")

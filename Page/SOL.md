@@ -30,4 +30,4 @@
 ## 関連項目
 
   -
-  - [ソル](https://ja.wikipedia.org/wiki/ソル "wikilink")
+  - [ソル](../Page/ソル.md "wikilink")

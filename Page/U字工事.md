@@ -78,7 +78,7 @@
 
   - 『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』では2回連続オーバー500を記録したことがある。チャンピオン大会は4度出場、うち3回はセミファイナル敗退、セミファイナルがなかった第12回大会ではファーストステージで敗退。
   - コンビ名「U字工事」の由来は、高校の同級生が教室の黒板に気まぐれで書いた「U字工事」から来ている。それ以前はコンビ名を「牛タンナポリタン」「キャッチホン出る出る」としていたこともあった。その名前について、同級生より**実は工事現場の[U字溝](../Page/U字溝.md "wikilink")の看板からその名が付けられた**という事実が初めて明かされたことがあった\[30\]。
-  - 衣装のスーツは[オーダーメイド](../Page/オーダーメイド.md "wikilink")であり、色は[白](../Page/白.md "wikilink")・[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")・[青](../Page/青.md "wikilink")・[金](../Page/金.md "wikilink")が存在する。[THEE MICHELLE GUN ELEPHANTや](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")[DREAMS COME TRUEもオーダーしたことのある洋服店の常連である](../Page/DREAMS_COME_TRUE.md "wikilink")。
+  - 衣装のスーツは[オーダーメイド](../Page/オーダーメイド.md "wikilink")であり、色は[白](../Page/白.md "wikilink")・[銀](../Page/銀.md "wikilink")・[青](../Page/青.md "wikilink")・[金](../Page/金.md "wikilink")が存在する。[THEE MICHELLE GUN ELEPHANTや](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")[DREAMS COME TRUEもオーダーしたことのある洋服店の常連である](../Page/DREAMS_COME_TRUE.md "wikilink")。
   - 栃木の地方紙・[下野新聞](../Page/下野新聞.md "wikilink")をネタ作りの参考にしている。2009年[1月24日](../Page/1月24日.md "wikilink")放送の[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バニラ気分](https://ja.wikipedia.org/wiki/バニラ気分 "wikilink")』に出演した際、「栃木の偉人は[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")です」と称して、野球選手のイチローではなく栃木で[イチゴ](../Page/イチゴ.md "wikilink")のビニールハウス栽培を広めた[仁井田一郎](https://ja.wikipedia.org/wiki/仁井田一郎 "wikilink")さんを称える、というネタを見た出演者が「どうやって調べたのか」と訊いたところ、福田が「[下野新聞](../Page/下野新聞.md "wikilink")に載ってるんです」と明かした。
       - その放送内では[福田富一](../Page/福田富一.md "wikilink")栃木県知事がVTRで出演し、U字工事を「とちぎ応援団」に任命することを発表した。
 
@@ -157,7 +157,7 @@
   - 人類滅亡と13のコント集（日本テレビ）
   - [爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")（日本テレビ）
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（TBSテレビ）キャッチコピーは「栃木の訛り親善大使」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBSテレビ）キャッチコピーは「栃木の訛り親善大使」
   - [虎の門](../Page/虎の門.md "wikilink")（テレビ朝日）
   - お笑いTV「ニコニコ笑い汁」（[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")）
   - ごめんくださいヒデさんです\!（[SPEEDチャンネル](../Page/SPEEDチャンネル.md "wikilink")）

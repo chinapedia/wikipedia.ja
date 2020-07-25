@@ -50,7 +50,7 @@ IBM大和開発研究所 (Yamato Development Laboratory) 沿革\[4\]
 
   - [IBM漢字システム](../Page/IBM漢字システム.md "wikilink") - 1971
   - Double-byte Technical Coordination Office (DTCO) アジア言語のサポートセンター - 1982
-  - [マルチステーション5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")、[日本語DOS](https://ja.wikipedia.org/wiki/日本語DOS "wikilink")、文書プログラム - 1983
+  - [マルチステーション5550](../Page/マルチステーション5550.md "wikilink")、[日本語DOS](https://ja.wikipedia.org/wiki/日本語DOS "wikilink")、文書プログラム - 1983
   - IBM 3270漢字エミュレーター、IBM 5250漢字エミュレーター
   - [IBM JX](../Page/IBM_JX.md "wikilink") - 1984
   - [VM](https://ja.wikipedia.org/wiki/:en:VM_\(operating_system\) "wikilink")/[オフィスシステム](https://ja.wikipedia.org/wiki/IBM_OfficeVision#日本・韓国・台湾ではODPS "wikilink") (Office & Document Prosessing System、略称：[ODPS](https://ja.wikipedia.org/wiki/ODPS "wikilink")） - 1986

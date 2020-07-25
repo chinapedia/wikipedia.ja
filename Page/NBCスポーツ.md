@@ -35,7 +35,7 @@
   - [ケンタッキーダービー](../Page/ケンタッキーダービー.md "wikilink")（[2001年](../Page/2001年.md "wikilink") - ）
   - [プリークネスステークス](../Page/プリークネスステークス.md "wikilink")（[2001年](../Page/2001年.md "wikilink") - ）
   - [ベルモントステークス](../Page/ベルモントステークス.md "wikilink")（[2011年](../Page/2011年.md "wikilink") - ）
-  - [サンタアニタダービー](https://ja.wikipedia.org/wiki/サンタアニタダービー "wikilink")（[2005年](../Page/2005年.md "wikilink") - ）
+  - [サンタアニタダービー](../Page/サンタアニタダービー.md "wikilink")（[2005年](../Page/2005年.md "wikilink") - ）
   - [ハンブルトニアン](../Page/ハンブルトニアン.md "wikilink")（[2007年](../Page/2007年.md "wikilink") - ）
 
 <!-- end list -->
@@ -96,7 +96,7 @@
 
   - [アメリカン・フットボール・リーグ](../Page/アメリカン・フットボール・リーグ.md "wikilink")（AFL - 現在のNFL・AFC（[アメリカン・フットボール・カンファレンス](../Page/アメリカン・フットボール・カンファレンス.md "wikilink")）の前身。[1965年](../Page/1965年.md "wikilink") - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
   - [メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")（[1947年](../Page/1947年.md "wikilink") - [1989年](../Page/1989年.md "wikilink")、[1994年](../Page/1994年.md "wikilink") - [2000年](../Page/2000年.md "wikilink")）
-      - [ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")（1947年 - [1976年](../Page/1976年.md "wikilink")、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[1982年](../Page/1982年.md "wikilink")、[1984年](../Page/1984年.md "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[1988年](../Page/1988年.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[ABCでも放送](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")）、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[1999年](../Page/1999年.md "wikilink")）
+      - [ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")（1947年 - [1976年](../Page/1976年.md "wikilink")、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、[1982年](../Page/1982年.md "wikilink")、[1984年](../Page/1984年.md "wikilink")、[1986年](../Page/1986年.md "wikilink")、[1988年](../Page/1988年.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[ABCでも放送](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")）、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[1999年](../Page/1999年.md "wikilink")）
   - [NBA](../Page/NBA.md "wikilink")
       - NBA on NBC（[1955年](../Page/1955年.md "wikilink") - [1962年](../Page/1962年.md "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [2002年](../Page/2002年.md "wikilink")）
   - [ウィンブルドン選手権](../Page/ウィンブルドン選手権.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [2011年](../Page/2011年.md "wikilink")、2012年からESPNが放映権に移行）

@@ -41,7 +41,7 @@ PC/AT互換機の汎用性を生かし、一部筐体では一部パーツのア
   -
   - Taito Type X Zero
       - チップセット : [NVIDIA MCP7A-ION](https://ja.wikipedia.org/wiki/NVIDIA_ION "wikilink")
-      - CPU : [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") 230（1.6GHz）
+      - CPU : [Intel Atom](../Page/Intel_Atom.md "wikilink") 230（1.6GHz）
       - GPU : NVIDIA GeForce 9400M
 
 os:windows xp embedded standard
@@ -154,7 +154,7 @@ os:windows xp embedded standard
   - [星霜鋼機ストラニア](https://ja.wikipedia.org/wiki/星霜鋼機ストラニア "wikilink")（グレフ） - 2011年4月27日 ★
   - [旋光の輪舞DUO for NESiCAxLive](https://ja.wikipedia.org/wiki/旋光の輪舞DUO "wikilink")（グレフ） - 2011年4月27日 ★
   - [ドラゴンダンス](https://ja.wikipedia.org/wiki/ドラゴンダンス "wikilink")（サクセス） - 2011年4月27日 ★
-  - [AQUAPAZZA](https://ja.wikipedia.org/wiki/AQUAPAZZA "wikilink")（[エクサム](https://ja.wikipedia.org/wiki/エクサム "wikilink")／[アクアプラス](../Page/アクアプラス.md "wikilink")／タイトー） - 2011年6月22日 ★
+  - [AQUAPAZZA](https://ja.wikipedia.org/wiki/AQUAPAZZA "wikilink")（[エクサム](../Page/エクサム.md "wikilink")／[アクアプラス](../Page/アクアプラス.md "wikilink")／タイトー） - 2011年6月22日 ★
   - 超・ちゃぶ台返し\!巨人の星ド根性編（タイトー） - 2011年7月
   - [LORD of VERMILION Re:2](../Page/LORD_of_VERMILION.md "wikilink")（スクウェア・エニックス） - 2011年7月26日
   - [exception](https://ja.wikipedia.org/wiki/exception "wikilink")（サクセス） - 2011年 ★

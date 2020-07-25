@@ -20,7 +20,7 @@
   - CHUCKY（トロンボーン）1997年4月加入　当初加入時にはトランペットで参加
     [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")出身。[1973年](../Page/1973年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")生まれ。B型。身長161cm、体重59～61kg（2003年時）。[東海大学付属高校](https://ja.wikipedia.org/wiki/東海大学付属高校 "wikilink")卒。小学校では少年野球、中学ではサッカー部と音楽とは無縁な生活をしていたが、高校1年の時にクラスの吹奏楽部員からトランペットをもらう。休み時間に学校のベランダで練習していたところ、阪神ファンの友達に「トランペットが吹けるイイところがあるから」と球場に連れていかれ、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の応援団に入団。RYOJIとは以前から知り合いで、[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")と掛け持ちのメンバーが脱退した時にNUMAと共にPOTSHOTに誘われる。1997年の4月から8月はトランペットをライブで吹いていたが、経験が少なかったためかあまり吹けず、8月下旬からのライブには参加できなくなった。しかし、どうしてもPOTSHOTを辞めたくなかったため、8月29日からトロンボーンを練習し、10月に再加入する。
   - ICHIKAWA（ベース）1999年5月（3rd ALBUMレコーディング時）加入
-    元[THE STREET BEATS](../Page/THE_STREET_BEATS.md "wikilink")、[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")。[広島県](../Page/広島県.md "wikilink")出身。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")生まれ。A型。身長167cm、体重60kg（2003年時）。小学校からサッカーをしていたが、中学の頃にツッパリに。高校の頃にサッカー部の先輩と対立し、退部。高校にいたギターが出来る友人がベースを探していたので、ベースを始める。高校卒業後、THE STREET BEATSの ØKIに誘われてTHE STREET BEATSに加入したが、メジャーデビューとともに脱退。その後再加入するが、91年に再脱退。1年後に[榊原秀樹](https://ja.wikipedia.org/wiki/榊原秀樹 "wikilink")と[高橋まこと](../Page/高橋まこと.md "wikilink")、ジミーの3人とGEENAを結成するが、後に解散。さらに2年後にKOBAYASHIからPOTSHOTに誘われ、サポートで3rdアルバムの作成とライブに参加。後に正式に加入。
+    元[THE STREET BEATS](../Page/THE_STREET_BEATS.md "wikilink")、[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")。[広島県](../Page/広島県.md "wikilink")出身。[1968年](../Page/1968年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")生まれ。A型。身長167cm、体重60kg（2003年時）。小学校からサッカーをしていたが、中学の頃にツッパリに。高校の頃にサッカー部の先輩と対立し、退部。高校にいたギターが出来る友人がベースを探していたので、ベースを始める。高校卒業後、THE STREET BEATSの ØKIに誘われてTHE STREET BEATSに加入したが、メジャーデビューとともに脱退。その後再加入するが、91年に再脱退。1年後に[榊原秀樹](https://ja.wikipedia.org/wiki/榊原秀樹 "wikilink")と[高橋まこと](../Page/高橋まこと.md "wikilink")、ジミーの3人とGEENAを結成するが、後に解散。さらに2年後にKOBAYASHIからPOTSHOTに誘われ、サポートで3rdアルバムの作成とライブに参加。後に正式に加入。
   - KOBAYASHI（ドラム）1998年4月にサポートで参加-1998年6月に正式に加入
     本名は[小林雅之](https://ja.wikipedia.org/wiki/小林雅之 "wikilink")。元[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[東久留米市](../Page/東久留米市.md "wikilink")出身。[1965年](../Page/1965年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")生まれ。B型。身長174cm、体重64kg（2003年時）。実家は[ひばりヶ丘団地](https://ja.wikipedia.org/wiki/ひばりヶ丘団地 "wikilink")と[滝山団地](https://ja.wikipedia.org/wiki/滝山団地 "wikilink")。[自由学園](https://ja.wikipedia.org/wiki/自由学園 "wikilink")という幼稚園から大学まである学校に通う。中学時代に寮の先輩がバンドをしていた影響で、ドラムを始める。[森純太](https://ja.wikipedia.org/wiki/森純太 "wikilink")が[伊藤毅とバンドをやっていたので参加](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")。後に[宮田和弥](../Page/宮田和弥.md "wikilink")も参加し、[JUN SKY WALKER(S)結成](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。1997年7月に解散。11月に結婚。1998年4月に[UKプロジェクト](../Page/UKプロジェクト.md "wikilink")の北島からPOTSHOTを紹介され、サポートとして参加。6月に正式に加入。
 
@@ -685,7 +685,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong>POTSHOT / THE PEACOCKS</strong></p></td>
 <td><p>LEECH-040</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

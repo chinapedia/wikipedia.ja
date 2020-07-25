@@ -22,7 +22,7 @@
 ### SINGLE Clips
 
   - [このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")
-  - [翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")
+  - [翼を広げて](../Page/翼を広げて.md "wikilink")
   - [Memories](../Page/Memories_\(DEENの曲\).md "wikilink")
   - [永遠をあずけてくれ](../Page/永遠をあずけてくれ.md "wikilink")
   - [瞳そらさないで](../Page/瞳そらさないで.md "wikilink")

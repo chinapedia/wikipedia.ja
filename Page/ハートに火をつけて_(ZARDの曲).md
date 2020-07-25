@@ -1,7 +1,7 @@
 > この記事は[ハートに火をつけて \(ZARDの曲\)](https://ja.wikipedia.org/wiki/ハートに火をつけて_\(ZARDの曲\))から翻訳されています。
 
 
-「**ハートに火をつけて**」（ハートにひをつけて）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の42作目の[シングル](../Page/シングル.md "wikilink")。
+「**ハートに火をつけて**」（ハートにひをつけて）は、[ZARD](../Page/ZARD.md "wikilink")の42作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

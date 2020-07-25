@@ -1,7 +1,7 @@
 > この記事は[OH MY LOVE](https://ja.wikipedia.org/wiki/OH_MY_LOVE)から翻訳されています。
 
 
-『**OH MY LOVE**』（オー・マイ・ラブ）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1994年](../Page/1994年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**OH MY LOVE**』（オー・マイ・ラブ）は、[ZARD](../Page/ZARD.md "wikilink")が[1994年](../Page/1994年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 

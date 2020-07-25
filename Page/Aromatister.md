@@ -9,7 +9,7 @@
 
 牧穂が[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")に歌詞提供し大ヒットした、「[碧いうさぎ](https://ja.wikipedia.org/wiki/碧いうさぎ "wikilink")」のセルフカバーも収録。
 
-当初このアルバムは[B-Gram RECORDSより](../Page/B-Gram_RECORDS.md "wikilink")1996年4月1日に発売予定（品番：JBCJ-1007）だったが、諸事情により延期の上コロムビアに発売元が変更になっている。 オリジナル盤は既に廃盤となっているが、2009年8月24日にコロムビアから[R盤](https://ja.wikipedia.org/wiki/R盤 "wikilink")で再発されている。
+当初このアルバムは[B-Gram RECORDSより](../Page/B-Gram_RECORDS.md "wikilink")1996年4月1日に発売予定（品番：JBCJ-1007）だったが、諸事情により延期の上コロムビアに発売元が変更になっている。 オリジナル盤は既に廃盤となっているが、2009年8月24日にコロムビアから[R盤](../Page/R盤.md "wikilink")で再発されている。
 
 ## 収録曲
 

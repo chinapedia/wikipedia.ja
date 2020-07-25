@@ -1,7 +1,7 @@
 > この記事は[Racing On](https://ja.wikipedia.org/wiki/Racing_On)から翻訳されています。
 
 
-**Racing On**（レーシングオン）は、日本の[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")専門誌。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月創刊。
+**Racing On**（レーシングオン）は、日本の[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")専門誌。[1986年](../Page/1986年.md "wikilink")4月創刊。
 
 ## 概要
 

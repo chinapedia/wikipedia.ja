@@ -1,7 +1,7 @@
 > この記事は[CRぱちんこウルトラセブン](https://ja.wikipedia.org/wiki/CRぱちんこウルトラセブン)から翻訳されています。
 
 
-**CRぱちんこウルトラセブン**は、特撮テレビドラマ『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』をモチーフとした[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台。[2005年](../Page/2005年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")からリリースされた。
+**CRぱちんこウルトラセブン**は、特撮テレビドラマ『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』をモチーフとした[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台。[2005年](../Page/2005年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")からリリースされた。
 
 この「CRぱちんこウルトラセブン」のヒットを受け、兄弟機である[2006年](../Page/2006年.md "wikilink")10月に[羽根モノ](../Page/羽根モノ.md "wikilink")版の「[CR羽根ぱちんこウルトラセブン](https://ja.wikipedia.org/wiki/CR羽根ぱちんこウルトラセブン "wikilink")」がデビュー、羽根モノながら[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")のように直撃大当たりを搭載し大ヒットした。
 
@@ -98,7 +98,7 @@
   - フルハシ隊員：期待度低
   - キリヤマ隊長：期待度中
   - アンヌ隊員：期待度高
-  - [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")：大当たり確定
+  - [ウルトラセブン](../Page/ウルトラセブン.md "wikilink")：大当たり確定
   - [ウルトラの父](../Page/ウルトラの父.md "wikilink")：ウルトラボーナス確定
   - [ウルトラの母](../Page/ウルトラの母.md "wikilink")：大当たり確定
   - [小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")：大当たり確定

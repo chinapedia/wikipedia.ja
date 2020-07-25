@@ -27,7 +27,7 @@
 
 **りりこ** 名義
 
-  - めがねっ娘…。2（2005年3月27日、[メディアステーション](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")）他出演:[田村麻衣](../Page/田村麻衣.md "wikilink")、[森咲小雪](../Page/森咲小雪.md "wikilink")、芹華、ANZ、今野由愛、[森野雫](../Page/川上ゆう.md "wikilink")、愛咲良子、[青山遥](https://ja.wikipedia.org/wiki/青山遥_\(AV女優\) "wikilink")
+  - めがねっ娘…。2（2005年3月27日、[メディアステーション](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")）他出演:[田村麻衣](../Page/田村麻衣.md "wikilink")、[森咲小雪](../Page/森咲小雪.md "wikilink")、芹華、ANZ、今野由愛、[森野雫](../Page/川上ゆう.md "wikilink")、愛咲良子、[青山遥](../Page/青山遥_\(AV女優\).md "wikilink")
   - パジャマっ娘…。　（2005年8月14日、メディアステーション）他出演:恵ちとせ、黒崎あかり、早坂まゆみ、平山ののか、葉月真琴、青山遥、レオナ
 
 **RIRICO** 名義

@@ -8,7 +8,7 @@
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月](../Page/9月.md "wikilink") - **(株)井上プロダクション**として発足。**NET**（現・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）ニュースの取材・編集を担当。
   - [1981年](../Page/1981年.md "wikilink")[6月](../Page/6月.md "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")の撮影を担当。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [ニュースステーション](../Page/ニュースステーション.md "wikilink")の開始に伴い、取材・編集スタッフを増員。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月 - **(株)フレックス**に社名変更。
+  - [1986年](../Page/1986年.md "wikilink")9月 - **(株)フレックス**に社名変更。
   - [1991年](../Page/1991年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - **報道制作部**、**資料部**（現**アーカイブ部**）を新設。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月 - テレビ朝日の関連会社（持分法適用会社）となる。
   - [2000年](../Page/2000年.md "wikilink")4月 - **フレックスアメリカ**（**FLEX America Inc.**）を設立。

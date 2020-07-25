@@ -316,7 +316,7 @@
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">中部日本放送</a></p></td>
-<td><p>2007年<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> - <a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
+<td><p>2007年<a href="../Page/1月26日.md" title="wikilink">1月26日</a> - <a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 <td><p>金曜 27:10 - 27:40</p></td>
 <td><p>TBS系列</p></td>
 <td></td>

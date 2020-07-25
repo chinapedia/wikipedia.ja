@@ -1,7 +1,7 @@
 > この記事は[ジェームス・E・ムーア](https://ja.wikipedia.org/wiki/ジェームス・E・ムーア)から翻訳されています。
 
 
-**ジェームス・エドワード・ムーア**（**James Edward Moore**, [1902年](../Page/1902年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[軍人](../Page/軍人.md "wikilink")。[1957年](../Page/1957年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[1958年](../Page/1958年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ニューベッドフォード出身](https://ja.wikipedia.org/wiki/ニューベッドフォード_\(マサチューセッツ州\) "wikilink")。
+**ジェームス・エドワード・ムーア**（**James Edward Moore**, [1902年](../Page/1902年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[軍人](../Page/軍人.md "wikilink")。[1957年](../Page/1957年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[1958年](../Page/1958年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ニューベッドフォード出身](https://ja.wikipedia.org/wiki/ニューベッドフォード_\(マサチューセッツ州\) "wikilink")。
 
 ## 経歴
 

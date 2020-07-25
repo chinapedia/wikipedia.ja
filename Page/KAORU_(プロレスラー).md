@@ -16,7 +16,7 @@
 
 ## 来歴・戦績
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
 
 <!-- end list -->
 

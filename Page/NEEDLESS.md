@@ -582,7 +582,7 @@
 
 本作の他にも、『原作NEEDLESS』を元にした同じ世界観に基づく作品が描かれている。『NEEDLESS ZERO』（『NEEDLESS 0』とも）と『NEEDLESS ZERO TWO』（『NEEDLESS ZERO II』『NEEDLESS 0 II』とも）が単行本化されており、やや設定が異なるが同人誌『[BLACK SPOT](https://ja.wikipedia.org/wiki/BLACK_SPOT "wikilink")』が出版されている。
 
-また、[聖書](../Page/聖書.md "wikilink")をモチーフにした『NEEDLESS』に対し、[古事記](../Page/古事記.md "wikilink")・[日本書紀](../Page/日本書紀.md "wikilink")をモチーフにしたその「日本版」が『[白砂村](https://ja.wikipedia.org/wiki/白砂村 "wikilink")』である\[16\]\[17\]。
+また、[聖書](../Page/聖書.md "wikilink")をモチーフにした『NEEDLESS』に対し、[古事記](../Page/古事記.md "wikilink")・[日本書紀](../Page/日本書紀.md "wikilink")をモチーフにしたその「日本版」が『[白砂村](../Page/白砂村.md "wikilink")』である\[16\]\[17\]。
 
   - NEEDLESS ZERO
     『ウルトラジャンプ』[2001年](../Page/2001年.md "wikilink")8月号から[2003年](../Page/2003年.md "wikilink")10月号（本編開始直前）まで不定期掲載されていた読み切り（一部は前後編）作をまとめた短編集。時代は本編の過去か未来で、登場人物は本編とも各話ごとにも基本的に異なるが、一部に共通のキャラクターが登場する。アニメでは「死神の聖剣」を回想風に挿入している。
@@ -613,7 +613,7 @@
 
 ### 時間軸
 
-連載中の本編と番外編は、次の時間軸で進行している。本編が進むと、「NEEDLESS1.5」に繋がるとされている。『NEEDLESS』シリーズのほか、『[白砂村](https://ja.wikipedia.org/wiki/白砂村 "wikilink")』と「全能者」（『ウルトラジャンプ』掲載読みきり）も少しだけリンクしているとされる\[19\]。
+連載中の本編と番外編は、次の時間軸で進行している。本編が進むと、「NEEDLESS1.5」に繋がるとされている。『NEEDLESS』シリーズのほか、『[白砂村](../Page/白砂村.md "wikilink")』と「全能者」（『ウルトラジャンプ』掲載読みきり）も少しだけリンクしているとされる\[19\]。
 
   - 白砂村 - [2001年](../Page/2001年.md "wikilink")\[20\]
   - 全能者 - [2002年](../Page/2002年.md "wikilink")\[21\]
@@ -1282,7 +1282,7 @@ LEE MIN BAE</p></td>
 | [近畿広域圏](../Page/広域放送.md "wikilink")                   | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") | 2009年[7月4日](../Page/7月4日.md "wikilink") - [12月26日](../Page/12月26日.md "wikilink")                                                        | 土曜 26:58 - 27:28 | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") | [アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")第3部 |- |
 | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                     | 2009年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [12月16日](../Page/12月16日.md "wikilink")                                     | 水曜 26:15 - 26:45 |                                                                      |                                                                   |
 | [中京広域圏](../Page/広域放送.md "wikilink")                   | [東海テレビ](../Page/東海テレビ放送.md "wikilink")                  | 2009年[7月17日](../Page/7月17日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月15日](../Page/1月15日.md "wikilink") | 金曜 27:35 - 28:05 | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")                            |                                                                   |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2009年[8月18日](../Page/8月18日.md "wikilink") - 2010年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")                                | 火曜 8:00 - 8:30   | [CSチャンネル](../Page/専門チャンネル.md "wikilink")                             | リピート放送あり                                                          |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2009年[8月18日](../Page/8月18日.md "wikilink") - 2010年[1月26日](../Page/1月26日.md "wikilink")                                                   | 火曜 8:00 - 8:30   | [CSチャンネル](../Page/専門チャンネル.md "wikilink")                             | リピート放送あり                                                          |
 
 近畿・中京広域圏において、毎日放送と東海テレビとの組み合わせによる[UHFアニメ](../Page/UHFアニメ.md "wikilink")は史上初。また[南関東](../Page/南関東.md "wikilink")では珍しく[チバテレビでの放送が無かった](../Page/千葉テレビ放送.md "wikilink")。
 

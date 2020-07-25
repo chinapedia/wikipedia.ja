@@ -149,7 +149,7 @@
 
 ## 関連項目
 
-  - [今夜もハッスル](https://ja.wikipedia.org/wiki/今夜もハッスル "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")） - 紹介コーナーがあった。
+  - [今夜もハッスル](../Page/今夜もハッスル.md "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")） - 紹介コーナーがあった。
   - [DMM.com](../Page/DMM.com.md "wikilink")
 
 ## 脚注

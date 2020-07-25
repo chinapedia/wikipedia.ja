@@ -115,4 +115,4 @@ CDにはパソコンで見ることが出来るデータが含まれており、
 1.  ツアーパンフレット『THE BIBLE 別有天地非世俗』のインタビューより
 2.  本作のライブDVD『THE LIVE\! DOBERMAN』内のMCでも語っている。
 3.
-4.  結局プロジェクトはセッツァー側の都合により中止となったものの、セッツァーとは後年『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』や2007年のライブ『HOTEI presents "SUPER SOUL SESSIONS" BRIAN SETZER vs HOTEI vs [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")』でも競演を果たしている。
+4.  結局プロジェクトはセッツァー側の都合により中止となったものの、セッツァーとは後年『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』や2007年のライブ『HOTEI presents "SUPER SOUL SESSIONS" BRIAN SETZER vs HOTEI vs [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink")』でも競演を果たしている。

@@ -361,7 +361,7 @@
 </tr>
 <tr class="even">
 <td><p>エア・ブーン<br />
-<a href="../Page/マット・コークラン.md" title="wikilink">エヴァン・ボーン</a> &amp; <a href="https://ja.wikipedia.org/wiki/コフィ・キングストン" title="wikilink">コフィ・キングストン</a></p></td>
+<a href="../Page/マット・コークラン.md" title="wikilink">エヴァン・ボーン</a> &amp; <a href="../Page/コフィ・キングストン.md" title="wikilink">コフィ・キングストン</a></p></td>
 <td><p>1</p></td>
 <td><p>8月22日</p></td>
 <td><p>RAW</p></td>
@@ -382,7 +382,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロン・キリングス" title="wikilink">Rトゥルース</a> &amp; コフィ・キングストン(2)</p></td>
+<td><p><a href="../Page/ロン・キリングス.md" title="wikilink">Rトゥルース</a> &amp; コフィ・キングストン(2)</p></td>
 <td><p>1</p></td>
 <td><p>4月30日</p></td>
 <td><p>RAW SuperShow</p></td>

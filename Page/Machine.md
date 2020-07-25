@@ -83,7 +83,7 @@
   -
 
       -
-        [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")、Madbeavers、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")
+        [hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide "wikilink")、Madbeavers、[ZIGGY](../Page/ZIGGY.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")
 
 <!-- end list -->
 

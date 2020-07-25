@@ -55,7 +55,7 @@
 
 ### 現在のメンバー
 
-  - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")（さとう たいじ、[1967年](../Page/1967年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ）ボーカル・ギター担当。
+  - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")（さとう たいじ、[1967年](../Page/1967年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - ）ボーカル・ギター担当。
 
 <!-- end list -->
 

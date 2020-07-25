@@ -409,7 +409,7 @@ i-VTEC
   - [モビリオスパイク](../Page/ホンダ・モビリオスパイク.md "wikilink")（GK1/2）
   - [パートナー](../Page/ホンダ・パートナー.md "wikilink")（GJ3/4）
   - [エアウェイブ](../Page/ホンダ・エアウェイブ.md "wikilink")（GJ1/2）
-  - [フリード](https://ja.wikipedia.org/wiki/ホンダ・フリード "wikilink")（GB3/4）
+  - [フリード](../Page/ホンダ・フリード.md "wikilink")（GB3/4）
   - [フリードスパイク](https://ja.wikipedia.org/wiki/ホンダ・フリードスパイク "wikilink")（GB3/4）
   - [フィットシャトル](https://ja.wikipedia.org/wiki/ホンダ・フィットシャトル "wikilink")（GG7/8）
 

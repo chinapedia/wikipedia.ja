@@ -75,7 +75,7 @@
 
 ### 金曜
 
-  - 06:00 - 11:30 [〜JK RADIO〜TOKYO UNITED](https://ja.wikipedia.org/wiki/〜JK_RADIO〜TOKYO_UNITED "wikilink")
+  - 06:00 - 11:30 [〜JK RADIO〜TOKYO UNITED](../Page/〜JK_RADIO〜TOKYO_UNITED.md "wikilink")
   - 11:30 - 16:00 [PARADISO](../Page/PARADISO.md "wikilink")
   - 16:00 - 16:30 [STYLE STUDIO](https://ja.wikipedia.org/wiki/STYLE_STUDIO "wikilink")
   - 16:30 - 20:00 [CIRCUS CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_CIRCUS "wikilink")
@@ -90,7 +90,7 @@
 
 ## 以前出演していたナビゲーター
 
-  - [Sachiko Ode](https://ja.wikipedia.org/wiki/大出佐智子 "wikilink")
+  - [Sachiko Ode](../Page/大出佐智子.md "wikilink")
       - Brandnew J初期のナビゲーターで、毎週土・日曜の14:00 - 18:00を担当。
   - [Lucy Kent](../Page/ルーシー・ケント.md "wikilink")
       - J-WAVE開局当時から各番組に出演していたナビゲーター。Brandnew J初期のナビゲーターで、平日枠の14:00 - 18:00のいずれかの曜日を担当。
@@ -142,7 +142,7 @@
 
 ### J-WAVEとのサイマル放送
 
-  - [J-WAVE ARCHIVES](https://ja.wikipedia.org/wiki/20TH_J-WAVE_ARCHIVES〜J-WAVE_TOP40 "wikilink")
+  - [J-WAVE ARCHIVES](../Page/20TH_J-WAVE_ARCHIVES〜J-WAVE_TOP40.md "wikilink")
   - [THE UNIVERSE](../Page/THE_UNIVERSE.md "wikilink")
   - [TOMORROW](../Page/TOMORROW_\(ラジオ番組\).md "wikilink")
   - [ROCKETMAN SHOW\!\!](../Page/ROCKETMAN_SHOW.md "wikilink")

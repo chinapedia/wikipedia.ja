@@ -51,7 +51,7 @@
 
   - [泉谷しげる](../Page/泉谷しげる.md "wikilink")（1月23日）
   - [大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")（4月30日）
-  - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")（11月12日）
+  - [中島みゆき](../Page/中島みゆき.md "wikilink")（11月12日）
 
 **2005年**
 
@@ -220,7 +220,7 @@
 
   - [武部聡志](../Page/武部聡志.md "wikilink")（3月17日）
   - [三沢またろう](../Page/三沢またろう.md "wikilink")（3月24日）
-  - [雷門プロジェクト](https://ja.wikipedia.org/wiki/雷門プロジェクト "wikilink")（[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")）（5月12日）
+  - [雷門プロジェクト](https://ja.wikipedia.org/wiki/雷門プロジェクト "wikilink")（[井上日徳](../Page/井上日徳.md "wikilink")）（5月12日）
 
 ## 脚注
 

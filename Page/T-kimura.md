@@ -1,7 +1,7 @@
 > この記事は[T-kimura](https://ja.wikipedia.org/wiki/T-kimura)から翻訳されています。
 
 
-**t-kimura**（ティーキムラ、本名：**木村 貴志**（きむら たかし）、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ）は、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")と活動の幅は多岐にわたる。
+**t-kimura**（ティーキムラ、本名：**木村 貴志**（きむら たかし）、[1968年](../Page/1968年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") - ）は、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")と活動の幅は多岐にわたる。
 
 ## 人物
 

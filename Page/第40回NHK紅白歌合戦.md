@@ -59,7 +59,7 @@
   - [千代の富士貢](https://ja.wikipedia.org/wiki/千代の富士貢 "wikilink")（[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")・[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")）：この年大相撲界初の[国民栄誉賞](../Page/国民栄誉賞.md "wikilink")を受賞。
   - [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")（[女優](../Page/俳優.md "wikilink")）：この年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[青春家族](../Page/青春家族.md "wikilink")』のヒロイン・阿川麻子役。
   - [ねじめ正一](../Page/ねじめ正一.md "wikilink")（[作家](../Page/小説家.md "wikilink")）：この年『[高円寺純情商店街](../Page/高円寺純情商店街.md "wikilink")』で[第101回直木賞受賞](https://ja.wikipedia.org/wiki/直木三十五賞#受賞作一覧 "wikilink")。
-  - [小林浩美](https://ja.wikipedia.org/wiki/小林浩美 "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")）：この年賞金ランキング2位となり注目を集める。
+  - [小林浩美](../Page/小林浩美.md "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")）：この年賞金ランキング2位となり注目を集める。
   - [中村勘九郎](../Page/中村勘三郎_\(18代目\).md "wikilink")（[歌舞伎](../Page/歌舞伎.md "wikilink")[俳優](../Page/俳優.md "wikilink")）：この年[芸術祭賞を受賞](https://ja.wikipedia.org/wiki/芸術祭_\(文化庁\)#文部科学大臣賞_\(芸術祭賞\) "wikilink")。
   - [村崎芙蓉子](../Page/村崎芙蓉子.md "wikilink")（[医師](../Page/医師.md "wikilink")・作家）：2年前出版の著書『カイワレ族の偏差値日記』が話題となり「カイワレ族」なる言葉が流行語となる。
   - [西田敏行](../Page/西田敏行.md "wikilink")（俳優）：翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』の主人公・[西郷隆盛](../Page/西郷隆盛.md "wikilink")役。
@@ -192,7 +192,7 @@
 8.  [紅白歌手別視聴率、４０％超えは嵐ら３組だけに…前回は３１組](https://hochi.news/articles/20200106-OHT1T50267.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2020年1月7日 6時0分。
     （[平成以後の紅白歌手別瞬間最高視聴率](https://hochi.news/articles/20200106-OHT1T50267.html?mode=photo&photoid=3)）
 9.  『怪物番組　紅白歌合戦の真実』合田道人：著、幻冬舎、2004年、p286〜288参照
-10. この以前では、[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）で紅組司会の候補に挙がっていたとされる（同年三田は[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[いのち](../Page/いのち_\(NHK大河ドラマ\).md "wikilink")』の主演を務めた）。
+10. この以前では、[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）で紅組司会の候補に挙がっていたとされる（同年三田は[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[いのち](../Page/いのち_\(NHK大河ドラマ\).md "wikilink")』の主演を務めた）。
 11. [牧山泰之](https://ja.wikipedia.org/wiki/牧山泰之 "wikilink")『想い出の紅白歌合戦』、34頁。
 12. この以前でも『大河ドラマ』の主演経験者が司会の候補に挙がることはあった。
 13. 松平は[第38回でも](../Page/第38回NHK紅白歌合戦.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）総合司会の候補に挙がっていた。

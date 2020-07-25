@@ -127,7 +127,7 @@
   - 翌年の[第23回](../Page/第25回NHK紅白歌合戦.md "wikilink") - [第33回](../Page/第33回NHK紅白歌合戦.md "wikilink")（[1982年](../Page/1982年.md "wikilink")）は先輩の宮田の後任として、前回・今回総合司会を務めた山川が白組司会を担当。その後、[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）・[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")（[1992年](../Page/1992年.md "wikilink")）で今回以来の総合司会を務めている。
   - 第25回の紅組司会は水前寺の前任者である佐良が[第22回](../Page/第22回NHK紅白歌合戦.md "wikilink")（[1972年](../Page/1972年.md "wikilink")）以来2年ぶりに再登板（水前寺続投案もあった）し、以後[第28回](../Page/第28回NHK紅白歌合戦.md "wikilink")（[1977年](../Page/1977年.md "wikilink")）まで連続担当。また、第25回・[第26回](../Page/第26回NHK紅白歌合戦.md "wikilink")（[1975年](../Page/1975年.md "wikilink")）の佐良の歌手出番の曲紹介を水前寺が担当している。
   - 今回紅組司会・総合司会の立場だった水前寺と山川が[第30回](https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦 "wikilink")（[1979年](../Page/1979年.md "wikilink")）では、両組司会として再共演した。第30回における水前寺の紅組司会起用は「山川との対戦は未経験」とのものでもあった。
-  - 後年、『思い出の紅白歌合戦』（[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）で再放送された（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[1993年](../Page/1993年.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）が、1997年は[GAROの歌唱シーンがカットされた不完全版であった](../Page/ガロ_\(フォークグループ\).md "wikilink")。これは、メンバーの1人で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に死去した[日高富明](https://ja.wikipedia.org/wiki/日高富明 "wikilink")の関係者から、放送の承諾が得られなかったことによる。
+  - 後年、『思い出の紅白歌合戦』（[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）で再放送された（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[1993年](../Page/1993年.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）が、1997年は[GAROの歌唱シーンがカットされた不完全版であった](../Page/ガロ_\(フォークグループ\).md "wikilink")。これは、メンバーの1人で[1986年](../Page/1986年.md "wikilink")に死去した[日高富明](https://ja.wikipedia.org/wiki/日高富明 "wikilink")の関係者から、放送の承諾が得られなかったことによる。
 
 ## 脚注
 

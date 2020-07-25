@@ -5,7 +5,7 @@
 
 ## 詳細
 
-ソニーLSIデザインは、**ソニーテクニカルソフト**の[商号](../Page/商号.md "wikilink")でソニーグループで製造される[マイクロコンピューター用](../Page/マイコン.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の開発企業として[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")に設立され、1990年に商号を現在のものに変更した。
+ソニーLSIデザインは、**ソニーテクニカルソフト**の[商号](../Page/商号.md "wikilink")でソニーグループで製造される[マイクロコンピューター用](../Page/マイコン.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の開発企業として[1986年](../Page/1986年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に設立され、1990年に商号を現在のものに変更した。
 
 同社は、ソニーグループで生産する[センサ](../Page/センサ.md "wikilink")ーや[カメラ](../Page/カメラ.md "wikilink")の[CMOSイメージセンサ](../Page/CMOSイメージセンサ.md "wikilink")ーや[DSPの設計を行っており](../Page/デジタルシグナルプロセッサ.md "wikilink")、他にも[画像処理](../Page/画像処理.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")の[開発](../Page/開発.md "wikilink")や半導体製品の ・や[プローブカード](https://ja.wikipedia.org/wiki/プローブカード "wikilink")・[ロードボード](https://ja.wikipedia.org/wiki/ロードボード "wikilink")や[ソケット](https://ja.wikipedia.org/wiki/ソケット "wikilink")・の設計を行っている。
 
@@ -17,7 +17,7 @@
 
 [盛田昭夫を騙るTwitterアカウント](https://ja.wikipedia.org/wiki/盛田昭夫を騙るTwitterアカウント "wikilink")は、本件が[広報](../Page/広報.md "wikilink")されたこと\[5\]自体に対しては「握りつぶせない内部告発は、仕方なく調査して公表」と、その後日に行われた決算説明会での 「元役員1名と元社員4名」との本件についての釈明\[6\]に対しては「元…って、現役社員による不正行為だろう。後出しで懲戒解雇して誤魔化そうとする、その根性は卑しくないか?」と、述べている。
 
-更なる[調査](../Page/調査.md "wikilink")を進めて[警察](../Page/警察.md "wikilink")への[捜査](../Page/捜査.md "wikilink")依頼と本事件の[発生](https://ja.wikipedia.org/wiki/発生 "wikilink")[原因と全容究明と関与した役員と従業員に対する](https://ja.wikipedia.org/wiki/因果性 "wikilink")[刑事](../Page/刑事.md "wikilink")及び[民事](https://ja.wikipedia.org/wiki/民事 "wikilink")上の[告訴を検討している](../Page/告訴・告発.md "wikilink")、との趣旨をソニーLSIデザインが発表している\[7\]が、その後の続報は無い。
+更なる[調査](../Page/調査.md "wikilink")を進めて[警察](../Page/警察.md "wikilink")への[捜査](../Page/捜査.md "wikilink")依頼と本事件の[発生](https://ja.wikipedia.org/wiki/発生 "wikilink")[原因と全容究明と関与した役員と従業員に対する](../Page/因果性.md "wikilink")[刑事](../Page/刑事.md "wikilink")及び[民事](https://ja.wikipedia.org/wiki/民事 "wikilink")上の[告訴を検討している](../Page/告訴・告発.md "wikilink")、との趣旨をソニーLSIデザインが発表している\[7\]が、その後の続報は無い。
 
 本[事件](../Page/事件.md "wikilink")においては、[多重代表訴訟](https://ja.wikipedia.org/wiki/多重代表訴訟 "wikilink")の条件\[8\]が満たされておらず、[最終完全親会社](https://ja.wikipedia.org/wiki/最終完全親会社 "wikilink")である[ソニー](../Page/ソニー.md "wikilink")の[株主](../Page/株主.md "wikilink")は[訴訟を起こせない](../Page/株主代表訴訟.md "wikilink")。
 

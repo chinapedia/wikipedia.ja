@@ -72,7 +72,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 ## 出演
 
   - 『OKI インカラ チャシ』 FM AIR-G’ 2007年11月～
-  - 『[ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")』オープニングナーレション
+  - 『[ケータイ捜査官7](../Page/ケータイ捜査官7.md "wikilink")』オープニングナーレション
 
 ## 脚注
 

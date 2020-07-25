@@ -208,11 +208,11 @@
 
 ## ジャニーズJr.との対決
 
-Hiramekin Goldと[亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）率いる[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")チームとの対戦。2005年11月、2006年1月放送。亀梨ら出演のドラマ『[野ブタ。をプロデュース](../Page/野ブタ。をプロデュース.md "wikilink")』の番宣を兼ねていた。
+Hiramekin Goldと[亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）率いる[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")チームとの対戦。2005年11月、2006年1月放送。亀梨ら出演のドラマ『[野ブタ。をプロデュース](../Page/野ブタ。をプロデュース.md "wikilink")』の番宣を兼ねていた。
 
 ### ジャニーズJr.チーム
 
-  - [亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - [亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（KAT-TUN）
   - [ジミーMackey](../Page/ジミーMackey.md "wikilink")（事務所脱退、以降は[モデル](../Page/モデル_\(職業\).md "wikilink")）
   - [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")（[Kis-My-Ft.2](https://ja.wikipedia.org/wiki/Kis-My-Ft.2 "wikilink")）

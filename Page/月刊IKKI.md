@@ -79,7 +79,7 @@
   - [ガギグゲキッコ](https://ja.wikipedia.org/wiki/ガギグゲキッコ "wikilink")（[土屋雄民](https://ja.wikipedia.org/wiki/土屋雄民 "wikilink")）
   - [カメオドール](https://ja.wikipedia.org/wiki/カメオドール "wikilink")（[田村てまり](https://ja.wikipedia.org/wiki/田村てまり "wikilink")）
   - ガンズ&ブレイズ（[滝沢聖峰](../Page/滝沢聖峰.md "wikilink")） ※増刊時代
-  - [羣青](https://ja.wikipedia.org/wiki/羣青 "wikilink")（[中村珍](https://ja.wikipedia.org/wiki/中村珍 "wikilink")）
+  - [羣青](../Page/羣青.md "wikilink")（[中村珍](../Page/中村珍.md "wikilink")）
   - 答えは3つ（とんだばやし）
   - 小町風伝（[小野塚カホリ](../Page/小野塚カホリ.md "wikilink")）
   - [さらい屋 五葉](https://ja.wikipedia.org/wiki/さらい屋_五葉 "wikilink")（[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")）

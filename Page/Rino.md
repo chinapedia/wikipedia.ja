@@ -87,7 +87,7 @@
 | アンダンテ                                                                                                             |                                                                                                                                                |
 | 胸に散る時の葉                                                                                                           |                                                                                                                                                |
 | Spring has come                                                                                                   | パソコンゲーム『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』エンディングテーマ                                                                   |
-| ラブソングを君に                                                                                                          | PlayStation 2『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")』エンディングテーマ        |
+| ラブソングを君に                                                                                                          | PlayStation 2『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")』エンディングテーマ                           |
 
 ## 楽曲提供
 
@@ -98,7 +98,7 @@
   - [藍井エイル](https://ja.wikipedia.org/wiki/藍井エイル "wikilink")
       - [Velvet Tears](https://ja.wikipedia.org/wiki/INNOCENCE_\(藍井エイルの曲\) "wikilink")（作詞）
       - [コバルト・スカイ](https://ja.wikipedia.org/wiki/コバルト・スカイ "wikilink")（作詞）
-  - [カンノユキ](https://ja.wikipedia.org/wiki/カンノユキ "wikilink")
+  - [カンノユキ](../Page/カンノユキ.md "wikilink")
       - 始まりのResolution（作詞）
   - [スフィア](https://ja.wikipedia.org/wiki/スフィア_\(声優ユニット\) "wikilink")
       - [Joyful×Joyful](https://ja.wikipedia.org/wiki/A.T.M.O.S.P.H.E.R.E "wikilink")

@@ -25,7 +25,7 @@
       - [3月1日](../Page/3月1日.md "wikilink") - 3rdシングル「[マイペース](../Page/マイペース_\(SunSet_Swishの曲\).md "wikilink")」発売。アニメ『BLEACH』[2006年](../Page/2006年.md "wikilink")1月～3月期のエンディングテーマとして抜擢される。アニメタイアップや数え歌のような特徴的な歌いだし、さらに俳優の[要潤](../Page/要潤.md "wikilink")が出演するPVの相乗効果により自身として初となるオリコン初登場TOP10入り（8位）となる。ミュージックレインレーベルで出したシングルはこれで最後となった。
       - [7月5日](../Page/7月5日.md "wikilink") - メジャーレーベル[SMEレコーズ移籍後の](../Page/エスエムイーレコーズ.md "wikilink")4thシングル「[夏が来れば](../Page/夏が来れば.md "wikilink")」発売。
       - [10月18日](../Page/10月18日.md "wikilink") - 5thシングル「[君がいるから](../Page/君がいるから_\(SunSet_Swishの曲\).md "wikilink")」を発売。[10月21日](../Page/10月21日.md "wikilink")に公開される映画『[天使の卵](https://ja.wikipedia.org/wiki/天使の卵_\(映画\) "wikilink")』及び続編のドラマである『[天使の梯子](https://ja.wikipedia.org/wiki/天使の卵_\(映画\)#天使の梯子 "wikilink")』の主題歌となる。
-      - [11月15日](../Page/11月15日.md "wikilink") - 1stアルバム『[あなたの街で逢いましょう](https://ja.wikipedia.org/wiki/あなたの街で逢いましょう "wikilink")』を発売する。
+      - [11月15日](../Page/11月15日.md "wikilink") - 1stアルバム『[あなたの街で逢いましょう](../Page/あなたの街で逢いましょう.md "wikilink")』を発売する。
       - [12月30日](../Page/12月30日.md "wikilink") - [第48回日本レコード大賞にて](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")「マイペース」が新人賞を受賞。
   - [2007年](../Page/2007年.md "wikilink")
       - [1月25日](../Page/1月25日.md "wikilink") - 1stワンマンツアー『あなたの街で逢いましょう』名古屋から開始。[2月10日](../Page/2月10日.md "wikilink")福岡で終了。
@@ -208,7 +208,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/あなたの街で逢いましょう" title="wikilink">あなたの街で逢いましょう</a></strong></p></td>
+<td><p><strong><a href="../Page/あなたの街で逢いましょう.md" title="wikilink">あなたの街で逢いましょう</a></strong></p></td>
 <td><p>14位</p></td>
 </tr>
 <tr class="even">
@@ -307,7 +307,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/土屋隆俊" title="wikilink">土屋隆俊</a></p></td>
 <td><p>「I Love You」<br />
-「PASSION」(出演:<a href="../Page/映美くらら.md" title="wikilink">映美くらら</a>・<a href="https://ja.wikipedia.org/wiki/平山祐介" title="wikilink">平山祐介</a>・<a href="https://ja.wikipedia.org/wiki/上地雄輔" title="wikilink">上地雄輔</a>)<br />
+「PASSION」(出演:<a href="../Page/映美くらら.md" title="wikilink">映美くらら</a>・<a href="../Page/平山祐介.md" title="wikilink">平山祐介</a>・<a href="https://ja.wikipedia.org/wiki/上地雄輔" title="wikilink">上地雄輔</a>)<br />
 「ありがとう」(出演:<a href="../Page/桑野信義.md" title="wikilink">桑野信義</a>)<br />
 「さくらびと」(出演:映美くらら・<a href="../Page/西島数博.md" title="wikilink">西島数博</a>)<br />
 「バライロ」<br />

@@ -1,7 +1,7 @@
 > この記事は[TNCモーニングコール](https://ja.wikipedia.org/wiki/TNCモーニングコール)から翻訳されています。
 
 
-『**TNCモーニングコール**』（ティーエヌシー モーニングコール）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")で平日朝に放送されていた[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』のテレビ西日本タイトル差し替え）。正式タイトルおよびタイトル表記は『**TNC FNNモーニングコール**』 。
+『**TNCモーニングコール**』（ティーエヌシー モーニングコール）は、[1986年](../Page/1986年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")で平日朝に放送されていた[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』のテレビ西日本タイトル差し替え）。正式タイトルおよびタイトル表記は『**TNC FNNモーニングコール**』 。
 
 ## 放送時間
 

@@ -10,7 +10,7 @@
   - [GIZA studio移籍後初のアルバムであり](../Page/GIZA_studio.md "wikilink")、「さよならのかけら」「BOY FRIEND」など[Amemura O-town Record在籍時代に発表された楽曲も収録されている](../Page/Amemura_O-town_Record.md "wikilink")。
   - 外装はスリーブケース仕様、裏ジャケットはクリアシートなど、パッケージ加工に凝っている。歌詞カードは1枚の紙に記載されており、広げると裏面がジャケット写真のミニポスターとなっている。
   - もともとは「風がそよぐ場所」がリリースされた直後の[1999年](../Page/1999年.md "wikilink")[8月](../Page/8月.md "wikilink")に（当時の[規格品番](../Page/規格品番.md "wikilink")はGZCA-1011）発売する予定であったが、制作上の都合により度重なる発売延期の末に一度発売が中止になった経緯がある。
-  - [B'z](../Page/B'z.md "wikilink")や[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のレコーディングエンジニアとして知られる[野村昌之](https://ja.wikipedia.org/wiki/野村昌之 "wikilink")がエンジニアとして参加している。
+  - [B'z](../Page/B'z.md "wikilink")や[ZARD](../Page/ZARD.md "wikilink")のレコーディングエンジニアとして知られる[野村昌之](https://ja.wikipedia.org/wiki/野村昌之 "wikilink")がエンジニアとして参加している。
   - 累計売上枚数10万枚。
 
 ## 収録曲

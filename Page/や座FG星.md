@@ -19,7 +19,7 @@
 
 [Category:変光星](https://ja.wikipedia.org/wiki/Category:変光星 "wikilink") [Category:や座](https://ja.wikipedia.org/wiki/Category:や座 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
 
-1.  清田誠一郎 「変光星ガイド・8月」 『[天文ガイド](../Page/天文ガイド.md "wikilink")』 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")8月号、[誠文堂新光社](../Page/誠文堂新光社.md "wikilink")、134頁。
+1.  清田誠一郎 「変光星ガイド・8月」 『[天文ガイド](../Page/天文ガイド.md "wikilink")』 [1986年](../Page/1986年.md "wikilink")8月号、[誠文堂新光社](../Page/誠文堂新光社.md "wikilink")、134頁。
 2.
 3.  [岡崎彰](../Page/岡崎彰.md "wikilink") 著 『奇妙な42の星たち』 [誠文堂新光社](../Page/誠文堂新光社.md "wikilink")、[1994年](../Page/1994年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")発行、ISBN 4-416-29420-4、72頁。
 4.

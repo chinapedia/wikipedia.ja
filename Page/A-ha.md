@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    ([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月3日](../Page/6月3日.md "wikilink")～[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")　オーストラリア、日本、アメリカ、カナダ、オーストリア、スイス、フランス、ドイツ、ベルギー、オランダ、デンマーク、スウェーデン、イギリス、ノルウェー)
+    ([1986年](../Page/1986年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")～[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")　オーストラリア、日本、アメリカ、カナダ、オーストリア、スイス、フランス、ドイツ、ベルギー、オランダ、デンマーク、スウェーデン、イギリス、ノルウェー)
 
 <!-- end list -->
 

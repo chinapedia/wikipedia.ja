@@ -149,9 +149,9 @@ little by little
 
 ### 未発表曲
 
-| タイトル     | 備考                                                                                                                                                                                      |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Pure** | [カンロ](https://ja.wikipedia.org/wiki/カンロ "wikilink")『ピュレグミ』の[CMソングで](../Page/コマーシャルソング.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")からオンエアされていた。 |
+| タイトル     | 備考                                                                                                                                                                   |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pure** | [カンロ](../Page/カンロ.md "wikilink")『ピュレグミ』の[CMソングで](../Page/コマーシャルソング.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")からオンエアされていた。 |
 
 ### 参加作品
 
@@ -252,12 +252,12 @@ little by little
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p>Never Too Late</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スターダストピクチャーズ" title="wikilink">S・P・D</a>=ビデオプランニング配給映画『<a href="https://ja.wikipedia.org/wiki/RISE_UP" title="wikilink">RISE UP</a>』主題歌</p></td>
+<td><p><a href="../Page/スターダストピクチャーズ.md" title="wikilink">S・P・D</a>=ビデオプランニング配給映画『<a href="https://ja.wikipedia.org/wiki/RISE_UP" title="wikilink">RISE UP</a>』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Pure</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンロ" title="wikilink">カンロ</a>『ピュレグミ』CMソング</p></td>
+<td><p><a href="../Page/カンロ.md" title="wikilink">カンロ</a>『ピュレグミ』CMソング</p></td>
 </tr>
 <tr class="even">
 <td></td>

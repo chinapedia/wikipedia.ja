@@ -9,14 +9,14 @@
 
 搭載されている[カメラは](../Page/デジタルカメラ.md "wikilink")、有効画素数約200万画素（記録画素数約190万画素）の[CMOS](../Page/CMOSイメージセンサ.md "wikilink")。オートフォーカスには非対応で、ライトがついていない。また、その後しばらくシャープ製FOMA端末にはカメラ用ライトが搭載されなかったが[SH906i](../Page/SH906i.md "wikilink")で復活した。テレビ電話用のサブカメラは、有効画素数約11万画素（記録画素数約10万画素）のCMOS。外部メモリーカードは[SH903i](../Page/SH903i.md "wikilink")に引き続き、[microSD](https://ja.wikipedia.org/wiki/SDメモリーカード#microSDメモリーカード "wikilink")（2GBまで。ドコモ発表）に対応。TransFlashには対応していない。ボタンは青色に光る。
 
-| 主な対応サービス                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")                        |
-| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")                      |
-| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                                      |
-| [着もじ](../Page/着もじ.md "wikilink")                                                                                        |
-| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／[バイオ認証](../Page/バイオ認証.md "wikilink")                        |
-| [きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")／~~[マチキャラ](https://ja.wikipedia.org/wiki/マチキャラ "wikilink")~~ |
+| 主な対応サービス                                                                                             |
+| ---------------------------------------------------------------------------------------------------- |
+| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")     |
+| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")   |
+| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                   |
+| [着もじ](../Page/着もじ.md "wikilink")                                                                     |
+| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／[バイオ認証](../Page/バイオ認証.md "wikilink")     |
+| [きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")／~~[マチキャラ](../Page/マチキャラ.md "wikilink")~~ |
 
 ### プリインストールiアプリ
 

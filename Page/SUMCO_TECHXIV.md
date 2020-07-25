@@ -12,7 +12,7 @@
   - [1963年](../Page/1963年.md "wikilink")[8月](../Page/8月.md "wikilink") - 多結晶シリコンからシリコン・ウェーハまでの一貫生産体制を確立。
   - [1965年](../Page/1965年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [モノシランガス](https://ja.wikipedia.org/wiki/モノシランガス "wikilink")の外販を開始。
   - [1967年](../Page/1967年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 鏡面ウェーハと[エピタキシャルウェーハの生産を開始](https://ja.wikipedia.org/wiki/エピタキシャル成長 "wikilink")。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")8月 - [ニューヨーク](../Page/ニューヨーク.md "wikilink")に駐在事務所を開設。
+  - [1968年](../Page/1968年.md "wikilink")8月 - [ニューヨーク](../Page/ニューヨーク.md "wikilink")に駐在事務所を開設。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")9月 - 拡散ウェーハの生産を開始。
   - [1973年](../Page/1973年.md "wikilink")8月 - [宮崎県](../Page/宮崎県.md "wikilink")[宮崎郡](../Page/宮崎郡.md "wikilink")[清武町](../Page/清武町.md "wikilink")(現宮崎市)に九州小松電子株式会社を全額出資で設立。
   - [1976年](../Page/1976年.md "wikilink")[11月](../Page/11月.md "wikilink") - [中性子](../Page/中性子.md "wikilink")照射製品の生産を開始。

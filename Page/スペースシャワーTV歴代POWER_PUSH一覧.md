@@ -152,7 +152,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 1月  | 月がきれい (ラブハンドルズの曲)|月がきれい                                                                                | [ラブハンドルズ](../Page/ラブハンドルズ.md "wikilink")                                                                                  |
 | 2月  | [ワダツミの木](../Page/ワダツミの木.md "wikilink")                                                                 | [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")                                                                     |
 | 3月  | Hip Hop Royal                                                                                          | [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")                                                   |
-| 4月  | [ミラージュ](https://ja.wikipedia.org/wiki/ミラージュ_\(GOING_UNDER_GROUNDの曲\) "wikilink")                       | [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")                                                            |
+| 4月  | [ミラージュ](../Page/ミラージュ_\(GOING_UNDER_GROUNDの曲\).md "wikilink")                                          | [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")                                                            |
 | 5月  | THE ANSWER                                                                                             | [S-WORD](../Page/S-WORD.md "wikilink") feat.[CHRISTINA MILIAN](https://ja.wikipedia.org/wiki/CHRISTINA_MILIAN "wikilink") |
 | 6月  | [Get Up](https://ja.wikipedia.org/wiki/Get_Up_\(Scoobie_Doのアルバム\) "wikilink")                          | [Scoobie Do](../Page/Scoobie_Do.md "wikilink")                                                                            |
 | 7月  | [GT](https://ja.wikipedia.org/wiki/GT_\(クレイジーケンバンドのシングル\) "wikilink")                                  | [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")                                                                            |
@@ -198,20 +198,20 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 
 ### 2005年
 
-| 月   | 曲名                                                                          | アーティスト名                                                               |
-| --- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 1月  | [ナキムシのうた](https://ja.wikipedia.org/wiki/ナキムシのうた "wikilink")                 | [風味堂](../Page/風味堂.md "wikilink")                                      |
-| 2月  | GREAT\&FUNKY-Reservoir Edition(アルバム)|GREAT\&FUNKEY                          | [GREAT ADVENTURE](../Page/GREAT_ADVENTURE.md "wikilink")              |
-| 3月  | [ON THE RUN](https://ja.wikipedia.org/wiki/ON_THE_RUN "wikilink")           | [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") |
-| 4月  | 石コロブ                                                                        | [セカイイチ](../Page/セカイイチ.md "wikilink")                                  |
-| 5月  | [彗星](https://ja.wikipedia.org/wiki/彗星_\(Salyuの曲\) "wikilink")               | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")               |
-| 6月  | [紫陽花](https://ja.wikipedia.org/wiki/紫陽花/螺旋階段 "wikilink")                    | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                                  |
-| 7月  | [ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")                     | [タカチャ](../Page/タカチャ.md "wikilink")                                    |
-| 8月  | 緑のアーチ/裸の王様(シングル)|緑のアーチ                                                      | [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")                 |
-| 9月  | [The Fire](https://ja.wikipedia.org/wiki/High_Pressure_\(アルバム\) "wikilink") | [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")                    |
-| 10月 | [キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")                       | [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")   |
-| 11月 | [HeartBreaker](../Page/BEEF_or_CHICKEN.md "wikilink")                       | [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")                  |
-| 12月 | [Space Sonic](https://ja.wikipedia.org/wiki/Space_Sonic "wikilink")         | [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")                        |
+| 月   | 曲名                                                                          | アーティスト名                                                             |
+| --- | --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 1月  | [ナキムシのうた](https://ja.wikipedia.org/wiki/ナキムシのうた "wikilink")                 | [風味堂](../Page/風味堂.md "wikilink")                                    |
+| 2月  | GREAT\&FUNKY-Reservoir Edition(アルバム)|GREAT\&FUNKEY                          | [GREAT ADVENTURE](../Page/GREAT_ADVENTURE.md "wikilink")            |
+| 3月  | [ON THE RUN](https://ja.wikipedia.org/wiki/ON_THE_RUN "wikilink")           | [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")                  |
+| 4月  | 石コロブ                                                                        | [セカイイチ](../Page/セカイイチ.md "wikilink")                                |
+| 5月  | [彗星](https://ja.wikipedia.org/wiki/彗星_\(Salyuの曲\) "wikilink")               | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")             |
+| 6月  | [紫陽花](https://ja.wikipedia.org/wiki/紫陽花/螺旋階段 "wikilink")                    | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                                |
+| 7月  | [ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")                     | [タカチャ](../Page/タカチャ.md "wikilink")                                  |
+| 8月  | 緑のアーチ/裸の王様(シングル)|緑のアーチ                                                      | [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")               |
+| 9月  | [The Fire](https://ja.wikipedia.org/wiki/High_Pressure_\(アルバム\) "wikilink") | [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")                  |
+| 10月 | [キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")                       | [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink") |
+| 11月 | [HeartBreaker](../Page/BEEF_or_CHICKEN.md "wikilink")                       | [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")                |
+| 12月 | [Space Sonic](https://ja.wikipedia.org/wiki/Space_Sonic "wikilink")         | [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")                      |
 
 ### 2006年
 
@@ -255,7 +255,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 2月  | [1/6000000000 feat. C\&K](https://ja.wikipedia.org/wiki/1/6000000000_feat._C&K "wikilink")       | [九州男](https://ja.wikipedia.org/wiki/九州男 "wikilink")                     |
 | 3月  | DAYBREAK e.p.|DAYBREAK                                                                           | [GLORY HILL](https://ja.wikipedia.org/wiki/GLORY_HILL "wikilink")       |
 | 4月  | [CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(福原美穂の曲\) "wikilink")                             | [福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")                   |
-| 5月  | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")                                | [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")                 |
+| 5月  | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")                                | [キマグレン](../Page/キマグレン.md "wikilink")                                    |
 | 6月  | [ワープ](https://ja.wikipedia.org/wiki/Tuesday_and_Thursday "wikilink")                             | [lego big morl](https://ja.wikipedia.org/wiki/lego_big_morl "wikilink") |
 | 7月  | パノラマ (ヨースケ@HOMEの曲)|パノラマ                                                                          | [ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")         |
 | 8月  | [You say GOOD BYE](https://ja.wikipedia.org/wiki/SEVEN_COLORS_\(SpecialThanksのアルバム\) "wikilink") | [SpecialThanks](https://ja.wikipedia.org/wiki/SpecialThanks "wikilink") |
@@ -579,7 +579,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 1月  | What You Heard                                                      | [The Checks](https://ja.wikipedia.org/wiki/:en:The_Checks "wikilink")                               |
 | 2月  | Chasing Pavements                                                   | [ADELE](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")                                        |
 | 3月  | We Are Rock Stars                                                   | [Does It Offend You, Yeah?](https://ja.wikipedia.org/wiki/:en:Does_It_Offend_You,_Yeah? "wikilink") |
-| 4月  | Bleeding Love(U.S version)                                          | [LEONA LEWIS](https://ja.wikipedia.org/wiki/レオナ・ルイス "wikilink")                                     |
+| 4月  | Bleeding Love(U.S version)                                          | [LEONA LEWIS](../Page/レオナ・ルイス.md "wikilink")                                                        |
 | 5月  | Just A Song About Ping Pong                                         | [Operator Please](https://ja.wikipedia.org/wiki/:en:Operator_Please "wikilink")                     |
 | 6月  | American Boy featuring [Kanye West](../Page/カニエ・ウェスト.md "wikilink") | [ESTELLE](https://ja.wikipedia.org/wiki/エステル_\(ミュージシャン\) "wikilink")                                |
 | 7月  | MASHitUP                                                            | [The Young Punx\!](https://ja.wikipedia.org/wiki/:en:The_Young_Punx "wikilink")                     |
@@ -804,7 +804,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 
 <!-- end list -->
 
-  - パワープッシュが開始された時は画面上部の角に丸いマークでPower Push\!と表記されたのが出ていた。色は白地に抜き文字。ビデオクリップによって、黒地に抜き文字、青地に黄色文字などもあった。[天気読み](../Page/天気読み.md "wikilink")_[小沢健二](../Page/小沢健二.md "wikilink")から[Hip Hop Royal](https://ja.wikipedia.org/wiki/Hip_Hop_Royal "wikilink")_[YOU THE ROCK★まで上記のマークが表示されていた](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")。2002年4月にビデオミュージックチャンネル(現在の[スペースシャワーTVプラス](https://ja.wikipedia.org/wiki/スペースシャワーTVプラス "wikilink"))開局に伴いパワープッシュインターナショナルが開始した。パワープッシュのロゴも現在のロゴになった。パワープッシュのジングルが[ミラージュ](../Page/ミラージュ.md "wikilink")_[GOING UNDER GROUNDから始まり](../Page/GOING_UNDER_GROUND.md "wikilink")[君がいるなら★](https://ja.wikipedia.org/wiki/君がいるなら★ "wikilink")_[SOFFet](../Page/SOFFet.md "wikilink")まで、[AM 11:00](https://ja.wikipedia.org/wiki/AM_11:00 "wikilink")_[HY](https://ja.wikipedia.org/wiki/HY "wikilink")から[紫陽花](https://ja.wikipedia.org/wiki/紫陽花 "wikilink")_[椿屋四重奏](../Page/椿屋四重奏.md "wikilink")まで続いた。しかし、一新されたロゴの表記が[Life is Like a Boat](https://ja.wikipedia.org/wiki/Life_is_Like_a_Boat "wikilink")_[Rie Fuまでで](https://ja.wikipedia.org/wiki/Rie_Fu "wikilink")[セピア](https://ja.wikipedia.org/wiki/セピア "wikilink")_[Jackson vibeから現在の表記になった](../Page/Jackson_vibe.md "wikilink")。パワープッシュのジングルが[ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")_[タカチャ](../Page/タカチャ.md "wikilink")から[サイクル](https://ja.wikipedia.org/wiki/サイクル "wikilink")_[cutman-booche](https://ja.wikipedia.org/wiki/cutman-booche "wikilink")まで、[Monkey Discooooooo](https://ja.wikipedia.org/wiki/Monkey_Discooooooo "wikilink")_[the telephones\!から現在のジングルになった](https://ja.wikipedia.org/wiki/the_telephones! "wikilink")。
+  - パワープッシュが開始された時は画面上部の角に丸いマークでPower Push\!と表記されたのが出ていた。色は白地に抜き文字。ビデオクリップによって、黒地に抜き文字、青地に黄色文字などもあった。[天気読み](../Page/天気読み.md "wikilink")_[小沢健二](../Page/小沢健二.md "wikilink")から[Hip Hop Royal](https://ja.wikipedia.org/wiki/Hip_Hop_Royal "wikilink")_[YOU THE ROCK★まで上記のマークが表示されていた](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")。2002年4月にビデオミュージックチャンネル(現在の[スペースシャワーTVプラス](https://ja.wikipedia.org/wiki/スペースシャワーTVプラス "wikilink"))開局に伴いパワープッシュインターナショナルが開始した。パワープッシュのロゴも現在のロゴになった。パワープッシュのジングルが[ミラージュ](../Page/ミラージュ.md "wikilink")_[GOING UNDER GROUNDから始まり](../Page/GOING_UNDER_GROUND.md "wikilink")[君がいるなら★](https://ja.wikipedia.org/wiki/君がいるなら★ "wikilink")_[SOFFet](../Page/SOFFet.md "wikilink")まで、[AM 11:00](https://ja.wikipedia.org/wiki/AM_11:00 "wikilink")_[HY](https://ja.wikipedia.org/wiki/HY "wikilink")から[紫陽花](https://ja.wikipedia.org/wiki/紫陽花 "wikilink")_[椿屋四重奏](../Page/椿屋四重奏.md "wikilink")まで続いた。しかし、一新されたロゴの表記が[Life is Like a Boat](https://ja.wikipedia.org/wiki/Life_is_Like_a_Boat "wikilink")_[Rie Fuまでで](https://ja.wikipedia.org/wiki/Rie_Fu "wikilink")[セピア](../Page/セピア.md "wikilink")_[Jackson vibeから現在の表記になった](../Page/Jackson_vibe.md "wikilink")。パワープッシュのジングルが[ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")_[タカチャ](../Page/タカチャ.md "wikilink")から[サイクル](https://ja.wikipedia.org/wiki/サイクル "wikilink")_[cutman-booche](https://ja.wikipedia.org/wiki/cutman-booche "wikilink")まで、[Monkey Discooooooo](https://ja.wikipedia.org/wiki/Monkey_Discooooooo "wikilink")_[the telephones\!から現在のジングルになった](https://ja.wikipedia.org/wiki/the_telephones! "wikilink")。
 
 <!-- end list -->
 

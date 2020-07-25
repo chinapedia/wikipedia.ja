@@ -33,7 +33,7 @@
 
 #### グンゼ・ホビー部門
 
-日本で[プラモデル](../Page/プラモデル.md "wikilink")ブームが起こった[1960年代](../Page/1960年代.md "wikilink")から、郡是産業・「物資部」部門が日本国外のメーカー製キットおよび模型用材料の輸入を開始する。競合メーカーの[マルサン商店](../Page/マルサン商店.md "wikilink")との提携関係が切れた、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のプラモデル製造最大手企業[レベルと](https://ja.wikipedia.org/wiki/レベル_\(模型メーカー\) "wikilink")[1964年](../Page/1964年.md "wikilink")（昭和39年）に提携を行い、同社製キットの輸入発売と金型を[借用](https://ja.wikipedia.org/wiki/借用 "wikilink")した[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行っていた\[1\]。日本の軍用機プラモデルなどグンゼ側が自社開発した商品も一部あった。
+日本で[プラモデル](../Page/プラモデル.md "wikilink")ブームが起こった[1960年代](../Page/1960年代.md "wikilink")から、郡是産業・「物資部」部門が日本国外のメーカー製キットおよび模型用材料の輸入を開始する。競合メーカーの[マルサン商店](../Page/マルサン商店.md "wikilink")との提携関係が切れた、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のプラモデル製造最大手企業[レベルと](../Page/レベル_\(模型メーカー\).md "wikilink")[1964年](../Page/1964年.md "wikilink")（昭和39年）に提携を行い、同社製キットの輸入発売と金型を[借用](https://ja.wikipedia.org/wiki/借用 "wikilink")した[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行っていた\[1\]。日本の軍用機プラモデルなどグンゼ側が自社開発した商品も一部あった。
 
 また、当時プラモデル用塗料として販売されていた「プラカラー」は、色数が少なく混色して使用する必要があった。それに代わる模型用塗料として、調色済で自社で扱うプラモデルにそのまま塗れる溶剤系アクリル樹脂塗料を[藤倉化成](../Page/藤倉化成.md "wikilink")株式会社と共同開発し、「レベルカラー」として発売\[2\]、一時は模型用塗料の代名詞となった。本商品はレベルの名を冠していたが、これはブランド使用権のみを取得したもので、レベル社製品のライセンス生産品ではなかった。また、[1975年](../Page/1975年.md "wikilink")（昭和50年）には最初の水性模型塗料「レペ」を発売した\[3\]。[1977年](../Page/1977年.md "wikilink")（昭和52年）にレベル社との提携解消後は、自社ブランドに切り替えて「レベルカラー」を「[Mr.カラー](https://ja.wikipedia.org/wiki/Mr.カラー "wikilink")」、「レペ」を「ホッペ」と改名して販売を継続した\[4\]。他にも[瞬間接着剤](../Page/瞬間接着剤.md "wikilink")や[サーフェイサー](https://ja.wikipedia.org/wiki/サーフェイサー "wikilink")、[パテ](https://ja.wikipedia.org/wiki/パテ "wikilink")、各種工具などの模型関連商品を積極的に開発した。
 
@@ -87,7 +87,7 @@
   - 輸入キット販売
       - AFVクラブ（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）
       - [エアフィックス](../Page/エアフィックス.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）
-      - [エレール](https://ja.wikipedia.org/wiki/エレール "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）
+      - [エレール](../Page/エレール.md "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）
       - [ズベズダ](https://ja.wikipedia.org/wiki/ズヴェズダ_\(模型メーカー\) "wikilink")（[ロシア](../Page/ロシア.md "wikilink")）
       - ミニアート（[ウクライナ](../Page/ウクライナ.md "wikilink")）
 

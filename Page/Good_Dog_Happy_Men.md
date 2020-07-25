@@ -323,7 +323,7 @@
 
 **その他**
 
-  - 1st DEMO([CD-R](https://ja.wikipedia.org/wiki/R盤 "wikilink")) 「GOOD DOG HAPPY MEN」
+  - 1st DEMO([CD-R](../Page/R盤.md "wikilink")) 「GOOD DOG HAPPY MEN」
     すべてライブ音源で、アルバム収録にされている「黄金の鐘」とは歌詞やアレンジが異なる。
     1.  儚いことしたい病
     2.  ないよなにも

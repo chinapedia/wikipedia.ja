@@ -29,7 +29,7 @@
   - Co-Producer （プロデューサー補） - Masaki Naganuma ([TV Tokyo Music](../Page/テレビ東京ミュージック.md "wikilink"))
   - Producer （プロデューサー） - Hiroshi Sasaki (TV Tokyo Music)
   - Chief Producer （チーフプロデューサー） - Shunji Nozaki
-  - Produced by TV Tokyo Music, [endless communications](https://ja.wikipedia.org/wiki/エンドレス・コミュニケーションズ "wikilink")
+  - Produced by TV Tokyo Music, [endless communications](../Page/エンドレス・コミュニケーションズ.md "wikilink")
 
 ## 番組内容
 
@@ -43,7 +43,7 @@
     毎月1人または1組のアーティストを密着取材するコーナー。
   - 流派オリジナルランキング
     どこよりも早い日本最速のウィークリーランキングTOP30を紹介するコーナー。2011年12月17日開始。ブラックミュージックだけではなく、洋楽、K-POP、J-POP（[ジャニーズの曲](../Page/ジャニーズ事務所.md "wikilink")、アイドルの曲、ロックの曲など）、演歌といった様々なジャンルがランクインの対象。
-    2012年3月10日放送のランキングでは、1位から5位までジャニーズの曲がランクインした（1位:[嵐](../Page/嵐_\(グループ\).md "wikilink")「[ワイルド アット ハート](https://ja.wikipedia.org/wiki/ワイルド_アット_ハート "wikilink")」、2位：[Hey\!Say\!JUMP](https://ja.wikipedia.org/wiki/Hey!Say!JUMP "wikilink")「[SUPER DELICATE](https://ja.wikipedia.org/wiki/SUPER_DELICATE "wikilink")」、3位：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「[愛、テキサス](https://ja.wikipedia.org/wiki/愛、テキサス "wikilink")」、4位：[V6](../Page/V6_\(グループ\).md "wikilink")「[バリバリBUDDY\!](https://ja.wikipedia.org/wiki/バリバリBUDDY! "wikilink")」、5位：[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")「LOCK ON」）。
+    2012年3月10日放送のランキングでは、1位から5位までジャニーズの曲がランクインした（1位:[嵐](../Page/嵐_\(グループ\).md "wikilink")「[ワイルド アット ハート](https://ja.wikipedia.org/wiki/ワイルド_アット_ハート "wikilink")」、2位：[Hey\!Say\!JUMP](https://ja.wikipedia.org/wiki/Hey!Say!JUMP "wikilink")「[SUPER DELICATE](https://ja.wikipedia.org/wiki/SUPER_DELICATE "wikilink")」、3位：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「[愛、テキサス](https://ja.wikipedia.org/wiki/愛、テキサス "wikilink")」、4位：[V6](../Page/V6_\(グループ\).md "wikilink")「[バリバリBUDDY\!](https://ja.wikipedia.org/wiki/バリバリBUDDY! "wikilink")」、5位：[KAT-TUN](../Page/KAT-TUN.md "wikilink")「LOCK ON」）。
     2012年3月24日放送分では、ウィークリーランキングTOP30を休止し、人気コラボ曲TOP10を紹介した。
 
 ## テーマ曲
@@ -82,7 +82,7 @@
 | 2008年01月 - | [0SOUL7](https://ja.wikipedia.org/wiki/0SOUL7 "wikilink") 『チェリートゥリー』                                                                                          |
 | 2008年02月 - | [清水翔太](../Page/清水翔太.md "wikilink") 『[HOME](https://ja.wikipedia.org/wiki/HOME_\(清水翔太の曲\) "wikilink")』                                                         |
 | 2008年03月 - | [ARIA](../Page/ARIA_\(歌手\).md "wikilink") 『YOU'RE THE BEST\! feat. 横山剣 (CRAZY KEN BAND)』                                                                      |
-| 2008年04月 - | [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink") 『Disconnect』                                                                                          |
+| 2008年04月 - | [Sweep](../Page/Sweep.md "wikilink") 『Disconnect』                                                                                                             |
 | 2008年05月 - | [TIANA XIAO](https://ja.wikipedia.org/wiki/TIANA_XIAO "wikilink") 『KIZUNA』                                                                                    |
 | 2008年06月 - | 清水翔太 『 美しき日々よ 』                                                                                                                                               |
 | 2008年07月 - | DOUBLE 『[Let it go](https://ja.wikipedia.org/wiki/Let_it_go_\(DOUBLEの曲\) "wikilink")』                                                                         |

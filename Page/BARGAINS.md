@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **田島由紀子**（たじまゆきこ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月20日](../Page/3月20日.md "wikilink") - ）ボーカル：[山形県](../Page/山形県.md "wikilink")[米沢市](../Page/米沢市.md "wikilink")生まれ[秋田県](../Page/秋田県.md "wikilink")育ち
+  - **田島由紀子**（たじまゆきこ、[1968年](../Page/1968年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink") - ）ボーカル：[山形県](../Page/山形県.md "wikilink")[米沢市](../Page/米沢市.md "wikilink")生まれ[秋田県](../Page/秋田県.md "wikilink")育ち
   - **三宅修一**（みやけしゅういち、[1963年](../Page/1963年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - ）ギター・ベース・コーラス：[東京都](../Page/東京都.md "wikilink")出身
 
 ## ディスコグラフィー

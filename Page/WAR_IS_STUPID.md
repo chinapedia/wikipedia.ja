@@ -78,7 +78,7 @@
 
 本作品の制作された時代における戦争と平和に関する情勢を参考資料として次にまとめる。
 
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")、[西ドイツ](../Page/西ドイツ.md "wikilink")の[マチアス・ルスト](../Page/マチアス・ルスト.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ）が[ソ連に着陸し逮捕される](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")、[西ドイツ](../Page/西ドイツ.md "wikilink")の[マチアス・ルスト](../Page/マチアス・ルスト.md "wikilink")（[1968年](../Page/1968年.md "wikilink") - ）が[ソ連に着陸し逮捕される](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。
   - [1988年](../Page/1988年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、[イラン・イラク戦争](https://ja.wikipedia.org/wiki/イラン・イラク戦争 "wikilink")が停戦。
   - [1989年](../Page/1989年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - [10日](../Page/11月10日.md "wikilink")、[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")が[崩壊する](../Page/ベルリンの壁崩壊.md "wikilink")。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[ドイツ再統一](../Page/ドイツ再統一.md "wikilink")。

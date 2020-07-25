@@ -302,7 +302,7 @@
 
   - [フリオ・エルナン・ロッシ](../Page/フリオ・エルナン・ロッシ.md "wikilink") 2002-2005
 
-  - [ムラデン・ペトリッチ](https://ja.wikipedia.org/wiki/ムラデン・ペトリッチ "wikilink") 2004-2007
+  - [ムラデン・ペトリッチ](../Page/ムラデン・ペトリッチ.md "wikilink") 2004-2007
 
   - [フェリペ・カイセド](https://ja.wikipedia.org/wiki/フェリペ・カイセド "wikilink") 2005-2008
 

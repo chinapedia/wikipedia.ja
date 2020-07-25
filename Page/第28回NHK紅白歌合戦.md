@@ -17,7 +17,7 @@
   - 紅組応援団長：[中村メイコ](../Page/中村メイコ.md "wikilink")
   - 白組応援団長：[三波伸介](../Page/三波伸介_\(初代\).md "wikilink")
   - テレビ中継：[金子辰雄](https://ja.wikipedia.org/wiki/金子辰雄 "wikilink")アナウンサー（※現存するVTRには実況音声が録音されていない）
-  - 得点集計スタジオ：[中江陽三](https://ja.wikipedia.org/wiki/中江陽三 "wikilink")アナウンサー
+  - 得点集計スタジオ：[中江陽三](../Page/中江陽三.md "wikilink")アナウンサー
 
 <!-- end list -->
 

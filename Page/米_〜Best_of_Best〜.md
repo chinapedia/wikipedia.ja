@@ -58,7 +58,7 @@
 
 1.  **[浪漫飛行](../Page/浪漫飛行.md "wikilink")**
     (作詞・作曲:米米CLUB / 編曲:米米CLUB、中崎英也）
-2.  **[ひとすじになれない](https://ja.wikipedia.org/wiki/ひとすじになれない "wikilink")**
+2.  **[ひとすじになれない](../Page/ひとすじになれない.md "wikilink")**
     (作詞・作曲・編曲:米米CLUB）
 3.  **[TIME STOP](https://ja.wikipedia.org/wiki/TIME_STOP "wikilink")**
     (作詞・作曲:米米CLUB / 編曲:中村哲）

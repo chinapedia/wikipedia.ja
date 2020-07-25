@@ -22,7 +22,7 @@
   - ウェブ版メッセンジャー （モバイル）
     携帯端末のブラウザ上からメッセージの送受信ができるウェブサイト。PC版の MSN Web Messenger と同様。
   - Windows Live for Windows Mobile （モバイル）
-    OS が Windows Mobile 6 である、[WILLCOM](https://ja.wikipedia.org/wiki/WILLCOM "wikilink")の[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズ、NTT DoCoMoの[F1100](https://ja.wikipedia.org/wiki/F1100 "wikilink")、[SoftBankの](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")[X01T](../Page/SoftBank_X01T.md "wikilink")、[X02HT以降の](../Page/SoftBank_X02HT.md "wikilink")[HTC製端末などのモバイル端末で利用することができる](../Page/HTC_\(企業\).md "wikilink")。
+    OS が Windows Mobile 6 である、[WILLCOM](https://ja.wikipedia.org/wiki/WILLCOM "wikilink")の[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズ、NTT DoCoMoの[F1100](../Page/F1100.md "wikilink")、[SoftBankの](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")[X01T](../Page/SoftBank_X01T.md "wikilink")、[X02HT以降の](../Page/SoftBank_X02HT.md "wikilink")[HTC製端末などのモバイル端末で利用することができる](../Page/HTC_\(企業\).md "wikilink")。
   - Windows Live for iPhone （モバイル）
     OS が [iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")3以上である、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")3G,3GS,4と[iPod touch第](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")2、第3世代と[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")で使用することができる。
   - Windows Live Messenger IM Control & Presence API

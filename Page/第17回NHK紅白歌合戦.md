@@ -32,7 +32,7 @@
 | [岸洋子](../Page/岸洋子.md "wikilink")(3)                         | 想い出のソレンツァーラ                                                                     |
 | [青江三奈](../Page/青江三奈.md "wikilink")(初)                       | [恍惚のブルース](https://ja.wikipedia.org/wiki/恍惚のブルース "wikilink")                     |
 | [三沢あけみ](../Page/三沢あけみ.md "wikilink")(3)                     | サガレン小唄                                                                          |
-| [金井克子](../Page/金井克子.md "wikilink")(初)                       | [ラバーズ・コンチェルト](https://ja.wikipedia.org/wiki/ラヴァーズ・コンチェルト "wikilink")            |
+| [金井克子](../Page/金井克子.md "wikilink")(初)                       | [ラバーズ・コンチェルト](../Page/ラヴァーズ・コンチェルト.md "wikilink")                               |
 | [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(10) | [ほんきかしら](https://ja.wikipedia.org/wiki/ほんきかしら "wikilink")                       |
 | [江利チエミ](../Page/江利チエミ.md "wikilink")(14)                    | 私だけのあなた                                                                         |
 | [園まり](https://ja.wikipedia.org/wiki/園まり "wikilink")(4)      | [夢は夜ひらく](../Page/夢は夜ひらく.md "wikilink")                                          |

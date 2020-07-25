@@ -66,7 +66,7 @@
 「（）」内は新人公演の配役。氏名の前に「宝塚」、「東京」の文字がなければ両劇場共通。
 
   - ALEX/月読：[真琴つばさ](https://ja.wikipedia.org/wiki/真琴つばさ "wikilink")（[大和悠河](../Page/大和悠河.md "wikilink")）
-  - アイリーン：[檀れい](https://ja.wikipedia.org/wiki/檀れい "wikilink")（[花瀬みずか](https://ja.wikipedia.org/wiki/花瀬みずか "wikilink")）
+  - アイリーン：[檀れい](https://ja.wikipedia.org/wiki/檀れい "wikilink")（[花瀬みずか](../Page/花瀬みずか.md "wikilink")）
   - ブライアン：宝塚：[紫吹淳](../Page/紫吹淳.md "wikilink")、東京：[初風緑](../Page/初風緑.md "wikilink")（宝塚：[霧矢大夢](../Page/霧矢大夢.md "wikilink")、東京：[鳴海じゅん](../Page/鳴海じゅん.md "wikilink")）
   - ハリー：宝塚：初風緑、東京：大和悠河（宝塚：鳴海じゅん、東京：[遼河はるひ](../Page/遼河はるひ.md "wikilink")）
   - ジュード：[汐美真帆](../Page/汐美真帆.md "wikilink")（宝塚：[楠恵華](https://ja.wikipedia.org/wiki/楠恵華 "wikilink")、東京：[研ルイス](https://ja.wikipedia.org/wiki/優雅_\(日本の歌手\) "wikilink")）

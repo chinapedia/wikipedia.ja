@@ -1,7 +1,7 @@
 > この記事は[DAWN IN NIAGARA](https://ja.wikipedia.org/wiki/DAWN_IN_NIAGARA)から翻訳されています。
 
 
-『**DAWN IN NIAGARA**』（ドーン・イン・ナイアガラ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売されたCDボックス・セット『NIAGARA CD BOOK 1』の中の1枚として発表された[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
+『**DAWN IN NIAGARA**』（ドーン・イン・ナイアガラ）は、[1986年](../Page/1986年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売されたCDボックス・セット『NIAGARA CD BOOK 1』の中の1枚として発表された[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 解説
 

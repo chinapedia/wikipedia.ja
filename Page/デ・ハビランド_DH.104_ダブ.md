@@ -11,7 +11,7 @@
 
 ## 日本におけるダブ
 
-日本では日本遊覧航空（その後[藤田航空](../Page/藤田航空.md "wikilink")）、[日本ヘリコプター輸送](https://ja.wikipedia.org/wiki/日本ヘリコプター輸送 "wikilink")（日ペリ）と[極東航空](https://ja.wikipedia.org/wiki/極東航空 "wikilink")（いずれも現在の[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")の前身）が運用していた。ともに国内ローカル路線の主力機として活躍した。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に日ペリが羽田～伊丹路線に貨物便として就航したのが最初であった。乗客数が多くなかったため旅客機としてではなく訓練用や[航空測量](https://ja.wikipedia.org/wiki/航空測量 "wikilink")に活用されるようになった。また[1955年](../Page/1955年.md "wikilink")2月には天候不良で孤立化していた[青ヶ島](../Page/青ヶ島.md "wikilink")へ、[東京都](../Page/東京都.md "wikilink")がチャーターした東洋航空のダブが救援物資を投下した。
+日本では日本遊覧航空（その後[藤田航空](../Page/藤田航空.md "wikilink")）、[日本ヘリコプター輸送](https://ja.wikipedia.org/wiki/日本ヘリコプター輸送 "wikilink")（日ペリ）と[極東航空](https://ja.wikipedia.org/wiki/極東航空 "wikilink")（いずれも現在の[全日本空輸](../Page/全日本空輸.md "wikilink")の前身）が運用していた。ともに国内ローカル路線の主力機として活躍した。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に日ペリが羽田～伊丹路線に貨物便として就航したのが最初であった。乗客数が多くなかったため旅客機としてではなく訓練用や[航空測量](https://ja.wikipedia.org/wiki/航空測量 "wikilink")に活用されるようになった。また[1955年](../Page/1955年.md "wikilink")2月には天候不良で孤立化していた[青ヶ島](../Page/青ヶ島.md "wikilink")へ、[東京都](../Page/東京都.md "wikilink")がチャーターした東洋航空のダブが救援物資を投下した。
 
 また、[日本エアシステム](../Page/日本エアシステム.md "wikilink")の前身である[東亜国内航空](https://ja.wikipedia.org/wiki/東亜国内航空 "wikilink")と、その前身である[東亜航空](../Page/東亜航空.md "wikilink")が本機を[コンベア240](../Page/コンベア240.md "wikilink")や[デ・ハビランド DH.114 ヘロンなどとともに使用していた](../Page/デ・ハビランド_DH.114_ヘロン.md "wikilink")。
 
@@ -49,7 +49,7 @@
 
 ## 関連項目
 
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")
 
 [Category:イギリスの旅客機](https://ja.wikipedia.org/wiki/Category:イギリスの旅客機 "wikilink") [Category:デ・ハビランドの航空機](https://ja.wikipedia.org/wiki/Category:デ・ハビランドの航空機 "wikilink")
 

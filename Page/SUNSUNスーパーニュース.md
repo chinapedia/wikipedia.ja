@@ -50,7 +50,7 @@
   - [林和人](../Page/林和人.md "wikilink")
   - [水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")
   - [斎藤晴江](../Page/斎藤晴江.md "wikilink")
-  - [石田浩子](https://ja.wikipedia.org/wiki/石田浩子 "wikilink")
+  - [石田浩子](../Page/石田浩子.md "wikilink")
   - [中西沙綾](https://ja.wikipedia.org/wiki/中西沙綾 "wikilink")
   - [藤田ゆみ子](https://ja.wikipedia.org/wiki/藤田ゆみ子 "wikilink")
 

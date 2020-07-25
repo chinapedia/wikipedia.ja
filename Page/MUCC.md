@@ -736,7 +736,7 @@ AICL-2896（通常盤）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/朽木の灯_ライヴ_アット_六本木" title="wikilink">朽木の灯 ライヴ アット 六本木</a></strong></p></td>
 <td><p>POCE-6905</p></td>
 <td><p>オリコン週間アルバムチャート初登場131位</p></td>

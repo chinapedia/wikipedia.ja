@@ -165,7 +165,7 @@
 
 <!-- end list -->
 
-  - 平日7時台は[KONOIKEグループ](https://ja.wikipedia.org/wiki/鴻池運輸 "wikilink")、8時台は[MonotaRO](https://ja.wikipedia.org/wiki/MonotaRO "wikilink")、10時は[京セラ](../Page/京セラ.md "wikilink")、12時は[NOLLEY'S](https://ja.wikipedia.org/wiki/NOLLEY'S "wikilink")、15時は[平松剛法律事務所](https://ja.wikipedia.org/wiki/平松剛法律事務所 "wikilink")、それ以外はノンスポンサー。
+  - 平日7時台は[KONOIKEグループ](https://ja.wikipedia.org/wiki/鴻池運輸 "wikilink")、8時台は[MonotaRO](../Page/MonotaRO.md "wikilink")、10時は[京セラ](../Page/京セラ.md "wikilink")、12時は[NOLLEY'S](https://ja.wikipedia.org/wiki/NOLLEY'S "wikilink")、15時は[平松剛法律事務所](https://ja.wikipedia.org/wiki/平松剛法律事務所 "wikilink")、それ以外はノンスポンサー。
   - 土曜5時台・7時台・22時台はノンスポンサー、それ以外の時間は[マウスコンピューター](../Page/マウスコンピューター.md "wikilink")。
   - 日曜5時台・22時台・TOKYO HOT 100内はノンスポンサー、それ以外の時間は[日本電気硝子](../Page/日本電気硝子.md "wikilink")。
 

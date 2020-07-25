@@ -90,7 +90,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権1986" title="wikilink">5</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/ホーム・アンド・アウェー.md" title="wikilink">ホーム&amp;アウェー方式</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 2</strong>(A)<br />

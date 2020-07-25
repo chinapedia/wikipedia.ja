@@ -29,7 +29,7 @@
   - 茨城営業所（[茨城県](../Page/茨城県.md "wikilink")[東茨城郡](../Page/東茨城郡.md "wikilink")[茨城町](../Page/茨城町.md "wikilink")）
   - 群馬営業所（群馬県[前橋市](https://ja.wikipedia.org/wiki/前橋市 "wikilink")）
   - 西群馬営業所（群馬県[渋川市](../Page/渋川市.md "wikilink")）
-  - 長岡営業所（[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）
+  - 長岡営業所（[新潟県](../Page/新潟県.md "wikilink")[長岡市](../Page/長岡市.md "wikilink")）
   - 福島営業所（[福島県](../Page/福島県.md "wikilink")[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")）
   - 山形営業所（[山形県](../Page/山形県.md "wikilink")[天童市](../Page/天童市.md "wikilink")）
   - 栃木出張所（[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")）

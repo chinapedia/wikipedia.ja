@@ -104,7 +104,7 @@ BLASTには実際には複数のプログラムが含まれている。 blastall
 
 ## 参考文献
 
-  - Cynthia Gibas、Per Jambeck、水島洋 (監修・訳) 、明石浩史 (訳) 、 ま たぬき (訳) 『実践 バイオインフォマティクス』 [オライリー・ジャパン](https://ja.wikipedia.org/wiki/オライリー・ジャパン "wikilink")、2002年 ISBN 4-87311-068-8 7章
+  - Cynthia Gibas、Per Jambeck、水島洋 (監修・訳) 、明石浩史 (訳) 、 ま たぬき (訳) 『実践 バイオインフォマティクス』 [オライリー・ジャパン](../Page/オライリー・ジャパン.md "wikilink")、2002年 ISBN 4-87311-068-8 7章
 
 ## 外部リンク
 

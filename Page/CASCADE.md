@@ -140,7 +140,7 @@ Dance Capriccio -Arcade版-（8 bit Mix）<br />
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
-<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/コングラッチェ" title="wikilink">コングラッチェ</a></strong></p></td>
 <td><p>POCH-1903</p></td>
 <td><p>VIVA NICE TASTE（Live at Zepp Tokyo）<br />

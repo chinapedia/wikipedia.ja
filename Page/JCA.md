@@ -6,7 +6,7 @@
   - [日本著作権監視機構](https://ja.wikipedia.org/wiki/日本著作権監視機構 "wikilink")（Japan Copyright Association）\[1\]
   - [市民コンピュータコミュニケーション研究会](https://ja.wikipedia.org/wiki/市民コンピュータコミュニケーション研究会 "wikilink")（Japan Computer Access For Empowerment）\[2\]
   - [日本癌学会](https://ja.wikipedia.org/wiki/日本癌学会 "wikilink")（Japanese Cancer Association）\[3\]
-  - 財団法人[日本サイクリング協会](https://ja.wikipedia.org/wiki/日本サイクリング協会 "wikilink")（Japan Cycling Association）\[4\]
+  - 財団法人[日本サイクリング協会](../Page/日本サイクリング協会.md "wikilink")（Japan Cycling Association）\[4\]
   - [全日本合唱連盟](https://ja.wikipedia.org/wiki/全日本合唱連盟 "wikilink")（Japan Choral Association）\[5\]
   - 財団法人[日本消費者協会](https://ja.wikipedia.org/wiki/日本消費者協会 "wikilink")（Japan Consumers' Association）\[6\]
   - 社団法人[日本缶詰協会](https://ja.wikipedia.org/wiki/日本缶詰協会 "wikilink")（Japan Canners Association）\[7\]

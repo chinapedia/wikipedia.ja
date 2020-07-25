@@ -9,7 +9,7 @@
 
 また、[1962年](../Page/1962年.md "wikilink")の[キューバ危機](../Page/キューバ危機.md "wikilink")では[アメリカ軍](../Page/アメリカ軍.md "wikilink")が[カリブ海](../Page/カリブ海.md "wikilink")に迅速に戦力を展開できたのに対し、[ソビエト連邦軍](../Page/ソビエト連邦軍.md "wikilink")は緊急展開に時間を要したため、ソ連は外交的に優位な立場に立つことができず、キューバからのミサイル基地撤去という結末を迎えた。
 
-こうした事態から空挺軍の装備を抜本的に見直す必要が生じ、[1965年](../Page/1965年.md "wikilink")にヴォルゴグラード・トラクター工場で空挺部隊専用の装甲車両の設計が始まり、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に試作車両が完成。翌[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にはBMD-1として制式化され、量産と配備が開始された。
+こうした事態から空挺軍の装備を抜本的に見直す必要が生じ、[1965年](../Page/1965年.md "wikilink")にヴォルゴグラード・トラクター工場で空挺部隊専用の装甲車両の設計が始まり、[1968年](../Page/1968年.md "wikilink")に試作車両が完成。翌[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にはBMD-1として制式化され、量産と配備が開始された。
 
 ## 設計
 
@@ -27,9 +27,9 @@ BMD-1の設計は、同時期に開発された[BMP-1](../Page/BMP-1.md "wikilin
 
 ## 運用
 
-[BMD-1_in_Afghanistan.jpg](https://ja.wikipedia.org/wiki/File:BMD-1_in_Afghanistan.jpg "fig:BMD-1_in_Afghanistan.jpg")市内におけるソ連空挺軍のBMD-1（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）\]\] 世界でも珍しい空挺専用の装甲車両を保有することで、空挺軍は戦車にも対抗できる攻撃力と機械化による機動力を有するに至った。その展開の機動性から、[アフガニスタン侵攻では先鋒を務めた](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")。
+[BMD-1_in_Afghanistan.jpg](https://ja.wikipedia.org/wiki/File:BMD-1_in_Afghanistan.jpg "fig:BMD-1_in_Afghanistan.jpg")市内におけるソ連空挺軍のBMD-1（[1986年](../Page/1986年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）\]\] 世界でも珍しい空挺専用の装甲車両を保有することで、空挺軍は戦車にも対抗できる攻撃力と機械化による機動力を有するに至った。その展開の機動性から、[アフガニスタン侵攻では先鋒を務めた](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")。
 
-しかし、実際の運用ではBMP-1と同様の主砲の貧弱性や装甲の脆弱性が露呈した。さらに、あまりに窮屈な車内は長時間の乗車には適さず、部隊によってはBMP-1や[BTR-60](../Page/BTR-60.md "wikilink")、[BTR-70](../Page/BTR-70.md "wikilink")に乗り換えるほどであった。こうした戦訓を元に、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には改良型の[BMD-2](../Page/BMD-2.md "wikilink")が採用されている。
+しかし、実際の運用ではBMP-1と同様の主砲の貧弱性や装甲の脆弱性が露呈した。さらに、あまりに窮屈な車内は長時間の乗車には適さず、部隊によってはBMP-1や[BTR-60](../Page/BTR-60.md "wikilink")、[BTR-70](../Page/BTR-70.md "wikilink")に乗り換えるほどであった。こうした戦訓を元に、[1986年](../Page/1986年.md "wikilink")には改良型の[BMD-2](../Page/BMD-2.md "wikilink")が採用されている。
 
 現在でも[ロシア空挺軍](../Page/ロシア空挺軍.md "wikilink")のほか、[CIS諸国で配備されており](../Page/独立国家共同体.md "wikilink")、一部は治安維持に用いられている。旧ソ連以外では、[インド陸軍](https://ja.wikipedia.org/wiki/インド陸軍 "wikilink")などが装備している。 {{-}}
 

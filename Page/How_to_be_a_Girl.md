@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - オリジナル『**[Concentration 20](../Page/Concentration_20.md "wikilink")**』
-  - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
+  - ベスト『**[181920](../Page/181920.md "wikilink")**』（『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）
       - 楽曲を再録・ニューレコーディングで収録。

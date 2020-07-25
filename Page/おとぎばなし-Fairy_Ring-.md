@@ -1,7 +1,7 @@
 > この記事は[おとぎばなし-Fairy Ring-](https://ja.wikipedia.org/wiki/おとぎばなし-Fairy_Ring-)から翻訳されています。
 
 
-『**おとぎばなし-Fairy Ring-**』（おとぎばなし フェアリー・リング）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の30作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。5作目の[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムでもある。
+『**おとぎばなし-Fairy Ring-**』（おとぎばなし フェアリー・リング）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発表された[中島みゆき](../Page/中島みゆき.md "wikilink")の30作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。5作目の[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムでもある。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - 作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")（特記以外）、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
+  - 作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")（特記以外）、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -24,13 +24,13 @@
 4.  **[雪・月・花](../Page/雪・月・花.md "wikilink")**
       - 1998年に[工藤静香](../Page/工藤静香.md "wikilink")に提供した楽曲のセルフカヴァー、詞・曲両方提供した工藤の曲を初めて歌った。[ギター](../Page/ギター.md "wikilink")は、[CORE OF SOULのソン](../Page/CORE_OF_SOUL.md "wikilink")・ルイが参加した。
 5.  **匂いガラス〜安寿子の靴** （作詞：[唐十郎](../Page/唐十郎.md "wikilink")）
-      - [NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1984年](../Page/1984年.md "wikilink")に放送された「安寿子の靴」と[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に放送された「匂いガラス」の主題歌を[メドレー](../Page/メドレー.md "wikilink")形式で収録したもの。[1993年](../Page/1993年.md "wikilink")にリリースされたアルバム『[時代-Time goes around-](../Page/時代-Time_goes_around-.md "wikilink")』に「雨月の使者」が収録されているが、これらは全て作詞はドラマの構成を手掛けた唐が担当し、曲と歌を中島が担当している。
+      - [NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1984年](../Page/1984年.md "wikilink")に放送された「安寿子の靴」と[1986年](../Page/1986年.md "wikilink")に放送された「匂いガラス」の主題歌を[メドレー](../Page/メドレー.md "wikilink")形式で収録したもの。[1993年](../Page/1993年.md "wikilink")にリリースされたアルバム『[時代-Time goes around-](../Page/時代-Time_goes_around-.md "wikilink")』に「雨月の使者」が収録されているが、これらは全て作詞はドラマの構成を手掛けた唐が担当し、曲と歌を中島が担当している。
 6.  **[あの人に似ている](https://ja.wikipedia.org/wiki/あの人に似ている "wikilink")** （作詞・作曲・唄：[さだまさし](../Page/さだまさし.md "wikilink")・中島みゆき）
       - [1994年](../Page/1994年.md "wikilink")に[高倉健](../Page/高倉健.md "wikilink")&[裕木奈江](https://ja.wikipedia.org/wiki/裕木奈江 "wikilink")に提供した楽曲のセルフカヴァー、詞・曲共にさだとの共作。このアルバムでは高倉（男性）のパートをさだが、裕木（女性）のパートを中島が歌いデュエットした形となっている。この曲は男の歌（さだ）・女の歌（中島）がそれぞれ同じコード進行の別メロディーで進行し、サビで一緒になるという複雑な構成になっている。これは、当初さだ・中島で作詞・作曲のどちらかをそれぞれ分担するというオファーになっていたものを、互いに才能を認め合っているさだが「せっかく中島みゆきとやるのだから」と中島に提案し、あえて複雑な構成にしたものである\[1\]。また、この二人でのセルフ・カヴァーは中島の要請によるものである。なお、さだのアルバム『[古くさい恋の唄ばかり](../Page/古くさい恋の唄ばかり.md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）には、さだが自分のパートのみをセルフ・カヴァーしたバージョンが存在する。
 7.  **[みにくいあひるの子](https://ja.wikipedia.org/wiki/みにくいあひるの子_\(研ナオコの曲\) "wikilink")**
       - オリジナルは[研ナオコ](../Page/研ナオコ.md "wikilink")が[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に発表したシングル、B面の「こぬか雨」も中島が楽曲を提供している。
 8.  **愛される花 愛されぬ花**
-      - オリジナルは[三田寛子](../Page/三田寛子.md "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表したシングル「少年たちのように」のカップリングに収録されていた。
+      - オリジナルは[三田寛子](../Page/三田寛子.md "wikilink")が[1986年](../Page/1986年.md "wikilink")に発表したシングル「少年たちのように」のカップリングに収録されていた。
 9.  **裸爪(はだし)のライオン**（作曲：[後藤次利](../Page/後藤次利.md "wikilink")）
       - オリジナルは[工藤静香](../Page/工藤静香.md "wikilink")が[1988年](../Page/1988年.md "wikilink")に発表したミニアルバム「[静香](../Page/静香_\(アルバム\).md "wikilink")」に収録されていた。
 10. **紫の桜**
@@ -40,7 +40,7 @@
 
 ## 演奏者
 
-  - Vocals：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - Vocals：[中島みゆき](../Page/中島みゆき.md "wikilink")
 
 **陽紡ぎ唄**
 

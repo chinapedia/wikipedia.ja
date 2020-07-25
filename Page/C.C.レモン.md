@@ -47,7 +47,7 @@
 
 [2006年](../Page/2006年.md "wikilink")バージョンでは[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")の[加藤茶](../Page/加藤茶.md "wikilink")が歌唱。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")のリニューアル時には再び水前寺の歌うバージョンのサビ部分が使われる。翌2011年には、彼女自身もイメージキャラクター（「ビタミンCトルズ」と言う架空のグループシンガー）として起用され、レンズの濃いサングラスを外し、「あ、せーの」と叫んで、馴染みあるサビ部分を唄う演出がなされた。
 
-  - [2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて[アメリカの国民的アニメ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")』のキャラクターによるCMが複数放映され、ノベルティグッズや懸賞での展開も行われた。
+  - [2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて[アメリカの国民的アニメ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")』のキャラクターによるCMが複数放映され、ノベルティグッズや懸賞での展開も行われた。
 
 <!-- end list -->
 

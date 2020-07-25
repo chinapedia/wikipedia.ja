@@ -83,7 +83,7 @@
 
 ## イメージキャラクター（マックスファクター）
 
-  - [福澤幸雄](../Page/福澤幸雄.md "wikilink")（[1967年](../Page/1967年.md "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）（Max Factor For Men）
+  - [福澤幸雄](../Page/福澤幸雄.md "wikilink")（[1967年](../Page/1967年.md "wikilink") - [1968年](../Page/1968年.md "wikilink")）（Max Factor For Men）
   - [蟇目良](https://ja.wikipedia.org/wiki/蟇目良 "wikilink")（のちに蟇目亮）（Max Factor For Men） - 福澤幸雄の後任。
   - [川原亜矢子](https://ja.wikipedia.org/wiki/川原亜矢子 "wikilink")（[1993年](../Page/1993年.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）
   - [小比類巻かほる](../Page/小比類巻かほる.md "wikilink")（[1994年](../Page/1994年.md "wikilink"))

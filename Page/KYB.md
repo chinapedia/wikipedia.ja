@@ -39,7 +39,7 @@
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）3月 - [鉱山](../Page/鉱山.md "wikilink")用機器の設計・販売会社日本鉱機株式会社を設立。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")に株式上場。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）3月 - 浦和特装車両工場（現：浦和工場）を新設。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 岐阜北分工場（現：岐阜北工場）を新設。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 岐阜北分工場（現：岐阜北工場）を新設。
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）6月 - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の緩衝器生産会社に資本参加。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）
       - 1月 - 熊谷工場を新設。
@@ -53,7 +53,7 @@
       - [代替文=](https://ja.wikipedia.org/wiki/ファイル:KYB_-_All_Products_low.jpg "wikilink")6月 - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の緩衝器生産会社を共同で買収。
       - [8月](../Page/8月.md "wikilink") - [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")に緩衝器の生産会社を合弁で設立。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月 - 商号を**カヤバ工業株式会社**に変更。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）11月 - 米国に緩衝器の生産会社を設立。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）11月 - 米国に緩衝器の生産会社を設立。
   - [1989年](../Page/1989年.md "wikilink")（平成元年）6月 - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に販売会社を設立。
   - [1996年](../Page/1996年.md "wikilink")（平成8年）
       - 1月 - [タイに緩衝器生産会社を合弁で設立](../Page/タイ王国.md "wikilink")。

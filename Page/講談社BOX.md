@@ -107,18 +107,18 @@
 
 **大河ノベル2007**
 
-  - [清涼院流水](../Page/清涼院流水.md "wikilink")『[パーフェクト・ワールド What a perfect world\!](https://ja.wikipedia.org/wiki/パーフェクト・ワールド_What_a_perfect_world! "wikilink")』
+  - [清涼院流水](../Page/清涼院流水.md "wikilink")『[パーフェクト・ワールド What a perfect world\!](../Page/パーフェクト・ワールド_What_a_perfect_world!.md "wikilink")』
   - [西尾維新](../Page/西尾維新.md "wikilink")『[刀語](https://ja.wikipedia.org/wiki/刀語 "wikilink")』
       - 清涼院流水は[執筆](https://ja.wikipedia.org/wiki/執筆 "wikilink")ペースがギリギリだったため、最終巻に近づくにつれて「初[校了](https://ja.wikipedia.org/wiki/校了 "wikilink")」（通常2回行うチェックと修正を1回のみで終えること）などの出版の裏技が行われた。
       - シリーズ完結以降、清涼院流水は2008年の[講談社文庫](../Page/講談社文庫.md "wikilink")版『[彩紋家事件](https://ja.wikipedia.org/wiki/彩紋家事件 "wikilink")III』刊行を最後に講談社での執筆が途絶え、西尾維新も太田克史が講談社BOXから離れた『ファウスト』Vol.8では執筆していない。
 
 **大河ノベル2008**
 
-  - [島田荘司](../Page/島田荘司.md "wikilink")『[Classical Fantasy Within](https://ja.wikipedia.org/wiki/Classical_Fantasy_Within "wikilink")』
+  - [島田荘司](../Page/島田荘司.md "wikilink")『[Classical Fantasy Within](../Page/Classical_Fantasy_Within.md "wikilink")』
       - 第1部が2008年1月から3か月連続刊行。第2部が2008年10月から4か月連続刊行。2009年末までに、計7巻が刊行されている。
       - 2008年に12か月連続刊行が予定されていたが、その後「2008年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、2008年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2009年](../Page/2009年.md "wikilink")[6月](../Page/6月.md "wikilink")」と刊行予定が変更された。その後再度変更となり、2010年に第3部と第4部の刊行が予定されている。
       - 当初は、[奇数](../Page/奇数.md "wikilink")月・[偶数](../Page/偶数.md "wikilink")月で2作品を各6巻とされていたが、刊行開始直前に偶数月刊行の作品（「[進々堂世界一周](https://ja.wikipedia.org/wiki/進々堂世界一周 "wikilink")」）を単独作品とし、奇数月予定だった作品を全12巻に変更することが発表された。
-      - また、『進々堂世界一周』を『[Classical Fantasy Within](https://ja.wikipedia.org/wiki/Classical_Fantasy_Within "wikilink")』の空白期間に充てることがパンドラvol.1 SIDE-B（[袋綴じ](https://ja.wikipedia.org/wiki/袋綴じ "wikilink")）で発表された。
+      - また、『進々堂世界一周』を『[Classical Fantasy Within](../Page/Classical_Fantasy_Within.md "wikilink")』の空白期間に充てることがパンドラvol.1 SIDE-B（[袋綴じ](https://ja.wikipedia.org/wiki/袋綴じ "wikilink")）で発表された。
       - 島田荘司、[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")の他の仕事との折り合いの関係上、2008年1月〜3月に3巻まで刊行され、そこで一旦中断。2008年10月から4巻以降の刊行が再開され、2009年1月の第7巻までで再度中断、2009年9月より再開するという計画に変更になる事が発表された。
       - 「進々堂世界一周」は、特別に2作品のみ『Anniversary50 カッパ・ノベルス創刊50周年記念作品』（光文社、2009年12月）、小説新潮9月号（新潮社、2010年9月）に先行掲載され、[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に『進々堂世界一周 追憶のカシュガル』(ISBN 978-4103252320）が新潮社より発売された。
       - 島田荘司の公認サイトで、島田荘司の大河ノベル開始前の打ち合わせの様子などが分かる\[14\]。
@@ -393,7 +393,7 @@
 </tr>
 <tr class="odd">
 <td><p>島田荘司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Classical_Fantasy_Within" title="wikilink">Classical Fantasy Within</a></p></td>
+<td><p><a href="../Page/Classical_Fantasy_Within.md" title="wikilink">Classical Fantasy Within</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/士郎正宗" title="wikilink">士郎正宗</a></p></td>
 <td><p>大河ノベル2008（既刊8巻、全12巻予定）</p></td>
 </tr>
@@ -423,7 +423,7 @@
 </tr>
 <tr class="even">
 <td><p>清涼院流水</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パーフェクト・ワールド_What_a_perfect_world!" title="wikilink">パーフェクト・ワールド What a perfect world!</a></p></td>
+<td><p><a href="../Page/パーフェクト・ワールド_What_a_perfect_world!.md" title="wikilink">パーフェクト・ワールド What a perfect world!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/梅吉" title="wikilink">梅吉</a></p></td>
 <td><p>大河ノベル2007（全12巻）</p></td>
 </tr>
@@ -720,7 +720,7 @@
 
 ### Powers BOX
 
-[講談社新人賞Powers受賞者の作品](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")、及び[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")掲載作品を出版する専用のレーベルとして2010年11月よりスタート。銀の箱では無く、[講談社ミステリーランド](https://ja.wikipedia.org/wiki/講談社ミステリーランド "wikilink")の様な箱のデザインも作品ごとに違い、かつ表紙の一部が箱の穴から見えるデザインの箱に入っている。一部、穴の空いていないデザインの作品も存在する。
+[講談社新人賞Powers受賞者の作品](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")、及び[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")掲載作品を出版する専用のレーベルとして2010年11月よりスタート。銀の箱では無く、[講談社ミステリーランド](../Page/講談社ミステリーランド.md "wikilink")の様な箱のデザインも作品ごとに違い、かつ表紙の一部が箱の穴から見えるデザインの箱に入っている。一部、穴の空いていないデザインの作品も存在する。
 
 | 著者                                                      | タイトル                                                                                                                                  | イラスト                                                                      | 備考                                                                                              |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |

@@ -28,7 +28,7 @@
     <!-- end list -->
       -
         2ndアルバム『[I wish](../Page/I_wish_\(DEENのアルバム\).md "wikilink")』収録曲。投票第3位。
-5.  **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")**
+5.  **[翼を広げて](../Page/翼を広げて.md "wikilink")**
       - 作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲:織田哲郎　編曲:葉山たけし
     <!-- end list -->
       -

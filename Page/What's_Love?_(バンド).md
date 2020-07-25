@@ -247,7 +247,7 @@
     1.  望郷じょんから with DJ 吉沢 dynamite.jp feat.BUN BUN the MC\[3:21\]
     2.  兄弟船\[2:56\]
     3.  [遠くで汽笛を聞きながら](../Page/遠くで汽笛を聞きながら.md "wikilink")\[4:53\]
-    4.  [星影の小径](https://ja.wikipedia.org/wiki/星影の小径 "wikilink") feat.扇谷一穂\[3:02\]
+    4.  [星影の小径](../Page/星影の小径.md "wikilink") feat.扇谷一穂\[3:02\]
     5.  [古い日記](https://ja.wikipedia.org/wiki/古い日記 "wikilink")\[3:05\]
     6.  銭形平次\[2:58\]
     7.  可愛いヽひとよ\[3:50\]

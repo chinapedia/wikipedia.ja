@@ -21,7 +21,7 @@
   - 金城真一：[沢村一樹](../Page/沢村一樹.md "wikilink")
   - 大崎今日香：[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")　
   - 田中・ジェニー・昌美：[北川弘美](https://ja.wikipedia.org/wiki/北川弘美 "wikilink")　
-  - 金子成美：[有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")　
+  - 金子成美：[有坂来瞳](../Page/有坂来瞳.md "wikilink")　
   - 寒川鉄子：[高田聖子](../Page/高田聖子.md "wikilink")　
   - 八巻まりあ：[藤森夕子](https://ja.wikipedia.org/wiki/藤森夕子 "wikilink")　
   - 小松正志：[石塚義之](../Page/石塚義之.md "wikilink")（[アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")）　

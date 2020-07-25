@@ -347,7 +347,7 @@
 
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
   - [過去のジャニーズ所属者](../Page/過去のジャニーズ所属者.md "wikilink")
-  - [ジャニーズJr.解散グループ (1990年以前)](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\) "wikilink")
+  - [ジャニーズJr.解散グループ (1990年以前)](../Page/ジャニーズJr.解散グループ_\(1990年以前\).md "wikilink")
   - [ジャニーズJr.解散グループ (1990年以降)](../Page/ジャニーズJr.解散グループ_\(1990年以降\).md "wikilink")
   - [ジャニーズJr.解散グループ (2000年以降)](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\) "wikilink")
   - [ジャニーズ関連企画ユニット](../Page/ジャニーズ関連企画ユニット.md "wikilink")

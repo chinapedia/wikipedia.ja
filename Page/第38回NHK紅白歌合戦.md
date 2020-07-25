@@ -88,7 +88,7 @@
 
 [オペラ](../Page/オペラ.md "wikilink")歌手の[佐藤しのぶ](../Page/佐藤しのぶ_\(歌手\).md "wikilink")、[シャンソン](../Page/シャンソン.md "wikilink")歌手の[金子由香利](https://ja.wikipedia.org/wiki/金子由香利 "wikilink")、[ニューミュージック](../Page/ニューミュージック.md "wikilink")からは[谷村新司](../Page/谷村新司.md "wikilink")、[稲垣潤一](../Page/稲垣潤一.md "wikilink")ら実力派歌手が出場し、出演者の顔ぶれは大きく変わった。ほか[由紀さおり](../Page/由紀さおり.md "wikilink")が第29回以来9年ぶり、[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")が第31回以来7年ぶりの復帰となる。黒い交際発覚により前回の出場を急遽辞退した[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")、[山本譲二](../Page/山本譲二.md "wikilink")も揃って2年ぶりの復帰出場を果たした。
 
-これまで紅白の顔として、共に[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで当時史上最多出場中だった[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")（前回まで紅組歌手として30回連続出場）と[三波春夫](../Page/三波春夫.md "wikilink")（前回まで白組歌手として29回連続出場）が、出場者決定の前に辞退を発表した。
+これまで紅白の顔として、共に[1986年](../Page/1986年.md "wikilink")まで当時史上最多出場中だった[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")（前回まで紅組歌手として30回連続出場）と[三波春夫](../Page/三波春夫.md "wikilink")（前回まで白組歌手として29回連続出場）が、出場者決定の前に辞退を発表した。
 
   - 11月6日、島倉が「**30回という区切りを大切にしたい**」として出場辞退を発表\[7\]。
   - 11月25日、三波が「**後進に道を譲りたい**」として出場辞退を発表\[8\]。

@@ -57,7 +57,7 @@
       - [寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")（1993年4月 - 1994年3月）
       - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")（1994年4月 - 1995年3月）
   - 金曜日
-      - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")（ - 1994年9月）
+      - [中島みゆき](../Page/中島みゆき.md "wikilink")（ - 1994年9月）
           -
             前番組「ジョイフルポップ」から引き続き金曜日を担当。
       - [渡辺美里](../Page/渡辺美里.md "wikilink")（1994年10月 - 1995年3月）

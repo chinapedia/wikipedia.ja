@@ -1,7 +1,7 @@
 > この記事は[MERRY X\'MAS IN SUMMER](https://ja.wikipedia.org/wiki/MERRY_X\'MAS_IN_SUMMER)から翻訳されています。
 
 
-「**MERRY X'MAS IN SUMMER**」（メリー・クリスマス・イン・サマー）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**MERRY X'MAS IN SUMMER**」（メリー・クリスマス・イン・サマー）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [1993年](../Page/1993年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に8cmCDで再発し、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発している。
 
@@ -33,7 +33,7 @@
     （作詞・作曲:[松崎由治](https://ja.wikipedia.org/wiki/松崎由治 "wikilink") 編曲:KUWATA BAND）
       -
         [原由子](../Page/原由子.md "wikilink")以外の[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")メンバー出演の[TDK](../Page/TDK.md "wikilink")[カセットテープ](../Page/コンパクトカセット.md "wikilink")『[AD](https://ja.wikipedia.org/wiki/コンパクトカセット#TYPE_I/ノーマル "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink")。
-        [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に発表された[ザ・テンプターズ](../Page/ザ・テンプターズ.md "wikilink")の楽曲のカバー。原曲の歌詞で『アアアア…』となっている部分は、『Ah…』に書き直されている。この楽曲では[GSの雰囲気を残しつつも](../Page/グループ・サウンズ.md "wikilink")、ロックなサウンドにアレンジした曲調になっている。また、原曲の短さから演奏時間は2分9秒と大変短いものになっている。アルバムにはライブアルバムのみの収録であり、スタジオレコーディングバージョンはシングル盤のみに収録。
+        [1968年](../Page/1968年.md "wikilink")に発表された[ザ・テンプターズ](../Page/ザ・テンプターズ.md "wikilink")の楽曲のカバー。原曲の歌詞で『アアアア…』となっている部分は、『Ah…』に書き直されている。この楽曲では[GSの雰囲気を残しつつも](../Page/グループ・サウンズ.md "wikilink")、ロックなサウンドにアレンジした曲調になっている。また、原曲の短さから演奏時間は2分9秒と大変短いものになっている。アルバムにはライブアルバムのみの収録であり、スタジオレコーディングバージョンはシングル盤のみに収録。
 
 ## 参加ミュージシャン
 

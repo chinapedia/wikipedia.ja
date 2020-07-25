@@ -11,7 +11,7 @@
   - 五味妙子：[久我陽子](../Page/久我陽子.md "wikilink")
   - 浜田万里子：[一戸奈未](https://ja.wikipedia.org/wiki/一戸奈未 "wikilink")
   - 青木千春：[内藤陽子](../Page/内藤陽子.md "wikilink")
-  - 小峰幸彦：[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")
+  - 小峰幸彦：[内田朝陽](../Page/内田朝陽.md "wikilink")
   - 二岡孝作：[天野浩成](../Page/天野浩成.md "wikilink")
   - 真鍋周子 : [上原美佐](https://ja.wikipedia.org/wiki/上原美佐_\(1983年生\) "wikilink")
   - 松原亜矢 : [眞野裕子](../Page/眞野裕子.md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[PSK31](https://ja.wikipedia.org/wiki/PSK31)から翻訳されています。
 
 
-**PSK31**（[Phase Shift Keying](../Page/位相偏移変調.md "wikilink"), 31[ボー](../Page/ボー.md "wikilink") の略）とは、主に[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")で用いられている[デジタル](../Page/デジタル.md "wikilink")[変調方式](../Page/変調方式.md "wikilink")である。2局間でリアルタイムの[チャット](../Page/チャット.md "wikilink")を行うために用いられている。[位相変調](../Page/位相変調.md "wikilink")の一つである。
+**PSK31**（[Phase Shift Keying](../Page/位相偏移変調.md "wikilink"), 31[ボー](../Page/ボー.md "wikilink") の略）とは、主に[アマチュア無線](../Page/アマチュア無線.md "wikilink")で用いられている[デジタル](../Page/デジタル.md "wikilink")[変調方式](../Page/変調方式.md "wikilink")である。2局間でリアルタイムの[チャット](../Page/チャット.md "wikilink")を行うために用いられている。[位相変調](../Page/位相変調.md "wikilink")の一つである。
 
 ## 歴史
 

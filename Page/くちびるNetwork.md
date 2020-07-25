@@ -1,7 +1,7 @@
 > この記事は[くちびるNetwork](https://ja.wikipedia.org/wiki/くちびるNetwork)から翻訳されています。
 
 
-「**くちびるNetwork**」（くちびるネットワーク）は、[岡田有希子](../Page/岡田有希子.md "wikilink")の楽曲で、8枚目のシングルである。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月29日](../Page/1月29日.md "wikilink")に発売された。発売元はキャニオン・レコード（現：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）。
+「**くちびるNetwork**」（くちびるネットワーク）は、[岡田有希子](../Page/岡田有希子.md "wikilink")の楽曲で、8枚目のシングルである。[1986年](../Page/1986年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")に発売された。発売元はキャニオン・レコード（現：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）。
 
 ## 概要
 

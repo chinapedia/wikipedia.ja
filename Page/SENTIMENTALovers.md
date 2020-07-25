@@ -45,6 +45,6 @@
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「サッカークラブチーム世界一決定戦　第25回[トヨタカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")」中継テーマソング
     <!-- end list -->
       -
-        カバーアルバム『[Ken's Bar](https://ja.wikipedia.org/wiki/Ken's_Bar "wikilink")』収録のインスト「Intermission」が原型である。
+        カバーアルバム『[Ken's Bar](../Page/Ken's_Bar.md "wikilink")』収録のインスト「Intermission」が原型である。
 
 [Category:平井堅のアルバム](https://ja.wikipedia.org/wiki/Category:平井堅のアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:亀田誠治プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:亀田誠治プロデュースのアルバム "wikilink") [Category:デフスターレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink")

@@ -31,6 +31,6 @@
 5.
 6.
 7.
-8.  [室谷克実](https://ja.wikipedia.org/wiki/室谷克実 "wikilink")・[三橋貴明](https://ja.wikipedia.org/wiki/三橋貴明 "wikilink")共著 『「妄想大国」韓国を笑う』p.92, 93
+8.  [室谷克実](https://ja.wikipedia.org/wiki/室谷克実 "wikilink")・[三橋貴明](../Page/三橋貴明.md "wikilink")共著 『「妄想大国」韓国を笑う』p.92, 93
 9.
 10.

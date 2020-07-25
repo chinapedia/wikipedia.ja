@@ -11,7 +11,7 @@
 
 ## 背景
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")に長渕は[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）や映画『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（1986年）にて共演した女優の[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")と再婚した\[1\]。長渕は入籍のみで済ますつもりであったが、志穂美からの要望により[9月17日](../Page/9月17日.md "wikilink")に[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")が修行した寺の近くにある[奈良県](../Page/奈良県.md "wikilink")[天川村](https://ja.wikipedia.org/wiki/天川村 "wikilink")の[天河大弁財天社](../Page/天河大弁財天社.md "wikilink")にて挙式した\[2\]。また、長渕の意向により志穂美は芸能界を引退、専業主婦となり以降は芸能活動を行っていない\[3\]。その後、[1988年](../Page/1988年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")長渕と志穂美の間に長女となる[文音](../Page/文音.md "wikilink")が誕生し、本作は製作された。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")に長渕は[TBS系テレビドラマ](../Page/TBS系列.md "wikilink")『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）や映画『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（1986年）にて共演した女優の[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")と再婚した\[1\]。長渕は入籍のみで済ますつもりであったが、志穂美からの要望により[9月17日](../Page/9月17日.md "wikilink")に[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")が修行した寺の近くにある[奈良県](../Page/奈良県.md "wikilink")[天川村](https://ja.wikipedia.org/wiki/天川村 "wikilink")の[天河大弁財天社](../Page/天河大弁財天社.md "wikilink")にて挙式した\[2\]。また、長渕の意向により志穂美は芸能界を引退、専業主婦となり以降は芸能活動を行っていない\[3\]。その後、[1988年](../Page/1988年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")長渕と志穂美の間に長女となる[文音](../Page/文音.md "wikilink")が誕生し、本作は製作された。
 
 ## 音楽性
 

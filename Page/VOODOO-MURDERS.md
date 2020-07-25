@@ -49,7 +49,7 @@
 
 2012年12月、[ダイヤモンド・リングのホーム興行に](../Page/ダイヤモンド・リング_\(プロレス\).md "wikilink")"brother"YASSHIが乱入し、レスラー復帰を発表。その後の記者会見にて**[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")**（旧:西村賢吾）とブードゥーマーダーズ再始動を発表。
 
-2013年1月、TARUが復帰会見。同グループへの合流も発表された。2月11日のダイヤモンド・リング・ホーム興行にて、同団体所属の[宮原健斗](https://ja.wikipedia.org/wiki/宮原健斗 "wikilink")、ならびに[KAIENTAI-DOJO](https://ja.wikipedia.org/wiki/KAIENTAI-DOJO "wikilink")所属の[滝澤大志](../Page/滝澤大志.md "wikilink")が合流する。第2期はダイヤモンド・リングの他、[ZERO1](../Page/ZERO1.md "wikilink")、[天龍プロジェクト](https://ja.wikipedia.org/wiki/天龍プロジェクト "wikilink")、[紅白プロレス合戦](https://ja.wikipedia.org/wiki/紅白プロレス合戦 "wikilink")などに参戦している。
+2013年1月、TARUが復帰会見。同グループへの合流も発表された。2月11日のダイヤモンド・リング・ホーム興行にて、同団体所属の[宮原健斗](../Page/宮原健斗.md "wikilink")、ならびに[KAIENTAI-DOJO](https://ja.wikipedia.org/wiki/KAIENTAI-DOJO "wikilink")所属の[滝澤大志](../Page/滝澤大志.md "wikilink")が合流する。第2期はダイヤモンド・リングの他、[ZERO1](../Page/ZERO1.md "wikilink")、[天龍プロジェクト](https://ja.wikipedia.org/wiki/天龍プロジェクト "wikilink")、[紅白プロレス合戦](https://ja.wikipedia.org/wiki/紅白プロレス合戦 "wikilink")などに参戦している。
 
 2014年7月、"brother"YASSHIが新体制となった全日本プロレスのリングに5年ぶりに登場。リング上で参戦を要求すると、ブードゥーマーダーズとしてではなく、"brother"YASSHI個人として出場し、試合終了後、リング上でブードゥーマーダーズを投入すると宣言しアピールした。しかし、全日本プロレスからは[秋山準](../Page/秋山準.md "wikilink")社長名義のコメントで「今の全日本プロレスにはスキャンダルは必要ありません。今後“brother”YASSHI選手をはじめとするVOODOO-MURDERSの全日本プロレス参戦はご遠慮いただきました」\[6\]\[7\]と拒否され、予定されていたYASSHIのシリーズ参戦も白紙となった\[8\]。
 
@@ -380,7 +380,7 @@
 
 #### 元メンバー
 
-  - [宮原健斗](https://ja.wikipedia.org/wiki/宮原健斗 "wikilink") - （2013年2月11日 - 2013年11月）
+  - [宮原健斗](../Page/宮原健斗.md "wikilink") - （2013年2月11日 - 2013年11月）
 
 <!-- end list -->
 

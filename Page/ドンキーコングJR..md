@@ -66,7 +66,7 @@
 <td><p>2</p></td>
 <td><p>DONKEY KONG JUNIOR</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インテレビジョン" title="wikilink">インテレビジョン</a><br />
+<td><p><a href="../Page/インテレビジョン.md" title="wikilink">インテレビジョン</a><br />
 <a href="https://ja.wikipedia.org/wiki/コレコビジョン" title="wikilink">コレコビジョン</a></p></td>
 <td><p>コレコ</p></td>
 <td><p>コレコ</p></td>
@@ -92,7 +92,7 @@
 <td><p>4</p></td>
 <td><p>DONKEY KONG JUNIOR</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BBC_Micro" title="wikilink">BBC Micro</a></p></td>
+<td><p><a href="../Page/BBC_Micro.md" title="wikilink">BBC Micro</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -241,7 +241,7 @@ SRD</p></td>
 
 ### サウンドトラック
 
-  - [ファミコン・ミュージック](https://ja.wikipedia.org/wiki/ファミコン・ミュージック "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
+  - [ファミコン・ミュージック](https://ja.wikipedia.org/wiki/ファミコン・ミュージック "wikilink")（[1986年](../Page/1986年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
     [G.M.O.レコード](https://ja.wikipedia.org/wiki/G.M.O.レコード "wikilink")より発売されたアルバム内の一作品として収録されている。
   - ファミコン 20TH アニバーサリー オリジナル・サウンド・トラックス VOL.1（[2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")）
     [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より発売されたCD内の一作品として収録されている。

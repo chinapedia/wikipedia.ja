@@ -67,11 +67,11 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 
 ### スーパーフェザー級（60.0kg）
 
-| 氏名                                                                | 所属                   | 日付         | 興行                                     |
-| ----------------------------------------------------------------- | -------------------- | ---------- | -------------------------------------- |
-| [水谷秀樹](https://ja.wikipedia.org/wiki/水谷秀樹 "wikilink")             | スクランブル渋谷             | 2006年6月25日 | R.I.S.E. FLASH to CRUSH TOURNAMENT '06 |
-| [長塚崇](https://ja.wikipedia.org/wiki/TURBΦ_\(キックボクサー\) "wikilink") | FUTURE_TRIBE ver.OJ | 2007年6月17日 | R.I.S.E. FLASH to CRUSH TOURNAMENT '07 |
-|                                                                   |                      |            |                                        |
+| 氏名                                                    | 所属                   | 日付         | 興行                                     |
+| ----------------------------------------------------- | -------------------- | ---------- | -------------------------------------- |
+| [水谷秀樹](https://ja.wikipedia.org/wiki/水谷秀樹 "wikilink") | スクランブル渋谷             | 2006年6月25日 | R.I.S.E. FLASH to CRUSH TOURNAMENT '06 |
+| [長塚崇](../Page/TURBΦ_\(キックボクサー\).md "wikilink")        | FUTURE_TRIBE ver.OJ | 2007年6月17日 | R.I.S.E. FLASH to CRUSH TOURNAMENT '07 |
+|                                                       |                      |            |                                        |
 
 **トーナメント**
 
@@ -90,7 +90,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 | - | ----------------------------------------------------------- | ---------------- | ----------------------- | ---- |
 | 初 | [裕樹](https://ja.wikipedia.org/wiki/裕樹 "wikilink")           | リアルディール          | 2010年12月19日 - 2013年1月6日 | 1    |
 | 2 | [イ・ソンヒョン](https://ja.wikipedia.org/wiki/イ・ソンヒョン "wikilink") | 仁川ムビジム           | 2013年1月6日 - (返上)        | 0    |
-| 3 | [水町浩](https://ja.wikipedia.org/wiki/水町浩 "wikilink")         | 士魂村上塾            | 不明- 2016年7月30日          | 0    |
+| 3 | [水町浩](../Page/水町浩.md "wikilink")                            | 士魂村上塾            | 不明- 2016年7月30日          | 0    |
 | 4 | [不可思](https://ja.wikipedia.org/wiki/不可思 "wikilink")         | クロスポイント吉祥寺REBELS | 2016年7月30日 - 継続中        | 0    |
 |   |                                                             |                  |                         |      |
 
@@ -162,7 +162,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 | ----------------------------------------------------------------- | -------- | ----------- | --------------------------------- |
 | [青柳雅英](https://ja.wikipedia.org/wiki/青柳雅英 "wikilink")             | アイアンアックス | 2003年12月23日 | R.I.S.E.ヘビー級トーナメント'03             |
 | [百瀬竜徳](https://ja.wikipedia.org/wiki/百瀬竜徳 "wikilink")             | TARGET   | 2005年6月19日  | R.I.S.E. G-BAZOOKA TOURNAMENT '05 |
-| [アレックス・ロバーツ](https://ja.wikipedia.org/wiki/アレックス・ロバーツ "wikilink") | 空柔拳会館    | 2006年3月26日  | R.I.S.E. G-BAZOOKA TOURNAMENT '06 |
+| [アレックス・ロバーツ](../Page/アレックス・ロバーツ.md "wikilink")                    | 空柔拳会館    | 2006年3月26日  | R.I.S.E. G-BAZOOKA TOURNAMENT '06 |
 | [シング・ジャディブ](https://ja.wikipedia.org/wiki/シング・心・ジャディブ "wikilink") | フリー      | 2011年11月23日 | RISE HEAVY WEIGHT TOURNAMENT2011  |
 |                                                                   |          |             |                                   |
 

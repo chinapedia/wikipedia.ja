@@ -15,7 +15,7 @@
 
 バージョン7.1までのPlatform/Windows SDKには、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")と[IA-64](../Page/IA-64.md "wikilink")コードを出力するVisual C++コンパイラがそれぞれ含まれている。コマンドプロンプトから使用するほか、[Visual C++ 2010](../Page/Microsoft_Visual_C++.md "wikilink") Express Editionと併せて用いることも可能である。
 
-[Visual C++ 2005が公開されるまで](../Page/Microsoft_Visual_C++.md "wikilink")、Platform SDKが64ビット用Visual C++コンパイラを入手する唯一の手段であった。また、標準ライブラリの[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版も付属し、Visual C++ 6付属ライブラリの[IA-64](../Page/IA-64.md "wikilink")版は2003年2月に公開された版から、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版は[Windows Server 2003に対応したPlatform](../Page/Microsoft_Windows_Server_2003.md "wikilink") SDKの版から付属している。なお、両者共にマイクロソフトへ連絡するとVisual C++ .NET 2003付属ライブラリの64ビット版を取り寄せることができる。
+[Visual C++ 2005が公開されるまで](../Page/Microsoft_Visual_C++.md "wikilink")、Platform SDKが64ビット用Visual C++コンパイラを入手する唯一の手段であった。また、標準ライブラリの[64ビット](../Page/64ビット.md "wikilink")版も付属し、Visual C++ 6付属ライブラリの[IA-64](../Page/IA-64.md "wikilink")版は2003年2月に公開された版から、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")版は[Windows Server 2003に対応したPlatform](../Page/Microsoft_Windows_Server_2003.md "wikilink") SDKの版から付属している。なお、両者共にマイクロソフトへ連絡するとVisual C++ .NET 2003付属ライブラリの64ビット版を取り寄せることができる。
 
 ## DirectX SDKとの関連
 

@@ -11,7 +11,7 @@
 ## メンバー
 
   - **市道信義** （いちみち のぶよし、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")-、[大阪府](../Page/大阪府.md "wikilink")[和泉市](../Page/和泉市.md "wikilink")出身、AB型）‐[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")　「いっちゃん」と親しまれていた。
-  - **田中康平** （たなか こうへい、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月26日](../Page/12月26日.md "wikilink")-、大阪府和泉市出身、O型）‐[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")「コーへー」と親しまれていた。
+  - **田中康平** （たなか こうへい、[1986年](../Page/1986年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")-、大阪府和泉市出身、O型）‐[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")「コーへー」と親しまれていた。
   - **古河弘基** （ふるかわ ひろき、1986年[10月7日](../Page/10月7日.md "wikilink")-、大阪府和泉市出身、B型）‐[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス「ふるっぺ」で親しまれていた。
   - **森口貴大** （もりぐち たかひろ、1986年[8月14日](../Page/8月14日.md "wikilink")-、大阪府和泉市出身、AB型）‐[ドラム](../Page/ドラムセット.md "wikilink")・コーラス「森さん」で親しまれていた。
 

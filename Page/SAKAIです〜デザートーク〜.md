@@ -1,7 +1,7 @@
 > この記事は[SAKAIです〜デザートーク〜](https://ja.wikipedia.org/wiki/SAKAIです〜デザートーク〜)から翻訳されています。
 
 
-『**SAKAIです〜デザートーク〜**』（さかいです デザートーク）は、[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")。製作局の日本テレビでは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")まで、毎週月曜 - 金曜 13:30 - 13:55 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**SAKAIです〜デザートーク〜**』（さかいです デザートーク）は、[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")。製作局の日本テレビでは[1986年](../Page/1986年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")まで、毎週月曜 - 金曜 13:30 - 13:55 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 

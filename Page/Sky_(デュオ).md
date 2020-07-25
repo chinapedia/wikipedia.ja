@@ -198,7 +198,7 @@
 1.  夢ひとつ -2010Special-
       -
         「Colantotte」CMソング
-        朝日放送 ナイトinナイト『[今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』4月度EDテーマ
+        朝日放送 ナイトinナイト『[今ちゃんの「実は…」](../Page/今ちゃんの「実は…」.md "wikilink")』4月度EDテーマ
 2.  花と幹 -Orchestra Ver.-
       -
         朝日放送 環境キャンペーン『[ガラスの地球を救え](../Page/ガラスの地球を救え.md "wikilink")』2010テーマソング

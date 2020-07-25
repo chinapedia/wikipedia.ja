@@ -87,7 +87,7 @@
 <!-- end list -->
 
   - [伊達政宗](../Page/伊達政宗.md "wikilink")：[尾上松緑](../Page/尾上松緑_\(2代目\).md "wikilink")（第10回のみ出演）
-  - [伊達忠宗](../Page/伊達忠宗.md "wikilink")：**[林成年](https://ja.wikipedia.org/wiki/林成年 "wikilink")**
+  - [伊達忠宗](../Page/伊達忠宗.md "wikilink")：**[林成年](../Page/林成年.md "wikilink")**
   - [伊達綱宗](../Page/伊達綱宗.md "wikilink")：**尾上菊之助（現・[尾上菊五郎](../Page/尾上菊五郎_\(7代目\).md "wikilink")）**
 
 <!-- end list -->
@@ -98,7 +98,7 @@
 <!-- end list -->
 
   - 与五兵衛（たよの父）：**[花沢徳衛](../Page/花沢徳衛.md "wikilink")**
-  - 洞水：**[辰巳柳太郎](https://ja.wikipedia.org/wiki/辰巳柳太郎 "wikilink")**
+  - 洞水：**[辰巳柳太郎](../Page/辰巳柳太郎.md "wikilink")**
 
 <!-- end list -->
 

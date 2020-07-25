@@ -1,7 +1,7 @@
 > この記事は[Get U\'re Dream](https://ja.wikipedia.org/wiki/Get_U\'re_Dream)から翻訳されています。
 
 
-「**Get U're Dream**」（ゲット・ユア・ドリーム）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の32作目の[シングル](../Page/シングル.md "wikilink")。
+「**Get U're Dream**」（ゲット・ユア・ドリーム）は、[ZARD](../Page/ZARD.md "wikilink")の32作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 

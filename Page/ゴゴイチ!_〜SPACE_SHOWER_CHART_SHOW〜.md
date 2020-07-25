@@ -61,7 +61,7 @@
       - 「スガイチ\!」（[スガシカオ](../Page/スガシカオ.md "wikilink")）…ゴゴイチ\!友の会1発目のアーティスト。
       - 「スネイチ\!」（[スネオヘアー](../Page/スネオヘアー.md "wikilink")）…ゴゴイチ\!友の会2発目アーティスト。
       - 「ソウイチ\!」（[GOING UNDER GROUND及びVo](../Page/GOING_UNDER_GROUND.md "wikilink").の松本素生からの会報）…内容のほとんどが松本が何かを食べている場面。宣伝は一切なしで、間違えてその話題になってしまった時は「新曲は出ないし、ツアーにもいきません。」などと言う。最終回では珍しくギターの弾き語りを披露した。
-      - 「大・中・小イチ\!」（[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")）
+      - 「大・中・小イチ\!」（[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")）
       - 「ツジイチ\!」（[つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink")）
       - 「ドイチ\!」（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカル[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")）
       - 「トウヨウイチ\!」（[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")）…キャッチコピーの「**東洋一**のサウンドマシーン」より。「剣さんはゴゴイチのことを知らないんじゃないか」という疑惑があった。
@@ -96,7 +96,7 @@
   - [11月](../Page/11月.md "wikilink"):[フジファブリック](../Page/フジファブリック.md "wikilink")…メンバーそれぞれが料理を作り今後について語るというもの。
   - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink"):[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")…メンバー2人きりでの忘年会。
   - 2005年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink"):[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")…メンバーの石原主演ドラマ制作。タイトルは「2分40秒」で「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」のパロディー。
-  - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink"):[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")…ギネスブックの記録に挑戦するが失敗に終わる。
+  - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink"):[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")…ギネスブックの記録に挑戦するが失敗に終わる。
   - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink"):[レミオロメン](../Page/レミオロメン.md "wikilink")
   - 4月:[Caravan](../Page/Caravan.md "wikilink")
   - 5月:[ACIDMAN](../Page/ACIDMAN.md "wikilink")…神ノ川キャンプ場でのキャンプ。

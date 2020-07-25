@@ -9,7 +9,7 @@
 
 敷地は元々、沼津駅北口の旧国鉄[沼津機関区](https://ja.wikipedia.org/wiki/沼津機関区 "wikilink")跡地に作られた「[キラメッセぬまづ](https://ja.wikipedia.org/wiki/ふじのくに千本松フォーラム "wikilink")」を含む周辺商業地や沼津駅利用者に対して提供されていた有料[駐車場](../Page/駐車場.md "wikilink")であった。なお、完成後の施設内には1フロア丸々を使用した駐車場が設置されている。
 
-ビルの運営は[大和ハウス工業](../Page/大和ハウス工業.md "wikilink")グループの[大和リース](../Page/大和リース.md "wikilink")が行っている。静岡県内には他に[BiVi藤枝](https://ja.wikipedia.org/wiki/BiVi藤枝 "wikilink")（[藤枝市](../Page/藤枝市.md "wikilink")）があるほか、静岡県外には[BiVi仙台駅東口](../Page/BiVi仙台駅東口.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")）、[BiVi福岡](../Page/BiVi福岡.md "wikilink")（[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）、[BiVi二条](../Page/BiVi二条.md "wikilink")（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")）などの系列施設がある。
+ビルの運営は[大和ハウス工業](../Page/大和ハウス工業.md "wikilink")グループの[大和リース](../Page/大和リース.md "wikilink")が行っている。静岡県内には他に[BiVi藤枝](../Page/BiVi藤枝.md "wikilink")（[藤枝市](../Page/藤枝市.md "wikilink")）があるほか、静岡県外には[BiVi仙台駅東口](../Page/BiVi仙台駅東口.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")）、[BiVi福岡](../Page/BiVi福岡.md "wikilink")（[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）、[BiVi二条](../Page/BiVi二条.md "wikilink")（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")）などの系列施設がある。
 
 しかし、2019年10月4日、同じ沼津市内に[ららぽーと沼津](https://ja.wikipedia.org/wiki/ららぽーと沼津 "wikilink")がオープンしたことが客足が流れ、脅威に晒されている。
 
@@ -65,7 +65,7 @@
 
 ## 関連項目
 
-  - [BiVi藤枝](https://ja.wikipedia.org/wiki/BiVi藤枝 "wikilink")
+  - [BiVi藤枝](../Page/BiVi藤枝.md "wikilink")
   - [BiVi仙台駅東口](../Page/BiVi仙台駅東口.md "wikilink")
   - [BiVi二条](../Page/BiVi二条.md "wikilink")
   - [BiVi福岡](../Page/BiVi福岡.md "wikilink")

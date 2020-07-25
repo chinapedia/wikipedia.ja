@@ -86,7 +86,7 @@ Pidginは当初、[オーバーン大学](../Page/オーバーン大学.md "wiki
 
 ## 関連項目
 
-  - [Kopete](https://ja.wikipedia.org/wiki/Kopete "wikilink")
+  - [Kopete](../Page/Kopete.md "wikilink")
   - [aMSN](https://ja.wikipedia.org/wiki/aMSN "wikilink")
   - [Adium](https://ja.wikipedia.org/wiki/Adium "wikilink") - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")専用のインスタントメッセンジャーソフト
 

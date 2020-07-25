@@ -1,7 +1,7 @@
 > この記事は[電撃G\'s magazine](https://ja.wikipedia.org/wiki/電撃G\'s_magazine)から翻訳されています。
 
 
-『**電撃G's magazine**』（でんげきジーズマガジン）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）が[1992年](../Page/1992年.md "wikilink")から発行している[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")兼[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。右綴じの月刊誌で、発売日は毎月30日である。
+『**電撃G's magazine**』（でんげきジーズマガジン）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）が[1992年](../Page/1992年.md "wikilink")から発行している[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")兼[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。右綴じの月刊誌で、発売日は毎月30日である。
 
 前身の『**電撃PCエンジン**』は表題の通り[PCエンジン](../Page/PCエンジン.md "wikilink")・[PC-FX](../Page/PC-FX.md "wikilink")の専門誌であったが、改題を重ねてハードを問わず主として[家庭用ゲーム機向けの](../Page/コンシューマーゲーム.md "wikilink")[ギャルゲー](../Page/ギャルゲー.md "wikilink")の情報を中心に取り扱うようになり、次いで美少女キャラクターに関するアニメやPCゲームも題材とする総合エンタテインメント誌となった。なお一時期は[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")や[ライトノベル](../Page/ライトノベル.md "wikilink")の連載枠が増加して漫画雑誌的な傾向を強めていた。
 

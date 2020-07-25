@@ -1725,7 +1725,7 @@ SFCD-0210（通常盤）</p></td>
       - 「新宿ナナ」収録。
   - **ロマンチスト〜THE STALIN・遠藤ミチロウTribute Album〜**　（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")）
       - 「オデッセイ・1985・SEX」収録。
-  - **CRUSH\! -90's V-Rock best hit cover songs-**　（[2011年](../Page/2011年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）
+  - **CRUSH\! -90's V-Rock best hit cover songs-**　（[2011年](../Page/2011年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）
       - 「Schweinの椅子」収録。
   - **漆黒の光**　（[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")）
       - 「グリード」（結生）、「地下道に流れる、ある独りの男の「悲痛な叫び」にも似たメロディー」（ガラ）、「翻弄」（健一）、「葬送」（健一）収録。

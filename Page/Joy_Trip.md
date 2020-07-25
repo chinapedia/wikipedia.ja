@@ -15,7 +15,7 @@
 1.  **Joy Trip**
       - 作詞：BENNIE K／作曲：BENNIE K、HAMMER、Mine-Chang／編曲：HAMMER、Mine-Chang
       - レコード会社直営♪サウンドCMソング
-2.  **[SATISFACTION](https://ja.wikipedia.org/wiki/サティスファクション "wikilink")**
+2.  **[SATISFACTION](../Page/サティスファクション.md "wikilink")**
       - 作詞・作曲：[Mick Jagger](../Page/ミック・ジャガー.md "wikilink")、[Keith Richards](../Page/キース・リチャーズ.md "wikilink")／編曲：Mine-Chang
       - au by KDDI CMソング
 

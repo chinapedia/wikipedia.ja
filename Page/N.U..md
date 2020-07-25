@@ -328,7 +328,7 @@
 
 ### アルバム
 
-  - ごあいさつ　[2002年](../Page/2002年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売
+  - ごあいさつ　[2002年](../Page/2002年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売
 
 <!-- end list -->
 

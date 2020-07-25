@@ -9,7 +9,7 @@
 
 ## 経歴
 
-[1974年](../Page/1974年.md "wikilink")頃から[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で自宅録音を開始。当初はカセットやオープンリールテープデッキでの多重録音作品の制作が多かったという。[1977年](../Page/1977年.md "wikilink")に[即興演奏](../Page/即興演奏.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SLOTH](https://ja.wikipedia.org/wiki/SLOTH "wikilink")を結成。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[アバンギャルド](../Page/アバンギャルド.md "wikilink")・[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンド、[ULTRA BIDEを結成](https://ja.wikipedia.org/wiki/ULTRA_BIDE "wikilink")。[ライブハウス](../Page/ライブハウス.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した。
+[1974年](../Page/1974年.md "wikilink")頃から[京都](../Page/京都.md "wikilink")で自宅録音を開始。当初はカセットやオープンリールテープデッキでの多重録音作品の制作が多かったという。[1977年](../Page/1977年.md "wikilink")に[即興演奏](../Page/即興演奏.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SLOTH](https://ja.wikipedia.org/wiki/SLOTH "wikilink")を結成。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[アバンギャルド](../Page/アバンギャルド.md "wikilink")・[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンド、[ULTRA BIDEを結成](https://ja.wikipedia.org/wiki/ULTRA_BIDE "wikilink")。[ライブハウス](../Page/ライブハウス.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")した。
 
 [1979年](../Page/1979年.md "wikilink")に[ノイズバンド](../Page/ノイズミュージック.md "wikilink")、[非常階段を結成](../Page/非常階段_\(バンド\).md "wikilink")\[4\]。ロックの可能性の大部分が試行され尽くした当時、「だれもやっていない、なんだかわからないもの」を求め、ノイズ演奏に行き着いたという\[5\]。
 

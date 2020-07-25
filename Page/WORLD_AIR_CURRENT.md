@@ -1,7 +1,7 @@
 > この記事は[WORLD AIR CURRENT](https://ja.wikipedia.org/wiki/WORLD_AIR_CURRENT)から翻訳されています。
 
 
-**ANA WORLD AIR CURRENT**（エイ・エヌ・エー・ワールド・エア・カレント）は、[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[J-WAVE](../Page/J-WAVE.md "wikilink")で放送している[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。提供は、ANA（[全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")）\[1\]\[2\]。[2015年](../Page/2015年.md "wikilink")4月で放送15周年、2020年4月で放送20周年を迎え、[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")の仲間入りを果たした。
+**ANA WORLD AIR CURRENT**（エイ・エヌ・エー・ワールド・エア・カレント）は、[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[J-WAVE](../Page/J-WAVE.md "wikilink")で放送している[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。提供は、ANA（[全日空](../Page/全日本空輸.md "wikilink")）\[1\]\[2\]。[2015年](../Page/2015年.md "wikilink")4月で放送15周年、2020年4月で放送20周年を迎え、[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")の仲間入りを果たした。
 
 ## 概要
 

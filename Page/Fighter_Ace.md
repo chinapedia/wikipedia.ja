@@ -202,7 +202,7 @@ FA 2.xは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")
 #### 爆撃機
 
   - [ペトリャコーフ Pe-8](https://ja.wikipedia.org/wiki/Pe-8_\(航空機\) "wikilink")
-  - [ペトリャコーフ Pe-2](https://ja.wikipedia.org/wiki/Pe-2_\(航空機\) "wikilink") B型
+  - [ペトリャコーフ Pe-2](../Page/Pe-2_\(航空機\).md "wikilink") B型
   - [イリューシン Il-2 シュトゥルモヴィーク](../Page/Il-2_\(航空機\).md "wikilink") m3型
   - [トゥーポリェフ Tu-2](../Page/Tu-2_\(航空機\).md "wikilink") S型
   - [イリューシン Il-10 シュトゥルモヴィーク](../Page/Il-10_\(航空機\).md "wikilink")

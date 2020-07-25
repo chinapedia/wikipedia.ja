@@ -23,7 +23,7 @@
 
 ### アルバム
 
-  - [Love Song](https://ja.wikipedia.org/wiki/Love_Song_\(riyaのアルバム\) "wikilink")（2005年[8月31日](../Page/8月31日.md "wikilink")発売／[Key Sounds Labelより](../Page/Key_Sounds_Label.md "wikilink")）
+  - [Love Song](../Page/Love_Song_\(riyaのアルバム\).md "wikilink")（2005年[8月31日](../Page/8月31日.md "wikilink")発売／[Key Sounds Labelより](../Page/Key_Sounds_Label.md "wikilink")）
     1.  始まりの坂（作詞・作曲：[麻枝准](../Page/麻枝准.md "wikilink")／編曲：riya）
     2.  蒼の夢（作詞・作曲：麻枝准／編曲：[たくまる](../Page/たくまる.md "wikilink")）
     3.  星なる石（作詞・作曲：麻枝准／編曲：汐凪くじら）

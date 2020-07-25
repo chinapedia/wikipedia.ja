@@ -527,7 +527,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <td><p>暖かなエガオ</p></td>
 <td><p>澤井幸次</p></td>
 <td><p>黒川智之</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下喜光" title="wikilink">山下喜光</a></p></td>
+<td><p><a href="../Page/山下喜光.md" title="wikilink">山下喜光</a></p></td>
 <td><p>6月25日</p></td>
 </tr>
 <tr class="even">
@@ -693,7 +693,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 <td><p>少年のケツイ</p></td>
 <td><p>有江勇樹</p></td>
 <td><p>川面真也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木睦美" title="wikilink">佐々木睦美</a></p></td>
+<td><p><a href="../Page/佐々木睦美.md" title="wikilink">佐々木睦美</a></p></td>
 <td><p>5月27日</p></td>
 </tr>
 <tr class="even">
@@ -967,7 +967,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 :\*「ツバサ・クロニクル 第2シリーズ V」（2006年[12月22日](../Page/12月22日.md "wikilink")）
 
-:\*「ツバサ・クロニクル 第2シリーズ VI」（[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）
+:\*「ツバサ・クロニクル 第2シリーズ VI」（[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）
 
 :\*「ツバサ・クロニクル 第2シリーズ VII」（2007年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")）
 
@@ -1175,7 +1175,7 @@ DVDが[2006年](../Page/2006年.md "wikilink")[2月25日](../Page/2月25日.md "
 
 ## ドラマCD
 
-  - [私立堀鐔学園](https://ja.wikipedia.org/wiki/私立堀鐔学園 "wikilink")
+  - [私立堀鐔学園](../Page/私立堀鐔学園.md "wikilink")
       - 『[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")』とのコラボレーションによる[ドラマCD](../Page/ドラマCD.md "wikilink")。両作の主立ったキャラはほとんど登場する平和な学園物語。
 
 ## 脚注
@@ -1200,7 +1200,7 @@ DVDが[2006年](../Page/2006年.md "wikilink")[2月25日](../Page/2月25日.md "
 1.  平行して存在するも選択次第では直接繋がる可能性を持つ世界
 2.  タイトルロゴ上では『ツバサ・クロニクル〜年代記〜』とされており「〜年代記〜」の文言はメインタイトルの下にふた回り以上小さい文字で書かれている。
 3.  テレビアニメと同様、タイトルロゴに「〜年代記〜」の表記があるが、公式サイトや映画情報サイトでは省略されている。
-4.  ODA付属の初回限定版にはドラマCD『[私立堀鐔学園](https://ja.wikipedia.org/wiki/私立堀鐔学園 "wikilink")』全員プレゼント用応募券が付加されていた。
+4.  ODA付属の初回限定版にはドラマCD『[私立堀鐔学園](../Page/私立堀鐔学園.md "wikilink")』全員プレゼント用応募券が付加されていた。
 5.  第2期18話に登場したケルベロス（仮の姿）のみ、[原典と同じく](../Page/カードキャプターさくら.md "wikilink")[久川綾](../Page/久川綾.md "wikilink")が担当している。
 6.
 7.

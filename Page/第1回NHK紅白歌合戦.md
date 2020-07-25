@@ -49,7 +49,7 @@
   - 後の紅白とは異なり、今回では放送前に出場歌手の曲目や曲順は公表されなかった。これは、曲目や曲順を直前まで伏せることで、聴取者の関心や出演者の対抗意識を高めることが狙いであった。対抗戦形式を意識し、紅組キャプテンの[渡辺はま子](../Page/渡辺はま子.md "wikilink")、白組キャプテンの[藤山一郎](../Page/藤山一郎.md "wikilink")がそれぞれ相手の出方を見ながら誰に何を歌わせるかを決めるというものだった\[3\]。そのため放送開始後は応援の電話がNHKに殺到し、近江の「[湯の町エレジー](../Page/湯の町エレジー.md "wikilink")」歌唱時にはNHKの電話回線がパンクする程の応援電話があったという\[4\]。『[報知新聞](../Page/報知新聞.md "wikilink")』は別の歌唱曲を掲載しており、
       - [赤坂小梅](https://ja.wikipedia.org/wiki/赤坂小梅 "wikilink") - 「[浅間の煙](https://ja.wikipedia.org/wiki/浅間の煙 "wikilink")」
       - [暁テル子](../Page/暁テル子.md "wikilink") - 「[ミネソタの卵売り](https://ja.wikipedia.org/wiki/ミネソタの卵売り "wikilink")」
-      - [二葉あき子](../Page/二葉あき子.md "wikilink") - 「[フランチェスカの鐘](https://ja.wikipedia.org/wiki/フランチェスカの鐘 "wikilink")」
+      - [二葉あき子](../Page/二葉あき子.md "wikilink") - 「[フランチェスカの鐘](../Page/フランチェスカの鐘.md "wikilink")」
       - [楠木繁夫](../Page/楠木繁夫.md "wikilink") - 「[紫匂う地平線](https://ja.wikipedia.org/wiki/紫匂う地平線 "wikilink")」
       - [東海林太郎](../Page/東海林太郎.md "wikilink") - 「[国境の町](https://ja.wikipedia.org/wiki/国境の町_\(曲\) "wikilink")」
       - [林伊佐緒](../Page/林伊佐緒.md "wikilink") - 「[ダンスパーティーの夜](https://ja.wikipedia.org/wiki/ダンスパーティーの夜 "wikilink")」

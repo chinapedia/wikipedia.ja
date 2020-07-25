@@ -32,7 +32,7 @@
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink") (CDシングルのカットアウト版)
   - [青春歌年鑑 1988](../Page/青春歌年鑑.md "wikilink") (EPのフェードアウト版)
   - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink") (Expanded Version)
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (EPのフェードアウト版)
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink") (EPのフェードアウト版)
   - [TK BOX 〜TETSUYA KOMURO HIT HISTORY〜](https://ja.wikipedia.org/wiki/TK_BOX_〜TETSUYA_KOMURO_HIT_HISTORY〜 "wikilink") (CDシングルのカットアウト版)
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink") (EPのフェードアウト版)
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)

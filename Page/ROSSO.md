@@ -14,7 +14,7 @@
 ## メンバー
 
   - [チバユウスケ](../Page/チバユウスケ.md "wikilink")
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")生まれ。全楽曲の作詞を手掛ける。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[1968年](../Page/1968年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")生まれ。全楽曲の作詞を手掛ける。
     元[THEE MICHELLE GUN ELEPHANTのメンバー](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")。
   - [照井利幸](../Page/照井利幸.md "wikilink")（てるい としゆき）
     [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1964年](../Page/1964年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")生まれ。

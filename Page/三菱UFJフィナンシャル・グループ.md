@@ -1,7 +1,7 @@
 > この記事は[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ)から翻訳されています。
 
 
-**株式会社三菱UFJフィナンシャル・グループ**（みつびしユーエフジェイフィナンシャルグループ、、略称: **MUFG**）は、日本の[金融持株会社](../Page/金融持株会社.md "wikilink")であり、[TOPIX Core30の構成銘柄の一つである](https://ja.wikipedia.org/wiki/TOPIX_Core30 "wikilink")。
+**株式会社三菱UFJフィナンシャル・グループ**（みつびしユーエフジェイフィナンシャルグループ、、略称: **MUFG**）は、日本の[金融持株会社](../Page/金融持株会社.md "wikilink")であり、[TOPIX Core30の構成銘柄の一つである](../Page/TOPIX_Core30.md "wikilink")。
 
 また、子会社の[企業](../Page/企業.md "wikilink")で構成する企業集団も「三菱UFJフィナンシャル・グループ」（略称「MUFG」）と称する。上場銘柄としての略称は、「三菱UFJ」を使用している。
 
@@ -102,7 +102,7 @@
       - [ジャルカード](https://ja.wikipedia.org/wiki/ジャルカード "wikilink")
       - [東京クレジットサービス](../Page/東京クレジットサービス.md "wikilink")（旧東京銀行系のため、[VJA](../Page/VJA.md "wikilink")に加盟）
   - [ファイナンス](https://ja.wikipedia.org/wiki/ファイナンス "wikilink")
-      - [日本住宅無尽](https://ja.wikipedia.org/wiki/日本住宅無尽 "wikilink")（[無尽会社](../Page/無尽会社.md "wikilink")）
+      - [日本住宅無尽](../Page/日本住宅無尽.md "wikilink")（[無尽会社](../Page/無尽会社.md "wikilink")）
   - [不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")
       - [三菱UFJ不動産販売](../Page/三菱UFJ不動産販売.md "wikilink")
   - [債権回収](../Page/債権回収会社.md "wikilink")

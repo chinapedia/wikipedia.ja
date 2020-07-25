@@ -81,7 +81,7 @@
 ## スタッフ
 
   - 構成：[小山薫堂](../Page/小山薫堂.md "wikilink")、[山田美保子](../Page/山田美保子.md "wikilink")
-  - 演出：[田中経一](https://ja.wikipedia.org/wiki/田中経一 "wikilink")、[杉本達](https://ja.wikipedia.org/wiki/杉本達 "wikilink")
+  - 演出：[田中経一](../Page/田中経一.md "wikilink")、[杉本達](https://ja.wikipedia.org/wiki/杉本達 "wikilink")
   - ディレクター：[石川陽](https://ja.wikipedia.org/wiki/石川陽 "wikilink")、[市島晃生](https://ja.wikipedia.org/wiki/市島晃生 "wikilink")
   - スペシャルアドバイザー：[糸井重里](../Page/糸井重里.md "wikilink")七（七七七）、[松本方哉](../Page/松本方哉.md "wikilink")
   - エグゼクティブ・プロデューサー：金光修（フジテレビ）

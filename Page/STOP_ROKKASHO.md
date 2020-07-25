@@ -31,7 +31,7 @@
 
   - [原子力撤廃](../Page/原子力撤廃.md "wikilink")
   - [六ヶ所再処理工場](../Page/六ヶ所再処理工場.md "wikilink")
-  - [六ヶ所村核燃料再処理事業反対運動](https://ja.wikipedia.org/wiki/六ヶ所村核燃料再処理事業反対運動 "wikilink")
+  - [六ヶ所村核燃料再処理事業反対運動](../Page/六ヶ所村核燃料再処理事業反対運動.md "wikilink")
 
 ## 外部リンク
 

@@ -165,7 +165,7 @@
 
 ### 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に『[ビー・バップ・ハイスクール 高校与太郎哀歌](../Page/ビー・バップ・ハイスクール_高校与太郎哀歌.md "wikilink")』との併映として[セントラルアーツ](https://ja.wikipedia.org/wiki/セントラルアーツ "wikilink")製作\[2\]・[東映](../Page/東映.md "wikilink")配給で映画化。
+[1986年](../Page/1986年.md "wikilink")に『[ビー・バップ・ハイスクール 高校与太郎哀歌](../Page/ビー・バップ・ハイスクール_高校与太郎哀歌.md "wikilink")』との併映として[セントラルアーツ](https://ja.wikipedia.org/wiki/セントラルアーツ "wikilink")製作\[2\]・[東映](../Page/東映.md "wikilink")配給で映画化。
 
 #### 製作
 

@@ -304,7 +304,7 @@ CMナレーションは、[アムロ・レイ](../Page/アムロ・レイ.md "wi
 ## 関連項目
 
   - [機動戦士ガンダムΖΖ外伝 ジオンの幻陽](../Page/機動戦士ガンダムΖΖ外伝_ジオンの幻陽.md "wikilink")
-  - [ETERNAL WIND〜ほほえみは光る風の中〜](https://ja.wikipedia.org/wiki/ETERNAL_WIND〜ほほえみは光る風の中〜 "wikilink") - ゲームエンディングテーマ曲
+  - [ETERNAL WIND〜ほほえみは光る風の中〜](../Page/ETERNAL_WIND〜ほほえみは光る風の中〜.md "wikilink") - ゲームエンディングテーマ曲
 
 ## 外部リンク
 

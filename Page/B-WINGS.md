@@ -7,7 +7,7 @@
 
 自機である通称「B-WING」ことFX-1を操作し、奪われたウイングを奪還するためゴブナスを倒すのを目的としている。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下、FC）に移植された。FC版は[2006年](../Page/2006年.md "wikilink")に[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")にて、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にWindows用ソフトとして[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
+[1986年](../Page/1986年.md "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下、FC）に移植された。FC版は[2006年](../Page/2006年.md "wikilink")に[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")にて、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にWindows用ソフトとして[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 アーケード版は[2003年](../Page/2003年.md "wikilink")に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")の携帯電話アプリゲームとして配信された。
 

@@ -1,7 +1,7 @@
 > この記事は[魔法のiらんど](https://ja.wikipedia.org/wiki/魔法のiらんど)から翻訳されています。
 
 
-**魔法のiらんど**（まほうのあいらんど）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（AMW）が運営する小説サイト投稿サイト。過去には小説投稿以外のサービスも提供していた。
+**魔法のiらんど**（まほうのあいらんど）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（AMW）が運営する小説サイト投稿サイト。過去には小説投稿以外のサービスも提供していた。
 
 ## 沿革
 
@@ -65,7 +65,7 @@
 
 2007年1月に[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")と月刊漫画雑誌『月刊 COMIC魔法のiらんど』\[18\]を創刊。2010年9月号休刊。単行本は「ジュールコミックス魔法のiらんど」レーベルから刊行。
 
-双葉社とは別のコミカライズ媒体として[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")から「魔法のiらんどコミックス」レーベルが2011年から刊行されている。
+双葉社とは別のコミカライズ媒体として[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")から「魔法のiらんどコミックス」レーベルが2011年から刊行されている。
 
 ## 著名な投稿作
 

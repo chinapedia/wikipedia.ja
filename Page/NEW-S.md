@@ -56,7 +56,7 @@
 
 [Category:T-SQUAREのアルバム](https://ja.wikipedia.org/wiki/Category:T-SQUAREのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink")
 
-1.  [熊谷美広](https://ja.wikipedia.org/wiki/熊谷美広 "wikilink") 監修 『ディスク・ガイド・シリーズ No.1 フュージョン』 [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")、[2000年](../Page/2000年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")初版発行、ISBN 4-401-61649-9、111頁。
+1.  [熊谷美広](../Page/熊谷美広.md "wikilink") 監修 『ディスク・ガイド・シリーズ No.1 フュージョン』 [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")、[2000年](../Page/2000年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")初版発行、ISBN 4-401-61649-9、111頁。
 2.
 3.
 4.  このアルバムのためのツアーでも、代表曲である「TRUTH」がソプラノ・サックスで演奏されている。

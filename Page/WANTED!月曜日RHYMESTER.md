@@ -91,7 +91,7 @@
   - [嶋野百恵](../Page/嶋野百恵.md "wikilink")
   - [Scoobie Do](../Page/Scoobie_Do.md "wikilink")
   - [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - [Romancrew](../Page/Romancrew.md "wikilink")
   - DJ KEN-BO
   - DJ URATA

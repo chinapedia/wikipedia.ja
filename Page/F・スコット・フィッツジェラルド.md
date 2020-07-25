@@ -59,7 +59,7 @@
 
 ゼルダは[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[アッシュヴィルの療養施設に入所していたが](https://ja.wikipedia.org/wiki/アシュビル_\(ノースカロライナ州\) "wikilink")、[1948年](../Page/1948年.md "wikilink")に起きた施設の火事によって亡くなった。ふたりの遺体は現在[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックヴィルの墓地に埋葬されている](https://ja.wikipedia.org/wiki/ロックビル_\(メリーランド州\) "wikilink")。
 
-娘スコティーは作家のほか、[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")として『[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")』や『[ザ・ニューヨーカー](../Page/ザ・ニューヨーカー.md "wikilink")』等で活動し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に64歳で死去した。
+娘スコティーは作家のほか、[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")として『[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")』や『[ザ・ニューヨーカー](../Page/ザ・ニューヨーカー.md "wikilink")』等で活動し、[1986年](../Page/1986年.md "wikilink")に64歳で死去した。
 
 ## 作品
 

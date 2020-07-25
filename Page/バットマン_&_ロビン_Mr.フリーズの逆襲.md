@@ -177,7 +177,7 @@
 </tr>
 <tr class="even">
 <td><p>リー博士（天文台の科学者）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ポール・チャン" title="wikilink">マイケル・ポール・チャン</a><br />
+<td><p><a href="../Page/マイケル・ポール・チャン.md" title="wikilink">マイケル・ポール・チャン</a><br />
 （カメオ出演）</p></td>
 <td><p><a href="../Page/石井隆夫.md" title="wikilink">石井隆夫</a></p></td>
 </tr>
@@ -186,7 +186,7 @@
 <td></td>
 <td><p><a href="../Page/佐藤しのぶ_(声優).md" title="wikilink">佐藤しのぶ</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉田幸紘" title="wikilink">吉田幸紘</a><br />
-<a href="https://ja.wikipedia.org/wiki/津田真澄" title="wikilink">津田真澄</a><br />
+<a href="../Page/津田真澄.md" title="wikilink">津田真澄</a><br />
 <a href="../Page/沢海陽子.md" title="wikilink">沢海陽子</a><br />
 <a href="../Page/翔香.md" title="wikilink">岡本章子</a><br />
 <a href="../Page/大黒和広.md" title="wikilink">大黒和広</a><br />

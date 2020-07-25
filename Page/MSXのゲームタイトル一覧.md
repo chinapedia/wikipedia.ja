@@ -910,7 +910,7 @@
     [ハイドライド](https://ja.wikipedia.org/wiki/ハイドライド "wikilink")II（ROM）
   - アイレム販売
     [スペランカー](../Page/スペランカー.md "wikilink")（ROM）
-    [10ヤードファイト](https://ja.wikipedia.org/wiki/10ヤードファイト "wikilink")（ROM）
+    [10ヤードファイト](../Page/10ヤードファイト.md "wikilink")（ROM）
   - アクティビジョン
     [アイドロン](https://ja.wikipedia.org/wiki/アイドロン "wikilink")（ROM）
   - アスキー
@@ -1197,7 +1197,7 @@
     [聖女伝説](../Page/聖女伝説.md "wikilink")（TAPE/DISK）
 
   - コナミ
-    [ウシャス](https://ja.wikipedia.org/wiki/ウシャス_\(ゲーム\) "wikilink")（ROM）
+    [ウシャス](../Page/ウシャス_\(ゲーム\).md "wikilink")（ROM）
 
     [F1スピリット](https://ja.wikipedia.org/wiki/F1スピリット "wikilink")（ROM）
 
@@ -1215,7 +1215,7 @@
 
     [火の鳥 鳳凰編](../Page/火の鳥_鳳凰編_\(MSX\).md "wikilink")（ROM）
 
-    [魔城伝説II ガリウスの迷宮](https://ja.wikipedia.org/wiki/魔城伝説II_ガリウスの迷宮 "wikilink")（ROM）\[3\]
+    [魔城伝説II ガリウスの迷宮](../Page/魔城伝説II_ガリウスの迷宮.md "wikilink")（ROM）\[3\]
 
     [メタルギア](../Page/メタルギア.md "wikilink")（[7月13日](../Page/7月13日.md "wikilink")、ROM）★
 
@@ -1523,7 +1523,7 @@
     Fantasy Dream（DISK）
 
   - アイレム販売
-    [R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")（12月、ROM）
+    [R-TYPE](../Page/R-TYPE.md "wikilink")（12月、ROM）
 
   - アクティビジョン/ポニーキャニオン
 
@@ -1967,7 +1967,7 @@
     パチプロ伝説（4月22日、ROM）
     [田代まさしのプリンセスがいっぱい](../Page/田代まさしのプリンセスがいっぱい.md "wikilink")（5月26日、DISK）
   - HARD
-    [はっちゃけあやよさん](https://ja.wikipedia.org/wiki/はっちゃけあやよさん "wikilink")（DISK）
+    [はっちゃけあやよさん](../Page/はっちゃけあやよさん.md "wikilink")（DISK）
     美少女コントロール（7月21日、DISK）
     せまってみたい（12月5日、DISK）
   - KGD

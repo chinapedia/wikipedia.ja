@@ -5,7 +5,7 @@
 
 ## 概要・コンセプト
 
-ThinkPad RシリーズはThinkPadの中でも低価格・エントリーモデルとして[2001年](../Page/2001年.md "wikilink")10月に最初の製品が発売された。しかし、R5X（[Xには0、1、2の順で数字が入る。以下同。](https://ja.wikipedia.org/wiki/ThinkPad#アルファベット1文字とアラビア数字2桁シリーズ "wikilink")）系以降は[スタンダード](../Page/スタンダード.md "wikilink")モデルとされている。基本的には14.1[インチ](../Page/インチ.md "wikilink")または15インチの[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")で、[A4サイズ筐体の](../Page/紙の寸法.md "wikilink")2[スピンドル](https://ja.wikipedia.org/wiki/スピンドル "wikilink")ノートパソコンである。
+ThinkPad RシリーズはThinkPadの中でも低価格・エントリーモデルとして[2001年](../Page/2001年.md "wikilink")10月に最初の製品が発売された。しかし、R5X（[Xには0、1、2の順で数字が入る。以下同。](https://ja.wikipedia.org/wiki/ThinkPad#アルファベット1文字とアラビア数字2桁シリーズ "wikilink")）系以降は[スタンダード](../Page/スタンダード.md "wikilink")モデルとされている。基本的には14.1[インチ](../Page/インチ.md "wikilink")または15インチの[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")で、[A4サイズ筐体の](../Page/紙の寸法.md "wikilink")2[スピンドル](../Page/スピンドル.md "wikilink")ノートパソコンである。
 
 R30では[マザーボード](../Page/マザーボード.md "wikilink")に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")互換[チップセット](../Page/チップセット.md "wikilink")を用いたり、現在に至るまで大半のモデルで[グラフィック](../Page/グラフィック.md "wikilink")[統合チップセットを用いるなど](https://ja.wikipedia.org/wiki/チップセット#統合チップセット "wikilink")、[コスト](https://ja.wikipedia.org/wiki/コスト "wikilink")ダウンを主眼においていた。
 

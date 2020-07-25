@@ -5,11 +5,11 @@
 
 [毎日コミュニケーションズ](https://ja.wikipedia.org/wiki/毎日コミュニケーションズ "wikilink")（現・[マイナビ](../Page/マイナビ.md "wikilink")）より[1999年](../Page/1999年.md "wikilink")10月に創刊。同種の雑誌ではかなり後発だが、A4判を採用してビジュアルを重視した誌面と同じ出版社の『[GREAT SATURN Z](https://ja.wikipedia.org/wiki/GREAT_SATURN_Z "wikilink")』にも共通していた、業界周辺の諸問題を編集者の足で追跡取材する形式の記事が特徴的だった。
 
-やがて、[有害図書](../Page/有害図書.md "wikilink")に関する[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")チェーンの規制強化の動きなどが影響してきた[2002年](../Page/2002年.md "wikilink")4月には、MYCOMが100%出資の子会社・[MCプレス](https://ja.wikipedia.org/wiki/MCプレス "wikilink")を新設して本誌の発行もそちらへ移行されたが、業界自体の不振もあり[2004年](../Page/2004年.md "wikilink")5月に一旦、休刊した。
+やがて、[有害図書](../Page/有害図書.md "wikilink")に関する[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")チェーンの規制強化の動きなどが影響してきた[2002年](../Page/2002年.md "wikilink")4月には、MYCOMが100%出資の子会社・[MCプレス](../Page/MCプレス.md "wikilink")を新設して本誌の発行もそちらへ移行されたが、業界自体の不振もあり[2004年](../Page/2004年.md "wikilink")5月に一旦、休刊した。
 
 その後、[宙出版](../Page/宙出版.md "wikilink")へ移籍した編集スタッフにより2004年10月に同社から復刊。それに加え、同年に『Advanced P-mate』への改名、また新たに『Comic P-mate』を発刊するなど意欲的な活動を見せたが、宙出版が女性向け商品に経営資源を集中する方針へ転換したことに伴い、[2005年](../Page/2005年.md "wikilink")12月で休刊した。
 
-なお、表紙原画はMYCOM・MCプレス時代は[門井亜矢](../Page/門井亜矢.md "wikilink")、宙出版時代は[りんしん](https://ja.wikipedia.org/wiki/りんしん "wikilink")が担当していた。
+なお、表紙原画はMYCOM・MCプレス時代は[門井亜矢](../Page/門井亜矢.md "wikilink")、宙出版時代は[りんしん](../Page/りんしん.md "wikilink")が担当していた。
 
 ## 外部リンク
 

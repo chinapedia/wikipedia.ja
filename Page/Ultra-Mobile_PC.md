@@ -23,7 +23,7 @@
 
 概ね下記のガイドラインに準ずればUMPCと呼ばれる。
 
-  - 超低消費電力のx86アーキテクチャのCPU・チップセットを搭載。（[Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")、[Intel A100シリーズ](https://ja.wikipedia.org/wiki/Intel_A100 "wikilink")、[VIA C7](../Page/VIA_C7.md "wikilink")、[AMD Geodeなど](../Page/Geode.md "wikilink")）
+  - 超低消費電力のx86アーキテクチャのCPU・チップセットを搭載。（[Intel Atom](../Page/Intel_Atom.md "wikilink")、[Intel A100シリーズ](../Page/Intel_A100.md "wikilink")、[VIA C7](../Page/VIA_C7.md "wikilink")、[AMD Geodeなど](../Page/Geode.md "wikilink")）
       -
         （インテルのガイドラインでは超低電圧版[Pentium Mもしくは](../Page/Pentium_M.md "wikilink")[Celeron Mプロセッサ搭載](https://ja.wikipedia.org/wiki/Celeron_M "wikilink")）
   - 9型以下の[タッチパネル](../Page/タッチパネル.md "wikilink")機能を搭載した液晶ディスプレイ。

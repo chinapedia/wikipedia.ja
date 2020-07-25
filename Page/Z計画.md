@@ -5,7 +5,7 @@
 
 ## 背景
 
-[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の終結後、ドイツ軍は[ヴェルサイユ条約](../Page/ヴェルサイユ条約.md "wikilink")の規定を受けるようになった。海軍では[装甲艦](../Page/装甲艦.md "wikilink")6隻、[巡洋艦](../Page/巡洋艦.md "wikilink")6隻、[駆逐艦](../Page/駆逐艦.md "wikilink")12隻、[魚雷艇](../Page/魚雷艇.md "wikilink")12隻の保有に制限された。[大洋艦隊](https://ja.wikipedia.org/wiki/大洋艦隊 "wikilink") (Hochseeflotte) に所属していた大部分の艦艇は、[スカパ・フローで自沈するか廃棄されてしまい](https://ja.wikipedia.org/wiki/スカパ・フローでのドイツ艦隊の自沈 "wikilink")、海軍を拡張するには新しく建造する必要があった。
+[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の終結後、ドイツ軍は[ヴェルサイユ条約](../Page/ヴェルサイユ条約.md "wikilink")の規定を受けるようになった。海軍では[装甲艦](../Page/装甲艦.md "wikilink")6隻、[巡洋艦](../Page/巡洋艦.md "wikilink")6隻、[駆逐艦](../Page/駆逐艦.md "wikilink")12隻、[魚雷艇](../Page/魚雷艇.md "wikilink")12隻の保有に制限された。[大洋艦隊](../Page/大洋艦隊.md "wikilink") (Hochseeflotte) に所属していた大部分の艦艇は、[スカパ・フローで自沈するか廃棄されてしまい](https://ja.wikipedia.org/wiki/スカパ・フローでのドイツ艦隊の自沈 "wikilink")、海軍を拡張するには新しく建造する必要があった。
 
 ## 経緯
 

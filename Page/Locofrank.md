@@ -1,7 +1,7 @@
 > この記事は[Locofrank](https://ja.wikipedia.org/wiki/Locofrank)から翻訳されています。
 
 
-**locofrank**（ロコフランク）は、[大阪](../Page/大阪.md "wikilink")在住の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1998年「相撲茶屋」という名前で結成。2003年現在の名前に改名。歌詞は全て英語である。[Limited Records](https://ja.wikipedia.org/wiki/Limited_Records "wikilink")、[773Four RECORDS所属](https://ja.wikipedia.org/wiki/773Four_RECORDS "wikilink")。インディーズ活動を長らく続けていたが、ブランド名として使用してきた**[773Four RECORDS](https://ja.wikipedia.org/wiki/773Four_RECORDS "wikilink")**を元に2006年1月に会社を設立。自主レーベルとして活動を始めた。
+**locofrank**（ロコフランク）は、[大阪](../Page/大阪.md "wikilink")在住の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1998年「相撲茶屋」という名前で結成。2003年現在の名前に改名。歌詞は全て英語である。[Limited Records](https://ja.wikipedia.org/wiki/Limited_Records "wikilink")、[773Four RECORDS所属](../Page/773Four_RECORDS.md "wikilink")。インディーズ活動を長らく続けていたが、ブランド名として使用してきた**[773Four RECORDS](../Page/773Four_RECORDS.md "wikilink")**を元に2006年1月に会社を設立。自主レーベルとして活動を始めた。
 
 以前のバンド名「相撲茶屋」は、高校の修学旅行で北海道に行った時に、札幌にあったちゃんこ屋の名前である。
 
@@ -100,7 +100,7 @@
 <td><p><strong>ONE</strong></p></td>
 <td><p>2012年10月3日</p></td>
 <td><p>XQEJ-1008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/773Four_RECORDS" title="wikilink">773Four RECORDS</a></p></td>
+<td><p><a href="../Page/773Four_RECORDS.md" title="wikilink">773Four RECORDS</a></p></td>
 <td><p>33位</p></td>
 </tr>
 <tr class="even">
@@ -127,7 +127,7 @@
 <td><p><strong>WAY</strong></p></td>
 <td><p>2017年6月21日</p></td>
 <td><p>773F-1002</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/773Four_RECORDS" title="wikilink">773Four RECORDS</a></p></td>
+<td><p><a href="../Page/773Four_RECORDS.md" title="wikilink">773Four RECORDS</a></p></td>
 <td><p>33位</p></td>
 </tr>
 <tr class="even">

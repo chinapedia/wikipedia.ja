@@ -9,7 +9,7 @@
 
 いすゞが販売網を持っていない[南アメリカ](../Page/南アメリカ.md "wikilink")や[北アフリカ](../Page/北アフリカ.md "wikilink")などの一部の地域では[シボレー](../Page/シボレー.md "wikilink")に[OEM](../Page/OEM.md "wikilink")供給され、「シボレー・D-MAX」、「[シボレー・LUV](https://ja.wikipedia.org/wiki/シボレー・LUV "wikilink") D-MAX」、「シボレー・T-シリーズ」等の名称で販売されている。また、オセアニアでは[ホールデン向けに](../Page/ホールデン_\(自動車\).md "wikilink")「ホールデン・ロデオ」がOEM供給されていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に販売が打ち切られ、代わってGMタイランドが製造する姉妹車のシボレー・コロラドをベースとする「ホールデン・コロラド」が販売されている。
 
-なお[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")がいすゞからのOEMで2017年以降、北米以外の世界各地でD-MAXの同型車を販売する事が決定している。
+なお[マツダ](../Page/マツダ.md "wikilink")がいすゞからのOEMで2017年以降、北米以外の世界各地でD-MAXの同型車を販売する事が決定している。
 
 ## 名前の由来
 
@@ -188,7 +188,7 @@ Dmax 2011 ls 3.0 td.jpg|初代シボレー・D-MAX
 
   -
     泰国いすゞ自動車サムロン工場（[サムットプラカン県](../Page/サムットプラーカーン県.md "wikilink")[ムアン郡](../Page/ムアンサムットプラーカーン郡.md "wikilink")）
-    泰国いすゞ自動車ゲートウェイ工場（[チャチュンサオ県](../Page/チャチューンサオ県.md "wikilink")[プレーンヤーオ郡](https://ja.wikipedia.org/wiki/プレーンヤーオ郡 "wikilink")）
+    泰国いすゞ自動車ゲートウェイ工場（[チャチュンサオ県](../Page/チャチューンサオ県.md "wikilink")[プレーンヤーオ郡](../Page/プレーンヤーオ郡.md "wikilink")）
 
 <!-- end list -->
 

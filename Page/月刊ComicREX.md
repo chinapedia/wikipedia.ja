@@ -24,7 +24,7 @@
   - [推しのアイドルが隣の部屋に引っ越してきた](https://ja.wikipedia.org/wiki/推しのアイドルが隣の部屋に引っ越してきた "wikilink")（[脊髄引き抜きの刑](https://ja.wikipedia.org/wiki/脊髄引き抜きの刑 "wikilink")）（2019年9月号 - ）
   - [お兄ちゃんはおしまい\!](https://ja.wikipedia.org/wiki/お兄ちゃんはおしまい! "wikilink")（[ねことうふ](https://ja.wikipedia.org/wiki/ねことうふ "wikilink")）（2019年6月号 - ）
   - [今日、小柴葵に会えたら。](https://ja.wikipedia.org/wiki/今日、小柴葵に会えたら。 "wikilink")（原作：[竹岡葉月](../Page/竹岡葉月.md "wikilink")、漫画：[フライ](https://ja.wikipedia.org/wiki/フライ_\(イラストレーター\) "wikilink")）（2019年1月号 - ）
-  - [思春期ちゃんのしつけかた](https://ja.wikipedia.org/wiki/思春期ちゃんのしつけかた "wikilink")（[中田ゆみ](https://ja.wikipedia.org/wiki/中田ゆみ "wikilink")）（2019年4月号 - ）
+  - [思春期ちゃんのしつけかた](https://ja.wikipedia.org/wiki/思春期ちゃんのしつけかた "wikilink")（[中田ゆみ](../Page/中田ゆみ.md "wikilink")）（2019年4月号 - ）
   - [どっちも気づかない。](https://ja.wikipedia.org/wiki/どっちも気づかない。 "wikilink")（[東ふゆ](https://ja.wikipedia.org/wiki/東ふゆ "wikilink")）（2020年4月号 - ）
   - [ニジとクロ](https://ja.wikipedia.org/wiki/ニジとクロ "wikilink")（[武梨えり](../Page/武梨えり.md "wikilink")）（2018年9月号 - ）
   - [バーナード嬢曰く。](https://ja.wikipedia.org/wiki/バーナード嬢曰く。 "wikilink")（[施川ユウキ](https://ja.wikipedia.org/wiki/施川ユウキ "wikilink")）（2014年1月号 - ）
@@ -42,7 +42,7 @@
 ### 連載終了（雑誌オリジナル）
 
   - [あいニー充](https://ja.wikipedia.org/wiki/あいニー充 "wikilink")（[真西まり](https://ja.wikipedia.org/wiki/真西まり "wikilink")）（2017年9月号 - 2018年5月号）
-  - [悪役王子は恋ができない](https://ja.wikipedia.org/wiki/悪役王子は恋ができない "wikilink")（[米田和佐](https://ja.wikipedia.org/wiki/米田和佐 "wikilink")）（2018年1月号 - 2018年12月号）
+  - [悪役王子は恋ができない](https://ja.wikipedia.org/wiki/悪役王子は恋ができない "wikilink")（[米田和佐](../Page/米田和佐.md "wikilink")）（2018年1月号 - 2018年12月号）
   - [アサシネ](https://ja.wikipedia.org/wiki/アサシネ "wikilink")（[平野耕太](../Page/平野耕太.md "wikilink")）（2010年11・12月号 - 2012年6月号） - 『[コミックバーズ](../Page/月刊バーズ.md "wikilink")』（[幻冬舎コミックス](../Page/幻冬舎コミックス.md "wikilink")）に移籍
   - [アプリトラップ](https://ja.wikipedia.org/wiki/アプリトラップ "wikilink")（原作：[上山弥彦](https://ja.wikipedia.org/wiki/上山弥彦 "wikilink")、漫画：[栗山廉士](https://ja.wikipedia.org/wiki/栗山廉士 "wikilink")）（2015年5月号 - 2016年4月号） - 2016年12月号で連載休止告知
   - [阿部くんの7日間戦線](https://ja.wikipedia.org/wiki/阿部くんの7日間戦線 "wikilink")（[鈴木マナツ](https://ja.wikipedia.org/wiki/鈴木マナツ "wikilink")）（2012年5月号 - 2013年3月号）
@@ -52,7 +52,7 @@
   - [宇宙スレイヴ後藤田リサコ](https://ja.wikipedia.org/wiki/宇宙スレイヴ後藤田リサコ "wikilink")（[結城心一](../Page/結城心一.md "wikilink")）（2008年9月号 - 2009年6月号）→GO TO DA\!りさこスレイヴ（2009年7月号 - 2009年9月号）
   - [エスペリダス・オード](../Page/エスペリダス・オード.md "wikilink")（[堤抄子](../Page/堤抄子.md "wikilink")）（2006年12月号 - 2010年3月号）
   - [える・えるシスター](https://ja.wikipedia.org/wiki/える・えるシスター "wikilink")（[邪武丸](https://ja.wikipedia.org/wiki/邪武丸 "wikilink")）（2008年3月号 - 2011年1月号） - 読み切り作品を連載化
-  - [おくさまが生徒会長\!](https://ja.wikipedia.org/wiki/おくさまが生徒会長! "wikilink")（[中田ゆみ](https://ja.wikipedia.org/wiki/中田ゆみ "wikilink")）（2011年10月号 - 2018年10月号）
+  - [おくさまが生徒会長\!](https://ja.wikipedia.org/wiki/おくさまが生徒会長! "wikilink")（[中田ゆみ](../Page/中田ゆみ.md "wikilink")）（2011年10月号 - 2018年10月号）
   - [鬼ごっこ](../Page/鬼ごっこ_\(漫画\).md "wikilink")（[黒柾志西](../Page/黒柾志西.md "wikilink")）（2006年3月号 - 2009年5月号）
   - [鬼姫](https://ja.wikipedia.org/wiki/鬼姫 "wikilink")（[冨樫秀昭](../Page/冨樫_\(漫画家\).md "wikilink")）（2006年11月号 - 2007年11月号）
   - [オリハルコン・レイカル Duo](https://ja.wikipedia.org/wiki/オリハルコン・レイカル "wikilink")（[綱島志朗](../Page/綱島志朗.md "wikilink")）（2014年1月号 - 2016年4月号）
@@ -92,7 +92,7 @@
   - [じゅっTEN\!](https://ja.wikipedia.org/wiki/じゅっTEN! "wikilink")（[絶叫](https://ja.wikipedia.org/wiki/絶叫_\(イラストレーター\) "wikilink")）（創刊号 - 2007年4月号）
   - [少女妄想タブレット](https://ja.wikipedia.org/wiki/少女妄想タブレット "wikilink")（[ゆうきつむぎ](https://ja.wikipedia.org/wiki/ゆうきつむぎ "wikilink")）(2012年12月号 - 2014年2月号）- [コミックキューガールより移籍](https://ja.wikipedia.org/wiki/comicキャンドール#コミックキューガール "wikilink")
   - [少年ブランキーJET](https://ja.wikipedia.org/wiki/少年ブランキーJET "wikilink")（[佐野タカシ](../Page/佐野タカシ.md "wikilink")）（2006年3月号 - 2007年4月号）
-  - [白砂村](https://ja.wikipedia.org/wiki/白砂村 "wikilink")（[今井神](https://ja.wikipedia.org/wiki/今井神 "wikilink")）（2006年5月号 - 2014年2月号） - 読み切り作品を連載化
+  - [白砂村](../Page/白砂村.md "wikilink")（[今井神](https://ja.wikipedia.org/wiki/今井神 "wikilink")）（2006年5月号 - 2014年2月号） - 読み切り作品を連載化
   - [シルシア＝コード](https://ja.wikipedia.org/wiki/シルシア＝コード "wikilink")（[大森葵](../Page/大森葵.md "wikilink")）（2016年1月号 - 2018年12月号）
   - [CYNTHIA THE MISSION](../Page/CYNTHIA_THE_MISSION.md "wikilink")（[高遠るい](../Page/高遠るい.md "wikilink")）（創刊号 - 2008年10月号）
   - [精怪異聞](https://ja.wikipedia.org/wiki/精怪異聞 "wikilink")（[時任奏](https://ja.wikipedia.org/wiki/時任奏 "wikilink")）（創刊号、2006年7月号、2007年2月号、2007年9月号、2008年1月号、2008年10月号、2009年2月号 - 2010年7月号） - 不定期→隔月連載
@@ -113,7 +113,7 @@
   - [つーつーうらうら☆ダイアリーズ](https://ja.wikipedia.org/wiki/つーつーうらうら☆ダイアリーズ "wikilink")（原作：[TAGRO](../Page/TAGRO.md "wikilink")、漫画：[ヤス](../Page/ヤス_\(イラストレーター\).md "wikilink")）（2015年1月号 - 2016年5月号）
   - [ツキとおたから](https://ja.wikipedia.org/wiki/ツキとおたから "wikilink")（[渡真仁](https://ja.wikipedia.org/wiki/渡真仁 "wikilink")）（2007年11月号 - 2010年2月号）
   - [っしゃ\!\!](https://ja.wikipedia.org/wiki/っしゃ!! "wikilink")（[ヘラダミツル](https://ja.wikipedia.org/wiki/ヘラダミツル "wikilink")）（2010年11・12月号 - 2011年4月号）
-  - [Dear Emily...](https://ja.wikipedia.org/wiki/Dear_Emily... "wikilink")（[瑚澄遊智](https://ja.wikipedia.org/wiki/瑚澄遊智 "wikilink")）（創刊号 - 2006年9月号）→ [Dear Emily... 〜da capo〜と改題して](https://ja.wikipedia.org/wiki/Dear_Emily..._〜da_capo〜 "wikilink")、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")の[電撃コミックジャパン](https://ja.wikipedia.org/wiki/電撃コミックジャパン "wikilink")で、続編を連載開始した。
+  - [Dear Emily...](https://ja.wikipedia.org/wiki/Dear_Emily... "wikilink")（[瑚澄遊智](https://ja.wikipedia.org/wiki/瑚澄遊智 "wikilink")）（創刊号 - 2006年9月号）→ [Dear Emily... 〜da capo〜と改題して](https://ja.wikipedia.org/wiki/Dear_Emily..._〜da_capo〜 "wikilink")、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")の[電撃コミックジャパン](https://ja.wikipedia.org/wiki/電撃コミックジャパン "wikilink")で、続編を連載開始した。
   - [でぃおてぃまにゅある 〜神様たちの恋愛代行〜](https://ja.wikipedia.org/wiki/でぃおてぃまにゅある_〜神様たちの恋愛代行〜 "wikilink")（原作：[クール教信者](https://ja.wikipedia.org/wiki/クール教信者 "wikilink")、漫画：[ヤス](../Page/ヤス_\(イラストレーター\).md "wikilink")）（2017年5月号 - 2019年3月号）
   - [ティンクルセイバー](https://ja.wikipedia.org/wiki/ティンクルセイバー "wikilink")NOVA（[藤枝雅](../Page/藤枝雅.md "wikilink")）（創刊号 - 2015年2月号） - 休載のまま未完
   - [TiN-So 君が手にする俺の機巧魔剣](https://ja.wikipedia.org/wiki/TiN-So_君が手にする俺の機巧魔剣 "wikilink")（原作：[アサウラ](../Page/アサウラ.md "wikilink")、漫画：[ラルサン](https://ja.wikipedia.org/wiki/ラルサン "wikilink")）（2017年10月号 - 2018年8月号）
@@ -174,7 +174,7 @@
   - [姉小路直子と銀色の死神](https://ja.wikipedia.org/wiki/姉小路直子と銀色の死神 "wikilink")（原作：[みなとカーニバル](../Page/みなとそふと.md "wikilink")、漫画：[あゆま紗由](https://ja.wikipedia.org/wiki/あゆま紗由 "wikilink")）（2015年5月号 - 2016年3月号）
   - [いーあるふぁんくらぶ](https://ja.wikipedia.org/wiki/いーあるふぁんくらぶ "wikilink")（原案：[みきとP](https://ja.wikipedia.org/wiki/みきとP "wikilink")、漫画：[黒渕かしこ](https://ja.wikipedia.org/wiki/黒渕かしこ "wikilink")、監修：ヨリ([横槍メンゴ](https://ja.wikipedia.org/wiki/横槍メンゴ "wikilink"))）（2013年11月号 - 2015年5月号）
   - [異世界の聖機師物語](https://ja.wikipedia.org/wiki/異世界の聖機師物語 "wikilink")（原作：[梶島正樹](../Page/梶島正樹.md "wikilink") 漫画：[ばう](https://ja.wikipedia.org/wiki/ばう "wikilink")）（2009年7月号 - 2010年6月号）
-  - [eden\*](https://ja.wikipedia.org/wiki/eden* "wikilink")（原作:[minori](https://ja.wikipedia.org/wiki/minori "wikilink") [鏡遊](https://ja.wikipedia.org/wiki/鏡遊 "wikilink") 漫画:[守姫武士](https://ja.wikipedia.org/wiki/守姫武士 "wikilink")）（2009年8月号 - 2010年3月号）
+  - [eden\*](https://ja.wikipedia.org/wiki/eden* "wikilink")（原作:[minori](https://ja.wikipedia.org/wiki/minori "wikilink") [鏡遊](../Page/鏡遊.md "wikilink") 漫画:[守姫武士](https://ja.wikipedia.org/wiki/守姫武士 "wikilink")）（2009年8月号 - 2010年3月号）
   - [えんぶれっ\!](https://ja.wikipedia.org/wiki/えんぶれっ! "wikilink")（原作：[ハイレゾ](https://ja.wikipedia.org/wiki/ハイレゾ "wikilink")　漫画：[ぺけ](https://ja.wikipedia.org/wiki/ぺけ "wikilink")）（2011年10月号 - 2012年8月号）
   - [置き場がない\!](https://ja.wikipedia.org/wiki/置き場がない! "wikilink")（原作：[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink") 漫画：[黄鶏](https://ja.wikipedia.org/wiki/黄鶏 "wikilink")）（2010年5月号 - 2011年1月号）
   - [俺がお嬢様学校に「庶民サンプル」としてスピンオフされた件](https://ja.wikipedia.org/wiki/俺がお嬢様学校に「庶民サンプル」として拉致られた件 "wikilink")（原作：[七月隆文](../Page/七月隆文.md "wikilink")、漫画：[Sw](https://ja.wikipedia.org/wiki/Sw_\(漫画家\) "wikilink")、キャラクター原案：[閏月戈](https://ja.wikipedia.org/wiki/閏月戈 "wikilink")）（2015年8月号 - 2016年7月号）
@@ -204,7 +204,7 @@
   - [放課後のプレアデス Prism Palette](https://ja.wikipedia.org/wiki/放課後のプレアデス "wikilink")（原作：[GAINAX](../Page/ガイナックス.md "wikilink")、漫画：[Anmi](https://ja.wikipedia.org/wiki/Anmi "wikilink")、構成協力：[ばう](https://ja.wikipedia.org/wiki/ばう "wikilink")）（2014年12月号 - 2016年5月号）
   - [マクロスΔ 銀河を導く歌姫](https://ja.wikipedia.org/wiki/マクロスΔ "wikilink")（ストーリー原案：「マクロスΔ」より、漫画：[満月シオン](https://ja.wikipedia.org/wiki/満月シオン "wikilink")、監修：[河森正治](../Page/河森正治.md "wikilink") ）（2016年6月号 - 2017年11月号）
   - [ゆりぱち](https://ja.wikipedia.org/wiki/ゆりぱち "wikilink")（原作：[なもり](https://ja.wikipedia.org/wiki/なもり "wikilink")、[武梨えり](../Page/武梨えり.md "wikilink")、漫画：[結城心一](../Page/結城心一.md "wikilink")）（2012年9月号 - 2013年2月号）\[3\]
-  - [リトルバスターズ\! 能美クドリャフカ](../Page/リトルバスターズ!.md "wikilink")（原作：[Key](../Page/Key_\(ゲームブランド\).md "wikilink")、漫画：[米田和佐](https://ja.wikipedia.org/wiki/米田和佐 "wikilink")）（2011年4月号 - 2013年3月号）
+  - [リトルバスターズ\! 能美クドリャフカ](../Page/リトルバスターズ!.md "wikilink")（原作：[Key](../Page/Key_\(ゲームブランド\).md "wikilink")、漫画：[米田和佐](../Page/米田和佐.md "wikilink")）（2011年4月号 - 2013年3月号）
   - [リンちゃんなう](../Page/鏡音リン・レン.md "wikilink")（原案：[sezu](https://ja.wikipedia.org/wiki/sezu "wikilink")、漫画：[田村ヒロ](https://ja.wikipedia.org/wiki/田村ヒロ "wikilink")、監修：ガルナ(オワタP)）（2013年5月号 - 2015年1月号）
 
 ### 企画・コラム

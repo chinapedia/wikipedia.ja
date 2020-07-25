@@ -56,7 +56,7 @@
   - H・M・マードック
     役：[ドワイト・シュルツ](../Page/ドワイト・シュルツ.md "wikilink")
     日本語吹き替え：[富山敬](../Page/富山敬.md "wikilink")
-    階級は「[大尉](../Page/大尉.md "wikilink")」。主に「空輸・追跡・支援」を担当。[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")出身の才能と天分に恵まれた名[パイロットで](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、翼が付いている航空機類であれば何でも飛ばすことが可能。通常飛行から曲芸飛行まで異常な高難易度の操縦技術を易々とこなす。
+    階級は「[大尉](../Page/大尉.md "wikilink")」。主に「空輸・追跡・支援」を担当。[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")出身の才能と天分に恵まれた名[パイロットで](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、翼が付いている航空機類であれば何でも飛ばすことが可能。通常飛行から曲芸飛行まで異常な高難易度の操縦技術を易々とこなす。
     H・Mは「Howling Mad」の略称で、喚く狂人の意。通称は「クレイジーモンキー」。背中に虎と「[DA NANG](../Page/ダナン.md "wikilink") 1970」という文字が描かれた[フライトジャケット](../Page/フライトジャケット.md "wikilink")、頭に被った帽子が特徴。
     ベトナム戦争に起因する[戦闘疲弊症を患っており](https://ja.wikipedia.org/wiki/PTSD "wikilink")、普段は退役軍人病院の[精神科](../Page/精神科.md "wikilink")病棟に入院している。劇中、戦闘疲弊症に起因する奇行を繰り返しては、よくB.A.と喧嘩になる。しかし、真面目な側面を見せる、核心を突く発言、など時折頭の良さを見せるなどつかみ所が無い。作戦行動中においても、奇行はあれども機敏かつ的確に動く。彼だけは、チームメンバーの中で唯一指名手配されていない。
 
@@ -310,7 +310,7 @@
 
 ### シーズン4
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月](../Page/9月.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月](../Page/6月.md "wikilink")、全23話。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月](../Page/9月.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[6月](../Page/6月.md "wikilink")、全23話。
 
   - 第63話 Judgement Day Part.1(地中海殴り込み大作戦（前編）)
   - 第64話 Judgement Day Part.2(地中海殴り込み大作戦（後編）)
@@ -338,7 +338,7 @@
 
 ### シーズン5
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、全13話。
+[1986年](../Page/1986年.md "wikilink")[9月](../Page/9月.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、全13話。
 
   - 第86話 Dishpan Man (地獄島からの大脱出（前編）)
   - 第87話 Trial By Fire (地獄島からの大脱出（中編）)

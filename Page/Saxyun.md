@@ -3,7 +3,7 @@
 
 **saxyun**（さっきゅん、[5月13日](../Page/5月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。
 
-[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")を中心にイラストレーターとして活動を開始し、平行して[4コマ漫画家としても活動](../Page/4コマ漫画家の一覧.md "wikilink")。現在は主に[竹書房](../Page/竹書房.md "wikilink")、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")系のコミック誌に作品を掲載している。 2000年代初頭に人気を博した[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")向けソフトウェア「[伺か](../Page/伺か.md "wikilink")」のデフォルトゴースト、「偽春菜（任意）」と「うにゅう」の作者としても知られる。
+[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")を中心にイラストレーターとして活動を開始し、平行して[4コマ漫画家としても活動](../Page/4コマ漫画家の一覧.md "wikilink")。現在は主に[竹書房](../Page/竹書房.md "wikilink")、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")系のコミック誌に作品を掲載している。 2000年代初頭に人気を博した[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")向けソフトウェア「[伺か](../Page/伺か.md "wikilink")」のデフォルトゴースト、「偽春菜（任意）」と「うにゅう」の作者としても知られる。
 
 [2007年](../Page/2007年.md "wikilink")には初単行本となる『[ゆるめいつ](https://ja.wikipedia.org/wiki/ゆるめいつ "wikilink")』（[竹書房](../Page/竹書房.md "wikilink")）、『[空想科学X](../Page/空想科学X.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）の第1巻が相次いで発売された。
 
@@ -44,7 +44,7 @@ CD
 
 ## ゲスト参加作品
 
-  - [デ・ジ・キャラット でじこミュニケーション](https://ja.wikipedia.org/wiki/デ・ジ・キャラット_でじこミュニケーション "wikilink")２（にょ）販促コミック
+  - [デ・ジ・キャラット でじこミュニケーション](../Page/デ・ジ・キャラット_でじこミュニケーション.md "wikilink")２（にょ）販促コミック
   - [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink")［Réalta Nua］ 特典『とびだせ！トラぶる花札道中記』穂群原陸上部３人娘イラスト
   - [あずまんが大王](https://ja.wikipedia.org/wiki/あずまんが大王 "wikilink") 10周年記念企画本『大阪万博』トリビュートコミック
   - [キルミーベイベー](https://ja.wikipedia.org/wiki/キルミーベイベー "wikilink") プチアンソロジー小冊子『べびーきるみー』コミック

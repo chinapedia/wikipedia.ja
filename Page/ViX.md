@@ -11,7 +11,7 @@
 
 [BMP](../Page/Windows_bitmap.md "wikilink")・[GIF](../Page/Graphics_Interchange_Format.md "wikilink")\[13\]・[JPEG](../Page/JPEG.md "wikilink")・[PNG](../Page/Portable_Network_Graphics.md "wikilink")・[TIFF等](../Page/Tagged_Image_File_Format.md "wikilink")、標準状態で19種類の[画像ファイルフォーマット](https://ja.wikipedia.org/wiki/画像ファイルフォーマット "wikilink")に対応しているほか、[Susie Plug-inによって対応形式を拡張可能である](../Page/Susie.md "wikilink")\[14\]\[15\]。また、[動画](../Page/動画.md "wikilink")の再生にも対応している。
 
-リリース版の最終バージョンは2.21.148.0\[16\]だが、幾つかのバグ修正とアイコンを更新した\[17\]実行ファイル上書き方式の[β版](https://ja.wikipedia.org/wiki/試用版 "wikilink")"ViX2.22β1"（バージョン2.22.149.0）\[18\]がダウンロードサイトとは別の場所で配布されていた。2003年11月25日付のβ版バグ修正（フォルダ操作に関するバグ修正）の告知\[19\]を最後に更新停止状態となり、2008年6月頃には公式サイトの更新情報告知ページ自体が閲覧不能となった。
+リリース版の最終バージョンは2.21.148.0\[16\]だが、幾つかのバグ修正とアイコンを更新した\[17\]実行ファイル上書き方式の[β版](../Page/試用版.md "wikilink")"ViX2.22β1"（バージョン2.22.149.0）\[18\]がダウンロードサイトとは別の場所で配布されていた。2003年11月25日付のβ版バグ修正（フォルダ操作に関するバグ修正）の告知\[19\]を最後に更新停止状態となり、2008年6月頃には公式サイトの更新情報告知ページ自体が閲覧不能となった。
 
 [2011年](../Page/2011年.md "wikilink")12月16日、ViXの開発者K_OKADAは[JVN](https://ja.wikipedia.org/wiki/JVN "wikilink")から**連絡不能開発者**とされ、公開調査に掛けられた\[20\]\[21\]。その後も開発者との連絡が取れずに連絡期限の2017年9月を過ぎたため、JVNは2018年3月にViXに[脆弱性があることを公表し](https://ja.wikipedia.org/wiki/セキュリティホール#脆弱性 "wikilink")、本ソフトウェアの使用中止を呼び掛けている\[22\]\[23\]\[24\]。
 

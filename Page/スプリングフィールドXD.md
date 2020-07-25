@@ -93,7 +93,7 @@ XDシリーズと異なり、[バレル長で表されている](https://ja.wiki
   - 『[デッドライジング ゾンビのいけにえ](https://ja.wikipedia.org/wiki/デッドライジング_ゾンビのいけにえ "wikilink")』
     主人公、フランク・ウェストが使用。同作には『バイオハザード4 Wii Edition』のゲームエンジンが流用されている関係で登場した。
 
-  - 『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
+  - 『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』
 
 :; 『[バイオハザード4](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")』
 

@@ -97,7 +97,7 @@
   - **ラファエル** … [麻愛めぐる](../Page/麻愛めぐる.md "wikilink")（[貴船尚](https://ja.wikipedia.org/wiki/貴船尚 "wikilink")）／[沙央くらま](../Page/沙央くらま.md "wikilink")　
   - **アドリーヌ** … [澪うらら](https://ja.wikipedia.org/wiki/澪うらら "wikilink")（[舞咲りん](../Page/舞咲りん.md "wikilink")）／[夢園麻衣](https://ja.wikipedia.org/wiki/夢園麻衣 "wikilink")　
   - **ヤニック** … [天勢いづる](../Page/天勢いづる.md "wikilink")（[緒月遠麻](../Page/緒月遠麻.md "wikilink")）／[安城志紀](https://ja.wikipedia.org/wiki/安城志紀 "wikilink")　
-  - **イブラヒム** … [凰稀かなめ](../Page/凰稀かなめ.md "wikilink")（[真波そら](https://ja.wikipedia.org/wiki/真波そら "wikilink")）　
+  - **イブラヒム** … [凰稀かなめ](../Page/凰稀かなめ.md "wikilink")（[真波そら](../Page/真波そら.md "wikilink")）　
   - **ハイファ** … [麻倉ももこ](https://ja.wikipedia.org/wiki/麻倉ももこ "wikilink")（[早花まこ](https://ja.wikipedia.org/wiki/早花まこ "wikilink")）　
   - **ハミド** … [緒月遠麻](../Page/緒月遠麻.md "wikilink")（宙輝れいか）／宙輝れいか　
   - **コレット** … [晴華みどり](../Page/晴華みどり.md "wikilink")（[涼花リサ](https://ja.wikipedia.org/wiki/涼花リサ "wikilink")）／[神麗華](https://ja.wikipedia.org/wiki/神麗華 "wikilink")

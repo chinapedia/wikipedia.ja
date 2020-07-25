@@ -114,7 +114,7 @@
 
 ### ライブ・アルバム
 
-  - IN CONCERT ([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"))
+  - IN CONCERT ([1986年](../Page/1986年.md "wikilink"))
   - LIVE '92 ([1993年](../Page/1993年.md "wikilink"))
   - 空に光る～EARLY LIVE Vol. 1 ([1994年](../Page/1994年.md "wikilink"))
   - 陰翳の笛～EARLY LIVE Vol. 2 ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink"))

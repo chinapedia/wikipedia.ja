@@ -1763,7 +1763,7 @@ LineData =
 <td><p>SWCD-2005</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CRUSH!_-90&#39;s_V-Rock_best_hit_cover_songs-" title="wikilink">CRUSH! -90's V-Rock best hit cover songs-</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/JUPITER_(BUCK-TICKの曲)" title="wikilink">JUPITER</a></p></td>

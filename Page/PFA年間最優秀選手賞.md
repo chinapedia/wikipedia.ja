@@ -180,7 +180,7 @@
 <td><p>FWA</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1999-2000" title="wikilink">1999-00</a></p></td>
+<td><p><a href="../Page/FAプレミアリーグ1999-2000.md" title="wikilink">1999-00</a></p></td>
 <td><p><a href="../Page/ロイ・キーン.md" title="wikilink">ロイ・キーン</a></p></td>
 <td></td>
 <td><p>FWA</p></td>

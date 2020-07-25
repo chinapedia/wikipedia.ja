@@ -100,13 +100,13 @@
 GameGuardは世界16ヶ国、約120種類のゲームに導入されている。日本国内でサービス中のゲームの中で、導入している代表的なタイトルは以下のとおり。
 
   - [ELSWORD](https://ja.wikipedia.org/wiki/ELSWORD "wikilink")
-  - [クロスファイア](https://ja.wikipedia.org/wiki/クロスファイア_\(オンラインゲーム\) "wikilink")
+  - [クロスファイア](../Page/クロスファイア_\(オンラインゲーム\).md "wikilink")
   - [シルクロードオンライン](https://ja.wikipedia.org/wiki/シルクロードオンライン "wikilink")
   - [真・三國無双Online](https://ja.wikipedia.org/wiki/真・三國無双Online "wikilink")
   - [新天上牌](https://ja.wikipedia.org/wiki/新天上牌 "wikilink")
   - [タワー オブ アイオン](https://ja.wikipedia.org/wiki/タワー_オブ_アイオン "wikilink")
   - [天地大乱](https://ja.wikipedia.org/wiki/天地大乱 "wikilink")
-  - [ドリフトシティ](https://ja.wikipedia.org/wiki/ドリフトシティ "wikilink")
+  - [ドリフトシティ](../Page/ドリフトシティ.md "wikilink")
   - [ファンタシースターオンライン2](https://ja.wikipedia.org/wiki/ファンタシースターオンライン2 "wikilink")
   - [meet-me](https://ja.wikipedia.org/wiki/meet-me "wikilink")
   - [ラグナロクオンライン](../Page/ラグナロクオンライン.md "wikilink")（国によっては採用していない）

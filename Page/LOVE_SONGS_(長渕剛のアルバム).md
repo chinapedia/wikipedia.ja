@@ -25,7 +25,7 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテ－プ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。また、CDのみ[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")化されて再リリースされている。
+[1986年](../Page/1986年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテ－プ](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。また、CDのみ[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")化されて再リリースされている。
 
 ## 批評
 
@@ -57,7 +57,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
 <td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a>／エキスプレス</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />

@@ -7,7 +7,7 @@
 
 1999年に結成された『[PASSION](../Page/PASSION_\(イメージガール\).md "wikilink")』が初代GTイメージガールである。毎年ユニットを結成し、サーキットでのPR活動のほか、[SUPER GT公式行事の出席や](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")、シーズン毎にリリースされるイメージCDアルバムの中でオリジナル曲を披露するなど、多彩な活動を行っていた。レコード会社[エイベックスのイメージガールも兼務するなど](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、エイベックス色が強いユニットであった。
 
-2002年、その後の[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")（以下プラチナムと略）所属者グループの草分けでもある『wi☆th』が登場。[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")などを輩出した。翌2003年は[スタイルコーポレーション](https://ja.wikipedia.org/wiki/スタイルコーポレーション "wikilink")所属の『[tiara](https://ja.wikipedia.org/wiki/Tiara_\(ユニット\) "wikilink")』に引き継がれるが、前年以上の人気を得るには至らなかった。そして2004年、プラチナム所属者3人を中心とした『[vivace](https://ja.wikipedia.org/wiki/vivace_\(アイドルグループ\) "wikilink")』が登場。歴代最高ともいえる人気を獲得した結果、GT終了後に活動を継続。現在の「[SHANADOO](https://ja.wikipedia.org/wiki/SHANADOO "wikilink")」へと発展していった。翌2005年の『P-ch\!』は4人全員がプラチナム所属者に統一されたが、それ以降はプラチナム所属者に別事務所のメンバーが加わる形態が続き、2010年の『[G☆RACE](https://ja.wikipedia.org/wiki/G☆RACE "wikilink")』ではそれまでの倍となる8人編成となった。
+2002年、その後の[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")（以下プラチナムと略）所属者グループの草分けでもある『wi☆th』が登場。[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")などを輩出した。翌2003年は[スタイルコーポレーション](../Page/スタイルコーポレーション.md "wikilink")所属の『[tiara](https://ja.wikipedia.org/wiki/Tiara_\(ユニット\) "wikilink")』に引き継がれるが、前年以上の人気を得るには至らなかった。そして2004年、プラチナム所属者3人を中心とした『[vivace](https://ja.wikipedia.org/wiki/vivace_\(アイドルグループ\) "wikilink")』が登場。歴代最高ともいえる人気を獲得した結果、GT終了後に活動を継続。現在の「[SHANADOO](https://ja.wikipedia.org/wiki/SHANADOO "wikilink")」へと発展していった。翌2005年の『P-ch\!』は4人全員がプラチナム所属者に統一されたが、それ以降はプラチナム所属者に別事務所のメンバーが加わる形態が続き、2010年の『[G☆RACE](https://ja.wikipedia.org/wiki/G☆RACE "wikilink")』ではそれまでの倍となる8人編成となった。
 
 2011年より、『[sucre](https://ja.wikipedia.org/wiki/sucre "wikilink")』（シュクレ）というレースクイーンユニットが活動開始したこともありSUPER GT本体のイメージガールは一旦廃止状態となったが、2013年に3年ぶりとなるイメージガールが復活、3人体制による『[IA GIRL STARS](https://ja.wikipedia.org/wiki/IA_GIRL_STARS "wikilink")』が起用された\[1\]。同ユニットは2014年もメンバーを変えて活動していたが、わずか2年で消滅。2015年度は再びイメージガールが存在しない状況となっている。
 
@@ -54,11 +54,11 @@
 ### 2003年「tiara」（ティアラ）
 
   - [小笠原美帆](../Page/小笠原美帆.md "wikilink")
-  - [橋本紗和](https://ja.wikipedia.org/wiki/橋本紗和 "wikilink")
+  - [橋本紗和](../Page/橋本紗和.md "wikilink")
   - [朝倉ひさみ](https://ja.wikipedia.org/wiki/朝倉ひさみ "wikilink")
   - 坪水恵美
 
-※[スタイルコーポレーション](https://ja.wikipedia.org/wiki/スタイルコーポレーション "wikilink")所属者で構成。[エイベックスがGTイメージガールのプロデュースをしていない唯一の年でもある](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
+※[スタイルコーポレーション](../Page/スタイルコーポレーション.md "wikilink")所属者で構成。[エイベックスがGTイメージガールのプロデュースをしていない唯一の年でもある](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
 
 ### 2004年「vivace」（ヴィヴァーチェ）
 
@@ -150,17 +150,17 @@
 
 [Sepang_tribune.jpg](https://ja.wikipedia.org/wiki/File:Sepang_tribune.jpg "fig:Sepang_tribune.jpg")）\]\] [Tokyo_Motor_Show_2009_(4058833558).jpg](https://ja.wikipedia.org/wiki/File:Tokyo_Motor_Show_2009_\(4058833558\).jpg "fig:Tokyo_Motor_Show_2009_(4058833558).jpg")2009にて）</small>\]\] [2013年まで毎年](https://ja.wikipedia.org/wiki/2013年のSUPER_GT "wikilink")6月中旬に行われていた[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[セパンサーキット戦では](../Page/セパン・インターナショナル・サーキット.md "wikilink")、SUPER GT本体のイメージガールとは別に、マレーシア戦限定で活動するイメージガールユニットが存在しており、開催までの約1ヵ月間現地に滞在しPR活動を行っていた。
 
-殆どの年で[スタイルコーポレーション](https://ja.wikipedia.org/wiki/スタイルコーポレーション "wikilink")所属者がイメージガールを務めていたが、2009年と2010年は[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属者が担当。さらに2011年からは日本人1名とマレーシアの女性による体制となった。
+殆どの年で[スタイルコーポレーション](../Page/スタイルコーポレーション.md "wikilink")所属者がイメージガールを務めていたが、2009年と2010年は[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属者が担当。さらに2011年からは日本人1名とマレーシアの女性による体制となった。
 
 なお、[2014年以降は](https://ja.wikipedia.org/wiki/2014年のSUPER_GT "wikilink")[タイ](../Page/タイ王国.md "wikilink")・[ブリーラムの](../Page/ブリーラム県.md "wikilink")[チャーン・インターナショナルサーキット](https://ja.wikipedia.org/wiki/チャーン・インターナショナルサーキット "wikilink")で10月上旬にSUPER GTレースが開催されているが、タイ戦限定のイメージガールは設置されていない。
 
 ### 歴代メンバー
 
   - 2004年「**紅 KURENAI**」（クレナイ）：堀内晶子、[澄谷薫](../Page/澄谷薫.md "wikilink")、青木美樹、山本渚
-  - 2005年「**babes**」（ベイブス）：[小口亜紀](https://ja.wikipedia.org/wiki/小口亜紀 "wikilink")、[秋山まい](https://ja.wikipedia.org/wiki/秋山まい "wikilink")、浅見薫
+  - 2005年「**babes**」（ベイブス）：[小口亜紀](../Page/小口亜紀.md "wikilink")、[秋山まい](https://ja.wikipedia.org/wiki/秋山まい "wikilink")、浅見薫
   - 2006年「**babes**」：朝倉ひさみ、澄谷薫、小口亜紀
   - 2007年「**babes**」：藍原ももよ（現：[清宮百代](https://ja.wikipedia.org/wiki/清宮百代 "wikilink")）、小口亜紀
-  - 2008年「**SUPER GT QUEEN**」：[黒沢琴美](https://ja.wikipedia.org/wiki/黒沢琴美 "wikilink")、[佐々木綾美](../Page/佐々木綾美.md "wikilink")
+  - 2008年「**SUPER GT QUEEN**」：[黒沢琴美](../Page/黒沢琴美.md "wikilink")、[佐々木綾美](../Page/佐々木綾美.md "wikilink")
   - 2009年「**SUPER GT QUEEN**」：友稀サナ、[柴田なな](https://ja.wikipedia.org/wiki/柴田なな "wikilink")
   - 2010年：新田梢恵、服部愛（いずれも同年のイメージガール「G☆RACE」メンバー）
   - 2011年

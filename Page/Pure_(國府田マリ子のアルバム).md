@@ -23,7 +23,7 @@
 4.  **[Harmony](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink") -pure mix-**
       -
         作詞：國府田マリ子、作曲：松原みき、編曲：岩本正樹
-        [1stシングル](https://ja.wikipedia.org/wiki/序数詞 "wikilink")「[僕らのステキ/Harmony](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")」カップリング曲、[ラジオ](../Page/ラジオ.md "wikilink")「ツインビーPARADISE2」[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")
+        [1stシングル](../Page/序数詞.md "wikilink")「[僕らのステキ/Harmony](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")」カップリング曲、[ラジオ](../Page/ラジオ.md "wikilink")「ツインビーPARADISE2」[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")
 5.  **風の音**
       -
         作詞：[国分友里恵](https://ja.wikipedia.org/wiki/国分友里恵 "wikilink")、作曲・編曲：岩本正樹

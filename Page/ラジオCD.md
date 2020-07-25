@@ -48,7 +48,7 @@
   - [カンださん☆アイぽんの ネギまほラジお](../Page/カンださん☆アイぽんの_ネギまほラジお.md "wikilink")
   - [今日からマ王\!眞魔国放送協会（SHK）](https://ja.wikipedia.org/wiki/まるマシリーズ "wikilink")
   - [後藤ラジオ](https://ja.wikipedia.org/wiki/後藤ラジオ "wikilink")
-  - [さよなら絶望放送](https://ja.wikipedia.org/wiki/さよなら絶望放送 "wikilink")
+  - [さよなら絶望放送](../Page/さよなら絶望放送.md "wikilink")
   - [少年陰陽師・彼方に放つ声をきけ～略して孫ラジ](https://ja.wikipedia.org/wiki/少年陰陽師・彼方に放つ声をきけ～略して孫ラジ "wikilink")
   - [聖應女学院放送局](../Page/聖應女学院放送局.md "wikilink")
   - [セイント・ビースト ケダモノたちのHEAVEN'S PARTY](../Page/セイント・ビースト_ケダモノたちのHEAVEN'S_PARTY.md "wikilink")

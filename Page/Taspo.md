@@ -211,7 +211,7 @@ taspoのシステムは、[NTTデータ](../Page/NTTデータ.md "wikilink")、[
 
 ## ICカードの仕様
 
-taspoは、非接触型ICカードである[MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink")（マイフェア、国際規格である[ISO/IEC 14443](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink") Type A）を採用している。Type Aは欧州やアジアなどで広く普及している。日本国内では、かつて[ICテレホンカードとして使われていたが](https://ja.wikipedia.org/wiki/テレホンカード#ICテレホンカード "wikilink")、それ以来の大規模導入となる。[Suica](../Page/Suica.md "wikilink")や[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")などが採用し、日本国内で広く普及している非接触ICカード通信規格「[FeliCa](../Page/FeliCa.md "wikilink")」とは規格が異なる。なお、読み取り装置は[ソフトウェア](../Page/ソフトウェア.md "wikilink")の更新によりType A以外の規格にも対応可能である\[52\]。
+taspoは、非接触型ICカードである[MIFARE](../Page/MIFARE.md "wikilink")（マイフェア、国際規格である[ISO/IEC 14443](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink") Type A）を採用している。Type Aは欧州やアジアなどで広く普及している。日本国内では、かつて[ICテレホンカードとして使われていたが](https://ja.wikipedia.org/wiki/テレホンカード#ICテレホンカード "wikilink")、それ以来の大規模導入となる。[Suica](../Page/Suica.md "wikilink")や[Edy](https://ja.wikipedia.org/wiki/Edy "wikilink")などが採用し、日本国内で広く普及している非接触ICカード通信規格「[FeliCa](../Page/FeliCa.md "wikilink")」とは規格が異なる。なお、読み取り装置は[ソフトウェア](../Page/ソフトウェア.md "wikilink")の更新によりType A以外の規格にも対応可能である\[52\]。
 
 ## 電子マネー機能
 

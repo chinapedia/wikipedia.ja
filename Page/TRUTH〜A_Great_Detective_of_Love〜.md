@@ -185,7 +185,7 @@
 </tr>
 <tr class="even">
 <td><p>前作:<br />
-<a href="https://ja.wikipedia.org/wiki/ZARD" title="wikilink">ZARD</a><br />
+<a href="../Page/ZARD.md" title="wikilink">ZARD</a><br />
 『<a href="../Page/運命のルーレット廻して.md" title="wikilink">運命のルーレット廻して</a>』</p></td>
 </tr>
 </tbody>

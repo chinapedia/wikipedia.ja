@@ -211,7 +211,7 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
 
   - 『[スプリンターセル](https://ja.wikipedia.org/wiki/スプリンターセル "wikilink")』
     『[スペシャルフォース](../Page/スペシャルフォース_\(オンラインゲーム\).md "wikilink")』
-    『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
+    『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』
 
 :; 『[バイオハザード4](https://ja.wikipedia.org/wiki/バイオハザード4 "wikilink")』
 
@@ -257,7 +257,7 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
       -
         全[兵科](../Page/兵科.md "wikilink")共通のカービンライフルとしてG36Cが登場し、バトルピックアップとしてMG36が登場する。
 
-  - 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+  - 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
     「試作ライフル」の名称で登場し、[韓国軍が使用する](../Page/大韓民国国軍.md "wikilink")。
 
   - 『[レインボーシックス](../Page/レインボーシックス.md "wikilink")』
@@ -297,7 +297,7 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
 
 [Category:自動小銃](https://ja.wikipedia.org/wiki/Category:自動小銃 "wikilink") [Category:アサルトライフル](https://ja.wikipedia.org/wiki/Category:アサルトライフル "wikilink") [Category:5.56mm銃](https://ja.wikipedia.org/wiki/Category:5.56mm銃 "wikilink") [Category:ドイツ連邦共和国の小火器](https://ja.wikipedia.org/wiki/Category:ドイツ連邦共和国の小火器 "wikilink")
 
-1.  同社の[H\&K HK33は小口径弾を使用するがローラーロッキングによるディレードブローバック方式を採用するため却下された](https://ja.wikipedia.org/wiki/H&K_HK33 "wikilink")。
+1.  同社の[H\&K HK33は小口径弾を使用するがローラーロッキングによるディレードブローバック方式を採用するため却下された](../Page/H&K_HK33.md "wikilink")。
 2.  [H\&K 社の「G36」自動小銃の命中精度下落問題「弾薬ではなく自動小銃側に問題」と国防総省が結論](http://news.militaryblog.jp/e648411.html)
 3.
 4.  [Bundeswehr: Tests bestätigen mangelnde Treffsicherheit des G36](http://www.spiegel.de/politik/deutschland/bundeswehr-tests-bestaetigen-praezisions-maengel-an-g36-a-1026275.html)

@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:VIA_EPIA_PD-10000.jpg "wikilink") **Mini-ITX**（ミニ・アイティーエックス）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[VIA Technologies社が開発した](../Page/VIA_Technologies.md "wikilink")[マザーボード](../Page/マザーボード.md "wikilink")の[フォームファクタ](https://ja.wikipedia.org/wiki/フォームファクタ "wikilink")（規格）。[MicroATX](https://ja.wikipedia.org/wiki/MicroATX "wikilink")やFlexATXといった小型[ATX](../Page/ATX.md "wikilink")規格よりも顕著に小さく、わずか17センチメートル四方である。さらに小さな[Nano-ITX](https://ja.wikipedia.org/wiki/Nano-ITX "wikilink")（ナノ・アイティーエックス、大きさ12cm四方）や、[Pico-ITX](https://ja.wikipedia.org/wiki/Pico-ITX "wikilink")（ピコ・アイティーエックス、10cm×7.2cm）がある。
 
-Mini-ITXのマザーボードは[組み込みシステム](../Page/組み込みシステム.md "wikilink")で用いられることを前提に設計され、製品としてはVIA製の[Eden](../Page/VIA_Eden.md "wikilink")、EPIA（[C3](../Page/VIA_C3.md "wikilink")）シリーズなどが大多数を占めているが、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")や[AMDのCPU向けの製品も少数ながら作られている](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月に[Intel Atom搭載のMini](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")-ITXマザーボードをインテルが発売して以降、各社が続々と同様のマザーボードを販売しており、着目されている。
+Mini-ITXのマザーボードは[組み込みシステム](../Page/組み込みシステム.md "wikilink")で用いられることを前提に設計され、製品としてはVIA製の[Eden](../Page/VIA_Eden.md "wikilink")、EPIA（[C3](../Page/VIA_C3.md "wikilink")）シリーズなどが大多数を占めているが、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")や[AMDのCPU向けの製品も少数ながら作られている](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月に[Intel Atom搭載のMini](../Page/Intel_Atom.md "wikilink")-ITXマザーボードをインテルが発売して以降、各社が続々と同様のマザーボードを販売しており、着目されている。
 
 [自作パソコン](../Page/自作パソコン.md "wikilink")としては、[チップセット](../Page/チップセット.md "wikilink")にグラフィック機能を統合しており、[省スペースパソコン](../Page/省スペースパソコン.md "wikilink")や[ホームシアター](../Page/ホームシアター.md "wikilink")パソコン(HTPC)としての使用に適している。
 
@@ -22,7 +22,7 @@ VIA製のものは自社CPU直付けであり、[熱設計電力](../Page/熱設
   - ION ([NVIDIA ION](https://ja.wikipedia.org/wiki/NVIDIA_ION "wikilink"))
   - [静音パソコン](../Page/静音パソコン.md "wikilink")
   - [VIA Technologies](../Page/VIA_Technologies.md "wikilink")
-  - [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")
+  - [Intel Atom](../Page/Intel_Atom.md "wikilink")
 
 ## 外部リンク
 

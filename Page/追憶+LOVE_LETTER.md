@@ -51,7 +51,7 @@
       -
         [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[FUN](../Page/FUN.md "wikilink")』FUN'S RECOMMEND
 10. **ハナムケノ言葉**
-      - 作詞:六ツ見純代/作曲:浅田直/編曲:[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+      - 作詞:六ツ見純代/作曲:浅田直/編曲:[久米康隆](../Page/久米康隆.md "wikilink")
 11. **[YUME日和](../Page/YUME日和.md "wikilink")(Album Version)**
       - 作詞:[小幡英之](../Page/小幡英之.md "wikilink")/作曲:[宮崎歩](../Page/宮崎歩.md "wikilink")/編曲:宗像仁志
     <!-- end list -->

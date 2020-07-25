@@ -3,13 +3,13 @@
 
 **株式会社スタジオよんどしい**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")。[日本動画協会](../Page/日本動画協会.md "wikilink")正会員。
 
-[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、[テレビ](../Page/テレビ.md "wikilink")、[CMやプロモーション映像](../Page/コマーシャルメッセージ.md "wikilink")、ゲーム内ムービー、[映画](../Page/映画.md "wikilink")を制作。[田中栄子](https://ja.wikipedia.org/wiki/田中栄子_\(プロデューサー\) "wikilink")、[アニメーター](../Page/アニメーター.md "wikilink")の[森本晃司が中心となって](../Page/森本晃司_\(アニメーター\).md "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に設立。[1999年](../Page/1999年.md "wikilink")12月24日、法人として「有限会社スタジオよんどしい」を設立。[2007年](../Page/2007年.md "wikilink")、株式会社に登記変更した。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、[テレビ](../Page/テレビ.md "wikilink")、[CMやプロモーション映像](../Page/コマーシャルメッセージ.md "wikilink")、ゲーム内ムービー、[映画](../Page/映画.md "wikilink")を制作。[田中栄子](https://ja.wikipedia.org/wiki/田中栄子_\(プロデューサー\) "wikilink")、[アニメーター](../Page/アニメーター.md "wikilink")の[森本晃司が中心となって](../Page/森本晃司_\(アニメーター\).md "wikilink")[1986年](../Page/1986年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に設立。[1999年](../Page/1999年.md "wikilink")12月24日、法人として「有限会社スタジオよんどしい」を設立。[2007年](../Page/2007年.md "wikilink")、株式会社に登記変更した。
 
 ## 歴史
 
 ### 設立の経緯
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に設立。
+[1986年](../Page/1986年.md "wikilink")に設立。
 
 当時[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")で『[となりのトトロ](https://ja.wikipedia.org/wiki/となりのトトロ "wikilink")』のラインプロデューサーだった田中栄子は、同時期に制作していた[大友克洋](../Page/大友克洋.md "wikilink")監督のアニメ映画『[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(漫画\)#劇場アニメ "wikilink")』の制作の遅れを知り、トトロ作画スタッフを『AKIRA』スタジオに出向させたというエピソードがある（これを「猫の手」と呼んでいた）。
 
@@ -66,7 +66,7 @@
   - ピロッポ（2001年）
   - [魔法少女隊アルス](../Page/魔法少女隊アルス.md "wikilink")（2004年）
   - [スポーツ大佐](https://ja.wikipedia.org/wiki/団地ともお#スポーツ大佐 "wikilink")（2007年）
-  - [トランスフォーマー アニメイテッド](https://ja.wikipedia.org/wiki/トランスフォーマー_アニメイテッド "wikilink")（2008年）
+  - [トランスフォーマー アニメイテッド](../Page/トランスフォーマー_アニメイテッド.md "wikilink")（2008年）
   - [サンダーキャッツ](https://ja.wikipedia.org/wiki/サンダーキャッツ "wikilink")（2011年）
   - [三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")「空飛ぶサイダー」 テレビCM（2015年）
   - [おかしなガムボール](https://ja.wikipedia.org/wiki/おかしなガムボール "wikilink")（2016年、「因縁の対決?」（英：The Fury）の戦闘シーン）

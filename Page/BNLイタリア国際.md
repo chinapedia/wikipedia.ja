@@ -190,7 +190,7 @@
 <td><p>6-3, 0-6, 6-4, 6-1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><strong><a href="../Page/トム・オッカー.md" title="wikilink">トム・オッカー</a></strong></p></td>
 <td><p><a href="../Page/ボブ・ヒューイット.md" title="wikilink">ボブ・ヒューイット</a></p></td>
 <td><p>10-8, 6-8, 6-1, 1-6, 6-0</p></td>
@@ -298,7 +298,7 @@
 <td><p>6-3, 3-6, 6-2, 7-6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><strong><a href="../Page/イワン・レンドル.md" title="wikilink">イワン・レンドル</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エミリオ・サンチェス" title="wikilink">エミリオ・サンチェス</a></p></td>
 <td><p>7-5, 4-6, 6-1, 6-1</p></td>
@@ -669,7 +669,7 @@
 <td><p>6-3, 6-3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><strong><a href="../Page/レスリー・ターナー.md" title="wikilink">レスリー・ターナー</a></strong></p></td>
 <td><p><a href="../Page/マーガレット・スミス・コート.md" title="wikilink">マーガレット・スミス・コート</a></p></td>
 <td><p>2-6, 6-2, 6-3</p></td>
@@ -777,7 +777,7 @@
 <td><p>6-4, 6-4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><div style="text-align:center">
 <p><strong>女子部門実施なし</strong></p>
 </div></td>
@@ -1198,7 +1198,7 @@
 <td><p>6-3, 2-6, 6-3, 9-7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/マーティー・リーセン" title="wikilink">マーティー・リーセン</a></strong><br />
  <strong><a href="../Page/トム・オッカー.md" title="wikilink">トム・オッカー</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アラン・ストーン" title="wikilink">アラン・ストーン</a><br />
@@ -1342,7 +1342,7 @@
 <td><p>4-6, 6-3, 6-2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><strong><a href="../Page/ギー・フォルジェ.md" title="wikilink">ギー・フォルジェ</a></strong><br />
  <strong><a href="../Page/ヤニック・ノア.md" title="wikilink">ヤニック・ノア</a></strong></p></td>
 <td><p><a href="../Page/マーク・エドモンドソン.md" title="wikilink">マーク・エドモンドソン</a><br />
@@ -1570,7 +1570,7 @@
 <td><p><strong><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/ネナド・ジモニッチ" title="wikilink">ネナド・ジモニッチ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロビン・ハーセ" title="wikilink">ロビン・ハーセ</a><br />
- <a href="https://ja.wikipedia.org/wiki/フェリシアーノ・ロペス" title="wikilink">フェリシアーノ・ロペス</a></p></td>
+ <a href="../Page/フェリシアーノ・ロペス.md" title="wikilink">フェリシアーノ・ロペス</a></p></td>
 <td><p>6-4, 7-6(2)</p></td>
 </tr>
 <tr class="odd">
@@ -1829,7 +1829,7 @@
 <td><p>7-5, 7-5</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><strong><a href="../Page/マーガレット・スミス・コート.md" title="wikilink">マーガレット・スミス・コート</a></strong><br />
  <strong><a href="../Page/バージニア・ウェード.md" title="wikilink">バージニア・ウェード</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アネッテ・バン・ジル" title="wikilink">アネッテ・バン・ジル</a><br />
@@ -1974,7 +1974,7 @@
 <td><p>1-6, 6-4, 6-3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><div style="text-align:center">
 <p><strong>女子部門実施なし</strong></p>
 </div></td>
@@ -2250,7 +2250,7 @@
 
 ### 混合ダブルス
 
-混合ダブルスは第1回大会の[1930年](../Page/1930年.md "wikilink")から実施されてきたが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")を最後に廃止され、現在は行われていない。
+混合ダブルスは第1回大会の[1930年](../Page/1930年.md "wikilink")から実施されてきたが、[1968年](../Page/1968年.md "wikilink")を最後に廃止され、現在は行われていない。
 
 <table>
 <thead>
@@ -2463,7 +2463,7 @@
 <td><p>6-2, 7-5</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/マーティー・リーセン" title="wikilink">マーティー・リーセン</a></strong><br />
  <strong><a href="../Page/マーガレット・スミス・コート.md" title="wikilink">マーガレット・スミス・コート</a></strong></p></td>
 <td><p><a href="../Page/トム・オッカー.md" title="wikilink">トム・オッカー</a><br />

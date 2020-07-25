@@ -33,7 +33,7 @@
 
   - \- [ニュアンスコミュニケーションズ](https://ja.wikipedia.org/wiki/ニュアンスコミュニケーションズ "wikilink")製の無料のPDFビューア。
 
-  - [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink") - KDE4デスクトップ環境向けのドキュメントビューア。
+  - [Okular](../Page/Okular.md "wikilink") - KDE4デスクトップ環境向けのドキュメントビューア。
 
   - [PDF-XChange Editor](https://ja.wikipedia.org/wiki/PDF-XChange#PDF-XChange_Editor "wikilink") - タブ切り替えに対応したPDFビューア。
 
@@ -196,7 +196,7 @@
 
   - [PoDoFo](http://podofo.sourceforge.net/about.html) Free, portable C++ library which includes classes to parse PDF files and modify their contents.
 
-  - [Poppler](https://ja.wikipedia.org/wiki/Poppler "wikilink") - PDFをレンダリングするためのライブラリ。
+  - [Poppler](../Page/Poppler.md "wikilink") - PDFをレンダリングするためのライブラリ。
 
   - [XFINIUM.PDF Toolkit](http://www.xfiniumpdf.com/xfinium-pdf-crossplatform/xfinium-pdf-overview.html) Cross platform library for PDF development. ROYALTY FREE distribution.
 

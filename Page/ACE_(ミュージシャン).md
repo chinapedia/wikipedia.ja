@@ -25,7 +25,7 @@ ACEという名前は、学生時代[バレーボール](../Page/バレーボー
 
 聖飢魔IIとしての活動の他、[プロデューサー](../Page/プロデューサー.md "wikilink")、[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")としても活躍し、[1999年](../Page/1999年.md "wikilink")の[聖飢魔II](../Page/聖飢魔II.md "wikilink")解散後は**ACE**に改名。**[人間](../Page/人間.md "wikilink")**のミュージシャンとして元[グラスバレー](../Page/グラスバレー.md "wikilink")の[本田海月](https://ja.wikipedia.org/wiki/本田海月 "wikilink")とユニット[face to aceを結成し](https://ja.wikipedia.org/wiki/face_to_ace "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")兼[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")として活動中、2012年までにオリジナル6枚を含むアルバム10枚をリリースしている。
 
-2006年からはアコースティックギターによる弾き語りライブを始める。2007年からは「アコースティック・ライブ 〜 the 単独犯」と題し都内のライブハウスを中心に、名古屋、大阪、京都、広島、福岡等全国のライブハウスで開催。またアコースティックギターでのジョイントライブを、[中野督夫](../Page/中野督夫.md "wikilink")（[センチメンタル・シティ・ロマンス](../Page/センチメンタル・シティ・ロマンス.md "wikilink")）、[大橋隆志](../Page/大橋隆志.md "wikilink")（元[聖飢魔II](../Page/聖飢魔II.md "wikilink")）、[木暮"shake"武彦](../Page/木暮武彦.md "wikilink")（元[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")）、[岸部眞明](https://ja.wikipedia.org/wiki/岸部眞明 "wikilink")、[曾我泰久](../Page/曾我泰久.md "wikilink")（[THE GOOD-BYE](../Page/THE_GOOD-BYE.md "wikilink")）らと行っている。
+2006年からはアコースティックギターによる弾き語りライブを始める。2007年からは「アコースティック・ライブ 〜 the 単独犯」と題し都内のライブハウスを中心に、名古屋、大阪、京都、広島、福岡等全国のライブハウスで開催。またアコースティックギターでのジョイントライブを、[中野督夫](../Page/中野督夫.md "wikilink")（[センチメンタル・シティ・ロマンス](../Page/センチメンタル・シティ・ロマンス.md "wikilink")）、[大橋隆志](../Page/大橋隆志.md "wikilink")（元[聖飢魔II](../Page/聖飢魔II.md "wikilink")）、[木暮"shake"武彦](../Page/木暮武彦.md "wikilink")（元[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")）、[岸部眞明](../Page/岸部眞明.md "wikilink")、[曾我泰久](../Page/曾我泰久.md "wikilink")（[THE GOOD-BYE](../Page/THE_GOOD-BYE.md "wikilink")）らと行っている。
 
 ## 人物
 

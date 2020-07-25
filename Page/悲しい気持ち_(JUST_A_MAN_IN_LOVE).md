@@ -7,7 +7,7 @@
 
 ## 背景・リリース
 
-本作は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[KAMAKURA](../Page/KAMAKURA.md "wikilink")』の発売を最後に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としての活動を休止し、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")では、[KUWATA BANDで](../Page/KUWATA_BAND.md "wikilink")1年限りの活動を終えた桑田がリリースした、ソロ名義では初めてとなる作品である。
+本作は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[KAMAKURA](../Page/KAMAKURA.md "wikilink")』の発売を最後に[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としての活動を休止し、[1986年](../Page/1986年.md "wikilink")では、[KUWATA BANDで](../Page/KUWATA_BAND.md "wikilink")1年限りの活動を終えた桑田がリリースした、ソロ名義では初めてとなる作品である。
 
 [1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")には[CDシングルとして再発](../Page/コンパクトディスク.md "wikilink")。サザンのデビュー23周年となる[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")にはリマスタリングが施され、「[祭りのあと](../Page/祭りのあと_\(桑田佳祐の曲\).md "wikilink")」までのシングルと同時にマキシシングルで再発された
 

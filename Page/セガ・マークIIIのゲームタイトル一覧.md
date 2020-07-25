@@ -96,11 +96,11 @@
   - 7月2日 [ファイナルバブルボブル](../Page/バブルボブル.md "wikilink")（セガ、2Mカセット）
   - 7月17日 [キャプテンシルバー](../Page/キャプテンシルバー.md "wikilink")（セガ、2Mカセット）◎
   - 7月30日 [め組レスキュー](https://ja.wikipedia.org/wiki/め組レスキュー "wikilink")（セガ、1Mカセット）◎
-  - 7月30日 [サンダーブレード](https://ja.wikipedia.org/wiki/サンダーブレード "wikilink")（セガ、2Mカセット）◎
+  - 7月30日 [サンダーブレード](../Page/サンダーブレード.md "wikilink")（セガ、2Mカセット）◎
   - 8月14日 [魔王ゴルベリアス](https://ja.wikipedia.org/wiki/魔王ゴルベリアス "wikilink")（セガ、2Mカセット）◎
   - 9月9日 [熱球甲子園](https://ja.wikipedia.org/wiki/熱球甲子園 "wikilink")（セガ、2Mカセット）◎
   - 9月23日 [孔雀王](../Page/孔雀王.md "wikilink")（セガ、4Mカセット）◎
-  - 10月1日 [R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")（セガ、4Mカセット）★◎
+  - 10月1日 [R-TYPE](../Page/R-TYPE.md "wikilink")（セガ、4Mカセット）★◎
   - 10月1日 [ダブルドラゴン](../Page/ダブルドラゴンシリーズ.md "wikilink")（セガ、2Mカセット）◎
   - 10月15日 [イース](../Page/イースI.md "wikilink")（セガ、2Mカセット）◎
   - 10月29日 [スポーツパッドサッカー](https://ja.wikipedia.org/wiki/スポーツパッドサッカー "wikilink")（セガ、1Mカセット）◎

@@ -431,7 +431,7 @@
 <!-- end list -->
 
   -
-    （[テレ玉及び](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[J:COM 川口・戸田にて放送されている市の広報番組で](https://ja.wikipedia.org/wiki/ジェイコム川口戸田 "wikilink")、2007年2月の「南西循環デビュー！toco出発！〜戸田市コミュニティバス〜」や2014年6月の「tocoでお出かけ！　戸田市コミュニティバス」の回では、このtocoについて取り上げられた。）
+    （[テレ玉及び](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[J:COM 川口・戸田にて放送されている市の広報番組で](../Page/ジェイコム川口戸田.md "wikilink")、2007年2月の「南西循環デビュー！toco出発！〜戸田市コミュニティバス〜」や2014年6月の「tocoでお出かけ！　戸田市コミュニティバス」の回では、このtocoについて取り上げられた。）
 
 [Category:国際興業](https://ja.wikipedia.org/wiki/Category:国際興業 "wikilink") [Category:関東地方のコミュニティバス](https://ja.wikipedia.org/wiki/Category:関東地方のコミュニティバス "wikilink") [Category:埼玉県の交通](https://ja.wikipedia.org/wiki/Category:埼玉県の交通 "wikilink") [Category:戸田市](https://ja.wikipedia.org/wiki/Category:戸田市 "wikilink")
 

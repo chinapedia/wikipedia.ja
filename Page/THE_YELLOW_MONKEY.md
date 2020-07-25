@@ -2133,7 +2133,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 7月2日 <a href="../Page/大宮ソニックシティ.md" title="wikilink">大宮ソニックシティ</a><br />
 7月4日 <a href="https://ja.wikipedia.org/wiki/高松市民会館" title="wikilink">高松市民会館</a><br />
 7月5日 <a href="../Page/松山市民会館.md" title="wikilink">松山市民会館</a><br />
-7月7日 <a href="https://ja.wikipedia.org/wiki/高知県立県民文化ホール" title="wikilink">高知県立県民文化ホール</a><br />
+7月7日 <a href="../Page/高知県立県民文化ホール.md" title="wikilink">高知県立県民文化ホール</a><br />
 7月8日 <a href="../Page/徳島市立文化センター.md" title="wikilink">徳島市立文化センター</a><br />
 7月10日 <a href="../Page/広島県立文化芸術ホール.md" title="wikilink">広島郵便貯金ホール</a><br />
 7月11日 岡山市民会館<br />
@@ -2272,7 +2272,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 7月14日 神戸国際会館 ハーバーランドプラザ<br />
 9月1日 <a href="../Page/広島市文化交流会館.md" title="wikilink">広島厚生年金会館</a><br />
 9月2日 広島厚生年金会館<br />
-9月4日 <a href="https://ja.wikipedia.org/wiki/島根県民会館" title="wikilink">島根県民会館</a><br />
+9月4日 <a href="../Page/島根県民会館.md" title="wikilink">島根県民会館</a><br />
 9月5日 <a href="https://ja.wikipedia.org/wiki/鳥取県民文化会館" title="wikilink">鳥取県民文化会館</a><br />
 9月7日 <a href="https://ja.wikipedia.org/wiki/周南市文化会館" title="wikilink">徳山市文化会館</a><br />
 9月9日 <a href="../Page/香川県県民ホール.md" title="wikilink">香川県県民ホール</a><br />
@@ -2567,7 +2567,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 <p>全27公演</p>
 </div>
 <div class="NavContent" style="text-align:left;">
-<p>4月27日 <a href="https://ja.wikipedia.org/wiki/静岡県小笠山総合運動公園アリーナ" title="wikilink">静岡県小笠山総合運動公園アリーナ</a><br />
+<p>4月27日 <a href="../Page/静岡県小笠山総合運動公園アリーナ.md" title="wikilink">静岡県小笠山総合運動公園アリーナ</a><br />
 4月28日 静岡県小笠山総合運動公園アリーナ<br />
 5月11日 <a href="../Page/北海道立総合体育センター.md" title="wikilink">北海道立総合体育センター</a> 北海きたえーる<br />
 5月12日 北海道立総合体育センター 北海きたえーる<br />

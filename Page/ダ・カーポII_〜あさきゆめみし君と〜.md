@@ -19,9 +19,9 @@
         作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel Note](../Page/Angel_Note.md "wikilink")
     <!-- end list -->
       - [PCゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』オープニングテーマ
-      - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")』オープニングテーマ
+      - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")『[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")』オープニングテーマ
       - PCゲーム『[D.C.II P.C. 〜ダ・カーポII〜 プラスコミュニケーション](https://ja.wikipedia.org/wiki/D.C.II_P.C._〜ダ・カーポII〜_プラスコミュニケーション "wikilink")』オープニングテーマ
-      - [PSPゲーム](../Page/PlayStation_Portable.md "wikilink")『[D.C.I\&II P.S.P 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")』オープニングテーマ
+      - [PSPゲーム](../Page/PlayStation_Portable.md "wikilink")『[D.C.I\&II P.S.P 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")』オープニングテーマ
     <!-- end list -->
       -
         当初、「あさきゆめみし」という言葉に対して古風なイメージを抱いていたが、歌っていくうちにそういうイメージが消えていったという。また、楽曲の世界感や[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")が描く『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』の世界で揺るがない物が描かれている\[2\]。

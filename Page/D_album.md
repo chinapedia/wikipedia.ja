@@ -16,7 +16,7 @@
 1.  **Burning Love**
     （作詞・作曲:[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")　編曲:[宗像仁志](https://ja.wikipedia.org/wiki/宗像仁志 "wikilink")）
 2.  **Back Fire**
-    （作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲・編曲:[石塚知生](../Page/石塚知生.md "wikilink")　コーラスレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
+    （作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲・編曲:[石塚知生](../Page/石塚知生.md "wikilink")　コーラスレンジ:[岩田雅之](../Page/岩田雅之.md "wikilink")）
 3.  **[夏の王様](https://ja.wikipedia.org/wiki/夏の王様/もう君以外愛せない "wikilink")**
     （作詞:[康珍化](../Page/康珍化.md "wikilink") 作曲：[羽田一郎](../Page/羽田一郎.md "wikilink")　編曲:[船山基紀](../Page/船山基紀.md "wikilink")）
       -

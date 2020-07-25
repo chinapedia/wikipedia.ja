@@ -3,7 +3,7 @@
 
 『**Fish Inn (リミックス盤)**』（フィッシュ・イン - りみっくすばん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")のリミックス盤。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ジャパンレコーズよりリリースされた](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。
+[1986年](../Page/1986年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ジャパンレコーズよりリリースされた](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。
 
 ザ・スターリンは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")の[大映スタジオでのラストライブを以って解散していたが](https://ja.wikipedia.org/wiki/角川大映撮影所 "wikilink")、解散から1年10ヶ月後に本作はリリースされた。同バンドの通算4枚目のアルバム『[Fish Inn](../Page/Fish_Inn.md "wikilink")』（[1984年](../Page/1984年.md "wikilink")）を、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")およびがリミックスを施した作品であり、リリース当初はビルが初めて日本のロックバンドの作品をプロデュースした事で話題となった\[1\]。
 
@@ -25,11 +25,11 @@
 
 ## リリース
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ジャパンレコーズより](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")2形態でリリースされた。
+[1986年](../Page/1986年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ジャパンレコーズより](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")2形態でリリースされた。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")、[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")にCDのみ再リリースされている。[2003年](../Page/2003年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")には初めてデジタルリマスタリングされ、紙ジャケット仕様、ボーナストラックが1曲収録された形で再リリースされた。ボーナストラックの「ワルシャワの幻想」は[1984年](../Page/1984年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")の[新宿ロフトでのライブ音源から収録されている](../Page/ロフト_\(ライブハウス\).md "wikilink")。
 
-[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")には[SHM-CD仕様で再リリース](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")\[7\]、[2016年](../Page/2016年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")にはアナログ盤として再リリースされた\[8\]\[9\]。
+[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")には[SHM-CD仕様で再リリース](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")\[7\]、[2016年](../Page/2016年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")にはアナログ盤として再リリースされた\[8\]\[9\]。
 
 ## 批評
 
@@ -97,7 +97,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><a href="../Page/徳間ジャパンコミュニケーションズ.md" title="wikilink">徳間ジャパン</a>／ジャパンレコーズ</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
@@ -137,7 +137,7 @@
 <td><p>5</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
 <td><p>徳間ジャパン／WAX RECORDS</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>TKCA-10116</p></td>
 <td><p>-</p></td>
 <td><p>紙ジャケット仕様</p></td>

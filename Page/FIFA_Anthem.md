@@ -17,7 +17,7 @@
 
 ## 例外
 
-[2002 FIFAワールドカップでは](../Page/2002_FIFAワールドカップ.md "wikilink")、[ヴァンゲリス](../Page/ヴァンゲリス.md "wikilink")の「[アンセム-2002 FIFA World Cup 公式アンセム](https://ja.wikipedia.org/wiki/アンセム-2002_FIFA_World_Cup_公式アンセム "wikilink")」が使用された。[2018 FIFAワールドカップでは](../Page/2018_FIFAワールドカップ.md "wikilink")、ハンス・ジマー & ロアン・バルフェの楽曲'Living Football'が用いられた。また、[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")では選手入場時は無音又は別の曲がかけられる。
+[2002 FIFAワールドカップでは](../Page/2002_FIFAワールドカップ.md "wikilink")、[ヴァンゲリス](../Page/ヴァンゲリス.md "wikilink")の「[アンセム-2002 FIFA World Cup 公式アンセム](../Page/アンセム-2002_FIFA_World_Cup_公式アンセム.md "wikilink")」が使用された。[2018 FIFAワールドカップでは](../Page/2018_FIFAワールドカップ.md "wikilink")、ハンス・ジマー & ロアン・バルフェの楽曲'Living Football'が用いられた。また、[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")では選手入場時は無音又は別の曲がかけられる。
 
 ## 関連項目
 

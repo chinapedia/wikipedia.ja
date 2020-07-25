@@ -1,7 +1,7 @@
 > この記事は[MAZDA SUPER SUNDAY](https://ja.wikipedia.org/wiki/MAZDA_SUPER_SUNDAY)から翻訳されています。
 
 
-**MAZDA SUPER SUNDAY**（マツダスーパーサンデー）は[TOKYO FMをキー局とする全国の](../Page/エフエム東京.md "wikilink")[JFN加盟の民間FM放送局](../Page/全国FM放送協議会.md "wikilink")38社（当初36社、後に[Radio80と](../Page/エフエム岐阜.md "wikilink")[Kiss-FM KOBEが加わる](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")）で[1999年](../Page/1999年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に放送されていた[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")株式会社一社提供の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+**MAZDA SUPER SUNDAY**（マツダスーパーサンデー）は[TOKYO FMをキー局とする全国の](../Page/エフエム東京.md "wikilink")[JFN加盟の民間FM放送局](../Page/全国FM放送協議会.md "wikilink")38社（当初36社、後に[Radio80と](../Page/エフエム岐阜.md "wikilink")[Kiss-FM KOBEが加わる](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")）で[1999年](../Page/1999年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に放送されていた[マツダ](../Page/マツダ.md "wikilink")株式会社一社提供の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 放送時間
 

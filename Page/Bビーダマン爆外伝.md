@@ -702,7 +702,7 @@
 
   - 原案 - [藤原茂樹](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink")、天野幹俊
   - 漫画 - [三鷹公一](https://ja.wikipedia.org/wiki/三鷹公一 "wikilink")（[小学館](../Page/小学館.md "wikilink")「[てんとう虫コミックス](../Page/てんとう虫コミックス.md "wikilink")」刊）
-  - 企画 - 小林信一、[落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")
+  - 企画 - 小林信一、[落合茂一](../Page/落合茂一.md "wikilink")、[丸山正雄](../Page/丸山正雄.md "wikilink")
   - 監督 - [中西伸彰](https://ja.wikipedia.org/wiki/中西伸彰 "wikilink")
   - シリーズ構成 - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
   - キャラクター原案 - [水野祥司](https://ja.wikipedia.org/wiki/水野祥司 "wikilink")

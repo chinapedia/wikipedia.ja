@@ -19,7 +19,7 @@
 
 [2004年](../Page/2004年.md "wikilink")には[NASDAQ](../Page/NASDAQ.md "wikilink")運営母体であるNASD（全米証券業協会）と合併した（組織形態は[LLC](../Page/LLC.md "wikilink")）\[2\]。
 
-2008年1月17日に[NYSEユーロネクスト](https://ja.wikipedia.org/wiki/NYSEユーロネクスト "wikilink")は[AMEX](https://ja.wikipedia.org/wiki/AMEX "wikilink")を$2億6000万の株式で[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")すると発表した。2008年10月1日にこの買収は完了したAMEXはユーロネクストグループである[:en:Alternext](https://ja.wikipedia.org/wiki/:en:Alternext "wikilink")と統合され、 **NYSE Alternext U.S.**となった。2009年3月NYSE Alternext U.S.は**NYSE Amex Equities**となった。2012年3月10日、NYSE Amex Equitiesは**NYSE MKT LLC**と改称した。
+2008年1月17日に[NYSEユーロネクスト](../Page/NYSEユーロネクスト.md "wikilink")は[AMEX](https://ja.wikipedia.org/wiki/AMEX "wikilink")を$2億6000万の株式で[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")すると発表した。2008年10月1日にこの買収は完了したAMEXはユーロネクストグループである[:en:Alternext](https://ja.wikipedia.org/wiki/:en:Alternext "wikilink")と統合され、 **NYSE Alternext U.S.**となった。2009年3月NYSE Alternext U.S.は**NYSE Amex Equities**となった。2012年3月10日、NYSE Amex Equitiesは**NYSE MKT LLC**と改称した。
 
 2008年12月1日、[トリニティ・プレイス](https://ja.wikipedia.org/wiki/トリニティ・プレイス "wikilink") 86番地にあったCurb ExchangeビルのAMEXトレーディング・フロアは閉鎖され、[ウォール・ストリート](https://ja.wikipedia.org/wiki/ウォール・ストリート "wikilink") 11番地にあるニューヨーク証券取引所のトレーディング・フロアへ移転した。
 

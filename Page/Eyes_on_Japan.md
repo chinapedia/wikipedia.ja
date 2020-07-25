@@ -134,7 +134,7 @@
 
 ::\*ここから30分は全国38局ネット
 
-  - 7:07 [聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")プラネット・グラフィティ
+  - 7:07 [聖教新聞](../Page/聖教新聞.md "wikilink")プラネット・グラフィティ
   - 7:08 ☆交通情報
   - 7:10 ※[リポビタンD Sports Nonfiction](../Page/リポビタンD_Sports_Nonfiction.md "wikilink")
   - 7:20 ※[TOYOTA VIEW UP TOMORROWShow](https://ja.wikipedia.org/wiki/TOYOTA_VIEW_UP_TOMORROW "wikilink") Biz File・・・各界で活躍する人物にインタビューをおこなう。

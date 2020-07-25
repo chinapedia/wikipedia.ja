@@ -238,7 +238,7 @@
 
   - 「僕らは…」 - 作詞・作曲[そら坊](https://ja.wikipedia.org/wiki/そら坊 "wikilink") ※元歌は[太陽族](../Page/太陽族_\(バンド\).md "wikilink")（オープニングテーマ）
   - 「仲間のうた」 - 作詞・作曲[高木芳基](https://ja.wikipedia.org/wiki/高木芳基 "wikilink") ※元歌は[ザ・マスミサイル](../Page/ザ・マスミサイル.md "wikilink")
-  - 「時代」 - 作詞・作曲[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink") ※元歌は[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - 「時代」 - 作詞・作曲[中島みゆき](../Page/中島みゆき.md "wikilink") ※元歌は[中島みゆき](../Page/中島みゆき.md "wikilink")
   - 「風にのっけて」 - 作詞[斉藤いんこ](../Page/斉藤美和子.md "wikilink")
   - 「夢へまっすぐに」 - 作詞斉藤いんこ、[浜口祐夢](https://ja.wikipedia.org/wiki/浜口祐夢 "wikilink")（エンディングテーマ）
 

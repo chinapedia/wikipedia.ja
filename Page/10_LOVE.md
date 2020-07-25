@@ -48,7 +48,7 @@ CDジャーナルは、「彼女の持つピュア・ラブな姿を、どの楽
 
   - Special Background Vocal & Guitars & Programming：長谷川智樹
   - Bass：[沖山優司](../Page/沖山優司.md "wikilink")
-  - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - Drums：[宮田繁男](../Page/宮田繁男.md "wikilink")
 
 **青空スクールデイズ**
 

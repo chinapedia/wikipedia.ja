@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  **[負けないで](../Page/負けないで.md "wikilink")** - 原曲：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+1.  **[負けないで](../Page/負けないで.md "wikilink")** - 原曲：[ZARD](../Page/ZARD.md "wikilink")
       -
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲・編曲：織田哲郎
 2.  **[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")** - 原曲：[TUBE](../Page/TUBE.md "wikilink")

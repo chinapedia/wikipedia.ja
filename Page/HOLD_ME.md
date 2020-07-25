@@ -1,7 +1,7 @@
 > この記事は[HOLD ME](https://ja.wikipedia.org/wiki/HOLD_ME)から翻訳されています。
 
 
-『**HOLD ME**』（ホールド・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1992年](../Page/1992年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[b.gramから発売した](https://ja.wikipedia.org/wiki/ポリドール・レコード#日本のポリドール "wikilink")3枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**HOLD ME**』（ホールド・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[b.gramから発売した](https://ja.wikipedia.org/wiki/ポリドール・レコード#日本のポリドール "wikilink")3枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 

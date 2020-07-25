@@ -11,7 +11,7 @@
 
 ## ディスコグラフィ
 
-作品は一部を除いて一般流通には乗らず、[とらのあな](../Page/コミックとらのあな.md "wikilink")・[メロンブックス](../Page/メロンブックス.md "wikilink")・[あきばお〜](https://ja.wikipedia.org/wiki/あきばお〜 "wikilink")等の[同人ショップ](../Page/同人ショップ.md "wikilink")や、コミックマーケット等のイベントでの販売となる。
+作品は一部を除いて一般流通には乗らず、[とらのあな](../Page/コミックとらのあな.md "wikilink")・[メロンブックス](../Page/メロンブックス.md "wikilink")・[あきばお〜](../Page/あきばお〜.md "wikilink")等の[同人ショップ](../Page/同人ショップ.md "wikilink")や、コミックマーケット等のイベントでの販売となる。
 
   - **『WHITE-LIPS VOCAL COLLECTION』**（[2005年](../Page/2005年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")発売/TYNR-0001）
 

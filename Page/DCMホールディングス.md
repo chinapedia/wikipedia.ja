@@ -1,7 +1,7 @@
 > この記事は[DCMホールディングス](https://ja.wikipedia.org/wiki/DCMホールディングス)から翻訳されています。
 
 
-**DCMホールディングス株式会社**（ディーシーエムホールディングス）は、傘下に[DCMカーマ](../Page/DCMカーマ.md "wikilink")、[DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink")、[DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")などを持つ持株会社。3社の前身であるカーマ、ダイキ、ホーマックの経営統合により設立された、DCMグループ（旧:DJグループ）の統括会社である。
+**DCMホールディングス株式会社**（ディーシーエムホールディングス）は、傘下に[DCMカーマ](../Page/DCMカーマ.md "wikilink")、[DCMダイキ](../Page/DCMダイキ.md "wikilink")、[DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")などを持つ持株会社。3社の前身であるカーマ、ダイキ、ホーマックの経営統合により設立された、DCMグループ（旧:DJグループ）の統括会社である。
 
 社名は、3社と[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")による共同物流会社として設立された、[DCMジャパン](../Page/DCMジャパン.md "wikilink")（DCMJ、現在は吸収合併）に由来する。
 
@@ -48,7 +48,7 @@
 
   - [DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")株式会社 100%
   - [DCMカーマ](../Page/DCMカーマ.md "wikilink")株式会社 100%
-  - [DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink")株式会社 100%
+  - [DCMダイキ](../Page/DCMダイキ.md "wikilink")株式会社 100%
   - [DCMサンワ](../Page/DCMサンワ.md "wikilink")株式会社 100%
   - [DCMくろがねや](../Page/DCMくろがねや.md "wikilink")株式会社 100%
   - 株式会社[ホームセンターサンコー](../Page/ホームセンターサンコー.md "wikilink") 100%

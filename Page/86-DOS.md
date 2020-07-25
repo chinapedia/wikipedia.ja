@@ -39,7 +39,7 @@ PCをリリースする1ヶ月前の[1981年](../Page/1981年.md "wikilink")7月
 
 IBMはDOSを60ドルで販売し、その価格設定は240ドルのCP/M-86よりも遥かに魅力的だった。デジタルリサーチ社は、CP/Mの[システムコール](../Page/システムコール.md "wikilink")、プログラム構造、[ユーザーインターフェイス](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")のほぼすべてをDOSに模倣されていたためマイクロソフトを訴えることを考えたが、結局は取りやめた。マイクロソフトを訴えればIBMも訴えなければならなくなり、IBMのような巨大な企業を相手に裁判で戦えるほどの資金は無く、勝てる見込みが無いと考えられた。
 
-[1982年](../Page/1982年.md "wikilink")までにIBMが[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")に準拠したDOSのバージョンをリリースするようマイクロソフトに依頼した時には、PC DOS 2.0はDOSをほとんど書き直していた。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月までには、86-DOS由来のソースコードはほんの一部が残っているだけになっていた。86-DOS由来のソフトウェアで最も長く生き残った部分は、原始的なライン・エディタの[EDLIN](https://ja.wikipedia.org/wiki/EDLIN "wikilink")である。[QBasic](https://ja.wikipedia.org/wiki/QBasic "wikilink")を元とするグラフィカルなエディタ（EDITとして知られている）を同梱した[MS-DOS](../Page/MS-DOS.md "wikilink") 5.0が[1991年](../Page/1991年.md "wikilink")6月にリリースされるまで、EDLINはマイクロソフト版のDOSで提供されていた唯一のエディタであった。
+[1982年](../Page/1982年.md "wikilink")までにIBMが[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")に準拠したDOSのバージョンをリリースするようマイクロソフトに依頼した時には、PC DOS 2.0はDOSをほとんど書き直していた。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月までには、86-DOS由来のソースコードはほんの一部が残っているだけになっていた。86-DOS由来のソフトウェアで最も長く生き残った部分は、原始的なライン・エディタの[EDLIN](../Page/EDLIN.md "wikilink")である。[QBasic](https://ja.wikipedia.org/wiki/QBasic "wikilink")を元とするグラフィカルなエディタ（EDITとして知られている）を同梱した[MS-DOS](../Page/MS-DOS.md "wikilink") 5.0が[1991年](../Page/1991年.md "wikilink")6月にリリースされるまで、EDLINはマイクロソフト版のDOSで提供されていた唯一のエディタであった。
 
 ## 86-DOS のバージョン
 

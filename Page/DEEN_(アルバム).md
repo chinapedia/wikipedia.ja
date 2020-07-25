@@ -5,7 +5,7 @@
 
 ## 作品の解説
 
-[宇津本直紀](../Page/宇津本直紀.md "wikilink")加入後のオリジナルアルバム。「[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")」「[Memories](../Page/Memories_\(DEENの曲\).md "wikilink")」「[永遠をあずけてくれ](../Page/永遠をあずけてくれ.md "wikilink")」は田川伸治在籍の曲ではない。また、「[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")」を収録していない。
+[宇津本直紀](../Page/宇津本直紀.md "wikilink")加入後のオリジナルアルバム。「[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")」「[Memories](../Page/Memories_\(DEENの曲\).md "wikilink")」「[永遠をあずけてくれ](../Page/永遠をあずけてくれ.md "wikilink")」は田川伸治在籍の曲ではない。また、「[翼を広げて](../Page/翼を広げて.md "wikilink")」を収録していない。
 
 売り上げは160万枚を越え、**オリコン史上初のファーストシングル、ファーストアルバム両方のミリオン**を達成した（その後、[KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[Kiroro](../Page/Kiroro.md "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")が達成）。
 

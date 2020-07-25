@@ -118,7 +118,7 @@
 | 59 | [11月25日](../Page/11月25日.md "wikilink")                    | [藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")                                                                      | [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")                                                   |                    |
 | 60 | [12月2日](../Page/12月2日.md "wikilink")                      | [Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")                                                          | [千原ジュニア](../Page/千原ジュニア.md "wikilink")、[安田美沙子](https://ja.wikipedia.org/wiki/安田美沙子 "wikilink")                                                              |                    |
 | 61 | [12月9日](../Page/12月9日.md "wikilink")                      | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                                                                               | [永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、[品川庄司](../Page/品川庄司.md "wikilink")                                                                    |                    |
-| 62 | [12月16日](../Page/12月16日.md "wikilink")                    | [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")                                                                | [片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")、[香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")                                                                  |                    |
+| 62 | [12月16日](../Page/12月16日.md "wikilink")                    | [KAT-TUN](../Page/KAT-TUN.md "wikilink")                                                                                   | [片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")、[香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")                                                                  |                    |
 | 63 | [12月23日](../Page/12月23日.md "wikilink")                    | [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")                                                                      | [城彰二](../Page/城彰二.md "wikilink")                                                                                                                            |                    |
 
 </div>
@@ -557,7 +557,7 @@
 <tr class="even">
 <td><p>247</p></td>
 <td><p><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 <td><p><a href="../Page/哀川翔.md" title="wikilink">哀川翔</a>、<a href="../Page/塚地武雅.md" title="wikilink">塚地武雅</a>（<a href="../Page/ドランクドラゴン.md" title="wikilink">ドランクドラゴン</a>）</p></td>
 <td></td>
 </tr>
@@ -997,7 +997,7 @@ flumpool</p></td>
 <tr class="even">
 <td><p>304</p></td>
 <td><p><a href="../Page/9月9日.md" title="wikilink">9月9日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 <td><p><a href="../Page/中山秀征.md" title="wikilink">中山秀征</a></p></td>
 <td></td>
 </tr>

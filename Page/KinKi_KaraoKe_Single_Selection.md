@@ -24,7 +24,7 @@
 1.  **[硝子の少年](../Page/硝子の少年.md "wikilink")**
     (作曲・編曲:[山下達郎](../Page/山下達郎.md "wikilink"))
 2.  **[愛されるより 愛したい](../Page/愛されるより_愛したい.md "wikilink")**
-    (作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink"))
+    (作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:[岩田雅之](../Page/岩田雅之.md "wikilink"))
 3.  **[ジェットコースター・ロマンス](../Page/ジェットコースター・ロマンス.md "wikilink")**
     (作曲:山下達郎　編曲:船山基紀)
 4.  **[全部だきしめて](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")**

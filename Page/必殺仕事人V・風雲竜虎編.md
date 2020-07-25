@@ -158,7 +158,7 @@
 
 :\* 巳代松 - [高峰圭二](../Page/高峰圭二.md "wikilink")
 
-:\* 六兵衛 - [五味龍太郎](https://ja.wikipedia.org/wiki/五味龍太郎 "wikilink")
+:\* 六兵衛 - [五味龍太郎](../Page/五味龍太郎.md "wikilink")
 
 :\* お竜 - [鈴川法子](https://ja.wikipedia.org/wiki/鈴川法子 "wikilink")
 

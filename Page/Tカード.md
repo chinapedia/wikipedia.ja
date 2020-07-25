@@ -7,7 +7,7 @@
 
 ## 都電・都バス用
 
-  - [1993年](../Page/1993年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[都電と](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")[都バスで使える乗車カードとして発売されたものである](../Page/都営バス.md "wikilink")。[神奈川中央交通](https://ja.wikipedia.org/wiki/神奈川中央交通 "wikilink")の[バスカード](../Page/バスカード.md "wikilink")と同じシステムを採用した。
+  - [1993年](../Page/1993年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[都電と](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")[都バスで使える乗車カードとして発売されたものである](../Page/都営バス.md "wikilink")。[神奈川中央交通](../Page/神奈川中央交通.md "wikilink")の[バスカード](../Page/バスカード.md "wikilink")と同じシステムを採用した。
   - [1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[バス共通カード](../Page/バス共通カード.md "wikilink")が東京23区に拡大されたのに伴い、バス共通カードの発売に切り替えられた（ただし[JTB](../Page/JTB.md "wikilink")の都営交通取扱店ではその後もしばらくの間発売された）。
 
 ## 地下鉄用（→パスネット）

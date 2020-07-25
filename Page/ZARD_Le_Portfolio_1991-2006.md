@@ -1,7 +1,7 @@
 > この記事は[ZARD Le Portfolio 1991-2006](https://ja.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006)から翻訳されています。
 
 
-『**ZARD Le Portfolio 1991-2006**』（ザード・ル・ポルトフォーリオ・ナインティーンナイティワン・ツーサウザンドシックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の2作目の映像作品。
+『**ZARD Le Portfolio 1991-2006**』（ザード・ル・ポルトフォーリオ・ナインティーンナイティワン・ツーサウザンドシックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")の2作目の映像作品。
 
 ## 概要
 

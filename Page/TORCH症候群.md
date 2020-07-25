@@ -7,7 +7,7 @@
 
   - **T**oxoplasmosis（*[Toxoplasma gondii](https://ja.wikipedia.org/wiki/Toxoplasma_gondii "wikilink")* による[先天性トキソプラズマ症](https://ja.wikipedia.org/wiki/先天性トキソプラズマ症 "wikilink")）
   - **O**ther（その他多く：[B型肝炎](../Page/B型肝炎.md "wikilink")ウイルス、[パルボウイルスB19](https://ja.wikipedia.org/wiki/パルボウイルス#パルボウイルスB19 "wikilink")、[コクサッキーウイルス](https://ja.wikipedia.org/wiki/コクサッキーウイルス "wikilink")、[EBウイルス](https://ja.wikipedia.org/wiki/EBウイルス "wikilink")、[水痘・帯状疱疹ウイルス](../Page/水痘・帯状疱疹ウイルス.md "wikilink")、[梅毒](../Page/梅毒.md "wikilink")など）
-  - **R**ubella（[風疹ウイルス](https://ja.wikipedia.org/wiki/風疹ウイルス "wikilink")による[先天性風疹症候群](../Page/先天性風疹症候群.md "wikilink")）
+  - **R**ubella（[風疹ウイルス](../Page/風疹ウイルス.md "wikilink")による[先天性風疹症候群](../Page/先天性風疹症候群.md "wikilink")）
   - **C**ytomegalovirus（[サイトメガロウイルス](https://ja.wikipedia.org/wiki/サイトメガロウイルス "wikilink")による[先天性サイトメガロウイルス感染症](https://ja.wikipedia.org/wiki/先天性サイトメガロウイルス感染症 "wikilink")）
   - **H**erpes simplex virus（[単純ヘルペスウイルス](../Page/単純ヘルペスウイルス.md "wikilink")による[先天性ヘルペスウイルス感染症](https://ja.wikipedia.org/wiki/先天性ヘルペスウイルス感染症 "wikilink")）
 

@@ -7,7 +7,7 @@
 
 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[MMX](../Page/MMX.md "wikilink")では[整数](../Page/整数.md "wikilink")演算のみをサポートし、[浮動小数点演算には未対応であった](../Page/浮動小数点数.md "wikilink")。3DNow\!は、MMXに21個の[命令を追加することで浮動小数点演算の高速化を図ったものである](../Page/命令_\(コンピュータ\).md "wikilink")\[1\]\[2\]。
 
-具体的には[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")MMX[レジスタに](../Page/レジスタ_\(コンピュータ\).md "wikilink")[32ビット](../Page/32ビット.md "wikilink")の浮動小数点演算データを2個格納し、それぞれを独立して演算出来るようにしている。3DNow\!ではさらに2個のMMXユニットが並列動作可能であるため、最大4個の浮動小数点演算が可能となる。
+具体的には[64ビット](../Page/64ビット.md "wikilink")MMX[レジスタに](../Page/レジスタ_\(コンピュータ\).md "wikilink")[32ビット](../Page/32ビット.md "wikilink")の浮動小数点演算データを2個格納し、それぞれを独立して演算出来るようにしている。3DNow\!ではさらに2個のMMXユニットが並列動作可能であるため、最大4個の浮動小数点演算が可能となる。
 
 3DNow\!は同社のCPU・[K6-2](../Page/AMD_K6-2.md "wikilink")\[3\]、[IDT](../Page/IDT.md "wikilink")の[WinChip 2](https://ja.wikipedia.org/wiki/WinChip#WinChip_2 "wikilink")\[4\]から搭載され始めた。開発当初はAMD、[サイリックス](../Page/サイリックス.md "wikilink")、IDT共に各社別々の仕様を発表していたが、AMDの働きかけにより、三社とも3DNow\!を採用することとなった。
 

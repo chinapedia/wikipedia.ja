@@ -203,7 +203,7 @@ NBC交響楽団はトスカニーニ以外、上述の[ロジンスキ](../Page/
         NBC響では、[ウィリアム・カペル](https://ja.wikipedia.org/wiki/ウィリアム・カペル "wikilink")との録音がある。
   - [フランコ・アウトリ](https://ja.wikipedia.org/wiki/フランコ・アウトリ "wikilink")（1946年）
   - アレクサンダー・スマレンス[（英語版）](https://ja.wikipedia.org/wiki/:en:Alexander_Smallens "wikilink")（1946年）
-  - [ロバート・ショウ](https://ja.wikipedia.org/wiki/ロバート・ショウ_\(指揮者\) "wikilink")（1946年）
+  - [ロバート・ショウ](../Page/ロバート・ショウ_\(指揮者\).md "wikilink")（1946年）
   - [ファビエン・セヴィツキー](../Page/ファビエン・セヴィツキー.md "wikilink")（1946年）
       -
         [セルゲイ・クーセヴィツキー](../Page/セルゲイ・クーセヴィツキー.md "wikilink")の親戚である。

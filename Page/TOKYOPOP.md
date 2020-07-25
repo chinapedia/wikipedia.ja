@@ -14,7 +14,7 @@
   - [ARIA](../Page/ARIA_\(漫画\).md "wikilink")
   - [BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")
   - [BOYS BE…](https://ja.wikipedia.org/wiki/BOYS_BE… "wikilink")
-  - [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")
+  - [GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")
   - [GTO](../Page/GTO_\(漫画\).md "wikilink")
   - [Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")
   - [藍より青し](../Page/藍より青し.md "wikilink")

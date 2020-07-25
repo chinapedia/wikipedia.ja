@@ -17,7 +17,7 @@
   - 応援サポーターとの役が設けられ、この年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[さくら](../Page/さくら_\(2002年のテレビドラマ\).md "wikilink")』の出演者である[高野志穂](../Page/高野志穂.md "wikilink")（ヒロイン。紅組サポーター）、[小澤征悦](../Page/小澤征悦.md "wikilink")（白組サポーター）が務めた。
   - 応援サポーターの発表前、『サンケイスポーツ』（2002年10月15日更新）がこの枠の候補として、紅組に[藤原紀香](../Page/藤原紀香.md "wikilink")、白組に[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[浜田雅功](../Page/浜田雅功.md "wikilink")（『[夢見るタマゴ\!熱血浜田塾](../Page/夢見るタマゴ!熱血浜田塾.md "wikilink")の夏期講習』の司会）を挙げていた。
   - この年[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")を受賞した[田中耕一](../Page/田中耕一.md "wikilink")に審査員の打診をしたが、早々に辞退した\[7\]。
-  - [テレビ番組](../Page/テレビ番組.md "wikilink")への出演が少なくこれまで紅白出場を辞退し続けてきた[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")が[黒部ダム](../Page/黒部ダム.md "wikilink")の[黒部川第四発電所](../Page/黒部川第四発電所.md "wikilink")から中継出演して「[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")」を歌い、放送前から話題を集めた。この時間帯が最高瞬間[視聴率](../Page/視聴率.md "wikilink")（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社・[関東地区調べ](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）となった\[8\]。曲紹介時、有働との絡みはなかった。これについては、当の本人の「あっけらかん」さが表れるのが嫌だった、と中島本人が語っている\[9\]。また同曲の最中中島が2番の歌詞を間違えた\[10\]ことも話題となった。演奏直前に、同曲が主題歌となっている『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』のVTRと、同番組でナレーションを務める[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")の声が流れた。応援ゲストとして出演した[爆笑問題](../Page/爆笑問題.md "wikilink")の[太田光](../Page/太田光.md "wikilink")によると、田口のナレーションは生であり、楽屋も用意されていたという。当初は「初出場にして紅組トリおよび大トリでの登場」になるのではないかとも報道された\[11\]が、「締めの歌はNHKホールから送りたい」（チーフプロデューサーの並木正行）という理由により、紅組トリでの出演は見送られた\[12\]。
+  - [テレビ番組](../Page/テレビ番組.md "wikilink")への出演が少なくこれまで紅白出場を辞退し続けてきた[中島みゆき](../Page/中島みゆき.md "wikilink")が[黒部ダム](../Page/黒部ダム.md "wikilink")の[黒部川第四発電所](../Page/黒部川第四発電所.md "wikilink")から中継出演して「[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")」を歌い、放送前から話題を集めた。この時間帯が最高瞬間[視聴率](../Page/視聴率.md "wikilink")（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社・[関東地区調べ](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）となった\[8\]。曲紹介時、有働との絡みはなかった。これについては、当の本人の「あっけらかん」さが表れるのが嫌だった、と中島本人が語っている\[9\]。また同曲の最中中島が2番の歌詞を間違えた\[10\]ことも話題となった。演奏直前に、同曲が主題歌となっている『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』のVTRと、同番組でナレーションを務める[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")の声が流れた。応援ゲストとして出演した[爆笑問題](../Page/爆笑問題.md "wikilink")の[太田光](../Page/太田光.md "wikilink")によると、田口のナレーションは生であり、楽屋も用意されていたという。当初は「初出場にして紅組トリおよび大トリでの登場」になるのではないかとも報道された\[11\]が、「締めの歌はNHKホールから送りたい」（チーフプロデューサーの並木正行）という理由により、紅組トリでの出演は見送られた\[12\]。
   - 中島は「すごかったのは、（歌詞間違えをした）その瞬間、（歌詞の）テロップを消してくださったんですってね。すごいわ、NHK」とNHKの瞬時の対応を絶賛している。さらに、「ここまで行ったら止まって、ここまでいったら歩いて、一節歌ったらこっちを向いて、みたいな一応練習はしていたんですけど、あの少し前でハウッたんですの。音がモニターがキーンって。そこでちょっと血圧上がりましたね。『やべ』って思った瞬間に、歩いてはいけないポイントで歩いてたんです、私。止まってなきゃならないのに…。目の前でスタッフがワラワラ後ずさっていくんです。あっ\!私、ここ止まってなきゃならないんだって思った瞬間、歌詞が…歌詞何って…って飛んだんです」と笑いながら歌詞間違えをした経緯を語っている。また、極寒の地での歌唱で「マイクが氷のように冷たいんです。気の毒だってんで（スタッフが）懐で暖めてくれたんですね。ありがたいことですね」と改めてスタッフの好意に感謝もしている\[13\]。
   - 中島が歌い終わり再びNHKホールに映像が切り替わった直後、司会の三宅は、「地上の星」は紅白用の特別版の歌詞であったが、誤って通常版の歌詞テロップを表示してしまったと説明した。
   - 紅組トップバッターおよび先行トップバッターの[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")のバックでは当時の藤本が所属していた[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の中で、同じく今回に出場していた[モーニング娘。](../Page/モーニング娘。.md "wikilink")4・5期メンバー8人がダンスを披露した。なお、ハロー\!プロジェクトからは他にも[松浦亜弥](../Page/松浦亜弥.md "wikilink")が出場しており、紅白で初めてハロー\!プロジェクトが紅組の3枠を使った。
@@ -127,7 +127,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p><a href="../Page/ZONE_(バンド).md" title="wikilink">ZONE</a>(2)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/夢ノカケラ・・・" title="wikilink">夢ノカケラ・・・</a></p></td>
+<td><p><a href="../Page/夢ノカケラ・・・.md" title="wikilink">夢ノカケラ・・・</a></p></td>
 <td><p>6</p></td>
 <td><p><a href="../Page/キンモクセイ_(バンド).md" title="wikilink">キンモクセイ</a>(初)</p></td>
 <td><p><a href="../Page/二人のアカボシ.md" title="wikilink">二人のアカボシ</a></p></td>
@@ -358,7 +358,7 @@
 </tr>
 <tr class="odd">
 <td><p>46</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中島みゆき" title="wikilink">中島みゆき</a>(初)</p></td>
+<td><p><a href="../Page/中島みゆき.md" title="wikilink">中島みゆき</a>(初)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト" title="wikilink">地上の星</a></p></td>
 <td><p>45</p></td>
 <td><p><a href="../Page/谷村新司.md" title="wikilink">谷村新司</a>(15)</p></td>
@@ -425,7 +425,7 @@
   - 「日本音楽界の総決算」をテーマとした今回出場歌手・曲目の多ジャンル化を決行\[18\]。一方で、[前回まで常連だった](../Page/第52回NHK紅白歌合戦.md "wikilink")[演歌歌手](../Page/演歌歌手.md "wikilink")が次々に落選となり（後述）、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")はNHKに対し批判的なコメントを出した\[19\]。
   - [オペラ](../Page/オペラ.md "wikilink")界から[鈴木慶江](https://ja.wikipedia.org/wiki/鈴木慶江 "wikilink")と[ジョン・健・ヌッツォ](../Page/ジョン・健・ヌッツォ.md "wikilink")が初出場\[20\]。
   - [沖縄](../Page/沖縄県.md "wikilink")・[奄美大島](../Page/奄美大島.md "wikilink")のメロディのヒットを受け、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")、[BEGINが初出場](../Page/BEGIN_\(バンド\).md "wikilink")\[21\]。
-  - テレビ出演が少ない[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")が初出場。中島のNHK出演は[1999年](../Page/1999年.md "wikilink")の『[夜会の冒険](https://ja.wikipedia.org/wiki/夜会の冒険 "wikilink")』以来。テレビへの生登場は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』以来で、NHKの番組への生出演はこれが初となった\[22\]。
+  - テレビ出演が少ない[中島みゆき](../Page/中島みゆき.md "wikilink")が初出場。中島のNHK出演は[1999年](../Page/1999年.md "wikilink")の『[夜会の冒険](https://ja.wikipedia.org/wiki/夜会の冒険 "wikilink")』以来。テレビへの生登場は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』以来で、NHKの番組への生出演はこれが初となった\[22\]。
   - 前回メンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事で出場を辞退した[SMAP](../Page/SMAP.md "wikilink")が2年ぶりに、「[あきらめましょう](../Page/あきらめましょう.md "wikilink")」がヒットした[華原朋美](../Page/華原朋美.md "wikilink")が4年ぶりに復帰\[23\]。
   - この年カバー・アルバムがヒットし、デビュー20周年を迎えた[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink")（[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年））以来14年ぶりに復帰を果たした\[24\]。
   - 16年連続出場（初出場以来）の[吉幾三](../Page/吉幾三.md "wikilink")、14年連続出場（初出場以来）の[坂本冬美](../Page/坂本冬美.md "wikilink")、12年連続出場（初出場以来）の[伍代夏子](../Page/伍代夏子.md "wikilink")、9年連続出場（通算10回出場）の[由紀さおり](../Page/由紀さおり.md "wikilink")・[安田祥子](../Page/安田祥子.md "wikilink")、8年連続出場（通算22回出場）の[郷ひろみ](../Page/郷ひろみ.md "wikilink")、5年連続出場（それぞれ初出場以来、通算18回出場）の[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")、3年連続出場（それぞれ通算23回、15回、16回出場）の[八代亜紀](../Page/八代亜紀.md "wikilink")、[松田聖子](../Page/松田聖子.md "wikilink")、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")といった常連が今回不選出となった。

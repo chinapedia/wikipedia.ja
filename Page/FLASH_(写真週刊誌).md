@@ -1,7 +1,7 @@
 > この記事は[FLASH \(写真週刊誌\)](https://ja.wikipedia.org/wiki/FLASH_\(写真週刊誌\))から翻訳されています。
 
 
-『**FLASH**』（フラッシュ）は、[光文社](../Page/光文社.md "wikilink")発行の[写真週刊誌](../Page/写真週刊誌.md "wikilink")。毎週[火曜日](../Page/火曜日.md "wikilink")発売（合併号を除く）。創刊は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")。
+『**FLASH**』（フラッシュ）は、[光文社](../Page/光文社.md "wikilink")発行の[写真週刊誌](../Page/写真週刊誌.md "wikilink")。毎週[火曜日](../Page/火曜日.md "wikilink")発売（合併号を除く）。創刊は[1986年](../Page/1986年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")。
 
 同ジャンルの写真週刊誌『[FOCUS](../Page/FOCUS.md "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[FRIDAY](../Page/FRIDAY_\(雑誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）、創刊当初は『[Emma](../Page/Emma.md "wikilink")』（[文藝春秋](../Page/文藝春秋.md "wikilink")）、『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(週刊誌\) "wikilink")』（[小学館](../Page/小学館.md "wikilink")）\[1\]。
 
@@ -48,7 +48,7 @@
       - 準グランプリ:[谷麻紗美](../Page/谷麻紗美.md "wikilink")、[吉田もも](../Page/吉田もも.md "wikilink")
   - 第3回（2008年）
       - グランプリ:[澤田友美](https://ja.wikipedia.org/wiki/澤田友美 "wikilink")
-      - 準グランプリ:[野田彩加](https://ja.wikipedia.org/wiki/野田彩加 "wikilink")
+      - 準グランプリ:[野田彩加](../Page/野田彩加.md "wikilink")
       - 審査員特別賞:[かの夏帆](../Page/豊田果歩.md "wikilink")
   - 第4回（2009年）
       - グランプリ:[柳本絵美](https://ja.wikipedia.org/wiki/柳本絵美 "wikilink") （史上初の[平成生まれ](https://ja.wikipedia.org/wiki/平成生まれ "wikilink")\[8\] からの受賞）

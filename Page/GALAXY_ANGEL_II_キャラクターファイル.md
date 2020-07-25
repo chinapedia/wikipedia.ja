@@ -108,7 +108,7 @@
 
   - 作詞：[ゆうまお](../Page/ゆうまお.md "wikilink")
   - 作曲：上松範康（Elements Garden）
-  - 編曲：[大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink")
+  - 編曲：[大石憲一郎](../Page/大石憲一郎.md "wikilink")
 
 <!-- end list -->
 

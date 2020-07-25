@@ -66,7 +66,7 @@
 <!-- end list -->
 
   - [小田原市](../Page/小田原市.md "wikilink") - [:Commons:Category:Odawara, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Category:Odawara,_Kanagawa "wikilink") - [:Commons:Odawara, Kanagawa](https://ja.wikipedia.org/wiki/:Commons:Odawara,_Kanagawa "wikilink")
-      - [小田原城](https://ja.wikipedia.org/wiki/小田原城 "wikilink") [:Commons:Category:Odawara Castle](https://ja.wikipedia.org/wiki/:Commons:Category:Odawara_Castle "wikilink")
+      - [小田原城](../Page/小田原城.md "wikilink") [:Commons:Category:Odawara Castle](https://ja.wikipedia.org/wiki/:Commons:Category:Odawara_Castle "wikilink")
       - [小田原駅](https://ja.wikipedia.org/wiki/小田原駅 "wikilink") [:Commons:Category:Odawara Station](https://ja.wikipedia.org/wiki/:Commons:Category:Odawara_Station "wikilink")
 
 <!-- end list -->

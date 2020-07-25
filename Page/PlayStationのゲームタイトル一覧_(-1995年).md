@@ -164,7 +164,7 @@
   - 12月22日 [メタモル・パニック DOKIDOKI妖魔バスターズ](https://ja.wikipedia.org/wiki/メタモルパニック "wikilink")（[ファミリーソフト](../Page/ファミリーソフト.md "wikilink")）
   - 12月29日 [闘神伝](../Page/闘神伝.md "wikilink")2（タカラ）●
   - 12月29日 [ウィザーズハーモニー](../Page/ウィザーズハーモニー.md "wikilink")（アークシステムワークス）
-  - 12月29日 [ウイニングポスト](https://ja.wikipedia.org/wiki/ウイニングポスト "wikilink")EX（光栄）
+  - 12月29日 [ウイニングポスト](../Page/ウイニングポスト.md "wikilink")EX（光栄）
   - 12月29日 [ニチブツアーケードクラシックス](https://ja.wikipedia.org/wiki/ニチブツアーケードクラシックス "wikilink")（日本物産）
   - 12月29日 [超兄貴 〜究極無敵銀河最強男〜](../Page/超兄貴.md "wikilink")（日本コンピュータシステム）
   - 12月29日 [エコエコアザラク](../Page/エコエコアザラク.md "wikilink")（ポリグラム）

@@ -5,7 +5,7 @@
 
 ## 概要
 
-主に[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")車向けにパーツの製造、販売を行っており、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（旧・[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")）GT300クラスや[D1グランプリにも参戦するなど](../Page/全日本プロドリフト選手権.md "wikilink")、レース実績も多い。 ロータリーエンジンを得意とする理由について、代表の雨宮は「それしか分からないから」と発言している\[1\]。また、雨宮はビデオ出演や著書などで、かつては警察の[検問](../Page/検問.md "wikilink")を突破したり、高速道路を時速300キロ前後で走行した経験を公言している。また自分の事を「暴走族」と称している。
+主に[マツダ](../Page/マツダ.md "wikilink")車向けにパーツの製造、販売を行っており、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（旧・[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")）GT300クラスや[D1グランプリにも参戦するなど](../Page/全日本プロドリフト選手権.md "wikilink")、レース実績も多い。 ロータリーエンジンを得意とする理由について、代表の雨宮は「それしか分からないから」と発言している\[1\]。また、雨宮はビデオ出演や著書などで、かつては警察の[検問](../Page/検問.md "wikilink")を突破したり、高速道路を時速300キロ前後で走行した経験を公言している。また自分の事を「暴走族」と称している。
 
 ## チューニングショップとしての活動
 

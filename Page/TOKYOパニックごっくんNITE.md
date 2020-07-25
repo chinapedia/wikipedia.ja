@@ -84,7 +84,7 @@
   - [渡辺美里](../Page/渡辺美里.md "wikilink") （1987年[7月13日](../Page/7月13日.md "wikilink")）
   - [サエキけんぞう](../Page/サエキけんぞう.md "wikilink") （1987年[7月21日](../Page/7月21日.md "wikilink")）
   - [永田貴士](https://ja.wikipedia.org/wiki/永田貴士 "wikilink") （1987年[7月22日](../Page/7月22日.md "wikilink")）
-  - [REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink") （1987年[7月28日](../Page/7月28日.md "wikilink")）
+  - [REACTION](../Page/REACTION_\(バンド\).md "wikilink") （1987年[7月28日](../Page/7月28日.md "wikilink")）
   - [長山洋子](../Page/長山洋子.md "wikilink") （1987年[7月29日](../Page/7月29日.md "wikilink")）
   - [松岡英明](../Page/松岡英明.md "wikilink") （1987年[7月30日](../Page/7月30日.md "wikilink")）
   - [村田和人](../Page/村田和人.md "wikilink") （1987年[8月4日](../Page/8月4日.md "wikilink")、同年[12月8日](../Page/12月8日.md "wikilink")）
@@ -119,7 +119,7 @@
   - [PRESENCE](../Page/PRESENCE.md "wikilink") （1988年1月12日、同年[2月16日](../Page/2月16日.md "wikilink")）
   - [清水善三](https://ja.wikipedia.org/wiki/清水善三 "wikilink") （1988年[1月13日](../Page/1月13日.md "wikilink")）
   - [C-C-B](../Page/C-C-B.md "wikilink") （1988年[1月21日](../Page/1月21日.md "wikilink")）
-  - [原みどり](https://ja.wikipedia.org/wiki/原みどり "wikilink") （1988年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）
+  - [原みどり](https://ja.wikipedia.org/wiki/原みどり "wikilink") （1988年[1月26日](../Page/1月26日.md "wikilink")）
   - [沢田研二](../Page/沢田研二.md "wikilink") （1988年[2月2日](../Page/2月2日.md "wikilink")）
   - [清水ミチコ](../Page/清水ミチコ.md "wikilink") （1988年[2月9日](../Page/2月9日.md "wikilink")）
   - [水島裕](../Page/水島裕_\(声優\).md "wikilink") （1988年[2月10日](../Page/2月10日.md "wikilink")）

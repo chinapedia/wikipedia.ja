@@ -1,7 +1,7 @@
 > この記事は[Acid2](https://ja.wikipedia.org/wiki/Acid2)から翻訳されています。
 
 
-**Acid2**（アシッドツー）は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")や[オーサリングツール](../Page/オーサリングツール.md "wikilink")における[ウェブページ](../Page/ウェブページ.md "wikilink")のレンダリング上の問題点を特定するために[ウェブスタンダードプロジェクト](../Page/ウェブスタンダードプロジェクト.md "wikilink")(WaSP)が作成した[テストケース](https://ja.wikipedia.org/wiki/テストケース "wikilink")である。Acid2は同様のテストケース・[Acid1](https://ja.wikipedia.org/wiki/Acid1 "wikilink")（1998年開発）を後継したが、ほぼ主流ブラウザの対応完了およびさらなる後継版である[Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")の公開（2008年3月）によって役目を終えつつある。
+**Acid2**（アシッドツー）は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")や[オーサリングツール](../Page/オーサリングツール.md "wikilink")における[ウェブページ](../Page/ウェブページ.md "wikilink")のレンダリング上の問題点を特定するために[ウェブスタンダードプロジェクト](../Page/ウェブスタンダードプロジェクト.md "wikilink")(WaSP)が作成した[テストケース](https://ja.wikipedia.org/wiki/テストケース "wikilink")である。Acid2は同様のテストケース・[Acid1](https://ja.wikipedia.org/wiki/Acid1 "wikilink")（1998年開発）を後継したが、ほぼ主流ブラウザの対応完了およびさらなる後継版である[Acid3](../Page/Acid3.md "wikilink")の公開（2008年3月）によって役目を終えつつある。
 
 [HTML](../Page/HyperText_Markup_Language.md "wikilink") や [CSS](../Page/Cascading_Style_Sheets.md "wikilink") 2.1などの [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") 勧告等に、どの程度準拠しているかを測るために用いられる。完全に準拠したレンダリングで描かれるはずの画像とそのソースがあり、レンダリングイメージと画像の相違によりどの程度準拠しているかを測る。正確に準拠していれば、[スマイリーが描かれる](../Page/スマイリーフェイス.md "wikilink")。
 
@@ -185,7 +185,7 @@
 ## 関連項目
 
   - [Comparison of layout engines](https://ja.wikipedia.org/wiki/:en:Comparison_of_layout_engines "wikilink")
-  - [Acid3](https://ja.wikipedia.org/wiki/Acid3 "wikilink")
+  - [Acid3](../Page/Acid3.md "wikilink")
 
 ## 参考文献
 

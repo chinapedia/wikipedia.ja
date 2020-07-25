@@ -1234,7 +1234,7 @@
 <tr class="even">
 <td><p>110</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有坂来瞳" title="wikilink">有坂来瞳</a><br />
+<td><p><a href="../Page/有坂来瞳.md" title="wikilink">有坂来瞳</a><br />
 <a href="../Page/山川恵里佳.md" title="wikilink">山川恵里佳</a></p></td>
 <td></td>
 </tr>

@@ -207,7 +207,7 @@ Leopardに搭載されるFinderの詳細は、http://www.apple.com/jp/macosx/fea
 #### Mac OS X v10.6 Snow Leopard
 
   - [Cocoa](../Page/Cocoa.md "wikilink")化: Leopardまでは[Carbon](../Page/Carbon.md "wikilink")で書かれていた。
-    [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")化: Leoaprdまでは[32ビット](../Page/32ビット.md "wikilink")アプリケーションであった。
+    [64ビット](../Page/64ビット.md "wikilink")化: Leoaprdまでは[32ビット](../Page/32ビット.md "wikilink")アプリケーションであった。
 
 #### Mac OS X Lion
 

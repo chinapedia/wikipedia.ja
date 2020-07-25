@@ -67,15 +67,15 @@
       - 『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")） - 1988年[4月5日](../Page/4月5日.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演から収録。
       - 『[“GIGS” CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOOWY.md "wikilink")』（[2001年](../Page/2001年.md "wikilink")） - 1987年[7月31日](../Page/7月31日.md "wikilink")の[ワールド記念ホール](../Page/ワールド記念ホール.md "wikilink")、1987年[8月7日](../Page/8月7日.md "wikilink")の[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")公演から収録。
       - 『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")） - 1987年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演から収録。
-      - 『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』（2007年）
-      - 『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）
+      - 『[“GIGS” CASE OF BOØWY COMPLETE](../Page/“GIGS”_CASE_OF_BOOWY_COMPLETE.md "wikilink")』（2007年）
+      - 『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）
   - ライブ映像
       - 『[“GIGS” CASE OF BOØWY 3](../Page/“GIGS”_CASE_OF_BOOWY_\(Video\).md "wikilink")』（1987年）
       - 『[SINGLES OF BOØWY](../Page/SINGLES_OF_BOOWY.md "wikilink")』（1991年） - 1986年[12月10日](../Page/12月10日.md "wikilink")の武道館公演から収録。
       - 『["LAST GIGS"](https://ja.wikipedia.org/wiki/"LAST_GIGS"_\(Video\) "wikilink")』（2001年）
       - 『[1224](../Page/1224.md "wikilink")』（2001年）
       - 『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24_\(Video\).md "wikilink")』（2004年）
-      - 『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE_\(video\) "wikilink")』（2008年）
+      - 『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE_\(video\).md "wikilink")』（2008年）
   - テレビ出演
       - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[オールナイトフジ](../Page/オールナイトフジ.md "wikilink")』（1983年 - 1991年、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")） - 1986年[11月15日](../Page/11月15日.md "wikilink")放送。他に「[B・BLUE](../Page/B・BLUE.md "wikilink")」、「BEAT SWEET」を演奏。
       - [音楽番組](../Page/音楽番組.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（1985年 - 1989年、フジテレビ系列） - 1986年[12月3日](../Page/12月3日.md "wikilink")放送。

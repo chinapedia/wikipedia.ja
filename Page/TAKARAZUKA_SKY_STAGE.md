@@ -60,7 +60,7 @@
 
   - 第2期生（2003年7月1日～2004年6月30日）
       -
-        花組：[望月理世](https://ja.wikipedia.org/wiki/望月理世 "wikilink")・[華城季帆](../Page/華城季帆.md "wikilink")
+        花組：[望月理世](../Page/望月理世.md "wikilink")・[華城季帆](../Page/華城季帆.md "wikilink")
         月組：[白鳥かすが](https://ja.wikipedia.org/wiki/白鳥かすが "wikilink")・[紫水梗華](https://ja.wikipedia.org/wiki/紫水梗華 "wikilink")
         雪組：[沙央くらま](../Page/沙央くらま.md "wikilink")・[涼花リサ](https://ja.wikipedia.org/wiki/涼花リサ "wikilink")
         星組：[夢乃聖夏](../Page/夢乃聖夏.md "wikilink")・[純花まりい](https://ja.wikipedia.org/wiki/純花まりい "wikilink")

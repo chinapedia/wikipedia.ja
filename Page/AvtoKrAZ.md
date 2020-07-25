@@ -15,7 +15,7 @@
 
 AvtoKrAZ製の車輌モデルは25種の[プラットフォームを有しており](../Page/プラットフォーム_\(自動車\).md "wikilink")、そこから150以上の派生型が作られている。車輪配置には、4x2、4x4、6x4、6x6、8x4、8x6のバリエーションがある。こうしたベース車輌をもとに、主として[貨物自動車](../Page/貨物自動車.md "wikilink")(トラック)、[ダンプカー](../Page/ダンプカー.md "wikilink")、[牽引自動車](../Page/牽引自動車.md "wikilink")(トレーラーおよびその牽引車・[トラクター](../Page/トラクター.md "wikilink")・トレーラーヘッド・ロードトラクター)を生産している。
 
-AvtoKrAZの車輌は、これまでに国内外で多くの賞を受けている。運用は民間に留まらず、[ソ連軍や](../Page/ソビエト連邦軍.md "wikilink")[ウクライナ軍](../Page/ウクライナ軍.md "wikilink")をはじめ、多くの国で軍用車輌としても用いられている。軍専用型としては[KrAZ-6322](https://ja.wikipedia.org/wiki/KrAZ-6322 "wikilink")、[KrAZ-5133](https://ja.wikipedia.org/wiki/KrAZ-5133 "wikilink")BYe兵員輸送トラックなどがあり、これらからは[BM-21](../Page/BM-21.md "wikilink")「グラート」の後継車輌として設計されたKrAZ-6322-121「グラート」[ロケット砲](../Page/ロケット砲.md "wikilink")、「コリチューハ」([鎖帷子](../Page/鎖帷子.md "wikilink")の意味)[レーダー](../Page/レーダー.md "wikilink")アンテナを搭載したKrAZ-6322レーダー車、KrAZ-6322AF装甲トラックが開発されている。また、[KrAZ-6446](https://ja.wikipedia.org/wiki/KrAZ-6446 "wikilink")トラクターは[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")の牽引に用いられている。逆に、民間専用型としては[KrAZ-6133KYe](https://ja.wikipedia.org/wiki/KRAZ-6133 "wikilink")[バスなどがある](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。
+AvtoKrAZの車輌は、これまでに国内外で多くの賞を受けている。運用は民間に留まらず、[ソ連軍や](../Page/ソビエト連邦軍.md "wikilink")[ウクライナ軍](../Page/ウクライナ軍.md "wikilink")をはじめ、多くの国で軍用車輌としても用いられている。軍専用型としては[KrAZ-6322](../Page/KrAZ-6322.md "wikilink")、[KrAZ-5133](https://ja.wikipedia.org/wiki/KrAZ-5133 "wikilink")BYe兵員輸送トラックなどがあり、これらからは[BM-21](../Page/BM-21.md "wikilink")「グラート」の後継車輌として設計されたKrAZ-6322-121「グラート」[ロケット砲](../Page/ロケット砲.md "wikilink")、「コリチューハ」([鎖帷子](../Page/鎖帷子.md "wikilink")の意味)[レーダー](../Page/レーダー.md "wikilink")アンテナを搭載したKrAZ-6322レーダー車、KrAZ-6322AF装甲トラックが開発されている。また、[KrAZ-6446](https://ja.wikipedia.org/wiki/KrAZ-6446 "wikilink")トラクターは[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")の牽引に用いられている。逆に、民間専用型としては[KrAZ-6133KYe](https://ja.wikipedia.org/wiki/KRAZ-6133 "wikilink")[バスなどがある](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。
 
 ### 歴史
 
@@ -33,7 +33,7 @@ AvtoKrAZは、[1945年](../Page/1945年.md "wikilink")[8月31日](../Page/8月31
 
 [1962年](../Page/1962年.md "wikilink")下半期には、12 tダンプ[KrAZ-256](https://ja.wikipedia.org/wiki/KrAZ-256 "wikilink")が完成した。また、これをもとにした無蓋トラック[KrAZ-257](https://ja.wikipedia.org/wiki/KrAZ-257 "wikilink")やトラクター[KrAZ-258](https://ja.wikipedia.org/wiki/KrAZ-258 "wikilink")が開発された。
 
-[1963年](../Page/1963年.md "wikilink")には、25000台目のKrAZが生産ラインを出た。これが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")末には一挙に10万台を突破した。
+[1963年](../Page/1963年.md "wikilink")には、25000台目のKrAZが生産ラインを出た。これが、[1968年](../Page/1968年.md "wikilink")末には一挙に10万台を突破した。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KrAZ_255.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:TMM-Bridge-latrun-1.jpg "wikilink")\]\] [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")には、自動車・木材運搬車[KrAZ-255](https://ja.wikipedia.org/wiki/KrAZ-255 "wikilink")Lが生産ラインを出た。
 
@@ -101,7 +101,7 @@ AvtoKrAZは、[1945年](../Page/1945年.md "wikilink")[8月31日](../Page/8月31
 
   - [KrAZ-5233](https://ja.wikipedia.org/wiki/KrAZ-5233 "wikilink")
 
-  - [KrAZ-6322](https://ja.wikipedia.org/wiki/KrAZ-6322 "wikilink")
+  - [KrAZ-6322](../Page/KrAZ-6322.md "wikilink")
 
   -
 ## 外部リンク

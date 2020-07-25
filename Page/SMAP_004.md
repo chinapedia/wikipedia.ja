@@ -32,7 +32,7 @@
         作詞：[吉元由美](../Page/吉元由美.md "wikilink") / 作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink") / 編曲：CHOKKAKU / コーラスアレンジ：佐々木久美
 5.  **5月の風を抱きしめて** - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
       -
-        作詞：[相田毅](https://ja.wikipedia.org/wiki/相田毅 "wikilink") / 作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[相田毅](https://ja.wikipedia.org/wiki/相田毅 "wikilink") / 作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 6.  **幸せになってよ**
       -
         作詞：小倉めぐみ / 作曲・編曲：長岡成貢 / コーラスアレンジ：松下誠
@@ -44,7 +44,7 @@
         作詞：相田毅 / 作曲：[谷本新](https://ja.wikipedia.org/wiki/谷本新 "wikilink") / 編曲：[土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink") / コーラスアレンジ：松下誠
 9.  **September Rain** - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
       -
-        作詞：[覚和歌子](../Page/覚和歌子.md "wikilink") / 作曲・編曲：長岡成貢 / コーラスアレンジ：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[覚和歌子](../Page/覚和歌子.md "wikilink") / 作曲・編曲：長岡成貢 / コーラスアレンジ：[岩田雅之](../Page/岩田雅之.md "wikilink")
 10. **こんなに僕を切なくさせてるのに** - [木村拓哉](../Page/木村拓哉.md "wikilink")
       -
         作詞：小倉めぐみ / 作曲：谷本新 / 編曲：CHOKKAKU

@@ -39,7 +39,7 @@
 
   - **POP STAR**
       - [Ken Hirai 10th Anniversary Complete Single Collection '95-'05 歌バカ](../Page/Ken_Hirai_10th_Anniversary_Complete_Single_Collection_'95-'05_歌バカ.md "wikilink")
-      - [FAKIN' POP](https://ja.wikipedia.org/wiki/FAKIN'_POP "wikilink")
+      - [FAKIN' POP](../Page/FAKIN'_POP.md "wikilink")
   - **POP STAR 〜winter lover version〜**
       - [哀歌（エレジー）](../Page/哀歌_\(エレジー\).md "wikilink")　（25th シングル）
   - **POP STAR × fake star （MASH UP）**

@@ -1,7 +1,7 @@
 > この記事は[PRIDE \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
-「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。
+「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。
 
 ## 解説
 
@@ -49,7 +49,7 @@
 <!-- end list -->
 
 1.  PRIDE 〜Nu school of mixture mix〜 ([cmjk](../Page/電気グルーヴ.md "wikilink"))
-2.  PRIDE 〜R\&B norishiromix〜 ([NORISHIROCKS](https://ja.wikipedia.org/wiki/NORISHIROCKS "wikilink") (I.S.O.\&hide2))
+2.  PRIDE 〜R\&B norishiromix〜 ([NORISHIROCKS](../Page/NORISHIROCKS.md "wikilink") (I.S.O.\&hide2))
 3.  PRIDE 〜HΛL's MIX 2005〜 ([HΛL](../Page/HΛL.md "wikilink"))
 4.  PRIDE 〜D.D.INOReMIX〜 (MITSUU（[村田充](../Page/村田充.md "wikilink")）)
 5.  PRIDE 〜Real Latin Players mix〜 ([dj dragon](../Page/DJ_DRAGON.md "wikilink") from [black jaxx](../Page/BLACK_JAXX.md "wikilink"))

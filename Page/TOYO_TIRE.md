@@ -31,7 +31,7 @@
       - 9月 - 三菱商事（株）と合弁で欧州に自動車タイヤの販売会社「Toyo Reifen GmbH（現、Toyo Tire Europe GmbH）」を設立。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月 - 東北トーヨーゴム株式会社を合併
   - [1979年](../Page/1979年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 日東タイヤ株式会社（現・[日東化工](../Page/日東化工.md "wikilink")株式会社）と生産、技術、販売、管理等業務全般にわたり提携
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月 - 自動車部品技術センター（愛知県みよし市）開設
+  - [1986年](../Page/1986年.md "wikilink")4月 - 自動車部品技術センター（愛知県みよし市）開設
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月](../Page/11月.md "wikilink") - 株式会社オルビス（現・[CACオルビス](../Page/CACオルビス.md "wikilink")）設立
   - [1996年](https://ja.wikipedia.org/wiki/1996年のエベレスト大量遭難 "wikilink")10月 - 菱東タイヤ（株）を吸収合併
   - [2000年](../Page/2000年.md "wikilink")2月 - 国内全8製造事業所で ISO 14001を認証取得
@@ -117,8 +117,8 @@
   - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（[日テレ](../Page/日本テレビ放送網.md "wikilink")）※2017年10月より。
       - その他、不定期で様々な番組に提供する事がある。
   - モシモワールド supported by TOYO TIRES ([TOKYO FM](../Page/エフエム東京.md "wikilink"))
-  - [おはようパーソナリティ道上洋三です](../Page/おはようパーソナリティ道上洋三です.md "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")） - スタジオのある[朝日放送の本社社屋が当社の江戸堀本社社屋の近隣](../Page/朝日放送グループホールディングス.md "wikilink")（[ほたるまち](https://ja.wikipedia.org/wiki/ほたるまち "wikilink")）にある縁で、7時台前半の[天気予報](../Page/天気予報.md "wikilink")のコーナースポンサーに付いている。ただし、免震ゴム・防振ゴムの性能データ改ざん問題（後述）が発覚した2015年には、CMや提供クレジットの放送を一時自粛していた。
-  - [クルマでいこう\!](https://ja.wikipedia.org/wiki/クルマでいこう! "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")） - 「新車情報」および「新車ファイル クルマのツボ」、「岡崎五朗のクルマでいこう\!」から継続。2009年度～2013年度の間は一時降板していたが、2014年度から提供再開し2018年現在もスポンサーを務める。2015年の免震・防振ゴムの性能データ改ざん問題（後述）発覚時前後には一時CM・提供クレジットを自粛、2016年度には再開している。
+  - [おはようパーソナリティ道上洋三です](../Page/おはようパーソナリティ道上洋三です.md "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")） - スタジオのある[朝日放送の本社社屋が当社の江戸堀本社社屋の近隣](../Page/朝日放送グループホールディングス.md "wikilink")（[ほたるまち](../Page/ほたるまち.md "wikilink")）にある縁で、7時台前半の[天気予報](../Page/天気予報.md "wikilink")のコーナースポンサーに付いている。ただし、免震ゴム・防振ゴムの性能データ改ざん問題（後述）が発覚した2015年には、CMや提供クレジットの放送を一時自粛していた。
+  - [クルマでいこう\!](../Page/クルマでいこう!.md "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")） - 「新車情報」および「新車ファイル クルマのツボ」、「岡崎五朗のクルマでいこう\!」から継続。2009年度～2013年度の間は一時降板していたが、2014年度から提供再開し2018年現在もスポンサーを務める。2015年の免震・防振ゴムの性能データ改ざん問題（後述）発覚時前後には一時CM・提供クレジットを自粛、2016年度には再開している。
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@
 
   - [日本テレビ日曜8時連続ドラマ](https://ja.wikipedia.org/wiki/日本テレビ日曜8時連続ドラマ "wikilink")（日テレ）※ニットータイヤ時代
   - [知っとこ\!](../Page/知っとこ!.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
-  - [新車情報](../Page/新車情報.md "wikilink") → [新車ファイル クルマのツボ](../Page/新車ファイル_クルマのツボ.md "wikilink") → [岡崎五朗のクルマでいこう\!](https://ja.wikipedia.org/wiki/クルマでいこう! "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
+  - [新車情報](../Page/新車情報.md "wikilink") → [新車ファイル クルマのツボ](../Page/新車ファイル_クルマのツボ.md "wikilink") → [岡崎五朗のクルマでいこう\!](../Page/クルマでいこう!.md "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
   - [SPORT](../Page/すぽると!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [激スポ\!](../Page/激生!スポーツTODAY.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [水曜ロードショー](https://ja.wikipedia.org/wiki/水曜ロードショー_\(日本テレビ\) "wikilink")（日本テレビ）
@@ -163,7 +163,7 @@
 
   - [2015年](../Page/2015年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") [免震](../Page/免震.md "wikilink")ゴムの性能データ改ざん
     [国土交通省](../Page/国土交通省.md "wikilink")は、東洋ゴム工業（発覚時は、東洋ゴム化工品に事業が移管されている）が製造・販売した建築物の免震機構に用いられるゴム製部品について、不良品の出荷や性能データの偽装があったと発表。データ偽装が行われていた製品（3種類）は同日付けで大臣認定が取り消された\[15\]。日本国内の自治体の庁舎・マンション・病院で使用されており、棟数は55に及ぶ\[16\]\[17\]。これを受けて同社は2015年6月に山本卓司社長らの引責辞任を発表した\[18\]。
-    [2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に、[枚方寝屋川消防組合](https://ja.wikipedia.org/wiki/枚方寝屋川消防組合 "wikilink")に出荷した免震ゴム19基について[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反（虚偽表示）の疑いで[大阪府警察](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")から山本前社長ら18人と、子会社「東洋ゴム化工品」も含めた法人としての両社が書類送検され\[19\]、同年[7月27日](../Page/7月27日.md "wikilink")には、[大阪地方検察庁](../Page/大阪地方検察庁.md "wikilink")[特別捜査部](https://ja.wikipedia.org/wiki/特別捜査部 "wikilink")から、同法違反罪で法人としての東洋ゴム化工品が起訴された。東洋ゴム工業と同社元役員ら8人については証拠不十分として嫌疑不十分、東洋ゴム化工品の元役員ら10人は、社内処分を受けたなどとして[起訴猶予処分](https://ja.wikipedia.org/wiki/起訴猶予処分 "wikilink")となった\[20\]。
+    [2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に、[枚方寝屋川消防組合](../Page/枚方寝屋川消防組合.md "wikilink")に出荷した免震ゴム19基について[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反（虚偽表示）の疑いで[大阪府警察](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")から山本前社長ら18人と、子会社「東洋ゴム化工品」も含めた法人としての両社が書類送検され\[19\]、同年[7月27日](../Page/7月27日.md "wikilink")には、[大阪地方検察庁](../Page/大阪地方検察庁.md "wikilink")[特別捜査部](https://ja.wikipedia.org/wiki/特別捜査部 "wikilink")から、同法違反罪で法人としての東洋ゴム化工品が起訴された。東洋ゴム工業と同社元役員ら8人については証拠不十分として嫌疑不十分、東洋ゴム化工品の元役員ら10人は、社内処分を受けたなどとして[起訴猶予処分](https://ja.wikipedia.org/wiki/起訴猶予処分 "wikilink")となった\[20\]。
 
 <!-- end list -->
 

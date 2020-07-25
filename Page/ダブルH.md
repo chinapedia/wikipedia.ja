@@ -19,7 +19,7 @@
 6.  　[織田真子](https://ja.wikipedia.org/wiki/織田真子 "wikilink")&[桧山かおり](https://ja.wikipedia.org/wiki/桧山かおり "wikilink")/[藤沢菜々子](https://ja.wikipedia.org/wiki/藤沢菜々子 "wikilink")&[崎田まや](https://ja.wikipedia.org/wiki/崎田まや "wikilink") (2006年5月9日)
 7.  　[綾咲えり](https://ja.wikipedia.org/wiki/綾咲えり "wikilink")&[大熊紋季](https://ja.wikipedia.org/wiki/大熊紋季 "wikilink")/[水谷美都](https://ja.wikipedia.org/wiki/水谷美都 "wikilink")&[秋山智美](https://ja.wikipedia.org/wiki/秋山智美_\(アイドル\) "wikilink") (2006年5月16日)
 8.  　[浅田なつき](https://ja.wikipedia.org/wiki/浅田なつき "wikilink")&[宮沢あいり](https://ja.wikipedia.org/wiki/宮沢あいり "wikilink")/[木村美和](https://ja.wikipedia.org/wiki/木村美和 "wikilink")&[結月里奈](https://ja.wikipedia.org/wiki/結月里奈 "wikilink") (2006年5月23日)
-9.  　[白川ゆきな](../Page/白川ゆきな.md "wikilink")&[いしいめぐみ](https://ja.wikipedia.org/wiki/いしいめぐみ "wikilink")/[おざわえりか](https://ja.wikipedia.org/wiki/小沢えりか "wikilink")&[島田和菜](https://ja.wikipedia.org/wiki/島田和菜 "wikilink") (2006年6月6日)
+9.  　[白川ゆきな](../Page/白川ゆきな.md "wikilink")&[いしいめぐみ](https://ja.wikipedia.org/wiki/いしいめぐみ "wikilink")/[おざわえりか](https://ja.wikipedia.org/wiki/小沢えりか "wikilink")&[島田和菜](../Page/島田和菜.md "wikilink") (2006年6月6日)
 10. 　[桜井まりも](https://ja.wikipedia.org/wiki/桜井まりも "wikilink")&[星野いちご](https://ja.wikipedia.org/wiki/星野いちご "wikilink")/[佐和田百香](https://ja.wikipedia.org/wiki/佐和田百香 "wikilink")&[白石まゆ](https://ja.wikipedia.org/wiki/白石まゆ "wikilink") (2006年6月20日)
 11. 　[伏見晶](https://ja.wikipedia.org/wiki/伏見晶 "wikilink")&[いちご姫](../Page/いちご姫.md "wikilink")/[大塚まひろ](https://ja.wikipedia.org/wiki/大塚まひろ "wikilink")&[鈴木愛](https://ja.wikipedia.org/wiki/鈴木愛 "wikilink")(2006年6月27日)
 

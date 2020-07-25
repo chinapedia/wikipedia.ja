@@ -1018,7 +1018,7 @@ SRCL-5599</p></td>
 <p># [[WAO</p></td>
 <td><p>|ピノキオ]] / <a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a></p>
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/つぼみ_(MARIAの曲)" title="wikilink">つぼみ</a> / <a href="../Page/MARIA_(バンド).md" title="wikilink">MARIA</a></li>
+<li><a href="../Page/つぼみ_(MARIAの曲).md" title="wikilink">つぼみ</a> / <a href="../Page/MARIA_(バンド).md" title="wikilink">MARIA</a></li>
 <li><a href="../Page/ユラユラ.md" title="wikilink">ユラユラ</a> / <a href="../Page/Hearts_Grow.md" title="wikilink">Hearts Grow</a></li>
 <li><strong>シナリオ / SABOTEN</strong></li>
 </ol>

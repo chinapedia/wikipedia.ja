@@ -61,7 +61,7 @@
       - 映像:[オートバイ](../Page/オートバイ.md "wikilink")に乗る17歳の[鈴木雅之 (歌手)が](../Page/鈴木雅之_\(歌手\).md "wikilink")[偶然](../Page/偶然.md "wikilink")撮影されている。
   - [神田川](../Page/神田川_\(曲\).md "wikilink")（'73）/[かぐや姫](../Page/かぐや姫_\(フォークグループ\).md "wikilink")
   - [赤い風船](../Page/赤い風船_\(浅田美代子の曲\).md "wikilink")（'73）/[浅田美代子](../Page/浅田美代子.md "wikilink")
-  - [心の旅](../Page/心の旅_\(チューリップの曲\).md "wikilink")（'73）[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")
+  - [心の旅](../Page/心の旅_\(チューリップの曲\).md "wikilink")（'73）[チューリップ](../Page/チューリップ_\(バンド\).md "wikilink")
 
 ### 1970年代 Vol.2
 
@@ -75,7 +75,7 @@
   - [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")（'72）/[よしだたくろう](../Page/吉田拓郎.md "wikilink")
   - [わたしの彼は左きき](../Page/わたしの彼は左きき.md "wikilink")（'73）/[麻丘めぐみ](../Page/麻丘めぐみ.md "wikilink")
   - [たどりついたらいつも雨ふり](https://ja.wikipedia.org/wiki/たどりついたらいつも雨ふり "wikilink")（'72）/[ザ・モップス](../Page/ザ・モップス.md "wikilink")
-  - [耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")（'72）/[本田路津子](../Page/本田路津子.md "wikilink")
+  - [耳をすましてごらん](../Page/耳をすましてごらん.md "wikilink")（'72）/[本田路津子](../Page/本田路津子.md "wikilink")
   - [HERO（ヒーローになる時、それは今）](https://ja.wikipedia.org/wiki/HERO（ヒーローになる時、それは今） "wikilink")（'78）/[甲斐バンド](../Page/甲斐バンド.md "wikilink")
   - [夢先案内人](https://ja.wikipedia.org/wiki/夢先案内人 "wikilink")（'77）/[山口百恵](../Page/山口百恵.md "wikilink")
   - [キャンディ](https://ja.wikipedia.org/wiki/キャンディ_\(原田真二の曲\) "wikilink")（'77）/[原田真二](../Page/原田真二.md "wikilink")
@@ -133,7 +133,7 @@
   - [君は天然色](https://ja.wikipedia.org/wiki/君は天然色 "wikilink")/[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")
   - [まちぶせ](../Page/まちぶせ.md "wikilink")/[石川ひとみ](../Page/石川ひとみ.md "wikilink")
   - [お嫁サンバ](../Page/お嫁サンバ.md "wikilink")/[郷ひろみ](../Page/郷ひろみ.md "wikilink")
-  - [悪女](https://ja.wikipedia.org/wiki/悪女_\(中島みゆきの曲\) "wikilink")/[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - [悪女](https://ja.wikipedia.org/wiki/悪女_\(中島みゆきの曲\) "wikilink")/[中島みゆき](../Page/中島みゆき.md "wikilink")
   - [ペガサスの朝](https://ja.wikipedia.org/wiki/ペガサスの朝 "wikilink")/[五十嵐浩晃](../Page/五十嵐浩晃.md "wikilink")
   - [SOMEDAY](https://ja.wikipedia.org/wiki/SOMEDAY_\(佐野元春の曲\) "wikilink")/[佐野元春](../Page/佐野元春.md "wikilink")
   - [守ってあげたい](../Page/守ってあげたい.md "wikilink")/[松任谷由実](../Page/松任谷由実.md "wikilink")
@@ -175,7 +175,7 @@
 
   - [君がいるだけで](https://ja.wikipedia.org/wiki/君がいるだけで/愛してる "wikilink")（'92）/[米米CLUB](../Page/米米CLUB.md "wikilink")
   - [もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")（'92）/[WANDS](../Page/WANDS.md "wikilink")
-  - [負けないで](../Page/負けないで.md "wikilink")（'95）/[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")（'95年→番組内では95年と表記されるが実際は93年のヒット曲）
+  - [負けないで](../Page/負けないで.md "wikilink")（'95）/[ZARD](../Page/ZARD.md "wikilink")（'95年→番組内では95年と表記されるが実際は93年のヒット曲）
   - [それが大事](../Page/それが大事_\(大事MANブラザーズバンドの曲\).md "wikilink")（'91）/[大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")
   - [このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")（'93）/[DEEN](../Page/DEEN.md "wikilink")
   - [バンザイ 〜好きでよかった〜](../Page/バンザイ_〜好きでよかった〜.md "wikilink")（'96）/[ウルフルズ](../Page/ウルフルズ.md "wikilink")
@@ -218,7 +218,7 @@
 #### 1993年
 
   - [CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")/[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
-  - [揺れる想い](../Page/揺れる想い.md "wikilink")/[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [揺れる想い](../Page/揺れる想い.md "wikilink")/[ZARD](../Page/ZARD.md "wikilink")
   - [島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")/[THE BOOM](../Page/THE_BOOM.md "wikilink")
   - [ロマンスの神様](../Page/ロマンスの神様.md "wikilink")/[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")
   - [接吻 kiss](https://ja.wikipedia.org/wiki/接吻_\(曲\) "wikilink")/[ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")

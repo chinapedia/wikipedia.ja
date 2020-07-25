@@ -532,7 +532,7 @@
 
 #### ベストアルバム
 
-1.  [WORKS -THE BEST OF TRF-](https://ja.wikipedia.org/wiki/WORKS_-THE_BEST_OF_TRF- "wikilink") （CD: 1998年1月1日、DVD-Audio: 2004年1月28日）
+1.  [WORKS -THE BEST OF TRF-](../Page/WORKS_-THE_BEST_OF_TRF-.md "wikilink") （CD: 1998年1月1日、DVD-Audio: 2004年1月28日）
 2.  [TRF 15th Anniversary BEST -MEMORIES-](https://ja.wikipedia.org/wiki/TRF_15th_Anniversary_BEST_-MEMORIES- "wikilink") （2007年2月7日、初回生産限定盤/3CD+3DVD:AVCD-23167、通常盤A/2CD:AVCD-23172、通常盤B/2CD+2DVD:AVCD-23170）
 3.  Complete Best TRF Vol.1 (avex ARCHIVES, 2007年6月30日, AQC1-50265)
 4.  Complete Best TRF Vol.2 (avex ARCHIVES, 2007年6月30日, AQC1-50266)

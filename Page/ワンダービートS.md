@@ -1,7 +1,7 @@
 > この記事は[ワンダービートS](https://ja.wikipedia.org/wiki/ワンダービートS)から翻訳されています。
 
 
-**ワンダービートS-スクランブル-**（**Wonder Beat Scramble**）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[11月19日](../Page/11月19日.md "wikilink")にかけて[TBS系列](../Page/TBSテレビ.md "wikilink")\[1\]で放送された日本の[アニメーション](../Page/アニメーション.md "wikilink")番組。晩年の[手塚治虫](../Page/手塚治虫.md "wikilink")が企画と監修を手がけた。
+**ワンダービートS-スクランブル-**（**Wonder Beat Scramble**）は、[1986年](../Page/1986年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[11月19日](../Page/11月19日.md "wikilink")にかけて[TBS系列](../Page/TBSテレビ.md "wikilink")\[1\]で放送された日本の[アニメーション](../Page/アニメーション.md "wikilink")番組。晩年の[手塚治虫](../Page/手塚治虫.md "wikilink")が企画と監修を手がけた。
 
 ## 概要
 
@@ -237,7 +237,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>ライバルが泣いた</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田部俊行" title="wikilink">田部俊行</a></p></td>
+<td><p><a href="../Page/田部俊行.md" title="wikilink">田部俊行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/葛岡博" title="wikilink">葛岡博</a></p></td>
 <td><p>本木久年</p></td>
 <td><p><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
@@ -331,7 +331,7 @@
 <td><p>必殺のWレーザー</p></td>
 <td><p>荒木芳久<br />
 今泉俊昭</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大賀俊二" title="wikilink">大賀俊二</a></p></td>
+<td><p><a href="../Page/大賀俊二.md" title="wikilink">大賀俊二</a></p></td>
 <td><p>中山晴夫</p></td>
 <td><p>新田敏夫</p></td>
 <td><p><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>

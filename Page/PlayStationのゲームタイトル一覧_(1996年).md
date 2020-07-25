@@ -70,7 +70,7 @@
   - 3月15日 [ブラッドファクトリー](https://ja.wikipedia.org/wiki/ブラッドファクトリー "wikilink")（インタープレイ）
   - 3月15日 [ゾーク・ワン](https://ja.wikipedia.org/wiki/ゾーク・ワン "wikilink")（翔泳社）
   - 3月15日 [ファイヤープロレスリング](../Page/ファイヤープロレスリング.md "wikilink")96（ヒューマン）
-  - 3月22日 [ウイニングポスト2](https://ja.wikipedia.org/wiki/ウイニングポスト2 "wikilink")（光栄）
+  - 3月22日 [ウイニングポスト2](../Page/ウイニングポスト2.md "wikilink")（光栄）
   - 3月22日 [エアーマネジメント](../Page/エアーマネジメント.md "wikilink")'96（光栄）●
   - 3月22日 [宇宙豪商伝 爆裂商人](https://ja.wikipedia.org/wiki/宇宙豪商伝_爆裂商人 "wikilink")（アステックトゥーワン）
   - 3月22日 [アテナの家庭盤 ファミリーゲームズ](https://ja.wikipedia.org/wiki/アテナの家庭盤_ファミリーゲームズ "wikilink")（アテナ）
@@ -310,7 +310,7 @@
   - 10月4日 [ローンソルジャー](https://ja.wikipedia.org/wiki/ローンソルジャー "wikilink")（ヴァージンインタラクティブ）
   - 10月4日 [クリティコム ザ・クリティカルコンバット](https://ja.wikipedia.org/wiki/クリティコム_ザ・クリティカルコンバット "wikilink")（ビック東海）
   - 10月4日 [あれ\!も これ?も 桃太郎](https://ja.wikipedia.org/wiki/あれ!も_これ?も_桃太郎 "wikilink")（システムサコム）
-  - 10月4日 [ウイニングポスト2 プログラム96](https://ja.wikipedia.org/wiki/ウイニングポスト2 "wikilink")（光栄）
+  - 10月4日 [ウイニングポスト2 プログラム96](../Page/ウイニングポスト2.md "wikilink")（光栄）
   - 10月4日 [アサルト リグス](https://ja.wikipedia.org/wiki/アサルト_リグス "wikilink")（エレクトロニック・アーツ・ビクター）
   - 10月4日 [カオスコントロール](https://ja.wikipedia.org/wiki/カオスコントロール "wikilink")（ヴァージンインタラクティブ）
   - 10月4日 [スペクトラルタワー](https://ja.wikipedia.org/wiki/スペクトラルタワー "wikilink")（アイディアファクトリー）

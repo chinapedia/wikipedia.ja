@@ -27,7 +27,7 @@ Sony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー
       -
         アルバム『[DECADE](../Page/DECADE_\(米米CLUBのアルバム\).md "wikilink")』収録のリミックスバージョンを収録。
 10. **[愛はふしぎさ](../Page/愛はふしぎさ.md "wikilink")**
-11. **[ひとすじになれない](https://ja.wikipedia.org/wiki/ひとすじになれない "wikilink")**
+11. **[ひとすじになれない](../Page/ひとすじになれない.md "wikilink")**
       -
         アルバム『DECADE』収録のリミックスバージョンを収録。
 12. **[ア・ブラ・カダ・ブラ](../Page/ア・ブラ・カダ・ブラ.md "wikilink")**

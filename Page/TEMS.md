@@ -41,7 +41,7 @@ TEMSのショックアブソーバの構造は、[オリフィス](https://ja.wi
 <!-- end list -->
 
   -
-    高速走行時と判断すると減衰力は「HARD」が選択され、スタビリティ重視の乗り心地となり、[ロールや](https://ja.wikipedia.org/wiki/ローリング "wikilink")[ピッチング](../Page/ピッチング.md "wikilink")を抑える。
+    高速走行時と判断すると減衰力は「HARD」が選択され、スタビリティ重視の乗り心地となり、[ロールや](../Page/ローリング.md "wikilink")[ピッチング](../Page/ピッチング.md "wikilink")を抑える。
 
 <!-- end list -->
 

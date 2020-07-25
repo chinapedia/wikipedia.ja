@@ -5,14 +5,14 @@
 
 ## バイオグラフィ
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")、シングル「[BECAUSE OF LOVE](https://ja.wikipedia.org/wiki/BECAUSE_OF_LOVE_\(HIMの曲\) "wikilink")」でデビュー。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")解散。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")、シングル「[BECAUSE OF LOVE](../Page/BECAUSE_OF_LOVE_\(HIMの曲\).md "wikilink")」でデビュー。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")解散。
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink")は“噂のプロジェクト”であった。
   - 全楽曲の[ソングライティングは](../Page/作曲.md "wikilink")[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")によるもので、コーラスアレンジを除く[アレンジは](../Page/編曲.md "wikilink")[水島康貴](../Page/水島康貴.md "wikilink")によるものである。ユニット名は伊秩の名を冠した"**H**iromasa **I**jichi **M**elodies"の頭文字の略である。
-  - かつて[Victor Entertainment Incに在籍していた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[荻野目洋子](../Page/荻野目洋子.md "wikilink")のディレクターだった[和田将志](https://ja.wikipedia.org/wiki/和田将志 "wikilink")がプロデューサーである。当時[Sony Music Entertainment(Japan) Inc.第三制作部部長であり](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（和田はHIMWという筆記名も使用、1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』収録の「HEARTBREAK DIARY」の作詞、5thシングル「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」や6thシングル「[ETERNAL](https://ja.wikipedia.org/wiki/ETERNAL_\(HIMの曲\) "wikilink")」等の共作詞も手がけている）。
+  - かつて[Victor Entertainment Incに在籍していた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[荻野目洋子](../Page/荻野目洋子.md "wikilink")のディレクターだった[和田将志](https://ja.wikipedia.org/wiki/和田将志 "wikilink")がプロデューサーである。当時[Sony Music Entertainment(Japan) Inc.第三制作部部長であり](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（和田はHIMWという筆記名も使用、1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』収録の「HEARTBREAK DIARY」の作詞、5thシングル「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」や6thシングル「[ETERNAL](../Page/ETERNAL_\(HIMの曲\).md "wikilink")」等の共作詞も手がけている）。
   - “その都度その楽曲に合った様々な[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")を[フィーチャリング](../Page/フィーチャリング.md "wikilink")してゆく”という臨機応変で流動的な意向を掲げての、[音楽ユニット](../Page/音楽ユニット.md "wikilink")というよりはむしろ変則的な音楽プロジェクトとしてのスタンスで活動を開始。当初、メインボーカルのHIMSこと[SHIZUKAもメインボーカルという立場ではなく](https://ja.wikipedia.org/wiki/中嶋静香 "wikilink")、当時のプロジェクトの意向に則った最初のボーカルにすぎなかった。
   - デビューシングル「BECAUSE OF LOVE」は、SHIZUKAが制作準備のため仮上京した日にスタジオに連れて行かれ、その場で初めて曲を聞かされ、[プリプロ](https://ja.wikipedia.org/wiki/プリプロ "wikilink")として何テイクかボーカル録音したものがそのまま商品化されたという。
-  - いくつもの段階があるボーカル・[オーディション](../Page/オーディション.md "wikilink")と、難解で複雑であると言われたSD制作部の育成システムを勝ち抜いてきたボーカリスト2名をメンバーに有していた為か、デビューシングル「BECAUSE OF LOVE」と、“声の成分が[MY LITTLE LOVERのakkoに似ている](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")”という理由で選ばれた外部のアマチュアボーカリストを[フィーチャリング](../Page/フィーチャリング.md "wikilink")した4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](https://ja.wikipedia.org/wiki/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT "wikilink")」以外のHIMの全楽曲のボイス・パートは、すべて[SHIZUKAと](https://ja.wikipedia.org/wiki/中嶋静香 "wikilink")[SHUNGOの声のみで構成されている](https://ja.wikipedia.org/wiki/shungo. "wikilink")（ただし5thシングル「SHOOTING STAR」の前半部導入の[ラップ](../Page/ラップ.md "wikilink")部分はその限りでない。なお、デビューシングル「BECAUSE OF LOVE」の男性コーラスには[高尾直樹](../Page/高尾直樹.md "wikilink")が起用されている）。また、現行の[J-POP](../Page/J-POP.md "wikilink")におけるほとんどの現場で制作の一過程として存在する、いわゆる[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")以外の多くのシンガーが[歌録りに備え](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")や譜割りを覚えるための“お手本”として事前に渡されるプロの[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")による“仮歌”も存在しなかったという。
-  - 解散後、プロジェクト主宰者である伊秩本人が「HIMは[サンプリング](../Page/サンプリング.md "wikilink")・実験的プロジェクトであった」というコメントしているが、当時の[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")（現：[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）の社長であった[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")が、伊秩のHIMでのサウンド・メイクを評価し、伊秩を[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のプロデューサーに抜擢する。プロジェクト終了後、HIMの楽曲は[ライジングプロダクション所属アーティスト](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")（[dps以外](https://ja.wikipedia.org/wiki/deeps "wikilink")）によってカバーされる（下記“他アーティストによるHIM関連楽曲のカバー ”参照。）。
+  - いくつもの段階があるボーカル・[オーディション](../Page/オーディション.md "wikilink")と、難解で複雑であると言われたSD制作部の育成システムを勝ち抜いてきたボーカリスト2名をメンバーに有していた為か、デビューシングル「BECAUSE OF LOVE」と、“声の成分が[MY LITTLE LOVERのakkoに似ている](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")”という理由で選ばれた外部のアマチュアボーカリストを[フィーチャリング](../Page/フィーチャリング.md "wikilink")した4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](../Page/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT.md "wikilink")」以外のHIMの全楽曲のボイス・パートは、すべて[SHIZUKAと](https://ja.wikipedia.org/wiki/中嶋静香 "wikilink")[SHUNGOの声のみで構成されている](https://ja.wikipedia.org/wiki/shungo. "wikilink")（ただし5thシングル「SHOOTING STAR」の前半部導入の[ラップ](../Page/ラップ.md "wikilink")部分はその限りでない。なお、デビューシングル「BECAUSE OF LOVE」の男性コーラスには[高尾直樹](../Page/高尾直樹.md "wikilink")が起用されている）。また、現行の[J-POP](../Page/J-POP.md "wikilink")におけるほとんどの現場で制作の一過程として存在する、いわゆる[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")以外の多くのシンガーが[歌録りに備え](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")や譜割りを覚えるための“お手本”として事前に渡されるプロの[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")による“仮歌”も存在しなかったという。
+  - 解散後、プロジェクト主宰者である伊秩本人が「HIMは[サンプリング](../Page/サンプリング.md "wikilink")・実験的プロジェクトであった」というコメントしているが、当時の[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")（現：[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）の社長であった[平哲夫](../Page/平哲夫.md "wikilink")が、伊秩のHIMでのサウンド・メイクを評価し、伊秩を[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のプロデューサーに抜擢する。プロジェクト終了後、HIMの楽曲は[ライジングプロダクション所属アーティスト](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")（[dps以外](https://ja.wikipedia.org/wiki/deeps "wikilink")）によってカバーされる（下記“他アーティストによるHIM関連楽曲のカバー ”参照。）。
   - なお、SHIZUKAとSHUNGOがSME SD制作部育成時代にSD制作部部長を務めており、同部主催のショーケースを経て、二人をそれぞれHIM加入へ導いたのが、後の“[藤岡藤巻](../Page/藤岡藤巻.md "wikilink")”の[藤岡孝章](../Page/藤岡孝章.md "wikilink")である。
   - 雑誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』との連動企画であり、HIMプロデュースという形を取ってデビューした“[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")（エイチ・アイ・エム・エッグ）”というガールズユニットが存在。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")、シングル「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY.md "wikilink")」を単発リリースした（HIM 2ndアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』にも"PERFORMED BY HIM-egg"として収録）。
 
@@ -31,7 +31,7 @@
 
 ### その他
 
-  - 上記正式メンバーの他に、4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](https://ja.wikipedia.org/wiki/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT "wikilink")」のフィーチャリング・ボーカルであるTOMOKO SAWACHI=HIMTの他、楽曲や時期により、[ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[PV](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、[音楽番組](../Page/音楽番組.md "wikilink")出演時に流動的かつ突発的に登場する共演者が（大体の場合単発で）存在する。ちなみに、1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』の[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")、5thシングル「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」のジャケット及びPV、6thシングル「[ETERNAL](https://ja.wikipedia.org/wiki/ETERNAL_\(HIMの曲\) "wikilink")」のジャケットに登場している[モデルは増田可奈子で](../Page/モデル_\(職業\).md "wikilink")、5thシングル「SHOOTING STAR」のPVに出演している[ギタリスト](../Page/ギタリスト.md "wikilink")は[鎌田ジョージ](https://ja.wikipedia.org/wiki/鎌田ジョージ "wikilink")である。
+  - 上記正式メンバーの他に、4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](../Page/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT.md "wikilink")」のフィーチャリング・ボーカルであるTOMOKO SAWACHI=HIMTの他、楽曲や時期により、[ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[PV](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、[音楽番組](../Page/音楽番組.md "wikilink")出演時に流動的かつ突発的に登場する共演者が（大体の場合単発で）存在する。ちなみに、1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』の[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")、5thシングル「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」のジャケット及びPV、6thシングル「[ETERNAL](../Page/ETERNAL_\(HIMの曲\).md "wikilink")」のジャケットに登場している[モデルは増田可奈子で](../Page/モデル_\(職業\).md "wikilink")、5thシングル「SHOOTING STAR」のPVに出演している[ギタリスト](../Page/ギタリスト.md "wikilink")は[鎌田ジョージ](https://ja.wikipedia.org/wiki/鎌田ジョージ "wikilink")である。
   - 1stアルバムに記載してある[クレジットは](../Page/クレジットタイトル.md "wikilink")"HIM ARE:HIMS,HIMK,HIMT,HIMM,HIMW,HIMO,HIMZ,HIMI & HIM DANCERS"となっており、HIMS(=SHIZUKA)とHIMK(=SHUNGO)、HIMT(=TOMOKO SAWACHI)、HIMW(=[和田将志](https://ja.wikipedia.org/wiki/和田将志 "wikilink"))、HIM DANCERS(=NON & YOCCO)以外はどれが誰に該当するのか不明である。
   - HIMというプロジェクトの発足が決定した後、一時期メインボーカルとして、後に[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がプロデュースを手がけたユニット[dosのボーカルを務めた](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")[西野妙子](https://ja.wikipedia.org/wiki/西野妙子 "wikilink")が内定していた。
 
@@ -42,14 +42,14 @@
 
 ## PV
 
-  - [PVにメンバーがそろって出演したのは](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、男性ボーカルであるHIMKこと[SHUNGOがHIMに加入し](https://ja.wikipedia.org/wiki/shungo. "wikilink")、正式メンバーが固定された後の最初のシングルである（通算3枚目）「[AQUARIUS](https://ja.wikipedia.org/wiki/AQUARIUS_\(HIMの曲\) "wikilink")」からである。メインボーカルであるHIMSこと[SHIZUKAもPV初登場であり](https://ja.wikipedia.org/wiki/中嶋静香 "wikilink")、HIMのPVとしては初めて[リップシンク](https://ja.wikipedia.org/wiki/リップシンク "wikilink")が披露された（ただし、サイズは1コーラス分のみ）。
-  - デビューシングル「[BECAUSE OF LOVE](https://ja.wikipedia.org/wiki/BECAUSE_OF_LOVE_\(HIMの曲\) "wikilink")」並びに2ndシングル「[NO MORE KISS, NO MORE CRY](https://ja.wikipedia.org/wiki/NO_MORE_KISS,_NO_MORE_CRY "wikilink")」のPVも共に存在するが、「BECAUSE OF LOVE」のPVでは、後の正式メンバーであるNONとYOCCOを含めた3人の女性ダンサーがほぼ逆光に近いライティングの中で踊っているという、リリースに備えユニット・イメージを[予告篇](https://ja.wikipedia.org/wiki/予告篇 "wikilink")的に映像化したものであり、「NO MORE KISS, NO MORE CRY」のPVに至っては、街中やラーメン店、電車内といったロケーションで少女モデルをイメージビデオ的に撮影した、まるでカラオケ映像のようなPVがかろうじて存在するのみである（サイズは共に1コーラス分のみ）。
-  - [フルサイズ](https://ja.wikipedia.org/wiki/フルサイズ "wikilink")で制作されたPVは、6thシングル「[ETERNAL](https://ja.wikipedia.org/wiki/ETERNAL_\(HIMの曲\) "wikilink")」と7thシングル「[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink")」の2曲のみである。
-  - シングルの中で、4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](https://ja.wikipedia.org/wiki/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT "wikilink")」のPVだけが存在しない。
+  - [PVにメンバーがそろって出演したのは](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、男性ボーカルであるHIMKこと[SHUNGOがHIMに加入し](https://ja.wikipedia.org/wiki/shungo. "wikilink")、正式メンバーが固定された後の最初のシングルである（通算3枚目）「[AQUARIUS](../Page/AQUARIUS_\(HIMの曲\).md "wikilink")」からである。メインボーカルであるHIMSこと[SHIZUKAもPV初登場であり](https://ja.wikipedia.org/wiki/中嶋静香 "wikilink")、HIMのPVとしては初めて[リップシンク](https://ja.wikipedia.org/wiki/リップシンク "wikilink")が披露された（ただし、サイズは1コーラス分のみ）。
+  - デビューシングル「[BECAUSE OF LOVE](../Page/BECAUSE_OF_LOVE_\(HIMの曲\).md "wikilink")」並びに2ndシングル「[NO MORE KISS, NO MORE CRY](../Page/NO_MORE_KISS,_NO_MORE_CRY.md "wikilink")」のPVも共に存在するが、「BECAUSE OF LOVE」のPVでは、後の正式メンバーであるNONとYOCCOを含めた3人の女性ダンサーがほぼ逆光に近いライティングの中で踊っているという、リリースに備えユニット・イメージを[予告篇](https://ja.wikipedia.org/wiki/予告篇 "wikilink")的に映像化したものであり、「NO MORE KISS, NO MORE CRY」のPVに至っては、街中やラーメン店、電車内といったロケーションで少女モデルをイメージビデオ的に撮影した、まるでカラオケ映像のようなPVがかろうじて存在するのみである（サイズは共に1コーラス分のみ）。
+  - [フルサイズ](https://ja.wikipedia.org/wiki/フルサイズ "wikilink")で制作されたPVは、6thシングル「[ETERNAL](../Page/ETERNAL_\(HIMの曲\).md "wikilink")」と7thシングル「[HEAVEN](../Page/HEAVEN_\(HIMの曲\).md "wikilink")」の2曲のみである。
+  - シングルの中で、4thシングル「[HEARTBEAT SNOW 〜THEME OF SNOW BEAT](../Page/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT.md "wikilink")」のPVだけが存在しない。
 
 ## 音楽性の推移
 
-当初[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")サイドは、当時の[J-POP](../Page/J-POP.md "wikilink")の[主流](https://ja.wikipedia.org/wiki/主流 "wikilink")であった、いわゆる“[小室サウンド](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")”を踏襲する音作りをひとつの指針としており、ボーカルの選考基準も、当時大[ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")していた小室サウンドの[発祥](../Page/発祥.md "wikilink")であり主戦力でもあった[TRF](../Page/TRF.md "wikilink")のボーカル[YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")と声質が似ている、もしくは似た[歌唱](https://ja.wikipedia.org/wiki/歌唱 "wikilink")ができるということが掲げられており、デビューシングル「[BECAUSE OF LOVE](https://ja.wikipedia.org/wiki/BECAUSE_OF_LOVE_\(HIMの曲\) "wikilink")」や3rdシングル「[AQUARIUS](https://ja.wikipedia.org/wiki/AQUARIUS_\(HIMの曲\) "wikilink")」は特に、当時の小室哲哉が手がけていた王道小室サウンドを彷彿とさせる打ち込み系ダンスミュージックに仕上がっている。同様に、1stから4thまでのシングルと、1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』は、当時常に[オリコンチャート](../Page/オリコンチャート.md "wikilink")の上位を占めていた前出のTRFをはじめ、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[B'z](../Page/B'z.md "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")、[郷ひろみ](../Page/郷ひろみ.md "wikilink")等、人気[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の音楽性を敢えて遊びとして[模倣](../Page/模倣.md "wikilink")して制作された観があった。 しかし5thシングル「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」からその傾向は影を潜め、オリジナル色を強めた楽曲制作に推移し、固定メンバーありきの一音楽ユニットとして、[TV](https://ja.wikipedia.org/wiki/TV "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")などへの出演、[雑誌](../Page/雑誌.md "wikilink")などの紙媒体露出等を突如展開してゆく。（『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』記事より要約抜粋）
+当初[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")サイドは、当時の[J-POP](../Page/J-POP.md "wikilink")の[主流](https://ja.wikipedia.org/wiki/主流 "wikilink")であった、いわゆる“[小室サウンド](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")”を踏襲する音作りをひとつの指針としており、ボーカルの選考基準も、当時大[ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")していた小室サウンドの[発祥](../Page/発祥.md "wikilink")であり主戦力でもあった[TRF](../Page/TRF.md "wikilink")のボーカル[YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")と声質が似ている、もしくは似た[歌唱](https://ja.wikipedia.org/wiki/歌唱 "wikilink")ができるということが掲げられており、デビューシングル「[BECAUSE OF LOVE](../Page/BECAUSE_OF_LOVE_\(HIMの曲\).md "wikilink")」や3rdシングル「[AQUARIUS](../Page/AQUARIUS_\(HIMの曲\).md "wikilink")」は特に、当時の小室哲哉が手がけていた王道小室サウンドを彷彿とさせる打ち込み系ダンスミュージックに仕上がっている。同様に、1stから4thまでのシングルと、1stアルバム『[HIMAX\! GREATEST HITS AND MORE](https://ja.wikipedia.org/wiki/HIMAX!_GREATEST_HITS_AND_MORE "wikilink")』は、当時常に[オリコンチャート](../Page/オリコンチャート.md "wikilink")の上位を占めていた前出のTRFをはじめ、[ZARD](../Page/ZARD.md "wikilink")、[MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[B'z](../Page/B'z.md "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")、[郷ひろみ](../Page/郷ひろみ.md "wikilink")等、人気[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の音楽性を敢えて遊びとして[模倣](../Page/模倣.md "wikilink")して制作された観があった。 しかし5thシングル「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」からその傾向は影を潜め、オリジナル色を強めた楽曲制作に推移し、固定メンバーありきの一音楽ユニットとして、[TV](https://ja.wikipedia.org/wiki/TV "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")などへの出演、[雑誌](../Page/雑誌.md "wikilink")などの紙媒体露出等を突如展開してゆく。（『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』記事より要約抜粋）
 
 ## 解散理由
 
@@ -72,31 +72,31 @@
 <tr class="even">
 <td><p><small>1st</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/4月21日.md" title="wikilink">4月21日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BECAUSE_OF_LOVE_(HIMの曲)" title="wikilink">BECAUSE OF LOVE</a></strong></p></td>
+<td><p><strong><a href="../Page/BECAUSE_OF_LOVE_(HIMの曲).md" title="wikilink">BECAUSE OF LOVE</a></strong></p></td>
 <td><p><small><a href="../Page/TBSテレビ.md" title="wikilink">TBS系TV</a> '95 <a href="https://ja.wikipedia.org/wiki/Jリーグ" title="wikilink">Jリーグ</a>中継<a href="https://ja.wikipedia.org/wiki/テーマソング" title="wikilink">テーマソング</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>2nd</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NO_MORE_KISS,_NO_MORE_CRY" title="wikilink">NO MORE KISS, NO MORE CRY</a></strong></p></td>
+<td><p><strong><a href="../Page/NO_MORE_KISS,_NO_MORE_CRY.md" title="wikilink">NO MORE KISS, NO MORE CRY</a></strong></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/朝日放送" title="wikilink">朝日放送</a>火曜<a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="../Page/Change!.md" title="wikilink">Change!</a>』<a href="https://ja.wikipedia.org/wiki/劇中歌" title="wikilink">劇中歌</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>3rd</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AQUARIUS_(HIMの曲)" title="wikilink">AQUARIUS</a></strong></p></td>
+<td><p><strong><a href="../Page/AQUARIUS_(HIMの曲).md" title="wikilink">AQUARIUS</a></strong></p></td>
 <td><p><small>TBS『<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>』<a href="https://ja.wikipedia.org/wiki/オープニングテーマ" title="wikilink">オープニングテーマ</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>4th</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT" title="wikilink">HEARTBEAT SNOW 〜THEME OF SNOW BEAT</a></strong></p></td>
+<td><p><strong><a href="../Page/HEARTBEAT_SNOW_〜THEME_OF_SNOW_BEAT.md" title="wikilink">HEARTBEAT SNOW 〜THEME OF SNOW BEAT</a></strong></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>『SNOW BEAT』テーマソング</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>5th</small></p></td>
 <td><p><small><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/5月2日.md" title="wikilink">5月2日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SHOOTING_STAR_(HIMの曲)" title="wikilink">SHOOTING STAR</a></strong></p></td>
+<td><p><strong><a href="../Page/SHOOTING_STAR_(HIMの曲).md" title="wikilink">SHOOTING STAR</a></strong></p></td>
 <td><p><small><strong>「SHOOTING STAR」</strong><br />
 TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wikipedia.org/wiki/CMソング" title="wikilink">CMソング</a></small> <small>c/w<strong>「LOVE GOES」<br />
 </strong><a href="../Page/松竹富士.md" title="wikilink">松竹富士</a>配給<a href="../Page/映画.md" title="wikilink">映画</a>『<a href="https://ja.wikipedia.org/wiki/魔法陣グルグル_(1994年のアニメ)#劇場版" title="wikilink">魔法陣グルグル</a>』<a href="https://ja.wikipedia.org/wiki/エンディングテーマ" title="wikilink">エンディングテーマ</a></small></p></td>
@@ -104,13 +104,13 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
 <tr class="odd">
 <td><p><small>6th</small></p></td>
 <td><p><small><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/9月1日.md" title="wikilink">9月1日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ETERNAL_(HIMの曲)" title="wikilink">ETERNAL</a></strong></p></td>
+<td><p><strong><a href="../Page/ETERNAL_(HIMの曲).md" title="wikilink">ETERNAL</a></strong></p></td>
 <td><p><small><a href="../Page/ニチレイ.md" title="wikilink">ニチレイ</a>レディース'96 大会（<a href="../Page/テニス.md" title="wikilink">テニス</a>）<a href="https://ja.wikipedia.org/wiki/イメージソング" title="wikilink">イメージソング</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>7th</small></p></td>
 <td><p><small><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a></small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HEAVEN_(HIMの曲)" title="wikilink">HEAVEN</a></strong></p></td>
+<td><p><strong><a href="../Page/HEAVEN_(HIMの曲).md" title="wikilink">HEAVEN</a></strong></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/アニメーション.md" title="wikilink">アニメーション</a>『<a href="../Page/YAT安心!宇宙旅行.md" title="wikilink">YAT安心!宇宙旅行</a>』オープニングテーマ</small></p></td>
 </tr>
 <tr class="odd">
@@ -133,22 +133,22 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
 
 ### その他
 
-|                                                                                                            |                                                                                                                           |                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 発売日                                                                                                        | タイトル                                                                                                                      | 曲順・曲目                                                                                                    |
-| <small>[1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")</small>                  | **[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『[MAX JAPAN 3](../Page/MAX_JAPAN.md "wikilink")』** | <small>M-10「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」収録</small> |
-| <small>[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")</small> | **[サウンドトラック](../Page/サウンドトラック.md "wikilink")『[YAT安心\!宇宙旅行](../Page/YAT安心!宇宙旅行.md "wikilink") SOUNDTRACK』**                | <small>M-01「[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink")」収録</small>               |
-| <small>[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")</small> | **サウンドトラック『YAT安心\!宇宙旅行 SOUNDTRACK 2』**                                                                                    | <small>M-02「HEAVEN(TV SIZE VERSION)」収録 </small>                                                          |
-|                                                                                                            |                                                                                                                           |                                                                                                          |
+|                                                                                                            |                                                                                                                           |                                                                                       |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 発売日                                                                                                        | タイトル                                                                                                                      | 曲順・曲目                                                                                 |
+| <small>[1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")</small>                  | **[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『[MAX JAPAN 3](../Page/MAX_JAPAN.md "wikilink")』** | <small>M-10「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」収録</small> |
+| <small>[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")</small> | **[サウンドトラック](../Page/サウンドトラック.md "wikilink")『[YAT安心\!宇宙旅行](../Page/YAT安心!宇宙旅行.md "wikilink") SOUNDTRACK』**                | <small>M-01「[HEAVEN](../Page/HEAVEN_\(HIMの曲\).md "wikilink")」収録</small>               |
+| <small>[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")</small> | **サウンドトラック『YAT安心\!宇宙旅行 SOUNDTRACK 2』**                                                                                    | <small>M-02「HEAVEN(TV SIZE VERSION)」収録 </small>                                       |
+|                                                                                                            |                                                                                                                           |                                                                                       |
 
 ## 出演
 
 ### TV
 
   - M-navi（[TBS](../Page/TBSテレビ.md "wikilink"))
-      - 「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」歌唱
+      - 「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」歌唱
   - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")-[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
-      - 「SHOOTING STAR」「[ETERNAL](https://ja.wikipedia.org/wiki/ETERNAL_\(HIMの曲\) "wikilink")」「[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink")」歌唱＋トークで、計3回出演
+      - 「SHOOTING STAR」「[ETERNAL](../Page/ETERNAL_\(HIMの曲\).md "wikilink")」「[HEAVEN](../Page/HEAVEN_\(HIMの曲\).md "wikilink")」歌唱＋トークで、計3回出演
   - [VIDEO JAM](../Page/VIDEO_JAM.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
       - 「ETERNAL」リリース時、トークでの出演
 
@@ -200,7 +200,7 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
   -
     3rdシングル**「SHOOTING STAR」**（1999年5月26日リリース）
       -
-        ⇔ HIM 5thシングル**「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」**（2ndアルバム『HIMIX A2Z』に、[リミックス](../Page/リミックス.md "wikilink")と共に収録）
+        ⇔ HIM 5thシングル**「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」**（2ndアルバム『HIMIX A2Z』に、[リミックス](../Page/リミックス.md "wikilink")と共に収録）
 
 <!-- end list -->
 
@@ -233,7 +233,7 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
   -
     14thシングル**「[銀河の誓い](https://ja.wikipedia.org/wiki/銀河の誓い "wikilink")」**（1999年8月25日リリース）
       -
-        ⇔ HIM 3rdシングル**「[AQUARIUS](https://ja.wikipedia.org/wiki/AQUARIUS_\(HIMの曲\) "wikilink")」**（1stアルバム『HIMAX\! GREATEST HITS AND MORE』にリミックスと共に、2ndアルバム『HIMIX A2Z』にリミックス収録）
+        ⇔ HIM 3rdシングル**「[AQUARIUS](../Page/AQUARIUS_\(HIMの曲\).md "wikilink")」**（1stアルバム『HIMAX\! GREATEST HITS AND MORE』にリミックスと共に、2ndアルバム『HIMIX A2Z』にリミックス収録）
 
 ### HIM-egg楽曲
 

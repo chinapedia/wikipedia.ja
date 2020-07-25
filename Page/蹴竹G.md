@@ -28,7 +28,7 @@
   - [中村佳子](https://ja.wikipedia.org/wiki/中村佳子 "wikilink")
   - 森田嶺子
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")生まれ。2006年8月の「[お台場冒険王](../Page/お台場冒険王.md "wikilink") フットサル女王決定戦（グループF）」でデビュー。当時のポジションはゴレイロ（キーパー）であったが、現在はフィールドプレイヤー。在籍時の背番号は「12」。2007年4月退団。愛称は「[モリゾー](https://ja.wikipedia.org/wiki/モリゾー "wikilink")」。
+        [1986年](../Page/1986年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")生まれ。2006年8月の「[お台場冒険王](../Page/お台場冒険王.md "wikilink") フットサル女王決定戦（グループF）」でデビュー。当時のポジションはゴレイロ（キーパー）であったが、現在はフィールドプレイヤー。在籍時の背番号は「12」。2007年4月退団。愛称は「[モリゾー](https://ja.wikipedia.org/wiki/モリゾー "wikilink")」。
   - 小泉真里
       -
         [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身。身長163cm、[B](../Page/バスト.md "wikilink")80・[W](../Page/ウエスト.md "wikilink")56・[H](../Page/尻.md "wikilink")88。血液型はB型。[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[文学部](../Page/文学部.md "wikilink")卒業。2007年4月に退団。「[中小企業基盤整備機構](../Page/中小企業基盤整備機構.md "wikilink")」のイメージガールを務めていた。
@@ -37,7 +37,7 @@
   - [門脇聡子](../Page/門脇聡子.md "wikilink")
   - [佐藤未歩](http://miho69you.jugem.jp/)
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")生まれ、[千葉県](../Page/千葉県.md "wikilink")出身。身長162cm、B82・W58・H87。血液型はA型。当チームには[2007年](../Page/2007年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで在籍。『[BONZO\!](https://ja.wikipedia.org/wiki/BONZO! "wikilink")』（[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）にリポーターとして出演。
+        [1986年](../Page/1986年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")生まれ、[千葉県](../Page/千葉県.md "wikilink")出身。身長162cm、B82・W58・H87。血液型はA型。当チームには[2007年](../Page/2007年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで在籍。『[BONZO\!](https://ja.wikipedia.org/wiki/BONZO! "wikilink")』（[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）にリポーターとして出演。
 
 ### 解散時のメンバー
 

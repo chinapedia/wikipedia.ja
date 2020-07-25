@@ -61,7 +61,7 @@ DDR-SDRAM対応のメモリコントローラ、2Dグラフィック、PCIブリ
 
 OSは、[MS-DOS](../Page/MS-DOS.md "wikilink")，[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")などが動作する。[Windows XP上では](../Page/Microsoft_Windows_XP.md "wikilink")[ウェブブラウズ](https://ja.wikipedia.org/wiki/ネットサーフィン "wikilink")、[オフィスアプリケーションなどの通常用途では快適に利用できる](../Page/オフィススイート.md "wikilink")。しかし、超低消費電力を重視したCPU性能が理由で3Dゲーム、動画閲覧などCPUパワーが必要な用途にて使うと処理落ちなどが発生する為、その利用には支障が出やすい。また、[Windows Vistaでは内蔵GPUの能力不足のため利用不可といわれる](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。
 
-なお、競合製品として、[VIA](../Page/VIA_Technologies.md "wikilink") [C3](../Page/VIA_C3.md "wikilink") （組み込み用途向け）、[Intel Atomシリーズ](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") （コンシューマ向け） がある。
+なお、競合製品として、[VIA](../Page/VIA_Technologies.md "wikilink") [C3](../Page/VIA_C3.md "wikilink") （組み込み用途向け）、[Intel Atomシリーズ](../Page/Intel_Atom.md "wikilink") （コンシューマ向け） がある。
 
   - ラインナップ
     CPU

@@ -49,13 +49,13 @@
 ### ナレーター
 
   - [田中信夫](../Page/田中信夫.md "wikilink")（オープニングのタイトルコール、エンディングおよび各ステージのルール説明など）
-  - [田子千尋](https://ja.wikipedia.org/wiki/田子千尋 "wikilink")（各ステージの実況など）
+  - [田子千尋](../Page/田子千尋.md "wikilink")（各ステージの実況など）
   - [阪井あかね](../Page/阪井あかね.md "wikilink")（選手のプロフィールなど）
 
 ### 実況
 
   - [矢野武](../Page/矢野武.md "wikilink")
-  - [市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")
+  - [市川勝也](../Page/市川勝也.md "wikilink")
 
 ## 番組でのエピソード・珍事
 

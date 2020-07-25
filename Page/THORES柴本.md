@@ -18,11 +18,11 @@
   - [天涯のパシュルーナ](https://ja.wikipedia.org/wiki/天涯のパシュルーナ "wikilink")（著者：[前田栄](https://ja.wikipedia.org/wiki/前田栄 "wikilink")　[ウィングス文庫](../Page/新書館.md "wikilink")）
   - S RED-[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")100号記念[アンソロジー](../Page/アンソロジー.md "wikilink")（著者：[吉田直](../Page/吉田直.md "wikilink")、ほか　スニーカー文庫）
   - ヴァンパイアハンター・リンカーン（著者：[セス・グレアム＝スミス](https://ja.wikipedia.org/wiki/セス・グレアム＝スミス "wikilink")（訳者：赤尾秀子）[角川書店](../Page/角川書店.md "wikilink")）
-  - [バチカン奇跡調査官](https://ja.wikipedia.org/wiki/バチカン奇跡調査官 "wikilink")（著者：[藤木稟](https://ja.wikipedia.org/wiki/藤木稟 "wikilink")　[角川ホラー文庫](../Page/角川ホラー文庫.md "wikilink")・角川書店）
+  - [バチカン奇跡調査官](https://ja.wikipedia.org/wiki/バチカン奇跡調査官 "wikilink")（著者：[藤木稟](../Page/藤木稟.md "wikilink")　[角川ホラー文庫](../Page/角川ホラー文庫.md "wikilink")・角川書店）
   - 『[六使徒](https://ja.wikipedia.org/wiki/六使徒シリーズ "wikilink")』シリーズ（著者：栗原ちひろ　[F-Clan文庫](https://ja.wikipedia.org/wiki/F-Clan文庫 "wikilink")）
   - [黎明の書](https://ja.wikipedia.org/wiki/黎明の書 "wikilink")（著者：[篠田真由美](../Page/篠田真由美.md "wikilink")　[トクマ・ノベルズ](https://ja.wikipedia.org/wiki/トクマ・ノベルズ "wikilink")）
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink") Before the fall（著者：[涼風涼](../Page/涼風涼.md "wikilink")　[講談社ラノベ文庫](https://ja.wikipedia.org/wiki/講談社ラノベ文庫 "wikilink")）
-  - [探偵・朱雀十五の事件簿](https://ja.wikipedia.org/wiki/探偵・朱雀十五の事件簿 "wikilink")（著者：[藤木稟](https://ja.wikipedia.org/wiki/藤木稟 "wikilink")　[角川ホラー文庫](../Page/角川ホラー文庫.md "wikilink")）
+  - [探偵・朱雀十五の事件簿](https://ja.wikipedia.org/wiki/探偵・朱雀十五の事件簿 "wikilink")（著者：[藤木稟](../Page/藤木稟.md "wikilink")　[角川ホラー文庫](../Page/角川ホラー文庫.md "wikilink")）
   - ミレニアムの翼〜320階の守護者と三人の家出人〜（著者：縞田 理理 　[ウィングス文庫](../Page/新書館.md "wikilink")）
   - [最果ての東](https://ja.wikipedia.org/wiki/最果ての東 "wikilink")（著者：[十文字青](../Page/十文字青.md "wikilink")　[講談社ラノベ文庫](https://ja.wikipedia.org/wiki/講談社ラノベ文庫 "wikilink")）
   - [悪魔交渉人](https://ja.wikipedia.org/wiki/悪魔交渉人 "wikilink")（著者：栗原ちひろ　[富士見L文庫](https://ja.wikipedia.org/wiki/富士見L文庫 "wikilink")）

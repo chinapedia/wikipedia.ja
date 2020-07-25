@@ -30,7 +30,7 @@
 2.  **[硝子の少年](../Page/硝子の少年.md "wikilink")**(4:38)
     (作詞:[松本隆](../Page/松本隆.md "wikilink")　作曲・編曲:[山下達郎](../Page/山下達郎.md "wikilink"))
 3.  **[愛されるより 愛したい](../Page/愛されるより_愛したい.md "wikilink")**(5:04)
-    (作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink"))
+    (作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:[岩田雅之](../Page/岩田雅之.md "wikilink"))
 4.  **[ジェットコースター・ロマンス](../Page/ジェットコースター・ロマンス.md "wikilink")**(4:53)
     (作詞:松本隆　作曲:山下達郎　編曲:船山基紀)
 5.  **[全部だきしめて](../Page/全部だきしめて.md "wikilink")**(4:35)

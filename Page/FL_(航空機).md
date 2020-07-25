@@ -1,7 +1,7 @@
 > この記事は[FL \(航空機\)](https://ja.wikipedia.org/wiki/FL_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=ベル XFL-1 エアラボニータ | 画像=Image:Bell XFL-1 Airabonita.jpg | キャプション=XFL-1 | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=試作[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者= | 製造者=[ベル・エアクラフト](../Page/ベル・エアクラフト.md "wikilink")社 | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink") | 初飛行年月日=[1940年](../Page/1940年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") | 生産数=1機 | 生産開始年月日=1940年 | 運用開始年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")2月 | 退役年月日=不採用 | 運用状況= | ユニットコスト=125,000ドル\[1\]
+{{ Infobox 航空機 | 名称=ベル XFL-1 エアラボニータ | 画像=Image:Bell XFL-1 Airabonita.jpg | キャプション=XFL-1 | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=試作[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者= | 製造者=[ベル・エアクラフト](../Page/ベル・エアクラフト.md "wikilink")社 | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink") | 初飛行年月日=[1940年](../Page/1940年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") | 生産数=1機 | 生産開始年月日=1940年 | 運用開始年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")2月 | 退役年月日=不採用 | 運用状況= | ユニットコスト=125,000ドル\[1\]
 
 `}}`
 

@@ -38,7 +38,7 @@
 
 ### シングル
 
-1.  Realize　([コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")／1999.10.21) - メジャーデビューシングル、[大山正篤](../Page/大山正篤.md "wikilink")(ex.[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink"))プロデュース
+1.  Realize　([コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")／1999.10.21) - メジャーデビューシングル、[大山正篤](../Page/大山正篤.md "wikilink")(ex.[ZIGGY](../Page/ZIGGY.md "wikilink"))プロデュース
 2.  CHASE　(コロムビアミュージックエンタテインメント／2000.3.1) - TBS系アニメ『[ゾイド -ZOIDS-](../Page/ゾイド_-ZOIDS-.md "wikilink")』エンディングテーマ
 3.  裸心　(コロムビアミュージックエンタテインメント／2000.7.20) - TBS系『心の扉』エンディングテーマ
 

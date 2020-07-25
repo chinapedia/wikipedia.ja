@@ -48,7 +48,7 @@
 
 :\*[中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink")（フリーキャスター　2017年2月25日-）
 
-:\* NHKサッカー担当アナウンサー（[内山俊哉](../Page/内山俊哉.md "wikilink")、[小宮山晃義](../Page/小宮山晃義.md "wikilink")、[酒井博司](../Page/酒井博司.md "wikilink")、[佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink")、[杉岡英樹](../Page/杉岡英樹.md "wikilink")、[杉澤僚](../Page/杉澤僚.md "wikilink")、[曽根優](../Page/曽根優.md "wikilink")、[鳥海貴樹](../Page/鳥海貴樹.md "wikilink")、[野地俊二](../Page/野地俊二.md "wikilink")など。[東京アナウンス室所属か](../Page/NHK放送センター.md "wikilink")、G-Media出向中のアナウンサーが週替わりで担当）
+:\* NHKサッカー担当アナウンサー（[内山俊哉](../Page/内山俊哉.md "wikilink")、[小宮山晃義](../Page/小宮山晃義.md "wikilink")、[酒井博司](../Page/酒井博司.md "wikilink")、[佐々生佳典](../Page/佐々生佳典.md "wikilink")、[杉岡英樹](../Page/杉岡英樹.md "wikilink")、[杉澤僚](../Page/杉澤僚.md "wikilink")、[曽根優](../Page/曽根優.md "wikilink")、[鳥海貴樹](../Page/鳥海貴樹.md "wikilink")、[野地俊二](../Page/野地俊二.md "wikilink")など。[東京アナウンス室所属か](../Page/NHK放送センター.md "wikilink")、G-Media出向中のアナウンサーが週替わりで担当）
 
 :\* [山本浩](../Page/山本浩.md "wikilink")（元NHKアナウンサー・[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")教授。2009年から月1回程度出演。山本が出演する週はNHKアナウンサーは出演しない）
 

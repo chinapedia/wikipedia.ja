@@ -19,7 +19,7 @@
   - ヨンビン - [イ・ドンゴン](../Page/イ・ドンゴン.md "wikilink")（注：本人は実際はA型である）
   - ハミ - [ハン・ジヘ](https://ja.wikipedia.org/wiki/ハン・ジヘ "wikilink")
   - チョヨン（ハミの従姉） - [シン・イ](https://ja.wikipedia.org/wiki/シン・イ "wikilink")
-  - ボヨン - [チョン・リョウォン](https://ja.wikipedia.org/wiki/チョン・リョウォン "wikilink")
+  - ボヨン - [チョン・リョウォン](../Page/チョン・リョウォン.md "wikilink")
   - ウニョン - [キム・ジェイン](https://ja.wikipedia.org/wiki/キム・ジェイン "wikilink")
 
 ## あらすじ

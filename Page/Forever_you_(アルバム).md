@@ -1,7 +1,7 @@
 > この記事は[Forever you \(アルバム\)](https://ja.wikipedia.org/wiki/Forever_you_\(アルバム\))から翻訳されています。
 
 
-『**forever you**』（フォーエバー・ユー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")6枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**forever you**』（フォーエバー・ユー）は、[ZARD](../Page/ZARD.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")6枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 

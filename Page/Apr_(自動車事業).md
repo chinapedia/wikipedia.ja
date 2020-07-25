@@ -235,7 +235,7 @@ DOUBLEHEAD apr MR-S（第5〜9戦）</p></td>
 <tr class="even">
 <td><p>No.74</p></td>
 <td><p>COROLLA Axio apr GT</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井口卓人" title="wikilink">井口卓人</a><br />
+<td><p><a href="../Page/井口卓人.md" title="wikilink">井口卓人</a><br />
 <a href="https://ja.wikipedia.org/wiki/国本雄資" title="wikilink">国本雄資</a></p></td>
 <td><p>10位</p></td>
 </tr>

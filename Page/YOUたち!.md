@@ -1,11 +1,11 @@
 > この記事は[YOUたち!](https://ja.wikipedia.org/wiki/YOUたち!)から翻訳されています。
 
 
-『**YOUたち\!**』は、[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")\[1\]から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビ系で放送された](../Page/日本テレビ放送網.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[中丸雄一](../Page/中丸雄一.md "wikilink")と[田中聖](../Page/田中聖.md "wikilink")\[2\]、[オセロの](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")が[MCを務める](../Page/司会.md "wikilink")。
+『**YOUたち\!**』は、[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")\[1\]から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビ系で放送された](../Page/日本テレビ放送網.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[KAT-TUN](../Page/KAT-TUN.md "wikilink")の[中丸雄一](../Page/中丸雄一.md "wikilink")と[田中聖](../Page/田中聖.md "wikilink")\[2\]、[オセロの](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")が[MCを務める](../Page/司会.md "wikilink")。
 
 ## 概要
 
-[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の中丸と田中にとって、グループ単位以外ではメイン初めてレギュラー司会を務めたバラエティ番組である\[3\]。当初はマンスリー女性MC（[マンスリー女性MC項を参照のこと](https://ja.wikipedia.org/wiki/#マンスリー女性MC "wikilink")）枠を設け、2006年10月に出演した中島知子を始め、女性タレントが月替わりでMCを務めていたが、2007年2月以降、中島がレギュラーになった。その他の出演者については[出演者節を参照のこと](https://ja.wikipedia.org/wiki/#出演者 "wikilink")。
+[KAT-TUN](../Page/KAT-TUN.md "wikilink")の中丸と田中にとって、グループ単位以外ではメイン初めてレギュラー司会を務めたバラエティ番組である\[3\]。当初はマンスリー女性MC（[マンスリー女性MC項を参照のこと](https://ja.wikipedia.org/wiki/#マンスリー女性MC "wikilink")）枠を設け、2006年10月に出演した中島知子を始め、女性タレントが月替わりでMCを務めていたが、2007年2月以降、中島がレギュラーになった。その他の出演者については[出演者節を参照のこと](https://ja.wikipedia.org/wiki/#出演者 "wikilink")。
 
 番組の内容は、とある合宿所を舞台とし、「人生のコーチ」であるゲストを招き、まだ若いレギュラー陣が人生や恋愛などを教わっていくというもの\[4\]。各コーナー名は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の社長である、[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")の口癖「YOUたち\! 〜しちゃいなよ」に由来する。
 
@@ -15,7 +15,7 @@
 
 ### レギュラー
 
-  - [中丸雄一](../Page/中丸雄一.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）\[10\]
+  - [中丸雄一](../Page/中丸雄一.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）\[10\]
   - 田中聖（KAT-TUN）\[11\]
   - 中島知子（[オセロ](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")）\[12\]
   - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")\[13\]

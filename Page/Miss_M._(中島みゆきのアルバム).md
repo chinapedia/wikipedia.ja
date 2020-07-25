@@ -1,7 +1,7 @@
 > この記事は[Miss M. \(中島みゆきのアルバム\)](https://ja.wikipedia.org/wiki/Miss_M._\(中島みゆきのアルバム\))から翻訳されています。
 
 
-『**miss M.**』（ミス・エム）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の13作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**miss M.**』（ミス・エム）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に発表された[中島みゆき](../Page/中島みゆき.md "wikilink")の13作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[後藤次利](../Page/後藤次利.md "wikilink")（特記以外）。
+  - 全作詞/作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[後藤次利](../Page/後藤次利.md "wikilink")（特記以外）。
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 ## 演奏者
 
-  - Vocals：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - Vocals：[中島みゆき](../Page/中島みゆき.md "wikilink")
 
 **極楽通りへいらっしゃい**
 

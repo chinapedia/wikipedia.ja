@@ -59,7 +59,7 @@
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [BEST TRACKS ～A message to the next generation～](https://ja.wikipedia.org/wiki/BEST_TRACKS_～A_message_to_the_next_generation～ "wikilink")
   - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にライブバージョンが収録)
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink") (Disc 1にシングルバージョン、初回限定盤のみ付属のDisc 2にライブバージョンが収録)
   - [TM NETWORK BEST OF BEST](../Page/TM_NETWORK_BEST_OF_BEST.md "wikilink")
   - [TM NETWORK SUPER BEST](../Page/TM_NETWORK_SUPER_BEST.md "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")

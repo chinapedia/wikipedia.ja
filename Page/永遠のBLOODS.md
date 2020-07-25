@@ -44,7 +44,7 @@
     ・[林部直樹](../Page/林部直樹.md "wikilink")([Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink"))
     ・[種子田健](../Page/種子田健.md "wikilink")([Bass](https://ja.wikipedia.org/wiki/Bass "wikilink"))
     ・河村徹([Drums](https://ja.wikipedia.org/wiki/Drums "wikilink"))
-    ・村山/桐山ストリングス([Strings](https://ja.wikipedia.org/wiki/Strings "wikilink"))
+    ・村山/桐山ストリングス([Strings](../Page/Strings.md "wikilink"))
     ・田中耕作、[KinKi Kids](../Page/KinKi_Kids.md "wikilink")([Backing Vocals](https://ja.wikipedia.org/wiki/コーラス "wikilink"))
 
 ## 収録アルバム

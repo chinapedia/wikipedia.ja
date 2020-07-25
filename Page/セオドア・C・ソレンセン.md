@@ -19,7 +19,7 @@
 
 [1963年](../Page/1963年.md "wikilink")11月の[ケネディ暗殺後](../Page/ケネディ大統領暗殺事件.md "wikilink")、セオドアは[ホワイト・ハウスを去り](../Page/ホワイトハウス.md "wikilink")、[1965年](../Page/1965年.md "wikilink")、ケネディの伝記*Kennedy*を著した。この本は世界的なベストセラーとなり、多くの言語に翻訳された。[ヴェトナム戦争](https://ja.wikipedia.org/wiki/ヴェトナム戦争 "wikilink")の泥沼によりアメリカの国際的信用が失墜し、国内情勢が悪化すると、アメリカ再建の願いをこめて*Kennedy Legacy*を著した。この中でセオドアは、アメリカが再び世界の尊敬を取り戻すには"ケネディの遺産"を継承するしかないと訴えている。*Kennedy*、*Kennedy Legacy*はケネディ政権中の政府内の出来事を知る上で貴重な文献となっている。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にジョン・F・ケネディの実弟[ロバート・F・ケネディ](https://ja.wikipedia.org/wiki/ロバート・F・ケネディ "wikilink")が大統領予備選に立候補すると、セオドアは彼の選挙参謀として精力的に働いた。
+[1968年](../Page/1968年.md "wikilink")にジョン・F・ケネディの実弟[ロバート・F・ケネディ](https://ja.wikipedia.org/wiki/ロバート・F・ケネディ "wikilink")が大統領予備選に立候補すると、セオドアは彼の選挙参謀として精力的に働いた。
 
 [1970年](../Page/1970年.md "wikilink")、セオドアはニューヨーク州から上院議員選挙に出馬したが敗退した。また、1977年、[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")が大統領に就任すると、カーターはソレンセンを[CIA長官に指名したが](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")、上院での承認が得られなかった。セオドアはCIAを改革できるという期待もあったが、同時に彼は経験不足でCIAを動かすのに適する能力を備えていないと考えられた。カーターは代わりに海軍大将スタンスフィールド・ターナー（[Stansfield Turner](https://ja.wikipedia.org/wiki/:en:Stansfield_Turner "wikilink")）をCIA長官に任命した。彼の政権下では外交上の失敗が相次ぎ、CIAの能力低下が指摘された。その後彼は弁護士として働きながらも[リベラル](../Page/リベラル.md "wikilink")陣営のスポークスマン的役割を果たしていた。[外交問題評議会](../Page/外交問題評議会.md "wikilink")（CFR）、Century Institute、プリンストン大学、ハーバード大学政治学研究所の会員で、Partnership for a Secure America（[PSA](https://ja.wikipedia.org/wiki/:en:Partnership_for_a_Secure_America "wikilink")）の顧問も務めていた。
 

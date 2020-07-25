@@ -1,7 +1,7 @@
 > この記事は[ALARM a la mode](https://ja.wikipedia.org/wiki/ALARM_a_la_mode)から翻訳されています。
 
 
-『**ALARM à la mode**』（アラーム・ア・ラ・モード）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の18枚目のオリジナルアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[CD](../Page/CD-DA.md "wikilink")：CA32-1330、[LP](../Page/レコード.md "wikilink")：ETP-90440、[CT](../Page/コンパクトカセット.md "wikilink")：ZH28-1750）。1986年[11月18日](../Page/11月18日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")まで『YUMING VISUALIVE ALARM à la mode』コンサートツアーが行われた。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10651）と[LP](../Page/レコード.md "wikilink")（TOJT-10651）をリリースしている。
+『**ALARM à la mode**』（アラーム・ア・ラ・モード）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の18枚目のオリジナルアルバム。[1986年](../Page/1986年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[CD](../Page/CD-DA.md "wikilink")：CA32-1330、[LP](../Page/レコード.md "wikilink")：ETP-90440、[CT](../Page/コンパクトカセット.md "wikilink")：ZH28-1750）。1986年[11月18日](../Page/11月18日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")まで『YUMING VISUALIVE ALARM à la mode』コンサートツアーが行われた。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10651）と[LP](../Page/レコード.md "wikilink")（TOJT-10651）をリリースしている。
 
 ## 解説
 
@@ -27,7 +27,7 @@
 4.  **白い服、白い靴**
 5.  **土曜日は大キライ**
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』エンディングテーマ。イメージした舞台は[六本木](../Page/六本木.md "wikilink")。
+        [1986年](../Page/1986年.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』エンディングテーマ。イメージした舞台は[六本木](../Page/六本木.md "wikilink")。
         前述の通り、非売品サンプル[7インチシングル盤でシングル](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")・カット。
 6.  **ホライズンを追いかけて〜L'aventure au désert**
       -

@@ -65,7 +65,7 @@
 
 ## 映像作品
 
-[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")作品は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売。発売元は[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
+[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")作品は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売。発売元は[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ### 解説（映像作品）
 

@@ -1,7 +1,7 @@
 > この記事は[電撃PS2](https://ja.wikipedia.org/wiki/電撃PS2)から翻訳されています。
 
 
-『**電撃PS2**』（でんげきピーエスツー）は、かつて[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")から発行されていた[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。旧誌名は『**電撃PlayStation D**』。略称は「**DPS2**」「DPS-D」など。
+『**電撃PS2**』（でんげきピーエスツー）は、かつて[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")から発行されていた[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。旧誌名は『**電撃PlayStation D**』。略称は「**DPS2**」「DPS-D」など。
 
 ## 概要
 

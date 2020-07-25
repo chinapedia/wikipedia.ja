@@ -9,7 +9,7 @@
 
 試合中なぜか[メフィラス星人](../Page/メフィラス星人.md "wikilink")、[ガッツ星人](../Page/ガッツ星人.md "wikilink")、[ダダ](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")、[ゼットン](../Page/ゼットン.md "wikilink")などの宇宙人と怪獣に襲われ無効試合になることが多い。その場合は、その対戦相手と急きょタッグを組んで宇宙人&怪獣軍団と再試合を行う戦術で宇宙の平和を守ってきた。
 
-『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』の[ハヤタ役の](https://ja.wikipedia.org/wiki/ウルトラマン#隊員 "wikilink")[黒部進](../Page/黒部進.md "wikilink")、『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』の[モロボシダン役の](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\)#モロボシ・ダン "wikilink")[森次晃嗣](../Page/森次晃嗣.md "wikilink")をゲストに招いてトークショーを行い特撮ファンの注目を得る。
+『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』の[ハヤタ役の](https://ja.wikipedia.org/wiki/ウルトラマン#隊員 "wikilink")[黒部進](../Page/黒部進.md "wikilink")、『[ウルトラセブン](../Page/ウルトラセブン.md "wikilink")』の[モロボシダン役の](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\)#モロボシ・ダン "wikilink")[森次晃嗣](../Page/森次晃嗣.md "wikilink")をゲストに招いてトークショーを行い特撮ファンの注目を得る。
 
 [メキシコ](../Page/メキシコ.md "wikilink")で[神父](../Page/神父.md "wikilink")を行いながら[ルチャリブレ](../Page/ルチャリブレ.md "wikilink")のリングに上がり孤児たちを育てている[フライ・トルメンタ](https://ja.wikipedia.org/wiki/フライ・トルメンタ "wikilink")を招聘するなどの活動を行う。現在はトラブルにより断絶状態となっており、これに関しては両者の主張の食い違いから正式な理由は不明。
 
@@ -30,7 +30,7 @@
 
 ## 過去の所属選手
 
-  - [渡辺宏志](https://ja.wikipedia.org/wiki/渡辺宏志 "wikilink")（1994年 - 2001年）
+  - [渡辺宏志](../Page/渡辺宏志.md "wikilink")（1994年 - 2001年）
   - [ムサシ大山](https://ja.wikipedia.org/wiki/ムサシ大山 "wikilink")（2001年）
   - [浦えりか](../Page/浦えりか.md "wikilink")（2008年）\[6\]
   - 魅羅朱里（2009年）

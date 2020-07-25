@@ -59,7 +59,7 @@ CDプレーヤーが[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilin
   - 民生用据置型プレーヤーの高級品には[スーパーオーディオCD](../Page/Super_Audio_CD.md "wikilink") (SACD) や[DVD-Audio](../Page/DVD-Audio.md "wikilink")に対応したものもある。
   - 据置型の派生系では[カセットデッキとの複合製品の他に](../Page/コンパクトカセット.md "wikilink")[ミニディスク](../Page/ミニディスク.md "wikilink")デッキとの複合製品、[CD-R](../Page/CD-R.md "wikilink")レコーダーとの複合製品も存在する。CD-ROMドライブにライン出力 (AUX OUT) を備えた製品もあった。
   - 音響機器ではないが、[パソコン上で動作するCD再生](../Page/パーソナルコンピュータ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")（[Windows Media Playerなど](../Page/Windows_Media_Player.md "wikilink")）も「CDプレーヤー」と呼ばれることがある。この種のアプリケーションソフトは、[MP3](../Page/MP3.md "wikilink")など他の規格の音楽ファイルの再生も可能なことが多い。
-  - [ゲーム機](../Page/ゲーム機.md "wikilink")でCD-ROMやDVD-ROMやBD-ROMを採用するものや、主に[レーザーディスク](../Page/レーザーディスク.md "wikilink")、[ビデオCD](../Page/ビデオCD.md "wikilink")、[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")、[BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")、[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")、[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")ではCDプレーヤーの機能も備えているものが多い。
+  - [ゲーム機](../Page/ゲーム機.md "wikilink")でCD-ROMやDVD-ROMやBD-ROMを採用するものや、主に[レーザーディスク](../Page/レーザーディスク.md "wikilink")、[ビデオCD](../Page/ビデオCD.md "wikilink")、[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")、[BDプレーヤー](../Page/BDプレーヤー.md "wikilink")、[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")、[BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")ではCDプレーヤーの機能も備えているものが多い。
   - CD-Rドライブ搭載のパソコン等の普及により個人でCD-DA以外のディスクの作成が可能になり近年のプレーヤー（主に中級機）の中にはMP3や[WMAなどの圧縮音声や](../Page/Windows_Media_Audio.md "wikilink")[WAV](../Page/WAV.md "wikilink")や[FLAC](../Page/FLAC.md "wikilink")などの非圧縮音声を記録したディスクの再生ができるものも存在する。
 
 ## 備考
@@ -78,7 +78,7 @@ CDプレーヤーが[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilin
   - [レコードプレーヤー](../Page/レコードプレーヤー.md "wikilink")
   - [テープレコーダー](../Page/テープレコーダー.md "wikilink")
   - [DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")
-  - [BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")
+  - [BDプレーヤー](../Page/BDプレーヤー.md "wikilink")
   - [音響機器](../Page/音響機器.md "wikilink")
   - [レンズクリーナー](https://ja.wikipedia.org/wiki/レンズクリーナー "wikilink")
   - [カセットデッキ](https://ja.wikipedia.org/wiki/カセットデッキ "wikilink")

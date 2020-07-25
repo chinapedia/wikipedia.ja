@@ -1,7 +1,7 @@
 > この記事は[森村あすか \(AV女優\)](https://ja.wikipedia.org/wiki/森村あすか_\(AV女優\))から翻訳されています。
 
 
-**森村 あすか**（もりむら あすか、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月16日](../Page/5月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
+**森村 あすか**（もりむら あすか、[1968年](../Page/1968年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
 [岩手県](../Page/岩手県.md "wikilink")出身。血液型:B型。[身長](../Page/身長.md "wikilink"):153cm。スリーサイズ:[B](../Page/バスト.md "wikilink")82・[W](../Page/腰.md "wikilink")60・[H](../Page/尻.md "wikilink")85。
 
@@ -13,7 +13,7 @@
 
 出演作品や雑誌の[インタビュー](../Page/インタビュー.md "wikilink")などで、[アニメ](../Page/アニメ.md "wikilink")や[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")（特に『[超人ロック](../Page/超人ロック.md "wikilink")』の大ファンだった）が好きで、デビュー前には[声優](../Page/声優.md "wikilink")を目指していたとも話している。声優としての訓練を積んだ、いわゆる「アニメ声」での発声が特徴である。後に『[冒険してもいい頃](https://ja.wikipedia.org/wiki/冒険してもいい頃 "wikilink")』など幾つかの[OVA](../Page/OVA.md "wikilink")に声優として出演している。
 
-AV女優3人によるアイドルユニット・[RaCCo組](https://ja.wikipedia.org/wiki/RaCCo組 "wikilink")の末期に参加。また、ソロで[シングル](../Page/シングル.md "wikilink")を1枚リリースしている。
+AV女優3人によるアイドルユニット・[RaCCo組](../Page/RaCCo組.md "wikilink")の末期に参加。また、ソロで[シングル](../Page/シングル.md "wikilink")を1枚リリースしている。
 
 AV引退後は[漫画家](../Page/漫画家.md "wikilink")や声優を目指していたようで、成年向けコミック誌に漫画が何度か掲載されたことがある。また、[ウルトラマンロビン](../Page/ウルトラマンロビン.md "wikilink")率いるプロレス団体[SGPのイベントに](../Page/SGP_\(プロレス\).md "wikilink")[京本政樹](../Page/京本政樹.md "wikilink")と共に幾度か出演している。
 

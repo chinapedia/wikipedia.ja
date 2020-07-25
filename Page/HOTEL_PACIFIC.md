@@ -11,7 +11,7 @@
 
 ## 制作
 
-本作のタイトルは[1965年](../Page/1965年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[茅ヶ崎市](../Page/茅ヶ崎市.md "wikilink")に存在していた[パシフィックホテル茅ヶ崎から取っており](https://ja.wikipedia.org/wiki/パシフィックパーク茅ヶ崎 "wikilink")、[1982年](../Page/1982年.md "wikilink")に発売されたアルバム『[NUDE MAN](../Page/NUDE_MAN.md "wikilink")』の収録曲「[夏をあきらめて](https://ja.wikipedia.org/wiki/夏をあきらめて "wikilink")」にも登場していた\[1\]。パシフィックホテル茅ヶ崎に関しては、[2019年](../Page/2019年.md "wikilink")に発売された[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")\&The Pin Boysの「[レッツゴーボウリング](https://ja.wikipedia.org/wiki/レッツゴーボウリング "wikilink")」のMVにも登場している\[2\]。
+本作のタイトルは[1965年](../Page/1965年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[茅ヶ崎市](../Page/茅ヶ崎市.md "wikilink")に存在していた[パシフィックホテル茅ヶ崎から取っており](../Page/パシフィックパーク茅ヶ崎.md "wikilink")、[1982年](../Page/1982年.md "wikilink")に発売されたアルバム『[NUDE MAN](../Page/NUDE_MAN.md "wikilink")』の収録曲「[夏をあきらめて](https://ja.wikipedia.org/wiki/夏をあきらめて "wikilink")」にも登場していた\[1\]。パシフィックホテル茅ヶ崎に関しては、[2019年](../Page/2019年.md "wikilink")に発売された[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")\&The Pin Boysの「[レッツゴーボウリング](https://ja.wikipedia.org/wiki/レッツゴーボウリング "wikilink")」のMVにも登場している\[2\]。
 
 ## チャート成績
 

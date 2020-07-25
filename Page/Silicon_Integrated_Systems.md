@@ -196,8 +196,8 @@
 
   - [SiS](http://www.sis.com.tw/) (中文)
   - [SiS](http://www.sis.com/) （英語）
-  - [チップセット黒歴史　RIMMのゴリ押しに沈んだSiS R658/R659](http://ascii.jp/elem/000/000/770/770363/) - [ASCII.jp x デジタル](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink") \> 大原雄介　ロードマップでわかる！当世プロセッサー事情 ― 第194回（2013年03月11日 12時00分更新/2017年3月15日閲覧）
-  - [チップセット黒歴史　ワンチップ化でトラブル多発のSiS630](http://ascii.jp/elem/000/000/772/772616/) - [ASCII.jp x デジタル](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink") \> 大原雄介　ロードマップでわかる！当世プロセッサー事情 ― 第194回（2013年03月18日 12時00分更新/2017年3月15日閲覧）
+  - [チップセット黒歴史　RIMMのゴリ押しに沈んだSiS R658/R659](http://ascii.jp/elem/000/000/770/770363/) - [ASCII.jp x デジタル](../Page/アスキー・メディアワークス.md "wikilink") \> 大原雄介　ロードマップでわかる！当世プロセッサー事情 ― 第194回（2013年03月11日 12時00分更新/2017年3月15日閲覧）
+  - [チップセット黒歴史　ワンチップ化でトラブル多発のSiS630](http://ascii.jp/elem/000/000/772/772616/) - [ASCII.jp x デジタル](../Page/アスキー・メディアワークス.md "wikilink") \> 大原雄介　ロードマップでわかる！当世プロセッサー事情 ― 第194回（2013年03月18日 12時00分更新/2017年3月15日閲覧）
   - [チップセット黒歴史　ほぼ完成しながら闇に葬られたSiS680](http://ascii.jp/elem/000/000/772/772707/) - ASCII.jp x デジタル \> 大原雄介　ロードマップでわかる！当世プロセッサー事情 ― 第195回（2013年03月25日 12時00分更新/2017年3月15日閲覧）
 
 [Category:ファブレス半導体メーカー](https://ja.wikipedia.org/wiki/Category:ファブレス半導体メーカー "wikilink") [Category:台湾の企業](https://ja.wikipedia.org/wiki/Category:台湾の企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:東区_(新竹市)](https://ja.wikipedia.org/wiki/Category:東区_\(新竹市\) "wikilink") [Category:台湾証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:台湾証券取引所上場企業 "wikilink")

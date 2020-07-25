@@ -20,7 +20,7 @@
 ### 中国デビューから日本での活動へ
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 中国[上海電視台](https://ja.wikipedia.org/wiki/上海電視台 "wikilink")の一般視聴者参加型歌番組『[カシオ](https://ja.wikipedia.org/wiki/カシオ "wikilink")杯家庭演唱大獎賽』に家族4人で出演、第1回の優勝者となり一躍有名となる。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 中国の歌謡コンテストで[ギター](../Page/ギター.md "wikilink")弾き語りをして入賞。これをきっかけに『童年的過錯』など、3作の個人アルバム（[カセット](../Page/コンパクトカセット.md "wikilink")）を発売。
+  - [1986年](../Page/1986年.md "wikilink") - 中国の歌謡コンテストで[ギター](../Page/ギター.md "wikilink")弾き語りをして入賞。これをきっかけに『童年的過錯』など、3作の個人アルバム（[カセット](../Page/コンパクトカセット.md "wikilink")）を発売。
   - [1992年](../Page/1992年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")来日。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 映画『香港大夜総会 タッチ&マギー』の主題歌を歌う。[FM COCOLOのパーソナリティーを](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")[ファンキー末吉](../Page/ファンキー末吉.md "wikilink")と共につとめる。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - ファンキー末吉プロデュースの「夜総会BAND」にボーカルとして参加。
@@ -105,7 +105,7 @@
   - Smile again（Chinese Version）（2005年12月21日、EMIミュージック・ジャパン） ※配信限定
   - 今この場所から（2008年11月12日、ビクターエンタテインメント） ※配信限定
   - 海を越えるバトン〜2010年上海万博応援ソング（2010年1月20日、ビクターエンタテインメント）
-  - 星のしめすもの（2011年4月21日、[ミラクル・バス](https://ja.wikipedia.org/wiki/ミラクル・バス "wikilink")） ※配信限定
+  - 星のしめすもの（2011年4月21日、[ミラクル・バス](../Page/ミラクル・バス.md "wikilink")） ※配信限定
 
 ### 参加作品
 

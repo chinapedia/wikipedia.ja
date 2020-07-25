@@ -35,7 +35,7 @@
 
   - [Deputado Luís Eduardo Magalhães 国際空港の](https://ja.wikipedia.org/wiki/:en:Deputado_Luís_Eduardo_Magalhães_International_Airport "wikilink")[IATA空港コード](https://ja.wikipedia.org/wiki/IATA空港コード "wikilink")。
 
-  - [比表面積](https://ja.wikipedia.org/wiki/比表面積 "wikilink") ()。
+  - [比表面積](../Page/比表面積.md "wikilink") ()。
 
   - [宇宙状況認識](https://ja.wikipedia.org/wiki/宇宙状況認識 "wikilink") () - 宇宙空間の安定的な利用のためにスペースデブリ、人工衛星などを監視し、その状況を認識・把握すること。
 

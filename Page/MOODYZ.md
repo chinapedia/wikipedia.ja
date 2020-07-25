@@ -11,7 +11,7 @@
 
 MOODYZ第1作は当時の人気女優で[インディーズ](../Page/インディーズ.md "wikilink")初登場の[金沢文子](../Page/金沢文子.md "wikilink")・[鈴木麻奈美](../Page/鈴木麻奈美.md "wikilink")などが出演した「Chaos-色情四姉妹-」（2000年9月リリース）。
 
-引退していた[小沢まどか](../Page/小沢まどか.md "wikilink")を2001年9月に復活させるなど、他社（主に[ビデ倫メーカー](https://ja.wikipedia.org/wiki/日本ビデオ倫理協会 "wikilink")）で活躍していた人気女優がメインだが、2002年頃から、[紋舞らん](../Page/紋舞らん.md "wikilink")・nana・[南波杏](../Page/南波杏.md "wikilink")などMOODYZでデビューした女優も人気を獲得するようになる。
+引退していた[小沢まどか](../Page/小沢まどか.md "wikilink")を2001年9月に復活させるなど、他社（主に[ビデ倫メーカー](../Page/日本ビデオ倫理協会.md "wikilink")）で活躍していた人気女優がメインだが、2002年頃から、[紋舞らん](../Page/紋舞らん.md "wikilink")・nana・[南波杏](../Page/南波杏.md "wikilink")などMOODYZでデビューした女優も人気を獲得するようになる。
 
 なお、設立当初より[モンゴロイド](../Page/モンゴロイド.md "wikilink")の単体女優が[黒人](../Page/黒人.md "wikilink")男優と絡む作品を多数リリースしている。また、[顔射](../Page/顔射.md "wikilink")・[ぶっかけに重点を置いた作品が多いことも特徴である](https://ja.wikipedia.org/wiki/顔射#ぶっかけ "wikilink")。
 

@@ -349,7 +349,7 @@ Acrobat 9 Pro (CS 3.3)</p></td>
 
 ### Creative Suite 4
 
-アメリカでは2008年10月15日、日本では同年12月に発売された。主に[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")や[マルチコア](../Page/マルチコア.md "wikilink")に対応したコンピュータへの強化が図られており、特にPhotoshopは64ビット版の[Windows NT6.xに限るものの](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")64ビット環境に完全に準拠しており、After EffectsとPremiere Proも64ビット環境に最適化されている。また、すべてのソフトウェアが、インテルベースの[Mac OS Xで実行可能となった](https://ja.wikipedia.org/wiki/macOS "wikilink")。
+アメリカでは2008年10月15日、日本では同年12月に発売された。主に[64ビット](../Page/64ビット.md "wikilink")や[マルチコア](../Page/マルチコア.md "wikilink")に対応したコンピュータへの強化が図られており、特にPhotoshopは64ビット版の[Windows NT6.xに限るものの](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")64ビット環境に完全に準拠しており、After EffectsとPremiere Proも64ビット環境に最適化されている。また、すべてのソフトウェアが、インテルベースの[Mac OS Xで実行可能となった](https://ja.wikipedia.org/wiki/macOS "wikilink")。
 
 CS3にあった[Adobe Ultraと](https://ja.wikipedia.org/wiki/Adobe_Ultra "wikilink")[Adobe Stock Photosは削除され](https://ja.wikipedia.org/wiki/Adobe_Stock_Photos "wikilink")、映像及び音声関連を取り扱うソフトウェアであるAfter Effects、Premiere Pro、Soundbooth、Encore、OnLocationは[Power Macでは動作対象外となった](../Page/Power_Mac.md "wikilink")\[3\]。
 
@@ -509,7 +509,7 @@ Collection</p></td>
 
 ### Creative Suite 5
 
-アメリカではダウンロード版は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")・パッケージ版は5月中旬、日本ではいずれも同年[5月28日](../Page/5月28日.md "wikilink")発売。主に[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版のオペレーティングシステムや[マルチコア](../Page/マルチコア.md "wikilink")に対応したコンピュータへのさらなる強化が図られており、「After Effects」と「Premiere Pro」はいずれも64ビット版のみのリリースとなる一方で、「Acrobat Pro」（PDF仮想プリンタドライバはCS3.3以降\[4\]は64ビット対応）や「InDesign」などのように64ビット版のオペレーティングシステムにおいては[WOW64](../Page/WOW64.md "wikilink")などによる32ビット互換アプリとして動作する32ビット版のみのリリースとなるなど、64ビット版と32ビット版のコンポーネントが混在している。
+アメリカではダウンロード版は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")・パッケージ版は5月中旬、日本ではいずれも同年[5月28日](../Page/5月28日.md "wikilink")発売。主に[64ビット](../Page/64ビット.md "wikilink")版のオペレーティングシステムや[マルチコア](../Page/マルチコア.md "wikilink")に対応したコンピュータへのさらなる強化が図られており、「After Effects」と「Premiere Pro」はいずれも64ビット版のみのリリースとなる一方で、「Acrobat Pro」（PDF仮想プリンタドライバはCS3.3以降\[4\]は64ビット対応）や「InDesign」などのように64ビット版のオペレーティングシステムにおいては[WOW64](../Page/WOW64.md "wikilink")などによる32ビット互換アプリとして動作する32ビット版のみのリリースとなるなど、64ビット版と32ビット版のコンポーネントが混在している。
 
 なお、「Production Premium」と「Master Collection」のWindows版には、いずれも32ビット環境でも使用できるように、「Premiere Pro」と「After Effects」のCS4を同梱する。
 

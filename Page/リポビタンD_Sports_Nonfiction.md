@@ -34,7 +34,7 @@
   - [中西哲生](../Page/中西哲生.md "wikilink")・[古賀涼子](https://ja.wikipedia.org/wiki/古賀涼子_\(アナウンサー\) "wikilink") （「クロノス」パーソナリティ）
       - スポーツニュース担当
         [古賀涼子](https://ja.wikipedia.org/wiki/古賀涼子_\(アナウンサー\) "wikilink") （「クロノス」パーソナリティ）
-        [オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")と[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")のタイトルコールは、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月まで「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」パーソナリティであった[中田美香](../Page/中田美香.md "wikilink")、提供読み上げは[古賀涼子](https://ja.wikipedia.org/wiki/古賀涼子_\(アナウンサー\) "wikilink")。
+        [オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")と[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")のタイトルコールは、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月まで「[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")」パーソナリティであった[中田美香](../Page/中田美香.md "wikilink")、提供読み上げは[古賀涼子](https://ja.wikipedia.org/wiki/古賀涼子_\(アナウンサー\) "wikilink")。
 
 **2009年4月 - 2010年3月**
 

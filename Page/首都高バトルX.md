@@ -17,7 +17,7 @@
 
 今作では登場車種が大幅に減少しており、ライバルが使用しているカスタムカーを除くと購入できる車は15種類のみ。また、前作同様に[ホンダの車は収録されていない](../Page/本田技研工業.md "wikilink")。また、前作まで[日産自動車](../Page/日産自動車.md "wikilink")の車両に搭乗していたボスクラスのライバルが、今作では他社のクルマに搭乗している。[アザーカー](../Page/アザーカー.md "wikilink")は、『[首都高バトル0](../Page/首都高バトル0.md "wikilink")』同様に様々な一般車両が登場する。
 
-  - [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [MAZDA](../Page/マツダ.md "wikilink")
     [RX-8](../Page/マツダ・RX-8.md "wikilink") Type S(SE3P)
     [RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991年-2002年） "wikilink") Type R(FD3S)
   - [MITSUBISHI](../Page/三菱自動車工業.md "wikilink")

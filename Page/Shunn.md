@@ -1,7 +1,7 @@
 > この記事は[Shunn](https://ja.wikipedia.org/wiki/Shunn)から翻訳されています。
 
 
-**Shunn**（しゅん、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は日本の[男性](../Page/男性.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[声優](../Page/声優.md "wikilink")。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長165cm。所属事務所「ALP Music」。所属レコード会社「[tri-Arion](https://ja.wikipedia.org/wiki/tri-Arion "wikilink")」。[左利き](../Page/左利き.md "wikilink")。旧名**宮本 駿一**。
+**Shunn**（しゅん、[1986年](../Page/1986年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は日本の[男性](../Page/男性.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[声優](../Page/声優.md "wikilink")。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長165cm。所属事務所「ALP Music」。所属レコード会社「[tri-Arion](https://ja.wikipedia.org/wiki/tri-Arion "wikilink")」。[左利き](../Page/左利き.md "wikilink")。旧名**宮本 駿一**。
 
 ## 略歴・概要・人物
 
@@ -75,7 +75,7 @@
 
   -
     c/w「眠れない夜を越えて」
-    （[2006年](../Page/2006年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")／VICL-35765）
+    （[2006年](../Page/2006年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")／VICL-35765）
 
 <!-- end list -->
 

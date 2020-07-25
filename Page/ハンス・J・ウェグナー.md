@@ -1,7 +1,7 @@
 > この記事は[ハンス・J・ウェグナー](https://ja.wikipedia.org/wiki/ハンス・J・ウェグナー)から翻訳されています。
 
 
-**ハンス・ヨルゲンセン・ウェグナー**（Hans Jørgensen Wegner、[1914年](../Page/1914年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[家具デザイナー](../Page/家具デザイナー.md "wikilink")である。
+**ハンス・ヨルゲンセン・ウェグナー**（Hans Jørgensen Wegner、[1914年](../Page/1914年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[家具デザイナー](../Page/家具デザイナー.md "wikilink")である。
 
 生涯で500種類以上の椅子をデザインし、20世紀の[北欧デザイン](https://ja.wikipedia.org/wiki/北欧デザイン "wikilink")界に多大な影響を与えた。その椅子は[ニューヨーク近代美術館](../Page/ニューヨーク近代美術館.md "wikilink")をはじめ多くでコレクションされている。
 
@@ -13,7 +13,7 @@
 
 彼にとって最初の転機となった作品が1943年にデザインした『チャイニーズ・チェア』である。この椅子は中国の明の時代に作られた椅子を改良して生み出されたもので、その後改良を重ね量産化され、彼の代表作の一つとしても知られる。
 
-[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には[ローニング奨学金](https://ja.wikipedia.org/wiki/ローニング奨学金 "wikilink")を受け、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[メキシコ](../Page/メキシコ.md "wikilink")滞在。[1984年](../Page/1984年.md "wikilink")にデンマーク女王より[ナイト](../Page/ナイト.md "wikilink")の称号を得た。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[ウェグナー美術館](https://ja.wikipedia.org/wiki/ウェグナー美術館 "wikilink")が生まれ故郷、トゥナーに開館。[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、92歳で逝去\[1\]。
+[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には[ローニング奨学金](https://ja.wikipedia.org/wiki/ローニング奨学金 "wikilink")を受け、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[メキシコ](../Page/メキシコ.md "wikilink")滞在。[1984年](../Page/1984年.md "wikilink")にデンマーク女王より[ナイト](../Page/ナイト.md "wikilink")の称号を得た。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[ウェグナー美術館](https://ja.wikipedia.org/wiki/ウェグナー美術館 "wikilink")が生まれ故郷、トゥナーに開館。[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、92歳で逝去\[1\]。
 
 ## 代表作
 

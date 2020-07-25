@@ -19,7 +19,7 @@
 
 20分で一周し、福岡の街並みを一望することができた。全ゴンドラに[エアコン](https://ja.wikipedia.org/wiki/エアコン "wikilink")が完備されていた。また、[バリアフリー](../Page/バリアフリー.md "wikilink")設計となっており、[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")での搭乗も可能であった。カップル限定サービスとしてゴンドラ2周貸し切りサービスを提供していた。
 
-直径112メートルの大きさは、2008年時点では世界3位だった（1位は[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にある[シンガポール・フライヤー](https://ja.wikipedia.org/wiki/シンガポール・フライヤー "wikilink")で165メートル）。
+直径112メートルの大きさは、2008年時点では世界3位だった（1位は[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にある[シンガポール・フライヤー](../Page/シンガポール・フライヤー.md "wikilink")で165メートル）。
 
 ### 料金
 

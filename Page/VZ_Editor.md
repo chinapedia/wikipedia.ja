@@ -78,7 +78,7 @@ VZ Editorの大きな特徴のひとつは、[常駐](https://ja.wikipedia.org/w
 ## 関連項目
 
   - [WZ EDITOR](../Page/WZ_EDITOR.md "wikilink") - 実質的な後継ソフト、Windows用
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
 ## 外部リンク
 

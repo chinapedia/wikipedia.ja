@@ -5,23 +5,23 @@
 
 ## 概要
 
-1983年に[44MAGNUM](../Page/44MAGNUM.md "wikilink")でデビュー。1988年に44MAGNUMを脱退しその後、[ダイヤモンド☆ユカイ](https://ja.wikipedia.org/wiki/ダイヤモンド☆ユカイ "wikilink")のツアーに参加。1994年に[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")に参加。1995年に元Ｘの[ＴＡＩＪＩらと共にKINGSとしてアルバムは発表](../Page/沢田泰司.md "wikilink")。セッションドラマーとして多くのバンドに参加しており、[hide with Spread Beaverや](https://ja.wikipedia.org/wiki/hide "wikilink")[RIDER CHIPSの](../Page/RIDER_CHIPS.md "wikilink")[ドラマー](../Page/ドラマー.md "wikilink")も務めた。なお、hide with Spread Beaverとしての活動時には**JOE**として活動していた。 現在は、RIDER CHIPSのドラマー、復活した44MAGNUM、[Mad beavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")、[浜田麻里](../Page/浜田麻里.md "wikilink")のツアードラマーなどで活動中。
+1983年に[44MAGNUM](../Page/44MAGNUM.md "wikilink")でデビュー。1988年に44MAGNUMを脱退しその後、[ダイヤモンド☆ユカイ](https://ja.wikipedia.org/wiki/ダイヤモンド☆ユカイ "wikilink")のツアーに参加。1994年に[ZIGGY](../Page/ZIGGY.md "wikilink")に参加。1995年に元Ｘの[ＴＡＩＪＩらと共にKINGSとしてアルバムは発表](../Page/沢田泰司.md "wikilink")。セッションドラマーとして多くのバンドに参加しており、[hide with Spread Beaverや](https://ja.wikipedia.org/wiki/hide "wikilink")[RIDER CHIPSの](../Page/RIDER_CHIPS.md "wikilink")[ドラマー](../Page/ドラマー.md "wikilink")も務めた。なお、hide with Spread Beaverとしての活動時には**JOE**として活動していた。 現在は、RIDER CHIPSのドラマー、復活した44MAGNUM、[Mad beavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")、[浜田麻里](../Page/浜田麻里.md "wikilink")のツアードラマーなどで活動中。
 
 [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")は唯一の弟子である。
 
 ## バンド遍歴
 
-| バンド                                                                                                                                   | 活動期間                   |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [44MAGNUM](../Page/44MAGNUM.md "wikilink")                                                                                            | 1982 - 1988, 2002 - 現在 |
-| [中野英明](https://ja.wikipedia.org/wiki/中野英明 "wikilink")                                                                                 | 1989                   |
-| [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[SNAKE HIP SHAKES](https://ja.wikipedia.org/wiki/SNAKE_HIP_SHAKES "wikilink") | 1994 - 2010            |
-| [Hide](../Page/Hide.md "wikilink")/[hide with spread beaver](https://ja.wikipedia.org/wiki/hide_with_spread_beaver "wikilink")        | 1994 - 1998            |
-| [KINGS](https://ja.wikipedia.org/wiki/KINGS "wikilink")                                                                               | 1995                   |
-| [MADBEAVERS](https://ja.wikipedia.org/wiki/MADBEAVERS "wikilink")                                                                     | 1998、2005 - 現在         |
-| [RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink")                                                                                      | 2000 - 現在              |
-| [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")と[橘高文彦](../Page/橘高文彦.md "wikilink")                                            | 2006                   |
-| Nozomu Wakai’s Destinia                                                                                                               | 2014 - 2016            |
+| バンド                                                                                                                            | 活動期間                   |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [44MAGNUM](../Page/44MAGNUM.md "wikilink")                                                                                     | 1982 - 1988, 2002 - 現在 |
+| [中野英明](https://ja.wikipedia.org/wiki/中野英明 "wikilink")                                                                          | 1989                   |
+| [ZIGGY](../Page/ZIGGY.md "wikilink")/[SNAKE HIP SHAKES](https://ja.wikipedia.org/wiki/SNAKE_HIP_SHAKES "wikilink")             | 1994 - 2010            |
+| [Hide](../Page/Hide.md "wikilink")/[hide with spread beaver](https://ja.wikipedia.org/wiki/hide_with_spread_beaver "wikilink") | 1994 - 1998            |
+| [KINGS](https://ja.wikipedia.org/wiki/KINGS "wikilink")                                                                        | 1995                   |
+| [MADBEAVERS](https://ja.wikipedia.org/wiki/MADBEAVERS "wikilink")                                                              | 1998、2005 - 現在         |
+| [RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink")                                                                               | 2000 - 現在              |
+| [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")と[橘高文彦](../Page/橘高文彦.md "wikilink")                                     | 2006                   |
+| Nozomu Wakai’s Destinia                                                                                                        | 2014 - 2016            |
 
 ## レコーディング参加
 
@@ -35,7 +35,7 @@
 
 ## 関連項目
 
-  - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
+  - [ZIGGY](../Page/ZIGGY.md "wikilink")
   - [SNAKE HIP SHAKES](https://ja.wikipedia.org/wiki/SNAKE_HIP_SHAKES "wikilink")
   - [hide with spread beaver](https://ja.wikipedia.org/wiki/hide_with_spread_beaver "wikilink")
   - [MADBEAVERS](https://ja.wikipedia.org/wiki/MADBEAVERS "wikilink")

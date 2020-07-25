@@ -3,7 +3,7 @@
 
 『**月刊COMICリュウ**』（げっかんコミックリュウ）は、[徳間書店](../Page/徳間書店.md "wikilink")発行の月刊[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
-[2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")（2006年11月号）にて「新創刊」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に休刊となった同社の漫画雑誌『[リュウ](../Page/リュウ_\(雑誌\).md "wikilink")』の誌名を受け継ぐ）。 2007年11月号より[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")に変更。[2011年](../Page/2011年.md "wikilink")8月号をもって再び休刊し、翌[2012年](../Page/2012年.md "wikilink")の[3月19日](../Page/3月19日.md "wikilink")（2012年5月号）よりリニューアル[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")。2015年には、この休刊からの復刊をネタにした自虐的なテレビCMが制作された\[1\]。
+[2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")（2006年11月号）にて「新創刊」（[1986年](../Page/1986年.md "wikilink")に休刊となった同社の漫画雑誌『[リュウ](../Page/リュウ_\(雑誌\).md "wikilink")』の誌名を受け継ぐ）。 2007年11月号より[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")に変更。[2011年](../Page/2011年.md "wikilink")8月号をもって再び休刊し、翌[2012年](../Page/2012年.md "wikilink")の[3月19日](../Page/3月19日.md "wikilink")（2012年5月号）よりリニューアル[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")。2015年には、この休刊からの復刊をネタにした自虐的なテレビCMが制作された\[1\]。
 
 2016年5月号より、電子書籍版を配信している。また、公式サイトで無料公開されている各作品を、男性向け、女性向けに分けて編集した『**おためし月刊コミックリュウ**』も無料配信されている\[2\]。
 
@@ -283,7 +283,7 @@
   - [虫籠のカガステル](https://ja.wikipedia.org/wiki/虫籠のカガステル "wikilink")（橋本花鳥、短期集中連載）
   - [木造迷宮](https://ja.wikipedia.org/wiki/木造迷宮 "wikilink")（アサミ・マート）
   - [桃栗三年](https://ja.wikipedia.org/wiki/桃栗三年 "wikilink")（[亀井薄雪](https://ja.wikipedia.org/wiki/亀井薄雪 "wikilink")）
-  - [モンスターキネマトグラフ](https://ja.wikipedia.org/wiki/モンスターキネマトグラフ "wikilink")（坂木原レム）
+  - [モンスターキネマトグラフ](../Page/モンスターキネマトグラフ.md "wikilink")（坂木原レム）
   - [闇狩り師 キマイラ天龍変](https://ja.wikipedia.org/wiki/闇狩り師#漫画版 "wikilink")（夢枕獏×[伊藤勢](../Page/伊藤勢.md "wikilink")）
   - [夕ばえ作戦](../Page/夕ばえ作戦.md "wikilink")（原作：[光瀬龍](../Page/光瀬龍.md "wikilink")、脚色：押井守、作画：[大野ツトム](https://ja.wikipedia.org/wiki/大野ツトム "wikilink")）
   - [柳花 〜ユファの大地〜](https://ja.wikipedia.org/wiki/柳花_〜ユファの大地〜 "wikilink")（[福井晴敏](../Page/福井晴敏.md "wikilink")×[木根ヲサム](https://ja.wikipedia.org/wiki/木根ヲサム "wikilink")）　［2007年5月号から連載中止］

@@ -34,9 +34,9 @@
 
 ### 1944年
 
-[ブレマートン](../Page/ブレマートン.md "wikilink")を1944年1月3日に出港したプリンストンは、真珠湾で再び第50任務部隊(その後第58任務部隊に改称)に加わり、1月19日には[クェゼリン環礁](../Page/クェゼリン環礁.md "wikilink")および[マジュロ](../Page/マジュロ.md "wikilink")に対する上陸作戦支援のため[ウォッジェ環礁](https://ja.wikipedia.org/wiki/ウォッジェ環礁 "wikilink")および[タロア島](https://ja.wikipedia.org/wiki/タロア島 "wikilink")攻撃(1月29日 - 31日)を行う第58.4任務群に配属される。プリンストンの艦載機は次の攻撃目標[エニウェトク環礁](../Page/エニウェトク環礁.md "wikilink")を撮影し、2月2日および3日に大規模な攻撃を行う。三日にわたってエニウェトクは爆撃と機銃掃射を受け、エンゲビの飛行場は破壊された。7日にプリンストンはクェゼリン環礁へ帰還し、10日から13日および16日から28日まで[エニウェトク上陸部隊への航空支援を行う](../Page/エニウェトクの戦い.md "wikilink")。
+[ブレマートン](../Page/ブレマートン.md "wikilink")を1944年1月3日に出港したプリンストンは、真珠湾で再び第50任務部隊(その後第58任務部隊に改称)に加わり、1月19日には[クェゼリン環礁](../Page/クェゼリン環礁.md "wikilink")および[マジュロ](../Page/マジュロ.md "wikilink")に対する上陸作戦支援のため[ウォッジェ環礁](../Page/ウォッジェ環礁.md "wikilink")および[タロア島](https://ja.wikipedia.org/wiki/タロア島 "wikilink")攻撃(1月29日 - 31日)を行う第58.4任務群に配属される。プリンストンの艦載機は次の攻撃目標[エニウェトク環礁](../Page/エニウェトク環礁.md "wikilink")を撮影し、2月2日および3日に大規模な攻撃を行う。三日にわたってエニウェトクは爆撃と機銃掃射を受け、エンゲビの飛行場は破壊された。7日にプリンストンはクェゼリン環礁へ帰還し、10日から13日および16日から28日まで[エニウェトク上陸部隊への航空支援を行う](../Page/エニウェトクの戦い.md "wikilink")。
 
-プリンストンはエニウェトクからマジュロへ後退し、エスピリトゥサントで補給を受ける。3月23日には[カロリン諸島](../Page/カロリン諸島.md "wikilink")への攻撃を行い、その後[パラオ](https://ja.wikipedia.org/wiki/パラオ "wikilink")、[ウォレアイ環礁](https://ja.wikipedia.org/wiki/ウォレアイ環礁 "wikilink")、[ヤップ島](../Page/ヤップ島.md "wikilink")を攻撃した後マジュロで補給を受け、4月13日に配置換えされる。[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")へ向かった後4月21日から29日までホーランディア攻撃に航空支援を行い、その後[トラック諸島攻撃](../Page/チューク諸島.md "wikilink")(4月29日、30日)、[ポナペ攻撃](../Page/ポンペイ島.md "wikilink")(5月1日)を行うため[日付変更線を超えた](../Page/国際日付変更線.md "wikilink")。
+プリンストンはエニウェトクからマジュロへ後退し、エスピリトゥサントで補給を受ける。3月23日には[カロリン諸島](../Page/カロリン諸島.md "wikilink")への攻撃を行い、その後[パラオ](https://ja.wikipedia.org/wiki/パラオ "wikilink")、[ウォレアイ環礁](../Page/ウォレアイ環礁.md "wikilink")、[ヤップ島](../Page/ヤップ島.md "wikilink")を攻撃した後マジュロで補給を受け、4月13日に配置換えされる。[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")へ向かった後4月21日から29日までホーランディア攻撃に航空支援を行い、その後[トラック諸島攻撃](../Page/チューク諸島.md "wikilink")(4月29日、30日)、[ポナペ攻撃](../Page/ポンペイ島.md "wikilink")(5月1日)を行うため[日付変更線を超えた](../Page/国際日付変更線.md "wikilink")。
 
 5月11日、プリンストンは真珠湾に帰投し、29日にはマジュロへ向けて出航する。マジュロにて[マーク・ミッチャー](../Page/マーク・ミッチャー.md "wikilink")中将率いる第58任務部隊に合流し、[サイパン攻撃支援のため](../Page/サイパンの戦い.md "wikilink")[マリアナ諸島](../Page/マリアナ諸島.md "wikilink")近海に向かう。6月11日から18日まで[グアム](../Page/グアム.md "wikilink")、[ロタ島](../Page/ロタ島.md "wikilink")、[テニアン島](../Page/テニアン島.md "wikilink")、[パガン島](../Page/パガン島.md "wikilink")および[サイパン島](../Page/サイパン島.md "wikilink")へ艦載機による攻撃を行い、その後日本艦隊を攻撃するためフィリピンからマリアナ諸島へ向かった。[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")でプリンストンの艦載機は30機を撃墜、また自身の艦載砲で3機を撃墜した。
 
@@ -52,7 +52,7 @@
 
 10時2～20分の間に、格納庫で一連の激しい爆発が発生した。魚雷の誘爆が原因とみられる\[12\]が、これにより飛行甲板と前後のエレベーターが破壊された。機関室の人員は避難せざるを得ず、プリンストンは推進力を失って停止した。消火放水の水圧も10時10分頃に失われ、自力での消火活動が不可能となった。
 
-[軽巡洋艦](../Page/軽巡洋艦.md "wikilink")「[バーミングハム](../Page/バーミングハム_\(CL-62\).md "wikilink")(USS Birmingham, CL-62)」「[リノ](https://ja.wikipedia.org/wiki/リノ_\(軽巡洋艦\) "wikilink")(USS Reno, CL-96)」、[駆逐艦](../Page/駆逐艦.md "wikilink")「[モリソン](https://ja.wikipedia.org/wiki/:en:USS_Morrison_\(DD-560\) "wikilink")(USS Morrison, DD-560)」「[アーウィン](https://ja.wikipedia.org/wiki/:en:USS_Irwin_\(DD-794\) "wikilink")(USS Irwin, DD-794)」といった救援艦艇が隣接して乗員の救助と消火作業に努め、日本機の更なる攻撃を防ぐための対空支援を行った。この中で最も大きい「バーミングハム」が救援活動を主導したが、プリンストンは偶然にも艦番号が隣り合わせの姉妹艦(軽巡「タラハシー(CL-61)」として起工された艦だった。
+[軽巡洋艦](../Page/軽巡洋艦.md "wikilink")「[バーミングハム](../Page/バーミングハム_\(CL-62\).md "wikilink")(USS Birmingham, CL-62)」「[リノ](../Page/リノ_\(軽巡洋艦\).md "wikilink")(USS Reno, CL-96)」、[駆逐艦](../Page/駆逐艦.md "wikilink")「[モリソン](https://ja.wikipedia.org/wiki/:en:USS_Morrison_\(DD-560\) "wikilink")(USS Morrison, DD-560)」「[アーウィン](https://ja.wikipedia.org/wiki/:en:USS_Irwin_\(DD-794\) "wikilink")(USS Irwin, DD-794)」といった救援艦艇が隣接して乗員の救助と消火作業に努め、日本機の更なる攻撃を防ぐための対空支援を行った。この中で最も大きい「バーミングハム」が救援活動を主導したが、プリンストンは偶然にも艦番号が隣り合わせの姉妹艦(軽巡「タラハシー(CL-61)」として起工された艦だった。
 
 <File:USS> Princeton (CVL-23) underway and burning 1944.jpg|被弾より約20分後 <File:USS> Princeton (CVL-23) burning on 24 October 1944 (80-G-287970).jpg|10時過ぎ、最初の爆発が発生 <File:USS> Princeton (CVL-23) damaged 1.jpg|飛行甲板等は破壊されたが、鎮火の見込みはあると考えられた <File:USS> Birmingham comes alongside the burning USS Princeton.jpg|「バーミングハム」が隣接して救援活動にあたる
 
@@ -73,7 +73,7 @@
   - [バーミングハム](../Page/バーミングハム_\(CL-62\).md "wikilink")(USS Birmingham, CL-62) - 死者233名、負傷者426名\[20\]\[21\]。上部構造物を大破、艦前方側面を損傷。5インチ砲二基、40ミリ機関砲二基、20ミリ機銃二基を損失\[22\]。
   - [モリソン](https://ja.wikipedia.org/wiki/:en:USS_Morrison_\(DD-560\) "wikilink")(USS Morrison, DD-560) - 左舷前方に大きな損傷\[23\]。
   - [アーウィン](https://ja.wikipedia.org/wiki/:en:USS_Irwin_\(DD-794\) "wikilink")(USS Irwin, DD-794) - 前方5インチ砲、右舷を損傷\[24\]。
-  - [リノ](https://ja.wikipedia.org/wiki/リノ_\(軽巡洋艦\) "wikilink")(USS Reno, CL-96) - 40ミリ機関砲一基を破損\[25\]。
+  - [リノ](../Page/リノ_\(軽巡洋艦\).md "wikilink")(USS Reno, CL-96) - 40ミリ機関砲一基を破損\[25\]。
 
 プリンストン所属の第27戦闘飛行隊(VF-27)は、母艦の被弾時に空中にいた機は他の空母に着艦し、脱出したパイロットも含め同型艦「[インディペンデンス](../Page/インディペンデンス_\(CVL-22\).md "wikilink")」に配置転換され引き続き戦うこととなった。しかしながら飛行隊のシンボルであった特徴的な[ノーズアート](../Page/ノーズアート.md "wikilink")は他艦には受け入れてもらえなかった\[26\]。
 

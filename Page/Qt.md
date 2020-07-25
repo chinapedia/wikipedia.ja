@@ -81,7 +81,7 @@ Qt 5のモジュール群の一部を以下に示す\[1\]。
   - Qt Mac Extras
     [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")固有の機能を使うためのAPI。
   - Qt NFC
-    [NFCハードウェアへのアクセスを提供する](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")。
+    [NFCハードウェアへのアクセスを提供する](../Page/近距離無線通信.md "wikilink")。
   - Qt Positioning
     スマートフォンなどで位置情報を提供する。
   - Qt Print Support

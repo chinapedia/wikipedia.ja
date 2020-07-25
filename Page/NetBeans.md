@@ -108,7 +108,7 @@ IDE自体がJavaで書かれていることから、[Java VMを搭載した](../
 
 ## ライセンス
 
-NetBeansのコードの大部分は、[Common Development and Distribution License](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink") (CDDL) とGNU General Public License v2 (GPLV2) のデュアルライセンスの下でソースコードを公開している。CDDLは、Mozilla Public License (MPL) をベースとしたOSI承認ライセンスの一つである。
+NetBeansのコードの大部分は、[Common Development and Distribution License](../Page/Common_Development_and_Distribution_License.md "wikilink") (CDDL) とGNU General Public License v2 (GPLV2) のデュアルライセンスの下でソースコードを公開している。CDDLは、Mozilla Public License (MPL) をベースとしたOSI承認ライセンスの一つである。
 
 Apacheソフトウェア財団への寄贈後はApache License 2.0に一本化された。
 

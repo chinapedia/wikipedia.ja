@@ -7,7 +7,7 @@
 
 携帯電話（[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")）や[PHS](../Page/PHS.md "wikilink")端末に[データ通信](../Page/データ通信.md "wikilink")機能と[Compact HTMLブラウザを搭載し](../Page/Compact_HTML.md "wikilink")、端末単独で[インターネット](../Page/インターネット.md "wikilink")（[Webサーバ](../Page/Webサーバ.md "wikilink")）へ接続し、情報コンテンツの取得・送信と[インターネットメール](https://ja.wikipedia.org/wiki/インターネットメール "wikilink")化された[キャリアメール](https://ja.wikipedia.org/wiki/キャリアメール "wikilink")の送受信をすることができるサービスである。[通信プロトコル](../Page/通信プロトコル.md "wikilink")は[HTTPによるものが標準化されている](../Page/Hypertext_Transfer_Protocol.md "wikilink")。
 
-[1999年](../Page/1999年.md "wikilink")2月に世界初の携帯電話IP接続サービスとして[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")が開始され、同業他社の[EZweb](../Page/EZweb.md "wikilink")、[J-Skyが追従し](../Page/Yahoo!ケータイ.md "wikilink")、爆発的に普及した。この3サービスは[パケット通信](../Page/パケット通信.md "wikilink")により[アクセスポイント](https://ja.wikipedia.org/wiki/アクセスポイント "wikilink")となる携帯電話キャリアの専用[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")（iモードセンター等）に接続し、閉鎖的なネットワーク網に構築された[メニューサイトの](../Page/公式サイト_\(携帯電話\).md "wikilink")[Webサーバー](https://ja.wikipedia.org/wiki/Webサーバー "wikilink")への接続、もしくは外部の[WWW](https://ja.wikipedia.org/wiki/WWW "wikilink")や[メールサーバー](https://ja.wikipedia.org/wiki/メールサーバー "wikilink")に接続し、各種サービスの提供がなされている。
+[1999年](../Page/1999年.md "wikilink")2月に世界初の携帯電話IP接続サービスとして[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")が開始され、同業他社の[EZweb](../Page/EZweb.md "wikilink")、[J-Skyが追従し](../Page/Yahoo!ケータイ.md "wikilink")、爆発的に普及した。この3サービスは[パケット通信](../Page/パケット通信.md "wikilink")により[アクセスポイント](https://ja.wikipedia.org/wiki/アクセスポイント "wikilink")となる携帯電話キャリアの専用[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")（iモードセンター等）に接続し、閉鎖的なネットワーク網に構築された[メニューサイトの](../Page/公式サイト_\(携帯電話\).md "wikilink")[Webサーバー](https://ja.wikipedia.org/wiki/Webサーバー "wikilink")への接続、もしくは外部の[WWW](https://ja.wikipedia.org/wiki/WWW "wikilink")や[メールサーバー](https://ja.wikipedia.org/wiki/メールサーバー "wikilink")に接続し、各種サービスの提供がなされている。
 
 携帯電話キャリアによるサービス開始当初は回線交換方式による[ショートメッセージサービス](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")よりも廉価な通信料で[キャリアメール](https://ja.wikipedia.org/wiki/キャリアメール "wikilink")ができる事から人気が高まり、次いで[コンテンツプロバイダ](https://ja.wikipedia.org/wiki/コンテンツプロバイダ "wikilink")の増加によるメニューサイトの充実や、外部のWebサーバー上で公開した[勝手サイト](../Page/勝手サイト.md "wikilink")の閲覧ができることも認識され、2000年以降爆発的に利用者が拡大した。2001年の[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")を皮切りに[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")の配信が開始され、[第3世代携帯電話](https://ja.wikipedia.org/wiki/第3世代携帯電話 "wikilink")以降では[着うた](../Page/着うた.md "wikilink")や[動画](../Page/動画.md "wikilink")といったリッチコンテンツの配信も始まった。
 
@@ -63,7 +63,7 @@
   - [iモード](https://ja.wikipedia.org/wiki/iモード "wikilink") （[NTT docomo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）
   - [EZweb](../Page/EZweb.md "wikilink") （[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）
   - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink") （[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")）
-  - [EMnet](https://ja.wikipedia.org/wiki/EMnet "wikilink")（[イー・モバイル](../Page/イー・モバイル.md "wikilink")）
+  - [EMnet](../Page/EMnet.md "wikilink")（[イー・モバイル](../Page/イー・モバイル.md "wikilink")）
   - [AIR-EDGE PHONE](https://ja.wikipedia.org/wiki/AIR-EDGE_PHONE "wikilink")（[ウィルコム](../Page/ウィルコム.md "wikilink")）
 
 ## 類似するサービス
@@ -73,7 +73,7 @@
   - [spモード](https://ja.wikipedia.org/wiki/spモード "wikilink")（NTTドコモ）
   - [IS NET](https://ja.wikipedia.org/wiki/ISシリーズ "wikilink")（au）
   - [S\!ベーシックパック](https://ja.wikipedia.org/wiki/S!ベーシックパック "wikilink")（接続サービス名は非公表。ソフトバンクモバイル）
-  - [EMnet](https://ja.wikipedia.org/wiki/EMnet "wikilink")（イー・モバイル）
+  - [EMnet](../Page/EMnet.md "wikilink")（イー・モバイル）
 
 ### PHS
 

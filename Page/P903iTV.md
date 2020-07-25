@@ -19,14 +19,14 @@ iアプリは「Gガイド番組表リモコン」等を搭載している。
 
 FOMA 903i シリーズ共通の機能の中では、[着うたフル](../Page/着うたフル.md "wikilink")、**メガ[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")**、iC通信に対応。[3Gローミング](../Page/ローミング.md "wikilink")、[GPS](../Page/グローバル・ポジショニング・システム.md "wikilink")、きせかえツールやiC認証には対応していない。
 
-| 主な対応サービス                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")                            |
-| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")                          |
-| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                                          |
-| [着もじ](../Page/着もじ.md "wikilink")                                                                                            |
-| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／[バイオ認証](../Page/バイオ認証.md "wikilink")                            |
-| ~~[きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")~~／~~[マチキャラ](https://ja.wikipedia.org/wiki/マチキャラ "wikilink")~~ |
+| 主な対応サービス                                                                                                 |
+| -------------------------------------------------------------------------------------------------------- |
+| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")         |
+| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")       |
+| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                       |
+| [着もじ](../Page/着もじ.md "wikilink")                                                                         |
+| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／[バイオ認証](../Page/バイオ認証.md "wikilink")         |
+| ~~[きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")~~／~~[マチキャラ](../Page/マチキャラ.md "wikilink")~~ |
 
 ### ワンセグ機能
 

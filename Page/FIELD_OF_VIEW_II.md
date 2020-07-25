@@ -16,11 +16,11 @@ FIELD OF VIEWの2作目のアルバム。[シングル](../Page/シングル.md 
       -
         作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲:多々納好夫 編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
         通算5枚目のシングル曲。[TBS系](../Page/TBSテレビ.md "wikilink")『[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』エンディングテーマ
-        後に、坂井は[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")として、『[君とのDistance](../Page/君とのDistance.md "wikilink")』にてセルフカバーしている。
+        後に、坂井は[ZARD](../Page/ZARD.md "wikilink")として、『[君とのDistance](../Page/君とのDistance.md "wikilink")』にてセルフカバーしている。
 3.  **[ドキッ](../Page/ドキッ.md "wikilink")**
       -
         作詞:山本ゆり 作曲:浅岡雄也 編曲:葉山たけし
-        通算7枚目のシングル曲。[全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「ANA'sパラダイス」CMソング
+        通算7枚目のシングル曲。[全日空](../Page/全日本空輸.md "wikilink")「ANA'sパラダイス」CMソング
 4.  **Growin' Love**
       -
         作詞:小田佳奈子 作曲:多々納好夫 編曲:徳永暁人
@@ -62,7 +62,7 @@ FIELD OF VIEWの2作目のアルバム。[シングル](../Page/シングル.md 
   - [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
       - [浅岡雄也](../Page/浅岡雄也.md "wikilink")
       - [安部潤](../Page/安部潤.md "wikilink")
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
       - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
 
 [Category:FIELD_OF_VIEWのアルバム](https://ja.wikipedia.org/wiki/Category:FIELD_OF_VIEWのアルバム "wikilink") [Category:ZAIN_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:ZAIN_RECORDSのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink")

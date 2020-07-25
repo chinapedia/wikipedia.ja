@@ -3,7 +3,7 @@
 
 『**GUYS**』（ガイズ）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の15作目の[オリジナル・アルバムでもあり](../Page/スタジオ・アルバム.md "wikilink")、本作の1曲目の楽曲でもある。[1992年](../Page/1992年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
-1993年[12月17日](../Page/12月17日.md "wikilink")はAPO-CDとして、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")は[CD](https://ja.wikipedia.org/wiki/CD "wikilink")として、[2009年](../Page/2009年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")は[SHM-CDとして再発売された](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")。
+1993年[12月17日](../Page/12月17日.md "wikilink")はAPO-CDとして、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")は[CD](https://ja.wikipedia.org/wiki/CD "wikilink")として、[2009年](../Page/2009年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")は[SHM-CDとして再発売された](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")。
 
 ## 背景・リリース
 
@@ -11,7 +11,7 @@
 
 初回限定盤はスリーブ・ケース、特殊パッケージ、ブックレット封入。写真掲載ではトラブルがあり、歌詞カードに写真家の広川泰士が撮影した写真（写真誌『ZOOM』で発表した岩場の風景が加工されたもの）を無断で使っていたことが発覚する。広川側からの抗議によってCD出荷が一旦停止された\[1\]。その後、写真を差し替えて再発売している。
 
-2009年11月25日には、紙ジャケット・シリーズの一環として[SHM-CD仕様で](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")より再発売された。
+2009年11月25日には、紙ジャケット・シリーズの一環として[SHM-CD仕様で](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")より再発売された。
 
 ## 制作
 
@@ -39,7 +39,7 @@ CHAGEは10月に帰国する。ASKAはアルバム完成後もロンドンに滞
 1.  **GUYS**（6:06）
     （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[村上啓介](../Page/村上啓介.md "wikilink")）
       -
-        CHAGEとASKA出演の[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[RESTY](https://ja.wikipedia.org/wiki/RESTY "wikilink")」「[RQ-S85（deruカセ）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ "wikilink")」CMソング。
+        CHAGEとASKA出演の[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[RESTY](../Page/RESTY.md "wikilink")」「[RQ-S85（deruカセ）](https://ja.wikipedia.org/wiki/パナソニックのヘッドホンステレオ "wikilink")」CMソング。
         当初はシングル用に書いた曲であったという。
         アウトロでは、アルバムブックレットに記載されているASKAの散文詩「GUYS」にメロディをつけて歌っている。
 2.  **野いちごがゆれるように**（6:39）

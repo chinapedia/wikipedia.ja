@@ -34,7 +34,7 @@
 7.  1993年 聶衛平 - 馬暁春
 8.  1994年 馬暁春 - 銭宇平
 9.  1995年 馬暁春 - 聶衛平
-10. 1996年 曹大元 - [王磊](https://ja.wikipedia.org/wiki/王磊_\(囲碁\) "wikilink")
+10. 1996年 曹大元 - [王磊](../Page/王磊_\(囲碁\).md "wikilink")
 11. 1997年 聶衛平 - [兪斌](../Page/兪斌.md "wikilink")
 12. 1998年 曹大元 - 馬暁春（愛多杯）
 13. 1999年 [常昊](../Page/常昊.md "wikilink") - [劉菁](https://ja.wikipedia.org/wiki/劉菁 "wikilink")（CCTV杯）

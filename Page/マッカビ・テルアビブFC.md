@@ -151,7 +151,7 @@
 <td><p>1999-00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1999-2000" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">カウナス</a></p></td>
+<td><p><a href="../Page/FBKカウナス.md" title="wikilink">カウナス</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''4–3</p></td>

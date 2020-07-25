@@ -20,13 +20,13 @@
 3.  **[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")** - 原曲：[中山美穂](../Page/中山美穂.md "wikilink")&[WANDS](../Page/WANDS.md "wikilink")
       - 作詞：[上杉昇](../Page/上杉昇.md "wikilink")・中山美穂 作曲・編曲：織田哲郎
       - （ストリングスアレンジ：織田哲郎・J. Haskell）
-4.  **[揺れる想い](../Page/揺れる想い.md "wikilink")** - 原曲：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+4.  **[揺れる想い](../Page/揺れる想い.md "wikilink")** - 原曲：[ZARD](../Page/ZARD.md "wikilink")
       - 作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲・編曲：織田哲郎
 5.  **[君の瞳にRainbow](../Page/君の瞳にRainbow.md "wikilink")**
       - 作詞・作曲・編曲：織田哲郎
 6.  **[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")** - 原曲：[TWINZER](../Page/TWINZER.md "wikilink")
       - 作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink") 作曲・編曲：織田哲郎
-7.  **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")** - 原曲：[DEEN](../Page/DEEN.md "wikilink")
+7.  **[翼を広げて](../Page/翼を広げて.md "wikilink")** - 原曲：[DEEN](../Page/DEEN.md "wikilink")
       - 作詞：坂井泉水 作曲：織田哲郎 編曲：J. Haskell
 8.  **[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")** - 原曲：[T-BOLAN](../Page/T-BOLAN.md "wikilink")
       - 作詞：[森友嵐士](../Page/森友嵐士.md "wikilink") 作曲・編曲：織田哲郎

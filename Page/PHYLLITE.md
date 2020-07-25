@@ -7,7 +7,7 @@
 
   - [1964年](../Page/1964年.md "wikilink")2月　資本金5億円で東京都中央区日本橋通2-1に**日本中央地所**（）として設立。[東京銀行](../Page/東京銀行.md "wikilink")（現 [三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）と共に[横浜正金銀行](../Page/横浜正金銀行.md "wikilink")の後継会社の一つであった
 
-  - [1974年](../Page/1974年.md "wikilink")6月　株式を[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")に[東京店頭売買銘柄に登録（株式上場）](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")（コード番号 8805）
+  - [1974年](../Page/1974年.md "wikilink")6月　株式を[日本証券業協会](../Page/日本証券業協会.md "wikilink")に[東京店頭売買銘柄に登録（株式上場）](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")（コード番号 8805）
 
   - [1974年](../Page/1974年.md "wikilink")12月　東京都中央区日本橋1-5-3に本店を移転
 

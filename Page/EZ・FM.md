@@ -23,7 +23,7 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
   - [A5505SA](https://ja.wikipedia.org/wiki/A5505SA "wikilink")
   - [A5514SA](https://ja.wikipedia.org/wiki/A5514SA "wikilink")
   - [A5522SA](../Page/A5522SA.md "wikilink")
-  - [A5527SA](https://ja.wikipedia.org/wiki/A5527SA "wikilink")
+  - [A5527SA](../Page/A5527SA.md "wikilink")
   - [W21SA](../Page/W21SA.md "wikilink")
   - [W22SA](../Page/W22SA.md "wikilink")
   - [W31SA](../Page/W31SA.md "wikilink")
@@ -96,7 +96,7 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
   - [W54T](../Page/W54T.md "wikilink")
   - [W55T](../Page/W55T.md "wikilink")
   - [W56T](../Page/W56T.md "wikilink")
-  - [W61T](https://ja.wikipedia.org/wiki/W61T "wikilink")
+  - [W61T](../Page/W61T.md "wikilink")
   - [T001](https://ja.wikipedia.org/wiki/T001 "wikilink")(TS001)
   - [TSX01/02/03](https://ja.wikipedia.org/wiki/Iida_Art_Editions_YAYOI_KUSAMA "wikilink")
   - [T006](https://ja.wikipedia.org/wiki/T006 "wikilink")(TS006)
@@ -126,7 +126,7 @@ FMチューナー非搭載端末でもアプリをインストールすれば、
 **[京セラ](../Page/京セラ.md "wikilink")**
 
   - [A5521K](https://ja.wikipedia.org/wiki/A5521K "wikilink")
-  - [A5526K](https://ja.wikipedia.org/wiki/A5526K "wikilink")
+  - [A5526K](../Page/A5526K.md "wikilink")
   - [W31K](../Page/W31K.md "wikilink")
   - [W31K II](../Page/W31K.md "wikilink")
   - [W41K](../Page/W41K.md "wikilink")

@@ -180,7 +180,7 @@
 
 ### スタッフ
 
-  - 企画 - [武井英彦](https://ja.wikipedia.org/wiki/武井英彦 "wikilink")、[落合茂一](https://ja.wikipedia.org/wiki/落合茂一 "wikilink")
+  - 企画 - [武井英彦](https://ja.wikipedia.org/wiki/武井英彦 "wikilink")、[落合茂一](../Page/落合茂一.md "wikilink")
   - シリーズ構成・脚本 - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
   - キャラクターデザイン - [高橋久美子](../Page/高橋久美子_\(アニメーター\).md "wikilink")
   - メカデザイン - [小池健](../Page/小池健.md "wikilink")

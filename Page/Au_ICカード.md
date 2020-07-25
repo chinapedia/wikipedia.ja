@@ -186,7 +186,7 @@ MVNOに対応する機種か否かは、各MVNO事業者のホームページに
 対応機種は上記記載を参照。
 
   - mini SIMカード
-      - ver.001 - IC面はオレンジの地に白で「au by KDDI」のロゴが描かれている。ICの反対の面は 白地で黒色でICCIDが刻まれている。[NFCサービスの認証に対応していないことからNFC対応機種ではNFC機能が利用できないが](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")、3G・WiMAX通信やその他の機能は利用可能である。このためNFCを利用するには後述のver.002への交換が必要である。ジェムアルト製の端子仕様は旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")のもの。
+      - ver.001 - IC面はオレンジの地に白で「au by KDDI」のロゴが描かれている。ICの反対の面は 白地で黒色でICCIDが刻まれている。[NFCサービスの認証に対応していないことからNFC対応機種ではNFC機能が利用できないが](../Page/近距離無線通信.md "wikilink")、3G・WiMAX通信やその他の機能は利用可能である。このためNFCを利用するには後述のver.002への交換が必要である。ジェムアルト製の端子仕様は旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")のもの。
       - ver.002 - IC面の色が茶色と白のストライプの地にオレンジで「au by KDDI」のロゴが描かれている。N800MHz帯 (新800MHz・Band Class 0 Band Subclass 2) の周波数帯に対応していない[W32H](../Page/W32H.md "wikilink")、[W32S](../Page/W32S.md "wikilink")、[W41H](../Page/W41H.md "wikilink")、[W41S](../Page/W41S.md "wikilink")、[W41CA](../Page/W41CA.md "wikilink")、[W42CA](../Page/W42CA.md "wikilink")、[W42H](../Page/W42H.md "wikilink")、[W43CA](../Page/W43CA.md "wikilink")、[W43H](../Page/W43H.md "wikilink")、[W43K](../Page/W43K.md "wikilink")では使用できない (挿入起動後に端末自体が使用不能になるトラブルがW42H、W43Hで確認されている)。これらの機種は2012年7月22日以後通信が利用できなくなった。
       - au IC Card 02 (3G) - auが現行ロゴになったのにも併せて、ICCIDが刻まれている箇所除きカード表裏とも色はオレンジで、その裏面にauの現行ロゴと[3G](https://ja.wikipedia.org/wiki/3G "wikilink")と①が書かれている物に変更された。仕様はver.002と変わらない。
   - micro SIM カード

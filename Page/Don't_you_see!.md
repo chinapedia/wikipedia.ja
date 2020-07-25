@@ -1,7 +1,7 @@
 > この記事は[Don\'t you see!](https://ja.wikipedia.org/wiki/Don\'t_you_see!)から翻訳されています。
 
 
-「**Don't you see\!**」（ドント・ユー・シー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の19作目の[シングル](../Page/シングル.md "wikilink")。
+「**Don't you see\!**」（ドント・ユー・シー）は、[ZARD](../Page/ZARD.md "wikilink")の19作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

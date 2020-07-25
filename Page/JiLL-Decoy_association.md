@@ -895,7 +895,7 @@ VIZL-732</p></td>
 | 輪                               | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")」2007年4月〜6月度エンディングテーマ                                                       |
 | no name collection              | [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")「\[\[1230アッと                                                                                                                     |
 | 熱                               | [ベルクラシック](../Page/ベルクラシック.md "wikilink")グループ『[アヤナチュール](../Page/酒井彩名.md "wikilink")』[PVイメージソング](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")                    |
-| 光の指す方へ                          | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[BLUE DRAGON 天界の七竜](https://ja.wikipedia.org/wiki/BLUE_DRAGON_\(アニメ\) "wikilink")」前期オープニングテーマ              |
+| 光の指す方へ                          | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[BLUE DRAGON 天界の七竜](../Page/BLUE_DRAGON_\(アニメ\).md "wikilink")」前期オープニングテーマ                                 |
 | 蕾                               | テレビ東京系アニメ「BLUE DRAGON 天界の七竜」前期エンディングテーマ                                                                                                                                |
 | SUMMER MAGIC                    | テレビ朝日系「[恋愛百景](../Page/恋愛百景.md "wikilink")」2008年7月〜9月度エンディングテーマ                                                                                                         |
 | 一途な星                            | 映画「[落語娘](https://ja.wikipedia.org/wiki/落語娘 "wikilink")」[主題歌](../Page/主題歌.md "wikilink")                                                                                |

@@ -1,11 +1,11 @@
 > この記事は[アモン・デュールII](https://ja.wikipedia.org/wiki/アモン・デュールII)から翻訳されています。
 
 
-**アモン・デュールII**（アモン・デュール・ツー、**Amon Düül II**）は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に結成された[西ドイツ](../Page/西ドイツ.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[クラウトロック](https://ja.wikipedia.org/wiki/クラウトロック "wikilink")の代表的なバンドとして有名である。
+**アモン・デュールII**（アモン・デュール・ツー、**Amon Düül II**）は、[1968年](../Page/1968年.md "wikilink")に結成された[西ドイツ](../Page/西ドイツ.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[クラウトロック](https://ja.wikipedia.org/wiki/クラウトロック "wikilink")の代表的なバンドとして有名である。
 
 ## 来歴
 
-政治・芸術[コミューン](../Page/コミューン.md "wikilink")である[アモン・デュール](../Page/アモン・デュール.md "wikilink")から分裂する形で、クリス・カラー（[ギター](../Page/ギター.md "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")他）、ペーター・レオポルド（[ドラムス](../Page/ドラムセット.md "wikilink")）、ファルク・ログナー（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）、レナーテ・クナウプ（ボーカル）、デイブ・アンダーソン（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）らによって[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に結成された。[ミュンヘン](../Page/ミュンヘン.md "wikilink")の[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック "wikilink")・クラブでギグを始め、1969年に1stアルバム『神の鞭』を発表。同年映画『サン・ドミンゴ』のサウンドトラックを担当し、ドイツ連邦映画賞を受けている。
+政治・芸術[コミューン](../Page/コミューン.md "wikilink")である[アモン・デュール](../Page/アモン・デュール.md "wikilink")から分裂する形で、クリス・カラー（[ギター](../Page/ギター.md "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")他）、ペーター・レオポルド（[ドラムス](../Page/ドラムセット.md "wikilink")）、ファルク・ログナー（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）、レナーテ・クナウプ（ボーカル）、デイブ・アンダーソン（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）らによって[1968年](../Page/1968年.md "wikilink")に結成された。[ミュンヘン](../Page/ミュンヘン.md "wikilink")の[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック "wikilink")・クラブでギグを始め、1969年に1stアルバム『神の鞭』を発表。同年映画『サン・ドミンゴ』のサウンドトラックを担当し、ドイツ連邦映画賞を受けている。
 
 1970年に発表された2ndアルバム『地獄\!』はドイツ国外でも注目されるきっかけになった作品である。ドイツの音楽紙は彼らを「[ピンク・フロイド](../Page/ピンク・フロイド.md "wikilink")や[ヴェルヴェット・アンダーグラウンド](../Page/ヴェルヴェット・アンダーグラウンド.md "wikilink")と比較しても劣らない、アイデア豊かなプログレッシブ・ポップ・バンド」と評した。バンドはその後も長く活動を続けたが、メンバーの入れ替わりも激しく（リーダーのクリス・カラーのみ一貫して在籍）、また音楽性もその時々により変化した。
 

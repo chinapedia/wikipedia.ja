@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - 柏原譲（かしわばら ゆずる、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ）'''- [ベース](../Page/エレクトリックベース.md "wikilink")
+  - 柏原譲（かしわばら ゆずる、[1968年](../Page/1968年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ）'''- [ベース](../Page/エレクトリックベース.md "wikilink")
     [東京都](../Page/東京都.md "wikilink")出身。[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")の元メンバー。[作曲家](../Page/作曲家.md "wikilink")の[丸山康太郎](https://ja.wikipedia.org/wiki/丸山康太郎 "wikilink")とともに[OTOUTA](https://ja.wikipedia.org/wiki/OTOUTA "wikilink")を結成。茂木欣一（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")／フィッシュマンズ）、加藤隆志（東京スカパラダイスオーケストラ）とともに[So many tearsとしても活動](https://ja.wikipedia.org/wiki/So_many_tears "wikilink")。
 
 ### 旧メンバー

@@ -1,7 +1,7 @@
 > この記事は[フッ化銀\(I\)](https://ja.wikipedia.org/wiki/フッ化銀\(I\))から翻訳されています。
 
 
-**フッ化銀(I)** （フッかぎん、silver(I) fluoride）は[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")と[フッ素](../Page/フッ素.md "wikilink")の化合物である。赤褐色の固体であるが、湿った空気に晒すことで黒色に変化する。融点は435℃\[1\]。他のハロゲン化銀とは異なり、水に非常に溶けやすく（水1Lに対して1.8kg以上\[2\]）、アセトニトリルにもいくらか溶ける。[炭酸銀](https://ja.wikipedia.org/wiki/炭酸銀 "wikilink")と[フッ化水素酸](../Page/フッ化水素酸.md "wikilink")から作られる。
+**フッ化銀(I)** （フッかぎん、silver(I) fluoride）は[銀](../Page/銀.md "wikilink")と[フッ素](../Page/フッ素.md "wikilink")の化合物である。赤褐色の固体であるが、湿った空気に晒すことで黒色に変化する。融点は435℃\[1\]。他のハロゲン化銀とは異なり、水に非常に溶けやすく（水1Lに対して1.8kg以上\[2\]）、アセトニトリルにもいくらか溶ける。[炭酸銀](https://ja.wikipedia.org/wiki/炭酸銀 "wikilink")と[フッ化水素酸](../Page/フッ化水素酸.md "wikilink")から作られる。
 
   -
     <chem>{Ag2CO3} + 2HF -\> {2AgF} + CO2 + H2O</chem>

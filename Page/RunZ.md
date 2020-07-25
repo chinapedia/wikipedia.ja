@@ -41,7 +41,7 @@
 <tr class="odd">
 <td><p>あゆか</p></td>
 <td><p>奈良安由加</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月11日.md" title="wikilink">9月11日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月11日.md" title="wikilink">9月11日</a></p></td>
 <td><p>AYUKA (RED WORKER'z)<br />
 あゆか（MARIA）</p></td>
 </tr>

@@ -11,7 +11,7 @@
 
 ### 移植版
 
-[1999年](../Page/1999年.md "wikilink")には『第2次』や『第3次』と共に、『**[スーパーロボット大戦コンプリートボックス](../Page/スーパーロボット大戦コンプリートボックス.md "wikilink")**』として[PlayStationにリメイク移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。システムを当時最新の『[スーパーロボット大戦F](../Page/スーパーロボット大戦F.md "wikilink")』（以後『F』）のものに変更し\[3\]、ゲームバランスも改められている。また各作品は1999年と[2000年](../Page/2000年.md "wikilink")に単品でも発売された。[2011年](../Page/2011年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")にはこの単品版が[PlayStation Storeの](../Page/PlayStation_Store.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている\[4\]。
+[1999年](../Page/1999年.md "wikilink")には『第2次』や『第3次』と共に、『**[スーパーロボット大戦コンプリートボックス](../Page/スーパーロボット大戦コンプリートボックス.md "wikilink")**』として[PlayStationにリメイク移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。システムを当時最新の『[スーパーロボット大戦F](../Page/スーパーロボット大戦F.md "wikilink")』（以後『F』）のものに変更し\[3\]、ゲームバランスも改められている。また各作品は1999年と[2000年](../Page/2000年.md "wikilink")に単品でも発売された。[2011年](../Page/2011年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")にはこの単品版が[PlayStation Storeの](../Page/PlayStation_Store.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている\[4\]。
 
 ## あらすじ
 

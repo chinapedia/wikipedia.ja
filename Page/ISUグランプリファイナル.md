@@ -642,7 +642,7 @@ and <a href="https://ja.wikipedia.org/wiki/エリック・ラドフォード" ti
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2018/2019_ISUグランプリファイナル" title="wikilink">2018/2019</a></p></td>
 <td><p><a href="../Page/バンクーバー_(ブリティッシュコロンビア州).md" title="wikilink">バンクーバー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァネッサ・ジェームス" title="wikilink">ヴァネッサ・ジェームス</a><br />
+<td><p><a href="../Page/ヴァネッサ・ジェームス.md" title="wikilink">ヴァネッサ・ジェームス</a><br />
 and <a href="https://ja.wikipedia.org/wiki/モルガン・シプレ" title="wikilink">モルガン・シプレ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/彭程" title="wikilink">彭程</a><br />
 and <a href="https://ja.wikipedia.org/wiki/金楊" title="wikilink">金楊</a></p></td>

@@ -9,7 +9,7 @@
 
   - 紅組司会：[佐良直美](../Page/佐良直美.md "wikilink")
   - 白組司会：[山川静夫](../Page/山川静夫.md "wikilink")アナウンサー
-  - 総合司会：[土門正夫](../Page/土門正夫.md "wikilink")アナウンサー、[中江陽三](https://ja.wikipedia.org/wiki/中江陽三 "wikilink")アナウンサー
+  - 総合司会：[土門正夫](../Page/土門正夫.md "wikilink")アナウンサー、[中江陽三](../Page/中江陽三.md "wikilink")アナウンサー
   - テレビ中継：[相川浩](../Page/相川浩.md "wikilink")アナウンサー
 
 <!-- end list -->

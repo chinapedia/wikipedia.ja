@@ -150,7 +150,7 @@
 
 [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:カプコンの人物](https://ja.wikipedia.org/wiki/Category:カプコンの人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  『ストリートファイター メモリアル・アーカイブ Beyond the World』2018年3月24日、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、176頁。
+1.  『ストリートファイター メモリアル・アーカイブ Beyond the World』2018年3月24日、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、176頁。
 2.  [カプコン伝説 第五回 妖魔のタイマン勝負格ゲー（前編）](http://www.capcom.co.jp/game/content/?p=5358)
 3.  [伝説の帰還・未来への出発～『ストリートファイターＶ』アートインタビュー～後篇](http://www.capcom.co.jp/sfv/160225_interview_02.html)
 4.

@@ -49,7 +49,7 @@ CDジャーナルは、「ロリロリな顔と体型そのままのロリロリ
 
 **いつもの帰り道**
 
-  - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - Drums：[宮田繁男](../Page/宮田繁男.md "wikilink")
   - Guitars：[斉藤誠](https://ja.wikipedia.org/wiki/斉藤誠 "wikilink")
   - Bass：沖山優司
   - Piano & [Organ](../Page/オルガン.md "wikilink") & Keyboards：河合代介

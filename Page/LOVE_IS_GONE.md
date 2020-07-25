@@ -18,7 +18,7 @@
 
 ### アルバムの概要
 
-人生に俯くよりも、愛を信じて生きていたいがテーマ。このアルバムでは、編曲陣ががらっと変わり、ベテラン・[宮川泰](../Page/宮川泰.md "wikilink")、[NSP](../Page/NSP_\(バンド\).md "wikilink")、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")のアレンジで知られる[福井峻](../Page/福井峻.md "wikilink")、[八神純子](../Page/八神純子.md "wikilink")や[石川ひとみ](../Page/石川ひとみ.md "wikilink")の曲で頭角をあらわしてきた[大村雅朗](../Page/大村雅朗.md "wikilink")が、数曲ずつ担当する。また、後に[TM NETWORK曲の作詞で有名になる](../Page/TM_NETWORK.md "wikilink")[小室みつ子](../Page/小室みつ子.md "wikilink")が作曲を1曲担当する。
+人生に俯くよりも、愛を信じて生きていたいがテーマ。このアルバムでは、編曲陣ががらっと変わり、ベテラン・[宮川泰](../Page/宮川泰.md "wikilink")、[NSP](../Page/NSP_\(バンド\).md "wikilink")、[中島みゆき](../Page/中島みゆき.md "wikilink")、[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")のアレンジで知られる[福井峻](../Page/福井峻.md "wikilink")、[八神純子](../Page/八神純子.md "wikilink")や[石川ひとみ](../Page/石川ひとみ.md "wikilink")の曲で頭角をあらわしてきた[大村雅朗](../Page/大村雅朗.md "wikilink")が、数曲ずつ担当する。また、後に[TM NETWORK曲の作詞で有名になる](../Page/TM_NETWORK.md "wikilink")[小室みつ子](../Page/小室みつ子.md "wikilink")が作曲を1曲担当する。
 
 ### 収録曲
 

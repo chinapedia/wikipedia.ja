@@ -1,7 +1,7 @@
 > この記事は[TV海賊チャンネル](https://ja.wikipedia.org/wiki/TV海賊チャンネル)から翻訳されています。
 
 
-**TV海賊チャンネル**（テレビかいぞくチャンネル、副題：「**朝までやれない\!** 」）は、[日本テレビ系列にて](../Page/日本テレビ放送網.md "wikilink")[1984年](../Page/1984年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")である。
+**TV海賊チャンネル**（テレビかいぞくチャンネル、副題：「**朝までやれない\!** 」）は、[日本テレビ系列にて](../Page/日本テレビ放送網.md "wikilink")[1984年](../Page/1984年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")である。
 
 ## 概要
 

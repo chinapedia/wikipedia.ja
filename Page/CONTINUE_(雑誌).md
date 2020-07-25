@@ -313,7 +313,7 @@
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ゲームセンターCX" title="wikilink">ゲームセンターCX</a>」</p></td>
 <td><ul>
 <li>ゲームセンターCX大特集</li>
-<li><a href="../Page/ハチミツとクローバー.md" title="wikilink">ハチミツとクローバー</a>x<a href="https://ja.wikipedia.org/wiki/蒼井優" title="wikilink">蒼井優</a></li>
+<li><a href="../Page/ハチミツとクローバー.md" title="wikilink">ハチミツとクローバー</a>x<a href="../Page/蒼井優.md" title="wikilink">蒼井優</a></li>
 <li>「saku saku」第13弾</li>
 </ul></td>
 </tr>

@@ -251,7 +251,7 @@
 
 ## ロケ放送分
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")・[5月17日](../Page/5月17日.md "wikilink")放送分は、[GWと番組](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")5周年記念という事で初の[外ロケ企画が展開された](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。[東京](../Page/東京都.md "wikilink")・[恵比寿の焼肉店](../Page/恵比寿_\(渋谷区\).md "wikilink")\[2\]にて「焼肉パーティ」と称して、[ビール](../Page/ビール.md "wikilink")を飲み、[カルビ](../Page/カルビ.md "wikilink")・[ミノ](../Page/ミノ.md "wikilink")などを食べながらトークが繰り広げられた。番組中は店内特有のノイズ（話し声など）が若干多めだった。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")・[5月17日](../Page/5月17日.md "wikilink")放送分は、[GWと番組](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")5周年記念という事で初の[外ロケ企画が展開された](../Page/ロケーション撮影.md "wikilink")。[東京](../Page/東京都.md "wikilink")・[恵比寿の焼肉店](../Page/恵比寿_\(渋谷区\).md "wikilink")\[2\]にて「焼肉パーティ」と称して、[ビール](../Page/ビール.md "wikilink")を飲み、[カルビ](../Page/カルビ.md "wikilink")・[ミノ](../Page/ミノ.md "wikilink")などを食べながらトークが繰り広げられた。番組中は店内特有のノイズ（話し声など）が若干多めだった。
 
 ## コーナー
 

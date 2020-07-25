@@ -13,7 +13,7 @@
 
 [高知県](../Page/高知県.md "wikilink")[四万十市](../Page/四万十市.md "wikilink")出身。
 
-  - **Ba.** [柿田正嗣](https://ja.wikipedia.org/wiki/柿田正嗣 "wikilink") (かきた まさつぐ) ([1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") A型)
+  - **Ba.** [柿田正嗣](https://ja.wikipedia.org/wiki/柿田正嗣 "wikilink") (かきた まさつぐ) ([1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月26日](../Page/1月26日.md "wikilink") A型)
 
 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[美作市](../Page/美作市.md "wikilink")出身。[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")育ち。
 

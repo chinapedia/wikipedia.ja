@@ -28,7 +28,7 @@
 
 ## 2008年 北京オリンピック
 
-  - 「TOKYO FM Cheer Up Station」として、[TOKYO FMエリアのみ](../Page/エフエム東京.md "wikilink")、[タペストリー内](../Page/Tapestry_\(ラジオ番組\).md "wikilink")9:00から、[ワンス内](https://ja.wikipedia.org/wiki/ONCE_\(ラジオ番組\) "wikilink")12:51から、[ダイアリー内](https://ja.wikipedia.org/wiki/DIARY_\(ラジオ番組\) "wikilink")16:05頃から(ただし[Bibleとして](https://ja.wikipedia.org/wiki/Bible_\(TOKYO_FM\) "wikilink"))、[ワンダフル・ワールド内](../Page/WONDERFUL_WORLD_\(ラジオ番組\).md "wikilink")18:00から（月 - 木）、その他17:50から（金）、8:55から（土日）、19:25から（土）、21:55から（日）、いずれも5分から15分の枠で放送している。そのため全国の系列各局では各局自社製作番組内で放送している。
+  - 「TOKYO FM Cheer Up Station」として、[TOKYO FMエリアのみ](../Page/エフエム東京.md "wikilink")、[タペストリー内](../Page/Tapestry_\(ラジオ番組\).md "wikilink")9:00から、[ワンス内](https://ja.wikipedia.org/wiki/ONCE_\(ラジオ番組\) "wikilink")12:51から、[ダイアリー内](../Page/DIARY_\(ラジオ番組\).md "wikilink")16:05頃から(ただし[Bibleとして](https://ja.wikipedia.org/wiki/Bible_\(TOKYO_FM\) "wikilink"))、[ワンダフル・ワールド内](../Page/WONDERFUL_WORLD_\(ラジオ番組\).md "wikilink")18:00から（月 - 木）、その他17:50から（金）、8:55から（土日）、19:25から（土）、21:55から（日）、いずれも5分から15分の枠で放送している。そのため全国の系列各局では各局自社製作番組内で放送している。
 
 ## 2010年 バンクーバーオリンピック
 

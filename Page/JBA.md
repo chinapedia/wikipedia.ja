@@ -9,7 +9,7 @@
   - [全日本大学準硬式野球連盟](../Page/全日本大学準硬式野球連盟.md "wikilink")（Japan Baseball Association）
   - [日本ウェブログ協会](https://ja.wikipedia.org/wiki/日本ウェブログ協会 "wikilink")（Japan Blogging Association）
   - [全国銀行協会](../Page/全国銀行協会.md "wikilink")（Japanese Bankers Association）
-  - [日本吹奏楽指導者協会](https://ja.wikipedia.org/wiki/日本吹奏楽指導者協会 "wikilink")（Japanese Band Directors Association）
+  - [日本吹奏楽指導者協会](../Page/日本吹奏楽指導者協会.md "wikilink")（Japanese Band Directors Association）
   - [日本結婚相談協会](https://ja.wikipedia.org/wiki/日本結婚相談協会 "wikilink")（Japan Bridal Association）
   - [南カリフォルニア日系企業協会](https://ja.wikipedia.org/wiki/南カリフォルニア日系企業協会 "wikilink")（Japan Business Association of Southern California）
   - [日本ブーメラン協会](https://ja.wikipedia.org/wiki/日本ブーメラン協会 "wikilink")（Japan Boomerang Association）

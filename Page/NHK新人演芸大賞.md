@@ -69,9 +69,9 @@
 | 14 | [1966年](../Page/1966年.md "wikilink")                    | [晴乃チック・タック](https://ja.wikipedia.org/wiki/晴乃チック・タック "wikilink")         |
 | 15 | [1967年](../Page/1967年.md "wikilink")                    | [青空はるお](../Page/青空はるお.md "wikilink")・[あきお](../Page/横山あきお.md "wikilink") |
 |    | 優勝                                                      | 特別賞                                                                     |
-| 16 | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | [桂高丸・菊丸](https://ja.wikipedia.org/wiki/桂高丸・菊丸 "wikilink")               |
+| 16 | [1968年](../Page/1968年.md "wikilink")                    | [桂高丸・菊丸](https://ja.wikipedia.org/wiki/桂高丸・菊丸 "wikilink")               |
 |    | 優勝                                                      |                                                                         |
-| 17 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | [東京二・京太](https://ja.wikipedia.org/wiki/東京二・京太 "wikilink")               |
+| 17 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | [東京二・京太](../Page/東京二・京太.md "wikilink")                                  |
 | 18 | [1970年](../Page/1970年.md "wikilink")                    | [大空みつる・ひろし](https://ja.wikipedia.org/wiki/大空みつる・ひろし "wikilink")         |
 | 19 | [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | [大瀬しのぶ・こいじ](https://ja.wikipedia.org/wiki/大瀬しのぶ・こいじ "wikilink")         |
 |    | 優勝                                                      | 敢闘賞                                                                     |
@@ -92,7 +92,7 @@
 | 31 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | [青空一歩・三歩](https://ja.wikipedia.org/wiki/青空一歩・三歩 "wikilink")             |
 | 32 | [1984年](../Page/1984年.md "wikilink")                    | [高峰和才・洋才](https://ja.wikipedia.org/wiki/高峰和才・洋才 "wikilink")             |
 | 33 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | [桂光一・光二](https://ja.wikipedia.org/wiki/桂光一・光二 "wikilink")               |
-| 34 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [新山絵理・真理](https://ja.wikipedia.org/wiki/新山絵理・真理 "wikilink")             |
+| 34 | [1986年](../Page/1986年.md "wikilink")                    | [新山絵理・真理](https://ja.wikipedia.org/wiki/新山絵理・真理 "wikilink")             |
 
 ## NHK新人落語コンクール
 
@@ -117,7 +117,7 @@
 
 ## NHK新人演芸コンクール
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に上記2つのコンクールが統合され、演芸部門と落語部門を設定。[1989年](../Page/1989年.md "wikilink")には部門別選考を廃止。
+[1986年](../Page/1986年.md "wikilink")に上記2つのコンクールが統合され、演芸部門と落語部門を設定。[1989年](../Page/1989年.md "wikilink")には部門別選考を廃止。
 
 | 回 | 年                                                           | 演芸部門・最優秀賞                                                                 | 演芸部門・優秀賞                                                               | 落語部門・最優秀賞                                                                                             | 落語部門・優秀賞                                               |
 | - | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |

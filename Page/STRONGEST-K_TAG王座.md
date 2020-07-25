@@ -32,7 +32,7 @@
 | 第14代 | [梶トマト](../Page/梶トマト.md "wikilink")&[滝澤大志](../Page/滝澤大志.md "wikilink")                                              | 0    | 2010.05.05 | 千葉Blue Field                                                           |
 | 第15代 | [HIROKI](../Page/Hi69.md "wikilink")&真霜拳號                                                                          | 2    | 2010.08.15 | 千葉ポートアリーナ サブアリーナ                                                       |
 | 第16代 | 稲松三郎&[関根龍一](../Page/関根龍一.md "wikilink")                                                                            | 1    | 2011.10.09 | [札幌テイセンホール](../Page/サッポロテイセンボウル.md "wikilink")                         |
-| 第17代 | [佐藤悠己](https://ja.wikipedia.org/wiki/佐藤悠己 "wikilink")&[ヒロ・トウナイ](../Page/ヒロ・トウナイ.md "wikilink")                     | 0    | 2011.12.16 | [新宿FACE](../Page/新宿FACE.md "wikilink")                                 |
+| 第17代 | [佐藤悠己](../Page/佐藤悠己.md "wikilink")&[ヒロ・トウナイ](../Page/ヒロ・トウナイ.md "wikilink")                                        | 0    | 2011.12.16 | [新宿FACE](../Page/新宿FACE.md "wikilink")                                 |
 | 第18代 | TAKAみちのく&真霜拳號                                                                                                      | 2    | 2012.01.03 | REINAアリーナ                                                              |
 | 第19代 | 火野裕士&稲松三郎                                                                                                          | 0    | 2012.05.06 | REINAアリーナ                                                              |
 | 第20代 | 旭志織&ヒロ・トウナイ                                                                                                        | 3    | 2012.06.17 | 大阪ミナミ ムーブ・オン アリーナ                                                      |

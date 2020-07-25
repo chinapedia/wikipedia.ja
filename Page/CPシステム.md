@@ -246,7 +246,7 @@ CPシステム初期の各タイトルは、同時期のゲームと比較して
 </tr>
 <tr class="even">
 <td><p>1995年10月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロックマン・ザ・パワーバトル" title="wikilink">ロックマン・ザ・パワーバトル</a></p></td>
+<td><p><a href="../Page/ロックマン・ザ・パワーバトル.md" title="wikilink">ロックマン・ザ・パワーバトル</a></p></td>
 <td><p>Mega Man: The Power Battle</p></td>
 <td></td>
 </tr>

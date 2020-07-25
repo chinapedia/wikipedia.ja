@@ -190,7 +190,7 @@
 <tr class="odd">
 <td><p>008</p></td>
 <td><p>03月25日</p></td>
-<td><p><span style="display:none">あ03</span><a href="https://ja.wikipedia.org/wiki/R-TYPE" title="wikilink">R-TYPE I</a></p></td>
+<td><p><span style="display:none">あ03</span><a href="../Page/R-TYPE.md" title="wikilink">R-TYPE I</a></p></td>
 <td><p><a href="../Page/ハドソン.md" title="wikilink">ハドソン</a></p></td>
 <td><p>HC</p></td>
 <td><p>STG</p></td>
@@ -232,7 +232,7 @@
 <tr class="even">
 <td><p>011</p></td>
 <td><p>06月03日</p></td>
-<td><p><span style="display:none">あ04</span><a href="https://ja.wikipedia.org/wiki/R-TYPE" title="wikilink">R-TYPE II</a></p></td>
+<td><p><span style="display:none">あ04</span><a href="../Page/R-TYPE.md" title="wikilink">R-TYPE II</a></p></td>
 <td><p><a href="../Page/ハドソン.md" title="wikilink">ハドソン</a></p></td>
 <td><p>HC</p></td>
 <td><p>STG</p></td>
@@ -531,7 +531,7 @@
 <tr class="even">
 <td><p>030</p></td>
 <td><p>02月23日</p></td>
-<td><p><span style="display:none">も01</span><a href="https://ja.wikipedia.org/wiki/モトローダー" title="wikilink">モトローダー</a></p></td>
+<td><p><span style="display:none">も01</span><a href="../Page/モトローダー.md" title="wikilink">モトローダー</a></p></td>
 <td><p><a href="../Page/日本コンピュータシステム.md" title="wikilink">メサイヤ</a></p></td>
 <td><p>HC</p></td>
 <td><p>RCG</p></td>
@@ -2776,7 +2776,7 @@
 <tr class="odd">
 <td><p>188</p></td>
 <td><p>10月12日</p></td>
-<td><p><span style="display:none">さ15</span><a href="https://ja.wikipedia.org/wiki/サイバーナイト" title="wikilink">サイバーナイト</a></p></td>
+<td><p><span style="display:none">さ15</span><a href="../Page/サイバーナイト.md" title="wikilink">サイバーナイト</a></p></td>
 <td><p><a href="../Page/トンキンハウス.md" title="wikilink">トンキンハウス</a></p></td>
 <td><p>HC</p></td>
 <td><p>RPG</p></td>
@@ -2804,7 +2804,7 @@
 <tr class="odd">
 <td><p>190</p></td>
 <td><p>10月19日</p></td>
-<td><p><span style="display:none">ら07</span><a href="https://ja.wikipedia.org/wiki/ラビオレプス" title="wikilink">ラビオレプス</a>スペシャル</p></td>
+<td><p><span style="display:none">ら07</span><a href="../Page/ラビオレプス.md" title="wikilink">ラビオレプス</a>スペシャル</p></td>
 <td><p><a href="../Page/ビデオシステム.md" title="wikilink">ビデオシステム</a></p></td>
 <td><p>HC</p></td>
 <td><p>ACT</p></td>
@@ -2930,7 +2930,7 @@
 <tr class="even">
 <td><p>199</p></td>
 <td><p>12月07日</p></td>
-<td><p><span style="display:none">さ31</span><a href="https://ja.wikipedia.org/wiki/サンダーブレード" title="wikilink">サンダーブレード</a></p></td>
+<td><p><span style="display:none">さ31</span><a href="../Page/サンダーブレード.md" title="wikilink">サンダーブレード</a></p></td>
 <td><p><span style="display:none">エヌ1</span><a href="../Page/NECアベニュー.md" title="wikilink">NECアベニュー</a></p></td>
 <td><p>HC</p></td>
 <td><p>STG</p></td>
@@ -3636,7 +3636,7 @@
 <tr class="even">
 <td><p>247</p></td>
 <td><p>03月29日</p></td>
-<td><p><span style="display:none">も02</span><a href="https://ja.wikipedia.org/wiki/モトローダー" title="wikilink">モトローダー</a>II</p></td>
+<td><p><span style="display:none">も02</span><a href="../Page/モトローダー.md" title="wikilink">モトローダー</a>II</p></td>
 <td><p><a href="../Page/日本コンピュータシステム.md" title="wikilink">メサイヤ</a></p></td>
 <td><p>HC</p></td>
 <td><p>RCG</p></td>
@@ -4686,7 +4686,7 @@
 <tr class="odd">
 <td><p>322</p></td>
 <td><p>12月20日</p></td>
-<td><p><span style="display:none">あ05</span><a href="https://ja.wikipedia.org/wiki/R-TYPE" title="wikilink">R-TYPE Complete CD</a></p></td>
+<td><p><span style="display:none">あ05</span><a href="../Page/R-TYPE.md" title="wikilink">R-TYPE Complete CD</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アイレム" title="wikilink">アイレム</a></p></td>
 <td><p>SC</p></td>
 <td><p>STG</p></td>
@@ -6357,7 +6357,7 @@
 <tr class="even">
 <td><p>439</p></td>
 <td><p>12月18日</p></td>
-<td><p><span style="display:none">も03</span><a href="https://ja.wikipedia.org/wiki/モトローダー" title="wikilink">モトローダー</a>MC</p></td>
+<td><p><span style="display:none">も03</span><a href="../Page/モトローダー.md" title="wikilink">モトローダー</a>MC</p></td>
 <td><p><a href="../Page/日本コンピュータシステム.md" title="wikilink">メサイヤ</a></p></td>
 <td><p>SC</p></td>
 <td><p>RCG</p></td>

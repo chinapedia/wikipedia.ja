@@ -38,7 +38,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 ### 原作小説に登場するキャラクター
 
   - ステア・ブーツ：[山野史人](../Page/山野史人.md "wikilink")
-  - トラップの父：[平尾仁](https://ja.wikipedia.org/wiki/平尾仁 "wikilink")彰
+  - トラップの父：[平尾仁](../Page/平尾仁.md "wikilink")彰
   - トラップの母：[麻見順子](../Page/麻見順子.md "wikilink")
   - アンダーソン：[堀部隆一](../Page/堀部隆一.md "wikilink")
   - クレイの母：[辻桃子](https://ja.wikipedia.org/wiki/奥以桃子 "wikilink")

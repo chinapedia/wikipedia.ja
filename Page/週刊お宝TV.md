@@ -51,7 +51,7 @@
 | 4                                | [5月5日](../Page/5月5日.md "wikilink")                      | GWスペシャル「昭和30年代 TVヒーロー伝説\!」                                      | [梨元勝](../Page/梨元勝.md "wikilink")                                                                                |
 | [柄本明](../Page/柄本明.md "wikilink") | [俳優](../Page/俳優.md "wikilink")                          | [1948年](../Page/1948年.md "wikilink")                            |                                                                                                                 |
 | 5                                | [5月12日](../Page/5月12日.md "wikilink")                    | [花の生涯](../Page/花の生涯_\(NHK大河ドラマ\).md "wikilink")                 | [1963年](../Page/1963年.md "wikilink")                                                                            |
-| 6                                | [5月19日](../Page/5月19日.md "wikilink")                    | [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")     | [1967年](../Page/1967年.md "wikilink")-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")                    |
+| 6                                | [5月19日](../Page/5月19日.md "wikilink")                    | [ウルトラセブン](../Page/ウルトラセブン.md "wikilink")                        | [1967年](../Page/1967年.md "wikilink")-[1968年](../Page/1968年.md "wikilink")                                       |
 | 7                                | [6月2日](../Page/6月2日.md "wikilink")                      | [ジェスチャー](../Page/ジェスチャー.md "wikilink")                          | [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")-1968年                                                   |
 | 8                                | [6月9日](../Page/6月9日.md "wikilink")                      | [お笑い三人組](../Page/お笑い三人組.md "wikilink")                          | 不明                                                                                                              |
 | 9                                | [6月23日](../Page/6月23日.md "wikilink")                    | [番頭はんと丁稚どん](https://ja.wikipedia.org/wiki/番頭はんと丁稚どん "wikilink") | 不明                                                                                                              |
@@ -60,7 +60,7 @@
 | 12                               | [7月21日](../Page/7月21日.md "wikilink")                    | [銭形平次](../Page/銭形平次_\(大川橋蔵\).md "wikilink")                     | 1966年-[1984年](../Page/1984年.md "wikilink")                                                                      |
 | 13                               | [8月4日](../Page/8月4日.md "wikilink")                      | [少年ジェット](../Page/少年ジェット.md "wikilink")                          | [1959年](../Page/1959年.md "wikilink")-[1960年](../Page/1960年.md "wikilink")                                       |
 | 14                               | [9月1日](../Page/9月1日.md "wikilink")                      | [私の秘密](../Page/私の秘密.md "wikilink")                              | [1955年](../Page/1955年.md "wikilink")-1967年                                                                      |
-| 15                               | [9月15日](../Page/9月15日.md "wikilink")                    | [ウルトラアイ](../Page/ウルトラアイ.md "wikilink")                          | [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") |
+| 15                               | [9月15日](../Page/9月15日.md "wikilink")                    | [ウルトラアイ](../Page/ウルトラアイ.md "wikilink")                          | [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")-[1986年](../Page/1986年.md "wikilink")                    |
 | 16                               | [9月29日](../Page/9月29日.md "wikilink")                    | [月光仮面](../Page/月光仮面.md "wikilink")                              | [1958年](../Page/1958年.md "wikilink")-1959年                                                                      |
 | 17                               | [10月6日](../Page/10月6日.md "wikilink")                    | [お笑いオンステージ](../Page/お笑いオンステージ.md "wikilink")                    | [1972年](../Page/1972年.md "wikilink")-[1982年](../Page/1982年.md "wikilink")                                       |
 | 18                               | [10月13日](../Page/10月13日.md "wikilink")                  | [新八犬伝](../Page/新八犬伝.md "wikilink")                              | [1973年](../Page/1973年.md "wikilink")-[1975年](../Page/1975年.md "wikilink")                                       |
@@ -153,7 +153,7 @@
 <td><p><a href="../Page/4月14日.md" title="wikilink">4月14日</a></p></td>
 <td><p>恋愛のカタチ</p></td>
 <td><p><a href="../Page/男女7人夏物語.md" title="wikilink">男女7人夏物語</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タッチ_(漫画)#テレビアニメ" title="wikilink">タッチ</a></p></td>
@@ -185,7 +185,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/肝っ玉かあさん.md" title="wikilink">肝っ玉かあさん</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>-複数</p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a>-複数</p></td>
 <td><p>TBS</p></td>
 <td></td>
 <td></td>
@@ -234,7 +234,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/巨人の星_(アニメ)" title="wikilink">巨人の星</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>-<a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a>-<a href="https://ja.wikipedia.org/wiki/1971年" title="wikilink">1971年</a></p></td>
 <td><p>読売テレビ</p></td>
 <td></td>
 <td></td>
@@ -251,7 +251,7 @@
 <td><p><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p>知るは楽しみなり</p></td>
 <td><p><a href="../Page/トヨタ日曜ドキュメンタリー_知られざる世界.md" title="wikilink">知られざる世界</a></p></td>
-<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>-<a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>-<a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/クイズ面白ゼミナール.md" title="wikilink">クイズ面白ゼミナール</a></p></td>
@@ -328,7 +328,7 @@
 <td><p><a href="../Page/12月8日.md" title="wikilink">12月8日</a></p></td>
 <td><p>伝説の男たち</p></td>
 <td><p><a href="../Page/太陽にほえろ!.md" title="wikilink">太陽にほえろ!</a></p></td>
-<td><p><a href="../Page/1972年.md" title="wikilink">1972年</a>-<a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1972年.md" title="wikilink">1972年</a>-<a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/男たちの旅路.md" title="wikilink">男たちの旅路</a></p></td>
@@ -417,7 +417,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/レッツゴーヤング.md" title="wikilink">レッツゴーヤング</a></p></td>
-<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>-<a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1974年.md" title="wikilink">1974年</a>-<a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>NHK</p></td>
 <td></td>
 <td></td>
@@ -437,7 +437,7 @@
 <td><p><a href="../Page/1975年.md" title="wikilink">1975年</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/翼をください_(テレビドラマ)" title="wikilink">翼をください</a></p></td>
+<td><p><a href="../Page/翼をください_(テレビドラマ).md" title="wikilink">翼をください</a></p></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 <td><p>NHK</p></td>
 <td></td>

@@ -219,7 +219,7 @@
 
   - [浜名孝行](../Page/浜名孝行.md "wikilink")
   - [錦織博](../Page/錦織博.md "wikilink")
-  - [山下喜光](https://ja.wikipedia.org/wiki/山下喜光 "wikilink")
+  - [山下喜光](../Page/山下喜光.md "wikilink")
   - [橋本貴吉](https://ja.wikipedia.org/wiki/橋本貴吉 "wikilink")
   - [石井明治](https://ja.wikipedia.org/wiki/石井明治 "wikilink")
 

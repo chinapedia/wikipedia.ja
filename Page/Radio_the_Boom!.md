@@ -107,7 +107,7 @@
           -
             毎回出題するお題に対して、意見をお聞きする「○○（ナントカ）ノバ」、ブーンのサークル活動の場。前半は[新静岡セノバ](https://ja.wikipedia.org/wiki/新静岡セノバ "wikilink")スタッフ生出演による「PRノバ」。後半はお題に対するメッセージを紹介し、毎回お店独自の商品をプレゼント。
   - 17:35 -
-  - 17:45 - **[SUZUKI](../Page/スズキ_\(企業\).md "wikilink") presents [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")の [TAG-TUNE DRIVING](https://ja.wikipedia.org/wiki/TAG-TUNE_DRIVING "wikilink")** （[TOKYO FM制作](../Page/エフエム東京.md "wikilink")）
+  - 17:45 - **[SUZUKI](../Page/スズキ_\(企業\).md "wikilink") presents [KAT-TUN](../Page/KAT-TUN.md "wikilink") [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")の [TAG-TUNE DRIVING](https://ja.wikipedia.org/wiki/TAG-TUNE_DRIVING "wikilink")** （[TOKYO FM制作](../Page/エフエム東京.md "wikilink")）
   - 17:55 - **K-MIX Traffic & Weather Information**
   - 18:00 - **WEEKLY DISC**
       -
@@ -160,7 +160,7 @@
   - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")王国、静岡県の番組であることに因み「今日もK-MIX Radio the Boom\! KICK OFFです！」という掛け声により始まる\[32\]。
   - 番組のジングルの歌詞は「Boom\! Radio come together K-MIX Radio the Boom\!」である\[33\]。
   - かつて、「[iショット](https://ja.wikipedia.org/wiki/iショット "wikilink")ダイアリー\[34\]」を使った写真日記をリアルタイムで更新していた\[35\]（webサイトと連動）。2007年10月より「パーソナリティブログ」に変更。
-  - かつて、番組の様子は[Vライブ](../Page/Vライブ.md "wikilink")で見ることができた。「[ラジオ劇団『小さな奇跡』](https://ja.wikipedia.org/wiki/ラジオ劇団『小さな奇跡』 "wikilink")」の時間帯と、放送終了後にはスタッフと自由にトークする姿が見られた。木曜日には、ジーパン先生で紹介できなかったネタを「Vパン先生」として読み上げていた。
+  - かつて、番組の様子は[Vライブ](../Page/Vライブ.md "wikilink")で見ることができた。「[ラジオ劇団『小さな奇跡』](../Page/ラジオ劇団『小さな奇跡』.md "wikilink")」の時間帯と、放送終了後にはスタッフと自由にトークする姿が見られた。木曜日には、ジーパン先生で紹介できなかったネタを「Vパン先生」として読み上げていた。
 
 ## 脚注
 

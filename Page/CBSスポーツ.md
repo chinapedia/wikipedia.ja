@@ -15,7 +15,7 @@
   - [カレッジフットボール](../Page/カレッジフットボール.md "wikilink")
       - [サウスイースタン・カンファレンス](../Page/サウスイースタン・カンファレンス.md "wikilink")（SEC on CBS、[1996年](../Page/1996年.md "wikilink") - ）
       - [マウンテン・ウェスト・カンファレンス](https://ja.wikipedia.org/wiki/マウンテン・ウェスト・カンファレンス "wikilink")選手権（2013年 - ）
-      - [サンボウル](https://ja.wikipedia.org/wiki/サンボウル "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ）
+      - [サンボウル](https://ja.wikipedia.org/wiki/サンボウル "wikilink")（[1968年](../Page/1968年.md "wikilink") - ）
       - アーミー・ネイビー・ゲーム（[1996年](../Page/1996年.md "wikilink") - ）
 
 <!-- end list -->
@@ -37,7 +37,7 @@
       - Major League Baseball on CBS（[1955年](../Page/1955年.md "wikilink") - [1965年](../Page/1965年.md "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [1993年](../Page/1993年.md "wikilink")）
       - [ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [1993年](../Page/1993年.md "wikilink")）
   - [NBA](../Page/NBA.md "wikilink")（NBA on CBS、[1973年](../Page/1973年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）
-  - [NHL](https://ja.wikipedia.org/wiki/NHL "wikilink")（NHL on CBS、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1972年](../Page/1972年.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）
+  - [NHL](https://ja.wikipedia.org/wiki/NHL "wikilink")（NHL on CBS、[1968年](../Page/1968年.md "wikilink") - [1972年](../Page/1972年.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）
   - [冬季オリンピック](../Page/冬季オリンピック.md "wikilink")（[スコーバレー](../Page/1960年スコーバレーオリンピック.md "wikilink")（[1960年](../Page/1960年.md "wikilink")）、[札幌](https://ja.wikipedia.org/wiki/1972年札幌オリンピック "wikilink")（[1972年](../Page/1972年.md "wikilink")）、[アルベールビル](https://ja.wikipedia.org/wiki/1992年アルベールビルオリンピック "wikilink")（[1992年](../Page/1992年.md "wikilink")）、[リレハンメル](https://ja.wikipedia.org/wiki/1994年リレハンメルオリンピック "wikilink")（[1994年](../Page/1994年.md "wikilink")）、[長野](../Page/1998年長野オリンピック.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")））
   - [全米オープンテニス](../Page/全米オープン_\(テニス\).md "wikilink")（1968年 - 2014年）
   - [総合格闘技](../Page/総合格闘技.md "wikilink")

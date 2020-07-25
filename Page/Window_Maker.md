@@ -1,7 +1,7 @@
 > この記事は[Window Maker](https://ja.wikipedia.org/wiki/Window_Maker)から翻訳されています。
 
 
-**Window Maker**（**ウィンドウメーカー**）は、[Unix系](../Page/Unix系.md "wikilink")オペレーティングシステムでアプリケーションソフトウェアの利用を視覚的に可能にする、[X Window System用の](../Page/X_Window_System.md "wikilink")[フリーでオープンソースな](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")である。[OpenStep](https://ja.wikipedia.org/wiki/OpenStep "wikilink")互換環境である[NeXTSTEP](https://ja.wikipedia.org/wiki/NeXTSTEP "wikilink")の[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を模倣する事を目指している。[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")に所属している。
+**Window Maker**（**ウィンドウメーカー**）は、[Unix系](../Page/Unix系.md "wikilink")オペレーティングシステムでアプリケーションソフトウェアの利用を視覚的に可能にする、[X Window System用の](../Page/X_Window_System.md "wikilink")[フリーでオープンソースな](../Page/FLOSS.md "wikilink")[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")である。[OpenStep](https://ja.wikipedia.org/wiki/OpenStep "wikilink")互換環境である[NeXTSTEP](https://ja.wikipedia.org/wiki/NeXTSTEP "wikilink")の[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を模倣する事を目指している。[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")に所属している。
 
 ## 概要
 

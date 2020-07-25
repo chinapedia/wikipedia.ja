@@ -37,7 +37,7 @@
       - 格鬥天王 (薇如)
       - [カエルになった王子様](../Page/カエルになった王子様.md "wikilink") (小喬,喬恩)
   - 2006年
-      - [ラヴスタイリスト](https://ja.wikipedia.org/wiki/ラヴスタイリスト "wikilink") (小潔,小喬,薇如)
+      - [ラヴスタイリスト](../Page/ラヴスタイリスト.md "wikilink") (小潔,小喬,薇如)
       - 星蘋果樂園 (薇如)
       - [微笑pasta](https://ja.wikipedia.org/wiki/微笑パスタ "wikilink") (小喬,薇如)
       - 剪刀石頭布 (喬恩)

@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド、[ブリザードの元ギタリスト](../Page/ブリザード_\(バンド\).md "wikilink")。[川島だりあ](../Page/川島だりあ.md "wikilink")作曲の「DON'T FORGET YOU」リリース後、TWINZERに加入。「STOP IN THE BURNIN' LOVE」リリース後、体調を崩したことを理由に、脱退。作曲家として、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")などの楽曲を手がけた。愛称は「**RAN**」。
+    [ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド、[ブリザードの元ギタリスト](../Page/ブリザード_\(バンド\).md "wikilink")。[川島だりあ](../Page/川島だりあ.md "wikilink")作曲の「DON'T FORGET YOU」リリース後、TWINZERに加入。「STOP IN THE BURNIN' LOVE」リリース後、体調を崩したことを理由に、脱退。作曲家として、[ZARD](../Page/ZARD.md "wikilink")などの楽曲を手がけた。愛称は「**RAN**」。
 
 アルバム「FIFTH HARD CORE」以降のメンバー
 

@@ -108,8 +108,8 @@
 ### 音楽（ドラマCD）
 
   - 音楽 - [片倉三起也](../Page/片倉三起也.md "wikilink")（ALI PROJECT）
-  - 主題歌 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")「[Wish](https://ja.wikipedia.org/wiki/Wish_\(ALI_PROJECTの曲\) "wikilink")」
-  - 挿入歌 - ALI PROJECT 「[夢のあとに après un réve](https://ja.wikipedia.org/wiki/Wish_\(ALI_PROJECTの曲\) "wikilink")」
+  - 主題歌 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")「[Wish](../Page/Wish_\(ALI_PROJECTの曲\).md "wikilink")」
+  - 挿入歌 - ALI PROJECT 「[夢のあとに après un réve](../Page/Wish_\(ALI_PROJECTの曲\).md "wikilink")」
       - 琇一郎の母、蛍の子守唄として登場する。
 
 ## アニメーションクリップ
@@ -123,7 +123,7 @@
 
 ### 音楽（アニメーションクリップ）
 
-  - オープニング「[Wish](https://ja.wikipedia.org/wiki/Wish_\(ALI_PROJECTの曲\) "wikilink")」
+  - オープニング「[Wish](../Page/Wish_\(ALI_PROJECTの曲\).md "wikilink")」
   - エンディング「エンジェル･エッグの作り方〜for Ruri & Hari」
       - 共に作詞 - [宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink") / 作曲 - [片倉三起也](../Page/片倉三起也.md "wikilink") / 歌 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")
 

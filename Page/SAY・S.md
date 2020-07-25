@@ -6,7 +6,7 @@
 ## 概要・来歴・エピソード
 
   - [光GENJI](../Page/光GENJI.md "wikilink")のメンバーを年齢順・誕生日順に並べた際に、若い方から数えた4人で結成されたユニットである。
-  - グループ名の由来は、メンバーそれぞれの苗字のイニシャルから。（S：[佐藤敦啓](../Page/佐藤アツヒロ.md "wikilink")、A：[赤坂](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、Y：[山本](../Page/山本淳一.md "wikilink")、S：[佐藤寛之](../Page/佐藤寛之.md "wikilink")）。このメンバーの頭文字を使ってグループ名にする方式は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")において先がけとされ、後に結成された事務所の後輩グループである[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")、[NYCにも採用されている](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")。
+  - グループ名の由来は、メンバーそれぞれの苗字のイニシャルから。（S：[佐藤敦啓](../Page/佐藤アツヒロ.md "wikilink")、A：[赤坂](../Page/赤坂晃.md "wikilink")、Y：[山本](../Page/山本淳一.md "wikilink")、S：[佐藤寛之](../Page/佐藤寛之.md "wikilink")）。このメンバーの頭文字を使ってグループ名にする方式は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")において先がけとされ、後に結成された事務所の後輩グループである[KAT-TUN](../Page/KAT-TUN.md "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")、[NYCにも採用されている](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")。
   - 母体となるグループから内部ユニットが派生するスタイルは[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")（[舞祭組](https://ja.wikipedia.org/wiki/舞祭組 "wikilink")）などにも見られる。
   - 光GENJIの時はコンサートでもあまり話す機会のない4人だが、4人だけでの場面では皆の発言回数は多く、主に赤坂が仕切り担当となっていた。
   - GENJIから[諸星和己](../Page/諸星和己.md "wikilink")を抜いた形のユニットということで、5人から4人になるのはどのような感じかを聞かれた際には、「4人平等なラインに立って何する時にも一緒に出てますから、力強いってのはありますよね」と赤坂が答えている。また山本は「SAY・Sにリーダーは居ない」と発言している。
@@ -33,7 +33,7 @@
 <td><p>現在は<strong>佐藤アツヒロ</strong>に改名。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>A</strong> <strong><a href="https://ja.wikipedia.org/wiki/赤坂晃" title="wikilink">赤坂晃</a></strong><br />
+<td><p><strong>A</strong> <strong><a href="../Page/赤坂晃.md" title="wikilink">赤坂晃</a></strong><br />
 <small>（あかさか あきら）</small></p></td>
 <td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#B型の亜種" title="wikilink">B型</a></p></td>
 <td></td>

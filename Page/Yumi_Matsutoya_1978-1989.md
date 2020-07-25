@@ -257,7 +257,7 @@
 </tr>
 <tr class="odd">
 <td><p>Disc.14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
 </tr>
 <tr class="even">
 <td><center>

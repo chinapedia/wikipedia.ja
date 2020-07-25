@@ -72,7 +72,7 @@
 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")                 |
 | [1984年](../Page/1984年.md "wikilink")                                    |
 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")                 |
-| [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")                 |
+| [1986年](../Page/1986年.md "wikilink")                                    |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")                 |
 | [1988年](../Page/1988年.md "wikilink")                                    |
 | [1989年](../Page/1989年.md "wikilink")                                    |
@@ -132,7 +132,7 @@
 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")                 |
 | [1984年](../Page/1984年.md "wikilink")                                    |
 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")                 |
-| [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")                 |
+| [1986年](../Page/1986年.md "wikilink")                                    |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")                 |
 | [1988年](../Page/1988年.md "wikilink")                                    |
 | [1989年](../Page/1989年.md "wikilink")                                    |
@@ -392,7 +392,7 @@
 <td><p>ナダル (3位)</p></td>
 <td><p>フェレール<br />
 ( ラオニッチの代役)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェリシアーノ・ロペス" title="wikilink">ロペス</a></p></td>
+<td><p><a href="../Page/フェリシアーノ・ロペス.md" title="wikilink">ロペス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>

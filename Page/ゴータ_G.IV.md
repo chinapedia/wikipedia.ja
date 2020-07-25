@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Gothg4.jpg "wikilink")
 
-**ゴータ G.IV**（）は、[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")の[ゴータ社によって製造された双発の重](https://ja.wikipedia.org/wiki/ゴータ車両製造 "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")。
+**ゴータ G.IV**（）は、[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")の[ゴータ社によって製造された双発の重](../Page/ゴータ車両製造.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")。
 
 ## 概要
 

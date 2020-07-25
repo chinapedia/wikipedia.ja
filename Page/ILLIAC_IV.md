@@ -23,7 +23,7 @@ Solomonプロジェクトの研究者ダニエル・スロトニックは[イリ
 
 大学で研究したことは、いかにしてデータをPEにばらまくかである。この問題（SIMD設計）を解決しなければ、ILLIAC IV の存在価値はない。これをなるべく容易にするためにいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")が開発された。IVTRAN と TRANQUIL は[FORTRAN](../Page/FORTRAN.md "wikilink")を並列化した言語であり、Glypnir は[ALGOL](../Page/ALGOL.md "wikilink")を並列化したものである。これらの言語は配列データをPEにばらまき、並列に処理をするもので、配列に対するループ処理を並列実行するように展開する機能を持つものもあった。
 
-1960年代後半に製作が開始されたとき、大学と国防総省との関係が問題視され始め、抗議活動が始まった。1970年5月9日、"Illiaction" と呼ばれるこの日に抗議活動が頂点に達した。ウィスコンシン大学での[8月24日の爆破事件](http://www.leemark.com/featuredcontent/sterling/sterling.html)をきっかけとしてイリノイ大学は ILLIAC IV の開発をもっと安全な場所に移すことを決定した。これには[NASAが手を挙げた](../Page/アメリカ航空宇宙局.md "wikilink")。NASAは[アポロ後で金が余っていて](../Page/アポロ計画.md "wikilink")、様々な先端技術に興味を持っていた。NASAは新たにコンピュータ部門を立ち上げ、ILLIAC IV を[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[エイムズ研究センター](https://ja.wikipedia.org/wiki/エイムズ研究センター "wikilink")に移した。
+1960年代後半に製作が開始されたとき、大学と国防総省との関係が問題視され始め、抗議活動が始まった。1970年5月9日、"Illiaction" と呼ばれるこの日に抗議活動が頂点に達した。ウィスコンシン大学での[8月24日の爆破事件](http://www.leemark.com/featuredcontent/sterling/sterling.html)をきっかけとしてイリノイ大学は ILLIAC IV の開発をもっと安全な場所に移すことを決定した。これには[NASAが手を挙げた](../Page/アメリカ航空宇宙局.md "wikilink")。NASAは[アポロ後で金が余っていて](../Page/アポロ計画.md "wikilink")、様々な先端技術に興味を持っていた。NASAは新たにコンピュータ部門を立ち上げ、ILLIAC IV を[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[エイムズ研究センター](../Page/エイムズ研究センター.md "wikilink")に移した。
 
 この移転でさらに開発は遅れて、1972年までに完成しなかった。この時点で1966年の当初予算 800万ドルは、性能目標が低下したにも関わらず 3100万ドルにまで膨れ上がっていた（この時点の性能目標はピークで 150MFLOPS、平均で 100MFLOPS 程度）。並列性の問題があってもその性能は当時の世界最高速であり、[CDC 7600の二倍から六倍である](../Page/CDC_7600.md "wikilink")。NASAから見れば、このマシンは[計算流体力学](https://ja.wikipedia.org/wiki/計算流体力学 "wikilink")に最適のアーキテクチャだった。
 

@@ -23,7 +23,7 @@
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/エキスプレスより、[レコード](../Page/レコード.md "wikilink")、[カセットテープの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。
 
-その後、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に初[CD化され](../Page/コンパクトディスク.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。
+その後、[1986年](../Page/1986年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に初[CD化され](../Page/コンパクトディスク.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に24ビット・[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")、[紙ジャケット仕様で再リリースされた](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。
 
 また、同名のライブビデオが1983年[9月21日](../Page/9月21日.md "wikilink")にリリースされた。こちらは別の形態での再リリースはされていない。
 
@@ -117,7 +117,7 @@ ZH40-1349〜50</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td><p>東芝EMI／エキスプレス</p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>CA25-1286〜7</p></td>

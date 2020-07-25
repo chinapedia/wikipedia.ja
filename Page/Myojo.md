@@ -246,7 +246,7 @@
 
 #### 恋人にしたいアイドル
 
-同誌に載っているアイドル全員（嵐、NEWS、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、Hey\! Say\! JUMP、ジャニーズJr.など）を含むランキング。順位は読者の投票で決まる。
+同誌に載っているアイドル全員（嵐、NEWS、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")、Hey\! Say\! JUMP、ジャニーズJr.など）を含むランキング。順位は読者の投票で決まる。
 
   - 歴代1位受賞者
 
@@ -292,7 +292,7 @@
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")

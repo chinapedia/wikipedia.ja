@@ -148,7 +148,7 @@
 <td><p>デビッド・グラハム[9]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>第14回</p></td>
 <td><p></p></td>
 <td><p>274 (−14)</p></td>
@@ -524,7 +524,7 @@
 2.  大会初期の1972年から1978年までは10月開催だった。
 3.  大会初期の1972年から1976年までは、[千葉県](../Page/千葉県.md "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")の総武カントリークラブ総武コースで開催されていた。
 4.
-5.  旧住友銀行時代からの関係で過去には[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")製の車が贈呈されていたが、その後マツダが[フォードの傘下に入った事](../Page/フォード・モーター.md "wikilink")（現在は資本関係は解消され、技術協力のみとなっている）によりBMWに変更された。
+5.  旧住友銀行時代からの関係で過去には[マツダ](../Page/マツダ.md "wikilink")製の車が贈呈されていたが、その後マツダが[フォードの傘下に入った事](../Page/フォード・モーター.md "wikilink")（現在は資本関係は解消され、技術協力のみとなっている）によりBMWに変更された。
 6.
 7.  [11月「三井住友－」開催結論出ず／国内男子](http://www.sanspo.com/golf/news/20120508/jgt12050805010000-n1.html) - [サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")、2012年5月8日配信
 8.  [2016年大会要領](http://msvt-masters.jp/about.html) - 三井住友VISA太平洋マスターズ公式サイト、2016年11月10日閲覧

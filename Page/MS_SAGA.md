@@ -1,7 +1,7 @@
 > この記事は[MS SAGA](https://ja.wikipedia.org/wiki/MS_SAGA)から翻訳されています。
 
 
-『**MS SAGA**』（サーガ）は、[バンダイ](../Page/バンダイ.md "wikilink")および[メディアワークス](../Page/メディアワークス.md "wikilink")（現[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）より刊行された[ガンダム専門の](../Page/ガンダムシリーズ一覧.md "wikilink")[アンソロジーコミック](../Page/アンソロジーコミック.md "wikilink")集。
+『**MS SAGA**』（サーガ）は、[バンダイ](../Page/バンダイ.md "wikilink")および[メディアワークス](../Page/メディアワークス.md "wikilink")（現[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）より刊行された[ガンダム専門の](../Page/ガンダムシリーズ一覧.md "wikilink")[アンソロジーコミック](../Page/アンソロジーコミック.md "wikilink")集。
 
 『[サイバーコミックス](../Page/サイバーコミックス.md "wikilink")』の後継誌であり[1993年](../Page/1993年.md "wikilink")2月15日に第1巻が発売、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月15日発売の第10巻まで発行された。第3巻までがバンダイ刊行で、残りはメディアワークス刊行である。『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』の前身のうちのひとつで、[近藤和久](../Page/近藤和久.md "wikilink")の『[機動戦士ガンダム0079](../Page/機動戦士ガンダム0079.md "wikilink")』の連載が引き継がれており、連載陣も共通している部分がある。
 

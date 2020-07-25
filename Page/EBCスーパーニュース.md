@@ -146,6 +146,6 @@
   - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
   - テレチュー2・5h
-  - [EBCニュース](https://ja.wikipedia.org/wiki/EBCニュース "wikilink")
+  - [EBCニュース](../Page/EBCニュース.md "wikilink")
 
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ愛媛の番組](https://ja.wikipedia.org/wiki/Category:テレビ愛媛の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")

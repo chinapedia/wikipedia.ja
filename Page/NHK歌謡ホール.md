@@ -1,7 +1,7 @@
 > この記事は[NHK歌謡ホール](https://ja.wikipedia.org/wiki/NHK歌謡ホール)から翻訳されています。
 
 
-『**NHK歌謡ホール**』（エヌエイチケイかようホール）は、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた[音楽番組](../Page/音楽番組.md "wikilink")である。
+『**NHK歌謡ホール**』（エヌエイチケイかようホール）は、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 放送時間は火曜20:00 - 20:50（1985年4月以降は火曜20:00 - 20:45）。原則として[NHKホール](../Page/NHKホール.md "wikilink")からの中継形式で放送されていた。
 
@@ -14,7 +14,7 @@
 ## 司会
 
   - [生方恵一](../Page/生方恵一.md "wikilink")（当時[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](../Page/日本のアナウンサー.md "wikilink")）（[1981年](../Page/1981年.md "wikilink")4月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")8月）
-  - [千田正穂](../Page/千田正穂.md "wikilink")（当時NHKアナウンサー）（1985年9月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月）
+  - [千田正穂](../Page/千田正穂.md "wikilink")（当時NHKアナウンサー）（1985年9月 - [1986年](../Page/1986年.md "wikilink")3月）
 
 ## 外部リンク
 

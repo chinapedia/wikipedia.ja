@@ -350,7 +350,7 @@ UMCK-1391:通常盤</p></td>
   - [MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")『[GARDEN](https://ja.wikipedia.org/wiki/GARDEN_\(MAKAIのアルバム\) "wikilink")』（2008年3月5日）
       - 1\. Message feat.WISE
       - 9\. In The World feat.WISE
-  - [AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")『[こよいキミに恋をして](https://ja.wikipedia.org/wiki/こよいキミに恋をして "wikilink")』（2008年4月23日）
+  - [AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")『[こよいキミに恋をして](../Page/こよいキミに恋をして.md "wikilink")』（2008年4月23日）
       - 1\. こいよキミに恋をして
   - [SONPUB](https://ja.wikipedia.org/wiki/SONPUB "wikilink")『80 T.O 08 HAHA』（2008年9月10日）
       - 5\. THE MAGIC feat.WISE\&L−VOKAL

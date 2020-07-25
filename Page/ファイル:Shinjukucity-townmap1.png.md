@@ -31,8 +31,8 @@
       - [1984年](../Page/1984年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")：市谷本村町
       - [1984年](../Page/1984年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：市谷仲之町
       - [1984年](../Page/1984年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：河田町
-      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")：住吉町
-      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")：余丁町
+      - [1986年](../Page/1986年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")：住吉町
+      - [1986年](../Page/1986年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")：余丁町
       - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：揚場町
       - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：神楽河岸
       - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")：下宮比町

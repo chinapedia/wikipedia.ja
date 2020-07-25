@@ -9,7 +9,7 @@
 
   - [1979年](../Page/1979年.md "wikilink") - 親に勧められて4歳から[バイオリンを弾き始める](../Page/ヴァイオリン.md "wikilink")。
   - [1981年](../Page/1981年.md "wikilink") - 小学校時代に「<span lang="de">Jugend Musiziert</span>」コンサートで準優勝。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 11歳からは[クラシック音楽](../Page/クラシック音楽.md "wikilink")を取り入れた[ロックバンドを立ち上げる](../Page/ロック_\(音楽\).md "wikilink")。
+  - [1986年](../Page/1986年.md "wikilink") - 11歳からは[クラシック音楽](../Page/クラシック音楽.md "wikilink")を取り入れた[ロックバンドを立ち上げる](../Page/ロック_\(音楽\).md "wikilink")。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - 中学校時代には父親に[ローランド](../Page/ローランド.md "wikilink")の「ミュージ君」を与えられ、打ち込み音楽に目覚める。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 友人のDJ SubSimonとともに「Electro Tunes」名義でテクノ音楽の発表を開始。
   - [1999年](../Page/1999年.md "wikilink") - [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の音楽ゲーム[beatmania IIDXをはじめとする](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")、[BEMANI](https://ja.wikipedia.org/wiki/BEMANI "wikilink")シリーズへの楽曲提供を開始。

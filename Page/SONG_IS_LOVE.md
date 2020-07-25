@@ -298,7 +298,7 @@ from August 15 to September 2,1976.</p></td>
 
 ### 解説
 
-[2005年](../Page/2005年.md "wikilink")、レコード・デビュー35周年にあわせ“オリジナル・アルバム15タイトル紙ジャケット・シリーズ”としてエキスプレス・レーベル在籍中のオリジナル作品がリイシュー。24ビット・デジタル・リマスタリング、オリジナルLP装丁を復刻した紙ジャケット仕様にてリリースされた。[2009年](../Page/2009年.md "wikilink")には[SHM-CDフォーマット](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")、通常のプラ・ケース仕様で再発された。
+[2005年](../Page/2005年.md "wikilink")、レコード・デビュー35周年にあわせ“オリジナル・アルバム15タイトル紙ジャケット・シリーズ”としてエキスプレス・レーベル在籍中のオリジナル作品がリイシュー。24ビット・デジタル・リマスタリング、オリジナルLP装丁を復刻した紙ジャケット仕様にてリリースされた。[2009年](../Page/2009年.md "wikilink")には[SHM-CDフォーマット](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")、通常のプラ・ケース仕様で再発された。
 
 ### 収録曲
 
@@ -435,7 +435,7 @@ from August 15 to September 2,1976.</p></td>
 <td><p>12</p></td>
 <td></td>
 <td><p>エキスプレス ⁄ <a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">EMIミュージック・ジャパン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD" title="wikilink">SHM-CD</a></p></td>
+<td><p><a href="../Page/スーパー・ハイ・マテリアルCD.md" title="wikilink">SHM-CD</a></p></td>
 <td><p>TOCT-95035</p></td>
 <td><p> </p></td>
 </tr>

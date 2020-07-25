@@ -397,7 +397,7 @@
     本作の[攻略本](../Page/攻略本.md "wikilink")。
   - MOTHER―The Original Story（1989年8月、久美沙織、[新潮社](../Page/新潮社.md "wikilink") [新潮文庫](../Page/新潮文庫.md "wikilink")）
     本作の小説化。おんなのこ（アナ）の視点で物語が展開される。物語の大枠は本編と共通しているものの、登場人物の容姿や性格設定などが原作とは大きく異なり、結末も違っている。あとがきによれば、ゲーム完成前のROMのプレイと初期設定資料集を元に書かれているとのことである。
-  - マザー 未知からの挑戦（1989年12月、[樋口明雄](../Page/樋口明雄.md "wikilink") / [スタジオ・ハード](https://ja.wikipedia.org/wiki/スタジオ・ハード "wikilink")、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") [冒険ゲームブックシリーズ](https://ja.wikipedia.org/wiki/冒険ゲームブックシリーズ "wikilink")）
+  - マザー 未知からの挑戦（1989年12月、[樋口明雄](../Page/樋口明雄.md "wikilink") / [スタジオ・ハード](https://ja.wikipedia.org/wiki/スタジオ・ハード "wikilink")、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") [冒険ゲームブックシリーズ](../Page/冒険ゲームブックシリーズ.md "wikilink")）
     本作の物語を基にした[ゲームブック](../Page/ゲームブック.md "wikilink")。
 
 ### 音楽

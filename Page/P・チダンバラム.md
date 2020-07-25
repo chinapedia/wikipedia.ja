@@ -13,7 +13,7 @@
 
 ### 政治家としての経歴
 
-左翼政治家として出発し、[1984年](../Page/1984年.md "wikilink")にタミル・ナードゥ州の[シヴァガンガイ](../Page/シヴァガンガイ.md "wikilink")選挙区から[インド下院選挙に出馬して初当選](https://ja.wikipedia.org/wiki/ローク・サバー "wikilink")。
+左翼政治家として出発し、[1984年](../Page/1984年.md "wikilink")にタミル・ナードゥ州の[シヴァガンガイ](../Page/シヴァガンガイ.md "wikilink")選挙区から[インド下院選挙に出馬して初当選](../Page/ローク・サバー.md "wikilink")。
 
 [ラジーヴ・ガンディー](../Page/ラジーヴ・ガンディー.md "wikilink")政権のもと、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1989年](../Page/1989年.md "wikilink")の間、タミル・ナードゥ州内閣の商業担当相として、[国民会議派](https://ja.wikipedia.org/wiki/国民会議派 "wikilink")による経済改革に参画した。[1991年](../Page/1991年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")には、[ナラシンハ・ラーオ](../Page/ナラシンハ・ラーオ.md "wikilink")政権のもとで再びタミル・ナードゥ州内閣の商業担当相となった。
 

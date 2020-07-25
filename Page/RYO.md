@@ -19,7 +19,7 @@
       - [RYO (ORANGE RANGE)](../Page/RYO_\(ORANGE_RANGE\).md "wikilink") - [ORANGE RANGEのヴォーカリスト](../Page/ORANGE_RANGE.md "wikilink") (1985–)。
       - RYO (前田亮太) - COLOR・[DEEPのメンバー](../Page/DEEP_\(歌手グループ\).md "wikilink") (1986–)。
       - Яyo - [girugämesh](https://ja.wikipedia.org/wiki/girugämesh "wikilink")のドラマー (1986–)。
-      - RYO - LGY・[LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink")の元MC。
+      - RYO - LGY・[LGYankees](../Page/LGYankees.md "wikilink")の元MC。
       - RYO - LOONIE・[キャラメルペッパーズ](../Page/キャラメルペッパーズ.md "wikilink")のMC。
       - RYO - [Beat Buddy BoiのMPCなど](https://ja.wikipedia.org/wiki/Beat_Buddy_Boi "wikilink")。
       - Ryo - [supercell](https://ja.wikipedia.org/wiki/supercell "wikilink")のクリエイター。

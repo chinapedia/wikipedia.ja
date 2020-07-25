@@ -30,7 +30,7 @@
       - 現在はソロプロジェクトTOGUAR（のちThe Creeplands）として音楽活動を続ける一方、THE HIGH STREETSのベーシストとしての活動もスタートしている。
   - **川添宏之**（Bass／[1975年](../Page/1975年.md "wikilink")（昭和50年）11月23日生まれ） 横浜市出身．B型
       - 使用ギター…フェンダー・[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")
-      - 使用アンプ…[トレース･エリオット](https://ja.wikipedia.org/wiki/トレース･エリオット "wikilink")、[アンペグ](https://ja.wikipedia.org/wiki/アンペグ "wikilink")
+      - 使用アンプ…[トレース･エリオット](https://ja.wikipedia.org/wiki/トレース･エリオット "wikilink")、[アンペグ](../Page/アンペグ.md "wikilink")
       - 愛称 ゾエ
   - **黒沼征孝**（Drums／[1975年](../Page/1975年.md "wikilink")（昭和50年）4月15日生まれ） 横浜育ち．A型
       - 愛称 ジョー

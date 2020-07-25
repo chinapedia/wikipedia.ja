@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1986_AFC女子選手権.md" title="wikilink">6</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
@@ -206,7 +206,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008_AFC女子アジアカップ" title="wikilink">16</a></p></td>
+<td><p><a href="../Page/2008_AFC女子アジアカップ.md" title="wikilink">16</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -874,7 +874,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008_AFC女子アジアカップ" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/2008_AFC女子アジアカップ.md" title="wikilink">2008</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/澤穂希" title="wikilink">澤穂希</a></p></td>
 <td><p><a href="../Page/李今淑.md" title="wikilink">李琴淑</a></p></td>
 <td><p>7</p></td>

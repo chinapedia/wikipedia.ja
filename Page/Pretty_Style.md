@@ -15,7 +15,7 @@
 
 [2011年](../Page/2011年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")、小学館は本誌を2011年12月号（2011年11月1日発売）にて休刊することを発表\[1\]。公式ブログであるPSBLOGでも「悲しい。ごめんね。12月号で休刊します。」というタイトル記事で発表した。休刊理由として『広告収入の低迷』と『若者のライフスタイルの変化』を掲げている。
 
-最終号のカバーガールは[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")。
+最終号のカバーガールは[蒼井優](../Page/蒼井優.md "wikilink")。
 
 ## 主なモデル
 
@@ -47,7 +47,7 @@
   - [沖樹莉亜](../Page/沖樹莉亜.md "wikilink")
   - [麻里](https://ja.wikipedia.org/wiki/麻里 "wikilink")
   - [ティアラ](../Page/ティアラ_\(ファッションモデル\).md "wikilink")
-  - [夢子](https://ja.wikipedia.org/wiki/夢子 "wikilink")
+  - [夢子](../Page/夢子.md "wikilink")
   - [福田明子](../Page/福田明子.md "wikilink")
   - [岡本裕里](https://ja.wikipedia.org/wiki/岡本裕里 "wikilink")
   - [松田園子](../Page/松田園子.md "wikilink")

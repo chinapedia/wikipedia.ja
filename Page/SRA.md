@@ -28,7 +28,7 @@
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 名古屋営業所(現 中部事業所)を開設
   - 1984年（昭和59年）11月 - SRA AMERICA, INC.設立
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 株式会社九州エス・アール・エー(現 株式会社SRA西日本)を設立
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 株式会社ソフトウエア・システム・サービスを合併
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 株式会社ソフトウエア・システム・サービスを合併
   - 1986年（昭和61年）12月 - 株式会社東北エス・アール・エー(現 株式会社SRA東北)を設立
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - **GNUプロジェクト**に支援・参画
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）[6月](../Page/6月.md "wikilink") - **株式会社SRA**（[登記](../Page/登記.md "wikilink")上は**株式会社エスアールエー**）に商号変更

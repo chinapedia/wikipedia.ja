@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tablet_of_FRISK-1.jpg "wikilink") **FRISK** （**フリスク**） はオランダの[ペルフェティ・ファン・メレ](https://ja.wikipedia.org/wiki/ペルフェティ・ファン・メレ "wikilink")社が世界展開する[ミント](../Page/ミント.md "wikilink")風味の[シュガーレス](../Page/シュガーレス.md "wikilink")清涼[菓子](../Page/菓子.md "wikilink")ブランド。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の薬局で[錠菓](../Page/錠菓.md "wikilink")として販売されたのが最初である。日本では[クラシエフーズ](../Page/クラシエフーズ.md "wikilink")株式会社（旧・カネボウフーズ株式会社）が[1994年](../Page/1994年.md "wikilink")から本格的に輸入販売を開始、その後、世界的に、特に日本で人気が急拡大した。
+[1986年](../Page/1986年.md "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の薬局で[錠菓](../Page/錠菓.md "wikilink")として販売されたのが最初である。日本では[クラシエフーズ](../Page/クラシエフーズ.md "wikilink")株式会社（旧・カネボウフーズ株式会社）が[1994年](../Page/1994年.md "wikilink")から本格的に輸入販売を開始、その後、世界的に、特に日本で人気が急拡大した。
 
 キャッチコピーは「*SHARPENS YOU UP*」である。訳すと「あなたを鋭くする（物）」で、意訳すれば「あなたを冴えさせる（物)」となる。なお「*frisk*」は[デンマーク語](../Page/デンマーク語.md "wikilink")・[スウェーデン語](../Page/スウェーデン語.md "wikilink")で「新鮮な」を意味する。英fresh・独frischと同語源である。
 

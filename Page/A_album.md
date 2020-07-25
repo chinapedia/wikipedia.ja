@@ -30,7 +30,7 @@
         デビューシングル曲「硝子の少年」と同じく、作詞を松本、作編曲は山下が担当した作品。タイアップドラマ放送時からボーカルテイク・アレンジ含め再録されている。
         後に「硝子の少年」と同様に山下達郎によるデモバージョンが公開されているが、商品化されていない。山下の[2005年](../Page/2005年.md "wikilink")のアルバム『[SONORITE](https://ja.wikipedia.org/wiki/SONORITE "wikilink")』には詩・曲とも新たに制作し直したセルフカヴァーバージョンが収められている。
 3.  **Tell me**
-    （作詞：相田毅　作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")　編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
+    （作詞：相田毅　作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")　編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")）
       -
         本作のために書き下ろされた新曲。
 4.  **僕は思う**

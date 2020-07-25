@@ -228,7 +228,7 @@ AVCHDでは従来の[HDV](../Page/HDV.md "wikilink")規格などのように1つ
 
   - [コーレル](../Page/コーレル.md "wikilink")
 
-:\*[Ulead VideoStudio](https://ja.wikipedia.org/wiki/VideoStudio "wikilink")（ビデオスタジオ）－Windows用ノンリニア編集ソフト
+:\*[Ulead VideoStudio](../Page/VideoStudio.md "wikilink")（ビデオスタジオ）－Windows用ノンリニア編集ソフト
 
   - [Sony Creative Software](https://ja.wikipedia.org/wiki/Sony_Creative_Software "wikilink")
 
@@ -250,7 +250,7 @@ AVCHDでは従来の[HDV](../Page/HDV.md "wikilink")規格などのように1つ
     [マイクロソフト](../Page/マイクロソフト.md "wikilink")
     \*[Windows Live ムービーメーカー](https://ja.wikipedia.org/wiki/Windows_Live_ムービーメーカー "wikilink") （ただしWindows 7のみ対応）
 
-AVCHDの編集に対応しているノンリニア編集ソフトとして、グラスバレーのEDIUSシリーズやアップルのFinal Cutシリーズ、[コーレル](../Page/コーレル.md "wikilink")の[VideoStudio](https://ja.wikipedia.org/wiki/VideoStudio "wikilink")シリーズ、[Sony Creative SoftwareのVegasシリーズ](https://ja.wikipedia.org/wiki/Sony_Creative_Software "wikilink")、[サイバーリンク](https://ja.wikipedia.org/wiki/サイバーリンク "wikilink")の[PowerDirector](../Page/PowerDirector.md "wikilink")シリーズなどがある。
+AVCHDの編集に対応しているノンリニア編集ソフトとして、グラスバレーのEDIUSシリーズやアップルのFinal Cutシリーズ、[コーレル](../Page/コーレル.md "wikilink")の[VideoStudio](../Page/VideoStudio.md "wikilink")シリーズ、[Sony Creative SoftwareのVegasシリーズ](https://ja.wikipedia.org/wiki/Sony_Creative_Software "wikilink")、[サイバーリンク](https://ja.wikipedia.org/wiki/サイバーリンク "wikilink")の[PowerDirector](../Page/PowerDirector.md "wikilink")シリーズなどがある。
 
 圧縮率が高いAVCHDは高性能なパソコンでもそのまま編集するのが困難であるため、各社対策を講じている。 Final Cut ProはProResに、EDIUSはGrass Valley HQX Codec 、VideoStudioは中間のSD画質である[プロキシファイル](https://ja.wikipedia.org/wiki/プロキシファイル "wikilink")を生成して編集する(設定によりサイズ、コーデックは変更可能、オフにもできる)。これらを用いることによってパソコンの負荷を軽減させることができる。また、Vegasシリーズは他社よりも動作が若干軽いため、中間コーデックを生成せずともAVCHDの編集を行うことが可能であるが、「中間ファイルを生成する機能がない」ともいえる。グラスバレーも、独自のAVCHDエンジンを開発したことにより、EDIUS Neo 2 Boosterではファイル変換無しのリアルタイム編集に対応し、Pro 5のアップデート版である5.5でも同様に対応した。
 

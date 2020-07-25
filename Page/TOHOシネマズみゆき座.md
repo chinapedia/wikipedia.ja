@@ -127,7 +127,7 @@ Screen13</p></td>
   - 2009年11月 - [カイジ 人生逆転ゲーム](https://ja.wikipedia.org/wiki/賭博黙示録カイジ#映画 "wikilink")（[TOHOシネマズ日劇](../Page/TOHOシネマズ日劇.md "wikilink")スクリーン2からのムーブオーバー作品）
   - 2009年12月 - [沈まぬ太陽](../Page/沈まぬ太陽.md "wikilink")（[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink")からのムーブオーバー作品）
   - 2010年1月 - [キャピタリズム〜マネーは踊る〜](https://ja.wikipedia.org/wiki/キャピタリズム〜マネーは踊る〜 "wikilink")（[TOHOシネマズシャンテ](../Page/TOHOシネマズシャンテ.md "wikilink")からのムーブオーバー作品）、[のだめカンタービレ 最終楽章 前編](https://ja.wikipedia.org/wiki/のだめカンタービレ_最終楽章 "wikilink") （[TOHOシネマズ日劇](../Page/TOHOシネマズ日劇.md "wikilink")スクリーン2からのムーブオーバー作品）
-  - 2010年2月 - [50歳の恋愛白書](https://ja.wikipedia.org/wiki/50歳の恋愛白書 "wikilink")、[Dr.パルナサスの鏡](https://ja.wikipedia.org/wiki/Dr.パルナサスの鏡 "wikilink")（TC有楽座、TCスカラ座からのムーブオーバー作品）
+  - 2010年2月 - [50歳の恋愛白書](https://ja.wikipedia.org/wiki/50歳の恋愛白書 "wikilink")、[Dr.パルナサスの鏡](../Page/Dr.パルナサスの鏡.md "wikilink")（TC有楽座、TCスカラ座からのムーブオーバー作品）
   - 2010年3月 - [ハート・ロッカー](https://ja.wikipedia.org/wiki/ハート・ロッカー "wikilink")、[パーシー・ジャクソンとオリンポスの神々](https://ja.wikipedia.org/wiki/パーシー・ジャクソンとオリンポスの神々_\(映画\) "wikilink")（『ハート・ロッカー』が[第82回アカデミー賞](https://ja.wikipedia.org/wiki/第82回アカデミー賞 "wikilink")で作品賞・監督賞など計6部門を受賞したため、急遽[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink")との入替で上映）、[ダレン・シャン -若きバンパイアと奇怪なサーカス-](https://ja.wikipedia.org/wiki/ダレン・シャン_\(小説\)#映画版 "wikilink")（[TOHOシネマズ日劇](../Page/TOHOシネマズ日劇.md "wikilink")スクリーン1からのムーブオーバー作品）
   - 2010年5月 - [運命のボタン](https://ja.wikipedia.org/wiki/運命のボタン "wikilink")
   - 2010年6月 - [マイ・ブラザー](https://ja.wikipedia.org/wiki/マイ・ブラザー_\(2009年の映画\) "wikilink")
@@ -302,7 +302,7 @@ Screen13</p></td>
   - 1974年10月 - [かもめのジョナサン](../Page/かもめのジョナサン_\(映画\).md "wikilink")
   - 1974年12月 - [エマニエル夫人](../Page/エマニエル夫人.md "wikilink")（旧館時代最大のヒット作）
   - 1975年10月 - [化石](https://ja.wikipedia.org/wiki/化石_\(小説\) "wikilink")
-  - 1975年12月 - [ピンク・パンサー2](https://ja.wikipedia.org/wiki/ピンク・パンサー2 "wikilink")
+  - 1975年12月 - [ピンク・パンサー2](../Page/ピンク・パンサー2.md "wikilink")
   - 1976年2月 - [逢いびき](https://ja.wikipedia.org/wiki/:en:Brief_Encounter_\(1974_film\) "wikilink")
   - 1976年4月 - [カッコーの巣の上で](../Page/カッコーの巣の上で.md "wikilink")（旧館時代の観客動員数歴代2位）
   - 1976年10月 - [愛のコリーダ](../Page/愛のコリーダ.md "wikilink")
@@ -317,14 +317,14 @@ Screen13</p></td>
   - 1981年12月 - [ミスター・アーサー](https://ja.wikipedia.org/wiki/ミスター・アーサー "wikilink")
   - 1982年1月 - [四季](https://ja.wikipedia.org/wiki/:en:The_Four_Seasons_\(film\) "wikilink")
   - 1982年2月 - [さよならジョージア](https://ja.wikipedia.org/wiki/:en:The_Night_the_Lights_Went_Out_in_Georgia_\(film\) "wikilink")
-  - 1982年4月 - [黄昏](https://ja.wikipedia.org/wiki/黄昏_\(1981年の映画\) "wikilink")
+  - 1982年4月 - [黄昏](../Page/黄昏_\(1981年の映画\).md "wikilink")
   - 1982年7月 - [キャット・ピープル](../Page/キャット・ピープル.md "wikilink")
   - 1982年8月 - [炎のランナー](../Page/炎のランナー.md "wikilink")
   - 1983年7月 - [ピノキオ](../Page/ピノキオ_\(1940年の映画\).md "wikilink")＆[ダンボ](../Page/ダンボ.md "wikilink")
   - 1983年10月 - [ソフィーの選択](../Page/ソフィーの選択.md "wikilink")
   - 1983年12月 - [ウィンター・ローズ](../Page/ウィンター・ローズ.md "wikilink")
   - 1984年3月 - [愛と追憶の日々](../Page/愛と追憶の日々.md "wikilink")
-  - 1984年6月 - [晴れ、ときどき殺人](https://ja.wikipedia.org/wiki/晴れ、ときどき殺人 "wikilink")&[湯殿山麓呪い村](https://ja.wikipedia.org/wiki/湯殿山麓呪い村 "wikilink")
+  - 1984年6月 - [晴れ、ときどき殺人](https://ja.wikipedia.org/wiki/晴れ、ときどき殺人 "wikilink")&[湯殿山麓呪い村](../Page/湯殿山麓呪い村.md "wikilink")
   - 1984年7月 - [ピーター・パン](../Page/ピーター・パン_\(1953年の映画\).md "wikilink")＆[眠れる森の美女](../Page/眠れる森の美女_\(1959年の映画\).md "wikilink")
   - 1984年10月 - [おはん](https://ja.wikipedia.org/wiki/おはん "wikilink")（日劇東宝(現・TC日劇スクリーン2)と同時上映）
   - 1984年11月 - [ブレスレス](https://ja.wikipedia.org/wiki/:en:Breathless_\(1983_film\) "wikilink")

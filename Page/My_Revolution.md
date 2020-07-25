@@ -1,11 +1,11 @@
 > この記事は[My Revolution](https://ja.wikipedia.org/wiki/My_Revolution)から翻訳されています。
 
 
-「**My Revolution**」（マイ・レヴォリューション）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[1月22日](../Page/1月22日.md "wikilink")に発売された[渡辺美里](../Page/渡辺美里.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")である。週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")で初の1位を獲得し、シングル売上も44.5万枚を記録、現時点で渡辺のシングルとしては最大の売上となっており、代表曲としても親しまれている。
+「**My Revolution**」（マイ・レヴォリューション）は、[1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[1月22日](../Page/1月22日.md "wikilink")に発売された[渡辺美里](../Page/渡辺美里.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")である。週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")で初の1位を獲得し、シングル売上も44.5万枚を記録、現時点で渡辺のシングルとしては最大の売上となっており、代表曲としても親しまれている。
 
 ## 解説
 
-タイトルナンバーは[TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』の主題歌で、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[2月27日](../Page/2月27日.md "wikilink")放送の『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』で5位にランクイン、このときが渡辺美里にとって生放送初出演となる。[第28回日本レコード大賞](https://ja.wikipedia.org/wiki/第28回日本レコード大賞 "wikilink")で「金賞」を受賞し、作曲者の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が授賞式に出たところへ渡辺美里がお祝いに駆けつけたこともあった\[1\]。
+タイトルナンバーは[TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』の主題歌で、[1986年](../Page/1986年.md "wikilink")（昭和61年）[2月27日](../Page/2月27日.md "wikilink")放送の『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』で5位にランクイン、このときが渡辺美里にとって生放送初出演となる。[第28回日本レコード大賞](https://ja.wikipedia.org/wiki/第28回日本レコード大賞 "wikilink")で「金賞」を受賞し、作曲者の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が授賞式に出たところへ渡辺美里がお祝いに駆けつけたこともあった\[1\]。
 
 作曲を手がけた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")は、当時[TM NETWORKとして既にデビューしていたとはいえまだ無名に近く](../Page/TM_NETWORK.md "wikilink")、この曲で作曲者として（大衆に）認められたいという強い信念があり、曲が完成すると渡辺の待つスタジオに自ら足を運んで、ピアノ演奏でメロディーを伝えたという。同曲の特徴ともいえる[転調](../Page/転調.md "wikilink")は、曲の途中で三度も上がるという、それまでの邦楽には珍しいもので、洋楽、特に[モータウン](../Page/モータウン.md "wikilink")系のコード進行に近いといわれる。そのメロディーを聴いた渡辺は「体中に電気が走るほど『凄い\!』と思った」\[2\]といい、レコーディングエンジニアの伊東俊郎も思わず「この曲いいね\!」とトークバックしたという逸話が残っている。小室はこの曲がコンペで選ばれた事を電話口で聞いた時の感覚は、今でも忘れられないと語っている。小室自身も、この曲がヒットしたことで後に「ああいう曲でちゃんと歌っていけばいいんだって、ヒット曲作りのコツや方向性みたいなものが見えた」と語っている\[3\]。
 
@@ -102,7 +102,7 @@
 
 ## 同曲の作品等の利用など
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）1月-3月に[TBS系で放映された](../Page/TBSテレビ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』のオープニングテーマとして起用。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）1月-3月に[TBS系で放映された](../Page/TBSテレビ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』のオープニングテーマとして起用。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）に[大友克洋](../Page/大友克洋.md "wikilink")原作の映画『SO WHAT』（監督：[山川直人](../Page/山川直人_\(映画監督\).md "wikilink")）の主題歌として起用。
   - [1992年](../Page/1992年.md "wikilink")（平成4年）[4月22日](../Page/4月22日.md "wikilink")に渡辺美里自身が「My Revolution -第2章-」としてセルフカバー。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）4月に[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[部長刑事 シンマイ。](../Page/部長刑事.md "wikilink")シリーズ』の主題歌として起用。

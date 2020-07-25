@@ -215,7 +215,7 @@ WindowsXP,Vista等のソフトウエアをWindows Mobile上でそのまま実行
       - ポケットギア
   - [富士通](../Page/富士通.md "wikilink")
       - Pocket LOOXシリーズ
-      - [F1100](https://ja.wikipedia.org/wiki/F1100 "wikilink")（NTTドコモ向けスマートフォン）
+      - [F1100](../Page/F1100.md "wikilink")（NTTドコモ向けスマートフォン）
       - [F-05B](https://ja.wikipedia.org/wiki/F-05B "wikilink")(NTTドコモ向け ハンディーターミナルにWindowsMobile6.5を搭載した業務用スマートフォン）
   - [富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")（東芝ブランド）
       - au ビジネスケータイ [E31T](https://ja.wikipedia.org/wiki/E31T "wikilink")(CDMA E31T)（[ヤマト運輸](../Page/ヤマト運輸.md "wikilink")と共同開発したWindowsMobile 6.5.3搭載au向け業法人専用スマートフォン）
@@ -225,7 +225,7 @@ WindowsXP,Vista等のソフトウエアをWindows Mobile上でそのまま実行
       - [SoftBank X03HT](https://ja.wikipedia.org/wiki/SoftBank_X03HT "wikilink")（ソフトバンクモバイル向けスマートフォン）
       - [SoftBank X04HT](https://ja.wikipedia.org/wiki/SoftBank_X04HT "wikilink")（ソフトバンクモバイル向けPocket PC、[Touch Diamond](https://ja.wikipedia.org/wiki/Touch_Diamond "wikilink")）
       - [SoftBank X05HT](https://ja.wikipedia.org/wiki/SoftBank_X05HT "wikilink")（ソフトバンクモバイル向けPocket PC、[Touch Pro](https://ja.wikipedia.org/wiki/Touch_Pro "wikilink")）
-      - [EMONSTER](https://ja.wikipedia.org/wiki/EMONSTER "wikilink")（[S11HT](https://ja.wikipedia.org/wiki/S11HT "wikilink")）（[イー・モバイル](../Page/イー・モバイル.md "wikilink")向けPocket PC)
+      - [EMONSTER](../Page/EMONSTER.md "wikilink")（[S11HT](https://ja.wikipedia.org/wiki/S11HT "wikilink")）（[イー・モバイル](../Page/イー・モバイル.md "wikilink")向けPocket PC)
       - [EMONSTER Lite](https://ja.wikipedia.org/wiki/EMONSTER_Lite "wikilink")（[S12HT](https://ja.wikipedia.org/wiki/S12HT "wikilink")）（イー・モバイル向けPocket PC）
       - [Touch Diamond](https://ja.wikipedia.org/wiki/HTC_Touch_Diamond "wikilink")（[S21HT](https://ja.wikipedia.org/wiki/S21HT "wikilink")）（イー・モバイル向けPocket PC）
       - [Dual Diamond](https://ja.wikipedia.org/wiki/Dual_Diamond "wikilink")（[S22HT](https://ja.wikipedia.org/wiki/S22HT "wikilink")）（イー・モバイル向けPocket PC）

@@ -205,7 +205,7 @@
   - オープニング「Stay with me」
     作詞 - [田久保真見](../Page/田久保真見.md "wikilink") / 作曲 - [飯塚昌明](../Page/飯塚昌明.md "wikilink") / 編曲 - [村上聖](../Page/村上聖.md "wikilink")
   - エンディング「Born Again」
-    作詞 - 田久保真見 / 作曲 - 宮島律子 / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") / 歌 - 沢井なつ美
+    作詞 - 田久保真見 / 作曲 - 宮島律子 / 編曲 - [須藤賢一](../Page/須藤賢一.md "wikilink") / 歌 - 沢井なつ美
 
 ## スタッフ
 

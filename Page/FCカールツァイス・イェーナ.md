@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    [1963年](../Page/1963年.md "wikilink")、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[1970年](../Page/1970年.md "wikilink")
+    [1963年](../Page/1963年.md "wikilink")、[1968年](../Page/1968年.md "wikilink")、[1970年](../Page/1970年.md "wikilink")
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
   - [トビアス・ヴェルナー](https://ja.wikipedia.org/wiki/トビアス・ヴェルナー "wikilink") 2004-2008
 
-  - [ヤン・シマーク](https://ja.wikipedia.org/wiki/ヤン・シマーク "wikilink") 2007-2008, 2011-2012
+  - [ヤン・シマーク](../Page/ヤン・シマーク.md "wikilink") 2007-2008, 2011-2012
 
   - [菊地直哉](../Page/菊地直哉.md "wikilink") 2008-2009
 

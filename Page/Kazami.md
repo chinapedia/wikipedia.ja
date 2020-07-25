@@ -1,7 +1,7 @@
 > この記事は[Kazami](https://ja.wikipedia.org/wiki/Kazami)から翻訳されています。
 
 
-**kazami**（かざみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月8日](../Page/4月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。本名は**白原 かざみ**。
+**kazami**（かざみ、[1986年](../Page/1986年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。本名は**白原 かざみ**。
 
 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。[福岡第一高等学校](https://ja.wikipedia.org/wiki/福岡第一高等学校 "wikilink")卒業。[2000年](../Page/2000年.md "wikilink")10月、14歳で[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")よりデビューしたが、既に契約が終了している。
 
@@ -319,7 +319,7 @@ kazami with <a href="../Page/Home_Grown.md" title="wikilink">Home Grown名義</a
 ## 関連項目
 
   - [福岡県出身の人物一覧](https://ja.wikipedia.org/wiki/福岡県出身の人物一覧 "wikilink")
-  - [エンドレス・コミュニケーションズ](https://ja.wikipedia.org/wiki/エンドレス・コミュニケーションズ "wikilink")
+  - [エンドレス・コミュニケーションズ](../Page/エンドレス・コミュニケーションズ.md "wikilink")
 
 ## 外部リンク
 

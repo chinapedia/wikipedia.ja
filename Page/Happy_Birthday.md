@@ -9,14 +9,14 @@
   - [ハッピー・バースデイ (スティーヴィー・ワンダーの曲)](https://ja.wikipedia.org/wiki/ハッピー・バースデイ_\(スティーヴィー・ワンダーの曲\) "wikilink") - [スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")のシングル。
   - [Happy Birthday (織田裕二の曲)](https://ja.wikipedia.org/wiki/Happy_Birthday_\(織田裕二の曲\) "wikilink") - [織田裕二](../Page/織田裕二.md "wikilink")のシングル。
   - [Happy Birthday (杏子の曲)](../Page/Happy_Birthday_\(杏子の曲\).md "wikilink") - [杏子のシングル](../Page/杏子_\(ミュージシャン\).md "wikilink")。作詞・作曲の[スガシカオ](../Page/スガシカオ.md "wikilink")が[セルフカバー](../Page/セルフカバー.md "wikilink")。
-  - [Happy Birthday (GOING UNDER GROUNDの曲)](https://ja.wikipedia.org/wiki/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\) "wikilink") - [GOING UNDER GROUNDのシングル](../Page/GOING_UNDER_GROUND.md "wikilink")。
+  - [Happy Birthday (GOING UNDER GROUNDの曲)](../Page/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\).md "wikilink") - [GOING UNDER GROUNDのシングル](../Page/GOING_UNDER_GROUND.md "wikilink")。
   - [Happy Birthday (NEWSの曲)](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink") - [NEWSのシングル](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")。
   - [ハッピーバースデイ](https://ja.wikipedia.org/wiki/ハッピーバースデイ "wikilink") - [PUFFY](../Page/PUFFY.md "wikilink")のシングル。
   - ハッピーバースデイ - [SAWA](https://ja.wikipedia.org/wiki/SAWA "wikilink")の楽曲。ミニアルバム『ソプラノレイン』に収録されている。
   - [Happy Birthday (横山知枝の曲)](https://ja.wikipedia.org/wiki/Happy_Birthday_\(横山知枝の曲\) "wikilink") - [横山知枝](../Page/横山知枝.md "wikilink")のシングル。作詞・作曲の[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")がセルフカバー。
   - [HAPPY BIRTHDAY〜愛が生まれた〜](https://ja.wikipedia.org/wiki/HAPPY_BIRTHDAY〜愛が生まれた〜 "wikilink") - [玉置浩二](../Page/玉置浩二.md "wikilink")のシングル。
   - [HAPPY BIRTHDAY (曲)](https://ja.wikipedia.org/wiki/HAPPY_BIRTHDAY_\(曲\) "wikilink") - [back numberのシングル](https://ja.wikipedia.org/wiki/back_number "wikilink")。
-  - HAPPY BIRTHDAY - [YUKA](../Page/YUKA.md "wikilink")の楽曲。シングル「[お料理行進曲](https://ja.wikipedia.org/wiki/お料理行進曲 "wikilink")」のカップリング曲。
+  - HAPPY BIRTHDAY - [YUKA](../Page/YUKA.md "wikilink")の楽曲。シングル「[お料理行進曲](../Page/お料理行進曲.md "wikilink")」のカップリング曲。
   - HAPPY BIRTHDAY - [LINDBERG](../Page/LINDBERG.md "wikilink")の楽曲。シングル「BELIEVE IN LOVE」のカップリング曲。アルバム『[LINDBERG IV](../Page/LINDBERG_IV.md "wikilink")』に収録されている。
   - Happy Birthday - [井上陽水](../Page/井上陽水.md "wikilink")の楽曲。アルバム『[二色の独楽](../Page/二色の独楽.md "wikilink")』に収録されている。
   - Happy Birthday - [sunny-side upの楽曲](https://ja.wikipedia.org/wiki/sunny-side_up "wikilink")。シングル「[Birthday Song/Happy Birthday](https://ja.wikipedia.org/wiki/Birthday_Song/Happy_Birthday "wikilink")」に収録されている。

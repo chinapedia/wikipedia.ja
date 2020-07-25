@@ -168,7 +168,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">カウナス</a></p></td>
+<td><p><a href="../Page/FBKカウナス.md" title="wikilink">カウナス</a></p></td>
 <td><p>3-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>

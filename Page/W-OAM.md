@@ -173,7 +173,7 @@ PlotData=
       - [WX320K](../Page/WX320K.md "wikilink") : [チップセット](../Page/チップセット.md "wikilink")ML7257\[10\]
       - [WX320KR](https://ja.wikipedia.org/wiki/WX320KR "wikilink")
       - [WX320T](../Page/WX320T.md "wikilink")
-      - [WX330K](https://ja.wikipedia.org/wiki/WX330K "wikilink")
+      - [WX330K](../Page/WX330K.md "wikilink")
       - [WX331K](../Page/WX331K.md "wikilink")
       - [WX331KC](https://ja.wikipedia.org/wiki/WX331KC "wikilink")
       - [WX333K](https://ja.wikipedia.org/wiki/WX333K "wikilink")

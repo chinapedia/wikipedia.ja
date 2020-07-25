@@ -136,7 +136,7 @@ CIRCUSの作品『[水夏](../Page/水夏.md "wikilink")』の過去の物語を
   - [プロデューサー](../Page/プロデューサー.md "wikilink") - [tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")
   - [ディレクター](../Page/ディレクター.md "wikilink") - [鷹取兵馬](https://ja.wikipedia.org/wiki/鷹取兵馬 "wikilink")
   - 制作進行 - [鵜園誠人](https://ja.wikipedia.org/wiki/鵜園誠人 "wikilink")
-  - [原画](../Page/原画.md "wikilink") - [天羽真理](https://ja.wikipedia.org/wiki/天羽真理 "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")、[かどつかさ](https://ja.wikipedia.org/wiki/かどつかさ "wikilink")、[犬神藤丸](https://ja.wikipedia.org/wiki/犬神藤丸 "wikilink")
+  - [原画](../Page/原画.md "wikilink") - [天羽真理](https://ja.wikipedia.org/wiki/天羽真理 "wikilink")、[かゆらゆか](../Page/かゆらゆか.md "wikilink")、[かどつかさ](https://ja.wikipedia.org/wiki/かどつかさ "wikilink")、[犬神藤丸](https://ja.wikipedia.org/wiki/犬神藤丸 "wikilink")
   - [シナリオ](../Page/脚本.md "wikilink") - 鷹取兵馬、黒田百年
   - 彩色統括 - 彼ノ矢大輔
 

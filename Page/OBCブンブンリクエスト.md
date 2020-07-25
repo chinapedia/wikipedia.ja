@@ -1,7 +1,7 @@
 > この記事は[OBCブンブンリクエスト](https://ja.wikipedia.org/wiki/OBCブンブンリクエスト)から翻訳されています。
 
 
-『**OBCブンブンリクエスト**』（オービーシーブンブンリクエスト）は、[ラジオ大阪で放送されていた](../Page/大阪放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")6月から[2001年](../Page/2001年.md "wikilink")9月にかけて放送されていた。
+『**OBCブンブンリクエスト**』（オービーシーブンブンリクエスト）は、[ラジオ大阪で放送されていた](../Page/大阪放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1986年](../Page/1986年.md "wikilink")6月から[2001年](../Page/2001年.md "wikilink")9月にかけて放送されていた。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 ## パーソナリティ
 
   - 月曜
-      - [モンスター前塚](https://ja.wikipedia.org/wiki/モンスター前塚 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")6月～1997年9月）
+      - [モンスター前塚](https://ja.wikipedia.org/wiki/モンスター前塚 "wikilink")（[1986年](../Page/1986年.md "wikilink")6月～1997年9月）
       - [南かおり](../Page/南かおり.md "wikilink")（1997年10月～2000年3月　火曜から移動）
       - [ハリガネロック](../Page/ハリガネロック.md "wikilink")（2000年4月～2001年9月）
   - 火曜

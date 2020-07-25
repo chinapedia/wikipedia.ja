@@ -1,7 +1,7 @@
 > この記事は[A.I. Love You!](https://ja.wikipedia.org/wiki/A.I._Love_You!)から翻訳されています。
 
 
-『**A.I. Love You\!**』（アイ・ラブ・ユー！）は、[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）で[2006年](../Page/2006年.md "wikilink")2月号から[2009年](../Page/2009年.md "wikilink")11月号まで連載された[読者参加企画](../Page/読者参加型ゲーム.md "wikilink")。
+『**A.I. Love You\!**』（アイ・ラブ・ユー！）は、[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）で[2006年](../Page/2006年.md "wikilink")2月号から[2009年](../Page/2009年.md "wikilink")11月号まで連載された[読者参加企画](../Page/読者参加型ゲーム.md "wikilink")。
 
 ## あらすじ
 

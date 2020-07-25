@@ -25,7 +25,7 @@
   - 2002年3月26日 - 既存株主5社のほか、[クレジットカード](../Page/クレジットカード.md "wikilink")会社・[信販会社](../Page/信販会社.md "wikilink")・印刷会社など14社の計19社に対して、第1回目の[第三者割当増資](../Page/第三者割当増資.md "wikilink")を実施。株主は25社に、[資本金](../Page/資本金.md "wikilink")は71億5000万円に増加。
   - 2003年
       - 1月30日 - 20社に対して、第2回目の第三者割当増資を実施。資本金を130億4350万円に増加。
-      - 6月 - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）と提携。
+      - 6月 - [全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）と提携。
       - 11月29日 - 既存株主6社のほか、新たに幅広い業界の28社の計34社に対して、第3回目の第三者割当増資を実施。株主は57社に、資本金は214億5350万円に増加。
   - 2004年12月24日 - 既存株主8社のほか、新たにANAなど4社の計12社に対して、第4回目の第三者割当増資を実施。株主は61社に、資本金は267億1310万円に増加。
   - 2006年
@@ -61,7 +61,7 @@
   - [PASMO](../Page/PASMO.md "wikilink")（[株式会社パスモ](../Page/パスモ.md "wikilink")）
   - [iD](https://ja.wikipedia.org/wiki/iD_\(クレジット決済サービス\) "wikilink")（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[三井住友カード](../Page/三井住友カード.md "wikilink")）
   - [nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")（[セブン・カードサービス](../Page/セブン・カードサービス.md "wikilink")）
-  - [WAON](../Page/WAON.md "wikilink")（[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")、[イオン銀行](../Page/イオン銀行.md "wikilink")）
+  - [WAON](../Page/WAON.md "wikilink")（[イオンリテール](../Page/イオンリテール.md "wikilink")、[イオン銀行](../Page/イオン銀行.md "wikilink")）
   - [おサイフケータイ](../Page/おサイフケータイ.md "wikilink")
   - [フェリカネットワークス](../Page/フェリカネットワークス.md "wikilink")
   - [セブン・カードサービス](../Page/セブン・カードサービス.md "wikilink")

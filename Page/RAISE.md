@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1943年](../Page/1943年.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")最中の[欧州](../Page/ヨーロッパ.md "wikilink")[西部戦線において](../Page/西部戦線_\(第二次世界大戦\).md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")本土に展開し対独爆撃任務に就く[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")所属の[重爆撃機](../Page/戦略爆撃機.md "wikilink")[B-17](https://ja.wikipedia.org/wiki/B-17 "wikilink")「プリズン・レディ」とその乗組員たちの戦いを描く、『[戦場ロマン・シリーズ](https://ja.wikipedia.org/wiki/戦場ロマン・シリーズ "wikilink")』以来の新谷ワールド。
+[1943年](../Page/1943年.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")最中の[欧州](../Page/ヨーロッパ.md "wikilink")[西部戦線において](../Page/西部戦線_\(第二次世界大戦\).md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")本土に展開し対独爆撃任務に就く[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")所属の[重爆撃機](../Page/戦略爆撃機.md "wikilink")[B-17](https://ja.wikipedia.org/wiki/B-17 "wikilink")「プリズン・レディ」とその乗組員たちの戦いを描く、『[戦場ロマン・シリーズ](https://ja.wikipedia.org/wiki/戦場ロマン・シリーズ "wikilink")』以来の新谷ワールド。
 
 登場人物のうち、一部のサブキャラクターには作者独特の[スターシステムが採用されている](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")。イギリス情報部のバーンズ少佐は、[フィクサー](../Page/フィクサー.md "wikilink")ないし[エージェント](../Page/エージェント.md "wikilink")の役割を果たす[ストックキャラクター](../Page/ストックキャラクター.md "wikilink")であり、「火付けの柳」として新谷かおるの作品にたびたび登場している（キャラクター誕生の由来は「[新谷かおる\#アシスタント](https://ja.wikipedia.org/wiki/新谷かおる#アシスタント "wikilink")」参照）。また、コミックス1巻にゲストキャラクターとして登場する「シルバーゴースト」のアーノルド機長は、同作者による『ALICE12』では民間貨物機のモーガン機長、『[クレオパトラD.C.](https://ja.wikipedia.org/wiki/クレオパトラD.C. "wikilink")』ではビルギッタ・マーシーの父親、『[砂の薔薇](../Page/砂の薔薇.md "wikilink")』では傭兵部隊のアーノルド隊長として登場している。
 

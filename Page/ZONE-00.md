@@ -377,7 +377,7 @@
   - 第2巻 2007年5月26日発売、ISBN 978-4-04-854070-4
   - 第3巻 2007年5月26日発売、ISBN 978-4-04-854089-6
   - 第4巻 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月26日発売、ISBN 978-4-04-854173-2
-  - 第5巻 [2009年](../Page/2009年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売、ISBN 978-4-04-854278-4
+  - 第5巻 [2009年](../Page/2009年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売、ISBN 978-4-04-854278-4
   - 第6巻 2009年[9月26日](../Page/9月26日.md "wikilink")発売、ISBN 978-4-04-854373-6
   - 第7巻 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")発売、ISBN 978-4-04-854456-6
   - 第8巻 [2011年](../Page/2011年.md "wikilink")3月26日発売、ISBN 978-4-04-854613-3

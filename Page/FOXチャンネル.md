@@ -22,7 +22,7 @@
 
 ## 放送実績
 
-本家の米国での[FOXチャンネルで放送された作品のみならず](../Page/フォックス放送.md "wikilink")、製作サイドの[FOXが絡んだ作品も放送できる](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")。[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")や[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")の割合が高い。一方で、[GOTHAM/ゴッサム](https://ja.wikipedia.org/wiki/GOTHAM/ゴッサム "wikilink")、[LUCIFER/ルシファー](https://ja.wikipedia.org/wiki/LUCIFER/ルシファー "wikilink")など米国FOXチャンネルで放送された番組が日本では[AXN](../Page/AXN.md "wikilink")など他局で放送されることもしばしばある。また、一度編成にのせた番組は日本側の都合で打ち切ることはせず、ほぼ確実に最終シーズンまで放送するという特徴がある。2010年代の目玉番組は[NCIS 〜ネイビー犯罪捜査班と](https://ja.wikipedia.org/wiki/NCIS_〜ネイビー犯罪捜査班 "wikilink")[ウォーキング・デッド](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")である。過去には、[アメリカン・アイドル](../Page/アメリカン・アイドル.md "wikilink")や[24 TWENTY FOUR](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")、[プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")、[Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")等が目玉であった。
+本家の米国での[FOXチャンネルで放送された作品のみならず](../Page/フォックス放送.md "wikilink")、製作サイドの[FOXが絡んだ作品も放送できる](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")。[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")や[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")の割合が高い。一方で、[GOTHAM/ゴッサム](https://ja.wikipedia.org/wiki/GOTHAM/ゴッサム "wikilink")、[LUCIFER/ルシファー](https://ja.wikipedia.org/wiki/LUCIFER/ルシファー "wikilink")など米国FOXチャンネルで放送された番組が日本では[AXN](../Page/AXN.md "wikilink")など他局で放送されることもしばしばある。また、一度編成にのせた番組は日本側の都合で打ち切ることはせず、ほぼ確実に最終シーズンまで放送するという特徴がある。2010年代の目玉番組は[NCIS 〜ネイビー犯罪捜査班と](../Page/NCIS_〜ネイビー犯罪捜査班.md "wikilink")[ウォーキング・デッド](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")である。過去には、[アメリカン・アイドル](../Page/アメリカン・アイドル.md "wikilink")や[24 TWENTY FOUR](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")、[プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")、[Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")等が目玉であった。
 
 ### ドラマ
 
@@ -35,7 +35,7 @@
   - [LAW & ORDER:性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:性犯罪特捜班 "wikilink")
   - [LAW & ORDER:犯罪心理捜査班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:犯罪心理捜査班 "wikilink")
   - [Major Crimes ～重大犯罪課](https://ja.wikipedia.org/wiki/Major_Crimes_～重大犯罪課 "wikilink")
-  - [NCIS 〜ネイビー犯罪捜査班](https://ja.wikipedia.org/wiki/NCIS_〜ネイビー犯罪捜査班 "wikilink")
+  - [NCIS 〜ネイビー犯罪捜査班](../Page/NCIS_〜ネイビー犯罪捜査班.md "wikilink")
   - [NCIS:LA 〜極秘潜入捜査班](https://ja.wikipedia.org/wiki/NCIS:LA_〜極秘潜入捜査班 "wikilink")
   - [NUMBERS 天才数学者の事件ファイル](../Page/NUMBERS_天才数学者の事件ファイル.md "wikilink")
   - [SHARK カリスマ敏腕検察官](https://ja.wikipedia.org/wiki/SHARK_カリスマ敏腕検察官 "wikilink")
@@ -125,7 +125,7 @@
 
 ### アニメーション
 
-  - [ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")
+  - [ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")
   - [キング・オブ・ザ・ヒル](../Page/キング・オブ・ザ・ヒル.md "wikilink")
 
 ## 関連項目

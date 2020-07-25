@@ -41,7 +41,7 @@
 
 ## EPMA・PIXE
 
-蛍光X線法と類似の元素分析方法として、内殻電子の励起源として電子線や陽子・荷電粒子を用いる方法もある。これらは内殻励起の機構が異なり、得られるスペクトルにもその特徴が現れることからそれぞれ使い分けられている。電子線を用いた分析装置は[電子線マイクロアナライザ](https://ja.wikipedia.org/wiki/電子線マイクロアナライザ "wikilink") (EPMA) などがあり、陽子・荷電粒子を励起源とした分析法は[粒子線（陽子）励起X線発光法 (PIXE)](https://ja.wikipedia.org/wiki/粒子線励起X線分析 "wikilink") と呼ばれる。[マーズ・サイエンス・ラボラトリー](../Page/マーズ・サイエンス・ラボラトリー.md "wikilink")や[フィラエ](https://ja.wikipedia.org/wiki/フィラエ "wikilink")のような[惑星探査機](https://ja.wikipedia.org/wiki/惑星探査機 "wikilink")には[キュリウム](../Page/キュリウム.md "wikilink")244や[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")240のような[放射性同位体](../Page/放射性同位体.md "wikilink")を励起源とした[αプロトンX線分光計](https://ja.wikipedia.org/wiki/αプロトンX線分光計 "wikilink")が搭載され、成果を挙げている。
+蛍光X線法と類似の元素分析方法として、内殻電子の励起源として電子線や陽子・荷電粒子を用いる方法もある。これらは内殻励起の機構が異なり、得られるスペクトルにもその特徴が現れることからそれぞれ使い分けられている。電子線を用いた分析装置は[電子線マイクロアナライザ](../Page/電子線マイクロアナライザ.md "wikilink") (EPMA) などがあり、陽子・荷電粒子を励起源とした分析法は[粒子線（陽子）励起X線発光法 (PIXE)](https://ja.wikipedia.org/wiki/粒子線励起X線分析 "wikilink") と呼ばれる。[マーズ・サイエンス・ラボラトリー](../Page/マーズ・サイエンス・ラボラトリー.md "wikilink")や[フィラエ](https://ja.wikipedia.org/wiki/フィラエ "wikilink")のような[惑星探査機](https://ja.wikipedia.org/wiki/惑星探査機 "wikilink")には[キュリウム](../Page/キュリウム.md "wikilink")244や[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")240のような[放射性同位体](../Page/放射性同位体.md "wikilink")を励起源とした[αプロトンX線分光計](https://ja.wikipedia.org/wiki/αプロトンX線分光計 "wikilink")が搭載され、成果を挙げている。
 
 ## 蛍光X線ホログラフィ
 
@@ -50,7 +50,7 @@
 ## 関連項目
 
   - [特性X線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")
-  - [電子線マイクロアナライザ](https://ja.wikipedia.org/wiki/電子線マイクロアナライザ "wikilink")
+  - [電子線マイクロアナライザ](../Page/電子線マイクロアナライザ.md "wikilink")
   - [元素分析](../Page/元素分析.md "wikilink")
   - [粒子線励起X線分析](https://ja.wikipedia.org/wiki/粒子線励起X線分析 "wikilink")
   - [αプロトンX線分光計](https://ja.wikipedia.org/wiki/αプロトンX線分光計 "wikilink")

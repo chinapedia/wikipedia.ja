@@ -22,7 +22,7 @@
 | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | [ウェイン・レイニー](../Page/ウェイン・レイニー.md "wikilink")                        | カワサキ                                    |
 | [1984年](../Page/1984年.md "wikilink")                    | [フレッド・マーケル](https://ja.wikipedia.org/wiki/フレッド・マーケル "wikilink")     | [ホンダ](../Page/本田技研工業.md "wikilink")     |
 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | フレッド・マーケル                                                           | ホンダ                                     |
-| [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | フレッド・マーケル                                                           | ホンダ                                     |
+| [1986年](../Page/1986年.md "wikilink")                    | フレッド・マーケル                                                           | ホンダ                                     |
 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | ウェイン・レイニー                                                           | ホンダ                                     |
 | [1988年](../Page/1988年.md "wikilink")                    | [ババ・ショバート](https://ja.wikipedia.org/wiki/ババ・ショバート "wikilink")       | ホンダ                                     |
 | [1989年](../Page/1989年.md "wikilink")                    | [ジャミー・ジェイムズ](https://ja.wikipedia.org/wiki/ジャミー・ジェイムズ "wikilink")   | スズキ                                     |

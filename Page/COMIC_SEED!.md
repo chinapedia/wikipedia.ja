@@ -27,7 +27,7 @@
 
 ### 連載終了作品
 
-  - [甘忍少女あずき](https://ja.wikipedia.org/wiki/甘忍少女あずき "wikilink")（[東雲水生](https://ja.wikipedia.org/wiki/東雲水生 "wikilink")）
+  - [甘忍少女あずき](../Page/甘忍少女あずき.md "wikilink")（[東雲水生](https://ja.wikipedia.org/wiki/東雲水生 "wikilink")）
   - ヴァイセフラウ（鳥居チカ、原作：[為我井徹](../Page/為我井徹.md "wikilink")）
   - えんまちゃん（[かがみふみを](../Page/かがみふみを.md "wikilink")）
   - GIRL×GIRL×BOY〜乙女の祈り〜（KUJIRA）
@@ -78,7 +78,7 @@
   - ちえのわ（[小だまたけし](../Page/小だまたけし.md "wikilink")）
   - [新撰組異聞暴流愚](https://ja.wikipedia.org/wiki/新撰組異聞暴流愚 "wikilink")（[芦田豊雄](../Page/芦田豊雄.md "wikilink")）
   - [ふくふく。](https://ja.wikipedia.org/wiki/ふくふく。 "wikilink")（[ふる鳥弥生](https://ja.wikipedia.org/wiki/ふる鳥弥生 "wikilink")）
-  - needle（[中田ゆみ](https://ja.wikipedia.org/wiki/中田ゆみ "wikilink")）
+  - needle（[中田ゆみ](../Page/中田ゆみ.md "wikilink")）
   - [密・リターンズ\!](../Page/密・リターンズ!.md "wikilink")愛蔵版（[八神健](../Page/八神健.md "wikilink")） - 『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』連載作品。
 
 など。

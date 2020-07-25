@@ -23,7 +23,7 @@
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 国鉄本社の付属機関となり、**中央鉄道病院**に改称
   - 1966年（昭和41年）[8月16日](../Page/8月16日.md "wikilink") 理事会で、中央鉄道病院の改築を決定
   - [1967年](../Page/1967年.md "wikilink")（昭和42年） - 新病院（現病院）の建設が始まる
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 臨床研修指定病院となる
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 臨床研修指定病院となる
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[9月](../Page/9月.md "wikilink") - 中央診療病棟が完成し業務を開始
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 外来診療棟が完成し業務を開始
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 高さ65.1mの新病棟が完成し業務を開始

@@ -11,7 +11,7 @@
 
 2006年4月、新井道子の登板で再びリニューアル。放送枠はそのまま1時間繰り上げ、開始時間16:00となった。ただし、内包されていた「[GEOGIA Dream Catcher](https://ja.wikipedia.org/wiki/GEOGIA_Dream_Catcher "wikilink")」を独立させたため終了時刻は18:50となり、5分短くなった。この時からオープニングテーマが *Bachelor Pad／[Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")*（フジテレビの深夜番組の[ショーパンと同じ](../Page/ショーパン_\(テレビ番組\).md "wikilink")）となっていた。エンディングテーマは一貫してマンスリーエンディングソングとなっており、これは「EVENING TERMINAL」並びに「さでこみ」を引き継いでいる。
 
-2008年3月をもって終了、番組枠は金曜まで拡大され「[Evening Street](https://ja.wikipedia.org/wiki/Evening_Street "wikilink")」に引き継がれる。2012年春の改編で16時台はお昼の番組「[Daytime Street](https://ja.wikipedia.org/wiki/Daytime_Street "wikilink")」に吸収され、17時台以降は「JFNC・[News Delivery -Evening Edition-](https://ja.wikipedia.org/wiki/News_Delivery_-Evening_Edition- "wikilink")」となった。
+2008年3月をもって終了、番組枠は金曜まで拡大され「[Evening Street](../Page/Evening_Street.md "wikilink")」に引き継がれる。2012年春の改編で16時台はお昼の番組「[Daytime Street](https://ja.wikipedia.org/wiki/Daytime_Street "wikilink")」に吸収され、17時台以降は「JFNC・[News Delivery -Evening Edition-](https://ja.wikipedia.org/wiki/News_Delivery_-Evening_Edition- "wikilink")」となった。
 
 レギュラー枠としてJFNC枠をネットするのは1989年に「EVENING TERMINAL」設置以来23年ぶりである（当時は「カレッジ・レディオ・ジャパン」「ワールド・チャート・ネットワーク 〜ワールドヒット・決定版〜」「FMヤング・スタジオ 〜アイドル・ヒット決定版〜」をレギュラーネット。その後も単発的に「[EVENING JAPAN](https://ja.wikipedia.org/wiki/EVENING_JAPAN "wikilink")」をネットしていた）。
 

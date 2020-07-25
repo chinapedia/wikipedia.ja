@@ -1,7 +1,7 @@
 > この記事は[Columbia](https://ja.wikipedia.org/wiki/Columbia)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Us-nasa-columbia.jpg "wikilink") **Columbia**（コロンビア）は、[NASA](../Page/アメリカ航空宇宙局.md "wikilink")[エイムズ研究センター](https://ja.wikipedia.org/wiki/エイムズ研究センター "wikilink")のために[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")社が構築した[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")。2004年に納入された。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Us-nasa-columbia.jpg "wikilink") **Columbia**（コロンビア）は、[NASA](../Page/アメリカ航空宇宙局.md "wikilink")[エイムズ研究センター](../Page/エイムズ研究センター.md "wikilink")のために[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")社が構築した[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")。2004年に納入された。
 
 2006年11月現在、Colombiaは 51.87T[FLOPS](../Page/FLOPS.md "wikilink")\[1\] で世界第8位の性能を誇る\[2\]。Columbia 名は[尊い犠牲を出した](../Page/コロンビア号空中分解事故.md "wikilink")[スペースシャトル](../Page/スペースシャトル.md "wikilink") [コロンビアから採られている](https://ja.wikipedia.org/wiki/コロンビア_\(オービタ\) "wikilink")。20台の [SGI](../Page/シリコングラフィックス.md "wikilink") [Altix](https://ja.wikipedia.org/wiki/Altix "wikilink") 3000 をクラスター結合したもので、各ノードは 512個の[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[Itanium2](https://ja.wikipedia.org/wiki/Itanium2 "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")から構成されているため、全体では 10,240プロセッサを有する。メモリは20TB（テラバイト）、ディスクは440TB、補助記憶装置は10PB（ペタバイト）を備えている\[3\]。
 

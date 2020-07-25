@@ -82,7 +82,7 @@
 
   - [ネド・ソネッティ](https://ja.wikipedia.org/wiki/ネド・ソネッティ "wikilink") 1996-1997
 
-  - [ジャンピエロ・マリーニ](https://ja.wikipedia.org/wiki/ジャンピエロ・マリーニ "wikilink") 1997-1999
+  - [ジャンピエロ・マリーニ](../Page/ジャンピエロ・マリーニ.md "wikilink") 1997-1999
 
   - [ジュゼッペ・パパドプーロ](https://ja.wikipedia.org/wiki/ジュゼッペ・パパドプーロ "wikilink") 1999-2000
 
@@ -118,7 +118,7 @@
 
   - [アンデシュ・リンパル](https://ja.wikipedia.org/wiki/アンデシュ・リンパル "wikilink") 1989-1990
 
-  - [ドメニコ・モルフェオ](https://ja.wikipedia.org/wiki/ドメニコ・モルフェオ "wikilink") 2009
+  - [ドメニコ・モルフェオ](../Page/ドメニコ・モルフェオ.md "wikilink") 2009
 
 ### FW
 

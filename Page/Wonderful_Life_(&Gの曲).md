@@ -41,7 +41,7 @@
 
 [Category:稲垣吾郎の楽曲](https://ja.wikipedia.org/wiki/Category:稲垣吾郎の楽曲 "wikilink") [Category:市川喜康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:市川喜康が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
 
-1.  ただし、「If You Give Your Heart」のカップリング曲は[ジョディ・ワトリー](https://ja.wikipedia.org/wiki/ジョディ・ワトリー "wikilink")による「Ecstasy」であるため、純粋な稲垣のソロ作品は本作が初となる。
+1.  ただし、「If You Give Your Heart」のカップリング曲は[ジョディ・ワトリー](../Page/ジョディ・ワトリー.md "wikilink")による「Ecstasy」であるため、純粋な稲垣のソロ作品は本作が初となる。
 2.
 3.
 4.

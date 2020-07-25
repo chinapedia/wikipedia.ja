@@ -138,7 +138,7 @@
   - SPICY CHOCOLATE「東京RAGGA LOVERS」（2010年1月27日）
       - (DISC-1) 3. 雪ノ降ル街デ feat.Miss Monday & [HOKT](https://ja.wikipedia.org/wiki/HOKT "wikilink") from N.C.B.B
       - (DISC-1) 9. 鼓動 feat.[KEN-U](../Page/KEN-U.md "wikilink"), [MUNEHIRO](../Page/鈴木紗理奈.md "wikilink"), Miss Monday, DABO, [卍LINE](../Page/窪塚洋介.md "wikilink"), TONY the WEED
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")「LOVE BEATS」（2010年3月24日）
+  - [Sweep](../Page/Sweep.md "wikilink")「LOVE BEATS」（2010年3月24日）
       - 4\. Sweep×DJ MITSU THE BEATS / Better days feat. Miss Monday
   - SPICY CHOCOLATE「東京RAGGA BLAZE BEST」（2010年7月21日）
       - (DISC-1) 1. TOKYO RAGGA BLAZE BEST ANTHEM feat. Miss Monday

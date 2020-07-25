@@ -1380,7 +1380,7 @@ VIZL-117</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年01月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンスランバー" title="wikilink">ゴールデンスランバー</a> ～オリジナルサウンドトラック～</p></td>
+<td><p><a href="../Page/ゴールデンスランバー.md" title="wikilink">ゴールデンスランバー</a> ～オリジナルサウンドトラック～</p></td>
 <td><p>VICL-63520</p></td>
 </tr>
 <tr class="odd">

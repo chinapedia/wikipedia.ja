@@ -7,7 +7,7 @@
   - 特別協力 [日本棋院](../Page/日本棋院.md "wikilink")
   - 協力 [関西棋院](../Page/関西棋院.md "wikilink")、[中国囲棋協会](../Page/中国囲棋協会.md "wikilink")、[韓国棋院](../Page/韓国棋院.md "wikilink")、[台湾棋院](../Page/台湾棋院.md "wikilink")、(1-3回)沖縄県囲碁連盟、(4回-)[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")
   - 特別協賛 [CSKグループ](../Page/CSK_\(企業\).md "wikilink") (1-3回)[沖縄県](../Page/沖縄県.md "wikilink")
-  - 協賛 [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+  - 協賛 [全日本空輸](../Page/全日本空輸.md "wikilink")
   - 後援 [沖縄タイムス](../Page/沖縄タイムス.md "wikilink")社、[琉球新報](../Page/琉球新報.md "wikilink")社、[琉球放送](../Page/琉球放送.md "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")、[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")、[NHK沖縄放送局](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、日本経済新聞社、[囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")
 
 ## 方式
@@ -51,15 +51,15 @@
 
 1回戦
 
-|                                                     |   |   |                                                          |
-| --------------------------------------------------- | - | - | -------------------------------------------------------- |
-| 中華台北                                                | 3 | 2 | 中国                                                       |
-| [林海峰](https://ja.wikipedia.org/wiki/林海峰 "wikilink") | ○ | × | [馬暁春](../Page/馬暁春.md "wikilink")                         |
-| [王銘琬](https://ja.wikipedia.org/wiki/王銘琬 "wikilink") | ○ | × | [常昊](../Page/常昊.md "wikilink")                           |
-| [楊嘉源](https://ja.wikipedia.org/wiki/楊嘉源 "wikilink") | × | ○ | [兪斌](../Page/兪斌.md "wikilink")                           |
-| [周俊勲](../Page/周俊勲.md "wikilink")                    | ○ | × | [邵煒剛](https://ja.wikipedia.org/wiki/邵煒剛 "wikilink")      |
-| [林至涵](../Page/林至涵.md "wikilink")                    | × | ○ | [王磊](https://ja.wikipedia.org/wiki/王磊_\(囲碁\) "wikilink") |
-|                                                     |   |   |                                                          |
+|                                                     |   |   |                                                     |
+| --------------------------------------------------- | - | - | --------------------------------------------------- |
+| 中華台北                                                | 3 | 2 | 中国                                                  |
+| [林海峰](https://ja.wikipedia.org/wiki/林海峰 "wikilink") | ○ | × | [馬暁春](../Page/馬暁春.md "wikilink")                    |
+| [王銘琬](https://ja.wikipedia.org/wiki/王銘琬 "wikilink") | ○ | × | [常昊](../Page/常昊.md "wikilink")                      |
+| [楊嘉源](https://ja.wikipedia.org/wiki/楊嘉源 "wikilink") | × | ○ | [兪斌](../Page/兪斌.md "wikilink")                      |
+| [周俊勲](../Page/周俊勲.md "wikilink")                    | ○ | × | [邵煒剛](https://ja.wikipedia.org/wiki/邵煒剛 "wikilink") |
+| [林至涵](../Page/林至涵.md "wikilink")                    | × | ○ | [王磊](../Page/王磊_\(囲碁\).md "wikilink")               |
+|                                                     |   |   |                                                     |
 
 決勝戦
 

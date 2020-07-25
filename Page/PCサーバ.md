@@ -61,7 +61,7 @@
 
 ### x86サーバ
 
-[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系（[IA-32](../Page/IA-32.md "wikilink")系）のCPUとアーキテクチャを採用したサーバでは、現在ではx86を[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")に拡張したx64（[AMD64および](https://ja.wikipedia.org/wiki/x64 "wikilink")[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")）が主流である。主要メーカーの主な製品には以下がある。
+[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系（[IA-32](../Page/IA-32.md "wikilink")系）のCPUとアーキテクチャを採用したサーバでは、現在ではx86を[64ビット](../Page/64ビット.md "wikilink")に拡張したx64（[AMD64および](https://ja.wikipedia.org/wiki/x64 "wikilink")[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")）が主流である。主要メーカーの主な製品には以下がある。
 
   - [HP](../Page/ヒューレット・パッカード.md "wikilink") [ProLiant](https://ja.wikipedia.org/wiki/ProLiant "wikilink")シリーズ
   - [DELL](../Page/デル.md "wikilink") [PowerEdge](../Page/PowerEdge.md "wikilink")シリーズ
@@ -74,7 +74,7 @@
 
 ### IA-64サーバ
 
-インテル独自の[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")アーキテクチャである[IA-64](../Page/IA-64.md "wikilink")系のCPU（[Itanium](../Page/Itanium.md "wikilink")）を搭載したサーバである。広義の「PCサーバ」では、IA-64サーバを含む場合がある。当初はインテル系CPUを採用したサーバとしては高性能・高信頼性・高価格なハイエンドサーバであったが、現在では上述のx64（[AMD64および](https://ja.wikipedia.org/wiki/x64 "wikilink")[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")）の性能が向上して市場の主流となったため、IA-64サーバは[ニッチ市場](../Page/ニッチ市場.md "wikilink")化が進んだ。またインテルも2006年の[Intel 64命名後は](https://ja.wikipedia.org/wiki/x64 "wikilink")「IA-64」の名称の使用が減っている。主要メーカーの主な製品には以下がある。
+インテル独自の[64ビット](../Page/64ビット.md "wikilink")アーキテクチャである[IA-64](../Page/IA-64.md "wikilink")系のCPU（[Itanium](../Page/Itanium.md "wikilink")）を搭載したサーバである。広義の「PCサーバ」では、IA-64サーバを含む場合がある。当初はインテル系CPUを採用したサーバとしては高性能・高信頼性・高価格なハイエンドサーバであったが、現在では上述のx64（[AMD64および](https://ja.wikipedia.org/wiki/x64 "wikilink")[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")）の性能が向上して市場の主流となったため、IA-64サーバは[ニッチ市場](../Page/ニッチ市場.md "wikilink")化が進んだ。またインテルも2006年の[Intel 64命名後は](https://ja.wikipedia.org/wiki/x64 "wikilink")「IA-64」の名称の使用が減っている。主要メーカーの主な製品には以下がある。
 
   - [HP Integrity](../Page/HP_Integrity.md "wikilink") シリーズ （[NEC](../Page/日本電気.md "wikilink")、[日立](../Page/日立製作所.md "wikilink")、[三菱電機](../Page/三菱電機.md "wikilink")などに[OEM](../Page/OEM.md "wikilink")供給）
   - 富士通 [PRIMEQUEST](../Page/PRIMEQUEST.md "wikilink") シリーズ （過去のモデル）

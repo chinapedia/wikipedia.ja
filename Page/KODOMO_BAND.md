@@ -112,7 +112,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") [EPIC・ソニーへ移籍](../Page/エピックレコードジャパン.md "wikilink")。リック・デリンジャーのプロデュースのもと、アルバム『HEART BREAK KIDS』をリリース。さらにアメリカでミニアルバム『Yes \! We are KODOMO BAND』発売、シングル『JUKE BOX ROCK'N' ROLLER』をリリース。
   - [1984年](../Page/1984年.md "wikilink") EPIC・ソニー離脱。[アメリカのミュージック](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・シーンにチャレンジしようとするバンドサイドの意志と、レコード会社の方針が異なってしまったため。その後、頻繁に渡米し、レコーディング、[クラブ](../Page/クラブ.md "wikilink")・[ギグ](https://ja.wikipedia.org/wiki/ギグ "wikilink")を行いセルフプロデュースでアルバム『ROCK & ROLL WILL NEVER DIE\!\!』を[ニューヨーク](../Page/ニューヨーク.md "wikilink")の『RIGHT TRACK STUDIO』で制作。インディーズレーベル「KIDS POWER」から発売。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") 前年に続き、冬のニューヨークに滞在、アルバム『HUNGRY BOY』を完成させる。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") キャニオン・レコードへ再移籍。アニメ『[北斗の拳](../Page/北斗の拳_\(テレビアニメ\).md "wikilink")』劇場公開版の主題歌『Heart of Madness』をリリース。テレビアニメ版主題歌『[SILENT SURVIVOR](https://ja.wikipedia.org/wiki/SILENT_SURVIVOR "wikilink")』もヒット。この年より、制作の場をあえて日本に戻す。[横須賀にある](../Page/横須賀市.md "wikilink")[観音崎マリンスタジオで合宿](https://ja.wikipedia.org/wiki/観音崎京急ホテル "wikilink")・製作した、アルバム『120％PURE』発表。
+  - [1986年](../Page/1986年.md "wikilink") キャニオン・レコードへ再移籍。アニメ『[北斗の拳](../Page/北斗の拳_\(テレビアニメ\).md "wikilink")』劇場公開版の主題歌『Heart of Madness』をリリース。テレビアニメ版主題歌『[SILENT SURVIVOR](https://ja.wikipedia.org/wiki/SILENT_SURVIVOR "wikilink")』もヒット。この年より、制作の場をあえて日本に戻す。[横須賀にある](../Page/横須賀市.md "wikilink")[観音崎マリンスタジオで合宿](https://ja.wikipedia.org/wiki/観音崎京急ホテル "wikilink")・製作した、アルバム『120％PURE』発表。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") プライベート・スタジオを多用するスタイルに挑戦、アルバム『Before ZERO』発表。
   - [1988年](../Page/1988年.md "wikilink") [ブライアン・アダムス](../Page/ブライアン・アダムス.md "wikilink")のスタッフを起用、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[バンクーバーの](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")『LITTLE MOUNTAIN STUDIO』で、アルバム『KODOMO BAND ROCK』を制作。移籍した[ビクター音楽産業より発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
   - [1988年](../Page/1988年.md "wikilink") 10月10日、2000本ライブ達成。活動休止状態に陥る。
@@ -231,21 +231,21 @@
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/2月2日.md" title="wikilink">2月2日</a></p></td>
 <td><p><strong>Heart Of Madness</strong></p></td>
 <td><p>Purple Eyes</p></td>
 <td><p>EP</p></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SILENT_SURVIVOR" title="wikilink">SILENT SURVIVOR</a></strong></p></td>
 <td><p>DRY YOUR TEARS</p></td>
 <td><p>EP</p></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/12月28日.md" title="wikilink">12月28日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/12月28日.md" title="wikilink">12月28日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/たどりついたらいつも雨ふり" title="wikilink">たどりついたらいつも雨ふり</a></strong></p></td>
 <td><p>NO GIMMICK</p></td>
 <td><p>EP</p></td>
@@ -395,7 +395,7 @@
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/5月5日.md" title="wikilink">5月5日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/5月5日.md" title="wikilink">5月5日</a></p></td>
 <td><p><strong>120% PURE</strong></p></td>
 <td><p>LP</p></td>
 </tr>
@@ -407,7 +407,7 @@
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/12月15日.md" title="wikilink">12月15日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/12月15日.md" title="wikilink">12月15日</a></p></td>
 <td><p><strong>NO GIMMICK</strong></p></td>
 <td><p>LP</p></td>
 </tr>

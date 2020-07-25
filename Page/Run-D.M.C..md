@@ -79,7 +79,7 @@
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/レイジング・ヘル" title="wikilink">Raising Hell</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>—</p></td>

@@ -445,7 +445,7 @@
 | ep.20 | One of thesE Night     | [イーグルス](../Page/イーグルス.md "wikilink")                | 『[呪われた夜](../Page/呪われた夜.md "wikilink")』及び収録曲                                                     | 1975年 |
 | ep.21 | Close to the Edge      | イエス                                                 | 『[危機](../Page/危機_\(イエスのアルバム\).md "wikilink")』及び収録曲                                              | 1972年 |
 | ep.22 | Physical Graffiti      | [レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")      | 『[フィジカル・グラフィティ](../Page/フィジカル・グラフィティ.md "wikilink")』                                            | 1975年 |
-| ep.23 | Hydra                  | [TOTO](../Page/TOTO_\(バンド\).md "wikilink")          | 『[ハイドラ](https://ja.wikipedia.org/wiki/ハイドラ_\(アルバム\) "wikilink")』及び収録曲                           | 1979年 |
+| ep.23 | Hydra                  | [TOTO](../Page/TOTO_\(バンド\).md "wikilink")          | 『[ハイドラ](../Page/ハイドラ_\(アルバム\).md "wikilink")』及び収録曲                                              | 1979年 |
 | ep.24 | Light My Fire          | [ドアーズ](../Page/ドアーズ.md "wikilink")                  | 『[ハートに火をつけて](../Page/ハートに火をつけて_\(アルバム\).md "wikilink")』収録[同名曲](../Page/ハートに火をつけて.md "wikilink") | 1967年 |
 | eq.25 | Walking On The Moon    | [ポリス](../Page/ポリス_\(バンド\).md "wikilink")            | 『[白いレガッタ](../Page/白いレガッタ.md "wikilink")(Reggatta de Blanc)』収録「ウォーキング・オン・ザ・ムーン」                  | 1979年 |
 | eq.26 | Still Alive And Well   | [ジョニー・ウィンター](../Page/ジョニー・ウィンター.md "wikilink")      | 『[スティル・アライヴ・アンド・ウェル](https://ja.wikipedia.org/wiki/スティル・アライヴ・アンド・ウェル "wikilink")』及び収録曲          | 1973年 |

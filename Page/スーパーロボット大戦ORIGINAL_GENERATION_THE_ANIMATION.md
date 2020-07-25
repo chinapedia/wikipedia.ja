@@ -74,7 +74,7 @@
   -
 
       -
-        作詞・作曲 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 編曲 - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") / 歌 - [JAM Project](../Page/JAM_Project.md "wikilink")
+        作詞・作曲 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 編曲 - [須藤賢一](../Page/須藤賢一.md "wikilink") / 歌 - [JAM Project](../Page/JAM_Project.md "wikilink")
 
   - エンディングテーマ
 

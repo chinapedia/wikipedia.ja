@@ -49,7 +49,7 @@
 
 ## スタッフ
 
-  - ナレーター：[田子千尋](https://ja.wikipedia.org/wiki/田子千尋 "wikilink")、[山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
+  - ナレーター：[田子千尋](../Page/田子千尋.md "wikilink")、[山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
   - チャガール（声の出演）：[小林麻耶](https://ja.wikipedia.org/wiki/小林麻耶 "wikilink")
   - 企画・プロデュース：[加藤嘉一](https://ja.wikipedia.org/wiki/加藤嘉一 "wikilink")
   - 構成：[都築浩](../Page/都築浩.md "wikilink")、[樋口卓治](../Page/樋口卓治.md "wikilink")、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、藤谷弥生、長谷川大雲、塩沢航、尾首大樹
@@ -62,7 +62,7 @@
   - 編集：掛川高志
   - MA：中尾和博
   - CG：山口泰広、服部泰仁
-  - 音響効果：福永真弓([ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink"))、太田光則(ZACK)
+  - 音響効果：福永真弓([ZACK](../Page/フリーダム・オブ・ザック.md "wikilink"))、太田光則(ZACK)
   - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[エヌ・エス・ティー](../Page/エヌ・エス・ティー.md "wikilink")、[麻布プラザ](../Page/麻布プラザ.md "wikilink")、[ティ・エル・シー](../Page/ティ・エル・シー.md "wikilink")、[東放制作](https://ja.wikipedia.org/wiki/東放制作 "wikilink")、[TAMCO](../Page/タムコ.md "wikilink")
   - 美術プロデューサー：[村上仁之](https://ja.wikipedia.org/wiki/村上仁之 "wikilink")
   - 美術デザイン：鈴木直人、藤井豊

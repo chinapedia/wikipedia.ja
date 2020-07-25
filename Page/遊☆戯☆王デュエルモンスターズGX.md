@@ -203,7 +203,7 @@
       - ストーリー後半（132話 - 156話）に入るにあたって映像が一部アレンジされた。
       - CD版とは曲のアレンジが異なる。
 4.  「Precious Time, Glory Days」（157話 - 180話）
-      - 作詞・作曲 - YOFFY / 編曲 - [大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌 - [サイキックラバー](../Page/サイキックラバー.md "wikilink")\[9\]（コロムビアミュージックエンタテイメント / マーベラスエンターテイメント）
+      - 作詞・作曲 - YOFFY / 編曲 - [大石憲一郎](../Page/大石憲一郎.md "wikilink") / 歌 - [サイキックラバー](../Page/サイキックラバー.md "wikilink")\[9\]（コロムビアミュージックエンタテイメント / マーベラスエンターテイメント）
 
 ### エンディングテーマ
 
@@ -222,7 +222,7 @@
 
 ## スタッフ
 
-ごく初期の数回を除き、韓国の[同友アニメーション](../Page/同友アニメーション.md "wikilink")と合同で制作しており、作画工程を中心に同友側へ発注している（一時期のみ、彩色工程は国内のスタジオに発注していた\[10\]）。次回作の『[遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")』では、同社は一部の回のみで単発的に[グロス請け](../Page/グロス請け.md "wikilink")を担当している。
+ごく初期の数回を除き、韓国の[同友アニメーション](../Page/同友アニメーション.md "wikilink")と合同で制作しており、作画工程を中心に同友側へ発注している（一時期のみ、彩色工程は国内のスタジオに発注していた\[10\]）。次回作の『[遊☆戯☆王5D's](../Page/遊☆戯☆王5D's.md "wikilink")』では、同社は一部の回のみで単発的に[グロス請け](../Page/グロス請け.md "wikilink")を担当している。
 
   - 原作 - [高橋和希](../Page/高橋和希.md "wikilink")（[集英社](../Page/集英社.md "wikilink")「[ジャンプコミックス](../Page/ジャンプ・コミックス.md "wikilink")」刊）
   - 監督 - [辻初樹](../Page/辻初樹.md "wikilink")
@@ -433,7 +433,7 @@ Jung Seung Jun</p></td>
 <td><p>菱川直樹</p></td>
 <td><p>Lee Ok Mi<br />
 Jung Seung Jun</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td></td>
 <td></td>
 </tr>

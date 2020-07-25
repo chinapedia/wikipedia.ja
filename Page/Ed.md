@@ -9,7 +9,7 @@ edはその簡潔さで有名で、結果を表示するということがほと
 
 最近ではedを対話的に使用することは滅多に無いが、[シェルスクリプト](../Page/シェルスクリプト.md "wikilink")で使われることはある。対話的使用に関しては、[1980年代](../Page/1980年代.md "wikilink")にsam、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")、[Emacs](../Page/Emacs.md "wikilink")に取って代わられた。edは事実上全てのバージョンのUNIXと[Linux](../Page/Linux.md "wikilink")に装備されており、様々なバージョンのUNIXで作業する人にとっては便利である。問題が発生したとき、edは使用可能な唯一のエディタである場合もある。そのような場合に限ってedは対話的に使用される。
 
-edのコマンド群は他のラインエディタで模倣されている。例えば初期の[MS-DOS](../Page/MS-DOS.md "wikilink")の[EDLIN](https://ja.wikipedia.org/wiki/EDLIN "wikilink")は似たような文法を採用しているし、多くの[MUD](../Page/MUD.md "wikilink")（[LPMud](https://ja.wikipedia.org/wiki/LPMud "wikilink")など）のテキストエディタもed風の文法を採用している。しかし、これらのエディタはedよりも一般に機能が限定されている。
+edのコマンド群は他のラインエディタで模倣されている。例えば初期の[MS-DOS](../Page/MS-DOS.md "wikilink")の[EDLIN](../Page/EDLIN.md "wikilink")は似たような文法を採用しているし、多くの[MUD](../Page/MUD.md "wikilink")（[LPMud](https://ja.wikipedia.org/wiki/LPMud "wikilink")など）のテキストエディタもed風の文法を採用している。しかし、これらのエディタはedよりも一般に機能が限定されている。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の開発によるedがバージョン1.0を迎えた\[1\]。
 
@@ -64,7 +64,7 @@ edのコマンド群は他のラインエディタで模倣されている。例
 ## 関連項目
 
   - [エディタ戦争](../Page/エディタ戦争.md "wikilink")
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
   - [vi](https://ja.wikipedia.org/wiki/vi "wikilink")
 
 ## 外部リンク

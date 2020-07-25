@@ -1362,7 +1362,7 @@ VTZL-111（Special CD付）</p></td>
 
 **2009年**
 
-  - 1月21日 ミニアルバム『[May'n☆Street](https://ja.wikipedia.org/wiki/May'n☆Street "wikilink")』発売記念イベント　[MBSサウンドキングダム](https://ja.wikipedia.org/wiki/MBSサウンドキングダム "wikilink") presents May'nスペシャルライブ（公開録音）　[毎日放送](../Page/毎日放送.md "wikilink")本社特設ステージ
+  - 1月21日 ミニアルバム『[May'n☆Street](https://ja.wikipedia.org/wiki/May'n☆Street "wikilink")』発売記念イベント　[MBSサウンドキングダム](../Page/MBSサウンドキングダム.md "wikilink") presents May'nスペシャルライブ（公開録音）　[毎日放送](../Page/毎日放送.md "wikilink")本社特設ステージ
   - 2月21日 アニうた2009 KITAKYUSHU　[北九州メディアドーム](../Page/北九州メディアドーム.md "wikilink")
   - 3月4日 [FMPORT](../Page/新潟県民エフエム放送.md "wikilink") [Q職 THE WAVE](../Page/Q職_THE_WAVE.md "wikilink") 番組公開録音内May'nミニライブ　[新潟市民プラザ](../Page/NEXT21_\(新潟市\).md "wikilink")
   - 3月29日 May'n LiveDVD「May'n☆Act」発売記念イベント　[ラゾーナ川崎プラザ](../Page/ラゾーナ川崎プラザ.md "wikilink")ルーファ広場グランドステージ

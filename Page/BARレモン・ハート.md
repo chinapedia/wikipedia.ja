@@ -193,7 +193,7 @@
 <td><p>10月12日</p></td>
 <td><p>1/150のプロポーズ</p></td>
 <td><p><a href="../Page/紫吹淳.md" title="wikilink">紫吹淳</a>:京子さん<br />
-<a href="https://ja.wikipedia.org/wiki/若林久弥" title="wikilink">若林久弥</a>:青木</p></td>
+<a href="../Page/若林久弥.md" title="wikilink">若林久弥</a>:青木</p></td>
 <td><p>水野宗徳</p></td>
 </tr>
 <tr class="even">

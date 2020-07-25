@@ -22,7 +22,7 @@ B albumの「B」には、CDジャケットにも記載されている通り「B
 1.  **スッピンGirl**
     （作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")　編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")）
 2.  **仮病をつかおう**
-    （作詞:戸沢暢美　作曲・編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
+    （作詞:戸沢暢美　作曲・編曲:[岩田雅之](../Page/岩田雅之.md "wikilink")）
 3.  **[愛されるより 愛したい](../Page/愛されるより_愛したい.md "wikilink")**
     （作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")　コーラスアレンジ:岩田雅之）
       -

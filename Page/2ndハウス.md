@@ -62,7 +62,7 @@
   - 妄想レディ・1号（三澤が妄想する） - [津乃村真子](https://ja.wikipedia.org/wiki/津乃村真子 "wikilink")
   - 妄想レディ・2号（須藤が妄想する） - [nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")
   - 妄想レディ・3号（田中が妄想する） - [伊藤修子](https://ja.wikipedia.org/wiki/伊藤修子 "wikilink")
-  - 妄想レディ・4号（片山が妄想する） - [ハルカ・オース](https://ja.wikipedia.org/wiki/ハルカ・オース "wikilink")
+  - 妄想レディ・4号（片山が妄想する） - [ハルカ・オース](../Page/ハルカ・オース.md "wikilink")
 
 #### 劇団レインボー
 

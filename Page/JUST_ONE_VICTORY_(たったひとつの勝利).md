@@ -13,9 +13,9 @@
 
 翌月から発売されるリプロダクション・シングルのイントロダクションとしてリミックスされたという。原曲バージョンとを聴き比べると、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")に[エコーがかかっていたり](../Page/エコー_\(音響機器\).md "wikilink")、[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")の[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")に[ディレイがかかっている](../Page/ディレイ_\(音響機器\).md "wikilink")。また先述の間奏途中の「Chase In～」が完全に[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")してからリフレインに入っている。なお、原曲版の場合は「Chase In～」がフェードアウトに入ると入れ替わるような感じでリフレインのメロディーがフェードインで入るいわゆる「[クロスフェード](https://ja.wikipedia.org/wiki/クロスフェード "wikilink")」となっている。
 
-[CAROLツアーライヴでは](../Page/CAROL_the_LIVE.md "wikilink")「Chase In～」の部分は省略されていたが、[1994年の終了ライヴでは原曲バージョン基調で](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")「Chase In～」が演奏されていた。
+[CAROLツアーライヴでは](../Page/CAROL_the_LIVE.md "wikilink")「Chase In～」の部分は省略されていたが、[1994年の終了ライヴでは原曲バージョン基調で](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink")「Chase In～」が演奏されていた。
 
-[2004年](../Page/2004年.md "wikilink")の20周年ライヴツアー『[DOUBLE-DECADE](https://ja.wikipedia.org/wiki/DOUBLE-DECADE_TOUR_"NETWORK" "wikilink")』では『**OFFENSIVE VERSION**』と題したアレンジバージョンが披露され、歌詞の一部が変更されたものとなっている（男たちの熱い**レース**→男たちの熱い**プライド**）。
+[2004年](../Page/2004年.md "wikilink")の20周年ライヴツアー『[DOUBLE-DECADE](../Page/DOUBLE-DECADE_TOUR_"NETWORK".md "wikilink")』では『**OFFENSIVE VERSION**』と題したアレンジバージョンが披露され、歌詞の一部が変更されたものとなっている（男たちの熱い**レース**→男たちの熱い**プライド**）。
 
 このシングルでは[アウトロ](../Page/アウトロ.md "wikilink")がフェードアウトされており収録時間が4分台 と短くなっているが、アルバム「CAROL」収録の原曲バージョン同様にカットアウト状態にされたものがリミックスアルバム「[CLASSIX 2](https://ja.wikipedia.org/wiki/CLASSIX "wikilink")」に収録されておりこちらは約5分台 である。なお、原曲バージョンはこれに加え「In The Forest (君の声が聞こえる)」のインストルメンタルVersionの[ピアノ](../Page/ピアノ.md "wikilink")[伴奏](https://ja.wikipedia.org/wiki/伴奏 "wikilink")があり、約7分近く とさらに長い。
 

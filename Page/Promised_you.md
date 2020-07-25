@@ -1,7 +1,7 @@
 > この記事は[Promised you](https://ja.wikipedia.org/wiki/Promised_you)から翻訳されています。
 
 
-「**promised you**」（プロミスド・ユー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の33作目の[シングル](../Page/シングル.md "wikilink")。
+「**promised you**」（プロミスド・ユー）は、[ZARD](../Page/ZARD.md "wikilink")の33作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -59,7 +59,7 @@
 
 ## 関連項目
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:栗林誠一郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:栗林誠一郎が制作した楽曲 "wikilink") [Category:土曜ワイド劇場の主題歌](https://ja.wikipedia.org/wiki/Category:土曜ワイド劇場の主題歌 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

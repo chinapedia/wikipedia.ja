@@ -217,7 +217,7 @@
   - [BEATS AFTER WORDS](https://ja.wikipedia.org/wiki/BEATS_AFTER_WORDS "wikilink")（2000年1月 - 2001年12月、 CROSS FM） ※当時のCROSS FMは[エフエム九州](../Page/エフエム九州.md "wikilink")
   - [ap bank radio\! THE LAST WAVE](https://ja.wikipedia.org/wiki/ap_bank_radio!_THE_LAST_WAVE "wikilink")（[TOKYO-FM](../Page/エフエム東京.md "wikilink")）
   - [GAKU-MCのガク問ノススメ](https://ja.wikipedia.org/wiki/GAKU-MCのガク問ノススメ "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink") & [エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")） - 2009年10月のマンスリーレギュラー
-  - [WORDS FROM THE FIELD](https://ja.wikipedia.org/wiki/WORDS_FROM_THE_FIELD "wikilink") （2013年4月 -、[J-WAVE](../Page/J-WAVE.md "wikilink") ） - [〜JK RADIO〜TOKYO UNITED内](https://ja.wikipedia.org/wiki/〜JK_RADIO〜TOKYO_UNITED "wikilink") 6時32分から10分間のワンコーナー
+  - [WORDS FROM THE FIELD](https://ja.wikipedia.org/wiki/WORDS_FROM_THE_FIELD "wikilink") （2013年4月 -、[J-WAVE](../Page/J-WAVE.md "wikilink") ） - [〜JK RADIO〜TOKYO UNITED内](../Page/〜JK_RADIO〜TOKYO_UNITED.md "wikilink") 6時32分から10分間のワンコーナー
   - Radio Rap＋（2016年7月2日 - [ベイエフエム](../Page/ベイエフエム.md "wikilink")）\[2\]
   - ニッポン放送サッカースペシャル サッカーワールドカップロシア アジア最終予選（2016年 - 2017年、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - [GAKU-MCのラジオグッジョブ](https://ja.wikipedia.org/wiki/GAKU-MCのラジオグッジョブ "wikilink")（2019年10月 - ）（エフエム・ノースウェーブ）

@@ -72,7 +72,7 @@
 
 [向井秀徳](../Page/向井秀徳.md "wikilink")（[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）など多くのロックミュージシャンが彼らからの影響を公言している。吉野自身はナンバーガールの楽曲にeastern youthの影響は感じられないとしつつも、そのオリジナリティーを「[ブッチャーズとfOULで打ち止めかと思っていたけど](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")、もう一個刺客が出て来た」と評した\[19\]。
 
-同じ北海道出身のbloodthirsty butchersおよびfOULとは親交が深く、「極東最前線」を含む数多くのライブで共演している。吉野自身大好きなバンドとしてこの2つのバンドを頻繁に挙げ、活動休止中のfOULに1人のファンとして呼びかけ、後述の[オムニバス](../Page/オムニバス.md "wikilink")アルバム『極東最前線2』に参加してもらうなどしている。「極東最前線」の開催数は80回を超え（2012年4月現在）、bloodthirsty butchers, [あぶらだこ](../Page/あぶらだこ.md "wikilink")、[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")、[ハスキング・ビー](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[小谷美紗子](../Page/小谷美紗子.md "wikilink")、[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")、[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")、カーシヴなど、国を問わず様々なアーティストをゲストとして迎え入れている。
+同じ北海道出身のbloodthirsty butchersおよびfOULとは親交が深く、「極東最前線」を含む数多くのライブで共演している。吉野自身大好きなバンドとしてこの2つのバンドを頻繁に挙げ、活動休止中のfOULに1人のファンとして呼びかけ、後述の[オムニバス](../Page/オムニバス.md "wikilink")アルバム『極東最前線2』に参加してもらうなどしている。「極東最前線」の開催数は80回を超え（2012年4月現在）、bloodthirsty butchers, [あぶらだこ](../Page/あぶらだこ.md "wikilink")、[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")、[ハスキング・ビー](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")、[小谷美紗子](../Page/小谷美紗子.md "wikilink")、[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")、[ジミー・イート・ワールド](../Page/ジミー・イート・ワールド.md "wikilink")、カーシヴなど、国を問わず様々なアーティストをゲストとして迎え入れている。
 
 ## ディスコグラフィー
 

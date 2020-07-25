@@ -72,7 +72,7 @@
       - ['67マスタング](../Page/フォード・マスタング.md "wikilink")
       - [マスタング99GT](../Page/フォード・マスタング.md "wikilink")
       - [ファルコンXR8](https://ja.wikipedia.org/wiki/フォード・ファルコン "wikilink")
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink")
       - [MX-5（NA8C）](../Page/マツダ・ロードスター.md "wikilink")
       - [RX-7（FD3S）](../Page/マツダ・RX-7.md "wikilink")
       - [RX-8](../Page/マツダ・RX-8.md "wikilink")

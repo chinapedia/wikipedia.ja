@@ -8,7 +8,7 @@
   - [岡田浩暉](../Page/岡田浩暉.md "wikilink")（ボーカル・作詞）
       - 音楽活動と並行して[俳優](../Page/俳優.md "wikilink")としても活動。
   - [佐藤鷹](https://ja.wikipedia.org/wiki/佐藤鷹 "wikilink")（キーボード・作曲・編曲）
-      - 元[コスミック・インベンション](../Page/コスミック・インベンション.md "wikilink")のメンバー。映画『[口裂け女2](https://ja.wikipedia.org/wiki/口裂け女2 "wikilink")』音楽担当。
+      - 元[コスミック・インベンション](../Page/コスミック・インベンション.md "wikilink")のメンバー。映画『[口裂け女2](../Page/口裂け女2.md "wikilink")』音楽担当。
   - [後藤友輔](../Page/後藤友輔.md "wikilink")（ギター・キーボード・作詞・作曲）、[アバロンミュージックスクール](https://ja.wikipedia.org/wiki/アバロンミュージックスクール "wikilink")及び[アバロン声優スクール](https://ja.wikipedia.org/wiki/アバロン声優スクール "wikilink")
 
 ## 来歴

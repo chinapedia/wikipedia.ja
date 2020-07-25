@@ -7,7 +7,7 @@
 
 ## 概説
 
-**Free Pascal**は、複数のCPUアーキテクチャ（[32ビット](../Page/32ビット.md "wikilink")/[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）、複数の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) をサポートするコンパイラであり、広く用いられる各種システム向けに移植されている。言語仕様はObject Pascalに加えて、[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、そして過去に存在した[Macintosh](../Page/Macintosh.md "wikilink")コンパイラの方言に対応している。
+**Free Pascal**は、複数のCPUアーキテクチャ（[32ビット](../Page/32ビット.md "wikilink")/[64ビット](../Page/64ビット.md "wikilink")）、複数の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) をサポートするコンパイラであり、広く用いられる各種システム向けに移植されている。言語仕様はObject Pascalに加えて、[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、そして過去に存在した[Macintosh](../Page/Macintosh.md "wikilink")コンパイラの方言に対応している。
 
 Free Pascalは以前、**FPK Pascal**の名で知られていた。これは "Free Pascal Kompiler" の略ではなく、実際は作者のイニシャルから名をとったものである (Florian Paul Klämpfl)。その後、プロジェクトの参加者が増えたため、誤解を避ける目的から1997年の終わりに、Free Pascal Compiler (FPC) と改名した。
 

@@ -37,7 +37,7 @@
   - [日枝久](../Page/日枝久.md "wikilink") - JUNGLEを放送していた頃のフジテレビ社長
   - [小川晋一](../Page/小川晋一.md "wikilink") - JUNGLEを放送していた頃の編成制作局編成部長
   - [ウィルソン・ブライアン・キイ](https://ja.wikipedia.org/wiki/ウィルソン・ブライアン・キイ "wikilink") - 都市伝説解析の参考文献とされたサブリミナル広告解析書「メディア・セックス」（1989）の著者
-  - [サブリミナル効果](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")
+  - [サブリミナル効果](../Page/サブリミナル効果.md "wikilink")
 
 [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:フジテレビの歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの歴史 "wikilink")
 

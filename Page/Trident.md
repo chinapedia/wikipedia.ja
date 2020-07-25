@@ -3,7 +3,7 @@
 
 **Trident** （トライデント）は [Internet Explorer](../Page/Internet_Explorer.md "wikilink") に搭載されている [HTML レンダリング エンジンの名称で](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")、ライブラリ ファイルの名称から **MSHTML** とも呼ばれている。
 
-Internet Explorer 4.0 より導入されたもので、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 向けではアップデートを重ねているが、[Macintosh](../Page/Macintosh.md "wikilink") 向けの [Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink") は次のバージョンの 5.0 で [Tasman](https://ja.wikipedia.org/wiki/Tasman "wikilink") に置き換えられた。Internet Explorer 7 とそれ以降に含まれるバージョンでは[ウェブ標準](../Page/ウェブ標準.md "wikilink")に準拠するように開発されている。
+Internet Explorer 4.0 より導入されたもので、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 向けではアップデートを重ねているが、[Macintosh](../Page/Macintosh.md "wikilink") 向けの [Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink") は次のバージョンの 5.0 で [Tasman](../Page/Tasman.md "wikilink") に置き換えられた。Internet Explorer 7 とそれ以降に含まれるバージョンでは[ウェブ標準](../Page/ウェブ標準.md "wikilink")に準拠するように開発されている。
 
 Trident は[ソフトウェア開発者](https://ja.wikipedia.org/wiki/ソフトウェア開発者 "wikilink")が自分のソフトウェアにウェブ ブラウズ機能を容易に追加できるよう、[ソフトウェア コンポーネントとして設計されている](../Page/ソフトウェアコンポーネント.md "wikilink")。Trident ではウェブ アクセスと編集のための [COM](../Page/Component_Object_Model.md "wikilink") インターフェイスが提供されている。例えば、Trident のウェブ ブラウザ コントロールを使用してウェブ ページを表示したり、表示中の各要素の値を取得・変更したり、表示したウェブ ページ上で発生したイベントを取得したりといった機能を組み込むことができる。Trident の機能は mshtml.dll というライブラリとリンクすることによって利用可能であり、[C++](../Page/C++.md "wikilink") や [.NET](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink") といった COM をサポートする処理系から扱うことができる。
 

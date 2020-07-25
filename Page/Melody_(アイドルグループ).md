@@ -103,10 +103,10 @@
 ### 再評価
 
   - 少しずつではあるが楽曲に対する再評価が増えはじめ、雑誌の名盤カタログ等での推薦、配信リリースでの高売上など、度々Melodyの名前を紹介される機会に恵まれる。
-  - 雑誌『[オリコン・ウィーク The Ichiban](../Page/オリコン・エンタテインメント.md "wikilink")』の企画「21世紀に残したいアイドル名盤」にて、アルバム『[Love Bomb\!](https://ja.wikipedia.org/wiki/Love_Bomb! "wikilink")』と『[fine〜フィーネ〜](https://ja.wikipedia.org/wiki/fine〜フィーネ〜 "wikilink")』の2枚が名盤として選出\[3\]。
+  - 雑誌『[オリコン・ウィーク The Ichiban](../Page/オリコン・エンタテインメント.md "wikilink")』の企画「21世紀に残したいアイドル名盤」にて、アルバム『[Love Bomb\!](../Page/Love_Bomb!.md "wikilink")』と『[fine〜フィーネ〜](https://ja.wikipedia.org/wiki/fine〜フィーネ〜 "wikilink")』の2枚が名盤として選出\[3\]。
   - 『[別冊宝島](../Page/別冊宝島.md "wikilink")100万人のアイドルポップス』の企画「ときめきの名曲150（1978-1993）」では、シングル「素直に言えない」が1993年の名曲の一つとして選出\[4\]。
-  - デビューから10年後の[2003年](../Page/2003年.md "wikilink")、シングルコンプリートベスト『[Melody BEST](https://ja.wikipedia.org/wiki/Melody_BEST "wikilink")』がリリースされる。
-  - [2009年](../Page/2009年.md "wikilink")3月、ポニーキャニオンの配信新サービス[CD COOKIEにてアルバム](https://ja.wikipedia.org/wiki/CD_COOKIE "wikilink")『[Love Bomb\!](https://ja.wikipedia.org/wiki/Love_Bomb! "wikilink")』が累計購入ランキングで第1位を記録。同年8月までの約5ヶ月間、連続第1位を保持した。
+  - デビューから10年後の[2003年](../Page/2003年.md "wikilink")、シングルコンプリートベスト『[Melody BEST](../Page/Melody_BEST.md "wikilink")』がリリースされる。
+  - [2009年](../Page/2009年.md "wikilink")3月、ポニーキャニオンの配信新サービス[CD COOKIEにてアルバム](https://ja.wikipedia.org/wiki/CD_COOKIE "wikilink")『[Love Bomb\!](../Page/Love_Bomb!.md "wikilink")』が累計購入ランキングで第1位を記録。同年8月までの約5ヶ月間、連続第1位を保持した。
   - 書籍『ラグジュアリー歌謡 (((80s))) パーラー気分で楽しむ邦楽音盤ガイド538』では、シングル「[GET LOVE](https://ja.wikipedia.org/wiki/GET_LOVE "wikilink")」が名盤の一つとして選出され、カップリング曲「You are only my love」が紹介された\[5\]書籍『アイドル楽曲ディスクガイド』では、シングル「運命'95」が1990年代前半の名曲の一つとして紹介されている\[6\]。
 
 ## リリース作品
@@ -168,7 +168,7 @@
 <td><p>1</p></td>
 <td><p><strong>いちばん好きと言って</strong><br />
 作詞：<a href="../Page/岩里祐穂.md" title="wikilink">岩里祐穂</a><br />
-作曲：<a href="https://ja.wikipedia.org/wiki/井上日徳" title="wikilink">井上日徳</a><br />
+作曲：<a href="../Page/井上日徳.md" title="wikilink">井上日徳</a><br />
 編曲：井上日徳</p></td>
 <td><p>初回特典／ステッカー</p></td>
 <td><p>SIDN-12</p></td>
@@ -463,7 +463,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>1995年9月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Love_Bomb!" title="wikilink">Love Bomb!</a></strong></p></td>
+<td><p><strong><a href="../Page/Love_Bomb!.md" title="wikilink">Love Bomb!</a></strong></p></td>
 <td><p>オリジナルアルバム<br />
 ソロ曲「<strong>Knock Me 〜あなたを越えたい〜</strong> 」「<strong>ねぇ、ダーリン!</strong>」「<strong>Your Song</strong>」も収録。</p></td>
 <td><p>PCCA-00800</p></td>
@@ -511,7 +511,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2003年5月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Melody_BEST" title="wikilink">Melody BEST</a></strong></p></td>
+<td><p><strong><a href="../Page/Melody_BEST.md" title="wikilink">Melody BEST</a></strong></p></td>
 <td><p>シングルコンプリートベスト<br />
 カップリングを含めたシングル曲を全曲オリジナルバージョンで収録。</p></td>
 <td><p>PCCA-01890</p></td>
@@ -664,7 +664,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
   - Oh\!ソレ見ヨウヨ、赤丸チェック、見逃せナイト（1993年 - 1995年、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）- レギュラー
   - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1993年 - 1997年、[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）- 準レギュラー
-  - [夕食ばんざい](https://ja.wikipedia.org/wiki/夕食ばんざい "wikilink")（1994年、フジテレビ系）
+  - [夕食ばんざい](../Page/夕食ばんざい.md "wikilink")（1994年、フジテレビ系）
   - [どうーなってるの?\!](../Page/どうーなってるの?!.md "wikilink")（1994年、フジテレビ系）
   - [24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")（1994年 - 1996年、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
   - [パワーギャング](https://ja.wikipedia.org/wiki/パワーギャング "wikilink")（1995年、[テレビ北海道](../Page/テレビ北海道.md "wikilink")）

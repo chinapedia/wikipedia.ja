@@ -367,7 +367,7 @@ VICL-37509（通常盤）</p></td>
 #ハレルヤ</p>
 <ol>
 <li>相殺微量サイレンス</li>
-<li><a href="https://ja.wikipedia.org/wiki/ぼくたちの失敗" title="wikilink">ぼくたちの失敗</a></li>
+<li><a href="../Page/ぼくたちの失敗.md" title="wikilink">ぼくたちの失敗</a></li>
 </ol>
 <p>DISC 2(完全生産限定盤のみ)<br />
 <strong>ポルノ超特急2018 -5th ANNIVERSARY-</strong><br />

@@ -540,7 +540,7 @@ LEXCD-12012</p></td>
 
 <!-- end list -->
 
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")「LOVE BEATS」（2010年3月24日）
+  - [Sweep](../Page/Sweep.md "wikilink")「LOVE BEATS」（2010年3月24日）
 
 <!-- end list -->
 

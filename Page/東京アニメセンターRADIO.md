@@ -51,7 +51,7 @@
 
   - [伊東久美子](../Page/伊東久美子.md "wikilink")
   - [鷹嘴翼](../Page/鷹嘴翼.md "wikilink")
-  - [中山大吾](https://ja.wikipedia.org/wiki/中山大吾 "wikilink")
+  - [中山大吾](../Page/中山大吾.md "wikilink")
 
 ### 2008年度
 

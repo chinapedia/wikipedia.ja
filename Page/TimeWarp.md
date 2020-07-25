@@ -45,7 +45,7 @@
   - 代表取締役：[時盛裕行](https://ja.wikipedia.org/wiki/時盛裕行 "wikilink")
   - プロデューサー：[魚谷昇](https://ja.wikipedia.org/wiki/魚谷昇 "wikilink")、[塚本修史](https://ja.wikipedia.org/wiki/塚本修史 "wikilink")、[松岡剛](../Page/松岡剛.md "wikilink")
   - ディレクター：吉川孝、森崎荘三
-  - AD：[田中明子](https://ja.wikipedia.org/wiki/田中明子 "wikilink")
+  - AD：[田中明子](../Page/田中明子.md "wikilink")
 
 ## 制作していたテレビ番組
 

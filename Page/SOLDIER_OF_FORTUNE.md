@@ -5,7 +5,7 @@
 
 [2002年](../Page/2002年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に第2期以降の他のアルバムと一緒に廉価盤がリリースされた。その際、帯と歌詞カード、レーベル面のデザインが変更されている。
 
-[2009年](../Page/2009年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")に[SHM-CD仕様の](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")24ビットデジタルリマスター盤、[2015年](../Page/2015年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に新規リマスター盤が発売された。
+[2009年](../Page/2009年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")に[SHM-CD仕様の](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")24ビットデジタルリマスター盤、[2015年](../Page/2015年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に新規リマスター盤が発売された。
 
 ## 内容
 

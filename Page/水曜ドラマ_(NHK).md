@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1972年](../Page/1972年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に水曜20:00枠でスタート。ただし期間は短く、[1975年](../Page/1975年.md "wikilink")4月から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月までの歌謡・バラエティ番組枠、1978年4月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月までの[時代劇枠を挟んで](../Page/土曜時代劇_\(NHK\).md "wikilink")、12年後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に再び現代劇中心のドラマ枠となり、中断期間を幾度も挿みつつも[1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで編成され続けた。
+[1972年](../Page/1972年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に水曜20:00枠でスタート。ただし期間は短く、[1975年](../Page/1975年.md "wikilink")4月から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月までの歌謡・バラエティ番組枠、1978年4月から[1986年](../Page/1986年.md "wikilink")12月までの[時代劇枠を挟んで](../Page/土曜時代劇_\(NHK\).md "wikilink")、12年後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に再び現代劇中心のドラマ枠となり、中断期間を幾度も挿みつつも[1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで編成され続けた。
 
 そして[1996年](../Page/1996年.md "wikilink")4月から水曜22:00枠で『**水曜シリーズドラマ**』と題して再度編成\[1\]、その後[1999年](../Page/1999年.md "wikilink")4月に『**水曜ドラマの花束**』に名称変更され\[2\]、[2000年](../Page/2000年.md "wikilink")3月まで続けられた。
 

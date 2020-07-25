@@ -1,7 +1,7 @@
 > この記事は[フィリピン共産党 \(PKP\)](https://ja.wikipedia.org/wiki/フィリピン共産党_\(PKP\))から翻訳されています。
 
 
-**フィリピン共産党**（フィリピンきょうさんとう、）は、[1930年](../Page/1930年.md "wikilink")[8月](../Page/8月.md "wikilink")に[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")で結成された[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")[政党](../Page/政党.md "wikilink")。通常**PKP**と略称され（「[ソ連派](https://ja.wikipedia.org/wiki/ソ連派 "wikilink")共産党」とも呼ばれる）、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[毛沢東思想](../Page/毛沢東思想.md "wikilink")の影響を受け結成された[フィリピン共産党](https://ja.wikipedia.org/wiki/フィリピン共産党_\(CPP\) "wikilink")（**CPP** / 再建派共産党）とは区別されている。
+**フィリピン共産党**（フィリピンきょうさんとう、）は、[1930年](../Page/1930年.md "wikilink")[8月](../Page/8月.md "wikilink")に[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")で結成された[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")[政党](../Page/政党.md "wikilink")。通常**PKP**と略称され（「[ソ連派](https://ja.wikipedia.org/wiki/ソ連派 "wikilink")共産党」とも呼ばれる）、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[1968年](../Page/1968年.md "wikilink")に[毛沢東思想](../Page/毛沢東思想.md "wikilink")の影響を受け結成された[フィリピン共産党](https://ja.wikipedia.org/wiki/フィリピン共産党_\(CPP\) "wikilink")（**CPP** / 再建派共産党）とは区別されている。
 
 ## 結党の事情
 
@@ -19,7 +19,7 @@
 
 戦後、共産党は同党を中心に[民主同盟](https://ja.wikipedia.org/wiki/民主同盟_\(フィリピン\) "wikilink")（DA）を結成、議会進出により国政への影響力を強めようとしたが、復帰した米軍・コモンウェルス当局により弾圧され、また当選したDA所属の国会議員も議席を剥奪された。このため共産党は再び武装路線をとるようになり、フクバラハップを基盤にゲリラ組織「[人民解放軍](https://ja.wikipedia.org/wiki/フィリピン人民解放軍 "wikilink")（HMB）」を結成、[1940年代](../Page/1940年代.md "wikilink")末から[1950年代](../Page/1950年代.md "wikilink")初めに至るまで、中部[ルソン島](../Page/ルソン島.md "wikilink")を中心にフク反乱と呼ばれる大規模な反乱を展開した。
 
-しかし[マグサイサイ国防長官の就任とアメリカの反乱鎮圧援助](../Page/ラモン・マグサイサイ.md "wikilink")、さらに党内部における旧共産党系・旧社会党系の対立により、[1950年代](../Page/1950年代.md "wikilink")半ばまでに反乱は鎮静化に向かった（この過程で人民軍幹部タルクを説得し帰順させたのが当時新聞記者であった[ベニグノ・アキノ・ジュニア](../Page/ベニグノ・アキノ・ジュニア.md "wikilink")である）。これ以降、[1960年代](../Page/1960年代.md "wikilink")末の[再建共産党（CPP）の結成まで](https://ja.wikipedia.org/wiki/フィリピン共産党_\(CPP\) "wikilink")、フィリピンにおける共産主義運動、および左翼勢力の[武装闘争](../Page/武装闘争.md "wikilink")は退潮期に入ったが、前[フィリピン大学](https://ja.wikipedia.org/wiki/フィリピン大学 "wikilink")総長である[フランシスコ・ネメンソ](https://ja.wikipedia.org/wiki/フランシスコ・ネメンソ "wikilink")（[Francisco Nemenzo](https://ja.wikipedia.org/wiki/:en:Insurgency_in_the_Philippines "wikilink")）が共産主義者であるように[知識人](../Page/知識人.md "wikilink")の間で強い影響力を持っていると見られている。
+しかし[マグサイサイ国防長官の就任とアメリカの反乱鎮圧援助](../Page/ラモン・マグサイサイ.md "wikilink")、さらに党内部における旧共産党系・旧社会党系の対立により、[1950年代](../Page/1950年代.md "wikilink")半ばまでに反乱は鎮静化に向かった（この過程で人民軍幹部タルクを説得し帰順させたのが当時新聞記者であった[ベニグノ・アキノ・ジュニア](../Page/ベニグノ・アキノ・ジュニア.md "wikilink")である）。これ以降、[1960年代](../Page/1960年代.md "wikilink")末の[再建共産党（CPP）の結成まで](https://ja.wikipedia.org/wiki/フィリピン共産党_\(CPP\) "wikilink")、フィリピンにおける共産主義運動、および左翼勢力の[武装闘争](../Page/武装闘争.md "wikilink")は退潮期に入ったが、前[フィリピン大学](../Page/フィリピン大学.md "wikilink")総長である[フランシスコ・ネメンソ](https://ja.wikipedia.org/wiki/フランシスコ・ネメンソ "wikilink")（[Francisco Nemenzo](https://ja.wikipedia.org/wiki/:en:Insurgency_in_the_Philippines "wikilink")）が共産主義者であるように[知識人](../Page/知識人.md "wikilink")の間で強い影響力を持っていると見られている。
 
 ## 関連項目
 

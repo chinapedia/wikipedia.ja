@@ -103,7 +103,7 @@
 <div class="NavContent" style="text-align: left;">
 
   -
-    （**いぬじまん**、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月16日](../Page/10月16日.md "wikilink") -）
+    （**いぬじまん**、[1968年](../Page/1968年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink") -）
 
 2002年、秋頃に脱退。
 

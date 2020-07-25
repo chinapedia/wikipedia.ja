@@ -154,7 +154,7 @@
         JFN系列各局：自社のジングルやコマーシャル
         TOKYO FM：石川が約15秒間その日の東京の天気や首都圏の鉄道の運行状況などを伝えて、最後に「いってらっしゃい」のコールが入る。
         －ここから全国38局フルネット部分－
-  - **7:00 （T）[WONDA モーニングショット WAKE UP NEWS ワンショットコラム](../Page/WAKE_UP_NEWS.md "wikilink")**（終了後7:08からTFMでは交通情報、地方局（TFM以外）では「[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")プラネットグラフティ」（CM扱い）を放送）
+  - **7:00 （T）[WONDA モーニングショット WAKE UP NEWS ワンショットコラム](../Page/WAKE_UP_NEWS.md "wikilink")**（終了後7:08からTFMでは交通情報、地方局（TFM以外）では「[聖教新聞](../Page/聖教新聞.md "wikilink")プラネットグラフティ」（CM扱い）を放送）
   - **7:10 （T）[リポビタンD Sports Nonfiction](../Page/リポビタンD_Sports_Nonfiction.md "wikilink")**
   - **7:20 （T）[TOYOTA VIEW UP TOMORROW](../Page/VIEW_UP_TOMORROW.md "wikilink") Show Biz File**
       -

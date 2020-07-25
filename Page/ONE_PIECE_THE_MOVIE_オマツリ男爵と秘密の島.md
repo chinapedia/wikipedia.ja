@@ -115,7 +115,7 @@
     [安藤正浩](../Page/安藤正浩.md "wikilink") [西田達三](../Page/西田達三.md "wikilink") 君島繁 [伊東伸高](https://ja.wikipedia.org/wiki/伊東伸高 "wikilink") 矢崎優子
     [濱州英喜](https://ja.wikipedia.org/wiki/濱洲英喜 "wikilink") 木下和栄 [大塚健](../Page/大塚健_\(アニメーター\).md "wikilink") 増永計介 市川慶一
     伊藤修一 [中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink") 向田隆 小松英司 松田宗一郎
-    村谷貴志 坂崎忠 [和田高明](../Page/和田高明.md "wikilink") [加々美高浩](https://ja.wikipedia.org/wiki/加々美高浩 "wikilink") 西位輝実
+    村谷貴志 坂崎忠 [和田高明](../Page/和田高明.md "wikilink") [加々美高浩](../Page/加々美高浩.md "wikilink") 西位輝実
     小倉寛之 小松田大全 苫政三 [高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(アニメーター\) "wikilink") 三浦春樹
     [馬越嘉彦](../Page/馬越嘉彦.md "wikilink") 奥田佳子 馬場充子 駒井一也 [吉田徹](../Page/吉田徹.md "wikilink")
     杉浦幸次 [橋本敬史](../Page/橋本敬史.md "wikilink") [福田道生](../Page/福田道生.md "wikilink") [芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink") 新井浩一

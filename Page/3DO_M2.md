@@ -125,7 +125,7 @@ M2基板には下記を備えるインターフェイス基板が接続される
 
 ### 採用事例
 
-  - 「[とべ\!ポリスターズ](https://ja.wikipedia.org/wiki/とべ!ポリスターズ "wikilink")」,アーケードゲーム,コナミ,1997年
+  - 「[とべ\!ポリスターズ](../Page/とべ!ポリスターズ.md "wikilink")」,アーケードゲーム,コナミ,1997年
   - 「[Battle Tryst](https://ja.wikipedia.org/wiki/Battle_Tryst "wikilink")」,アーケードゲーム,コナミ,1998年
   - 「Evil Night / Hell Night」,アーケードゲーム,コナミ,1998年
   - 「Heat Of Eleven '98」,アーケードゲーム,コナミ,1998年

@@ -5,11 +5,11 @@
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")にアナウンスがあり、[2005年](../Page/2005年.md "wikilink")[11月](../Page/11月.md "wikilink")リリースのOpenSolaris build 27で実装が公開された。 "[Common Development and Distribution License](https://ja.wikipedia.org/wiki/Common_Development_and_Distribution_License "wikilink")" (CDDL) のもと、[オープンソース](../Page/オープンソース.md "wikilink")で開発されている。
+[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")にアナウンスがあり、[2005年](../Page/2005年.md "wikilink")[11月](../Page/11月.md "wikilink")リリースのOpenSolaris build 27で実装が公開された。 "[Common Development and Distribution License](../Page/Common_Development_and_Distribution_License.md "wikilink")" (CDDL) のもと、[オープンソース](../Page/オープンソース.md "wikilink")で開発されている。
 
 特徴として以下の項目が挙げられる。
 
-  - [チェックサム](../Page/チェックサム.md "wikilink")が[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")化された
+  - [チェックサム](../Page/チェックサム.md "wikilink")が[64ビット](../Page/64ビット.md "wikilink")化された
   - [コピーオンライト](../Page/コピーオンライト.md "wikilink")の実装
   - ボリュームマネージャが必要なく、ボリュームの構成が容易にできるようになった
   - ディスクの違い（容量、種類）を吸収する仮想ボリューム（ストレージプールと呼称）をサポート

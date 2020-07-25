@@ -34,7 +34,7 @@
 11. **Europe** (哀愁のヨーロッパ) / **[サンタナ](../Page/サンタナ_\(バンド\).md "wikilink")**
     MITSUBISHI MOTORS [ランサー](../Page/三菱・ランサー.md "wikilink") (1991年～1992年)
 12. **On The Beach** / **[クリス・レア](https://ja.wikipedia.org/wiki/クリス・レア "wikilink")**
-    [Mazda](https://ja.wikipedia.org/wiki/マツダ "wikilink") [エチュード](../Page/マツダ・エチュード.md "wikilink") (1987年)
+    [Mazda](../Page/マツダ.md "wikilink") [エチュード](../Page/マツダ・エチュード.md "wikilink") (1987年)
 13. **You Can Have Me Anytime** (トワイライト・ハイウェイ) / **[ボズ・スキャックス](https://ja.wikipedia.org/wiki/ボズ・スキャックス "wikilink")**
     TOYOTA [クレスタ](../Page/トヨタ・クレスタ.md "wikilink") (1981年～1982年)
 14. **Keep Telling Myself** / **[カーティス・スタイガース](https://ja.wikipedia.org/wiki/カーティス・スタイガース "wikilink")**

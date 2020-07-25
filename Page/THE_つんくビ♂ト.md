@@ -7,7 +7,7 @@
 
   - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")
       -
-        [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")生まれ。血液型B型。
+        [1968年](../Page/1968年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")生まれ。血液型B型。
   - [まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")（シャ乱Q） - [ドラムス](../Page/ドラムセット.md "wikilink")
       -
         1968年[12月31日](../Page/12月31日.md "wikilink")生まれ。血液型A型。

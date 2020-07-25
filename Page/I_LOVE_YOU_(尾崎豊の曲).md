@@ -37,7 +37,7 @@
 
 ## ミュージック・ビデオ
 
-[PVはビデオ](../Page/ミュージック・ビデオ.md "wikilink")『[6 PIECES OF STORY](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）では1985年11月14日の[代々木オリンピックプール第一体育館でのライブ音源を元に](../Page/国立代々木競技場.md "wikilink")、独房のような場所で尾崎がたたずみ、転げ回り不気味に笑うなど狂ったような様子の尾崎を映したものが収録されている。[1996年](../Page/1996年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には[1991年](../Page/1991年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")に行われた郡山市民文化センターでのライブ映像を使用した新たなPVがシングルビデオとして発売されている。[2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[10 PIECES OF STORYには](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")、また新たなミュージックビデオが制作されている\[7\]。
+[PVはビデオ](../Page/ミュージック・ビデオ.md "wikilink")『[6 PIECES OF STORY](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")』（[1986年](../Page/1986年.md "wikilink")）では1985年11月14日の[代々木オリンピックプール第一体育館でのライブ音源を元に](../Page/国立代々木競技場.md "wikilink")、独房のような場所で尾崎がたたずみ、転げ回り不気味に笑うなど狂ったような様子の尾崎を映したものが収録されている。[1996年](../Page/1996年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には[1991年](../Page/1991年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")に行われた郡山市民文化センターでのライブ映像を使用した新たなPVがシングルビデオとして発売されている。[2018年](../Page/2018年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[10 PIECES OF STORYには](https://ja.wikipedia.org/wiki/6_PIECES_OF_STORY "wikilink")、また新たなミュージックビデオが制作されている\[7\]。
 
 ## ライブ・パフォーマンス
 
@@ -67,7 +67,7 @@
 
 :\* [KDDI](../Page/KDDI.md "wikilink")・音楽配信サービス「[LISMO](../Page/LISMO.md "wikilink")」（2009年）\[13\]\[14\] - 初めて尾崎豊自身の映像がCMに使用される。
 
-:\* [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（2010年） - 尾崎の息子である[尾崎裕哉](https://ja.wikipedia.org/wiki/尾崎裕哉 "wikilink")のカバーを使用。
+:\* [ANA](../Page/全日本空輸.md "wikilink")（2010年） - 尾崎の息子である[尾崎裕哉](https://ja.wikipedia.org/wiki/尾崎裕哉 "wikilink")のカバーを使用。
 
 :\* [ダイドーブレンドコーヒー](../Page/ダイドーブレンドコーヒー.md "wikilink")（2010年） - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")によるカバーを使用。
 

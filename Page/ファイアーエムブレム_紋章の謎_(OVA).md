@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - 発売日：[1996年](../Page/1996年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+  - 発売日：[1996年](../Page/1996年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")
   - 商品番号：JSVA-22757（VHS） JSLA-22757（LD）
   - 総収録時間：30分
 

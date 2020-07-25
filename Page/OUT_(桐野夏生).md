@@ -74,7 +74,7 @@
       - 広瀬洋一：[江藤漢](https://ja.wikipedia.org/wiki/江藤漢 "wikilink")
       - 金田敬徳：[田中要次](../Page/田中要次.md "wikilink")
       - 杉本：[斎藤歩](https://ja.wikipedia.org/wiki/斎藤歩 "wikilink")
-      - 衣笠：[浜田道彦](https://ja.wikipedia.org/wiki/浜田道彦 "wikilink")
+      - 衣笠：[浜田道彦](../Page/浜田道彦.md "wikilink")
       - マリア：[伊藤グロリア](https://ja.wikipedia.org/wiki/伊藤グロリア "wikilink")
       - トラック運転手：[吉田日出子](../Page/吉田日出子.md "wikilink")
       - 豊住会組員：[眞島秀和](../Page/眞島秀和.md "wikilink")、[佐藤貢三](https://ja.wikipedia.org/wiki/佐藤貢三 "wikilink")

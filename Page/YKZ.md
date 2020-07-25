@@ -20,7 +20,7 @@
 
   -
     [BACK DROP BOMBのギタリスト](../Page/BACK_DROP_BOMB.md "wikilink")・田中仁の実兄
-    活動休止後は、秋満、[金子ノブアキ](../Page/金子ノブアキ.md "wikilink")、[井手大介](https://ja.wikipedia.org/wiki/井手大介 "wikilink")とDADASのメンバーとして活動。
+    活動休止後は、秋満、[金子ノブアキ](../Page/金子ノブアキ.md "wikilink")、[井手大介](../Page/井手大介.md "wikilink")とDADASのメンバーとして活動。
 
 <!-- end list -->
 

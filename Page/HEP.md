@@ -41,7 +41,7 @@ NAVIOとは[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語
 
 ### TOHOシネマズ梅田
 
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）10月24日、ナビオ阪急8階に「**北野劇場**」（1,016席）「**梅田劇場**」（920席）「**梅田スカラ座**」（937席）がオープン。こけら落としの作品は『[レイズ・ザ・タイタニック](../Page/レイズ・ザ・タイタニック.md "wikilink")』（北野劇場）『[将軍 SHOGUN](https://ja.wikipedia.org/wiki/将軍_SHOGUN "wikilink")』（梅田劇場）『[アーバン・カウボーイ](https://ja.wikipedia.org/wiki/アーバン・カウボーイ "wikilink")』（梅田スカラ座）の3作品。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）10月24日、ナビオ阪急8階に「**北野劇場**」（1,016席）「**梅田劇場**」（920席）「**梅田スカラ座**」（937席）がオープン。こけら落としの作品は『[レイズ・ザ・タイタニック](../Page/レイズ・ザ・タイタニック.md "wikilink")』（北野劇場）『[将軍 SHOGUN](../Page/将軍_SHOGUN.md "wikilink")』（梅田劇場）『[アーバン・カウボーイ](https://ja.wikipedia.org/wiki/アーバン・カウボーイ "wikilink")』（梅田スカラ座）の3作品。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）9月23日、7階に「**ナビオシネ4**」「**ナビオシネ5**」を増設。この頃から5館をまとめて“**ナビオシネプレックス**”と呼称するようになる。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）11月23日、[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")に改装され「**ナビオTOHO PLEX**」と改称。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）10月1日、館名を現在の『**TOHOシネマズ梅田**』に改称。

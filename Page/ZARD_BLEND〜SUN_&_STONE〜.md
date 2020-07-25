@@ -1,7 +1,7 @@
 > この記事は[ZARD BLEND〜SUN \& STONE〜](https://ja.wikipedia.org/wiki/ZARD_BLEND〜SUN_\&_STONE〜)から翻訳されています。
 
 
-『**ZARD BLEND〜SUN & STONE〜**』（ザード・ブレンド・サン・アンド・ストーン）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[コンピレーションアルバムである](../Page/コンピレーション・アルバム.md "wikilink")。
+『**ZARD BLEND〜SUN & STONE〜**』（ザード・ブレンド・サン・アンド・ストーン）は、[ZARD](../Page/ZARD.md "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[コンピレーションアルバムである](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 概要
 

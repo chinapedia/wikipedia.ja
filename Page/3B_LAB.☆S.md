@@ -5,7 +5,7 @@
 
 ## 経緯
 
-[2001年](../Page/2001年.md "wikilink")に元[19の](../Page/19_\(音楽グループ\).md "wikilink")[岡平健治](../Page/岡平健治.md "wikilink")が中心となり[千葉貴俊](../Page/千葉貴俊.md "wikilink")、[玉越理寛](https://ja.wikipedia.org/wiki/玉越理寛 "wikilink") と**3B LAB.☆**（スリービーラボ）を結成。もともとは岡平がボーカル、千葉がギター、玉越がドラムで、もう1人ベースのメンバーを探していたが、人が集まらなかったために現在の形となった。[2005年](../Page/2005年.md "wikilink")に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブにて新メンバー2人（[SHOJI-METASONIK](https://ja.wikipedia.org/wiki/SHOJI-METASONIK "wikilink")、SHUJI（現　[畝沖修司](../Page/畝沖修司.md "wikilink")））が加入。これを機に新たに「S」を付加し、バンド名を**3B LAB.☆S**へと変更した。現在はSHOJI-METASONIKと玉越理寛が卒業して3人で活動している。
+[2001年](../Page/2001年.md "wikilink")に元[19の](../Page/19_\(音楽グループ\).md "wikilink")[岡平健治](../Page/岡平健治.md "wikilink")が中心となり[千葉貴俊](../Page/千葉貴俊.md "wikilink")、[玉越理寛](https://ja.wikipedia.org/wiki/玉越理寛 "wikilink") と**3B LAB.☆**（スリービーラボ）を結成。もともとは岡平がボーカル、千葉がギター、玉越がドラムで、もう1人ベースのメンバーを探していたが、人が集まらなかったために現在の形となった。[2005年](../Page/2005年.md "wikilink")に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブにて新メンバー2人（[SHOJI-METASONIK](../Page/SHOJI-METASONIK.md "wikilink")、SHUJI（現　[畝沖修司](../Page/畝沖修司.md "wikilink")））が加入。これを機に新たに「S」を付加し、バンド名を**3B LAB.☆S**へと変更した。現在はSHOJI-METASONIKと玉越理寛が卒業して3人で活動している。
 
 ## バンド名、その由来
 
@@ -21,7 +21,7 @@
 
 ## 元メンバー
 
-  - [SHOJI-METASONIK](https://ja.wikipedia.org/wiki/SHOJI-METASONIK "wikilink")　[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。2005年加入、2006年脱退。
+  - [SHOJI-METASONIK](../Page/SHOJI-METASONIK.md "wikilink")　[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。2005年加入、2006年脱退。
   - [玉越理寛](https://ja.wikipedia.org/wiki/玉越理寛 "wikilink")　[ドラム担当](../Page/ドラムセット.md "wikilink")。2009年脱退。
 
 ## 活動

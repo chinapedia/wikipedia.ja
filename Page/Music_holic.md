@@ -7,7 +7,7 @@
 
 新着、話題曲紹介「Music Champhor」、「M-holic News」・TOWER RECORDS全店のJ-POPシングル週間売り上げTOP10（2006年9月からTOP20）「Weeekly Countdown」・TOWER RECORDSおすすめ注目曲を紹介「Power of Tower」・最新[着うた](../Page/着うた.md "wikilink")情報「Mobile-holic」・視聴者リクエスト曲紹介「Today's Supplement」で構成されていた。
 
-2007年4月からは、新たに『[Break Point\!](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")』がスタートした（2009年3月放送終了）。
+2007年4月からは、新たに『[Break Point\!](../Page/Break_Point!.md "wikilink")』がスタートした（2009年3月放送終了）。
 
 ## テーマ曲
 
@@ -174,7 +174,7 @@ ED</p></td>
   - [33rpm](https://ja.wikipedia.org/wiki/BEATNIKS "wikilink")
   - [BEATNIKS](https://ja.wikipedia.org/wiki/BEATNIKS "wikilink")
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN_\(岩手めんこいテレビ\).md "wikilink")
-  - [Break Point\!](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")
+  - [Break Point\!](../Page/Break_Point!.md "wikilink")
 
 ## 外部リンク
 

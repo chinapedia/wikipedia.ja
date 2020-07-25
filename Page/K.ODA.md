@@ -1,7 +1,7 @@
 > この記事は[K.ODA](https://ja.wikipedia.org/wiki/K.ODA)から翻訳されています。
 
 
-『**K.ODA**』（ケー・オダ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")にリリースされた[小田和正](../Page/小田和正.md "wikilink")通算1作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**K.ODA**』（ケー・オダ）は、[1986年](../Page/1986年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")にリリースされた[小田和正](../Page/小田和正.md "wikilink")通算1作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 

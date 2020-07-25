@@ -62,7 +62,7 @@
   - 美術デザイナー：藤田博史
   - 録音：星一郎
   - 音響効果：[帆苅幸雄](https://ja.wikipedia.org/wiki/帆苅幸雄 "wikilink")
-  - 助監督：藤田保行、森木正己、[金丸雄一](https://ja.wikipedia.org/wiki/金丸雄一 "wikilink")
+  - 助監督：藤田保行、森木正己、[金丸雄一](../Page/金丸雄一.md "wikilink")
   - 殺陣：[高倉英二](https://ja.wikipedia.org/wiki/高倉英二 "wikilink")
   - 刺青：[霞涼二](https://ja.wikipedia.org/wiki/霞涼二 "wikilink")
   - 水中撮影：松井忠彦

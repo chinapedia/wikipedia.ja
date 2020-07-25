@@ -38,7 +38,7 @@
   - 6:21 TODAY'S REPORT
   - 6:25 WEATHER REPORT
   - 6:28 ZAKU ZAKU TODAY
-  - 6:30〜6:45は[TOKYO FMから](../Page/エフエム東京.md "wikilink")「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」をネットしている。
+  - 6:30〜6:45は[TOKYO FMから](../Page/エフエム東京.md "wikilink")「[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")」をネットしている。
       - 6:30 [LOVE & HOPE 〜ヒューマン・ケア・プロジェクト〜](https://ja.wikipedia.org/wiki/LOVE_&_HOPE_〜ヒューマン・ケア・プロジェクト〜 "wikilink")
       - 6:40 [コスモアースコンシャスアクト ずっと地球で暮らそう。](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")（コスモ石油）
   - 6:44 リスナーからのメール（今日のニュース）紹介

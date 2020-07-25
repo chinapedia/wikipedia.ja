@@ -3,7 +3,7 @@
 
 **KPDF**は、[Linux](../Page/Linux.md "wikilink") [デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")である [KDE](../Page/KDE.md "wikilink") に統合されている[フリーな](../Page/フリーソフトウェア.md "wikilink")[PDF](../Page/Portable_Document_Format.md "wikilink") ビューアーである。[Xpdf](https://ja.wikipedia.org/wiki/Xpdf "wikilink") に基づいている。[Konqueror](../Page/Konqueror.md "wikilink") では [KPart](https://ja.wikipedia.org/wiki/KPart "wikilink") として組み込まれている。
 
-[KDE 4](https://ja.wikipedia.org/wiki/KDE_Software_Compilation_4 "wikilink") では [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink") に置き換えられた。
+[KDE 4](https://ja.wikipedia.org/wiki/KDE_Software_Compilation_4 "wikilink") では [Okular](../Page/Okular.md "wikilink") に置き換えられた。
 
 ## 特徴
 
@@ -16,7 +16,7 @@
 
 ## 関連項目
 
-  - [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink")
+  - [Okular](../Page/Okular.md "wikilink")
   - [Evince](../Page/Evince.md "wikilink")
 
 ## 外部リンク

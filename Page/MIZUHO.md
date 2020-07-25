@@ -1,7 +1,7 @@
 > この記事は[MIZUHO](https://ja.wikipedia.org/wiki/MIZUHO)から翻訳されています。
 
 
-**MIZUHO**（みずほ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月12日](../Page/12月12日.md "wikilink") -　）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[ドラマー](../Page/ドラマー.md "wikilink")。元[ZONEのメンバー](../Page/ZONE_\(バンド\).md "wikilink")。本名非公開。旧姓、**斉藤 瑞穂**\[1\]。
+**MIZUHO**（みずほ、[1986年](../Page/1986年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") -　）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[ドラマー](../Page/ドラマー.md "wikilink")。元[ZONEのメンバー](../Page/ZONE_\(バンド\).md "wikilink")。本名非公開。旧姓、**斉藤 瑞穂**\[1\]。
 
 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")に所属していた。
 

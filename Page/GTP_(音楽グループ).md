@@ -20,7 +20,7 @@
 1.  春だったね（[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
     1.  春だったね
     2.  ワイヤリングハート
-2.  ウタをウタう（[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）
+2.  ウタをウタう（[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）
     1.  ウタをウタう
     2.  情熱のロブスター
     3.  ウタをウタう（Instrumental）

@@ -184,7 +184,7 @@
 
 :\* [エーデルワイス 詠伝ファンタジア](https://ja.wikipedia.org/wiki/エーデルワイス_詠伝ファンタジア "wikilink")
 
-:\* [オトメクライシス](https://ja.wikipedia.org/wiki/オトメクライシス "wikilink")
+:\* [オトメクライシス](../Page/オトメクライシス.md "wikilink")
 
 :\* カラフルウィッシュ 〜12コのマジキュン！〜
 

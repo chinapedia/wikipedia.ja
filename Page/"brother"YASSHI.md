@@ -1,7 +1,7 @@
 > この記事は[brotherYASSHI](https://ja.wikipedia.org/wiki/brotherYASSHI)から翻訳されています。
 
 
-**"brother"YASSHI**（"ブラザー"ヤッシー、[1982年](../Page/1982年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**辻本 恭史**（つじもと やすし）。
+**"brother"YASSHI**（"ブラザー"ヤッシー、[1982年](../Page/1982年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**辻本 恭史**（つじもと やすし）。
 
 ## 経歴
 

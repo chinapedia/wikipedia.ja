@@ -29,7 +29,7 @@
   - Date fm TRAFFIC（7時32分）
   - Weather and Holoscope（7時40分）
   - TOYOTA NEWSPEC（7時45分）
-  - [クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")（[TOKYO FM製作](../Page/エフエム東京.md "wikilink")）
+  - [クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")（[TOKYO FM製作](../Page/エフエム東京.md "wikilink")）
       - [SUZUKI Breakfast News](https://ja.wikipedia.org/wiki/SUZUKI_Breakfast_News "wikilink")（8時00分）
       - [Weather Guide](https://ja.wikipedia.org/wiki/Weather_Guide "wikilink")（8時09分）
       - [Honda Smile Mission](https://ja.wikipedia.org/wiki/Honda_Smile_Mission "wikilink")（8時10分）

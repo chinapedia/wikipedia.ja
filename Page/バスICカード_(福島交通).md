@@ -3,7 +3,7 @@
 
 **バスICカード**は、[福島交通](../Page/福島交通.md "wikilink")が発行している郡山地区で利用できる[ICカード](../Page/ICカード.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に導入された。なお、既に福島交通では福島地区において[磁気カード](https://ja.wikipedia.org/wiki/磁気カード "wikilink")を用いた[バスカードを導入していたが](../Page/乗車カード.md "wikilink")、システムが違うため共通での使用はできない。
 
-また、ICカードの規格はフィリップス社提唱の「[ISO14443 Type-A](https://ja.wikipedia.org/wiki/MIFARE "wikilink")」で、[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")[Suica](../Page/Suica.md "wikilink")（スイカ）等で採用されている、[ソニー](../Page/ソニー.md "wikilink")社提唱の「ISO14443 Type-C（製品名：[FeliCa](../Page/FeliCa.md "wikilink")）」とは別規格である（規格の詳細については、[ICカード](../Page/ICカード.md "wikilink")の項目を参照）。
+また、ICカードの規格はフィリップス社提唱の「[ISO14443 Type-A](../Page/MIFARE.md "wikilink")」で、[JR東日本の](../Page/東日本旅客鉄道.md "wikilink")[Suica](../Page/Suica.md "wikilink")（スイカ）等で採用されている、[ソニー](../Page/ソニー.md "wikilink")社提唱の「ISO14443 Type-C（製品名：[FeliCa](../Page/FeliCa.md "wikilink")）」とは別規格である（規格の詳細については、[ICカード](../Page/ICカード.md "wikilink")の項目を参照）。
 
 ## 利用可能エリア
 

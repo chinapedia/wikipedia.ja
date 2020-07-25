@@ -222,7 +222,7 @@
 ## 関連項目
 
   - [ドリームキャストのゲームタイトル一覧](../Page/ドリームキャストのゲームタイトル一覧.md "wikilink")
-  - [PlayStation 2のゲームタイトル一覧 (2000年-2001年)](https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧_\(2000年-2001年\) "wikilink")
+  - [PlayStation 2のゲームタイトル一覧 (2000年-2001年)](../Page/PlayStation_2のゲームタイトル一覧_\(2000年-2001年\).md "wikilink")
 
 ## 外部リンク
 

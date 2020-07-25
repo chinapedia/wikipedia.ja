@@ -237,7 +237,7 @@
 
 <!-- end list -->
 
-  - [長井利隆](https://ja.wikipedia.org/wiki/長井利隆 "wikilink")：**[安井昌二](../Page/安井昌二.md "wikilink")**
+  - [長井利隆](../Page/長井利隆.md "wikilink")：**[安井昌二](../Page/安井昌二.md "wikilink")**
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@
 
 <!-- end list -->
 
-  - [長井道利](https://ja.wikipedia.org/wiki/長井道利 "wikilink")：**[森幹太](https://ja.wikipedia.org/wiki/森幹太 "wikilink")**
+  - [長井道利](../Page/長井道利.md "wikilink")：**[森幹太](https://ja.wikipedia.org/wiki/森幹太 "wikilink")**
   - [日運](https://ja.wikipedia.org/wiki/日運 "wikilink")上人：**[鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")**
 
 <!-- end list -->
@@ -676,7 +676,7 @@
 
 <!-- end list -->
 
-  - 今川の武将：**[児玉謙次](../Page/児玉謙次_\(俳優\).md "wikilink")**、**[名取幸政](https://ja.wikipedia.org/wiki/名取幸政 "wikilink")**
+  - 今川の武将：**[児玉謙次](../Page/児玉謙次_\(俳優\).md "wikilink")**、**[名取幸政](../Page/名取幸政.md "wikilink")**
   - [朝倉義景](../Page/朝倉義景.md "wikilink")：**[浜畑賢吉](../Page/浜畑賢吉.md "wikilink")**
 
 <!-- end list -->

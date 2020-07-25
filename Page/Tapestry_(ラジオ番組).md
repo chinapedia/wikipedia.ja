@@ -33,7 +33,7 @@
   - 8:42ごろ [交通情報](../Page/交通情報.md "wikilink")（[東京トヨペット](../Page/東京トヨペット.md "wikilink")提供）
   - 9:05 Tapestry from NEW YORK～ノエビア アヴェニュー＜[ノエビア](https://ja.wikipedia.org/wiki/ノエビア "wikilink")＞(デボラ・ラス)（金曜）
   - 9:17 POLUS HAPPY HOUSING＜ポラスグループ＞（月～木曜）
-  - 9:25(金9:30)ごろ 交通情報（[呉工業](https://ja.wikipedia.org/wiki/呉工業 "wikilink")提供）
+  - 9:25(金9:30)ごろ 交通情報（[呉工業](../Page/呉工業.md "wikilink")提供）
   - 9:45 Spice Up Your Life！
   - 9:55 [TOKYO UPDATE](https://ja.wikipedia.org/wiki/TOKYO_UPDATE "wikilink")
   - 10:05 IN MY LIFE

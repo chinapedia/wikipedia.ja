@@ -19,7 +19,7 @@ Project GENIE ではいくつかのハードウェア技術が開発された。
 
 BCC 従業員の一部（ランプソン、サッカーら）は[1970年](../Page/1970年.md "wikilink")に[パロアルト研究所](../Page/パロアルト研究所.md "wikilink")の研究員となった。Lichtenberger はハワイ大学へ移り、その後[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")に入社した\[6\]。
 
-Pirtle は NASA[エイムズ研究センター](https://ja.wikipedia.org/wiki/エイムズ研究センター "wikilink")で [ILLIAC IV](../Page/ILLIAC_IV.md "wikilink") プロジェクトの技術ディレクターとなった\[7\]。
+Pirtle は NASA[エイムズ研究センター](../Page/エイムズ研究センター.md "wikilink")で [ILLIAC IV](../Page/ILLIAC_IV.md "wikilink") プロジェクトの技術ディレクターとなった\[7\]。
 
 ## 脚注
 

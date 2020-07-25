@@ -1,7 +1,7 @@
 > この記事は[LOVE OR NOTHING](https://ja.wikipedia.org/wiki/LOVE_OR_NOTHING)から翻訳されています。
 
 
-『**LOVE OR NOTHING**』（ラヴ・オア・ナッシング）は、[1994年](../Page/1994年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")にリリースされた[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の22作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**LOVE OR NOTHING**』（ラヴ・オア・ナッシング）は、[1994年](../Page/1994年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")にリリースされた[中島みゆき](../Page/中島みゆき.md "wikilink")の22作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
+  - 全作詞/作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")（特記以外）
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 ## 演奏者
 
-  - Vocals：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - Vocals：[中島みゆき](../Page/中島みゆき.md "wikilink")
 
 **空と君のあいだに**
 

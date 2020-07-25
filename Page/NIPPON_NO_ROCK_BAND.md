@@ -1,7 +1,7 @@
 > この記事は[NIPPON NO ROCK BAND](https://ja.wikipedia.org/wiki/NIPPON_NO_ROCK_BAND)から翻訳されています。
 
 
-『**NIPPON NO ROCK BAND**』（ニッポンノロック・バンド）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月14日](../Page/7月14日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**NIPPON NO ROCK BAND**』（ニッポンノロック・バンド）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。[1986年](../Page/1986年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 [1993年](../Page/1993年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")にら8cmCDで再発し、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")にも12cmCDで再発している。
 

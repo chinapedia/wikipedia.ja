@@ -13,7 +13,7 @@
   - 芳文社 まんがタイムきららKRコミックス「[けいおん\!](https://ja.wikipedia.org/wiki/けいおん! "wikilink")」 TVCM
   - 芳文社 まんがタイムきららKRコミックス「[魔法少女かずみ☆マギカ](https://ja.wikipedia.org/wiki/魔法少女かずみ☆マギカ "wikilink")」 TVCM
   - 芳文社 まんがタイムきららKRコミックス「[夢喰いメリー](https://ja.wikipedia.org/wiki/夢喰いメリー "wikilink")」 TVCM
-  - [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink") [電撃文庫](../Page/電撃文庫.md "wikilink")「[俺の妹がこんなに可愛いわけがない](../Page/俺の妹がこんなに可愛いわけがない.md "wikilink")」 TVCM
+  - [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink") [電撃文庫](../Page/電撃文庫.md "wikilink")「[俺の妹がこんなに可愛いわけがない](../Page/俺の妹がこんなに可愛いわけがない.md "wikilink")」 TVCM
 
 ## コンシューマー作品一覧
 

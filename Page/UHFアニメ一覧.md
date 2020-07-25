@@ -1778,7 +1778,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/戦場のヴァルキュリア" title="wikilink">戦場のヴァルキュリア</a></p></td>
+<td><p><a href="../Page/戦場のヴァルキュリア.md" title="wikilink">戦場のヴァルキュリア</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1910,7 +1910,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/そらのおとしもの" title="wikilink">そらのおとしもの</a></p></td>
+<td><p><a href="../Page/そらのおとしもの.md" title="wikilink">そらのおとしもの</a></p></td>
 <td><p>-</p></td>
 <td><p>10月4日</p></td>
 <td></td>
@@ -1928,7 +1928,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/11eyes_-罪と罰と贖いの少女-" title="wikilink">11eyes</a></p></td>
+<td><p><a href="../Page/11eyes_-罪と罰と贖いの少女-.md" title="wikilink">11eyes</a></p></td>
 <td><p>-</p></td>
 <td><p>10月6日</p></td>
 <td></td>
@@ -2112,7 +2112,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/そらのおとしもの" title="wikilink">そらのおとしもの</a>f</p></td>
+<td><p><a href="../Page/そらのおとしもの.md" title="wikilink">そらのおとしもの</a>f</p></td>
 <td><p>-</p></td>
 <td><p>10月1日</p></td>
 <td></td>
@@ -2269,7 +2269,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイアボール_(アニメ)" title="wikilink">ファイアボール チャーミング</a></p></td>
+<td><p><a href="../Page/ファイアボール_(アニメ).md" title="wikilink">ファイアボール チャーミング</a></p></td>
 <td><p>-</p></td>
 <td><p>4月4日</p></td>
 <td><p>3分間のショートアニメ。第1期はMXのみで放送</p></td>
@@ -2305,7 +2305,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/よんでますよ、アザゼルさん。" title="wikilink">よんでますよ、アザゼルさん。</a></p></td>
+<td><p><a href="../Page/よんでますよ、アザゼルさん。.md" title="wikilink">よんでますよ、アザゼルさん。</a></p></td>
 <td><p>-</p></td>
 <td><p>4月8日</p></td>
 <td><p>15分アニメ</p></td>
@@ -2323,7 +2323,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロッテのおもちゃ!" title="wikilink">アスタロッテのおもちゃ!</a></p></td>
+<td><p><a href="../Page/ロッテのおもちゃ!.md" title="wikilink">アスタロッテのおもちゃ!</a></p></td>
 <td><p>-</p></td>
 <td><p>4月10日</p></td>
 <td></td>
@@ -2871,7 +2871,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/キューティクル探偵因幡" title="wikilink">キューティクル探偵因幡</a></p></td>
+<td><p><a href="../Page/キューティクル探偵因幡.md" title="wikilink">キューティクル探偵因幡</a></p></td>
 <td><p>1月4日</p></td>
 <td></td>
 <td></td>
@@ -3034,7 +3034,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/よんでますよ、アザゼルさん。" title="wikilink">よんでますよ、アザゼルさん。 Z</a></p></td>
+<td><p><a href="../Page/よんでますよ、アザゼルさん。.md" title="wikilink">よんでますよ、アザゼルさん。 Z</a></p></td>
 <td><p>-</p></td>
 <td><p>15分アニメ</p></td>
 <td></td>
@@ -3172,7 +3172,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/有頂天家族" title="wikilink">有頂天家族</a></p></td>
+<td><p><a href="../Page/有頂天家族.md" title="wikilink">有頂天家族</a></p></td>
 <td><p>-</p></td>
 <td><p>7月7日</p></td>
 <td><p>KBS協力、YTE製作参加</p></td>
@@ -5934,7 +5934,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/有頂天家族" title="wikilink">有頂天家族</a>2</p></td>
+<td><p><a href="../Page/有頂天家族.md" title="wikilink">有頂天家族</a>2</p></td>
 <td><p>KBS</p></td>
 <td><p>4月9日</p></td>
 <td></td>
@@ -8275,7 +8275,7 @@ TOKYO MXで3話連続集中放送。</p></td>
 | [GR-GIANT ROBO-](../Page/GR-GIANT_ROBO-.md "wikilink")                                                          | \-                                                 | 10月4日  | MX                                                                                                                     |
 | The World of GOLDEN EGGS SEASON2                                                                                | \-                                                 | 10月7日  | tvk                                                                                                                    |
 | **2008年**                                                                                                       |                                                    |        |                                                                                                                        |
-| [ファイアボール](https://ja.wikipedia.org/wiki/ファイアボール_\(アニメ\) "wikilink")                                             | \-                                                 | 4月7日   | MX                                                                                                                     |
+| [ファイアボール](../Page/ファイアボール_\(アニメ\).md "wikilink")                                                                | \-                                                 | 4月7日   | MX                                                                                                                     |
 | [エレキング the Animation](../Page/エレキング_\(漫画\).md "wikilink")                                                       | \-                                                 | \-     | tvk                                                                                                                    |
 | [ワンダフルワールド](../Page/ファーストクラス_\(バラエティー番組\).md "wikilink")                                                        | \-                                                 | \-     | tvk\[11\]                                                                                                              |
 | [ペンギン娘](../Page/ペンギン娘.md "wikilink")?はぁと                                                                        | \-                                                 | 7月31日  | tvk。『[@Tunes.](../Page/@Tunes..md "wikilink")』内 特別番組「公開収録版+α」                                                          |

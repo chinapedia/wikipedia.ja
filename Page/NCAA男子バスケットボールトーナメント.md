@@ -1152,7 +1152,7 @@
 <td><p>51,458人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年NCAA男子バスケットボールトーナメント" title="wikilink">70</a></p></td>
+<td><p><a href="../Page/2008年NCAA男子バスケットボールトーナメント.md" title="wikilink">70</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2007-2008シーズンのNCAAディビジョンI男子バスケットボール・シーズン" title="wikilink">2007-08</a></p></td>
 <td><p>2008年4月7日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/カンザス・ジェイホークス" title="wikilink">カンザス・ジェイホークス</a><br />

@@ -15,7 +15,7 @@
 
 ## 他キャリアへ与えた影響
 
-ツーカーSの人気より、その後[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")の[auブランド](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（以下au）から[簡単ケータイS](https://ja.wikipedia.org/wiki/簡単ケータイS "wikilink")(A101K)が、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")からは[らくらくホンシンプル](../Page/らくらくホンシンプル.md "wikilink")（D880SS）が発売されていた。2010年[8月10日](../Page/8月10日.md "wikilink")にauから簡単ケータイSの最新機種として[PT001](https://ja.wikipedia.org/wiki/PT001 "wikilink")が発売されたものの、この機種も[2013年](../Page/2013年.md "wikilink")3月末を以て販売終了となった。
+ツーカーSの人気より、その後[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")の[auブランド](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（以下au）から[簡単ケータイS](../Page/簡単ケータイS.md "wikilink")(A101K)が、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")からは[らくらくホンシンプル](../Page/らくらくホンシンプル.md "wikilink")（D880SS）が発売されていた。2010年[8月10日](../Page/8月10日.md "wikilink")にauから簡単ケータイSの最新機種として[PT001](https://ja.wikipedia.org/wiki/PT001 "wikilink")が発売されたものの、この機種も[2013年](../Page/2013年.md "wikilink")3月末を以て販売終了となった。
 
 一方、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")ではこの種の端末は発売されなかったが、2010年4月に発売された[SoftBank 740N](https://ja.wikipedia.org/wiki/SoftBank_740N "wikilink")（コドモバイル）および[741Nは対象が異なるとはいえ](https://ja.wikipedia.org/wiki/SoftBank_741N "wikilink")、無い物づくしという点では共通している\[2\]。
 

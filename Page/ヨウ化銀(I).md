@@ -7,7 +7,7 @@
 
 | Section3 =  | Section4 =  | Section7 =  | Section8 =  }}
 
-**ヨウ化銀(I)**（ヨウかぎん いち、）は、[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")の一種で、[化学式](../Page/化学式.md "wikilink")が AgI と表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")(I) の[ヨウ化物](https://ja.wikipedia.org/wiki/ヨウ化物 "wikilink")である。天然には[ヨウ化銀鉱](https://ja.wikipedia.org/wiki/ヨウ化銀鉱 "wikilink")(Iodargyrite)、または[ミュース石](https://ja.wikipedia.org/wiki/ミュース石 "wikilink")(Miersite)として存在することもあるが、産出は稀である。
+**ヨウ化銀(I)**（ヨウかぎん いち、）は、[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")の一種で、[化学式](../Page/化学式.md "wikilink")が AgI と表される[銀](../Page/銀.md "wikilink")(I) の[ヨウ化物](https://ja.wikipedia.org/wiki/ヨウ化物 "wikilink")である。天然には[ヨウ化銀鉱](https://ja.wikipedia.org/wiki/ヨウ化銀鉱 "wikilink")(Iodargyrite)、または[ミュース石](https://ja.wikipedia.org/wiki/ミュース石 "wikilink")(Miersite)として存在することもあるが、産出は稀である。
 
 ## 製法
 

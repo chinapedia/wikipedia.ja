@@ -238,7 +238,7 @@ AKINOのソロ作品関連については[AKINO from bless4ディスコグラフ
       - \#11.スティッチ・イズ・カミング
   - 夢つむぎ（[2011年](../Page/2011年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")）
       - 絆の花：島サミット（東京文化交流親善コミュニティー）テーマ曲
-      - 龍AGARE\!：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")[丹羽将弥](https://ja.wikipedia.org/wiki/丹羽将弥 "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")[応援歌](../Page/応援歌.md "wikilink")
+      - 龍AGARE\!：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")[丹羽将弥](../Page/丹羽将弥.md "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")[応援歌](../Page/応援歌.md "wikilink")
       - Get Luck：月刊中古トラック情報誌『[GETRUCK](https://ja.wikipedia.org/wiki/ゲットラック "wikilink")』CMソング
 
 ### AIKI from bless4名義

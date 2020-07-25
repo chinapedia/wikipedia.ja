@@ -32,7 +32,7 @@
   - 『[HEAVY GAUGE](../Page/HEAVY_GAUGE_\(長渕剛のアルバム\).md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")） - 「僕だけのメリークリスマス」
   - 『[SUPER LIVE IN 西武球場](../Page/SUPER_LIVE_IN_西武球場.md "wikilink")』（1983年） - 「愛してるのに」
   - 『[HOLD YOUR LAST CHANCE](../Page/HOLD_YOUR_LAST_CHANCE.md "wikilink")』（[1984年](../Page/1984年.md "wikilink")） - 「ファイティングポーズ」、「COME BACK TO MY HEART」
-  - 『[STAY DREAM](../Page/STAY_DREAM.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")） - 「わがまま・友情 DREAM & MONEY」
+  - 『[STAY DREAM](../Page/STAY_DREAM.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")） - 「わがまま・友情 DREAM & MONEY」
   - 『[LICENSE](../Page/LICENSE_\(長渕剛のアルバム\).md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")） - 「ろくなもんじゃねえ」、「花菱にて」
   - 『[昭和](../Page/昭和_\(アルバム\).md "wikilink")』 - 「昭和」、「とんぼ」
   - 『[JEEP](../Page/JEEP_\(アルバム\).md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")） - 「Myself」

@@ -21,7 +21,7 @@ xineは、[GPL](../Page/GNU_General_Public_License.md "wikilink")(GNU General Pu
 以下のソフトウェアは、xineのライブラリを使用することによって、多くのフォーマットの再生を実現している。
 
   - [ビデオ](../Page/ビデオ_\(GNOME\).md "wikilink")
-  - [Kaffeine](https://ja.wikipedia.org/wiki/Kaffeine "wikilink")
+  - [Kaffeine](../Page/Kaffeine.md "wikilink")
 
 以下のソフトウェアは、xineと同様に、FFmpegプロジェクトによって開発されている[libavcodec](https://ja.wikipedia.org/wiki/libavcodec "wikilink")などの使用によって、多くのフォーマットの再生に対応している。
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にジェイ・シャイアット (Jay Chiat) とガイ・デイ (Guy Day) によって[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で設立された。[1990年代](../Page/1990年代.md "wikilink")初めに[BBDOやDDBを傘下に収める世界最大の広告代理店グループであるオムニコムグループに吸収合併された](../Page/I&S_BBDO.md "wikilink")。その後[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にTBWAと合併し、TBWAワールドワイドの一員のTBWACHIATDAYとなる。
+[1968年](../Page/1968年.md "wikilink")にジェイ・シャイアット (Jay Chiat) とガイ・デイ (Guy Day) によって[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で設立された。[1990年代](../Page/1990年代.md "wikilink")初めに[BBDOやDDBを傘下に収める世界最大の広告代理店グループであるオムニコムグループに吸収合併された](../Page/I&S_BBDO.md "wikilink")。その後[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にTBWAと合併し、TBWAワールドワイドの一員のTBWACHIATDAYとなる。
 
 ### 評価
 

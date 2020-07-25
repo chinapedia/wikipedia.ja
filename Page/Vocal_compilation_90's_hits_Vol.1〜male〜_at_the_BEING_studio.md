@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  **[果てしない夢を](../Page/果てしない夢を.md "wikilink")** \[white mix\]（[ZYYG](../Page/ZYYG.md "wikilink"),[REV](../Page/出口雅之.md "wikilink"),[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")&[WANDS](../Page/WANDS.md "wikilink") feat. [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")）
+1.  **[果てしない夢を](../Page/果てしない夢を.md "wikilink")** \[white mix\]（[ZYYG](../Page/ZYYG.md "wikilink"),[REV](../Page/出口雅之.md "wikilink"),[ZARD](../Page/ZARD.md "wikilink")&[WANDS](../Page/WANDS.md "wikilink") feat. [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")）
       -
         作詞:[上杉昇](../Page/上杉昇.md "wikilink")・[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲:[出口雅之](../Page/出口雅之.md "wikilink") 編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
         シングル出荷時の白ディスク盤面(通常版)収録のmix音源版を収録。

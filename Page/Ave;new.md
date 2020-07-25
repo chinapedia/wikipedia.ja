@@ -1,7 +1,7 @@
 > この記事は[Ave\;new](https://ja.wikipedia.org/wiki/Ave\;new)から翻訳されています。
 
 
-**ave;new**（アベニュー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の同人[音楽アーティスト集団および](https://ja.wikipedia.org/wiki/音楽クリエイターチーム "wikilink")[芸能プロダクション](../Page/芸能事務所.md "wikilink")。株式会社avenewが運営する。結成当初は[有限会社](../Page/有限会社.md "wikilink")であったが、2010年4月19日付で株式会社に改組し、本拠地（本社）も[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")から[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に移した。本稿では**あべにゅうぷろじぇくと**についても記載する。
+**ave;new**（アベニュー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の同人[音楽アーティスト集団および](../Page/音楽クリエイターチーム.md "wikilink")[芸能プロダクション](../Page/芸能事務所.md "wikilink")。株式会社avenewが運営する。結成当初は[有限会社](../Page/有限会社.md "wikilink")であったが、2010年4月19日付で株式会社に改組し、本拠地（本社）も[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")から[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に移した。本稿では**あべにゅうぷろじぇくと**についても記載する。
 
 ## 概要
 

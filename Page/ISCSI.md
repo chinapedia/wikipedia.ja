@@ -135,7 +135,7 @@ iSCSI[ホストバスアダプタ](https://ja.wikipedia.org/wiki/ホストバス
   - [Fibre Channel Over IP](https://ja.wikipedia.org/wiki/Fibre_Channel_Over_IP "wikilink") (FCIP)
   - [Fibre Channel Over Ethernet](https://ja.wikipedia.org/wiki/ファイバーチャネル・オーバー・イーサネット "wikilink") (FCoE)
   - [:en:RDMA over Converged Ethernet](https://ja.wikipedia.org/wiki/:en:RDMA_over_Converged_Ethernet "wikilink") (RoCE)
-  - [ATA over Ethernet](https://ja.wikipedia.org/wiki/ATA_over_Ethernet "wikilink") (ATAoE)
+  - [ATA over Ethernet](../Page/ATA_over_Ethernet.md "wikilink") (ATAoE)
 
 ## 外部リンク
 

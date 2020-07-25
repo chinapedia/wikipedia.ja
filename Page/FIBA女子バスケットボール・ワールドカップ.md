@@ -266,11 +266,11 @@
 <tbody>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鄭海霞" title="wikilink">鄭海霞</a></p></td>
+<td><p><a href="../Page/鄭海霞.md" title="wikilink">鄭海霞</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リサ・レスリー" title="wikilink">リサ・レスリー</a></p></td>
+<td><p><a href="../Page/リサ・レスリー.md" title="wikilink">リサ・レスリー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年</p></td>

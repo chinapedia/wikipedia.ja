@@ -140,7 +140,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪国際石油精製" title="wikilink">大阪国際石油精製</a>株式会社</p></td>
+<td><p><a href="../Page/大阪国際石油精製.md" title="wikilink">大阪国際石油精製</a>株式会社</p></td>
 <td><p>大阪府<a href="../Page/高石市.md" title="wikilink">高石市</a></p></td>
 <td><p>石油製品の製造・販売<br />
 （JXTGエネルギーと中国石油国際事業日本の合弁会社）</p></td>

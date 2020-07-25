@@ -467,7 +467,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年8月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a><br />
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a><br />
 <a href="https://ja.wikipedia.org/wiki/山崎賢人" title="wikilink">山崎賢人</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
@@ -539,7 +539,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015年5月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
 </tr>
@@ -601,7 +601,7 @@
 | 2014年3月号  | [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink") | ー      | 専属モデル以外 |
 | 2014年4月号  | [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")   | ー      | 専属モデル以外 |
 | 2014年5月号  | 香里奈                                                     |        |         |
-| 2014年6月号  | [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")   | ー      | 専属モデル以外 |
+| 2014年6月号  | [桐谷美玲](../Page/桐谷美玲.md "wikilink")                      | ー      | 専属モデル以外 |
 | 2014年7月号  | [大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")   | ー      | 専属モデル以外 |
 | 2014年8月号  | [泉里香](../Page/泉里香.md "wikilink")                        |        |         |
 | 2014年9月号  | 白石麻衣                                                    | 2      |         |
@@ -657,7 +657,7 @@
 </tr>
 <tr class="even">
 <td><p>2013年6月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
 </tr>
@@ -687,7 +687,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミランダ・カー" title="wikilink">ミランダ・カー</a></p></td>
+<td><p><a href="../Page/ミランダ・カー.md" title="wikilink">ミランダ・カー</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
 </tr>
@@ -776,13 +776,13 @@
 </tr>
 <tr class="even">
 <td><p>2012年10月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミランダ・カー" title="wikilink">ミランダ・カー</a></p></td>
+<td><p><a href="../Page/ミランダ・カー.md" title="wikilink">ミランダ・カー</a></p></td>
 <td><p>ー</p></td>
 <td><p>専属モデル以外</p></td>
 </tr>

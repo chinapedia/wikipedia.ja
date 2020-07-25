@@ -317,7 +317,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/地上の星" title="wikilink">地上の星</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中島みゆき" title="wikilink">中島みゆき</a></p></td>
+<td><p><a href="../Page/中島みゆき.md" title="wikilink">中島みゆき</a></p></td>
 <td><p>今井</p></td>
 <td></td>
 </tr>
@@ -476,7 +476,7 @@
 | 第124回                                                          | 夏色のカケラ                                                                                            | [石田燿子](../Page/石田燿子.md "wikilink")                                                         |                                                       |
 | 第125回                                                          | [ナツノハナ](https://ja.wikipedia.org/wiki/ナツノハナ "wikilink")                                           | [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")                                      |                                                       |
 | 第126回                                                          | [Yells〜It's a beautiful life〜](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#CD_4 "wikilink") | 「Animelo Summer Live 2008 -Challenge-」 テーマソング                                              |                                                       |
-| 第127回                                                          | [ETERNAL WIND〜ほほえみは光る風の中〜](https://ja.wikipedia.org/wiki/ETERNAL_WIND〜ほほえみは光る風の中〜 "wikilink")     | [森口博子](../Page/森口博子.md "wikilink")                                                         | [沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink") |
+| 第127回                                                          | [ETERNAL WIND〜ほほえみは光る風の中〜](../Page/ETERNAL_WIND〜ほほえみは光る風の中〜.md "wikilink")                        | [森口博子](../Page/森口博子.md "wikilink")                                                         | [沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink") |
 | [DESTINY](../Page/DESTINY_\(MY_LITTLE_LOVERの曲\).md "wikilink") | [MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")                       | [原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")                                        |                                                       |
 | 第128回                                                          | [崖の上のポニョ](../Page/崖の上のポニョ_\(曲\).md "wikilink")                                                    | [藤岡藤巻](../Page/藤岡藤巻.md "wikilink")と[大橋のぞみ](https://ja.wikipedia.org/wiki/大橋のぞみ "wikilink") |                                                       |
 | 第129回                                                          | [木枯しに抱かれて](../Page/木枯しに抱かれて_\(小泉今日子の曲\).md "wikilink")                                            | [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")                                    |                                                       |

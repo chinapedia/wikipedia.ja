@@ -40,7 +40,7 @@
 
   - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(Hollywood Mix)
       - 冒頭のサビの歌唱がカットされ、シングルのSTRAIGHT RUNより長い[イントロとして流れている](../Page/導入部.md "wikilink")。[2000年](../Page/2000年.md "wikilink")に行われた全国ツアー『[NAMIE AMURO TOUR "GENIUS 2000"](https://ja.wikipedia.org/wiki/NAMIE_AMURO_TOUR_“GENIUS_2000” "wikilink")』ではこのバージョンで披露されている。なお、アメリカのテレビドラマ「[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")」のメインテーマのフレーズを引用している\[1\]。
-  - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
+  - ベスト『**[181920](../Page/181920.md "wikilink")**』（『**181920 & films**』も同様）
       - 編曲、ミックスはSTRAIGHT RUNであるが、終わり方がシングルと異なり、ラストサビが[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")でなく最後まで流れる終わり方になっている。
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）

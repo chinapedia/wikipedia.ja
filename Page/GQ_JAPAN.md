@@ -35,7 +35,7 @@
 
   - 第1回（2006年）
 
-:\* [安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")（[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")）
+:\* [安倍晋三](../Page/安倍晋三.md "wikilink")（[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")）
 
 :\* [宇野康秀](../Page/宇野康秀.md "wikilink")（[USEN](../Page/USEN.md "wikilink") 代表取締役社長）
 

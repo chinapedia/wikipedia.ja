@@ -39,7 +39,7 @@
 <td></td>
 <td><p><a href="../Page/クリフ・リチャード.md" title="wikilink">クリフ・リチャード</a></p></td>
 <td><p>Congratulations</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>2位</p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a>2位</p></td>
 <td><p>8th</p></td>
 <td><p>105</p></td>
 <td><p>-</p></td>

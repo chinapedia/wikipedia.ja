@@ -1,7 +1,7 @@
 > この記事は[永遠 \(ZARDのアルバム\)](https://ja.wikipedia.org/wiki/永遠_\(ZARDのアルバム\))から翻訳されています。
 
 
-『**永遠**』（えいえん）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の8枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。JBCJ-1021。
+『**永遠**』（えいえん）は、[ZARD](../Page/ZARD.md "wikilink")の8枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。JBCJ-1021。
 
 ## 概要
 

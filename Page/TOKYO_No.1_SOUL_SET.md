@@ -11,7 +11,7 @@ BIKKEの語りかけるようなラップが特徴。ヒップホップグルー
     本名：川辺 浩志（かわなべ ひろし、[1967年](../Page/1967年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）、DJ、トラック・メイキング担当。
     [鹿児島県](../Page/鹿児島県.md "wikilink")出身。[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")とのコラボレーションによるスペシャルユニット[InK](../Page/InK.md "wikilink")など複数のユニットでも活動中。妻はタレントの[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")。
   - BIKKE（ビッケ）
-    本名：宮本 謙市（みやもと けんいち、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）：ヴォーカル、作詞担当。
+    本名：宮本 謙市（みやもと けんいち、[1968年](../Page/1968年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）：ヴォーカル、作詞担当。
     [埼玉県](../Page/埼玉県.md "wikilink")出身。[Nathalie Wiseとしても活動](../Page/Nathalie_Wise.md "wikilink")。『[Let's天才てれびくん](https://ja.wikipedia.org/wiki/Let's天才てれびくん "wikilink")』では声のみの出演でだんきち役を担当した。
   - 渡辺俊美（わたなべ としみ)
     ([1966年](../Page/1966年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - ）：ギター、ヴォーカル、サウンド・プロダクション担当。男性。

@@ -1,7 +1,7 @@
 > この記事は[Very best II](https://ja.wikipedia.org/wiki/Very_best_II)から翻訳されています。
 
 
-『**Very best II**』（ベリー・ベスト ツー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[2nd](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Very best II**』（ベリー・ベスト ツー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[2nd](../Page/序数詞.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
 1.  **[CHANGE THE WORLD](../Page/CHANGE_THE_WORLD_\(V6の曲\).md "wikilink")**
       -
-        [作詞](../Page/作詞.md "wikilink")：[松本理恵](../Page/松本理恵.md "wikilink")、[作曲](../Page/作曲.md "wikilink")：[渡辺未来](../Page/渡辺未来.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[上野圭一](https://ja.wikipedia.org/wiki/上野圭一 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[松本理恵](../Page/松本理恵.md "wikilink")、[作曲](../Page/作曲.md "wikilink")：[渡辺未来](../Page/渡辺未来.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[上野圭一](../Page/上野圭一.md "wikilink")
     <!-- end list -->
       - 17thシングル
 2.  **[愛のMelody](../Page/愛のMelody.md "wikilink")**※※
@@ -72,7 +72,7 @@
       - 24thシングルの1曲目
 10. **[強くなれ](https://ja.wikipedia.org/wiki/COSMIC_RESCUE/強くなれ "wikilink")**
       -
-        作詞・作曲：[giris talk](https://ja.wikipedia.org/wiki/giris_talk "wikilink")([mavie･mayu](https://ja.wikipedia.org/wiki/mavie･mayu "wikilink"))、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞・作曲：[giris talk](https://ja.wikipedia.org/wiki/giris_talk "wikilink")([mavie･mayu](https://ja.wikipedia.org/wiki/mavie･mayu "wikilink"))、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
     <!-- end list -->
       - 24thシングルの2曲目
 11. **[ありがとうのうた](../Page/ありがとうのうた.md "wikilink")**

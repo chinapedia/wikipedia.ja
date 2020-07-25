@@ -40,7 +40,7 @@ InternetFAXには、[リアルタイム](../Page/リアルタイム.md "wikilink
 <th><p>通信速度</p></th>
 <th><p>安定性</p></th>
 <th><p><a href="../Page/リアルタイム.md" title="wikilink">リアルタイム</a></p></th>
-<th><p><a href="../Page/電話網.md" title="wikilink">電話網</a><a href="https://ja.wikipedia.org/wiki/ゲートウェイ" title="wikilink">ゲートウェイ</a></p></th>
+<th><p><a href="../Page/電話網.md" title="wikilink">電話網</a><a href="../Page/ゲートウェイ.md" title="wikilink">ゲートウェイ</a></p></th>
 <th><p>用途</p></th>
 <th><p>通信先指定</p></th>
 <th><p>特徴</p></th>
@@ -129,12 +129,12 @@ Full Mode</p></td>
 
 ### 網構成
 
-電話網からのFAX発信を、VoIP[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")で音声パケットに変換し、IPで中継するものが、[IP電話](../Page/IP電話.md "wikilink")サービスで利用可能である。
+電話網からのFAX発信を、VoIP[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")で音声パケットに変換し、IPで中継するものが、[IP電話](../Page/IP電話.md "wikilink")サービスで利用可能である。
 
   -
     FAX装置 - VoIPゲートウェイ - インターネットプロトコル - VoIPゲートウェイ - FAX装置
 
-電話網からのFAX発信を、InternetFAX[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")でパケットに変換し、IPで中継するものが、[内線電話](../Page/内線電話.md "wikilink")とデータ通信網の統合のために利用されている。
+電話網からのFAX発信を、InternetFAX[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")でパケットに変換し、IPで中継するものが、[内線電話](../Page/内線電話.md "wikilink")とデータ通信網の統合のために利用されている。
 
   -
     FAX装置 - InternetFAXゲートウェイ - インターネットプロトコル - InternetFAXゲートウェイ - FAX装置
@@ -175,7 +175,7 @@ G.711インバンド方式は、G3ファクシミリの[モデム](https://ja.wi
 
 T.38は、画像情報をIP[パケット](../Page/パケット.md "wikilink")変換して[リアルタイム](../Page/リアルタイム.md "wikilink")伝送するものであり、[ITU-T](../Page/ITU-T.md "wikilink")で[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月](../Page/6月.md "wikilink")勧告された。
 
-G3ファクシミリの[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")信号を[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")で変換するものが、[内線電話](../Page/内線電話.md "wikilink")の[IP網](https://ja.wikipedia.org/wiki/IP網 "wikilink")に使用されている。[PCのFAX送信](../Page/パーソナルコンピュータ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")や業務用[複合機](https://ja.wikipedia.org/wiki/複合機 "wikilink")で、[SIPによる内線電話番号](../Page/Session_Initiation_Protocol.md "wikilink")・[IPアドレス](../Page/IPアドレス.md "wikilink")で送信可能である。2010年2月1日に、[NGN網の](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")[電話番号](../Page/電話番号.md "wikilink")でのFAXサービスのインプリメント仕様を、[ソフトフロント](https://ja.wikipedia.org/wiki/ソフトフロント "wikilink")が発表した。\[1\]
+G3ファクシミリの[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")信号を[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")で変換するものが、[内線電話](../Page/内線電話.md "wikilink")の[IP網](https://ja.wikipedia.org/wiki/IP網 "wikilink")に使用されている。[PCのFAX送信](../Page/パーソナルコンピュータ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")や業務用[複合機](https://ja.wikipedia.org/wiki/複合機 "wikilink")で、[SIPによる内線電話番号](../Page/Session_Initiation_Protocol.md "wikilink")・[IPアドレス](../Page/IPアドレス.md "wikilink")で送信可能である。2010年2月1日に、[NGN網の](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")[電話番号](../Page/電話番号.md "wikilink")でのFAXサービスのインプリメント仕様を、[ソフトフロント](https://ja.wikipedia.org/wiki/ソフトフロント "wikilink")が発表した。\[1\]
 
   - 利点
       - 9600b/s超える速度での伝送が可能。

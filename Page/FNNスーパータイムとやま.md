@@ -1,7 +1,7 @@
 > この記事は[FNNスーパータイムとやま](https://ja.wikipedia.org/wiki/FNNスーパータイムとやま)から翻訳されています。
 
 
-『**FNNスーパータイムとやま**』は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")（土曜版は[3月29日](../Page/3月29日.md "wikilink")）まで[富山テレビで放送された夕方の](../Page/富山テレビ放送.md "wikilink")[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")ローカルパート）。
+『**FNNスーパータイムとやま**』は、[1986年](../Page/1986年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")（土曜版は[3月29日](../Page/3月29日.md "wikilink")）まで[富山テレビで放送された夕方の](../Page/富山テレビ放送.md "wikilink")[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")ローカルパート）。
 
 ## 概要
 

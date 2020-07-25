@@ -7,7 +7,7 @@
 
 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")にある私立高校の[吹奏楽](../Page/吹奏楽.md "wikilink")部を舞台にした[学園ドラマ](../Page/学園ドラマ.md "wikilink")である。本作は、共に[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバーである[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")と[新垣仁絵のダブル主演作となっている](../Page/HITOE.md "wikilink")。また[藤原竜也](../Page/藤原竜也.md "wikilink")、[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、[木内晶子](../Page/木内晶子.md "wikilink")、[星野真里](../Page/星野真里.md "wikilink")、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")、[国仲涼子](https://ja.wikipedia.org/wiki/国仲涼子 "wikilink")、[高橋一生](../Page/高橋一生.md "wikilink")など、その後も他のテレビドラマや映画で活躍する俳優・女優たちが多数出演していた。[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")が俳優デビューを果たした作品でもある。
 
-[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")による本作の[劇伴](../Page/劇伴.md "wikilink")は、その後も同じくTBSで放送の『[サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎_\(高橋克典のテレビドラマ\) "wikilink")』や『[ブラザー☆ビート](../Page/ブラザー☆ビート.md "wikilink")』に使われている。主題歌は[八反安未果](https://ja.wikipedia.org/wiki/八反安未果 "wikilink")の「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」で、この曲は八反の作品初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")トップ10入りを記録した。
+[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")による本作の[劇伴](../Page/劇伴.md "wikilink")は、その後も同じくTBSで放送の『[サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎_\(高橋克典のテレビドラマ\) "wikilink")』や『[ブラザー☆ビート](../Page/ブラザー☆ビート.md "wikilink")』に使われている。主題歌は[八反安未果](https://ja.wikipedia.org/wiki/八反安未果 "wikilink")の「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」で、この曲は八反の作品初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")トップ10入りを記録した。
 
 1999年8月12日、[バップ](../Page/バップ.md "wikilink")から本作を収録した[VHS](../Page/VHS.md "wikilink")ビデオ全4巻が発売された。2011年1月14日には、[TCエンタテインメント](https://ja.wikipedia.org/wiki/TCエンタテインメント "wikilink")から[DVD-BOXが発売された](https://ja.wikipedia.org/wiki/ボックス・セット#DVD-BOX "wikilink")。
 
@@ -146,7 +146,7 @@
 
 ## 主題歌・挿入歌
 
-  - 主題歌：[八反安未果](https://ja.wikipedia.org/wiki/八反安未果 "wikilink") 「[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
+  - 主題歌：[八反安未果](https://ja.wikipedia.org/wiki/八反安未果 "wikilink") 「[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
   - 挿入歌：[The gardens](../Page/The_gardens.md "wikilink") 「約束の場所へ」（[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")）
 
 ## 放送日程

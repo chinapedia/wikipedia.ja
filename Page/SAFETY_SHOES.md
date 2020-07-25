@@ -18,7 +18,7 @@
   - **桜井敏郎**（さくらい としお、[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - ）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。兵庫県加古川市出身。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を行う。[レコーディング・ミキシングエンジニアでもある](../Page/レコーディング・エンジニア.md "wikilink")。
   - **西村悟志**（にしむら さとし、[3月4日](../Page/3月4日.md "wikilink") - ）
-      - [ドラムス](../Page/ドラムセット.md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。富山県富山市出身。[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")のドラム講師でもある。
+      - [ドラムス](../Page/ドラムセット.md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。富山県富山市出身。[ミューズ音楽院](../Page/ミューズ音楽院.md "wikilink")のドラム講師でもある。
 
 ## 主な実績
 

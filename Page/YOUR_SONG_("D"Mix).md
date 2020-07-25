@@ -25,7 +25,7 @@
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [THE LEGEND TM NETWORK](../Page/THE_LEGEND_\(TM_NETWORKのアルバム\).md "wikilink")
   - [Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink") (Special Instrumental Disco Mix)
-  - [TM NETWORK THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink") (Disc 1に"D"Mix、初回限定盤のみ付属のDisc 2にSpecial Instrumental Disco Mixが収録)
+  - [TM NETWORK THE SINGLES 1](../Page/THE_SINGLES_1.md "wikilink") (Disc 1に"D"Mix、初回限定盤のみ付属のDisc 2にSpecial Instrumental Disco Mixが収録)
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
   - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")

@@ -208,7 +208,7 @@
 
 ## 関連項目
 
-  - [夜はぷちぷちケータイ短歌](https://ja.wikipedia.org/wiki/夜はぷちぷちケータイ短歌 "wikilink")
+  - [夜はぷちぷちケータイ短歌](../Page/夜はぷちぷちケータイ短歌.md "wikilink")
   - [NHK俳句](../Page/NHK俳句.md "wikilink")
 
 ## 外部リンク

@@ -32,7 +32,7 @@
     [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")\[8\]、京都府出身。
     血液型はO型。
   - もこな（旧名：もこな あぱぱ）
-    [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")\[9\]、京都府出身。
+    [1968年](../Page/1968年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")\[9\]、京都府出身。
     血液型はA型。
     着物を日常的に着用しており、年を追うごとに着物の描写が精密かつ正確なものになっている。
 

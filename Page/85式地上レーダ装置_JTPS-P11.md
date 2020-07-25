@@ -7,7 +7,7 @@
 
 ## 特徴
 
-[71式地上レーダ装置 JTPS-P6の後継として技術研究本部で開発され](https://ja.wikipedia.org/wiki/71式地上レーダ装置_JTPS-P6 "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）度に制式化された。
+[71式地上レーダ装置 JTPS-P6の後継として技術研究本部で開発され](https://ja.wikipedia.org/wiki/71式地上レーダ装置_JTPS-P6 "wikilink")、[1986年](../Page/1986年.md "wikilink")（昭和61年）度に制式化された。
 
 主に[機甲科](../Page/機甲科.md "wikilink")（[偵察隊](https://ja.wikipedia.org/wiki/偵察隊 "wikilink")）に配備されており、地上においては車両・人員などの移動目標を、海上においては[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")の動きを監視するために使用する。
 

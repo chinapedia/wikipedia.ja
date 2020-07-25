@@ -136,7 +136,7 @@
 
 ## 主題歌
 
-  - [MARIA](../Page/MARIA_\(バンド\).md "wikilink")「[つぼみ](https://ja.wikipedia.org/wiki/つぼみ_\(MARIAの曲\) "wikilink")」
+  - [MARIA](../Page/MARIA_\(バンド\).md "wikilink")「[つぼみ](../Page/つぼみ_\(MARIAの曲\).md "wikilink")」
       - 作詞 - MARIA
       - 作曲 - TATTSU
       - 編曲 - 安原兵衛

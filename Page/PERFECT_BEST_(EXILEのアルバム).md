@@ -109,7 +109,7 @@
         作詞：[michico](../Page/MICHICO.md "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/T.Kura "wikilink"), michico / 編曲：T.Kura
     <!-- end list -->
       - 新曲
-      - 後に4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』にリミックスバージョン、ベストアルバム『[EXILE ENTERTAINMENT BEST](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』に再録バージョンが収録。同曲の続編「**最後の告白 〜STAY part.Ⅱ〜**」が、4thアルバム『ASIA』に収録。
+      - 後に4thアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』にリミックスバージョン、ベストアルバム『[EXILE ENTERTAINMENT BEST](../Page/EXILE_ENTERTAINMENT_BEST.md "wikilink")』に再録バージョンが収録。同曲の続編「**最後の告白 〜STAY part.Ⅱ〜**」が、4thアルバム『ASIA』に収録。
 2.  **[ESCAPE](../Page/Styles_Of_Beyond.md "wikilink")** (Inst.) \[3:31\]
       -
         作曲・編曲：[HIRO](../Page/五十嵐広行.md "wikilink") × (Kira + Okayan)）

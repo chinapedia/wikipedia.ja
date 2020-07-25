@@ -17,12 +17,12 @@
   - [Utada Hikaru SINGLE COLLECTION VOL.1](../Page/Utada_Hikaru_SINGLE_COLLECTION_VOL.1.md "wikilink") - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の2004年のアルバム。
   - [Utada Hikaru SINGLE COLLECTION VOL.2](https://ja.wikipedia.org/wiki/Utada_Hikaru_SINGLE_COLLECTION_VOL.2 "wikilink") - 宇多田ヒカルの2010年のアルバム。
   - [Single Collection (Plastic Treeのアルバム)](https://ja.wikipedia.org/wiki/Single_Collection_\(Plastic_Treeのアルバム\) "wikilink") - [Plastic Treeのベスト](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")・アルバム。
-  - [シングル・コレクション (浅香唯のアルバム)](https://ja.wikipedia.org/wiki/シングル・コレクション_\(浅香唯のアルバム\) "wikilink") - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")のベスト・アルバム。
+  - [シングル・コレクション (浅香唯のアルバム)](../Page/シングル・コレクション_\(浅香唯のアルバム\).md "wikilink") - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")のベスト・アルバム。
   - [シングルコレクション\!](https://ja.wikipedia.org/wiki/シングルコレクション! "wikilink") - [ET-KING](../Page/ET-KING.md "wikilink")のベスト・アルバム。
   - [SINGLE COLLECTION (girl next doorのアルバム)](https://ja.wikipedia.org/wiki/SINGLE_COLLECTION_\(girl_next_doorのアルバム\) "wikilink") - [girl next doorのベスト](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")・アルバム。
   - [SINGLE COLLECTION (ROUAGEのアルバム)](https://ja.wikipedia.org/wiki/SINGLE_COLLECTION_\(ROUAGEのアルバム\) "wikilink") - [ROUAGE](../Page/ROUAGE.md "wikilink")のベスト・アルバム。
   - [LOVE ENHANCED ♥ single collection](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink") - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")のベスト・アルバム。「[I HAVE NEVER SEEN](../Page/I_HAVE_NEVER_SEEN.md "wikilink")」から「[I WILL](https://ja.wikipedia.org/wiki/I_WILL_\(安室奈美恵の曲\) "wikilink")」までのシングルと「HimAWArI」（5thアルバム『[break the rules](https://ja.wikipedia.org/wiki/break_the_rules "wikilink")』収録曲）はオリジナル音源でなく、ボーカルを新録、新ミックス、新アレンジで収録されている（[song+nationプロジェクト第](https://ja.wikipedia.org/wiki/songnation "wikilink")3弾シングルとして発売された安室奈美恵 & [VERBAL](../Page/VERBAL.md "wikilink")名義の「[lovin' it](https://ja.wikipedia.org/wiki/lovin'_it "wikilink")」はオリジナル音源で収録）。
-  - [ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink") - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のベスト・アルバム。
+  - [ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink") - [ZARD](../Page/ZARD.md "wikilink")のベスト・アルバム。
   - [ザ・シングルス・コレクション](../Page/ザ・シングルス・コレクション.md "wikilink") *The Singles Collection* - [デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")の1993年のアルバム。
   - [シングルズ](https://ja.wikipedia.org/wiki/シングルズ_\(スペシャルズのアルバム\) "wikilink") *The Singles Collection* - [スペシャルズ](../Page/スペシャルズ.md "wikilink")の1991年のアルバム。
   - [シングル･コレクション･ボックス](https://ja.wikipedia.org/wiki/シングル･コレクション･ボックス "wikilink") *The Singles Collection* - [ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")の2003年のアルバム。

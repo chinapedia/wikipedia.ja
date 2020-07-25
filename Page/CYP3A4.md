@@ -120,7 +120,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="../Page/イミプラミン.md" title="wikilink">イミプラミン</a>[44]</li>
 <li><a href="https://ja.wikipedia.org/wiki/シクロベンザプリン" title="wikilink">シクロベンザプリン</a>[45]</li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/選択的セロトニン再取り込み阻害薬" title="wikilink">SSRI</a>
+<li><a href="../Page/選択的セロトニン再取り込み阻害薬.md" title="wikilink">SSRI</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/シクロベンザプリン" title="wikilink">シクロベンザプリン</a>[46]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ノルフルオキセチン" title="wikilink">ノルフルオキセチン</a>[47]</li>
@@ -131,7 +131,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/ミルタザピン" title="wikilink">ミルタザピン</a>[49] (NaSSA)</li>
 <li><a href="https://ja.wikipedia.org/wiki/ネファゾドン" title="wikilink">ネファゾドン</a>[50]</li>
 <li><a href="https://ja.wikipedia.org/wiki/レボキセチン" title="wikilink">レボキセチン</a>[51]</li>
-<li><a href="https://ja.wikipedia.org/wiki/ベンラファキシン" title="wikilink">ベンラファキシン</a>[52] (<a href="https://ja.wikipedia.org/wiki/セロトニン・ノルアドレナリン再取り込み阻害薬" title="wikilink">SNRI</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/ベンラファキシン" title="wikilink">ベンラファキシン</a>[52] (<a href="../Page/セロトニン・ノルアドレナリン再取り込み阻害薬.md" title="wikilink">SNRI</a>)</li>
 <li><a href="../Page/トラゾドン.md" title="wikilink">トラゾドン</a>[53] (SARI)</li>
 </ul></li>
 <li><a href="https://ja.wikipedia.org/wiki/ブスピロン" title="wikilink">ブスピロン</a>[54][55] (<a href="../Page/抗不安薬.md" title="wikilink">抗不安薬</a>)</li>

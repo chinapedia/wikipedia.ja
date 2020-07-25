@@ -91,7 +91,7 @@
   - [三宅綾](https://ja.wikipedia.org/wiki/三宅綾 "wikilink")（フリー→[NOWを経て](../Page/ネットワーク・オブ・レスリング.md "wikilink")[東京プロレスに入団](../Page/新東京プロレス.md "wikilink")）
   - [小坪弘良](../Page/小坪弘良.md "wikilink")（現：つぼ原人）（[プロフェッショナルレスリング藤原組に移籍](../Page/藤原組.md "wikilink")）
   - [菊澤光信](../Page/菊タロー.md "wikilink")（現：菊タロー）（練習生）（[ユニバーサル・プロレスリング](../Page/ユニバーサル・プロレスリング.md "wikilink")に移籍）
-  - [渡辺宏志](https://ja.wikipedia.org/wiki/渡辺宏志 "wikilink")（練習生）（[SGPに移籍](../Page/SGP_\(プロレス\).md "wikilink")）
+  - [渡辺宏志](../Page/渡辺宏志.md "wikilink")（練習生）（[SGPに移籍](../Page/SGP_\(プロレス\).md "wikilink")）
 
 ## レギュラー参戦選手
 

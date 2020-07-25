@@ -38,7 +38,7 @@ AACSは、既存の[コピーガード](../Page/コピーガード.md "wikilink"
 
   - [Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink")
       - [BDレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")
-      - [BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")
+      - [BDプレーヤー](../Page/BDプレーヤー.md "wikilink")
   - [HD DVD](../Page/HD_DVD.md "wikilink")
   - [コピーガード](../Page/コピーガード.md "wikilink")
       - [Content Scramble System](../Page/Content_Scramble_System.md "wikilink")

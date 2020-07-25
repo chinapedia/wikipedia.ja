@@ -450,7 +450,7 @@
 3.  [FMいるか会社概要](http://www.fmiruka.co.jp/outline/)
 4.  <http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=J&DFCD=0000008950&DD=1&styleNumber=01>
 5.  <http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=J&DFCD=0000009888&DD=1&styleNumber=01>
-6.  [携帯端末向けマルチメディア放送局の予備免許 －函館エリアで7月放送開始予定－](http://www.soumu.go.jp/soutsu/hokkaido/2014/0421c.html) - [総務省](../Page/総務省.md "wikilink")[北海道総合通信局](https://ja.wikipedia.org/wiki/北海道総合通信局 "wikilink")（2014年4月21日プレスリリース）
+6.  [携帯端末向けマルチメディア放送局の予備免許 －函館エリアで7月放送開始予定－](http://www.soumu.go.jp/soutsu/hokkaido/2014/0421c.html) - [総務省](../Page/総務省.md "wikilink")[北海道総合通信局](../Page/北海道総合通信局.md "wikilink")（2014年4月21日プレスリリース）
 7.
 8.  [「テレビと呼ぶには、面白すぎる」NOTTV、4年超でサービス終了](https://www.itmedia.co.jp/business/articles/1606/30/news153.html) IT Media 2016年6月30日 2020年5月24日閲覧
 9.

@@ -113,7 +113,7 @@ Bリーグへの統合の為、2016年5月13日の最終回を持って終了と
 
 2006-2007シーズンではbjリーグのオフィシャルスポンサーが、翌年以降はこれに加えて各チームのスポンサーが番組スポンサーについている。○印はリーグのオフィシャルスポンサー、●印はリーグの冠スポンサー。
 
-  - 2006-2007シーズン - ○[穴吹工務店](../Page/穴吹工務店.md "wikilink")、○[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、○[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")、○[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")、○[ECC](../Page/ECC総合教育機関.md "wikilink")
+  - 2006-2007シーズン - ○[穴吹工務店](../Page/穴吹工務店.md "wikilink")、○[ANA](../Page/全日本空輸.md "wikilink")、○[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")、○[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")、○[ECC](../Page/ECC総合教育機関.md "wikilink")
   - 2007-2008シーズン - ○穴吹工務店、○ANA、[越後製菓](../Page/越後製菓.md "wikilink")、[久米島の久米仙](../Page/久米島の久米仙.md "wikilink")、○[尾崎商事](https://ja.wikipedia.org/wiki/尾崎商事 "wikilink")、○ECC、[ヒューマングループ](https://ja.wikipedia.org/wiki/ヒューマングループ "wikilink")、[仙台進学プラザ](../Page/仙台進学プラザ.md "wikilink")、[ブルーシールアイスクリーム](../Page/ブルーシールアイスクリーム.md "wikilink")
   - 2008-2009シーズン - ○穴吹工務店、○[SPALDING](https://ja.wikipedia.org/wiki/スポルディング_\(スポーツ用品\) "wikilink")、○[キンレイ](../Page/キンレイ.md "wikilink")、○ECC、越後製菓、○尾崎商事、仙台進学プラザ、ヒューマングループ、[ベストアメニティ](https://ja.wikipedia.org/wiki/ベストアメニティ "wikilink")他
   - 2009-2010シーズン - ○SPALDING、○ANA、○尾崎商事、○[デサント](../Page/デサント.md "wikilink")、○ECC、[スクロール](../Page/スクロール_\(通販会社\).md "wikilink")、越後製菓、[興和](../Page/興和.md "wikilink")、[東京甲子社](https://ja.wikipedia.org/wiki/東京甲子社 "wikilink")、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")、[日本食研](https://ja.wikipedia.org/wiki/日本食研 "wikilink")他
@@ -195,7 +195,7 @@ bjリーグ 2007-2008 オールスターゲーム</p></td>
 <td><p>bjリーグ 2007-08 公式戦<br />
 <a href="../Page/新潟アルビレックスBB.md" title="wikilink">新潟アルビレックスBB</a>VS<a href="../Page/東京アパッチ.md" title="wikilink">東京アパッチ</a></p></td>
 <td><p><a href="../Page/長岡市厚生会館.md" title="wikilink">長岡市厚生会館</a><br />
-（<a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="https://ja.wikipedia.org/wiki/長岡市" title="wikilink">長岡市</a>）</p></td>
+（<a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/長岡市.md" title="wikilink">長岡市</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

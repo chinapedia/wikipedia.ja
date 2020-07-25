@@ -408,7 +408,7 @@ VICP-65025</p></td>
 <p>Dr：<bdi>滝沢哲夫</bdi></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="https://ja.wikipedia.org/wiki/12月" title="wikilink">12月</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="https://ja.wikipedia.org/wiki/12月" title="wikilink">12月</a></p></td>
 <td><p><strong>Beast Dominate</strong></p></td>
 <td></td>
 <td><ul>

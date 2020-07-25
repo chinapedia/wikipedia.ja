@@ -1,7 +1,7 @@
 > この記事は[Long Night](https://ja.wikipedia.org/wiki/Long_Night)から翻訳されています。
 
 
-「**Long Night**」（ロング・ナイト）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された[渡辺美里](../Page/渡辺美里.md "wikilink")の6枚目のシングル。
+「**Long Night**」（ロング・ナイト）は、[1986年](../Page/1986年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された[渡辺美里](../Page/渡辺美里.md "wikilink")の6枚目のシングル。
 
 ## 解説
 

@@ -132,7 +132,7 @@
 
 [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が初出場。この翌年以降も福山は多数の大ヒット曲を出していたものの、以後は自身主演の大河ドラマ『[龍馬伝](https://ja.wikipedia.org/wiki/龍馬伝 "wikilink")』の放送を翌年に控える[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）まで出場しなかった\[8\]。なお、福山がNHKホールで歌唱したのは今回のみである（第60回以降は全て中継出演）。
 
-[渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")が[第25回](../Page/第25回NHK紅白歌合戦.md "wikilink")（[1974年](../Page/1974年.md "wikilink")）以来19年ぶり2回目、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")が[第28回](../Page/第28回NHK紅白歌合戦.md "wikilink")（[1977年](../Page/1977年.md "wikilink")）以来16年ぶり10回目、[海援隊が](../Page/海援隊_\(フォークグループ\).md "wikilink")[第31回](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）以来13年ぶり3回目、[研ナオコ](../Page/研ナオコ.md "wikilink")が[第36回](../Page/第36回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）以来7年ぶり11回目と、それぞれ久々に紅白出場を果たした。
+[渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")が[第25回](../Page/第25回NHK紅白歌合戦.md "wikilink")（[1974年](../Page/1974年.md "wikilink")）以来19年ぶり2回目、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")が[第28回](../Page/第28回NHK紅白歌合戦.md "wikilink")（[1977年](../Page/1977年.md "wikilink")）以来16年ぶり10回目、[海援隊が](../Page/海援隊_\(フォークグループ\).md "wikilink")[第31回](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）以来13年ぶり3回目、[研ナオコ](../Page/研ナオコ.md "wikilink")が[第36回](../Page/第36回NHK紅白歌合戦.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）以来7年ぶり11回目と、それぞれ久々に紅白出場を果たした。
 
 この年下期の連続テレビ小説『かりん』の主題歌「[カナディアン アコーデオン](https://ja.wikipedia.org/wiki/カナディアン_アコーデオン "wikilink")」を担当した[井上陽水](../Page/井上陽水.md "wikilink")は「**あの場は余りにもハデ。恥ずかしいから**」という理由で辞退\[9\]。陽水の辞退理由は[VOW](../Page/VOW.md "wikilink")ネタにもなった。
 

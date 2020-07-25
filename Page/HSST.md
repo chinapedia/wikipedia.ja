@@ -170,7 +170,7 @@ HSSTではその用途別に主に3種類の基本形に分かれている。
   - [1979年](../Page/1979年.md "wikilink") - 国からの補助金を得て東扇島の実験線を1,600mに延長し、曲線と勾配を持つ本格的なものに改良する。
   - [1981年](../Page/1981年.md "wikilink")3月 - HSSTの基礎実験フェーズを終了し、東扇島の実験線も閉鎖。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月から9月 - [茨城県](../Page/茨城県.md "wikilink")[筑波研究学園都市](../Page/筑波研究学園都市.md "wikilink")で開催された[国際科学技術博覧会](../Page/国際科学技術博覧会.md "wikilink")にて、HSST-03が世界で2番目の実用デモ走行に成功。30km/hと低速の走行ながら人気を博した（→[つくば科学万博の交通](../Page/つくば科学万博の交通.md "wikilink")も参照）\[24\]。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月から10月 - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[バンクーバーで開催された](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")[国際交通博覧会にHSST](../Page/バンクーバー国際交通博覧会.md "wikilink")-03を出展、一部に曲線走路を含むデモ走行が行われた。
+  - [1986年](../Page/1986年.md "wikilink")5月から10月 - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[バンクーバーで開催された](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")[国際交通博覧会にHSST](../Page/バンクーバー国際交通博覧会.md "wikilink")-03を出展、一部に曲線走路を含むデモ走行が行われた。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")3月から5月 - 愛知県岡崎市で開催された[葵博にてHSST](https://ja.wikipedia.org/wiki/岡崎市制70周年記念博覧会 "wikilink")-03が展示走行。軌道長180m。このときの車両は岡崎南公園交通広場に静態保存されている。
   - [1988年](../Page/1988年.md "wikilink")3月から5月 - 埼玉県熊谷市で開催された[さいたま博覧会にてHSST](../Page/'88さいたま博覧会.md "wikilink")-04が展示走行。最高速度30km/h。
   - [1989年](../Page/1989年.md "wikilink")3月から10月 - 神奈川県横浜市で開催された[横浜博覧会](../Page/横浜博覧会.md "wikilink")の[横浜博線](https://ja.wikipedia.org/wiki/横浜博覧会#会場内 "wikilink")（YES'89線）では、運輸省（当時）より日本初の磁気浮上式鉄道の営業免許を取得した旅客営業輸送をHSST-05で行う。最高速度42km/h。

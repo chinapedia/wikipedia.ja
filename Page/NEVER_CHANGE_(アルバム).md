@@ -5,7 +5,7 @@
 
 ## 背景
 
-前作『[LICENSE](../Page/LICENSE_\(長渕剛のアルバム\).md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）リリース後、長渕は9月8日の静岡市民文化会館より12月3日の[日本武道館](../Page/日本武道館.md "wikilink")に至るまで、全国18都市全20公演におよぶライブツアー「LIVE'87 LICENSE」を開催した\[1\]。その最中、8月28日放送されたテレビドラマ『[スタンドバイミー 〜気まぐれ白書〜](https://ja.wikipedia.org/wiki/スタンドバイミー_〜気まぐれ白書〜 "wikilink")』（1987年）にゲスト出演し\[2\]、さらに8月29日にテレビドラマ『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）や映画『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（1986年）にて共演した女優の志穂美悦子と再婚した\[3\]。長渕は入籍のみで済ますつもりであったが、志穂美からの要望により9月17日に[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")が修行した寺の近くにある[奈良県](../Page/奈良県.md "wikilink")[天川村](https://ja.wikipedia.org/wiki/天川村 "wikilink")の[天河大弁財天社](../Page/天河大弁財天社.md "wikilink")にて挙式した\[4\]。また、長渕の意向により志穂美は芸能界を引退、専業主婦となり以降は芸能活動を行っていない\[5\]。
+前作『[LICENSE](../Page/LICENSE_\(長渕剛のアルバム\).md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）リリース後、長渕は9月8日の静岡市民文化会館より12月3日の[日本武道館](../Page/日本武道館.md "wikilink")に至るまで、全国18都市全20公演におよぶライブツアー「LIVE'87 LICENSE」を開催した\[1\]。その最中、8月28日放送されたテレビドラマ『[スタンドバイミー 〜気まぐれ白書〜](https://ja.wikipedia.org/wiki/スタンドバイミー_〜気まぐれ白書〜 "wikilink")』（1987年）にゲスト出演し\[2\]、さらに8月29日にテレビドラマ『[親子ゲーム](../Page/親子ゲーム.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）や映画『[男はつらいよ 幸福の青い鳥](../Page/男はつらいよ_幸福の青い鳥.md "wikilink")』（1986年）にて共演した女優の志穂美悦子と再婚した\[3\]。長渕は入籍のみで済ますつもりであったが、志穂美からの要望により9月17日に[千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")が修行した寺の近くにある[奈良県](../Page/奈良県.md "wikilink")[天川村](https://ja.wikipedia.org/wiki/天川村 "wikilink")の[天河大弁財天社](../Page/天河大弁財天社.md "wikilink")にて挙式した\[4\]。また、長渕の意向により志穂美は芸能界を引退、専業主婦となり以降は芸能活動を行っていない\[5\]。
 
 これと前後して、9月16日には『LICENSE』に収録されていた「泣いてチンピラ」（1987年）をシングルカットとしてリリースし、翌1988年2月5日には本作からの先行シングルとなる「[乾杯-NEW RECORDING VERSION-](../Page/乾杯_\(長渕剛の曲\).md "wikilink")」（1988年）をリリース、長渕のシングルとしては「[順子/涙のセレナーデ](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）以来となるオリコンチャート1位を獲得し、約77万枚を売り上げるなど大ヒットとなった\[6\]。
 
@@ -43,7 +43,7 @@
 
 1.  **STAY DREAM** - *Stay Dream*
       -
-        アルバム『[STAY DREAM](../Page/STAY_DREAM.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）のタイトルナンバーの再録音。また、シングル「NEVER CHANGE」のカップリング曲にもなっている。
+        アルバム『[STAY DREAM](../Page/STAY_DREAM.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）のタイトルナンバーの再録音。また、シングル「NEVER CHANGE」のカップリング曲にもなっている。
 2.  **僕のギターにはいつもヘビーゲージ** - *Heavy Gauge*
       -
         アルバム『[HEAVY GAUGE](../Page/HEAVY_GAUGE_\(長渕剛のアルバム\).md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）より。メロディーが大幅に変わっている。

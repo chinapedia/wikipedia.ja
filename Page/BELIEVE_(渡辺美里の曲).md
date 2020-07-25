@@ -1,7 +1,7 @@
 > この記事は[BELIEVE \(渡辺美里の曲\)](https://ja.wikipedia.org/wiki/BELIEVE_\(渡辺美里の曲\))から翻訳されています。
 
 
-「**BELIEVE**」（ビリーヴ）は、[渡辺美里](../Page/渡辺美里.md "wikilink")の楽曲で、7枚目のシングル。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売された。
+「**BELIEVE**」（ビリーヴ）は、[渡辺美里](../Page/渡辺美里.md "wikilink")の楽曲で、7枚目のシングル。[1986年](../Page/1986年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売された。
 
 ## 解説
 

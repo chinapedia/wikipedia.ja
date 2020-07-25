@@ -45,7 +45,7 @@
       - **[S.O.S.](https://ja.wikipedia.org/wiki/:sv:S.O.S._\(maträtt\) "wikilink")** - スウェーデン料理。前菜で供される。バター(Smör)、チーズ（Ost）、ニシン(Sill)の頭文字から取られている。
       - [サタデーおじゃま商店](https://ja.wikipedia.org/wiki/サタデーおじゃま商店 "wikilink") - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")で2008年から2009年まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称**SOS**。
       - [SOS子供の村](https://ja.wikipedia.org/wiki/SOS子供の村 "wikilink") - オーストリア発祥の児童保護団体
-      - **SOS** - [プロレス技](../Page/プロレス技.md "wikilink")。足払いから激しく回転ししのまま[フォールする技](../Page/ピンフォール.md "wikilink")。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") [プロレスラー](../Page/プロレスラー.md "wikilink") [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")の得意技。
+      - **SOS** - [プロレス技](../Page/プロレス技.md "wikilink")。足払いから激しく回転ししのまま[フォールする技](../Page/ピンフォール.md "wikilink")。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") [プロレスラー](../Page/プロレスラー.md "wikilink") [コフィ・キングストン](../Page/コフィ・キングストン.md "wikilink")の得意技。
       - **[S-OS](https://ja.wikipedia.org/wiki/Oh!X#THE_SENTINEL "wikilink")**　-　『Oh\!X』誌で連載された全機種共通システムの名称。
       - **SOS** - [デンマーク海軍兵学校](https://ja.wikipedia.org/wiki/海軍兵学校_\(デンマーク\) "wikilink")()
 

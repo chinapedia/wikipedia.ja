@@ -29,7 +29,7 @@
 
 7z圧縮の中心段階では各種のアルゴリズムを使用する。もっともよく使われるのは[Bzip2](../Page/Bzip2.md "wikilink")と[LZMAである](../Page/Lempel-Ziv-Markov_chain-Algorithm.md "wikilink")。イーゴリ・パヴロフによって開発されたLZMAは比較的新しいシステムであり、7z形式の一部として初公開された。LZMAは[Range Coderによって符号化された大きな](https://ja.wikipedia.org/wiki/Range_Coder "wikilink")（サイズ 4 [GiB](https://ja.wikipedia.org/wiki/ギビバイト "wikilink") までの）LZベースのスライド辞書からなる。
 
-LZMAの[圧縮比は非常に高くなる傾向がある](https://ja.wikipedia.org/wiki/データ圧縮比 "wikilink")。圧縮されたサイズは、どちらもプロプライエタリである[RAR](../Page/RAR.md "wikilink")や[ACEを含む](https://ja.wikipedia.org/wiki/ACE_\(ファイル形式\) "wikilink")、他の高圧縮率の形式に匹敵する。
+LZMAの[圧縮比は非常に高くなる傾向がある](../Page/データ圧縮比.md "wikilink")。圧縮されたサイズは、どちらもプロプライエタリである[RAR](../Page/RAR.md "wikilink")や[ACEを含む](https://ja.wikipedia.org/wiki/ACE_\(ファイル形式\) "wikilink")、他の高圧縮率の形式に匹敵する。
 
 ネイティブの7zファイル形式はオープンでモジュール化されており、すべてのファイル名を[Unicode](../Page/Unicode.md "wikilink")で格納する。
 
@@ -39,13 +39,13 @@ Windows版の7-Zip は[7z](../Page/7z.md "wikilink")の他にも多数の[デー
 
 これらの形式のいくつかを含んでいることは、パッケージを実質的に[非フリーにする各種の使用条件に従わせることに注意すべきである](../Page/プロプライエタリ・ソフトウェア.md "wikilink")（たとえばプロプライエタリな[RAR](../Page/RAR.md "wikilink")圧縮を含む）。
 
-7-Zipは一部の[MSIファイルを開くことができ](../Page/Microsoft_Windows_Installer.md "wikilink")、ファイル内容に伴うメタファイルにもアクセスできる。一部の Microsoft CAB（[LZX](https://ja.wikipedia.org/wiki/LZX "wikilink")圧縮）と [NSIS](https://ja.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System "wikilink") (LZMA) インストーラ形式を開くこともでき、7-Zipは与えられたバイナリファイルが実際には書庫であるかどうかのチェックツールとして使える。
+7-Zipは一部の[MSIファイルを開くことができ](../Page/Microsoft_Windows_Installer.md "wikilink")、ファイル内容に伴うメタファイルにもアクセスできる。一部の Microsoft CAB（[LZX](../Page/LZX.md "wikilink")圧縮）と [NSIS](https://ja.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System "wikilink") (LZMA) インストーラ形式を開くこともでき、7-Zipは与えられたバイナリファイルが実際には書庫であるかどうかのチェックツールとして使える。
 
 ZIPやgzipの電子ファイルを圧縮するとき、7-Zipは自家製の[Deflate](../Page/Deflate.md "wikilink")エンコーダを使用する。このエンコーダは圧縮速度と引き替えに、広く使われている[zlib](https://ja.wikipedia.org/wiki/zlib "wikilink")のDEFLATE実装よりも圧縮率の高い書庫を作成できることが多い。7-ZipのDeflateエンコーダ実装は[AdvanceCOMP](https://ja.wikipedia.org/wiki/AdvanceCOMP "wikilink")スイートのツールの一部として独立に入手可能である。
 
 ## 派生物
 
-[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [x64 Edition](https://ja.wikipedia.org/wiki/Microsoft_Windows#64_ビット_オペレーティング_システム "wikilink") 用の[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") [CPU](../Page/CPU.md "wikilink")（[AMD64](https://ja.wikipedia.org/wiki/x64 "wikilink") や [Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")、および [IA-64](../Page/IA-64.md "wikilink")）対応版が存在する。これは巨大なメモリのマップをサポートすることにより圧縮を高速化できる。すべてのバージョンがマルチ[スレッドをサポートする](../Page/スレッド_\(コンピュータ\).md "wikilink")。
+[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [x64 Edition](https://ja.wikipedia.org/wiki/Microsoft_Windows#64_ビット_オペレーティング_システム "wikilink") 用の[64ビット](../Page/64ビット.md "wikilink") [CPU](../Page/CPU.md "wikilink")（[AMD64](https://ja.wikipedia.org/wiki/x64 "wikilink") や [Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")、および [IA-64](../Page/IA-64.md "wikilink")）対応版が存在する。これは巨大なメモリのマップをサポートすることにより圧縮を高速化できる。すべてのバージョンがマルチ[スレッドをサポートする](../Page/スレッド_\(コンピュータ\).md "wikilink")。
 
 ### CUI 版
 

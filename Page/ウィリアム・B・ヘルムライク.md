@@ -3,7 +3,7 @@
 
 **ウィリアム・B・ヘルムライク** (William B. Helmreich)、ないし、**ウィリアム・ヘルムライク** (William Helmreich) として知られた、**ウィリアム・ベンノ・ヘルムライク**（William Benno Helmreich、[1945年](../Page/1945年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")）は、[ニューヨーク市立大学シティカレッジ](../Page/ニューヨーク市立大学シティカレッジ.md "wikilink")の 、および、[大学院センターの](../Page/ニューヨーク市立大学大学院センター.md "wikilink")[社会学](../Page/社会学.md "wikilink")教授を務めた[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[社会学者](https://ja.wikipedia.org/wiki/社会学者 "wikilink")\[1\]、[著作家](../Page/著作家.md "wikilink")\[2\]\[3\]\[4\]。
 
-ヘルムライクは、[ニューヨーク市立大学](../Page/ニューヨーク市立大学.md "wikilink")の[ディスティングイッシュトプロフェッサー](https://ja.wikipedia.org/wiki/ディスティングイッシュトプロフェッサー "wikilink")（特別待遇の教授）であり\[5\]、人種・民族関係、宗教、移民、リスク行動、[ニューヨーク](../Page/ニューヨーク.md "wikilink")市の社会学、[都市社会学](../Page/都市社会学.md "wikilink")、[消費者行動](https://ja.wikipedia.org/wiki/消費者行動 "wikilink")、[市場調査](https://ja.wikipedia.org/wiki/市場調査 "wikilink")などを専門とした。
+ヘルムライクは、[ニューヨーク市立大学](../Page/ニューヨーク市立大学.md "wikilink")の[ディスティングイッシュトプロフェッサー](../Page/ディスティングイッシュトプロフェッサー.md "wikilink")（特別待遇の教授）であり\[5\]、人種・民族関係、宗教、移民、リスク行動、[ニューヨーク](../Page/ニューヨーク.md "wikilink")市の社会学、[都市社会学](../Page/都市社会学.md "wikilink")、[消費者行動](https://ja.wikipedia.org/wiki/消費者行動 "wikilink")、[市場調査](https://ja.wikipedia.org/wiki/市場調査 "wikilink")などを専門とした。
 
 ## 生い立ち
 

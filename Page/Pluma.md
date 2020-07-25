@@ -49,7 +49,7 @@ MATE Core Applicationsの一部として、plumaは、最新の[GTK](https://ja.
 
 ## 関連項目
 
-  - [テキストエディタの一覧](https://ja.wikipedia.org/wiki/テキストエディタの一覧 "wikilink")
+  - [テキストエディタの一覧](../Page/テキストエディタの一覧.md "wikilink")
 
 ## 脚注
 

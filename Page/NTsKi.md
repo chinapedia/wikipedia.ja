@@ -1,7 +1,7 @@
 > この記事は[NTsKi](https://ja.wikipedia.org/wiki/NTsKi)から翻訳されています。
 
 
-**NTsKi**（読: エヌ・ティー・エス・ケー・アイ）は、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。
+**NTsKi**（読: エヌ・ティー・エス・ケー・アイ）は、[京都](../Page/京都.md "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。
 
 ## 来歴
 

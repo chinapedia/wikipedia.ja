@@ -1,7 +1,7 @@
 > この記事は[YAPPARI LGYankees BEST\?](https://ja.wikipedia.org/wiki/YAPPARI_LGYankees_BEST\?)から翻訳されています。
 
 
-『**YAPPARI LGYankees BEST?**』（ヤッパリ・エルジーヤンキース・ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")・[LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink")が[2013年](../Page/2013年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[Venus-B](https://ja.wikipedia.org/wiki/Venus-B "wikilink")から発売した1枚目の[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。
+『**YAPPARI LGYankees BEST?**』（ヤッパリ・エルジーヤンキース・ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")・[LGYankees](../Page/LGYankees.md "wikilink")が[2013年](../Page/2013年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[Venus-B](https://ja.wikipedia.org/wiki/Venus-B "wikilink")から発売した1枚目の[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink")、ShaNa
+        作詞：[LGYankees](../Page/LGYankees.md "wikilink")、ShaNa
         補作詞：LGRookees、Eddie.K
         作曲：[NO DOUBT TRACKS](https://ja.wikipedia.org/wiki/ノーダウトトラックス "wikilink")
         補トラック：HIRO、[KENNY](https://ja.wikipedia.org/wiki/油布賢一 "wikilink")

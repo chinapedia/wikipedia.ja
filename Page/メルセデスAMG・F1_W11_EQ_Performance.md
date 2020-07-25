@@ -36,7 +36,7 @@
   - [ブレーキ](../Page/ブレーキ.md "wikilink")システム: [カーボン・インダストリー](https://ja.wikipedia.org/wiki/カーボン・インダストリー "wikilink") カーボン[ディスク](../Page/ディスクブレーキ.md "wikilink")&パッド、リア・[ブレーキ・バイ・ワイヤ](https://ja.wikipedia.org/wiki/ブレーキ・バイ・ワイヤ "wikilink")
   - ブレーキキャリパー: [ブレンボ](../Page/ブレンボ.md "wikilink")
   - [ステアリング](../Page/ステアリング.md "wikilink"): パワーアシスト [ラック・アンド・ピニオン](https://ja.wikipedia.org/wiki/ラック・アンド・ピニオン "wikilink")
-  - [ステアリング・ホイール](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink"): カーボンファイバー製
+  - [ステアリング・ホイール](../Page/ステアリング・ホイール.md "wikilink"): カーボンファイバー製
   - エレクトロニクス: [FIA](../Page/国際自動車連盟.md "wikilink") スタンダード[ECU](https://ja.wikipedia.org/wiki/エレクトロニックコントロールユニット "wikilink")、FIA[公認電子](../Page/ホモロゲーション.md "wikilink")/電気システム
   - 計器: [MES](https://ja.wikipedia.org/wiki/マクラーレン・エレクトロニック・システムズ "wikilink")
   - 燃料システム: ATL製ケブラー強化ゴムタンク

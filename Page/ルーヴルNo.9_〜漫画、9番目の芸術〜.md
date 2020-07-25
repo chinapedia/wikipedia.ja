@@ -6,7 +6,7 @@
 ## 概要
 
   -
-    ルーヴル美術館が建つフランス語圏において[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")（[バンドデシネ](https://ja.wikipedia.org/wiki/バンドデシネ "wikilink")）は「[建築](../Page/建築.md "wikilink")」「[彫刻](../Page/彫刻.md "wikilink")」「[絵画](../Page/絵画.md "wikilink")」「[音楽](../Page/音楽.md "wikilink")」「[文学](../Page/文学.md "wikilink")」「[演劇](../Page/演劇.md "wikilink")」「[映画](../Page/映画.md "wikilink")」「[メディア芸術](https://ja.wikipedia.org/wiki/メディア芸術 "wikilink")」に次ぐ**第9の芸術**と呼称される。「**ルーヴルNo.9 ～漫画、9番目の芸術～**」ではこの呼称をフィーチャーし、日本、フランス内外の著名漫画家16名による漫画作品が出品される。日本からは[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")、[五十嵐大介](../Page/五十嵐大介.md "wikilink")、[坂本眞一](../Page/坂本眞一.md "wikilink")、[谷口ジロー](../Page/谷口ジロー.md "wikilink")、[寺田克也](../Page/寺田克也.md "wikilink")、[ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")が作品を出品した\[2\]\[3\]。ミュージシャンの米津玄師が展覧会のテーマソングとして楽曲「[ナンバーナイン](https://ja.wikipedia.org/wiki/LOSER/ナンバーナイン "wikilink")」を制作した他、イラストレーションの出品、イベント公式グッズのデザインを担当。会場のアナウンス音声は声優の神谷浩史が担当。
+    ルーヴル美術館が建つフランス語圏において[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")（[バンドデシネ](https://ja.wikipedia.org/wiki/バンドデシネ "wikilink")）は「[建築](../Page/建築.md "wikilink")」「[彫刻](../Page/彫刻.md "wikilink")」「[絵画](../Page/絵画.md "wikilink")」「[音楽](../Page/音楽.md "wikilink")」「[文学](../Page/文学.md "wikilink")」「[演劇](../Page/演劇.md "wikilink")」「[映画](../Page/映画.md "wikilink")」「[メディア芸術](https://ja.wikipedia.org/wiki/メディア芸術 "wikilink")」に次ぐ**第9の芸術**と呼称される。「**ルーヴルNo.9 ～漫画、9番目の芸術～**」ではこの呼称をフィーチャーし、日本、フランス内外の著名漫画家16名による漫画作品が出品される。日本からは[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")、[五十嵐大介](../Page/五十嵐大介.md "wikilink")、[坂本眞一](../Page/坂本眞一.md "wikilink")、[谷口ジロー](../Page/谷口ジロー.md "wikilink")、[寺田克也](../Page/寺田克也.md "wikilink")、[ヤマザキマリ](../Page/ヤマザキマリ.md "wikilink")が作品を出品した\[2\]\[3\]。ミュージシャンの米津玄師が展覧会のテーマソングとして楽曲「[ナンバーナイン](https://ja.wikipedia.org/wiki/LOSER/ナンバーナイン "wikilink")」を制作した他、イラストレーションの出品、イベント公式グッズのデザインを担当。会場のアナウンス音声は声優の神谷浩史が担当。
 
 ## 構成
 
@@ -102,7 +102,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ルーヴルの猫" title="wikilink">ルーヴルの猫</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマザキマリ" title="wikilink">ヤマザキマリ</a></p></td>
+<td><p><a href="../Page/ヤマザキマリ.md" title="wikilink">ヤマザキマリ</a></p></td>
 <td><p>Palmyre au Musèe 美術館のパルミラ</p></td>
 <td></td>
 </tr>

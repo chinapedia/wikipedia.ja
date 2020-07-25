@@ -20,7 +20,7 @@
   - ホーキンス：[エマ・トンプソン](../Page/エマ・トンプソン.md "wikilink")（[唐沢潤](../Page/唐沢潤.md "wikilink")）
   - ホーンベック上院議員：[ハル・ホルブルック](https://ja.wikipedia.org/wiki/ハル・ホルブルック "wikilink")（[平野稔](../Page/平野稔.md "wikilink")）
 
-日本語版その他声の出演：[木下浩之](../Page/木下浩之.md "wikilink")、[諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")、[佐々木敏](../Page/佐々木敏.md "wikilink")、[竹本純平](https://ja.wikipedia.org/wiki/竹本純平 "wikilink")、[梶原美樹](https://ja.wikipedia.org/wiki/梶原美樹 "wikilink")、[伊藤昌一](https://ja.wikipedia.org/wiki/伊藤昌一 "wikilink")、[大原真理子](https://ja.wikipedia.org/wiki/大原真理子 "wikilink")、[松井範雄](../Page/松井範雄.md "wikilink")、[宗英徳](https://ja.wikipedia.org/wiki/宗英徳 "wikilink")、[荒川大三郎](https://ja.wikipedia.org/wiki/荒川大三郎 "wikilink")、[大野領子](https://ja.wikipedia.org/wiki/大野領子 "wikilink")
+日本語版その他声の出演：[木下浩之](../Page/木下浩之.md "wikilink")、[諸角憲一](../Page/諸角憲一.md "wikilink")、[佐々木敏](../Page/佐々木敏.md "wikilink")、[竹本純平](https://ja.wikipedia.org/wiki/竹本純平 "wikilink")、[梶原美樹](https://ja.wikipedia.org/wiki/梶原美樹 "wikilink")、[伊藤昌一](https://ja.wikipedia.org/wiki/伊藤昌一 "wikilink")、[大原真理子](https://ja.wikipedia.org/wiki/大原真理子 "wikilink")、[松井範雄](../Page/松井範雄.md "wikilink")、[宗英徳](https://ja.wikipedia.org/wiki/宗英徳 "wikilink")、[荒川大三郎](https://ja.wikipedia.org/wiki/荒川大三郎 "wikilink")、[大野領子](https://ja.wikipedia.org/wiki/大野領子 "wikilink")
 
 ## 外部リンク
 

@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  [負けないで](../Page/負けないで.md "wikilink") / [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+1.  [負けないで](../Page/負けないで.md "wikilink") / [ZARD](../Page/ZARD.md "wikilink")
 2.  [瞳そらさないで](../Page/瞳そらさないで.md "wikilink") / [DEEN](../Page/DEEN.md "wikilink")
 3.  [DAN DAN 心魅かれてく](https://ja.wikipedia.org/wiki/DAN_DAN_心魅かれてく "wikilink") / [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
 4.  [熱くなれ](../Page/熱くなれ.md "wikilink") / [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")

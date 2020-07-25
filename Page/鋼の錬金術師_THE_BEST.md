@@ -69,7 +69,7 @@
         （作詞・作曲・編曲：スキマスイッチ）
 6.  [つないだ手](https://ja.wikipedia.org/wiki/つないだ手 "wikilink") / [Lil'B](https://ja.wikipedia.org/wiki/Lil'B "wikilink")
       -
-        （作詞：AILA / 作曲・編曲：[黒光雄輝](https://ja.wikipedia.org/wiki/黒光雄輝 "wikilink")）
+        （作詞：AILA / 作曲・編曲：[黒光雄輝](../Page/黒光雄輝.md "wikilink")）
 7.  [Period](https://ja.wikipedia.org/wiki/Period_\(CHEMISTRYの曲\) "wikilink") / [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
       -
         （作詞：[川畑要](../Page/川畑要.md "wikilink")　作曲：Jonas Myrin、Peter Kvint、江上浩太郎　編曲：板垣祐介）

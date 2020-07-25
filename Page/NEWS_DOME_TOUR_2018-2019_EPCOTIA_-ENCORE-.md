@@ -57,7 +57,7 @@
 #### DISC 2
 
 1.  タイムワープ -ENCORE INTER-
-2.  **[ずっと一緒さ](https://ja.wikipedia.org/wiki/ずっと一緒さ "wikilink")**（増田貴久）
+2.  **[ずっと一緒さ](../Page/ずっと一緒さ.md "wikilink")**（増田貴久）
 3.  **DANCIN'☆TO ME**（小山慶一郎）
 4.  **[カカオ](https://ja.wikipedia.org/wiki/NEWS_BEST "wikilink")**（加藤シゲアキ）
 5.  **茜空**（手越祐也）

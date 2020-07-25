@@ -74,7 +74,7 @@
 （でんぱ組.inc）</p></td>
 <td><p><span style="white-space:nowrap"><a href="https://ja.wikipedia.org/wiki/アイナ・ジ・エンド" title="wikilink">アイナ・ジ・エンド</a></span><br />
 （BiSH）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前島亜美" title="wikilink">前島亜美</a>（<a href="https://ja.wikipedia.org/wiki/SUPER☆GiRLS" title="wikilink">SUPER☆GiRLS</a>）、<a href="../Page/大場はるか.md" title="wikilink">大場はるか</a>（<a href="https://ja.wikipedia.org/wiki/drop" title="wikilink">drop</a>）、<a href="https://ja.wikipedia.org/wiki/佐保明梨" title="wikilink">佐保明梨</a>（アップアップガールズ（仮））、望月みゆ（バンドじゃないもん!）、双葉苗（妄想キャリブレーション）、奥村真友里（ひめキュンフルーツ缶）、<a href="https://ja.wikipedia.org/wiki/カミヤサキ" title="wikilink">カミヤサキ</a>（<a href="https://ja.wikipedia.org/wiki/GANG_PARADE" title="wikilink">POP</a>）、しふぉん（ゆるめるモ!）、<a href="https://ja.wikipedia.org/wiki/仮眠玲菜" title="wikilink">仮眠玲菜</a>（BELLRING少女ハート）、南菜生（<a href="https://ja.wikipedia.org/wiki/PassCode" title="wikilink">PassCode</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前島亜美" title="wikilink">前島亜美</a>（<a href="https://ja.wikipedia.org/wiki/SUPER☆GiRLS" title="wikilink">SUPER☆GiRLS</a>）、<a href="../Page/大場はるか.md" title="wikilink">大場はるか</a>（<a href="https://ja.wikipedia.org/wiki/drop" title="wikilink">drop</a>）、<a href="../Page/佐保明梨.md" title="wikilink">佐保明梨</a>（アップアップガールズ（仮））、望月みゆ（バンドじゃないもん!）、双葉苗（妄想キャリブレーション）、奥村真友里（ひめキュンフルーツ缶）、<a href="https://ja.wikipedia.org/wiki/カミヤサキ" title="wikilink">カミヤサキ</a>（<a href="https://ja.wikipedia.org/wiki/GANG_PARADE" title="wikilink">POP</a>）、しふぉん（ゆるめるモ!）、<a href="https://ja.wikipedia.org/wiki/仮眠玲菜" title="wikilink">仮眠玲菜</a>（BELLRING少女ハート）、南菜生（<a href="https://ja.wikipedia.org/wiki/PassCode" title="wikilink">PassCode</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>007</p></td>

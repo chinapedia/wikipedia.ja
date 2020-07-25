@@ -20,7 +20,7 @@
   - 『[君の膵臓を食べたい](https://ja.wikipedia.org/wiki/君の膵臓を食べたい "wikilink")』　[住野よる](https://ja.wikipedia.org/wiki/住野よる "wikilink")　双葉社　[2015年](../Page/2015年.md "wikilink")
   - 『[過ぎ去りし王国の城](https://ja.wikipedia.org/wiki/過ぎ去りし王国の城 "wikilink")』　[宮部みゆき](../Page/宮部みゆき.md "wikilink")　[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") 2015年
   - 『[プラージュ](https://ja.wikipedia.org/wiki/プラージュ "wikilink")』　誉田哲也　幻冬舎　2015年
-  - 『中島みゆき全歌集1975-1986』　[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")　[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")　2015年
+  - 『中島みゆき全歌集1975-1986』　[中島みゆき](../Page/中島みゆき.md "wikilink")　[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")　2015年
   - 『中島みゆき全歌集1987-2003』中島みゆき　朝日新聞出版　2015年
   - 『中島みゆき全歌集2004-2015』中島みゆき　朝日新聞出版　2015年
   - 『[学校では教えてくれない](https://ja.wikipedia.org/wiki/学校では教えてくれない "wikilink")』シリーズ　[井沢元彦](../Page/井沢元彦.md "wikilink")　[PHP研究所](../Page/PHP研究所.md "wikilink")　2015～2019年

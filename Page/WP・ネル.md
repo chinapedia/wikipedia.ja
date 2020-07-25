@@ -1,7 +1,7 @@
 > この記事は[WP・ネル](https://ja.wikipedia.org/wiki/WP・ネル)から翻訳されています。
 
 
-**WP・ネル**（WP Nel、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月30日](../Page/4月30日.md "wikilink") - ）は、[プロ14](../Page/プロ14.md "wikilink")[エディンバラ・ラグビー](../Page/エディンバラ・ラグビー.md "wikilink")に所属する[ラグビー](../Page/ラグビー.md "wikilink")選手。フルネームは**Willem Petrus Nel**。
+**WP・ネル**（WP Nel、[1986年](../Page/1986年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") - ）は、[プロ14](../Page/プロ14.md "wikilink")[エディンバラ・ラグビー](../Page/エディンバラ・ラグビー.md "wikilink")に所属する[ラグビー](../Page/ラグビー.md "wikilink")選手。フルネームは**Willem Petrus Nel**。
 
 ## プロフィール
 

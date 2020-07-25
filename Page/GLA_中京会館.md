@@ -17,7 +17,7 @@ GLA中京本部（ 宗教法人GLAの地方本部）のある建物。「[魂の
 
 　　**・「人生記録出会室」**　[八ヶ岳](../Page/八ヶ岳.md "wikilink")いのちの里[人生祈念館](../Page/人生祈念館.md "wikilink")に奉納されている「人生記録」を通信回線を通して拝聴することができる。
 
-　　**・[防災拠点](https://ja.wikipedia.org/wiki/防災拠点 "wikilink")設備**　　大[地震](../Page/地震.md "wikilink")対応として、「制振壁」を採用し、[耐震性](https://ja.wikipedia.org/wiki/耐震性 "wikilink")の向上を図る。災害時の[飲料水](../Page/飲料水.md "wikilink")（「簡易[浄水器](../Page/浄水器.md "wikilink")」を用い、[地下水](../Page/地下水.md "wikilink")を使用）。[自家発電](https://ja.wikipedia.org/wiki/自家発電 "wikilink")設備、　72時間最低限の機能を稼働できる。[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を開設（定期的に無線を活用した連絡訓練を実施）
+　　**・[防災拠点](https://ja.wikipedia.org/wiki/防災拠点 "wikilink")設備**　　大[地震](../Page/地震.md "wikilink")対応として、「制振壁」を採用し、[耐震性](https://ja.wikipedia.org/wiki/耐震性 "wikilink")の向上を図る。災害時の[飲料水](../Page/飲料水.md "wikilink")（「簡易[浄水器](../Page/浄水器.md "wikilink")」を用い、[地下水](../Page/地下水.md "wikilink")を使用）。[自家発電](https://ja.wikipedia.org/wiki/自家発電 "wikilink")設備、　72時間最低限の機能を稼働できる。[アマチュア無線](../Page/アマチュア無線.md "wikilink")[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を開設（定期的に無線を活用した連絡訓練を実施）
 
 ## 沿革
 

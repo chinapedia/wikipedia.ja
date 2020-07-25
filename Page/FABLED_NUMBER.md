@@ -398,7 +398,7 @@ CRCP-10398:通常盤</p></td>
 <tr class="odd">
 <td><p>The Lights</p></td>
 <td><p>テレビ東京系「<a href="https://ja.wikipedia.org/wiki/じっくり聞いタロウ〜スター近況（秘）報告〜" title="wikilink">じっくり聞いタロウ〜スター近況（秘）報告〜</a>」2017年2-3月度エンディングテーマ<br />
-テレビ神奈川「<a href="https://ja.wikipedia.org/wiki/音楽缶" title="wikilink">音楽缶</a>」2017年2月度オープニングテーマ</p></td>
+テレビ神奈川「<a href="../Page/音楽缶.md" title="wikilink">音楽缶</a>」2017年2月度オープニングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>Up All Night</p></td>

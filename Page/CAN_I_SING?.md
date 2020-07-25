@@ -27,7 +27,7 @@
 4.  **STRAIGHT FROM YOUR HEART**
 5.  **[JUMPING TAKE OFF](../Page/JUMPING_TAKE_OFF.md "wikilink")**
       - 先行シングル。ノンクレジットだが、アルバムバージョンである。
-      - [北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")『[新型ファミリアターボ](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")』のCMソングに起用された。
+      - [北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](../Page/マツダ.md "wikilink")『[新型ファミリアターボ](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")』のCMソングに起用された。
 
 ### B面
 

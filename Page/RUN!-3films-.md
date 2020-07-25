@@ -43,7 +43,7 @@
 
 ### 「VANISH」
 
-  - 正体不明の男 - [松林慎司](https://ja.wikipedia.org/wiki/松林慎司 "wikilink")
+  - 正体不明の男 - [松林慎司](../Page/松林慎司.md "wikilink")
   - マーク - 蟹江アサド
   - ボブ - シャア・ハック
   - 神山の手下 - 谷沢龍馬
@@ -56,7 +56,7 @@
   - 制作助手 - [菅野莉央](../Page/菅野莉央.md "wikilink")
   - 映画監督 - [龍坐](https://ja.wikipedia.org/wiki/龍坐 "wikilink")
   - カメラマン - [笠原紳司](../Page/笠原紳司.md "wikilink")
-  - 助監督 - [松林慎司](https://ja.wikipedia.org/wiki/松林慎司 "wikilink")
+  - 助監督 - [松林慎司](../Page/松林慎司.md "wikilink")
   - CMディレクター - [佐野大樹](../Page/佐野大樹_\(*pnish*\).md "wikilink")
   - 制作チーフ - [川村亮介](../Page/川村亮介.md "wikilink")
   - タレント - [佐野和真](../Page/佐野和真.md "wikilink")

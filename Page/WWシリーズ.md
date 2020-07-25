@@ -32,7 +32,7 @@
   - クジ・マサヤマ
     ウォーカロン産業の基礎を築いたうちの一人とされる昔の科学者。故人。
   - [サエバ・ミチル](https://ja.wikipedia.org/wiki/百年シリーズ#主な登場人物 "wikilink")
-    かつて[キョートで殺害された人物](https://ja.wikipedia.org/wiki/京都 "wikilink")。
+    かつて[キョートで殺害された人物](../Page/京都.md "wikilink")。
 
 ## シリーズ作品
 

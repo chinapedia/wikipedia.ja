@@ -1,7 +1,7 @@
 > この記事は[DTH・ファン・デル・メルヴァ](https://ja.wikipedia.org/wiki/DTH・ファン・デル・メルヴァ)から翻訳されています。
 
 
-'''DTH・ファン・デル・メルヴァ '''（DTH van der Merwe、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）は、[プロ14](../Page/プロ14.md "wikilink")、[グラスゴー・ウォリアーズ](../Page/グラスゴー・ウォリアーズ.md "wikilink")に所属する[ラグビー](../Page/ラグビー.md "wikilink")選手。
+'''DTH・ファン・デル・メルヴァ '''（DTH van der Merwe、[1986年](../Page/1986年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）は、[プロ14](../Page/プロ14.md "wikilink")、[グラスゴー・ウォリアーズ](../Page/グラスゴー・ウォリアーズ.md "wikilink")に所属する[ラグビー](../Page/ラグビー.md "wikilink")選手。
 
 ## プロフィール
 

@@ -7,7 +7,7 @@
 
 2015年9月25日の国連総会において、持続可能な開発のために必要不可欠な、向こう15年間の新たな行動計画として「[我々の世界を変革する：持続可能な開発のための2030アジェンダ](https://ja.wikipedia.org/wiki/持続可能な開発のための2030アジェンダ "wikilink")」が採択された。この中に具体的な目標と行動指針として[持続可能な開発目標](https://ja.wikipedia.org/wiki/持続可能な開発目標 "wikilink")（SDGs）と169のターゲットが示された。各々の政府は、これら高い目標を掲げるグローバルなターゲットを具体的な国家計画プロセスや政策、戦略に反映していくこととされた。
 
-日本では、SDGs推進本部会合における[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")[首相指示を踏まえ](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、自治体によるSDGsの達成に向けた優れた取り組みを提案する都市である「[SDGs未来都市](https://ja.wikipedia.org/wiki/持続可能な開発目標#SDGs%E6%9C%AA%E6%9D%A5%E9%83%BD%E5%B8%82 "wikilink")」と、特に先導的な取組の10事業である「[自治体SDGsモデル事業](https://ja.wikipedia.org/wiki/自治体SDGsモデル事業 "wikilink")」を公募することとなった。SDGs未来都市の取り組みを、国の支援を得ながらモデルとして普及展開を図り、「持続可能なまちづくり」の実現を図っていくことがねらいであった。
+日本では、SDGs推進本部会合における[安倍晋三](../Page/安倍晋三.md "wikilink")[首相指示を踏まえ](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")、自治体によるSDGsの達成に向けた優れた取り組みを提案する都市である「[SDGs未来都市](https://ja.wikipedia.org/wiki/持続可能な開発目標#SDGs%E6%9C%AA%E6%9D%A5%E9%83%BD%E5%B8%82 "wikilink")」と、特に先導的な取組の10事業である「[自治体SDGsモデル事業](https://ja.wikipedia.org/wiki/自治体SDGsモデル事業 "wikilink")」を公募することとなった。SDGs未来都市の取り組みを、国の支援を得ながらモデルとして普及展開を図り、「持続可能なまちづくり」の実現を図っていくことがねらいであった。
 
 [2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）[6月15日](../Page/6月15日.md "wikilink")、**富山市**は[SDGs未来都市と](https://ja.wikipedia.org/wiki/持続可能な開発目標#SDGs%E6%9C%AA%E6%9D%A5%E9%83%BD%E5%B8%82 "wikilink")[自治体SDGsモデル事業](https://ja.wikipedia.org/wiki/自治体SDGsモデル事業 "wikilink")の両方に選定された\[2\]。そこで8月に策定されたのが『**富山市SDGs未来都市計画～コンパクトシティ戦略による持続可能な付加価値創造都市の実現～』**である。
 

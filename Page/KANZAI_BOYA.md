@@ -20,7 +20,7 @@
 1.  **KANZAI BOYA**
       -
         （作詩：[堂本剛](../Page/堂本剛.md "wikilink") / 作曲：堂本剛）
-        朝日放送テレビ『[今ちゃんの「実は・・・」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』5月度エンディングテーマ
+        朝日放送テレビ『[今ちゃんの「実は・・・」](../Page/今ちゃんの「実は…」.md "wikilink")』5月度エンディングテーマ
 2.  **KANZAI BOYA -Backing Track-**
 
 #### Blu-ray/DVD

@@ -65,7 +65,7 @@
 ## 主なメディア出演歴
 
   - 「[街頭TV 出没！ひな壇団](https://ja.wikipedia.org/wiki/街頭TV_出没!ひな壇団 "wikilink")」 (RCCテレビ)
-  - 「[テレビ派](https://ja.wikipedia.org/wiki/テレビ派 "wikilink")」 (広島テレビ)
+  - 「[テレビ派](../Page/テレビ派.md "wikilink")」 (広島テレビ)
   - 「宝くじドカーンと１５００万円スペシャル」 (広島ホームテレビ)
   - 「[恋とか愛とか（仮）](https://ja.wikipedia.org/wiki/恋とか愛とか（仮） "wikilink")」 (広島ホームテレビ)
   - 「[Ｈ♪ＬＩＮＥ](https://ja.wikipedia.org/wiki/H♪LINE "wikilink")」 (広島ホームテレビ)

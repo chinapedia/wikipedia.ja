@@ -42,7 +42,7 @@
   - オリジナル
     ウルトラメダルを使用せず変身したゼット本来の姿。
   - アルファエッジ
-    [ゼロ](https://ja.wikipedia.org/wiki/ウルトラマンゼロ "wikilink")、[セブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")、[レオのウルトラメダルで変身する姿](https://ja.wikipedia.org/wiki/ウルトラマンレオ#ウルトラマンレオ "wikilink")。ゼロ譲りの宇宙拳法や空手を用いたスピード重視の格闘戦を得意とする。
+    [ゼロ](https://ja.wikipedia.org/wiki/ウルトラマンゼロ "wikilink")、[セブン](../Page/ウルトラセブン.md "wikilink")、[レオのウルトラメダルで変身する姿](https://ja.wikipedia.org/wiki/ウルトラマンレオ#ウルトラマンレオ "wikilink")。ゼロ譲りの宇宙拳法や空手を用いたスピード重視の格闘戦を得意とする。
   - ベータスマッシュ
     [ウルトラマン](https://ja.wikipedia.org/wiki/ウルトラマン#ウルトラマン "wikilink")、[エース](https://ja.wikipedia.org/wiki/ウルトラマンA#ウルトラマンエース "wikilink")、[タロウのウルトラメダルで変身する姿](https://ja.wikipedia.org/wiki/ウルトラマンタロウ#ウルトラマンタロウ "wikilink")。プロレスのようなパワーファイトを得意とするタイプ。
   - ガンマフューチャー

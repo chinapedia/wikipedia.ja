@@ -1,7 +1,7 @@
 > この記事は[Bitwarden](https://ja.wikipedia.org/wiki/Bitwarden)から翻訳されています。
 
 
-**Bitwarden**（ビットウォーデン）は、暗号化された保管庫にウェブサイトの資格情報などを保存する、[自由かつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[パスワードマネージャー](https://ja.wikipedia.org/wiki/パスワードマネージャー "wikilink")である。[クラウドでホストされるサービスと](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[オンプレミス](https://ja.wikipedia.org/wiki/オンプレミス "wikilink")でセルフホストする機能が提供されている。\[1\] Webインターフェイス、デスクトップアプリ、[ブラウザ拡張機能](https://ja.wikipedia.org/wiki/ブラウザ拡張機能 "wikilink")、モバイルアプリ、[CLIなど](../Page/キャラクタユーザインタフェース.md "wikilink")、さまざまな[クライアントアプリケーションがある](../Page/クライアント_\(コンピュータ\).md "wikilink")。\[2\]
+**Bitwarden**（ビットウォーデン）は、暗号化された保管庫にウェブサイトの資格情報などを保存する、[自由かつオープンソースの](../Page/FLOSS.md "wikilink")[パスワードマネージャー](https://ja.wikipedia.org/wiki/パスワードマネージャー "wikilink")である。[クラウドでホストされるサービスと](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[オンプレミス](https://ja.wikipedia.org/wiki/オンプレミス "wikilink")でセルフホストする機能が提供されている。\[1\] Webインターフェイス、デスクトップアプリ、[ブラウザ拡張機能](https://ja.wikipedia.org/wiki/ブラウザ拡張機能 "wikilink")、モバイルアプリ、[CLIなど](../Page/キャラクタユーザインタフェース.md "wikilink")、さまざまな[クライアントアプリケーションがある](../Page/クライアント_\(コンピュータ\).md "wikilink")。\[2\]
 
 ## 歴史
 

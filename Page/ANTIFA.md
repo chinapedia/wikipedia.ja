@@ -1,7 +1,7 @@
 > この記事は[ANTIFA](https://ja.wikipedia.org/wiki/ANTIFA)から翻訳されています。
 
 
-[thumbのうち](https://ja.wikipedia.org/wiki/ファイル:Antifalogo.svg "wikilink")1本は[アナキズム](https://ja.wikipedia.org/wiki/アナキズム "wikilink")と[オートノミズム](https://ja.wikipedia.org/wiki/オートノミズム "wikilink")を表す黒い旗に置き換えられている。\]\] [thumbと](https://ja.wikipedia.org/wiki/ファイル:Antifalogo_alt2.svg "wikilink")[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")を表す。\]\] **ANTIFA**（**アンティファ**または**アンティーファ**）は[反ファシスト（アンチ・ファシスト）を意味する](https://ja.wikipedia.org/wiki/反ファシズム "wikilink")[ドイツ語](../Page/ドイツ語.md "wikilink")の短縮形で、主に以下を意味する。
+[thumbのうち](https://ja.wikipedia.org/wiki/ファイル:Antifalogo.svg "wikilink")1本は[アナキズム](../Page/アナキズム.md "wikilink")と[オートノミズム](https://ja.wikipedia.org/wiki/オートノミズム "wikilink")を表す黒い旗に置き換えられている。\]\] [thumbと](https://ja.wikipedia.org/wiki/ファイル:Antifalogo_alt2.svg "wikilink")[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")を表す。\]\] **ANTIFA**（**アンティファ**または**アンティーファ**）は[反ファシスト（アンチ・ファシスト）を意味する](https://ja.wikipedia.org/wiki/反ファシズム "wikilink")[ドイツ語](../Page/ドイツ語.md "wikilink")の短縮形で、主に以下を意味する。
 
 1.  反ファシスト運動全般 - [反ファシズム](https://ja.wikipedia.org/wiki/反ファシズム "wikilink")を参照
 2.  1932年から1933年にかけて存在したドイツの[反ファシスト運動](https://ja.wikipedia.org/wiki/反ファシスト運動_\(ドイツ\) "wikilink")(、略称：**ANTIFA**)
@@ -9,7 +9,7 @@
 
 ## 概要
 
-現代のドイツのANTIFA運動は、[アナキズム](https://ja.wikipedia.org/wiki/アナキズム "wikilink")や[オートノミズム](https://ja.wikipedia.org/wiki/オートノミズム "wikilink")や[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")など多数の異なったグループや個人から構成されるが、「反ファシスト」を主張し、通常は「ANITFA」の略称を使用し、1930年代の歴史的な「反ファシスト運動」の精神を讃える。
+現代のドイツのANTIFA運動は、[アナキズム](../Page/アナキズム.md "wikilink")や[オートノミズム](https://ja.wikipedia.org/wiki/オートノミズム "wikilink")や[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")など多数の異なったグループや個人から構成されるが、「反ファシスト」を主張し、通常は「ANITFA」の略称を使用し、1930年代の歴史的な「反ファシスト運動」の精神を讃える。
 
 現代のANTIFA運動は、1960年代および1970年代初頭に[西ドイツ](../Page/西ドイツ.md "wikilink")政府を「ファシズム」と呼んで反対した学生主体のグループの「議会外反対」()を起源に持つ\[1\]。現代のANTIFA運動の初期グループは、1970年代当初に[毛沢東主義のドイツ共産主義者同盟](../Page/毛沢東思想.md "wikilink")(, **KB**)により結成された。
 
@@ -38,7 +38,7 @@
 ## 関連項目
 
   - 概念
-      - [アナキズム](https://ja.wikipedia.org/wiki/アナキズム "wikilink")
+      - [アナキズム](../Page/アナキズム.md "wikilink")
       - [オートノミズム](https://ja.wikipedia.org/wiki/オートノミズム "wikilink")
       - [自発的革命](https://ja.wikipedia.org/wiki/自発的革命 "wikilink")
       - [左翼共産主義](https://ja.wikipedia.org/wiki/左翼共産主義 "wikilink")

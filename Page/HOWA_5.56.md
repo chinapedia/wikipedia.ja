@@ -5,7 +5,7 @@
 
 ## 開発
 
-2014年8月、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が89式小銃に代わる新型小銃の採用を検討していると報じられた。 この時点での候補としては、[H\&K G36](../Page/H&K_G36.md "wikilink")、[H\&K HK416](../Page/H&K_HK416.md "wikilink")、[ステアーAUG](https://ja.wikipedia.org/wiki/ステアーAUG "wikilink")、[FN SCARといった外国製小銃が挙げられる一方で](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")、国産小銃の新規開発も模索されていた\[1\]。
+2014年8月、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が89式小銃に代わる新型小銃の採用を検討していると報じられた。 この時点での候補としては、[H\&K G36](../Page/H&K_G36.md "wikilink")、[H\&K HK416](../Page/H&K_HK416.md "wikilink")、[ステアーAUG](https://ja.wikipedia.org/wiki/ステアーAUG "wikilink")、[FN SCARといった外国製小銃が挙げられる一方で](../Page/FN_SCAR.md "wikilink")、国産小銃の新規開発も模索されていた\[1\]。
 
 2015年、[防衛省](../Page/防衛省.md "wikilink")は試験用に各種外国製小銃を調達し、同時に豊和工業との間でも試験用小銃の納入契約を行った。 調達契約の内容は以下の通りである\[2\]。
 

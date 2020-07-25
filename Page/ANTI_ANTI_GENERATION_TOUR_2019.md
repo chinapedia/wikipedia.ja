@@ -38,7 +38,7 @@
 
 ### 先行上映
 
-2020年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")にかけては、本作の本編映像の先行上映が、「**ANTI ANTI GENERATION TOUR 2019 the Film**」と題して全国47都道府県の映画館で行われた\[4\]。
+2020年[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[1月26日](../Page/1月26日.md "wikilink")にかけては、本作の本編映像の先行上映が、「**ANTI ANTI GENERATION TOUR 2019 the Film**」と題して全国47都道府県の映画館で行われた\[4\]。
 
 ## 収録曲
 

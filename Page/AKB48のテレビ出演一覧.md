@@ -70,7 +70,7 @@
           - AKB48 SHOW\! REMIX（2018年4月29日 - 2019年2月10日） - 全10回\[30\]
   - 日本テレビ（系列局制作も含む）
       - [AKB1じ59ふん\!](../Page/AKB1じ59ふん!.md "wikilink")（2008年1月25日 - 3月28日） - 初の[地上波](../Page/地上波.md "wikilink")レギュラー番組
-      - [AKB0じ59ふん\!](https://ja.wikipedia.org/wiki/AKB0じ59ふん! "wikilink")（2008年4月8日 - 9月30日）
+      - [AKB0じ59ふん\!](../Page/AKB0じ59ふん!.md "wikilink")（2008年4月8日 - 9月30日）
       - [AKBINGO\!](https://ja.wikipedia.org/wiki/AKBINGO! "wikilink")（2008年10月2日 - 2019年9月25日）
       - [なるほど\!ハイスクール → なるほどHS](https://ja.wikipedia.org/wiki/なるほど!ハイスクール "wikilink")（2010年5月30日\[31\]・10月9日\[32\]・2011年4月21日 - 2012年3月8日）\[33\]
       - [AKB600sec.](https://ja.wikipedia.org/wiki/AKB600sec. "wikilink")（2010年7月6日 - 7月30日）

@@ -5,7 +5,7 @@
 
 ## 略歴
 
-歌手のジム・ダイアモンドが、1980年代初期に[ジェフ・ベック](../Page/ジェフ・ベック.md "wikilink")のグループでメンバーを務めた[トニー・ハイマス](https://ja.wikipedia.org/wiki/トニー・ハイマス "wikilink")、[サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink")と共にグループを結成した。1981年にオリジナルがリリースされたセルフタイトルのデビュー・アルバムは、1982年の[全英シングルチャート](https://ja.wikipedia.org/wiki/全英シングルチャート "wikilink")で3位\[2\]、オーストラリアで5位に達するヒットとなったバラード「I Won't Let You Down」を生んだ。シングルの成功に続いてアルバムが再発され、最終的に[全英アルバムチャート](https://ja.wikipedia.org/wiki/全英アルバムチャート "wikilink")に入る売り上げとなった\[3\]。
+歌手のジム・ダイアモンドが、1980年代初期に[ジェフ・ベック](../Page/ジェフ・ベック.md "wikilink")のグループでメンバーを務めた[トニー・ハイマス](https://ja.wikipedia.org/wiki/トニー・ハイマス "wikilink")、[サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink")と共にグループを結成した。1981年にオリジナルがリリースされたセルフタイトルのデビュー・アルバムは、1982年の[全英シングルチャート](https://ja.wikipedia.org/wiki/全英シングルチャート "wikilink")で3位\[2\]、オーストラリアで5位に達するヒットとなったバラード「I Won't Let You Down」を生んだ。シングルの成功に続いてアルバムが再発され、最終的に[全英アルバムチャート](https://ja.wikipedia.org/wiki/全英アルバムチャート "wikilink")に入る売り上げとなった\[3\]。
 
 「Little Suzi's on the Up」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、米国の一部で1981年8月1日の[MTV](../Page/MTV.md "wikilink")最初となる放送日に5番目に放送されたビデオになった。
 
@@ -31,7 +31,7 @@
 
   - ジム・ダイアモンド (Jim Diamond) – ボーカル (1981年–1983年、2006年–2015年) ※2015年死去
   - [トニー・ハイマス](https://ja.wikipedia.org/wiki/トニー・ハイマス "wikilink") (Tony Hymas) – キーボード (1981年–1983年、2006年–2015年)
-  - [サイモン・フィリップス](https://ja.wikipedia.org/wiki/サイモン・フィリップス "wikilink") (Simon Phillips) – ドラム (1981年–1983年)
+  - [サイモン・フィリップス](../Page/サイモン・フィリップス.md "wikilink") (Simon Phillips) – ドラム (1981年–1983年)
 
 ## ディスコグラフィ
 

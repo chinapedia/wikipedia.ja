@@ -55,7 +55,7 @@
 
   - [デレク・ボアテング](https://ja.wikipedia.org/wiki/デレク・ボアテング "wikilink") 1999-2001
 
-  - [ジョルジェ・ラキッチ](https://ja.wikipedia.org/wiki/ジョルジェ・ラキッチ "wikilink") 2019-
+  - [ジョルジェ・ラキッチ](../Page/ジョルジェ・ラキッチ.md "wikilink") 2019-
 
 ## 脚注
 

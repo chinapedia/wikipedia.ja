@@ -1,7 +1,7 @@
 > この記事は[LZFSE](https://ja.wikipedia.org/wiki/LZFSE)から翻訳されています。
 
 
-**LZFSE** (**Lempel–Ziv Finite State Entropy**) は、[Appleによって開発された](../Page/アップル_\(企業\).md "wikilink")[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[可逆圧縮](../Page/可逆圧縮.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")である\[1\]。
+**LZFSE** (**Lempel–Ziv Finite State Entropy**) は、[Appleによって開発された](../Page/アップル_\(企業\).md "wikilink")[フリーかつオープンソースの](../Page/FLOSS.md "wikilink")[可逆圧縮](../Page/可逆圧縮.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")である\[1\]。
 
 ## 概要
 

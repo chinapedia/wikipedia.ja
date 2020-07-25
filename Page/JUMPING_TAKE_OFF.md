@@ -7,7 +7,7 @@
 
 アルバム『[CAN I SING?](../Page/CAN_I_SING?.md "wikilink")』の先行シングル。
 
-「JUMPING TAKE OFF」は、[1982年](../Page/1982年.md "wikilink")の「[Saudade](../Page/Saudade_\(高中正義の曲\).md "wikilink")」と1983年の「[To you](../Page/To_you_\(高中正義の曲\).md "wikilink")」に引き続き[北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")『[新型ファミリアターボ](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")』CMソングに起用された。
+「JUMPING TAKE OFF」は、[1982年](../Page/1982年.md "wikilink")の「[Saudade](../Page/Saudade_\(高中正義の曲\).md "wikilink")」と1983年の「[To you](../Page/To_you_\(高中正義の曲\).md "wikilink")」に引き続き[北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](../Page/マツダ.md "wikilink")『[新型ファミリアターボ](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")』CMソングに起用された。
 
 ## 収録曲
 

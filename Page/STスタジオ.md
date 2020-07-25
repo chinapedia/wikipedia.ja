@@ -93,7 +93,7 @@ STスタジオはメインチャンネルを一度削除されており、現在
 **[だいき](https://ja.wikipedia.org/wiki/だいき "wikilink")**
 
   - [2017年](../Page/2017年.md "wikilink")[9月](../Page/9月.md "wikilink")に加入。
-  - 生年月日：[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
+  - 生年月日：[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")
   - 年齢：25歳
   - 身長：不明
   - 本名：小島 大輝（こじま-だいき）

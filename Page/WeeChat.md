@@ -1,7 +1,7 @@
 > この記事は[WeeChat](https://ja.wikipedia.org/wiki/WeeChat)から翻訳されています。
 
 
-**WeeChat** (Wee Enhanced Environment for Chat) は、[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[IRCクライアント](https://ja.wikipedia.org/wiki/IRCクライアント "wikilink")であり、軽量かつ高速に動作するように設計されている。 から開発されており、[GNU GPL v3+の下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。
+**WeeChat** (Wee Enhanced Environment for Chat) は、[フリーかつオープンソースの](../Page/FLOSS.md "wikilink")[IRCクライアント](https://ja.wikipedia.org/wiki/IRCクライアント "wikilink")であり、軽量かつ高速に動作するように設計されている。 から開発されており、[GNU GPL v3+の下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。
 
 WeeChatのデフォルトインタフェースは[ncurses](https://ja.wikipedia.org/wiki/ncurses "wikilink")を利用した[テキストユーザインタフェース](https://ja.wikipedia.org/wiki/テキストユーザインタフェース "wikilink")だが、リレープロトコルを利用することでその他のインタフェースを使用することができる\[1\]。
 

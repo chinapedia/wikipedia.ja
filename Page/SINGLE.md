@@ -1,7 +1,7 @@
 > この記事は[SINGLE](https://ja.wikipedia.org/wiki/SINGLE)から翻訳されています。
 
 
-「**SINGLE**」（シングル）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に、[日本コロムビア](../Page/日本コロムビア.md "wikilink")からリリースされた[山下久美子](../Page/山下久美子.md "wikilink")の16枚目のシングル。
+「**SINGLE**」（シングル）は、[1986年](../Page/1986年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に、[日本コロムビア](../Page/日本コロムビア.md "wikilink")からリリースされた[山下久美子](../Page/山下久美子.md "wikilink")の16枚目のシングル。
 
 ## 作品概要
 

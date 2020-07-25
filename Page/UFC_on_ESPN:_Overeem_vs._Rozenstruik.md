@@ -43,7 +43,7 @@
 <!-- end list -->
 
   - 第6試合 ウェルター級 5分3R
-    ○  [ティム・ミーンズ](https://ja.wikipedia.org/wiki/ティム・ミーンズ "wikilink") vs.  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") ×
+    ○  [ティム・ミーンズ](https://ja.wikipedia.org/wiki/ティム・ミーンズ "wikilink") vs.  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") ×
     1R 2:38 ギロチンチョーク
 
 ### メインカード

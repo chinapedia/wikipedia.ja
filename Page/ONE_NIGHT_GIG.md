@@ -18,7 +18,7 @@
 ### CD
 
 1.  **[SHAKE IT](https://ja.wikipedia.org/wiki/SHAKE_IT_\(高中正義の曲\)#7インチシングル "wikilink")**
-      - オリジナルは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売されたアルバム『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』に収録されている。
+      - オリジナルは[1986年](../Page/1986年.md "wikilink")に発売されたアルバム『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』に収録されている。
 2.  **[READY TO FLY](https://ja.wikipedia.org/wiki/BLUE_LAGOON "wikilink")**
       - オリジナルは[1977年](../Page/1977年.md "wikilink")に発売されたアルバム『[TAKANAKA](https://ja.wikipedia.org/wiki/TAKANAKA "wikilink")』に収録されている。
 3.  **[渚モデラート](https://ja.wikipedia.org/wiki/渚・モデラート "wikilink")**

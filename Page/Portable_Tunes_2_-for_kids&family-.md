@@ -32,7 +32,7 @@
         楽曲の出版権はNHK出版と[オーガスタパブリッシングが所有している](../Page/オフィスオーガスタ.md "wikilink")\[9\]。
 3.  **しまじろうと いこうよ**
       -
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[しまじろうのわお\!](https://ja.wikipedia.org/wiki/しまじろうのわお! "wikilink")』オープニングテーマ。
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[しまじろうのわお\!](../Page/しまじろうのわお!.md "wikilink")』オープニングテーマ。
         楽曲の出版権は[ソニー・ミュージックパブリッシング](../Page/ソニー・ミュージックパブリッシング.md "wikilink")が所有しており\[10\]、歌詞カードには「**Licensed by [Sony Music Direct(Japan)Inc.](../Page/ソニー・ミュージックダイレクト.md "wikilink")**」と表記されている。
 4.  **[山口さんちのツトム君](../Page/山口さんちのツトム君.md "wikilink")**
       -
@@ -133,7 +133,7 @@
 **よしもと「笑楽校」校歌**
 
   - 青木慶則：Vocal, Chorus, All Instrumental, Programming
-  - [間寛平](../Page/間寛平.md "wikilink")（校長）、[山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")、[FUJIWARA](../Page/FUJIWARA.md "wikilink")、[くまだまさし](../Page/くまだまさし.md "wikilink")、[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")、[サーモンチョーチュウ](https://ja.wikipedia.org/wiki/サーモンチョーチュウ "wikilink")、[エハラマサヒロ](https://ja.wikipedia.org/wiki/エハラマサヒロ "wikilink")、[もう中学生](../Page/もう中学生.md "wikilink")：お笑いネタ
+  - [間寛平](../Page/間寛平.md "wikilink")（校長）、[山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")、[FUJIWARA](../Page/FUJIWARA.md "wikilink")、[くまだまさし](../Page/くまだまさし.md "wikilink")、[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")、[サーモンチョーチュウ](https://ja.wikipedia.org/wiki/サーモンチョーチュウ "wikilink")、[エハラマサヒロ](../Page/エハラマサヒロ.md "wikilink")、[もう中学生](../Page/もう中学生.md "wikilink")：お笑いネタ
   - 「笑楽校」の生徒さんたち：校歌斉唱
 
 **みんな、君だけを待ってる**

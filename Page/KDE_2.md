@@ -23,7 +23,7 @@ KDE 2.1は、メディアプレーヤーのnoatunを含み、開発環境の[KDe
 
 [KDE_2.2.2.png](https://ja.wikipedia.org/wiki/File:KDE_2.2.2.png "fig:KDE_2.2.2.png")
 
-KDE 2.2リリースの特徴は最大50%のアプリケーションの起動速度の改善と安定性の向上、HTMLレンダリングと[JavaScript](../Page/JavaScript.md "wikilink")の表示の改善である。このリリースでは、Konquerorのほか、[KMail](https://ja.wikipedia.org/wiki/KMail "wikilink")や[KOrganizer](https://ja.wikipedia.org/wiki/KOrganizer "wikilink")に対しても新機能が加えられている\[5\]。
+KDE 2.2リリースの特徴は最大50%のアプリケーションの起動速度の改善と安定性の向上、HTMLレンダリングと[JavaScript](../Page/JavaScript.md "wikilink")の表示の改善である。このリリースでは、Konquerorのほか、[KMail](../Page/KMail.md "wikilink")や[KOrganizer](../Page/KOrganizer.md "wikilink")に対しても新機能が加えられている\[5\]。
 
 ### KDE Restoration Project
 

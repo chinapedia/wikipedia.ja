@@ -56,7 +56,7 @@
     演 - 宮田愛萌
     2年生（B組）\[38\]。バレーボール部\[39\]。真琴に憧れる\[40\]。
   - 中池先生
-    演 - [坪倉由幸](https://ja.wikipedia.org/wiki/坪倉由幸 "wikilink")（[我が家](../Page/我が家.md "wikilink")）
+    演 - [坪倉由幸](../Page/坪倉由幸.md "wikilink")（[我が家](../Page/我が家.md "wikilink")）
     2年A組の担任。数学担当\[41\]。
 
 ### 芸能人

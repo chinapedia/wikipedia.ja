@@ -130,7 +130,7 @@
   - 柔道界の魔王 - [熊野準](https://ja.wikipedia.org/wiki/熊野準 "wikilink")
   - 草加雅人 / 仮面ライダーカイザ（声） - [村上幸平](../Page/村上幸平.md "wikilink")（友情出演）『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』
   - 照井竜 / 仮面ライダーアクセル（声） - [木ノ本嶺浩](https://ja.wikipedia.org/wiki/木ノ本嶺浩 "wikilink")（友情出演）『[仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink")』
-  - 伊達明 / 仮面ライダーバース（声） - [岩永洋昭](https://ja.wikipedia.org/wiki/岩永洋昭 "wikilink")（友情出演）『[仮面ライダーオーズ/OOO](https://ja.wikipedia.org/wiki/仮面ライダーオーズ/OOO "wikilink")』
+  - 伊達明 / 仮面ライダーバース（声） - [岩永洋昭](../Page/岩永洋昭.md "wikilink")（友情出演）『[仮面ライダーオーズ/OOO](https://ja.wikipedia.org/wiki/仮面ライダーオーズ/OOO "wikilink")』
   - 海東大樹 / 仮面ライダーディエンド（声） - [戸谷公人](../Page/戸谷公人.md "wikilink")（友情出演）『[仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』
   - 常磐ソウゴ / 仮面ライダージオウ（声） - [奥野壮](https://ja.wikipedia.org/wiki/奥野壮 "wikilink")
   - 常磐順一郎 - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")

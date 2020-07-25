@@ -1,15 +1,15 @@
 > この記事は[ULTRA POP 1](https://ja.wikipedia.org/wiki/ULTRA_POP_1)から翻訳されています。
 
 
-『**ULTRA POP 1**』（ウルトラ・ポップ ワン）は、[山下久美子](../Page/山下久美子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、[1994年](../Page/1994年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") / EASTWORLDから、[ライヴアルバム](../Page/ライブ・アルバム.md "wikilink")『[ULTRA POP Limited LIVE](https://ja.wikipedia.org/wiki/ULTRA_POP_Limited_LIVE "wikilink")』と同時に発売された。
+『**ULTRA POP 1**』（ウルトラ・ポップ ワン）は、[山下久美子](../Page/山下久美子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、[1994年](../Page/1994年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") / EASTWORLDから、[ライヴアルバム](../Page/ライブ・アルバム.md "wikilink")『[ULTRA POP Limited LIVE](https://ja.wikipedia.org/wiki/ULTRA_POP_Limited_LIVE "wikilink")』と同時に発売された。
 
 ## 概要
 
 [1992年](../Page/1992年.md "wikilink")に発売された『[Sweet-est](../Page/Sweet-est.md "wikilink")』以来のリリースとなり、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") / EASTWORLDから発売された初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の『[1986](https://ja.wikipedia.org/wiki/1986_\(山下久美子のアルバム\) "wikilink")』から、[1993年](../Page/1993年.md "wikilink")の『[CENTURY LOVERS](https://ja.wikipedia.org/wiki/CENTURY_LOVERS "wikilink")』までの楽曲をセレクトし、[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』にてオンエアされた「[夢でも逢えるかな](https://ja.wikipedia.org/wiki/夢でも逢えるかな "wikilink")」を収録している。
+[1986年](../Page/1986年.md "wikilink")の『[1986](https://ja.wikipedia.org/wiki/1986_\(山下久美子のアルバム\) "wikilink")』から、[1993年](../Page/1993年.md "wikilink")の『[CENTURY LOVERS](https://ja.wikipedia.org/wiki/CENTURY_LOVERS "wikilink")』までの楽曲をセレクトし、[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』にてオンエアされた「[夢でも逢えるかな](https://ja.wikipedia.org/wiki/夢でも逢えるかな "wikilink")」を収録している。
 
-[2012年](../Page/2012年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")から『絶対名盤 ベストアルバム』シリーズとして\[1\]、[2014年](../Page/2014年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に、[ユニバーサルミュージックから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")『BEST THE BEST』シリーズとして再発売された\[2\]。いずれもフォーマットは[SHM-CD仕様である](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")。
+[2012年](../Page/2012年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")から『絶対名盤 ベストアルバム』シリーズとして\[1\]、[2014年](../Page/2014年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に、[ユニバーサルミュージックから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")『BEST THE BEST』シリーズとして再発売された\[2\]。いずれもフォーマットは[SHM-CD仕様である](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")。
 
 ## 収録曲
 

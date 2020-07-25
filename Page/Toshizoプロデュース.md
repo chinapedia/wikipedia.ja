@@ -83,7 +83,7 @@
 
   - 『シアター』2002年
       -
-        [ヒューストン国際映画祭](https://ja.wikipedia.org/wiki/ヒューストン国際映画祭 "wikilink")ドラマ部門でWorld Fest-Houston　Bronze Rem Award 受賞
+        [ヒューストン国際映画祭](../Page/ヒューストン国際映画祭.md "wikilink")ドラマ部門でWorld Fest-Houston　Bronze Rem Award 受賞
     <!-- end list -->
       - 撮影/脚本/監督 … 藤原稔三
       - 制作 … Toshizoプロデュース

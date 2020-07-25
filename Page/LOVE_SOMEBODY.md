@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のボーカリスト、森重樹一のソロデビューアルバム。プロデューサーにホッピー神山を迎え入れ、[ニューヨーク](../Page/ニューヨーク.md "wikilink")にてレコーディングを行った。
+[ZIGGY](../Page/ZIGGY.md "wikilink")のボーカリスト、森重樹一のソロデビューアルバム。プロデューサーにホッピー神山を迎え入れ、[ニューヨーク](../Page/ニューヨーク.md "wikilink")にてレコーディングを行った。
 
 パーカッション、ストリングス、女性コーラス等を駆使したサウンドは、ZIGGYの「[YELLOW POP](https://ja.wikipedia.org/wiki/YELLOW_POP "wikilink")」や「[ZOO & RUBY](https://ja.wikipedia.org/wiki/ZOO_&_RUBY "wikilink")」を彷彿させる。
 

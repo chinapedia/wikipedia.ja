@@ -26,7 +26,7 @@
 
 [Category:滋賀県の放送送信所](https://ja.wikipedia.org/wiki/Category:滋賀県の放送送信所 "wikilink") [Category:エフエム滋賀](https://ja.wikipedia.org/wiki/Category:エフエム滋賀 "wikilink")
 
-1.  [株式会社エフエム滋賀のFM中継局に予備免許 -FMラジオ放送の難聴を解消-](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001559.html) - [総務省](../Page/総務省.md "wikilink")[近畿総合通信局](https://ja.wikipedia.org/wiki/近畿総合通信局 "wikilink")
+1.  [株式会社エフエム滋賀のFM中継局に予備免許 -FMラジオ放送の難聴を解消-](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001559.html) - [総務省](../Page/総務省.md "wikilink")[近畿総合通信局](../Page/近畿総合通信局.md "wikilink")
 2.  [株式会社エフエム滋賀のFMラジオ放送の難聴が解消されます -難聴解消を目的としたFM中継局に免許-](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001633.html) - 総務省近畿総合通信局
 3.  [エフエム滋賀、初の中継局 市内の受信感度向上へ 長浜 /滋賀](https://mainichi.jp/articles/20200402/ddl/k25/040/362000c) - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")
 4.  [FM滋賀長浜中継局・無線局免許状](https://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=E&DFCD=0001772973&DD=1&styleNumber=01) - 総務省

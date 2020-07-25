@@ -63,7 +63,7 @@
       -
         作詞・作曲：竹内まりや / 編曲：山下達郎
         7thアルバム『[REQUEST](https://ja.wikipedia.org/wiki/REQUEST_\(竹内まりやのアルバム\) "wikilink")』から収録。東宝映画『[ハワイアン・ドリーム](https://ja.wikipedia.org/wiki/ハワイアン・ドリーム "wikilink")』主題歌で、1987年当時芝浦にあったスマイル・ガレージで徹夜して録音された\[26\]。1989年にシングルカットされた際にリミックスされているが、本作にもその89年ミックスを収録。
-11. **[After Years](https://ja.wikipedia.org/wiki/AFTER_YEARS "wikilink")**  \[27\]
+11. **[After Years](../Page/AFTER_YEARS.md "wikilink")**  \[27\]
       -
         作詞・作曲：竹内まりや / 編曲：山下達郎
         8thアルバム『[Quiet Life](../Page/Quiet_Life.md "wikilink")』から収録。「[駅](https://ja.wikipedia.org/wiki/駅_\(曲\) "wikilink")」のカップリングとしてリリースした[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[素敵にドキュメント](../Page/素敵にドキュメント.md "wikilink")』エンディングテーマだった。山下達郎による小粋なアレンジがお気に入りで、子育てに追われていたこの時期に描いた楽曲は、実生活とはかけ離れたものが多いという\[28\]。
@@ -115,7 +115,7 @@
 5.  **Hey\! Baby**  \[48\]
       -
         作詞・作曲：竹内まりや / 編曲：山下達郎
-        1989年発売のシングル『[シングル・アゲイン](https://ja.wikipedia.org/wiki/シングル・アゲイン "wikilink")』のB面。[森下恵理](https://ja.wikipedia.org/wiki/森下恵理 "wikilink")のアルバム『ボーイ・フレンド』への提供曲のセルフカバー。ベース以外の全ての楽器は山下達郎が演奏している\[49\]。
+        1989年発売のシングル『[シングル・アゲイン](../Page/シングル・アゲイン.md "wikilink")』のB面。[森下恵理](https://ja.wikipedia.org/wiki/森下恵理 "wikilink")のアルバム『ボーイ・フレンド』への提供曲のセルフカバー。ベース以外の全ての楽器は山下達郎が演奏している\[49\]。
 6.  **夜景**  \[50\]
       -
         作詞・作曲：竹内まりや / 編曲：山下達郎
@@ -276,7 +276,7 @@
 24. **Che Vuole Questa Musica Stasera ～ガラスの部屋**  \[125\]
       -
         作詞・作曲：GAETANO AMENDOLA・ROBERTO MUROLO・EZIO LEONI / 編曲：牧戸太郎
-        お笑い芸人の[ヒロシ](../Page/ヒロシ.md "wikilink")がネタのBGMに使用したことでも知られる70年代のカンツォーネ。同名の映画を観に行ったが、映画の内容より主題歌が印象に残ったという。今回竹内のキャラクター「まりやちゃん」を描いてくれた漫画家の[ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")にイタリア語指導をしてもらった\[126\]。
+        お笑い芸人の[ヒロシ](../Page/ヒロシ.md "wikilink")がネタのBGMに使用したことでも知られる70年代のカンツォーネ。同名の映画を観に行ったが、映画の内容より主題歌が印象に残ったという。今回竹内のキャラクター「まりやちゃん」を描いてくれた漫画家の[ヤマザキマリ](../Page/ヤマザキマリ.md "wikilink")にイタリア語指導をしてもらった\[126\]。
 25. **For Your Love**  \[127\]
       -
         作詞・作曲：Ed Townsend / 編曲：山下達郎
@@ -1411,7 +1411,7 @@
 <td></td>
 <td><p>3CD</p></td>
 <td></td>
-<td><p>初回プレス豪華仕様盤。<a href="https://ja.wikipedia.org/wiki/ヤマザキマリ" title="wikilink">ヤマザキマリ</a>による描き下ろしイラストによる別冊「まりやちゃん Special Book」付属の三方背BOX仕様。</p></td>
+<td><p>初回プレス豪華仕様盤。<a href="../Page/ヤマザキマリ.md" title="wikilink">ヤマザキマリ</a>による描き下ろしイラストによる別冊「まりやちゃん Special Book」付属の三方背BOX仕様。</p></td>
 </tr>
 <tr class="even">
 <td><p>通常盤。</p></td>

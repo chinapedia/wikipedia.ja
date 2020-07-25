@@ -12,7 +12,7 @@
 ## キャスト
 
   - [ペネロペ・クルス](../Page/ペネロペ・クルス.md "wikilink") - オルガ・ゴンザレス
-  - [エドガー・ラミレス](https://ja.wikipedia.org/wiki/エドガー・ラミレス "wikilink") - レネ・ゴンザレス
+  - [エドガー・ラミレス](../Page/エドガー・ラミレス.md "wikilink") - レネ・ゴンザレス
   - [ワグネル・モウラ](https://ja.wikipedia.org/wiki/ワグネル・モウラ "wikilink") - フアン・パブロ・ロケ
   - [ガエル・ガルシア・ベルナル](../Page/ガエル・ガルシア・ベルナル.md "wikilink") - ゲラルド・ヘルナンデス
   - [アナ・デ・アルマス](https://ja.wikipedia.org/wiki/アナ・デ・アルマス "wikilink") - アナ・マガリタ・マルティネス

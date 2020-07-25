@@ -7,7 +7,7 @@
 
 2020年3月現在、無料で使用可能なプランのみ提供されており、1GB RAM・1CPU・500MBストレージが各ユーザーごとに提供される。リージョンはアジア・ヨーロッパ・アメリカ合衆国の3種類から選択可能であり、クライアントに近接した場所でアプリケーションなどを動作させることが可能である。\[1\]様々な言語及び環境に対応しており、初期段階では\[ユーザー名\].unubo.appが提供されるがユーザーが取得したドメインの利用も可能である。[Heroku](https://ja.wikipedia.org/wiki/Heroku "wikilink")などと同様に[GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink")からのデプロイに対応している。
 
-同社CEOであるLeandro Thomas氏のツイートによると、Unuboという名前は[エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")で「雲を統一する」という意味の「Unuigi Nubo」の略称とされている。\[2\]
+同社CEOであるLeandro Thomas氏のツイートによると、Unuboという名前は[エスペラント](../Page/エスペラント.md "wikilink")で「雲を統一する」という意味の「Unuigi Nubo」の略称とされている。\[2\]
 
 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")、Unuboは[Twitter](../Page/Twitter.md "wikilink")上においてサービスのシャットダウンを発表した。\[3\]
 

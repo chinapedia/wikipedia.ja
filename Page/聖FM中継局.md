@@ -29,4 +29,4 @@
 4.  [受信情報](https://www.nhk.or.jp/nagano/station_info/channel.html) - NHK長野放送局
 5.  [NHK長野放送局FM放送聖中継局・無線局免許状](https://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=B&DFCD=0000005620&DD=1&styleNumber=01) - 総務省
 6.  [信越放送聖FM・無線局免許状](https://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=B&DFCD=0000597988&DD=1&styleNumber=01) - 総務省
-7.  [信越放送株式会社のFM補完中継局に予備免許〜長野県内におけるFM補完局のエリアが拡大〜](https://www.soumu.go.jp/soutsu/shinetsu/sbt/hodo/180228.html) - 総務省[信越総合通信局](https://ja.wikipedia.org/wiki/信越総合通信局 "wikilink")
+7.  [信越放送株式会社のFM補完中継局に予備免許〜長野県内におけるFM補完局のエリアが拡大〜](https://www.soumu.go.jp/soutsu/shinetsu/sbt/hodo/180228.html) - 総務省[信越総合通信局](../Page/信越総合通信局.md "wikilink")

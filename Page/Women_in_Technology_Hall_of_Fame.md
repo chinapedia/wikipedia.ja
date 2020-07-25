@@ -66,7 +66,7 @@
 <tr class="odd">
 <td></td>
 <td><p>1938-</p></td>
-<td><p>アメリカの航空宇宙研究者。<a href="../Page/マサチューセッツ工科大学.md" title="wikilink">マサチューセッツ工科大学</a><a href="https://ja.wikipedia.org/wiki/ディスティングイッシュトプロフェッサー" title="wikilink">全学教授</a>。<a href="../Page/アメリカ合衆国空軍長官.md" title="wikilink">アメリカ合衆国空軍長官</a>（1993-1997年）[11]。アメリカ軍初の女性長官。</p></td>
+<td><p>アメリカの航空宇宙研究者。<a href="../Page/マサチューセッツ工科大学.md" title="wikilink">マサチューセッツ工科大学</a><a href="../Page/ディスティングイッシュトプロフェッサー.md" title="wikilink">全学教授</a>。<a href="../Page/アメリカ合衆国空軍長官.md" title="wikilink">アメリカ合衆国空軍長官</a>（1993-1997年）[11]。アメリカ軍初の女性長官。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -216,7 +216,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クローディン・シムソン" title="wikilink">クローディン・シムソン</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LSIコーポレーション" title="wikilink">LSIコーポレーション</a>元エクゼクティブヴァイスプレジデント・CTO。</p></td>
+<td><p><a href="../Page/LSIコーポレーション.md" title="wikilink">LSIコーポレーション</a>元エクゼクティブヴァイスプレジデント・CTO。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -469,7 +469,7 @@
 <td><p>2009年</p></td>
 <td></td>
 <td><p>1948-</p></td>
-<td><p>アフリカ系アメリカ人女性初の宇宙飛行士のペイロードの専門家として訓練を受けた科学者。NASA<a href="https://ja.wikipedia.org/wiki/エイムズ研究センター" title="wikilink">エイムズ研究センター</a>ヒューマンシステムインテグレーション部門の研究心理学者[93][94][95][96]</p></td>
+<td><p>アフリカ系アメリカ人女性初の宇宙飛行士のペイロードの専門家として訓練を受けた科学者。NASA<a href="../Page/エイムズ研究センター.md" title="wikilink">エイムズ研究センター</a>ヒューマンシステムインテグレーション部門の研究心理学者[93][94][95][96]</p></td>
 </tr>
 <tr class="odd">
 <td></td>

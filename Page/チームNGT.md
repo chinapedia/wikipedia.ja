@@ -33,7 +33,7 @@ NGTはNaGaToの意味。
 
 2016年9月、帝国書院発行「日本各地の味を楽しむ　食の地図」に山口県の名物料理のひとつとして「ながとりめん」が掲載される。
 
-2016年12月にロシアの[プーチン大統領と](../Page/ウラジーミル・プーチン.md "wikilink")[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相が長門市の[大谷山荘](https://ja.wikipedia.org/wiki/大谷山荘 "wikilink")において[日露首脳会談を行った際には](../Page/日朝首脳会談.md "wikilink")、歓迎ムードを高めようと長門産食材を使ったロシア料理のレシピを考案した。
+2016年12月にロシアの[プーチン大統領と](../Page/ウラジーミル・プーチン.md "wikilink")[安倍晋三](../Page/安倍晋三.md "wikilink")首相が長門市の[大谷山荘](https://ja.wikipedia.org/wiki/大谷山荘 "wikilink")において[日露首脳会談を行った際には](../Page/日朝首脳会談.md "wikilink")、歓迎ムードを高めようと長門産食材を使ったロシア料理のレシピを考案した。
 
 長門市中央公民館の市民向け学習会において、「ぴよシキ（長州どりの[ピロシキ](../Page/ピロシキ.md "wikilink")）」、「長州ながと和牛の[ビーフストロガノフ](https://ja.wikipedia.org/wiki/ビーフストロガノフ "wikilink")」、「仙崎かまぼこと長州どりの[オリヴィエサラダ](https://ja.wikipedia.org/wiki/オリヴィエサラダ "wikilink")」、「長門産いちごの[ブリヌィ](https://ja.wikipedia.org/wiki/ブリヌィ "wikilink")（ロシアのクレープ）」、「ゆずきちコーヒー」の5品を提供。その様子が多数のメディアに取り上げられる。
 

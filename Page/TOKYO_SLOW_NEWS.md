@@ -41,7 +41,7 @@
 ## 備考
 
   - 放送開始日の3月30日と31日は21:30まで30分拡大し、『TOKYO SLOW NEWS plus』として放送された\[1\]。
-  - 4月7日は[新型コロナウィルス](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")[緊急事態宣言発令に伴い](../Page/非常事態宣言.md "wikilink")、[JFN](../Page/全国FM放送協議会.md "wikilink")[報道特別番組](../Page/報道特別番組.md "wikilink")放送のため番組休止となったが、報道特別番組には速水と、速水がかつて『[クロノス・フライデー](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』で共演した[高橋万里恵](https://ja.wikipedia.org/wiki/高橋万里恵 "wikilink")が出演した\[2\]。
+  - 4月7日は[新型コロナウィルス](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")[緊急事態宣言発令に伴い](../Page/非常事態宣言.md "wikilink")、[JFN](../Page/全国FM放送協議会.md "wikilink")[報道特別番組](../Page/報道特別番組.md "wikilink")放送のため番組休止となったが、報道特別番組には速水と、速水がかつて『[クロノス・フライデー](../Page/クロノス_\(ラジオ番組\).md "wikilink")』で共演した[高橋万里恵](https://ja.wikipedia.org/wiki/高橋万里恵 "wikilink")が出演した\[2\]。
   - 2020年4月14日から5月28日まで速水は自宅から出演を行った。
 
 ## 脚注

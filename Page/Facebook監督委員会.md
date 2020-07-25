@@ -17,7 +17,7 @@
 
 4名\[17\]\[18\]\[19\]
 
-  - ジャマール・グリーン（[コロンビア大](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")[ロー・スクール教授](https://ja.wikipedia.org/wiki/コロンビア・ロー・スクール "wikilink")／[スティーブンス](https://ja.wikipedia.org/wiki/ジョン・ポール・スティーブンス "wikilink")[最高裁判事や](../Page/合衆国最高裁判所.md "wikilink")[ハリス](https://ja.wikipedia.org/wiki/カーマラ・ハリス "wikilink")[上院議員の補佐など](../Page/アメリカ合衆国上院.md "wikilink")／[タリブ・クウェリ](https://ja.wikipedia.org/wiki/タリブ・クウェリ "wikilink")の実弟）
+  - ジャマール・グリーン（[コロンビア大](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")[ロー・スクール教授](https://ja.wikipedia.org/wiki/コロンビア・ロー・スクール "wikilink")／[スティーブンス](https://ja.wikipedia.org/wiki/ジョン・ポール・スティーブンス "wikilink")[最高裁判事や](../Page/合衆国最高裁判所.md "wikilink")[ハリス](https://ja.wikipedia.org/wiki/カーマラ・ハリス "wikilink")[上院議員の補佐など](../Page/アメリカ合衆国上院.md "wikilink")／[タリブ・クウェリ](../Page/タリブ・クウェリ.md "wikilink")の実弟）
 
   - （[スタンフォード大](../Page/スタンフォード大学.md "wikilink")[ロー・スクール教授](https://ja.wikipedia.org/wiki/スタンフォード・ロー・スクール "wikilink")／[フーヴァー戦争・革命・平和研究所](https://ja.wikipedia.org/wiki/フーヴァー戦争・革命・平和研究所 "wikilink")フェロー／元[控訴裁判事](https://ja.wikipedia.org/wiki/合衆国控訴裁判所 "wikilink")）
 

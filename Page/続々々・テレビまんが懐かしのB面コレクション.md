@@ -158,7 +158,7 @@
       - テレビ東京系「[光速電神アルベガス](../Page/光速電神アルベガス.md "wikilink")」エンディングテーマ
 23. 肉・2×9Rock'n Roll
       - 作詞：[森雪之丞](../Page/森雪之丞.md "wikilink")、作曲：芹澤廣明、編曲：川上了、歌：[串田アキラ](../Page/串田アキラ.md "wikilink")、セリフ:[神谷明](../Page/神谷明.md "wikilink")、[水鳥鉄夫](https://ja.wikipedia.org/wiki/水鳥鉄夫 "wikilink")
-      - 日本テレビ系「[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")」エンディングテーマ
+      - 日本テレビ系「[キン肉マン](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")」エンディングテーマ
 24. ちいさいかわのうた
       - 作詞：[武鹿悦子](https://ja.wikipedia.org/wiki/武鹿悦子 "wikilink")、作曲：渡辺岳夫、編曲：青木望、歌：大杉久美子
       - TBS系「[ミームいろいろ夢の旅](../Page/ミームいろいろ夢の旅.md "wikilink")」エンディングテーマ

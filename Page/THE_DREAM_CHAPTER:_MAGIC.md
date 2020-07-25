@@ -94,7 +94,7 @@
 
 ## 評価
 
-[ビルボード](../Page/ビルボード.md "wikilink")はこのアルバムを「グルーヴ、[ポップ・パンク](../Page/ポップ・パンク.md "wikilink")、R\&B、ハウス・ミュージック、その他5つの幅広いジャンルの要素を含む多様な[サウンドスケープ](https://ja.wikipedia.org/wiki/サウンドスケープ "wikilink")」と紹介した。併せて『9 and Three Quarters (Run Away)』が「2019年K-POP曲ベスト25 」の第4位\[37\]、ワールドデジタルソングチャートの第2位にランクインした\[38\]。ビルボード誌が行う[トップ・ヒートシーカーズ](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")でも第6位にランクインした。
+[ビルボード](../Page/ビルボード.md "wikilink")はこのアルバムを「グルーヴ、[ポップ・パンク](../Page/ポップ・パンク.md "wikilink")、R\&B、ハウス・ミュージック、その他5つの幅広いジャンルの要素を含む多様な[サウンドスケープ](../Page/サウンドスケープ.md "wikilink")」と紹介した。併せて『9 and Three Quarters (Run Away)』が「2019年K-POP曲ベスト25 」の第4位\[37\]、ワールドデジタルソングチャートの第2位にランクインした\[38\]。ビルボード誌が行う[トップ・ヒートシーカーズ](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")でも第6位にランクインした。
 
 [MTVで執筆を行っているクリスタル](../Page/MTVジャパン.md "wikilink")・ベルは、[折衷](https://ja.wikipedia.org/wiki/折衷 "wikilink")的な音楽ジャンルのミックスを賞賛した\[39\]。併せて「2019年ベストK-POP B面」の第9位に『Magic Island』がランクインした\[40\]。
 

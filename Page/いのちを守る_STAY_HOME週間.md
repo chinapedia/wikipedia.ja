@@ -1,7 +1,7 @@
 > この記事は[いのちを守る STAY HOME週間](https://ja.wikipedia.org/wiki/いのちを守る_STAY_HOME週間)から翻訳されています。
 
 
-**命を守る STAY HOME週間**（いのちをまもる ステイホームしゅうかん）は、[2020年](../Page/2020年.md "wikilink")の[新型コロナウイルス感染症（COVID-19）拡大期に](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、集団感染の防止のため[東京都](../Page/東京都.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")に[小池百合子](https://ja.wikipedia.org/wiki/小池百合子 "wikilink")都知事が[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に掲げた標語である\[1\]\[2\]。
+**命を守る STAY HOME週間**（いのちをまもる ステイホームしゅうかん）は、[2020年](../Page/2020年.md "wikilink")の[新型コロナウイルス感染症（COVID-19）拡大期に](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、集団感染の防止のため[東京都](../Page/東京都.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")に[小池百合子](../Page/小池百合子.md "wikilink")都知事が[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に掲げた標語である\[1\]\[2\]。
 
 期間は[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")を含む[2020年](../Page/2020年.md "wikilink")4月下旬から5月上旬\[3\]で、不要不急の外出や他の道府県への移動など、これらを避けることで感染拡大を防ぐことに協力するよう国民に呼びかけた\[4\]。
 

@@ -22,7 +22,7 @@
 ### A面
 
 1.  '''A Fair Wind
-      - [北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")『[ファミリア](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")』CMソング
+      - [北大路欣也](../Page/北大路欣也.md "wikilink")が出演した[マツダ](../Page/マツダ.md "wikilink")『[ファミリア](https://ja.wikipedia.org/wiki/マツダ・ファミリア#5代目_BD型（1980年_-_1985年） "wikilink")』CMソング
 2.  **[Saudade](../Page/Saudade_\(高中正義の曲\).md "wikilink")**
       - 先行シングル。この楽曲も、北大路欣也が出演したマツダ『ファミリア』CMソングに起用された。
 3.  **[Eona](https://ja.wikipedia.org/wiki/To_You_\(高中正義の曲\) "wikilink")**

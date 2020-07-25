@@ -7,7 +7,7 @@
 
 **現在のレギュラー番組**
 
-  - [テレビ派](https://ja.wikipedia.org/wiki/テレビ派 "wikilink")（2017年7月7日 - 、[広島テレビ](../Page/広島テレビ放送.md "wikilink")） - 「虹色せとりっぷ」コーナーレギュラー
+  - [テレビ派](../Page/テレビ派.md "wikilink")（2017年7月7日 - 、[広島テレビ](../Page/広島テレビ放送.md "wikilink")） - 「虹色せとりっぷ」コーナーレギュラー
   - [せとチャレ\!STU48](https://ja.wikipedia.org/wiki/せとチャレ!STU48 "wikilink")（2017年10月8日 - 、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")） - 藤原（MC）\[1\]+メンバー1名\[2\]
   - [STU48 イ申テレビ](https://ja.wikipedia.org/wiki/STU48_イ申テレビ "wikilink")（2018年1月21日 - 、[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")）\[3\]
   - [STU↗でんつ\!](https://ja.wikipedia.org/wiki/STUでんつ! "wikilink")（2018年4月7日 - 、広島テレビ）\[4\]\[5\]

@@ -476,7 +476,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Ryu_Matsuyama" title="wikilink">Ryu Matsuyama</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/レ・ロマネスク" title="wikilink">レ・ロマネスク</a></li>
+<li><a href="../Page/レ・ロマネスク.md" title="wikilink">レ・ロマネスク</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/鳴ル銅鑼" title="wikilink">鳴ル銅鑼</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/シュリスペイロフ" title="wikilink">シュリスペイロフ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/コレサワ" title="wikilink">コレサワ</a></li>

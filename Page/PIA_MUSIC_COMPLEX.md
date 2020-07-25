@@ -34,7 +34,7 @@
 <li><a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></li>
 <li><a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/All_Japan_Goith" title="wikilink">All Japan Goith</a></li>
+<li><a href="../Page/All_Japan_Goith.md" title="wikilink">All Japan Goith</a></li>
 <li><a href="../Page/ASIA_SunRise.md" title="wikilink">ASIA SunRise</a></li>
 <li><a href="../Page/J-Min.md" title="wikilink">J-Min</a></li>
 <li><a href="../Page/MICRON&#39;_STUFF.md" title="wikilink">MICRON' STUFF</a></li>

@@ -40,7 +40,7 @@
   - [CoCoLo](../Page/CoCoLo.md "wikilink")　([新潟](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")、[長岡](../Page/長岡駅.md "wikilink")、[湯沢・がんぎどおり](../Page/越後湯沢駅.md "wikilink"))
   - Ekito.tagajo　([多賀城](../Page/多賀城駅.md "wikilink"))
   - セレオ　([国分寺](../Page/セレオ国分寺.md "wikilink")、[八王子](https://ja.wikipedia.org/wiki/セレオ八王子 "wikilink")、[西八王子](https://ja.wikipedia.org/wiki/吉祥寺ロンロン#セレオ西八王子（旧・西八王子ロンロン） "wikilink")、[相模原](https://ja.wikipedia.org/wiki/セレオ相模原 "wikilink")、[甲府](https://ja.wikipedia.org/wiki/セレオ甲府 "wikilink"))
-  - [トピコ](../Page/トピコ.md "wikilink")&[アルス](https://ja.wikipedia.org/wiki/おしゃれかんアルス "wikilink")　([秋田](../Page/秋田駅.md "wikilink"))
+  - [トピコ](../Page/トピコ.md "wikilink")&[アルス](../Page/おしゃれかんアルス.md "wikilink")　([秋田](../Page/秋田駅.md "wikilink"))
 
 ### 登録したSuicaの利用でポイントが貯まる店 (旧・Suicaポイント)
 
@@ -117,7 +117,7 @@
       - [ホテルニューグランド](../Page/ホテルニューグランド.md "wikilink")
       - ホテルファミリーオ・[ホテルフォルクローロ](https://ja.wikipedia.org/wiki/ホテルフォルクローロ "wikilink")
   - 飛行機(国内線機内販売)
-      - [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+      - [ANA](../Page/全日本空輸.md "wikilink")
   - その他
       - [タイムズ](../Page/パーク24.md "wikilink")
       - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")

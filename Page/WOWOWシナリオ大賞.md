@@ -140,7 +140,7 @@
 
 <!-- end list -->
 
-  - **崔洋一**、[大石哲也](../Page/大石哲也.md "wikilink")（脚本家）、[渡辺千穂](https://ja.wikipedia.org/wiki/渡辺千穂 "wikilink")（脚本家）、野村正昭、青木泰憲（WOWOWドラマ制作部長）
+  - **崔洋一**、[大石哲也](../Page/大石哲也.md "wikilink")（脚本家）、[渡辺千穂](../Page/渡辺千穂.md "wikilink")（脚本家）、野村正昭、青木泰憲（WOWOWドラマ制作部長）
 
 <!-- end list -->
 

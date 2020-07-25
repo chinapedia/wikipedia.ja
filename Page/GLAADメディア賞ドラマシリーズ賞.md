@@ -901,7 +901,7 @@
 <tr class="even">
 <td><p><br />
 <em>Wynonna Earp</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Syfy" title="wikilink">Syfy</a></p></td>
+<td><p><a href="../Page/Syfy.md" title="wikilink">Syfy</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -970,7 +970,7 @@
 <tr class="even">
 <td><p><br />
 <em>Wynonna Earp</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Syfy" title="wikilink">Syfy</a></p></td>
+<td><p><a href="../Page/Syfy.md" title="wikilink">Syfy</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1035,7 +1035,7 @@
 <tr class="odd">
 <td><p><br />
 <em>Wynonna Earp</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Syfy" title="wikilink">Syfy</a></p></td>
+<td><p><a href="../Page/Syfy.md" title="wikilink">Syfy</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

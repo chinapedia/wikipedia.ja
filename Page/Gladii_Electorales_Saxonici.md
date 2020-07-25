@@ -19,7 +19,7 @@
 
 キルヒの後にこの星座を採り上げるものはおらず、[ヨハン・ボーデ](../Page/ヨハン・ボーデ.md "wikilink")などの後の天文学者は、この星座の領域を周辺の[うしかい座](../Page/うしかい座.md "wikilink")、おとめ座、へび座、[てんびん座](../Page/てんびん座.md "wikilink")の領域に分割した。
 
-他にもキルヒは、[ブランデンブルク選帝侯](https://ja.wikipedia.org/wiki/ブランデンブルク選帝侯 "wikilink")[フリードリヒ3世を称えた](https://ja.wikipedia.org/wiki/フリードリヒ1世_\(プロイセン王\) "wikilink")[ブランデンブルクの王笏座](https://ja.wikipedia.org/wiki/ブランデンブルクのおうしゃく座 "wikilink") (*Sceptrum Brandenburgicum*) や[神聖ローマ皇帝](../Page/神聖ローマ皇帝.md "wikilink")[レオポルト1世を称えた](../Page/レオポルト1世_\(神聖ローマ皇帝\).md "wikilink")[帝国宝珠座](https://ja.wikipedia.org/wiki/帝国宝珠座 "wikilink") (*Pōmum Imperiāle*) などを考案しているが\[1\]、いずれも1922年に[国際天文学連合](../Page/国際天文学連合.md "wikilink")が現行の88星座を制定した際に除外された。{{-}}
+他にもキルヒは、[ブランデンブルク選帝侯](https://ja.wikipedia.org/wiki/ブランデンブルク選帝侯 "wikilink")[フリードリヒ3世を称えた](https://ja.wikipedia.org/wiki/フリードリヒ1世_\(プロイセン王\) "wikilink")[ブランデンブルクの王笏座](../Page/ブランデンブルクのおうしゃく座.md "wikilink") (*Sceptrum Brandenburgicum*) や[神聖ローマ皇帝](../Page/神聖ローマ皇帝.md "wikilink")[レオポルト1世を称えた](../Page/レオポルト1世_\(神聖ローマ皇帝\).md "wikilink")[帝国宝珠座](../Page/帝国宝珠座.md "wikilink") (*Pōmum Imperiāle*) などを考案しているが\[1\]、いずれも1922年に[国際天文学連合](../Page/国際天文学連合.md "wikilink")が現行の88星座を制定した際に除外された。{{-}}
 
 ## 出典
 

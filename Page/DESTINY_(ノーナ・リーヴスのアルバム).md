@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2000年](../Page/2000年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[WEA Japanより発売された](../Page/ワーナーミュージック・ジャパン.md "wikilink")。また、[2013年](../Page/2013年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")には、『20世紀のノーナ・リーヴス』と題したリイシュー企画の第1弾として、最新リマスタリングを施され、ボーナストラックを追加した[SHM-CD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")＆紙ジャケット仕様で再リリースされている。
+[2000年](../Page/2000年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[WEA Japanより発売された](../Page/ワーナーミュージック・ジャパン.md "wikilink")。また、[2013年](../Page/2013年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")には、『20世紀のノーナ・リーヴス』と題したリイシュー企画の第1弾として、最新リマスタリングを施され、ボーナストラックを追加した[SHM-CD](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")＆紙ジャケット仕様で再リリースされている。
 
 ## 収録曲
 

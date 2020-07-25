@@ -100,7 +100,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><small><a href="https://ja.wikipedia.org/wiki/チャーリー・ウィルソンズ・ウォー" title="wikilink">チャーリー・ウィルソンズ・ウォー</a><br />
+<td><p><small><a href="../Page/チャーリー・ウィルソンズ・ウォー.md" title="wikilink">チャーリー・ウィルソンズ・ウォー</a><br />
 <em>Charlie Wilson's War</em></small></p></td>
 <td><p><small>ヘリパイロット</small></p></td>
 <td></td>

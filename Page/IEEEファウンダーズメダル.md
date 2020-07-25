@@ -44,7 +44,7 @@
   - 1996: [ノーマン・R・オーガスティン](../Page/ノーマン・R・オーガスティン.md "wikilink")
   - 1995: Malcolm R. Currie
   - 1994: [盛田昭夫](../Page/盛田昭夫.md "wikilink")
-  - 1993: [ケン・オルセン](https://ja.wikipedia.org/wiki/ケン・オルセン "wikilink")
+  - 1993: [ケン・オルセン](../Page/ケン・オルセン.md "wikilink")
   - 1992: Roland W. Schmitt
   - 1991: Irwin Dorros
   - 1990: [エーリヒ・ブロッホ](https://ja.wikipedia.org/wiki/エーリヒ・ブロッホ "wikilink")

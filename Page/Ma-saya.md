@@ -85,7 +85,7 @@ ASH
 
   - 「咲いて生きよ」
 
-[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
+[KAT-TUN](../Page/KAT-TUN.md "wikilink")
 
   - 「New Genesis」（共作詞）
   - 「RUSH OF LIGHT」

@@ -1,7 +1,7 @@
 > この記事は[TDK AE](https://ja.wikipedia.org/wiki/TDK_AE)から翻訳されています。
 
 
-**AE**（エーイー、*Acoustic Excellence*）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）2月から[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）6月まで[TDK](../Page/TDK.md "wikilink")が日本市場向けに製造・発売、および、2007年7月から[2011年](../Page/2011年.md "wikilink")（平成23年）12月まで[イメーション](https://ja.wikipedia.org/wiki/イメーション "wikilink")（TDK <small>Life on Record</small>ブランド）が日本市場向けに製造・発売していた音楽録音・一般録音用途兼用の[コンパクトカセット](../Page/コンパクトカセット.md "wikilink")[テープの](../Page/磁気テープ.md "wikilink")[商品名である](../Page/ブランド.md "wikilink")。 [TYPEⅠ_Normal_Position_Audio_tape_LN.JPG](https://ja.wikipedia.org/wiki/File:TYPEⅠ_Normal_Position_Audio_tape_LN.JPG "fig:TYPEⅠ_Normal_Position_Audio_tape_LN.JPG")
+**AE**（エーイー、*Acoustic Excellence*）は、[1986年](../Page/1986年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）2月から[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）6月まで[TDK](../Page/TDK.md "wikilink")が日本市場向けに製造・発売、および、2007年7月から[2011年](../Page/2011年.md "wikilink")（平成23年）12月まで[イメーション](https://ja.wikipedia.org/wiki/イメーション "wikilink")（TDK <small>Life on Record</small>ブランド）が日本市場向けに製造・発売していた音楽録音・一般録音用途兼用の[コンパクトカセット](../Page/コンパクトカセット.md "wikilink")[テープの](../Page/磁気テープ.md "wikilink")[商品名である](../Page/ブランド.md "wikilink")。 [TYPEⅠ_Normal_Position_Audio_tape_LN.JPG](https://ja.wikipedia.org/wiki/File:TYPEⅠ_Normal_Position_Audio_tape_LN.JPG "fig:TYPEⅠ_Normal_Position_Audio_tape_LN.JPG")
 
 ## 概要
 

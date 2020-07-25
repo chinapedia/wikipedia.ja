@@ -380,7 +380,7 @@ Lyrical Lily</p></td>
   - [アゲハ蝶](../Page/アゲハ蝶.md "wikilink")（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
   - [夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")（[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")）
   - CYBER CYBER（[ALTIMA](https://ja.wikipedia.org/wiki/ALTIMA "wikilink")）
-  - [少年ハート](../Page/少年ハート.md "wikilink")（[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")）
+  - [少年ハート](../Page/少年ハート.md "wikilink")（[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")）
 
 #### Photon Maiden
 

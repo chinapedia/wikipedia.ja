@@ -5,9 +5,9 @@
 
 ## 解説
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』が発売され、[9月16日](../Page/9月16日.md "wikilink")から[17日にアルバム](../Page/9月17日.md "wikilink")『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』を引っさげて行われたライブツアー『「JUNGLE JANE」 TOUR LIVE』の[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")公演の模様を収録したアルバムである\[1\]。
+[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』が発売され、[9月16日](../Page/9月16日.md "wikilink")から[17日にアルバム](../Page/9月17日.md "wikilink")『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』を引っさげて行われたライブツアー『「JUNGLE JANE」 TOUR LIVE』の[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")公演の模様を収録したアルバムである\[1\]。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")\[2\]と[LDが発売され](../Page/レーザーディスク.md "wikilink")、[1988年](../Page/1988年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[VHS](../Page/VHS.md "wikilink")\[3\]、[2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")\[4\]がそれぞれ発売された。
+[1986年](../Page/1986年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[CD](../Page/コンパクトディスク.md "wikilink")\[2\]と[LDが発売され](../Page/レーザーディスク.md "wikilink")、[1988年](../Page/1988年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[VHS](../Page/VHS.md "wikilink")\[3\]、[2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")\[4\]がそれぞれ発売された。
 
 ## 収録曲
 
@@ -16,7 +16,7 @@
 ### CD
 
 1.  **[JUNGLE JANE](https://ja.wikipedia.org/wiki/SHAKE_IT_\(高中正義の曲\)#7インチシングル "wikilink")**
-      - オリジナルは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売されたアルバム『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』に収録されている。
+      - オリジナルは[1986年](../Page/1986年.md "wikilink")に発売されたアルバム『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』に収録されている。
 2.  **BAY STREET FIX**
       - オリジナルは1986年に発売されたアルバム『JUNGLE JANE』に収録されている。
 3.  **[WARM SUMMER WOMAN](https://ja.wikipedia.org/wiki/WARM_SUMMER_WOMAN "wikilink")**

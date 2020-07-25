@@ -5,7 +5,7 @@
 
 Citra は古い PC では上手く動作せず、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink") [CPU](../Page/CPU.md "wikilink") で実行する必要がある\[2\]。Citra の実行には [OpenGL](../Page/OpenGL.md "wikilink") 3.3 以降が必要である\[3\]。
 
-\[4\]Citra は[フリーかつオープンソースであり](https://ja.wikipedia.org/wiki/FLOSS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink") 及び [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") で利用することができる\[5\]。開発の殆どは [GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink") にて行われており、170人以上の開発者が Citra のプロジェクトに貢献している\[6\]。
+\[4\]Citra は[フリーかつオープンソースであり](../Page/FLOSS.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink") 及び [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") で利用することができる\[5\]。開発の殆どは [GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink") にて行われており、170人以上の開発者が Citra のプロジェクトに貢献している\[6\]。
 
 Citra は2014年4月に開発が開始された\[7\]。Citra で実行された最初のニンテンドー3DSの商用ゲームは、[ゼルダの伝説 時のオカリナ 3Dであり](https://ja.wikipedia.org/wiki/ゼルダの伝説_時のオカリナ_3D "wikilink")\[8\]\[9\]、[とびだせ どうぶつの森や](https://ja.wikipedia.org/wiki/とびだせ_どうぶつの森 "wikilink")[ソニック ジェネレーションズなどの他のゲームも実行することができる](https://ja.wikipedia.org/wiki/ソニック_ジェネレーションズ "wikilink")。
 

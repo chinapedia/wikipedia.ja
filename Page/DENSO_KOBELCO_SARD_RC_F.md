@@ -7,7 +7,7 @@
 
 | 年度                                                               | マシン                     | ドライバー                                                                                                                              | タイヤ | ランキング | ポイント              |
 | ---------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --- | ----- | ----------------- |
-| [2014年](https://ja.wikipedia.org/wiki/2014年のSUPER_GT "wikilink") | DENSO KOBELCO SARD RC F | [石浦宏明](../Page/石浦宏明.md "wikilink")　[オリバー・ジャービス](https://ja.wikipedia.org/wiki/オリバー・ジャービス "wikilink")                               | BS  | 13位   | 24pt              |
+| [2014年](https://ja.wikipedia.org/wiki/2014年のSUPER_GT "wikilink") | DENSO KOBELCO SARD RC F | [石浦宏明](../Page/石浦宏明.md "wikilink")　[オリバー・ジャービス](../Page/オリバー・ジャービス.md "wikilink")                                                  | BS  | 13位   | 24pt              |
 | [2015年](https://ja.wikipedia.org/wiki/2015年のSUPER_GT "wikilink") | DENSO KOBELCO SARD RC F | [平手晃平](../Page/平手晃平.md "wikilink")　[ヘイキ・コバライネン](../Page/ヘイキ・コバライネン.md "wikilink")　[クリスチャン・クリエン](../Page/クリスチャン・クリエン.md "wikilink") | BS  | 13位   | 23pt              |
 | [2016年](https://ja.wikipedia.org/wiki/2016年のSUPER_GT "wikilink") | DENSO KOBELCO SARD RC F | ヘイキ・コバライネン　平手晃平                                                                                                                    | BS  | 1位    | 82pt ドライバーズチャンピオン |
 

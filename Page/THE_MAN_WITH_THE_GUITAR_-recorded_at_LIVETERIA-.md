@@ -14,7 +14,7 @@
 ## 楽曲解説
 
 1.  **[SHAKE IT](https://ja.wikipedia.org/wiki/SHAKE_IT_\(高中正義の曲\) "wikilink")**
-      - オリジナルは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売されたアルバム『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』に収録されている。
+      - オリジナルは[1986年](../Page/1986年.md "wikilink")に発売されたアルバム『[JUNGLE JANE](https://ja.wikipedia.org/wiki/JUNGLE_JANE "wikilink")』に収録されている。
 2.  **[NAGISA MODERATO](https://ja.wikipedia.org/wiki/渚・モデラート "wikilink")**
       - オリジナルは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発売されたアルバム『[TRAUMATIC 極東探偵団](https://ja.wikipedia.org/wiki/TRAUMATIC_極東探偵団 "wikilink")』に収録されている。
 3.  **[SAUDADE](../Page/Saudade_\(高中正義の曲\).md "wikilink")**
@@ -38,7 +38,7 @@
   - Bass：[後藤次利](../Page/後藤次利.md "wikilink")
   - Percussion：[斎藤ノブ](../Page/斎藤ノヴ.md "wikilink")
   - Drums：[山木秀夫](../Page/山木秀夫.md "wikilink")
-  - Keyboard：[南部昌江](https://ja.wikipedia.org/wiki/南部昌江 "wikilink"), 松本圭司
+  - Keyboard：[南部昌江](../Page/南部昌江.md "wikilink"), 松本圭司
   - Chorus：[EVE](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")
 
 **NAGISA MODERATO**

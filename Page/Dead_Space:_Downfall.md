@@ -1,7 +1,7 @@
 > この記事は[Dead Space: Downfall](https://ja.wikipedia.org/wiki/Dead_Space:_Downfall)から翻訳されています。
 
 
-『**Dead Space：Downfall**』（デッドスペース：ダウンフォール）は、Film Romanと[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")が制作したアメリカの[SF](../Page/SF映画.md "wikilink")[ホラー](../Page/ホラー映画.md "wikilink")[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。本作はコンピュータゲーム『[Dead Space](https://ja.wikipedia.org/wiki/DEAD_SPACE "wikilink")』の[前日譚](https://ja.wikipedia.org/wiki/前日譚 "wikilink")であり、USG石村（USG Ishimura）がマーカー（Marker）を回収後に起きたネクロモーフ侵攻の真っ只中の『[Dead Space：Extraction](https://ja.wikipedia.org/wiki/デッドスペース_エクストラクション "wikilink")』の出来事の最中が舞台である。2008年10月28日に本作のDVDとブルーレイが発売（日本未発売）され、2008年12月2日に[Syfy](https://ja.wikipedia.org/wiki/Syfy "wikilink")チャンネルで放送された。
+『**Dead Space：Downfall**』（デッドスペース：ダウンフォール）は、Film Romanと[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")が制作したアメリカの[SF](../Page/SF映画.md "wikilink")[ホラー](../Page/ホラー映画.md "wikilink")[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。本作はコンピュータゲーム『[Dead Space](https://ja.wikipedia.org/wiki/DEAD_SPACE "wikilink")』の[前日譚](https://ja.wikipedia.org/wiki/前日譚 "wikilink")であり、USG石村（USG Ishimura）がマーカー（Marker）を回収後に起きたネクロモーフ侵攻の真っ只中の『[Dead Space：Extraction](https://ja.wikipedia.org/wiki/デッドスペース_エクストラクション "wikilink")』の出来事の最中が舞台である。2008年10月28日に本作のDVDとブルーレイが発売（日本未発売）され、2008年12月2日に[Syfy](../Page/Syfy.md "wikilink")チャンネルで放送された。
 
 ## プロット
 

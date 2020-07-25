@@ -15,7 +15,7 @@
 
 ### DISC 1：VISION FESTIVAL (journey to saga)
 
-1985年8月25日発売。詳細は[VISION FESTIVAL (journey to saga)の頃を参照](https://ja.wikipedia.org/wiki/VISION_FESTIVAL "wikilink")。
+1985年8月25日発売。詳細は[VISION FESTIVAL (journey to saga)の頃を参照](../Page/VISION_FESTIVAL.md "wikilink")。
 
 ### DISC 2：FANKS "FANTASY" DYNA-MIX
 
@@ -39,11 +39,11 @@
 
 ### DISC 7：TMN final live LAST GROOVE 5.18
 
-1994年8月1日発売。詳細は[TMN final live LAST GROOVE 5.18の頃を参照](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")。
+1994年8月1日発売。詳細は[TMN final live LAST GROOVE 5.18の頃を参照](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink")。
 
 ### DISC 8：TMN final live LAST GROOVE 5.19
 
-1994年8月1日発売。詳細は[TMN final live LAST GROOVE 5.19の頃を参照](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")。
+1994年8月1日発売。詳細は[TMN final live LAST GROOVE 5.19の頃を参照](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink")。
 
 なお既発版では未収録であった「GET WILD '89」や松本孝弘の姿が映された映像アングルに仕様変更がなされている。
 

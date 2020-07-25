@@ -54,7 +54,7 @@
 
 ## カバー
 
-  - "Winter Is Blue" は、2005年7月発売のシングル "El Capitan" のB面として[アイドルワイルド](https://ja.wikipedia.org/wiki/アイドルワイルド "wikilink")によってカバーされた。
+  - "Winter Is Blue" は、2005年7月発売のシングル "El Capitan" のB面として[アイドルワイルド](../Page/アイドルワイルド.md "wikilink")によってカバーされた。
 
 <!-- end list -->
 

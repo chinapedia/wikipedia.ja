@@ -17,7 +17,7 @@
 
 1両編成から最大4両編成まで各都市の需要に応じた編成で使用されていたが、先頭車両から編成内の車両の[制動装置](https://ja.wikipedia.org/wiki/制動装置 "wikilink")を一括で操作可能な[総括制御](../Page/総括制御.md "wikilink")には対応しておらず、後方に連結された車両は連結器で繋がっているだけであった。そのため、現：[ウクライナ](../Page/ウクライナ.md "wikilink")の[オデッサ市電](../Page/オデッサ市電.md "wikilink")では利用客の増加への対応から車両間の制御回路や空気ブレーキ用ホースを繋いだ3両固定編成（KTM-1 + KTM-1 + KTP-1）が組まれ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")から[1975年](../Page/1975年.md "wikilink")まで使用された。また、[ロストフ・ナ・ドヌ市電](../Page/ロストフ・ナ・ドヌ市電.md "wikilink")に導入された車両は同市電の[軌間1,435 mm（標準軌）に対応した台車が用いられた](../Page/標準軌.md "wikilink")。
 
-1970年代以降はより大型かつ大容量の[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")への置き換えが進んだが、後継車のKTM-2・KTP-2よりも長期に渡って使用され、最後まで営業運転に使用されていたからは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")をもって引退した。ただしそれ以降も一部の都市ではKTM-1・KTP-1を改造した[事業用車両](https://ja.wikipedia.org/wiki/事業用車両 "wikilink")が残存した。
+1970年代以降はより大型かつ大容量の[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")への置き換えが進んだが、後継車のKTM-2・KTP-2よりも長期に渡って使用され、最後まで営業運転に使用されていたからは[1986年](../Page/1986年.md "wikilink")をもって引退した。ただしそれ以降も一部の都市ではKTM-1・KTP-1を改造した[事業用車両](https://ja.wikipedia.org/wiki/事業用車両 "wikilink")が残存した。
 
 ## 保存
 

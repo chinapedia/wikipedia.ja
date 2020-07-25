@@ -7,7 +7,7 @@
 
 Xマル・ドイッチラントは1980年にドイツのハンブルクでAnja Huwe（ボーカル）、Manuela Rickers（ギター）、Fiona Sangster（キーボード）、Rita Simonsen（ベース）、Caro May（ドラム）によって結成された。最初のシングル「Schwarze Welt」は、1年後にAlfred HilsbergのZickZackレーベルからリリースされた\[4\]。バンドはまた、レーベルのオムニバス・アルバム『Lieber Zuviel Als Zuwenig』（ZZ 45）にも収録された。この頃、Rita Simonsenが、Wolfgang Ellerbrockに交代した\[5\]。
 
-1982年に、バンドは[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")のクラシックである「深淵 (Incubus Succubus)」をリリースした。ドラマーのCaro Mayがバンドを脱退し、新しいバンドを結成することになった。同年、空いたドラマーのポジションは、Manuela Zwingmannによって埋められた。ドイツのリスナーは初めの頃は受容的ではなかったが、[コクトー・ツインズ](../Page/コクトー・ツインズ.md "wikilink")のためのイギリス・ツアーのオープニング・アクトが独立レーベルの[4AD](../Page/4AD.md "wikilink")との契約をもたらした\[6\]。彼らのデビュー・アルバムである『フェティシュ』と、シングル「Qual」と「Incubus Succubus II」が1983年にリリースされ、ドイツ語で書かれた楽曲を演奏したにもかかわらず、3作品すべてが全英インディーチャートに載ることとなった\[7\]。
+1982年に、バンドは[ゴシック・ロック](../Page/ゴシック・ロック.md "wikilink")のクラシックである「深淵 (Incubus Succubus)」をリリースした。ドラマーのCaro Mayがバンドを脱退し、新しいバンドを結成することになった。同年、空いたドラマーのポジションは、Manuela Zwingmannによって埋められた。ドイツのリスナーは初めの頃は受容的ではなかったが、[コクトー・ツインズ](../Page/コクトー・ツインズ.md "wikilink")のためのイギリス・ツアーのオープニング・アクトが独立レーベルの[4AD](../Page/4AD.md "wikilink")との契約をもたらした\[6\]。彼らのデビュー・アルバムである『フェティシュ』と、シングル「Qual」と「Incubus Succubus II」が1983年にリリースされ、ドイツ語で書かれた楽曲を演奏したにもかかわらず、3作品すべてが全英インディーチャートに載ることとなった\[7\]。
 
 Manuela Zwingmannが1年後にバンドを脱退し、Peter Bellendirが交代した\[8\]。この時の、Huwe / Rickers / Sangster / Ellerbrock / Bellendirというラインナップが最も長く続いた。シングル「Reigen」とアルバム『突進』が1984年にリリースされ、続く1985年にワールド・ツアーが行われた。『突進』は[全英アルバムチャート](https://ja.wikipedia.org/wiki/全英アルバムチャート "wikilink")で86位に達した\[9\]。
 

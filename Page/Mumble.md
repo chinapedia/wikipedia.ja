@@ -9,7 +9,7 @@
 
 [クライアント・サーバー型](../Page/クライアントサーバモデル.md "wikilink")[アーキテクチャーを採用していて](../Page/コンピュータ・アーキテクチャ.md "wikilink")、ユーザーが同じサーバーを介して互いに会話できる\[2\]。 非常にシンプルな[ユーザーインターフェース](https://ja.wikipedia.org/wiki/ユーザーインターフェース "wikilink")を備えており、高音質と低遅延を特長としている。 すべての通信は[暗号](../Page/暗号.md "wikilink")化され、ユーザーの[プライバシー](../Page/プライバシー.md "wikilink")が確保される\[3\]。
 
-Mumbleは[無料のオープンソースソフトウェアで](https://ja.wikipedia.org/wiki/FLOSS "wikilink")、異なる[OSでも使用可能な](../Page/オペレーティングシステム.md "wikilink")[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")となっており、[修正BSDライセンス](https://ja.wikipedia.org/wiki/修正BSDライセンス "wikilink")の条件の下、公開されている。
+Mumbleは[無料のオープンソースソフトウェアで](../Page/FLOSS.md "wikilink")、異なる[OSでも使用可能な](../Page/オペレーティングシステム.md "wikilink")[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")となっており、[修正BSDライセンス](https://ja.wikipedia.org/wiki/修正BSDライセンス "wikilink")の条件の下、公開されている。
 
 ## チャンネル階層
 

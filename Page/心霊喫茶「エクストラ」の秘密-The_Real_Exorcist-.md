@@ -146,7 +146,7 @@
       - 糸子の自転車での走行シーンは、港区[白金台](../Page/白金台.md "wikilink")4丁目である。
       - イサムが売上金を奪われるシーンは、品川区[東五反田](../Page/東五反田.md "wikilink")1丁目の[桜田通り](../Page/桜田通り.md "wikilink")（[国道1号](../Page/国道1号.md "wikilink")）の脇階段下の地下道である。
       - テレビドラマのオーディションの後に杏花と黒髪の女性（メレフィス）が対話する喫茶店は、中央区[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")2丁目の「BOOK CAFE GINZA」である\[23\]。
-      - 杏花が母親と住むマンションは、品川区[戸越](https://ja.wikipedia.org/wiki/戸越 "wikilink")5丁目周辺で、[東急大井町線](https://ja.wikipedia.org/wiki/東急大井町線 "wikilink")[戸越公園駅](https://ja.wikipedia.org/wiki/戸越公園駅 "wikilink")などが見下ろせる位置にある。
+      - 杏花が母親と住むマンションは、品川区[戸越](../Page/戸越.md "wikilink")5丁目周辺で、[東急大井町線](https://ja.wikipedia.org/wiki/東急大井町線 "wikilink")[戸越公園駅](https://ja.wikipedia.org/wiki/戸越公園駅 "wikilink")などが見下ろせる位置にある。
 
 \[24\]
 
@@ -196,7 +196,7 @@
 
 :\*「最優秀オリジナルソング賞(対象：主題歌）」
 
-  - 第53回[ヒューストン国際映画祭](https://ja.wikipedia.org/wiki/ヒューストン国際映画祭 "wikilink") - 2020年4月27日\[30\]
+  - 第53回[ヒューストン国際映画祭](../Page/ヒューストン国際映画祭.md "wikilink") - 2020年4月27日\[30\]
 
 :\*「長編ファンタジー・ホラー部門Gold賞」
 

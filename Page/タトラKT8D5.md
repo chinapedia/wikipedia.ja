@@ -17,7 +17,7 @@
 
 ## 運用
 
-[1984年](../Page/1984年.md "wikilink")に2両の試作車が完成し、[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")で試運転が実施された後、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から量産が開始された。導入地域や製造年代によって以下の形式が製造されたが、車体幅が2,480 mmと広く取られた事からプラハ市電など導入にあたって電停や線形の改良が必要となった地域も存在した。
+[1984年](../Page/1984年.md "wikilink")に2両の試作車が完成し、[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")で試運転が実施された後、[1986年](../Page/1986年.md "wikilink")から量産が開始された。導入地域や製造年代によって以下の形式が製造されたが、車体幅が2,480 mmと広く取られた事からプラハ市電など導入にあたって電停や線形の改良が必要となった地域も存在した。
 
   - **KT8D5** - 主に[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")向けに製造された形式。現在の[スロバキア](../Page/スロバキア.md "wikilink")にあたる1都市、[チェコ](../Page/チェコ.md "wikilink")に含まれる5都市に加え、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")）にも1両だけ導入された。依頼元である[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")には290両もの大量導入が実施される予定であったが、切り離す事が不可能な大型連接車体を有するKT8D5が走行可能な系統が限られていた事に加えて車両の品質の悪さが要因となり、最終的な両数は48両に留まった。
   - **KT8D5SU** - 元は[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")向けに製造された形式だったが、[ヴォルゴグラード](../Page/ヴォルゴグラード.md "wikilink")（[ヴォルゴグラード・メトロトラム](https://ja.wikipedia.org/wiki/ヴォルゴグラード・メトロトラム "wikilink")）への発注がキャンセルされたため**[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")**（現：[チェコ](../Page/チェコ.md "wikilink")）ので使用される事となった。

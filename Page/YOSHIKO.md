@@ -19,10 +19,10 @@
 
 ### PV
 
-  - HIM『[AQUARIUS](https://ja.wikipedia.org/wiki/AQUARIUS_\(HIMの曲\) "wikilink")』
-  - HIM『[SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")』
-  - HIM『[ETERNAL](https://ja.wikipedia.org/wiki/ETERNAL_\(HIMの曲\) "wikilink")』
-  - HIM『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink")』
+  - HIM『[AQUARIUS](../Page/AQUARIUS_\(HIMの曲\).md "wikilink")』
+  - HIM『[SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")』
+  - HIM『[ETERNAL](../Page/ETERNAL_\(HIMの曲\).md "wikilink")』
+  - HIM『[HEAVEN](../Page/HEAVEN_\(HIMの曲\).md "wikilink")』
   - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")『[溢れちゃう...BE IN LOVE](https://ja.wikipedia.org/wiki/溢れちゃう...BE_IN_LOVE\(後藤真希の曲\) "wikilink")』
 
 ### 舞台
@@ -842,7 +842,7 @@ GAM
 
 以上1曲
 
-[MilkyWay](https://ja.wikipedia.org/wiki/MilkyWay_\(ハロー!プロジェクト\) "wikilink")
+[MilkyWay](../Page/MilkyWay_\(ハロー!プロジェクト\).md "wikilink")
 
   - アナタボシ
   - サンサンGOGO

@@ -15,7 +15,7 @@
   - 特技は[ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")、[ボイスパーカッション](../Page/ボイスパーカッション.md "wikilink")、[バク転](https://ja.wikipedia.org/wiki/バク転 "wikilink")、[倒立](https://ja.wikipedia.org/wiki/倒立 "wikilink")、[ヌンチャク](../Page/ヌンチャク.md "wikilink")、[棒術](../Page/棒術.md "wikilink")、[ものまね](https://ja.wikipedia.org/wiki/ものまね "wikilink")。
   - 初期の[ポケモン](https://ja.wikipedia.org/wiki/ポケモン "wikilink")などのゲームや昔のアニメといった、今まで誰もやったことがないような「そこやる？」ものまねを得意とする\[1\]\[2\]。代表ネタは「『[アメトーーク\!](https://ja.wikipedia.org/wiki/アメトーーク! "wikilink")』のエピソード終わりに出てくる挿絵の雰囲気」等。有名人のレパートリーには[DaiGo](https://ja.wikipedia.org/wiki/DaiGo "wikilink")等がある\[3\]\[4\]。
   - [電撃ネットワーク](../Page/電撃ネットワーク.md "wikilink")を意識した宴会芸パフォーマンスユニット『**BAD×TEN**』に属している。他メンバーにはツネ（[2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")）、[ウエスP](https://ja.wikipedia.org/wiki/ウエスP "wikilink")、[デッカチャン](../Page/デッカチャン.md "wikilink")、三須友博（元・[ガリバートンネル](https://ja.wikipedia.org/wiki/ガリバートンネル_\(お笑いコンビ\) "wikilink")）、赤枝卓（元・[オバアチャン](../Page/オバアチャン_\(お笑いトリオ\).md "wikilink")）がいる\[5\]。
-  - かつて[円形脱毛症](../Page/円形脱毛症.md "wikilink")に悩まされており、[かつらを着用していた時期がある](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。
+  - かつて[円形脱毛症](../Page/円形脱毛症.md "wikilink")に悩まされており、[かつらを着用していた時期がある](../Page/かつら_\(装身具\).md "wikilink")。
 
 **フレンドリー田崎**（フレンドリーたざき、本名:**田崎 宏助**（たざき ひろすけ）、- ）立ち位置は向かって左。
 

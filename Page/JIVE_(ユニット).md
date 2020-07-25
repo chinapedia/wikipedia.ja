@@ -8,7 +8,7 @@
 高橋誠をリーダーに宮下一文、前田克美、内海秀和で構成された[駒澤大学](../Page/駒澤大学.md "wikilink")軽音楽部[フォーク・ソング](https://ja.wikipedia.org/wiki/フォーク・ソング "wikilink")研究会出身の[コーラス・グループ](../Page/コーラス・グループ.md "wikilink") [1984年](../Page/1984年.md "wikilink")、 [ビクターインビテーションよりデビュー後](../Page/Invitation_\(レーベル\).md "wikilink")、７枚のオリジナル・アルバムをリリース。
 [1993年](../Page/1993年.md "wikilink")に高橋誠が脱退、[2000年](../Page/2000年.md "wikilink")に[鮎川麻弥](../Page/鮎川麻弥.md "wikilink")が加入する。
 [CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")での歌唱も多く、関わった作品は400作以上。
-[谷村新司](../Page/谷村新司.md "wikilink")、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、[吉田拓郎](../Page/吉田拓郎.md "wikilink")などのバックコーラスにも参加。
+[谷村新司](../Page/谷村新司.md "wikilink")、[中島みゆき](../Page/中島みゆき.md "wikilink")、[吉田拓郎](../Page/吉田拓郎.md "wikilink")などのバックコーラスにも参加。
 [2013年](../Page/2013年.md "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")がカバーアルバム『[ハモ騒動〜The Gospellers Covers〜](https://ja.wikipedia.org/wiki/ハモ騒動〜The_Gospellers_Covers〜 "wikilink")』にてJIVEの楽曲「Heartbeats」をカバーしている。
 
 ## テレビ

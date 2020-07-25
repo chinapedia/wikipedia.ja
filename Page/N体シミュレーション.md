@@ -151,7 +151,7 @@ Burdet-Heggie正則化\[40\]\[41\]\[42\]は、時間座標 \(t\) を近接粒子
 
 重力多体系の[計算機](../Page/計算機.md "wikilink")を用いた研究すなわち\(N\)体シミュレーションは1960年代から実際的な研究で採用されるようになった\[70\]。例えば[1963年](../Page/1963年.md "wikilink")の[:en:Sverre Aarsethによる](https://ja.wikipedia.org/wiki/:en:Sverre_Aarseth "wikilink") \(N = 100\) 体のシミュレーション\[71\]、[1964年](../Page/1964年.md "wikilink")の Hénon & Heiles による[第三積分](https://ja.wikipedia.org/wiki/第三積分 "wikilink")に関する数値的研究\[72\]（これは \(N = 1\) であるが）、[1973年](../Page/1973年.md "wikilink")の Hénon による多体系の安定性の研究\[73\]など。[ジェームズ・ピーブルス](https://ja.wikipedia.org/wiki/ジェームズ・ピーブルス "wikilink")は[1970年](../Page/1970年.md "wikilink")に \(N = 300\) 体を用いて銀河団形成過程のシミュレーションを行った\[74\]。その後も[1979年](../Page/1979年.md "wikilink")には Efstathiou & Jones が \(N = 500\) 体による[銀河回転](https://ja.wikipedia.org/wiki/銀河回転 "wikilink")の研究\[75\]など、計算機の発達に伴ってより大規模なシミュレーションがなされるようになっていった。
 
-より大規模なシミュレーションの要求は強く、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に Barnes & Hut\[76\] はツリー法を導入し、同時期に PM 法も確立した\[77\]。[1989年](../Page/1989年.md "wikilink")には[GRAPE](../Page/GRAPE.md "wikilink")プロジェクトがスタートしている。
+より大規模なシミュレーションの要求は強く、[1986年](../Page/1986年.md "wikilink")に Barnes & Hut\[76\] はツリー法を導入し、同時期に PM 法も確立した\[77\]。[1989年](../Page/1989年.md "wikilink")には[GRAPE](../Page/GRAPE.md "wikilink")プロジェクトがスタートしている。
 
 一方で積分スキームに関する研究も進められた。[天体力学](../Page/天体力学.md "wikilink")の分野からは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[吉田春夫](https://ja.wikipedia.org/wiki/吉田春夫 "wikilink")によりシンプレクティック積分子の一般的な構成方法が示された\[78\]。その翌年牧野はエルミート積分子を導入した\[79\]。やがて[対称型公式](https://ja.wikipedia.org/wiki/対称型公式 "wikilink")の有用性が認められるようになった\[80\]。
 

@@ -45,7 +45,7 @@
 
 ## CM
 
-谷口蘭、[伽奈](https://ja.wikipedia.org/wiki/伽奈 "wikilink")、[Merii](https://ja.wikipedia.org/wiki/Merii "wikilink")などを起用したCM、歩いて帰ろう「海辺の街」篇、「見上げる空」篇、「街の灯り」篇などが知られる\[41\]。
+谷口蘭、[伽奈](../Page/伽奈.md "wikilink")、[Merii](https://ja.wikipedia.org/wiki/Merii "wikilink")などを起用したCM、歩いて帰ろう「海辺の街」篇、「見上げる空」篇、「街の灯り」篇などが知られる\[41\]。
 
 ## 脚注
 

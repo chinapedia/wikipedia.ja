@@ -3,7 +3,7 @@
 
 『**タイガース全力応援宣言 MBSマンデーベースボールパーク**』（タイガースぜんりょくおうえんせんげんエムビーエスマンデーベースボールパーク）は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）で[2020年](../Page/2020年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")から放送中のスポーツ情報番組。1行分の文字数が最大で9字に限られているラジオ番組表では、このタイトルを「**タイガースマンデー**」と略記している。
 
-『[MBSベースボールパーク](../Page/MBSベースボールパーク.md "wikilink")』（MBSラジオのプロ野球中継）の関連番組の1つで、[NPB](https://ja.wikipedia.org/wiki/NPB "wikilink")（日本プロ野球）で毎日放送の放送対象地域内（[兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")の[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")）に[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")を置く[阪神タイガース](../Page/阪神タイガース.md "wikilink")を応援する姿勢を鮮明に打ち出しながら、阪神に関する情報・話題・企画を放送する\[1\]。
+『[MBSベースボールパーク](../Page/MBSベースボールパーク.md "wikilink")』（MBSラジオのプロ野球中継）の関連番組の1つで、[NPB](https://ja.wikipedia.org/wiki/NPB "wikilink")（日本プロ野球）で毎日放送の放送対象地域内（[兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")の[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")）に[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")を置く[阪神タイガース](../Page/阪神タイガース.md "wikilink")を応援する姿勢を鮮明に打ち出しながら、阪神に関する情報・話題・企画を放送する\[1\]。
 
 ## 概要
 

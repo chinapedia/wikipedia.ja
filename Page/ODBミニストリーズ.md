@@ -18,7 +18,7 @@
   - [1956年](../Page/1956年.md "wikilink") デボーションガイド「Our Daily Bread」出版開始。
   - [1959年](../Page/1959年.md "wikilink") 最初の国外事業所が[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[オンタリオ州](../Page/オンタリオ州.md "wikilink")[ウィンザーに開設](../Page/ウィンザー_\(オンタリオ州\).md "wikilink")。
   - [1965年](../Page/1965年.md "wikilink") ラジオ番組「ラジオ・バイブル・クラス」の放送局が600に到達。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") テレビ番組「デイ・オブ・ディスカバリー（Day of Discovery）」放送開始。
+  - [1968年](../Page/1968年.md "wikilink") テレビ番組「デイ・オブ・ディスカバリー（Day of Discovery）」放送開始。
   - [1994年](../Page/1994年.md "wikilink") 「RBCミニストリーズ（RBC Ministries）」に社名変更。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") RBCミニストリーズの公式サイトが公開。ウェブ配信開始。
   - [2011年](../Page/2011年.md "wikilink") 「デイリーブレッド」の[モバイルアプリが配信開始](https://ja.wikipedia.org/wiki/モバイルアプリケーション "wikilink")。

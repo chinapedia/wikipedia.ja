@@ -37,7 +37,7 @@
   - [JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
   - [筋肉少女帯](../Page/筋肉少女帯.md "wikilink")
   - [GLAY](../Page/GLAY.md "wikilink")
-  - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
+  - [ZIGGY](../Page/ZIGGY.md "wikilink")
   - [シャ乱Q](../Page/シャ乱Q.md "wikilink")
   - [BAKU](https://ja.wikipedia.org/wiki/BAKU "wikilink")
   - [黒夢](../Page/黒夢.md "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[ZESCOユナイテッドFC](https://ja.wikipedia.org/wiki/ZESCOユナイテッドFC)から翻訳されています。
 
 
-**Zesco United Football Club**は、 [ザンビアのプレミアリーグに所属する](https://ja.wikipedia.org/wiki/ザンビアン・プレミアリーグ "wikilink")[Ndolaに拠点を置く](https://ja.wikipedia.org/wiki/ンドラ "wikilink")[ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")のプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ 。
+**Zesco United Football Club**は、 [ザンビアのプレミアリーグに所属する](https://ja.wikipedia.org/wiki/ザンビアン・プレミアリーグ "wikilink")[Ndolaに拠点を置く](../Page/ンドラ.md "wikilink")[ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")のプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ 。
 
 1974年1月1日の設立以降、最上位リーグであるザンビア・プレミアリーグに所属し続けている。
 
-ホームグラウンドは、 [ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")北部の[ヌドラにある](https://ja.wikipedia.org/wiki/ンドラ "wikilink")49,800席の[レビームワナワサ](https://ja.wikipedia.org/wiki/ンドラ "wikilink") スタジアム (2012年開業)。
+ホームグラウンドは、 [ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")北部の[ヌドラにある](../Page/ンドラ.md "wikilink")49,800席の[レビームワナワサ](../Page/ンドラ.md "wikilink") スタジアム (2012年開業)。
 
 2018年まで横浜FMに在籍した日本人の中町公祐が在籍していることでも知られる。
 

@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    [クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")→TOKYO SPORTS GOODからの引継コーナー。スポーツ関係者とのインタビューの模様を放送。
+    [クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")→TOKYO SPORTS GOODからの引継コーナー。スポーツ関係者とのインタビューの模様を放送。
 
 <!-- end list -->
 

@@ -106,7 +106,7 @@
       - 作詞:[いしいめぐみ](https://ja.wikipedia.org/wiki/いしいめぐみ "wikilink")、作曲・編曲:[風戸慎介](../Page/川辺真.md "wikilink")、歌:[伊東恵里](../Page/伊東恵里.md "wikilink")
       - フジテレビ系「[トラップ一家物語](../Page/トラップ一家物語.md "wikilink")」エンディングテーマ
 10. ちいさなおばけたいそうのうた
-      - 作詞:[角野栄子](../Page/角野栄子.md "wikilink")、作曲:池毅、編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")、歌:[鉄炮塚葉子](../Page/鉄炮塚葉子.md "wikilink")、[矢島晶子](../Page/矢島晶子.md "wikilink")、[山田妙子](https://ja.wikipedia.org/wiki/山田妙子 "wikilink")
+      - 作詞:[角野栄子](../Page/角野栄子.md "wikilink")、作曲:池毅、編曲:[岩田雅之](../Page/岩田雅之.md "wikilink")、歌:[鉄炮塚葉子](../Page/鉄炮塚葉子.md "wikilink")、[矢島晶子](../Page/矢島晶子.md "wikilink")、[山田妙子](https://ja.wikipedia.org/wiki/山田妙子 "wikilink")
       - 日本テレビ系「[ちいさなおばけアッチコッチソッチ](https://ja.wikipedia.org/wiki/ちいさなおばけアッチコッチソッチ "wikilink")」イメージソング\[8\]
 11. ちっちゃな「おばけ」のうた
       - 作詞:角野栄子、作曲:池毅、編曲:岩田雅之、歌:[平野レミ](../Page/平野レミ.md "wikilink")
@@ -119,7 +119,7 @@
       - [テレビせとうち](../Page/テレビせとうち.md "wikilink")系「[ゲッターロボ號](https://ja.wikipedia.org/wiki/ゲッターロボ號 "wikilink")」2代目エンディングテーマ\[10\]
 14. 月火水木 キン肉マン
       - 作詞・作曲:つのごうじ、編曲:山本健司、歌:[ケント・デリカット](../Page/ケント・デリカット.md "wikilink")、松田多香子、コーラス:森の木児童合唱団
-      - 日本テレビ系「[キン肉マン～キン肉王位争奪戦](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")」エンディングテーマ
+      - 日本テレビ系「[キン肉マン～キン肉王位争奪戦](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")」エンディングテーマ
 15. この道わが旅
       - 作詞:藤公之介、作、編曲:[すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")、歌:[団時朗](../Page/団時朗.md "wikilink")
       - [TBS系](../Page/TBSテレビ.md "wikilink")「[DRAGON QUEST -ダイの大冒険-](../Page/DRAGON_QUEST_-ダイの大冒険-.md "wikilink")」エンディングテーマ

@@ -1,7 +1,7 @@
 > この記事は[ReFreedom Aichi](https://ja.wikipedia.org/wiki/ReFreedom_Aichi)から翻訳されています。
 
 
-**ReFreedom Aichi**（リフリーダム・あいち）は、日本最大規模の国際芸術祭・[あいちトリエンナーレ2019](https://ja.wikipedia.org/wiki/あいちトリエンナーレ2019 "wikilink")\[1\]に各国から参加したアーティストたちが、芸術祭における一つのセクション「[表現の不自由展](https://ja.wikipedia.org/wiki/表現の不自由展 "wikilink")・その後」を閉鎖に追い込んだ政治家の[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")的発言や数多くの[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")行為に抗議し、トリエンナーレの全面的な展示再開を目指して[表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")の回復を訴えかけたプロジェクト。
+**ReFreedom Aichi**（リフリーダム・あいち）は、日本最大規模の国際芸術祭・[あいちトリエンナーレ2019](https://ja.wikipedia.org/wiki/あいちトリエンナーレ2019 "wikilink")\[1\]に各国から参加したアーティストたちが、芸術祭における一つのセクション「[表現の不自由展](https://ja.wikipedia.org/wiki/表現の不自由展 "wikilink")・その後」を閉鎖に追い込んだ政治家の[検閲](../Page/検閲.md "wikilink")的発言や数多くの[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")行為に抗議し、トリエンナーレの全面的な展示再開を目指して[表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")の回復を訴えかけたプロジェクト。
 
 ## 背景
 
@@ -122,7 +122,7 @@ ReFreedom_Aichiのアーティストたちは、[アートプロジェクト](..
 
 10/7　
 
-  - [立憲民主党の](https://ja.wikipedia.org/wiki/立憲民主党_\(日本\) "wikilink")[枝野幸男](../Page/枝野幸男.md "wikilink")代表が衆議院本会議の[代表質問](../Page/代表質問.md "wikilink")で補助金不交付について「事実上の事前検閲」につながると指摘、[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相は「ありもしない危機」と反論\[93\]
+  - [立憲民主党の](https://ja.wikipedia.org/wiki/立憲民主党_\(日本\) "wikilink")[枝野幸男](../Page/枝野幸男.md "wikilink")代表が衆議院本会議の[代表質問](../Page/代表質問.md "wikilink")で補助金不交付について「事実上の事前検閲」につながると指摘、[安倍晋三](../Page/安倍晋三.md "wikilink")首相は「ありもしない危機」と反論\[93\]
   - **あいちトリエンナーレ実行委員会が「表現の不自由展・その後」を10月8日午後に展示再開することを決定**\[94\]
   - 河村たかし名古屋市長が「表現の不自由展・その後」展示再開に合わせて、抗議の[座り込み](https://ja.wikipedia.org/wiki/座り込み "wikilink")を行うことを宣言\[95\]\[96\]
 

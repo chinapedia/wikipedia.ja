@@ -17,7 +17,7 @@
       -
         作詞：西寺郷太・[竹前裕](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")、作曲：西寺郷太・[奥田健介](https://ja.wikipedia.org/wiki/奥田健介 "wikilink")・[小松茂](https://ja.wikipedia.org/wiki/小松茂 "wikilink")
           - 11枚目のシングル。
-          - TBS系アニメ「[GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")」エンディングテーマ。
+          - TBS系アニメ「[GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")」エンディングテーマ。
 3.  **メモリーズ～ひと夏の記憶～** - *MEMORIES*
       -
         作詞・作曲：西寺郷太

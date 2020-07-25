@@ -41,7 +41,7 @@
 </tr>
 <tr class="odd">
 <td><p>ものまね芸人によるスペシャルコーナー<br />
-（進行 - <a href="https://ja.wikipedia.org/wiki/アイデンティティ_(お笑いコンビ)" title="wikilink">アイデンティティ</a> 田島直弥、<a href="https://ja.wikipedia.org/wiki/Mr.シャチホコ" title="wikilink">Mr.シャチホコ</a>）</p>
+（進行 - <a href="../Page/アイデンティティ_(お笑いコンビ).md" title="wikilink">アイデンティティ</a> 田島直弥、<a href="https://ja.wikipedia.org/wiki/Mr.シャチホコ" title="wikilink">Mr.シャチホコ</a>）</p>
 <ol>
 <li>アムラ（<a href="https://ja.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a>の歌真似）「<a href="https://ja.wikipedia.org/wiki/Hero_(安室奈美恵の曲)" title="wikilink">Hero</a>」</li>
 <li>杉野ひろし（<a href="../Page/星野源.md" title="wikilink">星野源</a>の歌真似）「<a href="https://ja.wikipedia.org/wiki/恋_(星野源の曲)" title="wikilink">恋</a>」</li>

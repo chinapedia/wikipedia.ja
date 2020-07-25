@@ -47,7 +47,7 @@
   - [SIG SAUER P226](../Page/SIG_SAUER_P226.md "wikilink") ニッケルメッキモデル　：ヴィンセント・ハナ
   - [スミス&ウェッソン](../Page/スミス&ウェッソン.md "wikilink")M659 ステンレスモデル　：パトリック・マクラーレン
   - [コルトM1911A1](../Page/M1911.md "wikilink") ステンレスモデル　：ウェイングロー
-  - [フランキ・スパス15](https://ja.wikipedia.org/wiki/フランキ・スパス15 "wikilink")　：ロビー・シュワルツ → ヴィンセント・ハナ
+  - [フランキ・スパス15](../Page/フランキ・スパス15.md "wikilink")　：ロビー・シュワルツ → ヴィンセント・ハナ
   - モスバーグ590　：クリス・シヘリス
   - [ベネリM1](https://ja.wikipedia.org/wiki/ベネリM1 "wikilink")スーペル90　：LAPD
   - [レミントンM870](../Page/レミントンM870.md "wikilink")　：ウェイングロー

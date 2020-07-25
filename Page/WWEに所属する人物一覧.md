@@ -16,7 +16,7 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Drew_Galloway_March_2017.jpg "wikilink"):[ドリュー・マッキンタイア](https://ja.wikipedia.org/wiki/ドリュー・ギャロウェイ "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:_Apollo_Crews_2017.jpg "wikilink") : [アポロ・クルーズ](https://ja.wikipedia.org/wiki/ウーハー・ネイション "wikilink")\]\]
 
   - [MVP](../Page/アルヴィン・バーク・ジュニア.md "wikilink")（アントニオ・バンクス、ザ・ロードウォー、モンテル・ボンタビアス・ポーター）
-  - [Rトゥルース](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")（R-Truth）（トゥルース、Kクラッシュ、Kクイック、K=マリック・シャバズ、ロン・キリングス、Rジグラー）
+  - [Rトゥルース](../Page/ロン・キリングス.md "wikilink")（R-Truth）（トゥルース、Kクラッシュ、Kクイック、K=マリック・シャバズ、ロン・キリングス、Rジグラー）
   - [アイバー](https://ja.wikipedia.org/wiki/トッド・スミス "wikilink")（Ivar）（ハンサム・ジョニー、トッド・ハンソン、トッド・ハンセン、トッド・スミス、ドン・チェスターフィールド、ジョニー・ヘイズ、ハンソン、デューク・オブ・エレガンス、トッド・ヘンセン）
   - [アカム](https://ja.wikipedia.org/wiki/サニー・ディンサ "wikilink")（Akam）（サニー・ディンサ）
   - [アポロ・クルーズ](https://ja.wikipedia.org/wiki/ウーハー・ネイション "wikilink")（Apollo Crews）（ウーハー・ネイション、アポロ）
@@ -59,7 +59,7 @@
   - [キング・コービン](https://ja.wikipedia.org/wiki/トム・ペストック "wikilink")（King Corbin）（バロン・コービン）
   - [グラン・メタリック](https://ja.wikipedia.org/wiki/マスカラ・ドラダ "wikilink")（Gran Metalik）（メタリック、プラタ2号、マスカラ・ドラダ）
   - [ケイン](../Page/ケイン_\(プロレスラー\).md "wikilink")（Kane）（クリスマス・クリーチャー、ビッグ・シド・パワーズ、ブルーザー・マスティノ、ドゥームスデイ、グレン・ジェイコブス、スパルタカス、アイザック・ヤンカム,DDS、ウナボム、フェイク・ディーゼル、アンガス・キング、ビック・グレン・パワーズ、ブラック・ナイト）[Transportation_plane.svg](https://ja.wikipedia.org/wiki/File:Transportation_plane.svg "fig:Transportation_plane.svg")
-  - [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")（Kofi Kingston）（コフィ・ジャマイカ）
+  - [コフィ・キングストン](../Page/コフィ・キングストン.md "wikilink")（Kofi Kingston）（コフィ・ジャマイカ）
   - [サミ・ゼイン](https://ja.wikipedia.org/wiki/ラミ・セベイ "wikilink")（Sami Zayn）（エル・ジェネリコ）
   - [ジェイ・ウーソ](https://ja.wikipedia.org/wiki/ジョシュア・ファトゥ "wikilink")（Jey Uso）（ジョシュア・ファトゥ、ジュレス・ウーソ、ジョシュ・ファトゥ）
   - [シェイマス](https://ja.wikipedia.org/wiki/シェイマス "wikilink")（Sheamus）（ガルドゥブ、シェイマス・オショネシー、キング・シェイマス）
@@ -433,7 +433,7 @@
   - [ドナ・クリスタネーロ](https://ja.wikipedia.org/wiki/ドナ・クリスタネーロ "wikilink")（Donna Christanello）（ドナ・クリスティアン、ドナ・クリスティアネーロ、ドナ・コステロ、ドナ・アルフォンシ）（1965年 - 1977年、1981年 - 1987年）［2011年8月25日死去］
   - [ニック・ボックウィンクル](../Page/ニック・ボックウィンクル.md "wikilink")（Nick Bockwinkel）（ディック・ワーレン、ニック・ワーレン、ニック・ボック、ロイ・ダイアモンド）（1987年） \[2015年11月14日死去\]
   - [ブラックジャック・マリガン](../Page/ブラックジャック・マリガン.md "wikilink")（Blackjack Mulligan）（ボブ・ウィンダム、ミスター・テキサン、ビッグマシーン）（1971年、1975年、1982年、1985年、1986年 - 1987年） \[2016年4月7日死去\]
-  - [“ザ・レベル”ディック・スレイター](https://ja.wikipedia.org/wiki/ディック・スレーター "wikilink")（"The Rebel" Dick Slater）（ミスター・フロリダ、ミスター・ミステリー）（1986年 - 1987年） \[2018年10月18日死去\]
+  - [“ザ・レベル”ディック・スレイター](../Page/ディック・スレーター.md "wikilink")（"The Rebel" Dick Slater）（ミスター・フロリダ、ミスター・ミステリー）（1986年 - 1987年） \[2018年10月18日死去\]
   - [ペドロ・モラレス](../Page/ペドロ・モラレス.md "wikilink")（Pedro Morales）（ジョニー・コモ）（1958年 - 1964年、1970年 - 1974年、1975年、1980年 - 1987年） \[2019年2月12日死去\]
 
 ### 1988年
@@ -949,7 +949,7 @@
   - [ランス・ケイド](../Page/ランス・ケイド.md "wikilink")（Lance Cade）（ギャリソン・ケイド、マイト・シャープ、カウボーイ・ケイド）（2003年 - 2008年）\[2010年8月13日死去\]
   - [ビッグ・ダディV](../Page/ネルソン・フレイジャー・ジュニア.md "wikilink")（Big Daddy V）（デス・スカッド1号、ネルソン・ナイト、メイベル・ドインク、メイブル、ヴィセラ、ビッグ・ダディ・ブードゥー）（1993年 - 1995年、1998年 - 2000年、2004年 - 2008年）\[2014年2月18日死去\]
   - [ボールズ・マホーニー](https://ja.wikipedia.org/wiki/ボールズ・マホーニー "wikilink")（Balls Mahoney）（ジョン・レッチャー、アブダー・シン、ブー・ブラッドリー、サンタ・クロース、カホニーズ、アブダー・デイン）（2006年 - 2008年） \[2016年4月12日死去\]
-  - [アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")（Ashley）（アシュリー・マッサーロ）（2005年 - 2008年）\[2019年5月16日死去\]
+  - [アシュリー](../Page/アシュリー・マッサーロ.md "wikilink")（Ashley）（アシュリー・マッサーロ）（2005年 - 2008年）\[2019年5月16日死去\]
 
 ### 2009年
 
@@ -1135,7 +1135,7 @@
   - [リッチ・スワン](https://ja.wikipedia.org/wiki/リッチ・スワン "wikilink")（Rich Swann）（リッチ・市川、スワン・ハンセン、リッチ・マネー、エル・ネグロ・ミステリオ）（2016年 - 2018年）
   - [ビッグ・キャス](https://ja.wikipedia.org/wiki/ビル・モリッシー "wikilink")（Big Cass）（コリン・キャサディ）（2016年 - 2018年）
   - [ジェームズ・エルスワース](https://ja.wikipedia.org/wiki/ジェームズ・エルスワース "wikilink")（James Ellsworth）（ジミー・ドリーム）（2016年 - 2017年、2018年）
-  - [ネヴィル](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")（Neville）（PAC、ジャングル・パック、ダークサイド・ハヤブサ、エイドリアン・ネヴィル、ベンジャミン・サッタリー、ベン・サシリー）（2015年 - 2018年）
+  - [ネヴィル](../Page/ベンジャミン・サッタリー.md "wikilink")（Neville）（PAC、ジャングル・パック、ダークサイド・ハヤブサ、エイドリアン・ネヴィル、ベンジャミン・サッタリー、ベン・サシリー）（2015年 - 2018年）
   - [コリン・デラニー](https://ja.wikipedia.org/wiki/コリン・デラニー "wikilink")（Colin Delaney）（コリン・オルセン）（2007年 - 2008年、2017年 - 2018年）
   - [フラッシュ・フラナガン](https://ja.wikipedia.org/wiki/クリストファー・カインドレッド "wikilink")（Flash Flanagan）（フラッシュ、コバイン、スラッシュ・ヴェノム、ウェポン・オブ・マスク・デストラクション1号、グレゴール・ザ・シックル・ファルコン）（1999年 - 2002年、2018年）
   - [ロバート・アンソニー](https://ja.wikipedia.org/wiki/ロバート・アンソニー "wikilink")（Robert Anthony）（エゴイスティコ・ファンタスティコ、ディクソン・コックス、エル・ホムブル・シン・ノンブル、ココリソ）（2017年 - 2018年）

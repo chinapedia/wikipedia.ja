@@ -1603,7 +1603,7 @@
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
-<td><p>style="text-align:left|<strong><a href="https://ja.wikipedia.org/wiki/小田急ジュノー" title="wikilink">小田急</a></strong>/<a href="https://ja.wikipedia.org/wiki/小田急ジュノー" title="wikilink">小田急ジュノー</a></p></td>
+<td><p>style="text-align:left|<strong><a href="../Page/小田急ジュノー.md" title="wikilink">小田急</a></strong>/<a href="../Page/小田急ジュノー.md" title="wikilink">小田急ジュノー</a></p></td>
 <td><p>11</p></td>
 <td><p>8</p></td>
 <td><p>3</p></td>

@@ -21,7 +21,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - ジョミクス・パーソナルCAD
   - [1984年](../Page/1984年.md "wikilink") - ASTY CAD
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 図脳α1（図脳ブランドを冠した初めてのCAD）
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 図脳α3
+  - [1986年](../Page/1986年.md "wikilink") - 図脳α3
   - [1988年](../Page/1988年.md "wikilink") - 図脳α5
   - [1988年](../Page/1988年.md "wikilink") - 図脳ワーCAD（CAD機能にワープロ機能が合体したソフトウェア）
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 図脳KeyStone（DOS/V機対応のCADソフトウェア）

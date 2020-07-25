@@ -1,7 +1,7 @@
 > この記事は[BOY-FRIEND](https://ja.wikipedia.org/wiki/BOY-FRIEND)から翻訳されています。
 
 
-「**BOY-FRIEND**」（ボーイフレンド）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")にシングル「[GIRL-FRIEND](../Page/GIRL-FRIEND.md "wikilink")」と同時に、[日本コロムビア](../Page/日本コロムビア.md "wikilink")からリリースされた[山下久美子](../Page/山下久美子.md "wikilink")の15枚目のシングル。
+「**BOY-FRIEND**」（ボーイフレンド）は、[1986年](../Page/1986年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")にシングル「[GIRL-FRIEND](../Page/GIRL-FRIEND.md "wikilink")」と同時に、[日本コロムビア](../Page/日本コロムビア.md "wikilink")からリリースされた[山下久美子](../Page/山下久美子.md "wikilink")の15枚目のシングル。
 
 ## 作品概要
 

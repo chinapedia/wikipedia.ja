@@ -129,7 +129,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
 <td><p><a href="../Page/亀梨和也.md" title="wikilink">亀梨和也</a></p></td>
 <td></td>
 </tr>

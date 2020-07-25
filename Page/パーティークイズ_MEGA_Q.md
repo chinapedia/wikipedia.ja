@@ -158,6 +158,6 @@
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:クイズゲーム](https://ja.wikipedia.org/wiki/Category:クイズゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.
-2.  例として、「平均寿命が一番長い都道府県は?」という問題は、本作品（1993年当時）での正解は[沖縄県](../Page/沖縄県.md "wikilink")であるが、2015年の[国勢調査](https://ja.wikipedia.org/wiki/国勢調査 "wikilink")に基づいた結果では、男性は[滋賀県](../Page/滋賀県.md "wikilink")、女性は[長野県](../Page/長野県.md "wikilink")となっている。
+2.  例として、「平均寿命が一番長い都道府県は?」という問題は、本作品（1993年当時）での正解は[沖縄県](../Page/沖縄県.md "wikilink")であるが、2015年の[国勢調査](../Page/国勢調査.md "wikilink")に基づいた結果では、男性は[滋賀県](../Page/滋賀県.md "wikilink")、女性は[長野県](../Page/長野県.md "wikilink")となっている。
 3.  例として、「[グッドデザイン](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")『Gマーク』を選定する省庁は?」という問題があり、選択肢として「[通産省](../Page/経済産業省.md "wikilink")」「[大蔵省](../Page/大蔵省.md "wikilink")」「[文部省](../Page/文部省.md "wikilink")」が出てくるが、グッドデザイン商品選定制度は1998年より民営化され、選択肢の省庁も2001年の[中央省庁再編](../Page/中央省庁再編.md "wikilink")により現存しないため、現在では問題が成立しない。
 4.  例として、「◎客万来」の◎を埋める問題で、選択肢として「多」「万」「千」のほかに「となりのよく柿食う」がある。

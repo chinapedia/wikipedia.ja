@@ -21,7 +21,7 @@
 
 ### レギュラー
 
-  - 実況：[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")
+  - 実況：[市川勝也](../Page/市川勝也.md "wikilink")
   - 解説：井上光（[週刊プロレス](../Page/週刊プロレス.md "wikilink")）
 
 ## 出典

@@ -1,7 +1,7 @@
 > この記事は[Masato](https://ja.wikipedia.org/wiki/Masato)から翻訳されています。
 
 
-[Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg](https://ja.wikipedia.org/wiki/File:Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg "fig:Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg")  **Masato** （マサト、早川雅人、*Masato David Hayakawa*, [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ロックバンド[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")のメンバーであり、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。
+[Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg](https://ja.wikipedia.org/wiki/File:Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg "fig:Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg")  **Masato** （マサト、早川雅人、*Masato David Hayakawa*, [1986年](../Page/1986年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ロックバンド[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")のメンバーであり、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。
 
 ## 略歴
 

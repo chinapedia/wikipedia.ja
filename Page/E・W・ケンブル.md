@@ -11,7 +11,7 @@
 
 ケンブルの雑誌の挿絵を作家、マーク・トウェインが注目し、『ハックルベリー・フィンの冒険』の挿絵画家として採用した。その後もトウェインの小説『Pudd'nhead Wilson』や[ハリエット・ビーチャー・ストウ](../Page/ハリエット・ビーチャー・ストウ.md "wikilink")の『[アンクル・トムの小屋](../Page/アンクル・トムの小屋.md "wikilink")』などの有名な書籍の挿絵を描いた。
 
-ニューヨーク州の[ニューロシェル](https://ja.wikipedia.org/wiki/ニューロシェル "wikilink")の郊外で暮らし\[2\]、[コネチカット州](../Page/コネチカット州.md "wikilink")の[フェアフィールド郡のリッジフィールド](https://ja.wikipedia.org/wiki/フェアフィールド郡_\(コネチカット州\) "wikilink")(Ridgefield)で72歳で亡くなった。
+ニューヨーク州の[ニューロシェル](../Page/ニューロシェル.md "wikilink")の郊外で暮らし\[2\]、[コネチカット州](../Page/コネチカット州.md "wikilink")の[フェアフィールド郡のリッジフィールド](https://ja.wikipedia.org/wiki/フェアフィールド郡_\(コネチカット州\) "wikilink")(Ridgefield)で72歳で亡くなった。
 
 ## 作品
 

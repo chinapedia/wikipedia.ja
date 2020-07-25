@@ -1,7 +1,7 @@
 > この記事は[Newsにならない恋](https://ja.wikipedia.org/wiki/Newsにならない恋)から翻訳されています。
 
 
-「**Newsにならない恋**」（ニュースにならないこい）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月に[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[早見優](../Page/早見優.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Newsにならない恋**」（ニュースにならないこい）は、[1986年](../Page/1986年.md "wikilink")7月に[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[早見優](../Page/早見優.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 

@@ -11,7 +11,7 @@
 
 2007年に音影を結成。
 
-また、2000年よりボイストレーナーとして専門学校ESPミュージカルアカデミーの講師を務め、[EXILE ATSUSHIや団長](https://ja.wikipedia.org/wiki/EXILE_ATSUSHI "wikilink")（[NoGoD](../Page/NoGoD.md "wikilink")）を指導。2001年よりAKINO LEE 音楽道 ACADEMYを開講、[松永天馬](https://ja.wikipedia.org/wiki/松永天馬 "wikilink")・浜崎容子（[アーバンギャルド](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")）、けったろ（[ROOT FIVE](https://ja.wikipedia.org/wiki/ROOT_FIVE "wikilink")）、夕霧（[DaizyStripper](https://ja.wikipedia.org/wiki/DaizyStripper "wikilink")）などを指導。さらに、[ハコイリ♡ムスメ](https://ja.wikipedia.org/wiki/ハコイリムスメ "wikilink")、月と太陽などアイドルのボイストレーナーも務める\[4\]。アイドルには造詣が深く、プロデュースや作詞・作曲から振付・ダンスレッスンまでこなす。
+また、2000年よりボイストレーナーとして専門学校ESPミュージカルアカデミーの講師を務め、[EXILE ATSUSHIや団長](https://ja.wikipedia.org/wiki/EXILE_ATSUSHI "wikilink")（[NoGoD](../Page/NoGoD.md "wikilink")）を指導。2001年よりAKINO LEE 音楽道 ACADEMYを開講、[松永天馬](https://ja.wikipedia.org/wiki/松永天馬 "wikilink")・浜崎容子（[アーバンギャルド](../Page/アーバンギャルド.md "wikilink")）、けったろ（[ROOT FIVE](https://ja.wikipedia.org/wiki/ROOT_FIVE "wikilink")）、夕霧（[DaizyStripper](https://ja.wikipedia.org/wiki/DaizyStripper "wikilink")）などを指導。さらに、[ハコイリ♡ムスメ](https://ja.wikipedia.org/wiki/ハコイリムスメ "wikilink")、月と太陽などアイドルのボイストレーナーも務める\[4\]。アイドルには造詣が深く、プロデュースや作詞・作曲から振付・ダンスレッスンまでこなす。
 
 ### カレーおじさん＼(^o^)／
 

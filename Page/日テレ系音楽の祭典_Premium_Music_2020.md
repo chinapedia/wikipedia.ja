@@ -43,7 +43,7 @@
 
 ### ナレーター
 
-  - [林田尚親](https://ja.wikipedia.org/wiki/林田尚親 "wikilink")
+  - [林田尚親](../Page/林田尚親.md "wikilink")
 
 ## 出演アーティスト
 
@@ -68,7 +68,7 @@
   - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")
   - **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**
   - [official髭男dism](https://ja.wikipedia.org/wiki/official髭男dism "wikilink")
-  - **[KAT−TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")**
+  - **[KAT−TUN](../Page/KAT-TUN.md "wikilink")**
   - [KAN](../Page/KAN.md "wikilink") \[**特**\]
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")\[4\]
@@ -86,7 +86,7 @@
   - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")
   - **[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")**
   - [近藤真彦](../Page/近藤真彦.md "wikilink")
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [斉藤和義](../Page/斉藤和義.md "wikilink")
   - [酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")
   - [ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink") \[**特**\]
@@ -112,7 +112,7 @@
   - [TOKIO](../Page/TOKIO.md "wikilink")
   - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
-  - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+  - [中島みゆき](../Page/中島みゆき.md "wikilink")
   - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") \[**特**\]
   - [中山美穂](../Page/中山美穂.md "wikilink") \[**特**\]
   - **[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")**

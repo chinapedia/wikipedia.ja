@@ -7,7 +7,7 @@
 
 検索エンジンAhmiaは、[OSS](../Page/オープンソースソフトウェア.md "wikilink")\[2\]としての支援を受けながら[2014年Google Summer of Codeの期間中に開発された](https://ja.wikipedia.org/wiki/Google_Summer_of_Code#2014年 "wikilink")。当初は[Django](../Page/Django.md "wikilink")と[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")が組み込まれていた。
 
-仕組みは、Torネットワークから『』と呼ばれる固有の匿名識別子を収集し、[robots.txt](https://ja.wikipedia.org/wiki/robots.txt "wikilink")ファイルを含むものを除いた上で、これらを索引付けする\[3\]。また検索エンジンは[児童ポルノ](https://ja.wikipedia.org/wiki/児童ポルノ "wikilink")を排除し\[4\]、虐待的な事項を含むサービスを提供しているサイトをブラックリストに記録する\[5\]。
+仕組みは、Torネットワークから『』と呼ばれる固有の匿名識別子を収集し、[robots.txt](https://ja.wikipedia.org/wiki/robots.txt "wikilink")ファイルを含むものを除いた上で、これらを索引付けする\[3\]。また検索エンジンは[児童ポルノ](../Page/児童ポルノ.md "wikilink")を排除し\[4\]、虐待的な事項を含むサービスを提供しているサイトをブラックリストに記録する\[5\]。
 
 の投稿やの統計情報を用いて、秘匿サービスを発見する機能を提供しており\[6\]、 [2015年](../Page/2015年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")時点で約5000サイトを索引付けしている\[7\]。また、Ahmiaは、透明性と自由を可能にする技術を推進する組織である『Hermes Center for Transparency and Digital Rights』と提携している\[8\]\[9\]。
 

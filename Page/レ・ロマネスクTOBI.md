@@ -3,7 +3,7 @@
 
 **レ・ロマネスクTOBI**は、（れ・ろまねすくとびー、[3月1日](../Page/3月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[俳優](../Page/俳優.md "wikilink")、[クリエーター](https://ja.wikipedia.org/wiki/クリエイター "wikilink")。
 
-[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")のメインボーカル。カタカナで表記する場合は「トビー」とのばす。
+[レ・ロマネスク](../Page/レ・ロマネスク.md "wikilink")のメインボーカル。カタカナで表記する場合は「トビー」とのばす。
 
 [広島県](../Page/広島県.md "wikilink")[比婆郡](../Page/比婆郡.md "wikilink")(現在の[庄原市](../Page/庄原市.md "wikilink"))出身。[キューブ所属](../Page/キューブ_\(芸能プロダクション\).md "wikilink")。
 
@@ -13,7 +13,7 @@
 
 [修道高等学校](https://ja.wikipedia.org/wiki/修道高等学校 "wikilink")を経て、[慶応義塾大学経済学部](https://ja.wikipedia.org/wiki/慶応義塾大学経済学部 "wikilink")卒業。大学卒業後サラリーマンをするが入社する会社が次々倒産し、サラリーマンと並行してムード歌謡風グループ「ロマネスク石飛ともみあげホテル」としての活動していたがそれを辞め[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")へ渡る。理由は「一番興味のない国で人生をリセットするため」。それまで[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")も持っておらず、初の[海外旅行](https://ja.wikipedia.org/wiki/海外旅行 "wikilink")であった。
 
-2000年10月にフランスでポップユニット「[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")」を結成。徐々に人気を集め、2008年春夏パリコレでのライブをきっかけに世界12カ国50都市以上でライブ。その後、フランスのテレビ番組に出演した動画がYouTube再生回数1位を記録し「フランスで最も有名な日本人」となる。
+2000年10月にフランスでポップユニット「[レ・ロマネスク](../Page/レ・ロマネスク.md "wikilink")」を結成。徐々に人気を集め、2008年春夏パリコレでのライブをきっかけに世界12カ国50都市以上でライブ。その後、フランスのテレビ番組に出演した動画がYouTube再生回数1位を記録し「フランスで最も有名な日本人」となる。
 
 2011年 [フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")出演を機に日本へ活動の拠点を移し、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")「[お伝と伝じろう](https://ja.wikipedia.org/wiki/お伝と伝じろう "wikilink")」のメインキャストに抜擢される。
 
@@ -37,7 +37,7 @@
 
 ## 出演
 
-音楽ユニット「レ・ロマネスク」としての出演は[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")を参照
+音楽ユニット「レ・ロマネスク」としての出演は[レ・ロマネスク](../Page/レ・ロマネスク.md "wikilink")を参照
 
 ### テレビ
 
@@ -115,7 +115,7 @@
   - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")『H♪LINE』
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink")『[となりのテレ金ちゃん](https://ja.wikipedia.org/wiki/となりのテレ金ちゃん "wikilink")』
 
-☆は[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")として出演
+☆は[レ・ロマネスク](../Page/レ・ロマネスク.md "wikilink")として出演
 
 ### ドラマ / 映画
 
@@ -125,7 +125,7 @@
   - [モーリーファンタジー](https://ja.wikipedia.org/wiki/モーリーファンタジー "wikilink")-You Tube ララちゃんTV -『ララちゃんとレレさん』シリーズ - レレさん 役☆
   - [ベネッセ](https://ja.wikipedia.org/wiki/ベネッセ "wikilink")[こどもちゃれんじ](../Page/こどもちゃれんじ.md "wikilink")『ほっぷ』レギュラー - もじもじいさん 役
 
-☆は[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")として出演
+☆は[レ・ロマネスク](../Page/レ・ロマネスク.md "wikilink")として出演
 
 ### 舞台
 
@@ -141,7 +141,7 @@
   - [キスケ株式会社](https://ja.wikipedia.org/wiki/キスケ株式会社 "wikilink") テレビCM 出演 サウンドロゴ作成
   - いしかわ観光特使　観光PR楽曲『石川Jimmy』制作（2018年）☆
 
-☆は[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")として出演
+☆は[レ・ロマネスク](../Page/レ・ロマネスク.md "wikilink")として出演
 
 ### ラジオ　
 

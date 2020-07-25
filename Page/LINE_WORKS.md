@@ -71,7 +71,7 @@
   - JKホールディングス株式会社\[33\]
   - [ヒノキヤグループ](https://ja.wikipedia.org/wiki/ヒノキヤグループ "wikilink")\[34\]
   - [IDOM](../Page/IDOM.md "wikilink")\[35\]
-  - [Zoff](https://ja.wikipedia.org/wiki/Zoff "wikilink")（株式会社インターメスティック）\[36\]
+  - [Zoff](../Page/Zoff.md "wikilink")（株式会社インターメスティック）\[36\]
   - [三重大学](../Page/三重大学.md "wikilink")医学部\[37\]
 
 ## 脚注

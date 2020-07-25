@@ -5,7 +5,7 @@
 
 ## 概要
 
-[グロック17](../Page/グロック17.md "wikilink")のような[ポリマー](https://ja.wikipedia.org/wiki/ポリマー "wikilink")・フレームとストライカー撃発方式を採用している。ハンマー撃発式の[H\&K P30とスライド形状やフレームが似ており](https://ja.wikipedia.org/wiki/H&K_P30 "wikilink")、P30の弾倉を流用できる。P30と同様バックストラップとグリップパネルを交換出来、[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")を採用している。
+[グロック17](../Page/グロック17.md "wikilink")のような[ポリマー](https://ja.wikipedia.org/wiki/ポリマー "wikilink")・フレームとストライカー撃発方式を採用している。ハンマー撃発式の[H\&K P30とスライド形状やフレームが似ており](../Page/H&K_P30.md "wikilink")、P30の弾倉を流用できる。P30と同様バックストラップとグリップパネルを交換出来、[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")を採用している。
 
 開発時はVP"Volkspistole"(国民拳銃)という名前がつけられたが、欧州でのセールスに伴い"striker-fired pistol"を表すSFPという名義に変更された(その後、VPという名義は米国市場にて復活することとなった)。
 
@@ -38,9 +38,9 @@
   - [自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")
   - [H\&K](../Page/ヘッケラー&コッホ.md "wikilink")
   - [H\&K USP](../Page/H&K_USP.md "wikilink")
-  - [H\&K P2000](https://ja.wikipedia.org/wiki/H&K_P2000 "wikilink")
-  - [H\&K P30](https://ja.wikipedia.org/wiki/H&K_P30 "wikilink")
-  - [H\&K HK45](https://ja.wikipedia.org/wiki/H&K_HK45 "wikilink")
+  - [H\&K P2000](../Page/H&K_P2000.md "wikilink")
+  - [H\&K P30](../Page/H&K_P30.md "wikilink")
+  - [H\&K HK45](../Page/H&K_HK45.md "wikilink")
 
 ## 外部リンク
 

@@ -15,7 +15,7 @@
 
 ## 歴代所属選手
 
-  - [イビツァ・クラリ](https://ja.wikipedia.org/wiki/イビツァ・クラリ "wikilink")
+  - [イビツァ・クラリ](../Page/イビツァ・クラリ.md "wikilink")
 
 ## 脚注
 

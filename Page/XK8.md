@@ -62,7 +62,7 @@ XK8のフレームは[ポリマー素材を使用しており](../Page/重合体
 
 ### ゲーム
 
-  - 『[クロスファイア](https://ja.wikipedia.org/wiki/クロスファイア_\(オンラインゲーム\) "wikilink")』（[PC用](../Page/パーソナルコンピュータ.md "wikilink")[FPSゲーム](https://ja.wikipedia.org/wiki/ファーストパーソン・シューティング "wikilink")）
+  - 『[クロスファイア](../Page/クロスファイア_\(オンラインゲーム\).md "wikilink")』（[PC用](../Page/パーソナルコンピュータ.md "wikilink")[FPSゲーム](https://ja.wikipedia.org/wiki/ファーストパーソン・シューティング "wikilink")）
     DAR-21として登場する。
 
 ## 脚注
@@ -71,7 +71,7 @@ XK8のフレームは[ポリマー素材を使用しており](../Page/重合体
 
   - [小銃・自動小銃等一覧](../Page/小銃・自動小銃等一覧.md "wikilink")
 
-:\*[95式自動歩槍](https://ja.wikipedia.org/wiki/95式自動歩槍 "wikilink")
+:\*[95式自動歩槍](../Page/95式自動歩槍.md "wikilink")
 
 :\*[SAR21](https://ja.wikipedia.org/wiki/SAR21 "wikilink")
 

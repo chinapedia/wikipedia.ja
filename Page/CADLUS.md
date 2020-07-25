@@ -25,7 +25,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")6月、 JPCAショーにて「CADLUS model 30」、「Super CADLUS」発表
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月、 ｲﾝﾀｰﾈﾌﾟｺﾝｼｮｰにて「CADLUS model 40」発表
+[1986年](../Page/1986年.md "wikilink")1月、 ｲﾝﾀｰﾈﾌﾟｺﾝｼｮｰにて「CADLUS model 40」発表
 
 1986年6月、 JPCAショーにて「CADLUS model 50」発表
 

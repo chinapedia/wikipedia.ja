@@ -680,7 +680,7 @@
       - 卒業〜Graduation〜聖羅V
   - [ソニック・ザ・ヘッジホッグ](../Page/ソニック・ザ・ヘッジホッグ_\(OVA\).md "wikilink")
   - [そらのいろ、みずのいろ](../Page/そらのいろ、みずのいろ.md "wikilink")
-  - [そらのおとしもの プロジェクトピンク](https://ja.wikipedia.org/wiki/そらのおとしもの "wikilink")
+  - [そらのおとしもの プロジェクトピンク](../Page/そらのおとしもの.md "wikilink")
   - [SOL BIANCA](https://ja.wikipedia.org/wiki/SOL_BIANCA "wikilink")
       - SOL BIANCA2
       - [太陽の船 ソルビアンカ](../Page/太陽の船_ソルビアンカ.md "wikilink")
@@ -884,7 +884,7 @@
       - 特捜戦車隊ドミニオン
       - 警察戦車隊 TANK S.W.A.T.
   - [巴がゆく\!](../Page/巴がゆく!.md "wikilink")
-  - [とらいあんぐるハート さざなみ女子寮](https://ja.wikipedia.org/wiki/とらいあんぐるハート2_さざなみ女子寮 "wikilink")
+  - [とらいあんぐるハート さざなみ女子寮](../Page/とらいあんぐるハート2_さざなみ女子寮.md "wikilink")
   - [とらいあんぐるハート 〜Sweet Songs Forever〜](https://ja.wikipedia.org/wiki/とらいあんぐるハート3_〜Sweet_Songs_Forever〜 "wikilink")
       - とらいあんぐるハート 〜Sweet Songs Forever〜 サウンドステージVA
   - [ドラゴンスレイヤー英雄伝説 王子の旅立ち](../Page/ドラゴンスレイヤー英雄伝説.md "wikilink")
@@ -1322,7 +1322,7 @@
       - 鎧伝サムライトルーパー 外伝
       - 鎧伝サムライトルーパー 輝煌帝伝説
       - 鎧伝サムライトルーパー MESSAGE
-  - [よんでますよ、アザゼルさん。](https://ja.wikipedia.org/wiki/よんでますよ、アザゼルさん。 "wikilink")
+  - [よんでますよ、アザゼルさん。](../Page/よんでますよ、アザゼルさん。.md "wikilink")
 
 ## ら行
 

@@ -92,7 +92,7 @@
 
 ### 所得税の申告漏れ
 
-  - 同社の大阪本社が、[2009年](../Page/2009年.md "wikilink")に[大阪国税局](../Page/大阪国税局.md "wikilink")から税務調査を受け、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")期までの5年間で約4億9,000万円の[申告漏れを指摘されたことが](../Page/脱税.md "wikilink")、同年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発覚した。同社は、[中国などへの](../Page/中華人民共和国.md "wikilink")[鋼材](https://ja.wikipedia.org/wiki/鋼材 "wikilink")などの[輸出](https://ja.wikipedia.org/wiki/輸出 "wikilink")で、仮の価格での支払いを受けた後、正規価格の決定後に過剰額を返金していたが、同社が返金分と説明したものの一部について、[リベート](https://ja.wikipedia.org/wiki/リベート "wikilink")に当たると判断された\[1\]。
+  - 同社の大阪本社が、[2009年](../Page/2009年.md "wikilink")に[大阪国税局](../Page/大阪国税局.md "wikilink")から税務調査を受け、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")期までの5年間で約4億9,000万円の[申告漏れを指摘されたことが](../Page/脱税.md "wikilink")、同年[1月26日](../Page/1月26日.md "wikilink")に発覚した。同社は、[中国などへの](../Page/中華人民共和国.md "wikilink")[鋼材](https://ja.wikipedia.org/wiki/鋼材 "wikilink")などの[輸出](https://ja.wikipedia.org/wiki/輸出 "wikilink")で、仮の価格での支払いを受けた後、正規価格の決定後に過剰額を返金していたが、同社が返金分と説明したものの一部について、[リベート](https://ja.wikipedia.org/wiki/リベート "wikilink")に当たると判断された\[1\]。
 
 ## 脚注
 

@@ -40,7 +40,7 @@
   - 1988年10月29日：[Tops](../Page/Tops_\(バンド\).md "wikilink")\[10\]、[KATZE](../Page/KATZE.md "wikilink") \[11\]
   - 1988年11月5日：[夏木晴美](https://ja.wikipedia.org/wiki/夏木晴美 "wikilink")\[12\]、[生稲晃子](../Page/生稲晃子.md "wikilink")\[13\]、[HIROKO](../Page/HIROKO_\(歌手\).md "wikilink")\[14\]
   - 1988年11月12日：[アンリ菅野](https://ja.wikipedia.org/wiki/アンリ菅野 "wikilink")\[15\]、[THE 東南西北](../Page/THE_東南西北.md "wikilink")\[16\]
-  - 1988年11月19日：[伊藤銀次](../Page/伊藤銀次.md "wikilink")\[17\]、[栗田貫一](../Page/栗田貫一.md "wikilink")\[18\]、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")\[19\]、[Wink](../Page/Wink.md "wikilink")
+  - 1988年11月19日：[伊藤銀次](../Page/伊藤銀次.md "wikilink")\[17\]、[栗田貫一](../Page/栗田貫一.md "wikilink")\[18\]、[ZIGGY](../Page/ZIGGY.md "wikilink")\[19\]、[Wink](../Page/Wink.md "wikilink")
   - 1988年11月26日：[憂歌団](../Page/憂歌団.md "wikilink")\[20\]
   - 1988年12月3日：[上田正樹](../Page/上田正樹.md "wikilink")\[21\]
   - 1988年12月10日：[杉本彩](../Page/杉本彩.md "wikilink")\[22\]、[爆風スランプ](../Page/爆風スランプ.md "wikilink")\[23\]

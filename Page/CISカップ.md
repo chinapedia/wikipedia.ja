@@ -109,7 +109,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/CISカップ2006" title="wikilink">2006</a></p></td>
 <td><p><strong> <a href="../Page/ネフチ・バクー.md" title="wikilink">ネフチ・バクー</a></strong></p></td>
 <td><p><strong>4 - 2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">FBKカウナス</a></p></td>
+<td><p><a href="../Page/FBKカウナス.md" title="wikilink">FBKカウナス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CISカップ2007" title="wikilink">2007</a></p></td>

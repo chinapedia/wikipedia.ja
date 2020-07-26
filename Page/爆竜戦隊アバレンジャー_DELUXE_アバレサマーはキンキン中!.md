@@ -112,7 +112,7 @@ TVシリーズに登場するものについては**[爆竜戦隊アバレンジ
   - 爆竜アンキロベイルス：[御崎朱美](../Page/御崎朱美.md "wikilink")
   - 創造の使徒ミケラ：[緒方文興](../Page/緒方文興.md "wikilink")
   - 無限の使徒ヴォッファ：[宇垣秀成](../Page/宇垣秀成.md "wikilink")
-  - バーミア兵：[塩野勝美](../Page/塩野勝美.md "wikilink")、[穴井勇輝](https://ja.wikipedia.org/wiki/穴井勇輝 "wikilink")
+  - バーミア兵：[塩野勝美](../Page/塩野勝美.md "wikilink")、[穴井勇輝](../Page/穴井勇輝.md "wikilink")
   - 次元の流れ者ガルヴィディ：[古川登志夫](../Page/古川登志夫.md "wikilink")
   - ヘキサノイド・ハナビキニキビーナス：[高田由美](../Page/高田由美.md "wikilink")
 

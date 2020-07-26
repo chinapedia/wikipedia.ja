@@ -1,7 +1,7 @@
 > この記事は[R-TYPE TACTICS](https://ja.wikipedia.org/wiki/R-TYPE_TACTICS)から翻訳されています。
 
 
-『**R-TYPE TACTICS**』（アール・タイプ タクティクス）は、[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発売された[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[戦略シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")シリーズの生誕20周年作品に当たる。
+『**R-TYPE TACTICS**』（アール・タイプ タクティクス）は、[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発売された[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[戦略シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。[R-TYPE](../Page/R-TYPE.md "wikilink")シリーズの生誕20周年作品に当たる。
 
 [シューティングゲーム](../Page/シューティングゲーム.md "wikilink")としてはシリーズ最終作として製作された『[R-TYPE FINAL](../Page/R-TYPE_FINAL.md "wikilink")』に登場した多数の[R戦闘機](https://ja.wikipedia.org/wiki/R戦闘機 "wikilink")の設定が活かされ、様々なRタイプ戦闘機が宇宙や異星、異次元空間を舞台にグロテスクなバイド帝国のユニットと戦闘を繰り広げるSFシミュレーションゲームとなっている。
 
@@ -19,7 +19,7 @@
 
 ## 特徴
 
-本作は人類とバイド帝国との戦いを描いたSF[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")（STG）『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』シリーズの世界観を再現した[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")（SLG）である。戦略SLG特有の[ヘクス](https://ja.wikipedia.org/wiki/ウォー・シミュレーションゲーム#マップ "wikilink")、ユニット小隊、索敵の概念、ZOCの存在などを踏襲しているが、単に『R-TYPE』のキャラクターを使い戦略SLGにしたというだけでなく、「波動砲」や「フォース」といったR-TYPEシリーズの特徴的なシステムがゲームシステムに取り入れられており、従来の戦略SLGにない独自の要素となっている。
+本作は人類とバイド帝国との戦いを描いたSF[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")（STG）『[R-TYPE](../Page/R-TYPE.md "wikilink")』シリーズの世界観を再現した[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")（SLG）である。戦略SLG特有の[ヘクス](https://ja.wikipedia.org/wiki/ウォー・シミュレーションゲーム#マップ "wikilink")、ユニット小隊、索敵の概念、ZOCの存在などを踏襲しているが、単に『R-TYPE』のキャラクターを使い戦略SLGにしたというだけでなく、「波動砲」や「フォース」といったR-TYPEシリーズの特徴的なシステムがゲームシステムに取り入れられており、従来の戦略SLGにない独自の要素となっている。
 
 ユニット選択画面は『R-TYPE』同様にサイドビューであり、横スクロールSTGで見られる障害物の地形がそのまま利用されているのも他のSLGにはあまり見られない特徴である。戦闘画面は3DポリゴンによってR-TYPEシリーズらしい戦闘がそのまま再現される。なお、フォースは単独のユニットとして扱われ、R戦闘機と合体する事もできるが、ダメージを受けすぎると破壊される。
 
@@ -51,7 +51,7 @@
 #### R戦闘機
 
   - Rwf-9A アロー・ヘッド
-    主力量産型戦闘機。初代『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』に主役機「R-9」として登場したバランスの取れた機体。武装は接近戦用のバルカンと遠距離用のミサイルだが、3ターンの間ダメージを受けずにいると直線状の敵に一度に大ダメージを与える強力な「波動砲」を発射できる。
+    主力量産型戦闘機。初代『[R-TYPE](../Page/R-TYPE.md "wikilink")』に主役機「R-9」として登場したバランスの取れた機体。武装は接近戦用のバルカンと遠距離用のミサイルだが、3ターンの間ダメージを受けずにいると直線状の敵に一度に大ダメージを与える強力な「波動砲」を発射できる。
     「スタンダードフォース」との合体により対空レーザー、反射レーザー、サーチレーザーが使用可能になる。
   - Rwf-9Abk アロー・ヘッドbk
     アロー・ヘッドに特殊コーティングを施し、ウォー・ヘッド並の回避能力を身に付けた機体。

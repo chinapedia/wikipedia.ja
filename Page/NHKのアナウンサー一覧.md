@@ -324,7 +324,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [冨坂和男](../Page/冨坂和男.md "wikilink")（とみさか・かずお） CA
   - [大橋信之](https://ja.wikipedia.org/wiki/大橋信之 "wikilink")（おおはし・のぶゆき）CA
   - [鳥海貴樹](../Page/鳥海貴樹.md "wikilink")（とりうみ・たかき）CA
-  - [山路忠生](https://ja.wikipedia.org/wiki/山路忠生 "wikilink")（やまじ・ただお） CA
+  - [山路忠生](../Page/山路忠生.md "wikilink")（やまじ・ただお） CA
   - [斎藤政直](../Page/斎藤政直.md "wikilink")（さいとう・まさなお）CA
   - [上岡亮](../Page/上岡亮.md "wikilink")（かみおか・あきら）CA
   - [宮田貴行](../Page/宮田貴行.md "wikilink")（みやた・たかゆき）
@@ -350,7 +350,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 京都放送局放送部
 
   - [澗隨操司](../Page/澗隨操司.md "wikilink")（かんずい・そうし）副部長
-  - [斉藤寿朗](https://ja.wikipedia.org/wiki/斉藤寿朗 "wikilink")（さいとう・ひさあき）CA
+  - [斉藤寿朗](../Page/斉藤寿朗.md "wikilink")（さいとう・ひさあき）CA
   - [堀井洋一](https://ja.wikipedia.org/wiki/堀井洋一 "wikilink")（ほりい・よういち）CA
   - [小林千恵](../Page/小林千恵.md "wikilink")（こばやし・ちえ）
   - [酒井良彦](https://ja.wikipedia.org/wiki/酒井良彦 "wikilink")（さかい・よしひこ）
@@ -530,7 +530,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [池田達郎](../Page/池田達郎.md "wikilink")（いけだ・たつろう）副部長
   - [上野速人](../Page/上野速人.md "wikilink")（うえの・はやと）
-  - [稲塚貴一](https://ja.wikipedia.org/wiki/稲塚貴一 "wikilink")（いなつか・きいち）
+  - [稲塚貴一](../Page/稲塚貴一.md "wikilink")（いなつか・きいち）
   - [法性亮太](https://ja.wikipedia.org/wiki/法性亮太 "wikilink")（ほっしょう・りょうた）
   - [米澤太郎](https://ja.wikipedia.org/wiki/米澤太郎 "wikilink")（よねざわ・たろう）
 
@@ -654,7 +654,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [坪倉善彦](https://ja.wikipedia.org/wiki/坪倉善彦 "wikilink")（つぼくら・よしひこ）（[NHK鳥取放送局](../Page/NHK鳥取放送局.md "wikilink")副局長）
   - [道傳愛子](../Page/道傳愛子.md "wikilink")（どうでん・あいこ）（解説委員ワールドチーフプロデューサー）
   - [富永禎彦](../Page/富永禎彦.md "wikilink")（とみなが・さだひこ）（編成局）
-  - [畠山大志](https://ja.wikipedia.org/wiki/畠山大志 "wikilink")（はたけやま・だいし）（[NHK鳥取放送局](../Page/NHK鳥取放送局.md "wikilink")編成業務）
+  - [畠山大志](../Page/畠山大志.md "wikilink")（はたけやま・だいし）（[NHK鳥取放送局](../Page/NHK鳥取放送局.md "wikilink")編成業務）
   - [服部絢子](https://ja.wikipedia.org/wiki/服部絢子 "wikilink")（はっとり・あやこ）（放送総局国際放送局→ディレクター）
   - [羽塚由](https://ja.wikipedia.org/wiki/羽塚由 "wikilink")（はねづか・とおる）（[NHK富山放送局](../Page/NHK富山放送局.md "wikilink")局長）
   - [堀江さゆみ](../Page/堀江さゆみ.md "wikilink")（ほりえ・さゆみ）(編成局ソフト開発センターチーフプロデューサー）
@@ -745,7 +745,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 <!-- end list -->
 
-  - [安田一雄](https://ja.wikipedia.org/wiki/安田一雄 "wikilink")（1944年入局→TBS）
+  - [安田一雄](../Page/安田一雄.md "wikilink")（1944年入局→TBS）
   - [谷田部敏夫](https://ja.wikipedia.org/wiki/谷田部敏夫 "wikilink")（やたべ としお、1943年入局→[中部日本放送](../Page/中部日本放送.md "wikilink")）
   - [山口慎弥](https://ja.wikipedia.org/wiki/山口慎弥 "wikilink")（1967年入局→TBS）
   - [山田二郎](../Page/山田二郎_\(アナウンサー\).md "wikilink")（1959年入局→TBS）

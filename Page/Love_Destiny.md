@@ -9,7 +9,7 @@
 
 表題曲「Love Destiny」とカップリングの「翼」は、それぞれ[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")』の[オープニングテーマと](../Page/主題歌.md "wikilink")[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。「Love Destiny」と「翼」は[instrumentalだが](../Page/器楽曲.md "wikilink")、「Sweet Baby Love」のみ[Off Vocalとなっている](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")。初回盤はデジパック仕様になっている。
 
-「Love Destiny」は、『シスター・プリンセス』の原作出版元である[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")の社歌という噂があり、同社のイベント『DENGEKI MUSIC LIVE\!\!』で堀江が言及したこともある\[1\]。また、元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")がアニメ好きになる原因となったと同時に芸能界に入るきっかけの一つである事を渡辺が堀江との対談で明かしている\[2\]。
+「Love Destiny」は、『シスター・プリンセス』の原作出版元である[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")の社歌という噂があり、同社のイベント『DENGEKI MUSIC LIVE\!\!』で堀江が言及したこともある\[1\]。また、元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")がアニメ好きになる原因となったと同時に芸能界に入るきっかけの一つである事を渡辺が堀江との対談で明かしている\[2\]。
 
 「翼」は、声優の[竹達彩奈](../Page/竹達彩奈.md "wikilink")が、自身のソロライブにてカバーし、「声優になるのを頑張ろうと思える、希望みたいな形になった、思い出の大事な曲」と評した\[3\]。
 

@@ -80,7 +80,7 @@
 
 ## 外部リンク
 
-  - [NHK杯栄光の記録](http://www.jpn-gym.or.jp/association/history/data/art_his_nhk.html)（[日本体操協会](https://ja.wikipedia.org/wiki/日本体操協会 "wikilink")）
+  - [NHK杯栄光の記録](http://www.jpn-gym.or.jp/association/history/data/art_his_nhk.html)（[日本体操協会](../Page/日本体操協会.md "wikilink")）
 
 [Category:日本の体操競技大会](https://ja.wikipedia.org/wiki/Category:日本の体操競技大会 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink")
 

@@ -36,7 +36,7 @@
 
 **LOST REASON**
 
-  - abingodon boys school (feat. [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") from [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))
+  - abingodon boys school (feat. [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))
   - Teaching Materials
   - FAMILY TREE 〜Side Works Collection Vol.1〜 (feat. MICRO from HOME MADE 家族)
 

@@ -23,7 +23,7 @@
 
 1.  **Overture**［2:20］
       -
-        Rap詞：[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        Rap詞：[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 2.  **夏の名前**［4:34］
       -
         作詞：hamai、Rap詞：櫻井翔、作曲：原田勝通、編曲：ha-j，吉岡たく

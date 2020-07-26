@@ -156,7 +156,7 @@
   - 江口：[小林でび](https://ja.wikipedia.org/wiki/小林でび "wikilink")（3、4）
   - 瀬田医院長：[大嶋守立](https://ja.wikipedia.org/wiki/大嶋守立 "wikilink")（3、4）
   - 鬼頭教官：[橋本亜紀](https://ja.wikipedia.org/wiki/橋本亜紀 "wikilink")（2、5）
-  - 白川所長：[根岸大介](https://ja.wikipedia.org/wiki/根岸大介 "wikilink")（5）
+  - 白川所長：[根岸大介](../Page/根岸大介.md "wikilink")（5）
   - トモヒロ：[加藤トモヒロ](https://ja.wikipedia.org/wiki/加藤トモヒロ "wikilink")（5）
   - ズイマロ：[粟島瑞丸](../Page/粟島瑞丸.md "wikilink")（5）
   - エリカ：[田井中蘭](../Page/宇佐美蘭.md "wikilink")（6）
@@ -217,7 +217,7 @@
         作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink") 作曲・編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") 歌：[結城アイラ](../Page/結城アイラ.md "wikilink")
     「Follow you 〜君とともに〜」（スペシャルエピソードのテーマ）
       -
-        作詞・作曲：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") 編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") 歌：影山ヒロノブ
+        作詞・作曲：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") 編曲：[須藤賢一](../Page/須藤賢一.md "wikilink") 歌：影山ヒロノブ
   - 挿入歌
     「[アウトサイダー](https://ja.wikipedia.org/wiki/Instinct "wikilink")」
       -

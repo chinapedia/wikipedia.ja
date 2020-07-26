@@ -1,7 +1,7 @@
 > この記事は[URALi](https://ja.wikipedia.org/wiki/URALi)から翻訳されています。
 
 
-**URALi**（ウラリ）は[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ヒップホップグループ「[D-ST.ENT.](https://ja.wikipedia.org/wiki/D-ST.ENT. "wikilink")」の一員。1996年より活動開始。2004年[コロムビアミュージックエンタテインメントよりソロデビュー](../Page/日本コロムビア.md "wikilink")。2009年までは、**NORISIAM-X**（ノリシャム・エックス）という名前で活動していた。その後URALiへと改名。アルバムを3枚リリースしている。
+**URALi**（ウラリ）は[京都](../Page/京都.md "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ヒップホップグループ「[D-ST.ENT.](https://ja.wikipedia.org/wiki/D-ST.ENT. "wikilink")」の一員。1996年より活動開始。2004年[コロムビアミュージックエンタテインメントよりソロデビュー](../Page/日本コロムビア.md "wikilink")。2009年までは、**NORISIAM-X**（ノリシャム・エックス）という名前で活動していた。その後URALiへと改名。アルバムを3枚リリースしている。
 
 ## ディスコグラフィー
 

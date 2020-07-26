@@ -9,7 +9,7 @@
 
 結成からわずか半年でゲストアーティストとして多数のイベントに出演するなど、CLUB シーンにおいて大きな注目を集めていた。さらに[rhythm zoneによって開催された史上最大級のクラブオーディション](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、"STARZ AUDITION"において大阪地区で見事に準優勝を果たした。オーディション応募5,000組以上の中から最終選考まで勝ち残り、2006年3月には[Zepp](../Page/Zepp.md "wikilink")大阪にて約2,000人の観客の前でライブを行った。
 
-その"STARZ AUDITION"に参加した全国各地のアーティストが集結して出来たコンピレーションアルバム『STARZ FILE』では、1曲目にRemark Spirits「Freeway」が収録されている。また、2006年12月16日に[代々木競技場第一体育館で行われた史上最大級のインドアフェスティバル](../Page/国立代々木競技場.md "wikilink")“Rhythm Nation 2006”へ[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")としての出演を果たした。 現在、[大阪](../Page/大阪.md "wikilink")・[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")を中心に関西地区で活動中。2007年7月4日、Debut EP「Freeway」でメジャーデビュー。
+その"STARZ AUDITION"に参加した全国各地のアーティストが集結して出来たコンピレーションアルバム『STARZ FILE』では、1曲目にRemark Spirits「Freeway」が収録されている。また、2006年12月16日に[代々木競技場第一体育館で行われた史上最大級のインドアフェスティバル](../Page/国立代々木競技場.md "wikilink")“Rhythm Nation 2006”へ[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")としての出演を果たした。 現在、[大阪](../Page/大阪.md "wikilink")・[京都](../Page/京都.md "wikilink")を中心に関西地区で活動中。2007年7月4日、Debut EP「Freeway」でメジャーデビュー。
 
 2009年2月11日のライブを最後に活動休止中。
 

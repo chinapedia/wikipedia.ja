@@ -11,7 +11,7 @@
 
 視聴者から投稿された画像、動画は、[アッキーナ](https://ja.wikipedia.org/wiki/アッキーナ "wikilink")（南明奈）の独断と偏見で『G（ぐ）』『GR（ぐる）』『GRE（ぐれ）』『GREA（ぐれあ）』『GREAT（ぐれーと）』と5段階評価が下される。
 
-後番組は[モバタレGREAT](https://ja.wikipedia.org/wiki/モバタレGREAT "wikilink")。出演者はそのまま引き継がれた。
+後番組は[モバタレGREAT](../Page/モバタレGREAT.md "wikilink")。出演者はそのまま引き継がれた。
 
 ## 出演者
 

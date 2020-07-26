@@ -76,7 +76,7 @@
 
 #### 画集
 
-  - ソードアート・オンライン abec画集「abec Art Works」（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2016年1月発行） ISBN 978-4-04-865709-9
+  - ソードアート・オンライン abec画集「abec Art Works」（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、2016年1月発行） ISBN 978-4-04-865709-9
 
 #### ゲーム
 

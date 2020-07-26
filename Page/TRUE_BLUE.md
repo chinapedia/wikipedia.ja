@@ -5,7 +5,7 @@
 
 ## 音楽
 
-  - [マドンナの](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にリリースされた[アルバム](../Page/アルバム.md "wikilink")。 ⇒ **[トゥルー・ブルー](../Page/トゥルー・ブルー.md "wikilink")** を参照。
+  - [マドンナの](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")[1986年](../Page/1986年.md "wikilink")にリリースされた[アルバム](../Page/アルバム.md "wikilink")。 ⇒ **[トゥルー・ブルー](../Page/トゥルー・ブルー.md "wikilink")** を参照。
       - 上記のアルバムからの[シングル](../Page/シングル.md "wikilink")。 ⇒ **[トゥルー・ブルー (曲)](https://ja.wikipedia.org/wiki/トゥルー・ブルー_\(曲\) "wikilink")** を参照。
   - [沢田研二](../Page/沢田研二.md "wikilink")の25枚目のアルバム。 ⇒ **[TRUE BLUE (沢田研二のアルバム)](../Page/TRUE_BLUE_\(沢田研二のアルバム\).md "wikilink")** を参照。
       - [沢田研二](../Page/沢田研二.md "wikilink")の50枚目のシングル。上記の先行シングル。 ⇒ **[TRUE BLUE (沢田研二の曲)](../Page/TRUE_BLUE_\(沢田研二の曲\).md "wikilink")** を参照。

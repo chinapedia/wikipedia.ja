@@ -17,7 +17,7 @@
       - シングル「[遠い街のどこかで…](../Page/遠い街のどこかで….md "wikilink")」カップリング
 3.  **[Midnight Taxi](../Page/Midnight_Taxi.md "wikilink")**
 4.  **[JUST MY LOVER](https://ja.wikipedia.org/wiki/CATCH_THE_NITE#収録曲 "wikilink")**
-      - アルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』収録曲
+      - アルバム『[CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")』収録曲
 5.  **[女神たちの冒険](../Page/女神たちの冒険.md "wikilink") (A. CAPPELA Version)**
 6.  **[野蛮な宝石](https://ja.wikipedia.org/wiki/Jeweluna#収録曲 "wikilink")**
       - アルバム『[Jeweluna](../Page/Jeweluna.md "wikilink")』収録曲
@@ -29,7 +29,7 @@
       - シングル「[人魚姫 mermaid](https://ja.wikipedia.org/wiki/人魚姫_\(中山美穂の曲\) "wikilink")」カップリング
 10. **ラストシーンに愛をこめて**
       - [倉橋ルイ子](../Page/倉橋ルイ子.md "wikilink")のカバー
-      - [VIRGIN FLIGHT '86 中山美穂ファースト・コンサートにも収録されている](https://ja.wikipedia.org/wiki/VIRGIN_FLIGHT_'86_中山美穂ファースト・コンサート "wikilink")。
+      - [VIRGIN FLIGHT '86 中山美穂ファースト・コンサートにも収録されている](../Page/VIRGIN_FLIGHT_'86_中山美穂ファースト・コンサート.md "wikilink")。
 11. **[The Rose](https://ja.wikipedia.org/wiki/ローズ_\(ベット・ミドラーの曲\) "wikilink")**
       - [ベット・ミドラー](https://ja.wikipedia.org/wiki/ベット・ミドラー "wikilink")のカバー
 12. **[あなたになら…](../Page/あなたになら….md "wikilink")**

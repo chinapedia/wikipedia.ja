@@ -14,7 +14,7 @@
   - ジャケットの写真はキングレコードの本社やスタジオのある[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")[音羽](../Page/音羽.md "wikilink")・[関口](../Page/関口.md "wikilink")周辺で撮影された。
   - 今作と同時に[童謡](../Page/童謡.md "wikilink")アルバム『[林原めぐみ たのしいどうよう](https://ja.wikipedia.org/wiki/林原めぐみ_たのしいどうよう "wikilink")』もリリースされた。
   - コーラスには林原自ら参加し、他に「[Give a reason](../Page/Give_a_reason.md "wikilink") 〜Ballade Version〜」にはコーラスアレンジも手掛けてる[高橋洋子が](../Page/高橋洋子_\(歌手\).md "wikilink")、「旋律」には[meg rockが参加している](../Page/日向めぐみ.md "wikilink")。
-  - 「4月の雪」は岡崎律子が歌ったテレビアニメ「[魔法のプリンセスミンキーモモ](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")（新）」イメージソング新録盤のカバー曲であるアレンジは岡崎のアルバム『[A Happy Life](https://ja.wikipedia.org/wiki/A_Happy_Life "wikilink")』に収録されている音源と同じである。
+  - 「4月の雪」は岡崎律子が歌ったテレビアニメ「[魔法のプリンセスミンキーモモ](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")（新）」イメージソング新録盤のカバー曲であるアレンジは岡崎のアルバム『[A Happy Life](../Page/A_Happy_Life.md "wikilink")』に収録されている音源と同じである。
   - 「旋律」は林原が岡崎律子を追慕するため作詞,作曲した歌と直接話した。
 
 ## 収録曲

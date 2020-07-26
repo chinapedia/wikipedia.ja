@@ -29,7 +29,7 @@
       - 作詞：畑亜貴、作曲：宮島律子、編曲：[渡部チェル](../Page/渡部チェル.md "wikilink")
 7.  **アクビ娘**
       - テレビアニメ『[よばれてとびでて\!アクビちゃん](../Page/よばれてとびでて!アクビちゃん.md "wikilink")』エンディング主題歌
-      - 作詞：[丘灯至夫](../Page/丘灯至夫.md "wikilink")、作曲：和田香苗、編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - 作詞：[丘灯至夫](../Page/丘灯至夫.md "wikilink")、作曲：和田香苗、編曲：[須藤賢一](../Page/須藤賢一.md "wikilink")
 8.  **[Lip to Love](https://ja.wikipedia.org/wiki/D.C.〜ダ・カーポ〜_Vocal_Selection#Vol.1_Ribbons_&_Candies "wikilink")**
       - テレビアニメ『D.C. 〜ダ・カーポ〜』朝倉音夢キャラクターソング
       - 作詞・作曲：[rino](https://ja.wikipedia.org/wiki/rino "wikilink")、編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")

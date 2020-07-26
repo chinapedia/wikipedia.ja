@@ -55,7 +55,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
 <td><p>東京都</p></td>
 <td><p>A型</p></td>
-<td><p>歴代唯一の<a href="https://ja.wikipedia.org/wiki/オスカープロモーション" title="wikilink">オスカープロモーション</a>所属者からの起用</p></td>
+<td><p>歴代唯一の<a href="../Page/オスカープロモーション.md" title="wikilink">オスカープロモーション</a>所属者からの起用</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田千晃" title="wikilink">吉田千晃</a><br />
@@ -210,7 +210,7 @@
 <tr class="odd">
 <td><p><a href="../Page/松林菜々見.md" title="wikilink">松林菜々見</a><br />
 <small>（まつばやし ななみ）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
 <td><p>東京都</p></td>
 <td><p>O型</p></td>
 <td></td>
@@ -294,7 +294,7 @@
 <tr class="odd">
 <td><p><a href="../Page/志摩夕里加.md" title="wikilink">志摩夕里加</a><br />
 <small>（しま ゆりか）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p>B型</p></td>
 <td><p><a href="../Page/2007年のSUPER_GT.md" title="wikilink">2007年SUPER GTイメージガール</a>「<a href="../Page/Shiny.md" title="wikilink">Shiny</a>」メンバー<br />
@@ -370,12 +370,12 @@
 <a href="../Page/日テレジェニック.md" title="wikilink">日テレジェニック</a>2011</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/黒沢琴美" title="wikilink">黒沢琴美</a><br />
+<td><p><a href="../Page/黒沢琴美.md" title="wikilink">黒沢琴美</a><br />
 <small>（くろさわ ことみ）</small></p></td>
 <td><p><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
 <td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
 <td><p>A型</p></td>
-<td><p>2006年<a href="../Page/スーパー耐久.md" title="wikilink">スーパー耐久</a>イメージガール「<a href="https://ja.wikipedia.org/wiki/St.Cherish" title="wikilink">St.Cherish</a>」メンバー</p></td>
+<td><p>2006年<a href="../Page/スーパー耐久.md" title="wikilink">スーパー耐久</a>イメージガール「<a href="../Page/St.Cherish.md" title="wikilink">St.Cherish</a>」メンバー</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山内智恵.md" title="wikilink">山内智恵</a><br />
@@ -396,7 +396,7 @@
 <tr class="odd">
 <td><p><a href="../Page/稲垣慶子.md" title="wikilink">稲垣慶子</a><br />
 <small>（いながき けいこ）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p>A型</p></td>
 <td></td>
@@ -404,7 +404,7 @@
 <tr class="even">
 <td><p><a href="../Page/柴田菜月.md" title="wikilink">柴田菜月</a><br />
 <small>（しばた なつき）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/1月4日.md" title="wikilink">1月4日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/1月4日.md" title="wikilink">1月4日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td><p>O型</p></td>
 <td></td>
@@ -412,7 +412,7 @@
 </tbody>
 </table>
 
-前年同様の8人編成だったが、ビジュアルチームとエンタメチームへの分割はなかった。当時[スタイルコーポレーション](https://ja.wikipedia.org/wiki/スタイルコーポレーション "wikilink")に所属していたレースクイーン（黒沢、山内）が選ばれた唯一の年。
+前年同様の8人編成だったが、ビジュアルチームとエンタメチームへの分割はなかった。当時[スタイルコーポレーション](../Page/スタイルコーポレーション.md "wikilink")に所属していたレースクイーン（黒沢、山内）が選ばれた唯一の年。
 
 ### 2009年
 
@@ -457,7 +457,7 @@
 <tr class="even">
 <td><p><a href="../Page/古崎瞳.md" title="wikilink">古崎瞳</a><br />
 <small>（ふるさき ひとみ）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/5月27日.md" title="wikilink">5月27日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/5月27日.md" title="wikilink">5月27日</a></p></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p>A型</p></td>
 <td></td>
@@ -526,7 +526,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/新田梢恵" title="wikilink">新田梢恵</a><br />
 <small>（にった こずえ）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/2月4日.md" title="wikilink">2月4日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/2月4日.md" title="wikilink">2月4日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td><p>A型</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年のSUPER_GT" title="wikilink">2010年SUPER GTイメージガール</a>「<a href="https://ja.wikipedia.org/wiki/G☆RACE" title="wikilink">G☆RACE</a>」メンバー</p></td>
@@ -623,7 +623,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/前田真麻" title="wikilink">前田真麻</a><br />
 <small>（まえだ まあさ）</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p>A型</p></td>
 <td></td>

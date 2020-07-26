@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Matrox_m3D_\(Rev_757-00B\).png "wikilink") m3D\]\] **PowerVR**（パワーブイアール）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ファブレス](../Page/ファブレス.md "wikilink")企業である[ビデオロジック](https://ja.wikipedia.org/wiki/ビデオロジック "wikilink")（現：）が開発した、[グラフィックコントローラ](../Page/グラフィックコントローラ.md "wikilink")[IPコア](../Page/IPコア.md "wikilink")およびそれを[集積回路](../Page/集積回路.md "wikilink")として実装したグラフィックチップである。チップ製造は[NECや](../Page/日本電気.md "wikilink")[STマイクロエレクトロニクス](../Page/STマイクロエレクトロニクス.md "wikilink")\[1\]等が行なってきた。当初、メインターゲットとされていた[パソコン用](../Page/パーソナルコンピュータ.md "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")としては、ほとんど普及しなかったが、比較的メモリへの負荷が少ないというその特徴から、家庭用[ゲーム機](../Page/ゲーム機.md "wikilink")および[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、[携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA)、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")といった[組み込みシステム](../Page/組み込みシステム.md "wikilink")に広く採用されている。
 
-また [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")、Apple Axシリーズ、[Texas Instruments OMAP](../Page/Texas_Instruments_OMAP.md "wikilink") などに GPU として組み込まれ、携帯電話・タブレットなどに広く採用されている。
+また [Intel Atom](../Page/Intel_Atom.md "wikilink")、Apple Axシリーズ、[Texas Instruments OMAP](../Page/Texas_Instruments_OMAP.md "wikilink") などに GPU として組み込まれ、携帯電話・タブレットなどに広く採用されている。
 
 特徴は、[Zバッファ](../Page/Zバッファ.md "wikilink")法で通常行なうような「手前にある物体は上書きする」という方式を採らず、「一番手前の物体しか描画しない」という手法により、Zバッファ用のメモリをほぼ不要にした点である。タイル単位でこの処理を行なうことから "tile-based deferred rendering" と呼んでおり、TBDRと略す（詳細は[w:Tiled renderingを参照](https://ja.wikipedia.org/wiki/w:Tiled_rendering "wikilink")）。2009年現在、[OpenGL ESの](../Page/OpenGL_ES.md "wikilink")[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")や、[H.264](../Page/H.264.md "wikilink")や[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")などの動画コーデックに対応した高機能な製品をリリースしている。
 
@@ -17,7 +17,7 @@
 [PowerVR3 KYRO II](https://ja.wikipedia.org/wiki/画像:STMicroelectronics_STG4500_\(PowerVR_Kyro_II\).png "wikilink")
 
   - PowerVR シリーズ3
-    2000年、[KYRO](https://ja.wikipedia.org/wiki/KYRO "wikilink")発表。KYRO IIは2001年発表。KYROのバグフィックスとクロックアップ。
+    2000年、[KYRO](../Page/KYRO.md "wikilink")発表。KYRO IIは2001年発表。KYROのバグフィックスとクロックアップ。
   - PowerVR シリーズ4
     PowerVR シリーズ5
     PowerVR VXD370

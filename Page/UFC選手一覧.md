@@ -146,14 +146,14 @@
   - [エリク・アンダース](https://ja.wikipedia.org/wiki/エリク・アンダース "wikilink")（）
   - [岡見勇信](../Page/岡見勇信.md "wikilink")（）
   - [カリブ・スターンズ](../Page/カリブ・スターンズ.md "wikilink")（）
-  - [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（）
+  - [カン・リー](../Page/カン・リー.md "wikilink")（）
   - [クリス・ワイドマン](https://ja.wikipedia.org/wiki/クリス・ワイドマン "wikilink")（）
   - [ケルヴィン・ガステラム](https://ja.wikipedia.org/wiki/ケルヴィン・ガステラム "wikilink")（）
   - [ケンドール・グローブ](../Page/ケンドール・グローブ.md "wikilink")（）
   - [CB・ダラウェイ](../Page/CB・ダラウェイ.md "wikilink")（）
   - [ジェイソン・デイ](../Page/ジェイソン・デイ_\(総合格闘家\).md "wikilink")（）
   - [ジェイソン・マクドナルド](../Page/ジェイソン・マクドナルド.md "wikilink")（）
-  - [ジェイソン・ミラー](https://ja.wikipedia.org/wiki/ジェイソン・ミラー "wikilink")（）
+  - [ジェイソン・ミラー](../Page/ジェイソン・ミラー.md "wikilink")（）
   - [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")（）
   - [ジャスティン・レヴェンス](https://ja.wikipedia.org/wiki/ジャスティン・レヴェンス "wikilink")（）
   - [ジャレッド・キャノニア](https://ja.wikipedia.org/wiki/ジャレッド・キャノニア "wikilink")（）
@@ -212,10 +212,10 @@
   - [ジェス・リアウディン](../Page/ジェス・リアウディン.md "wikilink")（）
   - [ジェイク・エレンバーガー](https://ja.wikipedia.org/wiki/ジェイク・エレンバーガー "wikilink")（）
   - [ジェイク・シールズ](../Page/ジェイク・シールズ.md "wikilink")（）
-  - [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")（）
+  - [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")（）
   - [ショーニー・カーター](https://ja.wikipedia.org/wiki/ショーニー・カーター "wikilink")（）
   - [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink")（）
-  - [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink")（）
+  - [ジョシュ・バークマン](../Page/ジョシュ・バークマン.md "wikilink")（）
   - [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink")（）
   - [ジョニー・ヘンドリックス](https://ja.wikipedia.org/wiki/ジョニー・ヘンドリックス "wikilink")（）
   - [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")（）
@@ -229,7 +229,7 @@
   - [タムダン・マクローリー](../Page/タムダン・マクローリー.md "wikilink")（）
   - [ダレン・ティル](https://ja.wikipedia.org/wiki/ダレン・ティル "wikilink")（）
   - [ダン・ハーディー](../Page/ダン・ハーディー.md "wikilink")（）
-  - [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink")（）
+  - [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink")（）
   - [長南亮](../Page/長南亮.md "wikilink")（）
   - [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")（）
   - [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink")（）
@@ -321,7 +321,7 @@
   - [徳留一樹](https://ja.wikipedia.org/wiki/徳留一樹 "wikilink")（）
   - [ドナルド・セラーニ](https://ja.wikipedia.org/wiki/ドナルド・セラーニ "wikilink")（）
   - [トニー・ファーガソン](https://ja.wikipedia.org/wiki/トニー・ファーガソン "wikilink")()
-  - [ネイト・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink")（）
+  - [ネイト・ディアス](../Page/ネイト・ディアス.md "wikilink")（）
   - [ノーマン・パーク](https://ja.wikipedia.org/wiki/ノーマン・パーク "wikilink")（）
   - [ハビブ・ヌルマゴメドフ](https://ja.wikipedia.org/wiki/ハビブ・ヌルマゴメドフ "wikilink")（）
   - [ハファエウ・ドス・アンジョス](https://ja.wikipedia.org/wiki/ハファエウ・ドス・アンジョス "wikilink")（）

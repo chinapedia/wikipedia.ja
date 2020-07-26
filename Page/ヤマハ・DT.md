@@ -15,7 +15,7 @@
 
 ### トレール250DT-1
 
-[Yamaha_DT-1_250.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_DT-1_250.jpg "fig:Yamaha_DT-1_250.jpg") [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に国産初のオフロード専用設計公道用市販車として登場。249cc空冷2スト単気筒は18.5馬力を発生。モトクロッサーYX26がルーツ。正式な市販車であるにもかかわらず最初期型にはウインカーの装備がなく、後のモデルになってから標準装備とされた。D＝250cc、T=トレールを表す。グッドデザイン賞を受賞。
+[Yamaha_DT-1_250.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_DT-1_250.jpg "fig:Yamaha_DT-1_250.jpg") [1968年](../Page/1968年.md "wikilink")に国産初のオフロード専用設計公道用市販車として登場。249cc空冷2スト単気筒は18.5馬力を発生。モトクロッサーYX26がルーツ。正式な市販車であるにもかかわらず最初期型にはウインカーの装備がなく、後のモデルになってから標準装備とされた。D＝250cc、T=トレールを表す。グッドデザイン賞を受賞。
 
 ### DT250
 

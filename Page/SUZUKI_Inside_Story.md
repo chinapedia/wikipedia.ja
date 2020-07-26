@@ -5,7 +5,7 @@
 
 ## 放送時間
 
-  - 8:00 - 8:09 （「[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")」「[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")」の1コーナーの扱い）
+  - 8:00 - 8:09 （「[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")」「[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")」の1コーナーの扱い）
 
 [エフエム群馬](../Page/エフエム群馬.md "wikilink")、[エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")、[radio CUBE FM三重を除いた](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")35局で放送されていた。
 
@@ -28,7 +28,7 @@
   -
     ヒッチハイク枠の20秒CMは、各局によって放送されるCMが異なる。[FM OSAKA](../Page/エフエム大阪.md "wikilink")、[e-radioではアースコンシャス関連](../Page/エフエム滋賀.md "wikilink")、[Kiss-FM KOBEでは全国の民放ラジオ](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")・テレビまたは[BPO](https://ja.wikipedia.org/wiki/放送倫理番組向上機構 "wikilink")、[HFMではローカルCM](../Page/広島エフエム放送.md "wikilink")、[FM香川](https://ja.wikipedia.org/wiki/FM香川 "wikilink")では[OPEN SESAME\!などの番宣となる](https://ja.wikipedia.org/wiki/OPEN_SESAME! "wikilink")。「SUZUKI Future Navi」時代から流れている。
 
-過去にはカウキャッチャー枠で[ジョージア缶コーヒー](https://ja.wikipedia.org/wiki/ジョージア缶コーヒー "wikilink")（2007年12月～3月）、ヒッチハイク枠で[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（スキップサービス 10秒）（2007年12月～2008年1月第3週）、アースコンシャス関連（10秒）（ANAと同じ）、[カーコンビニ倶楽部](../Page/カーコンビニ倶楽部.md "wikilink")（2008年4月）、[シートベルト・チャイルドシート着用推進協議会](https://ja.wikipedia.org/wiki/シートベルト・チャイルドシート着用推進協議会 "wikilink")（2008年6月第1週）、番宣（2008年1月第4週～3月・6月第1週・6月23日～30日）、[サノフィ・アベンティス](https://ja.wikipedia.org/wiki/サノフィ・アベンティス "wikilink")（2008年5月19日～30日・6月23日～7月18日）が流れた。
+過去にはカウキャッチャー枠で[ジョージア缶コーヒー](https://ja.wikipedia.org/wiki/ジョージア缶コーヒー "wikilink")（2007年12月～3月）、ヒッチハイク枠で[ANA](../Page/全日本空輸.md "wikilink")（スキップサービス 10秒）（2007年12月～2008年1月第3週）、アースコンシャス関連（10秒）（ANAと同じ）、[カーコンビニ倶楽部](../Page/カーコンビニ倶楽部.md "wikilink")（2008年4月）、[シートベルト・チャイルドシート着用推進協議会](https://ja.wikipedia.org/wiki/シートベルト・チャイルドシート着用推進協議会 "wikilink")（2008年6月第1週）、番宣（2008年1月第4週～3月・6月第1週・6月23日～30日）、[サノフィ・アベンティス](https://ja.wikipedia.org/wiki/サノフィ・アベンティス "wikilink")（2008年5月19日～30日・6月23日～7月18日）が流れた。
 
 ## 関連項目
 

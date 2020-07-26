@@ -177,7 +177,7 @@ Yahoo\! JAPANのアカウントにファミマTカードの登録がされてい
 
 ### プリペイド式電子マネー
 
-JCBカード扱いで、交通系の[モバイルSuica](../Page/モバイルSuica.md "wikilink")・[SMART ICOCA](../Page/SMART_ICOCA.md "wikilink")・[SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")、流通系の[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")に対応。 おサイフケータイや券売機でのチャージは、レジ経由の場合と異なり通常ショッピングに準ずるクレジットポイントが貯まる。
+JCBカード扱いで、交通系の[モバイルSuica](../Page/モバイルSuica.md "wikilink")・[SMART ICOCA](../Page/SMART_ICOCA.md "wikilink")・[SAPICA](../Page/SAPICA.md "wikilink")、流通系の[nanaco](https://ja.wikipedia.org/wiki/nanaco "wikilink")に対応。 おサイフケータイや券売機でのチャージは、レジ経由の場合と異なり通常ショッピングに準ずるクレジットポイントが貯まる。
 
 ## 限定カード
 

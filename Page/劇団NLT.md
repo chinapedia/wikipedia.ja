@@ -7,7 +7,7 @@
 
 1963年（昭和38年）12月に[文学座](../Page/文学座.md "wikilink")を退座した[青野平義](../Page/青野平義.md "wikilink")、[三島由紀夫](https://ja.wikipedia.org/wiki/三島由紀夫 "wikilink")、[賀原夏子](../Page/賀原夏子.md "wikilink")、[中村伸郎](../Page/中村伸郎.md "wikilink")、[南美江](../Page/南美江.md "wikilink")、[丹阿弥谷津子](../Page/丹阿弥谷津子.md "wikilink")、[矢代静一](../Page/矢代静一.md "wikilink")らにより、1964年（昭和39年）1月10日に「**グループNLT**」として結成された。NLTとは 「Neo Litterature Theatre」（日本語では新文学座）の頭文字をとったもので、名付け親は[岩田豊雄](https://ja.wikipedia.org/wiki/岩田豊雄 "wikilink")（[獅子文六](../Page/獅子文六.md "wikilink")）。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）、賀原らとの路線対立から、三島、中村、南らが「グループNLT」を脱退したことにより、現在の「劇団NLT」に名称が変更され、[喜劇](../Page/喜劇.md "wikilink")専門の劇団となる。この時より「[コメディ路線](../Page/喜劇.md "wikilink")」を歩み始めたとしている。脱退した三島らは同年の4月17日に「[浪曼劇場](../Page/浪曼劇場.md "wikilink")」を正式結成した。
+[1968年](../Page/1968年.md "wikilink")（昭和43年）、賀原らとの路線対立から、三島、中村、南らが「グループNLT」を脱退したことにより、現在の「劇団NLT」に名称が変更され、[喜劇](../Page/喜劇.md "wikilink")専門の劇団となる。この時より「[コメディ路線](../Page/喜劇.md "wikilink")」を歩み始めたとしている。脱退した三島らは同年の4月17日に「[浪曼劇場](../Page/浪曼劇場.md "wikilink")」を正式結成した。
 
 賀原を中心として、主にブールヴァール（フランス喜劇）を上演。賀原の死後も、この路線は踏襲されている。また、[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")が「劇団NLT」としての旗揚げ公演に客演して以来、多くの公演に出演している。
 
@@ -19,7 +19,7 @@
 
 ## 受賞歴
 
-1965年 「[サド侯爵夫人](https://ja.wikipedia.org/wiki/サド侯爵夫人 "wikilink")」で[昭和40年](https://ja.wikipedia.org/wiki/昭和40年 "wikilink")度[芸術祭演劇部門賞受賞](../Page/芸術祭_\(文化庁\).md "wikilink")。
+1965年 「[サド侯爵夫人](../Page/サド侯爵夫人.md "wikilink")」で[昭和40年](https://ja.wikipedia.org/wiki/昭和40年 "wikilink")度[芸術祭演劇部門賞受賞](../Page/芸術祭_\(文化庁\).md "wikilink")。
 
 1966年 「[リュイ・ブラス](https://ja.wikipedia.org/wiki/リュイ・ブラース "wikilink")」における演技で[村松英子](../Page/村松英子.md "wikilink")が第1回[紀伊国屋演劇賞受賞](../Page/紀伊國屋演劇賞.md "wikilink")。
 

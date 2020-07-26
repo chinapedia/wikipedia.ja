@@ -41,7 +41,7 @@
   - [探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
   - [ごきげん\!ブランニュ](../Page/ごきげん!ブランニュ.md "wikilink")（朝日放送）
   - [あさパラ\!](../Page/あさパラ!.md "wikilink")(読売テレビ)
-  - [今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")（朝日放送）
+  - [今ちゃんの「実は…」](../Page/今ちゃんの「実は…」.md "wikilink")（朝日放送）
   - [東西芸人いきなり\!2人旅](https://ja.wikipedia.org/wiki/東西芸人いきなり!2人旅 "wikilink")（朝日放送）
 
 ほか

@@ -18,7 +18,7 @@ Cy-Rim rev.の活動休止から1週間後、2010年6月25日に発売されたP
 ### シングル
 
 1.  [恋のDice☆教えて](https://ja.wikipedia.org/wiki/恋のDice☆教えて "wikilink")（2007年7月27日）
-2.  [恋のロイヤル☆ストレートフラッシュ](https://ja.wikipedia.org/wiki/恋のロイヤル☆ストレートフラッシュ "wikilink")（2008年2月14日）
+2.  [恋のロイヤル☆ストレートフラッシュ](../Page/恋のロイヤル☆ストレートフラッシュ.md "wikilink")（2008年2月14日）
 3.  [Fly High\!](https://ja.wikipedia.org/wiki/Fly_High! "wikilink")（2009年1月30日）
     1.  Rumbling DICE of love. -Cy-Core Ver.-
     2.  Fly High\!（『空を飛ぶ、7つ目の魔法。』主題歌）

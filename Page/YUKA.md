@@ -25,7 +25,7 @@
 
 #### シングル
 
-1.  [お料理行進曲](https://ja.wikipedia.org/wiki/お料理行進曲 "wikilink")（1992年5月21日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
+1.  [お料理行進曲](../Page/お料理行進曲.md "wikilink")（1992年5月21日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
       - 『[キテレツ大百科](https://ja.wikipedia.org/wiki/キテレツ大百科_\(アニメ\) "wikilink")』オープニング。[C/Wは同エンディング曲](https://ja.wikipedia.org/wiki/コンパクトディスク#タイトル曲・カップリング曲 "wikilink")「HAPPY BIRTHDAY」。
 2.  未来の記憶（2002年12月4日、[ビクターレコード](https://ja.wikipedia.org/wiki/ビクターレコード "wikilink")）オリコン53位
     1.  未来の記憶\[4:14\]

@@ -31,7 +31,7 @@ ASU-85空挺自走砲の車台は、[ZSU-23-4 シルカ](../Page/ZSU-23-4.md "wi
 
 [1967年](../Page/1967年.md "wikilink")には生産は終了されたが、これは、後継となる[BMD空挺戦闘車シリーズの開発が進められたためである](../Page/BMD-1.md "wikilink")。
 
-[ソビエト空挺軍では](../Page/ロシア空挺軍.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで使用され、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月](../Page/8月.md "wikilink")の[チェコ動乱](../Page/プラハの春.md "wikilink")、[1979年](../Page/1979年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[アフガニスタン侵攻](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")にも投入されている。
+[ソビエト空挺軍では](../Page/ロシア空挺軍.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで使用され、[1968年](../Page/1968年.md "wikilink")[8月](../Page/8月.md "wikilink")の[チェコ動乱](../Page/プラハの春.md "wikilink")、[1979年](../Page/1979年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[アフガニスタン侵攻](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")にも投入されている。
 
 ソビエト以外では、小数が[ポーランド軍](../Page/ポーランド軍.md "wikilink")空挺部隊に供与された。 {{-}}
 

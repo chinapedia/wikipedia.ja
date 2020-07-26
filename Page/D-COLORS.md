@@ -66,9 +66,9 @@
   - [シゴフミ](../Page/シゴフミ.md "wikilink") （仕上げ、2008年）
   - [灼眼のシャナII（Second）](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink") （デジタル仕上げ、2008年）
   - [マクロスF](https://ja.wikipedia.org/wiki/マクロスF "wikilink") （仕上、2008年）
-  - [RD 潜脳調査室](https://ja.wikipedia.org/wiki/RD_潜脳調査室 "wikilink") （仕上げ、2008年）
+  - [RD 潜脳調査室](../Page/RD_潜脳調査室.md "wikilink") （仕上げ、2008年）
   - [To LOVEる -とらぶる-](../Page/To_LOVEる_-とらぶる-.md "wikilink") （仕上、2008年）
-  - [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink") （仕上げ、2008年-2011年）
+  - [遊☆戯☆王5D's](../Page/遊☆戯☆王5D's.md "wikilink") （仕上げ、2008年-2011年）
   - [xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink") （色指定検査・仕上、2008年）
   - [狂乱家族日記](../Page/狂乱家族日記.md "wikilink") （色指定検査・特殊効果・仕上、2008年）
   - [乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink") （ペイント、2008年）

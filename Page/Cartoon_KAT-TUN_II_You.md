@@ -1,7 +1,7 @@
 > この記事は[Cartoon KAT-TUN II You](https://ja.wikipedia.org/wiki/Cartoon_KAT-TUN_II_You)から翻訳されています。
 
 
-『**cartoon KAT-TUN II You**』（カートゥン カトゥーン トゥ ユー）は、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。また、2007年[5月9日](../Page/5月9日.md "wikilink")には[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でも発売された。
+『**cartoon KAT-TUN II You**』（カートゥン カトゥーン トゥ ユー）は、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。また、2007年[5月9日](../Page/5月9日.md "wikilink")には[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でも発売された。
 
 ## 概要
 

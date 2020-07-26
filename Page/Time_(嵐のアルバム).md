@@ -50,7 +50,7 @@
         作詞・作曲：[HYDRANT](https://ja.wikipedia.org/wiki/HYDRANT "wikilink")、Rap詞：櫻井翔、編曲：大坪直樹
 7.  **Carry on**［4:16］
       -
-        作詞：村野直球、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：村野直球、作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 8.  **ROCK YOU**［4:10］
       -
         作詞：youth case、Rap詞：櫻井翔、作曲・編曲：Takuya Harada

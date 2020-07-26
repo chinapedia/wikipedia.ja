@@ -5,7 +5,7 @@
 
 ## 概要
 
-2007年7月16日（14、15日は台風の影響で中止）に[静岡県](../Page/静岡県.md "wikilink")[つま恋にて開催された](../Page/つま恋リゾート_彩の郷.md "wikilink")[ap bank主催の野外音楽フェスティバル](https://ja.wikipedia.org/wiki/ap_bank "wikilink")『ap bank fes '07』のライブ映像やドキュメンタリー映像を収録している。なお、この収益はap bankの活動費に充てられる。また、出演した[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、[DEPAPEPE](../Page/DEPAPEPE.md "wikilink")、[藤巻亮太](../Page/藤巻亮太.md "wikilink")の映像は収録されていない。
+2007年7月16日（14、15日は台風の影響で中止）に[静岡県](../Page/静岡県.md "wikilink")[つま恋にて開催された](../Page/つま恋リゾート_彩の郷.md "wikilink")[ap bank主催の野外音楽フェスティバル](https://ja.wikipedia.org/wiki/ap_bank "wikilink")『ap bank fes '07』のライブ映像やドキュメンタリー映像を収録している。なお、この収益はap bankの活動費に充てられる。また、出演した[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")、[DEPAPEPE](../Page/DEPAPEPE.md "wikilink")、[藤巻亮太](../Page/藤巻亮太.md "wikilink")の映像は収録されていない。
 
 ## 収録曲
 
@@ -50,7 +50,7 @@
 ### Disc 3
 
 1.  **Documentary 8**
-2.  **[ええねん](https://ja.wikipedia.org/wiki/ええねん_\(曲\) "wikilink")** / [ウルフルズ](../Page/ウルフルズ.md "wikilink")
+2.  **[ええねん](../Page/ええねん_\(曲\).md "wikilink")** / [ウルフルズ](../Page/ウルフルズ.md "wikilink")
 3.  **[泣けてくる](../Page/両方_For_You.md "wikilink")** / ウルフルズ
 4.  **[ガッツだぜ\!\!](../Page/ガッツだぜ!!.md "wikilink")** / ウルフルズ
 5.  **Documentary 9**

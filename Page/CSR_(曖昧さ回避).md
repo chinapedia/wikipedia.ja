@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [CSR (企業)](https://ja.wikipedia.org/wiki/CSR_\(企業\) "wikilink") - イギリスの半導体製造企業。
+  - [CSR (企業)](../Page/CSR_\(企業\).md "wikilink") - イギリスの半導体製造企業。
   - [CSRコーポレーション](https://ja.wikipedia.org/wiki/CSRコーポレーション "wikilink") - 東京都港区に所在する芸能事務所。主にナレーター・声優が所属している。
   - [CSR (電気機器)](https://ja.wikipedia.org/wiki/CSR_\(電気機器\) "wikilink") - 神奈川県相模原市南区の電気機器メーカー。
   - [中国南車](https://ja.wikipedia.org/wiki/中国南車 "wikilink") - 中国の一つ鉄道車両製造販売国有企業である。英語社名**C**hina **S**outh Locomotive & **R**olling Stock Corporation Limitedの略称。

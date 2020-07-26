@@ -104,8 +104,8 @@
       - 刑務所用便器（C61/C75K/C75T5/C75AT4/C75AQW/C183K）(C61は[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")製造停止)
   - 特殊用途便器
       - 力士用便器（CZ432）
-      - 国鉄車両向け和風便器（C126/C126TQ）([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")製造停止)
-      - 国鉄車両向け腰掛便器（C41/C41TQ）([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")製造停止)
+      - 国鉄車両向け和風便器（C126/C126TQ）([1986年](../Page/1986年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")製造停止)
+      - 国鉄車両向け腰掛便器（C41/C41TQ）([1986年](../Page/1986年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")製造停止)
       - ヨット・マリーンボール用便器（C361）
       - パルコ向け床下給水和風便器（C75TB）
       - 他社へ供給している便器（C128特）

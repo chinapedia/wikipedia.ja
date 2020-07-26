@@ -17,7 +17,7 @@
     1.  火の鳥
     2.  青い林檎
     3.  火の鳥(instrumental)
-2.  **Mr.deja vu**（2003年5月21日）アニメ「[GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")」第3期EDエンディングテーマ
+2.  **Mr.deja vu**（2003年5月21日）アニメ「[GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")」第3期EDエンディングテーマ
     1.  Mr.deja vu
     2.  5【five】
     3.  Mr.deja vu(instrumental)

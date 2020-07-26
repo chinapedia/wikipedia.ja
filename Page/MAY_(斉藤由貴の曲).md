@@ -1,7 +1,7 @@
 > この記事は[MAY \(斉藤由貴の曲\)](https://ja.wikipedia.org/wiki/MAY_\(斉藤由貴の曲\))から翻訳されています。
 
 
-「**MAY**」（メイ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")に発売された[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")の通算8枚目の[シングル](../Page/シングル.md "wikilink")である\[1\]。
+「**MAY**」（メイ）は、[1986年](../Page/1986年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に発売された[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")の通算8枚目の[シングル](../Page/シングル.md "wikilink")である\[1\]。
 
 ## 解説
 

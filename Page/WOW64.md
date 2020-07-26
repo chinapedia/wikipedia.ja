@@ -1,7 +1,7 @@
 > この記事は[WOW64](https://ja.wikipedia.org/wiki/WOW64)から翻訳されています。
 
 
-**WOW64**（ワウ64、**W**indows 32-bit **O**n **W**indows **64**-bit）とは、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") ([x64](https://ja.wikipedia.org/wiki/x64 "wikilink")および[IA-64](../Page/IA-64.md "wikilink")) 版の[Microsoft Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Win32アプリケーションを実行する](../Page/Windows_API.md "wikilink")、[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")レイヤー・サブシステムである。
+**WOW64**（ワウ64、**W**indows 32-bit **O**n **W**indows **64**-bit）とは、[64ビット](../Page/64ビット.md "wikilink") ([x64](https://ja.wikipedia.org/wiki/x64 "wikilink")および[IA-64](../Page/IA-64.md "wikilink")) 版の[Microsoft Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Win32アプリケーションを実行する](../Page/Windows_API.md "wikilink")、[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")レイヤー・サブシステムである。
 
 ## 概要
 

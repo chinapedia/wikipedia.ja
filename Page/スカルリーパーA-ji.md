@@ -1,7 +1,7 @@
 > この記事は[スカルリーパーA-ji](https://ja.wikipedia.org/wiki/スカルリーパーA-ji)から翻訳されています。
 
 
-*' スカルリーパーA-ji*'（スカルリーパー・エイジ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[11月13日](../Page/11月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")、[政治家](../Page/政治家.md "wikilink")、[プロ雀士](../Page/麻雀.md "wikilink")。[大分市議会](https://ja.wikipedia.org/wiki/大分市議会 "wikilink")[議員](../Page/議員.md "wikilink")。
+*' スカルリーパーA-ji*'（スカルリーパー・エイジ、[1968年](../Page/1968年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")、[政治家](../Page/政治家.md "wikilink")、[プロ雀士](../Page/麻雀.md "wikilink")。[大分市議会](https://ja.wikipedia.org/wiki/大分市議会 "wikilink")[議員](../Page/議員.md "wikilink")。
 
 ## 経歴
 

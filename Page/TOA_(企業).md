@@ -20,7 +20,7 @@
   - [1957年](../Page/1957年.md "wikilink")（昭和32年）日本初のトランジスターメガホン（ER-57）を開発。
   - [1963年](../Page/1963年.md "wikilink")（昭和38年）日本初の自動血球計数器ミクロセルカウンター（CC-1001）を開発。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）大出力PA試験開発。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）東亞医用電子株式会社（現:[シスメックス](../Page/シスメックス.md "wikilink")株式会社）を設立。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）東亞医用電子株式会社（現:[シスメックス](../Page/シスメックス.md "wikilink")株式会社）を設立。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）非常用放送設備を開発。
   - [1977年](../Page/1977年.md "wikilink")（昭和52年）[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")市場第二部に新規上場。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）デジタルシグナルプロセッサー「SAORI」を開発。

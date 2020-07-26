@@ -5,7 +5,7 @@
 
 ## 開発背景
 
-[1970年代](../Page/1970年代.md "wikilink")に[G3に代わる次世代の](../Page/H&K_G3.md "wikilink")[自動小銃](../Page/自動小銃.md "wikilink")を求めた[西ドイツ](../Page/西ドイツ.md "wikilink")の要求を満たすため、[H\&K社が銃の設計を](../Page/ヘッケラー&コッホ.md "wikilink")、ダイナマイト・ノーベル社が[弾薬](../Page/弾薬.md "wikilink")の開発を受け持ち開発が進められた。[ケースレス弾は様々な](https://ja.wikipedia.org/wiki/ケースレス弾薬 "wikilink")[口径](../Page/口径.md "wikilink")のものが[試作されたが](../Page/プロトタイプ.md "wikilink")、最終的に[1981年](../Page/1981年.md "wikilink")-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にかけて開発された4.73x33mm DM11が採用された。
+[1970年代](../Page/1970年代.md "wikilink")に[G3に代わる次世代の](../Page/H&K_G3.md "wikilink")[自動小銃](../Page/自動小銃.md "wikilink")を求めた[西ドイツ](../Page/西ドイツ.md "wikilink")の要求を満たすため、[H\&K社が銃の設計を](../Page/ヘッケラー&コッホ.md "wikilink")、ダイナマイト・ノーベル社が[弾薬](../Page/弾薬.md "wikilink")の開発を受け持ち開発が進められた。[ケースレス弾は様々な](https://ja.wikipedia.org/wiki/ケースレス弾薬 "wikilink")[口径](../Page/口径.md "wikilink")のものが[試作されたが](../Page/プロトタイプ.md "wikilink")、最終的に[1981年](../Page/1981年.md "wikilink")-[1986年](../Page/1986年.md "wikilink")にかけて開発された4.73x33mm DM11が採用された。
 
 しかし、G11は汎用性のなさ、[冷戦](../Page/冷戦.md "wikilink")終結に伴う予算削減により少数が配備されたにとどまり、[ドイツ再統一](../Page/ドイツ再統一.md "wikilink")後の[ドイツ連邦軍](../Page/ドイツ連邦軍.md "wikilink")ではG3の後継として[G36が採用された](../Page/H&K_G36.md "wikilink")。
 

@@ -56,7 +56,7 @@
   - 宇宙忍猿ヒザール / 合体宇宙忍猿アシュラザール：[古田新太](../Page/古田新太.md "wikilink")
   - 宇宙忍猿ブリザール：[村岡弘之](../Page/村岡弘之.md "wikilink")（兼スーツアクター）
   - 下忍マゲラッパ、再生ヒゲナマ頭巾：[塩野勝美](../Page/塩野勝美.md "wikilink")
-  - 下忍マゲラッパ：[大村亨](https://ja.wikipedia.org/wiki/大村亨 "wikilink")、[穴井勇輝](https://ja.wikipedia.org/wiki/穴井勇輝 "wikilink")
+  - 下忍マゲラッパ：[大村亨](../Page/大村亨.md "wikilink")、[穴井勇輝](../Page/穴井勇輝.md "wikilink")
 
 ### スーツアクター
 

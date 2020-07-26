@@ -86,7 +86,7 @@ Invictus Gamesが開発した物理エンジンを使用しているため、車
   - 1997年式　[MR2](../Page/トヨタ・MR2.md "wikilink") GT-S（SW20）
   - 2006年式　[4ランナー(ハイラックスサーフ)Sport](../Page/トヨタ・ハイラックスサーフ.md "wikilink") 4wd
 
-**[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")**
+**[マツダ](../Page/マツダ.md "wikilink")**
 
   - 1985年式　[サバンナRX-7](../Page/マツダ・RX-7.md "wikilink") GTリミテッド日本仕様車（FC3S）
   - 1999年式　[クセドス6（ユーノス500)](../Page/マツダ・ユーノス500.md "wikilink")

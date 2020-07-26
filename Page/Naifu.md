@@ -23,7 +23,7 @@
     1978年4月15日生まれ。
     2001年、ELFを結成（それまでは[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドELF.I.REVUEで活動）。2枚のミニアルバムと1枚のオリジナルアルバムを発売するが、2006年に解散。
     Naifuへの加入をきっかけとして、[三枝夕夏 IN dbや](../Page/三枝夕夏_IN_db.md "wikilink")[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")、[上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")、[宇浦冴香](https://ja.wikipedia.org/wiki/宇浦冴香 "wikilink")など同レーベルのアーティストの作品にコーラスで参加する。
-    2007年、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の追悼ライブ「What a beautiful memory」にコーラスとして参加。
+    2007年、[ZARD](../Page/ZARD.md "wikilink")の追悼ライブ「What a beautiful memory」にコーラスとして参加。
     2008年、ZARDの追悼ライブ「What a beautiful memory 2008」にコーラスとして参加。
 
 <!-- end list -->
@@ -90,9 +90,9 @@
 
 ### ミニアルバム
 
-| 枚   | 発売日                                       | タイトル                                                                        | 規格品番    | 備考               |
-| --- | ----------------------------------------- | --------------------------------------------------------------------------- | ------- | ---------------- |
-| 1st | 2008年[4月23日](../Page/4月23日.md "wikilink") | [ALL OVER NOW EP](https://ja.wikipedia.org/wiki/ALL_OVER_NOW_EP "wikilink") | TCR-058 | EPというタイトルだが規格はCD |
+| 枚   | 発売日                                       | タイトル                                                     | 規格品番    | 備考               |
+| --- | ----------------------------------------- | -------------------------------------------------------- | ------- | ---------------- |
+| 1st | 2008年[4月23日](../Page/4月23日.md "wikilink") | [ALL OVER NOW EP](../Page/ALL_OVER_NOW_EP.md "wikilink") | TCR-058 | EPというタイトルだが規格はCD |
 
 ### オリジナルアルバム
 
@@ -104,7 +104,7 @@
 
 | 曲名                                                                                                | タイアップ                                                                                                                                |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [広がる青に飛び出せ](https://ja.wikipedia.org/wiki/ALL_OVER_NOW_EP "wikilink")                             | [テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」2008年3月度エンディングテーマ |
+| [広がる青に飛び出せ](../Page/ALL_OVER_NOW_EP.md "wikilink")                                                | [テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」2008年3月度エンディングテーマ |
 | テレビ東京系「[PVTV](../Page/PVTV.md "wikilink")」2008年3月度エンディングテーマ                                       |                                                                                                                                      |
 | [Take The Wave](../Page/Take_The_Wave.md "wikilink")                                              | テレビ東京系アニメ「[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")」オープニングテーマ                                                                             |
 | [Mysterious](https://ja.wikipedia.org/wiki/Mysterious_\(Naifuの曲\) "wikilink")                     | [読売テレビ系テレビアニメ](../Page/讀賣テレビ放送.md "wikilink")「[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")」オープニングテーマ            |

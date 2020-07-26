@@ -9,7 +9,7 @@
 
 メインイベントの世界ライトヘビー級タイトルマッチでは王者リデルが挑戦者オーティズをTKOで下し、4度目の王座防衛に成功した。
 
-第4試合の勝者となった[チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink")は試合後の検査において、禁止薬物の一つである[利尿剤](https://ja.wikipedia.org/wiki/利尿剤 "wikilink")の[スピロノラクトン](../Page/スピロノラクトン.md "wikilink")の陽性反応により、[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")より8か月間の出場停止処分と5,000ドルの罰金が科せられた\[1\]。
+第4試合の勝者となった[チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink")は試合後の検査において、禁止薬物の一つである[利尿剤](https://ja.wikipedia.org/wiki/利尿剤 "wikilink")の[スピロノラクトン](../Page/スピロノラクトン.md "wikilink")の陽性反応により、[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")より8か月間の出場停止処分と5,000ドルの罰金が科せられた\[1\]。
 
 ## 試合結果
 
@@ -25,7 +25,7 @@
     ○  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") vs.  [カーメロ・マレロ](https://ja.wikipedia.org/wiki/カーメロ・マレロ "wikilink") ×
     1R 3:22 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第4試合 ウェルター級 5分3R
-    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  [トニー・デソーザ](https://ja.wikipedia.org/wiki/トニー・デソーザ "wikilink") ×
+    ○  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") vs.  [トニー・デソーザ](https://ja.wikipedia.org/wiki/トニー・デソーザ "wikilink") ×
     2R 1:10 KO（右膝蹴り）
 
 ### メインカード

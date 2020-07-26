@@ -162,7 +162,7 @@
 ## 関連項目
 
   - [ピアノソナタ第8番 (ベートーヴェン)](../Page/ピアノソナタ第8番_\(ベートーヴェン\).md "wikilink") - 劇中で使われた曲。作品番号は「13」。
-  - [むらさめ (護衛艦・2代)](https://ja.wikipedia.org/wiki/むらさめ_\(護衛艦・2代\) "wikilink") - 海自の水中レイバー「りゅうじん」運用護衛艦「つるぎ」（艦番181）の直衛として登場。
+  - [むらさめ (護衛艦・2代)](../Page/むらさめ_\(護衛艦・2代\).md "wikilink") - 海自の水中レイバー「りゅうじん」運用護衛艦「つるぎ」（艦番181）の直衛として登場。
   - [DAT](../Page/DAT.md "wikilink") - 本作で述べられたような20kHz以上の周波数を再生する機能を実際に有した[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")製ではなく、その機能を持たない[SONY](https://ja.wikipedia.org/wiki/SONY "wikilink")製TCD-D10、D100を模した機種が登場する。
   - [パン屋の1ダース](https://ja.wikipedia.org/wiki/パン屋の1ダース "wikilink")（ベイカーズダズン） - 廃棄物13号のコードネームの一つ。
 

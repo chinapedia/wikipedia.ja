@@ -30,7 +30,7 @@ V6にとってアルバム1位は2006年8月発売の[ベストアルバム](htt
         作詞：[KOMU](https://ja.wikipedia.org/wiki/KOMU "wikilink")、作曲：[浅利進吾](https://ja.wikipedia.org/wiki/浅利進吾 "wikilink")、編曲：REO、コーラスアレンジ：鈴木弘明
 4.  **[ジャスミン](https://ja.wikipedia.org/wiki/ジャスミン/Rainbow "wikilink")**
       -
-        作詞・作曲：[近藤薫](https://ja.wikipedia.org/wiki/近藤薫 "wikilink")、編曲：[小幡英之](../Page/小幡英之.md "wikilink")、コーラスアレンジ：鈴木弘明
+        作詞・作曲：[近藤薫](../Page/近藤薫.md "wikilink")、編曲：[小幡英之](../Page/小幡英之.md "wikilink")、コーラスアレンジ：鈴木弘明
     <!-- end list -->
       - 31stシングルの1曲目
 5.  **ROCK THE HOUSE** - Coming Century
@@ -49,7 +49,7 @@ V6にとってアルバム1位は2006年8月発売の[ベストアルバム](htt
         作詞・作曲：[蔡忠浩](https://ja.wikipedia.org/wiki/bonobos#メンバー "wikilink")、編曲：[林"Masssy"昌史](https://ja.wikipedia.org/wiki/林昌史 "wikilink")、コーラスアレンジ：鈴木弘明
 9.  **[Rainbow](https://ja.wikipedia.org/wiki/ジャスミン/Rainbow "wikilink")**
       -
-        作詞：[小川マキ](https://ja.wikipedia.org/wiki/小川マキ "wikilink")、作曲：[大隅知宇](https://ja.wikipedia.org/wiki/大隅知宇 "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞：[小川マキ](https://ja.wikipedia.org/wiki/小川マキ "wikilink")、作曲：[大隅知宇](https://ja.wikipedia.org/wiki/大隅知宇 "wikilink")、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
     <!-- end list -->
       - 31stシングルの2曲目
 10. **[僕と僕らのあした](https://ja.wikipedia.org/wiki/HONEY_BEAT/僕と僕らのあした "wikilink")**

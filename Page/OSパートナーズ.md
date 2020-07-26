@@ -55,7 +55,7 @@
 
   - [1977年](../Page/1977年.md "wikilink")6月、「株式会社三吉データセンター」設立。
   - [1981年](../Page/1981年.md "wikilink")2月、情報処理部門を設立。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月、[労働者派遣法](https://ja.wikipedia.org/wiki/労働者派遣法 "wikilink")施行を受け、[特定労働者派遣](https://ja.wikipedia.org/wiki/特定労働者派遣 "wikilink")事業を開始。
+  - [1986年](../Page/1986年.md "wikilink")7月、[労働者派遣法](https://ja.wikipedia.org/wiki/労働者派遣法 "wikilink")施行を受け、[特定労働者派遣](https://ja.wikipedia.org/wiki/特定労働者派遣 "wikilink")事業を開始。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月、「株式会社三洋システムメイト」に社名変更。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月、[一般労働者派遣](https://ja.wikipedia.org/wiki/一般労働者派遣 "wikilink")事業を開始。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月、「株式会社三洋ヒューマンネットワーク」に社名変更。

@@ -7,7 +7,7 @@
 
 1999年
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink") “痛いくらい君があふれているよ”（REMIX）
+  - [ZARD](../Page/ZARD.md "wikilink") “痛いくらい君があふれているよ”（REMIX）
   - ZARD “この涙星になれ”（REMIX）
   - MUU “デジタルミュージックパワー”（REMIX）
 

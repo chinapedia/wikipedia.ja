@@ -19,7 +19,7 @@
   - [小川真司](../Page/小川真司.md "wikilink")
   - [塩屋浩三](../Page/塩屋浩三.md "wikilink")
   - [江森浩子](../Page/江森浩子.md "wikilink")
-  - [達依久子](https://ja.wikipedia.org/wiki/達依久子 "wikilink")
+  - [達依久子](../Page/達依久子.md "wikilink")
 
 ## OVA
 

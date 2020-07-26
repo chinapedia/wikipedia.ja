@@ -5,7 +5,7 @@
 
 ## 概説
 
-これまでPC上で作成したCD-Rなどのメディアは、一般の[オーディオビジュアル機器での再生ができなかったり](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")、読み込みに非常に時間がかかるなどの問題が多かったが、このHighMAT規格にもとづいてデータを記録する事により、これらの問題が解消される。音声用[フォーマットである](../Page/ファイルフォーマット.md "wikilink")[WMA](../Page/Windows_Media_Audio.md "wikilink")("WMA [lossless](../Page/可逆圧縮.md "wikilink")"で圧縮した音楽やDRMで保護されたコンテンツには対応しない)や[MP3](../Page/MP3.md "wikilink")、画像用のフォーマットである[JPEG](../Page/JPEG.md "wikilink")、動画用フォーマット[WMVや](../Page/Windows_Media_Video.md "wikilink")[MPEG-4](../Page/MPEG-4.md "wikilink")などのファイルとそれぞれの[メタデータ](../Page/メタデータ.md "wikilink")や[サムネイル](../Page/サムネイル.md "wikilink")画像などをPCとオーディオビジュアル機器双方で利用できるようになる。
+これまでPC上で作成したCD-Rなどのメディアは、一般の[オーディオビジュアル機器での再生ができなかったり](../Page/オーディオ・ビジュアル.md "wikilink")、読み込みに非常に時間がかかるなどの問題が多かったが、このHighMAT規格にもとづいてデータを記録する事により、これらの問題が解消される。音声用[フォーマットである](../Page/ファイルフォーマット.md "wikilink")[WMA](../Page/Windows_Media_Audio.md "wikilink")("WMA [lossless](../Page/可逆圧縮.md "wikilink")"で圧縮した音楽やDRMで保護されたコンテンツには対応しない)や[MP3](../Page/MP3.md "wikilink")、画像用のフォーマットである[JPEG](../Page/JPEG.md "wikilink")、動画用フォーマット[WMVや](../Page/Windows_Media_Video.md "wikilink")[MPEG-4](../Page/MPEG-4.md "wikilink")などのファイルとそれぞれの[メタデータ](../Page/メタデータ.md "wikilink")や[サムネイル](../Page/サムネイル.md "wikilink")画像などをPCとオーディオビジュアル機器双方で利用できるようになる。
 
 ## 規格
 

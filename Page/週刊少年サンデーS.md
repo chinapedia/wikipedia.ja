@@ -94,7 +94,7 @@
 <tr class="odd">
 <td><p>4</p></td>
 <td><p><span style="display:none;">ちようときゆうしようしよよんきゆうよんろく</span><a href="https://ja.wikipedia.org/wiki/超弩級少女4946" title="wikilink">超弩級少女4946</a></p></td>
-<td><p><span style="display:none;">あすま たけし</span><a href="https://ja.wikipedia.org/wiki/東毅" title="wikilink">東毅</a></p></td>
+<td><p><span style="display:none;">あすま たけし</span><a href="../Page/東毅.md" title="wikilink">東毅</a></p></td>
 <td><p>—</p></td>
 <td><p>2009.04</p></td>
 <td><p>2011.08</p></td>
@@ -1677,7 +1677,7 @@
       - [すっかりれっどぞ〜ん](https://ja.wikipedia.org/wiki/すっかりれっどぞ〜ん "wikilink")（[小川智明](https://ja.wikipedia.org/wiki/小川智明 "wikilink")）1987.11
       - [スポーツてんこ盛り](https://ja.wikipedia.org/wiki/スポーツてんこ盛り "wikilink")（[あおやま英雄](https://ja.wikipedia.org/wiki/あおやま英雄 "wikilink")）1987.12
   - **1988年連載開始**（この年のみ誌名ロゴが週刊本誌と根本的に異なる）
-      - [セブンティーン・コップ](https://ja.wikipedia.org/wiki/セブンティーン・コップ "wikilink")（原作：[田部俊行](https://ja.wikipedia.org/wiki/田部俊行 "wikilink")、作画：[中原裕](https://ja.wikipedia.org/wiki/中原裕 "wikilink")）1988.1
+      - [セブンティーン・コップ](https://ja.wikipedia.org/wiki/セブンティーン・コップ "wikilink")（原作：[田部俊行](../Page/田部俊行.md "wikilink")、作画：[中原裕](https://ja.wikipedia.org/wiki/中原裕 "wikilink")）1988.1
       - [○を印光線](https://ja.wikipedia.org/wiki/○を印光線 "wikilink")（[をかべまさゆき](https://ja.wikipedia.org/wiki/をかべまさゆき "wikilink")）1988.1
       - [ジェミニストリート](https://ja.wikipedia.org/wiki/ジェミニストリート "wikilink")（[みず谷なおき](../Page/みず谷なおき.md "wikilink")）1988.2
       - [符法師マンダラ伝カラス](https://ja.wikipedia.org/wiki/符法師マンダラ伝カラス "wikilink")（[克・亜樹](../Page/克・亜樹.md "wikilink")）1988.3

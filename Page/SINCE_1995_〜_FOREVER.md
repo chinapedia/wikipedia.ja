@@ -1,7 +1,7 @@
 > この記事は[SINCE 1995 〜 FOREVER](https://ja.wikipedia.org/wiki/SINCE_1995_〜_FOREVER)から翻訳されています。
 
 
-『**SINCE 1995 〜 FOREVER**』（シンス・ナインティーンナイティファイヴ フォーエヴァー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**SINCE 1995 〜 FOREVER**』（シンス・ナインティーンナイティファイヴ フォーエヴァー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[1st](../Page/序数詞.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

@@ -5,7 +5,7 @@
 
 ## 初代
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:TVR_Tuscan.jpg "wikilink") [1967年](../Page/1967年.md "wikilink")のロンドンショーで初公開され、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に発売された。事実上[TVR・グリフィス](../Page/TVR・グリフィス.md "wikilink")400の後継車に当たる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TVR_Tuscan.jpg "wikilink") [1967年](../Page/1967年.md "wikilink")のロンドンショーで初公開され、[1968年](../Page/1968年.md "wikilink")に発売された。事実上[TVR・グリフィス](../Page/TVR・グリフィス.md "wikilink")400の後継車に当たる。
 
 車体骨格は[TVR・グランチュラ](../Page/TVR・グランチュラ.md "wikilink")由来の鋼管フレーム・[FRPボディを採用しており](../Page/繊維強化プラスチック.md "wikilink")、外見は後の「**Mシリーズ**」に似ている。
 

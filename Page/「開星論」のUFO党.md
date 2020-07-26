@@ -13,7 +13,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") **日本UFO党**への改称を届出。[8月30日](../Page/8月30日.md "wikilink")自治省告示。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月26日](../Page/4月26日.md "wikilink") **UFO党**への改称を届出。[8月4日](../Page/8月4日.md "wikilink")自治省告示。[第14回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第14回参議院議員通常選挙 "wikilink") 森脇十九男が東京都選挙区から単騎出馬し、5202票を獲得するも落選。
+[1986年](../Page/1986年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") **UFO党**への改称を届出。[8月4日](../Page/8月4日.md "wikilink")自治省告示。[第14回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第14回参議院議員通常選挙 "wikilink") 森脇十九男が東京都選挙区から単騎出馬し、5202票を獲得するも落選。
 
 [1989年](../Page/1989年.md "wikilink") [第15回参議院議員通常選挙](../Page/第15回参議院議員通常選挙.md "wikilink") [確認団体](../Page/確認団体.md "wikilink")認証。比例区に森脇を含む9名、東京都選挙区に1名を擁立。比例区で7万2894票を獲得するも、全員落選。[8月9日](../Page/8月9日.md "wikilink")政治団体から政党への変更を届出。同年[9月5日](../Page/9月5日.md "wikilink")自治省告示。
 

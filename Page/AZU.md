@@ -5,7 +5,7 @@
 
 ## 概要
 
-[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身のシンガー\[2\]。16歳からクラブのステージに立ち、関西・東海地方を中心に多数のイベントやクラブに出演を重ねる\[3\]\[4\]。その後、[HOME MADE 家族のオーガナイズ](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")・イベントにレギュラー出演していたユニットのJAZZY BLAZEやRを経て、ソロシンガーとして活動\[5\]。2007年、ソロ・シンガーとしてシングル「CHERISH」でメジャーへ進出\[6\]\[7\]。
+[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身のシンガー\[2\]。16歳からクラブのステージに立ち、関西・東海地方を中心に多数のイベントやクラブに出演を重ねる\[3\]\[4\]。その後、[HOME MADE 家族のオーガナイズ](../Page/HOME_MADE_家族.md "wikilink")・イベントにレギュラー出演していたユニットのJAZZY BLAZEやRを経て、ソロシンガーとして活動\[5\]。2007年、ソロ・シンガーとしてシングル「CHERISH」でメジャーへ進出\[6\]\[7\]。
 
 AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU)、あなたに伝える」という意味が込められている\[8\]。
 
@@ -232,7 +232,7 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
   - [mihimaruGT](https://ja.wikipedia.org/wiki/mihimaruGT "wikilink")
   - [SEAMO](../Page/SEAMO.md "wikilink")
   - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - [カルテット](../Page/カルテット_\(ユニット\).md "wikilink")
   - [手裏剣ジェット](https://ja.wikipedia.org/wiki/手裏剣ジェット "wikilink")
   - [MAY'S](../Page/MAY'S.md "wikilink")

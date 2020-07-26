@@ -51,7 +51,7 @@
         作詞：SPIN、作曲：Brian Hobbs・Jany Schella・Christian Svensson
 9.  **パレット**［3:52］
       -
-        作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")、Rap詞：櫻井翔
+        作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")、Rap詞：櫻井翔
 10. **できるだけ**［4:40］
       -
         作詞：相田毅、作曲：森元康介、編曲：大坪直樹

@@ -53,6 +53,6 @@
 
   - [大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")
   - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
-  - [NHK三陸綾里テレビ中継局](https://ja.wikipedia.org/wiki/NHK三陸綾里テレビ中継局 "wikilink")
+  - [NHK三陸綾里テレビ中継局](../Page/NHK三陸綾里テレビ中継局.md "wikilink")
 
 [Category:大船渡市の歴史](https://ja.wikipedia.org/wiki/Category:大船渡市の歴史 "wikilink") [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:大船渡市の建築物](https://ja.wikipedia.org/wiki/Category:大船渡市の建築物 "wikilink")

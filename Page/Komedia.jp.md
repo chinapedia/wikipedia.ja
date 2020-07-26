@@ -159,7 +159,7 @@
 
         </div>
 
-        [HOME MADE 家族との](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[コラボレーション・シングルの](https://ja.wikipedia.org/wiki/コラボレーション#音楽 "wikilink")[リミックス](../Page/リミックス.md "wikilink")バージョン。
+        [HOME MADE 家族との](../Page/HOME_MADE_家族.md "wikilink")[コラボレーション・シングルの](https://ja.wikipedia.org/wiki/コラボレーション#音楽 "wikilink")[リミックス](../Page/リミックス.md "wikilink")バージョン。
 13. **[MATA(C)TANA](../Page/MATA\(C\)TANA.md "wikilink")** \[5:22\]
       -
 

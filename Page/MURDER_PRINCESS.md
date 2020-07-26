@@ -53,7 +53,7 @@
 
   - 監督 - 黒川智之
   - シリーズ構成・脚本 - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
-  - キャラクターデザイン - [山下喜光](https://ja.wikipedia.org/wiki/山下喜光 "wikilink")
+  - キャラクターデザイン - [山下喜光](../Page/山下喜光.md "wikilink")
   - デザインワークス - 肥塚正史、毬雄一
   - 美術監督 - 海野よしみ、渡辺紳
   - 色彩設計 - 小島真喜子
@@ -91,7 +91,7 @@
 <td><p>誕生</p></td>
 <td><p>2007年3月28日</p></td>
 <td><p>黒川智之</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下喜光" title="wikilink">山下喜光</a></p></td>
+<td><p><a href="../Page/山下喜光.md" title="wikilink">山下喜光</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -99,7 +99,7 @@
 <td><p>戴冠</p></td>
 <td><p>2007年4月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木睦美" title="wikilink">佐々木睦美</a></p></td>
+<td><p><a href="../Page/佐々木睦美.md" title="wikilink">佐々木睦美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -42,7 +42,7 @@
   - [大竹佐知](https://ja.wikipedia.org/wiki/大竹佐知 "wikilink")（テレビ東京アナウンサー）
   - [kyoco](https://ja.wikipedia.org/wiki/杉山恭子 "wikilink")（番組最後の旅人）
   - [望月みさ](../Page/望月みさ.md "wikilink")
-  - [小泉麻耶](https://ja.wikipedia.org/wiki/小泉麻耶 "wikilink")
+  - [小泉麻耶](../Page/小泉麻耶.md "wikilink")
 
 <!-- end list -->
 

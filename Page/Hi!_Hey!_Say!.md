@@ -53,7 +53,7 @@
 
 :\* [若井おさむ](../Page/若井おさむ.md "wikilink")
 
-:\* [みっちー](https://ja.wikipedia.org/wiki/みっちー "wikilink")
+:\* [みっちー](../Page/みっちー.md "wikilink")
 
 :\* [佐田正樹](../Page/佐田正樹.md "wikilink")（[バッドボーイズ](../Page/バッドボーイズ_\(お笑いコンビ\).md "wikilink")）
 
@@ -273,7 +273,7 @@ Ultra Music Power</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林家正蔵" title="wikilink">林家正蔵</a></p></td>
+<td><p><a href="../Page/林家正蔵.md" title="wikilink">林家正蔵</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Dreams_come_true_(Hey!_Say!_JUMPの曲)" title="wikilink">Chance to Change</a></p></td>
 <td><p>薮宏太<br />
 八乙女光</p></td>

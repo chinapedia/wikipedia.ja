@@ -16,7 +16,7 @@
       - [SASグループ](https://ja.wikipedia.org/wiki/SASグループ "wikilink") - スカンジナビア航空など多くの[航空会社](../Page/航空会社.md "wikilink")を傘下に持つ、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の企業。
       - [スカンジナビア航空](../Page/スカンジナビア航空.md "wikilink") (; [ICAO](https://ja.wikipedia.org/wiki/ICAO航空会社コード "wikilink"): SAS) - 上記SASグループの傘下の中で最大の企業。
       - SAS - 東京都港区にあるスポーツ用品メーカー[フラッグ](https://ja.wikipedia.org/wiki/フラッグ "wikilink")のブランド名[1](http://www.flag-corp.co.jp/#company)。（旧・[川崎市](../Page/川崎市.md "wikilink")の会社名は「エス・エー・エス[2](http://www.flag-corp.co.jp/#history)」）。
-      - [株式会社エスエーエス](https://ja.wikipedia.org/wiki/エスエーエス "wikilink")（旧 静岡エアポートサービス） - [静岡空港](https://ja.wikipedia.org/wiki/静岡空港 "wikilink")でのグランドハンドリングを行う会社。
+      - [株式会社エスエーエス](../Page/エスエーエス.md "wikilink")（旧 静岡エアポートサービス） - [静岡空港](https://ja.wikipedia.org/wiki/静岡空港 "wikilink")でのグランドハンドリングを行う会社。
   - タイトル
       - [S.A.S. 英国特殊部隊](../Page/S.A.S._英国特殊部隊.md "wikilink") (**) - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のテレビドラマ。
       - [プリンス・マルコ・シリーズ](https://ja.wikipedia.org/wiki/プリンス・マルコ・シリーズ "wikilink")（SASシリーズ）- [ジェラール・ド・ヴィリエ](../Page/ジェラール・ド・ヴィリエ.md "wikilink")のスパイ小説シリーズ。
@@ -33,7 +33,7 @@
   - SASシステム() - SAS Institute 社のビジネス分析用ソフトウェア
   - スロヴァキア科学アカデミー()
   - サルトンシー空港(; [IATA](https://ja.wikipedia.org/wiki/IATA空港コード "wikilink"): SAS) - アメリカ合衆国[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サルトンシティ](https://ja.wikipedia.org/wiki/サルトンシティ "wikilink")の空港。
-  - 小型天文学衛星() - アメリカの宇宙望遠鏡衛星シリーズ。[SAS-1](https://ja.wikipedia.org/wiki/ウフル "wikilink")・[SAS-2](https://ja.wikipedia.org/wiki/SAS-2 "wikilink")・[SAS-3](https://ja.wikipedia.org/wiki/SAS-3 "wikilink")がある。
+  - 小型天文学衛星() - アメリカの宇宙望遠鏡衛星シリーズ。[SAS-1](../Page/ウフル.md "wikilink")・[SAS-2](https://ja.wikipedia.org/wiki/SAS-2 "wikilink")・[SAS-3](https://ja.wikipedia.org/wiki/SAS-3 "wikilink")がある。
   - Simple And Secure password authentication protocol - ワンタイムパスワード認証プロトコル。
   - 放課後学習事業() - [柏原市](../Page/柏原市.md "wikilink")教育委員会と[大阪教育大学](../Page/大阪教育大学.md "wikilink")・[関西福祉科学大学](../Page/関西福祉科学大学.md "wikilink")の学生が市内小学校で行っている施策。
   - [南アフリカ海軍](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")([南アフリカ国防軍\#南アフリカ海軍](https://ja.wikipedia.org/wiki/南アフリカ国防軍#南アフリカ海軍 "wikilink"))の艦船名につけられる[艦船接頭辞](https://ja.wikipedia.org/wiki/艦船接頭辞 "wikilink")で、南アフリカ艦艇（South African Ship）の略。

@@ -33,7 +33,7 @@
 ### MBSヤングタウン「明石家さんまコンサート」
 
   - 放送日時　8月31日（月）22:00〜9月1日（火）1:00
-  - 出演　[明石家さんま](../Page/明石家さんま.md "wikilink")、[長江健次](../Page/長江健次.md "wikilink")、[伊東正治](../Page/伊東正治.md "wikilink")、[大津びわ子](https://ja.wikipedia.org/wiki/大津びわ子 "wikilink")、[さんまバンド](https://ja.wikipedia.org/wiki/さんまバンド "wikilink")
+  - 出演　[明石家さんま](../Page/明石家さんま.md "wikilink")、[長江健次](../Page/長江健次.md "wikilink")、[伊東正治](../Page/伊東正治.md "wikilink")、[大津びわ子](../Page/大津びわ子.md "wikilink")、[さんまバンド](https://ja.wikipedia.org/wiki/さんまバンド "wikilink")
 
 ### 朝がくるまでしゃべりすぎ 徹夜トーキングライブ
 

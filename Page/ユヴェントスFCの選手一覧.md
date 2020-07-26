@@ -17,7 +17,7 @@
 
   - [ディノ・ゾフ](../Page/ディノ・ゾフ.md "wikilink") (1972-1983)
 
-  - [ステファノ・タッコーニ](https://ja.wikipedia.org/wiki/ステファノ・タッコーニ "wikilink") (1983-1992)
+  - [ステファノ・タッコーニ](../Page/ステファノ・タッコーニ.md "wikilink") (1983-1992)
 
   - [アンジェロ・ペルッツィ](../Page/アンジェロ・ペルッツィ.md "wikilink") (1991-1999)
 
@@ -53,11 +53,11 @@
 
   - [アントニオ・カブリーニ](../Page/アントニオ・カブリーニ.md "wikilink")
 
-  - [ロベルト・トリセラ](https://ja.wikipedia.org/wiki/ロベルト・トリセラ "wikilink")
+  - [ロベルト・トリセラ](../Page/ロベルト・トリセラ.md "wikilink")
 
   - [ピエトロ・ヴィエルコウッド](../Page/ピエトロ・ヴィエルコウッド.md "wikilink")
 
-  - [ルイジ・デ・アゴスティーニ](https://ja.wikipedia.org/wiki/ルイジ・デ・アゴスティーニ "wikilink")
+  - [ルイジ・デ・アゴスティーニ](../Page/ルイジ・デ・アゴスティーニ.md "wikilink")
 
   - [ユルゲン・コーラー](../Page/ユルゲン・コーラー.md "wikilink")
 
@@ -247,13 +247,13 @@
   - [ズビグニェフ・ボニエク](../Page/ズビグニェフ・ボニエク.md "wikilink")
     (1982 - 1985)
 
-  - [アルド・セレーナ](https://ja.wikipedia.org/wiki/アルド・セレーナ "wikilink")
+  - [アルド・セレーナ](../Page/アルド・セレーナ.md "wikilink")
     (1985 - 1987)
 
   - [イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink")
     (1986 - 1988)
 
-  - [アレッサンドロ・アルトベッリ](https://ja.wikipedia.org/wiki/アレッサンドロ・アルトベッリ "wikilink")
+  - [アレッサンドロ・アルトベッリ](../Page/アレッサンドロ・アルトベッリ.md "wikilink")
     (1988 - 1989)
 
   - [ピエルルイジ・カジラギ](../Page/ピエルルイジ・カジラギ.md "wikilink")
@@ -312,7 +312,7 @@
   - [ヴァレリ・ボジノフ](../Page/ヴァレリ・ボジノフ.md "wikilink")
     (2006 - 2007)
 
-  - [セバスティアン・ジョヴィンコ](https://ja.wikipedia.org/wiki/セバスティアン・ジョヴィンコ "wikilink")
+  - [セバスティアン・ジョヴィンコ](../Page/セバスティアン・ジョヴィンコ.md "wikilink")
     (2006 - 2015)
 
   - [ヴィンチェンツォ・イアクインタ](../Page/ヴィンチェンツォ・イアクインタ.md "wikilink")

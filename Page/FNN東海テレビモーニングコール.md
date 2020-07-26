@@ -1,7 +1,7 @@
 > この記事は[FNN東海テレビモーニングコール](https://ja.wikipedia.org/wiki/FNN東海テレビモーニングコール)から翻訳されています。
 
 
-『**FNN東海テレビモーニングコール**』（エフエヌエヌとうかいテレビモーニングコール）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[東海テレビで放送された平日朝の](../Page/東海テレビ放送.md "wikilink")[ニュース](../Page/報道番組.md "wikilink")・[情報番組である](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")（『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』の東海テレビタイトル差し替え及びローカルパート、協力：[中日新聞](../Page/中日新聞.md "wikilink")）。
+『**FNN東海テレビモーニングコール**』（エフエヌエヌとうかいテレビモーニングコール）は、[1986年](../Page/1986年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[東海テレビで放送された平日朝の](../Page/東海テレビ放送.md "wikilink")[ニュース](../Page/報道番組.md "wikilink")・[情報番組である](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")（『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』の東海テレビタイトル差し替え及びローカルパート、協力：[中日新聞](../Page/中日新聞.md "wikilink")）。
 
 ## キャスター
 

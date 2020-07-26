@@ -13,7 +13,7 @@
   - [1959年](../Page/1959年.md "wikilink") *T-Bone Blues* (Atlantic)
   - [1960年](../Page/1960年.md "wikilink") *Singing the Blues* (Imperial)
   - [1967年](../Page/1967年.md "wikilink") *Stormy Monday Blues* (BluesWay)
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") *Funky Town* (BluesWay)
+  - [1968年](../Page/1968年.md "wikilink") *Funky Town* (BluesWay)
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") *Feeling the Blues* (Black & Blue)
   - [1970年](../Page/1970年.md "wikilink") ''Good Feelin' '' (Verve)
   - [1974年](../Page/1974年.md "wikilink") *Very Rare* (Warner)

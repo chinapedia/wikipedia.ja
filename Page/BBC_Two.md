@@ -1,7 +1,7 @@
 > この記事は[BBC Two](https://ja.wikipedia.org/wiki/BBC_Two)から翻訳されています。
 
 
-**BBC Two**（ビービーシー・ツー）は、[英国放送協会](../Page/英国放送協会.md "wikilink") (BBC) の[テレビチャンネル](../Page/チャンネル_\(テレビ放送\).md "wikilink")。[1964年](../Page/1964年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に開局し、全世界に放送を行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に**BBC2**から現在の名称に改められた。日本における[NHK Eテレに相当する](../Page/NHK教育テレビジョン.md "wikilink")。イメージカラーは[鴨の羽色](https://ja.wikipedia.org/wiki/鴨の羽色 "wikilink")。
+**BBC Two**（ビービーシー・ツー）は、[英国放送協会](../Page/英国放送協会.md "wikilink") (BBC) の[テレビチャンネル](../Page/チャンネル_\(テレビ放送\).md "wikilink")。[1964年](../Page/1964年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に開局し、全世界に放送を行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に**BBC2**から現在の名称に改められた。日本における[NHK Eテレに相当する](../Page/NHK教育テレビジョン.md "wikilink")。イメージカラーは[鴨の羽色](../Page/鴨の羽色.md "wikilink")。
 
 ## 概要
 

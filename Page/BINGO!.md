@@ -13,7 +13,7 @@
 
 2009年7月3・4日に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で開催された[Japan Expo](https://ja.wikipedia.org/wiki/Japan_Expo "wikilink")、また同年9月27日の[ニューヨーク](../Page/ニューヨーク.md "wikilink")公演などの海外公演では英語バージョンが披露された。
 
-楽曲は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ファイテンション☆スクール](../Page/ファイテンション☆スクール.md "wikilink")』オープニングテーマに起用された。また、AKB48の冠番組である[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AKBINGO\!](https://ja.wikipedia.org/wiki/AKBINGO! "wikilink")』（前身番組『[AKB1じ59ふん\!](../Page/AKB1じ59ふん!.md "wikilink")』『[AKB0じ59ふん\!](https://ja.wikipedia.org/wiki/AKB0じ59ふん! "wikilink")』を含む）の番組内コーナー『AKB48ニュース』でも使用されていた。
+楽曲は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ファイテンション☆スクール](../Page/ファイテンション☆スクール.md "wikilink")』オープニングテーマに起用された。また、AKB48の冠番組である[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AKBINGO\!](https://ja.wikipedia.org/wiki/AKBINGO! "wikilink")』（前身番組『[AKB1じ59ふん\!](../Page/AKB1じ59ふん!.md "wikilink")』『[AKB0じ59ふん\!](../Page/AKB0じ59ふん!.md "wikilink")』を含む）の番組内コーナー『AKB48ニュース』でも使用されていた。
 
 ## シングル収録トラック
 

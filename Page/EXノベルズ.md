@@ -41,7 +41,7 @@
   - プロジェクト花咲く乙女（[麻城ゆう](https://ja.wikipedia.org/wiki/麻城ゆう "wikilink")）
   - 星誘いの娘（篠崎砂美）
   - 魔法の迷い道（[ひかわ玲子](../Page/ひかわ玲子.md "wikilink")）
-  - 幻の将軍（[河原よしえ](https://ja.wikipedia.org/wiki/河原よしえ "wikilink")）
+  - 幻の将軍（[河原よしえ](../Page/河原よしえ.md "wikilink")）
   - 闇の守り手（[竹河聖](../Page/竹河聖.md "wikilink")）
   - ルナティック・ドリーマー（[桜庭一樹](https://ja.wikipedia.org/wiki/桜庭一樹 "wikilink")）
   - ロールプレイングワールド（[竹内真流太](https://ja.wikipedia.org/wiki/竹内真流太 "wikilink")）

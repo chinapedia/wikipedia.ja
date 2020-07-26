@@ -60,7 +60,7 @@ LZMAの伸長専用コードは[C言語](../Page/C言語.md "wikilink")で記述
   - [LZMA Utils](http://tukaani.org/lzma/)、これはLZMAコード*だけ*からなる移植版である。これは生のLZMAストリームを、[gzip](https://ja.wikipedia.org/wiki/gzip "wikilink")や[bzip2](https://ja.wikipedia.org/wiki/bzip2 "wikilink")圧縮ユーティリティと同様に扱えるように設計されている。`lzma`ツールで、[.tar](https://ja.wikipedia.org/wiki/.tar "wikilink")のように複数のファイルをアーカイブできる。出力は、ヘッダ情報のない生のLZMAである。現在ではXZ Utilsがメインストリームとなり、LZMA Utilsの開発は終息している。
   - [XZ Embedded](http://tukaani.org/xz/embedded.html)、XZ Utilsの伸張コードだけを抜き出して整理したライブラリで、主に[Linux](../Page/Linux.md "wikilink")カーネルのブート時に使用する前提で設計されている。但し、他の独自のシステムにも容易に移植可能となっている。
 
-注意：7-ZipとLZMAで生成されるLZMAストリームは異なる。つまり非互換である。基本的に、一方のツールで生成したファイルはもう一方で扱うことはできない。ただし7-Zipはバージョン4.58でLZMAストリームの伸張をサポートした。7-Zipは非圧縮時のファイルサイズを含む[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")ヘッダエントリを付加するが、LZMA Utilsではこれがない。
+注意：7-ZipとLZMAで生成されるLZMAストリームは異なる。つまり非互換である。基本的に、一方のツールで生成したファイルはもう一方で扱うことはできない。ただし7-Zipはバージョン4.58でLZMAストリームの伸張をサポートした。7-Zipは非圧縮時のファイルサイズを含む[64ビット](../Page/64ビット.md "wikilink")ヘッダエントリを付加するが、LZMA Utilsではこれがない。
 
 ## 関連ソフトウェア
 

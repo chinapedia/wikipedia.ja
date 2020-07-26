@@ -9,7 +9,7 @@
 
 2006年にスタートした「本格的な[歌謡ロック](../Page/ロック_\(音楽\).md "wikilink")」をテーマにした作品としては4作目となるシングル。
 
-当初の発売日は[11月21日](../Page/11月21日.md "wikilink")だったが、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の「[Keep the faith](../Page/Keep_the_faith.md "wikilink")」の発売日と重なってしまったため11月28日に変更された。
+当初の発売日は[11月21日](../Page/11月21日.md "wikilink")だったが、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の「[Keep the faith](../Page/Keep_the_faith.md "wikilink")」の発売日と重なってしまったため11月28日に変更された。
 
 初動は前作とほぼ変わらない枚数であったが、「[宙船/do\! do\! do\!](https://ja.wikipedia.org/wiki/宙船/do!_do!_do! "wikilink")」以来、1年3ヶ月ぶりの[オリコンシングルチャート首位を獲得](../Page/オリコンチャート.md "wikilink")。
 
@@ -35,7 +35,7 @@ TOKIOがこの年リリースした「[ひかりのまち/ラン・フリー(ス
         作詞・作曲：[コダマックス](../Page/コダマセントラルステーション.md "wikilink")、編曲：[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
 3.  **Stardust Lover Orchestra**
       -
-        作詞・作曲：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、編曲：TAKESHI・[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞・作曲：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、編曲：TAKESHI・[久米康隆](../Page/久米康隆.md "wikilink")
 4.  青春 <small>SEI SYuN</small>（Backing Track）
 
 ### DVD

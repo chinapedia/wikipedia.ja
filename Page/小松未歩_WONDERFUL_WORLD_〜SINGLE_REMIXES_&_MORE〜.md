@@ -58,7 +58,7 @@
       -
         8thシングルのリミックス。
         出版者:日音、ギザミュージック
-12. **[謎](../Page/謎_\(曲\).md "wikilink") \<HIROSHI's secret of life mix\>**　remixed by [Hiroshi Watanabe](https://ja.wikipedia.org/wiki/Hiroshi_Watanabe "wikilink")
+12. **[謎](../Page/謎_\(曲\).md "wikilink") \<HIROSHI's secret of life mix\>**　remixed by [Hiroshi Watanabe](../Page/Hiroshi_Watanabe.md "wikilink")
       -
         1stシングルのリミックス。
         出版者:読売テレビエンタープライズ
@@ -91,7 +91,7 @@
   - Pierrot Le Fou (窪田博之)
   - [da-ja (池田大介)](../Page/池田大介_\(編曲家\).md "wikilink")
   - Cay Taylan
-  - [Hiroshi Watanabe](https://ja.wikipedia.org/wiki/Hiroshi_Watanabe "wikilink")
+  - [Hiroshi Watanabe](../Page/Hiroshi_Watanabe.md "wikilink")
   - S9 - DJ AKi、YUUKi、TKOの3人からなるユニット。
   - hagy (萩原隆博)
 

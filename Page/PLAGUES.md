@@ -10,7 +10,7 @@
 
 ## 元メンバー
 
-  - 岡本達也（おかもと たつや、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")脱退。
+  - 岡本達也（おかもと たつや、[1968年](../Page/1968年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")脱退。
 
 ## ディスコグラフィー
 

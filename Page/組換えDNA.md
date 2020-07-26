@@ -69,7 +69,7 @@
 
 ### 組換えB型肝炎ワクチン
 
-B型肝炎の感染は、組換え[B型肝炎ワクチン](https://ja.wikipedia.org/wiki/B型肝炎ワクチン "wikilink")の利用によってコントロールされている。 組換えB型肝炎ワクチンには、酵母細胞で産生された[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink")の表面抗原の一種が含まれている。B型肝炎ウイルスは[ポリオウイルス](../Page/ポリオウイルス.md "wikilink")などの他の一般的なウイルスのように*[in vitro](https://ja.wikipedia.org/wiki/in_vitro "wikilink")*での生育を行うことができないため、組換えサブユニットを含むワクチンの開発は、重要かつ必要なものであった。[Vaccine information from Hepatitis B Foundation](https://web.archive.org/web/20110628230253/http://www.hepb.org/hepb/vaccine_information.htm)
+B型肝炎の感染は、組換え[B型肝炎ワクチン](https://ja.wikipedia.org/wiki/B型肝炎ワクチン "wikilink")の利用によってコントロールされている。 組換えB型肝炎ワクチンには、酵母細胞で産生された[B型肝炎ウイルス](../Page/B型肝炎ウイルス.md "wikilink")の表面抗原の一種が含まれている。B型肝炎ウイルスは[ポリオウイルス](../Page/ポリオウイルス.md "wikilink")などの他の一般的なウイルスのように*[in vitro](https://ja.wikipedia.org/wiki/in_vitro "wikilink")*での生育を行うことができないため、組換えサブユニットを含むワクチンの開発は、重要かつ必要なものであった。[Vaccine information from Hepatitis B Foundation](https://web.archive.org/web/20110628230253/http://www.hepb.org/hepb/vaccine_information.htm)
 
 ### HIV感染の検査
 

@@ -156,7 +156,7 @@
 <td><p>5戦4勝<br />
 <a href="../Page/デイリー杯2歳ステークス.md" title="wikilink">デイリー杯3歳ステークス</a></p></td>
 <td><p><a href="../Page/荻伏牧場.md" title="wikilink">荻伏牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅見国一" title="wikilink">浅見国一</a></p></td>
+<td><p><a href="../Page/浅見国一.md" title="wikilink">浅見国一</a></p></td>
 <td><p>小林信夫</p></td>
 <td></td>
 </tr>
@@ -172,7 +172,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ショウゲッコウ" title="wikilink">ショウゲッコウ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>5戦2勝<br />
@@ -305,7 +305,7 @@
 <td><p>牝3</p></td>
 <td><p>5戦3勝<br />
 <a href="../Page/札幌2歳ステークス.md" title="wikilink">北海道3歳ステークス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トウショウ牧場" title="wikilink">藤正牧場</a></p></td>
+<td><p><a href="../Page/トウショウ牧場.md" title="wikilink">藤正牧場</a></p></td>
 <td><p><a href="../Page/戸山為夫.md" title="wikilink">戸山為夫</a></p></td>
 <td><p>トウショウ産業（株）</p></td>
 <td></td>
@@ -397,7 +397,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/コーセイ.md" title="wikilink">コーセイ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>4戦3勝<br />

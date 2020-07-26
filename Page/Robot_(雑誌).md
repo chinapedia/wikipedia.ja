@@ -46,7 +46,7 @@ robot内キャラクターの[フィギュア](../Page/フィギュア.md "wikil
   - 原作：多田由美 作画：[村田蓮爾](../Page/村田蓮爾.md "wikilink") - Rub Your Tired Eyes（robot9）
   - 原作：多田由美 作画：村田蓮爾 - あした、きみのわらうかお（robot10）
   - [chicken](https://ja.wikipedia.org/wiki/chicken_\(イラストレーター\) "wikilink") - me no me（robot7）
-  - [帝国少年](https://ja.wikipedia.org/wiki/帝国少年 "wikilink") - 菜魚料理店（robot2）
+  - [帝国少年](../Page/帝国少年.md "wikilink") - 菜魚料理店（robot2）
   - 帝国少年 - 聞茶店（robot8）
   - [道満晴明](../Page/道満晴明.md "wikilink") - 魔女の条件（robot2）
   - [冬目景](../Page/冬目景.md "wikilink") - Skit Scooter（robot7）

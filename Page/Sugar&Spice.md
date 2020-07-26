@@ -37,7 +37,7 @@
   - [篠原麻里](../Page/篠原麻里.md "wikilink")
   - [篠原美紀](../Page/篠原美紀.md "wikilink")
   - [田牧そら](https://ja.wikipedia.org/wiki/田牧そら "wikilink")
-  - [夢子](https://ja.wikipedia.org/wiki/夢子 "wikilink")
+  - [夢子](../Page/夢子.md "wikilink")
   - [寺西美柚](https://ja.wikipedia.org/wiki/寺西美柚 "wikilink")
   - [中田絢千](../Page/中田絢千.md "wikilink")
   - [細川藍](../Page/細川藍.md "wikilink")

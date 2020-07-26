@@ -34,7 +34,7 @@
 4.  **[世界のほんの片隅から](https://ja.wikipedia.org/wiki/世界のほんの片隅から "wikilink")**
       -
         作詞：一色そらん、作曲：KAIDO、編曲：KAIDO・[JIN NAKAMURA](https://ja.wikipedia.org/wiki/JIN_NAKAMURA "wikilink")
-5.  **[夢ノカケラ・・・](https://ja.wikipedia.org/wiki/夢ノカケラ・・・ "wikilink")**
+5.  **[夢ノカケラ・・・](../Page/夢ノカケラ・・・.md "wikilink")**
       -
         作詞：千空・n.machida、作曲：町田紀彦、編曲：虎じろう
         シングル・バージョンは、アルバム初収録。
@@ -54,10 +54,10 @@
 10. **[恋々・・・](https://ja.wikipedia.org/wiki/true_blue/恋々・・・ "wikilink")**
       -
         作詞・作曲：町田紀彦、編曲：[HIKARI](../Page/HIKARI.md "wikilink")
-11. **[H・A・N・A・B・I 〜君がいた夏〜](https://ja.wikipedia.org/wiki/H・A・N・A・B・I_〜君がいた夏〜 "wikilink")**
+11. **[H・A・N・A・B・I 〜君がいた夏〜](../Page/H・A・N・A・B・I_〜君がいた夏〜.md "wikilink")**
       -
         作詞・作曲：町田紀彦、編曲：ha-j
-12. **[僕の手紙](https://ja.wikipedia.org/wiki/僕の手紙 "wikilink")**
+12. **[僕の手紙](../Page/僕の手紙.md "wikilink")**
       -
         作詞・作曲：町田紀彦、編曲：山原一浩
 13. **[卒業](../Page/卒業_\(ZONEの曲\).md "wikilink")**

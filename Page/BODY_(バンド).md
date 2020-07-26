@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    DAZZLE→BODY→ソロ（NAOKI）→RIP VAN WINKLE→[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")→THE LOVEROCK VIOLENT
+    DAZZLE→BODY→ソロ（NAOKI）→RIP VAN WINKLE→[REACTION](../Page/REACTION_\(バンド\).md "wikilink")→THE LOVEROCK VIOLENT
 
 <!-- end list -->
 
@@ -172,6 +172,6 @@
   - [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")
   - [ZI:KILL](../Page/ZI:KILL.md "wikilink")
   - [CRAZE](../Page/CRAZE.md "wikilink")
-  - [REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")
+  - [REACTION](../Page/REACTION_\(バンド\).md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:1994年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

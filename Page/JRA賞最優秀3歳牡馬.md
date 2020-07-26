@@ -173,13 +173,13 @@
 <td><p>牡4</p></td>
 <td><p>7戦3勝<br />
 皐月賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢倉玉男" title="wikilink">矢倉玉男</a></p></td>
 <td><p>福井章哉</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="../Page/マーチス.md" title="wikilink">マーチス</a></p></td>
 <td><p>牡4</p></td>
 <td><p>12戦7勝<br />
@@ -292,7 +292,7 @@
 <td><p>牡4</p></td>
 <td><p>10戦7勝<br />
 皐月賞、有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トウショウ牧場" title="wikilink">藤正牧場</a></p></td>
+<td><p><a href="../Page/トウショウ牧場.md" title="wikilink">藤正牧場</a></p></td>
 <td><p><a href="../Page/保田隆芳.md" title="wikilink">保田隆芳</a></p></td>
 <td><p>トウショウ産業（株）</p></td>
 <td></td>
@@ -397,7 +397,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/ダイナガリバー.md" title="wikilink">ダイナガリバー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>7戦3勝<br />
@@ -446,7 +446,7 @@
 <td><p>牡4</p></td>
 <td><p>10戦8勝<br />
 有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉牧場" title="wikilink">稲葉不奈男</a></p></td>
+<td><p><a href="../Page/稲葉牧場.md" title="wikilink">稲葉不奈男</a></p></td>
 <td><p><a href="../Page/瀬戸口勉.md" title="wikilink">瀬戸口勉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近藤俊典" title="wikilink">近藤俊典</a></p></td>
 <td></td>
@@ -682,7 +682,7 @@ NHKマイルC、東京優駿</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープスカイ" title="wikilink">ディープスカイ</a></p></td>
+<td><p><a href="../Page/ディープスカイ.md" title="wikilink">ディープスカイ</a></p></td>
 <td><p>牡3</p></td>
 <td><p>10戦5勝<br />
 NHKマイルC*、東京優駿*</p></td>

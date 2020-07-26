@@ -8,7 +8,7 @@
   - 9月8日を「クレバの日」と銘打って発売。現時点でリリースされている彼のシングルの中で最高セールスを誇る。
   - ポニーキャニオンのレーベル、Knife Edgeとして最初のシングルである。
   - 音色に歌詞についてKREVAは「シンプルに韻踏むことを心掛けた」と語っており、[KICK THE CAN CREW内での](../Page/KICK_THE_CAN_CREW.md "wikilink")[押韻](../Page/押韻.md "wikilink")と差別化したという。たくさんの人にわかりやすく届けたいという想いも込められているという\[1\]。
-  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")の[鳥谷敬](https://ja.wikipedia.org/wiki/鳥谷敬 "wikilink")[内野手](../Page/内野手.md "wikilink")が[2005年](../Page/2005年.md "wikilink")に[阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")の[バッターボックス](https://ja.wikipedia.org/wiki/バッターボックス "wikilink")に入る際の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")として使用された。
+  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")の[鳥谷敬](https://ja.wikipedia.org/wiki/鳥谷敬 "wikilink")[内野手](../Page/内野手.md "wikilink")が[2005年](../Page/2005年.md "wikilink")に[阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")の[バッターボックス](https://ja.wikipedia.org/wiki/バッターボックス "wikilink")に入る際の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")として使用された。
   - PVは音色と音色 Remixが作られているがチャートバスターズK\!には音色のPVのみしか収録されていない。
 
 ## 収録曲

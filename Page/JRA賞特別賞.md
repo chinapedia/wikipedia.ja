@@ -48,7 +48,7 @@
 （牡6）</p></td>
 <td><p>1戦0勝</p></td>
 <td><p><a href="../Page/日経新春杯.md" title="wikilink">日本経済新春杯での故障から死亡までの報道に対して</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="../Page/小川佐助.md" title="wikilink">小川佐助</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高田久成" title="wikilink">高田久成</a></p></td>
 </tr>
@@ -103,7 +103,7 @@
 <td><p>6戦3勝<br />
 <a href="../Page/オールカマー.md" title="wikilink">オールカマー</a>、<a href="../Page/毎日王冠.md" title="wikilink">毎日王冠</a>、<a href="../Page/マイルチャンピオンシップ.md" title="wikilink">マイルチャンピオンシップ</a></p></td>
 <td><p>ジャパンカップで世界レコードと同タイムでの2着など</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉牧場" title="wikilink">稲葉不奈男</a></p></td>
+<td><p><a href="../Page/稲葉牧場.md" title="wikilink">稲葉不奈男</a></p></td>
 <td><p><a href="../Page/瀬戸口勉.md" title="wikilink">瀬戸口勉</a></p></td>
 <td><p>近藤俊典</p></td>
 </tr>

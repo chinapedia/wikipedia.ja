@@ -572,7 +572,7 @@
 <td><p><a href="../Page/尾崎豊.md" title="wikilink">尾崎豊</a></p></td>
 <td><p>尾崎豊</p></td>
 <td><p>炭竃智弘</p></td>
-<td><p>尾崎豊「<a href="https://ja.wikipedia.org/wiki/卒業_(尾崎豊の曲)" title="wikilink">卒業</a>」のカバー。</p></td>
+<td><p>尾崎豊「<a href="../Page/卒業_(尾崎豊の曲).md" title="wikilink">卒業</a>」のカバー。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>

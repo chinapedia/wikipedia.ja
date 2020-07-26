@@ -52,7 +52,7 @@
   - [山田裕仁](../Page/山田裕仁.md "wikilink") - ボルデノーネ・ケイリン 2位
   - [飯島規之](https://ja.wikipedia.org/wiki/飯島規之 "wikilink") - イボー・個人追抜 2位
   - [濱田浩司](https://ja.wikipedia.org/wiki/濱田浩司 "wikilink")、[大森慶一](https://ja.wikipedia.org/wiki/大森慶一 "wikilink")、[荒井崇博](../Page/荒井崇博.md "wikilink") - メキシコシティ・オリンピックスプリント 2位
-  - [金子貴志](https://ja.wikipedia.org/wiki/金子貴志 "wikilink")、[永井清史](../Page/永井清史.md "wikilink")、[佐野梅一](https://ja.wikipedia.org/wiki/佐野梅一 "wikilink") - イボー・オリンピックスプリント 3位
+  - [金子貴志](../Page/金子貴志.md "wikilink")、[永井清史](../Page/永井清史.md "wikilink")、[佐野梅一](https://ja.wikipedia.org/wiki/佐野梅一 "wikilink") - イボー・オリンピックスプリント 3位
 
 [2002年](../Page/2002年.md "wikilink")
 

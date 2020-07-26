@@ -12,7 +12,7 @@
 
 1.  **Theme of ARASHI** (4:51)
       -
-        作詞：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")、Rap詞：[SHOW](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、作曲・編曲：岩田雅之、Larry Hochman
+        作詞：[岩田雅之](../Page/岩田雅之.md "wikilink")、Rap詞：[SHOW](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、作曲・編曲：岩田雅之、Larry Hochman
 2.  **Easy Crazy Break Down** (3:45)
       -
         作詞：戸沢暢美、作曲：Michael Clauss・Clas Wrigsell、編曲：鈴木雅也

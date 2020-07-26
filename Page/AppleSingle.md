@@ -1,7 +1,7 @@
 > この記事は[AppleSingle](https://ja.wikipedia.org/wiki/AppleSingle)から翻訳されています。
 
 
-**AppleSingle**と**AppleDouble**は、[Mac OSのファイルシステム](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[HFS及び](../Page/Hierarchical_File_System.md "wikilink")[HFS+上のファイルを他の](https://ja.wikipedia.org/wiki/HFS_Plus "wikilink")[ファイルシステム](../Page/ファイルシステム.md "wikilink")と交換する際に、様々なファイル属性(特に[リソースフォーク](../Page/リソースフォーク.md "wikilink"))が欠落するのを防ぐ目的で[アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")（当時）が考案したフォーマットである。バージョン1とバージョン2が存在するが、現在の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")は互換性のない拡張をおこなったバージョン2のAppleDoubleを用いる。
+**AppleSingle**と**AppleDouble**は、[Mac OSのファイルシステム](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[HFS及び](../Page/Hierarchical_File_System.md "wikilink")[HFS+上のファイルを他の](../Page/HFS_Plus.md "wikilink")[ファイルシステム](../Page/ファイルシステム.md "wikilink")と交換する際に、様々なファイル属性(特に[リソースフォーク](../Page/リソースフォーク.md "wikilink"))が欠落するのを防ぐ目的で[アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")（当時）が考案したフォーマットである。バージョン1とバージョン2が存在するが、現在の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")は互換性のない拡張をおこなったバージョン2のAppleDoubleを用いる。
 
 ## 概要
 

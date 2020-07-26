@@ -9,7 +9,7 @@
 
 VHSは、2000年[9月13日](../Page/9月13日.md "wikilink")に「[ayumi hamasaki concert tour 2000 A 第2幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")」（VHS）と同時発売。DVDは、2000年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")にアルバム『[Duty](../Page/Duty.md "wikilink")』、シングル「[SURREAL](../Page/SURREAL.md "wikilink")」、DVD「ayumi hamasaki concert tour 2000 A 第2幕」と同時発売された。
 
-[オリコンの](../Page/オリコンチャート.md "wikilink")2000年[10月9日](../Page/10月9日.md "wikilink")付DVDチャートで初登場1位を獲得し、「Duty」「SURREAL」と合わせて同時初登場1位の「3冠」を史上初めて達成した。以後、同記録を達成したのは、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の3組のみである\[1\]。
+[オリコンの](../Page/オリコンチャート.md "wikilink")2000年[10月9日](../Page/10月9日.md "wikilink")付DVDチャートで初登場1位を獲得し、「Duty」「SURREAL」と合わせて同時初登場1位の「3冠」を史上初めて達成した。以後、同記録を達成したのは、[KAT-TUN](../Page/KAT-TUN.md "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の3組のみである\[1\]。
 
 DVDには、マルチアングルでステージ裏のオフショット映像が収録されている。ワイドスクリーン(16:9)[スクイーズ](../Page/スクイーズ.md "wikilink")収録。音声は、[ドルビーデジタル](../Page/ドルビーデジタル.md "wikilink")ステレオのみ。
 

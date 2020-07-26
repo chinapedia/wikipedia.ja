@@ -3,7 +3,7 @@
 
 『**Cheese\!**』（**チーズ\!**）は、[小学館](../Page/小学館.md "wikilink")が発行する少女向けの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。刊行月の前々月24日に発売されている。
 
-[1996年](../Page/1996年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に創刊。1996年10月号が創刊号。『[少女コミック](../Page/少女コミック.md "wikilink")』（小学館）の派生誌。 創刊当初は『少女コミックCheese\!（SHO-COMIチーズ\!）』の誌名で毎月28日に発売され、作家陣も[赤石路代](../Page/赤石路代.md "wikilink")、[北川みゆき](../Page/北川みゆき.md "wikilink")、[すもと亜夢](https://ja.wikipedia.org/wiki/すもと亜夢 "wikilink")など『少女コミック』からの移籍組だった。現在も[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")、[宮坂香帆](../Page/宮坂香帆.md "wikilink")などSho-Comiからの移籍組も多いが、[嶋木あこ](../Page/嶋木あこ.md "wikilink")を筆頭にCheese\!生え抜き作家も多い。
+[1996年](../Page/1996年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に創刊。1996年10月号が創刊号。『[少女コミック](../Page/少女コミック.md "wikilink")』（小学館）の派生誌。 創刊当初は『少女コミックCheese\!（SHO-COMIチーズ\!）』の誌名で毎月28日に発売され、作家陣も[赤石路代](../Page/赤石路代.md "wikilink")、[北川みゆき](../Page/北川みゆき.md "wikilink")、[すもと亜夢](https://ja.wikipedia.org/wiki/すもと亜夢 "wikilink")など『少女コミック』からの移籍組だった。現在も[青木琴美](../Page/青木琴美_\(漫画家\).md "wikilink")、[宮坂香帆](../Page/宮坂香帆.md "wikilink")などSho-Comiからの移籍組も多いが、[嶋木あこ](../Page/嶋木あこ.md "wikilink")を筆頭にCheese\!生え抜き作家も多い。
 
 女子高校生・大学生～社会人を主なターゲットとしており、ラブストーリーが主に掲載されているが、歌舞伎や病児保育など硬派なテーマも取り扱っている。
 
@@ -24,7 +24,7 @@
   - [37.5℃の涙](https://ja.wikipedia.org/wiki/37.5℃の涙 "wikilink")（[椎名チカ](https://ja.wikipedia.org/wiki/椎名チカ "wikilink")）：2013年12月号 - 2014年11月号、2015年7月号 -
   - 執事たちの沈黙（[桜田雛](https://ja.wikipedia.org/wiki/桜田雛 "wikilink")）
   - なめて、かじって、ときどき愛でて（[湯町深](https://ja.wikipedia.org/wiki/湯町深 "wikilink")）
-  - 虹、甘えてよ（[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")）
+  - 虹、甘えてよ（[青木琴美](../Page/青木琴美_\(漫画家\).md "wikilink")）
   - ハツコイ×アゲイン（華谷艶）
   - 発熱リビドー（雨村澪）
   - 放課後トキシック（川上ちひろ）
@@ -48,7 +48,7 @@
 
 ### か行
 
-  - [カノジョは嘘を愛しすぎてる](https://ja.wikipedia.org/wiki/カノジョは嘘を愛しすぎてる "wikilink")（[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")）
+  - [カノジョは嘘を愛しすぎてる](https://ja.wikipedia.org/wiki/カノジョは嘘を愛しすぎてる "wikilink")（[青木琴美](../Page/青木琴美_\(漫画家\).md "wikilink")）
   - キス、絶交、キス〜ボクらの場合〜（[藤原よしこ](../Page/藤原よしこ.md "wikilink")）
   - キスは0時を過ぎてから（[刑部真芯](../Page/刑部真芯.md "wikilink")）
   - キミのキスで触れて（花緒莉）

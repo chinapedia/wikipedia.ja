@@ -50,14 +50,14 @@ NECグループの企業や[住友グループ](../Page/住友グループ.md "w
   - [1956年](../Page/1956年.md "wikilink") 初のテレビ放送設備工事を受注
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") 情報付帯設備分野へ進出
   - [1967年](../Page/1967年.md "wikilink") [NHKの世界初の放送自動化工事](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") [通信線路](../Page/通信線路.md "wikilink")分野へ進出、[メキシコオリンピック](https://ja.wikipedia.org/wiki/メキシコオリンピック "wikilink")衛星通信工事
+  - [1968年](../Page/1968年.md "wikilink") [通信線路](../Page/通信線路.md "wikilink")分野へ進出、[メキシコオリンピック](https://ja.wikipedia.org/wiki/メキシコオリンピック "wikilink")衛星通信工事
   - [1970年](../Page/1970年.md "wikilink") 初のデータ通信総合工事を受注
   - [1976年](../Page/1976年.md "wikilink") 初の海外現地法人を[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")に設立
   - [1977年](../Page/1977年.md "wikilink") [電子交換機](https://ja.wikipedia.org/wiki/電子交換機 "wikilink")部門強化　交換ソフト分野へ本格進出
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") 「日本電気システム建設株式会社」に社名変更
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") 東京証券取引所第二部上場
   - [1984年](../Page/1984年.md "wikilink") 国内拠点本部を新設し全国展開網を強化、[VANシステム工事本格化](https://ja.wikipedia.org/wiki/:en:Value-added_network "wikilink")
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") 24時間対応メンテナンスセンター完成、[NCC工事本格化](https://ja.wikipedia.org/wiki/新電電 "wikilink")、新民営通信事業各社より大型受注、情報処理ソフトウェア開発体制発足
+  - [1986年](../Page/1986年.md "wikilink") 24時間対応メンテナンスセンター完成、[NCC工事本格化](https://ja.wikipedia.org/wiki/新電電 "wikilink")、新民営通信事業各社より大型受注、情報処理ソフトウェア開発体制発足
   - [1988年](../Page/1988年.md "wikilink") 売上高1000億円突破
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") 研修・研究施設「伊勢原テクニカルセンター」設立
   - [1992年](../Page/1992年.md "wikilink") 東京証券取引所第一部上場、C\&Cシステムインテグレーション体制を強化

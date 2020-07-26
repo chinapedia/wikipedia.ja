@@ -112,7 +112,7 @@
     [ハリー・シアラー](https://ja.wikipedia.org/wiki/ハリー・シアラー "wikilink")
     TVリポーターでテレビ局のメインキャスター。部下のオードリーをこき使う嫌味な上司。妻がいるが、オードリーを自宅に呼ぼうとする。オードリーが掴んだゴジラのネタを横取りした上に、「ゴッド・ジラ」と誤読、さらにニックの姓を「パパドプラス」と呼び間違える醜態を演じている。
   - エバート市長
-    [マイケル・ラーナー](https://ja.wikipedia.org/wiki/マイケル・ラーナー "wikilink")
+    [マイケル・ラーナー](../Page/マイケル・ラーナー.md "wikilink")
     ニューヨーク市長。ゴジラ退治より自身の市長選のことを心配している。甘い物が好きだが、医者に止められている。側近のジーンを何かとぞんざいに扱うが、クライマックスで彼がいないと何も出来ないという本音を漏らした。モデルはエメリッヒの映画を酷評することの多い映画評論家の[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")。
   - メンデル・クレイブン博士
     [マルコム・ダネア](https://ja.wikipedia.org/wiki/マルコム・ダネア "wikilink")
@@ -135,7 +135,7 @@
   - 日本の漁船「小林丸」船長
     [トシ・トダ](https://ja.wikipedia.org/wiki/トシ・トダ "wikilink")
   - 漁労長
-    [クライド・クサツ](https://ja.wikipedia.org/wiki/クライド・クサツ "wikilink")
+    [クライド・クサツ](../Page/クライド・クサツ.md "wikilink")
   - 船員
     [加藤雅也](../Page/加藤雅也.md "wikilink")（マサヤ・カトーとして）
     小林丸の乗組員達。冒頭、ゴジラに襲撃され老船員以外の他の船員は全員死亡する。
@@ -172,7 +172,7 @@
   - [M4A1](../Page/M4カービン.md "wikilink")[カービン](../Page/カービン.md "wikilink")
   - [H\&K MP5](../Page/H&K_MP5.md "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")
   - [H\&K HK21](https://ja.wikipedia.org/wiki/H&K_HK21 "wikilink")[汎用機関銃](../Page/汎用機関銃.md "wikilink")
-  - [フランキ・スパス15](https://ja.wikipedia.org/wiki/フランキ・スパス15 "wikilink")[散弾銃](../Page/散弾銃.md "wikilink")
+  - [フランキ・スパス15](../Page/フランキ・スパス15.md "wikilink")[散弾銃](../Page/散弾銃.md "wikilink")
   - [RDI ストライカー12散弾銃](https://ja.wikipedia.org/wiki/RDI_ストライカー12 "wikilink")
   - [M136 AT4](../Page/AT4_\(携行対戦車弾\).md "wikilink")[無反動砲](../Page/無反動砲.md "wikilink")
   - [AK-47](../Page/AK-47.md "wikilink")自動小銃
@@ -213,13 +213,13 @@
 | [ヴィッキー・ルイス](https://ja.wikipedia.org/wiki/ヴィッキー・ルイス "wikilink")   | [野沢由香里](../Page/野沢由香里.md "wikilink")                  |
 | [アラベラ・フィールド](https://ja.wikipedia.org/wiki/アラベラ・フィールド "wikilink") | [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink") |
 | [ハリー・シアラー](https://ja.wikipedia.org/wiki/ハリー・シアラー "wikilink")     | [牛山茂](../Page/牛山茂.md "wikilink")                      |
-| [マイケル・ラーナー](https://ja.wikipedia.org/wiki/マイケル・ラーナー "wikilink")   | [青野武](../Page/青野武.md "wikilink")                      |
+| [マイケル・ラーナー](../Page/マイケル・ラーナー.md "wikilink")                      | [青野武](../Page/青野武.md "wikilink")                      |
 | [マルコム・ダネア](https://ja.wikipedia.org/wiki/マルコム・ダネア "wikilink")     | [福田信昭](../Page/福田信昭.md "wikilink")                    |
 |                                                                   |                                                       |
 
   - ソフト版：初回放送2016年8月1日『[午後のロードショー](../Page/午後のロードショー.md "wikilink")』
       - 演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")
-      - その他：[稲葉実](../Page/稲葉実.md "wikilink")、[岩田安生](../Page/岩田安生.md "wikilink")、[青山穣](../Page/青山穣.md "wikilink")、[伊藤和晃](../Page/伊藤和晃.md "wikilink")、[秋元羊介](../Page/秋元羊介.md "wikilink")、[小関一](../Page/小関一.md "wikilink")、[田原アルノ](../Page/田原アルノ.md "wikilink")、[長島雄一](../Page/チョー_\(俳優\).md "wikilink")、[立木文彦](../Page/立木文彦.md "wikilink")、[加瀬康之](../Page/加瀬康之.md "wikilink")、[樫井笙人](../Page/樫井笙人.md "wikilink")、[鈴木紀子](https://ja.wikipedia.org/wiki/鈴木紀子 "wikilink")、[小野美幸](../Page/小野未喜.md "wikilink")、加藤正人、児玉孝子、[乃村健次](../Page/乃村健次.md "wikilink")、[坪井智浩](../Page/坪井智浩.md "wikilink")、[くわはら利晃](https://ja.wikipedia.org/wiki/くわはら利晃 "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")
+      - その他：[稲葉実](../Page/稲葉実.md "wikilink")、[岩田安生](../Page/岩田安生.md "wikilink")、[青山穣](../Page/青山穣.md "wikilink")、[伊藤和晃](../Page/伊藤和晃.md "wikilink")、[秋元羊介](../Page/秋元羊介.md "wikilink")、[小関一](../Page/小関一.md "wikilink")、[田原アルノ](../Page/田原アルノ.md "wikilink")、[長島雄一](../Page/チョー_\(俳優\).md "wikilink")、[立木文彦](../Page/立木文彦.md "wikilink")、[加瀬康之](../Page/加瀬康之.md "wikilink")、[樫井笙人](../Page/樫井笙人.md "wikilink")、[鈴木紀子](https://ja.wikipedia.org/wiki/鈴木紀子 "wikilink")、[小野美幸](../Page/小野未喜.md "wikilink")、加藤正人、児玉孝子、[乃村健次](../Page/乃村健次.md "wikilink")、[坪井智浩](../Page/坪井智浩.md "wikilink")、[くわはら利晃](../Page/くわはら利晃.md "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")
   - 日本テレビ版：初回放送2001年7月20日『[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")』
 
 ## 製作の背景
@@ -256,7 +256,7 @@
 
 しかし、ゴジラシリーズ60周年となる2014年には同年に発売された雑誌や書籍などに、日本版ゴジラと共に再評価の的になり「あれはゴジラではない」「あれもまたゴジラ映画だ」の賛否両論が挙げられて、日本のライターである[ガイガン山崎](https://ja.wikipedia.org/wiki/ガイガン山崎 "wikilink")\[16\]や[高橋ヨシキ](../Page/高橋ヨシキ.md "wikilink")\[17\]も、本作もゴジラ映画の一つの形として肯定する評価のコメントを掲載している。
 
-デヴリンは20周年記念に[Syfy](https://ja.wikipedia.org/wiki/Syfy "wikilink")のインタビューで「自分はゴジラと共に育ったがエメリッヒはそうではなかった」「エメリッヒは映画に情熱を持っていたがゴジラの遺産、ゴジラを愛する人たちを幸せにするのと反対の方法をとった」「インデペンデンス・デイと比較されることて過度に厳しく評価されたとも言え、他方ではゴジラと同等の象徴的な何かを引き受けるのに必要なものの上に生きている」「期待が低い所で見るとこの映画は実際にはかなり良い」と答えている。\[18\]。
+デヴリンは20周年記念に[Syfy](../Page/Syfy.md "wikilink")のインタビューで「自分はゴジラと共に育ったがエメリッヒはそうではなかった」「エメリッヒは映画に情熱を持っていたがゴジラの遺産、ゴジラを愛する人たちを幸せにするのと反対の方法をとった」「インデペンデンス・デイと比較されることて過度に厳しく評価されたとも言え、他方ではゴジラと同等の象徴的な何かを引き受けるのに必要なものの上に生きている」「期待が低い所で見るとこの映画は実際にはかなり良い」と答えている。\[18\]。
 
 ### 受賞記録
 
@@ -338,7 +338,7 @@
   - 劇中冒頭に[イグアナ](https://ja.wikipedia.org/wiki/イグアナ "wikilink")類をアップで捉えたカットがあったため、当初から「イグアナに似た怪獣が登場する」という情報がメディアを通して広まっていた（本作の日本版パンフレットにもそう記されている）。
   - 製作のディーン・デブリンが来日した際、体の大きさをマスコミが尋ねると、「日本人はどうしてそんな細かいことを気にするんだ？」と逆に尋ねられたという。これに象徴されるように、関連グッズ等のイラストから、劇中でのゴジラの大きさまで統一されていない。公開時ニューヨークには「自由の女神より大きく、20階建てのビルに匹敵する」と描かれた看板が立てられた。
   - 日本漁船の名前「小林丸」は『[スタートレック](../Page/スタートレック.md "wikilink")』シリーズに登場する[コバヤシマル](../Page/コバヤシマル.md "wikilink")シナリオに由来する。
-  - 小林丸の船員たちは[クライド・クサツ](https://ja.wikipedia.org/wiki/クライド・クサツ "wikilink")や[加藤雅也](../Page/加藤雅也.md "wikilink")などの日系人・日本人が演じている。
+  - 小林丸の船員たちは[クライド・クサツ](../Page/クライド・クサツ.md "wikilink")や[加藤雅也](../Page/加藤雅也.md "wikilink")などの日系人・日本人が演じている。
   - 日本では[ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")とのタイアップが図られ、[ピンバッジ](https://ja.wikipedia.org/wiki/ピンバッジ "wikilink")プレゼントなどが行われた。
   - 公開当時『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』に連載された『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』の「ニューヨークへ行く」ではハリウッドのゴジラ・ワールド・プレミアの招待券を貰った[ぬーべーが郷子](../Page/鵺野鳴介.md "wikilink")、美樹と共に本作のゴジラに会いに行くという内容になっている。この話は版権の関係で単行本未収録である。理由はパロディではなく正式に映画『GODZILLA』のゴジラが登場し、さらに「ゴジラ」という名称が登場しているため版権の関係で未収録となったことが、[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")第30巻に掲載されている。
   - 本作公開1か月後に公開された『釣りバカ日誌10』冒頭で浜崎伝助と鈴木一之介がゴジラを釣る漫画のお遊びがある。

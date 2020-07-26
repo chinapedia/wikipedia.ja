@@ -3,7 +3,7 @@
 
 **NEA**
 
-  - 原子力機関（）の略称 - [経済協力開発機構原子力機関](https://ja.wikipedia.org/wiki/経済協力開発機構原子力機関 "wikilink")（OECD/NEA）
+  - 原子力機関（）の略称 - [経済協力開発機構原子力機関](../Page/経済協力開発機構原子力機関.md "wikilink")（OECD/NEA）
 
   - [東北方面隊](../Page/東北方面隊.md "wikilink")（）の略称 - [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[方面隊](../Page/方面隊.md "wikilink")のひとつ。[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の防衛警備や災害派遣等を担任している。
 

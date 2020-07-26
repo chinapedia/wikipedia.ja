@@ -99,7 +99,7 @@
       - [12月2日](../Page/12月2日.md "wikilink") 『Pia♥キャロットへようこそ\!\!2.2』発売
   - [2001年](../Page/2001年.md "wikilink")
       - [1月25日](../Page/1月25日.md "wikilink") 『Pia♥キャロットへようこそ\!\!2 DX』総集編発売
-      - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") 18禁OVA版『Pia♥キャロットへようこそ\!\!2』DVD版発売
+      - [1月26日](../Page/1月26日.md "wikilink") 18禁OVA版『Pia♥キャロットへようこそ\!\!2』DVD版発売
       - [6月21日](../Page/6月21日.md "wikilink") 『Pia♥キャロットへようこそ\!\!2.5』発売
       - [10月26日](../Page/10月26日.md "wikilink") WindowsMe/2000対応版『Pia♥キャロットへようこそ\!\!2』発売
       - [11月30日](../Page/11月30日.md "wikilink") Windows版『Pia♥キャロットへようこそ\!\!3』発売

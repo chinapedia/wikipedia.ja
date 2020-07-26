@@ -1,7 +1,7 @@
 > この記事は[PowerPC 970](https://ja.wikipedia.org/wiki/PowerPC_970)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:PPC-970fx.jpg "wikilink")  ** 970**シリーズは、[IBM](../Page/IBM.md "wikilink")が[2002年](../Page/2002年.md "wikilink")に発表した  アーキテクチャの[スーパースカラ型](https://ja.wikipedia.org/wiki/スーパースケーラ "wikilink")[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PPC-970fx.jpg "wikilink")  ** 970**シリーズは、[IBM](../Page/IBM.md "wikilink")が[2002年](../Page/2002年.md "wikilink")に発表した  アーキテクチャの[スーパースカラ型](https://ja.wikipedia.org/wiki/スーパースケーラ "wikilink")[64ビット](../Page/64ビット.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。
 
 970シリーズはIBMと[アップルにより共同で開発された](../Page/アップル_\(企業\).md "wikilink")\[1\]\[2\]。このプロジェクトは**GP-UL**、またの名を  という開発名の下で進められた。 とはこのコアの元となった  の開発名である。アップルは  に採用し、このプロセッサは5年にもわたる共同開発の成果であり、将来複数世代にわたって採用することになると述べていたが、このプロセッサのマッキントッシュでの利用は3年間と短命に終わった。IBM が CPU の高速化に失敗した為、アップルは  のリリース後1年で3GHzのプロセッサを生産するという約束を撤回しなければならなかった。IBMは、ポータブルコンピュータに合うように、プロセッサの消費電力を十分に落とすことができなかった。アップルはこのプロセッサの派生品を3つ採用したに過ぎない。
 
@@ -11,7 +11,7 @@ IBMの[ブレードサーバ](../Page/ブレードサーバ.md "wikilink")用モ
 
 ## 設計
 
-970 は  をシングルコアに簡素化させたもので、[32ビット](../Page/32ビット.md "wikilink")および[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")の  命令をネイティブに処理できる。プロセッサコアのマイクロアーキテクチャとしては[アウト・オブ・オーダー実行](../Page/アウト・オブ・オーダー実行.md "wikilink")可能な5-wayの[スーパースカラ](https://ja.wikipedia.org/wiki/スーパースカラ "wikilink")であり、主な仕様は以下の通り。
+970 は  をシングルコアに簡素化させたもので、[32ビット](../Page/32ビット.md "wikilink")および[64ビット](../Page/64ビット.md "wikilink")の  命令をネイティブに処理できる。プロセッサコアのマイクロアーキテクチャとしては[アウト・オブ・オーダー実行](../Page/アウト・オブ・オーダー実行.md "wikilink")可能な5-wayの[スーパースカラ](https://ja.wikipedia.org/wiki/スーパースカラ "wikilink")であり、主な仕様は以下の通り。
 
   - クロックあたり8命令フェッチ
     一次命令[キャッシュとは](../Page/キャッシュメモリ.md "wikilink")32バイト/サイクルの帯域で接続されており、1サイクルにつき8命令をフェッチ可能。
@@ -50,7 +50,7 @@ IBMの[ブレードサーバ](../Page/ブレードサーバ.md "wikilink")用モ
 
 ###
 
-はIBMによって2002年の10月に発表された。これは、2003年6月に出荷されたアップルの [{{lang](https://ja.wikipedia.org/wiki/Power_Mac#Power_Mac_G5 "wikilink") に対してリリースされたものである（前に使用していた慣用名を引き継いで、アップルは  970 ベースの製品を  と呼んでいた。これは、このプロセッサが  プロセッサの第五世代に当たるからである。）。IBM は  970 を採用した最初のブレードサーバ、[{{lang](https://ja.wikipedia.org/wiki/BladeCenter "wikilink") を、2003年11月にリリースした。
+はIBMによって2002年の10月に発表された。これは、2003年6月に出荷されたアップルの [{{lang](https://ja.wikipedia.org/wiki/Power_Mac#Power_Mac_G5 "wikilink") に対してリリースされたものである（前に使用していた慣用名を引き継いで、アップルは  970 ベースの製品を  と呼んでいた。これは、このプロセッサが  プロセッサの第五世代に当たるからである。）。IBM は  970 を採用した最初のブレードサーバ、[{{lang](../Page/BladeCenter.md "wikilink") を、2003年11月にリリースした。
 
 970 は512KBのフルスピード[L2](../Page/L2キャッシュ.md "wikilink")[キャッシュを持ち](../Page/キャッシュメモリ.md "wikilink")、1.6GHzから2.0GHzまでのクロック速度で動作した。(8GFLOPS\[1GHz動作時\]) フロントサイドバスはプロセッサのクロック速度の半分の速度で動作していた。
 

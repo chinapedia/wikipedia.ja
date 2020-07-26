@@ -17,7 +17,7 @@
   - [ムッチャDOLL箱 乙女の祈り](../Page/ムッチャDOLL箱_乙女の祈り.md "wikilink")（2005年2月20日、2005年3月20日放送）
   - [なるトモ\!女の子だけ集まっちゃいましたSP](https://ja.wikipedia.org/wiki/なるトモ!#2005年10月以降のスペシャル番組 "wikilink")（2005年11月5日放送）
   - [現代用語の基礎体力](../Page/現代用語の基礎体力.md "wikilink")（2008年2月16日、2008年3月1日放送）1989 - 1990年制作作品のDVD-BOX発売に併せて放送。
-  - [現代用語のムイミダス ぶっとい広辞苑](https://ja.wikipedia.org/wiki/現代用語のムイミダス_ぶっとい広辞苑 "wikilink")（2008年3月8日、2008年3月15日放送） 1988 - 1991年制作の[週刊テレビ広辞苑](../Page/週刊テレビ広辞苑.md "wikilink")、[現代用語の基礎体力](../Page/現代用語の基礎体力.md "wikilink")、[ムイミダス](https://ja.wikipedia.org/wiki/ムイミダス "wikilink")、[未確認飛行ぶっとい](https://ja.wikipedia.org/wiki/未確認飛行ぶっとい "wikilink")各作品を元にした新作DVD-BOX発売に併せて放送。
+  - [現代用語のムイミダス ぶっとい広辞苑](https://ja.wikipedia.org/wiki/現代用語のムイミダス_ぶっとい広辞苑 "wikilink")（2008年3月8日、2008年3月15日放送） 1988 - 1991年制作の[週刊テレビ広辞苑](../Page/週刊テレビ広辞苑.md "wikilink")、[現代用語の基礎体力](../Page/現代用語の基礎体力.md "wikilink")、[ムイミダス](../Page/ムイミダス.md "wikilink")、[未確認飛行ぶっとい](https://ja.wikipedia.org/wiki/未確認飛行ぶっとい "wikilink")各作品を元にした新作DVD-BOX発売に併せて放送。
 
 ### サタデーバリューフィーバー（前：バリューナイトフィーバー）
 

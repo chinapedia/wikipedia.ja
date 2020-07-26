@@ -1,7 +1,7 @@
 > この記事は[Junji\&Chikaの歌の新婚愛ランド](https://ja.wikipedia.org/wiki/Junji\&Chikaの歌の新婚愛ランド)から翻訳されています。
 
 
-『**Junji\&Chikaの歌の新婚愛ランド**』（ジュンジとチカのうたのしんこんあいランド）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[TBS系列フルネット局と](https://ja.wikipedia.org/wiki/JNN "wikilink")[テレビ山口](../Page/テレビ山口.md "wikilink")で放送された、[毎日放送制作の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[視聴者参加型の歌合戦番組](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 13:00 - 13:54 ([JST](../Page/日本標準時.md "wikilink")) 。
+『**Junji\&Chikaの歌の新婚愛ランド**』（ジュンジとチカのうたのしんこんあいランド）は、[1986年](../Page/1986年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[TBS系列フルネット局と](https://ja.wikipedia.org/wiki/JNN "wikilink")[テレビ山口](../Page/テレビ山口.md "wikilink")で放送された、[毎日放送制作の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[視聴者参加型の歌合戦番組](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 13:00 - 13:54 ([JST](../Page/日本標準時.md "wikilink")) 。
 
 ## 概要
 

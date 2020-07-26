@@ -21,7 +21,7 @@
 
   - [プライマリー](../Page/プライマリー_\(映画\).md "wikilink") *[Primary](https://ja.wikipedia.org/wiki/:en:Primary_\(movie\) "wikilink")*（[1960年](../Page/1960年.md "wikilink")） - 撮影・録音
   - [ドント・ルック・バック](https://ja.wikipedia.org/wiki/ドント・ルック・バック_\(ボブ・ディランの映画\) "wikilink") *[Dont Look Back](https://ja.wikipedia.org/wiki/:en:Dont_Look_Back "wikilink")*（[1967年](../Page/1967年.md "wikilink")、撮影：[1965年](../Page/1965年.md "wikilink")、出演：[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")）
-  - モンタレー・ポップ フェスティバル'67 *[Monterey Pop](https://ja.wikipedia.org/wiki/:en:Monterey_Pop "wikilink")*（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、撮影：[1967年](../Page/1967年.md "wikilink")）
+  - モンタレー・ポップ フェスティバル'67 *[Monterey Pop](https://ja.wikipedia.org/wiki/:en:Monterey_Pop "wikilink")*（[1968年](../Page/1968年.md "wikilink")、撮影：[1967年](../Page/1967年.md "wikilink")）
   - *Rock N Roll Music*（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")、出演：[チャック・ベリー](../Page/チャック・ベリー.md "wikilink")）
   - ''Keep On Rockin' ''（1969年、出演：[リトル・リチャード](../Page/リトル・リチャード.md "wikilink")）
   - [ワン・アメリカン・ムービー](../Page/ワン・アメリカン・ムービー.md "wikilink") *One A.M.*（*1PM*）（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、撮影：1968年、共同監督：[ジャン＝リュック・ゴダール](../Page/ジャン＝リュック・ゴダール.md "wikilink")）
@@ -30,7 +30,7 @@
   - ジギー・スターダスト *[Ziggy Stardust and the Spiders from Mars](https://ja.wikipedia.org/wiki/:en:Ziggy_Stardust_and_the_Spiders_from_Mars_\(film\) "wikilink")*（[1973年](../Page/1973年.md "wikilink")、主演：[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")）
   - *[Town Bloody Hall](https://ja.wikipedia.org/wiki/:en:Town_Bloody_Hall "wikilink")*（[1979年](../Page/1979年.md "wikilink")）
   - *[DeLorean](https://ja.wikipedia.org/wiki/:en:DeLorean "wikilink")*（[1981年](../Page/1981年.md "wikilink")、主演：[ジョン・デロリアン](https://ja.wikipedia.org/wiki/ジョン・デロリアン "wikilink")〔[John DeLorean](https://ja.wikipedia.org/wiki/:en:John_DeLorean "wikilink")〕）
-  - ジミ・ヘン&オーティス ライブ・アット・モンタレー *Jimi Plays Monterey*（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、主演：[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")）
+  - ジミ・ヘン&オーティス ライブ・アット・モンタレー *Jimi Plays Monterey*（[1986年](../Page/1986年.md "wikilink")、主演：[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")）
   - *[101](https://ja.wikipedia.org/wiki/:en:101_\(album\) "wikilink")*（[1989年](../Page/1989年.md "wikilink")、主演：[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")）
   - クリントンを大統領にした男 '' [The War Room](https://ja.wikipedia.org/wiki/:en:The_War_Room "wikilink")''（[1993年](../Page/1993年.md "wikilink")）
   - *[Woodstock Diary](https://ja.wikipedia.org/wiki/:en:Woodstock_Diary "wikilink")*（[1994年](../Page/1994年.md "wikilink")）

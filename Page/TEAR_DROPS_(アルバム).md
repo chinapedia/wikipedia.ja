@@ -68,7 +68,7 @@
 [Category:岡村孝子のアルバム](https://ja.wikipedia.org/wiki/Category:岡村孝子のアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:BMG_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:BMG_JAPANのアルバム "wikilink")
 
 1.  2[CD](../Page/コンパクトディスク.md "wikilink")＋1[DVD](../Page/DVD.md "wikilink")付の初回限定生産盤と、2CDのみ通常盤の2形態が発売された。
-2.  前年の20周年記念コンサート「DO MY BEST」最終日公演には加藤晴子がサプライズ・ゲストとして登場し、「[待つわ](../Page/待つわ.md "wikilink")」と「[天晴な青空](../Page/天晴な青空.md "wikilink")」をふたりで歌った。その模様はDVD『[Encore V 〜20th Anniversary Concert Tour, '02 DO MY BEST〜](https://ja.wikipedia.org/wiki/Encore_V_〜20th_Anniversary_Concert_Tour,_'02_DO_MY_BEST〜 "wikilink")』で視聴可能。
+2.  前年の20周年記念コンサート「DO MY BEST」最終日公演には加藤晴子がサプライズ・ゲストとして登場し、「[待つわ](../Page/待つわ.md "wikilink")」と「[天晴な青空](../Page/天晴な青空.md "wikilink")」をふたりで歌った。その模様はDVD『[Encore V 〜20th Anniversary Concert Tour, '02 DO MY BEST〜](../Page/Encore_V_〜20th_Anniversary_Concert_Tour,_'02_DO_MY_BEST〜.md "wikilink")』で視聴可能。
 3.  最も20周年の記念になることは何かと考えたとき、加藤にもう一度ハモってもらうことだったと語っている。
 4.  [1988年](../Page/1988年.md "wikilink")暮れには、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")もされた。元々はコンサート「[Christmas Picnic](https://ja.wikipedia.org/wiki/Christmas_Picnic "wikilink")」で歌えるハッピーなクリスマスソングになる予定であったが、出来上がったら大失恋ソングになってしまっていたと本人が語っている楽曲。
 5.  「2003 Version」は本アルバムのみの収録。

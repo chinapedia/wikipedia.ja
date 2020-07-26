@@ -4,7 +4,7 @@
 **Daily Planet**（デイリー・プラネット）は、[TOKYO FMで放送されていた](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。“アナタと創るラジオの中の新聞社”が番組コンセプト。DJの喋る時間よりも音楽の流れる時間が長い。
 
 タイトルは「[スーパーマン](../Page/スーパーマン.md "wikilink")」に登場する架空の新聞の名を頂いたもの。
-なお、2008年12月末で[堀内貴之](https://ja.wikipedia.org/wiki/堀内貴之 "wikilink")は番組を降板したが、2009年2月よりDaily Planetの思想を引き継いだWebサイト[DP labを立ち上げた](https://ja.wikipedia.org/wiki/DP_lab "wikilink")。
+なお、2008年12月末で[堀内貴之](../Page/堀内貴之.md "wikilink")は番組を降板したが、2009年2月よりDaily Planetの思想を引き継いだWebサイト[DP labを立ち上げた](https://ja.wikipedia.org/wiki/DP_lab "wikilink")。
 
 ## コーナー
 
@@ -30,7 +30,7 @@
 
 ## DJ
 
-  - [堀内貴之](https://ja.wikipedia.org/wiki/堀内貴之 "wikilink")（開始～2008.12.31）
+  - [堀内貴之](../Page/堀内貴之.md "wikilink")（開始～2008.12.31）
   - **[石川實](../Page/石川實.md "wikilink")**（2009.1.1～2009.3.31、10ヶ月ぶりのTOKYO FM登板）
   - 守乃ブナ（現：[鈴木万由香](../Page/鈴木万由香.md "wikilink")、[Humming bird](https://ja.wikipedia.org/wiki/Humming_bird "wikilink")）
   - [小川瀬里奈](https://ja.wikipedia.org/wiki/小川瀬里奈 "wikilink")（開始～2008.9、[Dr.ホリンキー診療所](https://ja.wikipedia.org/wiki/Dr.ホリンキー診療所 "wikilink")）

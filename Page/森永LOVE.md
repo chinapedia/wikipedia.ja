@@ -23,7 +23,7 @@
 
   - [足立区](../Page/足立区.md "wikilink")（[北千住](https://ja.wikipedia.org/wiki/北千住 "wikilink")店）
   - [北区](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")（豊島団地店）
-  - [品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")（[大崎](../Page/大崎_\(品川区\).md "wikilink")[ニューシティ店](https://ja.wikipedia.org/wiki/大崎ニューシティ "wikilink")・[五反田](../Page/五反田.md "wikilink")店）
+  - [品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")（[大崎](../Page/大崎_\(品川区\).md "wikilink")[ニューシティ店](../Page/大崎ニューシティ.md "wikilink")・[五反田](../Page/五反田.md "wikilink")店）
   - [渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")（[渋谷](../Page/渋谷.md "wikilink")店・[渋谷文化通り店](https://ja.wikipedia.org/wiki/文化村通り "wikilink")・[幡ヶ谷](../Page/幡ヶ谷.md "wikilink")店・[原宿](../Page/原宿.md "wikilink")[竹下通り](../Page/竹下通り.md "wikilink")店）
   - [新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")（[市ヶ谷](https://ja.wikipedia.org/wiki/市ヶ谷 "wikilink")店・[新宿](../Page/新宿.md "wikilink")[センタービル店](../Page/新宿センタービル.md "wikilink")・[高田馬場](../Page/高田馬場.md "wikilink")さかえ通り店）
   - [杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")（[久我山](../Page/久我山.md "wikilink")店）

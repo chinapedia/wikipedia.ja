@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")5月 - **株式会社福井共同電子計算センター**設立。
+  - [1968年](../Page/1968年.md "wikilink")5月 - **株式会社福井共同電子計算センター**設立。
   - [1973年](../Page/1973年.md "wikilink")5月 - **共同コンピュータ株式会社**に社名変更。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月 - 株式を店頭公開（現在の[JASDAQ](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）。
   - [2004年](../Page/2004年.md "wikilink")10月 - [会社分割](../Page/会社分割.md "wikilink")により持株会社化し、**共同コンピュータホールディングス株式会社**に社名変更。事業子会社として共同コンピュータ株式会社を設立。

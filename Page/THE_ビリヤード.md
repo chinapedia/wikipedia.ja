@@ -16,7 +16,7 @@
   - [ローテーション](https://ja.wikipedia.org/wiki/ローテーション "wikilink")（Rotation）
   - [ベーシック](https://ja.wikipedia.org/wiki/ベーシック "wikilink")（Basic）
   - [カットスロート](https://ja.wikipedia.org/wiki/カットスロート "wikilink")（Cut Throat）
-  - [5-9](https://ja.wikipedia.org/wiki/ナインボール#ルール "wikilink")（ナインボールの[ローカルルール](https://ja.wikipedia.org/wiki/ローカルルール "wikilink")）
+  - [5-9](https://ja.wikipedia.org/wiki/ナインボール#ルール "wikilink")（ナインボールの[ローカルルール](../Page/ローカルルール.md "wikilink")）
 
 ## DS版
 

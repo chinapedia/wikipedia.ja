@@ -27,7 +27,7 @@
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")-[1963年](../Page/1963年.md "wikilink") - [ケルソ](../Page/ケルソ.md "wikilink")が3年連続で2着に入る。
   - [1964年](../Page/1964年.md "wikilink") - ケルソが当時のアメリカ芝12ハロンレコードで優勝。
   - [1973年](../Page/1973年.md "wikilink") - [グレード制開始に伴い](../Page/競馬の競走格付け.md "wikilink")、[G1競走となる](../Page/競馬の競走格付け.md "wikilink")。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 施行距離を芝10ハロン（約2012メートル）に短縮。
+  - [1986年](../Page/1986年.md "wikilink") - 施行距離を芝10ハロン（約2012メートル）に短縮。
   - [1988年](../Page/1988年.md "wikilink") - [バドワイザー](../Page/バドワイザー.md "wikilink")社が[スポンサー](../Page/スポンサー.md "wikilink")になり、**バドワイザーインターナショナル**に改名。
   - [1993年](../Page/1993年.md "wikilink") - 施行距離が芝8ハロン（約1608メートル）に短縮し、**ワシントンDCインターナショナルマイル**の名で実施。
   - [1994年](../Page/1994年.md "wikilink") - 施行距離が芝10ハロンに戻され、**ワシントンDCインターナショナル**の名で実施。
@@ -194,7 +194,7 @@
 </tr>
 <tr class="odd">
 <td><p>第17回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>11月11日</p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a>11月11日</p></td>
 <td><p><a href="../Page/サーアイヴァー.md" title="wikilink">Sir Ivor</a></p></td>
 <td><p>牡3</p></td>
 <td><p>2:28 4/5</p></td>
@@ -216,7 +216,7 @@
 <td><p>Fort Marcy</p></td>
 <td><p>騸6</p></td>
 <td><p>2:42 4/5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホルヘ・ヴェラスケス" title="wikilink">J.Velasquez</a></p></td>
+<td><p><a href="../Page/ホルヘ・ヴェラスケス.md" title="wikilink">J.Velasquez</a></p></td>
 <td><p>E.Burch</p></td>
 </tr>
 <tr class="even">
@@ -234,7 +234,7 @@
 <td><p>Droll Role</p></td>
 <td><p>牡4</p></td>
 <td><p>2:38 4/5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラウリオ・バエザ" title="wikilink">B.Baeza</a></p></td>
+<td><p><a href="../Page/ブラウリオ・バエザ.md" title="wikilink">B.Baeza</a></p></td>
 <td><p>H.Luro</p></td>
 </tr>
 <tr class="even">
@@ -356,7 +356,7 @@
 </tr>
 <tr class="odd">
 <td><p>第35回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/11月15日.md" title="wikilink">11月15日</a></p></td>
 <td><p>Lieutenant's Lark</p></td>
 <td><p>牡4</p></td>
 <td><p>2:09 0/5</p></td>
@@ -378,7 +378,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/サンシャインフォーエヴァー" title="wikilink">Sunshine Forever</a></p></td>
 <td><p>牡3</p></td>
 <td><p>2:03 0/5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンヘル・コルデロ・ジュニア" title="wikilink">A.Cordero Jr.</a></p></td>
+<td><p><a href="../Page/アンヘル・コルデロ・ジュニア.md" title="wikilink">A.Cordero Jr.</a></p></td>
 <td><p>J.Veitch</p></td>
 </tr>
 <tr class="even">

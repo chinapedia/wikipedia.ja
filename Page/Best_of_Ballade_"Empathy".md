@@ -27,7 +27,7 @@
 6.  **気のないララバイ**
       - 作詞：愛絵理、編曲：後藤次利
 7.  **[群衆](https://ja.wikipedia.org/wiki/MUGO・ん…色っぽい#収録曲 "wikilink")**
-      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：後藤次利
+      - 作詞：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：後藤次利
       - 5thシングル「[MUGO・ん…色っぽい](../Page/MUGO・ん…色っぽい.md "wikilink")」カップリング曲、アルバム『[gradation](https://ja.wikipedia.org/wiki/gradation "wikilink")』にも収録
 8.  **[みずうみ](https://ja.wikipedia.org/wiki/カレリア_\(工藤静香のアルバム\)#収録曲 "wikilink")**
       - 作詞：[吉沢久美子](https://ja.wikipedia.org/wiki/吉沢久美子 "wikilink")、編曲：後藤次利・門倉聡・菅原弘明

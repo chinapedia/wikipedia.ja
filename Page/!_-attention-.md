@@ -1,7 +1,7 @@
 > この記事は[! -attention-](https://ja.wikipedia.org/wiki/!_-attention-)から翻訳されています。
 
 
-『**\! -attention-**』（アテンション）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[2nd](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**\! -attention-**』（アテンション）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[2nd](../Page/序数詞.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

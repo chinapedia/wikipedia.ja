@@ -231,7 +231,7 @@ libvirtのQEMUドライバは0.8.1以降のQEMUを管理することができる
 
 <!-- end list -->
 
-  - [Windows Support](http://libvirt.org/windows.html) - [MinGW](../Page/MinGW.md "wikilink")のコンパイラを用いてバイナリを作成することができる。詳細は以下のページを参照のこと[1](http://libvirt.org/windows.html)。また、WindowsでのAPIの[glibc](https://ja.wikipedia.org/wiki/glibc "wikilink")との非互換はかなり大きいが、GNU Portability Library ([Gnulib](https://ja.wikipedia.org/wiki/Gnulib "wikilink")) をlibvirtパッケージの中に取り込むことにより、互換性の手間を回避している。
+  - [Windows Support](http://libvirt.org/windows.html) - [MinGW](../Page/MinGW.md "wikilink")のコンパイラを用いてバイナリを作成することができる。詳細は以下のページを参照のこと[1](http://libvirt.org/windows.html)。また、WindowsでのAPIの[glibc](https://ja.wikipedia.org/wiki/glibc "wikilink")との非互換はかなり大きいが、GNU Portability Library ([Gnulib](../Page/Gnulib.md "wikilink")) をlibvirtパッケージの中に取り込むことにより、互換性の手間を回避している。
 
 ### LibvirtAPIを使ったアプリケーション
 

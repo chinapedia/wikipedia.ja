@@ -9,7 +9,7 @@
 
 新曲「[天晴な青空](../Page/天晴な青空.md "wikilink")」では、元あみん（2007年に再結成）の加藤晴子がコーラスで参加している。本アルバムと同時発売で[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。岡村が自分にとっては何が一番20周年の記念になるかを考えた結果が、加藤にもう一度ハモってもらうことだったという。詳細は28枚目のシングル「[天晴な青空\#解説](https://ja.wikipedia.org/wiki/天晴な青空#解説 "wikilink")」を参照。
 
-連動したコンサート「[Encore V 〜20th Anniversary Concert Tour, '02 DO MY BEST〜](https://ja.wikipedia.org/wiki/Encore_V_〜20th_Anniversary_Concert_Tour,_'02_DO_MY_BEST〜 "wikilink")」の最終公演\[2\]では、加藤がスペシャルゲストで出演。加藤が公に姿を見せたのは、実に20年ぶりであった\[3\]。岡村と加藤の友情は、そのあいだも途切れることなくずっと続いていたという。
+連動したコンサート「[Encore V 〜20th Anniversary Concert Tour, '02 DO MY BEST〜](../Page/Encore_V_〜20th_Anniversary_Concert_Tour,_'02_DO_MY_BEST〜.md "wikilink")」の最終公演\[2\]では、加藤がスペシャルゲストで出演。加藤が公に姿を見せたのは、実に20年ぶりであった\[3\]。岡村と加藤の友情は、そのあいだも途切れることなくずっと続いていたという。
 
 CDのみの通常盤と、初[DVD](../Page/DVD.md "wikilink")化映像を多数含んだDVD付初回限定盤の2タイプが発売された。ジャケット写真は同一。歌詞カードとカラー・[ブックレットの計](../Page/小冊子.md "wikilink")2冊が封入されている。それらブックレットには、あみん時代も含めた公式アルバム・シングル・ビデオソフトのジャケット写真付完全[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")（一部、本人のコメントあり）や、過去の日程やを写真を交えたコンサートヒストリーなどが掲載されており、資料の面でも充実したものになっている。
 

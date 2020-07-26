@@ -1,9 +1,9 @@
 > この記事は[Microsoft Compiled HTML Help](https://ja.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)から翻訳されています。
 
 
-**Microsoft Compiled HTML Help**は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[Microsoft WinHelp形式の後継として開発](https://ja.wikipedia.org/wiki/Microsoft_WinHelp "wikilink")・リリースした独自の[オンラインヘルプ](https://ja.wikipedia.org/wiki/オンラインヘルプ "wikilink")ファイル形式である。[Windows 98](../Page/Microsoft_Windows_98.md "wikilink") のリリースで最初に導入され、[Windows XPや](../Page/Microsoft_Windows_XP.md "wikilink")[Windows Vistaでもサポートされ続けている](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。ファイル[拡張子](../Page/拡張子.md "wikilink")は **CHM** (".chm")。
+**Microsoft Compiled HTML Help**は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[Microsoft WinHelp形式の後継として開発](https://ja.wikipedia.org/wiki/Microsoft_WinHelp "wikilink")・リリースした独自の[オンラインヘルプ](../Page/オンラインヘルプ.md "wikilink")ファイル形式である。[Windows 98](../Page/Microsoft_Windows_98.md "wikilink") のリリースで最初に導入され、[Windows XPや](../Page/Microsoft_Windows_XP.md "wikilink")[Windows Vistaでもサポートされ続けている](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。ファイル[拡張子](../Page/拡張子.md "wikilink")は **CHM** (".chm")。
 
-HTML Helpのファイルは、[ヘルプ作成ツール](https://ja.wikipedia.org/wiki/ヘルプ作成ツール "wikilink")で作成される。[マイクロソフト](../Page/マイクロソフト.md "wikilink")は[Windowsのバージョンアップに合わせてHTML](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") Help Workshopもリリースし、フリーにダウンロード可能としている。他にも[サードパーティー](../Page/サードパーティー.md "wikilink")から様々なヘルプ作成ツールがリリースされている。
+HTML Helpのファイルは、[ヘルプ作成ツール](../Page/ヘルプ作成ツール.md "wikilink")で作成される。[マイクロソフト](../Page/マイクロソフト.md "wikilink")は[Windowsのバージョンアップに合わせてHTML](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") Help Workshopもリリースし、フリーにダウンロード可能としている。他にも[サードパーティー](../Page/サードパーティー.md "wikilink")から様々なヘルプ作成ツールがリリースされている。
 
 電子書籍ビューワMicrosoft Reader .LITファイル形式は、基本的に HTML Helpの**CHM**形式から派生したものである。
 
@@ -22,7 +22,7 @@ HTML Helpのファイルは、[ヘルプ作成ツール](https://ja.wikipedia.or
 
 ## ファイル形式
 
-[HTMLのサブセットで書かれたページ群と](../Page/HyperText_Markup_Language.md "wikilink")[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")化された目次で構成される。CHM形式は読むことに最適化されており、検索性能が強化されている。複数のファイルをまとめて[LZX](https://ja.wikipedia.org/wiki/LZX "wikilink")で圧縮する。多くのCHMブラウザは、ヘルプファイル本体を表示すると同時に目次を表示できるようになっている。
+[HTMLのサブセットで書かれたページ群と](../Page/HyperText_Markup_Language.md "wikilink")[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")化された目次で構成される。CHM形式は読むことに最適化されており、検索性能が強化されている。複数のファイルをまとめて[LZX](../Page/LZX.md "wikilink")で圧縮する。多くのCHMブラウザは、ヘルプファイル本体を表示すると同時に目次を表示できるようになっている。
 
 ファイルの先頭には "ITSF" という文字列がASCIIで入っている（"Info-Tech Storage Format" の略）。ファイル形式は[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")によって一部が明らかになっており、[container](http://www.speakeasy.org/~russotto/chm/chmformat.html) や [internal files](http://chmspec.nongnu.org/latest/) といった仕様が公開されている。
 

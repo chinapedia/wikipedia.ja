@@ -595,7 +595,7 @@ Vol.001 泉こなた</a>」</p></td>
 <td><p>2007年5月23日</p></td>
 <td><p>'''かえして!ニーソックス '''</p></td>
 <td><p>作曲/編曲</p></td>
-<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/もってけ!セーラーふく" title="wikilink">もってけ!セーラーふく</a>」</p></td>
+<td><p>Sg「<a href="../Page/もってけ!セーラーふく.md" title="wikilink">もってけ!セーラーふく</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年3月5日</p></td>
@@ -1589,7 +1589,7 @@ Vol.009 背景コンビ</a>」</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Steppin&#39;_out" title="wikilink">Steppin' out</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/HOME_MADE_家族" title="wikilink">HOME MADE 家族</a></p></td>
+<td><p><a href="../Page/HOME_MADE_家族.md" title="wikilink">HOME MADE 家族</a></p></td>
 <td><p>2011年9月28日</p></td>
 <td><p><strong>情熱のスイッチ</strong></p></td>
 <td><p>作曲/編曲</p></td>

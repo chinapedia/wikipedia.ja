@@ -40,7 +40,7 @@
     再放送／日曜日 17:30 - 18:00\[7\]\[8\]
   - 2008年度
     金曜日 0:10 - 0:40（木曜深夜）
-      - この年新設された深夜放送枠『[EYES](https://ja.wikipedia.org/wiki/EYES_\(NHK\) "wikilink")』に編入とともに金曜深夜から木曜深夜へ移行、これまでの『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』と放送順序を入れ替え。つまり、木曜日の『[きょうのニュース&スポーツ](../Page/きょうのニュース&スポーツ.md "wikilink")』に続けて放送されていた。
+      - この年新設された深夜放送枠『[EYES](../Page/EYES_\(NHK\).md "wikilink")』に編入とともに金曜深夜から木曜深夜へ移行、これまでの『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』と放送順序を入れ替え。つまり、木曜日の『[きょうのニュース&スポーツ](../Page/きょうのニュース&スポーツ.md "wikilink")』に続けて放送されていた。
   - 2009年度
     日曜日 23:30 - 24:00
       - EYES改編により日曜23時枠後半へ移動\[9\]\[10\]。
@@ -266,7 +266,7 @@ NHKホール収録主体の内容となった2014年からは、Perfumeが全国
 
   - 5月30日 - 「**アイドル大集合スペシャル\!**」と題して、AKB48、[モーニング娘。](../Page/モーニング娘。.md "wikilink")、[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")、[スマイレージ](https://ja.wikipedia.org/wiki/スマイレージ "wikilink")、[東京女子流](https://ja.wikipedia.org/wiki/東京女子流 "wikilink")、[バニラビーンズ](../Page/バニラビーンズ.md "wikilink")、[ももいろクローバーといったアイドルグループ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")7組総勢59人がコラボした。
 
-  - 6月13日 - 同日及び翌週の通常枠が[2010 FIFAワールドカップに伴う特別編成で休止となる代替として](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、2度目となる生放送スペシャルを17:15〜17:58に放送。[坂本冬美](../Page/坂本冬美.md "wikilink")と[水樹奈々](../Page/水樹奈々.md "wikilink")がコラボして「[また君に恋してる](https://ja.wikipedia.org/wiki/また君に恋してる "wikilink")」を歌った。その他[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")、[TUBE](../Page/TUBE.md "wikilink")、[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")、[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")がライブを行った。
+  - 6月13日 - 同日及び翌週の通常枠が[2010 FIFAワールドカップに伴う特別編成で休止となる代替として](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、2度目となる生放送スペシャルを17:15〜17:58に放送。[坂本冬美](../Page/坂本冬美.md "wikilink")と[水樹奈々](../Page/水樹奈々.md "wikilink")がコラボして「[また君に恋してる](https://ja.wikipedia.org/wiki/また君に恋してる "wikilink")」を歌った。その他[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[キマグレン](../Page/キマグレン.md "wikilink")、[TUBE](../Page/TUBE.md "wikilink")、[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")、[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")がライブを行った。
 
   - 6月27日 - [渡り廊下走り隊](https://ja.wikipedia.org/wiki/渡り廊下走り隊 "wikilink")の5人が[NHK放送センター](../Page/NHK放送センター.md "wikilink")内を探検。売店、音楽資料室、渡り廊下、食堂を見て歩いた。
 
@@ -286,7 +286,7 @@ NHKホール収録主体の内容となった2014年からは、Perfumeが全国
 
   - 11月28日 - [タッキー&翼](../Page/タッキー&翼.md "wikilink")が[プロによる指導で](../Page/プロゴルファー.md "wikilink")[パター](https://ja.wikipedia.org/wiki/パター "wikilink")に挑戦、二人でパター対決を行った。また[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")、[谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")、モーニング娘。は[ドライバーで対決を行った](https://ja.wikipedia.org/wiki/クラブ_\(ゴルフ用具\) "wikilink")。
 
-  - 12月12日 - スタジオに[ウルトラヒーロー7戦士](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")（[ウルトラマンゼロ](https://ja.wikipedia.org/wiki/ウルトラマンゼロ "wikilink")と、[ウルトラ6兄弟](https://ja.wikipedia.org/wiki/ウルトラ6兄弟 "wikilink")（[ゾフィー](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink")、[ウルトラマン](../Page/ウルトラマン.md "wikilink")、[セブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")、[ジャック](../Page/帰ってきたウルトラマン.md "wikilink")、[A](../Page/ウルトラマンA.md "wikilink")、[タロウ](../Page/ウルトラマンタロウ.md "wikilink")））が登場し、AKB48と[じゃんけん](../Page/じゃんけん.md "wikilink")対決を行った。これは2010年12月より公開の劇場映画『[ウルトラマンゼロ THE MOVIE 超決戦\!ベリアル銀河帝国](https://ja.wikipedia.org/wiki/ウルトラマンゼロ_THE_MOVIE_超決戦!ベリアル銀河帝国 "wikilink")』の一環によるもので、悪のウルトラマンである[カイザーベリアルがいきなりスタジオに出現しAKB](https://ja.wikipedia.org/wiki/ウルトラマンベリアル "wikilink")48を襲撃するも、なぜか[girl next door](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")（以下GND）には握手をするなど親密にしていたり（これはGNDが同映画の主題歌を歌っていることにも起因する）、またウルトラ7戦士が登場してバトルになるとPerfumeになだめられたりしていた\[44\]。
+  - 12月12日 - スタジオに[ウルトラヒーロー7戦士](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")（[ウルトラマンゼロ](https://ja.wikipedia.org/wiki/ウルトラマンゼロ "wikilink")と、[ウルトラ6兄弟](https://ja.wikipedia.org/wiki/ウルトラ6兄弟 "wikilink")（[ゾフィー](../Page/ゾフィー_\(ウルトラシリーズ\).md "wikilink")、[ウルトラマン](../Page/ウルトラマン.md "wikilink")、[セブン](../Page/ウルトラセブン.md "wikilink")、[ジャック](../Page/帰ってきたウルトラマン.md "wikilink")、[A](../Page/ウルトラマンA.md "wikilink")、[タロウ](../Page/ウルトラマンタロウ.md "wikilink")））が登場し、AKB48と[じゃんけん](../Page/じゃんけん.md "wikilink")対決を行った。これは2010年12月より公開の劇場映画『[ウルトラマンゼロ THE MOVIE 超決戦\!ベリアル銀河帝国](https://ja.wikipedia.org/wiki/ウルトラマンゼロ_THE_MOVIE_超決戦!ベリアル銀河帝国 "wikilink")』の一環によるもので、悪のウルトラマンである[カイザーベリアルがいきなりスタジオに出現しAKB](https://ja.wikipedia.org/wiki/ウルトラマンベリアル "wikilink")48を襲撃するも、なぜか[girl next door](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")（以下GND）には握手をするなど親密にしていたり（これはGNDが同映画の主題歌を歌っていることにも起因する）、またウルトラ7戦士が登場してバトルになるとPerfumeになだめられたりしていた\[44\]。
 
 <!-- end list -->
 
@@ -294,7 +294,7 @@ NHKホール収録主体の内容となった2014年からは、Perfumeが全国
 
 <!-- end list -->
 
-  - 1月30日 - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")が最新曲『[ULTIMATE WHEELS](https://ja.wikipedia.org/wiki/ULTIMATE_WHEELS "wikilink")』にちなみ、縦列[駐車](../Page/駐車.md "wikilink")対決に挑戦。[中丸雄一](../Page/中丸雄一.md "wikilink")が優勝。
+  - 1月30日 - [KAT-TUN](../Page/KAT-TUN.md "wikilink")が最新曲『[ULTIMATE WHEELS](https://ja.wikipedia.org/wiki/ULTIMATE_WHEELS "wikilink")』にちなみ、縦列[駐車](../Page/駐車.md "wikilink")対決に挑戦。[中丸雄一](../Page/中丸雄一.md "wikilink")が優勝。
 
   - 2月27日 - [NYCが](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")[吹き矢](../Page/吹き矢.md "wikilink")対決に挑戦した。ちなみに[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")の勝利。
 
@@ -761,7 +761,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
 ### その他のスペシャル番組
 
   - MUSIC JAPAN SUMMER EXTRA
-    2008年8月6日に「[EYESスペシャル](https://ja.wikipedia.org/wiki/EYES_\(NHK\) "wikilink")」第1部として放送された（24:10〜25:00）。番組では2008年上半期のヒット曲の紹介のほか、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")の[海の家](../Page/海の家.md "wikilink")を訪問などを放送した。
+    2008年8月6日に「[EYESスペシャル](../Page/EYES_\(NHK\).md "wikilink")」第1部として放送された（24:10〜25:00）。番組では2008年上半期のヒット曲の紹介のほか、[キマグレン](../Page/キマグレン.md "wikilink")の[海の家](../Page/海の家.md "wikilink")を訪問などを放送した。
 
 <!-- end list -->
 
@@ -845,7 +845,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
   - [ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")
   - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（前番組）
-  - [EYES](https://ja.wikipedia.org/wiki/EYES_\(NHK\) "wikilink")
+  - [EYES](../Page/EYES_\(NHK\).md "wikilink")
   - [歌でつなごう 〜被災者のみなさんへ〜](https://ja.wikipedia.org/wiki/歌でつなごう_〜被災者のみなさんへ〜 "wikilink")
   - [サタテン](https://ja.wikipedia.org/wiki/サタテン "wikilink")→[Uta-Tube](https://ja.wikipedia.org/wiki/Uta-Tube "wikilink")（[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")、[東海](../Page/東海地方.md "wikilink")・[北陸地方](../Page/北陸地方.md "wikilink")向け）
   - [うたコン](https://ja.wikipedia.org/wiki/うたコン "wikilink")

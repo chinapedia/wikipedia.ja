@@ -36,7 +36,7 @@ NXは従来NX Unigraphics、古くはUGなどと呼ばれたハイエンドCAD/C
   - [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")
   - [クライスラー](../Page/クライスラー.md "wikilink")
   - [スズキ](../Page/スズキ_\(企業\).md "wikilink")
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink")
   - [ダイムラー・ベンツ](../Page/ダイムラー・ベンツ.md "wikilink")
   - [フィアット](../Page/フィアット.md "wikilink")
   - [アストンマーティン](../Page/アストンマーティン.md "wikilink")

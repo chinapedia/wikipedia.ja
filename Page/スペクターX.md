@@ -1,7 +1,7 @@
 > この記事は[スペクターX](https://ja.wikipedia.org/wiki/スペクターX)から翻訳されています。
 
 
-『**スペクターX**』（原題：最佳拍檔之千里救差婆、英題：*Aces go Places 4*、国際題：*Mad Mission 4*）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の[香港映画](../Page/香港映画.md "wikilink")。同時上映『魔界天使』
+『**スペクターX**』（原題：最佳拍檔之千里救差婆、英題：*Aces go Places 4*、国際題：*Mad Mission 4*）は、[1986年](../Page/1986年.md "wikilink")の[香港映画](../Page/香港映画.md "wikilink")。同時上映『魔界天使』
 
 [悪漢探偵](../Page/悪漢探偵.md "wikilink")シリーズの第4弾。配給会社が違うために邦題に繋がりがないように思われるが、れっきとしたシリーズ作。おなじみの[サミュエル・ホイ](../Page/サミュエル・ホイ.md "wikilink")に、[カール・マッカ](https://ja.wikipedia.org/wiki/カール・マッカ "wikilink")、[シルヴィア・チャン](../Page/シルヴィア・チャン.md "wikilink")が活躍するコメディ・アクションだが、今回の監督は[リンゴ・ラム](../Page/リンゴ・ラム.md "wikilink")。
 

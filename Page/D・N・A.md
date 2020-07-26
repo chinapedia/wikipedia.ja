@@ -20,7 +20,7 @@
         [アウトロ](../Page/アウトロ.md "wikilink")が次曲へと繋がっている。
 3.  **ファントム** (作詞:yasu 作曲:kiyo\&yasu)
       -
-        映画『[リング](https://ja.wikipedia.org/wiki/リング_\(1998年の映画\) "wikilink")』に出てくる[山村貞子](../Page/山村貞子.md "wikilink")がモチーフになっている。
+        映画『[リング](../Page/リング_\(1998年の映画\).md "wikilink")』に出てくる[山村貞子](../Page/山村貞子.md "wikilink")がモチーフになっている。
         本来なら英語表記だったが分りにくいという事でカタカナ表記になっている。
 4.  **[EDEN 〜君がいない〜](https://ja.wikipedia.org/wiki/EDEN_〜君がいない〜 "wikilink")** (作詞・作曲:yasu)
       -

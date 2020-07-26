@@ -27,7 +27,7 @@
         ラ・カレーシュと読む。本アルバム初出。
 5.  **嵐ヶ丘 (Strings Arrange)** \[4:25\]
       -
-        初出は1993年発売の同名シングル。現在廃盤。[嵐が丘も参照のこと](https://ja.wikipedia.org/wiki/嵐ヶ丘_\(ALI_PROJECTの曲\) "wikilink")。
+        初出は1993年発売の同名シングル。現在廃盤。[嵐が丘も参照のこと](../Page/嵐ヶ丘_\(ALI_PROJECTの曲\).md "wikilink")。
 6.  **楽園喪失 (Strings Arrange)** \[4:12\]
       -
         初出は[月下の一群](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")。初出のアルバムが廃盤で、[ストリングスアレンジではあるもののようやくの再収録となった](https://ja.wikipedia.org/wiki/編曲#ストリングス "wikilink")。

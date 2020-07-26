@@ -379,7 +379,7 @@
 <td><p>天海春香（<a href="https://ja.wikipedia.org/wiki/中村繪里子" title="wikilink">中村繪里子</a>）、水瀬伊織（<a href="https://ja.wikipedia.org/wiki/釘宮理恵" title="wikilink">釘宮理恵</a>）、高槻やよい（<a href="../Page/仁後真耶子.md" title="wikilink">仁後真耶子</a>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/もってけ!セーラーふく" title="wikilink">もってけ!セーラーふく</a></strong></p></td>
+<td><p><strong><a href="../Page/もってけ!セーラーふく.md" title="wikilink">もってけ!セーラーふく</a></strong></p></td>
 <td><p>泉こなた（<a href="../Page/平野綾.md" title="wikilink">平野綾</a>）、柊かがみ（<a href="../Page/加藤英美里.md" title="wikilink">加藤英美里</a>）、<br />
 柊つかさ（<a href="../Page/福原香織.md" title="wikilink">福原香織</a>）、高良みゆき（<a href="../Page/遠藤綾.md" title="wikilink">遠藤綾</a>）</p></td>
 <td><p>TVアニメ「<a href="https://ja.wikipedia.org/wiki/らき☆すた_(アニメ)" title="wikilink">らき☆すた</a>」OP</p></td>
@@ -471,7 +471,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/マイ_フレンド.md" title="wikilink">マイ フレンド</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ZARD" title="wikilink">ZARD</a></p></td>
+<td><p><a href="../Page/ZARD.md" title="wikilink">ZARD</a></p></td>
 <td><p>TVアニメ「<a href="../Page/SLAM_DUNK.md" title="wikilink">SLAM DUNK</a>」4代目ED</p></td>
 </tr>
 <tr class="odd">

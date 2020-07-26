@@ -259,7 +259,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
   - 2007/10/27　ミナホスペシャル @ 長堀橋スナック[マーキー](../Page/マーキー_\(ディスクジョッキー\).md "wikilink")
   - 2007/11/24 [NEW ZEALAND](../Page/ニュージーランド.md "wikilink") PARADISE WEEK 2007 @ NEW ZEALAND TRAVEL CAFE [六本木](../Page/六本木.md "wikilink")店
   - 2008/06/21 KAT Presents『Candle Light Music Vol.1 with [PHATE](https://ja.wikipedia.org/wiki/PHATE "wikilink")』 @ [自由が丘](../Page/自由が丘.md "wikilink") Palms Cafe
-  - 2008/07/21 Good morning Garage\!\!　タリーズカフェパーティー！ @ [タリーズ](https://ja.wikipedia.org/wiki/タリーズ "wikilink")[神谷町](https://ja.wikipedia.org/wiki/神谷町 "wikilink")FIT店
+  - 2008/07/21 Good morning Garage\!\!　タリーズカフェパーティー！ @ [タリーズ](https://ja.wikipedia.org/wiki/タリーズ "wikilink")[神谷町](../Page/神谷町.md "wikilink")FIT店
   - 2008/08/19 KAT presents『Candle Light Music Vol.2 with [OCEANLANE](https://ja.wikipedia.org/wiki/OCEANLANE "wikilink")』 @ 渋谷 CoZmo's Cafe
   - 2008/09/10 KAT×NEW ZEALAND TRAVEL CAFE, Special LIVE @ NEW ZEALAND TRAVEL CAFE 六本木店
   - 2008/09/17 KAT with Braddigan @ [三軒茶屋](../Page/三軒茶屋.md "wikilink") from Earth Cafe OHANA
@@ -272,7 +272,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
   - 2008/12/23 KAT Presents『Candle Light Music Vol.5 with Sayulee』 @ 渋谷 CoZmo's Cafe
   - 2008/12/27 KAT Presents『Candle Light Music @大阪 Vol.1』 @ 長堀橋 スナックマーキー
   - 2008/12/28 Cafe Live @ [岸和田](https://ja.wikipedia.org/wiki/岸和田 "wikilink") hana CAFE
-  - 2008/12/29 Cafe Live @ [京都](https://ja.wikipedia.org/wiki/京都 "wikilink") aloha cafe uliuli
+  - 2008/12/29 Cafe Live @ [京都](../Page/京都.md "wikilink") aloha cafe uliuli
   - 2009/01/30 Spike Bar Joint Compilation Vol 2 RELEASE PARTY @[渋谷](../Page/渋谷.md "wikilink") CoZmo's Cafe
   - 2009/02/06 KAT Presents『Candle Light Music Vol.6 with Alstair Rogers』 @ 渋谷 CoZmo's Cafe
   - 2010/10/30 [7bitz](https://ja.wikipedia.org/wiki/7bitz "wikilink") Presents Vol.4『PEACE』@ [御徒町](../Page/御徒町.md "wikilink")Sea garage

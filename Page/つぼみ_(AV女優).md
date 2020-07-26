@@ -470,7 +470,7 @@
 <td><p><strong>女子高生捜査官HGA</strong></p></td>
 <td><p>SSPD-057</p></td>
 <td><p>ATTACKERS</p></td>
-<td><p>共演：<a href="../Page/神田美穂.md" title="wikilink">神田美穂</a>、<a href="https://ja.wikipedia.org/wiki/宮下まい" title="wikilink">宮下まい</a>、<a href="https://ja.wikipedia.org/wiki/鈴木明日香_(AV女優)" title="wikilink">鈴木明日香</a></p></td>
+<td><p>共演：<a href="../Page/神田美穂.md" title="wikilink">神田美穂</a>、<a href="https://ja.wikipedia.org/wiki/宮下まい" title="wikilink">宮下まい</a>、<a href="../Page/鈴木明日香_(AV女優).md" title="wikilink">鈴木明日香</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2697,7 +2697,7 @@ Blu-ray版のみの発売</p></td>
 <td><p><strong>男は「痴女4天王」の超絶テクで「強制的」にイカされてしまうのか!?</strong></p></td>
 <td><p>SDMT-384</p></td>
 <td><p>SODクリエイト</p></td>
-<td><p>共演：<a href="https://ja.wikipedia.org/wiki/鏡麗子" title="wikilink">鏡麗子</a>、川上ゆう、松すみれ</p></td>
+<td><p>共演：<a href="../Page/鏡麗子.md" title="wikilink">鏡麗子</a>、川上ゆう、松すみれ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -7312,7 +7312,7 @@ Blu-ray版のみ発売</p></td>
 
 ### 写真集
 
-  - 神聖ロリータ〈SANWA MOOK〉（2010年11月5日、[三和出版](https://ja.wikipedia.org/wiki/三和出版 "wikilink")648、撮影：[力武靖](../Page/力武靖.md "wikilink")649）ISBN 978-4776905936
+  - 神聖ロリータ〈SANWA MOOK〉（2010年11月5日、[三和出版](../Page/三和出版.md "wikilink")648、撮影：[力武靖](../Page/力武靖.md "wikilink")649）ISBN 978-4776905936
   - 花ひらく（2011年4月25日、[彩文館出版](../Page/彩文館出版.md "wikilink")、撮影：細井智燿）ISBN 978-4775605028
   - すき。（2012年4月23日、徳間書店、撮影：細井智燿）ISBN 978-4198633899
   - つぼみん（2012年10月17日、ダイアプレス、撮影：細井智燿）ISBN 978-4862146618

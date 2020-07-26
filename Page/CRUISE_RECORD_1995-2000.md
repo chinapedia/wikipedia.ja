@@ -11,7 +11,7 @@
 
 本作の発売にあたり、発売日に[ヴァージンメガストア心斎橋店で](../Page/ヴァージン・メガストアーズ.md "wikilink")、翌日に[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店で発売記念イベントを行った。前者は、合わせて店内をglobeの[CDで埋め尽くし](../Page/コンパクトディスク.md "wikilink")、[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")の号外配布も行われた。
 
-5月末の時点で[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』が[B-Gram RECORDSから](../Page/B-Gram_RECORDS.md "wikilink")9月24日発売予定で告知されていたが、6月に[avex](https://ja.wikipedia.org/wiki/avex "wikilink")が[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバムの際の報復としてglobeの本ベストアルバムを同じ週に発売する事を決めた為に、7月の時点でZARDのベストアルバムの発売が1週間早まる事態となった。\[3\]
+5月末の時点で[ZARD](../Page/ZARD.md "wikilink")のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』が[B-Gram RECORDSから](../Page/B-Gram_RECORDS.md "wikilink")9月24日発売予定で告知されていたが、6月に[avex](https://ja.wikipedia.org/wiki/avex "wikilink")が[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバムの際の報復としてglobeの本ベストアルバムを同じ週に発売する事を決めた為に、7月の時点でZARDのベストアルバムの発売が1週間早まる事態となった。\[3\]
 
 初回限定盤のみ特殊パッケージ仕様。
 
@@ -172,4 +172,4 @@
 
 1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年10月号85Pより。
 2.  [globeが打倒！宇多田のCD発売\!\!](http://web.archive.org/web/20010709035513/http://www.sanspo.com/music/top/m9905/m0525.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、1999年5月25日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-3.  『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』が発売される際に、同じ週に[avexから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバム『[ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")』が1999年5月26日発売予定であったが、相川の連続1位記録更新の為に発売を1週間早めた事があった（1999年5月19日発売）。
+3.  『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』が発売される際に、同じ週に[avexから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバム『[ID](../Page/ID_\(相川七瀬のアルバム\).md "wikilink")』が1999年5月26日発売予定であったが、相川の連続1位記録更新の為に発売を1週間早めた事があった（1999年5月19日発売）。

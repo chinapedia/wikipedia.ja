@@ -1,7 +1,7 @@
 > この記事は[Informix](https://ja.wikipedia.org/wiki/Informix)から翻訳されています。
 
 
-**Informix Corporation**（インフォミックス コーポレーション）は、かつて[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にあった[ソフトウェア](../Page/ソフトウェア.md "wikilink")企業である。[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) 製品群[Informixを開発したが](https://ja.wikipedia.org/wiki/IBM_Informix "wikilink")、経営不振により2001年に[IBM](../Page/IBM.md "wikilink")に買収された\[1\]。
+**Informix Corporation**（インフォミックス コーポレーション）は、かつて[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にあった[ソフトウェア](../Page/ソフトウェア.md "wikilink")企業である。[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) 製品群[Informixを開発したが](../Page/IBM_Informix.md "wikilink")、経営不振により2001年に[IBM](../Page/IBM.md "wikilink")に買収された\[1\]。
 
 ## 歴史
 
@@ -15,7 +15,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、新たな[SQL](../Page/SQL.md "wikilink")ベースのクエリエンジンが**INFORMIX-SQL** (ISQL) バージョン1.10の一部としてリリースされた。もちろんACEとPERFORMのSQL対応版も含まれている。ISQLと以前のInformixの最大の違いは、データベースアクセスコードをクライアントコードと完全に分離した点である。これがクライアント・サーバ型のデータベースシステムへの布石となった。
 
-1980年代前半を通してInformixは市場で優位に立つことはなかったが、1980年代中ごろにはUNIXとSQLの組合せが人気となり、情勢が変わってきた。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には[株式公開](../Page/株式公開.md "wikilink")にこぎつけ、社名を**Informix Software**に変更した。当時の製品はINFORMIX-SQLバージョン2.00と INFORMIX-4GL 1.00であり、どちらもデータベースエンジンと開発ツールを含んでいる（I4GLはプログラマ向け、ISQLは非プログラマ向け）。
+1980年代前半を通してInformixは市場で優位に立つことはなかったが、1980年代中ごろにはUNIXとSQLの組合せが人気となり、情勢が変わってきた。[1986年](../Page/1986年.md "wikilink")には[株式公開](../Page/株式公開.md "wikilink")にこぎつけ、社名を**Informix Software**に変更した。当時の製品はINFORMIX-SQLバージョン2.00と INFORMIX-4GL 1.00であり、どちらもデータベースエンジンと開発ツールを含んでいる（I4GLはプログラマ向け、ISQLは非プログラマ向け）。
 
 その後も新製品のリリースが続き、新たなクエリエンジンを使ったINFORMIX-Turboがリリースされた。TurboはISAMよりマルチユーザー性能が優れたRSAM技術を使っている。1989年、バージョン4.00製品がリリースされ、TurboはINFORMIX-OnLineと改称（オンライン状態でユーザーが使用中にデータベースバックアップが可能）、従来のC-ISAMベースのサーバ機能（ISQLとI4GL）はツール群と分離され、INFORMIX-SE (Standard Engine) と改称された。Informix OnLineのバージョン5.00は1990年末にリリースされた。これには[2相コミット](../Page/2相コミット.md "wikilink")と[ストアドプロシージャ](../Page/ストアドプロシージャ.md "wikilink")による[分散トランザクション](https://ja.wikipedia.org/wiki/分散トランザクション "wikilink")機能が含まれている。
 

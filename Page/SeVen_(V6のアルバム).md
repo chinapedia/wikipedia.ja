@@ -43,7 +43,7 @@
         作詞：[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、作曲・編曲：[宮崎歩](../Page/宮崎歩.md "wikilink")
 9.  **MAGMA**
       -
-        作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
 10. **days -tears of the world-** - 20th Century
       -
         作詞・作曲・編曲：浅田直

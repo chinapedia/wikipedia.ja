@@ -272,7 +272,7 @@ Disc 2
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GLORIA_(ZIGGYの曲)" title="wikilink">GLORIA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ZIGGY" title="wikilink">ZIGGY</a></p></td>
+<td><p><a href="../Page/ZIGGY.md" title="wikilink">ZIGGY</a></p></td>
 <td><p>1989年7月26日</p></td>
 <td></td>
 </tr>

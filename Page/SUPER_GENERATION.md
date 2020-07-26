@@ -21,7 +21,7 @@
       - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[魔法少女リリカルなのはA's](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's "wikilink")』第12話[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
 3.  **光** \[4:55\]
       -
-        作詞・作曲：[伊東大和](https://ja.wikipedia.org/wiki/伊東大和 "wikilink")（[POPHOLIC](https://ja.wikipedia.org/wiki/ポップホリック "wikilink")）、編曲：[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")
+        作詞・作曲：[伊東大和](https://ja.wikipedia.org/wiki/伊東大和 "wikilink")（[POPHOLIC](../Page/ポップホリック.md "wikilink")）、編曲：[井上日徳](../Page/井上日徳.md "wikilink")
     <!-- end list -->
       - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")『[闇夜にささやく〜探偵 相楽恭一郎〜](../Page/闇夜にささやく〜探偵_相楽恭一郎〜.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
 

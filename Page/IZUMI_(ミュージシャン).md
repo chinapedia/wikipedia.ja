@@ -67,7 +67,7 @@ IZUMIソロ作品
 
 <!-- end list -->
 
-  - [REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink") Tribute Album 『Always On My Mind』 （2001年10月24日　[バップ](../Page/バップ.md "wikilink")　VPCC-84420）
+  - [REACTION](../Page/REACTION_\(バンド\).md "wikilink") Tribute Album 『Always On My Mind』 （2001年10月24日　[バップ](../Page/バップ.md "wikilink")　VPCC-84420）
       -
         M-3「INSANE」 Vo:藤本朗(ex.[X-RAY](../Page/X-RAY.md "wikilink")) Gt:IZUMI Ba:松本慎二(Sense of wonder) Dr:[そうる透](../Page/そうる透.md "wikilink")
 

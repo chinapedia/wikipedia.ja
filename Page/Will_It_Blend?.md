@@ -38,7 +38,7 @@ Blendtec社の創設者 [トーマス・ディクソン](https://ja.wikipedia.or
           - [iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") - 新種が発売されてから数日でブレンドされる。
       - [ゲーム機](../Page/ゲーム機.md "wikilink")
           - [Kinect](https://ja.wikipedia.org/wiki/Kinect "wikilink")
-          - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")のコントローラ([Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")、[Wiiハンドル](https://ja.wikipedia.org/wiki/Wiiリモコン#アタッチメント "wikilink"))
+          - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")のコントローラ([Wiiリモコン](../Page/Wiiリモコン.md "wikilink")、[Wiiハンドル](https://ja.wikipedia.org/wiki/Wiiリモコン#アタッチメント "wikilink"))
           - [Halo 3](../Page/Halo_3.md "wikilink")
           - [Halo 4と](https://ja.wikipedia.org/wiki/Halo_4 "wikilink")[ヘッドセット](https://ja.wikipedia.org/wiki/ヘッドセット "wikilink")
           - [ギターヒーロー](https://ja.wikipedia.org/wiki/ギターヒーロー "wikilink")Ⅲの[コントローラー](https://ja.wikipedia.org/wiki/コントローラー "wikilink") - そのままでは入らなかったので、[トーマス](https://ja.wikipedia.org/wiki/トーマス "wikilink")が机に叩きつけるなどして壊し、ネックの部分だけ入れた。

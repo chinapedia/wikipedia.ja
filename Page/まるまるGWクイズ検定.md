@@ -52,7 +52,7 @@
   - [ホリデースペシャル](https://ja.wikipedia.org/wiki/ホリデースペシャル_\(フジテレビジョン\) "wikilink")
   - [Wぅ杯 番組交流戦スペシャル](../Page/Wぅ杯_番組交流戦スペシャル.md "wikilink")
   - [世界バラエティ選手権](../Page/世界バラエティ選手権.md "wikilink")
-  - [GWスーパークイズウィーク](https://ja.wikipedia.org/wiki/GWスーパークイズウィーク "wikilink")
+  - [GWスーパークイズウィーク](../Page/GWスーパークイズウィーク.md "wikilink")
 
 [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink")
 

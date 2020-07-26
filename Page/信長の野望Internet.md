@@ -53,7 +53,7 @@
 
 これらの欠点を補う手段の一つとして、プレイヤー間で独自にルールなどを決めての対戦も行われている。
 
-[2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")を以ってゲーム発売当初のロビーサーバでのサービスは終了し、「Dynasty Lobby」という『[三國志Battlefield](https://ja.wikipedia.org/wiki/三國志Battlefield "wikilink")』で使われているサーバでのサービスに移行した。旧サーバは無料で使えたのに対し、現サーバは月額利用料が必要となっている。なお現サーバを使うには別途アプリケーションが必要だが、単体では配布されていないため、『三國志Battlefield』の製品版または体験版をインストールする必要がある。
+[2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")を以ってゲーム発売当初のロビーサーバでのサービスは終了し、「Dynasty Lobby」という『[三國志Battlefield](../Page/三國志Battlefield.md "wikilink")』で使われているサーバでのサービスに移行した。旧サーバは無料で使えたのに対し、現サーバは月額利用料が必要となっている。なお現サーバを使うには別途アプリケーションが必要だが、単体では配布されていないため、『三國志Battlefield』の製品版または体験版をインストールする必要がある。
 
 [2013年](../Page/2013年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、『三國志Battlefield』『三國志Internet』と共に、「Dynasty Lobby」でのサービスを終了し、ネット対戦そのものがサービス終了となったが、一部のユーザーがIRCを使用してのネットワーク対戦を継続している。
 
@@ -61,7 +61,7 @@
 
 ## 関連項目
 
-  - [三國志Internet](https://ja.wikipedia.org/wiki/三國志Internet "wikilink")
+  - [三國志Internet](../Page/三國志Internet.md "wikilink")
 
 ## 外部リンク
 

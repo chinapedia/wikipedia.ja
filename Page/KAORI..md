@@ -30,7 +30,7 @@
   - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink")（2001年、**ルー・ルプス**）
   - [ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")（2002年、**[ハルカ](../Page/ハルカ_\(アニメポケットモンスター\).md "wikilink")**、[ラッキー](https://ja.wikipedia.org/wiki/ラッキー_\(ポケモン\) "wikilink") 他）
   - [カレイドスター](../Page/カレイドスター.md "wikilink")（2003年、ミロ）
-  - [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")（2003年、今井由美子）
+  - [GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")（2003年、今井由美子）
   - [ポケットモンスター サイドストーリー](../Page/週刊ポケモン放送局.md "wikilink")（2003年、[ルリリ](https://ja.wikipedia.org/wiki/ルリリ "wikilink")）
   - [かいけつゾロリ](../Page/かいけつゾロリ.md "wikilink")（2004年、ポメラ）
   - [Paradise Kiss](../Page/Paradise_Kiss.md "wikilink")（2005年、お店の女の子）

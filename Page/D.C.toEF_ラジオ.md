@@ -77,7 +77,7 @@
 | 第42回 | [椎名るぅ](https://ja.wikipedia.org/wiki/椎名るぅ "wikilink")                                                     |    |
 | 第43回 | [桜ちとせ](https://ja.wikipedia.org/wiki/桜ちとせ "wikilink")                                                     |    |
 | 第44回 | [佐伯ほたる](https://ja.wikipedia.org/wiki/佐伯ほたる "wikilink")                                                   |    |
-| 第59回 | [かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")（原画）                                               |    |
+| 第59回 | [かゆらゆか](../Page/かゆらゆか.md "wikilink")（原画）                                                                  |    |
 | 第63回 | [小倉結衣](https://ja.wikipedia.org/wiki/小倉結衣 "wikilink")                                                     |    |
 | 第65回 | [たけうちこうた](https://ja.wikipedia.org/wiki/たけうちこうた "wikilink")（シナリオライター）                                     |    |
 | 第66回 | ノゾミ（[Little Nonの](../Page/Little_Non.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")) |    |

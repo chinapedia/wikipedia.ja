@@ -9,7 +9,7 @@
 
 第6試合の世界ウェルター級タイトルマッチでは王者[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")が、挑戦者[フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")を破り、王座の初防衛に成功した。
 
-[SuperBrawlウェルター級王者](https://ja.wikipedia.org/wiki/Icon_Sport "wikilink")[ジェイソン・"メイヘム"・ミラーがUFCデビュー](https://ja.wikipedia.org/wiki/ジェイソン・ミラー "wikilink")。
+[SuperBrawlウェルター級王者](https://ja.wikipedia.org/wiki/Icon_Sport "wikilink")[ジェイソン・"メイヘム"・ミラーがUFCデビュー](../Page/ジェイソン・ミラー.md "wikilink")。
 
 ## 試合結果
 
@@ -22,13 +22,13 @@
     ○  [ジョー・ドークセン](../Page/ジョー・ドークセン.md "wikilink") vs.  [パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink") ×
     3R 2:35 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第3試合 ミドル級 5分3R
-    ○  [アイヴァン・サラベリー](../Page/アイヴァン・サラベリー.md "wikilink") vs.  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+    ○  [アイヴァン・サラベリー](../Page/アイヴァン・サラベリー.md "wikilink") vs.  [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") ×
     1R 2:42 [三角絞め](../Page/三角絞め.md "wikilink")
 
 ### メインカード
 
   - 第4試合 ウェルター級 5分3R
-    ○  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") vs.  [ジェイソン・"メイヘム"・ミラー](https://ja.wikipedia.org/wiki/ジェイソン・ミラー "wikilink") ×
+    ○  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") vs.  [ジェイソン・"メイヘム"・ミラー](../Page/ジェイソン・ミラー.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第5試合 ミドル級 5分3R
     ○  [マット・リンドランド](../Page/マット・リンドランド.md "wikilink") vs.  [トラヴィス・ルター](../Page/トラヴィス・ルター.md "wikilink") ×

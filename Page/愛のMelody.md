@@ -19,7 +19,7 @@
         作詞・作曲・編曲：[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")
 3.  **Kick off\!** - Coming Century
       -
-        作詞・作曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink") / 編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")、[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
+        作詞・作曲：[久米康隆](../Page/久米康隆.md "wikilink") / 編曲：[久米康隆](../Page/久米康隆.md "wikilink")、[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
 4.  愛のMelody（カラオケ）
 5.  Remember（カラオケ）
 6.  Kick off\!（カラオケ）

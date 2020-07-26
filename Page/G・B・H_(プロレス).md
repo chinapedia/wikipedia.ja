@@ -41,7 +41,7 @@
 
 2013年3月23日、試合後CHAOSから攻撃を受けていた真壁を本間が救出、4月7日に本間が参戦し一年ぶりにタッグが復活した。以降、本格的に真壁と本間のタッグチームとして活動を行う。
 
-2015年12月9日、真壁、本間組として[WORLD TAG LEAGUE](../Page/WORLD_TAG_LEAGUE.md "wikilink") 2015の優勝を果たした。2016年1月4日、[レッスルキングダム 10にて](https://ja.wikipedia.org/wiki/レッスルキングダム_\(プロレス興行\) "wikilink")、同じく真壁、本間組として[カール・アンダーソン](https://ja.wikipedia.org/wiki/カール・アンダーソン_\(プロレスラー\) "wikilink")、[ドク・ギャローズ組より](../Page/ドリュー・ハンキンソン.md "wikilink")[IWGPタッグ王座](../Page/IWGPタッグ王座.md "wikilink")を奪取した。1度防衛後、同年4月10日の両国国技館大会にて[タマ・トンガ](https://ja.wikipedia.org/wiki/タマ・トンガ "wikilink")、[タンガ・ロア](https://ja.wikipedia.org/wiki/タンガ・ロア "wikilink")組に敗れ王座陥落する。同年12月9日、真壁、本間組がWORLD TAG LEAGUE 2016にて優勝、連覇を果たした。決勝の相手はタマ・トンガ、タンガ・ロア組で、雪辱を果たした格好となった。
+2015年12月9日、真壁、本間組として[WORLD TAG LEAGUE](../Page/WORLD_TAG_LEAGUE.md "wikilink") 2015の優勝を果たした。2016年1月4日、[レッスルキングダム 10にて](../Page/レッスルキングダム_\(プロレス興行\).md "wikilink")、同じく真壁、本間組として[カール・アンダーソン](https://ja.wikipedia.org/wiki/カール・アンダーソン_\(プロレスラー\) "wikilink")、[ドク・ギャローズ組より](../Page/ドリュー・ハンキンソン.md "wikilink")[IWGPタッグ王座](../Page/IWGPタッグ王座.md "wikilink")を奪取した。1度防衛後、同年4月10日の両国国技館大会にて[タマ・トンガ](https://ja.wikipedia.org/wiki/タマ・トンガ "wikilink")、[タンガ・ロア](https://ja.wikipedia.org/wiki/タンガ・ロア "wikilink")組に敗れ王座陥落する。同年12月9日、真壁、本間組がWORLD TAG LEAGUE 2016にて優勝、連覇を果たした。決勝の相手はタマ・トンガ、タンガ・ロア組で、雪辱を果たした格好となった。
 
 2017年1月4日、レッスルキングダム 11にて、真壁、本間組としてタマ・トンガ、タンガ・ロア組、矢野通、石井智宏組と[3ウェイマッチでIWGPタッグ王座に挑戦するも](../Page/トリプルスレットマッチ.md "wikilink")、矢野組の勝利で戴冠を逃した。2月5日のTHE NEW BEGINNING in SAPPORO、2月11日のTHE NEW BEGINNING in OSAKAでも3ウェイ式のIWGPタッグ王座戦を戦ったが、いずれも矢野組の勝利に終わった。3月6日の旗揚げ記念日興行にて、通常のタッグマッチで矢野組とのIWGPタッグ王座戦が組まれる予定だったが、3月3日の沖縄大会にて本間が負傷、中心性頸髄損傷により長期欠場となることから、挑戦を辞退した。
 

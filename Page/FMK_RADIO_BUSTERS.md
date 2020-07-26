@@ -40,7 +40,7 @@
   - [永松ケンシ](../Page/永松ケンシ.md "wikilink")（2007年4月 - 2013年3月）
   - [TOMMY](https://ja.wikipedia.org/wiki/TOMMY "wikilink")（2010年4月 - 2013年3月）
   - [タケル](../Page/タケル_\(歌手\).md "wikilink")（2007年4月 - 2013年3月）
-  - [高橋よしえ](https://ja.wikipedia.org/wiki/高橋よしえ "wikilink")（火・水担当、2013年4月 - 2019年3月／2017年3月以前は水・木担当）
+  - [高橋よしえ](../Page/高橋よしえ.md "wikilink")（火・水担当、2013年4月 - 2019年3月／2017年3月以前は水・木担当）
   - 鶴屋フロアリポート : [岩清水愛](https://ja.wikipedia.org/wiki/岩清水愛 "wikilink")
   - 鶴屋New-Sリポート : [吉田恵理](https://ja.wikipedia.org/wiki/吉田恵理 "wikilink")
   - いい旅熊本観光塾 : [松村奈央](../Page/松村奈央.md "wikilink")（？ - 2017年？、一時休業時期あり）

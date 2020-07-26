@@ -26,7 +26,7 @@
 **Sweet Emotion**
 
   - [paraDOX](https://ja.wikipedia.org/wiki/paraDOX "wikilink")
-  - [ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")
+  - [ID](../Page/ID_\(相川七瀬のアルバム\).md "wikilink")
   - [NANASE AIKAWA BEST ALBUM "ROCK or DIE"](https://ja.wikipedia.org/wiki/NANASE_AIKAWA_BEST_ALBUM_"ROCK_or_DIE" "wikilink")
   - [a-box 〜avex Best Hit Collection〜](https://ja.wikipedia.org/wiki/a-box_〜avex_Best_Hit_Collection〜 "wikilink")
   - [十八番 〜J-POP 90's BEST〜](../Page/十八番_〜J-POP_90's_BEST〜.md "wikilink")

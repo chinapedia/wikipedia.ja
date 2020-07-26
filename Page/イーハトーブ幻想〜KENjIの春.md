@@ -54,7 +54,7 @@
     声：[大塚瑞恵](../Page/大塚みずえ.md "wikilink")
     ケンジが受け持つクラスの生徒。学校で起きた盗難騒動の犯人。青毛のオス猫。地元を出て役所か銀行に勤めて稼いで家族に心配をかけないようになるのが夢。後に父が東京へ出稼ぎに行く。
   - 母
-    声：[達依久子](https://ja.wikipedia.org/wiki/達依久子 "wikilink")
+    声：[達依久子](../Page/達依久子.md "wikilink")
     ケンジの母
   - クニ
     声：[平井直子](https://ja.wikipedia.org/wiki/平井直子 "wikilink")

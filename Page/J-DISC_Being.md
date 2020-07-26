@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月10日](../Page/3月10日.md "wikilink") - 第一弾作品として[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のアルバム『[forever you](https://ja.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")』を発売
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月10日](../Page/3月10日.md "wikilink") - 第一弾作品として[ZARD](../Page/ZARD.md "wikilink")のアルバム『[forever you](https://ja.wikipedia.org/wiki/forever_you_\(アルバム\) "wikilink")』を発売
 
 <!-- end list -->
 

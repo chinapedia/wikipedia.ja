@@ -1,7 +1,7 @@
 > この記事は[Lovin\' you \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Lovin\'_you_\(渡辺美里のアルバム\))から翻訳されています。
 
 
-『**Lovin' you**』（ラヴィン・ユー）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた渡辺美里の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
+『**Lovin' you**』（ラヴィン・ユー）は[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた渡辺美里の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
 ## 解説
 

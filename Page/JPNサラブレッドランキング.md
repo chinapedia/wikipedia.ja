@@ -69,7 +69,7 @@
 | ------------------------------------------------------------- | ------ | --------------------------------------------------------------- | -- | ---------------------------------- |
 | 2歳                                                            | 112    | [セイウンワンダー](https://ja.wikipedia.org/wiki/セイウンワンダー "wikilink")   | 牡2 | [領家政蔵](../Page/領家政蔵.md "wikilink") |
 | [ロジユニヴァース](https://ja.wikipedia.org/wiki/ロジユニヴァース "wikilink") | 牡2     | [萩原清](https://ja.wikipedia.org/wiki/萩原清 "wikilink")             |    |                                    |
-| 3歳・芝                                                          | 121L   | [ディープスカイ](https://ja.wikipedia.org/wiki/ディープスカイ "wikilink")     | 牡3 | [昆貢](../Page/昆貢.md "wikilink")     |
+| 3歳・芝                                                          | 121L   | [ディープスカイ](../Page/ディープスカイ.md "wikilink")                        | 牡3 | [昆貢](../Page/昆貢.md "wikilink")     |
 | 3歳・ダート                                                        | 114M   | [サクセスブロッケン](../Page/サクセスブロッケン.md "wikilink")                    | 牡3 | [藤原英昭](../Page/藤原英昭.md "wikilink") |
 | 4歳以上・芝                                                        | 122L   | [スクリーンヒーロー](https://ja.wikipedia.org/wiki/スクリーンヒーロー "wikilink") | 牡4 | [鹿戸雄一](../Page/鹿戸雄一.md "wikilink") |
 | 4歳以上・ダート                                                      | 119I   | [カネヒキリ](../Page/カネヒキリ.md "wikilink")                            | 牡6 | [角居勝彦](../Page/角居勝彦.md "wikilink") |
@@ -181,14 +181,14 @@
 
 ### 2019年度
 
-| 馬齢・部門    | レーティング                                                        | 馬名                                                                      | 性齢                               | 管理調教師                                                 |
-| -------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------- |
-| 2歳       | 116                                                           | [サリオス](https://ja.wikipedia.org/wiki/サリオス "wikilink")                   | 牡2                               | [堀宣行](../Page/堀宣行.md "wikilink")                      |
-| 3歳・芝     | 120L                                                          | [サートゥルナーリア](https://ja.wikipedia.org/wiki/サートゥルナーリア_\(競走馬\) "wikilink") | 牡3                               | [角居勝彦](../Page/角居勝彦.md "wikilink")                    |
-| 3歳・ダート   | 118M                                                          | [クリソベリル](https://ja.wikipedia.org/wiki/クリソベリル_\(競走馬\) "wikilink")       | 牡3                               | [音無秀孝](../Page/音無秀孝.md "wikilink")                    |
-| 4歳以上・芝   | 126L                                                          | [リスグラシュー](https://ja.wikipedia.org/wiki/リスグラシュー "wikilink")             | 牝5                               | [矢作芳人](../Page/矢作芳人.md "wikilink")                    |
-| 4歳以上・ダート | 117M                                                          | [インティ](https://ja.wikipedia.org/wiki/インティ_\(競走馬\) "wikilink")           | 牡5                               | [野中賢二](https://ja.wikipedia.org/wiki/野中賢二 "wikilink") |
-| 117M     | [ゴールドドリーム](https://ja.wikipedia.org/wiki/ゴールドドリーム "wikilink") | 牡6                                                                      | [平田修](../Page/平田修.md "wikilink") |                                                       |
+| 馬齢・部門    | レーティング                                                        | 馬名                                                                      | 性齢                               | 管理調教師                              |
+| -------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------- | ---------------------------------- |
+| 2歳       | 116                                                           | [サリオス](https://ja.wikipedia.org/wiki/サリオス "wikilink")                   | 牡2                               | [堀宣行](../Page/堀宣行.md "wikilink")   |
+| 3歳・芝     | 120L                                                          | [サートゥルナーリア](https://ja.wikipedia.org/wiki/サートゥルナーリア_\(競走馬\) "wikilink") | 牡3                               | [角居勝彦](../Page/角居勝彦.md "wikilink") |
+| 3歳・ダート   | 118M                                                          | [クリソベリル](https://ja.wikipedia.org/wiki/クリソベリル_\(競走馬\) "wikilink")       | 牡3                               | [音無秀孝](../Page/音無秀孝.md "wikilink") |
+| 4歳以上・芝   | 126L                                                          | [リスグラシュー](https://ja.wikipedia.org/wiki/リスグラシュー "wikilink")             | 牝5                               | [矢作芳人](../Page/矢作芳人.md "wikilink") |
+| 4歳以上・ダート | 117M                                                          | [インティ](https://ja.wikipedia.org/wiki/インティ_\(競走馬\) "wikilink")           | 牡5                               | [野中賢二](../Page/野中賢二.md "wikilink") |
+| 117M     | [ゴールドドリーム](https://ja.wikipedia.org/wiki/ゴールドドリーム "wikilink") | 牡6                                                                      | [平田修](../Page/平田修.md "wikilink") |                                    |
 
 ## 出典
 

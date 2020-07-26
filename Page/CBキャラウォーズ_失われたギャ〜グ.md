@@ -68,7 +68,7 @@
 
 ## 参加作品
 
-  - [ハレンチ学園](../Page/ハレンチ学園.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [1972年](../Page/1972年.md "wikilink")）
+  - [ハレンチ学園](../Page/ハレンチ学園.md "wikilink")（[1968年](../Page/1968年.md "wikilink") - [1972年](../Page/1972年.md "wikilink")）
   - [あばしり一家](../Page/あばしり一家.md "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1973年](../Page/1973年.md "wikilink")）
   - [デビルマン](../Page/デビルマン.md "wikilink")（1972年 - 1973年）
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")（1972年 - 1973年）

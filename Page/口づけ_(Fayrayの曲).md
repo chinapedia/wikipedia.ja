@@ -7,7 +7,7 @@
 
 [昼ドラ](../Page/昼ドラ.md "wikilink")の主題歌として書き下ろした。 シンガーソングライターとして独自の世界観を確立している。
 
-シングルは今作まで、アルバムは『[HOURGLASS](../Page/HOURGLASS.md "wikilink")』まで、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")がKANONJI名義でサウンドプロデューサーを務めた。従って、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")や[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")ら[ビーイング](../Page/ビーイング.md "wikilink")系アーティストの楽曲をアレンジする[小林哲](../Page/小林哲.md "wikilink")がアレンジを担当。
+シングルは今作まで、アルバムは『[HOURGLASS](../Page/HOURGLASS.md "wikilink")』まで、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")がKANONJI名義でサウンドプロデューサーを務めた。従って、[ZARD](../Page/ZARD.md "wikilink")や[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")ら[ビーイング](../Page/ビーイング.md "wikilink")系アーティストの楽曲をアレンジする[小林哲](../Page/小林哲.md "wikilink")がアレンジを担当。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
         [東海テレビ](../Page/東海テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[愛のソレア](../Page/愛のソレア.md "wikilink")」主題歌
 2.  Landslide
       -
-        （作詞・作曲：[Stevie Nicks](https://ja.wikipedia.org/wiki/スティーヴィー・ニックス "wikilink")）
+        （作詞・作曲：[Stevie Nicks](../Page/スティーヴィー・ニックス.md "wikilink")）
 3.  Someday
       -
         （作詞・作曲：Fayray）

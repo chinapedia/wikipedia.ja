@@ -11,11 +11,11 @@
   - 収録楽曲は大黒摩季本人が選曲しており、ジャケット表面のタイトル下部に記載されているアルバムのサブタイトル「THE BEST Performed by Maki Ohguro」にそれが示されている。
   - なお、シングルとして発売された「[Harlem Night](../Page/Harlem_Night.md "wikilink")」と「[白いGradation](../Page/白いGradation.md "wikilink")」は収録されていない。
   - 本作品と同時発売として1995年初頭に廃盤になっていた1stアルバム『[STOP MOTION](https://ja.wikipedia.org/wiki/STOP_MOTION_\(大黒摩季のアルバム\) "wikilink")』が再々発売された。
-  - 1999年に[ポリグラム](../Page/ポリグラム.md "wikilink")傘下のCinepoly　RECORDSより、本作と『[POWER OF DREAMS](https://ja.wikipedia.org/wiki/POWER_OF_DREAMS "wikilink")』と『[MOTHER_EARTH](https://ja.wikipedia.org/wiki/MOTHER_EARTH "wikilink")』の3作が[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の４ヵ国でCDとカセットテープでリリースされた。(規格品番：(CD)JBCJHK-1004・(CT)JBTJHK-1004)
+  - 1999年に[ポリグラム](../Page/ポリグラム.md "wikilink")傘下のCinepoly　RECORDSより、本作と『[POWER OF DREAMS](../Page/POWER_OF_DREAMS.md "wikilink")』と『[MOTHER_EARTH](https://ja.wikipedia.org/wiki/MOTHER_EARTH "wikilink")』の3作が[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の４ヵ国でCDとカセットテープでリリースされた。(規格品番：(CD)JBCJHK-1004・(CT)JBTJHK-1004)
 
 ## チャート成績
 
-  - 初動枚数は自身で唯一100万枚を越えている。わずか5週間で200万枚突破。登場回数も53週というロングヒット。次作『[POWER OF DREAMS](https://ja.wikipedia.org/wiki/POWER_OF_DREAMS "wikilink")』が発売されたときに再びチャートインした。
+  - 初動枚数は自身で唯一100万枚を越えている。わずか5週間で200万枚突破。登場回数も53週というロングヒット。次作『[POWER OF DREAMS](../Page/POWER_OF_DREAMS.md "wikilink")』が発売されたときに再びチャートインした。
   - 最終的に280万枚を突破し、大黒摩季のシングル・アルバムを通じて、2016年現在の最高累積売上作品となっている。
   - 歴代[アルバム](../Page/アルバム.md "wikilink")売り上げ25位（発売当時6位）
   - 歴代[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")売り上げ10位（発売当時2位）

@@ -7,7 +7,7 @@
 
   - [TBS系](../Page/TBSテレビ.md "wikilink")『[世界ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』のエンディングテーマ曲として早くからオンエアされていた。
   - [キーボード担当の](../Page/キーボード_\(楽器\).md "wikilink")[安部潤](../Page/安部潤.md "wikilink")は本作のリリースを最後に脱退する事となった。
-  - 作詞を手掛けた[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")はこの曲のセルフカバーを本作の発表時期と同じく秋に合わせるため、長い間見送られていた。結局セルフカバーは本作発表から10年後の『[君とのDistance](../Page/君とのDistance.md "wikilink")』に収録された。
+  - 作詞を手掛けた[ZARD](../Page/ZARD.md "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")はこの曲のセルフカバーを本作の発表時期と同じく秋に合わせるため、長い間見送られていた。結局セルフカバーは本作発表から10年後の『[君とのDistance](../Page/君とのDistance.md "wikilink")』に収録された。
   - ジャケット写真は江戸川の食品工場跡で撮影された。
   - ビデオクリップは初めて明るいスタジオで製作され、当時のメンバー全員で演奏しながら歌う様子と、外でのロケも敢行され、メンバー全員で歩く様子や車の後部座席で[浅岡雄也](../Page/浅岡雄也.md "wikilink")が歌い、[ギタリスト](../Page/ギタリスト.md "wikilink")の[小田孝](https://ja.wikipedia.org/wiki/小田孝 "wikilink")が[ギター](../Page/ギター.md "wikilink")を弾いている姿を交互に収録している。
   - 『[世界ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』のエンディングで流れていた時は浅岡雄也が全コーラスパートを担当していたが、シングル及びそれを収録したアルバムでのコーラスパートでは男性コーラスが無くなり、女性コーラスで統一された。そのため歌番組に出演した時には、浅岡以外のメンバーはバックコーラスを勤めずに演奏に専念し、完全に2人の女性コーラスがバックコーラスを担当した。
@@ -38,7 +38,7 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
   - [葉山たけし](../Page/葉山たけし.md "wikilink")
   - [多々納好夫](../Page/多々納好夫.md "wikilink")

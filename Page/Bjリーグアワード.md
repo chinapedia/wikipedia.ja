@@ -139,7 +139,7 @@
 （東京A）</p></td>
 <td><p><a href="../Page/マクムード・アブドゥル＝ラウーフ.md" title="wikilink">マクムード・ブドゥル ラウーフ</a><br />
 （<a href="https://ja.wikipedia.org/wiki/京都ハンナリーズ" title="wikilink">京都</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・パーカー" title="wikilink">マイケル・パーカー</a><br />
+<td><p><a href="../Page/マイケル・パーカー.md" title="wikilink">マイケル・パーカー</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ライジング福岡" title="wikilink">福岡</a>）</p></td>
 </tr>
 <tr class="odd">

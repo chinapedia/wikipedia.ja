@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に「**ほっとないと22**」として放送開始。毎週火曜22時の放送だったが、JNN系列の自主編成時間帯（[TBSでは](../Page/TBSテレビ.md "wikilink")「[そこが知りたい](../Page/そこが知りたい.md "wikilink")」）に放送していたため、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月より19時に時間帯移動となり「**ほっとないとHOKKAIDO**」にタイトルを改めた。
+[1986年](../Page/1986年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に「**ほっとないと22**」として放送開始。毎週火曜22時の放送だったが、JNN系列の自主編成時間帯（[TBSでは](../Page/TBSテレビ.md "wikilink")「[そこが知りたい](../Page/そこが知りたい.md "wikilink")」）に放送していたため、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月より19時に時間帯移動となり「**ほっとないとHOKKAIDO**」にタイトルを改めた。
 
 [1992年](../Page/1992年.md "wikilink")10月、バラエティ番組「[ムーブ](../Page/ムーブ_\(バラエティー\).md "wikilink")」開始に伴い、火曜20時に枠移動。安定した視聴率を獲得していたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月をもって放送終了。その後はTBSの同時ネット（「[見ればなっとく\!](https://ja.wikipedia.org/wiki/見ればなっとく! "wikilink")」）となり現在に至る。
 

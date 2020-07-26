@@ -8,7 +8,7 @@
 ## 概要
 
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列にて放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[BLUE SEED](../Page/BLUE_SEED.md "wikilink")』のエンディングテーマ。
-  - 後に、「Touch and Go\!\!」は[松浦有希](../Page/松浦有希.md "wikilink")がアルバム『[Stella Bambina](https://ja.wikipedia.org/wiki/Stella_Bambina "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）にて、「-Life-」は[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")がアルバム『[Ritzberry Fields](https://ja.wikipedia.org/wiki/Ritzberry_Fields "wikilink")』にて、それぞれセルフカバーした。
+  - 後に、「Touch and Go\!\!」は[松浦有希](../Page/松浦有希.md "wikilink")がアルバム『[Stella Bambina](https://ja.wikipedia.org/wiki/Stella_Bambina "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）にて、「-Life-」は[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")がアルバム『[Ritzberry Fields](../Page/Ritzberry_Fields.md "wikilink")』にて、それぞれセルフカバーした。
   - [オリコン](../Page/オリコンチャート.md "wikilink")・週間シングルチャートで当時の自己最高位を更新した。
 
 ## 収録曲

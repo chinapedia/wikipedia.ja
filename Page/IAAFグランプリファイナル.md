@@ -8,7 +8,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"): [イタリア](../Page/イタリア.md "wikilink")・[ローマ](../Page/ローマ.md "wikilink")（[オリンピコ](../Page/スタディオ・オリンピコ・ディ・ローマ.md "wikilink")）
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"): イタリア・ローマ
+  - [1986年](../Page/1986年.md "wikilink"): イタリア・ローマ
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink"): [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink"), [ブリュッセル](../Page/ブリュッセル.md "wikilink")（[エゼル競技場](../Page/ボードゥアン国王競技場.md "wikilink")）
   - [1988年](../Page/1988年.md "wikilink"): [西ドイツ](../Page/西ドイツ.md "wikilink"), [ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")（[オリンピア](../Page/ベルリン・オリンピアシュタディオン.md "wikilink")）
   - [1989年](../Page/1989年.md "wikilink"): [モナコ](../Page/モナコ.md "wikilink"), [モンテカルロ](../Page/モンテカルロ.md "wikilink")（[スタッド・ルイ・ドゥ](../Page/スタッド・ルイ・ドゥ.md "wikilink")）

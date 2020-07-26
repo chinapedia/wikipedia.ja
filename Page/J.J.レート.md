@@ -15,11 +15,11 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に4輪レースに転向。フィンランド[フォーミュラ・フォード](../Page/フォーミュラ・フォード.md "wikilink")(FF)1600にデビューしチャンピオン争いを展開するが、最終戦でクラッシュし王座は逃した。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、EFDAヨーロッパFF1600、スカンジナビアFF1600、フィンランドFF1600の各選手権でチャンピオンを獲得。学業では[大学](../Page/大学.md "wikilink")の[数学](../Page/数学.md "wikilink")課程を[修了](../Page/修了.md "wikilink")する。
+[1986年](../Page/1986年.md "wikilink")、EFDAヨーロッパFF1600、スカンジナビアFF1600、フィンランドFF1600の各選手権でチャンピオンを獲得。学業では[大学](../Page/大学.md "wikilink")の[数学](../Page/数学.md "wikilink")課程を[修了](../Page/修了.md "wikilink")する。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、イギリスFF2000にステップアップし[パシフィック・レーシング](../Page/パシフィック・レーシング.md "wikilink")に所属。11勝を挙げる圧倒的な速さでチャンピオンを獲得。ヨーロッパFF2000でも6勝を挙げチャンピオンに輝く。この年には大きな転機が訪れており、イギリスに渡って3レース目・レートが圧勝した[シルバーストーン・サーキット](https://ja.wikipedia.org/wiki/シルバーストーン・サーキット "wikilink")でのFF2000レースを同胞の1982年F1ワールドチャンピオン、[ケケ・ロズベルグ](../Page/ケケ・ロズベルグ.md "wikilink")が現地で見ていた\[3\]。ケケは「J.Jのことは前年から話に聞いていたが、初めて実際に見てとにかく凄い速さだった。光り輝く原石を見た衝撃だよ。話をしたら性格も良いし、若いフィンランド人ドライバーを育てるのは現役引退後の計画でもあったから面倒を見たいと思った」\[4\]と、レース活動のプロモーション一切を任せてほしいとマネージャーに名乗り出る。こうしてレートはケケが設立者であるスポーツ[プロモーション](https://ja.wikipedia.org/wiki/プロモーション "wikilink")企業「ユーロ・プロモーション」の[クライアント](https://ja.wikipedia.org/wiki/クライアント "wikilink")となった。以後明確にプロのレーシングドライバーを目指すことになり、同年から[マールボロのサポートを受ける契約ドライバーにもなった](../Page/マールボロ_\(たばこ\).md "wikilink")。
 
-[1988年に](https://ja.wikipedia.org/wiki/w:1988_British_Formula_Three_Championship "wikilink")[イギリス・フォーミュラ3選手権](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")にステップアップ。パシフィック・レーシングの[レイナード・883](https://ja.wikipedia.org/wiki/レイナード・883 "wikilink")-[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")を駆り8勝、ポールポジション6回、ファステストラップ11回でシリーズを制圧しシリーズチャンピオンを獲得した。なお、ランキング3位には[デイモン・ヒル](https://ja.wikipedia.org/wiki/デイモン・ヒル "wikilink")、以下4位[マーティン・ドネリー](../Page/マーティン・ドネリー.md "wikilink")、5位[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")のほか[ローランド・ラッツェンバーガー](../Page/ローランド・ラッツェンバーガー.md "wikilink")、[ジル・ド・フェラン](../Page/ジル・ド・フェラン.md "wikilink")などのちのトップカテゴリードライバーとなる若手が多く参戦していた中でのチャンピオン獲得であった。
+[1988年に](https://ja.wikipedia.org/wiki/w:1988_British_Formula_Three_Championship "wikilink")[イギリス・フォーミュラ3選手権](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")にステップアップ。パシフィック・レーシングの[レイナード・883](https://ja.wikipedia.org/wiki/レイナード・883 "wikilink")-[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")を駆り8勝、ポールポジション6回、ファステストラップ11回でシリーズを制圧しシリーズチャンピオンを獲得した。なお、ランキング3位には[デイモン・ヒル](../Page/デイモン・ヒル.md "wikilink")、以下4位[マーティン・ドネリー](../Page/マーティン・ドネリー.md "wikilink")、5位[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")のほか[ローランド・ラッツェンバーガー](../Page/ローランド・ラッツェンバーガー.md "wikilink")、[ジル・ド・フェラン](../Page/ジル・ド・フェラン.md "wikilink")などのちのトップカテゴリードライバーとなる若手が多く参戦していた中でのチャンピオン獲得であった。
 
 [1989年にはパシフィック](https://ja.wikipedia.org/wiki/1989年の国際F3000選手権 "wikilink")・レーシングから[国際F3000選手権へとステップアップ](../Page/フォーミュラ3000.md "wikilink")、[レイナード・89D](https://ja.wikipedia.org/wiki/レイナード・89D "wikilink")-[無限の](../Page/M-TEC.md "wikilink")25号車をドライブした。これまでのフォーミュラカーキャリアでは順調に結果を出しつづけていたが、このF3000参戦時は時折速さを見せるにとどまり最高位はポー市街地コースでの4位であった。しかし、師匠であるケケと、チームをスポンサードしていたマールボロのプッシュもあり、[フェラーリのテストドライバーに抜擢される](../Page/スクーデリア・フェラーリ.md "wikilink")\[5\]。[フィオラノのテストコースで](https://ja.wikipedia.org/wiki/フィオラノサーキット "wikilink")[フェラーリ・640](https://ja.wikipedia.org/wiki/フェラーリ・640 "wikilink")の熟成・開発と、新搭載されていた[セミオートマチックトランスミッション](../Page/セミオートマチックトランスミッション.md "wikilink")の開発に携わった\[6\]。
 
@@ -29,7 +29,7 @@
 
 #### オニクス時代
 
-1989年第13戦[ポルトガルGPで](https://ja.wikipedia.org/wiki/1989年ポルトガルグランプリ "wikilink")、オニクスからF1に初めてエントリーしたが、このグランプリでは[予備予選落ちを喫した](../Page/予備予選_\(F1\).md "wikilink")。F1デビュー（初の決勝進出）は続く[スペインGPで](https://ja.wikipedia.org/wiki/1989年スペイングランプリ "wikilink")、このときは[ギアボックス](https://ja.wikipedia.org/wiki/ギアボックス "wikilink")トラブルによりレース前半にリタイヤした。その後第15戦[日本GPでは予備予選落ち](https://ja.wikipedia.org/wiki/日本グランプリ_\(4輪\) "wikilink")、豪雨となった最終戦[オーストラリアGPでは一時](https://ja.wikipedia.org/wiki/1989年オーストラリアグランプリ "wikilink")5位と上位を走行\[8\]したが、電気系トラブルが発生しリタイヤとなり、デビューイヤーの完走はならなかった。
+1989年第13戦[ポルトガルGPで](https://ja.wikipedia.org/wiki/1989年ポルトガルグランプリ "wikilink")、オニクスからF1に初めてエントリーしたが、このグランプリでは[予備予選落ちを喫した](../Page/予備予選_\(F1\).md "wikilink")。F1デビュー（初の決勝進出）は続く[スペインGPで](https://ja.wikipedia.org/wiki/1989年スペイングランプリ "wikilink")、このときは[ギアボックス](https://ja.wikipedia.org/wiki/ギアボックス "wikilink")トラブルによりレース前半にリタイヤした。その後第15戦[日本GPでは予備予選落ち](https://ja.wikipedia.org/wiki/日本グランプリ_\(4輪\) "wikilink")、豪雨となった最終戦[オーストラリアGPでは一時](../Page/1989年オーストラリアグランプリ.md "wikilink")5位と上位を走行\[8\]したが、電気系トラブルが発生しリタイヤとなり、デビューイヤーの完走はならなかった。
 
 開幕から参戦した翌[1990年は](https://ja.wikipedia.org/wiki/1990年のF1世界選手権 "wikilink")、第2戦ブラジルGP終了後にオニクスがスイスの投資家グループに売却され、主要スタッフとベテランの[ステファン・ヨハンソン](../Page/ステファン・ヨハンソン.md "wikilink")らがチームを追われ、新たにスイスドライバーの[グレガー・フォイテク](../Page/グレガー・フォイテク.md "wikilink")(父のカール・フォイテクが新出資者であった\[9\])が加入。レートは第3戦[サンマリノGPで初完走](../Page/サンマリノグランプリ.md "wikilink")（12位）したが、新オーナーの[ペーター・モンテベルディ](https://ja.wikipedia.org/wiki/ペーター・モンテベルディ "wikilink")と出資者となったカール・フォイテクの意向からグレガー・フォイテクに肩入れする体制となり、[トランスミッション](../Page/トランスミッション.md "wikilink")をまともに組めるメカニックが存在しないというレーシングチームの体を成していないチーム状態だった\[10\]。後は5度の予選落ちと4度のリタイアという状況の中、第10戦[ハンガリーGP後の](../Page/ハンガリーグランプリ.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")に行われたモンツア合同テストでは、エンジニアとメカの人数不足からまともに走行する事が出来ず、危険を感じるようになったレートとロズベルグは、このテスト後モンテベルディ・オニクスに見切りをつけチームから離脱した\[11\]。フォイテク家も同様の理由でチームから抜け出しており、資金と両ドライバーを失ったチームは最終戦までグランプリを戦うことなく消滅した。なお、レートは同年の[ル・マン24時間耐久レース](https://ja.wikipedia.org/wiki/ル・マン24時間耐久レース "wikilink")にリチャード・ロイドチームの[ポルシェ962](https://ja.wikipedia.org/wiki/ポルシェ962 "wikilink")を駆り初出場している\[12\]。
 
@@ -45,7 +45,7 @@
 
 #### ベネトン時代
 
-1994年は、[ミケーレ・アルボレート](../Page/ミケーレ・アルボレート.md "wikilink")とのシート争いに勝ちベネトンのセカンド・ドライバーに抜擢されたが、2月に[シルバーストーンテストにおいて大クラッシュを喫し頚骨を骨折した](https://ja.wikipedia.org/wiki/シルバーストーン・サーキット "wikilink")。腰部の骨の一部を頚部に移植するという大掛かりな手術を受け、開幕直前にテストに復帰する驚異の回復振りを見せたものの、結果としては縦方向の振動に対して首が痛むことが分かり、開幕2戦を欠場した。復帰初戦となった第3戦[サンマリノGPでは](https://ja.wikipedia.org/wiki/1994年サンマリノグランプリ "wikilink")、いきなり予選5位のタイムを出したものの、スタート時にエンストし、[ペドロ・ラミー](../Page/ペドロ・ラミー.md "wikilink")に追突され0周でリタイヤ。この際に壊れたマシンの破片が観客席まで飛び、観客が負傷するという事態も発生した。次戦モナコGPの予選ではチームメイトの[ミハエル・シューマッハ](https://ja.wikipedia.org/wiki/ミハエル・シューマッハ "wikilink")に4秒差をつけられるなど精彩を欠いた。第5戦スペインではフリー走行でトップ、予選も4位につけるなど復調の兆しを見せたが決勝は3位走行中にエンジンブロー。第6戦カナダGPでは予選20位から前走者[クリスチャン・フィッティパルディ](../Page/クリスチャン・フィッティパルディ.md "wikilink")の失格により6位に入賞するも、結局このレースをもって、レートの代役として開幕2戦に出場した[ヨス・フェルスタッペン](../Page/ヨス・フェルスタッペン.md "wikilink")に正規シートを奪われる結果となった。その後、シューマッハが出場停止となった第12戦イタリアGP・第13戦ポルトガルGPに再びベネトンから代走するも、それぞれ9位・リタイヤと目立った成績は残せなかった。また終盤日本・オーストラリアの2戦は[アンドレア・デ・チェザリス](../Page/アンドレア・デ・チェザリス.md "wikilink")の後任として前年所属していたザウバーから出走したが（ベネトンから許可を得てザウバーがレンタル契約をした）\[13\]、それぞれリタイヤと10位に終わり、この年をもってF1でのキャリアを終えた。この結果には「怪我をしっかりと治さぬまま、無理にレース復帰した影響があったのでは」との指摘もある。
+1994年は、[ミケーレ・アルボレート](../Page/ミケーレ・アルボレート.md "wikilink")とのシート争いに勝ちベネトンのセカンド・ドライバーに抜擢されたが、2月に[シルバーストーンテストにおいて大クラッシュを喫し頚骨を骨折した](https://ja.wikipedia.org/wiki/シルバーストーン・サーキット "wikilink")。腰部の骨の一部を頚部に移植するという大掛かりな手術を受け、開幕直前にテストに復帰する驚異の回復振りを見せたものの、結果としては縦方向の振動に対して首が痛むことが分かり、開幕2戦を欠場した。復帰初戦となった第3戦[サンマリノGPでは](../Page/1994年サンマリノグランプリ.md "wikilink")、いきなり予選5位のタイムを出したものの、スタート時にエンストし、[ペドロ・ラミー](../Page/ペドロ・ラミー.md "wikilink")に追突され0周でリタイヤ。この際に壊れたマシンの破片が観客席まで飛び、観客が負傷するという事態も発生した。次戦モナコGPの予選ではチームメイトの[ミハエル・シューマッハ](https://ja.wikipedia.org/wiki/ミハエル・シューマッハ "wikilink")に4秒差をつけられるなど精彩を欠いた。第5戦スペインではフリー走行でトップ、予選も4位につけるなど復調の兆しを見せたが決勝は3位走行中にエンジンブロー。第6戦カナダGPでは予選20位から前走者[クリスチャン・フィッティパルディ](../Page/クリスチャン・フィッティパルディ.md "wikilink")の失格により6位に入賞するも、結局このレースをもって、レートの代役として開幕2戦に出場した[ヨス・フェルスタッペン](../Page/ヨス・フェルスタッペン.md "wikilink")に正規シートを奪われる結果となった。その後、シューマッハが出場停止となった第12戦イタリアGP・第13戦ポルトガルGPに再びベネトンから代走するも、それぞれ9位・リタイヤと目立った成績は残せなかった。また終盤日本・オーストラリアの2戦は[アンドレア・デ・チェザリス](../Page/アンドレア・デ・チェザリス.md "wikilink")の後任として前年所属していたザウバーから出走したが（ベネトンから許可を得てザウバーがレンタル契約をした）\[13\]、それぞれリタイヤと10位に終わり、この年をもってF1でのキャリアを終えた。この結果には「怪我をしっかりと治さぬまま、無理にレース復帰した影響があったのでは」との指摘もある。
 
 ### F1後
 
@@ -228,7 +228,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="https://ja.wikipedia.org/wiki/オニクス・グランプリ" title="wikilink">オニクス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オニクス・ORE1" title="wikilink">ORE1</a></p></td>
 <td><p><a href="../Page/1989年ブラジルグランプリ.md" title="wikilink">BRA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1989年サンマリノグランプリ" title="wikilink">SMR</a></p></td>
+<td><p><a href="../Page/1989年サンマリノグランプリ.md" title="wikilink">SMR</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1989年モナコグランプリ" title="wikilink">MON</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1989年メキシコグランプリ" title="wikilink">MEX</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1989年アメリカグランプリ" title="wikilink">USA</a></p></td>
@@ -245,7 +245,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1989年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1989年オーストラリアグランプリ" title="wikilink">AUS</a><br />
+<td><p><a href="../Page/1989年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
 </p></td>
 <td><p>NC</p></td>
 <td><p>0</p></td>
@@ -338,7 +338,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1991年スペイングランプリ" title="wikilink">ESP</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
+<td><p><a href="../Page/1991年日本グランプリ_(4輪).md" title="wikilink">JPN</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1991年オーストラリアグランプリ" title="wikilink">AUS</a><br />
 </p></td>
@@ -429,7 +429,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="../Page/ベネトン・B194.md" title="wikilink">B194</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1994年ブラジルグランプリ" title="wikilink">BRA</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1994年パシフィックグランプリ" title="wikilink">PAC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1994年サンマリノグランプリ" title="wikilink">SMR</a><br />
+<td><p><a href="../Page/1994年サンマリノグランプリ.md" title="wikilink">SMR</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1994年モナコグランプリ" title="wikilink">MON</a><br />
 </p></td>

@@ -927,7 +927,7 @@
         『BBW』では、[妖術](../Page/妖術.md "wikilink")を駆使して劉備たちを圧倒するが、劉備の三位一体星龍斬を受け敗れ去った。
         武器／黄天戟＜こうてんげき＞
   - 黄巾賊部隊兵（ザクI）
-    声 - [園部好徳](../Page/園部好徳.md "wikilink")、[澤田将考](https://ja.wikipedia.org/wiki/澤田将考 "wikilink")、宮崎寛務、[青木強](https://ja.wikipedia.org/wiki/青木強 "wikilink") 他
+    声 - [園部好徳](../Page/園部好徳.md "wikilink")、[澤田将考](../Page/澤田将考.md "wikilink")、宮崎寛務、[青木強](https://ja.wikipedia.org/wiki/青木強 "wikilink") 他
     黄巾賊の一般兵。『コミックボンボン』版での黄巾隊雑兵は、頭部に黄色い頭巾を巻いている。
 
 #### 先遣部隊

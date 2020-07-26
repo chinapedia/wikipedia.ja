@@ -3,7 +3,7 @@
 
 『 **Colors of LIfe** 』（カラーズ・オブ・ライフ）は、[2003年](../Page/2003年.md "wikilink")に[下北沢](../Page/下北沢.md "wikilink")の[ライブハウス](../Page/ライブハウス.md "wikilink")である[CLUB Queが製作した](../Page/CLUB_Que.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。
 
-ロック界を席巻する[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")と[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")を多用したインディーズムービー。上映場所は全国30ヶ所を超え、その後発売された[DVD](../Page/DVD.md "wikilink")もインディーズとしては、異例の好セールスを記録中。[2003年](../Page/2003年.md "wikilink")製作、[アップリンクファクトリーよりDVD発売](https://ja.wikipedia.org/wiki/アップリンク_\(映画会社\) "wikilink")。
+ロック界を席巻する[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")と[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")を多用したインディーズムービー。上映場所は全国30ヶ所を超え、その後発売された[DVD](../Page/DVD.md "wikilink")もインディーズとしては、異例の好セールスを記録中。[2003年](../Page/2003年.md "wikilink")製作、[アップリンクファクトリーよりDVD発売](../Page/アップリンク_\(映画会社\).md "wikilink")。
 
 2008年7月より全国TSUTAYA系列でレンタルリリースとなる。
 

@@ -58,7 +58,7 @@
         [第37回「春の高校バレー」イメージソング](../Page/第37回全国高等学校バレーボール選抜優勝大会.md "wikilink")。
 12. **Ready Steady Go\!**
       -
-        （作詞：[夏野芹子](https://ja.wikipedia.org/wiki/夏野芹子 "wikilink")／作曲：[森重樹一](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")／編曲：[神田和幸](../Page/神田和幸.md "wikilink")）
+        （作詞：[夏野芹子](https://ja.wikipedia.org/wiki/夏野芹子 "wikilink")／作曲：[森重樹一](../Page/ZIGGY.md "wikilink")／編曲：[神田和幸](../Page/神田和幸.md "wikilink")）
         ZIGGYの森重樹一を作曲に迎えた。玉置初の完全生演奏オリジナル曲。
 
 ### DVD（初回限定盤のみ）

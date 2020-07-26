@@ -420,7 +420,7 @@
       - 火曜：[山田五郎](../Page/山田五郎.md "wikilink")
           - 「聞く年表」と題して、特定の1年を振り返った。
       - 水曜：[名越康文](../Page/名越康文.md "wikilink")
-      - 木曜：[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+      - 木曜：[井筒和幸](../Page/井筒和幸.md "wikilink")
           - 毎回、その日にあった気になったニュースについて討論
       - 金曜：[ブラザートム](https://ja.wikipedia.org/wiki/ブラザートム "wikilink")
   - Kakiiin Mix（21:30ごろ）

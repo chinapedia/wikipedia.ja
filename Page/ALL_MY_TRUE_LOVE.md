@@ -34,7 +34,7 @@
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 2](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends "wikilink")（\#1）
   - ラブリィ\! Pop & Cute Dance Trax（\#1）
   - スポコン\! ～sports music compilation～（\#1）
-  - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](https://ja.wikipedia.org/wiki/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!! "wikilink")（\#1 ライブ音源、Za downtown weekend mix）
+  - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](../Page/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!!.md "wikilink")（\#1 ライブ音源、Za downtown weekend mix）
   - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1 ライブ音源）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1 セルフカバー）
   - [BRILLIANT](../Page/BRILLIANT_\(hiroのアルバム\).md "wikilink")（\#2）

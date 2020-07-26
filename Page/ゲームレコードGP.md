@@ -27,7 +27,7 @@
 
 出場者は若手お笑い芸人のほか、一般参加者もいる。
 
-  - [アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ_\(お笑いコンビ\) "wikilink")（田島直弥、見浦彰彦）
+  - [アイデンティティ](../Page/アイデンティティ_\(お笑いコンビ\).md "wikilink")（田島直弥、見浦彰彦）
   - [アキラボーイ](https://ja.wikipedia.org/wiki/アキラボーイ "wikilink")
 
 <!-- end list -->
@@ -131,7 +131,7 @@
   - [南京錠](https://ja.wikipedia.org/wiki/南京錠_\(お笑いコンビ\) "wikilink")（増本宇紀、藤原大輔）
   - [NOモーション](https://ja.wikipedia.org/wiki/NOモーション "wikilink")（矢野ともゆき、タイガーこてつ）
   - [爆弾低気圧](https://ja.wikipedia.org/wiki/爆弾低気圧_\(お笑いコンビ\) "wikilink")（ささぼー、ベイダー）
-  - [ハイエナ](https://ja.wikipedia.org/wiki/ハイエナ_\(お笑いコンビ\) "wikilink")（[竹岡和範](https://ja.wikipedia.org/wiki/竹岡和範 "wikilink")、坪井貴成）
+  - [ハイエナ](https://ja.wikipedia.org/wiki/ハイエナ_\(お笑いコンビ\) "wikilink")（[竹岡和範](../Page/竹岡和範.md "wikilink")、坪井貴成）
 
 <!-- end list -->
 
@@ -1273,7 +1273,7 @@
 <td><p>80</p></td>
 <td><p>第5回 ゲームトライアスロン 駅伝ルール</p></td>
 <td><p>第1種目 『<a href="../Page/サーカスチャーリー.md" title="wikilink">サーカスチャーリー</a>』 レベルBで全ての輪をくぐりステージ1クリア<br />
-第2種目 『<a href="https://ja.wikipedia.org/wiki/スクーン" title="wikilink">スクーン</a>』 20,000点クリア<br />
+第2種目 『<a href="../Page/スクーン.md" title="wikilink">スクーン</a>』 20,000点クリア<br />
 第3種目 『アルカノイド』 ステージ1クリア<br />
 3人1組で以上の3ゲームをリレー方式で1人1種目に挑戦し、クリアまでのタイムトライアル</p></td>
 <td><p>Theかれー王<br />

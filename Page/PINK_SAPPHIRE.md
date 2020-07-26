@@ -21,7 +21,7 @@
   - **AYAKO TSUKADA/ [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")担当** 本名：塚田彩湖 誕生日：[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") 出身地：[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")
   - **TAKAKO SUZUKI/ [ギター](../Page/ギター.md "wikilink")担当** 本名：宮川孝子\[1\]\[2\]（旧姓：鈴木） 誕生日：[1967年](../Page/1967年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") 出身地：[東京都](../Page/東京都.md "wikilink") 血液型：O型
   - **MIKI ISHIDA/ [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")** 本名：石田美紀 誕生日：1969年[12月9日](../Page/12月9日.md "wikilink") 出身地：東京都 血液型：O型
-  - **HARUMI KIKUNO/ [ドラム担当](../Page/ドラムセット.md "wikilink")** 本名：菊野晴泉 誕生日：[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月26日](../Page/10月26日.md "wikilink") 出身地：東京都 血液型：O型
+  - **HARUMI KIKUNO/ [ドラム担当](../Page/ドラムセット.md "wikilink")** 本名：菊野晴泉 誕生日：[1968年](../Page/1968年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") 出身地：東京都 血液型：O型
 
 ## 旧メンバー
 

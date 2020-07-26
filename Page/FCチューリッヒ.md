@@ -894,7 +894,7 @@
 
   - [ヨナス・テルン](https://ja.wikipedia.org/wiki/ヨナス・テルン "wikilink") 1988
 
-  - [ロベルト・ディ・マッテオ](https://ja.wikipedia.org/wiki/ロベルト・ディ・マッテオ "wikilink") 1991-1992
+  - [ロベルト・ディ・マッテオ](../Page/ロベルト・ディ・マッテオ.md "wikilink") 1991-1992
 
   - [ダニエル・ギガクス](https://ja.wikipedia.org/wiki/ダニエル・ギガクス "wikilink") 1998-2001, 2002-2005
 

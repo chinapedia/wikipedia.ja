@@ -44,7 +44,7 @@ yasu、you、ka-yuの3人は中学校の、ka-yu以外の4人は[大阪府立枚
 
 [2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")には、[韓国でアルバム](../Page/大韓民国.md "wikilink")『JOKER』が発売され、海外進出も果たした。
 
-[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に、オフィシャルサイト上で、現在のメンバーで結成10年を迎えた節目の新企画として、バンド活動と並行し、それぞれのソロ活動もしていくと発表した\[8\]。
+[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に、オフィシャルサイト上で、現在のメンバーで結成10年を迎えた節目の新企画として、バンド活動と並行し、それぞれのソロ活動もしていくと発表した\[8\]。
 
 [2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、「Janne Da Arcは大切だし、比較するものではないかもしれないが、どちらかを選べと言われればJanne Da Arcよりも大事にしたいものが見つかった」という決断によりka-yuが脱退、所属事務所を退社。
 
@@ -88,7 +88,7 @@ yasu、you、ka-yuの3人は中学校の、ka-yu以外の4人は[大阪府立枚
       - [5月20日](../Page/5月20日.md "wikilink")、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で現メンバーになって10周年を記念するライブを行った。
       - [5月31日](../Page/5月31日.md "wikilink")、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて行われたイベントPearl Drums 60th Anniversary Super Live ROUND 1 ROCK HEROESに出演（[La'cryma Christiと共演](../Page/La'cryma_Christi.md "wikilink")）。このイベント出演が現時点でのラストライブになっている。
   - [2007年](../Page/2007年.md "wikilink")
-      - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、「親愛なるファンの皆様へ」とバンド結成10周年を節目にソロ活動の作品発表を知らせる\[10\]。その後の活動については休止中である\[11\]。
+      - [1月26日](../Page/1月26日.md "wikilink")、「親愛なるファンの皆様へ」とバンド結成10周年を節目にソロ活動の作品発表を知らせる\[10\]。その後の活動については休止中である\[11\]。
       - [2月21日](../Page/2月21日.md "wikilink")、シングルコレクションアルバム、『[SINGLES 2](../Page/SINGLES_2_\(Janne_Da_Arcのアルバム\).md "wikilink")』を発売した。
   - [2009年](../Page/2009年.md "wikilink")
       - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[2005年](../Page/2005年.md "wikilink")のライブDVD『[tour 2005 "JOKER"](https://ja.wikipedia.org/wiki/tour_2005_"JOKER" "wikilink")』を発売。

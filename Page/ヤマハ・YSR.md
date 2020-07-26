@@ -5,7 +5,7 @@
 
 ## 概要
 
-シリーズ車種として排気量別に車両が生産され、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1992年](../Page/1992年.md "wikilink")にかけて販売された。
+シリーズ車種として排気量別に車両が生産され、[1986年](../Page/1986年.md "wikilink")から[1992年](../Page/1992年.md "wikilink")にかけて販売された。
 
 [エンジン](../Page/エンジン.md "wikilink")は[RX50/80をベースとして開発が行われており](https://ja.wikipedia.org/wiki/ヤマハ・RX "wikilink")、速さよりはローコストでレーシングマシン[YZRのイメージを楽しもうという趣旨で作られている](../Page/ヤマハ・YZR500.md "wikilink")。今も継続して行われている12インチタイヤ採用のミニバイクレースのきっかけとなるモデルだったが、後を追う形でホンダから発売された[NSR](https://ja.wikipedia.org/wiki/NSR "wikilink")50の本格仕様の車体・パワーに圧倒され、結果的に短命になってしまった。
 

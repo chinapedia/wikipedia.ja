@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - **[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")**
+  - **[KAT-TUN](../Page/KAT-TUN.md "wikilink")**
       - 「[SPECIAL HAPPINESS](../Page/Best_of_KAT-TUN.md "wikilink")」（作曲）
       - 「[MY WEATHER](https://ja.wikipedia.org/wiki/Live_of_KAT-TUN_"Real_Face" "wikilink")」（作曲）
 

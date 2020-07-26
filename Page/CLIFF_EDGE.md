@@ -11,7 +11,7 @@
 
 ## 略歴
 
-[2000年](../Page/2000年.md "wikilink")JUNとSHINにより横浜で結成。CLIFF EDGEの名前の由来は日本語で「崖っぷち」。[2003年](../Page/2003年.md "wikilink")にDJ GEORGIAが加わり現在のメンバーでの活動を開始。[2005年](../Page/2005年.md "wikilink")7月に『季節まかせに羽伸ばして〜秋ist〜』リリース。リリースパーティーが行われた渋谷[WOMB](https://ja.wikipedia.org/wiki/WOMB "wikilink")を満員にした。[2006年](../Page/2006年.md "wikilink")11月には2ndシングル『You're the only one』を発売、同曲は[FMヨコハマの着うたサイト](../Page/横浜エフエム放送.md "wikilink")「[FヨコSOUND](https://ja.wikipedia.org/wiki/FヨコSOUND "wikilink")」にてダウンロード数3週連続1位を記録した（2位は[SMAP](../Page/SMAP.md "wikilink")）。
+[2000年](../Page/2000年.md "wikilink")JUNとSHINにより横浜で結成。CLIFF EDGEの名前の由来は日本語で「崖っぷち」。[2003年](../Page/2003年.md "wikilink")にDJ GEORGIAが加わり現在のメンバーでの活動を開始。[2005年](../Page/2005年.md "wikilink")7月に『季節まかせに羽伸ばして〜秋ist〜』リリース。リリースパーティーが行われた渋谷[WOMB](../Page/WOMB.md "wikilink")を満員にした。[2006年](../Page/2006年.md "wikilink")11月には2ndシングル『You're the only one』を発売、同曲は[FMヨコハマの着うたサイト](../Page/横浜エフエム放送.md "wikilink")「[FヨコSOUND](https://ja.wikipedia.org/wiki/FヨコSOUND "wikilink")」にてダウンロード数3週連続1位を記録した（2位は[SMAP](../Page/SMAP.md "wikilink")）。
 
 2006年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた1stミニアルバム『BIRTH』のリード曲『BIRTH 〜You're the only one Pt.2〜 feat. [MAY'S](../Page/MAY'S.md "wikilink")』のPVには、グラビアタレントの[ほしのあき](../Page/ほしのあき.md "wikilink")が出演。ほしのあきの大ファンである本人達からの、直々のアタックにこのコラボレーションが実現した。撮影場所はSHINの母校でもある[横浜](../Page/横浜市.md "wikilink")[山手学院](https://ja.wikipedia.org/wiki/山手学院 "wikilink")で行われ、ほしのあきが作中で着用してる制服も同校のものである。
 

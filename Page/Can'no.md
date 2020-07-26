@@ -217,7 +217,7 @@
 
   - [湘南乃風](../Page/湘南乃風.md "wikilink")
       - 「湾岸high way」（アルバム『[湘南乃風〜JOKER〜](https://ja.wikipedia.org/wiki/湘南乃風〜JOKER〜 "wikilink")』収録）
-  - [HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink")（[湘南乃風](../Page/湘南乃風.md "wikilink")）
+  - [HAN-KUN](../Page/HAN-KUN.md "wikilink")（[湘南乃風](../Page/湘南乃風.md "wikilink")）
       - 「TRUST ME」（アルバム『[VOICE MAGICIAN](https://ja.wikipedia.org/wiki/VOICE_MAGICIAN "wikilink")』収録）
       - 「Mr,Ragga\!\!」（アルバム『湘南乃風〜JOKER〜』収録）
   - [ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")

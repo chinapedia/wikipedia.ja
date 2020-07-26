@@ -11,7 +11,7 @@
 
 ## 設計
 
-上記の経緯より、設計はO級の小改正型、すなわちJ級の派生型であり、単煙突・船首楼型という船型も同様である\[6\]。機関も同様で、[アドミラルティ式](../Page/海軍本部_\(イギリス\).md "wikilink")3胴型[水管ボイラー](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")（圧力、温度326.7℃）、[パーソンズ式オール](https://ja.wikipedia.org/wiki/パーソンズ・マリン・スチーム・タービン "wikilink")・[ギヤード・タービンによる](https://ja.wikipedia.org/wiki/ギアード・タービン方式 "wikilink")2軸推進、出力40,000[馬力](../Page/馬力.md "wikilink")である\[7\]。ただし本級では、配管系の配置に改良が加えられた\[8\]。
+上記の経緯より、設計はO級の小改正型、すなわちJ級の派生型であり、単煙突・船首楼型という船型も同様である\[6\]。機関も同様で、[アドミラルティ式](../Page/海軍本部_\(イギリス\).md "wikilink")3胴型[水管ボイラー](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")（圧力、温度326.7℃）、[パーソンズ式オール](../Page/パーソンズ・マリン・スチーム・タービン.md "wikilink")・[ギヤード・タービンによる](https://ja.wikipedia.org/wiki/ギアード・タービン方式 "wikilink")2軸推進、出力40,000[馬力](../Page/馬力.md "wikilink")である\[7\]。ただし本級では、配管系の配置に改良が加えられた\[8\]。
 
 一方、上記の経緯から[艦砲](../Page/艦砲.md "wikilink")は45口径10.2cm単装高角砲（[QF 4インチ砲Mk.V](https://ja.wikipedia.org/wiki/:en:QF_4_inch_Mk_V_naval_gun "wikilink")）5基に変更された。このため、O級で搭載されていた後部[魚雷発射管](../Page/魚雷発射管.md "wikilink")は省かれて、[対艦兵器](https://ja.wikipedia.org/wiki/対艦兵器 "wikilink")は21インチ4連装[魚雷発射管](../Page/魚雷発射管.md "wikilink")1基のみとなった\[9\]。ただしピタード、パスファインダーでは10.2cm単装高角砲4基として、4連装魚雷発射管2基を搭載するように変更されて竣工した。また1945年初頭、ピタードでは10.2cm単装高角砲を全て撤去するかわりに45口径10.2cm連装高角砲（[QF 4インチ砲Mk.XVI](https://ja.wikipedia.org/wiki/:en:QF_4_inch_Mk_XVI_naval_gun "wikilink")）2基を搭載した。[射撃指揮装置はO級と同様で](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")、285型レーダーを備えたMk.V<sup>\*\*</sup>方位盤と、対空用のFKC（）射撃盤と対水上用のFCB（Fire Control Box）射撃盤の組み合わせとされた\[10\]。
 

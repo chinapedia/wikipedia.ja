@@ -1,7 +1,7 @@
 > この記事は[UP to boy](https://ja.wikipedia.org/wiki/UP_to_boy)から翻訳されています。
 
 
-『**UP to boy**』（アップトゥボーイ、略称：**UTB**）は、[ワニブックス](../Page/ワニブックス.md "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から発行している[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[グラビア雑誌](https://ja.wikipedia.org/wiki/グラビア雑誌 "wikilink")。
+『**UP to boy**』（アップトゥボーイ、略称：**UTB**）は、[ワニブックス](../Page/ワニブックス.md "wikilink")が[1986年](../Page/1986年.md "wikilink")から発行している[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[グラビア雑誌](https://ja.wikipedia.org/wiki/グラビア雑誌 "wikilink")。
 
 創刊当初は隔月刊だったが1995年8月号より月刊化後、2004年4月号より再度隔月刊に移行した。2014年11月号より再度月刊に移行し、2014年9月から発売日はその月の23日に『アップトゥボーイ』本誌を、2019年1月より季刊紙として増刊号『UTB+』を発行している（後述）。
 
@@ -302,7 +302,7 @@
 
   - 2月号：矢島舞美、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")
   - 4月号：AKB48\[5\]
-  - 6月号：[桜庭ななみ](https://ja.wikipedia.org/wiki/桜庭ななみ "wikilink")
+  - 6月号：[桜庭ななみ](../Page/桜庭ななみ.md "wikilink")
   - 8月号：[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")
   - 10月号：[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")
   - 12月号：鈴木愛理、[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")\[6\]

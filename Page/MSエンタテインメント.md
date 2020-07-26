@@ -6,7 +6,7 @@
 ## 沿革
 
   - 1969年12月4日　有限会社ミュージカルステーション設立
-    [森山良子](../Page/森山良子.md "wikilink")、[五輪真弓](../Page/五輪真弓.md "wikilink")、[杉田二郎](../Page/杉田二郎.md "wikilink")、[丸山圭子](../Page/丸山圭子.md "wikilink")、北川とみ、川島康子、[本田路津子](../Page/本田路津子.md "wikilink")など数多くのアーティストマネジメント（業務提携を含む）および音楽原盤制作を行い、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")、[甲斐バンド](../Page/甲斐バンド.md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")　などのコンサート制作を行う。
+    [森山良子](../Page/森山良子.md "wikilink")、[五輪真弓](../Page/五輪真弓.md "wikilink")、[杉田二郎](../Page/杉田二郎.md "wikilink")、[丸山圭子](../Page/丸山圭子.md "wikilink")、北川とみ、川島康子、[本田路津子](../Page/本田路津子.md "wikilink")など数多くのアーティストマネジメント（業務提携を含む）および音楽原盤制作を行い、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[チューリップ](../Page/チューリップ_\(バンド\).md "wikilink")、[甲斐バンド](../Page/甲斐バンド.md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")　などのコンサート制作を行う。
   - その後、1980年代には、有限会社ミュージカルステーションより、音響PA部門が株式会社オープンロードとして、舞台制作部門が株式会社オープリーランドとしてそれぞれ分社独立する。
   - 1986年6月　有限会社ミュージカルステーションより、アーティストマネジメント部門が分社独立し、株式会社MSアーティストプロダクツを設立。
     [小林明子](../Page/小林明子.md "wikilink")、[永井真理子](../Page/永井真理子.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、[To Be Continued](../Page/To_Be_Continued.md "wikilink")、[馬渡松子](../Page/馬渡松子.md "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")など数多くのアーティストマネジメント、プロデュースを行う。

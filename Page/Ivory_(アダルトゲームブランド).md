@@ -11,7 +11,7 @@
 
   - [とらいあんぐるハートシリーズ](../Page/とらいあんぐるハートシリーズ.md "wikilink")
       - [とらいあんぐるハート](https://ja.wikipedia.org/wiki/とらいあんぐるハート "wikilink")
-      - [とらいあんぐるハート2 さざなみ女子寮](https://ja.wikipedia.org/wiki/とらいあんぐるハート2_さざなみ女子寮 "wikilink")
+      - [とらいあんぐるハート2 さざなみ女子寮](../Page/とらいあんぐるハート2_さざなみ女子寮.md "wikilink")
       - [とらいあんぐるハート ラブラブおもちゃ箱](../Page/とらいあんぐるハート_ラブラブおもちゃ箱.md "wikilink")
       - [とらいあんぐるハート3 〜Sweet Songs Forever〜](https://ja.wikipedia.org/wiki/とらいあんぐるハート3_〜Sweet_Songs_Forever〜 "wikilink")
       - [とらいあんぐるハート3 リリカルおもちゃ箱](../Page/とらいあんぐるハート3_リリカルおもちゃ箱.md "wikilink")
@@ -40,7 +40,7 @@
   - Vol.2 黒澤 りな　～ごしゅじんさまといっしょ\!～ (声:[木葉楓](../Page/木葉楓.md "wikilink"))
   - Vol.3 玖堂 沙恵　－マツリノヨル－ (声:[浅見ちほ](https://ja.wikipedia.org/wiki/浅見ちほ "wikilink"))
   - Vol.4 藤原由貴&倉橋愛梨　～いっしょがいいね～ (声:[乃田あす実](../Page/乃田あす実.md "wikilink")、[草柳順子](../Page/草柳順子.md "wikilink"))
-  - Vol.5 幸村 小枝　～うたがきこえる～ (声:[春瀬みき](https://ja.wikipedia.org/wiki/春瀬みき "wikilink"))
+  - Vol.5 幸村 小枝　～うたがきこえる～ (声:[春瀬みき](../Page/春瀬みき.md "wikilink"))
   - Vol.6 綾守 沙也佳　～終わらないプレッジ～ (声:[鎌田千歳](https://ja.wikipedia.org/wiki/鎌田千歳 "wikilink"))
   - Vol.7 桜井ひなこ & 高瀬 遊　～ふたり教師～ (声:[かわしまりの](../Page/かわしまりの.md "wikilink")、[吉川華生](../Page/吉川華生.md "wikilink"))
 

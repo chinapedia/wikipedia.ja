@@ -7,7 +7,7 @@
 
   - [1963年](../Page/1963年.md "wikilink")生まれ。[大阪市](../Page/大阪市.md "wikilink")出身。
   - [1981年](../Page/1981年.md "wikilink")、[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")バンド、「精神異常集団エス・イー・エックス」結成、ライブ活動を行う。バンド・リーダー、ドラマーをつとめた。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")・バンド、「[淫心](https://ja.wikipedia.org/wiki/淫心 "wikilink")」に加入。同バンド・メンバーで[ロンドン](../Page/ロンドン.md "wikilink")に渡り、[ファー・イースト・アシッド・ハウス・クワルテットを結成](../Page/ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟.md "wikilink")。以後はバンド・メンバーとして、DJ、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")担当などをつとめた。
+  - [1986年](../Page/1986年.md "wikilink")、[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")・バンド、「[淫心](https://ja.wikipedia.org/wiki/淫心 "wikilink")」に加入。同バンド・メンバーで[ロンドン](../Page/ロンドン.md "wikilink")に渡り、[ファー・イースト・アシッド・ハウス・クワルテットを結成](../Page/ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟.md "wikilink")。以後はバンド・メンバーとして、DJ、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")担当などをつとめた。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃、バンド解散とともに、人知れず引退していた。
   - [2000年](../Page/2000年.md "wikilink")頃、イギリス人女性と結婚。
   - 以後、長らく沈黙を守っていたが、[2007年](../Page/2007年.md "wikilink")に元・バンドメンバーの[芙苑晶](../Page/芙苑晶.md "wikilink")とロンドンで10年ぶりに再会、「[ファー・イースト](../Page/ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟.md "wikilink")」作品が収められたアルバム『恍惚的宇宙論/トランス・レイヴ・コスモロジー（Trance-Rave Cosmology）』（「[芙苑晶](../Page/芙苑晶.md "wikilink") with [トランス・レイヴ・ドーターズ](../Page/トランス・レイヴ・ドーターズ.md "wikilink")」名義）（[2007年](../Page/2007年.md "wikilink")発表）において[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")としてゲスト参加している。

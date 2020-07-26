@@ -20,7 +20,7 @@
 
 ## テレビアニメ
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")（月曜）と同年[12月29日](../Page/12月29日.md "wikilink")（月曜）に、本作を基にした単発[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『**Mr.ペンペン**』と『**Mr.ペンペンII**』が[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。いずれも[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[シンエイ動画](../Page/シンエイ動画.md "wikilink")の共同製作。放送時間は[月曜 19:00 - 20:00](https://ja.wikipedia.org/wiki/テレビ朝日系列月曜夜7時台枠のアニメ "wikilink") （[日本標準時](../Page/日本標準時.md "wikilink")）。
+[1986年](../Page/1986年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（月曜）と同年[12月29日](../Page/12月29日.md "wikilink")（月曜）に、本作を基にした単発[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『**Mr.ペンペン**』と『**Mr.ペンペンII**』が[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。いずれも[テレビ朝日](../Page/テレビ朝日.md "wikilink")と[シンエイ動画](../Page/シンエイ動画.md "wikilink")の共同製作。放送時間は[月曜 19:00 - 20:00](https://ja.wikipedia.org/wiki/テレビ朝日系列月曜夜7時台枠のアニメ "wikilink") （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ### キャスト
 

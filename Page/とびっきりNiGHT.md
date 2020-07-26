@@ -1,7 +1,7 @@
 > この記事は[とびっきりNiGHT](https://ja.wikipedia.org/wiki/とびっきりNiGHT)から翻訳されています。
 
 
-**とびっきりNiGHT**（とびっきりないと）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送していた[深夜番組](../Page/深夜番組.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月まで放送されていた。
+**とびっきりNiGHT**（とびっきりないと）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送していた[深夜番組](../Page/深夜番組.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")9月まで放送されていた。
 
 15年6か月続いた[ミッドナイト東海](../Page/ミッドナイト東海.md "wikilink")の後番組。当初は地元[名古屋](../Page/名古屋.md "wikilink")で活躍するタレント、東海ラジオアナウンサー を起用して女性パーソナリティのみでスタート。半年後からは男性パーソナリティも加入し、[イモ欽トリオ](../Page/イモ欽トリオ.md "wikilink")を脱退後の[長江健次](../Page/長江健次.md "wikilink")、[中原めいこ](../Page/中原めいこ.md "wikilink")ら全国展開をしていたタレント、歌手を招聘。
 

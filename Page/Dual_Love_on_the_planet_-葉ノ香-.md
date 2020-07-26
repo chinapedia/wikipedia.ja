@@ -9,7 +9,7 @@
       - [作詞](../Page/作詞.md "wikilink")：[渡邉美佳](https://ja.wikipedia.org/wiki/渡邉美佳 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：渡邉美佳・[TAKAYOSHI](https://ja.wikipedia.org/wiki/TAKAYOSHI "wikilink")
       - テレビアニメ『[HANOKA〜葉ノ香〜](../Page/HANOKA〜葉ノ香〜.md "wikilink")』主題歌
 2.  **だもん。。。**
-      - 作詞：渡邉美佳、作曲：影山ヒロノブ、編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - 作詞：渡邉美佳、作曲：影山ヒロノブ、編曲：[須藤賢一](../Page/須藤賢一.md "wikilink")
 3.  **1999**（[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")）
       - 作詞・作曲・編曲：影山ヒロノブ
       - 野川が上京して、暮らし始めた1999年の事を歌った曲で、[ライブでは定番の曲だったが](../Page/演奏会.md "wikilink")、これで初めて音源化された。

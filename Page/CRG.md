@@ -3,14 +3,14 @@
 
 **株式会社CRG**は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に所在する[エージェント](../Page/エージェント.md "wikilink")[事務所](../Page/芸能事務所.md "wikilink")。CRGはCreative Guardian（クリエイティブ・ガーディアン）の略\[1\]。
 
-漫画家の[ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")、脚本家の[福田靖](../Page/福田靖.md "wikilink")などの代理人として活躍する[弁護士](../Page/弁護士.md "wikilink")の[四宮隆史](https://ja.wikipedia.org/wiki/四宮隆史 "wikilink")が設立した企業で、他に役者も所属する\[2\]。
+漫画家の[ヤマザキマリ](../Page/ヤマザキマリ.md "wikilink")、脚本家の[福田靖](../Page/福田靖.md "wikilink")などの代理人として活躍する[弁護士](../Page/弁護士.md "wikilink")の[四宮隆史](https://ja.wikipedia.org/wiki/四宮隆史 "wikilink")が設立した企業で、他に役者も所属する\[2\]。
 
 ## MANAGEMENT
 
 ### CREATORS
 
   - [福田靖](../Page/福田靖.md "wikilink")（脚本家）
-  - [ヤマザキマリ](https://ja.wikipedia.org/wiki/ヤマザキマリ "wikilink")（漫画家、随筆家）
+  - [ヤマザキマリ](../Page/ヤマザキマリ.md "wikilink")（漫画家、随筆家）
   - [長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")（作曲家、編曲家、音楽プロデューサー）
   - [熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")（監督、脚本家）
   - [榎本憲男](https://ja.wikipedia.org/wiki/榎本憲男 "wikilink")（小説家、映画監督、ストーリーコンサルタント）

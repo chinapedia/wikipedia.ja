@@ -68,7 +68,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/堤勘時" title="wikilink">堤勘時</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p>ミホシンザン<br />
 （父：シンザン）</p></td>
 <td><p>牡5</p></td>
@@ -117,7 +117,7 @@
 <td><p>7戦5勝<br />
 天皇賞（春・秋）、<a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/錦野牧場" title="wikilink">錦野牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小原伊佐美" title="wikilink">小原伊佐美</a></p></td>
+<td><p><a href="../Page/小原伊佐美.md" title="wikilink">小原伊佐美</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タマモ" title="wikilink">タマモ</a>（株）</p></td>
 <td></td>
 </tr>
@@ -200,7 +200,7 @@
 <td><p>牡8</p></td>
 <td><p>7戦4勝<br />
 <a href="../Page/香港カップ.md" title="wikilink">香港国際カップ</a>（※G2）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="../Page/森秀行.md" title="wikilink">森秀行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤本龍也" title="wikilink">藤本龍也</a></p></td>
 <td></td>

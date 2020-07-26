@@ -7,7 +7,7 @@
 
 ## 生産期間
 
-  - 国内向け：[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月 - [1999年](../Page/1999年.md "wikilink")6月
+  - 国内向け：[1986年](../Page/1986年.md "wikilink")4月 - [1999年](../Page/1999年.md "wikilink")6月
 
 ## 系譜
 
@@ -39,7 +39,7 @@
 ### 1N-T
 
   - 生産期間
-      - 国内向け：[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月 - 1999年6月
+      - 国内向け：[1986年](../Page/1986年.md "wikilink")4月 - 1999年6月
 
 <!-- end list -->
 

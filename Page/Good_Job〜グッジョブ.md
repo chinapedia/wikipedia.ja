@@ -78,7 +78,7 @@
   - 小久保の元同僚OL ：[飯沼千恵子](https://ja.wikipedia.org/wiki/飯沼千恵子 "wikilink")
   - 小久保の元同僚OL ：[平野麻樹子](../Page/平野麻樹子.md "wikilink")
   - 駒田（お局OL）：[藤代三千代](https://ja.wikipedia.org/wiki/藤代三千代 "wikilink")
-  - 取引先の男 ：[浜田道彦](https://ja.wikipedia.org/wiki/浜田道彦 "wikilink")
+  - 取引先の男 ：[浜田道彦](../Page/浜田道彦.md "wikilink")
   - 営業二課OL（回想シーン）：[原田佳奈](https://ja.wikipedia.org/wiki/原田佳奈 "wikilink")
   - 営業二課OL（回想シーン）：[澤山薫](../Page/澤山薫.md "wikilink")
   - 直の同期のOL：[工藤あさぎ](../Page/工藤あさぎ.md "wikilink")

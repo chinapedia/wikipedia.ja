@@ -98,7 +98,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 <!-- end list -->
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-      - [5月21日](../Page/5月21日.md "wikilink")に発売された5thシングル、「Sands of time」が「[窪田正孝](../Page/窪田正孝.md "wikilink")」主演のTVドラマ『[ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")』のエンディングテーマとして抜擢される。関連商品の[バンダイ](../Page/バンダイ.md "wikilink")「DX フォンブレイバー7」TV-CM、[SoftBank](https://ja.wikipedia.org/wiki/SoftBank "wikilink")「[フォンブレイバー 815T PB](https://ja.wikipedia.org/wiki/SoftBank_815T "wikilink")」商品PVにも起用される。
+      - [5月21日](../Page/5月21日.md "wikilink")に発売された5thシングル、「Sands of time」が「[窪田正孝](../Page/窪田正孝.md "wikilink")」主演のTVドラマ『[ケータイ捜査官7](../Page/ケータイ捜査官7.md "wikilink")』のエンディングテーマとして抜擢される。関連商品の[バンダイ](../Page/バンダイ.md "wikilink")「DX フォンブレイバー7」TV-CM、[SoftBank](https://ja.wikipedia.org/wiki/SoftBank "wikilink")「[フォンブレイバー 815T PB](https://ja.wikipedia.org/wiki/SoftBank_815T "wikilink")」商品PVにも起用される。
       - [10月1日](../Page/10月1日.md "wikilink")に**BACK-ON**、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、[High Speed BoyzのJINとのコラボレーション](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")『[BAReeeeeeeeeeN](https://ja.wikipedia.org/wiki/BAReeeeeeeeeeN "wikilink")』で発売したシングル「足跡」がオリコン週間シングルチャートで7位を記録。
       - [1月28日](../Page/1月28日.md "wikilink")に発売された6thシングル「flyaway」が、ゲーム『[テイルズ オブ ザ ワールド レディアント マイソロジー2](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_ワールド_レディアント_マイソロジー2 "wikilink")』の主題歌・挿入歌として抜擢され、オリコンデイリーシングルチャートで最高位4位を記録。
 
@@ -108,7 +108,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
       - [6月10日](../Page/6月10日.md "wikilink")にヨーロッパでアルバム「YES\!\!\!」が\[EU edition\]として海外流通で発売。
       - [8月7日](../Page/8月7日.md "wikilink")に夏のロックフェスティバル『[SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink")』大阪会場の「GARDEN STAGE」に出演。
       - [9月19日](../Page/9月19日.md "wikilink")にドイツ、カッセルにて開催されたアニメフェス『[Connichi](https://ja.wikipedia.org/wiki/Connichi "wikilink")』にゲスト出演。
-      - [9月26日](../Page/9月26日.md "wikilink")に東京、[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")にて開催された、『HIPS vol.9』に出演。その他出演者に[清水翔太](../Page/清水翔太.md "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[HOME MADE 家族が出演](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")。
+      - [9月26日](../Page/9月26日.md "wikilink")に東京、[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")にて開催された、『HIPS vol.9』に出演。その他出演者に[清水翔太](../Page/清水翔太.md "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[HOME MADE 家族が出演](../Page/HOME_MADE_家族.md "wikilink")。
       - [12月26日](../Page/12月26日.md "wikilink")から2日間、初の単独海外ツアーを台湾の台北、台中で開催。オープニングアクトに台湾のロックバンド、OVDSが参加。
 
 <!-- end list -->
@@ -128,7 +128,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 
   - [2012年](../Page/2012年.md "wikilink")
       - [3月28日](../Page/3月28日.md "wikilink")に発売された[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")のアルバム『[Kis-My-1st](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")』の収録曲「タビダチノウタ」で楽曲提供。
-      - [5月9日](../Page/5月9日.md "wikilink")に発売された11thシングル「Ice cream」が映画『[悪の教典](https://ja.wikipedia.org/wiki/悪の教典#映画 "wikilink")』劇中歌と[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』のエンディングテーマに抜擢。
+      - [5月9日](../Page/5月9日.md "wikilink")に発売された11thシングル「Ice cream」が映画『[悪の教典](https://ja.wikipedia.org/wiki/悪の教典#映画 "wikilink")』劇中歌と[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[今ちゃんの「実は…」](../Page/今ちゃんの「実は…」.md "wikilink")』のエンディングテーマに抜擢。
       - [8月4日](../Page/8月4日.md "wikilink")、『[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") musicweek BAND NATION』に出演。
       - [9月11日](../Page/9月11日.md "wikilink")に配信開始されたGREEソーシャルゲーム『テイルズ オブ カード エボルブ』に「Brand new story」をイメージソングとして楽曲を書き下ろす。
       - [12月22日](../Page/12月22日.md "wikilink")に[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink")にて開催された、『MUSIC FOR ALL, ALL FOR ONE 2012』に出演。
@@ -230,7 +230,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
       - [7月12日](../Page/7月12日.md "wikilink")より、3日間に渡り、ブラジル、フォルタレーザで開催。『[SANA](https://ja.wikipedia.org/wiki/SANA "wikilink")』にゲスト出演。
       - [7月20日](../Page/7月20日.md "wikilink")より、2日間に渡り、ブラジル、ジョアンペソアで開催。『Supercon』にゲスト出演。
       - [7月26日](../Page/7月26日.md "wikilink")より、3日間に渡り、中国北京で開催。3日間の総来場者数が30万人を超える、中国国内最大級の音楽フェスティバル『张北草原音乐节（CHINA ZHANGBEI GRASSLAND MUSIC FESTIVAL）』に出演。
-      - [7月31日](../Page/7月31日.md "wikilink")発売の[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のアルバム「IGNITE」収録の「Fly like a ROCKET」をTEEDAが作詞提供。
+      - [7月31日](../Page/7月31日.md "wikilink")発売の[KAT-TUN](../Page/KAT-TUN.md "wikilink")のアルバム「IGNITE」収録の「Fly like a ROCKET」をTEEDAが作詞提供。
       - [8月13日](../Page/8月13日.md "wikilink")より、3日間に渡り、愛知県・名古屋市にて行われる、[ZIP-FM](../Page/ZIP-FM.md "wikilink")主催のサーキットフェス『ONE BIG PLATE NAGOYA 』に出演。
       - [8月31日](../Page/8月31日.md "wikilink")より、2日間に渡り、フィリピン、マニラのSMX Convention Centerで開催される、「The Best of Anime 2019」にゲスト出演。
       - [9月7日](../Page/9月7日.md "wikilink")より、2日間に渡り幕張メッセイベントホールにて、ガンダムシリーズ40周年を記念して開催される『[GUNDAM 40th FES."LIVE-BEYOND"](https://ja.wikipedia.org/wiki/GUNDAM_40th_FES."LIVE-BEYOND" "wikilink")』に出演。w/ [LUNA SEA](../Page/LUNA_SEA.md "wikilink") 、[西川貴教](../Page/西川貴教.md "wikilink")、[May J](https://ja.wikipedia.org/wiki/May_J "wikilink") 、[SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")、[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink") .etc...
@@ -412,7 +412,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 <tr class="odd">
 <td><p>2008年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Sands_of_time" title="wikilink">Sands of time</a></p></td>
-<td><p>テレビ東京系ドラマ『<a href="https://ja.wikipedia.org/wiki/ケータイ捜査官7" title="wikilink">ケータイ捜査官7</a>』エンディングテーマ曲<br />
+<td><p>テレビ東京系ドラマ『<a href="../Page/ケータイ捜査官7.md" title="wikilink">ケータイ捜査官7</a>』エンディングテーマ曲<br />
 <a href="../Page/バンダイ.md" title="wikilink">バンダイ</a>「DX フォンブレイバー7」CMソング<br />
 <a href="https://ja.wikipedia.org/wiki/SoftBank" title="wikilink">SoftBank</a>「<a href="https://ja.wikipedia.org/wiki/SoftBank_815T" title="wikilink">フォンブレイバー 815T PB</a>」商品PVタイアップ</p></td>
 <td><p>「Sands of time」</p></td>
@@ -476,7 +476,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Ice_cream_(BACK-ONの曲)" title="wikilink">Ice cream</a></p></td>
-<td><p>テレビ朝日系<a href="https://ja.wikipedia.org/wiki/バラエティ番組" title="wikilink">バラエティー番組</a>『<a href="https://ja.wikipedia.org/wiki/今ちゃんの「実は…」" title="wikilink">今ちゃんの「実は…」</a>』5月度エンディングテーマ<br />
+<td><p>テレビ朝日系<a href="https://ja.wikipedia.org/wiki/バラエティ番組" title="wikilink">バラエティー番組</a>『<a href="../Page/今ちゃんの「実は…」.md" title="wikilink">今ちゃんの「実は…」</a>』5月度エンディングテーマ<br />
 <a href="../Page/東宝.md" title="wikilink">東宝</a>配給映画『<a href="https://ja.wikipedia.org/wiki/悪の教典#映画" title="wikilink">悪の教典</a>』劇中歌</p></td>
 <td><p>「Ice cream」</p></td>
 </tr>
@@ -593,7 +593,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 
 ※全てTEEDA名義で作詞
 
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") - 「[Fly like a ROCKET](https://ja.wikipedia.org/wiki/Fly_like_a_ROCKET "wikilink")」
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink") - 「[Fly like a ROCKET](https://ja.wikipedia.org/wiki/Fly_like_a_ROCKET "wikilink")」
   - [SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink") - 「[B-THE ONE](https://ja.wikipedia.org/wiki/B-THE_ONE "wikilink")」
   - [SNUPER](https://ja.wikipedia.org/wiki/SNUPER "wikilink") - 「[BIG AIR](https://ja.wikipedia.org/wiki/BIG_AIR "wikilink")」
   - [100%](https://ja.wikipedia.org/wiki/100% "wikilink") - 「[Promise you](https://ja.wikipedia.org/wiki/Promise_you "wikilink")」、「[Feel like a rocket](https://ja.wikipedia.org/wiki/Feel_like_a_rocket "wikilink")」

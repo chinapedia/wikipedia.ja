@@ -29,7 +29,7 @@
 
   - 沢井ユメノ：[菜葉菜](../Page/菜葉菜.md "wikilink")
   - ヨシキ：[小林且弥](../Page/小林且弥.md "wikilink")
-  - 島田リョウ：[金井史更](https://ja.wikipedia.org/wiki/金井史更 "wikilink")
+  - 島田リョウ：[金井史更](../Page/金井史更.md "wikilink")
   - サリ：[夏生ゆうな](../Page/夏生ゆうな.md "wikilink")
   - 島田良昌：[伊藤猛](https://ja.wikipedia.org/wiki/伊藤猛 "wikilink")
   - 森川：[柳ユーレイ](../Page/柳憂怜.md "wikilink")

@@ -50,7 +50,7 @@
   - 脚本 - 早坂律子
   - キャラクターデザイン・L/O監修 - 高橋しんや
   - 作画監督 - [木下ゆうき](../Page/木下ゆうき.md "wikilink")、[門之園恵美](https://ja.wikipedia.org/wiki/門之園恵美 "wikilink")、岡辰也、大坪幸麿、[糸島雅彦](https://ja.wikipedia.org/wiki/糸島雅彦 "wikilink")、[石原満](../Page/石原満.md "wikilink")、高橋しんや
-  - 演出 - [牛草健](https://ja.wikipedia.org/wiki/牛草健 "wikilink")、則座誠
+  - 演出 - [牛草健](../Page/牛草健.md "wikilink")、則座誠
   - 美術監督 - 小倉一男
   - 色彩設計 - 小林美代子
   - 撮影監督 - 小西一廣

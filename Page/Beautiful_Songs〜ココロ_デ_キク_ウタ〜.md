@@ -86,7 +86,7 @@
 <td><p><strong>ビューティフル・ソングス〜ココロデ キク ウタ〜 Vol.3</strong></p></td>
 <td><p>WPCR-13000</p></td>
 <td><ol>
-<li>バブリー / <a href="https://ja.wikipedia.org/wiki/コルビー・キャレイ" title="wikilink">コルビー・キャレイ</a></li>
+<li>バブリー / <a href="../Page/コルビー・キャレイ.md" title="wikilink">コルビー・キャレイ</a></li>
 <li>ニュー・ソウル / <a href="https://ja.wikipedia.org/wiki/ヤエル・ナイム" title="wikilink">ヤエル・ナイム</a></li>
 <li>アイム・ユアーズ / <a href="../Page/ジェイソン・ムラーズ.md" title="wikilink">ジェイソン・ムラーズ</a></li>
 <li>サンデイ・モーニング / <a href="../Page/マルーン5.md" title="wikilink">マルーン5</a></li>

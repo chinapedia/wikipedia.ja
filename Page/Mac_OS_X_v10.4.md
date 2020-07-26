@@ -41,7 +41,7 @@
   - **[Core Image](../Page/Core_Image.md "wikilink")**/**Core Video** - [GPUの](../Page/Graphics_Processing_Unit.md "wikilink")[シェーダ](https://ja.wikipedia.org/wiki/シェーダ "wikilink")を利用して、イメージのフィルタ処理を行う。
   - **[launchd](https://ja.wikipedia.org/wiki/launchd "wikilink")** - 端末の初期化、サービスの管理機構。[init](https://ja.wikipedia.org/wiki/init "wikilink")、[inetd](https://ja.wikipedia.org/wiki/inetd "wikilink")、[cron](https://ja.wikipedia.org/wiki/cron "wikilink")の置き換え
   - **[Uniform Type Identifier](../Page/Uniform_Type_Identifier.md "wikilink")** (**UTI**)- データ型の判別に利用される。
-  - **[ファイルシステムの拡張](https://ja.wikipedia.org/wiki/HFS_Plus "wikilink")** - [アクセス制御リスト](../Page/アクセス制御リスト.md "wikilink")のサポート、HFS+での大文字小文字の区別
+  - **[ファイルシステムの拡張](../Page/HFS_Plus.md "wikilink")** - [アクセス制御リスト](../Page/アクセス制御リスト.md "wikilink")のサポート、HFS+での大文字小文字の区別
   - **Kernel Programming Interface**（**KPI**） - [カーネル機能拡張](https://ja.wikipedia.org/wiki/カーネル機能拡張 "wikilink")(kext)はKPIを通じてカーネルにリンクする仕様に変更、[マルチCPU環境への最適化が進んだ](../Page/マルチコア.md "wikilink")。
 
 ## 対応環境／システム条件

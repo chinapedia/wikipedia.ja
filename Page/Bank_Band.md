@@ -392,7 +392,7 @@ iTunes Store・moraなどで配信。</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/佐野元春#SOMEDAY" title="wikilink">SOMEDAY</a>（Bank Band）</li>
 <li><a href="../Page/ラブ・ストーリーは突然に.md" title="wikilink">ラブ・ストーリーは突然に</a>（<a href="../Page/小田和正.md" title="wikilink">小田和正</a>）</li>
 <li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a>（小田和正）</li>
-<li><a href="https://ja.wikipedia.org/wiki/晴天を誉めるなら夕暮れを待て" title="wikilink">晴天を誉めるなら夕暮れを待て</a>（<a href="https://ja.wikipedia.org/wiki/ASKA" title="wikilink">ASKA</a>）</li>
+<li><a href="../Page/晴天を誉めるなら夕暮れを待て.md" title="wikilink">晴天を誉めるなら夕暮れを待て</a>（<a href="https://ja.wikipedia.org/wiki/ASKA" title="wikilink">ASKA</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/kicks#収録曲" title="wikilink">同じ時代を</a>（ASKA）</li>
 <li>Documentary 6</li>
 <li><a href="https://ja.wikipedia.org/wiki/生まれ来る子供たちのために" title="wikilink">生まれ来る子供たちのために</a>（Bank Band）</li>
@@ -500,7 +500,7 @@ iTunes Store・moraなどで配信。</p></td>
 </dl>
 <ol>
 <li>Documentary 8</li>
-<li><a href="https://ja.wikipedia.org/wiki/ええねん_(曲)" title="wikilink">ええねん</a>（<a href="../Page/ウルフルズ.md" title="wikilink">ウルフルズ</a>）</li>
+<li><a href="../Page/ええねん_(曲).md" title="wikilink">ええねん</a>（<a href="../Page/ウルフルズ.md" title="wikilink">ウルフルズ</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/両方_For_You#収録曲" title="wikilink">泣けてくる</a>（ウルフルズ）</li>
 </ol>
 <p># [[ガッツだぜ</p></td>
@@ -586,7 +586,7 @@ iTunes Store・moraなどで配信。</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/手をつなごう/愛を歌おう" title="wikilink">手をつなごう</a>（絢香）</li>
 <li><a href="../Page/あなたと.md" title="wikilink">あなたと</a>（絢香×コブクロ）</li>
 <li>蕾（コブクロ）</li>
-<li><a href="https://ja.wikipedia.org/wiki/裏切り御免" title="wikilink">裏切り御免</a>（<a href="https://ja.wikipedia.org/wiki/The_THREE" title="wikilink">The THREE</a>【<a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a>×KREVA×亀田誠治】）</li>
+<li><a href="https://ja.wikipedia.org/wiki/裏切り御免" title="wikilink">裏切り御免</a>（<a href="../Page/The_THREE.md" title="wikilink">The THREE</a>【<a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a>×KREVA×亀田誠治】）</li>
 <li>POISON（布袋寅泰）</li>
 <li><a href="../Page/緑の街_(小田和正の曲).md" title="wikilink">緑の街</a>（Bank Band）</li>
 <li><a href="https://ja.wikipedia.org/wiki/DISCOVERY_(Mr.Childrenのアルバム)#収録曲" title="wikilink">ラララ</a>（Mr.Children）</li>
@@ -679,7 +679,7 @@ iTunes Store・moraなどで配信。</p></td>
 </dl>
 <ol>
 <li>Documentary 8</li>
-<li><a href="https://ja.wikipedia.org/wiki/愛_NEED" title="wikilink">愛 NEED</a>（<a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/愛_NEED" title="wikilink">愛 NEED</a>（<a href="../Page/キマグレン.md" title="wikilink">キマグレン</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/やさしさで溢れるように" title="wikilink">やさしさで溢れるように</a>（<a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a>）</li>
 <li><a href="../Page/鱗_(曲).md" title="wikilink">鱗 (うろこ)</a>（<a href="https://ja.wikipedia.org/wiki/秦基博" title="wikilink">秦 基博</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/うんと幸せ" title="wikilink">うんと幸せ</a>（一青 窈）</li>

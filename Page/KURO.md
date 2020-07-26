@@ -1,15 +1,15 @@
 > この記事は[KURO](https://ja.wikipedia.org/wiki/KURO)から翻訳されています。
 
 
-**KURO**（クロ、本名:**水谷 Samuel 聡史**、[1977年](../Page/1977年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
+**KURO**（クロ、本名:**水谷 Samuel 聡史**、[1977年](../Page/1977年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[HOME MADE 家族の](../Page/HOME_MADE_家族.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
 
 ## 概要
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")生まれ。幼少時代から、本場のHIP-HOPに囲まれて育ち12歳まで過ごした。その後神奈川県横浜市に引っ越す。横浜市の公立中学校に通い、サッカー部に所属していた。高校生の頃、[ライムスターの](../Page/RHYMESTER.md "wikilink")「俺に言わせりゃ」に衝撃を受け日本語ラップを始める。その後、大学の関係で名古屋に渡り今の[HOME MADE 家族のメンバーである](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICROと元メンバーHOZEに出逢った](../Page/MICRO_\(ラッパー\).md "wikilink")。グループのリーダーでもある。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")生まれ。幼少時代から、本場のHIP-HOPに囲まれて育ち12歳まで過ごした。その後神奈川県横浜市に引っ越す。横浜市の公立中学校に通い、サッカー部に所属していた。高校生の頃、[ライムスターの](../Page/RHYMESTER.md "wikilink")「俺に言わせりゃ」に衝撃を受け日本語ラップを始める。その後、大学の関係で名古屋に渡り今の[HOME MADE 家族のメンバーである](../Page/HOME_MADE_家族.md "wikilink")[MICROと元メンバーHOZEに出逢った](../Page/MICRO_\(ラッパー\).md "wikilink")。グループのリーダーでもある。
 
 2005年には[槇原敬之](../Page/槇原敬之.md "wikilink")にフィーチャリングされ「ほんの少しだけ」をリリース。[槇原敬之](../Page/槇原敬之.md "wikilink")が認めたほどストーリー性の高い小説的な歌詞を作ることを得意とし、[May J.の](https://ja.wikipedia.org/wiki/May_J. "wikilink")「[Story Of Love](https://ja.wikipedia.org/wiki/FAMILY_\(May_J.のアルバム\) "wikilink")」や[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")[浦田直也](../Page/浦田直也.md "wikilink")のソロ「[White Lie](https://ja.wikipedia.org/wiki/TURN_OVER "wikilink")」などでソングライターとしてもその実力を発揮している。
 
-[SEAMO](../Page/SEAMO.md "wikilink")（塾長）とは旧知の仲であり、売れていない頃はよくお金を借りたりご飯を食べさせてもらったという。ただ、[HOME MADE 家族がブレイクしたときにきっちり耳をそろえて借金を返されたとき](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[SEAMO](../Page/SEAMO.md "wikilink")は「これで繋ぐものはなくなったな」とこぼしている。しかし、彼らの交友関係は健在で[SEAMO](../Page/SEAMO.md "wikilink")の主催する東海フェスのタイトル「[TOKAI SUMMIT](../Page/TOKAI_SUMMIT.md "wikilink")」や彼の1st「[Get Back On Stage](../Page/Get_Back_On_Stage.md "wikilink")」、2nd「[Live Goes On](../Page/Live_Goes_On.md "wikilink")」、3rd「[Round About](../Page/Round_About.md "wikilink")」のネーミングはKUROが考えている。これはしばしネタで、印税を巡る問題で二人のやりとりがある。
+[SEAMO](../Page/SEAMO.md "wikilink")（塾長）とは旧知の仲であり、売れていない頃はよくお金を借りたりご飯を食べさせてもらったという。ただ、[HOME MADE 家族がブレイクしたときにきっちり耳をそろえて借金を返されたとき](../Page/HOME_MADE_家族.md "wikilink")[SEAMO](../Page/SEAMO.md "wikilink")は「これで繋ぐものはなくなったな」とこぼしている。しかし、彼らの交友関係は健在で[SEAMO](../Page/SEAMO.md "wikilink")の主催する東海フェスのタイトル「[TOKAI SUMMIT](../Page/TOKAI_SUMMIT.md "wikilink")」や彼の1st「[Get Back On Stage](../Page/Get_Back_On_Stage.md "wikilink")」、2nd「[Live Goes On](../Page/Live_Goes_On.md "wikilink")」、3rd「[Round About](../Page/Round_About.md "wikilink")」のネーミングはKUROが考えている。これはしばしネタで、印税を巡る問題で二人のやりとりがある。
 
 トラックメイカー兼ギターリストであるATSUSHIという二つ違いの弟がいる（作家名Tony23）。彼はSMELLS GOODというソウルバンドを持ち、元メンバーのHOZEがそこに在籍している。KUROがそのバンドと組んだ「[KURO\&S★G](https://ja.wikipedia.org/wiki/KURO&S★G "wikilink")」というヒップホップとソウルを融合させたグループがある。「NO RELEASE, LIVE ONLY」というコンセプトを掲げ、不定期にライブ活動を敢行。架空のアルバム(G)old & new（全12曲）、(G)old & new 2（全8曲）を制作し披露している。2010年1月29日に名古屋の[クラブカナリア](https://ja.wikipedia.org/wiki/クラブカナリア "wikilink")にて初のワンマンライブを成功。また、2012年5月13日大阪 [Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La "wikilink")、2012年5月19日 [shibuya duo MUSIC EXCHANGE](../Page/Shibuya_O-EAST.md "wikilink")、2012年5月20日 名古屋OZONにてリリースもしていないのに初の東名阪ツアーも成功させている。2015年9月6日 新宿ReNYにて、KURO\&S★G Unreleased Live \~Paint It Gold\~”9のじかん” ・”6のじかん”の2部構成を成功させている。2017年3月18日 新宿BLAZEにて「THE LAST LIVE 〜リリースもしてないのに最後のライブ！？〜」の公演中に「KURO＆S★G」から「eNBAND」（読み方：えんばん）と改名して今後活動していくことを発表。「KURO＆S★G」としては楽曲をリリースはしなかったが、「eNBAND」として楽曲をリリースする予定があることも同時に発表。
 
@@ -19,7 +19,7 @@
 
 ## ディスコグラフィー
 
-  - 「Time Attack」[SEAMO](../Page/SEAMO.md "wikilink") feat. KURO, MICRO from [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")（2005年10月26日発売）
+  - 「Time Attack」[SEAMO](../Page/SEAMO.md "wikilink") feat. KURO, MICRO from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")（2005年10月26日発売）
   - 「ほんの少しだけ」[槇原敬之](../Page/槇原敬之.md "wikilink") feat. KURO from HOME MADE 家族（2006年2月1日発売）
   - 「ANTI HERO」SEAMO feat. KURO from HOME MADE 家族（2006年9月20日発売）
   - 「Do it\!」SEAMO feat. KURO, MICRO from HOME MADE 家族（2007年10月31日発売）

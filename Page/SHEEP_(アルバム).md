@@ -55,5 +55,5 @@
 
 1.  購入者向け特典は、抽選で「ハービー山口の撮影・プリントによる山崎まさよしオリジナルフォト」が20名に当たるというもの。
 2.  後にハービー山口撮影の写真集も発表された。
-3.  音源はライヴ[CD](../Page/コンパクトディスク.md "wikilink")『[ONE KNIGHT STANDS](../Page/ONE_KNIGHT_STANDS.md "wikilink")』、映像は[VHS](../Page/VHS.md "wikilink")&[DVD](../Page/DVD.md "wikilink")『[ONE KNIGHT STANDS on films](https://ja.wikipedia.org/wiki/ONE_KNIGHT_STANDS_on_films "wikilink")』が2000年9月25日にリリース。
+3.  音源はライヴ[CD](../Page/コンパクトディスク.md "wikilink")『[ONE KNIGHT STANDS](../Page/ONE_KNIGHT_STANDS.md "wikilink")』、映像は[VHS](../Page/VHS.md "wikilink")&[DVD](../Page/DVD.md "wikilink")『[ONE KNIGHT STANDS on films](../Page/ONE_KNIGHT_STANDS_on_films.md "wikilink")』が2000年9月25日にリリース。
 4.  「山崎まさよしBREaTH 特別号」（Sony Magazines Annex刊）より。

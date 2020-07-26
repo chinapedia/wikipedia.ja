@@ -1,7 +1,7 @@
 > この記事は[ANAカード](https://ja.wikipedia.org/wiki/ANAカード)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:150307_ANA_Diners_Super_Flyers_Premium_Card01s.jpg "wikilink")（上）、ANA JCBプラチナプレミアムカード（下）\]\] **ANAカード**（エイエヌエイカード、ANA Card）は、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")グループが複数のカード発行会社と提携して[ANAマイレージクラブ](../Page/ANAマイレージクラブ.md "wikilink")の会員に向けて提供する[クレジットカードである](../Page/クレジットカード_\(日本\).md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:150307_ANA_Diners_Super_Flyers_Premium_Card01s.jpg "wikilink")（上）、ANA JCBプラチナプレミアムカード（下）\]\] **ANAカード**（エイエヌエイカード、ANA Card）は、[全日本空輸](../Page/全日本空輸.md "wikilink")グループが複数のカード発行会社と提携して[ANAマイレージクラブ](../Page/ANAマイレージクラブ.md "wikilink")の会員に向けて提供する[クレジットカードである](../Page/クレジットカード_\(日本\).md "wikilink")。
 
 ANA提携カードは日本以外に、米国、香港、中国、台湾等でも発行されているが、ここでは日本国内で発行されるANAカードについて記述する。
 
@@ -311,7 +311,7 @@ ANA To Me CARD PASMO JCBのみ重複保有可能</p></td>
   - [ANAマイレージクラブ](../Page/ANAマイレージクラブ.md "wikilink")
   - [ANAラウンジ](https://ja.wikipedia.org/wiki/ANAラウンジ "wikilink")
   - [マイレージサービス](../Page/マイレージサービス.md "wikilink")
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")
   - [スターアライアンス](../Page/スターアライアンス.md "wikilink")
   - [JALカード](../Page/JALカード.md "wikilink") - [JALグローバルクラブ](../Page/JALグローバルクラブ.md "wikilink")
 

@@ -23,7 +23,7 @@
   - [東日本放送](../Page/東日本放送.md "wikilink")『[突撃\!ナマイキTV](../Page/突撃!ナマイキTV.md "wikilink")』：宮城県の午前の[ワイド番組](../Page/ワイド番組.md "wikilink")。
   - [仙台放送](../Page/仙台放送.md "wikilink")『[あらあらかしこ](https://ja.wikipedia.org/wiki/あらあらかしこ "wikilink")』：宮城県の土曜の[ワイド番組](../Page/ワイド番組.md "wikilink")。あらかしガールズとして、[川田愛美](https://ja.wikipedia.org/wiki/川田愛美 "wikilink")、[庄司梨紗](https://ja.wikipedia.org/wiki/庄司梨紗 "wikilink")、[関野乃花](https://ja.wikipedia.org/wiki/関野乃花 "wikilink")、[川村晴香](https://ja.wikipedia.org/wiki/川村晴香 "wikilink")が出演している\[12\]。
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")・[株式会社ジェイコムイースト 仙台キャベツ局（J:COM 仙台キャベツ）が制作する番組に](../Page/宮城ネットワーク.md "wikilink")、所属タレントが出演している。
-  - 『[アヒルと鴨のコインロッカー](../Page/アヒルと鴨のコインロッカー.md "wikilink")』『[重力ピエロ](https://ja.wikipedia.org/wiki/重力ピエロ "wikilink")』など、宮城県でロケが行われた映画に[端役](../Page/端役.md "wikilink")や[エキストラ](../Page/エキストラ.md "wikilink")などとして所属タレントが出演している。
+  - 『[アヒルと鴨のコインロッカー](../Page/アヒルと鴨のコインロッカー.md "wikilink")』『[重力ピエロ](../Page/重力ピエロ.md "wikilink")』など、宮城県でロケが行われた映画に[端役](../Page/端役.md "wikilink")や[エキストラ](../Page/エキストラ.md "wikilink")などとして所属タレントが出演している。
   - [ハイウェイウォーカー](https://ja.wikipedia.org/wiki/ハイウェイウォーカー "wikilink")：高速道路のサービスエリアなどで、配布されているフリーペーパー。所属のモデルが出演している。
   - [仙台放送](../Page/仙台放送.md "wikilink")『[スポルたん\!LIVE](../Page/スポルたん!LIVE.md "wikilink")』：宮城県の土曜日のスポーツ番組。2011年3月までアシスタントで[新海史子](https://ja.wikipedia.org/wiki/新海史子 "wikilink")（現：[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")アナウンサー）が出演していた。
   - [東北放送](../Page/東北放送.md "wikilink")『[ふしぎのトビラ](../Page/ふしぎのトビラ.md "wikilink")』：[東北6県と](https://ja.wikipedia.org/wiki/東北地方 "wikilink")[新潟県](../Page/新潟県.md "wikilink")の7県[ブロックネット](../Page/ブロックネット.md "wikilink")。所属するキッズタレントが出演していた。

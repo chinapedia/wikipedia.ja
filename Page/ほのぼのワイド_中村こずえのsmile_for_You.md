@@ -49,7 +49,7 @@
   - 13:10 - Aftemoon Scoopy
       - （月）御殿場 [えびせんべい](https://ja.wikipedia.org/wiki/えびせんべい "wikilink")便り
       - （木1 - 4週）トヨタカローラ静岡のスイーツ・メモリー
-  - 13:15 - [氷川きよし節](https://ja.wikipedia.org/wiki/氷川きよし節 "wikilink")（文化放送制作）
+  - 13:15 - [氷川きよし節](../Page/氷川きよし節.md "wikilink")（文化放送制作）
   - 13:25 - 中村こずえの興味津津
   - 13:40 - [ドライバーズ・リクエスト](../Page/ドライバーズ・リクエスト.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作）
   - 13:49 - 交通情報

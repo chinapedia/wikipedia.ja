@@ -981,7 +981,7 @@
 宮澤佐江<br />
 小林香菜<br />
 佐藤夏希<br />
-<a href="https://ja.wikipedia.org/wiki/近野莉菜" title="wikilink">近野莉菜</a></p></td>
+<a href="../Page/近野莉菜.md" title="wikilink">近野莉菜</a></p></td>
 <td><p>18日<br />
 高橋みなみ<br />
 峯岸みなみ<br />

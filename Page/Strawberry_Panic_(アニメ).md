@@ -225,7 +225,7 @@ Lee Si Min</p></td>
 <td><p>8</p></td>
 <td><p>紫陽花</p></td>
 <td><p>浦畑達彦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋丈夫" title="wikilink">高橋丈夫</a></p></td>
+<td><p><a href="../Page/高橋丈夫.md" title="wikilink">高橋丈夫</a></p></td>
 <td><p>布川真英</p></td>
 <td><p>Jang Min Ho</p></td>
 </tr>

@@ -5,7 +5,7 @@
 
 ## 解説
 
-元々は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に発売された『Andantino』という、"[あみん](../Page/あみん.md "wikilink")" 時代の曲を岡村がソロで歌いなおした[LP](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")・[カセットテープのみの企画盤であった](../Page/コンパクトカセット.md "wikilink")。
+元々は[1986年](../Page/1986年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に発売された『Andantino』という、"[あみん](../Page/あみん.md "wikilink")" 時代の曲を岡村がソロで歌いなおした[LP](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")・[カセットテープのみの企画盤であった](../Page/コンパクトカセット.md "wikilink")。
 
 年が明けた1987年2月4日、新たに3曲が追加されて初[CD化されたものが本作品であり](../Page/コンパクトディスク.md "wikilink")、タイトルも変更された。
 

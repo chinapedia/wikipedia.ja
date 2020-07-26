@@ -29,7 +29,7 @@
   - [2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [想聖天使クロスエモーション外伝2 もう一人のクロスデザイア編](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝2_もう一人のクロスデザイア編 "wikilink")
   - [2017年](../Page/2017年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - [想聖天使クロスエモーション外伝3 想聖天使VS触装天使編](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝3_想聖天使VS触装天使編 "wikilink")
   - [2017年](../Page/2017年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - [想聖天使クロスエモーション外伝 サーチアンドデストロイモード](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝_サーチアンドデストロイモード "wikilink")
-  - [2018年](../Page/2018年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [想聖天使クロスエモーション外伝4](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝4 "wikilink")
+  - [2018年](../Page/2018年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - [想聖天使クロスエモーション外伝4](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝4 "wikilink")
   - [2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [想聖天使クロスエモーション外伝5](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝5 "wikilink")
   - [2018年](../Page/2018年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") - [想聖天使クロスエモーション外伝6](https://ja.wikipedia.org/wiki/想聖天使クロスエモーション外伝6 "wikilink")
 

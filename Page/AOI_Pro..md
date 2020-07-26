@@ -19,7 +19,7 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
   - [1987年1月](https://ja.wikipedia.org/wiki/1987年#1月 "wikilink") 本社を現在の東京都品川区大崎一丁目6番1号へ移転。
   - [1988年8月](https://ja.wikipedia.org/wiki/1988年#8月 "wikilink") [財団法人新映像産業推進センターに加盟](https://ja.wikipedia.org/wiki/新映像産業推進センター "wikilink") 。
   - [1988年12月](https://ja.wikipedia.org/wiki/1988年#12月 "wikilink") 金融機関等9社の出資により資本金を4億8,240万円に増資。
-  - [1990年4月](https://ja.wikipedia.org/wiki/1990年#4月 "wikilink") 資本金を14億4,840万円に増資。また、店頭登録銘柄として[社団法人日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")（現[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")証券取引所）に登録。
+  - [1990年4月](https://ja.wikipedia.org/wiki/1990年#4月 "wikilink") 資本金を14億4,840万円に増資。また、店頭登録銘柄として[社団法人日本証券業協会](../Page/日本証券業協会.md "wikilink")（現[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")証券取引所）に登録。
   - [1991年2月](https://ja.wikipedia.org/wiki/1991年#2月 "wikilink") ロサンゼルス支店を開設。
   - [1992年5月](https://ja.wikipedia.org/wiki/1992年#5月 "wikilink") 銀座オフィスを開設。
   - [1994年7月](https://ja.wikipedia.org/wiki/1994年#7月 "wikilink") 株式会社メディア・ガーデン設立。

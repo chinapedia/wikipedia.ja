@@ -43,7 +43,7 @@
         オリジナルは[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")。山口冨士夫、[ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")、三浦友和がゲスト参加。
 7.  **[サマータイム・ブルース](https://ja.wikipedia.org/wiki/サマータイム・ブルース_\(エディ・コクランの曲\) "wikilink")** ()
       -
-        オリジナルは[エディ・コクラン](../Page/エディ・コクラン.md "wikilink")。高井麻巳子、三浦友和、[泉谷しげる](../Page/泉谷しげる.md "wikilink")がゲスト参加。歌詞の中で言及されているとおり、発表された[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）当時の『[日本の原子力発電所](https://ja.wikipedia.org/wiki/日本の原子力発電所 "wikilink")における[原子炉](../Page/原子炉.md "wikilink")』は37基であった。[ソビエト社会主義共和国連邦](https://ja.wikipedia.org/wiki/ソビエト社会主義共和国連邦 "wikilink")で起きた「[チェルノブイリ原子力発電所事故](../Page/チェルノブイリ原子力発電所事故.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）」の後で、原子力発電所の安全神話「日本の原発は安全です」の[広告](../Page/広告.md "wikilink")やPR活動を痛烈に皮肉っている。泉谷はこの楽曲に参加はしたものの、この作品の表現に、当時はある程度の違和感があったことを後に述べている\[10\]。
+        オリジナルは[エディ・コクラン](../Page/エディ・コクラン.md "wikilink")。高井麻巳子、三浦友和、[泉谷しげる](../Page/泉谷しげる.md "wikilink")がゲスト参加。歌詞の中で言及されているとおり、発表された[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）当時の『[日本の原子力発電所](https://ja.wikipedia.org/wiki/日本の原子力発電所 "wikilink")における[原子炉](../Page/原子炉.md "wikilink")』は37基であった。[ソビエト社会主義共和国連邦](https://ja.wikipedia.org/wiki/ソビエト社会主義共和国連邦 "wikilink")で起きた「[チェルノブイリ原子力発電所事故](../Page/チェルノブイリ原子力発電所事故.md "wikilink")（[1986年](../Page/1986年.md "wikilink")）」の後で、原子力発電所の安全神話「日本の原発は安全です」の[広告](../Page/広告.md "wikilink")やPR活動を痛烈に皮肉っている。泉谷はこの楽曲に参加はしたものの、この作品の表現に、当時はある程度の違和感があったことを後に述べている\[10\]。
 8.  **[マネー](../Page/マネー.md "wikilink")** ()
       -
         オリジナルは[バレット・ストロング](https://ja.wikipedia.org/wiki/バレット・ストロング "wikilink")。[ビートルズ](../Page/ビートルズ.md "wikilink")・ローリングストーンズによるカバーで有名。山口冨士夫、三浦友和がゲスト参加。

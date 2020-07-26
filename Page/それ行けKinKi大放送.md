@@ -5,7 +5,7 @@
 
 ## 概要
 
-[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")の1つで、それまで日曜10:55枠で放送されていた『[それ行けKinKi大冒険](https://ja.wikipedia.org/wiki/それ行けKinKi大冒険 "wikilink")』のリニューアル版である。前期にはスタジオ内での企画が中心で、当時日本テレビのアナウンサーだった[魚住りえ](https://ja.wikipedia.org/wiki/魚住りえ "wikilink")やデビューして間もない頃の[山田まりや](https://ja.wikipedia.org/wiki/山田まりや "wikilink")も出演していたが、後期には『KinKi大冒険』時代同様[ロケVTR中心の構成となっていた](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。
+[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")の1つで、それまで日曜10:55枠で放送されていた『[それ行けKinKi大冒険](https://ja.wikipedia.org/wiki/それ行けKinKi大冒険 "wikilink")』のリニューアル版である。前期にはスタジオ内での企画が中心で、当時日本テレビのアナウンサーだった[魚住りえ](https://ja.wikipedia.org/wiki/魚住りえ "wikilink")やデビューして間もない頃の[山田まりや](https://ja.wikipedia.org/wiki/山田まりや "wikilink")も出演していたが、後期には『KinKi大冒険』時代同様[ロケVTR中心の構成となっていた](../Page/ロケーション撮影.md "wikilink")。
 
 この番組以降、日本テレビの日曜12時台では[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属タレントがメイン司会あるいはレギュラーで出演する番組が放送され続けている。
 

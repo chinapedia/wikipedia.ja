@@ -11,7 +11,7 @@
   - [1976年](../Page/1976年.md "wikilink") - ペイテレビ「Showtime」を放送開始。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - Showtime、[MTV](../Page/MTV.md "wikilink")、[ニコロデオンなどを保有するワーナー](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink")・アメックス・サテライト・エンターテイメント（Warner-Amex Satellite Entertainment、WASEC）が運営する「The Movie Channel」（TMC、1973年開局）を統合。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - WASECを買収、[MTVネットワークス](https://ja.wikipedia.org/wiki/MTVネットワークス "wikilink")に社名変更。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - [サムナー・レッドストーン](https://ja.wikipedia.org/wiki/サムナー・レッドストーン "wikilink")率いるNational Amusementsがバイアコムを買収。
+  - [1986年](../Page/1986年.md "wikilink") - [サムナー・レッドストーン](https://ja.wikipedia.org/wiki/サムナー・レッドストーン "wikilink")率いるNational Amusementsがバイアコムを買収。
   - [1999年](../Page/1999年.md "wikilink") - かつての親会社であったCBSを買収（[2000年](../Page/2000年.md "wikilink")[連邦通信委員会](../Page/連邦通信委員会.md "wikilink")（FCC）が承認）。
   - [2005年](../Page/2005年.md "wikilink")3月 - [会社分割](../Page/会社分割.md "wikilink")を発表。同年6月の株主総会で正式に承認された。
   - 2005年11月 - College Sports TV（CSTV）を買収。

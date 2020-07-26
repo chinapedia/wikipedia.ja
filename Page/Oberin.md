@@ -5,7 +5,7 @@
 
 ## 特徴
 
-[Macintosh](../Page/Macintosh.md "wikilink")でのみ動作する唯一のMMORPGであり、Mac OS 9およびMac OS Xが対応している。[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")在住のコンピュータプログラマー、Glenn Seemannが開発・運営を行っている。ゲーム内容は[ウルティマオンライン](https://ja.wikipedia.org/wiki/ウルティマオンライン "wikilink")に類似している。
+[Macintosh](../Page/Macintosh.md "wikilink")でのみ動作する唯一のMMORPGであり、Mac OS 9およびMac OS Xが対応している。[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")在住のコンピュータプログラマー、Glenn Seemannが開発・運営を行っている。ゲーム内容は[ウルティマオンライン](../Page/ウルティマオンライン.md "wikilink")に類似している。
 
 ゲームはファンタジーとして普遍的な、中世ヨーロッパ世界をモチーフとした剣と魔法の世界である。
 

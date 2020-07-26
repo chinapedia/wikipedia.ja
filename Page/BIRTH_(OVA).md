@@ -67,7 +67,7 @@
   - 企画 - 小野寺脩一、相原義彰
   - 原作 - カナメ企画
   - 原案協力 - [武上純希](../Page/武上純希.md "wikilink")
-  - 原画 - [鍋島修](https://ja.wikipedia.org/wiki/鍋島修 "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")、[越智一裕](https://ja.wikipedia.org/wiki/越智一裕 "wikilink")、飯島正勝、[庵野秀明](../Page/庵野秀明.md "wikilink") 他
+  - 原画 - [鍋島修](../Page/鍋島修.md "wikilink")、[山下将仁](https://ja.wikipedia.org/wiki/山下将仁 "wikilink")、[亀垣一](../Page/亀垣一.md "wikilink")、[越智一裕](https://ja.wikipedia.org/wiki/越智一裕 "wikilink")、飯島正勝、[庵野秀明](../Page/庵野秀明.md "wikilink") 他
   - アニメーションディレクター・キャラクターデザイン - [金田伊功](../Page/金田伊功.md "wikilink")
   - アニメーションコーディネーター - [影山楙倫](../Page/影山楙倫.md "wikilink")、[いのまたむつみ](../Page/いのまたむつみ.md "wikilink")
   - メカニックデザイン - 小原渉平、[小林誠](../Page/小林誠_\(イラストレーター\).md "wikilink")

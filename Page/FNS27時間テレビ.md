@@ -69,7 +69,7 @@ __TOC__
 
 PUFFYが「[渚にまつわるエトセトラ](../Page/渚にまつわるエトセトラ.md "wikilink")」、西城秀樹が「[YOUNG MAN (Y.M.C.A.)](../Page/YOUNG_MAN_\(Y.M.C.A.\).md "wikilink")」を披露した。
 
-提供クレジットを読み上げた新人アナウンサーは[宇田麻衣子](../Page/宇田麻衣子.md "wikilink")、[春日由実](https://ja.wikipedia.org/wiki/春日由実 "wikilink")、[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")、[深澤里奈](../Page/深澤里奈.md "wikilink")の4人。
+提供クレジットを読み上げた新人アナウンサーは[宇田麻衣子](../Page/宇田麻衣子.md "wikilink")、[春日由実](https://ja.wikipedia.org/wiki/春日由実 "wikilink")、[桜井堅一朗](../Page/桜井堅一朗.md "wikilink")、[深澤里奈](../Page/深澤里奈.md "wikilink")の4人。
 
 今回の27時間テレビの瞬間最高視聴率は[東野幸治](../Page/東野幸治.md "wikilink")と[篠原ともえ](../Page/篠原ともえ.md "wikilink")が担当したコーナー「[プリプリプリティ](https://ja.wikipedia.org/wiki/LOVE_LOVE_あいしてる#コーナー "wikilink")」で22.1%だった。この事が翌年の27時間テレビでも東野が登場した際にも、壁に「ウェルカム最高視聴率男」と書かれた張り紙が貼ってあった。
 

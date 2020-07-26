@@ -1,7 +1,7 @@
 > この記事は[デルパワーX 爆発みらくる元気!!](https://ja.wikipedia.org/wiki/デルパワーX_爆発みらくる元気!!)から翻訳されています。
 
 
-『**デルパワーX 爆発みらくる元気\!\!**』（デルパワーエックス ばくはつみらくるげんき）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売された[OVA](../Page/OVA.md "wikilink")作品。
+『**デルパワーX 爆発みらくる元気\!\!**』（デルパワーエックス ばくはつみらくるげんき）は、[1986年](../Page/1986年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売された[OVA](../Page/OVA.md "wikilink")作品。
 
 ## 作品解説
 

@@ -62,7 +62,7 @@ V6のデビューからちょうど10周年となる日である2005年11月1日
         作詞：[SABU](../Page/SABU_\(映画監督\).md "wikilink")、作曲：[HIKARI](../Page/HIKARI.md "wikilink")、編曲：知野芳彦
 12. **Wonder World**
       -
-        作詞・作曲：[BULGE](../Page/BULGE.md "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞・作曲：[BULGE](../Page/BULGE.md "wikilink")、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
 13. **ユメニアイニ**"V6 ver."
       -
         編曲：HIKARI

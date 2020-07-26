@@ -75,7 +75,7 @@
   - ディレクター：[雨野智晴](https://ja.wikipedia.org/wiki/雨野智晴 "wikilink")
   - シナリオ：雨野智晴、[たけうちこうた](https://ja.wikipedia.org/wiki/たけうちこうた "wikilink")、森の眼、望月JET
   - キャラクターデザイン：[たにはらなつき](../Page/たにはらなつき.md "wikilink")
-  - 原画：たにはらなつき、[ちのちもち](../Page/八重樫南.md "wikilink")、[みつまむ](../Page/蜜桃まむ.md "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")、[立羽](../Page/立羽.md "wikilink")
+  - 原画：たにはらなつき、[ちのちもち](../Page/八重樫南.md "wikilink")、[みつまむ](../Page/蜜桃まむ.md "wikilink")、[かゆらゆか](../Page/かゆらゆか.md "wikilink")、[立羽](../Page/立羽.md "wikilink")
   - 音楽：猫野こめっと
 
 ## 主題歌

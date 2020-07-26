@@ -410,7 +410,7 @@
 <li><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SISTER_JET" title="wikilink">SISTER JET</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/上原ひろみ" title="wikilink">上原ひろみ</a> ザ・トリオ・プロジェクト feat.<a href="https://ja.wikipedia.org/wiki/アンソニー・ジャクソン" title="wikilink">アンソニー・ジャクソン</a>&amp;<a href="https://ja.wikipedia.org/wiki/サイモン・フィリップス" title="wikilink">サイモン・フィリップス</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/上原ひろみ" title="wikilink">上原ひろみ</a> ザ・トリオ・プロジェクト feat.<a href="https://ja.wikipedia.org/wiki/アンソニー・ジャクソン" title="wikilink">アンソニー・ジャクソン</a>&amp;<a href="../Page/サイモン・フィリップス.md" title="wikilink">サイモン・フィリップス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/毛皮のマリーズ" title="wikilink">毛皮のマリーズ</a></li>
 </ul></td>
 <td><ul>

@@ -12,25 +12,25 @@
 （全作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")、作曲・編曲：[片倉三起也](../Page/片倉三起也.md "wikilink")）
 
 1.  **[メガロポリス・アリス -MEGALOPOLIS ALICE-](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[4:04\]
-2.  **[嵐ヶ丘](https://ja.wikipedia.org/wiki/嵐ヶ丘_\(ALI_PROJECTの曲\) "wikilink")** \[4:17\]
-3.  **[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")** \[3:55\]
+2.  **[嵐ヶ丘](../Page/嵐ヶ丘_\(ALI_PROJECTの曲\).md "wikilink")** \[4:17\]
+3.  **[恋せよ乙女〜Love story of ZIPANG〜](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink")** \[3:55\]
       -
         [黄桜](../Page/黄桜.md "wikilink")飛沫の[CMソング](../Page/コマーシャルソング.md "wikilink")
 4.  **[ビアンカ](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[4:05\]
 5.  **[月光浴](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[3:27\]
 6.  **Nous Deux C’est Pour La Vie** \[4:40\]
       -
-        『[雨のソナタ\~La Pluie\~](https://ja.wikipedia.org/wiki/雨のソナタ〜La_Pluie〜 "wikilink")』のフランス語版。
+        『[雨のソナタ\~La Pluie\~](../Page/雨のソナタ〜La_Pluie〜.md "wikilink")』のフランス語版。
 7.  **[オフェリア遺文](../Page/DALI.md "wikilink")** \[5:05\]
-8.  **[舞踏会の手帖](https://ja.wikipedia.org/wiki/嵐ヶ丘_\(ALI_PROJECTの曲\) "wikilink")** \[4:08\]
-9.  **[ヴェネツィアン・ラプソディー](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")** \[3:43\]
+8.  **[舞踏会の手帖](../Page/嵐ヶ丘_\(ALI_PROJECTの曲\).md "wikilink")** \[4:08\]
+9.  **[ヴェネツィアン・ラプソディー](../Page/ヴェネツィアン・ラプソディー.md "wikilink")** \[3:43\]
 10. **[雪のひとひら](../Page/DALI.md "wikilink")** \[4:37\]
 11. **[サロメティック・ルナティック](../Page/DALI.md "wikilink")** \[4:22\]
 12. **[空宙舞踏会](../Page/月下の一群_\(ALI_PROJECTのアルバム\).md "wikilink")** \[4:53\]
       -
         「くうちゅうぶとうかい」と読む。
-13. **[エスカルゴ嬉遊曲](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")** \[4:02\]
-14. **[共月亭で逢いましょう](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")**
+13. **[エスカルゴ嬉遊曲](../Page/ヴェネツィアン・ラプソディー.md "wikilink")** \[4:02\]
+14. **[共月亭で逢いましょう](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink")**
       -
         切ない内容の歌詞が特徴的。[鹿児島市](../Page/鹿児島市.md "wikilink")の天保山公園に同名の建築物（[共月亭](https://ja.wikipedia.org/wiki/共月亭 "wikilink")）がある\[1\]。
 

@@ -9,7 +9,7 @@
     ボーカル。[岐阜県](../Page/岐阜県.md "wikilink")[大垣市](../Page/大垣市.md "wikilink")出身。
   - NAOKI（[宮本直樹](../Page/宮本直樹.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") ‐ [LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")、[COBRA](../Page/COBRA_\(バンド\).md "wikilink")、[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT_\(バンド\) "wikilink") ）
     ギター。[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")出身。
-  - KEN（[根本健一](https://ja.wikipedia.org/wiki/根本健一 "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") ‐ THE PEPPER BOYS、[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT_\(バンド\) "wikilink")）
+  - KEN（[根本健一](https://ja.wikipedia.org/wiki/根本健一 "wikilink") - [1968年](../Page/1968年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") ‐ THE PEPPER BOYS、[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT_\(バンド\) "wikilink")）
     ベース。[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。
   - MATCHAN（松浦 英治 ‐ Mr. Orange、[30%25LESS_FAT](https://ja.wikipedia.org/wiki/30%25LESS_FAT "wikilink")、[Ken Band](../Page/横山健.md "wikilink")、Bravo★Brothers）
     ドラム。2019年4月加入
@@ -26,7 +26,7 @@
 
 翌年の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、ROSE JETSの誘いにより、1月に名古屋で2度目のライブ出演を果たす。出演当日、[THE STAR CLUBのレーベル](../Page/THE_STAR_CLUB.md "wikilink")「CLUB THE STAR」の目に留まり\[3\]、[7月31日](../Page/7月31日.md "wikilink")にソノシート『I GET POSITION』をリリースし、初回プレス2000枚を完売した。ソノシートのリリース決定を機に、活動の場を名古屋を中心に大阪、東京へと広げる。また、自主企画ライブイベントも開始する。東京での初ライブは新宿ロフトで、メンバーが高校3年生だったSAは、当時の新宿ロフトの最年少出演バンドとなった\[4\]。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に、デモテープを送ったことがきっかけで\[5\]、[LAUGHIN' NOSEのPONとCHARMYが主宰するレーベル](../Page/LAUGHIN'_NOSE.md "wikilink")「AAレコード」のオムニバスアルバム『Oi of JAPAN』に参加した。その一方で、COCKNEY COCKS、ワンダラーズ、BAD VALTURESなどを招き、「Oi of JAPAN\! in NAGOYA」などのイベントを開催する。また当時、名古屋最大規模のパンクロックイベント「PUNKS BATTLE ROYAL」出演する。
+[1986年](../Page/1986年.md "wikilink")に、デモテープを送ったことがきっかけで\[5\]、[LAUGHIN' NOSEのPONとCHARMYが主宰するレーベル](../Page/LAUGHIN'_NOSE.md "wikilink")「AAレコード」のオムニバスアルバム『Oi of JAPAN』に参加した。その一方で、COCKNEY COCKS、ワンダラーズ、BAD VALTURESなどを招き、「Oi of JAPAN\! in NAGOYA」などのイベントを開催する。また当時、名古屋最大規模のパンクロックイベント「PUNKS BATTLE ROYAL」出演する。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、音楽性の向上などの理由にTAISEIが活動の拠点を東京に移すことを決め\[6\]、[3月22日](../Page/3月22日.md "wikilink")、名古屋ハックフィンにて解散ライブ「GOOD BYE THANKS MY FRIENDS」を行う。同ライブは、前売りチケットの購入希望が販売予定数を大幅に上回ったため、2部制となった\[7\]。解散後、TAISEIは東京で [BAD MESSIAHを結成する](https://ja.wikipedia.org/wiki/BAD_MESSIAH "wikilink")。インディーズで活動したのち、エピックソニーよりデビューし、[1996年](../Page/1996年.md "wikilink")に解散した。アルバム4枚、シングル10枚を残す\[8\]。
 
@@ -187,7 +187,7 @@
 ### CD BOOK
 
   - PERFECT SA MAGAZINE "mov\!"　（2005年8月6日）
-    撮り下しフォト、各種インタビュー、完全ヒストリー、歴代衣装カタログ、ゲストとメンバーとの1対1の対談などによるSA初のCD付きアーティストブック。「DON'T DENY, GIVE IT A TRY\!\!」、「GET UP\! WARRIORS」のバンドスコア掲載。CDには、現在もライブの定番曲である「runnin' BUMPY WAY」、「[ラヴァーズ・コンチェルト](https://ja.wikipedia.org/wiki/ラヴァーズ・コンチェルト "wikilink")」で知られるJ。S。バッハの「メヌエット ト長調 BWV Anh.II/114」\[52\]をパンクロックにアレンジした「DELIGHT」、「FIGHT BACK TEARS」\[53\]、エルヴィス・コステロの同名曲のカバー「PUMP IT UP」の4曲を収録。
+    撮り下しフォト、各種インタビュー、完全ヒストリー、歴代衣装カタログ、ゲストとメンバーとの1対1の対談などによるSA初のCD付きアーティストブック。「DON'T DENY, GIVE IT A TRY\!\!」、「GET UP\! WARRIORS」のバンドスコア掲載。CDには、現在もライブの定番曲である「runnin' BUMPY WAY」、「[ラヴァーズ・コンチェルト](../Page/ラヴァーズ・コンチェルト.md "wikilink")」で知られるJ。S。バッハの「メヌエット ト長調 BWV Anh.II/114」\[52\]をパンクロックにアレンジした「DELIGHT」、「FIGHT BACK TEARS」\[53\]、エルヴィス・コステロの同名曲のカバー「PUMP IT UP」の4曲を収録。
 
 ### ミュージックビデオ
 

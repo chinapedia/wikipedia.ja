@@ -5,7 +5,7 @@
 
 ## 略歴
 
-中学時代に、友人から「聴いてみてよ」と差し出された[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のアルバム『[悪の華](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")』でロックの道に目覚める。\[1\]ギターを始めた経緯は、高校時代に先輩が[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")を演奏した事から始まる。高校卒業後は進学し、三重の実家から[大阪の専門学校に通っていた](../Page/大阪スクールオブミュージック専門学校.md "wikilink")。\[2\]その後中退して大阪に動く、二十歳の時にka・za・riと言うバンドに加入。\[3\][1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月、[Toshiya](../Page/Toshiya.md "wikilink")を除く現DIR EN GREYのメンバーで、[La:Sadie'sを結成](https://ja.wikipedia.org/wiki/La;sadies "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[La:Sadie's解散](https://ja.wikipedia.org/wiki/La;sadies "wikilink")。同年、DIR EN GREYを結成。[1999年](../Page/1999年.md "wikilink")にメジャーデビュー。2015年　新しいバンドプロジェクトDECAYSを発表。ギターとボーカルを担当している。
+中学時代に、友人から「聴いてみてよ」と差し出された[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のアルバム『[悪の華](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")』でロックの道に目覚める。\[1\]ギターを始めた経緯は、高校時代に先輩が[ZIGGY](../Page/ZIGGY.md "wikilink")を演奏した事から始まる。高校卒業後は進学し、三重の実家から[大阪の専門学校に通っていた](../Page/大阪スクールオブミュージック専門学校.md "wikilink")。\[2\]その後中退して大阪に動く、二十歳の時にka・za・riと言うバンドに加入。\[3\][1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月、[Toshiya](../Page/Toshiya.md "wikilink")を除く現DIR EN GREYのメンバーで、[La:Sadie'sを結成](https://ja.wikipedia.org/wiki/La;sadies "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[La:Sadie's解散](https://ja.wikipedia.org/wiki/La;sadies "wikilink")。同年、DIR EN GREYを結成。[1999年](../Page/1999年.md "wikilink")にメジャーデビュー。2015年　新しいバンドプロジェクトDECAYSを発表。ギターとボーカルを担当している。
 
 ## 音楽性
 

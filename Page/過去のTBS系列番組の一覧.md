@@ -143,7 +143,7 @@
   - [三宅裕司のおめざめマンボ](https://ja.wikipedia.org/wiki/三宅裕司のおめざめマンボ "wikilink")
   - [こちら経済部です](https://ja.wikipedia.org/wiki/こちら経済部です "wikilink")
   - [あさがけウォッチ\!](../Page/あさがけウォッチ!.md "wikilink")
-  - [早ズバッ\!ナマたまご](https://ja.wikipedia.org/wiki/早ズバッ!ナマたまご "wikilink")
+  - [早ズバッ\!ナマたまご](../Page/早ズバッ!ナマたまご.md "wikilink")
   - [はやチャン\!](https://ja.wikipedia.org/wiki/はやチャン! "wikilink")
   - [はなまるマーケット](../Page/はなまるマーケット.md "wikilink")
   - [いっぷく\!](https://ja.wikipedia.org/wiki/いっぷく! "wikilink")
@@ -216,7 +216,7 @@
       - [夢の扉+](https://ja.wikipedia.org/wiki/夢の扉+ "wikilink")
   - [嵐を呼ぶあぶない熟女](https://ja.wikipedia.org/wiki/嵐を呼ぶあぶない熟女 "wikilink")
   - [世界の果ての日本人\!〜ここが私の理想郷〜](https://ja.wikipedia.org/wiki/世界の果ての日本人!〜ここが私の理想郷〜 "wikilink")
-  - [松本見聞録](https://ja.wikipedia.org/wiki/松本見聞録 "wikilink")
+  - [松本見聞録](../Page/松本見聞録.md "wikilink")
   - [ごめんください](https://ja.wikipedia.org/wiki/ごめんください "wikilink")
   - [私の絵](https://ja.wikipedia.org/wiki/私の絵 "wikilink")
   - [発信地球号](https://ja.wikipedia.org/wiki/発信地球号 "wikilink")
@@ -380,7 +380,7 @@
   - [ガチンコ\!](../Page/ガチンコ!.md "wikilink")
       - [★愛と誠★](../Page/★愛と誠★.md "wikilink")
   - [ズバリ言うわよ\!](../Page/ズバリ言うわよ!.md "wikilink") ※HD
-  - [大御所ジャパン\!](https://ja.wikipedia.org/wiki/大御所ジャパン! "wikilink") ※HD
+  - [大御所ジャパン\!](../Page/大御所ジャパン!.md "wikilink") ※HD
   - [ブラマヨ衝撃ファイル 世界のコワ〜イ女たち](https://ja.wikipedia.org/wiki/ブラマヨ衝撃ファイル_世界のコワ〜イ女たち "wikilink")
   - [100秒博士アカデミー](https://ja.wikipedia.org/wiki/100秒博士アカデミー "wikilink")
   - [チュー'sDAYコミックス 侍チュート\!](https://ja.wikipedia.org/wiki/チュー'sDAYコミックス_侍チュート! "wikilink")（[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
@@ -513,7 +513,7 @@
   - [ぷるるんクニクニ島](../Page/ぷるるんクニクニ島.md "wikilink")
   - [テレビ近未来研究所](../Page/テレビ近未来研究所.md "wikilink")
   - [TVジェネレーション](../Page/TVジェネレーション.md "wikilink")
-  - [ひみつの嵐ちゃん\!](https://ja.wikipedia.org/wiki/ひみつの嵐ちゃん! "wikilink")
+  - [ひみつの嵐ちゃん\!](../Page/ひみつの嵐ちゃん!.md "wikilink")
   - [今、この顔がスゴい\!](https://ja.wikipedia.org/wiki/今、この顔がスゴい! "wikilink") - 情報制作局制作
   - [Take Me Out](https://ja.wikipedia.org/wiki/Take_Me_Out "wikilink")
   - [新知識階級 クマグス](https://ja.wikipedia.org/wiki/新知識階級_クマグス "wikilink")
@@ -662,7 +662,7 @@
   - [パワー☆プリン](https://ja.wikipedia.org/wiki/パワー☆プリン "wikilink")
   - [内村とザワつく夜](https://ja.wikipedia.org/wiki/内村とザワつく夜 "wikilink")
   - [私の何がイケないの?](https://ja.wikipedia.org/wiki/私の何がイケないの? "wikilink")
-  - [アナCAN](https://ja.wikipedia.org/wiki/アナCAN "wikilink")
+  - [アナCAN](../Page/アナCAN.md "wikilink")
   - [HKT48のおでかけ\!](https://ja.wikipedia.org/wiki/HKT48のおでかけ! "wikilink")●
   - [有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")
   - [恋んトス](https://ja.wikipedia.org/wiki/恋んトス "wikilink")シリーズ
@@ -1371,7 +1371,7 @@
   - [オールスター寒中水泳大会](https://ja.wikipedia.org/wiki/オールスター寒中水泳大会 "wikilink")
   - [ピン子の時間](../Page/ピン子の時間.md "wikilink")
   - [ザ・ディール](../Page/ザ・ディール.md "wikilink")
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")
   - [オールスター赤面申告\!ハプニング大賞](../Page/オールスター赤面申告!ハプニング大賞.md "wikilink")
   - [ハプニング名珍場面 日本全国プレミア映像スペシャル](https://ja.wikipedia.org/wiki/ハプニング名珍場面_日本全国プレミア映像スペシャル "wikilink")
   - [JNN総力蔵出しSP こんなの見たかった\!超ブッ飛び映像祭](https://ja.wikipedia.org/wiki/JNN総力蔵出しSP_こんなの見たかった!超ブッ飛び映像祭 "wikilink")

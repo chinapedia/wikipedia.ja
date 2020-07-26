@@ -39,7 +39,7 @@
 
 1.  [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")『**SO GOOD SO NICE** feat. Micro』（2006年2月8日）
 2.  [MAD Sequence\*](https://ja.wikipedia.org/wiki/MAD_Sequence* "wikilink")『**No Woman No Cry**(MAD Sequence\* meets Micro) 』（2006年3月22日）
-3.  [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")『**[Mahaloha](https://ja.wikipedia.org/wiki/Mahaloha "wikilink")**』（2007年6月27日）
+3.  [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")『**[Mahaloha](../Page/Mahaloha.md "wikilink")**』（2007年6月27日）
 4.  [光永亮太](../Page/光永亮太.md "wikilink")『**Believe in Love** feat. Micro』（2007年12月19日）
 5.  [L-VOKAL](../Page/L-VOKAL.md "wikilink")『**FREE** feat. Micro』（2008年8月27日）
 6.  [Spontania](../Page/Spontania.md "wikilink")『''' IF ''' feat.Micro』（2008年10月1日）
@@ -143,7 +143,7 @@
   - [亜矢](https://ja.wikipedia.org/wiki/亜矢 "wikilink")
   - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")
-  - [NAO (シンガーソングライター)](https://ja.wikipedia.org/wiki/NAO_\(シンガーソングライター\) "wikilink")
+  - [NAO (シンガーソングライター)](../Page/NAO_\(シンガーソングライター\).md "wikilink")
 
 ## 外部リンク
 

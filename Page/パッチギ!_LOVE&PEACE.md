@@ -3,7 +3,7 @@
 
 『**パッチギ\! LOVE\&PEACE**』（ ラブアンドピース）は、[2007年](../Page/2007年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。
 
-監督は[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")、エグゼクティブプロデューサーは[李鳳宇](../Page/李鳳宇.md "wikilink")。2004年に公開されてヒットした『[パッチギ\!](../Page/パッチギ!.md "wikilink")』のキャストを一新して迎えた、続編的位置にあたる作品。
+監督は[井筒和幸](../Page/井筒和幸.md "wikilink")、エグゼクティブプロデューサーは[李鳳宇](../Page/李鳳宇.md "wikilink")。2004年に公開されてヒットした『[パッチギ\!](../Page/パッチギ!.md "wikilink")』のキャストを一新して迎えた、続編的位置にあたる作品。
 
 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』の映画担当記者がその年度最低の映画や監督を選出する[蛇いちご賞](../Page/蛇いちご賞.md "wikilink")にて、本作の井筒監督が2007年度の監督賞に選出されている。
 
@@ -52,7 +52,7 @@
   - エグゼクティブプロデューサー：[李鳳宇](../Page/李鳳宇.md "wikilink")
   - 製作：李鳳宇、[河合洋](https://ja.wikipedia.org/wiki/河合洋 "wikilink")、[KIM WOOTAEK](https://ja.wikipedia.org/wiki/KIM_WOOTAEK "wikilink")、[西垣慎一郎](https://ja.wikipedia.org/wiki/西垣慎一郎 "wikilink")、[三浦姫](https://ja.wikipedia.org/wiki/三浦姫 "wikilink")、[川崎代治](https://ja.wikipedia.org/wiki/川崎代治 "wikilink")、[千葉龍平](https://ja.wikipedia.org/wiki/千葉龍平 "wikilink")、[冨木田道臣](https://ja.wikipedia.org/wiki/冨木田道臣 "wikilink")
   - プロデューサー：祷映
-  - 監督：[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - 監督：[井筒和幸](../Page/井筒和幸.md "wikilink")
   - 脚本：[羽原大介](../Page/羽原大介.md "wikilink")、井筒和幸
   - 撮影：[山本英夫](../Page/山本英夫_\(映画カメラマン\).md "wikilink")
   - 音楽：[加藤和彦](../Page/加藤和彦.md "wikilink")

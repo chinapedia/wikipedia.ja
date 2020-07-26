@@ -16,7 +16,7 @@
 全曲作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
 
 1.  **[MUGO・ん…色っぽい](../Page/MUGO・ん…色っぽい.md "wikilink")**
-      - 作詞: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+      - 作詞: [中島みゆき](../Page/中島みゆき.md "wikilink")
     <!-- end list -->
       -
         5thシングル、アルバム初収録

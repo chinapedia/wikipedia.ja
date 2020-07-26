@@ -155,7 +155,7 @@
 
 ### ハニカミ The4コマ
 
-[霧賀ユキ](../Page/霧賀ユキ.md "wikilink")・作画による[4コマ漫画](../Page/4コマ漫画.md "wikilink")。[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）2007年4月号から2008年3月号、その後[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")（同社）に移籍し、Vol.1からVol.6まで連載。単行本は全1巻。
+[霧賀ユキ](../Page/霧賀ユキ.md "wikilink")・作画による[4コマ漫画](../Page/4コマ漫画.md "wikilink")。[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）2007年4月号から2008年3月号、その後[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")（同社）に移籍し、Vol.1からVol.6まで連載。単行本は全1巻。
 
   - 2009年7月27日発売 ISBN 978-4-04-867966-4
 

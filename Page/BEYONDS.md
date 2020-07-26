@@ -5,7 +5,7 @@
 
 ## 現メンバー
 
-  - **谷口健**（たにぐちけん、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ）ボーカル・（再結成後）ギター・トランペット
+  - **谷口健**（たにぐちけん、[1968年](../Page/1968年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ）ボーカル・（再結成後）ギター・トランペット
       -
         元パペッツ。解散後は[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")を結成。
   - **中川暁生**（ギター）

@@ -61,7 +61,7 @@
   - 鳳 圭一郎（おおとり けいいちろう）
     鳳[財閥](../Page/財閥.md "wikilink")の[御曹司](../Page/御曹司.md "wikilink")。[大学](../Page/大学.md "wikilink")テニス界ではかなりのプレーヤーで日本テニス界のプリンスと将来を嘱望されプロ転向をマスコミから期待されている。幼少の頃から母・唄子に過保護に育てられており、すべて母が決めた通りの人生を送ってきた。そのことを恥じつつも[マザコン](https://ja.wikipedia.org/wiki/マザコン "wikilink")気質からは抜け出せず、大学生になっても母親を「おかあしゃま」と呼び頭が上がらない。幸とは同じ中学に通っており、裕福な家庭の生徒ばかりのテニス部内で馴染めずにいた幸に気を掛けていた。イケメンのボンボンで女性ファンも多く、いかにも遊んでいそうだが、中学時代から一途に幸を思い続けており、他の女性との交際経験が無い。純二も幸を思っている事を知っており、もしかしたら幸も純二に気があるのではないか？と感じているフシがある。そのため、純二と幸の仲を取り持ちかねない事をする場合も。当初は世間知らずで典型的な「おぼっちゃま」であったが幸の力になろうと奮闘する過程で次第にたくましくなり、ついには母の意向を振り切り、プロ転向を果たす。USオープン転戦のため渡米した幸を追って自身も渡米した際、世界的な名コーチのフリッツ・シューマインにプロでやっていくのは無理だと言われ、一時はテニスを断念、その後コンビニの店員やホスト、蝶子のコーチ等を経て、会社の金を横領したことで「ビッグバンファイナンス」の同僚たちに痛めつけられた純二を救い出した際に右手にラケットも握れないほどの負傷を負うが、由利組に人質に取られた幸の兄妹たちやナタリーを救い出した際に再び右手が使えるようになり、その後はプロとして復帰した。
   - 鳳 唄子（おおとり うたこ）
-    鳳財閥の会長で、日本女子テニス界の先駆け。[昭和43年に](https://ja.wikipedia.org/wiki/1968年 "wikilink")[全日本選手権を制覇](https://ja.wikipedia.org/wiki/全日本テニス選手権大会 "wikilink")。所属していたテニスクラブの新任コーチ、海野洋平太に最初で最後の恋をするが、儚くも恋破れた。それ以来、海野家を毛嫌いするようになり、海野家をテニス界から追放してきた。しかし世間ではライバルと評されている竜ヶ崎家の名声向上を嫌い、竜ヶ崎蝶子のデビュー戦に海野幸をぶつけるために出場させることを決める。その後は幸をサポートすることを決めたが、完全に許したわけではなく、「悪霊」「疫病神」などと呼んで冷たく突き放したり、酷い仕打ちを与えることもある。洋平太の事もあり幸を憎んでいたはずだが、幸に課した特訓等はすべて幸のためであり、亡き洋平太への贖罪であった、という事になっている。
+    鳳財閥の会長で、日本女子テニス界の先駆け。[昭和43年に](../Page/1968年.md "wikilink")[全日本選手権を制覇](https://ja.wikipedia.org/wiki/全日本テニス選手権大会 "wikilink")。所属していたテニスクラブの新任コーチ、海野洋平太に最初で最後の恋をするが、儚くも恋破れた。それ以来、海野家を毛嫌いするようになり、海野家をテニス界から追放してきた。しかし世間ではライバルと評されている竜ヶ崎家の名声向上を嫌い、竜ヶ崎蝶子のデビュー戦に海野幸をぶつけるために出場させることを決める。その後は幸をサポートすることを決めたが、完全に許したわけではなく、「悪霊」「疫病神」などと呼んで冷たく突き放したり、酷い仕打ちを与えることもある。洋平太の事もあり幸を憎んでいたはずだが、幸に課した特訓等はすべて幸のためであり、亡き洋平太への贖罪であった、という事になっている。
   - 賀来 菊子（かく きくこ）
     鳳テニスクラブ会員。通称「お菊さん」。[国体優勝候補といわれている](../Page/国民体育大会.md "wikilink")。男子顔負けのプレースタイルや性格から女性ファンも多い。幸の良き理解者であり、心強い味方。初めて試合をしたときから幸のことを気にかけているが、実は[レズビアン](../Page/レズビアン.md "wikilink")と噂されている。幸がUSオープン転戦中、鳳テニスクラブの同僚の蘭、好子、美樹が当初幸に何かと嫌がらせしていたこととそれを助言した張本人が蝶子であることを、鳳テニスクラブのカフェテリア内のテレビでUSオープンでの幸や蝶子の試合を観戦していた蘭たち3人の会話から知ってしまい、それ以降蝶子とは因縁があり、特に幸の事もあって、マリリン・レディース決勝後には暴行事件を起こし*一時的にプロ選手登録を抹消されるなど*敵対していたが、のちに宿命のライバルと並び称されるようになる。作中幸の不幸の大半が蝶子による嫌がらせだと知る唯一の人物。
   - 桂木（かつらぎ）
@@ -167,7 +167,7 @@
 
   - 海野幸 - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")
   - 桜田純二 - [宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")
-  - 鳳圭一郎 - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - 鳳圭一郎 - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - 竜ヶ崎蝶子 - [小林麻央](../Page/小林麻央.md "wikilink")
   - 賀来菊子 - [夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")
   - 海野家康 - [荒川良々](../Page/荒川良々.md "wikilink")
@@ -207,7 +207,7 @@
 
 <!-- end list -->
 
-  - 「[Real Face\#1](../Page/Real_Face.md "wikilink")」（作詞: [スガシカオ](../Page/スガシカオ.md "wikilink")／作曲:[松本孝弘](../Page/松本孝弘.md "wikilink")／編曲:松本孝弘、[徳永暁人](../Page/徳永暁人.md "wikilink")／Rap詞:[JOKER](../Page/田中聖.md "wikilink")／歌：[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - 「[Real Face\#1](../Page/Real_Face.md "wikilink")」（作詞: [スガシカオ](../Page/スガシカオ.md "wikilink")／作曲:[松本孝弘](../Page/松本孝弘.md "wikilink")／編曲:松本孝弘、[徳永暁人](../Page/徳永暁人.md "wikilink")／Rap詞:[JOKER](../Page/田中聖.md "wikilink")／歌：[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 
 <!-- end list -->
 
-  - 「SHE SAID...」（作詞: 田口亮・Axel G／作曲: Katsumi Ohnishi／Rap詞: JOKER／歌：[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - 「SHE SAID...」（作詞: 田口亮・Axel G／作曲: Katsumi Ohnishi／Rap詞: JOKER／歌：[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
 
 ### Happy\!2
 
@@ -226,7 +226,7 @@
 
   - 海野幸 - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")
   - 桜田純二 - [宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")
-  - 鳳圭一郎 - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - 鳳圭一郎 - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - 竜ヶ崎蝶子 - [小林麻央](../Page/小林麻央.md "wikilink")
   - 賀来菊子 - [夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")
   - 海野家康 - [荒川良々](../Page/荒川良々.md "wikilink")
@@ -260,7 +260,7 @@
 
 #### 主題歌（エンディングテーマ）
 
-  - 「[Real Face\#1](../Page/Real_Face.md "wikilink")」（作詞: [スガシカオ](../Page/スガシカオ.md "wikilink")／作曲:[松本孝弘](../Page/松本孝弘.md "wikilink")／編曲:松本孝弘、[徳永暁人](../Page/徳永暁人.md "wikilink")／Rap詞:[JOKER](../Page/田中聖.md "wikilink")／歌：[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - 「[Real Face\#1](../Page/Real_Face.md "wikilink")」（作詞: [スガシカオ](../Page/スガシカオ.md "wikilink")／作曲:[松本孝弘](../Page/松本孝弘.md "wikilink")／編曲:松本孝弘、[徳永暁人](../Page/徳永暁人.md "wikilink")／Rap詞:[JOKER](../Page/田中聖.md "wikilink")／歌：[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
 
 ## 脚注
 

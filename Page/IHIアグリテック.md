@@ -41,7 +41,7 @@
   - [IHI](../Page/IHI.md "wikilink")
   - [東芝](../Page/東芝.md "wikilink")
   - [ヤンマー](../Page/ヤンマー.md "wikilink")
-  - [CNHグローバル](https://ja.wikipedia.org/wiki/CNHグローバル "wikilink") - CNH Global N.V. 業務提携し農業用トラクターをOEM供給している
+  - [CNHグローバル](../Page/CNHグローバル.md "wikilink") - CNH Global N.V. 業務提携し農業用トラクターをOEM供給している
   - [土光敏夫](../Page/土光敏夫.md "wikilink")
 
 ## 脚注

@@ -1,7 +1,7 @@
 > この記事は[フェラーリ・288GTOEvoluzione](https://ja.wikipedia.org/wiki/フェラーリ・288GTOEvoluzione)から翻訳されています。
 
 
-**フェラーリ・288GTO Evoluzione**（エヴォルツィオーネ）は、[イタリア](../Page/イタリア.md "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーの[フェラーリ](../Page/フェラーリ.md "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に製造したリアミッドシップエンジン・後輪駆動の試作型[スポーツカー](../Page/スポーツカー.md "wikilink")である。
+**フェラーリ・288GTO Evoluzione**（エヴォルツィオーネ）は、[イタリア](../Page/イタリア.md "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーの[フェラーリ](../Page/フェラーリ.md "wikilink")が[1986年](../Page/1986年.md "wikilink")に製造したリアミッドシップエンジン・後輪駆動の試作型[スポーツカー](../Page/スポーツカー.md "wikilink")である。
 
 ## 概要
 

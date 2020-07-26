@@ -1,7 +1,7 @@
 > この記事は[Femme](https://ja.wikipedia.org/wiki/Femme)から翻訳されています。
 
 
-『**femme**』（ファム）は[今井美樹](../Page/今井美樹.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。
+『**femme**』（ファム）は[今井美樹](../Page/今井美樹.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。
 
 ## 収録曲
 

@@ -1,7 +1,7 @@
 > この記事は[RADIO K.A.O.S.](https://ja.wikipedia.org/wiki/RADIO_K.A.O.S.)から翻訳されています。
 
 
-**Radio K.A.O.S.**（レディオ・ケイオス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表された[ロジャー・ウォーターズ](../Page/ロジャー・ウォーターズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。前年の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にはアニメ映画『[風が吹くとき](../Page/風が吹くとき.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を手掛けているが、本作は[1984年](../Page/1984年.md "wikilink")発表の『[ヒッチハイクの賛否両論](../Page/ヒッチハイクの賛否両論.md "wikilink")』に続くセカンド・ソロアルバムと位置づけられている。
+**Radio K.A.O.S.**（レディオ・ケイオス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表された[ロジャー・ウォーターズ](../Page/ロジャー・ウォーターズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。前年の[1986年](../Page/1986年.md "wikilink")にはアニメ映画『[風が吹くとき](../Page/風が吹くとき.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を手掛けているが、本作は[1984年](../Page/1984年.md "wikilink")発表の『[ヒッチハイクの賛否両論](../Page/ヒッチハイクの賛否両論.md "wikilink")』に続くセカンド・ソロアルバムと位置づけられている。
 
 ## 概要
 

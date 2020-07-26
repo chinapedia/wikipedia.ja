@@ -20,7 +20,7 @@
 
   - カープ [F-1](https://ja.wikipedia.org/wiki/F-1_\(潜水艦\) "wikilink") (*USS Carp/F-1, SS-20*)
 
-　[ユニオン鉄工所](https://ja.wikipedia.org/wiki/ユニオン鉄工所 "wikilink")建造　就役:1912年6月19日　1917年12月17日、F-3と衝突し沈没。
+　[ユニオン鉄工所](../Page/ユニオン鉄工所.md "wikilink")建造　就役:1912年6月19日　1917年12月17日、F-3と衝突し沈没。
 
 　1911年11月17日改称、名の由来は[コイ](https://ja.wikipedia.org/wiki/コイ "wikilink")を中心に[フナ属](https://ja.wikipedia.org/wiki/フナ属 "wikilink")・[ハクレン](../Page/ハクレン.md "wikilink")属など[コイ科](../Page/コイ科.md "wikilink")淡水魚の一部の総称。
 

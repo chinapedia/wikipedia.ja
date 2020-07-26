@@ -131,7 +131,7 @@ CDジャーナルは、「クールなスピード感溢れるデジポップナ
   - 詩人の旅
       - Guitar：飯室博
       - Strings：大先生室屋ストリングス
-      - [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：[仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink")
+      - [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：[仁科かおり](../Page/仁科かおり.md "wikilink")
   - ふたりのリフレクション
       - Guitar：飯室博
       - Chorus：石塚まみ

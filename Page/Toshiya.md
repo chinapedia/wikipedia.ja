@@ -14,7 +14,7 @@
   - デビュー当時から4弦ベースを使っていることが多かったが、現在では5弦ベースを使うことが多い。
   - 使用する[エフェクター](../Page/エフェクター.md "wikilink")は様々だが、その中でもサンズアンプは欠かせないという。楽曲の多くは、ダウンチューニングで演奏されていることが多い。
   - 2009年末から、メインで使用しているベース｢*[ESP](../Page/イーエスピー.md "wikilink") Toshiya custom 00*｣、｢*ESP Toshiya custom 01*｣は、元々、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[IKÜZÖNEと話をした際](../Page/Dragon_Ash.md "wikilink")、IKÜZÖNEが使用していたベース、**IKÜTÖRONE**を使う頻度が減った事を聞き、変形のベースを作りたかったToshiyaは、｢だったら、俺がIKÜTÖRONEを改良したベースを作ってもいいですか?｣と了解を得て出来た物。
-  - 初めてコピーしたバンドが[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")で、初めて購入したベースが[戸城モデルである](../Page/戸城憲夫.md "wikilink")。
+  - 初めてコピーしたバンドが[ZIGGY](../Page/ZIGGY.md "wikilink")で、初めて購入したベースが[戸城モデルである](../Page/戸城憲夫.md "wikilink")。
   - 最初にコピーしたのは[XのTAIJI](../Page/X_JAPAN.md "wikilink")。その影響から初期はKILLERのベースを使用していた。
   - [Jを師と仰ぎ](../Page/J_\(ミュージシャン\).md "wikilink")、尊敬の念を込め「兄さん」と呼び慕っている。
 

@@ -27,7 +27,7 @@
   - [小松崎行彦](https://ja.wikipedia.org/wiki/小松崎行彦 "wikilink") - [株式会社ファミリーマート](https://ja.wikipedia.org/wiki/株式会社ファミリーマート "wikilink")　取締役　常務執行役員
   - [宮木啓治](https://ja.wikipedia.org/wiki/宮木啓治 "wikilink") - [ライトマネジメントインク](https://ja.wikipedia.org/wiki/ライトマネジメントインク "wikilink")エグゼクティブバイスプレジデントアジア・パシフィック総代表
   - [島田隆](https://ja.wikipedia.org/wiki/島田隆 "wikilink") - [日本メドトロニック株式会社](https://ja.wikipedia.org/wiki/日本メドトロニック株式会社 "wikilink")代表取締役社長
-  - [安田隆二](https://ja.wikipedia.org/wiki/安田隆二 "wikilink") - [一橋大学](../Page/一橋大学.md "wikilink")大学院国際企業戦略科教授
+  - [安田隆二](../Page/安田隆二.md "wikilink") - [一橋大学](../Page/一橋大学.md "wikilink")大学院国際企業戦略科教授
   - [松本恭攝](https://ja.wikipedia.org/wiki/松本恭攝 "wikilink") - [ラクスル株式会社](https://ja.wikipedia.org/wiki/ラクスル株式会社 "wikilink")代表取締役社長
   - [佐藤勇樹](https://ja.wikipedia.org/wiki/佐藤勇樹 "wikilink") - [株式会社リブ・コンサルティング](https://ja.wikipedia.org/wiki/株式会社リブ・コンサルティング "wikilink")パートナー＆マネージングディレクタ
   - [池上真之](https://ja.wikipedia.org/wiki/池上真之 "wikilink") - [株式会社エブリスタ](https://ja.wikipedia.org/wiki/株式会社エブリスタ "wikilink")元代表取締役社長

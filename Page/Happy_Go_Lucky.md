@@ -5,7 +5,7 @@
 
 ## 内容
 
-アルバム「[Tigermobile](https://ja.wikipedia.org/wiki/Tigermobile "wikilink")」からのシングルカット。
+アルバム「[Tigermobile](../Page/Tigermobile.md "wikilink")」からのシングルカット。
 
 「Happy Go Lucky」は[真島昌利](../Page/真島昌利.md "wikilink")が作詞・作曲を手がけた。またこの曲は[日産自動車](../Page/日産自動車.md "wikilink")の[S14型シルビアCMソングにも起用された](../Page/日産・シルビア.md "wikilink")\[1\]\[2\]。曲名は「**行き当たりばったり**」を意味する。
 

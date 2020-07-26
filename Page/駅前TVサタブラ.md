@@ -46,7 +46,7 @@
 
   - [田中洋平](https://ja.wikipedia.org/wiki/田中洋平 "wikilink")
   - [岩清水愛](https://ja.wikipedia.org/wiki/岩清水愛 "wikilink")\[2\]
-  - [高橋よしえ](https://ja.wikipedia.org/wiki/高橋よしえ "wikilink")
+  - [高橋よしえ](../Page/高橋よしえ.md "wikilink")
   - [真猿](https://ja.wikipedia.org/wiki/真猿_\(タレント\) "wikilink")
 
 <!-- end list -->
@@ -139,7 +139,7 @@
 
 ### 休止・時間変更等の対応
 
-  - [全国高校野球選手権大会シーズンになると](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")、[熊本大会開会式を放送する関係で](https://ja.wikipedia.org/wiki/全国高等学校野球選手権熊本大会 "wikilink")、当番組が休止または放送時間変更になる場合がある。
+  - [全国高校野球選手権大会シーズンになると](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")、[熊本大会開会式を放送する関係で](../Page/全国高等学校野球選手権熊本大会.md "wikilink")、当番組が休止または放送時間変更になる場合がある。
       - 2008年[7月5日](../Page/7月5日.md "wikilink")・2010年[7月10日](../Page/7月10日.md "wikilink")は休止。2013年[7月13日](../Page/7月13日.md "wikilink")は放送時間を16:00 - 16:55に変更。
       - 2008年[7月19日](../Page/7月19日.md "wikilink")は、全国高等学校野球選手権熊本大会の放送予備日のため、今までに放送した「サタぶらっ旅」の総集編を放送。通常放送されるコーナーは「鶴屋インフォメーション」を除き、すべて休止となった。
   - 2008年[6月14日](../Page/6月14日.md "wikilink")は、[岩手・宮城内陸地震](https://ja.wikipedia.org/wiki/岩手・宮城内陸地震 "wikilink")の影響により、放送時間が10:25 - 10:55までの30分間に短縮。番組内容も変更され、特集と「告知にきなっせ\!」のみとなった。

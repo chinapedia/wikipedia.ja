@@ -44,7 +44,7 @@
   - [GRAMPS](https://ja.wikipedia.org/wiki/GRAMPS "wikilink") - [系譜学](../Page/系譜学.md "wikilink")ソフトウェア
   - [Gwibber](https://ja.wikipedia.org/wiki/Gwibber "wikilink") - [マイクロブログ](https://ja.wikipedia.org/wiki/マイクロブログ "wikilink")クライアント
   - [Juice](https://ja.wikipedia.org/wiki/Juice "wikilink") - Podcastダウンローダ
-  - [Listen](https://ja.wikipedia.org/wiki/Listen "wikilink") - 音楽プレーヤ
+  - [Listen](../Page/Listen.md "wikilink") - 音楽プレーヤ
   - [Mercurial](../Page/Mercurial.md "wikilink") - 分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")
   - [Miro](https://ja.wikipedia.org/wiki/Miro "wikilink") - クロスプラットフォームの[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")アプリケーション
   - [Morpheus](../Page/Morpheus.md "wikilink") - StreamCast Network社により運営されるファイル共有ソフトウェア
@@ -60,7 +60,7 @@
   - [Pootle](https://ja.wikipedia.org/wiki/Pootle "wikilink") - Webベースの翻訳支援ツール
   - [Portage](https://ja.wikipedia.org/wiki/Portage_\(software\) "wikilink") - Gengoo Linuxの[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")
   - [PySol](https://ja.wikipedia.org/wiki/PySol "wikilink") - ソリティアゲーム集
-  - [Quake Army Knife](https://ja.wikipedia.org/wiki/Quake_Army_Knife "wikilink") - [Quake Engineの](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")3Dマップを製作する環境
+  - [Quake Army Knife](https://ja.wikipedia.org/wiki/Quake_Army_Knife "wikilink") - [Quake Engineの](../Page/Quake_Engine.md "wikilink")3Dマップを製作する環境
   - [Quod Libet](https://ja.wikipedia.org/wiki/Quod_Libet "wikilink") - 音楽プレーヤ、タグエディタ、ライブラリ管理
   - [Ren'Py](https://ja.wikipedia.org/wiki/Ren'Py "wikilink") - [ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")エンジン
   - [Resolver One](https://ja.wikipedia.org/wiki/Resolver_One "wikilink") - スプレッドシート

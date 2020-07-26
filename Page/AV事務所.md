@@ -9,7 +9,7 @@ AVが誕生した1980年代、AVメーカー（製造側）が別会社として
 
 AV女優の人権、給与問題を守るため2016年に業界の有志が母体をつくり、2017年に「日本プロダクション協会(JAPAN PRODUCTION GUILD＝JPG)」が設立された。大手プロダクション十数社が加盟している\[2\]。同年4月にJPG非加盟プロダクションがまとまり「第二プロダクション協会」（SPA）を設立\[3\]。
 
-かつては旧[フィットワンのように一般的な芸能事務所の一部門として存在する企業もあった](../Page/フィット_\(芸能プロダクション\).md "wikilink")（2008年にAV女優部門を分社、現[ハーベスターズ](https://ja.wikipedia.org/wiki/ハーベスターズ "wikilink")）。
+かつては旧[フィットワンのように一般的な芸能事務所の一部門として存在する企業もあった](../Page/フィット_\(芸能プロダクション\).md "wikilink")（2008年にAV女優部門を分社、現[ハーベスターズ](../Page/ハーベスターズ.md "wikilink")）。
 
 ## 単体系事務所と企画系事務所
 
@@ -97,7 +97,7 @@ Bstar</a></p></td>
 <td><p><a href="../Page/蒼井そら.md" title="wikilink">蒼井そら</a>、<a href="../Page/七海なな.md" title="wikilink">七海なな</a>、<a href="https://ja.wikipedia.org/wiki/花咲いあん" title="wikilink">花咲いあん</a>など</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハーベスターズ" title="wikilink">ハーべスターズ</a></p></td>
+<td><p><a href="../Page/ハーベスターズ.md" title="wikilink">ハーべスターズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐倉絆" title="wikilink">佐倉絆</a>など</p></td>
 <td></td>
 <td><p><a href="../Page/麻美ゆま.md" title="wikilink">麻美ゆま</a></p></td>

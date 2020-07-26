@@ -17,7 +17,7 @@
     ○  [マーカス・デイヴィス](https://ja.wikipedia.org/wiki/マーカス・デイヴィス "wikilink") vs.  フォレスト・ペッツ ×
     1R 4:58 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第2試合 ウェルター級 5分3R
-    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  ジョン・アレッシオ ×
+    ○  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") vs.  ジョン・アレッシオ ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第3試合 ミドル級 5分3R
     ○  [ローリー・シンガー](../Page/ローリー・シンガー.md "wikilink") vs.  ジョシュ・ヘインズ ×

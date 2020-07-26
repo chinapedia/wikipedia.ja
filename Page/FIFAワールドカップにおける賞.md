@@ -265,7 +265,7 @@
 <td><p>5</p></td>
 <td><p><a href="../Page/ホルヘ・バルダーノ.md" title="wikilink">ホルヘ・バルダーノ</a><br />
  <a href="../Page/プレーベン・エルケーア・ラルセン.md" title="wikilink">プレーベン・エルケーア・ラルセン</a><br />
- <a href="https://ja.wikipedia.org/wiki/アレッサンドロ・アルトベッリ" title="wikilink">アレッサンドロ・アルトベッリ</a><br />
+ <a href="../Page/アレッサンドロ・アルトベッリ.md" title="wikilink">アレッサンドロ・アルトベッリ</a><br />
  <a href="../Page/イーゴリ・ベラノフ.md" title="wikilink">イーゴリ・ベラノフ</a></p></td>
 <td><p>4</p></td>
 </tr>

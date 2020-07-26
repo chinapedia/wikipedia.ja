@@ -165,7 +165,7 @@
 
 ## 風刺作品
 
-  - アニメ「[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")」
+  - アニメ「[ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")」
       - [シーズン22](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン22 "wikilink") 第10回「[クールママの集い](https://ja.wikipedia.org/wiki/クールママの集い "wikilink")（原題："[Moms I'd Like to Forget](https://ja.wikipedia.org/wiki/:en:Moms_I'd_Like_to_Forget "wikilink")"）」（[専門チャンネル](../Page/専門チャンネル.md "wikilink")[FOX](../Page/フォックス放送.md "wikilink")）
       - [シーズン24](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン24 "wikilink") 第7回「[目指せ、クールダディー](https://ja.wikipedia.org/wiki/目指せ、クールダディー "wikilink")（原題："[The Day the Earth Stood Cool](https://ja.wikipedia.org/wiki/:en:The_Day_the_Earth_Stood_Cool "wikilink")"）」（専門チャンネルFOX）
       - [シーズン28](https://ja.wikipedia.org/wiki/ザ・シンプソンズのエピソード一覧#シーズン28 "wikilink") 第14回「[山を越えるチリドッグ](https://ja.wikipedia.org/wiki/山を越えるチリドッグ "wikilink")（原題："[Fatzcarraldo](https://ja.wikipedia.org/wiki/:en:Fatzcarraldo "wikilink")"）」（専門チャンネルFOX）

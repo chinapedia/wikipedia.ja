@@ -26,7 +26,7 @@
   - [2013年](../Page/2013年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、4thアルバム「DGKA (DIRTY GHETTO KING ANARCHY)」をフリー・ダウンロードにて公開。米国の大手配信サイト「[Datpiff](https://ja.wikipedia.org/wiki/Datpiff "wikilink")」「[audiomack](https://ja.wikipedia.org/wiki/audiomack "wikilink")」のチャートで一位を獲得。
   - [2014年](../Page/2014年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、所属レーベルを[avexの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「CLOUD 9 CLIQUE」に移籍したことを発表。
   - [2014年](../Page/2014年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")、メジャー1stアルバム「NEW YANKEE」を発売する。
-  - [2014年](../Page/2014年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")、自身の生い立ちを追ったドキュメンタリー映画「DANCHI NO YUME」が渋谷[UPLINKで公開される](https://ja.wikipedia.org/wiki/アップリンク_\(映画会社\) "wikilink")。
+  - [2014年](../Page/2014年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")、自身の生い立ちを追ったドキュメンタリー映画「DANCHI NO YUME」が渋谷[UPLINKで公開される](../Page/アップリンク_\(映画会社\).md "wikilink")。
 
 ## 作品
 

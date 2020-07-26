@@ -39,7 +39,7 @@
   - [スティッチ\!](https://ja.wikipedia.org/wiki/スティッチ! "wikilink") （制作元請：マッドハウス、各話制作協力、2008年-2009年）
   - [NEEDLESS](../Page/NEEDLESS.md "wikilink") （制作元請：マッドハウス、発注元：イマジン、各話制作協力、2009年）
   - [FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") （制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")・[サテライト](../Page/サテライト_\(アニメ制作会社\).md "wikilink")、ED制作協力、2009年）
-  - [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink") （制作元請：[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")、各話制作協力、2010年-2011年）
+  - [遊☆戯☆王5D's](../Page/遊☆戯☆王5D's.md "wikilink") （制作元請：[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")、各話制作協力、2010年-2011年）
   - [ウルヴァリン](https://ja.wikipedia.org/wiki/ウルヴァリン_\(アニメ\) "wikilink") （制作元請：マッドハウス、各話制作協力、2011年）
   - [プリティーリズム・オーロラドリーム](https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリーム "wikilink") （制作元請：タツノコプロ、各話制作協力、2011年）
   - [遊☆戯☆王ZEXAL](https://ja.wikipedia.org/wiki/遊☆戯☆王ZEXAL "wikilink") （制作元請：ぎゃろっぷ、各話制作協力、2011年-2012年）

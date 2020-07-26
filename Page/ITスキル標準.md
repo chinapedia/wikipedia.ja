@@ -89,7 +89,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/CCNP" title="wikilink">CCNP</a></li>
 <li><a href="../Page/LPIC.md" title="wikilink">LPIC</a>レベル3</li>
 <li>オラクルマスター（ゴールド級）</li>
-<li><a href="https://ja.wikipedia.org/wiki/PMP" title="wikilink">PMP</a></li>
+<li><a href="../Page/PMP.md" title="wikilink">PMP</a></li>
 </ul></td>
 </tr>
 <tr class="even">

@@ -121,7 +121,7 @@
 
 <!-- end list -->
 
-  - **[密着警察24時](https://ja.wikipedia.org/wiki/密着警察24時 "wikilink")**（TBS系列、SOLIS produce　2010年9月 - ）
+  - **[密着警察24時](../Page/密着警察24時.md "wikilink")**（TBS系列、SOLIS produce　2010年9月 - ）
   - [24時間テレビ35 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")（日本テレビ系列　2012年8月）
       - 松本潤と被災地の吹奏楽部「ありがとう」の音色
       - 相葉雅紀 たった一人のための移動どうぶつ園

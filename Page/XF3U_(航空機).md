@@ -1,7 +1,7 @@
 > この記事は[XF3U \(航空機\)](https://ja.wikipedia.org/wiki/XF3U_\(航空機\))から翻訳されています。
 
 
-**XF3U**は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[チャンス・ヴォート社が開発した全金属製](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[複葉](../Page/複葉機.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。1機が試作されたのみで、制式採用はなされなかったが、急降下爆撃機SBUへと改造され、そちらは制式採用の後量産された。
+**XF3U**は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[チャンス・ヴォート社が開発した全金属製](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[複葉](../Page/複葉機.md "wikilink")[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。1機が試作されたのみで、制式採用はなされなかったが、急降下爆撃機SBUへと改造され、そちらは制式採用の後量産された。
 
 ## 概要
 

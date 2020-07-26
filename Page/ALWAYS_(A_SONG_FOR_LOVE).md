@@ -7,7 +7,7 @@
 
 結成から4作連続でオリコンシングルチャート1位を獲得。
 
-タイトル曲「ALWAYS(A SONG FOR LOVE)」の日本語詞はメンバー全員の共作でクレジットされている。また、[TAKE6](../Page/テイク6.md "wikilink")、[ジョディ・ワトリー](https://ja.wikipedia.org/wiki/ジョディ・ワトリー "wikilink")がコーラスで参加している。
+タイトル曲「ALWAYS(A SONG FOR LOVE)」の日本語詞はメンバー全員の共作でクレジットされている。また、[TAKE6](../Page/テイク6.md "wikilink")、[ジョディ・ワトリー](../Page/ジョディ・ワトリー.md "wikilink")がコーラスで参加している。
 
 ## 収録曲
 

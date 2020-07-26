@@ -59,7 +59,7 @@
   - 2006年『[フライボーイズ](../Page/フライボーイズ.md "wikilink") *Flyboys*』
   - 2006年『[007 カジノ・ロワイヤル](../Page/007_カジノ・ロワイヤル.md "wikilink")』 *Casino Royale*
   - 2006年『[ペネロピ](https://ja.wikipedia.org/wiki/ペネロピ "wikilink")』 *Penelope*
-  - 2006年『[主人公は僕だった](https://ja.wikipedia.org/wiki/主人公は僕だった "wikilink")』 *Stranger than Fiction*
+  - 2006年『[主人公は僕だった](../Page/主人公は僕だった.md "wikilink")』 *Stranger than Fiction*
   - 2007年『[ボーン・アルティメイタム](../Page/ボーン・アルティメイタム.md "wikilink") *The Bourne Ultimatum*
   - 2007年『[ハリー・ポッターと不死鳥の騎士団](https://ja.wikipedia.org/wiki/ハリー・ポッターと不死鳥の騎士団_\(映画\) "wikilink")』 *Harry Potter and the Order of the Phoenix*
   - 2007年『[スターダスト](https://ja.wikipedia.org/wiki/スターダスト "wikilink")』 *Stardust*

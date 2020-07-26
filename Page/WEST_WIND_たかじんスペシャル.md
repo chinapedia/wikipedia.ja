@@ -1,7 +1,7 @@
 > この記事は[WEST WIND たかじんスペシャル](https://ja.wikipedia.org/wiki/WEST_WIND_たかじんスペシャル)から翻訳されています。
 
 
-『**WEST WIND たかじんスペシャル**』（ウェスト・ウィンド たかじんスペシャル）は、[やしきたかじん](../Page/やしきたかじん.md "wikilink")の[ビクター音楽産業における初のベスト](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")・アルバムである。なお、ジャケット写真は大阪・[中之島公会堂](https://ja.wikipedia.org/wiki/中之島公会堂 "wikilink")をバックに撮影したものである。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。
+『**WEST WIND たかじんスペシャル**』（ウェスト・ウィンド たかじんスペシャル）は、[やしきたかじん](../Page/やしきたかじん.md "wikilink")の[ビクター音楽産業における初のベスト](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")・アルバムである。なお、ジャケット写真は大阪・[中之島公会堂](https://ja.wikipedia.org/wiki/中之島公会堂 "wikilink")をバックに撮影したものである。[1986年](../Page/1986年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。
 
 ## 収録曲目
 

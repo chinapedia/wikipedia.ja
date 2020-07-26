@@ -14,7 +14,7 @@
   - 「スーマン」という名前の[チワワ](../Page/チワワ.md "wikilink")を飼っている。「STEPPER'S DELIGHT」のPVと「ONE」のCD盤に登場している。
   - MELLOW DOWN時代には[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")やFUSION COREとの共演経験もある。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")発売のELLE girl4月号より、“Dr.SU's LOVE CLINIC”という連載企画をスタートさせる。
-  - 2008年4月7日より[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[〜ジョーデキ\!POP COMPANY〜POP屋](https://ja.wikipedia.org/wiki/〜ジョーデキ!POP_COMPANY〜POP屋 "wikilink")』に本名名義でレギュラー出演。
+  - 2008年4月7日より[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[〜ジョーデキ\!POP COMPANY〜POP屋](../Page/〜ジョーデキ!POP_COMPANY〜POP屋.md "wikilink")』に本名名義でレギュラー出演。
   - 『[キャンパスナイトフジ](https://ja.wikipedia.org/wiki/キャンパスナイトフジ "wikilink")』「すう散歩」で[キャンパスナイターズ](https://ja.wikipedia.org/wiki/キャンパスナイターズ "wikilink")を連れてロケ担当をしていた。
   - 猫を飼っている。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月26日](../Page/6月26日.md "wikilink")にシンガーソングライターの[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")と半年の交際を経て入籍したことを発表した。
@@ -59,7 +59,7 @@
 
 ### バラエティ番組
 
-  - [〜ジョーデキ\!POP COMPANY〜POP屋](https://ja.wikipedia.org/wiki/〜ジョーデキ!POP_COMPANY〜POP屋 "wikilink")（2008年4月7日 - 9月22日、フジテレビ） - 「大槻一人」名義
+  - [〜ジョーデキ\!POP COMPANY〜POP屋](../Page/〜ジョーデキ!POP_COMPANY〜POP屋.md "wikilink")（2008年4月7日 - 9月22日、フジテレビ） - 「大槻一人」名義
   - [キャンパスナイトフジ](https://ja.wikipedia.org/wiki/キャンパスナイトフジ "wikilink")「すう散歩」コーナー（2009年4月10日 - 2010年3月19日、フジテレビ）
   - [クルマッチョ\! 〜みんなの社会CAR見学〜](https://ja.wikipedia.org/wiki/クルマッチョ!_〜みんなの社会CAR見学〜 "wikilink")（2011年1月26日 - 6月29日、[TBS](../Page/TBSテレビ.md "wikilink")）
 

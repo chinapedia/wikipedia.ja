@@ -9,7 +9,7 @@
 
 平均年齢14.8歳（当時）というのは男性グループとしては史上最年少の首位であり、[光GENJI](../Page/光GENJI.md "wikilink")が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")8月に記録した16.1歳を20年ぶりに更新した。
 
-歌詞の一部に昭和否定ではないかと話題になったが、あくまで昭和時代を否定するようなもので無く、「僕たちは平成生まれだから昭和に戻ってShowは出来ない」、「過去にはもう戻れない」という意味であるということが『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で説明された。2回目ではOP時に[亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）が乱入し曲披露でも共演した。
+歌詞の一部に昭和否定ではないかと話題になったが、あくまで昭和時代を否定するようなもので無く、「僕たちは平成生まれだから昭和に戻ってShowは出来ない」、「過去にはもう戻れない」という意味であるということが『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で説明された。2回目ではOP時に[亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）が乱入し曲披露でも共演した。
 
 この曲は、[Hey\! Say\! JUMP結成前のHey](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")\! Say\! 7の曲だが、今はHey\! Say\! JUMPが受け継いで歌っている。
 

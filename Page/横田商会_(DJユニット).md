@@ -9,7 +9,7 @@
 
 ## メンバー
 
-  - DJ BOSS([1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月10日](../Page/3月10日.md "wikilink") - )
+  - DJ BOSS([1968年](../Page/1968年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - )
     本名は横田聡(よこた あきら）
       - ここ数年、SUPER EUROBEATのリミックスは彼一人が行っていることが多い。
   - DJ Remo-con([1972年](../Page/1972年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - )

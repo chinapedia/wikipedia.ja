@@ -77,7 +77,7 @@
       - Leader & Trombone: John Wheeler
       - Trumpets:John Allimark, Tony Kadleck
       - Trombone: Bill Whitaker
-  - Chorus : [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - Chorus : [Masayuki Iwata](../Page/岩田雅之.md "wikilink")
   - The other Instrument: Seikou Nagaoka
 
 ### 波風も悪くない

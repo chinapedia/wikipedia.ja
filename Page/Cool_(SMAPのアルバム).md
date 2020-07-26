@@ -46,7 +46,7 @@
       - 11thシングル
 7.  **[笑顔のゲンキ](../Page/笑顔のゲンキ.md "wikilink")**
       -
-        作詞：森浩美 / 作曲：馬飼野康二 / 編曲：長岡成貢 / コーラスアレンジ：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：森浩美 / 作曲：馬飼野康二 / 編曲：長岡成貢 / コーラスアレンジ：[岩田雅之](../Page/岩田雅之.md "wikilink")
     <!-- end list -->
       - 5thシングル
 8.  **[Don't Cry Baby](https://ja.wikipedia.org/wiki/SMAP_001 "wikilink")**
@@ -145,7 +145,7 @@ Will Lee appears courtesy of Go Jazz Records
   - Drums: Omar Hakim
   - Alto Sax: [Phil Woods](https://ja.wikipedia.org/wiki/フィル・ウッズ "wikilink")
   - The Other Instrument: Seikou Nagaoka
-  - Chorus: [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - Chorus: [Masayuki Iwata](../Page/岩田雅之.md "wikilink")
 
 ### DON'T CRY BABY
 

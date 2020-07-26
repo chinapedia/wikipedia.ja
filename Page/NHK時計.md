@@ -13,7 +13,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:テレビ画面時計_NHK_\(4403864006\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2012-04-01_NHK放送博物館_テレビ画面時計.jpg "wikilink") NHKテレビによる時報放送は[1950年代](../Page/1950年代.md "wikilink")後半より放送され、デザイン変更、[ニュース](../Page/ニュース.md "wikilink")オープニング[CGとの一体化](../Page/コンピュータグラフィックス.md "wikilink")、NHKのCI変更に伴うロゴ変更などを経て、[地上アナログ放送においては正午の教育テレビにおいてアナログ放送終了前日の](../Page/NTSC.md "wikilink")[2011年](../Page/2011年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")（[岩手県](../Page/岩手県.md "wikilink")・[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")・[福島県](../Page/福島県.md "wikilink")では終了日の[2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")）まで放送されていた。
 
-様々なデザインがあるが、最も広く知られているのは、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")頃から[1991年](../Page/1991年.md "wikilink")頃まで使用されていた\[2\]、画面中央の楕円形の盤面の中に黒地の真円のアナログ時計が描かれ、右下にNHKのロゴが描かれたデザインのものである。以下の2種類が存在し、季節に応じ半期ごとに交互使用されていた。
+様々なデザインがあるが、最も広く知られているのは、[1968年](../Page/1968年.md "wikilink")頃から[1991年](../Page/1991年.md "wikilink")頃まで使用されていた\[2\]、画面中央の楕円形の盤面の中に黒地の真円のアナログ時計が描かれ、右下にNHKのロゴが描かれたデザインのものである。以下の2種類が存在し、季節に応じ半期ごとに交互使用されていた。
 
   - **青版** - 背景が濃淡青の縦縞で楕円形の盤面が青みがかったグレー
   - **木目版** - 背景が[木目](https://ja.wikipedia.org/wiki/木目 "wikilink")で楕円形の盤面が明るいブラウン

@@ -7,7 +7,7 @@
 
 バンドのテーマは「**ダークと破壊**」で、ヘヴィなサウンドに[シンセサイザー](../Page/シンセサイザー.md "wikilink")を混ぜた重厚で[インダストリアル](../Page/インダストリアル.md "wikilink")なサウンドを特徴としている。
 
-日本産[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")の雄と称されている\[3\]。結成当初から、独特な洋楽アプローチを感じさせるクオリティの高い楽曲と、観る者を圧倒するカリスマ性の強い激しいライヴパフォーマンスを行ってきた\[4\]。
+日本産[ゴシック・ロック](../Page/ゴシック・ロック.md "wikilink")の雄と称されている\[3\]。結成当初から、独特な洋楽アプローチを感じさせるクオリティの高い楽曲と、観る者を圧倒するカリスマ性の強い激しいライヴパフォーマンスを行ってきた\[4\]。
 
 作詞は基本的にHIZUMIが担当し、作曲は主に[Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")、TSUKASAが担当する。また、メジャーデビュー以降最初のシングルの「FINAL CALL」からは[abingdon boys schoolの](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")[岸利至](../Page/岸利至.md "wikilink")がプロデュースを担当している。
 

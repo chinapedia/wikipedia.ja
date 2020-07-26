@@ -3,13 +3,13 @@
 
 『**R-TYPE Δ**』（アール・タイプ デルタ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")に[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")から発売された、[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
-ゲーム事業から撤退したアイレム株式会社（旧アイレム、現[アピエス](../Page/アピエス.md "wikilink")）からゲーム事業の版権を譲渡されてから制作された、[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")シリーズの一つである。
+ゲーム事業から撤退したアイレム株式会社（旧アイレム、現[アピエス](../Page/アピエス.md "wikilink")）からゲーム事業の版権を譲渡されてから制作された、[R-TYPE](../Page/R-TYPE.md "wikilink")シリーズの一つである。
 
 [2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")対応ソフトとして[PSP用にダウンロード販売が開始された](../Page/PlayStation_Portable.md "wikilink")（同年[5月31日](../Page/5月31日.md "wikilink")からは[プレイステーション3にも対応](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）が、[2011年](../Page/2011年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")で販売終了となった。
 
 ## 概要
 
-本作は、第一次バイドミッション（『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』時点での作戦）終結から約1年後、2164年の地球圏・及び太陽系周辺で発生した事件「サタニック・ラプソディー」を題材としている。
+本作は、第一次バイドミッション（『[R-TYPE](../Page/R-TYPE.md "wikilink")』時点での作戦）終結から約1年後、2164年の地球圏・及び太陽系周辺で発生した事件「サタニック・ラプソディー」を題材としている。
 
 今作から自機や敵、背景などをすべて3D[ポリゴン](../Page/ポリゴン.md "wikilink")表現で制作している。ただし自機の移動および当り判定処理はすべて画面でのXY平面上で行われており、今までのシリーズとほぼ変わりないゲーム性、操作感を実現している。ゆえに、サイドビューシューティングのジャンルに当たる。
 

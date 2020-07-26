@@ -20,7 +20,7 @@
   - [Baby blue eyes](../Page/Baby_blue_eyes.md "wikilink") - [椎名へきる](../Page/椎名へきる.md "wikilink")のアルバム。([1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink"))
   - Blue eyes 〜Introduction〜 - [DEEN](../Page/DEEN.md "wikilink")の楽曲。アルバム『[Ballads in Blue〜The greatest hits of DEEN〜](../Page/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜.md "wikilink")』に収録。([2001年](../Page/2001年.md "wikilink"))
   - Blue Eyes - [シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[キャリー・ブラザーズ](https://ja.wikipedia.org/wiki/キャリー・ブラザーズ "wikilink")の楽曲。日本未発売。([2004年](../Page/2004年.md "wikilink"))
-  - Blue Eyes - パソコンゲームソフト『[朝凪のアクアノーツ](https://ja.wikipedia.org/wiki/朝凪のアクアノーツ "wikilink")』のエンディングテーマ。歌唱・作詞：[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")／作曲・編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")。([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"))
+  - Blue Eyes - パソコンゲームソフト『[朝凪のアクアノーツ](../Page/朝凪のアクアノーツ.md "wikilink")』のエンディングテーマ。歌唱・作詞：[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")／作曲・編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")。([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"))
 
 ## 漫画
 

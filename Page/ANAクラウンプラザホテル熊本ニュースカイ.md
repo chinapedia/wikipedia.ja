@@ -21,7 +21,7 @@
 
   - [1950年](../Page/1950年.md "wikilink") - 前身の「松乃井旅館」設立
   - [1966年](../Page/1966年.md "wikilink")7月 - 松乃井旅館が火災で焼失
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")11月 - 松乃井旅館の跡地に「ニュースカイホテル」として開業（本館8階建76室）
+  - [1968年](../Page/1968年.md "wikilink")11月 - 松乃井旅館の跡地に「ニュースカイホテル」として開業（本館8階建76室）
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")7月 - 11階建ての西館を増設
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")7月 - 全日空ホテルズに加盟（販売協力契約）
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")4月 - 25階建ての東館を増設、全日空ホテルズとの契約をフランチャイズ（運営指導）に変更

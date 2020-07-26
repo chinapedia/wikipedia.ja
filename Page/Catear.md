@@ -9,7 +9,7 @@
 
 『Cloth×Close』は、ヒロインが全員男性（女装）にも関わらず[美少女ゲームアワード2006に出場し](https://ja.wikipedia.org/wiki/萌えゲーアワード "wikilink")、上位進出を果たした。また、2007年3月現在、「女装」「[両性具有](../Page/両性具有.md "wikilink")」「[男色](../Page/男色.md "wikilink")」をキーワードにした最新作『屠殺の園』も美少女ゲームアワード2007にエントリーしている。
 
-公式サイトでは自社ブランドのゲーム紹介のほか、[かつらなど女装用品の通信販売も行っている](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。ソフトの販売は当初、[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")・[南町奉行所が行っていたが](../Page/南町奉行所_\(アニメ制作会社\).md "wikilink")[2007年](../Page/2007年.md "wikilink")以降は[アールエスケイ](https://ja.wikipedia.org/wiki/アールエスケイ "wikilink")の販売となっている。
+公式サイトでは自社ブランドのゲーム紹介のほか、[かつらなど女装用品の通信販売も行っている](../Page/かつら_\(装身具\).md "wikilink")。ソフトの販売は当初、[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")・[南町奉行所が行っていたが](../Page/南町奉行所_\(アニメ制作会社\).md "wikilink")[2007年](../Page/2007年.md "wikilink")以降は[アールエスケイ](https://ja.wikipedia.org/wiki/アールエスケイ "wikilink")の販売となっている。
 
 ## 作品リスト
 

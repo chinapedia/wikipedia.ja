@@ -3,7 +3,7 @@
 
 『**zero選挙**』（ゼロせんきょ）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/NNN "wikilink")系列）で、[2007年](../Page/2007年.md "wikilink")（平成19年）[7月29日](../Page/7月29日.md "wikilink")の[第21回参議院議員通常選挙](../Page/第21回参議院議員通常選挙.md "wikilink")から[生放送](../Page/生放送.md "wikilink")されている[選挙特別番組](../Page/選挙特別番組.md "wikilink")である。
 
-[平日](../Page/平日.md "wikilink")[夜の報道番組](https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠 "wikilink")『**[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")**』\[1\]を基幹番組とし、平日[夕方の報道番組](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』\[2\]からもキャスター陣が出演する。
+[平日](../Page/平日.md "wikilink")[夜の報道番組](../Page/日本テレビ系列深夜ニュース枠.md "wikilink")『**[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")**』\[1\]を基幹番組とし、平日[夕方の報道番組](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』\[2\]からもキャスター陣が出演する。
 
 ## 概要
 
@@ -68,7 +68,7 @@
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p><a href="../Page/山岸舞彩.md" title="wikilink">山岸舞彩</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+<td><p><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td><p><a href="../Page/右松健太.md" title="wikilink">右松健太</a>[10]</p></td>
 </tr>
 <tr class="even">
@@ -181,7 +181,7 @@
   - 中継担当
       - 青山和弘（民主党開票センター）
       - 小栗泉（自民党本部）
-      - 森麻季（[小池百合子](https://ja.wikipedia.org/wiki/小池百合子 "wikilink")事務所）
+      - 森麻季（[小池百合子](../Page/小池百合子.md "wikilink")事務所）
 
 #### 2010年参院選での出演者
 
@@ -554,7 +554,7 @@
 
   - [日本海テレビでは](../Page/日本海テレビジョン放送.md "wikilink")、タイトルを「ZERO選挙鳥取・島根」と題して放送している。テロップは全国版と類似している。
 
-  - [広島テレビでは](../Page/広島テレビ放送.md "wikilink")、ローカル枠でU字表示で各地の当確情報を流し、真ん中の画面で広テレ側の映像を流している。またスタジオは以前の選挙特番と同じく『[テレビ宣言](../Page/テレビ宣言.md "wikilink")』→『[テレビ派](https://ja.wikipedia.org/wiki/テレビ派 "wikilink")』で使用しているスタジオを使用しているが、雰囲気を日テレの特設スタジオと似せている（色調：茶色→ライトグリーン）。テロップのテンプレートや一部の動作も日テレと統一している。全国パート内での広島県選挙区開票速報が画面中央下に不定期に一定時間出るため、本来映る筈の日本各地の当確速報が広テレ出しの速報と被るため、広島ではその間の当確情報が見ることができない。
+  - [広島テレビでは](../Page/広島テレビ放送.md "wikilink")、ローカル枠でU字表示で各地の当確情報を流し、真ん中の画面で広テレ側の映像を流している。またスタジオは以前の選挙特番と同じく『[テレビ宣言](../Page/テレビ宣言.md "wikilink")』→『[テレビ派](../Page/テレビ派.md "wikilink")』で使用しているスタジオを使用しているが、雰囲気を日テレの特設スタジオと似せている（色調：茶色→ライトグリーン）。テロップのテンプレートや一部の動作も日テレと統一している。全国パート内での広島県選挙区開票速報が画面中央下に不定期に一定時間出るため、本来映る筈の日本各地の当確速報が広テレ出しの速報と被るため、広島ではその間の当確情報が見ることができない。
 
       - 2009年では全国の当確速報と各党の獲得議席数をローカル枠のみ画面下に背景付きで表示を行っている。
 

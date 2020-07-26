@@ -88,7 +88,7 @@
   - 12:31頃　**メシ・リク**
   - 12:47頃　**エンディング**
       -
-        締めくくりに、次番組[K-MIX 2ストライク1ボールの](https://ja.wikipedia.org/wiki/K-MIX_2ストライク1ボール "wikilink")[廣木弓子](../Page/廣木弓子.md "wikilink")パーソナリティー（金曜日は[K-MIX Rainbow Fly-Dayの](https://ja.wikipedia.org/wiki/K-MIX_Rainbow_Fly-Day "wikilink")[kainatsu](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")）とのクロストーク。
+        締めくくりに、次番組[K-MIX 2ストライク1ボールの](../Page/K-MIX_2ストライク1ボール.md "wikilink")[廣木弓子](../Page/廣木弓子.md "wikilink")パーソナリティー（金曜日は[K-MIX Rainbow Fly-Dayの](https://ja.wikipedia.org/wiki/K-MIX_Rainbow_Fly-Day "wikilink")[kainatsu](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")）とのクロストーク。
         BGMは[鈴木茂のウッド](../Page/鈴木茂_\(ギタリスト\).md "wikilink")・ペッカー。
   - 12:55　　**快適生活ラジオショッピング**
 

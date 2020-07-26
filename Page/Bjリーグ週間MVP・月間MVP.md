@@ -67,7 +67,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ポール・ビュートラック" title="wikilink">ポール・ビュートラック</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リッキー・ウッズ" title="wikilink">リッキー・ウッズ</a></p></td>
 <td><p>リン・ワシントン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・パーカー" title="wikilink">マイケル・パーカー</a></p></td>
+<td><p><a href="../Page/マイケル・パーカー.md" title="wikilink">マイケル・パーカー</a></p></td>
 <td><p><a href="../Page/城宝匡史.md" title="wikilink">城宝匡史</a></p></td>
 </tr>
 <tr class="odd">

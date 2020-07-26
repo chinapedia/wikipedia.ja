@@ -7,7 +7,7 @@
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）- [和光高校在学中に結成](../Page/学校法人和光学園.md "wikilink")。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）- 19代目[イカ天キングに輝き](../Page/三宅裕司のいかすバンド天国.md "wikilink")、[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。
-  - [1999年](../Page/1999年.md "wikilink")（平成11年）- [中山美穂](../Page/中山美穂.md "wikilink")のアルバム「[Manifesto](https://ja.wikipedia.org/wiki/Manifesto "wikilink")」を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、およびライブツアーに参加。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）- [中山美穂](../Page/中山美穂.md "wikilink")のアルバム「[Manifesto](../Page/Manifesto.md "wikilink")」を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、およびライブツアーに参加。
 
 ## メンバー
 

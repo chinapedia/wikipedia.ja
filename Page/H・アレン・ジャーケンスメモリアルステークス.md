@@ -10,7 +10,7 @@
 [Caleb's_Posse_-_2011_Kings_Bishop.jpg](https://ja.wikipedia.org/wiki/File:Caleb's_Posse_-_2011_Kings_Bishop.jpg "fig:Caleb's_Posse_-_2011_Kings_Bishop.jpg")
 
   - [1984年](../Page/1984年.md "wikilink") - 創設
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 中止
+  - [1986年](../Page/1986年.md "wikilink") - 中止
   - [1988年](../Page/1988年.md "wikilink") - グレード制の導入によりG3に格付けされる
   - [1992年](../Page/1992年.md "wikilink") - G2に昇格
   - [1999年](../Page/1999年.md "wikilink") - G1に昇格

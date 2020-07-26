@@ -21,7 +21,7 @@
   - [岩波書店](../Page/岩波書店.md "wikilink") 『[図書](https://ja.wikipedia.org/wiki/図書_\(雑誌\) "wikilink")』
   - [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") 『[本の旅人](../Page/本の旅人.md "wikilink")』
   - [角川春樹事務所](../Page/角川春樹事務所.md "wikilink") 『ランティエ』
-  - [講談社](../Page/講談社.md "wikilink") 『[IN★POCKET](https://ja.wikipedia.org/wiki/IN★POCKET "wikilink")』『本』
+  - [講談社](../Page/講談社.md "wikilink") 『[IN★POCKET](../Page/IN★POCKET.md "wikilink")』『本』
   - [思文閣出版](https://ja.wikipedia.org/wiki/思文閣出版 "wikilink") 『鴨東通信』
   - [集英社](../Page/集英社.md "wikilink") 『[青春と読書](https://ja.wikipedia.org/wiki/青春と読書 "wikilink")』
   - [春秋社](../Page/春秋社.md "wikilink") 『春秋』

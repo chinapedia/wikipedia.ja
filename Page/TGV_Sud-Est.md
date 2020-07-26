@@ -1,7 +1,7 @@
 > この記事は[TGV Sud-Est](https://ja.wikipedia.org/wiki/TGV_Sud-Est)から翻訳されています。
 
 
-**TGV Sud-Est** (TGVシュド・エスト) は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の高速列車[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")用に[アルストム](../Page/アルストム.md "wikilink")が製造し、[フランス国鉄](../Page/フランス国鉄.md "wikilink") (SNCF) が運用を行っている[準動力集中方式](https://ja.wikipedia.org/wiki/準動力集中方式 "wikilink")の[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")までの8年間にわたり製造され、日本の[新幹線](../Page/新幹線.md "wikilink")の最高速度を上回る世界最速の列車としての基礎を築き、後に続くTGVシリーズ各車両の基本となった。
+**TGV Sud-Est** (TGVシュド・エスト) は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の高速列車[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")用に[アルストム](../Page/アルストム.md "wikilink")が製造し、[フランス国鉄](../Page/フランス国鉄.md "wikilink") (SNCF) が運用を行っている[準動力集中方式](https://ja.wikipedia.org/wiki/準動力集中方式 "wikilink")の[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")から[1986年](../Page/1986年.md "wikilink")までの8年間にわたり製造され、日本の[新幹線](../Page/新幹線.md "wikilink")の最高速度を上回る世界最速の列車としての基礎を築き、後に続くTGVシリーズ各車両の基本となった。
 
 ## 編成概要
 

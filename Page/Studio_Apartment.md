@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - また、多数のアーティストの[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")及び[リミックス](../Page/リミックス.md "wikilink")を担当している。その中でも[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")の「Life (STUDIO APARTMENT Remix)」は、リミックスながら200万ダウンロードを超えている。\[3\]
+  - また、多数のアーティストの[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")及び[リミックス](../Page/リミックス.md "wikilink")を担当している。その中でも[キマグレン](../Page/キマグレン.md "wikilink")の「Life (STUDIO APARTMENT Remix)」は、リミックスながら200万ダウンロードを超えている。\[3\]
 
 <!-- end list -->
 
@@ -626,7 +626,7 @@ BVCS-29070</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年07月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a>「<a href="../Page/ZUSHI.md" title="wikilink">ZUSHI</a>」</p></td>
+<td><p><a href="../Page/キマグレン.md" title="wikilink">キマグレン</a>「<a href="../Page/ZUSHI.md" title="wikilink">ZUSHI</a>」</p></td>
 <td><p>UMCK-1254</p></td>
 <td><p>LIFE(Smart Sports ver.) -STUDIO APARTMENT Remix-</p></td>
 </tr>

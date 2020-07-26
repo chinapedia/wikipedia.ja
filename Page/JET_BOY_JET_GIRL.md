@@ -37,6 +37,6 @@
 ## 関連項目
 
   - [年代別アニメソング一覧 (オープニング曲)](https://ja.wikipedia.org/wiki/年代別アニメソング一覧_\(オープニング曲\) "wikilink")
-  - [Anime×Music Collaboration 39 '02-'07](https://ja.wikipedia.org/wiki/Anime×Music_Collaboration_39_'02-'07 "wikilink")
+  - [Anime×Music Collaboration 39 '02-'07](../Page/Anime×Music_Collaboration_39_'02-'07.md "wikilink")
 
 [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:高橋瞳の楽曲](https://ja.wikipedia.org/wiki/Category:高橋瞳の楽曲 "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:TAKUYAが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUYAが制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

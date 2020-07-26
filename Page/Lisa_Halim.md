@@ -82,7 +82,7 @@
 4.  [菅原紗由理](https://ja.wikipedia.org/wiki/菅原紗由理 "wikilink")「**Is This Love?**」（作詞）（2010年1月27日）
 5.  [菅原紗由理](https://ja.wikipedia.org/wiki/菅原紗由理 "wikilink")「**It's My Life**」（作詞）（2010年1月27日）
 6.  [菅原紗由理](https://ja.wikipedia.org/wiki/菅原紗由理 "wikilink")「**スリル**」（作詞）（2010年1月27日）
-7.  [LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink") presents DJ No.2「**ホントノコトバfeat.Lisa Halim,Purple Revel,山猿**」(Featuring Vocal)（2010年6月9日）
+7.  [LGYankees](../Page/LGYankees.md "wikilink") presents DJ No.2「**ホントノコトバfeat.Lisa Halim,Purple Revel,山猿**」(Featuring Vocal)（2010年6月9日）
 8.  Sweet Licious「**キラキラ☆LADY feat. Lisa Halim, jyA-Me**」(Featuring Vocal／詞共作)（2010年10月6日）
 9.  [KG](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink")「**このまま二人で･･･duet with Lisa Halim**」(Featuring Vocal)（2011年2月16日）
 10. [K.J.](https://ja.wikipedia.org/wiki/K.J. "wikilink")「**愛してました、切ないくらい・・・。\<Message from K.J.\>**」（サンプリング）（2011年3月2日）

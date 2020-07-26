@@ -30,7 +30,7 @@
       - 作詞：松井五郎
       - 12thシングル、アルバム『[mind Universe](https://ja.wikipedia.org/wiki/mind_Universe "wikilink")』にも収録
 5.  **[私について](../Page/私について.md "wikilink")**
-      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+      - 作詞：[中島みゆき](../Page/中島みゆき.md "wikilink")
       - 11thシングル
 6.  **[千流の雫](../Page/千流の雫.md "wikilink")**
       - 作詞：愛絵理

@@ -7,7 +7,7 @@
 
 タイトルは[植物](../Page/植物.md "wikilink")の「[チューリップ](../Page/チューリップ.md "wikilink")（tulip）」と「唇（lip）に[チューすること](https://ja.wikipedia.org/wiki/接吻 "wikilink")」をかけたものである。
 
-[CDと](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")付きで[ジャケットが異なる](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。ジャケットの大塚の[ブロンドは](../Page/金髪.md "wikilink")[ウィッグである](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。
+[CDと](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")付きで[ジャケットが異なる](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。ジャケットの大塚の[ブロンドは](../Page/金髪.md "wikilink")[ウィッグである](../Page/かつら_\(装身具\).md "wikilink")。
 
 「『[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")』の『なぞ』」をテーマとしており、これは曲中でも歌われている。
 

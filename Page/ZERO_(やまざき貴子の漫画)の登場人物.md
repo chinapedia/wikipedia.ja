@@ -244,7 +244,7 @@
     1988年4月6日、同市立花の木谷[幼稚園](../Page/幼稚園.md "wikilink")入園。:1989年4月7日、同市立富田[小学校](../Page/小学校.md "wikilink")入学。6年生時[児童会](../Page/児童会.md "wikilink")会長就任。
     1995年4月6日、同市立富来田[中学校](../Page/中学校.md "wikilink")入学。2･3年時[生徒会](../Page/生徒会.md "wikilink")役員就任。3年時[陸上](../Page/陸上競技.md "wikilink")200M走県内新記録。
     1998年4月6日、同市立市原南[商業高校](https://ja.wikipedia.org/wiki/商業高校 "wikilink")入学。1年より[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部所属。
-    サッカー部では[エースとして活躍する](https://ja.wikipedia.org/wiki/ストライカー "wikilink")。引退後は[受験](https://ja.wikipedia.org/wiki/受験 "wikilink")勉強のため[学習塾](../Page/学習塾.md "wikilink")へ入うが、ほとんどサボっている。趣味は[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")で、[コンビニ](../Page/コンビニエンスストア.md "wikilink")「Family Mark」での[アルバイト](../Page/アルバイト.md "wikilink")代を川松・村山とともに無線機材につぎ込んでいる。仲間内では明史と特に親しく、梨香子との関係のせいで阪内とは因縁の仲である。
+    サッカー部では[エースとして活躍する](https://ja.wikipedia.org/wiki/ストライカー "wikilink")。引退後は[受験](https://ja.wikipedia.org/wiki/受験 "wikilink")勉強のため[学習塾](../Page/学習塾.md "wikilink")へ入うが、ほとんどサボっている。趣味は[アマチュア無線](../Page/アマチュア無線.md "wikilink")で、[コンビニ](../Page/コンビニエンスストア.md "wikilink")「Family Mark」での[アルバイト](../Page/アルバイト.md "wikilink")代を川松・村山とともに無線機材につぎ込んでいる。仲間内では明史と特に親しく、梨香子との関係のせいで阪内とは因縁の仲である。
     梨香子とは家が近所であり、ずっと想い続けていながらも、何となく[幼馴染](../Page/幼馴染.md "wikilink")の関係のまま高校生まで至る。好きな相手に素直になれない性格。梨香子のことを「リカ」「リッカ」「リカブス」などと呼び、口ではバカにしたような態度をとることが多いが、内心はかわいいと思っており、言っていることと考えていることが滅茶苦茶である。また、梨香子に他の男が寄り付かないよう密かに努力していたらしい。[電話](../Page/電話.md "wikilink")を先に切られるのが嫌い。
     学校の[インターネットサイトへ](../Page/ウェブサイト.md "wikilink")[メール](https://ja.wikipedia.org/wiki/メール "wikilink")を送って来た「せんどーともや」に興味を持ち、[チャット](../Page/チャット.md "wikilink")で話しかける。8月9日午後3時半に学校で会う約束をするが、その直前に爆発に巻き込まれ、出会うことは叶わなかった。
     黙示録では[阿修羅](../Page/阿修羅.md "wikilink")の問題を答えた。また、横田が開いた12天のキーワードをランダムにかける。

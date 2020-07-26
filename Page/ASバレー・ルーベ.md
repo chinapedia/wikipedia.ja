@@ -102,7 +102,7 @@
 
 <!-- end list -->
 
-  - [ナウベルチ・ビテンクール](https://ja.wikipedia.org/wiki/ナウベルチ・ビテンクール "wikilink")
+  - [ナウベルチ・ビテンクール](../Page/ナウベルチ・ビテンクール.md "wikilink")
 
   - [マウリシオ・リマ](https://ja.wikipedia.org/wiki/マウリシオ・リマ "wikilink")
 

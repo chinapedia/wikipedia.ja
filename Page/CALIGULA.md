@@ -15,7 +15,7 @@
   - [2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [隣り妻](https://ja.wikipedia.org/wiki/隣り妻 "wikilink")（再発売版や続編の『[隣り妻2 淫惑の閨房](https://ja.wikipedia.org/wiki/隣り妻2_淫惑の閨房 "wikilink")』は、関連ブランドの[Gash](https://ja.wikipedia.org/wiki/Gash "wikilink")より発売）
   - 2005年[12月29日](../Page/12月29日.md "wikilink") - [隣り妻 feautring 早川裕美・国府津涼子](https://ja.wikipedia.org/wiki/隣り妻 "wikilink")ミニファンディスク
   - [2006年](../Page/2006年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink") - [ヤミノカナタ](https://ja.wikipedia.org/wiki/ヤミノカナタ "wikilink")
-  - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [Alea -アレア- 紅き月を遙かに望み](https://ja.wikipedia.org/wiki/Alea_-アレア-_紅き月を遙かに望み "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - [Alea -アレア- 紅き月を遙かに望み](https://ja.wikipedia.org/wiki/Alea_-アレア-_紅き月を遙かに望み "wikilink")
   - 2007年[12月14日](../Page/12月14日.md "wikilink") - [咲き乱れ](https://ja.wikipedia.org/wiki/咲き乱れ "wikilink")
   - [2009年](../Page/2009年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [真説 猟奇の檻 第2章](https://ja.wikipedia.org/wiki/猟奇の檻_第2章#真説_猟奇の檻_第2章 "wikilink")
 

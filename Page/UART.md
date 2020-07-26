@@ -1,7 +1,7 @@
 > この記事は[UART](https://ja.wikipedia.org/wiki/UART)から翻訳されています。
 
 
-**UART** (Universal Asynchronous Receiver/Transmitter, ユーアート) は、[調歩同期方式による](https://ja.wikipedia.org/wiki/同期方式#調歩同期式 "wikilink")[シリアル信号を](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")[パラレル](../Page/パラレル.md "wikilink")信号に変換したり、その逆方向の変換を行うための[集積回路](../Page/集積回路.md "wikilink")である。本機能のみがパッケージングされたICで供給されるものと、[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の[ペリフェラル](https://ja.wikipedia.org/wiki/ペリフェラル "wikilink")の一部として内蔵されるものとがある。[マキシムのMAX](https://ja.wikipedia.org/wiki/マキシム・インテグレーテッド "wikilink")232のような、[RS-232](../Page/RS-232.md "wikilink")C規格に準拠する信号レベルに変換するICと組み合わせて、外部機器との[インタフェースとして利用されるのが一般的である](../Page/インタフェース_\(情報技術\).md "wikilink")。UARTに、[同期方式のシリアル信号を変換するための回路を追加したものを](https://ja.wikipedia.org/wiki/同期方式#同期式 "wikilink")、**USART** (Universal Synchronous Asynchronous Receiver/Transmitter) と呼ぶ。
+**UART** (Universal Asynchronous Receiver/Transmitter, ユーアート) は、[調歩同期方式による](https://ja.wikipedia.org/wiki/同期方式#調歩同期式 "wikilink")[シリアル信号を](../Page/シリアル通信.md "wikilink")[パラレル](../Page/パラレル.md "wikilink")信号に変換したり、その逆方向の変換を行うための[集積回路](../Page/集積回路.md "wikilink")である。本機能のみがパッケージングされたICで供給されるものと、[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の[ペリフェラル](https://ja.wikipedia.org/wiki/ペリフェラル "wikilink")の一部として内蔵されるものとがある。[マキシムのMAX](https://ja.wikipedia.org/wiki/マキシム・インテグレーテッド "wikilink")232のような、[RS-232](../Page/RS-232.md "wikilink")C規格に準拠する信号レベルに変換するICと組み合わせて、外部機器との[インタフェースとして利用されるのが一般的である](../Page/インタフェース_\(情報技術\).md "wikilink")。UARTに、[同期方式のシリアル信号を変換するための回路を追加したものを](https://ja.wikipedia.org/wiki/同期方式#同期式 "wikilink")、**USART** (Universal Synchronous Asynchronous Receiver/Transmitter) と呼ぶ。
 
 ## 代表的なUART
 

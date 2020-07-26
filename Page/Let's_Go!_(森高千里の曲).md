@@ -5,7 +5,7 @@
 
 カップリングの「Let's Go\!(ll)」と共に「[ローソン](../Page/ローソン.md "wikilink")へ行かなくちゃ」TVCMテーマソング。ローソン店内でもよく流れていたが、CDのセールスとしては今一つに終わった。CMには[つぶやきシロー](../Page/つぶやきシロー.md "wikilink")と[中山エミリ](../Page/中山エミリ.md "wikilink")が出演していた。
 
-『[PEACHBERRY](https://ja.wikipedia.org/wiki/PEACHBERRY "wikilink")』にも収録されている。
+『[PEACHBERRY](../Page/PEACHBERRY.md "wikilink")』にも収録されている。
 
 ローソンのCMで共演していた[細野晴臣](../Page/細野晴臣.md "wikilink")がプロデュースした「ミラクルウーマン」が収録されたシングルレコード版が存在する。こちらはインディーズレーベル扱いとなっており、型番はSLS-002。
 

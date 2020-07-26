@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月に発生した[スペースシャトル](../Page/スペースシャトル.md "wikilink")・[チャレンジャー号爆発事故](../Page/チャレンジャー号爆発事故.md "wikilink")は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[軍事衛星](https://ja.wikipedia.org/wiki/軍事衛星 "wikilink")打ち上げ能力に問題をきたすものであった。そのため、アメリカ空軍では大型衛星も打ち上げ可能なタイタンIVを開発し、1989年から運用を開始した。
+[1986年](../Page/1986年.md "wikilink")1月に発生した[スペースシャトル](../Page/スペースシャトル.md "wikilink")・[チャレンジャー号爆発事故](../Page/チャレンジャー号爆発事故.md "wikilink")は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[軍事衛星](https://ja.wikipedia.org/wiki/軍事衛星 "wikilink")打ち上げ能力に問題をきたすものであった。そのため、アメリカ空軍では大型衛星も打ち上げ可能なタイタンIVを開発し、1989年から運用を開始した。
 
 タイタンIVは2基の大型固体燃料ロケットブースターおよび2段式の液体燃料ロケットを基本形としている。必要に応じ最上段として、[セントールロケット](../Page/セントール_\(ロケット\).md "wikilink")、[IUSなどが追加される](https://ja.wikipedia.org/wiki/慣性上段ロケット "wikilink")。液体燃料ロケットは[酸化剤](../Page/酸化剤.md "wikilink")に[四酸化二窒素](../Page/四酸化二窒素.md "wikilink") (N<sub>2</sub>O<sub>4</sub>)、燃料に[エアロジン-50](https://ja.wikipedia.org/wiki/エアロジン-50 "wikilink") ([ヒドラジン](../Page/ヒドラジン.md "wikilink"))を用いる。打ち上げ施設はケープカナベラル空軍基地のSLC-40およびSLC-41、ヴァンデンバーグ空軍基地のSLC-4Eを用いた。
 

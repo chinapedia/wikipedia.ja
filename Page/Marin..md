@@ -62,13 +62,13 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - Monthly2時間 撮れたて素材まんま出し （7月15日、ワープエンタテインメント）他出演:[志保](../Page/志保_\(AV女優\).md "wikilink")、[nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")、[杉山圭](../Page/杉山圭.md "wikilink")、[米倉夏弥](../Page/米倉夏弥.md "wikilink")、[寧々](../Page/寧々_\(AV女優\).md "wikilink")、[桐島りおん](https://ja.wikipedia.org/wiki/桐島りおん "wikilink")、[伊川なち](https://ja.wikipedia.org/wiki/伊川なち "wikilink")
   - ギャルコレ\! 3 -素人ギャル即ハメパラダイス- （7月28日、うまなみ。）他出演:[白鳥あきら](../Page/白鳥あきら.md "wikilink")、倉木ゆり、[結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、白木彩、[聖瑛麻](https://ja.wikipedia.org/wiki/聖瑛麻 "wikilink")、姫野杏
   - Wet\*Gals/Marin．（8月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し2 （8月15日、ワープエンタテインメント）他出演:桐島りおん、[美波さら](https://ja.wikipedia.org/wiki/美波さら "wikilink")、[笠木あやか](../Page/笠木あやか.md "wikilink")、寧々、伊川なち、志保、米倉夏弥、[星川ヒカル](../Page/星川ヒカル.md "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し2 （8月15日、ワープエンタテインメント）他出演:桐島りおん、[美波さら](../Page/美波さら.md "wikilink")、[笠木あやか](../Page/笠木あやか.md "wikilink")、寧々、伊川なち、志保、米倉夏弥、[星川ヒカル](../Page/星川ヒカル.md "wikilink")
   - うまなみプレゼンツ20 ギャルコレ\! 4時間 2 （8月25日、おかず。）
   - 姫ぎゃる★スタイル （9月5日、ワープエンタテインメント）
   - Monthly2時間 撮れたて素材まんま出し3 （9月15日、ワープエンタテインメント）他出演:志保、寧々、米倉夏弥、伊川なち、[持田茜](../Page/しじみ_\(女優\).md "wikilink")、[星ありす](../Page/星ありす.md "wikilink")、[中谷エリカ](https://ja.wikipedia.org/wiki/中谷エリカ "wikilink")
   - うまなみプレゼンツ（21）S級素人ギャル千人斬り\!4時間 4 （9月22日、おかず。）うまなみ。作品『S級 素人ギャル千人斬り\! 7』のセルDVD化作品 他出演:[坂上友香](https://ja.wikipedia.org/wiki/坂上友香 "wikilink")、[大石もえ](../Page/大石もえ.md "wikilink")、藤原ミカ、あだちももこ、今井みすず、蒼井マキ、[柏木はる](https://ja.wikipedia.org/wiki/柏木はる "wikilink")
   - 接吻カフェ/Marin． （10月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し4 （10月15日、ワープエンタテインメント）他出演:伊川なち、志保、[上村愛](../Page/上村愛.md "wikilink")、米倉夏弥、RIONA、[唐沢美樹](https://ja.wikipedia.org/wiki/唐沢美樹 "wikilink")、[椎名りく](../Page/椎名りく.md "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し4 （10月15日、ワープエンタテインメント）他出演:伊川なち、志保、[上村愛](../Page/上村愛.md "wikilink")、米倉夏弥、RIONA、[唐沢美樹](../Page/唐沢美樹.md "wikilink")、[椎名りく](../Page/椎名りく.md "wikilink")
   - うまなみ。プレゼンツ24 素人ギャルをナンパして潮吹かせちゃいました\!4時間 （10月27日、おかず。）オムニバス作品
   - Monthly2時間 撮れたて素材まんま出し5 （11月15日、ワープエンタテインメント）他出演:志保、美波さら、Kokoro、[風間ゆみ](../Page/風間ゆみ.md "wikilink")
   - チ●ポが生えたギャル高生／Marin． （12月5日、ワープエンタテインメント）

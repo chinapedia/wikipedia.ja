@@ -1,7 +1,7 @@
 > この記事は[Source Engine](https://ja.wikipedia.org/wiki/Source_Engine)から翻訳されています。
 
 
-**Source Engine**（**ソースエンジン**）は、[Valve Softwareによって開発された](https://ja.wikipedia.org/wiki/Valve_Software "wikilink")[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")。[id Softwareの](https://ja.wikipedia.org/wiki/id_Software "wikilink")[Quake Engineを元にして](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")、Valveが開発したエンジンを更に改造したものである。初めてSourceエンジンで制作されたゲームは2004年の[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")。同年リリースの[DOOM3エンジンと共に](https://ja.wikipedia.org/wiki/Quake_Engine "wikilink")、3Dゲームのグラフィックのレベルを大きくに引き上げたエンジンとして有名である。また、[Modの制作が非常に盛んなエンジンでもある](../Page/Mod_\(コンピュータゲーム\).md "wikilink")。ゲームのModを専門に扱うウェブサイト[Mod DBのゲームエンジン評価数ランキングでは](https://ja.wikipedia.org/wiki/:en:Mod_DB "wikilink")、2013年現在第1位であり、第2位である[Unityの](https://ja.wikipedia.org/wiki/Unity_\(ゲームエンジン\) "wikilink")390票を大きく引き離す1020票を獲得している。
+**Source Engine**（**ソースエンジン**）は、[Valve Softwareによって開発された](https://ja.wikipedia.org/wiki/Valve_Software "wikilink")[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")。[id Softwareの](https://ja.wikipedia.org/wiki/id_Software "wikilink")[Quake Engineを元にして](../Page/Quake_Engine.md "wikilink")、Valveが開発したエンジンを更に改造したものである。初めてSourceエンジンで制作されたゲームは2004年の[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")。同年リリースの[DOOM3エンジンと共に](../Page/Quake_Engine.md "wikilink")、3Dゲームのグラフィックのレベルを大きくに引き上げたエンジンとして有名である。また、[Modの制作が非常に盛んなエンジンでもある](../Page/Mod_\(コンピュータゲーム\).md "wikilink")。ゲームのModを専門に扱うウェブサイト[Mod DBのゲームエンジン評価数ランキングでは](https://ja.wikipedia.org/wiki/:en:Mod_DB "wikilink")、2013年現在第1位であり、第2位である[Unityの](https://ja.wikipedia.org/wiki/Unity_\(ゲームエンジン\) "wikilink")390票を大きく引き離す1020票を獲得している。
 
 ## 特徴
 

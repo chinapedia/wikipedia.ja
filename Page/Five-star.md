@@ -21,7 +21,7 @@
 4.  **[スタンドアップ\!シスター](../Page/スタンドアップ!シスター.md "wikilink")**
 5.  **[センチメンタルジャーニー](https://ja.wikipedia.org/wiki/センチメンタルジャーニー_\(YUKIの曲\) "wikilink")**
 6.  **[ハミングバード](https://ja.wikipedia.org/wiki/ハミングバード_\(YUKIの曲\) "wikilink")**
-7.  **[Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")**
+7.  **[Home Sweet Home](../Page/Home_Sweet_Home_\(YUKIの曲\).md "wikilink")**
 8.  **[ハローグッバイ](../Page/ハローグッバイ_\(YUKIの曲\).md "wikilink")**
 9.  **[JOY](../Page/JOY_\(YUKIの曲\).md "wikilink")**
 10. **[長い夢](../Page/長い夢_\(YUKIの曲\).md "wikilink")**

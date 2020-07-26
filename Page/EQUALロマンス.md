@@ -12,7 +12,7 @@
 1.  「**EQUALロマンス**」
       - 作詞: [及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲: [山口美央子](https://ja.wikipedia.org/wiki/山口美央子 "wikilink")、編曲: [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
 2.  「**乙女のリハーサル**」
-      - 作詞: 及川眠子、作曲: [岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")、編曲: 中村哲
+      - 作詞: 及川眠子、作曲: [岩田雅之](../Page/岩田雅之.md "wikilink")、編曲: 中村哲
 
 ## カバーしたグループ・歌手
 

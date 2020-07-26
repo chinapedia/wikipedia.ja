@@ -60,7 +60,7 @@
 
 ## 関連項目
 
-  - [要注意歌謡曲指定制度](https://ja.wikipedia.org/wiki/要注意歌謡曲指定制度 "wikilink")
+  - [要注意歌謡曲指定制度](../Page/要注意歌謡曲指定制度.md "wikilink")
 
 ## 外部リンク
 

@@ -24,7 +24,7 @@
   - ×FCペラーダ福島（2008年から「[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")」に改称）（2014年からJ3）
   - [ビアンコーネ福島](../Page/ビアンコーネ福島.md "wikilink")
   - [アビラーション](../Page/アビラーション.md "wikilink")
-  - [つくばFC](https://ja.wikipedia.org/wiki/つくばFC "wikilink")
+  - [つくばFC](../Page/つくばFC.md "wikilink")
   - ×[栃木SC](https://ja.wikipedia.org/wiki/栃木サッカークラブ "wikilink")（2009年からJ2）
   - [今市FCアルシオーネ](https://ja.wikipedia.org/wiki/今市FCアルシオーネ "wikilink")
   - ×[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")（2012年のみJ2、2014年からJ3）

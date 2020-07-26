@@ -3,7 +3,7 @@
 
 **CRAZY-A**（クレイジーエー、本名：瀬谷章、[1962年](../Page/1962年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[プロデューサーとして活動している](../Page/音楽プロデューサー.md "wikilink")。
 
-日本で初めて[Bボーイ](https://ja.wikipedia.org/wiki/Bボーイ "wikilink")と呼ばれ、日本最大のヒップホップイベント[B BOY PARKの創始者](../Page/B_BOY_PARK.md "wikilink")。
+日本で初めて[Bボーイ](../Page/Bボーイ.md "wikilink")と呼ばれ、日本最大のヒップホップイベント[B BOY PARKの創始者](../Page/B_BOY_PARK.md "wikilink")。
 
 また、[ZOOのメンバーNAOYAの実兄である](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")。
 

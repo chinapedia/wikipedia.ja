@@ -63,7 +63,7 @@
 </tr>
 <tr class="even">
 <td><p>ヘンリー・ウェイン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・アーノルド" title="wikilink">トム・アーノルド</a></p></td>
+<td><p><a href="../Page/トム・アーノルド.md" title="wikilink">トム・アーノルド</a></p></td>
 <td><p><a href="../Page/西村知道.md" title="wikilink">西村知道</a></p></td>
 </tr>
 <tr class="odd">

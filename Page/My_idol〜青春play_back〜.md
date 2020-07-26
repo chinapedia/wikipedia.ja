@@ -19,13 +19,13 @@
 | 03 | [わたしの青い鳥](../Page/わたしの青い鳥.md "wikilink")                                    | [桜田淳子](../Page/桜田淳子.md "wikilink")                    | 1973年8月25日  |                                                        |
 | 04 | [二重唱 (デュエット)](../Page/二重唱_\(デュエット\).md "wikilink")                          | [岩崎宏美](../Page/岩崎宏美.md "wikilink")                    | 1975年4月25日  |                                                        |
 | 05 | [いつでも答えはYESなのよ\!](https://ja.wikipedia.org/wiki/いつでも答えはYESなのよ! "wikilink")  | [甲斐智枝美](../Page/甲斐智枝美.md "wikilink")                  | 1981年       |                                                        |
-| 06 | [狼なんか怖くない](https://ja.wikipedia.org/wiki/狼なんか怖くない_\(石野真子の曲\) "wikilink")    | [石野真子](../Page/石野真子.md "wikilink")                    | 1978年3月25日  |                                                        |
+| 06 | [狼なんか怖くない](../Page/狼なんか怖くない_\(石野真子の曲\).md "wikilink")                       | [石野真子](../Page/石野真子.md "wikilink")                    | 1978年3月25日  |                                                        |
 | 07 | [恋のインディアン人形](https://ja.wikipedia.org/wiki/恋のインディアン人形 "wikilink")           | [リンリン・ランラン](../Page/リンリン・ランラン.md "wikilink")          | 1974年4月15日  |                                                        |
 | 08 | [若草のデート](https://ja.wikipedia.org/wiki/若草のデート "wikilink")                   | [北村優子](../Page/北村優子.md "wikilink")                    | 1976年3月     |                                                        |
 | 09 | [はじめての出来事](../Page/はじめての出来事.md "wikilink")                                  | 桜田淳子                                                  | 1974年12月5日  |                                                        |
 | 10 | [真夜中のサブリナ](https://ja.wikipedia.org/wiki/真夜中のサブリナ "wikilink")               | [高岡早紀](https://ja.wikipedia.org/wiki/高岡早紀 "wikilink") | 1988年4月30日  |                                                        |
 | 11 | [男のコになりたい](https://ja.wikipedia.org/wiki/男のコになりたい "wikilink")               | [酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink") | 1987年2月5日   |                                                        |
-| 12 | [わたしの首領](https://ja.wikipedia.org/wiki/わたしの首領 "wikilink")                   | 石野真子                                                  | 1978年6月25日  |                                                        |
+| 12 | [わたしの首領](../Page/わたしの首領.md "wikilink")                                      | 石野真子                                                  | 1978年6月25日  |                                                        |
 | 13 | [天使と悪魔（ナンパされたい編）](https://ja.wikipedia.org/wiki/天使と悪魔（ナンパされたい編） "wikilink") | [伊藤さやか](../Page/伊藤さやか.md "wikilink")                  | 1982年5月     |                                                        |
 | 14 | [渚のシンドバッド](../Page/渚のシンドバッド.md "wikilink")                                  | ピンク・レディー                                              | 1977年6月10日  |                                                        |
 | 15 | [センチメンタル・ジャーニー](../Page/センチメンタル・ジャーニー_\(松本伊代の曲\).md "wikilink")             | [松本伊代](../Page/松本伊代.md "wikilink")                    | 1981年10月21日 |                                                        |
@@ -109,7 +109,7 @@
 | 08 | [ねらわれた少女](https://ja.wikipedia.org/wiki/ねらわれた少女 "wikilink")                                     | [真鍋ちえみ](https://ja.wikipedia.org/wiki/真鍋ちえみ "wikilink") | 1982年5月1日   |                    |
 | 09 | [バレンタイン・キッス](../Page/バレンタイン・キッス.md "wikilink")                                                  | [国生さゆり](../Page/国生さゆり.md "wikilink")                    | 1986年2月1日   |                    |
 | 10 | [Never Say Good-Bye](https://ja.wikipedia.org/wiki/Never_Say_Good-Bye "wikilink")（80'S Version） | 小比留巻かほる                                                 | 1985年10月21日 | EPIC Records       |
-| 11 | [駈けてきた処女](https://ja.wikipedia.org/wiki/駈けてきた処女 "wikilink")                                     | [三田寛子](../Page/三田寛子.md "wikilink")                      | 1982年3月21日  | Sony Music Records |
+| 11 | [駈けてきた処女](../Page/駈けてきた処女.md "wikilink")                                                        | [三田寛子](../Page/三田寛子.md "wikilink")                      | 1982年3月21日  | Sony Music Records |
 | 12 | [TOO ADULT](https://ja.wikipedia.org/wiki/TOO_ADULT "wikilink")                                 | [渡辺美奈代](../Page/渡辺美奈代.md "wikilink")                    | 1987年1月15日  |                    |
 | 13 | [ドリームラッシュ](https://ja.wikipedia.org/wiki/ドリームラッシュ "wikilink")                                   | [宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")   | 1989年9月15日  |                    |
 | 14 | [天国にいちばん近い島](../Page/天国にいちばん近い島_\(曲\).md "wikilink")                                            | 原田知世                                                    | 1984年10月10日 |                    |

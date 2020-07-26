@@ -66,7 +66,7 @@
 
 マルチトラックでの音楽編集機能、[記譜機能](../Page/記譜法.md "wikilink")、[サラウンド](../Page/サラウンド.md "wikilink")サウンド機能（5.1chと7.1ch）を提供する。 互換性のある他ソフトウェアから、オーディオ・ループ素材を取り込み、[ミックスダウンする事も可能](../Page/ミキシング.md "wikilink")。また、64bit浮動小数点オーディオエンジンに対応している。
 
-オーディオ出力オプション（[64bitマスターを含む](https://ja.wikipedia.org/wiki/64ビット "wikilink")）は、[AIFF](../Page/AIFF.md "wikilink")、[AU](../Page/Sunオーディオファイル.md "wikilink")、CAF、[FLAC](../Page/FLAC.md "wikilink")、RAW、SD、[W64 (Sony Wave-64)、WAV (Microsoft)である](../Page/WAV.md "wikilink")。
+オーディオ出力オプション（[64bitマスターを含む](../Page/64ビット.md "wikilink")）は、[AIFF](../Page/AIFF.md "wikilink")、[AU](../Page/Sunオーディオファイル.md "wikilink")、CAF、[FLAC](../Page/FLAC.md "wikilink")、RAW、SD、[W64 (Sony Wave-64)、WAV (Microsoft)である](../Page/WAV.md "wikilink")。
 
 2015年のバージョンからは、[DSDフォーマットのネイティブ編集に対応している](../Page/Direct_Stream_Digital.md "wikilink")。
 

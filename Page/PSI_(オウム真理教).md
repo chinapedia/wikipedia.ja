@@ -5,7 +5,7 @@
 
 ## 概要
 
-このヘッドギアは[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")科学技術庁大臣[村井秀夫](https://ja.wikipedia.org/wiki/村井秀夫 "wikilink")\[1\]の発明品で、教団の説明によると、「**ヘッドギアには[電極](../Page/電極.md "wikilink")が付いており、[麻原彰晃](https://ja.wikipedia.org/wiki/麻原彰晃 "wikilink")の[脳波](https://ja.wikipedia.org/wiki/脳波 "wikilink")を再現した数ボルトの電流を流すことで、麻原の[脳波](https://ja.wikipedia.org/wiki/脳波 "wikilink")と自分の脳波を同調させるもの**」といううたい文句であった。以前は電極を直接頭に貼り付けて電流を流していた。麻原自身もPSIがないと気が狂いそうになるといって度々着用しており\[2\]、逮捕時も使用していた\[3\]。
+このヘッドギアは[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")科学技術庁大臣[村井秀夫](../Page/村井秀夫.md "wikilink")\[1\]の発明品で、教団の説明によると、「**ヘッドギアには[電極](../Page/電極.md "wikilink")が付いており、[麻原彰晃](https://ja.wikipedia.org/wiki/麻原彰晃 "wikilink")の[脳波](https://ja.wikipedia.org/wiki/脳波 "wikilink")を再現した数ボルトの電流を流すことで、麻原の[脳波](https://ja.wikipedia.org/wiki/脳波 "wikilink")と自分の脳波を同調させるもの**」といううたい文句であった。以前は電極を直接頭に貼り付けて電流を流していた。麻原自身もPSIがないと気が狂いそうになるといって度々着用しており\[2\]、逮捕時も使用していた\[3\]。
 
 レンタルは月額10万円、購入の場合100万円という多額の[布施](../Page/布施.md "wikilink")が必要であった\[4\]。これを着用した信者は一目でオウム真理教信者とわかる姿であり、教団の[カルト](../Page/カルト.md "wikilink")性を端的に示す象徴にもなった。この点は麻原も気にしておりPSIを付けた姿を撮らないようにと命令していた\[5\]。
 
@@ -43,7 +43,7 @@
   -
 [Category:オウム真理教](https://ja.wikipedia.org/wiki/Category:オウム真理教 "wikilink") [Category:行法](https://ja.wikipedia.org/wiki/Category:行法 "wikilink") [Category:電気機器](https://ja.wikipedia.org/wiki/Category:電気機器 "wikilink") [Category:マインドコントロール](https://ja.wikipedia.org/wiki/Category:マインドコントロール "wikilink") [Category:日本の暴力](https://ja.wikipedia.org/wiki/Category:日本の暴力 "wikilink")
 
-1.  [村井秀夫](https://ja.wikipedia.org/wiki/村井秀夫 "wikilink")はこの業績により正大師に昇格した
+1.  [村井秀夫](../Page/村井秀夫.md "wikilink")はこの業績により正大師に昇格した
 2.  [小林由紀　「オウムの事件と病理の総括」 (Internet Archive)](http://wayback.archive.org/web/20160305060443/http://hikarinowa.net/kyokun/brethren/cat203/07.html) [ひかりの輪](../Page/ひかりの輪.md "wikilink")
 3.  [逮捕時の様子](https://www.youtube.com/watch?v=9LNbjCaO3Sw)（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
 4.  東京キララ社編集部『オウム真理教大辞典』 p.112

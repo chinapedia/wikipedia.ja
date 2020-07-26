@@ -29,7 +29,7 @@
 
 ## ウィークリーゲスト一覧
 
-1.  2001年4月7日　→ [新・世紀ちゃん](https://ja.wikipedia.org/wiki/川口秀樹 "wikilink")、[佐藤卓矢](https://ja.wikipedia.org/wiki/佐藤卓矢 "wikilink")（ラジオ大阪ディレクター）
+1.  2001年4月7日　→ [新・世紀ちゃん](https://ja.wikipedia.org/wiki/川口秀樹 "wikilink")、[佐藤卓矢](../Page/佐藤卓矢.md "wikilink")（ラジオ大阪ディレクター）
 2.  4月14日　→ [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
 3.  4月21日　→ [三重野瞳](../Page/三重野瞳.md "wikilink")、[正岡謙一郎](../Page/正岡謙一郎.md "wikilink")
 4.  4月28日　→ [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")

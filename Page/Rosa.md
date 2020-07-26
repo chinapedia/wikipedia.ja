@@ -21,7 +21,7 @@
 ## 収録アルバム
 
   - **Rosa**
-      - [DANCE BOX](https://ja.wikipedia.org/wiki/DANCE_BOX "wikilink") - Remix Version
+      - [DANCE BOX](../Page/DANCE_BOX.md "wikilink") - Remix Version
       - [Miho's Select](../Page/Miho's_Select.md "wikilink") - Album Version
       - [COLLECTION III](../Page/COLLECTION_III.md "wikilink")
       - [TREASURY](../Page/TREASURY.md "wikilink")

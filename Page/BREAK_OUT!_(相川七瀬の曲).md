@@ -25,7 +25,7 @@
 **BREAK OUT\!**
 
   - [Red](../Page/Red_\(相川七瀬のアルバム\).md "wikilink")
-  - [ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")
+  - [ID](../Page/ID_\(相川七瀬のアルバム\).md "wikilink")
   - [NANASE AIKAWA BEST ALBUM "ROCK or DIE"](https://ja.wikipedia.org/wiki/NANASE_AIKAWA_BEST_ALBUM_"ROCK_or_DIE" "wikilink")
   - [青春歌年鑑](../Page/青春歌年鑑.md "wikilink") 総集編
 

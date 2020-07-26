@@ -35,7 +35,7 @@
   - [STAR BOX (ニュー・キッズ・オン・ザ・ブロックのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ニュー・キッズ・オン・ザ・ブロックのアルバム\) "wikilink") / [ニュー・キッズ・オン・ザ・ブロック](../Page/ニュー・キッズ・オン・ザ・ブロック.md "wikilink")
   - [STAR BOX (パーシー・フェイスのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(パーシー・フェイスのアルバム\) "wikilink") / [パーシー・フェイス](../Page/パーシー・フェイス.md "wikilink")
   - [STAR BOX (ハービー・ハンコックのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ハービー・ハンコックのアルバム\) "wikilink") / [ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")
-  - [STAR BOX (パティ・ペイジのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(パティ・ペイジのアルバム\) "wikilink") / [パティ・ペイジ](https://ja.wikipedia.org/wiki/パティ・ペイジ "wikilink")
+  - [STAR BOX (パティ・ペイジのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(パティ・ペイジのアルバム\) "wikilink") / [パティ・ペイジ](../Page/パティ・ペイジ.md "wikilink")
   - [STAR BOX (ハリー・コニック・ジュニアのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ハリー・コニック・ジュニアのアルバム\) "wikilink") / [ハリー・コニック・ジュニア](../Page/ハリー・コニック・ジュニア.md "wikilink")
   - [STAR BOX (バングルスのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(バングルスのアルバム\) "wikilink") / [バングルス](../Page/バングルス.md "wikilink")
   - [STAR BOX (ビリー・ジョエルのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ビリー・ジョエルのアルバム\) "wikilink") / [ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")

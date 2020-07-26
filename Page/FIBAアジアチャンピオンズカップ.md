@@ -139,14 +139,14 @@
 <td><p><strong><a href="../Page/アル・イテハド.md" title="wikilink">アル・イテハド</a>（1）</strong></p></td>
 <td><p><strong>103</strong>-101<br />
 <a href="../Page/延長戦.md" title="wikilink">OT</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al-Wahda_(Damascus)" title="wikilink">Al-Wahda</a></p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2002</p></td>
 <td><p><a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a>（1）</strong></p></td>
+<td><p><strong><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a>（1）</strong></p></td>
 <td><p><strong>92</strong>-78</p></td>
 <td><p><a href="../Page/アル・イテハド.md" title="wikilink">アル・イテハド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al-Wahda_(Damascus)" title="wikilink">Al-Wahda</a></p></td>
@@ -157,7 +157,7 @@
 <td><p><a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Al-Wahda_(Damascus)" title="wikilink">Al-Wahda</a>（1）</strong></p></td>
 <td><p><strong>96</strong>-63</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/尚武" title="wikilink">尚武</a></p></td>
 </tr>
 <tr class="even">
@@ -167,13 +167,13 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Al_Hikmeh_Sagesse" title="wikilink">Al Hikmeh Sagesse</a>（3）</strong></p></td>
 <td><p><strong>72</strong>-70</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al-Wahda_(Damascus)" title="wikilink">Al-Wahda</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2005</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ケソン" title="wikilink">ケソン</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a>（2）</strong></p></td>
+<td><p><strong><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a>（2）</strong></p></td>
 <td><p><strong>83</strong>-76</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Fastlink" title="wikilink">Fastlink</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al_Hikmeh_Sagesse" title="wikilink">Al Hikmeh Sagesse</a></p></td>
@@ -185,7 +185,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Fastlink" title="wikilink">Fastlink</a>（1）</strong></p></td>
 <td><p><strong>102</strong>-64</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al_Jalaa" title="wikilink">Al Jalaa</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -194,7 +194,7 @@
 <td><p><strong> <a href="https://ja.wikipedia.org/wiki/サバ・バッテリー・テヘランBC" title="wikilink">サバ・バッテリー</a>（1）</strong></p></td>
 <td><p><strong>84</strong>-75</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Al_Jalaa" title="wikilink">Al Jalaa</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
@@ -202,7 +202,7 @@
 <td><p><a href="../Page/クウェート市.md" title="wikilink">クウェートシティ</a></p></td>
 <td><p><strong> <a href="https://ja.wikipedia.org/wiki/サバ・バッテリー・テヘランBC" title="wikilink">サバ・バッテリー</a>（2）</strong></p></td>
 <td><p><strong>82</strong>-75</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 <td><p>Al-Wasl</p></td>
 </tr>
 <tr class="odd">
@@ -220,7 +220,7 @@
 <td><p><a href="../Page/ドーハ.md" title="wikilink">ドーハ</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Mahram_Tehran" title="wikilink">Mahram Tehran</a>（2）</strong></p></td>
 <td><p><strong>93</strong>-73</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:Al-Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a></p></td>
 </tr>
 <tr class="odd">
@@ -230,7 +230,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/w:Al-Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a>（1）</strong></p></td>
 <td><p><strong>93</strong>-73</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w:Mahram_Tehran" title="wikilink">Mahram Tehran</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・ラーヤンSC" title="wikilink">アル・ラーヤンSC</a></p></td>
+<td><p><a href="../Page/アル・ラーヤンSC.md" title="wikilink">アル・ラーヤンSC</a></p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>

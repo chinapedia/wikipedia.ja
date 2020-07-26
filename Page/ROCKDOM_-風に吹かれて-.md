@@ -1,7 +1,7 @@
 > この記事は[ROCKDOM -風に吹かれて-](https://ja.wikipedia.org/wiki/ROCKDOM_-風に吹かれて-)から翻訳されています。
 
 
-「**ROCKDOM -風に吹かれて-**」（ロックダム かぜにふかれて）は、[THE ALFEEの楽曲で](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、24枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月5日](../Page/9月5日.md "wikilink")に発売された。
+「**ROCKDOM -風に吹かれて-**」（ロックダム かぜにふかれて）は、[THE ALFEEの楽曲で](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、24枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に発売された。
 
 ## 解説
 

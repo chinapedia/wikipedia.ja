@@ -28,7 +28,7 @@
 ### メインカード
 
   - 第4試合 ウェルター級 5分3R
-    ○  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") vs.  [クリス・ライトル](../Page/クリス・ライトル.md "wikilink") ×
+    ○  [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") vs.  [クリス・ライトル](../Page/クリス・ライトル.md "wikilink") ×
     2R 2:00 TKO（ドクターストップ：カット）
   - 第5試合 ライトヘビー級 5分3R
     ○  [レナート・ババル](../Page/レナート・ババル.md "wikilink") vs.  [チェール・ソネン](../Page/チェール・ソネン.md "wikilink") ×

@@ -41,7 +41,7 @@
 ## 関連項目
 
   - [ギリシャ海軍艦艇一覧](../Page/ギリシャ海軍艦艇一覧.md "wikilink")
-  - [ギリシャ海軍の歴史](https://ja.wikipedia.org/wiki/ギリシャ海軍の歴史 "wikilink")
+  - [ギリシャ海軍の歴史](../Page/ギリシャ海軍の歴史.md "wikilink")
   - [ドイツ海軍艦艇一覧](../Page/ドイツ海軍艦艇一覧.md "wikilink")
 
 ## 外部リンク

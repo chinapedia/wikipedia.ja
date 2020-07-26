@@ -631,7 +631,7 @@ the message 03 Feat. Hi-Timez</p></td>
 <tr class="odd">
 <td><p>アルバム</p></td>
 <td><p>DADDY'S HOUSE VOL.3</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p>HEY DADDY Feat. Hi-Timez</p></td>
 <td></td>
 </tr>

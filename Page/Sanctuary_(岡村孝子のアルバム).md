@@ -9,7 +9,7 @@
 
 前出「春色のメロディー」の初回生産盤と、本アルバム初回生産盤のダブル購入者へ向けた連動特典があった。内容は、水彩画家[内田新哉](https://ja.wikipedia.org/wiki/内田新哉 "wikilink")の挿絵付き[エッセイ集が応募者全員に送付されてくる](../Page/随筆.md "wikilink")、というもの。なお、そのブックレットには岡村本人によるアルバム『Sanctuary』の全曲解説も掲載されている。
 
-同年夏からは、アルバムに連動したコンサート・ツアーが行われた。[2005年](../Page/2005年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")・[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（当時）の模様は[NHK BS2にて放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")\[1\]。また、同ライヴはテレビ放送とは別編集で、2005年[11月23日](../Page/11月23日.md "wikilink")に『[Encore VI OKAMURA TAKAKO CONCERT TOUR 2005 Sanctuary](https://ja.wikipedia.org/wiki/Encore_VI_OKAMURA_TAKAKO_CONCERT_TOUR_2005_Sanctuary "wikilink")』のタイトルで[DVD](../Page/DVD.md "wikilink")ソフト化もされている。その際、ソロ・デビュー20周年を記念した[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TOY BOX](../Page/TOY_BOX_\(岡村孝子のアルバム\).md "wikilink")』も同時に発売された。
+同年夏からは、アルバムに連動したコンサート・ツアーが行われた。[2005年](../Page/2005年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")・[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（当時）の模様は[NHK BS2にて放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")\[1\]。また、同ライヴはテレビ放送とは別編集で、2005年[11月23日](../Page/11月23日.md "wikilink")に『[Encore VI OKAMURA TAKAKO CONCERT TOUR 2005 Sanctuary](../Page/Encore_VI_OKAMURA_TAKAKO_CONCERT_TOUR_2005_Sanctuary.md "wikilink")』のタイトルで[DVD](../Page/DVD.md "wikilink")ソフト化もされている。その際、ソロ・デビュー20周年を記念した[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TOY BOX](../Page/TOY_BOX_\(岡村孝子のアルバム\).md "wikilink")』も同時に発売された。
 
 ## 収録曲
 

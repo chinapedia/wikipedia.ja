@@ -701,7 +701,7 @@ MONSTER circus+</p></td>
 <li><a href="../Page/ROCK&#39;A&#39;TRENCH.md" title="wikilink">ROCK'A'TRENCH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Nothing&#39;s_Carved_In_Stone" title="wikilink">Nothing's Carved In Stone</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RYUKYUDISKO" title="wikilink">RYUKYUDISKO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a></li>
+<li><a href="../Page/キマグレン.md" title="wikilink">キマグレン</a></li>
 <li><a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></li>
 </ul></td>
 </tr>
@@ -785,7 +785,7 @@ MONSTER circus+</p></td>
 <li><a href="../Page/ガガガSP.md" title="wikilink">ガガガSP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">世界の終わり</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/小林太郎" title="wikilink">小林太郎</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HAN-KUN" title="wikilink">HAN-KUN</a></li>
+<li><a href="../Page/HAN-KUN.md" title="wikilink">HAN-KUN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/黒猫チェルシー" title="wikilink">黒猫チェルシー</a></li>
 <li><a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a></li>
 </ul></td>
@@ -1304,7 +1304,7 @@ special guest:bird/寺中友将(KEYTALK)</li>
 <li><a href="https://ja.wikipedia.org/wiki/BIGMAMA" title="wikilink">BIGMAMA</a></li>
 <li><a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a></li>
 <li><a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HAN-KUN" title="wikilink">HAN-KUN</a></li>
+<li><a href="../Page/HAN-KUN.md" title="wikilink">HAN-KUN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SPYAIR" title="wikilink">SPYAIR</a></li>
 <li><a href="../Page/ROTTENGRAFFTY.md" title="wikilink">ROTTENGRAFFTY</a></li>
 </ul></td>

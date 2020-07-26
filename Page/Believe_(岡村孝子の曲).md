@@ -7,7 +7,7 @@
 
 表題曲は、[後藤久美子](../Page/後藤久美子.md "wikilink")が出演した[日本テレビ系のドラマ](../Page/日本テレビ放送網.md "wikilink")『[風少女](https://ja.wikipedia.org/wiki/風少女 "wikilink")』の主題歌に起用された。
 
-[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は、2枚目のアルバム『[私の中の微風](../Page/私の中の微風.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月1日）に収録されている「ラスト・シーン」のライブ・バージョン。ライブビデオ（DVD）『[Encore I](https://ja.wikipedia.org/wiki/Encore_I "wikilink")』に収録されたコンサートの中で歌われたものであるが、『Encore I』にこの曲は収録されていない。なお、CDでのライブ音源はこれが唯一の作品である。長らくは生産していたが、現在8センチCDは廃盤のため入手困難となっている。
+[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は、2枚目のアルバム『[私の中の微風](../Page/私の中の微風.md "wikilink")』（[1986年](../Page/1986年.md "wikilink")7月1日）に収録されている「ラスト・シーン」のライブ・バージョン。ライブビデオ（DVD）『[Encore I](https://ja.wikipedia.org/wiki/Encore_I "wikilink")』に収録されたコンサートの中で歌われたものであるが、『Encore I』にこの曲は収録されていない。なお、CDでのライブ音源はこれが唯一の作品である。長らくは生産していたが、現在8センチCDは廃盤のため入手困難となっている。
 
 ### エピソード
 
@@ -15,7 +15,7 @@
 
 <div class="references-small">
 
-2005年5月28日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われたコンサート「Sanctuary」ツアーの映像。2005年11月23日に『[Encore VI OKAMURA TAKAKO CONCERT TOUR 2005 Sanctuary](https://ja.wikipedia.org/wiki/Encore_VI_OKAMURA_TAKAKO_CONCERT_TOUR_2005_Sanctuary "wikilink")』というタイトルで[DVD](../Page/DVD.md "wikilink")化。
+2005年5月28日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われたコンサート「Sanctuary」ツアーの映像。2005年11月23日に『[Encore VI OKAMURA TAKAKO CONCERT TOUR 2005 Sanctuary](../Page/Encore_VI_OKAMURA_TAKAKO_CONCERT_TOUR_2005_Sanctuary.md "wikilink")』というタイトルで[DVD](../Page/DVD.md "wikilink")化。
 
 </div>
 

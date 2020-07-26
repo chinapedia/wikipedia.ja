@@ -21,7 +21,7 @@
 
 ## 背景
 
-原作は、『かなしみのクリスチアーネ』(原題: "[Wir Kinder vom Bahnhof Zoo](https://ja.wikipedia.org/wiki/:de:Wir_Kinder_vom_Bahnhof_Zoo "wikilink")", 「われら[ツォー駅の子供たち](https://ja.wikipedia.org/wiki/ベルリン動物園駅 "wikilink")」)。この実録手記は、1977年から1978年にかけて、クリスチーネ・F本人の口述をもとに、独[シュテルン紙の編集者カイ](https://ja.wikipedia.org/wiki/シュテルン_\(雑誌\) "wikilink")・ヘルマンとホルスト・リークが構成した。撮影期間は1980年8月から11月、ドイツ国内公開は1981年4月3日である。
+原作は、『かなしみのクリスチアーネ』(原題: "[Wir Kinder vom Bahnhof Zoo](https://ja.wikipedia.org/wiki/:de:Wir_Kinder_vom_Bahnhof_Zoo "wikilink")", 「われら[ツォー駅の子供たち](../Page/ベルリン動物園駅.md "wikilink")」)。この実録手記は、1977年から1978年にかけて、クリスチーネ・F本人の口述をもとに、独[シュテルン紙の編集者カイ](https://ja.wikipedia.org/wiki/シュテルン_\(雑誌\) "wikilink")・ヘルマンとホルスト・リークが構成した。撮影期間は1980年8月から11月、ドイツ国内公開は1981年4月3日である。
 
 素人を俳優としてキャスティングし、ベルリンの実在のロケーションで撮影された本作は、ドラッグと売春をとりまく社会環境についての考察でもある。
 

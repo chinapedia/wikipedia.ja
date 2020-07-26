@@ -1,7 +1,7 @@
 > この記事は[BOACスチュワーデス殺人事件](https://ja.wikipedia.org/wiki/BOACスチュワーデス殺人事件)から翻訳されています。
 
 
-**BOACスチュワーデス殺人事件**（ビーオーエーシースチュワーデスさつじんじけん）は、[1959年](../Page/1959年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")34年）に発生した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[殺人事件](https://ja.wikipedia.org/wiki/殺人事件 "wikilink")。[英国海外航空](../Page/英国海外航空.md "wikilink")（BOAC、現[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")）の日本人女性[客室乗務員](../Page/客室乗務員.md "wikilink")（スチュワーデス）が[扼殺](https://ja.wikipedia.org/wiki/扼殺 "wikilink")され、遺体となって[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")で発見された。 [犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")特定・[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")[逮捕](../Page/逮捕.md "wikilink")には至らないまま、[1974年](../Page/1974年.md "wikilink")（昭和49年）3月10日に[公訴時効](../Page/公訴時効.md "wikilink")が成立、[未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")となった。
+**BOACスチュワーデス殺人事件**（ビーオーエーシースチュワーデスさつじんじけん）は、[1959年](../Page/1959年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")34年）に発生した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[殺人事件](https://ja.wikipedia.org/wiki/殺人事件 "wikilink")。[英国海外航空](../Page/英国海外航空.md "wikilink")（BOAC、現[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")）の日本人女性[客室乗務員](../Page/客室乗務員.md "wikilink")（スチュワーデス）が[扼殺](https://ja.wikipedia.org/wiki/扼殺 "wikilink")され、遺体となって[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")で発見された。 [犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")特定・[犯人](https://ja.wikipedia.org/wiki/犯人 "wikilink")[逮捕](../Page/逮捕.md "wikilink")には至らないまま、[1974年](../Page/1974年.md "wikilink")（昭和49年）3月10日に[公訴時効](../Page/公訴時効.md "wikilink")が成立、[未解決事件](../Page/未解決事件.md "wikilink")となった。
 
 ## 概要
 

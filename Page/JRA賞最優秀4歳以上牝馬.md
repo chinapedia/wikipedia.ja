@@ -163,13 +163,13 @@
 <td><p>宇都宮登</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="../Page/ヤマピット.md" title="wikilink">ヤマピット</a></p></td>
 <td><p>牝5</p></td>
 <td><p>11戦3勝<br />
 <a href="../Page/鳴尾記念.md" title="wikilink">鳴尾記念</a></p></td>
 <td><p><a href="../Page/荻伏牧場.md" title="wikilink">荻伏牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅見国一" title="wikilink">浅見国一</a></p></td>
+<td><p><a href="../Page/浅見国一.md" title="wikilink">浅見国一</a></p></td>
 <td><p>小林信夫</p></td>
 </tr>
 <tr class="even">
@@ -278,13 +278,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インターグロリア" title="wikilink">インターグロリア</a></p></td>
+<td><p><a href="../Page/インターグロリア.md" title="wikilink">インターグロリア</a></p></td>
 <td><p>牝5</p></td>
 <td><p>7戦3勝<br />
 <a href="../Page/京都牝馬ステークス.md" title="wikilink">京都牝馬特別</a></p></td>
 <td><p>辻牧場</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柳田次男" title="wikilink">柳田次男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡正雄" title="wikilink">松岡正雄</a></p></td>
+<td><p><a href="../Page/松岡正雄.md" title="wikilink">松岡正雄</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
@@ -302,7 +302,7 @@
 <td><p>牝6</p></td>
 <td><p>12戦3勝<br />
 天皇賞（秋）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石栗龍雄" title="wikilink">石栗龍雄</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高田久成" title="wikilink">高田久成</a></p></td>
 </tr>
@@ -357,7 +357,7 @@
 <td><p>（有）<a href="../Page/社台レースホース.md" title="wikilink">社台レースホース</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/タカラスチール.md" title="wikilink">タカラスチール</a></p></td>
 <td><p>牝5</p></td>
 <td><p>10戦1勝<br />
@@ -615,7 +615,7 @@ GI未勝利</p></td>
 <td><p>6戦2勝<br />
 <a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a>、<br />
 エリザベス女王杯</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トウショウ産業" title="wikilink">トウショウ産業</a>株式会社<a href="https://ja.wikipedia.org/wiki/トウショウ牧場" title="wikilink">トウショウ牧場</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トウショウ産業" title="wikilink">トウショウ産業</a>株式会社<a href="../Page/トウショウ牧場.md" title="wikilink">トウショウ牧場</a></p></td>
 <td><p><a href="../Page/鶴留明雄.md" title="wikilink">鶴留明雄</a></p></td>
 <td><p>トウショウ産業（株）</p></td>
 <td><p>255/291</p></td>

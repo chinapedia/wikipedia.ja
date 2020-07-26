@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p>ナターシャ・キリロワ</p></td>
 <td><p><a href="../Page/カタリナ・ヴィット.md" title="wikilink">カタリナ・ヴィット</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/榎本智恵子" title="wikilink">榎本智恵子</a></p></td>
+<td><p><a href="../Page/榎本智恵子.md" title="wikilink">榎本智恵子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>セルゲイ</p></td>

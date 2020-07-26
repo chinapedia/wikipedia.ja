@@ -1944,7 +1944,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="even">
 <td><p>11th</p></td>
 <td><p>2008年4月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Are_you_ready?_2007_またハートに火をつけろ!_in_OKINAWA" title="wikilink">Are you ready? 2007 またハートに火をつけろ! in OKINAWA</a></p></td>
+<td><p><a href="../Page/Are_you_ready?_2007_またハートに火をつけろ!_in_OKINAWA.md" title="wikilink">Are you ready? 2007 またハートに火をつけろ! in OKINAWA</a></p></td>
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5907〜5908</p></td>
 <td><Div Align="center">
@@ -2817,7 +2817,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <tr class="odd">
 <td><p>コンピレーションアルバム</p></td>
 <td><p>2008年3月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Anime×Music_Collaboration_39_&#39;02-&#39;07" title="wikilink">Anime×Music Collaboration 39 '02-'07</a></p></td>
+<td><p><a href="../Page/Anime×Music_Collaboration_39_&#39;02-&#39;07.md" title="wikilink">Anime×Music Collaboration 39 '02-'07</a></p></td>
 <td><p>CD(3枚組)</p></td>
 <td><p><a href="../Page/ミュージックレイン.md" title="wikilink">SMCL</a>-141〜143</p></td>
 </tr>

@@ -5,7 +5,7 @@
 
 ## 機能・役割
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")領土で、[旅客機](../Page/旅客機.md "wikilink")に[搭乗手続き](https://ja.wikipedia.org/wiki/搭乗手続き "wikilink")する際、手荷物または預け入れ荷物は、通常は[空港警備](https://ja.wikipedia.org/wiki/空港警備 "wikilink")の一環として、電磁的スクリーニング検査（X線[透視](https://ja.wikipedia.org/wiki/透視 "wikilink")検査）を行うが、運輸保安庁係官が中身を直接目視検査する場合もありうるため、一切施錠しないことが求められている。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")領土で、[旅客機](../Page/旅客機.md "wikilink")に[搭乗手続き](https://ja.wikipedia.org/wiki/搭乗手続き "wikilink")する際、手荷物または預け入れ荷物は、通常は[空港警備](../Page/空港警備.md "wikilink")の一環として、電磁的スクリーニング検査（X線[透視](https://ja.wikipedia.org/wiki/透視 "wikilink")検査）を行うが、運輸保安庁係官が中身を直接目視検査する場合もありうるため、一切施錠しないことが求められている。
 
 施錠された荷物については、運輸保安庁係官が錠機構を破壊することを認められており、破壊されたり内容物の盗難があったりしても損害補償は一切ない。
 

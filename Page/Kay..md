@@ -88,7 +88,7 @@
 <!-- end list -->
 
   - STAR BOX Kay. ガチンコブルードキュメント編（2月24日、ワープエンタテインメント）
-  - 淫語オナニー 上村理沙、[林由美香](../Page/林由美香.md "wikilink")、[青山遥](https://ja.wikipedia.org/wiki/青山遥_\(AV女優\) "wikilink")、川上怜、Kay.、南ちづる（4月14日、NEXT GROUP）
+  - 淫語オナニー 上村理沙、[林由美香](../Page/林由美香.md "wikilink")、[青山遥](../Page/青山遥_\(AV女優\).md "wikilink")、川上怜、Kay.、南ちづる（4月14日、NEXT GROUP）
 
 以下、発売日不明。
 

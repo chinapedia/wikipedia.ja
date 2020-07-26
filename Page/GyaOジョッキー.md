@@ -358,7 +358,7 @@
 <tr class="even">
 <td><p><strong>23時枠</strong></p></td>
 <td><dl>
-<dt><a href="https://ja.wikipedia.org/wiki/鳥居みゆきの社交辞令でハイタッチ" title="wikilink">鳥居みゆきの社交辞令でハイタッチ</a> 第1木曜日</dt>
+<dt><a href="../Page/鳥居みゆきの社交辞令でハイタッチ.md" title="wikilink">鳥居みゆきの社交辞令でハイタッチ</a> 第1木曜日</dt>
 
 </dl></td>
 </tr>

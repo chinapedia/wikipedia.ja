@@ -65,7 +65,7 @@
 
 パワートレーンと[プラットフォームは新規開発となっており](https://ja.wikipedia.org/wiki/トヨタ・MCプラットフォーム "wikilink")、エンジンにはデュアル[VVT-i](../Page/VVT-i.md "wikilink")を搭載して新型の[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")とスポーツエグゾーストを装備し、最大出力は180PSで最大トルクは23.9kgf·mを発生する新世代のトヨタAR型（[2AR-FE](https://ja.wikipedia.org/wiki/トヨタ・ARエンジン "wikilink")）2.5L直列4気筒を採用した。また、トランスミッションは新設計の6速[ATと](../Page/オートマチックトランスミッション.md "wikilink")6速[MTを組み合わせる](../Page/マニュアルトランスミッション.md "wikilink")。さらに、アルミホイールは先代より1インチ大きい18インチを採用する。
 
-インテリアでは、下方が、平らに成型された[ステアリング・ホイール](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink")やスポーツシートを搭載。また、後部座席には6対4式分割可倒式のシートが搭載されている。他にも8個の[エアバッグ](../Page/エアバッグ.md "wikilink")や[VSC](https://ja.wikipedia.org/wiki/VSC "wikilink")、[トラクションコントロール](https://ja.wikipedia.org/wiki/トラクションコントロール "wikilink")や、先代同様に[サンルーフ](../Page/サンルーフ.md "wikilink")なども標準装備している\[4\]。中国や中東ではトヨタ・ゼラスとして発売された。
+インテリアでは、下方が、平らに成型された[ステアリング・ホイール](../Page/ステアリング・ホイール.md "wikilink")やスポーツシートを搭載。また、後部座席には6対4式分割可倒式のシートが搭載されている。他にも8個の[エアバッグ](../Page/エアバッグ.md "wikilink")や[VSC](https://ja.wikipedia.org/wiki/VSC "wikilink")、[トラクションコントロール](https://ja.wikipedia.org/wiki/トラクションコントロール "wikilink")や、先代同様に[サンルーフ](../Page/サンルーフ.md "wikilink")なども標準装備している\[4\]。中国や中東ではトヨタ・ゼラスとして発売された。
 
 ファイル:Toyota Zelas 2.5 2011.jpg|中国・UAE名の[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")・[ゼラス](https://ja.wikipedia.org/wiki/トヨタ・ゼラス "wikilink")
 

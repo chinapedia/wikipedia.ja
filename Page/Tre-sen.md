@@ -109,7 +109,7 @@
 
 <!-- end list -->
 
-  - **トレセンバラエティー「男ZUSHI MAX」**（[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")）
+  - **トレセンバラエティー「男ZUSHI MAX」**（[キマグレン](../Page/キマグレン.md "wikilink")）
       -
         以前当局で放送されていた「男ZUSHI」の派生版。原則収録にて放送。
   - **覇魂！F・マリノス同好会**（21:00 - ）

@@ -73,7 +73,7 @@
 ## 関連作品
 
   - [OUT OF THE BLUE](../Page/OUT_OF_THE_BLUE.md "wikilink") - 「[どこまでも行こう](../Page/どこまでも行こう.md "wikilink")」（[ブリヂストン](../Page/ブリヂストン.md "wikilink")CMソング）をカヴァー。
-  - [真夜中のBoon Boon](https://ja.wikipedia.org/wiki/真夜中のBoon_Boon "wikilink") - 初回盤DVDに「いかれたBaby」のライヴ映像収録\[7\]
+  - [真夜中のBoon Boon](../Page/真夜中のBoon_Boon.md "wikilink") - 初回盤DVDに「いかれたBaby」のライヴ映像収録\[7\]
 
 ## 関連項目
 

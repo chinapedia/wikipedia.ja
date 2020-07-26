@@ -30,7 +30,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [6月9日](../Page/6月9日.md "wikilink")、3枚目のシングル「Pictures」、ライブDVD「Pictures」を同時発売。
   - [2011年](../Page/2011年.md "wikilink")
-      - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")3枚目のアルバム、「Remember the name」を発売。
+      - [1月26日](../Page/1月26日.md "wikilink")3枚目のアルバム、「Remember the name」を発売。
   - [2012年](../Page/2012年.md "wikilink")
       - [10月24日](../Page/10月24日.md "wikilink")、初のベストアルバム、「Breakfast」を発売。
       - Kの急病により、発表済みのツアー中止となる。
@@ -244,7 +244,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>2011年<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p>2011年<a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong>Remember the name</strong></p></td>
 <td><p>VPCC-80649:初回限定盤<br />
 VPCC-81696:通常盤</p></td>
@@ -534,7 +534,7 @@ TRCP-113</p></td>
   - 2012年2月26日 - DEVILOCK NIGHT THE FINAL
   - 2012年3月10日 -  2012（台湾）
   - 2012年4月2日 - PUNKSPRING 2012 EXTRA SHOWS
-  - 2012年4月5日 - [773Four RECORDS](https://ja.wikipedia.org/wiki/773Four_RECORDS "wikilink") PRESENTS "FOUR SEASONS"
+  - 2012年4月5日 - [773Four RECORDS](../Page/773Four_RECORDS.md "wikilink") PRESENTS "FOUR SEASONS"
   - 2012年4月20日 - SONIC BOMB SPECIAL
   - 2012年4月21日 - HOTDOGGPARTY Vol.3×BOO NIGHT
   - 2012年5月4日 - [J](../Page/J_\(ミュージシャン\).md "wikilink") LIVE 2012 \[ON FIRE\] -Special 3Nights Circuit-

@@ -11,7 +11,7 @@
 
 [東京アナウンス学院](https://ja.wikipedia.org/wiki/東京アナウンス学院 "wikilink")芸能バラエティ科卒業\[2\]。[東京NSC](../Page/吉本総合芸能学院.md "wikilink")3期生\[3\]出身。
 
-過去に『[エスカロップ](../Page/エスカロップ.md "wikilink")』\[4\]というコンビで活動（2001年1月 - 2005年12月。当時の相方の高橋且征はその後「ポケットパラダイス」（[SMA HEET Projectを経て](https://ja.wikipedia.org/wiki/SMA_HEET_Project "wikilink")[ビッグワールド](https://ja.wikipedia.org/wiki/ビッグワールド "wikilink")所属）というコンビで活動）。なお、これを含めて高校卒業後に組んだコンビは**35組**ほどあったという\[5\]。
+過去に『[エスカロップ](../Page/エスカロップ.md "wikilink")』\[4\]というコンビで活動（2001年1月 - 2005年12月。当時の相方の高橋且征はその後「ポケットパラダイス」（[SMA HEET Projectを経て](../Page/SMA_HEET_Project.md "wikilink")[ビッグワールド](https://ja.wikipedia.org/wiki/ビッグワールド "wikilink")所属）というコンビで活動）。なお、これを含めて高校卒業後に組んだコンビは**35組**ほどあったという\[5\]。
 
 芸名は「[サイクロン](../Page/サイクロン.md "wikilink")のように旋風を巻き起こせるように」ということと、何度コンビを組んでもうまくいかなかった経緯を踏まえて「芸人としてこれが最後のつもり」という意味で、[ラテン文字](../Page/ラテン文字.md "wikilink")[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の最後の字の[Z](../Page/Z.md "wikilink")を付けたという\[6\]。所属事務所は素敵なサムスィングからフリー、2008年2月より太田プロダクション。
 
@@ -49,7 +49,7 @@
   - [エンタの天使](../Page/エンタの天使.md "wikilink")（日本テレビ）キャッチコピーは「お悩み解決\!前向き戦士」
   - [もりすぎ★パンチ](https://ja.wikipedia.org/wiki/もりすぎ★パンチ "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")こどもの日直前SP（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、2009年5月3日・2009年12月29日）キャッチコピーは「謎のスーパーヒーロー」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")こどもの日直前SP（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、2009年5月3日・2009年12月29日）キャッチコピーは「謎のスーパーヒーロー」
   - [SUPER SURPRISE](https://ja.wikipedia.org/wiki/SUPER_SURPRISE "wikilink")（日本テレビ、2009年6月12日）
   - [ショーバト\!](https://ja.wikipedia.org/wiki/ショーバト! "wikilink")（日本テレビ）- 2010年6月1日『ミニバト\!』
   - [新世紀ネタキング決定戦](https://ja.wikipedia.org/wiki/新世紀ネタキング決定戦 "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")）- 2011年2月10日

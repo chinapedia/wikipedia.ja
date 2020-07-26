@@ -28,7 +28,7 @@
 
 ## 枠解消後
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")で「ふれあいステージ」としては終了し、同年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後、音楽の番組2本は事実上「[渋谷らいぶステージ](https://ja.wikipedia.org/wiki/渋谷らいぶステージ "wikilink")」（引き続き水前寺が進行役）に統合された。但し、[J-POP](../Page/J-POP.md "wikilink")に関しては「[ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")」が同時期からふれあいホールでの公開生放送となり、そちらで取り上げる機会が増えたため余り「-ふれあいステージ」に出演することはない。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")で「ふれあいステージ」としては終了し、同年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後、音楽の番組2本は事実上「[渋谷らいぶステージ](../Page/渋谷らいぶステージ.md "wikilink")」（引き続き水前寺が進行役）に統合された。但し、[J-POP](../Page/J-POP.md "wikilink")に関しては「[ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")」が同時期からふれあいホールでの公開生放送となり、そちらで取り上げる機会が増えたため余り「-ふれあいステージ」に出演することはない。
 
 お笑いの番組のうち「[お好み寄席](https://ja.wikipedia.org/wiki/お好み寄席 "wikilink")」は独立した番組として現在も継続。「爆笑最前線」は「["笑"たいむ](https://ja.wikipedia.org/wiki/"笑"たいむ "wikilink")（2008・2009）」として1年間放送されたが、こちらは終了し、事実上「お好み寄席」に統合。
 

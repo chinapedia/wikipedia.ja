@@ -544,7 +544,7 @@ HDMI AVケーブル<br />
 ### スペシャルエディション
 
   - The Simpsons Movieエディション
-    アメリカで2007年7月に映画『[The Simpsons Movie](https://ja.wikipedia.org/wiki/ザ・シンプソンズ_MOVIE "wikilink")』のプロモーションとして、[The Simpsonsのキャラが描かれた黄色のXbox](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink") 360がプレゼントされるキャンペーンが行われた\[45\]。
+    アメリカで2007年7月に映画『[The Simpsons Movie](https://ja.wikipedia.org/wiki/ザ・シンプソンズ_MOVIE "wikilink")』のプロモーションとして、[The Simpsonsのキャラが描かれた黄色のXbox](../Page/ザ・シンプソンズ.md "wikilink") 360がプレゼントされるキャンペーンが行われた\[45\]。
   - Halo 3スペシャルエディション
     『[Halo 3](../Page/Halo_3.md "wikilink")』の発売（日本では2007年9月27日\[46\]）と同時に特別仕様版「Halo 3スペシャルエディション」が日本ではオープンプライス、米国では$399で発売。本体・コントローラー・ヘッドセットが『Halo 3』のキャラクターにちなんだカラーリングでHDMI搭載スタンダードモデルの色違いモデルである。65nm型CPUが搭載されたFalconモデルであると言われているが、具体的な発表はない。なお、『Halo 3』のソフトは同梱されていない。以下の同梱物はスタンダードモデルとの差分のみ表記。
       - Xbox 360本体（Halo 3スペシャル エディション）

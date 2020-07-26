@@ -31,7 +31,7 @@
         初出：｢[Under Age's Song](https://ja.wikipedia.org/wiki/Under_Age's_Song "wikilink")｣（1998年7月23日）／アルバム初収録
 7.  **Invitation \[Buzz Mix\]** (3:00)
       -
-        初出：｢[Buzz Songs](https://ja.wikipedia.org/wiki/Buzz_Songs "wikilink")｣（1998年9月2日）
+        初出：｢[Buzz Songs](../Page/Buzz_Songs.md "wikilink")｣（1998年9月2日）
 8.  **Under Age's Song \[Album Mix\]** (7:11)
       -
         初出：｢Under Age's Song｣（1998年7月23日）／｢Buzz Songs｣（1998年9月2日）

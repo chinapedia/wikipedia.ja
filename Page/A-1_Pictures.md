@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>4月 - 9月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戦場のヴァルキュリア" title="wikilink">戦場のヴァルキュリア</a></p></td>
+<td><p><a href="../Page/戦場のヴァルキュリア.md" title="wikilink">戦場のヴァルキュリア</a></p></td>
 <td></td>
 <td></td>
 </tr>

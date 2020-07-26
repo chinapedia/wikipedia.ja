@@ -27,7 +27,7 @@
 #### ドラマ
 
   - [NUMBERS 天才数学者の事件ファイル](../Page/NUMBERS_天才数学者の事件ファイル.md "wikilink")
-  - [NCIS 〜ネイビー犯罪捜査班](https://ja.wikipedia.org/wiki/NCIS_〜ネイビー犯罪捜査班 "wikilink")
+  - [NCIS 〜ネイビー犯罪捜査班](../Page/NCIS_〜ネイビー犯罪捜査班.md "wikilink")
   - [アリー my Love](../Page/アリー_my_Love.md "wikilink")
   - [LAW & ORDER:性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:性犯罪特捜班 "wikilink")
   - [弁護士 ジャック・ターナー](https://ja.wikipedia.org/wiki/弁護士_ジャック・ターナー "wikilink")

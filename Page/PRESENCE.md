@@ -39,7 +39,7 @@
 <!-- end list -->
 
   -
-    [1964年](../Page/1964年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")生まれ。ステージネームは「RUDEE」。元[RAJAS](https://ja.wikipedia.org/wiki/RAJAS "wikilink")。バンド解散後は加藤純也（元[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")）と共に「[GRAND SLAM](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")」を結成。また、[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")にも参加した。
+    [1964年](../Page/1964年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")生まれ。ステージネームは「RUDEE」。元[RAJAS](https://ja.wikipedia.org/wiki/RAJAS "wikilink")。バンド解散後は加藤純也（元[REACTION](../Page/REACTION_\(バンド\).md "wikilink")）と共に「[GRAND SLAM](../Page/グランドスラム_\(ロックバンド\).md "wikilink")」を結成。また、[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")にも参加した。
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
 ## 関連項目
 
   - [多田かおる](../Page/多田かおる.md "wikilink")
-  - [GRAND SLAM](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")
+  - [GRAND SLAM](../Page/グランドスラム_\(ロックバンド\).md "wikilink")
   - [JACKS'N'JOKER](https://ja.wikipedia.org/wiki/JACKS'N'JOKER "wikilink")
   - [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
 

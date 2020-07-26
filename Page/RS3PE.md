@@ -1,7 +1,7 @@
 > この記事は[RS3PE](https://ja.wikipedia.org/wiki/RS3PE)から翻訳されています。
 
 
-**RS3PE**（アールエススリーピーイー、**R**emitting **S**eronegative **S**ymmetrical **S**ynovitis with **P**itting **E**dema）は、[自己免疫](https://ja.wikipedia.org/wiki/自己免疫 "wikilink")性の機序を持つ[関節炎](https://ja.wikipedia.org/wiki/関節炎 "wikilink")[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")の一つである。
+**RS3PE**（アールエススリーピーイー、**R**emitting **S**eronegative **S**ymmetrical **S**ynovitis with **P**itting **E**dema）は、[自己免疫](https://ja.wikipedia.org/wiki/自己免疫 "wikilink")性の機序を持つ[関節炎](../Page/関節炎.md "wikilink")[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")の一つである。
 
 病名の確たる日本語訳はないが、「圧痕性[浮腫](../Page/浮腫.md "wikilink")を伴う血清反応陰性の寛解性対称性滑膜炎」という意味。「RS3PE症候群」とも呼ばれている。
 

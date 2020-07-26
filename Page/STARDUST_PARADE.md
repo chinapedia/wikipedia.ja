@@ -22,7 +22,7 @@
   - 2009年4月をもって川原ちかよは番組を降板。金曜版はその後[西田育弘の担当となった](https://ja.wikipedia.org/wiki/西田育弘_\(DJ\) "wikilink")。
   - 2012年3月をもって金曜版が終了。後番組はα-KYOTO CONTENTS FILE。
   - 2013年3月をもってマツモトアキノリは降板。4月から放送時間が21:00 - 23:00に1時間繰り上がりとなり、後任として[林智美](../Page/林智美.md "wikilink")が担当。
-  - 2015年3月をもって林智美が降板。4月から放送時間が1時間短縮されて月～木曜の22:00 - 23:00となり、後任として[前田彩名](https://ja.wikipedia.org/wiki/前田彩名 "wikilink")が担当。
+  - 2015年3月をもって林智美が降板。4月から放送時間が1時間短縮されて月～木曜の22:00 - 23:00となり、後任として[前田彩名](../Page/前田彩名.md "wikilink")が担当。
   - 2016年3月31日をもって当番組が終了。これに伴い、前田は[α-DAYLIGHT CALL](https://ja.wikipedia.org/wiki/α-DAYLIGHT_CALL "wikilink")（日曜版）を担当することになった。
 
 ## DJの変遷
@@ -34,7 +34,7 @@
       - 2010年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の期間、金曜担当の西田は"[CHUMMY TRAIN](https://ja.wikipedia.org/wiki/CHUMMY_TRAIN "wikilink")"の15時台も担当していた。
   - [2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：マツモトアキノリ
   - [2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[林智美](../Page/林智美.md "wikilink")
-  - [2015年](../Page/2015年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[前田彩名](https://ja.wikipedia.org/wiki/前田彩名 "wikilink")
+  - [2015年](../Page/2015年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[前田彩名](../Page/前田彩名.md "wikilink")
 
 ## 番組終了とその後
 

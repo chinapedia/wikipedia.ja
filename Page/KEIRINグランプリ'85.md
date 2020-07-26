@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - この[競走](../Page/競走.md "wikilink")（レース）は他の公営競技にも多大な影響を与え、[競艇](../Page/競艇.md "wikilink")では翌年の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から、優勝賞金3000万円の[賞金王決定戦が行われ](https://ja.wikipedia.org/wiki/賞金王決定戦競走#賞金王決定戦 "wikilink")、[オートレース](../Page/オートレース.md "wikilink")では翌々年の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の3月に[スーパースター王座決定戦](../Page/スーパースター王座決定戦.md "wikilink")が開催されるなど、その年（年度）のグランドチャンピオンを決する大会が続々と誕生するようになった。
+  - この[競走](../Page/競走.md "wikilink")（レース）は他の公営競技にも多大な影響を与え、[競艇](../Page/競艇.md "wikilink")では翌年の[1986年](../Page/1986年.md "wikilink")から、優勝賞金3000万円の[賞金王決定戦が行われ](https://ja.wikipedia.org/wiki/賞金王決定戦競走#賞金王決定戦 "wikilink")、[オートレース](../Page/オートレース.md "wikilink")では翌々年の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の3月に[スーパースター王座決定戦](../Page/スーパースター王座決定戦.md "wikilink")が開催されるなど、その年（年度）のグランドチャンピオンを決する大会が続々と誕生するようになった。
 
 ### 競走データ
 

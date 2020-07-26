@@ -42,7 +42,7 @@
 
 ## 竹内まりやのセルフカバー
 
-本作に楽曲提供した[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")は、「[駅](https://ja.wikipedia.org/wiki/駅_\(曲\) "wikilink")」「OH NO, OH YES\!」をセルフカバーし、共に1987年のアルバム『[REQUEST](https://ja.wikipedia.org/wiki/REQUEST_\(竹内まりやのアルバム\) "wikilink")』に収録している。また、前者は同年に「[AFTER YEARS](https://ja.wikipedia.org/wiki/AFTER_YEARS "wikilink")」とのカップリングでシングルカットしており\[40\]、後者は翌1988年のシングル「[元気を出して](https://ja.wikipedia.org/wiki/元気を出して "wikilink")」（これもセルフカバー）のB面に収録している。
+本作に楽曲提供した[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")は、「[駅](https://ja.wikipedia.org/wiki/駅_\(曲\) "wikilink")」「OH NO, OH YES\!」をセルフカバーし、共に1987年のアルバム『[REQUEST](https://ja.wikipedia.org/wiki/REQUEST_\(竹内まりやのアルバム\) "wikilink")』に収録している。また、前者は同年に「[AFTER YEARS](../Page/AFTER_YEARS.md "wikilink")」とのカップリングでシングルカットしており\[40\]、後者は翌1988年のシングル「[元気を出して](https://ja.wikipedia.org/wiki/元気を出して "wikilink")」（これもセルフカバー）のB面に収録している。
 
 なお、アルバム『[Mariya's Songbook](https://ja.wikipedia.org/wiki/Mariya's_Songbook "wikilink")』の初回限定盤に、「ミック・ジャガーに微笑みを」の竹内によるデモ音源が収録されている。
 

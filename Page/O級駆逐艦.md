@@ -13,7 +13,7 @@
 
 ## 設計
 
-上記の経緯より、基本設計はJ級のものがおおむね踏襲されており、単煙突・船首楼型という船型も同様である\[8\]。機関も同様で、[アドミラルティ式](../Page/海軍本部_\(イギリス\).md "wikilink")3胴型[水管ボイラー](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")（圧力、温度326.7℃）、[パーソンズ式オール](https://ja.wikipedia.org/wiki/パーソンズ・マリン・スチーム・タービン "wikilink")・[ギヤード・タービンによる](https://ja.wikipedia.org/wiki/ギアード・タービン方式 "wikilink")2軸推進、出力40,000[馬力](../Page/馬力.md "wikilink")（回転数340 [rpm](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")）である\[9\]。
+上記の経緯より、基本設計はJ級のものがおおむね踏襲されており、単煙突・船首楼型という船型も同様である\[8\]。機関も同様で、[アドミラルティ式](../Page/海軍本部_\(イギリス\).md "wikilink")3胴型[水管ボイラー](https://ja.wikipedia.org/wiki/ボイラー#水管ボイラー "wikilink")（圧力、温度326.7℃）、[パーソンズ式オール](../Page/パーソンズ・マリン・スチーム・タービン.md "wikilink")・[ギヤード・タービンによる](https://ja.wikipedia.org/wiki/ギアード・タービン方式 "wikilink")2軸推進、出力40,000[馬力](../Page/馬力.md "wikilink")（回転数340 [rpm](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")）である\[9\]。
 
 一方、艦砲が電動駆動から手動駆動に変更され、消費電力が減少したことから、[電源](../Page/電源.md "wikilink")はスペックダウンされた。主[発電機](../Page/発電機.md "wikilink")として用いられる[タービン発電機](../Page/タービン発電機.md "wikilink")の出力はJ級の150キロワットに対して80キロワット、停泊発電機として用いられる[ディーゼル発電機も出力](../Page/ディーゼルエンジン.md "wikilink")50キロワットに低出力化されている\[10\]。
 

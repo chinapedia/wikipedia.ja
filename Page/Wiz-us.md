@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **金城里菜**（きんじょうりな、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）唄と[三線](../Page/三線.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")[名護市](../Page/名護市.md "wikilink")出身
+  - **金城里菜**（きんじょうりな、[1986年](../Page/1986年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）唄と[三線](../Page/三線.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")[名護市](../Page/名護市.md "wikilink")出身
   - **比嘉麗香**（ひがれいか、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）唄と三線。沖縄県[南城市](../Page/南城市.md "wikilink")出身
   - '''親川あやの '''（おやかわあやの、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - ）唄と太鼓。沖縄県[浦添市](../Page/浦添市.md "wikilink")出身
 

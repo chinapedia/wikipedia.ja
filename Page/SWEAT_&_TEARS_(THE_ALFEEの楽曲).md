@@ -1,7 +1,7 @@
 > この記事は[SWEAT \& TEARS \(THE ALFEEの楽曲\)](https://ja.wikipedia.org/wiki/SWEAT_\&_TEARS_\(THE_ALFEEの楽曲\))から翻訳されています。
 
 
-「**SWEAT & TEARS**」（スウェット・アンド・ティアーズ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。品番は「7A 0600」。
+「**SWEAT & TEARS**」（スウェット・アンド・ティアーズ）は、[1986年](../Page/1986年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。品番は「7A 0600」。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月3日](../Page/8月3日.md "wikilink")に行われた夏の野外イベントTOKYO BAY-AREAの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")及びこの年のツアータイトルにもなった。
+  - [1986年](../Page/1986年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に行われた夏の野外イベントTOKYO BAY-AREAの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")及びこの年のツアータイトルにもなった。
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
   - [BEST SELECTION II THE ALFEE](../Page/BEST_SELECTION_II_THE_ALFEE.md "wikilink")（\#2）
   - [THE ALFEE CLASSICS](https://ja.wikipedia.org/wiki/THE_ALFEE_CLASSICS "wikilink")（\#1、ピアノ協奏曲第1番変ロ短調作品23〜Sweat & Tears）
   - [THE ALFEE THE BEST](../Page/THE_ALFEE_THE_BEST.md "wikilink")（\#1）
-  - [Promised Love -THE ALFEE BALLAD SELECTION-](https://ja.wikipedia.org/wiki/Promised_Love_-THE_ALFEE_BALLAD_SELECTION- "wikilink")（\#2、新録）
+  - [Promised Love -THE ALFEE BALLAD SELECTION-](../Page/Promised_Love_-THE_ALFEE_BALLAD_SELECTION-.md "wikilink")（\#2、新録）
   - [THE ALFEE SINGLE HISTORY VOL.II 1983-1986](../Page/THE_ALFEE_SINGLE_HISTORY_VOL.II_1983-1986.md "wikilink")（\#1,2）
   - [THE ALFEE 單曲全集一](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [The Alfee Meets Dance](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）

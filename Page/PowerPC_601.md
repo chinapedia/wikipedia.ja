@@ -12,7 +12,7 @@ PowerPC 601シリーズはIBMの[サーバ](../Page/サーバ.md "wikilink")・[
 以下は主な仕様である。
 
   - 32ビットのアドレスバス
-  - [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")のデータバス
+  - [64ビット](../Page/64ビット.md "wikilink")のデータバス
   - 整数演算ユニット×1
   - [浮動小数点演算ユニット](../Page/FPU.md "wikilink")×1
   - 32KBの[L1キャッシュ](../Page/キャッシュ.md "wikilink")

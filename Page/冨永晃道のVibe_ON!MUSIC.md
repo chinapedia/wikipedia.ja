@@ -17,7 +17,7 @@
   - 17:30　HFMトラフィックインフォメーション＜提供：[中国新聞](../Page/中国新聞.md "wikilink")社・[瀬戸内海汽船](../Page/瀬戸内海汽船.md "wikilink")＞
   - 17:32　HFMヘッドラインニュース＜提供：寿工業＞
   - 17:40　（水）Vibe ON\! BOOK RECOMMEND＜提供：廣文館＞
-  - 17:50　[ラジオ劇団『小さな奇跡』](https://ja.wikipedia.org/wiki/ラジオ劇団『小さな奇跡』 "wikilink")＜提供：アーククラブ迎賓館＞
+  - 17:50　[ラジオ劇団『小さな奇跡』](../Page/ラジオ劇団『小さな奇跡』.md "wikilink")＜提供：アーククラブ迎賓館＞
   - 不定期で「わがままリクエスト」「ジェット・スクリーム」がスタート。「わがままリクエスト」は理由がわがままなほどリクエストを採用するというもの。「ジェット・スクリーム」は街頭取材した街の人のスクリーム=叫び声とその内容に合った曲をかけるというものである。
 
 -----
@@ -60,7 +60,7 @@
   -
     [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、[かりゆし58](../Page/かりゆし58.md "wikilink")、[榎本くるみ](../Page/榎本くるみ.md "wikilink")。
     ※このイベント自体は3回目になるが、冨永の担当になってからのライブ開催は初となる（過去2回は初代DJ[キムラミチタが担当していたときに開催](https://ja.wikipedia.org/wiki/木村ミチタ "wikilink")）。
-    オープニングアクトにはHFMの朝番組[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")（月〜木担当）のDJ[貢藤十六](https://ja.wikipedia.org/wiki/貢藤十六 "wikilink")と冨永とのユニット「冨六」の他、[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")が登場する。
+    オープニングアクトにはHFMの朝番組[MORNING ALIVE](../Page/MORNING_ALIVE.md "wikilink")（月〜木担当）のDJ[貢藤十六](https://ja.wikipedia.org/wiki/貢藤十六 "wikilink")と冨永とのユニット「冨六」の他、[キマグレン](../Page/キマグレン.md "wikilink")が登場する。
     この日は通常通り放送されるが、上記のとおり冨永はイベントに参加するため、[9ジラジ](../Page/9ジラジ.md "wikilink")DJの大窪シゲキが代理DJを務めることが決定している。
 
 ：魁no5では、幕間に出張版・イントロ亭富寿司を会場内で開催。

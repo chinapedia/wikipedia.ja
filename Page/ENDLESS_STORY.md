@@ -20,7 +20,7 @@
 1.  **ENDLESS STORY** \[5:03\]
       -
         作詞・作曲：Dawn Ann Thomas、日本語詞：[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")、編曲：[HΛL](../Page/HΛL.md "wikilink")
-        原曲は[1993年](../Page/1993年.md "wikilink")の映画『[幸福の条件](https://ja.wikipedia.org/wiki/幸福の条件 "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")に収録されていたドーン・トーマス（Dawn Ann Thomas）の*“If I'm Not in Love With You”*であり、発表時にはほとんど知られていなかったが、実際はカヴァー曲である。これ以前にも、「If I'm Not in Love」というタイトルでがカヴァーしたほか、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ジョディ・ワトリー](https://ja.wikipedia.org/wiki/ジョディ・ワトリー "wikilink")、[1999年](../Page/1999年.md "wikilink")に[フェイス・ヒル](../Page/フェイス・ヒル.md "wikilink")によってカヴァーされている。
+        原曲は[1993年](../Page/1993年.md "wikilink")の映画『[幸福の条件](https://ja.wikipedia.org/wiki/幸福の条件 "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")に収録されていたドーン・トーマス（Dawn Ann Thomas）の*“If I'm Not in Love With You”*であり、発表時にはほとんど知られていなかったが、実際はカヴァー曲である。これ以前にも、「If I'm Not in Love」というタイトルでがカヴァーしたほか、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ジョディ・ワトリー](../Page/ジョディ・ワトリー.md "wikilink")、[1999年](../Page/1999年.md "wikilink")に[フェイス・ヒル](../Page/フェイス・ヒル.md "wikilink")によってカヴァーされている。
         歌詞は元[HΛL](../Page/HΛL.md "wikilink")の作曲・編曲家である[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")による日本語訳詞で、ats-名義での作詞は初である。編曲はats-がかつて在籍したHΛLが務め、『NANA』で伊藤が演じたREIRAが所属するバンドTRAPNESTをイメージしたサウンドに仕上がっている。
 2.  **JOURNEY** \[5:23\]
       -

@@ -9,7 +9,7 @@
 
 | 初飛行年月日=[1956年](../Page/1956年.md "wikilink") | 生産数=1,000発以上 | 生産開始年月日= | 運用開始年月日=[1957年](../Page/1957年.md "wikilink") | 退役年月日=[1988年](../Page/1988年.md "wikilink") | 運用状況=退役 | ユニットコスト= }}
 
-**AIR-2 ジニー**（）は、[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")が開発した[核出力](../Page/核出力.md "wikilink")1.5 kt W25[核弾頭](../Page/核弾頭.md "wikilink")付き無誘導空対空[ロケット弾](../Page/ロケット弾.md "wikilink")である。[冷戦](../Page/冷戦.md "wikilink")期の[1950年代](../Page/1950年代.md "wikilink")後期から[1980年代](../Page/1980年代.md "wikilink")まで[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")と王立カナダ空軍（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")から[カナダ軍](../Page/カナダ軍.md "wikilink")）によって使用された。後に現存するいくつかの関連する訓練用と試験用の派生型を含め、1,000発以上\[1\]生産された後、生産は[1962年](../Page/1962年.md "wikilink")に終了した\[2\]。
+**AIR-2 ジニー**（）は、[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")が開発した[核出力](../Page/核出力.md "wikilink")1.5 kt W25[核弾頭](../Page/核弾頭.md "wikilink")付き無誘導空対空[ロケット弾](../Page/ロケット弾.md "wikilink")である。[冷戦](../Page/冷戦.md "wikilink")期の[1950年代](../Page/1950年代.md "wikilink")後期から[1980年代](../Page/1980年代.md "wikilink")まで[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")と王立カナダ空軍（[1968年](../Page/1968年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から[カナダ軍](../Page/カナダ軍.md "wikilink")）によって使用された。後に現存するいくつかの関連する訓練用と試験用の派生型を含め、1,000発以上\[1\]生産された後、生産は[1962年](../Page/1962年.md "wikilink")に終了した\[2\]。
 
 ## 概要
 

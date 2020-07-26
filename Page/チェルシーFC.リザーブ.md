@@ -38,7 +38,7 @@
 
 ### MF
 
-  - [ガエル・カクタ](https://ja.wikipedia.org/wiki/ガエル・カクタ "wikilink")
+  - [ガエル・カクタ](../Page/ガエル・カクタ.md "wikilink")
 
   - [バートランド・トラオレ](https://ja.wikipedia.org/wiki/バートランド・トラオレ "wikilink")
 

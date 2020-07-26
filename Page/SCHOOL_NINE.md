@@ -54,7 +54,7 @@
   - 火曜日
       - **山下真司は童貞だ！**
       - **[大地家の人々](https://ja.wikipedia.org/wiki/大地洋輔 "wikilink")**
-      - **D-1グランプリ**（誰なんだ芸人[グランプリ](../Page/グランプリ.md "wikilink")）（不定期で行われるコーナー。[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")所属の新人芸人が放送中にネタを披露して毎回グランプリを決めている。主な参加芸人は、ペンギンナッツ、catch\!、[ツーナッカン](https://ja.wikipedia.org/wiki/ツーナッカン "wikilink")、師匠と弟子など。）
+      - **D-1グランプリ**（誰なんだ芸人[グランプリ](../Page/グランプリ.md "wikilink")）（不定期で行われるコーナー。[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")所属の新人芸人が放送中にネタを披露して毎回グランプリを決めている。主な参加芸人は、ペンギンナッツ、catch\!、[ツーナッカン](../Page/ツーナッカン.md "wikilink")、師匠と弟子など。）
 
 ## ネット局
 
@@ -316,7 +316,7 @@
 
   - 月曜日：挑戦者 - [YGA](https://ja.wikipedia.org/wiki/YGA "wikilink")所属 安田由紀子 記憶駅数 3（[いわて沼宮内駅](../Page/いわて沼宮内駅.md "wikilink")まで）。
   - 火曜日：挑戦者 - ダイノジ大地洋輔 記憶駅数30（[浜松駅](https://ja.wikipedia.org/wiki/浜松駅 "wikilink")まで）。
-  - 水曜日：挑戦者 - [我が家](../Page/我が家.md "wikilink")[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink") 記憶駅数25（[熱海駅](https://ja.wikipedia.org/wiki/熱海駅 "wikilink")まで）。
+  - 水曜日：挑戦者 - [我が家](../Page/我が家.md "wikilink")[谷田部俊](../Page/谷田部俊.md "wikilink") 記憶駅数25（[熱海駅](https://ja.wikipedia.org/wiki/熱海駅 "wikilink")まで）。
   - 木曜日：挑戦者 - [アッハー小泉](https://ja.wikipedia.org/wiki/アッハー小泉 "wikilink") 記憶駅数 4（[盛岡駅](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink")まで）。
 
 ### スピリチュアルナイン

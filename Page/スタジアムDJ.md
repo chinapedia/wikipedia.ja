@@ -163,7 +163,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田子千尋" title="wikilink">田子千尋</a>、<a href="../Page/三村ロンド.md" title="wikilink">三村ロンド</a></p></td>
+<td><p><a href="../Page/田子千尋.md" title="wikilink">田子千尋</a>、<a href="../Page/三村ロンド.md" title="wikilink">三村ロンド</a></p></td>
 <td><p>2003年</p></td>
 <td><p>2003年-2013年は田子がメイン、三村がサブ。2014年以降は田子がアドバイザーになり、三村がメインになった。</p></td>
 </tr>
@@ -262,7 +262,7 @@
 <td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">ガイナーレ鳥取</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高地真吾" title="wikilink">DJ45</a>（高地真吾）</p></td>
 <td></td>
-<td><p>過去には平野智一（2011年-2013年・オリックスDJ）、<a href="../Page/三村ロンド.md" title="wikilink">三村ロンド</a>（2007年-2010年・湘南DJ）、<a href="https://ja.wikipedia.org/wiki/田子千尋" title="wikilink">田子千尋</a>（2007年-2009年・湘南DJ）、<a href="https://ja.wikipedia.org/wiki/稲田茂" title="wikilink">稲田茂</a>（SC鳥取時代）が担当。</p></td>
+<td><p>過去には平野智一（2011年-2013年・オリックスDJ）、<a href="../Page/三村ロンド.md" title="wikilink">三村ロンド</a>（2007年-2010年・湘南DJ）、<a href="../Page/田子千尋.md" title="wikilink">田子千尋</a>（2007年-2009年・湘南DJ）、<a href="https://ja.wikipedia.org/wiki/稲田茂" title="wikilink">稲田茂</a>（SC鳥取時代）が担当。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山" title="wikilink">ファジアーノ岡山</a></p></td>

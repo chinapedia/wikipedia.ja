@@ -26,7 +26,7 @@
 8.  **神の雪** \[6:00\]
 9.  **Vanitas （instrumental）** \[3:23\]
 10. **マリーゴールド・ガーデン （[Albéniz](../Page/イサーク・アルベニス.md "wikilink")）** \[2:59\]
-      - [アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")でリリースした「[フラワーチャイルド](https://ja.wikipedia.org/wiki/フラワーチャイルド_\(曲\) "wikilink")」の[C/W](https://ja.wikipedia.org/wiki/コンパクトディスク#タイトル曲・カップリング曲 "wikilink")。
+      - [アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")でリリースした「[フラワーチャイルド](../Page/フラワーチャイルド_\(曲\).md "wikilink")」の[C/W](https://ja.wikipedia.org/wiki/コンパクトディスク#タイトル曲・カップリング曲 "wikilink")。
 11. '''JE TE VEUX (Erik Satie) ''' \[5:43\]
       - [ジュ・トゥ・ヴー](https://ja.wikipedia.org/wiki/ジュ・トゥ・ヴー "wikilink")や[エリック・サティ](../Page/エリック・サティ.md "wikilink")も参照のこと。
 

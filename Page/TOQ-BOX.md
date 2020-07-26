@@ -17,7 +17,7 @@
 
 ### 8637編成の沿革
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月 落成。
+  - [1986年](../Page/1986年.md "wikilink")10月 落成。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") CATV号となり青帯が巻かれるなどの装飾が施される。
   - [1989年](../Page/1989年.md "wikilink") 6 - 8号車を8642Fと交換。元の車両は制御装置を[界磁チョッパから](../Page/界磁チョッパ制御.md "wikilink")[VVVFインバータに改造した上で](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")8642Fに入った（当初は青帯がそのままだった）。
   - 1987年 - [2001年](../Page/2001年.md "wikilink") 青い「CATV」のステッカーを前面非常用[貫通扉](../Page/貫通扉.md "wikilink")と側面窓の一部に貼り付け。2001年頃に[行先表示器を幕式から](../Page/方向幕.md "wikilink")[LED式に変更した](../Page/発光ダイオード.md "wikilink")。

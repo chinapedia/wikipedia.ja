@@ -22,7 +22,7 @@
       -
         13thシングルのカップリング
 3.  **未来ボリビア**
-4.  **[日傘 〜japanese beauty〜](https://ja.wikipedia.org/wiki/日傘_〜japanese_beauty〜 "wikilink")**
+4.  **[日傘 〜japanese beauty〜](../Page/日傘_〜japanese_beauty〜.md "wikilink")**
       -
         14thシングル
         本作に収録されているヴァージョンはシングルよりも最初が少し長くなっている。

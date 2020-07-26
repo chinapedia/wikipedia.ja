@@ -15,7 +15,7 @@ SF短編は[1977年](../Page/1977年.md "wikilink")から[1987年](https://ja.wi
 
 ## 作品
 
-全収録を謳った『PERFECT版』は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）に発表された「スーパーさん」から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）に発表された「異人アンドロ氏」までの112タイトルを収録し、全112話をSF短編の総数としている\[2\]。
+全収録を謳った『PERFECT版』は、[1968年](../Page/1968年.md "wikilink")（昭和43年）に発表された「スーパーさん」から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）に発表された「異人アンドロ氏」までの112タイトルを収録し、全112話をSF短編の総数としている\[2\]。
 
 ほぼ全ての作品が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）の[藤子不二雄{{Unicodeとのコンビ解消よりも前の作品であり](../Page/藤子不二雄A.md "wikilink")、[藤子不二雄](../Page/藤子不二雄.md "wikilink")名義で発表されている。コンビ解消後に藤子・F・不二雄名義で発表されたのは「異人アンドロ氏」の1話のみ。
 

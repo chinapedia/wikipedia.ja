@@ -159,7 +159,7 @@
   - 10周年記念M.net KM PD特別賞＝[シン・スンフン](../Page/シン・スンフン.md "wikilink")
   - 10周年記念Remember賞＝[H.O.T.](../Page/H.O.T..md "wikilink")
   - 今年の発見賞＝ギャラクシーエクスプレス
-  - アジア ベスト アーティスト賞＝[方大同](https://ja.wikipedia.org/wiki/方大同 "wikilink")（中国歌手）
+  - アジア ベスト アーティスト賞＝[方大同](../Page/方大同.md "wikilink")（中国歌手）
   - 海外視聴者賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
   - オークション ネチズン人気賞＝東方神起
   - オークション スタイル賞＝東方神起

@@ -861,7 +861,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
 <!-- end list -->
 
   -
-    2015 Primeの日本販売用バージョンで[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")の[ALL.Net](https://ja.wikipedia.org/wiki/ALL.Net "wikilink")対応だが、セガ・インタラクティブのAime並びに[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")のバナパスポートカードには非対応。
+    2015 Primeの日本販売用バージョンで[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")の[ALL.Net](../Page/ALL.Net.md "wikilink")対応だが、セガ・インタラクティブのAime並びに[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")のバナパスポートカードには非対応。
     主に[セガ エンタテインメント](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、[カプコン](../Page/カプコン.md "wikilink")のアミューズメント店舗にて稼働。特にセガ・ナムコの店舗における稼働が多い。
     2015年6月稼動。
     [Pump It Up JP Official Twitter](http://twitter.com/piujp/status/610791413630939138)

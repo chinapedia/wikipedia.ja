@@ -220,7 +220,7 @@
 <a href="../Page/御園行洋.md" title="wikilink">御園行洋</a><br />
 <a href="https://ja.wikipedia.org/wiki/原なつ季" title="wikilink">原なつ季</a><br />
 <a href="../Page/宇乃音亜季.md" title="wikilink">宇乃音亜季</a><br />
-<a href="https://ja.wikipedia.org/wiki/一馬芳和" title="wikilink">一馬芳和</a></p></td>
+<a href="../Page/一馬芳和.md" title="wikilink">一馬芳和</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -347,7 +347,7 @@
   - クリーチャー造形 - タトプロス・スタジオ
   - VFX監修 - デニス・ベラルディ
   - VFX - Mr. X Inc
-  - 原案 - [カプコン](../Page/カプコン.md "wikilink")『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』
+  - 原案 - [カプコン](../Page/カプコン.md "wikilink")『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』
   - 日本語版イメージソング「[LAST ANGEL feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")」歌：[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
 
 ## プロモーション

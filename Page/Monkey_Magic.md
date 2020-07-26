@@ -120,7 +120,7 @@
       - 3月21日、アヤカ（ココナッツ娘。） with たいせい(シャ乱Q)によって、『[歌ドキッ\! POP CLASSICS Vol. 1](../Page/歌ドキッ!_〜ポップクラシックス〜.md "wikilink")』の収録曲としてカバーされた。
       - 3月21日、東京吹奏楽団によって、『ヒットマーチ&ダンス\!2007』の収録曲としてカバーされた。4月25日発売の『ヒットヒットマーチ101大全集』にも収録されている。
       - 5月17日、ゲーム・ソフト『燃えろ\!熱血リズム魂 押忍\!闘え\!応援団2』の収録曲としてカバーされた。
-      - 6月27日、[MONKEY MAJIKによって](../Page/MONKEY_MAJIK.md "wikilink")、『[MONKEY MAJIK×MONKEY MAGIC](https://ja.wikipedia.org/wiki/MONKEY_MAJIK×MONKEY_MAGIC "wikilink")』の収録曲としてカバーされた。
+      - 6月27日、[MONKEY MAJIKによって](../Page/MONKEY_MAJIK.md "wikilink")、『[MONKEY MAJIK×MONKEY MAGIC](../Page/MONKEY_MAJIK×MONKEY_MAGIC.md "wikilink")』の収録曲としてカバーされた。
       - 7月11日、泉こなた（[平野綾](../Page/平野綾.md "wikilink")）によって、『[らき☆すた エンディングテーマ集 〜ある日のカラオケボックス〜](../Page/TVアニメ『らき☆すた』エンディングテーマ集_〜ある日のカラオケボックス〜.md "wikilink")』の収録曲としてアルバム・バージョンがカバーされた。
       - 7月16日、カルロスODAによって、『GODIEGO PROJECT 』の1曲としてカバーされた。HPで公開された。
   - 2008年

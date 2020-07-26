@@ -36,7 +36,7 @@
   - [長尾優進](https://ja.wikipedia.org/wiki/長尾優進 "wikilink")（キーボード）
   - 山口和高（キーボード）
   - [松原正樹](../Page/松原正樹.md "wikilink")（ギター）
-  - [南部昌江](https://ja.wikipedia.org/wiki/南部昌江 "wikilink")（キーボード/ヴォーカル）
+  - [南部昌江](../Page/南部昌江.md "wikilink")（キーボード/ヴォーカル）
   - [青木智仁](../Page/青木智仁.md "wikilink")（ベース）
   - [島村英二](../Page/島村英二.md "wikilink")（ドラムス）
   - [三沢またろう](../Page/三沢またろう.md "wikilink")（パーカッション）

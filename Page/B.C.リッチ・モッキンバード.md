@@ -24,7 +24,7 @@
       - [チャック・シュルディナー](https://ja.wikipedia.org/wiki/チャック・シュルディナー "wikilink")（元[デス](https://ja.wikipedia.org/wiki/デス_\(バンド\) "wikilink")、元[コントロール・ディナイド](https://ja.wikipedia.org/wiki/コントロール・ディナイド "wikilink")）:シグネイチャーモデル (B.C.Rich Stealth)が作成されるまで使用
   - [ベーシスト](../Page/ベーシスト.md "wikilink")
       - [恩田快人](../Page/恩田快人.md "wikilink")（[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")）
-      - [反町哲之](https://ja.wikipedia.org/wiki/反町哲之 "wikilink")（[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")）
+      - [反町哲之](https://ja.wikipedia.org/wiki/反町哲之 "wikilink")（[REACTION](../Page/REACTION_\(バンド\).md "wikilink")）
       - 吉川“BAN”裕規（[44MAGNUM](../Page/44MAGNUM.md "wikilink")）
       - [SEELA](https://ja.wikipedia.org/wiki/SEELA "wikilink")（[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）
       - [鈴木研一](../Page/鈴木研一.md "wikilink")（[人間椅子](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")）

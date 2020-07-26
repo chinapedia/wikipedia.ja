@@ -904,7 +904,7 @@
   - 2010年08月15日 - TREASURE05X 2010 ～PRECIOUS GENERATION 2ND DAY～
   - 2010年09月04日 - 秋の夜長SPECIAL～VSシリーズ
   - 2010年09月08日 - [RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink") ベリテンライブ2010
-  - 2010年10月01日・03日・11日 - [竹内電気](https://ja.wikipedia.org/wiki/竹内電気 "wikilink")×FoZZtone「electro magnetic TOUR」
+  - 2010年10月01日・03日・11日 - [竹内電気](../Page/竹内電気.md "wikilink")×FoZZtone「electro magnetic TOUR」
   - 2010年11月13日 - [Dirty Old Men](https://ja.wikipedia.org/wiki/Dirty_Old_Men "wikilink") 2010 somewhere Tour
   - 2010年11月23日 - 4CATS GARDEN vol.00 -東京編-
   - 2010年11月27日 - 4CATS GARDEN vol.00 -大阪編-

@@ -522,7 +522,7 @@ SHOT MUSICより発売。
     発売 - 2007年[11月21日](../Page/11月21日.md "wikilink") / ISBN 978-4-7577-3945-1
     キャラクター紹介記事や各種設定資料を掲載。表紙は千堂瑛里華。付録ポスターは悠木陽菜。付録DVDには体験版と壁紙やカレンダーなどのアクセサリが収録されている。
     体験版には「TGプレリュード体験版オリジナルストーリー」が2本収録されている（ゲーム本編未収録）。
-  - 『FORTUNE ARTERIAL パーフェクトビジュアルブック』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")刊）
+  - 『FORTUNE ARTERIAL パーフェクトビジュアルブック』（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")刊）
     発売 - 2008年[6月20日](../Page/6月20日.md "wikilink") / ISBN 978-4-04-867158-3
     PCゲームのビジュアルブック。表紙は千堂瑛里華。
   - 『FORTUNE ARTERIAL 赤い約束 オフィシャルビジュアルガイド』（[角川書店](../Page/角川書店.md "wikilink")刊）
@@ -531,7 +531,7 @@ SHOT MUSICより発売。
 
 ### コミックス
 
-  - 『FORTUNE ARTERIAL―Character's Prelude』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")刊）※一般作品
+  - 『FORTUNE ARTERIAL―Character's Prelude』（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")刊）※一般作品
     原作 - オーガスト / 作画 - [佐々木あかね](../Page/佐々木あかね.md "wikilink")
 
     『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（アスキー・メディアワークス）2007年9月号より2008年4月号まで連載。その後『[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")』（アスキー・メディアワークス）に移籍してVol.2（2008年4月26日発売）に掲載。各キャラクターを中心に据えたオリジナルストーリーによる短編集。

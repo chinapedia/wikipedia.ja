@@ -47,7 +47,7 @@
       - 15thシングルの2曲目のアレンジバージョン
 9.  **MIRROR**
       -
-        作詞：[安岡優](../Page/安岡優.md "wikilink")、作曲：[北山陽一](../Page/北山陽一.md "wikilink")、編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[安岡優](../Page/安岡優.md "wikilink")、作曲：[北山陽一](../Page/北山陽一.md "wikilink")、編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 10. **[IN THE WIND](../Page/IN_THE_WIND.md "wikilink")**（B．MAY　Mix）
       -
         作詞：[小幡英之](../Page/小幡英之.md "wikilink")、作曲：[佐藤竹善](../Page/佐藤竹善.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")

@@ -27,7 +27,7 @@
 
   - 『[それでも信じてる](https://ja.wikipedia.org/wiki/それでも信じてる/ラブレター "wikilink")』『[ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(FUNKY_MONKEY_BABYSの曲\) "wikilink")』[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")\[8\]
   - 『[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")』『[make a secret](https://ja.wikipedia.org/wiki/make_a_secret "wikilink")』『[DO THE MOTION](../Page/DO_THE_MOTION.md "wikilink")』[BoA](../Page/BoA.md "wikilink")
-  - 『[バラード](https://ja.wikipedia.org/wiki/バラード/君とつくる未来 "wikilink")』『[さくら](../Page/さくら_\(ケツメイシの曲\).md "wikilink")』『[トモダチ](https://ja.wikipedia.org/wiki/トモダチ_\(ケツメイシの曲\) "wikilink")』『[夏の思い出](../Page/夏の思い出_\(ケツメイシの曲\).md "wikilink")』『[涙](../Page/涙_\(ケツメイシの曲\).md "wikilink")』[ケツメイシ](../Page/ケツメイシ.md "wikilink")\[9\]
+  - 『[バラード](https://ja.wikipedia.org/wiki/バラード/君とつくる未来 "wikilink")』『[さくら](../Page/さくら_\(ケツメイシの曲\).md "wikilink")』『[トモダチ](../Page/トモダチ_\(ケツメイシの曲\).md "wikilink")』『[夏の思い出](../Page/夏の思い出_\(ケツメイシの曲\).md "wikilink")』『[涙](../Page/涙_\(ケツメイシの曲\).md "wikilink")』[ケツメイシ](../Page/ケツメイシ.md "wikilink")\[9\]
   - 『[素直なまま](https://ja.wikipedia.org/wiki/素直なまま "wikilink")』[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")
   - 『[Lies](../Page/Lies.md "wikilink")』[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - 『[FLOATIN'](https://ja.wikipedia.org/wiki/FLOATIN' "wikilink")』『[愛しすぎて](https://ja.wikipedia.org/wiki/CHEMISTRY#ディスコグラフィ "wikilink")』『[STILL ECHO](https://ja.wikipedia.org/wiki/CHEMISTRY#ディスコグラフィ "wikilink")』[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
@@ -151,7 +151,7 @@
   - [清水翔太](../Page/清水翔太.md "wikilink")
   - [JAMIL](https://ja.wikipedia.org/wiki/ジャミール "wikilink")
   - Zooco
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")
+  - [Sweep](../Page/Sweep.md "wikilink")
   - [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")（[Hi-Timez](https://ja.wikipedia.org/wiki/Hi-Timez "wikilink")）
   - [鈴木桃子](../Page/鈴木桃子.md "wikilink")\[55\]
@@ -207,7 +207,7 @@
   - [BASEBALL☆GIRLS](https://ja.wikipedia.org/wiki/BASEBALL☆GIRLS "wikilink")
   - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")
   - [BoA](../Page/BoA.md "wikilink")
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - [星井七瀬](https://ja.wikipedia.org/wiki/星井七瀬 "wikilink")\[69\]
   - [星村麻衣](https://ja.wikipedia.org/wiki/星村麻衣 "wikilink")
   - [FREENOTE](../Page/FREENOTE.md "wikilink")

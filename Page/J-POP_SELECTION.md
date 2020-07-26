@@ -104,7 +104,7 @@
 18. [CHICAGO](../Page/シカゴ_\(バンド\).md "wikilink")　（8月3日）
       -
         \-約90分に短縮
-19. [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")　（8月10日）
+19. [ZARD](../Page/ZARD.md "wikilink")　（8月10日）
 20. [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")　（8月17日）
 21. [TUBE](../Page/TUBE.md "wikilink")　（8月24日）
 22. [STING](../Page/スティング_\(ミュージシャン\).md "wikilink") ／ [THE POLICE](../Page/ポリス_\(バンド\).md "wikilink")　（8月31日）

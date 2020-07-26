@@ -5,7 +5,7 @@
 
 ## 解説
 
-プロモーションビデオは前回と一緒で、[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")が撮影。[オリコン初登場](../Page/オリコンチャート.md "wikilink")26位。
+プロモーションビデオは前回と一緒で、[井筒和幸](../Page/井筒和幸.md "wikilink")が撮影。[オリコン初登場](../Page/オリコンチャート.md "wikilink")26位。
 
 [ラップ](../Page/ラップ.md "wikilink")は、[キングコング梶原](https://ja.wikipedia.org/wiki/キングコング梶原 "wikilink")が担当。
 

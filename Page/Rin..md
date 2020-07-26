@@ -27,7 +27,7 @@
   - ゴックンくらぶ9（2005年10月1日、MOODYZ）
   - ダンシングノーモザイクおまんこ メコスジ&クイコミダンススペシャル（2006年6月13日、[カルマ](../Page/カルマ_\(アダルトビデオ\).md "wikilink")）他出演:[金城アンナ](../Page/金城アンナ.md "wikilink")、[日向ゆず葉](../Page/日向ゆず葉.md "wikilink")
   - Pink★Gals　［女豹ギャルズ］（2007年2月15日 [ドリームチケット](../Page/ドリームチケット.md "wikilink")）他出演:[可愛あみん](https://ja.wikipedia.org/wiki/可愛あみん "wikilink")、日向ありさ、[清原りょう](../Page/清原りょう.md "wikilink")
-  - R\*Queen（猥褻レースクイーン） 撮り下ろし4時間（2007年4月15日 ドリームチケット）他出演:[加藤ツバキ](../Page/加藤ツバキ.md "wikilink")、蛯原みなみ、[美波さら](https://ja.wikipedia.org/wiki/美波さら "wikilink")
+  - R\*Queen（猥褻レースクイーン） 撮り下ろし4時間（2007年4月15日 ドリームチケット）他出演:[加藤ツバキ](../Page/加藤ツバキ.md "wikilink")、蛯原みなみ、[美波さら](../Page/美波さら.md "wikilink")
 
 他
 

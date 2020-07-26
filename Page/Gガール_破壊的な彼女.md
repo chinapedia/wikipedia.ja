@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")
+  - [ザ・シンプソンズ](../Page/ザ・シンプソンズ.md "wikilink")
   - [アメリカン・コミックス](../Page/アメリカン・コミックス.md "wikilink")
   - [猟奇的な彼女](../Page/猟奇的な彼女.md "wikilink")（サブタイトルはこの映画からのもじり）
 

@@ -54,7 +54,7 @@
 
 [対潜兵器](../Page/対潜兵器.md "wikilink")としては、改修後のGMT型と同様、後甲板に片舷式爆雷投射機（K砲）を片舷4基ずつの計8基、艦尾に爆雷投下軌条2条を設置したほか、艦首甲板の5インチ砲の直後に[ヘッジホッグMk.10](../Page/ヘッジホッグ_\(兵器\).md "wikilink")[対潜迫撃砲](https://ja.wikipedia.org/wiki/対潜迫撃砲 "wikilink")が装備された。これは旋回機構をもたない最初期の対潜前投兵器であるが、非常に優れた対潜火力であった\[7\]。
 
-[対艦兵器](https://ja.wikipedia.org/wiki/対艦兵器 "wikilink")としては、[船団護衛時に敵の](../Page/護送船団.md "wikilink")[仮装巡洋艦](../Page/仮装巡洋艦.md "wikilink")など[通商破壊](../Page/通商破壊.md "wikilink")艦と交戦する場合を想定して、3連装長[魚雷発射管](../Page/魚雷発射管.md "wikilink")を船体中部の上部構造物上に搭載した\[8\]。しかし実運用上、雷撃の機会が乏しかった一方、航空機の性能向上に伴い[防空](../Page/防空.md "wikilink")強化の必要が大きくなっていたことから、戦争後期には魚雷発射管を撤去し、その両側に40mm単装機銃を2基ずつ搭載する改修がなされた艦が多かった。ただし、[1944年](../Page/1944年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")の[サマール沖海戦において](https://ja.wikipedia.org/wiki/レイテ沖海戦#10月25日_サマール沖海戦 "wikilink")、本級に属する「[サミュエル・B・ロバーツ](https://ja.wikipedia.org/wiki/サミュエル・B・ロバーツ_\(護衛駆逐艦\) "wikilink")」および姉妹艦3隻は、[栗田健男](../Page/栗田健男.md "wikilink")中将率いる日本の中央艦隊に対して雷撃を実施しており、護衛駆逐艦による雷撃の唯一の例と考えられている\[9\]。
+[対艦兵器](https://ja.wikipedia.org/wiki/対艦兵器 "wikilink")としては、[船団護衛時に敵の](../Page/護送船団.md "wikilink")[仮装巡洋艦](../Page/仮装巡洋艦.md "wikilink")など[通商破壊](../Page/通商破壊.md "wikilink")艦と交戦する場合を想定して、3連装長[魚雷発射管](../Page/魚雷発射管.md "wikilink")を船体中部の上部構造物上に搭載した\[8\]。しかし実運用上、雷撃の機会が乏しかった一方、航空機の性能向上に伴い[防空](../Page/防空.md "wikilink")強化の必要が大きくなっていたことから、戦争後期には魚雷発射管を撤去し、その両側に40mm単装機銃を2基ずつ搭載する改修がなされた艦が多かった。ただし、[1944年](../Page/1944年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")の[サマール沖海戦において](https://ja.wikipedia.org/wiki/レイテ沖海戦#10月25日_サマール沖海戦 "wikilink")、本級に属する「[サミュエル・B・ロバーツ](../Page/サミュエル・B・ロバーツ_\(護衛駆逐艦\).md "wikilink")」および姉妹艦3隻は、[栗田健男](../Page/栗田健男.md "wikilink")中将率いる日本の中央艦隊に対して雷撃を実施しており、護衛駆逐艦による雷撃の唯一の例と考えられている\[9\]。
 
 ## 配備
 
@@ -110,7 +110,7 @@
   - DE-410 ジャック・ミラー （USS Jack Miller）
   - DE-411 スタフォード （USS Stafford）
   - DE-412 ウォルター・C・ワン （USS Walter C.Worn）
-  - DE-413 [サミュエル・B・ロバーツ](https://ja.wikipedia.org/wiki/サミュエル・B・ロバーツ_\(護衛駆逐艦\) "wikilink") （USS Samuel B.Robarts）
+  - DE-413 [サミュエル・B・ロバーツ](../Page/サミュエル・B・ロバーツ_\(護衛駆逐艦\).md "wikilink") （USS Samuel B.Robarts）
   - DE-414 ルレー・ウィルソン （USS LeRay Wilson）
   - DE-415 ローレンス・C・テイラー （USS Lawrence C.Taylor）
       - DE-425～437は未命名。起工前にキャンセル

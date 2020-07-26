@@ -5,7 +5,7 @@
 
 ## 解説
 
-「スマイル・フォー・ミー」は前年[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に雑誌『[ヤング・ミュージック](https://ja.wikipedia.org/wiki/ヤング・ミュージック "wikilink")』（[集英社](../Page/集英社.md "wikilink")）の企画による国際電話対談でザ・タイガースと[ビー・ジースが意気投合し](../Page/ビージーズ.md "wikilink")、ビー・ジーズの[バリー・ギブ](https://ja.wikipedia.org/wiki/バリー・ギブ "wikilink")と[モーリス・ギブ](https://ja.wikipedia.org/wiki/モーリス・ギブ "wikilink")が作詞・作曲を手がけたプレゼント曲である。
+「スマイル・フォー・ミー」は前年[1968年](../Page/1968年.md "wikilink")に雑誌『[ヤング・ミュージック](https://ja.wikipedia.org/wiki/ヤング・ミュージック "wikilink")』（[集英社](../Page/集英社.md "wikilink")）の企画による国際電話対談でザ・タイガースと[ビー・ジースが意気投合し](../Page/ビージーズ.md "wikilink")、ビー・ジーズの[バリー・ギブ](https://ja.wikipedia.org/wiki/バリー・ギブ "wikilink")と[モーリス・ギブ](https://ja.wikipedia.org/wiki/モーリス・ギブ "wikilink")が作詞・作曲を手がけたプレゼント曲である。
 
 吹き込みは映画『[ザ・タイガース ハーイ\!ロンドン](../Page/ザ・タイガース_ハーイ!ロンドン.md "wikilink")』の撮影のため滞在していた[ロンドン](../Page/ロンドン.md "wikilink")で行われた\[1\]。両面共に英語詞から成る作品。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")盤も発売され、こちらは「淋しい雨」がA面扱いとなっていた\[2\]。
 

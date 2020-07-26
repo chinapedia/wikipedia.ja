@@ -1,7 +1,7 @@
 > この記事は[全米TOP30](https://ja.wikipedia.org/wiki/全米TOP30)から翻訳されています。
 
 
-**全米TOP30**（ぜんべいトップサーティー）は、テラモバイルほか制作の[ビルボード](../Page/ビルボード.md "wikilink")総合チャートとトーク等による[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")で、主に[日本テレビ系列の深夜に](../Page/日本テレビ放送網.md "wikilink")15分放送されているが、日本テレビおよび[読売テレビでは放送されていない](../Page/讀賣テレビ放送.md "wikilink")。[2006年](../Page/2006年.md "wikilink")4月放送開始、[2007年](../Page/2007年.md "wikilink")3月放送終了。終了後は、2007年4月～[Break Point\!で](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")、ビルボードの情報を紹介している。
+**全米TOP30**（ぜんべいトップサーティー）は、テラモバイルほか制作の[ビルボード](../Page/ビルボード.md "wikilink")総合チャートとトーク等による[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")で、主に[日本テレビ系列の深夜に](../Page/日本テレビ放送網.md "wikilink")15分放送されているが、日本テレビおよび[読売テレビでは放送されていない](../Page/讀賣テレビ放送.md "wikilink")。[2006年](../Page/2006年.md "wikilink")4月放送開始、[2007年](../Page/2007年.md "wikilink")3月放送終了。終了後は、2007年4月～[Break Point\!で](../Page/Break_Point!.md "wikilink")、ビルボードの情報を紹介している。
 
 ## 内容
 
@@ -74,6 +74,6 @@
 
   - [ビルボード](../Page/ビルボード.md "wikilink")
   - [全米TOP40](https://ja.wikipedia.org/wiki/全米TOP40 "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
-  - [Break Point\!](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")（[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")製作）
+  - [Break Point\!](../Page/Break_Point!.md "wikilink")（[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")製作）
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:日本のテレビ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のテレビ音楽番組 "wikilink") [Category:日本テレビ系番組](https://ja.wikipedia.org/wiki/Category:日本テレビ系番組 "wikilink") [Category:TOKYO_MXの深夜番組](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの深夜番組 "wikilink") [Category:TOKYO_MXの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの番組の歴史 "wikilink") [Category:中京テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:中京テレビの番組の歴史 "wikilink") [Category:ビルボードのチャート](https://ja.wikipedia.org/wiki/Category:ビルボードのチャート "wikilink") [Category:ランキング番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:ランキング番組_\(テレビ\) "wikilink")

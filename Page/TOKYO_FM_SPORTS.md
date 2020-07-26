@@ -72,7 +72,7 @@
   - ギリギリHERO／[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")（4月28日 - 5月2日）
   - もう一度…feat BENI／[童子-T](../Page/童子-T.md "wikilink")（5月5日 - 9日・12月9日）
   - GIRLS STYLE／[稲森寿世](https://ja.wikipedia.org/wiki/稲森寿世 "wikilink")（5月12日 - 16日）
-  - LIFE／[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")（5月19日 - 23日・7月14日 - 18日・12月10日）
+  - LIFE／[キマグレン](../Page/キマグレン.md "wikilink")（5月19日 - 23日・7月14日 - 18日・12月10日）
   - キセキ／[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")（5月26日 - 30日・12月8日、12日）
   - Unchanging Love～君がいれば～／[JYONGRI](https://ja.wikipedia.org/wiki/JYONGRI "wikilink")（6月2日 - 6日）
   - 線香花火／INFINITY 16 welcomez GOKI（6月9日 - 13日）
@@ -122,7 +122,7 @@
   - 君となら絶好調／[光上せあら](../Page/光上せあら.md "wikilink")（2月2日 - 6日）
   - 晴れの日／[稲森寿世](https://ja.wikipedia.org/wiki/稲森寿世 "wikilink")（2月9日 - 13日）
   - サクラサクナ／[風花](https://ja.wikipedia.org/wiki/風花 "wikilink")（2月16日 - 20日）
-  - 天国の郵便ポスト／[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")（2月23日 - 27日）
+  - 天国の郵便ポスト／[キマグレン](../Page/キマグレン.md "wikilink")（2月23日 - 27日）
   - 卒業／[長渕剛](../Page/長渕剛.md "wikilink")（3月2日 - 6日）
   - Come Back To Me／[Utada](https://ja.wikipedia.org/wiki/Utada "wikilink")（3月9日 - 13日・16日 - 20日）
   - トライアングル／[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")（3月23日 - 27日）
@@ -179,7 +179,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - PERPETUUM MOBILE／[SIBERIAN NEWSPAPER](https://ja.wikipedia.org/wiki/SIBERIAN_NEWSPAPER "wikilink")（4月5日・6日 - 4月26日・27日）
+  - PERPETUUM MOBILE／[SIBERIAN NEWSPAPER](../Page/SIBERIAN_NEWSPAPER.md "wikilink")（4月5日・6日 - 4月26日・27日）
   - AARGH,AARGH-AARGH／THE BAKER BROTHERS（5月3日・4日 - 6月28日・29日）
   - 映画『デトロイト・メタル・シティ』より（7月5日・6日 - 9月13日・14日）
   - インターセプター／[勝手にしやがれ](../Page/勝手にしやがれ_\(ジャズバンド\).md "wikilink")（9月20日・21日 - 10月25日・26日）

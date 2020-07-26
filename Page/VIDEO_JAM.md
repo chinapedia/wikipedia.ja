@@ -1,7 +1,7 @@
 > この記事は[VIDEO JAM](https://ja.wikipedia.org/wiki/VIDEO_JAM)から翻訳されています。
 
 
-『**VIDEO JAM**』（ビデオジャム）は、[テレビ朝日系列局ほかで放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。ローカル番組時代の唯一のネット局だった[北海道テレビでは](../Page/北海道テレビ放送.md "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで放送。キー局の[テレビ朝日](../Page/テレビ朝日.md "wikilink")では1986年[9月29日](../Page/9月29日.md "wikilink")から1997年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送。
+『**VIDEO JAM**』（ビデオジャム）は、[テレビ朝日系列局ほかで放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。ローカル番組時代の唯一のネット局だった[北海道テレビでは](../Page/北海道テレビ放送.md "wikilink")[1986年](../Page/1986年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで放送。キー局の[テレビ朝日](../Page/テレビ朝日.md "wikilink")では1986年[9月29日](../Page/9月29日.md "wikilink")から1997年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送。
 
 ## 概要
 

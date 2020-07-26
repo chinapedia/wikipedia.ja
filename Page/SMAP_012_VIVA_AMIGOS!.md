@@ -28,7 +28,7 @@
         作詞・作曲・コーラスアレンジ：[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")、編曲：CHOKKAKU
 4.  **Duo**
       -
-        作詞：相田毅、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：相田毅、作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
         2ndインストゥルメンタルアルバムにも収録されている。
 5.  **[たいせつ](../Page/たいせつ_\(SMAPの曲\).md "wikilink")**
       -
@@ -98,7 +98,7 @@
       - Trombone: John Wheeler
       - Trumpet: Tony Kadleck & Barry Delinion
       - Tenor & Baritone Sax: John Scarpulla
-  - Chorus: [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink"), Oh\! Be, [Takatomo Nozawa](https://ja.wikipedia.org/wiki/野澤孝智 "wikilink")
+  - Chorus: [Masayuki Iwata](../Page/岩田雅之.md "wikilink"), Oh\! Be, [Takatomo Nozawa](https://ja.wikipedia.org/wiki/野澤孝智 "wikilink")
   - Other Instruments: [Seiko Nagaoka](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
 
 ### Possession Possession

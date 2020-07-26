@@ -82,7 +82,7 @@
   - Sinan　ボーカル
   - Graem Revell　シンセサイザー
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+[1986年](../Page/1986年.md "wikilink")
 
   - Sinan　ボーカル
   - Graem Revell　シンセサイザー、チェロ、コンピューター

@@ -15,7 +15,7 @@
 
 ### オジー・オズボーン・バンド在籍時
 
-『[月に吠える](https://ja.wikipedia.org/wiki/月に吠える_\(オジー・オズボーンのアルバム\) "wikilink")（BARK AT THE MOON）』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）と『[罪と罰](https://ja.wikipedia.org/wiki/罪と罰_\(アルバム\) "wikilink")（THE ULTIMATE SIN）』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）の2枚に参加。その後オズボーンのバンドから解雇される\[1\]。
+『[月に吠える](https://ja.wikipedia.org/wiki/月に吠える_\(オジー・オズボーンのアルバム\) "wikilink")（BARK AT THE MOON）』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）と『[罪と罰](https://ja.wikipedia.org/wiki/罪と罰_\(アルバム\) "wikilink")（THE ULTIMATE SIN）』（[1986年](../Page/1986年.md "wikilink")）の2枚に参加。その後オズボーンのバンドから解雇される\[1\]。
 
 ### バッドランズ時代
 

@@ -49,7 +49,7 @@
 
 1988年10月8日に[NHK-BS1](https://ja.wikipedia.org/wiki/NHK-BS1 "wikilink")で、10月10日に[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")で、「CAROL」が制作されたTM NETWORKのイギリスでの様子を交えTV放送されているが、編集や放送曲数が異なっている。
 
-TM NETWORKの東京ドームのコンサートは、このライブと[1994年](../Page/1994年.md "wikilink")の[5月18日](../Page/5月18日.md "wikilink")と[5月19日](../Page/5月19日.md "wikilink")に行われた[TMN終了ライブのみである](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink")。
+TM NETWORKの東京ドームのコンサートは、このライブと[1994年](../Page/1994年.md "wikilink")の[5月18日](../Page/5月18日.md "wikilink")と[5月19日](../Page/5月19日.md "wikilink")に行われた[TMN終了ライブのみである](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink")。
 
 ## 曲目
 

@@ -24,7 +24,7 @@
       -
         （作詞：川本“L.A.”真琴、作曲：川本真琴、編曲\[2\]：[石川鉄男](https://ja.wikipedia.org/wiki/石川鉄男 "wikilink")）
         のちに同じ[アンティノス・レコード所属となる](../Page/エピックレコードジャパン.md "wikilink")[藤井隆](../Page/藤井隆.md "wikilink")が、Shoutとしてバック・ヴォーカルのような形で参加している。
-        [Chappie](https://ja.wikipedia.org/wiki/Chappie "wikilink")の"Happyending Soulwriter's Council Band"（アルバム『NEW CHAPPIE』収録）に、新たに詞をつけたものである。
+        [Chappie](../Page/Chappie.md "wikilink")の"Happyending Soulwriter's Council Band"（アルバム『NEW CHAPPIE』収録）に、新たに詞をつけたものである。
 
 ## 収録アルバム
 

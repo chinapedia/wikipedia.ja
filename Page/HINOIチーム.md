@@ -64,7 +64,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2005年5月18日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/IKE_IKE" title="wikilink">IKE IKE</a></strong></p></td>
+<td><p><strong><a href="../Page/IKE_IKE.md" title="wikilink">IKE IKE</a></strong></p></td>
 <td><p>AVCD-16064<br />
 AVCD-16065</p></td>
 <td><p>44位</p></td>

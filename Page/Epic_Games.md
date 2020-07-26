@@ -6,7 +6,7 @@
 ## 歴史
 
   - [1991年](../Page/1991年.md "wikilink") - ティム・スウィーニーによって[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックビルに](https://ja.wikipedia.org/wiki/ロックビル_\(メリーランド州\) "wikilink")**Potomac Computer Systems**の名前の下創立された。同じ年に最初の製品である『ZZT』を発売した。会社は**Epic Mega Games**として知られるようになった。
-  - [1994年](../Page/1994年.md "wikilink")[6月](../Page/6月.md "wikilink") - 横スクロールアクションゲームである『Jazz Jackrabbit』が発売される。後に『Gears of War』を設計する[クリフ・ブレジンスキー](https://ja.wikipedia.org/wiki/クリフ・ブレジンスキー "wikilink")が最初に手がけたゲームでもある。
+  - [1994年](../Page/1994年.md "wikilink")[6月](../Page/6月.md "wikilink") - 横スクロールアクションゲームである『Jazz Jackrabbit』が発売される。後に『Gears of War』を設計する[クリフ・ブレジンスキー](../Page/クリフ・ブレジンスキー.md "wikilink")が最初に手がけたゲームでもある。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - ストーリー物の[3D](../Page/3D.md "wikilink")[FPSである](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")『[Unreal](../Page/Unreal.md "wikilink")』を発売した。これはUnrealシリーズに拡大した。Epic Mega Gamesは基幹技術である[アンリアルエンジンのライセンス販売をし始め](../Page/Unreal_Engine.md "wikilink")、他のゲーム開発会社の開発用ソフトウェアとして使用された。
   - [1999年](../Page/1999年.md "wikilink") - 社名を**Epic Games**に変更し、ロックビル本社を含むオフィスをローリーに移転した。
   - [1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink") - 『Unreal』の世界を舞台にした対戦専用FPS『[Unreal Tournament](../Page/Unreal_Tournament.md "wikilink")』を発売。
@@ -36,7 +36,7 @@ Epicは[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wi
 ## 関連項目
 
   - [Unreal Engine](../Page/Unreal_Engine.md "wikilink")
-  - [クリフ・ブレジンスキー](https://ja.wikipedia.org/wiki/クリフ・ブレジンスキー "wikilink") - 過去に同社に所属していたゲーム・デザイナー。
+  - [クリフ・ブレジンスキー](../Page/クリフ・ブレジンスキー.md "wikilink") - 過去に同社に所属していたゲーム・デザイナー。
 
 ## 外部リンク
 

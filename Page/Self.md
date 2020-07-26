@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[パロアルト研究所](../Page/パロアルト研究所.md "wikilink")で働いていたDavid UngarとRandall SmithがSelfを設計した。[Smalltalk](../Page/Smalltalk.md "wikilink")-80が一般にリリースされて産業界から真剣に受け止められ始めていることから、[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の研究をさらに進めることを目的として行われた。彼らは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")に移り、Selfの作業を進め、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に最初のコンパイラを完成させた。そして、言語だけではなくSelfのシステム全体を構築することに注力することになった。
+[1986年](../Page/1986年.md "wikilink")、[パロアルト研究所](../Page/パロアルト研究所.md "wikilink")で働いていたDavid UngarとRandall SmithがSelfを設計した。[Smalltalk](../Page/Smalltalk.md "wikilink")-80が一般にリリースされて産業界から真剣に受け止められ始めていることから、[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")の研究をさらに進めることを目的として行われた。彼らは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")に移り、Selfの作業を進め、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に最初のコンパイラを完成させた。そして、言語だけではなくSelfのシステム全体を構築することに注力することになった。
 
 一般への最初のリリースは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")であり、翌年には彼らチームは[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")に移り、さらに Selfに関する作業を続けた。その後、何回かのリリースが行われ、1995年のバージョン 4.0リリースで長い活動休止状態に入った。最近のバージョン 4.2は[2004年](../Page/2004年.md "wikilink")にリリースされ、[Mac OS Xと](https://ja.wikipedia.org/wiki/macOS "wikilink")[Solaris](../Page/Solaris.md "wikilink")上で動作した。
 

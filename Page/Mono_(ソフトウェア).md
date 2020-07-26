@@ -21,7 +21,7 @@ Monoプロジェクトの公式発表ではないが、その主導者である[
 
 ## Monoランタイム
 
-Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wikilink")で動作する[JITコンパイラを搭載している](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")。JITコンパイラは[アプリケーションの実行中に](../Page/アプリケーションソフトウェア.md "wikilink")[共通中間言語](../Page/共通中間言語.md "wikilink") (CLI) コードを[ネイティブコードに変換し](../Page/機械語.md "wikilink")、それらを[キャッシュする](../Page/キャッシュ_\(コンピュータシステム\).md "wikilink")。実行前にネイティブコードに変換し、キャッシュしておくことも可能である。JITコンパイラが対応するプロセッサは[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[IA-64](../Page/IA-64.md "wikilink")、[SPARC](../Page/SPARC.md "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[ARM](../Page/ARMアーキテクチャ.md "wikilink")、[S/390](https://ja.wikipedia.org/wiki/System/390 "wikilink")（[32ビット](../Page/32ビット.md "wikilink")および[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）、[MIPS](https://ja.wikipedia.org/wiki/MIPS "wikilink")である\[4\]。それ以外のシステムでは、ネイティブコードに変換するのではなく[インタプリタ](../Page/インタプリタ.md "wikilink")によって逐次[バイトコード](../Page/バイトコード.md "wikilink")が実行される。ほとんどの状況で、JITコンパイラによる方法は[インタプリタ](../Page/インタプリタ.md "wikilink")よりもパフォーマンスの点で勝っている。
+Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wikilink")で動作する[JITコンパイラを搭載している](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")。JITコンパイラは[アプリケーションの実行中に](../Page/アプリケーションソフトウェア.md "wikilink")[共通中間言語](../Page/共通中間言語.md "wikilink") (CLI) コードを[ネイティブコードに変換し](../Page/機械語.md "wikilink")、それらを[キャッシュする](../Page/キャッシュ_\(コンピュータシステム\).md "wikilink")。実行前にネイティブコードに変換し、キャッシュしておくことも可能である。JITコンパイラが対応するプロセッサは[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[IA-64](../Page/IA-64.md "wikilink")、[SPARC](../Page/SPARC.md "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[ARM](../Page/ARMアーキテクチャ.md "wikilink")、[S/390](https://ja.wikipedia.org/wiki/System/390 "wikilink")（[32ビット](../Page/32ビット.md "wikilink")および[64ビット](../Page/64ビット.md "wikilink")）、[MIPS](https://ja.wikipedia.org/wiki/MIPS "wikilink")である\[4\]。それ以外のシステムでは、ネイティブコードに変換するのではなく[インタプリタ](../Page/インタプリタ.md "wikilink")によって逐次[バイトコード](../Page/バイトコード.md "wikilink")が実行される。ほとんどの状況で、JITコンパイラによる方法は[インタプリタ](../Page/インタプリタ.md "wikilink")よりもパフォーマンスの点で勝っている。
 
 また、[SIMD](../Page/SIMD.md "wikilink")への独自対応 (`Mono.Simd`) など、Mono独自の革新的な機能の取り込みも積極的に行われている。マイクロソフト純正の.NET Frameworkでは、Monoを後追いする形で、バージョン4.6にてSIMDサポートが追加された\[5\]。
 
@@ -39,7 +39,7 @@ Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wik
   - Mono 3.0.0ではC\# 5.0がサポートされ、async/awaitなどが利用可能となった。
   - Mono 4.0.0ではC\# 6.0がサポートされ、またマイクロソフトが[MIT License下で公開した](../Page/MIT_License.md "wikilink").NET Coreにより一部のコンポーネントが置き換えられた。.NET2.0/3.5/4.0のサポートが終了し、[浮動小数点演算処理が最適化された](../Page/浮動小数点数.md "wikilink")\[6\]。
   - Mono 5.0.0ではC\# 7.0がサポートされた。[Visual Studioで利用されているものと同じRoslyn](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") C\#コンパイラ`csc`が追加された\[7\]。
-  - Mono 5.2.0では.NET Standard 2.0のサポートが行われた。`mono`がデフォルトで[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")で動作するように変更が行われた\[8\]。
+  - Mono 5.2.0では.NET Standard 2.0のサポートが行われた。`mono`がデフォルトで[64ビット](../Page/64ビット.md "wikilink")で動作するように変更が行われた\[8\]。
   - Mono 5.10.0では.NET 4.7.1・C\# 7.2・F\# 4.1への対応が行われた\[9\]。
   - Mono 5.12.0では[IBM AIXと](../Page/AIX.md "wikilink")[IBM iに対応した](../Page/IBM_i.md "wikilink")。Roslynベースの[VB.NETコンパイラ](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink")`vbc`が追加された\[10\]。
 

@@ -28,12 +28,12 @@
 7.  **NoblerotⅡ (instrument)**
 8.  **deep forest**
 9.  **LOST CHILD**
-10. **[金いろのひつじ](https://ja.wikipedia.org/wiki/LABYRINTH_\(ALI_PROJECTの曲\) "wikilink")**
+10. **[金いろのひつじ](../Page/LABYRINTH_\(ALI_PROJECTの曲\).md "wikilink")**
       -
         「LABYRINTH」の[C/W](https://ja.wikipedia.org/wiki/コンパクトディスク#タイトル曲・カップリング曲 "wikilink")。
 11. **月光夜**
 12. **Rose Moon** (ピアノ・ヴァージョン)
-13. **[LABYRINTH](https://ja.wikipedia.org/wiki/LABYRINTH_\(ALI_PROJECTの曲\) "wikilink")**
+13. **[LABYRINTH](../Page/LABYRINTH_\(ALI_PROJECTの曲\).md "wikilink")**
       -
         異色の曲調が賛否両論を巻き起こした事は、自身の公式サイトにも記述されている。
 

@@ -25,7 +25,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
   - 2008年
 
-:\* 4月12日、スペシャルドラマ『[先生はエライっ\!](https://ja.wikipedia.org/wiki/先生はエライっ! "wikilink")』に有岡が出演。
+:\* 4月12日、スペシャルドラマ『[先生はエライっ\!](../Page/先生はエライっ!.md "wikilink")』に有岡が出演。
 
   -
 

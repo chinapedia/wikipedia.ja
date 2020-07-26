@@ -62,7 +62,7 @@
 | 2005年 | [ファンタスティポ](../Page/ファンタスティポ_\(曲\).md "wikilink")                            | [トラジ・ハイジ](../Page/トラジ・ハイジ.md "wikilink")                    |      |
 | 2006年 | [衝動](../Page/衝動_\(B'zの曲\).md "wikilink")                                    | B'z                                                         |      |
 | 2007年 | 千の風になって                                                                     | 秋川雅史                                                        |      |
-| 2008年 | [LIPS](../Page/LIPS_\(KAT-TUNの曲\).md "wikilink")                            | [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") |      |
+| 2008年 | [LIPS](../Page/LIPS_\(KAT-TUNの曲\).md "wikilink")                            | [KAT-TUN](../Page/KAT-TUN.md "wikilink")                    |      |
 | 2009年 | [ONE DROP](https://ja.wikipedia.org/wiki/ONE_DROP "wikilink")               | KAT-TUN                                                     |      |
 | 2010年 | －                                                                           | －                                                           | 発表なし |
 | 2011年 | －                                                                           | －                                                           | 発表なし |

@@ -6,7 +6,7 @@
 ## 収録曲
 
 1.  **SAKURAマジック〜しあわせになろう〜**
-      - [作詞](../Page/作詞.md "wikilink")：野川さくら、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - [作詞](../Page/作詞.md "wikilink")：野川さくら、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[須藤賢一](../Page/須藤賢一.md "wikilink")
       - 2nd[アルバム](../Page/アルバム.md "wikilink")『[U・La・Ra](../Page/U・La・Ra.md "wikilink")』にも、収録されている
 2.  **Hello My Love**
       - 作詞・作曲：影山ヒロノブ、編曲：須藤賢一

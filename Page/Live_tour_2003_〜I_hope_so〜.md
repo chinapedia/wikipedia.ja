@@ -50,30 +50,30 @@
   - ツアー日程
     2003年5月15日から2003年7月13日、全国20都市21公演\[18\]
 
-| 日付（2003年） | 都道府県                                                  | 会場                                                                         |
-| --------- | ----------------------------------------------------- | -------------------------------------------------------------------------- |
-| 5月15日     | [東京都](../Page/東京都.md "wikilink")                      | [東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")                                 |
-| 5月17日     | [大阪府](../Page/大阪府.md "wikilink")                      | [大阪府立国際会議場](../Page/大阪府立国際会議場.md "wikilink")メインホール                         |
-| 5月19日     | [高知県](../Page/高知県.md "wikilink")                      | [高知県立県民文化ホール](https://ja.wikipedia.org/wiki/高知県立県民文化ホール "wikilink")オレンジホール |
-| 5月22日     | 東京都                                                   | [八王子市民会館](../Page/八王子市民会館.md "wikilink")                                   |
-| 5月24日     | [長野県](../Page/長野県.md "wikilink")                      | [長野県県民文化会館](../Page/長野県県民文化会館.md "wikilink")                               |
-| 5月27日     | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [グリーンホール相模大野](https://ja.wikipedia.org/wiki/グリーンホール相模大野 "wikilink")        |
-| 6月1日      | [兵庫県](../Page/兵庫県.md "wikilink")                      | [神戸国際会館](../Page/神戸国際会館.md "wikilink")こくさいホール                              |
-| 6月4日      | [静岡県](../Page/静岡県.md "wikilink")                      | [アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")                                 |
-| 6月7日      | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [群馬県民会館](../Page/群馬県民会館.md "wikilink")                                     |
-| 6月8日      | [千葉県](../Page/千葉県.md "wikilink")                      | 松戸[森のホール21](../Page/森のホール21.md "wikilink")                                 |
-| 6月11日     | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [北海道厚生年金会館](https://ja.wikipedia.org/wiki/北海道厚生年金会館 "wikilink")            |
-| 6月15日     | [福岡県](../Page/福岡県.md "wikilink")                      | [福岡市民会館](../Page/福岡市民会館.md "wikilink")                                     |
-| 6月20日     | 神奈川県                                                  | [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")              |
-| 6月22日     | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink")センチュリーホール                        |
-| 6月25日     | [愛媛県](../Page/愛媛県.md "wikilink")                      | [松山市民会館](../Page/松山市民会館.md "wikilink")大ホール                                 |
-| 6月27日     | [香川県](../Page/香川県.md "wikilink")                      | [香川県県民ホール](../Page/香川県県民ホール.md "wikilink")グランドホール                          |
-| 6月29日     | [埼玉県](../Page/埼玉県.md "wikilink")                      | [大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")                               |
-| 7月1日      | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")   | [宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink")大ホール                             |
-| 7月5日      | [山梨県](../Page/山梨県.md "wikilink")                      | [山梨県立県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")大ホール                       |
-| 7月11日     | 東京都                                                   | [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールA                           |
-| 7月13日     | 兵庫県                                                   | 神戸国際会館こくさいホール                                                              |
-|           |                                                       |                                                                            |
+| 日付（2003年） | 都道府県                                                  | 会場                                                                  |
+| --------- | ----------------------------------------------------- | ------------------------------------------------------------------- |
+| 5月15日     | [東京都](../Page/東京都.md "wikilink")                      | [東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")                          |
+| 5月17日     | [大阪府](../Page/大阪府.md "wikilink")                      | [大阪府立国際会議場](../Page/大阪府立国際会議場.md "wikilink")メインホール                  |
+| 5月19日     | [高知県](../Page/高知県.md "wikilink")                      | [高知県立県民文化ホール](../Page/高知県立県民文化ホール.md "wikilink")オレンジホール             |
+| 5月22日     | 東京都                                                   | [八王子市民会館](../Page/八王子市民会館.md "wikilink")                            |
+| 5月24日     | [長野県](../Page/長野県.md "wikilink")                      | [長野県県民文化会館](../Page/長野県県民文化会館.md "wikilink")                        |
+| 5月27日     | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [グリーンホール相模大野](https://ja.wikipedia.org/wiki/グリーンホール相模大野 "wikilink") |
+| 6月1日      | [兵庫県](../Page/兵庫県.md "wikilink")                      | [神戸国際会館](../Page/神戸国際会館.md "wikilink")こくさいホール                       |
+| 6月4日      | [静岡県](../Page/静岡県.md "wikilink")                      | [アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")                          |
+| 6月7日      | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [群馬県民会館](../Page/群馬県民会館.md "wikilink")                              |
+| 6月8日      | [千葉県](../Page/千葉県.md "wikilink")                      | 松戸[森のホール21](../Page/森のホール21.md "wikilink")                          |
+| 6月11日     | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [北海道厚生年金会館](https://ja.wikipedia.org/wiki/北海道厚生年金会館 "wikilink")     |
+| 6月15日     | [福岡県](../Page/福岡県.md "wikilink")                      | [福岡市民会館](../Page/福岡市民会館.md "wikilink")                              |
+| 6月20日     | 神奈川県                                                  | [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")       |
+| 6月22日     | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [名古屋国際会議場](../Page/名古屋国際会議場.md "wikilink")センチュリーホール                 |
+| 6月25日     | [愛媛県](../Page/愛媛県.md "wikilink")                      | [松山市民会館](../Page/松山市民会館.md "wikilink")大ホール                          |
+| 6月27日     | [香川県](../Page/香川県.md "wikilink")                      | [香川県県民ホール](../Page/香川県県民ホール.md "wikilink")グランドホール                   |
+| 6月29日     | [埼玉県](../Page/埼玉県.md "wikilink")                      | [大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")                        |
+| 7月1日      | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")   | [宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink")大ホール                      |
+| 7月5日      | [山梨県](../Page/山梨県.md "wikilink")                      | [山梨県立県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")大ホール                |
+| 7月11日     | 東京都                                                   | [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールA                    |
+| 7月13日     | 兵庫県                                                   | 神戸国際会館こくさいホール                                                       |
+|           |                                                       |                                                                     |
 
 ## 参照
 

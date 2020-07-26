@@ -1,7 +1,7 @@
 > この記事は[Rain of Dream 夢の罪](https://ja.wikipedia.org/wiki/Rain_of_Dream_夢の罪)から翻訳されています。
 
 
-「**Rain of Dream 夢の罪**」（レイン・オブ・ドリーム ゆめのつみ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月5日](../Page/9月5日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の55枚目の[シングル](../Page/シングル.md "wikilink")である。
+「**Rain of Dream 夢の罪**」（レイン・オブ・ドリーム ゆめのつみ）は、[1986年](../Page/1986年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の55枚目の[シングル](../Page/シングル.md "wikilink")である。
 
 ## 収録曲
 
@@ -19,7 +19,7 @@
 
 ## この頃のできごと
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")～[10月19日](../Page/10月19日.md "wikilink") - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にてコンサート『[Caravan From Tokyo](https://ja.wikipedia.org/wiki/Caravan_From_Tokyo "wikilink") - HIDEKI SAIJO CONCERT TOUR '86 -』を開催。
+  - [1986年](../Page/1986年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")～[10月19日](../Page/10月19日.md "wikilink") - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にてコンサート『[Caravan From Tokyo](https://ja.wikipedia.org/wiki/Caravan_From_Tokyo "wikilink") - HIDEKI SAIJO CONCERT TOUR '86 -』を開催。
 
 ## 関連項目
 

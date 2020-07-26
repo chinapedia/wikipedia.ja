@@ -221,7 +221,7 @@
   - [レジンキャストミルク](../Page/レジンキャストミルク.md "wikilink")
   - [空ノ鐘の響く惑星で](../Page/空ノ鐘の響く惑星で.md "wikilink")
   - [狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")
-  - [小さな国の救世主](https://ja.wikipedia.org/wiki/小さな国の救世主 "wikilink")
+  - [小さな国の救世主](../Page/小さな国の救世主.md "wikilink")
   - [乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")
   - [はにかみトライアングル](../Page/はにかみトライアングル.md "wikilink")
   - [撲殺天使ドクロちゃん](../Page/撲殺天使ドクロちゃん.md "wikilink")

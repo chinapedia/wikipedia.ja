@@ -32,13 +32,13 @@ DVDソフトは、『笑顔セラピー』から『永遠の1.8秒』までが20
       - プロデュース：[関谷正征](../Page/関谷正征.md "wikilink")（フジテレビ）
       - 演出：[成田岳](https://ja.wikipedia.org/wiki/成田岳 "wikilink")（フジテレビ）
   - [2006年](../Page/2006年.md "wikilink")『**[トゥルーラブ](../Page/トゥルーラブ.md "wikilink")**』（主演：[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")）※編成の都合（2月11日が土曜日）のため、[1月9日](../Page/1月9日.md "wikilink")の放送。
-      - 脚本：[古家和尚](https://ja.wikipedia.org/wiki/古家和尚 "wikilink")
+      - 脚本：[古家和尚](../Page/古家和尚.md "wikilink")
       - プロデュース：[東康之](https://ja.wikipedia.org/wiki/東康之 "wikilink")（フジテレビ）
       - 演出：[水田成英](../Page/水田成英.md "wikilink")（[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")）
   - [2007年](../Page/2007年.md "wikilink")『**[永遠の1.8秒](../Page/永遠の1.8秒.md "wikilink")**』（主演：[成海璃子](https://ja.wikipedia.org/wiki/成海璃子 "wikilink")）※編成の都合（2月11日が日曜日）のため、[2月12日](../Page/2月12日.md "wikilink")の放送。関西テレビで同時ネット。東海テレビで遅れネット（2月22日14:05 - ）。
       - 脚本：[清水達也](../Page/清水達也.md "wikilink")、[山本あかり](https://ja.wikipedia.org/wiki/山本あかり "wikilink")
       - プロデュース：[瀧山麻土香](../Page/瀧山麻土香.md "wikilink")、[三田真奈美](https://ja.wikipedia.org/wiki/三田真奈美 "wikilink")（フジテレビ）
-      - 演出：[加藤裕将](https://ja.wikipedia.org/wiki/加藤裕将 "wikilink")
+      - 演出：[加藤裕将](../Page/加藤裕将.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")『**[かるた小町](../Page/かるた小町.md "wikilink")**』（主演：[夏帆](https://ja.wikipedia.org/wiki/夏帆 "wikilink")、[南沢奈央](../Page/南沢奈央.md "wikilink")）※関西テレビで同時ネット。東海テレビで遅れネット（2月18日14:05-）
       - 脚本：[栗原鞠記](https://ja.wikipedia.org/wiki/栗原鞠記 "wikilink")
       - プロデュース：関谷正征（フジテレビ）
@@ -46,7 +46,7 @@ DVDソフトは、『笑顔セラピー』から『永遠の1.8秒』までが20
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")『**[初恋クロニクル](https://ja.wikipedia.org/wiki/初恋クロニクル "wikilink")**』（主演：[川口春奈](https://ja.wikipedia.org/wiki/川口春奈 "wikilink")）※BSフジで[3月13日](../Page/3月13日.md "wikilink")放送。
       - 脚本：[秋山竜平](https://ja.wikipedia.org/wiki/秋山竜平 "wikilink")
       - プロデュース：関谷正征（フジテレビ）
-      - 演出：[加藤裕将](https://ja.wikipedia.org/wiki/加藤裕将 "wikilink")（フジテレビ）
+      - 演出：[加藤裕将](../Page/加藤裕将.md "wikilink")（フジテレビ）
   - [2011年](../Page/2011年.md "wikilink")『**[フォルティッシモ〜また逢う日のために〜](https://ja.wikipedia.org/wiki/フォルティッシモ―また逢う日のために― "wikilink")**』（主演：[藤澤恵麻](../Page/藤澤恵麻.md "wikilink")）※BSフジで[9月24日](../Page/9月24日.md "wikilink")放送。
       - 脚本：[武井彩](https://ja.wikipedia.org/wiki/武井彩 "wikilink")
       - 企画：[中島寛朗](https://ja.wikipedia.org/wiki/中島寛朗 "wikilink")（BSフジ）

@@ -14,7 +14,7 @@
       -
         作詞・作曲：伊秩弘将
         [テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[イタズラなKiss](https://ja.wikipedia.org/wiki/イタズラなKiss "wikilink")」[主題歌](../Page/主題歌.md "wikilink")に起用された。
-        [PV撮影は](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、SPEEDにしては珍しく非[ロケ](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[撮影](../Page/撮影.md "wikilink")だった。また音楽番組向けのPVも存在する。内容としては[セピア調](../Page/セピア調.md "wikilink")の色合いであり海沿いの建物で歌うというものであった。
+        [PV撮影は](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、SPEEDにしては珍しく非[ロケ](../Page/ロケーション撮影.md "wikilink")[撮影](../Page/撮影.md "wikilink")だった。また音楽番組向けのPVも存在する。内容としては[セピア調](../Page/セピア調.md "wikilink")の色合いであり海沿いの建物で歌うというものであった。
         第5回の[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")では、SPEEDがトップとしてこの曲を披露した。
         2008年の3度目の再結成、完全復活後、初のシングル「[あしたの空](https://ja.wikipedia.org/wiki/あしたの空 "wikilink")」の3曲目に「White Love～STEADY～Body & Soul 2008」として[メドレー](../Page/メドレー.md "wikilink")で収録された。
 2.  **HAPPY TOGETHER**
@@ -31,7 +31,7 @@
   - [MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink")（\#1）
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 1](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends#SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends_1 "wikilink")（両曲、\#1はAtlanta Mix）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1、Re Track）
-  - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](https://ja.wikipedia.org/wiki/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!! "wikilink")（\#1、ライブ音源及びZa downtown smoove mix）
+  - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](../Page/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!!.md "wikilink")（\#1、ライブ音源及びZa downtown smoove mix）
   - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1、ライブ音源）
 
 <!-- end list -->

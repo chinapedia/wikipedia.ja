@@ -37,7 +37,7 @@
         作詞：[マツモトリエ](../Page/松本理恵.md "wikilink")、作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")、編曲：h-wonder
 7.  **[強くなれ](https://ja.wikipedia.org/wiki/COSMIC_RESCUE/強くなれ "wikilink")**
       -
-        作詞・作曲：[giris talk](https://ja.wikipedia.org/wiki/giris_talk "wikilink")([mavie](https://ja.wikipedia.org/wiki/mavie "wikilink")・[mayu](https://ja.wikipedia.org/wiki/mayu "wikilink"))、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞・作曲：[giris talk](https://ja.wikipedia.org/wiki/giris_talk "wikilink")([mavie](https://ja.wikipedia.org/wiki/mavie "wikilink")・[mayu](https://ja.wikipedia.org/wiki/mayu "wikilink"))、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
     <!-- end list -->
       - 24thシングルの2曲目
 8.  **I’m yours**

@@ -83,7 +83,7 @@
   - 佐々木史郎 - トランペット
   - 佐野聡 - トロンボーン
   - 田村直美 - コーラス
-  - [仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink") - コーラス
+  - [仁科かおり](../Page/仁科かおり.md "wikilink") - コーラス
   - [松田樹利亜](../Page/松田樹利亜.md "wikilink") - コーラス
   - [LISAGO](https://ja.wikipedia.org/wiki/LISAGO "wikilink") - コーラス
 

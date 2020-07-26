@@ -14,7 +14,7 @@
 ## メンバー
 
   - **キム・ヨンジュン**（、金 勇俊、[1984年](../Page/1984年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink") - ）AB型。[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。2代目リーダー。
-  - **キム・ジノ**（、金 鎮浩、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - ）B型。[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
+  - **キム・ジノ**（、金 鎮浩、[1986年](../Page/1986年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - ）B型。[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
   - **イ・ソクフン**（、李 碩薰、[1984年](../Page/1984年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink") - ）B型。[仁川出身](../Page/仁川広域市.md "wikilink")。2008年、チェ・ドンハ脱退後の新メンバーとして加入。
 
 ### 元メンバー

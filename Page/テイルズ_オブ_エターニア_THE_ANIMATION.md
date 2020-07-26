@@ -154,7 +154,7 @@
 <td><p><a href="../Page/高山カツヒコ.md" title="wikilink">高山カツヒコ</a></p></td>
 <td><p>釘宮洋</p></td>
 <td><p>うえだしげる</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷津美弥子" title="wikilink">谷津美弥子</a></p></td>
+<td><p><a href="../Page/谷津美弥子.md" title="wikilink">谷津美弥子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>

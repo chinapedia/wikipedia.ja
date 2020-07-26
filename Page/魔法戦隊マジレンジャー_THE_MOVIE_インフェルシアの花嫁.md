@@ -138,7 +138,7 @@ BGMの1曲には、音楽を担当した[山下康介](../Page/山下康介.md "
   -
 
       -
-        作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink") / 作曲：YOFFY / 編曲：[サイキックラバー](../Page/サイキックラバー.md "wikilink")・[大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌：[Sister MAYO](../Page/Sister_MAYO.md "wikilink")
+        作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink") / 作曲：YOFFY / 編曲：[サイキックラバー](../Page/サイキックラバー.md "wikilink")・[大石憲一郎](../Page/大石憲一郎.md "wikilink") / 歌：[Sister MAYO](../Page/Sister_MAYO.md "wikilink")
         曲はテレビシリーズと同じだが、本作のみヒカルがメインダンサーに加わり、映像も異なる。ミニコーナー部分はマンドラ坊やとスモーキーのかけあいで、スモーキーは「俺の出番これだけ\!?」と突っ込んでいた。エンディング後は本作のタイトルが表示された幕が閉まり、これまたマンドラ坊やとスモーキーが登場し、本作の終了を告げる。
 
   - 挿入歌

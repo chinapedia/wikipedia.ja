@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/貫地谷しほり" title="wikilink">貫地谷しほり</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/小島藤子" title="wikilink">小島藤子</a></li>
+<li><a href="../Page/小島藤子.md" title="wikilink">小島藤子</a></li>
 <li><a href="../Page/田中美保_(モデル).md" title="wikilink">田中美保</a></li>
 <li><a href="../Page/近野成美.md" title="wikilink">近野成美</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/渡辺早織" title="wikilink">渡辺早織</a></li>

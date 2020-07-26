@@ -25,7 +25,7 @@
 
 ## 移動ポータル事業
 
-2009年に[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") (ANA) と提携した「飛行機+バス」の往復割引セットを販売し、その後も[チェジュ航空](../Page/チェジュ航空.md "wikilink")や[エアプサン](https://ja.wikipedia.org/wiki/エアプサン "wikilink")、[春秋航空](../Page/春秋航空.md "wikilink")などの[LCC](https://ja.wikipedia.org/wiki/LCC "wikilink")と提携し、海外からの入国旅行者に対し力を入れている。
+2009年に[全日本空輸](../Page/全日本空輸.md "wikilink") (ANA) と提携した「飛行機+バス」の往復割引セットを販売し、その後も[チェジュ航空](../Page/チェジュ航空.md "wikilink")や[エアプサン](https://ja.wikipedia.org/wiki/エアプサン "wikilink")、[春秋航空](../Page/春秋航空.md "wikilink")などの[LCC](https://ja.wikipedia.org/wiki/LCC "wikilink")と提携し、海外からの入国旅行者に対し力を入れている。
 
 ダイナミックパッケージの予約システムによるバスと宿泊施設のセット商品「WillPACK」（いわゆる[フリープランに相当する商品](../Page/フリープラン_\(旅行\).md "wikilink")）も販売し、 [ウィークリーマンションを宿泊先に充当することで通常のホテルでは不可能な](../Page/短期賃貸マンション.md "wikilink")、バス下車後の早朝チェックインを可能にした商品も販売している。
 
@@ -91,7 +91,7 @@
 ## 関連項目
 
   - [マツダレンタカー](https://ja.wikipedia.org/wiki/マツダレンタカー "wikilink") - 「格安レンタカー」としてWILLER TRAVELで予約受付を行っている。
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") - 「[ANA×WILLER](http://travel.willer.co.jp/x/bus/dynamic/3/ja/html/pc/anawiller/)」：飛行機とバスを組み合わせたサービスを展開。
+  - [全日本空輸](../Page/全日本空輸.md "wikilink") - 「[ANA×WILLER](http://travel.willer.co.jp/x/bus/dynamic/3/ja/html/pc/anawiller/)」：飛行機とバスを組み合わせたサービスを展開。
   - [青山商事](../Page/青山商事.md "wikilink") - 「[洋服の青山×WILLER EXPRESS](http://www.q-click.jp/pc/visitor/affili/willer.php)」：ポイント付与の共同企画を展開。
   - [大阪エヴェッサ](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink") - 「[高速バスで応援しようキャンペーン](http://travel.willer.co.jp/x/bus/dynamic/3/ja/html/pc/campaign/evessa/)」：ポイント付与の共同企画を展開。
   - [リクナビ](../Page/リクナビ.md "wikilink") - 「就職応援　無料バス」

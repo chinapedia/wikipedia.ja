@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")出身。血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、身長163cm、バスト85cm、ウエスト60cm、ヒップ86cm、Fカップ、靴のサイズ24cm（[2007年](../Page/2007年.md "wikilink")当時）。[グラビア](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")、[レースクイーン](../Page/レースクイーン.md "wikilink")で活動。[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")まで[タスクオフィス](https://ja.wikipedia.org/wiki/タスクオフィス "wikilink")に所属。
+    [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")出身。血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、身長163cm、バスト85cm、ウエスト60cm、ヒップ86cm、Fカップ、靴のサイズ24cm（[2007年](../Page/2007年.md "wikilink")当時）。[グラビア](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")、[レースクイーン](../Page/レースクイーン.md "wikilink")で活動。[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")まで[タスクオフィス](../Page/タスクオフィス.md "wikilink")に所属。
 
 <!-- end list -->
 

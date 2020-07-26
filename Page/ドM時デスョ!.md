@@ -3,7 +3,7 @@
 
 『**ドM時デスョ\!**』（ドエムじデスョ）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")の[独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")・[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[お色気番組](../Page/お色気番組.md "wikilink")である。放送時間は毎週[土曜日](../Page/土曜日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")未明）の深夜0:00 - 0:55（[JST](../Page/日本標準時.md "wikilink")）。
 
-後継番組は[インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")と[レイザーラモン](../Page/レイザーラモン.md "wikilink")司会による『[今夜もハッスル](https://ja.wikipedia.org/wiki/今夜もハッスル "wikilink")』。
+後継番組は[インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")と[レイザーラモン](../Page/レイザーラモン.md "wikilink")司会による『[今夜もハッスル](../Page/今夜もハッスル.md "wikilink")』。
 
 この項目では、この番組の前身となる『**インリンのM時ですョ\!**（インリンのエムじですョ）』についても触れる。
 

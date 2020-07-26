@@ -7,7 +7,7 @@
 
   - 前作「[深紅の花](../Page/深紅の花.md "wikilink")」から1年半振りに発売された、結婚・出産後初めてのシングル。
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系金曜ドラマ『[九龍で会いましょう](../Page/九龍で会いましょう.md "wikilink")』挿入歌。本人もゲストで出演した。
-  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は、[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")が提供した「宝石箱」。[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")以外の女性シンガーソングライターを起用するのは初めて。
+  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は、[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")が提供した「宝石箱」。[中島みゆき](../Page/中島みゆき.md "wikilink")以外の女性シンガーソングライターを起用するのは初めて。
   - このシングルの前に「us…」が発売告知されたが（2001年4月25日予定）、直前で中止となった。同曲は後に改めてトラックダウンし、アルバムに収録された。
   - アルバム『[Jewelry Box](../Page/Jewelry_Box_\(工藤静香のアルバム\).md "wikilink")』には、「maple」の[リミックス](../Page/リミックス.md "wikilink")も収録されている。
 

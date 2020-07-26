@@ -14,7 +14,7 @@
   - [1996年](../Page/1996年.md "wikilink") - [9月](../Page/9月.md "wikilink")　インターネット放送を企画実行「南京町放送局」を設立\[1\]
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") Seebit創業\[2\]
   - [2001年](../Page/2001年.md "wikilink") - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") インターネット放送局「SeebitTV」を開局\[3\]
-  - [2006年](../Page/2006年.md "wikilink") - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") 「SeebitTV」のシステムを使い[のじぎく兵庫国体を](../Page/第61回国民体育大会.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")で「[はばタン](https://ja.wikipedia.org/wiki/はばタン "wikilink")ＴＶ」として配信
+  - [2006年](../Page/2006年.md "wikilink") - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") 「SeebitTV」のシステムを使い[のじぎく兵庫国体を](../Page/第61回国民体育大会.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")で「[はばタン](../Page/はばタン.md "wikilink")ＴＶ」として配信
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 夏頃より新しい番組が途絶える。事実上休止状態となる。
 
 ## 脚注

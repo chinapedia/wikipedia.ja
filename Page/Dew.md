@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p>クロノス〜時の贈り物〜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JFN" title="wikilink">JFN</a>系列<a href="../Page/エフエム東京.md" title="wikilink">TOKYO FM</a>『<a href="https://ja.wikipedia.org/wiki/クロノス_(ラジオ番組)" title="wikilink">中西哲生のクロノス</a>』<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/JFN" title="wikilink">JFN</a>系列<a href="../Page/エフエム東京.md" title="wikilink">TOKYO FM</a>『<a href="../Page/クロノス_(ラジオ番組).md" title="wikilink">中西哲生のクロノス</a>』<br />
 オープニングテーマ（2010年4月1日 - 2011年9月30日）</p></td>
 </tr>
 <tr class="odd">
@@ -178,5 +178,5 @@
 
 1.
 2.  「[未来の花束](https://ja.wikipedia.org/wiki/未来の花束 "wikilink")」の作詞を担当した[カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")をはじめ、[PENGIN](https://ja.wikipedia.org/wiki/PENGIN "wikilink")、[中孝介](../Page/中孝介.md "wikilink")、[和紗](https://ja.wikipedia.org/wiki/和紗 "wikilink")、[かりゆし58](../Page/かりゆし58.md "wikilink")、[ひいらぎ](https://ja.wikipedia.org/wiki/ひいらぎ_\(フォークグループ\) "wikilink")、[まきちゃんぐ](../Page/まきちゃんぐ.md "wikilink")、[しおりも参加](https://ja.wikipedia.org/wiki/しおり_\(シンガーソングライター\) "wikilink")。
-3.  放送番組: 『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』、『[music channel Hz](https://ja.wikipedia.org/wiki/music_channel_Hz "wikilink")』、『mm-TV』、『[MBSうたぐみ Smile×Songs](https://ja.wikipedia.org/wiki/MBSうたぐみ_Smile×Songs "wikilink")』（旧『[MBSサウンドキングダム](https://ja.wikipedia.org/wiki/MBSサウンドキングダム "wikilink")』）など
+3.  放送番組: 『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』、『[music channel Hz](https://ja.wikipedia.org/wiki/music_channel_Hz "wikilink")』、『mm-TV』、『[MBSうたぐみ Smile×Songs](https://ja.wikipedia.org/wiki/MBSうたぐみ_Smile×Songs "wikilink")』（旧『[MBSサウンドキングダム](../Page/MBSサウンドキングダム.md "wikilink")』）など
 4.

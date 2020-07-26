@@ -1,7 +1,7 @@
 > この記事は[ジョン・D・マクドナルド](https://ja.wikipedia.org/wiki/ジョン・D・マクドナルド)から翻訳されています。
 
 
-**ジョン・ダン・マクドナルド**（John Dann MacDonald、[1916年](../Page/1916年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")シャロン出身の[推理作家](../Page/推理作家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。別ペンネームにジョン・ウェイド・ファレル、ピーター・リードがある。探偵小説「[トラヴィス・マッギー](https://ja.wikipedia.org/wiki/トラヴィス・マッギー "wikilink")」シリーズで知られる。
+**ジョン・ダン・マクドナルド**（John Dann MacDonald、[1916年](../Page/1916年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")シャロン出身の[推理作家](../Page/推理作家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。別ペンネームにジョン・ウェイド・ファレル、ピーター・リードがある。探偵小説「[トラヴィス・マッギー](https://ja.wikipedia.org/wiki/トラヴィス・マッギー "wikilink")」シリーズで知られる。
 
 ## 経歴
 

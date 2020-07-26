@@ -24,7 +24,7 @@
 
   - Tomo （矢本友広、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）兵庫県出身
   - Eri （板谷映里、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月23日](../Page/3月23日.md "wikilink") - ） 大阪府出身
-  - Hiromu （江本浩武、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）大阪府出身
+  - Hiromu （江本浩武、[1986年](../Page/1986年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）大阪府出身
   - Yui （船瀬唯 、[1989年](../Page/1989年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - ）大阪府出身
 
 ## 作品

@@ -39,7 +39,7 @@
       - 作詞：愛絵理 、作曲：[都志見隆](../Page/都志見隆.md "wikilink") 、編曲：澤近泰輔
       - アルバム『[Purple](../Page/Purple_\(工藤静香のアルバム\).md "wikilink")』に収録
 10. **[雪・月・花](../Page/雪・月・花.md "wikilink")** （4:47）
-      - 作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink") 、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
+      - 作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink") 、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
       - 31stシングル、アルバム初収録
 11. **[微熱](https://ja.wikipedia.org/wiki/DRESS_\(工藤静香のアルバム\)#収録曲 "wikilink")** （4:33）
       - 作詞：愛絵理 、作曲：[はたけ](../Page/はたけ.md "wikilink") 、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")

@@ -56,7 +56,7 @@ stub
   - 1943/08/18 - 1943/10/20 SS少将 [フリッツ・フライターク](https://ja.wikipedia.org/wiki/フリッツ・フライターク "wikilink") ([:en:Fritz Freitag](https://ja.wikipedia.org/wiki/:en:Fritz_Freitag "wikilink"))
   - 1943/10/20 - 1944/04/19 SS上級大佐 [フリードリヒ・ヴィルヘルム・ボック](https://ja.wikipedia.org/wiki/フリードリヒ・ヴィルヘルム・ボック "wikilink") ([:en:Friedrich-Wilhelm Bock](https://ja.wikipedia.org/wiki/:en:Friedrich-Wilhelm_Bock "wikilink"))
   - 1944/04/19 - 1944/05/?? SS少将 [ユルゲン・ヴァーグナー](https://ja.wikipedia.org/wiki/ユルゲン・ヴァーグナー "wikilink") ([:en:Jürgen Wagner](https://ja.wikipedia.org/wiki/:en:Jürgen_Wagner "wikilink"))
-  - 1944/05/?? - 1944/05/07 [SS上級大佐](https://ja.wikipedia.org/wiki/親衛隊上級大佐 "wikilink") [フリードリヒ・ヴィルヘルム・ボック](https://ja.wikipedia.org/wiki/フリードリヒ・ヴィルヘルム・ボック "wikilink") ([:en:Friedrich-Wilhelm Bock](https://ja.wikipedia.org/wiki/:en:Friedrich-Wilhelm_Bock "wikilink"))
+  - 1944/05/?? - 1944/05/07 [SS上級大佐](../Page/親衛隊上級大佐.md "wikilink") [フリードリヒ・ヴィルヘルム・ボック](https://ja.wikipedia.org/wiki/フリードリヒ・ヴィルヘルム・ボック "wikilink") ([:en:Friedrich-Wilhelm Bock](https://ja.wikipedia.org/wiki/:en:Friedrich-Wilhelm_Bock "wikilink"))
   - 1944/05/07 - 1944/07/22 SS少将 [ヘルベルト・エルンスト・ヴァール](https://ja.wikipedia.org/wiki/ヘルベルト・エルンスト・ヴァール "wikilink") ([:en:Herbert-Ernst Vahl](https://ja.wikipedia.org/wiki/:en:Herbert-Ernst_Vahl "wikilink"))
   - 1944/07/22 - 1944/08/16 [SS大佐](../Page/親衛隊大佐.md "wikilink") [カール・シュメーズ](https://ja.wikipedia.org/wiki/カール・シュメーズ "wikilink") ([:en:Karl Schümers](https://ja.wikipedia.org/wiki/:en:Karl_Schümers "wikilink"))
   - 1944/08/16 - 1944/08/22 SS上級大佐 [ヘルムート・デルナー](https://ja.wikipedia.org/wiki/ヘルムート・デルナー "wikilink") ([:en:Helmuth Dörnder](https://ja.wikipedia.org/wiki/:en:Helmuth_Dörnder "wikilink"))

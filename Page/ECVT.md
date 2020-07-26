@@ -31,7 +31,7 @@ ECVT車の[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikil
   - [1994年](../Page/1994年.md "wikilink")（平成6年）- ドミンゴに搭載
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）- ヴィヴィオに「[6速マニュアルモード付スポーツシフト](https://ja.wikipedia.org/wiki/スバル・ヴィヴィオ#トランスミッション "wikilink")」を採用
 
-このほか[フィアット](../Page/フィアット.md "wikilink")へも供給され、[パンダと](https://ja.wikipedia.org/wiki/フィアット・パンダ "wikilink")[ウーノに採用された](https://ja.wikipedia.org/wiki/フィアット・ウーノ "wikilink")。
+このほか[フィアット](../Page/フィアット.md "wikilink")へも供給され、[パンダと](https://ja.wikipedia.org/wiki/フィアット・パンダ "wikilink")[ウーノに採用された](../Page/フィアット・ウーノ.md "wikilink")。
 
 公益社団法人[自動車技術会](https://ja.wikipedia.org/wiki/自動車技術会 "wikilink")の委員会が「後世に語り継ぐべき特徴を持つ故実」として選定した「日本の自動車技術330選」にECVT（スバルジャスティ搭載） 製作（製造）年 1987が選ばれている。
 

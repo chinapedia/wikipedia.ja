@@ -1,7 +1,7 @@
 > この記事は[T-ウィルス](https://ja.wikipedia.org/wiki/T-ウィルス)から翻訳されています。
 
 
-**T-ウィルス**（正式名称：Tyrant Virus\[1\]）とは、[カプコン](../Page/カプコン.md "wikilink")のテレビゲーム『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』、およびその派生作品に登場する架空の[ウイルス](../Page/ウイルス.md "wikilink")である。
+**T-ウィルス**（正式名称：Tyrant Virus\[1\]）とは、[カプコン](../Page/カプコン.md "wikilink")のテレビゲーム『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』、およびその派生作品に登場する架空の[ウイルス](../Page/ウイルス.md "wikilink")である。
 
 ## 解説及び登場作品
 

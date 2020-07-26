@@ -7,7 +7,7 @@
 
 [1945年](../Page/1945年.md "wikilink")に機械工であるロイ・コックスは、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")プラセンシア（Placentia）で「L.M.コックス製造社（The L. M. Cox Manufacturing Co, Inc.）」を創業。コックスは父の自転車屋やその周辺で育ち、機械や部品への興味を持つようになった。創業当初は木製コルク銃の玩具を車庫で生産していた。素材に木を選んだ理由は戦時中で金属が不足していたためだった。
 
-[第2次大戦](https://ja.wikipedia.org/wiki/第2次大戦 "wikilink")後、1947年に金属の不足が解消されると、[ダイキャスト](https://ja.wikipedia.org/wiki/ダイキャスト "wikilink")製のクルマの玩具を製造するようになる。この商品はダイキャスト製のウィップカー([テザーカー](https://ja.wikipedia.org/wiki/テザーカー "wikilink"))と呼ばれ、ヒモで結ばれていてその周りを円を描く様に走る自動車だった。[ニトロ](https://ja.wikipedia.org/wiki/ニトロ "wikilink")と[ガソリン](../Page/ガソリン.md "wikilink")を燃料とするテザーカーは0.6立方インチ（9.83cm<sup>3</sup>）の排気量のエンジンを搭載し、時速160キロの速度で走り、たちまち人気が出た。
+[第2次大戦](https://ja.wikipedia.org/wiki/第2次大戦 "wikilink")後、1947年に金属の不足が解消されると、[ダイキャスト](https://ja.wikipedia.org/wiki/ダイキャスト "wikilink")製のクルマの玩具を製造するようになる。この商品はダイキャスト製のウィップカー([テザーカー](../Page/テザーカー.md "wikilink"))と呼ばれ、ヒモで結ばれていてその周りを円を描く様に走る自動車だった。[ニトロ](https://ja.wikipedia.org/wiki/ニトロ "wikilink")と[ガソリン](../Page/ガソリン.md "wikilink")を燃料とするテザーカーは0.6立方インチ（9.83cm<sup>3</sup>）の排気量のエンジンを搭載し、時速160キロの速度で走り、たちまち人気が出た。
 
 コックスは戦後は[Uコン](https://ja.wikipedia.org/wiki/Uコン "wikilink")機向けの小型[内燃機関](../Page/内燃機関.md "wikilink")の生産で成長し、1963年にはカリフォルニア州[サンタアナに](../Page/サンタアナ_\(カリフォルニア州\).md "wikilink")8万平方フィートの工場を建設した。数年のうちに3回拡張して22.5万平方フィートになり、[スロットカー](../Page/スロットカー.md "wikilink")、[モデルロケット](../Page/モデルロケット.md "wikilink")、[HOゲージ](../Page/HOゲージ.md "wikilink")の[鉄道模型](../Page/鉄道模型.md "wikilink")や[チェーンソー](../Page/チェーンソー.md "wikilink")用の1馬力のガソリンエンジンを生産した。特に高性能の超小型グローエンジン、TeeDee 01、02、PeeWee 02は同社の独壇場であり、049、051を含めて、フリーフライト機、C/L（Ｕコン）機、ラジコン機に搭載された。
 

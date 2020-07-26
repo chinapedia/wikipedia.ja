@@ -3,13 +3,13 @@
 
 **UFC Fight Night: Sanchez vs. Riggs**（ユーエフシー・ファイトナイト：サンチェス・バーサス・リッグス、別名**UFC Fight Night 7**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")のミラマー海兵隊航空基地で開催された。
 
-メインイベントでは、[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")と[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")によるウェルター級戦が行われた。なお、大会はSpikeにより全米及びカナダへ無料放送された。
+メインイベントでは、[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")と[ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")によるウェルター級戦が行われた。なお、大会はSpikeにより全米及びカナダへ無料放送された。
 
 ## 大会概要
 
 通常のスポーツアリーナではなく海兵隊の基地で行われた初の大会であり、ミラマー海兵隊航空基地の第一格納庫が会場となった。
 
-メインイベントでは、[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")が[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")にKO勝ちを収めた。
+メインイベントでは、[ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")が[ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")にKO勝ちを収めた。
 
 [MFCライトヘビー級王者ビクター](https://ja.wikipedia.org/wiki/Maximum_Fighting_Championship "wikilink")・ヴァリマキ、キャリア17戦無敗の[中村K太郎](../Page/中村K太郎.md "wikilink")、9戦全勝の[ローガン・クラーク](https://ja.wikipedia.org/wiki/ローガン・クラーク "wikilink")、6戦全勝のスティーブ・バーンズがUFCデビュー。
 
@@ -47,7 +47,7 @@
     ○  [ジョシュ・コスチェック](../Page/ジョシュ・コスチェック.md "wikilink") vs.  ジェフ・ジョスリン ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第9試合 ウェルター級 5分3R
-    ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+    ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") ×
     1R 1:45 KO（膝蹴り）
 
 ## 脚注

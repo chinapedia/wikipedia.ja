@@ -159,7 +159,7 @@
 <td><p>2002-03</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2002-03.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">FBKカウナス</a></p></td>
+<td><p><a href="../Page/FBKカウナス.md" title="wikilink">FBKカウナス</a></p></td>
 <td><p>0–0</p></td>
 <td><p>3–2</p></td>
 <td><p>'''3-2</p></td>

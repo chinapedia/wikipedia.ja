@@ -9,7 +9,7 @@
   - ソロデビュー曲「[禁断のテレパシー](../Page/禁断のテレパシー.md "wikilink")」から、2007年8月時点の最新シングル「雨夜の月に」まで、全A面曲（40タイトル）中29曲を収録する。「[Lotus ～生まれし花](../Page/Lotus_-生まれし花-.md "wikilink")」（シングルバージョン）、「[Clāvis -鍵-](../Page/Clavis_-鍵-.md "wikilink")」、「[雨夜の月に](../Page/雨夜の月に.md "wikilink")」はアルバム初収録のA面曲である。
   - 初回盤は[DVD](../Page/DVD.md "wikilink")付で、「[Lotus〜生まれし花〜](../Page/Lotus_-生まれし花-.md "wikilink")」「[心のチカラ](../Page/心のチカラ.md "wikilink")」「[Clāvis -鍵-](../Page/Clavis_-鍵-.md "wikilink")」「[雨夜の月に](../Page/雨夜の月に.md "wikilink")」4曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、過去のライブ映像のダイジェストを収録する。
   - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")作詞、[後藤次利](../Page/後藤次利.md "wikilink")作曲によるバラード「[恋一夜](../Page/恋一夜.md "wikilink")」「[めちゃくちゃに泣いてしまいたい](../Page/めちゃくちゃに泣いてしまいたい.md "wikilink")」が、オリジナル・ヴァージョンのほかにボーカル再録による別アレンジ・ヴァージョンでそれぞれ収録されている。
-  - 2005年5月25日発売の[山口百恵](../Page/山口百恵.md "wikilink")トリビュートアルバム『[山口百恵トリビュート Thank You For…part2](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…part2 "wikilink")』から「曼珠沙華」が収録されている。
+  - 2005年5月25日発売の[山口百恵](../Page/山口百恵.md "wikilink")トリビュートアルバム『[山口百恵トリビュート Thank You For…part2](../Page/山口百恵トリビュート_Thank_You_For…part2.md "wikilink")』から「曼珠沙華」が収録されている。
   - 工藤公認のオールタイム・ベストアルバムとしては、1996年発売の『[She Best of Best](../Page/She_Best_of_Best.md "wikilink")』以来となる。なお、以降に1998年11月18日発売のバラード・セレクション・アルバム『[Best of Ballade カレント](../Page/Best_of_Ballade_カレント.md "wikilink")』、2000年3月15日発売の非公認シングル・コレクション・アルバム『[ミレニアム・ベスト](../Page/ミレニアム・ベスト_\(工藤静香のアルバム\).md "wikilink")』\[1\]などが発売されている。
   - 20周年記念商品として、他にライブDVD集『[Shizuka Kudo THE LIVE DVD COMPLETE BOX](../Page/Shizuka_Kudo_THE_LIVE_DVD_COMPLETE_BOX.md "wikilink")』（2007年9月19日）、シングルB面コレクション『[20th Anniversary B-side collection](../Page/20th_Anniversary_B-side_collection.md "wikilink")』（2008年3月5日）がある。
 
@@ -24,7 +24,7 @@
 3.  **[抱いてくれたらいいのに](../Page/抱いてくれたらいいのに.md "wikilink")**
       - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲・編曲：後藤次利
 4.  **[FU-JI-TSU](../Page/FU-JI-TSU.md "wikilink")**
-      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、作曲・編曲：後藤次利
+      - 作詞：[中島みゆき](../Page/中島みゆき.md "wikilink")、作曲・編曲：後藤次利
 5.  **[MUGO・ん…色っぽい](../Page/MUGO・ん…色っぽい.md "wikilink")**
       - 作詞：中島みゆき、作曲・編曲：後藤次利
 6.  **[恋一夜](../Page/恋一夜.md "wikilink")**

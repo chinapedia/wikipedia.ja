@@ -1,7 +1,7 @@
 > この記事は[雷酸銀\(I\)](https://ja.wikipedia.org/wiki/雷酸銀\(I\))から翻訳されています。
 
 
-}} **雷酸銀(I)**（らいさんぎん いち、）は、[化学式](../Page/化学式.md "wikilink")が AgCNO で表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[雷酸塩](https://ja.wikipedia.org/wiki/雷酸塩 "wikilink")で、爆発性の物質である。シアン酸銀の構造異性体である。
+}} **雷酸銀(I)**（らいさんぎん いち、）は、[化学式](../Page/化学式.md "wikilink")が AgCNO で表される[銀](../Page/銀.md "wikilink")の[雷酸塩](https://ja.wikipedia.org/wiki/雷酸塩 "wikilink")で、爆発性の物質である。シアン酸銀の構造異性体である。
 
 ## 性質
 

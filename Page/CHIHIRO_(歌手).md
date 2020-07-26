@@ -9,7 +9,7 @@
 
 2006年よりシンガーとしてのキャリアをスタート\[5\]。アナログ盤の限定シングル「In the FLOOR」がクラブ・シーンで注目されると、2007年に『Jewels』でアルバム・デビュー\[6\]\[7\]。
 
-これまで[スポンテニア](https://ja.wikipedia.org/wiki/スポンテニア "wikilink")の[Tarantulaや](https://ja.wikipedia.org/wiki/Spontania#メンバー "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[DJ Deckstream](../Page/DJ_Deckstream.md "wikilink")、[WISE](../Page/WISE.md "wikilink")、[GIORGIO 13](https://ja.wikipedia.org/wiki/So'_Fly#メンバー "wikilink")、[HI-D](../Page/HI-D.md "wikilink")、[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")、[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")のTOCなどとコラボレーション。
+これまで[スポンテニア](https://ja.wikipedia.org/wiki/スポンテニア "wikilink")の[Tarantulaや](https://ja.wikipedia.org/wiki/Spontania#メンバー "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[DJ Deckstream](../Page/DJ_Deckstream.md "wikilink")、[WISE](../Page/WISE.md "wikilink")、[GIORGIO 13](https://ja.wikipedia.org/wiki/So'_Fly#メンバー "wikilink")、[HI-D](../Page/HI-D.md "wikilink")、[Sweep](../Page/Sweep.md "wikilink")、[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")のTOCなどとコラボレーション。
 
 ## ディスコグラフィー
 

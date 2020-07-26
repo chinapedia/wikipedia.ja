@@ -11,7 +11,7 @@
 
 従来は[携帯電話](../Page/携帯電話.md "wikilink")や[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")、デジタル[テレビ](../Page/テレビ.md "wikilink")など各製品群ごとに[ハードウェア](../Page/ハードウェア.md "wikilink")を用意し、そこから[マイクロコードやOS](../Page/マイクロプログラム方式.md "wikilink")、ミドルウェア、[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")などを個別に開発してきたが、UniPhierによる統合プラットフォームでは、ベースハードウェアの上に各製品固有なソフトウェアを開発するだけで済むため、ソフトウェア開発効率を高めることができる。設計開発はパナソニック株式会社 デバイス社が行っている。
 
-UniPhierには、高品位[AV](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")（パナソニックの高画質、高音質技術集約）、低[消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")（AV機器の長時間動作）、[リアルタイム処理](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink")（複数のAV処理でもスムーズ動作）、セキュア機構（AVコンテンツ、個人データ保護）などの特徴があり、低消費電力を求められる携帯電話分野、高性能な[コーデック](../Page/コーデック.md "wikilink")処理を要求されるホームAV機器など、製品分野に最適なシステムLSIとして選択できる。
+UniPhierには、高品位[AV](../Page/オーディオ・ビジュアル.md "wikilink")（パナソニックの高画質、高音質技術集約）、低[消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")（AV機器の長時間動作）、[リアルタイム処理](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink")（複数のAV処理でもスムーズ動作）、セキュア機構（AVコンテンツ、個人データ保護）などの特徴があり、低消費電力を求められる携帯電話分野、高性能な[コーデック](../Page/コーデック.md "wikilink")処理を要求されるホームAV機器など、製品分野に最適なシステムLSIとして選択できる。
 
 [VIERA](../Page/VIERA.md "wikilink")に搭載している画質改善エンジン「PEAKS[プロセッサ](../Page/プロセッサ.md "wikilink")」なども順次UniPhierに統合された。
 

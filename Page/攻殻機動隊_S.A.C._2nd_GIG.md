@@ -112,7 +112,7 @@
   - 「rise」
     作詞 - Tim Jensen、Origa / 作曲・編曲 - [菅野よう子](../Page/菅野よう子.md "wikilink") / 歌 - [Origa](../Page/Origa.md "wikilink")
   - 「Christmas in the silent forest」
-    作詞 - Shanti Snydar / 作曲、編曲 - 菅野よう子 / 歌 - [Ilaria Graziano](https://ja.wikipedia.org/wiki/イラリア・グラツィアーノ "wikilink")
+    作詞 - Shanti Snydar / 作曲、編曲 - 菅野よう子 / 歌 - [Ilaria Graziano](../Page/イラリア・グラツィアーノ.md "wikilink")
       - 地上波放送用
 
 ### エンディングテーマ

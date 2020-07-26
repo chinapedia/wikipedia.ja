@@ -79,7 +79,7 @@
 <!-- end list -->
 
   - [とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")（フジテレビ）第13回「[博士と助手〜細かすぎて伝わらないモノマネ選手権〜](../Page/博士と助手〜細かすぎて伝わらないモノマネ選手権〜.md "wikilink")」に出場。
-  - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）キャッチコピーは「参上\!ホワイト赤マン」
+  - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）キャッチコピーは「参上\!ホワイト赤マン」
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（TBSテレビ）『ゴールドラッシュ』に出演、1週目クリア。
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）
   - [みちのくインパルス](../Page/みちのくインパルス.md "wikilink")（秋田テレビ）

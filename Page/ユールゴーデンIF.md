@@ -149,7 +149,7 @@
 <td><p>1967-68</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1967-68.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グールニク・ザブジェ" title="wikilink">グールニク・ザブジェ</a></p></td>
+<td><p><a href="../Page/グールニク・ザブジェ.md" title="wikilink">グールニク・ザブジェ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''0-4</p></td>
@@ -319,7 +319,7 @@
 <td><p>2004-05</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">FBKカウナス</a></p></td>
+<td><p><a href="../Page/FBKカウナス.md" title="wikilink">FBKカウナス</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-0</p></td>
 <td><p>'''2-0</p></td>

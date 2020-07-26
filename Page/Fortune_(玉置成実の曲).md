@@ -1,7 +1,7 @@
 > この記事は[Fortune \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Fortune_\(玉置成実の曲\))から翻訳されています。
 
 
-「**Fortune**」（フォーチュン）は、[玉置成実](../Page/玉置成実.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")から発売された。
+「**Fortune**」（フォーチュン）は、[玉置成実](../Page/玉置成実.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")から発売された。
 
 ## 概要
 

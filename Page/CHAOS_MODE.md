@@ -16,7 +16,7 @@
 2.  **-R-TYPE ｢瞳の色｣**
     (作詞・作曲:YASU)
       -
-        曲名の由来は[アイレムの](../Page/アピエス.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")「[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")」から。[PVが存在する](../Page/ミュージック・ビデオ.md "wikilink")。
+        曲名の由来は[アイレムの](../Page/アピエス.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")「[R-TYPE](../Page/R-TYPE.md "wikilink")」から。[PVが存在する](../Page/ミュージック・ビデオ.md "wikilink")。
 3.  **Psycho Dance**
     (作詞:YASU 作曲:Janne Da Arc)
       -

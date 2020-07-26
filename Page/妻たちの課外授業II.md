@@ -1,7 +1,7 @@
 > この記事は[妻たちの課外授業II](https://ja.wikipedia.org/wiki/妻たちの課外授業II)から翻訳されています。
 
 
-『**妻たちの課外授業II**』（つまたちのかがいじゅぎょう2）は、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ枠で放映された日本の](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放映期間は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月8日](../Page/10月8日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの全24話で、毎週水曜日の22:00 - 22:54に放映された。
+『**妻たちの課外授業II**』（つまたちのかがいじゅぎょう2）は、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ枠で放映された日本の](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放映期間は[1986年](../Page/1986年.md "wikilink")（昭和61年）[10月8日](../Page/10月8日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの全24話で、毎週水曜日の22:00 - 22:54に放映された。
 
 ## 概要
 
@@ -59,7 +59,7 @@
 
 ## 主題歌
 
-  - 「ラブソングは唄えない」（[ビクター](../Page/日本ビクター.md "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[11月5日](../Page/11月5日.md "wikilink")発売、C/W『きっとonly you』）
+  - 「ラブソングは唄えない」（[ビクター](../Page/日本ビクター.md "wikilink")、[1986年](../Page/1986年.md "wikilink")（昭和61年）[11月5日](../Page/11月5日.md "wikilink")発売、C/W『きっとonly you』）
       - 作詞：[佐藤純子](https://ja.wikipedia.org/wiki/佐藤純子 "wikilink")
       - 作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")
       - 編曲：[西平彰](../Page/西平彰.md "wikilink")

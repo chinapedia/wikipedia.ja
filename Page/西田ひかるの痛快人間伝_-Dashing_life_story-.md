@@ -49,7 +49,7 @@
 | 1992年5月28日  | [棟方志功](../Page/棟方志功.md "wikilink")                                      |
 | 1992年6月4日   | [アンリ・ファーブル](../Page/ジャン・アンリ・ファーブル.md "wikilink")                        |
 | 1992年6月11日  | [本田宗一郎](../Page/本田宗一郎.md "wikilink")                                    |
-| 1992年6月18日  | [白瀬矗](https://ja.wikipedia.org/wiki/白瀬矗 "wikilink")                     |
+| 1992年6月18日  | [白瀬矗](../Page/白瀬矗.md "wikilink")                                        |
 | 1992年7月2日   | [小泉八雲](../Page/小泉八雲.md "wikilink")                                      |
 
 | 放送日         | 特集人物                                                            |

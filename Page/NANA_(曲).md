@@ -1,7 +1,7 @@
 > この記事は[NANA \(曲\)](https://ja.wikipedia.org/wiki/NANA_\(曲\))から翻訳されています。
 
 
-「**NANA**」（ナナ）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[チェッカーズ](../Page/チェッカーズ.md "wikilink")の楽曲で、12枚目のシングル。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")発売（発売元は[キャニオンレコード](../Page/ポニーキャニオン.md "wikilink")）。
+「**NANA**」（ナナ）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[チェッカーズ](../Page/チェッカーズ.md "wikilink")の楽曲で、12枚目のシングル。[1986年](../Page/1986年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")発売（発売元は[キャニオンレコード](../Page/ポニーキャニオン.md "wikilink")）。
 
 ## 解説
 

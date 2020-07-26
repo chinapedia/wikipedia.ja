@@ -13,7 +13,7 @@
 
   - [1977年](../Page/1977年.md "wikilink")7月 - [亀山敬司](https://ja.wikipedia.org/wiki/亀山敬司 "wikilink")の父と実姉である霜下順子が会社を設立。加賀市内のショッピングセンター内でフルーツパーラー[森永](https://ja.wikipedia.org/wiki/森永 "wikilink")を、加賀市外でレストランを運営\[3\]。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 亀山敬司が経営に参加。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 亀山敬司がレンタルビデオ1号店を石川県小松市で出店。すぐに撤退し、[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")に再出店\[4\]。
+  - [1986年](../Page/1986年.md "wikilink") - 亀山敬司がレンタルビデオ1号店を石川県小松市で出店。すぐに撤退し、[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")に再出店\[4\]。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
       - 第2種旅行業から撤退\[5\]。
       - 1月 - 本格的に物流業を開始。スーパーマーケットコドー跡地（現 砂走公園）に物流センターを開設。

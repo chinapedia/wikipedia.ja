@@ -44,7 +44,7 @@
 
 **OSKAR The Woodland Spirit**（オスカー・ザ・ウッドランド・スピリット）は作品の位置付けとしては「SUN IN THE FOREST」五部作から続くものである。邦訳すると「木の国の妖精オスカー」といった意味になる。
 
-内容は同様に森の中で戯れるOskar少年を描いたものであるが、本作は彼のソロ作品となっている。また、[ロケの行われた森も](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")「SUN IN THE FOREST」シリーズとは異なり、さらに深い[針葉樹林](../Page/針葉樹林.md "wikilink")である。本作の特徴は「SUN IN THE FOREST」シリーズのように森で戯れること目的としてやって来て、そして遊び終えて後にするといった場面がなく、故に服を脱いだり着たりする場面も存在しない、全編通してのヌード作品であることが挙げられる。
+内容は同様に森の中で戯れるOskar少年を描いたものであるが、本作は彼のソロ作品となっている。また、[ロケの行われた森も](../Page/ロケーション撮影.md "wikilink")「SUN IN THE FOREST」シリーズとは異なり、さらに深い[針葉樹林](../Page/針葉樹林.md "wikilink")である。本作の特徴は「SUN IN THE FOREST」シリーズのように森で戯れること目的としてやって来て、そして遊び終えて後にするといった場面がなく、故に服を脱いだり着たりする場面も存在しない、全編通してのヌード作品であることが挙げられる。
 
 森の中を[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")で疾走し、また、その森の中で見付けた[櫓](../Page/櫓.md "wikilink")を壊して遊ぶ様子が収録されている。
 
@@ -55,7 +55,7 @@
 
 **WE ALL SWING TOGETHER AND FUN IN THE FOREST**（ウィー・アー・スウィング・トゥゲザー・アンド・ファン・イン・ザ・フォレスト）は同じく[PojkART](../Page/PojkART.md "wikilink")のビデオ作品であり、「SUN IN THE FOREST」シリーズのヒントとなったタイトルである。[1991年](../Page/1991年.md "wikilink")作。
 
-もともとは「WE ALL SWING TOGETHER」、「FUN IN THE FOREST」という2本のビデオ作品であり、[DVD](../Page/DVD.md "wikilink")化に際して1つにまとめられた。2つは連続した内容となっており、登場する少年も同じであるが、[ロケの行われた場所は違うものと思われる](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。内容は「SUN IN THE FOREST」シリーズと同様、森の中で全裸になってゲームに興じたり、秘密基地を作るといったものであるが、Oskarシリーズと比べて出演者の少年たちに自由に振舞わせており、その反面、[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")的なものが希薄である故に演出面として映像作品としての焦点が定まり切っていない点が見受けられる。
+もともとは「WE ALL SWING TOGETHER」、「FUN IN THE FOREST」という2本のビデオ作品であり、[DVD](../Page/DVD.md "wikilink")化に際して1つにまとめられた。2つは連続した内容となっており、登場する少年も同じであるが、[ロケの行われた場所は違うものと思われる](../Page/ロケーション撮影.md "wikilink")。内容は「SUN IN THE FOREST」シリーズと同様、森の中で全裸になってゲームに興じたり、秘密基地を作るといったものであるが、Oskarシリーズと比べて出演者の少年たちに自由に振舞わせており、その反面、[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")的なものが希薄である故に演出面として映像作品としての焦点が定まり切っていない点が見受けられる。
 
 基本的に全編通して無声で、[モーツァルトの曲が](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink")[BGMとして使用されている](../Page/バックグラウンドミュージック.md "wikilink")。Oskarシリーズは一部を除いて音声は収録されているが、BGMにモーツァルトが多用されるあたりも本作に影響を受けていることが窺える。またタイトルの「FUN IN THE FOREST」と「SUN IN THE FOREST」の類似点も見られる。
 

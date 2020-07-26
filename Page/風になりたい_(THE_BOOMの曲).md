@@ -48,7 +48,7 @@ CMソングとしても度々使用されており、これまでに「[DCカー
   - [フルーツポンチ](../Page/フルーツポンチ_\(お笑いコンビ\).md "wikilink")（[亘健太郎](https://ja.wikipedia.org/wiki/亘健太郎 "wikilink")、[村上健志](https://ja.wikipedia.org/wiki/村上健志 "wikilink")）
   - [柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")
   - [ロッチ](../Page/ロッチ.md "wikilink")（[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")、[コカドケンタロウ](https://ja.wikipedia.org/wiki/コカドケンタロウ "wikilink")）
-  - [我が家](../Page/我が家.md "wikilink")（[坪倉由幸](https://ja.wikipedia.org/wiki/坪倉由幸 "wikilink")、[杉山裕之](https://ja.wikipedia.org/wiki/杉山裕之 "wikilink")、[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")）
+  - [我が家](../Page/我が家.md "wikilink")（[坪倉由幸](../Page/坪倉由幸.md "wikilink")、[杉山裕之](../Page/杉山裕之.md "wikilink")、[谷田部俊](../Page/谷田部俊.md "wikilink")）
 
 #### 収録曲
 

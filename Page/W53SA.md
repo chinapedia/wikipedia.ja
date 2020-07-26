@@ -5,7 +5,7 @@
 
 ## 特徴
 
-厚さ20ミリのマトラッセデザインで同日に発表された[W52CA](../Page/W52CA.md "wikilink")とともに[防水](../Page/防水.md "wikilink")対応（[IPX5/IPX7](../Page/電気機械器具の外郭による保護等級.md "wikilink")）のワンセグ対応機である。EZ・FMと新800MHz帯を除いた機能は大阪の[三洋電機](../Page/三洋電機.md "wikilink")製の[W52SA](../Page/W52SA.md "wikilink")と同じ機能である。鳥取三洋電機製としては初めての[ワンセグ](../Page/ワンセグ.md "wikilink")、[EZ FeliCaが搭載されている](../Page/EZ_FeliCa.md "wikilink")。また、ソフトウェアは大阪の三洋電機製ベースのものを使用しているため、日本語入力は従来の鳥取三洋電機製のATOK＋APOTではなく、Advanced Wnn αが採用されている。これは大阪の三洋電機製でありながら、鳥取三洋電機製ベースのソフトウェアを使用した[A5522SA](../Page/A5522SA.md "wikilink")や[A5527SA](https://ja.wikipedia.org/wiki/A5527SA "wikilink")とは全く逆の形になる。
+厚さ20ミリのマトラッセデザインで同日に発表された[W52CA](../Page/W52CA.md "wikilink")とともに[防水](../Page/防水.md "wikilink")対応（[IPX5/IPX7](../Page/電気機械器具の外郭による保護等級.md "wikilink")）のワンセグ対応機である。EZ・FMと新800MHz帯を除いた機能は大阪の[三洋電機](../Page/三洋電機.md "wikilink")製の[W52SA](../Page/W52SA.md "wikilink")と同じ機能である。鳥取三洋電機製としては初めての[ワンセグ](../Page/ワンセグ.md "wikilink")、[EZ FeliCaが搭載されている](../Page/EZ_FeliCa.md "wikilink")。また、ソフトウェアは大阪の三洋電機製ベースのものを使用しているため、日本語入力は従来の鳥取三洋電機製のATOK＋APOTではなく、Advanced Wnn αが採用されている。これは大阪の三洋電機製でありながら、鳥取三洋電機製ベースのソフトウェアを使用した[A5522SA](../Page/A5522SA.md "wikilink")や[A5527SA](../Page/A5527SA.md "wikilink")とは全く逆の形になる。
 
 また、auとしては、初めて防水携帯にステレオスピーカーを搭載している。ステレオスピーカーはメインディスプレイ上部に備えられているため、ワンセグ視聴時にTV音声が聞き取り易くなっている。
 

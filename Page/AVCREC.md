@@ -215,7 +215,7 @@ AVCRECの競合規格として[DVDフォーラム](../Page/DVDフォーラム.md
 
   - パナソニック機はDVD-RWへのAVCREC方式での記録ができず、三菱機（東芝、日本ビクター同様、船井電機製造のOEM品）はDVD-RAMへの記録自体ができない。ただし、三菱機はパナソニック機で記録したAVCREC方式のDVD-RAMを再生することが可能。
   - BDレコーダーの準大手[ソニー](../Page/ソニー.md "wikilink")、[シャープ](../Page/シャープ.md "wikilink")はBD普及推奨策に基づきAVCRECを採用しておらず、両社のBD機器（[プレイステーション3含む](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）もAVCRECで記録されたDVDを再生できない。
-  - PC用のBD/DVD再生ソフト、[BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")等では一部製品を除き非対応。またAVCRECはDVDメディアにBDフォーマットで書き込む規格であり従来のDVDビデオ（[DVD-Video](../Page/DVD-Video.md "wikilink")、[DVD-VR](../Page/DVD-VR.md "wikilink")）とはアプリケーションフォーマットが異なるため、PC用[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")での再生は不可能。PC用の再生ソフトでは、CyberLink [PowerDVD](../Page/PowerDVD.md "wikilink") が9 Ultraより正式に対応している（BDドライブ必須。2010年春現在の状況）。
+  - PC用のBD/DVD再生ソフト、[BDプレーヤー](../Page/BDプレーヤー.md "wikilink")等では一部製品を除き非対応。またAVCRECはDVDメディアにBDフォーマットで書き込む規格であり従来のDVDビデオ（[DVD-Video](../Page/DVD-Video.md "wikilink")、[DVD-VR](../Page/DVD-VR.md "wikilink")）とはアプリケーションフォーマットが異なるため、PC用[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")での再生は不可能。PC用の再生ソフトでは、CyberLink [PowerDVD](../Page/PowerDVD.md "wikilink") が9 Ultraより正式に対応している（BDドライブ必須。2010年春現在の状況）。
 
 ## 沿革
 

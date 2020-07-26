@@ -7,7 +7,7 @@
 
 [1925年](../Page/1925年.md "wikilink")6月にレニングラード金属工場（LMZ）の労働者らによって創設された。[1936年](../Page/1936年.md "wikilink")の[ソ連リーグ開始を前にして](../Page/ソビエト連邦サッカーリーグ.md "wikilink")、[スターリン主義者を意味する](../Page/スターリニズム.md "wikilink")**スタリネッツ**（****<small>スターリニェツ</small>）に改名され、[1940年](../Page/1940年.md "wikilink")に現在の**ゼニト**（****<small>ズィニート</small>）に改名された。[2005年](../Page/2005年.md "wikilink")12月からはロシアの天然ガス独占企業[ガスプロム](../Page/ガスプロム.md "wikilink")が経営権を握っており、豊富な資金力をバックに強化を図っている。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")には、当時の[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・[レニングラードを訪問した](../Page/サンクトペテルブルク.md "wikilink")[日本代表と試合をしたが](../Page/サッカー日本代表.md "wikilink")、6-0でゼニトが完勝した。
+[1968年](../Page/1968年.md "wikilink")には、当時の[ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・[レニングラードを訪問した](../Page/サンクトペテルブルク.md "wikilink")[日本代表と試合をしたが](../Page/サッカー日本代表.md "wikilink")、6-0でゼニトが完勝した。
 
 2007年シーズン、ロシア・プレミアリーグ発足後、初優勝を果たした。モスクワ以外のクラブのリーグ優勝は12年ぶりとなった。2007-08シーズンには[UEFAカップで優勝した](https://ja.wikipedia.org/wiki/UEFAカップ_2007-08 "wikilink")。予断を許さない状況の続いたグループリーグから一転して、決勝トーナメントでは[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")、[マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")、[レバークーゼン](../Page/バイエル・レバークーゼン.md "wikilink")、[バイエルン・ミュンヘンと強豪を次々に下した](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")。決勝において、スコットランドの[レンジャーズに](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")2-0で勝利、優勝を果たした。
 

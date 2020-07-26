@@ -14,7 +14,7 @@
 ## 沿革
 
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - 大阪中央工学校として開校
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 中央実務専門学校と改称
+  - [1986年](../Page/1986年.md "wikilink") - 中央実務専門学校と改称
   - [1988年](../Page/1988年.md "wikilink") - 緑地公園に校舎を新設し、移転
   - [1993年](../Page/1993年.md "wikilink") - 2号館完成
   - [2006年](../Page/2006年.md "wikilink") - 現校名に改称

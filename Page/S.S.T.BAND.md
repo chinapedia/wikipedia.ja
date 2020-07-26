@@ -25,7 +25,7 @@
 
   - [宮内博史](../Page/川口博史.md "wikilink") - Hiro（キーボード）
   - [小森伸吾](https://ja.wikipedia.org/wiki/小森伸吾 "wikilink") - [Burner](../Page/アフターバーナー_\(ゲーム\).md "wikilink")（ベース）
-  - [田辺健彦](https://ja.wikipedia.org/wiki/田辺健彦 "wikilink") - [Thunder](https://ja.wikipedia.org/wiki/サンダーブレード "wikilink")（ドラム）
+  - [田辺健彦](https://ja.wikipedia.org/wiki/田辺健彦 "wikilink") - [Thunder](../Page/サンダーブレード.md "wikilink")（ドラム）
   - 塚原啓介 - [獣王](../Page/獣王記.md "wikilink")（キーボード）
       -
         1989年11月の[MZA有明公演のみ参加](https://ja.wikipedia.org/wiki/ディファ有明#MZA有明 "wikilink")

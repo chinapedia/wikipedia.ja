@@ -5,7 +5,7 @@
 
 ## 放送時間
 
-  - 月曜日－金曜日 8:09 - 8:10 （『[クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』〈かつては『[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")』〉の1コーナーとして放送）
+  - 月曜日－金曜日 8:09 - 8:10 （『[クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")』〈かつては『[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")』〉の1コーナーとして放送）
       - JFN系35局で放送。[FMぐんま](../Page/エフエム群馬.md "wikilink")、[RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")、[レディオキューブ FM三重では放送されていない](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")。
 
 ## 放送内容

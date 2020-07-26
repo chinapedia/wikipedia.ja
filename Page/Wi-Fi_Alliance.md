@@ -5,7 +5,7 @@
 
 ## 設立の背景
 
-[IEEE 802.11分会により規格化された初期の無線LAN機器において](../Page/IEEE_802.11.md "wikilink")、IEEE規格の曖昧さや相互接続試験方式がないことから、異なるベンダの製品で接続性が保障できず、しばしばユーザが購入した無線LAN製品が利用できないという問題が発生した。そこで、[スリーコム](https://ja.wikipedia.org/wiki/スリーコム "wikilink")、Aironet（現 [シスコシステムズ](../Page/シスコシステムズ.md "wikilink")）、Harris Semiconductor（現 [インターシル](https://ja.wikipedia.org/wiki/インターシル "wikilink")）、Lucent Technologies（現 [LSIコーポレーション](https://ja.wikipedia.org/wiki/LSIコーポレーション "wikilink")←Agere Systems）、[Nokia](../Page/ノキア.md "wikilink") が中心となり、1999年に無線LAN製品の相互接続性を推進するための業界団体である**WECA**（ウェカ、Wireless Ethernet Compatibility Alliance）を設立した。WECAは相互接続性試験の確立、マーケティングの推進、参画団体の拡充などを進め、2003年に相互接続性認証プログラムを発表。認証取得製品のブランド名を「[Wi-Fi](../Page/Wi-Fi.md "wikilink")」と定義するとともに、団体名を Wi-Fi Alliance に変更した。
+[IEEE 802.11分会により規格化された初期の無線LAN機器において](../Page/IEEE_802.11.md "wikilink")、IEEE規格の曖昧さや相互接続試験方式がないことから、異なるベンダの製品で接続性が保障できず、しばしばユーザが購入した無線LAN製品が利用できないという問題が発生した。そこで、[スリーコム](https://ja.wikipedia.org/wiki/スリーコム "wikilink")、Aironet（現 [シスコシステムズ](../Page/シスコシステムズ.md "wikilink")）、Harris Semiconductor（現 [インターシル](https://ja.wikipedia.org/wiki/インターシル "wikilink")）、Lucent Technologies（現 [LSIコーポレーション](../Page/LSIコーポレーション.md "wikilink")←Agere Systems）、[Nokia](../Page/ノキア.md "wikilink") が中心となり、1999年に無線LAN製品の相互接続性を推進するための業界団体である**WECA**（ウェカ、Wireless Ethernet Compatibility Alliance）を設立した。WECAは相互接続性試験の確立、マーケティングの推進、参画団体の拡充などを進め、2003年に相互接続性認証プログラムを発表。認証取得製品のブランド名を「[Wi-Fi](../Page/Wi-Fi.md "wikilink")」と定義するとともに、団体名を Wi-Fi Alliance に変更した。
 
 ## 認証試験
 

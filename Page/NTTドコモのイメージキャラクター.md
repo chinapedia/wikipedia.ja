@@ -642,12 +642,12 @@ dヒッツ 「夜の街」 篇</p></td>
   - [瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")（[F905i](../Page/F905i.md "wikilink")ホワイト）シリーズ終了後、富士通製ドコモ端末のCMに出演。
   - [吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")（[SO905i](../Page/SO905i.md "wikilink")レッド）
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")（[SO905i](../Page/SO905i.md "wikilink")ホワイト）シリーズ終了後、KDDIのCMに出演。
-  - [蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")（[SH905i](../Page/SH905i.md "wikilink")Pink）シリーズ終了後、LG製ドコモ端末のCMに出演。
+  - [蒼井優](../Page/蒼井優.md "wikilink")（[SH905i](../Page/SH905i.md "wikilink")Pink）シリーズ終了後、LG製ドコモ端末のCMに出演。
   - [北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")（[D905i](../Page/D905i.md "wikilink")ピンクゴールド）シリーズ終了後、ソニー・エリクソン製au端末のCMに出演。
 
 #### その他のキャラクター
 
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")：903iシリーズまではメインキャラクターだったが、「DoCoMo2.0」以降も企業イメージCMに出演していた。
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")：903iシリーズまではメインキャラクターだったが、「DoCoMo2.0」以降も企業イメージCMに出演していた。
   - [星野真里](../Page/星野真里.md "wikilink")：法人向け割引サービスのCMで堤真一と共演。
   - [宮里藍](https://ja.wikipedia.org/wiki/宮里藍 "wikilink")：ドコモの国際ローミングサービスのイメージキャラクター。TVCMやラジオCMなどで国際サービスを宣伝。
   - [黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")：ドコモの企画などを新聞広告などで宣伝。尚、2008年より[東芝](../Page/東芝.md "wikilink")製au端末のCMに出演している。
@@ -657,7 +657,7 @@ dヒッツ 「夜の街」 篇</p></td>
   - [加藤あい](https://ja.wikipedia.org/wiki/加藤あい "wikilink")：広末涼子に代わるドコモの総合的なイメージキャラクター。TVCMやラジオCM、総合パンフレットなどで宣伝。2004年頃からは主に料金系の宣伝が多くなる。ちなみに、彼女は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")のポケベル時代から2006年に至るまで約8年間ドコモのイメージキャラクターを務めていた。2006年10月31日をもって契約終了。
   - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")：[FOMA](../Page/FOMA.md "wikilink")の初代イメージキャラクター。CM曲は「[traveling](https://ja.wikipedia.org/wiki/traveling "wikilink")」。
   - [長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")：900iシリーズからのイメージキャラクター。
-  - [坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")：上記、長谷川と共演。
+  - [坂口憲二](../Page/坂口憲二.md "wikilink")：上記、長谷川と共演。
   - [田村正和](../Page/田村正和.md "wikilink")
   - [ブラザー・トム](https://ja.wikipedia.org/wiki/ブラザー・トム "wikilink")
   - [メグ・ライアン](https://ja.wikipedia.org/wiki/メグ・ライアン#CM "wikilink")（2002年3月25日 ‐ \[28\]）
@@ -845,7 +845,7 @@ dヒッツ 「夜の街」 篇</p></td>
 <!-- end list -->
 
   - [松島花](../Page/松島花.md "wikilink")（[SH906i](../Page/SH906i.md "wikilink")）
-  - [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink")\[30\]・[波瑠](../Page/波瑠.md "wikilink")・[有末麻祐子](../Page/有末麻祐子.md "wikilink")（[SH-05B](https://ja.wikipedia.org/wiki/SH-05B "wikilink")）
+  - [桐谷美玲](../Page/桐谷美玲.md "wikilink")\[30\]・[波瑠](../Page/波瑠.md "wikilink")・[有末麻祐子](../Page/有末麻祐子.md "wikilink")（[SH-05B](https://ja.wikipedia.org/wiki/SH-05B "wikilink")）
   - [福田沙紀](../Page/福田沙紀.md "wikilink")（[LYNX 3D](https://ja.wikipedia.org/wiki/SH-03C "wikilink")）
 
 <!-- end list -->
@@ -856,7 +856,7 @@ dヒッツ 「夜の街」 篇</p></td>
 
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")（[L705iX](../Page/L705iX.md "wikilink")）
   - 映画『[地球が静止する日](https://ja.wikipedia.org/wiki/地球が静止する日 "wikilink")』とのタイアップ（[L-01A](https://ja.wikipedia.org/wiki/L-01A "wikilink")）
-  - [蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")（[L-04A](https://ja.wikipedia.org/wiki/L-04A "wikilink")・[L-06A](https://ja.wikipedia.org/wiki/L-06A "wikilink")・[L-07A](https://ja.wikipedia.org/wiki/L-07A "wikilink")・[L-01B](https://ja.wikipedia.org/wiki/L-01B "wikilink")・[L-02B](https://ja.wikipedia.org/wiki/L-02B "wikilink")） - かつてDoCoMo 2.0のCMに出演していた。
+  - [蒼井優](../Page/蒼井優.md "wikilink")（[L-04A](https://ja.wikipedia.org/wiki/L-04A "wikilink")・[L-06A](https://ja.wikipedia.org/wiki/L-06A "wikilink")・[L-07A](https://ja.wikipedia.org/wiki/L-07A "wikilink")・[L-01B](https://ja.wikipedia.org/wiki/L-01B "wikilink")・[L-02B](https://ja.wikipedia.org/wiki/L-02B "wikilink")） - かつてDoCoMo 2.0のCMに出演していた。
   - [温水洋一](../Page/温水洋一.md "wikilink")（L-04A） - かつてauのCM（劇団なかまシリーズ）に出演していた。
   - [ゴルゴ13](../Page/ゴルゴ13_\(架空の人物\).md "wikilink")（L-06A）
   - [ベティ・ブープ](../Page/ベティ・ブープ.md "wikilink")（L-02B）

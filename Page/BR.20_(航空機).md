@@ -12,7 +12,7 @@
 
 ## 運用
 
-最初の生産型であるBR.20は275機が作られ、[1937年](../Page/1937年.md "wikilink")に[スペイン内戦](../Page/スペイン内戦.md "wikilink")に参加した。この時には[スペイン人民戦線](../Page/スペイン人民戦線.md "wikilink")の主力戦闘機であった[I-15より高速であった](https://ja.wikipedia.org/wiki/I-15_\(航空機\) "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")1940年10～11月にはベルギーの基地からイギリス本土の爆撃も行っているが、[ハリケーン戦闘機の前では貧弱な武装が役にたたず大損害を被り](../Page/ホーカー_ハリケーン.md "wikilink")、その後は陸上雷撃機として運用された。
+最初の生産型であるBR.20は275機が作られ、[1937年](../Page/1937年.md "wikilink")に[スペイン内戦](../Page/スペイン内戦.md "wikilink")に参加した。この時には[スペイン人民戦線](../Page/スペイン人民戦線.md "wikilink")の主力戦闘機であった[I-15より高速であった](../Page/I-15_\(航空機\).md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")1940年10～11月にはベルギーの基地からイギリス本土の爆撃も行っているが、[ハリケーン戦闘機の前では貧弱な武装が役にたたず大損害を被り](../Page/ホーカー_ハリケーン.md "wikilink")、その後は陸上雷撃機として運用された。
 
 <File:Fiat> BR 20 front view in 1938.JPG|1938年に撮られたBR.20 <File:Fiat> BR 20 side view in 1938.JPG| <File:Fiat> B.R.20-Spanish Air Force after the war.jpg|スペイン内戦時の1939年に撮られたBR.20
 

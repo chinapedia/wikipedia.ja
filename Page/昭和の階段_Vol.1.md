@@ -7,7 +7,7 @@
 
   - 2002年7月3日に発売されたアルバム『[Jewelry Box](../Page/Jewelry_Box_\(工藤静香のアルバム\).md "wikilink")』発売時のインストア・イベントにて、カバー・アルバムを製作することを公言していた。
   - 曲順は、世に出たのがより新しい曲から、階段を下りていくように終戦間もない頃の楽曲へと続いていく。
-  - [レコード](../Page/レコード.md "wikilink")店などの新譜情報では、「曼珠沙華 / [山口百恵](../Page/山口百恵.md "wikilink")」・「湖畔の宿 / [高峰三枝子](https://ja.wikipedia.org/wiki/高峰三枝子 "wikilink")」が収録曲に記載されていたが、実際は、「**元気を出して** / [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")」・「**なんとなくなんとなく** / [井上順](../Page/井上順.md "wikilink")」に変更された。「曼珠沙華 / 山口百恵」は、2005年5月25日発売の山口百恵トリビュートアルバム『[山口百恵トリビュート Thank You For…part2](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…part2 "wikilink")』及び、2007年8月29日発売の工藤静香（ソロ）デビュー20周年記念ベスト『[Shizuka Kudo 20th Anniversary the Best](../Page/Shizuka_Kudo_20th_Anniversary_the_Best.md "wikilink")』に収録された。
+  - [レコード](../Page/レコード.md "wikilink")店などの新譜情報では、「曼珠沙華 / [山口百恵](../Page/山口百恵.md "wikilink")」・「湖畔の宿 / [高峰三枝子](https://ja.wikipedia.org/wiki/高峰三枝子 "wikilink")」が収録曲に記載されていたが、実際は、「**元気を出して** / [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")」・「**なんとなくなんとなく** / [井上順](../Page/井上順.md "wikilink")」に変更された。「曼珠沙華 / 山口百恵」は、2005年5月25日発売の山口百恵トリビュートアルバム『[山口百恵トリビュート Thank You For…part2](../Page/山口百恵トリビュート_Thank_You_For…part2.md "wikilink")』及び、2007年8月29日発売の工藤静香（ソロ）デビュー20周年記念ベスト『[Shizuka Kudo 20th Anniversary the Best](../Page/Shizuka_Kudo_20th_Anniversary_the_Best.md "wikilink")』に収録された。
   - 「**なんとなくなんとなく**」は、[イオンクレジットサービスの](../Page/イオングループ.md "wikilink")[CFソングに起用された](../Page/コマーシャルメッセージ.md "wikilink")。
   - 1995年頃、[NHK音楽番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ふたりのビッグショー](../Page/ふたりのビッグショー.md "wikilink")』に[森口博子](../Page/森口博子.md "wikilink")と出演した際、番組の最後に「元気を出して」を歌ったことがある。
   - ジャケットは工藤自身の幼年期。また、中の歌詞掲載の箇所も幼年期の工藤の写真が掲載されている。
@@ -23,9 +23,9 @@
 3.  **[カサブランカ・ダンディ](../Page/カサブランカ・ダンディ.md "wikilink")** （[沢田研二](../Page/沢田研二.md "wikilink")）
       - 作詞：[阿久悠](../Page/阿久悠.md "wikilink")、作曲：[大野克夫](../Page/大野克夫.md "wikilink")、編曲：佐々木章
       - [沢田研二](../Page/沢田研二.md "wikilink")の[1979年](../Page/1979年.md "wikilink")の楽曲。オリジナルでは[ウイスキー](../Page/ウイスキー.md "wikilink")を口に含んで霧を吹くパフォーマンスがある。
-4.  **[かもめはかもめ](https://ja.wikipedia.org/wiki/かもめはかもめ "wikilink")** （[研ナオコ](../Page/研ナオコ.md "wikilink") / [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")）
+4.  **[かもめはかもめ](https://ja.wikipedia.org/wiki/かもめはかもめ "wikilink")** （[研ナオコ](../Page/研ナオコ.md "wikilink") / [中島みゆき](../Page/中島みゆき.md "wikilink")）
       - 作詞・作曲：中島みゆき、編曲：澤近泰輔
-      - [研ナオコ](../Page/研ナオコ.md "wikilink")の[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の楽曲。[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")がのちにセルフカヴァーしている。
+      - [研ナオコ](../Page/研ナオコ.md "wikilink")の[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の楽曲。[中島みゆき](../Page/中島みゆき.md "wikilink")がのちにセルフカヴァーしている。
 5.  **[氷の世界](https://ja.wikipedia.org/wiki/氷の世界_\(曲\) "wikilink")** （[井上陽水](../Page/井上陽水.md "wikilink")）
       - 作詞・作曲：井上陽水、編曲：佐々木章
       - [井上陽水](../Page/井上陽水.md "wikilink")の[1973年](../Page/1973年.md "wikilink")の楽曲。日本初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")・アルバムとなった[同名アルバムのタイトル曲](../Page/氷の世界_\(アルバム\).md "wikilink")。

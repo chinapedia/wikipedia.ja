@@ -688,13 +688,13 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイ・シャローナ" title="wikilink">マイ・シャローナ</a><br />
+<td><p><a href="../Page/マイ・シャローナ.md" title="wikilink">マイ・シャローナ</a><br />
 （原題:<a href="https://ja.wikipedia.org/wiki/:en:My_Sharona" title="wikilink">My Sharona</a>）</p></td>
 <td><p><a href="../Page/ザ・ナック.md" title="wikilink">ザ・ナック</a></p></td>
 <td><p>1979年6月</p></td>
 <td><p>Capitol Records</p></td>
 <td><p>TV『<a href="../Page/雨上がり決死隊のトーク番組アメトーーク!.md" title="wikilink">雨上がり決死隊のトーク番組アメトーーク!</a>』エンディング・テーマ曲<br />
-CM「<a href="https://ja.wikipedia.org/wiki/マツダ" title="wikilink">マツダ</a>・<a href="../Page/マツダ・ファミリア.md" title="wikilink">ファミリア</a>」</p></td>
+CM「<a href="../Page/マツダ.md" title="wikilink">マツダ</a>・<a href="../Page/マツダ・ファミリア.md" title="wikilink">ファミリア</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>

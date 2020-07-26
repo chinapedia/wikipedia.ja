@@ -7,7 +7,7 @@
 
 2007年5月 - 6月に毎週日曜10:00 - 10:30に放送された。パーソナリティーの[小山ジャネット愛子](https://ja.wikipedia.org/wiki/小山ジャネット愛子 "wikilink")が毎週1枚過去の[J-POP](../Page/J-POP.md "wikilink")の名盤を紹介していた。
 
-もともとこの時間は同年3月まで10:00 - 10:55までの枠で[MAZDA SUPER SUNDAY](../Page/MAZDA_SUPER_SUNDAY.md "wikilink")→[MAZDA MUSIC JAMが放送されていた](https://ja.wikipedia.org/wiki/MAZDA_MUSIC_JAM "wikilink")。しかし、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")がスポンサー撤退、番組が終了となり4月からスポンサーのない状態となった。4月の1ヶ月間はつなぎ番組として[アースデー](https://ja.wikipedia.org/wiki/アースデー "wikilink")関連番組「[Message to the Blue Planet](https://ja.wikipedia.org/wiki/Message_to_the_Blue_Planet "wikilink")」を放送した。
+もともとこの時間は同年3月まで10:00 - 10:55までの枠で[MAZDA SUPER SUNDAY](../Page/MAZDA_SUPER_SUNDAY.md "wikilink")→[MAZDA MUSIC JAMが放送されていた](https://ja.wikipedia.org/wiki/MAZDA_MUSIC_JAM "wikilink")。しかし、[マツダ](../Page/マツダ.md "wikilink")がスポンサー撤退、番組が終了となり4月からスポンサーのない状態となった。4月の1ヶ月間はつなぎ番組として[アースデー](https://ja.wikipedia.org/wiki/アースデー "wikilink")関連番組「[Message to the Blue Planet](https://ja.wikipedia.org/wiki/Message_to_the_Blue_Planet "wikilink")」を放送した。
 
 5月になり10:30 - 10:55は[YKK APがスポンサーにつき](../Page/YKK_AP.md "wikilink")、「[YKK AP presents 内田恭子のウチ・ココ〜ウチだけ、ココだけの話](https://ja.wikipedia.org/wiki/内田恭子のウチ・ココ〜ウチだけ、ココだけの話 "wikilink")」が開始されたが、10:00 - 10:30はスポンサー無しのままであった。そのつなぎ番組として開始されたのが「Record Discovery」である。
 

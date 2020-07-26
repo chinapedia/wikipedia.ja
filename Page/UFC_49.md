@@ -37,7 +37,7 @@
     ○  [チャック・リデル](../Page/チャック・リデル.md "wikilink") vs.  [ヴァーノン・"タイガー"・ホワイト](../Page/ヴァーノン・ホワイト.md "wikilink") ×
     1R 4:05 KO（右ストレート）
   - 第7試合 ミドル級 5分3R
-    ○  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") vs.  [ジョー・ドークセン](../Page/ジョー・ドークセン.md "wikilink") ×
+    ○  [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") vs.  [ジョー・ドークセン](../Page/ジョー・ドークセン.md "wikilink") ×
     2R 3:39 TKO（ギブアップ：グラウンドの肘打ち）
   - 第8試合 UFC世界ライトヘビー級タイトルマッチ 5分5R
     ○  [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink") vs.  [ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink") ×

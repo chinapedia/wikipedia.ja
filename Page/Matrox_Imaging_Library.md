@@ -13,7 +13,7 @@
   - Intel [MMX](../Page/MMX.md "wikilink")および[SIMD](../Page/SIMD.md "wikilink")拡張命令に最適化されており、[Xeon](../Page/Xeon.md "wikilink")、[Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Core DuoをはじめAMD](https://ja.wikipedia.org/wiki/Core_Duo "wikilink") [Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")を有効活用。
   - サブピクセル精度での結果検出。
   - [マルチタスク](../Page/マルチタスク.md "wikilink")や[マルチプロセッシング](../Page/マルチプロセッシング.md "wikilink")もサポート。
-  - [オンラインヘルプ](https://ja.wikipedia.org/wiki/オンラインヘルプ "wikilink")やサンプルが充実。
+  - [オンラインヘルプ](../Page/オンラインヘルプ.md "wikilink")やサンプルが充実。
 
 ## 開発環境
 

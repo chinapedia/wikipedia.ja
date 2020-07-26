@@ -1,7 +1,7 @@
 > この記事は[KATZE](https://ja.wikipedia.org/wiki/KATZE)から翻訳されています。
 
 
-**KATZE**（カッツェ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1980年代に活躍。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")結成、[1991年](../Page/1991年.md "wikilink")解散。
+**KATZE**（カッツェ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1980年代に活躍。[1986年](../Page/1986年.md "wikilink")結成、[1991年](../Page/1991年.md "wikilink")解散。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## メンバー
 
-  - [中村敦](https://ja.wikipedia.org/wiki/中村敦_\(ミュージシャン\) "wikilink")（**なかむら あつし**、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月24日](../Page/4月24日.md "wikilink") - ）：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - [中村敦](https://ja.wikipedia.org/wiki/中村敦_\(ミュージシャン\) "wikilink")（**なかむら あつし**、[1968年](../Page/1968年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") - ）：[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 圧倒的な声量を活かしたパワフルな歌唱と、そのルックスや華やかなステージパフォーマンスで、[ギタリスト](../Page/ギタリスト.md "wikilink")である尾上と共に人気を博した。 ライブでは曲によって[サイドギター](https://ja.wikipedia.org/wiki/サイドギター "wikilink")も担当していた。バンドの楽曲の大半は彼の作詞・作曲によるもの。 当時の使用ギターはゴールド・トップの[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")、[グレッチ](../Page/グレッチ.md "wikilink") [シルバージェット](../Page/シルバージェット.md "wikilink")など。
 
@@ -75,7 +75,7 @@ KATZEのオリジナルメンバーであり、バンド内ではキーボード
 
 尾上賢は[奥居香](https://ja.wikipedia.org/wiki/奥居香 "wikilink")・[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")をはじめとするミュージシャンのサポートを務めるほか、『愚息』(※2006年に表記を「GUSOKU」に変更)を結成。2010年に初のソロアルバムを発表。
 
-高山克彬は元[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[大山正篤](../Page/大山正篤.md "wikilink")らと『[LAV](https://ja.wikipedia.org/wiki/LAV "wikilink")』を結成したが短期間で解散。その後はソロ活動、『N☆M☆A』、プロデュース業など。『N☆M☆A』活動停止後、ソロ活動を経てバンド『[THE SYNDIKATE 7](https://ja.wikipedia.org/wiki/THE_SYNDIKATE_7 "wikilink")』を結成。2018年現在7枚目のニューアルバムをリリース。1年間のリリースツアーが決定。
+高山克彬は元[ZIGGY](../Page/ZIGGY.md "wikilink")の[大山正篤](../Page/大山正篤.md "wikilink")らと『[LAV](https://ja.wikipedia.org/wiki/LAV "wikilink")』を結成したが短期間で解散。その後はソロ活動、『N☆M☆A』、プロデュース業など。『N☆M☆A』活動停止後、ソロ活動を経てバンド『[THE SYNDIKATE 7](https://ja.wikipedia.org/wiki/THE_SYNDIKATE_7 "wikilink")』を結成。2018年現在7枚目のニューアルバムをリリース。1年間のリリースツアーが決定。
 
 高山靖彬は解散の数年後に高山克彬のソロアルバムに参加して久々に表舞台に登場したが、現在では実家の家業を継いでいる。
 

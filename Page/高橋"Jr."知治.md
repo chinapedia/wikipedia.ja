@@ -1,7 +1,7 @@
 > この記事は[高橋Jr.知治](https://ja.wikipedia.org/wiki/高橋Jr.知治)から翻訳されています。
 
 
-**高橋 "Jr." 知治** （たかはし じゅにあ ともはる、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ベーシスト](../Page/ベーシスト.md "wikilink")。　
+**高橋 "Jr." 知治** （たかはし じゅにあ ともはる、[1968年](../Page/1968年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ベーシスト](../Page/ベーシスト.md "wikilink")。　
 
 ## 人物
 
@@ -12,7 +12,7 @@ Jungapop、三宅伸治Band、FBM、などに在籍中
 ## 来歴
 
   - 1968年 - イタリア ミラノで生まれる
-  - 1991年 - "The Rocks"としてメジャーデビュー。デビュー曲は「思い出かきまわしても」（[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")監督作「東方見聞録」のテーマ曲）。
+  - 1991年 - "The Rocks"としてメジャーデビュー。デビュー曲は「思い出かきまわしても」（[井筒和幸](../Page/井筒和幸.md "wikilink")監督作「東方見聞録」のテーマ曲）。
   - 1992年 - アルバム「名前もない道の上で」発売
   - 1994年 - "Girl U Need"としてメジャーデビュー。
   - 1996年 - "JUNGA POPに加入。

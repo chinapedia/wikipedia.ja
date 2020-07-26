@@ -5,7 +5,7 @@
 
 ## 歴史
 
-GDBは初め、[GNU Emacs](../Page/GNU_Emacs.md "wikilink") が「そこそこ安定化 [1](http://www.gnu.org/philosophy/stallman-kth.html)」した後、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") に[GNU](../Page/GNU.md "wikilink") システムの一部として [リチャード・ストールマン](../Page/リチャード・ストールマン.md "wikilink") が書いた。GDBは、[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) の下でリリースしている [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink") である。これは、[バークレーUnixの配布物件についてくる](../Page/BSD.md "wikilink")[Dbx デバッガをモデルにしている](https://ja.wikipedia.org/wiki/Dbx_デバッガ "wikilink")。
+GDBは初め、[GNU Emacs](../Page/GNU_Emacs.md "wikilink") が「そこそこ安定化 [1](http://www.gnu.org/philosophy/stallman-kth.html)」した後、[1986年](../Page/1986年.md "wikilink") に[GNU](../Page/GNU.md "wikilink") システムの一部として [リチャード・ストールマン](../Page/リチャード・ストールマン.md "wikilink") が書いた。GDBは、[GNU General Public License](../Page/GNU_General_Public_License.md "wikilink") (GPL) の下でリリースしている [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink") である。これは、[バークレーUnixの配布物件についてくる](../Page/BSD.md "wikilink")[Dbx デバッガをモデルにしている](https://ja.wikipedia.org/wiki/Dbx_デバッガ "wikilink")。
 
 [ジョン・ギルモア](../Page/ジョン・ギルモア.md "wikilink") が [シグナスソリューションズ](../Page/シグナスソリューションズ.md "wikilink") に勤務していた [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1993年](../Page/1993年.md "wikilink")まで保守をしていた。
 

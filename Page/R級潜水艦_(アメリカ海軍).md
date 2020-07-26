@@ -20,7 +20,7 @@
 | 乗員                                                                |
 | 兵装                                                                |
 
-**R級潜水艦**(**R-class submarine**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。[フォアリバー造船所](../Page/フォアリバー造船所.md "wikilink")、[ユニオン鉄工所](https://ja.wikipedia.org/wiki/ユニオン鉄工所 "wikilink")、レイク・トルペード・ボートの3社で建造され、[1918年](../Page/1918年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に1番艦の[R-1が就役した](https://ja.wikipedia.org/wiki/R-1_\(潜水艦\) "wikilink")。[イギリス海軍](../Page/イギリス海軍.md "wikilink")もR級潜水艦で編成された艦隊を保有していた。
+**R級潜水艦**(**R-class submarine**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。[フォアリバー造船所](../Page/フォアリバー造船所.md "wikilink")、[ユニオン鉄工所](../Page/ユニオン鉄工所.md "wikilink")、レイク・トルペード・ボートの3社で建造され、[1918年](../Page/1918年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に1番艦の[R-1が就役した](https://ja.wikipedia.org/wiki/R-1_\(潜水艦\) "wikilink")。[イギリス海軍](../Page/イギリス海軍.md "wikilink")もR級潜水艦で編成された艦隊を保有していた。
 
 ## 同型艦
 
@@ -35,7 +35,7 @@
   - [R-9](https://ja.wikipedia.org/wiki/R-9_\(潜水艦\) "wikilink") (*USS R-9, SS-86*)
   - [R-10](https://ja.wikipedia.org/wiki/R-10_\(潜水艦\) "wikilink") (*USS R-10, SS-87*)
   - [R-11](https://ja.wikipedia.org/wiki/R-11_\(潜水艦\) "wikilink") (*USS R-11, SS-88*)
-  - [R-12](https://ja.wikipedia.org/wiki/R-12_\(潜水艦\) "wikilink") (*USS R-12, SS-89*)
+  - [R-12](../Page/R-12_\(潜水艦\).md "wikilink") (*USS R-12, SS-89*)
   - [R-13](https://ja.wikipedia.org/wiki/R-13_\(潜水艦\) "wikilink") (*USS R-13, SS-90*)
   - [R-14](https://ja.wikipedia.org/wiki/R-14_\(潜水艦\) "wikilink") (*USS R-14, SS-91*)
   - [R-15](https://ja.wikipedia.org/wiki/R-15_\(潜水艦\) "wikilink") (*USS R-15, SS-92*)

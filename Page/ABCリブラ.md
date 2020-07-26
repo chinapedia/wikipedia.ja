@@ -19,7 +19,7 @@
   - パネルクイズ アタック25（[2015年](../Page/2015年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より担当）
   - [きになるオセロ](../Page/きになるオセロ.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")終了）
   - [美味彩菜](../Page/美味彩菜.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")終了）
-  - [今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")
+  - [今ちゃんの「実は…」](../Page/今ちゃんの「実は…」.md "wikilink")
   - [メモリアル映像館](../Page/メモリアル映像館.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")終了）
   - MUSIC FILE（クロージング直前（気象情報[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")前or停波前）に放送）- 2008年後期に[AMCに同番組の制作事業を継承している](../Page/エー・ビー・シーメディアコム.md "wikilink")。
   - [こんなところにあるあるが。土曜・あるある晩餐会](https://ja.wikipedia.org/wiki/こんなところにあるあるが。土曜・あるある晩餐会 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[2017年](../Page/2017年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")終了）

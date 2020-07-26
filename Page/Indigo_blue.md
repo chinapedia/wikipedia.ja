@@ -7,7 +7,7 @@
 
   - **[Rina](https://ja.wikipedia.org/wiki/西部里菜 "wikilink")**（リナ、[1976年](../Page/1976年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")\[1\] - ）
       - ボーカル・アコースティックギター・作詞担当。詳細は項目を参照。
-  - **Kou**（コウ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月6日](../Page/1月6日.md "wikilink")\[2\] - ）
+  - **Kou**（コウ、[1968年](../Page/1968年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")\[2\] - ）
       - アコースティックギター・コーラス・編曲担当。
       - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。本名：白須恒一（しらす こういち）。弟は[ミュージシャンの白須衛治](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
 

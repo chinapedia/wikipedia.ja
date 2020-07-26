@@ -94,7 +94,7 @@
       - [せいじろう](../Page/せいじろう.md "wikilink")
   - [天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink") - （2008年4月 - 2012年5月）
   - 余分三兄弟 - （2008年 - 2010年）
-      - [秋田宗好](https://ja.wikipedia.org/wiki/秋田宗好 "wikilink")（糖分）
+      - [秋田宗好](../Page/秋田宗好.md "wikilink")（糖分）
       - [櫻井章喜](https://ja.wikipedia.org/wiki/櫻井章喜 "wikilink")（脂肪）
       - [高谷基史](https://ja.wikipedia.org/wiki/高谷基史 "wikilink")（塩分）
   - [ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink") - （2010年）

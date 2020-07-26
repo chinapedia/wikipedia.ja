@@ -36,7 +36,7 @@
 
 ### 歴史
 
-元々は**保土ヶ谷大洋球場**（ほどがやたいようきゅうじょう）として開場し、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[プロ野球](../Page/日本プロ野球.md "wikilink")・[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")のチーム・横浜大洋ホエールズ（現：[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")）が二軍（現：[横浜DeNAベイスターズ (ファーム)](../Page/横浜DeNAベイスターズ_\(ファーム\).md "wikilink")）の[ホームスタジアム兼練習場として使用していた](https://ja.wikipedia.org/wiki/専用球場 "wikilink")。しかし、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[平塚球場](../Page/平塚球場.md "wikilink")が完成すると同チームの二軍は移転、その後も練習場として使用されていたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には横浜大洋ホエールズ総合練習場（現：[横浜DeNAベイスターズ総合練習場](../Page/横浜DeNAベイスターズ総合練習場.md "wikilink")）が完成し練習場も移転。野球場としては供用廃止され、その後は[パターゴルフ](https://ja.wikipedia.org/wiki/パターゴルフ "wikilink")場として使用されていた。
+元々は**保土ヶ谷大洋球場**（ほどがやたいようきゅうじょう）として開場し、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[プロ野球](../Page/日本プロ野球.md "wikilink")・[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")のチーム・横浜大洋ホエールズ（現：[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")）が二軍（現：[横浜DeNAベイスターズ (ファーム)](../Page/横浜DeNAベイスターズ_\(ファーム\).md "wikilink")）の[ホームスタジアム兼練習場として使用していた](https://ja.wikipedia.org/wiki/専用球場 "wikilink")。しかし、[1986年](../Page/1986年.md "wikilink")に[平塚球場](../Page/平塚球場.md "wikilink")が完成すると同チームの二軍は移転、その後も練習場として使用されていたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には横浜大洋ホエールズ総合練習場（現：[横浜DeNAベイスターズ総合練習場](../Page/横浜DeNAベイスターズ総合練習場.md "wikilink")）が完成し練習場も移転。野球場としては供用廃止され、その後は[パターゴルフ](https://ja.wikipedia.org/wiki/パターゴルフ "wikilink")場として使用されていた。
 
 [1994年](../Page/1994年.md "wikilink")、Jリーグ・[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")が練習場として使用するにあたり現在の姿に改修され、**横浜フリューゲルス東戸塚トレーニングセンター**（よこはまフリューゲルスひがしとづかトレーニングセンター）と改称される。
 

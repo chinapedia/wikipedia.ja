@@ -16,7 +16,7 @@
 
 ## DVD出演者・連載コラム執筆者
 
-  - [松下萌子](../Page/松下萌子.md "wikilink") - [オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")協賛で、vol.1からvol.6までDVDのメインパーソナリティ、連載コラムの執筆を担当、その後一時休載したがvol.10より連載再開。
+  - [松下萌子](../Page/松下萌子.md "wikilink") - [オスカープロモーション](../Page/オスカープロモーション.md "wikilink")協賛で、vol.1からvol.6までDVDのメインパーソナリティ、連載コラムの執筆を担当、その後一時休載したがvol.10より連載再開。
   - [則島奈々美](../Page/則島奈々美.md "wikilink") - vol.7より[ハイタイド](https://ja.wikipedia.org/wiki/ハイタイド "wikilink")（代表：[周防彰悟](../Page/周防彰悟.md "wikilink")）協力のもと連載を担当。
   - [SOTA](../Page/SOTA.md "wikilink") - 連載コラム担当。
   - [川村ゆみ](../Page/川村ゆみ.md "wikilink") - ボーカルスクールを担当。

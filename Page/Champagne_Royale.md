@@ -27,7 +27,7 @@
 [Category:鈴木雅之のアルバム](https://ja.wikipedia.org/wiki/Category:鈴木雅之のアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink")
 
 1.
-2.  第一章は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")のソロ活動開始から[1996年](../Page/1996年.md "wikilink")の[ラッツ&スター](../Page/ラッツ&スター.md "wikilink")の再集結までの10年間。第二章はそれから[2006年](../Page/2006年.md "wikilink")の[ゴスペラッツ](../Page/ゴスペラッツ.md "wikilink")結成までの10年間としている。
+2.  第一章は[1986年](../Page/1986年.md "wikilink")のソロ活動開始から[1996年](../Page/1996年.md "wikilink")の[ラッツ&スター](../Page/ラッツ&スター.md "wikilink")の再集結までの10年間。第二章はそれから[2006年](../Page/2006年.md "wikilink")の[ゴスペラッツ](../Page/ゴスペラッツ.md "wikilink")結成までの10年間としている。
 3.
 4.  『[taste of martini tour 2007 Champagne Royale](https://ja.wikipedia.org/wiki/taste_of_martini_tour_2007_Champagne_Royale "wikilink")』 発売 [Epic Records](../Page/エピックレコードジャパン.md "wikilink") [DVD](../Page/DVD.md "wikilink"):ESBL 2194
 5.  出演：[森且行](../Page/森且行.md "wikilink")

@@ -9,7 +9,7 @@
 
 作曲家としては、[中山美穂](../Page/中山美穂.md "wikilink")にシングル『[人魚姫 mermaid](../Page/人魚姫_mermaid.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）を提供したのを始め、様々なアーティストに[1990年代](../Page/1990年代.md "wikilink")後半まで多くの曲を提供した。1988年に中山に提供した『[Witches](../Page/Witches.md "wikilink")』は『第15回決定\! [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』グランプリを受賞。アイドル歌謡を邁進していた中山美穂を、[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")に次いでアーティスティックな音楽性へと導いた立役者である。
 
-この他、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1989年](../Page/1989年.md "wikilink")まで[山下達郎](../Page/山下達郎.md "wikilink")のコンサートツアー及びレコーディングにコーラスとして参加しており、その歌声は[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』に収録されている。また、[1980年代](../Page/1980年代.md "wikilink")後半に放映されていた[ブルボン](../Page/ブルボン.md "wikilink")「Bit」のCMソングも歌っている 。
+この他、[1986年](../Page/1986年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")まで[山下達郎](../Page/山下達郎.md "wikilink")のコンサートツアー及びレコーディングにコーラスとして参加しており、その歌声は[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』に収録されている。また、[1980年代](../Page/1980年代.md "wikilink")後半に放映されていた[ブルボン](../Page/ブルボン.md "wikilink")「Bit」のCMソングも歌っている 。
 
 80年代という早い段階から、多重録音による[コンテンポラリー](https://ja.wikipedia.org/wiki/コンテンポラリー "wikilink")かつ高度なコーラス・ワークを行っていた。
 
@@ -192,7 +192,7 @@
   - 上田正樹『REAL GROOVE』『PRIVATE FILE』
   - 安藤まさひろ『MELODY GO ROUND』
   - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")『[FENCE OF DEFENSE III 2235 ZERO GENERATION](../Page/FENCE_OF_DEFENSE_III_2235_ZERO_GENERATION.md "wikilink")』
-  - [中山美穂](../Page/中山美穂.md "wikilink")『[Mind Game](https://ja.wikipedia.org/wiki/Mind_Game "wikilink")』『[angel hearts](https://ja.wikipedia.org/wiki/angel_hearts_\(アルバム\) "wikilink")』『[Hide'n' Seek](https://ja.wikipedia.org/wiki/Hide'n'_Seek "wikilink")』他
+  - [中山美穂](../Page/中山美穂.md "wikilink")『[Mind Game](../Page/Mind_Game.md "wikilink")』『[angel hearts](https://ja.wikipedia.org/wiki/angel_hearts_\(アルバム\) "wikilink")』『[Hide'n' Seek](../Page/Hide'n'_Seek.md "wikilink")』他
   - [久保田利伸](../Page/久保田利伸.md "wikilink")『GROOVIN'』
   - [GWINKO](../Page/GWINKO.md "wikilink")『YESTERDAY TODAY FOREVER』『TEENAGE BEAT』
   - [櫻井哲夫](../Page/櫻井哲夫.md "wikilink")『DEWDROPS』

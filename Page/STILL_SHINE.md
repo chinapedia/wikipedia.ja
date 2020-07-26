@@ -4,7 +4,7 @@
 **STILL SHINE**（スティル･シャイン）とは、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで<ref>番組サイトにある[ソングリスト](http://www.j-wave.co.jp/original/stillshine/songlist/contents.htm)の内容と日付（2008年4月5日；土曜日）は本番組のものではない。このリスト内容は同日から始まった新番組「RANDY JACKSON'S HIT LIST」のものである（[RANDY JACKSON'S HIT LIST - 2008/4/5 SONG LIST](http://www.j-wave.co.jp/original/hitlist/songlist/contents004.html)参照）。また、[過去のオンエア曲目検索](http://www.j-wave.co.jp/cgi-bin/soundsearch.cgi)で確認すると、この曲リストの放送時刻は4月5日（土）の27:00 - 28:00となる。参考として次の番組表も参照されたい。
 
   - [3月31日（月）の番組表（ラジオ/東京）](http://tv.yahoo.co.jp/radio/tokyo/2008033124fm.html) - STILL SHINE 最終回
-  - [4月1日（火）の番組表（ラジオ/東京）](http://tv.yahoo.co.jp/radio/tokyo/2008040124fm.html) - 後続新番組「[20TH J-WAVE ARCHIVES〜J-WAVE TOP40](https://ja.wikipedia.org/wiki/20TH_J-WAVE_ARCHIVES〜J-WAVE_TOP40 "wikilink")」 初回放送
+  - [4月1日（火）の番組表（ラジオ/東京）](http://tv.yahoo.co.jp/radio/tokyo/2008040124fm.html) - 後続新番組「[20TH J-WAVE ARCHIVES〜J-WAVE TOP40](../Page/20TH_J-WAVE_ARCHIVES〜J-WAVE_TOP40.md "wikilink")」 初回放送
   - [4月5日（土）の番組表（ラジオ/東京）](http://tv.yahoo.co.jp/radio/tokyo/2008040524fm.html) - 「[RANDY JACKSON'S HIT LIST](https://ja.wikipedia.org/wiki/RANDY_JACKSON'S_HIT_LIST "wikilink")」初回放送
 
 </ref>、[J-WAVE](../Page/J-WAVE.md "wikilink")の平日深夜28:00から29:00に放送された音楽番組である。

@@ -1,11 +1,11 @@
 > この記事は[異邦人 \(TAK MATSUMOTO featuring ZARDの曲\)](https://ja.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARDの曲\))から翻訳されています。
 
 
-『**異邦人**』（いほうじん）は、[TAK MATSUMOTO](../Page/松本孝弘.md "wikilink") featuring [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のシングル。CDコードはBMCV-5004。
+『**異邦人**』（いほうじん）は、[TAK MATSUMOTO](../Page/松本孝弘.md "wikilink") featuring [ZARD](../Page/ZARD.md "wikilink")のシングル。CDコードはBMCV-5004。
 
 ## 概要
 
-  - [1979年](../Page/1979年.md "wikilink")に発売された[久保田早紀の](../Page/久米小百合.md "wikilink")「[異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")」のカバー。[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")と[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")のコラボレーションシングル。原曲はミリオンセラーの大ヒットとなっている。
+  - [1979年](../Page/1979年.md "wikilink")に発売された[久保田早紀の](../Page/久米小百合.md "wikilink")「[異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")」のカバー。[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")と[ZARD](../Page/ZARD.md "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")のコラボレーションシングル。原曲はミリオンセラーの大ヒットとなっている。
   - ZARD関連の楽曲では久しぶりの10万枚越えとなった。
   - ZARD最後のコラボレートシングルとなった。
 

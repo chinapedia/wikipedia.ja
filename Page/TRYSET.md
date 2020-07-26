@@ -69,7 +69,7 @@
 
 ### TRYSET MADレーベル
 
-  - 懺悔島 純潔～処女の血をもって償え\! （[2018年](../Page/2018年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売\[54\]）
+  - 懺悔島 純潔～処女の血をもって償え\! （[2018年](../Page/2018年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売\[54\]）
   - 愛欲MAD催眠 （[2014年](../Page/2014年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")発売\[55\]）
   - 妹欲MAD催眠 （2014年[9月26日](../Page/9月26日.md "wikilink")発売\[56\]）
 

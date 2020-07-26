@@ -43,7 +43,7 @@ AXESSでは[空港](../Page/空港.md "wikilink")（[3レターコード](https:
 
 ### 事業所
 
-  - 本社 : [東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[東品川](https://ja.wikipedia.org/wiki/東品川 "wikilink")2丁目3-12
+  - 本社 : [東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[東品川](../Page/東品川.md "wikilink")2丁目3-12
   - 大阪支店 : [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")
   - 名古屋支店 : [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")
   - 福岡支店 : [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")

@@ -22,7 +22,7 @@
 ### 司会・進行
 
   - [城主](https://ja.wikipedia.org/wiki/城主 "wikilink")（[殿](../Page/殿.md "wikilink")） - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")（「**タモ様**」） - 番組ホームページ上では本名の“[森田一義](https://ja.wikipedia.org/wiki/タモリ "wikilink")”名義
-  - [進行](https://ja.wikipedia.org/wiki/進行 "wikilink")（[姫](../Page/姫.md "wikilink")） - [高島彩](../Page/高島彩.md "wikilink")（元[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
+  - [進行](../Page/進行.md "wikilink")（[姫](../Page/姫.md "wikilink")） - [高島彩](../Page/高島彩.md "wikilink")（元[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
   - キタサマ（[人形](../Page/人形.md "wikilink")） - [喜多あおい](https://ja.wikipedia.org/wiki/喜多あおい "wikilink")（[ジーワン](https://ja.wikipedia.org/wiki/ジーワン_\(企業\) "wikilink")） - [番組](../Page/番組.md "wikilink")リサーチャーが[声](../Page/声.md "wikilink")の出演をし、出演者の疑問に対し解説する
 
 ### 家臣（プレゼンター）
@@ -56,7 +56,7 @@
 
 ### エキストラ（局・中臈）
 
-  - [スタジオ](../Page/スタジオ.md "wikilink")には、たくさんの[モデル系や](../Page/モデル_\(職業\).md "wikilink")[イベントコンパニオン](../Page/イベントコンパニオン.md "wikilink")系の[女性](../Page/女性.md "wikilink")が、[かつらや衣裳を身に着け](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")、[大奥](../Page/大奥.md "wikilink")[女中](../Page/女中.md "wikilink")（[局](../Page/局.md "wikilink")・中臈）として[エキストラ](../Page/エキストラ.md "wikilink")出演をしている。
+  - [スタジオ](../Page/スタジオ.md "wikilink")には、たくさんの[モデル系や](../Page/モデル_\(職業\).md "wikilink")[イベントコンパニオン](../Page/イベントコンパニオン.md "wikilink")系の[女性](../Page/女性.md "wikilink")が、[かつらや衣裳を身に着け](../Page/かつら_\(装身具\).md "wikilink")、[大奥](../Page/大奥.md "wikilink")[女中](../Page/女中.md "wikilink")（[局](../Page/局.md "wikilink")・中臈）として[エキストラ](../Page/エキストラ.md "wikilink")出演をしている。
   - しかし、第5回目放送分（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")放送分）からは、画面からかつら姿のモデル系やイベントコンパニオン系の女性が消えた状態となった。
 
 ## 放送リスト

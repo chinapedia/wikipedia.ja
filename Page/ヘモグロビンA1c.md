@@ -11,7 +11,7 @@
 
 ## 日本での問題点
 
-日本では[日本糖尿病学会](https://ja.wikipedia.org/wiki/日本糖尿病学会 "wikilink")(Japan Diabetes Society; JDS)により、検査の国内標準化が行われていた。しかし、国際的には米国のNational Glycohemoglobin Standardization Program; NGSP が標準化に採用されており、日本独自のものとなっていた。2012年4月より日本でも臨床検査標準化についてはNGSPを用いることが決定し、臨床検査に用いられている。しかしこの時点では、[特定健診・特定保健指導](https://ja.wikipedia.org/wiki/特定健診・特定保健指導 "wikilink")では、JDSを継続使用することとなっており、ダブル・スタンダードとなっていた。
+日本では[日本糖尿病学会](https://ja.wikipedia.org/wiki/日本糖尿病学会 "wikilink")(Japan Diabetes Society; JDS)により、検査の国内標準化が行われていた。しかし、国際的には米国のNational Glycohemoglobin Standardization Program; NGSP が標準化に採用されており、日本独自のものとなっていた。2012年4月より日本でも臨床検査標準化についてはNGSPを用いることが決定し、臨床検査に用いられている。しかしこの時点では、[特定健診・特定保健指導](../Page/特定健診・特定保健指導.md "wikilink")では、JDSを継続使用することとなっており、ダブル・スタンダードとなっていた。
 
   -
     HbA(%, NGSP)=HbA(%, JDS) X 1.02 + 0.25
@@ -40,7 +40,7 @@
 ## 関連項目
 
   - [グリコヘモグロビン](../Page/グリコヘモグロビン.md "wikilink")
-  - [グリコアルブミン](https://ja.wikipedia.org/wiki/グリコアルブミン "wikilink")
+  - [グリコアルブミン](../Page/グリコアルブミン.md "wikilink")
   - [1,5-アンヒドロ-D-グルシトール](https://ja.wikipedia.org/wiki/1,5-アンヒドロ-D-グルシトール "wikilink")
   - [臨床検査](https://ja.wikipedia.org/wiki/臨床検査 "wikilink")
 

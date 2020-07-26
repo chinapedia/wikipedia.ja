@@ -229,7 +229,7 @@ PK系の機関銃は、リム付き弾薬を使用し給弾機構が複雑とな
   - 『[フリーダム・ファイターズ](../Page/フリーダム・ファイターズ.md "wikilink")』
     「マシンガン」としてPKMが登場。
 
-  - 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+  - 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
     [中国軍の](../Page/中国人民解放軍.md "wikilink")[偵察](../Page/偵察.md "wikilink")車[BJ2020 SCOUTと](https://ja.wikipedia.org/wiki/BJ212 "wikilink")[北朝鮮反乱軍の偵察車](../Page/朝鮮民主主義人民共和国.md "wikilink")[SUNGRI SCOUTにPKMが搭載されているほか](../Page/M151.md "wikilink")、北朝鮮反乱軍の[主力戦車](../Page/主力戦車.md "wikilink")[T-62](../Page/T-62.md "wikilink")にPKTが搭載されており、両者とも使用可能。
 
   - 『[メダル・オブ・オナー](../Page/メダル・オブ・オナー_\(2010年のゲーム\).md "wikilink")』

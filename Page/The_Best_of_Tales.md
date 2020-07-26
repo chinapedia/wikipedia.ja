@@ -27,7 +27,7 @@
       - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")「[ラブリー{{JIS2004フォント](../Page/ラブリーキャッツアイ.md "wikilink")」（イメージソング）
   - 『[テイルズ オブ コモンズ](../Page/テイルズ_オブ_コモンズ.md "wikilink")』
       - 植村花菜「[キセキ](https://ja.wikipedia.org/wiki/キセキ/恋の魔法 "wikilink")」
-  - 『[テイルズ オブ ヴァールハイト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ヴァールハイト "wikilink")』
+  - 『[テイルズ オブ ヴァールハイト](../Page/テイルズ_オブ_ヴァールハイト.md "wikilink")』
       - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")「言えないよ」
 
 ## 収録曲

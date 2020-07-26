@@ -833,7 +833,7 @@ Blu-ray Disc</p></td>
 AVXD-32209 (12/11/21発売)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Acid_Black_Cherry_2010_Live_“Re:birth”〜Live_at_YOKOHAMA_ARENA_&amp;_OSAKA-JO_HALL〜" title="wikilink">Acid Black Cherry 2010 Live “Re:birth”〜Live at YOKOHAMA ARENA &amp; OSAKA-JO HALL〜</a></strong><br />
 <strong><a href="https://ja.wikipedia.org/wiki/Acid_Black_Cherry_2010_Live_“Re:birth”〜Live_at_YOKOHAMA_ARENA〜&quot;" title="wikilink">Acid Black Cherry 2010 Live “Re:birth”〜Live at YOKOHAMA ARENA〜"</a></strong><br />
 <strong><a href="https://ja.wikipedia.org/wiki/Acid_Black_Cherry_2010_Live_“Re:birth”〜Live_at_OSAKA-JO_HALL〜&quot;" title="wikilink">Acid Black Cherry 2010 Live “Re:birth”〜Live at OSAKA-JO HALL〜"</a></strong><br />

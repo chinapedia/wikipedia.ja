@@ -5,7 +5,7 @@
 
 ## 概要
 
-[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")プロデュース第3弾で、コーラスに[奥井雅美](../Page/奥井雅美.md "wikilink")が数曲参加している。また、5曲目の「Tears' Night」には[音楽クリエイターチーム](https://ja.wikipedia.org/wiki/音楽クリエイターチーム "wikilink")である[Elements Gardenの](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松範康.md "wikilink")が参加しており、2005年以降の水樹奈々のシングルを本格的に手掛けることになっていく。本作で自身初となるオリコントップ20入りを果たした。
+[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")プロデュース第3弾で、コーラスに[奥井雅美](../Page/奥井雅美.md "wikilink")が数曲参加している。また、5曲目の「Tears' Night」には[音楽クリエイターチーム](../Page/音楽クリエイターチーム.md "wikilink")である[Elements Gardenの](../Page/Elements_Garden.md "wikilink")[上松範康](../Page/上松範康.md "wikilink")が参加しており、2005年以降の水樹奈々のシングルを本格的に手掛けることになっていく。本作で自身初となるオリコントップ20入りを果たした。
 
 ## 収録曲
 

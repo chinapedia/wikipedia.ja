@@ -80,7 +80,7 @@
 <td><p>2007-08</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FBKカウナス" title="wikilink">カウナス</a></p></td>
+<td><p><a href="../Page/FBKカウナス.md" title="wikilink">カウナス</a></p></td>
 <td><p>3–1</p></td>
 <td><p>2–3</p></td>
 <td><p>'''5-4</p></td>

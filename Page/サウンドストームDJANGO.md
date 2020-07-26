@@ -47,7 +47,7 @@
 （ニッポン放送）</p></td>
 <td><p>聴：2.1%<br />
 シ：67.7%<br />
-（<a href="https://ja.wikipedia.org/wiki/中島みゆき" title="wikilink">中島みゆき</a>）</p></td>
+（<a href="../Page/中島みゆき.md" title="wikilink">中島みゆき</a>）</p></td>
 <td><p>聴：0.9%<br />
 シ：34.6%<br />
 （<a href="../Page/坂崎幸之助.md" title="wikilink">坂崎幸之助</a>）</p></td>

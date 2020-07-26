@@ -37,7 +37,7 @@
 
 ピンキッシュは、[まちづくり](../Page/まちづくり.md "wikilink")、[地域おこし](../Page/地域おこし.md "wikilink")の一つの形として誕生した。
 
-2002年、[大利根町](../Page/大利根町.md "wikilink")（現・[加須市](../Page/加須市.md "wikilink")）{{\#tag:ref|[大利根町](../Page/大利根町.md "wikilink")は2010年に旧加須市・[北埼玉郡](../Page/北埼玉郡.md "wikilink")[騎西町](../Page/騎西町.md "wikilink")・[北川辺町](https://ja.wikipedia.org/wiki/北川辺町 "wikilink")と新設合併して、[加須市](../Page/加須市.md "wikilink")となっている。ピンキッシュ誕生のきっかけとなった、「[童謡](../Page/童謡.md "wikilink")のふるさと」をPRする旧大利根町の政策については、2014年の加須市長の公約に入っており継続中\[18\]。|group=注}}[商工会青年部は創立](https://ja.wikipedia.org/wiki/商工会#青年部・女性部 "wikilink")20周年を迎え、記念事業を行うことになった。商工会青年部が考えたのは、従来行われていた著名人を迎えての講演会ではなく、何か別の面白いことができないか、ということであった。またそこには、町に対して何かできないか、町を元気付けようという思いもあった。そこで、大利根町は[童謡](../Page/童謡.md "wikilink")の作曲家[下総皖一](../Page/下総皖一.md "wikilink")の生誕の地であり、「童謡のふる里おおとね」をまちづくりの[コンセプトにしているので](../Page/概念.md "wikilink")、それを面白い形で[PRできないだろうかと考えた](../Page/パブリック・リレーションズ.md "wikilink")\[19\]。
+2002年、[大利根町](../Page/大利根町.md "wikilink")（現・[加須市](../Page/加須市.md "wikilink")）{{\#tag:ref|[大利根町](../Page/大利根町.md "wikilink")は2010年に旧加須市・[北埼玉郡](../Page/北埼玉郡.md "wikilink")[騎西町](../Page/騎西町.md "wikilink")・[北川辺町](../Page/北川辺町.md "wikilink")と新設合併して、[加須市](../Page/加須市.md "wikilink")となっている。ピンキッシュ誕生のきっかけとなった、「[童謡](../Page/童謡.md "wikilink")のふるさと」をPRする旧大利根町の政策については、2014年の加須市長の公約に入っており継続中\[18\]。|group=注}}[商工会青年部は創立](https://ja.wikipedia.org/wiki/商工会#青年部・女性部 "wikilink")20周年を迎え、記念事業を行うことになった。商工会青年部が考えたのは、従来行われていた著名人を迎えての講演会ではなく、何か別の面白いことができないか、ということであった。またそこには、町に対して何かできないか、町を元気付けようという思いもあった。そこで、大利根町は[童謡](../Page/童謡.md "wikilink")の作曲家[下総皖一](../Page/下総皖一.md "wikilink")の生誕の地であり、「童謡のふる里おおとね」をまちづくりの[コンセプトにしているので](../Page/概念.md "wikilink")、それを面白い形で[PRできないだろうかと考えた](../Page/パブリック・リレーションズ.md "wikilink")\[19\]。
 
 そんな時、テレビで放送されていた[モーニング娘。](../Page/モーニング娘。.md "wikilink")の姿を見て「童謡を歌うグループを作ったらいいのでは」\[20\]「町を挙げて応援し、モーニング娘。のような全国区で活躍できるグループに育てれば、大利根町のPRになる」\[21\]というアイデアに行き着いた。
 
@@ -305,7 +305,7 @@
   - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2007年4月5日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
   - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2008年5月8日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
   - 週刊[彩の国](../Page/彩の国.md "wikilink")ニュース（2008年6月14日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
-  - [NEWS930](https://ja.wikipedia.org/wiki/ニュース930_\(テレビ埼玉\) "wikilink")（2010年1月8日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [NEWS930](../Page/ニュース930_\(テレビ埼玉\).md "wikilink")（2010年1月8日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
   - 彩の国ニュースほっと（2011年4月2日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
   - [サンドウィッチマンのご当地アイドル発掘団](https://ja.wikipedia.org/wiki/サンドウィッチマンのご当地アイドル発掘団 "wikilink")（2011年4月23日、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")） - ゲスト出演\[94\]
   - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2011年8月16日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
@@ -330,7 +330,7 @@
   - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2014年10月17日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
   - 恋する地元キャンペーン「ひるブラ [長瀞](../Page/長瀞町.md "wikilink")」11/18(火)放送予定（2014年11月14日、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink") (別日程で[NHK BSプレミアムでも放送](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink"))） - ピンキッシュが[春日部市](../Page/春日部市.md "wikilink")の町おこしを紹介\[106\]
   - [ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")（2014年11月28日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")） - ゲスト出演
-  - [NEWS930](https://ja.wikipedia.org/wiki/ニュース930_\(テレビ埼玉\) "wikilink")（2015年1月22日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [NEWS930](../Page/ニュース930_\(テレビ埼玉\).md "wikilink")（2015年1月22日、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
   - ローカルアイドル冠番組プロジェクト\!\! Wednesday \#9 (2015年2月4日、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") [Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink"))\[107\]
   - [musicるTV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")（2015年4月13日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）\[108\]
   - ローカルアイドル冠番組プロジェクト\!\! \#2 (2015年4月14日、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") [Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink"))\[109\]
@@ -467,7 +467,7 @@
   - 日刊自動車新聞 (2013年8月27日 朝刊) - 『9月14日からモーターフェスタ開催 埼玉県自動車販売店協会が統一フェア』
   - 日刊自動車新聞 (2013年9月13日 朝刊) - 『埼玉県自動車販売店協会 ディーラーの中古車PR 14-13日のモーターフェスタ 告知イベント開く』
   - 読売新聞 （2013年10月10日 朝刊埼玉版） - 『[痴漢](../Page/痴漢.md "wikilink")撲滅願い 主要駅で啓発』
-  - 埼玉新聞 （2014年1月1日） - 『ご当地スイーツキャラ[いがまんちゃんをいただきます](https://ja.wikipedia.org/wiki/羽生市#マスコットキャラクター "wikilink")』(ピンキッシュが[塩あんびん](https://ja.wikipedia.org/wiki/塩あんびん "wikilink")と[いが饅頭を食べコメントするインタビュー記事](../Page/いがまんじゅう.md "wikilink"))
+  - 埼玉新聞 （2014年1月1日） - 『ご当地スイーツキャラ[いがまんちゃんをいただきます](https://ja.wikipedia.org/wiki/羽生市#マスコットキャラクター "wikilink")』(ピンキッシュが[塩あんびん](../Page/塩あんびん.md "wikilink")と[いが饅頭を食べコメントするインタビュー記事](../Page/いがまんじゅう.md "wikilink"))
   - 読売新聞 （2014年1月3日 朝刊埼玉版） - 『アイドルあきらめずに』\[137\]
   - 読売新聞 （2014年3月3日 朝刊埼玉版） - 『[サイバー犯罪](../Page/サイバー犯罪.md "wikilink")撲滅 アイドルが応援隊』
   - 日刊自動車新聞 (2014年8月26日 朝刊) - 『埼玉県自動車販売店協会、中古車統一フェア 9月13-23日一斉開催』
@@ -570,7 +570,7 @@
   - 川の再生キャンペーン (2011年8月6日\[212\]・2012年6月30日\[213\]、埼玉県県土整備部水辺再生課)
   - 子ども大学くまがや (2011年10月8日、埼玉県・熊谷市・[滑川町](../Page/滑川町.md "wikilink")・[立正大学](../Page/立正大学.md "wikilink")) - 入学式にて司会およびライブ\[214\]
   - スポーツ通勤広報キャンペーン「体育の日スペシャル　健康・体力チェック&スポーツ通勤体験コーナーINトレインフェスタ」(2011年10月10日、埼玉県教育局スポーツ振興課)\[215\]
-  - 食品の[不適正表示防止啓発ポスター及び啓発](https://ja.wikipedia.org/wiki/偽装表示 "wikilink")[クリアファイルの作成](https://ja.wikipedia.org/wiki/ファイル_\(文具\)#穴を空けないタイプ "wikilink") (2011年・2012年、埼玉県農林部農産物安全課) - ピンキッシュ写真入り\[216\]
+  - 食品の[不適正表示防止啓発ポスター及び啓発](../Page/偽装表示.md "wikilink")[クリアファイルの作成](https://ja.wikipedia.org/wiki/ファイル_\(文具\)#穴を空けないタイプ "wikilink") (2011年・2012年、埼玉県農林部農産物安全課) - ピンキッシュ写真入り\[216\]
   - 朝霞地区四市文化団体連絡協議会設立30周年記念童謡コンサート (2012年6月2日、[朝霞市](../Page/朝霞市.md "wikilink")・[志木市](../Page/志木市.md "wikilink")・[新座市](https://ja.wikipedia.org/wiki/新座市 "wikilink")・[和光市](../Page/和光市.md "wikilink")) \[217\]
   - 埼玉フェスタ (2012年8月31日・2015年9月13日、彩の国さいたま魅力づくり推進協議会(事務局: 埼玉県)・[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink"))
   - 童謡のふる里おおとね市民まつり (2012年11月23日・2015年11月22日、加須市)

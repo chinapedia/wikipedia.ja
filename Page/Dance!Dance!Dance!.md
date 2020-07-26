@@ -39,7 +39,7 @@
 
 登場人物は得意とする[ダンス](../Page/ダンス.md "wikilink")と持ち曲がある。
 
-  - 昴（声：[本美奈子](https://ja.wikipedia.org/wiki/本美奈子 "wikilink")）
+  - 昴（声：[本美奈子](../Page/本美奈子.md "wikilink")）
     出身国は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")。[東京](../Page/東京.md "wikilink")・下町の高校に通う16歳。天性の才能を持っており、あらゆる[ダンス](../Page/ダンス.md "wikilink")をあっと言う間に身に付けてしまう。得意とする[ダンス](../Page/ダンス.md "wikilink")はなく、オールマイティ。
   - ミハイル（声：[川島得愛](https://ja.wikipedia.org/wiki/川島得愛 "wikilink")）
     出身国は[ロシア](../Page/ロシア.md "wikilink")。得意とする[ダンス](../Page/ダンス.md "wikilink")は[コサック](../Page/コサック.md "wikilink")ダンス。持ち曲は「Mr.Ika」。
@@ -61,7 +61,7 @@
     隠れキャラクター。ストーリーモードをクリアすると登場する。持ち曲は「Excelorator」。
   - ソフィア（声：[加藤優子](https://ja.wikipedia.org/wiki/加藤優子 "wikilink")）
     隠れキャラクター。ストーリーモードをグッドエンドでクリアすると登場する。
-  - 舞（声：[菊地貴子](https://ja.wikipedia.org/wiki/菊地貴子 "wikilink")）
+  - 舞（声：[菊地貴子](../Page/菊地貴子.md "wikilink")）
     隠れキャラクター。オリジナルサウンドトラック「Dance\! Dance\! Dance\! Original Sound track」（1998年11月21日[フォーライフレコード](https://ja.wikipedia.org/wiki/フォーライフレコード "wikilink")より発売）の音楽CDをかけると使用可能になる。
   - Yumi（声：中川優美）
     隠れキャラクター。[Jack\&Betty](../Page/Jack&Betty.md "wikilink")の「Twister」（1998年10月21日[フォーライフレコード](https://ja.wikipedia.org/wiki/フォーライフレコード "wikilink")より発売）の音楽CDをかけると登場する。Jack\&Bettyの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")。

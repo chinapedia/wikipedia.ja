@@ -1,7 +1,7 @@
 > この記事は[STEP BY STEP \(ZIGGYの曲\)](https://ja.wikipedia.org/wiki/STEP_BY_STEP_\(ZIGGYの曲\))から翻訳されています。
 
 
-「**STEP BY STEP**」（ステップ・バイ・ステップ）は、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。
+「**STEP BY STEP**」（ステップ・バイ・ステップ）は、[ZIGGY](../Page/ZIGGY.md "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 1.  **STEP BY STEP**
       -
-        作詞、作曲：[森重樹一](../Page/森重樹一.md "wikilink")　編曲：[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
+        作詞、作曲：[森重樹一](../Page/森重樹一.md "wikilink")　編曲：[ZIGGY](../Page/ZIGGY.md "wikilink")
         [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』第1期エンディングテーマ
 2.  **HAPPY END**
       -

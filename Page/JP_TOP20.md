@@ -5,7 +5,7 @@
 
 ## 概要
 
-山川智也をDJとして、[TOKYO FMが制作する](../Page/エフエム東京.md "wikilink")『[JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")』の前日放送分チャートにランクインした20位までの最新ヒット曲を、アナウンス等ともかぶらせずフルコーラスで放送(2014年には後奏カットの時期があり)する。その他、注目曲やリクエスト曲なども紹介。[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まではツインナビゲートだったが、[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは再び一人で進行するようになった。
+山川智也をDJとして、[TOKYO FMが制作する](../Page/エフエム東京.md "wikilink")『[JA全農 COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink")』の前日放送分チャートにランクインした20位までの最新ヒット曲を、アナウンス等ともかぶらせずフルコーラスで放送(2014年には後奏カットの時期があり)する。その他、注目曲やリクエスト曲なども紹介。[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まではツインナビゲートだったが、[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは再び一人で進行するようになった。
 
 ## 放送時間
 

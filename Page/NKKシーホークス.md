@@ -15,7 +15,7 @@
 
 その間、[1950年](../Page/1950年.md "wikilink")には[オールジャパンを実業団男子として初めて優勝を飾り](https://ja.wikipedia.org/wiki/全日本総合バスケットボール選手権大会 "wikilink")、翌年も連覇を達成。[1957年](../Page/1957年.md "wikilink")からは前人未到の6連覇も記録し、この記録は現在も破られていない。優勝回数14回も歴代最多である。
 
-[日本リーグでも](../Page/バスケットボール日本リーグ.md "wikilink")、[1968から](https://ja.wikipedia.org/wiki/1968年 "wikilink")4連覇を記録。[松下電器](https://ja.wikipedia.org/wiki/パナソニックトライアンズ "wikilink")・[住友金属](../Page/住友金属スパークス.md "wikilink")・[日本鉱業とともに](../Page/ジャパンエナジーグリフィンズ.md "wikilink")1960年代から1980年代にかけての社会人バスケを支える一方で、オリンピックや世界選手権などの日本代表も多く輩出した。
+[日本リーグでも](../Page/バスケットボール日本リーグ.md "wikilink")、[1968から](../Page/1968年.md "wikilink")4連覇を記録。[松下電器](https://ja.wikipedia.org/wiki/パナソニックトライアンズ "wikilink")・[住友金属](../Page/住友金属スパークス.md "wikilink")・[日本鉱業とともに](../Page/ジャパンエナジーグリフィンズ.md "wikilink")1960年代から1980年代にかけての社会人バスケを支える一方で、オリンピックや世界選手権などの日本代表も多く輩出した。
 
 さらに1981年には第1回アジアクラブ選手権（現・[FIBAアジアチャンピオンズカップ](../Page/FIBAアジアチャンピオンズカップ.md "wikilink")）で準優勝に輝く。
 
@@ -69,7 +69,7 @@
 
 ## 獲得タイトル
 
-  - [日本リーグ](../Page/バスケットボール日本リーグ.md "wikilink") - 優勝5回（[1968](https://ja.wikipedia.org/wiki/1968年 "wikilink")・[1969](https://ja.wikipedia.org/wiki/1969年 "wikilink")・[1970](../Page/1970年.md "wikilink")・[1971](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1978](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
+  - [日本リーグ](../Page/バスケットボール日本リーグ.md "wikilink") - 優勝5回（[1968](../Page/1968年.md "wikilink")・[1969](https://ja.wikipedia.org/wiki/1969年 "wikilink")・[1970](../Page/1970年.md "wikilink")・[1971](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1978](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
   - [オールジャパン](https://ja.wikipedia.org/wiki/全日本総合バスケットボール選手権大会 "wikilink") - 優勝14回（[1950](../Page/1950年.md "wikilink")・[1951](https://ja.wikipedia.org/wiki/1951年 "wikilink")・[1957](../Page/1957年.md "wikilink")・[1958](../Page/1958年.md "wikilink")・[1959](../Page/1959年.md "wikilink")・[1960](../Page/1960年.md "wikilink")・[1961](https://ja.wikipedia.org/wiki/1961年 "wikilink")・[1962](../Page/1962年.md "wikilink")・[1965](../Page/1965年.md "wikilink")・[1970](../Page/1970年.md "wikilink")・[1971](https://ja.wikipedia.org/wiki/1971年 "wikilink")・[1973](../Page/1973年.md "wikilink")・[1977](../Page/1977年.md "wikilink")・[1981](../Page/1981年.md "wikilink")）
   - [全日本実業団選手権大会](../Page/全日本実業団バスケットボール選手権大会.md "wikilink")- 優勝11回
   - [全日本実業団選手権大会（現：実業団競技大会）](../Page/全日本実業団バスケットボール競技大会.md "wikilink") - 優勝2回

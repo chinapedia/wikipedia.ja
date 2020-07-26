@@ -278,7 +278,7 @@
   - 緒方 磨巳爾（おがた まなみ）
     大企業の息子 。晋の恋人。現在、東京で同棲中。
   - ノア・フォード
-    [ロス市警](https://ja.wikipedia.org/wiki/ロサンゼルス市警察 "wikilink")[強盗殺人課刑事](https://ja.wikipedia.org/wiki/捜査一課 "wikilink")。ビリーの恋人。
+    [ロス市警](../Page/ロサンゼルス市警察.md "wikilink")[強盗殺人課刑事](https://ja.wikipedia.org/wiki/捜査一課 "wikilink")。ビリーの恋人。
   - シア・ロイド、レスニー・ロイド
     アメリカの[俳優](../Page/俳優.md "wikilink")で、「**ロイド兄弟**」と呼ばれている双子。
   - ザックガッセ

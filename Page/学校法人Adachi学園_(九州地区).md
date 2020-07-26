@@ -14,7 +14,7 @@
 
 ## 沿革
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")　[専門学校東京デザイナー学院](../Page/専門学校東京デザイナー学院.md "wikilink")　[東京写真専門学校](https://ja.wikipedia.org/wiki/東京写真専門学校 "wikilink")の福岡校として[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")天神に設立
+  - [1968年](../Page/1968年.md "wikilink")　[専門学校東京デザイナー学院](../Page/専門学校東京デザイナー学院.md "wikilink")　[東京写真専門学校](https://ja.wikipedia.org/wiki/東京写真専門学校 "wikilink")の福岡校として[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")天神に設立
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")　[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")前に総合校舎完成　[学校法人](../Page/学校法人.md "wikilink")として[福岡県](../Page/福岡県.md "wikilink")に認可され校名を専門学校九州デザイナー学院に変更
   - 1983年　専門学校九州スクール・オブ・ビジネス、九州観光専門学校開校
   - [1989年](../Page/1989年.md "wikilink")　総合校舎2号館を増設
@@ -214,7 +214,7 @@ Adachi学園(九州地区)の施設では一番広く300人以上が収容でき
 ### 東京地区
 
   - [専門学校東京スクール・オブ・ビジネス](https://ja.wikipedia.org/wiki/専門学校東京スクール・オブ・ビジネス "wikilink")
-  - [東京観光専門学校](https://ja.wikipedia.org/wiki/東京観光専門学校 "wikilink")
+  - [東京観光専門学校](../Page/東京観光専門学校.md "wikilink")
   - [専門学校東京クールジャパン](../Page/専門学校東京ネットウエイブ.md "wikilink")
   - [専門学校東京デザイナー学院](../Page/専門学校東京デザイナー学院.md "wikilink")
   - [専門学校東京ビジュアルアーツ](../Page/専門学校東京ビジュアルアーツ.md "wikilink")

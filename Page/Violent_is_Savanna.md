@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")、兵庫県生まれ。血液型：A型。
+  - [1986年](../Page/1986年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")、兵庫県生まれ。血液型：A型。
 
 <!-- end list -->
 

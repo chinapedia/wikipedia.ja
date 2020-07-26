@@ -1,7 +1,7 @@
 > この記事は[Iichiko](https://ja.wikipedia.org/wiki/Iichiko)から翻訳されています。
 
 
-『**iichiko**』（いいちこ）とは、[三和酒類](../Page/三和酒類.md "wikilink")株式会社が発行している文芸雑誌（季刊）である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月創刊。現在では、[新曜社](../Page/新曜社.md "wikilink")より市販本『LIBRARY iichiko』も発刊されている。監修は[河北秀也](https://ja.wikipedia.org/wiki/河北秀也 "wikilink")、編纂には[山本哲士](../Page/山本哲士.md "wikilink")があたっている。
+『**iichiko**』（いいちこ）とは、[三和酒類](../Page/三和酒類.md "wikilink")株式会社が発行している文芸雑誌（季刊）である。[1986年](../Page/1986年.md "wikilink")10月創刊。現在では、[新曜社](../Page/新曜社.md "wikilink")より市販本『LIBRARY iichiko』も発刊されている。監修は[河北秀也](https://ja.wikipedia.org/wiki/河北秀也 "wikilink")、編纂には[山本哲士](../Page/山本哲士.md "wikilink")があたっている。
 
 ## 概要
 

@@ -3,7 +3,7 @@
 
 [thumbに接続する](https://ja.wikipedia.org/wiki/ファイル:Fmtrancemitter&iPod_classic.jpg "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")向け製品\]\]
 
-**FMトランスミッター**は、[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")に[準拠](https://ja.wikipedia.org/wiki/準拠 "wikilink")した[変調](https://ja.wikipedia.org/wiki/変調 "wikilink")信号で放送[周波数帯](https://ja.wikipedia.org/wiki/周波数帯 "wikilink")の[電波](../Page/電波.md "wikilink")を[送信](https://ja.wikipedia.org/wiki/送信 "wikilink")する[オーディオ用](../Page/音響機器.md "wikilink")[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")である。トランスミッターとは[送信機](../Page/送信機.md "wikilink")のことであり、字義からは、FM放送局の送信機、[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")のFM送信機などもFMトランスミッターであるが、ここではオーディオ用アクセサリーについて述べる。
+**FMトランスミッター**は、[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")に[準拠](https://ja.wikipedia.org/wiki/準拠 "wikilink")した[変調](https://ja.wikipedia.org/wiki/変調 "wikilink")信号で放送[周波数帯](https://ja.wikipedia.org/wiki/周波数帯 "wikilink")の[電波](../Page/電波.md "wikilink")を[送信](https://ja.wikipedia.org/wiki/送信 "wikilink")する[オーディオ用](../Page/音響機器.md "wikilink")[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")である。トランスミッターとは[送信機](../Page/送信機.md "wikilink")のことであり、字義からは、FM放送局の送信機、[アマチュア無線](../Page/アマチュア無線.md "wikilink")のFM送信機などもFMトランスミッターであるが、ここではオーディオ用アクセサリーについて述べる。
 
 ## 概要
 

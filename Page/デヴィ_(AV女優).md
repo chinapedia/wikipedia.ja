@@ -1,7 +1,7 @@
 > この記事は[デヴィ \(AV女優\)](https://ja.wikipedia.org/wiki/デヴィ_\(AV女優\))から翻訳されています。
 
 
-**デヴィ**（[1979年](../Page/1979年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\]\[2\]\[3\]\[4\] - ）は、日本で[タレント](../Page/タレント.md "wikilink")・[AV女優](../Page/AV女優.md "wikilink")・[ストリッパー](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")・[DJ](../Page/ディスクジョッキー.md "wikilink")・[歌手](../Page/歌手.md "wikilink")などの活動を行った人物。出身地は神奈川県\[5\]\[6\]もしくは東京都\[7\]とされる。[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")『[あいのり](../Page/あいのり.md "wikilink")』に出演後、AV女優に転向した\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]。
+**デヴィ**（[1979年](../Page/1979年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")\[1\]\[2\]\[3\]\[4\] - ）は、日本で[タレント](../Page/タレント.md "wikilink")・[AV女優](../Page/AV女優.md "wikilink")・[ストリッパー](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")・[DJ](../Page/ディスクジョッキー.md "wikilink")・[歌手](../Page/歌手.md "wikilink")などの活動を行った人物。出身地は神奈川県\[5\]\[6\]もしくは東京都\[7\]とされる。[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")『[あいのり](../Page/あいのり.md "wikilink")』に出演後、AV女優に転向した\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]。
 
 ## 略歴
 
@@ -22,7 +22,7 @@ AV出演と並行して2002年頃から[ストリッパーとしても活動し]
   - meet again（2002年2月28日、KUKI）
   - わるのり 特番（2002年3月29日、KUKI）※『わるのり デヴィ』、『素顔で逢えたら…』、『meet again』 収録
   - デヴィの3Pデス\!（2002年、[シャイ企画](https://ja.wikipedia.org/wiki/シャイ企画 "wikilink")）
-  - レズ・ミッション2（2002年12月15日、[MOODYZ](../Page/MOODYZ.md "wikilink")）共演:[由月理帆](https://ja.wikipedia.org/wiki/由月理帆 "wikilink")、[松葉まどか](https://ja.wikipedia.org/wiki/松葉まどか "wikilink")、[ナンシー](https://ja.wikipedia.org/wiki/ナンシー_\(AV女優\) "wikilink")
+  - レズ・ミッション2（2002年12月15日、[MOODYZ](../Page/MOODYZ.md "wikilink")）共演:[由月理帆](../Page/由月理帆.md "wikilink")、[松葉まどか](../Page/松葉まどか.md "wikilink")、[ナンシー](https://ja.wikipedia.org/wiki/ナンシー_\(AV女優\) "wikilink")
   - Looking For DEWI（2003年1月22日、MOODYZ）
   - AVおじゃマンボウ（2003年2月15日、MOODYZ）共演:[南波杏](../Page/南波杏.md "wikilink")、[紋舞らん](../Page/紋舞らん.md "wikilink")、[矢田あき](https://ja.wikipedia.org/wiki/矢田あき "wikilink")、[百華](https://ja.wikipedia.org/wiki/百華 "wikilink")、[MECUMI](https://ja.wikipedia.org/wiki/MECUMI "wikilink")、[京野真里奈](https://ja.wikipedia.org/wiki/京野真里奈 "wikilink") ※全員[友情出演](https://ja.wikipedia.org/wiki/友情出演 "wikilink")
   - 愛の全国出張サービス（2003年3月15日、MOODYZ）

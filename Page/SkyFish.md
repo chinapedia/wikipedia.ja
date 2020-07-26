@@ -1,7 +1,7 @@
 > この記事は[SkyFish](https://ja.wikipedia.org/wiki/SkyFish)から翻訳されています。
 
 
-**SkyFish**（スカイフィッシュ）は、[合資会社](../Page/合資会社.md "wikilink")スカイ・フィッシュの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。合資会社スカイ・フィッシュは、株式会社エフアンドシー（[F\&C](../Page/F&C.md "wikilink")）の子会社のひとつであった有限会社[ドリームソフト](https://ja.wikipedia.org/wiki/ドリームソフト "wikilink")の所属スタッフが独立して設立された。代表は[シナリオライターでもある](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")[ひろもりさかな](https://ja.wikipedia.org/wiki/ひろもりさかな "wikilink")。第1作目から[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")（CSA）の審査を受けている。
+**SkyFish**（スカイフィッシュ）は、[合資会社](../Page/合資会社.md "wikilink")スカイ・フィッシュの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。合資会社スカイ・フィッシュは、株式会社エフアンドシー（[F\&C](../Page/F&C.md "wikilink")）の子会社のひとつであった有限会社[ドリームソフト](https://ja.wikipedia.org/wiki/ドリームソフト "wikilink")の所属スタッフが独立して設立された。代表は[シナリオライターでもある](../Page/ゲームシナリオライター.md "wikilink")[ひろもりさかな](https://ja.wikipedia.org/wiki/ひろもりさかな "wikilink")。第1作目から[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")（CSA）の審査を受けている。
 
 ## 作品一覧
 

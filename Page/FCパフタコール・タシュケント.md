@@ -5,7 +5,7 @@
 
 [ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代は、[ソ連1部リーグに昇格した唯一のウズベキスタンのクラブであった](../Page/ソビエト連邦サッカーリーグ.md "wikilink")。1部には合計22シーズン在籍し、最高順位は[1962年](../Page/1962年.md "wikilink")と[1982年](../Page/1982年.md "wikilink")シーズンの6位である。このうち、1982年の6位は、[1979年](../Page/1979年.md "wikilink")に発生した航空機事故（[1979年ドニプロゼルジーンシク空中衝突事故](https://ja.wikipedia.org/wiki/1979年ドニプロゼルジーンシク空中衝突事故 "wikilink")）によって、[ディナモ・ミンスク](https://ja.wikipedia.org/wiki/ディナモ・ミンスク "wikilink")とのリーグ戦のために[白ロシア](../Page/白ロシア・ソビエト社会主義共和国.md "wikilink")（現[ベラルーシ](../Page/ベラルーシ.md "wikilink")）の[ミンスク](../Page/ミンスク.md "wikilink")に向かっていた監督を含む17人の選手・スタッフが死亡した悲劇を乗り越えての成果だった。
 
-[USSRカップ](../Page/USSRカップ.md "wikilink")では、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に中央アジアのクラブとしては唯一となる決勝進出を果たして、準優勝している。
+[USSRカップ](../Page/USSRカップ.md "wikilink")では、[1968年](../Page/1968年.md "wikilink")に中央アジアのクラブとしては唯一となる決勝進出を果たして、準優勝している。
 
 [ソ連崩壊](../Page/ソ連崩壊.md "wikilink")によるウズベキスタンの独立で成立したウズベク・リーグでは、[1992年](../Page/1992年.md "wikilink")の第1回リーグで[ネフチ・フェルガナ](https://ja.wikipedia.org/wiki/ネフチ・フェルガナ "wikilink")と同ポイントで優勝を分け合い、[2002年](../Page/2002年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")までに6シーズン連続で優勝した。[2003年](../Page/2003年.md "wikilink")に始まった[AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")の常連であり、[2003年と](../Page/AFCチャンピオンズリーグ2002-2003.md "wikilink")[2004年には準決勝に進出した](../Page/AFCチャンピオンズリーグ2004.md "wikilink")。
 
@@ -68,7 +68,7 @@
 
   - [ティムル・カパーゼ](https://ja.wikipedia.org/wiki/ティムル・カパーゼ "wikilink") 2002-2007
 
-  - [セルヴェル・ジェパロフ](https://ja.wikipedia.org/wiki/セルヴェル・ジェパロフ "wikilink") 2002-2007
+  - [セルヴェル・ジェパロフ](../Page/セルヴェル・ジェパロフ.md "wikilink") 2002-2007
 
   - [ダルコ・マルコヴィッチ](https://ja.wikipedia.org/wiki/ダルコ・マルコヴィッチ "wikilink") 2008-2011
 
@@ -80,7 +80,7 @@
 
   - [ウチェ・イヘルオメ](https://ja.wikipedia.org/wiki/ウチェ・イヘルオメ "wikilink") 2005-2008、2008-2009
 
-  - [アレクサンドル・ゲインリフ](https://ja.wikipedia.org/wiki/アレクサンドル・ゲインリフ "wikilink") 2002、2005、2007-2010
+  - [アレクサンドル・ゲインリフ](../Page/アレクサンドル・ゲインリフ.md "wikilink") 2002、2005、2007-2010
 
   - [アルトゥール・ゲヴォルクヤン](https://ja.wikipedia.org/wiki/アルトゥール・ゲヴォルクヤン "wikilink") 2010
 

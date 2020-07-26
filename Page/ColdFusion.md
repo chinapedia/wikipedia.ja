@@ -145,7 +145,7 @@ ColdFusion は他にも次のような付加価値サービスを提供する。
 
 ### ColdFusion MX 7
 
-2005年2月7日、ColdFusion7.0（正式名は Macromedia ColdFusion MX 7）がリリースされた。 CFMX7は、Macromedia Flex 1.5のエンジンを内包し、Flashベースのフォームが出力できるようになった。また、既存のHTMLベースのフォームの機能拡張、及び、XFormsのサポートなど、Webフォーム機能が充実した。また、フリーのレポートツールであるReport builderも提供され、[Adobe PDF](https://ja.wikipedia.org/wiki/Adobe_PDF "wikilink")、[FlashPaper](../Page/FlashPaper.md "wikilink")などの出力に対応した。また、任意のHTMLページをPDF形式に変換して高品質な印刷可能文書にする機能もある。Enterprise 版では[Gateways機能も追加された](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")。これにより、HTTP以外のサービス要求も扱えるようになった（IMサービス、SMS、ディレクトリウォッチャーなど）。XMLサポートも強化され、このバージョンではネイティブスキーマのチェックなどが行える。 後にリリースされたColdFusion MX 7.0.2（コードネーム "Mystic"）は、Adobe Flex 2との連携を行うための機能が備わっている。
+2005年2月7日、ColdFusion7.0（正式名は Macromedia ColdFusion MX 7）がリリースされた。 CFMX7は、Macromedia Flex 1.5のエンジンを内包し、Flashベースのフォームが出力できるようになった。また、既存のHTMLベースのフォームの機能拡張、及び、XFormsのサポートなど、Webフォーム機能が充実した。また、フリーのレポートツールであるReport builderも提供され、[Adobe PDF](https://ja.wikipedia.org/wiki/Adobe_PDF "wikilink")、[FlashPaper](../Page/FlashPaper.md "wikilink")などの出力に対応した。また、任意のHTMLページをPDF形式に変換して高品質な印刷可能文書にする機能もある。Enterprise 版では[Gateways機能も追加された](../Page/ゲートウェイ.md "wikilink")。これにより、HTTP以外のサービス要求も扱えるようになった（IMサービス、SMS、ディレクトリウォッチャーなど）。XMLサポートも強化され、このバージョンではネイティブスキーマのチェックなどが行える。 後にリリースされたColdFusion MX 7.0.2（コードネーム "Mystic"）は、Adobe Flex 2との連携を行うための機能が備わっている。
 
 ### Adobe ColdFusion 8
 

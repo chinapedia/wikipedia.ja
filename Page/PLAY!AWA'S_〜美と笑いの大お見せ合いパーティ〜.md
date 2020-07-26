@@ -107,7 +107,7 @@
   - [パリパリポリパリ](../Page/BAN_BAN_BAN_\(お笑いコンビ\).md "wikilink")（鮫島博己、山本正剛）
   - [スパークスタート](https://ja.wikipedia.org/wiki/スパークスタート "wikilink")（ダッチ、森田あつき）
   - [チョコレートプラネット](../Page/チョコレートプラネット.md "wikilink")（長田庄平、松尾アンダーグランド）
-  - [ゆったり感](https://ja.wikipedia.org/wiki/ゆったり感 "wikilink")（江崎隆文、中村秀将）
+  - [ゆったり感](../Page/ゆったり感.md "wikilink")（江崎隆文、中村秀将）
   - [ジューシーズ](https://ja.wikipedia.org/wiki/ジューシーズ "wikilink")（赤羽健一、児玉智洋、松橋周太呂）
   - [山田カントリー](https://ja.wikipedia.org/wiki/山田カントリー "wikilink")（山田、浅井優）
   - [しずる](../Page/しずる.md "wikilink")（[池田一真](../Page/池田一真.md "wikilink")、[村上純](../Page/村上純.md "wikilink")）

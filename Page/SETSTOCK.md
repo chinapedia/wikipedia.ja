@@ -416,7 +416,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/秋休_(音楽グループ)" title="wikilink">秋休</a></li>
 <li><a href="../Page/小谷美紗子.md" title="wikilink">小谷美紗子</a></li>
 <li><a href="../Page/中孝介.md" title="wikilink">中孝介</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a></li>
+<li><a href="../Page/キマグレン.md" title="wikilink">キマグレン</a></li>
 <li><a href="../Page/EGO-WRAPPIN&#39;.md" title="wikilink">EGO-WRAPPIN'</a></li>
 </ul></td>
 </tr>
@@ -446,7 +446,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ユニコーン_(バンド)" title="wikilink">ユニコーン</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/竹内電気" title="wikilink">竹内電気</a>（OPENING ACT）</li>
+<li><a href="../Page/竹内電気.md" title="wikilink">竹内電気</a>（OPENING ACT）</li>
 <li><a href="https://ja.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a>（OPENING ACT）</li>
 <li><a href="../Page/NICO_Touches_the_Walls.md" title="wikilink">NICO Touches the Walls</a></li>
 <li><a href="../Page/ROCK&#39;A&#39;TRENCH.md" title="wikilink">ROCK'A'TRENCH</a></li>
@@ -484,7 +484,7 @@ AND THE GOSSIP OF JAXX</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Vijandeux" title="wikilink">Vijandeux</a>（OPENING ACT）</li>
 <li><a href="https://ja.wikipedia.org/wiki/のあのわ" title="wikilink">のあのわ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/熊木杏里" title="wikilink">熊木杏里</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/キマグレン" title="wikilink">キマグレン</a></li>
+<li><a href="../Page/キマグレン.md" title="wikilink">キマグレン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ヨースケ@HOME" title="wikilink">ヨースケ@HOME</a></li>
 <li><a href="../Page/まきちゃんぐ.md" title="wikilink">まきちゃんぐ</a></li>
 </ul></td>

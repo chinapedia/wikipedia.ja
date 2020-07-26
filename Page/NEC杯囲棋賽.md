@@ -24,11 +24,11 @@
 5.  2000年 邵煒剛 - 常昊
 6.  2001年 [羅洗河](../Page/羅洗河.md "wikilink") - 周鶴洋
 7.  2002年 常昊 - [劉世振](https://ja.wikipedia.org/wiki/劉世振 "wikilink")
-8.  2003年 [王磊](https://ja.wikipedia.org/wiki/王磊_\(囲碁\) "wikilink") - 周鶴洋
+8.  2003年 [王磊](../Page/王磊_\(囲碁\).md "wikilink") - 周鶴洋
 9.  2004年 [古力](../Page/古力.md "wikilink") - 常昊
 10. 2005年 常昊 - 古力
 11. 2006年 古力 - 劉世振
-12. 2007年 [邱峻](https://ja.wikipedia.org/wiki/邱峻 "wikilink") - [周睿羊](https://ja.wikipedia.org/wiki/周睿羊 "wikilink")
+12. 2007年 [邱峻](../Page/邱峻.md "wikilink") - [周睿羊](https://ja.wikipedia.org/wiki/周睿羊 "wikilink")
 13. 2008年 古力 - [孔傑](../Page/孔傑.md "wikilink")
 14. 2009年 古力 - 孔傑
 

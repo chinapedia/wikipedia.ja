@@ -6,7 +6,7 @@
 ## ルート
 
   - 県営松竹住宅コース　（市役所 - 県営松竹住宅）。[アピタ江南西店前経由で運行](https://ja.wikipedia.org/wiki/ヴィアモール江南 "wikilink")。
-  - すいとぴあ江南コース　（[すいとぴあ江南](../Page/すいとぴあ江南.md "wikilink") - [江南厚生病院](https://ja.wikipedia.org/wiki/江南厚生病院 "wikilink")）
+  - すいとぴあ江南コース　（[すいとぴあ江南](../Page/すいとぴあ江南.md "wikilink") - [江南厚生病院](../Page/江南厚生病院.md "wikilink")）
 
 ## 運賃
 

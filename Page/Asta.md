@@ -5,7 +5,7 @@
 
 [2006年](../Page/2006年.md "wikilink")10月に創刊される\[3\]。ポプラ社では初の[小説誌](../Page/小説誌.md "wikilink")となる\[4\]。創刊号は『[ダ・ヴィンチ](../Page/ダ・ヴィンチ.md "wikilink")』11月号の付録として配布され、話題となった\[5\]。公式サイトから申し込むことができる定期購読と大手書店での無料配布で展開している\[6\]。[小説](../Page/小説.md "wikilink")や[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")などを掲載している。本誌連載の後、[ハードカバー](../Page/ハードカバー.md "wikilink")化されて[新潮社](../Page/新潮社.md "wikilink")より刊行されるケースが多い。[ポプラ社小説新人賞](https://ja.wikipedia.org/wiki/ポプラ社小説新人賞 "wikilink")の受賞作が発表されている\[7\]。
 
-出版社が発行するPR誌には他に、『[図書](https://ja.wikipedia.org/wiki/図書_\(雑誌\) "wikilink")』（[岩波書店](../Page/岩波書店.md "wikilink")）、『[IN★POCKET](https://ja.wikipedia.org/wiki/IN★POCKET "wikilink")』（[講談社](../Page/講談社.md "wikilink")）、『[本の旅人](../Page/本の旅人.md "wikilink")』（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）、『[波](https://ja.wikipedia.org/wiki/波_\(雑誌\) "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[青春と読書](https://ja.wikipedia.org/wiki/青春と読書 "wikilink")』（[集英社](../Page/集英社.md "wikilink")）などがある。
+出版社が発行するPR誌には他に、『[図書](https://ja.wikipedia.org/wiki/図書_\(雑誌\) "wikilink")』（[岩波書店](../Page/岩波書店.md "wikilink")）、『[IN★POCKET](../Page/IN★POCKET.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）、『[本の旅人](../Page/本の旅人.md "wikilink")』（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）、『[波](https://ja.wikipedia.org/wiki/波_\(雑誌\) "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[青春と読書](https://ja.wikipedia.org/wiki/青春と読書 "wikilink")』（[集英社](../Page/集英社.md "wikilink")）などがある。
 
 ## 過去の掲載作品
 

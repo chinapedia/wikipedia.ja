@@ -63,7 +63,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")、[新宿](../Page/新宿.md "wikilink")[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")前にて自分たちの作品が収められた[ソノシート](../Page/ソノシート.md "wikilink")「聖者が街にやってくる」を無料配布する告知をしたところ、ファンおよそ1300人（報道発表）が集まり、現地の交通が混乱したため配布中止。混乱を収めるためにチャーミーが街頭に登って説得した。この件は全国ニュースでも取り上げられた。また、メジャーデビュー1か月前の[10月26日](../Page/10月26日.md "wikilink")、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブで4000人を超えるファンを動員した。同年[11月21日](../Page/11月21日.md "wikilink")、[VAPより](../Page/バップ.md "wikilink")、アルバム『LAUGHIN' NOSE』、シングル『BROKEN GENERATION』でメジャーデビュー。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月にシングル『LAUGHIN' ROLL』、12月にアルバム『LAUGHIN' ROLL』をリリース。
+[1986年](../Page/1986年.md "wikilink")10月にシングル『LAUGHIN' ROLL』、12月にアルバム『LAUGHIN' ROLL』をリリース。
 
 順調な活動を続けていたさなかの[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")に [日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブ中、ステージに詰め掛けたファンが[将棋倒し](../Page/将棋倒し.md "wikilink")になり、3人の死者を出す[事故が発生](https://ja.wikipedia.org/wiki/ラフィンノーズ公演雑踏事故 "wikilink")。バンドは責任を取る形で[謹慎](https://ja.wikipedia.org/wiki/謹慎 "wikilink")（当時[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")でレギュラー出演していた「LAUGHIN' NOSEのDo it\!」も降板打ち切り）。しかし多くのファンの後押しにより活動を再開する。
 

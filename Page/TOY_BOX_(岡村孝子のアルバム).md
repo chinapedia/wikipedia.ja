@@ -7,7 +7,7 @@
 
 1985年、あみん活動休止後にソロデビューをしてから丸20周年を迎えるにあたって発売された企画盤。テレビ・映画・ラジオ等で使用された楽曲、いわゆる[タイアップ](../Page/タイアップ.md "wikilink")・ソングを集めた2枚組仕様となっている。
 
-アルバムタイトル『**TOY BOX**』は、「おもちゃ箱をひっくりかえしたような、楽しいアルバム」という意味を込めて名付けられた。首都圏の駅などに貼られた宣伝広告に掲載されたコピーは、「このアルバムの中には、あの頃のあなたがいます。」。青空をバックに、目を閉じて微笑む岡村の写真が起用された。なおその写真は、本アルバムと同時に発売されたライブ[DVD](../Page/DVD.md "wikilink")『[Encore VI OKAMURA TAKAKO CONCERT TOUR 2005 Sanctuary](https://ja.wikipedia.org/wiki/Encore_VI_OKAMURA_TAKAKO_CONCERT_TOUR_2005_Sanctuary "wikilink")』に付随のカラーピクチャー・[ブックレット](../Page/小冊子.md "wikilink")（初回生産盤のみ）にも掲載されている。
+アルバムタイトル『**TOY BOX**』は、「おもちゃ箱をひっくりかえしたような、楽しいアルバム」という意味を込めて名付けられた。首都圏の駅などに貼られた宣伝広告に掲載されたコピーは、「このアルバムの中には、あの頃のあなたがいます。」。青空をバックに、目を閉じて微笑む岡村の写真が起用された。なおその写真は、本アルバムと同時に発売されたライブ[DVD](../Page/DVD.md "wikilink")『[Encore VI OKAMURA TAKAKO CONCERT TOUR 2005 Sanctuary](../Page/Encore_VI_OKAMURA_TAKAKO_CONCERT_TOUR_2005_Sanctuary.md "wikilink")』に付随のカラーピクチャー・[ブックレット](../Page/小冊子.md "wikilink")（初回生産盤のみ）にも掲載されている。
 
 なお、1995年頃から2001年頃まで、[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（BMG JAPANの前身レコード会社）でなく[イーストウェスト・ジャパン](https://ja.wikipedia.org/wiki/east_west_japan "wikilink")\[1\]に在籍していたことから、その間に発表された楽曲は版権の都合上、タイアップ付であっても収録は見送られた\[2\]。
 

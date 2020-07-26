@@ -120,7 +120,7 @@ J・D・キャノン<br />
 <em>Madigan</em></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/リチャード・ウィドマーク.md" title="wikilink">リチャード・ウィドマーク</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a>の映画『<a href="https://ja.wikipedia.org/wiki/刑事マディガン" title="wikilink">刑事マディガン</a>』のTVシリーズ化</p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a>の映画『<a href="https://ja.wikipedia.org/wiki/刑事マディガン" title="wikilink">刑事マディガン</a>』のTVシリーズ化</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cool Million</strong><br />

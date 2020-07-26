@@ -25,7 +25,7 @@
       - 作詞・作曲・編曲：槇原敬之
 2.  **Naked**
       - 作詞・作曲・編曲：槇原敬之
-3.  **[ほんの少しだけ](../Page/ほんの少しだけ.md "wikilink") feat. [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")**
+3.  **[ほんの少しだけ](../Page/ほんの少しだけ.md "wikilink") feat. [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")**
       - 作詞：槇原敬之・[KURO](../Page/KURO.md "wikilink")、作曲・編曲：槇原敬之
       - 35thシングル。[TBS系](../Page/TBSテレビ.md "wikilink")『[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』エンディングテーマ。
 4.  **星の光**

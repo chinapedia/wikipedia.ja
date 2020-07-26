@@ -34,7 +34,7 @@
 
 **[真田 哲弥](../Page/真田哲弥.md "wikilink")**（さなだ てつや、[1964年](../Page/1964年.md "wikilink")生 - ）、取締役会長。前代表取締役CEO、[大阪星光学院高等学校](https://ja.wikipedia.org/wiki/大阪星光学院高等学校 "wikilink")卒、[関西学院大学経済学部](https://ja.wikipedia.org/wiki/関西学院大学経済学部 "wikilink")中退。
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") 合宿制の運転免許学校の斡旋所マイライセンスを開業
+  - [1986年](../Page/1986年.md "wikilink") 合宿制の運転免許学校の斡旋所マイライセンスを開業
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") マイライセンスを法人化し株式会社[リョーマ設立](../Page/リョーマ_\(ベンチャー\).md "wikilink")、代表取締役社長
   - [1989年](../Page/1989年.md "wikilink") 株式会社[ダイヤルキューネットワーク](https://ja.wikipedia.org/wiki/ダイヤルキューネットワーク "wikilink")設立、代表取締役専務
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") 株式会社アクセス（現[ACCESS](../Page/ACCESS_\(企業\).md "wikilink")）入社

@@ -97,7 +97,7 @@
 
 ## 関連項目
 
-  - [未解決事件](https://ja.wikipedia.org/wiki/未解決事件 "wikilink")
+  - [未解決事件](../Page/未解決事件.md "wikilink")
   - [公訴時効](../Page/公訴時効.md "wikilink")
 
 ## 外部リンク

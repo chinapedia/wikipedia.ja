@@ -120,7 +120,7 @@
 
 ## 備考
 
-  - 制作のきっかけは、片山が当時『[三國志](../Page/三國志_\(ゲーム\).md "wikilink")』（[光栄](../Page/コーエー.md "wikilink")）や『[三国志 中原の覇者](https://ja.wikipedia.org/wiki/三国志_中原の覇者 "wikilink")』（[ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）等の『三国志』を題材にしたゲーム作品にハマっていたことから。
+  - 制作のきっかけは、片山が当時『[三國志](../Page/三國志_\(ゲーム\).md "wikilink")』（[光栄](../Page/コーエー.md "wikilink")）や『[三国志 中原の覇者](../Page/三国志_中原の覇者.md "wikilink")』（[ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）等の『三国志』を題材にしたゲーム作品にハマっていたことから。
   - 本人曰く「[麻雀漫画](../Page/麻雀漫画.md "wikilink")以外で単行本が2巻以上でたのはこれが初めてで中国大陸には足を向けて寝られない」。
 
 [Category:片山まさゆき](https://ja.wikipedia.org/wiki/Category:片山まさゆき "wikilink") [Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:三国志演義を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:三国志演義を題材とした漫画作品 "wikilink")

@@ -106,7 +106,7 @@
   - 第39回：桃井はるこ
   - 第40回：[Cy-Rim rev.](../Page/Cy-Rim_rev..md "wikilink")
   - 第41回：[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
-  - 第42回：[近藤薫](https://ja.wikipedia.org/wiki/近藤薫 "wikilink")
+  - 第42回：[近藤薫](../Page/近藤薫.md "wikilink")
   - 第43回：影山ヒロノブ
   - 第44回：[美郷あき](../Page/美郷あき.md "wikilink")
   - 第45回：[福山芳樹](../Page/福山芳樹.md "wikilink")

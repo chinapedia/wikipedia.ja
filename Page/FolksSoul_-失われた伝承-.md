@@ -13,7 +13,7 @@
 
 「ダンジョントライアル」モードでは、本編で入手したフォークスを使い自分でダンジョンを作り、ネットワークにアップロードし他のプレイヤーにプレイさせたり、他のプレイヤーがアップロードしたダンジョンを楽しむことが可能。
 
-[PlayStation 3のゲームで初めて](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（当時としては）[PlayStation Portableと連動する機能を備えているが](../Page/PlayStation_Portable.md "wikilink")、PlayStation Portable用ソフト『[Coded Soul -受け継がれしイデア-](https://ja.wikipedia.org/wiki/Coded_Soul_-受け継がれしイデア- "wikilink")』（2008年2月7日 発売）が必要である。開発初期のタイトル名は『MONSTER KINGDOM UNKNOWN REALMS（仮）』（モンスター・キングダム・アンノウン・レルム（仮））であった。PlayStation Portableで発売された『[モンスターキングダム・ジュエルサモナー](../Page/モンスターキングダム・ジュエルサモナー.md "wikilink")』との関連は不明。
+[PlayStation 3のゲームで初めて](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（当時としては）[PlayStation Portableと連動する機能を備えているが](../Page/PlayStation_Portable.md "wikilink")、PlayStation Portable用ソフト『[Coded Soul -受け継がれしイデア-](../Page/Coded_Soul_-受け継がれしイデア-.md "wikilink")』（2008年2月7日 発売）が必要である。開発初期のタイトル名は『MONSTER KINGDOM UNKNOWN REALMS（仮）』（モンスター・キングダム・アンノウン・レルム（仮））であった。PlayStation Portableで発売された『[モンスターキングダム・ジュエルサモナー](../Page/モンスターキングダム・ジュエルサモナー.md "wikilink")』との関連は不明。
 
 メインテーマは[死後](https://ja.wikipedia.org/wiki/死後 "wikilink")や生死への探求であり、『自分もいずれは死ぬ（消滅する）という事を普段から意識していては、[人](../Page/人.md "wikilink")は[恐怖](../Page/恐怖.md "wikilink")や[ストレスでおかしくなりかねず](../Page/ストレス_\(生体\).md "wikilink")、生きていけなくなる。そのため普段はそれらを忘れることで、生きていける』などといった、死生観にまつわる思想的な話が強い。
 

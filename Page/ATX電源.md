@@ -326,7 +326,7 @@ ATX電源の給電能力が不足するとPCの故障の原因となる可能性
   - [無停電電源装置](../Page/無停電電源装置.md "wikilink")
   - [PFC回路](https://ja.wikipedia.org/wiki/PFC回路 "wikilink")
   - [AT電源](https://ja.wikipedia.org/wiki/AT電源 "wikilink")
-  - [不良電解コンデンサ問題](https://ja.wikipedia.org/wiki/不良電解コンデンサ問題 "wikilink")
+  - [不良電解コンデンサ問題](../Page/不良電解コンデンサ問題.md "wikilink")
 
 ## 外部リンク
 

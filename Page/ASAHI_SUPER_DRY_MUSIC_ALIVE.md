@@ -248,7 +248,7 @@
 <!-- end list -->
 
   -
-    [HOME MADE 家族がゲスト出演した](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")。
+    [HOME MADE 家族がゲスト出演した](../Page/HOME_MADE_家族.md "wikilink")。
 
 <!-- end list -->
 

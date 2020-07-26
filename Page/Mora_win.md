@@ -42,7 +42,7 @@
   - 2008年[5月30日](../Page/5月30日.md "wikilink")-[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")社「[S\!ミュージックコネクト](../Page/S!ミュージックコネクト.md "wikilink") プレーヤー」向けPC音楽配信サービス「mora win\[モーラ ウィン\] for S\!ミュージックコネクト」スタート。
   - 2008年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")-“Type1 Music Store”のプラグインソフトが500万[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")を突破
   - 2008年[6月27日](../Page/6月27日.md "wikilink")-音楽検索SNSサイト[midomi](https://ja.wikipedia.org/wiki/midomi "wikilink")とのウェブサイトの連携をスタート。これにより[midomi](https://ja.wikipedia.org/wiki/midomi "wikilink")での楽曲検索結果ページやユーザの楽曲再生ページなどに**mora win**のロゴが表示され、ここをクリックすることにより素早くアクセスし、聴きたい曲を試聴しダウンロードすることが可能となった。
-  - 2008年[7月18日](../Page/7月18日.md "wikilink")-[イー・モバイル](../Page/イー・モバイル.md "wikilink")の[EMONSTER](https://ja.wikipedia.org/wiki/EMONSTER "wikilink")シリーズに最適化したサイトを公開
+  - 2008年[7月18日](../Page/7月18日.md "wikilink")-[イー・モバイル](../Page/イー・モバイル.md "wikilink")の[EMONSTER](../Page/EMONSTER.md "wikilink")シリーズに最適化したサイトを公開
   - 2008年[8月1日](../Page/8月1日.md "wikilink")- [ビットキャッシュによる決済が可能になる](../Page/BitCash.md "wikilink")。
   - 2009年[2月16日](../Page/2月16日.md "wikilink")-ソフトバンクモバイルが「S\!ミュージックコネクト」のソフトウェアダウンロードを終了。サービス自体も[3月31日](../Page/3月31日.md "wikilink")に終了。
   - 2009年[12月10日](../Page/12月10日.md "wikilink") - [mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")ミュージック廃止に伴い、連携サービスを終了。
@@ -58,7 +58,7 @@
   - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink")
   - [Playlog](../Page/Playlog.md "wikilink")
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
-  - [EMONSTER](https://ja.wikipedia.org/wiki/EMONSTER "wikilink")
+  - [EMONSTER](../Page/EMONSTER.md "wikilink")
 
 ## その他
 

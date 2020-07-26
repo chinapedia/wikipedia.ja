@@ -46,7 +46,7 @@
   - [1982年](../Page/1982年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - 通称"Diamond Crash"事故([:en:1982 Thunderbirds Indian Springs Diamond Crash](https://ja.wikipedia.org/wiki/:en:1982_Thunderbirds_Indian_Springs_Diamond_Crash "wikilink"))
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月27日](../Page/11月27日.md "wikilink") - [アビアンカ航空011便墜落事故](https://ja.wikipedia.org/wiki/アビアンカ航空011便墜落事故 "wikilink")
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [イースタン航空980便墜落事故](https://ja.wikipedia.org/wiki/イースタン航空980便墜落事故 "wikilink")
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月19日](../Page/10月19日.md "wikilink") - [モザンビーク](https://ja.wikipedia.org/wiki/モザンビーク "wikilink")大統領[サモラ・マシェル](../Page/サモラ・マシェル.md "wikilink")を乗せた[ツポレフ](../Page/ツポレフ.md "wikilink") [Tu-134](https://ja.wikipedia.org/wiki/Tu-134 "wikilink")が墜落。大統領を含む34名が犠牲になった。
+  - [1986年](../Page/1986年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") - [モザンビーク](https://ja.wikipedia.org/wiki/モザンビーク "wikilink")大統領[サモラ・マシェル](../Page/サモラ・マシェル.md "wikilink")を乗せた[ツポレフ](../Page/ツポレフ.md "wikilink") [Tu-134](https://ja.wikipedia.org/wiki/Tu-134 "wikilink")が墜落。大統領を含む34名が犠牲になった。
   - [1988年](../Page/1988年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - [トランス・コロラド航空2286便墜落事故](https://ja.wikipedia.org/wiki/トランス・コロラド航空2286便墜落事故 "wikilink")
   - [1988年](../Page/1988年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink") - [アビアンカ航空410便墜落事故](https://ja.wikipedia.org/wiki/アビアンカ航空410便墜落事故 "wikilink")
   - [1988年](../Page/1988年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") - [インディアン航空113便墜落事故](https://ja.wikipedia.org/wiki/インディアン航空113便墜落事故 "wikilink")

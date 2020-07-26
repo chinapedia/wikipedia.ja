@@ -319,7 +319,7 @@ PVコメント：<a href="https://ja.wikipedia.org/wiki/綾瀬はるか" title="
 <tr class="even">
 <td><p>35</p></td>
 <td><p><a href="../Page/1月28日.md" title="wikilink">1月28日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HOME_MADE_家族" title="wikilink">HOME MADE 家族</a><br />
+<td><p><a href="../Page/HOME_MADE_家族.md" title="wikilink">HOME MADE 家族</a><br />
 <a href="https://ja.wikipedia.org/wiki/青山テルマ" title="wikilink">青山テルマ</a></p></td>
 <td><p><br />
 </p></td>

@@ -83,7 +83,7 @@ AMや[BSデジタルラジオ](../Page/BSデジタル音声放送.md "wikilink")
 
   - [木村政雄の楽園計画・club50](https://ja.wikipedia.org/wiki/木村政雄の楽園計画・club50 "wikilink")
   - [Cinemambo/シネマンボ](https://ja.wikipedia.org/wiki/Cinemambo/シネマンボ "wikilink")
-  - [会社ラジオ ガレージスタイル](https://ja.wikipedia.org/wiki/会社ラジオ_ガレージスタイル "wikilink")
+  - [会社ラジオ ガレージスタイル](../Page/会社ラジオ_ガレージスタイル.md "wikilink")
   - [グリーン2リズム](https://ja.wikipedia.org/wiki/グリーン2リズム "wikilink")
   - [アジアンパラダイス](https://ja.wikipedia.org/wiki/アジアンパラダイス "wikilink")（Podcast QRに移行）
   - [アジアン\!プラス](https://ja.wikipedia.org/wiki/アジアン!プラス "wikilink")（Podcast QRに移行）

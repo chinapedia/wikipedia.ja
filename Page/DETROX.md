@@ -27,7 +27,7 @@
 
 ## 元メンバー
 
-  - **[MJ nagai](https://ja.wikipedia.org/wiki/MJ_nagai "wikilink")**（ミスター・ジャパン ナガイ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）
+  - **[MJ nagai](https://ja.wikipedia.org/wiki/MJ_nagai "wikilink")**（ミスター・ジャパン ナガイ、[1968年](../Page/1968年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）
       - [エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")担当。身長151cm、体重31kg、血液型はB型。本名は長井一功(かずよし)。
       - [UNCOMPROMISING ELEMENTS代表取締役社長兼最高経営責任者統括事業本部長常任執行役特別顧問総合戦略室室長常勤監査役ヒールズ事業本部統括本部長包括運営局局長ヴァイスプレジデントチーフチェアマンアジア地区担当エクゼクティブプロデューサー](https://ja.wikipedia.org/wiki/UNCOMPROMISING_ELEMENTS "wikilink")。[Macintosh](../Page/Macintosh.md "wikilink")に精通しており、ウェブサイトの構築などを行っている。また、得意分野は[ヘッドバンギング](../Page/ヘッドバンギング.md "wikilink")と[Adobe Flash](../Page/Adobe_Flash.md "wikilink")。現在は[PHPも習得し使用し始めた](../Page/PHP_\(プログラミング言語\).md "wikilink")。[Macintosh](../Page/Macintosh.md "wikilink")以外のコンピューターも扱う事ができる。主に[東京](../Page/東京.md "wikilink")を中心に活動している。
       - 2008年12月29日のライブを最後にDETROXを脱退。理由は、エンジニア業もDETROXも中途半端になってしまう為。脱退後も音源のミックス作業等でバンドに関与し続けた。

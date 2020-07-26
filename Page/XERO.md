@@ -44,7 +44,7 @@
 
   - 2006年[6月30日](../Page/6月30日.md "wikilink") - [はちゅかの](https://ja.wikipedia.org/wiki/はちゅかの "wikilink")
   - [2007年](../Page/2007年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - [ドラクリウス](https://ja.wikipedia.org/wiki/ドラクリウス "wikilink")
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink") - [残暑お見舞い申し上げます。 〜君と過ごしたあの日と今と〜](https://ja.wikipedia.org/wiki/残暑お見舞い申し上げます。 "wikilink")
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink") - [残暑お見舞い申し上げます。 〜君と過ごしたあの日と今と〜](../Page/残暑お見舞い申し上げます。.md "wikilink")
   - 2008年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - [ミンナノウタ 〜Everyone's song〜](https://ja.wikipedia.org/wiki/ミンナノウタ_〜Everyone's_song〜 "wikilink")
   - [2009年](../Page/2009年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - [魔法少女の大切なこと。](https://ja.wikipedia.org/wiki/魔法少女の大切なこと。 "wikilink")
 
@@ -54,7 +54,7 @@
 
 <!-- end list -->
 
-  - 2007年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [おいしい魔法のとなえかた。](https://ja.wikipedia.org/wiki/おいしい魔法のとなえかた。 "wikilink")
+  - 2007年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [おいしい魔法のとなえかた。](../Page/おいしい魔法のとなえかた。.md "wikilink")
   - 2007年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - [ツイ☆てる](../Page/ツイ☆てる.md "wikilink")
   - 2008年[4月25日](../Page/4月25日.md "wikilink") - [ステルラエクエス 〜贖罪の姫騎士〜](https://ja.wikipedia.org/wiki/ステルラエクエス_〜贖罪の姫騎士〜 "wikilink")
   - 2008年[6月27日](../Page/6月27日.md "wikilink") - [どこでもすきしていつでもすきして](https://ja.wikipedia.org/wiki/どこでもすきしていつでもすきして "wikilink")

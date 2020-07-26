@@ -29,7 +29,7 @@
     旅客、[VIP輸送用](../Page/要人.md "wikilink")。
   - Mi-8TPS
     空中通信型。
-  - [Mi-8MT/TV](https://ja.wikipedia.org/wiki/Mi-17_\(航空機\) "wikilink")
+  - [Mi-8MT/TV](../Page/Mi-17_\(航空機\).md "wikilink")
     エンジンを[クリーモフTV-3-117-MT](https://ja.wikipedia.org/wiki/クリーモフ_TV3-117 "wikilink") [ターボシャフトエンジン](../Page/ターボシャフトエンジン.md "wikilink")に転換した機体。輸出用はMi-17（[NATOコードネーム](../Page/NATOコードネームの一覧_\(航空機\).md "wikilink")：ヒップH）と呼ばれる。
   - Mi-8MTV
     基本的には上記の機体と同じ。与圧式客室を採用。輸出用はMi-17M/Vと呼ばれる。
@@ -47,7 +47,7 @@
     空中指揮通信機。
   - Mi-8TS
     [砂漠](../Page/砂漠.md "wikilink")仕様機。
-  - [Mi-9（Mi-8IV）](https://ja.wikipedia.org/wiki/Mi-9_\(航空機\) "wikilink") ヒップG
+  - [Mi-9（Mi-8IV）](../Page/Mi-9_\(航空機\).md "wikilink") ヒップG
     空中指揮通信機。アンテナが戦闘室後部から突出している。
   - Mi-8SMV ヒップJ
     [電子戦機](../Page/電子戦機.md "wikilink")。胴体両側面に大型アンテナを搭載。[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")類も追加装備している。
@@ -65,7 +65,7 @@
     夜間攻撃機。を装備している。
   - [Mi-14](../Page/Mi-14_\(航空機\).md "wikilink")
     海軍向け仕様機。NATOコードネームは『ヘイズ』。
-  - [Mi-18](https://ja.wikipedia.org/wiki/Mi-18_\(航空機\) "wikilink")
+  - [Mi-18](../Page/Mi-18_\(航空機\).md "wikilink")
     Mi-8MTの改良型。[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")に伴い開発中止。
   - [Mi-24](../Page/Mi-24_\(航空機\).md "wikilink")
     Mi-8を元に開発された[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")。NATOコードネームは『ハインド』。
@@ -166,7 +166,7 @@
   - [スロヴァキア](https://ja.wikipedia.org/wiki/スロヴァキア "wikilink")：（Air Transport Europe）
   - [中国](../Page/中華人民共和国.md "wikilink")
       - [中国北方航空](../Page/中国北方航空.md "wikilink")
-      - [東方通用航空](https://ja.wikipedia.org/wiki/東方通用航空 "wikilink")（ [Mi-17](https://ja.wikipedia.org/wiki/Mi-17_\(航空機\) "wikilink")）
+      - [東方通用航空](https://ja.wikipedia.org/wiki/東方通用航空 "wikilink")（ [Mi-17](../Page/Mi-17_\(航空機\).md "wikilink")）
   - [トルクメニスタン](../Page/トルクメニスタン.md "wikilink")：[トルクメニスタン航空](https://ja.wikipedia.org/wiki/トルクメニスタン航空 "wikilink")
   - [ブルガリア](../Page/ブルガリア.md "wikilink")：[バルカンブルガリア航空](https://ja.wikipedia.org/wiki/バルカンブルガリア航空 "wikilink")（Balkan Bulgarian Airlines）
   - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")：[ベトナムエアサービス](https://ja.wikipedia.org/wiki/ベトナムエアサービス "wikilink")（VASCO - Vietnam Air Services）
@@ -196,7 +196,7 @@
   - 自重：7,260kg
   - 通常離陸重量：9,800kg
   - 最大離陸重量：10,800kg
-  - 発動機：[クリーモフ](https://ja.wikipedia.org/wiki/クリーモフ_\(企業\) "wikilink")[ターボシャフト](../Page/ターボシャフトエンジン.md "wikilink")×2
+  - 発動機：[クリーモフ](../Page/クリーモフ_\(企業\).md "wikilink")[ターボシャフト](../Page/ターボシャフトエンジン.md "wikilink")×2
   - 出力：1,700[hp](https://ja.wikipedia.org/wiki/hp "wikilink")×2
   - 超過禁止速度：260km/h
   - 巡航速度：180km/h

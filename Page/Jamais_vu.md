@@ -10,22 +10,22 @@
 
 ## 収録曲
 
-1.  **[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")**
-2.  **[嵐ヶ丘](https://ja.wikipedia.org/wiki/嵐ヶ丘_\(ALI_PROJECTの曲\) "wikilink")**
+1.  **[恋せよ乙女〜Love story of ZIPANG〜](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink")**
+2.  **[嵐ヶ丘](../Page/嵐ヶ丘_\(ALI_PROJECTの曲\).md "wikilink")**
       -
         [エミリー・ブロンテ](../Page/エミリー・ブロンテ.md "wikilink")による著作、同名の長編小説『[嵐が丘](../Page/嵐が丘.md "wikilink")』も参照のこと。
-3.  **[ヴェネツィアン・ラプソディー](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")**
-4.  **[雨のソナタ〜La Pluie〜](https://ja.wikipedia.org/wiki/雨のソナタ〜La_Pluie〜 "wikilink")**
-5.  **[Nous Deux C'est Pour La Vie](https://ja.wikipedia.org/wiki/雨のソナタ〜La_Pluie〜 "wikilink")**
+3.  **[ヴェネツィアン・ラプソディー](../Page/ヴェネツィアン・ラプソディー.md "wikilink")**
+4.  **[雨のソナタ〜La Pluie〜](../Page/雨のソナタ〜La_Pluie〜.md "wikilink")**
+5.  **[Nous Deux C'est Pour La Vie](../Page/雨のソナタ〜La_Pluie〜.md "wikilink")**
       -
         雨のソナタ～ラ・プリュのフランス語バージョン。
-6.  **[エスカルゴ嬉遊曲](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")**
+6.  **[エスカルゴ嬉遊曲](../Page/ヴェネツィアン・ラプソディー.md "wikilink")**
       -
         「ヴェネツィアン・ラプソディー」の[C/W](https://ja.wikipedia.org/wiki/コンパクトディスク#タイトル曲・カップリング曲 "wikilink")。喜遊曲とは[ディヴェルティメント](../Page/ディヴェルティメント.md "wikilink")のこと。
-7.  **[舞踏会の手帖](https://ja.wikipedia.org/wiki/嵐ヶ丘_\(ALI_PROJECTの曲\) "wikilink")**
+7.  **[舞踏会の手帖](../Page/嵐ヶ丘_\(ALI_PROJECTの曲\).md "wikilink")**
       -
         嵐ヶ丘のC/W。[ジュリアン・デュヴィヴィエ](../Page/ジュリアン・デュヴィヴィエ.md "wikilink")監督作品の同名映画がある。『[舞踏会の手帖](../Page/舞踏会の手帖.md "wikilink")』参照。
-8.  **[共月亭で逢いましょう](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")**
+8.  **[共月亭で逢いましょう](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink")**
       -
         恋せよ乙女のC/W。
 9.  **[ストロベリーパイをお食べ](https://ja.wikipedia.org/wiki/緑川高校甲子園編オリジナル・サウンドトラック "wikilink")**

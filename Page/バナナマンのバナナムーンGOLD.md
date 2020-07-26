@@ -198,7 +198,7 @@ JUNK2時代は開始初期はコーナーはあったもののトークやメー
 
 ### 年明け一発目
 
-年明け一発目の放送は冬休みを取るため前年に録音したものを放送する。この時[島田秀平](https://ja.wikipedia.org/wiki/島田秀平 "wikilink")がゲスト出演し、バナナマンの運勢を占うのが恒例となっている。
+年明け一発目の放送は冬休みを取るため前年に録音したものを放送する。この時[島田秀平](../Page/島田秀平.md "wikilink")がゲスト出演し、バナナマンの運勢を占うのが恒例となっている。
 
 ### 日村勇紀を笑わせろ\!
 
@@ -397,7 +397,7 @@ JUNK2時代は開始初期はコーナーはあったもののトークやメー
 
 <!-- end list -->
 
-  - [島田秀平](https://ja.wikipedia.org/wiki/島田秀平 "wikilink")（元[号泣](../Page/号泣.md "wikilink")）
+  - [島田秀平](../Page/島田秀平.md "wikilink")（元[号泣](../Page/号泣.md "wikilink")）
 
 <!-- end list -->
 
@@ -703,7 +703,7 @@ JUNK2時代は開始初期はコーナーはあったもののトークやメー
 
   - [GO\!皆川](https://ja.wikipedia.org/wiki/GO!皆川 "wikilink")
   - [ゴー☆ジャス](../Page/ゴー☆ジャス.md "wikilink")
-  - [オラキオ](https://ja.wikipedia.org/wiki/弾丸ジャッキー "wikilink")
+  - [オラキオ](../Page/弾丸ジャッキー.md "wikilink")
   - [紺野ぶるま](https://ja.wikipedia.org/wiki/紺野ぶるま "wikilink")
   - [おかずクラブ](https://ja.wikipedia.org/wiki/おかずクラブ "wikilink")
   - [岡井千聖](../Page/岡井千聖.md "wikilink")（[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）
@@ -739,7 +739,7 @@ JUNK2時代は開始初期はコーナーはあったもののトークやメー
 
   - [にゃんこスター](https://ja.wikipedia.org/wiki/にゃんこスター "wikilink")
   - [加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")
-  - [森重樹一](../Page/森重樹一.md "wikilink")（[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")）
+  - [森重樹一](../Page/森重樹一.md "wikilink")（[ZIGGY](../Page/ZIGGY.md "wikilink")）
 
 <!-- end list -->
 

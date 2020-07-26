@@ -1,7 +1,7 @@
 > この記事は[マツダSC](https://ja.wikipedia.org/wiki/マツダSC)から翻訳されています。
 
 
-**マツダSC**（マツダえすしー）は、[広島県](../Page/広島県.md "wikilink")を拠点とする、自動車メーカー[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部である。
+**マツダSC**（マツダえすしー）は、[広島県](../Page/広島県.md "wikilink")を拠点とする、自動車メーカー[マツダ](../Page/マツダ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部である。
 
 前身は[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")1部などに所属していた[マツダSC](../Page/東洋工業サッカー部.md "wikilink")（旧・東洋工業、現・[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")）の[サテライト](../Page/サテライト.md "wikilink")チーム、**マツダSC東洋クラブ**。
 

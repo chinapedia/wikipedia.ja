@@ -16,7 +16,7 @@
   - [三島ゆり子](../Page/三島ゆり子.md "wikilink")
   - [雪代敬子](../Page/雪代敬子.md "wikilink")
   - [紅壱子](../Page/紅壱子.md "wikilink")
-  - [麻生えりか](https://ja.wikipedia.org/wiki/麻生えりか "wikilink")
+  - [麻生えりか](../Page/麻生えりか.md "wikilink")
   - [葦笛るか](../Page/葦笛るか.md "wikilink")
   - [草川祐馬](../Page/草川祐馬.md "wikilink")
   - [楠年明](../Page/楠年明.md "wikilink")

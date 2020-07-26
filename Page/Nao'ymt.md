@@ -139,7 +139,7 @@
   - [SEAMO](../Page/SEAMO.md "wikilink") - 『[海の家](https://ja.wikipedia.org/wiki/Live_Goes_On#収録曲 "wikilink")』
   - [SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink") - 『Babydoll』『Twilight Moon』『Happyend (remix)』
   - [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink") - 『AINOTE』
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink") - 『Disconnect』
+  - [Sweep](../Page/Sweep.md "wikilink") - 『Disconnect』
   - S. N. A. - 『White Day』
   - [Tiara](https://ja.wikipedia.org/wiki/Tiara_\(シンガーソングライター\) "wikilink") - 『Lifestyle』
   - Tyler - 『Games Wit Tha Playa』

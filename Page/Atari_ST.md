@@ -175,7 +175,7 @@ FALCON 030用の*Logic Audio*、*Cubase Audio*は、8chまで48/44.1kHz 16bitの
 
 ### アプリケーション
 
-*[PageStream](https://ja.wikipedia.org/wiki/PageStream "wikilink")*や*[Calamus](https://ja.wikipedia.org/wiki/Calamus_\(DTP\) "wikilink")*といったプロ用の[DTP](../Page/DTP.md "wikilink")ソフトや、ワープロのようなオフィスツール（*[WordPerfect](https://ja.wikipedia.org/wiki/WordPerfect "wikilink")*や*[WordWriter ST](https://ja.wikipedia.org/wiki/WordWriter_ST "wikilink")*等）、表計算ソフト、データベース、様々なCADやCAMなど、アマチュアからプロレベルまで幅広いユーザーを対象にしたソフトウェアもSTで普及し、モノクロのハイレゾモニタを所有しているユーザーに限定したものもあった。
+*[PageStream](https://ja.wikipedia.org/wiki/PageStream "wikilink")*や*[Calamus](https://ja.wikipedia.org/wiki/Calamus_\(DTP\) "wikilink")*といったプロ用の[DTP](../Page/DTP.md "wikilink")ソフトや、ワープロのようなオフィスツール（*[WordPerfect](../Page/WordPerfect.md "wikilink")*や*[WordWriter ST](https://ja.wikipedia.org/wiki/WordWriter_ST "wikilink")*等）、表計算ソフト、データベース、様々なCADやCAMなど、アマチュアからプロレベルまで幅広いユーザーを対象にしたソフトウェアもSTで普及し、モノクロのハイレゾモニタを所有しているユーザーに限定したものもあった。
 
 *[NEOchrome](https://ja.wikipedia.org/wiki/NEOchrome "wikilink")*、*Degas*と*Degas Elite*、*Canvas*、*[Deluxe Paint](https://ja.wikipedia.org/wiki/Deluxe_Paint "wikilink")*、*[Cyber Paint](https://ja.wikipedia.org/wiki/Cyber_Paint "wikilink")*のようなグラフィックソフトは先進的な3Dデザインやアニメーションの機能を持っていた\[22\]。*[Spectrum 512](https://ja.wikipedia.org/wiki/Spectrum_512 "wikilink")*というペイントソフトは1画面中に表示できる色を限界まで引き出すパレット変換の技を使用していた\[23\]。Spectrum 4096ではSTEでは本来不可能だった走査線毎に最大46色の表示が可能だったが、これ以外にもさらにマイナーなアプリケーションがこの特にニッチな市場を埋め尽くし、それらの中にはシフタを活用して最大19200色を表示できるものさえもあった。
 

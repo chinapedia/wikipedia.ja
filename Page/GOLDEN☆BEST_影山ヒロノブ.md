@@ -45,7 +45,7 @@
         アルバム『FIRST AT LAST』収録曲。
 9.  **ONE WAY LOVE(Speed Life)** \[3:46\]
       -
-        作詞：影山ヒロノブ 作曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink") 編曲：山中のりまさ
+        作詞：影山ヒロノブ 作曲：[須藤賢一](../Page/須藤賢一.md "wikilink") 編曲：山中のりまさ
         アルバム『FIRST AT LAST』収録曲。
 10. **MR. DARKNESS** \[5:22\]
       -

@@ -30,7 +30,7 @@
     3.  Serenade -Acoustic Version-
     4.  Serenade -Instrumental-
 6.  **[春なのに](https://ja.wikipedia.org/wiki/春なのに "wikilink")** （2009年2月5日）
-    1.  春なのに（[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の楽曲のカバー）
+    1.  春なのに（[中島みゆき](../Page/中島みゆき.md "wikilink")の楽曲のカバー）
     2.  I’ll be back to you～映画「宿命」挿入歌日本語バージョン～
     3.  春なのに -Instrumental-
     4.  I’ll be back to you -Instrumental-

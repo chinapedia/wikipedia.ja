@@ -70,7 +70,7 @@
   - [ONE KNIGHT STANDS](../Page/ONE_KNIGHT_STANDS.md "wikilink") - 初回限定盤Disc 3に、「[CROSSROADS](https://ja.wikipedia.org/wiki/:en:Cross_Road_Blues "wikilink")」（[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")）のライブ・テイクを収録。
   - [全部、君だった。](../Page/全部、君だった。.md "wikilink") - 「[OVER THE RAINBOW](../Page/虹の彼方に.md "wikilink")」をカヴァー、初回盤DVDに「[STRAWBERRY FIELDS FOREVER](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink")」（ビートルズ）のライヴ映像収録。
   - [OUT OF THE BLUE](../Page/OUT_OF_THE_BLUE.md "wikilink") - 「[Stand by me](https://ja.wikipedia.org/wiki/:en:Stand_by_Me_\(song\) "wikilink")」（[ベン・E・キング](../Page/ベン・E・キング.md "wikilink")）をカヴァー。
-  - [真夜中のBoon Boon](https://ja.wikipedia.org/wiki/真夜中のBoon_Boon "wikilink") - 初回盤DVDに「True Colors」のライヴ映像収録\[3\]
+  - [真夜中のBoon Boon](../Page/真夜中のBoon_Boon.md "wikilink") - 初回盤DVDに「True Colors」のライヴ映像収録\[3\]
 
 ## 関連項目
 

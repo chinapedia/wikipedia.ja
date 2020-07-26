@@ -19,7 +19,7 @@ AGS-17は通常、6T8三脚架上に設置した状態で[歩兵](../Page/歩兵
 
 ## 運用
 
-[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[自動擲弾銃開発は](https://ja.wikipedia.org/wiki/グレネードランチャー#自動擲弾発射器 "wikilink")[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に始まり、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に装備採用された。[アフガニスタン侵攻では](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")[装甲車両に肉薄する](../Page/装甲戦闘車両.md "wikilink")[ムジャーヒディーン](../Page/ムジャーヒディーン.md "wikilink")に対して絶大な威力を発揮し、現地では[BMP-1](../Page/BMP-1.md "wikilink")や[MT-LB](https://ja.wikipedia.org/wiki/MT-LB "wikilink")、[BMD-1](../Page/BMD-1.md "wikilink")にAGS-17を搭載できるように応急改造された車体が活躍した。
+[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[自動擲弾銃開発は](https://ja.wikipedia.org/wiki/グレネードランチャー#自動擲弾発射器 "wikilink")[1968年](../Page/1968年.md "wikilink")に始まり、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に装備採用された。[アフガニスタン侵攻では](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")[装甲車両に肉薄する](../Page/装甲戦闘車両.md "wikilink")[ムジャーヒディーン](../Page/ムジャーヒディーン.md "wikilink")に対して絶大な威力を発揮し、現地では[BMP-1](../Page/BMP-1.md "wikilink")や[MT-LB](https://ja.wikipedia.org/wiki/MT-LB "wikilink")、[BMD-1](../Page/BMD-1.md "wikilink")にAGS-17を搭載できるように応急改造された車体が活躍した。
 
 その後も、[チェチェン紛争](https://ja.wikipedia.org/wiki/チェチェン紛争 "wikilink")をはじめとした各地の局地紛争で広く使用されている。現在、[ロシア](../Page/ロシア.md "wikilink")連邦のヴャーツキエ・ポリャーヌイ市のモーロト工場で生産継続中であり、ロシア以外では、[ブルガリア](../Page/ブルガリア.md "wikilink")、[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")で生産されている。
 

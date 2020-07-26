@@ -71,6 +71,6 @@
 1.  『[Back Streets of Tokyo](https://ja.wikipedia.org/wiki/Back_Streets_of_Tokyo "wikilink")』 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")発売 [FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink") LP:28FB-2020
 2.  「[たそがれ](../Page/たそがれ.md "wikilink")」 1985年[5月22日](../Page/5月22日.md "wikilink")発売 FUNHOUSE EP:07FA-1037
 3.  「[君が、嘘を、ついた](../Page/君が、嘘を、ついた.md "wikilink")」 [1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売 FUNHOUSE EP:07FA-1001
-4.  [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[木曜ドラマストリート](../Page/木曜ドラマストリート.md "wikilink")」 1985年10月-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月放送
+4.  [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[木曜ドラマストリート](../Page/木曜ドラマストリート.md "wikilink")」 1985年10月-[1986年](../Page/1986年.md "wikilink")3月放送
 5.
 6.

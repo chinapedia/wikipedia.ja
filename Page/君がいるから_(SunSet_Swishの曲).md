@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 本作の[ビデオクリップは](../Page/ミュージック・ビデオ.md "wikilink")、収録アルバム『[あなたの街で逢いましょう](https://ja.wikipedia.org/wiki/あなたの街で逢いましょう "wikilink")』初回版特典の[DVD](../Page/DVD.md "wikilink")に収録されていない。これは、同DVDの収録基準が、[要潤](../Page/要潤.md "wikilink")の出演したビデオクリップのみとされたためである。
+  - 本作の[ビデオクリップは](../Page/ミュージック・ビデオ.md "wikilink")、収録アルバム『[あなたの街で逢いましょう](../Page/あなたの街で逢いましょう.md "wikilink")』初回版特典の[DVD](../Page/DVD.md "wikilink")に収録されていない。これは、同DVDの収録基準が、[要潤](../Page/要潤.md "wikilink")の出演したビデオクリップのみとされたためである。
 
 ## 収録曲
 
@@ -25,6 +25,6 @@
 
 ## 収録アルバム
 
-  - [あなたの街で逢いましょう](https://ja.wikipedia.org/wiki/あなたの街で逢いましょう "wikilink")（\#1）
+  - [あなたの街で逢いましょう](../Page/あなたの街で逢いましょう.md "wikilink")（\#1）
 
 [Category:SunSet_Swishの楽曲](https://ja.wikipedia.org/wiki/Category:SunSet_Swishの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

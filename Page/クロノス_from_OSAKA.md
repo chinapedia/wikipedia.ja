@@ -1,7 +1,7 @@
 > この記事は[クロノス from OSAKA](https://ja.wikipedia.org/wiki/クロノス_from_OSAKA)から翻訳されています。
 
 
-**クロノス from OSAKA**（クロノス フロム・オオサカ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNC共同制作のラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[クロノスのうち](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")、[FM OSAKAローカル枠で放送された番組である](../Page/エフエム大阪.md "wikilink")。 ここでは、前番組で同じくTFM・JFNC共同制作の[SKYのローカルゾーン](../Page/SKY_\(ラジオ番組\).md "wikilink") **SKY from OSAKA**（スカイ フロム・オオサカ）、ならびに2012年4月以降のローカル枠についても詳述する。
+**クロノス from OSAKA**（クロノス フロム・オオサカ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNC共同制作のラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[クロノスのうち](../Page/クロノス_\(ラジオ番組\).md "wikilink")、[FM OSAKAローカル枠で放送された番組である](../Page/エフエム大阪.md "wikilink")。 ここでは、前番組で同じくTFM・JFNC共同制作の[SKYのローカルゾーン](../Page/SKY_\(ラジオ番組\).md "wikilink") **SKY from OSAKA**（スカイ フロム・オオサカ）、ならびに2012年4月以降のローカル枠についても詳述する。
 
 ## 概要
 
@@ -73,7 +73,7 @@
   - [SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")
   - [SKY (fm osaka)](../Page/SKY_\(fm_osaka\).md "wikilink")
   - [庄司悟のアサニBANG\!](https://ja.wikipedia.org/wiki/庄司悟のアサニBANG! "wikilink")
-  - [クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")
+  - [クロノス](../Page/クロノス_\(ラジオ番組\).md "wikilink")
   - [クロノス・アイチ](https://ja.wikipedia.org/wiki/クロノス・アイチ "wikilink") - クロノスの愛知ローカル枠。
 
 [Category:エフエム大阪の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム大阪の帯番組 "wikilink") [Category:2008年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2008年のラジオ番組_\(日本\) "wikilink")

@@ -9,7 +9,7 @@
 
 ## 日替わり料理人
 
-  - 月曜日：[コウケンテツ](https://ja.wikipedia.org/wiki/コウケンテツ "wikilink")（[料理研究家](../Page/料理研究家.md "wikilink")）
+  - 月曜日：[コウケンテツ](../Page/コウケンテツ.md "wikilink")（[料理研究家](../Page/料理研究家.md "wikilink")）
   - 火曜日：[笠原将弘](https://ja.wikipedia.org/wiki/笠原将弘 "wikilink")（「賛否両論」店主）
   - 水曜日：[茂出木浩司](https://ja.wikipedia.org/wiki/茂出木浩司 "wikilink")（「たいめいけん」3代目店主）
   - 木曜日：[田村亮介](https://ja.wikipedia.org/wiki/田村亮介 "wikilink")（「麻布長江」料理長）

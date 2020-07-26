@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - [1915年](../Page/1915年.md "wikilink") - [大阪市](../Page/大阪市.md "wikilink")に株式会社松田製作所設立。（戦後、松田氏が[東洋工業](https://ja.wikipedia.org/wiki/東洋工業 "wikilink")（現・[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）を起業する。）
+  - [1915年](../Page/1915年.md "wikilink") - [大阪市](../Page/大阪市.md "wikilink")に株式会社松田製作所設立。（戦後、松田氏が[東洋工業](https://ja.wikipedia.org/wiki/東洋工業 "wikilink")（現・[マツダ](../Page/マツダ.md "wikilink")）を起業する。）
   - [1920年](../Page/1920年.md "wikilink") - 株式会社大阪機械工作所に社名変更。
   - [1938年](../Page/1938年.md "wikilink") - 大阪機工株式会社に社名変更。
   - [1939年](../Page/1939年.md "wikilink") - [兵庫県](../Page/兵庫県.md "wikilink")[川辺郡](../Page/川辺郡.md "wikilink")[伊丹町](https://ja.wikipedia.org/wiki/伊丹町 "wikilink")（現-伊丹市）に猪名川製造所を開設。

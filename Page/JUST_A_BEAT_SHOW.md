@@ -1,11 +1,11 @@
 > この記事は[JUST A BEAT SHOW](https://ja.wikipedia.org/wiki/JUST_A_BEAT_SHOW)から翻訳されています。
 
 
-『'''JUST A BEAT SHOW '''』（ジャスト・ア・ビート・ショー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[渋谷屋根裏で開催されたライブを収録した](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")[オムニバス](../Page/オムニバス.md "wikilink")・アルバム。
+『'''JUST A BEAT SHOW '''』（ジャスト・ア・ビート・ショー）は、[1986年](../Page/1986年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[渋谷屋根裏で開催されたライブを収録した](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")[オムニバス](../Page/オムニバス.md "wikilink")・アルバム。
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月に[アナログ盤としてリリースされた](../Page/レコード.md "wikilink")。1986年から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")でわずか2000枚しか発売されなかった稀少盤であったが、[1993年](../Page/1993年.md "wikilink")に[CD化され再発された](../Page/コンパクトディスク.md "wikilink")。また、2002年にも紙ジャケット・リマスタリング仕様で再発された。なお現在は[廃盤](../Page/廃盤.md "wikilink")となっている。ラインが2本、ノイズ、マイクが2本の4チャンネル録音であるため音質は良くない。
+[1986年](../Page/1986年.md "wikilink")5月に[アナログ盤としてリリースされた](../Page/レコード.md "wikilink")。1986年から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")でわずか2000枚しか発売されなかった稀少盤であったが、[1993年](../Page/1993年.md "wikilink")に[CD化され再発された](../Page/コンパクトディスク.md "wikilink")。また、2002年にも紙ジャケット・リマスタリング仕様で再発された。なお現在は[廃盤](../Page/廃盤.md "wikilink")となっている。ラインが2本、ノイズ、マイクが2本の4チャンネル録音であるため音質は良くない。
 
 [THE JUMPSのボーカル](https://ja.wikipedia.org/wiki/THE_JUMPS "wikilink")、島掬次郎の呼びかけで集まった4つのバンドの楽曲が収録されている。当初[THE LONDON TIMES](https://ja.wikipedia.org/wiki/THE_LONDON_TIMES "wikilink")、[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")、THE JUMPSに加えホルモンズの4バンドで[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")12月にレコーディング・ライブは行われていたが、機材トラブルによりレコーディングに失敗していた。再度撮り直しをしようと計画していたところ、ホルモンズは解散してしまい、急遽レピッシュが参加した経緯がある。また、1曲目に当時無名に近かったレピッシュが選ばれたのは、収録曲の冒頭でボーカルのMAGUMIが「ジャ、ジャ、ジャスト、ア、ビート、ショー\!」と叫んだためである。
 

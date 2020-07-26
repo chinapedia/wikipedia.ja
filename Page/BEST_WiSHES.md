@@ -10,7 +10,7 @@
 
 <!-- end list -->
 
-  - このアルバムの発売によって、I WiSHのアルバム未収録曲は「[いい日旅立ち -Tribute Version-](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…part2 "wikilink")」を除きほぼ皆無となった。
+  - このアルバムの発売によって、I WiSHのアルバム未収録曲は「[いい日旅立ち -Tribute Version-](../Page/山口百恵トリビュート_Thank_You_For…part2.md "wikilink")」を除きほぼ皆無となった。
 
 ## 収録曲
 

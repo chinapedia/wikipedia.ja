@@ -3,7 +3,7 @@
 
 **Django**（ジャンゴ）は、[Python](../Page/Python.md "wikilink")で実装された[Webアプリケーションフレームワーク](../Page/Webアプリケーションフレームワーク.md "wikilink")。 [model-view-controller](https://ja.wikipedia.org/wiki/model-view-controller "wikilink") [デザインパターン](https://ja.wikipedia.org/wiki/デザインパターン "wikilink")に緩やかに従う。 もともとは[ローレンス (カンザス州)にある](https://ja.wikipedia.org/wiki/ローレンス_\(カンザス州\) "wikilink") World Company\[1\] のために、ニュース系のサイトを管理する目的で開発され、[2005年](../Page/2005年.md "wikilink")7月に [BSD License](https://ja.wikipedia.org/wiki/BSD_License "wikilink") で公式にリリースされた。フレームワークは[ジプシー・スウィング](https://ja.wikipedia.org/wiki/ジプシー・スウィング "wikilink")のギタリストである[ジャンゴ・ラインハルト](../Page/ジャンゴ・ラインハルト.md "wikilink")にちなんで命名された。
 
-Django の第一の目的は、複雑なデータベース主体の Web サイトの構築を簡単にすることである。Django はコンポーネントの再利用性と'pluggability'、素早い開発、[DRY (Don't Repeat Yourself)の原則に力点を置いている](https://ja.wikipedia.org/wiki/Don't_repeat_yourself "wikilink")。ファイルやデータのモデルにいたるまで、[Python](../Page/Python.md "wikilink") が一貫して用いられている。
+Django の第一の目的は、複雑なデータベース主体の Web サイトの構築を簡単にすることである。Django はコンポーネントの再利用性と'pluggability'、素早い開発、[DRY (Don't Repeat Yourself)の原則に力点を置いている](../Page/Don't_repeat_yourself.md "wikilink")。ファイルやデータのモデルにいたるまで、[Python](../Page/Python.md "wikilink") が一貫して用いられている。
 
 Django はまた、動的に生成され、データモデルの定義を通じて完全に構成することができる、データベース管理 [CRUD](../Page/CRUD.md "wikilink") インターフェイスをオプションで提供する。
 

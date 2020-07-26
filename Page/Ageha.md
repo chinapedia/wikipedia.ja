@@ -5,7 +5,7 @@
 
 ## 解説
 
-間に初のベストアルバム『[w-inds.〜bestracks〜](https://ja.wikipedia.org/wiki/w-inds.bestracks "wikilink")』のリリースを挟み、前[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")アルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』より実に約1年半ぶりのリリースとなったオリジナルアルバム。シングル「[Pieces](https://ja.wikipedia.org/wiki/Pieces_\(w-inds.の曲\) "wikilink")」「[キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")」「[四季](../Page/四季_\(w-inds.の曲\).md "wikilink")」「[夢の場所へ](../Page/夢の場所へ.md "wikilink")」「[変わりゆく空](../Page/変わりゆく空.md "wikilink")」の5枚の[シングル](../Page/シングル.md "wikilink")（内、前2曲はベストアルバム『w-inds.〜bestracks〜』にも重複収録）に加え、表題曲「ageha」を含む全14曲を収録。（尚、今アルバム収録の5曲のシングルのうち4曲の[タイアップ](../Page/タイアップ.md "wikilink")が[ブルボン](../Page/ブルボン.md "wikilink")・[ガム](https://ja.wikipedia.org/wiki/ガム "wikilink")の[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")であった。）
+間に初のベストアルバム『[w-inds.〜bestracks〜](https://ja.wikipedia.org/wiki/w-inds.bestracks "wikilink")』のリリースを挟み、前[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")アルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』より実に約1年半ぶりのリリースとなったオリジナルアルバム。シングル「[Pieces](../Page/Pieces_\(w-inds.の曲\).md "wikilink")」「[キレイだ](../Page/キレイだ.md "wikilink")」「[四季](../Page/四季_\(w-inds.の曲\).md "wikilink")」「[夢の場所へ](../Page/夢の場所へ.md "wikilink")」「[変わりゆく空](../Page/変わりゆく空.md "wikilink")」の5枚の[シングル](../Page/シングル.md "wikilink")（内、前2曲はベストアルバム『w-inds.〜bestracks〜』にも重複収録）に加え、表題曲「ageha」を含む全14曲を収録。（尚、今アルバム収録の5曲のシングルのうち4曲の[タイアップ](../Page/タイアップ.md "wikilink")が[ブルボン](../Page/ブルボン.md "wikilink")・[ガム](https://ja.wikipedia.org/wiki/ガム "wikilink")の[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")であった。）
 
 今アルバムは、“爽やか[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")”なw-inds.と“[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")”なw-inds.を良い加減で混ぜ合わす事に尽力し、「[バラエティ](https://ja.wikipedia.org/wiki/バラエティ "wikilink")豊かかつ[クオリティ](https://ja.wikipedia.org/wiki/クオリティ "wikilink")の高い自信作」と、メンバーが[自画自賛](https://ja.wikipedia.org/wiki/自画自賛 "wikilink")したアルバムである。\[1\] リリース当時、[宝島社](../Page/宝島社.md "wikilink")『音楽誌が書かないJ-POP批評』（別冊宝島）誌上において、今アルバムにミュージシャン感を持たせるために、[Retro G-Styleや](../Page/Retro_G-Style.md "wikilink")[COIL](../Page/COIL.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")といった所謂“世界観の出来上がっている”他ミュージシャンを作家として起用し、そのアーティストが持つアーティスト・カラーを流用したという指摘が掲載された。
 
@@ -48,13 +48,13 @@ w-inds.のアルバムとして初めて、タイトルから『w-inds.〜〜』
 
 ## タイアップ
 
-|      |                                                                         |                                                                                                                   |
-| ---- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| M-3  | [キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")                   | [ブルボン](../Page/ブルボン.md "wikilink")『フルーツガム』[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")                 |
-| M-5  | [四季](../Page/四季_\(w-inds.の曲\).md "wikilink")                            | ブルボン『ブルボンガム』CMソング                                                                                                 |
-| M-8  | [Pieces](https://ja.wikipedia.org/wiki/Pieces_\(w-inds.の曲\) "wikilink") | ブルボン『フルーツガム』CMソング                                                                                                 |
-| M-9  | [変わりゆく空](../Page/変わりゆく空.md "wikilink")                                  | ブルボン『ブルボンガム』CMソング                                                                                                 |
-| M-10 | [夢の場所へ](../Page/夢の場所へ.md "wikilink")                                    | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[第83回全国高等学校サッカー選手権大会](../Page/第83回全国高等学校サッカー選手権大会.md "wikilink")』イメージソング |
+|      |                                                      |                                                                                                                   |
+| ---- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| M-3  | [キレイだ](../Page/キレイだ.md "wikilink")                   | [ブルボン](../Page/ブルボン.md "wikilink")『フルーツガム』[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")                 |
+| M-5  | [四季](../Page/四季_\(w-inds.の曲\).md "wikilink")         | ブルボン『ブルボンガム』CMソング                                                                                                 |
+| M-8  | [Pieces](../Page/Pieces_\(w-inds.の曲\).md "wikilink") | ブルボン『フルーツガム』CMソング                                                                                                 |
+| M-9  | [変わりゆく空](../Page/変わりゆく空.md "wikilink")               | ブルボン『ブルボンガム』CMソング                                                                                                 |
+| M-10 | [夢の場所へ](../Page/夢の場所へ.md "wikilink")                 | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[第83回全国高等学校サッカー選手権大会](../Page/第83回全国高等学校サッカー選手権大会.md "wikilink")』イメージソング |
 
 ## 発売形態
 

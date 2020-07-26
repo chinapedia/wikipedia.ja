@@ -13,7 +13,7 @@
 
 ## 主な使用例
 
-[県域放送](../Page/県域放送.md "wikilink")で流れる、地元一流企業の伝統あるものが多くを占める一方、[スジャータや](https://ja.wikipedia.org/wiki/めいらくグループ "wikilink")[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")、[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")、[ユニー](../Page/ユニー.md "wikilink")グループ・ホールディングス（現・[ファミリーマート](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")）のように全国展開し、各局で同一のものが聞かれる場合もある。JFN系列は各局で同一企業のものを放送する。
+[県域放送](../Page/県域放送.md "wikilink")で流れる、地元一流企業の伝統あるものが多くを占める一方、[スジャータや](https://ja.wikipedia.org/wiki/めいらくグループ "wikilink")[聖教新聞](../Page/聖教新聞.md "wikilink")、[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")、[ユニー](../Page/ユニー.md "wikilink")グループ・ホールディングス（現・[ファミリーマート](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")）のように全国展開し、各局で同一のものが聞かれる場合もある。JFN系列は各局で同一企業のものを放送する。
 
 また、特定の時刻のみに限定したものもあり、
 
@@ -34,7 +34,7 @@
 
 また、変わった所では、
 
-  - 越年番組『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送AMラジオ\) "wikilink")』中に流されていた、[銀座和光時計台の](https://ja.wikipedia.org/wiki/和光_\(商業施設\) "wikilink")[チャイム](../Page/ウェストミンスターの鐘.md "wikilink")（元日0時、1年に1回のみ、[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）
+  - 越年番組『[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送AMラジオ\) "wikilink")』中に流されていた、[銀座和光時計台の](../Page/和光_\(商業施設\).md "wikilink")[チャイム](../Page/ウェストミンスターの鐘.md "wikilink")（元日0時、1年に1回のみ、[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）
   - [2009年](../Page/2009年.md "wikilink")8月の[衆議院総選挙運動期間中は](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")、「[民主党](../Page/民主党_\(日本_1998-2016\).md "wikilink")」の時報CMがFM局から流れた。当時党首だった[鳩山由紀夫](https://ja.wikipedia.org/wiki/鳩山由紀夫 "wikilink")が「民主党の鳩山が○○時をお知らせします」と告げていた。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には、[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")など主催のイベント『[コミュニケーションカーニバル 夢工場'87](../Page/コミュニケーションカーニバル_夢工場'87.md "wikilink")』のパビリオンの一つに『[NTT](../Page/日本電信電話.md "wikilink") ニューメディア探検隊・[ゲゲゲの鬼太郎](../Page/ゲゲゲの鬼太郎.md "wikilink")館』が設けられていた関係で、フジサンケイグループの[ニッポン放送](../Page/ニッポン放送.md "wikilink")で『夢工場 ゲゲゲの鬼太郎時報』が放送されていた（「ゲ、ゲ、ゲゲゲのゲ」の歌に合わせて「ピポ、ピポ、ピポ、ポーン」の時報が流れていた。同年[6月26日](../Page/6月26日.md "wikilink")より放送開始）\[4\]。
 

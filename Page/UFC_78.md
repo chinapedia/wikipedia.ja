@@ -27,7 +27,7 @@
     ○  [ジョー・ローゾン](../Page/ジョー・ローゾン.md "wikilink") vs.  ジェイソン・ラインハート ×
     1R 1:14 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第4試合 ウェルター級 5分3R
-    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  [クリス・ライトル](../Page/クリス・ライトル.md "wikilink") ×
+    ○  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") vs.  [クリス・ライトル](../Page/クリス・ライトル.md "wikilink") ×
     2R終了時 TKO（ドクターストップ：左瞼カット）
 
 ### メインカード

@@ -1,7 +1,7 @@
 > この記事は[Singles 2000](https://ja.wikipedia.org/wiki/Singles_2000)から翻訳されています。
 
 
-『**Singles 2000**』（シングルスにせん）は、[2002年](../Page/2002年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")に発売された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")のコレクション・アルバムである。
+『**Singles 2000**』（シングルスにせん）は、[2002年](../Page/2002年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")に発売された[中島みゆき](../Page/中島みゆき.md "wikilink")のコレクション・アルバムである。
 
 ## 解説
 

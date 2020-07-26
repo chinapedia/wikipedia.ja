@@ -31,7 +31,7 @@
         [今井翼](../Page/今井翼.md "wikilink")ソロ曲。
 4.  **HIMEGOTO**
       -
-        作詞・作曲：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")・[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")
+        作詞・作曲：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、編曲：[久米康隆](../Page/久米康隆.md "wikilink")・[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")
 5.  SAMURAI〜karaoke〜
 
 <!-- end list -->

@@ -14,7 +14,7 @@
         3rdシングル。1973年3月1日リリース
 2.  **[東へ西へ](https://ja.wikipedia.org/wiki/東へ西へ "wikilink")** / [布袋寅泰](../Page/布袋寅泰.md "wikilink")（作詞・作曲：井上陽水）
       -
-        アルバム『[陽水II センチメンタル](../Page/陽水II_センチメンタル.md "wikilink")』収録。『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』にて、井上との共演でリメイク。
+        アルバム『[陽水II センチメンタル](../Page/陽水II_センチメンタル.md "wikilink")』収録。『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』にて、井上との共演でリメイク。
 3.  **[心もよう](../Page/心もよう.md "wikilink")** / [平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")（作詞・作曲：井上陽水 編曲：[星勝](../Page/星勝.md "wikilink")）
       -
         4thシングル。1973年9月21日リリース

@@ -9,7 +9,7 @@
 
 PVにて列車で旅立つ仲間を森高らが駅のホームで見送るシーンがあるが、その駅は[ニセコ駅](../Page/ニセコ駅.md "wikilink")である。
 
-翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された森高のアルバム『[Sava Sava](https://ja.wikipedia.org/wiki/Sava_Sava "wikilink")』にも収録された。
+翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された森高のアルバム『[Sava Sava](../Page/Sava_Sava.md "wikilink")』にも収録された。
 
 なお、本曲が現在まで、森高のシングル曲で[オリコン](../Page/オリコンチャート.md "wikilink")10位内に入った最後の楽曲である。
 

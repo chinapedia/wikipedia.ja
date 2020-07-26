@@ -70,7 +70,7 @@
 7.  **[ライバル](https://ja.wikipedia.org/wiki/F_album#収録曲 "wikilink")**(5:13)
     （作詞・作曲・編曲:[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")）
 8.  **[HELLO](https://ja.wikipedia.org/wiki/ジェットコースター・ロマンス#収録曲 "wikilink")**(4:55)
-    （作詞:[山本英美](../Page/山本英美.md "wikilink")　作曲:[寺田一郎](https://ja.wikipedia.org/wiki/寺田一郎 "wikilink")　編曲:[船山基紀](../Page/船山基紀.md "wikilink")　[コーラスアレンジ](https://ja.wikipedia.org/wiki/編曲#コーラス "wikilink"):[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
+    （作詞:[山本英美](../Page/山本英美.md "wikilink")　作曲:[寺田一郎](https://ja.wikipedia.org/wiki/寺田一郎 "wikilink")　編曲:[船山基紀](../Page/船山基紀.md "wikilink")　[コーラスアレンジ](https://ja.wikipedia.org/wiki/編曲#コーラス "wikilink"):[岩田雅之](../Page/岩田雅之.md "wikilink")）
 9.  **[このまま手をつないで](https://ja.wikipedia.org/wiki/B_album#収録曲 "wikilink")**(5:04)
     （作詞:松本隆　作曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")　編曲:CHOKKAKU　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")）
 10. **[フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")**(5:13)

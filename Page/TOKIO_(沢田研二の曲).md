@@ -34,14 +34,14 @@
   - [ドクター・ゾイル](https://ja.wikipedia.org/wiki/ドクター・ゾイル "wikilink") - 2003年、『Riviera Boogie』の日本盤[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録。『[新トーキョー人の選択](../Page/新トーキョー人の選択.md "wikilink")』、2007年4月 - 6月の『[イタリア語会話](../Page/イタリア語会話.md "wikilink")』、2008年10月 - 2009年3月の『[テレビでイタリア語](https://ja.wikipedia.org/wiki/テレビでイタリア語 "wikilink")』のオープニングテーマとして使われた。
   - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink") - [2006年](../Page/2006年.md "wikilink")、韓国語でカバー。『[Pop Up\! SMAP](../Page/Pop_Up!_SMAP.md "wikilink")』収録。
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")） - 2013年の[AAAイベント](../Page/アクト・アゲインスト・エイズ.md "wikilink")『昭和八十八年度\!第二回ひとり紅白歌合戦』でカバーし、本家さながらに赤と白の縞模様の[パラソル](https://ja.wikipedia.org/wiki/パラソル "wikilink")を背負って歌い、[フライング](https://ja.wikipedia.org/wiki/フライング "wikilink")を披露した。
-  - [森重樹一](../Page/森重樹一.md "wikilink")（[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")）- 2011年8月3日発売 果てしなきグラムロック歌謡の世界アルバムにて 収録
+  - [森重樹一](../Page/森重樹一.md "wikilink")（[ZIGGY](../Page/ZIGGY.md "wikilink")）- 2011年8月3日発売 果てしなきグラムロック歌謡の世界アルバムにて 収録
   - [ザ・ワイルドワンズ](../Page/ザ・ワイルドワンズ.md "wikilink") - 2004年のライブアルバム『加瀬邦彦&ザ・ワイルド・ワンズライブ〜Live at SHIBUYA AX/GINZA KENNEDY HOUSE〜』（ダイキサウンド）収録。2006年の40周年記念武道館ライブ（DVD『加瀬邦彦&ザ・ワイルドワンズ in 武道館』）・2010年の「JULIE WITH THE WILD ONES」ツアー（DVD『JULIE with THE WILD ONES LIVE 僕達ほとんどいいんじゃあない』）では沢田とのコラボレーション版を披露している。
   - [山崎育三郎](../Page/山崎育三郎.md "wikilink") - カバーアルバム『1936 〜your songs〜』（2016年8月24日発売）収録 \[1\]。
   - [替え歌](../Page/替え歌.md "wikilink")が[スズキ・エリオ](../Page/スズキ・エリオ.md "wikilink")のCMソングとして使われた。
   - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")としても使われている。
   - 替え歌が[オープンハウス](https://ja.wikipedia.org/wiki/オープンハウス "wikilink")のCMソングとして使われた。
   - 替え歌が[ロッテアイス](../Page/ロッテアイス.md "wikilink")「[モナ王](../Page/モナ王.md "wikilink")」のCMソングとして使われた。
-  - 2016年、替え歌が[全日空のCM](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「HELLO BLUE, HELLO FUTURE 〜2020を、みんなの滑走路にしよう〜」シリーズ（CM出演：[ウサイン・ボルト](../Page/ウサイン・ボルト.md "wikilink")、ギター演奏：[野村義男](../Page/野村義男.md "wikilink")）に使用された。
+  - 2016年、替え歌が[全日空のCM](../Page/全日本空輸.md "wikilink")「HELLO BLUE, HELLO FUTURE 〜2020を、みんなの滑走路にしよう〜」シリーズ（CM出演：[ウサイン・ボルト](../Page/ウサイン・ボルト.md "wikilink")、ギター演奏：[野村義男](../Page/野村義男.md "wikilink")）に使用された。
   - [BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink") - [2017年](../Page/2017年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、47のバージョンでカバーした音源「TOKIO 47」を配信リリース\[2\]。
 
 ## 脚注

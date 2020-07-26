@@ -21,7 +21,7 @@
 2.  **太陽のワナ**
       - 作詞:MIZUE/作曲:浅田直/編曲:渡辺和紀
 3.  **C'est la vie\!**
-      - 作詞:上田起士/作曲:森元康介/編曲:[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+      - 作詞:上田起士/作曲:森元康介/編曲:[久米康隆](../Page/久米康隆.md "wikilink")
 4.  **トラキアの女**
       - 作詞・作曲・編曲:[BULGE](../Page/BULGE.md "wikilink")
 5.  **[赤い砂漠の伝説](../Page/赤い砂漠の伝説.md "wikilink")(GATE version)**

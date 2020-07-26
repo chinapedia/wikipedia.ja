@@ -9,7 +9,7 @@
 
 [岩崎宏美](../Page/岩崎宏美.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")、[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、[サーカス](../Page/サーカス_\(歌手\).md "wikilink")、[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")、[Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")、[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")、[bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")、[パフィー](../Page/PUFFY.md "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")が参加。
 
-[2005年](../Page/2005年.md "wikilink")には、トリビュート・アルバムの第2弾『[山口百恵トリビュート Thank You For…part2](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…part2 "wikilink")』がリリースされた。
+[2005年](../Page/2005年.md "wikilink")には、トリビュート・アルバムの第2弾『[山口百恵トリビュート Thank You For…part2](../Page/山口百恵トリビュート_Thank_You_For…part2.md "wikilink")』がリリースされた。
 
 ## 収録曲
 

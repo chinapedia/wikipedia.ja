@@ -16,7 +16,7 @@
   - [1967年](../Page/1967年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") OHK設立（NHKの全面的な支援による）。
   - 同年[12月22日](../Page/12月22日.md "wikilink") OHK宮古放送局テレビ放送開始（US9ch）。呼出符号：KSDY-TV。
   - 同年[12月23日](../Page/12月23日.md "wikilink")　OHK八重山放送局テレビ放送開始（[石垣US](../Page/石垣中継局.md "wikilink")11ch）。呼出符号：KSGA-TV。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") OHK中央放送局テレビ放送開始。呼出符号：KSGB-TV。
+  - [1968年](../Page/1968年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") OHK中央放送局テレビ放送開始。呼出符号：KSGB-TV。
   - [1972年](../Page/1972年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") 沖縄本土復帰により、OHK、NHKに統合。
       - NHK沖縄放送局が27年ぶりに復活。
       - 宮古局は「**日本放送協会沖縄宮古テレビジョン放送局**」に改称。呼出符号はJOVQ-TVに変更（チャンネルはUS9chのまま）。

@@ -37,7 +37,7 @@
     [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")生まれ\[2\]。
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。
     父は放送作家の[古川嘉一郎](https://ja.wikipedia.org/wiki/古川嘉一郎 "wikilink")。
-    [松本孝弘](../Page/松本孝弘.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")など様々なアーティストの[コーラスに参加](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+    [松本孝弘](../Page/松本孝弘.md "wikilink")、[ZARD](../Page/ZARD.md "wikilink")、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")など様々なアーティストの[コーラスに参加](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
     [ニュージーランド](../Page/ニュージーランド.md "wikilink")留学の経験がある。
     2003年より[本丸統志文](https://ja.wikipedia.org/wiki/本丸統志文 "wikilink")プロデュースによる[The Blue Filmsのヴォーカリスト](https://ja.wikipedia.org/wiki/The_Blue_Films "wikilink")[古川真帆](https://ja.wikipedia.org/wiki/古川真帆 "wikilink")としてギタリスト[北森正樹](https://ja.wikipedia.org/wiki/北森正樹 "wikilink")と活動中。
 
@@ -46,7 +46,7 @@
   - シオジリケンジ（しおじり けんじ、本名：塩尻兼司）
     [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")、ボーカル、作詞、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")担当。
     ディージャムクリエイト株式会社代表取締役。
-    [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のシングル「[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")」の編曲、「[痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")」の作曲・編曲、[松橋未樹](../Page/松橋未樹.md "wikilink")の「[time stands still](https://ja.wikipedia.org/wiki/time_stands_still "wikilink")」の作曲を担当している。
+    [ZARD](../Page/ZARD.md "wikilink")のシングル「[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")」の編曲、「[痛いくらい君があふれているよ](../Page/痛いくらい君があふれているよ.md "wikilink")」の作曲・編曲、[松橋未樹](../Page/松橋未樹.md "wikilink")の「[time stands still](https://ja.wikipedia.org/wiki/time_stands_still "wikilink")」の作曲を担当している。
     5月12日生まれ\[3\]。
 
 <!-- end list -->

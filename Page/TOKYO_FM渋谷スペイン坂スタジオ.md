@@ -35,16 +35,16 @@
 定期的に当スタジオから放送を行う番組のみ記載。これ以外にも特別番組や不定期でスタジオから公開生放送を行うレギュラー番組がある。
 
   - [Skyrocket Company](https://ja.wikipedia.org/wiki/Skyrocket_Company "wikilink") (月 - 木 17:00 - 18:57) - [マンボウやしろ](https://ja.wikipedia.org/wiki/マンボウやしろ "wikilink")・[浜崎美保](https://ja.wikipedia.org/wiki/浜崎美保 "wikilink")（渋谷スペイン坂スタジオ20周年記念番組）
-  - [シンクロのシティ](https://ja.wikipedia.org/wiki/シンクロのシティ "wikilink") (月 - 木 15:00 - 16:45) - [堀内貴之](https://ja.wikipedia.org/wiki/堀内貴之 "wikilink")
+  - [シンクロのシティ](https://ja.wikipedia.org/wiki/シンクロのシティ "wikilink") (月 - 木 15:00 - 16:45) - [堀内貴之](../Page/堀内貴之.md "wikilink")
       - [2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの期間限定。同番組に出演の[MiO](../Page/MiO.md "wikilink")は占いの修行に行くためお休み\[4\]
-  - [JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink") (土 13:00 - 13:55) - [ジョージ・ウィリアムズ](../Page/ジョージ・ウィリアムズ_\(タレント\).md "wikilink")・[ホラン千秋](https://ja.wikipedia.org/wiki/ホラン千秋 "wikilink")
+  - [JA全農 COUNTDOWN JAPAN](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink") (土 13:00 - 13:55) - [ジョージ・ウィリアムズ](../Page/ジョージ・ウィリアムズ_\(タレント\).md "wikilink")・[ホラン千秋](https://ja.wikipedia.org/wiki/ホラン千秋 "wikilink")
   - [東洋化成 アナログ・ガラパゴス](http://www.tfm.co.jp/galapagos/)（土 18:30 - 18:55） - 瀬戸真矢
 
 ## 過去に放送された番組
 
   - [エモーショナル・ビート](https://ja.wikipedia.org/wiki/エモーショナル・ビート "wikilink")
   - [WONDERFUL WORLD](../Page/WONDERFUL_WORLD_\(ラジオ番組\).md "wikilink")
-  - [コスモ ポップス ベスト10](https://ja.wikipedia.org/wiki/コスモ_ポップス_ベスト10 "wikilink")※
+  - [コスモ ポップス ベスト10](../Page/コスモ_ポップス_ベスト10.md "wikilink")※
   - [TOYOTA WEEKLY ALBUM TOP10](https://ja.wikipedia.org/wiki/TOYOTA_WEEKLY_ALBUM_TOP10 "wikilink")
   - [TOYOTA SUPER WORLD COUNTDOWN](https://ja.wikipedia.org/wiki/TOYOTA_SUPER_WORLD_COUNTDOWN "wikilink")
   - [THE GOLDEN HITS](../Page/THE_GOLDEN_HITS.md "wikilink")

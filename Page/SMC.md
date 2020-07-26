@@ -12,7 +12,7 @@
   - [1970年](../Page/1970年.md "wikilink") - 駆動機器の製造・販売開始。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - 方向制御機器の製造・販売開始。
   - [1974年](../Page/1974年.md "wikilink") - 本社を東京都港区に移転。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - **SMC株式会社**に社名変更。
+  - [1986年](../Page/1986年.md "wikilink") - **SMC株式会社**に社名変更。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - 東京証券取引所市場第二部に株式上場。
   - [1989年](../Page/1989年.md "wikilink") - 東京証券取引所市場第一部銘柄に指定。
   - [1991年](../Page/1991年.md "wikilink") - 筑波技術センター設置。

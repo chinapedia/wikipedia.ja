@@ -10,11 +10,11 @@
 ### 連載終了
 
   - [○本の住人](../Page/○本の住人.md "wikilink")（『[まんがタイムきららMAX](../Page/まんがタイムきららMAX.md "wikilink")』2004年11月号 - 2015年12月号）[芳文社](../Page/芳文社.md "wikilink")、全7巻
-  - [百合星人ナオコサン](../Page/百合星人ナオコサン.md "wikilink")（『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』2005年2月号 - 2014年4月号）[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、全5巻
+  - [百合星人ナオコサン](../Page/百合星人ナオコサン.md "wikilink")（『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』2005年2月号 - 2014年4月号）[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、全5巻
   - [デイドリームネイション](../Page/デイドリームネイション.md "wikilink")（『[月刊コミックアライブ](../Page/月刊コミックアライブ.md "wikilink")』2006年8月号 - 2013年5月号）[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、全5巻
   - [彼女はUXO](https://ja.wikipedia.org/wiki/彼女はUXO "wikilink")（『[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")』VOL.8 - VOL.28）[秋田書店](../Page/秋田書店.md "wikilink")、全1巻
   - [※生徒会がおいしくいただきました。](https://ja.wikipedia.org/wiki/※生徒会がおいしくいただきました。 "wikilink")（『チャンピオンRED いちご』VOL.35 - VOL.45）秋田書店、全1巻
-  - [ゆせそま。](https://ja.wikipedia.org/wiki/ゆせそま。 "wikilink")（『月刊コミック電撃大王』2015年6月号 - 2017年3月号）[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、全2巻
+  - [ゆせそま。](https://ja.wikipedia.org/wiki/ゆせそま。 "wikilink")（『月刊コミック電撃大王』2015年6月号 - 2017年3月号）[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、全2巻
 
 ### 連載中
 

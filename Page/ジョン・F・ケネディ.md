@@ -741,7 +741,7 @@
 
   - 『ケネディと歌おう』 - *Sing Along With JFK*
       -
-        [音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")のジョージ・アトキンスとハンク・レヴィンの手により、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")の就任演説を今で言う「[サンプリング](../Page/サンプリング.md "wikilink")」の手法でコーラス曲と絡ませ[1963年](../Page/1963年.md "wikilink")に制作したアルバム。沒後に「自由の讃歌 (LET US BEGIN BEGUINE)」がシングルカットされ、特に日本では[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")が出演した[麒麟麦酒](../Page/麒麟麦酒.md "wikilink")のCMに改めて使用される（[チューインガムと](../Page/チューインガム_\(フォークデュオ\).md "wikilink")[鈴木康博](https://ja.wikipedia.org/wiki/鈴木康博 "wikilink")のカヴァー・ヴァージョンが改めてシングルカットされた）ほどのヒットとなっている（[参考リンク](http://blog.wfmu.org/freeform/2005/10/sing_along_with.html)）。
+        [音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")のジョージ・アトキンスとハンク・レヴィンの手により、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")の就任演説を今で言う「[サンプリング](../Page/サンプリング.md "wikilink")」の手法でコーラス曲と絡ませ[1963年](../Page/1963年.md "wikilink")に制作したアルバム。沒後に「自由の讃歌 (LET US BEGIN BEGUINE)」がシングルカットされ、特に日本では[1986年](../Page/1986年.md "wikilink")に[シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")が出演した[麒麟麦酒](../Page/麒麟麦酒.md "wikilink")のCMに改めて使用される（[チューインガムと](../Page/チューインガム_\(フォークデュオ\).md "wikilink")[鈴木康博](https://ja.wikipedia.org/wiki/鈴木康博 "wikilink")のカヴァー・ヴァージョンが改めてシングルカットされた）ほどのヒットとなっている（[参考リンク](http://blog.wfmu.org/freeform/2005/10/sing_along_with.html)）。
         [2012年](../Page/2012年.md "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")家族セット割「[ドコモダケ](../Page/ドコモダケ.md "wikilink")TOGETHER」篇で使用された。
 
 ## 関連項目

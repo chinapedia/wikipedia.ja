@@ -19,7 +19,7 @@
 
 Java Web Startは[`javax.jnlp`](http://java.sun.com/products/javawebstart/docs/javadoc/index.html)[パッケージ内の一連の](../Page/パッケージ_\(Java\).md "wikilink")[クラス群を提供している](../Page/クラス_\(コンピュータ\).md "wikilink")。これらがアプリケーションに対して様々なサービスを提供する。これらのサービスのほとんどをSun社が設計した。その目的は、アプリケーションの動作を許可された操作の範囲内に制限しつつ、注意深く制御された範囲内のリソース（たとえばファイルや、システムクリップボードなど）にはアクセスを許可することにある。
 
-[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")は2001年3月にWeb Startのバージョン1.0を導入した\[4\]。一方、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")版Windowsへのサポートは、（64ビット版Javaが最初に使えるようになった時よりも後になって）Java 6のみで追加された\[5\]。[J2SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") 1.4 以降、Web Startは[Java実行環境](../Page/Java_Runtime_Environment.md "wikilink")（Java Runtime Environment、JRE）に`javaws`という名前でデフォルトで入ってくるようになったので、コンピュータ管理者は、Web Startを別途インストールする必要はもはやなくなった。
+[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")は2001年3月にWeb Startのバージョン1.0を導入した\[4\]。一方、[64ビット](../Page/64ビット.md "wikilink")版Windowsへのサポートは、（64ビット版Javaが最初に使えるようになった時よりも後になって）Java 6のみで追加された\[5\]。[J2SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") 1.4 以降、Web Startは[Java実行環境](../Page/Java_Runtime_Environment.md "wikilink")（Java Runtime Environment、JRE）に`javaws`という名前でデフォルトで入ってくるようになったので、コンピュータ管理者は、Web Startを別途インストールする必要はもはやなくなった。
 
 ## Java Network Launching Protocol (JNLP)
 

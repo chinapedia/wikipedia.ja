@@ -147,7 +147,7 @@
 
 :\* [スティーヴン・スワンソン](https://ja.wikipedia.org/wiki/:en:Steven_Swanson "wikilink") – 宇宙飛行士
 
-:\* [ハーリド・アブドゥルアズィーズ・アル＝ファーリハ](https://ja.wikipedia.org/wiki/ハーリド・アブドゥルアズィーズ・アル＝ファーリハ "wikilink") – [サウジアラビア](../Page/サウジアラビア.md "wikilink")のエネルギー・産業・鉱物大臣および[サウディアラムコの会長](https://ja.wikipedia.org/wiki/サウジアラムコ "wikilink")
+:\* [ハーリド・アブドゥルアズィーズ・アル＝ファーリハ](https://ja.wikipedia.org/wiki/ハーリド・アブドゥルアズィーズ・アル＝ファーリハ "wikilink") – [サウジアラビア](../Page/サウジアラビア.md "wikilink")のエネルギー・産業・鉱物大臣および[サウディアラムコの会長](../Page/サウジアラムコ.md "wikilink")
 
 :\* [CC](https://ja.wikipedia.org/wiki/CC_\(猫\) "wikilink") - [猫](https://ja.wikipedia.org/wiki/猫 "wikilink")。[2001年](../Page/2001年.md "wikilink")にテキサスA\&M大学の研究所で誕生した世界初の[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")猫。
 

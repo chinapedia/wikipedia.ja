@@ -7,7 +7,7 @@
 
 本田技研工業が製造販売する[CBRシリーズ](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")[排気量](../Page/排気量.md "wikilink")400㏄クラス（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）のロードスポーツモデルである。
 
-本モデルは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から販売されていた[NC23型CBR400Rの実質的フル](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")車であり、従来のフルカバードボディからよりレーシーなフル[カウル](../Page/カウル.md "wikilink")を装着する[レーサーレプリカに](../Page/スーパースポーツ.md "wikilink")[コンセプトを移行した上で車名変更を併せて実施したモデルである](../Page/概念.md "wikilink")。
+本モデルは、[1986年](../Page/1986年.md "wikilink")から販売されていた[NC23型CBR400Rの実質的フル](https://ja.wikipedia.org/wiki/ホンダ・CBR400R "wikilink")[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")車であり、従来のフルカバードボディからよりレーシーなフル[カウル](../Page/カウル.md "wikilink")を装着する[レーサーレプリカに](../Page/スーパースポーツ.md "wikilink")[コンセプトを移行した上で車名変更を併せて実施したモデルである](../Page/概念.md "wikilink")。
 
 [1988年](../Page/1988年.md "wikilink")当初はNC23型、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")以降は大幅な設計変更を行ったNC29型が [2000年](../Page/2000年.md "wikilink")まで製造された。
 

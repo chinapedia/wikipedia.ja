@@ -156,7 +156,7 @@
   - [CRAZY-A](../Page/CRAZY-A.md "wikilink") ([B-FRESH](../Page/B-FRESH.md "wikilink"))
   - [KREVA](../Page/KREVA.md "wikilink") ([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"), [BY PHAR THE DOPEST](../Page/BY_PHAR_THE_DOPEST.md "wikilink"))
   - Clench ([Clench & Blistah](https://ja.wikipedia.org/wiki/Clench_&_Blistah "wikilink"))
-  - [KURO](../Page/KURO.md "wikilink") ([HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))
+  - [KURO](../Page/KURO.md "wikilink") ([HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))
   - KURO-OVI ([キミドリ](https://ja.wikipedia.org/wiki/キミドリ "wikilink"))
   - K-razy
 
@@ -495,7 +495,7 @@
 ### み
 
   - [MIKRIS](../Page/MIKRIS.md "wikilink") ([TEAM 44 BLOX](../Page/TEAM_44_BLOX.md "wikilink"))
-  - [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") ([HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))
+  - [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") ([HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))
   - [Miss Monday](../Page/Miss_Monday.md "wikilink")
   - [Mr.OMERI](https://ja.wikipedia.org/wiki/Mr.OMERI "wikilink")
   - Mr.Smile

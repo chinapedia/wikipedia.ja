@@ -54,7 +54,7 @@
   - [天文台](../Page/天文台.md "wikilink") - [マウナケア天文台群](../Page/マウナケア天文台群.md "wikilink")
   - [チャナントール天文台](https://ja.wikipedia.org/wiki/チャナントール天文台 "wikilink")
   - [パラナル天文台](../Page/パラナル天文台.md "wikilink")
-  - [ラ・シヤ天文台](https://ja.wikipedia.org/wiki/ラ・シヤ天文台 "wikilink")
+  - [ラ・シヤ天文台](../Page/ラ・シヤ天文台.md "wikilink")
   - [セロ・トロロ汎米天文台](https://ja.wikipedia.org/wiki/セロ・トロロ汎米天文台 "wikilink")
   - [超大型望遠鏡VLT](../Page/超大型望遠鏡VLT.md "wikilink")
 

@@ -92,7 +92,7 @@
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")に押出総合工場が完成。
   - [1964年](../Page/1964年.md "wikilink") - [昭和電工](../Page/昭和電工.md "wikilink")、米[カイザーアルミナム](https://ja.wikipedia.org/wiki/カイザーアルミナム "wikilink")社（[1973年](../Page/1973年.md "wikilink")に資本撤退）、八幡製鐵（現・[新日鐵住金](https://ja.wikipedia.org/wiki/新日鐵住金 "wikilink")）の3グループの合弁によりスカイアルミニウム設立。なお、社名の「スカイ」は各社の社名に由来する（昭和電工=S、カイザーアルミナム=K、八幡製鐵=Y）。
   - [1967年](../Page/1967年.md "wikilink") - [埼玉県](../Page/埼玉県.md "wikilink")[深谷市](../Page/深谷市.md "wikilink")に圧延工場が完成（スカイアルミニウム、以下S）。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [滋賀県](../Page/滋賀県.md "wikilink")[近江八幡市](../Page/近江八幡市.md "wikilink")に押出専門工場が完成（古河電工、以下F）。
+  - [1968年](../Page/1968年.md "wikilink") - [滋賀県](../Page/滋賀県.md "wikilink")[近江八幡市](../Page/近江八幡市.md "wikilink")に押出専門工場が完成（古河電工、以下F）。
   - [1972年](../Page/1972年.md "wikilink") - [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")にアルミ専用のカラー塗装工場が完成 （F）。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [福井県](../Page/福井県.md "wikilink")[三国町](../Page/三国町.md "wikilink")に板圧延工場が完成（F）。
   - [1993年](../Page/1993年.md "wikilink") - 分離独立していた古河電工のアルミニウム事業子会社（旧古河アルミ）を吸収合併して継承。

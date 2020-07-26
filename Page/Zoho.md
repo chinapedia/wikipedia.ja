@@ -76,7 +76,7 @@ ZOHOという名前の由来は、ZOHO Corp.の初期メンバーの一人がな
 ## 関連項目
 
   - [オフィススイートの比較](../Page/オフィススイートの比較.md "wikilink")
-  - [OpenDocumentをサポートするアプリケーションの一覧](https://ja.wikipedia.org/wiki/OpenDocumentをサポートするアプリケーションの一覧 "wikilink")
+  - [OpenDocumentをサポートするアプリケーションの一覧](../Page/OpenDocumentをサポートするアプリケーションの一覧.md "wikilink")
 
 ## 外部リンク
 

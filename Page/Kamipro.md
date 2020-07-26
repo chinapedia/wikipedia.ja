@@ -80,7 +80,7 @@ DSEと対立関係にあった[K-1](../Page/K-1.md "wikilink")からは取材拒
 各号のテーマを表紙とともに記載
 
   - No.153 「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」迫りくる帝国 - [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")
-  - No.152 「音楽」- [メイヘム・ミラーら](https://ja.wikipedia.org/wiki/ジェイソン・ミラー "wikilink") \*音楽（歌）の特集なので、もちろん[藤波辰巳](https://ja.wikipedia.org/wiki/藤波辰巳 "wikilink")が存分に歌を語っている。
+  - No.152 「音楽」- [メイヘム・ミラーら](../Page/ジェイソン・ミラー.md "wikilink") \*音楽（歌）の特集なので、もちろん[藤波辰巳](https://ja.wikipedia.org/wiki/藤波辰巳 "wikilink")が存分に歌を語っている。
   - No.151 「猪木とは何か?」 - [レーナ](https://ja.wikipedia.org/wiki/レーナ "wikilink")
   - No.150 「ビデオゲーム」- レーナ（[春麗](../Page/春麗.md "wikilink")の恰好をしている）
   - No.149 「映画」- [ブルース・リー](../Page/ブルース・リー.md "wikilink")

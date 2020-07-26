@@ -8,7 +8,7 @@
   - [ユナイテッド・プレス](https://ja.wikipedia.org/wiki/ユナイテッド・プレス "wikilink") (United Press) - かつてあった[通信社](../Page/通信社.md "wikilink")。[INSと合併し](https://ja.wikipedia.org/wiki/インターナショナル・ニューズ・サービス "wikilink")[UPIに](https://ja.wikipedia.org/wiki/ユナイテッド・プレス・インターナショナル "wikilink")。
   - [ユニオン・パシフィック鉄道](../Page/ユニオン・パシフィック鉄道.md "wikilink") (Union Pacific Railroad)
   - [ペンシルベニア大学](../Page/ペンシルベニア大学.md "wikilink") (University of Pennsylvania)
-  - [フィリピン大学](https://ja.wikipedia.org/wiki/フィリピン大学 "wikilink") (University of the Philippines)
+  - [フィリピン大学](../Page/フィリピン大学.md "wikilink") (University of the Philippines)
   - [ウッタル・プラデーシュ](https://ja.wikipedia.org/wiki/ウッタル・プラデーシュ "wikilink") (Uttar Pradesh) - [インド](../Page/インド.md "wikilink")の州。
   - [UP (計算複雑性理論)](https://ja.wikipedia.org/wiki/UP_\(計算複雑性理論\) "wikilink") (Unambiguous non-deterministic Polynomial-time)
   - [UP (音楽グループ)](../Page/UP_\(音楽グループ\).md "wikilink") - かつてあった[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の音楽グループ。

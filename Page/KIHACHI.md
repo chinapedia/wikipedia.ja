@@ -3,7 +3,7 @@
 
 **KIHACHI**（キハチ）は、[熊谷喜八](https://ja.wikipedia.org/wiki/熊谷喜八 "wikilink")がオーナーシェフを務める[レストラン](../Page/レストラン.md "wikilink")と[洋菓子](../Page/洋菓子.md "wikilink")の店。
 
-創業は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")6月に株式会社サザビー（現・[サザビーリーグ](../Page/サザビーリーグ.md "wikilink")）と熊谷喜八の共同出資で設立された**株式会社キハチアンドエス**（サザビーリーグの[子会社](../Page/子会社.md "wikilink")）が運営。本部は東京都中央区。都内近郊、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪市.md "wikilink")、[福岡などにレストラン](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、ケーキショップなどを展開している。
+創業は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")。[1986年](../Page/1986年.md "wikilink")6月に株式会社サザビー（現・[サザビーリーグ](../Page/サザビーリーグ.md "wikilink")）と熊谷喜八の共同出資で設立された**株式会社キハチアンドエス**（サザビーリーグの[子会社](../Page/子会社.md "wikilink")）が運営。本部は東京都中央区。都内近郊、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪市.md "wikilink")、[福岡などにレストラン](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、ケーキショップなどを展開している。
 
 ## 展開する店舗
 
@@ -23,7 +23,7 @@
 
 ## 沿革
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")6月 - 株式会社キハチアンドエスを設立（株式会社サザビー80%、熊谷喜八20%出資）
+  - [1986年](../Page/1986年.md "wikilink")6月 - 株式会社キハチアンドエスを設立（株式会社サザビー80%、熊谷喜八20%出資）
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")9月 - 東京・[南青山にて創業](../Page/青山_\(東京都港区\).md "wikilink")。「レストランキハチ」1号店を開店
   - [1988年](../Page/1988年.md "wikilink")11月 - 「セラン」を開店
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月 - 「パティスリーキハチ」1号店を開店（[伊勢丹](../Page/伊勢丹.md "wikilink")[相模原店](../Page/相模原市.md "wikilink")）

@@ -11,7 +11,7 @@
 
 ## チャート成績
 
-本作は発売初週に26.3万枚を売り上げ[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を記録し、アルバム『pacific』との同時1位を獲得した。シングル・アルバムの同時1位は、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のシングル「[Real Face](../Page/Real_Face.md "wikilink")」とアルバム『[Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")』の同時発売以来、1年8か月ぶりの記録である。また、[メジャーデビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")「[希望〜Yell〜](../Page/希望〜Yell〜.md "wikilink")」以降続く、初登場1位の記録は7作連続となった\[1\]。
+本作は発売初週に26.3万枚を売り上げ[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を記録し、アルバム『pacific』との同時1位を獲得した。シングル・アルバムの同時1位は、[KAT-TUN](../Page/KAT-TUN.md "wikilink")のシングル「[Real Face](../Page/Real_Face.md "wikilink")」とアルバム『[Best of KAT-TUN](../Page/Best_of_KAT-TUN.md "wikilink")』の同時発売以来、1年8か月ぶりの記録である。また、[メジャーデビューシングル](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")「[希望〜Yell〜](../Page/希望〜Yell〜.md "wikilink")」以降続く、初登場1位の記録は7作連続となった\[1\]。
 
 また、2007年度年間チャートには10位にランクインし、グループ初の年間チャートTOP10入りを果たした。
 

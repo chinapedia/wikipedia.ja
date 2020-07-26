@@ -1,7 +1,7 @@
 > この記事は[You.](https://ja.wikipedia.org/wiki/You.)から翻訳されています。
 
 
-**you.**（ゆう、ゆうどっと、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月10日](../Page/12月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。
+**you.**（ゆう、ゆうどっと、[1986年](../Page/1986年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。
 
 ## プロフィール
 

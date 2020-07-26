@@ -1,7 +1,7 @@
 > この記事は[GetBackers-奪還屋-の登場人物](https://ja.wikipedia.org/wiki/GetBackers-奪還屋-の登場人物)から翻訳されています。
 
 
-**GetBackers-奪還屋-の登場人物**（ゲットバッカーズ だっかんやのとうじょうじんぶつ）は、原作は[青樹佑夜](../Page/樹林伸.md "wikilink")、作画は[綾峰欄人](../Page/綾峰欄人.md "wikilink")の漫画、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")』に登場する架空のキャラクターについて解説する。
+**GetBackers-奪還屋-の登場人物**（ゲットバッカーズ だっかんやのとうじょうじんぶつ）は、原作は[青樹佑夜](../Page/樹林伸.md "wikilink")、作画は[綾峰欄人](../Page/綾峰欄人.md "wikilink")の漫画、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")』に登場する架空のキャラクターについて解説する。
 
 ## 奪還屋GetBackers
 

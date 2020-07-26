@@ -23,7 +23,7 @@
   -
 ### アメリカ軍での採用実績
 
-[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")製[ミサイル](../Page/ミサイル.md "wikilink")[SS.10の後継機としてENTACを購入した](../Page/SS.10_\(ミサイル\).md "wikilink")。[1963年](../Page/1963年.md "wikilink")から配備が始まり、MGM-32Aの型式番号が与えられた。[アメリカ軍](../Page/アメリカ軍.md "wikilink")では主に[M151](../Page/M151.md "wikilink")に車載して運用された。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")-[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")までに段階的に退役し、[BGM-71 TOWが採用された](../Page/TOW_\(ミサイル\).md "wikilink")。これは、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")でも運用されている。
+[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")製[ミサイル](../Page/ミサイル.md "wikilink")[SS.10の後継機としてENTACを購入した](../Page/SS.10_\(ミサイル\).md "wikilink")。[1963年](../Page/1963年.md "wikilink")から配備が始まり、MGM-32Aの型式番号が与えられた。[アメリカ軍](../Page/アメリカ軍.md "wikilink")では主に[M151](../Page/M151.md "wikilink")に車載して運用された。[1968年](../Page/1968年.md "wikilink")-[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")までに段階的に退役し、[BGM-71 TOWが採用された](../Page/TOW_\(ミサイル\).md "wikilink")。これは、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")でも運用されている。
 
 ## 関連項目
 

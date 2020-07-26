@@ -1,7 +1,7 @@
 > この記事は[バイオハザード3 LAST ESCAPE](https://ja.wikipedia.org/wiki/バイオハザード3_LAST_ESCAPE)から翻訳されています。
 
 
-『**バイオハザード3 LAST ESCAPE**』（バイオハザードスリー ラストエスケープ、英: BIOHAZARD 3 LAST ESCAPE）は[1999年](../Page/1999年.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より[PlayStation用として発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』の第3作である。
+『**バイオハザード3 LAST ESCAPE**』（バイオハザードスリー ラストエスケープ、英: BIOHAZARD 3 LAST ESCAPE）は[1999年](../Page/1999年.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より[PlayStation用として発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。『[バイオハザードシリーズ](../Page/バイオハザードシリーズ.md "wikilink")』の第3作である。
 
 欧米では『**Resident Evil 3: Nemesis**』（レジデント イービル3 ネメシス）として発売された。旧年齢区分18歳以上対象から新区分D（17歳以上対象）となった。
 

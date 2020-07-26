@@ -1,7 +1,7 @@
 > この記事は[VX-2](https://ja.wikipedia.org/wiki/VX-2)から翻訳されています。
 
 
-**VX-2**は、[バーテックススタンダード](../Page/バーテックススタンダード.md "wikilink")（現[八重洲無線](../Page/八重洲無線.md "wikilink")）が製造した[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")用[無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")である。
+**VX-2**は、[バーテックススタンダード](../Page/バーテックススタンダード.md "wikilink")（現[八重洲無線](../Page/八重洲無線.md "wikilink")）が製造した[アマチュア無線](../Page/アマチュア無線.md "wikilink")用[無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")である。
 
 ## 概要
 

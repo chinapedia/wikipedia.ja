@@ -189,7 +189,7 @@
           - TOK：電力会社（おそらく[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")のもじり）。比較的安定している。
           - トユタ：[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")のもじりだがなぜか運送会社。TOKに比べて変動が大きいがまだ安定している。
           - KKD：KDD（現[KDDI](../Page/KDDI.md "wikilink")）のもじりで電信会社。大体上がっているが大きく落ち込むこともある。
-          - 新日空：[全日空のもじりで航空会社](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。大体下がっているが大きく上昇することもある。
+          - 新日空：[全日空のもじりで航空会社](../Page/全日本空輸.md "wikilink")。大体下がっているが大きく上昇することもある。
     <!-- end list -->
       - ペットショップ
     <!-- end list -->

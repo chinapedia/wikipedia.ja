@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>3月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dr.MARIO_&amp;_細菌撲滅" title="wikilink">Dr.MARIO &amp; 細菌撲滅</a></p></td>
+<td><p><a href="../Page/Dr.MARIO_&amp;_細菌撲滅.md" title="wikilink">Dr.MARIO &amp; 細菌撲滅</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>86ブロック</p></td>
 <td><p>対応</p></td>
@@ -48,7 +48,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくピンポンWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくピンポンWii</a></p></td>
 <td><p><a href="../Page/アークシステムワークス.md" title="wikilink">アークシステムワークス</a></p></td>
 <td><p>274ブロック</p></td>
 <td></td>
@@ -121,8 +121,8 @@
 </tr>
 <tr class="odd">
 <td><p>5月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブロック_ブレーカー_デラックス" title="wikilink">ブロック ブレーカー デラックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲームロフト" title="wikilink">ゲームロフト</a></p></td>
+<td><p><a href="../Page/ブロック_ブレーカー_デラックス.md" title="wikilink">ブロック ブレーカー デラックス</a></p></td>
+<td><p><a href="../Page/ゲームロフト.md" title="wikilink">ゲームロフト</a></p></td>
 <td><p>285ブロック</p></td>
 <td></td>
 <td></td>
@@ -392,7 +392,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくエアホッケーWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくエアホッケーWii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td><p>236ブロック</p></td>
 <td></td>
@@ -627,7 +627,7 @@
 </tr>
 <tr class="even">
 <td><p>1月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくすごろくWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくすごろくWii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td><p>182ブロック</p></td>
 <td><p>対応</p></td>
@@ -673,7 +673,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくスロットカーレーシングWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくスロットカーレーシングWii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td><p>192ブロック</p></td>
 <td><p>対応</p></td>
@@ -763,7 +763,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくパターゴルフWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくパターゴルフWii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td></td>
 <td><p>対応</p></td>
@@ -1024,7 +1024,7 @@
 </tr>
 <tr class="even">
 <td><p>6月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらく大富豪Wii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらく大富豪Wii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td></td>
 <td><p>対応</p></td>
@@ -1196,7 +1196,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくテニスWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくテニスWii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td></td>
 <td></td>
@@ -1466,7 +1466,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきらくシリーズ" title="wikilink">おきらくカートWii</a></p></td>
+<td><p><a href="../Page/おきらくシリーズ.md" title="wikilink">おきらくカートWii</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td></td>
 <td></td>

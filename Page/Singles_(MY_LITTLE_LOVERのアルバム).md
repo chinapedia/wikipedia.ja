@@ -45,7 +45,7 @@
       -
         作詞:AKKO&小林武史
         7thシングル
-8.  **[Shuffle](https://ja.wikipedia.org/wiki/Shuffle_\(MY_LITTLE_LOVERの曲\) "wikilink")** (4:45)
+8.  **[Shuffle](../Page/Shuffle_\(MY_LITTLE_LOVERの曲\).md "wikilink")** (4:45)
       -
         8thシングル
 9.  **[空の下で](https://ja.wikipedia.org/wiki/空の下で "wikilink")** (5:16)
@@ -63,7 +63,7 @@
 13. **[shooting star 〜シューティングスター〜](https://ja.wikipedia.org/wiki/shooting_star_〜シューティングスター〜 "wikilink")** (4:16)
       -
         13thシングル
-14. **[日傘 〜japanese beauty〜](https://ja.wikipedia.org/wiki/日傘_〜japanese_beauty〜 "wikilink")** (4:15)
+14. **[日傘 〜japanese beauty〜](../Page/日傘_〜japanese_beauty〜.md "wikilink")** (4:15)
       -
         14thシングル
 15. **[あいのうた 〜Swallowtail Butterfly〜](../Page/Swallowtail_Butterfly_〜あいのうた〜.md "wikilink")** (5:18)

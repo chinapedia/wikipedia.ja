@@ -1,9 +1,9 @@
 > この記事は[キン肉マン 正義超人vs戦士超人](https://ja.wikipedia.org/wiki/キン肉マン_正義超人vs戦士超人)から翻訳されています。
 
 
-『**キン肉マン 正義超人vs戦士超人**』（キンにくマン せいぎちょうじんたいせんしちょうじん）は、[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")枠内で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に公開された[劇場版アニメの最終第](../Page/アニメーション映画.md "wikilink")7作。[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[キン肉マン](../Page/キン肉マン.md "wikilink")』を原作とする。上映時間は51分。
+『**キン肉マン 正義超人vs戦士超人**』（キンにくマン せいぎちょうじんたいせんしちょうじん）は、[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")枠内で[1986年](../Page/1986年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に公開された[劇場版アニメの最終第](../Page/アニメーション映画.md "wikilink")7作。[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[キン肉マン](../Page/キン肉マン.md "wikilink")』を原作とする。上映時間は51分。
 
-テレビアニメ版『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』放送終了後に放映された。
+テレビアニメ版『[キン肉マン](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")』放送終了後に放映された。
 
 ## 概要
 

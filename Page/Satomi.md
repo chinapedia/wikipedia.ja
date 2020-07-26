@@ -46,7 +46,7 @@
         柴咲が、映画『[黄泉がえり](../Page/黄泉がえり.md "wikilink")』で演じた役名で発売し、大ヒットした作品。後に、徳永英明や[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")がカヴァーする。
   - **[Anniversary](../Page/Anniversary_\(KinKi_Kidsの曲\).md "wikilink")**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
       -
-        KinKi Kidsの20枚目のシングル。これを記念したリアレンジバージョンも製作された。作曲は「[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")」（[中山美穂](../Page/中山美穂.md "wikilink")＆[WANDS](../Page/WANDS.md "wikilink")）、「[負けないで](../Page/負けないで.md "wikilink")」（[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")）、「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」（[TUBE](../Page/TUBE.md "wikilink")）、「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")）などを手がけたヒットメイカーの[織田哲郎](../Page/織田哲郎.md "wikilink")。後に、織田がセルフカバーする。
+        KinKi Kidsの20枚目のシングル。これを記念したリアレンジバージョンも製作された。作曲は「[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")」（[中山美穂](../Page/中山美穂.md "wikilink")＆[WANDS](../Page/WANDS.md "wikilink")）、「[負けないで](../Page/負けないで.md "wikilink")」（[ZARD](../Page/ZARD.md "wikilink")）、「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」（[TUBE](../Page/TUBE.md "wikilink")）、「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")）などを手がけたヒットメイカーの[織田哲郎](../Page/織田哲郎.md "wikilink")。後に、織田がセルフカバーする。
   - **雪白の月**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）
       -
         KinKi Kidsの22枚目のシングル「[SNOW\! SNOW\! SNOW\!](../Page/SNOW!_SNOW!_SNOW!.md "wikilink")」のボーナストラックに収録された作品。メイン楽曲ではないが、KinKi Kidsデビュー10周年のファン投票では、BEST3に入っている。作曲は、「雪の華」「月のしずく」や「Kiss」（[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")）などを手がけた[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")。
@@ -161,7 +161,7 @@
 
 <!-- end list -->
 
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")
 
 <!-- end list -->
 

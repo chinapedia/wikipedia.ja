@@ -158,7 +158,7 @@
 <td><p><a href="../Page/樫山純三.md" title="wikilink">樫山純三</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリーオン系#シェスキイ" title="wikilink">シェスキイ</a></p></td>
 <td><p>牡6</p></td>
 <td><p>12戦7勝<br />
@@ -286,7 +286,7 @@
 <td><p>小林百太郎</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/ニッポーテイオー.md" title="wikilink">ニッポーテイオー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>10戦3勝</p></td>

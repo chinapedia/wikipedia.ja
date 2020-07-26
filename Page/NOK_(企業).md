@@ -25,7 +25,7 @@
   - [1964年](../Page/1964年.md "wikilink") - 子会社日本シールオール株式会社（現[イーグル工業](../Page/イーグル工業.md "wikilink")株式会社、持分法適用関連会社）を設立。
   - [1966年](../Page/1966年.md "wikilink") - 本社を東京都港区(正和ビル)に移転。
   - [1967年](../Page/1967年.md "wikilink") - [静岡県](../Page/静岡県.md "wikilink")[相良町](../Page/相良町.md "wikilink")に静岡工場を建設。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")に福島工場を建設。
+  - [1968年](../Page/1968年.md "wikilink") - [福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")に福島工場を建設。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - 子会社[日本メクトロン](https://ja.wikipedia.org/wiki/日本メクトロン "wikilink")株式会社を設立。
   - [1970年](../Page/1970年.md "wikilink") - 熊本県[阿蘇町](../Page/阿蘇町.md "wikilink")に熊本工場を建設。
   - [1973年](../Page/1973年.md "wikilink") - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")に子会社シンガポールオイルカンパニーを設立。子会社正和化成株式会社を設立。

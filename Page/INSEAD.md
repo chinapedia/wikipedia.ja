@@ -27,8 +27,8 @@ INSEADの歴代学長\[4\]
   - [1976年](../Page/1976年.md "wikilink") - [1979年](../Page/1979年.md "wikilink") ウベ・キッツィンゲン
   - [1979年](../Page/1979年.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") クロード・ラモー (Dy Director General)
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [1982年](../Page/1982年.md "wikilink") ハインツ・タンハイザー
-  - [1982年](../Page/1982年.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") クロード・ラモーとハインツ・ザンヘザー
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") フィリップ・ナエールとクロード・ラモー
+  - [1982年](../Page/1982年.md "wikilink") - [1986年](../Page/1986年.md "wikilink") クロード・ラモーとハインツ・ザンヘザー
+  - [1986年](../Page/1986年.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") フィリップ・ナエールとクロード・ラモー
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [1993年](../Page/1993年.md "wikilink") クロード・ラモーとルド・ヴァン・デル・ハイデン
   - [1993年](../Page/1993年.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") アントニオ・ボルゲスとルド・ヴァン・デル・ハイデン
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [2000年](../Page/2000年.md "wikilink") アントニオ・ボルゲス

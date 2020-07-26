@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の「[雪・月・花](../Page/雪・月・花.md "wikilink")」以来の[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")からの提供曲である。レコーディングには中島みゆき本人も立会い、工藤がこの曲を「みゆきワールドですね」と中島に言ったところ、中島は「これはあなたにあげたのだからあなたの世界よ」と答えている。中島も同年11月22日リリースのアルバム『[ララバイSINGER](../Page/ララバイSINGER.md "wikilink")』で、同曲を[セルフカバー](../Page/セルフカバー.md "wikilink")している。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の「[雪・月・花](../Page/雪・月・花.md "wikilink")」以来の[中島みゆき](../Page/中島みゆき.md "wikilink")からの提供曲である。レコーディングには中島みゆき本人も立会い、工藤がこの曲を「みゆきワールドですね」と中島に言ったところ、中島は「これはあなたにあげたのだからあなたの世界よ」と答えている。中島も同年11月22日リリースのアルバム『[ララバイSINGER](../Page/ララバイSINGER.md "wikilink")』で、同曲を[セルフカバー](../Page/セルフカバー.md "wikilink")している。
   - 「Clāvis」とは、[ラテン語](../Page/ラテン語.md "wikilink")で「鍵」の意味。
   - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ドラマコンプレックス](https://ja.wikipedia.org/wiki/ドラマコンプレックス "wikilink")』挿入歌（2006年7月〜9月）。
 
 ## 収録曲
 
 1.  **Clāvis -鍵-** （5:57）
-      - 作詞・作曲: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink") 、編曲: [瀬尾一三](../Page/瀬尾一三.md "wikilink")
+      - 作詞・作曲: [中島みゆき](../Page/中島みゆき.md "wikilink") 、編曲: [瀬尾一三](../Page/瀬尾一三.md "wikilink")
     <!-- end list -->
       -
         NTV系ドラマ「ドラマコンプレックス」挿入歌

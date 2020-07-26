@@ -21,7 +21,7 @@
 
 地下1階には大ホールがありイベントが行えるスペースとなっている。ここは入居時から「NEC・C\&C総合センター関西」という名称で日本電気の総合ショールーム（[C\&Cプラザ](https://ja.wikipedia.org/wiki/C&Cプラザ "wikilink")）が入居していたが、その後日本電気の各拠点にあるショールームのサントピアに格下げになり、最終的には撤退した。現在は住友生命が入居している。
 
-また、隣接するホテルニューオータニ、いずみホールと立体歩道橋でつなぎ、自由に往来できる他、イベントができる屋外広場も設けられている。さらに、このビルと[住友生命本社ビル](https://ja.wikipedia.org/wiki/住友生命本社ビル "wikilink")、[住友生命OBPプラザビル](https://ja.wikipedia.org/wiki/住友生命OBPプラザビル "wikilink")（[いずみホール](https://ja.wikipedia.org/wiki/いずみホール "wikilink")）、[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")は住友生命の敷地エリアであるため、一般的に知られていないが上記の建物は全て地下駐車場でつながっており防犯シャッター等で区切られている。
+また、隣接するホテルニューオータニ、いずみホールと立体歩道橋でつなぎ、自由に往来できる他、イベントができる屋外広場も設けられている。さらに、このビルと[住友生命本社ビル](https://ja.wikipedia.org/wiki/住友生命本社ビル "wikilink")、[住友生命OBPプラザビル](https://ja.wikipedia.org/wiki/住友生命OBPプラザビル "wikilink")（[いずみホール](../Page/いずみホール.md "wikilink")）、[ホテルニューオータニ大阪](../Page/ホテルニューオータニ大阪.md "wikilink")は住友生命の敷地エリアであるため、一般的に知られていないが上記の建物は全て地下駐車場でつながっており防犯シャッター等で区切られている。
 
 すべての[NEC系企業の大阪拠点と誤解されるが](../Page/NECグループ.md "wikilink")、このビルに入居していないNEC系企業も数多くある。例を挙げれば、[NECプラットフォームズ](../Page/NECプラットフォームズ.md "wikilink")、[NECライティング](https://ja.wikipedia.org/wiki/NECライティング "wikilink")などはこのビル内に拠点を持っていない。このビルにはNEC系でもITを中心とする企業が多く入居している。
 
@@ -33,7 +33,7 @@
   - [日本電気通信システム](https://ja.wikipedia.org/wiki/日本電気通信システム "wikilink")
   - [NECキャピタルソリューション](https://ja.wikipedia.org/wiki/NECキャピタルソリューション "wikilink")
   - [NECソリューションイノベータ](../Page/NECソリューションイノベータ.md "wikilink")
-  - [NECネクサソリューションズ](https://ja.wikipedia.org/wiki/NECネクサソリューションズ "wikilink")
+  - [NECネクサソリューションズ](../Page/NECネクサソリューションズ.md "wikilink")
   - [NECネッツエスアイ](../Page/NECネッツエスアイ.md "wikilink")
   - [NECファシリティーズ](https://ja.wikipedia.org/wiki/NECファシリティーズ "wikilink")
   - [NECフィールディング](../Page/NECフィールディング.md "wikilink")

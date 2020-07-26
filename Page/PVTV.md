@@ -37,7 +37,7 @@
 ### MEMORIES
 
   - 記憶に残る懐かしの名曲と題し、毎週1、2組のミュージックビデオをフルオンエアする。
-  - なお、稀にビデオ映像ではなく[ライブ映像がオンエアされるときもある](../Page/演奏会.md "wikilink")。例として[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のライブ映像が2曲続けて流れた回がある。
+  - なお、稀にビデオ映像ではなく[ライブ映像がオンエアされるときもある](../Page/演奏会.md "wikilink")。例として[ZARD](../Page/ZARD.md "wikilink")のライブ映像が2曲続けて流れた回がある。
 
 ### TALK CLIP
 
@@ -76,8 +76,8 @@
 | 2007年12月 | 「[Brand New Day](https://ja.wikipedia.org/wiki/Brand_New_Day_\(NIRGILISの曲\) "wikilink")」[NIRGILIS](../Page/NIRGILIS.md "wikilink")                                 | 「[ハミングバード](https://ja.wikipedia.org/wiki/IN_A_WAY "wikilink")」[井上ジョー](https://ja.wikipedia.org/wiki/井上ジョー "wikilink")                        |
 | 2008年1月  | 「冬のファンタジー」[L×L](https://ja.wikipedia.org/wiki/L×L "wikilink")                                                                                                      | 「[ditance](https://ja.wikipedia.org/wiki/distance_\(LONG_SHOT_PARTYの曲\) "wikilink")」[LONG SHOT PARTY](../Page/LONG_SHOT_PARTY.md "wikilink") |
 | 2008年2月  | 「[キミにHUGされていたい](https://ja.wikipedia.org/wiki/キミにHUGされていたい "wikilink")」[PINC INC](https://ja.wikipedia.org/wiki/PINC_INC "wikilink")                               | 「[ダイキライ feat.HIRO:N](https://ja.wikipedia.org/wiki/PIANOHEAD "wikilink")」[H ZETT M](../Page/H_ZETT_M.md "wikilink")                          |
-| 2008年3月  | 「[マイフレンド](https://ja.wikipedia.org/wiki/マイフレンド_\(曲\) "wikilink")」[SKELT 8 BAMBINO](../Page/SKELT_8_BAMBINO.md "wikilink")                                          | 「[広がる青に飛び出せ](https://ja.wikipedia.org/wiki/ALL_OVER_NOW_EP "wikilink")」[Naifu](../Page/Naifu.md "wikilink")                                  |
-| 2008年4月  | 「[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")」[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")                                         | 「[B.B.W.](https://ja.wikipedia.org/wiki/Bondge_Heart "wikilink")」[フルカワミキ](https://ja.wikipedia.org/wiki/フルカワミキ "wikilink")                   |
+| 2008年3月  | 「[マイフレンド](https://ja.wikipedia.org/wiki/マイフレンド_\(曲\) "wikilink")」[SKELT 8 BAMBINO](../Page/SKELT_8_BAMBINO.md "wikilink")                                          | 「[広がる青に飛び出せ](../Page/ALL_OVER_NOW_EP.md "wikilink")」[Naifu](../Page/Naifu.md "wikilink")                                                     |
+| 2008年4月  | 「[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")」[キマグレン](../Page/キマグレン.md "wikilink")                                                            | 「[B.B.W.](https://ja.wikipedia.org/wiki/Bondge_Heart "wikilink")」[フルカワミキ](https://ja.wikipedia.org/wiki/フルカワミキ "wikilink")                   |
 | 2008年5月  | 「[幸せのかたち](https://ja.wikipedia.org/wiki/Welcome_Home "wikilink")」[Yellow Cherry](../Page/Yellow_Cherry.md "wikilink")                                              | 「LIFE」キマグレン                                                                                                                                  |
 | 2008年6月  | 「[君去りし誘惑](../Page/君去りし誘惑.md "wikilink")」上木彩矢                                                                                                                       | 「[TIME FLIES, EVERYTHING GOES](https://ja.wikipedia.org/wiki/Popdod "wikilink")」[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")       |
 | 2008年7月  | 「[Take The Wave](../Page/Take_The_Wave.md "wikilink")」Naifu                                                                                                        | 「[時間よ止まれ feat. SEAMO](../Page/時間よ止まれ_feat._SEAMO.md "wikilink")」[AZU](../Page/AZU.md "wikilink")                                             |

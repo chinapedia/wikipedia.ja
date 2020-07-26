@@ -225,7 +225,7 @@ TOCT-26808:通常盤</p></td>
 
 ## 関連項目
 
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
   - [東海ラジオミッドナイトスペシャル](../Page/東海ラジオミッドナイトスペシャル.md "wikilink")
   - [東海ラジオ ガッツナイター](../Page/東海ラジオ_ガッツナイター.md "wikilink")（2007年途中より、後に『ガッツ\!\!』として発売された[ガッツナイター最前線](../Page/ガッツナイター最前線.md "wikilink")でも使用されているジングルを提供。2009年からはガッツナイターの新しいタイトルコールやジングルを担当）

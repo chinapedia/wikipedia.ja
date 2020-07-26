@@ -27,7 +27,7 @@
       - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")
       - 3rdシングル
 4.  **[FU-JI-TSU](../Page/FU-JI-TSU.md "wikilink")** （Vocal New Version）
-      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+      - 作詞：[中島みゆき](../Page/中島みゆき.md "wikilink")
       - 4thシングル、ミニアルバム『[静香](../Page/静香_\(アルバム\).md "wikilink")』（1988年7月21日）にも収録
 5.  **[MUGO・ん…色っぽい](../Page/MUGO・ん…色っぽい.md "wikilink")** （Vocal New Version）
       - 作詞：中島みゆき

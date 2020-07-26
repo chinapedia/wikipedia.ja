@@ -1,7 +1,7 @@
 > この記事は[Sosotte](https://ja.wikipedia.org/wiki/Sosotte)から翻訳されています。
 
 
-「**Sosotte**」（ソソッテ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。
+「**Sosotte**」（ソソッテ）は、[1986年](../Page/1986年.md "wikilink")5月に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。
 
 ## 解説
 

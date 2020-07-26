@@ -21,7 +21,7 @@
   - [ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(映画\) "wikilink") *Network* (1976)
   - [名探偵再登場](https://ja.wikipedia.org/wiki/名探偵再登場 "wikilink") *The Cheap Detective* (1978)
   - [チャンプ](../Page/チャンプ_\(1979年の映画\).md "wikilink") *The Champ* (1979)
-  - [ローズ](https://ja.wikipedia.org/wiki/ローズ_\(映画\) "wikilink") *The Rose* (1979)
+  - [ローズ](../Page/ローズ_\(映画\).md "wikilink") *The Rose* (1979)
   - レッスイン・イン・ラブ *Circle of Two* (1980)
   - [ミュージック・ミュージック](https://ja.wikipedia.org/wiki/ミュージック・ミュージック "wikilink") *Can't Stop the Music* (1980)
   - ベストフレンズ *Rich and Famous* (1981)

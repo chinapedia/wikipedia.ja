@@ -12,7 +12,7 @@
 ACRは、デザインこそ平凡だが、既存の様々な銃の良い部分、即ち充分にタイムプルーフされた「[枯れた技術](https://ja.wikipedia.org/wiki/枯れた技術 "wikilink")」を効果的に組み合わせている。
 
   - [AR-18](../Page/AR-18.md "wikilink")の作動方式（ガスピストン）
-  - [FN SCARのアッパーレシーバー](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")、[ストック](../Page/銃床.md "wikilink")、チャージングハンドル位置
+  - [FN SCARのアッパーレシーバー](../Page/FN_SCAR.md "wikilink")、[ストック](../Page/銃床.md "wikilink")、チャージングハンドル位置
   - [H\&K G36または](../Page/H&K_G36.md "wikilink")[XM8と同様の](../Page/H&K_XM8.md "wikilink")[ポリマーフレーム構造](../Page/重合体.md "wikilink")
   - [H\&K G3のトリガーパック](../Page/H&K_G3.md "wikilink")
   - [M16のファイアコントロールユニットと](../Page/M16自動小銃.md "wikilink")[バレル](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")（ガスバイパスパイプとバレルの配置）
@@ -33,13 +33,13 @@ ACRはまた、[モジュール](../Page/モジュール.md "wikilink")化して
 
   - [バレルは](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[プロトタイプ](../Page/プロトタイプ.md "wikilink")のMASADA（5.56mm仕様）において、10.5インチ、12.5インチ、14.5インチ、16インチ、18インチの5種類が存在していた。
   - ハンドガードは、当初[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")を側面と下部に直接取り付ける[H\&K G36と同じ方式だったが](../Page/H&K_G36.md "wikilink")、後のACRでは最初からレールと一体化した剛性の高いハンドガードが採用された（上部レールはアッパーレシーバーの延長）。
-  - [ストックは](../Page/銃床.md "wikilink")3種類存在し、[FN SCARのようにチークピースの高低と全長の長短を調節可能なフォールディング](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")・マルチアジャスタブルストック、チークピース調節のみで折り畳むことのできない三角形の肉抜き穴の空いたAフレーム・カービンストック、更に、[H\&K PSG1に似た形状の](../Page/H&K_PSG1.md "wikilink")[狙撃](../Page/狙撃.md "wikilink")用PRSストックが用意されている。
+  - [ストックは](../Page/銃床.md "wikilink")3種類存在し、[FN SCARのようにチークピースの高低と全長の長短を調節可能なフォールディング](../Page/FN_SCAR.md "wikilink")・マルチアジャスタブルストック、チークピース調節のみで折り畳むことのできない三角形の肉抜き穴の空いたAフレーム・カービンストック、更に、[H\&K PSG1に似た形状の](../Page/H&K_PSG1.md "wikilink")[狙撃](../Page/狙撃.md "wikilink")用PRSストックが用意されている。
 
 ## マグプルからブッシュマスター、レミントンへ
 
 [2007年](../Page/2007年.md "wikilink")の[ショット・ショー](../Page/ショット・ショー.md "wikilink")における最初の発表から暫く、MASADAのアナウンスはほとんど聞かれなかった。他のメーカーであれば、事実上完成品と呼んでも差し支えない、実射可能な[プロトタイプ](../Page/プロトタイプ.md "wikilink")を完成させている状態ともなれば、大口の契約を取り付けるために[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")や[警察](../Page/警察.md "wikilink")へ熱烈なアピールをするのが常であるが、その後も[アメリカ各地で行われたショットショーにおいてもMASADAは先述したプロトタイプをブースに飾るのみであった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
-これは、性能が不足していたというより、[FN SCARや](https://ja.wikipedia.org/wiki/FN_SCAR "wikilink")[H\&K HK416といった似たようなコンセプトを持ちながら](../Page/H&K_HK416.md "wikilink")、より実績のあるメーカーが製造したライフルが既に存在していたこと、これらと同じく[アメリカ軍](../Page/アメリカ軍.md "wikilink")の次期主力[小銃](../Page/小銃.md "wikilink")候補として設計されたため、軍が購買の意欲を見せなかった事などが原因といわれる。
+これは、性能が不足していたというより、[FN SCARや](../Page/FN_SCAR.md "wikilink")[H\&K HK416といった似たようなコンセプトを持ちながら](../Page/H&K_HK416.md "wikilink")、より実績のあるメーカーが製造したライフルが既に存在していたこと、これらと同じく[アメリカ軍](../Page/アメリカ軍.md "wikilink")の次期主力[小銃](../Page/小銃.md "wikilink")候補として設計されたため、軍が購買の意欲を見せなかった事などが原因といわれる。
 
 こうした理由により、[2009年](../Page/2009年.md "wikilink")1月下旬、[マグプル](https://ja.wikipedia.org/wiki/マグプル "wikilink")社は[ブッシュマスター社に各種](https://ja.wikipedia.org/wiki/:en:Bushmaster_Firearms_International "wikilink")[ライセンス](../Page/ライセンス.md "wikilink")を売却する。更に同じ[サーベラス・キャピタル・マネジメント](../Page/サーベラス・キャピタル・マネジメント.md "wikilink")傘下である[レミントン社が加わった](../Page/レミントン・アームズ.md "wikilink")。これ以降、フルオートマチック[射撃](../Page/射撃.md "wikilink")の可能な軍用のセレクティブ・ファイア・モデルをレミントンが、民生用でセミオートマチックのみのモデルをブッシュマスターが担当する事が決まり、マグプル社は共同開発という形で関わっていく事になる。
 

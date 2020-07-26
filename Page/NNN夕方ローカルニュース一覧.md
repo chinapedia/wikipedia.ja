@@ -45,7 +45,7 @@
   - FCT [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")
       - [ゴジてれ Chu \!](https://ja.wikipedia.org/wiki/ゴジてれ_Chu_! "wikilink")（月-金曜 15:50 - 19:00、ローカルニュース『ゴジてれ Chu\!news』は18:15 - 19:00）
           -
-            ニュースキャスター：[緒方太郎](https://ja.wikipedia.org/wiki/緒方太郎 "wikilink")（月 - 金）、[大橋聡子](https://ja.wikipedia.org/wiki/大橋聡子 "wikilink")（月 - 木）、[野尻英恵](https://ja.wikipedia.org/wiki/野尻英恵 "wikilink")（金）
+            ニュースキャスター：[緒方太郎](https://ja.wikipedia.org/wiki/緒方太郎 "wikilink")（月 - 金）、[大橋聡子](../Page/大橋聡子.md "wikilink")（月 - 木）、[野尻英恵](https://ja.wikipedia.org/wiki/野尻英恵 "wikilink")（金）
 
 ## 中部
 
@@ -97,7 +97,7 @@
           -
             キャスター：[福谷貞夫](../Page/福谷貞夫.md "wikilink")、[松岡史子](https://ja.wikipedia.org/wiki/松岡史子 "wikilink")（月-水曜）、[前田彩野](https://ja.wikipedia.org/wiki/前田彩野 "wikilink")（木・金曜）
   - HTV [広島テレビ](../Page/広島テレビ放送.md "wikilink")
-      - [テレビ派](https://ja.wikipedia.org/wiki/テレビ派 "wikilink")■（月-木曜 16:53 - 18:55、金曜 16:50 - 18:55、ローカルニュースは18:15 - 18:55）
+      - [テレビ派](../Page/テレビ派.md "wikilink")■（月-木曜 16:53 - 18:55、金曜 16:50 - 18:55、ローカルニュースは18:15 - 18:55）
           -
             キャスター：[森拓磨](../Page/森拓磨.md "wikilink")（月-木曜）、[宮脇靖知](../Page/宮脇靖知.md "wikilink")（金曜）、[馬場のぶえ](../Page/馬場のぶえ.md "wikilink")
             ニュースキャスター:[長島清隆](../Page/長島清隆.md "wikilink")、[野口七海](../Page/野口七海.md "wikilink")（月-水曜）、[西名みずほ](../Page/西名みずほ.md "wikilink")（木曜・金曜）
@@ -109,7 +109,7 @@
   - JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
       - [フォーカス徳島](../Page/フォーカス徳島.md "wikilink")（月-木曜 18:15 - 18:55、金曜 18:15 - 18:51）
           -
-            キャスター：[宗我部英久](../Page/宗我部英久.md "wikilink")、[物部純子](../Page/物部純子.md "wikilink")（月-木曜）、[森本真司](https://ja.wikipedia.org/wiki/森本真司 "wikilink")、[野口七海](../Page/野口七海.md "wikilink")（金曜）
+            キャスター：[宗我部英久](../Page/宗我部英久.md "wikilink")、[物部純子](../Page/物部純子.md "wikilink")（月-木曜）、[森本真司](../Page/森本真司.md "wikilink")、[野口七海](../Page/野口七海.md "wikilink")（金曜）
   - RNC [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")
       - [RNC news every.](https://ja.wikipedia.org/wiki/RNC_news_every. "wikilink")（月-金曜 18:15 - 19:00）
           -
@@ -442,7 +442,7 @@
   -
 
       -
-        [KKTニュース](https://ja.wikipedia.org/wiki/KKTニュース "wikilink") - [くまもとNOW](https://ja.wikipedia.org/wiki/くまもとNOW "wikilink") - [ニュースプラス1くまもと](https://ja.wikipedia.org/wiki/ニュースプラス1くまもと "wikilink") - [KKTニュースプラス1](https://ja.wikipedia.org/wiki/KKTニュースプラス1 "wikilink") - [Newsリアルタイムくまもと](https://ja.wikipedia.org/wiki/Newsリアルタイムくまもと "wikilink")
+        [KKTニュース](../Page/KKTニュース.md "wikilink") - [くまもとNOW](https://ja.wikipedia.org/wiki/くまもとNOW "wikilink") - [ニュースプラス1くまもと](https://ja.wikipedia.org/wiki/ニュースプラス1くまもと "wikilink") - [KKTニュースプラス1](https://ja.wikipedia.org/wiki/KKTニュースプラス1 "wikilink") - [Newsリアルタイムくまもと](https://ja.wikipedia.org/wiki/Newsリアルタイムくまもと "wikilink")
 
 <!-- end list -->
 

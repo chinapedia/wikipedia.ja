@@ -3,7 +3,7 @@
 
 **PGAツアー**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")及び[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")における男子プロゴルフツアーを運営する団体、およびこの団体が運営するツアートーナメントの名称。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、ツアー運営のため[全米プロゴルフ協会](../Page/全米プロゴルフ協会.md "wikilink")（）から独立し、[1975年](../Page/1975年.md "wikilink")に団体名称を"PGAツアー"とした。クラブプロ、レッスンプロなどが所属する全米プロゴルフ協会に対し、PGAツアーにはツアープロが所属する\[1\]。
+[1968年](../Page/1968年.md "wikilink")、ツアー運営のため[全米プロゴルフ協会](../Page/全米プロゴルフ協会.md "wikilink")（）から独立し、[1975年](../Page/1975年.md "wikilink")に団体名称を"PGAツアー"とした。クラブプロ、レッスンプロなどが所属する全米プロゴルフ協会に対し、PGAツアーにはツアープロが所属する\[1\]。
 
 なおこの団体が運営する基幹ツアートーナメントの名称も「**PGAツアー**」であり、他にシニア向けの「[チャンピオンズツアー](../Page/チャンピオンズツアー.md "wikilink")」、PGAツアーの下部ツアーにあたる「[ウェブドットコムツアー](https://ja.wikipedia.org/wiki/ウェブドットコムツアー "wikilink")」の運営も行っている。[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ジャクソンビル郊外のポンテ](https://ja.wikipedia.org/wiki/ジャクソンビル_\(フロリダ州\) "wikilink")・ベドラ・ビーチに本部がある。\[2\]
 
@@ -356,7 +356,7 @@ PGAツアーでの試合に優勝すると、最大5年間、2年以上のシー
 <td><p>3: <a href="https://ja.wikipedia.org/wiki/ポール・エイジンガー" title="wikilink">ポール・エイジンガー</a>; <a href="https://ja.wikipedia.org/wiki/カーティス・ストレンジ" title="wikilink">カーティス・ストレンジ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グレグ・ノーマン" title="wikilink">グレグ・ノーマン</a> (1/3)</p></td>
 <td><p>653,296</p></td>
 <td><p>4: <a href="https://ja.wikipedia.org/wiki/ボブ・ツエー" title="wikilink">ボブ・ツエー</a></p></td>
@@ -563,7 +563,7 @@ PGAツアーでの試合に優勝すると、最大5年間、2年以上のシー
 <td><p>1952</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュリアス・ボロス" title="wikilink">ジュリアス・ボロス</a> (1/2)</p></td>
 <td><p>37,033</p></td>
-<td><p>5: <a href="https://ja.wikipedia.org/wiki/ジャック・バーク・ジュニア" title="wikilink">ジャック・バーク・ジュニア</a>, <a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a></p></td>
+<td><p>5: <a href="https://ja.wikipedia.org/wiki/ジャック・バーク・ジュニア" title="wikilink">ジャック・バーク・ジュニア</a>, <a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1951</p></td>
@@ -573,13 +573,13 @@ PGAツアーでの試合に優勝すると、最大5年間、2年以上のシー
 </tr>
 <tr class="even">
 <td><p>1950</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a> (3/3)</p></td>
+<td><p><a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a> (3/3)</p></td>
 <td><p>35,759</p></td>
-<td><p>11: <a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a></p></td>
+<td><p>11: <a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1949</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a> (2/3)</p></td>
+<td><p><a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a> (2/3)</p></td>
 <td><p>31,594</p></td>
 <td><p>7: <a href="https://ja.wikipedia.org/wiki/ケリー・ミドルコフ" title="wikilink">ケリー・ミドルコフ</a></p></td>
 </tr>
@@ -629,7 +629,7 @@ PGAツアーでの試合に優勝すると、最大5年間、2年以上のシー
 <td><p>1941</p></td>
 <td><p><a href="../Page/ベン・ホーガン.md" title="wikilink">ベン・ホーガン</a> (2/5)</p></td>
 <td><p>18,358</p></td>
-<td><p>7: <a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a></p></td>
+<td><p>7: <a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1940</p></td>
@@ -645,9 +645,9 @@ PGAツアーでの試合に優勝すると、最大5年間、2年以上のシー
 </tr>
 <tr class="even">
 <td><p>1938</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a> (1/3)</p></td>
+<td><p><a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a> (1/3)</p></td>
 <td><p>19,534</p></td>
-<td><p>8: <a href="https://ja.wikipedia.org/wiki/サム・スニード" title="wikilink">サム・スニード</a></p></td>
+<td><p>8: <a href="../Page/サム・スニード.md" title="wikilink">サム・スニード</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1937</p></td>

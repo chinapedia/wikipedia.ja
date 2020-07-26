@@ -22,7 +22,7 @@ NHKは[県域放送](../Page/県域放送.md "wikilink")となっていること
       - 12月15日 - [山陰中央テレビジョン放送](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")（TSK）試験放送開始。（開局日）
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）[4月1日](../Page/4月1日.md "wikilink") - TSK本放送開始。
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[9月22日](../Page/9月22日.md "wikilink") - [日本海テレビジョン放送](../Page/日本海テレビジョン放送.md "wikilink")（NKT）松江中継局開局。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月1日](../Page/10月1日.md "wikilink") - [エフエム山陰](../Page/エフエム山陰.md "wikilink")開局。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[10月1日](../Page/10月1日.md "wikilink") - [エフエム山陰](../Page/エフエム山陰.md "wikilink")開局。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [NHK鳥取放送局](../Page/NHK鳥取放送局.md "wikilink")総合テレビ米子中継局開局。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）[11月15日](../Page/11月15日.md "wikilink") - [総務省](../Page/総務省.md "wikilink")より地上デジタル放送[予備免許](../Page/予備免許.md "wikilink")交付（NHK鳥取米子中継局を除く）。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）

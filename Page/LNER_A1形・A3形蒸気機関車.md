@@ -1,7 +1,7 @@
 > この記事は[LNER A1形・A3形蒸気機関車](https://ja.wikipedia.org/wiki/LNER_A1形・A3形蒸気機関車)から翻訳されています。
 
 
-**LNER A1形・A3形蒸気機関車**は、イギリスの鉄道会社、 [ロンドン・アンド・ノース・イースタン鉄道](https://ja.wikipedia.org/wiki/ロンドン・アンド・ノース・イースタン鉄道 "wikilink") (LNER) の[蒸気機関車](../Page/蒸気機関車.md "wikilink")の形式である。
+**LNER A1形・A3形蒸気機関車**は、イギリスの鉄道会社、 [ロンドン・アンド・ノース・イースタン鉄道](../Page/ロンドン・アンド・ノース・イースタン鉄道.md "wikilink") (LNER) の[蒸気機関車](../Page/蒸気機関車.md "wikilink")の形式である。
 
 A1形・A3形はいずれも、[ナイジェル・グレズリー](../Page/ナイジェル・グレズリー.md "wikilink")によって設計された軸配置[4-6-2](https://ja.wikipedia.org/wiki/:en:4-6-2 "wikilink")（[パシフィック](https://ja.wikipedia.org/wiki/車軸配置 "wikilink")）の3気筒蒸気機関車である。A3形はA1形の改良機で、A1形の大多数が最終的にA3形相当に改造されたため、これらは一連の形式として扱われることが多い。また、A3形はパシフィックの軸配置をイギリスの量産蒸気機関車で初採用している。
 

@@ -220,7 +220,7 @@
   - 監督 - 鈴木薫\[5\]
   - シリーズ構成 - [待田堂子](../Page/待田堂子.md "wikilink")\[6\]
   - キャラクター原案 - [ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink")\[7\]
-  - アニメーションキャラクターデザイン - [谷津美弥子](https://ja.wikipedia.org/wiki/谷津美弥子 "wikilink")\[8\]
+  - アニメーションキャラクターデザイン - [谷津美弥子](../Page/谷津美弥子.md "wikilink")\[8\]
   - 総作画監督 - 谷津美弥子、草間英興
   - 美術監督 - 榊枝利行、根本洋行
   - プロップデザイン - 小川浩
@@ -318,7 +318,7 @@
 <td><p>待田堂子</p></td>
 <td><p>西本由紀夫</p></td>
 <td><p>殿水敦子</p></td>
-<td><p>植田羊一、横田和彦、<a href="https://ja.wikipedia.org/wiki/谷津美弥子" title="wikilink">谷津美弥子</a></p></td>
+<td><p>植田羊一、横田和彦、<a href="../Page/谷津美弥子.md" title="wikilink">谷津美弥子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>episode 08</p></td>

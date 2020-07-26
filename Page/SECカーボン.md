@@ -26,7 +26,7 @@
   - 1974年（昭和49年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 京都工場完成。(西宮工場操業停止、全面移転完了)。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 商号を株式会社エスイーシーに変更。
   - 1984年（昭和59年）[11月](../Page/11月.md "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")第2部に上場。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 協和カーボン株式会社と合併、合併により岡山工場を引き継ぎ、アルミニウム製錬用炭素製品及び特殊炭素製品の製造を開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 協和カーボン株式会社と合併、合併により岡山工場を引き継ぎ、アルミニウム製錬用炭素製品及び特殊炭素製品の製造を開始。
   - [1992年](../Page/1992年.md "wikilink")（平成4年）[9月](../Page/9月.md "wikilink") - 岡山工場西大寺(加工工場)稼動。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）[9月](../Page/9月.md "wikilink") - 岡山工場牛窓の生産停止。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 商号をSECカーボン株式会社に変更。

@@ -1,7 +1,7 @@
 > この記事は[Singles II \(中島みゆきのアルバム\)](https://ja.wikipedia.org/wiki/Singles_II_\(中島みゆきのアルバム\))から翻訳されています。
 
 
-『**Singles II**』（シングルス・ツー）は、[1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の2枚組コレクション・アルバムである。
+『**Singles II**』（シングルス・ツー）は、[1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売された[中島みゆき](../Page/中島みゆき.md "wikilink")の2枚組コレクション・アルバムである。
 
 ## 解説
 
@@ -39,7 +39,7 @@
 9.  **[トーキョー迷子](https://ja.wikipedia.org/wiki/トーキョー迷子 "wikilink")**
       - 26枚目のシングル、アルバム『歌でしか言えない』にも収録されているが、そちらは新たにリミックスされたもの。
 10. **[見返り美人 (2nd Version)](https://ja.wikipedia.org/wiki/見返り美人_\(中島みゆきの曲\) "wikilink")**
-      - 26枚目のシングルのカップリング曲で、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にシングルでリリースされ、アルバム『[36.5℃](../Page/36.5℃.md "wikilink")』にも別バージョンで収録された楽曲のリメイク曲。この曲はライヴアルバム『[歌暦](../Page/歌暦.md "wikilink")』にも収録されていることから、4つの音源があることになる。
+      - 26枚目のシングルのカップリング曲で、[1986年](../Page/1986年.md "wikilink")にシングルでリリースされ、アルバム『[36.5℃](../Page/36.5℃.md "wikilink")』にも別バージョンで収録された楽曲のリメイク曲。この曲はライヴアルバム『[歌暦](../Page/歌暦.md "wikilink")』にも収録されていることから、4つの音源があることになる。
 
 ### Disc2
 

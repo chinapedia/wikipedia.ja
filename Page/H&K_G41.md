@@ -3,7 +3,7 @@
 
 **H\&K G41**は、[1980年代](../Page/1980年代.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[H\&K社によって開発された](../Page/ヘッケラー&コッホ.md "wikilink")5.56mm[口径](../Page/口径.md "wikilink")の[アサルトライフル](../Page/アサルトライフル.md "wikilink")である。値段が非常に高額（[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1,700[ドル](../Page/アメリカ合衆国ドル.md "wikilink")）であることで知られ、本国の[ドイツ連邦軍](../Page/ドイツ連邦軍.md "wikilink")からも採用されなかった経緯がある（当のドイツ連邦軍は[H\&K G36を採用した](../Page/H&K_G36.md "wikilink")）。
 
-このG41の基になった銃は、同社の[HK33であるが](https://ja.wikipedia.org/wiki/H&K_HK33 "wikilink")、内部機構は改良され、[M16](../Page/M16自動小銃.md "wikilink")/[M4共用の](../Page/M4カービン.md "wikilink")[5.56x45mm NATO弾用](../Page/5.56x45mm_NATO弾.md "wikilink")[マガジンが使用できる](../Page/弾倉.md "wikilink")（[STANAG マガジンなので](https://ja.wikipedia.org/wiki/STANAG_マガジン "wikilink")、[FN FNCや](../Page/FN_FNC.md "wikilink")[ベレッタAR70/90](https://ja.wikipedia.org/wiki/ベレッタAR70/90 "wikilink")・[FA-MAS G2などとも共有できる](https://ja.wikipedia.org/wiki/FA-MAS#バリエーション "wikilink")）。
+このG41の基になった銃は、同社の[HK33であるが](../Page/H&K_HK33.md "wikilink")、内部機構は改良され、[M16](../Page/M16自動小銃.md "wikilink")/[M4共用の](../Page/M4カービン.md "wikilink")[5.56x45mm NATO弾用](../Page/5.56x45mm_NATO弾.md "wikilink")[マガジンが使用できる](../Page/弾倉.md "wikilink")（[STANAG マガジンなので](https://ja.wikipedia.org/wiki/STANAG_マガジン "wikilink")、[FN FNCや](../Page/FN_FNC.md "wikilink")[ベレッタAR70/90](https://ja.wikipedia.org/wiki/ベレッタAR70/90 "wikilink")・[FA-MAS G2などとも共有できる](https://ja.wikipedia.org/wiki/FA-MAS#バリエーション "wikilink")）。
 
 G41は、[アメリカ合衆国の警察](../Page/アメリカ合衆国の警察.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")の一部で取り入れられていたが、上述の通り値段が高いため採用例は少ない。現在は、ほとんどM4に更新されている。
 
@@ -57,7 +57,7 @@ G41は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[GSG-
 
   - [H\&K](../Page/ヘッケラー&コッホ.md "wikilink")
   - [自動小銃](../Page/自動小銃.md "wikilink")
-  - [H\&K HK33](https://ja.wikipedia.org/wiki/H&K_HK33 "wikilink")
+  - [H\&K HK33](../Page/H&K_HK33.md "wikilink")
 
 ## 外部リンク
 

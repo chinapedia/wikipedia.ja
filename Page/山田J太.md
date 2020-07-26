@@ -1,7 +1,7 @@
 > この記事は[山田J太](https://ja.wikipedia.org/wiki/山田J太)から翻訳されています。
 
 
-**山田 J太**（やまだ ジェイた、[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身\[2\]。血液型はO型\[3\]。代表作に[テレビアニメ化された](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")「[あさっての方向。](../Page/あさっての方向。.md "wikilink")」や[ドラマCD](../Page/ドラマCD.md "wikilink")化された「[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")」など。
+**山田 J太**（やまだ ジェイた、[1月26日](../Page/1月26日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身\[2\]。血液型はO型\[3\]。代表作に[テレビアニメ化された](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")「[あさっての方向。](../Page/あさっての方向。.md "wikilink")」や[ドラマCD](../Page/ドラマCD.md "wikilink")化された「[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")」など。
 
 [同人活動も行なっており](../Page/同人誌.md "wikilink")、[個人サークル](../Page/同人サークル.md "wikilink")『J36』で主に女性向けの[同人誌即売会](../Page/同人誌即売会.md "wikilink")に参加している。
 
@@ -47,7 +47,7 @@
   - 『[デ・ジ・キャラット GGBG\!](../Page/デ・ジ・キャラット.md "wikilink")』、[ジャイブ](../Page/ジャイブ.md "wikilink") 〈CR COMICS〉 2004年、全1巻
       - 『[デ・ジ・キャラット GGBG\!おかわり\!](../Page/デ・ジ・キャラット.md "wikilink")』、発行：[モビーダ・エンターテイメント](https://ja.wikipedia.org/wiki/モビーダ・エンターテイメント "wikilink")/発売：[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink") 〈コミデジコミックス〉 2006年、全1巻
   - 『[あさっての方向。](../Page/あさっての方向。.md "wikilink")』、[マッグガーデン](../Page/マッグガーデン.md "wikilink") 〈ブレイドコミックス〉 2005年 - 2007年、全5巻
-  - 『[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")』、発行：[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink") / 発売：[角川グループパブリッシング](https://ja.wikipedia.org/wiki/角川グループパブリッシング "wikilink") 〈SYLPH COMICS〉 2008年 - 2011年、全4巻
+  - 『[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")』、発行：[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink") / 発売：[角川グループパブリッシング](https://ja.wikipedia.org/wiki/角川グループパブリッシング "wikilink") 〈SYLPH COMICS〉 2008年 - 2011年、全4巻
   - 『[ぎふと](https://ja.wikipedia.org/wiki/ぎふと "wikilink")』、発行：[富士見書房](../Page/富士見書房.md "wikilink") / 発売：角川グループパブリッシング 〈[カドカワコミックス・ドラゴンJr.](https://ja.wikipedia.org/wiki/カドカワコミックス・ドラゴンJr. "wikilink")〉→〈[ドラゴンコミックスエイジ](https://ja.wikipedia.org/wiki/カドカワコミックス#ドラゴンコミックスエイジ "wikilink")〉 2009年 - 2010年、全2巻
   - 『[ひぐらしの哭く頃に 雀〜燕返し編〜](https://ja.wikipedia.org/wiki/ひぐらしの哭く頃に_雀 "wikilink")』、[竹書房](../Page/竹書房.md "wikilink") 〈近代麻雀コミックス〉 2010年 - 2011年、全2巻（上下巻）
   - 『[蒼界のイヴ](https://ja.wikipedia.org/wiki/蒼界のイヴ "wikilink")』、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") （[アクションコミックス コミックハイブランド](https://ja.wikipedia.org/wiki/コミックハイ!#コミックハイブランド "wikilink")） 2011年 - 2012年、全3巻

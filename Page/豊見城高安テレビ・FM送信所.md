@@ -17,13 +17,13 @@
 
 ## 歴史
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")　[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")（OHK・現在のNHK沖縄放送局）中央テレビジョン（KSGB-TV・2ch、チャンネル自体は現在の[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")）が放送開始、豊見城村（現豊見城市）高安の放送会館敷地内から送信開始。
+  - [1968年](../Page/1968年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")　[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")（OHK・現在のNHK沖縄放送局）中央テレビジョン（KSGB-TV・2ch、チャンネル自体は現在の[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")）が放送開始、豊見城村（現豊見城市）高安の放送会館敷地内から送信開始。
   - [1972年](../Page/1972年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")　[本土復帰](../Page/本土復帰.md "wikilink")と同時にOHKはNHK沖縄放送局、中央テレビジョンはNHK沖縄総合テレビジョン（JOAP-TV）となる。
   - 1972年[5月22日](../Page/5月22日.md "wikilink")　[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")放送開始（JOAD-TV・12ch）、総合テレビと同場所から送信開始。
   - [1974年](../Page/1974年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")　[NHKFM放送開始](../Page/NHK-FM放送.md "wikilink")、テレビと同じ放送会館敷地内から送信開始。
   - [1975年](../Page/1975年.md "wikilink")　[沖縄本島](../Page/沖縄本島.md "wikilink")～[宮古島](../Page/宮古島.md "wikilink")間の[海底ケーブル](../Page/海底ケーブル.md "wikilink")暫定開通により、[先島諸島](../Page/先島諸島.md "wikilink")への[ニュースなど一部番組がケーブル経由で同時送信開始](../Page/NHKニュース.md "wikilink")（ただし画面はカラーではなく白黒）。
   - [1976年](../Page/1976年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")　沖縄本島～宮古島間の海底ケーブル正式開通により、先島諸島への送信が開始。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")　琉球放送（RBC）テレビが嘉数から、沖縄テレビ放送（OTV）が那覇市[首里](../Page/首里.md "wikilink")崎山町からそれぞれ送信機能を当テレビ放送所へ移設し、VHFテレビ送信所は当放送所に一本化された。これにより、これまでは地域によってVHFアンテナがオールバンド用1本とハイチャンネル用1～2本必要だったのが、オールバンド用のVHFアンテナ1本だけで済むようになった。同時にRBCとOTVは[音声多重放送](../Page/音声多重放送.md "wikilink")が開始（NHKは[翌年](https://ja.wikipedia.org/wiki/1986年 "wikilink")2月に開始）。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")　琉球放送（RBC）テレビが嘉数から、沖縄テレビ放送（OTV）が那覇市[首里](../Page/首里.md "wikilink")崎山町からそれぞれ送信機能を当テレビ放送所へ移設し、VHFテレビ送信所は当放送所に一本化された。これにより、これまでは地域によってVHFアンテナがオールバンド用1本とハイチャンネル用1～2本必要だったのが、オールバンド用のVHFアンテナ1本だけで済むようになった。同時にRBCとOTVは[音声多重放送](../Page/音声多重放送.md "wikilink")が開始（NHKは[翌年](../Page/1986年.md "wikilink")2月に開始）。
   - [1993年](../Page/1993年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")　RBC・OTVが先島諸島への放送を開始。当テレビ放送所から糸満市米須のケーブル陸揚所への送信を開始（同陸揚所から光ファイバーケーブル経由で宮古島へ）。
   - [2005年](../Page/2005年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") NHK沖縄の[地上デジタルテレビジョン放送に](../Page/地上デジタルテレビ放送.md "wikilink")[予備免許](../Page/予備免許.md "wikilink")交付。
   - 2005年[11月15日](../Page/11月15日.md "wikilink") OTVの地上デジタルテレビジョン放送に予備免許交付。

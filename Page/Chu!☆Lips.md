@@ -8,7 +8,7 @@
 ### 現メンバー
 
   - りお（りおりー・綿瀬莉織）
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")生まれ。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。A型。
+    [1986年](../Page/1986年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")生まれ。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。A型。
       -
         初期メンバー。
   - なっちん（愛川奈緒美）
@@ -35,7 +35,7 @@
   - めい（秋葉芽衣）
     [1989年](../Page/1989年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")生まれ。東京都出身。A型。2006年2月に卒業。
   - あさみん（[阿川麻美](https://ja.wikipedia.org/wiki/阿川麻美 "wikilink")）
-    [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")生まれ。神奈川県出身。O型。
+    [1986年](../Page/1986年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")生まれ。神奈川県出身。O型。
   - トッコ（中澤都希子）
     [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")生まれ。[滋賀県](../Page/滋賀県.md "wikilink")出身。A型。2008年3月に卒業。
   - あいち（中山愛）

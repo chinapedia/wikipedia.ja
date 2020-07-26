@@ -7,7 +7,7 @@
 
 1993年[7月10日](../Page/7月10日.md "wikilink")、2つのレギュラー番組のテーマソングとなったシングル「あなたにお願い申し上げます。」（作詞：[三浦徳子](../Page/三浦徳子.md "wikilink") / 作曲・編曲：[和泉一弥](../Page/和泉一弥.md "wikilink")）でCDデビュー。なお、参加メンバーは川崎絵美を除く2期メンバーの7人\[1\]であり、ジャケットで確認できる。
 
-3期メンバー加入後の[1994年](../Page/1994年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、2枚目のシングル「誘ってみればいいじゃない 〜悪いけどサキにイクわ〜」（作詞：三浦徳子 / 作曲・編曲：[斉藤英夫](https://ja.wikipedia.org/wiki/斉藤英夫 "wikilink")）を発売。実質的にこれが最後のCDリリースとなった。
+3期メンバー加入後の[1994年](../Page/1994年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、2枚目のシングル「誘ってみればいいじゃない 〜悪いけどサキにイクわ〜」（作詞：三浦徳子 / 作曲・編曲：[斉藤英夫](https://ja.wikipedia.org/wiki/斉藤英夫 "wikilink")）を発売。実質的にこれが最後のCDリリースとなった。
 
 レギュラー番組の出演やCDリリース以外にもユニットとして雑誌グラビア、テレビCM出演など活動もそれなりにあったがブレイクせず、自然消滅。だが[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")（[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")）や[華原朋美](../Page/華原朋美.md "wikilink")など、のちに芸能界で活躍する[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")や[タレント](../Page/タレント.md "wikilink")を輩出している。
 
@@ -95,7 +95,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p>誘ってみればいいじゃない<br />
 〜悪いけどサキにイクわ〜</p></td>
 <td><p>1. 誘ってみればいいじゃない 〜悪いけどサキにイクわ〜<br />

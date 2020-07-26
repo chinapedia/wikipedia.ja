@@ -7,7 +7,7 @@
 
 ## 歴史
 
-1985年に格闘技の指導員であったスコット・コーカーが[ESPN](../Page/ESPN.md "wikilink")の番組用に[キックボクシング](../Page/キックボクシング.md "wikilink")団体[PKAの大会を開催した](../Page/プロ空手協会.md "wikilink")\[1\]。コーカーは1993年にPKAの放映が終了して以降もキックボクシングの大会運営に携わり、[サンノゼ](../Page/サンノゼ.md "wikilink")の大会場[HPパビリオン](https://ja.wikipedia.org/wiki/HPパビリオン "wikilink")でハビアー・メンデス（現[AKA会長](../Page/アメリカン・キックボクシング・アカデミー.md "wikilink")）や[カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")をメインに据えた大会を組んで人気を博していたほか\[2\]、2000年から2007年までは[K-1](../Page/K-1.md "wikilink")のアメリカ大会のプロモートも手掛けていた\[3\]。
+1985年に格闘技の指導員であったスコット・コーカーが[ESPN](../Page/ESPN.md "wikilink")の番組用に[キックボクシング](../Page/キックボクシング.md "wikilink")団体[PKAの大会を開催した](../Page/プロ空手協会.md "wikilink")\[1\]。コーカーは1993年にPKAの放映が終了して以降もキックボクシングの大会運営に携わり、[サンノゼ](../Page/サンノゼ.md "wikilink")の大会場[HPパビリオン](https://ja.wikipedia.org/wiki/HPパビリオン "wikilink")でハビアー・メンデス（現[AKA会長](../Page/アメリカン・キックボクシング・アカデミー.md "wikilink")）や[カン・リー](../Page/カン・リー.md "wikilink")をメインに据えた大会を組んで人気を博していたほか\[2\]、2000年から2007年までは[K-1](../Page/K-1.md "wikilink")のアメリカ大会のプロモートも手掛けていた\[3\]。
 
 ### 総合格闘技への進出
 
@@ -128,7 +128,7 @@
         ○ [レナート・ババル](../Page/レナート・ババル.md "wikilink")（1R終了時 ドクターストップ）[ボビー・サウスワース](../Page/ボビー・サウスワース.md "wikilink") × **【世界ライトヘビー級タイトルマッチ】**
         ○ [ドゥエイン・ラドウィック](../Page/ドゥエイン・ラドウィック.md "wikilink")（判定3-0）[イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink") ×
         ○ [スコット・スミス](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink")（1R 0:24 KO）[テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
-        ○ [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")（2R 2:05 KO）ルーク・スチュワート ×
+        ○ [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")（2R 2:05 KO）ルーク・スチュワート ×
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 
   - **Strikeforce: At The Mansion II**（2008年9月20日）
       -
-        ○ [三崎和雄](../Page/三崎和雄.md "wikilink")（2R 2:29 TKO）[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+        ○ [三崎和雄](../Page/三崎和雄.md "wikilink")（2R 2:29 TKO）[ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") ×
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（1R 1:14 TKO）アッシュ・ボウマン ×
         ○ [石田光洋](../Page/石田光洋.md "wikilink")（1R 1:21 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）ジャスティン・ウィルコックス ×
 
@@ -158,7 +158,7 @@
 
   - **Strikeforce: Shamrock vs. Le**（2008年3月29日）
       -
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R終了時 ドクターストップ）[フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink") × **【世界ミドル級タイトルマッチ】**
+        ○ [カン・リー](../Page/カン・リー.md "wikilink")（3R終了時 ドクターストップ）[フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink") × **【世界ミドル級タイトルマッチ】**
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（2R 2:18 TKO）ゲイブ・レムリー × **【世界ライト級タイトルマッチ】**
 
 <!-- end list -->
@@ -174,7 +174,7 @@
   - **Strikeforce: Four Men Enter, One Man Survives**（2007年11月16日）
       -
         ○ [ジョルジ・サンチアゴ](../Page/ジョルジ・サンチアゴ.md "wikilink")（1R 2:31 TKO）[トレヴァー・プラングリー](../Page/トレヴァー・プラングリー.md "wikilink") × **【ミドル級トーナメント 決勝】**
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R 1:58 TKO）サム・モーガン ×
+        ○ [カン・リー](../Page/カン・リー.md "wikilink")（3R 1:58 TKO）サム・モーガン ×
         ○ [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")（2R 3:42 TKO）[ポール・ブエンテロ](../Page/ポール・ブエンテロ.md "wikilink") × **【世界ヘビー級王座決定戦】**
 
 <!-- end list -->
@@ -182,7 +182,7 @@
   - **Strikeforce: Playboy Mansion**（2007年9月29日）
       -
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（判定3-0）[加藤鉄史](https://ja.wikipedia.org/wiki/加藤鉄史 "wikilink") × **【世界ライト級タイトルマッチ】**
-        ○ [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")（1R 3:56 KO）[ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") ×
+        ○ [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")（1R 3:56 KO）[ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") ×
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（1R 4:45 TKO）アダム・リン
 
 <!-- end list -->
@@ -190,7 +190,7 @@
   - **Strikeforce & EliteXC: Shamrock vs. Baroni**（2007年6月22日）
       -
         ○ [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")（2R 4:00 [チョークスリーパー](../Page/裸絞.md "wikilink")）[フィル・バローニ](../Page/フィル・バローニ.md "wikilink") × **【世界ミドル級王座決定戦】**
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（3R 0:25 TKO）トニー・フリックランド ×
+        ○ [カン・リー](../Page/カン・リー.md "wikilink")（3R 0:25 TKO）トニー・フリックランド ×
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（1R 1:42 [チョークスリーパー](../Page/裸絞.md "wikilink")）ニック・ゴンザレス ×
         ○ [ムリーロ・ニンジャ](https://ja.wikipedia.org/wiki/ムリーロ・ニンジャ "wikilink")（2R 1:05 TKO）[ジョーイ・ヴィラセニョール](../Page/ジョーイ・ヴィラセニョール.md "wikilink") × **【EliteXCミドル級王座決定戦】**
 
@@ -198,7 +198,7 @@
 
   - **Strikeforce: Triple Threat**（2006年12月8日）
       -
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（1R 0:43 TKO）ジェイソン・フォン・フルー ×
+        ○ [カン・リー](../Page/カン・リー.md "wikilink")（1R 0:43 TKO）ジェイソン・フォン・フルー ×
         ○ [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（判定3-0）[ナム・ファン](https://ja.wikipedia.org/wiki/ナム・ファン "wikilink") ×
         ○ [ジーナ・カラーノ](../Page/ジーナ・カラーノ.md "wikilink")（判定3-0）エレーナ・マックスウェル ×
         ○ [ボビー・サウスワース](../Page/ボビー・サウスワース.md "wikilink")（判定3-0）[ヴァーノン・"タイガー"・ホワイト](../Page/ヴァーノン・ホワイト.md "wikilink") × **【世界ライトヘビー級王座決定戦】**
@@ -215,7 +215,7 @@
   - **Strikeforce: Revenge**（2006年6月9日）
       -
         ○ [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")（判定3-0）[ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink") ×
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（1R 4:19 TKO）ブライアン・ウォーレン ×
+        ○ [カン・リー](../Page/カン・リー.md "wikilink")（1R 4:19 TKO）ブライアン・ウォーレン ×
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（判定2-1）[クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink") × **【世界ライト級タイトルマッチ】**
 
 <!-- end list -->
@@ -223,7 +223,7 @@
   - **Strikeforce: Shamrock vs. Gracie**（2006年3月10日）
       -
         ○ [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")（1R 0:21 KO）[シーザー・グレイシー](https://ja.wikipedia.org/wiki/シーザー・グレイシー "wikilink") ×
-        ○ [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（1R 3:51 KO）マイク・アルトマン ×
+        ○ [カン・リー](../Page/カン・リー.md "wikilink")（1R 3:51 KO）マイク・アルトマン ×
         ○ [クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink")（判定3-0）[ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink") × **【世界ライト級王座決定戦】**
         ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（2R 0:44 ギブアップ）ハリス・サリエント ×
 

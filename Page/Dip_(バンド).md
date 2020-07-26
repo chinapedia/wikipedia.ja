@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - ナカニシノリユキ（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）：ドラム
+  - ナカニシノリユキ（[1968年](../Page/1968年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）：ドラム
 
 <!-- end list -->
 

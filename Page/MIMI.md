@@ -1,7 +1,7 @@
 > この記事は[MIMI](https://ja.wikipedia.org/wiki/MIMI)から翻訳されています。
 
 
-**MIMI**（みみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月20日](../Page/7月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。
+**MIMI**（みみ、[1986年](../Page/1986年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。
 
 ## 略歴
 

@@ -35,9 +35,9 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月3日、「K-1甲子園」で優勝できなかったケジメとして、頭を丸刈りにした\[2\]。
 
-2008年2月2日、[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜で行われたオランダとの](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜 "wikilink")3対3対抗戦・大将戦でロビー・ハヘマンと対戦し、2RKO勝ち。
+2008年2月2日、[K-1 WORLD MAX 2008 〜日本代表決定トーナメント〜で行われたオランダとの](../Page/K-1_WORLD_MAX_2008_〜日本代表決定トーナメント〜.md "wikilink")3対3対抗戦・大将戦でロビー・ハヘマンと対戦し、2RKO勝ち。
 
-2008年4月9日、[K-1 WORLD MAX 2008 World Championship Tournament FINAL16で大晦日に対戦が流れた](https://ja.wikipedia.org/wiki/K-1_WORLD_MAX_2008_World_Championship_Tournament_FINAL16 "wikilink")[藤鬥嘩裟](../Page/藤鬥嘩裟.md "wikilink")と改めて対戦し、判定勝ち。試合前から舌戦を繰り広げた。
+2008年4月9日、[K-1 WORLD MAX 2008 World Championship Tournament FINAL16で大晦日に対戦が流れた](../Page/K-1_WORLD_MAX_2008_World_Championship_Tournament_FINAL16.md "wikilink")[藤鬥嘩裟](../Page/藤鬥嘩裟.md "wikilink")と改めて対戦し、判定勝ち。試合前から舌戦を繰り広げた。
 
 2008年8月29日、[K-1甲子園 KING OF UNDER 18 〜FINAL16〜のK](https://ja.wikipedia.org/wiki/K-1甲子園_KING_OF_UNDER_18_〜FINAL16〜 "wikilink")-1甲子園2008 1回戦で園田顕悟と対戦。2Rに右フック、3Rに左ストレートでそれぞれダウンを奪うなどして判定勝ち。
 

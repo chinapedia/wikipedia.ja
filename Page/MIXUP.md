@@ -83,7 +83,7 @@
   - TBSラジオ主催 SPECIAL LIVE MIXUP+〜TUWEEN the RADIO〜vol.3
     2009年7月24日（金）[恵比寿リキッドルーム](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")
     出演：[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")、[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")、[セカイイチ](../Page/セカイイチ.md "wikilink")、[黒沢健一](../Page/黒沢健一.md "wikilink")（当日の登場順：黒沢健一→セカイイチ→monobright→怒髪天）
-    （当初は[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")が出演予定だったが、メンバーの[ノマアキコ](https://ja.wikipedia.org/wiki/ノマアキコ "wikilink")の目の急病によりキャンセルとなり、急遽、黒沢健一に代替となる。チケットの払い戻しも行われた。）
+    （当初は[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")が出演予定だったが、メンバーの[ノマアキコ](../Page/ノマアキコ.md "wikilink")の目の急病によりキャンセルとなり、急遽、黒沢健一に代替となる。チケットの払い戻しも行われた。）
   - TBSラジオ主催 SPECIAL LIVE MIXUP+〜TUWEEN the RADIO〜vol.4
     2010年3月14日（日）恵比寿リキッドルーム
     出演：[おとぎ話](https://ja.wikipedia.org/wiki/おとぎ話_\(バンド\) "wikilink")、[UNCHAIN](../Page/UNCHAIN.md "wikilink")、[lego big morl](https://ja.wikipedia.org/wiki/lego_big_morl "wikilink")、[SxOxU](../Page/松本素生.md "wikilink")

@@ -15,7 +15,7 @@
 全曲作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
 
 1.  **[黄砂に吹かれて](../Page/黄砂に吹かれて.md "wikilink")**
-      - 作詞: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+      - 作詞: [中島みゆき](../Page/中島みゆき.md "wikilink")
       - 8thシングル、アルバム初収録
 2.  **秋子**
       - 作詞: 中島みゆき

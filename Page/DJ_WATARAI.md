@@ -142,12 +142,12 @@
       - 2.「H.I.P feat.MUMMY-D,Tiara Produced by DJ WATARAI」
   - [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")　『街風』　（2007年10月17日）
       - 2.「MIC STORY feat.ILL-BOSTINO (The Blue Herb)」
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")　『I'm READY』　（2009年8月26日）
+  - [Sweep](../Page/Sweep.md "wikilink")　『I'm READY』　（2009年8月26日）
       - 3.「Jump around Produced」
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink") 『マニフェスト』 （2010年2月1日）
       - 3.「H.E.E.L.」
       - 13.「ラストヴァース」
-  - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")　『LOVE BEATS』 (2010年3月24日）
+  - [Sweep](../Page/Sweep.md "wikilink")　『LOVE BEATS』 (2010年3月24日）
       - 2.「Sweep×DJ WATARAI / Dance hall lovers feat. DABO」
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink") 『POP LIFE』（2011年3月2日）
       - 1.「After The Last -Intro」

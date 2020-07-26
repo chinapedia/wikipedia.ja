@@ -1,7 +1,7 @@
 > この記事は[ZARD Cruising \& Live 〜限定盤ライヴCD〜](https://ja.wikipedia.org/wiki/ZARD_Cruising_\&_Live_〜限定盤ライヴCD〜)から翻訳されています。
 
 
-『**ZARD Cruising & Live 〜限定盤ライヴCD〜**』（ザード・クルージング・アンド・ライブ・げんていばんライブシーディー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[2000年](../Page/2000年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[ライブアルバムである](../Page/ライブ・アルバム.md "wikilink")。
+『**ZARD Cruising & Live 〜限定盤ライヴCD〜**』（ザード・クルージング・アンド・ライブ・げんていばんライブシーディー）は、[ZARD](../Page/ZARD.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[ライブアルバムである](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -60,7 +60,7 @@
   - 上記ゲームを飛ばしたい場合は、CD-ROMの中のMEDIAフォルダからMOVIE.MOVを直プレイする事が可能。また発売当時にはゲームを飛ばす隠しコマンドがあり、ShiftキーとZキーを同時に押すと直接ライブ映像の視聴が可能である。
   - ライブ映像の最後には「永遠 (English Version)」が流れる（1コーラスのみ）。現時点では、このCD-ROMとベスト・アルバム『ZARD BEST The Single Collection 〜軌跡〜』の3次特典CD-ROM以外で聴くことはできない（コンサート会場のみで発売およびファンクラブ会員にプレゼントされた[リミックス](../Page/リミックス.md "wikilink")＆レア音源集『Cool City Production Vol.6 ZARD 〜WHAT RARE TRACKS\!〜』に収録されているリミックス・バージョン「永遠 (Till the end of time mix)」として聴くことは可能である）。
 
-### [VHS](../Page/VHS.md "wikilink")ビデオカセット [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink") making of CRUISING & LIVE The Day Of 1999.8.31
+### [VHS](../Page/VHS.md "wikilink")ビデオカセット [ZARD](../Page/ZARD.md "wikilink") making of CRUISING & LIVE The Day Of 1999.8.31
 
 `～8月30日（ライブ前日）～`
 `18:00　機材車、到着`

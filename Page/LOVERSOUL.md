@@ -17,7 +17,7 @@
 
   - 2005年4月28日 - [盗んでMy Heart](https://ja.wikipedia.org/wiki/盗んでMy_Heart "wikilink")
   - [2006年](../Page/2006年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - [春萌 〜はるもい〜](https://ja.wikipedia.org/wiki/春萌_〜はるもい〜 "wikilink")
-  - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [春萌 〜はるもい〜 沙緒アフター](https://ja.wikipedia.org/wiki/春萌_〜はるもい〜 "wikilink")
+  - [2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") - [春萌 〜はるもい〜 沙緒アフター](https://ja.wikipedia.org/wiki/春萌_〜はるもい〜 "wikilink")
   - 2007年[8月24日](../Page/8月24日.md "wikilink") - [STEP×STEADY](https://ja.wikipedia.org/wiki/STEP×STEADY "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [LOVERSOULファンディスク 〜恋魂詰〜](https://ja.wikipedia.org/wiki/LOVERSOULファンディスク_〜恋魂詰〜 "wikilink")
   - [2009年](../Page/2009年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink") - [姫さまはプリンセス](https://ja.wikipedia.org/wiki/姫さまはプリンセス "wikilink")

@@ -431,7 +431,7 @@ Come over (MUSIKADeLIK Chillstep Mix) / edge (wata BeatRockStyle Mix)</p></td>
 
 #### iyunaline (現Solfa)
 
-  - **iyunaline200612** (iyuna [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売)
+  - **iyunaline200612** (iyuna [2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売)
 
 <!-- end list -->
 

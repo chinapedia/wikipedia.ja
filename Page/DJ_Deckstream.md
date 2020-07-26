@@ -73,7 +73,7 @@
   - let go -Deckstream Remix- / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - Lovin' U 〜Deckstream Remix〜 / [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")
   - Summer Time Love (Deckstream Remix feat. Arkitec & [L-VOKAL](../Page/L-VOKAL.md "wikilink")) / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves 日之内エミ & [Ryohei](../Page/Ryohei.md "wikilink")
-  - LOVE ME, HATE THE GAME -DJ Deckstream Remix- / m-flo loves Chan, [Thaitanium](https://ja.wikipedia.org/wiki/:en:Thaitanium "wikilink"), [Edison Chen](https://ja.wikipedia.org/wiki/陳冠希 "wikilink"), [Ryohei](../Page/Ryohei.md "wikilink")
+  - LOVE ME, HATE THE GAME -DJ Deckstream Remix- / m-flo loves Chan, [Thaitanium](https://ja.wikipedia.org/wiki/:en:Thaitanium "wikilink"), [Edison Chen](../Page/陳冠希.md "wikilink"), [Ryohei](../Page/Ryohei.md "wikilink")
   - 1.000,000 MONSTERS ATTACK \~Deckstream Remix\~ / [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")
   - Keeping a Move (DJ Deckstream Remix) / LIL'
   - Onepeace feat. Aaron Phiri (DJ Deckstream remix) / NOMAK
@@ -102,7 +102,7 @@
       - GOODIE MEMORIES
       - E・S・C・A・P・E
   - TIME IS HONEY / [L-VOKAL](../Page/L-VOKAL.md "wikilink")
-  - I'll be back feat. Substantial /[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")×DJ Deckstream
+  - I'll be back feat. Substantial /[Sweep](../Page/Sweep.md "wikilink")×DJ Deckstream
 
 ### プロデュース
 

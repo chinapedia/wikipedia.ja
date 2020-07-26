@@ -159,7 +159,7 @@
   - [MUSIC FREAKS](../Page/MUSIC_FREAKS.md "wikilink")（山森のみ）（[FM802](../Page/FM802.md "wikilink")：2008年10月 - 2009年9月）
       - 桃野陽介（[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")）と隔週交代で出演していた。
   - [BODYWILD presents ROCK'A'STOCK ～Positive Switch～](https://ja.wikipedia.org/wiki/BODYWILD_presents_ROCK'A'STOCK_～Positive_Switch～ "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")・[FM OSAKA](../Page/エフエム大阪.md "wikilink")：2009年10月 - 2010年9月）※FM OSAKAは2010年1月からの放送。（山森・豊田）
-  - [Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")/beポンキッキーズ（畠山のみ）（[BSフジ](../Page/BSフジ.md "wikilink")：2010年4月 - 2012年3月）
+  - [Beポンキッキ](../Page/Beポンキッキ.md "wikilink")/beポンキッキーズ（畠山のみ）（[BSフジ](../Page/BSフジ.md "wikilink")：2010年4月 - 2012年3月）
 
 ## 関連項目
 

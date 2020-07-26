@@ -141,7 +141,7 @@
 
 ## 参考文献
 
-  - 『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
+  - 『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")
       -
       -
 ## 外部リンク

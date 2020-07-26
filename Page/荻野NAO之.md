@@ -5,7 +5,7 @@
 
 「[モンゴロイド](../Page/モンゴロイド.md "wikilink")文化圏の暮らし」と「妹（いも）の力」をメインテーマとする。
 
-作品様式は[ドキュメンタリー・アート](https://ja.wikipedia.org/wiki/ドキュメンタリー・アート "wikilink")。特に荻野が合計10年暮らした[メキシコ](../Page/メキシコ.md "wikilink")の[先住民](https://ja.wikipedia.org/wiki/先住民 "wikilink")の祭や、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の[花街](../Page/花街.md "wikilink")、京都・[太秦](../Page/太秦.md "wikilink")の映画撮影所内の写真作品などで知られる。2006年[ニューヨーク](../Page/ニューヨーク.md "wikilink")で開催された個展「Scent of Tibet」は、[マグナム・フォト](../Page/マグナム・フォト.md "wikilink")の[写真家](../Page/写真家.md "wikilink")[Steve McCurryと共に旅して撮影されたもの](https://ja.wikipedia.org/wiki/Steve_McCurry "wikilink")。日本語、英語、スペイン語を話す。
+作品様式は[ドキュメンタリー・アート](https://ja.wikipedia.org/wiki/ドキュメンタリー・アート "wikilink")。特に荻野が合計10年暮らした[メキシコ](../Page/メキシコ.md "wikilink")の[先住民](https://ja.wikipedia.org/wiki/先住民 "wikilink")の祭や、[京都](../Page/京都.md "wikilink")の[花街](../Page/花街.md "wikilink")、京都・[太秦](../Page/太秦.md "wikilink")の映画撮影所内の写真作品などで知られる。2006年[ニューヨーク](../Page/ニューヨーク.md "wikilink")で開催された個展「Scent of Tibet」は、[マグナム・フォト](../Page/マグナム・フォト.md "wikilink")の[写真家](../Page/写真家.md "wikilink")[Steve McCurryと共に旅して撮影されたもの](https://ja.wikipedia.org/wiki/Steve_McCurry "wikilink")。日本語、英語、スペイン語を話す。
 
 ## 経歴
 
@@ -49,8 +49,8 @@
 
 ## フェスティバル
 
-  - 2014年、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の国際写真フェスティバル「2014 第2回KYOTOGRAPHIEサテライト」個展＠2会場
-  - 2013年、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の国際写真フェスティバル「2013 第1回KYOTOGRAPHIEサテライト」個展
+  - 2014年、[京都](../Page/京都.md "wikilink")の国際写真フェスティバル「2014 第2回KYOTOGRAPHIEサテライト」個展＠2会場
+  - 2013年、[京都](../Page/京都.md "wikilink")の国際写真フェスティバル「2013 第1回KYOTOGRAPHIEサテライト」個展
   - 2012年、[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")国際写真フェスティバル「2012 Tashkentale Photo Festival」招聘作家、個展2会場
   - 2011年、[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")「Taiwan Photo 2011」
   - 2008年、ウズベキスタン国際写真フェスティバル「2008 Tashkentale Photo Festival」日本代表、個展

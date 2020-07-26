@@ -1,7 +1,7 @@
 > この記事は[星野みく \(AV女優\)](https://ja.wikipedia.org/wiki/星野みく_\(AV女優\))から翻訳されています。
 
 
-**星野 みく**（ほしの みく、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月15日](../Page/8月15日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[AV女優](../Page/AV女優.md "wikilink")。
+**星野 みく**（ほしの みく、[1986年](../Page/1986年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[AV女優](../Page/AV女優.md "wikilink")。
 
 趣味・特技は[ショッピング](../Page/買物.md "wikilink")。
 

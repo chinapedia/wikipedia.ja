@@ -144,7 +144,7 @@
       - [樽見鉄道ハイモ295-310形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-310形気動車 "wikilink")
       - [樽見鉄道ハイモ295-510形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-510形気動車 "wikilink")\[4\]
       - [信楽高原鐵道SKR310形気動車](../Page/信楽高原鐵道SKR310形気動車.md "wikilink")
-      - [三木鉄道ミキ300形気動車](https://ja.wikipedia.org/wiki/三木鉄道ミキ300形気動車 "wikilink")
+      - [三木鉄道ミキ300形気動車](../Page/三木鉄道ミキ300形気動車.md "wikilink")
           - →[樽見鉄道ハイモ295-610形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-610形気動車 "wikilink")
           - →北条鉄道フラワ2000形気動車
           - →[ひたちなか海浜鉄道](../Page/ひたちなか海浜鉄道.md "wikilink")ミキ300形気動車

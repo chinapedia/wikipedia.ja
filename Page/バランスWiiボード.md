@@ -9,7 +9,7 @@
 
 『[Wii Fit](../Page/Wii_Fit.md "wikilink")』と『Wii Fit Plus』に同梱されているのみだったが、2013年10月31日よりオンライン限定で単体販売が行われる（後述）。カラーは「シロ」、「クロ」。型番は「RVL-021」。
 
-[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")と同様に、本体との通信は[Bluetooth](../Page/Bluetooth.md "wikilink")による無線通信を利用する（4Pに接続される）。電源は単三乾電池4本を使用する。
+[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")と同様に、本体との通信は[Bluetooth](../Page/Bluetooth.md "wikilink")による無線通信を利用する（4Pに接続される）。電源は単三乾電池4本を使用する。
 
 バランスWiiボードは、[計量法](../Page/計量法.md "wikilink")\[1\]に定められた技術水準で製造されており、[体重計](../Page/体重計.md "wikilink")として正式に認定されている（ボード裏や取扱説明書には家庭用計量器の[検定証印](https://ja.wikipedia.org/wiki/検定証印 "wikilink")を示す「正マーク」が付記されている）。ただし、バランスWiiボード自体には測定した体重を表示する画面がないため、前述の認定は体重表示をするためのWii専用ソフト（現在は『Wii Fit』および『Wii Fit Plus』のみ）とセットで用いることが条件となる。よって2013年9月時点まで、バランスWiiボードを販売する際は、体重表示に対応したWii専用ソフトを必ず付属して販売しなくてはならないこととなるため、バランスWiiボードのみの販売や、体重表示に対応していないソフトとバランスWiiボードをセットにした同梱版の販売はされていなかったが、「『Wii Fit U』キャンペーン版」の発表とともに、2013年10月31日より、オンライン限定で単体販売されることが発表された\[2\]。
 
@@ -49,7 +49,7 @@
   - [ロックンロールクライマー](https://ja.wikipedia.org/wiki/ロックンロールクライマー "wikilink")（任天堂）
   - [アイソメトリック＆カラテエクササイズ Wiiで骨盤Fitness](https://ja.wikipedia.org/wiki/アイソメトリック＆カラテエクササイズ_Wiiで骨盤Fitness "wikilink")（[IEインスティテュート](../Page/IEインスティテュート.md "wikilink")）
   - [東京フレンドパークII 決定版 〜みんなで挑戦\!体感アトラクション〜](https://ja.wikipedia.org/wiki/東京フレンドパークII_決定版_〜みんなで挑戦!体感アトラクション〜 "wikilink")（[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")）
-  - [直感！ばらんす★らびりんす](https://ja.wikipedia.org/wiki/直感！ばらんす★らびりんす "wikilink")（[ゲームロフト](https://ja.wikipedia.org/wiki/ゲームロフト "wikilink")）
+  - [直感！ばらんす★らびりんす](https://ja.wikipedia.org/wiki/直感！ばらんす★らびりんす "wikilink")（[ゲームロフト](../Page/ゲームロフト.md "wikilink")）
   - [ダンスダンスレボリューション ミュージックフィット](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）
   - [スーパーモンキーボール アスレチック](../Page/スーパーモンキーボール.md "wikilink")（セガ）
   - [EA SPORTS アクティブ パーソナルトレーナー Wii 6週間集中ひきしめプログラム](https://ja.wikipedia.org/wiki/EA_SPORTS_アクティブ_パーソナルトレーナー_Wii_6週間集中ひきしめプログラム "wikilink")（エレクトリックアーツ）

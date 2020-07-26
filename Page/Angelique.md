@@ -7,7 +7,7 @@
 
 [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にフォーライフレコード（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）より、シングル「F ＜エフ＞/Just wanna be with you」でスクールガール・ポップグループとしてデビューを果たす。中学生ユニットとして話題を呼んだ。以後、シングル「電話するね/風鈴」、「雪が降るまえに」をリリース。[2001年](../Page/2001年.md "wikilink")、作詞とジャケットを[326がコラボレーションした](../Page/326_\(イラストレーター\).md "wikilink")4枚目のシングル「蕾 tubomi」は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")キャンペーン・ソングとなり話題になる。同年[8月22日](../Page/8月22日.md "wikilink")に5枚目のシングル「好きなのに…/夢の中へ」をリリースする。
 
-現在ユニットは解散され、岸本は、[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")に所属、[2007年](../Page/2007年.md "wikilink")4月から「[YAMAMAN presents MUSIC SALAD FROM U-kari STUDIO](https://ja.wikipedia.org/wiki/YAMAMAN_presents_MUSIC_SALAD_FROM_U-kari_STUDIO "wikilink")」（[bayfm78](../Page/ベイエフエム.md "wikilink")）の火、木曜日の担当[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")としてレギュラー出演。高橋は、芸名[emica](https://ja.wikipedia.org/wiki/emica "wikilink")として、[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[banyan records](https://ja.wikipedia.org/wiki/banyan_records "wikilink")（バンヤンレコード）より、シングル「君と僕の想い/Shining」で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。、都内を中心にライブ活動を行っている。 小川は、[canon](https://ja.wikipedia.org/wiki/canon "wikilink")というユニットを結成、芸名[Chihiro](../Page/Chihiro.md "wikilink")として、インディーズ活動を行っている。
+現在ユニットは解散され、岸本は、[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")に所属、[2007年](../Page/2007年.md "wikilink")4月から「[YAMAMAN presents MUSIC SALAD FROM U-kari STUDIO](https://ja.wikipedia.org/wiki/YAMAMAN_presents_MUSIC_SALAD_FROM_U-kari_STUDIO "wikilink")」（[bayfm78](../Page/ベイエフエム.md "wikilink")）の火、木曜日の担当[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")としてレギュラー出演。高橋は、芸名[emica](https://ja.wikipedia.org/wiki/emica "wikilink")として、[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[banyan records](https://ja.wikipedia.org/wiki/banyan_records "wikilink")（バンヤンレコード）より、シングル「君と僕の想い/Shining」で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。、都内を中心にライブ活動を行っている。 小川は、[canon](https://ja.wikipedia.org/wiki/canon "wikilink")というユニットを結成、芸名[Chihiro](../Page/Chihiro.md "wikilink")として、インディーズ活動を行っている。
 
 ## メンバー
 
@@ -25,7 +25,7 @@
         出身地：[埼玉県](../Page/埼玉県.md "wikilink")
   - 小川千尋（おがわ ちひろ）
       -
-        生年月日：[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")
+        生年月日：[1986年](../Page/1986年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")
         星座：魚座
         血液型：O型
         出身地：[千葉県](../Page/千葉県.md "wikilink")

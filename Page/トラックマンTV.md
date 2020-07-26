@@ -76,7 +76,7 @@
 
 [JRA-VAN](https://ja.wikipedia.org/wiki/JRA-VAN "wikilink")協力の下、競馬データベースソフト[TARGET frontierやオンラインデータベースJRA](https://ja.wikipedia.org/wiki/TARGET_frontier "wikilink")-VAN NEXTなどを用いて、データ予想を行う。（2008年まで[森本さやか](../Page/森本さやか_\(タレント\).md "wikilink")、[佐々木梨絵](../Page/佐々木梨絵.md "wikilink")が隔週で担当）
 
-2009年は、GI開催週を中心に年間10回の放送となり、2010年からは「[明日の勝ち馬検討社](https://ja.wikipedia.org/wiki/明日の勝ち馬検討社 "wikilink")」→「[教えてVANdaくん\!_勝ち馬リサーチャー](https://ja.wikipedia.org/wiki/教えてVANdaくん!_勝ち馬リサーチャー "wikilink")」→「[VANで勝ち馬さがしてみませんか](https://ja.wikipedia.org/wiki/VANで勝ち馬さがしてみませんか "wikilink")」に引き継がれている。
+2009年は、GI開催週を中心に年間10回の放送となり、2010年からは「[明日の勝ち馬検討社](../Page/明日の勝ち馬検討社.md "wikilink")」→「[教えてVANdaくん\!_勝ち馬リサーチャー](https://ja.wikipedia.org/wiki/教えてVANdaくん!_勝ち馬リサーチャー "wikilink")」→「[VANで勝ち馬さがしてみませんか](https://ja.wikipedia.org/wiki/VANで勝ち馬さがしてみませんか "wikilink")」に引き継がれている。
 
 ## 関連項目
 

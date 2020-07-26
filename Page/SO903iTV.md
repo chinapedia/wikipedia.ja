@@ -24,14 +24,14 @@
   - アンテナ - 本体側面にある。アンテナを立てると、その下にあるワンセグ専用キーで操作可能。
   - ワンセグ対応[FOMA](../Page/FOMA.md "wikilink")として最薄の**19.5mm**（[2007年](../Page/2007年.md "wikilink")1月15日現在）と発表されているが、パンプレットには**19.9mm**と記載されている。
 
-| 主な対応サービス                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")                            |
-| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")                          |
-| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                                          |
-| [着もじ](../Page/着もじ.md "wikilink")                                                                                            |
-| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／~~[バイオ認証](../Page/バイオ認証.md "wikilink")~~                        |
-| ~~[きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")~~／~~[マチキャラ](https://ja.wikipedia.org/wiki/マチキャラ "wikilink")~~ |
+| 主な対応サービス                                                                                                 |
+| -------------------------------------------------------------------------------------------------------- |
+| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")         |
+| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")       |
+| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                       |
+| [着もじ](../Page/着もじ.md "wikilink")                                                                         |
+| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／~~[バイオ認証](../Page/バイオ認証.md "wikilink")~~     |
+| ~~[きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")~~／~~[マチキャラ](../Page/マチキャラ.md "wikilink")~~ |
 
 ※[バックグラウンド](https://ja.wikipedia.org/wiki/バックグラウンド "wikilink")再生には非対応。
 

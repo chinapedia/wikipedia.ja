@@ -109,7 +109,7 @@ Image:BRDM-2-Command-latrun-2.jpg|BRDM-2U Image:Strieła-1 NTW 9 93.jpg|9K31 ス
 
 :; 『[大戦略シリーズ](../Page/大戦略シリーズ.md "wikilink")』
 
-:; 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+:; 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
 
   -
 

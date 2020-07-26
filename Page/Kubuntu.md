@@ -11,17 +11,17 @@ Kubuntuという名称は、派生元の[Linuxディストリビューション]
 
 二つのディストリビューションの主な共通点と相違点は、次の通り。
 
-| ソフトウェア                                       | Ubuntu                                                              | Kubuntu                                                                   |
-| -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| カーネル & Core                                  | [Linux Kernel](../Page/Linuxカーネル.md "wikilink") & Ubuntu Core       |                                                                           |
-| [ウィンドウシステム](../Page/ウィンドウシステム.md "wikilink") | [Wayland](https://ja.wikipedia.org/wiki/Wayland "wikilink")         | [X.Org Server](../Page/X.Org_Server.md "wikilink")                        |
-| サウンド                                         | [PulseAudio](https://ja.wikipedia.org/wiki/PulseAudio "wikilink")   |                                                                           |
-| マルチメディア                                      | [GStreamer](../Page/GStreamer.md "wikilink")                        |                                                                           |
-| デスクトップ                                       | [GNOME](../Page/GNOME.md "wikilink")                                | [Plasma Desktop](https://ja.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink") |
-| ツールキット                                       | [GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink"), Clutter & Qt | [Qt](../Page/Qt.md "wikilink")                                            |
-| ウェブブラウザ                                      | [Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")         |                                                                           |
-| オフィススイート                                     | [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") |                                                                           |
-| 電子メール & PIM                                  | [Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")            |                                                                           |
+| ソフトウェア                                       | Ubuntu                                                              | Kubuntu                                                |
+| -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------ |
+| カーネル & Core                                  | [Linux Kernel](../Page/Linuxカーネル.md "wikilink") & Ubuntu Core       |                                                        |
+| [ウィンドウシステム](../Page/ウィンドウシステム.md "wikilink") | [Wayland](https://ja.wikipedia.org/wiki/Wayland "wikilink")         | [X.Org Server](../Page/X.Org_Server.md "wikilink")     |
+| サウンド                                         | [PulseAudio](https://ja.wikipedia.org/wiki/PulseAudio "wikilink")   |                                                        |
+| マルチメディア                                      | [GStreamer](../Page/GStreamer.md "wikilink")                        |                                                        |
+| デスクトップ                                       | [GNOME](../Page/GNOME.md "wikilink")                                | [Plasma Desktop](../Page/Plasma_\(KDE\).md "wikilink") |
+| ツールキット                                       | [GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink"), Clutter & Qt | [Qt](../Page/Qt.md "wikilink")                         |
+| ウェブブラウザ                                      | [Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")         |                                                        |
+| オフィススイート                                     | [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") |                                                        |
+| 電子メール & PIM                                  | [Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")            |                                                        |
 
 ## 必要環境
 

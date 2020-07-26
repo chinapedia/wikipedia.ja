@@ -26,7 +26,7 @@
 5.  **微熱**　（4:32）
       - 作曲：[はたけ](../Page/はたけ.md "wikilink") 、編曲：CHOKKAKU
 6.  **[激情](../Page/激情_\(工藤静香の曲\).md "wikilink")**　（4:38）
-      - 作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
+      - 作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
 7.  **例えば**　（5:14）
       - 作曲：はたけ、編曲：CHOKKAKU、コーラスアレンジ：佐々木久美
 8.  **摩天楼**　（4:38）

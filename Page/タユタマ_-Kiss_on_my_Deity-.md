@@ -5,7 +5,7 @@
 
 「タユタマ」は「揺蕩う魂（たゆたうたましい）」の略、「deity」は「神、女神」の意味。本編エンドロールや公式サイトなどでは、「kiss on my deity」を副題とする場合もある（kissとdeityの頭が小文字）。タイトルロゴは大文字になっている。
 
-[角川書店](../Page/角川書店.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")」2009年1月号（2008年11月26日発売）において[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版（漫画：[ユキヲ](../Page/ユキヲ.md "wikilink")、シナリオ：[ユウヤ](https://ja.wikipedia.org/wiki/ユウヤ "wikilink")）が連載開始。[2009年](../Page/2009年.md "wikilink")4月から6月までは[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された。
+[角川書店](../Page/角川書店.md "wikilink")の[漫画雑誌](../Page/漫画雑誌.md "wikilink")「[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")」2009年1月号（2008年11月26日発売）において[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版（漫画：[ユキヲ](../Page/ユキヲ.md "wikilink")、シナリオ：[ユウヤ](https://ja.wikipedia.org/wiki/ユウヤ "wikilink")）が連載開始。[2009年](../Page/2009年.md "wikilink")4月から6月までは[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された。
 
 また、ファンディスクの『**タユタマ -It's happy days-**』が2009年5月29日に発売された。Xbox360版は5pb.より2009年7月30日に発売する予定だったが、諸事情で11月5日に延期\[1\]されている。Xbox360版ではWindows版にあったHシーンは、CGの差し替えとテキストの修正によって性的描写を排除されており、純粋な恋愛AVGとなっている。
 
@@ -124,7 +124,7 @@
 ### \-Kiss on my Deity-
 
   - ファーストオープニングテーマ「こんな春の空を」
-    歌 - [霜月はるか](../Page/霜月はるか.md "wikilink") / 作詞 - 白峰美津子 / 作曲 - [虹音](../Page/松田彬人.md "wikilink") / 編曲 - [井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink") / 製作 - [TEAM Entertainment](https://ja.wikipedia.org/wiki/ティームエンタテインメント "wikilink")
+    歌 - [霜月はるか](../Page/霜月はるか.md "wikilink") / 作詞 - 白峰美津子 / 作曲 - [虹音](../Page/松田彬人.md "wikilink") / 編曲 - [井上日徳](../Page/井上日徳.md "wikilink") / 製作 - [TEAM Entertainment](https://ja.wikipedia.org/wiki/ティームエンタテインメント "wikilink")
   - セカンドオープニングテーマ「瞬間スプライン」
     歌 - [Kicco](https://ja.wikipedia.org/wiki/Kicco "wikilink") / 作詞・作曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲 - [村上純](https://ja.wikipedia.org/wiki/村上純_\(音楽家\) "wikilink") / 製作 - [5pb.](../Page/5pb..md "wikilink")
   - エンディングテーマ「虹を見つけたような色で」

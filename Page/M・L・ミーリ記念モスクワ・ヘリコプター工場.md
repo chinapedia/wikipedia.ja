@@ -23,15 +23,15 @@
   - [Mi-6](../Page/Mi-6_\(航空機\).md "wikilink")：1957年、大型輸送ヘリコプター
   - [V-7](https://ja.wikipedia.org/wiki/V-7_\(航空機\) "wikilink")：1950年代末、実験4座ヘリコプター
   - [Mi-8](../Page/Mi-8_\(航空機\).md "wikilink")：1960年代末、多用途ヘリコプター
-  - [Mi-9](https://ja.wikipedia.org/wiki/Mi-9_\(航空機\) "wikilink")
+  - [Mi-9](../Page/Mi-9_\(航空機\).md "wikilink")
   - [Mi-10](https://ja.wikipedia.org/wiki/Mi-10_\(航空機\) "wikilink")：1962-1963　スカイクレーン
   - [Mi-12](https://ja.wikipedia.org/wiki/Mi-12_\(航空機\) "wikilink")：V-12として知られる。試作機2機のみ世界最大のヘリコプター
-  - [Mi-13](https://ja.wikipedia.org/wiki/Mi-17_\(航空機\) "wikilink")
+  - [Mi-13](../Page/Mi-17_\(航空機\).md "wikilink")
   - [Mi-14](../Page/Mi-14_\(航空機\).md "wikilink")：1978年、対潜哨戒
   - [V-16](https://ja.wikipedia.org/wiki/V-16_\(航空機\) "wikilink")：大型貨物/旅客輸送
-  - [Mi-17](https://ja.wikipedia.org/wiki/Mi-17_\(航空機\) "wikilink")：1970年代末、中型多用途ヘリコプター
-  - [Mi-18](https://ja.wikipedia.org/wiki/Mi-18_\(航空機\) "wikilink")：試作機のみ
-  - [Mi-19](https://ja.wikipedia.org/wiki/Mi-9_\(航空機\) "wikilink")：
+  - [Mi-17](../Page/Mi-17_\(航空機\).md "wikilink")：1970年代末、中型多用途ヘリコプター
+  - [Mi-18](../Page/Mi-18_\(航空機\).md "wikilink")：試作機のみ
+  - [Mi-19](../Page/Mi-9_\(航空機\).md "wikilink")：
   - [Mi-20](https://ja.wikipedia.org/wiki/Mi-20_\(航空機\) "wikilink")：超軽量ヘリコプター
   - [Mi-22](../Page/Mi-22_\(航空機\).md "wikilink")：計画のみ
   - [Mi-24](../Page/Mi-24_\(航空機\).md "wikilink")：1978年、大型戦闘ヘリコプター

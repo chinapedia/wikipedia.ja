@@ -17,7 +17,7 @@
       - 作詞：畑亜貴、作曲：[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")、編曲：[ms-jacky](https://ja.wikipedia.org/wiki/ms-jacky "wikilink")
     <!-- end list -->
       -
-        [milktubのベストアルバムにも収録](https://ja.wikipedia.org/wiki/Milktub_15th_ANNIVERSARY_BEST_ALBUM_BPM200_ROCK'N'ROLL_SHOW "wikilink")
+        [milktubのベストアルバムにも収録](../Page/Milktub_15th_ANNIVERSARY_BEST_ALBUM_BPM200_ROCK'N'ROLL_SHOW.md "wikilink")
 6.  **君の声 僕の指 ふたりの夢**
       - 作詞・作曲：橋本みゆき、編曲：ms-jacky
 7.  **約束の日へ**

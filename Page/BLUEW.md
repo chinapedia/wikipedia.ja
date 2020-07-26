@@ -5,7 +5,7 @@
 
 ## 来歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 結成。
+  - [1986年](../Page/1986年.md "wikilink") - 結成。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - アルバム「BLUEW」でデビュー。その後、鮫島一友が脱退し、石渡道明が加入。
   - [1989年](../Page/1989年.md "wikilink") - 解散。その後、各メンバーの交流は現在でも続いている。
 

@@ -27,10 +27,10 @@ PLIME（プライム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilin
   - Nori（[9月9日](../Page/9月9日.md "wikilink") - ）（2008年3月22日加入-2009年5月30日脱退）
   - 高梨桃子（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月27日](../Page/1月27日.md "wikilink") - ）（2004年8月結成-2008年5月14日脱退）
   - 中島愛（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
-  - 斉藤彩（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月29日](../Page/11月29日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
-  - 島沙織（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
-  - 草野真梨絵（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月30日](../Page/8月30日.md "wikilink") - ）（2004年8月結成-2007年8月5日脱退）
-  - [若林愛](../Page/若林愛.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月26日](../Page/7月26日.md "wikilink") - ）（2004年8月結成-2006年9月脱退）
+  - 斉藤彩（[1986年](../Page/1986年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
+  - 島沙織（[1986年](../Page/1986年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）（2004年8月結成-2008年3月2日脱退）
+  - 草野真梨絵（[1986年](../Page/1986年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") - ）（2004年8月結成-2007年8月5日脱退）
+  - [若林愛](../Page/若林愛.md "wikilink")（[1986年](../Page/1986年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink") - ）（2004年8月結成-2006年9月脱退）
 
 ## エピソード
 

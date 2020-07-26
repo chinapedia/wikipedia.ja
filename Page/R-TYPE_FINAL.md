@@ -1,7 +1,7 @@
 > この記事は[R-TYPE FINAL](https://ja.wikipedia.org/wiki/R-TYPE_FINAL)から翻訳されています。
 
 
-『**R-TYPE FINAL**』（アールタイプファイナル）は、[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")によって2003年7月に発売された[PlayStation 2専用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。[アイレム株式会社の版権を引き継ぎ制作された作品で](../Page/アピエス.md "wikilink")、[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")シリーズ最終作と銘打っていたが、[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[戦略シミュレーションゲーム](https://ja.wikipedia.org/wiki/戦略シミュレーションゲーム "wikilink")として『[R-TYPE TACTICS](../Page/R-TYPE_TACTICS.md "wikilink")』が最新作として発売された（『R-TYPE』という名の**STGは**、**アイレムから**もう出る事は無いと説明書には明記されている）。
+『**R-TYPE FINAL**』（アールタイプファイナル）は、[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")によって2003年7月に発売された[PlayStation 2専用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。[アイレム株式会社の版権を引き継ぎ制作された作品で](../Page/アピエス.md "wikilink")、[R-TYPE](../Page/R-TYPE.md "wikilink")シリーズ最終作と銘打っていたが、[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[戦略シミュレーションゲーム](https://ja.wikipedia.org/wiki/戦略シミュレーションゲーム "wikilink")として『[R-TYPE TACTICS](../Page/R-TYPE_TACTICS.md "wikilink")』が最新作として発売された（『R-TYPE』という名の**STGは**、**アイレムから**もう出る事は無いと説明書には明記されている）。
 
 ## 概要
 

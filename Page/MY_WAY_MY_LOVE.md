@@ -1239,7 +1239,7 @@ BLWT-004:UK</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p><a href="../Page/1月24日.md" title="wikilink">1月24日</a> 千葉LIVE SPOT LOOK<br />
-<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> 三軒茶屋HEAVEN'S DOOR<br />
+<a href="../Page/1月26日.md" title="wikilink">1月26日</a> 三軒茶屋HEAVEN'S DOOR<br />
 ・出演: THE CREATOR OF / ヒデ・タバタ＆サトジマ(fromウルトラビデ,ゼニゲバ) / <strong>my way my love</strong> / COCOON PIT 灰汁(gee&amp;ボンスター)<br />
 <a href="../Page/2月22日.md" title="wikilink">2月22日</a> 吉祥寺PLANET K<br />
 <a href="https://ja.wikipedia.org/wiki/2月24日" title="wikilink">2月24日</a> 横浜7th AVENUE<br />
@@ -1402,7 +1402,7 @@ BLWT-004:UK</p></td>
 ・出演: Valet / <strong>my way my love</strong><br />
 <a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a> St. Mary's University, Winona, MN, USA<br />
 <a href="../Page/1月25日.md" title="wikilink">1月25日</a> The Setlist, Warensburg, MO, USA<br />
-<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> The Reverb, Cedar Falls, IA, USA<br />
+<a href="../Page/1月26日.md" title="wikilink">1月26日</a> The Reverb, Cedar Falls, IA, USA<br />
 <a href="../Page/1月28日.md" title="wikilink">1月28日</a> Lemp Arts Center, St. Louis, MO, USA<br />
 <a href="../Page/1月29日.md" title="wikilink">1月29日</a> The Rodeo, Dekalb, IL, USA<br />
 ・出演: The Narrator / Bobby Conn and The Glass Gypsies / <strong>my way my love</strong><br />
@@ -2032,7 +2032,7 @@ BLWT-004:UK</p></td>
 <p>全29公演<br />
 <a href="../Page/1月25日.md" title="wikilink">1月25日</a> 本八幡ROUTE FOURTEEN<br />
 ・出演: FOX LOCO PHANTOM / GNOSIS / <strong>my way my love</strong><br />
-<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> 新宿LOFT<br />
+<a href="../Page/1月26日.md" title="wikilink">1月26日</a> 新宿LOFT<br />
 ・出演: STANCE PUNKS / 原爆オナニーズ / <strong>my way my love</strong> / LINK / 毛皮のマリーズ<br />
 <a href="../Page/2月5日.md" title="wikilink">2月5日</a> 下北沢CLUB 251<br />
 ・出演: <strong>my way my love</strong> / Nu- / 六畳人間 / Large House Satisfaction<br />
@@ -3164,7 +3164,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / CHARTREUSE / TANGE&amp;TRIPS / POCKET / Tetsuu Ota Trio / 阿部浩二 / モノクロ街道<br />
 <a href="../Page/1月25日.md" title="wikilink">1月25日</a> 神戸ARTHOUSE "超絶絶頂ナイト"<br />
 ・出演: <strong>my way my love</strong> / Route48 / Sacred Grizzly Struggle / スー / TAMI<br />
-<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> 梅田Zeela<br />
+<a href="../Page/1月26日.md" title="wikilink">1月26日</a> 梅田Zeela<br />
 ・出演: <strong>my way my love</strong><br />
 <a href="../Page/1月27日.md" title="wikilink">1月27日</a> 倉敷RED BOX "BLACK NIGHT"<br />
 ・出演: <strong>my way my love</strong> / strike three! / THE JELLY SLONE / plant some life<br />

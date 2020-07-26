@@ -1,7 +1,7 @@
 > この記事は[AGES](https://ja.wikipedia.org/wiki/AGES)から翻訳されています。
 
 
-『**AGES**』（エイジズ）は、[THE ALFEE初の海外](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")）レコーディング・ミキシングであるオリジナル[アルバム](../Page/アルバム.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売。
+『**AGES**』（エイジズ）は、[THE ALFEE初の海外](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")）レコーディング・ミキシングであるオリジナル[アルバム](../Page/アルバム.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売。
 
 ## 概要
 

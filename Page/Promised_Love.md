@@ -10,7 +10,7 @@
 
 この曲で20作目のオリコンベスト10入りを果たす。
 
-タイトル曲は[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[ポールポジション\!愛しき人へ…](../Page/ポールポジション!愛しき人へ….md "wikilink")』の主題歌。このシングルのヒットを受けバラード・ベストアルバム『[Promised Love -THE ALFEE BALLAD SELECTION-](https://ja.wikipedia.org/wiki/Promised_Love_-THE_ALFEE_BALLAD_SELECTION- "wikilink")』（1992年[12月16日](../Page/12月16日.md "wikilink")発売）が発売された。
+タイトル曲は[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[ポールポジション\!愛しき人へ…](../Page/ポールポジション!愛しき人へ….md "wikilink")』の主題歌。このシングルのヒットを受けバラード・ベストアルバム『[Promised Love -THE ALFEE BALLAD SELECTION-](../Page/Promised_Love_-THE_ALFEE_BALLAD_SELECTION-.md "wikilink")』（1992年[12月16日](../Page/12月16日.md "wikilink")発売）が発売された。
 
 [2019年](../Page/2019年.md "wikilink")現在、THE ALFEEのシングルで最も売上の多い作品である。また、初回生産分にはロゴ入りステッカーが封入されていた。
 
@@ -36,7 +36,7 @@
 ## 収録作品
 
   - JOURNEY（\#1,2、London Re-mix）
-  - [Promised Love -THE ALFEE BALLAD SELECTION-](https://ja.wikipedia.org/wiki/Promised_Love_-THE_ALFEE_BALLAD_SELECTION- "wikilink")（\#1）
+  - [Promised Love -THE ALFEE BALLAD SELECTION-](../Page/Promised_Love_-THE_ALFEE_BALLAD_SELECTION-.md "wikilink")（\#1）
   - [THE ALFEE 單曲全集二](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE ALFEE SINGLE HISTORY VOL.IV 1991-1994](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.IV_1991-1994 "wikilink")（\#1,2）
   - [The Alfee Meets Dance](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）

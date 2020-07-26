@@ -133,7 +133,7 @@
 ## 関連項目
 
   - [エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")
-  - [STUDIO ViViD](https://ja.wikipedia.org/wiki/STUDIO_ViViD "wikilink")
+  - [STUDIO ViViD](../Page/STUDIO_ViViD.md "wikilink")
   - [SATURDAY☆NAVIGATION](https://ja.wikipedia.org/wiki/SATURDAY☆NAVIGATION "wikilink") - 次番組。2010年4月3日放送開始、土曜日13:00-14:53。
 
 [Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink")

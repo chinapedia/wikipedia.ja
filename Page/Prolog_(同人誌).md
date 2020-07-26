@@ -226,7 +226,7 @@
 
 <!-- end list -->
 
-  - [蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")
+  - [蒼井優](../Page/蒼井優.md "wikilink")
   - [井端珠里](../Page/井端珠里.md "wikilink")
   - 舞
   - [俵有希子](../Page/俵有希子.md "wikilink")
@@ -391,7 +391,7 @@
 <!-- end list -->
 
   - [木内江莉](../Page/木内江莉.md "wikilink")
-  - [神崎愛瑠](https://ja.wikipedia.org/wiki/神崎愛瑠 "wikilink")
+  - [神崎愛瑠](../Page/神崎愛瑠.md "wikilink")
   - [新井みやび](https://ja.wikipedia.org/wiki/新井みやび "wikilink")
   - 山田帆風
   - [有安杏果](https://ja.wikipedia.org/wiki/有安杏果 "wikilink")

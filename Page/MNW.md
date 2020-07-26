@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - [和風総本家](https://ja.wikipedia.org/wiki/和風総本家 "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")製作）
+  - [和風総本家](../Page/和風総本家.md "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")製作）
 
 <!-- end list -->
 
@@ -172,7 +172,7 @@
   - [イケメンデルの法則](https://ja.wikipedia.org/wiki/イケメンデルの法則 "wikilink")（関西テレビ）
   - [VS嵐](https://ja.wikipedia.org/wiki/VS嵐 "wikilink")
   - [5LDK](https://ja.wikipedia.org/wiki/5LDK "wikilink")
-  - [わかるテレビ](https://ja.wikipedia.org/wiki/わかるテレビ "wikilink")
+  - [わかるテレビ](../Page/わかるテレビ.md "wikilink")
 
 #### テレビ朝日系列
 

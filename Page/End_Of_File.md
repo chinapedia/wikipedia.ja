@@ -15,7 +15,7 @@
 
 [DOS](../Page/DOS_\(OS\).md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")や、多くの[DECオペレーティングシステム](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")（[RT-11](https://ja.wikipedia.org/wiki/RT-11 "wikilink")、[VMSなど](../Page/OpenVMS.md "wikilink")）では、端末からの読み込みでEOFが発生することはない。その代わり、プログラムはソースが端末（または他の「文字デバイス」）であることを認識し、予約された文字やシーケンスをEOFとして解釈する。一般的には、[ASCII](../Page/ASCII.md "wikilink")コード26の[Control-ZがEOFとして解釈される](https://ja.wikipedia.org/wiki/置換文字 "wikilink")。
 
-一部のDOSシェル（[COMMAND.COM](../Page/COMMAND.COM.md "wikilink")）やOSのユーティリティプログラム（[EDLIN](https://ja.wikipedia.org/wiki/EDLIN "wikilink")など）を含むいくつかのMS-DOSプログラムは、テキストファイル内のControl-Zを意味のあるデータの終わりを示すものとして扱い、テキストファイルの書き込みの際にControl-Zを最後に追加する。これは次の2つの理由で行われた。
+一部のDOSシェル（[COMMAND.COM](../Page/COMMAND.COM.md "wikilink")）やOSのユーティリティプログラム（[EDLIN](../Page/EDLIN.md "wikilink")など）を含むいくつかのMS-DOSプログラムは、テキストファイル内のControl-Zを意味のあるデータの終わりを示すものとして扱い、テキストファイルの書き込みの際にControl-Zを最後に追加する。これは次の2つの理由で行われた。
 
   - CP/Mとの後方互換性のため。CP/Mの[ファイルシステム](../Page/ファイルシステム.md "wikilink")では、128バイト長のレコードの倍数でしかファイルの長さを記録していなかったため、ファイルがレコードの途中で終わった場合、意味のあるデータの終わりをマークするためにControl-Zが使用されていた。MS-DOSのファイルシステム([FAT](../Page/File_Allocation_Table.md "wikilink"))では常にファイルの正確なバイト長を記録しているので、MS-DOSではこのようにする必要はなかった。
   - プログラムが入力を読み取る際に、端末とテキストファイルの両方で同じコードを使用することができるようにするため。

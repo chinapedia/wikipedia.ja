@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
       - [What a beautiful moment](../Page/What_a_beautiful_moment.md "wikilink")　2005年6月8日
       - [ZARD Le Portfolio 1991-2006](../Page/ZARD_Le_Portfolio_1991-2006.md "wikilink")　2006年10月25日
 
@@ -57,7 +57,7 @@
   - [B'z](../Page/B'z.md "wikilink")
       - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")
   - [TMG](../Page/TMG_\(バンド\).md "wikilink")
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
   - [J-DISC Being](../Page/J-DISC_Being.md "wikilink")

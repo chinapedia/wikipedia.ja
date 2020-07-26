@@ -127,7 +127,7 @@ FFmpegは、単体では[GUIを持たないツールで](https://ja.wikipedia.or
   - raw PCM [mu-law](https://ja.wikipedia.org/wiki/mu-law "wikilink")
   - raw [PCM](https://ja.wikipedia.org/wiki/PCM "wikilink")
       - [整数](../Page/整数.md "wikilink"): 符号付きまたは符号なし、ビット数は8、16、24、32ビット、[エンディアン](https://ja.wikipedia.org/wiki/エンディアン "wikilink")はリトルエンディアンとビックエンディアン
-      - [浮動小数点](https://ja.wikipedia.org/wiki/浮動小数点 "wikilink"): [32ビット](../Page/32ビット.md "wikilink")または[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")エンディアンはリトルエンディアンとビックエンディアン
+      - [浮動小数点](https://ja.wikipedia.org/wiki/浮動小数点 "wikilink"): [32ビット](../Page/32ビット.md "wikilink")または[64ビット](../Page/64ビット.md "wikilink")エンディアンはリトルエンディアンとビックエンディアン
 
 <!-- end list -->
 

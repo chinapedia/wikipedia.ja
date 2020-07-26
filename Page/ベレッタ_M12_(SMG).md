@@ -55,7 +55,7 @@ M12Sの製造ライセンスを取得した[ブラジル](https://ja.wikipedia.o
 
 ### ゲーム
 
-  - 『[クロスファイア](https://ja.wikipedia.org/wiki/クロスファイア_\(オンラインゲーム\) "wikilink")』
+  - 『[クロスファイア](../Page/クロスファイア_\(オンラインゲーム\).md "wikilink")』
     M12Sが登場。
   - 『[バトルフィールド ハードライン](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
     メカニック（[工兵](../Page/工兵.md "wikilink")）が使用可能な[サブマシンガンとして登場](../Page/短機関銃.md "wikilink")。

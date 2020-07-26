@@ -12,7 +12,7 @@
 
 [1937年](../Page/1937年.md "wikilink")、[ミルドレッド・バーク](https://ja.wikipedia.org/wiki/ミルドレッド・バーク "wikilink")がクララ・モーテンソンを破り世界女子王座を獲得して[1950年](../Page/1950年.md "wikilink")代初めに世界女子王座を管理する機関として[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で創設されてバークが会長に就任。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、設立間もない[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")がバークからWWWAの権利を買い取る方向で検討を始める。
+[1968年](../Page/1968年.md "wikilink")、設立間もない[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")がバークからWWWAの権利を買い取る方向で検討を始める。
 
 [1970年](../Page/1970年.md "wikilink")、[京愛子](https://ja.wikipedia.org/wiki/京愛子 "wikilink")が[WWWA世界シングル王座](../Page/WWWA世界シングル王座.md "wikilink")を奪取したことでWWWAは全日本女子の管理下に置かれることになった。
 

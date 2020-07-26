@@ -18,7 +18,7 @@
 **東京生活**
 
   - Synthesizer Programming：西平彰
-  - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - Drums：[宮田繁男](../Page/宮田繁男.md "wikilink")
   - E.Bass：富倉安生
   - E.Guitar：後藤孝顕
   - A.Guitar：[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")

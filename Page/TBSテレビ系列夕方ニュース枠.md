@@ -99,7 +99,7 @@
   - [JNN夕方ローカルニュース一覧](../Page/JNN夕方ローカルニュース一覧.md "wikilink")
   - [TBSテレビ系列朝ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列朝ニュース枠 "wikilink")
   - [TBSテレビ系列昼ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列昼ニュース枠 "wikilink")
-  - [TBSテレビ系列深夜ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列深夜ニュース枠 "wikilink")
+  - [TBSテレビ系列深夜ニュース枠](../Page/TBSテレビ系列深夜ニュース枠.md "wikilink")
   - [日本テレビ系列夕方ニュース枠](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")
   - [テレビ朝日系列夕方ニュース枠](../Page/テレビ朝日系列夕方ニュース枠.md "wikilink")
   - [テレビ東京系列夕方ニュース枠](../Page/テレビ東京系列夕方ニュース枠.md "wikilink")

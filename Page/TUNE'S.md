@@ -19,7 +19,7 @@
 
   -
     作詞・作曲 : [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")、編曲 : [明石昌夫](../Page/明石昌夫.md "wikilink")
-    オリジナルは栗林誠一郎のアルバム『[You Never Know](../Page/You_Never_Know.md "wikilink")』に収録されている同名曲である（1993年に[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が歌詞を一部変更してカバー、ヒットした）。
+    オリジナルは栗林誠一郎のアルバム『[You Never Know](../Page/You_Never_Know.md "wikilink")』に収録されている同名曲である（1993年に[ZARD](../Page/ZARD.md "wikilink")が歌詞を一部変更してカバー、ヒットした）。
 
 <!-- end list -->
 

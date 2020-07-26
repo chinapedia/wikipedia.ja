@@ -22,7 +22,7 @@
   - 製作：[五十嵐浩二](https://ja.wikipedia.org/wiki/五十嵐浩二 "wikilink")（HBC）
   - プロデューサー：国貞泰生（HBC）・河野啓（HBC）
   - 音楽：[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")
-  - 主題歌：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")「サッポロSNOWY」（『[歌でしか言えない](../Page/歌でしか言えない.md "wikilink")』収録曲）
+  - 主題歌：[中島みゆき](../Page/中島みゆき.md "wikilink")「サッポロSNOWY」（『[歌でしか言えない](../Page/歌でしか言えない.md "wikilink")』収録曲）
 
 ## その他
 

@@ -554,26 +554,26 @@
 
 ## 2008年
 
-| 名前                                                                 | 所属チーム                                                          | 派遣先                                                         | 公式戦出場     | 進路 (加入年)            |
-| ------------------------------------------------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------- | --------- | ------------------- |
-| [河田晃兵](../Page/河田晃兵.md "wikilink")                                 | [福岡大学](../Page/福岡大学.md "wikilink")                             | [サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")     |           | ガンバ大阪 (2010)        |
-| [長谷川博一](https://ja.wikipedia.org/wiki/長谷川博一_\(サッカー選手\) "wikilink") | [広島経済大学](https://ja.wikipedia.org/wiki/広島経済大学 "wikilink")      | サガン鳥栖                                                       | J2：1試合0得点 | サガン鳥栖 (2009)        |
-| [近藤慎吾](https://ja.wikipedia.org/wiki/近藤慎吾 "wikilink")              | [明治大学](https://ja.wikipedia.org/wiki/明治大学体育会サッカー部 "wikilink")  | [横浜FC](../Page/横浜FC.md "wikilink")                          |           | エリースFC東京 (2009)     |
-| [三平和司](https://ja.wikipedia.org/wiki/三平和司 "wikilink")              | [神奈川大学](https://ja.wikipedia.org/wiki/神奈川大学 "wikilink")        | [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink") | J2：4試合1得点 | 湘南ベルマーレ (2010)      |
-| [富山貴光](https://ja.wikipedia.org/wiki/富山貴光 "wikilink")              | [矢板中央高等学校](../Page/矢板中央高等学校.md "wikilink")                     | [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")                      |           | 早稲田大学 (2009)        |
-| [米本拓司](https://ja.wikipedia.org/wiki/米本拓司 "wikilink")              | [兵庫県立伊丹高等学校](../Page/兵庫県立伊丹高等学校.md "wikilink")                 | [ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")                    |           | FC東京 (2009)         |
-| [渡部博文](https://ja.wikipedia.org/wiki/渡部博文 "wikilink")              | [専修大学](../Page/専修大学.md "wikilink")                             | [柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")     |           | 柏レイソル (2010)        |
-| [東口順昭](https://ja.wikipedia.org/wiki/東口順昭 "wikilink")              | [新潟経営大学](../Page/新潟経営大学.md "wikilink")                         | [アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")                |           | アルビレックス新潟 (2009)    |
-| [伊藤拓真](https://ja.wikipedia.org/wiki/伊藤拓真 "wikilink")              | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                      | [京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")                |           | ザスパ草津 (2009)        |
-| [野田紘史](https://ja.wikipedia.org/wiki/野田紘史 "wikilink")              | [阪南大学](https://ja.wikipedia.org/wiki/阪南大学 "wikilink")          | [セレッソ大阪](../Page/セレッソ大阪.md "wikilink")                      |           | 浦和レッドダイヤモンズ (2009)  |
-| [小林悠](../Page/小林悠_\(サッカー選手\).md "wikilink")                        | [拓殖大学](../Page/拓殖大学.md "wikilink")                             | [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")                | J2：5試合0得点 | 川崎フロンターレ (2010)     |
-| [反町一輝](https://ja.wikipedia.org/wiki/反町一輝 "wikilink")              | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                      | [ザスパ草津](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")  | J2：1試合0得点 | Tonan前橋 (2010)      |
-| [石川大徳](https://ja.wikipedia.org/wiki/石川大徳 "wikilink")              | [流通経済大学](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink") | [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")                | J2：1試合0得点 | サンフレッチェ広島 (2010)    |
-| [高橋秀人](https://ja.wikipedia.org/wiki/高橋秀人 "wikilink")              | [東京学芸大学](../Page/東京学芸大学.md "wikilink")                         | [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")       |           | FC東京 (2010)         |
-| [岡根直哉](https://ja.wikipedia.org/wiki/岡根直哉 "wikilink")              | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                      | [清水エスパルス](../Page/清水エスパルス.md "wikilink")                    |           | 清水エスパルス (2011)\[1\] |
-| [野垣内俊](https://ja.wikipedia.org/wiki/野垣内俊 "wikilink")              | [四日市大学](https://ja.wikipedia.org/wiki/四日市大学 "wikilink")        | [FC岐阜](../Page/FC岐阜.md "wikilink")                          |           | FC岐阜 (2009)         |
-| [佐藤洸一](https://ja.wikipedia.org/wiki/佐藤洸一 "wikilink")              | 四日市大学                                                          | FC岐阜                                                        | J2：1試合0得点 | FC岐阜 (2009)         |
-| [宮路洋輔](https://ja.wikipedia.org/wiki/宮路洋輔 "wikilink")              | [福岡大学](../Page/福岡大学.md "wikilink")                             | [アビスパ福岡](../Page/アビスパ福岡.md "wikilink")                      |           | アビスパ福岡 (2010)       |
+| 名前                                                    | 所属チーム                                                          | 派遣先                                                         | 公式戦出場     | 進路 (加入年)            |
+| ----------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- | --------- | ------------------- |
+| [河田晃兵](../Page/河田晃兵.md "wikilink")                    | [福岡大学](../Page/福岡大学.md "wikilink")                             | [サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")     |           | ガンバ大阪 (2010)        |
+| [長谷川博一](../Page/長谷川博一_\(サッカー選手\).md "wikilink")       | [広島経済大学](https://ja.wikipedia.org/wiki/広島経済大学 "wikilink")      | サガン鳥栖                                                       | J2：1試合0得点 | サガン鳥栖 (2009)        |
+| [近藤慎吾](https://ja.wikipedia.org/wiki/近藤慎吾 "wikilink") | [明治大学](https://ja.wikipedia.org/wiki/明治大学体育会サッカー部 "wikilink")  | [横浜FC](../Page/横浜FC.md "wikilink")                          |           | エリースFC東京 (2009)     |
+| [三平和司](https://ja.wikipedia.org/wiki/三平和司 "wikilink") | [神奈川大学](https://ja.wikipedia.org/wiki/神奈川大学 "wikilink")        | [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink") | J2：4試合1得点 | 湘南ベルマーレ (2010)      |
+| [富山貴光](https://ja.wikipedia.org/wiki/富山貴光 "wikilink") | [矢板中央高等学校](../Page/矢板中央高等学校.md "wikilink")                     | [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")                      |           | 早稲田大学 (2009)        |
+| [米本拓司](https://ja.wikipedia.org/wiki/米本拓司 "wikilink") | [兵庫県立伊丹高等学校](../Page/兵庫県立伊丹高等学校.md "wikilink")                 | [ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")                    |           | FC東京 (2009)         |
+| [渡部博文](https://ja.wikipedia.org/wiki/渡部博文 "wikilink") | [専修大学](../Page/専修大学.md "wikilink")                             | [柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")     |           | 柏レイソル (2010)        |
+| [東口順昭](https://ja.wikipedia.org/wiki/東口順昭 "wikilink") | [新潟経営大学](../Page/新潟経営大学.md "wikilink")                         | [アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")                |           | アルビレックス新潟 (2009)    |
+| [伊藤拓真](https://ja.wikipedia.org/wiki/伊藤拓真 "wikilink") | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                      | [京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")                |           | ザスパ草津 (2009)        |
+| [野田紘史](https://ja.wikipedia.org/wiki/野田紘史 "wikilink") | [阪南大学](https://ja.wikipedia.org/wiki/阪南大学 "wikilink")          | [セレッソ大阪](../Page/セレッソ大阪.md "wikilink")                      |           | 浦和レッドダイヤモンズ (2009)  |
+| [小林悠](../Page/小林悠_\(サッカー選手\).md "wikilink")           | [拓殖大学](../Page/拓殖大学.md "wikilink")                             | [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")                | J2：5試合0得点 | 川崎フロンターレ (2010)     |
+| [反町一輝](https://ja.wikipedia.org/wiki/反町一輝 "wikilink") | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                      | [ザスパ草津](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")  | J2：1試合0得点 | Tonan前橋 (2010)      |
+| [石川大徳](https://ja.wikipedia.org/wiki/石川大徳 "wikilink") | [流通経済大学](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink") | [水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")                | J2：1試合0得点 | サンフレッチェ広島 (2010)    |
+| [高橋秀人](https://ja.wikipedia.org/wiki/高橋秀人 "wikilink") | [東京学芸大学](../Page/東京学芸大学.md "wikilink")                         | [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")       |           | FC東京 (2010)         |
+| [岡根直哉](https://ja.wikipedia.org/wiki/岡根直哉 "wikilink") | [早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")                      | [清水エスパルス](../Page/清水エスパルス.md "wikilink")                    |           | 清水エスパルス (2011)\[1\] |
+| [野垣内俊](https://ja.wikipedia.org/wiki/野垣内俊 "wikilink") | [四日市大学](https://ja.wikipedia.org/wiki/四日市大学 "wikilink")        | [FC岐阜](../Page/FC岐阜.md "wikilink")                          |           | FC岐阜 (2009)         |
+| [佐藤洸一](https://ja.wikipedia.org/wiki/佐藤洸一 "wikilink") | 四日市大学                                                          | FC岐阜                                                        | J2：1試合0得点 | FC岐阜 (2009)         |
+| [宮路洋輔](https://ja.wikipedia.org/wiki/宮路洋輔 "wikilink") | [福岡大学](../Page/福岡大学.md "wikilink")                             | [アビスパ福岡](../Page/アビスパ福岡.md "wikilink")                      |           | アビスパ福岡 (2010)       |
 
 ## 2009年
 

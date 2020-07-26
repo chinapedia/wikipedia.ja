@@ -1,7 +1,7 @@
 > この記事は[ハイマン・G・リッコーヴァー](https://ja.wikipedia.org/wiki/ハイマン・G・リッコーヴァー)から翻訳されています。
 
 
-**ハイマン・ジョージ・リッコーヴァー**（**Hyman George Rickover**, [1900年](../Page/1900年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") または [1898年](../Page/1898年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の軍人。最終階級は海軍[大将](../Page/大将.md "wikilink")。
+**ハイマン・ジョージ・リッコーヴァー**（**Hyman George Rickover**, [1900年](../Page/1900年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") または [1898年](../Page/1898年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [1986年](../Page/1986年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の軍人。最終階級は海軍[大将](../Page/大将.md "wikilink")。
 
 [原子力潜水艦](../Page/原子力潜水艦.md "wikilink")の開発、配備を推進したため「原子力海軍の父（Father of the Nuclear Navy）」と称された。1918年から1982年までの63年の現役勤務年数は、アメリカ海軍、ひいてはアメリカ軍（[陸軍](../Page/アメリカ陸軍.md "wikilink")・海軍・[空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")・[海兵隊](../Page/アメリカ海兵隊.md "wikilink")・[沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")）の中で史上最長記録である\[1\]\[2\]\[3\]。[議会名誉黄金勲章](https://ja.wikipedia.org/wiki/議会名誉黄金勲章 "wikilink")を2度授与され（1958年、1982年）、[大統領自由勲章](../Page/大統領自由勲章.md "wikilink")を授与された（1980年）。
 

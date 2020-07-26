@@ -1,7 +1,7 @@
 > この記事は[Mr.五右衛門](https://ja.wikipedia.org/wiki/Mr.五右衛門)から翻訳されています。
 
 
-『**Mr.五右衛門**』（ミスターゴエモン）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[コナミが](../Page/コナミデジタルエンタテインメント.md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として発表した横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+『**Mr.五右衛門**』（ミスターゴエモン）は、[1986年](../Page/1986年.md "wikilink")に[コナミが](../Page/コナミデジタルエンタテインメント.md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として発表した横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
 ## 概要
 

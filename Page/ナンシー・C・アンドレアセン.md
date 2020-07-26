@@ -1,7 +1,7 @@
 > この記事は[ナンシー・C・アンドレアセン](https://ja.wikipedia.org/wiki/ナンシー・C・アンドレアセン)から翻訳されています。
 
 
-**ナンシー・C・アンドレアセン**（Nancy Coover Andreasen, [1938年](../Page/1938年.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[神経科学者](https://ja.wikipedia.org/wiki/神経科学者 "wikilink")、[精神科医](../Page/精神科医.md "wikilink")。 哲学博士、医学博士。[アイオワ大学](../Page/アイオワ大学.md "wikilink")ロイ・J・ルシール・A.カーヴァー医学部アンドリュー・H.ウッズ精神医学研究所の部長である。嘗ては[ルネサンス文学](https://ja.wikipedia.org/wiki/ルネサンス文学 "wikilink")の教授であった。\[1\].
+**ナンシー・C・アンドレアセン**（Nancy Coover Andreasen, [1938年](../Page/1938年.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[神経科学者](https://ja.wikipedia.org/wiki/神経科学者 "wikilink")、[精神科医](../Page/精神科医.md "wikilink")。 哲学博士、医学博士。[アイオワ大学](../Page/アイオワ大学.md "wikilink")ロイ・J・ルシール・A.カーヴァー医学部アンドリュー・H.ウッズ精神医学研究所の部長である。嘗ては[ルネサンス文学](../Page/ルネサンス文学.md "wikilink")の教授であった。\[1\].
 
 ## 研究
 

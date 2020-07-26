@@ -25,7 +25,7 @@
       - [ムジャヒディン](https://ja.wikipedia.org/wiki/ムジャヒディン "wikilink")\[19\]
       - [UNITA](https://ja.wikipedia.org/wiki/UNITA "wikilink")\[20\]
 
-| 初飛行年月日= | 生産数=85,000発\[21\] | 生産開始年月日= | 運用開始年月日=[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | 退役年月日=[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | 運用状況=退役 | ユニットコスト= }}
+| 初飛行年月日= | 生産数=85,000発\[21\] | 生産開始年月日= | 運用開始年月日=[1968年](../Page/1968年.md "wikilink") | 退役年月日=[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") | 運用状況=退役 | ユニットコスト= }}
 
 **FIM-43 レッドアイ**（）は、[ジェネラル・ダイナミクス](../Page/ジェネラル・ダイナミクス.md "wikilink")が開発した[携帯式防空ミサイル・システム（MANPADS）である](https://ja.wikipedia.org/wiki/地対空ミサイル#携帯式 "wikilink")。[ミサイルの誘導方式](../Page/ミサイルの誘導方式.md "wikilink")としては[赤外線ホーミング（IRH）を使用する](https://ja.wikipedia.org/wiki/光波ホーミング誘導#赤外線ホーミング "wikilink")。レッドアイ IIを見越して[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[9月](../Page/9月.md "wikilink")の生産終了までにおよそ85,000発が製造されたが、レッドアイ IIは実現せず、後継の[FIM-92 スティンガーに移行した](../Page/スティンガーミサイル.md "wikilink")。スティンガーの配備が開始されたため、レッドアイは[1982年](../Page/1982年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の長期にわたって徐々に退役した。
 
@@ -39,7 +39,7 @@
 
 **XM41E1**と称されるブロック II システムは、[1964年](../Page/1964年.md "wikilink")に開発が開始され、ミサイルは**XMIM-43B**に指定された。[赤外線センサ](../Page/赤外線センサ.md "wikilink")には冷却措置を導入して感度を向上しており、またわずかに再設計された発射機と改善型弾頭を備えていた。ミサイルは[1966年](../Page/1966年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より納入された。
 
-[1965年](../Page/1965年.md "wikilink")から[1966年](../Page/1966年.md "wikilink")に、ジェネラル・ダイナミクスは最終型のレッドアイ ブロック III 構成を開発した。これは当初**XM41E2**と呼ばれ、後に**XFIM-43C**に指定された。ミサイルはブロック II ミサイルからシーカーを引き継いだが、新型のロケット・モーター、弾頭及び信管を持っていた。また、その時発射機も、XM-62オープン・サイト及び改善された電子装置を装備した。新しいミサイルは、最高3Gで旋回することができ、ジェット機に対する命中率は、陸軍によって0.4と見積もられた。ブロック III システムの生産は、[1967年](../Page/1967年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から始まった。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に、ブロック III は作戦運用開始が決定された。
+[1965年](../Page/1965年.md "wikilink")から[1966年](../Page/1966年.md "wikilink")に、ジェネラル・ダイナミクスは最終型のレッドアイ ブロック III 構成を開発した。これは当初**XM41E2**と呼ばれ、後に**XFIM-43C**に指定された。ミサイルはブロック II ミサイルからシーカーを引き継いだが、新型のロケット・モーター、弾頭及び信管を持っていた。また、その時発射機も、XM-62オープン・サイト及び改善された電子装置を装備した。新しいミサイルは、最高3Gで旋回することができ、ジェット機に対する命中率は、陸軍によって0.4と見積もられた。ブロック III システムの生産は、[1967年](../Page/1967年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から始まった。[1968年](../Page/1968年.md "wikilink")に、ブロック III は作戦運用開始が決定された。
 
 ## 歴史
 

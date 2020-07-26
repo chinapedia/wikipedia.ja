@@ -1,7 +1,7 @@
 > この記事は[相澤仁美のHじゃダメ\?](https://ja.wikipedia.org/wiki/相澤仁美のHじゃダメ\?)から翻訳されています。
 
 
-『**相澤仁美のHじゃダメ?**』は、[USEN](../Page/USEN.md "wikilink")の無料[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")・[GyaOで放送されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[お色気番組](../Page/お色気番組.md "wikilink")である。[相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")が[MCを務める](../Page/司会.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。ゲストは2回1セット交代で、[ロケは毎回](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[ブティックホテル](../Page/ブティックホテル.md "wikilink")で行われていた。2006年3月配信開始。同年5月終了。
+『**相澤仁美のHじゃダメ?**』は、[USEN](../Page/USEN.md "wikilink")の無料[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")・[GyaOで放送されていた](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[お色気番組](../Page/お色気番組.md "wikilink")である。[相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")が[MCを務める](../Page/司会.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。ゲストは2回1セット交代で、[ロケは毎回](../Page/ロケーション撮影.md "wikilink")[ブティックホテル](../Page/ブティックホテル.md "wikilink")で行われていた。2006年3月配信開始。同年5月終了。
 
 ## ゲスト出演者・ロケ地
 

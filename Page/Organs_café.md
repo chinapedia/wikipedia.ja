@@ -35,7 +35,7 @@
 
 [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。楽曲の作曲・編曲も手掛ける。演奏技術が高く評価されて、2008年2月には[野呂一生](../Page/野呂一生.md "wikilink")リーダーで、[神保彰](../Page/神保彰.md "wikilink")、[扇谷研人](https://ja.wikipedia.org/wiki/扇谷研人 "wikilink")、[箭島裕治](https://ja.wikipedia.org/wiki/箭島裕治 "wikilink")と[ISSEI NORO INSPIRITSを結成し活動を続けている](https://ja.wikipedia.org/wiki/ISSEI_NORO_INSPIRITS "wikilink")。
 
-バンドでの活動以外に、[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")の講師も務め、定期的にジャズ・[フュージョン系バンドの](../Page/フュージョン_\(音楽\).md "wikilink")[セッション](../Page/セッション.md "wikilink")・ライブも行っている。
+バンドでの活動以外に、[ミューズ音楽院](../Page/ミューズ音楽院.md "wikilink")の講師も務め、定期的にジャズ・[フュージョン系バンドの](../Page/フュージョン_\(音楽\).md "wikilink")[セッション](../Page/セッション.md "wikilink")・ライブも行っている。
 
 ### 元メンバー
 

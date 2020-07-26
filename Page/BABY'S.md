@@ -1,7 +1,7 @@
 > この記事は[BABY\'S](https://ja.wikipedia.org/wiki/BABY\'S)から翻訳されています。
 
 
-**BABY'S**（ベイビーズ）は、かつて活動していた3人組[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")に所属していた。
+**BABY'S**（ベイビーズ）は、かつて活動していた3人組[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")に所属していた。
 
 ## 概要
 

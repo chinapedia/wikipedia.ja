@@ -42,7 +42,7 @@
 <!-- end list -->
 
   - [SEELA](https://ja.wikipedia.org/wiki/SEELA "wikilink")（Ba） [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、[FiX](https://ja.wikipedia.org/wiki/tezya_\(ヴォーカリスト\) "wikilink")、[ATOMIC ZaZaのメンバー](https://ja.wikipedia.org/wiki/tezya_\(ヴォーカリスト\) "wikilink")。
-  - [JOE](../Page/宮脇“JOE”知史.md "wikilink")（Dr） [44MAGNUM](../Page/44MAGNUM.md "wikilink")、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")、[Mad beaversのメンバー](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")。
+  - [JOE](../Page/宮脇“JOE”知史.md "wikilink")（Dr） [44MAGNUM](../Page/44MAGNUM.md "wikilink")、[ZIGGY](../Page/ZIGGY.md "wikilink")、[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")、[Mad beaversのメンバー](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")。
 
 ## ディスコグラフィ
 

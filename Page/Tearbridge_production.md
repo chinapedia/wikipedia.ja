@@ -33,7 +33,7 @@
 
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
   - [大橋りえ](https://ja.wikipedia.org/wiki/大橋りえ "wikilink")
-  - [All Japan Goith](https://ja.wikipedia.org/wiki/All_Japan_Goith "wikilink")
+  - [All Japan Goith](../Page/All_Japan_Goith.md "wikilink")
   - [camino](https://ja.wikipedia.org/wiki/camino_\(バンド\) "wikilink")
   - ["キャプテンハッスル" 小川直也](../Page/小川直也.md "wikilink")
   - [CEYREN](../Page/CEYREN.md "wikilink")
@@ -498,7 +498,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 <td><p>2011年2月26日無期限活動休止</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/YAK." title="wikilink">YAK.</a></p></td>
+<td><p><a href="../Page/YAK..md" title="wikilink">YAK.</a></p></td>
 <td><p>ヤック</p></td>
 <td><p>2009年〜2010年</p></td>
 <td><p>Anges Recordsに移籍</p></td>
@@ -704,7 +704,7 @@ avex trax→UNIVERSAL SIGMA</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年09月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トミカヒーロー_レスキューフォース" title="wikilink">トミカヒーロー レスキューフォース</a> オリジナル・サウンドトラック</p></td>
+<td><p><a href="../Page/トミカヒーロー_レスキューフォース.md" title="wikilink">トミカヒーロー レスキューフォース</a> オリジナル・サウンドトラック</p></td>
 <td><p>NFCD-27118<br />
 NFCD-27119</p></td>
 <td></td>

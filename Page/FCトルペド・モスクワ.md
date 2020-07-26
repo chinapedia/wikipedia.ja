@@ -128,7 +128,7 @@
 
   - [エミル・スパヒッチ](https://ja.wikipedia.org/wiki/エミル・スパヒッチ "wikilink") 2005
 
-  - [アレクサンドル・ゲインリフ](https://ja.wikipedia.org/wiki/アレクサンドル・ゲインリフ "wikilink") 2005-2006
+  - [アレクサンドル・ゲインリフ](../Page/アレクサンドル・ゲインリフ.md "wikilink") 2005-2006
 
   - [エナル・ヤーガー](../Page/エナル・ヤーガー.md "wikilink") 2005-2006
 

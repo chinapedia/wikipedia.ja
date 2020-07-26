@@ -7,7 +7,7 @@
 
   - 表題曲は[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』のエンディングテーマ。
   - 前年発売のアルバム『[Mid Blue](../Page/Mid_Blue.md "wikilink")』と同時期にレコーディングされたが、同アルバムがバラード曲ばかりになってしまうという理由から収録されず、後になり[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[櫻井よしこ](../Page/櫻井よしこ.md "wikilink")が同曲を聴き惚れ込み、中山側にラブコールを送った結果、キャスターを務める同番組のテーマ曲としてシングルリリースとなった。
-  - 前年のコンサートツアーで一足先に披露されたが、アレンジが異なっている。そのコンサートバージョンはライブビデオ『[Miho Nakayama Concert Tour '95 f](https://ja.wikipedia.org/wiki/Miho_Nakayama_Concert_Tour_'95_f "wikilink")』に収録されている。
+  - 前年のコンサートツアーで一足先に披露されたが、アレンジが異なっている。そのコンサートバージョンはライブビデオ『[Miho Nakayama Concert Tour '95 f](../Page/Miho_Nakayama_Concert_Tour_'95_f.md "wikilink")』に収録されている。
   - 雑誌のインタビューによると、公表されている詞は作詞家の[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")によるものだがタイトル及びサビの部分は中山本人のアイデアによるもの。
   - この曲で、それまで出演したことのなかった[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[FAN](../Page/FAN.md "wikilink")』、[TBS](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』に初出演し、[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』には[1994年](../Page/1994年.md "wikilink")以来2年ぶりに出演した。
 
@@ -44,7 +44,7 @@
 
   - [櫻井よし子](https://ja.wikipedia.org/wiki/櫻井よし子 "wikilink")
   - [NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")
-  - [Miho Nakayama Concert Tour '95 f](https://ja.wikipedia.org/wiki/Miho_Nakayama_Concert_Tour_'95_f "wikilink")
+  - [Miho Nakayama Concert Tour '95 f](../Page/Miho_Nakayama_Concert_Tour_'95_f.md "wikilink")
   - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
 
 [Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

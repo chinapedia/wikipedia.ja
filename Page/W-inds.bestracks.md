@@ -5,7 +5,7 @@
 
 ## 解説
 
-[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")「[Forever Memories](../Page/Forever_Memories.md "wikilink")」から12thシングル「[キレイだ](https://ja.wikipedia.org/wiki/キレイだ "wikilink")」までの12枚のシングルと、今[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")までにリリースされた3枚の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")から選りすぐった人気曲4曲を網羅したw-inds.初のベストアルバム。全16曲収録。
+[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")「[Forever Memories](../Page/Forever_Memories.md "wikilink")」から12thシングル「[キレイだ](../Page/キレイだ.md "wikilink")」までの12枚のシングルと、今[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")までにリリースされた3枚の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")から選りすぐった人気曲4曲を網羅したw-inds.初のベストアルバム。全16曲収録。
 
 タイトルの"bestracks"は、ベストアルバムの“ベスト”と、楽曲の単位を表す“[トラック](../Page/トラック.md "wikilink")”と、日本語で“軌跡”を表す"track"という英単語を混ぜた[造語](../Page/造語.md "wikilink")である。
 

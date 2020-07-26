@@ -1104,7 +1104,7 @@ Rance IV -教団の遺産- 後日談</p></td>
 <!-- end list -->
 
   -
-    ランス・クエスト（1） (2012年09月15日、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")／[電撃ジャパンコミックス](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン#電撃ジャパンコミックス "wikilink")） ISBN 978-4-04-886972-0
+    ランス・クエスト（1） (2012年09月15日、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")／[電撃ジャパンコミックス](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン#電撃ジャパンコミックス "wikilink")） ISBN 978-4-04-886972-0
     ランス・クエスト（2） (2013年10月15日、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")／[電撃ジャパンコミックス](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン#電撃ジャパンコミックス "wikilink")） ISBN 978-4-04-891916-6
     ランス・クエスト（3） (2014年11月15日、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")／[電撃ジャパンコミックス](https://ja.wikipedia.org/wiki/電撃コミック_ジャパン#電撃ジャパンコミックス "wikilink")） ISBN 978-4-04-869019-5
 

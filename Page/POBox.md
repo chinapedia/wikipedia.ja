@@ -49,7 +49,7 @@ POBoxでは予測精度の向上を目的としてデフォルトの辞書の登
     搭載機種：[SO905i](../Page/SO905i.md "wikilink") / [Cyber-shotケータイ SO905iCS](../Page/SO905iCS.md "wikilink") / [W54S](../Page/W54S.md "wikilink") / [Cyber-shotケータイ W61S](../Page/W61S.md "wikilink")
     POBox Proより学習機能・予測機能を強化。新たに文字入力後に接続語を予測する「つながり候補」機能が追加された。[2タッチ入力](../Page/2タッチ入力.md "wikilink")（ポケベル打ち）にも対応した。
   - POBox Pro E
-    搭載機種：[W62S](https://ja.wikipedia.org/wiki/W62S "wikilink")
+    搭載機種：[W62S](../Page/W62S.md "wikilink")
     POBox Pro 2.0をベースに、英語の予測変換に対応している。
   - POBox Pro 3.0
     搭載機種：[SO906i](https://ja.wikipedia.org/wiki/SO906i "wikilink") / [フルチェンケータイ re](../Page/フルチェンケータイ_re.md "wikilink")(W63S) / [Walkman Phone, Xmini](https://ja.wikipedia.org/wiki/Xmini "wikilink")(W65S)

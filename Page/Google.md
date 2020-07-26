@@ -11,7 +11,7 @@
 
 ハードウェアの分野にも進出し、高性能な[Nexusを生産している電機製品メーカーとパートナーシップを結び](https://ja.wikipedia.org/wiki/Google_Nexus "wikilink")、2012年5月に[Motorola Mobilityを買収した](https://ja.wikipedia.org/wiki/モトローラ・モビリティ "wikilink")\[9\]。2012年にはアメリカ合衆国[ミズーリ州](../Page/ミズーリ州.md "wikilink")[カンサスシティで](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")[Google Fiberと呼ばれる](https://ja.wikipedia.org/wiki/Google_Fiber "wikilink")[ブロードバンドサービスを提供するために](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")、[光ファイバー](../Page/光ファイバー.md "wikilink")網を敷設した\[10\]。
 
-100万台以上の[サーバ](../Page/サーバ.md "wikilink")を世界中の[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")で運用していると見積もられ\[11\]、1日に10億以上の検索クエリー\[12\] とユーザーが作成する24[ペタ](https://ja.wikipedia.org/wiki/ペタ "wikilink")バイトのデータ\[13\]\[14\]\[15\]\[16\] を処理している。 [2012年](../Page/2012年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[Alexaはgoogle](../Page/アレクサ・インターネット.md "wikilink").comを世界で最もビジター数の多いサイトに選んだ。英語以外の言語の多数のサイトと、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[Blogger](../Page/Blogger.md "wikilink")などの保有している複数の[ウェブサイト](../Page/ウェブサイト.md "wikilink")がトップ100に選ばれた\[17\]。市場における支配力は、[著作権](../Page/著作権.md "wikilink")、[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")、[プライバシー](../Page/プライバシー.md "wikilink")といった問題に関する[Googleへの非難を引き起こした](https://ja.wikipedia.org/wiki/:en:Criticism_of_Google "wikilink")\[18\]\[19\]。
+100万台以上の[サーバ](../Page/サーバ.md "wikilink")を世界中の[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")で運用していると見積もられ\[11\]、1日に10億以上の検索クエリー\[12\] とユーザーが作成する24[ペタ](https://ja.wikipedia.org/wiki/ペタ "wikilink")バイトのデータ\[13\]\[14\]\[15\]\[16\] を処理している。 [2012年](../Page/2012年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[Alexaはgoogle](../Page/アレクサ・インターネット.md "wikilink").comを世界で最もビジター数の多いサイトに選んだ。英語以外の言語の多数のサイトと、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[Blogger](../Page/Blogger.md "wikilink")などの保有している複数の[ウェブサイト](../Page/ウェブサイト.md "wikilink")がトップ100に選ばれた\[17\]。市場における支配力は、[著作権](../Page/著作権.md "wikilink")、[検閲](../Page/検閲.md "wikilink")、[プライバシー](../Page/プライバシー.md "wikilink")といった問題に関する[Googleへの非難を引き起こした](https://ja.wikipedia.org/wiki/:en:Criticism_of_Google "wikilink")\[18\]\[19\]。
 
 ## 歴史
 
@@ -165,7 +165,7 @@ IPO後、Googleの株価は順調に上昇し、2007年10月31日には株価が
       - [10月9日](../Page/10月9日.md "wikilink") - 自動運転カープロジェクト「[Google ドライバーレスカー](https://ja.wikipedia.org/wiki/Google_ドライバーレスカー "wikilink")」を発表した\[156\]。カナダのモバイルペイメント企業Zetawire社を買収し、[Android](../Page/Android.md "wikilink")へ統合した\[157\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）
       - [1月25日](../Page/1月25日.md "wikilink") - 音声認識のSayNow社を買収し、[Googleボイス](https://ja.wikipedia.org/wiki/Googleボイス "wikilink")へ統合した\[158\]。
-      - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - 映画評価SNSのfflick社を1000万ドルで買収。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")へ統合した\[159\]。
+      - [1月26日](../Page/1月26日.md "wikilink") - 映画評価SNSのfflick社を1000万ドルで買収。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")へ統合した\[159\]。
       - [4月8日](../Page/4月8日.md "wikilink") - カナダのモバイルコンテンツプロバイダーPushLife社を2500万ドルで買収した\[160\]\[161\]。ライブストリーミングサービスの[YouTube Liveを発表した](https://ja.wikipedia.org/wiki/YouTube "wikilink")\[162\]。
       - [5月10日](../Page/5月10日.md "wikilink") - クラウド音楽サービスのMusic Beta by Google ([Google Music](https://ja.wikipedia.org/wiki/Google_Music "wikilink")) を発表した\[163\]。
       - [6月28日](../Page/6月28日.md "wikilink") - SNSの[Google+](https://ja.wikipedia.org/wiki/Google+ "wikilink")を発表した\[164\]。
@@ -315,7 +315,7 @@ Androidの開発の中心人物、アンディ・ルービンは、2012年から
 
 ### 中国政府との関係
 
-[中華人民共和国](../Page/中華人民共和国.md "wikilink")内における、Googleの事業である「[穀歌](../Page/穀歌.md "wikilink")」は、当初は[中国共産党](../Page/中国共産党.md "wikilink")政府による[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")に協力し、中国政府の主張に相反する[ウェブサイト](../Page/ウェブサイト.md "wikilink")は表示されなかったため\[233\]、[アメリカ合衆国議会](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")による公聴会で批判されていた\[234\]。
+[中華人民共和国](../Page/中華人民共和国.md "wikilink")内における、Googleの事業である「[穀歌](../Page/穀歌.md "wikilink")」は、当初は[中国共産党](../Page/中国共産党.md "wikilink")政府による[検閲](../Page/検閲.md "wikilink")に協力し、中国政府の主張に相反する[ウェブサイト](../Page/ウェブサイト.md "wikilink")は表示されなかったため\[233\]、[アメリカ合衆国議会](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink")による公聴会で批判されていた\[234\]。
 
 その後、中国政府に批判的な政治活動家が所有する[Gmail](../Page/Gmail.md "wikilink")のアカウントに対して、同国内から[Internet Explorerの](../Page/Internet_Explorer.md "wikilink")[脆弱性](../Page/脆弱性.md "wikilink")を利用した[サイバー攻撃](https://ja.wikipedia.org/wiki/サイバー攻撃 "wikilink")を受けていたことが判明し、2010年1月13日にグーグルは公式ブログでこの事実を公開した。さらに攻撃した[ハッカー](../Page/ハッカー.md "wikilink")が中国政府に所属する傘下組織であったことが分かったため、同国からの検索事業の撤退を示唆した\[235\]\[236\]。2010年12月4日の「[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")」紙によると、「[ウィキリークス](https://ja.wikipedia.org/wiki/ウィキリークス "wikilink")」が公開をした[アメリカ合衆国国務省](../Page/アメリカ合衆国国務省.md "wikilink")の外交公電により、一連のGoogleへのサイバー攻撃は、中国政府が主導したもので、中国共産党中央政治局常務委員の[李長春](../Page/李長春.md "wikilink")と[周永康](../Page/周永康.md "wikilink")による指示で行われていたことが判明したと伝えられた\[237\]。
 

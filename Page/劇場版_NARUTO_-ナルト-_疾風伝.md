@@ -74,7 +74,7 @@
 ## スタッフ
 
   - 原作 - [岸本斉史](../Page/岸本斉史.md "wikilink")
-  - 監督 - [亀垣一](https://ja.wikipedia.org/wiki/亀垣一 "wikilink")
+  - 監督 - [亀垣一](../Page/亀垣一.md "wikilink")
   - 脚本 - [武上純希](../Page/武上純希.md "wikilink")
   - キャラクターデザイン - [西尾鉄也](../Page/西尾鉄也.md "wikilink")
   - 絵コンテ - 佐々木守、布施木一喜、有冨興二、川崎博嗣、亀垣一

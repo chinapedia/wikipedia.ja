@@ -44,7 +44,7 @@
 <td><p>株式会社アモン</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/ライフタテヤマ.md" title="wikilink">ライフタテヤマ</a></p></td>
 <td><p>牡5</p></td>
 <td><p>3戦3勝<br />

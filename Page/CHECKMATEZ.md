@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - [1981年](../Page/1981年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")生。[埼玉県](../Page/埼玉県.md "wikilink")出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ドラム](../Page/ドラムセット.md "wikilink")　（愛称：ブーニャン）
+  - [1981年](../Page/1981年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")生。[埼玉県](../Page/埼玉県.md "wikilink")出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ドラム](../Page/ドラムセット.md "wikilink")　（愛称：ブーニャン）
     メンボ応募より加入。
 
 <!-- end list -->

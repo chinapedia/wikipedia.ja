@@ -424,7 +424,7 @@
     ○ [ブライアン・ボウルズ](https://ja.wikipedia.org/wiki/ブライアン・ボウルズ "wikilink")（1R 2:50 [チョークスリーパー](../Page/裸絞.md "wikilink")）[チャーリー・ヴァレンシア](https://ja.wikipedia.org/wiki/チャーリー・ヴァレンシア "wikilink") ×
   - **WEC 27: Marshall vs. McElfrish**（2007年5月12日）
     ○ [ダグ・マーシャル](https://ja.wikipedia.org/wiki/ダグ・マーシャル "wikilink")（1R 2:16 TKO）[ジャスティン・マッケルフレッシュ](https://ja.wikipedia.org/wiki/ジャスティン・マッケルフレッシュ "wikilink") × **【ライトヘビー級タイトルマッチ】**
-    ○ [ジェイソン・"メイヘム"・ミラー](https://ja.wikipedia.org/wiki/ジェイソン・ミラー "wikilink")（判定3-0）[三浦広光](../Page/三浦広光.md "wikilink") ×
+    ○ [ジェイソン・"メイヘム"・ミラー](../Page/ジェイソン・ミラー.md "wikilink")（判定3-0）[三浦広光](../Page/三浦広光.md "wikilink") ×
   - **WEC 26: Condit vs. Alessio**（2007年3月24日）
     ○ [カーロス・コンディット](../Page/カーロス・コンディット.md "wikilink")（1R 4:59 [チョークスリーパー](../Page/裸絞.md "wikilink")）[ジョン・アレッシオ](https://ja.wikipedia.org/wiki/ジョン・アレッシオ "wikilink") × **【ウェルター級王座決定戦】**
     ○ [ユライア・フェイバー](../Page/ユライア・フェイバー.md "wikilink")（1R 1:38 [フロントチョーク](../Page/フロントチョーク.md "wikilink")）[ドミニク・クルーズ](https://ja.wikipedia.org/wiki/ドミニク・クルーズ "wikilink") × **【フェザー級タイトルマッチ】**
@@ -477,7 +477,7 @@
     ○ [ロン・ウォーターマン](../Page/ロン・ウォーターマン.md "wikilink")（判定2-1）[リコ・ロドリゲス](../Page/リコ・ロドリゲス_\(格闘家\).md "wikilink") × **【スーパーヘビー級タイトルマッチ】**
   - **WEC 15: Judgment Day**（2005年5月19日）
     ○ [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink")（2R 0:45 KO）[ダグ・マーシャル](https://ja.wikipedia.org/wiki/ダグ・マーシャル "wikilink") ×
-    ○ [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")（1R 1:24 ギブアップ）[ロブ・キモンズ](https://ja.wikipedia.org/wiki/ロブ・キモンズ "wikilink") × **【ミドル級王座決定戦】**
+    ○ [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")（1R 1:24 ギブアップ）[ロブ・キモンズ](https://ja.wikipedia.org/wiki/ロブ・キモンズ "wikilink") × **【ミドル級王座決定戦】**
     ○ [クリス・ライトル](../Page/クリス・ライトル.md "wikilink")（判定3-0）[パット・ヒーリー](https://ja.wikipedia.org/wiki/パット・ヒーリー "wikilink") ×
     ○ [ジャスティン・レヴェンス](https://ja.wikipedia.org/wiki/ジャスティン・レヴェンス "wikilink")（1R 3:46 [チョークスリーパー](../Page/裸絞.md "wikilink")）[トニー・ロペス](https://ja.wikipedia.org/wiki/トニー・ロペス "wikilink") ×
     ○ [ジェイ・ヒエロン](https://ja.wikipedia.org/wiki/ジェイ・ヒエロン "wikilink")（判定3-0）[アダム・リン](https://ja.wikipedia.org/wiki/アダム・リン "wikilink") ×
@@ -501,7 +501,7 @@
     ○ [ショーニー・カーター](https://ja.wikipedia.org/wiki/ショーニー・カーター "wikilink")（1R 3:48 [チョークスリーパー](../Page/裸絞.md "wikilink")）[ジョディ・ポフ](https://ja.wikipedia.org/wiki/ジョディ・ポフ "wikilink") ×
     ○ [チェール・ソネン](../Page/チェール・ソネン.md "wikilink")（判定3-0）[アレックス・スティーブリング](../Page/アレックス・スティーブリング.md "wikilink") ×
     ○ [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink")（1R 2:27 KO）[フセイン・ウシャニ](https://ja.wikipedia.org/wiki/フセイン・ウシャニ "wikilink") × **【ヘビー級タイトルマッチ】**
-    ○ [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink")（1R 1:50 TKO）[チロ・ゴンザレス](https://ja.wikipedia.org/wiki/チロ・ゴンザレス "wikilink") ×
+    ○ [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink")（1R 1:50 TKO）[チロ・ゴンザレス](https://ja.wikipedia.org/wiki/チロ・ゴンザレス "wikilink") ×
     ○ [クリス・ライトル](../Page/クリス・ライトル.md "wikilink")（1R 2:53 [チョークスリーパー](../Page/裸絞.md "wikilink")）[JTテイラー](https://ja.wikipedia.org/wiki/JTテイラー "wikilink") ×
     ○ [ゲイブ・ルーディジャー](https://ja.wikipedia.org/wiki/ゲイブ・ルーディジャー "wikilink")（1R 3:05 [チョークスリーパー](../Page/裸絞.md "wikilink")）[オラフ・アルフォンソ](https://ja.wikipedia.org/wiki/オラフ・アルフォンソ "wikilink") × **【ライト級王座決定戦】**
     ○ [マーク・ウィアー](../Page/マーク・ウィアー.md "wikilink")（1R 2:11 [チョークスリーパー](../Page/裸絞.md "wikilink")）[ウィル・ブラッドフォード](https://ja.wikipedia.org/wiki/ウィル・ブラッドフォード "wikilink") ×
@@ -518,7 +518,7 @@
     ○ [ブレット・バーグマーク](https://ja.wikipedia.org/wiki/ブレット・バーグマーク "wikilink")（1R 4:49 TKO）[石井大輔](https://ja.wikipedia.org/wiki/石井大輔 "wikilink") ×
     ○ [アミール・ラナヴァルディ](https://ja.wikipedia.org/wiki/アミール・ラナヴァルディ "wikilink")（1R終了時 TKO）[宇良健吾](https://ja.wikipedia.org/wiki/URAKEN "wikilink") ×
   - **WEC 9: Cold Blooded**（2004年1月16日）
-    ○ [アレックス・スティーブリング](../Page/アレックス・スティーブリング.md "wikilink")（2R 1:54 [三角絞め](../Page/三角絞め.md "wikilink")）[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+    ○ [アレックス・スティーブリング](../Page/アレックス・スティーブリング.md "wikilink")（2R 1:54 [三角絞め](../Page/三角絞め.md "wikilink")）[ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") ×
     ○ [ショーニー・カーター](https://ja.wikipedia.org/wiki/ショーニー・カーター "wikilink")（1R 0:30 TKO）[ゲイブ・ガルシア](https://ja.wikipedia.org/wiki/ゲイブ・ガルシア "wikilink") ×
     ○ [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink")（判定3-0）[デシャウン・ジョンソン](https://ja.wikipedia.org/wiki/デシャウン・ジョンソン "wikilink") ×
     ○ [クリス・リーベン](../Page/クリス・リーベン.md "wikilink")（2R 0:45 KO）[マイク・スウィック](../Page/マイク・スウィック.md "wikilink") × **【ミドル級王座決定戦】**

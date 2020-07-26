@@ -143,7 +143,7 @@
 **ブレインショック**
 
   -
-    額に[チップ](../Page/チップ.md "wikilink")を貼ってプレイする[バーチャルゲーム](https://ja.wikipedia.org/wiki/バーチャルゲーム "wikilink")機。額のチップから脳の[後頭葉](https://ja.wikipedia.org/wiki/後頭葉 "wikilink")の[視覚野](https://ja.wikipedia.org/wiki/視覚野 "wikilink")部分に刺激を与え、プレイヤーの目に仮想空間を映し出し、また、[側頭葉](../Page/側頭葉.md "wikilink")の感情を動かす[扁桃体](https://ja.wikipedia.org/wiki/扁桃体 "wikilink")に刺激を与える。
+    額に[チップ](../Page/チップ.md "wikilink")を貼ってプレイする[バーチャルゲーム](https://ja.wikipedia.org/wiki/バーチャルゲーム "wikilink")機。額のチップから脳の[後頭葉](../Page/後頭葉.md "wikilink")の[視覚野](https://ja.wikipedia.org/wiki/視覚野 "wikilink")部分に刺激を与え、プレイヤーの目に仮想空間を映し出し、また、[側頭葉](../Page/側頭葉.md "wikilink")の感情を動かす[扁桃体](https://ja.wikipedia.org/wiki/扁桃体 "wikilink")に刺激を与える。
     開発・製作代表者/八神キョウジ
     第5～7話
 

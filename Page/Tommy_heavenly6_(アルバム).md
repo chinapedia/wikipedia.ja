@@ -50,7 +50,7 @@
 11. **[Hey my friend](../Page/Hey_my_friend.md "wikilink")**
       -
         2ndシングル
-        [作家](../Page/作家.md "wikilink")[嶽本野ばら](https://ja.wikipedia.org/wiki/嶽本野ばら "wikilink")原作の映画「[下妻物語](../Page/下妻物語.md "wikilink")」の主題歌。なおC/Wの同映画のOPソング「Roller coaster ride→」は収録は見送られた。
+        [作家](../Page/作家.md "wikilink")[嶽本野ばら](../Page/嶽本野ばら.md "wikilink")原作の映画「[下妻物語](../Page/下妻物語.md "wikilink")」の主題歌。なおC/Wの同映画のOPソング「Roller coaster ride→」は収録は見送られた。
 
 <!-- end list -->
 

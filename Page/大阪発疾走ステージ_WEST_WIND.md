@@ -305,7 +305,7 @@
   - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）
   - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
   - [風味堂](../Page/風味堂.md "wikilink")
-  - [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
+  - [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")
   - [八木真澄](../Page/八木真澄.md "wikilink")（サバンナ）
   - [ライセンス](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")
   - [LINDBERG](../Page/LINDBERG.md "wikilink")

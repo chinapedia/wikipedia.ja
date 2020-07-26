@@ -1,7 +1,7 @@
 > この記事は[ぼくがつくった愛のうた〜いとしのEmily〜](https://ja.wikipedia.org/wiki/ぼくがつくった愛のうた〜いとしのEmily〜)から翻訳されています。
 
 
-「**ぼくがつくった愛のうた〜いとしのEmily〜**」（ぼくがつくったあいのうた いとしのエミリー）は、[1974年](../Page/1974年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に発売された[チューリップの](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
+「**ぼくがつくった愛のうた〜いとしのEmily〜**」（ぼくがつくったあいのうた いとしのエミリー）は、[1974年](../Page/1974年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に発売された[チューリップの](../Page/チューリップ_\(バンド\).md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 

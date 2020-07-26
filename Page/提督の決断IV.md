@@ -659,7 +659,7 @@
   - [P・バイアン](https://ja.wikipedia.org/wiki/P・バイアン "wikilink")
   - [ロバート・シャーブルック](https://ja.wikipedia.org/wiki/ロバート・シャーブルック "wikilink")
   - [R・バーネット](https://ja.wikipedia.org/wiki/R・バーネット "wikilink")
-  - [トーマス・フィリップス](https://ja.wikipedia.org/wiki/トーマス・フィリップス "wikilink")
+  - [トーマス・フィリップス](../Page/トーマス・フィリップス.md "wikilink")
   - [V・A・C・クラッチレー](https://ja.wikipedia.org/wiki/V・A・C・クラッチレー "wikilink")
   - [W・J・ホイットワース](https://ja.wikipedia.org/wiki/W・J・ホイットワース "wikilink")
 

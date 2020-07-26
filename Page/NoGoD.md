@@ -58,7 +58,7 @@
 **Shinno**（しんの、六弦団員：Guitar）
 
   -
-    [1月8日](../Page/1月8日.md "wikilink")生まれ、[秋田県](../Page/秋田県.md "wikilink")出身、A型。[2007年](../Page/2007年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")にNoGoDに正式加入。[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")出身\[72\]。
+    [1月8日](../Page/1月8日.md "wikilink")生まれ、[秋田県](../Page/秋田県.md "wikilink")出身、A型。[2007年](../Page/2007年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")にNoGoDに正式加入。[ミューズ音楽院](../Page/ミューズ音楽院.md "wikilink")出身\[72\]。
     下手ギター担当。こだわりのギターを何本も持っており、メインの使用ギターは赤いESPのストラトタイプ（オリジナルモデル）\[73\]。
     ギターの機材やパーツ、構造に詳しく、調整や製作、改造も自ら行う。エフェクターなど機材にも詳しい\[74\]。
 
@@ -815,7 +815,7 @@ CD EXTRAによるLIVE＆コメント映像収録。</p></td>
 
 #### 参加オムニバス
 
-1.  **[CRUSH\! -90's V-Rock best hit cover songs-](https://ja.wikipedia.org/wiki/CRUSH!_-90's_V-Rock_best_hit_cover_songs- "wikilink")**（[2011年](../Page/2011年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）
+1.  **[CRUSH\! -90's V-Rock best hit cover songs-](https://ja.wikipedia.org/wiki/CRUSH!_-90's_V-Rock_best_hit_cover_songs- "wikilink")**（[2011年](../Page/2011年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")）
       - 収録曲・[1/3の純情な感情](https://ja.wikipedia.org/wiki/1/3の純情な感情 "wikilink")
 2.  **[Counteraction -V-Rock covered Visual Anime songs Compilation-](https://ja.wikipedia.org/wiki/Counteraction_-V-Rock_covered_Visual_Anime_songs_Compilation- "wikilink")**（[2012年](../Page/2012年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")）
       - 収録曲・[INVOKE](../Page/INVOKE.md "wikilink")

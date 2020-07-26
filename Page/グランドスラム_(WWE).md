@@ -43,7 +43,7 @@
   - [ロマン・レインズ](https://ja.wikipedia.org/wiki/ロマン・レインズ "wikilink")
   - [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")
   - [セス・ロリンズ](https://ja.wikipedia.org/wiki/セス・ロリンズ "wikilink")
-  - [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")
+  - [コフィ・キングストン](../Page/コフィ・キングストン.md "wikilink")
   - [レイ・ミステリオ](https://ja.wikipedia.org/wiki/レイ・ミステリオ "wikilink")
 
 #### 女子

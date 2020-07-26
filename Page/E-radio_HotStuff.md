@@ -52,7 +52,7 @@
   - 6月
     [YeLLOW Generation](../Page/YeLLOW_Generation.md "wikilink")「LOST Generation」
   - 7月
-    [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")「[ランブル](https://ja.wikipedia.org/wiki/ランブル "wikilink")」
+    [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")「[ランブル](../Page/ランブル.md "wikilink")」
   - 8月
     [河口恭吾](../Page/河口恭吾.md "wikilink")「オメガの記憶」
   - 9月
@@ -114,7 +114,7 @@
   - 10月
     [世理奈](https://ja.wikipedia.org/wiki/世理奈 "wikilink")「消える想い」
   - 11月
-    [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")「アイコトバ」
+    [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")「アイコトバ」
   - 12月
     [信近エリ](../Page/信近エリ.md "wikilink")「Lights」
 
@@ -193,7 +193,7 @@
   - 4月
     [MICRON STUFF](https://ja.wikipedia.org/wiki/MICRON_STUFF "wikilink")
   - 5月
-    [redballoon](https://ja.wikipedia.org/wiki/redballoon "wikilink")　「[銀色の空](https://ja.wikipedia.org/wiki/銀色の空 "wikilink")」
+    [redballoon](https://ja.wikipedia.org/wiki/redballoon "wikilink")　「[銀色の空](../Page/銀色の空.md "wikilink")」
   - 6月
     [Hanaboy](../Page/Hanaboy.md "wikilink")
   - 7月

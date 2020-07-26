@@ -1,7 +1,7 @@
 > この記事は[Replay〜Best of 20th Century〜](https://ja.wikipedia.org/wiki/Replay〜Best_of_20th_Century〜)から翻訳されています。
 
 
-『**Replay〜Best of 20th Century〜**』（リプレイ ベスト・オブ・トウェンティースセンチュリー）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Replay〜Best of 20th Century〜**』（リプレイ ベスト・オブ・トウェンティースセンチュリー）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[1st](../Page/序数詞.md "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -111,7 +111,7 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       - 2ndアルバム収録曲
 5.  **[季節](https://ja.wikipedia.org/wiki/ROAD_\(20th_Centuryのアルバム\)#収録曲 "wikilink")**
       -
-        作詞・作曲：[スフィンクス](../Page/スフィンクス.md "wikilink")、編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞・作曲：[スフィンクス](../Page/スフィンクス.md "wikilink")、編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
     <!-- end list -->
       - 1stアルバム収録曲
 6.  **[screaming](../Page/メジルシの記憶.md "wikilink")**※

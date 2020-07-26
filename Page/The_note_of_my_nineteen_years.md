@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-1.  **[Honesty](https://ja.wikipedia.org/wiki/オネスティ "wikilink")**
+1.  **[Honesty](../Page/オネスティ.md "wikilink")**
 2.  **[蜃気楼の街](https://ja.wikipedia.org/wiki/SONGS_\(シュガー・ベイブのアルバム\) "wikilink")**
 3.  **[My Favorite Things](../Page/私のお気に入り.md "wikilink")**(「[My Favorite Things](../Page/My_Favorite_Things_\(竹井詩織里のアルバム\).md "wikilink")」の特典CDとして前に配布された。)
 4.  **[Baby one more time](https://ja.wikipedia.org/wiki/ベイビー・ワン・モア・タイム "wikilink")**

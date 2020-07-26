@@ -147,7 +147,7 @@
 
   - [ジェローム・ロタン](../Page/ジェローム・ロタン.md "wikilink") 1997-2000
 
-  - [マチュー・ボドメ](https://ja.wikipedia.org/wiki/マチュー・ボドメ "wikilink") 1998-2003
+  - [マチュー・ボドメ](../Page/マチュー・ボドメ.md "wikilink") 1998-2003
 
   - [ジェローム・ロタン](../Page/ジェローム・ロタン.md "wikilink") 2013
 

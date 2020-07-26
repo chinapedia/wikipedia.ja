@@ -9,7 +9,7 @@
   - Halo - ソビエトのヘリコプター[Mi-26のNATOコードネーム](../Page/Mi-26_\(航空機\).md "wikilink")
   - Halo - [高高度降下低高度開傘](https://ja.wikipedia.org/wiki/高高度降下低高度開傘 "wikilink")を意味するHigh Altitude-Low Openingの略
   - [HALO (バンド)](https://ja.wikipedia.org/wiki/HALO_\(バンド\) "wikilink") - 日本の音楽ユニット
-  - [Halo (アルバム)](https://ja.wikipedia.org/wiki/Halo_\(アルバム\) "wikilink") - [チューリップのアルバム](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")
+  - [Halo (アルバム)](https://ja.wikipedia.org/wiki/Halo_\(アルバム\) "wikilink") - [チューリップのアルバム](../Page/チューリップ_\(バンド\).md "wikilink")
   - Halo - [androp](https://ja.wikipedia.org/wiki/androp "wikilink")の楽曲。アルバム『[anew](https://ja.wikipedia.org/wiki/anew "wikilink")』に収録されている。
   - Halo - アメリカの補聴器メーカー[スターキー](https://ja.wikipedia.org/wiki/スターキー "wikilink")の[MFI](https://ja.wikipedia.org/wiki/MFI "wikilink")対応補聴器
   - [HALO (音楽グループ)](https://ja.wikipedia.org/wiki/HALO_\(音楽グループ\) "wikilink") - 韓国のアイドルグループ

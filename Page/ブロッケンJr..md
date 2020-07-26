@@ -280,7 +280,7 @@
 ## 声優
 
 1.  [水鳥鉄夫](../Page/水鳥鐵夫.md "wikilink")
-      - テレビアニメ『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』
+      - テレビアニメ『[キン肉マン](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")』
       - 劇場版アニメ第1作『[キン肉マン 奪われたチャンピオンベルト](../Page/キン肉マン_奪われたチャンピオンベルト.md "wikilink")』 - 第7作『[キン肉マン 正義超人vs戦士超人](../Page/キン肉マン_正義超人vs戦士超人.md "wikilink")』
       - テーマソング
       - [パチスロキン肉マン](https://ja.wikipedia.org/wiki/パチスロキン肉マン "wikilink")

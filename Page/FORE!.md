@@ -1,7 +1,7 @@
 > この記事は[FORE!](https://ja.wikipedia.org/wiki/FORE!)から翻訳されています。
 
 
-"**FORE\!**"は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のロック・グループの[ヒューイ・ルイス&ザ・ニュース](../Page/ヒューイ・ルイス&ザ・ニュース.md "wikilink")のアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")に日米同時リリースされた。
+"**FORE\!**"は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のロック・グループの[ヒューイ・ルイス&ザ・ニュース](../Page/ヒューイ・ルイス&ザ・ニュース.md "wikilink")のアルバム。[1986年](../Page/1986年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に日米同時リリースされた。
 
 日本盤とUK盤のみ8曲目に映画「[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャー.md "wikilink")」(1985)の主題歌の「[パワー・オブ・ラヴ](https://ja.wikipedia.org/wiki/パワー・オブ・ラヴ_\(ヒューイ・ルイス&ザ・ニュースの曲\) "wikilink")」が収録されている。
 

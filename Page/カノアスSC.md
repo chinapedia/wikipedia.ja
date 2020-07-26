@@ -5,7 +5,7 @@
 
 ## 概要
 
-クラブは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")にブラジル・ルーテル大学 (*Universidade Luterana do Brasil*, 略称 : ULBRA) によって**SCウルブラ** (*Sport Club Ulbra*) として設立された。創設当初のクラブにはバレーボール、フットサル、ハンドボール、陸上競技部門があった\[2\]。2001年にサッカー部門が設立された\[3\]。
+クラブは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")にブラジル・ルーテル大学 (*Universidade Luterana do Brasil*, 略称 : ULBRA) によって**SCウルブラ** (*Sport Club Ulbra*) として設立された。創設当初のクラブにはバレーボール、フットサル、ハンドボール、陸上競技部門があった\[2\]。2001年にサッカー部門が設立された\[3\]。
 
 2009年12月にクラブ名を**ウニヴェルシダージSC** (*Universidade Sport Club*) に改名した。\[4\]2010年11月に**カノアスSC** (*Canoas Sport Club*) に改名した。
 

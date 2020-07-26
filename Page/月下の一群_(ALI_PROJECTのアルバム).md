@@ -5,7 +5,7 @@
 
 ## 概要
 
-同年2月発売のシングル『[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")』より、蟻プロジェクトは[東芝EMIでのメジャーデビューに伴い](../Page/EMIミュージック・ジャパン.md "wikilink")「ALI PROJECT」と改名した。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[DALI](../Page/DALI.md "wikilink")、[星と月のソナタ](../Page/星と月のソナタ.md "wikilink")と同時に[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")を施し再発された。なおタイトルは[堀口大學](../Page/堀口大學.md "wikilink")の訳詩集と同名である。
+同年2月発売のシングル『[恋せよ乙女〜Love story of ZIPANG〜](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink")』より、蟻プロジェクトは[東芝EMIでのメジャーデビューに伴い](../Page/EMIミュージック・ジャパン.md "wikilink")「ALI PROJECT」と改名した。[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[DALI](../Page/DALI.md "wikilink")、[星と月のソナタ](../Page/星と月のソナタ.md "wikilink")と同時に[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")を施し再発された。なおタイトルは[堀口大學](../Page/堀口大學.md "wikilink")の訳詩集と同名である。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
         Accordion：[coba](https://ja.wikipedia.org/wiki/小林靖宏 "wikilink")
 7.  **堕ちて候** \[4:18\]
       - [ネスレ](../Page/ネスレ日本.md "wikilink")「ブライト」のCMソングとして、別歌詞・[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")によるボーカルのバージョンが使用されていた。名義は大竹しのぶ with ALI PROJECTとなっている。
-8.  **[恋せよ乙女〜Love story of ZIPANG〜](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink")** \[3:55\]
+8.  **[恋せよ乙女〜Love story of ZIPANG〜](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink")** \[3:55\]
       - 冷酒[黄桜](../Page/黄桜.md "wikilink")「飛沫」[CMソング](../Page/コマーシャルソング.md "wikilink")
 9.  **月光浴** \[3:28\]
       -

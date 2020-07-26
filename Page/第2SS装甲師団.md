@@ -91,7 +91,7 @@
   - 1941年12月31日 - 1942年4月19日 SS大将 [マティアス・クラインハイスターカンプ](https://ja.wikipedia.org/wiki/マティアス・クラインハイスターカンプ "wikilink")
   - 1942年4月19日 - 1943年2月10日 SS大将 ゲオルゲ・ケプラー (George Keppler)
   - 1943年2月10日 - 1943年3月18日 [SS少将](../Page/親衛隊少将.md "wikilink") ヘベルト・エルンスト・ファール (Hebert-Ernst Vahl)
-  - 1943年3月18日 - 1943年3月29日 [SS上級大佐](https://ja.wikipedia.org/wiki/親衛隊上級大佐 "wikilink") クルト・ブラザック (Kurt Brasack)
+  - 1943年3月18日 - 1943年3月29日 [SS上級大佐](../Page/親衛隊上級大佐.md "wikilink") クルト・ブラザック (Kurt Brasack)
   - 1943年3月29日 - 1943年10月23日 SS大将 [ヴァルター・クリューガー](https://ja.wikipedia.org/wiki/ヴァルター・クリューガー "wikilink")
   - 1943年10月23日 - 1944年7月24日 [SS中将](../Page/親衛隊中将.md "wikilink") [ハインツ・ラマーディング](https://ja.wikipedia.org/wiki/ハインツ・ラマーディング "wikilink")
   - 1944年7月24日 - 1944年7月28日 [SS大佐](../Page/親衛隊大佐.md "wikilink")

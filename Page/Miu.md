@@ -62,7 +62,7 @@
 
 ### 歴代MIUガール
 
-  - [小口亜紀](https://ja.wikipedia.org/wiki/小口亜紀 "wikilink")（2001年）
+  - [小口亜紀](../Page/小口亜紀.md "wikilink")（2001年）
   - markie（2002年）
   - 沖野真弓、[田中麻世](https://ja.wikipedia.org/wiki/田中麻世 "wikilink")、菅野真理子（2003年）
   - [大山ルミ](../Page/大山姉妹.md "wikilink")、[祖父江唯](https://ja.wikipedia.org/wiki/祖父江唯 "wikilink")（2004年〜2006年）

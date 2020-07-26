@@ -21,7 +21,7 @@ XaviXを開発した**新世代株式会社**は、1995年に[滋賀県](../Page
 
 新世代社はベンチャー企業として滋賀県からの援助を受け、4年の歳月をかけてXaviXチップを開発し、それによって2000年頃から「家庭用体感型ゲーム」という新たなジャンルのゲーム市場を切り開いた。2004年には任天堂のファミリーコンピュータのような[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")機としてXaviX PORTを販売したが、体感が売りであるため、あえてゲーム機ではなくフィットネス機器として売り出した。
 
-しかし、新世代社のスピンアウト元である任天堂がNINTENDO64・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")と2世代続けてゲーム機のシェア争いに敗れた反省と、市場全体に目新しいゲームが生まれず広がり始めたマンネリへの打開策が求められていたことから、2006年、体感型コントローラーである[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")を採用したゲーム機[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")を市場に投入した。Wiiの大ヒットによって、新世代社は体感ゲーム機の市場シェアを奪われた。さらに2007年、任天堂はXaviX PORTと類似したフィットネス用周辺機器[Wii Fitを投入した](../Page/Wii_Fit.md "wikilink")。大手の任天堂が直接競合する製品をリリースしたことで、新世代社は市場から撤退せざるを得なくなった。
+しかし、新世代社のスピンアウト元である任天堂がNINTENDO64・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")と2世代続けてゲーム機のシェア争いに敗れた反省と、市場全体に目新しいゲームが生まれず広がり始めたマンネリへの打開策が求められていたことから、2006年、体感型コントローラーである[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")を採用したゲーム機[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")を市場に投入した。Wiiの大ヒットによって、新世代社は体感ゲーム機の市場シェアを奪われた。さらに2007年、任天堂はXaviX PORTと類似したフィットネス用周辺機器[Wii Fitを投入した](../Page/Wii_Fit.md "wikilink")。大手の任天堂が直接競合する製品をリリースしたことで、新世代社は市場から撤退せざるを得なくなった。
 
 ## XaviX PORT
 
@@ -37,7 +37,7 @@ XaviX PORTの本体は入出力機能しか持たず、カートリッジ側にX
   - 全てのゲームを同一のコントローラーでプレイする他社製品とは違い、ソフトウェアごとにテニスラケットや野球のバットなどを模した専用コントローラーが付属する
   - 発売されたゲームカートリッジのほとんどに使われたメインチップのSuperXaviX-Chipが[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")と同等の65816カスタム（ただし周波数は43MHzと大幅に高い）であるため、同世代のゲーム機と比較して性能が低い（後に高性能のXavix-2チップも発表されたが、その頃にはXavix Portそのものが下火になっていた）。
   - ソフトウェアがフィットネス要素・トレーニング要素を重視しておりゲーム性が希薄
-  - ゲーム機第7世代のハードの中で発売時期と体感型コントローラーの採用が最も早い（[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")に先行すること2年、[Kinect](https://ja.wikipedia.org/wiki/Kinect "wikilink")や[PlayStation Moveに先行すること](https://ja.wikipedia.org/wiki/PlayStation_Move "wikilink")6年）
+  - ゲーム機第7世代のハードの中で発売時期と体感型コントローラーの採用が最も早い（[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")に先行すること2年、[Kinect](https://ja.wikipedia.org/wiki/Kinect "wikilink")や[PlayStation Moveに先行すること](https://ja.wikipedia.org/wiki/PlayStation_Move "wikilink")6年）
 
 などの特徴がある。
 
@@ -159,7 +159,7 @@ XaviX PORTの本体は入出力機能しか持たず、カートリッジ側にX
 2004年当時、[体感ゲーム](../Page/体感ゲーム.md "wikilink")が遊べる汎用のプラットホーム（ゲーム機）は存在せず、体感ゲームが遊べるゲーム機はプラグ&プレイ型のゲーム玩具のみだったが、当時は児童用の体感ゲーム玩具に汎用SoCを搭載するのはコスト的にも性能的にも無理だったことから、独自アーキテクチャを採用した体感ゲーム玩具専用のSoCが各社で盛んに開発され、それらを採用したアプリケーションも多くあった。しかし、2005年には[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")が発売され、また2010年には[kinect](https://ja.wikipedia.org/wiki/kinect "wikilink")なども発売されるなど多数のソフトが発売され、家庭用ゲーム機で体感ゲームブームが起こると、プラグ&プレイ型体感ゲーム機のブームは終了した。また、同時期よりスマホブームに乗って高性能なARM系の汎用SoCが安価に市場に供給されるようになるに至って、体感ゲーム機専用SoCは淘汰された。
 
   - [POEMS](https://ja.wikipedia.org/wiki/POEMS "wikilink") - ハドソンとコナミが共同開発したゲーム用SoC。XaviXの競合ハードで、POEMSを採用したコナミの「[PLAY-POEMS](https://ja.wikipedia.org/wiki/PLAY-POEMS "wikilink")」シリーズは、XaviXを採用したバンダイの「[Let's\! TV プレイ](https://ja.wikipedia.org/wiki/Let's!_TV_プレイ "wikilink")」シリーズとともに2000年代中頃のプラグ＆プレイ体感ゲーム玩具の市場を牽引した。
-  - [ZEVIO](https://ja.wikipedia.org/wiki/ZEVIO "wikilink") - [株式会社コト](https://ja.wikipedia.org/wiki/株式会社コト "wikilink")と[LSI Logicが共同開発し](https://ja.wikipedia.org/wiki/LSIコーポレーション "wikilink")2006年に発表したゲーム用SoC。なお、株式会社コトは任天堂で『[ゲーム&ウオッチ](../Page/ゲーム&ウオッチ.md "wikilink")』や『[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")』などを開発した[横井軍平](https://ja.wikipedia.org/wiki/横井軍平 "wikilink")率いる開発チーム([任天堂製造本部開発第一部](https://ja.wikipedia.org/wiki/任天堂製造本部開発第一部 "wikilink"))のメンバー数名がスピンアウトして設立した会社であるため、Xavixを開発した新世代株式会社（任天堂製造本部開発第二部からのスピンアウト組）と似た経歴を持つ。コト社はバンダイのゲーム機[ワンダースワン](../Page/ワンダースワン.md "wikilink")を開発するなどバンダイと関係が深いため、コト社の製品にも『Let's TVプレイ バトル体感ゴムゴムのかめはめ波』などXavixを採用したバンダイの受託開発作品が多い。
+  - [ZEVIO](https://ja.wikipedia.org/wiki/ZEVIO "wikilink") - [株式会社コト](https://ja.wikipedia.org/wiki/株式会社コト "wikilink")と[LSI Logicが共同開発し](../Page/LSIコーポレーション.md "wikilink")2006年に発表したゲーム用SoC。なお、株式会社コトは任天堂で『[ゲーム&ウオッチ](../Page/ゲーム&ウオッチ.md "wikilink")』や『[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")』などを開発した[横井軍平](https://ja.wikipedia.org/wiki/横井軍平 "wikilink")率いる開発チーム([任天堂製造本部開発第一部](https://ja.wikipedia.org/wiki/任天堂製造本部開発第一部 "wikilink"))のメンバー数名がスピンアウトして設立した会社であるため、Xavixを開発した新世代株式会社（任天堂製造本部開発第二部からのスピンアウト組）と似た経歴を持つ。コト社はバンダイのゲーム機[ワンダースワン](../Page/ワンダースワン.md "wikilink")を開発するなどバンダイと関係が深いため、コト社の製品にも『Let's TVプレイ バトル体感ゴムゴムのかめはめ波』などXavixを採用したバンダイの受託開発作品が多い。
 
 <!-- end list -->
 

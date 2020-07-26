@@ -30,7 +30,7 @@
   - [キリンジ](../Page/キリンジ.md "wikilink") （→[日本コロムビア](../Page/日本コロムビア.md "wikilink")→[ユニバーサル クラシック&ジャズ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")（→[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
   - [GUAN CHAI](../Page/GUAN_CHAI.md "wikilink")
-  - [KUMAMI](https://ja.wikipedia.org/wiki/KUMAMI "wikilink")
+  - [KUMAMI](../Page/KUMAMI.md "wikilink")
   - [GLAY](../Page/GLAY.md "wikilink") （→[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")→ポニーキャニオン）
   - [Keison](../Page/Keison.md "wikilink")
   - [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")（解散）

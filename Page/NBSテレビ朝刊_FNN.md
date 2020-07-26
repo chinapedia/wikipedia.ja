@@ -20,6 +20,6 @@
   - タイトル・提供スポンサーテロップともに独自のテロップカードを使用していた。
   - 第1期は不明、第2期は赤いバックにテレビ送信アンテナを重ね合わせたもので、上に「NBS」、中央に「テレビ朝刊」、下に「FNN」と書かれていた。
   - さらにエンディングでは下の隣に「終」と書かれていた。
-  - スポンサーバックは[北アルプス](https://ja.wikipedia.org/wiki/北アルプス "wikilink")の写真が使用され、下に提供スポンサーが描かれていたが、この時期のスポンサーは[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の長野県ディーラーのひとつ・信濃マツダ（現:甲信マツダ）であった。
+  - スポンサーバックは[北アルプス](https://ja.wikipedia.org/wiki/北アルプス "wikilink")の写真が使用され、下に提供スポンサーが描かれていたが、この時期のスポンサーは[マツダ](../Page/マツダ.md "wikilink")の長野県ディーラーのひとつ・信濃マツダ（現:甲信マツダ）であった。
 
 [Category:1971年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1971年のテレビ番組_\(日本\) "wikilink") [Category:長野放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長野放送のテレビ番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink")

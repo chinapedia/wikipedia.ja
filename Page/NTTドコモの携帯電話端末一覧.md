@@ -653,7 +653,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/F1100" title="wikilink">F1100</a>・<a href="../Page/らくらくホンベーシック.md" title="wikilink">F883iS</a><br />
+<td><p><a href="../Page/F1100.md" title="wikilink">F1100</a>・<a href="../Page/らくらくホンベーシック.md" title="wikilink">F883iS</a><br />
 <a href="../Page/らくらくホンIV.md" title="wikilink">F883iESS</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホンプレミアム" title="wikilink">F884i</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/HT1100" title="wikilink">HT1100</a></p></td>
 <td></td>

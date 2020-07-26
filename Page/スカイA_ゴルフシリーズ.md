@@ -39,7 +39,7 @@
 <!-- end list -->
 
   - [Tポイント×ENEOSゴルフトーナメント](https://ja.wikipedia.org/wiki/Tポイント×ENEOSゴルフトーナメント "wikilink")（テレビ朝日）※2010年より\[1\]
-  - [ヤマハレディースオープン葛城](https://ja.wikipedia.org/wiki/ヤマハレディースオープン葛城 "wikilink")（テレビ朝日）
+  - [ヤマハレディースオープン葛城](../Page/ヤマハレディースオープン葛城.md "wikilink")（テレビ朝日）
   - [リゾートトラストレディス](../Page/リゾートトラストレディス.md "wikilink")（[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")）
   - [アース・モンダミンカップ](https://ja.wikipedia.org/wiki/アース・モンダミンカップ "wikilink")（テレビ朝日）※2012年より
   - [日本女子プロゴルフ選手権大会](../Page/日本女子プロゴルフ選手権大会.md "wikilink")コニカミノルタ杯（朝日放送テレビ）

@@ -287,7 +287,7 @@ U研究室</p></td>
 <td><p>024</p></td>
 <td><p>本野精吾自邸（現・本野邸）</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本野精吾" title="wikilink">本野精吾</a></p></td>
+<td><p><a href="../Page/本野精吾.md" title="wikilink">本野精吾</a></p></td>
 <td><p>1924年</p></td>
 <td><p>京都府京都市</p></td>
 <td></td>
@@ -1090,7 +1090,7 @@ U研究室</p></td>
 <tr class="odd">
 <td><p>101</p></td>
 <td><p>甲子園大運動場<br />
-（現・<a href="https://ja.wikipedia.org/wiki/阪神甲子園球場" title="wikilink">阪神甲子園球場</a>）</p></td>
+（現・<a href="../Page/阪神甲子園球場.md" title="wikilink">阪神甲子園球場</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Hanshin_Koshien_Stadium_2007-30.jpg" title="wikilink">120x120px</a></p></td>
 <td><p><a href="../Page/野田誠三.md" title="wikilink">野田誠三</a><br />
 <a href="https://ja.wikipedia.org/wiki/今林彦太郎" title="wikilink">今林彦太郎</a></p></td>

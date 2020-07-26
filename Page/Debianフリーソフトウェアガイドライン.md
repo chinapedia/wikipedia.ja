@@ -64,7 +64,7 @@ GFDLの不可変更部分のために、Debianの内容のごく一部はDFSGに
 
 ## 関連項目
 
-  - [フリーソフトウェアの定義](https://ja.wikipedia.org/wiki/フリーソフトウェアの定義 "wikilink")
+  - [フリーソフトウェアの定義](../Page/フリーソフトウェアの定義.md "wikilink")
   - [オープンソースの定義](https://ja.wikipedia.org/wiki/オープンソースの定義 "wikilink")
   - [フリーソフトウェアの歴史](https://ja.wikipedia.org/wiki/フリーソフトウェアの歴史 "wikilink")
 

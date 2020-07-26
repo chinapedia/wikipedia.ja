@@ -36,8 +36,8 @@
   - キャッチコピー - **「恋とか、愛とかのすこし先。」**
   - 出演 - [大和田伸也](../Page/大和田伸也.md "wikilink")、[黒田福美](../Page/黒田福美.md "wikilink")
   - 監督 - [中島信也](../Page/中島信也.md "wikilink")（[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")）、澤本嘉光（電通）
-  - テーマ曲 - [青春の影](../Page/青春の影_\(チューリップの曲\).md "wikilink")（[TULIP](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")）
-  - 協賛社 - [全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[プラチナ・ギルド・インターナショナル](https://ja.wikipedia.org/wiki/プラチナ・ギルド・インターナショナル "wikilink")、読売新聞
+  - テーマ曲 - [青春の影](../Page/青春の影_\(チューリップの曲\).md "wikilink")（[TULIP](../Page/チューリップ_\(バンド\).md "wikilink")）
+  - 協賛社 - [全日空](../Page/全日本空輸.md "wikilink")、[プラチナ・ギルド・インターナショナル](https://ja.wikipedia.org/wiki/プラチナ・ギルド・インターナショナル "wikilink")、読売新聞
   - 公式ページ - [Friend-Ship Project 第3弾](https://www.tv-tokyo.co.jp/fsp3/)
 
 ### 第4弾（2008年夏）

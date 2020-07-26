@@ -219,7 +219,7 @@ __TOC__{{-}}
       - ROOTOTE Charity Event チャリティライブ（3月10日、[表参道ヒルズ](../Page/表参道ヒルズ.md "wikilink")本館吹抜け大階段）
       - マイロックンロール50（7月6日、[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")）
       - [indigo blue](https://ja.wikipedia.org/wiki/indigo_blue "wikilink") Unplugged LIVE feat. LOVE（7月7日、音楽実験室 新世界）
-      - Heart Beat Rockers（9月18日、[WOMB](https://ja.wikipedia.org/wiki/WOMB "wikilink")）
+      - Heart Beat Rockers（9月18日、[WOMB](../Page/WOMB.md "wikilink")）
       - Hellosmile Live 2011 Autumn（11月12日、ラフォーレミュージアム[六本木](../Page/六本木.md "wikilink")）
       - 日本橋STYLE 〜 Lovers Christmas eve 〜（12月24日、日本橋三井ホール）
   - 2012年

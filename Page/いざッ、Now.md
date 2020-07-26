@@ -25,7 +25,7 @@
       - [二宮和也](../Page/二宮和也.md "wikilink")主演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ「[Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")」主題歌
 2.  **JAM** (4:12)
       -
-        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：Tobias Lindell・Joel Eriksson・Victor Wiszniewski、編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：Tobias Lindell・Joel Eriksson・Victor Wiszniewski、編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 3.  **The Bubble** (3:54)
       -
         作詞：SPIN、作曲：Peter Bjorklund・Joel Eriksson、編曲：AKIRA、Rap詞：櫻井翔

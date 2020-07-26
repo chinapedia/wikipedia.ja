@@ -47,7 +47,7 @@
         (作曲・編曲：佐藤泰将)
 11. **In the Cemetery**　2'34"
       -
-        (作詞：久保田洋司　作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink"))
+        (作詞：久保田洋司　作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink"))
 12. **Why don’t you dance with me?**　3'53"
       -
         (作詞：白井裕紀, 新美香　作曲：堂本光一　編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink"), [吉岡たく](https://ja.wikipedia.org/wiki/吉岡たく "wikilink"))

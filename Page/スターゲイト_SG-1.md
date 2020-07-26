@@ -746,7 +746,7 @@
 
 <!-- end list -->
 
-  - リチャード・ウールジー ([Richard Woolsey](https://ja.wikipedia.org/wiki/:en:Richard_Woolsey "wikilink")) - [ロバート・ピカード](https://ja.wikipedia.org/wiki/ロバート・ピカード "wikilink") ()（声：[金子由之](../Page/金子由之.md "wikilink")）
+  - リチャード・ウールジー ([Richard Woolsey](https://ja.wikipedia.org/wiki/:en:Richard_Woolsey "wikilink")) - [ロバート・ピカード](../Page/ロバート・ピカード.md "wikilink") ()（声：[金子由之](../Page/金子由之.md "wikilink")）
 
 <!-- end list -->
 

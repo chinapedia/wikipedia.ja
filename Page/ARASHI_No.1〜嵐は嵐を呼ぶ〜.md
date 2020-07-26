@@ -42,7 +42,7 @@
       - [二宮和也](../Page/二宮和也.md "wikilink")出演 フジテレビ系水曜ドラマ「[涙をふいて](../Page/涙をふいて_\(テレビドラマ\).md "wikilink")」オープニングテーマ
 7.  **愛と勇気とチェリーパイ** (5:18)
       -
-        作詞：戸沢暢美、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：戸沢暢美、作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 8.  **Deepな冒険** (4:38)
       -
         作詞：戸沢暢美、作曲：[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")、編曲：CHOKKAKU

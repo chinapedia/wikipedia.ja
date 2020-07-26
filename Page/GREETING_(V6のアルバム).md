@@ -1,7 +1,7 @@
 > この記事は[GREETING \(V6のアルバム\)](https://ja.wikipedia.org/wiki/GREETING_\(V6のアルバム\))から翻訳されています。
 
 
-『**GREETING**』（グリーティング）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[1996年](../Page/1996年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**GREETING**』（グリーティング）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[1st](../Page/序数詞.md "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[1996年](../Page/1996年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

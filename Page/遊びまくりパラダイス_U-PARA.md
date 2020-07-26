@@ -22,7 +22,7 @@
 ## 遊びまくりパラダイス
 
   - 24時間365日、店内利用料金のみで店内のアイテムが遊び放題となっている
-  - アイテムには[ボウリング](../Page/ボウリング.md "wikilink")、[ダーツ](../Page/ダーツ.md "wikilink")、[カラオケ](../Page/カラオケ.md "wikilink")、[ビリヤード](../Page/ビリヤード.md "wikilink")、[日焼けマシン](https://ja.wikipedia.org/wiki/日焼けマシン "wikilink")、[マンガ喫茶](https://ja.wikipedia.org/wiki/マンガ喫茶 "wikilink")、[インターネットカフェ](https://ja.wikipedia.org/wiki/インターネットカフェ "wikilink")、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")など250種類のアイテムが揃っている。
+  - アイテムには[ボウリング](../Page/ボウリング.md "wikilink")、[ダーツ](../Page/ダーツ.md "wikilink")、[カラオケ](../Page/カラオケ.md "wikilink")、[ビリヤード](../Page/ビリヤード.md "wikilink")、[日焼けマシン](https://ja.wikipedia.org/wiki/日焼けマシン "wikilink")、[マンガ喫茶](https://ja.wikipedia.org/wiki/マンガ喫茶 "wikilink")、[インターネットカフェ](../Page/インターネットカフェ.md "wikilink")、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")など250種類のアイテムが揃っている。
   - そのほか、リラックスルーム、シャワーなど宿泊にも使える設備がある。
   - 料金は2種類あり会員登録をすると10分70円の基本料金に加え、3時間1000円、24時間2000円で上記のアイテムが利用放題になっている。
 

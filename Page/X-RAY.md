@@ -1,7 +1,7 @@
 > この記事は[X-RAY](https://ja.wikipedia.org/wiki/X-RAY)から翻訳されています。
 
 
-**X-RAY**（エックスレイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1981年](../Page/1981年.md "wikilink")結成、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にアルバム「魔天～HARD SECTION」でデビューした。デビュー当時、まだ17歳だった湯浅晋のテクニカルかつメロディアスなギタープレイが話題を集めていたが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")解散。
+**X-RAY**（エックスレイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1981年](../Page/1981年.md "wikilink")結成、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にアルバム「魔天～HARD SECTION」でデビューした。デビュー当時、まだ17歳だった湯浅晋のテクニカルかつメロディアスなギタープレイが話題を集めていたが、[1986年](../Page/1986年.md "wikilink")解散。
 
 ## メンバー
 

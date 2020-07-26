@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **[三鷹市](../Page/三鷹市.md "wikilink")[上連雀](https://ja.wikipedia.org/wiki/上連雀 "wikilink")**
-      - 作詞・作曲：影山ヒロノブ、編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - 作詞・作曲：影山ヒロノブ、編曲：[須藤賢一](../Page/須藤賢一.md "wikilink")
 2.  **ヤダ\!\!**
       - 作詞・作曲：影山ヒロノブ、編曲：須藤賢一
 3.  **まふゆの花火**

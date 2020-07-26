@@ -96,7 +96,7 @@
 
 #### は行（青緑）
 
-  - [ハートの国のアリスシリーズ](https://ja.wikipedia.org/wiki/ハートの国のアリス〜Wonderful_Wonder_World〜 "wikilink")（原作：[QuinRose](../Page/QuinRose.md "wikilink")/[魚住ユキコ](https://ja.wikipedia.org/wiki/魚住ユキコ "wikilink")・市川しんす）（全15巻、※他に派生シリーズとして「[クローバーの国のアリス](https://ja.wikipedia.org/wiki/クローバーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")」「[ダイヤの国のアリス](https://ja.wikipedia.org/wiki/ダイヤの国のアリス〜Wonderful_Wonder_World〜 "wikilink")」「ジョーカーの国のアリス」も刊行されているので合算）
+  - [ハートの国のアリスシリーズ](../Page/ハートの国のアリス〜Wonderful_Wonder_World〜.md "wikilink")（原作：[QuinRose](../Page/QuinRose.md "wikilink")/[魚住ユキコ](https://ja.wikipedia.org/wiki/魚住ユキコ "wikilink")・市川しんす）（全15巻、※他に派生シリーズとして「[クローバーの国のアリス](https://ja.wikipedia.org/wiki/クローバーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")」「[ダイヤの国のアリス](https://ja.wikipedia.org/wiki/ダイヤの国のアリス〜Wonderful_Wonder_World〜 "wikilink")」「ジョーカーの国のアリス」も刊行されているので合算）
   - 花嫁シリーズ（森崎朝香/[由羅カイリ](../Page/由羅カイリ.md "wikilink")・明咲トウル）（全12巻）
   - 薔薇の乙女シリーズ（花夜光/梨とりこ）（全6巻）
   - プラパ・ゼータシリーズ（流星香/片山愁）（全6巻）

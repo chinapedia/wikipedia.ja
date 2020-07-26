@@ -77,7 +77,7 @@
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")
   - Chan
   - [Thaitanium](https://ja.wikipedia.org/wiki/:en:Thaitanium "wikilink")
-  - [Edison Chen](https://ja.wikipedia.org/wiki/陳冠希 "wikilink")
+  - [Edison Chen](../Page/陳冠希.md "wikilink")
   - [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")
   - [Chara](https://ja.wikipedia.org/wiki/CHARA "wikilink")
   - Lori Fine ([COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink"))

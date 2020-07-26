@@ -13,7 +13,7 @@
 
 1.  **Get Set･･･Go\!**
       -
-        作詞：[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")・[三宅健](../Page/三宅健.md "wikilink")、作曲：[岡田准一](../Page/岡田准一.md "wikilink")、編曲：[久米康隆](https://ja.wikipedia.org/wiki/久米康隆 "wikilink")
+        作詞：[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")・[三宅健](../Page/三宅健.md "wikilink")、作曲：[岡田准一](../Page/岡田准一.md "wikilink")、編曲：[久米康隆](../Page/久米康隆.md "wikilink")
 2.  **燃えろ紅ショウガ**
       -
         作詞：[CRAZY-SKB](../Page/THE_CRAZY_SKB.md "wikilink")、作曲：[QPクレイジー](../Page/QP-CRAZY.md "wikilink")、編曲：[高橋KATSU](https://ja.wikipedia.org/wiki/高橋KATSU "wikilink")

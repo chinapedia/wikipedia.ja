@@ -1,7 +1,7 @@
 > この記事は[炭酸銀\(I\)](https://ja.wikipedia.org/wiki/炭酸銀\(I\))から翻訳されています。
 
 
-| Section7 =  }} **炭酸銀(I)**（たんさんぎん いち、）は[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")の一種で、[化学式](../Page/化学式.md "wikilink") Ag<sub>2</sub>CO<sub>3</sub> と表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[炭酸塩](../Page/炭酸塩.md "wikilink")である。
+| Section7 =  }} **炭酸銀(I)**（たんさんぎん いち、）は[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")の一種で、[化学式](../Page/化学式.md "wikilink") Ag<sub>2</sub>CO<sub>3</sub> と表される[銀](../Page/銀.md "wikilink")の[炭酸塩](../Page/炭酸塩.md "wikilink")である。
 
 ## 性質
 

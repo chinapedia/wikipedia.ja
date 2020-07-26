@@ -17,7 +17,7 @@
 
 5月の後楽園大会ではそのNEW HAZARDにトライアングル戦で敗れ、タイフーン、NEW HAZARD、マッスルの3軍抗争となった。
 
-9月には、唯一の外国人選手だった[マット・サイダル](https://ja.wikipedia.org/wiki/マット・サイダル "wikilink")が[WWE](../Page/WWE.md "wikilink")に移籍するため、タイフーンを、そしてDRAGON GATEを卒業。そのマットの推薦で、7月のレッスルJAMで初来日した[PACが加入した](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")。
+9月には、唯一の外国人選手だった[マット・サイダル](https://ja.wikipedia.org/wiki/マット・サイダル "wikilink")が[WWE](../Page/WWE.md "wikilink")に移籍するため、タイフーンを、そしてDRAGON GATEを卒業。そのマットの推薦で、7月のレッスルJAMで初来日した[PACが加入した](../Page/ベンジャミン・サッタリー.md "wikilink")。
 
 10月7日の名古屋大会ではCIMAがマッスル・アウトローズとの共闘を示唆し、後日マッスル・アウトローズが解散を表明するがすぐに撤回し裏切られる。その直後にGammaがCIMAの助太刀に入り、Typhoon加入を表明したがそれもマッスルの罠であり、やはり裏切られた。
 
@@ -44,7 +44,7 @@
 
 ## 外国人メンバー
 
-  - [PAC](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")
+  - [PAC](../Page/ベンジャミン・サッタリー.md "wikilink")
   - [ヒューマン・トルネード](https://ja.wikipedia.org/wiki/ヒューマン・トルネード "wikilink")
 
 ## 元メンバー

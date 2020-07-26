@@ -16,7 +16,7 @@
 <!-- end list -->
 
   - 気合い入れの言葉は『今日も美味しくいただきますっ\!\!』\[10\]。
-  - ジャケット上のセンターは1stシングル「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」から3rdシングル「[Kiss\!Kiss\!Kiss\!](https://ja.wikipedia.org/wiki/Kiss!Kiss!Kiss! "wikilink")」までは夏焼雅、4thシングル「[ガチンコでいこう\!](../Page/ガチンコでいこう!.md "wikilink")」から7thシングル「[MY BOY](https://ja.wikipedia.org/wiki/MY_BOY "wikilink")」は嗣永桃子、8thシングル「[Take It Easy\!](https://ja.wikipedia.org/wiki/Take_It_Easy! "wikilink")」からは鈴木愛理、13thシングル「[初恋サイダー/DEEP MIND](https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND "wikilink")」、14thシングル「[ソラシド〜ねえねえ〜](https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜 "wikilink")」は嗣永桃子である。
+  - ジャケット上のセンターは1stシングル「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」から3rdシングル「[Kiss\!Kiss\!Kiss\!](../Page/Kiss!Kiss!Kiss!.md "wikilink")」までは夏焼雅、4thシングル「[ガチンコでいこう\!](../Page/ガチンコでいこう!.md "wikilink")」から7thシングル「[MY BOY](https://ja.wikipedia.org/wiki/MY_BOY "wikilink")」は嗣永桃子、8thシングル「[Take It Easy\!](https://ja.wikipedia.org/wiki/Take_It_Easy! "wikilink")」からは鈴木愛理、13thシングル「[初恋サイダー/DEEP MIND](https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND "wikilink")」、14thシングル「[ソラシド〜ねえねえ〜](https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜 "wikilink")」は嗣永桃子である。
 
 ## メンバー
 
@@ -239,7 +239,7 @@
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2008年5月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Kiss!Kiss!Kiss!" title="wikilink">Kiss!Kiss!Kiss!</a></p></td>
+<td><p><a href="../Page/Kiss!Kiss!Kiss!.md" title="wikilink">Kiss!Kiss!Kiss!</a></p></td>
 <td><p>4位</p></td>
 <td><p>岩里祐穂</p></td>
 <td><p>みんなだいすき</p></td>

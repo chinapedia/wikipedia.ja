@@ -29,7 +29,7 @@
         6thシングル
 7.  **おいしいゴハン**
     (作詞：Naoki Takada / 作曲：Naoki Takada & Shintaro "Growth" Izutsu / 編曲：Shintaro "Growth" Izutsu)
-8.  **Do It\! feat. [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") & [KURO](../Page/KURO.md "wikilink") (from [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))**
+8.  **Do It\! feat. [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") & [KURO](../Page/KURO.md "wikilink") (from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))**
     (作詞：Naoki Takada, MICRO, KURO / 作曲：Naoki Takada, MICRO, KURO, Deckstream / 編曲：Deckstream)
 9.  **Chilling. Chilling**
     (作詞：Naoki Takada / 作曲：Naoki Takada & [DJ 大自然](https://ja.wikipedia.org/wiki/DJ_大自然 "wikilink") / 編曲：DJ 大自然)

@@ -10,7 +10,7 @@
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）10月 - 株式会社システムユティリティ（SUC）を100%出資により設立。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）12月 - [通産省の](../Page/経済産業省.md "wikilink")「システムインテグレーター認定企業」の認定を受ける。
   - [1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）7月 - CACがSSK、SUCを[吸収合併](../Page/合併_\(企業\).md "wikilink")、**株式会社シーエーシー**に商号変更する。
-  - [1999年](../Page/1999年.md "wikilink")（平成11年）7月 - 株式を[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")の[店頭登録銘柄として公開](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）7月 - 株式を[日本証券業協会](../Page/日本証券業協会.md "wikilink")の[店頭登録銘柄として公開](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - [東証](../Page/東京証券取引所.md "wikilink")1部に上場。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）4月 - 持株会社体制に移行。[会社分割](../Page/会社分割.md "wikilink")により事業子会社の株式会社シーエーシーを新設するとともに、**株式会社CAC Holdings**へ商号変更。
 

@@ -42,6 +42,6 @@ roff におけるプリプロセッサとは roff のフォーマットに変換
 
 ## 参考文献
 
-  - シェリー・パワーズ他著、『[Unix パワーツール 第3版](https://www.oreilly.co.jp/books/4873111420/)』、ドキュメントシステム訳、[オライリー・ジャパン](https://ja.wikipedia.org/wiki/オライリー・ジャパン "wikilink")、2003年、ISBN 4-87311-142-0
+  - シェリー・パワーズ他著、『[Unix パワーツール 第3版](https://www.oreilly.co.jp/books/4873111420/)』、ドキュメントシステム訳、[オライリー・ジャパン](../Page/オライリー・ジャパン.md "wikilink")、2003年、ISBN 4-87311-142-0
 
 [Category:UNIXのソフトウェア](https://ja.wikipedia.org/wiki/Category:UNIXのソフトウェア "wikilink") [Category:マークアップ言語](https://ja.wikipedia.org/wiki/Category:マークアップ言語 "wikilink") [Category:1973年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1973年のソフトウェア "wikilink")

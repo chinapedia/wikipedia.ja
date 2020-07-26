@@ -23,7 +23,7 @@
 
 ## 通史
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、日本で初めて[Bボーイ](https://ja.wikipedia.org/wiki/Bボーイ "wikilink")と呼ばれた男・**[CRAZY-A](../Page/CRAZY-A.md "wikilink")**が発起人および実行委員長となり、「**Tokyo B-BOY'S ANNIVERSARY**」の名で初開催される。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、日本で初めて[Bボーイ](../Page/Bボーイ.md "wikilink")と呼ばれた男・**[CRAZY-A](../Page/CRAZY-A.md "wikilink")**が発起人および実行委員長となり、「**Tokyo B-BOY'S ANNIVERSARY**」の名で初開催される。
   - [2003年](../Page/2003年.md "wikilink")、MCバトルで事件（[後述](https://ja.wikipedia.org/wiki/#2003年のMCバトルでの事件 "wikilink")）が起こる。これがきっかけとなり、翌年からB BOY PARKの目玉だったMCバトル、DJバトルが開催されなくなる。
   - [2005年](../Page/2005年.md "wikilink")、MCバトルが[両国国技館](../Page/両国国技館.md "wikilink")にて復活するも、その後、再び姿を消す。
   - [2009年](../Page/2009年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、1997年のスタート時より実行委員長を務めてきた[CRAZY-A](../Page/CRAZY-A.md "wikilink")が大麻取締法違反（所持）の現行犯で逮捕される。このことを受けて、同イベントの実行委員長を辞退する。

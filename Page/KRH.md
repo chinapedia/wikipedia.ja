@@ -6,7 +6,7 @@
 ## 沿革
 
   - [1977年](../Page/1977年.md "wikilink") - 青山馥（かおる）が青山商店（信和商店）を創業\[1\]。
-  - [1979年](../Page/1979年.md "wikilink") - [信和](https://ja.wikipedia.org/wiki/信和 "wikilink")株式会社設立。
+  - [1979年](../Page/1979年.md "wikilink") - [信和](../Page/信和.md "wikilink")株式会社設立。
   - [1988年](../Page/1988年.md "wikilink") - 信和サービス株式会社設立。くさび式足場・架払リース・架払事業の開始くさび式足場・製造販売。
   - [1989年](../Page/1989年.md "wikilink") - 岐阜信和サービス株式会社に改称。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 信和サービス株式会社に改称。

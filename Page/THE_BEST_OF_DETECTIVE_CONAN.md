@@ -7,7 +7,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")以降ほぼ一貫して名探偵コナンの主題歌を担当している[Being勢が企画版で発売したアルバム](../Page/ビーイング.md "wikilink")。
 
-1997年-2000年代前半はこのアニメのタイアップソングは必ずといっていいほどヒットにつながっている。この背景には[B'z](../Page/B'z.md "wikilink")や[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[DEEN](../Page/DEEN.md "wikilink")などの90年代を代表するアーティストや、デビュー曲でノンタイアップながら、[ミリオンヒットを記録した](../Page/ミリオンセラー.md "wikilink")[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")が楽曲に携わっていることが挙げられる。また、[小松未歩](../Page/小松未歩.md "wikilink")、[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")、[rumania montevideo](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")、[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")、[三枝夕夏 IN dbなどはこのアニメのタイアップによって一躍ブレイクした](../Page/三枝夕夏_IN_db.md "wikilink")。
+1997年-2000年代前半はこのアニメのタイアップソングは必ずといっていいほどヒットにつながっている。この背景には[B'z](../Page/B'z.md "wikilink")や[ZARD](../Page/ZARD.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")などの90年代を代表するアーティストや、デビュー曲でノンタイアップながら、[ミリオンヒットを記録した](../Page/ミリオンセラー.md "wikilink")[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")が楽曲に携わっていることが挙げられる。また、[小松未歩](../Page/小松未歩.md "wikilink")、[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")、[rumania montevideo](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")、[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")、[三枝夕夏 IN dbなどはこのアニメのタイアップによって一躍ブレイクした](../Page/三枝夕夏_IN_db.md "wikilink")。
 
 ## リリース一覧
 

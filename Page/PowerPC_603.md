@@ -11,7 +11,7 @@ PowerPC 603及びその発展型である603e、603evは32ビットのRISCプロ
 
   - 3(うち1は分岐)命令実行\[1\]の[アウト・オブ・オーダー実行](../Page/アウト・オブ・オーダー実行.md "wikilink")可能な[スーパースカラ](https://ja.wikipedia.org/wiki/スーパースカラ "wikilink")コア
   - 32ビットの[アドレスバス](https://ja.wikipedia.org/wiki/アドレスバス "wikilink")
-  - 内部／外部[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")の[データバス](https://ja.wikipedia.org/wiki/データバス "wikilink")
+  - 内部／外部[64ビット](../Page/64ビット.md "wikilink")の[データバス](https://ja.wikipedia.org/wiki/データバス "wikilink")
   - 整数演算ユニット×1
   - [浮動小数点数演算ユニット](../Page/FPU.md "wikilink")×1
   - 603では16KBの[L1キャッシュ](../Page/キャッシュ.md "wikilink")、603e以降は32KBのL1キャッシュ

@@ -37,7 +37,7 @@
       - 8月30日 - ファイル保存容量を無料プラン10GB、有料プラン無制限に増量。\[25\]。
   - [2013年](../Page/2013年.md "wikilink")
       - 3月7日 - [Facebook](../Page/Facebook.md "wikilink")への更新通知機能を追加\[26\]。
-      - 3月7日 - FC2ブログに[児童ポルノ](https://ja.wikipedia.org/wiki/児童ポルノ "wikilink")画像を検出する[PhotoDNA](https://ja.wikipedia.org/wiki/PhotoDNA "wikilink")を導入\[27\]。
+      - 3月7日 - FC2ブログに[児童ポルノ](../Page/児童ポルノ.md "wikilink")画像を検出する[PhotoDNA](https://ja.wikipedia.org/wiki/PhotoDNA "wikilink")を導入\[27\]。
       - 4月23日 - 有料プランにスマートフォン広告オフ機能、[FTPアップロード機能を追加](../Page/File_Transfer_Protocol.md "wikilink")、記事投稿数を1日100件に増量\[28\]。
       - 5月 - サーバー番号非表示機能を追加\[29\]。
       - 7月30日 - に全広告オフ機能、[404エラーページカスタマイズ機能を追加](../Page/HTTP_404.md "wikilink")、ファイルアップロード容量を5MBに増量\[30\]。

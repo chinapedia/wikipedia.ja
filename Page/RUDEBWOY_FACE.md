@@ -161,7 +161,7 @@
 <td><p>POCE-17001</p></td>
 <td><ol>
 <li>Raggamuffin</li>
-<li>Back in the Days feat.<a href="https://ja.wikipedia.org/wiki/HAN-KUN" title="wikilink">HAN-KUN</a></li>
+<li>Back in the Days feat.<a href="../Page/HAN-KUN.md" title="wikilink">HAN-KUN</a></li>
 <li>Hot number</li>
 <li>いいじゃねぇか</li>
 <li>Respect Due</li>

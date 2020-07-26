@@ -2614,7 +2614,7 @@ CS放送と同時ネット</p></td>
 </tr>
 <tr class="even">
 <td><p>もっとTo LOVEる -とらぶる- 第3巻</p></td>
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p>第5話 - 第6話</p></td>
 <td><p>GNXA-1333</p></td>
 </tr>

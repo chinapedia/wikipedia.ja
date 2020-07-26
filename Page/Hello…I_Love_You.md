@@ -5,7 +5,7 @@
 
 ## 解説
 
-このアルバムから、各メンバーがソロ曲を歌うようになる。本作では「俺の手にSay GoodBye」（[諸星和己](../Page/諸星和己.md "wikilink")）「NARITAI-NARENAI」（[佐藤寛之](../Page/佐藤寛之.md "wikilink")）「最後のGood Night」（[佐藤敦啓](https://ja.wikipedia.org/wiki/佐藤敦啓 "wikilink")）がそれに該当する。また、「ふたりの宝物」は[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")と佐藤敦啓による[デュエット](../Page/デュエット.md "wikilink")曲でありソロに準じるといえる。諸星曰く、誰がソロを歌うかはじゃんけんで決めたとのことであるが、真偽のほどは定かでない。
+このアルバムから、各メンバーがソロ曲を歌うようになる。本作では「俺の手にSay GoodBye」（[諸星和己](../Page/諸星和己.md "wikilink")）「NARITAI-NARENAI」（[佐藤寛之](../Page/佐藤寛之.md "wikilink")）「最後のGood Night」（[佐藤敦啓](https://ja.wikipedia.org/wiki/佐藤敦啓 "wikilink")）がそれに該当する。また、「ふたりの宝物」は[赤坂晃](../Page/赤坂晃.md "wikilink")と佐藤敦啓による[デュエット](../Page/デュエット.md "wikilink")曲でありソロに準じるといえる。諸星曰く、誰がソロを歌うかはじゃんけんで決めたとのことであるが、真偽のほどは定かでない。
 
 このアルバムから[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された曲はないが、「Sha-La-La」はアルバム発売前に『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で披露され、[レコード大賞など](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")1989年下半期には歌番組での披露も多かった。ミュージックビデオ「ウォルト・ディズニー・ワールド 7日間の旅」\[1\]にも収録されている。同曲は後半に至るまでローラースケートを用いない、ほぼダンスのみの振り付けも特徴である。[CDを含め](../Page/コンパクトディスク.md "wikilink")3種が発売されているが、[アナログレコードの初回生産分がイエローのカラーレコード](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")の初回生産分がイエローのシェルと限定仕様。なお、カセットテープだけ曲順が異なる。
 
@@ -90,7 +90,7 @@ CDの急速な普及に伴い、[オリコンLPチャートの発表がこの年
 2.  **ふたりの宝物**
       -
         作詞：[許瑛子](https://ja.wikipedia.org/wiki/許瑛子 "wikilink")、作曲：富山光弘、編曲：[武部聡志](../Page/武部聡志.md "wikilink")
-        [赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")と佐藤敦啓のデュエット曲。
+        [赤坂晃](../Page/赤坂晃.md "wikilink")と佐藤敦啓のデュエット曲。
 3.  '''PENTHOUSE WEDDING '''
       -
         作詞：[亜伊林](../Page/三浦徳子.md "wikilink")、作曲：[大堀かおる](../Page/大堀薫.md "wikilink")、編曲：佐藤準

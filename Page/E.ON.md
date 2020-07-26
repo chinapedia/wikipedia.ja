@@ -23,7 +23,7 @@ E.ONは[2000年](../Page/2000年.md "wikilink")、二つの巨大[電力会社](
 <!-- end list -->
 
   -
-    [1923年](../Page/1923年.md "wikilink")に[ドイツ国](../Page/ドイツ国.md "wikilink")が多数の電力・金属・機械会社を傘下に収めて発足させた国営持株会社。戦後[ミュンヘン](../Page/ミュンヘン.md "wikilink")に本拠を置く国営企業となり、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")より民営化が始まった\[4\]。
+    [1923年](../Page/1923年.md "wikilink")に[ドイツ国](../Page/ドイツ国.md "wikilink")が多数の電力・金属・機械会社を傘下に収めて発足させた国営持株会社。戦後[ミュンヘン](../Page/ミュンヘン.md "wikilink")に本拠を置く国営企業となり、[1986年](../Page/1986年.md "wikilink")より民営化が始まった\[4\]。
 
 [2003年](../Page/2003年.md "wikilink")にはE.ONはドイツのガス会社**ルールガス**（Ruhrgas、後に社名をエーオン・ルールガス E.ON Ruhrgas に変更）を買収して[ガス市場に参入した](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")。エーオン・ルールガスはヨーロッパ20カ国以上で[天然ガス](../Page/天然ガス.md "wikilink")などを供給している。なお、2002年時点で、エーオンは[デグサ](https://ja.wikipedia.org/wiki/デグサ "wikilink")の過半数株を握っていたが\[5\]、2007年の再編にも出資を行った。
 

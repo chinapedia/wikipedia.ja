@@ -99,7 +99,7 @@
   - 2008年[12月26日](../Page/12月26日.md "wikilink") - [SH-02A](https://ja.wikipedia.org/wiki/SH-02A "wikilink")、[L-01A](https://ja.wikipedia.org/wiki/L-01A "wikilink")を発売。
   - [2009年](../Page/2009年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - [N-04A](https://ja.wikipedia.org/wiki/N-04A "wikilink")を発売。
   - 2009年[1月24日](../Page/1月24日.md "wikilink") - [F-03A](https://ja.wikipedia.org/wiki/F-03A "wikilink")を発売。
-  - 2009年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - [P-02A](https://ja.wikipedia.org/wiki/P-02A "wikilink")を発売。
+  - 2009年[1月26日](../Page/1月26日.md "wikilink") - [P-02A](https://ja.wikipedia.org/wiki/P-02A "wikilink")を発売。
   - 2009年[2月6日](../Page/2月6日.md "wikilink") - [F-04A](https://ja.wikipedia.org/wiki/F-04A "wikilink")を発売。
   - 2009年[2月10日](../Page/2月10日.md "wikilink") - [P-04A](https://ja.wikipedia.org/wiki/P-04A "wikilink")を発売。
   - 2009年[2月20日](../Page/2月20日.md "wikilink") - [SH-04A](https://ja.wikipedia.org/wiki/SH-04A "wikilink")を発売。

@@ -1,7 +1,7 @@
 > この記事は[スケバン刑事III 少女忍法帖伝奇](https://ja.wikipedia.org/wiki/スケバン刑事III_少女忍法帖伝奇)から翻訳されています。
 
 
-『**スケバン刑事III 少女忍法帖伝奇**』（スケバンデカスリー しょうじょにんぽうちょうでんき）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](../Page/学園ドラマ.md "wikilink")。
+『**スケバン刑事III 少女忍法帖伝奇**』（スケバンデカスリー しょうじょにんぽうちょうでんき）は、[1986年](../Page/1986年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](../Page/学園ドラマ.md "wikilink")。
 
 [和田慎二](../Page/和田慎二.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『[スケバン刑事](../Page/スケバン刑事.md "wikilink")』を原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")の第3作である。[1988年](../Page/1988年.md "wikilink")には本作をモチーフとした[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[スケバン刑事III](https://ja.wikipedia.org/wiki/#ゲーム "wikilink")』も発売された。
 
@@ -21,7 +21,7 @@
 
 ### 風間三姉妹
 
-180年に一度現れる陰星と共に現れた忍者集団「陰」と戦うことを宿命付けられた、[風魔](../Page/風魔.md "wikilink")忍者の末裔。本作の放映中に公開された劇場版第1作『[スケバン刑事](https://ja.wikipedia.org/wiki/スケバン刑事II_少女鉄仮面伝説#劇場版 "wikilink")』にも登場し、前作『II』のキャラクターとの共演も果たした。三姉妹の役名の下の名前は演じている役者本人の下の名前と同じである。三姉妹を演じた浅香、大西、中村の三人が歌う劇中主題歌を収録したシングル「[Remember](https://ja.wikipedia.org/wiki/Remember_\(風間三姉妹の曲\) "wikilink")」は、「風間三姉妹」名義でリリースされている。
+180年に一度現れる陰星と共に現れた忍者集団「陰」と戦うことを宿命付けられた、[風魔](../Page/風魔.md "wikilink")忍者の末裔。本作の放映中に公開された劇場版第1作『[スケバン刑事](https://ja.wikipedia.org/wiki/スケバン刑事II_少女鉄仮面伝説#劇場版 "wikilink")』にも登場し、前作『II』のキャラクターとの共演も果たした。三姉妹の役名の下の名前は演じている役者本人の下の名前と同じである。三姉妹を演じた浅香、大西、中村の三人が歌う劇中主題歌を収録したシングル「[Remember](../Page/Remember_\(風間三姉妹の曲\).md "wikilink")」は、「風間三姉妹」名義でリリースされている。
 
 2004年に大西結花が[ロンロバ\!全力投球\!に出演した際に](https://ja.wikipedia.org/wiki/ロンロバ!#ロンロバ!全力投球! "wikilink")「唯は考えずに走る。由真は考えながら走る。結花は考えてから走る。」という性格設定があったことを明かした。
 2019年には、『[ボクらの時代](../Page/ボクらの時代.md "wikilink")』に風間三姉妹を演じた3人が登場し、33年前のドラマを振り返った。
@@ -261,10 +261,10 @@
   - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、前嶋守男
   - 主題歌
       - [福永恵規](../Page/福永恵規.md "wikilink")「[ハートのIgnition](../Page/ハートのIgnition.md "wikilink")」（[キャニオン・レコード](../Page/ポニーキャニオン.md "wikilink")）（第1話 - 第8話）
-      - 浅香唯「[STAR](https://ja.wikipedia.org/wiki/STAR_\(浅香唯の曲\) "wikilink")」（[マイカルハミングバード](../Page/マイカルハミングバード.md "wikilink")）（第9話 - 第21話）
-      - 浅香唯「[瞳にSTORM](https://ja.wikipedia.org/wiki/瞳にSTORM "wikilink")」（マイカルハミングバード）（SPECIAL - 第31話）
-      - 浅香唯「[虹のDreamer](https://ja.wikipedia.org/wiki/虹のDreamer "wikilink")」（マイカルハミングバード）（第32話 - 第37話）
-      - 風間三姉妹「[Remember](https://ja.wikipedia.org/wiki/Remember_\(風間三姉妹の曲\) "wikilink")」（マイカルハミングバード）（第38話 - 第42話）
+      - 浅香唯「[STAR](../Page/STAR_\(浅香唯の曲\).md "wikilink")」（[マイカルハミングバード](../Page/マイカルハミングバード.md "wikilink")）（第9話 - 第21話）
+      - 浅香唯「[瞳にSTORM](../Page/瞳にSTORM.md "wikilink")」（マイカルハミングバード）（SPECIAL - 第31話）
+      - 浅香唯「[虹のDreamer](../Page/虹のDreamer.md "wikilink")」（マイカルハミングバード）（第32話 - 第37話）
+      - 風間三姉妹「[Remember](../Page/Remember_\(風間三姉妹の曲\).md "wikilink")」（マイカルハミングバード）（第38話 - 第42話）
   - 挿入歌
       - [中村由真](../Page/中村由真.md "wikilink")「ジレンマ」（[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")）（第5話 - 第11話）
       - [大西結花](https://ja.wikipedia.org/wiki/大西結花 "wikilink")「シャドウハンター」（[ポリスター](../Page/ポリスター.md "wikilink")）（第12話 - 第20話）
@@ -928,7 +928,7 @@ TBS系列</p></td>
   - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")
   - 脚本 - [橋本以蔵](../Page/橋本以蔵.md "wikilink")
   - 主題歌
-      - 浅香唯「[Believe Again](https://ja.wikipedia.org/wiki/Believe_Again "wikilink")」（マイカルハミングバード）
+      - 浅香唯「[Believe Again](../Page/Believe_Again.md "wikilink")」（マイカルハミングバード）
   - 挿入歌
       - 大西結花「ミモザの奇蹟」（ポリスター）
       - 中村由真「君の夢に飛びたい」（フォーライフ・レコード）
@@ -1020,7 +1020,7 @@ TBS系列</p></td>
 
 当時同じフジテレビ系で放映されていたアニメ『[ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink")』では、以下のように本作をネタにしたシーンが登場した。
 
-  - 第52話後半パート「きよしこの夜メルヘンサンタがやって来た」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")放映）では、[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した[一堂零](../Page/一堂零.md "wikilink")が、自分の正体がばれそうになった時に「スケバン刑事に見えます？」とごまかそうとするシーンが登場した。
+  - 第52話後半パート「きよしこの夜メルヘンサンタがやって来た」（[1986年](../Page/1986年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")放映）では、[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した[一堂零](../Page/一堂零.md "wikilink")が、自分の正体がばれそうになった時に「スケバン刑事に見えます？」とごまかそうとするシーンが登場した。
   - 第68話後半パート「悲惨な給料日」（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")放映）では、奇面組のうち3人が風間三姉妹に扮するが（[物星大](../Page/物星大.md "wikilink")→風間唯、[出瀬潔](../Page/出瀬潔.md "wikilink")→風間結花、[大間仁](../Page/大間仁.md "wikilink")→風間由真）、それに対し教師の事代作吾は本作を観ていないという。
   - 第70話前半パート「大変身\!\!迫力唯ちゃん」（同年[5月16日](../Page/5月16日.md "wikilink")放映）では、[河川唯](../Page/河川唯.md "wikilink")が風間唯に扮するシーンが登場した（いわゆる唯つながり）。
 

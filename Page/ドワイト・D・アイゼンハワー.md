@@ -25,7 +25,7 @@
 
 ## 結婚
 
-アイゼンハワーは[コロラド州](../Page/コロラド州.md "wikilink")[デンバーの](https://ja.wikipedia.org/wiki/デンバー_\(コロラド州\) "wikilink")[マミー・ジュネーブ・ダウド](../Page/マミー・アイゼンハワー.md "wikilink")（[1896年](../Page/1896年.md "wikilink") - [1979年](../Page/1979年.md "wikilink")）と[1916年](../Page/1916年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に結婚した。彼らはダウド・ドワイト・アイゼンハワー（[1917年](../Page/1917年.md "wikilink") - [1921年](../Page/1921年.md "wikilink")）およびジョン・シェルドン・ダウド・アイゼンハワー（1922年ー2013年）をもうけた。ジョン・アイゼンハワーは陸軍で勤務し、次に作家になり、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")大使を務めた。ジョン・アイゼンハワーの息子デーヴィッド・アイゼンハワーは、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")の娘ジュリーと[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に結婚した\[2\]。
+アイゼンハワーは[コロラド州](../Page/コロラド州.md "wikilink")[デンバーの](https://ja.wikipedia.org/wiki/デンバー_\(コロラド州\) "wikilink")[マミー・ジュネーブ・ダウド](../Page/マミー・アイゼンハワー.md "wikilink")（[1896年](../Page/1896年.md "wikilink") - [1979年](../Page/1979年.md "wikilink")）と[1916年](../Page/1916年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に結婚した。彼らはダウド・ドワイト・アイゼンハワー（[1917年](../Page/1917年.md "wikilink") - [1921年](../Page/1921年.md "wikilink")）およびジョン・シェルドン・ダウド・アイゼンハワー（1922年ー2013年）をもうけた。ジョン・アイゼンハワーは陸軍で勤務し、次に作家になり、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")大使を務めた。ジョン・アイゼンハワーの息子デーヴィッド・アイゼンハワーは、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")の娘ジュリーと[1968年](../Page/1968年.md "wikilink")に結婚した\[2\]。
 
 ## 軍歴
 
@@ -45,7 +45,7 @@
 
 [Gen._Dwight_D._Eisenhower_talks_with_Lt._Gen._Lucius_B._Clay_at_Gatow_Airport_in_Berlin,_Germany_during_the_Potsdam..._-_NARA_-_198840.tif](https://ja.wikipedia.org/wiki/File:Gen._Dwight_D._Eisenhower_talks_with_Lt._Gen._Lucius_B._Clay_at_Gatow_Airport_in_Berlin,_Germany_during_the_Potsdam..._-_NARA_-_198840.tif "fig:Gen._Dwight_D._Eisenhower_talks_with_Lt._Gen._Lucius_B._Clay_at_Gatow_Airport_in_Berlin,_Germany_during_the_Potsdam..._-_NARA_-_198840.tif") [General_Omar_Bradley,_General_Dwight_Eisenhower,_and_General_George_Patton,_all_graduates_of_West_Point,_survey_war_damage_in_Bastogne,_Belgium._1944-1945.jpg](https://ja.wikipedia.org/wiki/File:General_Omar_Bradley,_General_Dwight_Eisenhower,_and_General_George_Patton,_all_graduates_of_West_Point,_survey_war_damage_in_Bastogne,_Belgium._1944-1945.jpg "fig:General_Omar_Bradley,_General_Dwight_Eisenhower,_and_General_George_Patton,_all_graduates_of_West_Point,_survey_war_damage_in_Bastogne,_Belgium._1944-1945.jpg")、アイゼンハワー、[ジョージ・パットン](../Page/ジョージ・パットン.md "wikilink")\]\] 1942年6月、アイゼンハワーは[ロンドン](../Page/ロンドン.md "wikilink")に司令部を置く[ヨーロッパ戦域の連合国軍最高司令官](../Page/ヨーロッパ作戦戦域.md "wikilink")（[Commander in Chief, Allied Force](https://ja.wikipedia.org/wiki/:en:Allied_Force_Headquarters "wikilink")、略称：CINCAF）に着任し、[イギリス軍](../Page/イギリス軍.md "wikilink")や旧[ヴィシー政権](../Page/ヴィシー政権.md "wikilink")軍の将軍たちとの調整を行った。
 
-アイゼンハワーはアメリカ軍による新聞[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")制度を廃止し、兵士たちのトラブルをあえて開示することで綱紀を粛正しようとした。また兵士たちに対して、アメリカの戦争目的が[民主主義](../Page/民主主義.md "wikilink")のためであるという教育を徹底させ、さらに兵士たちに[イギリス人](../Page/イギリス人.md "wikilink")に対する配慮を求めることで、両国間の関係を改善させた。アイゼンハワー自身に対する人気も高まり、日に9回もパーティーに出席せねばならないほどであった。
+アイゼンハワーはアメリカ軍による新聞[検閲](../Page/検閲.md "wikilink")制度を廃止し、兵士たちのトラブルをあえて開示することで綱紀を粛正しようとした。また兵士たちに対して、アメリカの戦争目的が[民主主義](../Page/民主主義.md "wikilink")のためであるという教育を徹底させ、さらに兵士たちに[イギリス人](../Page/イギリス人.md "wikilink")に対する配慮を求めることで、両国間の関係を改善させた。アイゼンハワー自身に対する人気も高まり、日に9回もパーティーに出席せねばならないほどであった。
 
 最初の大仕事は[モロッコ](../Page/モロッコ.md "wikilink")と[アルジェリア](../Page/アルジェリア.md "wikilink")への連合軍上陸作戦、すなわち1942年11月8日に開始された「[トーチ作戦](../Page/トーチ作戦.md "wikilink")」であった。アイゼンハワーがトーチ作戦の最高司令官の座を要求した[アンリ・ジロー](../Page/アンリ・ジロー.md "wikilink")大将を説得し、[北アフリカ](../Page/北アフリカ.md "wikilink")における民政長官の座を与えることで収めたことは、彼の高い調整能力を示すものであった。
 
@@ -181,7 +181,7 @@
 
 ## 大統領退任後
 
-退任後は[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ゲティスバーグにある農家にて隠棲した](https://ja.wikipedia.org/wiki/ゲティスバーグ_\(ペンシルベニア州\) "wikilink")。殆ど公の場に出てこなかった。1969年3月28日、アイゼンハワーはワシントンD.C.にあるウォルターリード陸軍病院で、鬱血性心不全のため死亡した。
+退任後は[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ゲティスバーグにある農家にて隠棲した](../Page/ゲティスバーグ_\(ペンシルベニア州\).md "wikilink")。殆ど公の場に出てこなかった。1969年3月28日、アイゼンハワーはワシントンD.C.にあるウォルターリード陸軍病院で、鬱血性心不全のため死亡した。
 
 ## 死後
 

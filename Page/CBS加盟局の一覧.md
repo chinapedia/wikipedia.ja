@@ -18,7 +18,7 @@
   - [アンカレッジ](../Page/アンカレッジ.md "wikilink") - [KTVA](https://ja.wikipedia.org/wiki/KTVA "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KTVA "wikilink")） - リモコン番号11・物理チャンネル28
   - [フェアバンクス](../Page/フェアバンクス.md "wikilink") - [K13XD-D](https://ja.wikipedia.org/wiki/K13XD-D "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:K13XD-D "wikilink")） - リモコン番号13・物理チャンネル13
   - [ケチカン](../Page/ケチカン.md "wikilink") - [KUBD](https://ja.wikipedia.org/wiki/KUBD "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KUBD_\(TV\) "wikilink")） - リモコン番号13・物理チャンネル13
-  - [コディアック](https://ja.wikipedia.org/wiki/コディアック "wikilink") - [KUBD-LP](https://ja.wikipedia.org/wiki/KUBD-LP "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KUBD-LP "wikilink")） - リモコン番号11
+  - [コディアック](../Page/コディアック.md "wikilink") - [KUBD-LP](https://ja.wikipedia.org/wiki/KUBD-LP "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KUBD-LP "wikilink")） - リモコン番号11
   - [シトカ](https://ja.wikipedia.org/wiki/シトカ "wikilink") - [KTNL-TV](https://ja.wikipedia.org/wiki/KTNL-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KTNL-TV "wikilink")） - リモコン番号13・物理チャンネル7
 
 ## アリゾナ州
@@ -35,12 +35,12 @@
 ## カリフォルニア州
 
   - [ベーカーズフィールド](../Page/ベーカーズフィールド_\(カリフォルニア州\).md "wikilink") - [KBAK-TV](https://ja.wikipedia.org/wiki/KBAK-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KBAK-TV "wikilink")） - リモコン番号29・物理チャンネル33
-  - [チコ](https://ja.wikipedia.org/wiki/チコ_\(カリフォルニア州\) "wikilink") - [KHSL-TV](https://ja.wikipedia.org/wiki/KHSL-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KHSL-TV "wikilink")）- リモコン番号12・物理チャンネル43
+  - [チコ](https://ja.wikipedia.org/wiki/チコ_\(カリフォルニア州\) "wikilink") - [KHSL-TV](https://ja.wikipedia.org/wiki/KHSL-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KHSL-TV "wikilink")）- リモコン番号12・物理チャンネル36
   - [ユーリカ](https://ja.wikipedia.org/wiki/ユーリカ_\(カリフォルニア州\) "wikilink") - [KVIQ](https://ja.wikipedia.org/wiki/KVIQ "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KVIQ "wikilink")） - リモコン番号17・物理チャンネル17
   - [フレズノ](../Page/フレズノ.md "wikilink") - [KGPE-TV](https://ja.wikipedia.org/wiki/KGPE-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KGPE-TV "wikilink")） - リモコン番号47・物理チャンネル34
-  - [ロサンゼルス](../Page/ロサンゼルス.md "wikilink") - **[KCBS-TV](https://ja.wikipedia.org/wiki/KCBS-TV "wikilink")**（[英語版](https://ja.wikipedia.org/wiki/:en:KCBS-TV "wikilink")） - リモコン番号2・物理チャンネル43
+  - [ロサンゼルス](../Page/ロサンゼルス.md "wikilink") - **[KCBS-TV](https://ja.wikipedia.org/wiki/KCBS-TV "wikilink")**（[英語版](https://ja.wikipedia.org/wiki/:en:KCBS-TV "wikilink")） - リモコン番号2・物理チャンネル31
   - [モントレー](../Page/モントレー.md "wikilink") - [KION-TV](https://ja.wikipedia.org/wiki/KION-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KION-TV "wikilink")） - リモコン番号46・物理チャンネル32
-  - [パームスプリングス](../Page/パームスプリングス_\(カリフォルニア州\).md "wikilink") - [KPSP-CD](https://ja.wikipedia.org/wiki/KPSP-CD "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KPSP-CD "wikilink")） - リモコン番号38・物理チャンネル38
+  - [パームスプリングス](../Page/パームスプリングス_\(カリフォルニア州\).md "wikilink") - [KPSP-CD](https://ja.wikipedia.org/wiki/KPSP-CD "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KPSP-CD "wikilink")） - リモコン番号38・物理チャンネル18
   - [サンディエゴ](../Page/サンディエゴ.md "wikilink") - [KFMB-TV](https://ja.wikipedia.org/wiki/KFMB-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KFMB-TV "wikilink")） - リモコン番号8・物理チャンネル8
   - [サンフランシスコ](../Page/サンフランシスコ.md "wikilink") - **[KPIX](https://ja.wikipedia.org/wiki/KPIX "wikilink")**([英語版](https://ja.wikipedia.org/wiki/:en:KPIX "wikilink")） - リモコン番号5・物理チャンネル29
   - [サンタマリア](https://ja.wikipedia.org/wiki/サンタマリア_\(カリフォルニア州\) "wikilink") - [KCOY-TV](https://ja.wikipedia.org/wiki/KCOY-TV "wikilink")（[英語版](https://ja.wikipedia.org/wiki/:en:KCOY-TV "wikilink")）- リモコン番号12・物理チャンネル19

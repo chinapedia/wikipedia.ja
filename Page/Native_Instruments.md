@@ -62,7 +62,7 @@ NIはまた、[インターネット](../Page/インターネット.md "wikilink
   - Bandstand: [MIDI](../Page/MIDI.md "wikilink")再生用に特化した音源集。
   - Battery Studio Drums: Battery専用ドラムサンプル・ライブラリー。既に廃番となっている。
   - DRUMLAB: アコースティックドラムとエレクトリックドラムを組み合わせて複雑な音作りができるドラム・レイヤリング・インストゥルメント。
-  - Elektrik Piano: [Rhodes](../Page/ローズ・ピアノ.md "wikilink") MK1、MK2、[Hohner](https://ja.wikipedia.org/wiki/ホーナー_\(企業\) "wikilink") [Clavinet](../Page/クラビネット.md "wikilink") E7、そして[Wurlitzer](https://ja.wikipedia.org/wiki/:en:Wurlitzer_electric_piano "wikilink") A200といった[電子ピアノ](../Page/電子ピアノ.md "wikilink")がサンプリングされている。すでに廃番となっている。
+  - Elektrik Piano: [Rhodes](../Page/ローズ・ピアノ.md "wikilink") MK1、MK2、[Hohner](../Page/ホーナー_\(企業\).md "wikilink") [Clavinet](../Page/クラビネット.md "wikilink") E7、そして[Wurlitzer](https://ja.wikipedia.org/wiki/:en:Wurlitzer_electric_piano "wikilink") A200といった[電子ピアノ](../Page/電子ピアノ.md "wikilink")がサンプリングされている。すでに廃番となっている。
   - George Duke Soul Treasures: [ジョージ・デューク](../Page/ジョージ・デューク.md "wikilink")演奏によるループ音源。アコースティック・ピアノ、[Rhodes](../Page/ローズ・ピアノ.md "wikilink")、[Wurlitzer](https://ja.wikipedia.org/wiki/:en:Wurlitzer_electric_piano "wikilink")、[Clavinetの演奏が収録されている](../Page/クラビネット.md "wikilink")。2010年10月発売。
   - NOIRE: [Yamaha](../Page/ヤマハ.md "wikilink") CFX 9[ftグランドピアノをサンプリングしたピアノ](../Page/フィート.md "wikilink")・サンプル・ライブラリー。
   - Session Strings: ストリングス・ライブラリー。

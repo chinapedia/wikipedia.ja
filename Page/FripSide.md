@@ -797,7 +797,7 @@ supported by animelo mix</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>11/04 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>・こくさいホール (兵庫県)<br />
-11/17 <a href="https://ja.wikipedia.org/wiki/高松市文化芸術ホール" title="wikilink">サンポートホール高松</a>・大ホール (<a href="../Page/香川県.md" title="wikilink">香川県</a>)<br />
+11/17 <a href="../Page/高松市文化芸術ホール.md" title="wikilink">サンポートホール高松</a>・大ホール (<a href="../Page/香川県.md" title="wikilink">香川県</a>)<br />
 12/21 <a href="../Page/アルモニーサンク.md" title="wikilink">アルモニーサンク</a>北九州ソレイユホール・大ホール (福岡県)<br />
 01/11 新潟県民会館・大ホール (新潟県)<br />
 01/13 <a href="../Page/金沢歌劇座.md" title="wikilink">金沢歌劇座</a> (石川県)<br />

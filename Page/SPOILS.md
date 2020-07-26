@@ -27,7 +27,7 @@
 7.  **MY MY,HEY HEY(OUT OF THE BLUE) / [Neil Young](../Page/ニール・ヤング.md "wikilink")**
 8.  **OH ME / [MEAT PUPPETS](../Page/ミート・パペッツ.md "wikilink")**
     ※Nirvanaがカバーしたバンド
-9.  **[世情](https://ja.wikipedia.org/wiki/世情 "wikilink") / [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")**
+9.  **[世情](https://ja.wikipedia.org/wiki/世情 "wikilink") / [中島みゆき](../Page/中島みゆき.md "wikilink")**
       -
         (作詞・作曲:中島みゆき)
 10. **[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink") / WANDS**

@@ -177,7 +177,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミノル_(日本の競走馬)" title="wikilink">ミノル</a></p></td>
 <td><p>牡3</p></td>
 <td><p>7戦3勝<br />
@@ -279,7 +279,7 @@
 <td><p>牡3</p></td>
 <td><p>3戦3勝<br />
 阪神3歳ステークス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p>小川佐助</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高田久成" title="wikilink">高田久成</a></p></td>
 <td></td>
@@ -395,7 +395,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/メリーナイス.md" title="wikilink">メリーナイス</a></p></td>
 <td><p>牡3</p></td>
 <td><p>5戦3勝<br />

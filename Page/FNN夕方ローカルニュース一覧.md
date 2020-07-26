@@ -439,7 +439,7 @@
   -
 
       -
-        [EBCニュース](https://ja.wikipedia.org/wiki/EBCニュース "wikilink") - [EBCニュース6:30](https://ja.wikipedia.org/wiki/EBCニュース6:30 "wikilink") - [スーパータイムEBC600](../Page/スーパータイムEBC600.md "wikilink")（日曜のみ、[スーパータイムEBC530](../Page/スーパータイムEBC530.md "wikilink")） - [EBCスーパータイム](https://ja.wikipedia.org/wiki/EBCスーパータイム "wikilink") - EBCザ・ヒューマン FNN - [EBCスーパーニュース](../Page/EBCスーパーニュース.md "wikilink") - [みんなのニュース えひめ](https://ja.wikipedia.org/wiki/みんなのニュース_えひめ "wikilink") - [EBCプライムフライデー](https://ja.wikipedia.org/wiki/EBCプライムフライデー "wikilink")（金曜のみ） - [EBCプライムニュース](https://ja.wikipedia.org/wiki/EBCプライムニュース "wikilink")
+        [EBCニュース](../Page/EBCニュース.md "wikilink") - [EBCニュース6:30](https://ja.wikipedia.org/wiki/EBCニュース6:30 "wikilink") - [スーパータイムEBC600](../Page/スーパータイムEBC600.md "wikilink")（日曜のみ、[スーパータイムEBC530](../Page/スーパータイムEBC530.md "wikilink")） - [EBCスーパータイム](https://ja.wikipedia.org/wiki/EBCスーパータイム "wikilink") - EBCザ・ヒューマン FNN - [EBCスーパーニュース](../Page/EBCスーパーニュース.md "wikilink") - [みんなのニュース えひめ](https://ja.wikipedia.org/wiki/みんなのニュース_えひめ "wikilink") - [EBCプライムフライデー](https://ja.wikipedia.org/wiki/EBCプライムフライデー "wikilink")（金曜のみ） - [EBCプライムニュース](https://ja.wikipedia.org/wiki/EBCプライムニュース "wikilink")
 
 <!-- end list -->
 

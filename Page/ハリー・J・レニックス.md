@@ -44,7 +44,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ★ロバーツ" title="wikilink">ボブ★ロバーツ</a>/陰謀が生んだ英雄<br />
+<td><p><a href="../Page/ボブ★ロバーツ.md" title="wikilink">ボブ★ロバーツ</a>/陰謀が生んだ英雄<br />
 <em>Bob Roberts</em></p></td>
 <td><p>フランクリン・ドケット</p></td>
 <td></td>

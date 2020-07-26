@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』（[1984年](../Page/1984年.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）および[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール_\(アニメ\) "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）、『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』（1989年 - [1996年](../Page/1996年.md "wikilink")）を題材とした[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』（[1984年](../Page/1984年.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）および[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール_\(アニメ\) "wikilink")』（[1986年](../Page/1986年.md "wikilink") - [1989年](../Page/1989年.md "wikilink")）、『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』（1989年 - [1996年](../Page/1996年.md "wikilink")）を題材とした[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
 当時は[格闘ゲームブームということもあり](../Page/対戦型格闘ゲーム.md "wikilink")、『ドラゴンボールZ』のゲーム作品は対戦型格闘ゲームが多かったが、本作では原作のスピーディーな戦いを再現することに主眼に置いた新しいシステムを採用している（詳細は「[ゲーム内容](https://ja.wikipedia.org/wiki/#ゲーム内容 "wikilink")」の節にて解説）。メーカーは「プレイング・アニメーション」と名付けている。
 

@@ -238,7 +238,7 @@ Stuff:ポータブルアイテム</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ラチェット&amp;クランク" title="wikilink">ラチェット&amp;クランク</a>®:タイムトラベラーズ</p></td>
+<td><p><a href="../Page/ラチェット&amp;クランク.md" title="wikilink">ラチェット&amp;クランク</a>®:タイムトラベラーズ</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/ラチェット&amp;クランクFUTURE2" title="wikilink">ラチェット&amp;クランクFUTURE2</a>』のガラクトロン本社を模したラウンジ。本社内では探し物ゲームを、ラウンジを移動して行くことができる射撃練習場ではシューティングゲームに挑める。練習場は難易度別に3つに分かれており、タイムマシーンを利用して移動する。</p></td>
 <td></td>
 </tr>
@@ -340,7 +340,7 @@ Stuff:ポータブルアイテム</p></td>
 </tr>
 <tr class="odd">
 <td><p><em>閃光煌く宇宙空間</em></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/R-TYPE" title="wikilink">R-TYPE</a>』に登場する宇宙戦闘艦をイメージしたラウンジ。戦闘機に乗り込んでシューティングゲームに挑戦できた。また、ストアではパーソナルスペース用フィギュアとゲームアーカイブスから過去のR-TYPEとPSP用R-TYPEを購入することが出来た。また、別途宇宙服を購入することにより宇宙空間で疑似結婚式を挙げることができた。</p></td>
+<td><p>『<a href="../Page/R-TYPE.md" title="wikilink">R-TYPE</a>』に登場する宇宙戦闘艦をイメージしたラウンジ。戦闘機に乗り込んでシューティングゲームに挑戦できた。また、ストアではパーソナルスペース用フィギュアとゲームアーカイブスから過去のR-TYPEとPSP用R-TYPEを購入することが出来た。また、別途宇宙服を購入することにより宇宙空間で疑似結婚式を挙げることができた。</p></td>
 <td></td>
 </tr>
 <tr class="even">

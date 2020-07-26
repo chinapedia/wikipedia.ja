@@ -7,7 +7,7 @@
 
 ## 大会概要
 
-本大会では[ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink")、[ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink")、[ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink")、[チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink")がUFCに初めて参戦した。
+本大会では[ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink")、[ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink")、[ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink")、[チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink")がUFCに初めて参戦した。
 
 メインイベントでは、[デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink")が[エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink")にTKOで勝利。
 
@@ -24,7 +24,7 @@
     ○  [ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink") vs.  [ブロック・ラーソン](https://ja.wikipedia.org/wiki/ブロック・ラーソン "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第3試合 ウェルター級 5分3R
-    ○  [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink") vs.  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") ×
+    ○  [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink") vs.  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") ×
     2R 4:43 [三角絞め](../Page/三角絞め.md "wikilink")
 
 ### メインカード
@@ -36,7 +36,7 @@
     ○  [ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink") vs.  ファビアーノ・シェルナー ×
     2R 3:22 TKO（レフェリーストップ：膝蹴り）
   - 第6試合 ミドル級 5分3R
-    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  エドウィン・デューイーズ ×
+    ○  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") vs.  エドウィン・デューイーズ ×
     1R 3:26 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第7試合 ミドル級 5分3R
     ○  [デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink") vs.  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") ×

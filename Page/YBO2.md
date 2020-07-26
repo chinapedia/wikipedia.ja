@@ -7,7 +7,7 @@
 
 雑誌『[FOOL'S MATE](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")』を創刊し、初代編集長を務めた[北村昌士](https://ja.wikipedia.org/wiki/北村昌士 "wikilink")らによって[1984年](../Page/1984年.md "wikilink")に結成された。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に、北村自らが主宰するインディーズ・レーベルである[トランス・レコード](https://ja.wikipedia.org/wiki/トランス・レコード "wikilink")より、1st.シングル『Doglamagla』、12インチ・シングル『太陽の皇子』、1st.アルバム『ALIENATION』、2nd.アルバム『Kingdom Of Family Dream』、シングル『空が墜ちる』などを立て続けにリリース。
+[1986年](../Page/1986年.md "wikilink")に、北村自らが主宰するインディーズ・レーベルである[トランス・レコード](https://ja.wikipedia.org/wiki/トランス・レコード "wikilink")より、1st.シングル『Doglamagla』、12インチ・シングル『太陽の皇子』、1st.アルバム『ALIENATION』、2nd.アルバム『Kingdom Of Family Dream』、シングル『空が墜ちる』などを立て続けにリリース。
 
 変拍子等を多用した複雑な構成の楽曲と、不安を掻き立てるようなヒステリックなボーカルは、[ディス・ヒート](../Page/ディス・ヒート.md "wikilink")らに通じる音楽性を感じさせ、興隆しつつあった日本の[インディーズ](../Page/インディーズ.md "wikilink")シーンを代表する存在と目された。YBO<sup>2</sup>、[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")を始めとするトランス・レコード所属のバンドのおっかけをする「トランスギャル」と呼ばれるファンが存在するほどの人気を博した。
 

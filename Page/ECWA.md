@@ -32,7 +32,7 @@
   - [チャーリー・ハース](../Page/チャーリー・ハース.md "wikilink")
   - [クリス・セイビン](../Page/クリス・セイビン.md "wikilink")
   - [クリストファー・ダニエルズ](https://ja.wikipedia.org/wiki/クリストファー・ダニエルズ "wikilink")
-  - [デイビー・リチャーズ](https://ja.wikipedia.org/wiki/デイビー・リチャーズ "wikilink")
+  - [デイビー・リチャーズ](../Page/デイビー・リチャーズ.md "wikilink")
   - [ドノバン・モーガン](https://ja.wikipedia.org/wiki/ドノバン・モーガン "wikilink")
   - [フランキー・カザリアン](https://ja.wikipedia.org/wiki/フランキー・カザリアン "wikilink")
   - [ジェイミー・ノーブル](https://ja.wikipedia.org/wiki/ジェイミー・ノーブル "wikilink")

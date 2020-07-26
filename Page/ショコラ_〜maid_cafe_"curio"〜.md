@@ -5,7 +5,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")に「香奈子ショートストーリー」を追加したDVD版「ショコラRe-Order」が発売された。
 
-また、[アルケミストより](../Page/アルケミスト_\(企業\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")にドリームキャスト版、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[プレイステーション2版がそれぞれ発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")にコンシューマ版をWindowsに逆移植した全年齢対象版Standard Editionが[TGL](../Page/TGL.md "wikilink")より発売された。
+また、[アルケミストより](../Page/アルケミスト_\(企業\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")にドリームキャスト版、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[プレイステーション2版がそれぞれ発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")にコンシューマ版をWindowsに逆移植した全年齢対象版Standard Editionが[TGL](../Page/TGL.md "wikilink")より発売された。
 
 ## 概要
 

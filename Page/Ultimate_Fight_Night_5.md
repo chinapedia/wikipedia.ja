@@ -20,7 +20,7 @@
     ○  ロブ・マクドナルド vs.  クリス・ロザーメル ×
     1R 4:01 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第3試合 ウェルター級 5分3R
-    ○  [ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink") vs.  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") ×
+    ○  [ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink") vs.  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") ×
     2R 4:37 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 ライトヘビー級 5分3R
     ○  [ジェイソン・ランバート](../Page/ジェイソン・ランバート.md "wikilink") vs.  [ブランドン・リー・ヒンクル](../Page/ブランドン・リー・ヒンクル.md "wikilink") ×

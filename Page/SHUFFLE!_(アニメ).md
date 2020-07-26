@@ -820,7 +820,7 @@ TVアニメ『SHUFFLE\!』DVD第12巻
 <!-- end list -->
 
   - デスクトップアクセサリーCD-ROM『**プリムラのちっちゃな大ぼうけん\!?**』
-      - おしゃべり[ねんどろいど](https://ja.wikipedia.org/wiki/ねんどろいど "wikilink")プリムラ（白玉&黒玉付）付属。[オリゴクレース](https://ja.wikipedia.org/wiki/オリゴクレース "wikilink")/FREE+ingより2007年11月発売。
+      - おしゃべり[ねんどろいど](../Page/ねんどろいど.md "wikilink")プリムラ（白玉&黒玉付）付属。[オリゴクレース](https://ja.wikipedia.org/wiki/オリゴクレース "wikilink")/FREE+ingより2007年11月発売。
 
 <!-- end list -->
 

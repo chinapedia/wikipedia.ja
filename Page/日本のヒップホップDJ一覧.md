@@ -132,7 +132,7 @@
   - DJ YUZE
   - [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink")
   - [DJ YURiA](https://ja.wikipedia.org/wiki/DJ_YURiA "wikilink")
-  - U-ICHI ([HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink"))
+  - U-ICHI ([HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink"))
   - DJ YOUICHI (NIGHT CAMP CLICK)
   - GM YOSHI
   - DJ YOSHIO

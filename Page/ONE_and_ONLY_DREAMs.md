@@ -1,7 +1,7 @@
 > この記事は[ONE and ONLY DREAMs](https://ja.wikipedia.org/wiki/ONE_and_ONLY_DREAMs)から翻訳されています。
 
 
-『**ONE and ONLY DREAMs**』（ワン・アンド・オンリー・ドリームズ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")9枚目のアルバムである。[白浜久](../Page/白浜久.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）加入後初のアルバムとなる。
+『**ONE and ONLY DREAMs**』（ワン・アンド・オンリー・ドリームズ）は、[1986年](../Page/1986年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")9枚目のアルバムである。[白浜久](../Page/白浜久.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）加入後初のアルバムとなる。
 
 ## 収録曲
 

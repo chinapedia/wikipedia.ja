@@ -19,7 +19,7 @@
 
 1.  **BRAND NEW SONG**
       -
-        （作詞・作曲：[Gajin](../Page/Gajin.md "wikilink") / 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink") / コーラスアレンジ：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
+        （作詞・作曲：[Gajin](../Page/Gajin.md "wikilink") / 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink") / コーラスアレンジ：[岩田雅之](../Page/岩田雅之.md "wikilink")）
         [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「[十六茶](../Page/十六茶.md "wikilink")」CMソング。
         第一弾の同CMで使用されたバージョンは、商品の[キャッチコピー](../Page/キャッチコピー.md "wikilink")である『おいしいとヘルシーのバランス』を[歌詞](../Page/歌詞.md "wikilink")に含んでいるため、正規のバージョンとは異なっている。（この音源は、未作品化。）第2弾以降は、[CD音源のバージョンを使用している](../Page/コンパクトディスク.md "wikilink")。
         シングル曲では初となる、春を意識したナンバーになっている。

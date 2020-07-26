@@ -96,7 +96,7 @@ RPD軽機関銃は、[東欧諸国や](../Page/東ヨーロッパ.md "wikilink")
 
 :: [北ベトナム軍で使用可能](https://ja.wikipedia.org/wiki/ベトナム人民軍 "wikilink")。
 
-:; 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+:; 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
 
   -
 

@@ -1,11 +1,11 @@
 > この記事は[Singles \(中島みゆきのアルバム\)](https://ja.wikipedia.org/wiki/Singles_\(中島みゆきのアルバム\))から翻訳されています。
 
 
-『**Singles**』（シングルス）は、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の3枚組コレクション・アルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")発売。
+『**Singles**』（シングルス）は、[中島みゆき](../Page/中島みゆき.md "wikilink")の3枚組コレクション・アルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")発売。
 
 ## 解説
 
-中島の映像作品『[中島みゆき CDV GOLD](https://ja.wikipedia.org/wiki/中島みゆき_CDV_GOLD "wikilink")』と同時発売で、[1975年](../Page/1975年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")発売のデビュー曲である「[アザミ嬢のララバイ](https://ja.wikipedia.org/wiki/アザミ嬢のララバイ "wikilink")」から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売の「[やまねこ](https://ja.wikipedia.org/wiki/やまねこ "wikilink")」までのシングルを3枚の[CDにまとめたアルバムである](../Page/コンパクトディスク.md "wikilink")。収録の順番は特異で、「やまねこ」からA面・B面を新しい順に並べている。
+中島の映像作品『[中島みゆき CDV GOLD](https://ja.wikipedia.org/wiki/中島みゆき_CDV_GOLD "wikilink")』と同時発売で、[1975年](../Page/1975年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")発売のデビュー曲である「[アザミ嬢のララバイ](https://ja.wikipedia.org/wiki/アザミ嬢のララバイ "wikilink")」から[1986年](../Page/1986年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売の「[やまねこ](https://ja.wikipedia.org/wiki/やまねこ "wikilink")」までのシングルを3枚の[CDにまとめたアルバムである](../Page/コンパクトディスク.md "wikilink")。収録の順番は特異で、「やまねこ」からA面・B面を新しい順に並べている。
 
 最初に発売されていたものと、再発されたものでは[パッケージが異なる](https://ja.wikipedia.org/wiki/パッケージ#パッケージ、パック "wikilink")。最初に発売されていたものは、通常の10mmケースを2枚合体させたケース（『[歌暦](../Page/歌暦.md "wikilink")』と同じケース）に入れられていた。再発時は、通常の10mmケース3枚組を紙のケースに収めていた。
 

@@ -23,7 +23,7 @@
 
 [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")でカバーした[吳佩慈の](https://ja.wikipedia.org/wiki/ペース・ウー "wikilink")「」も大ヒットした。
 
-[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")が監督した日本映画『[のど自慢](https://ja.wikipedia.org/wiki/のど自慢_\(映画\) "wikilink")』（[1999年](../Page/1999年.md "wikilink")）では、[室井滋](https://ja.wikipedia.org/wiki/室井滋 "wikilink")が演ずる[演歌](../Page/演歌.md "wikilink")歌手が『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』の本番でこの歌を歌い、合格の鐘を受けている。また、映画の中でCDシングルのジャケット写真が写るシーンがある。
+[井筒和幸](../Page/井筒和幸.md "wikilink")が監督した日本映画『[のど自慢](https://ja.wikipedia.org/wiki/のど自慢_\(映画\) "wikilink")』（[1999年](../Page/1999年.md "wikilink")）では、[室井滋](https://ja.wikipedia.org/wiki/室井滋 "wikilink")が演ずる[演歌](../Page/演歌.md "wikilink")歌手が『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』の本番でこの歌を歌い、合格の鐘を受けている。また、映画の中でCDシングルのジャケット写真が写るシーンがある。
 
 ## 収録曲
 

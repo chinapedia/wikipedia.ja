@@ -7,7 +7,7 @@
 
 [1972年](../Page/1972年.md "wikilink")、[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")の[ハーバート・ボイヤー](https://ja.wikipedia.org/wiki/ハーバート・ボイヤー "wikilink")の研究室で[大腸菌](../Page/大腸菌.md "wikilink")から単離された。大腸菌（*Escherichia coli*）のRY13株から見つかった1番目の制限酵素ということで、「**EcoRI**」と命名された\[1\]。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、制限酵素として初めて結晶構造が報告された\[2\]。
+[1986年](../Page/1986年.md "wikilink")、制限酵素として初めて結晶構造が報告された\[2\]。
 
 ## 作用
 

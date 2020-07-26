@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [2006年](../Page/2006年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - [総務省](../Page/総務省.md "wikilink")[近畿総合通信局](https://ja.wikipedia.org/wiki/近畿総合通信局 "wikilink")から予備免許を受け、翌[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に本放送を開始。なお豊中市では[1992年](../Page/1992年.md "wikilink")の「千里30年まつり」に、イベント放送局「せんりエフエム」（76.5MHz 10W）が設置されていたことがある。
+  - [2006年](../Page/2006年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - [総務省](../Page/総務省.md "wikilink")[近畿総合通信局](../Page/近畿総合通信局.md "wikilink")から予備免許を受け、翌[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に本放送を開始。なお豊中市では[1992年](../Page/1992年.md "wikilink")の「千里30年まつり」に、イベント放送局「せんりエフエム」（76.5MHz 10W）が設置されていたことがある。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [SimulRadio](../Page/SimulRadio.md "wikilink")に参加、インターネットでの放送を開始。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 千里ライフサイエンスセンタービルに本社を移転。同日同ビル2階に設置されたサテライトスタジオからの生放送を開始。
   - [2019年](../Page/2019年.md "wikilink")4月1日 - ネット配信をJCBAインターネットサイマルラジオへ移転。

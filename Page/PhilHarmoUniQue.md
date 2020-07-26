@@ -45,7 +45,7 @@
 
 **[今泉慎也](https://ja.wikipedia.org/wiki/今泉慎也 "wikilink")**　（いまいずみ しんや）　ベース、コーラス
 
-:\*[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")生まれ [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+:\*[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")生まれ [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
 
 :\*[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身
 
@@ -237,15 +237,15 @@
 
 ## ミュージックビデオ
 
-|                                                       |                                                                          |
-| ----------------------------------------------------- | ------------------------------------------------------------------------ |
-| **監督**                                                | **曲名**                                                                   |
-| [井上哲央](../Page/井上哲央.md "wikilink")                    | 「みちしるべ」                                                                  |
-| [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink") | 「スクランブル」                                                                 |
-| [本郷伸明](https://ja.wikipedia.org/wiki/本郷伸明 "wikilink") | 「真っ白な未来」「優しい響き」                                                          |
-| [諸沢利彦](https://ja.wikipedia.org/wiki/諸沢利彦 "wikilink") | 「皆様」「夢の方へ」                                                               |
-| 不明                                                    | 「知らない先」「輝ける場所」(出演:[米村美咲](https://ja.wikipedia.org/wiki/米村美咲 "wikilink")) |
-|                                                       |                                                                          |
+|                                                       |                                                       |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| **監督**                                                | **曲名**                                                |
+| [井上哲央](../Page/井上哲央.md "wikilink")                    | 「みちしるべ」                                               |
+| [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink") | 「スクランブル」                                              |
+| [本郷伸明](https://ja.wikipedia.org/wiki/本郷伸明 "wikilink") | 「真っ白な未来」「優しい響き」                                       |
+| [諸沢利彦](https://ja.wikipedia.org/wiki/諸沢利彦 "wikilink") | 「皆様」「夢の方へ」                                            |
+| 不明                                                    | 「知らない先」「輝ける場所」(出演:[米村美咲](../Page/米村美咲.md "wikilink")) |
+|                                                       |                                                       |
 
 ## タイアップ
 

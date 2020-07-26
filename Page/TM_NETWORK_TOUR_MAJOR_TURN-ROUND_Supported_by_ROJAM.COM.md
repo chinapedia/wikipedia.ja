@@ -55,7 +55,7 @@
 
 上記の曲目が収録されたライブDVDが[2001年](../Page/2001年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")及び[12月5日](../Page/12月5日.md "wikilink")にそれぞれリリースされている。
 
-  - [LIVE TOUR Major Turn-Round 01 -Turn Round Edition-](https://ja.wikipedia.org/wiki/LIVE_TOUR_Major_Turn-Round "wikilink")
-  - [LIVE TOUR Major Turn-Round 02 -Encore + D.Harada V-Mix Edition-](https://ja.wikipedia.org/wiki/LIVE_TOUR_Major_Turn-Round "wikilink")
+  - [LIVE TOUR Major Turn-Round 01 -Turn Round Edition-](../Page/LIVE_TOUR_Major_Turn-Round.md "wikilink")
+  - [LIVE TOUR Major Turn-Round 02 -Encore + D.Harada V-Mix Edition-](../Page/LIVE_TOUR_Major_Turn-Round.md "wikilink")
 
 [Category:2000年12月](https://ja.wikipedia.org/wiki/Category:2000年12月 "wikilink") [Category:2000年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2000年のコンサート・ツアー "wikilink") [Category:2000年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2000年の日本の音楽 "wikilink") [Category:2001年1月](https://ja.wikipedia.org/wiki/Category:2001年1月 "wikilink") [Category:2001年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2001年のコンサート・ツアー "wikilink") [Category:2001年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2001年の日本の音楽 "wikilink") [Category:TM_NETWORKのコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのコンサート・ツアー "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:日本のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:日本のコンサート・ツアー "wikilink")

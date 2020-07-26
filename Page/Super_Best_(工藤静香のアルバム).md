@@ -27,7 +27,7 @@
       - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、編曲：後藤次利
       - 3rdシングル
 4.  **[FU-JI-TSU](../Page/FU-JI-TSU.md "wikilink")**
-      - 作詞：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：後藤次利
+      - 作詞：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：後藤次利
       - 4thシングル、ミニアルバム『[静香](../Page/静香_\(アルバム\).md "wikilink")』にも収録
 5.  **[MUGO・ん…色っぽい](../Page/MUGO・ん…色っぽい.md "wikilink")**
       - 作詞：中島みゆき、編曲：後藤次利

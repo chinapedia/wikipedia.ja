@@ -48,7 +48,7 @@
 
 ## 関連項目
 
-  - [アマチュア衛星](../Page/アマチュア衛星.md "wikilink")、[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")
+  - [アマチュア衛星](../Page/アマチュア衛星.md "wikilink")、[アマチュア無線](../Page/アマチュア無線.md "wikilink")
   - [ふじ1号](../Page/ふじ1号.md "wikilink")、[ふじ2号](../Page/ふじ2号.md "wikilink")、[ふじ3号](../Page/ふじ3号.md "wikilink")
   - [人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")
 

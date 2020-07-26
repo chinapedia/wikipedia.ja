@@ -7,8 +7,8 @@
 
   - [福井弘文](https://ja.wikipedia.org/wiki/福井弘文 "wikilink")（1983年4月 - 1987年4月）
   - [石川太郎](../Page/石川太郎.md "wikilink")
-  - [長谷川恵子](https://ja.wikipedia.org/wiki/長谷川恵子_\(東北放送\) "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink")）
-  - [渡辺敏之](https://ja.wikipedia.org/wiki/渡辺敏之 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")）
+  - [長谷川恵子](https://ja.wikipedia.org/wiki/長谷川恵子_\(東北放送\) "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1986年](../Page/1986年.md "wikilink")[9月](../Page/9月.md "wikilink")）
+  - [渡辺敏之](https://ja.wikipedia.org/wiki/渡辺敏之 "wikilink")（[1986年](../Page/1986年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")）
 
 ※全員、TBCのアナウンサー（当時）
 

@@ -127,9 +127,9 @@
 
   - [エツィオ・ロッシ](https://ja.wikipedia.org/wiki/エツィオ・ロッシ "wikilink") 2009.2-3
 
-  - [ルイジ・アポローニ](https://ja.wikipedia.org/wiki/ルイジ・アポローニ "wikilink") 2010.7-9
+  - [ルイジ・アポローニ](../Page/ルイジ・アポローニ.md "wikilink") 2010.7-9
 
-  - [フランチェスコ・モリエーロ](https://ja.wikipedia.org/wiki/フランチェスコ・モリエーロ "wikilink") 2010.9-2011.1, 2012.7-10
+  - [フランチェスコ・モリエーロ](../Page/フランチェスコ・モリエーロ.md "wikilink") 2010.9-2011.1, 2012.7-10
 
   - [ミケーレ・セレーナ](https://ja.wikipedia.org/wiki/ミケーレ・セレーナ "wikilink") 2011.1-6
 

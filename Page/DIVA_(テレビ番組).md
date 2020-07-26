@@ -49,7 +49,7 @@
   - 制作進行：田中まりも
   - ディレクター：塚田秋春、佐藤B（GUTS）
   - [プロデューサー](../Page/プロデューサー.md "wikilink")：大久保さちよ
-  - 協力：[池田屋](https://ja.wikipedia.org/wiki/池田屋_\(テレビ技術会社\) "wikilink")、TRIBE LTD.、CORALRED、[The TUBE](../Page/ザ・チューブ.md "wikilink")、[ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")、交音社
+  - 協力：[池田屋](https://ja.wikipedia.org/wiki/池田屋_\(テレビ技術会社\) "wikilink")、TRIBE LTD.、CORALRED、[The TUBE](../Page/ザ・チューブ.md "wikilink")、[ZACK](../Page/フリーダム・オブ・ザック.md "wikilink")、交音社
   - 制作協力：[ガッツエンターテイメント](../Page/ガッツエンターテイメント.md "wikilink")（[クレジット表示無し](../Page/クレジットタイトル.md "wikilink")）
   - 製作著作：[SHO-GUN](https://ja.wikipedia.org/wiki/笑軍様 "wikilink")
 

@@ -63,7 +63,7 @@
   - [MUKU](../Page/関口和之.md "wikilink"):[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [国本佳宏](https://ja.wikipedia.org/wiki/国本佳宏 "wikilink"):[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
   - 今野多久郎:[Percussion](../Page/打楽器.md "wikilink")
-  - [宮田茂男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink"):[Drums](../Page/ドラムセット.md "wikilink")
+  - [宮田茂男](../Page/宮田繁男.md "wikilink"):[Drums](../Page/ドラムセット.md "wikilink")
   - [小林克也](../Page/小林克也.md "wikilink"):Guest Vocal
   - [原由子](../Page/原由子.md "wikilink"):Guest Vocal
 

@@ -203,7 +203,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・リッグス" title="wikilink">ジョー・リッグス</a></p></td>
+<td><p><a href="../Page/ジョー・リッグス.md" title="wikilink">ジョー・リッグス</a></p></td>
 <td><p>2005年5月19日 - 2006年12月11日</p></td>
 <td><p>0</p></td>
 <td></td>
@@ -368,7 +368,7 @@
 <td><p>2006年3月17日 - 2006年12月11日</p></td>
 <td><p>2</p></td>
 <td><p>○ ブランドン・オルセン（WEC 21）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ネイト・ディアス" title="wikilink">ネイサン・ディアス</a>（WEC 24）</p></td>
+○ <a href="../Page/ネイト・ディアス.md" title="wikilink">ネイサン・ディアス</a>（WEC 24）</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>

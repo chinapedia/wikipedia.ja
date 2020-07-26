@@ -5,7 +5,7 @@
 
 ## 解説
 
-RADWIMPSの初のDVDとしてインディーズ時代の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を中心に、特典映像としてライブ映像やレコーディング風景なども収録されている。この作品でシングル、アルバムに先立ち初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")で音楽・総合で1位を獲得。音楽の1stDVDによる総合ランキング1位は、2005年8月8日付けの[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")『[JAM PUNCH TOUR 2005〜コンドルのパンツがくいコンドル〜at Tokyo International Forum Hall A on 1st of June 2005](https://ja.wikipedia.org/wiki/JAM_PUNCH_TOUR_2005〜コンドルのパンツがくいコンドル〜at_Tokyo_International_Forum_Hall_A_on_1st_of_June_2005 "wikilink")』以来、1年半ぶりであり、初の1位をシングル・アルバムより先にDVDで獲得した例は、2003年3月10日付けの[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")『[お客様は神サマーConcert 55万人愛のリクエストに応えて\!\!](https://ja.wikipedia.org/wiki/お客様は神サマーConcert_55万人愛のリクエストに応えて!! "wikilink")』以来、約4年ぶり史上2組目となった。
+RADWIMPSの初のDVDとしてインディーズ時代の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を中心に、特典映像としてライブ映像やレコーディング風景なども収録されている。この作品でシングル、アルバムに先立ち初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")で音楽・総合で1位を獲得。音楽の1stDVDによる総合ランキング1位は、2005年8月8日付けの[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")『[JAM PUNCH TOUR 2005〜コンドルのパンツがくいコンドル〜at Tokyo International Forum Hall A on 1st of June 2005](https://ja.wikipedia.org/wiki/JAM_PUNCH_TOUR_2005〜コンドルのパンツがくいコンドル〜at_Tokyo_International_Forum_Hall_A_on_1st_of_June_2005 "wikilink")』以来、1年半ぶりであり、初の1位をシングル・アルバムより先にDVDで獲得した例は、2003年3月10日付けの[KAT-TUN](../Page/KAT-TUN.md "wikilink")『[お客様は神サマーConcert 55万人愛のリクエストに応えて\!\!](https://ja.wikipedia.org/wiki/お客様は神サマーConcert_55万人愛のリクエストに応えて!! "wikilink")』以来、約4年ぶり史上2組目となった。
 
 なお、「[祈跡](../Page/祈跡.md "wikilink")」のPV（監督：[Tony Chang](https://ja.wikipedia.org/wiki/Tony_Chang "wikilink")）は収録されていない。
 

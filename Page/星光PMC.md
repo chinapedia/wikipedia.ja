@@ -8,7 +8,7 @@
 
 ### 旧・日本PMC株式会社
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")1月 - ディック・ハーキュレス株式会社設立（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ハーキュレス](https://ja.wikipedia.org/wiki/ハーキュレス "wikilink")社との合弁）。
+  - [1968年](../Page/1968年.md "wikilink")1月 - ディック・ハーキュレス株式会社設立（[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ハーキュレス](https://ja.wikipedia.org/wiki/ハーキュレス "wikilink")社との合弁）。
   - [1992年](../Page/1992年.md "wikilink")10月 - 社名を日本PMC株式会社に変更。
   - [1996年](../Page/1996年.md "wikilink")12月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
 

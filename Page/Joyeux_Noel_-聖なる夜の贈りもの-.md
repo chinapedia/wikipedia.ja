@@ -6,7 +6,7 @@
 ## 収録曲
 
 1.  **Joyeux Noёl〜聖なる夜の贈りもの〜**
-      - [作詞](../Page/作詞.md "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - [作詞](../Page/作詞.md "wikilink")：尾崎雪絵、[作曲](../Page/作曲.md "wikilink")：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[須藤賢一](../Page/須藤賢一.md "wikilink")
       - 3rd[アルバム](../Page/アルバム.md "wikilink")『[PoTeChi](../Page/PoTeChi.md "wikilink")』にも、収録されている
 2.  **にゃっほ〜♪New Year〜Everybody,Let's Count Down\!\!〜**
       - 作詞：尾崎雪絵、作曲：影山ヒロノブ、編曲：須藤賢一

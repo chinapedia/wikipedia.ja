@@ -171,8 +171,8 @@
   - [ロックマンズサッカー](../Page/ロックマンズサッカー.md "wikilink")（SFC）
   - [ロックマン バトル&チェイス](https://ja.wikipedia.org/wiki/ロックマン_バトル&チェイス "wikilink")（PS）
   - [スーパーアドベンチャーロックマン](../Page/スーパーアドベンチャーロックマン.md "wikilink")（PS）
-  - [ロックマン・ザ・パワーバトル](https://ja.wikipedia.org/wiki/ロックマン・ザ・パワーバトル "wikilink")（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")）
-  - [ロックマン2・ザ・パワーファイターズ](https://ja.wikipedia.org/wiki/ロックマン2・ザ・パワーファイターズ "wikilink")（アーケードゲーム）
+  - [ロックマン・ザ・パワーバトル](../Page/ロックマン・ザ・パワーバトル.md "wikilink")（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")）
+  - [ロックマン2・ザ・パワーファイターズ](../Page/ロックマン2・ザ・パワーファイターズ.md "wikilink")（アーケードゲーム）
   - ロックマン バトル&ファイターズ（[ネオジオポケット](../Page/ネオジオポケット.md "wikilink")）
   - ロックマン パワーバトルファイターズ（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
   - [ロックマンロックマン](../Page/ロックマンロックマン.md "wikilink")（[PSP](../Page/PlayStation_Portable.md "wikilink")）
@@ -196,7 +196,7 @@
   - [緒方賢一](../Page/緒方賢一.md "wikilink")
     [ロックマン 星に願いを](../Page/ロックマン_星に願いを.md "wikilink")
   - [石森達幸](../Page/石森達幸.md "wikilink")
-    [ロックマン・ザ・パワーバトル](https://ja.wikipedia.org/wiki/ロックマン・ザ・パワーバトル "wikilink")、[ロックマン2・ザ・パワーファイターズ](https://ja.wikipedia.org/wiki/ロックマン2・ザ・パワーファイターズ "wikilink")
+    [ロックマン・ザ・パワーバトル](../Page/ロックマン・ザ・パワーバトル.md "wikilink")、[ロックマン2・ザ・パワーファイターズ](../Page/ロックマン2・ザ・パワーファイターズ.md "wikilink")
 
 ## 備考
 

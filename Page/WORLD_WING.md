@@ -264,7 +264,7 @@ JL. BY PASS NGURAH RAI, KUTA, BALI<br />
   - [グローバルパスポート](https://ja.wikipedia.org/wiki/グローバルパスポート "wikilink")
       - [グローバルパスポートCDMA](https://ja.wikipedia.org/wiki/グローバルパスポートCDMA "wikilink")
       - [グローバルパスポートGSM](../Page/グローバルパスポートGSM.md "wikilink")
-  - [世界対応ケータイ](https://ja.wikipedia.org/wiki/世界対応ケータイ "wikilink")
+  - [世界対応ケータイ](../Page/世界対応ケータイ.md "wikilink")
   - [国際ローミング (イー・アクセス)](https://ja.wikipedia.org/wiki/国際ローミング_\(イー・アクセス\) "wikilink")
   - [SIMカード](../Page/SIMカード.md "wikilink")
   - [UIMカード](../Page/UIMカード.md "wikilink")

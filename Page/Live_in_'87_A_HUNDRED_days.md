@@ -58,38 +58,38 @@
   - ツアー日程
     1987年7月11日から1987年10月18日、全国25都市29公演\[26\]
 
-| 日付（1987年） | 都道府県                                                  | 会場                                                                  |
-| --------- | ----------------------------------------------------- | ------------------------------------------------------------------- |
-| 7月11日     | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")       |
-| 7月18日     | [千葉県](../Page/千葉県.md "wikilink")                      | [市川市文化会館](../Page/市川市文化会館.md "wikilink")                            |
-| 7月21日     | [山梨県](../Page/山梨県.md "wikilink")                      | [山梨県立県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")                    |
-| 7月24日     | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")   | [宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink")                          |
-| 7月26日     | [埼玉県](../Page/埼玉県.md "wikilink")                      | [浦和市文化センター](https://ja.wikipedia.org/wiki/浦和市文化センター "wikilink")     |
-| 7月31日     | [岩手県](../Page/岩手県.md "wikilink")                      | [岩手県民会館](../Page/岩手県民会館.md "wikilink")大ホール                          |
-| 8月1日      | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")   | [青森市文化会館](../Page/青森市文化会館.md "wikilink")                            |
-| 8月5日      | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [北海道厚生年金会館](../Page/さっぽろ芸術文化の館.md "wikilink")                       |
-| 8月6日      |                                                       |                                                                     |
-| 8月14日     | [島根県](../Page/島根県.md "wikilink")                      | [島根県民会館](https://ja.wikipedia.org/wiki/島根県民会館 "wikilink")           |
-| 8月16日     | [広島県](../Page/広島県.md "wikilink")                      | [広島サンプラザ](../Page/広島サンプラザ.md "wikilink")                            |
-| 8月20日     | [高知県](../Page/高知県.md "wikilink")                      | [高知県立県民文化ホール](https://ja.wikipedia.org/wiki/高知県立県民文化ホール "wikilink") |
-| 8月21日     | [愛媛県](../Page/愛媛県.md "wikilink")                      | [愛媛県県民文化会館](../Page/愛媛県県民文化会館.md "wikilink")                        |
-| 8月24日     | [鹿児島県](../Page/鹿児島県.md "wikilink")                    | [鹿児島市民文化ホール](../Page/鹿児島市民文化ホール.md "wikilink")                      |
-| 8月26日     | [宮崎県](../Page/宮崎県.md "wikilink")                      | 宮崎市民会館                                                              |
-| 8月28日     | [福岡県](../Page/福岡県.md "wikilink")                      | [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")                            |
-| 8月31日     | [大阪府](../Page/大阪府.md "wikilink")                      | [大阪厚生年金会館](../Page/オリックス劇場.md "wikilink")                           |
-| 9月1日      |                                                       |                                                                     |
-| 9月4日      | [京都府](../Page/京都府.md "wikilink")                      | [京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink")               |
-| 9月9日      | 神奈川県                                                  | 神奈川県民ホール                                                            |
-| 9月13日     | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [名古屋市民会館](../Page/名古屋市民会館.md "wikilink")                            |
-| 9月15日     | [兵庫県](../Page/兵庫県.md "wikilink")                      | [神戸国際会館](../Page/神戸国際会館.md "wikilink")                              |
-| 9月20日     | [静岡県](../Page/静岡県.md "wikilink")                      | [静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")                          |
-| 9月29日     | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")   | [仙台市体育館](../Page/仙台市体育館.md "wikilink")                              |
-| 10月3日     | [新潟県](../Page/新潟県.md "wikilink")                      | [長岡市立劇場](../Page/長岡市立劇場.md "wikilink")                              |
-| 10月6日     | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [群馬県民会館](../Page/群馬県民会館.md "wikilink")                              |
-| 10月13日    | [千葉県](../Page/千葉県.md "wikilink")                      | [千葉県文化会館](../Page/千葉県文化会館.md "wikilink")                            |
-| 10月17日    | [東京都](../Page/東京都.md "wikilink")                      | [新宿厚生年金会館](../Page/東京厚生年金会館.md "wikilink")                          |
-| 10月18日    |                                                       |                                                                     |
-|           |                                                       |                                                                     |
+| 日付（1987年） | 都道府県                                                  | 会場                                                              |
+| --------- | ----------------------------------------------------- | --------------------------------------------------------------- |
+| 7月11日     | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")   |
+| 7月18日     | [千葉県](../Page/千葉県.md "wikilink")                      | [市川市文化会館](../Page/市川市文化会館.md "wikilink")                        |
+| 7月21日     | [山梨県](../Page/山梨県.md "wikilink")                      | [山梨県立県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink")                |
+| 7月24日     | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")   | [宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink")                      |
+| 7月26日     | [埼玉県](../Page/埼玉県.md "wikilink")                      | [浦和市文化センター](https://ja.wikipedia.org/wiki/浦和市文化センター "wikilink") |
+| 7月31日     | [岩手県](../Page/岩手県.md "wikilink")                      | [岩手県民会館](../Page/岩手県民会館.md "wikilink")大ホール                      |
+| 8月1日      | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")   | [青森市文化会館](../Page/青森市文化会館.md "wikilink")                        |
+| 8月5日      | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [北海道厚生年金会館](../Page/さっぽろ芸術文化の館.md "wikilink")                   |
+| 8月6日      |                                                       |                                                                 |
+| 8月14日     | [島根県](../Page/島根県.md "wikilink")                      | [島根県民会館](../Page/島根県民会館.md "wikilink")                          |
+| 8月16日     | [広島県](../Page/広島県.md "wikilink")                      | [広島サンプラザ](../Page/広島サンプラザ.md "wikilink")                        |
+| 8月20日     | [高知県](../Page/高知県.md "wikilink")                      | [高知県立県民文化ホール](../Page/高知県立県民文化ホール.md "wikilink")                |
+| 8月21日     | [愛媛県](../Page/愛媛県.md "wikilink")                      | [愛媛県県民文化会館](../Page/愛媛県県民文化会館.md "wikilink")                    |
+| 8月24日     | [鹿児島県](../Page/鹿児島県.md "wikilink")                    | [鹿児島市民文化ホール](../Page/鹿児島市民文化ホール.md "wikilink")                  |
+| 8月26日     | [宮崎県](../Page/宮崎県.md "wikilink")                      | 宮崎市民会館                                                          |
+| 8月28日     | [福岡県](../Page/福岡県.md "wikilink")                      | [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")                        |
+| 8月31日     | [大阪府](../Page/大阪府.md "wikilink")                      | [大阪厚生年金会館](../Page/オリックス劇場.md "wikilink")                       |
+| 9月1日      |                                                       |                                                                 |
+| 9月4日      | [京都府](../Page/京都府.md "wikilink")                      | [京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink")           |
+| 9月9日      | 神奈川県                                                  | 神奈川県民ホール                                                        |
+| 9月13日     | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [名古屋市民会館](../Page/名古屋市民会館.md "wikilink")                        |
+| 9月15日     | [兵庫県](../Page/兵庫県.md "wikilink")                      | [神戸国際会館](../Page/神戸国際会館.md "wikilink")                          |
+| 9月20日     | [静岡県](../Page/静岡県.md "wikilink")                      | [静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")                      |
+| 9月29日     | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")   | [仙台市体育館](../Page/仙台市体育館.md "wikilink")                          |
+| 10月3日     | [新潟県](../Page/新潟県.md "wikilink")                      | [長岡市立劇場](../Page/長岡市立劇場.md "wikilink")                          |
+| 10月6日     | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [群馬県民会館](../Page/群馬県民会館.md "wikilink")                          |
+| 10月13日    | [千葉県](../Page/千葉県.md "wikilink")                      | [千葉県文化会館](../Page/千葉県文化会館.md "wikilink")                        |
+| 10月17日    | [東京都](../Page/東京都.md "wikilink")                      | [新宿厚生年金会館](../Page/東京厚生年金会館.md "wikilink")                      |
+| 10月18日    |                                                       |                                                                 |
+|           |                                                       |                                                                 |
 
 ## 参照
 

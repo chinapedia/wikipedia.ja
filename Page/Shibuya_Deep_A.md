@@ -183,7 +183,7 @@
   - [名越康文](../Page/名越康文.md "wikilink")
   - [篠原菊紀](../Page/篠原菊紀.md "wikilink")（脳科学者）
   - [澤口俊之](../Page/澤口俊之.md "wikilink")（同上）
-  - [島田秀平](https://ja.wikipedia.org/wiki/島田秀平 "wikilink")
+  - [島田秀平](../Page/島田秀平.md "wikilink")
   - [鈴木裕樹](../Page/鈴木裕樹.md "wikilink")（[D-BOYS](../Page/D-BOYS.md "wikilink")）
   - [碓井将大](../Page/碓井将大.md "wikilink")（同上）
   - [荒木宏文](https://ja.wikipedia.org/wiki/荒木宏文 "wikilink")（同上）
@@ -257,7 +257,7 @@
   - 山本栄治（[アンバランス](../Page/アンバランス_\(お笑いコンビ\).md "wikilink")）※ワンセグ2延長戦
   - [安達健太郎](../Page/安達健太郎.md "wikilink")（当時：[カナリア](../Page/カナリア_\(お笑い\).md "wikilink")）※ワンセグ2延長戦
   - 関太（[タイムマシーン3号](../Page/タイムマシーン3号.md "wikilink"))※ワンセグ2延長戦
-  - [エハラマサヒロ](https://ja.wikipedia.org/wiki/エハラマサヒロ "wikilink")※ワンセグ2延長戦
+  - [エハラマサヒロ](../Page/エハラマサヒロ.md "wikilink")※ワンセグ2延長戦
   - 岩崎一則・上田浩二郎（[Hi-Hi](../Page/Hi-Hi.md "wikilink")）※ワンセグ2延長戦
   - [金成公信](../Page/金成公信.md "wikilink")（[ギンナナ](https://ja.wikipedia.org/wiki/ギンナナ "wikilink")）※ワンセグ2延長戦
   - [高橋健一](../Page/高橋健一_\(お笑い芸人\).md "wikilink")・[今野浩喜](../Page/今野浩喜.md "wikilink")（当時：[キングオブコメディ](../Page/キングオブコメディ.md "wikilink")）※ワンセグ2延長戦
@@ -462,7 +462,7 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [安座間美優](https://ja.wikipedia.org/wiki/安座間美優 "wikilink")
-  - [桜庭ななみ](https://ja.wikipedia.org/wiki/桜庭ななみ "wikilink")（当時：[bump.y](https://ja.wikipedia.org/wiki/bump.y "wikilink")）
+  - [桜庭ななみ](../Page/桜庭ななみ.md "wikilink")（当時：[bump.y](https://ja.wikipedia.org/wiki/bump.y "wikilink")）
   - [松山メアリ](https://ja.wikipedia.org/wiki/松山メアリ "wikilink")（同上）
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")（歌手）
   - [山本彩](https://ja.wikipedia.org/wiki/山本彩 "wikilink")（当時：[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")）

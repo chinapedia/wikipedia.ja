@@ -12,8 +12,8 @@
 ## 関連項目
 
   - [自動化ゲート](https://ja.wikipedia.org/wiki/自動化ゲート "wikilink")（日本）
-  - [J-BIS](https://ja.wikipedia.org/wiki/J-BIS "wikilink")（日本）
-  - [Smartgate](https://ja.wikipedia.org/wiki/Smartgate "wikilink")（オーストラリア）
+  - [J-BIS](../Page/J-BIS.md "wikilink")（日本）
+  - [Smartgate](../Page/Smartgate.md "wikilink")（オーストラリア）
   - [US-VISIT](../Page/US-VISIT.md "wikilink")（アメリカ合衆国）
 
 ## 外部リンク

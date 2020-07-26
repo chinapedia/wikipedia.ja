@@ -80,7 +80,7 @@ L'Arc〜en〜Cielの2007年第3弾シングルであり、5か月連続リリー
 <!-- end list -->
 
   - 『機動戦士ガンダム00 ORIGINAL SOUND TRACK 2』 (\#1,TV放映サイズバージョン)
-  - 『[Anime×Music Collaboration 39 '02-'07](https://ja.wikipedia.org/wiki/Anime×Music_Collaboration_39_'02-'07 "wikilink")』 (\#1)
+  - 『[Anime×Music Collaboration 39 '02-'07](../Page/Anime×Music_Collaboration_39_'02-'07.md "wikilink")』 (\#1)
   - 『[機動戦士ガンダム00 COMPLETE BEST](https://ja.wikipedia.org/wiki/機動戦士ガンダム00_COMPLETE_BEST "wikilink")』 (\#1)
   - 『GUNDAM SONGS 145』 (\#1)
 

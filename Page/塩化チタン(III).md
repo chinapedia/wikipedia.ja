@@ -23,7 +23,7 @@
 
 ### 複塩
 
-[塩化セシウム](https://ja.wikipedia.org/wiki/塩化セシウム "wikilink")と塩化チタン(III) を[ヘキサクロロベンゼン](../Page/ヘキサクロロベンゼン.md "wikilink")中で混合すると、結晶性の[複塩](https://ja.wikipedia.org/wiki/複塩 "wikilink") CsTi<sub>2</sub>Cl<sub>7</sub> が得られる。この塩は CsCl と TiCl<sub>3</sub> を 1:2 の比で含む。CsCl<sub>3</sub> (A) と Cl<sub>4</sub> (B) の単位がABACの形で重なった構造を持ち、Ti<sup>3+</sup> (C) は八面体型の空洞に1周期の4分の1ごとに配置されている\[3\]。
+[塩化セシウム](../Page/塩化セシウム.md "wikilink")と塩化チタン(III) を[ヘキサクロロベンゼン](../Page/ヘキサクロロベンゼン.md "wikilink")中で混合すると、結晶性の[複塩](https://ja.wikipedia.org/wiki/複塩 "wikilink") CsTi<sub>2</sub>Cl<sub>7</sub> が得られる。この塩は CsCl と TiCl<sub>3</sub> を 1:2 の比で含む。CsCl<sub>3</sub> (A) と Cl<sub>4</sub> (B) の単位がABACの形で重なった構造を持ち、Ti<sup>3+</sup> (C) は八面体型の空洞に1周期の4分の1ごとに配置されている\[3\]。
 
 ## 合成と取り扱い
 

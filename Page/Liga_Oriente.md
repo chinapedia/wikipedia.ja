@@ -29,7 +29,7 @@
     1.  ひかりのうた -Liga Oriente Remix- （[玲葉奈](https://ja.wikipedia.org/wiki/玲葉奈 "wikilink")）
     2.  セカイセイハ -Liga Oriente Remix-（[SOFFet](../Page/SOFFet.md "wikilink")）
     3.  My Friend -Liga Oriente Remix-（[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")）
-    4.  サルビアのつぼみ -Liga Oriente Remix-（[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")）
+    4.  サルビアのつぼみ -Liga Oriente Remix-（[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")）
     5.  Strong Woman -Liga Oriente Remix-（[PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")）
     6.  Ride On -Liga Oriente Remix-（[MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")）
     7.  波紋 -Liga Oriente Remix-（[Keyco](../Page/Keyco.md "wikilink")）
@@ -46,7 +46,7 @@
 1.  '''FLAVOR IN THE AIR-Japanese Groove Pops Collection-（ 2003年6月4日 ）
       -
         2.記憶の砂
-2.  [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")「**君がくれたもの**」（2007年1月31日）
+2.  [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")「**君がくれたもの**」（2007年1月31日）
       -
         3.サルビアのつぼみ(Liga Oriente Remix)
 3.  [KAME\&L.N.K](../Page/KAME&L.N.K.md "wikilink")「**僕らは強く生きている**」（2007年11月07日）

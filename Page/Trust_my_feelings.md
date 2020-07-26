@@ -67,7 +67,7 @@
 
 1.  以下のインタビューを参照。
 2.  映像と音源は編集され、『Ko Shibasaki Live リリカル＊ワンダー＊パーティー 2012』として[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")にCD\&DVDがリリースされている。
-3.  [9月30日](../Page/9月30日.md "wikilink")に[東京](../Page/東京.md "wikilink")[池上本門寺](../Page/池上本門寺.md "wikilink")、[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")の中秋の名月を挟んで、[10月9日](../Page/10月9日.md "wikilink")に[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")[平安神宮](../Page/平安神宮.md "wikilink")の2夜。
+3.  [9月30日](../Page/9月30日.md "wikilink")に[東京](../Page/東京.md "wikilink")[池上本門寺](../Page/池上本門寺.md "wikilink")、[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")の中秋の名月を挟んで、[10月9日](../Page/10月9日.md "wikilink")に[京都](../Page/京都.md "wikilink")[平安神宮](../Page/平安神宮.md "wikilink")の2夜。
 4.
 5.
 6.

@@ -22,7 +22,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink"):RD250LC,RD350LC
   - [1984年](../Page/1984年.md "wikilink"):RD250LC,RD350LC,[RD500LC](https://ja.wikipedia.org/wiki/ヤマハ・RD500LC "wikilink")
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"):RD250LC,RD350LC,RD500LC
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"):RD250LC,RD350LC,RD500LC
+  - [1986年](../Page/1986年.md "wikilink"):RD250LC,RD350LC,RD500LC
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink"):RD250LC,RD350LC,RD500LC
   - 1988年:RD250LC,RD350LC,RD500LC
 

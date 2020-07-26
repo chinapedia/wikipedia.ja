@@ -14,7 +14,7 @@
 
 ### 合併前
 
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")
+  - [1968年](../Page/1968年.md "wikilink")
       - [2月15日](../Page/2月15日.md "wikilink") – ユザTDK株式会社設立。
       - [9月10日](../Page/9月10日.md "wikilink") – 鶴岡TDK株式会社設立。
   - [1981年](../Page/1981年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink") – 酒田TDK株式会社設立。

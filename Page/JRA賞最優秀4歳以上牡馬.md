@@ -164,7 +164,7 @@
 <td><p><a href="../Page/和田共弘.md" title="wikilink">和田共弘</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="../Page/ヒカルタカイ.md" title="wikilink">ヒカルタカイ</a></p></td>
 <td><p>牡5</p></td>
 <td><p>6戦2勝<br />
@@ -278,7 +278,7 @@
 <td><p>牡5</p></td>
 <td><p>7戦6勝<br />
 天皇賞(春)、有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="../Page/小川佐助.md" title="wikilink">小川佐助</a></p></td>
 <td><p>高田久成</p></td>
 </tr>
@@ -340,7 +340,7 @@
 天皇賞(秋)</p></td>
 <td><p>三好牧場</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高松邦男" title="wikilink">高松邦男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡正雄" title="wikilink">松岡正雄</a></p></td>
+<td><p><a href="../Page/松岡正雄.md" title="wikilink">松岡正雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
@@ -363,7 +363,7 @@
 <td><p>和田農林（有）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/サクラユタカオー.md" title="wikilink">サクラユタカオー</a></p></td>
 <td><p>牡5</p></td>
 <td><p>6戦3勝<br />
@@ -413,7 +413,7 @@
 <td><p>7戦5勝<br />
 天皇賞（春・秋）、<a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/錦野牧場" title="wikilink">錦野牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小原伊佐美" title="wikilink">小原伊佐美</a></p></td>
+<td><p><a href="../Page/小原伊佐美.md" title="wikilink">小原伊佐美</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タマモ" title="wikilink">タマモ</a>（株）</p></td>
 <td></td>
 </tr>
@@ -435,7 +435,7 @@
 <td><p>牡6</p></td>
 <td><p>5戦2勝<br />
 <a href="https://ja.wikipedia.org/wiki/安田記念" title="wikilink">安田記念</a>、有馬記念</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/稲葉牧場" title="wikilink">稲葉不奈男</a></p></td>
+<td><p><a href="../Page/稲葉牧場.md" title="wikilink">稲葉不奈男</a></p></td>
 <td><p><a href="../Page/瀬戸口勉.md" title="wikilink">瀬戸口勉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近藤俊典" title="wikilink">近藤俊典</a></p></td>
 <td></td>

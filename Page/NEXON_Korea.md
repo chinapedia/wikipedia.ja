@@ -7,7 +7,7 @@
 
 ## 略史
 
-[1996年](../Page/1996年.md "wikilink")、世界最初の映像つきオンラインゲームである『[風の王国](https://ja.wikipedia.org/wiki/風の王国_\(オンラインゲーム\) "wikilink")』を運営開始。商業的にも成功を収める。
+[1996年](../Page/1996年.md "wikilink")、世界最初の映像つきオンラインゲームである『[風の王国](../Page/風の王国_\(オンラインゲーム\).md "wikilink")』を運営開始。商業的にも成功を収める。
 
 [2003年](../Page/2003年.md "wikilink")、同じ韓国の開発会社であり、世界各国でヒットしていた『[メイプルストーリー](../Page/メイプルストーリー.md "wikilink")』の[Wizet](https://ja.wikipedia.org/wiki/Wizet "wikilink")社を買収し大きく市場を広げた。
 

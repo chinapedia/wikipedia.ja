@@ -98,7 +98,7 @@
 4.  [秋桜](../Page/秋桜_\(山口百恵の曲\).md "wikilink")（[山口百恵](../Page/山口百恵.md "wikilink")）/中澤裕子
 5.  [22才の別れ](../Page/22才の別れ.md "wikilink")（[かぐや姫](../Page/かぐや姫_\(フォークグループ\).md "wikilink")）/矢口真里・保田圭
 6.  [旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")（吉田拓郎）/メロン記念日
-7.  [心の旅](../Page/心の旅_\(チューリップの曲\).md "wikilink")（[チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")）/中澤裕子・保田圭・矢口真里
+7.  [心の旅](../Page/心の旅_\(チューリップの曲\).md "wikilink")（[チューリップ](../Page/チューリップ_\(バンド\).md "wikilink")）/中澤裕子・保田圭・矢口真里
 8.  [雨の物語](https://ja.wikipedia.org/wiki/雨の物語 "wikilink")（イルカ）/保田圭
 9.  [中央フリーウェイ](https://ja.wikipedia.org/wiki/14番目の月#Side_A "wikilink")（荒井由実）/矢口真里・メロン記念日
 10. [若者たち](https://ja.wikipedia.org/wiki/若者たち_\(曲\) "wikilink")（[ザ・ブロード・サイド・フォー](https://ja.wikipedia.org/wiki/ブロード・サイド・フォー "wikilink")）/中澤裕子・メロン記念日

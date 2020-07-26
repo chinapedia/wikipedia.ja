@@ -78,7 +78,7 @@
   - [大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")「[それが大事](../Page/それが大事_\(大事MANブラザーズバンドの曲\).md "wikilink")」（冒頭、[1993年](../Page/1993年.md "wikilink")の世界で流れる）
   - [ドビュッシー作曲](../Page/クロード・ドビュッシー.md "wikilink")「[亜麻色の髪の乙女](../Page/前奏曲_\(ドビュッシー\).md "wikilink")」
   - [シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")「SHOW」
-  - [チューリップ](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")「[ブルー・スカイ](https://ja.wikipedia.org/wiki/ブルー・スカイ_\(チューリップの曲\) "wikilink")」
+  - [チューリップ](../Page/チューリップ_\(バンド\).md "wikilink")「[ブルー・スカイ](https://ja.wikipedia.org/wiki/ブルー・スカイ_\(チューリップの曲\) "wikilink")」
   - [サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")「タイムマシンにおねがい」
   - [クイーン](../Page/クイーン_\(バンド\).md "wikilink")「Somebody To Love（[愛にすべてを](../Page/愛にすべてを.md "wikilink")）」
   - [フィンガー5](../Page/フィンガー5.md "wikilink")「[恋のダイヤル6700](../Page/恋のダイヤル6700.md "wikilink")」

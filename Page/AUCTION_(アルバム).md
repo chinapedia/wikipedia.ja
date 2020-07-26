@@ -5,7 +5,7 @@
 
 ## 内容
 
-アイドル歌手からロック歌手としての活動にコンバートするようになり、スローバラードの「永遠に止まらない」は初めて作曲（井口慎也と共作）に挑戦した。「YAH YAH YAH」「ゼロから」はドラムソロから始まっている。「Scuccess」は「鳥羽カップ マッチレース」イメージソング、「PRECIOUS DREAMIN'」は[東京デザイナー学院](https://ja.wikipedia.org/wiki/東京デザイナー学院 "wikilink")CMソング、「wonderland」は[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")「サマーグリーンキャンペーン'92」イメージソング。ただ、デビュー当初から、[B'z](../Page/B'z.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")らが在籍していたBMGビクター所属歌手であったり、「[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に近い」と感じるファンが出てしまったためか、[ビーイングブーム](../Page/ビーイングブーム.md "wikilink")の波に乗ってしまった感は否めない。
+アイドル歌手からロック歌手としての活動にコンバートするようになり、スローバラードの「永遠に止まらない」は初めて作曲（井口慎也と共作）に挑戦した。「YAH YAH YAH」「ゼロから」はドラムソロから始まっている。「Scuccess」は「鳥羽カップ マッチレース」イメージソング、「PRECIOUS DREAMIN'」は[東京デザイナー学院](https://ja.wikipedia.org/wiki/東京デザイナー学院 "wikilink")CMソング、「wonderland」は[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")「サマーグリーンキャンペーン'92」イメージソング。ただ、デビュー当初から、[B'z](../Page/B'z.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")らが在籍していたBMGビクター所属歌手であったり、「[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、[ZARD](../Page/ZARD.md "wikilink")に近い」と感じるファンが出てしまったためか、[ビーイングブーム](../Page/ビーイングブーム.md "wikilink")の波に乗ってしまった感は否めない。
 
 ## 収録曲
 

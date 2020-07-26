@@ -163,7 +163,7 @@
 <td><p>土井宏二</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジノホマレ" title="wikilink">フジノホマレ</a></p></td>
 <td><p>牡9</p></td>
 <td><p>7戦5勝<br />
@@ -199,7 +199,7 @@
 阪神障害ステークス（秋）、京都大障害（秋）</p></td>
 <td><p><a href="../Page/白老ファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/工藤嘉見" title="wikilink">工藤嘉見</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡正雄" title="wikilink">松岡正雄</a></p></td>
+<td><p><a href="../Page/松岡正雄.md" title="wikilink">松岡正雄</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -222,7 +222,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ムーテイイチ" title="wikilink">ムーテイイチ</a></p></td>
+<td><p><a href="../Page/ムーテイイチ.md" title="wikilink">ムーテイイチ</a></p></td>
 <td><p>牝5</p></td>
 <td><p>13戦6勝<br />
 <a href="../Page/阪神障害ステークス.md" title="wikilink">阪神障害ステークス</a>（秋）、<br />
@@ -331,7 +331,7 @@
 <td><p>6戦6勝<br />
 阪神障害ステークス（春）、<br />
 中山大障害（春・秋）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="../Page/小川佐助.md" title="wikilink">小川佐助</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高田久成" title="wikilink">高田久成</a></p></td>
 </tr>
@@ -368,7 +368,7 @@
 <td><p>樫山ハル</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="../Page/ハッピールイス.md" title="wikilink">ハッピールイス</a></p></td>
 <td><p>牡5</p></td>
 <td><p>10戦3勝<br />

@@ -1,7 +1,7 @@
 > この記事は[キン肉マン 正義超人vs古代超人](https://ja.wikipedia.org/wiki/キン肉マン_正義超人vs古代超人)から翻訳されています。
 
 
-[200pxの](https://ja.wikipedia.org/wiki/ファイル:Moai_Rano_raraku.jpg "wikilink")[モアイ](../Page/モアイ.md "wikilink")（この島でストーンサタンが出現した）\]\] **キン肉マン 正義超人vs古代超人**（キンにくマン せいぎちょうじんたいこだいちょうじん）は[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画を原作とするアニメ『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』の劇場版第3作。
+[200pxの](https://ja.wikipedia.org/wiki/ファイル:Moai_Rano_raraku.jpg "wikilink")[モアイ](../Page/モアイ.md "wikilink")（この島でストーンサタンが出現した）\]\] **キン肉マン 正義超人vs古代超人**（キンにくマン せいぎちょうじんたいこだいちょうじん）は[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画を原作とするアニメ『[キン肉マン](../Page/キン肉マン_\(テレビアニメ\).md "wikilink")』の劇場版第3作。
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")で公開された。上映時間は45分。
 

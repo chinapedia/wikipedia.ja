@@ -5,7 +5,7 @@
 
 ## 概要
 
-[大阪府](../Page/大阪府.md "wikilink")内で[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")店や[レストラン](../Page/レストラン.md "wikilink")を運営している[延田グループ及び](https://ja.wikipedia.org/wiki/延田エンタープライズ "wikilink")[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")新聞社、[IMGの主催により行われており](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")、大会の会場も延田グループ直営の[兵庫県](../Page/兵庫県.md "wikilink")[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")にあるマスターズゴルフ倶楽部で開催されている。
+[大阪府](../Page/大阪府.md "wikilink")内で[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")店や[レストラン](../Page/レストラン.md "wikilink")を運営している[延田グループ及び](https://ja.wikipedia.org/wiki/延田エンタープライズ "wikilink")[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")新聞社、[IMGの主催により行われており](../Page/インターナショナル・マネジメント・グループ.md "wikilink")、大会の会場も延田グループ直営の[兵庫県](../Page/兵庫県.md "wikilink")[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")にあるマスターズゴルフ倶楽部で開催されている。
 
 2019年現在、賞金総額2億円、優勝賞金3600万円\[2\]\[3\]。なお2005年から2012年までは主催者の延田グループが運営するパチンコ・[パチスロ](../Page/パチスロ.md "wikilink")店「123」にちなみ、賞金総額1億2300万円、優勝賞金2214万円で行われていた\[4\]。[2005年](../Page/2005年.md "wikilink")までは日本の女子大会では最高の賞金額を誇っていた\[5\]。
 

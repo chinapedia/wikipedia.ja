@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p>前作：<br />
-<a href="https://ja.wikipedia.org/wiki/ZARD" title="wikilink">ZARD</a><br />
+<a href="../Page/ZARD.md" title="wikilink">ZARD</a><br />
 『<a href="../Page/Don&#39;t_you_see!.md" title="wikilink">Don't you see!</a>』</p></td>
 </tr>
 </tbody>

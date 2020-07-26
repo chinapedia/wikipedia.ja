@@ -1,7 +1,7 @@
 > この記事は[HERTZ](https://ja.wikipedia.org/wiki/HERTZ)から翻訳されています。
 
 
-『**HERTZ**』（ヘルツ）は、[小森まなみ](../Page/小森まなみ.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")に発売された。
+『**HERTZ**』（ヘルツ）は、[小森まなみ](../Page/小森まなみ.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")である。[1986年](../Page/1986年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")に発売された。
 
 ## 解説
 

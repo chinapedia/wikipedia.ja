@@ -22,7 +22,7 @@ FaxtoryZは車のスクープ写真を撮影する謎の集団。日本車、輸
 
 ## 作中に登場する車
 
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink") [RX-8](../Page/マツダ・RX-8.md "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink") [RX-8](../Page/マツダ・RX-8.md "wikilink")
   - [日産自動車](../Page/日産自動車.md "wikilink") [フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")
   - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink") [ミラなど](../Page/ダイハツ・ミラ.md "wikilink")
 

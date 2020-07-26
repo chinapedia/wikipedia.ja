@@ -38,7 +38,7 @@
       - 迷異家
   - [妖精島の殺人](https://ja.wikipedia.org/wiki/妖精島の殺人 "wikilink")（講談社ノベルス / [山口芳宏](https://ja.wikipedia.org/wiki/山口芳宏 "wikilink")）
       - 学園島の殺人
-  - 酸素は鏡に映らない（[講談社ミステリーランド](https://ja.wikipedia.org/wiki/講談社ミステリーランド "wikilink") / [上遠野浩平](../Page/上遠野浩平.md "wikilink")）
+  - 酸素は鏡に映らない（[講談社ミステリーランド](../Page/講談社ミステリーランド.md "wikilink") / [上遠野浩平](../Page/上遠野浩平.md "wikilink")）
   - [空想東京百景](https://ja.wikipedia.org/wiki/空想東京百景 "wikilink") シリーズ（[講談社BOX](../Page/講談社BOX.md "wikilink") - LINE文庫 / [ゆずはらとしゆき](https://ja.wikipedia.org/wiki/ゆずはらとしゆき "wikilink")）
       - 空想東京百景（講談社BOX）
       - 空想東京百景〈V2〉殺し屋たちの休暇（講談社BOX）

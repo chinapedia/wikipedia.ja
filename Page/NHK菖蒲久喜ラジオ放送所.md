@@ -21,7 +21,7 @@
 
   - [1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - ラジオ第1放送設備を「川口ラジオ放送所」（埼玉県[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")）より移転、同時に出力を100kWから300kWに増力\[2\]\[3\]。再開発により、跡地は[2003年](../Page/2003年.md "wikilink")に[SKIPシティ](../Page/SKIPシティ.md "wikilink")となる。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ラジオ第2放送設備を「鳩ヶ谷ラジオ放送所」（埼玉県川口市）より移転、同時に出力を300kWから500kWに増力\[4\]。跡地には[埼玉県立鳩ヶ谷高等学校](../Page/埼玉県立鳩ヶ谷高等学校.md "wikilink")が開校した。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 川口ラジオ放送所跡地に川口予備放送所を新設。
+  - [1986年](../Page/1986年.md "wikilink") - 川口ラジオ放送所跡地に川口予備放送所を新設。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [放送衛星](../Page/放送衛星.md "wikilink")地球局（アナログ第2主局）運用開始。
   - [2000年](../Page/2000年.md "wikilink") - [放送衛星システム](../Page/放送衛星システム.md "wikilink")による放送衛星地球局（[BSデジタル放送](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")）運用開始。
   - [2002年](../Page/2002年.md "wikilink") - 予備放送所を川口市から[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")道場の[平野原送信所](../Page/平野原送信所.md "wikilink")の南東約500mの位置へ新設移転し、「新開ラジオ放送所」を設置する（川口予備放送所の敷地をSKIPシティに供すため）。

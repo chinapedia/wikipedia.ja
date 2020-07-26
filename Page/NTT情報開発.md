@@ -32,7 +32,7 @@
 
 ## 沿革
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")　[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社（NTT）他9社を出資会社として設立される。
+  - [1986年](../Page/1986年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")　[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社（NTT）他9社を出資会社として設立される。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月](../Page/8月.md "wikilink")　関西営業所を開設する。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月　東京都中央区[日本橋人形町](../Page/日本橋人形町.md "wikilink")にコンピュータセンターを開設する。
   - [1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")　東京都中央区[日本橋堀留町](../Page/日本橋堀留町.md "wikilink")より東京都千代田区神田神保町へ本社を移転する。

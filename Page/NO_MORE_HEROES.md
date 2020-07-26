@@ -28,7 +28,7 @@
 
 ### 戦闘
 
-戦闘は主にトラヴィスの武器「ビーム・カタナ」を使って進めていく。 基本攻撃はAボタンで繰り出し、とどめを刺す際に[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")を振る形となる。基本攻撃はWiiリモコンを傾ける角度によって上段・下段と斬り分ける事が可能。上段攻撃は素早く繰り出すことが出来、下段攻撃は大振りだがリーチが長く、攻撃力が高い。Aボタンを長押しすれば溜め攻撃が繰り出せる。
+戦闘は主にトラヴィスの武器「ビーム・カタナ」を使って進めていく。 基本攻撃はAボタンで繰り出し、とどめを刺す際に[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")を振る形となる。基本攻撃はWiiリモコンを傾ける角度によって上段・下段と斬り分ける事が可能。上段攻撃は素早く繰り出すことが出来、下段攻撃は大振りだがリーチが長く、攻撃力が高い。Aボタンを長押しすれば溜め攻撃が繰り出せる。
 
 ビーム・カタナを使用するには電力を要し、充電が切れるとビーム・カタナは使えなくなってしまう。その場合落ちているバッテリーパックを拾う、Wiiリモコンを振って非常用チャージをするなどして電力回復（リロード）する必要がある。
 
@@ -309,7 +309,7 @@
 
 ### 続編
 
-本作の続編として『[NO MORE HEROES 2 DESPERATE STRUGGLE](https://ja.wikipedia.org/wiki/NO_MORE_HEROES_2_DESPERATE_STRUGGLE "wikilink")』が北米で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売され、日本では2010年[10月21日](../Page/10月21日.md "wikilink")に発売された。
+本作の続編として『[NO MORE HEROES 2 DESPERATE STRUGGLE](https://ja.wikipedia.org/wiki/NO_MORE_HEROES_2_DESPERATE_STRUGGLE "wikilink")』が北米で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")に発売され、日本では2010年[10月21日](../Page/10月21日.md "wikilink")に発売された。
 
 [2019年](../Page/2019年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")には外伝作品『[Travis Strikes Again: No More Heroes](https://ja.wikipedia.org/wiki/Travis_Strikes_Again:_No_More_Heroes "wikilink")』が[Nintendo Switch用ソフトとして発売され](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、『Complete Edition​』のタイトルを冠した[PlayStation 4版](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Steam](../Page/Steam.md "wikilink")版が2019年[10月17日](../Page/10月17日.md "wikilink")（Steam版は[10月18日](../Page/10月18日.md "wikilink")）に発売された。その後、10年ぶりのナンバリングタイトルとして『[NO MORE HEROES 3](https://ja.wikipedia.org/wiki/NO_MORE_HEROES_3 "wikilink")』の製作が発表された。
 

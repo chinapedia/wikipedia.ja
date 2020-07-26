@@ -1,7 +1,7 @@
 > この記事は[ハートのIgnition](https://ja.wikipedia.org/wiki/ハートのIgnition)から翻訳されています。
 
 
-「**ハートのIgnition**」（ハートのイグニション）は、[福永恵規](../Page/福永恵規.md "wikilink")の楽曲で、2枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。
+「**ハートのIgnition**」（ハートのイグニション）は、[福永恵規](../Page/福永恵規.md "wikilink")の楽曲で、2枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。
 
 表題曲は、自身がレギュラー出演した[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[スケバン刑事III 少女忍法帖伝奇](../Page/スケバン刑事III_少女忍法帖伝奇.md "wikilink")』の主題歌に起用された。
 

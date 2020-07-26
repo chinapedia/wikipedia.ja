@@ -1869,7 +1869,7 @@
 
 <!-- end list -->
 
-  - [坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink") 2回出場
+  - [坂口憲二](../Page/坂口憲二.md "wikilink") 2回出場
       - 第7回に初出場し、BEACH FLAGSでは2位、MONSTER BOXでは17段を記録（4位）。同種目終了時点で暫定総合3位につけていたが、その後の種目で失速して総合7位、わずか5P差でファイナル進出を逃した。続く第8回ではBEACH FLAGSは準々決勝敗退に終わるもMONSTER BOXで自己新記録の18段（3位）を記録するなど活躍し、総合5位入賞を果たした。
       - 第8回大会 総合5位
       - MONSTER BOX 18段、QUICK MUSCLE 82回、SHOT-GUN-TOUCH 11m50cm、WORK OUT GUYS 2分01秒24

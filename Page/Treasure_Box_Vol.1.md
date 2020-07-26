@@ -11,7 +11,7 @@
 4.  **リミニッシング** (Reminiscing) / [リトル・リバー・バンド](https://ja.wikipedia.org/wiki/リトル・リバー・バンド "wikilink") ([:en:Little River Band](https://ja.wikipedia.org/wiki/:en:Little_River_Band "wikilink"))
 5.  **キングストン・タウン** (Kingston Town) / [UB40](../Page/UB40.md "wikilink") ([:en:UB40](https://ja.wikipedia.org/wiki/:en:UB40 "wikilink"))
 6.  **[好きにならずにいられない](../Page/好きにならずにいられない.md "wikilink")** ([Can't Help Falling in Love](https://ja.wikipedia.org/wiki/Can't_Help_Falling_in_Love "wikilink")) / [コリー・ハート](../Page/コリー・ハート.md "wikilink") ([:en:Corey Hart](https://ja.wikipedia.org/wiki/:en:Corey_Hart "wikilink"))
-7.  **[マイ・シャローナ](https://ja.wikipedia.org/wiki/マイ・シャローナ "wikilink")** (My Sharona) / [ザ・ナック](../Page/ザ・ナック.md "wikilink") ([:en:The Knack](https://ja.wikipedia.org/wiki/:en:The_Knack "wikilink"))
+7.  **[マイ・シャローナ](../Page/マイ・シャローナ.md "wikilink")** (My Sharona) / [ザ・ナック](../Page/ザ・ナック.md "wikilink") ([:en:The Knack](https://ja.wikipedia.org/wiki/:en:The_Knack "wikilink"))
 8.  **ふたりのときめき** ([Joyride](https://ja.wikipedia.org/wiki/:en:Joyride_\(Roxette_song\) "wikilink")) / [ロクセット](../Page/ロクセット.md "wikilink") ([:en:Roxette](https://ja.wikipedia.org/wiki/:en:Roxette "wikilink"))
 9.  **君は完璧さ** ([Do You Really Want to Hurt Me?](https://ja.wikipedia.org/wiki/:en:Do_You_Really_Want_to_Hurt_Me? "wikilink")) / [カルチャー・クラブ](../Page/カルチャー・クラブ.md "wikilink") ([:en:Culture Club](https://ja.wikipedia.org/wiki/:en:Culture_Club "wikilink"))
 10. **ハッピー・エバー・アフター** (Happy Ever After) / [ジュリア・フォーダム](https://ja.wikipedia.org/wiki/ジュリア・フォーダム "wikilink") ([:en:Julia Fordham](https://ja.wikipedia.org/wiki/:en:Julia_Fordham "wikilink"))

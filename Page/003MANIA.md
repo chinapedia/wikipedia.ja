@@ -5,7 +5,7 @@
 
 ## メンバー
 
-**[堀井祥明](../Page/堀井祥明.md "wikilink")**（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）
+**[堀井祥明](../Page/堀井祥明.md "wikilink")**（[1968年](../Page/1968年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）
 
   -
     かつては藤代達生と共にお笑いコンビ「**[まじかるず](../Page/まじかるず.md "wikilink")**」として活動していた。

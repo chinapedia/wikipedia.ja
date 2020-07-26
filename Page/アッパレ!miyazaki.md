@@ -73,7 +73,7 @@
 
 ## 商品
 
-2005年から[高千穂町](../Page/高千穂町.md "wikilink")と[日之影町](../Page/日之影町.md "wikilink")で収穫された[ヒノヒカリ](../Page/ヒノヒカリ.md "wikilink")の[無洗米](https://ja.wikipedia.org/wiki/無洗米 "wikilink")を「アッパレ\!miyazaki米」（アッパレ\!みやざきまい）として卸売業者の[ミヤベイ](https://ja.wikipedia.org/wiki/ミヤベイ "wikilink")と共同で販売している\[1\]。毎年10月下旬ごろに発売される。
+2005年から[高千穂町](../Page/高千穂町.md "wikilink")と[日之影町](../Page/日之影町.md "wikilink")で収穫された[ヒノヒカリ](../Page/ヒノヒカリ.md "wikilink")の[無洗米](../Page/無洗米.md "wikilink")を「アッパレ\!miyazaki米」（アッパレ\!みやざきまい）として卸売業者の[ミヤベイ](https://ja.wikipedia.org/wiki/ミヤベイ "wikilink")と共同で販売している\[1\]。毎年10月下旬ごろに発売される。
 
 ## 備考
 

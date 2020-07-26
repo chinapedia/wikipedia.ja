@@ -117,7 +117,7 @@
 
   -
 
-  - [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [MAZDA](../Page/マツダ.md "wikilink")
 
 :\* [AZ-1 PG6SA](../Page/マツダ・オートザムAZ-1.md "wikilink")
 

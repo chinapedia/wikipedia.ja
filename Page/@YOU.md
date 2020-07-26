@@ -1,7 +1,7 @@
 > この記事は[@YOU](https://ja.wikipedia.org/wiki/@YOU)から翻訳されています。
 
 
-**@YOU**（あっとゆう、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月25日](../Page/8月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[ストリッパー](https://ja.wikipedia.org/wiki/ストリップティーズ "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[アクシスプロモーション](https://ja.wikipedia.org/wiki/アクシスプロモーション "wikilink")所属。趣味：カラオケ。
+**@YOU**（あっとゆう、[1986年](../Page/1986年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[ストリッパー](https://ja.wikipedia.org/wiki/ストリップティーズ "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[アクシスプロモーション](https://ja.wikipedia.org/wiki/アクシスプロモーション "wikilink")所属。趣味：カラオケ。
 
 ## 略歴
 
@@ -56,7 +56,7 @@
   - 爆乳トリプルレズビアン (10月19日、[クロス](../Page/CROSS_\(アダルトビデオ\).md "wikilink"))共演:小春、[松坂みるく](../Page/松坂みるく.md "wikilink")
   - コスプレ★えっち @YOU (10月20日、GLAY'z)
   - 巨乳ヒロイン 巨乳特捜戦士パイナー (11月24日、[ギガ](../Page/ギガ_\(アダルトビデオ\).md "wikilink"))
-  - 痴漢猥褻男 (12月7日、アイエナジー)オムニバス作品 他出演:[北川絵美](../Page/北川絵美_\(AV女優\).md "wikilink")、[三津なつみ](https://ja.wikipedia.org/wiki/三津なつみ "wikilink")、[上原留華](../Page/上原留華.md "wikilink")、[中野美奈](../Page/中野美奈.md "wikilink")、[唯川純](https://ja.wikipedia.org/wiki/唯川純 "wikilink")、[姫野りむ](../Page/姫野りむ.md "wikilink")、[黒沢愛](../Page/黒沢愛.md "wikilink")、元村あゆみ
+  - 痴漢猥褻男 (12月7日、アイエナジー)オムニバス作品 他出演:[北川絵美](../Page/北川絵美_\(AV女優\).md "wikilink")、[三津なつみ](https://ja.wikipedia.org/wiki/三津なつみ "wikilink")、[上原留華](../Page/上原留華.md "wikilink")、[中野美奈](../Page/中野美奈.md "wikilink")、[唯川純](../Page/唯川純.md "wikilink")、[姫野りむ](../Page/姫野りむ.md "wikilink")、[黒沢愛](../Page/黒沢愛.md "wikilink")、元村あゆみ
 
 <!-- end list -->
 
@@ -173,7 +173,7 @@
 
   - [のぞき屋](../Page/のぞき屋.md "wikilink")（2007年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [特命係長 只野仁](https://ja.wikipedia.org/wiki/特命係長_只野仁_\(テレビドラマ\) "wikilink")4th　最終話（2009年3月12日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [湯けむりスナイパー](https://ja.wikipedia.org/wiki/湯けむりスナイパー "wikilink") 第6話 （2009年5月15日、テレビ東京）\*キャストテロップ無し
+  - [湯けむりスナイパー](../Page/湯けむりスナイパー.md "wikilink") 第6話 （2009年5月15日、テレビ東京）\*キャストテロップ無し
   - [モテキ](https://ja.wikipedia.org/wiki/モテキ "wikilink") 第7話 （2010年8月27日、テレビ東京）- タクシーの女 役
 
 ### PV

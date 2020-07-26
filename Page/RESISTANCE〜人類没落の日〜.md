@@ -7,7 +7,7 @@ __TOC__
 
 ## 概要
 
-PS3の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")としてリリースされた。本作は[RESISTANCEシリーズ](https://ja.wikipedia.org/wiki/RESISTANCE_\(シリーズ\) "wikilink")3部作の第1作目である。開発は『[ラチェット&クランク](https://ja.wikipedia.org/wiki/ラチェット&クランク "wikilink")』シリーズなどで知られる[インソムニアックゲームズ](../Page/インソムニアックゲームズ.md "wikilink")（[Insomniac Games](https://ja.wikipedia.org/wiki/:en:Insomniac_Games "wikilink")）が担当した。欧米を中心にヒットし、全世界で350万本以上を売り上げた。
+PS3の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")としてリリースされた。本作は[RESISTANCEシリーズ](https://ja.wikipedia.org/wiki/RESISTANCE_\(シリーズ\) "wikilink")3部作の第1作目である。開発は『[ラチェット&クランク](../Page/ラチェット&クランク.md "wikilink")』シリーズなどで知られる[インソムニアックゲームズ](../Page/インソムニアックゲームズ.md "wikilink")（[Insomniac Games](https://ja.wikipedia.org/wiki/:en:Insomniac_Games "wikilink")）が担当した。欧米を中心にヒットし、全世界で350万本以上を売り上げた。
 
 [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")の“もう1つの[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")”を舞台に、地球侵略をもくろむ謎の生物“[キメラ](../Page/キマイラ.md "wikilink")”と[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")や[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")との激しい戦いを描いたFPS（[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")）。物語に沿ってゲームを進めるシングルプレイに加えて、2人協力プレイ、[インターネット](../Page/インターネット.md "wikilink")を介したオンライン対戦が可能なマルチプレイを楽しめる。
 
@@ -178,7 +178,7 @@ PS3の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")
 
   - [インソムニアックゲームズ](../Page/インソムニアックゲームズ.md "wikilink")
   - [スパイロ・ザ・ドラゴン](../Page/スパイロ・ザ・ドラゴン.md "wikilink")
-  - [ラチェット&クランク](https://ja.wikipedia.org/wiki/ラチェット&クランク "wikilink")
+  - [ラチェット&クランク](../Page/ラチェット&クランク.md "wikilink")
 
 ## 外部リンク
 

@@ -22,7 +22,7 @@
 5.  **Route89**
       - 作詞：奥井雅美、作曲・編曲：Monta
 6.  **WHEEL**
-      - 作詞・作曲：奥井雅美、編曲：[須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")
+      - 作詞・作曲：奥井雅美、編曲：[須藤賢一](../Page/須藤賢一.md "wikilink")
 7.  **[Troubadour-吟遊詩人-](https://ja.wikipedia.org/wiki/Olive_\(奥井雅美の曲\) "wikilink")**
       - 作詞：奥井雅美、作曲・編曲：Monta
 8.  **HEAVEN'S DOOR**

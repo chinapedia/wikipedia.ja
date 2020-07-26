@@ -22,10 +22,10 @@
 （左が優勝者）
 
 1.  1996年 [劉昌赫](../Page/劉昌赫.md "wikilink") 3-2 [曺薫鉉](https://ja.wikipedia.org/wiki/曺薫鉉 "wikilink")
-2.  1997年 [李昌鎬](../Page/李昌鎬.md "wikilink") 3-0 [崔明勲](https://ja.wikipedia.org/wiki/崔明勲 "wikilink")
+2.  1997年 [李昌鎬](../Page/李昌鎬.md "wikilink") 3-0 [崔明勲](../Page/崔明勲.md "wikilink")
 3.  1998年 李昌鎬 3-0 崔明勲
 4.  1999年 [徐奉洙](../Page/徐奉洙.md "wikilink") 3-2 [劉昌赫](../Page/劉昌赫.md "wikilink")
-5.  2000年 [崔明勲](https://ja.wikipedia.org/wiki/崔明勲 "wikilink") 3-1 [芮廼偉](../Page/ゼイ廼偉.md "wikilink")
+5.  2000年 [崔明勲](../Page/崔明勲.md "wikilink") 3-1 [芮廼偉](../Page/ゼイ廼偉.md "wikilink")
 6.  2001年 李昌鎬 3-0 崔明勲
 7.  2002年 [李世乭](../Page/李世ドル.md "wikilink") 3-1 崔明勲
 8.  2003年 李昌鎬 3-0 趙漢乗

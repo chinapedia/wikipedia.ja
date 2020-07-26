@@ -9,14 +9,14 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")に三菱電機が携帯電話事業からの撤退を発表したため、この機種が三菱電機製の最後の折りたたみ式携帯になった\[1\]。なお、本機は[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")の2007年度[ユニバーサルデザイン](../Page/ユニバーサルデザイン.md "wikilink")賞を受賞している。
 
-| 主な対応サービス                                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| ~~[DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")~~／~~[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")~~                    |
-| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／~~[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")~~\[2\]                 |
-| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                                          |
-| [着もじ](../Page/着もじ.md "wikilink")                                                                                            |
-| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／~~[バイオ認証](../Page/バイオ認証.md "wikilink")~~                        |
-| ~~[きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")~~／~~[マチキャラ](https://ja.wikipedia.org/wiki/マチキャラ "wikilink")~~ |
+| 主な対応サービス                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------- |
+| ~~[DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")~~／~~[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")~~    |
+| ~~[直感ゲーム](../Page/直感ゲーム.md "wikilink")~~／~~[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")~~\[2\] |
+| ~~[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")~~                                                          |
+| [着もじ](../Page/着もじ.md "wikilink")                                                                            |
+| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／~~[バイオ認証](../Page/バイオ認証.md "wikilink")~~        |
+| ~~[きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")~~／~~[マチキャラ](../Page/マチキャラ.md "wikilink")~~    |
 
 ## 歴史
 

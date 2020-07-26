@@ -164,7 +164,7 @@ Rubyには[Merb](https://ja.wikipedia.org/wiki/Merb "wikilink")、[Ruby on Rails
   - [:Category:ウェブアプリケーションフレームワーク](https://ja.wikipedia.org/wiki/Category:ウェブアプリケーションフレームワーク "wikilink")
   - [ソフトウェアフレームワーク](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")
   - [アプリケーションフレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")
-  - [Don't repeat yourself](https://ja.wikipedia.org/wiki/Don't_repeat_yourself "wikilink") (DRY原則)
+  - [Don't repeat yourself](../Page/Don't_repeat_yourself.md "wikilink") (DRY原則)
 
 [Category:ネットワークソフト](https://ja.wikipedia.org/wiki/Category:ネットワークソフト "wikilink") [Category:ソフトウェアアーキテクチャ](https://ja.wikipedia.org/wiki/Category:ソフトウェアアーキテクチャ "wikilink") [Category:ウェブアプリケーション](https://ja.wikipedia.org/wiki/Category:ウェブアプリケーション "wikilink") [Category:ウェブアプリケーションフレームワーク](https://ja.wikipedia.org/wiki/Category:ウェブアプリケーションフレームワーク "wikilink") [Category:ウェブサイトの構成](https://ja.wikipedia.org/wiki/Category:ウェブサイトの構成 "wikilink")
 

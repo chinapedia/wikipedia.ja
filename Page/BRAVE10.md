@@ -263,7 +263,7 @@
 <td><p><a href="../Page/横手美智子.md" title="wikilink">横手美智子</a></p></td>
 <td><p>佐山聖子</p></td>
 <td><p>佐藤清光</p></td>
-<td><p>山田裕子、<a href="https://ja.wikipedia.org/wiki/佐々木睦美" title="wikilink">佐々木睦美</a></p></td>
+<td><p>山田裕子、<a href="../Page/佐々木睦美.md" title="wikilink">佐々木睦美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>其之参</p></td>

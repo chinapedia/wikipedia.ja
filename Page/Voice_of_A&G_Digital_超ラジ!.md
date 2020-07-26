@@ -84,7 +84,7 @@
 <td><p>29</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中村みなの超ラジ!Rookie" title="wikilink">中村みなの超ラジ!Rookie</a></p></td>
+<td><p><a href="../Page/中村みなの超ラジ!Rookie.md" title="wikilink">中村みなの超ラジ!Rookie</a></p></td>
 <td><p><a href="../Page/中村みな.md" title="wikilink">中村みな</a></p></td>
 <td><p>水曜日</p></td>
 <td><p>16:00</p></td>
@@ -184,7 +184,7 @@
 <td><p>130</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/三瓶由布子の超ラジ!Girls" title="wikilink">三瓶由布子の超ラジ!Girls</a></p></td>
+<td><p><a href="../Page/三瓶由布子の超ラジ!Girls.md" title="wikilink">三瓶由布子の超ラジ!Girls</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三瓶由布子" title="wikilink">三瓶由布子</a></p></td>
 <td><p>水曜日</p></td>
 <td><p>17:00→18:00</p></td>
@@ -204,7 +204,7 @@
 <td><p>130</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/井口裕香の超ラジ!Girls" title="wikilink">井口裕香の超ラジ!Girls</a></p></td>
+<td><p><a href="../Page/井口裕香の超ラジ!Girls.md" title="wikilink">井口裕香の超ラジ!Girls</a></p></td>
 <td><p><a href="../Page/井口裕香.md" title="wikilink">井口裕香</a></p></td>
 <td><p>金曜日</p></td>
 <td><p>17:00→18:00</p></td>
@@ -320,7 +320,7 @@
 
 ### 挨拶
 
-番組用の挨拶は「ちょら〜っす」、別れの挨拶は「ちょらば〜い」である。しかし、各パーソナリティは、途中から独自の挨拶を使用していた。喜多村英梨は「おつえり〜」「おつあ〜り〜ういんぐ〜」および「またね。」もしくは「つばさらば〜い」（事務所移籍以前は「おつカレイドスコープ」）、吉野裕行は「こんつぁ〜」、岩田光央は「お〜っす」、鷲崎健は「ちょらすぱっぷ〜」、後藤邑子は「ちょり〜っす」、広橋涼は「おばんでございます」。Voice of A\&G Digital 超ラジ\!Rookieでも同様で、井澤詩織は「ハッピ〜」、吉田沙織は「ちょらら〜っす」、吉成由貴は「おはよしなり〜」。そのため、2009年4月以降「ちょら〜っす」を使用している超ラジ\!パーソナリティはおらず、超ラジ\!Girlsを含めても火曜日の[伊藤かな恵や水曜日の](https://ja.wikipedia.org/wiki/伊藤かな恵の超ラジ!Girls "wikilink")[三瓶由布子の二人だけになっていた](https://ja.wikipedia.org/wiki/三瓶由布子の超ラジ!Girls "wikilink")。さらに「ちょらば〜い」に関しては、2009年4月以降「超ラジ\!」・「超ラジ\!Girls」のどのパーソナリティーも使用していないため、[死語と化していた](../Page/廃語.md "wikilink")。なお、過去では飯塚雅弓のみが使用。
+番組用の挨拶は「ちょら〜っす」、別れの挨拶は「ちょらば〜い」である。しかし、各パーソナリティは、途中から独自の挨拶を使用していた。喜多村英梨は「おつえり〜」「おつあ〜り〜ういんぐ〜」および「またね。」もしくは「つばさらば〜い」（事務所移籍以前は「おつカレイドスコープ」）、吉野裕行は「こんつぁ〜」、岩田光央は「お〜っす」、鷲崎健は「ちょらすぱっぷ〜」、後藤邑子は「ちょり〜っす」、広橋涼は「おばんでございます」。Voice of A\&G Digital 超ラジ\!Rookieでも同様で、井澤詩織は「ハッピ〜」、吉田沙織は「ちょらら〜っす」、吉成由貴は「おはよしなり〜」。そのため、2009年4月以降「ちょら〜っす」を使用している超ラジ\!パーソナリティはおらず、超ラジ\!Girlsを含めても火曜日の[伊藤かな恵や水曜日の](https://ja.wikipedia.org/wiki/伊藤かな恵の超ラジ!Girls "wikilink")[三瓶由布子の二人だけになっていた](../Page/三瓶由布子の超ラジ!Girls.md "wikilink")。さらに「ちょらば〜い」に関しては、2009年4月以降「超ラジ\!」・「超ラジ\!Girls」のどのパーソナリティーも使用していないため、[死語と化していた](../Page/廃語.md "wikilink")。なお、過去では飯塚雅弓のみが使用。
 
 ### 曜日横断企画
 

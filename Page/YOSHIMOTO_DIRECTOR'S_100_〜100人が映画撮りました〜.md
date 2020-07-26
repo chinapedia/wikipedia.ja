@@ -108,7 +108,7 @@
 <a href="../Page/長谷川朝二.md" title="wikilink">長谷川朝二</a><br />
 <a href="../Page/遠藤みちスケ.md" title="wikilink">遠藤みちスケ</a></p></td>
 <td><p>木村祐一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋本拓弥" title="wikilink">橋本拓弥</a>（残暑）、<a href="../Page/中野公美子.md" title="wikilink">中野公美子</a>、板尾創路、<a href="../Page/オリエンタルラジオ.md" title="wikilink">オリエンタルラジオ</a>、<a href="../Page/おはよう。.md" title="wikilink">芦澤和哉</a>、<a href="../Page/アホマイルド.md" title="wikilink">アホマイルド</a>、<a href="https://ja.wikipedia.org/wiki/ゆったり感" title="wikilink">ゆったり感</a>、<a href="../Page/えんにち.md" title="wikilink">えんにち</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/橋本拓弥" title="wikilink">橋本拓弥</a>（残暑）、<a href="../Page/中野公美子.md" title="wikilink">中野公美子</a>、板尾創路、<a href="../Page/オリエンタルラジオ.md" title="wikilink">オリエンタルラジオ</a>、<a href="../Page/おはよう。.md" title="wikilink">芦澤和哉</a>、<a href="../Page/アホマイルド.md" title="wikilink">アホマイルド</a>、<a href="../Page/ゆったり感.md" title="wikilink">ゆったり感</a>、<a href="../Page/えんにち.md" title="wikilink">えんにち</a></p></td>
 </tr>
 <tr class="even">
 <td><p>カナリア</p></td>
@@ -151,7 +151,7 @@
 <td><p>ハリセンボン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/はしもとこうじ" title="wikilink">はしもとこうじ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近藤春菜" title="wikilink">近藤春菜</a>（ハリセンボン）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明樂哲典" title="wikilink">明樂哲典</a>、<a href="../Page/川原澄人.md" title="wikilink">川原澄人</a>、<a href="https://ja.wikipedia.org/wiki/ゆったり感" title="wikilink">ゆったり感</a>、<a href="https://ja.wikipedia.org/wiki/目黒紗織" title="wikilink">目黒紗織</a>、<a href="https://ja.wikipedia.org/wiki/愛実" title="wikilink">愛実</a>、<a href="https://ja.wikipedia.org/wiki/小松未可子" title="wikilink">小林未可子</a>、、<a href="../Page/ヒデ_(お笑い芸人).md" title="wikilink">ヒデ</a>（<a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a>）、<a href="../Page/シベリア文太.md" title="wikilink">シベリア文太</a>、<a href="https://ja.wikipedia.org/wiki/箕輪はるか" title="wikilink">箕輪はるか</a>（ハリセンボン）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明樂哲典" title="wikilink">明樂哲典</a>、<a href="../Page/川原澄人.md" title="wikilink">川原澄人</a>、<a href="../Page/ゆったり感.md" title="wikilink">ゆったり感</a>、<a href="https://ja.wikipedia.org/wiki/目黒紗織" title="wikilink">目黒紗織</a>、<a href="https://ja.wikipedia.org/wiki/愛実" title="wikilink">愛実</a>、<a href="https://ja.wikipedia.org/wiki/小松未可子" title="wikilink">小林未可子</a>、、<a href="../Page/ヒデ_(お笑い芸人).md" title="wikilink">ヒデ</a>（<a href="../Page/ペナルティ_(お笑いコンビ).md" title="wikilink">ペナルティ</a>）、<a href="../Page/シベリア文太.md" title="wikilink">シベリア文太</a>、<a href="https://ja.wikipedia.org/wiki/箕輪はるか" title="wikilink">箕輪はるか</a>（ハリセンボン）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -168,7 +168,7 @@
 <td><p><a href="../Page/博多華丸・大吉.md" title="wikilink">博多華丸・大吉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山岡真介" title="wikilink">山岡真介</a></p></td>
 <td><p><a href="../Page/霧島れいか.md" title="wikilink">霧島れいか</a></p></td>
-<td><p>しゃば蔵（<a href="../Page/プー&amp;ムー.md" title="wikilink">プー&amp;ムー</a>）、<a href="https://ja.wikipedia.org/wiki/末松佳実" title="wikilink">末松佳実</a>、<a href="../Page/松下笑一.md" title="wikilink">松下笑一</a>、<a href="../Page/パタパタママ_(お笑いコンビ).md" title="wikilink">パタパタママ</a>、<a href="../Page/どんぴしゃ.md" title="wikilink">どんぴしゃ</a>、<a href="https://ja.wikipedia.org/wiki/ひのひかり智" title="wikilink">山崎智</a>、<a href="../Page/チング.md" title="wikilink">チング</a>、<a href="../Page/ケン坊田中.md" title="wikilink">ケン坊田中</a>、<a href="../Page/寿一実.md" title="wikilink">寿一実</a></p></td>
+<td><p>しゃば蔵（<a href="../Page/プー&amp;ムー.md" title="wikilink">プー&amp;ムー</a>）、<a href="https://ja.wikipedia.org/wiki/末松佳実" title="wikilink">末松佳実</a>、<a href="../Page/松下笑一.md" title="wikilink">松下笑一</a>、<a href="../Page/パタパタママ_(お笑いコンビ).md" title="wikilink">パタパタママ</a>、<a href="../Page/どんぴしゃ.md" title="wikilink">どんぴしゃ</a>、<a href="../Page/ひのひかり智.md" title="wikilink">山崎智</a>、<a href="../Page/チング.md" title="wikilink">チング</a>、<a href="../Page/ケン坊田中.md" title="wikilink">ケン坊田中</a>、<a href="../Page/寿一実.md" title="wikilink">寿一実</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -499,7 +499,7 @@ RG（レイザーラモン）</p></td>
 <td><p><a href="../Page/板倉俊之.md" title="wikilink">板倉俊之</a>（<a href="../Page/インパルス_(お笑いコンビ).md" title="wikilink">インパルス</a>）</p></td>
 <td><p>板倉俊之</p></td>
 <td><p><a href="../Page/谷津勲.md" title="wikilink">谷津勲</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/草谷翔" title="wikilink">草谷翔</a>、<a href="../Page/藤本敏史.md" title="wikilink">藤本敏史</a>（FUJIWARA）、山本吉貴、<a href="../Page/武内由紀子.md" title="wikilink">武内由紀子</a>、<a href="https://ja.wikipedia.org/wiki/金子貴伸" title="wikilink">金子貴伸</a>、板倉俊之、くまだまさし、スリムクラブ、若月徹（若月）、<a href="https://ja.wikipedia.org/wiki/吉田翔_(俳優)" title="wikilink">吉田翔</a>、<a href="https://ja.wikipedia.org/wiki/岡田佑太" title="wikilink">岡田佑太</a>、<a href="../Page/小沢仁志.md" title="wikilink">小沢仁志</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/草谷翔" title="wikilink">草谷翔</a>、<a href="../Page/藤本敏史.md" title="wikilink">藤本敏史</a>（FUJIWARA）、山本吉貴、<a href="../Page/武内由紀子.md" title="wikilink">武内由紀子</a>、<a href="https://ja.wikipedia.org/wiki/金子貴伸" title="wikilink">金子貴伸</a>、板倉俊之、くまだまさし、スリムクラブ、若月徹（若月）、<a href="../Page/吉田翔_(俳優).md" title="wikilink">吉田翔</a>、<a href="https://ja.wikipedia.org/wiki/岡田佑太" title="wikilink">岡田佑太</a>、<a href="../Page/小沢仁志.md" title="wikilink">小沢仁志</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -771,7 +771,7 @@ OHRYS BIRD</p></td>
 <td><p>藤谷弥生<br />
 田村亮</p></td>
 <td><p><a href="../Page/宮里駿.md" title="wikilink">宮里駿</a></p></td>
-<td><p><a href="../Page/小川菜摘.md" title="wikilink">小川菜摘</a>、<a href="https://ja.wikipedia.org/wiki/和川未優" title="wikilink">和川未優</a>、森三中、藤田憲右（トータルテンボス)、田村亮、<a href="../Page/島田洋八.md" title="wikilink">島田洋八</a></p></td>
+<td><p><a href="../Page/小川菜摘.md" title="wikilink">小川菜摘</a>、<a href="../Page/和川未優.md" title="wikilink">和川未優</a>、森三中、藤田憲右（トータルテンボス)、田村亮、<a href="../Page/島田洋八.md" title="wikilink">島田洋八</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

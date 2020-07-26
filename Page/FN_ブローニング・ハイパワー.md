@@ -13,7 +13,7 @@
 
 設計は非常にシンプルで部品点数も少なく合理的な設計であり、カム溝を用いた[改良ブローニング式の](https://ja.wikipedia.org/wiki/ショートリコイル#ティルトバレル式 "wikilink")[ショートリコイル](../Page/ショートリコイル.md "wikilink")機構は、以降に製品化された多くの自動拳銃で模倣されている。
 
-高い信頼性と実用性から世界50か国以上の[軍隊](../Page/軍隊.md "wikilink")・[警察](../Page/警察.md "wikilink")で制式採用され、[ドイツ軍](../Page/ドイツ軍.md "wikilink")用であった[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")が世界の軍用拳銃の標準的な弾種となる一因となった。軍用拳銃に[ダブルアクション](../Page/ダブルアクション.md "wikilink")や[ポリマーフレームが広く採用される現在でも一定の需要を保っている](../Page/重合体.md "wikilink")。映画『[ダイ・ハード](https://ja.wikipedia.org/wiki/ダイ・ハード "wikilink")』の原作『Nothing lasts forever』では、「プロの使う拳銃」と書かれている。
+高い信頼性と実用性から世界50か国以上の[軍隊](../Page/軍隊.md "wikilink")・[警察](../Page/警察.md "wikilink")で制式採用され、[ドイツ軍](../Page/ドイツ軍.md "wikilink")用であった[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")が世界の軍用拳銃の標準的な弾種となる一因となった。軍用拳銃に[ダブルアクション](../Page/ダブルアクション.md "wikilink")や[ポリマーフレームが広く採用される現在でも一定の需要を保っている](../Page/重合体.md "wikilink")。映画『[ダイ・ハード](../Page/ダイ・ハード.md "wikilink")』の原作『Nothing lasts forever』では、「プロの使う拳銃」と書かれている。
 
 FEG社、ARCUS社\[4\]などの多数の会社がハイパワーのコピー商品を販売している。
 

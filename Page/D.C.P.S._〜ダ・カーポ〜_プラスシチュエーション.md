@@ -7,7 +7,7 @@
 
 ## 概要
 
-原画は[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](https://ja.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那・影山由多）、igul、[たにはらなつき](../Page/たにはらなつき.md "wikilink")、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")、[みつまむ](../Page/蜜桃まむ.md "wikilink")。シナリオは[まり](https://ja.wikipedia.org/wiki/まり_\(シナリオライター\) "wikilink")、御巫紫苑、長嶋日出晴、[鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")、鈴木達也。
+原画は[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](https://ja.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那・影山由多）、igul、[たにはらなつき](../Page/たにはらなつき.md "wikilink")、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")、[かゆらゆか](../Page/かゆらゆか.md "wikilink")、[みつまむ](../Page/蜜桃まむ.md "wikilink")。シナリオは[まり](https://ja.wikipedia.org/wiki/まり_\(シナリオライター\) "wikilink")、御巫紫苑、長嶋日出晴、[鈴木雅詞](https://ja.wikipedia.org/wiki/鈴木雅詞 "wikilink")、鈴木達也。
 
 [初音島](https://ja.wikipedia.org/wiki/初音島 "wikilink")という1年中桜が咲きつづける不思議な島の風見学園に、手のひらから和菓子を生み出し、他人の夢を垣間見てしまうという二つの能力を持った男子生徒を主人公とした「こそばゆい学園恋愛アドベンチャー」である。
 
@@ -24,7 +24,7 @@
 
 ## D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル
 
-**D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル**は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売されたPSP用恋愛アドベンチャーゲーム。D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション（および[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション "wikilink")）を[PlayStation Portableに移植したもの](../Page/PlayStation_Portable.md "wikilink")。本編に使用されている文字は[リョービ](../Page/リョービ.md "wikilink")製のフォントを使用している。なお、移植実作業は[アルカディア・プロジェクト](https://ja.wikipedia.org/wiki/アルカディア・プロジェクト "wikilink")によるものとなっており、開発元がサーカスとアルカディア・プロジェクトの連名となっている。
+**D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル**は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売されたPSP用恋愛アドベンチャーゲーム。D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション（および[D.C.II P.S. 〜ダ・カーポII〜 プラスシチュエーション](../Page/D.C.II_P.S._〜ダ・カーポII〜_プラスシチュエーション.md "wikilink")）を[PlayStation Portableに移植したもの](../Page/PlayStation_Portable.md "wikilink")。本編に使用されている文字は[リョービ](../Page/リョービ.md "wikilink")製のフォントを使用している。なお、移植実作業は[アルカディア・プロジェクト](https://ja.wikipedia.org/wiki/アルカディア・プロジェクト "wikilink")によるものとなっており、開発元がサーカスとアルカディア・プロジェクトの連名となっている。
 
 基本的にはD.C.P.S. 〜ダ・カーポ〜 プラスシチュエーションからの変更はないが、ことりが本校制服時に帽子を被っていなかったり、美咲の頭のリボンがなかったりなど、グラフィックに一部ミスがある。
 

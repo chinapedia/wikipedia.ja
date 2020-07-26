@@ -265,7 +265,7 @@ DISC-2:[Victor Entertainment](../Page/JVCケンウッド・ビクターエンタ
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/悪女_(中島みゆきの曲)" title="wikilink">悪女</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中島みゆき" title="wikilink">中島みゆき</a></p></td>
+<td><p><a href="../Page/中島みゆき.md" title="wikilink">中島みゆき</a></p></td>
 <td><p>1981年10月21日</p></td>
 <td><p><a href="../Page/ヤマハミュージックコミュニケーションズ.md" title="wikilink">YAMAHA MUSIC COMMUNICATIONS</a></p></td>
 </tr>

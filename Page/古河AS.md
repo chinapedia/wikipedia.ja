@@ -1,11 +1,11 @@
 > この記事は[古河AS](https://ja.wikipedia.org/wiki/古河AS)から翻訳されています。
 
 
-**古河AS株式会社**（ふるかわエーエス、*Furukawa Automotive Systems Inc.* ）は[滋賀県](../Page/滋賀県.md "wikilink")[犬上郡](../Page/犬上郡.md "wikilink")[甲良町](../Page/甲良町.md "wikilink")にある[古河グループ](../Page/古河グループ.md "wikilink")([古河電気工業](../Page/古河電気工業.md "wikilink")系)の[ワイヤーハーネス](https://ja.wikipedia.org/wiki/ワイヤーハーネス "wikilink")（自動車用組電線）、関連電装部品、及び車載用機能製品群の設計開発を行うメーカーである。
+**古河AS株式会社**（ふるかわエーエス、*Furukawa Automotive Systems Inc.* ）は[滋賀県](../Page/滋賀県.md "wikilink")[犬上郡](../Page/犬上郡.md "wikilink")[甲良町](../Page/甲良町.md "wikilink")にある[古河グループ](../Page/古河グループ.md "wikilink")([古河電気工業](../Page/古河電気工業.md "wikilink")系)の[ワイヤーハーネス](../Page/ワイヤーハーネス.md "wikilink")（自動車用組電線）、関連電装部品、及び車載用機能製品群の設計開発を行うメーカーである。
 
 ## 主力製品・事業
 
-  - [ワイヤーハーネス](https://ja.wikipedia.org/wiki/ワイヤーハーネス "wikilink")
+  - [ワイヤーハーネス](../Page/ワイヤーハーネス.md "wikilink")
   - [ステアリング](../Page/ステアリング.md "wikilink")・[ロール](../Page/ロール.md "wikilink")・[コネクタ](../Page/コネクタ.md "wikilink")
   - [スライドドア](../Page/スライドドア.md "wikilink")用ハーネス
   - フラットハーネス応用製品

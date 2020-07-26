@@ -1,7 +1,7 @@
 > この記事は[OH!エルくらぶ](https://ja.wikipedia.org/wiki/OH!エルくらぶ)から翻訳されています。
 
 
-『**OH\!エルくらぶ**』（オー エルくらぶ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink") の午前に放送された[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+『**OH\!エルくらぶ**』（オー エルくらぶ）は、[1986年](../Page/1986年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink") の午前に放送された[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ここでは[2014年](../Page/2014年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた、深夜版についても触れる。
 
@@ -90,7 +90,7 @@
   - 「[君を二度とはなさない](https://ja.wikipedia.org/wiki/君を二度とはなさない "wikilink")」[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")（1992年）
   - 「君とずっと…くらしたい」[To Be Continued](../Page/To_Be_Continued.md "wikilink")（1993年）
   - 「会わずにはいられない」[鈴木トオル](../Page/鈴木トオル.md "wikilink")（1993年）
-  - 「[ヴェネツィアン・ラプソディー](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")」[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")（1994年）
+  - 「[ヴェネツィアン・ラプソディー](../Page/ヴェネツィアン・ラプソディー.md "wikilink")」[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")（1994年）
   - 「[青い車](../Page/青い車_\(曲\).md "wikilink")」[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")（1994年）
   - 「[少年](https://ja.wikipedia.org/wiki/少年_\(宇都宮隆の曲\) "wikilink")」[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")（1996年）
   - 「dawn」[和田弘樹](https://ja.wikipedia.org/wiki/和田弘樹 "wikilink")（1997年）

@@ -11,7 +11,7 @@
   - [2002年](../Page/2002年.md "wikilink") [Sony Music Entertainmentからメジャーデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。フルアルバム「**JAMBALAYA**」をリリース、同アルバムを引っさげての全国ツアーに出るも、メンバー間の不和や方向性の違いなどによりMR.ORANGEは解散。
   - [2003年](../Page/2003年.md "wikilink") 3ピースバンド[CRAVE](https://ja.wikipedia.org/wiki/CRAVE "wikilink")を結成し、フルアルバム「**CRAVE**」を[ポリスター](../Page/ポリスター.md "wikilink")からリリース。MR.ORANGE時代のようなキャッチーな曲調やポップセンスを含みながらも、驚異的なテクニックを盛り込んだ楽曲を披露。その後、アルバムからのリカットシングルを2枚、[2004年](../Page/2004年.md "wikilink")にはミニアルバム「**星に願いを**」をそれぞれリリースするがCRAVEとしての活動は不定期になる。
   - [2006年](../Page/2006年.md "wikilink") **SCHON**名義で活動を再開。「**Frame of Portrait**」「**Useful will be Useless**」を立て続けにリリースし、それまでとは違う、[スクリーモ](../Page/スクリーモ.md "wikilink")や[メタルに影響を受けた音楽性を披露](../Page/ヘヴィメタル.md "wikilink")。また、この頃から自身の音楽活動に並行して、[ビーイング](../Page/ビーイング.md "wikilink")系アーティストへの楽曲提供やプロデュースなど、プレイヤーのみならずコンポーザーとしての活動も始める。
-  - [2007年](../Page/2007年.md "wikilink") 9月には、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の追悼ライブ「**What a beautiful memory**」にギタリストで全公演参加をし、『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』でのZARDフィルムコンサートにも参加。
+  - [2007年](../Page/2007年.md "wikilink") 9月には、[ZARD](../Page/ZARD.md "wikilink")の追悼ライブ「**What a beautiful memory**」にギタリストで全公演参加をし、『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』でのZARDフィルムコンサートにも参加。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 1月20日にMR.ORANGEのベストアルバムをリリースし、歴代のPV集や現メンバーのインタビュー、解散に至った裏話までが語られるDVDが付属された。そして同年4月の[PUNKSPRING2008にて](../Page/パンクスプリング.md "wikilink")、MR.ORANGEとして解散時のメンバーで一夜限りの再結成ライブを行った。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 1月からスタートした「**ZARD LIVE What a beautiful memory 2008**」ツアーにバンドメンバーとして参加。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 4月23日に[Naifu](../Page/Naifu.md "wikilink")に加入。その後の活動はNaifuの項目を参照。
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")「愛は暗闇の中で featuring Aya Kamiki, Siyon Morishita (All instrument), Naoki Ko-jin (Chorus)」
+  - [ZARD](../Page/ZARD.md "wikilink")「愛は暗闇の中で featuring Aya Kamiki, Siyon Morishita (All instrument), Naoki Ko-jin (Chorus)」
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
   - [メロディック・ハードコア](../Page/メロディック・ハードコア.md "wikilink")
   - [Naifu](../Page/Naifu.md "wikilink")
   - [長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")
-  - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+  - [ZARD](../Page/ZARD.md "wikilink")
   - [OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")
 
 ## 外部リンク

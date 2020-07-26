@@ -29,7 +29,7 @@
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
-    ○  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") vs.  [ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
+    ○  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") vs.  [ジョー・リッグス](../Page/ジョー・リッグス.md "wikilink") ×
     1R 2:19 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第6試合 ヘビー級 5分3R
     ○  [ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink") vs.  [アスエリオ・シウバ](../Page/アスエリオ・シウバ.md "wikilink") ×

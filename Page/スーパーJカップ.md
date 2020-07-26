@@ -195,7 +195,7 @@
   - [青柳優馬](https://ja.wikipedia.org/wiki/青柳優馬 "wikilink")（[全日本プロレス](../Page/全日本プロレス.md "wikilink")）
   - [石森太二](../Page/石森太二.md "wikilink")（プロレスリング・ノア）
   - [原田大輔](https://ja.wikipedia.org/wiki/原田大輔 "wikilink")（プロレスリング・ノア）
-  - [拳王](https://ja.wikipedia.org/wiki/拳王_\(プロレスラー\) "wikilink")（プロレスリング・ノア）
+  - [拳王](../Page/拳王_\(プロレスラー\).md "wikilink")（プロレスリング・ノア）
   - [Eita](https://ja.wikipedia.org/wiki/小林瑛太 "wikilink")（[DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")）
   - [梶トマト](../Page/梶トマト.md "wikilink")（[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")）
   - [グルクンマスク](https://ja.wikipedia.org/wiki/グルクンマスク "wikilink")（[琉球ドラゴンプロレスリング](https://ja.wikipedia.org/wiki/琉球ドラゴンプロレスリング "wikilink")）

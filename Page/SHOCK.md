@@ -54,7 +54,7 @@
   - 堂本光一
   - [東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")（少年隊）
   - [今井翼](../Page/今井翼.md "wikilink")
-  - [赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")
+  - [赤坂晃](../Page/赤坂晃.md "wikilink")
   - [鈴木ほのか](../Page/鈴木ほのか.md "wikilink")
   - [篠井英介](../Page/篠井英介.md "wikilink")
   - [秋山純](../Page/秋山純.md "wikilink")（[Musical Academy](../Page/Musical_Academy.md "wikilink")）
@@ -89,7 +89,7 @@
   - 町田慎吾（Musical Academy）
   - 米花剛史（Musical Academy）
   - 屋良朝幸（Musical Academy）
-  - [亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）
+  - [亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - 赤西仁（KAT-TUN）
   - [田中聖](../Page/田中聖.md "wikilink")（KAT-TUN）
   - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")（KAT-TUN）

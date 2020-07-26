@@ -481,7 +481,7 @@
 
 にわのまこと画業30周年を記念し、2017年11月27日・新宿FACEにて開催。プロレスラーおよび俳優がTHE MOMOTAROH登場キャラクターに扮し闘った\[4\]。主催はにわのの著作権管理会社であるG-pleX。協賛に[Cygames](https://ja.wikipedia.org/wiki/Cygames "wikilink")。チケットはクラウドファンディングのみでの発売となった。全4試合\[5\]。
 
-  - **[影幻春架](https://ja.wikipedia.org/wiki/拳王_\(プロレスラー\) "wikilink")＆[クロオニ・ジョニーｖｓ](https://ja.wikipedia.org/wiki/崔領 "wikilink")[宮川三郎太](../Page/旭志織.md "wikilink")＆[坂田鋼鉄郎](https://ja.wikipedia.org/wiki/富豪富豪夢路 "wikilink")**
+  - **[影幻春架](../Page/拳王_\(プロレスラー\).md "wikilink")＆[クロオニ・ジョニーｖｓ](https://ja.wikipedia.org/wiki/崔領 "wikilink")[宮川三郎太](../Page/旭志織.md "wikilink")＆[坂田鋼鉄郎](https://ja.wikipedia.org/wiki/富豪富豪夢路 "wikilink")**
   - **[羅生門エミーｖｓ](https://ja.wikipedia.org/wiki/雪妃真矢 "wikilink")[カグヤ・ザ・ムーンバトラー](https://ja.wikipedia.org/wiki/夏すみれ "wikilink")**
   - **[アカオニ・トム](../Page/不動力也.md "wikilink")＆[アオオニ・マイクｖｓ](../Page/炭谷信介.md "wikilink")[ザ・グレート・ベンケー](https://ja.wikipedia.org/wiki/樋口和貞 "wikilink")＆[ウラシマ・まりん](https://ja.wikipedia.org/wiki/高尾蒼馬 "wikilink")**
   - **[モモタロウｖｓ](../Page/丸藤正道.md "wikilink")[イワン・シュテンドルフ](../Page/崔領二.md "wikilink")**

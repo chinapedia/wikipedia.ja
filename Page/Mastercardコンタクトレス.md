@@ -5,7 +5,7 @@
 
 ## 概要
 
-[近距離無線通信](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")(NFC)を採用する[EMVコンタクトレス決済](https://ja.wikipedia.org/wiki/EMVコンタクトレス決済 "wikilink")サービスであり[電子マネー](../Page/電子マネー.md "wikilink")とは異なる。
+[近距離無線通信](../Page/近距離無線通信.md "wikilink")(NFC)を採用する[EMVコンタクトレス決済](https://ja.wikipedia.org/wiki/EMVコンタクトレス決済 "wikilink")サービスであり[電子マネー](../Page/電子マネー.md "wikilink")とは異なる。
 
 [2002年](../Page/2002年.md "wikilink")に **MasterCard PayPass** の名称で開始し、後に現在の名称に変更した。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[スイス](../Page/スイス.md "wikilink")、[トルコ](../Page/トルコ.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")などで展開が行われている。特に普及しているのはアメリカで、[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")、[ドラッグストア](../Page/ドラッグストア.md "wikilink")、[ファーストフード](../Page/ファーストフード.md "wikilink")などで利用する事が出来るほか、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[高雄市](../Page/高雄市.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")では[交通](../Page/交通.md "wikilink")機関の乗車に利用する事が出来る\[1\]。
 
@@ -365,7 +365,7 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
   - [TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")
   - [日本マクドナルド](../Page/日本マクドナルド.md "wikilink")
   - [ドトールコーヒー](../Page/ドトールコーヒー.md "wikilink") （ドトールコーヒーショップ・エクセルシオール カフェ・カフェ レクセル・ル カフェ ドトール）
-  - [すき家](https://ja.wikipedia.org/wiki/すき家 "wikilink")
+  - [すき家](../Page/すき家.md "wikilink")
   - [ココスジャパン](../Page/ココスジャパン.md "wikilink") （ココス・エルトリート）
   - ビッグボーイジャパン （[ビッグボーイ](../Page/ビッグボーイ_\(レストラン\).md "wikilink")・ヴィクトリアステーション）
   - [ジョリーパスタ](../Page/ジョリーパスタ.md "wikilink")

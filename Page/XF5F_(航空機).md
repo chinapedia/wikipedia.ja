@@ -1,7 +1,7 @@
 > この記事は[XF5F \(航空機\)](https://ja.wikipedia.org/wiki/XF5F_\(航空機\))から翻訳されています。
 
 
-**XF5F スカイロケット**（*Grumman XF5F Skyrocket* ）は、[グラマン](../Page/グラマン.md "wikilink")社が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した試作[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。
+**XF5F スカイロケット**（*Grumman XF5F Skyrocket* ）は、[グラマン](../Page/グラマン.md "wikilink")社が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した試作[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。
 
 愛称の「**スカイロケット**(Skyrocket)」は空のロケットの意。
 
@@ -13,7 +13,7 @@
 
 [1938年](../Page/1938年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にアメリカ海軍は高速艦上戦闘機の仕様をSD112-14案として各社に提示した。グラマン社・ベル社・ヴォート社が応じ、グラマン社は温めていた双発艦上戦闘機（社内名称G-25）を再設計し発展させた双発戦闘機、XF5F（社内名称G-34）の設計を開始した。
 
-G-34は[胴体](../Page/胴体.md "wikilink")の長さを極力縮め[主翼の前に胴体部分がないという](../Page/翼.md "wikilink")、前例の無い形状をとっていた。これは、[着艦時の視界を確保すると同時に](../Page/着陸.md "wikilink")、双発[エンジンの](../Page/航空用エンジン.md "wikilink")[プロペラ](../Page/プロペラ.md "wikilink")中心間隔を小さくして機体を引っ張る（同時に重量物を中央へ集め、機体の[慣性モーメント](../Page/慣性モーメント.md "wikilink")を抑えて[ロール率を高める](https://ja.wikipedia.org/wiki/ローリング "wikilink")）という[設計](../Page/設計.md "wikilink")[思想](../Page/思想.md "wikilink")であった。特徴的な双[尾翼](../Page/尾翼.md "wikilink")も発着艦での機体安定性を高めるための措置である。[空母](../Page/航空母艦.md "wikilink")[甲板](https://ja.wikipedia.org/wiki/甲板 "wikilink")上での運用のため機体の[寸法](https://ja.wikipedia.org/wiki/寸法 "wikilink")は単発機並に抑えられ、折り畳み式の主翼によって収容面積を抑えるのにも貢献している。[主脚は引き込み式だが](../Page/降着装置.md "wikilink")、尾輪は固定式であった。[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")は涙滴型である。
+G-34は[胴体](../Page/胴体.md "wikilink")の長さを極力縮め[主翼の前に胴体部分がないという](../Page/翼.md "wikilink")、前例の無い形状をとっていた。これは、[着艦時の視界を確保すると同時に](../Page/着陸.md "wikilink")、双発[エンジンの](../Page/航空用エンジン.md "wikilink")[プロペラ](../Page/プロペラ.md "wikilink")中心間隔を小さくして機体を引っ張る（同時に重量物を中央へ集め、機体の[慣性モーメント](../Page/慣性モーメント.md "wikilink")を抑えて[ロール率を高める](../Page/ローリング.md "wikilink")）という[設計](../Page/設計.md "wikilink")[思想](../Page/思想.md "wikilink")であった。特徴的な双[尾翼](../Page/尾翼.md "wikilink")も発着艦での機体安定性を高めるための措置である。[空母](../Page/航空母艦.md "wikilink")[甲板](https://ja.wikipedia.org/wiki/甲板 "wikilink")上での運用のため機体の[寸法](https://ja.wikipedia.org/wiki/寸法 "wikilink")は単発機並に抑えられ、折り畳み式の主翼によって収容面積を抑えるのにも貢献している。[主脚は引き込み式だが](../Page/降着装置.md "wikilink")、尾輪は固定式であった。[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")は涙滴型である。
 
 計画では機首にマドセン23 mm[機関砲](../Page/機関砲.md "wikilink")2門と[ブラウニング](https://ja.wikipedia.org/wiki/ブローニング "wikilink")12.7 mm[機銃](https://ja.wikipedia.org/wiki/機銃 "wikilink")2挺を装備し、最大速度700 [km/hの予定であったが](../Page/キロメートル毎時.md "wikilink")、[武装](../Page/武装.md "wikilink")については[欧州での](../Page/ヨーロッパ.md "wikilink")[戦乱](https://ja.wikipedia.org/wiki/戦乱 "wikilink")の影響でマドセン砲の入手が困難となったので、途中で12.7 mm機銃×4に変更されている。主翼下面には左右5箇所ずつ、対[爆撃機](../Page/爆撃機.md "wikilink")用の2.4 kg空対空小型[爆弾](../Page/爆弾.md "wikilink")を収納可能な爆弾倉があり、1箇所に付き2発。計20発を搭載可能である。パワープラントは当初予定していた二段[過給器](https://ja.wikipedia.org/wiki/過給器 "wikilink")付きの[P\&W R-1535-96](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_R-1535 "wikilink")[空冷二重](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[星形エンジン](https://ja.wikipedia.org/wiki/星形エンジン "wikilink")が間に合わず、やむを得ず直径の大きな[ライトXR-1820-40/-42試作星型エンジンを装備したが](../Page/ライト_R-1820.md "wikilink")、これは互いのプロペラが外側へ逆回転して[トルク](../Page/トルク.md "wikilink")を打ち消す設計であった。プロペラはカーティス・エレクトリック社製の3翅羽根を用いている。
 

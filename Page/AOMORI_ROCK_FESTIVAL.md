@@ -458,7 +458,7 @@
   - [ヒロシ](../Page/ヒロシ.md "wikilink")
   - [ブリーフ&トランクス](../Page/ブリーフ&トランクス.md "wikilink")
   - [SEBASTIAN X](https://ja.wikipedia.org/wiki/SEBASTIAN_X "wikilink")
-  - [アーバンギャルド](https://ja.wikipedia.org/wiki/アーバンギャルド "wikilink")
+  - [アーバンギャルド](../Page/アーバンギャルド.md "wikilink")
   - [藍坊主](../Page/藍坊主.md "wikilink")
   - [ZONE](../Page/ZONE_\(バンド\).md "wikilink")
 

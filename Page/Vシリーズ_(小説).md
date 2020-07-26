@@ -39,7 +39,7 @@
   - **赤緑黒白** *Red Green Black and White*
     全身を赤くペイントされた男の死体が発見された。その男の名は「赤井」。保呂草は赤井の婚約者と名乗る「美登里（みどり）」という女から「犯人は解っている。捕まえて欲しい」とまるでTVドラマか何かのような探偵仕事の依頼を受ける。そして、美登里のアパートに調査報告に向かった保呂草が見つけたのは、緑色にペイントされた美登里の死体だった。このバカバカしいとも言える事件の裏には……。
 
-この10作品以外にも、瀬在丸紅子と保呂草潤平は『[四季シリーズ](../Page/真賀田四季.md "wikilink")』や『Gシリーズ』などにも登場しており、『Xシリーズ』との関係も見られる他、また小鳥遊練無と香具山紫子は短編「[気さくなお人形、19歳](https://ja.wikipedia.org/wiki/地球儀のスライス "wikilink")」「[ぶるぶる人形にうってつけの夜](https://ja.wikipedia.org/wiki/今夜はパラシュート博物館へ "wikilink")」にも登場している。また関連短編に「[ラジオの似合う夜 A Radiogenic Night](https://ja.wikipedia.org/wiki/レタス・フライ "wikilink")」、「[刀之津診療所の怪 Mysteries of Katanotsu Clinic](https://ja.wikipedia.org/wiki/レタス・フライ "wikilink")」など。
+この10作品以外にも、瀬在丸紅子と保呂草潤平は『[四季シリーズ](../Page/真賀田四季.md "wikilink")』や『Gシリーズ』などにも登場しており、『Xシリーズ』との関係も見られる他、また小鳥遊練無と香具山紫子は短編「[気さくなお人形、19歳](../Page/地球儀のスライス.md "wikilink")」「[ぶるぶる人形にうってつけの夜](https://ja.wikipedia.org/wiki/今夜はパラシュート博物館へ "wikilink")」にも登場している。また関連短編に「[ラジオの似合う夜 A Radiogenic Night](https://ja.wikipedia.org/wiki/レタス・フライ "wikilink")」、「[刀之津診療所の怪 Mysteries of Katanotsu Clinic](https://ja.wikipedia.org/wiki/レタス・フライ "wikilink")」など。
 
 ## 主要登場人物
 

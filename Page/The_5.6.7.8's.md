@@ -19,7 +19,7 @@
 
 ## 略歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")結成。当初はRONNIE“YOSHIKO”FUJIYAMA（[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[ギター](../Page/ギタリスト.md "wikilink")）、SACHIKO（[ドラム](../Page/ドラマー.md "wikilink")）、RICO（ギター）、YOSHIE（[ベース](../Page/ベーシスト.md "wikilink")）の女性4人組バンドとして東京で活動を開始。初ライヴは[渋谷](../Page/渋谷.md "wikilink")の「屋根裏」という[ライブハウス](../Page/ライブハウス.md "wikilink")だった。
+  - [1986年](../Page/1986年.md "wikilink")結成。当初はRONNIE“YOSHIKO”FUJIYAMA（[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[ギター](../Page/ギタリスト.md "wikilink")）、SACHIKO（[ドラム](../Page/ドラマー.md "wikilink")）、RICO（ギター）、YOSHIE（[ベース](../Page/ベーシスト.md "wikilink")）の女性4人組バンドとして東京で活動を開始。初ライヴは[渋谷](../Page/渋谷.md "wikilink")の「屋根裏」という[ライブハウス](../Page/ライブハウス.md "wikilink")だった。
   - [1988年](../Page/1988年.md "wikilink")、ベーシストがYOSHIEからMIKAKOに交替。
   - [1989年](../Page/1989年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の番組『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』に出場（エントリーナンバー2番）、演奏収録時に[アメリカンバイク](https://ja.wikipedia.org/wiki/アメリカンバイク "wikilink")に乗って登場した。『モーターサイクル・ゴーゴーゴー』を演奏、**ベストプレイヤー賞**を受賞。同年、ファーストシングル「MOND GIRLS A GO-GO」を発売（同シングルには「モーターサイクル・ゴーゴーゴー」も収録）。このシングルが海外各地で評判となり、その後多くの国からオファーが舞い込み、世界的な活動をするきっかけとなる。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、ベーシストが現メンバーでもあるOMO、ギタリストが唯一の男性メンバーであるEDDIEに交替。

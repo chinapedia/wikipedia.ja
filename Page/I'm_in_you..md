@@ -65,7 +65,7 @@
   - [村上聖](../Page/村上聖.md "wikilink")（\#8, \#9, \#12[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - [高崎晃](../Page/高崎晃.md "wikilink")（\#10[ギター](../Page/ギター.md "wikilink")[ソロ](../Page/ソロ_\(音楽\).md "wikilink")）
   - [松尾洋一](https://ja.wikipedia.org/wiki/松尾洋一 "wikilink")（\#10コーラス）
-  - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")（\#10コーラス）
+  - [須藤賢一](../Page/須藤賢一.md "wikilink")（\#10コーラス）
   - [弦一徹グループ](../Page/落合徹也.md "wikilink")（\#11[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")）
 
 ## 脚注

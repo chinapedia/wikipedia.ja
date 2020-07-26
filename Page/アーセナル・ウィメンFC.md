@@ -39,7 +39,7 @@
 
 ### 日本人選手
 
-  - [石田美穂子](https://ja.wikipedia.org/wiki/石田美穂子 "wikilink")（2003-2004）
+  - [石田美穂子](../Page/石田美穂子.md "wikilink")（2003-2004）
   - 小川恵
   - [中池桃子](../Page/中池桃子.md "wikilink")
   - [近賀ゆかり](../Page/近賀ゆかり.md "wikilink")（2014）

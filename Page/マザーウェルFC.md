@@ -21,7 +21,7 @@
 
   - **[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")：1回**
       - 1931-32
-  - **[スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink")：2回**
+  - **[スコティッシュカップ](../Page/スコティッシュカップ.md "wikilink")：2回**
       - 1951-52, 1990-91
   - **[スコティッシュリーグカップ](../Page/スコティッシュリーグカップ.md "wikilink")：1回**
       - 1950-51
@@ -38,7 +38,7 @@
 <th><p>シーズン</p></th>
 <th><p>リーグ</p></th>
 <th><p>ディビジョン</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/スコティッシュカップ" title="wikilink">スコティッシュ<br />
+<th><p><a href="../Page/スコティッシュカップ.md" title="wikilink">スコティッシュ<br />
 カップ</a></p></th>
 <th><p><a href="../Page/スコティッシュリーグカップ.md" title="wikilink">リーグカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/UEFA" title="wikilink">欧州カップ</a></p></th>

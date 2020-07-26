@@ -723,7 +723,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオ・バロテッリ" title="wikilink">マリオ・バロテッリ</a></p></td>
+<td><p><a href="../Page/マリオ・バロテッリ.md" title="wikilink">マリオ・バロテッリ</a></p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
@@ -795,7 +795,7 @@
  <a href="../Page/アンドレア・ピルロ.md" title="wikilink">アンドレア・ピルロ</a><br />
  <a href="../Page/シャビ・アロンソ.md" title="wikilink">シャビ・アロンソ</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオ・バロテッリ" title="wikilink">マリオ・バロテッリ</a><br />
+<td><p><a href="../Page/マリオ・バロテッリ.md" title="wikilink">マリオ・バロテッリ</a><br />
  <a href="https://ja.wikipedia.org/wiki/フランセスク・ファブレガス" title="wikilink">セスク・ファブレガス</a><br />
  <a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a><br />
  <a href="https://ja.wikipedia.org/wiki/ズラタン・イブラヒモビッチ" title="wikilink">ズラタン・イブラヒモビッチ</a><br />
@@ -943,7 +943,7 @@
 <td></td>
 <td><ul>
 <li><a href="../Page/RTBF.md" title="wikilink">RTBF</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/VRT" title="wikilink">VRT</a></li>
+<li><a href="../Page/VRT.md" title="wikilink">VRT</a></li>
 </ul></td>
 <td><p>[48][49]</p></td>
 </tr>

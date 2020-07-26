@@ -1,7 +1,7 @@
 > この記事は[TITLE \(アルバム\)](https://ja.wikipedia.org/wiki/TITLE_\(アルバム\))から翻訳されています。
 
 
-『**TITLE**』（タイトル）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー2nd[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
+『**TITLE**』（タイトル）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー2nd[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 

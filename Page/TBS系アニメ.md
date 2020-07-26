@@ -38,7 +38,7 @@
 | [パーマン](../Page/パーマン.md "wikilink")                                  | TBS                                 | ◇                                                       | [4月2日](../Page/4月2日.md "wikilink")   |                                              |
 | [冒険ガボテン島](../Page/冒険ガボテン島.md "wikilink")                            |                                     | [4月4日](../Page/4月4日.md "wikilink")                      |                                      |                                              |
 | [スカイヤーズ5](../Page/スカイヤーズ5.md "wikilink")                            |                                     | [10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") |                                      |                                              |
-| **[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")**         |                                     |                                                         |                                      |                                              |
+| **[1968年](../Page/1968年.md "wikilink")**                            |                                     |                                                         |                                      |                                              |
 | [怪物くん](https://ja.wikipedia.org/wiki/怪物くん_\(モノクロアニメ\) "wikilink")   | TBS                                 | ◇                                                       | [4月21日](../Page/4月21日.md "wikilink") |                                              |
 | [サスケ](https://ja.wikipedia.org/wiki/サスケ_\(漫画\) "wikilink")          |                                     | [9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")   |                                      |                                              |
 | **[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")**         |                                     |                                                         |                                      |                                              |
@@ -109,7 +109,7 @@
 | [超時空騎団サザンクロス](../Page/超時空騎団サザンクロス.md "wikilink")                            | MBS                                                    |                                                       | [4月15日](../Page/4月15日.md "wikilink")             | 超時空シリーズ 第3作                                  |
 | **[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")**                 |                                                        |                                                       |                                                  |                                              |
 | [超獣機神ダンクーガ](../Page/超獣機神ダンクーガ.md "wikilink")                                | TBS                                                    |                                                       | [4月5日](../Page/4月5日.md "wikilink")               |                                              |
-| **[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")**                 |                                                        |                                                       |                                                  |                                              |
+| **[1986年](../Page/1986年.md "wikilink")**                                    |                                                        |                                                       |                                                  |                                              |
 | [まんがなるほど物語](https://ja.wikipedia.org/wiki/まんがなるほど物語 "wikilink")             | TBS                                                    |                                                       | [4月5日](../Page/4月5日.md "wikilink")               |                                              |
 | [ウルトラマンキッズのことわざ物語](../Page/ウルトラマンキッズのことわざ物語.md "wikilink")                  |                                                        | [4月16日](../Page/4月16日.md "wikilink")                  |                                                  |                                              |
 | [ワンダービートS](../Page/ワンダービートS.md "wikilink")                                  |                                                        |                                                       |                                                  |                                              |
@@ -208,7 +208,7 @@
 | **[2002年](../Page/2002年.md "wikilink")**                                                          |                                                                                            |                                            |                                                                                |                                                                                                       |
 | [ちょびっツ](../Page/ちょびっツ.md "wikilink")                                                              | TBS                                                                                        | ▼◆◇                                        | [4月2日](../Page/4月2日.md "wikilink")                                             |                                                                                                       |
 | [ヒートガイジェイ](../Page/ヒートガイジェイ.md "wikilink")                                                        | ▼◇                                                                                         | [10月1日](../Page/10月1日.md "wikilink")       |                                                                                |                                                                                                       |
-| [GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")                       | ◇                                                                                          | [10月5日](../Page/10月5日.md "wikilink")       |                                                                                |                                                                                                       |
+| [GetBackers-奪還屋-](../Page/GetBackers-奪還屋-.md "wikilink")                                          | ◇                                                                                          | [10月5日](../Page/10月5日.md "wikilink")       |                                                                                |                                                                                                       |
 | [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")                                                | MBS                                                                                        | ◆◇                                         | [土6枠](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")                                 |                                                                                                       |
 | **[2003年](../Page/2003年.md "wikilink")**                                                          |                                                                                            |                                            |                                                                                |                                                                                                       |
 | [探偵学園Q](../Page/探偵学園Q.md "wikilink")                                                              | TBS                                                                                        | ◇                                          | [4月15日](../Page/4月15日.md "wikilink")                                           |                                                                                                       |
@@ -502,7 +502,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ペルソナ4" title="wikilink">Persona4 the ANIMATION</a></p></td>
+<td><p><a href="../Page/ペルソナ4.md" title="wikilink">Persona4 the ANIMATION</a></p></td>
 <td><p>▼</p></td>
 <td><p><a href="../Page/10月6日.md" title="wikilink">10月6日</a></p></td>
 <td><p>後にBS11でも放送|</p></td>
@@ -852,7 +852,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ペルソナ4" title="wikilink">Persona4 the Golden ANIMATION</a></p></td>
+<td><p><a href="../Page/ペルソナ4.md" title="wikilink">Persona4 the Golden ANIMATION</a></p></td>
 <td><p>MBS</p></td>
 <td><p>▼◆</p></td>
 <td><p><a href="../Page/7月10日.md" title="wikilink">7月10日</a></p></td>
@@ -1595,7 +1595,7 @@
 | [おそ松くん](../Page/おそ松くん.md "wikilink")                            | [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") | ◇                                                       | [2月5日](../Page/2月5日.md "wikilink") | MBSかつ在阪局初制作作品                              |
 | **[1967年](../Page/1967年.md "wikilink")**                        |                                                        |                                                         |                                    |                                            |
 | [かみなり坊やピッカリ・ビー](../Page/かみなり坊やピッカリ・ビー.md "wikilink")            | MBS                                                    |                                                         | [4月1日](../Page/4月1日.md "wikilink") |                                            |
-| **[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")**     |                                                        |                                                         |                                    |                                            |
+| **[1968年](../Page/1968年.md "wikilink")**                        |                                                        |                                                         |                                    |                                            |
 | \[\[ファイトだ                                                       | ピュー太|ファイトだ                                             | ピュー太\]\]                                                | MBS                                |                                            |
 | **[1973年](../Page/1973年.md "wikilink")**                        |                                                        |                                                         |                                    |                                            |
 | [ジャングル黒べえ](../Page/ジャングル黒べえ.md "wikilink")                      | MBS                                                    |                                                         | [3月2日](../Page/3月2日.md "wikilink") |                                            |

@@ -2076,7 +2076,7 @@ LACM-4920（通常盤）</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>（MRO）</p></td>
-<td><p>2017年<a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a> - <a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
+<td><p>2017年<a href="../Page/1月26日.md" title="wikilink">1月26日</a> - <a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
 <td><p>木曜 1:15 - 1:45（水曜深夜）</p></td>
 <td></td>
 <td></td>
@@ -2174,7 +2174,7 @@ LACM-4920（通常盤）</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）</p></td>
-<td><p>2018年<a href="../Page/1月5日.md" title="wikilink">1月5日</a> - <a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p>2018年<a href="../Page/1月5日.md" title="wikilink">1月5日</a> - <a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p>金曜 0:56 - 1:26（木曜深夜）</p></td>
 <td><p><a href="../Page/2月2日.md" title="wikilink">2月2日</a>は特別編を放送</p></td>
 <td></td>

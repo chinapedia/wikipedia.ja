@@ -1,7 +1,7 @@
 > この記事は[Kzy](https://ja.wikipedia.org/wiki/Kzy)から翻訳されています。
 
 
-**Kzy**（ケージー、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月26日](../Page/6月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**澤田 和希**（さわだ かずき）。
+**Kzy**（ケージー、[1986年](../Page/1986年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**澤田 和希**（さわだ かずき）。
 
 ## 経歴
 

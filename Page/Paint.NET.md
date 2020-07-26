@@ -37,7 +37,7 @@
   - バージョン 2.6 （公開日：[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")） - .NET Framework 2.0が必要となる
   - バージョン 2.70 （公開日：2006年[8月2日](../Page/8月2日.md "wikilink")）
       - システムの必要環境の変更、プラグインの更新
-  - バージョン 3.0 （公開日：[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")） - Windows 2000が対応OSから外れる
+  - バージョン 3.0 （公開日：[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")） - Windows 2000が対応OSから外れる
       - タブの追加
       - カラーパレットの追加
       - グラデーションの追加

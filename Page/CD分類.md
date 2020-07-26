@@ -17,7 +17,7 @@ CD分類は[1982年](../Page/1982年.md "wikilink")に[パリ](https://ja.wikipe
 | --------------- | ------------------------------------------------------- | ------------------------------------------------------- | --------- |
 | 第1回HLDA会議\[9\]  | [1982年](../Page/1982年.md "wikilink")                    | [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")       | CD1〜CDw15 |
 | 第2回HLDA会議       | [1984年](../Page/1984年.md "wikilink")                    | [ボストン](../Page/ボストン.md "wikilink")                      | 〜CDw26    |
-| 第3回HLDA会議       | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | [オックスフォード](../Page/オックスフォード.md "wikilink")              | 〜CD45R    |
+| 第3回HLDA会議       | [1986年](../Page/1986年.md "wikilink")                    | [オックスフォード](../Page/オックスフォード.md "wikilink")              | 〜CD45R    |
 | 第4回HLDA会議       | [1989年](../Page/1989年.md "wikilink")                    | [ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")   | 〜CDw78    |
 | 第5回HLDA会議\[10\] | [1993年](../Page/1993年.md "wikilink")                    | [ボストン](../Page/ボストン.md "wikilink")                      | 〜CDw130   |
 | 第6回HLDA会議\[11\] | [1996年](../Page/1996年.md "wikilink")                    | [神戸](../Page/神戸市.md "wikilink")                         | 〜CD166    |

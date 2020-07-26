@@ -3,7 +3,7 @@
 
 『**三國志 Online**』は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社のシミュレーションゲーム『[三國志](../Page/三國志シリーズ.md "wikilink")』シリーズの設定の一部をベースに開発・運営していた[MMORPG](../Page/MMORPG.md "wikilink")である。『三On』とも\[1\]。シリーズ初の12歳以上対象作品\[2\]。2010年7月19日をもってサービスを終了した。
 
-[Windows用としてコーエーより](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")『[信長の野望Internet](../Page/信長の野望Internet.md "wikilink")』『[三國志Internet](https://ja.wikipedia.org/wiki/三國志Internet "wikilink")』『アプサラス』『[三國志Battlefield](https://ja.wikipedia.org/wiki/三國志Battlefield "wikilink")』『[信長の野望Online](../Page/信長の野望Online.md "wikilink")』『[大航海時代Online](../Page/大航海時代Online.md "wikilink")』『真・三國無双Online（旧：真・三國無双BB）』に続き、8番目に開発されたオンラインゲーム。
+[Windows用としてコーエーより](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")『[信長の野望Internet](../Page/信長の野望Internet.md "wikilink")』『[三國志Internet](../Page/三國志Internet.md "wikilink")』『アプサラス』『[三國志Battlefield](../Page/三國志Battlefield.md "wikilink")』『[信長の野望Online](../Page/信長の野望Online.md "wikilink")』『[大航海時代Online](../Page/大航海時代Online.md "wikilink")』『真・三國無双Online（旧：真・三國無双BB）』に続き、8番目に開発されたオンラインゲーム。
 
 ## 概要
 

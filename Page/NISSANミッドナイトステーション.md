@@ -1,7 +1,7 @@
 > この記事は[NISSANミッドナイトステーション](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション)から翻訳されています。
 
 
-『**NISSANミッドナイトステーション**』（にっさんミッドナイトステーション、*NISSAN Midnight Station*）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の24時台を中心に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")放送枠のタイトル。タイトルの通り、[日産自動車](../Page/日産自動車.md "wikilink")（NISSAN）の[一社提供](../Page/一社提供.md "wikilink")だった。
+『**NISSANミッドナイトステーション**』（にっさんミッドナイトステーション、*NISSAN Midnight Station*）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月から[1986年](../Page/1986年.md "wikilink")9月まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の24時台を中心に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")放送枠のタイトル。タイトルの通り、[日産自動車](../Page/日産自動車.md "wikilink")（NISSAN）の[一社提供](../Page/一社提供.md "wikilink")だった。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 当初は『NISSANミッドナイトステーション』というタイトルだけのつながりで、それぞれが独立した番組だったが、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")4月から、月曜日から土曜日までの番組を『[そこのけ\!電リク60分](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_そこのけ!電リク_ザ・ベスト10 "wikilink")』（土曜のみ『そこのけ\!電リク ザ・ベスト10』）に統一。半年後の1983年10月からは『ザ・欽グルス電リク60分』（後に『[ザ・欽グルスショー](../Page/NISSANミッドナイトステーション_ザ・欽グルスショー.md "wikilink")』）となる。
 
-『欽グルスショー』終了後の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月からは『[SURF\&SNOW](../Page/SURF&SNOW_\(ラジオ番組\).md "wikilink")』が本枠のタイトルを引き継いだが、半年後の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月からは『SURF\&SNOW』のスポンサーが[ノルディカ](https://ja.wikipedia.org/wiki/ノルディカ "wikilink")などに変更となり、日産自動車の提供枠は『[やんぐひぽぽたます](../Page/NISSANミッドナイトステーション_やんぐひぽぽたます.md "wikilink")』（放送時間は23:30からの30分枠）へ移行。さらにその半年後には『[ハローナイト](../Page/ハローナイト.md "wikilink")』内のコーナー「**日産ナイトドリーム**」に提供枠が移り、『ミッドナイトステーション』のタイトルはその時点で消滅した。
+『欽グルスショー』終了後の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月からは『[SURF\&SNOW](../Page/SURF&SNOW_\(ラジオ番組\).md "wikilink")』が本枠のタイトルを引き継いだが、半年後の[1986年](../Page/1986年.md "wikilink")4月からは『SURF\&SNOW』のスポンサーが[ノルディカ](https://ja.wikipedia.org/wiki/ノルディカ "wikilink")などに変更となり、日産自動車の提供枠は『[やんぐひぽぽたます](../Page/NISSANミッドナイトステーション_やんぐひぽぽたます.md "wikilink")』（放送時間は23:30からの30分枠）へ移行。さらにその半年後には『[ハローナイト](../Page/ハローナイト.md "wikilink")』内のコーナー「**日産ナイトドリーム**」に提供枠が移り、『ミッドナイトステーション』のタイトルはその時点で消滅した。
 
 ## 歴代の番組
 

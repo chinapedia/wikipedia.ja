@@ -35,7 +35,7 @@ MGM-5 コーポラルの前身となったコーポラルE[地対地ミサイル
 
 サージェント・システムの最後のミサイルは[1964年](../Page/1964年.md "wikilink")に購入され、[1962年](../Page/1962年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[1964年](../Page/1964年.md "wikilink")[9月](../Page/9月.md "wikilink")の間に、全部で7つの陸軍サージェント大隊とその支援部隊が編成、訓練、配備された。その内訳は、陸軍戦略軍団(STAC)の1個大隊、ヨーロッパの5個大隊、及び韓国の1個大隊である。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")、ACSFOR（Assistant Chief of Staff for Force Development、戦力開発副参謀長）は、限定生産からスタンダードAに正式にサージェントの再分類を承認した。
+[1968年](../Page/1968年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")、ACSFOR（Assistant Chief of Staff for Force Development、戦力開発副参謀長）は、限定生産からスタンダードAに正式にサージェントの再分類を承認した。
 
 サージェントの運用を管理していたサージェント計画局 (SERGEANT Project Office) は、サージェントの配備が始まってからまもなくの[1962年](../Page/1962年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")にアメリカ陸軍ミサイル・コマンド (MICOM) で活動を開始したが、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に縮小が始まり、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")には廃止された。サージェント計画局の代わりにサージェント備品局 (SERGEANT Commodity Office) がサージェント・システムのために設立されたが、その部局も[1970年](../Page/1970年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")に廃止され、その機能は新設の陸戦特別装備管理局 (Land Combat Special Items Management Office) に取り込まれた。
 

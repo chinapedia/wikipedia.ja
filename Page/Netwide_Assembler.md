@@ -1,7 +1,7 @@
 > この記事は[Netwide Assembler](https://ja.wikipedia.org/wiki/Netwide_Assembler)から翻訳されています。
 
 
-**Netwide Assembler** (**NASM**) は[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")を対象とした[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")の[アセンブラであり](../Page/アセンブリ言語.md "wikilink")、[16ビット](../Page/16ビット.md "wikilink")、[32ビット](../Page/32ビット.md "wikilink") ([IA-32](../Page/IA-32.md "wikilink"))、[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")すべてのコード生成に対応している。
+**Netwide Assembler** (**NASM**) は[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")を対象とした[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")の[アセンブラであり](../Page/アセンブリ言語.md "wikilink")、[16ビット](../Page/16ビット.md "wikilink")、[32ビット](../Page/32ビット.md "wikilink") ([IA-32](../Page/IA-32.md "wikilink"))、[64ビット](../Page/64ビット.md "wikilink")すべてのコード生成に対応している。
 
 NASMは当初、Julian HallとSimon Tathamが作成していたが、現在はH. Peter Anvinを中心とした少人数のチームによって開発されている。また、当初は独自の[ライセンス](../Page/ライセンス.md "wikilink")によって公開されていたが、後に[BSDライセンス](../Page/BSDライセンス.md "wikilink")に変更している。
 

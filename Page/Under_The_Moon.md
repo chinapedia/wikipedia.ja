@@ -41,7 +41,7 @@
     アーシェのクラスメイト。金色に近い茶髪に琥珀色の瞳。軽い性格で女の子が好きで誰にでも声をかけている。初めて会った日からアーシェを気に入りよく傍にいるため、レニやセイジュにはよく思われていない。
   - 謎の男
     声：[安芸怜須ケン](../Page/安芸怜須ケン.md "wikilink") / [浜田賢二](../Page/浜田賢二.md "wikilink")
-    アーシェが人間界で最初に出会った人物。黒い髪と赤い瞳を持つ吸血鬼。包容力のある豪快かつ大人な男性。アーシェの危機には助けてくれるが、その言動や正体は謎。名前は無いと言う為、アーシェ自ら**ゼロ**と名前を付ける。前作『[Love☆Drops～みらくる同居物語](https://ja.wikipedia.org/wiki/Love☆Drops_〜みらくる同居物語〜 "wikilink")』に登場のユーゴとは兄弟関係である。
+    アーシェが人間界で最初に出会った人物。黒い髪と赤い瞳を持つ吸血鬼。包容力のある豪快かつ大人な男性。アーシェの危機には助けてくれるが、その言動や正体は謎。名前は無いと言う為、アーシェ自ら**ゼロ**と名前を付ける。前作『[Love☆Drops～みらくる同居物語](../Page/Love☆Drops_〜みらくる同居物語〜.md "wikilink")』に登場のユーゴとは兄弟関係である。
   - ユナン
     声：[プログレス](../Page/プログレス_\(声優\).md "wikilink") / [千葉進歩](../Page/千葉進歩.md "wikilink")
     隠しキャラとして本作に登場。悪魔だが金に近い茶色の髪。
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   - Under The Moon [ドラマCD](../Page/ドラマCD.md "wikilink") 『あの月の下で』
-      - 2007年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")発売、L.Field (LadyBug Field)
+      - 2007年[1月26日](../Page/1月26日.md "wikilink")発売、L.Field (LadyBug Field)
   - Under The Moon 主題歌マキシシングル 「Under The Moon/This Love」
       - 2007年1月26日発売、L.Field (LadyBug Field)
   - Under The Moon ドラマCD 『月の下でおやすみ』

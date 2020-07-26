@@ -49,7 +49,7 @@
 
 ## 歴代所属選手
 
-  - [マーティン・ヒデン](https://ja.wikipedia.org/wiki/マーティン・ヒデン "wikilink") 2008, 2009
+  - [マーティン・ヒデン](../Page/マーティン・ヒデン.md "wikilink") 2008, 2009
 
   - [アンドレ・シェンブリ](https://ja.wikipedia.org/wiki/アンドレ・シェンブリ "wikilink") 2009-2010
 

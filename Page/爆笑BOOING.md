@@ -1,7 +1,7 @@
 > この記事は[爆笑BOOING](https://ja.wikipedia.org/wiki/爆笑BOOING)から翻訳されています。
 
 
-『**爆笑BOOING**』（ばくしょうブーイング）は、[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[関西テレビで](../Page/関西テレビ放送.md "wikilink")[木曜深夜に放送されていた](../Page/木曜日.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[お笑い番組](../Page/お笑い番組.md "wikilink")である。制作は[大滝エージェンシー](https://ja.wikipedia.org/wiki/大滝エージェンシー "wikilink")。
+『**爆笑BOOING**』（ばくしょうブーイング）は、[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[関西テレビで](../Page/関西テレビ放送.md "wikilink")[木曜深夜に放送されていた](../Page/木曜日.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[お笑い番組](../Page/お笑い番組.md "wikilink")である。制作は[大滝エージェンシー](../Page/大滝エージェンシー.md "wikilink")。
 
 この項目では、1996年4月から同局で放送されていた後継番組『**超爆笑BOOING**』についても触れる。
 

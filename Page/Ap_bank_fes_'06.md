@@ -49,7 +49,7 @@
 8.  **[SOMEDAY](https://ja.wikipedia.org/wiki/SOMEDAY_\(佐野元春の曲\) "wikilink")** / Bank Band
 9.  **[ラブ・ストーリーは突然に](../Page/ラブ・ストーリーは突然に.md "wikilink")** / [小田和正](../Page/小田和正.md "wikilink")
 10. **[言葉にできない](../Page/言葉にできない.md "wikilink")** / 小田和正
-11. **[晴天を誉めるなら夕暮れを待て](https://ja.wikipedia.org/wiki/晴天を誉めるなら夕暮れを待て "wikilink")** / [ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")
+11. **[晴天を誉めるなら夕暮れを待て](../Page/晴天を誉めるなら夕暮れを待て.md "wikilink")** / [ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")
 12. **[同じ時代を](https://ja.wikipedia.org/wiki/kicks#収録曲 "wikilink")** / ASKA
 13. **Documentary 6**
 14. **[生まれ来る子供たちのために](https://ja.wikipedia.org/wiki/to_U#収録曲 "wikilink")** / Bank Band

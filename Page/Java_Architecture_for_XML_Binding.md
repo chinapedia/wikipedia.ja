@@ -5,7 +5,7 @@
 
 JAXB は仕様が複雑で頻繁に変更される場合に特に便利である。その場合、Java の定義の変更に合わせて [XML Schema](https://ja.wikipedia.org/wiki/XML_Schema "wikilink") の定義を更新することは、時間もかかるしバグを作りこみやすい作業となる。
 
-JAXB は [Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") の [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") の一種であり、[Java Web Services Development Pack](https://ja.wikipedia.org/wiki/Java_Web_Services_Development_Pack "wikilink") (JWSDP) の一部でもある。[WSIT](https://ja.wikipedia.org/wiki/Web_Services_Interoperability_Technology "wikilink") の基盤の一部にもなっている。JAXB は Java SE version 1.6 にも含まれている。
+JAXB は [Java EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") の [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") の一種であり、[Java Web Services Development Pack](../Page/Java_Web_Services_Development_Pack.md "wikilink") (JWSDP) の一部でもある。[WSIT](https://ja.wikipedia.org/wiki/Web_Services_Interoperability_Technology "wikilink") の基盤の一部にもなっている。JAXB は Java SE version 1.6 にも含まれている。
 
 JAXB 1.0 は、[Java Community Process](../Page/Java_Community_Process.md "wikilink") の JSR 31 において2003年に開発された。続いて2006年、JAXB 2.0 が JSR 222 において開発され、2017年9月にMaintenance Release 3がリリースされている\[1\]。[リファレンス実装](../Page/リファレンス実装.md "wikilink")は java.net に[CDDL](https://ja.wikipedia.org/wiki/CDDL "wikilink")ライセンスで公開されている。
 
@@ -51,7 +51,7 @@ Java のデータ型の種類は XML Schema のものより豊富である。以
 
 ## 関連項目
 
-  - [XMLBeans](https://ja.wikipedia.org/wiki/XMLBeans "wikilink") – [Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")による JAXB と類似・関連する技術
+  - [XMLBeans](../Page/XMLBeans.md "wikilink") – [Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")による JAXB と類似・関連する技術
 
 ## 参考文献
 

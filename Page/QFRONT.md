@@ -23,7 +23,7 @@
 
   - 8F　SHIBUYA DINING ぷん楽
   - 7F　TSUTAYA（BOOK）、WIRED TOKYO 1999
-      - QFRONTオープン当初は[渋谷シネフロント](https://ja.wikipedia.org/wiki/渋谷シネフロント "wikilink")([TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")直営の[東宝](../Page/東宝.md "wikilink")洋画系映画館が入店していた。同地にはかつて「**渋谷宝塚劇場**」<東宝邦画系映画館>があった)だったが、2010年1月22日をもって閉館。改装の後、TSUTAYAが入居、コミックフロアとして同年4月23日から営業開始した。
+      - QFRONTオープン当初は[渋谷シネフロント](../Page/渋谷シネフロント.md "wikilink")([TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")直営の[東宝](../Page/東宝.md "wikilink")洋画系映画館が入店していた。同地にはかつて「**渋谷宝塚劇場**」<東宝邦画系映画館>があった)だったが、2010年1月22日をもって閉館。改装の後、TSUTAYAが入居、コミックフロアとして同年4月23日から営業開始した。
   - 6F　TSUTAYA（BOOK）
   - 5F　TSUTATA（DVDレンタル/洋画・海外TVドラマ・アダルト）
   - 4F　TSUTAYA（DVD・CDレンタル/邦画・国内TVドラマ・アニメ・ジャズ・サントラ）

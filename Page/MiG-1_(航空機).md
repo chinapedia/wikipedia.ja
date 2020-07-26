@@ -36,7 +36,7 @@
   - **[MiG-3](https://ja.wikipedia.org/wiki/MiG-3_\(航空機\) "wikilink")**：AM-37を改良。
   - **MiG-3 AM-38**：MiG-3をAM-38エンジンに換装したもの。
   - **MiG-3U**：高々度迎撃機。計画のみ
-  - **[MiG-9(I-210)](https://ja.wikipedia.org/wiki/MiG-9_\(航空機・初代\) "wikilink")**：MiG-3のエンジンを換装した改良型。計画のみ
+  - **[MiG-9(I-210)](../Page/MiG-9_\(航空機・初代\).md "wikilink")**：MiG-3のエンジンを換装した改良型。計画のみ
   - **MiG-9Ye(I-211)**：MiG-9の改良型
 
 ## 運用国

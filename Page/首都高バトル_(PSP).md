@@ -50,7 +50,7 @@
 
 <!-- end list -->
 
-  - [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [MAZDA](../Page/マツダ.md "wikilink")
 
 <!-- end list -->
 

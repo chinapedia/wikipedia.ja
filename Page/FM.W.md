@@ -27,7 +27,7 @@ GHOSTY BLOW・OLD
 
 ### 出演歌手
 
-[BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")・[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")・[DJ OZMA](../Page/DJ_OZMA.md "wikilink")・[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")・[MEGARYU](../Page/MEGARYU.md "wikilink")・[MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")・[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")・[Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
+[BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")・[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")・[DJ OZMA](../Page/DJ_OZMA.md "wikilink")・[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")・[MEGARYU](../Page/MEGARYU.md "wikilink")・[MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")・[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")・[Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
 
 ### オープニングアクト
 

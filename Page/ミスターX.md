@@ -9,7 +9,7 @@
 
   - [Mr.X (プロレスラー)](https://ja.wikipedia.org/wiki/Mr.X_\(プロレスラー\) "wikilink") - [KAIENTAI-DOJO](https://ja.wikipedia.org/wiki/KAIENTAI-DOJO "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。
   - お笑いコンビ「[笑い飯](../Page/笑い飯.md "wikilink")」の[中西哲夫](../Page/中西哲夫.md "wikilink")がピンで活動する際に使用する[芸名](../Page/芸名.md "wikilink")「Mr.X」。
-  - お笑いコンビ・[モストデンジャラス](https://ja.wikipedia.org/wiki/モストデンジャラス "wikilink")のメンバー「Mr.X」。
+  - お笑いコンビ・[モストデンジャラス](../Page/モストデンジャラス.md "wikilink")のメンバー「Mr.X」。
   - [竹内宏彰](https://ja.wikipedia.org/wiki/竹内宏彰 "wikilink")が覆面の[ファミコン名人](../Page/ファミコン名人.md "wikilink")として『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』やビデオマガジン『[GTV](../Page/GTV_\(ビデオマガジン\).md "wikilink")』などで活動していた際の名前、「ミスターX」。現在は[アニメ](../Page/アニメ.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")、実業家、客員教授など。
 
 ## 商品名

@@ -4,7 +4,7 @@
 **OHKニュース**
 
 1.  [岡山放送](../Page/岡山放送.md "wikilink") (OHK) がかつて放送していた[スポットニュース](../Page/スポットニュース.md "wikilink")の名称。本項で詳述。
-2.  [NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")の前身である[沖縄放送協会](../Page/沖縄放送協会.md "wikilink") (OHK) が[1967年](../Page/1967年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")（沖縄本島では[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")の同日）から[1972年](../Page/1972年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")に放送していたローカル[ニュース番組](../Page/報道番組.md "wikilink")（現在の『[NHKニュース](../Page/NHKニュース.md "wikilink")』の沖縄ローカルニュースにあたる）。
+2.  [NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")の前身である[沖縄放送協会](../Page/沖縄放送協会.md "wikilink") (OHK) が[1967年](../Page/1967年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")（沖縄本島では[1968年](../Page/1968年.md "wikilink")の同日）から[1972年](../Page/1972年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")に放送していたローカル[ニュース番組](../Page/報道番組.md "wikilink")（現在の『[NHKニュース](../Page/NHKニュース.md "wikilink")』の沖縄ローカルニュースにあたる）。
 
 -----
 

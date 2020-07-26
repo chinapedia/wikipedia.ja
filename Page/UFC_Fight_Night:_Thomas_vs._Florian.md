@@ -19,7 +19,7 @@
     ○  [ダスティン・ヘイズレット](https://ja.wikipedia.org/wiki/ダスティン・ヘイズレット "wikilink") vs.  [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink") ×
     1R 1:14 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第2試合 ウェルター級 5分3R
-    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  [弘中邦佳](../Page/弘中邦佳.md "wikilink") ×
+    ○  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") vs.  [弘中邦佳](../Page/弘中邦佳.md "wikilink") ×
     2R 4:04 TKO（レフェリーストップ：膝蹴り）
   - 第3試合 ライト級 5分3R
     ○  [グレイ・メイナード](https://ja.wikipedia.org/wiki/グレイ・メイナード "wikilink") vs.  ジョー・ヴェレス ×
@@ -37,7 +37,7 @@
     ○  [ネイサン・クォーリー](https://ja.wikipedia.org/wiki/ネイサン・クォーリー "wikilink") vs.  ピート・セル ×
     3R 0:44 KO（右ストレート）
   - 第7試合 ライト級 5分3R
-    ○  [ネイサン・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink") vs.  ジュニオール・アスンソン ×
+    ○  [ネイサン・ディアス](../Page/ネイト・ディアス.md "wikilink") vs.  ジュニオール・アスンソン ×
     1R 4:10 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第8試合 ミドル級 5分3R
     ○  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×

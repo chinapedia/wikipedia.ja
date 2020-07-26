@@ -5,7 +5,7 @@
 
 ## 内容
 
-[TM NETWORKのトリビュートライブ](../Page/TM_NETWORK.md "wikilink")「[SPIN OFF from TM](https://ja.wikipedia.org/wiki/SPIN_OFF_from_TM "wikilink")」に参加した[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[浅倉大介](../Page/浅倉大介.md "wikilink")、[葛城哲哉](../Page/葛城哲哉.md "wikilink")らが作曲を手掛け、インターネット配信限定で発表された楽曲を集めたアルバム。全国の[新星堂](../Page/新星堂.md "wikilink")とmagnetica WEB SHOPのみでの販売となっている。
+[TM NETWORKのトリビュートライブ](../Page/TM_NETWORK.md "wikilink")「[SPIN OFF from TM](../Page/SPIN_OFF_from_TM.md "wikilink")」に参加した[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[浅倉大介](../Page/浅倉大介.md "wikilink")、[葛城哲哉](../Page/葛城哲哉.md "wikilink")らが作曲を手掛け、インターネット配信限定で発表された楽曲を集めたアルバム。全国の[新星堂](../Page/新星堂.md "wikilink")とmagnetica WEB SHOPのみでの販売となっている。
 
 ## 収録曲
 

@@ -9,7 +9,7 @@
 
 ## 楽曲のタイトル
 
-  - [GOOD DAY (ZARDの曲)](../Page/GOOD_DAY_\(ZARDの曲\).md "wikilink") - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のシングル曲。
+  - [GOOD DAY (ZARDの曲)](../Page/GOOD_DAY_\(ZARDの曲\).md "wikilink") - [ZARD](../Page/ZARD.md "wikilink")のシングル曲。
   - [Good Day (山崎あおいの曲)](https://ja.wikipedia.org/wiki/Good_Day_\(山崎あおいの曲\) "wikilink") - [山崎あおい](https://ja.wikipedia.org/wiki/山崎あおい "wikilink")のシングル曲。
   - [Good Day (IUの曲)](https://ja.wikipedia.org/wiki/Good_Day_\(IUの曲\) "wikilink") - [韓国の歌手](../Page/大韓民国.md "wikilink")[IUのシングル曲](https://ja.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。
   - [Good day (足立佳奈の曲)](../Page/Good_day_\(足立佳奈の曲\).md "wikilink") - [足立佳奈](https://ja.wikipedia.org/wiki/足立佳奈 "wikilink")のシングル曲。

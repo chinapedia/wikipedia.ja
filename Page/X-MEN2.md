@@ -105,7 +105,7 @@
 
 ## 備考
 
-  - 劇用車として、発売前（当時）の[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")・[RX-8が](../Page/マツダ・RX-8.md "wikilink")、専用パーツを装着して登場している。
+  - 劇用車として、発売前（当時）の[マツダ](../Page/マツダ.md "wikilink")・[RX-8が](../Page/マツダ・RX-8.md "wikilink")、専用パーツを装着して登場している。
 
 ## 脚注
 

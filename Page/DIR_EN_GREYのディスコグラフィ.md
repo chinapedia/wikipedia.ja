@@ -259,7 +259,7 @@ FWR-004[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LOTUS_(DIR_EN_GREYの曲)" title="wikilink">LOTUS</a></strong></p></td>
 <td><p>CD＋DVD</p></td>
 <td><p>SFCD-0078〜79 (初回盤)</p></td>

@@ -9,7 +9,7 @@
 
 ## 沿革
 
-  - [1895年](../Page/1895年.md "wikilink") - [京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で開催された[内国勧業博覧会](../Page/内国勧業博覧会.md "wikilink")に[東京](../Page/東京.md "wikilink")・[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")3丁目の十字屋（現：[銀座十字屋](../Page/銀座十字屋_\(楽器店\).md "wikilink")）が[洋楽器](https://ja.wikipedia.org/wiki/洋楽器 "wikilink")類を出品する。博覧会終了後、[三条](../Page/三条通.md "wikilink")[寺町に仮店舗を構えて営業開始する](../Page/寺町通.md "wikilink")。
+  - [1895年](../Page/1895年.md "wikilink") - [京都](../Page/京都.md "wikilink")で開催された[内国勧業博覧会](../Page/内国勧業博覧会.md "wikilink")に[東京](../Page/東京.md "wikilink")・[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")3丁目の十字屋（現：[銀座十字屋](../Page/銀座十字屋_\(楽器店\).md "wikilink")）が[洋楽器](https://ja.wikipedia.org/wiki/洋楽器 "wikilink")類を出品する。博覧会終了後、[三条](../Page/三条通.md "wikilink")[寺町に仮店舗を構えて営業開始する](../Page/寺町通.md "wikilink")。
   - [1898年](../Page/1898年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 正式に独立して**十字屋田中商店**として創業（この日を公式の創業年月日とする）。
   - [1952年](../Page/1952年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink") - **株式会社 田中楽器店**を設立。その後、[商号](../Page/商号.md "wikilink")は**株式会社 十字屋楽器店**→**株式会社十字屋**→**株式会社JEUGIA**と変遷する\[1\]。
   - [1991年](../Page/1991年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")第2部特別指定銘柄（新2部）、[京都証券取引所](../Page/京都証券取引所.md "wikilink")（現在は大証に吸収）に[上場](../Page/株式公開.md "wikilink")。

@@ -41,7 +41,7 @@
     <!-- end list -->
       -
         3rdシングル。
-9.  **[LOST REASON](../Page/Nephilim.md "wikilink")** -feat. [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") from [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")-
+9.  **[LOST REASON](../Page/Nephilim.md "wikilink")** -feat. [MICRO](../Page/MICRO_\(ラッパー\).md "wikilink") from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")-
       - 作詞：西川貴教、MICRO / 作曲：柴崎浩 / 編曲：abingdon boys school
     <!-- end list -->
       -

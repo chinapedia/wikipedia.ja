@@ -10,7 +10,7 @@
 ### 沿革
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（[昭和](../Page/昭和.md "wikilink")58年）[9月1日](../Page/9月1日.md "wikilink") - [川崎製鉄の出資により](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")、**川鉄システム開発株式会社**設立
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）4月 - 川崎製鉄本社システム部門を統合
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）4月 - 川崎製鉄本社システム部門を統合
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）2月 - 通産省SI認定
   - [1994年](../Page/1994年.md "wikilink")（平成4年）10月 - 川崎製鉄システム&エレクトロニクス事業部を統合。同時に**川鉄情報システム株式会社**に社名変更
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）10月 - プライバシーマーク認証取得

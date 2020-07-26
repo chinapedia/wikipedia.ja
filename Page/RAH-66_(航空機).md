@@ -1,7 +1,7 @@
 > この記事は[RAH-66 \(航空機\)](https://ja.wikipedia.org/wiki/RAH-66_\(航空機\))から翻訳されています。
 
 
-**RAH-66**は、[ステルス技術が反映された](../Page/ステルス性.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[試作](../Page/プロトタイプ.md "wikilink")[偵察](../Page/偵察.md "wikilink")[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")である。愛称は**コマンチ**（Comanche）。開発は、[ボーイング・ヘリコプターズ](https://ja.wikipedia.org/wiki/ボーイング・ヘリコプターズ "wikilink")（現[ボーイング・ロータークラフト・システムズ](https://ja.wikipedia.org/wiki/ボーイング・ロータークラフト・システムズ "wikilink")）と[シコルスキー両社により行われた](../Page/シコルスキー・エアクラフト.md "wikilink")。開発計画は[2004年](../Page/2004年.md "wikilink")2月に打ち切られたが、同国にて最初の全天候型[ステルス](../Page/ステルス機.md "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")であった。
+**RAH-66**は、[ステルス技術が反映された](../Page/ステルス性.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[試作](../Page/プロトタイプ.md "wikilink")[偵察](../Page/偵察.md "wikilink")[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")である。愛称は**コマンチ**（Comanche）。開発は、[ボーイング・ヘリコプターズ](../Page/ボーイング・ヘリコプターズ.md "wikilink")（現[ボーイング・ロータークラフト・システムズ](https://ja.wikipedia.org/wiki/ボーイング・ロータークラフト・システムズ "wikilink")）と[シコルスキー両社により行われた](../Page/シコルスキー・エアクラフト.md "wikilink")。開発計画は[2004年](../Page/2004年.md "wikilink")2月に打ち切られたが、同国にて最初の全天候型[ステルス](../Page/ステルス機.md "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")であった。
 
 なお、愛称のコマンチ（Comanche）は、[北アメリカ](../Page/北アメリカ.md "wikilink")[先住民](https://ja.wikipedia.org/wiki/先住民 "wikilink")族の[コマンチ族](../Page/コマンチェ.md "wikilink")（コマンチェ族とも）からきている。
 
@@ -21,7 +21,7 @@ RAH-66は、[AH-64 アパッチよりも小型軽量](../Page/AH-64_アパッチ
 
 [rightとなっていた](https://ja.wikipedia.org/wiki/ファイル:Rah-66_w_apache_02.jpg "wikilink")\]\] 開発計画の真っ只中であった[2004年](../Page/2004年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")は、老朽化した既存の多目的[偵察](../Page/偵察.md "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")の同型機を新規調達するために予算を転用するという理由で、コマンチ計画を中止すると発表した。中止の要因としてはほかにも、軍内部で[UAV](../Page/無人航空機.md "wikilink")（Unmanned Aerial Vehicles：無人航空機）による偵察任務の代行に期待する声が高まったこともあり（実際に[アフガニスタン紛争や](../Page/アフガニスタン紛争_\(2001年-\).md "wikilink")[イラク戦争](../Page/イラク戦争.md "wikilink")での無人航空機（[RQ-1 プレデターや](../Page/RQ-1_プレデター.md "wikilink")[RQ-4 グローバルホーク](../Page/RQ-4.md "wikilink")）が偵察のみならず攻撃任務にも投入され、有効性が実証されていた）、更なる性能向上を目指した新型UAVの開発を行うための予算の確保、そして、20年の歳月と莫大な予算を費やしておきながらも試作段階から前進できないコマンチ開発の遅れへの反発もあった。
 
-コマンチ計画には、中止段階で既に80億[ドル近い開発費が投じられており](../Page/アメリカ合衆国ドル.md "wikilink")、さらに、中止の補償金として[シコルスキーと](../Page/シコルスキー・エアクラフト.md "wikilink")[ボーイングに](https://ja.wikipedia.org/wiki/ボーイング・ヘリコプターズ "wikilink")4.5-6.8億ドルが支払われたとされる。
+コマンチ計画には、中止段階で既に80億[ドル近い開発費が投じられており](../Page/アメリカ合衆国ドル.md "wikilink")、さらに、中止の補償金として[シコルスキーと](../Page/シコルスキー・エアクラフト.md "wikilink")[ボーイングに](../Page/ボーイング・ヘリコプターズ.md "wikilink")4.5-6.8億ドルが支払われたとされる。
 
 また、開発運用計画の一部は、コマンチ計画の反省から既存機を基に開発される[ARH-70が引き継ぐ予定だったがこちらも中止された](../Page/ARH-70_\(航空機\).md "wikilink")。このRAH-66の計画によって培われた技術は、[AH-64 アパッチやその他の](../Page/AH-64_アパッチ.md "wikilink")[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用ヘリコプター開発に活かされるという。
 
@@ -114,7 +114,7 @@ RAH-66は、[AH-64 アパッチよりも小型軽量](../Page/AH-64_アパッチ
 
 :: 研究都市「エドワードシティ」に配備されていた軍所属と思われる機体をデイビットが操縦する。
 
-:; 『[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")』
+:; 『[マーセナリーズ](../Page/マーセナリーズ.md "wikilink")』
 
 :: [韓国軍が使用する攻撃ヘリコプターとして](../Page/大韓民国国軍.md "wikilink")「LHX」の名称で登場する。
 

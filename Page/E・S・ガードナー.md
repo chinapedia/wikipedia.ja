@@ -17,7 +17,7 @@
 
 [1937年](../Page/1937年.md "wikilink")、カリフォルニア州[テメキュラへ転居し](https://ja.wikipedia.org/wiki/テメキュラ_\(カリフォルニア州\) "wikilink")、1970年3月11日に死去するまで、生涯をそこで過ごした。
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、長年にわたり[秘書](../Page/秘書.md "wikilink")を務めていたアグネス・ジーン・ベセル (Agnes Jean Bethell) と結婚した。
+[1968年](../Page/1968年.md "wikilink")、長年にわたり[秘書](../Page/秘書.md "wikilink")を務めていたアグネス・ジーン・ベセル (Agnes Jean Bethell) と結婚した。
 
 弁護士業の傍ら、様々なペンネームを用いて[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")に短編小説を書き始め、『ブリーズィ・ストーリイズ』誌1921年6月号に掲載された短編「The Police of the House」でデビューする。
 

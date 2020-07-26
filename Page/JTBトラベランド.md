@@ -17,7 +17,7 @@ JTBトラベランドは[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilin
 
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）[2月1日](../Page/2月1日.md "wikilink") - **株式会社交通公社トラベランド興業**設立（資本金1億円）。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）2月 - [日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）乗車券類委託販売開始。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）4月 - 国鉄券全券種販売開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）4月 - 国鉄券全券種販売開始。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）10月 - 増資（資本金2億円）。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）10月 - [CI実施](../Page/コーポレートアイデンティティ.md "wikilink")（「JTB」の浸透に向けて新シンボルマークを制定）。
   - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）10月 - 増資（資本金4億円）。

@@ -11,7 +11,7 @@
 
 ### 製作の経緯
 
-元々はディレクターの発案から「プレイバック」というタイトルが決められ、[阿木燿子](../Page/阿木燿子.md "wikilink")作詞、[馬飼野康二](../Page/馬飼野康二.md "wikilink")作曲と、[宇崎竜童](../Page/宇崎竜童.md "wikilink")が作曲する2作同時に作られ、宇崎竜童版を採用。しかしまだ物足りなかったスタッフが阿木・宇崎両名に作り直しを依頼。翌日にはレコーディングしないとプレスに間に合わないという状況の中、2人はこの曲を更に一晩で作り、翌日にはアレンジャーに渡し、レコーディングまで済ませたという。タイトルに「Part2」が入っているのも、元はこうした製作の経緯による\[1\]。なお、馬飼野作曲版の『プレイバックPart1』は、本作の翌月に発売されたベストアルバム『[THE BEST プレイバック](https://ja.wikipedia.org/wiki/THE_BEST_プレイバック "wikilink")』に、シングルB面用だった『たそがれ祭り』と共に収録されている（[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")はされていない）。
+元々はディレクターの発案から「プレイバック」というタイトルが決められ、[阿木燿子](../Page/阿木燿子.md "wikilink")作詞、[馬飼野康二](../Page/馬飼野康二.md "wikilink")作曲と、[宇崎竜童](../Page/宇崎竜童.md "wikilink")が作曲する2作同時に作られ、宇崎竜童版を採用。しかしまだ物足りなかったスタッフが阿木・宇崎両名に作り直しを依頼。翌日にはレコーディングしないとプレスに間に合わないという状況の中、2人はこの曲を更に一晩で作り、翌日にはアレンジャーに渡し、レコーディングまで済ませたという。タイトルに「Part2」が入っているのも、元はこうした製作の経緯による\[1\]。なお、馬飼野作曲版の『プレイバックPart1』は、本作の翌月に発売されたベストアルバム『[THE BEST プレイバック](../Page/THE_BEST_プレイバック.md "wikilink")』に、シングルB面用だった『たそがれ祭り』と共に収録されている（[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")はされていない）。
 
 ### ポルシェの型式
 
@@ -34,20 +34,20 @@
 ## 関連作品
 
   - **プレイバックPart2**
-      - [THE BEST プレイバック](https://ja.wikipedia.org/wiki/THE_BEST_プレイバック "wikilink")
+      - [THE BEST プレイバック](../Page/THE_BEST_プレイバック.md "wikilink")
       - [ドラマチック](https://ja.wikipedia.org/wiki/ドラマチック_\(山口百恵のアルバム\) "wikilink")
-      - [Again 百恵 あなたへの子守唄](https://ja.wikipedia.org/wiki/Again_百恵_あなたへの子守唄 "wikilink")
-      - [33 SINGLES MOMOE](https://ja.wikipedia.org/wiki/33_SINGLES_MOMOE "wikilink")
-      - [山口百恵ベスト・コレクション](https://ja.wikipedia.org/wiki/山口百恵ベスト・コレクション "wikilink")
-      - [百恵復活](https://ja.wikipedia.org/wiki/百恵復活 "wikilink")
-      - [百恵クライマックス](https://ja.wikipedia.org/wiki/百恵クライマックス "wikilink")
-      - [百惠辞典](https://ja.wikipedia.org/wiki/百惠辞典 "wikilink")
-      - [山口百惠ベスト・コレクションII 〜いい日旅立ち〜](https://ja.wikipedia.org/wiki/山口百惠ベスト・コレクションII_〜いい日旅立ち〜 "wikilink")
-      - [ベスト・セレクション Vol.2](https://ja.wikipedia.org/wiki/ベスト・セレクション_Vol.2 "wikilink")
+      - [Again 百恵 あなたへの子守唄](../Page/Again_百恵_あなたへの子守唄.md "wikilink")
+      - [33 SINGLES MOMOE](../Page/33_SINGLES_MOMOE.md "wikilink")
+      - [山口百恵ベスト・コレクション](../Page/山口百恵ベスト・コレクション.md "wikilink")
+      - [百恵復活](../Page/百恵復活.md "wikilink")
+      - [百恵クライマックス](../Page/百恵クライマックス.md "wikilink")
+      - [百惠辞典](../Page/百惠辞典.md "wikilink")
+      - [山口百惠ベスト・コレクションII 〜いい日旅立ち〜](../Page/山口百惠ベスト・コレクションII_〜いい日旅立ち〜.md "wikilink")
+      - [ベスト・セレクション Vol.2](../Page/ベスト・セレクション_Vol.2.md "wikilink")
       - [GOLDEN J-POP/THE BEST 山口百惠](https://ja.wikipedia.org/wiki/GOLDEN_J-POP/THE_BEST_山口百惠 "wikilink")
-      - [2000 BEST 山口百恵 ベスト・コレクション](https://ja.wikipedia.org/wiki/2000_BEST_山口百恵_ベスト・コレクション "wikilink")
+      - [2000 BEST 山口百恵 ベスト・コレクション](../Page/2000_BEST_山口百恵_ベスト・コレクション.md "wikilink")
       - [GOLDEN☆BEST 山口百恵 PLAYBACK MOMOE part2](../Page/GOLDEN☆BEST_山口百恵_PLAYBACK_MOMOE_part2.md "wikilink")
-      - [山口百恵ベスト・コレクション VOL.2](https://ja.wikipedia.org/wiki/山口百恵ベスト・コレクション_VOL.2 "wikilink")
+      - [山口百恵ベスト・コレクション VOL.2](../Page/山口百恵ベスト・コレクション_VOL.2.md "wikilink")
       - [MOMOE PREMIUM](https://ja.wikipedia.org/wiki/MOMOE_PREMIUM "wikilink")
       - [Complete MOMOE PREMIUM](https://ja.wikipedia.org/wiki/Complete_MOMOE_PREMIUM "wikilink")
       - [コンプリート百恵伝説](https://ja.wikipedia.org/wiki/コンプリート百恵伝説 "wikilink")
@@ -64,21 +64,21 @@
 <!-- end list -->
 
   - **プレイバックPart2** （ニューアレンジ＆ボーカル別テイク）
-      - [百恵回帰](https://ja.wikipedia.org/wiki/百恵回帰 "wikilink")
-      - [コンプリート百恵回帰](https://ja.wikipedia.org/wiki/コンプリート百恵回帰 "wikilink")
+      - [百恵回帰](../Page/百恵回帰.md "wikilink")
+      - [コンプリート百恵回帰](../Page/コンプリート百恵回帰.md "wikilink")
 
 <!-- end list -->
 
   - **賭け**
-      - [THE BEST プレイバック](https://ja.wikipedia.org/wiki/THE_BEST_プレイバック "wikilink")
-      - [百惠辞典](https://ja.wikipedia.org/wiki/百惠辞典 "wikilink")
+      - [THE BEST プレイバック](../Page/THE_BEST_プレイバック.md "wikilink")
+      - [百惠辞典](../Page/百惠辞典.md "wikilink")
       - [MOMOE PREMIUM update](https://ja.wikipedia.org/wiki/MOMOE_PREMIUM_update "wikilink")
       - [Complete MOMOE PREMIUM](https://ja.wikipedia.org/wiki/Complete_MOMOE_PREMIUM "wikilink")
 
 <!-- end list -->
 
   - **プレイバックPart1**
-      - [THE BEST プレイバック](https://ja.wikipedia.org/wiki/THE_BEST_プレイバック "wikilink")
+      - [THE BEST プレイバック](../Page/THE_BEST_プレイバック.md "wikilink")
       - [GOLDEN J-POP/THE BEST 山口百惠](https://ja.wikipedia.org/wiki/GOLDEN_J-POP/THE_BEST_山口百惠 "wikilink")
       - [MOMOE PREMIUM update](https://ja.wikipedia.org/wiki/MOMOE_PREMIUM_update "wikilink")
       - [Complete MOMOE PREMIUM](https://ja.wikipedia.org/wiki/Complete_MOMOE_PREMIUM "wikilink")

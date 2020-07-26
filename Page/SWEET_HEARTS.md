@@ -19,7 +19,7 @@
 
 上記のように多様なアイテムのリリースや\[5\]、初めてのリリース形態\[6\]など、この1994年は精力的な活動が展開された\[7\]。また、本アルバムも[リカット](../Page/リカット.md "wikilink")が重なり、結果的にシングル関連曲を多く収録したアルバムとなった。
 
-[アレンジャーとして](../Page/編曲家.md "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以来活動をともにした[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink")に代わり、海老原真二が初起用された。また、本作品をもって[ファンハウスから](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")[East west japanへ](../Page/ワーナーミュージック・ジャパン.md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")を移籍しているが\[8\]、[2000年](../Page/2000年.md "wikilink")以降には元のファンハウスである[BMG JAPANへ再移籍している](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+[アレンジャーとして](../Page/編曲家.md "wikilink")、[1986年](../Page/1986年.md "wikilink")以来活動をともにした[田代修二](https://ja.wikipedia.org/wiki/田代修二 "wikilink")に代わり、海老原真二が初起用された。また、本作品をもって[ファンハウスから](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")[East west japanへ](../Page/ワーナーミュージック・ジャパン.md "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")を移籍しているが\[8\]、[2000年](../Page/2000年.md "wikilink")以降には元のファンハウスである[BMG JAPANへ再移籍している](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 「OKAMURA TAKAKO CONCERT TOUR '94 FALL & WINTER " SWEET HEARTS "」（15会場18公演）が開催された。
 

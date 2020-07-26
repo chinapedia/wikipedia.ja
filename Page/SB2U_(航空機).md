@@ -7,7 +7,7 @@
 
 ## 概要
 
-海軍による募集の際、既に開発が大幅に進んでいた[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社の[XSBC-3以外では](../Page/SBC_\(航空機\).md "wikilink")、グレート・レイクス社の[XB2Gは開発断念](https://ja.wikipedia.org/wiki/BG_\(航空機\)#派生型 "wikilink")、グラマン社の[XSBFは開発断念により偵察機](https://ja.wikipedia.org/wiki/FF_\(航空機\) "wikilink")**SF**として使用、ブルースターのXSBAは生産性の高い海軍工廠への移転生産により[SBNと改称されたが生産に遅れが出てしまい](../Page/SBA_\(航空機\).md "wikilink")、ノースロップ社の[XBTは少数生産ののち](../Page/BT_\(航空機\).md "wikilink")、改良のためダグラス社への移転生産により[SBDに改称されるといった具合で](../Page/SBD_\(航空機\).md "wikilink")、計画通りに製造が行われたのは、このSB2Uのみであった。
+海軍による募集の際、既に開発が大幅に進んでいた[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社の[XSBC-3以外では](../Page/SBC_\(航空機\).md "wikilink")、グレート・レイクス社の[XB2Gは開発断念](https://ja.wikipedia.org/wiki/BG_\(航空機\)#派生型 "wikilink")、グラマン社の[XSBFは開発断念により偵察機](../Page/FF_\(航空機\).md "wikilink")**SF**として使用、ブルースターのXSBAは生産性の高い海軍工廠への移転生産により[SBNと改称されたが生産に遅れが出てしまい](../Page/SBA_\(航空機\).md "wikilink")、ノースロップ社の[XBTは少数生産ののち](../Page/BT_\(航空機\).md "wikilink")、改良のためダグラス社への移転生産により[SBDに改称されるといった具合で](../Page/SBD_\(航空機\).md "wikilink")、計画通りに製造が行われたのは、このSB2Uのみであった。
 
 開発は[1934年](../Page/1934年.md "wikilink")[6月](../Page/6月.md "wikilink")より開始され、[1934年](../Page/1934年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に、**XSB2U**として、アメリカ海軍より試作機の発注が行われた。初飛行は[1936年](../Page/1936年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")。
 

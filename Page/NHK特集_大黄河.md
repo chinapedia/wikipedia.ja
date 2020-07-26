@@ -1,11 +1,11 @@
 > この記事は[NHK特集 大黄河](https://ja.wikipedia.org/wiki/NHK特集_大黄河)から翻訳されています。
 
 
-『**NHK特集 大黄河**』（エヌエイチケイとくしゅう だいこうが）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に『[NHK特集](../Page/NHKスペシャル.md "wikilink")』枠内で放送した[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。
+『**NHK特集 大黄河**』（エヌエイチケイとくしゅう だいこうが）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1986年](../Page/1986年.md "wikilink")に『[NHK特集](../Page/NHKスペシャル.md "wikilink")』枠内で放送した[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。
 
 ## 大黄河
 
-1980年の[NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")『[シルクロード -絲綢之路-](../Page/NHK特集_シルクロード.md "wikilink")』の成功を機に、1984年に日本と中国の間で放送協力協定が締結された。この頃から放送をめぐる日中の交流が活発になり、『シルクロード』に続く日中共同制作第2弾として制作されたのが本作である。また本作では、中国を取材したドキュメンタリー作品としては初めて[ハイビジョン](../Page/ハイビジョン.md "wikilink")による撮影が行われている。また、シリーズ開始前の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")にプレリュード版である『大黄河 悠久の旅』が放送されている。
+1980年の[NHK特集](https://ja.wikipedia.org/wiki/NHK特集 "wikilink")『[シルクロード -絲綢之路-](../Page/NHK特集_シルクロード.md "wikilink")』の成功を機に、1984年に日本と中国の間で放送協力協定が締結された。この頃から放送をめぐる日中の交流が活発になり、『シルクロード』に続く日中共同制作第2弾として制作されたのが本作である。また本作では、中国を取材したドキュメンタリー作品としては初めて[ハイビジョン](../Page/ハイビジョン.md "wikilink")による撮影が行われている。また、シリーズ開始前の[1986年](../Page/1986年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")にプレリュード版である『大黄河 悠久の旅』が放送されている。
 
 番組のナレーションは[緒形拳](../Page/緒形拳.md "wikilink")、音楽は[宗次郎](../Page/宗次郎.md "wikilink")が担当した。
 
@@ -17,7 +17,7 @@
 
 ### プロローグ「大黄河 悠久の旅」
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")放送
+[1986年](../Page/1986年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")放送
 
 ### 「大黄河」（全10集）
 
@@ -36,7 +36,7 @@
 
 ### 「空から見た大黄河」
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")放送
+[1986年](../Page/1986年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")放送
 
 ### 「大黄河」（30分版・全20回）
 

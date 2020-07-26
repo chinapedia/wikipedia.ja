@@ -119,7 +119,7 @@
           - [エディオン](../Page/エディオン.md "wikilink")
           - [アカチャンホンポ](../Page/赤ちゃん本舗.md "wikilink")
           - [レデイ薬局](../Page/レデイ薬局.md "wikilink")
-          - [DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink") EX松前（[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）
+          - [DCMダイキ](../Page/DCMダイキ.md "wikilink") EX松前（[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）
           - [ニトリ](../Page/ニトリ.md "wikilink")
 
 ### シネマサンシャイン

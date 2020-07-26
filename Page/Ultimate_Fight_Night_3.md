@@ -34,7 +34,7 @@
     ○  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") vs.  [ホルヘ・リベラ](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(格闘家\) "wikilink") ×
     1R 1:44 TKO（レフェリーストップ：右フック）
   - 第6試合 ウェルター級 5分3R
-    ○  [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink") vs.  ドリュー・フィケット ×
+    ○  [ジョシュ・バークマン](../Page/ジョシュ・バークマン.md "wikilink") vs.  ドリュー・フィケット ×
     1R 1:07 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第7試合 ライトヘビー級 5分3R
     ○  [ステファン・ボナー](../Page/ステファン・ボナー.md "wikilink") vs.  [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink") ×

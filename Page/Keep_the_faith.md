@@ -1,7 +1,7 @@
 > この記事は[Keep the faith](https://ja.wikipedia.org/wiki/Keep_the_faith)から翻訳されています。
 
 
-「**Keep the faith**」（キープ・ザ・フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")・[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
+「**Keep the faith**」（キープ・ザ・フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")・[KAT-TUN](../Page/KAT-TUN.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 概要
 

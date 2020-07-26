@@ -87,7 +87,7 @@
         番組最後のスタジオライブのメドレーで披露。
   - 『SMAP×SMAP 史上最大4時間半生放送\! 新春ドリームスペシャル』（2010年1月4日、関西テレビ・フジテレビ）
       -
-        番組のグランドフィナーレで、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")で披露。
+        番組のグランドフィナーレで、[KAT-TUN](../Page/KAT-TUN.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")で披露。
   - 『SMAP×SMAP』（2010年11月8日、関西テレビ・フジテレビ）
       -
         この回の音楽コーナー「S-Live」で、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")とのコラボレーションで披露。

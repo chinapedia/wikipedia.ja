@@ -1,11 +1,11 @@
 > この記事は[カートゥンKAT-TUN](https://ja.wikipedia.org/wiki/カートゥンKAT-TUN)から翻訳されています。
 
 
-『**カートゥンKAT-TUN**』（カートゥンかとぅーん）とは、[2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[日本テレビ系列で毎週水曜日](../Page/日本テレビ放送網.md "wikilink")23:58 - 翌0:29\[1\]（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。
+『**カートゥンKAT-TUN**』（カートゥンかとぅーん）とは、[2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[日本テレビ系列で毎週水曜日](../Page/日本テレビ放送網.md "wikilink")23:58 - 翌0:29\[1\]（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[KAT-TUN](../Page/KAT-TUN.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。
 
 ## 出演者
 
-  - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
+  - [KAT-TUN](../Page/KAT-TUN.md "wikilink")
       - [亀梨和也](../Page/亀梨和也.md "wikilink")
       - [赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")
       - [田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")
@@ -120,7 +120,7 @@
 
 ### その他
 
-[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバーが[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")の連続ドラマに出演する際は、放送の最後の提供クレジットの直前に、そのドラマの宣伝映像が放送される場合がある。
+[KAT-TUN](../Page/KAT-TUN.md "wikilink")のメンバーが[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")の連続ドラマに出演する際は、放送の最後の提供クレジットの直前に、そのドラマの宣伝映像が放送される場合がある。
 
 ## 放送リスト
 
@@ -537,7 +537,7 @@ Cartoon town club：<a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="w
 <td><p>57</p></td>
 <td><p>5月7日</p></td>
 <td><p>100Q：<a href="../Page/友近.md" title="wikilink">友近</a></p></td>
-<td><p>友近と<a href="https://ja.wikipedia.org/wiki/KAT-TUN" title="wikilink">KAT-TUN</a>がアドリブ芝居に挑戦</p></td>
+<td><p>友近と<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>がアドリブ芝居に挑戦</p></td>
 </tr>
 <tr class="odd">
 <td><p>58</p></td>
@@ -671,7 +671,7 @@ Cartoon town club：<a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="w
 <td><p>72</p></td>
 <td><p>8月20日</p></td>
 <td><p>亀梨・田口・上田・中丸：<a href="https://ja.wikipedia.org/wiki/デヴィ・スカルノ" title="wikilink">デヴィ夫人</a><br />
-亀梨・中丸：<a href="https://ja.wikipedia.org/wiki/レオナ・ルイス" title="wikilink">レオナ・ルイス</a></p></td>
+亀梨・中丸：<a href="../Page/レオナ・ルイス.md" title="wikilink">レオナ・ルイス</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1273,7 +1273,7 @@ DAT-TUN5敗者:武田修宏・大沢あかね</p></td>
 <td><p>150</p></td>
 <td><p>3月10日</p></td>
 <td><p>上田・中丸<br />
-有吉弘行・<a href="https://ja.wikipedia.org/wiki/桐谷美玲" title="wikilink">桐谷美玲</a></p></td>
+有吉弘行・<a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></p></td>
 <td><p>エスコートのオキテ</p></td>
 </tr>
 <tr class="odd">

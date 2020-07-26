@@ -342,7 +342,7 @@
   - [10月29日](../Page/10月29日.md "wikilink"):[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")（[jealkbのオールナイトニッポン](https://ja.wikipedia.org/wiki/jealkbのオールナイトニッポン "wikilink")）
   - [11月5日](../Page/11月5日.md "wikilink"):[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")（鬼束ちひろのオールナイトニッポン）
   - [12月10日](../Page/12月10日.md "wikilink"):[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")（新垣結衣のオールナイトニッポン）
-  - [12月24日](../Page/12月24日.md "wikilink") 第33回[ラジオ・チャリティー・ミュージックソン](https://ja.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")（メインパーソナリティ：[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")\<[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")\>）
+  - [12月24日](../Page/12月24日.md "wikilink") 第33回[ラジオ・チャリティー・ミュージックソン](https://ja.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")（メインパーソナリティ：[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")・[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")\<[KAT-TUN](../Page/KAT-TUN.md "wikilink")\>）
       - ヒダカはゲストで登場し、アコースティックギターによる生歌を披露した。
 
 ### 2008年

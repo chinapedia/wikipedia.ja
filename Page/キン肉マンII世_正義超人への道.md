@@ -97,7 +97,7 @@
 
 <!-- end list -->
 
-  - [ガゼルマン](https://ja.wikipedia.org/wiki/ガゼルマン "wikilink")
+  - [ガゼルマン](../Page/ガゼルマン.md "wikilink")
 
 <!-- end list -->
 

@@ -21,7 +21,7 @@
       - 文化放送系ラジオ「田村ゆかりのいたずら黒うさぎ」エンディングテーマ（2003年4月 - 9月）
 3.  **Prince On A Star 〜Princess Whispers〜** \[4:48\]
       -
-        作詞：[さな](../Page/新谷さなえ.md "wikilink")、作曲：[竹安弘](https://ja.wikipedia.org/wiki/竹安弘 "wikilink")、編曲：多田光裕
+        作詞：[さな](../Page/新谷さなえ.md "wikilink")、作曲：[竹安弘](../Page/竹安弘.md "wikilink")、編曲：多田光裕
     <!-- end list -->
       - [音楽ゲーム](../Page/音楽ゲーム.md "wikilink")『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』収録曲のカバー。
 

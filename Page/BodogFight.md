@@ -165,7 +165,7 @@
   - ; 第10試合 ウェルター級 5分3R
 
       -
-        ○  [エディ・アルバレス](https://ja.wikipedia.org/wiki/エディ・アルバレス "wikilink") vs.  マット・リー ×
+        ○  [エディ・アルバレス](../Page/エディ・アルバレス.md "wikilink") vs.  マット・リー ×
         3R終了 判定3-0
 
 ### BodogFight: Clash of the Nations
@@ -218,7 +218,7 @@
   - ; 第8試合 Bodogウェルター級タイトルマッチ 5分5R
 
       -
-        ○  [ニック・トンプソン](../Page/ニック・トンプソン.md "wikilink") vs.  [エディ・アルバレス](https://ja.wikipedia.org/wiki/エディ・アルバレス "wikilink") ×
+        ○  [ニック・トンプソン](../Page/ニック・トンプソン.md "wikilink") vs.  [エディ・アルバレス](../Page/エディ・アルバレス.md "wikilink") ×
         2R 4:32 TKO（レフェリーストップ：パウンド）
         ※トンプソンが王座獲得に成功。
 

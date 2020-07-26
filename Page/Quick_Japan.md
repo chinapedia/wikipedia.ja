@@ -78,7 +78,7 @@
   - [松本亀吉](https://ja.wikipedia.org/wiki/松本亀吉 "wikilink")『東名高速溺死坂インター』
   - [さやわか](https://ja.wikipedia.org/wiki/さやわか "wikilink")『真説 空想少女学論考』
   - [石川直樹](https://ja.wikipedia.org/wiki/石川直樹_\(探検家・写真家\) "wikilink")『陶酔の風景』
-  - [中村珍](https://ja.wikipedia.org/wiki/中村珍 "wikilink")『[誰も懲りない](https://ja.wikipedia.org/wiki/誰も懲りない "wikilink")』
+  - [中村珍](../Page/中村珍.md "wikilink")『[誰も懲りない](https://ja.wikipedia.org/wiki/誰も懲りない "wikilink")』
   - [藤田貴大](https://ja.wikipedia.org/wiki/藤田貴大 "wikilink")『うすれる、ゆれる』
   - [和田薫](../Page/和田薫_\(芸能事務所社長\).md "wikilink")『芸能界日記』
   - [大泉実成](../Page/大泉実成.md "wikilink")『消えたマンガ家』

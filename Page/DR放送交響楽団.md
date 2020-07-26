@@ -7,7 +7,7 @@
 
 ## 歴代指揮者
 
-歴代の指揮者として、[ニコライ・マルコ](../Page/ニコライ・マルコ.md "wikilink")、[フリッツ・ブッシュ](../Page/フリッツ・ブッシュ.md "wikilink")、[ヘルベルト・ブロムシュテット](../Page/ヘルベルト・ブロムシュテット.md "wikilink")、[ランベルト・ガルデルリ](https://ja.wikipedia.org/wiki/ランベルト・ガルデルリ "wikilink")、[レイフ・セーゲルスタム](https://ja.wikipedia.org/wiki/レイフ・セーゲルスタム "wikilink")、[ウルフ・シルマー](https://ja.wikipedia.org/wiki/ウルフ・シルマー "wikilink")、[ゲルト・アルブレヒト](../Page/ゲルト・アルブレヒト.md "wikilink")、[トーマス・ダウスゴー](https://ja.wikipedia.org/wiki/トーマス・ダウスゴー "wikilink")らが首席指揮者を務め、2012年からは[ラファエル・フリューベック・デ・ブルゴス](../Page/ラファエル・フリューベック・デ・ブルゴス.md "wikilink")が首席指揮者を務めていたが、フリューベックの体調悪化にともなう引退により空席となり、2017年から[ファビオ・ルイージ](../Page/ファビオ・ルイージ.md "wikilink")が首席指揮者に就任。首席客演指揮者として[ユーリ・テミルカーノフ](../Page/ユーリ・テミルカーノフ.md "wikilink")を擁している。
+歴代の指揮者として、[ニコライ・マルコ](../Page/ニコライ・マルコ.md "wikilink")、[フリッツ・ブッシュ](../Page/フリッツ・ブッシュ.md "wikilink")、[ヘルベルト・ブロムシュテット](../Page/ヘルベルト・ブロムシュテット.md "wikilink")、[ランベルト・ガルデルリ](https://ja.wikipedia.org/wiki/ランベルト・ガルデルリ "wikilink")、[レイフ・セーゲルスタム](../Page/レイフ・セーゲルスタム.md "wikilink")、[ウルフ・シルマー](https://ja.wikipedia.org/wiki/ウルフ・シルマー "wikilink")、[ゲルト・アルブレヒト](../Page/ゲルト・アルブレヒト.md "wikilink")、[トーマス・ダウスゴー](https://ja.wikipedia.org/wiki/トーマス・ダウスゴー "wikilink")らが首席指揮者を務め、2012年からは[ラファエル・フリューベック・デ・ブルゴス](../Page/ラファエル・フリューベック・デ・ブルゴス.md "wikilink")が首席指揮者を務めていたが、フリューベックの体調悪化にともなう引退により空席となり、2017年から[ファビオ・ルイージ](../Page/ファビオ・ルイージ.md "wikilink")が首席指揮者に就任。首席客演指揮者として[ユーリ・テミルカーノフ](../Page/ユーリ・テミルカーノフ.md "wikilink")を擁している。
 
 ## 主要な録音
 

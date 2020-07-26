@@ -13,7 +13,7 @@ NSRは型式で大きくMC16、MC18、MC21、MC28の4種類に分けられるが
 
 ### NSR250RG(初代)
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:Honda_NSR250R_in_the_Honda_Collection_Hall..JPG "wikilink") 型式MC16。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[NS250Rのフルモデルチェンジ車として登場した](../Page/ホンダ・NS.md "wikilink")\[1\]。新設計の“目の字”断面をもつアルミニウム製ツイン・スパーフレームに、クランクケースリードバルブの[水冷](../Page/水冷エンジン.md "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")90°[V型2気筒](../Page/V型2気筒.md "wikilink")エンジンを搭載し、競技専用車RS250Rをそのまま公道用にスケールダウンしたようなレーシーな姿をまとっていた。エンジンのクランクケースなど、一部部品には「HONDA RACING」の刻印が入り、競技用車両とパーツの設計を一にしている点も注目された。
+[250px](https://ja.wikipedia.org/wiki/ファイル:Honda_NSR250R_in_the_Honda_Collection_Hall..JPG "wikilink") 型式MC16。[1986年](../Page/1986年.md "wikilink")に[NS250Rのフルモデルチェンジ車として登場した](../Page/ホンダ・NS.md "wikilink")\[1\]。新設計の“目の字”断面をもつアルミニウム製ツイン・スパーフレームに、クランクケースリードバルブの[水冷](../Page/水冷エンジン.md "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")90°[V型2気筒](../Page/V型2気筒.md "wikilink")エンジンを搭載し、競技専用車RS250Rをそのまま公道用にスケールダウンしたようなレーシーな姿をまとっていた。エンジンのクランクケースなど、一部部品には「HONDA RACING」の刻印が入り、競技用車両とパーツの設計を一にしている点も注目された。
 
 ### NSR250RJ - RK(2代目)
 

@@ -88,7 +88,7 @@ QWERTYキーボード<br />
 
   - [Pocket PC](../Page/Pocket_PC.md "wikilink")
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
-  - [EMONSTER](https://ja.wikipedia.org/wiki/EMONSTER "wikilink")
+  - [EMONSTER](../Page/EMONSTER.md "wikilink")
   - [シャープ製のスマートフォン](https://ja.wikipedia.org/wiki/シャープ製のスマートフォン "wikilink")
 
 ## 外部リンク

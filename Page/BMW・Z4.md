@@ -9,7 +9,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_Z4_front_20080530.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_Z4_front_20071105.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMWZ4MRoadster.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_Z4MCoupe_2.JPG "wikilink") **E85**はロードスター、**E86**はクーペのモデルコードである。
 
-2002年、[パリモーターショーでデビュー](https://ja.wikipedia.org/wiki/モンディアル・ド・ロトモビル "wikilink")。 [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")[スパータンバーグで生産される](https://ja.wikipedia.org/wiki/スパータンバーグ_\(サウスカロライナ州\) "wikilink")。 開発自体は[Z3と同時期から行われていた](../Page/BMW・Z3.md "wikilink")。時期的にZ3の後継車種にあたるが、位置づけとしてはZ3の上位モデルとなる。Z3よりボディサイズが拡大し、当初は全モデルが直6エンジンで登場したが、2005年に直4エンジン搭載モデルも追加された。デザインはアメリカ人デザイナー、[クリス・バングル](https://ja.wikipedia.org/wiki/クリス・バングル "wikilink")の手による。
+2002年、[パリモーターショーでデビュー](https://ja.wikipedia.org/wiki/モンディアル・ド・ロトモビル "wikilink")。 [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")[スパータンバーグで生産される](https://ja.wikipedia.org/wiki/スパータンバーグ_\(サウスカロライナ州\) "wikilink")。 開発自体は[Z3と同時期から行われていた](../Page/BMW・Z3.md "wikilink")。時期的にZ3の後継車種にあたるが、位置づけとしてはZ3の上位モデルとなる。Z3よりボディサイズが拡大し、当初は全モデルが直6エンジンで登場したが、2005年に直4エンジン搭載モデルも追加された。デザインはアメリカ人デザイナー、[クリス・バングル](../Page/クリス・バングル.md "wikilink")の手による。
 
 2003年1月、日本で「Z4 3.0i」、「Z4 2.5i」が発売。
 

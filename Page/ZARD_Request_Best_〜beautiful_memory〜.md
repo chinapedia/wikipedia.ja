@@ -1,7 +1,7 @@
 > この記事は[ZARD Request Best 〜beautiful memory〜](https://ja.wikipedia.org/wiki/ZARD_Request_Best_〜beautiful_memory〜)から翻訳されています。
 
 
-『**ZARD Request Best 〜beautiful memory〜**』（ザード・リクエスト・ベスト・ビューティフル・メモリー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。『[Golden Best 〜15th Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink")』に続き、2作目の2枚組ベスト・アルバムとなる。CDコードはJBCJ-9027〜28。
+『**ZARD Request Best 〜beautiful memory〜**』（ザード・リクエスト・ベスト・ビューティフル・メモリー）は、[ZARD](../Page/ZARD.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。『[Golden Best 〜15th Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink")』に続き、2作目の2枚組ベスト・アルバムとなる。CDコードはJBCJ-9027〜28。
 
 ## 概要
 

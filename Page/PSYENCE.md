@@ -73,7 +73,7 @@
   - hide - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [I.N.A](../Page/I.N.A.md "wikilink") - [プログラミング](https://ja.wikipedia.org/wiki/打ち込み "wikilink")
   - 金内孝史 - ベース (\#3, \#10)
-  - [宮脇“JOE”知史](../Page/宮脇“JOE”知史.md "wikilink") ([ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")) - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [宮脇“JOE”知史](../Page/宮脇“JOE”知史.md "wikilink") ([ZIGGY](../Page/ZIGGY.md "wikilink")) - [ドラムス](../Page/ドラムセット.md "wikilink")
   - 柳田英輝 ([ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink")) - ドラムス (\#7, \#11)
   - エリック・ウェストフォール - [ピアノ](../Page/ピアノ.md "wikilink")
 

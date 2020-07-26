@@ -60,7 +60,7 @@
   - [MYこれ\!クション うしろゆびさされ組BEST](../Page/MYこれ!クション_うしろゆびさされ組BEST.md "wikilink") - 全6枚のシングルA・B面曲、アルバム曲等収録
   - [MYこれ\!クション うしろ髪ひかれ隊BEST](../Page/MYこれ!クション_うしろ髪ひかれ隊BEST.md "wikilink") - 全5枚のシングルA・B面曲、ソロ楽曲等収録
   - [MYこれ\!クション 工藤静香BEST](../Page/MYこれ!クション_工藤静香BEST.md "wikilink") - 1987年から1997年に発売したシングルからのベスト
-  - [MYこれ\!クション 高井麻巳子BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_高井麻巳子BEST "wikilink") - 全8枚のシングルA・B面曲収録
+  - [MYこれ\!クション 高井麻巳子BEST](../Page/MYこれ!クション_高井麻巳子BEST.md "wikilink") - 全8枚のシングルA・B面曲収録
   - [MYこれ\!クション 内海和子BEST](https://ja.wikipedia.org/wiki/MY_これ!クション_内海和子・BEST "wikilink") - 全4枚のシングルA・B面曲、アルバム曲等収録
 
 ## 関連項目

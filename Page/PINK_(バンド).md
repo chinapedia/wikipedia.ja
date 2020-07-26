@@ -9,7 +9,7 @@
 
 当初メンバーは流動的だったが、やがて三人に加え、[東京ブラボー](https://ja.wikipedia.org/wiki/東京ブラボー "wikilink")の[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")、[爆風銃](https://ja.wikipedia.org/wiki/爆風銃 "wikilink")の[スティーブ衛藤](../Page/スティーヴ_エトウ.md "wikilink")\[3\]、[ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")の[渋谷ヒデヒロ](https://ja.wikipedia.org/wiki/渋谷ヒデヒロ "wikilink")というメンバーが固まり、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にPINKとしてデビューした\[4\]。その音楽性は「無国籍サウンド」と形容された\[5\]。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、『アドリブ』誌で「'85年ベスト・レコード日本のポップ･ソング部門」第1位（同率首位3組）となった\[6\]。同年にはイギリスのRIMEレコードからEPをリリースしている\[7\]。
+[1986年](../Page/1986年.md "wikilink")には、『アドリブ』誌で「'85年ベスト・レコード日本のポップ･ソング部門」第1位（同率首位3組）となった\[6\]。同年にはイギリスのRIMEレコードからEPをリリースしている\[7\]。
 
 3rdアルバム『PSYCHO-DELICIOUS』までは福岡がほとんどの作曲を担当していたが、4thアルバム『CYBER』からは岡野やホッピーも作曲を行うようになり、スティーブの脱退を経て、5th『RED & BLUE』ではほとんど各自のソロのような状態になり、その後まもなく活動を「凍結」した\[8\]。
 
@@ -131,17 +131,17 @@
   - [砂の雫](https://ja.wikipedia.org/wiki/砂の雫 "wikilink")（[1984年](../Page/1984年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")）c/w HINEMOSU - Epic Sony よりリリース
   - プライベートストーリー（[1984年](../Page/1984年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")）映画『[チ・ン・ピ・ラ](https://ja.wikipedia.org/wiki/チ・ン・ピ・ラ "wikilink")』主題歌 c/w Shadow danceは「砂の雫」英語バージョン（音源は未CD化） - Epic Sony よりリリース
   - YOUNG GENIUS-GIMMIX（12inch）（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")）
-  - DON'T STOP PASSENGERS（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月10日](../Page/2月10日.md "wikilink")）
-  - 光の子-REMIX（12inch）（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
-  - SOUL FLIGHT（英語版）（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）イギリスRIMEレコードよりリリース
-  - KEEP YOUR VIEW（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")）マクセルビデオカセットCMイメージソング
+  - DON'T STOP PASSENGERS（[1986年](../Page/1986年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")）
+  - 光の子-REMIX（12inch）（[1986年](../Page/1986年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
+  - SOUL FLIGHT（英語版）（[1986年](../Page/1986年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）イギリスRIMEレコードよりリリース
+  - KEEP YOUR VIEW（[1986年](../Page/1986年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")）マクセルビデオカセットCMイメージソング
   - TRAVELLER（12inch）（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）(「FINAL MIX」に収録されているのはリミックス)
   - CHRISTMAS ILLUSION（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")）c/w Machine Gun Heartは映画『[ハワイアン・ドリーム](https://ja.wikipedia.org/wiki/ハワイアン・ドリーム "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")
 
 ### オリジナルアルバム
 
   - [PINK](../Page/PINK_\(アルバム\).md "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
-  - [光の子](../Page/光の子.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
+  - [光の子](../Page/光の子.md "wikilink")（[1986年](../Page/1986年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
   - [PSYCHO-DELICIOUS](../Page/PSYCHO-DELICIOUS.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")）
   - [CYBER](../Page/CYBER.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")）
   - [RED & BLUE](../Page/RED_&_BLUE.md "wikilink")（[1989年](../Page/1989年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
@@ -172,7 +172,7 @@
       - 全国GIG ツアー （後楽園ホール、大阪バナナホール 他 [7月26日](../Page/7月26日.md "wikilink") - [9月7日](../Page/9月7日.md "wikilink")）
       - LIVE at 早稲田大学 （11月2日）
       - "PINK GIG" IN LAFORET MUSEUM（[12月14日](../Page/12月14日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")）
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [1986年](../Page/1986年.md "wikilink")
       - "RADICAL CHIC CIRCUIT"
         1.  [3月29日](../Page/3月29日.md "wikilink")（土） 東京・中野サンプラザ
         2.  [4月8日](../Page/4月8日.md "wikilink")（火）京都会館第２ホール

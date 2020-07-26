@@ -5,7 +5,7 @@
 
 ## 概要
 
-「映画生誕100年・[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")生誕100周年・[松竹](../Page/松竹.md "wikilink")創業100周年記念作品」と銘打って公開された。「[プロデューサー](../Page/プロデューサー.md "wikilink")による作り直し」、「ふたりの監督による2バージョン同時公開」、「劇中の[サブリミナル効果](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")」など映画内外の数々のエピソードが話題になった作品である。
+「映画生誕100年・[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")生誕100周年・[松竹](../Page/松竹.md "wikilink")創業100周年記念作品」と銘打って公開された。「[プロデューサー](../Page/プロデューサー.md "wikilink")による作り直し」、「ふたりの監督による2バージョン同時公開」、「劇中の[サブリミナル効果](../Page/サブリミナル効果.md "wikilink")」など映画内外の数々のエピソードが話題になった作品である。
 
 プロデューサーの[奥山和由](../Page/奥山和由.md "wikilink")は監督の[黛りんたろう](../Page/黛りんたろう.md "wikilink")が完成させた作品に納得できず、自らメガホンを取って全体の70%を撮り直すなど映画を再構成、自分なりの作品を作り上げた\[1\]。それぞれは「黛バージョン」「奥山バージョン」と呼ばれ、同じ日に別々の劇場で公開された\[2\]。上映時間はそれぞれ93分と98分。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は12億円\[3\]。
 
@@ -151,13 +151,13 @@
   - 『[お勢登場](https://ja.wikipedia.org/wiki/お勢登場 "wikilink")』のアニメ（監督：[名倉靖博](../Page/名倉靖博.md "wikilink")）の追加
   - 有名人を多数集めた映画披露パーティーシーンなどの追加
   - 「[1/fゆらぎ](https://ja.wikipedia.org/wiki/1/fゆらぎ "wikilink")」を意識した美術セットや音楽\[5\]
-  - [サブリミナル効果](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")を狙ったカット\[6\]
+  - [サブリミナル効果](../Page/サブリミナル効果.md "wikilink")を狙ったカット\[6\]
   - 観客の嗅覚を刺激するフェロモン入り香水の上映館内での散布\[7\]
   - 主題歌に[ジャズ](../Page/ジャズ.md "wikilink")の曲「All of me」（歌：[ミルドレッド・ベイリー](https://ja.wikipedia.org/wiki/ミルドレッド・ベイリー "wikilink")）を使用
 
 ### サブリミナル問題
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月、[TBSの](../Page/TBSテレビ.md "wikilink")[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")関連番組内で、[サブリミナル的な演出手法が採られたことが大きな問題になった](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")。このため同年[8月19日](../Page/8月19日.md "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")（日本衛星放送）は「奥山バージョン」を放送するにあたって、[サブリミナル効果](https://ja.wikipedia.org/wiki/サブリミナル効果 "wikilink")を狙ったといわれる18か所と、[フラッシュバックと呼ばれる短いカットを連続的に繋ぐ演出手法が取り入れられている](../Page/クロスカッティング.md "wikilink")9か所の、合計27か所をカットした。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月、[TBSの](../Page/TBSテレビ.md "wikilink")[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")関連番組内で、[サブリミナル的な演出手法が採られたことが大きな問題になった](../Page/サブリミナル効果.md "wikilink")。このため同年[8月19日](../Page/8月19日.md "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")（日本衛星放送）は「奥山バージョン」を放送するにあたって、[サブリミナル効果](../Page/サブリミナル効果.md "wikilink")を狙ったといわれる18か所と、[フラッシュバックと呼ばれる短いカットを連続的に繋ぐ演出手法が取り入れられている](../Page/クロスカッティング.md "wikilink")9か所の、合計27か所をカットした。
 
 ## キャッチ・コピー
 

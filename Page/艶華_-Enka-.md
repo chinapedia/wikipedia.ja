@@ -388,7 +388,7 @@
   - スーパーヴァイザーズ: 佐々友成、[川原伸司](../Page/川原伸司.md "wikilink")
   - エグゼクティヴ・プロデューサーズ: 寺林晁 (UNIVERSAL MUSIC K.K.)、藤倉尚（ユニバーサルシグマ）
   - エグゼクティヴ・プロデューサー & ディレクター: 門村崇志
-  - スペシャル・サンクス: HIDEHARU NAGAI、オーロラミュージック パブリッシャーズ、[コロムビアソングス](https://ja.wikipedia.org/wiki/コロムビアソングス "wikilink")、[フジパシフィック音楽出版](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")、[ホリプロ](../Page/ホリプロ.md "wikilink")、[セントラルミュージック](../Page/文化放送グループ.md "wikilink")、[日音](../Page/日音.md "wikilink")、日本芸能出版、[田辺音楽出版](https://ja.wikipedia.org/wiki/田辺音楽出版 "wikilink")、[ビクター・ミュージックパブリッシング](../Page/ビクターミュージックアーツ.md "wikilink")、渡辺音楽出版、ティアンドケイ・ミュージック、[全音楽譜出版社](../Page/全音楽譜出版社.md "wikilink")、[コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")
+  - スペシャル・サンクス: HIDEHARU NAGAI、オーロラミュージック パブリッシャーズ、[コロムビアソングス](../Page/コロムビアソングス.md "wikilink")、[フジパシフィック音楽出版](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")、[ホリプロ](../Page/ホリプロ.md "wikilink")、[セントラルミュージック](../Page/文化放送グループ.md "wikilink")、[日音](../Page/日音.md "wikilink")、日本芸能出版、[田辺音楽出版](https://ja.wikipedia.org/wiki/田辺音楽出版 "wikilink")、[ビクター・ミュージックパブリッシング](../Page/ビクターミュージックアーツ.md "wikilink")、渡辺音楽出版、ティアンドケイ・ミュージック、[全音楽譜出版社](../Page/全音楽譜出版社.md "wikilink")、[コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")
 
 ## 参照
 

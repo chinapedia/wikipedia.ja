@@ -1,7 +1,7 @@
 > この記事は[ROAD \(20th Centuryのアルバム\)](https://ja.wikipedia.org/wiki/ROAD_\(20th_Centuryのアルバム\))から翻訳されています。
 
 
-『**ROAD**』（ロード）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**ROAD**』（ロード）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[1st](../Page/序数詞.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -31,7 +31,7 @@
         作詞：六ツ見純代、作曲：星野靖彦、編曲：[新井理生](https://ja.wikipedia.org/wiki/新井理生 "wikilink")・[高良勝治](https://ja.wikipedia.org/wiki/高良勝治 "wikilink")
 7.  **季節**
       -
-        作詞・作曲：[スフィンクス](https://ja.wikipedia.org/wiki/スフィンクス_\(曖昧さ回避\) "wikilink")、編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞・作曲：[スフィンクス](https://ja.wikipedia.org/wiki/スフィンクス_\(曖昧さ回避\) "wikilink")、編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
 8.  **ダーザイン〜風の吹く街で〜** - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
       -
         作詞：[20th Century](../Page/V6_\(グループ\).md "wikilink")、作曲：井ノ原快彦、編曲：[木村賢一](https://ja.wikipedia.org/wiki/木村賢一 "wikilink")

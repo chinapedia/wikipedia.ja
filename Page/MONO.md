@@ -9,7 +9,7 @@
 
 ワールドツアーは毎年およそ150本。これまでに海外60カ国以上に渡りツアーを行い、アジアのバンドの中ではMONOが最も多くのツアーを行っている。2009年に25名のオーケストラ編成でのスペシャルショーが、ニューヨーク・ロンドン・メルボルン・東京で行われた。ニューヨークで収録されたオーケストラとのスペシャル・ショーを収録したライブアルバムを含め、現在まで10枚のアルバムをリリースしている。
 
-2018年6月、[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の[ロバート・スミスのキュレーションで](https://ja.wikipedia.org/wiki/ロバート・スミス_\(ミュージシャン\) "wikilink")、ロンドンで開催される「[Meltdown Festival](https://ja.wikipedia.org/wiki/:en:Meltdown_\(festival\) "wikilink")」に、[マイ・ブラッディ・ヴァレンタイン](../Page/マイ・ブラッディ・ヴァレンタイン.md "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[モグワイ](../Page/モグワイ.md "wikilink")、[デフトーンズ](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")等と共にMONOがヘッドライナーとして出演する。\[1\]
+2018年6月、[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の[ロバート・スミスのキュレーションで](https://ja.wikipedia.org/wiki/ロバート・スミス_\(ミュージシャン\) "wikilink")、ロンドンで開催される「[Meltdown Festival](https://ja.wikipedia.org/wiki/:en:Meltdown_\(festival\) "wikilink")」に、[マイ・ブラッディ・ヴァレンタイン](../Page/マイ・ブラッディ・ヴァレンタイン.md "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[モグワイ](../Page/モグワイ.md "wikilink")、[デフトーンズ](../Page/デフトーンズ.md "wikilink")等と共にMONOがヘッドライナーとして出演する。\[1\]
 
 ## メンバー
 

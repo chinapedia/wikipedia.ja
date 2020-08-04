@@ -18,7 +18,7 @@
 
   - [シー・ティー・ワイ](../Page/シー・ティー・ワイ.md "wikilink")（三重県四日市市）
   - [上越ケーブルビジョン](../Page/上越ケーブルビジョン.md "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[上越市](../Page/上越市.md "wikilink")）
-  - [エヌ・シィ・ティ](../Page/エヌ・シィ・ティ.md "wikilink")（新潟県[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）
+  - [エヌ・シィ・ティ](../Page/エヌ・シィ・ティ.md "wikilink")（新潟県[長岡市](../Page/長岡市.md "wikilink")）
   - [ケーブルネット鈴鹿](../Page/ケーブルネット鈴鹿.md "wikilink")（三重県[鈴鹿市](../Page/鈴鹿市.md "wikilink")）
 
 ## 本社所在地

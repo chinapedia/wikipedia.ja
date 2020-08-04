@@ -599,7 +599,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fleet_Walker" title="wikilink">Fleet Walker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーゼス・フリート・ウォーカー" title="wikilink">フリート・ウォーカー</a></p></td>
+<td><p><a href="../Page/モーゼス・フリート・ウォーカー.md" title="wikilink">フリート・ウォーカー</a></p></td>
 <td><p>1884</p></td>
 <td><p>1884</p></td>
 <td></td>
@@ -7543,7 +7543,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Todd_Worrell" title="wikilink">Todd Worrell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッド・ウォーレル" title="wikilink">トッド・ウォーレル</a></p></td>
+<td><p><a href="../Page/トッド・ウォーレル.md" title="wikilink">トッド・ウォーレル</a></p></td>
 <td><p>1985</p></td>
 <td><p>1997</p></td>
 <td></td>

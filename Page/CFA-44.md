@@ -101,7 +101,7 @@ CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wiki
       - 「[Xbox LIVE マーケットプレース - 第四弾追加コンテンツ - CFA-44 -PROTOTYPE-](http://www.acecombat.jp/ace6/mp_cnt09.html#specialcolor16)」　バンダイナムコゲームス、2008年1月31日。
   - 『[ACE COMBAT ASSAULT HORIZON](https://ja.wikipedia.org/wiki/エースコンバット_アサルト・ホライゾン "wikilink")』　バンダイナムコゲームス、2011年。
       - 「[追加機体：CFA-44 Nosferatu（カテゴリ：マルチロール）](http://ah.acecombat.jp/dlc/dlc006.html#cfa44)」　バンダイナムコゲームス、2011年12月12日。
-  - 『[月刊電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』　2011年12月号、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2011年10月25日、194-195、201頁。
+  - 『[月刊電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』　2011年12月号、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")、2011年10月25日、194-195、201頁。
   - 『エースコンバット イカロス・イン・ザ・スカイ』　アスキー・メディアワークス、2012年。
   - 『[エースコンバット インフィニティ](https://ja.wikipedia.org/wiki/エースコンバット_インフィニティ "wikilink")』　バンダイナムコゲームス、2014年。
 

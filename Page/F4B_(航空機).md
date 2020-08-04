@@ -2,11 +2,11 @@
 
 
 {{ Infobox 航空機 | 名称 = F4B / P-12 | 画像 = <File:Boeing> F4B-4.jpg | キャプション = 飛行するF4B-3 8891号機(製造番号 1595)
-([1931年](../Page/1931年.md "wikilink")撮影) | 用途 = [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") / 陸上戦闘機 | 分類 = [戦闘機](../Page/戦闘機.md "wikilink") | 設計者 = [ウィリアム・エドワード・ボーイング](../Page/ウィリアム・ボーイング.md "wikilink") | 製造者 = [ボーイング](../Page/ボーイング.md "wikilink")・エアプレイン社 | 運用者 more =
+([1931年](../Page/1931年.md "wikilink")撮影) | 用途 = [艦上戦闘機](../Page/艦上戦闘機.md "wikilink") / 陸上戦闘機 | 分類 = [戦闘機](../Page/戦闘機.md "wikilink") | 設計者 = [ウィリアム・エドワード・ボーイング](../Page/ウィリアム・ボーイング.md "wikilink") | 製造者 = [ボーイング](../Page/ボーイング.md "wikilink")・エアプレイン社 | 運用者 more =
 \*\*
 
   -   -
-      - [USAAC_Roundel_1919-1941.svg](https://ja.wikipedia.org/wiki/File:USAAC_Roundel_1919-1941.svg "fig:USAAC_Roundel_1919-1941.svg")[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")
+      - [USAAC_Roundel_1919-1941.svg](https://ja.wikipedia.org/wiki/File:USAAC_Roundel_1919-1941.svg "fig:USAAC_Roundel_1919-1941.svg")[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")
 
   -   -
       -
@@ -19,7 +19,7 @@
 
   -   - [1949年](../Page/1949年.md "wikilink")（ブラジル空軍）
 
-| 運用状況 = 退役 | ユニットコスト = }} **F4B**（*Boeing F4B* ）は、 [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ボーイング](../Page/ボーイング.md "wikilink")社が開発し、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[複葉](../Page/複葉機.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。[1929年](../Page/1929年.md "wikilink")より運用され、[グラマン](../Page/グラマン.md "wikilink")社製の[F3Fが配備される](../Page/F3F_\(航空機\).md "wikilink")[1936年](../Page/1936年.md "wikilink")までアメリカ海軍の主力戦闘機であった。
+| 運用状況 = 退役 | ユニットコスト = }} **F4B**（*Boeing F4B* ）は、 [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ボーイング](../Page/ボーイング.md "wikilink")社が開発し、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[複葉](../Page/複葉機.md "wikilink")[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")。[1929年](../Page/1929年.md "wikilink")より運用され、[グラマン](../Page/グラマン.md "wikilink")社製の[F3Fが配備される](../Page/F3F_\(航空機\).md "wikilink")[1936年](../Page/1936年.md "wikilink")までアメリカ海軍の主力戦闘機であった。
 
 **P-12**（*Boeing P-12* ）は、F4Bの派生型で主にアメリカ陸軍で運用された陸上戦闘機。同社の単葉戦闘機である[P-26ピーシューターが配備されるまで戦闘機として運用された](../Page/P-26_\(航空機\).md "wikilink")。
 

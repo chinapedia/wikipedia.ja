@@ -7,7 +7,7 @@
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の『[COLLECTION](../Page/COLLECTION.md "wikilink")』、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[COLLECTION II](../Page/COLLECTION_II.md "wikilink")』に続くシングルコレクション。
   - [1991年](../Page/1991年.md "wikilink")の「[これからのI Love You](../Page/これからのI_Love_You.md "wikilink")」から[1994年](../Page/1994年.md "wikilink")の「[HERO](../Page/HERO_\(中山美穂の曲\).md "wikilink")」まで発売順に10曲がオリジナルバージョンで収録されている。
-  - 前年に発売された[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[Pure White Live '94](https://ja.wikipedia.org/wiki/Pure_White_Live_'94 "wikilink")』の通常版と共に、中山の誕生日である3月1日に同時発売された。
+  - 前年に発売された[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[Pure White Live '94](../Page/Pure_White_Live_'94.md "wikilink")』の通常版と共に、中山の誕生日である3月1日に同時発売された。
   - 中山の全アルバム中、最大の売上枚数を記録している。
   - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 

@@ -80,57 +80,57 @@
 <tbody>
 <tr class="odd">
 <td><p>リーグ</p></td>
-<td><p>順位</p></td>
 <td><p>試</p></td>
 <td><p>勝</p></td>
+<td><p>分</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2005-06</strong></p></td>
 <td><p>リーグ1</p></td>
-<td><p>8位</p></td>
 <td><p>46</p></td>
+<td><p>20</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2007-08</strong></p></td>
 <td><p>リーグ1</p></td>
-<td><p>3位</p></td>
 <td><p>46</p></td>
+<td><p>23</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2009-10</strong></p></td>
 <td><p>チャンピオンシップ</p></td>
-<td><p>12位</p></td>
 <td><p>46</p></td>
+<td><p>15</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2011-12</strong></p></td>
 <td><p>チャンピオンシップ</p></td>
-<td><p>24位</p></td>
 <td><p>46</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2013-14</strong></p></td>
 <td><p>チャンピオンシップ</p></td>
-<td><p>22位</p></td>
 <td><p>46</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015-16</strong></p></td>
 <td><p>リーグ1</p></td>
-<td><p>21位</p></td>
 <td><p>46</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2017-18</strong></p></td>
 <td><p>リーグ1</p></td>
-<td><p>15位</p></td>
 <td><p>46</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2019-20</strong></p></td>
 <td><p>リーグ1</p></td>
-<td><p>位</p></td>
 <td><p>46</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

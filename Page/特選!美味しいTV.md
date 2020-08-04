@@ -11,9 +11,9 @@
 
 ## エンディングテーマ
 
-  - [丸いお尻が許せない](https://ja.wikipedia.org/wiki/丸いお尻が許せない "wikilink")（[KAN](../Page/KAN.md "wikilink")、1993年1月 - 1993年3月）
+  - [丸いお尻が許せない](../Page/丸いお尻が許せない.md "wikilink")（[KAN](../Page/KAN.md "wikilink")、1993年1月 - 1993年3月）
   - [微笑みながら](../Page/微笑みながら.md "wikilink")（[久松史奈](https://ja.wikipedia.org/wiki/久松史奈 "wikilink")）\[1\]
-  - バストアップでゆこう（[eye's](https://ja.wikipedia.org/wiki/仁科かおり "wikilink")）\[2\]
+  - バストアップでゆこう（[eye's](../Page/仁科かおり.md "wikilink")）\[2\]
 
 ## 脚注
 

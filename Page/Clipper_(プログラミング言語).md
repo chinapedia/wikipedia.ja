@@ -42,7 +42,7 @@ Nantucket Corporation による "seasonal versions"。"[dBase](../Page/DBASE.md 
 
   - Nantucket Clipper Winter'84 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")5月25日
   - Nantucket Clipper Summer'85 - 1985年
-  - Nantucket Clipper Winter'85 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")1月29日
+  - Nantucket Clipper Winter'85 - [1986年](../Page/1986年.md "wikilink")1月29日
   - Nantucket Clipper Autumn'86 - 1986年10月31日
   - Nantucket Clipper Summer'87 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")12月21日
   - Namtucket Clipper 4.5 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") 日本語バージョン

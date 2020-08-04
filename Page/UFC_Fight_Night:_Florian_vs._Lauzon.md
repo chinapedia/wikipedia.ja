@@ -40,13 +40,13 @@
     ○  [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink") vs.  [ヒューストン・アレクサンダー](../Page/ヒューストン・アレクサンダー.md "wikilink") ×
     1R 0:08 KO（右スーパーマンパンチ）
   - 第8試合 ライト級 5分3R
-    ○  [ネイサン・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink") vs.  [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink") ×
+    ○  [ネイサン・ディアス](../Page/ネイト・ディアス.md "wikilink") vs.  [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink") ×
     2R 3:06 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第9試合 ライトヘビー級 5分3R
     ○  [マット・ハミル](../Page/マット・ハミル.md "wikilink") vs.  [ティム・ボッシュ](https://ja.wikipedia.org/wiki/ティム・ボッシュ "wikilink") ×
     2R 1:25 TKO（レフェリーストップ：[マウントパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第10試合 ウェルター級 5分3R
-    ○  [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink") vs.  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") ×
+    ○  [チアゴ・アウベス](../Page/チアゴ・アウベス.md "wikilink") vs.  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") ×
     2R 0:34 TKO（レフェリーストップ：膝蹴り→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第11試合 ライト級 5分3R
     ○  [グレイ・メイナード](https://ja.wikipedia.org/wiki/グレイ・メイナード "wikilink") vs.  [フランク・エドガー](https://ja.wikipedia.org/wiki/フランク・エドガー "wikilink") ×

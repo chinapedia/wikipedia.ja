@@ -25,7 +25,7 @@ GnuCash は、[GPLのもとで配布される](../Page/GNU_General_Public_Licens
 
   - 複数の異なる[通貨](../Page/通貨.md "wikilink")を一元的に管理できる。
 
-  - および、、[OFX形式のファイルをインポートすることが可能である](https://ja.wikipedia.org/wiki/Open_Financial_Exchange "wikilink")。
+  - および、、[OFX形式のファイルをインポートすることが可能である](../Page/Open_Financial_Exchange.md "wikilink")。
 
   - データの保存には[XML形式が使われるが](../Page/Extensible_Markup_Language.md "wikilink")、バージョン 2.4.0 から[SQLite](../Page/SQLite.md "wikilink")3や[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")といった[RDBMSも利用可能になった](../Page/関係データベース管理システム.md "wikilink")。
 

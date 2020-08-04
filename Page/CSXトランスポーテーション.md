@@ -9,7 +9,7 @@
 
 ## 歴史
 
-CSXは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[シーボード・システム鉄道](https://ja.wikipedia.org/wiki/シーボード・システム鉄道 "wikilink")(SBD)が、4つの鉄道を経営していた[チェシー・システム](https://ja.wikipedia.org/wiki/チェシー・システム "wikilink")を統合し、同時に改名して誕生した鉄道である。親会社であるCSXコーポレーションは[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に設立されたものであり、その時点では持株会社であり、各鉄道同士をそれぞれ別々の名称で運営していた。以後、親会社の合併と、子会社である鉄道の合併時期が異なるものが多く、また親会社が改称したのに子会社はそのままである時期があるなど、関係を把握するには注意が必要である。
+CSXは、[1986年](../Page/1986年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[シーボード・システム鉄道](https://ja.wikipedia.org/wiki/シーボード・システム鉄道 "wikilink")(SBD)が、4つの鉄道を経営していた[チェシー・システム](https://ja.wikipedia.org/wiki/チェシー・システム "wikilink")を統合し、同時に改名して誕生した鉄道である。親会社であるCSXコーポレーションは[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に設立されたものであり、その時点では持株会社であり、各鉄道同士をそれぞれ別々の名称で運営していた。以後、親会社の合併と、子会社である鉄道の合併時期が異なるものが多く、また親会社が改称したのに子会社はそのままである時期があるなど、関係を把握するには注意が必要である。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")までに統合された鉄道を1980年時点の名称で記すと、チェシー・システム側としては
 

@@ -28,7 +28,7 @@
 ## 沿革
 
   - [1973年](../Page/1973年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")48年）4月 - 愛知県[瀬戸市](../Page/瀬戸市.md "wikilink")祖母懐町に株式会社丸和セラミック設立。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）8月 - 株式を[日本証券業協会](https://ja.wikipedia.org/wiki/日本証券業協会 "wikilink")に店頭登録。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）8月 - 株式を[日本証券業協会](../Page/日本証券業協会.md "wikilink")に店頭登録。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）6月 - 本社を現住所に移転。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）12月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")、[名古屋証券取引所](../Page/名古屋証券取引所.md "wikilink")2部に上場。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）8月 - 現商号に変更。

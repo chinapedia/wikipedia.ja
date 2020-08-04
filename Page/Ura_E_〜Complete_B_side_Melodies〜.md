@@ -16,18 +16,18 @@
 ## 収録曲
 
 1.  **fortune** - 『[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")』より
-2.  **mind** - 『[僕の手紙](https://ja.wikipedia.org/wiki/僕の手紙 "wikilink")』より
+2.  **mind** - 『[僕の手紙](../Page/僕の手紙.md "wikilink")』より
 3.  **風のはじまる場所** - 『[Z](../Page/Z_\(ZONEのアルバム\).md "wikilink")』より
 4.  **愛花** - 『[笑顔日和](../Page/笑顔日和.md "wikilink")』より
 5.  **Once Again** - 『[glory colors 〜風のトビラ〜](https://ja.wikipedia.org/wiki/glory_colors_〜風のトビラ〜 "wikilink")』より
-6.  **JET** - 『[夢ノカケラ・・・](https://ja.wikipedia.org/wiki/夢ノカケラ・・・ "wikilink")』より
+6.  **JET** - 『[夢ノカケラ・・・](../Page/夢ノカケラ・・・.md "wikilink")』より
 7.  **GO\!** - 『[O](../Page/O_\(ZONEのアルバム\).md "wikilink")』より
 8.  **Like** - 『[N](../Page/N_\(ZONEのアルバム\).md "wikilink")』より
 9.  **空想と現実の夜明け** - 『[白い花](../Page/白い花_\(ZONEの曲\).md "wikilink")』より
 10. **ROCKING** - 『[N](../Page/N_\(ZONEのアルバム\).md "wikilink")』より
 11. **For Tomorrow** - 『[証](../Page/証_\(ZONEの曲\).md "wikilink")』、『[O](../Page/O_\(ZONEのアルバム\).md "wikilink")』より
 12. **Sae Zuri** - 『[O](../Page/O_\(ZONEのアルバム\).md "wikilink")』より
-13. **H・A・N・A・B・I 〜君がいた夏〜 Ocean Version** - シングル『[H・A・N・A・B・I 〜君がいた夏〜](https://ja.wikipedia.org/wiki/H・A・N・A・B・I_〜君がいた夏〜 "wikilink")』のOcean Versionの4人特別バージョン
+13. **H・A・N・A・B・I 〜君がいた夏〜 Ocean Version** - シングル『[H・A・N・A・B・I 〜君がいた夏〜](../Page/H・A・N・A・B・I_〜君がいた夏〜.md "wikilink")』のOcean Versionの4人特別バージョン
 14. **アルバム** - 『[卒業](../Page/卒業_\(ZONEの曲\).md "wikilink")』より
 15. **旅立ち・・・** - 『[E 〜Complete A side Singles〜](../Page/E_〜Complete_A_side_Singles〜.md "wikilink")』より
 16. **一緒にいたかった** - 『[一雫](../Page/一雫.md "wikilink")』より

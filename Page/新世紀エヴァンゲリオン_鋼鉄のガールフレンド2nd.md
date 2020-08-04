@@ -50,7 +50,7 @@ PS2版・PSP版は基本的にPCゲームソフト版の移植版となる。ま
 
 ## 主題歌
 
-  - 『[無限抱擁](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_III "wikilink")』（歌:[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")）
+  - 『[無限抱擁](../Page/NEON_GENESIS_EVANGELION_III.md "wikilink")』（歌:[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")）
 
 ## 関連商品
 

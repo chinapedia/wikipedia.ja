@@ -256,7 +256,7 @@
 <!-- end list -->
 
   - 「新・オンガク生活 mu-mo」提供の、週間着うたランキングTOP5の紹介をするコーナー。
-  - この時間帯に特番が放送される場合、[SHOO POWER REQUEST](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink")（前枠番組）内で振り替え放送された（後述）か、特番に内包される形\[18\]で放送された。
+  - この時間帯に特番が放送される場合、[SHOO POWER REQUEST](../Page/SHOO_POWER_REQUEST.md "wikilink")（前枠番組）内で振り替え放送された（後述）か、特番に内包される形\[18\]で放送された。
   - このコーナーは『mu-mo シューパーランキング』として、同時間帯（SHOO POWER REQUEST）で引き続き放送されていた（現在は終了）。
 
 <!-- end list -->
@@ -299,7 +299,7 @@ FM OSAKAでは、さまざまな社会啓発キャンペーンを展開してい
 <!-- end list -->
 
   - 『愛です\!FM OSAKA〜HIV／エイズについて考えよう\!』の一環として、本番組(木曜日)に[山本シュウ](../Page/山本シュウ.md "wikilink")が出演。エイズについての様々な情報を、時間を割いて紹介していた。（2008年）
-  - FRIDAYの時間帯で放送された『FM OSAKA防災キャンペーン』の特別番組「FM大阪　みんなの防災スペシャル」のDJをみゆき・遠藤が担当。中高生からのメッセージも寄せられるなど、普段のリスナー層も取り込んだ放送となった。「mu-mo チェキチェキ☆ランキング」のみ[SHOO POWER REQUEST内で放送される異例の措置が行われた](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink")（みゆきによる録音）。（[2009年](../Page/2009年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")）
+  - FRIDAYの時間帯で放送された『FM OSAKA防災キャンペーン』の特別番組「FM大阪　みんなの防災スペシャル」のDJをみゆき・遠藤が担当。中高生からのメッセージも寄せられるなど、普段のリスナー層も取り込んだ放送となった。「mu-mo チェキチェキ☆ランキング」のみ[SHOO POWER REQUEST内で放送される異例の措置が行われた](../Page/SHOO_POWER_REQUEST.md "wikilink")（みゆきによる録音）。（[2009年](../Page/2009年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")）
 
 ## 脚注
 

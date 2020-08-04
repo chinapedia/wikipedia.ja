@@ -6,8 +6,8 @@
 ## 解説
 
   - 本人がイメージキャラクターを務めた「**[カネボウ](../Page/カネボウ化粧品.md "wikilink")'88夏のプロモーション**」の[イメージソングに起用され](../Page/コマーシャルソング.md "wikilink")、自身最大のヒット曲となった。
-  - 同年5月には、[野村誠一](../Page/野村誠一.md "wikilink")撮影による写真集「C-GIRL」、6月には、本作を収録したアルバム『[Candid Girl](https://ja.wikipedia.org/wiki/Candid_Girl "wikilink")』、7月には、同アルバムをフィーチャーしたイメージ・ビデオ『[Candid Girl -浅香唯 in Australia-](https://ja.wikipedia.org/wiki/Candid_Girl_-浅香唯_in_Australia- "wikilink")』が発売された。
-  - [1991年](../Page/1991年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に発売されたベスト・アルバム『[Thanks a lot](https://ja.wikipedia.org/wiki/Thanks_a_lot "wikilink")』には、ボーカル新録バージョンが収録されている。
+  - 同年5月には、[野村誠一](../Page/野村誠一.md "wikilink")撮影による写真集「C-GIRL」、6月には、本作を収録したアルバム『[Candid Girl](../Page/Candid_Girl.md "wikilink")』、7月には、同アルバムをフィーチャーしたイメージ・ビデオ『[Candid Girl -浅香唯 in Australia-](../Page/Candid_Girl_-浅香唯_in_Australia-.md "wikilink")』が発売された。
+  - [1991年](../Page/1991年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に発売されたベスト・アルバム『[Thanks a lot](../Page/Thanks_a_lot.md "wikilink")』には、ボーカル新録バージョンが収録されている。
   - 作曲を担当した[NOBODYが](../Page/NOBODY_\(ロックバンド\).md "wikilink")2011年に発表した30周年記念CD-BOX『NOBODY BOX 〜Early Days〜』に同曲のデモバージョンが収録されている。
 
 ## 収録曲
@@ -20,23 +20,23 @@
 ## 関連作品
 
   - **C-Girl**
-      - [Candid Girl](https://ja.wikipedia.org/wiki/Candid_Girl "wikilink")
-      - [Thanks a lot](https://ja.wikipedia.org/wiki/Thanks_a_lot "wikilink") - ボーカル新録
-      - [シングル・コレクション](https://ja.wikipedia.org/wiki/シングル・コレクション_\(浅香唯のアルバム\) "wikilink")
-      - [ANNIVERSARY 2824](https://ja.wikipedia.org/wiki/ANNIVERSARY_2824 "wikilink") （ライブ・アルバム）
-      - [浅香唯大全集 THE COMPLETE BOX](https://ja.wikipedia.org/wiki/浅香唯大全集_THE_COMPLETE_BOX "wikilink")
-      - [究極のベスト\! 浅香唯](https://ja.wikipedia.org/wiki/究極のベスト!_浅香唯 "wikilink")
+      - [Candid Girl](../Page/Candid_Girl.md "wikilink")
+      - [Thanks a lot](../Page/Thanks_a_lot.md "wikilink") - ボーカル新録
+      - [シングル・コレクション](../Page/シングル・コレクション_\(浅香唯のアルバム\).md "wikilink")
+      - [ANNIVERSARY 2824](../Page/ANNIVERSARY_2824.md "wikilink") （ライブ・アルバム）
+      - [浅香唯大全集 THE COMPLETE BOX](../Page/浅香唯大全集_THE_COMPLETE_BOX.md "wikilink")
+      - [究極のベスト\! 浅香唯](../Page/究極のベスト!_浅香唯.md "wikilink")
       - [CRYSTALS 〜25th Anniversary Best〜](https://ja.wikipedia.org/wiki/CRYSTALS_〜25th_Anniversary_Best〜 "wikilink")
       - [浅香唯 30周年記念コンプリートBOX](https://ja.wikipedia.org/wiki/浅香唯_30周年記念コンプリートBOX "wikilink")
-      - [Candid Girl](https://ja.wikipedia.org/wiki/Candid_Girl_-浅香唯_in_Australia- "wikilink") （映像作品）
-      - [Fun\!Fan\!Fun\! Yuiグラフィティ](https://ja.wikipedia.org/wiki/Fun!Fan!Fun!_Yuiグラフィティ "wikilink") （映像作品）
-      - [ロックンロール・サーカス'89 浅香唯スパークリング・ライブ](https://ja.wikipedia.org/wiki/ロックンロール・サーカス'89_浅香唯スパークリング・ライブ "wikilink") （映像作品）
+      - [Candid Girl](../Page/Candid_Girl_-浅香唯_in_Australia-.md "wikilink") （映像作品）
+      - [Fun\!Fan\!Fun\! Yuiグラフィティ](../Page/Fun!Fan!Fun!_Yuiグラフィティ.md "wikilink") （映像作品）
+      - [ロックンロール・サーカス'89 浅香唯スパークリング・ライブ](../Page/ロックンロール・サーカス'89_浅香唯スパークリング・ライブ.md "wikilink") （映像作品）
 
 <!-- end list -->
 
   - **Stay by Me**
-      - [Candid Girl](https://ja.wikipedia.org/wiki/Candid_Girl "wikilink")
-      - [浅香唯大全集 THE COMPLETE BOX](https://ja.wikipedia.org/wiki/浅香唯大全集_THE_COMPLETE_BOX "wikilink")
+      - [Candid Girl](../Page/Candid_Girl.md "wikilink")
+      - [浅香唯大全集 THE COMPLETE BOX](../Page/浅香唯大全集_THE_COMPLETE_BOX.md "wikilink")
       - [浅香唯 30周年記念コンプリートBOX](https://ja.wikipedia.org/wiki/浅香唯_30周年記念コンプリートBOX "wikilink")
 
 ## カバー

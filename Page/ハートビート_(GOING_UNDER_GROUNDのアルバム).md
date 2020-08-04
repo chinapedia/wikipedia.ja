@@ -11,16 +11,16 @@
 
 ## 収録曲
 
-1.  **[トワイライト](https://ja.wikipedia.org/wiki/トワイライト_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+1.  **[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
     （作詞・作曲：[松本素生](../Page/松本素生.md "wikilink")）
       -
         6thシングル。PVには[載寧龍二](https://ja.wikipedia.org/wiki/載寧龍二 "wikilink")が出演している。[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")「[あしたをつかめ 平成若者仕事図鑑](../Page/あしたをつかめ_平成若者仕事図鑑.md "wikilink")」主題歌。映画『[銀のエンゼル](https://ja.wikipedia.org/wiki/銀のエンゼル "wikilink")』の挿入歌にも使われた。
 2.  **リバーズエッジ**
     （作詞・作曲：松本素生）
-3.  **[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+3.  **[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
     （作詞：[河野丈洋](../Page/河野丈洋.md "wikilink")・松本素生 作曲：河野丈洋）
       -
-        7thシングル（本作発売後に[リカット](../Page/リカット.md "wikilink")）。ベースの石原聡が初めてコーラス（ボイスベース）に参加している。PVには[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")、[西尾季隆](https://ja.wikipedia.org/wiki/西尾季隆 "wikilink")([丁半コロコロ](https://ja.wikipedia.org/wiki/丁半コロコロ "wikilink"))が出演している。[ボーダフォン日本法人](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")[V601N](../Page/V601N.md "wikilink")TVCMテーマソング。
+        7thシングル（本作発売後に[リカット](../Page/リカット.md "wikilink")）。ベースの石原聡が初めてコーラス（ボイスベース）に参加している。PVには[蒼井優](../Page/蒼井優.md "wikilink")、[西尾季隆](https://ja.wikipedia.org/wiki/西尾季隆 "wikilink")([丁半コロコロ](https://ja.wikipedia.org/wiki/丁半コロコロ "wikilink"))が出演している。[ボーダフォン日本法人](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")[V601N](../Page/V601N.md "wikilink")TVCMテーマソング。
 4.  **かいき**
     （作詞・作曲：河野丈洋）
       -
@@ -39,7 +39,7 @@
         作曲を全員で手がけた作品。
 8.  **ビターズ**
     （作詞・作曲：松本素生）
-9.  **[ダイアリー](https://ja.wikipedia.org/wiki/ダイアリー_\(曲\) "wikilink")**
+9.  **[ダイアリー](../Page/ダイアリー_\(曲\).md "wikilink")**
     （作詞・作曲：松本素生）
       -
         5thシングル。PVには西尾季隆が出演している。[丸大食品](../Page/丸大食品.md "wikilink")TVCM[アテネオリンピック応援ソング](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")。CMには田村亮子(現[谷亮子](../Page/谷亮子.md "wikilink"))が出演した。

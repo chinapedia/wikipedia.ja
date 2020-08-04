@@ -311,7 +311,7 @@
 <!-- end list -->
 
   - [1月12日](../Page/1月12日.md "wikilink")、メジャー3rdアルバム「VAMPIRE SAGA」発売。
-  - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、カバーコンピレーションアルバム「CRUSH\! -90's V-Rock best hit cover songs-」にてMALICE MIZERの月下の夜想曲をカバー。
+  - [1月26日](../Page/1月26日.md "wikilink")、カバーコンピレーションアルバム「CRUSH\! -90's V-Rock best hit cover songs-」にてMALICE MIZERの月下の夜想曲をカバー。
   - [4月27日](../Page/4月27日.md "wikilink")、ライブDVD D Tour 2010 In the name of justice FINAL DVD 発売。
   - [5月7日](../Page/5月7日.md "wikilink")〜[5月22日](../Page/5月22日.md "wikilink")に初の海外ツアー「VAMPIRE SAGA in Europe 〜Path of the Rose〜」を欧州で行う。
   - [6月30日](../Page/6月30日.md "wikilink")、avexおよびスマイルカンパニーとの契約を終了、インディーズに戻る。
@@ -363,7 +363,7 @@
 
 <!-- end list -->
 
-  - [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、D Official Fun Club限定ワンマン Ultimate lover 第二十夜「しろろの森」開催。
+  - [1月26日](../Page/1月26日.md "wikilink")、D Official Fun Club限定ワンマン Ultimate lover 第二十夜「しろろの森」開催。
   - [4月7日](../Page/4月7日.md "wikilink")、D 10th Anniversary GOD CHILD RECORDS Best Selection「Treasure Box」発売。
   - [4月12日](../Page/4月12日.md "wikilink")、D 結成10周年記念ライブ、D 10th Anniversary Special Premium Live「Bon Voyage\!」開催。再度のメジャー進出を発表。
   - [8月21日](../Page/8月21日.md "wikilink")、Avexより発表した作品のベストアルバム「D 10TH ANNIVERSARY BEST ALBUM『Bloody Rose "Best Collection 2007-2011"』」がリリース予定。

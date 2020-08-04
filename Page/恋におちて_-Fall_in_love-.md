@@ -77,9 +77,9 @@ TBS「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」に
         作詞：湯川れい子　作曲：小林明子
 2.  **[わかれうた](https://ja.wikipedia.org/wiki/わかれうた "wikilink")**
       -
-        作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+        作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")
     <!-- end list -->
-      - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")が[1977年](../Page/1977年.md "wikilink")に発表したシングル曲のカバー。
+      - [中島みゆき](../Page/中島みゆき.md "wikilink")が[1977年](../Page/1977年.md "wikilink")に発表したシングル曲のカバー。
 3.  **[ENDLESS STORY](../Page/ENDLESS_STORY.md "wikilink")**
       -
         作詞・作曲：Dawn Ann Thomas　日本詞訳：[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")

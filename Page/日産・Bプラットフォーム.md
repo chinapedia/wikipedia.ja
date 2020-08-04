@@ -13,7 +13,7 @@
       - [光岡・ビュート](https://ja.wikipedia.org/wiki/光岡・ビュート "wikilink")（K12）
   - [キューブ（Z11/Z12）](../Page/日産・キューブ.md "wikilink")
   - [キューブキュービック（BZ11）](../Page/日産・キューブキュービック.md "wikilink")
-  - [リヴィナ（L10）](https://ja.wikipedia.org/wiki/日産・リヴィナ "wikilink")
+  - [リヴィナ（L10）](../Page/日産・リヴィナ.md "wikilink")
   - [リヴィナジェニス（L10）](../Page/日産・リヴィナジェニス.md "wikilink")
   - [ティーダ（C11）](https://ja.wikipedia.org/wiki/日産・ティーダ "wikilink")
   - [ティーダラティオ（SC11）](../Page/日産・ティーダラティオ.md "wikilink")
@@ -54,7 +54,7 @@
   - [2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-広州国際モーターショーに[リヴィナジェニスを出展](../Page/日産・リヴィナジェニス.md "wikilink")。
   - [2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")-[AD/ADエキスパート発売開始](https://ja.wikipedia.org/wiki/日産・ADバン "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")-[マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")バン発売開始。
-  - [2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")-上海モーターショーに[リヴィナを出展](https://ja.wikipedia.org/wiki/日産・リヴィナ "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")-上海モーターショーに[リヴィナを出展](../Page/日産・リヴィナ.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-[マイクラC+C国内発売開始](../Page/日産・マーチ.md "wikilink")、[アプリオ発売開始](../Page/日産・アプリオ.md "wikilink")。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月9日](../Page/6月9日.md "wikilink") - [ジューク発売開始](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")。
   - [2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [ラクスジェン・5](https://ja.wikipedia.org/wiki/ラクスジェン・5 "wikilink")セダン（のちにS5ターボに改称）発売開始。

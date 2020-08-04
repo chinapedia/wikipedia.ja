@@ -1,7 +1,7 @@
 > この記事は[金本 J・ノリツグ](https://ja.wikipedia.org/wiki/金本_J・ノリツグ)から翻訳されています。
 
 
-*' J.ノリツグ*'（かねもと ジェイ - J.noritsugu .J.noritsugu holst、[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - ）はヨーロッパ系移民である韓国籍の父、日本人の母を持つ[料理研究家](../Page/料理研究家.md "wikilink")・[ライフスタイルプロデューサー](https://ja.wikipedia.org/wiki/ライフスタイルプロデューサー "wikilink")・[作家](../Page/作家.md "wikilink")。2011年1月から「J.ノリツグ　ホルスト」として活動することが多い。
+*' J.ノリツグ*'（かねもと ジェイ - J.noritsugu .J.noritsugu holst、[1月26日](../Page/1月26日.md "wikilink") - ）はヨーロッパ系移民である韓国籍の父、日本人の母を持つ[料理研究家](../Page/料理研究家.md "wikilink")・[ライフスタイルプロデューサー](https://ja.wikipedia.org/wiki/ライフスタイルプロデューサー "wikilink")・[作家](../Page/作家.md "wikilink")。2011年1月から「J.ノリツグ　ホルスト」として活動することが多い。
 
 ## 人物
 

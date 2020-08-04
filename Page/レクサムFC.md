@@ -56,7 +56,7 @@
 
   - [クリス・アームストロング](https://ja.wikipedia.org/wiki/クリス・アームストロング "wikilink") 1989-1991 , 2003-2005
 
-  - [イアン・グリフィス](https://ja.wikipedia.org/wiki/イアン・グリフィス "wikilink") 1992-1992
+  - [イアン・グリフィス](../Page/イアン・グリフィス.md "wikilink") 1992-1992
 
   - [イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink") 1998-1999
 

@@ -11,7 +11,7 @@
 
 放送開始時の主要ターゲット地域は[BCL](../Page/BCL.md "wikilink")がブームとなっていた日本であったが、その他の地域でも[リスナー](../Page/リスナー.md "wikilink")が増えた。音楽好きな日本の18歳から30歳をターゲット市場とし、主に[アメリカのロック音楽を継続して流していた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。その当時の主な広告主は[セイコー](../Page/セイコーホールディングス.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[コンチネンタル・ミクロネシア](../Page/コンチネンタル・ミクロネシア.md "wikilink")航空であった。
 
-[東西冷戦](https://ja.wikipedia.org/wiki/東西冷戦 "wikilink")下でもあり、[混信](../Page/混信.md "wikilink")と[短波](../Page/短波.md "wikilink")の特性である[電離層](../Page/電離層.md "wikilink")の不安定さによる受信状態の変化に悩まされた。春と秋に[周波数](../Page/周波数.md "wikilink")を変更する必要があるが、周知する手段は『[ラジオライフ](../Page/ラジオライフ.md "wikilink")』や『[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")』など一部のBCL専門誌に限られた。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月に[クリスチャン・サイエンス・モニター](../Page/クリスチャン・サイエンス・モニター.md "wikilink")がKYOIを買収し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から放送内容を大幅に変更。[1989年](../Page/1989年.md "wikilink")に放送終了した。
+[東西冷戦](https://ja.wikipedia.org/wiki/東西冷戦 "wikilink")下でもあり、[混信](../Page/混信.md "wikilink")と[短波](../Page/短波.md "wikilink")の特性である[電離層](../Page/電離層.md "wikilink")の不安定さによる受信状態の変化に悩まされた。春と秋に[周波数](../Page/周波数.md "wikilink")を変更する必要があるが、周知する手段は『[ラジオライフ](../Page/ラジオライフ.md "wikilink")』や『[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")』など一部のBCL専門誌に限られた。[1986年](../Page/1986年.md "wikilink")12月に[クリスチャン・サイエンス・モニター](../Page/クリスチャン・サイエンス・モニター.md "wikilink")がKYOIを買収し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から放送内容を大幅に変更。[1989年](../Page/1989年.md "wikilink")に放送終了した。
 
 ## KYOI復活
 

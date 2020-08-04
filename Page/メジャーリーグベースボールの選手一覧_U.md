@@ -453,7 +453,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ugueth_Urbina" title="wikilink">Ugueth Urbina</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウーゲット・ウービナ" title="wikilink">ウーゲット・ウービナ</a></p></td>
+<td><p><a href="../Page/ウーゲット・ウービナ.md" title="wikilink">ウーゲット・ウービナ</a></p></td>
 <td><p>1995</p></td>
 <td><p>2005</p></td>
 <td></td>

@@ -1,7 +1,7 @@
 > この記事は[第11回JSLカップ](https://ja.wikipedia.org/wiki/第11回JSLカップ)から翻訳されています。
 
 
-**第11回JSLカップ**（だい11かいJSLカップ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")から[7月13日](../Page/7月13日.md "wikilink")に行われた[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")主催の大会である。大会はJSL1部、2部に所属する27チーム\[1\]参加による[トーナメント方式](../Page/トーナメント方式.md "wikilink")で争われ、[古河電気工業サッカー部](../Page/古河電気工業サッカー部.md "wikilink")が優勝した。
+**第11回JSLカップ**（だい11かいJSLカップ）は、[1986年](../Page/1986年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")から[7月13日](../Page/7月13日.md "wikilink")に行われた[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")主催の大会である。大会はJSL1部、2部に所属する27チーム\[1\]参加による[トーナメント方式](../Page/トーナメント方式.md "wikilink")で争われ、[古河電気工業サッカー部](../Page/古河電気工業サッカー部.md "wikilink")が優勝した。
 
 ## 出場クラブ
 

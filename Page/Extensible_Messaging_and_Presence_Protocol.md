@@ -7,7 +7,7 @@
 
 Jabber は Jabber 社が開発した [XML](../Page/Extensible_Markup_Language.md "wikilink") ベースの[プロトコル](../Page/プロトコル.md "wikilink")である **XMPP** を採用している。他のメジャーなインスタントメッセンジャーはその仕様もプロトコルも非公開となっているのが普通だが、Jabber はサーバもクライアントもオープンソースであり、その仕様は全て公開されている（[オープン標準](../Page/オープン標準.md "wikilink")）。そのため、たとえば[メールサーバ](https://ja.wikipedia.org/wiki/メールサーバ "wikilink")と同じように、[ドメイン名](../Page/ドメイン名.md "wikilink")と[サーバ](../Page/サーバ.md "wikilink")さえあれば自分専用の XMPP サーバを立ち上げることができる。この点でほかのインスタントメッセージと異なる。
 
-他の[インスタントメッセージングサービスの](../Page/インスタントメッセンジャー.md "wikilink")[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")となる機能も持つ。この機能を利用し、Jabber [クライアントから](../Page/クライアント_\(コンピュータ\).md "wikilink") [AOL Instant Messenger](../Page/AOL_Instant_Messenger.md "wikilink")、[MSN Messenger](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink")(.NET Messenger Service)、[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")、[IRC](https://ja.wikipedia.org/wiki/インターネット・リレー・チャット "wikilink")、[ICQ](../Page/ICQ.md "wikilink") などのネットワークにメッセージを送ることができる。ただしサービスを提供している[サーバ](../Page/サーバ.md "wikilink")によっては、日本語が通らないこともある。
+他の[インスタントメッセージングサービスの](../Page/インスタントメッセンジャー.md "wikilink")[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")となる機能も持つ。この機能を利用し、Jabber [クライアントから](../Page/クライアント_\(コンピュータ\).md "wikilink") [AOL Instant Messenger](../Page/AOL_Instant_Messenger.md "wikilink")、[MSN Messenger](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink")(.NET Messenger Service)、[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")、[IRC](https://ja.wikipedia.org/wiki/インターネット・リレー・チャット "wikilink")、[ICQ](../Page/ICQ.md "wikilink") などのネットワークにメッセージを送ることができる。ただしサービスを提供している[サーバ](../Page/サーバ.md "wikilink")によっては、日本語が通らないこともある。
 
 [Google Talk](https://ja.wikipedia.org/wiki/Google_Talk "wikilink") は、Jabber を核にしたものである。
 

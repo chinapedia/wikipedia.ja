@@ -30,7 +30,7 @@
 
 ## 入場曲
 
-  - [One Night Carnival](https://ja.wikipedia.org/wiki/One_Night_Carnival "wikilink")（[氣志團](../Page/氣志團.md "wikilink")）
+  - [One Night Carnival](../Page/One_Night_Carnival.md "wikilink")（[氣志團](../Page/氣志團.md "wikilink")）
 
 ## タイトル歴
 

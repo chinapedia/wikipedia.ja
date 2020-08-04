@@ -1,7 +1,7 @@
 > この記事は[グレイズ・アスレティックFC](https://ja.wikipedia.org/wiki/グレイズ・アスレティックFC)から翻訳されています。
 
 
-**グレイズ・アスレティック・フットボール・クラブ**（**Grays Athletic Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[エセックス州](https://ja.wikipedia.org/wiki/エセックス州 "wikilink")[サロック地区](https://ja.wikipedia.org/wiki/サーロック "wikilink")[グレイズを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/:en:Grays "wikilink")。2018-2019シーズンは[イスミアンリーグ・ディヴィジョン1・ノース](https://ja.wikipedia.org/wiki/イスミアンリーグ・ディヴィジョン1・ノース "wikilink")（8部相当）に所属。
+**グレイズ・アスレティック・フットボール・クラブ**（**Grays Athletic Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[エセックス州](https://ja.wikipedia.org/wiki/エセックス州 "wikilink")[サロック地区](https://ja.wikipedia.org/wiki/サーロック "wikilink")[グレイズを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/:en:Grays "wikilink")。2018-2019シーズンは[イスミアンリーグ・ディヴィジョン1・ノース](../Page/イスミアンリーグ・ディヴィジョン1・ノース.md "wikilink")（8部相当）に所属。
 
 ## タイトル
 
@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - [イスミアンリーグ・ディヴィジョン1・ノース](https://ja.wikipedia.org/wiki/イスミアンリーグ・ディヴィジョン1・ノース "wikilink"):1回
+  - [イスミアンリーグ・ディヴィジョン1・ノース](../Page/イスミアンリーグ・ディヴィジョン1・ノース.md "wikilink"):1回
 
 <!-- end list -->
 

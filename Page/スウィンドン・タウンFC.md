@@ -114,157 +114,25 @@
 
 ## 過去の成績
 
-<table>
-<thead>
-<tr class="header">
-<th><p>シーズン</p></th>
-<th><p>ディビジョン</p></th>
-<th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグ<br />
-カップ</a></p></th>
-<th><p><a href="../Page/欧州サッカー連盟.md" title="wikilink">欧州カップ</a> / その他</p></th>
-<th><p>最多得点者</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>リーグ</p></td>
-<td><p>試</p></td>
-<td><p>勝</p></td>
-<td><p>分</p></td>
-<td><p>敗</p></td>
-<td><p>得</p></td>
-</tr>
-<tr class="even">
-<td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ1" title="wikilink">リーグ1</a></p></td>
-<td><p>46</p></td>
-<td><p>17</p></td>
-<td><p>12</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="odd">
-<td><p>2005-06</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>11</p></td>
-<td><p>15</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="even">
-<td><p>2006-07</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ2" title="wikilink">リーグ2</a></p></td>
-<td><p>46</p></td>
-<td><p>25</p></td>
-<td><p>10</p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="odd">
-<td><p>2007-08</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>16</p></td>
-<td><p>13</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="even">
-<td><p>2008-09</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>12</p></td>
-<td><p>17</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="odd">
-<td><p>2009-10</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>22</p></td>
-<td><p>16</p></td>
-<td><p>8</p></td>
-</tr>
-<tr class="even">
-<td><p>2010-11</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>9</p></td>
-<td><p>14</p></td>
-<td><p>23</p></td>
-</tr>
-<tr class="odd">
-<td><p>2011-12</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>29</p></td>
-<td><p>6</p></td>
-<td><p>11</p></td>
-</tr>
-<tr class="even">
-<td><p>2012-13</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>20</p></td>
-<td><p>14</p></td>
-<td><p>12</p></td>
-</tr>
-<tr class="odd">
-<td><p>2013-14</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>19</p></td>
-<td><p>9</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="even">
-<td><p>2014-15</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>23</p></td>
-<td><p>10</p></td>
-<td><p>13</p></td>
-</tr>
-<tr class="odd">
-<td><p>2015-16</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>16</p></td>
-<td><p>11</p></td>
-<td><p>19</p></td>
-</tr>
-<tr class="even">
-<td><p>2016-17</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>11</p></td>
-<td><p>11</p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017-18</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>20</p></td>
-<td><p>8</p></td>
-<td><p>18</p></td>
-</tr>
-<tr class="even">
-<td><p>2018-19</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>16</p></td>
-<td><p>16</p></td>
-<td><p>14</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019-20</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| シーズン    | ディビジョン                                                      | [FAカップ](../Page/FAカップ.md "wikilink") | [リーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink") | [欧州カップ](../Page/欧州サッカー連盟.md "wikilink") / その他 | 最多得点者 |
+| ------- | ----------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------- | --------------------------------------------- | ----- |
+| リーグ     | 試                                                           | 勝                                    | 分                                                               | 敗                                             | 得     |
+| 2004-05 | [リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink") | 46                                   | 17                                                              | 12                                            | 17    |
+| 2005-06 | リーグ1                                                        | 46                                   | 11                                                              | 15                                            | 20    |
+| 2006-07 | [リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink") | 46                                   | 25                                                              | 10                                            | 11    |
+| 2007-08 | リーグ1                                                        | 46                                   | 16                                                              | 13                                            | 17    |
+| 2008-09 | リーグ1                                                        | 46                                   | 12                                                              | 17                                            | 17    |
+| 2009-10 | リーグ1                                                        | 46                                   | 22                                                              | 16                                            | 8     |
+| 2010-11 | リーグ1                                                        | 46                                   | 9                                                               | 14                                            | 23    |
+| 2011-12 | リーグ2                                                        | 46                                   | 29                                                              | 6                                             | 11    |
+| 2012-13 | リーグ1                                                        | 46                                   | 20                                                              | 14                                            | 12    |
+| 2013-14 | リーグ1                                                        | 46                                   | 19                                                              | 9                                             | 18    |
+| 2014-15 | リーグ1                                                        | 46                                   | 23                                                              | 10                                            | 13    |
+| 2015-16 | リーグ1                                                        | 46                                   | 16                                                              | 11                                            | 19    |
+| 2016-17 | リーグ1                                                        | 46                                   | 11                                                              | 11                                            | 24    |
+| 2017-18 | リーグ2                                                        | 46                                   | 20                                                              | 8                                             | 18    |
+| 2018-19 | リーグ2                                                        | 46                                   | 16                                                              | 16                                            | 14    |
+| 2019-20 | リーグ2                                                        | 46                                   |                                                                 |                                               |       |
 
 ## 歴代監督
 

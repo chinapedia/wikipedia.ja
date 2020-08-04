@@ -22,11 +22,11 @@
 
 <!-- end list -->
 
-1.  **[Mirror](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")**
+1.  **[Mirror](../Page/Mirrorcle_World.md "wikilink")**
       -
         [composition](../Page/作曲.md "wikilink") & [arrangement](../Page/編曲.md "wikilink") : [Yuta Nakano](../Page/中野雄太.md "wikilink")
         ワンコーラスのみの楽曲。
-        後にアレンジされ、43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」として発売された。
+        後にアレンジされ、43rdシングル「[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")」として発売された。
 2.  **(don't) Leave me alone**
       -
         composition : [Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / arrangement : [H∧L](https://ja.wikipedia.org/wiki/H∧L "wikilink")

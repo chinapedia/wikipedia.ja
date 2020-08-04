@@ -1,7 +1,7 @@
 > この記事は[WOOL \(アルバム\)](https://ja.wikipedia.org/wiki/WOOL_\(アルバム\))から翻訳されています。
 
 
-『**WOOL**』（ウール）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のベストアルバム。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**WOOL**』（ウール）は、[SMAP](../Page/SMAP.md "wikilink")のベストアルバム。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 
@@ -28,7 +28,7 @@
 
 1.  **[働く人々](https://ja.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")**
       -
-        作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
     <!-- end list -->
       - 6thアルバム『[SMAP 006〜SEXY SIX〜](https://ja.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")』収録曲。
     <!-- end list -->
@@ -214,7 +214,7 @@
   - Guitar: Nobuyasu Horikoshi
   - Tenor Sax Solo: [Michael Brecker](../Page/マイケル・ブレッカー.md "wikilink")
   - Trumpet Solo: [Randy Brecker](../Page/ランディ・ブレッカー.md "wikilink")
-  - The Other Instruments & Chorus: [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - The Other Instruments & Chorus: [Masayuki Iwata](../Page/岩田雅之.md "wikilink")
 
 ### 気になる
 

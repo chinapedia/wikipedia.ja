@@ -1,7 +1,7 @@
 > この記事は[SPLASH \(アルバム\)](https://ja.wikipedia.org/wiki/SPLASH_\(アルバム\))から翻訳されています。
 
 
-『**SPLASH**』（スプラッシュ）は、[福永恵規](../Page/福永恵規.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月14日](../Page/11月14日.md "wikilink")に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。[CD帯のコピーは](https://ja.wikipedia.org/wiki/帯#レコード類の帯 "wikilink")、「**SATOMIとバカンス、恋にスプラッシュ\!**」。
+『**SPLASH**』（スプラッシュ）は、[福永恵規](../Page/福永恵規.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。[CD帯のコピーは](https://ja.wikipedia.org/wiki/帯#レコード類の帯 "wikilink")、「**SATOMIとバカンス、恋にスプラッシュ\!**」。
 
 今作に収録されているシングル曲2曲は、どちらも「NEW REMIX」としてシングル版とミックスが異なっている。このバージョンは、本作品にのみ収録。
 

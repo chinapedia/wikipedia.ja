@@ -22,7 +22,7 @@
         作詞：阿久悠、作曲：森田公一、編曲：竜崎孝路
 3.  **[しあわせ芝居](../Page/しあわせ芝居.md "wikilink")**（3:48）
       -
-        作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[船山基紀](../Page/船山基紀.md "wikilink")
+        作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：[船山基紀](../Page/船山基紀.md "wikilink")
         [第29回NHK紅白歌合戦](../Page/第29回NHK紅白歌合戦.md "wikilink") 歌唱曲
 4.  **[夏にご用心](../Page/夏にご用心.md "wikilink")**（2:26）
       -

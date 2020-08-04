@@ -7,7 +7,7 @@
 
 1993年に、作曲家部門1位を取ったことを理由に、オリジナルアルバム『[T](../Page/T_\(織田哲郎のアルバム\).md "wikilink")』と同時に発売した[セルフカバー](../Page/セルフカバー.md "wikilink")アルバム。
 
-「[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")」を歌い、[T-BOLAN](../Page/T-BOLAN.md "wikilink")「[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")」のレコーディングで参加した[TWINZER](../Page/TWINZER.md "wikilink")の[生沢佑一](../Page/生沢佑一.md "wikilink")、「[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")」、「[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")」の原曲を歌った[DEEN](../Page/DEEN.md "wikilink")の[池森秀一](../Page/池森秀一.md "wikilink")、「[チョット](../Page/チョット.md "wikilink")」の原曲を歌った[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、また「[咲き誇れ愛しさよ](https://ja.wikipedia.org/wiki/咲き誇れ愛しさよ "wikilink")」では元[ZABADAK](../Page/ZABADAK.md "wikilink")の[上野洋子](../Page/上野洋子.md "wikilink")がコーラスで参加している。
+「[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")」を歌い、[T-BOLAN](../Page/T-BOLAN.md "wikilink")「[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")」のレコーディングで参加した[TWINZER](../Page/TWINZER.md "wikilink")の[生沢佑一](../Page/生沢佑一.md "wikilink")、「[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")」、「[翼を広げて](../Page/翼を広げて.md "wikilink")」の原曲を歌った[DEEN](../Page/DEEN.md "wikilink")の[池森秀一](../Page/池森秀一.md "wikilink")、「[チョット](../Page/チョット.md "wikilink")」の原曲を歌った[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、また「[咲き誇れ愛しさよ](https://ja.wikipedia.org/wiki/咲き誇れ愛しさよ "wikilink")」では元[ZABADAK](../Page/ZABADAK.md "wikilink")の[上野洋子](../Page/上野洋子.md "wikilink")がコーラスで参加している。
 
 また、「[SUMMER DREAM](../Page/SUMMER_DREAM.md "wikilink")」は初めて楽器を使用せず、[鈴木康志](../Page/鈴木康志.md "wikilink")のコーラスを使用した楽曲。「咲き誇れ愛しさよ」、[TUBE](../Page/TUBE.md "wikilink")、[亜蘭知子](../Page/亜蘭知子.md "wikilink")らのプロジェクトユニット「[渚のオールスターズ](../Page/渚のオールスターズ.md "wikilink")」名義で歌った「Be My Venus」以外の全曲は、『[complete of 織田哲郎 at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_織田哲郎_at_the_BEING_studio "wikilink")』に収録されている。
 
@@ -31,9 +31,9 @@
       - 作詞：[森友嵐士](../Page/森友嵐士.md "wikilink")、作曲・編曲：織田哲郎
 9.  **[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")** - 原曲：[TWINZER](../Page/TWINZER.md "wikilink")
       - 作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")、作曲・編曲：織田哲郎
-10. **[揺れる想い](../Page/揺れる想い.md "wikilink")** - 原曲：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
+10. **[揺れる想い](../Page/揺れる想い.md "wikilink")** - 原曲：[ZARD](../Page/ZARD.md "wikilink")
       - 作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")、作曲・編曲：織田哲郎
-11. **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")** - 原曲：DEEN
+11. **[翼を広げて](../Page/翼を広げて.md "wikilink")** - 原曲：DEEN
       - 作詞：坂井泉水、作曲：織田哲郎、編曲：JIMMIE HASKELL
 
 ## 参加ミュージシャン

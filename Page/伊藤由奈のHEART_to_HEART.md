@@ -54,7 +54,7 @@
 
 4月、番組放送開始。
 
-第20回、第21回は[秋田](../Page/秋田県.md "wikilink")・[秋田拠点センターアルヴェ](../Page/秋田拠点センターアルヴェ.md "wikilink")にて[AFMの人気番組](../Page/エフエム秋田.md "wikilink")「JAM the Music」とのコラボレーションで[7月29日](../Page/7月29日.md "wikilink")に行われた番組初の公開録音の模様が放送された。ライブも行われ、「[ENDLESS STORY](../Page/ENDLESS_STORY.md "wikilink") -Acoustic Version-」、「[Mahaloha](https://ja.wikipedia.org/wiki/Mahaloha "wikilink") -Acoustic Version-」が披露された。
+第20回、第21回は[秋田](../Page/秋田県.md "wikilink")・[秋田拠点センターアルヴェ](../Page/秋田拠点センターアルヴェ.md "wikilink")にて[AFMの人気番組](../Page/エフエム秋田.md "wikilink")「JAM the Music」とのコラボレーションで[7月29日](../Page/7月29日.md "wikilink")に行われた番組初の公開録音の模様が放送された。ライブも行われ、「[ENDLESS STORY](../Page/ENDLESS_STORY.md "wikilink") -Acoustic Version-」、「[Mahaloha](../Page/Mahaloha.md "wikilink") -Acoustic Version-」が披露された。
 
 第27回、第28回は[鹿児島](../Page/鹿児島県.md "wikilink")・[アミュプラザ鹿児島](https://ja.wikipedia.org/wiki/アミュプラザ鹿児島 "wikilink")で[9月21日](../Page/9月21日.md "wikilink")に行われた公開録音の模様が放送された。ライブも行われ、「[Precious](https://ja.wikipedia.org/wiki/Precious_\(伊藤由奈の曲\) "wikilink") -Acoustic Version-」が披露された。
 

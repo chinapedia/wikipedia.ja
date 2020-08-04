@@ -3,7 +3,7 @@
 
 『**SEE YA**』（スィー・ヤ）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の13作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
-[1993年](../Page/1993年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")はAPO-CDとして、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")は[CD](https://ja.wikipedia.org/wiki/CD "wikilink")として、[2009年](../Page/2009年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")は[SHM-CDとして再発売された](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")。
+[1993年](../Page/1993年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")はAPO-CDとして、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")は[CD](https://ja.wikipedia.org/wiki/CD "wikilink")として、[2009年](../Page/2009年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")は[SHM-CDとして再発売された](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")。
 
 ## 背景・制作
 
@@ -19,7 +19,7 @@ ASKAは1989年の秋に渡英し、現地でミュージシャン、アレンジ
 
 初回限定盤はスリーブ・ケース、ブックレット封入。本作のCDジャケットから“**CHAGE AND ASKA**”のロゴが使用されている\[2\]。
 
-2009年10月21日には、紙ジャケット・シリーズの一環として[SHM-CD仕様で](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")より再発売された。
+2009年10月21日には、紙ジャケット・シリーズの一環として[SHM-CD仕様で](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")より再発売された。
 
 ## チャート成績
 

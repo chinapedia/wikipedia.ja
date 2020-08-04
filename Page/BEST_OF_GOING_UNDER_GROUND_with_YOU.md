@@ -15,7 +15,7 @@
       -
         作曲：[河野丈洋](../Page/河野丈洋.md "wikilink")
         [インストゥルメンタル](../Page/器楽曲.md "wikilink")。本作のための書き下ろし作品。
-2.  **[トワイライト](https://ja.wikipedia.org/wiki/トワイライト_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+2.  **[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
       -
         作詞・作曲:[松本素生](../Page/松本素生.md "wikilink")
         6thシングル。
@@ -23,7 +23,7 @@
       -
         作詞・作曲:河野丈洋
         14thシングル。アルバム初収録。
-4.  **[グラフティー](https://ja.wikipedia.org/wiki/グラフティー "wikilink") (album mix)**
+4.  **[グラフティー](../Page/グラフティー.md "wikilink") (album mix)**
       -
         作詞・作曲:松本素生
         メジャーデビューシングル。今作にはアルバムバージョンが収録されている。
@@ -31,7 +31,7 @@
       -
         作詞・作曲:河野丈洋
         10thシングル。このアルバムに収録されているのは2コーラス目を河野が歌っているシングルバージョンである。
-6.  **[ダイアリー](https://ja.wikipedia.org/wiki/ダイアリー_\(曲\) "wikilink")**
+6.  **[ダイアリー](../Page/ダイアリー_\(曲\).md "wikilink")**
       -
         作詞・作曲:松本素生
         5thシングル。
@@ -39,11 +39,11 @@
       -
         作詞・作曲:松本素生
         1stアルバム『かよわきエナジー』より。
-8.  **[同じ月を見てた](https://ja.wikipedia.org/wiki/同じ月を見てた "wikilink")**
+8.  **[同じ月を見てた](../Page/同じ月を見てた.md "wikilink")**
       -
         作詞・作曲:松本素生
         9thシングル。
-9.  **[ランブル](https://ja.wikipedia.org/wiki/ランブル "wikilink")**
+9.  **[ランブル](../Page/ランブル.md "wikilink")**
       -
         作詞・作曲:松本素生
         4thシングル。
@@ -51,7 +51,7 @@
       -
         作詞・作曲:河野丈洋
         2ndアルバム『[ホーム](../Page/ホーム_\(GOING_UNDER_GROUNDのアルバム\).md "wikilink")』より。
-11. **[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+11. **[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
       -
         作詞・作曲:河野丈洋
         7thシングル。
@@ -67,7 +67,7 @@
       -
         作詞・作曲:松本素生
         4thアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』より。
-15. **[STAND BY ME](https://ja.wikipedia.org/wiki/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+15. **[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
       -
         作詞・作曲:松本素生
         11thシングル。

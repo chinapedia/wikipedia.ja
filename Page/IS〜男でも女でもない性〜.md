@@ -430,7 +430,7 @@
   - チーフプロデューサー - 岡部紳二
   - プロデューサー - 中川順平・森田昇（テレビ東京）、山田大作（オスカープロ）
   - 企画 - [古賀誠一](https://ja.wikipedia.org/wiki/古賀誠一 "wikilink")
-  - 制作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")
+  - 制作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")
   - 制作著作 - 「IS」製作委員会
 
 ### 主題歌

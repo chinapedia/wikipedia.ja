@@ -10,7 +10,7 @@
   - [1981年](../Page/1981年.md "wikilink") - 岐阜連絡事務所を開設
   - [1982年](../Page/1982年.md "wikilink") - 三河営業所を開設
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 奈良営業所を開設
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 東三河営業所（現 豊橋営業所）・中濃営業所（現 岐阜営業所）を開設
+  - [1986年](../Page/1986年.md "wikilink") - 東三河営業所（現 豊橋営業所）・中濃営業所（現 岐阜営業所）を開設
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 滋賀出張所（現 京滋営業所）を開設、商号を「株式会社NITTOH」（登記上は株式会社ニットー）に改称
   - [1992年](../Page/1992年.md "wikilink") - 本社を現住所に移転、東京営業所を開設
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 三重営業所を開設

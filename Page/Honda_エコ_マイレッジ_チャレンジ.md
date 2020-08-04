@@ -46,7 +46,7 @@
 | 第3回       | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）10月9日  | 桶川         | 973.68km/L    | クライスコルベンモーター    |
 | 第4回       | [1984年](../Page/1984年.md "wikilink")（昭和59年）10月21日                    | 桶川         | 932.77km/L    | 青山学院大学熱工学研究     |
 | 第5回       | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月27日 | 桶川         | 1,140.00km/L  | 爽風会\&SRT        |
-| 第6回       | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）11月9日  | 桶川         | 999.10km/L    | 爽風会&タクIVY NO\!  |
+| 第6回       | [1986年](../Page/1986年.md "wikilink")（昭和61年）11月9日                     | 桶川         | 999.10km/L    | 爽風会&タクIVY NO\!  |
 | 第7回       | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）10月25日 | 桶川         | 832.40km/L    | EVOLITON-III    |
 | 第8回       | [1988年](../Page/1988年.md "wikilink")（昭和63年）10月23日                    | 桶川         | 1,396.64km/L  | 再輝              |
 | 第9回       | [1989年](../Page/1989年.md "wikilink")（平成元年）9月24日                      | 桶川         | 1,253.73km/L  | 再輝              |

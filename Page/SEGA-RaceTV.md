@@ -21,7 +21,7 @@
 
 メーカーからのライセンスにより、以下の8台の[オープンカー](../Page/オープンカー.md "wikilink")が登場する。
 
-  - [ロードスターRS](../Page/マツダ・ロードスター.md "wikilink")（[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")）
+  - [ロードスターRS](../Page/マツダ・ロードスター.md "wikilink")（[マツダ](../Page/マツダ.md "wikilink")）
   - [エクリプス スパイダーGT](../Page/三菱・エクリプス.md "wikilink")（[三菱](../Page/三菱自動車工業.md "wikilink")）
   - [コルベット スティングレイ コンバーチブル](../Page/シボレー・コルベット.md "wikilink")（[シボレー](../Page/シボレー.md "wikilink")）
   - [マスタングGT コンバーチブル](../Page/フォード・マスタング.md "wikilink")（[フォード](../Page/フォード・モーター.md "wikilink")）

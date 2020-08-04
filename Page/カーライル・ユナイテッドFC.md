@@ -1,7 +1,7 @@
 > この記事は[カーライル・ユナイテッドFC](https://ja.wikipedia.org/wiki/カーライル・ユナイテッドFC)から翻訳されています。
 
 
-**カーライル・ユナイテッド・フットボール・クラブ**（**Carlisle United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[カンブリア州](https://ja.wikipedia.org/wiki/カンブリア州 "wikilink")、[カーライルを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/カーライル_\(イングランド\) "wikilink")。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
+**カーライル・ユナイテッド・フットボール・クラブ**（**Carlisle United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[カンブリア州](https://ja.wikipedia.org/wiki/カンブリア州 "wikilink")、[カーライルを本拠地とするサッカークラブチームである](../Page/カーライル_\(イングランド\).md "wikilink")。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
 
 1974-75シーズンにクラブ史上初のトップディビジョンを経験。しかし僅か1シーズンで降格、以降トップディビジョンからは遠ざかっており、2004-05シーズンには実質5部リーグとなる[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")に所属するなど近年は低迷期が続いている。
 

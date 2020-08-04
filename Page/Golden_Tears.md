@@ -9,11 +9,11 @@
 
 デビュー10年目の最後を飾るアルバムであるが、これまでのアルバム同様、自身の現在進行形をそのまま表現したものとなっている。[BONNIE PINK自身は](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")10周年を意識したのは、アルバムのタイトルのみであるという\[1\]。
 
-本アルバムの発売にあたって、「[So Wonderful](https://ja.wikipedia.org/wiki/So_Wonderful "wikilink")」が先行シングルとしてリリースされた。
+本アルバムの発売にあたって、「[So Wonderful](../Page/So_Wonderful.md "wikilink")」が先行シングルとしてリリースされた。
 
 ## 収録曲
 
-1.  **[So Wonderful](https://ja.wikipedia.org/wiki/So_Wonderful "wikilink")** （3:27）
+1.  **[So Wonderful](../Page/So_Wonderful.md "wikilink")** （3:27）
       -
         （作詞・作曲：[BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")　 ）
 2.  **Paradiddle-free** （3:19）
@@ -35,7 +35,7 @@
       -
         （作詞・作曲：BONNIE PINK　 ）
           -
-            シングル『[So Wonderful](https://ja.wikipedia.org/wiki/So_Wonderful "wikilink")』に収録された同曲の原曲。
+            シングル『[So Wonderful](../Page/So_Wonderful.md "wikilink")』に収録された同曲の原曲。
 8.  **Monster** （3:31）
       -
         （作詞・作曲：BONNIE PINK　 ）

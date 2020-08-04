@@ -7,7 +7,7 @@
 
 ## 大会概要
 
-メインイベントの[マイク・スウィック](../Page/マイク・スウィック.md "wikilink")対[ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink")戦では、ウェルター級に転向後初の復帰戦となったスウィックがバークマンを2-0の判定で破った。
+メインイベントの[マイク・スウィック](../Page/マイク・スウィック.md "wikilink")対[ジョシュ・バークマン](../Page/ジョシュ・バークマン.md "wikilink")戦では、ウェルター級に転向後初の復帰戦となったスウィックがバークマンを2-0の判定で破った。
 
 [Icon Sportライト級王者ジャスティン](https://ja.wikipedia.org/wiki/Icon_Sport "wikilink")・バックホルツがUFCデビュー。
 
@@ -34,7 +34,7 @@
 ### メインカード
 
   - 第6試合 ライト級 5分3R
-    ○  [ネイサン・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink") vs.  アルヴィン・ロビンソン ×
+    ○  [ネイサン・ディアス](../Page/ネイト・ディアス.md "wikilink") vs.  アルヴィン・ロビンソン ×
     1R 3:39 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第7試合 ライト級 5分3R
     ○  [チアゴ・タバレス](../Page/チアゴ・タバレス.md "wikilink") vs.  [小見川道大](../Page/小見川道大.md "wikilink") ×
@@ -43,7 +43,7 @@
     ○  [パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink") vs.  [ドリュー・マクフェドリーズ](https://ja.wikipedia.org/wiki/ドリュー・マクフェドリーズ "wikilink") ×
     1R 1:44 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第9試合 ウェルター級 5分3R
-    ○  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") vs.  [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink") ×
+    ○  [マイク・スウィック](../Page/マイク・スウィック.md "wikilink") vs.  [ジョシュ・バークマン](../Page/ジョシュ・バークマン.md "wikilink") ×
     3R終了 判定2-0（29-28、29-28、29-29）
 
 ### 各賞

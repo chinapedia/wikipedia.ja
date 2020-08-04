@@ -3658,7 +3658,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:J.R._Towles" title="wikilink">J.R. Towles</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/J.R.タウルズ" title="wikilink">J.R.タウルズ</a></p></td>
+<td><p><a href="../Page/J.R.タウルズ.md" title="wikilink">J.R.タウルズ</a></p></td>
 <td><p>2007</p></td>
 <td><p>2011</p></td>
 <td></td>

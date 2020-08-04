@@ -21,11 +21,11 @@
       - [松任谷由実](../Page/松任谷由実.md "wikilink")（当時：荒井由実）のカヴァー。「雪の華」のカップリング曲。
 4.  **[未来予想図II](../Page/未来予想図II.md "wikilink")**（作詞・作曲：[吉田美和](../Page/吉田美和.md "wikilink")）
       - [DREAMS COME TRUEのカヴァー](../Page/DREAMS_COME_TRUE.md "wikilink")。
-5.  **[かもめはかもめ](https://ja.wikipedia.org/wiki/かもめはかもめ "wikilink")**（作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")）
+5.  **[かもめはかもめ](https://ja.wikipedia.org/wiki/かもめはかもめ "wikilink")**（作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")）
       - [研ナオコ](../Page/研ナオコ.md "wikilink")のカヴァー。
 6.  **[セカンド・ラブ](../Page/セカンド・ラブ_\(曲\).md "wikilink")**（作詞：[来生えつこ](../Page/来生えつこ.md "wikilink") / 作曲：[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")）
       - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のカヴァー。のちに作曲者・来生たかおも[セルフカバー](../Page/セルフカバー.md "wikilink")している。
-7.  **[シングル・アゲイン](https://ja.wikipedia.org/wiki/シングル・アゲイン "wikilink")**（作詞・作曲：[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")）
+7.  **[シングル・アゲイン](../Page/シングル・アゲイン.md "wikilink")**（作詞・作曲：[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")）
       - 竹内まりやのカヴァー。[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送の[山下達郎のJACCSカード サンデー・ソングブックの中で同バージョンがオンエアされた](../Page/山下達郎のサンデー・ソングブック.md "wikilink")。
 8.  **[あなた](../Page/あなた_\(小坂明子の曲\).md "wikilink")**（作詞・作曲：[小坂明子](../Page/小坂明子.md "wikilink")）
       - 小坂明子のカヴァー。

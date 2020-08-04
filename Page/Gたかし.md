@@ -6,7 +6,7 @@
 ## 来歴・人物
 
   - [和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")芸術学科中退\[2\]。漫画で第99回[スピリッツ賞努力賞を受賞している](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")\[3\]。
-  - 24歳の時には[キャバクラ](https://ja.wikipedia.org/wiki/キャバクラ "wikilink")の店員をやっていたが、その頃に当時近所に住んでいた元お笑い芸人の人に芸人になることを勧められ、25歳の時にお笑い養成所に入る\[4\]。
+  - 24歳の時には[キャバクラ](../Page/キャバクラ.md "wikilink")の店員をやっていたが、その頃に当時近所に住んでいた元お笑い芸人の人に芸人になることを勧められ、25歳の時にお笑い養成所に入る\[4\]。
   - [浅井企画](../Page/浅井企画.md "wikilink")お笑いタレントセミナー1期生出身。かつては、ここでの同期生の矢野正樹（現・[ガリベンズ](https://ja.wikipedia.org/wiki/ガリベンズ "wikilink")矢野）とコンビを組んで活動していた\[5\]。
   - [2005年](../Page/2005年.md "wikilink")に活動開始。旧芸名は**直井たかし**、**グラップラーたかし**。過去に[SMA NEET Project](../Page/SMA_NEET_Project.md "wikilink") → [オフィスインディーズ](https://ja.wikipedia.org/wiki/オフィスインディーズ "wikilink")（[2007年](../Page/2007年.md "wikilink")から） → [トップ・カラー](https://ja.wikipedia.org/wiki/トップ・カラー "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から）に所属していた。
   - 趣味は、漫画・格闘技・バイク・ゲーム。

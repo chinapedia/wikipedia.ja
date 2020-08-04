@@ -14,7 +14,7 @@
   - 13歳からフレンチホルンを始め、後にトランペットに転向。
   - 14歳から独学でドラムを始め、ハードロックバンドのドラマーとして活動。楽器屋のイメージバンドとして雑誌等に掲載される。
   - 17歳より演歌歌手のバックバンドでプロドラマーとして活動を開始。
-  - [結城梨沙](https://ja.wikipedia.org/wiki/結城梨沙 "wikilink") with JUSTICE、FLAME、REALIZE、LISZT、[抱きしめたい☆](https://ja.wikipedia.org/wiki/抱きしめたい☆ "wikilink")、La-Vie、Blaw job Silver、[しばあみ](https://ja.wikipedia.org/wiki/しばあみ "wikilink")、[good-cool](https://ja.wikipedia.org/wiki/good-cool "wikilink")、EXcellent〜Destinyなどのアーティストのサポートドラマーをつとめる傍ら、ハウスバンドのドラマーや音楽学校の客員講師としても活動。
+  - [結城梨沙](../Page/結城梨沙.md "wikilink") with JUSTICE、FLAME、REALIZE、LISZT、[抱きしめたい☆](https://ja.wikipedia.org/wiki/抱きしめたい☆ "wikilink")、La-Vie、Blaw job Silver、[しばあみ](https://ja.wikipedia.org/wiki/しばあみ "wikilink")、[good-cool](https://ja.wikipedia.org/wiki/good-cool "wikilink")、EXcellent〜Destinyなどのアーティストのサポートドラマーをつとめる傍ら、ハウスバンドのドラマーや音楽学校の客員講師としても活動。
   - 芸能事務所に所属し、俳優としてVシネマやテレビドラマ、CM等に出演。雑誌モデル（ファッション誌ではない）としても活動していた。
   - 1999年、[矢沢永吉](../Page/矢沢永吉.md "wikilink")LOTTA GOOD TIME ツアー(武道館5DAYS)にバックダンサーとして参加。
   - 2005年、[野口五郎](../Page/野口五郎.md "wikilink")のプロデュースするバンド[Welsh BluesCPに正式加入](../Page/Welsh_BluesCP.md "wikilink")。
@@ -44,7 +44,7 @@
 
   - [藤崎涼のホームページ](http://downupbeat.com/ryo/)（公式サイト）
 
-  - [ドラマー涼の激辛ブログ](http://blog.goo.ne.jp/ryo_drummer/)（旧ブログ）
+  - [ドラマー涼の激辛ブログ](https://blog.goo.ne.jp/ryo_drummer)（旧ブログ）
 
   - [ドラマー藤崎涼の激辛ブログ"Eat with FIre"](https://downupbeat.com/gekikara/)（新ブログ）
 

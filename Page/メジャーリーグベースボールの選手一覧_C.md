@@ -305,7 +305,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Cain" title="wikilink">Bob Cain</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ケイン" title="wikilink">ボブ・ケイン</a></p></td>
+<td><p><a href="../Page/ボブ・ケイン.md" title="wikilink">ボブ・ケイン</a></p></td>
 <td><p>1949</p></td>
 <td><p>1954</p></td>
 <td></td>
@@ -3766,7 +3766,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jaye_Chapman" title="wikilink">Jaye Chapman</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイ・チャップマン" title="wikilink">ジェイ・チャップマン</a></p></td>
+<td><p><a href="../Page/ジェイ・チャップマン.md" title="wikilink">ジェイ・チャップマン</a></p></td>
 <td><p>2012</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -5377,7 +5377,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Taylor_Clarke" title="wikilink">Taylor Clarke</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テイラー・クラーク" title="wikilink">テイラー・クラーク</a></p></td>
+<td><p><a href="../Page/テイラー・クラーク.md" title="wikilink">テイラー・クラーク</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -6099,7 +6099,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alan_Cockrell" title="wikilink">Alan Cockrell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・コックレル" title="wikilink">アラン・コックレル</a></p></td>
+<td><p><a href="../Page/アラン・コックレル.md" title="wikilink">アラン・コックレル</a></p></td>
 <td><p>1996</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -7893,7 +7893,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ron_Coomer" title="wikilink">Ron Coomer</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロン・クーマー" title="wikilink">ロン・クーマー</a></p></td>
+<td><p><a href="../Page/ロン・クーマー.md" title="wikilink">ロン・クーマー</a></p></td>
 <td><p>1995</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -7956,7 +7956,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Sam_Coonrod" title="wikilink">Sam Coonrod</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サム・クーンロッド" title="wikilink">サム・クーンロッド</a></p></td>
+<td><p><a href="../Page/サム・クーンロッド.md" title="wikilink">サム・クーンロッド</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>

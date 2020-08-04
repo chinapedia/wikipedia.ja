@@ -1,7 +1,7 @@
 > この記事は[男と女II](https://ja.wikipedia.org/wiki/男と女II)から翻訳されています。
 
 
-『**男と女II**』（*Un homme et une femme, 20 ans déjà*）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の[フランス映画](../Page/フランスの映画.md "wikilink")。
+『**男と女II**』（*Un homme et une femme, 20 ans déjà*）は、[1986年](../Page/1986年.md "wikilink")の[フランス映画](../Page/フランスの映画.md "wikilink")。
 
 [クロード・ルルーシュ](../Page/クロード・ルルーシュ.md "wikilink")、[ジャン＝ルイ・トランティニャン](../Page/ジャン＝ルイ・トランティニャン.md "wikilink")、[アヌーク・エーメ](../Page/アヌーク・エーメ.md "wikilink")が結集し、『[男と女](../Page/男と女.md "wikilink")』の続編であり、彼らの20年後を描いた作品。今回は[ピエール・バルー](../Page/ピエール・バルー.md "wikilink")は参加していない。
 

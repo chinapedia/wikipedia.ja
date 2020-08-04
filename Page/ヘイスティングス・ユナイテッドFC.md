@@ -1,7 +1,7 @@
 > この記事は[ヘイスティングス・ユナイテッドFC](https://ja.wikipedia.org/wiki/ヘイスティングス・ユナイテッドFC)から翻訳されています。
 
 
-**ヘイスティングス・ユナイテッド・フットボール・クラブ**（**Hastings United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス州](https://ja.wikipedia.org/wiki/イースト・サセックス州 "wikilink")、[ヘイスティングス](../Page/ヘイスティングス.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[イスミアンリーグ・ディヴィジョン1・サウス](https://ja.wikipedia.org/wiki/イスミアンリーグ・ディヴィジョン1・サウス "wikilink")（8部相当）に所属。
+**ヘイスティングス・ユナイテッド・フットボール・クラブ**（**Hastings United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス州](https://ja.wikipedia.org/wiki/イースト・サセックス州 "wikilink")、[ヘイスティングス](../Page/ヘイスティングス.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[イスミアンリーグ・ディヴィジョン1・サウス](../Page/イスミアンリーグ・ディヴィジョン1・サウス.md "wikilink")（8部相当）に所属。
 
 ## クラブ各種記録
 

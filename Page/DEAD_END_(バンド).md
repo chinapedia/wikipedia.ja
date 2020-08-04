@@ -29,7 +29,7 @@
 
 当時、「LIAR」「RAJAS」「[TERRA ROSA](../Page/テラ・ローザ_\(バンド\).md "wikilink")」はロックシーンでかなり名の通ったバンド達で、そこからのメンバーで構成されたDEAD ENDはデビュー前から注目を浴びており、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月の[大阪](../Page/大阪.md "wikilink")・バーボンハウスで行われた[ライヴは](../Page/演奏会.md "wikilink")、デビューライヴにして470人の観客を動員。ライヴをやるたびに動員を増やしては、全国各地の[ライヴハウス](https://ja.wikipedia.org/wiki/ライヴハウス "wikilink")動員記録をたて続けに塗り替えて行く\[3\]。
 
-翌[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、"DADEMONIUM BREAK TOUR'86 Vol.1"と題しての全国ツアーを開催。このツアー直後、DEAD END結成の中心人物であるTAKAHIRO (Gt) が脱退。後任にTERRA ROSAに在籍した状態で[YOUが加入し](../Page/足立祐二.md "wikilink")、レコーディングに参加する\[4\]。
+翌[1986年](../Page/1986年.md "wikilink")には、"DADEMONIUM BREAK TOUR'86 Vol.1"と題しての全国ツアーを開催。このツアー直後、DEAD END結成の中心人物であるTAKAHIRO (Gt) が脱退。後任にTERRA ROSAに在籍した状態で[YOUが加入し](../Page/足立祐二.md "wikilink")、レコーディングに参加する\[4\]。
 
 同年6月、インディーズレーベルから1stアルバム『[DEAD LINE](https://ja.wikipedia.org/wiki/DEAD_LINE_\(DEAD_ENDのアルバム\) "wikilink")』を1万枚限定でリリース。このアルバムリリースを記念しての大阪・バーボンハウスで開かれた発売記念[ギグ](https://ja.wikipedia.org/wiki/ギグ "wikilink")に800人を動員。今ほどメジャーでは無かったインディーズシーンにおいて2万枚の売上を記録し、2万枚突破を記念して制作されたピクチャー盤も予約のみで完売した\[5\]。
 
@@ -39,7 +39,7 @@
 
 [2009年](../Page/2009年.md "wikilink")、DEAD ENDの再結成を発表\[12\]。[8月15日](../Page/8月15日.md "wikilink")に幕張メッセで行われた「[JACK IN THE BOX](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink")2009 SUMMER」のライヴステージで復活を果たす\[13\]。
 
-同年[11月11日](../Page/11月11日.md "wikilink")には5thアルバム『METAMORPHOSIS』をリリース。また1stアルバム『DEAD LINE』を[DANGER CRUE RECORDSより](../Page/デンジャークルー・レコード.md "wikilink")、2ndアルバムの『GHOST OF ROMANCE』、3rdアルバムの『shámbara』を[Victor Entertainmentより](https://ja.wikipedia.org/wiki/Victor_Entertainment "wikilink")、12月23日には4thアルバムの『ZERO』、ライヴ・アルバムの『DEAD END』を[BMG JAPANより](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、リマスター版として再リリースした。(GHOST OF ROMANCEおよびshámbaraは[SHM-CD](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")、ZEROおよびDEAD ENDは[Blu-spec CDでリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。)
+同年[11月11日](../Page/11月11日.md "wikilink")には5thアルバム『METAMORPHOSIS』をリリース。また1stアルバム『DEAD LINE』を[DANGER CRUE RECORDSより](../Page/デンジャークルー・レコード.md "wikilink")、2ndアルバムの『GHOST OF ROMANCE』、3rdアルバムの『shámbara』を[Victor Entertainmentより](https://ja.wikipedia.org/wiki/Victor_Entertainment "wikilink")、12月23日には4thアルバムの『ZERO』、ライヴ・アルバムの『DEAD END』を[BMG JAPANより](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、リマスター版として再リリースした。(GHOST OF ROMANCEおよびshámbaraは[SHM-CD](../Page/スーパー・ハイ・マテリアルCD.md "wikilink")、ZEROおよびDEAD ENDは[Blu-spec CDでリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。)
 
 2009年[11月17日](../Page/11月17日.md "wikilink")・[11月20日](../Page/11月20日.md "wikilink")に、再結成後初となる[ツアー](../Page/ツアー.md "wikilink")「DEAD END Tour 2009 "Metamorphosis"」を開催したが、MINATOがツアーの不参加を表明したため、代わりに[真矢](../Page/真矢_\(ドラマー\).md "wikilink") (ds/[LUNA SEA](../Page/LUNA_SEA.md "wikilink")) がゲスト参加した。MORRIEによれば、MINATOは再結成当初から「レコーディングは全部やるがライヴはわからない」と制限付きで活動を保留していたという\[14\]。
 

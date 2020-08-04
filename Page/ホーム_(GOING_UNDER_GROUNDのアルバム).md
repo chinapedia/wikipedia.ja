@@ -13,7 +13,7 @@
     （作詞・作曲：[松本素生](../Page/松本素生.md "wikilink")）
 2.  **シンドローム**
     （作詞・作曲：松本素生）
-3.  **[ミラージュ](https://ja.wikipedia.org/wiki/ミラージュ_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+3.  **[ミラージュ](../Page/ミラージュ_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
     （作詞・作曲：松本素生）
       -
         3rdシングル。
@@ -39,7 +39,7 @@
       -
         ライブで盛り上がる曲の1つ。高速のリズムに合わせて、腿上げをしながら腕を上下に振る振り付けが定番となっている。
         その模様はライブDVD『[GOING UNDER GROUND TOUR TUTTI at BUDOKAN](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND_TOUR_TUTTI_at_BUDOKAN "wikilink")』に収録されている。
-10. **[ランブル](https://ja.wikipedia.org/wiki/ランブル "wikilink")**
+10. **[ランブル](../Page/ランブル.md "wikilink")**
     （作詞・作曲：松本素生）
       -
         4thシングル。曲名は映画『[ランブルフィッシュ](https://ja.wikipedia.org/wiki/ランブルフィッシュ_\(映画\) "wikilink")』に由来している。この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』初出演を果たした。

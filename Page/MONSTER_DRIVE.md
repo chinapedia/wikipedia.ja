@@ -74,7 +74,7 @@ CDにはパソコンで閲覧可能なエクストラ・データが含まれて
         自身の長女に捧げた楽曲。
 12. **MIRROR BALL**
       -
-        インストゥルメンタル。11thアルバム『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』に[吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")が[作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")で参加しているヴァージョンが収録されている。
+        インストゥルメンタル。11thアルバム『[SOUL SESSIONS](../Page/SOUL_SESSIONS.md "wikilink")』に[吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")が[作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")で参加しているヴァージョンが収録されている。
         布袋の母親が生前愛した楽曲である。\[3\]
 13. **PUSSY CAT**
       -
@@ -96,7 +96,7 @@ CDにはパソコンで閲覧可能なエクストラ・データが含まれて
   - [山本拓夫](../Page/山本拓夫.md "wikilink") - [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink") (\#1,3,4,6,7,9,13)
   - [荒木敏男](https://ja.wikipedia.org/wiki/村田陽一#村田陽一SOLID_BRASS "wikilink") - トランペット (\#9)
   - 菅坂雅彦 - トランペット (\#13)
-  - [仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink") - バッキングボーカル(\#13)
+  - [仁科かおり](../Page/仁科かおり.md "wikilink") - バッキングボーカル(\#13)
 
 ## 脚注
 

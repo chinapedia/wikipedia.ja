@@ -105,7 +105,7 @@
   - 編集 - 鶴渕允寿
   - 音楽 - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
   - 音楽監督 - [鈴木清司](../Page/鈴木清司.md "wikilink")
-  - 録音監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 音響効果 - 糸川幸良
   - 音響制作 - [東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
   - 音響制作担当 - 田中信作、神部宗之

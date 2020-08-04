@@ -45,7 +45,7 @@ w-inds.の冠番組。番組名は[w-inds.](https://ja.wikipedia.org/wiki/w-inds
 ## 関連項目
 
   - [冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")
-  - [アメあと](https://ja.wikipedia.org/wiki/アメあと "wikilink") - w-inds.の24枚目の[シングル](../Page/シングル.md "wikilink")。初回盤特典の[DVD](../Page/DVD.md "wikilink")に、『w-inds.M特別版』が収録されている。
+  - [アメあと](../Page/アメあと.md "wikilink") - w-inds.の24枚目の[シングル](../Page/シングル.md "wikilink")。初回盤特典の[DVD](../Page/DVD.md "wikilink")に、『w-inds.M特別版』が収録されている。
 
 ## 外部リンク
 

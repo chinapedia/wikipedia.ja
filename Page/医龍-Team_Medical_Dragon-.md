@@ -172,7 +172,7 @@
 
 ## テレビドラマ
 
-2006年から[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")主演で[フジテレビ系にて放送開始](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。2014年までに4シリーズ製作された。
+2006年から[坂口憲二](../Page/坂口憲二.md "wikilink")主演で[フジテレビ系にて放送開始](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。2014年までに4シリーズ製作された。
 
 ## 脚注
 

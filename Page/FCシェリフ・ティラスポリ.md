@@ -211,7 +211,7 @@
 <td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2006-07" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCピュニク・エレバン" title="wikilink">ピュニク・エレバン</a></p></td>
+<td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2–0</p></td>

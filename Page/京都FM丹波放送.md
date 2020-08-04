@@ -275,7 +275,7 @@ FMキャッスルの放送内でもサイマルラジオでの放送を告知し
 
   -
     福知山成美高校が選抜高校野球の初戦突破により、2回戦の試合を生中継で放送。
-    [阪神甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")から中継機を通じて実況。
+    [阪神甲子園球場](../Page/阪神甲子園球場.md "wikilink")から中継機を通じて実況。
 
 ### 年末年始特別番組
 
@@ -307,7 +307,7 @@ FMキャッスルの放送内でもサイマルラジオでの放送を告知し
   -
   - [サイマルラジオ](http://www.simulradio.jp/) - インターネット放送
 
-  - [和歌山市及び福知山市のコミュニティ放送局に予備免許 〜近畿管内で31局目、32局目となるコミュニティ放送局2局に予備免許状を交付〜](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2007/1203_01.html) [近畿総合通信局](https://ja.wikipedia.org/wiki/近畿総合通信局 "wikilink") 報道資料 平成19年12月3日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年7月22日収集）
+  - [和歌山市及び福知山市のコミュニティ放送局に予備免許 〜近畿管内で31局目、32局目となるコミュニティ放送局2局に予備免許状を交付〜](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2007/1203_01.html) [近畿総合通信局](../Page/近畿総合通信局.md "wikilink") 報道資料 平成19年12月3日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年7月22日収集）
 
   - [福知山市、和歌山県白浜町のコミュニティ放送局に免許及び予備免許を交付](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2007/0227_01.html) 同上 平成20年2月27日（同上）
 

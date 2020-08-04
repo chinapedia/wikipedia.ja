@@ -32,7 +32,7 @@
 7.  **Unite As One**
     （作詞：野口圭／作曲：[原一博](../Page/原一博.md "wikilink")／編曲：田中隼人／ストリングスアレンジ：弦一徹）
       - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")『[タイムホロウ 奪われた過去を求めて](../Page/タイムホロウ_奪われた過去を求めて.md "wikilink")』エンディングテーマ。
-8.  **[Mahaloha](https://ja.wikipedia.org/wiki/Mahaloha "wikilink")**
+8.  **[Mahaloha](../Page/Mahaloha.md "wikilink")**
     （作詞：伊藤由奈、Micro／作曲：下山亮平、Micro、伊藤由奈／編曲：Micro）
       - 8thシングル。元[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[Micro](../Page/Micro.md "wikilink")とのコラボレーションで、初の自作曲、初めて日本語で作詞。
 9.  **A Long Walk**

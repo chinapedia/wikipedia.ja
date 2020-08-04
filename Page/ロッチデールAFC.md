@@ -53,7 +53,7 @@
 
 ### FW
 
-  - [イアン・グリフィス](https://ja.wikipedia.org/wiki/イアン・グリフィス "wikilink") 1983-1984
+  - [イアン・グリフィス](../Page/イアン・グリフィス.md "wikilink") 1983-1984
 
   - [パトリック・マッコート](https://ja.wikipedia.org/wiki/パトリック・マッコート "wikilink") 2001-2005
 

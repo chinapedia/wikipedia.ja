@@ -117,7 +117,7 @@
   - 編集 - [山本正明](https://ja.wikipedia.org/wiki/山本正明_\(映像編集者\) "wikilink")
   - 監督補 - [池上純哉](https://ja.wikipedia.org/wiki/池上純哉 "wikilink")
   - 助監督 - 村上秀晃
-  - 製作委員会 - [フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")、[SDP](https://ja.wikipedia.org/wiki/スターダストピクチャーズ "wikilink")、[FNS](../Page/フジネットワーク.md "wikilink")27社
+  - 製作委員会 - [フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")、[SDP](../Page/スターダストピクチャーズ.md "wikilink")、[FNS](../Page/フジネットワーク.md "wikilink")27社
   - 制作プロダクション - [シネバザール](https://ja.wikipedia.org/wiki/シネバザール "wikilink")
   - 映像制作 - [東宝映像美術](https://ja.wikipedia.org/wiki/東宝映像美術 "wikilink")
   - 配給 - [東宝](../Page/東宝.md "wikilink")

@@ -29,7 +29,7 @@
 
 ウィリス・A・リーは[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[クインシーの](../Page/クインシー_\(マサチューセッツ州\).md "wikilink")[ベスレヘム・スチール](../Page/ベスレヘム・スチール.md "wikilink")、[フォアリバー造船所](../Page/フォアリバー造船所.md "wikilink")で1949年11月1日に起工する。1951年2月9日に DL-4 （[嚮導駆逐艦](https://ja.wikipedia.org/wiki/嚮導駆逐艦 "wikilink")）に艦種変更され、1952年1月26日にフィッツヒュー・L・パーマー・ジュニア夫人（リー中将の姪）によって進水、1954年10月5日に[ボストン海軍造船所](https://ja.wikipedia.org/wiki/ボストン海軍造船所 "wikilink")で艦長F・H・シュナイダー中佐の指揮下就役した。
 
-[グアンタナモ湾](https://ja.wikipedia.org/wiki/グアンタナモ湾 "wikilink")での整調後、ウィリス・A・リーは母港の[ロードアイランド州](https://ja.wikipedia.org/wiki/ロードアイランド州 "wikilink")[ニューポートに帰還し](https://ja.wikipedia.org/wiki/ニューポート_\(ロードアイランド州\) "wikilink")、[大西洋艦隊での経歴を開始する](https://ja.wikipedia.org/wiki/大西洋艦隊_\(アメリカ海軍\) "wikilink")。最初の[地中海](../Page/地中海.md "wikilink")への展開は1955年7月に行われ、[第6艦隊と共に作戦活動に従事した](../Page/第6艦隊_\(アメリカ軍\).md "wikilink")。配備はその年末に完了し、ウィリス・A・リーは東海岸に帰還し、沿岸での防空演習に参加した。
+[グアンタナモ湾](https://ja.wikipedia.org/wiki/グアンタナモ湾 "wikilink")での整調後、ウィリス・A・リーは母港の[ロードアイランド州](https://ja.wikipedia.org/wiki/ロードアイランド州 "wikilink")[ニューポートに帰還し](https://ja.wikipedia.org/wiki/ニューポート_\(ロードアイランド州\) "wikilink")、[大西洋艦隊での経歴を開始する](../Page/大西洋艦隊_\(アメリカ海軍\).md "wikilink")。最初の[地中海](../Page/地中海.md "wikilink")への展開は1955年7月に行われ、[第6艦隊と共に作戦活動に従事した](../Page/第6艦隊_\(アメリカ軍\).md "wikilink")。配備はその年末に完了し、ウィリス・A・リーは東海岸に帰還し、沿岸での防空演習に参加した。
 
 1956年2月、ウィリス・A・リーは[ドミニカ共和国](../Page/ドミニカ共和国.md "wikilink")へ向けて出航する。首都の[シウダー・トルヒーヨで開催されたアメリカの日祭典に代表として参加した](../Page/サントドミンゴ.md "wikilink")。その後[ボストン海軍造船所](https://ja.wikipedia.org/wiki/ボストン海軍造船所 "wikilink")での作業が行われ、11月に対潜水艦戦演習に参加する。演習の間にウィリス・A・リーは[ロングアイランド](../Page/ロングアイランド.md "wikilink")の[モントーク・ポイント](https://ja.wikipedia.org/wiki/モントーク・ポイント "wikilink")沖で火災を生じた漁船アグダ (*Agda*) を救助した。
 

@@ -22,7 +22,7 @@ QEDは1991年、Quantum Effect Designとして設立された。創設者は[MIP
   - [R4700](https://ja.wikipedia.org/wiki/R4600 "wikilink")
     SGI向けに[浮動小数点演算性能を強化した設計](../Page/浮動小数点数.md "wikilink")。浮動小数点数の乗算を反復できる回数を増やした（乗算にかかるサイクル数を短縮した）。SGIのIndyというローエンドの[ワークステーション](../Page/ワークステーション.md "wikilink")で使われた。R4700の製造・販売もIDTと東芝が行った。
   - [R4650](https://ja.wikipedia.org/wiki/R4600 "wikilink")
-    NKKが安価なゲーム機用として発注した。R4650はキャッシュを半分にし、浮動小数点演算を[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink")のみにしてダイサイズを小さくした。QEDとしては初めて[積和演算](../Page/積和演算.md "wikilink")命令を実装し、ソフト[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")を実装可能となっている。[マイクロソフト](../Page/マイクロソフト.md "wikilink")はこれを[WebTV](../Page/WebTV.md "wikilink")機器に使用した。R4650の製造・販売はIDTとNKKが行った。R4640も基本的には同じだが、バス幅が[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")から[32ビット](../Page/32ビット.md "wikilink")に縮小されている。
+    NKKが安価なゲーム機用として発注した。R4650はキャッシュを半分にし、浮動小数点演算を[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink")のみにしてダイサイズを小さくした。QEDとしては初めて[積和演算](../Page/積和演算.md "wikilink")命令を実装し、ソフト[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")を実装可能となっている。[マイクロソフト](../Page/マイクロソフト.md "wikilink")はこれを[WebTV](../Page/WebTV.md "wikilink")機器に使用した。R4650の製造・販売はIDTとNKKが行った。R4640も基本的には同じだが、バス幅が[64ビット](../Page/64ビット.md "wikilink")から[32ビット](../Page/32ビット.md "wikilink")に縮小されている。
   - [R5000](https://ja.wikipedia.org/wiki/R5000 "wikilink")
     SGIの依頼を受けて設計された。キャッシュを増やして、命令もデータも32KBとしている。浮動小数点演算機能が強化されている。限定された[スーパースケーラ](https://ja.wikipedia.org/wiki/スーパースケーラ "wikilink")であり、整数演算と浮動小数点演算を同じサイクルで並行して実行可能である。SGI O2で使われた。設計の権利はSGIが保有し、IDTと[日本電気](../Page/日本電気.md "wikilink")が製造・販売した（後に東芝も製造した）。
   - 603Q

@@ -14,7 +14,7 @@
   - 原彩果（24歳）：[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")
   - 川野のりこ（24歳）：[星野真里](../Page/星野真里.md "wikilink")
   - 鈴木夏樹（23歳）：[松本莉緒](../Page/松本莉緒.md "wikilink")
-  - 高木まゆみ：[有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
+  - 高木まゆみ：[有坂来瞳](../Page/有坂来瞳.md "wikilink")
   - 赤塚たろう：[少路勇介](../Page/少路勇介.md "wikilink")
   - 中村ジン：[川口覚](../Page/川口覚.md "wikilink")
   - 沢村絵里：[柴田かよこ](../Page/柴田かよこ.md "wikilink")
@@ -27,7 +27,7 @@
 
 ### スタッフ
 
-  - 脚本：[渡辺千穂](https://ja.wikipedia.org/wiki/渡辺千穂 "wikilink")
+  - 脚本：[渡辺千穂](../Page/渡辺千穂.md "wikilink")
   - 演出：[上川伸廣](../Page/上川伸廣.md "wikilink")ほか
   - エグゼクティブ・プロデューサー：[小泉守](https://ja.wikipedia.org/wiki/小泉守 "wikilink")
   - 音楽：[門司肇](https://ja.wikipedia.org/wiki/門司肇 "wikilink")

@@ -24,7 +24,7 @@
 2.  **[抱いてくれたらいいのに](../Page/抱いてくれたらいいのに.md "wikilink")**　（5:07）
       - 作詞: [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲・編曲: 後藤次利
 3.  **[FU-JI-TSU](../Page/FU-JI-TSU.md "wikilink")**　（3:47）
-      - 作詞: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、作曲・編曲: 後藤次利
+      - 作詞: [中島みゆき](../Page/中島みゆき.md "wikilink")、作曲・編曲: 後藤次利
     <!-- end list -->
       -
         初めて作家に中島みゆきを起用したシングル
@@ -107,7 +107,7 @@
 3.  **[抱いてくれたらいいのに](../Page/抱いてくれたらいいのに.md "wikilink")**　（5:07）
       - 作詞: [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲・編曲: 後藤次利
 4.  **[FU-JI-TSU](../Page/FU-JI-TSU.md "wikilink")**　（3:47）
-      - 作詞: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、作曲・編曲: 後藤次利
+      - 作詞: [中島みゆき](../Page/中島みゆき.md "wikilink")、作曲・編曲: 後藤次利
 5.  **[MUGO・ん…色っぽい](../Page/MUGO・ん…色っぽい.md "wikilink")**　（3:54）
       - 作詞: 中島みゆき、作曲・編曲: 後藤次利
 6.  **[恋一夜](../Page/恋一夜.md "wikilink")**　（4:32）

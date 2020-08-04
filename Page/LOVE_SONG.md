@@ -17,7 +17,7 @@
       - LOVE SONG - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の曲。アルバム『[LION](../Page/LION_\(福山雅治のアルバム\).md "wikilink")』に収録。
       - [Love Song (faithの曲)](https://ja.wikipedia.org/wiki/Love_Song_\(faithの曲\) "wikilink") - [faithのシングル曲](https://ja.wikipedia.org/wiki/faith_\(ユニット\) "wikilink")。
       - [Love Song (m-floの曲)](../Page/Love_Song_\(m-floの曲\).md "wikilink") - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [BONNIE PINKのシングル曲](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")。
-      - [Love Song (riyaのアルバム)](https://ja.wikipedia.org/wiki/Love_Song_\(riyaのアルバム\) "wikilink") - [riya](https://ja.wikipedia.org/wiki/riya "wikilink")のアルバム。表題曲を収録。
+      - [Love Song (riyaのアルバム)](../Page/Love_Song_\(riyaのアルバム\).md "wikilink") - [riya](https://ja.wikipedia.org/wiki/riya "wikilink")のアルバム。表題曲を収録。
       - [Love Song (alanのアルバム)](https://ja.wikipedia.org/wiki/Love_Song_\(alanのアルバム\) "wikilink") - [alan](https://ja.wikipedia.org/wiki/alan "wikilink")のアルバム。表題曲を収録。
       - Love Song - [TUBE](../Page/TUBE.md "wikilink")の曲。アルバム『[Melodies & Memories](https://ja.wikipedia.org/wiki/Melodies_%26_Memories_\(アルバム\) "wikilink")』に収録。
       - “Love Song” - [宮川愛](../Page/宮川愛.md "wikilink")の曲。シングル「[“Love Song”/Joyful,Joyful](https://ja.wikipedia.org/wiki/“Love_Song”/Joyful,Joyful "wikilink")」に収録。

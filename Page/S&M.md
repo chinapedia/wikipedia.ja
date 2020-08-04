@@ -5,7 +5,7 @@
 
 ## 概要
 
-1999年4月21日から22日にかけて、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")と同じ本拠地の[オーケストラ](../Page/オーケストラ.md "wikilink")、[サンフランシスコ交響楽団](../Page/サンフランシスコ交響楽団.md "wikilink")と共演ライブを行った様子が収録されている。収録されているのは『[ライド・ザ・ライトニング](https://ja.wikipedia.org/wiki/ライド・ザ・ライトニング "wikilink")』から『[リロード](https://ja.wikipedia.org/wiki/リロード_\(アルバム\) "wikilink")』までの楽曲で、そこへさらに2曲の新曲「No Leaf Clover」「Minus Human」が収録されている。
+1999年4月21日から22日にかけて、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")と同じ本拠地の[オーケストラ](../Page/オーケストラ.md "wikilink")、[サンフランシスコ交響楽団](../Page/サンフランシスコ交響楽団.md "wikilink")と共演ライブを行った様子が収録されている。収録されているのは『[ライド・ザ・ライトニング](../Page/ライド・ザ・ライトニング.md "wikilink")』から『[リロード](https://ja.wikipedia.org/wiki/リロード_\(アルバム\) "wikilink")』までの楽曲で、そこへさらに2曲の新曲「No Leaf Clover」「Minus Human」が収録されている。
 
 この企画を持ち出したのは、オーケストラ側のマイケル・ケイメンである。アルバム『[メタリカ](../Page/メタリカ_\(アルバム\).md "wikilink")』に収録されている楽曲「Nothing Else Matters」のストリングスをマイケル・ケイメンが担当したこともあり、その付き合いの延長線上から今回の企画へと発展した。
 

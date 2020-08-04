@@ -7,7 +7,7 @@
 
 ### 初代（E-HB、EB、FB12型 1986年-1990年）
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")　B12型サニーのクーペとして追加。
+[1986年](../Page/1986年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")　B12型サニーのクーペとして追加。
 
 RZ-1の名称の由来は「Runabout Zenith No.1」の頭文字から創作された造語。アールズィーワンと読む。
 

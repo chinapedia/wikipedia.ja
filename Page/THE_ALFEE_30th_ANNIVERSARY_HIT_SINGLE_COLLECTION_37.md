@@ -26,7 +26,7 @@
 5.  **[シンデレラは眠れない](../Page/シンデレラは眠れない.md "wikilink")**★
 6.  **[霧のソフィア](../Page/霧のソフィア.md "wikilink")**
       -
-        [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以前の楽曲では唯一オリジナル音源が使用された。
+        [1986年](../Page/1986年.md "wikilink")以前の楽曲では唯一オリジナル音源が使用された。
 7.  **[風曜日、君をつれて](../Page/風曜日、君をつれて.md "wikilink")**★
 8.  **[SWEAT\&TEARS](https://ja.wikipedia.org/wiki/SWEAT&TEARS "wikilink")**★
       -

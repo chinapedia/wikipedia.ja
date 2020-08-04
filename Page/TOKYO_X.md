@@ -32,7 +32,7 @@
 
 ## 販売形態
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に東京都が[ランドレース種](https://ja.wikipedia.org/wiki/ランドレース種 "wikilink")系統豚「エド」を開発し、「[エドポーク](https://ja.wikipedia.org/wiki/エドポーク "wikilink")」として普及させようとしたが、この試みは流通面の統制が上手くいかずに失敗し、銘柄としての「エドポーク」も残っていない。この事例を踏まえて、TOKYO Xでは生産協議会である**TOKYO X 生産組合**と流通協議会である****の2業態の協議会を持つようにしている。
+[1986年](../Page/1986年.md "wikilink")に東京都が[ランドレース種](https://ja.wikipedia.org/wiki/ランドレース種 "wikilink")系統豚「エド」を開発し、「[エドポーク](https://ja.wikipedia.org/wiki/エドポーク "wikilink")」として普及させようとしたが、この試みは流通面の統制が上手くいかずに失敗し、銘柄としての「エドポーク」も残っていない。この事例を踏まえて、TOKYO Xでは生産協議会である**TOKYO X 生産組合**と流通協議会である****の2業態の協議会を持つようにしている。
 
 ## 参考文献
 

@@ -1,7 +1,7 @@
 > この記事は[YFM-1 \(航空機\)](https://ja.wikipedia.org/wiki/YFM-1_\(航空機\))から翻訳されています。
 
 
-**YFM エアラクーダ**（*Bell YFM Airacuda*）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[ベル社が](../Page/ベル・エアクラフト.md "wikilink")[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")向けに試作した[戦闘機](../Page/戦闘機.md "wikilink")である。4発重[爆撃機](../Page/爆撃機.md "wikilink")を護衛する目的で開発された双発機だったが、飛行性能が悪く、開発中止となった。
+**YFM エアラクーダ**（*Bell YFM Airacuda*）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[ベル社が](../Page/ベル・エアクラフト.md "wikilink")[アメリカ陸軍航空隊](../Page/アメリカ陸軍航空隊.md "wikilink")向けに試作した[戦闘機](../Page/戦闘機.md "wikilink")である。4発重[爆撃機](../Page/爆撃機.md "wikilink")を護衛する目的で開発された双発機だったが、飛行性能が悪く、開発中止となった。
 
 愛称の「**エアラクーダ** (Airacuda)」は、空飛ぶ[バラクーダの意](https://ja.wikipedia.org/wiki/オニカマス "wikilink")。また、**YFM**は、Yが「増加試作機」、Fが「戦闘機 (Fighter)」、Mが「多座 (Multiple)」という意味である。
 

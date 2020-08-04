@@ -162,24 +162,24 @@
 
   - 原作・監督 - [モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")・[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")刊）
   - 企画 - 武井英彦
-  - 製作総指揮 - [漆戸靖治](https://ja.wikipedia.org/wiki/漆戸靖治 "wikilink")
+  - 製作総指揮 - [漆戸靖治](../Page/漆戸靖治.md "wikilink")
   - 脚本 - [柏原寛司](../Page/柏原寛司.md "wikilink")
   - 絵コンテ・演出 - [矢野博之](https://ja.wikipedia.org/wiki/矢野博之 "wikilink")、川越淳、[篠原俊哉](../Page/篠原俊哉.md "wikilink")、日巻裕二
   - 音楽 - [根岸貴幸](../Page/根岸貴幸.md "wikilink")
   - メインテーマ - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
   - 音楽監督 - [鈴木清司](../Page/鈴木清司.md "wikilink")
-  - 録音監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 撮影監督 - [長谷川肇](https://ja.wikipedia.org/wiki/長谷川肇_\(撮影監督\) "wikilink")
   - 作画監督 - 村田雅彦、瀬尾康弘、菖蒲隆彦、佐々木守
   - 作画補佐 - 山口晋、田村一彦、山田起生、梅原隆弘
   - キャラクターデザイン・総作画監督 - [江口摩吏介](https://ja.wikipedia.org/wiki/江口摩吏介 "wikilink")
   - アニメーション監督 - [矢野博之](https://ja.wikipedia.org/wiki/矢野博之 "wikilink")
   - メカニカルデザイン・メカニカル作画 - [今掛勇](../Page/今掛勇.md "wikilink")
-  - プロデューサー - 前田伸一郎、[松元理人](https://ja.wikipedia.org/wiki/松元理人 "wikilink")
+  - プロデューサー - 前田伸一郎、[松元理人](../Page/松元理人.md "wikilink")
   - 担当プロデューサー - 小沢十光
   - 音楽プロデューサー - 山田慎也
   - 音響効果 - 糸川幸良
-  - 文芸ディレクター - [飯岡順一](https://ja.wikipedia.org/wiki/飯岡順一 "wikilink")
+  - 文芸ディレクター - [飯岡順一](../Page/飯岡順一.md "wikilink")
   - CG協力 - 株式会社セルシス
   - 原画 - [前田実](../Page/前田実.md "wikilink")、[梅津泰臣](../Page/梅津泰臣.md "wikilink")、[木村貴宏](../Page/木村貴宏.md "wikilink")、[木下ゆうき](../Page/木下ゆうき.md "wikilink")、[白土武](../Page/白土武.md "wikilink")、[金沢比呂司](../Page/金沢比呂司.md "wikilink")、[山本佐和子](../Page/山本佐和子.md "wikilink")、[武田政次](https://ja.wikipedia.org/wiki/武田政次 "wikilink") ほか
   - 色彩設計 - 小林照美、[笛吹康二](https://ja.wikipedia.org/wiki/笛吹康二 "wikilink")

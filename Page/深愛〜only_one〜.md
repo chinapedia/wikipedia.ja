@@ -26,7 +26,7 @@
       - 作詞・作曲：ЯK、編曲：[土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")
       - [メモリーキャッツ](../Page/メモリーキャッツ.md "wikilink")への提供曲
 4.  **forget about you**
-      - 作詞・作曲：ЯK、編曲：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+      - 作詞・作曲：ЯK、編曲：[宮田繁男](../Page/宮田繁男.md "wikilink")
 5.  **[君の前でピアノを弾こう](../Page/君の前でピアノを弾こう.md "wikilink")** ○
       - 作詞：ЯK・吉田美智子、作曲：ЯK、編曲：\[K\]assyi・ЯK
 6.  **夢で逢える**

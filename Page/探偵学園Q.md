@@ -833,7 +833,7 @@
 ### 楽曲
 
   - オープニングテーマ [FLOW](../Page/FLOW.md "wikilink")「[Answer](../Page/Answer_\(FLOWの曲\).md "wikilink")」
-  - エンディングテーマ [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")「[Stand by me](https://ja.wikipedia.org/wiki/Stand_by_me_\(the_brilliant_greenの曲\) "wikilink")」
+  - エンディングテーマ [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")「[Stand by me](../Page/Stand_by_me_\(the_brilliant_greenの曲\).md "wikilink")」
 
 ### サブタイトル
 

@@ -22,7 +22,7 @@
 | 乗員                                                                                                         |
 | 兵装                                                                                                         |
 
-**バリー** (**USS Barry, Destroyer No. 2/DD-2**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")。[ベインブリッジ級駆逐艦](../Page/ベインブリッジ級駆逐艦.md "wikilink")の2番艦。艦名は [代将に因む](https://ja.wikipedia.org/wiki/代将_\(アメリカ海軍\) "wikilink")。
+**バリー** (**USS Barry, Destroyer No. 2/DD-2**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")。[ベインブリッジ級駆逐艦](../Page/ベインブリッジ級駆逐艦.md "wikilink")の2番艦。艦名は [代将に因む](../Page/代将_\(アメリカ海軍\).md "wikilink")。
 
 ## 艦歴
 

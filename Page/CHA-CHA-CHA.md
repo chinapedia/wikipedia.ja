@@ -3,7 +3,7 @@
 
 **CHA CHA CHA**\[1\]、**CHA-CHA-CHA**\[2\]（チャ・チャ・チャ）は、[イタリア](../Page/イタリア.md "wikilink")の[ダンス](../Page/ダンス.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である[フィンツィ・コンティーニ](https://ja.wikipedia.org/wiki/フィンツィ・コンティーニ "wikilink")（Finzy Kontini：女性[シンガー](../Page/歌手.md "wikilink")・[クラウディア・コロンビ](https://ja.wikipedia.org/wiki/クラウディア・コロンビ "wikilink")と[作曲家](../Page/作曲家.md "wikilink")・[ブルーノ・ロセリーニ](https://ja.wikipedia.org/wiki/ブルーノ・ロセリーニ "wikilink")の[ユニット](../Page/音楽ユニット.md "wikilink")\[3\]）の[シングル](../Page/シングル.md "wikilink")である。
 
-イタリアや[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")では[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にシングル発売されている。日本では[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月21日に発売され、オリコンシングルチャートで総合14位、洋楽チャートでは1986年9月15日付から9週連続1位を獲得した\[4\]。日本盤のジャケットデザインはフランス盤のそれを踏襲している。
+イタリアや[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")では[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にシングル発売されている。日本では[1986年](../Page/1986年.md "wikilink")5月21日に発売され、オリコンシングルチャートで総合14位、洋楽チャートでは1986年9月15日付から9週連続1位を獲得した\[4\]。日本盤のアルバムジャケットはフランス盤のデザインを使用している。
 
 1986年に[石井明美](../Page/石井明美.md "wikilink")がデビューシングルでカバーしたのを初め、様々なアーティストにカバーされている。
 
@@ -11,7 +11,7 @@
 
 ## 石井明美によるカバー
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")にリリースされた[石井明美](../Page/石井明美.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。
+[1986年](../Page/1986年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")にリリースされた[石井明美](../Page/石井明美.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。
 
 [TBSの](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[男女7人夏物語](../Page/男女7人夏物語.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に起用された。
 

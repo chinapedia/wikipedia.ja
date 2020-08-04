@@ -1,7 +1,7 @@
 > この記事は[FXザ・シリーズ](https://ja.wikipedia.org/wiki/FXザ・シリーズ)から翻訳されています。
 
 
-『**F/X THE SERIES**』（*F/X ザ・シリーズ*） は、[1996年](../Page/1996年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に渡り、[アメリカで放映された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サスペンス](../Page/サスペンス.md "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の映画『[F/X 引き裂かれたトリック](https://ja.wikipedia.org/wiki/F/X_引き裂かれたトリック "wikilink")』のテレビシリーズ版。
+『**F/X THE SERIES**』（*F/X ザ・シリーズ*） は、[1996年](../Page/1996年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に渡り、[アメリカで放映された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サスペンス](../Page/サスペンス.md "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")。[1986年](../Page/1986年.md "wikilink")の映画『[F/X 引き裂かれたトリック](https://ja.wikipedia.org/wiki/F/X_引き裂かれたトリック "wikilink")』のテレビシリーズ版。
 
 日本では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に販売用ビデオとレンタルビデオで一部のエピソードを先行して視聴できたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降全国の地上波放送局と[AXN](../Page/AXN.md "wikilink")で放映された。
 

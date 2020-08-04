@@ -7,7 +7,7 @@
 
 ## 略歴
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"):[東京でイタリアのエージェントに](../Page/東京都.md "wikilink")[スカウト](../Page/スカウト.md "wikilink")される。3ヶ月のテスト期間を[ミラノ](../Page/ミラノ.md "wikilink")に滞在したことがきっかけとなり[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")になる。(RICCARDO GAY MODEL MANAGEMENT)所属
+  - [1986年](../Page/1986年.md "wikilink"):[東京でイタリアのエージェントに](../Page/東京都.md "wikilink")[スカウト](../Page/スカウト.md "wikilink")される。3ヶ月のテスト期間を[ミラノ](../Page/ミラノ.md "wikilink")に滞在したことがきっかけとなり[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")になる。(RICCARDO GAY MODEL MANAGEMENT)所属
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink"):[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")大会開催地、[スタディオ・サン・ニコラ](../Page/スタディオ・サン・ニコラ.md "wikilink")（[イタリア](../Page/イタリア.md "wikilink")）で、グラウンド[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")ショーにテーマ[アジア](../Page/アジア.md "wikilink")をイメージカラーとした、デザイナー[ミラ・ショーン](../Page/ミラ・ショーン.md "wikilink")のドレスで出演。このショーには[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")をイメージカラーとしたデザイナー[ヴァレンティノ．ガラヴァーニ](https://ja.wikipedia.org/wiki/ヴァレンティノ．ガラヴァーニ "wikilink")のドレスを着た[スーパーモデル](../Page/スーパーモデル.md "wikilink")[シンディ・クロフォード](../Page/シンディ・クロフォード.md "wikilink")も出演していた。1990年から[1993年](../Page/1993年.md "wikilink")まで、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")ZOTOSゾートス・ニューヨークライフ（ニューヨークライン）のイメージモデルとしてショーに出演する。
   - [1992年](../Page/1992年.md "wikilink"):[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の有名デザイナー、[ティエリー・ミュグレー](../Page/ティエリー・ミュグレー.md "wikilink")が、40人近い外国人モデルを引き連れて来日ショーを[両国国技館](../Page/両国国技館.md "wikilink")で開催した際に、日本人モデルとして舞台のとりを飾った。ゲスト出演者には[山口小夜子](../Page/山口小夜子.md "wikilink")、[本木雅弘](../Page/本木雅弘.md "wikilink")、[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")などもいた。
 
@@ -39,7 +39,7 @@
   - [VIVIENNE WESTWOOD](../Page/ヴィヴィアン・ウエストウッド.md "wikilink")
   - [Betsey Johnson](https://ja.wikipedia.org/wiki/ベッツィジョンソン "wikilink")
   - [Isaac Mizrahi](https://ja.wikipedia.org/wiki/アイザック・ミズラヒ "wikilink")
-  - [LANVIN Paris](https://ja.wikipedia.org/wiki/ランバン "wikilink")
+  - [LANVIN Paris](../Page/ランバン.md "wikilink")
   - [Ralph Lauren](https://ja.wikipedia.org/wiki/ラルフローレン "wikilink")
   - [Oscar de la Renta](https://ja.wikipedia.org/wiki/オスカー・デ・ラ・レンタ "wikilink")
   - [ISSEY MIYAKE](https://ja.wikipedia.org/wiki/イッセイ・ミヤケ "wikilink")

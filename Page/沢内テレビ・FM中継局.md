@@ -158,7 +158,7 @@
 <td><p>映像9.7W/<br />
 音声2.4W</p></td>
 <td><p>1162世帯[18]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a><br />
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a><br />
 <a href="../Page/10月17日.md" title="wikilink">10月17日</a>[19]</p></td>
 <td></td>
 <td></td>

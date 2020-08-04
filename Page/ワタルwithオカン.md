@@ -54,7 +54,7 @@
   - [浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")(読売テレビ)　特技自慢のコーナーに出演。オカンが首フラフープを披露する。
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")(TBSテレビ)　ゴールドラッシュに出演。1週目クリア。
   - [なにわ人情コメディ 横丁へよ〜こちょ\!](../Page/なにわ人情コメディ_横丁へよ〜こちょ!.md "wikilink")(朝日放送)　※オカンのみ
-  - [あったか人情コメディ 湯けむりパラダイス\!](https://ja.wikipedia.org/wiki/あったか人情コメディ_湯けむりパラダイス! "wikilink")(朝日放送)
+  - [あったか人情コメディ 湯けむりパラダイス\!](../Page/あったか人情コメディ_湯けむりパラダイス!.md "wikilink")(朝日放送)
   - [マヨブラ流](../Page/マヨブラ流.md "wikilink")（読売テレビ）　コレくる芸人
   - [本番で〜す\!](../Page/本番で〜す!.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")（毎日放送）　FootCutバトルに出場。2回戦進出。

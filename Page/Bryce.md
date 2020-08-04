@@ -13,7 +13,7 @@
 
 一方、地形以外のモデリング能力は非常に貧弱である。[立方体](https://ja.wikipedia.org/wiki/立方体 "wikilink")、球、[円柱](https://ja.wikipedia.org/wiki/円柱 "wikilink")、[トーラス](../Page/トーラス.md "wikilink")といったプリミティブ(基本図形)と[メタボール](../Page/メタボール.md "wikilink")を上下左右に拡大縮小して組み合わせ、[ブーリアン演算](https://ja.wikipedia.org/wiki/ブーリアン演算 "wikilink")をするしかない。また[ポリゴン](../Page/ポリゴン.md "wikilink")の編集機能に至っては一切搭載していない。必要ならば他のソフトウェアに任せ、インポートすれば良いという発想である。
 
-なお、Bryceの名は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ユタ州](../Page/ユタ州.md "wikilink")の[ブライスキャニオン国立公園](https://ja.wikipedia.org/wiki/ブライスキャニオン国立公園 "wikilink")から取られている。
+なお、Bryceの名は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ユタ州](../Page/ユタ州.md "wikilink")の[ブライスキャニオン国立公園](../Page/ブライスキャニオン国立公園.md "wikilink")から取られている。
 
 ## 歴史
 

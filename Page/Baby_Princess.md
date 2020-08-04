@@ -1,7 +1,7 @@
 > この記事は[Baby Princess](https://ja.wikipedia.org/wiki/Baby_Princess)から翻訳されています。
 
 
-『**Baby Princess**』（ベイビー・プリンセス）は、雑誌『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）連載の[読者参加企画](../Page/読者参加型ゲーム.md "wikilink")。略称は「**べびプリ**」。
+『**Baby Princess**』（ベイビー・プリンセス）は、雑誌『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）連載の[読者参加企画](../Page/読者参加型ゲーム.md "wikilink")。略称は「**べびプリ**」。
 
 ## 概要
 
@@ -538,7 +538,7 @@ BD初回生産分は、特典として、19人姉妹メッセージカード（1
 
 ## 書誌情報・参考文献
 
-  - 『電撃G's magazine』2007年10月号 - 2011年9月号、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")
+  - 『電撃G's magazine』2007年10月号 - 2011年9月号、[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")
 
   -
   - 公野櫻子 『Baby Princess WHOLE SWEET LIFE』 電撃G'sマガジン編集部、アスキー・メディアワークス、2012年。一般の書店には流通しないためISBNはない。

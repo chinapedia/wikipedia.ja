@@ -51,7 +51,7 @@
 
   - [世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink")
   - [ワールドラリーカー](https://ja.wikipedia.org/wiki/ワールドラリーカー "wikilink")
-  - [フォード・エスコート](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")
+  - [フォード・エスコート](../Page/フォード・エスコート.md "wikilink")
   - [フォード・フォーカスWRC](../Page/フォード・フォーカスWRC.md "wikilink")
   - [フォード・フィエスタWRC](https://ja.wikipedia.org/wiki/フォード・フィエスタWRC "wikilink")
 

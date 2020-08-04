@@ -25,7 +25,7 @@
 
 [1965年](../Page/1965年.md "wikilink")に[アメリカ合衆国国定歴史建造物](../Page/アメリカ合衆国国定歴史建造物.md "wikilink")に\[1\]\[2\]、[2004年](../Page/2004年.md "wikilink")に[IEEEマイルストーン](../Page/IEEEマイルストーン.md "wikilink")に指定\[3\]された。
 
-[1976年](../Page/1976年.md "wikilink")から、この施設は毎年[戦没将兵追悼記念日](../Page/戦没将兵追悼記念日.md "wikilink")（5月最終月曜日）から[労働者の日](https://ja.wikipedia.org/wiki/:en:Labor_Day "wikilink")（9月第一月曜日）の期間に限って一般公開されている。他に、1950年代の[原子力航空機プロジェクトで開発された](https://ja.wikipedia.org/wiki/原子力飛行機 "wikilink")2つの[原子炉](../Page/原子炉.md "wikilink")も公開されている\[4\]。
+[1976年](../Page/1976年.md "wikilink")から、この施設は毎年[戦没将兵追悼記念日](../Page/戦没将兵追悼記念日.md "wikilink")（5月最終月曜日）から[労働者の日](https://ja.wikipedia.org/wiki/:en:Labor_Day "wikilink")（9月第一月曜日）の期間に限って一般公開されている。他に、1950年代の[原子力航空機プロジェクトで開発された](../Page/原子力飛行機.md "wikilink")2つの[原子炉](../Page/原子炉.md "wikilink")も公開されている\[4\]。
 
 ## ギャラリー
 

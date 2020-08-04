@@ -31,7 +31,7 @@
 ### リージョナル（Regional）CRS
 
   - [INFINI](https://ja.wikipedia.org/wiki/INFINI "wikilink") [1](http://www.infini-trvl.co.jp/company/profile/)
-  - [able](https://ja.wikipedia.org/wiki/able "wikilink")（[ANA系](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")）
+  - [able](https://ja.wikipedia.org/wiki/able "wikilink")（[ANA系](../Page/全日本空輸.md "wikilink")）
       -
         ANAが国内線で使用するCRS。ANAのほか、[AIRDO](../Page/AIRDO.md "wikilink")、[ソラシドエア](../Page/ソラシドエア.md "wikilink")、[スターフライヤー](../Page/スターフライヤー.md "wikilink")も利用している。
   - [AXESS](../Page/AXESS.md "wikilink")（[JAL系](../Page/日本航空.md "wikilink")）([2021年](../Page/2021年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末をもって営業終了予定)

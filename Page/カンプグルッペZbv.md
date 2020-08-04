@@ -42,7 +42,7 @@
 <!-- end list -->
 
   - ボルグ少尉
-    [メーメル](https://ja.wikipedia.org/wiki/メーメル "wikilink")で[GD師団と連絡を回復する任務中に](https://ja.wikipedia.org/wiki/グロースドイッチュラント師団 "wikilink")、功名心に駆られて[ソ連軍](https://ja.wikipedia.org/wiki/ソ連軍 "wikilink")に捕獲され囮にされていたIV号戦車に不用意に接近して[対戦車砲](../Page/対戦車砲.md "wikilink")列に撃破されてしまった。
+    [メーメル](https://ja.wikipedia.org/wiki/メーメル "wikilink")で[GD師団と連絡を回復する任務中に](../Page/グロースドイッチュラント師団.md "wikilink")、功名心に駆られて[ソ連軍](https://ja.wikipedia.org/wiki/ソ連軍 "wikilink")に捕獲され囮にされていたIV号戦車に不用意に接近して[対戦車砲](../Page/対戦車砲.md "wikilink")列に撃破されてしまった。
 
 ## 部隊の成り立ちと編成
 

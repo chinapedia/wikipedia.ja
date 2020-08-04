@@ -17,7 +17,7 @@
 
   - [プリンセスコンチェルト](../Page/プリンセスコンチェルト.md "wikilink")（[エース桃組](https://ja.wikipedia.org/wiki/エース桃組 "wikilink")連載）
   - [にるちゃな\! TYPE－R](https://ja.wikipedia.org/wiki/にるちゃな!_TYPE－R "wikilink")（[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")連載）
-  - [メイドカフェぶろっさむ](https://ja.wikipedia.org/wiki/メイドカフェぶろっさむ "wikilink")（[MAGNA](https://ja.wikipedia.org/wiki/MAGNA "wikilink")連載）
+  - [メイドカフェぶろっさむ](https://ja.wikipedia.org/wiki/メイドカフェぶろっさむ "wikilink")（[MAGNA](../Page/MAGNA.md "wikilink")連載）
   - [すい～と☆めたも](https://ja.wikipedia.org/wiki/すい～と☆めたも "wikilink")（MAGNA連載）
   - [ready lady's how to](https://ja.wikipedia.org/wiki/ready_lady's_how_to "wikilink")（[YOMBAN連載](https://ja.wikipedia.org/wiki/Webコミックゲッキン "wikilink")）
   - [晴れときどきお天気雨](https://ja.wikipedia.org/wiki/晴れときどきお天気雨 "wikilink")（[コンプティーク](../Page/コンプティーク.md "wikilink")連載）

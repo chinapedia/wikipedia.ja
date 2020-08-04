@@ -43,7 +43,7 @@ macOSに内蔵されているバックアップ機能であり、ユーザーの
 [Category:MacOS](https://ja.wikipedia.org/wiki/Category:MacOS "wikilink") [Category:2007年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2007年のソフトウェア "wikilink")
 
 1.  [Laopard標準バックアップツール「Time Machine」を使いこなす](https://news.mynavi.jp/articles/2009/01/29/timemachine/) - [マイナビニュース](https://ja.wikipedia.org/wiki/マイナビニュース "wikilink")（2009年1月29日）
-2.  [もっと知りたい！ Snow Leopard - 第8回 Macのバックアップ、Time Machineで始めよう！](http://ascii.jp/elem/000/000/457/457960/) - [ASCII.jp](https://ja.wikipedia.org/wiki/ASCII.jp "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）
+2.  [もっと知りたい！ Snow Leopard - 第8回 Macのバックアップ、Time Machineで始めよう！](http://ascii.jp/elem/000/000/457/457960/) - [ASCII.jp](https://ja.wikipedia.org/wiki/ASCII.jp "wikilink")（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）
 3.  [あのTime MachineをLinuxで? - バックアップツール「FlyBack」が登場](https://news.mynavi.jp/news/2007/11/12/003/) - マイナビニュース（2007年11月12日）
 4.
 5.

@@ -59,7 +59,7 @@
   - Bass : [有賀啓雄](../Page/有賀啓雄.md "wikilink")
   - Guitar : [斎藤誠](../Page/斎藤誠.md "wikilink")
   - Piano : [中西康晴](../Page/中西康晴.md "wikilink")
-  - Drums : [宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - Drums : [宮田繁男](../Page/宮田繁男.md "wikilink")
   - Percussions : [三沢またろう](../Page/三沢またろう.md "wikilink")
   - Addititonal Production : 遠藤亮
 

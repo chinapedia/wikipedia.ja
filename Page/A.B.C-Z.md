@@ -19,10 +19,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/イケメン太郎" title="wikilink">イケメン太郎</a></strong><br />
-<small>（いけめんたろう）</small></p></td>
+<td><p><strong><a href="../Page/橋本良亮.md" title="wikilink">橋本良亮</a></strong><br />
+<small>（はしもと りょうすけ）</small></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イケメンアイランド" title="wikilink">イケメンアイランド</a></p></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
 <td><p><a href="../Page/赤.md" title="wikilink">赤</a></p></td>
 </tr>
@@ -35,24 +35,24 @@
 <td><p><a href="../Page/ピンク.md" title="wikilink">ピンク</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/加工した後藤輝基" title="wikilink">加工した後藤輝基</a></strong><br />
-</p></td>
+<td><p><strong><a href="../Page/河合郁人.md" title="wikilink">河合郁人</a></strong><br />
+<small>（かわい ふみと）</small></p></td>
 <td></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/東淀川区.md" title="wikilink">東淀川区</a>淡路4丁目8-27</p></td>
+<td><p>東京都</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">A型</a></p></td>
 <td><p><a href="../Page/紫.md" title="wikilink">紫</a></p></td>
 </tr>
 <tr class="even">
-<td><p>五関晃一<br />
-</p></td>
-<td><p>不明</p></td>
-<td><p>不明</p></td>
-<td><p>不明</p></td>
-<td><p>なし</p></td>
+<td><p><strong><a href="../Page/五関晃一.md" title="wikilink">五関晃一</a></strong><br />
+<small>（ごせき こういち）</small></p></td>
+<td></td>
+<td><p>東京都</p></td>
+<td><p>A型</p></td>
+<td><p><a href="../Page/青.md" title="wikilink">青</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/面白担当" title="wikilink">面白担当</a></strong><br />
-<small>【おもしろたとう】</small></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/塚田僚一" title="wikilink">塚田僚一</a></strong><br />
+<small>（つかだ りょういち）</small></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a></p></td>
@@ -122,45 +122,45 @@
 
   - 2020年
 
-:\*5月13日、ジャニーズ事務所所属グループによる[新型コロナウイルス感染拡大防止の支援活動](../Page/2019新型コロナウイルス.md "wikilink")『[Smile Up\! Project](https://ja.wikipedia.org/wiki/Smile_Up!_Project "wikilink")』の一環として、A.B.C-Zのメンバーを含む76名の期間限定ユニット「[Twenty★Twenty](https://ja.wikipedia.org/wiki/Twenty★Twenty "wikilink")」を結成することが発表された\[30\]。
+:\*5月13日、ジャニーズ事務所所属グループによる[新型コロナウイルス感染拡大防止の支援活動](../Page/2019新型コロナウイルス.md "wikilink")『[Smile Up\! Project](https://ja.wikipedia.org/wiki/Smile_Up!_Project "wikilink")』の一環として、A.B.C-Zのメンバーを含む76名の期間限定ユニット「[Twenty★Twenty](../Page/Twenty★Twenty.md "wikilink")」を結成することが発表された\[30\]。
 
 ## 作品
 
 ### CDシングル
 
-| 枚                                    | 発売日         | タイトル                                                                                                                                | 販売形態           | 規格品番      | 順位                  | 収録アルバム         |
-| ------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- | ------------------- | -------------- |
-| 1                                    | 2015年9月30日  | **[Moonlight walker](https://ja.wikipedia.org/wiki/Moonlight_walker "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04288          | 1位\[31\]       |
-| 初回限定盤B                               | CD+DVD      | PCCA-04289                                                                                                                          |                |           |                     |                |
-| 初回限定盤C                               | CD+DVD      | PCCA-04290                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04291                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (王子ラブ❤ver.)            | CD          | SCCA-00026                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (戸塚ver.)               | CD          | SCCA-00027                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (あのニュースで得する人損する人ver.)  | CD          | SCCA-00028                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (通りすがりのちょっと顔整った男性ver.) | CD          | SCCA-00029                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (金髪筋肉ver.)             | CD          | SCCA-00030                                                                                                                          |                |           |                     |                |
-| 2                                    | 2016年6月22日  | **[Take a "5" Train](https://ja.wikipedia.org/wiki/Take_a_"5"_Train "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04411          | 3位             |
-| 初回限定盤B                               | CD+DVD      | PCCA-04412                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04413                                                                                                                          |                |           |                     |                |
-| 3                                    | 2017年2月1日   | '''\[\[Reboot                                                                                                                       | \!|Reboot      | \!\]\]''' | 初回限定5周年Anniversary盤 | CD+2DVD        |
-| 初回限定5周年Best盤                         | CD+2DVD     | PCCA-04507                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04508                                                                                                                          |                |           |                     |                |
-| 4                                    | 2017年12月13日 | **[終電を超えて〜Christmas Night/忘年会\!BOU\!NEN\!KAI\!](https://ja.wikipedia.org/wiki/終電を超えて〜Christmas_Night/忘年会!BOU!NEN!KAI! "wikilink")** | 初回限定ジングルベル盤    | CD+DVD    | PCCA-04613          | 2位\[32\]</ref> |
-| 初回限定BU\! REI\! KOU\!盤                | CD+DVD      | PCCA-04614                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04615                                                                                                                          |                |           |                     |                |
-| 5                                    | 2018年8月29日  | **[キュキュッとしたいキモチ? キモチ\!](https://ja.wikipedia.org/wiki/キュキュッとしたいキモチ?_キモチ! "wikilink")**                                              | 初回限定盤A         | CD+DVD    | PCCA-04710          | 1位\[33\]       |
-| 初回限定盤B                               | CD+DVD      | PCCA-04711                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04712                                                                                                                          |                |           |                     |                |
-| 6                                    | 2019年3月27日  | **[Black Sugar](https://ja.wikipedia.org/wiki/Black_Sugar_\(A.B.C-Zの曲\) "wikilink")**                                               | 初回限定盤A         | CD+DVD    | PCCA-04754          | 3位\[34\]       |
-| 急がなくても買える初回限定盤B                      | CD+DVD      | PCCA-04755                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04756                                                                                                                          |                |           |                     |                |
-| 7                                    | 2019年9月25日  | '''\[\[DAN_DAN_Dance                                                                                                              | |DAN DAN Dance | \]\]'''   | 初回限定盤A              | CD+DVD         |
-| 初回限定盤B                               | CD+DVD      | PCCA-04857                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-04858                                                                                                                          |                |           |                     |                |
-| 8                                    | 2020年3月18日  | **[タイム](../Page/タイム.md "wikilink")**                                                                                                | 初回限定盤A         | CD+DVD    | PCCA-04945          | 2位             |
-| 初回限定盤B                               | CD+DVD      | PCCA-04946                                                                                                                          |                |           |                     |                |
-| 通常盤                                  | CD          | PCCA-70552                                                                                                                          |                |           |                     |                |
-|                                      |             |                                                                                                                                     |                |           |                     |                |
+| 枚                      | 発売日         | タイトル                                                                                                                                | 販売形態           | 規格品番      | 順位                  | 収録アルバム         |
+| ---------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- | ------------------- | -------------- |
+| 1                      | 2015年9月30日  | **[Moonlight walker](https://ja.wikipedia.org/wiki/Moonlight_walker "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04288          | 1位\[31\]       |
+| 初回限定盤B                 | CD+DVD      | PCCA-04289                                                                                                                          |                |           |                     |                |
+| 初回限定盤C                 | CD+DVD      | PCCA-04290                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04291                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (橋本ver.) | CD          | SCCA-00026                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (戸塚ver.) | CD          | SCCA-00027                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (河合ver.) | CD          | SCCA-00028                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (五関ver.) | CD          | SCCA-00029                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (塚田ver.) | CD          | SCCA-00030                                                                                                                          |                |           |                     |                |
+| 2                      | 2016年6月22日  | **[Take a "5" Train](https://ja.wikipedia.org/wiki/Take_a_"5"_Train "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04411          | 3位             |
+| 初回限定盤B                 | CD+DVD      | PCCA-04412                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04413                                                                                                                          |                |           |                     |                |
+| 3                      | 2017年2月1日   | '''\[\[Reboot                                                                                                                       | \!|Reboot      | \!\]\]''' | 初回限定5周年Anniversary盤 | CD+2DVD        |
+| 初回限定5周年Best盤           | CD+2DVD     | PCCA-04507                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04508                                                                                                                          |                |           |                     |                |
+| 4                      | 2017年12月13日 | **[終電を超えて〜Christmas Night/忘年会\!BOU\!NEN\!KAI\!](https://ja.wikipedia.org/wiki/終電を超えて〜Christmas_Night/忘年会!BOU!NEN!KAI! "wikilink")** | 初回限定ジングルベル盤    | CD+DVD    | PCCA-04613          | 2位\[32\]</ref> |
+| 初回限定BU\! REI\! KOU\!盤  | CD+DVD      | PCCA-04614                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04615                                                                                                                          |                |           |                     |                |
+| 5                      | 2018年8月29日  | **[JOYしたいキモチ](https://ja.wikipedia.org/wiki/JOYしたいキモチ "wikilink")**                                                                 | 初回限定盤A         | CD+DVD    | PCCA-04710          | 1位\[33\]       |
+| 初回限定盤B                 | CD+DVD      | PCCA-04711                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04712                                                                                                                          |                |           |                     |                |
+| 6                      | 2019年3月27日  | **[Black Sugar](https://ja.wikipedia.org/wiki/Black_Sugar_\(A.B.C-Zの曲\) "wikilink")**                                               | 初回限定盤A         | CD+DVD    | PCCA-04754          | 3位\[34\]       |
+| 初回限定盤B                 | CD+DVD      | PCCA-04755                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04756                                                                                                                          |                |           |                     |                |
+| 7                      | 2019年9月25日  | '''\[\[DAN_DAN_Dance                                                                                                              | |DAN DAN Dance | \]\]'''   | 初回限定盤A              | CD+DVD         |
+| 初回限定盤B                 | CD+DVD      | PCCA-04857                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-04858                                                                                                                          |                |           |                     |                |
+| 8                      | 2020年3月18日  | **[チートタイム](https://ja.wikipedia.org/wiki/チートタイム "wikilink")**                                                                       | 初回限定盤A         | CD+DVD    | PCCA-04945          | 2位             |
+| 初回限定盤B                 | CD+DVD      | PCCA-04946                                                                                                                          |                |           |                     |                |
+| 通常盤                    | CD          | PCCA-70552                                                                                                                          |                |           |                     |                |
+|                        |             |                                                                                                                                     |                |           |                     |                |
 
 ### アルバム
 

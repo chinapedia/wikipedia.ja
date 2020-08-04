@@ -1,7 +1,7 @@
 > この記事は[CLUB ANA](https://ja.wikipedia.org/wiki/CLUB_ANA)から翻訳されています。
 
 
-**CLUB ANA**（クラブエーエヌエー）は、[1991年](../Page/1991年.md "wikilink")に誕生し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで使用された[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")の国際線[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")[サービス](../Page/サービス.md "wikilink")の[ブランド名](https://ja.wikipedia.org/wiki/ブランド名 "wikilink")である。
+**CLUB ANA**（クラブエーエヌエー）は、[1991年](../Page/1991年.md "wikilink")に誕生し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで使用された[全日本空輸](../Page/全日本空輸.md "wikilink")の国際線[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")[サービス](../Page/サービス.md "wikilink")の[ブランド名](https://ja.wikipedia.org/wiki/ブランド名 "wikilink")である。
 
 全日本空輸が、1986年に導入した「スーパーエグゼクティブクラス」のサービスを進化させ登場したもので、2010年までに4種類の「CLUB ANA」サービスが存在していた。
 
@@ -19,7 +19,7 @@
 
 ## 発展の歴史
 
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 成田-ワシントン線などに、2-2-2の[座席配列の](https://ja.wikipedia.org/wiki/アブレスト "wikilink")「スーパービジネスクラス」を設置
+  - [1986年](../Page/1986年.md "wikilink") - 成田-ワシントン線などに、2-2-2の[座席配列の](https://ja.wikipedia.org/wiki/アブレスト "wikilink")「スーパービジネスクラス」を設置
   - [1991年](../Page/1991年.md "wikilink") - 「スーパービジネスクラス」を進化させ「CLUB ANA」導入、日本の航空会社で初めて全席にTVモニター・TVゲームを設置
   - [1994年](../Page/1994年.md "wikilink") - 「CLUB ANA」のシートピッチを世界の航空会社に先駆けて50インチ（標準より25%up）に拡大
   - [1999年](../Page/1999年.md "wikilink") - 成田-シカゴ線に「ANA's Chicago Style」のサービスを開始し、機内にバーカウンター・ビジネスコーナーを設置、世界初となるAVODシステムを導入\* [2000年](../Page/2000年.md "wikilink") - 「ANA's Chicago Style」のサービスをその他の北米路線にも拡大し、「ANA's Super Style」のサービスを開始
@@ -102,7 +102,7 @@
 
 ## 関連項目
 
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+  - [全日本空輸](../Page/全日本空輸.md "wikilink")
   - [ビジネスクラス](../Page/ビジネスクラス.md "wikilink")
   - [スーパーシート](../Page/スーパーシート.md "wikilink")プレミアム・プレミアムクラス
 

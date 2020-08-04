@@ -29,7 +29,7 @@
 
 ## 日本での活動
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:W._Edwards_Deming_in_Tokyo.jpg "wikilink")、[東京都](../Page/東京都.md "wikilink")でのセミナーにて\]\] 第二次世界大戦後（1947年）、デミングは[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での[国勢調査](https://ja.wikipedia.org/wiki/国勢調査 "wikilink")の計画立案に関わった。デミングは軍から現地での国勢調査の支援を依頼された。彼が日本にいた頃、社会への関与や品質管理技術の専門知識などもあって、[日本科学技術連盟](https://ja.wikipedia.org/wiki/日本科学技術連盟 "wikilink") (JUSE、日科技連) から招待されることになった。\[9\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:W._Edwards_Deming_in_Tokyo.jpg "wikilink")、[東京都](../Page/東京都.md "wikilink")でのセミナーにて\]\] 第二次世界大戦後（1947年）、デミングは[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での[国勢調査](../Page/国勢調査.md "wikilink")の計画立案に関わった。デミングは軍から現地での国勢調査の支援を依頼された。彼が日本にいた頃、社会への関与や品質管理技術の専門知識などもあって、[日本科学技術連盟](https://ja.wikipedia.org/wiki/日本科学技術連盟 "wikilink") (JUSE、日科技連) から招待されることになった。\[9\]
 
 日科技連のメンバーはシューハートの技法を学んでおり、日本の復興のために統計的制御の専門家の教えが必要と考えていた。[1950年](../Page/1950年.md "wikilink")6月から8月にかけて、デミングは数百名の技術者、経営者、学者に[統計的プロセス制御](../Page/統計的プロセス制御.md "wikilink")と品質の概念の講義を行った。また、少なくとも1回は企業経営者向けの講義を行っている\[10\]。デミングが企業経営者に伝えたことは、[品質](../Page/品質.md "wikilink")の向上によって支出が減り、[生産性](../Page/生産性.md "wikilink")と市場シェアが向上するということであった\[11\]。最も有名な講演は1950年8月に箱根で行われた「経営者のための品質管理講習会1日コース」である。
 

@@ -173,7 +173,7 @@
 
   - [ネマニャ・ヴチチェヴィッチ](https://ja.wikipedia.org/wiki/ネマニャ・ヴチチェヴィッチ "wikilink") 2009-2010
 
-  - [アリエル・ハルシュ](https://ja.wikipedia.org/wiki/アリエル・ハルシュ "wikilink")
+  - [アリエル・ハルシュ](../Page/アリエル・ハルシュ.md "wikilink")
 
   - [オフェル・ヴェルタ](https://ja.wikipedia.org/wiki/オフェル・ヴェルタ "wikilink")
 

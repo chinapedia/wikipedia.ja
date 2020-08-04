@@ -7,7 +7,7 @@
 
 各[レコード会社](../Page/レコード会社.md "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの中の1枚で、過去に『NANNO Singles』（32DH-5021）や『NANNO Singles II』（CSCL-1618）と発売されていたシングル・コレクション・シリーズ第3弾、というコンセプトを持つ。なお、"ナンノ" とは、南野陽子の当時の愛称である。
 
-『NANNO Singles II』発売後間もなく歌手活動が停止状態となったため、同シリーズ初収録となるシングル[A面曲は](https://ja.wikipedia.org/wiki/シングル#A面/B面 "wikilink")「[夏のおバカさん](https://ja.wikipedia.org/wiki/夏のおバカさん "wikilink")」のみである。音源に対しては、[リマスタリングが施された](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")。
+『NANNO Singles II』発売後間もなく歌手活動が停止状態となったため、同シリーズ初収録となるシングル[A面曲は](https://ja.wikipedia.org/wiki/シングル#A面/B面 "wikilink")「[夏のおバカさん](../Page/夏のおバカさん.md "wikilink")」のみである。音源に対しては、[リマスタリングが施された](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")。
 
 歌詞[ブックレット内に](../Page/小冊子.md "wikilink")、シングルとアルバムのジャケット写真付き[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")に加え、スタッフ（CBSソニーの当時の担当[音楽ディレクターであった吉田格](https://ja.wikipedia.org/wiki/ディレクター#レコード・CD制作におけるディレクター（音楽ディレクター） "wikilink")）らによる楽曲コメントが掲載されている。
 
@@ -17,17 +17,17 @@
 
 ### Disc 1
 
-1.  **[恥ずかしすぎて](https://ja.wikipedia.org/wiki/恥ずかしすぎて "wikilink")**（4分10秒）
+1.  **[恥ずかしすぎて](../Page/恥ずかしすぎて.md "wikilink")**（4分10秒）
       - 作詞: [康珍化](../Page/康珍化.md "wikilink")、作曲: [都倉俊一](../Page/都倉俊一.md "wikilink")、編曲: [大村雅朗](../Page/大村雅朗.md "wikilink")
-2.  **[さよならのめまい](https://ja.wikipedia.org/wiki/さよならのめまい "wikilink")**（4分52秒）
+2.  **[さよならのめまい](../Page/さよならのめまい.md "wikilink")**（4分52秒）
       - 作詞: [来生えつこ](../Page/来生えつこ.md "wikilink")、作曲: [来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")、編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")
-3.  **[悲しみモニュメント](https://ja.wikipedia.org/wiki/悲しみモニュメント "wikilink")**（4分4秒）
+3.  **[悲しみモニュメント](../Page/悲しみモニュメント.md "wikilink")**（4分4秒）
       - 作詞: 来生えつこ、作曲: [鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")、編曲: [新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")
 4.  **[春景色](https://ja.wikipedia.org/wiki/悲しみモニュメント#収録曲 "wikilink")**（5分20秒）
       - 作詞: イノ・ブランシュ、作曲: 岸正之、編曲: 萩田光雄
-5.  **[風のマドリガル](https://ja.wikipedia.org/wiki/風のマドリガル "wikilink")**（3分58秒）
+5.  **[風のマドリガル](../Page/風のマドリガル.md "wikilink")**（3分58秒）
       - 作詞: [湯川れい子](../Page/湯川れい子.md "wikilink")、作曲: [井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、編曲: 萩田光雄
-6.  **[接近（アプローチ）](https://ja.wikipedia.org/wiki/接近_\(アプローチ\) "wikilink")**（4分33秒）
+6.  **[接近（アプローチ）](../Page/接近_\(アプローチ\).md "wikilink")**（4分33秒）
       - 作詞: 森田記（康珍化）、作曲: [亀井登志夫](../Page/亀井登志夫.md "wikilink")、編曲: 萩田光雄
 7.  **[私の中のヴァージニア](https://ja.wikipedia.org/wiki/VIRGINAL#収録曲 "wikilink")**（5分11秒）
       - 作詞: 戸沢暢美、作曲: 木戸泰弘、編曲: 萩田光雄
@@ -74,17 +74,17 @@
       - 作詞・作曲: [飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")、編曲: [佐藤準](../Page/佐藤準.md "wikilink")
 10. **[僕らのゆくえ](https://ja.wikipedia.org/wiki/フィルムの向こう側#収録曲 "wikilink")**（4分25秒）
       - 作詞: 平出よしかつ、作曲: 柴矢俊彦、編曲: 萩田光雄
-11. **[ダブルゲーム](https://ja.wikipedia.org/wiki/ダブルゲーム "wikilink")**（4分15秒）
+11. **[ダブルゲーム](../Page/ダブルゲーム.md "wikilink")**（4分15秒）
       - 作詞: [荒木とよひさ](../Page/荒木とよひさ.md "wikilink")、作曲: [三木たかし](../Page/三木たかし.md "wikilink")、編曲: [若草恵](../Page/若草恵.md "wikilink")
 12. **[へんなの\!\!](https://ja.wikipedia.org/wiki/へんなの!! "wikilink")**（4分10秒）
       - 作詞: [谷穂ちろる](../Page/谷穂ちろる.md "wikilink")、作曲・編曲: 柴矢俊彦
 13. **[思い出を思い出さないように](https://ja.wikipedia.org/wiki/へんなの!!#収録曲 "wikilink")**（4分29秒）
       - 作詞: 谷穂ちろる、作曲・編曲: 柴矢俊彦
-14. **[耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")**（3分34秒）
+14. **[耳をすましてごらん](../Page/耳をすましてごらん.md "wikilink")**（3分34秒）
       - 作詞: [山田太一](../Page/山田太一_\(脚本家\).md "wikilink")、作曲: 湯浅譲二、編曲: [若草恵](../Page/若草恵.md "wikilink")
-15. **[KISSしてロンリネス](https://ja.wikipedia.org/wiki/KISSしてロンリネス "wikilink")**（4分8秒）
+15. **[KISSしてロンリネス](../Page/KISSしてロンリネス.md "wikilink")**（4分8秒）
       - 作詞: [亜蘭知子](../Page/亜蘭知子.md "wikilink")、作曲: [織田哲郎](../Page/織田哲郎.md "wikilink")、編曲: [明石昌夫](../Page/明石昌夫.md "wikilink")
-16. **[夏のおバカさん](https://ja.wikipedia.org/wiki/夏のおバカさん "wikilink")**（3分51秒）
+16. **[夏のおバカさん](../Page/夏のおバカさん.md "wikilink")**（3分51秒）
       - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲: 南野陽子、編曲: [明石昌夫](../Page/明石昌夫.md "wikilink")
 17. **[思いのままに](https://ja.wikipedia.org/wiki/耳をすましてごらん#収録曲 "wikilink")**（5分49秒）
       - 作詞: 平出よしかつ、作曲: 亀井登志夫、編曲: 萩田光雄

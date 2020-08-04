@@ -144,7 +144,7 @@
   - 真っ白な雪、真っ白な未来（[竹仲絵里](../Page/竹仲絵里.md "wikilink")、2008年1月）
   - [Baby cruising Love](https://ja.wikipedia.org/wiki/Baby_cruising_Love/マカロニ "wikilink") （[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")、2008年2月）
   - [U](https://ja.wikipedia.org/wiki/VANDALIZE_\(10-FEETのアルバム\) "wikilink") （[10-FEET](../Page/10-FEET.md "wikilink")、2008年3月）
-  - [瞳孔ソナー](https://ja.wikipedia.org/wiki/瞳孔ソナー "wikilink")（[依布サラサ](https://ja.wikipedia.org/wiki/依布サラサ "wikilink")、2008年4月前半）
+  - [瞳孔ソナー](../Page/瞳孔ソナー.md "wikilink")（[依布サラサ](https://ja.wikipedia.org/wiki/依布サラサ "wikilink")、2008年4月前半）
   - [MERRY GO WORLD](https://ja.wikipedia.org/wiki/MERRY_GO_WORLD "wikilink") （[12012](../Page/12012.md "wikilink")、2008年4月後半 - 5月前半）
   - [恋一夜](https://ja.wikipedia.org/wiki/Recreation_\(アルバム\) "wikilink")（[Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")、2008年5月後半 - 6月）
   - オアシス（[ぶどう÷グレープ](http://budo-grape.net/)、2008年7月第1週目）
@@ -174,7 +174,7 @@
   - message（[さくら学院](https://ja.wikipedia.org/wiki/さくら学院 "wikilink")、2011年3月）
   - Toy box（[JAY'ED](../Page/JAY'ED.md "wikilink")×[若旦那](../Page/若旦那_\(ミュージシャン\).md "wikilink")、2011年8月）
   - アゲハ蝶（[カラーボトル](https://ja.wikipedia.org/wiki/カラーボトル "wikilink")、2012年1月）
-  - バトン（[キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")、2012年6月）
+  - バトン（[キマグレン](../Page/キマグレン.md "wikilink")、2012年6月）
   - 夜の作り方（LindrRond、2012年10月）
   - Ti Amo（[Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")、2012年11月）
   - Lolita（[ドレスコーズ](https://ja.wikipedia.org/wiki/ドレスコーズ "wikilink")、2012年12月）
@@ -249,7 +249,7 @@
 ### a-ha-N SP\!\! 名・音AIR
 
   - 放送日時 - 2006年12月27日（水曜） 24:30 - 25:24
-  - 出演者 - [伊藤千晃](../Page/伊藤千晃.md "wikilink")（[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")）、[ダイノジ](../Page/ダイノジ.md "wikilink")、[ハレンチ☆パンチ](../Page/80_pan.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")ほか
+  - 出演者 - [伊藤千晃](../Page/伊藤千晃.md "wikilink")（[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")）、[ダイノジ](../Page/ダイノジ.md "wikilink")、[ハレンチ☆パンチ](../Page/80_pan.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")ほか
 
 ### a-ha-N SP\!\! MUSIC TRAIN 音鉄♪名古屋線
 

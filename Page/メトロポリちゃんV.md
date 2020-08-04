@@ -105,10 +105,10 @@
 ## エピソード
 
   - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")で「テレビで撲殺天使ドクロちゃんを歌ったアイドル」として投稿されニコニコデイリーランキングで1位を獲得。40万件以上の再生数を誇る（2010年8月現在）。
-  - 初のメディア出演である『[勝ち抜き\!アイドル天国\!\!ヌキ天](../Page/勝ち抜き!アイドル天国!!ヌキ天.md "wikilink")』では、ファンを注射器で殴る、蹴るという過激なパフォーマンス内容に司会、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")を含む審査員一同引いていた。また『[○○あい☆コラ\!生やぐち](../Page/○○あい☆コラ!生やぐち.md "wikilink")』出演時には、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")から毎週来て欲しいと絶賛された。
+  - 初のメディア出演である『[勝ち抜き\!アイドル天国\!\!ヌキ天](../Page/勝ち抜き!アイドル天国!!ヌキ天.md "wikilink")』では、ファンを注射器で殴る、蹴るという過激なパフォーマンス内容に司会、[石川梨華](../Page/石川梨華.md "wikilink")を含む審査員一同引いていた。また『[○○あい☆コラ\!生やぐち](../Page/○○あい☆コラ!生やぐち.md "wikilink")』出演時には、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")から毎週来て欲しいと絶賛された。
   - [にしおかすみこ](../Page/にしおかすみこ.md "wikilink")とは旧知の仲で、2007年12月、[Yahoo\!動画の](../Page/Yahoo!_JAPAN.md "wikilink")「すみこの小部屋」に出演した際に本名をばらされた。
   - 2008年2月1日、『[太田光の私が総理大臣になったら…秘書田中。](../Page/太田光の私が総理大臣になったら…秘書田中。.md "wikilink")』の「国が病院を格付けし最低ランクの病院をつぶします」の回に本業の[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")として偽名で覆面をつけて出演したが、見る人によっては当人とわかる風貌であった。
-  - 2008年4月より「メトロちゃん」の名で日本テレビの深夜番組『[モバタレGREAT](https://ja.wikipedia.org/wiki/モバタレGREAT "wikilink")』のアイドル枠でのタレタマ（準レギュラー）となった。このアイドル枠から2008年の[日テレジェニック](../Page/日テレジェニック.md "wikilink")が1名選出されることになり、候補の一人となる。
+  - 2008年4月より「メトロちゃん」の名で日本テレビの深夜番組『[モバタレGREAT](../Page/モバタレGREAT.md "wikilink")』のアイドル枠でのタレタマ（準レギュラー）となった。このアイドル枠から2008年の[日テレジェニック](../Page/日テレジェニック.md "wikilink")が1名選出されることになり、候補の一人となる。
   - 2008年5月19日放送の『[AKiBAッテキ\!\!](https://ja.wikipedia.org/wiki/AKiBAッテキ!! "wikilink")』生放送で、司会の[mimika](https://ja.wikipedia.org/wiki/mimika "wikilink")をさん付けで呼ぶ一方、[Saori@destiny](https://ja.wikipedia.org/wiki/Saori@destiny "wikilink")を「ディステニー」呼ばわりして喧嘩になる（ただし演出と思われる）。
   - 2008年5月20日放送の『[ありえへん∞世界](../Page/ありえへん∞世界.md "wikilink")』のありえないアイドル第3位に選ばれる。その時のキャッチコピーは「アイドル界の[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")」。
   - [オビラジR](../Page/オビラジR.md "wikilink")出演時に看護師免許を公開し、本当に現役看護師である証拠を見せた。
@@ -218,7 +218,7 @@
 
   - [トリビアの泉](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 調査員として出演経験あり
   - [勝ち抜き\!アイドル天国\!\!ヌキ天](../Page/勝ち抜き!アイドル天国!!ヌキ天.md "wikilink")（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")） - 第1回、第4回放送に出演。第15回放送の後輩の[河井彬](https://ja.wikipedia.org/wiki/河井彬 "wikilink")の出番の時には乱入出演も行う
-  - [モバタレGREAT](https://ja.wikipedia.org/wiki/モバタレGREAT "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 「タレタマ」として出演
+  - [モバタレGREAT](../Page/モバタレGREAT.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 「タレタマ」として出演
   - [ありえへん∞世界](../Page/ありえへん∞世界.md "wikilink")（2008年5月20日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [アリケン](https://ja.wikipedia.org/wiki/アリケン "wikilink")（テレビ東京）
       - 2008年6月26日、2008年7月3日は「メトロちゃん」の名前で出演。この番組でもスクール水着姿を見せていた。2008年9月18日は「メト子ちゃん」、2009年6月6日は、「メトコ」の名前で出演。

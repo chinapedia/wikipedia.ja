@@ -14,7 +14,7 @@
   - 6階 レストラン街、カラダストレッチ
   - 5階 [東急ハンズ](../Page/東急ハンズ.md "wikilink")
   - 4階 [ジーユー](https://ja.wikipedia.org/wiki/ジーユー "wikilink")
-  - 3階 [ユニクロ](../Page/ユニクロ.md "wikilink")、[Mac-House](https://ja.wikipedia.org/wiki/マックハウス "wikilink")、カフェココナッツ、[好日山荘](https://ja.wikipedia.org/wiki/好日山荘 "wikilink")
+  - 3階 [ユニクロ](../Page/ユニクロ.md "wikilink")、[Mac-House](../Page/マックハウス.md "wikilink")、カフェココナッツ、[好日山荘](https://ja.wikipedia.org/wiki/好日山荘 "wikilink")
   - 2階 [P.S.FA](https://ja.wikipedia.org/wiki/はるやま商事#店舗#Perfect_Suit_FActory "wikilink")、[ABCマート](../Page/ABCマート.md "wikilink")、[OWNDAYS](../Page/オンデーズ.md "wikilink")、みつばち保険ファーム
   - 1階 [TSUTAYA](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")（売り場面積約1,000m<sup>2</sup>\[1\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）4月23日開店\[2\]）、Fit Care Express＆musee de peau Raffine（ドラッグ＆コスメ）
   - 地下1階 パチンコ&スロット [PIA](../Page/マタハリー.md "wikilink")

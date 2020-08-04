@@ -47,7 +47,7 @@
 
   - [20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Greece.svg "wikilink") [ニコス・ハツィブレタス](https://ja.wikipedia.org/wiki/ニコス・ハツィブレタス "wikilink")
 
-  - [20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Lithuania.svg "wikilink") [ラムーナス・シシュカウスカス](https://ja.wikipedia.org/wiki/ラムーナス・シシュカウスカス "wikilink")
+  - [20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Lithuania.svg "wikilink") [ラムーナス・シシュカウスカス](../Page/ラムーナス・シシュカウスカス.md "wikilink")
 
   - [デビッド・アンダーセン](https://ja.wikipedia.org/wiki/デビッド・アンダーセン "wikilink") 1998-1999
 

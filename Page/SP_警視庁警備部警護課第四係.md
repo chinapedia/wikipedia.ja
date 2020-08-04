@@ -1,7 +1,7 @@
 > この記事は[SP 警視庁警備部警護課第四係](https://ja.wikipedia.org/wiki/SP_警視庁警備部警護課第四係)から翻訳されています。
 
 
-『**SP 警視庁警備部警護課第四係**』（エスピー けいしちょうけいびぶけいごかだいよんがかり）は、[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")まで毎週土曜日23:10 - 23:55に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[土曜ドラマ](../Page/土曜ドラマ_\(フジテレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[V6の](../Page/V6_\(グループ\).md "wikilink")[岡田准一](../Page/岡田准一.md "wikilink")\[1\]。
+『**SP 警視庁警備部警護課第四係**』（エスピー けいしちょうけいびぶけいごかだいよんがかり）は、[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月26日](../Page/1月26日.md "wikilink")まで毎週土曜日23:10 - 23:55に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[土曜ドラマ](../Page/土曜ドラマ_\(フジテレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[V6の](../Page/V6_\(グループ\).md "wikilink")[岡田准一](../Page/岡田准一.md "wikilink")\[1\]。
 
 2008年[4月5日](../Page/4月5日.md "wikilink")の[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")枠では、レギュラー放送では描かれなかったエピソードと共に、レギュラー放送の内容を回想で時系列に再編集した総集編『スペシャルアンコール特別編 Episode IVex.』を放送した。
 
@@ -234,7 +234,7 @@
     演 - [北山雅康](../Page/北山雅康.md "wikilink")
     フューチャーズグループ取締役。LIVERPOOL cleaningによって自宅で殺害される。
   - 湯川 学（ゆかわ まなぶ）
-    演 - [みっちー](https://ja.wikipedia.org/wiki/みっちー "wikilink")
+    演 - [みっちー](../Page/みっちー.md "wikilink")
     『[ガリレオ](https://ja.wikipedia.org/wiki/ガリレオ_\(テレビドラマ\) "wikilink")』の主人公。釣り堀に登場した人物の中で唯一、役者が明かされている [1](http://jnsk.blog14.fc2.com/)。
 
 #### Episode Ø Countdown to Crisis（第8話）

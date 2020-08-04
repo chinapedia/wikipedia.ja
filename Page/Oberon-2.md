@@ -5,7 +5,7 @@
 
 1991年、[チューリッヒ工科大学](../Page/チューリッヒ工科大学.md "wikilink")の[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")と （現システムソフトウェア研究所）が開発した。Oberon-2 は [Oberon](../Page/Oberon.md "wikilink") の上位互換である。Oberon-2 は Object Oberon（Oberon にオブジェクト指向のコンセプトを導入した最初の試み）の再設計でもあった。
 
-Oberon-2 は Oberon から限定された[リフレクションとインタフェースなどを持たない](../Page/リフレクション_\(情報工学\).md "wikilink")[単一継承](https://ja.wikipedia.org/wiki/継承_\(プログラミング\)#派生型による共用と置換 "wikilink")（[型拡張](../Page/派生型.md "wikilink")）を受け継いでいるが、効果的な仮想メソッド（型束縛プロシージャ）を追加している。メソッド呼び出しは、[C++](../Page/C++.md "wikilink")のような[仮想メソッドテーブルを使って実行時に確定する](https://ja.wikipedia.org/wiki/仮想関数テーブル "wikilink")。
+Oberon-2 は Oberon から限定された[リフレクションとインタフェースなどを持たない](../Page/リフレクション_\(情報工学\).md "wikilink")[単一継承](https://ja.wikipedia.org/wiki/継承_\(プログラミング\)#派生型による共用と置換 "wikilink")（[型拡張](../Page/派生型.md "wikilink")）を受け継いでいるが、効果的な仮想メソッド（型束縛プロシージャ）を追加している。メソッド呼び出しは、[C++](../Page/C++.md "wikilink")のような[仮想メソッドテーブルを使って実行時に確定する](../Page/仮想関数テーブル.md "wikilink")。
 
 [Smalltalk](../Page/Smalltalk.md "wikilink") などの完全なオブジェクト指向言語に比べると、Oberon-2 の基本データ型はオブジェクトになっておらず、クラスもオブジェクトではなく、多くの操作がメソッドではないし、[メッセージパッシング](https://ja.wikipedia.org/wiki/メッセージパッシング "wikilink")の概念もなく、[ポリモーフィズム](../Page/ポリモーフィズム.md "wikilink")も限定的である（[Smalltalk](../Page/Smalltalk.md "wikilink")や[Ruby](../Page/Ruby.md "wikilink")のような[ダックタイピング](https://ja.wikipedia.org/wiki/ダックタイピング "wikilink")がなく、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")のような[インタフェースも定義できない](https://ja.wikipedia.org/wiki/インタフェース_\(情報技術\)#ソフトウェアインタフェース "wikilink")）。オブジェクト/クラスレベルでの[カプセル化](../Page/カプセル化.md "wikilink")もサポートしていないが、モジュールをその目的で使用することができる。
 

@@ -89,7 +89,7 @@
 3.  **[泣きぬれてひとり旅](https://ja.wikipedia.org/wiki/泣きぬれてひとり旅 "wikilink")**（4:53）
       - 作詞・作曲: [河島英五](../Page/河島英五.md "wikilink")、編曲: 森岡賢一郎
 4.  **[雨…](../Page/雨….md "wikilink")**（4:01）
-      - 作詞・作曲: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲: 萩田光雄
+      - 作詞・作曲: [中島みゆき](../Page/中島みゆき.md "wikilink")、編曲: 萩田光雄
       - [第29回NHK紅白歌合戦](../Page/第29回NHK紅白歌合戦.md "wikilink") 歌唱曲
 5.  **[スペインの雨](https://ja.wikipedia.org/wiki/スペインの雨_\(小柳ルミ子の曲\) "wikilink")**（3:41）
       - 作詞: 阿久悠、作曲: [大野克夫](../Page/大野克夫.md "wikilink")、編曲: 萩田光雄

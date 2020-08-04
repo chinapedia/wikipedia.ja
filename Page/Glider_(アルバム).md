@@ -38,7 +38,7 @@
       - [松岡昌宏](../Page/松岡昌宏.md "wikilink")主演 [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[ナースマン](../Page/ナースマン.md "wikilink")』主題歌
 4.  **Live my life\!** \[4:12\]
       -
-        作詞：[山口達也](https://ja.wikipedia.org/wiki/山口達也 "wikilink")、作曲：[国分太一](../Page/国分太一.md "wikilink")、編曲：国分太一・Butcha K.
+        作詞：[山口達也](../Page/山口達也.md "wikilink")、作曲：[国分太一](../Page/国分太一.md "wikilink")、編曲：国分太一・Butcha K.
 5.  **faith** \[5:58\]
       -
         作詞・作曲：[米倉利徳](../Page/米倉利紀.md "wikilink")、編曲：[宗像仁志](https://ja.wikipedia.org/wiki/宗像仁志 "wikilink")

@@ -8,7 +8,7 @@
 現在は次のプラットフォームをサポートする
 
   - [Freescale](../Page/フリースケール・セミコンダクタ.md "wikilink") M68K ([DragonBall](../Page/DragonBall.md "wikilink"), [ColdFire](../Page/ColdFire.md "wikilink"), [PowerQUICC](../Page/PowerQUICC.md "wikilink") その他を含む)
-  - [ADI](https://ja.wikipedia.org/wiki/Analog_Devices "wikilink") [Blackfin](https://ja.wikipedia.org/wiki/Blackfin "wikilink")
+  - [ADI](https://ja.wikipedia.org/wiki/Analog_Devices "wikilink") [Blackfin](../Page/Blackfin.md "wikilink")
   - [ETRAX](https://ja.wikipedia.org/wiki/ETRAX_CRIS "wikilink")
   - [ARM](../Page/ARMアーキテクチャ.md "wikilink") (例としてはSigma Designs [DVD](../Page/DVD.md "wikilink")エンジン)
   - [Intel i960](../Page/Intel_i960.md "wikilink")

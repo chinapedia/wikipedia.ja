@@ -7,7 +7,7 @@
 
 ## 解説
 
-「ROCK'N'ROLL CIRCUS TOUR」と題されたライブツアーの内、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に行われた日本武道館公演から収録されている。初回限定版は同ツアー･パンフレットの縮小版を付属。 同タイトルのCD版は1987年2月24日公演を収録しているが、こちらの映像版は8曲目「NO N.Y」から11曲目「DREAMIN'」の4曲以外は1986年12月10日公演の録音から収録されている。
+「ROCK'N'ROLL CIRCUS TOUR」と題されたライブツアーの内、[1986年](../Page/1986年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に行われた日本武道館公演から収録されている。初回限定版は同ツアー･パンフレットの縮小版を付属。 同タイトルのCD版は1987年2月24日公演を収録しているが、こちらの映像版は8曲目「NO N.Y」から11曲目「DREAMIN'」の4曲以外は1986年12月10日公演の録音から収録されている。
 
 [2012年](../Page/2012年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に発売された『[BOØWY BLU-RAY COMPLETE](https://ja.wikipedia.org/wiki/BOOWY_Blu-ray_COMPLETE "wikilink")』のDISC2に本作品映像と共に、1986年12月10日の日本武道館公演の完全版映像をニュー・コンテンツとして追加収録\[1\]。
 

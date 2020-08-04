@@ -57,7 +57,7 @@
 
   - [JR北海道ホテルズ株式会社](https://www.jrhotels.co.jp/)
 
-[Category:JRホテルグループ](https://ja.wikipedia.org/wiki/Category:JRホテルグループ "wikilink") [Category:JR北海道グループ](https://ja.wikipedia.org/wiki/Category:JR北海道グループ "wikilink") [Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink") [Category:ホテル運営会社](https://ja.wikipedia.org/wiki/Category:ホテル運営会社 "wikilink")
+[Category:JRホテルグループ](https://ja.wikipedia.org/wiki/Category:JRホテルグループ "wikilink") [Category:JR北海道グループ](https://ja.wikipedia.org/wiki/Category:JR北海道グループ "wikilink") [Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink") [Category:日本のホテル運営会社](https://ja.wikipedia.org/wiki/Category:日本のホテル運営会社 "wikilink")
 
 1.
 2.

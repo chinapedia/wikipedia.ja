@@ -1,7 +1,7 @@
 > この記事は[Microsoft Flight Simulator X](https://ja.wikipedia.org/wiki/Microsoft_Flight_Simulator_X)から翻訳されています。
 
 
-**Microsoft Flight Simulator X**（マイクロソフトフライトシミュレータX）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[フライトシミュレータ](https://ja.wikipedia.org/wiki/フライトシミュレータ "wikilink")である[Microsoft Flight Simulatorシリーズのひとつで](../Page/Microsoft_Flight_Simulator.md "wikilink")、Microsoft Flight Simulator 2004の後継バージョンである。新たに、[Microsoft Windows Vistaへの互換性](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、それまでと同じグラフィックスエンジンを含むアップグレードなどの新機能に対応した。英語版は[2006年](../Page/2006年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")、日本語版は[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")（Vista発売の4日前）に発売された。
+**Microsoft Flight Simulator X**（マイクロソフトフライトシミュレータX）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[フライトシミュレータ](https://ja.wikipedia.org/wiki/フライトシミュレータ "wikilink")である[Microsoft Flight Simulatorシリーズのひとつで](../Page/Microsoft_Flight_Simulator.md "wikilink")、Microsoft Flight Simulator 2004の後継バージョンである。新たに、[Microsoft Windows Vistaへの互換性](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、それまでと同じグラフィックスエンジンを含むアップグレードなどの新機能に対応した。英語版は[2006年](../Page/2006年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")、日本語版は[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")（Vista発売の4日前）に発売された。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ### DVD-ROM版
 
-Microsoft Flight Simulator Xは発売直後に、世界の人気フライトシミュレータ・ランキングにおいて、それまで1位の座を誇っていたコンバット系の[Lock On: Modern Air Combatを抜き](../Page/Lock_On:_Modern_Air_Combat.md "wikilink")、1位に選定される、メジャーなフライトシミュレータである（2007年11月現在）。北アメリカにおいては、英語版が[2006年](../Page/2006年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売され、日本語版も[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された。
+Microsoft Flight Simulator Xは発売直後に、世界の人気フライトシミュレータ・ランキングにおいて、それまで1位の座を誇っていたコンバット系の[Lock On: Modern Air Combatを抜き](../Page/Lock_On:_Modern_Air_Combat.md "wikilink")、1位に選定される、メジャーなフライトシミュレータである（2007年11月現在）。北アメリカにおいては、英語版が[2006年](../Page/2006年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売され、日本語版も[2007年](../Page/2007年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")に発売された。
 
 英語版ではStandard EditionとDeluxe Editionの2種類が発売されている。日本語版はオリジナル1種類（英語版におけるDeluxe版相当）のみの販売となっている。
 

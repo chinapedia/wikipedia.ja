@@ -66,7 +66,7 @@
   - [グランド・セフト・オート・サンアンドレアス](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink") (2004年) (PS2, Xbox, PC)
   - [グランド・セフト・オート・リバティーシティ・ストーリーズ](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink") (2005年) (PSP, PS2) (責任会社は[ロックスター・リーズ社](https://ja.wikipedia.org/wiki/Rockstar_Leeds "wikilink"))
   - [グランド・セフト・オート・バイスシティ・ストーリーズ](../Page/グランド・セフト・オート・バイスシティ・ストーリーズ.md "wikilink") (2006年) (PSP, PS2) (同上)
-  - [マンハント2](https://ja.wikipedia.org/wiki/マンハント2 "wikilink") (2007年) (PS2, PSP, Wii) ([ロックスター・ロンドン社](https://ja.wikipedia.org/wiki/Rockstar_London "wikilink")、ロックスター・リーズ社、[ロックスタートロント社との共同開発](https://ja.wikipedia.org/wiki/Rockstar_Toronto "wikilink"))
+  - [マンハント2](../Page/マンハント2.md "wikilink") (2007年) (PS2, PSP, Wii) ([ロックスター・ロンドン社](https://ja.wikipedia.org/wiki/Rockstar_London "wikilink")、ロックスター・リーズ社、[ロックスタートロント社との共同開発](https://ja.wikipedia.org/wiki/Rockstar_Toronto "wikilink"))
   - [グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink") (2008年) (PS3, Xbox 360, PC)
   - [グランド・セフト・オート・チャイナタウンウォーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オート・チャイナタウンウォーズ "wikilink") (2009年) (DS, PSP)
   - [グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink") (2013年) (PS3, Xbox 360) (2014年11月にPS4, Xbox One, 2015年にPCで発売)

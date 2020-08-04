@@ -3,7 +3,7 @@
 
 『**Keiko**』（けいこ）は、[1979年](../Page/1979年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。[クロード・ガニオン](https://ja.wikipedia.org/wiki/クロード・ガニオン "wikilink")監督、[若芝順子主演](https://ja.wikipedia.org/wiki/蜷川順子 "wikilink")。ヨシムラ・ガニオンプロ製作、[ATG配給](../Page/日本アート・シアター・ギルド.md "wikilink")。カラー、119分。第20回[日本映画監督協会新人賞](../Page/日本映画監督協会新人賞.md "wikilink")受賞作。
 
-[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")に暮らす独身女性ケイコの日常を淡々と描いた[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")タッチの作品。外国人監督が撮った日本映画であること、また主演に演技未経験の[京都大学](../Page/京都大学.md "wikilink")の女子学生を起用したことで話題になった。主演の若芝順子はその後西洋美術史[研究者](https://ja.wikipedia.org/wiki/研究者 "wikilink")の道に進み、[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")としての出演はこの一本のみである。
+[京都](../Page/京都.md "wikilink")に暮らす独身女性ケイコの日常を淡々と描いた[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")タッチの作品。外国人監督が撮った日本映画であること、また主演に演技未経験の[京都大学](../Page/京都大学.md "wikilink")の女子学生を起用したことで話題になった。主演の若芝順子はその後西洋美術史[研究者](https://ja.wikipedia.org/wiki/研究者 "wikilink")の道に進み、[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")としての出演はこの一本のみである。
 
 ## ストーリー
 

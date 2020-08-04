@@ -15,7 +15,7 @@
 
 以降、4thアルバム『[ブラック・タイガー](https://ja.wikipedia.org/wiki/ブラック・タイガー_\(アルバム\) "wikilink")』([1982年](../Page/1982年.md "wikilink"))、5thアルバム『[ミーン・ストリーク](https://ja.wikipedia.org/wiki/ミーン・ストリーク_\(アルバム\) "wikilink")』([1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink"))、6thアルバム『[イン・ロック・ウィ・トラスト](https://ja.wikipedia.org/wiki/イン・ロック・ウィ・トラスト "wikilink")』([1984年](../Page/1984年.md "wikilink"))、7thアルバム『ダウン・フォー・ザ・カウント』([1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"))と毎年アルバムを発表。中でも『イン・ロック・ウィ・トラスト』は、全米46位\[2\]・全英33位を記録し\[3\]、45万枚を売り上げた。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にヘイズが「ルックスが悪い」という理不尽な理由で解雇され、ジミー・デグラッソに交代。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には[ゲフィン・レコード](../Page/ゲフィン・レコード.md "wikilink")に移籍。[LAメタル](../Page/LAメタル.md "wikilink")の影響が強い『コンテイジャス』をリリース。さらに[1989年](../Page/1989年.md "wikilink")にはジョーイ・アルヴィスが脱退し、サイド・ギタリストがステフ・バーンズに交代している。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、『テン』をリリース後、解散を発表。
+[1986年](../Page/1986年.md "wikilink")にヘイズが「ルックスが悪い」という理不尽な理由で解雇され、ジミー・デグラッソに交代。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には[ゲフィン・レコード](../Page/ゲフィン・レコード.md "wikilink")に移籍。[LAメタル](../Page/LAメタル.md "wikilink")の影響が強い『コンテイジャス』をリリース。さらに[1989年](../Page/1989年.md "wikilink")にはジョーイ・アルヴィスが脱退し、サイド・ギタリストがステフ・バーンズに交代している。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、『テン』をリリース後、解散を発表。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月31日のライヴを最後に解散するが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散時と同じデイヴ・メニケッティ、ステフ・バーンズ、フィル・ケネモア、ジミー・デグラッソの4人で再結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")までに2枚のアルバムを発表した。デグラッソは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に脱退し[メガデスに加入](../Page/メガデス_\(バンド\).md "wikilink")。実質上再解散状態になる。
 

@@ -106,7 +106,7 @@ JX発足以前(ジャパンエナジー)
   - [1960年](../Page/1960年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")35年）7月 - 着工。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）[6月23日](../Page/6月23日.md "wikilink") - [日本鉱業水島製油所](https://ja.wikipedia.org/wiki/日本鉱業水島製油所 "wikilink")として操業開始。原油処理能力は40,000バレル/日。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年）8月 - 原油処理能力を90,000バレル/日に増強。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）7月 - [ノルマルパラフィン](https://ja.wikipedia.org/wiki/ノルマルパラフィン "wikilink")製造開始。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）7月 - [ノルマルパラフィン](https://ja.wikipedia.org/wiki/ノルマルパラフィン "wikilink")製造開始。
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）10月 - 原油処理能力を192,000バレル/日に増強。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）4月 - [潤滑油](../Page/潤滑油.md "wikilink")製造開始。
   - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）12月 - [日鉱共石](https://ja.wikipedia.org/wiki/日鉱共石 "wikilink")発足、同社の水島製油所となる。

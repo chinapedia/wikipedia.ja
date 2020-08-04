@@ -65,7 +65,7 @@
 
 1.  Romanticが止まらない（Remix Version） ※Remixed by 川名卓馬
 2.  Romanticが止まらない（Original Version）
-3.  [Lucky Chanceをもう一度](https://ja.wikipedia.org/wiki/Lucky_Chanceをもう一度 "wikilink")（Original Version）
+3.  [Lucky Chanceをもう一度](../Page/Lucky_Chanceをもう一度.md "wikilink")（Original Version）
 4.  Romanticが止まらない（Remix Version）（Backing Track）
 5.  Romanticが止まらない（Original Version）（Backing Track）
 6.  Lucky Chanceをもう一度（Original Version）（Backing Track）

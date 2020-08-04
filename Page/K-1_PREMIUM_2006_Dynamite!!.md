@@ -10,7 +10,7 @@
 ## 試合結果
 
   - オープニングファイト HERO'Sルール 5分3R
-    ○  [内藤征弥](../Page/内藤征弥.md "wikilink") vs.  [キム・ドンウック](https://ja.wikipedia.org/wiki/キム・ドンウック_\(格闘家\) "wikilink") ×
+    ○  [内藤征弥](../Page/内藤征弥.md "wikilink") vs.  [キム・ドンウック](../Page/キム・ドンウック_\(格闘家\).md "wikilink") ×
     3R 1:11 ギブアップ（[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第0試合 HERO'Sルール 72kg契約 5分3R
     ○  [アンディ・オロゴン](../Page/アンディ・オロゴン.md "wikilink") vs.  [金子賢](../Page/金子賢.md "wikilink") ×

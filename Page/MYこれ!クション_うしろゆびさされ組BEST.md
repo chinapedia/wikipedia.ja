@@ -11,7 +11,7 @@
 
 いずれもデジタル・[リマスタリングが実施され](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")、音質が向上した。
 
-[2007年](../Page/2007年.md "wikilink")には、"MYこれ\!" をさらに発展させた『[うしろゆびさされ組+うしろ髪ひかれ隊 SINGLESコンプリート](https://ja.wikipedia.org/wiki/うしろゆびさされ組+うしろ髪ひかれ隊_SINGLESコンプリート "wikilink")』が発売された。こちらはうしろ髪ひかれ隊どドッキングしたツイン・ベスト。両グループのシングルA・B面曲を網羅している。
+[2007年](../Page/2007年.md "wikilink")には、"MYこれ\!" をさらに発展させた『[うしろゆびさされ組+うしろ髪ひかれ隊 SINGLESコンプリート](../Page/うしろゆびさされ組+うしろ髪ひかれ隊_SINGLESコンプリート.md "wikilink")』が発売された。こちらはうしろ髪ひかれ隊どドッキングしたツイン・ベスト。両グループのシングルA・B面曲を網羅している。
 
 同時発売で、母体の[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")と、関連歌手・[うしろ髪ひかれ隊](../Page/うしろ髪ひかれ隊.md "wikilink")と[工藤静香](../Page/工藤静香.md "wikilink")のベストも発売された。
 
@@ -80,7 +80,7 @@
 
 ## 関連作品
 
-  - [MYこれ\!クション 高井麻巳子BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_高井麻巳子BEST "wikilink")
+  - [MYこれ\!クション 高井麻巳子BEST](../Page/MYこれ!クション_高井麻巳子BEST.md "wikilink")
   - [MYこれ\!クション ゆうゆBEST](https://ja.wikipedia.org/wiki/MYこれ!クション_ゆうゆBEST "wikilink")
   - [MYこれ\!クション おニャン子クラブBEST](../Page/MYこれ!クション_おニャン子クラブBEST.md "wikilink")
   - [MYこれ\!クション うしろ髪ひかれ隊BEST](../Page/MYこれ!クション_うしろ髪ひかれ隊BEST.md "wikilink")

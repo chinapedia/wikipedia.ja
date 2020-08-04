@@ -9,7 +9,6 @@
   - 共に[アルバム](../Page/アルバム.md "wikilink")の製作中という事もあり[電話](../Page/電話.md "wikilink")や[ファックス](https://ja.wikipedia.org/wiki/ファックス "wikilink")でのやりとりで[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が進められた。クレジットにはないがTAKUROと同じGLAYのメンバーである[TERU](../Page/TERU.md "wikilink")が[コーラスで参加している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
   - 詞の大部分はTAKUROによるもので、中山はほんの少し手を加えただけだったので、作詞のクレジットに中山の名前を入れるつもりはなかったが、TAKUROの意向で連名となった。
   - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[メレンゲの気持ち](../Page/メレンゲの気持ち.md "wikilink")』のエンディングテーマ曲に起用された縁から、同番組にゲスト出演した。
-  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 
@@ -24,7 +23,7 @@
 
   - **LOVE CLOVER**
       - [YOUR SELECTION 1](https://ja.wikipedia.org/wiki/YOUR_SELECTION#YOUR_SELECTION_1 "wikilink")
-      - [COLLECTION IV](https://ja.wikipedia.org/wiki/COLLECTION_IV "wikilink")
+      - [COLLECTION IV](../Page/COLLECTION_IV.md "wikilink")
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト2](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト2 "wikilink")
       - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")

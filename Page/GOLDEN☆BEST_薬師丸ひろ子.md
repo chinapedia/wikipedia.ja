@@ -53,7 +53,7 @@
       -
         映画『[紳士同盟](https://ja.wikipedia.org/wiki/紳士同盟_\(1986年の映画\) "wikilink")』主題歌
 9.  **[時代](../Page/時代_\(中島みゆきの曲\).md "wikilink")**　
-      - 作詞・作曲: [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")
+      - 作詞・作曲: [中島みゆき](../Page/中島みゆき.md "wikilink")
     <!-- end list -->
       -
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』エンディングテーマ。
@@ -70,7 +70,7 @@
 12. **天に星 地に花**　
       - 作詞: 松本隆、作曲: 筒美京平
 13. **ささやきのステップ**　
-      - 作詞: 松本隆、作曲: [佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")
+      - 作詞: 松本隆、作曲: [佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink")
 14. '''2×2 Two by two '''　
       - 作詞: 阿木燿子、作曲: [辻畑鉄也](../Page/辻畑鉄也.md "wikilink")
 15. **Windy Boy**　
@@ -87,7 +87,7 @@
     <!-- end list -->
       -
         TBS系『[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")』エンディングテーマ
-19. **[A LOVER'S CONCERTO](https://ja.wikipedia.org/wiki/ラヴァーズ・コンチェルト "wikilink")**　
+19. **[A LOVER'S CONCERTO](../Page/ラヴァーズ・コンチェルト.md "wikilink")**　
       - 作詞・作曲: DENNY RANDELL - SANDY LINZER、日本語詞: [岩谷時子](../Page/岩谷時子.md "wikilink")
 
 ## 脚注

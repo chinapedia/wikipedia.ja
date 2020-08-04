@@ -17,7 +17,7 @@
 
 ## レコーディングセッション参加作品
 
-  - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/KOOL KIZZ 参加形態：バックコーラス
+  - [ZIGGY](../Page/ZIGGY.md "wikilink")/KOOL KIZZ 参加形態：バックコーラス
 
 ## 外部リンク
 

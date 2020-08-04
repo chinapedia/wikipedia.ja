@@ -5,17 +5,17 @@
 
 ## 出場選手
 
-| 車番 | 選手                                                      | 出身[県](../Page/都道府県.md "wikilink")                  |
-| -- | ------------------------------------------------------- | -------------------------------------------------- |
-| 1  | [神山雄一郎](../Page/神山雄一郎.md "wikilink")                    | [栃木](https://ja.wikipedia.org/wiki/栃木県 "wikilink") |
-| 2  | [佐藤慎太郎](../Page/佐藤慎太郎.md "wikilink")                    | [福島](../Page/福島県.md "wikilink")                    |
-| 3  | [村上義弘](../Page/村上義弘_\(競輪選手\).md "wikilink")             | [京都](../Page/京都府.md "wikilink")                    |
-| 4  | [齋藤登志信](https://ja.wikipedia.org/wiki/齋藤登志信 "wikilink") | [山形](../Page/山形県.md "wikilink")                    |
-| 5  | [小橋正義](../Page/小橋正義.md "wikilink")                      | [新潟](../Page/新潟県.md "wikilink")                    |
-| 6  | [内林久徳](../Page/内林久徳.md "wikilink")                      | [滋賀](../Page/滋賀県.md "wikilink")                    |
-| 7  | [伏見俊昭](../Page/伏見俊昭.md "wikilink")                      | 福島                                                 |
-| 8  | [岡部芳幸](../Page/岡部芳幸.md "wikilink")                      | 福島                                                 |
-| 9  | **[小野俊之](../Page/小野俊之.md "wikilink")**                  | [大分](../Page/大分県.md "wikilink")                    |
+| 車番 | 選手                                          | 出身[県](../Page/都道府県.md "wikilink")                  |
+| -- | ------------------------------------------- | -------------------------------------------------- |
+| 1  | [神山雄一郎](../Page/神山雄一郎.md "wikilink")        | [栃木](https://ja.wikipedia.org/wiki/栃木県 "wikilink") |
+| 2  | [佐藤慎太郎](../Page/佐藤慎太郎.md "wikilink")        | [福島](../Page/福島県.md "wikilink")                    |
+| 3  | [村上義弘](../Page/村上義弘_\(競輪選手\).md "wikilink") | [京都](../Page/京都府.md "wikilink")                    |
+| 4  | [齋藤登志信](../Page/齋藤登志信.md "wikilink")        | [山形](../Page/山形県.md "wikilink")                    |
+| 5  | [小橋正義](../Page/小橋正義.md "wikilink")          | [新潟](../Page/新潟県.md "wikilink")                    |
+| 6  | [内林久徳](../Page/内林久徳.md "wikilink")          | [滋賀](../Page/滋賀県.md "wikilink")                    |
+| 7  | [伏見俊昭](../Page/伏見俊昭.md "wikilink")          | 福島                                                 |
+| 8  | [岡部芳幸](../Page/岡部芳幸.md "wikilink")          | 福島                                                 |
+| 9  | **[小野俊之](../Page/小野俊之.md "wikilink")**      | [大分](../Page/大分県.md "wikilink")                    |
 
   - 補欠選手は[小川圭二](https://ja.wikipedia.org/wiki/小川圭二 "wikilink")（徳島）\[1\]
 
@@ -25,17 +25,17 @@
 
 ## 競走結果
 
-| 着順 | 選手                                                      | [決まり手](../Page/決まり手.md "wikilink") |
-| -- | ------------------------------------------------------- | ---------------------------------- |
-| 1  | **[小野俊之](../Page/小野俊之.md "wikilink")**                  | 差                                  |
-| 2  | [岡部芳幸](../Page/岡部芳幸.md "wikilink")                      | 差                                  |
-| 3  | [小橋正義](../Page/小橋正義.md "wikilink")                      |                                    |
-| 4  | [村上義弘](../Page/村上義弘_\(競輪選手\).md "wikilink")             |                                    |
-| 5  | [齋藤登志信](https://ja.wikipedia.org/wiki/齋藤登志信 "wikilink") |                                    |
-| 6  | [伏見俊昭](../Page/伏見俊昭.md "wikilink")                      |                                    |
-| 7  | [佐藤慎太郎](../Page/佐藤慎太郎.md "wikilink")                    |                                    |
-| 8  | [内林久徳](../Page/内林久徳.md "wikilink")                      |                                    |
-| 9  | [神山雄一郎](../Page/神山雄一郎.md "wikilink")                    |                                    |
+| 着順 | 選手                                          | [決まり手](../Page/決まり手.md "wikilink") |
+| -- | ------------------------------------------- | ---------------------------------- |
+| 1  | **[小野俊之](../Page/小野俊之.md "wikilink")**      | 差                                  |
+| 2  | [岡部芳幸](../Page/岡部芳幸.md "wikilink")          | 差                                  |
+| 3  | [小橋正義](../Page/小橋正義.md "wikilink")          |                                    |
+| 4  | [村上義弘](../Page/村上義弘_\(競輪選手\).md "wikilink") |                                    |
+| 5  | [齋藤登志信](../Page/齋藤登志信.md "wikilink")        |                                    |
+| 6  | [伏見俊昭](../Page/伏見俊昭.md "wikilink")          |                                    |
+| 7  | [佐藤慎太郎](../Page/佐藤慎太郎.md "wikilink")        |                                    |
+| 8  | [内林久徳](../Page/内林久徳.md "wikilink")          |                                    |
+| 9  | [神山雄一郎](../Page/神山雄一郎.md "wikilink")        |                                    |
 
 ### 配当金額
 
@@ -58,6 +58,10 @@
 
 <!-- end list -->
 
+  - 地上波中継は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")《[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列 全19局ネット》が放送。
+
+### 競走データ
+
   - 大会に際してGP出場9選手のキャッチフレーズを公募。12月29日の[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")紙面などで発表された（以下参照）。
       - 1 甦る王者の魂 -神山雄一郎
       - 2 東北ジャックナイフ -佐藤慎太郎
@@ -68,10 +72,6 @@
       - 7 銀色の流星 -伏見俊昭
       - 8 情け無用の捲り追込 -岡部芳幸
       - 9 直線一気の急襲男児 -小野俊之
-
-<!-- end list -->
-
-  - 地上波中継は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")《[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列 全19局ネット》が放送。
 
 <!-- end list -->
 

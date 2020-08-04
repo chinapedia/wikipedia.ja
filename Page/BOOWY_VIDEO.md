@@ -1,11 +1,11 @@
 > この記事は[BOOWY VIDEO](https://ja.wikipedia.org/wiki/BOOWY_VIDEO)から翻訳されています。
 
 
-**BOØWY VIDEO**は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の初のビデオ作品。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")(TOEMI VIDEO)よりリリースされた。[2001年](../Page/2001年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")にはDVD化された。
+**BOØWY VIDEO**は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の初のビデオ作品。 [1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")(TOEMI VIDEO)よりリリースされた。[2001年](../Page/2001年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")にはDVD化された。
 
 ## 解説
 
-BOØWY初の映像作品で、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")高崎市文化会館（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")）でのライヴ(撮影の為に同日に2回ライヴは行われた)を収録したもの。 一部イメージ映像やプロモーションビデオの素材を使っているが、基本的にはライヴ・ビデオである。監督は[前嶋輝](../Page/前嶋輝.md "wikilink")。
+BOØWY初の映像作品で、[1986年](../Page/1986年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")高崎市文化会館（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")）でのライヴ(撮影の為に同日に2回ライヴは行われた)を収録したもの。 一部イメージ映像やプロモーションビデオの素材を使っているが、基本的にはライヴ・ビデオである。監督は[前嶋輝](../Page/前嶋輝.md "wikilink")。
 
 発売日の7月2日はBOØWY初の武道館公演が行われた日だった。
 
@@ -28,7 +28,7 @@ BOØWY初の映像作品で、[1986年](https://ja.wikipedia.org/wiki/1986年 "w
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
 <td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a></p></td>
 <td><p><a href="../Page/VHS.md" title="wikilink">VHS</a><br />
 <a href="https://ja.wikipedia.org/wiki/ベータマックス" title="wikilink">β</a><br />

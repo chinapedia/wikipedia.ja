@@ -18,7 +18,7 @@
   - [全国農業協同組合連合会](../Page/全国農業協同組合連合会.md "wikilink")
   - [全国酪農業協同組合連合会](https://ja.wikipedia.org/wiki/全国酪農業協同組合連合会 "wikilink")
   - [（社）日本乳業協会](https://ja.wikipedia.org/wiki/日本乳業協会 "wikilink")
-  - [全国農協乳業協会](https://ja.wikipedia.org/wiki/全国農協乳業協会 "wikilink")
+  - [全国農協乳業協会](../Page/全国農協乳業協会.md "wikilink")
   - [全国乳業協同組合連合会](https://ja.wikipedia.org/wiki/全国乳業協同組合連合会 "wikilink")
   - [一般社団法人全国牛乳流通改善協会](http://www.zenkaikyou.or.jp)
   - [全国牛乳商業組合連合会](https://ja.wikipedia.org/wiki/全国牛乳商業組合連合会 "wikilink")

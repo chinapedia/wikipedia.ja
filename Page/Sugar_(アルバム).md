@@ -50,10 +50,10 @@
       - [中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")の17thシングルのカバー
 6.  **[本日、未熟者](https://ja.wikipedia.org/wiki/本日、未熟者/Over_Drive "wikilink")**
       -
-        作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：船山基紀
+        作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲：船山基紀
     <!-- end list -->
       - 37thシングルの1曲目
-      - [山口達也](https://ja.wikipedia.org/wiki/山口達也 "wikilink")主演 [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ「[受験の神様](../Page/受験の神様.md "wikilink")」主題歌
+      - [山口達也](../Page/山口達也.md "wikilink")主演 [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ「[受験の神様](../Page/受験の神様.md "wikilink")」主題歌
 7.  **[ラン･フリー（スワン･ダンスを君と）](https://ja.wikipedia.org/wiki/ひかりのまち/ラン・フリー\(スワン・ダンスを君と\) "wikilink")**
       -
         作詞・作曲：甲斐よしひろ、編曲：西村智彦、Chorus Arrange：[坂井紀雄](../Page/坂井紀雄.md "wikilink")

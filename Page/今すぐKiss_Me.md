@@ -40,7 +40,7 @@
       - Salon（アルバム『My Time』に収録）
       - [Mi](../Page/Mi_\(バンド\).md "wikilink")（アルバム『I Love Music〜Mi Best Collection〜』に収録）
   - [2009年](../Page/2009年.md "wikilink")
-      - [ファイテンション☆テレビ](https://ja.wikipedia.org/wiki/ファイテンション☆テレビ "wikilink")のモデル三人組『[merry merry Boo](https://ja.wikipedia.org/wiki/merry_merry_Boo "wikilink")』（配信シングル）
+      - [ファイテンション☆テレビ](../Page/ファイテンション☆テレビ.md "wikilink")のモデル三人組『[merry merry Boo](https://ja.wikipedia.org/wiki/merry_merry_Boo "wikilink")』（配信シングル）
       - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink")（アルバム「Ska Flavor\#2」に収録）
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")（アルバム「DRAMA Songs」に収録）
@@ -55,7 +55,7 @@
   - [世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")
   - [フジテレビ月曜9時枠の連続ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")
   - [1990年の音楽](../Page/1990年の音楽.md "wikilink")
-  - [ファイテンション☆テレビ](https://ja.wikipedia.org/wiki/ファイテンション☆テレビ "wikilink")（第4クール後期エンディングテーマ／唄：[merry merry Boo](https://ja.wikipedia.org/wiki/merry_merry_Boo "wikilink")）
+  - [ファイテンション☆テレビ](../Page/ファイテンション☆テレビ.md "wikilink")（第4クール後期エンディングテーマ／唄：[merry merry Boo](https://ja.wikipedia.org/wiki/merry_merry_Boo "wikilink")）
 
 ## 関連人物
 

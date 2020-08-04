@@ -22,7 +22,7 @@
         なお、「piano sonata」となっているが、本作ではピアノの演奏は収録されていない。
 2.  **気になる**
       -
-        作詞：小倉めぐみ / 作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞：小倉めぐみ / 作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
         2ndベストアルバム「[Wool](../Page/WOOL_\(アルバム\).md "wikilink")」、2ndインストゥルメンタルアルバム「[Smappies II](https://ja.wikipedia.org/wiki/Smappies_II "wikilink")」にも収録されている。
 3.  **[俺たちに明日はある](../Page/俺たちに明日はある.md "wikilink")**
       -
@@ -105,7 +105,7 @@
       - Trumpets: John Allmark, Tony Kadleck
       - Alto and Baritone Sax: John Scarpulla
       - Trombone: John Wheeler
-  - Chorus: [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+  - Chorus: [Masayuki Iwata](../Page/岩田雅之.md "wikilink")
   - The other Instrument: Masayuki Iwata
 
 ### 俺たちに明日はある

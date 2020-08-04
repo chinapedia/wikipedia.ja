@@ -16,7 +16,7 @@
 
 原曲はイギリスの歌手[アンジー・ゴールド](https://ja.wikipedia.org/wiki/アンジー・ゴールド "wikilink")唯一のヒット曲で、1985年に発売し世界的に大ヒットした『[Eat You Up](http://www.discogs.com/Angie-Gold-Eat-You-Up/master/143968)』（邦題「素敵なハイエナジー・ボーイ」）である。曲調は当時の王道の[ディスコ・サウンド](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")。作詞・作曲クレジットのAngelina Fiorina Kyteはアンジーの本名であり、作曲活動にも力を入れるようになった時期の作品のため、主に作曲を担当したと思われる\[3\]。
 
-荻野目版の曲名の候補には[サビ](../Page/サビ.md "wikilink")の歌詞から「シンデレラ・ボーイ」などがあったが、所属する[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")社長[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")の鶴の一声で「ダンシング・ヒーロー」に決まった\[4\]\[5\]。
+荻野目版の曲名の候補には[サビ](../Page/サビ.md "wikilink")の歌詞から「シンデレラ・ボーイ」などがあったが、所属する[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")社長[平哲夫](../Page/平哲夫.md "wikilink")の鶴の一声で「ダンシング・ヒーロー」に決まった\[4\]\[5\]。
 
 荻野目は、この曲で第12回[日本テレビ音楽祭](../Page/日本テレビ音楽祭.md "wikilink")にて日本テレビアイドル賞、第12回あなたが選ぶ[全日本歌謡音楽祭](https://ja.wikipedia.org/wiki/全日本歌謡音楽祭 "wikilink")にて最優秀アイドル賞、第19回[日本有線大賞](../Page/日本有線大賞.md "wikilink")にて有線音楽賞を受賞している。また、[第37回NHK紅白歌合戦](../Page/第37回NHK紅白歌合戦.md "wikilink")に初出場を果たした。
 
@@ -28,9 +28,9 @@
 
 ## チャート成績
 
-荻野目も、歌手デビュー以来初めての[オリコン週間チャートトップ](../Page/オリコンチャート.md "wikilink")10入りを果たす。また翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の年間チャート12位にランクされ、シングル売上も唯一30万枚を突破（累計32万枚）\[11\]、荻野目自身最大のヒット曲となった。累計売上は70万枚（公称）\[12\]。
+荻野目も、歌手デビュー以来初めての[オリコン週間チャートトップ](../Page/オリコンチャート.md "wikilink")10入りを果たす。また翌年[1986年](../Page/1986年.md "wikilink")の年間チャート12位にランクされ、シングル売上も唯一30万枚を突破（累計32万枚）\[11\]、荻野目自身最大のヒット曲となった。累計売上は70万枚（公称）\[12\]。
 
-[TBS系](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』では1985年12月に“今週のスポットライト”で初登場、翌1986年に入ってから初のベスト10入りを果たす（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、9位で初登場）。最高位は2位まで上昇（1986年[2月6日](../Page/2月6日.md "wikilink")）、通算9週間ランクインした\[13\]。
+[TBS系](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』では1985年12月に“今週のスポットライト”で初登場、翌1986年に入ってから初のベスト10入りを果たす（[1986年](../Page/1986年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")、9位で初登場）。最高位は2位まで上昇（1986年[2月6日](../Page/2月6日.md "wikilink")）、通算9週間ランクインした\[13\]。
 
 ## 文化的影響
 
@@ -145,9 +145,9 @@
 
 ## カバー
 
-  - **[プリシラ・チャン](https://ja.wikipedia.org/wiki/プリシラ・チャン "wikilink")** - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、「[跳舞街](https://ja.wikipedia.org/wiki/:w:zh:跳舞街 "wikilink")」（[広東語](../Page/広東語.md "wikilink")）原曲の「Eat You Up」ではなく「ダンシング・ヒーロー」のサビの一部を保全。
+  - **[プリシラ・チャン](../Page/プリシラ・チャン.md "wikilink")** - [1986年](../Page/1986年.md "wikilink")、「[跳舞街](https://ja.wikipedia.org/wiki/:w:zh:跳舞街 "wikilink")」（[広東語](../Page/広東語.md "wikilink")）原曲の「Eat You Up」ではなく「ダンシング・ヒーロー」のサビの一部を保全。
 
-  - **[サマンサ・ラム](https://ja.wikipedia.org/wiki/サマンサ・ラム "wikilink")** - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、「勁之夜」（広東語）上記と同様に「ダンシング・ヒーロー」のサビの一部を保全。なお、プリシラ・チャンのバージョンの方が有名。
+  - **[サマンサ・ラム](https://ja.wikipedia.org/wiki/サマンサ・ラム "wikilink")** - [1986年](../Page/1986年.md "wikilink")、「勁之夜」（広東語）上記と同様に「ダンシング・ヒーロー」のサビの一部を保全。なお、プリシラ・チャンのバージョンの方が有名。
 
   - \- 1986年、「사랑해요」（[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")）原曲のカバー。
 
@@ -176,7 +176,7 @@
   - [single / discography / 荻野目洋子 Official Website](http://www.oginome.com/web/02_disco/index_02.html)
 
   -
-[Category:荻野目洋子の楽曲](https://ja.wikipedia.org/wiki/Category:荻野目洋子の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:シンデレラを題材とした作品](https://ja.wikipedia.org/wiki/Category:シンデレラを題材とした作品 "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink") [Category:盆踊り](https://ja.wikipedia.org/wiki/Category:盆踊り "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:荻野目洋子の楽曲](https://ja.wikipedia.org/wiki/Category:荻野目洋子の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:篠原仁志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:篠原仁志が制作した楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:シンデレラを題材とした作品](https://ja.wikipedia.org/wiki/Category:シンデレラを題材とした作品 "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink") [Category:盆踊り](https://ja.wikipedia.org/wiki/Category:盆踊り "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  [「アイドルの80年代は大競争時代だった」荻野目洋子×売野雅勇対談](https://dot.asahi.com/wa/2016092300099.html)AERA dot. 2016.9.25
 2.  [荻野目洋子　登美丘高校ダンス部とレコ大特別賞受賞、授賞式でもコラボ切望](https://news.ameba.jp/entry/20171120-662)アメーバニュース 2017年11月20日

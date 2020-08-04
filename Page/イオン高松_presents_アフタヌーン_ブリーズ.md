@@ -25,7 +25,7 @@
   - 4月5日:[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")
   - 5月24日:[ザ・マスミサイル](../Page/ザ・マスミサイル.md "wikilink")
   - 5月31日:[高畑淳子](../Page/高畑淳子.md "wikilink")
-  - 6月21日:[羊毛とおはな](https://ja.wikipedia.org/wiki/羊毛とおはな "wikilink")
+  - 6月21日:[羊毛とおはな](../Page/羊毛とおはな.md "wikilink")
   - 7月19日:柴田剛・石田真人・板倉善之（青空ポンチ）・[シカゴプードル](https://ja.wikipedia.org/wiki/シカゴプードル "wikilink")
   - 8月16日[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink")
   - 9月20日:[Dorlis](https://ja.wikipedia.org/wiki/Dorlis "wikilink")

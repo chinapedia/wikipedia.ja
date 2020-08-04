@@ -7,14 +7,14 @@
 
 [1979年](../Page/1979年.md "wikilink")に起きた事件[三菱銀行人質事件](../Page/三菱銀行人質事件.md "wikilink")の犯人の[梅川昭美](../Page/梅川昭美.md "wikilink")に材を取った作品。犯人の生い立ちから事件を起こすまでの軌跡を描く。事件自体の描写は省略されている。主役の竹田明夫を音楽家の[宇崎竜童](../Page/宇崎竜童.md "wikilink")が演じて話題となった。
 
-それまで[ピンク映画](../Page/ピンク映画.md "wikilink")を50数本監督してきた[高橋伴明](../Page/高橋伴明.md "wikilink")の初の一般映画監督作品。[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")がプロデューサーを務め、俳優もスタッフもピンク映画並のギャラに値切って参加してもらったと回想している\[1\]。女優の関根恵子はこの映画のヒロイン役で高橋伴明と知り合って結婚し、[高橋惠子](../Page/高橋惠子.md "wikilink")となった\[2\]。[山口組](../Page/山口組.md "wikilink")の[田岡一雄](../Page/田岡一雄.md "wikilink")組長を狙撃して惨殺された[鳴海清](../Page/鳴海清.md "wikilink")の愛人と梅川の愛人が同一女性だったという新聞記事に着目して映画化、劇中には鳴海をモデルにした暴力団員も登場させている\[3\]\[4\]。
+それまで[ピンク映画](../Page/ピンク映画.md "wikilink")を50数本監督してきた[高橋伴明](../Page/高橋伴明.md "wikilink")の初の一般映画監督作品。[井筒和幸](../Page/井筒和幸.md "wikilink")がプロデューサーを務め、俳優もスタッフもピンク映画並のギャラに値切って参加してもらったと回想している\[1\]。女優の関根恵子はこの映画のヒロイン役で高橋伴明と知り合って結婚し、[高橋惠子](../Page/高橋惠子.md "wikilink")となった\[2\]。[山口組](../Page/山口組.md "wikilink")の[田岡一雄](../Page/田岡一雄.md "wikilink")組長を狙撃して惨殺された[鳴海清](../Page/鳴海清.md "wikilink")の愛人と梅川の愛人が同一女性だったという新聞記事に着目して映画化、劇中には鳴海をモデルにした暴力団員も登場させている\[3\]\[4\]。
 
 ## スタッフ
 
   - 監督：[高橋伴明](../Page/高橋伴明.md "wikilink")
   - 製作：[佐々木史朗](https://ja.wikipedia.org/wiki/佐々木史朗_\(映画プロデューサー\) "wikilink")（ATG）
   - 企画：[多賀祥介](https://ja.wikipedia.org/wiki/多賀祥介 "wikilink")
-  - プロデューサー：[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")
+  - プロデューサー：[井筒和幸](../Page/井筒和幸.md "wikilink")
   - 脚本：[西岡琢也](https://ja.wikipedia.org/wiki/西岡琢也 "wikilink")
   - 撮影：[長田勇市](https://ja.wikipedia.org/wiki/長田勇市 "wikilink")
   - 照明：[三好和宏](https://ja.wikipedia.org/wiki/三好和宏 "wikilink")

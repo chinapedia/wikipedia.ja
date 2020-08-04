@@ -28,7 +28,7 @@
   - [機動天使エンジェリックレイヤー](../Page/ANGELIC_LAYER.md "wikilink") （2001年）
   - [RAVE](../Page/RAVE_\(漫画\).md "wikilink") （2001年-2002年）
   - [超ロボット生命体トランスフォーマー マイクロン伝説](../Page/超ロボット生命体トランスフォーマー_マイクロン伝説.md "wikilink") （2002年-2003年）
-  - [ボンバーマンジェッターズ](https://ja.wikipedia.org/wiki/ボンバーマンジェッターズ "wikilink") （2002年-2003年）
+  - [ボンバーマンジェッターズ](../Page/ボンバーマンジェッターズ.md "wikilink") （2002年-2003年）
   - [真・女神転生Dチルドレン ライト&ダーク](https://ja.wikipedia.org/wiki/真・女神転生デビルチルドレン "wikilink") （2002年-2003年）
   - [クロノクルセイド](../Page/クロノクルセイド.md "wikilink") （2003年-2004年）
   - [ゆめりあ](../Page/ゆめりあ.md "wikilink") （2004年）

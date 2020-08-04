@@ -9,7 +9,7 @@
 
 ブッシュは、最初に[2000年の大統領選挙で当選し](https://ja.wikipedia.org/wiki/2000年アメリカ合衆国大統領選挙 "wikilink")、[2004年の大統領選挙で再選した](https://ja.wikipedia.org/wiki/2004年アメリカ合衆国大統領選挙 "wikilink")。1995年から2000年まで第46代テキサス州知事を務めた。また、第41代アメリカ合衆国大統領ジョージ・H・W・ブッシュの長男である。父親が22歳の時に生まれたために、父親が生きている間に大統領になった珍しい[世襲政治家](../Page/世襲政治家.md "wikilink")である。身長は182cm\[1\] 体重93kg。[右利き](https://ja.wikipedia.org/wiki/右利き "wikilink")。
 
-イェール大学歴史学部卒業後、[彼の家族の](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")会社で勤務した後、[下院議員選挙に出馬したが落選した](../Page/アメリカ合衆国下院.md "wikilink")。その後、[テキサス・レンジャーズ](../Page/テキサス・レンジャーズ.md "wikilink")を共同所有するなど実業家として活躍した後、テキサス知事選挙のために政治運動に戻った。1994年にはアン・リチャーズを破ってテキサス知事に当選した。
+イェール大学歴史学部卒業後、[彼の家族の](../Page/ブッシュ家.md "wikilink")[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")会社で勤務した後、[下院議員選挙に出馬したが落選した](../Page/アメリカ合衆国下院.md "wikilink")。その後、[テキサス・レンジャーズ](../Page/テキサス・レンジャーズ.md "wikilink")を共同所有するなど実業家として活躍した後、テキサス知事選挙のために政治運動に戻った。1994年にはアン・リチャーズを破ってテキサス知事に当選した。
 
 ブッシュは2000年の大統領選挙において、一般投票では敗北したが選挙人投票で勝利し、共和党の候補として当選した。大統領としてブッシュは、2001年に1兆3500億ドルの減税プログラムを\[2\]、2002年には全国一斉学力テストを義務化して成績次第で助成金とペナルティを学校に課す「[落ちこぼれを作らないための初等中等教育法](https://ja.wikipedia.org/wiki/落ちこぼれを作らないための初等中等教育法 "wikilink")」（通称：落ちこぼれゼロ法（[No Child Left Behind Act](https://ja.wikipedia.org/wiki/:en:No_Child_Left_Behind_Act "wikilink")）\[3\]」に署名した。
 
@@ -29,7 +29,7 @@
 
 [left](https://ja.wikipedia.org/wiki/ファイル:GeorgeWBush1947.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Entire_Bush_family.jpg "wikilink") [left](https://ja.wikipedia.org/wiki/ファイル:GW-Bush-in-uniform.jpg "wikilink") 小ブッシュは[1946年](../Page/1946年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink") に、[コネチカット州](../Page/コネチカット州.md "wikilink")[ニューヘイブンでジョージ](../Page/ニューヘイブン_\(コネチカット州\).md "wikilink")・H・W・ブッシュと[バーバラ・ブッシュ](../Page/バーバラ・ブッシュ.md "wikilink")の長男として生まれた。ブッシュは四人の兄弟、[ジェブ](../Page/ジェブ・ブッシュ.md "wikilink")、[ニール](https://ja.wikipedia.org/wiki/ニール・ブッシュ "wikilink")、[マーヴィンと](https://ja.wikipedia.org/wiki/マーヴィン・ブッシュ "wikilink")[ドロシーと](https://ja.wikipedia.org/wiki/ドロシー・ブッシュ "wikilink")、テキサス州の[ミッドランド](https://ja.wikipedia.org/wiki/ミッドランド "wikilink")と[ヒューストン](../Page/ヒューストン.md "wikilink")で育てられた。もう一人の妹・[ロビンは](https://ja.wikipedia.org/wiki/ロビン・ブッシュ "wikilink")、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に[白血病](../Page/白血病.md "wikilink")によって3歳で死亡した\[16\]。ブッシュの祖父・[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")はコネチカット州選出の上院議員で、ブッシュの父・ジョージ・H・W・ブッシュは[1989年](../Page/1989年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")まで米国大統領を務めた。
 
-ブッシュは[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[アンドーバーで](https://ja.wikipedia.org/wiki/アンドーヴァー_\(マサチューセッツ州\) "wikilink")[フィリップス・アカデミー](../Page/フィリップス・アカデミー.md "wikilink")に通った。そこで彼は[野球](../Page/野球.md "wikilink")をして、最終学年まで男子校のヘッド・[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")だった\[17\]\[18\]。 父の先例にならって、ブッシュはイェール大学に通い、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に歴史[学士](../Page/学士.md "wikilink")号を取得した\[19\]。大学の専門課程に、ブッシュは[秘密結社](../Page/秘密結社.md "wikilink")[スカル・アンド・ボーンズ](../Page/スカル・アンド・ボーンズ.md "wikilink")のメンバーになった\[20\]\[21\]。大学時代は当初[野球](../Page/野球.md "wikilink")部で投手だったが、才能に限界を感じて3年から[ラグビー](../Page/ラグビー.md "wikilink")部へ移り、4年でレギュラーになった\[22\]。
+ブッシュは[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[アンドーバーで](https://ja.wikipedia.org/wiki/アンドーヴァー_\(マサチューセッツ州\) "wikilink")[フィリップス・アカデミー](../Page/フィリップス・アカデミー.md "wikilink")に通った。そこで彼は[野球](../Page/野球.md "wikilink")をして、最終学年まで男子校のヘッド・[チアリーダー](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")だった\[17\]\[18\]。 父の先例にならって、ブッシュはイェール大学に通い、[1968年](../Page/1968年.md "wikilink")に歴史[学士](../Page/学士.md "wikilink")号を取得した\[19\]。大学の専門課程に、ブッシュは[秘密結社](../Page/秘密結社.md "wikilink")[スカル・アンド・ボーンズ](../Page/スカル・アンド・ボーンズ.md "wikilink")のメンバーになった\[20\]\[21\]。大学時代は当初[野球](../Page/野球.md "wikilink")部で投手だったが、才能に限界を感じて3年から[ラグビー](../Page/ラグビー.md "wikilink")部へ移り、4年でレギュラーになった\[22\]。
 
 1968年5月に進行していた[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")のまっただ中に、ブッシュは適性検査の筆記試験で、下から25番目の成績だったにもかかわらず\[23\]\[24\]、合格の最低点だったが\[25\]、[テキサス空軍州兵](https://ja.wikipedia.org/wiki/テキサス空軍州兵 "wikilink")に認められた\[26\]。これは、一度に一万人以上の[空軍州兵](../Page/空軍州兵.md "wikilink")人員（多くの戦闘機パイロット）が[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")の作戦を支援するために招集されていた時期だった\[27\]。訓練の後、彼はヒューストンで任務を任せられ、[エリントン空軍基地](https://ja.wikipedia.org/wiki/エリントン空軍基地 "wikilink")から[コンベア](../Page/コンベア.md "wikilink")[F-102を飛ばした](../Page/F-102_\(戦闘機\).md "wikilink")\[28\]。批評家はブッシュが彼の父親の政治的な地位のために、軍務で有利に扱われ、正常な兵役ではなかったと主張した。[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")は公式アーカイブに残っていたという、ブッシュのテキサス空軍州兵勤務記録の全てを公開した\[29\]。1970年に、ブッシュは難関のテキサス大学ロースクールに出願したが、不合格にされた\[30\]。ブッシュは共和党の議会選挙活動に取り組むために、[1972年](../Page/1972年.md "wikilink")に[アラバマ空軍州兵](https://ja.wikipedia.org/wiki/アラバマ空軍州兵 "wikilink")へ転任し、[1973年](../Page/1973年.md "wikilink")10月に[ハーバード・ビジネス・スクール](../Page/ハーバード・ビジネス・スクール.md "wikilink")に通うために、約8か月早くテキサス空軍州兵を退役して、6年間の兵役義務を終了した\[31\]。
 
@@ -202,7 +202,7 @@
 
 #### 地球温暖化
 
-ブッシュ政権は[地球温暖化](../Page/地球温暖化.md "wikilink")問題への取り組み（[温室効果ガス](../Page/温室効果ガス.md "wikilink")の排出削減対策）に消極的だと言われる。[科学誌](https://ja.wikipedia.org/wiki/科学誌 "wikilink")[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")によると、[ハリケーン](../Page/ハリケーン.md "wikilink")被害が増大している一因は温暖化であるとする内容の報告書を米国海洋大気局が発表しようとした際、ブッシュ政権からの圧力によって阻止されてしまったという\[82\]。 また2005年には、京都議定書を離脱している。
+ブッシュ政権は[地球温暖化](../Page/地球温暖化.md "wikilink")問題への取り組み（[温室効果ガス](../Page/温室効果ガス.md "wikilink")の排出削減対策）に消極的だと言われる。[科学誌](https://ja.wikipedia.org/wiki/科学誌 "wikilink")[ネイチャー](../Page/ネイチャー.md "wikilink")によると、[ハリケーン](../Page/ハリケーン.md "wikilink")被害が増大している一因は温暖化であるとする内容の報告書を米国海洋大気局が発表しようとした際、ブッシュ政権からの圧力によって阻止されてしまったという\[82\]。 また2005年には、京都議定書を離脱している。
 
 ## 外交政策
 
@@ -262,7 +262,7 @@
 
   - 韓国
 
-[thumbの](https://ja.wikipedia.org/wiki/ファイル:APEC2006_Roh_Bush_Abe_\(2\).jpg "wikilink")[APEC首脳会議時の日米韓](../Page/アジア太平洋経済協力.md "wikilink")3か国会議にて、**ジョージ・W・ブッシュ**、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")（右）、[韓国大統領の](../Page/大統領_\(大韓民国\).md "wikilink")[盧武鉉](../Page/盧武鉉.md "wikilink")（左）と（役職はいずれも当時）\]\]
+[thumbの](https://ja.wikipedia.org/wiki/ファイル:APEC2006_Roh_Bush_Abe_\(2\).jpg "wikilink")[APEC首脳会議時の日米韓](../Page/アジア太平洋経済協力.md "wikilink")3か国会議にて、**ジョージ・W・ブッシュ**、[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[安倍晋三](../Page/安倍晋三.md "wikilink")（右）、[韓国大統領の](../Page/大統領_\(大韓民国\).md "wikilink")[盧武鉉](../Page/盧武鉉.md "wikilink")（左）と（役職はいずれも当時）\]\]
 
   -
     2001年の米韓首脳会談では当時の[金大中](../Page/金大中.md "wikilink")大統領を「この人」と呼び、韓国人の間で話題となった。2002年の[在韓米軍](../Page/在韓米軍.md "wikilink")による[議政府米軍装甲車女子中学生轢死事件](../Page/議政府米軍装甲車女子中学生轢死事件.md "wikilink")では、電話を通じて韓国政府に謝罪するが[反米](../Page/反米.md "wikilink")感情の高まりを抑えることはできなかった。後継の盧武鉉政権とは、反米色が強かったため次第に関係は悪化した（ただし、イラク戦争に際して韓国は[軍を派遣している](../Page/大韓民国国軍.md "wikilink")）。2008年の[李明博](../Page/李明博.md "wikilink")政権以降は[親米](../Page/親米.md "wikilink")・反北路線となり、関係は修復した。大統領退任後には韓国に訪問した\[97\]。
@@ -371,7 +371,7 @@
 
 ## 関連項目
 
-  - [ブッシュ家](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")
+  - [ブッシュ家](../Page/ブッシュ家.md "wikilink")
 
   - [ジョージ・ウォーカー・ブッシュに関する書籍・映画の一覧](https://ja.wikipedia.org/wiki/ジョージ・ウォーカー・ブッシュに関する書籍・映画の一覧 "wikilink")
 

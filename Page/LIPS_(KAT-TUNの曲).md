@@ -1,7 +1,7 @@
 > この記事は[LIPS \(KAT-TUNの曲\)](https://ja.wikipedia.org/wiki/LIPS_\(KAT-TUNの曲\))から翻訳されています。
 
 
-「**LIPS**」（リップス）は、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
+「**LIPS**」（リップス）は、[KAT-TUN](../Page/KAT-TUN.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に[J-One Recordsから発売された](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## 概要
 

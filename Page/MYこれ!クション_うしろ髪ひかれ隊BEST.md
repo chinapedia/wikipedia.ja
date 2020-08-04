@@ -13,7 +13,7 @@
 
 同時発売で、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")と、関連歌手・[うしろゆびさされ組](../Page/うしろゆびさされ組.md "wikilink")と工藤静香のベストも発売された。
 
-2007年には、"MYこれ\!" をさらに発展させた"SINGLESコンプリート" が発売された。こちらは「うしろゆびさされ組」どドッキングした2枚組ベストで、両グループのシングルA・B面曲が網羅されている。『[うしろゆびさされ組+うしろ髪ひかれ隊 SINGLESコンプリート](https://ja.wikipedia.org/wiki/うしろゆびさされ組+うしろ髪ひかれ隊_SINGLESコンプリート "wikilink")』参照のこと。
+2007年には、"MYこれ\!" をさらに発展させた"SINGLESコンプリート" が発売された。こちらは「うしろゆびさされ組」どドッキングした2枚組ベストで、両グループのシングルA・B面曲が網羅されている。『[うしろゆびさされ組+うしろ髪ひかれ隊 SINGLESコンプリート](../Page/うしろゆびさされ組+うしろ髪ひかれ隊_SINGLESコンプリート.md "wikilink")』参照のこと。
 
 ## 収録曲
 
@@ -84,6 +84,6 @@
   - [MYこれ\!クション うしろゆびさされ組BEST](../Page/MYこれ!クション_うしろゆびさされ組BEST.md "wikilink")
   - [MYこれ\!クション 工藤静香BEST](../Page/MYこれ!クション_工藤静香BEST.md "wikilink")
   - [MYこれ\!クション 福永恵規BEST](../Page/MYこれ!クション_福永恵規BEST.md "wikilink")
-  - [MYこれ\!クション 高井麻巳子BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_高井麻巳子BEST "wikilink")
+  - [MYこれ\!クション 高井麻巳子BEST](../Page/MYこれ!クション_高井麻巳子BEST.md "wikilink")
 
 [Category:うしろ髪ひかれ隊のアルバム](https://ja.wikipedia.org/wiki/Category:うしろ髪ひかれ隊のアルバム "wikilink") [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:MYこれ\!](https://ja.wikipedia.org/wiki/Category:MYこれ! "wikilink")

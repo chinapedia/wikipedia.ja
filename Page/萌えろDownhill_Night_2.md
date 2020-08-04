@@ -1,7 +1,7 @@
 > この記事は[萌えろDownhill Night 2](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_2)から翻訳されています。
 
 
-『**萌えろDownhill Night 2**』（もえろダウンヒルナイトツー）は、[2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")にTOPから発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。前作『**[萌えろDownhill Night -峠最速伝説-](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_-峠最速伝説- "wikilink")**』の続編である。初回限定版には『萌えろDownhill NightHR』が同梱される。
+『**萌えろDownhill Night 2**』（もえろダウンヒルナイトツー）は、[2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")にTOPから発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。前作『**[萌えろDownhill Night -峠最速伝説-](../Page/萌えろDownhill_Night_-峠最速伝説-.md "wikilink")**』の続編である。初回限定版には『萌えろDownhill NightHR』が同梱される。
 
 登場キャラクター、車種ともに大幅に増加している。ここでは『**萌えろDownhill Night BLAZE**』とあわせて紹介する。
 
@@ -74,7 +74,7 @@
     搭乗車種…[EF8 ホンダ・CR-X](../Page/ホンダ・CR-X.md "wikilink")
       -
         ナンバー…筑波 500 H 37-35
-    [前作の主人公](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_-峠最速伝説- "wikilink")、**大地 翔**と**此ノ崎 未知**の娘。親の後を継いで個人タクシーの仕事を続けている。
+    [前作の主人公](../Page/萌えろDownhill_Night_-峠最速伝説-.md "wikilink")、**大地 翔**と**此ノ崎 未知**の娘。親の後を継いで個人タクシーの仕事を続けている。
     CR-Xには[無限のエアロパーツが装備されており](../Page/M-TEC.md "wikilink")、大半の登場車種は外見がノーマルに対して唯一エアロパーツが装備されている。
 
 **涼風 佑（すずかぜ　ゆう）**:声:[一文字雷](https://ja.wikipedia.org/wiki/一文字雷 "wikilink")

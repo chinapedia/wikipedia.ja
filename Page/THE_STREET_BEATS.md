@@ -6,15 +6,15 @@
 ## メンバー
 
   - **ØKI**（おき、[1966年](../Page/1966年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - ）ボーカル・ギター。[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐北区](../Page/安佐北区.md "wikilink")出身\[1\]。
-  - **SEIZI**（せいじ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月8日](../Page/6月8日.md "wikilink") - ）ギター・ボーカル。広島市安佐北区出身\[2\]。
+  - **SEIZI**（せいじ、[1968年](../Page/1968年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - ）ギター・ボーカル。広島市安佐北区出身\[2\]。
   - **山根英晴**（やまね ひではる、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月10日](../Page/5月10日.md "wikilink") - ）ベース。2002年3月正式加入
-  - **牟田昌広**（むた まさひろ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）ドラム。2011年1月正式加入
+  - **牟田昌広**（むた まさひろ、[1968年](../Page/1968年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）ドラム。2011年1月正式加入
 
 ### 元メンバー
 
   - **[伊藤ツヨシ](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")**（THE STREET BEATS参加前後に[JUN SKY WALKER(S)に在籍](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。）
   - **島田健二**
-  - **[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")**（脱退後[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")、[POTSHOT](../Page/POTSHOT.md "wikilink")に参加。現在は[ROCK'N'ROLL GYPSIES](https://ja.wikipedia.org/wiki/ROCK'N'ROLL_GYPSIES "wikilink")）
+  - **[市川勝也](../Page/市川勝也.md "wikilink")**（脱退後[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")、[POTSHOT](../Page/POTSHOT.md "wikilink")に参加。現在は[ROCK'N'ROLL GYPSIES](https://ja.wikipedia.org/wiki/ROCK'N'ROLL_GYPSIES "wikilink")）
   - **小川昌司**（1987年3月～1988年5月、1991年3月～1993年7月 在籍）
   - **[上田ケンジ](../Page/上田ケンジ.md "wikilink")**（元[KENZI & THE TRIPS](https://ja.wikipedia.org/wiki/KENZI_&_THE_TRIPS "wikilink")、元[the PILLOWS](https://ja.wikipedia.org/wiki/the_PILLOWS "wikilink")）
   - **[牟田昌広](https://ja.wikipedia.org/wiki/牟田昌広 "wikilink")**（元[THE MAGNETS](https://ja.wikipedia.org/wiki/THE_MAGNETS "wikilink")。1993年～1997年にサポートドラマーとしてTHE STREET BEATS在籍。[SADS](../Page/SADS.md "wikilink")を経て2011年に正式加入。）

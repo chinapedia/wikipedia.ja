@@ -13,7 +13,7 @@
 2.  **La La La**
       -
         作曲:高岡亜衣 編曲:[小林哲](../Page/小林哲.md "wikilink")
-3.  **[光と風と君の中で](https://ja.wikipedia.org/wiki/光と風と君の中で "wikilink")（Album Ver.）**
+3.  **[光と風と君の中で](../Page/光と風と君の中で.md "wikilink")（Album Ver.）**
       -
         作曲:[大野愛果](../Page/大野愛果.md "wikilink") 編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 4.  **Oh baby, 君に幸あれ\!**

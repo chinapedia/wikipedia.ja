@@ -49,7 +49,7 @@
 
 ## 関連項目
 
-  - [Club Vanilla](https://ja.wikipedia.org/wiki/バニラ_\(クラブ\) "wikilink")
+  - [Club Vanilla](../Page/バニラ_\(クラブ\).md "wikilink")
 
 ## 外部リンク
 

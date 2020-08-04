@@ -43,7 +43,7 @@
   - MA：田辺邦明
   - 音楽：イヤトイ
   - 音響効果：佐藤卓嗣
-  - 協力：[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[H.I.S](https://ja.wikipedia.org/wiki/H.I.S "wikilink")、Hard Rock HOTEL PAITAYA、L'espace Vision、[ビデオスタッフ](../Page/ビデオスタッフ.md "wikilink")、[東新](https://ja.wikipedia.org/wiki/ザ・ホライズン "wikilink")
+  - 協力：[ANA](../Page/全日本空輸.md "wikilink")、[H.I.S](https://ja.wikipedia.org/wiki/H.I.S "wikilink")、Hard Rock HOTEL PAITAYA、L'espace Vision、[ビデオスタッフ](../Page/ビデオスタッフ.md "wikilink")、[東新](https://ja.wikipedia.org/wiki/ザ・ホライズン "wikilink")
   - 制作：[tomax](https://ja.wikipedia.org/wiki/トゥーマックス "wikilink")、[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")
   - 製作著作：[avex group](https://ja.wikipedia.org/wiki/avex_group "wikilink")
 

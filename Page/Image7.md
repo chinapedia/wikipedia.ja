@@ -18,7 +18,7 @@
 11. [加古隆](../Page/加古隆.md "wikilink")「熊野古道～神々の道～第1楽章」
 12. [岩代太郎](../Page/岩代太郎.md "wikilink") featuring ケイコ・リー & 小松亮太 & 宮本笑里「天に捧ぐ」（NHK[木曜時代劇](https://ja.wikipedia.org/wiki/木曜時代劇_\(NHK\)#木曜時代劇 "wikilink")「[風の果て](../Page/風の果て.md "wikilink")」テーマ）
 13. [松谷卓](../Page/松谷卓.md "wikilink")「そのときは彼によろしく (Album Ver.)」（[東宝](../Page/東宝.md "wikilink")映画「[そのときは彼によろしく](../Page/そのときは彼によろしく.md "wikilink")」）
-14. [アウラAURA](https://ja.wikipedia.org/wiki/Aura "wikilink")「[ハッピー・バースデイ・トゥ・ユー](../Page/ハッピーバースデートゥーユー.md "wikilink")」（[SONY](../Page/ソニー.md "wikilink")[有機ELテレビCM曲](../Page/有機エレクトロルミネッセンス.md "wikilink")）
+14. [アウラAURA](../Page/Aura.md "wikilink")「[ハッピー・バースデイ・トゥ・ユー](../Page/ハッピーバースデートゥーユー.md "wikilink")」（[SONY](../Page/ソニー.md "wikilink")[有機ELテレビCM曲](../Page/有機エレクトロルミネッセンス.md "wikilink")）
 15. [カノン](../Page/カノン_\(歌手\).md "wikilink")「[You Raise Me Up](../Page/ユー・レイズ・ミー・アップ.md "wikilink")」
 16. [坂本龍一](../Page/坂本龍一.md "wikilink") & [宮本文昭](../Page/宮本文昭.md "wikilink")「Dawn of Mana - ending theme」（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")「[聖剣伝説4](../Page/聖剣伝説4.md "wikilink")」メインテーマ曲）
 

@@ -1,7 +1,7 @@
 > この記事は[OH!たけし](https://ja.wikipedia.org/wiki/OH!たけし)から翻訳されています。
 
 
-『**OH\!たけし**』（オー たけし）は、[日本テレビ系列局の一部ほかで放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[イースト製作の](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[日本テレビでは](../Page/日本テレビ放送網.md "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、毎週土曜 22:30 - 23:00 ([JST](../Page/日本標準時.md "wikilink")) に放送。
+『**OH\!たけし**』（オー たけし）は、[日本テレビ系列局の一部ほかで放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[イースト製作の](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[日本テレビでは](../Page/日本テレビ放送網.md "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1986年](../Page/1986年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、毎週土曜 22:30 - 23:00 ([JST](../Page/日本標準時.md "wikilink")) に放送。
 
 ## 概要
 

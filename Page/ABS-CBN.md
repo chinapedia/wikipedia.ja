@@ -1,15 +1,15 @@
 > この記事は[ABS-CBN](https://ja.wikipedia.org/wiki/ABS-CBN)から翻訳されています。
 
 
-**ABS-CBN**（エイビーエス シービーエヌ、）とは、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")を代表する放送局、かつフィリピン最大のメディア企業。経営はフィリピン有数の名家、ロペス一族が行っている。
+**ABS-CBN**（エイビーエス シービーエヌ）は、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")を代表する放送局、かつフィリピン最大のメディア企業である。経営はフィリピン有数の名家、ロペス一族が行っている。
 
 [スローガン](../Page/スローガン.md "wikilink")は「（世界中のフィリピン人のサービスで）」。
 
 ## 概要
 
-[1946年](../Page/1946年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")にアジア初の民放テレビ局として開局。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")にテレビの本放送を開始し、[1966年](../Page/1966年.md "wikilink")にカラー化された。テレビ・ラジオのほか、国際向けケーブルテレビのザ・フィリピノ・チャンネルや、多数の雑誌を発行している。[1993年](../Page/1993年.md "wikilink")に[フィリピン証券取引所](https://ja.wikipedia.org/wiki/フィリピン証券取引所 "wikilink")に上場。
+[1946年](../Page/1946年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")にBolinao Electronics Corporation（BEC）として設立。1952年にはAlto Broadcasting System（ABS）に商号変更。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")にテレビの本放送を開始し、[1966年](../Page/1966年.md "wikilink")にカラー化された。一方ロペス族は1956年にChronicle Broadcasting Network（CBN）が誕生。1967年両社が合併した。テレビ・ラジオのほか、国際向けケーブルテレビのザ・フィリピノ・チャンネルや、多数の雑誌を発行している。[1993年](../Page/1993年.md "wikilink")に[フィリピン証券取引所](https://ja.wikipedia.org/wiki/フィリピン証券取引所 "wikilink")に上場。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[NHK BS1の](../Page/NHK_BS1.md "wikilink")「[ワールドニュース・アジア](../Page/ワールドニュースアワー.md "wikilink")」で[英語](../Page/英語.md "wikilink")ニュース番組「ザ・ワールド・トゥナイト」（、[現地時間毎晩](../Page/UTC+8.md "wikilink")22:00放送）が[日本語](../Page/日本語.md "wikilink")[通訳](../Page/通訳.md "wikilink")付きで録画放送されているほか、ABS-CBN Japanによるブロードバンド・オンデマンド放送TFCko（ティ・エフ・シー・コ）を通じニュース番組や娯楽番組を視聴出来る。
+2020年5月には国家電気通信委員会（NTC）は25年間の放送免許の更新をしないまま停波されている\[1\]\[2\]\[3\]。監視団体は同局が国内の法律に違反したと偽って、ドゥテルテ政権が報道の自由を非難したと主張\[4\]。
 
 ## 主な番組
 
@@ -127,3 +127,8 @@
   - [ABS-CBN NEWS](https://news.abs-cbn.com/anc)
 
 [Category:フィリピンのテレビ局](https://ja.wikipedia.org/wiki/Category:フィリピンのテレビ局 "wikilink") [Category:マニラ首都圏の企業](https://ja.wikipedia.org/wiki/Category:マニラ首都圏の企業 "wikilink") [Category:フィリピン証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:フィリピン証券取引所上場企業 "wikilink") [Category:ケソン](https://ja.wikipedia.org/wiki/Category:ケソン "wikilink") [Category:ABS-CBN](https://ja.wikipedia.org/wiki/Category:ABS-CBN "wikilink")
+
+1.
+2.
+3.
+4.

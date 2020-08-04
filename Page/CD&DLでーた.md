@@ -106,7 +106,7 @@
 <td><p>Vol.15 No.6</p></td>
 <td><p>2003年4月5日号</p></td>
 <td><p>2003年3月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a></p></td>
+<td><p><a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

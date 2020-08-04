@@ -5,7 +5,7 @@
 
 ## 解説
 
-[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は「スピード」「ギター」「衝動」。[ゴシックな世界観を描いた前作](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")『[fetish](https://ja.wikipedia.org/wiki/fetish "wikilink")』から一変し、**ストレートなロックンロール**ナンバーで構成されている。
+[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は「スピード」「ギター」「衝動」。[ゴシックな世界観を描いた前作](../Page/ゴシック・ロック.md "wikilink")『[fetish](https://ja.wikipedia.org/wiki/fetish "wikilink")』から一変し、**ストレートなロックンロール**ナンバーで構成されている。
 
 アルバムリリース以前より、布袋は各紙のインタビューにて「今回は皆が観たい聴きたいHOTEIを全開で届ける」といった内容のコメントを発していた。同時に40歳という年齢を迎えたこと、新築した自宅のスタジオよりアルバム制作を開始したことから「**新たなスタート**」「**2002年モードのHOTEI**」もキーワードとしている。\[1\]
 

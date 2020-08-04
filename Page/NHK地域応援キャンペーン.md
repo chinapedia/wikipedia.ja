@@ -21,7 +21,7 @@ NHKは、[2003年](../Page/2003年.md "wikilink")4月から『[難問解決\!ご
   - [日本の、これから](../Page/日本の、これから.md "wikilink")
   - [ワースト脱出大作戦](https://ja.wikipedia.org/wiki/欽ちゃんのがんばる!日本大作戦 "wikilink")
   - [これこそ\!わが町 元気魂](../Page/これこそ!わが町_元気魂.md "wikilink")…[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")正月特別番組
-  - [地域発\!ぐるっと日本](https://ja.wikipedia.org/wiki/地域発!ぐるっと日本 "wikilink")
+  - [地域発\!ぐるっと日本](../Page/地域発!ぐるっと日本.md "wikilink")
   - その他[放送センター含む](../Page/NHK放送センター.md "wikilink")54放送局が制作する[番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")
 
 ## 関係する人物

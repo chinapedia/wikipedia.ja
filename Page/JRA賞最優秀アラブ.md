@@ -152,7 +152,7 @@
 <td><p>西田アヤ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビッグスリー_(競走馬)" title="wikilink">ビッグスリー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>9戦4勝<br />
@@ -358,7 +358,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
+<td><p><a href="../Page/1986年.md" title="wikilink">1986年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミトモスイセイ" title="wikilink">ミトモスイセイ</a></p></td>
 <td><p>牡5</p></td>
 <td><p>7戦6勝<br />

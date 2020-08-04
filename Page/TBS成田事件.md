@@ -1,7 +1,7 @@
 > この記事は[TBS成田事件](https://ja.wikipedia.org/wiki/TBS成田事件)から翻訳されています。
 
 
-**TBS成田事件**（ティービーエスなりたじけん）とは、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[3月10日](../Page/3月10日.md "wikilink")に、[新東京国際空港建設反対集会取材のさなか](../Page/成田国際空港.md "wikilink")、[東京放送](../Page/東京放送ホールディングス.md "wikilink")（現[TBSテレビ](../Page/TBSテレビ.md "wikilink")）の[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")製作スタッフの[マイクロバス](../Page/マイクロバス.md "wikilink")に、[プラカード](../Page/プラカード.md "wikilink")を所持した集会参加者の[三里塚芝山連合空港反対同盟](https://ja.wikipedia.org/wiki/三里塚芝山連合空港反対同盟 "wikilink")の農婦7人と3人の[ヘルメット](../Page/ヘルメット.md "wikilink")を着けた若い男性を乗せた事が発覚し、[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")・[自民党から非難](../Page/自由民主党_\(日本\).md "wikilink")・抗議を受け、計8人が処分を受けた事件である。
+**TBS成田事件**（ティービーエスなりたじけん）とは、[1968年](../Page/1968年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[3月10日](../Page/3月10日.md "wikilink")に、[新東京国際空港建設反対集会取材のさなか](../Page/成田国際空港.md "wikilink")、[東京放送](../Page/東京放送ホールディングス.md "wikilink")（現[TBSテレビ](../Page/TBSテレビ.md "wikilink")）の[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")製作スタッフの[マイクロバス](../Page/マイクロバス.md "wikilink")に、[プラカード](../Page/プラカード.md "wikilink")を所持した集会参加者の[三里塚芝山連合空港反対同盟](https://ja.wikipedia.org/wiki/三里塚芝山連合空港反対同盟 "wikilink")の農婦7人と3人の[ヘルメット](../Page/ヘルメット.md "wikilink")を着けた若い男性を乗せた事が発覚し、[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")・[自民党から非難](../Page/自由民主党_\(日本\).md "wikilink")・抗議を受け、計8人が処分を受けた事件である。
 
 後の[TBS闘争](https://ja.wikipedia.org/wiki/TBS闘争 "wikilink")の原因の一つとなった。単に**TBS事件**、**成田事件**、**（成田）プラカード事件**、**成田報道事件**とも言われる。
 

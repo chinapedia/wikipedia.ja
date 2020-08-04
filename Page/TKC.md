@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1966年](../Page/1966年.md "wikilink")（昭和41年）10月、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[鹿沼市](../Page/鹿沼市.md "wikilink")で会計事務務所を開業していた[公認会計士](../Page/公認会計士.md "wikilink")・[税理士](../Page/税理士.md "wikilink")の[飯塚毅](../Page/飯塚毅.md "wikilink")により、事業の目的を「会計事務所の職域防衛と運命打開」「地方公共団体の行政効率の向上による住民福祉の増進」とする、会計事務所と地方公共団体に専門特化した計算センターとして栃木県宇都宮市に設立された。設立当時の正式名称は栃木県計算センター。[1972年](../Page/1972年.md "wikilink")（昭和47年）11月に商号を「栃木県」のT、「計算」のK、「Center」のCをとりテイケイシイに変更。その後、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）12月にアルファベットのTKCとする。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）7月に東証2部に株式上場をし、[1996年](../Page/1996年.md "wikilink")（平成8年）3月に東証1部へ指定替えをする。栃木本社と東京本社の2本社制をとるが定款上の本店やシステムの開発拠点も栃木県宇都宮市にある。
+[1966年](../Page/1966年.md "wikilink")（昭和41年）10月、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[鹿沼市](../Page/鹿沼市.md "wikilink")で会計事務務所を開業していた[公認会計士](../Page/公認会計士.md "wikilink")・[税理士](../Page/税理士.md "wikilink")の[飯塚毅](../Page/飯塚毅.md "wikilink")により、事業の目的を「会計事務所の職域防衛と運命打開」「地方公共団体の行政効率の向上による住民福祉の増進」とする、会計事務所と地方公共団体に専門特化した計算センターとして栃木県宇都宮市に設立された。設立当時の正式名称は栃木県計算センター。[1972年](../Page/1972年.md "wikilink")（昭和47年）11月に商号を「栃木県」のT、「計算」のK、「Center」のCをとりテイケイシイに変更。その後、[1986年](../Page/1986年.md "wikilink")（昭和61年）12月にアルファベットのTKCとする。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）7月に東証2部に株式上場をし、[1996年](../Page/1996年.md "wikilink")（平成8年）3月に東証1部へ指定替えをする。栃木本社と東京本社の2本社制をとるが定款上の本店やシステムの開発拠点も栃木県宇都宮市にある。
 
 ## 事業
 
@@ -29,7 +29,7 @@ TKC全国会は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")1月 - TKCシステム開発研究所開設（宇都宮市）
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")7月 - 「TASK80住民情報システム」完成
   - [1984年](../Page/1984年.md "wikilink")10月- TKC税務研究所開設
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月 - 定款上の商号を**株式会社TKC**に変更。
+  - [1986年](../Page/1986年.md "wikilink")12月 - 定款上の商号を**株式会社TKC**に変更。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場。
   - [1988年](../Page/1988年.md "wikilink")4月 - [国民健康保険団体連合会](../Page/国民健康保険団体連合会.md "wikilink")業務処理開始
   - [1996年](../Page/1996年.md "wikilink")1月 - [富士通](../Page/富士通.md "wikilink")と「戸籍システム」に関する業務提携
@@ -95,7 +95,7 @@ TKC全国会は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭
   - [ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")　（6時代前半スポンサー）　（[YBS](https://ja.wikipedia.org/wiki/YBS "wikilink")）
   - [日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")　（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [日経スペシャル カンブリア宮殿](../Page/日経スペシャル_カンブリア宮殿.md "wikilink")　（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [和風総本家](https://ja.wikipedia.org/wiki/和風総本家 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [和風総本家](../Page/和風総本家.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [この日本人がスゴイらしい。 Brand New Japan](https://ja.wikipedia.org/wiki/この日本人がスゴイらしい。_Brand_New_Japan "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [世界を変える100人の日本人\! JAPAN☆ALLSTARS](https://ja.wikipedia.org/wiki/世界を変える100人の日本人!_JAPAN☆ALLSTARS "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [BSフジLIVE プライムニュース](https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース "wikilink") （[BSフジ](../Page/BSフジ.md "wikilink")）

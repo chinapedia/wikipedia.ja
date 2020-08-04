@@ -1,7 +1,7 @@
 > この記事は[電撃文庫MAGAZINE](https://ja.wikipedia.org/wiki/電撃文庫MAGAZINE)から翻訳されています。
 
 
-『**電撃文庫MAGAZINE**』（でんげきぶんこマガジン）とは[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")ブランド）が発行していた、[ライトノベル](../Page/ライトノベル.md "wikilink")中心の[季刊小説誌である](https://ja.wikipedia.org/wiki/逐次刊行物#季刊 "wikilink")。
+『**電撃文庫MAGAZINE**』（でんげきぶんこマガジン）とは[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")ブランド）が発行していた、[ライトノベル](../Page/ライトノベル.md "wikilink")中心の[季刊小説誌である](https://ja.wikipedia.org/wiki/逐次刊行物#季刊 "wikilink")。
 
 ## 概要
 

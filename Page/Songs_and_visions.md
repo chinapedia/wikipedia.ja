@@ -6,7 +6,7 @@
 ## 参加者
 
   - [ロッド・スチュワート](../Page/ロッド・スチュワート.md "wikilink")　ROD STEWART(英国)
-  - [ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")　JON BON JOVI([米国](https://ja.wikipedia.org/wiki/米国 "wikilink"))
+  - [ジョン・ボン・ジョヴィ](../Page/ジョン・ボン・ジョヴィ.md "wikilink")　JON BON JOVI([米国](https://ja.wikipedia.org/wiki/米国 "wikilink"))
   - [チャカ・カーン](../Page/チャカ・カーン.md "wikilink")　CHAKA KHAN(米国)
   - [ロバート・パーマー](../Page/ロバート・パーマー.md "wikilink")　ROBERT PALMER(英国)
   - [トニー・ブラクストン](../Page/トニー・ブラクストン.md "wikilink")　TONI BRAXTON(米国)

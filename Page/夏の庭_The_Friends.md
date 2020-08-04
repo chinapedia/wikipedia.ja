@@ -42,7 +42,7 @@
   - 原作：[湯本香樹実](../Page/湯本香樹実.md "wikilink")
   - 脚本：[田中陽造](../Page/田中陽造.md "wikilink")
   - 音楽：[セルジオ・アサド](https://ja.wikipedia.org/wiki/セルジオ・アサド "wikilink")
-  - EDテーマ：[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")「[Boy](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")」
+  - EDテーマ：[ZARD](../Page/ZARD.md "wikilink")「[Boy](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")」
   - 撮影：[篠田昇](../Page/篠田昇.md "wikilink")
   - 照明：熊谷秀夫、上田なりゆき
   - 美術：[部谷京子](https://ja.wikipedia.org/wiki/部谷京子 "wikilink")

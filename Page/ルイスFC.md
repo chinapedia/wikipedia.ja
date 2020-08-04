@@ -1,7 +1,7 @@
 > この記事は[ルイスFC](https://ja.wikipedia.org/wiki/ルイスFC)から翻訳されています。
 
 
-**ルイス・フットボール・クラブ**（**Lewes Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス](../Page/イースト・サセックス.md "wikilink")州[ルイスを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Lewes "wikilink")。2017-2018シーズンは[イスミアンリーグ・ディヴィジョン1・サウス](https://ja.wikipedia.org/wiki/イスミアンリーグ・ディヴィジョン1・サウス "wikilink")（8部相当）に所属。
+**ルイス・フットボール・クラブ**（**Lewes Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス](../Page/イースト・サセックス.md "wikilink")州[ルイスを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Lewes "wikilink")。2017-2018シーズンは[イスミアンリーグ・ディヴィジョン1・サウス](../Page/イスミアンリーグ・ディヴィジョン1・サウス.md "wikilink")（8部相当）に所属。
 
 ## タイトル
 

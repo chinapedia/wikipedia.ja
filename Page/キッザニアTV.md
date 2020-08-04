@@ -26,7 +26,7 @@
 ### レギュラー
 
   - [根木翼](../Page/根木翼.md "wikilink")（2006年 - ）
-  - [上野一舞](https://ja.wikipedia.org/wiki/上野一舞 "wikilink") - ウルバノタイム
+  - [上野一舞](../Page/上野一舞.md "wikilink") - ウルバノタイム
   - [羽鳥絢美](https://ja.wikipedia.org/wiki/羽鳥絢美 "wikilink")
   - [冨澤風斗](../Page/冨澤風斗.md "wikilink")
   - [小林京雄](https://ja.wikipedia.org/wiki/小林京雄 "wikilink")

@@ -10,7 +10,7 @@
 
 複数の[レコード会社](../Page/レコード会社.md "wikilink")による合同企画『[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")』シリーズの1枚で、『[GOLDEN☆BEST 来生たかお バイオグラフィー](../Page/GOLDEN☆BEST_来生たかお_バイオグラフィー.md "wikilink")』（[2003年](../Page/2003年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")リリース）に続く第2弾として、来生の企画アルバム『[Visitor](https://ja.wikipedia.org/wiki/Visitor_\(来生たかおのアルバム\) "wikilink")』を基調に、[桃井かおり](../Page/桃井かおり.md "wikilink")、[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")とのデュエットを含む、主に提供曲の[セルフカバー](../Page/セルフカバー.md "wikilink")で構成されている。
 
-作曲家として多くの楽曲を提供しているため、元々自作自演曲だったにもかかわらずセルフカバーと思われがちな楽曲も存在する。[岡村孝子](../Page/岡村孝子.md "wikilink")が歌った[ホンダ・トゥデイの](https://ja.wikipedia.org/wiki/ホンダ・トゥデイ_\(自動車\) "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")「[はぐれそうな天使](../Page/はぐれそうな天使.md "wikilink")」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")リリース）は、元々[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")に来生のオリジナル・シングルとしてリリースされており、岡村がカバーしたものである\[1\]。
+作曲家として多くの楽曲を提供しているため、元々自作自演曲だったにもかかわらずセルフカバーと思われがちな楽曲も存在する。[岡村孝子](../Page/岡村孝子.md "wikilink")が歌った[ホンダ・トゥデイの](https://ja.wikipedia.org/wiki/ホンダ・トゥデイ_\(自動車\) "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")「[はぐれそうな天使](../Page/はぐれそうな天使.md "wikilink")」（[1986年](../Page/1986年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")リリース）は、元々[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")に来生のオリジナル・シングルとしてリリースされており、岡村がカバーしたものである\[1\]。
 
 ## パッケージの体裁
 
@@ -38,7 +38,7 @@
 
 1.  **[マイ・ラグジュアリー・ナイト](../Page/マイ・ラグジュアリー・ナイト.md "wikilink")**（4:51）
       - 作詞：来生えつこ ／ 作曲：来生たかお ／ 編曲：福井崚
-      - [しばたはつみ](../Page/しばたはつみ.md "wikilink")への提供曲（[1977年](../Page/1977年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")シングル・リリース）で、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")「[コスモ](../Page/マツダ・コスモ.md "wikilink")」の[CMソングとして使用された](../Page/コマーシャルソング.md "wikilink")。また、『[第28回NHK紅白歌合戦](../Page/第28回NHK紅白歌合戦.md "wikilink")』でも歌われた。
+      - [しばたはつみ](../Page/しばたはつみ.md "wikilink")への提供曲（[1977年](../Page/1977年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")シングル・リリース）で、[マツダ](../Page/マツダ.md "wikilink")「[コスモ](../Page/マツダ・コスモ.md "wikilink")」の[CMソングとして使用された](../Page/コマーシャルソング.md "wikilink")。また、『[第28回NHK紅白歌合戦](../Page/第28回NHK紅白歌合戦.md "wikilink")』でも歌われた。
       - 来生はベスト・アルバム『[BIOGRAPHY](https://ja.wikipedia.org/wiki/BIOGRAPHY "wikilink")』で初めてカバーしているが、本アルバムには企画アルバム『Visitor』のヴァージョンが収録されている。
 2.  **燃えつきて、ディザイア**（5:19）
       - 作詞：来生えつこ ／ 作曲：来生たかお ／ 編曲：星勝
@@ -66,7 +66,7 @@
       - 来生は、第12弾オリジナル・シングル「気分は逆光線」及びベスト・アルバム『[BIOGRAPHY II](https://ja.wikipedia.org/wiki/BIOGRAPHY_II "wikilink")』で初めてカバーしているが、本アルバムには企画アルバム『Visitor』のヴァージョンが収録されている。
 8.  **裸足で散歩**（3:46）
       - 作詞：来生えつこ ／ 作曲：来生たかお ／ 編曲：[椎名和夫](../Page/椎名和夫.md "wikilink")
-      - [小堺一機](../Page/小堺一機.md "wikilink")への提供曲だが、タイトルと歌詞を改変した「日曜はダメ」としてアルバム『The Nextdoor Boy』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")リリース）に収録された。
+      - [小堺一機](../Page/小堺一機.md "wikilink")への提供曲だが、タイトルと歌詞を改変した「日曜はダメ」としてアルバム『The Nextdoor Boy』（[1986年](../Page/1986年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")リリース）に収録された。
       - 来生は第17弾オリジナル・シングル「白いラビリンス（迷い）」（[1984年](../Page/1984年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")リリース）のB面でカバーしている。
 9.  **白いラビリンス（迷い）**（5:03）
       - 作詞：来生えつこ ／ 作曲：来生たかお ／ 編曲：[ポール・モーリア](../Page/ポール・モーリア.md "wikilink")
@@ -102,7 +102,7 @@
       - 来生は、第26弾オリジナル・シングル（[1991年](../Page/1991年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")リリース）のカップリング及び企画アルバム『[LABYRINTH II](https://ja.wikipedia.org/wiki/LABYRINTH_II "wikilink")』でカバーしている。
 17. **With**（4:15）
       - 作詞：来生えつこ ／ 作曲：来生たかお ／ 編曲：Gilles GAMBUS
-      - [小堺一機](../Page/小堺一機.md "wikilink")への提供曲（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")リリース）で、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『コサキンDEワァオ\!』（他、同局の[コサキン](../Page/コサキン.md "wikilink")の各番組）のエンディングテーマとして使用された。また、セルフカバー・アルバム『With』に収録されたヴァージョンは、TBSラジオ『[小堺一機のサタデーウィズ](../Page/小堺一機のサタデーウィズ.md "wikilink")』のエンディングテーマとして使用された。
+      - [小堺一機](../Page/小堺一機.md "wikilink")への提供曲（[1986年](../Page/1986年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")リリース）で、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『コサキンDEワァオ\!』（他、同局の[コサキン](../Page/コサキン.md "wikilink")の各番組）のエンディングテーマとして使用された。また、セルフカバー・アルバム『With』に収録されたヴァージョンは、TBSラジオ『[小堺一機のサタデーウィズ](../Page/小堺一機のサタデーウィズ.md "wikilink")』のエンディングテーマとして使用された。
       - 来生は企画アルバム『[LABYRINTH II](https://ja.wikipedia.org/wiki/LABYRINTH_II "wikilink")』でカバーしている。
 
 ## 関連項目

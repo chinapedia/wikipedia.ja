@@ -78,7 +78,7 @@
       - [インテグラ タイプR（DC5）](../Page/ホンダ・インテグラタイプR.md "wikilink")（ニューカー）
       - インテグラ タイプR LMエディション（ドリームカー・ダートカー）
       - [S2000](../Page/ホンダ・S2000.md "wikilink")（ニューカー）
-  - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
+  - [マツダ](../Page/マツダ.md "wikilink")
       - [アテンザ](../Page/マツダ・アテンザ.md "wikilink")（コンセプトカー）
       - アテンザ LMエディション（ドリームカー・ダートカー）
       - [RX-8](../Page/マツダ・RX-8.md "wikilink")（コンセプトカー）

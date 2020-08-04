@@ -14,7 +14,7 @@
 [一酸化鉛](../Page/一酸化鉛.md "wikilink")と[二酸化チタンを混合し](https://ja.wikipedia.org/wiki/酸化チタン\(IV\) "wikilink")、[焼結](../Page/焼結.md "wikilink")することで得られる。
 
   -
-    <ce>{PbO} + TiO2 -\> PbTiO3</ce>
+    <chem>{PbO} + TiO2 -\> PbTiO3</chem>
 
 ## 応用例
 

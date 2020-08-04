@@ -7,7 +7,7 @@
 
 ## 解説
 
-LINDBERGのデビューアルバムで、シングル『ROUTE 246』と同時発売。ブレイク以後と違い、このアルバム時は[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の森重樹一や、[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")・[COBRAのPON](../Page/COBRA_\(バンド\).md "wikilink")&[NAOKI](../Page/宮本直樹.md "wikilink")、また元[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")のメンバーでもあった[三柴江戸蔵](https://ja.wikipedia.org/wiki/三柴江戸蔵 "wikilink")等、外部の作家陣が多い。メンバーの自作曲は4,6,8,11曲目の半分程度で、渡瀬マキが作詞した曲は11曲目の『MINE』のみであるが、4,5,6,8,10曲目あたりのトラックは、メンバーオンリーのアレンジである。
+LINDBERGのデビューアルバムで、シングル『ROUTE 246』と同時発売。ブレイク以後と違い、このアルバム時は[ZIGGY](../Page/ZIGGY.md "wikilink")の森重樹一や、[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")・[COBRAのPON](../Page/COBRA_\(バンド\).md "wikilink")&[NAOKI](../Page/宮本直樹.md "wikilink")、また元[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")のメンバーでもあった[三柴江戸蔵](https://ja.wikipedia.org/wiki/三柴江戸蔵 "wikilink")等、外部の作家陣が多い。メンバーの自作曲は4,6,8,11曲目の半分程度で、渡瀬マキが作詞した曲は11曲目の『MINE』のみであるが、4,5,6,8,10曲目あたりのトラックは、メンバーオンリーのアレンジである。
 
 ジャケットの写真は[渋谷](../Page/渋谷.md "wikilink")“Take Off 7”でのライブ終了後に、[渋谷公園通り](../Page/渋谷公園通り.md "wikilink")のホテル前で撮影されたものであり\[1\]、またブックレットには、渡瀬マキが本名の**渡瀬麻紀**名義で書いたコメントが掲載されている。
 

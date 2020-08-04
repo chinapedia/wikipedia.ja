@@ -1,7 +1,7 @@
 > この記事は[GIRLS LOCKS!](https://ja.wikipedia.org/wiki/GIRLS_LOCKS!)から翻訳されています。
 
 
-**GIRLS LOCKS\!**（ガールズロックス）は[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系](../Page/全国FM放送協議会.md "wikilink")38局で放送されているラジオ番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて放送されていた授業（コーナー）の1つ\[1\]。
+**GIRLS LOCKS\!**（ガールズロックス）は[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系](../Page/全国FM放送協議会.md "wikilink")38局で放送されているラジオ番組『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』にて放送されていた授業（コーナー）の1つ\[1\]。
 
 単独番組であった[『GIRLS LOCKS\! SUNDAY』](https://ja.wikipedia.org/wiki/#GIRLS_LOCKS!_SUNDAY "wikilink")、「GIRLS LOCKS\!」の発展形として放送された[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")の『[ガッキーLOCKS\!](https://ja.wikipedia.org/wiki/#ガッキーLOCKS! "wikilink")』についてもここで扱う。
 
@@ -355,7 +355,7 @@
 
 #### 桜庭ななみのGIRLS LOCKS\!
 
-パーソナリティーは[桜庭ななみ](https://ja.wikipedia.org/wiki/桜庭ななみ "wikilink")。[堀北真希のGIRLS LOCKS\!](https://ja.wikipedia.org/wiki/#堀北真希のGIRLS_LOCKS! "wikilink")\[10\]終了に伴い、2009年6月8日に開始。以降2010年12月16日まで、毎月2週目に放送されていた。
+パーソナリティーは[桜庭ななみ](../Page/桜庭ななみ.md "wikilink")。[堀北真希のGIRLS LOCKS\!](https://ja.wikipedia.org/wiki/#堀北真希のGIRLS_LOCKS! "wikilink")\[10\]終了に伴い、2009年6月8日に開始。以降2010年12月16日まで、毎月2週目に放送されていた。
 
 桜庭は天文部\[11\]部長を務めていた。
 
@@ -559,7 +559,7 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
 
 パーソナリティーは[貫地谷しほり](https://ja.wikipedia.org/wiki/貫地谷しほり "wikilink")。2005年10月31日 - 11月3日および2006年1月30日 - 2月2日に放送された。
 
-わずか2週8回で降板したが、貫地谷自身は2年10か月後に[ラジオ劇団『小さな奇跡』](https://ja.wikipedia.org/wiki/ラジオ劇団『小さな奇跡』 "wikilink")でJFM系ラジオ番組に復帰。1か月客演を果たした後10か月後に冠番組となった『貫地谷しほりのラジオ劇団・小さな奇跡』で半年間主演（座長）を務めた。この番組での最終週の共演者はSCHOOL OF LOCK\!退任直前の[やましげ校長＝山崎樹範であった](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#やましげ校長 "wikilink")。
+わずか2週8回で降板したが、貫地谷自身は2年10か月後に[ラジオ劇団『小さな奇跡』](../Page/ラジオ劇団『小さな奇跡』.md "wikilink")でJFM系ラジオ番組に復帰。1か月客演を果たした後10か月後に冠番組となった『貫地谷しほりのラジオ劇団・小さな奇跡』で半年間主演（座長）を務めた。この番組での最終週の共演者はSCHOOL OF LOCK\!退任直前の[やましげ校長＝山崎樹範であった](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#やましげ校長 "wikilink")。
 
 後任は[成海璃子](https://ja.wikipedia.org/wiki/#成海璃子のGIRLS_LOCKS! "wikilink")。
 
@@ -597,7 +597,7 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
 
 ### GIRLS LOCKS\! FRIDAY
 
-毎週金曜日に放送される『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』は『[SCHOOL OF LOCK\! FRIDAY](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#金曜日：SCHOOL_OF_LOCK!_FRIDAY "wikilink")』と呼ばれるが、「GIRLS LOCKS\!」のコーナー名にも**"FRIDAY"**がついており、月曜日 - 木曜日とは異なる趣で放送された。
+毎週金曜日に放送される『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』は『[SCHOOL OF LOCK\! FRIDAY](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#金曜日：SCHOOL_OF_LOCK!_FRIDAY "wikilink")』と呼ばれるが、「GIRLS LOCKS\!」のコーナー名にも**"FRIDAY"**がついており、月曜日 - 木曜日とは異なる趣で放送された。
 
 #### 鈴木杏のGIRLS LOCKS\! FRIDAY
 
@@ -676,7 +676,7 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
 
 ## 関連項目
 
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")
   - [TOKYO FM番組一覧](https://ja.wikipedia.org/wiki/TOKYO_FM番組一覧 "wikilink")
 
 ## 外部リンク

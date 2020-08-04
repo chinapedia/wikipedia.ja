@@ -215,7 +215,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKブラン" title="wikilink">ブラン</a></p></td>
+<td><p><a href="../Page/SKブラン.md" title="wikilink">ブラン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–1</p></td>
 <td><p>'''0–1</p></td>

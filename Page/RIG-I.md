@@ -13,7 +13,7 @@ RIG-Iと高い相同性を示すRNAヘリカーゼとして[MDA5](https://ja.wik
 
 ## ウイルスとのかかわり
 
-RIG-Iによって認識されるRNAウイルスとして、[インフルエンザウイルス](../Page/インフルエンザウイルス.md "wikilink")、[センダイウイルス](../Page/センダイウイルス.md "wikilink")、[日本脳炎](../Page/日本脳炎.md "wikilink")ウイルス、[水痘・帯状疱疹ウイルス](../Page/水痘・帯状疱疹ウイルス.md "wikilink")、[C型肝炎ウイルス](../Page/C型肝炎ウイルス.md "wikilink")、[フィロウイルス](https://ja.wikipedia.org/wiki/フィロウイルス "wikilink")、[西ナイルウイルス](../Page/西ナイルウイルス.md "wikilink")、[麻疹ウイルス](https://ja.wikipedia.org/wiki/麻疹ウイルス "wikilink")、[狂犬病ウイルス](https://ja.wikipedia.org/wiki/狂犬病ウイルス "wikilink")、[風疹ウイルス](https://ja.wikipedia.org/wiki/風疹ウイルス "wikilink")等がある。また、[ピコルナウイルス](https://ja.wikipedia.org/wiki/ピコルナウイルス "wikilink")に属するマウスの[EMCV](https://ja.wikipedia.org/wiki/EMCV "wikilink")は、MDA5によって認識される。
+RIG-Iによって認識されるRNAウイルスとして、[インフルエンザウイルス](../Page/インフルエンザウイルス.md "wikilink")、[センダイウイルス](../Page/センダイウイルス.md "wikilink")、[日本脳炎](../Page/日本脳炎.md "wikilink")ウイルス、[水痘・帯状疱疹ウイルス](../Page/水痘・帯状疱疹ウイルス.md "wikilink")、[C型肝炎ウイルス](../Page/C型肝炎ウイルス.md "wikilink")、[フィロウイルス](https://ja.wikipedia.org/wiki/フィロウイルス "wikilink")、[西ナイルウイルス](../Page/西ナイルウイルス.md "wikilink")、[麻疹ウイルス](../Page/麻疹ウイルス.md "wikilink")、[狂犬病ウイルス](https://ja.wikipedia.org/wiki/狂犬病ウイルス "wikilink")、[風疹ウイルス](../Page/風疹ウイルス.md "wikilink")等がある。また、[ピコルナウイルス](https://ja.wikipedia.org/wiki/ピコルナウイルス "wikilink")に属するマウスの[EMCV](https://ja.wikipedia.org/wiki/EMCV "wikilink")は、MDA5によって認識される。
 
 ## マウスのRIG-I
 

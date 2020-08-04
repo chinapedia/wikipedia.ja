@@ -196,8 +196,8 @@
 15.
 16. [米光美保](../Page/米光美保.md "wikilink")『From My Heart』 発売
 17.
-18. [中山美穂](../Page/中山美穂.md "wikilink")『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』 発売
+18. [中山美穂](../Page/中山美穂.md "wikilink")『[CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")』 発売
 19.
-20. 中山美穂『[SUMMER BREEZE](https://ja.wikipedia.org/wiki/SUMMER_BREEZE "wikilink")』 発売、「[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」 発売
+20. 中山美穂『[SUMMER BREEZE](../Page/SUMMER_BREEZE.md "wikilink")』 発売、「[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」 発売
 21.
 22.

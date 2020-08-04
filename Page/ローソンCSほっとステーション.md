@@ -52,7 +52,7 @@
 
   - [ローソン](../Page/ローソン.md "wikilink")
   - [通信衛星](../Page/通信衛星.md "wikilink")
-  - [LAWSON カウントダウンジャパン](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink") - 以前ローソン店内でも放送されていたラジオ番組。番組自体は[エフエム東京](../Page/エフエム東京.md "wikilink")制作でJFN系列を通じ全国へ放送されていたものである。
+  - [LAWSON カウントダウンジャパン](../Page/JA全農_COUNTDOWN_JAPAN.md "wikilink") - 以前ローソン店内でも放送されていたラジオ番組。番組自体は[エフエム東京](../Page/エフエム東京.md "wikilink")制作でJFN系列を通じ全国へ放送されていたものである。
   - [In Store Music](https://ja.wikipedia.org/wiki/ファミリーマート#ファミラジ "wikilink") - [ファミリーマート](../Page/ファミリーマート.md "wikilink")各店舗で放送されるもの。
 
 ## 外部リンク

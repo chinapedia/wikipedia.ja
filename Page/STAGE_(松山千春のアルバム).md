@@ -7,7 +7,7 @@
 
 [1982年](../Page/1982年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")の[真駒内屋外競技場](../Page/真駒内屋外競技場.md "wikilink")で行われたコンサート「Big Summer Scene '82 大いなる愛よ夢よ」の模様を収録した2枚組のアルバムである。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ALFAレコードからCD化され発売されたが](../Page/アルファレコード.md "wikilink")、現在は[廃盤](../Page/廃盤.md "wikilink")となっている\[1\]。
+[1986年](../Page/1986年.md "wikilink")に[ALFAレコードからCD化され発売されたが](../Page/アルファレコード.md "wikilink")、現在は[廃盤](../Page/廃盤.md "wikilink")となっている\[1\]。
 
 [CDボックス・セット](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『CHIHARU MATSUYAMA LIVE BOX 1980-1999“O・I・RA”』のディスク5とディスク6には、この日のコンサートが完全収録されている。また、松山千春DVDコレクションVol.1『STAGE』は、同じコンサートの模様を収録。
 

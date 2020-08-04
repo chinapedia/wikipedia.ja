@@ -50,7 +50,7 @@
 
 ## 過去に所属していたタレント
 
-  - [黒木なつみ](https://ja.wikipedia.org/wiki/黒木なつみ "wikilink")\[2\]
+  - [黒木なつみ](../Page/黒木なつみ.md "wikilink")\[2\]
   - [長崎莉奈](../Page/長崎莉奈.md "wikilink")
   - [純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")
   - [纐纈みさき](../Page/纐纈みさき.md "wikilink") ※結婚を機に引退

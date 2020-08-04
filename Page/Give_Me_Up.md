@@ -1,7 +1,7 @@
 > この記事は[Give Me Up](https://ja.wikipedia.org/wiki/Give_Me_Up)から翻訳されています。
 
 
-「**Give Me Up**」（ギヴ ミー アップ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売された[マイケル・フォーチュナティ](../Page/マイケル・フォーチュナティ.md "wikilink")（Michael Fortunati）のデビュー[シングル](../Page/シングル.md "wikilink")で、1980年代[ユーロビート](../Page/ユーロビート.md "wikilink")の代表的な曲として知られる。
+「**Give Me Up**」（ギヴ ミー アップ）は、[1986年](../Page/1986年.md "wikilink")に発売された[マイケル・フォーチュナティ](../Page/マイケル・フォーチュナティ.md "wikilink")（Michael Fortunati）のデビュー[シングル](../Page/シングル.md "wikilink")で、1980年代[ユーロビート](../Page/ユーロビート.md "wikilink")の代表的な曲として知られる。
 
 [バナナラマ](../Page/バナナラマ.md "wikilink")の『アイ・ハード・ア・ルーマー』（全米4位）はこの曲に触発されて製作されたといわれている。
 

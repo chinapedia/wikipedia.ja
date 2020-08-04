@@ -112,7 +112,7 @@
       - [鳴戸勝紀](https://ja.wikipedia.org/wiki/鳴戸勝紀 "wikilink")（元大関琴欧州）「鳴戸勝紀オフィシャルブログ」
       - [ブルゾンちえみ](https://ja.wikipedia.org/wiki/ブルゾンちえみ "wikilink")「〜What's up？セレブリティーズ〜」
       - ぺこ「COTTON CANDY？」
-      - [横山だいすけ](https://ja.wikipedia.org/wiki/横山だいすけ "wikilink")「横山だいすけオフィシャルブログ」
+      - [横山だいすけ](../Page/横山だいすけ.md "wikilink")「横山だいすけオフィシャルブログ」
   - 優秀賞（一般部門）
       - ちゅいママ「kosodatefulな毎日　～我が家の3太～」
       - YUKIKO「◆Keep Life Simple◆ ほんとうに必要な物しか持たない暮らし 〜インテリアのきろく〜」

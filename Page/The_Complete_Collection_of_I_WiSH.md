@@ -101,7 +101,7 @@
         3rdシングル「約束の日」のカップリング曲。
 8.  **[いい日旅立ち](https://ja.wikipedia.org/wiki/WISH_\(I_WiSHのアルバム\) "wikilink") -Tribute Version-**
       -
-        [トリビュートアルバム](../Page/トリビュート・アルバム.md "wikilink")『[山口百恵トリビュート Thank You For…part2](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…part2 "wikilink")』に収録されているバージョン。
+        [トリビュートアルバム](../Page/トリビュート・アルバム.md "wikilink")『[山口百恵トリビュート Thank You For…part2](../Page/山口百恵トリビュート_Thank_You_For…part2.md "wikilink")』に収録されているバージョン。
 9.  **[さよならの雨](../Page/伝えたい言葉_〜涙のおちる場所〜.md "wikilink")**
       -
         1stアルバム『伝えたい言葉 〜涙のおちる場所〜』収録曲。

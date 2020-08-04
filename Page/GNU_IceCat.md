@@ -39,7 +39,7 @@
 
 ## 関連項目
 
-  - [Gnuzilla](https://ja.wikipedia.org/wiki/Gnuzilla "wikilink")
+  - [Gnuzilla](../Page/Gnuzilla.md "wikilink")
   - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
   - [Iceweasel](../Page/Iceweasel.md "wikilink")
 

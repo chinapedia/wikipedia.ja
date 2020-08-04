@@ -519,7 +519,7 @@
   - [FMまつもと](https://ja.wikipedia.org/wiki/エフエムまつもと "wikilink")（長野県[松本市](../Page/松本市.md "wikilink")）
   - [FM KENTO](../Page/けんと放送.md "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")）
   - [ラヂオは〜と](../Page/燕三条エフエム放送.md "wikilink")（新潟県[三条市](../Page/三条市.md "wikilink")・[燕市](../Page/燕市.md "wikilink")）
-  - [長岡移動電話システム](https://ja.wikipedia.org/wiki/FMながおか "wikilink")（新潟県[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）
+  - [長岡移動電話システム](https://ja.wikipedia.org/wiki/FMながおか "wikilink")（新潟県[長岡市](../Page/長岡市.md "wikilink")）
   - [City FM](../Page/富山シティエフエム.md "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")）
   - [ラジオ・ミュー](../Page/新川コミュニティ放送.md "wikilink")（富山県[黒部市](../Page/黒部市.md "wikilink")）
   - [エフエムいみず](../Page/エフエムいみず.md "wikilink")（富山県[射水市](../Page/射水市.md "wikilink")）

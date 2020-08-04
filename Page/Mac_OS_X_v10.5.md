@@ -13,7 +13,7 @@
 
 Leopardは300以上にも及ぶ新機能が搭載された。また、レガシーなものとの決別も特徴であり、[NeXT](../Page/NeXT.md "wikilink")から引き継いで使われていた[ディレクトリ・サービス](../Page/ディレクトリ・サービス.md "wikilink")の[NetInfo](https://ja.wikipedia.org/wiki/NetInfo "wikilink")が[DSlocal](https://ja.wikipedia.org/wiki/DSlocal "wikilink")へ置き換えられ、Mac OS 9.2.2を動かすための[Classic環境が排除された](../Page/Classic_\(ソフトウェア\).md "wikilink")。
 
-[Cocoa](../Page/Cocoa.md "wikilink")及び[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")を含むOS全体が[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")に対応する（ただし[Carbon](../Page/Carbon.md "wikilink")のUI部分は[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")に対応しておらず、Carbonアプリケーションを64ビット対応させるにはCocoaでのラッピングが必須となる）。64ビット環境に対応するプロセッサならば、Intel・PowerPCの別を問わず自動的に64ビットに対応し、1つのシステム上で、[32ビット](../Page/32ビット.md "wikilink")アプリケーションと64ビットアプリケーション、32ビットドライバと64ビットドライバが同時に動作可能\[8\]。これを実現するために[カーネル](../Page/カーネル.md "wikilink")を32ビットモードにしており、[OS全体としては](../Page/オペレーティングシステム.md "wikilink")64ビットではない\[9\]。
+[Cocoa](../Page/Cocoa.md "wikilink")及び[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")を含むOS全体が[64ビット](../Page/64ビット.md "wikilink")に対応する（ただし[Carbon](../Page/Carbon.md "wikilink")のUI部分は[64ビット](../Page/64ビット.md "wikilink")に対応しておらず、Carbonアプリケーションを64ビット対応させるにはCocoaでのラッピングが必須となる）。64ビット環境に対応するプロセッサならば、Intel・PowerPCの別を問わず自動的に64ビットに対応し、1つのシステム上で、[32ビット](../Page/32ビット.md "wikilink")アプリケーションと64ビットアプリケーション、32ビットドライバと64ビットドライバが同時に動作可能\[8\]。これを実現するために[カーネル](../Page/カーネル.md "wikilink")を32ビットモードにしており、[OS全体としては](../Page/オペレーティングシステム.md "wikilink")64ビットではない\[9\]。
 
 画面デザインでは、ウィンドウのタイトルバーが白からグレーに変更された。デフォルトで搭載されるアプリケーションのアイコンやツールバーが立体感や透明感の少ないソリッドなものになった。
 

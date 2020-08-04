@@ -1,7 +1,7 @@
 > この記事は[AGS \(F1\)](https://ja.wikipedia.org/wiki/AGS_\(F1\))から翻訳されています。
 
 
-**AGS** (**Automobiles Gonfaronaises Sportives**) は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1991年](../Page/1991年.md "wikilink")まで[F1に参戦していた](../Page/フォーミュラ1.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のレーシングチームである。
+**AGS** (**Automobiles Gonfaronaises Sportives**) は、[1986年](../Page/1986年.md "wikilink")から[1991年](../Page/1991年.md "wikilink")まで[F1に参戦していた](../Page/フォーミュラ1.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のレーシングチームである。
 
 ## 歴史
 

@@ -29,7 +29,7 @@
 ## 関連項目
 
   - [チャナントール天文台](https://ja.wikipedia.org/wiki/チャナントール天文台 "wikilink")
-  - [ラ・シヤ天文台](https://ja.wikipedia.org/wiki/ラ・シヤ天文台 "wikilink")
+  - [ラ・シヤ天文台](../Page/ラ・シヤ天文台.md "wikilink")
   - [セロ・トロロ汎米天文台](https://ja.wikipedia.org/wiki/セロ・トロロ汎米天文台 "wikilink")
 
 ### 学問・技術

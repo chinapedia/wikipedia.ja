@@ -13,7 +13,7 @@
 
 シングル盤のジャケットには「泣かないでMY LOVE」と合わせて、「DON'T CRY MY LOVE」と英語表記もされている。
 
-その後[Promised Love -THE ALFEE BALLAD SELECTION-にて新アレンジ新録音されたものが収録されたが](https://ja.wikipedia.org/wiki/Promised_Love_-THE_ALFEE_BALLAD_SELECTION- "wikilink")、最も特徴的な変更として、サビの掛け合いがオリジナルではメインボーカルの坂崎が先行し、コーラスの2人が追っかける形だったのに対し、新アレンジ版ではコーラスが先行し、その後を追うようにメインの坂崎が歌う形に演出されている。
+その後[Promised Love -THE ALFEE BALLAD SELECTION-にて新アレンジ新録音されたものが収録されたが](../Page/Promised_Love_-THE_ALFEE_BALLAD_SELECTION-.md "wikilink")、最も特徴的な変更として、サビの掛け合いがオリジナルではメインボーカルの坂崎が先行し、コーラスの2人が追っかける形だったのに対し、新アレンジ版ではコーラスが先行し、その後を追うようにメインの坂崎が歌う形に演出されている。
 
 ## 収録曲
 
@@ -32,7 +32,7 @@
   - [ALFEE 4WAY STORY](https://ja.wikipedia.org/wiki/ALFEE_4WAY_STORY "wikilink")（\#1）
   - [アルフィーA面コレクション スペシャル](https://ja.wikipedia.org/wiki/アルフィーA面コレクション_スペシャル "wikilink")（\#1）
   - [アルフィーB面コレクション スペシャル](https://ja.wikipedia.org/wiki/アルフィーB面コレクション_スペシャル "wikilink")（\#2）
-  - [Promised Love -THE ALFEE BALLAD SELECTION-](https://ja.wikipedia.org/wiki/Promised_Love_-THE_ALFEE_BALLAD_SELECTION- "wikilink")（\#1、新録）
+  - [Promised Love -THE ALFEE BALLAD SELECTION-](../Page/Promised_Love_-THE_ALFEE_BALLAD_SELECTION-.md "wikilink")（\#1、新録）
   - [THE ALFEE SINGLE HISTORY VOL.I 1979-1982](../Page/THE_ALFEE_SINGLE_HISTORY_VOL.I_1979-1982.md "wikilink")（\#1,2）
   - [THE ALFEE 單曲全集一](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE ALFEE EMOTIONAL LOVE SONGS](https://ja.wikipedia.org/wiki/THE_ALFEE_EMOTIONAL_LOVE_SONGS "wikilink")（\#1、『Promised Love』ヴァージョン）

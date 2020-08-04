@@ -71,7 +71,7 @@
 <!-- end list -->
 
   - [サニー](../Page/日産・サニー.md "wikilink")（B11）[1982年](../Page/1982年.md "wikilink")10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")9月
-  - [パルサー](../Page/日産・パルサー.md "wikilink")（N12）[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")5月
+  - [パルサー](../Page/日産・パルサー.md "wikilink")（N12）[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月 - [1986年](../Page/1986年.md "wikilink")5月
   - [ラングレー](../Page/日産・ラングレー.md "wikilink")（N12）1983年5月 - 1986年10月
   - [ローレルスピリット](../Page/日産・ローレルスピリット.md "wikilink")（B11）1983年11月 - 1986年8月
   - [ADバン](../Page/日産・NV150AD.md "wikilink")（VB11）1982年10月 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月

@@ -5,13 +5,13 @@
 
 ## 概要
 
-[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")をクラブに見立ててスイングするという直感的、体感的な操作が特長である。
+[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")をクラブに見立ててスイングするという直感的、体感的な操作が特長である。
 
 [タイアップ](../Page/タイアップ.md "wikilink")要素として、カプコンの他のゲームのキャラクターのコスチュームをプレイキャラクターに着せることができる。登場するコスチュームは『[逆転裁判4](https://ja.wikipedia.org/wiki/逆転裁判#逆転裁判4 "wikilink")』の[王泥喜法介](../Page/王泥喜法介.md "wikilink")、『[魔界村](../Page/魔界村.md "wikilink")』のアーサー、『[ストリートファイターシリーズ](https://ja.wikipedia.org/wiki/ストリートファイターシリーズ "wikilink")』の[春麗](../Page/春麗.md "wikilink")、『[バイオハザード3](https://ja.wikipedia.org/wiki/バイオハザード3 "wikilink")』の[ジル・バレンタイン](https://ja.wikipedia.org/wiki/ジル・バレンタイン "wikilink")など。
 
 ## ボイスナビゲーションシステム　
 
-初心者には、リモコンくんが基本的な操作方法や[ショット](../Page/ショット.md "wikilink")の打ち方、タイミングのとり方など、[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")からの音声と画面上のメッセージでナビゲートしてくれる。
+初心者には、リモコンくんが基本的な操作方法や[ショット](../Page/ショット.md "wikilink")の打ち方、タイミングのとり方など、[Wiiリモコン](../Page/Wiiリモコン.md "wikilink")からの音声と画面上のメッセージでナビゲートしてくれる。
 
 ## コース
 

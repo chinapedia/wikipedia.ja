@@ -28,7 +28,7 @@
 <td><p>牝6</p></td>
 <td><p>12戦6勝<br />
 <a href="../Page/全日本サラブレッドカップ.md" title="wikilink">全日本サラブレッドカップ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田牧場_(北海道)" title="wikilink">吉田牧場</a></p></td>
+<td><p><a href="../Page/吉田牧場_(北海道).md" title="wikilink">吉田牧場</a></p></td>
 <td><p><a href="../Page/岐阜県地方競馬組合.md" title="wikilink">笠松</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/荒川友司" title="wikilink">荒川友司</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田重雄" title="wikilink">吉田重雄</a></p></td>
@@ -85,7 +85,7 @@
 <a href="../Page/マリーンカップ.md" title="wikilink">マリーンカップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルモントファーム" title="wikilink">ベルモントファーム</a></p></td>
 <td><p>川崎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田孝" title="wikilink">池田孝</a></p></td>
+<td><p><a href="../Page/池田孝.md" title="wikilink">池田孝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルモントファーム" title="wikilink">（有）ベルモントファーム</a></p></td>
 </tr>
 <tr class="odd">
@@ -152,7 +152,7 @@
 TCK女王盃</p></td>
 <td><p><a href="../Page/ノーザンファーム.md" title="wikilink">ノーザンファーム</a></p></td>
 <td><p>川崎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山崎尋美" title="wikilink">山崎尋美</a></p></td>
+<td><p><a href="../Page/山崎尋美.md" title="wikilink">山崎尋美</a></p></td>
 <td><p><a href="../Page/金子真人.md" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
 </tr>
 </tbody>

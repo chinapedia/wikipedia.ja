@@ -5,7 +5,7 @@
 
 ## 解説
 
-Disc1には[2007年](../Page/2007年.md "wikilink")12月11日（火）と12日（水）に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")の国立大ホールで開催された[ウィーン・アンバサーデ・オーケストラによるライブ](https://ja.wikipedia.org/wiki/:de:Ambassade_Orchester_Wien "wikilink")、Disc2には2007年[12月6日](../Page/12月6日.md "wikilink")（木）に[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の磔磔で行なわれたライブを収録している。
+Disc1には[2007年](../Page/2007年.md "wikilink")12月11日（火）と12日（水）に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")の国立大ホールで開催された[ウィーン・アンバサーデ・オーケストラによるライブ](https://ja.wikipedia.org/wiki/:de:Ambassade_Orchester_Wien "wikilink")、Disc2には2007年[12月6日](../Page/12月6日.md "wikilink")（木）に[京都](../Page/京都.md "wikilink")の磔磔で行なわれたライブを収録している。
 
 Disc1のミックスは[前作のミックスの一部を担当したエンジニアのディーツが担当しており](../Page/ワルツを踊れ_Tanz_Walzer.md "wikilink")、そのミックスの出来にボーカルの[岸田繁](../Page/岸田繁.md "wikilink")は「氏の巧みの技の連続に失禁寸前」と評している。なお、Disc2のミックスは[浦本雅史](https://ja.wikipedia.org/wiki/浦本雅史 "wikilink")と岸田が担当している。
 

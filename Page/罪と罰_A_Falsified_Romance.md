@@ -94,8 +94,8 @@
   - 島津 敦子 ‐ [角南範子](https://ja.wikipedia.org/wiki/角南範子 "wikilink")
   - 目加田 - [長谷川朝晴](https://ja.wikipedia.org/wiki/長谷川朝晴 "wikilink")
   - ヤクザ - [デビット伊東](../Page/デビット伊東.md "wikilink")： 女子高生売春の元締め。
-  - コウ - [テイ龍進](https://ja.wikipedia.org/wiki/テイ龍進 "wikilink")： 首藤の行きつけの[パブ](../Page/パブ.md "wikilink")（[キャバクラ](https://ja.wikipedia.org/wiki/キャバクラ "wikilink")）の経営者。
-  - [内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")： 教師時代の飴屋の弱みを握っていたぶっていた男。
+  - コウ - [テイ龍進](https://ja.wikipedia.org/wiki/テイ龍進 "wikilink")： 首藤の行きつけの[パブ](../Page/パブ.md "wikilink")（[キャバクラ](../Page/キャバクラ.md "wikilink")）の経営者。
+  - [内田朝陽](../Page/内田朝陽.md "wikilink")： 教師時代の飴屋の弱みを握っていたぶっていた男。
   - 沢渡 茉莉花 - [春風ひとみ](../Page/春風ひとみ.md "wikilink")： 首藤を性奴隷にしている女社長。
   - 裁 好美 - [萬田久子](../Page/萬田久子.md "wikilink")
   - 首藤 魁 - [田中哲司](../Page/田中哲司.md "wikilink")

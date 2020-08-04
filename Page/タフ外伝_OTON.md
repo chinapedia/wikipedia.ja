@@ -1,13 +1,13 @@
 > この記事は[タフ外伝 OTON](https://ja.wikipedia.org/wiki/タフ外伝_OTON)から翻訳されています。
 
 
-『**タフ外伝 OTON**』（タフがいでん おとん）は、[猿渡哲也](../Page/猿渡哲也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』増刊『[漫革](https://ja.wikipedia.org/wiki/漫革 "wikilink")』、のち『[月刊ヤングジャンプ](../Page/月刊ヤングジャンプ.md "wikilink")』（いずれも[集英社](../Page/集英社.md "wikilink")）にて、不定期掲載されていた。『月刊ヤングジャンプ』休刊以後の予定は不明である。2010年7月現在、単行本は既刊2巻。『[高校鉄拳伝タフ](../Page/高校鉄拳伝タフ.md "wikilink")』並びに『[TOUGH](../Page/TOUGH_\(漫画\).md "wikilink")』の主人公、宮沢熹一の父[宮沢静虎](https://ja.wikipedia.org/wiki/宮沢静虎 "wikilink")を物語の中心とした外伝である。単行本に併録されているもう一つの外伝『**タフ外伝 鬼龍**』についても本項で記述する。
+『**タフ外伝 OTON**』（タフがいでん おとん）は、[猿渡哲也](../Page/猿渡哲也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』増刊『[漫革](https://ja.wikipedia.org/wiki/漫革 "wikilink")』、のち『[月刊ヤングジャンプ](../Page/月刊ヤングジャンプ.md "wikilink")』（いずれも[集英社](../Page/集英社.md "wikilink")）にて、不定期掲載されていた。『月刊ヤングジャンプ』休刊以後の予定は不明である。2010年7月現在、単行本は既刊2巻。『[高校鉄拳伝タフ](../Page/高校鉄拳伝タフ.md "wikilink")』並びに『[TOUGH](../Page/TOUGH_\(漫画\).md "wikilink")』の主人公、宮沢熹一の父[宮沢静虎](../Page/宮沢静虎.md "wikilink")を物語の中心とした外伝である。単行本に併録されているもう一つの外伝『**タフ外伝 鬼龍**』についても本項で記述する。
 
 ## 登場人物
 
 ### タフ外伝 OTON
 
-  - [宮沢静虎](https://ja.wikipedia.org/wiki/宮沢静虎 "wikilink")（みやざわ せいこ）
+  - [宮沢静虎](../Page/宮沢静虎.md "wikilink")（みやざわ せいこ）
     本編『タフ外伝 OTON』の主人公。灘神影流第14代当主\[1\]\[2\]。
   - 八巻樹馬（やまき きうま）
     八巻実の息子で八巻流体術当代。自らが伝承した「徹貫掌」の威力を試すべく、静虎に執拗に手合わせを願い出る。
@@ -29,7 +29,7 @@
 
 ### タフ外伝 鬼龍
 
-  - [宮沢鬼龍](https://ja.wikipedia.org/wiki/宮沢鬼龍 "wikilink")（みやざわ きりゅう）
+  - [宮沢鬼龍](../Page/宮沢鬼龍.md "wikilink")（みやざわ きりゅう）
     『タフ外伝 鬼龍』の主人公であり、静虎の一卵性双生児の兄である。アメリカ合衆国大統領から、アフガンの過激派テロ組織に拉致されたビクトリアを救出する任務を受け、単身テロリストの本拠地に乗り込む。
   - アメリカ合衆国大統領
     アメリカ合衆国を統括している大統領で、ビクトリアという娘がいる。モデルは[ジョージ・W・ブッシュ](../Page/ジョージ・W・ブッシュ.md "wikilink")である。

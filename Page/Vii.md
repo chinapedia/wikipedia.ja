@@ -5,7 +5,7 @@
 
 ## 概要
 
-価格は約986[元](../Page/人民元.md "wikilink")（当時の[レートで約](https://ja.wikipedia.org/wiki/為替相場 "wikilink")1万5000[円](https://ja.wikipedia.org/wiki/日本円 "wikilink")）。実売価格としては7980円で購入可能。製品名や本体の外見、[リモコン型コントローラを使用するアイディアなどが](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")[任天堂](../Page/任天堂.md "wikilink")のゲーム機である[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")と酷似している\[1\]。
+価格は約986[元](../Page/人民元.md "wikilink")（当時の[レートで約](https://ja.wikipedia.org/wiki/為替相場 "wikilink")1万5000[円](https://ja.wikipedia.org/wiki/日本円 "wikilink")）。実売価格としては7980円で購入可能。製品名や本体の外見、[リモコン型コントローラを使用するアイディアなどが](../Page/Wiiリモコン.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")のゲーム機である[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")と酷似している\[1\]。
 
 画質は荒く、遊べるゲームソフトは内蔵されている12種類（日本版は11種類）と元からViiの箱に入っている[ロムカートリッジ](https://ja.wikipedia.org/wiki/ロムカートリッジ "wikilink")のみで、インターネットには対応していない\[2\]\[3\]。
 

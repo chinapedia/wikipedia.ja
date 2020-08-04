@@ -3,7 +3,7 @@
 
 **ローバー・SD1** （*Rover SD1* ）は、イギリス・[ローバー製自動車の](../Page/ローバー_\(自動車\).md "wikilink")[コードネーム](../Page/コードネーム.md "wikilink")であり、[1976年](../Page/1976年.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで生産されていた一連の中-大型[乗用車](../Page/乗用車.md "wikilink")である。
 
-当初は[ブリティシュ・レイランド](https://ja.wikipedia.org/wiki/ブリティシュ・レイランド "wikilink")（BLMC）、1986年からは[ローバー・グループ](https://ja.wikipedia.org/wiki/ローバー・グループ "wikilink")によって、「ローバー 2000」「ローバー 2600 SE」「ローバー V8-S」などの名称で販売されていた。
+当初は[ブリティシュ・レイランド](https://ja.wikipedia.org/wiki/ブリティシュ・レイランド "wikilink")（BLMC）、1986年からは[ローバー・グループ](../Page/ローバー・グループ.md "wikilink")によって、「ローバー 2000」「ローバー 2600 SE」「ローバー V8-S」などの名称で販売されていた。
 
 ## 開発の経緯
 

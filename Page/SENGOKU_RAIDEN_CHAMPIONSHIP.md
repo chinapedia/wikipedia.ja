@@ -17,7 +17,7 @@
 
 2008年中に6大会、2009年1月4日にニューイヤーイベント「[戦極の乱2009](https://ja.wikipedia.org/wiki/戦極の乱2009 "wikilink")」を開催し、ミドル級とライト級の初代王座を決定した。2009年はフェザー級グランプリを開催した。
 
-2009年9月、2年目で初となる大晦日興行を[有明コロシアム](../Page/有明コロシアム.md "wikilink")で開催するとともにこの大会から団体名を「**SENGOKU RAIDEN CHAMPIONSHIP**」に変更することが発表された。11月20日、大晦日興行を有明コロシアムから別会場へ変更予定であると発表したが\[5\]、11月25日には「[Dynamite\!\! 〜勇気のチカラ2009〜](https://ja.wikipedia.org/wiki/Dynamite!!_〜勇気のチカラ2009〜 "wikilink")」でのSRC vs. DREAMの対抗戦を行うことを発表\[6\]。目玉カードであった[石井慧](../Page/石井慧.md "wikilink")対[吉田秀彦](../Page/吉田秀彦.md "wikilink")の試合もDynamite\!\!で行われることになった\[7\]。代わりに有明では提携先のひとつである[日本レスリング協会](https://ja.wikipedia.org/wiki/日本レスリング協会 "wikilink")主催の「ジュニアスターカップ・レスリング選手権大会」を開催した。
+2009年9月、2年目で初となる大晦日興行を[有明コロシアム](../Page/有明コロシアム.md "wikilink")で開催するとともにこの大会から団体名を「**SENGOKU RAIDEN CHAMPIONSHIP**」に変更することが発表された。11月20日、大晦日興行を有明コロシアムから別会場へ変更予定であると発表したが\[5\]、11月25日には「[Dynamite\!\! 〜勇気のチカラ2009〜](https://ja.wikipedia.org/wiki/Dynamite!!_〜勇気のチカラ2009〜 "wikilink")」でのSRC vs. DREAMの対抗戦を行うことを発表\[6\]。目玉カードであった[石井慧](../Page/石井慧.md "wikilink")対[吉田秀彦](../Page/吉田秀彦.md "wikilink")の試合もDynamite\!\!で行われることになった\[7\]。代わりに有明では提携先のひとつである[日本レスリング協会](../Page/日本レスリング協会.md "wikilink")主催の「ジュニアスターカップ・レスリング選手権大会」を開催した。
 
 2009年10月、「[日本格闘競技連盟](https://ja.wikipedia.org/wiki/日本格闘競技連盟 "wikilink")」の創設に参加。
 
@@ -63,7 +63,7 @@ SRCに関する権利はSRCエンタテインメントが管理しており、20
 
 ## テレビ放送
 
-[スカパー\!およびケーブルテレビの](../Page/スカパー!プレミアムサービス.md "wikilink")[スカチャン](../Page/スカチャン.md "wikilink")（旧パーフェクト・チョイス）、および[スカパー\!e2の](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[スカチャン](../Page/スカチャン.md "wikilink")HD800（旧スカチャン\!ハイビジョン）による[PPV方式の生中継](../Page/ペイ・パー・ビュー.md "wikilink")。実況は[矢野武](../Page/矢野武.md "wikilink")、[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")。解説は[武田幸三](../Page/武田幸三.md "wikilink")、[秋山成勲](../Page/秋山成勲.md "wikilink")が行っている（※呼称変更前までは実況アナウンサーとして[河内孝博](../Page/河内孝博.md "wikilink")、解説者として[高阪剛](../Page/高阪剛.md "wikilink")が担当していた）。後日[FIGHTING TV サムライでも放送される](../Page/FIGHTING_TV_サムライ.md "wikilink")。
+[スカパー\!およびケーブルテレビの](../Page/スカパー!プレミアムサービス.md "wikilink")[スカチャン](../Page/スカチャン.md "wikilink")（旧パーフェクト・チョイス）、および[スカパー\!e2の](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[スカチャン](../Page/スカチャン.md "wikilink")HD800（旧スカチャン\!ハイビジョン）による[PPV方式の生中継](../Page/ペイ・パー・ビュー.md "wikilink")。実況は[矢野武](../Page/矢野武.md "wikilink")、[市川勝也](../Page/市川勝也.md "wikilink")。解説は[武田幸三](../Page/武田幸三.md "wikilink")、[秋山成勲](../Page/秋山成勲.md "wikilink")が行っている（※呼称変更前までは実況アナウンサーとして[河内孝博](../Page/河内孝博.md "wikilink")、解説者として[高阪剛](../Page/高阪剛.md "wikilink")が担当していた）。後日[FIGHTING TV サムライでも放送される](../Page/FIGHTING_TV_サムライ.md "wikilink")。
 
 旗揚げ戦に関しては、全国6か所で[パブリックビューイング](../Page/パブリックビューイング.md "wikilink")も行われた。地上波中継も検討されたが中止になり\[15\]、当日深夜の[日本テレビの](../Page/日本テレビ放送網.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』で旗揚げの模様がスポーツニュースとして放送されるだけに終わった。なお、2008年3月21日放送の[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SRS](../Page/SRS_\(テレビ番組\).md "wikilink")』にて旗揚げ戦の特集が組まれている\[16\]。また、3月17日以降、[VOD配信も行われている](../Page/ビデオ・オン・デマンド.md "wikilink")。
 

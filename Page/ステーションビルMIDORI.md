@@ -9,7 +9,7 @@
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（[昭和](../Page/昭和.md "wikilink")58年）[4月8日](../Page/4月8日.md "wikilink") - **長野ステーションビル株式会社**設立
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[4月6日](../Page/4月6日.md "wikilink") - MIDORI長野店開業
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - Mont8（モンエイト）茅野店開業([茅野駅](../Page/茅野駅.md "wikilink"))
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - Mont8（モンエイト）茅野店開業([茅野駅](../Page/茅野駅.md "wikilink"))
   - [2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）3月 - 塩尻駅構内に飲食店開業
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 松本ステーションビル株式会社を吸収合併し、**株式会社ステーションビルMIDORI**に社名変更
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[9月](../Page/9月.md "wikilink") - MIDORI長野店地下1階全面改装

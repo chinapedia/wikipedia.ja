@@ -41,7 +41,7 @@
       - 原曲歌唱: [岸洋子](../Page/岸洋子.md "wikilink")
 14. **君待てども**（3:11）
       - 作詞・作曲: [東辰三](../Page/東辰三.md "wikilink")
-      - 原曲歌唱: [平野愛子](https://ja.wikipedia.org/wiki/平野愛子 "wikilink")
+      - 原曲歌唱: [平野愛子](../Page/平野愛子.md "wikilink")
 15. **ありがとう**（3:05）
 16. **ひとり旅**（3:13）
       - [第27回NHK紅白歌合戦](../Page/第27回NHK紅白歌合戦.md "wikilink") 歌唱曲。

@@ -36,7 +36,7 @@
 
   - K-MIXのステーション[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")（5パターン）
   - K-MIXステーションジングル2009
-  - [K-MIX 2ストライク1ボール](https://ja.wikipedia.org/wiki/K-MIX_2ストライク1ボール "wikilink")（2パターン）
+  - [K-MIX 2ストライク1ボール](../Page/K-MIX_2ストライク1ボール.md "wikilink")（2パターン）
   - [SHIZUOKA TOP40](../Page/SHIZUOKA_TOP40.md "wikilink")（2パターン）
   - [K-MIX Radio the Boom\!](../Page/Radio_the_Boom!.md "wikilink")（2バージョン）
   - [K-MIX WEEKEND ヤッホー\!\!](../Page/WEEKEND_ヤッホー!!.md "wikilink")（2パターン）

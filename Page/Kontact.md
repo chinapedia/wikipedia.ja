@@ -8,13 +8,13 @@
 Kontactは以下を組み込んでいる。
 
   - 要約ページ: 未読のメール、会う約束、最新のニュースや天気を表示する
-  - メール: [KMail](https://ja.wikipedia.org/wiki/KMail "wikilink") - KDE[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")
-  - コンタクト: [KAddressBook](https://ja.wikipedia.org/wiki/KAddressBook "wikilink") - KDE Address Book
-  - カレンダー: [KOrganizer](https://ja.wikipedia.org/wiki/KOrganizer "wikilink") - KDE用の Personal Organizer
-  - To-do: [KOrganizer](https://ja.wikipedia.org/wiki/KOrganizer "wikilink")
-  - ジャーナル: [KOrganizer](https://ja.wikipedia.org/wiki/KOrganizer "wikilink")
-  - メモ: [KNotes](https://ja.wikipedia.org/wiki/KNotes "wikilink") - KDE Notes Management
-  - フィード: [Akregator](https://ja.wikipedia.org/wiki/Akregator "wikilink") - KDE[フィードリーダー](../Page/フィードリーダー.md "wikilink")
+  - メール: [KMail](../Page/KMail.md "wikilink") - KDE[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")
+  - コンタクト: [KAddressBook](../Page/KAddressBook.md "wikilink") - KDE Address Book
+  - カレンダー: [KOrganizer](../Page/KOrganizer.md "wikilink") - KDE用の Personal Organizer
+  - To-do: [KOrganizer](../Page/KOrganizer.md "wikilink")
+  - ジャーナル: [KOrganizer](../Page/KOrganizer.md "wikilink")
+  - メモ: [KNotes](../Page/KNotes.md "wikilink") - KDE Notes Management
+  - フィード: [Akregator](../Page/Akregator.md "wikilink") - KDE[フィードリーダー](../Page/フィードリーダー.md "wikilink")
   - ニュース ([Usenet](https://ja.wikipedia.org/wiki/Usenet "wikilink")): [KNode](https://ja.wikipedia.org/wiki/KNode "wikilink")
   - ニュースティッカー: [KNewsTicker](https://ja.wikipedia.org/wiki/KNewsTicker "wikilink")
   - 天気: [KWeather](https://ja.wikipedia.org/wiki/KWeather "wikilink")

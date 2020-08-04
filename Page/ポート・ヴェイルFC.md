@@ -205,7 +205,7 @@
 
 ### FW
 
-  - [イアン・グリフィス](https://ja.wikipedia.org/wiki/イアン・グリフィス "wikilink") 1984-1985
+  - [イアン・グリフィス](../Page/イアン・グリフィス.md "wikilink") 1984-1985
 
 ## 外部リンク
 

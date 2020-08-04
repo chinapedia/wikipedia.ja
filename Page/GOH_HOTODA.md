@@ -11,7 +11,7 @@
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、数多くの[ハウス・ミュージックのミックスを手がける](../Page/ハウス_\(音楽\).md "wikilink")。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にかけて、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")を旅して、著名な音楽[プロデューサー](../Page/プロデューサー.md "wikilink")から指導を受ける。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1986年](../Page/1986年.md "wikilink")にかけて、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")を旅して、著名な音楽[プロデューサー](../Page/プロデューサー.md "wikilink")から指導を受ける。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から拠点をニューヨークに移し、多くの楽曲にハウス・ミュージックのミックスを手掛ける。
 

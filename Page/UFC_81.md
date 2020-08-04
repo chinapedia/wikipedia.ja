@@ -23,7 +23,7 @@
     ○  [ロバート・エマーソン](../Page/ロバート・エマーソン.md "wikilink") vs.  [中村K太郎](../Page/中村K太郎.md "wikilink") ×
     3R終了 判定2-1（30-27、29-28、30-27）
   - 第2試合 ミドル級 5分3R
-    ○  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
+    ○  [マービン・イーストマン](../Page/マービン・イーストマン.md "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
     3R終了 判定3-0（30-27、29-28、30-27）
   - 第3試合 ライトヘビー級 5分3R
     ○  [ティム・ボッシュ](https://ja.wikipedia.org/wiki/ティム・ボッシュ "wikilink") vs.  デビッド・ヒース ×

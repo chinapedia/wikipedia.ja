@@ -9,7 +9,7 @@
 
 BスカイBは[ITVが保有していた](../Page/ITV_\(イギリス\).md "wikilink")[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の放送権を取得し、[BBC（英国放送協会）の承認を経て独占放送を行ったが](../Page/英国放送協会.md "wikilink")、[欧州委員会](../Page/欧州委員会.md "wikilink")はたびたびこれを問題視し、[2007-2008シーズンをもってアイルランドのSetanta](https://ja.wikipedia.org/wiki/プレミアリーグ2007-2008 "wikilink") Sportsに放映権の一部を譲渡、BスカイBによる独占は終了となった。
 
-[2007年](../Page/2007年.md "wikilink")7月、BスカイBはエレクトロニクス企業の[アムストラッド](https://ja.wikipedia.org/wiki/アムストラッド "wikilink")を買収し傘下とした\[2\]。
+[2007年](../Page/2007年.md "wikilink")7月、BスカイBはエレクトロニクス企業の[アムストラッド](../Page/アムストラッド.md "wikilink")を買収し傘下とした\[2\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月、ニューズ・コーポレーションはBスカイBの買収を試み株式の6割を取得、マードックが会長となったが、[ニューズ・インターナショナル電話盗聴スキャンダル](https://ja.wikipedia.org/wiki/ニューズ・インターナショナル電話盗聴スキャンダル "wikilink")の発覚に伴い、[2011年](../Page/2011年.md "wikilink")7月に頓挫\[3\]、[2012年](../Page/2012年.md "wikilink")4月マードックは会長を辞任した\[4\]。
 
@@ -35,7 +35,7 @@ BスカイBは[ITVが保有していた](../Page/ITV_\(イギリス\).md "wikili
   - （ドイツとオーストリア向け有料放送）
 
   -
-  - [アムストラッド](https://ja.wikipedia.org/wiki/アムストラッド "wikilink")
+  - [アムストラッド](../Page/アムストラッド.md "wikilink")
 
   -
 ## Sky UKの運営チャンネル

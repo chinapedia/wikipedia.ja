@@ -66,7 +66,7 @@
 ### 過去
 
   - [相沢紗世](../Page/相沢紗世.md "wikilink")
-  - [蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")
+  - [蒼井優](../Page/蒼井優.md "wikilink")
   - [荒川静香](https://ja.wikipedia.org/wiki/荒川静香 "wikilink")
   - [アンナ・ケイ](https://ja.wikipedia.org/wiki/葉熙祺 "wikilink")
   - [上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")

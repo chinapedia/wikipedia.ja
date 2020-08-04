@@ -3,7 +3,7 @@
 
 **埋め込みSQL**（うめこみ-、）は、[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")、[COBOL](../Page/COBOL.md "wikilink")、[FORTRAN](../Page/FORTRAN.md "wikilink")、[Pascal](../Page/Pascal.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink") ([SQLJ](../Page/SQLJ.md "wikilink")) といった[手続き型プログラミング](../Page/手続き型プログラミング.md "wikilink")に、[関係データベース](https://ja.wikipedia.org/wiki/関係データベース "wikilink")(RDBMS)を操作するための[SQL](../Page/SQL.md "wikilink")を組み込む手法であり、プログラマはソースコード内部に埋め込みSQLステートメントを直接記述することができるようになる。「組み込みSQL」とも呼ばれる。
 
-SQL標準規格のSQL86([1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink"))において、COBOL、FORTRAN、PL/Iなどへの埋め込みSQL文の仕様、SQL89([1989年](../Page/1989年.md "wikilink"))において、C言語への埋め込みSQL文の仕様がそれぞれ策定された。
+SQL標準規格のSQL86([1986年](../Page/1986年.md "wikilink"))において、COBOL、FORTRAN、PL/Iなどへの埋め込みSQL文の仕様、SQL89([1989年](../Page/1989年.md "wikilink"))において、C言語への埋め込みSQL文の仕様がそれぞれ策定された。
 
 埋め込みSQLステートメントはコンパイル実行前にSQL[プリプロセッサ](../Page/プリプロセッサ.md "wikilink")によって前処理される。
 

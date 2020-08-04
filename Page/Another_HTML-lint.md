@@ -7,7 +7,7 @@
 
 [DTDに則した文法のみをチェックするのではなく](../Page/Document_Type_Definition.md "wikilink")、[アクセシビリティ](../Page/アクセシビリティ.md "wikilink")[ガイドライン](https://ja.wikipedia.org/wiki/ガイドライン "wikilink")に準拠した項目や作者が望ましくないとした項目([大文字](../Page/大文字.md "wikilink")[小文字](../Page/小文字.md "wikilink")の統一についてなど)までチェックを行う。またチェック結果が点数で出力されるのも特徴の一つである。
 
-[ウェブサイト](../Page/ウェブサイト.md "wikilink")上で公開されている[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink")[サービス](../Page/サービス.md "wikilink")と[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")版を利用可能。利用料は、非営利目的なら[無料](../Page/フリーウェア.md "wikilink")(寄付歓迎)、営利目的で利用する場合は利用料が必要となる\[1\]。
+[ウェブサイト](../Page/ウェブサイト.md "wikilink")上で公開されている[ゲートウェイ](../Page/ゲートウェイ.md "wikilink")[サービス](../Page/サービス.md "wikilink")と[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")版を利用可能。利用料は、非営利目的なら[無料](../Page/フリーウェア.md "wikilink")(寄付歓迎)、営利目的で利用する場合は利用料が必要となる\[1\]。
 
 ## チェックについて
 

@@ -561,7 +561,7 @@ B.B.クィーンズにとっては2枚目のベストアルバムになる。「
 1.  **[揺れる想い](../Page/揺れる想い.md "wikilink")**
       -
         （作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") / 作曲・編曲：織田哲郎）
-        セルフカバー・アルバム『[Songs](../Page/Songs_\(織田哲郎のアルバム\).md "wikilink")』収録曲。[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のセルフカバー曲。
+        セルフカバー・アルバム『[Songs](../Page/Songs_\(織田哲郎のアルバム\).md "wikilink")』収録曲。[ZARD](../Page/ZARD.md "wikilink")のセルフカバー曲。
 2.  **[サヨナラから始めよう](../Page/サヨナラから始めよう.md "wikilink")**
       -
         （作詞：[森友嵐士](../Page/森友嵐士.md "wikilink") / 作曲・編曲：織田哲郎）

@@ -55,7 +55,7 @@
   - A.Guitar：[吉川忠英](../Page/吉川忠英.md "wikilink")（1,2,6,7,8）、[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")（3,5,9）
   - E.guitar：[松原正樹](../Page/松原正樹.md "wikilink")（1）、土方隆行（2）、[是永巧一](../Page/是永巧一.md "wikilink")（3,5,9）、会津良一（6）
   - Bass：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")（1,2,6）、バカボン鈴木（3,5,9）
-  - Drums：[青山純](../Page/青山純.md "wikilink")（1）、[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")（2）、[小田原豊](../Page/小田原豊.md "wikilink")（5,6,9）、[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")（8）
+  - Drums：[青山純](../Page/青山純.md "wikilink")（1）、[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")（2）、[小田原豊](../Page/小田原豊.md "wikilink")（5,6,9）、[宮田繁男](../Page/宮田繁男.md "wikilink")（8）
   - Percussion：[三沢またろう](../Page/三沢またろう.md "wikilink")（1）、[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")（2,3,5,6,9）
   - Trumpet：[小林正弘](../Page/小林正弘.md "wikilink")（1,6）、菅坂雅彦（1,6）
   - Trombone：平内保夫（1,6）、[松本治](https://ja.wikipedia.org/wiki/松本治 "wikilink")（1,6）

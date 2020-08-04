@@ -242,14 +242,14 @@ PARTY TIME RECORDINGS
 
 PRIMARY COLOR RECORDZ
 
-| アーティスト名                                                             | 読み     | 所属期間        | iTunes                                                      | 備考                 |
-| ------------------------------------------------------------------- | ------ | ----------- | ----------------------------------------------------------- | ------------------ |
-| [Micro](../Page/Micro.md "wikilink")                                | マイクロ   | 2007年〜2009年 | [リンク](https://itunes.apple.com/jp/artist/micro/61815759)    | Def Techメンバーソロ     |
-| [NAO](https://ja.wikipedia.org/wiki/NAO_\(シンガーソングライター\) "wikilink") | ナオ     | 2007年〜2009年 | [リンク](https://itunes.apple.com/jp/artist/nao/266140491)     |                    |
-| [Spontania](../Page/Spontania.md "wikilink")                        | スポンテニア | 2007年〜2011年 | [リンク](https://itunes.apple.com/jp/artist/スポンテニア/220159291)  | 活動停止               |
-| [L-VOKAL](../Page/L-VOKAL.md "wikilink")                            | エルボーカル | 2008年       | [リンク](https://itunes.apple.com/jp/artist/l-vokal/260591978) | MATENRO RECORDSに移籍 |
-| [N@H](https://ja.wikipedia.org/wiki/N@H "wikilink")                 | ノア     | 2012年       |                                                             |                    |
-|                                                                     |        |             |                                                             |                    |
+| アーティスト名                                             | 読み     | 所属期間        | iTunes                                                      | 備考                 |
+| --------------------------------------------------- | ------ | ----------- | ----------------------------------------------------------- | ------------------ |
+| [Micro](../Page/Micro.md "wikilink")                | マイクロ   | 2007年〜2009年 | [リンク](https://itunes.apple.com/jp/artist/micro/61815759)    | Def Techメンバーソロ     |
+| [NAO](../Page/NAO_\(シンガーソングライター\).md "wikilink")    | ナオ     | 2007年〜2009年 | [リンク](https://itunes.apple.com/jp/artist/nao/266140491)     |                    |
+| [Spontania](../Page/Spontania.md "wikilink")        | スポンテニア | 2007年〜2011年 | [リンク](https://itunes.apple.com/jp/artist/スポンテニア/220159291)  | 活動停止               |
+| [L-VOKAL](../Page/L-VOKAL.md "wikilink")            | エルボーカル | 2008年       | [リンク](https://itunes.apple.com/jp/artist/l-vokal/260591978) | MATENRO RECORDSに移籍 |
+| [N@H](https://ja.wikipedia.org/wiki/N@H "wikilink") | ノア     | 2012年       |                                                             |                    |
+|                                                     |        |             |                                                             |                    |
 
 SunFlower WorldWide Recordz
 

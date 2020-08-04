@@ -84,5 +84,5 @@
 
 [Category:2001年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2001年の成人向けOVA "wikilink") [Category:学園アニメ](https://ja.wikipedia.org/wiki/Category:学園アニメ "wikilink") [Category:カオスプロジェクト](https://ja.wikipedia.org/wiki/Category:カオスプロジェクト "wikilink")
 
-1.  中学生か高校生と窺える描写が散見されるが、そのままだと[日本ビデオ倫理協会](https://ja.wikipedia.org/wiki/日本ビデオ倫理協会 "wikilink")の規定に抵触するため、明確には描かれていない。
+1.  中学生か高校生と窺える描写が散見されるが、そのままだと[日本ビデオ倫理協会](../Page/日本ビデオ倫理協会.md "wikilink")の規定に抵触するため、明確には描かれていない。
 2.  形状・左ハンドル・エンディングの背景画面などから、[プジョー・106](../Page/プジョー・106.md "wikilink")であることが窺える。

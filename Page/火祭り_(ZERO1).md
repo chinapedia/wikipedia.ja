@@ -45,7 +45,7 @@
 <td><p>2003年</p></td>
 <td><p><strong><a href="../Page/小島聡.md" title="wikilink">小島聡</a></strong></p></td>
 <td><p><strong>大谷晋二郎</strong></p></td>
-<td><p><small><strong>A:</strong> 大谷晋二郎、横井宏考、<a href="https://ja.wikipedia.org/wiki/高木功_(プロレスラー)" title="wikilink">嵐</a>、金村キンタロー、<a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a><br />
+<td><p><small><strong>A:</strong> 大谷晋二郎、横井宏考、<a href="../Page/高木功_(プロレスラー).md" title="wikilink">嵐</a>、金村キンタロー、<a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a><br />
 <strong>B:</strong> <a href="../Page/小島聡.md" title="wikilink">小島聡</a>、田中将斗、佐藤耕平、黒田哲広、<a href="../Page/アレクサンダー大塚.md" title="wikilink">アレクサンダー大塚</a></small></p></td>
 </tr>
 <tr class="even">
@@ -156,14 +156,14 @@
 <td><p>2017年</p></td>
 <td><p><strong>田中将斗</strong></p></td>
 <td><p><strong>小幡優作</strong></p></td>
-<td><p><small>田中将斗、小幡優作、佐藤耕平、ジェームス・ライディーン、将軍岡本、 <a href="https://ja.wikipedia.org/wiki/スーパータイガー_(2代目)" title="wikilink">スーパータイガー</a>、<a href="https://ja.wikipedia.org/wiki/稲葉大樹" title="wikilink">稲葉大樹</a>、<a href="https://ja.wikipedia.org/wiki/宮本裕向" title="wikilink">宮本裕向</a>、<a href="https://ja.wikipedia.org/wiki/藤波怜於南" title="wikilink">LEONA</a>、<a href="https://ja.wikipedia.org/wiki/拳王_(プロレスラー)" title="wikilink">拳王</a></p></td>
+<td><p><small>田中将斗、小幡優作、佐藤耕平、ジェームス・ライディーン、将軍岡本、 <a href="https://ja.wikipedia.org/wiki/スーパータイガー_(2代目)" title="wikilink">スーパータイガー</a>、<a href="https://ja.wikipedia.org/wiki/稲葉大樹" title="wikilink">稲葉大樹</a>、<a href="https://ja.wikipedia.org/wiki/宮本裕向" title="wikilink">宮本裕向</a>、<a href="https://ja.wikipedia.org/wiki/藤波怜於南" title="wikilink">LEONA</a>、<a href="../Page/拳王_(プロレスラー).md" title="wikilink">拳王</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第18回</p></td>
 <td><p>2018年</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/宮本裕向" title="wikilink">宮本裕向</a></strong></p></td>
 <td><p><strong>佐藤耕平</strong></p></td>
-<td><p><small><strong>A:</strong>田中将斗、<a href="https://ja.wikipedia.org/wiki/宮本裕向" title="wikilink">宮本裕向</a>、菅原拓也、<a href="https://ja.wikipedia.org/wiki/黒潮二郎" title="wikilink">黒潮"イケメン"二郎</a>、将軍岡本、<a href="https://ja.wikipedia.org/wiki/岩崎永遠" title="wikilink">岩崎永遠</a>、<a href="https://ja.wikipedia.org/wiki/クリス・ヴァイス" title="wikilink">クリス・ヴァイス</a><br />
+<td><p><small><strong>A:</strong>田中将斗、<a href="https://ja.wikipedia.org/wiki/宮本裕向" title="wikilink">宮本裕向</a>、菅原拓也、<a href="https://ja.wikipedia.org/wiki/黒潮二郎" title="wikilink">黒潮"イケメン"二郎</a>、将軍岡本、<a href="https://ja.wikipedia.org/wiki/岩崎永遠" title="wikilink">岩崎永遠</a>、<a href="../Page/クリス・ヴァイス.md" title="wikilink">クリス・ヴァイス</a><br />
 <strong>B:</strong>佐藤耕平、<a href="../Page/火野裕士.md" title="wikilink">火野裕士</a>、大谷晋二郎、スーパータイガー、<a href="../Page/SUGI.md" title="wikilink">SUGI</a>、<a href="https://ja.wikipedia.org/wiki/ハートリー・ジャクソン" title="wikilink">ハートリー・ジャクソン</a>、<a href="../Page/大和ヒロシ.md" title="wikilink">大和ヒロシ</a></small></p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > この記事は[BOO \(アルバム\)](https://ja.wikipedia.org/wiki/BOO_\(アルバム\))から翻訳されています。
 
 
-『**BOO**』（ブー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の1枚目の[リミックス](../Page/リミックス.md "wikilink")・アルバム。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**BOO**』（ブー）は、[SMAP](../Page/SMAP.md "wikilink")の1枚目の[リミックス](../Page/リミックス.md "wikilink")・アルバム。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 
@@ -21,7 +21,7 @@
 2.  **GANTAN Sound Machine**
     1.  **Got To Be Real**
           -
-            作詞・作曲:Cheryl Lynn, [David Paich](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink"), [David Foster](../Page/デイヴィッド・フォスター.md "wikilink") 日本語詞:相田毅 編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+            作詞・作曲:Cheryl Lynn, [David Paich](https://ja.wikipedia.org/wiki/デヴィッド・ペイチ "wikilink"), [David Foster](../Page/デイヴィッド・フォスター.md "wikilink") 日本語詞:相田毅 編曲:[岩田雅之](../Page/岩田雅之.md "wikilink")
         <!-- end list -->
           - [シェリル・リン](../Page/シェリル・リン.md "wikilink")のカバー
     2.  **Best Of My Love**

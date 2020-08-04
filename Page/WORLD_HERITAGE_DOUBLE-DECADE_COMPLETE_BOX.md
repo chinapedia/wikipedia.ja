@@ -138,7 +138,7 @@
       - 作詞：小室みつ子　作曲：小室哲哉　編曲：ピート・ハモンド
     <!-- end list -->
       -
-        ライブ『[TMN 4001 DAYS GROOVE](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(ビデオ\) "wikilink") ([1994年](../Page/1994年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink") [東京ドーム](../Page/東京ドーム.md "wikilink"))』からの音源で、ライブアルバム『[TMN final live LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink")』にも収録されている。
+        ライブ『[TMN 4001 DAYS GROOVE](../Page/TMN_final_live_LAST_GROOVE_\(ビデオ\).md "wikilink") ([1994年](../Page/1994年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink") [東京ドーム](../Page/東京ドーム.md "wikilink"))』からの音源で、ライブアルバム『[TMN final live LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink")』にも収録されている。
 9.  **[GET WILD DECADE RUN](../Page/GET_WILD_DECADE_RUN.md "wikilink")**
       - 作詞：小室みつ子・小室哲哉　作曲・編曲：小室哲哉
     <!-- end list -->

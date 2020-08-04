@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[K-1](../Page/K-1.md "wikilink")が大晦日興行に初めて関わったのは2001年の「[INOKI BOM-BA-YE](https://ja.wikipedia.org/wiki/INOKI_BOM-BA-YE_2001 "wikilink")（猪木祭）」で、K-1 vs 猪木軍として行われ、TBSでの中継も実施された。
+[K-1](../Page/K-1.md "wikilink")が大晦日興行に初めて関わったのは2001年の「[INOKI BOM-BA-YE](../Page/INOKI_BOM-BA-YE_2001.md "wikilink")（猪木祭）」で、K-1 vs 猪木軍として行われ、TBSでの中継も実施された。
 
 翌2002年には[PRIDEを主催する](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")（DSE）も加わり、8月に「[Dynamite\! SUMMER NIGHT FEVER in 国立](../Page/Dynamite!.md "wikilink")」を[国立競技場で開催し](../Page/国立霞ヶ丘陸上競技場.md "wikilink")、観客動員9万人・PPV売り上げ10万件を記録して大成功を収めた。同様の体制で大晦日に猪木祭を開催し、K-1ルールも一部取り入れた。
 

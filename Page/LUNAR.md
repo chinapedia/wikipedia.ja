@@ -143,7 +143,7 @@
   - [グランディア](../Page/グランディア.md "wikilink")
   - [岩垂徳行](../Page/岩垂徳行.md "wikilink")
   - [窪岡俊之](../Page/窪岡俊之.md "wikilink")
-  - [重馬敬](https://ja.wikipedia.org/wiki/重馬敬 "wikilink")
+  - [重馬敬](../Page/重馬敬.md "wikilink")
   - [スタジオアレックス](https://ja.wikipedia.org/wiki/スタジオアレックス "wikilink")
 
 ## 外部リンク

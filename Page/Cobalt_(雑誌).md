@@ -9,7 +9,7 @@
 
 読者層は主に[ティーンエイジャー](../Page/ティーンエイジャー.md "wikilink")を中心とした10代から30代の若い女性\[2\]。
 
-「作家は読者が育てるもの」という方針から、新人作家の育成の場としての要素も備えており、小説ジュニア時代の「青春小説新人賞」に引き続き、創刊翌年から[コバルト・ノベル大賞として新人賞も実施している](https://ja.wikipedia.org/wiki/ノベル大賞 "wikilink")。[久美沙織](../Page/久美沙織.md "wikilink")、[藤本ひとみ](../Page/藤本ひとみ.md "wikilink")、[山本文緒](../Page/山本文緒.md "wikilink")、[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")など、コバルト誌上で少女小説によって頭角を現し、のちに一般向けの小説を書くようになった作家も多い。また逆に、[赤川次郎](../Page/赤川次郎.md "wikilink")、[新井素子](../Page/新井素子.md "wikilink")など、すでに著名な活動を行っていた作家が筆を執ることもあった。あるいは[谷山浩子](../Page/谷山浩子.md "wikilink")のようなミュージシャン兼小説家が、エッセイを書いていたこともあった。
+「作家は読者が育てるもの」という方針から、新人作家の育成の場としての要素も備えており、小説ジュニア時代の「青春小説新人賞」に引き続き、創刊翌年から[コバルト・ノベル大賞として新人賞も実施している](../Page/ノベル大賞.md "wikilink")。[久美沙織](../Page/久美沙織.md "wikilink")、[藤本ひとみ](../Page/藤本ひとみ.md "wikilink")、[山本文緒](../Page/山本文緒.md "wikilink")、[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")など、コバルト誌上で少女小説によって頭角を現し、のちに一般向けの小説を書くようになった作家も多い。また逆に、[赤川次郎](../Page/赤川次郎.md "wikilink")、[新井素子](../Page/新井素子.md "wikilink")など、すでに著名な活動を行っていた作家が筆を執ることもあった。あるいは[谷山浩子](../Page/谷山浩子.md "wikilink")のようなミュージシャン兼小説家が、エッセイを書いていたこともあった。
 
 扱う作品のジャンルは、空想系や古典系の[ファンタジー](../Page/ファンタジー.md "wikilink")、[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、現代社会や[学園もの](../Page/学園小説.md "wikilink")、謎解き[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")や[百合系や](https://ja.wikipedia.org/wiki/ガールズラブ "wikilink")[BL系など幅広い](../Page/ボーイズラブ.md "wikilink")。
 

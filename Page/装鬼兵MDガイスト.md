@@ -1,7 +1,7 @@
 > この記事は[装鬼兵MDガイスト](https://ja.wikipedia.org/wiki/装鬼兵MDガイスト)から翻訳されています。
 
 
-『**装鬼兵MDガイスト**』（そうきへいMDがいすと、正確には『装鬼兵M.D.ガイスト』）とは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に製作・販売された日本の[OVA](../Page/OVA.md "wikilink")である。発売当時は「ビリオンバスターシリーズ」と銘打たれていた。
+『**装鬼兵MDガイスト**』（そうきへいMDがいすと、正確には『装鬼兵M.D.ガイスト』）とは、[1986年](../Page/1986年.md "wikilink")に製作・販売された日本の[OVA](../Page/OVA.md "wikilink")である。発売当時は「ビリオンバスターシリーズ」と銘打たれていた。
 
 OVAが[ビルボード](../Page/ビルボード.md "wikilink")TOP40にランクインするなどアメリカでの作品の人気が高く、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にはディレクターズカットを収録した完璧版、続編『MDガイストII　～DEATH FORCE～』が作られ、[2003年](../Page/2003年.md "wikilink")と2009年にはアメリカでDVDがリリースされた。
 

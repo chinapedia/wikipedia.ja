@@ -1,7 +1,7 @@
 > この記事は[NBSモーニングコール](https://ja.wikipedia.org/wiki/NBSモーニングコール)から翻訳されています。
 
 
-『**NBSモーニングコール**』（エヌビーエス モーニングコール）とは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[長野放送](../Page/長野放送.md "wikilink")で放送されていた平日朝の[ローカル](../Page/ローカル番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』の[長野放送](../Page/長野放送.md "wikilink")タイトル差し替え）。ただし、正式タイトルおよびタイトル表記は『**FNNモーニングコール NBS**』。
+『**NBSモーニングコール**』（エヌビーエス モーニングコール）とは、[1986年](../Page/1986年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[長野放送](../Page/長野放送.md "wikilink")で放送されていた平日朝の[ローカル](../Page/ローカル番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』の[長野放送](../Page/長野放送.md "wikilink")タイトル差し替え）。ただし、正式タイトルおよびタイトル表記は『**FNNモーニングコール NBS**』。
 
 ## 放送時間
 

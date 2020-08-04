@@ -125,7 +125,7 @@
 
   - メインキャスター不在時はサブキャスターが代行するが、2009年9月21 - 25日は笛吹がニューヨークでの取材、森麻季が夏休みで共に不在だったため、21・24日は[馬場典子](https://ja.wikipedia.org/wiki/馬場典子 "wikilink")が、22・23・25日は[古市幸子](https://ja.wikipedia.org/wiki/古市幸子 "wikilink")が代役を務めた。
   - サブキャスターの小西は山本、森麻季とは違い、主に取材を担当していたため、不定期に出演していた。また、番組初期の全国ニュース枠では1つのニュースをピックアップし、小西が[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")形式でニュースを伝えていた。
-  - 伊藤は、サブキャスター不在時には「リアルFLASH」やCM前の告知も担当。2009年4月からは森麻季と「リアルチェック」も担当。2007年8月までは[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")アナウンサーとして『[Newsリアルタイムあきた](../Page/Newsリアルタイムあきた.md "wikilink")』のキャスターを担当していた。
+  - 伊藤は、サブキャスター不在時には「リアルFLASH」やCM前の告知も担当。2009年4月からは森麻季と「リアルチェック」も担当。2007年8月までは[秋田放送](../Page/秋田放送.md "wikilink")アナウンサーとして『[Newsリアルタイムあきた](../Page/Newsリアルタイムあきた.md "wikilink")』のキャスターを担当していた。
   - 「リアルSPORTS」担当の男性キャスターは全員、全国パート前のヘッドラインの影読みも担当。
 
 <!-- end list -->
@@ -200,7 +200,7 @@
 <tr class="even">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup>　『<a href="../Page/NNNニューススポット.md" title="wikilink">NNNニューススポット</a>』と<a href="https://ja.wikipedia.org/wiki/日本テレビ系列深夜ニュース枠" title="wikilink">最終ニュースを兼務</a>。</li>
+<li><sup>1</sup>　『<a href="../Page/NNNニューススポット.md" title="wikilink">NNNニューススポット</a>』と<a href="../Page/日本テレビ系列深夜ニュース枠.md" title="wikilink">最終ニュースを兼務</a>。</li>
 <li><sup>2</sup>　一時期、体調不良により休養（詳細は後述）。</li>
 </ul>
 <p>* <sup>3</sup>　『<a href="../Page/あさ天サタデー.md" title="wikilink">あさ天サタデー</a>』、『[[ズームイン</p></td>
@@ -529,7 +529,7 @@ CM前[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")では
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td><p>NNN Newsリアルタイム（※）</p></td>
 <td><p><a href="../Page/Newsリアルタイムあきた.md" title="wikilink">Newsリアルタイムあきた</a>（S）</p></td>
@@ -585,7 +585,7 @@ CM前[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")では
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td><p>16:25 - <a href="../Page/いっちゃん★KNB.md" title="wikilink">いっちゃん★KNB</a>（E）</p></td>
 <td><p>NNN Newsリアルタイム（※）</p></td>
 <td><p><a href="../Page/KNB_Newsリアルタイム.md" title="wikilink">KNB Newsリアルタイム</a>（S）</p></td>
@@ -642,7 +642,7 @@ CM前[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")では
 <tr class="even">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/広島テレビ放送.md" title="wikilink">広島テレビ</a>（HTV）</p></td>
-<td><p>16:45 - <a href="https://ja.wikipedia.org/wiki/テレビ派" title="wikilink">旬感テレビ派ッ!</a>（▲）</p></td>
+<td><p>16:45 - <a href="../Page/テレビ派.md" title="wikilink">旬感テレビ派ッ!</a>（▲）</p></td>
 <td><p>旬感テレビ派ッ!</p></td>
 <td></td>
 <td></td>
@@ -1121,7 +1121,7 @@ CM前[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")では
 | RKC 高知放送      | [RKCニュース](../Page/RKCニュース.md "wikilink")                                                |                                                                                             |
 | FBS 福岡放送      | ローカルニュースパート                                                                             |                                                                                             |
 | NIB 長崎国際テレビ   | ローカルニュースパート                                                                             |                                                                                             |
-| KKT くまもと県民テレビ | [KKTニュース](https://ja.wikipedia.org/wiki/KKTニュース "wikilink")                             |                                                                                             |
+| KKT くまもと県民テレビ | [KKTニュース](../Page/KKTニュース.md "wikilink")                                                |                                                                                             |
 | KYT 鹿児島読売テレビ  | KYT NEWSリアルタイム・サタデー（※）                                                                  |                                                                                             |
 
   - 西日本放送は、土曜日はローカルニュースを放送せずに17:50で番組終了。17:50 - 17:55は『[まるがめ競艇 ウィークエンド情報局](../Page/丸亀競艇場.md "wikilink")』、17:55 - 18:00は『ヤン坊マー坊天気予報』を放送（生読みではなく自動音声で対応）。この状態は、少なくとも[1990年代](../Page/1990年代.md "wikilink")から続いていた。なお、ローカルニュースは16:55 - 17:00に『[RNC JUST NEWS](../Page/RNCニュース.md "wikilink")』を設けて、事実上これが夕方のローカルニュースの扱いとなっていた。
@@ -1148,7 +1148,7 @@ CM前[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")では
 *※ （）は放送開始時刻*
 
   - 2006年：[村上ファンド](../Page/村上ファンド.md "wikilink")代表逮捕（15:55）、[北朝鮮ミサイル発射](../Page/北朝鮮によるミサイル発射実験_\(2006年\).md "wikilink")（15:55）、[悠仁親王](../Page/悠仁親王.md "wikilink")誕生（18:45・19時台のバラエティ番組は休止）
-  - 2007年：[愛知長久手町立てこもり発砲事件](https://ja.wikipedia.org/wiki/愛知長久手町立てこもり発砲事件 "wikilink")（15:55・[19時台のバラエティ番組は休止](https://ja.wikipedia.org/wiki/グルメチキンレース・ゴチになります! "wikilink")）、[松岡利勝](../Page/松岡利勝.md "wikilink")[農林水産大臣](../Page/農林水産大臣.md "wikilink")自殺（15:55）、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")（17:25）、[第1次安倍改造内閣発足](../Page/第1次安倍内閣_\(改造\).md "wikilink")（15:55）、[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相辞任表明（16:53）、[守屋武昌](../Page/守屋武昌.md "wikilink")[防衛事務次官](../Page/防衛事務次官.md "wikilink")逮捕（15:55）
+  - 2007年：[愛知長久手町立てこもり発砲事件](https://ja.wikipedia.org/wiki/愛知長久手町立てこもり発砲事件 "wikilink")（15:55・[19時台のバラエティ番組は休止](https://ja.wikipedia.org/wiki/グルメチキンレース・ゴチになります! "wikilink")）、[松岡利勝](../Page/松岡利勝.md "wikilink")[農林水産大臣](../Page/農林水産大臣.md "wikilink")自殺（15:55）、[新潟県中越沖地震](../Page/新潟県中越沖地震.md "wikilink")（17:25）、[第1次安倍改造内閣発足](../Page/第1次安倍内閣_\(改造\).md "wikilink")（15:55）、[安倍晋三](../Page/安倍晋三.md "wikilink")首相辞任表明（16:53）、[守屋武昌](../Page/守屋武昌.md "wikilink")[防衛事務次官](../Page/防衛事務次官.md "wikilink")逮捕（15:55）
   - 2008年：[岩手・宮城内陸地震](https://ja.wikipedia.org/wiki/岩手・宮城内陸地震 "wikilink")（17:00）、[北海道洞爺湖サミット議長総括記者会見](https://ja.wikipedia.org/wiki/第34回主要国首脳会議 "wikilink")（15:30・関東ローカル）[自民党総裁選挙公示](../Page/自由民主党_\(日本\).md "wikilink")（16:53）
   - 2009年：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")[保釈](../Page/保釈.md "wikilink")（15:55）
 

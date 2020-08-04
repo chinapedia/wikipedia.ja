@@ -1,7 +1,7 @@
 > この記事は[IntelliStation Pro](https://ja.wikipedia.org/wiki/IntelliStation_Pro)から翻訳されています。
 
 
-**IntelliStation Pro**（インテリステーション・プロ）は、1997年から2008年まで展開していた[IBM](../Page/IBM.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")の製品名である。[IBM PC 360・365の後継として](https://ja.wikipedia.org/wiki/IBM_PC_Series "wikilink")1997年3月に発売された。Blade Workstation HC10 の登場により、製造販売を中止した。IBMによるPC事業売却の対象とならず、[ThinkCentre](../Page/ThinkCentre.md "wikilink")・[ThinkPad](../Page/ThinkPad.md "wikilink")シリーズ売却の2005年以降もIBMで開発・販売されたため、[Lenovo](https://ja.wikipedia.org/wiki/Lenovo "wikilink")が販売する「**ThinkStation**（シンクステーション）」とは開発上の関連性はない。\[1\]この項では姉妹製品である「IntelliStation POWER」についても記す。
+**IntelliStation Pro**（インテリステーション・プロ）は、1997年から2008年まで展開していた[IBM](../Page/IBM.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")の製品名である。[IBM PC 360・365の後継として](../Page/IBM_PC_Series.md "wikilink")1997年3月に発売された。Blade Workstation HC10 の登場により、製造販売を中止した。IBMによるPC事業売却の対象とならず、[ThinkCentre](../Page/ThinkCentre.md "wikilink")・[ThinkPad](../Page/ThinkPad.md "wikilink")シリーズ売却の2005年以降もIBMで開発・販売されたため、[Lenovo](https://ja.wikipedia.org/wiki/Lenovo "wikilink")が販売する「**ThinkStation**（シンクステーション）」とは開発上の関連性はない。\[1\]この項では姉妹製品である「IntelliStation POWER」についても記す。
 
 一部のM Proはローエンドモデルの[NetFinity](https://ja.wikipedia.org/wiki/NetFinity "wikilink")1000シリーズとハードウエア構造的に類似していた。
 
@@ -15,9 +15,9 @@
 
 高度な描画性能へのニーズに応え、[NVIDIA](../Page/NVIDIA.md "wikilink")の[Quadro](https://ja.wikipedia.org/wiki/Quadro "wikilink")シリーズや[ATI FireProシリーズなど基板サイズの大きな](https://ja.wikipedia.org/wiki/ATI_FirePro "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")（選択式）を内蔵する。また、[サーバ](../Page/サーバ.md "wikilink")と同様に[ディスクアレイ](../Page/ディスクアレイ.md "wikilink")コントローラを搭載し、[RAID](../Page/RAID.md "wikilink")構成で稼働率の高い構成が採れる。
 
-このように、CPUやビデオカード等の構成が多岐に渡るため、IBMおなじみの[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")い筐体ながらIntellistation専用のものから[NetVista](https://ja.wikipedia.org/wiki/NetVista "wikilink")や[ThinkCentre](../Page/ThinkCentre.md "wikilink")と共通のものまでラインナップされており、シリーズによって大きさが異なる。またIntellistationの多くに共通する特徴として、NetVistaやThinkCentreなどに用いられていたIBMカラーであるブルーのアクセントが用いられていないあるいは使われている比率が少ない場合が多い。
+このように、CPUやビデオカード等の構成が多岐に渡るため、IBMおなじみの[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")い筐体ながらIntellistation専用のものから[NetVista](../Page/NetVista.md "wikilink")や[ThinkCentre](../Page/ThinkCentre.md "wikilink")と共通のものまでラインナップされており、シリーズによって大きさが異なる。またIntellistationの多くに共通する特徴として、NetVistaやThinkCentreなどに用いられていたIBMカラーであるブルーのアクセントが用いられていないあるいは使われている比率が少ない場合が多い。
 
-[2007年](../Page/2007年.md "wikilink")に後継のIBM [BladeCenter](https://ja.wikipedia.org/wiki/BladeCenter "wikilink") HC10の登場により販売を終了した。
+[2007年](../Page/2007年.md "wikilink")に後継のIBM [BladeCenter](../Page/BladeCenter.md "wikilink") HC10の登場により販売を終了した。
 
 ## モデル
 
@@ -917,8 +917,8 @@
 
 ## 関連項目
 
-  - [IBM PC](https://ja.wikipedia.org/wiki/IBM_PC_Series "wikilink") - IBM PC 360・365の後継モデル。
-  - [BladeCenter](https://ja.wikipedia.org/wiki/BladeCenter "wikilink") - HC10が後継モデル。
+  - [IBM PC](../Page/IBM_PC_Series.md "wikilink") - IBM PC 360・365の後継モデル。
+  - [BladeCenter](../Page/BladeCenter.md "wikilink") - HC10が後継モデル。
   - [System p](../Page/System_p.md "wikilink")
   - [NetFinity](https://ja.wikipedia.org/wiki/NetFinity "wikilink")
   - [ThinkPad](../Page/ThinkPad.md "wikilink") - シリーズ名の末尾に「p」の付くモデルは"モバイルワークステーション"と呼ばれ、通常のThinkPadよりも高性能なグラフィックチップが搭載されていた。

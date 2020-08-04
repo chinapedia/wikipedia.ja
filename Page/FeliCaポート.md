@@ -7,7 +7,7 @@
 
 これまでの累計出荷は2008年1月に500万台\[2\]、2009年4月に800万台を超えたことが発表されている\[3\]。
 
-なお、[FeliCa](../Page/FeliCa.md "wikilink")だけでなく[NFCにも対応したカードリーダーの場合は](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")「[NFCポート](https://ja.wikipedia.org/wiki/NFCポート "wikilink")」と呼ばれ\[4\]、外付けハードウェアも「[NFCポート/パソリ](../Page/PaSoRi.md "wikilink")」と呼ばれる。
+なお、[FeliCa](../Page/FeliCa.md "wikilink")だけでなく[NFCにも対応したカードリーダーの場合は](../Page/近距離無線通信.md "wikilink")「[NFCポート](https://ja.wikipedia.org/wiki/NFCポート "wikilink")」と呼ばれ\[4\]、外付けハードウェアも「[NFCポート/パソリ](../Page/PaSoRi.md "wikilink")」と呼ばれる。
 
 ## 主な対応サービス
 

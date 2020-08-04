@@ -37,7 +37,7 @@
     ○  根津優太 vs.  [上山知暁](../Page/上山知暁.md "wikilink") ×
     3R 1:48 TKO（ドクターストップ：左耳のカット）
   - 第3試合 バンタム級 5分3R
-    ○  [徹肌ィ郎](https://ja.wikipedia.org/wiki/徹肌ィ郎 "wikilink") vs.  藤原大地 ×
+    ○  [徹肌ィ郎](../Page/徹肌ィ郎.md "wikilink") vs.  藤原大地 ×
     2R 4:06 [アームロック](../Page/アームロック.md "wikilink")
   - 第4試合 バンタム級 5分3R
     ○  [植松直哉](../Page/植松直哉.md "wikilink") vs.  ジェームス・ドゥーラン ×

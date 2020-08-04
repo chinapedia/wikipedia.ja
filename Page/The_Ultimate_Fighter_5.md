@@ -22,7 +22,7 @@
 <!-- end list -->
 
   - 選手
-    コーリー・ヒル、[ネイト・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink")、ブランドン・メレンデス、マーロン・シムズ、[マニー・ガンブリャン](../Page/マニー・ガンブリャン.md "wikilink")、[コール・ミラー](https://ja.wikipedia.org/wiki/コール・ミラー "wikilink")、ブレイン・ジェレイティ、ウェイン・ウィームズ
+    コーリー・ヒル、[ネイト・ディアス](../Page/ネイト・ディアス.md "wikilink")、ブランドン・メレンデス、マーロン・シムズ、[マニー・ガンブリャン](../Page/マニー・ガンブリャン.md "wikilink")、[コール・ミラー](https://ja.wikipedia.org/wiki/コール・ミラー "wikilink")、ブレイン・ジェレイティ、ウェイン・ウィームズ
 
 ### チーム・ペン
 

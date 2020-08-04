@@ -128,7 +128,7 @@
 
 ## ライバル
 
-サットン・ユナイテッドの主なライバルは、[ブロムリーFC](../Page/ブロムリーFC.md "wikilink")、[カーシャルトン・アスレティックFC](../Page/カーシャルトン・アスレティックFC.md "wikilink")、[AFCウィンブルドン](../Page/AFCウィンブルドン.md "wikilink")、[キングストニアンFC](https://ja.wikipedia.org/wiki/キングストニアンFC "wikilink")、[トゥーティング&ミッチャムFCである](https://ja.wikipedia.org/wiki/トゥーティング・アンド・ミッチャム・ユナイテッドFC "wikilink")。
+サットン・ユナイテッドの主なライバルは、[ブロムリーFC](../Page/ブロムリーFC.md "wikilink")、[カーシャルトン・アスレティックFC](../Page/カーシャルトン・アスレティックFC.md "wikilink")、[AFCウィンブルドン](../Page/AFCウィンブルドン.md "wikilink")、[キングストニアンFC](../Page/キングストニアンFC.md "wikilink")、[トゥーティング&ミッチャムFCである](../Page/トゥーティング・アンド・ミッチャム・ユナイテッドFC.md "wikilink")。
 
 最大のライバルは同じ[サットン区](https://ja.wikipedia.org/wiki/サットン区 "wikilink")を本拠地とする[カーシャルトン・アスレティックFC](../Page/カーシャルトン・アスレティックFC.md "wikilink")である。両チームは、[アセニアンリーグ](https://ja.wikipedia.org/wiki/アセニアンリーグ "wikilink")、[イスミアンリーグ](../Page/イスミアンフットボールリーグ.md "wikilink")、[ナショナルリーグ・サウス](../Page/ナショナルリーグ・サウス.md "wikilink")や、12のカップ戦で対戦している\[3\]。対戦は大抵、[ボクシング・デー](../Page/ボクシング・デー.md "wikilink")や、1月1日や、その他のバンクホリデーに行われることが多い。
 

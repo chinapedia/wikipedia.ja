@@ -1,7 +1,7 @@
 > この記事は[FLOWER \(チェッカーズのアルバム\)](https://ja.wikipedia.org/wiki/FLOWER_\(チェッカーズのアルバム\))から翻訳されています。
 
 
-『**FLOWER**』（フラワー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[チェッカーズ](../Page/チェッカーズ.md "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")である。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に[キャニオン・レコードよりリリースされた](../Page/ポニーキャニオン.md "wikilink")。その後、[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に再リリースされている。
+『**FLOWER**』（フラワー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[チェッカーズ](../Page/チェッカーズ.md "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")である。 [1986年](../Page/1986年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に[キャニオン・レコードよりリリースされた](../Page/ポニーキャニオン.md "wikilink")。その後、[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に再リリースされている。
 
 ## 解説
 

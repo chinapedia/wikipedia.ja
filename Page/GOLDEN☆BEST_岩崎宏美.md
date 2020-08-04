@@ -19,7 +19,7 @@
       -
         [第26回NHK紅白歌合戦](../Page/第26回NHK紅白歌合戦.md "wikilink") 歌唱曲（初出場）。レコード・デビューした年に[紅白出場という快挙を成し遂げ](../Page/NHK紅白歌合戦.md "wikilink")、紅組司会の[佐良直美](../Page/佐良直美.md "wikilink")からは「芸能界始まって以来のスピード出世」と紹介された。なお、[1970年代](../Page/1970年代.md "wikilink")に活躍した若手女性歌手ではほかに、[南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")・[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")・[アグネス・チャン](https://ja.wikipedia.org/wiki/アグネス・チャン "wikilink")・[高田みづえ](../Page/高田みづえ.md "wikilink")がデビュー1年目に紅白出演を達成している。
 2.  **[聖母たちのララバイ](../Page/聖母たちのララバイ.md "wikilink")** （4:19）
-      - 作詞: [山川啓介](../Page/山川啓介.md "wikilink")、作曲: [ジョン・スコット](https://ja.wikipedia.org/wiki/ジョン・スコット_\(作曲家\) "wikilink")・[木森敏之](../Page/木森敏之.md "wikilink")、編曲: 木森敏之
+      - 作詞: [山川啓介](../Page/山川啓介.md "wikilink")、作曲: [ジョン・スコット](../Page/ジョン・スコット_\(作曲家\).md "wikilink")・[木森敏之](../Page/木森敏之.md "wikilink")、編曲: 木森敏之
     <!-- end list -->
       -
         [第33回NHK紅白歌合戦](../Page/第33回NHK紅白歌合戦.md "wikilink") 歌唱曲。[NHKで初めてこの曲が歌われたのが紅白だった](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
@@ -50,7 +50,7 @@
       - 作詞: 万里村ゆき子、作曲: 小田啓義、編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")
     <!-- end list -->
       -
-        [第32回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦 "wikilink") 歌唱曲。元は[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")、[ジャッキー吉川とブルー・コメッツ](../Page/ジャッキー吉川とブルー・コメッツ.md "wikilink")がリリースした『[こころの虹](../Page/こころの虹.md "wikilink")』のB面に採用されていた[カバー](../Page/カバー.md "wikilink")曲である。
+        [第32回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第32回NHK紅白歌合戦 "wikilink") 歌唱曲。元は[1968年](../Page/1968年.md "wikilink")、[ジャッキー吉川とブルー・コメッツ](../Page/ジャッキー吉川とブルー・コメッツ.md "wikilink")がリリースした『[こころの虹](../Page/こころの虹.md "wikilink")』のB面に採用されていた[カバー](../Page/カバー.md "wikilink")曲である。
 8.  **[未来](../Page/未来_\(岩崎宏美の曲\).md "wikilink")** （3:15）
       - 作詞: 阿久悠、作曲・編曲: 筒美京平
 9.  **[ドリーム](../Page/ドリーム_\(岩崎宏美の曲\).md "wikilink")** （3:24）

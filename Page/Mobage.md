@@ -445,7 +445,7 @@ DXゲームと同じく「モバコイン」を使って課金を受けられる
 ### 企画番組
 
   - [モバポスGREAT](../Page/モバポスGREAT.md "wikilink")
-  - [モバタレGREAT](https://ja.wikipedia.org/wiki/モバタレGREAT "wikilink")
+  - [モバタレGREAT](../Page/モバタレGREAT.md "wikilink")
 
 ## 脚注
 

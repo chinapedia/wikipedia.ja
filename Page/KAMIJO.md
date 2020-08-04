@@ -23,7 +23,7 @@
   - [2011年](../Page/2011年.md "wikilink") 映画「VAMPIRE　STORIES」音楽監督担当としてサウンドトラックを手がける
   - [2012年](../Page/2012年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") [Versaillesの活動休止を発表](../Page/Versailles_\(バンド\).md "wikilink")。
   - [12月20日](../Page/12月20日.md "wikilink") [VersaillesNHKホールでラストライブ](../Page/Versailles_\(バンド\).md "wikilink")、翌日に活動休止
-  - [2013年](../Page/2013年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") ソロ活動を発表
+  - [2013年](../Page/2013年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink") ソロ活動を発表
   - [8月28日](../Page/8月28日.md "wikilink")ソロデビューシングル「Louis～艶血のラヴィアンローズ～」を発売。
   - [12月1日](../Page/12月1日.md "wikilink") ワーナーミュージックジャパンより翌年の[3月5日](../Page/3月5日.md "wikilink")に発売されるミニアルバム「Symphony of The Vampire」でソロメジャーデビュー（通算3度目）する事を発表。
   - [2014年](../Page/2014年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") KAMIJO -Zeroth Live in Paris-Throne-　lLa Divan du Monde（ソロとして初めてのライヴをパリにて行う）

@@ -58,7 +58,7 @@
 
 1.  Animal birthday night 　minialbum “shake sHakE shake \!”　収録
 2.  あいつ
-3.  愛の達人 　CROSSROAD LIVE “Beat two Rock” memorial [CD-R](https://ja.wikipedia.org/wiki/R盤 "wikilink") 収録
+3.  愛の達人 　CROSSROAD LIVE “Beat two Rock” memorial [CD-R](../Page/R盤.md "wikilink") 収録
 4.  雨上がりの少女
 5.  雨のち晴れ 　minialbum “shake sHakE shake \!”　収録
 

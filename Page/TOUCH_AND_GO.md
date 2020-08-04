@@ -1,7 +1,7 @@
 > この記事は[TOUCH AND GO](https://ja.wikipedia.org/wiki/TOUCH_AND_GO)から翻訳されています。
 
 
-『**TOUCH AND GO**』（タッチ・アンド・ゴー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算6作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**TOUCH AND GO**』（タッチ・アンド・ゴー）は、[1986年](../Page/1986年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算6作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 

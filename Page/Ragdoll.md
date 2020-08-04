@@ -23,7 +23,7 @@
 **2002年** LiveHouseで別[ユニットとして活動していたChaos](../Page/音楽ユニット.md "wikilink")(現：Tatsugoo)のLiveに居合わせた[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")Yumi(現：Yummi)が出会い「新たな音楽の探求」の名の下に意気投合し楽曲制作を始め1年の歳月をかけて2人の共通の[ルーツ](../Page/ルーツ.md "wikilink")である「ダンスミュージック」をベースに多種多様な音楽を融合させた音楽性を見出す。
 
 **2003年1月1日** Ragdollの前身となるFortuna（フォルトゥナ）を正式結成。月一回のペースで都内主要[ライブハウス](../Page/ライブハウス.md "wikilink")にてLIVEを行う。
-**2004年** 総勢約5000名の中より[坂口憲二](https://ja.wikipedia.org/wiki/坂口憲二 "wikilink")と[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")が出演する[ゼスプリ](https://ja.wikipedia.org/wiki/ゼスプリ "wikilink")ゴールドキウイの[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")アーティストに抜擢される。同CM曲**「ONE WISH」**（2004年6月30日）にて[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。[J-POP](../Page/J-POP.md "wikilink")シングル・ウイークリー・チャート20位（※集計期間：2004/07/12 〜 2004/07/18）を記録\[1\]。その後セカンドシングル**「Mirrors」**（2004年10月20日）をリリース。
+**2004年** 総勢約5000名の中より[坂口憲二](../Page/坂口憲二.md "wikilink")と[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")が出演する[ゼスプリ](https://ja.wikipedia.org/wiki/ゼスプリ "wikilink")ゴールドキウイの[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")アーティストに抜擢される。同CM曲**「ONE WISH」**（2004年6月30日）にて[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。[J-POP](../Page/J-POP.md "wikilink")シングル・ウイークリー・チャート20位（※集計期間：2004/07/12 〜 2004/07/18）を記録\[1\]。その後セカンドシングル**「Mirrors」**（2004年10月20日）をリリース。
 
 **2005年〜2006年**　約2年間の活動休止を発表。2人での楽曲制作は続けつつYumi(現：Yummi)とChaos(現：Tatsugoo)はそれぞれ[編曲家](../Page/編曲家.md "wikilink")としての活動／海外での音楽探究やダンスミュージック以外のフィールドでの[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")活動に2年を費やす。
 

@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    [ストックポート・カウンティFC](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink")
+    [ストックポート・カウンティFC](../Page/ストックポート・カウンティFC.md "wikilink")
     [トレンメア・ローヴァーズFC](../Page/トレンメア・ローヴァーズFC.md "wikilink")
 
 <!-- end list -->
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   -
-    [レクサムFC](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")
+    [レクサムFC](../Page/レクサムFC.md "wikilink")
 
 ## タイトル
 

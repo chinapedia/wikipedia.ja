@@ -1,7 +1,7 @@
 > この記事は[ヨーヴィル・タウンFC](https://ja.wikipedia.org/wiki/ヨーヴィル・タウンFC)から翻訳されています。
 
 
-**ヨーヴィル・タウン・フットボール・クラブ**（**Yeovil Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")南西部、[サマセット州](https://ja.wikipedia.org/wiki/サマセット州 "wikilink")、[サウス・サマセット](https://ja.wikipedia.org/wiki/サウス・サマセット "wikilink")、[ヨーヴィル](https://ja.wikipedia.org/wiki/ヨーヴィル "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
+**ヨーヴィル・タウン・フットボール・クラブ**（**Yeovil Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")南西部、[サマセット州](https://ja.wikipedia.org/wiki/サマセット州 "wikilink")、[サウス・サマセット](https://ja.wikipedia.org/wiki/サウス・サマセット "wikilink")、[ヨーヴィル](https://ja.wikipedia.org/wiki/ヨーヴィル "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[ナショナルリーグ](../Page/ナショナルリーグ_\(イングランドのサッカー\).md "wikilink")（5部相当）に所属。
 
 ## 名称変更
 
@@ -82,194 +82,26 @@
 
 ## 過去の成績
 
-<table>
-<thead>
-<tr class="header">
-<th><p>シーズン</p></th>
-<th><p>ディビジョン</p></th>
-<th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグ<br />
-カップ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグトロフィー" title="wikilink">フットボール<br />
-リーグトロフィー</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/サマセット・プレミアカップ" title="wikilink">サマセット・プレミアカップ</a></p></th>
-<th><p>最多得点者</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>リーグ</p></td>
-<td><p>試</p></td>
-<td><p>勝</p></td>
-<td><p>分</p></td>
-<td><p>敗</p></td>
-<td><p>得</p></td>
-<td><p>失</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2003-04</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・サードディビジョン" title="wikilink">ディビジョン3</a></strong></p></td>
-<td><p>46</p></td>
-<td><p>23</p></td>
-<td><p>5</p></td>
-<td><p>18</p></td>
-<td><p>70</p></td>
-</tr>
-<tr class="even">
-<td><p>2004-05</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/フットボールリーグ2" title="wikilink">リーグ2</a></strong></p></td>
-<td><p>46</p></td>
-<td><p>25</p></td>
-<td><p>8</p></td>
-<td><p>13</p></td>
-<td><p>90</p></td>
-</tr>
-<tr class="odd">
-<td><p>2005-06</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/フットボールリーグ1" title="wikilink">リーグ1</a></strong></p></td>
-<td><p>46</p></td>
-<td><p>15</p></td>
-<td><p>11</p></td>
-<td><p>20</p></td>
-<td><p>54</p></td>
-</tr>
-<tr class="even">
-<td><p>2006-07</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>23</p></td>
-<td><p>10</p></td>
-<td><p>13</p></td>
-<td><p>55</p></td>
-</tr>
-<tr class="odd">
-<td><p>2007-08</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>14</p></td>
-<td><p>10</p></td>
-<td><p>22</p></td>
-<td><p>38</p></td>
-</tr>
-<tr class="even">
-<td><p>2008-09</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>12</p></td>
-<td><p>15</p></td>
-<td><p>19</p></td>
-<td><p>41</p></td>
-</tr>
-<tr class="odd">
-<td><p>2009-10</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>13</p></td>
-<td><p>14</p></td>
-<td><p>19</p></td>
-<td><p>55</p></td>
-</tr>
-<tr class="even">
-<td><p>2010-11</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>17</p></td>
-<td><p>11</p></td>
-<td><p>19</p></td>
-<td><p>56</p></td>
-</tr>
-<tr class="odd">
-<td><p>2011-12</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>14</p></td>
-<td><p>12</p></td>
-<td><p>20</p></td>
-<td><p>59</p></td>
-</tr>
-<tr class="even">
-<td><p>2012-13</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>23</p></td>
-<td><p>8</p></td>
-<td><p>15</p></td>
-<td><p>71</p></td>
-</tr>
-<tr class="odd">
-<td><p>2013-14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ" title="wikilink">チャンピオン</a></p></td>
-<td><p>46</p></td>
-<td><p>8</p></td>
-<td><p>13</p></td>
-<td><p>25</p></td>
-<td><p>44</p></td>
-</tr>
-<tr class="even">
-<td><p>2014-15</p></td>
-<td><p>リーグ1</p></td>
-<td><p>46</p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>26</p></td>
-<td><p>36</p></td>
-</tr>
-<tr class="odd">
-<td><p>2015-16</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>11</p></td>
-<td><p>15</p></td>
-<td><p>20</p></td>
-<td><p>43</p></td>
-</tr>
-<tr class="even">
-<td><p>2016-17</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>11</p></td>
-<td><p>17</p></td>
-<td><p>18</p></td>
-<td><p>49</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017-18</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>12</p></td>
-<td><p>12</p></td>
-<td><p>22</p></td>
-<td><p>59</p></td>
-</tr>
-<tr class="even">
-<td><p>2018-19</p></td>
-<td><p>リーグ2</p></td>
-<td><p>46</p></td>
-<td><p>9</p></td>
-<td><p>13</p></td>
-<td><p>24</p></td>
-<td><p>41</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019-20</p></td>
-<td><p><a href="../Page/ナショナルリーグ_(イングランドのサッカー).md" title="wikilink">ナショナルリーグ</a></p></td>
-<td><p>46</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| シーズン    | ディビジョン                                                                      | [FAカップ](../Page/FAカップ.md "wikilink") | [リーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink") | [欧州カップ](https://ja.wikipedia.org/wiki/UEFA "wikilink") / その他 | [サマセット・プレミアカップ](https://ja.wikipedia.org/wiki/サマセット・プレミアカップ "wikilink") | 最多得点者 |
+| ------- | --------------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------- | ----- |
+| リーグ     | 試                                                                           | 勝                                    | 分                                                               | 敗                                                            | 得                                                                       | 失     |
+| 2003-04 | **[ディビジョン3](https://ja.wikipedia.org/wiki/フットボールリーグ・サードディビジョン "wikilink")** | 46                                   | 23                                                              | 5                                                            | 18                                                                      | 70    |
+| 2004-05 | **[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")**             | 46                                   | 25                                                              | 8                                                            | 13                                                                      | 90    |
+| 2005-06 | **[リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")**             | 46                                   | 15                                                              | 11                                                           | 20                                                                      | 54    |
+| 2006-07 | リーグ1                                                                        | 46                                   | 23                                                              | 10                                                           | 13                                                                      | 55    |
+| 2007-08 | リーグ1                                                                        | 46                                   | 14                                                              | 10                                                           | 22                                                                      | 38    |
+| 2008-09 | リーグ1                                                                        | 46                                   | 12                                                              | 15                                                           | 19                                                                      | 41    |
+| 2009-10 | リーグ1                                                                        | 46                                   | 13                                                              | 14                                                           | 19                                                                      | 55    |
+| 2010-11 | リーグ1                                                                        | 46                                   | 17                                                              | 11                                                           | 19                                                                      | 56    |
+| 2011-12 | リーグ1                                                                        | 46                                   | 14                                                              | 12                                                           | 20                                                                      | 59    |
+| 2012-13 | リーグ1                                                                        | 46                                   | 23                                                              | 8                                                            | 15                                                                      | 71    |
+| 2013-14 | [チャンピオン](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")      | 46                                   | 8                                                               | 13                                                           | 25                                                                      | 44    |
+| 2014-15 | リーグ1                                                                        | 46                                   | 10                                                              | 10                                                           | 26                                                                      | 36    |
+| 2015-16 | リーグ2                                                                        | 46                                   | 11                                                              | 15                                                           | 20                                                                      | 43    |
+| 2016-17 | リーグ2                                                                        | 46                                   | 11                                                              | 17                                                           | 18                                                                      | 49    |
+| 2017-18 | リーグ2                                                                        | 46                                   | 12                                                              | 12                                                           | 22                                                                      | 59    |
+| 2018-19 | リーグ2                                                                        | 46                                   | 9                                                               | 13                                                           | 24                                                                      | 41    |
+| 2019-20 | [ナショナルリーグ](../Page/ナショナルリーグ_\(イングランドのサッカー\).md "wikilink")                  | 46                                   |                                                                 |                                                              |                                                                         |       |
 
 ## 現所属メンバー
 
@@ -281,7 +113,11 @@
 
   - in
 
-## 過去の所属メンバー
+## 歴代監督
+
+  - [ダレン・サール](https://ja.wikipedia.org/wiki/ダレン・サール "wikilink") 2019-
+
+## 歴代所属選手
 
 ## 外部リンク
 

@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 『[GUILTY](https://ja.wikipedia.org/wiki/GUILTY_\(浜崎あゆみのアルバム\) "wikilink")』
+  - 『[GUILTY](../Page/GUILTY_\(浜崎あゆみのアルバム\).md "wikilink")』
   - 『[WINTER BALLAD SELECTION](https://ja.wikipedia.org/wiki/WINTER_BALLAD_SELECTION "wikilink")』
   - 『[RAINY SEASON SELECTION](https://ja.wikipedia.org/wiki/RAINY_SEASON_SELECTION "wikilink")』
 

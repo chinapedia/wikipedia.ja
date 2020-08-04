@@ -407,7 +407,7 @@
 
 [GK](../Page/ゴールキーパー_\(サッカー\).md "wikilink")
 
-  - [スティーヴ・ハーパー](https://ja.wikipedia.org/wiki/スティーヴ・ハーパー "wikilink") 1997
+  - [スティーヴ・ハーパー](../Page/スティーヴ・ハーパー.md "wikilink") 1997
 
   - [ポール・ジョーンズ](../Page/ポール・ジョーンズ_\(サッカー選手\).md "wikilink") 1996-1997
 

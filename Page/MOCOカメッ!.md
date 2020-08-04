@@ -73,7 +73,7 @@
 
   - [ブロックネット](../Page/ブロックネット.md "wikilink")
   - 本番組と同様のブロックネット亜型フォーマットのミニ番組
-      - [ブカツの天使](https://ja.wikipedia.org/wiki/ブカツの天使 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[9月](../Page/9月.md "wikilink")まで放送されている。
+      - [ブカツの天使](../Page/ブカツの天使.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[9月](../Page/9月.md "wikilink")まで放送されている。
       - [Peaceful Voice](https://ja.wikipedia.org/wiki/Peaceful_Voice "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から同年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送された。本番組同様、日産の一社提供。
       - [1リットルの里帰り](https://ja.wikipedia.org/wiki/1リットルの里帰り "wikilink") - [2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")・[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送される。こちらは[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")の一社提供。
 

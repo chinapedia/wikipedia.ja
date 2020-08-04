@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、赤坂のTap Tipsにて、当時、そこの従業員だった[瀬下尚人](https://ja.wikipedia.org/wiki/瀬下尚人 "wikilink")、[石坂勇](https://ja.wikipedia.org/wiki/石坂勇 "wikilink")と共に、[今村ねずみ](../Page/今村ねずみ.md "wikilink")を中心に結成された。作・構成・演出は、主宰である今村ねずみが、全てを手掛けている。
+[1986年](../Page/1986年.md "wikilink")、赤坂のTap Tipsにて、当時、そこの従業員だった[瀬下尚人](https://ja.wikipedia.org/wiki/瀬下尚人 "wikilink")、[石坂勇](https://ja.wikipedia.org/wiki/石坂勇 "wikilink")と共に、[今村ねずみ](../Page/今村ねずみ.md "wikilink")を中心に結成された。作・構成・演出は、主宰である今村ねずみが、全てを手掛けている。
 
 その後、平均身長180cmを越す男達が、一つのドラマの中で、様々なパフォーマンス（ダンス・タップ・歌・楽器演奏など）を 繰り広げる、全員が主役で脇役のノンストップ・エンタテインメント・ショウ「THE CONVOY SHOW」を起こす。
 

@@ -7,7 +7,7 @@
 
 『[Present](https://ja.wikipedia.org/wiki/Present_\(BONNIE_PINKのアルバム\) "wikilink")』から1年3ヶ月ぶりとなるオリジナルアルバム。[トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")が『[evil and flowers](https://ja.wikipedia.org/wiki/evil_and_flowers "wikilink")』以来、6年ぶりに全曲のプロデュースを行っている。レコーディングは[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のGULAスタジオで行なわれた。「Even So」は「たとえ何とかだったとしても、何とかだよ」と言う場合に繋ぎとして使われる表現である\[1\]。
 
-またCDを鍵として期間限定特別WEBサイトにアクセスできる「ConnecteD」対応CDだった。また、シングル「[Last Kiss](https://ja.wikipedia.org/wiki/Last_Kiss_\(BONNIE_PINKの曲\) "wikilink")」と併用することでさらなるスペシャル・サイトにもアクセス出来た。
+またCDを鍵として期間限定特別WEBサイトにアクセスできる「ConnecteD」対応CDだった。また、シングル「[Last Kiss](../Page/Last_Kiss_\(BONNIE_PINKの曲\).md "wikilink")」と併用することでさらなるスペシャル・サイトにもアクセス出来た。
 
 ## 収録曲
 
@@ -23,7 +23,7 @@
 8.  **1・2・3** （4:17）
       -
         [NHK-FM](../Page/NHK-FM放送.md "wikilink")『[ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")』に出演時の発言で、結婚する兄弟のために書いた曲であることが明かされている。
-9.  **[Last Kiss](https://ja.wikipedia.org/wiki/Last_Kiss_\(BONNIE_PINKの曲\) "wikilink")** （4:24）
+9.  **[Last Kiss](../Page/Last_Kiss_\(BONNIE_PINKの曲\).md "wikilink")** （4:24）
       -
         [CX系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[GANTZ 〜the first stage〜](../Page/GANTZ.md "wikilink")」エンディングテーマ
 10. **Walk with you** （3:56）

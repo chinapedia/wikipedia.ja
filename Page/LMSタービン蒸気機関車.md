@@ -1,7 +1,7 @@
 > この記事は[LMSタービン蒸気機関車](https://ja.wikipedia.org/wiki/LMSタービン蒸気機関車)から翻訳されています。
 
 
-**ターボモーティブ** (**Turbomotive**) は、[1935年](../Page/1935年.md "wikilink")に[ロンドン・ミッドランド・アンド・スコティッシュ鉄道](https://ja.wikipedia.org/wiki/ロンドン・ミッドランド・アンド・スコティッシュ鉄道 "wikilink")（LMS）で試作された[蒸気タービン機関車](../Page/蒸気タービン機関車.md "wikilink")である。LMSの技師長であった[ウィリアム・スタニアー](https://ja.wikipedia.org/wiki/ウィリアム・スタニアー "wikilink") ([William Stanier](https://ja.wikipedia.org/wiki/:en:William_Stanier "wikilink")) による設計で、[1933年](../Page/1933年.md "wikilink")より同社直営のクルー工場で製造が開始された[蒸気機関車](../Page/蒸気機関車.md "wikilink")の[プリンセス・ロイヤル級の派生型](https://ja.wikipedia.org/wiki/LMSプリンセス・ロイヤル級蒸気機関車 "wikilink")\[1\]として製造され、番号はで6202号機となった。
+**ターボモーティブ** (**Turbomotive**) は、[1935年](../Page/1935年.md "wikilink")に[ロンドン・ミッドランド・アンド・スコティッシュ鉄道](../Page/ロンドン・ミッドランド・アンド・スコティッシュ鉄道.md "wikilink")（LMS）で試作された[蒸気タービン機関車](../Page/蒸気タービン機関車.md "wikilink")である。LMSの技師長であった[ウィリアム・スタニアー](https://ja.wikipedia.org/wiki/ウィリアム・スタニアー "wikilink") ([William Stanier](https://ja.wikipedia.org/wiki/:en:William_Stanier "wikilink")) による設計で、[1933年](../Page/1933年.md "wikilink")より同社直営のクルー工場で製造が開始された[蒸気機関車](../Page/蒸気機関車.md "wikilink")の[プリンセス・ロイヤル級の派生型](https://ja.wikipedia.org/wiki/LMSプリンセス・ロイヤル級蒸気機関車 "wikilink")\[1\]として製造され、番号はで6202号機となった。
 
 駆動に、[シリンダ](https://ja.wikipedia.org/wiki/シリンダ "wikilink")を用いたレシプロシャル機関ではなく、蒸気タービン機関を用いている。後に、通常型の46202号機「プリンセス・アン」 (**Princess Anne**) に改造された。
 

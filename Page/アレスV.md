@@ -25,7 +25,7 @@
 
 さらにアルタイル月面着陸機を基にしたキックモーター（もしくは[セントールとも言う](../Page/セントール_\(ロケット\).md "wikilink")）を用いることで、[ガリレオ探査機](https://ja.wikipedia.org/wiki/ガリレオ探査機 "wikilink")と[カッシーニ・ホイヘンス探査機を合わせたほどの重さの](../Page/カッシーニ_\(探査機\).md "wikilink")[宇宙探査機](../Page/宇宙探査機.md "wikilink")を、直接[太陽系](../Page/太陽系.md "wikilink")外周部へ送り出すこともできる\[5\]。
 
-ロケット全体や第2段の開発は[マーシャル宇宙飛行センター](https://ja.wikipedia.org/wiki/マーシャル宇宙飛行センター "wikilink")が、ペイロードフェアリングに取り付ける自己診断システムは[エイムズ研究センター](https://ja.wikipedia.org/wiki/エイムズ研究センター "wikilink")が、月着陸機の着陸段、アレスVの電力システム、推力偏向制御システム、ペイロードフェアリングの開発は[グレン研究センター](https://ja.wikipedia.org/wiki/グレン研究センター "wikilink")が、空力解析は[ラングレー研究センター](https://ja.wikipedia.org/wiki/ラングレー研究センター "wikilink")が担当していた。
+ロケット全体や第2段の開発は[マーシャル宇宙飛行センター](https://ja.wikipedia.org/wiki/マーシャル宇宙飛行センター "wikilink")が、ペイロードフェアリングに取り付ける自己診断システムは[エイムズ研究センター](../Page/エイムズ研究センター.md "wikilink")が、月着陸機の着陸段、アレスVの電力システム、推力偏向制御システム、ペイロードフェアリングの開発は[グレン研究センター](https://ja.wikipedia.org/wiki/グレン研究センター "wikilink")が、空力解析は[ラングレー研究センター](https://ja.wikipedia.org/wiki/ラングレー研究センター "wikilink")が担当していた。
 
 ## 初期の案
 

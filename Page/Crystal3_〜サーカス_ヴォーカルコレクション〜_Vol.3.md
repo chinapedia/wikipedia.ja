@@ -6,7 +6,7 @@
 ## 概要
 
   - 前作『[crystal2 〜サーカス ヴォーカルコレクション〜 Vol.2](https://ja.wikipedia.org/wiki/crystal2_〜サーカス_ヴォーカルコレクション〜_Vol.2 "wikilink")』から約1年11ヶ月ぶりのリリース。
-  - ゲーム作品の関連楽曲の他に[CIRCUSのスタッフであるらまマンと](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")が歌っている[Webラジオ](../Page/インターネットラジオ.md "wikilink")『[サーカス情報局 VOLCANO](../Page/サーカス情報局_VOLCANO.md "wikilink")』の[テーマソングが収録されている](../Page/主題歌.md "wikilink")。
+  - ゲーム作品の関連楽曲の他に[CIRCUSのスタッフであるらまマンと](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[かゆらゆか](../Page/かゆらゆか.md "wikilink")が歌っている[Webラジオ](../Page/インターネットラジオ.md "wikilink")『[サーカス情報局 VOLCANO](../Page/サーカス情報局_VOLCANO.md "wikilink")』の[テーマソングが収録されている](../Page/主題歌.md "wikilink")。
   - [CDジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[白河ことり](../Page/白河ことり.md "wikilink")、朝倉由夢、名無しの子、くじらの少女、桂花、鈴、嶋野真帆が描かれている。
 
 ## 収録曲
@@ -57,7 +57,7 @@
         作詞：tororo、作曲・編曲：大久保薫
 12. **ボルケーノのテーマ** \[4:34\]
       -
-        らまマン&[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")
+        らまマン&[かゆらゆか](../Page/かゆらゆか.md "wikilink")
         作詞・作曲：橋本みゆき、編曲：[鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink")
 
 ## 解説

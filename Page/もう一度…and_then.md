@@ -5,9 +5,9 @@
 
 ## 解説
 
-「もう一度…and then」はシングルのみでのリリースされ、[オリジナル・アルバムには未収録](../Page/スタジオ・アルバム.md "wikilink")。後にライブ・ヴァージョンが[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[voices under the water/in the hall](https://ja.wikipedia.org/wiki/voices_under_the_water/in_the_hall "wikilink")』\[1\]に収録されたほか、リテイク・ヴァージョンがアルバム『[Fankacoustics](https://ja.wikipedia.org/wiki/Fankacoustics "wikilink")』\[2\]に収録された。
+「もう一度…and then」はシングルのみでのリリースされ、[オリジナル・アルバムには未収録](../Page/スタジオ・アルバム.md "wikilink")。後にライブ・ヴァージョンが[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[voices under the water/in the hall](https://ja.wikipedia.org/wiki/voices_under_the_water/in_the_hall "wikilink")』\[1\]に収録されたほか、アルバム『[Fankacoustics](https://ja.wikipedia.org/wiki/Fankacoustics "wikilink")』\[2\]にアコースティック・アレンジによるリテイク・ヴァージョンが収録された。
 
-「花瓶」は、角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")の[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』収録曲の[セルフカバー](../Page/セルフカバー.md "wikilink")。後にバラード・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[3\]にボーカルのリテイクにて収録されるが、エンディングがフェードアウトからコーラスによるカットアウトに変更された。リリースのシングル「[YOU'RE MY ONLY SHININ' STAR](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」\[4\]とリリースのアルバム『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』\[5\]に、セルフカバーが再び収録された。
+「花瓶」は、角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")の[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")』収録曲の[セルフカバー](../Page/セルフカバー.md "wikilink")。後にバラード・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[3\]にボーカルのリテイクにて収録されるが、エンディングがフェードアウトからコーラスによるカットアウトに変更された。リリースのシングル「[YOU'RE MY ONLY SHININ' STAR](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」\[4\]とリリースのアルバム『[The gentle sex](../Page/The_gentle_sex.md "wikilink")』\[5\]に、セルフカバーが再び収録された。アルバム『[東京少年少女](../Page/東京少年少女.md "wikilink")』\[6\]の初回生産限定盤には[軽井沢大賀ホール](../Page/軽井沢大賀ホール.md "wikilink")にて開催されたTripodでのライブ音源が収録されている。
 
 本作よりアナログ・シングル盤に加え、8cmCDシングルもリリースされるようになるが、アナログ盤では「もう一度…and then」がCDシングルより短く編集されている。
 
@@ -62,4 +62,5 @@
 2.  『[Fankacoustics](https://ja.wikipedia.org/wiki/Fankacoustics "wikilink")』 発売 IDEAK ⁄ BMG JAPAN 2CD:BVCR-18032/3
 3.  『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』 発売 OM ⁄ [BMG VICTOR](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink") CD:BVCR-65
 4.  「[YOU'RE MY ONLY SHININ' STAR](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」 発売 IDEAK ⁄ [BMG FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMG_JAPAN（BMGファンハウス） "wikilink") CD:BVCR-19014
-5.  『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』 発売 IDEAK ⁄ BMG FUNHOUSE CD:BVCR-11016
+5.  『[The gentle sex](../Page/The_gentle_sex.md "wikilink")』 発売 IDEAK ⁄ BMG FUNHOUSE CD:BVCR-11016
+6.  『[東京少年少女](../Page/東京少年少女.md "wikilink")』 発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") CD:BVCL-958【初回生産限定盤】 / CD:BVCL-959【通常盤】

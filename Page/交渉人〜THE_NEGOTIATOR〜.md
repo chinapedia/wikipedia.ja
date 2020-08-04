@@ -284,7 +284,7 @@
     演 - [平山浩行](../Page/平山浩行.md "wikilink")
     綾乃のストーカー。ガラス工場勤務だったが、工場長に嫌われ解雇された。
   - 志村雪乃
-    演 - [有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
+    演 - [有坂来瞳](../Page/有坂来瞳.md "wikilink")
     綾乃の姉で公認会計士。
   - 一ノ瀬浩二
     演 - [高橋良輔](../Page/高橋良輔_\(俳優\).md "wikilink")
@@ -372,7 +372,7 @@
   - アクション - [倉田プロモーション](https://ja.wikipedia.org/wiki/倉田プロモーション "wikilink")
   - 撮影協力 - [ベイシス](../Page/ベイシス.md "wikilink")、[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")、[バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")、[テレビ朝日クリエイト](../Page/テレビ朝日クリエイト.md "wikilink")
   - 音楽協力 - [テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")
-  - 企画協力 - 古賀誠一（[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")）
+  - 企画協力 - 古賀誠一（[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")）
   - チーフロデューサー - [五十嵐文郎](../Page/五十嵐文郎.md "wikilink")
   - プロデューサー - [内山聖子](https://ja.wikipedia.org/wiki/内山聖子 "wikilink")、[柳川由起子](https://ja.wikipedia.org/wiki/柳川由起子 "wikilink")
   - 制作協力 - [共同テレビ](https://ja.wikipedia.org/wiki/共同テレビ "wikilink")

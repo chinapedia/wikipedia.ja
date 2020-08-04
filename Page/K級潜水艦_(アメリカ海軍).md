@@ -20,7 +20,7 @@
 | 乗員                                                                      |
 | 兵装                                                                      |
 
-**K級潜水艦** (**K-class submarine**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。[フォアリバー造船所](../Page/フォアリバー造船所.md "wikilink")で4隻、[ユニオン鉄工所](https://ja.wikipedia.org/wiki/ユニオン鉄工所 "wikilink")で3隻、モラン社で1隻の計8隻が建造された。全艦が1914年に就役し、1923年に退役している。
+**K級潜水艦** (**K-class submarine**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。[フォアリバー造船所](../Page/フォアリバー造船所.md "wikilink")で4隻、[ユニオン鉄工所](../Page/ユニオン鉄工所.md "wikilink")で3隻、モラン社で1隻の計8隻が建造された。全艦が1914年に就役し、1923年に退役している。
 
 ## 同型艦
 

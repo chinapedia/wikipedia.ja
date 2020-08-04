@@ -42,7 +42,7 @@
     演 - [ケリー・コンドン](https://ja.wikipedia.org/wiki/ケリー・コンドン "wikilink")、日本語吹替 - [松下こみな](../Page/松下こみな.md "wikilink")
     オクタヴィアヌスの姉。野心家の母親とカエサルの後継者となった弟に翻弄される。
   - [オクタヴィアヌス](../Page/アウグストゥス.md "wikilink")［改名前はオクタヴィウス］
-    演 - [マックス・パーキス](https://ja.wikipedia.org/wiki/マックス・パーキス "wikilink")（少年時代） / [サイモン・ウッズ](https://ja.wikipedia.org/wiki/サイモン・ウッズ "wikilink")（青年時代）、日本語吹替 - [白鳥哲](../Page/白鳥哲.md "wikilink") / [内田夕夜](../Page/内田夕夜.md "wikilink")
+    演 - [マックス・パーキス](https://ja.wikipedia.org/wiki/マックス・パーキス "wikilink")（少年時代） / [サイモン・ウッズ](../Page/サイモン・ウッズ.md "wikilink")（青年時代）、日本語吹替 - [白鳥哲](../Page/白鳥哲.md "wikilink") / [内田夕夜](../Page/内田夕夜.md "wikilink")
     カエサルの大甥。実父は騎士階級であるが、その聡明さからカエサルの遺言で後継者に指名され養子となり、カエサルの名を継ぐ。継承後は共和国派やアントニウスと戦い内乱の中心人物となる。[ユリウス・クラウディウス朝](../Page/ユリウス・クラウディウス朝.md "wikilink")の開祖。
     プライドが高いが、友と認めた相手には身分の分け隔てなく接する。特にプッロにはガリアで助けられて以来は友として扱い、成人後も色々な便宜を図ったりしている。また彼の兵士としての能力に信頼を寄せ、重要な役目を何度も託す。
   - [リウィア](../Page/リウィア.md "wikilink")
@@ -73,7 +73,7 @@
   - [カッシウス](../Page/ガイウス・カッシウス・ロンギヌス.md "wikilink")
     演 - [ガイ・ヘンリー](https://ja.wikipedia.org/wiki/ガイ・ヘンリー "wikilink")
     ブルートゥスの友。史実ではブルートゥスの異父妹の夫。
-  - [クィントゥス](https://ja.wikipedia.org/wiki/グナエウス・ポンペイウス・ミノル "wikilink")
+  - [クィントゥス](../Page/グナエウス・ポンペイウス・ミノル.md "wikilink")
     演 - [リック・ワーデン](https://ja.wikipedia.org/wiki/リック・ワーデン "wikilink")
     ポンペイウスの息子。
 

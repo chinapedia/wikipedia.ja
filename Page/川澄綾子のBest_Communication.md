@@ -114,7 +114,7 @@
   - [山本麻里安](../Page/山本麻里安.md "wikilink") - [山本麻里安のPure Communication](https://ja.wikipedia.org/wiki/山本麻里安のPure_Communication "wikilink")
   - [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink") - [釘宮理恵のSister Communication](../Page/釘宮理恵のSister_Communication.md "wikilink")
   - [PONY CANYON STYLE まるなび\!?](../Page/PONY_CANYON_STYLE_まるなび!?.md "wikilink")
-  - [かのこんラジオ 〜耕太とちずるのゆやよん成長日記〜](https://ja.wikipedia.org/wiki/かのこんラジオ_〜耕太とちずるのゆやよん成長日記〜 "wikilink")
+  - [かのこんラジオ 〜耕太とちずるのゆやよん成長日記〜](../Page/かのこんラジオ_〜耕太とちずるのゆやよん成長日記〜.md "wikilink")
   - [ラジオ・クイーンズブレイド](https://ja.wikipedia.org/wiki/ラジオ・クイーンズブレイド "wikilink")
 
 [Category:日本のWebバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本のWebバラエティ番組 "wikilink")

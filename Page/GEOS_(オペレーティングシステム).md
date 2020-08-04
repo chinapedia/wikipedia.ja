@@ -1,11 +1,11 @@
 > この記事は[GEOS \(オペレーティングシステム\)](https://ja.wikipedia.org/wiki/GEOS_\(オペレーティングシステム\))から翻訳されています。
 
 
-**GEOS** (***G**raphic **E**nvironment **O**perating **S**ystem*) は、Berkeley Softworks（後の GeoWorks Corporation）が開発した一連の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の名称。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")向けに[GUIを提供するOSとして登場した](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")。その後[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[IBM PCおよび互換機向けの](../Page/IBM_PC.md "wikilink") **PC/GEOS**（**GeoWorks** とも）がリリースされた。最新版は[2009年](../Page/2009年.md "wikilink")に Breadbox Computer Company LLC から **Breadbox Ensemble** としてリリースされた PC/GEOS 4.1.3 である。
+**GEOS** (***G**raphic **E**nvironment **O**perating **S**ystem*) は、Berkeley Softworks（後の GeoWorks Corporation）が開発した一連の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の名称。[1986年](../Page/1986年.md "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")向けに[GUIを提供するOSとして登場した](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")。その後[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[IBM PCおよび互換機向けの](../Page/IBM_PC.md "wikilink") **PC/GEOS**（**GeoWorks** とも）がリリースされた。最新版は[2009年](../Page/2009年.md "wikilink")に Breadbox Computer Company LLC から **Breadbox Ensemble** としてリリースされた PC/GEOS 4.1.3 である。
 
 ## 8ビット版 GEOS
 
-最初の GEOS は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")向けに設計された。初期の [Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink") に酷似しており、ワープロソフト（geoWrite）、ペイントプログラム（geoPaint）などを含んでいた。[コモドール](../Page/コモドール.md "wikilink")は、これを[コモドール64](../Page/コモドール64.md "wikilink")の廉価版(C64C)に同梱して販売した。出荷本数だけで言えば、ピーク時には世界第三位のシェアを誇った（他は、[MS-DOS](../Page/MS-DOS.md "wikilink") と Mac OS）。
+最初の GEOS は、[1986年](../Page/1986年.md "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")向けに設計された。初期の [Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink") に酷似しており、ワープロソフト（geoWrite）、ペイントプログラム（geoPaint）などを含んでいた。[コモドール](../Page/コモドール.md "wikilink")は、これを[コモドール64](../Page/コモドール64.md "wikilink")の廉価版(C64C)に同梱して販売した。出荷本数だけで言えば、ピーク時には世界第三位のシェアを誇った（他は、[MS-DOS](../Page/MS-DOS.md "wikilink") と Mac OS）。
 
 GEOS互換の各種ソフトウェアが Berkeley やサードパーティから発売された。[DTP](../Page/DTP.md "wikilink")アプリケーション（geoPublish）、表計算ソフト（geoCalc）などである。geoPublish は [Adobe PageMakerほどの機能はなく](../Page/Adobe_PageMaker.md "wikilink")、geoCalc は [Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink") ほどの機能はなかったが、8ビットのパーソナルコンピュータ向けとしてはそれなりの機能を有しており、Berkeley の創設者 Brian Dougherty は数年間、社内のビジネスにはコモドールの8ビットパソコン上で同社のソフトウェアを動作させて使っていると公言していた。
 

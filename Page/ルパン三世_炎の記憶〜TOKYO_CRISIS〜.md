@@ -112,7 +112,7 @@ TVスペシャルとしては銭形警部がストーリーの主軸に置かれ
   - 演出 - [雄谷将仁](https://ja.wikipedia.org/wiki/雄谷将仁 "wikilink")
   - 撮影監督 - [長谷川肇](https://ja.wikipedia.org/wiki/長谷川肇_\(撮影監督\) "wikilink")
   - 音楽監督 - [鈴木清司](../Page/鈴木清司.md "wikilink")
-  - 録音監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 録音監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 美術監督 - [宮野隆](https://ja.wikipedia.org/wiki/宮野隆 "wikilink")
   - 編集 - 鶴渕允寿
   - プロデューサー - [中谷敏夫](https://ja.wikipedia.org/wiki/中谷敏夫 "wikilink")（日本テレビ）、山下洋（日本テレビ）、尾崎穏通（東京ムービー）

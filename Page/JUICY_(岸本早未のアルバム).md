@@ -51,7 +51,7 @@
 ## 参加ミュージシャン
 
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス
-  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - コーラス
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")） - コーラス
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
 
 ## 関連項目

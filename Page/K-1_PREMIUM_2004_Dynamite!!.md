@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - [田子千尋](https://ja.wikipedia.org/wiki/田子千尋 "wikilink")
+  - [田子千尋](../Page/田子千尋.md "wikilink")
 
 ## 試合結果
 

@@ -17,7 +17,7 @@ MEG(Gt)とSASSY(Dr)をはじめユウスケ(Vo)、カズト(Gt)、mACKAz(Ba)の5
 
 ### メジャーデビュー以後
 
-  - [2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、シングル「[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」でメジャーデビュー。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の 第2期オープニングテーマになり、オリコン初登場2位を記録するヒットとなった。
+  - [2005年](../Page/2005年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")、シングル「[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」でメジャーデビュー。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の 第2期オープニングテーマになり、オリコン初登場2位を記録するヒットとなった。
   - 2005年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、初の全国ワンマンツアー「HIGH and MIGHTY COLOR -Free Live Showcase Tour 2005-」をスタート。
   - 2005年[9月14日](../Page/9月14日.md "wikilink")、1stアルバム『[G∞VER](../Page/G∞VER.md "wikilink")』をリリース。オリコン初登場8位を記録。この年は、シングル5枚、アルバム1枚の計6枚をリリース。年末の[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")では、新人賞を受賞し、デビュー曲「PRIDE」を披露した。
   - [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")、アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』第3期オープニングテーマの、メジャー第6弾シングル「[一輪の花](../Page/一輪の花_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」を発売。週間オリコン初登場2位を記録。
@@ -112,7 +112,7 @@ MEG(Gt)とSASSY(Dr)をはじめユウスケ(Vo)、カズト(Gt)、mACKAz(Ba)の5
 **SASSY**（サッシー、リーダー・[ドラム](../Page/ドラムセット.md "wikilink")、、血液型B型
 
   - 本名：西平聡（にしひら さとし）。出身市：[糸満市](../Page/糸満市.md "wikilink")。
-  - 元[Skaしっぺのドラマー](https://ja.wikipedia.org/wiki/All_Japan_Goith "wikilink")。
+  - 元[Skaしっぺのドラマー](../Page/All_Japan_Goith.md "wikilink")。
   - グラビア観賞が趣味。
   - [ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")が好きで、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")のドラマー、[ラーズ・ウルリッヒ](../Page/ラーズ・ウルリッヒ.md "wikilink")を尊敬している。
   - 解散後は、[Kylee](https://ja.wikipedia.org/wiki/Kylee "wikilink")、[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")、[delofamilia](https://ja.wikipedia.org/wiki/delofamilia "wikilink")、[藍井エイル](https://ja.wikipedia.org/wiki/藍井エイル "wikilink")、[柊木りお](https://ja.wikipedia.org/wiki/柊木りお "wikilink")などのサポートメンバーとして活動している。mACKAzと共に[LM.C](../Page/LM.C.md "wikilink")のサポートメンバーとしても活躍。バンド[INKT](https://ja.wikipedia.org/wiki/INKT "wikilink")やANEMONE is HEREのメンバーとしても活動していた。
@@ -175,7 +175,7 @@ MEG(Gt)とSASSY(Dr)をはじめユウスケ(Vo)、カズト(Gt)、mACKAz(Ba)の5
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月26日.md" title="wikilink">1月26日</a></p></td>
 <td><p><a href="../Page/PRIDE_(HIGH_and_MIGHTY_COLORの曲).md" title="wikilink">PRIDE</a></p></td>
 <td><p>SECL-140</p></td>
 <td><p>2位</p></td>

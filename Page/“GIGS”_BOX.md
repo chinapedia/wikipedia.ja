@@ -13,7 +13,7 @@
 
 ### DISC1〜3
 
-**『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』**
+**『[“GIGS” CASE OF BOØWY COMPLETE](../Page/“GIGS”_CASE_OF_BOOWY_COMPLETE.md "wikilink")』**
 
   - 収録曲・曲順は項目参照。
 

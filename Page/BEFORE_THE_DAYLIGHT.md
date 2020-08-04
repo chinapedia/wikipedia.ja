@@ -5,7 +5,7 @@
 
 ## 解説
 
-『[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")』優秀アルバム賞受賞\[1\]。オリコン・アルバム・ランキングにて、同時期に発売された角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")のアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』が1位、本作が2位と、1・2フィニッシュを記録した。
+『[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")』優秀アルバム賞受賞\[1\]。オリコン・アルバム・ランキングにて、同時期に発売された角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")のアルバム『[CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")』が1位、本作が2位と、1・2フィニッシュを記録した。
 
 「I CAN GIVE YOU MY LOVE」と「CAN'T YOU SEE」は、後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「CAN'T YOU SEE」と「LADY IN THE NIGHT」、「I'D LIKE TO BE YOUR FANTASY」は[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]に、「I CAN GIVE YOU MY LOVE」と「Lost My Heart In The Dark」が『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』\[4\]に、それぞれリテイク・ヴァージョンで収録された。
 
@@ -121,7 +121,7 @@
 
 {{-}}
 
-  - ARTIST MANAGEMENT : MASARU KAJIOKA & HIDETOSHI KOBAYASHI ([MARMALADE](https://ja.wikipedia.org/wiki/ボンド企画 "wikilink"))
+  - ARTIST MANAGEMENT : MASARU KAJIOKA & HIDETOSHI KOBAYASHI ([MARMALADE](../Page/ボンド企画.md "wikilink"))
 
 {{-}}
 

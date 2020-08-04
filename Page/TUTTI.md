@@ -8,7 +8,7 @@
   - メジャー5枚目のオリジナルアルバム。タイトルの"TUTTI"とは「みんな一緒に、全合奏で」を意味する[イタリア語](../Page/イタリア語.md "wikilink")。
   - [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")や[ソフトシンセによる](../Page/ソフトウェア・シンセサイザー.md "wikilink")[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")が多用されている。
   - 全14曲収録で、オリジナルのアルバムでは最も収録曲が多い。またドラムの[河野丈洋](../Page/河野丈洋.md "wikilink")が作詞・作曲を手がけた作品も5曲（[松本素生](../Page/松本素生.md "wikilink")との合作を合わせると6曲）と全アルバム中最多である。
-  - ジャケットの写真には5体のテディベアが登場。歌詞カードではこのテディベアをメンバーがそれぞれ一体ずつ持った写真が使われている（このうち松本の持つ一体は[Happy Birthdayのジャケット及びビデオクリップにも登場している](https://ja.wikipedia.org/wiki/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\) "wikilink")）。
+  - ジャケットの写真には5体のテディベアが登場。歌詞カードではこのテディベアをメンバーがそれぞれ一体ずつ持った写真が使われている（このうち松本の持つ一体は[Happy Birthdayのジャケット及びビデオクリップにも登場している](../Page/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\).md "wikilink")）。
   - 初回盤は[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")仕様となっており、「STAND BY ME」、「きらり」、「Happy Birthday」のビデオクリップが収録されている。また予約特典で[宮尾和孝](../Page/宮尾和孝.md "wikilink")が描いた収録曲をモチーフとしたポストカード全14枚のうち1枚＋店舗限定ポストカード（こちらは店舗によっては無い場合もあった）が封入されていた。
   - シングル「きらり」の両A面だった「トゥモロウズソング」は未収録となっている。
 
@@ -22,7 +22,7 @@
       -
         作詞:松本素生、作曲:松本素生・河野丈洋
         アルバム宣伝用CMに使われた。
-3.  **[STAND BY ME](https://ja.wikipedia.org/wiki/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+3.  **[STAND BY ME](../Page/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
       -
         作詞・作曲:松本素生
         11thシングル。[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")『[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")』[2005年](../Page/2005年.md "wikilink")度CMソング。
@@ -54,7 +54,7 @@
         作詞・作曲:河野丈洋
         ライブで演奏される際には、間奏でメンバーが自己紹介のラップを披露することがある。
         このラップ入りバージョンは「ノラップ」と呼ばれる。その模様はライブDVD『[GOING UNDER GROUND TOUR TUTTI at BUDOKAN](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND_TOUR_TUTTI_at_BUDOKAN "wikilink")』に収録されている。[トランペット](../Page/トランペット.md "wikilink")でタブゾンビ([SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink"))が参加している。
-10. **[Happy Birthday](https://ja.wikipedia.org/wiki/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
+10. **[Happy Birthday](../Page/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\).md "wikilink")**
       -
         作詞・作曲:松本素生
         13thシングル。PV撮影時、松本が足に怪我を負い、直後のライブに車椅子で登場した。

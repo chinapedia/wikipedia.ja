@@ -22,7 +22,7 @@
 
 ## イメージソング
 
-イメージソングは2004年までは[B'z](../Page/B'z.md "wikilink")（2004年上半期は[TMG](../Page/TMG_\(バンド\).md "wikilink")）、2005年7月以降は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が担当している。2005年上半期は設定せず。
+イメージソングは2004年までは[B'z](../Page/B'z.md "wikilink")（2004年上半期は[TMG](../Page/TMG_\(バンド\).md "wikilink")）、2005年7月以降は[SMAP](../Page/SMAP.md "wikilink")が担当している。2005年上半期は設定せず。
 
   - 2002年「[熱き鼓動の果て](../Page/熱き鼓動の果て.md "wikilink")」
   - [2003年](../Page/2003年.md "wikilink")「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」

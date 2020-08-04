@@ -7,7 +7,7 @@
 
 その後、ジュピター・プログラミング（現・[ジュピターテレコム メディア事業部門](../Page/ジュピターテレコム_メディア事業部門.md "wikilink")）の子会社を経て、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")傘下となる。
 
-2008年4月より、[SCI FI（サイファイチャンネル）の放送を開始](https://ja.wikipedia.org/wiki/Syfy "wikilink")。2008年6月、社名を現在の「株式会社NBCユニバーサルグローバル・ネットワークス・ジャパン」に変更した。
+2008年4月より、[SCI FI（サイファイチャンネル）の放送を開始](../Page/Syfy.md "wikilink")。2008年6月、社名を現在の「株式会社NBCユニバーサルグローバル・ネットワークス・ジャパン」に変更した。
 
 2010年4月、SCI FIに代わり、[ユニバーサルチャンネル](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")の放送を開始した。
 
@@ -36,7 +36,7 @@
   - コンピュータ・チャンネル（1998年6月1日 - 2002年3月31日）
   - Channel BB→[チャンネルBB](../Page/チャンネルBB.md "wikilink")（2002年4月1日 - 2005年1月31日）
   - [リアリティTV](https://ja.wikipedia.org/wiki/リアリティTV "wikilink")（2005年2月1日 - 2008年3月31日）
-  - [SCI FI（サイファイチャンネル）](https://ja.wikipedia.org/wiki/Syfy "wikilink")（2008年4月1日 - 2010年3月31日）
+  - [SCI FI（サイファイチャンネル）](../Page/Syfy.md "wikilink")（2008年4月1日 - 2010年3月31日）
   - [ユニバーサルチャンネル](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")（2010年4月1日 - 2013年3月31日）
 
 ## 脚注

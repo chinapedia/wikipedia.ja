@@ -7,7 +7,7 @@
 
 両親は[チャド](../Page/チャド.md "wikilink")人。生後6カ月でフランス・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")郊外に移住。大学で[哲学](../Page/哲学.md "wikilink")を学び、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にデビューシングルを発表。翌[1991年](../Page/1991年.md "wikilink")発表のアルバム第1作 *Qui sème le vent récolte le tempo*（「風をまく者はテンポを刈り入れる」の意。フランスの[諺](https://ja.wikipedia.org/wiki/諺 "wikilink") "Qui sème le vent récolte la tempête" 「風をまく者は嵐を刈り入れる」すなわち「身から出た錆」をもじったタイトル）を発表。30万枚以上を売り上げるフランスのプラチナディスクとなった。
 
-以後、スタイルを少しずつ変えながら7枚のアルバムを発表。[NTMや](https://ja.wikipedia.org/wiki/NTM_\(ヒップホップ\) "wikilink")[IAM](https://ja.wikipedia.org/wiki/IAM "wikilink")とともに1990年代前半、フランス語ラップをフランスに定着させた草分け的存在と見なされている。
+以後、スタイルを少しずつ変えながら7枚のアルバムを発表。[NTMや](../Page/NTM_\(ヒップホップ\).md "wikilink")[IAM](../Page/IAM.md "wikilink")とともに1990年代前半、フランス語ラップをフランスに定着させた草分け的存在と見なされている。
 
 ## ディスコグラフィー
 

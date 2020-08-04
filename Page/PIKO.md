@@ -21,7 +21,7 @@
 
 ### かつての製品
 
-[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に大規模な玩具工場を建設し、そこで玩具や教材、機械玩具や鉄道模型を生産した。子供向けに洗濯機や掃除機、レジスター、人形も生産された。鉄道模型はHOゲージとNゲージを生産した。[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")には子供用ミシンで[ライプツィヒ・メッセ](https://ja.wikipedia.org/wiki/ライプツィヒ・メッセ "wikilink")でVEB-PIKOとしてはじめて受賞した。
+[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に大規模な玩具工場を建設し、そこで玩具や教材、機械玩具や鉄道模型を生産した。子供向けに洗濯機や掃除機、レジスター、人形も生産された。鉄道模型はHOゲージとNゲージを生産した。[1968年](../Page/1968年.md "wikilink")には子供用ミシンで[ライプツィヒ・メッセ](https://ja.wikipedia.org/wiki/ライプツィヒ・メッセ "wikilink")でVEB-PIKOとしてはじめて受賞した。
 
 鉄道模型製品は良くできていたため、西ドイツの[フュルト](../Page/フュルト.md "wikilink")のSchreiber社を通じて西ドイツ市場に供給された。
 

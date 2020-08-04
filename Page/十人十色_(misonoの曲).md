@@ -15,7 +15,7 @@
 1.  **十人十色**
       - 作詞：misono、作曲：中島優美、編曲：GO\!GO\!7188
 2.  **ギザギザLIFE**
-      - 作詞：misono・[ノマアキコ](https://ja.wikipedia.org/wiki/ノマアキコ "wikilink")、作曲：中島優美、編曲：GO\!GO\!7188
+      - 作詞：misono・[ノマアキコ](../Page/ノマアキコ.md "wikilink")、作曲：中島優美、編曲：GO\!GO\!7188
 3.  **十人十色 -instrumental-**
 4.  **ギザギザLIFE -instrumental-**
 

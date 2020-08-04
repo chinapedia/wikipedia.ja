@@ -1,7 +1,7 @@
 > この記事は[北斗の拳 \(セガ・マークIII\)](https://ja.wikipedia.org/wiki/北斗の拳_\(セガ・マークIII\))から翻訳されています。
 
 
-『**北斗の拳**』（ほくとのけん）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")用ゲームソフト。
+『**北斗の拳**』（ほくとのけん）は[1986年](../Page/1986年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")用ゲームソフト。
 
 [2004年](../Page/2004年.md "wikilink")には[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink")のラインナップとして[PlayStation 2にリメイク移植された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（同時にオリジナルのマークIII版も収録されている）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信開始（要600Wiiポイント）。なお既存の漫画作品などを原作とする[キャラクターゲーム](../Page/キャラクターゲーム.md "wikilink")のバーチャルコンソールでの配信は、このソフトが初めてとなる。
 

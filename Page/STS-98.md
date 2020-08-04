@@ -61,6 +61,6 @@
 
   - [NASA mission summary](http://science.ksc.nasa.gov/shuttle/missions/sts-98/mission-sts-98.html)
   - [STS-98 Video Highlights](http://www.nss.org/resources/library/shuttlevideos/shuttle102.htm)
-  - [国際宇宙ステーションの組立フライト 5A Destiny STS-98](https://iss.jaxa.jp/iss/5a/index.html) - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
+  - [国際宇宙ステーションの組立フライト 5A Destiny STS-98](https://iss.jaxa.jp/iss/5a/index.html) - [JAXA](../Page/宇宙航空研究開発機構.md "wikilink")
 
 [Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:2001年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:2001年のアメリカ合衆国 "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink") [Category:2001年2月](https://ja.wikipedia.org/wiki/Category:2001年2月 "wikilink")

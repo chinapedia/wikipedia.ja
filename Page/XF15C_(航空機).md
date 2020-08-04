@@ -2,9 +2,9 @@
 
 
 {{ Infobox 航空機 | 名称=XF15C | 画像=<File:Curtiss> XF15C-1.jpg | キャプション=飛行するXF15C-1 01215号機
-([1945年](../Page/1945年.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者= | 製造者=[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社 | 運用者=（予定） | 初飛行年月日=[1945年](../Page/1945年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") | 生産数=3機 | 生産開始年月日= | 運用開始年月日=[1946年](../Page/1946年.md "wikilink")[11月](../Page/11月.md "wikilink") | 退役年月日=[1947年](../Page/1947年.md "wikilink")（開発中止） | 運用状況=未就役 | ユニットコスト= }}
+([1945年](../Page/1945年.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](../Page/艦上戦闘機.md "wikilink") | 設計者= | 製造者=[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社 | 運用者=（予定） | 初飛行年月日=[1945年](../Page/1945年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") | 生産数=3機 | 生産開始年月日= | 運用開始年月日=[1946年](../Page/1946年.md "wikilink")[11月](../Page/11月.md "wikilink") | 退役年月日=[1947年](../Page/1947年.md "wikilink")（開発中止） | 運用状況=未就役 | ユニットコスト= }}
 
-*' XF15C*'（*Curtiss-Wright XF15C* ）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発していた[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")と[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")の複合動力機であったが、試作のみで開発中止となった。
+*' XF15C*'（*Curtiss-Wright XF15C* ）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発していた[艦上戦闘機](../Page/艦上戦闘機.md "wikilink")である。[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")と[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")の複合動力機であったが、試作のみで開発中止となった。
 
 ## 概要
 

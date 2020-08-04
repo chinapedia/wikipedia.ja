@@ -158,7 +158,7 @@
 
 ### プレッシャーボーダーライン
 
-[2015年](../Page/2015年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")放送分より登場。事前に問題に挑戦した[東大生や](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[MENSA](https://ja.wikipedia.org/wiki/MENSA "wikilink")会員などの成績を上回ればクリアとなるクイズを中心に行う団体戦。詳しくは[\#過去に行われたクイズ](https://ja.wikipedia.org/wiki/#過去に行われたクイズ "wikilink")の項を参照。
+[2015年](../Page/2015年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")放送分より登場。事前に問題に挑戦した[東大生や](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[MENSA](https://ja.wikipedia.org/wiki/MENSA "wikilink")会員などの成績を上回ればクリアとなるクイズを中心に行う団体戦。詳しくは[\#過去に行われたクイズ](https://ja.wikipedia.org/wiki/#過去に行われたクイズ "wikilink")の項を参照。
 
 ### 学力王No.1決定戦
 
@@ -1088,7 +1088,7 @@
 ### 対抗戦
 
   - 2008年4月7日　麻木久仁子、[水野裕子](../Page/水野裕子.md "wikilink")、[青木さやか](../Page/青木さやか.md "wikilink")、[草野満代](../Page/草野満代.md "wikilink")、[吉田照美](../Page/吉田照美.md "wikilink")、[堂真理子](https://ja.wikipedia.org/wiki/堂真理子 "wikilink")、大木優紀、[徳光和夫](../Page/徳光和夫.md "wikilink")、[徳光正行](../Page/徳光正行.md "wikilink")、大塚範一（アナウンサーチーム）
-  - 2009年1月12日　[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[竹内由恵](https://ja.wikipedia.org/wiki/竹内由恵 "wikilink")、[藤田朋子](../Page/藤田朋子.md "wikilink")、青木さやか、[大坪千夏](../Page/大坪千夏.md "wikilink")、[下平さやか](https://ja.wikipedia.org/wiki/下平さやか "wikilink")、[松尾依里佳](../Page/松尾依里佳.md "wikilink")、[おおたわ史絵](../Page/おおたわ史絵.md "wikilink")、[宮崎美子](../Page/宮崎美子.md "wikilink")、麻木久仁子、[春野恵子](https://ja.wikipedia.org/wiki/春野恵子 "wikilink")、[有賀さつき](https://ja.wikipedia.org/wiki/有賀さつき "wikilink")（インテリ美女軍団チーム）
+  - 2009年1月12日　[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[竹内由恵](../Page/竹内由恵.md "wikilink")、[藤田朋子](../Page/藤田朋子.md "wikilink")、青木さやか、[大坪千夏](../Page/大坪千夏.md "wikilink")、[下平さやか](https://ja.wikipedia.org/wiki/下平さやか "wikilink")、[松尾依里佳](../Page/松尾依里佳.md "wikilink")、[おおたわ史絵](../Page/おおたわ史絵.md "wikilink")、[宮崎美子](../Page/宮崎美子.md "wikilink")、麻木久仁子、[春野恵子](https://ja.wikipedia.org/wiki/春野恵子 "wikilink")、[有賀さつき](https://ja.wikipedia.org/wiki/有賀さつき "wikilink")（インテリ美女軍団チーム）
   - 2009年6月1日　麻木久仁子、有賀さつき、[安藤幸代](../Page/安藤幸代.md "wikilink")、[生島ヒロシ](../Page/生島ヒロシ.md "wikilink")、大塚範一、菊川怜、草野満代、[富永美樹](../Page/富永美樹.md "wikilink")、[福田萌](https://ja.wikipedia.org/wiki/福田萌 "wikilink")、吉田照美（フリーアナ＆キャスター軍団チーム）
   - 2009年8月10日　[桂小枝](../Page/桂小枝.md "wikilink")、[ヨネスケ](../Page/ヨネスケ.md "wikilink")、エド・はるみ、[関根勤](../Page/関根勤.md "wikilink")、[小倉久寛](../Page/小倉久寛.md "wikilink")、[渡辺正行](../Page/渡辺正行.md "wikilink")、[清水圭](../Page/清水圭.md "wikilink")、[斉木しげる](../Page/斉木しげる.md "wikilink")、柴田理恵、伊集院光（アダルト芸人軍団チーム）
   - 2009年9月14日　草野満代、八木麻紗子、小川彩佳、下平さやか、渡辺宜嗣、菊川怜、山中秀樹、吉田照美、石原良純、やくみつる（報道キャスター軍団チーム）

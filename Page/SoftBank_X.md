@@ -789,7 +789,7 @@ GSM(900/1800/1900)<br />
 <td><p>GPS<br />
 Bluetooth<br />
 赤外線通信<br />
-<a href="https://ja.wikipedia.org/wiki/近距離無線通信" title="wikilink">NFC</a>(決済不可)/FeliCa<br />
+<a href="../Page/近距離無線通信.md" title="wikilink">NFC</a>(決済不可)/FeliCa<br />
 ワンセグ<br />
 緊急速報メール</p></td>
 </tr>

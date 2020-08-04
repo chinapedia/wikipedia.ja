@@ -51,7 +51,7 @@
   - BE WITH ME feat.NaNa / [NEVER LAND](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink")
   - ある愛の行方 feat. NaNa / [RINO](../Page/RINO_LATINA_II.md "wikilink")
   - ハートブレイカー feat.NaNa / [MIC BANK](../Page/MIC_BANK.md "wikilink")
-  - [Tell the truth](https://itunes.apple.com/jp/album/tell-truth-feat.-nana-oh-girl!/id360210866?i=360210880) feat.NaNa / [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink") × [DJ KOMORI](https://ja.wikipedia.org/wiki/DJ_KOMORI "wikilink")
+  - [Tell the truth](https://itunes.apple.com/jp/album/tell-truth-feat.-nana-oh-girl!/id360210866?i=360210880) feat.NaNa / [Sweep](../Page/Sweep.md "wikilink") × [DJ KOMORI](https://ja.wikipedia.org/wiki/DJ_KOMORI "wikilink")
   - [Call feat. NaNa (OH GIRL\!)](https://itunes.apple.com/jp/album/call-feat.-nana-oh-girl!/id1052985593?i=1052985595) / [CIMBA](https://ja.wikipedia.org/wiki/CIMBA "wikilink")
   - NEXT EPISODE feat. NaNa(OH GIRL\!) / [KM-MARKIT](../Page/KM-MARKIT.md "wikilink")
   - \[<https://itunes.apple.com/jp/album/jin-yehaparira-tsu>\!\!-feat./id569994887?i=569994940 今夜はパーリラッ\!\!\] feat. NaNa, [CO-KEY](../Page/CO-KEY.md "wikilink") & [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink") / [mc2](https://ja.wikipedia.org/wiki/mc2_\(音楽ユニット\) "wikilink")

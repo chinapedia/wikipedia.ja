@@ -193,7 +193,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carlos_Baerga" title="wikilink">Carlos Baerga</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・バイエガ" title="wikilink">カルロス・バイエーガ</a></p></td>
+<td><p><a href="../Page/カルロス・バイエガ.md" title="wikilink">カルロス・バイエーガ</a></p></td>
 <td><p>1990</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -1005,7 +1005,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Neal_Ball" title="wikilink">Neal Ball</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニール・ボール" title="wikilink">ニール・ボール</a></p></td>
+<td><p><a href="../Page/ニール・ボール.md" title="wikilink">ニール・ボール</a></p></td>
 <td><p>1907</p></td>
 <td><p>1913</p></td>
 <td></td>
@@ -1516,7 +1516,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Len_Barker" title="wikilink">Len Barker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レン・バーカー" title="wikilink">レン・バーカー</a></p></td>
+<td><p><a href="../Page/レン・バーカー.md" title="wikilink">レン・バーカー</a></p></td>
 <td><p>1976</p></td>
 <td><p>1987</p></td>
 <td></td>
@@ -4164,7 +4164,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Bellhorn" title="wikilink">Mark Bellhorn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・ベルホーン" title="wikilink">マーク・ベルホーン</a></p></td>
+<td><p><a href="../Page/マーク・ベルホーン.md" title="wikilink">マーク・ベルホーン</a></p></td>
 <td><p>1997</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -6735,7 +6735,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jerry_Blevins" title="wikilink">Jerry Blevins</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェリー・ブレビンス" title="wikilink">ジェリー・ブレビンス</a></p></td>
+<td><p><a href="../Page/ジェリー・ブレビンス.md" title="wikilink">ジェリー・ブレビンス</a></p></td>
 <td><p>2007</p></td>
 <td></td>
 <td></td>
@@ -8220,7 +8220,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Daryl_Boston" title="wikilink">Daryl Boston</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダリル・ボストン" title="wikilink">ダリル・ボストン</a></p></td>
+<td><p><a href="../Page/ダリル・ボストン.md" title="wikilink">ダリル・ボストン</a></p></td>
 <td><p>1984</p></td>
 <td><p>1994</p></td>
 <td></td>
@@ -8843,7 +8843,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ken_Boyer" title="wikilink">Ken Boyer</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケン・ボイヤー" title="wikilink">ケン・ボイヤー</a></p></td>
+<td><p><a href="../Page/ケン・ボイヤー.md" title="wikilink">ケン・ボイヤー</a></p></td>
 <td><p>1955</p></td>
 <td><p>1969</p></td>
 <td></td>
@@ -9103,7 +9103,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Bradley" title="wikilink">George Bradley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・ブラッドリー" title="wikilink">ジョージ・ブラッドリー</a></p></td>
+<td><p><a href="../Page/ジョージ・ブラッドリー.md" title="wikilink">ジョージ・ブラッドリー</a></p></td>
 <td><p>1875</p></td>
 <td><p>1888</p></td>
 <td><p>投手、George Washington Bradley</p></td>
@@ -9530,7 +9530,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Russell_Branyan" title="wikilink">Russell Branyan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラッセル・ブラニアン" title="wikilink">ラッセル・ブラニアン</a></p></td>
+<td><p><a href="../Page/ラッセル・ブラニアン.md" title="wikilink">ラッセル・ブラニアン</a></p></td>
 <td><p>1998</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -10517,7 +10517,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rico_Brogna" title="wikilink">Rico Brogna</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リコ・ブローニャ" title="wikilink">リコ・ブローニャ</a></p></td>
+<td><p><a href="../Page/リコ・ブローニャ.md" title="wikilink">リコ・ブローニャ</a></p></td>
 <td><p>1992</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -12303,7 +12303,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Al_Bumbry" title="wikilink">Al Bumbry</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アル・バンブリー" title="wikilink">アル・バンブリー</a></p></td>
+<td><p><a href="../Page/アル・バンブリー.md" title="wikilink">アル・バンブリー</a></p></td>
 <td><p>1972</p></td>
 <td><p>1985</p></td>
 <td></td>
@@ -12387,7 +12387,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Burba" title="wikilink">Dave Burba</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デーブ・バーバ" title="wikilink">デーブ・バーバ</a></p></td>
+<td><p><a href="../Page/デーブ・バーバ.md" title="wikilink">デーブ・バーバ</a></p></td>
 <td><p>1990</p></td>
 <td><p>2004</p></td>
 <td></td>

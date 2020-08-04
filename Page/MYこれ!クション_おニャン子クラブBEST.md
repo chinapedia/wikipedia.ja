@@ -70,7 +70,7 @@
   - [MYこれ\!クション うしろ髪ひかれ隊BEST](../Page/MYこれ!クション_うしろ髪ひかれ隊BEST.md "wikilink")
   - [MYこれ\!クション 工藤静香BEST](../Page/MYこれ!クション_工藤静香BEST.md "wikilink")
   - [MYこれ\!クション 福永恵規BEST](../Page/MYこれ!クション_福永恵規BEST.md "wikilink")
-  - [MYこれ\!クション 高井麻巳子BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_高井麻巳子BEST "wikilink")
+  - [MYこれ\!クション 高井麻巳子BEST](../Page/MYこれ!クション_高井麻巳子BEST.md "wikilink")
   - [MYこれ\!クション 内海和子BEST](https://ja.wikipedia.org/wiki/MY_これ!クション_内海和子・BEST "wikilink")
 
 ## 脚注

@@ -291,7 +291,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Oracle_Linux" title="wikilink">Oracle Linux</a></p></td>
+<td><p>| <a href="../Page/Oracle_Linux.md" title="wikilink">Oracle Linux</a></p></td>
 <td><p>Oracle</p></td>
 <td><p>Oracle</p></td>
 <td><p>2006-10-26</p></td>
@@ -1378,7 +1378,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Oracle_Linux" title="wikilink">Oracle Linux</a></p></td>
+<td><p><a href="../Page/Oracle_Linux.md" title="wikilink">Oracle Linux</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1626,7 +1626,7 @@ DVD: 2,600</p></td>
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Manjaro" title="wikilink">Manjaro</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/Plasma_(KDE)" title="wikilink">KDE Plasma</a>[60]</p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="../Page/Plasma_(KDE).md" title="wikilink">KDE Plasma</a>[60]</p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -7,7 +7,7 @@
 
   - [1954年](../Page/1954年.md "wikilink")9月 - **西日本通信建設株式会社**を設立。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")12月 - [福岡証券取引所](../Page/福岡証券取引所.md "wikilink")に上場。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月 - 社名を**西日本システム建設株式会社**に変更。
+  - [1986年](../Page/1986年.md "wikilink")4月 - 社名を**西日本システム建設株式会社**に変更。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月 - [大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")第2部に上場。
   - [2013年](../Page/2013年.md "wikilink")7月 - 大阪証券取引所と[東京証券取引所](../Page/東京証券取引所.md "wikilink")の現物株市場統合に伴い、東京証券取引所2部に上場。
   - [2014年](../Page/2014年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 社名を**株式会社SYSKEN**に変更。

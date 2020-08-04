@@ -101,7 +101,7 @@
   - バイト君 - [伊牟田大](https://ja.wikipedia.org/wiki/伊牟田大 "wikilink")
   - ラジオの声 - [安斉一博](../Page/安斉一博.md "wikilink")
   - 美女A - [田代有紀](https://ja.wikipedia.org/wiki/田代有紀 "wikilink")
-  - 美女B - [赤池裕美子](https://ja.wikipedia.org/wiki/赤池裕美子 "wikilink")
+  - 美女B - [赤池裕美子](../Page/赤池裕美子.md "wikilink")
   - DJ - [武田華](../Page/武田華.md "wikilink")
   - 少年A - [新井海人](https://ja.wikipedia.org/wiki/新井海人 "wikilink")
   - 少年B - [田中雄士](https://ja.wikipedia.org/wiki/田中雄士_\(俳優\) "wikilink")
@@ -111,18 +111,18 @@
 
   - 原作 - [モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")
   - 監督・絵コンテ・演出 - [宮繁之](https://ja.wikipedia.org/wiki/宮繁之 "wikilink")
-  - 企画 - [松元理人](https://ja.wikipedia.org/wiki/松元理人 "wikilink")、三浦姫、平山博志
+  - 企画 - [松元理人](../Page/松元理人.md "wikilink")、三浦姫、平山博志
   - プロデューサー - 浄園祐、植野浩之、植田泰生
   - 脚本 - [大川俊道](../Page/大川俊道.md "wikilink")
   - 音楽 - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
   - 音楽監督 - [鈴木清司](../Page/鈴木清司.md "wikilink")
-  - 音響監督 - [加藤敏](https://ja.wikipedia.org/wiki/加藤敏_\(音響監督\) "wikilink")
+  - 音響監督 - [加藤敏](../Page/加藤敏_\(音響監督\).md "wikilink")
   - 音響制作 - [東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
   - 音響効果 - [倉橋静男](https://ja.wikipedia.org/wiki/倉橋静男 "wikilink")、山谷尚人（[サウンドボックス](../Page/サウンドボックス.md "wikilink")）
   - 音楽プロデューサー - 山田慎也、澤藤弘一、松尾康治
   - 録音技術 - 室克彦
   - 録音スタジオ - [アオイスタジオ](../Page/アオイスタジオ.md "wikilink")
-  - キャラクターデザイン･総作画監督 - [西村貴世](https://ja.wikipedia.org/wiki/西村貴世 "wikilink")
+  - キャラクターデザイン･総作画監督 - [西村貴世](../Page/西村貴世.md "wikilink")
   - メカニックデザイン作画 - 水村良男、村松尚雄、石本英治
   - メカニックデザイン - 水村良男
   - ロボットデザイン原案 - [さとうけいいち](../Page/さとうけいいち.md "wikilink")

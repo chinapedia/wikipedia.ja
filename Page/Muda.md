@@ -24,4 +24,4 @@
 
 [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:楽曲_む](https://ja.wikipedia.org/wiki/Category:楽曲_む "wikilink")
 
-1.  [井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")と[井上日徳](https://ja.wikipedia.org/wiki/井上日徳 "wikilink")共同アレンジ
+1.  [井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")と[井上日徳](../Page/井上日徳.md "wikilink")共同アレンジ

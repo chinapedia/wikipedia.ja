@@ -1,7 +1,7 @@
 > この記事は[Arcaea](https://ja.wikipedia.org/wiki/Arcaea)から翻訳されています。
 
 
-**Arcaea**（アーケア）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のlowiroが開発する[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink"),[Android](https://ja.wikipedia.org/wiki/Android_\(オペレーティングシステム\) "wikilink")）向けアプリとして[2017年](../Page/2017年.md "wikilink")に配信開始。メインイラストレーターはシエラ。2020年5月27日時点で、全世界で400万ダウンロードを達成している\[1\]。
+**Arcaea**（アーケア）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のlowiroが開発する[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink"),[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")）向けアプリとして[2017年](../Page/2017年.md "wikilink")に配信開始。メインイラストレーターはシエラ。2020年5月27日時点で、全世界で400万ダウンロードを達成している\[1\]。
 
 ## ゲーム内容
 

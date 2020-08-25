@@ -1,7 +1,7 @@
 > この記事は[Tandem](https://ja.wikipedia.org/wiki/Tandem)から翻訳されています。
 
 
-` `**`Tandem`**`（タンデム）は、外国語学習者と`[`ネイティブスピーカーをつなげる`](../Page/母語.md "wikilink")` `[`iOSと`](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[`Android対応の`](https://ja.wikipedia.org/wiki/Android_\(オペレーティングシステム\) "wikilink")[`言語交換`](../Page/言語交換.md "wikilink")`（ランゲージエクスチェンジ）`[`アプリケーションソフトウェア`](../Page/アプリケーションソフトウェア.md "wikilink")である`。`\[1\]` メンバーはテキストもしくは音声チャットで会話する言語交換パートナーを探すことができる。`\[2\]` 2020年4月現在、12種類の手話を含む160以上の言語に対応している。`\[3\]
+` `**`Tandem`**`（タンデム）は、外国語学習者と`[`ネイティブスピーカーをつなげる`](../Page/母語.md "wikilink")` `[`iOSと`](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[`Android対応の`](../Page/Android_\(オペレーティングシステム\).md "wikilink")[`言語交換`](../Page/言語交換.md "wikilink")`（ランゲージエクスチェンジ）`[`アプリケーションソフトウェア`](../Page/アプリケーションソフトウェア.md "wikilink")である`。`\[1\]` メンバーはテキストもしくは音声チャットで会話する言語交換パートナーを探すことができる。`\[2\]` 2020年4月現在、12種類の手話を含む160以上の言語に対応している。`\[3\]
 
 ## 歴史
 

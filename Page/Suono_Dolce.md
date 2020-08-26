@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - オリジナルアプリケーション「Suono Dolce by ニッポン放送\[5\]\[6\]」 ※[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](https://ja.wikipedia.org/wiki/Android_\(オペレーティングシステム\) "wikilink")、[Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")\[7\]
+  - オリジナルアプリケーション「Suono Dolce by ニッポン放送\[5\]\[6\]」 ※[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")\[7\]
   - W＋Radio※[W-ZERO3](../Page/W-ZERO3.md "wikilink")（[WILLCOM](../Page/ウィルコム.md "wikilink")）専用アプリ
 
 ## 放送時間

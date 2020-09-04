@@ -8,14 +8,14 @@
 ## 所属クラブ（2019-2020シーズン）
 
   - [ブラッドフォード・シティAFC](../Page/ブラッドフォード・シティAFC.md "wikilink")
-  - [ケンブリッジ・ユナイテッドFC](https://ja.wikipedia.org/wiki/ケンブリッジ・ユナイテッドFC "wikilink")
+  - [ケンブリッジ・ユナイテッドFC](../Page/ケンブリッジ・ユナイテッドFC.md "wikilink")
   - [カーライル・ユナイテッドFC](../Page/カーライル・ユナイテッドFC.md "wikilink")
   - [チェルトナム・タウンFC](../Page/チェルトナム・タウンFC.md "wikilink")
   - [コルチェスター・ユナイテッドFC](../Page/コルチェスター・ユナイテッドFC.md "wikilink")
-  - [クローリー・タウンFC](https://ja.wikipedia.org/wiki/クローリー・タウンFC "wikilink")
+  - [クローリー・タウンFC](../Page/クローリー・タウンFC.md "wikilink")
   - [クルー・アレクサンドラFC](../Page/クルー・アレクサンドラFC.md "wikilink")
-  - [エクセター・シティFC](https://ja.wikipedia.org/wiki/エクセター・シティFC "wikilink")
-  - [フォレストグリーン・ローヴァーズFC](https://ja.wikipedia.org/wiki/フォレストグリーン・ローヴァーズFC "wikilink")
+  - [エクセター・シティFC](../Page/エクセター・シティFC.md "wikilink")
+  - [フォレストグリーン・ローヴァーズFC](../Page/フォレストグリーン・ローヴァーズFC.md "wikilink")
   - [グリムズビー・タウンFC](../Page/グリムズビー・タウンFC.md "wikilink")
   - [レイトン・オリエントFC](../Page/レイトン・オリエントFC.md "wikilink")
   - [マクルズフィールド・タウンFC](../Page/マクルズフィールド・タウンFC.md "wikilink")
@@ -28,7 +28,7 @@
   - [ポート・ヴェイルFC](../Page/ポート・ヴェイルFC.md "wikilink")
   - [サルフォード・シティFC](https://ja.wikipedia.org/wiki/サルフォード・シティFC "wikilink")
   - [スカンソープ・ユナイテッドFC](../Page/スカンソープ・ユナイテッドFC.md "wikilink")
-  - [スティヴネイジFC](https://ja.wikipedia.org/wiki/スティヴネイジFC "wikilink")
+  - [スティヴネイジFC](../Page/スティヴネイジFC.md "wikilink")
   - [スウィンドン・タウンFC](../Page/スウィンドン・タウンFC.md "wikilink")
   - [ウォルソールFC](../Page/ウォルソールFC.md "wikilink")
 
@@ -42,9 +42,9 @@
 
   -
     1位 [カーディフ・シティ](../Page/カーディフ・シティFC.md "wikilink")
-    2位 [レクサム](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")
+    2位 [レクサム](../Page/レクサムFC.md "wikilink")
     3位 [バーネット](../Page/バーネットFC.md "wikilink")
-    プレーオフ勝者 [ヨーク・シティ](https://ja.wikipedia.org/wiki/ヨーク・シティFC "wikilink")
+    プレーオフ勝者 [ヨーク・シティ](../Page/ヨーク・シティFC.md "wikilink")
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
     1位 [シュルーズベリー・タウン](../Page/シュルーズベリー・タウンFC.md "wikilink")
     2位 [チェスター・シティ](https://ja.wikipedia.org/wiki/チェスター・シティFC "wikilink")
     3位 [クルー・アレクサンドラ](../Page/クルー・アレクサンドラFC.md "wikilink")
-    プレーオフ勝者 [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")
+    プレーオフ勝者 [ウィコム・ワンダラーズ](../Page/ウィコム・ワンダラーズFC.md "wikilink")
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@
 
   -
     1位 [ブレントフォード](../Page/ブレントフォードFC.md "wikilink")
-    2位 [ケンブリッジ・ユナイテッド](https://ja.wikipedia.org/wiki/ケンブリッジ・ユナイテッドFC "wikilink")
+    2位 [ケンブリッジ・ユナイテッド](../Page/ケンブリッジ・ユナイテッドFC.md "wikilink")
     3位 [カーディフ・シティ](../Page/カーディフ・シティFC.md "wikilink")
     プレーオフ勝者 [スカンソープ・ユナイテッド](../Page/スカンソープ・ユナイテッドFC.md "wikilink")
 
@@ -127,7 +127,7 @@
     1位 [スウォンジー・シティ](../Page/スウォンジー・シティAFC.md "wikilink")
     2位 [ロザラム・ユナイテッド](../Page/ロザラム・ユナイテッドFC.md "wikilink")
     3位 [ノーサンプトン・タウン](../Page/ノーサンプトン・タウンFC.md "wikilink")
-    プレーオフ勝者 [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink")
+    プレーオフ勝者 [ピーターバラ・ユナイテッド](../Page/ピーターバラ・ユナイテッドFC.md "wikilink")
 
 <!-- end list -->
 
@@ -160,9 +160,9 @@
 <!-- end list -->
 
   -
-    1位 [ラシュデン・アンド・ダイアモンズ](https://ja.wikipedia.org/wiki/ラシュデン・アンド・ダイアモンズFC "wikilink")
+    1位 [ラシュデン・アンド・ダイアモンズ](../Page/ラシュデン・アンド・ダイアモンズFC.md "wikilink")
     2位 [ハートリプール・ユナイテッド](../Page/ハートリプール・ユナイテッドFC.md "wikilink")
-    3位 [レクサム](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")
+    3位 [レクサム](../Page/レクサムFC.md "wikilink")
     プレーオフ勝者 [ボーンマス](../Page/AFCボーンマス.md "wikilink")
 
 <!-- end list -->
@@ -174,7 +174,7 @@
   -
     1位 [ドンカスター・ローヴァーズ](../Page/ドンカスター・ローヴァーズFC.md "wikilink")
     2位 [ハル・シティ](../Page/ハル・シティAFC.md "wikilink")
-    3位 [トーキー・ユナイテッド](https://ja.wikipedia.org/wiki/トーキー・ユナイテッドFC "wikilink")
+    3位 [トーキー・ユナイテッド](../Page/トーキー・ユナイテッドFC.md "wikilink")
     プレーオフ勝者 [ハダースフィールド・タウン](../Page/ハダースフィールド・タウンFC.md "wikilink")
 
 **リーグ2（2004-現在）**
@@ -221,9 +221,9 @@
 
   -
     1位 [ミルトン・キーンズ・ドンズ](../Page/ミルトン・キーンズ・ドンズFC.md "wikilink")
-    2位 [ピーターバラ・ユナイテッド](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink")
+    2位 [ピーターバラ・ユナイテッド](../Page/ピーターバラ・ユナイテッドFC.md "wikilink")
     3位 [ヘレフォード・ユナイテッド](../Page/ヘレフォード・ユナイテッドFC.md "wikilink")
-    プレーオフ勝者 [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink")
+    プレーオフ勝者 [ストックポート・カウンティ](../Page/ストックポート・カウンティFC.md "wikilink")
 
 <!-- end list -->
 
@@ -233,8 +233,8 @@
 
   -
     1位 [ブレントフォード](../Page/ブレントフォードFC.md "wikilink")
-    2位 [エクセター・シティ](https://ja.wikipedia.org/wiki/エクセター・シティFC "wikilink")
-    3位 [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")
+    2位 [エクセター・シティ](../Page/エクセター・シティFC.md "wikilink")
+    3位 [ウィコム・ワンダラーズ](../Page/ウィコム・ワンダラーズFC.md "wikilink")
     プレーオフ勝者 [ジリンガム](../Page/ジリンガムFC.md "wikilink")
 
 <!-- end list -->
@@ -258,7 +258,7 @@
   -
     1位 [チェスターフィールド](../Page/チェスターフィールドFC.md "wikilink")
     2位 [ベリー](../Page/ベリーFC.md "wikilink")
-    3位 [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")
+    3位 [ウィコム・ワンダラーズ](../Page/ウィコム・ワンダラーズFC.md "wikilink")
     プレーオフ勝者 [スティヴネイジ・ボロ](https://ja.wikipedia.org/wiki/スティブネイジFC "wikilink")
 
 <!-- end list -->
@@ -270,7 +270,7 @@
   -
     1位 [スウィンドン・タウン](../Page/スウィンドン・タウンFC.md "wikilink")
     2位 [シュルーズベリー・タウン](../Page/シュルーズベリー・タウンFC.md "wikilink")
-    3位 [クローリー・タウン](https://ja.wikipedia.org/wiki/クローリー・タウンFC "wikilink")
+    3位 [クローリー・タウン](../Page/クローリー・タウンFC.md "wikilink")
     プレーオフ勝者 [クルー・アレクサンドラ](../Page/クルー・アレクサンドラFC.md "wikilink")
 
 <!-- end list -->
@@ -304,7 +304,7 @@
 <!-- end list -->
 
   -
-    1位 [バートン・アルビオン](https://ja.wikipedia.org/wiki/バートン・アルビオンFC "wikilink")
+    1位 [バートン・アルビオン](../Page/バートン・アルビオンFC.md "wikilink")
     2位 [シュルーズベリー・タウン](../Page/シュルーズベリー・タウンFC.md "wikilink")
     3位 [ベリー](../Page/ベリーFC.md "wikilink")
     プレーオフ勝者 [サウスエンド・ユナイテッド](../Page/サウスエンド・ユナイテッドFC.md "wikilink")
@@ -317,7 +317,7 @@
 
   -
     1位 [ノーサンプトン・タウン](../Page/ノーサンプトン・タウンFC.md "wikilink")
-    2位 [オックスフォード・ユナイテッド](https://ja.wikipedia.org/wiki/オックスフォード・ユナイテッドFC "wikilink")
+    2位 [オックスフォード・ユナイテッド](../Page/オックスフォード・ユナイテッドFC.md "wikilink")
     3位 [ブリストル・ローヴァーズ](../Page/ブリストル・ローヴァーズFC.md "wikilink")
     プレーオフ勝者 [ウィンブルドン](../Page/AFCウィンブルドン.md "wikilink")
 
@@ -342,7 +342,7 @@
   -
     1位 [アクリントン・スタンリー](../Page/アクリントン・スタンリーFC.md "wikilink")
     2位 [ルートン・タウン](../Page/ルートン・タウンFC.md "wikilink")
-    3位 [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink")
+    3位 [ウィコム・ワンダラーズ](../Page/ウィコム・ワンダラーズFC.md "wikilink")
     プレーオフ勝者 [コヴェントリー・シティ](../Page/コヴェントリー・シティFC.md "wikilink")
 
 <!-- end list -->
@@ -375,7 +375,7 @@
 <!-- end list -->
 
   -
-    23位 [エクセター・シティ](https://ja.wikipedia.org/wiki/エクセター・シティFC "wikilink")
+    23位 [エクセター・シティ](../Page/エクセター・シティFC.md "wikilink")
     24位 [シュルーズベリー・タウン](../Page/シュルーズベリー・タウンFC.md "wikilink")
 
 **リーグ2**（2004-現在）
@@ -386,7 +386,7 @@
 
   -
     23位 [カーライル・ユナイテッド](../Page/カーライル・ユナイテッドFC.md "wikilink")
-    24位 [ヨーク・シティ](https://ja.wikipedia.org/wiki/ヨーク・シティFC "wikilink")
+    24位 [ヨーク・シティ](../Page/ヨーク・シティFC.md "wikilink")
 
 <!-- end list -->
 
@@ -395,8 +395,8 @@
 <!-- end list -->
 
   -
-    23位 [キダーミンスター・ハリアーズ](https://ja.wikipedia.org/wiki/キダーミンスター・ハリアーズFC "wikilink")
-    24位 [ケンブリッジ・ユナイテッド](https://ja.wikipedia.org/wiki/ケンブリッジ・ユナイテッドFC "wikilink")
+    23位 [キダーミンスター・ハリアーズ](../Page/キダーミンスター・ハリアーズFC.md "wikilink")
+    24位 [ケンブリッジ・ユナイテッド](../Page/ケンブリッジ・ユナイテッドFC.md "wikilink")
 
 <!-- end list -->
 
@@ -405,8 +405,8 @@
 <!-- end list -->
 
   -
-    23位 [オックスフォード・ユナイテッド](https://ja.wikipedia.org/wiki/オックスフォード・ユナイテッドFC "wikilink")
-    24位 [ラシュデン・アンド・ダイアモンズ](https://ja.wikipedia.org/wiki/ラシュデン・アンド・ダイアモンズFC "wikilink")
+    23位 [オックスフォード・ユナイテッド](../Page/オックスフォード・ユナイテッドFC.md "wikilink")
+    24位 [ラシュデン・アンド・ダイアモンズ](../Page/ラシュデン・アンド・ダイアモンズFC.md "wikilink")
 
 <!-- end list -->
 
@@ -416,7 +416,7 @@
 
   -
     23位 [ボストン・ユナイテッド](../Page/ボストン・ユナイテッドFC.md "wikilink")
-    24位 [トーキー・ユナイテッド](https://ja.wikipedia.org/wiki/トーキー・ユナイテッドFC "wikilink")
+    24位 [トーキー・ユナイテッド](../Page/トーキー・ユナイテッドFC.md "wikilink")
 
 <!-- end list -->
 
@@ -426,7 +426,7 @@
 
   -
     23位 [マンスフィールド・タウン](../Page/マンスフィールド・タウンFC.md "wikilink")
-    24位 [レクサム](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")
+    24位 [レクサム](../Page/レクサムFC.md "wikilink")
 
 <!-- end list -->
 
@@ -456,7 +456,7 @@
 
   -
     23位 [リンカーン・シティ](../Page/リンカーン・シティFC.md "wikilink")
-    24位 [ストックポート・カウンティ](https://ja.wikipedia.org/wiki/ストックポート・カウンティFC "wikilink")
+    24位 [ストックポート・カウンティ](../Page/ストックポート・カウンティFC.md "wikilink")
 
 <!-- end list -->
 
@@ -486,7 +486,7 @@
 
   -
     23位 [ブリストル・ローヴァーズ](../Page/ブリストル・ローヴァーズFC.md "wikilink")
-    24位 [トーキー・ユナイテッド](https://ja.wikipedia.org/wiki/トーキー・ユナイテッドFC "wikilink")
+    24位 [トーキー・ユナイテッド](../Page/トーキー・ユナイテッドFC.md "wikilink")
 
 <!-- end list -->
 
@@ -506,7 +506,7 @@
 
   -
     23位 [ダゲナム・アンド・レッドブリッジ](../Page/ダゲナム・アンド・レッドブリッジFC.md "wikilink")
-    24位 [ヨーク・シティ](https://ja.wikipedia.org/wiki/ヨーク・シティFC "wikilink")
+    24位 [ヨーク・シティ](../Page/ヨーク・シティFC.md "wikilink")
 
 <!-- end list -->
 
@@ -577,7 +577,7 @@
 <tr class="odd">
 <td><p>2007–08</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アーロン・マクリーン" title="wikilink">アーロン・マクリーン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC" title="wikilink">ピーターバラ・ユナイテッド</a></p></td>
+<td><p><a href="../Page/ピーターバラ・ユナイテッドFC.md" title="wikilink">ピーターバラ・ユナイテッド</a></p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">

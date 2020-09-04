@@ -188,7 +188,7 @@ AD St.に参加者が入りきらない場合は、[AD Cafe.](https://ja.wikiped
 1.  Wind☆Voice\!\!（作詞：成瀬未亜 with 新堂真弓、歌：成瀬未亜、新堂真弓）
 2.  Chu☆Chu☆Radio（作詞：新堂真弓 with 成瀬未亜、歌：成瀬未亜、新堂真弓）
 
-[コミックマーケット](../Page/コミックマーケット.md "wikilink")73で先行発売された。その後は[ADスクエアで取り扱われた他](https://ja.wikipedia.org/wiki/DEMPAビル "wikilink")、[コミックとらのあな](../Page/コミックとらのあな.md "wikilink")、[メロンブックス](../Page/メロンブックス.md "wikilink")、[ホワイトキャンバス](https://ja.wikipedia.org/wiki/ホワイトキャンバス "wikilink")、[あきばお〜](https://ja.wikipedia.org/wiki/あきばお〜 "wikilink")、[メッセサンオー](../Page/メッセサンオー.md "wikilink")での[委託販売](../Page/委託販売.md "wikilink")も行われた。また、第2期の公開録音で、終了時に行われた物販でも取り扱われた。
+[コミックマーケット](../Page/コミックマーケット.md "wikilink")73で先行発売された。その後は[ADスクエアで取り扱われた他](https://ja.wikipedia.org/wiki/DEMPAビル "wikilink")、[コミックとらのあな](../Page/コミックとらのあな.md "wikilink")、[メロンブックス](../Page/メロンブックス.md "wikilink")、[ホワイトキャンバス](https://ja.wikipedia.org/wiki/ホワイトキャンバス "wikilink")、[あきばお〜](../Page/あきばお〜.md "wikilink")、[メッセサンオー](../Page/メッセサンオー.md "wikilink")での[委託販売](../Page/委託販売.md "wikilink")も行われた。また、第2期の公開録音で、終了時に行われた物販でも取り扱われた。
 
 [ジャケットイラストは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ゆずソフト](../Page/ゆずソフト.md "wikilink")の[こぶいち](https://ja.wikipedia.org/wiki/こぶいち "wikilink")、[むりりん](https://ja.wikipedia.org/wiki/むりりん "wikilink")が担当。パーソナリティの成瀬、新堂をモチーフにしており、2人の背には妖精の[羽根](https://ja.wikipedia.org/wiki/羽根 "wikilink")がうっすらと描かれている。
 
@@ -198,7 +198,7 @@ AD St.に参加者が入りきらない場合は、[AD Cafe.](https://ja.wikiped
 
 ## エピソード
 
-  - 2007年[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")、[サイカンゲームズ](https://ja.wikipedia.org/wiki/サイカンゲームズ "wikilink")ブースで配られた[AkibaDog+](https://ja.wikipedia.org/wiki/AkibaDog+ "wikilink")創刊準備号（Volume 00）を見ると、元々は「[Tír na n-Óg](https://ja.wikipedia.org/wiki/ティルナノーグ "wikilink")」（和名: ティルナノーグ）というタイトルを予定していた模様。おそらく[商標](../Page/商標.md "wikilink")的な問題で現行の名称に変更したものと思われる。
+  - 2007年[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")、[サイカンゲームズ](../Page/サイカンゲームズ.md "wikilink")ブースで配られた[AkibaDog+](https://ja.wikipedia.org/wiki/AkibaDog+ "wikilink")創刊準備号（Volume 00）を見ると、元々は「[Tír na n-Óg](https://ja.wikipedia.org/wiki/ティルナノーグ "wikilink")」（和名: ティルナノーグ）というタイトルを予定していた模様。おそらく[商標](../Page/商標.md "wikilink")的な問題で現行の名称に変更したものと思われる。
   - 収録会場には[ホワイトボード](../Page/ホワイトボード.md "wikilink")が設置され、毎回パーソナリティ2人によるイラストと収録参加者によるメッセージの寄せ書きが行われた。
   - 第1回放送の「AD Cafe\!あどベンチャー\!\!」で、店長に聞いた「ADスクエアの素敵なところ」を当てるクイズが実施された。このとき、正解に「WindVoiceの公録をやっている」が入っていない一方で、「店長がかっこいい」が入っていた。これが元で店長ネタが増え、会場の笑いを誘っていた。
   - 「AD Cafe\!あどベンチャー\!\!」でパーソナリティの2人が考案した内容をもとにした[クリスマス](../Page/クリスマス.md "wikilink")メニューが、AD Cafe.で2007年のクリスマス期間および[コミックマーケット](../Page/コミックマーケット.md "wikilink")73期間限定で提供された。用意していた分が即完売するほどの人気だった。

@@ -49,8 +49,8 @@
   - [川井村](../Page/川井村_\(岩手県\).md "wikilink")
   - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [NHK陸中川井中継局](../Page/NHK陸中川井中継局.md "wikilink")
-  - [NHK陸中山形テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中山形テレビ中継局 "wikilink")
-  - [NHK陸中山形関テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中山形関テレビ中継局 "wikilink")
+  - [NHK陸中山形テレビ中継局](../Page/NHK陸中山形テレビ中継局.md "wikilink")
+  - [NHK陸中山形関テレビ中継局](../Page/NHK陸中山形関テレビ中継局.md "wikilink")
 
 ## 外部リンク
 

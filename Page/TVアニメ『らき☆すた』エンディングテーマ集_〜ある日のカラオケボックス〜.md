@@ -76,7 +76,7 @@
 19. **[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")（2000年）** \[5:09\]
       -
         歌：高良みゆき
-        作詞・作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲:[瀬尾一三](../Page/瀬尾一三.md "wikilink")
+        作詞・作曲：[中島みゆき](../Page/中島みゆき.md "wikilink")、編曲:[瀬尾一三](../Page/瀬尾一三.md "wikilink")
 20. **[MONKEY MAGIC](../Page/Monkey_Magic.md "wikilink")（1979年）** \[4:46\]
       -
         歌：泉こなた
@@ -126,7 +126,7 @@
   - 「[MONKEY MAGIC](https://ja.wikipedia.org/wiki/MONKEY_MAGIC "wikilink")」
     8曲目と20曲目の「MONKEY MAGIC」は、正確には「THE BIRTH OF THE ODYSSEY〜MONKEY MAGIC」という曲で、ドラマ[｢西遊記｣オープニングの](https://ja.wikipedia.org/wiki/西遊記_\(1978年のテレビドラマ\) "wikilink")「天地創造から孫悟空誕生」までに使用された「THE BIRTH OF THE ODYSSEY」という曲の後に、[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")（元歌の歌唱バンド）のベースの[スティーヴ・フォックス](../Page/スティーブ・フォックス_\(日本のミュージシャン\).md "wikilink")（ライブでは、ドラムの[トミー・スナイダー](../Page/トミー・スナイダー.md "wikilink")が主にやっている）の「アチャー\!」の叫び声（こなたが真似していた）とともに「MONKEY MAGIC」に入る。これはアルバム『[MAGIC MONKEY（西遊記）](../Page/西遊記_\(サウンドトラック\).md "wikilink")』のバージョンである。このため歌が始まるまで1分以上かかり、ドラマパートではかがみからは「長いイントロね」と言われているが、通常の「MONKEY MAGIC」では、「アチャー\!」から始まるため、それほど時間はかからない。これは後述の通り歌詞が全て英語であり、ドラマパートではこなたが歌が始まった後に即切りするため、通常の「MONKEY MAGIC」では短過ぎるからであると思われる。また「THE BIRTH OF THE ODYSSEY」は[ミッキー吉野](../Page/ミッキー吉野.md "wikilink")が作曲したため、この曲はタケカワが全て作曲したわけではない。
   - 「[宇宙鉄人キョーダイン](https://ja.wikipedia.org/wiki/宇宙鉄人キョーダイン_\(曲\) "wikilink")」「[勝利だ\!アクマイザー3](https://ja.wikipedia.org/wiki/勝利だ!アクマイザー3 "wikilink")」
-    [小説版では](https://ja.wikipedia.org/wiki/らき☆すた_\(小説\) "wikilink")、「キョー（キョーダイン）」「ア（アクマイザー3）」で「ニ」の[京アニとならなかった事に対し](../Page/京都アニメーション.md "wikilink")、小説版のこなたがアニメ版のこなたにガッカリするシーンが存在する。また、偶然にも、『[仮面ライダーフォーゼ THE MOVIE みんなで宇宙キターッ\!](https://ja.wikipedia.org/wiki/仮面ライダーフォーゼ_THE_MOVIE_みんなで宇宙キターッ! "wikilink")』『[仮面ライダー×仮面ライダー ウィザード&フォーゼ MOVIE大戦アルティメイタム](https://ja.wikipedia.org/wiki/仮面ライダー×仮面ライダー_ウィザード&フォーゼ_MOVIE大戦アルティメイタム "wikilink")』と、『[仮面ライダーフォーゼ](https://ja.wikipedia.org/wiki/仮面ライダーフォーゼ "wikilink")』の映画作品ではキョーダインとアクマイザーが本作と同じ順番で敵としてリメイクされている。
+    [小説版では](../Page/らき☆すた_\(小説\).md "wikilink")、「キョー（キョーダイン）」「ア（アクマイザー3）」で「ニ」の[京アニとならなかった事に対し](../Page/京都アニメーション.md "wikilink")、小説版のこなたがアニメ版のこなたにガッカリするシーンが存在する。また、偶然にも、『[仮面ライダーフォーゼ THE MOVIE みんなで宇宙キターッ\!](https://ja.wikipedia.org/wiki/仮面ライダーフォーゼ_THE_MOVIE_みんなで宇宙キターッ! "wikilink")』『[仮面ライダー×仮面ライダー ウィザード&フォーゼ MOVIE大戦アルティメイタム](https://ja.wikipedia.org/wiki/仮面ライダー×仮面ライダー_ウィザード&フォーゼ_MOVIE大戦アルティメイタム "wikilink")』と、『[仮面ライダーフォーゼ](https://ja.wikipedia.org/wiki/仮面ライダーフォーゼ "wikilink")』の映画作品ではキョーダインとアクマイザーが本作と同じ順番で敵としてリメイクされている。
   - 「[木枯しに抱かれて](../Page/木枯しに抱かれて_\(小泉今日子の曲\).md "wikilink")」
     本作では泉こなた演じる平野綾がカバーしているが、平野はアイドルユニット「[Springs](../Page/Springs.md "wikilink")」時代の[2003年](../Page/2003年.md "wikilink")にも「[木枯しに抱かれて](../Page/木枯しに抱かれて_\(小泉今日子の曲\).md "wikilink")」をカバーしたことがある。本作のアウトロで「色々とゆかりがある曲でして」「何個かキーあげたやつがよく覚えてるやつで」と言っているのは、このことである。
   - 「[セーラー服と機関銃](../Page/セーラー服と機関銃_\(曲\).md "wikilink")」

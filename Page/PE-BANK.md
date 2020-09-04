@@ -76,7 +76,7 @@
 <li>株式会社<a href="https://ja.wikipedia.org/wiki/HBA_(企業)" title="wikilink">HBA</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/NECシステムテクノロジー" title="wikilink">NECシステムテクノロジー</a>株式会社</li>
+<li><a href="../Page/NECシステムテクノロジー.md" title="wikilink">NECシステムテクノロジー</a>株式会社</li>
 <li>株式会社<a href="https://ja.wikipedia.org/wiki/日立ソリューションズ" title="wikilink">日立ソリューションズ</a></li>
 <li>株式会社<a href="../Page/野村総合研究所.md" title="wikilink">野村総合研究所</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/株式会社リクルート" title="wikilink">株式会社リクルート</a></li>

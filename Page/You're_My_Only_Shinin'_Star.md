@@ -7,11 +7,11 @@
 
 ### 解説
 
-  - 前年10月発売の前作「[CATCH ME](../Page/CATCH_ME_\(中山美穂の曲\).md "wikilink")」に続き[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")を[プロデューサー](../Page/プロデューサー.md "wikilink")に迎え、2作連続でオリコン1位を獲得した。[1988年](../Page/1988年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")付[オリコンチャート](../Page/オリコンチャート.md "wikilink")で、当シングル及びアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』のLP、カセット、CD各部門で1位を獲得した。
+  - 前年10月発売の前作「[CATCH ME](../Page/CATCH_ME_\(中山美穂の曲\).md "wikilink")」に続き[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")を[プロデューサー](../Page/プロデューサー.md "wikilink")に迎え、2作連続でオリコン1位を獲得した。[1988年](../Page/1988年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")付[オリコンチャート](../Page/オリコンチャート.md "wikilink")で、当シングル及びアルバム『[CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")』のLP、カセット、CD各部門で1位を獲得した。
   - 1988年3月21日発売のCDシングルでは1曲目がCATCH MEとなっている。
   - この年の[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")金賞受賞。
-  - [2001年](../Page/2001年.md "wikilink")にベストアルバム『[YOUR SELECTION](https://ja.wikipedia.org/wiki/YOUR_SELECTION "wikilink")』をリリースするにあたり、収録曲を決める為に[ホームページ](../Page/ホームページ.md "wikilink")上で行った投票ではシングルA面曲で1位になった。
-  - 元々は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月発売の3枚目のアルバム『[SUMMER BREEZE](https://ja.wikipedia.org/wiki/SUMMER_BREEZE "wikilink")』に収録されていた楽曲だったが、本人が好んでいた曲であったこととファン人気が高かったことから再レコーディングをし、シングル・バージョンとしてリリースした。なお、『SUMMER BREEZE』バージョンがシングル・バージョン発売前に本人主演の[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ママはアイドル](../Page/ママはアイドル.md "wikilink")』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")に採用されるなどして認知度もあった。シングル・カット以降もさらに再レコーディングが繰り返されて、複数のアルバムにバージョン違いが収録されている。
+  - [2001年](../Page/2001年.md "wikilink")にベストアルバム『[YOUR SELECTION](../Page/YOUR_SELECTION.md "wikilink")』をリリースするにあたり、収録曲を決める為に[ホームページ](../Page/ホームページ.md "wikilink")上で行った投票ではシングルA面曲で1位になった。
+  - 元々は[1986年](../Page/1986年.md "wikilink")7月発売の3枚目のアルバム『[SUMMER BREEZE](../Page/SUMMER_BREEZE.md "wikilink")』に収録されていた楽曲だったが、本人が好んでいた曲であったこととファン人気が高かったことから再レコーディングをし、シングル・バージョンとしてリリースした。なお、『SUMMER BREEZE』バージョンがシングル・バージョン発売前に本人主演の[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ママはアイドル](../Page/ママはアイドル.md "wikilink")』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")に採用されるなどして認知度もあった。シングル・カット以降もさらに再レコーディングが繰り返されて、複数のアルバムにバージョン違いが収録されている。
 
 ### 収録曲
 
@@ -26,17 +26,17 @@
 
 **You're My Only Shinin' Star**
 
-  - [SUMMER BREEZE](https://ja.wikipedia.org/wiki/SUMMER_BREEZE "wikilink") - 初版('86 Album Version)
+  - [SUMMER BREEZE](../Page/SUMMER_BREEZE.md "wikilink") - 初版('86 Album Version)
   - [Ballads](../Page/Ballads_\(中山美穂のアルバム\).md "wikilink")
-  - [Hide'n' Seek](https://ja.wikipedia.org/wiki/Hide'n'_Seek "wikilink") - "Present from Miho" としてピアノをバックに新録
+  - [Hide'n' Seek](../Page/Hide'n'_Seek.md "wikilink") - "Present from Miho" としてピアノをバックに新録
   - [COLLECTION II](../Page/COLLECTION_II.md "wikilink")
   - [Miho's Select](../Page/Miho's_Select.md "wikilink") - 「'91 You're My Only Shinin' Star」としてエレクトリックギターをバックに新録
   - [Dramatic Songs](../Page/Dramatic_Songs.md "wikilink")
   - [Blanket Privacy](../Page/Blanket_Privacy.md "wikilink") - 「You're My Only Shinin' Star '93」としてアカペラバージョンを収録
-  - [Pure White Live '94](https://ja.wikipedia.org/wiki/Pure_White_Live_'94 "wikilink")（限定盤） - ライブ音源（シングルメドレー）
+  - [Pure White Live '94](../Page/Pure_White_Live_'94.md "wikilink")（限定盤） - ライブ音源（シングルメドレー）
   - [TREASURY](../Page/TREASURY.md "wikilink")
   - [THE REMIXES MIHO NAKAYAMA MEETS New York GROOVE](https://ja.wikipedia.org/wiki/THE_REMIXES_MIHO_NAKAYAMA_MEETS_New_York_GROOVE "wikilink") - シングル・バージョンのボーカルを基にリミックス
-  - [YOUR SELECTION 1](https://ja.wikipedia.org/wiki/YOUR_SELECTION "wikilink")
+  - [YOUR SELECTION 1](../Page/YOUR_SELECTION.md "wikilink")
   - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
   - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")
   - [中山美穂 パーフェクト・ベスト2](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト2 "wikilink") - 初版バージョン
@@ -53,7 +53,7 @@
 
 {{-}} **SHERRY**
 
-  - [CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")
+  - [CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")
   - [Ballads](../Page/Ballads_\(中山美穂のアルバム\).md "wikilink")
   - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
   - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")
@@ -62,9 +62,9 @@
 
 ### 解説
 
-「You're My Only Shinin' Star」は以前、バラード・ベスト・アルバム『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[1\]への収録に際し、当時16歳だった中山美穂の心情を想像しながら書いた歌詞を、30代の男性である自分が歌うのに照れを覚え、新たに書き下ろされた英語詞で[セルフカヴァーしていた](../Page/セルフカバー.md "wikilink")。、“これまで女性アーティストに提供してきた女心の数々をシンガーとして唄いあげる”というというコンセプトのセルフカヴァー・アルバム『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』\[2\]に、オリジナルの日本詞でリテイクされた。本作にはシングル・ヴァージョンで収録のほか、同一のバック・トラックを使用した英語版も併せて収録されている。にはバラード・ベスト・アルバム『[Players Presents TOSHIKI KADOMATSU Ballad Collection](https://ja.wikipedia.org/wiki/Players_Presents_TOSHIKI_KADOMATSU_Ballad_Collection "wikilink")』\[3\]に、[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")のプロデュースで再度リテイクされた。
+「You're My Only Shinin' Star」は以前、バラード・ベスト・アルバム『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[1\]への収録に際し、当時16歳だった中山美穂の心情を想像しながら書いた歌詞を、30代の男性である自分が歌うのに照れを覚え、新たに書き下ろされた英語詞で[セルフカヴァーしていた](../Page/セルフカバー.md "wikilink")。、“これまで女性アーティストに提供してきた女心の数々をシンガーとして唄いあげる”というというコンセプトのセルフカヴァー・アルバム『[The gentle sex](../Page/The_gentle_sex.md "wikilink")』\[2\]に、オリジナルの日本詞でリテイクされた。本作にはシングル・ヴァージョンで収録のほか、同一のバック・トラックを使用した英語版も併せて収録されている。にはバラード・ベスト・アルバム『[Players Presents TOSHIKI KADOMATSU Ballad Collection](https://ja.wikipedia.org/wiki/Players_Presents_TOSHIKI_KADOMATSU_Ballad_Collection "wikilink")』\[3\]に、[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")のプロデュースで再度リテイクされた。
 
-「花瓶」は角松プロデュースによる中山美穂のアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』収録曲で、シングル「[もう一度…and then](../Page/もう一度…and_then.md "wikilink")」\[4\]にてセルフ・カヴァーされ、後にバラード・ベスト・アルバム『TEARS BALLAD』\[5\]にボーカルのリテイクにて収録された。本作にはセルフカヴァー・アルバム『The gentle sex』\[6\]の先行シングルとして、シングル・ヴァージョンで収録された。
+「花瓶」は角松プロデュースによる中山美穂のアルバム『[CATCH THE NITE](../Page/CATCH_THE_NITE.md "wikilink")』収録曲で、シングル「[もう一度…and then](../Page/もう一度…and_then.md "wikilink")」\[4\]にてセルフ・カヴァーされ、後にバラード・ベスト・アルバム『TEARS BALLAD』\[5\]にボーカルのリテイクにて収録された。本作にはセルフカヴァー・アルバム『The gentle sex』\[6\]の先行シングルとして、シングル・ヴァージョンで収録された。
 
 「君という名の僕におしえたい」は『The gentle sex』\[7\]に収録された唯一の新曲。本作では“Introduction”としてショート・ヴァージョンが収録されている。
 
@@ -354,7 +354,7 @@ NOBBY ASAI (BMG FUNHOUSE)</p></td>
 [Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:角松敏生の楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生の楽曲 "wikilink") [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:1986年の楽曲](https://ja.wikipedia.org/wiki/Category:1986年の楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:1988年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:IDEAKのシングル](https://ja.wikipedia.org/wiki/Category:IDEAKのシングル "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")
 
 1.  『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』 発売 OM ⁄ [BMG VICTOR](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink") CD:BVCR-65
-2.  『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』 発売 IDEAK ⁄ [BMG FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMG_JAPAN（BMGファンハウス） "wikilink") CD:BVCR-11016
+2.  『[The gentle sex](../Page/The_gentle_sex.md "wikilink")』 発売 IDEAK ⁄ [BMG FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMG_JAPAN（BMGファンハウス） "wikilink") CD:BVCR-11016
 3.  『[Players Presents TOSHIKI KADOMATSU Ballad Collection](https://ja.wikipedia.org/wiki/Players_Presents_TOSHIKI_KADOMATSU_Ballad_Collection "wikilink")』 発売 IDEAK ⁄ [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") CD:BVCR-11112
 4.  「[もう一度…and then](../Page/もう一度…and_then.md "wikilink")」 発売 OM ⁄ BMG VICTOR SCD:M10D-102
 5.

@@ -40,7 +40,7 @@ PRIDE2戦目の[ダン・ヘンダーソン](../Page/ダン・ヘンダーソン
     3R終了 判定3-0
   - 第8試合 PRIDEルール 1R10分、2R・3R5分
     ○  [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink") vs.  [桜庭和志](../Page/桜庭和志.md "wikilink") ×
-    1R 1:38 TKO（レフェリーストップ：[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")）
+    1R 1:38 TKO（レフェリーストップ：[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")）
 
 ## 関連項目
 

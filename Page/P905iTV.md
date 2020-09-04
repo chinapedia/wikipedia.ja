@@ -27,14 +27,14 @@
   - カメラ機能
     サブカメラを備えていないため、テレビ電話で自分の顔を送信することは不可能。P905iの約510万画素CMOSに対し、カメラの機能も約200万画素[CMOSカメラとスペックを抑えられている](https://ja.wikipedia.org/wiki/CMOSイメージセンサー "wikilink")。
 
-| 主な対応サービス                                                                                                                |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")                        |
-| [直感ゲーム](../Page/直感ゲーム.md "wikilink")\[1\]／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")                     |
-| [FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")                                                                          |
-| [着もじ](../Page/着もじ.md "wikilink")                                                                                        |
-| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／[バイオ認証](../Page/バイオ認証.md "wikilink")                        |
-| [きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")／~~[マチキャラ](https://ja.wikipedia.org/wiki/マチキャラ "wikilink")~~ |
+| 主な対応サービス                                                                                             |
+| ---------------------------------------------------------------------------------------------------- |
+| [DCMX](https://ja.wikipedia.org/wiki/DCMX "wikilink")／[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")     |
+| [直感ゲーム](../Page/直感ゲーム.md "wikilink")\[1\]／[メガiアプリ](https://ja.wikipedia.org/wiki/メガiアプリ "wikilink")  |
+| [FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")                                                       |
+| [着もじ](../Page/着もじ.md "wikilink")                                                                     |
+| [おまかせロック](https://ja.wikipedia.org/wiki/おまかせロック "wikilink")／[バイオ認証](../Page/バイオ認証.md "wikilink")     |
+| [きせかえツール](https://ja.wikipedia.org/wiki/きせかえツール "wikilink")／~~[マチキャラ](../Page/マチキャラ.md "wikilink")~~ |
 
 <div class="references-small">
 

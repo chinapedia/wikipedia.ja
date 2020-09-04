@@ -9,7 +9,7 @@
 
 POS編成（384000形）は両端2両の[動力車](../Page/動力車.md "wikilink")と中間8両の[連接](../Page/連接台車.md "wikilink")[客車](../Page/客車.md "wikilink")（[付随車](../Page/付随車.md "wikilink")）の計10両で組成される。編成長は200.190 [m](../Page/メートル.md "wikilink")、車体幅は2,904 [mm](../Page/ミリメートル.md "wikilink")、空車時の編成重量は383 [t](../Page/トン.md "wikilink")、最高速度は320 [km/hである](../Page/キロメートル毎時.md "wikilink")。SNCFの[電化方式である](../Page/鉄道の電化.md "wikilink")[交流](../Page/交流電化.md "wikilink")25,000 [V](../Page/ボルト_\(単位\).md "wikilink") 50 [Hz](../Page/ヘルツ.md "wikilink")・[直流](../Page/直流電化.md "wikilink")1,500 Vと、DB・スイス国鉄の電化方式である交流15,000 V 16.7 Hzの3電源に対応する。
 
-動力車の形状は[Duplex編成と同一の流線型で](https://ja.wikipedia.org/wiki/TGV_Duplex "wikilink")、[運転台は車体中央に配置されている](../Page/操縦席.md "wikilink")。ただし[構体は](https://ja.wikipedia.org/wiki/構体_\(鉄道車両\) "wikilink")[鋼](../Page/鋼.md "wikilink")製から[アルミ合金製に変更された](../Page/アルミニウム合金.md "wikilink")。
+動力車の形状は[Duplex編成と同一の流線型で](../Page/TGV_Duplex.md "wikilink")、[運転台は車体中央に配置されている](../Page/操縦席.md "wikilink")。ただし[構体は](https://ja.wikipedia.org/wiki/構体_\(鉄道車両\) "wikilink")[鋼](../Page/鋼.md "wikilink")製から[アルミ合金製に変更された](../Page/アルミニウム合金.md "wikilink")。
 
 動力車の制御方式は[Atlantique編成以降で実績のある](../Page/TGV_Atlantique.md "wikilink")[VVVFインバータ制御であるが](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")、制御装置の使用[素子は](../Page/半導体素子.md "wikilink")[GTOサイリスタに代わり](../Page/ゲートターンオフサイリスタ.md "wikilink")、[IGBTとされた](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")。[主電動機](https://ja.wikipedia.org/wiki/主電動機 "wikilink")についても[同期電動機](../Page/同期電動機.md "wikilink")から、[ユーロスター](../Page/ユーロスター.md "wikilink")向けに開発された[TMST](../Page/イギリス国鉄373形電車.md "wikilink")（373形）編成と同様の[三相誘導電動機に変更されている](../Page/かご形三相誘導電動機.md "wikilink")。交流25,000 V区間における主電動機1基あたりの出力は1,160 [kW](../Page/ワット.md "wikilink")、編成出力は9,280 kWである。
 

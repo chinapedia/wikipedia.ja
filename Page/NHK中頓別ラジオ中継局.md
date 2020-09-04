@@ -6,7 +6,7 @@
 ## 概要
 
   - 当中継局は、枝幸郡中頓別町中頓別に置かれ、中頓別町内など、[宗谷管内南部地域に電波を発射している](https://ja.wikipedia.org/wiki/宗谷総合振興局 "wikilink")。
-  - なお、在札[民放ラジオ局については](../Page/民間放送.md "wikilink")、[稚内ラジオ中継局](../Page/稚内ラジオ中継局.md "wikilink")、[名寄ラジオ中継局](../Page/名寄ラジオ中継局.md "wikilink")、[遠別ラジオ中継局](../Page/遠別ラジオ中継局.md "wikilink")、[網走ラジオ放送所などを受信している](https://ja.wikipedia.org/wiki/網走送信所#NHK網走ラジオ放送所 "wikilink")。しかし、[浜頓別町](../Page/浜頓別町.md "wikilink")・[枝幸町](../Page/枝幸町.md "wikilink")・中頓別町では現在も民放ラジオ局（[HBCラジオ](../Page/HBCラジオ.md "wikilink")・[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）の中継局の設置を要望している\[1\]\[2\]\[3\]。
+  - なお、在札[民放ラジオ局については](../Page/民間放送.md "wikilink")、[稚内ラジオ中継局](../Page/稚内ラジオ中継局.md "wikilink")、[名寄ラジオ中継局](../Page/名寄ラジオ中継局.md "wikilink")、[遠別ラジオ中継局](../Page/遠別ラジオ中継局.md "wikilink")、[網走ラジオ放送所などを受信している](https://ja.wikipedia.org/wiki/網走送信所#NHK網走ラジオ放送所 "wikilink")。しかし、[浜頓別町](../Page/浜頓別町.md "wikilink")・[枝幸町](../Page/枝幸町.md "wikilink")・中頓別町では現在も民放ラジオ局（[HBCラジオ](../Page/HBCラジオ.md "wikilink")・[STVラジオ](../Page/STVラジオ.md "wikilink")）の中継局の設置を要望している\[1\]\[2\]\[3\]。
 
 ## 中継局概要
 
@@ -57,7 +57,7 @@
 ## 関連項目
 
   - [中頓別町](../Page/中頓別町.md "wikilink")
-  - [知駒中継局](https://ja.wikipedia.org/wiki/知駒中継局 "wikilink")
+  - [知駒中継局](../Page/知駒中継局.md "wikilink")
   - [NHK旭川放送局](../Page/NHK旭川放送局.md "wikilink")
 
 [Category:留萌・宗谷地方の放送送信所](https://ja.wikipedia.org/wiki/Category:留萌・宗谷地方の放送送信所 "wikilink") [Category:NHK旭川](https://ja.wikipedia.org/wiki/Category:NHK旭川 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:中頓別町の建築物](https://ja.wikipedia.org/wiki/Category:中頓別町の建築物 "wikilink")

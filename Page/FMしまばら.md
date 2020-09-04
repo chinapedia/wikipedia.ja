@@ -219,7 +219,7 @@
 1.  [コミュニティ放送事業者](http://www.tele.soumu.go.jp/j/sys/media/index/comunity.htm) マスメディア集中排除原則について（総務省電波利用ホームページ）
 2.  [島原市の情報をライブ配信中（FMしまばら）](http://warp.da.ndl.go.jp/info:ndljp/pid/9907949/www.city.shimabara.lg.jp/page2128.html) 島原市 最終更新日：2008年10月9日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2016年3月4日収集）
 3.  [会社概要](https://web.archive.org/web/20170709010419/http://www.shimabara.fm/company/) FMしまばら（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2017年7月9日収集）
-4.  [コミュニティ放送局に予備免許〜島原市において長崎県内５局目が開局予定〜](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kbt.go.jp/press/071029-1-1.html) [九州総合通信局](https://ja.wikipedia.org/wiki/九州総合通信局 "wikilink") 報道資料 平成19年10月29日（国立国会図書館のアーカイブ:2009年1月13日収集）
+4.  [コミュニティ放送局に予備免許〜島原市において長崎県内５局目が開局予定〜](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kbt.go.jp/press/071029-1-1.html) [九州総合通信局](../Page/九州総合通信局.md "wikilink") 報道資料 平成19年10月29日（国立国会図書館のアーカイブ:2009年1月13日収集）
 5.  [コミュニティ放送局に免許状交付〜島原市において長崎県内５局目が開局予定〜](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kbt.go.jp/press/071108-2-1.html) 同上 平成19年11月8日（同上）
 6.  [新会員社のお知らせ](https://web.archive.org/web/20080521120554/http://www.jcba.jp:80/info/info200801.html#200801-1) 日本コミュニティ放送協会 新着情報（２００８年１月）（Internet Archiveのアーカイブ:2008年5月21日収集）
 7.  [トピック](https://web.archive.org/web/20081212215231/http://www.shimabara.fm:80/topic.html) FMしまばら（同上:2008年12月12日収集）

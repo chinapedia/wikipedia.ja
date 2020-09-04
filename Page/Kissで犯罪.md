@@ -1,7 +1,7 @@
 > この記事は[Kissで犯罪](https://ja.wikipedia.org/wiki/Kissで犯罪)から翻訳されています。
 
 
-『**Kissで犯罪**』（キッスでクライム）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")ミニ[アルバム](../Page/アルバム.md "wikilink")。
+『**Kissで犯罪**』（キッスでクライム）は、[1986年](../Page/1986年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")ミニ[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 

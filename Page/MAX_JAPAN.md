@@ -64,11 +64,11 @@
 3.  [愛の才能](../Page/愛の才能.md "wikilink")／[川本真琴](https://ja.wikipedia.org/wiki/川本真琴 "wikilink")
 4.  [明日の行方](https://ja.wikipedia.org/wiki/明日の行方 "wikilink")／[SMILE](../Page/SMILE_\(バンド\).md "wikilink")
 5.  [Over Drive](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")／JUDY AND MARY
-6.  [誰より好きなのに](https://ja.wikipedia.org/wiki/誰より好きなのに "wikilink")／[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")
+6.  [誰より好きなのに](../Page/誰より好きなのに.md "wikilink")／[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")
 7.  [時がたてば](../Page/時がたてば.md "wikilink")／[THE BOOM](../Page/THE_BOOM.md "wikilink")
 8.  [Lady Generation](https://ja.wikipedia.org/wiki/Lady_Generation "wikilink")(originai Mix)／篠原涼子
 9.  [少年](https://ja.wikipedia.org/wiki/少年_\(宇都宮隆の曲\) "wikilink")／[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")
-10. [SHOOTING STAR](https://ja.wikipedia.org/wiki/SHOOTING_STAR_\(HIMの曲\) "wikilink")／[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")
+10. [SHOOTING STAR](../Page/SHOOTING_STAR_\(HIMの曲\).md "wikilink")／[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")
 11. [素敵にOnce Again](../Page/素敵にOnce_Again.md "wikilink")／松田聖子
 12. [My Love Your Love（たったひとりしかいないあなたへ）](https://ja.wikipedia.org/wiki/My_Love_Your_Love（たったひとりしかいないあなたへ） "wikilink")／渡辺美里
 13. [冬のファンタジー](https://ja.wikipedia.org/wiki/冬のファンタジー "wikilink")／[カズン](../Page/カズン_\(歌手グループ\).md "wikilink")
@@ -90,7 +90,7 @@
 11. [Thi Is ANIMETAL](https://ja.wikipedia.org/wiki/Thi_Is_ANIMETAL "wikilink")(RADIO EDIT) 宇宙戦艦ヤマト〜海のトリトン〜おれはグレートマジンガー〜誰がために／[アニメタル](../Page/アニメタル.md "wikilink")
 12. [ウルトラ リラックス](https://ja.wikipedia.org/wiki/ウルトラ_リラックス "wikilink")／[篠原ともえ](../Page/篠原ともえ.md "wikilink")
 13. [さよならゲーム](https://ja.wikipedia.org/wiki/さよならゲーム "wikilink")／[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")
-14. [フラれて元気](https://ja.wikipedia.org/wiki/フラれて元気 "wikilink")／TOKIO
+14. [フラれて元気](../Page/フラれて元気.md "wikilink")／TOKIO
 15. [V・A・C・A・T・I・O・N](https://ja.wikipedia.org/wiki/V・A・C・A・T・I・O・N "wikilink")／[吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")
 16. [Special Love](../Page/Special_Love.md "wikilink")／米米CLUB
 17. [大丈夫](https://ja.wikipedia.org/wiki/大丈夫_\(古内東子の曲\) "wikilink")／古内東子
@@ -125,7 +125,7 @@
 5.  [風の時代](https://ja.wikipedia.org/wiki/風の時代 "wikilink")／藤井フミヤ
 6.  [BEATS](https://ja.wikipedia.org/wiki/BEATS "wikilink")(Original)／[bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")
 7.  [夢のために](../Page/夢のために.md "wikilink")／PUFFY
-8.  [フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")〜remixed edition〜／[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")
+8.  [フレンズ](../Page/フレンズ_\(レベッカの曲\).md "wikilink")〜remixed edition〜／[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")
 9.  [春〜spring〜](../Page/春〜spring〜.md "wikilink")／[Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")
 10. [ひまわり](https://ja.wikipedia.org/wiki/ひまわり_\(TUBEの曲\) "wikilink")／TUBE
 11. [Be proud](https://ja.wikipedia.org/wiki/Be_proud "wikilink")／知念里奈

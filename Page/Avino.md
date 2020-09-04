@@ -3,7 +3,7 @@
 
 **Avino**（**アヴィーノ**）は、[ケンウッド](../Page/ケンウッド.md "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が販売していた、[ミニコンポ](../Page/ミニコンポ.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名である。 同社の[ALLORA](../Page/ALLORA.md "wikilink")シリーズよりも小型のものがラインナップされ、特に7番シリーズは「高品質のマイクロコンポ」（厳密的にいえば[ハイコンポ](https://ja.wikipedia.org/wiki/ハイコンポ "wikilink")）という位置づけであった。
 
-現在は[Kseries](https://ja.wikipedia.org/wiki/Kseries "wikilink")が、後継ブランドとして発売されている。ALLORAシリーズの終息からKseries誕生まではケンウッドの主力でもあった。
+現在は[Kseries](../Page/Kseries.md "wikilink")が、後継ブランドとして発売されている。ALLORAシリーズの終息からKseries誕生まではケンウッドの主力でもあった。
 
 ## 主な機種
 

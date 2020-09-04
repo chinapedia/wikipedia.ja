@@ -48,7 +48,7 @@
       - 作詞：[渡辺敦子](../Page/渡辺敦子.md "wikilink")、作曲：渡辺敦子・奥居香
     <!-- end list -->
       -
-        [全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「空遊券」CMソング
+        [全日空](../Page/全日本空輸.md "wikilink")「空遊券」CMソング
 11. **One**
       - 作詞：富田京子、作曲：奥居香
 

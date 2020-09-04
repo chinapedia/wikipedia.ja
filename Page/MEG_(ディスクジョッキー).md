@@ -67,7 +67,7 @@
 <!-- end list -->
 
   - [HYPER MORNING TRAX](https://ja.wikipedia.org/wiki/HYPER_MORNING_TRAX "wikilink")
-  - [FMK Z-BOPPER](https://ja.wikipedia.org/wiki/FMK_Z-BOPPER "wikilink")
+  - [FMK Z-BOPPER](../Page/FMK_Z-BOPPER.md "wikilink")
   - [Cross the cutting edge](https://ja.wikipedia.org/wiki/Cross_the_cutting_edge "wikilink")
 
 ## 備考

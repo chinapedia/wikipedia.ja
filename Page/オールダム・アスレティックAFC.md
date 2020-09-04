@@ -23,7 +23,7 @@
 
 **一試合最多得点勝利試合**
 
-  - 11-0 vs [サウスポート](https://ja.wikipedia.org/wiki/サウスポートFC "wikilink") フットボールリーグ・フォースディヴィジョン 1962.12.26
+  - 11-0 vs [サウスポート](../Page/サウスポートFC.md "wikilink") フットボールリーグ・フォースディヴィジョン 1962.12.26
 
 **一試合最多失点敗戦試合**
 
@@ -95,8 +95,6 @@
 <th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグ<br />
 カップ</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグトロフィー" title="wikilink">EFL<br />
-トロフィー</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/UEFA" title="wikilink">欧州カップ</a> / その他</p></th>
 <th><p>最多得点者</p></th>
 </tr>
@@ -109,7 +107,6 @@
 <td><p>分</p></td>
 <td><p>敗</p></td>
 <td><p>得</p></td>
-<td><p>失</p></td>
 </tr>
 <tr class="even">
 <td><p>2004–05</p></td>
@@ -118,7 +115,6 @@
 <td><p>14</p></td>
 <td><p>10</p></td>
 <td><p>22</p></td>
-<td><p>60</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005–06</p></td>
@@ -127,7 +123,6 @@
 <td><p>18</p></td>
 <td><p>11</p></td>
 <td><p>17</p></td>
-<td><p>58</p></td>
 </tr>
 <tr class="even">
 <td><p>2006–07</p></td>
@@ -136,7 +131,6 @@
 <td><p>21</p></td>
 <td><p>12</p></td>
 <td><p>13</p></td>
-<td><p>69</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007–08</p></td>
@@ -145,7 +139,6 @@
 <td><p>18</p></td>
 <td><p>13</p></td>
 <td><p>15</p></td>
-<td><p>58</p></td>
 </tr>
 <tr class="even">
 <td><p>2008–09</p></td>
@@ -154,7 +147,6 @@
 <td><p>16</p></td>
 <td><p>17</p></td>
 <td><p>13</p></td>
-<td><p>66</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009–10</p></td>
@@ -163,7 +155,6 @@
 <td><p>13</p></td>
 <td><p>13</p></td>
 <td><p>20</p></td>
-<td><p>39</p></td>
 </tr>
 <tr class="even">
 <td><p>2010–11</p></td>
@@ -172,7 +163,6 @@
 <td><p>13</p></td>
 <td><p>17</p></td>
 <td><p>16</p></td>
-<td><p>53</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011–12</p></td>
@@ -181,7 +171,6 @@
 <td><p>14</p></td>
 <td><p>12</p></td>
 <td><p>20</p></td>
-<td><p>50</p></td>
 </tr>
 <tr class="even">
 <td><p>2012–13</p></td>
@@ -190,7 +179,6 @@
 <td><p>14</p></td>
 <td><p>9</p></td>
 <td><p>23</p></td>
-<td><p>46</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013–14</p></td>
@@ -199,7 +187,6 @@
 <td><p>14</p></td>
 <td><p>14</p></td>
 <td><p>18</p></td>
-<td><p>50</p></td>
 </tr>
 <tr class="even">
 <td><p>2014–15</p></td>
@@ -208,7 +195,6 @@
 <td><p>14</p></td>
 <td><p>15</p></td>
 <td><p>17</p></td>
-<td><p>54</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015–16</p></td>
@@ -217,7 +203,6 @@
 <td><p>12</p></td>
 <td><p>18</p></td>
 <td><p>16</p></td>
-<td><p>44</p></td>
 </tr>
 <tr class="even">
 <td><p>2016–17</p></td>
@@ -226,7 +211,6 @@
 <td><p>12</p></td>
 <td><p>17</p></td>
 <td><p>17</p></td>
-<td><p>31</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017–18</p></td>
@@ -235,7 +219,6 @@
 <td><p>11</p></td>
 <td><p>17</p></td>
 <td><p>18</p></td>
-<td><p>58</p></td>
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
@@ -244,13 +227,11 @@
 <td><p>16</p></td>
 <td><p>14</p></td>
 <td><p>16</p></td>
-<td><p>67</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
 <td><p>フットボールリーグ2</p></td>
 <td><p>46</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

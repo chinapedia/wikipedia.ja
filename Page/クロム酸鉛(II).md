@@ -8,12 +8,12 @@
 [クロム酸カリウム](../Page/クロム酸カリウム.md "wikilink")ないし[重クロム酸カリウム](https://ja.wikipedia.org/wiki/重クロム酸カリウム "wikilink")の[水溶液](../Page/水溶液.md "wikilink")に[酢酸鉛(II)](../Page/酢酸鉛\(II\).md "wikilink")を加えることなどで合成される。
 
   -
-    <ce>K2CrO4\\ + Pb(CH3COO)2 -\> PbCrO4\\ + 2CH3COOK</ce>
-    <ce>K2Cr2O7\\ + 2Pb(CH3COO)2\\ + H2O -\> 2PbCrO4\\ + 2CH3COOK\\ + 2CH3COOH</ce>
+    <chem>K2CrO4\\ + Pb(CH3COO)2 -\> PbCrO4\\ + 2CH3COOK</chem>
+    <chem>K2Cr2O7\\ + 2Pb(CH3COO)2\\ + H2O -\> 2PbCrO4\\ + 2CH3COOK\\ + 2CH3COOH</chem>
 
 上記の[反応式](https://ja.wikipedia.org/wiki/反応式 "wikilink")で得られた[沈殿](../Page/沈殿.md "wikilink")を洗浄・乾燥させると精製した結晶が得られる。
 
-また、得られたクロム酸鉛をクロム酸カリウムとともに長時間煮沸すると、赤色顔料の[クロムレッド](https://ja.wikipedia.org/wiki/クロムレッド "wikilink")である塩基性クロム酸鉛(<ce>PbCrO4{\\bullet}PbO</ce>)が得られる。
+また、得られたクロム酸鉛をクロム酸カリウムとともに長時間煮沸すると、赤色顔料の[クロムレッド](https://ja.wikipedia.org/wiki/クロムレッド "wikilink")である塩基性クロム酸鉛(<chem>PbCrO4{\\bullet}PbO</chem>)が得られる。
 
 ## 関連項目
 

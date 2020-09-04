@@ -1,7 +1,7 @@
 > この記事は[WHO!\?](https://ja.wikipedia.org/wiki/WHO!\?)から翻訳されています。
 
 
-『**WHO\!?**』（フー）は、[板本こうこ](https://ja.wikipedia.org/wiki/板本こうこ "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[少女漫画](../Page/少女漫画.md "wikilink")[雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[mimi](https://ja.wikipedia.org/wiki/mimi_\(雑誌\) "wikilink")」（[講談社](../Page/講談社.md "wikilink")）で連載された。単行本は講談社KC mimiより全8巻で刊行された。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には[TBS系列で](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化された。
+『**WHO\!?**』（フー）は、[板本こうこ](https://ja.wikipedia.org/wiki/板本こうこ "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[少女漫画](../Page/少女漫画.md "wikilink")[雑誌](../Page/漫画雑誌.md "wikilink")「[mimi](https://ja.wikipedia.org/wiki/mimi_\(雑誌\) "wikilink")」（[講談社](../Page/講談社.md "wikilink")）で連載された。単行本は講談社KC mimiより全8巻で刊行された。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には[TBS系列で](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化された。
 
 ## あらすじ
 

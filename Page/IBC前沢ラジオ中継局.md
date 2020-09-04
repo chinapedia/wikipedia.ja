@@ -42,7 +42,7 @@
 ## 関連項目
 
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
-  - [一関テレビ・FM中継局](../Page/一関テレビ・FM中継局.md "wikilink") - IBCラジオは当中継局の電波が届きにくい地区をカバーするため、周波数85.5MHzで送信するFM中継局を新設した（2015年11月23日より[試験電波](../Page/試験電波.md "wikilink")を発射、同年12月1日より本放送を開始。FMによるIBCラジオ中継局は[山田FM](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")・[岩泉小本FMに続き](../Page/岩泉テレビ中継局.md "wikilink")3局目。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
+  - [一関テレビ・FM中継局](../Page/一関テレビ・FM中継局.md "wikilink") - IBCラジオは当中継局の電波が届きにくい地区をカバーするため、周波数85.5MHzで送信するFM中継局を新設した（2015年11月23日より[試験電波](../Page/試験電波.md "wikilink")を発射、同年12月1日より本放送を開始。FMによるIBCラジオ中継局は[山田FM](../Page/山田中継局_\(岩手県\).md "wikilink")・[岩泉小本FMに続き](../Page/岩泉テレビ中継局.md "wikilink")3局目。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
   - [日本の放送送信所一覧](../Page/日本の放送送信所一覧.md "wikilink")
 
 [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:IBC岩手放送](https://ja.wikipedia.org/wiki/Category:IBC岩手放送 "wikilink") [Category:奥州市の歴史](https://ja.wikipedia.org/wiki/Category:奥州市の歴史 "wikilink") [Category:1954年開業の施設](https://ja.wikipedia.org/wiki/Category:1954年開業の施設 "wikilink") [Category:2018年廃止の施設](https://ja.wikipedia.org/wiki/Category:2018年廃止の施設 "wikilink")

@@ -28,7 +28,7 @@ HD Recにより録画したDVDは、従来のDVD映像（MPEG2-PS、標準画質
 
 ### 著作権保護機構
 
-著作権保護機構には[AACSを利用している](../Page/Advanced_Access_Content_System.md "wikilink")。AACSで必要な128ビットのメディアIDの代わりに、CPRMディスクのメディアID（[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）を利用する。
+著作権保護機構には[AACSを利用している](../Page/Advanced_Access_Content_System.md "wikilink")。AACSで必要な128ビットのメディアIDの代わりに、CPRMディスクのメディアID（[64ビット](../Page/64ビット.md "wikilink")）を利用する。
 
 ## 策定までの経緯
 

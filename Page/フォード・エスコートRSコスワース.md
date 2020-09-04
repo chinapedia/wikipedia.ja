@@ -1,7 +1,7 @@
 > この記事は[フォード・エスコートRSコスワース](https://ja.wikipedia.org/wiki/フォード・エスコートRSコスワース)から翻訳されています。
 
 
-[Ford_Escort_RS_Cosworth.jpg](https://ja.wikipedia.org/wiki/File:Ford_Escort_RS_Cosworth.jpg "fig:Ford_Escort_RS_Cosworth.jpg") [Escort_Cosworth_engine_bay.jpg](https://ja.wikipedia.org/wiki/File:Escort_Cosworth_engine_bay.jpg "fig:Escort_Cosworth_engine_bay.jpg") [1993_Ford_Escort_RS_Cosworth_Luxury_(14736242962).jpg](https://ja.wikipedia.org/wiki/File:1993_Ford_Escort_RS_Cosworth_Luxury_\(14736242962\).jpg "fig:1993_Ford_Escort_RS_Cosworth_Luxury_(14736242962).jpg") **フォード・エスコートRSコスワース** (**Ford Escort RS Cosworth**) は、[フォード・モーター](../Page/フォード・モーター.md "wikilink")が[フォード・エスコート](https://ja.wikipedia.org/wiki/フォード・エスコート "wikilink")ベースで開発した[スポーツカー](../Page/スポーツカー.md "wikilink")。ネーミングが示すとおり、エンジン開発は[コスワース](../Page/コスワース.md "wikilink")が担当した。
+[Ford_Escort_RS_Cosworth.jpg](https://ja.wikipedia.org/wiki/File:Ford_Escort_RS_Cosworth.jpg "fig:Ford_Escort_RS_Cosworth.jpg") [Escort_Cosworth_engine_bay.jpg](https://ja.wikipedia.org/wiki/File:Escort_Cosworth_engine_bay.jpg "fig:Escort_Cosworth_engine_bay.jpg") [1993_Ford_Escort_RS_Cosworth_Luxury_(14736242962).jpg](https://ja.wikipedia.org/wiki/File:1993_Ford_Escort_RS_Cosworth_Luxury_\(14736242962\).jpg "fig:1993_Ford_Escort_RS_Cosworth_Luxury_(14736242962).jpg") **フォード・エスコートRSコスワース** (**Ford Escort RS Cosworth**) は、[フォード・モーター](../Page/フォード・モーター.md "wikilink")が[フォード・エスコート](../Page/フォード・エスコート.md "wikilink")ベースで開発した[スポーツカー](../Page/スポーツカー.md "wikilink")。ネーミングが示すとおり、エンジン開発は[コスワース](../Page/コスワース.md "wikilink")が担当した。
 
 ## 概要
 

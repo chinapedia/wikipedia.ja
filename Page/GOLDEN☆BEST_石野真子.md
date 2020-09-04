@@ -15,28 +15,28 @@
 
 ## 収録曲
 
-1.  **[春ラ\!ラ\!ラ\!](https://ja.wikipedia.org/wiki/春ラ!ラ!ラ! "wikilink")**　（3:51）
+1.  **[春ラ\!ラ\!ラ\!](../Page/春ラ!ラ!ラ!.md "wikilink")**　（3:51）
       - 作詞: [伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲: [森田公一](../Page/森田公一.md "wikilink")、編曲: [竜崎孝路](../Page/竜崎孝路.md "wikilink")
-2.  **[ジュリーがライバル](https://ja.wikipedia.org/wiki/ジュリーがライバル "wikilink")**　（3:51）
+2.  **[ジュリーがライバル](../Page/ジュリーがライバル.md "wikilink")**　（3:51）
       - 作詞: [松本礼児](https://ja.wikipedia.org/wiki/松本礼児 "wikilink")、作曲: [幸耕平](https://ja.wikipedia.org/wiki/幸耕平 "wikilink")、編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")
     <!-- end list -->
       -
         [第30回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦 "wikilink") 歌唱曲。トップバッターで歌われた。また、歌唱シーンの合間に白組の[沢田研二](../Page/沢田研二.md "wikilink")が映し出された（『[ジュリー](../Page/ジュリー.md "wikilink")』とは沢田研二の[愛称](../Page/愛称.md "wikilink")）。
-3.  **[狼なんか怖くない](https://ja.wikipedia.org/wiki/狼なんか怖くない_\(石野真子の曲\) "wikilink")**　（3:14）
+3.  **[狼なんか怖くない](../Page/狼なんか怖くない_\(石野真子の曲\).md "wikilink")**　（3:14）
       - 作詞: [阿久悠](../Page/阿久悠.md "wikilink")、作曲: [吉田拓郎](../Page/吉田拓郎.md "wikilink")、編曲: [鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
     <!-- end list -->
       -
         デビュー曲。レコード宣伝用の巨大店頭ポップは、[神田神保町](../Page/神田神保町.md "wikilink")のレアモノグッズ店で高額な価格で販売されている（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系バラエティ『[くりぃむナントカ](../Page/くりぃむナントカ.md "wikilink")』より）。
-4.  **[めまい](https://ja.wikipedia.org/wiki/めまい_\(石野真子の曲\) "wikilink")**　（3:27）
+4.  **[めまい](../Page/めまい_\(石野真子の曲\).md "wikilink")**　（3:27）
       - 作詞: [有馬三恵子](../Page/有馬三恵子.md "wikilink")、作曲: [川口真](../Page/川口真.md "wikilink")、編曲: [船山基紀](../Page/船山基紀.md "wikilink")
-5.  **[ハートで勝負](https://ja.wikipedia.org/wiki/ハートで勝負 "wikilink")**　（3:37）
+5.  **[ハートで勝負](../Page/ハートで勝負.md "wikilink")**　（3:37）
       - 作詞: 松本礼児、作曲・編曲: [馬飼野康二](../Page/馬飼野康二.md "wikilink")
     <!-- end list -->
       -
         [第31回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink") 歌唱曲
-6.  **[失恋記念日](https://ja.wikipedia.org/wiki/失恋記念日 "wikilink")**　（3:45）
+6.  **[失恋記念日](../Page/失恋記念日.md "wikilink")**　（3:45）
       - 作詞: 阿久悠、作曲・編曲: [穂口雄右](../Page/穂口雄右.md "wikilink")
-7.  **[わたしの首領](https://ja.wikipedia.org/wiki/わたしの首領 "wikilink")（ドン）**　（3:21）
+7.  **[わたしの首領](../Page/わたしの首領.md "wikilink")（ドン）**　（3:21）
       - 作詞: 阿久悠、作曲: 吉田拓郎、編曲: 馬飼野康二
 8.  **[フォギー・レイン](https://ja.wikipedia.org/wiki/フォギー・レイン/恋のハッピー・デート "wikilink")**　（3:30）
       - 作詞: [三浦徳子](../Page/三浦徳子.md "wikilink")、作曲・編曲: 馬飼野康二
@@ -44,11 +44,11 @@
       - 作詞・作曲: B.Findon・M.Myers・B.Puzey、訳詞: [森雪之丞](../Page/森雪之丞.md "wikilink")、編曲: [矢野立美](../Page/矢野立美.md "wikilink")
 10. **[ワンダー・ブギ](https://ja.wikipedia.org/wiki/ワンダー・ブギ "wikilink")**　（4:08）
       - 作詞: 阿久悠、作曲・編曲: 馬飼野康二
-11. **[日曜日はストレンジャー](https://ja.wikipedia.org/wiki/日曜日はストレンジャー "wikilink")**　（3:34）
+11. **[日曜日はストレンジャー](../Page/日曜日はストレンジャー.md "wikilink")**　（3:34）
       - 作詞: 阿久悠、作曲・編曲: [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")
-12. **[プリティー・プリティー](https://ja.wikipedia.org/wiki/プリティー・プリティー "wikilink")（Pretty Pretty）**　（2:56）
+12. **[プリティー・プリティー](../Page/プリティー・プリティー.md "wikilink")（Pretty Pretty）**　（2:56）
       - 作詞: 阿久悠、作曲: 筒美京平、編曲: 船山基紀
-13. **[彼が初恋](https://ja.wikipedia.org/wiki/彼が初恋 "wikilink")**　（3:15）
+13. **[彼が初恋](../Page/彼が初恋.md "wikilink")**　（3:15）
       - 作詞: 有馬三恵子、作曲: 筒美京平、編曲: 矢野立美
     <!-- end list -->
       -
@@ -65,7 +65,7 @@
       - 作詞・作曲: 石野真子、編曲: 矢野立美
 19. **[明日になれば](../Page/明日になれば_\(石野真子の曲\).md "wikilink")**　（3:44）
       - 作詞: 伊藤アキラ、作曲: 穂口雄右、編曲: 船山基紀
-20. **[空にカンバス](https://ja.wikipedia.org/wiki/空にカンバス "wikilink")**　（3:45）
+20. **[空にカンバス](../Page/空にカンバス.md "wikilink")**　（3:45）
       - 作詞: [川村真澄](../Page/川村真澄.md "wikilink")、作曲・編曲: 渡辺博也
 21. **[マコ・パック](https://ja.wikipedia.org/wiki/明日になれば_\(石野真子の曲\)#収録曲 "wikilink")**　（4:58）
       - シングル・ヒットメドレー。[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")。

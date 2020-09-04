@@ -30,7 +30,7 @@
 7.  **Souvenir**
       - 作詞・作曲：尾崎亜美、編曲：富田素弘
       - [高橋真梨子](../Page/高橋真梨子.md "wikilink")への提供曲
-8.  **[風の中で](https://ja.wikipedia.org/wiki/風の中で "wikilink")**
+8.  **[風の中で](../Page/風の中で.md "wikilink")**
       - 作詞・作曲・編曲：尾崎亜美
       - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")の3枚目のシングルで映画『[超少女REIKO](https://ja.wikipedia.org/wiki/超少女REIKO "wikilink")』の主題歌に起用された。
 9.  **VENUS**

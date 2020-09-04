@@ -1,7 +1,7 @@
 > この記事は[夜明けのMEW](https://ja.wikipedia.org/wiki/夜明けのMEW)から翻訳されています。
 
 
-「**夜明けのMEW**」（よあけのミュー）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")7月に[リリース](../Page/リリース.md "wikilink")した19枚目の[シングル](../Page/シングル.md "wikilink")である([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): SV-9147)。
+「**夜明けのMEW**」（よあけのミュー）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1986年](../Page/1986年.md "wikilink")7月に[リリース](../Page/リリース.md "wikilink")した19枚目の[シングル](../Page/シングル.md "wikilink")である([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): SV-9147)。
 
 ## 解説
 

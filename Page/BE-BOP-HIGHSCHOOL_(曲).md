@@ -18,9 +18,9 @@
 ## 収録アルバム
 
   - **BE-BOP-HIGHSCHOOL**
-      - [VIRGIN FLIGHT '86 中山美穂ファースト・コンサート](https://ja.wikipedia.org/wiki/VIRGIN_FLIGHT_'86_中山美穂ファースト・コンサート "wikilink") - ライブ音源
+      - [VIRGIN FLIGHT '86 中山美穂ファースト・コンサート](../Page/VIRGIN_FLIGHT_'86_中山美穂ファースト・コンサート.md "wikilink") - ライブ音源
       - [COLLECTION](../Page/COLLECTION.md "wikilink")
-      - [Pure White Live '94](https://ja.wikipedia.org/wiki/Pure_White_Live_'94 "wikilink")（限定盤） - ライブ音源（シングルメドレー）
+      - [Pure White Live '94](../Page/Pure_White_Live_'94.md "wikilink")（限定盤） - ライブ音源（シングルメドレー）
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")
       - [中山美穂 パーフェクト・ベスト2](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト2 "wikilink") - ライブ・ヴァージョン
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - **放課後**
-      - [AFTER SCHOOL](https://ja.wikipedia.org/wiki/AFTER_SCHOOL_\(中山美穂のアルバム\) "wikilink")
+      - [AFTER SCHOOL](../Page/AFTER_SCHOOL_\(中山美穂のアルバム\).md "wikilink")
       - VIRGIN FLIGHT '86 中山美穂ファースト・コンサート - ライブ音源
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")

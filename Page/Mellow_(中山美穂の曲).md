@@ -2,7 +2,7 @@
 
 
 「**Mellow**」（メロウ）は、[中山美穂](../Page/中山美穂.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた(CDS:KIDS-81)。
-※同名のアルバムについては **[Mellow (アルバム)](../Page/Mellow_\(アルバム\).md "wikilink")**、同名の映像作品については **[Mellow (映像作品)](https://ja.wikipedia.org/wiki/Mellow_\(映像作品\) "wikilink")** を参照のこと。
+※同名のアルバムについては **[Mellow (アルバム)](../Page/Mellow_\(アルバム\).md "wikilink")**、同名の映像作品については **[Mellow (映像作品)](../Page/Mellow_\(映像作品\).md "wikilink")** を参照のこと。
 
 ## 解説
 
@@ -23,7 +23,7 @@
 
   - **Mellow**
       - [Mellow](../Page/Mellow_\(アルバム\).md "wikilink")
-      - [COLLECTION III](https://ja.wikipedia.org/wiki/COLLECTION_III "wikilink")
+      - [COLLECTION III](../Page/COLLECTION_III.md "wikilink")
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")
       - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")
@@ -39,8 +39,8 @@
 ## 関連項目
 
   - [Mellow (アルバム)](../Page/Mellow_\(アルバム\).md "wikilink")
-  - [Mellow (映像作品)](https://ja.wikipedia.org/wiki/Mellow_\(映像作品\) "wikilink")
-  - [LIVE IN "Mellow" MIHO NAKAYAMA CONCERT TOUR '92](https://ja.wikipedia.org/wiki/LIVE_IN_"Mellow"_MIHO_NAKAYAMA_CONCERT_TOUR_'92 "wikilink")
+  - [Mellow (映像作品)](../Page/Mellow_\(映像作品\).md "wikilink")
+  - [LIVE IN "Mellow" MIHO NAKAYAMA CONCERT TOUR '92](../Page/LIVE_IN_"Mellow"_MIHO_NAKAYAMA_CONCERT_TOUR_'92.md "wikilink")
   - [井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")
   - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
 

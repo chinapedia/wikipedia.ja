@@ -226,7 +226,7 @@
 
   - [ジョン・スケールズ](https://ja.wikipedia.org/wiki/ジョン・スケールズ "wikilink") 1985-1987
 
-  - [ナイジェル・マーティン](https://ja.wikipedia.org/wiki/ナイジェル・マーティン "wikilink") 1987-1989
+  - [ナイジェル・マーティン](../Page/ナイジェル・マーティン.md "wikilink") 1987-1989
 
   - [ネイサン・エリントン](../Page/ネイサン・エリントン.md "wikilink") 1999-2002
 

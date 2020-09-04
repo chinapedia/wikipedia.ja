@@ -2,7 +2,7 @@
 
 
 『**「C」**』（シー）は、[中山美穂](../Page/中山美穂.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): K7S-10031)(CDS:KIDS-91)
-同名アルバムについては**[「C」 (アルバム)](https://ja.wikipedia.org/wiki/「C」_\(アルバム\) "wikilink")**を参照のこと。
+同名アルバムについては**[「C」 (アルバム)](../Page/「C」_\(アルバム\).md "wikilink")**を参照のこと。
 
 ## 解説
 
@@ -25,11 +25,11 @@
 ## 収録アルバム
 
   - **「C」**
-      - [「C」](https://ja.wikipedia.org/wiki/「C」_\(アルバム\) "wikilink")
-      - [VIRGIN FLIGHT '86 中山美穂ファースト・コンサート](https://ja.wikipedia.org/wiki/VIRGIN_FLIGHT_'86_中山美穂ファースト・コンサート "wikilink") - ライブ音源
+      - [「C」](../Page/「C」_\(アルバム\).md "wikilink")
+      - [VIRGIN FLIGHT '86 中山美穂ファースト・コンサート](../Page/VIRGIN_FLIGHT_'86_中山美穂ファースト・コンサート.md "wikilink") - ライブ音源
       - [COLLECTION](../Page/COLLECTION.md "wikilink") - Album Version
       - [Dramatic Songs](../Page/Dramatic_Songs.md "wikilink")
-      - [Pure White Live '94](https://ja.wikipedia.org/wiki/Pure_White_Live_'94 "wikilink")（限定盤） - ライブ音源（シングルメドレー）
+      - [Pure White Live '94](../Page/Pure_White_Live_'94.md "wikilink")（限定盤） - ライブ音源（シングルメドレー）
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [THE HIT MAKER -筒美京平の世界-](https://ja.wikipedia.org/wiki/THE_HIT_MAKER_-筒美京平の世界- "wikilink") - 作曲家活動40周年記念[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   - **スピード・ウェイ**
-      - [「C」](https://ja.wikipedia.org/wiki/「C」_\(アルバム\) "wikilink") - Album Version
+      - [「C」](../Page/「C」_\(アルバム\).md "wikilink") - Album Version
       - Complete SINGLES BOX
       - 30th Anniversary THE PERFECT SINGLES BOX - Single Version、Album Version、オリジナル・カラオケ
 

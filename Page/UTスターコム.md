@@ -9,7 +9,7 @@
 
 ブロードバンド製品ラインには、[Multi-protocol Label Switching](../Page/Multi-Protocol_Label_Switching.md "wikilink")-Transport Profile  (MPLS-TP)とネットワークの発展をサポートするためのin-house [SDNプラットフォームとMSANプラットフォームを通じて向上したキャリア](https://ja.wikipedia.org/wiki/Software_Defined_Networking "wikilink")[イーサネット](../Page/イーサネット.md "wikilink")技術を基礎とした、パケット伝送ネットワーク(PTN)製品が含まれる。ワイヤレスブロードバンドアクセスはエンドツーエンドのキャリア[Wi-Fi](../Page/Wi-Fi.md "wikilink")ソリューションに代表される。
 
-ユーティースターコムは世界の市場に売り出された製品ラインの確立に加え、さらに新しい市場の探求と、インテリジェントカスタマーエッジデバイス(バーチャルブロードバンド[ゲートウェイ](https://ja.wikipedia.org/wiki/ゲートウェイ "wikilink"))及びデータセンタースイッチプロダクトを含む新しい製品の開発を行っている。
+ユーティースターコムは世界の市場に売り出された製品ラインの確立に加え、さらに新しい市場の探求と、インテリジェントカスタマーエッジデバイス(バーチャルブロードバンド[ゲートウェイ](../Page/ゲートウェイ.md "wikilink"))及びデータセンタースイッチプロダクトを含む新しい製品の開発を行っている。
 
 ## 歴史
 

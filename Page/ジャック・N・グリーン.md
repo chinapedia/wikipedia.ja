@@ -18,7 +18,7 @@
   - [マディソン郡の橋](../Page/マディソン郡の橋_\(映画\).md "wikilink") *The Bridges of Madison County* (1995)
   - [ザ・インターネット](https://ja.wikipedia.org/wiki/ザ・インターネット "wikilink") *The Net* (1995)
   - [ツイスター](../Page/ツイスター_\(映画\).md "wikilink") *Twister* (1996)
-  - [目撃](https://ja.wikipedia.org/wiki/目撃_\(映画\) "wikilink") *Absolute Power* (1997)
+  - [目撃](../Page/目撃_\(映画\).md "wikilink") *Absolute Power* (1997)
   - [スピード2](../Page/スピード2.md "wikilink") *Speed 2: Cruise Control* (1997)
   - [真夜中のサバナ](https://ja.wikipedia.org/wiki/真夜中のサバナ_\(映画\) "wikilink") *Midnight in the Garden of Good and Evil* (1997)
   - [トゥルー・クライム](https://ja.wikipedia.org/wiki/トゥルー・クライム_\(1999年の映画\) "wikilink") *True Crime* (1999)

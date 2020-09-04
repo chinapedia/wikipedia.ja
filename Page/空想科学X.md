@@ -1,7 +1,7 @@
 > この記事は[空想科学X](https://ja.wikipedia.org/wiki/空想科学X)から翻訳されています。
 
 
-『**空想科学X**』（くうそうかがくエックス）は[saxyun](https://ja.wikipedia.org/wiki/saxyun "wikilink")による[4コマ漫画](../Page/4コマ漫画.md "wikilink")。『[電撃「マ）王](https://ja.wikipedia.org/wiki/電撃「マ）王 "wikilink")』（[2011年](../Page/2011年.md "wikilink")（平成23年）12月号より『[電撃マオウ](../Page/電撃マオウ.md "wikilink")』に改称）（[メディアワークス](../Page/メディアワークス.md "wikilink")、2008年4月以降は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）において2005年12月号から連載開始し、[2014年](../Page/2014年.md "wikilink")11月号にて完結した。1話につき4ページ又は6ページで掲載されていた。
+『**空想科学X**』（くうそうかがくエックス）は[saxyun](https://ja.wikipedia.org/wiki/saxyun "wikilink")による[4コマ漫画](../Page/4コマ漫画.md "wikilink")。『[電撃「マ）王](https://ja.wikipedia.org/wiki/電撃「マ）王 "wikilink")』（[2011年](../Page/2011年.md "wikilink")（平成23年）12月号より『[電撃マオウ](../Page/電撃マオウ.md "wikilink")』に改称）（[メディアワークス](../Page/メディアワークス.md "wikilink")、2008年4月以降は[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")）において2005年12月号から連載開始し、[2014年](../Page/2014年.md "wikilink")11月号にて完結した。1話につき4ページ又は6ページで掲載されていた。
 
 ## 概要
 
@@ -56,7 +56,7 @@
 
 ## コミックス
 
-[メディアワークス](../Page/メディアワークス.md "wikilink")→[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")より[Dengeki Comics EXとして刊行](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")。巻数は「Lesson」の後に[ローマ数字](../Page/ローマ数字.md "wikilink")で表記される。
+[メディアワークス](../Page/メディアワークス.md "wikilink")→[アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")より[Dengeki Comics EXとして刊行](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")。巻数は「Lesson」の後に[ローマ数字](../Page/ローマ数字.md "wikilink")で表記される。
 
 カバーデザインはすべて[里見英樹](https://ja.wikipedia.org/wiki/里見英樹 "wikilink")によるが、一般向け科学解説書の老舗である[ブルーバックス](../Page/ブルーバックス.md "wikilink")（[講談社](../Page/講談社.md "wikilink")）のパロディとなっている。
 

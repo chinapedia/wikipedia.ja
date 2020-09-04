@@ -46,7 +46,7 @@
     SILKYPIX RAW Bridgeの機能をメインの機能に据え、JPEG画像の処理に特化したバージョン。
     レタッチにSILKYPIXの技術が応用されており、差別化のため同社では「JPEG現像ソフト」と呼んでいる。
   - SILKYPIX Marine Photography Pro
-    [水中写真](https://ja.wikipedia.org/wiki/水中写真 "wikilink")の処理に特化したバージョン。水中での色かぶりを修正し、適切な色の再現を行う。
+    [水中写真](../Page/水中写真.md "wikilink")の処理に特化したバージョン。水中での色かぶりを修正し、適切な色の再現を行う。
   - SILKYPIX RAW SDK
     SILKYPIXのRAW現像エンジンを他の画像処理ソフトに組み込むための開発キット。
   - SILKYPIX 画像復活.com

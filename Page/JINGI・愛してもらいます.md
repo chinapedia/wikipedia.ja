@@ -1,7 +1,7 @@
 > この記事は[JINGI・愛してもらいます](https://ja.wikipedia.org/wiki/JINGI・愛してもらいます)から翻訳されています。
 
 
-「**JINGI・愛してもらいます**」（じんぎ・あいしてもらいます）は、[中山美穂](../Page/中山美穂.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた（CDS:KIDS-93）。
+「**JINGI・愛してもらいます**」（じんぎ・あいしてもらいます）は、[中山美穂](../Page/中山美穂.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた（CDS:KIDS-93）。
 
 ## 解説
 
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   - Rising Love
-      - [SUMMER BREEZE](https://ja.wikipedia.org/wiki/SUMMER_BREEZE "wikilink") - Album Version
+      - [SUMMER BREEZE](../Page/SUMMER_BREEZE.md "wikilink") - Album Version
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")
 

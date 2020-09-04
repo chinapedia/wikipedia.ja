@@ -25,7 +25,7 @@
 ## 沿革
 
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - [日産ディーゼル（当時、現「UDトラックス」）グループの設計開発力強化](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")・充実のため資本金600万円で日弘エンジニアリング株式会社を設立。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 日弘エンジニアリングの資本金を1,000万円に増資。
+  - [1986年](../Page/1986年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 日弘エンジニアリングの資本金を1,000万円に増資。
   - [1989年](../Page/1989年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 開発力強化のため資本金5,000万円で株式会社日産ディーゼル技術研究所を設立。エンジン、ユニット、車両の実験業務の受託請負いを開始。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 日産ディーゼル技術研究所茂木事業所開設。車両走行試験の請負い業務を拡大。
   - [1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 日産ディーゼル技術研究所の本社屋が完成。

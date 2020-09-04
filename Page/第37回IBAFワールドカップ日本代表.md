@@ -35,7 +35,7 @@ No.は背番号。所属や年齢は選出当時。
 | 6                                | [西郷泰之](../Page/西郷泰之.md "wikilink")                    | 三菱ふそう川崎                                               | 35                                              |    |
 | 7                                | 二村俊之                                                  | 住友金属鹿島                                                | 28                                              |    |
 | 9                                | 横山憲一                                                  | [三菱重工神戸](../Page/三菱重工神戸・高砂硬式野球部.md "wikilink")        | 26                                              |    |
-| 25                               | [小窪哲也](https://ja.wikipedia.org/wiki/小窪哲也 "wikilink") | [青山学院大学](../Page/青山学院大学硬式野球部.md "wikilink")           | 22                                              |    |
+| 25                               | [小窪哲也](../Page/小窪哲也.md "wikilink")                    | [青山学院大学](../Page/青山学院大学硬式野球部.md "wikilink")           | 22                                              |    |
 | [外野手](../Page/外野手.md "wikilink") | 1                                                     | [野本圭](https://ja.wikipedia.org/wiki/野本圭 "wikilink")   | 日本通運                                            | 23 |
 | 8                                | [長野久義](https://ja.wikipedia.org/wiki/長野久義 "wikilink") | Honda                                                 | 23                                              |    |
 | 10                               | [村上純平](../Page/村上純平.md "wikilink")                    | 鷺宮製作所                                                 | 24                                              |    |
@@ -51,10 +51,10 @@ No.は背番号。所属や年齢は選出当時。
   -
     第1戦（[11月7日](../Page/11月7日.md "wikilink")；台中）　日本　11－1　[南アフリカ共和国](../Page/野球南アフリカ共和国代表.md "wikilink")
     第2戦（[11月8日](../Page/11月8日.md "wikilink")；台中）　日本　15－3　[メキシコ](../Page/野球メキシコ代表.md "wikilink")　（7回コールド）
-    第3戦（[11月9日](../Page/11月9日.md "wikilink")；インターコンチネンタル）　日本　1－6　[チャイニーズタイペイ](https://ja.wikipedia.org/wiki/野球中華民国代表 "wikilink")
+    第3戦（[11月9日](../Page/11月9日.md "wikilink")；インターコンチネンタル）　日本　1－6　[チャイニーズタイペイ](../Page/野球中華民国代表.md "wikilink")
     第4戦（[11月10日](../Page/11月10日.md "wikilink")；インターコンチネンタル）　日本　1－5　[アメリカ合衆国](../Page/野球アメリカ合衆国代表.md "wikilink")
     第5戦（[11月11日](../Page/11月11日.md "wikilink")；インターコンチネンタル）　日本　6－2　[パナマ](../Page/野球パナマ代表.md "wikilink")
-    第6戦（[11月13日](../Page/11月13日.md "wikilink")；斗六）　日本　10－0　[イタリア](https://ja.wikipedia.org/wiki/野球イタリア代表 "wikilink")　（7回コールド）
+    第6戦（[11月13日](../Page/11月13日.md "wikilink")；斗六）　日本　10－0　[イタリア](../Page/野球イタリア代表.md "wikilink")　（7回コールド）
     第7戦（[11月14日](../Page/11月14日.md "wikilink")；台中）　日本　4x－3　[スペイン](../Page/野球スペイン代表.md "wikilink")
     （5勝2敗で予選リーグAグループ3位通過）
 
@@ -67,7 +67,7 @@ No.は背番号。所属や年齢は選出当時。
   -
     1回戦（[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")；新荘）　日本　3－0　[オーストラリア](../Page/野球オーストラリア代表.md "wikilink")
     準決勝（[11月17日](../Page/11月17日.md "wikilink")；新荘）　日本　3－5　[キューバ](../Page/野球キューバ代表.md "wikilink")
-    3位決定戦（[11月18日](../Page/11月18日.md "wikilink")；天母）　日本　5－0　[オランダ](https://ja.wikipedia.org/wiki/野球オランダ代表 "wikilink")
+    3位決定戦（[11月18日](../Page/11月18日.md "wikilink")；天母）　日本　5－0　[オランダ](../Page/野球オランダ代表.md "wikilink")
     （日本は銅メダル獲得）
 
 <!-- end list -->

@@ -13,7 +13,7 @@
 
 **一試合最低観客動員数**
 
-  - 945人 vs [ケンブリッジ・ユナイテッド](https://ja.wikipedia.org/wiki/ケンブリッジ・ユナイテッドFC "wikilink") アソシエイト・メンバーズカップ 1986.12.6
+  - 945人 vs [ケンブリッジ・ユナイテッド](../Page/ケンブリッジ・ユナイテッドFC.md "wikilink") アソシエイト・メンバーズカップ 1986.12.6
 
 **一試合最多得点勝利試合**
 
@@ -108,7 +108,7 @@
 </tr>
 <tr class="even">
 <td><p>2004–05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ2" title="wikilink">フットボールリーグ2</a></p></td>
+<td><p><a href="../Page/EFLリーグ2.md" title="wikilink">EFLリーグ2</a></p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
 <td><p>12</p></td>
@@ -116,7 +116,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005–06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ1" title="wikilink">フットボールリーグ1</a></p></td>
+<td><p><a href="../Page/EFLリーグ1.md" title="wikilink">EFLリーグ1</a></p></td>
 <td><p>46</p></td>
 <td><p>23</p></td>
 <td><p>13</p></td>
@@ -124,7 +124,7 @@
 </tr>
 <tr class="even">
 <td><p>2006–07</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ" title="wikilink">チャンピオンシップ</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオンシップ</a></p></td>
 <td><p>46</p></td>
 <td><p>10</p></td>
 <td><p>12</p></td>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007–08</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
 <td><p>10</p></td>
@@ -140,7 +140,7 @@
 </tr>
 <tr class="even">
 <td><p>2008–09</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>21</p></td>
 <td><p>8</p></td>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009–10</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>10</p></td>
 <td><p>13</p></td>
@@ -156,7 +156,7 @@
 </tr>
 <tr class="even">
 <td><p>2010–11</p></td>
-<td><p>フットボールリーグ2</p></td>
+<td><p>EFLリーグ2</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>13</p></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011–12</p></td>
-<td><p>フットボールリーグ2</p></td>
+<td><p>EFLリーグ2</p></td>
 <td><p>46</p></td>
 <td><p>25</p></td>
 <td><p>8</p></td>
@@ -172,7 +172,7 @@
 </tr>
 <tr class="even">
 <td><p>2012–13</p></td>
-<td><p>フットボールリーグ2</p></td>
+<td><p>EFLリーグ2</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>13</p></td>
@@ -180,7 +180,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013–14</p></td>
-<td><p>フットボールリーグ2</p></td>
+<td><p>EFLリーグ2</p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
 <td><p>15</p></td>
@@ -188,7 +188,7 @@
 </tr>
 <tr class="even">
 <td><p>2014–15</p></td>
-<td><p>フットボールリーグ2</p></td>
+<td><p>EFLリーグ2</p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
 <td><p>12</p></td>
@@ -196,7 +196,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015–16</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>11</p></td>
@@ -204,7 +204,7 @@
 </tr>
 <tr class="even">
 <td><p>2016–17</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>20</p></td>
 <td><p>12</p></td>
@@ -212,7 +212,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017–18</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>12</p></td>
@@ -220,7 +220,7 @@
 </tr>
 <tr class="even">
 <td><p>2018–19</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>8</p></td>
@@ -228,7 +228,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
-<td><p>フットボールリーグ1</p></td>
+<td><p>EFLリーグ1</p></td>
 <td><p>46</p></td>
 <td></td>
 <td></td>

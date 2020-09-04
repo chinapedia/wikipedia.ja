@@ -57,6 +57,6 @@
       - 作詞：相川七瀬 / 作曲・編曲：織田哲郎
     <!-- end list -->
       -
-        4thシングル「BREAK OUT\!」のカップリング曲。[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")』にも収録された。
+        4thシングル「BREAK OUT\!」のカップリング曲。[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[ID](../Page/ID_\(相川七瀬のアルバム\).md "wikilink")』にも収録された。
 
 [Category:相川七瀬のアルバム](https://ja.wikipedia.org/wiki/Category:相川七瀬のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:織田哲郎プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:織田哲郎プロデュースのアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

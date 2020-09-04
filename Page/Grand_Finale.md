@@ -13,7 +13,7 @@
 
 1.  **[月蝕グランギニョル](https://ja.wikipedia.org/wiki/月蝕グランギニョル "wikilink") (Orchestral Arrange)** \[4:49\]
       - テレビアニメ『[AVENGER](../Page/AVENGER.md "wikilink")』オープニングテーマ
-2.  **[恋せよ乙女](https://ja.wikipedia.org/wiki/恋せよ乙女〜Love_story_of_ZIPANG〜 "wikilink") (Orchestral Arrange)** \[3:45\]
+2.  **[恋せよ乙女](../Page/恋せよ乙女〜Love_story_of_ZIPANG〜.md "wikilink") (Orchestral Arrange)** \[3:45\]
       -
         過去に、『冷酒[黄桜](../Page/黄桜.md "wikilink")・飛沫』のCMソングであった。再録は以前にもあったが、アレンジは初となる。
 3.  **[聖少女領域](https://ja.wikipedia.org/wiki/聖少女領域 "wikilink") (Orchestral Arrange)** \[4:56\]

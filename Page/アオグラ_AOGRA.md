@@ -1,13 +1,13 @@
 > この記事は[アオグラ AOGRA](https://ja.wikipedia.org/wiki/アオグラ_AOGRA)から翻訳されています。
 
 
-『**アオグラ**』は[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。原作は[川上健一](../Page/川上健一.md "wikilink")の『[四月になれば彼女は](https://ja.wikipedia.org/wiki/四月になれば彼女は "wikilink")』。[シネハウス](../Page/シネハウス.md "wikilink")製作。[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")の主演映画。2006年7月に第15回[あおもり映画祭](https://ja.wikipedia.org/wiki/あおもり映画祭 "wikilink")において先行上映された。第6回「[光州国際映画祭](https://ja.wikipedia.org/wiki/光州国際映画祭 "wikilink")」（[韓国](../Page/大韓民国.md "wikilink")）では、公式招待作品として上映されている。
+『**アオグラ**』は[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。原作は[川上健一](../Page/川上健一.md "wikilink")の『[四月になれば彼女は](https://ja.wikipedia.org/wiki/四月になれば彼女は "wikilink")』。[シネハウス](../Page/シネハウス.md "wikilink")製作。[内田朝陽](../Page/内田朝陽.md "wikilink")の主演映画。2006年7月に第15回[あおもり映画祭](https://ja.wikipedia.org/wiki/あおもり映画祭 "wikilink")において先行上映された。第6回「[光州国際映画祭](https://ja.wikipedia.org/wiki/光州国際映画祭 "wikilink")」（[韓国](../Page/大韓民国.md "wikilink")）では、公式招待作品として上映されている。
 
 「アオグラ AOGRA」と表記されることが多いがこれはタイトルロゴに「AOGRA」が含まれていることによる誤記で、正式なタイトルは「アオグラ」である。
 
 ## ストーリー
 
-舞台は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の青森県・県南地方（十和田・三沢）。
+舞台は、[1968年](../Page/1968年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の青森県・県南地方（十和田・三沢）。
 
 高校を卒業しそれぞれが明日から進学、就職と新たな道に向かって出発する直前の日。更には地元に残る者、札幌や仙台、東京へと旅立つ者たちにとって友人たちと過ごす最後の日。かつて野球部のエースとして活躍したが肩の故障を機に引退し、クサっていた主人公沢木は学校で紹介された地元工務店への就職が決まっていた。しかし、親友伝法寺の駆け落ちの手伝いをしたことで事態は思いも寄らない方向へズレだしていく。
 
@@ -19,7 +19,7 @@
 
 ## キャスト
 
-  - 沢木 圭太：[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")
+  - 沢木 圭太：[内田朝陽](../Page/内田朝陽.md "wikilink")
   - 伝法寺 義春：[橋爪遼](../Page/橋爪遼.md "wikilink")
   - ベラマッチャ(上松) ：[坂本真](../Page/坂本真.md "wikilink")
   - 小比類巻：[徳山秀典](../Page/徳山秀典.md "wikilink")

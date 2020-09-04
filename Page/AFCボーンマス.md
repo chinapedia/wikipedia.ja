@@ -122,7 +122,7 @@
 
   - [ドン・メグソン](https://ja.wikipedia.org/wiki/ドン・メグソン "wikilink") 1983
 
-  - [ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink") 1983-1992
+  - [ハリー・レドナップ](../Page/ハリー・レドナップ.md "wikilink") 1983-1992
 
   - [トニー・ピューリス](https://ja.wikipedia.org/wiki/トニー・ピューリス "wikilink") 1992-1994
 

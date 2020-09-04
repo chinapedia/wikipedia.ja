@@ -9,7 +9,7 @@
 
 ## 冷戦
 
-[冷戦](../Page/冷戦.md "wikilink")中、オランダ軍情報部は他の諸国と同様、[東側諸国](../Page/東側諸国.md "wikilink")の軍事情報の収集と、基地[警備](../Page/警備.md "wikilink")、自軍内への[スパイ](../Page/スパイ.md "wikilink")の工作阻止を任務としていた。オランダの[シギント](../Page/シギント.md "wikilink")能力はなかなかに高く、[中東](../Page/中東.md "wikilink")方面において、とくに[エジプト軍](https://ja.wikipedia.org/wiki/エジプト軍 "wikilink")の通信を傍受、解読して[イスラエル](../Page/イスラエル.md "wikilink")に提供していた。オランダ駐在の[大使館](../Page/大使館.md "wikilink")の外交通信の傍受も盛んに行っていた。
+[冷戦](../Page/冷戦.md "wikilink")中、オランダ軍情報部は他の諸国と同様、[東側諸国](../Page/東側諸国.md "wikilink")の軍事情報の収集と、基地[警備](../Page/警備.md "wikilink")、自軍内への[スパイ](../Page/スパイ.md "wikilink")の工作阻止を任務としていた。オランダの[シギント](../Page/シギント.md "wikilink")能力はなかなかに高く、[中東](../Page/中東.md "wikilink")方面において、とくに[エジプト軍](../Page/エジプト軍.md "wikilink")の通信を傍受、解読して[イスラエル](../Page/イスラエル.md "wikilink")に提供していた。オランダ駐在の[大使館](../Page/大使館.md "wikilink")の外交通信の傍受も盛んに行っていた。
 
 1987年、3軍の情報部が合同して**MIV**（**軍情報局**）が成立した。
 

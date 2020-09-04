@@ -1,7 +1,7 @@
 > この記事は[悪魔城ドラキュラ \(MSX2\)](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_\(MSX2\))から翻訳されています。
 
 
-『**悪魔城ドラキュラ**』（あくまじょう-、英題: *[Vampire Killer](https://ja.wikipedia.org/wiki/:en:Vampire_Killer "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")に発売された[MSX2](../Page/MSX2.md "wikilink")用ソフトのアクションゲーム。
+『**悪魔城ドラキュラ**』（あくまじょう-、英題: *[Vampire Killer](https://ja.wikipedia.org/wiki/:en:Vampire_Killer "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1986年](../Page/1986年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に発売された[MSX2](../Page/MSX2.md "wikilink")用ソフトのアクションゲーム。
 
 ## 概要
 

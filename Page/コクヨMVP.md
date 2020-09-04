@@ -10,8 +10,8 @@ MVPとは、**M**arket **V**alue **P**roducts の略。
 
   - [1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）12月 - [コクヨ](../Page/コクヨ.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")の収録用品の生産力強化のため、鳥取市に「日本事務用品株式会社」を設立。
   - 1962年（昭和37年） - [用箋挟](../Page/用箋挟.md "wikilink")、[スクラップブック](https://ja.wikipedia.org/wiki/スクラップブック "wikilink")の生産を開始。
-  - [1963年](../Page/1963年.md "wikilink")（昭和38年）11月 - [バインダー](https://ja.wikipedia.org/wiki/バインダー "wikilink")の生産を開始。
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）6月 - [フラットファイル](https://ja.wikipedia.org/wiki/フラットファイル "wikilink")の生産を開始。
+  - [1963年](../Page/1963年.md "wikilink")（昭和38年）11月 - [バインダーの生産を開始](https://ja.wikipedia.org/wiki/バインダー_\(文房具\) "wikilink")。
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）6月 - [フラットファイル](https://ja.wikipedia.org/wiki/フラットファイル "wikilink")の生産を開始。
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）4月 - ジョイナー[アルバム](../Page/アルバム.md "wikilink")の生産を開始。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）10月 - [ケースファイル](https://ja.wikipedia.org/wiki/ケースファイル "wikilink")の生産を開始。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）10月 - 「コクヨ事務用品工業株式会社」に社名変更。

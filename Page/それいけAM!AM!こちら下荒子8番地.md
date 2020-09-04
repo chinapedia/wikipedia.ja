@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[6月](../Page/6月.md "wikilink")に[ミュージックストリート夜はこれから](https://ja.wikipedia.org/wiki/ミュージックストリート夜はこれから "wikilink")を引き継ぐ形で放送開始。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）から長年続いてきたラジオ福島自社製作平日深夜番組の最後の番組である。各曜日、各アナウンサー独自の企画で進行されていた。
+[1986年](../Page/1986年.md "wikilink")（昭和61年）[6月](../Page/6月.md "wikilink")に[ミュージックストリート夜はこれから](https://ja.wikipedia.org/wiki/ミュージックストリート夜はこれから "wikilink")を引き継ぐ形で放送開始。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）から長年続いてきたラジオ福島自社製作平日深夜番組の最後の番組である。各曜日、各アナウンサー独自の企画で進行されていた。
 
 [1991年](../Page/1991年.md "wikilink")（平成3年）4月、それまで午前5時台で放送されていた[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")が24:00～25:00の枠に移動してきたのに伴い、終了した。
 
@@ -17,7 +17,7 @@
 
   - 月曜日 [八塚浩](../Page/八塚浩.md "wikilink")、[小野寺裕子](https://ja.wikipedia.org/wiki/小野寺裕子 "wikilink") （1988年3月まで）
   - 火曜日 [大和田新](../Page/大和田新.md "wikilink")、[大橋雄守](https://ja.wikipedia.org/wiki/大橋雄守 "wikilink") （1990年4月からは水曜日）
-  - 水曜日 [菅原美智子](https://ja.wikipedia.org/wiki/菅原美智子 "wikilink")、[菅野光雄](https://ja.wikipedia.org/wiki/菅野光雄 "wikilink") （1989年3月まで）
+  - 水曜日 [菅原美智子](../Page/菅原美智子.md "wikilink")、[菅野光雄](https://ja.wikipedia.org/wiki/菅野光雄 "wikilink") （1989年3月まで）
   - 木曜日 [荒川守](https://ja.wikipedia.org/wiki/荒川守 "wikilink")、[エディー・オースチン](https://ja.wikipedia.org/wiki/エディー・オースチン "wikilink") （1989年3月まで）
   - 金曜日 [林京子](https://ja.wikipedia.org/wiki/林京子_\(アナウンサー\) "wikilink")、[熊坂セイ子](https://ja.wikipedia.org/wiki/熊坂セイ子 "wikilink")
 

@@ -26,7 +26,7 @@
   - [プレーゴ](https://ja.wikipedia.org/wiki/プレーゴ "wikilink")
   - [片町商店街](https://ja.wikipedia.org/wiki/片町_\(金沢市\)#片町商店街 "wikilink")
   - [片町きらら](https://ja.wikipedia.org/wiki/片町きらら "wikilink")
-  - [香林坊東急スクエア](https://ja.wikipedia.org/wiki/香林坊東急スクエア "wikilink")
+  - [香林坊東急スクエア](../Page/香林坊東急スクエア.md "wikilink")
   - [香林坊アトリオ](../Page/香林坊アトリオ.md "wikilink")
   - [大和香林坊店](../Page/大和_\(百貨店\).md "wikilink")（本店）
 

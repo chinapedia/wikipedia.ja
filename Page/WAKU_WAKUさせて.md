@@ -1,7 +1,7 @@
 > この記事は[WAKU WAKUさせて](https://ja.wikipedia.org/wiki/WAKU_WAKUさせて)から翻訳されています。
 
 
-「**WAKU WAKUさせて**」（ワクワクさせて）は、[中山美穂](../Page/中山美穂.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた(CDS:KIDS-94)。
+「**WAKU WAKUさせて**」（ワクワクさせて）は、[中山美穂](../Page/中山美穂.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](../Page/1986年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた(CDS:KIDS-94)。
 
 ## 解説
 
@@ -22,16 +22,16 @@
 ## 収録アルバム
 
   - **WAKU WAKUさせて**
-      - [EXOTIQUE](https://ja.wikipedia.org/wiki/EXOTIQUE "wikilink")
+      - [EXOTIQUE](../Page/EXOTIQUE.md "wikilink")
       - [COLLECTION](../Page/COLLECTION.md "wikilink")
       - [Dramatic Songs](../Page/Dramatic_Songs.md "wikilink")
-      - [Pure White Live '94](https://ja.wikipedia.org/wiki/Pure_White_Live_'94 "wikilink")（限定盤） - ライブ音源（シングルメドレー）
+      - [Pure White Live '94](../Page/Pure_White_Live_'94.md "wikilink")（限定盤） - ライブ音源（シングルメドレー）
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")
       - [中山美穂 パーフェクト・ベスト2](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト2 "wikilink") - 12inch Single Version
       - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")
   - **ハートのスイッチを押して**
-      - [EXOTIQUE](https://ja.wikipedia.org/wiki/EXOTIQUE "wikilink") - 「SWITCH ON（ハートのスイッチを押して）」表記で収録
+      - [EXOTIQUE](../Page/EXOTIQUE.md "wikilink") - 「SWITCH ON（ハートのスイッチを押して）」表記で収録
       - [Miho's Select](../Page/Miho's_Select.md "wikilink") - 「SWITCH ON」表記で、新録収録
       - [YOUR SELECTION 2](https://ja.wikipedia.org/wiki/YOUR_SELECTION#YOUR_SELECTION_2 "wikilink")
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")

@@ -27,7 +27,7 @@
   - 2008年
       - [5月19日](../Page/5月19日.md "wikilink")：開発・運営を行っていた「ミキシング」（大阪）\[10\]が経営破綻\[11\]。
       - [11月4日](../Page/11月4日.md "wikilink")：[住商アーバン開発](../Page/住商アーバン開発.md "wikilink")が運営を担当\[12\]。
-  - 2009年[11月7日](../Page/11月7日.md "wikilink") - [8日](../Page/11月8日.md "wikilink")：[BSフジ](../Page/BSフジ.md "wikilink")『[Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")』とのタイアップイベント「スーパーキッズ王国 in 東京⇔成田SKYGATEシティ with Beポンキッキ」を開催\[13\]。
+  - 2009年[11月7日](../Page/11月7日.md "wikilink") - [8日](../Page/11月8日.md "wikilink")：[BSフジ](../Page/BSフジ.md "wikilink")『[Beポンキッキ](../Page/Beポンキッキ.md "wikilink")』とのタイアップイベント「スーパーキッズ王国 in 東京⇔成田SKYGATEシティ with Beポンキッキ」を開催\[13\]。
   - 2013年2月：住商アーバン開発に代わって[京阪流通システムズ](https://ja.wikipedia.org/wiki/京阪流通システムズ "wikilink")が運営を担当\[14\]。
   - 2016年7月：京阪流通システムズに代わってジョーンズラングラサール株式会社が運営を担当。
 
@@ -39,7 +39,7 @@
 
   - [ABC-MART OUTLET](../Page/ABCマート.md "wikilink")
   - [SHOE PLAZA Chiyoda](https://ja.wikipedia.org/wiki/チヨダ "wikilink")
-  - [Zoff](https://ja.wikipedia.org/wiki/Zoff "wikilink")
+  - [Zoff](../Page/Zoff.md "wikilink")
   - [パシオス](../Page/パシオス.md "wikilink")
   - [宮脇書店](../Page/宮脇書店.md "wikilink")
   - [Right-on OUTLET](../Page/ライトオン.md "wikilink")

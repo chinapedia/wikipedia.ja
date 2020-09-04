@@ -36,7 +36,7 @@
 /音声87mW</p></td>
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p>不明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1968年" title="wikilink">1968年</a><br />
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a><br />
 <a href="../Page/12月14日.md" title="wikilink">12月14日</a>[1]</p></td>
 </tr>
 <tr class="even">
@@ -56,7 +56,7 @@
 
 ## 外部リンク
 
-  - [地上デジタル放送チャンネル･エリア一覧](http://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
+  - [地上デジタル放送チャンネル･エリア一覧](https://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
 
 ## 脚注
 

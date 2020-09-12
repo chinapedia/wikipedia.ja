@@ -15,8 +15,8 @@
 
 陸上自衛隊師団・旅団の偵察隊に配備される。
 
-  - [リンク=<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:JGSDF_Northern_Army.svg>](https://ja.wikipedia.org/wiki/ファイル:JGSDF_Northern_Army.svg "wikilink")[北部方面隊](../Page/北部方面隊.md "wikilink")
-      - [リンク=<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:JGSDF_2nd_Division.svg>](https://ja.wikipedia.org/wiki/ファイル:JGSDF_2nd_Division.svg "wikilink")[第2師団](../Page/第2師団_\(陸上自衛隊\).md "wikilink") - [第2偵察隊](https://ja.wikipedia.org/wiki/第2偵察隊 "wikilink")（電子偵察小隊：[名寄駐屯地](../Page/名寄駐屯地.md "wikilink")）
+  - [23x23ピクセル](https://ja.wikipedia.org/wiki/ファイル:JGSDF_Northern_Army.svg "wikilink")[北部方面隊](../Page/北部方面隊.md "wikilink")
+      - [フレームなし](https://ja.wikipedia.org/wiki/ファイル:JGSDF_2nd_Division.svg "wikilink")[第2師団](../Page/第2師団_\(陸上自衛隊\).md "wikilink") - [第2偵察隊](https://ja.wikipedia.org/wiki/第2偵察隊 "wikilink")（電子偵察小隊：[名寄駐屯地](../Page/名寄駐屯地.md "wikilink")）
 
 ## 参考文献
 

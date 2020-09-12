@@ -71,7 +71,7 @@
   - 日浦海司
     演 - [藤原樹](https://ja.wikipedia.org/wiki/藤原樹 "wikilink")
   - 小田島陸
-    演 - 長谷川慎
+    演 - [長谷川慎](https://ja.wikipedia.org/wiki/長谷川慎_\(ダンサー\) "wikilink")
 
 ### その他
 
@@ -131,6 +131,10 @@
 
 ### あらすじ（映画）
 
+連続ドラマ・映画・音楽・LIVE…… 極限のメディアミックスで蹴り広げられる、男たちの熱きバトルをスクリーンで目撃せよ。
+
+夜の世界の中心・ナイトリングのNO.1ホストクラブ「クラブ・NOBLE」の代表となった安藤シンタロウ(白濱亜嵐)は、自らの名を「ドリー」と改め、“貴族”としてこの世に生きる弱者を守り、すべての人が笑って暮らせる高貴な世界を作ることを決意する。 そんな彼は、あるきっかけで聖ブリリアント学園の存在を知ることとなる。今や伝説の王子の“聖地”として聖ブリリアント学園には転入者が殺到、「三代目伝説の王子」となった朱雀奏(片寄涼太)は世界中を廻り、王子道を邁進していた。 貴族と王子、果たしてどちらが正義なのか―。 ともに頂点を極める両者が出会ったとき、戦いの幕はすでに切って落とされていた……。
+
 ### キャスト
 
   - 安藤シンタロウ（ドリー）：[白濱亜嵐](https://ja.wikipedia.org/wiki/白濱亜嵐 "wikilink")
@@ -141,7 +145,7 @@
   - 京極竜：[川村壱馬](https://ja.wikipedia.org/wiki/川村壱馬 "wikilink")
   - 天堂光輝（ルイ）：[吉野北人](https://ja.wikipedia.org/wiki/吉野北人 "wikilink")
   - 日浦海司：[藤原樹](https://ja.wikipedia.org/wiki/藤原樹 "wikilink")
-  - 小田島陸：[長谷川慎](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE#メンバー "wikilink")
+  - 小田島陸：[長谷川慎](https://ja.wikipedia.org/wiki/長谷川慎_\(ダンサー\) "wikilink")
   - 結城理一：[町田啓太](https://ja.wikipedia.org/wiki/町田啓太 "wikilink")
   - 嵯峨沢ハル：[清原翔](https://ja.wikipedia.org/wiki/清原翔 "wikilink")
   - ヤス（ミッシェル）：[廣瀬智紀](https://ja.wikipedia.org/wiki/廣瀬智紀 "wikilink")

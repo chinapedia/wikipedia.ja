@@ -37,17 +37,9 @@
 \- Music Video -
 
 1.  **Who Are You?**
-      -
-        Directed by [NINOMIYA“NINO”DAISUKE](https://ja.wikipedia.org/wiki/二宮“NINO”大輔 "wikilink")
 2.  **BLUE SAPPHIRE**
-      -
-        Directed by NINOMIYA“NINO”DAISUKE
 3.  **NAKED LOVE**
-      -
-        Directed by NINOMIYA“NINO”DAISUKE
 4.  **OVERDOSE**
-      -
-        Directed by NINOMIYA“NINO”DAISUKE
 5.  **One Way Love**
 
 \- Document / Live -

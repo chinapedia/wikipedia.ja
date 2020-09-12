@@ -5,7 +5,7 @@
 
 ## 設備
 
-東京ガス用地開発（2019年より[東京ガス不動産](https://ja.wikipedia.org/wiki/東京ガス不動産 "wikilink")）が推進する「TOYOSU22」プロジェクトの一環として、[膜構造](../Page/膜構造.md "wikilink")を得意とする太陽工業を建築主として全天候型の[ランニング施設が建設され](../Page/ジョギング.md "wikilink")、2016年にオープンした。[東京建物](../Page/東京建物.md "wikilink")が創業120周年記念事業として参画し、[ネーミングライツを取得して同社のマンションのブランド名であるBrilliaを施設名に冠した](https://ja.wikipedia.org/wiki/命名権 "wikilink")\[1\]。
+東京ガス用地開発（2019年より[東京ガス不動産](https://ja.wikipedia.org/wiki/東京ガス不動産 "wikilink")）が推進する「TOYOSU22」プロジェクトの一環として、[膜構造](../Page/膜構造.md "wikilink")を得意とする[太陽工業](https://ja.wikipedia.org/wiki/太陽工業 "wikilink")を建築主として全天候型の[ランニング施設が建設され](../Page/ジョギング.md "wikilink")、2016年にオープンした。[東京建物](../Page/東京建物.md "wikilink")が創業120周年記念事業として参画し、[ネーミングライツを取得して同社のマンションのブランド名であるBrilliaを施設名に冠した](https://ja.wikipedia.org/wiki/命名権 "wikilink")\[1\]。
 
 全長108mのトンネル状の構造内部に60mの[ランニングトラックが](https://ja.wikipedia.org/wiki/陸上競技場#トラック "wikilink")6レーン設けられており\[2\]、[障害者スポーツ](../Page/障害者スポーツ.md "wikilink")の利用を念頭に置いてシャワー室等は[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")でも利用できる[バリアフリー](../Page/バリアフリー.md "wikilink")構造となっている\[3\]。館長には、[為末大](../Page/為末大.md "wikilink")が招聘された\[4\]。
 

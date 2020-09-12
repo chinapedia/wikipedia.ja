@@ -98,13 +98,13 @@
 
 <!-- end list -->
 
-  - [ハロー、ハッピーワールド\!](https://ja.wikipedia.org/wiki/BanG_Dream!#ハロー、ハッピーワールド! "wikilink")［弦巻こころ（[伊藤美来](https://ja.wikipedia.org/wiki/伊藤美来 "wikilink")）］ - ゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』に収録（2019年3月31日追加）\[9\]。
+  - [ハロー、ハッピーワールド\!](https://ja.wikipedia.org/wiki/BanG_Dream!の登場人物#ハロー、ハッピーワールド! "wikilink")［弦巻こころ（[伊藤美来](https://ja.wikipedia.org/wiki/伊藤美来 "wikilink")）］ - ゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』に収録（2019年3月31日追加）\[9\]。
 
 ## 脚注
 
 ## 外部リンク
 
-  - [ユニバーサルミュージックによる紹介ページ](http://www.universal-music.co.jp/mrsgreenapple/products/upch-20396/)
+  - [ユニバーサルミュージックによる紹介ページ](https://www.universal-music.co.jp/mrsgreenapple/products/upch-20396/)
 
 [Category:Mrs._GREEN_APPLEのアルバム](https://ja.wikipedia.org/wiki/Category:Mrs._GREEN_APPLEのアルバム "wikilink") [Category:2015年のアルバム](https://ja.wikipedia.org/wiki/Category:2015年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
 

@@ -9,7 +9,7 @@
 
 同時期に製造されていたウスチ＝カタフスキー車両製造工場製の[路面電車](../Page/路面電車.md "wikilink")である**[KTM-8](../Page/KTM-8.md "wikilink")（71-608）**を基にした車体を有するが、終端に[ループ線](../Page/ループ線.md "wikilink")が存在しない、[プラットホーム](../Page/プラットホーム.md "wikilink")が両側に存在するなどの条件が存在するメトロトラムに対応するため、車体の両側に乗降扉が設置されている。また、2両 - 4両編成の連結運転が可能なように[総括制御](../Page/総括制御.md "wikilink")が可能な機器が搭載されている。車内の座席は大型規格の地下鉄車両と同様に[ロングシートが設置されている](../Page/鉄道車両の座席.md "wikilink")。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にクルィヴィーイ・リーフ市からの要請を受けて開発が始まり、まず[1992年](../Page/1992年.md "wikilink")に試作車（2両編成1本）が完成し[ヴォルゴグラード・メトロトラム](https://ja.wikipedia.org/wiki/ヴォルゴグラード・メトロトラム "wikilink")で試験運転が実施された。その中で屋根上に設置された静的コンバータの信頼性や加減速の性能に問題が指摘され、翌[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで製造され[クルィヴィーイ・リーフ・メトロトラム](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ・メトロトラム "wikilink")に導入された量産車ではそれらの改良が実施され、[車両限界](https://ja.wikipedia.org/wiki/車両限界 "wikilink")の都合上コンバータは床下に移設された。この量産車11両の編成の内訳は2両編成1本と3両編成3本であり、うち3両編成の中間には運転台や[集電装置](../Page/集電装置.md "wikilink")が設置されていない中間電動車の**KTM-11P（71-611P、71-611П）**が連結されている。[2015年](../Page/2015年.md "wikilink")の時点で10両が残存しており、うちヴォルゴグラードから譲渡された2両がに、8両はクルィヴィーイ・リーフ・メトロトラムに引き続き在籍する。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にクルィヴィーイ・リーフ市からの要請を受けて開発が始まり、まず[1992年](../Page/1992年.md "wikilink")に試作車（2両編成1本）が完成し[ヴォルゴグラード・メトロトラム](https://ja.wikipedia.org/wiki/ヴォルゴグラード・メトロトラム "wikilink")で試験運転が実施された。その中で屋根上に設置された静的コンバータの信頼性や加減速の性能に問題が指摘され、翌[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで製造され[クルィヴィーイ・リーフ・メトロトラム](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ・メトロトラム "wikilink")に導入された量産車ではそれらの改良が実施され、[車両限界](https://ja.wikipedia.org/wiki/車両限界 "wikilink")の都合上コンバータは床下に移設された。この量産車11両の編成の内訳は2両編成1本と3両編成3本であり、うち3両編成の中間には運転台や[集電装置](../Page/集電装置.md "wikilink")が設置されていない中間電動車の**KTM-11P（71-611P、71-611П）**が連結されている。[2015年](../Page/2015年.md "wikilink")の時点で10両が残存しており、うちヴォルゴグラードから譲渡された2両が[ヴォルシスキー市電](../Page/ヴォルシスキー市電.md "wikilink")に、8両はクルィヴィーイ・リーフ・メトロトラムに引き続き在籍する。
 
 ## 脚注
 
@@ -17,7 +17,7 @@
 
 ### 出典
 
-[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ヴォルゴグラード市電](https://ja.wikipedia.org/wiki/Category:ヴォルゴグラード市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:1992年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1992年製の鉄道車両 "wikilink")
+[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ヴォルゴグラード市電](https://ja.wikipedia.org/wiki/Category:ヴォルゴグラード市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:クルィヴィーイ・リーフ市電](https://ja.wikipedia.org/wiki/Category:クルィヴィーイ・リーフ市電 "wikilink") [Category:1992年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1992年製の鉄道車両 "wikilink")
 
 1.
 2.

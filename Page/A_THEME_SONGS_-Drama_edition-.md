@@ -57,9 +57,9 @@
       -
         4thミニ・アルバム『again』収録曲
         フジテレビ系列金曜プレステージ・スペシャルドラマ『[鬼女](../Page/鬼女.md "wikilink")』主題歌
-12. **[Hello new me](https://ja.wikipedia.org/wiki/Colours_\(浜崎あゆみのアルバム\) "wikilink")**
+12. **[Hello new me](../Page/Hello_new_me.md "wikilink")**
       -
-        15thアルバム『Colours』収録曲
+        配信限定シングル
         フジテレビ系『[続・最後から二番目の恋](https://ja.wikipedia.org/wiki/最後から二番目の恋#続・最後から二番目の恋 "wikilink")』主題歌
 
 ## 脚注

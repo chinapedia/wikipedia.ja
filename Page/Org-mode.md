@@ -1,7 +1,7 @@
 > この記事は[Org-mode](https://ja.wikipedia.org/wiki/Org-mode)から翻訳されています。
 
 
-**org-mode**（オーグモード　/ˈɔːrɡ moʊd/）とは、[テキストエディタ](../Page/テキストエディタ.md "wikilink")である[Emacs](../Page/Emacs.md "wikilink")の標準添付のモードである。Emacsの利用者のからは幅広い支持がある。Emacsの[Outline-mode](https://ja.wikipedia.org/wiki/Outline-mode "wikilink")をもとにして作られた。\[1\]主な機能として、アウトライン、TODO、表などがあり、Org-modeで作った物を[LaTeX](../Page/LaTeX.md "wikilink")や[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")、[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")などに変える機能がある。
+**org-mode**（オーグモード　/ˈɔːrɡ moʊd/）とは、[テキストエディタ](../Page/テキストエディタ.md "wikilink")である[Emacs](../Page/Emacs.md "wikilink")の標準添付のモードである。Emacsの利用者からは幅広い支持がある。Emacsの[Outline-mode](https://ja.wikipedia.org/wiki/Outline-mode "wikilink")をもとにして作られた。\[1\]主な機能として、アウトライン、TODO、表などがあり、Org-modeで作った物を[LaTeX](../Page/LaTeX.md "wikilink")や[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")、[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")などに変える機能がある。
 
 ## 歴史
 

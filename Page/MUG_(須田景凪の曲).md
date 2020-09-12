@@ -1,11 +1,11 @@
 > この記事は[MUG \(須田景凪の曲\)](https://ja.wikipedia.org/wiki/MUG_\(須田景凪の曲\))から翻訳されています。
 
 
-**MUG** (まぐ) は、[須田景凪](https://ja.wikipedia.org/wiki/須田景凪 "wikilink")の楽曲。デジタル配信限定シングルとして[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）より2020年4月24日に各音楽配信サービスにてリリースされた\[1\]。
+**MUG**（まぐ）は、[須田景凪](https://ja.wikipedia.org/wiki/須田景凪 "wikilink")の楽曲。デジタル配信限定シングルとして[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）より[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に各音楽配信サービスにてリリースされた\[1\]。
 
 ## 背景
 
-2019年12月17日、テレビドラマ主題歌「[はるどなり](../Page/はるどなり.md "wikilink")」を完成させた直後、突発的に製作された楽曲。当初はこの楽曲を配信する予定はなかった\[2\]\[3\]。
+[2019年](../Page/2019年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")、[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[アライブ がん専門医のカルテ](https://ja.wikipedia.org/wiki/アライブ_がん専門医のカルテ "wikilink")」主題歌「[はるどなり](../Page/はるどなり.md "wikilink")」を完成させた直後、突発的に製作された楽曲。当初はこの楽曲を配信する予定はなかった\[2\]\[3\]。
 
 この曲の配信日である2020年4月24日に、本来はライブ「須田景凪 TOUR 2020 はるどなり」の札幌公演を行う予定であったが、[新型コロナウイルスの影響を受けライブが中止となったため](../Page/2019新型コロナウイルス.md "wikilink")、急遽この日に配信リリースされた\[4\]。
 

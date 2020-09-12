@@ -213,6 +213,6 @@
   -
   -
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink")
 
 1.  [PassCode所属事務所から4人組アイドル「Kolokol」デビュー](https://natalie.mu/music/news/280295)

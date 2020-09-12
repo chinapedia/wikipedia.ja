@@ -32,8 +32,6 @@
 
 2019年[12月21日](../Page/12月21日.md "wikilink")にはジャケットアートワークが公開され、名探偵コナン盤のアートワークは、「真っ赤なLip」をつけた[毛利蘭](../Page/毛利蘭.md "wikilink")と、そのセクシーな姿にドキドキする[工藤新一のビジュアルとなっている](../Page/江戸川コナン.md "wikilink")\[30\]。
 
-通常盤ではメンバー3人の表情が正面からハーフシャドウの技法で撮影されており、上原のシングルジャケットへの顔出しは初となる他、柴崎は第2期ラストシングル「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」、木村は「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」以来の登場となる（第3期最後のシングル『[「今日、ナニカノハズミデ生きている」](../Page/「今日、ナニカノハズミデ生きている」.md "wikilink")』は、[和久二郎](https://ja.wikipedia.org/wiki/和久二郎 "wikilink")のみがジャケット写真に写っている）。
-
 ## ミュージックビデオ
 
 2020年[1月11日](../Page/1月11日.md "wikilink")24時よりオフィシャル[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルで表題曲「真っ赤なLip」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が公開され、[読売テレビのアニメ](../Page/讀賣テレビ放送.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』公式YouTubeチャンネルでは同曲に合わせて[江戸川コナン](../Page/江戸川コナン.md "wikilink")が踊るダンス動画とオープニング映像が公開されている\[31\]\[32\]\[33\]\[34\]。
@@ -48,7 +46,7 @@
 
 **真っ赤なLip**
 
-  - [THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md "wikilink")（TV size）\[35\]\[36\]
+  - [THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md "wikilink") (TV size)\[35\]\[36\]
 
 ## 脚注
 

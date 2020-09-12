@@ -66,6 +66,9 @@
 
 ## 外部リンク
 
-[Category:ジャニーズWESTの楽曲](https://ja.wikipedia.org/wiki/Category:ジャニーズWESTの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:Jazzin'_parkが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Jazzin'_parkが制作した楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:バレーボールワールドカップ](https://ja.wikipedia.org/wiki/Category:バレーボールワールドカップ "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
+  - [Johnny's Entertainment Recordによる紹介ページ](https://www.jehp.jp/jwest_discography/article/2654)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=29&data=2257)
+
+[Category:ジャニーズWESTの楽曲](https://ja.wikipedia.org/wiki/Category:ジャニーズWESTの楽曲 "wikilink") [Category:バレーボールワールドカップ](https://ja.wikipedia.org/wiki/Category:バレーボールワールドカップ "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:Jazzin'_parkが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Jazzin'_parkが制作した楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
 1.

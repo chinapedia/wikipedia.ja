@@ -1,11 +1,11 @@
 > この記事は[ターゲット \(FLOWER FLOWERのアルバム\)](https://ja.wikipedia.org/wiki/ターゲット_\(FLOWER_FLOWERのアルバム\))から翻訳されています。
 
 
-『**ターゲット**』は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[FLOWER FLOWERの](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")3枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")の内部レーベルである[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")から発売予定。
+『**ターゲット**』は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[FLOWER FLOWERの](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")3枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")の内部レーベルである[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")から発売。
 
 ## 解説
 
-前作『スポットライト』から2年ぶりに発売されるフルアルバム。
+前作『スポットライト』から2年ぶりに発売されたフルアルバム。
 
 初回生産限定盤と通常盤の2種類がリリースされ、初回生産限定盤にはライブ映像等が収録された[Blue-ray](https://ja.wikipedia.org/wiki/Blue-ray "wikilink")が付属する。
 

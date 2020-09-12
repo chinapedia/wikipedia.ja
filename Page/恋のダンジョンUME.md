@@ -1,7 +1,7 @@
 > この記事は[恋のダンジョンUME](https://ja.wikipedia.org/wiki/恋のダンジョンUME)から翻訳されています。
 
 
-「**恋のダンジョンUME**」（こいのダンジョン・ユーエンミー\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性アイドルグループ[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")のメジャー6枚目の[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[avex traxから発売される](https://ja.wikipedia.org/wiki/avex_trax "wikilink")\[2\]\[3\]。
+「**恋のダンジョンUME**」（こいのダンジョン・ユーエンミー\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性アイドルグループ[たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")のメジャー6枚目の[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")\[2\]\[3\]。
 
 ## 概要
 

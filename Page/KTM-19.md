@@ -64,11 +64,15 @@
 
 ### ギャラリー
 
-<File:71-619> (KTM-19) in Biysk.jpg|71-619KT（[ビイスク](https://ja.wikipedia.org/wiki/ビイスク "wikilink")） <File:Chelyabinsk> tramway, trolleybus and cars.jpg|71-619KT（[チェリャビンスク](../Page/チェリャビンスク.md "wikilink")） <File:Irkutsk> tram 71-619KT 225 (32720611525).jpg|71-619KT（[イルクーツク](../Page/イルクーツク.md "wikilink")）
+<File:71-619> (KTM-19) in Biysk.jpg|71-619KT（[ビイスク](https://ja.wikipedia.org/wiki/ビイスク "wikilink")） <File:Chelyabinsk> tramway, trolleybus and cars.jpg|71-619KT（[チェリャビンスク](../Page/チェリャビンスク.md "wikilink")）
+（） <File:Irkutsk> tram 71-619KT 225 (32720611525).jpg|71-619KT（[イルクーツク](../Page/イルクーツク.md "wikilink")）
 （[イルクーツク市電](https://ja.wikipedia.org/wiki/イルクーツク市電 "wikilink")） <File:Трамвай>. г. Кемерово.jpg|71-619KT（[ケメロヴォ](../Page/ケメロヴォ.md "wikilink")）
-（） <File:Kolomna> 04-2014 img12 tram.jpg|71-619KT（[コロムナ](../Page/コロムナ.md "wikilink")）
-（） <File:Tram> of Krasnodar 2.jpg|71-619KT（[クラスノダール](../Page/クラスノダール.md "wikilink")） <File:Трамвай> 71-619КТ в Набережных Челнах.jpg|71-619KT（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")） <File:Трамвай> в Новокузнецке.jpg|71-619KT（[ノヴォクズネツク](../Page/ノヴォクズネツク.md "wikilink")） <File:71-619> (KTM-19) in Perm, Lenina st..jpg|71-619KT（[ペルミ](../Page/ペルミ.md "wikilink")） <File:71-619KT> (KTM-19KT) in Prokopyevsk, Gaydar str..jpg|71-619KT（[プロコピエフスク](https://ja.wikipedia.org/wiki/プロコピエフスク "wikilink")） <File:Saratov> trams 1002+1004.jpg|71-619KT（[サラトフ](../Page/サラトフ.md "wikilink")） <File:Трамвай> 71-619КТ в Томске (пр. Кирова).jpg|71-619KT（[トムスク](../Page/トムスク.md "wikilink")） <File:71-619КТ> Ульяновск.jpg|71-619KT（[ウリヤノフスク](../Page/ウリヤノフスク.md "wikilink")） <File:Волчанск>. 71-619КТ выезжает из депо.jpg|71-619KT（） <File:Tram> 71-619KT in Yaroslavl 02.jpg|71-619KT（[ヤロスラヴリ](../Page/ヤロスラヴリ.md "wikilink")）
-（） <File:Kharkov> tram 3102.JPG|71-619KT（[ハルキウ](../Page/ハルキウ.md "wikilink")）
+（[ケメロヴォ市電](https://ja.wikipedia.org/wiki/ケメロヴォ市電 "wikilink")） <File:Kolomna> 04-2014 img12 tram.jpg|71-619KT（[コロムナ](../Page/コロムナ.md "wikilink")）
+（[コロムナ市電](../Page/コロムナ市電.md "wikilink")） <File:Tram> of Krasnodar 2.jpg|71-619KT（[クラスノダール](../Page/クラスノダール.md "wikilink")） <File:Трамвай> 71-619КТ в Набережных Челнах.jpg|71-619KT（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")）
+（[ナーベレジヌイェ・チェルヌイ市電](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ市電 "wikilink")） <File:Трамвай> в Новокузнецке.jpg|71-619KT（[ノヴォクズネツク](../Page/ノヴォクズネツク.md "wikilink")）
+（[ノヴォクズネツク市電](https://ja.wikipedia.org/wiki/ノヴォクズネツク市電 "wikilink")） <File:71-619> (KTM-19) in Perm, Lenina st..jpg|71-619KT（[ペルミ](../Page/ペルミ.md "wikilink")） <File:71-619KT> (KTM-19KT) in Prokopyevsk, Gaydar str..jpg|71-619KT（[プロコピエフスク](https://ja.wikipedia.org/wiki/プロコピエフスク "wikilink")） <File:Saratov> trams 1002+1004.jpg|71-619KT（[サラトフ](../Page/サラトフ.md "wikilink")） <File:Трамвай> 71-619КТ в Томске (пр. Кирова).jpg|71-619KT（[トムスク](../Page/トムスク.md "wikilink")） <File:71-619КТ> Ульяновск.jpg|71-619KT（[ウリヤノフスク](../Page/ウリヤノフスク.md "wikilink")） <File:Волчанск>. 71-619КТ выезжает из депо.jpg|71-619KT（）
+（） <File:Tram> 71-619KT in Yaroslavl 02.jpg|71-619KT（[ヤロスラヴリ](../Page/ヤロスラヴリ.md "wikilink")）
+（[ヤロスラヴリ市電](../Page/ヤロスラヴリ市電.md "wikilink")） <File:Kharkov> tram 3102.JPG|71-619KT（[ハルキウ](../Page/ハルキウ.md "wikilink")）
 （[ハルキウ市電](../Page/ハルキウ市電.md "wikilink")） <File:КТМ-19> 3109.jpg|71-619KT（[タシュケント](../Page/タシュケント.md "wikilink")）
 （[タシュケント市電](https://ja.wikipedia.org/wiki/タシュケント市電 "wikilink")）
 
@@ -78,7 +82,9 @@
 
 [2007年](../Page/2007年.md "wikilink")から製造が行われ、台車の構造や電気機器が一部異なる**71-619A-01（71-619А-01）**と共に、[2012年](../Page/2012年.md "wikilink")までに213両が製造された\[5\]。
 
-<File:Трамвай> 71-619А в Набережных Челнах.jpg|71-619A（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")） <File:Трамвайный> вагон 71-619А в Набережных Челнах.jpg|後方（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")）
+<File:Трамвай> 71-619А в Набережных Челнах.jpg|71-619A（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")）
+（[ナーベレジヌイェ・チェルヌイ市電](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ市電 "wikilink")） <File:Трамвайный> вагон 71-619А в Набережных Челнах.jpg|後方（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")） [File:Tram32inZlatoust.jpg|71-619A](File:Tram32inZlatoust.jpg%7C71-619A)（[ズラトウースト](https://ja.wikipedia.org/wiki/ズラトウースト "wikilink")）
+（）
 
 ## モスクワ市電の車両について
 
@@ -87,7 +93,7 @@
 <File:Moscow> tram 71-619K 1282 (14480282048).jpg|71-619K（[モスクワ](../Page/モスクワ.md "wikilink")） <File:Moscow> tram 71-619KT 2149 20101113 0588 (12159565503).jpg|71-619KT（[モスクワ](../Page/モスクワ.md "wikilink")） <File:Tram> 71-619A plant №00164.JPG|71-619A（[モスクワ](../Page/モスクワ.md "wikilink")） <File:71-619A-01> in Moscow.jpg|71-619A-01（[モスクワ](../Page/モスクワ.md "wikilink")）
 
 <File:КТМ-19> из Москвы.jpg|71-619（[ヤロスラヴリ](../Page/ヤロスラヴリ.md "wikilink")）
-（）
+（[ヤロスラヴリ市電](../Page/ヤロスラヴリ市電.md "wikilink")）
 モスクワ市電からの譲渡車両
 
 ## 主要諸元

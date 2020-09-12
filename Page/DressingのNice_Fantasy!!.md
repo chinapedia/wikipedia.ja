@@ -216,7 +216,7 @@ Dressingが他のアーティストの楽曲をカラオケに乗せて歌うコ
 第101回〜第150回
 
 
-{| class="wikitable mw-collapsible mw-collapsed" |+第151回～第160回 \!<small>放送回</small> \!<small>曲名</small> \!<small>オリジナルアーティスト</small> |- |<small>第151回</small> |<small>WINDING ROAD</small> |<small>コブクロ＆絢香</small> |- |<small>第152回</small> |<small>NEVER LAND</small> |<small>Dressing</small> |- |<small>第153回</small> |<small>ENDLESS STORY</small> |[<small>REIRA starring YUNA ITO</small>](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink") |- |<small>第154回</small> |<small>Try Everything</small> |<small>ディズニー映画『ズートピア』より</small> |- |<small>第155回</small> |<small>乙女のポリシー</small> |<small>石田よう子</small> |- |<small>第156回</small> |<small>キラキラ</small> |<small>aiko</small> \[20\] |- |<small>第157回</small> | | |- |<small>第158回</small> | | |- |<small>第159回</small> | | |- |<small>第160回</small> | | |}
+{| class="wikitable mw-collapsible mw-collapsed" |+第151回～第165回 \!<small>放送回</small> \!<small>曲名</small> \!<small>オリジナルアーティスト</small> |- |<small>第151回</small> |<small>WINDING ROAD</small> |<small>コブクロ＆絢香</small> |- |<small>第152回</small> |<small>NEVER LAND</small> |<small>Dressing</small> |- |<small>第153回</small> |<small>ENDLESS STORY</small> |[<small>REIRA starring YUNA ITO</small>](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink") |- |<small>第154回</small> |<small>Try Everything</small> |<small>ディズニー映画『ズートピア』より</small> |- |<small>第155回</small> |<small>乙女のポリシー</small> |<small>石田よう子</small> |- |<small>第156回</small> |<small>頑張ったっていいんじゃない</small> |<small>大原櫻子 (from MUSH\&Co.)</small> |- |<small>第157回</small> |<small>キラキラ</small> |<small>aiko</small> |- |<small>第158回</small> |<small>365日の紙飛行機</small> |<small>AKB48</small> |- |<small>第159回</small> |<small>Darling</small> |<small>西野カナ</small> |- |<small>第160回</small> |<small>Song for...</small> |<small>HY</small> |- |<small>第161回</small> |<small>輝く未来</small> |<small>ディズニー映画『塔の上のラプンツェル』より</small> |- |<small>第162回</small> |<small>気がつけば あなた</small> |<small>松浦亜弥</small> |- |<small>第163回</small> |<small>最愛</small> |<small>KOH+</small> |- |<small>第164回</small> | | |- |<small>第165回</small> | | |}
 
 ### エンディング
 
@@ -283,22 +283,24 @@ Dressingが他のアーティストの楽曲をカラオケに乗せて歌うコ
 
 ## エピソード
 
-  - 「[爆笑問題の日曜サンデー](../Page/爆笑問題の日曜サンデー.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）」内で毎年4月に行われている「爆笑問題プレゼンツ 全日本新番組選手権 2017」にノミネートされ、リスナーによる投票でグランプリを獲得した\[21\]。その際は電話出演のみであったが、翌年にはスタジオでの生出演も実現している<ref>
+  - 「[爆笑問題の日曜サンデー](../Page/爆笑問題の日曜サンデー.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）」内で毎年4月に行われている「爆笑問題プレゼンツ 全日本新番組選手権 2017」にノミネートされ、リスナーによる投票でグランプリを獲得した\[20\]。その際は電話出演のみであったが、翌年にはスタジオでの生出演も実現している<ref>
 
 </ref>。
 
-  - NHK・民放連によるラジオ共同キャンペーン「\#このラジオがヤバい」において、2019年2月26日に「日刊ヤバラジ」として選定された\[22\]。また、後に全国の中学校・高等学校に配布されたリーフレットでは「いま、10代が聴くべき50のラジオ」としてリストアップされている<ref>
+  - NHK・民放連によるラジオ共同キャンペーン「\#このラジオがヤバい」において、2019年2月26日に「日刊ヤバラジ」として選定された\[21\]。また、後に全国の中学校・高等学校に配布されたリーフレットでは「いま、10代が聴くべき50のラジオ」としてリストアップされている<ref>
 
 </ref>。
 
-  - 座っているとうまく喋れないため、立った状態で収録を行っている\[23\]。
+  - 座っているとうまく喋れないため、立った状態で収録を行っている\[22\]。
 
 <!-- end list -->
 
-  - 2017年10月には[小出祐介](../Page/小出祐介.md "wikilink")（[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")）が、2019年10月には[SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")のMOMIKEN・KENTA\[24\]など、広島でライブを行った著名なアーティストからのコメントが放送で紹介されることがある。
+  - 2017年10月には[小出祐介](../Page/小出祐介.md "wikilink")（[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")）が、2019年10月には[SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")のMOMIKEN・KENTA\[23\]など、広島でライブを行った著名なアーティストからのコメントが放送で紹介されることがある。
   - 2020年1月には初のゲストとしてHánnaが登場した。
   - 本番組は事前収録の形式をとっているが、2017年および2018年のナイターシーズンは [RCCカープナイター](../Page/RCCカープナイター.md "wikilink") の放送時間が延長となり、放送されなかったことがある。そのため、2019年のプロ野球シーズンには日曜日の 22:40 から再放送が行われ、9月のシーズン終了まで続いた。
-  - 2020年3月16日放送分において、2020年 4月から放送枠の移動が行われることが発表された。毎週日曜日 21:00から放送されるうえに、放送時間も15分間から30分間に拡大される\[25\]。
+  - 2020年3月16日放送分において、2020年 4月から放送枠の移動が行われることが発表された。毎週日曜日 21:00から放送されるうえに、放送時間も15分間から30分間に拡大される\[24\]。
+  - 新型コロナウイルス感染症の影響に伴い、第156回から第162回まではRCCのスタジオではなくDressingの自宅にて収録が行われた。
+  - 2020年6月7日放送分では「ディズニープリンセス特集」が組まれた。
 
 ## 脚注
 
@@ -332,9 +334,8 @@ Dressingが他のアーティストの楽曲をカラオケに乗せて歌うコ
 17. アルバム『Infinity∞』より
 18. ゲストであるHánnaのリクエスト曲。
 19. 「Dressingが好きなディズニーの曲」として、オリジナルのすずきまゆみ版をオンエア。
-20. 新型コロナウイルス対策の一環で自宅から収録したため、第20回で流した音源を放送
+20.
 21.
 22.
-23.
-24. かつて小出が司会を務めていたネット番組「真夜中のニャーゴ」にゲストとして出演したことがある。また、SPYAIRはDressing自らがファンと公言している。
-25.
+23. かつて小出が司会を務めていたネット番組「真夜中のニャーゴ」にゲストとして出演したことがある。また、SPYAIRはDressing自らがファンと公言している。
+24.

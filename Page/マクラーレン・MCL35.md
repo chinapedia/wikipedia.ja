@@ -15,11 +15,15 @@
 
 ドライバーは[カルロス・サインツJr.](https://ja.wikipedia.org/wiki/カルロス・サインツJr. "wikilink")と[ランド・ノリス](https://ja.wikipedia.org/wiki/ランド・ノリス "wikilink")のコンビを継続。
 
-開幕戦となる予定だった[オーストラリアGPはスタッフが](../Page/2020年オーストラリアグランプリ.md "wikilink")[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")に感染したことによりレースから撤退した\[6\]。これを受け、同GPは中止となった\[7\]。
+プレシーズンテストではマシンの習熟を優先したため\[6\]、ラップタイム上では前年の下位に当たるチームに負けた面もあったが\[7\]、全体としては前年の好調を維持していることをアピールしてテストを終えた。
+
+開幕戦となる予定だった[オーストラリアGPではスタッフが](../Page/2020年オーストラリアグランプリ.md "wikilink")[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")(COVID-19)に感染したことによりレースから撤退した\[8\]。これを受け、同GPは中止となった\[9\]。その後[コロナウイルスの世界的流行の影響が深刻化し](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、F1は休止状態となったが、4カ月遅れの開幕戦となった[オーストリアGPでは](https://ja.wikipedia.org/wiki/2020年オーストリアグランプリ "wikilink")、2台とも予選Q3進出を果たし、ノリスが2列目スタートを獲得。そして、決勝はサバイバルレースとなり、2台とも常時入賞圏内をキープ。そんななか、終盤4位を走行していたノリスだったが、2位の[ルイス・ハミルトン](../Page/ルイス・ハミルトン.md "wikilink")(メルセデス)がレース中の接触の責を問われ、5秒のタイムペナルティ加算が確定。それを受け、ノリスはペースアップし、最終ラップで[ファステストラップ](../Page/ファステストラップ.md "wikilink")を記録した結果、その5秒圏内に入ることに成功し、繰り上げという形ではあるが3位表彰台を獲得\[10\]。チームとしては、ノリスのキャリア初の表彰台獲得を含めたダブル入賞でスタートを切ることとなった\[11\]。
+
+それ以降もコースコンディションがチームにとって不利な状況\[12\]な時以外では、安定して入賞圏内で順位を争うレース展開を見せており、少なくとも、前年からの好調を維持している状況となっている。
 
 ## スペック
 
-\[8\]
+\[13\]
 
 ### シャシー
 
@@ -91,91 +95,85 @@
 <thead>
 <tr class="header">
 <th><p>年</p></th>
-<th><p>チーム</p></th>
-<th><p>パワーユニット</p></th>
-<th><p>タイヤ</p></th>
 <th><p>No.</p></th>
 <th><p>ドライバー</p></th>
-<th><p>グランプリ</p></th>
-<th><p>ポイント</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年オーストリアグランプリ" title="wikilink">AUT</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年シュタイアーマルクグランプリ" title="wikilink">STY</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年ハンガリーグランプリ" title="wikilink">HUN</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年イギリスグランプリ" title="wikilink">GBR</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/70周年記念グランプリ" title="wikilink">70A</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年スペイングランプリ" title="wikilink">ESP</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年ベルギーグランプリ" title="wikilink">BEL</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年イタリアグランプリ" title="wikilink">ITA</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年トスカーナグランプリ" title="wikilink">TUS</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年ロシアグランプリ" title="wikilink">RUS</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年アイフェルグランプリ" title="wikilink">EIF</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年ポルトガルグランプリ" title="wikilink">POR</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年エミリア・ロマーニャグランプリ" title="wikilink">EMI</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年トルコグランプリ" title="wikilink">TUR</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年サヒールグランプリ" title="wikilink">SKR</a><br />
+</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/2020年アブダビグランプリ" title="wikilink">ABU</a><br />
+</p></th>
+<th><p><a href="../Page/F1世界選手権ポイントシステム.md" title="wikilink">ポイント</a></p></th>
 <th><p>ランキング</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年のF1世界選手権" title="wikilink">2020</a></p></td>
-<td><p><a href="../Page/マクラーレン.md" title="wikilink">マクラーレン</a>F1チーム</p></td>
-<td><p><a href="../Page/ルノーF1.md" title="wikilink">ルノー</a> E-Tech 20<br />
-1.6L <a href="../Page/V型6気筒.md" title="wikilink">V6</a><a href="../Page/ターボチャージャー.md" title="wikilink">t</a></p></td>
-<td></td>
 <td><p>55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・サインツJr." title="wikilink">サインツ</a></p></td>
-<td><p><a href="../Page/2020年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
-WD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
--</p></td>
+<td><p>5</p></td>
+<td><p><em>9</em></p></td>
+<td><p>9</p></td>
+<td><p>13</p></td>
+<td><p>13</p></td>
+<td><p>6</p></td>
+<td><p>DNS</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong>68</strong><sup>*</sup></p></td>
+<td><p><strong>3位</strong><sup>*</sup></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ハンガリーグランプリ" title="wikilink">HUN</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ベルギーグランプリ" title="wikilink">BEL</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年イタリアグランプリ" title="wikilink">ITA</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年シンガポールグランプリ" title="wikilink">SIN</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ロシアグランプリ" title="wikilink">RUS</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年アメリカグランプリ" title="wikilink">USA</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年メキシコシティグランプリ" title="wikilink">MEX</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ブラジルグランプリ" title="wikilink">BRA</a><br />
--</p></td>
-</tr>
-<tr class="odd">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ランド・ノリス" title="wikilink">ノリス</a></p></td>
-<td><p><a href="../Page/2020年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
-WD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年オランダグランプリ" title="wikilink">NED</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年スペイングランプリ" title="wikilink">ESP</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年モナコグランプリ" title="wikilink">MON</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年アゼルバイジャングランプリ" title="wikilink">AZE</a><br />
--</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ハンガリーグランプリ" title="wikilink">HUN</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ベルギーグランプリ" title="wikilink">BEL</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年イタリアグランプリ" title="wikilink">ITA</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年シンガポールグランプリ" title="wikilink">SIN</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ロシアグランプリ" title="wikilink">RUS</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年アメリカグランプリ" title="wikilink">USA</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年メキシコシティグランプリ" title="wikilink">MEX</a><br />
--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年ブラジルグランプリ" title="wikilink">BRA</a><br />
--</p></td>
-</tr>
-<tr class="odd">
+<td><p><em>3</em></p></td>
+<td><p>5</p></td>
+<td><p>13</p></td>
+<td><p>5</p></td>
+<td><p>9</p></td>
+<td><p>10</p></td>
+<td><p>7</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -192,8 +190,6 @@ WD</p></td>
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")
   - <sup>†</sup> 印はリタイアだが、90%以上の距離を走行したため規定により完走扱い。
   - <sup>\*</sup> : 今シーズンのポイント及び順位（現時点）。
-  - オーストラリアGPはスタッフが[新型コロナウイルスに](../Page/2019新型コロナウイルス.md "wikilink")[感染したため撤退](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")\[9\]。これを受けてレース自体が中止となった\[10\]。
-  - <sup>‡</sup> 中国GPは新型コロナウイルスの感染拡大により延期\[11\]。
 
 ## 脚注
 
@@ -208,9 +204,11 @@ WD</p></td>
 3.
 4.
 5.
-6.
-7.
+6.  [マクラーレン、”近年で最高のスタート”を切る。テスト後半でアップデート投入も予定](https://jp.motorsport.com/f1/news/mclaren-had-best-start-for-many-many-years-to-f1-testing/4696160/?filters%5Bteam%5D%5B0%5D%5Btitle%5D=%E3%83%9E%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%AC%E3%83%B3&filters%5Bteam%5D%5B0%5D%5Bvalue%5D=10)jp.motorsport.com(2020年2月26日)2020年7月7日閲覧。
+7.  \[<https://formula1-data.com/article/preseason-test-fastest-laps-2020>　2020年 F1バルセロナテスト：グラフで振り返る最速ラップと総周回数\]formula1-data.com(2020年3月3日)2020年7月7日閲覧。
 8.
 9.
-10.
-11.
+10. \[<https://jp.motorsport.com/f1/news/norris-has-made-next-step-as-a-driver-mclaren/4827211/>　初表彰台ノリスの、衝撃的最終ラップ……マクラーレン「彼は明らかに成長した」\]jp.motorsport.com(2020年7月7日)2020年7月7日閲覧。
+11. [コンスト2位発進！開幕W入賞とノリスの初表彰台に沸くマクラーレン](https://formula1-data.com/article/austria-day3-mclaren-2020)formula1-data.com(2020年7月6日)2020年7月7日閲覧。
+12. [マクラーレン︰お熱いのがお嫌い？冷却に問題抱え急遽ボディーワークを変更 / F1-70周年記念GP《予選》2020](https://formula1-data.com/article/70th-anniversary-day2-mclaren-2020)formula1-data.com(2020年8月9日)2020年8月10日閲覧。
+13.

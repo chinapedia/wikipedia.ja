@@ -15,18 +15,18 @@
 
 ### Closer
 
-もう一つのカップリング曲であるこの楽曲は、歌詞に[英語](../Page/英語.md "wikilink")が多く、レコーディング時の鬼頭は「普段はあまりレコーディングで苦戦しないんですけど、この曲は英語が難所で。間違っていると嫌なので、めちゃくちゃ仮歌を聴いて、発音をめちゃくちゃ勉強してから臨みました」とコメントした上で\[5\]、「こんなに英語が入ってる曲っていうのはレコーディングしたことがなかったので、そこだけが不安でした。その不安感を出さずに余裕ある感じで歌わなきゃいけない曲だったので、表現するのにすごく苦労しました」と述べている\[7\]。
+もう一つのカップリング曲であるこの楽曲は、歌詞に[英語](../Page/英語.md "wikilink")が多く、レコーディング時の鬼頭は「普段はあまりレコーディングで苦戦しないんですけど、この曲は英語が難所で。間違っていると嫌なので、めちゃくちゃ仮歌を聴いて、発音をめちゃくちゃ勉強してから臨みました」とコメントした上で\[7\]、「こんなに英語が入ってる曲っていうのはレコーディングしたことがなかったので、そこだけが不安でした。その不安感を出さずに余裕ある感じで歌わなきゃいけない曲だったので、表現するのにすごく苦労しました」と述べている\[8\]。
 
 ## プロモーション
 
-シングル発売後である2020年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")から[3月28日](../Page/3月28日.md "wikilink")にリリースイベントを全国4か所にて開催予定だったが\[8\]、[新型コロナウィルスの影響で](../Page/2019新型コロナウイルス.md "wikilink")、[2月29日](../Page/2月29日.md "wikilink")以降のイベント中止が公式サイトで発表された\[9\]。日程は以下の通り。
+シングル発売後である2020年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")から[3月28日](../Page/3月28日.md "wikilink")にリリースイベントを全国4か所にて開催予定だったが\[9\]、[新型コロナウィルスの影響で](../Page/2019新型コロナウイルス.md "wikilink")、[2月29日](../Page/2月29日.md "wikilink")以降のイベント中止が公式サイトで発表された\[10\]。日程は以下の通り。
 
 | 日程                                                                  | 都道府県                                                       | 会場                                              | 内容            | 備考    |
 | ------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------- | ------------- | ----- |
 | 2020年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")        | [東京都](../Page/東京都.md "wikilink")                           | [科学技術館](../Page/科学技術館.md "wikilink")サイエンスホール    | ミニライブ・トークステージ | 全3回開催 |
 | <s>2020年[2月29日](../Page/2月29日.md "wikilink")</s>                    | <s>東京都</s>                                                 | <s>AP浜松町</s>                                    | お渡し会          | 全2回   |
 | <s>2020年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")</s> | <s>[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")</s> | <s>第1アメ横ビル</s>                                  | お渡し会          | 全3回   |
-| <strike>第三太閤ビル                                                      |                                                            |                                                 |               |       |
+| <s>第三太閤ビル</s>                                                       |                                                            |                                                 |               |       |
 | <s>2020年[3月28日](../Page/3月28日.md "wikilink")</s>                    | <s>[大阪府](../Page/大阪府.md "wikilink")</s>                    | <s>[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")なんば店</s> | ミニトーク・ミニライブ   |       |
 | <s>animateO.N.SQUARE HALL 3F</s>                                    |                                                            |                                                 |               |       |
 
@@ -66,8 +66,8 @@
 
 | \# | 曲名                 | [タイアップ](../Page/タイアップ.md "wikilink")                                                                                              | 出典     |
 | -- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1  | 「**Desire Again**」 | [BSフジ](../Page/BSフジ.md "wikilink")『アニソンラバーズ-Anisong Lovers-』エンディングテーマ                                                             | \[10\] |
-| 2  | 「**Tiny Light**」   | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")』エンディングテーマ | \[11\] |
+| 1  | 「**Desire Again**」 | [BSフジ](../Page/BSフジ.md "wikilink")『アニソンラバーズ-Anisong Lovers-』エンディングテーマ                                                             | \[11\] |
+| 2  | 「**Tiny Light**」   | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")』エンディングテーマ | \[12\] |
 
 ## リリース日一覧
 
@@ -95,7 +95,7 @@
 <tr class="odd">
 <td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a> 週間CDシングルランキング</p></td>
 <td><p>14</p></td>
-<td><p>[12]</p></td>
+<td><p>[13]</p></td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +119,7 @@
       - [アニメ盤](https://www.ponycanyon.co.jp/music/PCCG000001870)
       - [通常盤](https://www.ponycanyon.co.jp/music/PCCG000001871)
 
-[Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:鬼頭明里の楽曲](https://ja.wikipedia.org/wiki/Category:鬼頭明里の楽曲 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink")
+[Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:鬼頭明里の楽曲](https://ja.wikipedia.org/wiki/Category:鬼頭明里の楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink")
 
 1.
 2.
@@ -133,3 +133,4 @@
 10.
 11.
 12.
+13.

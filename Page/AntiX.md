@@ -23,7 +23,7 @@
 
 ## リリースの歴史
 
-antiX は Linux ディストリビューションの１つでで、元々は MEPIS をベースにしており、それ自体は Debian安定版のディストリビューションをベースにしている。当初は MEPIS [KDE](../Page/KDE.md "wikilink") デスクトップ環境を [Fluxbox](../Page/Fluxbox.md "wikilink") と [IceWM](../Page/IceWM.md "wikilink") ウィンドウマネージャに置き換えたもので、古くて、あまりパワーのない x86 ベースのシステムに適するものとして開発された。Debian とは異なり、antiX は [systemd](https://ja.wikipedia.org/wiki/systemd "wikilink") フリーである。\[9\]
+antiX は元々は MEPIS をベースとした Linux ディストリビューションの１つで、MEPISは Debian安定版のディストリビューションをベースにしていた。当初は MEPIS [KDE](../Page/KDE.md "wikilink") デスクトップ環境を [Fluxbox](../Page/Fluxbox.md "wikilink") と [IceWM](../Page/IceWM.md "wikilink") ウィンドウマネージャに置き換えたもので、古くて、あまりパワーのない x86 ベースのシステムに適するものとして開発された。Debian とは異なり、antiX は [systemd](https://ja.wikipedia.org/wiki/systemd "wikilink") フリーである。\[9\]
 
 | バージョン\[10\]           | （開発用の）コードネーム         | リリースされた日    |
 | --------------------- | -------------------- | ----------- |
@@ -64,7 +64,7 @@ antiX は Linux ディストリビューションの１つでで、元々は MEP
 
   - [antiX on OpenSourceFeed gallery](http://www.opensourcefeed.org/distribution/antix)
 
-[Category:Debian派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Debian派生ディストリビューション "wikilink") [Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink")
+[Category:Debian派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Debian派生ディストリビューション "wikilink")
 
 1.
 2.

@@ -30,7 +30,7 @@
   - 愛称は、中村くん\[11\]。
   - 趣味は、バスケットボール、天体観測\[12\]。
   - 将来の夢は[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")\[13\]。
-  - [ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")でビールの売り子のバイトをしていた\[14\]。
+  - [ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")でビールの売り子のバイトを2020年シーズンも不定期でする予定。\[14\]。
 
 ## SKE48での参加曲
 
@@ -70,7 +70,7 @@
 
   - （2017年6月9日 - ）
 
-[Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:過去のAKB48グループ所属者](https://ja.wikipedia.org/wiki/Category:過去のAKB48グループ所属者 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1997年生](https://ja.wikipedia.org/wiki/Category:1997年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:過去のAKB48グループ所属者](https://ja.wikipedia.org/wiki/Category:過去のAKB48グループ所属者 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1997年生](https://ja.wikipedia.org/wiki/Category:1997年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  碧南市|url=[http://www.city.hekinan.lg.jp/city_info/gaiyo/11410.html|website=www.city.hekinan.lg.jp|accessdate=2020-05-03|language=ja](http://www.city.hekinan.lg.jp/city_info/gaiyo/11410.html%7Cwebsite=www.city.hekinan.lg.jp%7Caccessdate=2020-05-03%7Clanguage=ja)}}
 2.   Twitter|url=[https://twitter.com/kind___flowers|website=twitter.com|accessdate=2020-05-03|language=ja](https://twitter.com/kind___flowers%7Cwebsite=twitter.com%7Caccessdate=2020-05-03%7Clanguage=ja)}}

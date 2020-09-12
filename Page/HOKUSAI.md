@@ -25,7 +25,7 @@
   - [東洲斎写楽](../Page/東洲斎写楽.md "wikilink")：[浦上晟周](https://ja.wikipedia.org/wiki/浦上晟周 "wikilink")
   - 麻雪：[芋生悠](https://ja.wikipedia.org/wiki/芋生悠 "wikilink")
   - [お栄](https://ja.wikipedia.org/wiki/葛飾応為 "wikilink")：[河原れん](../Page/河原れん.md "wikilink")
-  - [城桧吏](https://ja.wikipedia.org/wiki/城桧吏 "wikilink")
+  - 葛飾北斎（少年期）：[城桧吏](https://ja.wikipedia.org/wiki/城桧吏 "wikilink")
   - [柳亭種彦](../Page/柳亭種彦.md "wikilink")：[永山瑛太](https://ja.wikipedia.org/wiki/永山瑛太 "wikilink")
   - [蔦屋重三郎](../Page/蔦屋重三郎.md "wikilink")：[阿部寛](../Page/阿部寛.md "wikilink")
 

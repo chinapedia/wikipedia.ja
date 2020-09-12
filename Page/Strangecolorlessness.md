@@ -16,7 +16,7 @@
 |                       |
 | 旧メンバー                 |
 
-**<big>strange colorlessness</big>**（ストレンジ　カラーレスネス）は、[国籍不明の](https://ja.wikipedia.org/wiki/日本 "wikilink")[ジェント](../Page/オルタナティヴ・ロック.md "wikilink")/[メタル/ラウド](../Page/オルタナティヴ・メタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は「**ストカラ**」。
+**strange colorlessness**（ストレンジ　カラーレスネス）は、[国籍不明の](https://ja.wikipedia.org/wiki/日本 "wikilink")[ジェント](../Page/オルタナティヴ・ロック.md "wikilink")/[メタル/ラウド](../Page/オルタナティヴ・メタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は「**ストカラ**」。
 
 ## 概要
 

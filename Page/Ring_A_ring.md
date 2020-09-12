@@ -158,7 +158,7 @@
       - [初回限定盤](https://www.lantis.jp/release-item/LACA-35808.html)
       - [通常盤](https://www.lantis.jp/release-item/LACA-15808.html)
 
-[Category:鈴木愛奈のアルバム](https://ja.wikipedia.org/wiki/Category:鈴木愛奈のアルバム "wikilink") [Category:ランティスのアルバム](https://ja.wikipedia.org/wiki/Category:ランティスのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink")
+[Category:鈴木愛奈のアルバム](https://ja.wikipedia.org/wiki/Category:鈴木愛奈のアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:ランティスのアルバム](https://ja.wikipedia.org/wiki/Category:ランティスのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
 
 1.
 2.

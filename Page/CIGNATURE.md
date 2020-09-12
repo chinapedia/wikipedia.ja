@@ -19,124 +19,150 @@
 
 ### 2020年
 
-  - 2月4日、1stシングル(cignature debut lead single Ａ)「**NUN NU NAN NA(눈누난나)**」をリリースしデビュー。同日、ILCHIアートホールにて発売記念ショーケースを開催\[4\]。前日3日には、「**NUN NU NAN NA(눈누난나)**」のMVを公開\[5\]。
+  - 2月4日、1stシングル(cignature debut lead single Ａ)「**NUN NU NAN NA(눈누난나)**」をリリースしデビュー\[4\]。同日、ILCHIアートホールにて発売記念ショーケースを開催\[5\]。
 
 <!-- end list -->
 
-  - 4月7日、2ndシングル(cignature debut lead single Ｂ)「**ASSA(아싸)**」をリリース\[6\]。前日6日には、「**ASSA(아싸)**」のMVを公開\[7\]。
+  - 4月7日、2ndシングル(cignature debut lead single Ｂ)「**ASSA(아싸)**」をリリース\[6\]。
 
 ## メンバー
 
 <table>
 <thead>
 <tr class="header">
-<th><p>名前</p></th>
-<th><p>プロフィール</p></th>
+<th><p>芸名</p></th>
+<th><p>本名</p></th>
+<th><p>生年月日<br />
+</p></th>
+<th><p>身長</p></th>
+<th><p>体重</p></th>
+<th><p>血液型</p></th>
+<th><p>出身地</p></th>
+<th><p>ポジション</p></th>
+<th><p>学歴</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>チェソル</strong><br />
-(채솔、Chaesol)</p></td>
-<td><ul>
-<li>本名：ムン・チェソル (Moon Chae-Sol、문채솔)</li>
-<li>生年月日：</li>
-<li>身長：170cm</li>
-<li>体重：48kg</li>
-<li>血液型：A型</li>
-<li>出身地：<a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a><a href="../Page/衿川区.md" title="wikilink">衿川区</a></li>
-<li>学歴：翰林芸能芸術高等学校</li>
-<li>ポジション：サブボーカル</li>
-<li>元GOOD DAYのメンバー、前活動名も同名</li>
-</ul></td>
+<td><p>名前</p></td>
+<td><p>ハングル</p></td>
+<td><p>ローマ字</p></td>
+<td><p>仮名</p></td>
+<td><p>ハングル</p></td>
+<td><p>ローマ字</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><strong>ジウォン</strong><br />
-(지원、Jee won)</p></td>
-<td><ul>
-<li>本名：キム・ジウォン (Kim Ji-Won、김지원)</li>
-<li>生年月日：</li>
-<li>身長：166cm</li>
-<li>体重：46kg</li>
-<li>血液型：O型</li>
-<li>出身地：<a href="../Page/釜山広域市.md" title="wikilink">釜山広域市</a></li>
-<li>学歴：徳寿高校</li>
-<li>リーダー</li>
-<li>ポジション：サブボーカル、センター</li>
-<li>元GOOD DAYのメンバー、前活動名も同名</li>
-</ul></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>イェア</strong><br />
-(예아、Ye Ah)</p></td>
-<td><ul>
-<li>本名：キム・ハウン (Kim Ha-Eun、김하은)</li>
-<li>生年月日：</li>
-<li>身長：162cm</li>
-<li>体重：44kg</li>
-<li>血液型：B型</li>
-<li>出身地：</li>
-<li>学歴：パンゴク高校</li>
-<li>ポジション：メインボーカル、メインダンサー</li>
-<li>元GOOD DAYのメンバー、前活動名は、ハウン</li>
-</ul></td>
+<td><p><strong>チェソル</strong></p></td>
+<td><p>채솔</p></td>
+<td><p>Chaesol</p></td>
+<td><p>ムン・チェソル</p></td>
+<td><p>문채솔</p></td>
+<td><p>Moon Chae-Sol</p></td>
+<td></td>
+<td><p>170</p></td>
+<td><p>48</p></td>
+<td><p>A</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>ソン</strong><br />
-(선、Sunn)</p></td>
-<td><ul>
-<li>本名：ファン・ジウォン (Hwang Ji-Won、황지원)</li>
-<li>生年月日：</li>
-<li>身長：167cm</li>
-<li>体重：49kg</li>
-<li>血液型：A型</li>
-<li>出身地：<a href="https://ja.wikipedia.org/wiki/光州広域市" title="wikilink">光州広域市</a></li>
-<li>ポジション：メインダンサー、メインラッパー</li>
-<li>元GOOD DAYのメンバー、前活動名は、VIVA(ビバ)</li>
-</ul></td>
+<td><p><strong>ジウォン</strong></p></td>
+<td><p>지원</p></td>
+<td><p>Jee won</p></td>
+<td><p>キム・ジウォン</p></td>
+<td><p>김지원</p></td>
+<td><p>Kim Ji-Won</p></td>
+<td></td>
+<td><p>166</p></td>
+<td><p>48</p></td>
+<td><p>O</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>セリン</strong><br />
-(셀린、Seline)</p></td>
-<td><ul>
-<li>本名：チョン・ヨンジョン (Jung Yeon-Jung、정연정)</li>
-<li>生年月日：</li>
-<li>身長：169cm</li>
-<li>体重：47kg</li>
-<li>血液型：AB型</li>
-<li>出身地：</li>
-<li>学歴：翰林芸能芸術高等学校</li>
-<li>ポジション：リードボーカル</li>
-</ul></td>
+<td><p><strong>イェア</strong></p></td>
+<td><p>예아</p></td>
+<td><p>Ye Ah</p></td>
+<td><p>キム・ハウン</p></td>
+<td><p>김하은</p></td>
+<td><p>Kim Ha-Eun</p></td>
+<td></td>
+<td><p>162</p></td>
+<td><p>44</p></td>
+<td><p>B</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>ベル</strong><br />
-(벨、Belle)</p></td>
-<td><ul>
-<li>本名：チン・ヒョンジュ (Jin Hyeon-Ju、진현주)</li>
-<li>生年月日：</li>
-<li>身長：161cm</li>
-<li>体重：48kg</li>
-<li>血液型：A型</li>
-<li>出身地：<a href="../Page/全羅南道.md" title="wikilink">全羅南道</a><a href="../Page/羅州市.md" title="wikilink">羅州市</a></li>
-<li>学歴：Lila Art高校</li>
-<li>ポジション：サブボーカル、リードダンサー</li>
-<li>元GOOD DAYのメンバー、前活動名は、LUCKY(ラッキー)</li>
-</ul></td>
+<td><p><strong>ソン</strong></p></td>
+<td><p>선</p></td>
+<td><p>Sunn</p></td>
+<td><p>ファン・ジウォン</p></td>
+<td><p>황지원</p></td>
+<td><p>Hwang Ji-Won</p></td>
+<td></td>
+<td><p>167</p></td>
+<td><p>49</p></td>
+<td><p>A</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>セミ</strong><br />
-(세미、Semi)</p></td>
-<td><ul>
-<li>本名：ク・セミ (Goo Se-Mi、구세미)</li>
-<li>生年月日：</li>
-<li>身長：166cm</li>
-<li>体重：46kg</li>
-<li>血液型：A型</li>
-<li>出身地：</li>
-<li>ポジション：サブボーカル、リードダンサー</li>
-<li>元JYP練習生</li>
-</ul></td>
+<td><p><strong>セリン</strong></p></td>
+<td><p>셀린</p></td>
+<td><p>Seline</p></td>
+<td><p>チョン・ヨンジョン</p></td>
+<td><p>정연정</p></td>
+<td><p>Jung Yeon-Jung</p></td>
+<td></td>
+<td><p>169</p></td>
+<td><p>47</p></td>
+<td><p>AB</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>ベル</strong></p></td>
+<td><p>벨</p></td>
+<td><p>Belle</p></td>
+<td><p>チン・ヒョンジュ</p></td>
+<td><p>진현주</p></td>
+<td><p>Jin Hyeon-Ju</p></td>
+<td></td>
+<td><p>161</p></td>
+<td><p>43</p></td>
+<td><p>A</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>セミ</strong></p></td>
+<td><p>세미</p></td>
+<td><p>Semi</p></td>
+<td><p>ク・セミ</p></td>
+<td><p>구세미</p></td>
+<td><p>Goo Se-Mi</p></td>
+<td></td>
+<td><p>166</p></td>
+<td><p>46</p></td>
+<td><p>A</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -155,7 +181,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>Ａ(1st)</strong>[8]</p></td>
+<td><p><strong>Ａ(1st)</strong>[7]</p></td>
 <td><p><strong>NUN NU NAN NA(눈누난나)</strong><br />
 (2020年2月3日)</p></td>
 <td><ol>
@@ -163,7 +189,7 @@
 </ol></td>
 </tr>
 <tr class="even">
-<td><p><strong>Ｂ(2nd)</strong>[9]</p></td>
+<td><p><strong>Ｂ(2nd)</strong>[8]</p></td>
 <td><p><strong>ASSA(아싸)</strong><br />
 (2020年4月7日)</p></td>
 <td><ol>
@@ -192,15 +218,21 @@
 <li><a href="https://www.youtube.com/watch?v=F0MSirB5aG0">ASSA(아싸)</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://www.youtube.com/watch?v=by7bbpp6jP0">ASSA(아싸)</a></li>
-<li><a href="https://www.youtube.com/watch?v=mYLjqP0q9Uk">ASSA(아싸) (Preview Ver.)</a></li>
+<li><a href="https://www.youtube.com/watch?v=by7bbpp6jP0">ASSA(아싸)</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=mYLjqP0q9Uk">Preview Ver.</a></li>
+</ul></li>
 </ul></td>
 <td><ul>
-<li><a href="https://www.youtube.com/watch?v=PXXnjhyN_Gk">NUN NU NAN NA(눈누난나)</a></li>
-<li><a href="https://www.youtube.com/watch?v=C4mBj_VULlQ">NUN NU NAN NA(눈누난나) (Special・Preview ver.)</a></li>
-<li><a href="https://www.youtube.com/watch?v=r3PeZbjc_ls">ASSA(아싸)</a></li>
-<li><a href="https://www.youtube.com/watch?v=xuiYSXsQRcw">ASSA(아싸) (Suit ver.)</a></li>
-<li><a href="https://www.youtube.com/watch?v=FCxnueSyej0">ASSA(아싸) (Surprise ver.)</a></li>
+<li><a href="https://www.youtube.com/watch?v=PXXnjhyN_Gk">NUN NU NAN NA(눈누난나)</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=C4mBj_VULlQ">Special・Preview ver.</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=r3PeZbjc_ls">ASSA(아싸)</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=xuiYSXsQRcw">Suit ver.</a></li>
+<li><a href="https://www.youtube.com/watch?v=FCxnueSyej0">Surprise ver.</a></li>
+</ul></li>
 </ul></td>
 </tr>
 </tbody>
@@ -221,9 +253,8 @@
 1.
 2.
 3.
-4.
-5.  [Cignature – デビュー曲”Nun Nu Nan Na”のMV公開](https://daebak.tokyo/2020/02/03/c9ent-c9girlz/) デバク K-POPニュース＆ゴシップ 2020年4月6日閲覧。
+4.  [Cignature – デビュー曲”Nun Nu Nan Na”のMV公開](https://daebak.tokyo/2020/02/03/c9ent-c9girlz/) デバク K-POPニュース＆ゴシップ 2020年4月6日閲覧。
+5.
 6.
-7.
-8.  Ａは「cignature debut lead single Ａ」(シグネイチャーデビューリードシングルＡ)という意味です。
-9.  Ｂは「cignature debut lead single Ｂ」(シグネイチャーデビューリードシングルＢ)という意味です。
+7.  Ａは「cignature debut lead single Ａ」(シグネイチャーデビューリードシングルＡ)という意味です。
+8.  Ｂは「cignature debut lead single Ｂ」(シグネイチャーデビューリードシングルＢ)という意味です。

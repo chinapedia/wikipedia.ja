@@ -18,13 +18,8 @@ ASMIの日本法人「日本エー・エス・エム株式会社」（）は、[
 ## 外部リンク
 
   - [ASMインターナショナル 公式ウェブサイト](https://www.asm.com/home)
-
   - [エー・エス・エム・アッセンブリー・テクノロジー株式会社](http://www.asmat.co.jp/)
 
-  -
-  -
-  -
-  -
 [Category:半導体装置メーカー](https://ja.wikipedia.org/wiki/Category:半導体装置メーカー "wikilink") [Category:オランダの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:オランダの工業製品メーカー "wikilink") [Category:オランダの多国籍企業](https://ja.wikipedia.org/wiki/Category:オランダの多国籍企業 "wikilink") [Category:ユーロネクスト・アムステルダム上場企業](https://ja.wikipedia.org/wiki/Category:ユーロネクスト・アムステルダム上場企業 "wikilink") [Category:1968年設立の企業](https://ja.wikipedia.org/wiki/Category:1968年設立の企業 "wikilink")
 
 1.

@@ -1,7 +1,7 @@
 > この記事は[Simcity Social](https://ja.wikipedia.org/wiki/Simcity_Social)から翻訳されています。
 
 
-**Simcity Social**（シムシティ・ソーシャル）とは、ユーザーが自分の街を作り、[Facebook](../Page/Facebook.md "wikilink")のフォロワーとの交流を目的としたオンラインソーシャルゲームである。\[1\]
+『**Simcity Social**』（シムシティ・ソーシャル）とは、ユーザーが自分の街を作り、[Facebook](../Page/Facebook.md "wikilink")のフォロワーとの交流を目的としたオンラインソーシャルゲームである。\[1\]
 
 このゲームはが開発し\[2\]、[Electronic Artsが発売を行った](https://ja.wikipedia.org/wiki/Electronic_Arts "wikilink")\[3\]。[2012年](../Page/2012年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に開催された[Electronic Entertainment Expo 2012のEAのプレスカンファレンスで発表され](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo_2012 "wikilink")、[2012年](../Page/2012年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に発売された。\[4\]
 
@@ -11,13 +11,13 @@
 
 これまでリリースされた[SimCity](https://ja.wikipedia.org/wiki/SimCity "wikilink")シリーズと同様に、具体的な目標を作らずに、町やビルなどの建設することが目的となっているが、今回のシムシティ・ソーシャルでは、クエストと呼ばれる任意の目標が追加された。
 
+## 脚注
+
 ## 関連項目
 
   -
   -
   - [SimCity](https://ja.wikipedia.org/wiki/SimCity "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

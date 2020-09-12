@@ -56,7 +56,7 @@ Z900RS CAFEはZ900RSにビキニカウルを装備したカフェレーサー風
 <td><table>
 <thead>
 <tr class="header">
-<th><p>[隠す]      詳細情報</p></th>
+<th><p>詳細情報</p></th>
 </tr>
 </thead>
 <tbody>
@@ -165,13 +165,10 @@ Z900RS CAFEはZ900RSにビキニカウルを装備したカフェレーサー風
 </tbody>
 </table></td>
 </tr>
-<tr class="even">
-<td></td>
-</tr>
 </tbody>
 </table>
 
-## 脚注\[編集\]
+## 脚注
 
 1.  **^** ［Z900RS］話題のニューモデルが東京モーターショー2017で遂に発表\!川崎壱番
 2.  **^** カワサキZ900RS（MR/6MT）【レビュー】Web CG

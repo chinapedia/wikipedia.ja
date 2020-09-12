@@ -7,8 +7,6 @@
 
 2020年4月8日から放送されているローカル情報バラエティー番組である。
 
-## 放送時間
-
 ## 放送リスト
 
 <table>
@@ -41,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>4月15　日</p></td>
+<td><p>4月15日</p></td>
 <td><p>訪れた場所: 田村市<br />
 </p>
 <ul>
@@ -93,18 +91,78 @@
 <td><p>なし</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>6月3日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>6月10日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>6月17日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>7月1日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>7月15日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>7月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>8月5日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>8月19日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ## 出演者
 
-#### MC
+### MC
 
-  - 2020年4月8日 -
-  - 小湊愛巳、鏡田辰也
+  - [小湊愛巳](https://ja.wikipedia.org/wiki/小湊愛巳 "wikilink")（テレビユー福島アナウンサー）
+  - [鏡田辰也](../Page/鏡田辰也.md "wikilink")（[ラジオ福島](../Page/ラジオ福島.md "wikilink")アナウンサー）
 
 ## テーマ曲
 
+  - 奥様は、取り扱い注意(メインテーマ)
+
 ## 外部リンク
+
+  - \[<https://www.tuf.co.jp/fukushimashow/>　ふくしまSHOW公式サイト\]
 
 [Category:東北地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:東北地方のバラエティ番組 "wikilink") [Category:テレビユー福島の番組](https://ja.wikipedia.org/wiki/Category:テレビユー福島の番組 "wikilink")

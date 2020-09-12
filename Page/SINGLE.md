@@ -5,8 +5,8 @@
 
 ## 作品概要
 
-  - [花王](../Page/花王.md "wikilink")『ピュア』CFイメージソング。
-  - アルバム『[1986](https://ja.wikipedia.org/wiki/1986_\(山下久美子のアルバム\) "wikilink")』からの先行シングルで、山下のシングルとしては初めて、作曲に[布袋寅泰](../Page/布袋寅泰.md "wikilink")が担当した。
+  - 「SINGLE」は、[花王](../Page/花王.md "wikilink")『ピュア』CFイメージソングに起用された。
+  - B面の「I Can't Get You」は、スタジオ・アルバム未収録で、[1992年](../Page/1992年.md "wikilink")にリリースされたベスト・アルバム『[Sweet-est](../Page/Sweet-est.md "wikilink")』にて初収録且つ初[CD化された](../Page/コンパクトディスク.md "wikilink")。
 
 ## 収録曲
 

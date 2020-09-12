@@ -3,14 +3,14 @@
 
 **XM3** (エックスエムスリー) は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の自動車メーカー、[ルノーサムスン自動車](../Page/ルノーサムスン自動車.md "wikilink")が生産・販売する[クーペ](../Page/クーペ.md "wikilink")[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")（[韓国車](https://ja.wikipedia.org/wiki/韓国車 "wikilink")基準でいうところの準中型車～中型車に相当）。
 
-[セダン](../Page/セダン.md "wikilink")の優雅さと[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の力強さを高次元で融合した車種として開発され\[1\]、仮想敵は[キア・セルトス](../Page/キア・セルトス.md "wikilink")、[ヒュンダイ・ヴェニュー](../Page/ヒュンダイ・ヴェニュー.md "wikilink")、[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")、[三菱・エクリプスクロス](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")、[BMW・X1](https://ja.wikipedia.org/wiki/BMW・X1 "wikilink")/[BMW・X2](https://ja.wikipedia.org/wiki/BMW・X2 "wikilink")、[アウディ・Q3](https://ja.wikipedia.org/wiki/アウディ・Q3 "wikilink")などである。
+[セダン](../Page/セダン.md "wikilink")の優雅さと[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の力強さを高次元で融合した車種として開発され\[1\]、仮想敵は[キア・セルトス](../Page/キア・セルトス.md "wikilink")、[ヒュンダイ・ツーソン](../Page/ヒュンダイ・ツーソン.md "wikilink")、[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")、[三菱・エクリプスクロス](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")、[BMW・X1](https://ja.wikipedia.org/wiki/BMW・X1 "wikilink")/[BMW・X2](https://ja.wikipedia.org/wiki/BMW・X2 "wikilink")、[アウディ・Q3](https://ja.wikipedia.org/wiki/アウディ・Q3 "wikilink")などである。
 
 ## 歴史
 
 ### 初代（2020年-　）
 
   - [2018年](../Page/2018年.md "wikilink")8月、[モスクワモーターショー](https://ja.wikipedia.org/wiki/モスクワモーターショー "wikilink")2018において、親会社の[ルノー](../Page/ルノー.md "wikilink")が「アルカナ（ARKANA）」を[ワールドプレミア](https://ja.wikipedia.org/wiki/ワールドプレミア "wikilink")\[2\]。　
-  - [2019年](../Page/2019年.md "wikilink")3月、[ソウルモーターショー](../Page/ソウルモーターショー.md "wikilink")において、アルカナのルノーサムスン版が「**XM3インスパイア**」として発表された\[3\]。
+  - [2019年](../Page/2019年.md "wikilink")3月、[ソウルモーターショー](../Page/ソウルモーターショー.md "wikilink")において、アルカナのルノーサムスン版が「**XM3インスパイア**」（XM3 인스파이어、XM3 INSPIRE）として発表された\[3\]。
   - 2020年3月3日、韓国にて「XM3」の名で発表。同月9日販売開始。
 
 [-](https://ja.wikipedia.org/wiki/- "wikilink")
@@ -41,7 +41,7 @@ TCe260
 
 ## 車名の由来
 
-車名の「XM3」とは**X**は経験や体験を意味する「Ex（=**X**）perience」の、**M**はドライブを意味する「Motoring」のそれぞれの頭文字、**3**は準中型車であることを意味する。
+車名の「XM3」とは**X**は経験や体験を意味する「Ex（=**X**）perience」の、**M**は「ドライブ」を意味する「**M**otoring」、「もっと」を意味する「**M**ore」のそれぞれの頭文字、**3**は準中型車であることを意味する。
 
 ## 脚注
 

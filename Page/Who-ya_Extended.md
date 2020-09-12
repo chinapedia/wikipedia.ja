@@ -5,7 +5,7 @@
 
 ## 略歴
 
-ボーカリストWho-ya（フーヤ、デビュー時点で20歳\[1\]）を中心としたクリエーターズユニット。
+ボーカリスト**Who-ya**（フーヤ、デビュー時点で20歳\[1\]）を中心としたクリエーターズユニット。
 
 2019年10月より放送開始のTVアニメ「[PSYCHO-PASS サイコパス 3](https://ja.wikipedia.org/wiki/PSYCHO-PASS_サイコパス_3 "wikilink")」のオープニングに抜擢され、2019年11月に[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")よりシングル「Q-vism」でメジャーデビュー。
 
@@ -94,7 +94,7 @@ SECL-2527:通常盤</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
-<td><p><strong>wyxt.</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/wyxt." title="wikilink">wyxt.</a></strong><br />
 （ダブリューワイエックスティー）</p></td>
 <td><p>SECL-2560/1:初回生産限定盤<br />
 SECL-2562:通常盤</p></td>

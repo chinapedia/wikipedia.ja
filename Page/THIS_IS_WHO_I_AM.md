@@ -44,3 +44,5 @@
 6.  Love Sugar (Music Clip)
 7.  You Only Live Once (Music Clip)
 8.  "THIS IS WHO I AM" Behind The Scenes
+
+[Category:2018年のアルバム](https://ja.wikipedia.org/wiki/Category:2018年のアルバム "wikilink") [Category:エイベックス・グループのアルバム](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアルバム "wikilink")

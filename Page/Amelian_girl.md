@@ -9,7 +9,7 @@
 
 ## mahocato（まほかとう）
 
-[広島県](../Page/広島県.md "wikilink")出身。[1992年](../Page/1992年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")[8日](https://ja.wikipedia.org/wiki/8日 "wikilink")生まれ\[3\]。血液型は[B型](https://ja.wikipedia.org/wiki/B型 "wikilink")。元[英会話](../Page/英会話.md "wikilink")講師\[4\]。2017年4月[MINT mate box](https://ja.wikipedia.org/wiki/MINT_mate_box "wikilink") の[ギター](../Page/ギター.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")としてCDデビュー。2019年10月東京代官山UNITでの解散ライブにて、バンドとしての活動を終了\[5\]。2020年４月にソロプロジェクト『Amelian girl』（アメリアンガール）を始動し、１st single 『outsider』(アウトサイダー)配信リリース\[6\]。[Youtubeでは](https://ja.wikipedia.org/wiki/YouTube "wikilink")「 [maho english](https://www.youtube.com/channel/UCRXOgEDB2AulWqHnuMbpw3w) 」として英会話配信も行っている。
+[広島県](../Page/広島県.md "wikilink")出身。[1992年](../Page/1992年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")生まれ\[3\]。血液型は[B型](https://ja.wikipedia.org/wiki/B型 "wikilink")。元[英会話](../Page/英会話.md "wikilink")講師\[4\]。2017年4月[MINT mate box](https://ja.wikipedia.org/wiki/MINT_mate_box "wikilink") の[ギター](../Page/ギター.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")としてCDデビュー。2019年10月東京代官山UNITでの解散ライブにて、バンドとしての活動を終了\[5\]。2020年４月にソロプロジェクト『Amelian girl』（アメリアンガール）を始動し、１st single 『outsider』(アウトサイダー)配信リリース\[6\]。[Youtubeでは](https://ja.wikipedia.org/wiki/YouTube "wikilink")「 [maho english](https://www.youtube.com/channel/UCRXOgEDB2AulWqHnuMbpw3w) 」として英会話配信も行っている。
 
 ## 名前の由来
 

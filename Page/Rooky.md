@@ -33,14 +33,11 @@
 
 ## メンバー
 
-  - **MIKI**(ミキ、1979年8月15日) 身長153cm。B型 大阪府出身。
-
-<!-- end list -->
-
-  - **YURIA**(ユリア、1985年9月5日) 身長156cm。A型 静岡県出身。
-  - **MEGU**(メグ、1983年9月26日) 身長156cm。A型 東京都出身。
-  - **MAMI**(マミ、1980年10月12日) 身長152cm。A型 長野県出身。
-  - **AMI**(アミ、1980年10月12日) 身長152cm。A型 長野県出身。
+  - **MIKI**(ミキ、1979年8月15日) 身長153cm。B型　大阪府出身。
+  - **YURIA**(ユリア、1985年9月5日) 身長156cm。A型　静岡県出身。
+  - **MEGU**(メグ、1983年9月26日) 身長156cm。A型　東京都出身。
+  - **MAMI**(マミ、1980年10月12日) 身長152cm。A型　長野県出身。
+  - **AMI**(アミ、1980年10月12日) 身長152cm。A型　長野県出身。
 
 ## ディスコグラフィ
 
@@ -81,7 +78,7 @@
 
   - <https://web.archive.org/web/20040221015136/http://hyper-tv.co.jp/rooky/index.html>
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:リカちゃん](https://ja.wikipedia.org/wiki/Category:リカちゃん "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:リカちゃん](https://ja.wikipedia.org/wiki/Category:リカちゃん "wikilink")
 
 1.  <https://dictionary.goo.ne.jp/word/person/Rooky/>
 2.  <https://columbia.jp/prod-info/COCX-39303-4/>

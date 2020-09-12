@@ -1,9 +1,9 @@
 > この記事は[Sabotage \(緑黄色社会の曲\)](https://ja.wikipedia.org/wiki/Sabotage_\(緑黄色社会の曲\))から翻訳されています。
 
 
-「**sabotage**」（サボタージュ）は、[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")の楽曲。[2019年](../Page/2019年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[Sony Music Labelsより](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")1作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**sabotage**」（サボタージュ）は、[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")の楽曲。2019年11月6日に[Sony Music Labelsより](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")1作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
-本項では、2019年[11月19日](../Page/11月19日.md "wikilink")に配信が開始された「**sabotage -acoustic ver.-**」についても触れる。
+本項では、2019年11月19日に配信が開始された「**sabotage -acoustic ver.-**」についても触れる。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 全曲[比田井修](https://ja.wikipedia.org/wiki/比田井修 "wikilink")が[ドラムスで参加している](../Page/ドラムセット.md "wikilink")\[2\]。
 
-シングル発売前の[10月16日](../Page/10月16日.md "wikilink")に[先行配信され](../Page/音楽配信.md "wikilink")、ダウンロード特典として[12月15日](../Page/12月15日.md "wikilink")に都内で開催のスペシャル・アコースティック・ライヴに最大50組100名がされた。このライヴの模様は公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルで生配信された\[3\]\[4\]。
+シングル発売前の10月16日に[先行配信され](../Page/音楽配信.md "wikilink")、ダウンロード特典として12月15日に都内で開催のスペシャル・アコースティック・ライヴに最大50組100名がされた。このライヴの模様は公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルで生配信された\[3\]\[4\]。
 
 シングルのジャケットは[岩瀬直美](https://ja.wikipedia.org/wiki/岩瀬直美 "wikilink")がデザインしたもので\[5\]、長屋扮するグリーンおばけが被写体となっている\[6\]\[7\]\[8\]。
 
-シングルは、2019年[11月18日](../Page/11月18日.md "wikilink")付のオリコン週間シングルランキングで初登場32位を獲得した\[9\]。
+シングルは、2019年11月18日付のオリコン週間シングルランキングで初登場32位を獲得した\[9\]。
 
 ## 収録内容
 
@@ -30,11 +30,11 @@
         「自分ってなんだっけ?」という自問自答をテーマとしており、作詞作曲を手掛けた[長屋晴子](https://ja.wikipedia.org/wiki/長屋晴子 "wikilink")は「空っぽからどうするかを描きたかった。物語のようにモヤモヤし続けてきた悩みが火種になって何かが変わる可能だってあるのかなと。」「今の私が納得できる部分と“理想の自分”みたいなものが、不思議なバランスで成り立っている曲」とコメントしている\[12\]。
         ドラマの制作サイドと共に主題歌を制作するにあたり、「明るい曲にしたい」というテーマを念頭に置かれていた。長屋は「これについては、現在の自分自身とのギャップで戸惑った。」「でも逆に言うと、この曲では“なりたい自分”を表現できたと思う。」とコメントしている。\[13\]
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は[林響太朗](https://ja.wikipedia.org/wiki/林響太朗 "wikilink")、撮影は[花房遼](https://ja.wikipedia.org/wiki/花房遼 "wikilink")が担当しており、楽曲の世界観を表現した映像となっている\[14\]。このほか先行配信に合わせてレコーディング時の映像を元に編集されたリリック・ビデオが公開されている\[15\]。
-        [10月2日](../Page/10月2日.md "wikilink")に放送の[FM802](../Page/FM802.md "wikilink")『802 RADIO MASTERS』で初放送となった\[16\]。
+        10月2日に放送の[FM802](../Page/FM802.md "wikilink")『802 RADIO MASTERS』で初放送となった\[16\]。
 2.  **Alright\!\!**
       -
         [NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")『[うまいッ\!](https://ja.wikipedia.org/wiki/うまいッ! "wikilink")』テーマソング。
-        作詞は長屋と[穴見真吾](https://ja.wikipedia.org/wiki/穴見真吾 "wikilink")の共作で、穴見が書いた歌詞に長屋が手を加える形で制作された\[17\]。楽曲について長屋は「『[始まりの歌](https://ja.wikipedia.org/wiki/ADORE "wikilink")』は、何かを始めるその瞬間に『大丈夫だよ』とその人の背中を押すようなイメージ。でも、『Alright\!\!』はそうではなくては『何かを始めたくて仕方がない\!』と浮かれてワクワクしているような、そんな視点で書いてみようと思った。」と語っている\[18\]。
+        作詞は長屋と[穴見真吾](https://ja.wikipedia.org/wiki/穴見真吾 "wikilink")の共作で、穴見が書いた歌詞に長屋が手を加える形で制作された\[17\]。楽曲について長屋は「「[始まりの歌](https://ja.wikipedia.org/wiki/ADORE "wikilink")」は、何かを始めるその瞬間に「大丈夫だよ」とその人の背中を押すようなイメージ。でも、「Alright\!\!」はそうではなくては「何かを始めたくて仕方がない\!」と浮かれてワクワクしているような、そんな視点で書いてみようと思った。」と語っている\[18\]。
         作曲を手掛けた[peppe](https://ja.wikipedia.org/wiki/peppe "wikilink")は、「[ピアノ](../Page/ピアノ.md "wikilink")を弾いているときに冒頭のメロディとコードが思い浮かんだ。」とコメントしている\[19\]。
 3.  **Alice -緑黄色社会 vol.9 東京編 2019.6.14-**
       -
@@ -45,7 +45,7 @@
       -
         初回生産限定盤のみに収録。
         2019年6月14日にLIQUIDROOMで開催された「緑黄色夜祭 vol.9 -東京編-」でのライブ音源。
-        スタジオ音源はミニアルバム『[Nice To Meet You??](https://ja.wikipedia.org/wiki/Nice_To_Meet_You?? "wikilink")』に収録されている。
+        スタジオ音源はミニ・アルバム『[Nice To Meet You??](https://ja.wikipedia.org/wiki/Nice_To_Meet_You?? "wikilink")』に収録されている。
 
 ## 参加ミュージシャン
 
@@ -76,11 +76,13 @@
   - [NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")『[うまいッ\!](https://ja.wikipedia.org/wiki/うまいッ! "wikilink")』テーマソング（\#2）
   - [ユニクロ](../Page/ユニクロ.md "wikilink")「2019年秋冬ヒートテックインナー」店内放送曲（\#2）\[22\]
 
-## 配信限定シングル「sabotage -acoustic ver.-」
+## 配信限定シングル『sabotage -acoustic ver.-』
 
-2019年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")放送の『G線上のあなたと私』第7話のエンディングで使用された。タイトルのとおり、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")編成でレコーディングされており、バンドサウンドと[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を主軸としたオリジナルバージョンとは異なるアレンジとなっている\[23\]
+2019年11月26日放送の『G線上のあなたと私』第7話のエンディングで使用された。タイトルのとおり、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")編成でレコーディングされており、バンドサウンドと[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を主軸としたオリジナルバージョンとは異なるアレンジとなっている\[23\]
 
-[2019年](../Page/2019年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に各音楽配信サイトやストリーミングサービスでの配信が開始された\[24\]。
+2019年11月27日に各音楽配信サイトやストリーミングサービスでの配信が開始された\[24\]。
+
+### 収録曲
 
 ## 脚注
 
@@ -90,9 +92,8 @@
 
 ## 外部リンク
 
-  - [緑黄色社会『sabotage』特設サイト](https://www.ryokushaka.com/sabotage/)
-
-[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:TBS火曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜ドラマの主題歌 "wikilink") [Category:SMEJのシングル](https://ja.wikipedia.org/wiki/Category:SMEJのシングル "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+  -
+[Category:緑黄色社会の楽曲](https://ja.wikipedia.org/wiki/Category:緑黄色社会の楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:TBS火曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜ドラマの主題歌 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
 
 1.
 2.

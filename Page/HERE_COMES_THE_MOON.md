@@ -3,9 +3,7 @@
 
 『**HERE COMES THE MOON**』（ヒア・カムズ・ザ・ムーン）は、[InterFM897](https://ja.wikipedia.org/wiki/InterFM897 "wikilink")で毎週[日曜日](../Page/日曜日.md "wikilink")の24:00 - 25:00に放送しているシンガーソングライター[藤原さくらの](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
-## 概要
-
-シンガーソングライターの藤原さくらがDJを務めるラジオ[音楽](../Page/音楽.md "wikilink")番組。番組の[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は「週の終わりで始まりの日曜深夜。少し夜更かししたリスナーとともに、心地よい音楽と、ほっと安らぐ時間をシェアしていく59分間\[1\]」。番組名の「HERE COMES THE MOON」は、[ビートルズ](../Page/ビートルズ.md "wikilink")の[ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")の曲からとっている。
+シンガーソングライターの藤原さくらがDJを務めるラジオ[音楽](../Page/音楽.md "wikilink")番組。番組の[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は「週の終わりで始まりの日曜深夜。少し夜更かししたリスナーとともに、心地よい音楽と、ほっと安らぐ時間をシェアしていく59分間\[1\]」。
 
 ## 主なコーナー
 

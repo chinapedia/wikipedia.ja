@@ -1,7 +1,7 @@
 > この記事は[Harvest \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Harvest_\(渡辺美里のアルバム\))から翻訳されています。
 
 
-『**harvest**』（ハーベスト）は、[2020年](../Page/2020年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")にリリースされる[渡辺美里](../Page/渡辺美里.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
+『**harvest**』（ハーベスト）は、[2020年](../Page/2020年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")にリリースされる[渡辺美里](../Page/渡辺美里.md "wikilink")の７枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
 
 ## 解説
 
@@ -147,6 +147,12 @@
 14. **冒険者たち ～エターナルサンシャイン～**
       - 作詞：渡辺美里、作曲・編曲：多保孝一, UTA
       - ☆新曲。
+
+### Disc 4 「harvest bis」【初回生産限定盤Blu-ray】
+
+1.  **35th history**
+2.  **Live Digest**ー35th Anniversary Live Love Life Sweet Emotion Tour 2019-2020 at LINE CUBE SHIBUYAー
+3.  **in CHICAGO**
 
 ## 脚注
 

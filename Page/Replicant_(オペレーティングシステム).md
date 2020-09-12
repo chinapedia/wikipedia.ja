@@ -39,7 +39,7 @@ Replicantとは[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilin
 
 ## 脚注
 
-[Category:オペレーティングシステム関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム関連のスタブ項目 "wikilink") [Category:オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム "wikilink") [Category:FLOSS関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:FLOSS関連のスタブ項目 "wikilink")
+[Category:Android派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Android派生ディストリビューション "wikilink") [Category:オペレーティングシステム関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム関連のスタブ項目 "wikilink") [Category:オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム "wikilink") [Category:FLOSS関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:FLOSS関連のスタブ項目 "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[Rei\(c\)hi](https://ja.wikipedia.org/wiki/Rei\(c\)hi)から翻訳されています。
 
 
-**Rei(c)hi**（れいち、[2000年](../Page/2000年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")- ）は、日本の女性[歌手](../Page/歌手.md "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[大阪府](../Page/大阪府.md "wikilink")出身。「(c)」はコピーライトマークが正式表記。
+**Rei©️hi**（れいち、[2000年](../Page/2000年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")- ）は、日本の女性[歌手](../Page/歌手.md "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[大阪府](../Page/大阪府.md "wikilink")出身。「(c)」はコピーライトマークが正式表記。
 
 ## 経歴
 

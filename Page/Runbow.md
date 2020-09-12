@@ -157,7 +157,7 @@
   - [クロスファンクション 公式サイト](http://www.crossfunction.co.jp/runbow_wu/)
   - [レイニーフロッグ 公式サイト](https://www.rainyfrog.com/ja/game/runbow)
 
-[Category:2015年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2015年のコンピュータゲーム "wikilink") [Category:Wii_U用ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:カナダで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:カナダで開発されたコンピュータゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink")
+[Category:2015年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2015年のコンピュータゲーム "wikilink") [Category:Wii_U用ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:カナダで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:カナダで開発されたコンピュータゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:Unityを採用したゲームソフト](https://ja.wikipedia.org/wiki/Category:Unityを採用したゲームソフト "wikilink")
 
 1.
 2.

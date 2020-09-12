@@ -1,7 +1,7 @@
 > この記事は[BLOOM\*IZ](https://ja.wikipedia.org/wiki/BLOOM\*IZ)から翻訳されています。
 
 
-『**BLOOM\*IZ**』（ブルームアイズ）は、[2020年](../Page/2020年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[Stone Music Entertainmentからリリースされた](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink")[IZ\*ONE](https://ja.wikipedia.org/wiki/IZ*ONE "wikilink")の1枚目のフルアルバム。
+『**BLOOM\*IZ**』（ブルームアイズ）は、[2020年](../Page/2020年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[Stone Music Entertainment](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink")、[GENIE MUSICからリリースされた](https://ja.wikipedia.org/wiki/ジニーミュージック "wikilink")[IZ\*ONE](https://ja.wikipedia.org/wiki/IZ*ONE "wikilink")の1枚目のフルアルバム。
 
 ## 概要
 
@@ -12,6 +12,34 @@
 当初は2019年11月11日に発売予定であったが、Mnet『[PRODUCE X 101](https://ja.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")』及び『PRODUCE48』の投票操作疑惑の影響により発売延期となっていた\[3\]。2020年2月3日に所属事務所より、2020年2月17日に延期されていた本アルバムをリリースすることが発表された\[4\]。
 
 ## 収録曲
+
+## 歌唱メンバー
+
+**DREAMLIKE**
+
+  - [チャン・ウォニョン](https://ja.wikipedia.org/wiki/チャン・ウォニョン "wikilink")、[宮脇咲良](https://ja.wikipedia.org/wiki/宮脇咲良 "wikilink")、[チェ・イェナ](https://ja.wikipedia.org/wiki/チェ・イェナ "wikilink")、[矢吹奈子](https://ja.wikipedia.org/wiki/矢吹奈子 "wikilink")、[クォン・ウンビ](https://ja.wikipedia.org/wiki/クォン・ウンビ "wikilink")、[カン・ヘウォン](https://ja.wikipedia.org/wiki/カン・ヘウォン "wikilink")、[本田仁美](https://ja.wikipedia.org/wiki/本田仁美 "wikilink")
+
+**AYAYAYA**
+
+  - 宮脇咲良、[チョ・ユリ](https://ja.wikipedia.org/wiki/チョ・ユリ "wikilink")、[アン・ユジン](https://ja.wikipedia.org/wiki/アン・ユジン "wikilink")、矢吹奈子、クォン・ウンビ、カン・ヘウォン、[キム・ミンジュ](https://ja.wikipedia.org/wiki/キム・ミンジュ "wikilink")、[イ・チェヨン](https://ja.wikipedia.org/wiki/イ・チェヨン "wikilink")
+
+**SO CURIOUS**
+
+  - チャン・ウォニョン、チェ・イェナ、チョ・ユリ、アン・ユジン、矢吹奈子、本田仁美、[キム・チェウォン](https://ja.wikipedia.org/wiki/キム・チェウォン "wikilink")、キム・ミンジュ、イ・チェヨン
+
+**DAYDREAM**
+
+  - アン・ユジン、クォン・ウンビ、キム・ミンジュ、イ・チェヨン
+
+**PINK BLUSHER**
+
+  - チャン・ウォニョン、宮脇咲良、矢吹奈子、カン・へウォン、本田仁美
+
+**언젠가 우리의 밤도 지나가겠죠 (SOMEDAY)**
+
+  - チョ・ユリ、チェ・イェナ、キム・チェウォン
+
+※その他の楽曲は全員参加
 
 ## チャート成績
 

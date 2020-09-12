@@ -13,6 +13,18 @@
 
 副座長を務める[笠貫宏](https://ja.wikipedia.org/wiki/笠貫宏 "wikilink")は「新型コロナウイルスはまだ分かっていないことも多いが、科学的根拠に基づいた情報を集めて発信している」「現場で対応している医療者に加え、関心のある人にも見てもらい、役立ててもらいたい」と語っている\[13\]。
 
+## 提言
+
+2020年5月13日、「COVID-19 感染対策におけるPCR検査実態調査と利⽤推進タスクフォース 中間報告書」を発表し\[14\]、7月21日には同「解説版」を発表した\[15\]。
+
+5月17日、「新型コロナウィルス感染パンデミック時における治療薬開発についての緊急提言」を発表した\[16\]。
+
+5月25日、「COVID-19集中治療体制にかかわるタスクフォース 中間報告書」を発表した\[17\]。
+
+7月3日、「在宅医療と介護におけるCOVID-19対応の課題と 解決策、提言タスクフォース 報告書」を発表した\[18\]。
+
+8月5日、「COVID-19感染制御のためのPCR検査等の拡大に関する緊急提言」を発表した\[19\]\[20\]。また、日本医師会の中川俊男会長は8月5日の定例記者会見で「新型コロナウイルス感染症の今後の感染拡大を見据えたＰＣＲ等検査体制の更なる拡大・充実のための緊急提言」を公表した\[21\]\[22\]\[23\]。
+
 ## 構成
 
   - 座長
@@ -33,6 +45,8 @@
 
 :\* [石川義弘](https://ja.wikipedia.org/wiki/石川義弘 "wikilink")（[横浜市立大学](../Page/横浜市立大学.md "wikilink")副学長、[日本生理学会](../Page/日本生理学会.md "wikilink")理事長）
 
+:\* [小熊 豊](https://ja.wikipedia.org/wiki/小熊_豊 "wikilink")（[全国自治体病院協議会](https://ja.wikipedia.org/wiki/全国自治体病院協議会 "wikilink")会長)
+
 :\* [栗原敏](https://ja.wikipedia.org/wiki/栗原敏_\(医師\) "wikilink")（[慈恵大学](https://ja.wikipedia.org/wiki/慈恵大学 "wikilink")理事長、前[東京慈恵会医科大学](../Page/東京慈恵会医科大学.md "wikilink")学長）
 
 :\* [楠岡英雄](https://ja.wikipedia.org/wiki/楠岡英雄 "wikilink")（[国立病院機構](../Page/国立病院機構.md "wikilink")理事長、[厚生労働省医道審議会](https://ja.wikipedia.org/wiki/厚生労働省医道審議会 "wikilink")会長）
@@ -51,7 +65,7 @@
 
 :\* [中谷比呂樹](https://ja.wikipedia.org/wiki/中谷比呂樹 "wikilink")（[慶応義塾大学](https://ja.wikipedia.org/wiki/慶応義塾大学 "wikilink")特任教授、[WHO](https://ja.wikipedia.org/wiki/WHO "wikilink")執行理事）
 
-:\* [西田修](https://ja.wikipedia.org/wiki/西田修_\(医師\) "wikilink")（[藤田医科大学](../Page/藤田医科大学.md "wikilink")麻酔、侵襲制御医学教授、[日本集中治療医学会](https://ja.wikipedia.org/wiki/日本集中治療医学会 "wikilink")理事長）
+:\* [西田修](https://ja.wikipedia.org/wiki/西田修 "wikilink")（[藤田医科大学](../Page/藤田医科大学.md "wikilink")麻酔、侵襲制御医学教授、[日本集中治療医学会](https://ja.wikipedia.org/wiki/日本集中治療医学会 "wikilink")理事長）
 
 :\* [長谷川好規](https://ja.wikipedia.org/wiki/長谷川好規 "wikilink")（[日本呼吸器学会](https://ja.wikipedia.org/wiki/日本呼吸器学会 "wikilink")前理事長、[国立病院機構](../Page/国立病院機構.md "wikilink")名古屋医療センター院長）
 
@@ -59,9 +73,11 @@
 
 :\* [宮地勇人](https://ja.wikipedia.org/wiki/宮地勇人 "wikilink")（[日本臨床検査医学会](https://ja.wikipedia.org/wiki/日本臨床検査医学会 "wikilink")理事、[東海大学](../Page/東海大学.md "wikilink")医学部基盤診療学系臨床検査学教授）
 
+:\* [森内 浩幸](https://ja.wikipedia.org/wiki/森内_浩幸 "wikilink") ([長崎大学](../Page/長崎大学.md "wikilink")大学院[小児科学](../Page/小児科学.md "wikilink")教授、[日本小児科学会](https://ja.wikipedia.org/wiki/日本小児科学会 "wikilink")評議員、予防接種・感染予防委員会専門委員)
+
 :\* [山本修一](https://ja.wikipedia.org/wiki/山本修一 "wikilink")（[千葉大学](https://ja.wikipedia.org/wiki/千葉大学 "wikilink")副学長、前国立大学病院長会議会長）
 
-:\* [横田裕行](https://ja.wikipedia.org/wiki/横田裕行 "wikilink")（[日本体育大学院](https://ja.wikipedia.org/wiki/日本体育大学院 "wikilink")保健医療学研究科科長・教授、前[日本救急医学会](https://ja.wikipedia.org/wiki/日本救急医学会 "wikilink")代表理事）
+:\* [横田裕行](https://ja.wikipedia.org/wiki/横田裕行 "wikilink")（[日本体育大学](../Page/日本体育大学.md "wikilink")院保健医療学研究科科長・教授、前[日本救急医学会](https://ja.wikipedia.org/wiki/日本救急医学会 "wikilink")代表理事）
 
 :\* [吉原俊雄](https://ja.wikipedia.org/wiki/吉原俊雄 "wikilink")（[東京医科大学](../Page/東京医科大学.md "wikilink")耳鼻咽喉科・頭頸部外科客員教授、前[日本口腔・咽頭科学会](https://ja.wikipedia.org/wiki/日本口腔・咽頭科学会 "wikilink")理事長）
 
@@ -97,3 +113,13 @@
 11.
 12.
 13.
+14.  日本医師会 COVID-19有識者会議|url=[https://www.covid19-jma-medical-expert-meeting.jp/topic/1310|website=www.covid19-jma-medical-expert-meeting.jp|date=2020-05-15|accessdate=2020-08-10|language=ja](https://www.covid19-jma-medical-expert-meeting.jp/topic/1310%7Cwebsite=www.covid19-jma-medical-expert-meeting.jp%7Cdate=2020-05-15%7Caccessdate=2020-08-10%7Clanguage=ja)}}
+15.  日本医師会 COVID-19有識者会議|url=[https://www.covid19-jma-medical-expert-meeting.jp/topic/3169|website=www.covid19-jma-medical-expert-meeting.jp|date=2020-07-22|accessdate=2020-08-10|language=ja](https://www.covid19-jma-medical-expert-meeting.jp/topic/3169%7Cwebsite=www.covid19-jma-medical-expert-meeting.jp%7Cdate=2020-07-22%7Caccessdate=2020-08-10%7Clanguage=ja)}}
+16.  日本医師会 COVID-19有識者会議|url=[https://www.covid19-jma-medical-expert-meeting.jp/topic/1526|website=www.covid19-jma-medical-expert-meeting.jp|date=2020-05-18|accessdate=2020-08-10|language=ja](https://www.covid19-jma-medical-expert-meeting.jp/topic/1526%7Cwebsite=www.covid19-jma-medical-expert-meeting.jp%7Cdate=2020-05-18%7Caccessdate=2020-08-10%7Clanguage=ja)}}
+17.  日本医師会 COVID-19有識者会議|url=[https://www.covid19-jma-medical-expert-meeting.jp/topic/1910|website=www.covid19-jma-medical-expert-meeting.jp|date=2020-05-25|accessdate=2020-08-10|language=ja](https://www.covid19-jma-medical-expert-meeting.jp/topic/1910%7Cwebsite=www.covid19-jma-medical-expert-meeting.jp%7Cdate=2020-05-25%7Caccessdate=2020-08-10%7Clanguage=ja)}}
+18.  日本医師会 COVID-19有識者会議|url=[https://www.covid19-jma-medical-expert-meeting.jp/topic/2942|website=www.covid19-jma-medical-expert-meeting.jp|date=2020-07-03|accessdate=2020-08-10|language=ja](https://www.covid19-jma-medical-expert-meeting.jp/topic/2942%7Cwebsite=www.covid19-jma-medical-expert-meeting.jp%7Cdate=2020-07-03%7Caccessdate=2020-08-10%7Clanguage=ja)}}
+19.  日本医師会 COVID-19有識者会議|url=[https://www.covid19-jma-medical-expert-meeting.jp/topic/3243|website=www.covid19-jma-medical-expert-meeting.jp|date=2020-08-05|accessdate=2020-08-10|language=ja](https://www.covid19-jma-medical-expert-meeting.jp/topic/3243%7Cwebsite=www.covid19-jma-medical-expert-meeting.jp%7Cdate=2020-08-05%7Caccessdate=2020-08-10%7Clanguage=ja)}}
+20.
+21.
+22.
+23.

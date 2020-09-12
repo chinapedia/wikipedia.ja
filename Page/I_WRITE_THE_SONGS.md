@@ -9,7 +9,7 @@
 
   - 吉川晃司としては初のミニアルバムである。
   - 10万枚限定盤である。
-  - 「エロス」の[PVを収録した](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")が付属している。
+  - 「[エロス](https://ja.wikipedia.org/wiki/エロス_\(吉川晃司の曲\) "wikilink")」の[PVを収録した](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")が付属している。
 
 ## 収録曲
 

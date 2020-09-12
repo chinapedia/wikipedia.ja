@@ -9,7 +9,7 @@
 
   - デビュー30周年記念として製作・発売されたボックスである。
   - DISC1からDISC18は[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")としてリリースされた18作品を収録している。
-  - DISC19からDISC25は[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink")としてリリースされた4作品と企画盤としてリリースされた12inchシングル3作品をボーナス・ディスクとして収録している\[1\]。
+  - DISC19からDISC25は[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink")としてリリースされた4作品と企画盤としてリリースされた12inchシングル3作品をボーナス・ディスクとして収録している。尚、[2002年](../Page/2002年.md "wikilink")にミニ・アルバムとして発売した『[The Gundogs](../Page/The_Gundogs.md "wikilink")』は、本作には未収録となっている。
   - 30年間のライブをデータベース化したライブ・ヒストリー・ブックが付属している。
 
 ## 収録曲
@@ -37,9 +37,9 @@
     DISC18：『[SAMURAI ROCK](https://ja.wikipedia.org/wiki/SAMURAI_ROCK_\(吉川晃司のアルバム\) "wikilink")』
     DISC19：『[KATANA FISH](https://ja.wikipedia.org/wiki/KATANA_FISH "wikilink")』
     DISC20：『[I WRITE THE SONGS](../Page/I_WRITE_THE_SONGS.md "wikilink")』
-    DISC21：『WINTER GREETING』\[2\]
-    DISC22：『エンジェルチャイムが鳴る夜に』\[3\]
-    DISC23：『[MAIN DISH](https://ja.wikipedia.org/wiki/MAIN_DISH "wikilink")』
+    DISC21：『WINTER GREETING』\[1\]
+    DISC22：『エンジェルチャイムが鳴る夜に』\[2\]
+    DISC23：『[MAIN DISH](https://ja.wikipedia.org/wiki/MAIN_DISH_\(シングル\) "wikilink")』
     DISC24：『[Can't you hear the RAIN DANCE](https://ja.wikipedia.org/wiki/RAIN-DANCEがきこえる#Can't_you_hear_the_RAIN_DANCE "wikilink")』
     DISC25：『[NERVOUS VENUS](https://ja.wikipedia.org/wiki/NERVOUS_VENUS "wikilink")』
 
@@ -51,6 +51,5 @@
 
 [Category:2014年のCD-BOX](https://ja.wikipedia.org/wiki/Category:2014年のCD-BOX "wikilink") [Category:吉川晃司のアルバム](https://ja.wikipedia.org/wiki/Category:吉川晃司のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink")
 
-1.  [2002年](../Page/2002年.md "wikilink")にミニ・アルバムとして発売した『[The Gundogs](../Page/The_Gundogs.md "wikilink")』は未収録となっている。
-2.  CD BOOKとして発売されたが、音源のみの収録である。
-3.
+1.  CD BOOKとして発売されたが、音源のみの収録である。
+2.

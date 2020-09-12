@@ -9,6 +9,8 @@
 
 「笑いで日本を笑顔に」をキャッチフレーズにお届けする[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
+番組公式[ハッシュタグ](https://ja.wikipedia.org/wiki/ハッシュタグ "wikilink")は「\#bakunai1422」。
+
 ## 出演者
 
   - MC
@@ -45,6 +47,15 @@
 | 2015年4月3日 - 2016年1月1日  | 金曜26:00 - 26:30 | [ラジオ日本NEXT](https://ja.wikipedia.org/wiki/ラジオ日本NEXT "wikilink") |
 | 2016年1月6日 - 2017年3月29日 | 水曜26:00 - 26:30 |                                                                 |
 | 2017年4月2日 -            | 日曜23:30 - 24:00 | [ラジオ日本ハロプロアワー](../Page/ラジオ日本ハロプロアワー.md "wikilink")              |
+
+## コーナー
+
+  - ふつおた
+    元祖爆笑王と金澤への質問などを募集するコーナー。
+  - 教えて\!元爆
+    元祖爆笑王がリスナーの悩みや相談事を解決するコーナー\[1\]。
+  - お願い…と♡も♡こ
+    金澤に言ってほしいセリフ、言いそうなセリフを設定と共に募集するコーナー\[2\]。
 
 ## ゲスト
 
@@ -113,8 +124,13 @@
   - 2020年5月10日：高木紗友希
   - 2020年5月24日：稲場愛香
 
+## 脚注
+
 ## 外部リンク
 
   -
   -
 [Category:ラジオ日本の番組](https://ja.wikipedia.org/wiki/Category:ラジオ日本の番組 "wikilink") [Category:ラジオ日本NEXT](https://ja.wikipedia.org/wiki/Category:ラジオ日本NEXT "wikilink") [Category:ラジオ日本ハロプロアワー](https://ja.wikipedia.org/wiki/Category:ラジオ日本ハロプロアワー "wikilink") [Category:ハロー\!プロジェクト関連の放送番組](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連の放送番組 "wikilink") [Category:2013年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2013年のラジオ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.
+2.

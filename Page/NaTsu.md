@@ -29,7 +29,7 @@
 
 ### ラジオ
 
-  - [ラジオ大阪](https://ja.wikipedia.org/wiki/ラジオ大阪 "wikilink") Vステーションゾーンジングル
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink") Vステーションゾーンジングル
 
 ### 舞台･朗読
 
@@ -46,7 +46,6 @@
   -
   -
   -
-
 [Category:日本の女性声優](https://ja.wikipedia.org/wiki/Category:日本の女性声優 "wikilink") [Category:日本のナレーター](https://ja.wikipedia.org/wiki/Category:日本のナレーター "wikilink") [Category:1993年生](https://ja.wikipedia.org/wiki/Category:1993年生 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:アミューズメントメディア総合学院の卒業生](https://ja.wikipedia.org/wiki/Category:アミューズメントメディア総合学院の卒業生 "wikilink")
 
 1.

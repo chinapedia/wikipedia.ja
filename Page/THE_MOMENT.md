@@ -19,7 +19,7 @@
 
 1.  **OPENING ACT feat. SHIENA** \[3\]
       -
-        作詞・作曲・編曲：角松敏生
+        角松敏生 作詞・作曲・編曲
 2.  **The Moment of 4.6 Billion Years 〜46億年の刹那〜** \[4\]
       - I. The Birth of Coral 〜珊瑚礁の誕生〜
         II. The Depth of Love 〜愛の深淵〜
@@ -27,20 +27,20 @@
         IV. Bonds 〜絆〜
         V. The Memory of Eternity 〜永遠の記憶〜
         VI. Dawn of the Island 〜島嶼の夜明け〜
-        作詞・作曲・編曲：角松敏生 / クワイア指揮：鬼無宣寿
+        角松敏生 作詞・作曲・編曲 / 鬼無宣寿 クワイア指揮
 3.  **Get Back to the Love** \[5\]
       - I. Get Back to the Love
         II. You are Still with Me
         III. Hero
         IV. Show Me the Way
         V. Get Back to the Love(Reprise)
-        作詞・作曲・編曲：角松敏生 / ブラス編曲：[本田雅人](../Page/本田雅人.md "wikilink") / クワイア指揮：鬼無宣寿
+        角松敏生 作詞・作曲・編曲 / [本田雅人](../Page/本田雅人.md "wikilink") ブラス編曲 / 鬼無宣寿 クワイア指揮
 4.  **THE LIFE 〜いのち〜**  \[6\]
       -
         作詞・作曲・編曲：角松敏生
 5.  **I SEE THE LIGHT 〜輝く未来〜** \[7\]
       -
-        作詞：GLENN SLATER / 訳詞：高橋知伽江 / 作曲：[ALAN MENKEN](../Page/アラン・メンケン.md "wikilink") / 編曲：角松敏生 / オーケストラ編曲：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")
+        GLENN SLATER 作詞 / 高橋知伽江 訳詞 / [ALAN MENKEN](../Page/アラン・メンケン.md "wikilink") 作曲 / 角松敏生 編曲 / [小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink") オーケストラ編曲
 
 ## クレジット
 
@@ -132,7 +132,7 @@ Members : <strong>ASAMI</strong> / <strong>Sachi Igarashi</strong> / <strong>HIR
 
 |                                                                                |
 | ------------------------------------------------------------------------------ |
-| Words by **GLENN SLATER** / Words Translated by **CHIKAE**                     |
+| Words by **GLENN SLATER** / Words Translated by **CHIKAE TAKAHASHI**           |
 | Music by **[ALAN MENKEN](../Page/アラン・メンケン.md "wikilink")**                     |
 | Arranged by **TOSHIKI KADOMATSU** / Orchestra Arranged by **SHINGO KOBAYASHI** |
 |                                                                                |

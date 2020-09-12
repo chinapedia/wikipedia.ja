@@ -15,7 +15,7 @@
 
 主に一人[コント](../Page/コント.md "wikilink")。
 
-コントには『披露宴の余興で[ハンドベル](../Page/ハンドベル.md "wikilink")を使って[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")の[Butterflyを演奏するが](https://ja.wikipedia.org/wiki/Butterfly_\(木村カエラの曲\) "wikilink")、途中で[長州力](../Page/長州力.md "wikilink")の入場曲になってしまう新婦の友達』などがある\[5\]。
+代表ネタには『披露宴の余興で[ハンドベル](../Page/ハンドベル.md "wikilink")を使って[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")の[Butterflyを演奏するが](https://ja.wikipedia.org/wiki/Butterfly_\(木村カエラの曲\) "wikilink")、途中で[長州力](../Page/長州力.md "wikilink")の入場曲になってしまう新婦の友達』等がある\[5\]。
 
 [サツマカワRPG](https://ja.wikipedia.org/wiki/サツマカワRPG "wikilink")とコンビを組んだ『**TEAMサツマカワ**』として[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に出場経験がある\[6\]\[7\]。
 

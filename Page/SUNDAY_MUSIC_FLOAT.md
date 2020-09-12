@@ -48,7 +48,7 @@
   -
   - [SUNDAY MUSIC FLOAT | bayfm 78.0MHz ベイエフエム](https://www.bayfm.co.jp/program/tomoko/)
 
-[Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:Bayfmの番組](https://ja.wikipedia.org/wiki/Category:Bayfmの番組 "wikilink") [Category:独立系FMラジオの音楽番組‎](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組‎ "wikilink")
+[Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:Bayfmの番組](https://ja.wikipedia.org/wiki/Category:Bayfmの番組 "wikilink") [Category:独立系FMラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組 "wikilink")
 
 1.
 2.

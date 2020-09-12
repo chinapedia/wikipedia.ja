@@ -27,6 +27,7 @@
 《2015年頃》 ◎イベントR\&R Forever\! 100回記念 Single CD「HONEY TRAP」発売\[8\]
 《2016年〜》 ▶ドラマー / 八幡が復帰
 《2019年6月》 ●結成20周年
+《2020年5月》 ◎初のオンライン・レコーディング音源「The Bargain Planet (お買得な地球)」発表
 
 ## 現在のラインナップ
 
@@ -36,7 +37,7 @@
 **●HACHI［八幡豊］** [ドラム](../Page/ドラムセット.md "wikilink")＆[パーカッション](../Page/パーカッション.md "wikilink")担当（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身／12月20日生）
 　[R\&R](../Page/ロックンロール.md "wikilink")、[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")から[ハードロック](../Page/ハードロック.md "wikilink")、[JAZZまでこなすスーパー](../Page/ジャズ.md "wikilink")[リズム](../Page/リズム.md "wikilink")マスター
 
-**●KING［中島透］** [ベースギター担当](../Page/エレクトリックベース.md "wikilink")（[東京都](../Page/東京都.md "wikilink")出身／7月20日生）
+**●KING［中島透］** [ベースギター担当](../Page/エレクトリックベース.md "wikilink")（[東京都](../Page/東京都.md "wikilink")出身／7月22日生）
 　[スポーツ](../Page/スポーツ.md "wikilink")全般（特に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")）と[飲み屋街を愛する](../Page/酒場.md "wikilink")、東京城北エリアを代表する[ベーシスト](../Page/ベーシスト.md "wikilink")
 
 **●RIKI［齋藤リキ］** [エレキギター担当](../Page/エレクトリック・ギター.md "wikilink")（[東京都](../Page/東京都.md "wikilink")出身／4月19日生）
@@ -125,6 +126,10 @@
 
 01\. HONEY TRAP
 02\. 彼女はF.B.I (Instrumental)
+
+### ◎Online Recording「THE BARGAIN PLANET」
+
+01\. The Bargain Planet (お買得な地球)
 
 ## 備考
 

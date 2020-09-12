@@ -19,7 +19,7 @@
 
   - [アボカド](../Page/アボカド.md "wikilink")
 
-[Category:脂肪酸](https://ja.wikipedia.org/wiki/Category:脂肪酸 "wikilink") [Category:生薬](https://ja.wikipedia.org/wiki/Category:生薬 "wikilink") [Category:民間療法](https://ja.wikipedia.org/wiki/Category:民間療法 "wikilink")
+[Category:ポリオール](https://ja.wikipedia.org/wiki/Category:ポリオール "wikilink") [Category:生薬](https://ja.wikipedia.org/wiki/Category:生薬 "wikilink") [Category:民間療法](https://ja.wikipedia.org/wiki/Category:民間療法 "wikilink")
 
 1.
 2.

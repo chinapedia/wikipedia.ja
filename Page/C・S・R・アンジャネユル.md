@@ -22,7 +22,7 @@
 ## 外部リンク
 
   -
-[Category:テルグ語映画の監督](https://ja.wikipedia.org/wiki/Category:テルグ語映画の監督 "wikilink") [Category:インドの男優](https://ja.wikipedia.org/wiki/Category:インドの男優 "wikilink") [Category:テルグ語映画の男優](https://ja.wikipedia.org/wiki/Category:テルグ語映画の男優 "wikilink") [Category:マラヤーラム語映画の男優](https://ja.wikipedia.org/wiki/Category:マラヤーラム語映画の男優 "wikilink") [Category:アーンドラ大学出身の人物](https://ja.wikipedia.org/wiki/Category:アーンドラ大学出身の人物 "wikilink") [Category:アーンドラ・プラデーシュ州出身の人物](https://ja.wikipedia.org/wiki/Category:アーンドラ・プラデーシュ州出身の人物 "wikilink") [Category:1907年生](https://ja.wikipedia.org/wiki/Category:1907年生 "wikilink") [Category:1963年没](https://ja.wikipedia.org/wiki/Category:1963年没 "wikilink")
+[Category:テルグ語映画の監督](https://ja.wikipedia.org/wiki/Category:テルグ語映画の監督 "wikilink") [Category:インドの男優](https://ja.wikipedia.org/wiki/Category:インドの男優 "wikilink") [Category:テルグ語映画の男優](https://ja.wikipedia.org/wiki/Category:テルグ語映画の男優 "wikilink") [Category:マラヤーラム語映画の男優](https://ja.wikipedia.org/wiki/Category:マラヤーラム語映画の男優 "wikilink") [Category:アーンドラ大学出身の人物](https://ja.wikipedia.org/wiki/Category:アーンドラ大学出身の人物 "wikilink") [Category:テルグ人](https://ja.wikipedia.org/wiki/Category:テルグ人 "wikilink") [Category:アーンドラ・プラデーシュ州出身の人物](https://ja.wikipedia.org/wiki/Category:アーンドラ・プラデーシュ州出身の人物 "wikilink") [Category:1907年生](https://ja.wikipedia.org/wiki/Category:1907年生 "wikilink") [Category:1963年没](https://ja.wikipedia.org/wiki/Category:1963年没 "wikilink")
 
 1.  C.S.R. Anjaneyulu at Nataratnalu by Mikkilineni Radhakrishna Murthy, 2nd ed. 2002, pp:50–53.
 2.

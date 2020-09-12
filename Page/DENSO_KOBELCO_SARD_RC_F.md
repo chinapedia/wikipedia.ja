@@ -52,6 +52,26 @@
 
 \[2\]
 
+## チーム
+
+  - チーム名 - LEXUS TEAM SARD
+  - チームオーナー - [加藤眞](https://ja.wikipedia.org/wiki/加藤眞 "wikilink")
+  - 監督 - [野田英樹](../Page/野田英樹.md "wikilink")
+  - ドライバー - [ヘイキ・コバライネン](../Page/ヘイキ・コバライネン.md "wikilink")、[平手晃平](../Page/平手晃平.md "wikilink")
+  - エントラント代表 - 才木祐二
+  - チーフエンジニア - [田中耕太郎](https://ja.wikipedia.org/wiki/田中耕太郎_\(技術者\) "wikilink")
+  - チームマネージャー - 宮本真明
+  - チーフメカニック - 二宮真二
+  - メカニック - 平野巧、松岡佑太
+  - 営業本部長 - [近藤尚史](https://ja.wikipedia.org/wiki/近藤尚史 "wikilink")
+  - スポンサー営業担当 - 高橋佑太
+  - 営業担当 - 楊偉佳、澤口フェルナンド、古旗駿平、太田雅巳、今泉淳
+  - デザイナー - 野村栄太朗
+  - アシスタントマネージャー - 北山紗衣
+  - レースクイーン -[西村いちか](https://ja.wikipedia.org/wiki/西村いちか "wikilink")（KOBELCO GIRLS）、[三城千咲](https://ja.wikipedia.org/wiki/三城千咲 "wikilink")（KOBELCO GIRLS）、[水瀬きい](https://ja.wikipedia.org/wiki/水瀬きい "wikilink")（SARDイメージガール）
+  - メインスポンサー - [デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")、[KOBELCO](https://ja.wikipedia.org/wiki/KOBELCO "wikilink")
+  - スポンサー - [MAGNA STEYR](https://ja.wikipedia.org/wiki/マグナ・シュタイア "wikilink")、[MOTUL](https://ja.wikipedia.org/wiki/MOTUL "wikilink")、株式会社[進和](https://ja.wikipedia.org/wiki/進和 "wikilink")、[鬼頭工業](https://ja.wikipedia.org/wiki/鬼頭工業 "wikilink")株式会社、株式会社[豊田自動織機](../Page/豊田自動織機.md "wikilink")
+
 ## 脚注
 
 <references />

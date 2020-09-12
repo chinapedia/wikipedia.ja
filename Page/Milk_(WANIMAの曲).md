@@ -1,7 +1,7 @@
 > この記事は[Milk \(WANIMAの曲\)](https://ja.wikipedia.org/wiki/Milk_\(WANIMAの曲\))から翻訳されています。
 
 
-「**Milk**」は、[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")の5作目の配信限定[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")からデジタルリリース予定\[1\]。
+「**Milk**」は、[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")の5作目の配信限定[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")からデジタルリリースされた\[1\]。
 
 ## 概要
 
@@ -16,6 +16,10 @@
         作詞・作曲：KENTA　編曲：WANIMA
 
 ## 脚注
+
+## 外部リンク
+
+  - [Milk](https://wanima.net/discography/milk/) - WANIMA Official Web Site
 
 [Category:WANIMAの楽曲](https://ja.wikipedia.org/wiki/Category:WANIMAの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:飲み物を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:飲み物を題材とした楽曲 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
 

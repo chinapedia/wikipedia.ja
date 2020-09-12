@@ -1,17 +1,19 @@
 > この記事は[Twenty★Twenty](https://ja.wikipedia.org/wiki/Twenty★Twenty)から翻訳されています。
 
 
-**Twenty★Twenty**（トゥエンティー・トゥエンティー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")内の期間限定ユニット。事務所所属タレントの75名が参加する。プロデュースは[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")副社長が行う\[1\]\[2\]。
+**Twenty★Twenty**（トゥエンティー・トゥエンティー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")内のチャリティーユニット。事務所所属タレントやアーティスト等の15組75名が参加する。通称は**トニトニ**。プロデュースは[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")副社長が行う\[1\]\[2\]。
 
 ## 概要
 
+[2013年](../Page/2013年.md "wikilink")に[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")社長（当時）が[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")に向けて[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")40名によるユニット「Twenty・Twenty」（トゥエンティ・トゥエンティ）を結成する構想を発表した\[3\]が、[2019年](../Page/2019年.md "wikilink")にジャニーが死去し、[新型コロナウイルス感染症 (COVID-19) の世界的流行の影響でオリンピックも延期となったため](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、この構想自体消滅しかけていた。しかし[2020年](../Page/2020年.md "wikilink")5月、[COVID-19感染拡大防止の支援活動](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")「Smile Up\! Project」の取り組みの一つとして、[チャリティーソング](https://ja.wikipedia.org/wiki/チャリティーソング "wikilink")を発売する目的で前述のユニット名を受け継いだ総勢75名によるチャリティーユニットの結成が発表された\[4\]\[5\]\[6\]。
+
 ## 活動歴
 
-  - 2020年5月12日\[3\]、[新型コロナウイルスの復興プロジェクトとして](../Page/2019新型コロナウイルス.md "wikilink")「**Twenty★Twenty**」の結成をジャニーズ事務所が発表。翌13日の早朝には各マスコミも結成の報道を行った\[4\]。
+  - [2020年](../Page/2020年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")、[新型コロナウイルスの復興プロジェクトとして](../Page/2019新型コロナウイルス.md "wikilink")「**Twenty★Twenty**」の結成をジャニーズ事務所が発表\[7\]。翌13日の早朝には各マスコミも結成の報道を行った\[8\]。
 
 ## 参加メンバー
 
-所属グループはデビュー順
+所属グループはデビュー順、メンバーはJohnny's net内の各プロフィール記載順。
 
 <table>
 <thead>
@@ -64,11 +66,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/嵐_(グループ).md" title="wikilink">嵐</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大野智" title="wikilink">大野智</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/櫻井翔" title="wikilink">櫻井翔</a></p></td>
+<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -78,20 +80,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/松本潤.md" title="wikilink">松本潤</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大野智" title="wikilink">大野智</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/櫻井翔" title="wikilink">櫻井翔</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEWS_(グループ)" title="wikilink">NEWS</a></p></td>
-<td><p><a href="../Page/増田貴久.md" title="wikilink">増田貴久</a></p></td>
-<td><p><a href="../Page/手越祐也.md" title="wikilink">手越祐也</a>は緊急事態宣言発令中の<br />
-外出行為のため不参加</p></td>
+<td><p><a href="../Page/小山慶一郎.md" title="wikilink">小山慶一郎</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤シゲアキ" title="wikilink">加藤シゲアキ</a></p></td>
@@ -99,7 +100,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/小山慶一郎.md" title="wikilink">小山慶一郎</a></p></td>
+<td><p><a href="../Page/増田貴久.md" title="wikilink">増田貴久</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -134,12 +135,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中丸雄一.md" title="wikilink">中丸雄一</a></p></td>
+<td><p><a href="../Page/上田竜也.md" title="wikilink">上田竜也</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/上田竜也.md" title="wikilink">上田竜也</a></p></td>
+<td><p><a href="../Page/中丸雄一.md" title="wikilink">中丸雄一</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -169,17 +170,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/伊野尾慧.md" title="wikilink">伊野尾慧</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/髙木雄也" title="wikilink">髙木雄也</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/八乙女光.md" title="wikilink">八乙女光</a></p></td>
+<td><p><a href="../Page/伊野尾慧.md" title="wikilink">伊野尾慧</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/高木雄也.md" title="wikilink">髙木雄也</a></p></td>
+<td><p><a href="../Page/八乙女光.md" title="wikilink">八乙女光</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -226,7 +227,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Sexy_Zone" title="wikilink">Sexy Zone</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤勝利" title="wikilink">佐藤勝利</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松島聡" title="wikilink">松島聡</a>は療養中のため不参加</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松島聡" title="wikilink">松島聡</a>は療養中だったため不参加</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中島健人" title="wikilink">中島健人</a></p></td>
@@ -245,7 +246,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/A.B.C-Z.md" title="wikilink">A.B.C-Z</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塚田僚一" title="wikilink">塚田僚一</a></p></td>
+<td><p><a href="../Page/橋本良亮.md" title="wikilink">橋本良亮</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -264,7 +265,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/橋本良亮.md" title="wikilink">橋本良亮</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塚田僚一" title="wikilink">塚田僚一</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -305,21 +306,21 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/King_&amp;_Prince" title="wikilink">King &amp; Prince</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸優太" title="wikilink">岸優太</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平野紫耀" title="wikilink">平野紫耀</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岩橋玄樹" title="wikilink">岩橋玄樹</a>は療養中のため不参加</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/平野紫耀" title="wikilink">平野紫耀</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/永瀬廉" title="wikilink">永瀬廉</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋海人" title="wikilink">高橋海人</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/髙橋海人" title="wikilink">髙橋海人</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/永瀬廉" title="wikilink">永瀬廉</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岸優太" title="wikilink">岸優太</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -330,7 +331,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SixTONES" title="wikilink">SixTONES</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高地優吾" title="wikilink">高地優吾</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェシー_(俳優)" title="wikilink">ジェシー</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -344,7 +345,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェシー_(俳優)" title="wikilink">ジェシー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/髙地優吾" title="wikilink">髙地優吾</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -362,7 +363,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Snow_Man" title="wikilink">Snow Man</a></p></td>
 <td><p><a href="../Page/深澤辰哉.md" title="wikilink">深澤辰哉</a></p></td>
 <td><p><a href="../Page/岩本照.md" title="wikilink">岩本照</a>は不祥事による<br />
-活動自粛中のため不参加</p></td>
+活動自粛中だったため不参加</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ラウール_(ジャニーズ)" title="wikilink">ラウール</a></p></td>
@@ -412,25 +413,40 @@
 </tbody>
 </table>
 
-## オリジナル楽曲
+## ディスコグラフィ
 
-  - smile（作詞、作曲：[櫻井和寿](https://ja.wikipedia.org/wiki/櫻井和寿 "wikilink")）
+| 枚 | リリース日      | タイトル                                                                             | 順位  |
+| - | ---------- | -------------------------------------------------------------------------------- | --- |
+| 1 | 2020年8月12日 | [smile](https://ja.wikipedia.org/wiki/smile_\(Twenty★Twentyの曲\) "wikilink")\[9\] | |1位 |
 
 ## 関連項目
 
-  - [J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に起きた[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")のチャリティー活動を[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2003年](../Page/2003年.md "wikilink")まで行ったジャニーズのユニット。TOKIO、KinKi Kids、V6で結成。
+  - [J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に起きた[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")のチャリティー活動を[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2003年](../Page/2003年.md "wikilink")まで行ったジャニーズのユニット。[TOKIO](../Page/TOKIO.md "wikilink")、KinKi Kids、V6で結成。
   - [Marching J](https://ja.wikipedia.org/wiki/Marching_J "wikilink") - [2011年](../Page/2011年.md "wikilink")に起きた[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の復興プロジェクト。
+  - [JOHNNYS' World -ジャニーズ・ワールド-](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド- "wikilink")
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 外部リンク
 
-期間限定ユニット「Twenty★Twenty」（トゥエンティー・トゥエンティー）結成 チャリティーソング「smile」（作詞・作曲：櫻井和寿）制作開始のお知らせ\[5\]
+  - [「Twenty★Twenty」特設サイト](https://www.2020-smile.com/)
 
-[Category:ジャニーズ事務所](https://ja.wikipedia.org/wiki/Category:ジャニーズ事務所 "wikilink")
+<!-- end list -->
 
-1.  [ジャニーズ15組76人総力結集　期間限定ユニット　歌で支える](https://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2020051302000172.html)中日スポーツ（2020年5月13日）2020年5月13日閲覧。
+  - [期間限定ユニット「Twenty★Twenty」（トゥエンティー・トゥエンティー）結成 チャリティーソング「smile」（作詞・作曲：櫻井和寿）制作開始のお知らせ](https://www.johnnys-net.jp/page?id=text&dataId=1925) - johnnys-net (2020年5月13日)
+
+[Category:ジャニーズ事務所](https://ja.wikipedia.org/wiki/Category:ジャニーズ事務所 "wikilink") [Category:滝沢秀明](https://ja.wikipedia.org/wiki/Category:滝沢秀明 "wikilink") [Category:V6](https://ja.wikipedia.org/wiki/Category:V6 "wikilink") [Category:KinKi_Kids](https://ja.wikipedia.org/wiki/Category:KinKi_Kids "wikilink") [Category:嵐_(ジャニーズ)](https://ja.wikipedia.org/wiki/Category:嵐_\(ジャニーズ\) "wikilink") [Category:NEWS](https://ja.wikipedia.org/wiki/Category:NEWS "wikilink") [Category:関ジャニ∞](https://ja.wikipedia.org/wiki/Category:関ジャニ∞ "wikilink") [Category:KAT-TUN](https://ja.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:Kis-My-Ft2](https://ja.wikipedia.org/wiki/Category:Kis-My-Ft2 "wikilink") [Category:Sexy_Zone](https://ja.wikipedia.org/wiki/Category:Sexy_Zone "wikilink") [Category:A.B.C.](https://ja.wikipedia.org/wiki/Category:A.B.C. "wikilink") [Category:ジャニーズWEST](https://ja.wikipedia.org/wiki/Category:ジャニーズWEST "wikilink") [Category:King_&_Prince](https://ja.wikipedia.org/wiki/Category:King_&_Prince "wikilink") [Category:SixTONES](https://ja.wikipedia.org/wiki/Category:SixTONES "wikilink") [Category:Snow_Man](https://ja.wikipedia.org/wiki/Category:Snow_Man "wikilink")
+
+1.  [ジャニーズ15組76人総力結集　期間限定ユニット　歌で支える](https://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2020051302000172.html) 中日スポーツ（2020年5月13日）2020年5月13日閲覧。
 2.
 3.
-4.  [ジャニーズ15組参加の期間限定ユニットTwenty★Twenty結成、楽曲提供は櫻井和寿](https://natalie.mu/music/news/378803)音楽ナタリー（2020年5月13日）2020年5月13日閲覧。
-5.  [Smile Up \! Projectよりお知らせ](https://www.johnnys-net.jp/page?id=text&dataId=1925) - johnnys-net OFFICIAL WEBSITE 2020年5月13日
+4.  [ジャニーズ版Ｗｅ　ａｒｅ　ｔｈｅ　ｗｏｒｌｄだ　期間限定ユニットＴｗｅｎｔｙ★Ｔｗｅｎｔｙ結成](https://www.sanspo.com/geino/news/20200513/joh20051304000001-n1.html) サンケイスポーツ（2020年5月13日）2020年5月14日閲覧。
+5.  [トニトニ理念崩壊⁉HiHi Jets、美 少年…夢を消したタッキーの腹の中](https://taishu.jp/articles/-/75003?page=1) 日刊大衆（2020年5月14日）2020年6月3日閲覧。
+6.  [ジャニーズユニット「トニトニ」手洗いソングも音源化へ](https://jisin.jp/entertainment/entertainment-news/1861900/) 女性自身（2020年5月22日）2020年6月3日閲覧。
+7.
+8.  [ジャニーズ15組参加の期間限定ユニットTwenty★Twenty結成、楽曲提供は櫻井和寿](https://natalie.mu/music/news/378803) 音楽ナタリー（2020年5月13日）2020年5月13日閲覧。
+9.

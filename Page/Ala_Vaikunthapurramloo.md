@@ -1,7 +1,7 @@
 > この記事は[Ala Vaikunthapurramloo](https://ja.wikipedia.org/wiki/Ala_Vaikunthapurramloo)から翻訳されています。
 
 
-『***Ala Vaikunthapurramuloo***』は、[2020年に公開された](../Page/2020年の映画.md "wikilink")[インドの](../Page/インドの映画.md "wikilink")[アクション](../Page/アクション映画.md "wikilink")[ドラマ映画](../Page/ドラマ映画.md "wikilink")\[1\]\[2\]。が監督、[アッル・アラヴィンド](https://ja.wikipedia.org/wiki/アッル・アラヴィンド "wikilink")とがプロデューサーを務めた\[3\]。主演は[アッル・アルジュン](https://ja.wikipedia.org/wiki/アッル・アルジュン "wikilink")とが務め、助演キャストとして[タッブー](https://ja.wikipedia.org/wiki/タッブー "wikilink")、、、、、[ムラリ・シャルマ](../Page/ムラリ・シャルマ.md "wikilink")、、[スニール](https://ja.wikipedia.org/wiki/スニール "wikilink")、、が出演している\[4\]\[5\]\[6\]\[7\]。映画音楽の作曲はが手掛け\[8\]、撮影と編集はとが手掛けた。映画は2020年1月12日に公開され、トリヴィクラムのディレクションと脚本、アッル・アルジュンとムラリ・シャルマの演技、S・タマンの音楽が高く評価され、50日間以上上映された\[9\]。
+『***Ala Vaikunthapurramuloo***』は、[2020年に公開された](../Page/2020年の映画.md "wikilink")[インドの](../Page/インドの映画.md "wikilink")[アクション](../Page/アクション映画.md "wikilink")[ドラマ映画](../Page/ドラマ映画.md "wikilink")\[1\]\[2\]。が監督、[アッル・アラヴィンド](https://ja.wikipedia.org/wiki/アッル・アラヴィンド "wikilink")とがプロデューサーを務めた\[3\]。主演は[アッル・アルジュン](https://ja.wikipedia.org/wiki/アッル・アルジュン "wikilink")と[プージャー・ヘーグデー](https://ja.wikipedia.org/wiki/プージャー・ヘーグデー "wikilink")が務め、助演キャストとして[タッブー](https://ja.wikipedia.org/wiki/タッブー "wikilink")、、、、、[ムラリ・シャルマ](../Page/ムラリ・シャルマ.md "wikilink")、、[スニール](https://ja.wikipedia.org/wiki/スニール "wikilink")、、が出演している\[4\]\[5\]\[6\]\[7\]。映画音楽の作曲はが手掛け\[8\]、撮影と編集はとが手掛けた。映画は2020年1月12日に公開され、トリヴィクラムのディレクションと脚本、アッル・アルジュンとムラリ・シャルマの演技、S・タマンの音楽が高く評価され、50日間以上上映された\[9\]。
 
 ## ストーリー
 
@@ -12,7 +12,7 @@
 <tr class="odd">
 <td><ul>
 <li>バントゥ - <a href="https://ja.wikipedia.org/wiki/アッル・アルジュン" title="wikilink">アッル・アルジュン</a></li>
-<li>アムリヤ - </li>
+<li>アムリヤ - <a href="https://ja.wikipedia.org/wiki/プージャー・ヘーグデー" title="wikilink">プージャー・ヘーグデー</a></li>
 <li>ヤショーダ - <a href="https://ja.wikipedia.org/wiki/タッブー" title="wikilink">タッブー</a></li>
 <li>ラーマチャンドラ - </li>
 <li>ラージ・マノハル - </li>
@@ -52,7 +52,7 @@
 
 『[Aravinda Sametha Veera Raghava](https://ja.wikipedia.org/wiki/:en:Aravinda_Sametha_Veera_Raghava "wikilink")』の公開後、が[アッル・アルジュン](https://ja.wikipedia.org/wiki/アッル・アルジュン "wikilink")を主演に迎えて新作映画を製作するという報道が流れた。後に企画は正式に発表されたが、映画のジャンルについての詳細は発表されなかった。2018年12月31日にが新作映画の企画を発表し、トリヴィクラム・スリニヴァスが監督を務め、ハーリカ&ハーシン・クリエーションズと共同製作になることが明らかになった\[10\]。2019年4月8日のアッル・アルジュンの誕生日に合わせて主要キャストとスタッフが発表され、同月14日にが執り行われ撮影が開始された\[11\]。
 
-2019年4月23日から第1スケジュールの撮影が始まり、6月5日から第2スケジュールの撮影が開始された。この期間中に、、[タッブー](https://ja.wikipedia.org/wiki/タッブー "wikilink")、が撮影に加わった\[12\]\[13\]。8月15日には映画のタイトルが「Ala Vaikunthapurramuloo」であることが発表された\[14\]。11月中旬からは歌曲シークエンス「Samajavaragamana」撮影のため、撮影チームは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")に移動した。シーンの一部は[ル・モン＝サン＝ミシェル](https://ja.wikipedia.org/wiki/ル・モン＝サン＝ミシェル "wikilink")と[エッフェル塔](../Page/エッフェル塔.md "wikilink")で撮影された。また、[リドでも撮影が行われ](https://ja.wikipedia.org/wiki/リド_\(キャバレー\) "wikilink")、『Ala Vaikunthapurramuloo』は同地で撮影された最初の[南インド映画となった](https://ja.wikipedia.org/wiki/南インドの映画 "wikilink")\[15\]。悪役には[タミル語映画](https://ja.wikipedia.org/wiki/タミル語映画 "wikilink")の監督・俳優のが起用された\[16\]。
+2019年4月23日から第1スケジュールの撮影が始まり、6月5日から第2スケジュールの撮影が開始された。この期間中に[プージャー・ヘーグデー](https://ja.wikipedia.org/wiki/プージャー・ヘーグデー "wikilink")、、[タッブー](https://ja.wikipedia.org/wiki/タッブー "wikilink")、が撮影に加わった\[12\]\[13\]。8月15日には映画のタイトルが「Ala Vaikunthapurramuloo」であることが発表された\[14\]。11月中旬からは歌曲シークエンス「Samajavaragamana」撮影のため、撮影チームは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")に移動した。シーンの一部は[ル・モン＝サン＝ミシェル](https://ja.wikipedia.org/wiki/ル・モン＝サン＝ミシェル "wikilink")と[エッフェル塔](../Page/エッフェル塔.md "wikilink")で撮影された。また、[リドでも撮影が行われ](https://ja.wikipedia.org/wiki/リド_\(キャバレー\) "wikilink")、『Ala Vaikunthapurramuloo』は同地で撮影された最初の[南インド映画となった](https://ja.wikipedia.org/wiki/南インドの映画 "wikilink")\[15\]。悪役には[タミル語映画](https://ja.wikipedia.org/wiki/タミル語映画 "wikilink")の監督・俳優のが起用された\[16\]。
 
 ### サウンドトラック
 
@@ -77,7 +77,7 @@
 ## 外部リンク
 
   -
-[Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:インドのアクション映画](https://ja.wikipedia.org/wiki/Category:インドのアクション映画 "wikilink") [Category:インドのドラマ映画](https://ja.wikipedia.org/wiki/Category:インドのドラマ映画 "wikilink") [Category:マサラ映画](https://ja.wikipedia.org/wiki/Category:マサラ映画 "wikilink") [Category:テルグ語で製作された映画作品](https://ja.wikipedia.org/wiki/Category:テルグ語で製作された映画作品 "wikilink") [Category:家族を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:家族を題材とした映画作品 "wikilink") [Category:グジャラート州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:グジャラート州を舞台とした映画作品 "wikilink") [Category:パリを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:パリを舞台とした映画作品 "wikilink") [Category:ラモジ・フィルムシティで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ラモジ・フィルムシティで製作された映画作品 "wikilink") [Category:ハイデラバードで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ハイデラバードで製作された映画作品 "wikilink") [Category:グジャラート州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:グジャラート州で製作された映画作品 "wikilink")
+[Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:インドのアクション映画](https://ja.wikipedia.org/wiki/Category:インドのアクション映画 "wikilink") [Category:インドのドラマ映画](https://ja.wikipedia.org/wiki/Category:インドのドラマ映画 "wikilink") [Category:マサラ映画](https://ja.wikipedia.org/wiki/Category:マサラ映画 "wikilink") [Category:テルグ語で製作された映画作品](https://ja.wikipedia.org/wiki/Category:テルグ語で製作された映画作品 "wikilink") [Category:家族を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:家族を題材とした映画作品 "wikilink") [Category:グジャラート州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:グジャラート州を舞台とした映画作品 "wikilink") [Category:パリを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:パリを舞台とした映画作品 "wikilink") [Category:ラモジ・フィルムシティで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ラモジ・フィルムシティで製作された映画作品 "wikilink") [Category:ハイデラバードで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ハイデラバードで製作された映画作品 "wikilink") [Category:グジャラート州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:グジャラート州で製作された映画作品 "wikilink") [Category:パリで製作された映画作品](https://ja.wikipedia.org/wiki/Category:パリで製作された映画作品 "wikilink")
 
 1.
 2.

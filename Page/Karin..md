@@ -1,19 +1,17 @@
 > この記事は[Karin.](https://ja.wikipedia.org/wiki/Karin.)から翻訳されています。
 
 
-**Karin.**（カリン、[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")所属。
+**Karin.**（カリン、[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[茨城県](../Page/茨城県.md "wikilink")出身。所属芸能事務所は[フェイスミュージックエンタテインメント](../Page/フェイスミュージックエンタテインメント.md "wikilink")で、所属レコード会社は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")。
 
 ## 概要
 
-6歳からピアノを始め、小学校では吹奏楽部に所属し、小学生から中学生までバレーボールをやっていた。中学2年生頃、落ち込んでしまった時に美術の先生の弾き語りを見てギターに憧れを抱くようになった。
+6歳から[ピアノ](../Page/ピアノ.md "wikilink")を始め、小学校では吹奏楽部に所属し、小学生から中学生まで[バレーボール](../Page/バレーボール.md "wikilink")をやっていた。中学2年生の頃、落ち込んでしまった時に美術の先生の弾き語りを見て、[ギター](../Page/ギター.md "wikilink")に憧れを抱くようになった。
 
-高校進学後、本格的に音楽活動を開始し、高校1年生の終わりの頃に地元の高校生と[コピーバンド](https://ja.wikipedia.org/wiki/コピーバンド "wikilink")としてスタジオ入りしたが、仲間と価値観が合わなくその時に1人でやろうと思った\[1\] 。
+高校進学後、本格的に音楽活動を開始し、高校1年生の終わり頃に地元の高校生と[コピーバンド](https://ja.wikipedia.org/wiki/コピーバンド "wikilink")を組んでスタジオ入りしたが、Karin.自身 1人でもやっていけると思い、その時にソロで音楽活動をやっていこうと思った\[1\] \[2\] 。 [2019年](../Page/2019年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に1stアルバム『アイデンティティクライシス』を発売しデビュー\[3\]\[4\]。
 
-[2019年](../Page/2019年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に1stアルバム『アイデンティティクライシス』を発売しデビュー\[2\]\[3\]。
+[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に2ndアルバム『メランコリックモラトリアム』を発売し\[5\] 、 [2020年](../Page/2020年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")にミニアルバム『君が生きる街』を発売した\[6\]\[7\]。
 
-[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に2ndアルバム『メランコリックモラトリアム』を発売し\[4\] 、 [2020年](../Page/2020年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")にミニアルバム『君が生きる街』を発売予定\[5\]\[6\]。
-
-[2021年](../Page/2021年.md "wikilink")3･4月に初のワンマンツアー『最終章お前は泣く』を開催予定\[7\]。
+[2021年](../Page/2021年.md "wikilink")3･4月に初のワンマンツアー『最終章お前は泣く』を開催予定\[8\]。 [2020年](../Page/2020年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")にフジテレビ系「Love music」にてテレビ初出演\[9\]
 
 ## ディスコグラフィ
 
@@ -112,6 +110,23 @@
 <li>青春脱衣所 -弾き語り-</li>
 </ol></td>
 </tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2020年8月21日</p></td>
+<td><p><strong>知らない言葉を愛せない</strong></p></td>
+<td><p>デジタル・ダウンロード</p></td>
+<td><div class="NavFrame collapsed" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>知らない言葉を愛せない</li>
+<li>泣き空</li>
+<li>人生上手に生きられない</li>
+<li>世界線</li>
+</ol></td>
+</tr>
 </tbody>
 </table>
 
@@ -135,7 +150,7 @@
   -
   -
   -
-[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:茨城県出身の人物](https://ja.wikipedia.org/wiki/Category:茨城県出身の人物 "wikilink") [Category:2001年生](https://ja.wikipedia.org/wiki/Category:2001年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:茨城県出身の人物](https://ja.wikipedia.org/wiki/Category:茨城県出身の人物 "wikilink") [Category:2001年生](https://ja.wikipedia.org/wiki/Category:2001年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.
@@ -144,3 +159,5 @@
 5.
 6.
 7.
+8.
+9.

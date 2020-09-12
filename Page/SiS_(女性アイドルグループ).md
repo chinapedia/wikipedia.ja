@@ -99,7 +99,7 @@ GANG PARADEでは<strong><a href="https://ja.wikipedia.org/wiki/ユイ・ガ・�
 ### Twitter
 
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:WACK](https://ja.wikipedia.org/wiki/Category:WACK "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:WACK](https://ja.wikipedia.org/wiki/Category:WACK "wikilink")
 
 1.
 2.

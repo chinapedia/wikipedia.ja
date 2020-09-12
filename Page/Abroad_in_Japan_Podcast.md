@@ -5,7 +5,7 @@
 
 ## 番組の概要
 
-**Abroad in Japan Podcast**は、2018年2月15日に配信開始されたロンドンに拠点を置くラジオ局Stakhanov制作によるポッドキャスト番組で\[2\]、YouTubeチャンネル『Abroad in Japan』の管理者クリス・ブロードと、英国国立ラジオ局Absolute RadioのDJであるピート・ドナルドソンがパーソナリティを担当している。『Abroad In Japan』では放送しきれない都市と地方観光[穴場](https://ja.wikipedia.org/wiki/穴場 "wikilink")スポット・夜の[歓楽街](../Page/歓楽街.md "wikilink")情報・日本の時事や国家イベント・風変わりな事象からクリスとピートの日本での赤裸々な体験談まで日本に関する情報が網羅されている。放送の形態は、冒頭で2人のフリートーク、中盤にニューストピック、後半に[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")（EメールをFAXに転送）による視聴者からのお便り紹介という流れになっている。
+**Abroad in Japan Podcast**は、2018年2月15日に配信開始されたロンドンに拠点を置くラジオ局Stakhanov制作によるポッドキャスト番組で\[2\]、YouTubeチャンネル『Abroad in Japan』の管理者クリス・ブロードと、英国国立ラジオ局Absolute RadioのDJであるピート・ドナルドソンがパーソナリティを担当している。『Abroad In Japan』では放送しきれない都市と地方観光[穴場](https://ja.wikipedia.org/wiki/穴場 "wikilink")スポット・夜の[歓楽街](../Page/歓楽街.md "wikilink")情報・日本の時事や国家イベント・風変わりな事象からクリスとピートの日本での赤裸々な体験談まで日本に関する情報が網羅されている。放送の形態は、冒頭で2人のフリートーク、中盤にニューストピック、後半に[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")（EメールをFAXに転送）による視聴者からのお便り紹介という流れになっている。放送日に関しては、2020年7月9日までは毎週木曜日（日本時間）の週1回配信であったが、以降は毎週月・木曜日の週2回配信に変更されている。
 
 番組のダウンロード数に関しては、[Appleと](../Page/アップル.md "wikilink")[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")のポッドキャスト解析サービスを提供しているChartableによれば、2019年11月24日時点のAppleポッドキャストチャートPlaces & Travel部門において、日本：5位、イギリス：5位、オーストラリア：5位、カナダ：19位、スイス：22位、アメリカ：33位、フランス：35位、ドイツ：38位、またSpotifyのLifestyle & Health部門では、日本：24位、イギリス：48位を記録しており\[3\]、同サイト内の一般視聴者のレビューでは、2,785件中4.9/5星の評価となっている\[4\]。また米国のポッドキャスト配信企業himalayaでは、20番組の「Best Japan Podcasts」のひとつに選出されている\[5\]。2019年10月30日にYouTuberシャーラと共にインタビューを受けた『the japan times』のサイト内やReddit内にの特設ページにおける当番組の紹介など\[6\]\[7\]、YouTubeのプラットフォームを超えて注目が高まっている。
 

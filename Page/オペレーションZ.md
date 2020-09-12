@@ -55,17 +55,19 @@
 
 :\* 友坂慶太 - [長谷川朝晴](https://ja.wikipedia.org/wiki/長谷川朝晴 "wikilink")
 
+:\*和田良二 - [隈部洋平](https://ja.wikipedia.org/wiki/隈部洋平 "wikilink")
+
 :\* 丸山英之 - [遠山俊也](../Page/遠山俊也.md "wikilink")
 
 :\* 橋上正吾 - [手塚とおる](../Page/手塚とおる.md "wikilink")
-
-:\* 綾部望美 - [名取裕子](../Page/名取裕子.md "wikilink")（特別出演）
 
 :\* 桃地実 - [堀内正美](../Page/堀内正美.md "wikilink")
 
 :\* 大熊嘉一 - [岩松了](../Page/岩松了.md "wikilink")
 
 :\* 梶野幸三 - [きたろう](../Page/きたろう.md "wikilink")
+
+:\* 綾部望美 - [名取裕子](../Page/名取裕子.md "wikilink")（特別出演）
 
   -
 
@@ -83,13 +85,15 @@
 
 :\* 石田（学生）- [石内呂依](https://ja.wikipedia.org/wiki/石内呂依 "wikilink")（第1話）
 
+:\*村野正（新総理大臣） - [中野剛](https://ja.wikipedia.org/wiki/中野剛 "wikilink")（最終話）
+
 ### スタッフ
 
   - 原作 - [真山仁](../Page/真山仁.md "wikilink") 『オペレーションZ』（[新潮社](../Page/新潮社.md "wikilink")刊）
   - 脚本 - [櫻井武晴](https://ja.wikipedia.org/wiki/櫻井武晴 "wikilink")
   - 監督 - [村上正典](../Page/村上正典.md "wikilink")、[都築淳一](../Page/都築淳一.md "wikilink")
   - プロデューサー - 髙丸雅隆、加納隆治
-  - プロデュース - 羽鳥健一
+  - プロデュース - [羽鳥健一](https://ja.wikipedia.org/wiki/羽鳥健一 "wikilink")
   - 音楽 - [やまだ豊](https://ja.wikipedia.org/wiki/やまだ豊 "wikilink")
   - 制作協力 - [共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - 製作著作 - [WOWOW](../Page/WOWOW.md "wikilink")

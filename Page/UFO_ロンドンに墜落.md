@@ -17,7 +17,7 @@
 
 ## 放送
 
-イギリスでの「UFO ロンドンに墜落」の当夜の視聴者数は700万人を記録し、視聴率は34%であった\[10\]。最終的な視聴人口は763万人に達した\[11\]。日本では2006年9月27日に[NHK BS2で初めて放送され](../Page/NHK衛星第2テレビジョン.md "wikilink")、地上波では2007年9月11日に放送された\[12\]。[2011年](../Page/2011年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")には [LaLa TV](../Page/LaLa_TV.md "wikilink") で放送された\[13\]。
+イギリスでの「UFO ロンドンに墜落」の当夜の視聴者数は700万人を記録し、番組視聴占拠率は34%であった\[10\]。最終的な視聴人口は763万人に達した\[11\]。日本では2006年9月27日に[NHK BS2で初めて放送され](../Page/NHK衛星第2テレビジョン.md "wikilink")、地上波では2007年9月11日に放送された\[12\]。[2011年](../Page/2011年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")には [LaLa TV](../Page/LaLa_TV.md "wikilink") で放送された\[13\]。
 
 邦題はスペースの入った「UFO ロンドンに墜落」とスペースの入らない「UFOロンドンに墜落」の2つがあり、本項ではスペースのあるNHKの表記に従う。NHK以外の媒体では[バップ](../Page/バップ.md "wikilink")\[14\]、[GYAO\!](../Page/GYAO!.md "wikilink")\[15\]、[ShowTime](../Page/Rakuten_TV.md "wikilink")\[16\]、[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")\[17\]などがスペースを入れて表記している。一方で[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")はスペースのない表記を採用している\[18\]。
 

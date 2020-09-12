@@ -1,7 +1,7 @@
 > この記事は[スパイ in デンジャー](https://ja.wikipedia.org/wiki/スパイ_in_デンジャー)から翻訳されています。
 
 
-『**スパイ in デンジャー**』（原題: *Spies in Disguise*）は[2019年](../Page/2019年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。監督は[トロイ・クアン](https://ja.wikipedia.org/wiki/トロイ・クアン "wikilink")と[ニック・ブルーノ](https://ja.wikipedia.org/wiki/ニック・ブルーノ "wikilink")が務めた（両者は本作が映画監督デビュー作となる）。本作は[2009年](../Page/2009年.md "wikilink")に発表された短編アニメーション映画『*Pigeon: Impossible*』を長編映画化した作品である。
+『**スパイ in デンジャー**』（スパイ イン デンジャー、原題: *Spies in Disguise*）は[2019年](../Page/2019年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。監督は[トロイ・クアン](https://ja.wikipedia.org/wiki/トロイ・クアン "wikilink")と[ニック・ブルーノ](https://ja.wikipedia.org/wiki/ニック・ブルーノ "wikilink")が務めた（両者は本作が映画監督デビュー作となる）。本作は[2009年](../Page/2009年.md "wikilink")に発表された短編アニメーション映画『*Pigeon: Impossible*』を長編映画化した作品である。
 
 ## ストーリー
 
@@ -15,42 +15,46 @@
 
 ## キャスト
 
-| 役名         | **原語版声優**                                                             | **日本語吹替**                                           |
-| ---------- | --------------------------------------------------------------------- | --------------------------------------------------- |
-| ランス・スターリング | [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")                              | [鶴岡聡](../Page/鶴岡聡.md "wikilink")                    |
-| ウォルター・ベケット | [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")    | [田谷隼](https://ja.wikipedia.org/wiki/田谷隼 "wikilink") |
-| マーシー・カペル   | [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")       |                                                     |
-| キリアン       | [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")     |                                                     |
-| ジョイ・ジェンキンス | [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")   |                                                     |
-| ウェンディ・ベケット | [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") |                                                     |
-| アイズ        | [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")           |                                                     |
-| イアーズ       | [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")             |                                                     |
-| カツ・キムラ     | [マシ・オカ](../Page/マシ・オカ.md "wikilink")                                  |                                                     |
-| ジェラルディン    | [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")         |                                                     |
+※括弧内は日本語吹替\[1\]
+
+  - ランス・スターリング - [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")（[鶴岡聡](../Page/鶴岡聡.md "wikilink")）
+  - ウォルター・ベケット - [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")（[田谷隼](https://ja.wikipedia.org/wiki/田谷隼 "wikilink")）
+  - マーシー・カペル - [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")（[佐古真弓](../Page/佐古真弓.md "wikilink")）
+  - キリアン - [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")（[内田直哉](../Page/内田直哉.md "wikilink")）
+  - ジョイ・ジェンキンス - [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")
+  - ウェンディ・ベケット - [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink")
+  - アイズ - [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")（[下山田綾華](https://ja.wikipedia.org/wiki/下山田綾華 "wikilink")）
+  - イアーズ - [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")
+  - カツ・キムラ - [マシ・オカ](../Page/マシ・オカ.md "wikilink")（[石上裕一](../Page/石上裕一.md "wikilink")）
+  - ジェラルディン - [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")
 
 ## 製作
 
-[2017年](../Page/2017年.md "wikilink")10月9日、ウィル・スミスとトム・ホランドが本作に起用されたと報じられた\[1\]。[2018年](../Page/2018年.md "wikilink")6月、セオドア・シャピロが本作で使用される楽曲を手掛けることになった\[2\]。10月29日、ベン・メンデルソーン、カレン・ギラン、ラシダ・ジョーンズ、DJキャレド、マシ・オカの出演が決まったとの報道があった\[3\]。2019年7月23日、レイチェル・ブロズナハンとリーバ・マッキンタイアがキャスト入りした\[4\]。12月13日、[RCAレコード](../Page/RCAレコード.md "wikilink")が本作の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を発売した\[5\]。
+[2017年](../Page/2017年.md "wikilink")10月9日、ウィル・スミスとトム・ホランドが本作に起用されたと報じられた\[2\]。[2018年](../Page/2018年.md "wikilink")6月、セオドア・シャピロが本作で使用される楽曲を手掛けることになった\[3\]。10月29日、ベン・メンデルソーン、カレン・ギラン、ラシダ・ジョーンズ、DJキャレド、マシ・オカの出演が決まったとの報道があった\[4\]。2019年7月23日、レイチェル・ブロズナハンとリーバ・マッキンタイアがキャスト入りした\[5\]。12月13日、[RCAレコード](../Page/RCAレコード.md "wikilink")が本作の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を発売した\[6\]。
 
 ## 公開・マーケティング
 
-当初、本作は2019年1月18日に全米公開される予定だったが\[6\]、後に公開日は同年4月19日→9月13日→12月25日と延期されることになった\[7\]\[8\]。
+当初、本作は2019年1月18日に全米公開される予定だったが\[7\]、後に公開日は同年4月19日→9月13日→12月25日と延期されることになった\[8\]\[9\]。
 
-2018年11月1日、本作のオフィシャル・トレイラーが公開された\[9\]。2019年7月1日、本作のオフィシャル・トレイラー第2弾が公開された\[10\]。12月4日、本作は[ハリウッド](../Page/ハリウッド.md "wikilink")にある[エル・カピタン・シアター](https://ja.wikipedia.org/wiki/エル・カピタン・シアター "wikilink")でプレミア上映された\[11\]。
+2018年11月1日、本作のオフィシャル・トレイラーが公開された\[10\]。2019年7月1日、本作のオフィシャル・トレイラー第2弾が公開された\[11\]。12月4日、本作は[ハリウッド](../Page/ハリウッド.md "wikilink")にある[エル・カピタン・シアター](https://ja.wikipedia.org/wiki/エル・カピタン・シアター "wikilink")でプレミア上映された\[12\]。
 
-なお、本作は[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")がスタジオ名を[20世紀スタジオ](../Page/20世紀スタジオ.md "wikilink")に変更する前に、20世紀フォックスの名前で公開された最後のフォックスアニメーション映画である\[12\]。
+なお、本作は[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")がスタジオ名を[20世紀スタジオ](../Page/20世紀スタジオ.md "wikilink")に変更する前に、20世紀フォックスの名前で公開された最後のフォックスアニメーション映画である\[13\]。
 
-日本では、[ウォルト・ディズニー・ジャパン](../Page/ウォルト・ディズニー・ジャパン.md "wikilink")の配給で5月22日に劇場公開予定だったが\[13\]、5月1日に[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")の影響で本作の劇場公開中止が発表された。なお本作は、年内にディズニー公式動画配信サービスでの配信が発表されている\[14\]。
+### 日本
+
+日本では、[ウォルト・ディズニー・ジャパン](../Page/ウォルト・ディズニー・ジャパン.md "wikilink")の配給で5月22日に劇場公開予定だったが\[14\]、5月1日に[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")の影響で本作の劇場公開中止が発表された\[15\]。その後、2020年7月10日にディズニーの[定額制動画配信サービス](../Page/定額制動画配信サービス.md "wikilink")「[Disney+](https://ja.wikipedia.org/wiki/Disney+ "wikilink")」にて配信を行うことを同年6月24日に発表した\[16\]。この様な事情から、日本での配給は、ウォルト・ディズニー・ジャパンではなくDisney+が担当している。
+
+なお、ディズニーの傘下に入る以前の20世紀フォックスのアニメ映画は、2010年代に入ると日本支部がアニメ映画の劇場公開に消極的となった影響で、[『アイス・エイジ』シリーズや](https://ja.wikipedia.org/wiki/アイス・エイジシリーズ "wikilink")[ドリームワークス・アニメーション](../Page/ドリームワークス・アニメーション.md "wikilink")作品を含めた多くの作品が劇場未公開（[ビデオスルー](https://ja.wikipedia.org/wiki/ビデオスルー "wikilink")）となる事態が続いていたが、本作が劇場公開されていた場合、『[I LOVE スヌーピー THE PEANUTS MOVIE](https://ja.wikipedia.org/wiki/I_LOVE_スヌーピー_THE_PEANUTS_MOVIE "wikilink")』以来、約5年ぶりにフォックス製作のアニメ映画が日本で劇場公開される予定となっていた。また、2020年8月6日に、20世紀スタジオ・インターナショナルの公式サイトを閉鎖したため、日本における20世紀フォックスのアニメ映画として、20世紀スタジオ・インターナショナルが担当するのは、本作が最後となる。
 
 ## 興行収入
 
-本作は『[ストーリー・オブ・マイライフ/わたしの若草物語](https://ja.wikipedia.org/wiki/ストーリー・オブ・マイライフ/わたしの若草物語 "wikilink")』と同じ週に封切られ、公開初週末に1100万ドル前後を稼ぎ出すと予想されていたが\[15\]、実際の数字はそれを若干上回るものとなった。2019年12月25日、本作は全米3502館で公開され、公開初週末に1335万ドルを稼ぎ出し、週末興行収入ランキング初登場5位となった\[16\]。
+本作は『[ストーリー・オブ・マイライフ/わたしの若草物語](https://ja.wikipedia.org/wiki/ストーリー・オブ・マイライフ/わたしの若草物語 "wikilink")』と同じ週に封切られ、公開初週末に1100万ドル前後を稼ぎ出すと予想されていたが\[17\]、実際の数字はそれを若干上回るものとなった。2019年12月25日、本作は全米3502館で公開され、公開初週末に1335万ドルを稼ぎ出し、週末興行収入ランキング初登場5位となった\[18\]。
 
 ## 評価
 
-本作は批評家から好意的に評価されている。映画批評集積サイトの[Rotten Tomatoesには](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")117件のレビューがあり、批評家支持率は75%、平均点は10点満点で6.48点となっている。サイト側による批評家の見解の要約は「キャスト陣の好演のお陰で、誰でも楽しめる冒険アニメに仕上がっている。『スパイ in デンジャー』はファミリー層向けの面白い作品であり、ストーリーの進むペースが速いのも満足するに足る。」となっている\[17\]。また、[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")には22件のレビューがあり、加重平均値は54/100となっている\[18\]。なお、本作の[シネマスコア](https://ja.wikipedia.org/wiki/シネマスコア "wikilink")はA-となっている\[19\]。
+本作は批評家から好意的に評価されている。映画批評集積サイトの[Rotten Tomatoesには](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")118件のレビューがあり、批評家支持率は75%、平均点は10点満点で6.5点となっている。サイト側による批評家の見解の要約は「キャスト陣の好演のお陰で、誰でも楽しめる冒険アニメに仕上がっている。『スパイ in デンジャー』はファミリー層向けの面白い作品であり、ストーリーの進むペースが速いのも満足するに足る。」となっている\[19\]。また、[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")には22件のレビューがあり、加重平均値は54/100となっている\[20\]。なお、本作の[シネマスコア](https://ja.wikipedia.org/wiki/シネマスコア "wikilink")はA-となっている\[21\]。
 
-## 出典
+## 脚注
 
 ## 外部リンク
 
@@ -58,7 +62,9 @@
   -
   -
   -
-[Category:2019年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2019年のアニメ映画 "wikilink") [Category:2020年のWebアニメ](https://ja.wikipedia.org/wiki/Category:2020年のWebアニメ "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アメリカ合衆国の冒険映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の冒険映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国のスパイ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスパイ映画 "wikilink") [Category:コンピュータアニメーション映画](https://ja.wikipedia.org/wiki/Category:コンピュータアニメーション映画 "wikilink") [Category:短編映画が原作の長編映画](https://ja.wikipedia.org/wiki/Category:短編映画が原作の長編映画 "wikilink") [Category:テロリズムを題材にした映画作品](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした映画作品 "wikilink") [Category:日本を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:日本を舞台とした映画作品 "wikilink") [Category:ヴェネツィアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ヴェネツィアを舞台とした映画作品 "wikilink") [Category:メキシコを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:メキシコを舞台とした映画作品 "wikilink") [Category:ワシントンD.C.を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.を舞台とした映画作品 "wikilink") [Category:セオドア・シャピロの作曲映画](https://ja.wikipedia.org/wiki/Category:セオドア・シャピロの作曲映画 "wikilink") [Category:20世紀フォックスのアニメ映画](https://ja.wikipedia.org/wiki/Category:20世紀フォックスのアニメ映画 "wikilink") [Category:ブルースカイ・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ブルースカイ・スタジオの映画作品 "wikilink")
+  -
+  -
+[Category:2019年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2019年のアニメ映画 "wikilink") [Category:2020年のWebアニメ](https://ja.wikipedia.org/wiki/Category:2020年のWebアニメ "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アメリカ合衆国の冒険映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の冒険映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国のスパイ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスパイ映画 "wikilink") [Category:コンピュータアニメーション映画](https://ja.wikipedia.org/wiki/Category:コンピュータアニメーション映画 "wikilink") [Category:短編映画が原作の長編映画](https://ja.wikipedia.org/wiki/Category:短編映画が原作の長編映画 "wikilink") [Category:テロリズムを題材にした映画作品](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした映画作品 "wikilink") [Category:日本を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:日本を舞台とした映画作品 "wikilink") [Category:ヴェネツィアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ヴェネツィアを舞台とした映画作品 "wikilink") [Category:メキシコを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:メキシコを舞台とした映画作品 "wikilink") [Category:ワシントンD.C.を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.を舞台とした映画作品 "wikilink") [Category:セオドア・シャピロの作曲映画](https://ja.wikipedia.org/wiki/Category:セオドア・シャピロの作曲映画 "wikilink") [Category:20世紀フォックスのアニメ映画](https://ja.wikipedia.org/wiki/Category:20世紀フォックスのアニメ映画 "wikilink") [Category:ブルースカイ・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ブルースカイ・スタジオの映画作品 "wikilink") [Category:Disney+の作品](https://ja.wikipedia.org/wiki/Category:Disney+の作品 "wikilink") [Category:リメイクアニメ映画](https://ja.wikipedia.org/wiki/Category:リメイクアニメ映画 "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink")
 
 1.
 2.
@@ -79,3 +85,5 @@
 17.
 18.
 19.
+20.
+21.

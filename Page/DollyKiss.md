@@ -323,10 +323,9 @@
 
 ## 外部リンク
 
-  - [オフィシャルサイト](https://dollykiss.net/) - 公式サイト
-
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")
+  -
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")
 
 1.
 2.

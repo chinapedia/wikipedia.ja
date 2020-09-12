@@ -34,7 +34,7 @@ Luminaは、様々な[BSD](../Page/BSD.md "wikilink")[OS](../Page/OS.md "wikilin
       - [Debian](../Page/Debian.md "wikilink")
       - [Fedora](../Page/Fedora.md "wikilink")\[2\]
       - [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")
-      - [Manjaro Linux](https://ja.wikipedia.org/wiki/Manjaro_Linux "wikilink")
+      - [Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink")
       - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink")
 
 ## 脚注
@@ -52,8 +52,7 @@ Luminaは、様々な[BSD](../Page/BSD.md "wikilink")[OS](../Page/OS.md "wikilin
   -
 ## 外部リンク
 
-  - [Lumina Desktop Environment](https://lumina-desktop.org/)
-
+  -
 [Category:デスクトップ環境](https://ja.wikipedia.org/wiki/Category:デスクトップ環境 "wikilink")
 
 1.

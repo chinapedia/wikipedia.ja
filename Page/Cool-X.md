@@ -323,4 +323,4 @@
   -
   -
   -
-[Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
+[Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:日本のダンス・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のダンス・ミュージシャン "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")

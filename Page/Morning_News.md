@@ -36,27 +36,27 @@
   - 途中、速報ニュースがあった場合は、『**BREAKING NEWS**』ですぐに放送する。
   - 番組の流れは他番組と変わらない。
   - 平日・祝日のCS放送では、11:30-[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")が入り、地上波[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")と同じ映像が入るが、インターネット配信版はCS放送とは異なり、関東地上波日本テレビが飛び降りた後の11時45分以降の部分のみ、CS放送と同時に[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")の配信を行っている。このため、事実上、インターネット版の当番組の終了時刻は11:45となる。
-  - スポーツ中継（プロ野球・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦やバスケ・[Bリーグなど](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")）の編成に伴い、CS放送のみ番組途中での飛び乗り（飛び降り）または休止となる場合がある。
+  - スポーツ中継（プロ野球・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の[キャンプ中継や](../Page/キャンプ_\(日本プロ野球\).md "wikilink")[ゴルフ](../Page/ゴルフ.md "wikilink")の前半ホールなど）の編成に伴い、CS放送のみ番組途中での飛び乗り（飛び降り）または休止となる場合がある\[1\]。
 
 ## 出演者
 
-  - ニュースキャスター(2020年4月)
+  - ニュースキャスター（2020年8月〜）
 
 <!-- end list -->
 
-  - [神谷文乃](https://ja.wikipedia.org/wiki/神谷文乃 "wikilink") (月曜・水曜担当)
-  - [土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink") (火曜・日曜担当)
-  - [若林理紗](https://ja.wikipedia.org/wiki/若林理紗 "wikilink") (木曜担当)
-  - [鈴木理香子](../Page/鈴木理香子.md "wikilink") (金曜担当)
+  - [加田晶子](https://ja.wikipedia.org/wiki/加田晶子 "wikilink") (月曜担当)
+  - [トーマス・サリー](https://ja.wikipedia.org/wiki/トーマスサリー "wikilink") (火曜担当)
+  - [土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink") (水曜担当)
+  - [山田幸美](../Page/山田幸美.md "wikilink") (木曜担当)
+  - [田中麻耶](https://ja.wikipedia.org/wiki/田中麻耶 "wikilink") (金曜担当)
   - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")アナウンサー (土曜担当)
+  - [榎本麗美](../Page/榎本麗美.md "wikilink") (日曜担当)
 
-※2020年5月以降、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")の影響でシフトに多少の変更がある。4月から日曜を担当していた[土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink")は火曜のみの担当となり、日曜日は[加田晶子](https://ja.wikipedia.org/wiki/加田晶子 "wikilink")が担当する。
-
-※平日担当のキャスターについては、前の番組の「[Wake-Up News](https://ja.wikipedia.org/wiki/Wake-Up_News "wikilink")」と「[Market News](https://ja.wikipedia.org/wiki/Market_News "wikilink")」も担当する。また、[the SOCIAL放送休止中は](https://ja.wikipedia.org/wiki/the_SOCIAL "wikilink")、代替番組[Lunch Updateも担当する](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")。
+※平日担当のキャスターについては、前の番組の「[Wake-Up News](https://ja.wikipedia.org/wiki/Wake-Up_News "wikilink")」と「[Market News](https://ja.wikipedia.org/wiki/Market_News "wikilink")」も担当する。
 
 ※土曜日担当の日本テレビアナウンサーは、その週によって異なるが、同じキャスターが[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsを担当することもある](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。(別のキャスターが[Lunch Update以降を担当することもある](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink"))
 
-※日曜日担当の[土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink")キャスターは[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsも担当する](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。
+※日曜日担当の[榎本麗美](../Page/榎本麗美.md "wikilink")キャスターは[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsも担当する](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。
 
   - 気象予報士
 
@@ -68,6 +68,10 @@
 
 ※代理出演：[中西希](https://ja.wikipedia.org/wiki/中西希 "wikilink")（[Oha\!4 NEWS LIVE気象予報士](../Page/Oha!4_NEWS_LIVE.md "wikilink")）
 
+## 脚注・出典
+
+<references />
+
 ## 関連項目
 
   - [日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")
@@ -78,3 +82,5 @@
   - [日テレNEWS24 公式サイト](http://www.news24.jp/news24/)
 
 [Category:日テレNEWS24](https://ja.wikipedia.org/wiki/Category:日テレNEWS24 "wikilink") [Category:日本テレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:日本テレビのニュース・報道番組 "wikilink")
+
+1.

@@ -1,7 +1,7 @@
 > この記事は[CAMEO](https://ja.wikipedia.org/wiki/CAMEO)から翻訳されています。
 
 
-「**CAMEO**」（カメオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性アイドルグループ・[=LOVE](https://ja.wikipedia.org/wiki/=LOVE "wikilink")の楽曲。作詞は[指原莉乃](https://ja.wikipedia.org/wiki/指原莉乃 "wikilink")、作曲は[田尻知之と](https://ja.wikipedia.org/wiki/note_native "wikilink")[本澤尚之が担当した](https://ja.wikipedia.org/wiki/Language_\(日本のバンド\) "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に=LOVEの7thシングルとして[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")（[SACRA MUSIC](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）から発売される\[1\]。楽曲のセンターポジションは[大谷映美里](https://ja.wikipedia.org/wiki/大谷映美里 "wikilink")と[齊藤なぎさ](../Page/齊藤なぎさ.md "wikilink")が務める\[2\]。
+「**CAMEO**」（カメオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性アイドルグループ・[=LOVE](https://ja.wikipedia.org/wiki/=LOVE "wikilink")の楽曲。作詞は[指原莉乃](https://ja.wikipedia.org/wiki/指原莉乃 "wikilink")、作曲は[田尻知之と](https://ja.wikipedia.org/wiki/note_native "wikilink")[本澤尚之が担当した](https://ja.wikipedia.org/wiki/Language_\(日本のバンド\) "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に=LOVEの7thシングルとして[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")（[SACRA MUSIC](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）から発売された\[1\]。楽曲のセンターポジションは[大谷映美里](https://ja.wikipedia.org/wiki/大谷映美里 "wikilink")と[齊藤なぎさ](../Page/齊藤なぎさ.md "wikilink")が務めた\[2\]。
 
 ## 概要
 
@@ -33,6 +33,15 @@
 
 ## 外部リンク
 
+  - ソニーミュージック
+      - [Type-A](https://www.sonymusic.co.jp/artist/equal-love/discography/VVCL-1650)
+      - [Type-B](https://www.sonymusic.co.jp/artist/equal-love/discography/VVCL-1652)
+      - [Type-C](https://www.sonymusic.co.jp/artist/equal-love/discography/VVCL-1654)
+      - [Type-D（通常盤）](https://www.sonymusic.co.jp/artist/equal-love/discography/VVCL-1656)
+
+<!-- end list -->
+
+  -
   -
   -
   -

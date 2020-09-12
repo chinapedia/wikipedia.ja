@@ -1,7 +1,7 @@
 > この記事は[Living](https://ja.wikipedia.org/wiki/Living)から翻訳されています。
 
 
-『**Living**』（リビング）は、「リモートドラマ」として[NHK総合で](../Page/NHK総合テレビジョン.md "wikilink")[2020年](../Page/2020年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")および[6月6日](../Page/6月6日.md "wikilink")の2夜にわたり土曜23時30分から翌0時に放送されている[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[新型コロナウイルス感染症の感染拡大防止のため](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[リモートワークで制作される](../Page/テレワーク.md "wikilink")、[坂元裕二](../Page/坂元裕二.md "wikilink")のオリジナル脚本により、奇才小説家が想像の中で紡ぎ出す奇想天外な秘密を抱えた4つの家族の物語を15分×4本の[オムニバス](../Page/オムニバス.md "wikilink")形式で描いた[ファンタジー](../Page/ファンタジー.md "wikilink")\[1\]\[2\]\[3\]。
+『**Living**』（リビング）は、「リモートドラマ」として[NHK総合で](../Page/NHK総合テレビジョン.md "wikilink")[2020年](../Page/2020年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")および[6月6日](../Page/6月6日.md "wikilink")の2夜にわたり土曜23時30分から翌0時に放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[新型コロナウイルス感染症の感染拡大防止のため](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[リモートワークで制作される](../Page/テレワーク.md "wikilink")、[坂元裕二](../Page/坂元裕二.md "wikilink")のオリジナル脚本により、奇才小説家が想像の中で紡ぎ出す奇想天外な秘密を抱えた4つの家族の物語を15分×4本の[オムニバス](../Page/オムニバス.md "wikilink")形式で描いた[ファンタジー](../Page/ファンタジー.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## 製作
 
@@ -19,9 +19,9 @@
     一緒に生活し周囲には平凡な生活を送っているように映る仲良し姉妹には、誰にも見せることのない「裏の顔」を持っていた。
   - 第2話「\#2 国境」
     近未来の日本で「過去にはやった料理」を作り生計を立てる兄弟へ、ある日1通の手紙が届く。
-  - 第3話
+  - 第3話「\#3 おでんとビール」
     妻を愛するがゆえ、妻から怒られ捨てられることを危惧する気弱な夫が、ある日特異な能力を手に入れる。
-  - 第4話
+  - 第4話「\#4 敬遠」
     出産後間もない妻に風邪をうつさぬよう、仕事を休んで自室に籠りボーッとテレビ眺めてを過ごす夫の目に、試合開催が自粛されているはずの野球中継が映る。
 
 ## 登場人物
@@ -65,31 +65,35 @@
       -
         演 - [永山絢斗](https://ja.wikipedia.org/wiki/永山絢斗 "wikilink")
 
-  - 第3話
+  - 第3話「\#3 おでんとビール」
 
-:; 役名未詳
+:; シゲ
 
 :: 演 - [中尾明慶](../Page/中尾明慶.md "wikilink")
 
-:; 役名未詳
+:; アキ
 
   -
 
       -
         演 - [仲里依紗](https://ja.wikipedia.org/wiki/仲里依紗 "wikilink")
 
-  - 第4話
+  - 第4話「\#4 敬遠」
 
-:; 役名未詳
+:; 東山
 
 :: 演 - [青木崇高](../Page/青木崇高.md "wikilink")
 
-:; 役名未詳
+:; 祥子
+
+:: 声 - [優香](../Page/優香.md "wikilink")
+
+:; 実況
 
   -
 
       -
-        声 - [優香](../Page/優香.md "wikilink")
+        声 - [栗田晴行](../Page/栗田晴行.md "wikilink")
 
 ## スタッフ
 
@@ -97,17 +101,18 @@
   - 音楽 - [岩崎太整](https://ja.wikipedia.org/wiki/岩崎太整 "wikilink")
   - キャラクターデザイン（ドングリ） - トンコハウス
   - 制作統括 - [訓覇圭](https://ja.wikipedia.org/wiki/訓覇圭 "wikilink")
-  - プロデューサー - [矢部誠人](https://ja.wikipedia.org/wiki/矢部誠人 "wikilink")（1話）、[大越大士](https://ja.wikipedia.org/wiki/大越大士 "wikilink")（2話）
+  - プロデューサー - [矢部誠人](https://ja.wikipedia.org/wiki/矢部誠人 "wikilink")（1、3話）、[大越大士](https://ja.wikipedia.org/wiki/大越大士 "wikilink")（2、4話）
   - 演出 - [加藤拓](https://ja.wikipedia.org/wiki/加藤拓 "wikilink")、[西村武五郎](https://ja.wikipedia.org/wiki/西村武五郎 "wikilink")
   - 制作・著作 - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
 
 ## 放送日程
 
-|     | 各話     | 放送日             | サブタイトル       | 演出  |
-| --- | ------ | --------------- | ------------ | --- |
-| 第1夜 | 第1話    | 5月30日           | \#1 ネアンデルタール | 加藤拓 |
-| 第2話 | \#2 国境 | 西村武五郎 \<\!-- |- | 第2夜          | 第3話 |
-| 第4話 |        | \--\>           |              |     |
+|     | 各話     | 放送日   | サブタイトル       | 演出  |
+| --- | ------ | ----- | ------------ | --- |
+| 第1夜 | 第1話    | 5月30日 | \#1 ネアンデルタール | 加藤拓 |
+| 第2話 | \#2 国境 | 西村武五郎 |              |     |
+| 第2夜 | 第3話    | 6月6日  | \#3 おでんとビール  | 加藤拓 |
+| 第4話 | \#4 敬遠 | 西村武五郎 |              |     |
 
 ## 脚注
 
@@ -124,7 +129,7 @@
 
   - [リモートドラマ Living](https://www.nhk.jp/p/ts/L155MXM7LN/) - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
 
-[Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:NHK総合テレビジョンのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのスペシャルドラマ "wikilink") [Category:NHKの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:NHKの深夜ドラマ "wikilink") [Category:オムニバスドラマ](https://ja.wikipedia.org/wiki/Category:オムニバスドラマ "wikilink") [Category:ファンタジードラマ](https://ja.wikipedia.org/wiki/Category:ファンタジードラマ "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink") [Category:小説家を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説家を主人公としたテレビドラマ "wikilink") [Category:坂元裕二脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:坂元裕二脚本のテレビドラマ "wikilink") [Category:日本における2019新型コロナウイルス感染症の流行](https://ja.wikipedia.org/wiki/Category:日本における2019新型コロナウイルス感染症の流行 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:NHK総合テレビジョンのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのスペシャルドラマ "wikilink") [Category:NHKの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:NHKの深夜ドラマ "wikilink") [Category:オムニバスドラマ](https://ja.wikipedia.org/wiki/Category:オムニバスドラマ "wikilink") [Category:ファンタジードラマ](https://ja.wikipedia.org/wiki/Category:ファンタジードラマ "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink") [Category:小説家を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説家を主人公としたテレビドラマ "wikilink") [Category:坂元裕二脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:坂元裕二脚本のテレビドラマ "wikilink") [Category:リモートドラマ](https://ja.wikipedia.org/wiki/Category:リモートドラマ "wikilink")
 
 1.
 2.

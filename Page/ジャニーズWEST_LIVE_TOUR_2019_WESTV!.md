@@ -65,4 +65,7 @@ Disc 2
 
 ## 外部リンク
 
+  - [Johnny's Entertainment Recordによる紹介ページ](https://www.jehp.jp/jwest_discography/article/2499)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=29&data=2232)
+
 [Category:ジャニーズWESTの映像作品](https://ja.wikipedia.org/wiki/Category:ジャニーズWESTの映像作品 "wikilink") [Category:2019年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2019年のライブ・ビデオ "wikilink")

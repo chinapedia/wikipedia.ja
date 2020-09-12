@@ -11,7 +11,7 @@
 
 <references />
 
-[Category:携帯電話の通信規格](https://ja.wikipedia.org/wiki/Category:携帯電話の通信規格 "wikilink") [Category:自己](https://ja.wikipedia.org/wiki/Category:自己 "wikilink")
+[Category:携帯電話の通信規格](https://ja.wikipedia.org/wiki/Category:携帯電話の通信規格 "wikilink")
 
 1.
 2.

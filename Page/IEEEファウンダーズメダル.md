@@ -1,7 +1,7 @@
 > この記事は[IEEEファウンダーズメダル](https://ja.wikipedia.org/wiki/IEEEファウンダーズメダル)から翻訳されています。
 
 
-**IEEEファウンダーズメダル**は、[電気工学](../Page/電気工学.md "wikilink")・[電子工学](../Page/電子工学.md "wikilink")の専門分野において非常に有意義な指導、計画、運営を実施し顕著な貢献をした人に贈られる賞である。個人または3名以内のチームに授与される。このメダルは、1952年に[無線学会](https://ja.wikipedia.org/wiki/無線学会 "wikilink")（IRE）によって制定された。1963年にIREが[アメリカ電気学会](../Page/アメリカ電気学会.md "wikilink")（AIEE）と合併してIEEEが発足した後も、このメダルは継続して授与されている。受賞者は、金メダル、ブロンズレプリカ、賞状、賞金が授与される\[1\]。
+**IEEEファウンダーズメダル**（IEEE Founders Medal）は、[電気工学](../Page/電気工学.md "wikilink")・[電子工学](../Page/電子工学.md "wikilink")の専門分野において非常に有意義な指導、計画、運営を実施し顕著な貢献をした人に贈られる賞である。個人または3名以内のチームに授与される。このメダルは、1952年に[無線学会](https://ja.wikipedia.org/wiki/無線学会 "wikilink")（IRE）によって制定された。1963年にIREが[アメリカ電気学会](../Page/アメリカ電気学会.md "wikilink")（AIEE）と合併してIEEEが発足した後も、このメダルは継続して授与されている。受賞者は、金メダル、ブロンズレプリカ、賞状、賞金が授与される\[1\]。
 
 この賞は [IEEE](../Page/IEEE.md "wikilink")が後援している。
 
@@ -31,7 +31,7 @@
   - 2009: Craig R. Barrett
   - 2008: Steven Sample
   - 2007: Anita K. Jones
-  - 2006: 青木利晴
+  - 2006: [青木利晴](https://ja.wikipedia.org/wiki/青木利晴 "wikilink")
   - 2005: Eugene Wong
   - 2004: Mildred Dresselhaus
   - 2003: Ray Stata

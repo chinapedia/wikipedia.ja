@@ -5,7 +5,7 @@
 
 ## 概要
 
-HTTPS Everywhereは、[暗号化された通信(HTTPS)に対応していることがわかっている](../Page/HTTPS.md "wikilink")[ウェブサイト](../Page/ウェブサイト.md "wikilink")の一覧をもとに\[2\]、その一覧に含まれるウェブサイトに[暗号化されていない通信(HTTP)で接続しようとした際これをHTTPSの接続に切り替えることで通信を暗号化し](../Page/Hypertext_Transfer_Protocol.md "wikilink")、利用者の[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")と[プライバシー](../Page/プライバシー.md "wikilink")を向上させる事を目的とするる[オープンソースの](../Page/オープンソースソフトウェア.md "wikilink")[ブラウザ拡張機能](https://ja.wikipedia.org/wiki/ブラウザ拡張機能 "wikilink")であり、誰でも無料でブラウザにインストールして使用することができる\[3\]\[4\]。
+HTTPS Everywhereは、[暗号化された通信(HTTPS)に対応していることがわかっている](../Page/HTTPS.md "wikilink")[ウェブサイト](../Page/ウェブサイト.md "wikilink")の一覧をもとに\[2\]、その一覧に含まれるウェブサイトに[暗号化されていない通信(HTTP)で接続しようとした際これをHTTPSの接続に切り替えることで通信を暗号化し](../Page/Hypertext_Transfer_Protocol.md "wikilink")、利用者の[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")と[プライバシー](../Page/プライバシー.md "wikilink")を向上させる事を目的とする[オープンソースの](../Page/オープンソースソフトウェア.md "wikilink")[ブラウザ拡張機能](https://ja.wikipedia.org/wiki/ブラウザ拡張機能 "wikilink")であり、誰でも無料でブラウザにインストールして使用できる\[3\]\[4\]。
 
 この拡張機能は日本語に対応している。また、[Braveおよび](https://ja.wikipedia.org/wiki/Brave_\(ウェブブラウザ\) "wikilink")[Tor Browserや](../Page/Tor.md "wikilink")[Tailsにはこの拡張機能が内蔵されている](https://ja.wikipedia.org/wiki/Tails_\(オペレーティングシステム\) "wikilink")。
 

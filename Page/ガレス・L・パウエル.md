@@ -7,9 +7,9 @@
 
 イングランド南西部で生まれ育ち、グラモーガン大学（現[サウス・ウェールズ大学](https://ja.wikipedia.org/wiki/サウス・ウェールズ大学 "wikilink")）で人文学とクリエイティブ・ライティングを学ぶ。
 
-2012年の長編『ガンメタル・ゴースト』で[英国SF協会賞](../Page/英国SF協会賞.md "wikilink")長編部門を受賞\[1\]（[アン・レッキー](https://ja.wikipedia.org/wiki/アン・レッキー "wikilink")『叛逆航路』と同時受賞）。同書は2016年の[星雲賞](../Page/星雲賞.md "wikilink")海外長編部門参考候補作にもなった\[2\]。
+2012年の長編『ガンメタル・ゴースト』*Ack-Ack Macaque*で[英国SF協会賞](../Page/英国SF協会賞.md "wikilink")長編部門を受賞\[1\]（[アン・レッキー](https://ja.wikipedia.org/wiki/アン・レッキー "wikilink")『叛逆航路』と同時受賞）。同書は2016年の[星雲賞](../Page/星雲賞.md "wikilink")海外長編部門参考候補作にもなった\[2\]。
 
-2018年の長編*Embers of War*で、自身二度目の英国SF協会賞長編部門を受賞\[3\]。
+2018年の長編『ウォーシップ・ガール』*Embers of War*で、自身二度目の英国SF協会賞長編部門を受賞\[3\]。
 
 ## 主な作品
 
@@ -22,6 +22,7 @@
   - *Hive Monkey* (Solaris Books, 2014)
   - *Macaque Attack* (Solaris Books, 2015)
   - *Embers of War* (Titan Books, 2018)
+      - 『ウォーシップ・ガール』三角和代訳、[創元SF文庫](../Page/創元SF文庫.md "wikilink")、2020年
   - *Fleet of Knives* (Titan Books, 2019)
   - *Light of Impossible Stars* (Titan Books, 2020)
 
@@ -29,7 +30,7 @@
 
   - *Ragged Alice* (Tor.com, 2019)
 
-### 短編賞
+### 短編集
 
   - *The Last Reef and Other Stories* (Elastic Press, 2008)
 

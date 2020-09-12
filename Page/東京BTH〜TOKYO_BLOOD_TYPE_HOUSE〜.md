@@ -112,7 +112,7 @@
 <tr class="odd">
 <td><p>010</p></td>
 <td><p>さらば友よ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/草なぎ剛" title="wikilink">草彅剛</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/草彅剛" title="wikilink">草彅剛</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

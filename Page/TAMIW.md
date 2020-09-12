@@ -21,8 +21,9 @@
 
 <!-- end list -->
 
-  - 小田切昭
-      - ドラム
+  - BON-SAN
+      - ドラム/ビートメイカー
+      - ムシケの音楽担当
 
 ## 来歴
 
@@ -35,6 +36,7 @@
   - 1月 1stデジタルシングル『future exercise』配信開始。\[6\]
   - 4月 2ndデジタルアルバム『future exercise』配信開始。\[7\]
   - 6月 1st LP『future exercise』リリース。
+  - 7月 初のセルフリミックスアルバム『REINTERPRETED WORKS VOL.1』リリース。\[8\]
 
 ## ディスコグラフィー　
 
@@ -103,9 +105,56 @@
 </ol>
 </div>
 </div></td>
-<td><p><a href="../Page/ヒップランドミュージック.md" title="wikilink">ヒップランドミュージック</a>の「FRIENDSHIP.」よりデジタルリリース[8]</p></td>
+<td><p><a href="../Page/ヒップランドミュージック.md" title="wikilink">ヒップランドミュージック</a>の「FRIENDSHIP.」よりデジタルリリース。[9] 2020年6月24日、LP盤としてもリリース（規格品番：5SQ-0012）</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### リミックスアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
+<td><p><strong>REINTERPRETED WORKS VOL.1</strong></p></td>
+<td></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>shapes of water [end of sorrow mix]</li>
+<li>Poor Boy [eat the Nachos mix]</li>
+<li>Immigrant Song [wild half mix]</li>
+<li>Happy Ending [true love mix]</li>
+<li>Immigrant Song [midnight bedroom mix]</li>
+<li>meditation on your flower [Dope Bossa mix]</li>
+</ol>
+</div>
+</div></td>
+<td><p><a href="../Page/ヒップランドミュージック.md" title="wikilink">ヒップランドミュージック</a>の「FRIENDSHIP.」よりデジタルリリース。[10]</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -152,4 +201,6 @@
 5.  [アルカラ「ネコフェス」第2弾で感エロ、マスドレ、LEGO、つしまみれ、UNCHAINら追加](https://natalie.mu/music/news/328913).[ナタリー (ニュースサイト)](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")
 6.  [TAMIW、“寺の隠れスタジオ”で制作した2ndアルバムリリース決定](https://www.barks.jp/news/?id=1000177624).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
 7.  [TAMIW、“futureの音を作る”2ndアルバムリリース＆生ライブ配信](https://www.barks.jp/news/?id=1000181604).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
-8.  [TAMIW、2ndアルバム『future exercise』をデジタルリリース、スタジオ生ライブ配信も決定](https://spice.eplus.jp/articles/268280).[SPICE (ニュースサイト)](https://ja.wikipedia.org/wiki/SPICE_\(ニュースサイト\) "wikilink")
+8.  [TAMIW、初のセルフリミックスアルバム『REINTERPRETED WORKS VOL.1』を7/31リリース](https://www.barks.jp/news/?id=1000186497).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
+9.  [TAMIW、2ndアルバム『future exercise』をデジタルリリース、スタジオ生ライブ配信も決定](https://spice.eplus.jp/articles/268280).[SPICE (ニュースサイト)](https://ja.wikipedia.org/wiki/SPICE_\(ニュースサイト\) "wikilink")
+10. [TAMIW、初セルフリミックスAL「REINTERPRETED WORKS VOL.1」7/31デジタルリリース！](https://sensa.jp/news/20200731-tamiw.html).[SENSA](https://ja.wikipedia.org/wiki/SENSA "wikilink")

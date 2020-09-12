@@ -1,7 +1,7 @@
 > この記事は[Deracine \(ゲーム\)](https://ja.wikipedia.org/wiki/Deracine_\(ゲーム\))から翻訳されています。
 
 
-『**Déraciné**』（デラシネ）は、 ソニー・インタラクティブエンタテインメント（SIE）より[2018年](../Page/2018年.md "wikilink")11月8日に発売されたPlayStation VR専用アドベンチャーゲーム。『[Bloodborne](https://ja.wikipedia.org/wiki/Bloodborne "wikilink")』と同じく、SIEジャパンスタジオとフロム・ソフトウェアにより共同開発された。“古典的アドベンチャーゲームを、最新のVR技術で描く”ことをコンセプトとしている。タイトルは「根無し草」の意味を持ち、ゲームに登場する妖精やストーリーのイメージに近いことから決定した。2020年2月14日には手ごろな価格で提供されるバリューセレクションシリーズの一つとして発売された。
+『**Déraciné**』（デラシネ）は、 ソニー・インタラクティブエンタテインメント（SIE）より[2018年](../Page/2018年.md "wikilink")11月8日に発売されたPlayStation VR専用アドベンチャーゲーム。『[Bloodborne](https://ja.wikipedia.org/wiki/Bloodborne "wikilink")』と同じく、SIEジャパンスタジオとフロム・ソフトウェアにより共同開発された。“古典的アドベンチャーゲームを、最新のVR技術で描く”ことをコンセプトとしている。タイトルは「根無し草」の意味を持ち、ゲームに登場する妖精やストーリーのイメージに近いことから決定した。本作は[週刊ファミ通](https://ja.wikipedia.org/wiki/週刊ファミ通 "wikilink")新作ゲームクロスレビューにてプラチナ殿堂入りした。2020年2月14日には手ごろな価格で提供されるバリューセレクションシリーズの一つとして発売された。
 
 ## システム
 
@@ -13,11 +13,13 @@
 
 ## 開発
 
-[Illustration_Salix_alba0.jpg](https://ja.wikipedia.org/wiki/File:Illustration_Salix_alba0.jpg "fig:Illustration_Salix_alba0.jpg") 本作はVRの実在感と実際には実在していないという感覚に衝撃を受けたディレクターの宮崎英高が、その感覚をゲームに落とし込めないかと考えたことが[E3](https://ja.wikipedia.org/wiki/E3 "wikilink") [2018](https://ja.wikipedia.org/wiki/2018 "wikilink")で発表された際のインタビューで述べられている。その後PS Awardの表彰式の後にプロデューサーとなる山際眞晃との会話で、SIEのVRタイトルを増やしたいという意向と合致したこともあって、プロジェクトが開始された。フロムソフトウェアとしてはVR技術に触れておきたい、アドベンチャーゲームのような今会社ができていない、種類や規模において多彩なゲームを作りたいという考えも述べられている。
+[Illustration_Salix_alba0.jpg](https://ja.wikipedia.org/wiki/File:Illustration_Salix_alba0.jpg "fig:Illustration_Salix_alba0.jpg") はじめて話が持ち上がったのは、『Bloodborne』の[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")リリースの打ち上げで、『Déraciné』は想定していたより制作時間が掛かったと述べられている\[1\]。本作はVRの実在感と実際には実在していないという感覚に衝撃を受けたディレクターの宮崎英高が、その感覚をゲームに落とし込めないかと考えたことが[E3](https://ja.wikipedia.org/wiki/E3 "wikilink") [2018](https://ja.wikipedia.org/wiki/2018 "wikilink")で発表された際のインタビューで述べられている。その後PS Awardの表彰式の後にプロデューサーとなる山際眞晃との会話で、SIEのVRタイトルを増やしたいという意向と合致したこともあって、プロジェクトが開始された。フロムソフトウェアとしてはVR技術に触れておきたい、アドベンチャーゲームのような今会社ができていない、種類や規模において多彩なゲームを作りたいという考えも述べられている。
+
+本作のコンセプトについて山際は“実在感”と“非実在感”とファミ通のインタビューで述べている\[2\]。作品の傾向として、山際はファミ通のインタビューにて『[Demon's Souls](https://ja.wikipedia.org/wiki/Demon's_Souls "wikilink")』や『Bloodborne』のフレーバーテキストを好むプレイヤーであれば楽しめるという考えを示している\[3\]。またジャンルアドベンチャーゲームとして新しいものではないものの、VRの要素が加わることによってプレイヤーの取る行動そのものの価値が変わるという考えを述べている\[4\]。
 
 ### 世界観
 
-SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wikilink")や[竹宮恵子](https://ja.wikipedia.org/wiki/竹宮恵子 "wikilink")の作品に見られる[ギムナジウム](../Page/ギムナジウム.md "wikilink")のような描写がされている。4gamer.netのレポートしたフロムソフトウェアの新作タイトル体験会である「FROMSOFTWARE GAMES EVENT Autumn 2018 in OSAKA」では、同社の製品で登場人物の多くが死ぬことからくる不安や、妖精という言葉を訝しむMCやSIEのプロデューサーの様子が記されている。舞台は西洋の寄宿学校だが、同社の同様に西洋を舞台とした製品と異なり、キャラクターに日本語音声が付いている\[1\]。これについてライターのクラベ・エスラはアドベンチャーゲームとアクションゲームの違いから、音声でキャラクターの台詞を聞き取れるようにしたと分析している\[2\]。作中で登場する妖精は[ティンカー・ベル](../Page/ティンカー・ベル.md "wikilink")のような妖精ではなく、むしろその用語がミスリードであるとIGNのライターたちは分析している\[3\]。
+SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wikilink")や[竹宮恵子](https://ja.wikipedia.org/wiki/竹宮恵子 "wikilink")の作品に見られる[ギムナジウム](../Page/ギムナジウム.md "wikilink")のような描写がされている。舞台は西洋の寄宿学校だが、フロム・ソフトウェアの制作した他の西洋を舞台とした製品と異なり、キャラクターに日本語音声が付いている\[5\]。これについてライターのクラベ・エスラはアドベンチャーゲームとアクションゲームの違いから、音声でキャラクターの台詞を聞き取れるようにしたと分析している\[6\]。作中で登場する妖精は[ティンカー・ベル](../Page/ティンカー・ベル.md "wikilink")のような妖精ではなく、むしろその用語がミスリードであるとIGNのライターたちは分析している\[7\]。
 
 ### シナリオ
 
@@ -27,7 +29,7 @@ SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wi
 
 ### キャラクターデザイン
 
-元々文学的な[少女漫画](../Page/少女漫画.md "wikilink")のファンだった宮崎の意向が示されており、モチーフが妖精と少年少女と定められたこともあって、かわいらしさを目指したとインタビューに記されている。ここについては開発チームのメンバーがそれぞれキャラクターに愛着を示し、シナリオのためにキャラクターの性格を変更するとブーイングが出るほどだったことが述べられている。ただし、あくまでシナリオがメインであるとして、2018年6月時点ではE3の反応次第でキャラクターの紹介を追加するかどうか考えると述べている。
+元々文学的な[少女漫画](../Page/少女漫画.md "wikilink")のファンだった宮崎の意向が示されており、モチーフが妖精と少年少女と定められたこともあって、かわいらしさを目指したとインタビューに記されている。ずっとキャラクターと一緒にいたいと思えるようなデザインを目指し、「[二次元](https://ja.wikipedia.org/wiki/2次元#架空における2次元という呼称 "wikilink")」的な存在にならないようにしたとインタビューで語られている\[8\]。ここについては開発チームのメンバーがそれぞれキャラクターに愛着を示し、シナリオのためにキャラクターの性格を変更するとブーイングが出るほどだったことが述べられている。ただし、あくまでシナリオがメインであるとして、2018年6月時点ではE3の反応次第でキャラクターの紹介を追加するかどうか考えると述べている。
 
 ### コントローラー
 
@@ -37,13 +39,19 @@ SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wi
 
 本作はUnreal Engine 4を使って開発された。またデータ圧縮のためにOodleデータ圧縮を採用した。 {{-}}
 
-## ストーリー
+## 物語
 
-[Lilium_Candidum_(Madonna_Lily).jpg](https://ja.wikipedia.org/wiki/File:Lilium_Candidum_\(Madonna_Lily\).jpg "fig:Lilium_Candidum_(Madonna_Lily).jpg")が咲いたことで妖精に気付く。\]\] プレイヤーは止まった時間の中でのみ活動できる妖精として、一人の少女に呼び出される。最初は女性の声に導かれながら、プレイヤーは人里離れた寄宿学校で過ごす、年老いた校長先生と6人の子どもたちの“お願い”に応えていく。子供たちとの交流を深めていたある時、彼らは行ってはいけないと言われていた寄宿学校の外に足を踏み入れる。悲劇を回避するために、妖精は命を操る力と時を巻き戻す力を行使する。 {{-}}
+### 章立て
+
+本作はセーブデータによると、以下の章立てとなっている。
+
+### あらすじ
+
+[Lilium_Candidum_(Madonna_Lily).jpg](https://ja.wikipedia.org/wiki/File:Lilium_Candidum_\(Madonna_Lily\).jpg "fig:Lilium_Candidum_(Madonna_Lily).jpg")が咲いたことで妖精に気付く。\]\] プレイヤーは止まった時間の中でのみ活動できる妖精として、一人の少女に呼び出される。最初は女性の声に導かれながら、プレイヤーは人里離れた寄宿学校で過ごす、年老いた校長先生と6人の子どもたちの“お願い”を叶えるべく行動する。子供たちとの交流を深めていたある時、彼らは行ってはいけないと言われていた寄宿学校の外に足を踏み入れる。そこで“妖精”が命を奪う存在であることをプレイヤーは知ることになる\[9\]。悲劇を回避するために、プレイヤーは妖精として命を操る力と時を巻き戻す力を行使する。試行錯誤の末にプレイヤーはゲームにおけるチュートリアルの時間まで巻き戻り、自身がユーリヤからもらった生命の指輪を返す、つまり自身が消滅することを選択する\[10\]。音楽会の終了後、ユーリヤはプレイヤーの存在に気付き、自分の生命を返してくれたことに礼を述べるのだった\[11\]。
 
 ## 音楽
 
-本作の楽曲は3人の作曲家によって作曲された。本作の楽曲のうち、トラック12は英語版でユーリヤを演じるZoe Thorneが\[4\]、トラック14は日本語版でユーリヤを演じる[のぐちゆり](https://ja.wikipedia.org/wiki/のぐちゆり "wikilink")が歌唱している。  {{-}}
+本作の楽曲は3人の作曲家によって作曲された。齋藤司、北村友香の二人は『Bloodborne』の楽曲制作に参加していたが、本作では新人の宮澤翔衣が制作に加わっている\[12\]。宮澤について『[アーマード・コアシリーズ](../Page/アーマード・コアシリーズ.md "wikilink")』の楽曲などを手掛ける星野康太は、フロム・ソフトウェア内の音楽ユニット「FreQuency」の活動内容のブログにて、宮澤がギターとマニュピレートを担当していると紹介している\[13\]。演奏には[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")、[クラリネット](../Page/クラリネット.md "wikilink")、[ヴィオラ](../Page/ヴィオラ.md "wikilink")、[チェロ](../Page/チェロ.md "wikilink")、[コントラバス](../Page/コントラバス.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")、[ファゴット](../Page/ファゴット.md "wikilink")が使われている。収録は[ビクタースタジオ](https://ja.wikipedia.org/wiki/ビクタースタジオ "wikilink")およびスタジオ トーンマイスターで行われた。本作の楽曲のうち、トラック12は英語版でユーリヤを演じるZoe Thorneが\[14\]、トラック14は日本語版でユーリヤを演じる[のぐちゆり](https://ja.wikipedia.org/wiki/のぐちゆり "wikilink")が歌唱している\[15\]。
 
 ## 販売
 
@@ -55,13 +63,17 @@ SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wi
 
 ## 評価
 
-ゲームの評価は賛否両論となっている。メタクリティックは28の海外の業界紙のレビューに基づいて、100点満点中69点と評価している\[5\]。業界紙のレビューでは刺激的な物語、初心者向けの難易度、特にPS4 Proにおける映像の完成度が強調されている\[6\]\[7\]。IGN Japan編集部で毎年実施されているライターごとの年内ゲームトップ10の発表において、エスラは本作を4位に\[8\]、福山幸司は2位に挙げた\[9\]。福山は本作についてVRで平易に遊べることに力を入れていることを指摘し、またVRによるストーリーテリングが今後発展するとの考えを述べている。[シナリオライター](https://ja.wikipedia.org/wiki/シナリオライター "wikilink")の[奈須きのこ](../Page/奈須きのこ.md "wikilink")は自身のブログにて本作について宮崎作品の魅力が詰まった、その時点におけるVRの限界がゲームの核に持ち込まれた作品と評している。
+発売前から意欲作と評されているものの、一方で過去にフロムソフトウェアが制作した作品の傾向から、登場人物のうち誰かが死んでしまうのではないかという不安もユーザー間でいわれていた\[16\]。4gamer.netのレポートしたフロムソフトウェアの新作タイトル体験会である「FROMSOFTWARE GAMES EVENT Autumn 2018 in OSAKA」では、同社の製品で登場人物の多くが死ぬことからくる不安や、妖精という言葉を訝しむMCやSIEのプロデューサーの様子が見られた。
 
-批判のポイントとしてはプレイ時間が5-6時間程度と短いことや一本道のストーリー仕掛け、ゲームにおける世界が止まっていて生気がないように感じられることが多い点などが挙げられている\[10\]。GameSparkはいくつかの日本国外のゲームレビューサイトの結果に基づいて、フロム・ソフトウェアらしい「物語り」に力を入れたところが評価されているが、その点に興味が薄いプレイヤーやゲームプレイに重きを置く層からは評価が低いと述べている。
+発売後のゲームの評価は賛否両論となっている。メタクリティックは28の海外の業界紙のレビューに基づいて、100点満点中69点と評価している\[17\]。業界紙のレビューでは刺激的な物語、初心者向けの難易度、特にPS4 Proにおける映像の完成度が強調されている\[18\]\[19\]。IGN Japan編集部で毎年実施されているライターごとの年内ゲームトップ10の発表において、エスラは本作を4位に\[20\]、福山幸司は2位に挙げた\[21\]。福山は本作についてVRで平易に遊べることに力を入れていることを指摘し、またVRによるストーリーテリングが今後発展するとの考えを述べている。
+
+批判のポイントとしてはプレイ時間が5-6時間程度と短いことや一本道のストーリー仕掛け、ゲームにおける世界が止まっていて生気がないように感じられることが多い点などが挙げられている\[22\]。GameSparkはいくつかの日本国外のゲームレビューサイトの結果に基づいて、フロム・ソフトウェアらしい「物語り」に力を入れたところが評価されているが、その点に興味が薄いプレイヤーやゲームプレイに重きを置く層からは評価が低いと述べている。ファミ通のクロスレビューでは四人中二人がPS Moveが二本必要なことが敷居が高いと指摘している\[23\]。
 
 後に宮崎はインタビューにて本作に挑戦したことで反省も多くあったものの、製作したことで得るものが多かったと述べている。また、人を選ぶゲームというのはコンセプト上やむを得ないところはあったものの、それを踏まえても解消できる課題はあったとも述べている。
 
 ### 受賞
+
+[Weiße_Katze_auf_Mauer_Mai_2012.JPG](https://ja.wikipedia.org/wiki/File:Weiße_Katze_auf_Mauer_Mai_2012.JPG "fig:Weiße_Katze_auf_Mauer_Mai_2012.JPG")」. 該当時間 16:31.</ref>。\]\]
 
 <table>
 <thead>
@@ -86,15 +98,17 @@ SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wi
 <tr class="odd">
 <td><p>2019年11月18日</p></td>
 <td><p>Golden Joystick Awards</p></td>
-<td><p>ベスト VR / ARゲーム（Best VR / AR Game）</p></td>
+<td><p>ベスト VR / ARゲーム<br />
+（Best VR / AR Game）</p></td>
 <td><p><em>Déraciné</em></p></td>
 <td></td>
-<td><p>[11]</p></td>
+<td><p>[24]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年11月18日</p></td>
 <td><p>Golden Joystick Awards</p></td>
-<td><p>PlayStation ゲームオブ・ザ・イヤー（PlayStation Game of the Year）</p></td>
+<td><p>PlayStation ゲームオブ・ザ・イヤー<br />
+（PlayStation Game of the Year）</p></td>
 <td><p><em>Déraciné</em></p></td>
 <td></td>
 <td></td>
@@ -105,7 +119,7 @@ SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wi
 <td><p>BEST VR/AR GAME</p></td>
 <td><p><em>Déraciné</em></p></td>
 <td></td>
-<td><p>[12]</p></td>
+<td><p>[25]</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -124,22 +138,33 @@ SonyのPlayStation Blogによると、[萩尾望都](../Page/萩尾望都.md "wi
   -
 ## 外部リンク
 
-[Weiße_Katze_auf_Mauer_Mai_2012.JPG](https://ja.wikipedia.org/wiki/File:Weiße_Katze_auf_Mauer_Mai_2012.JPG "fig:Weiße_Katze_auf_Mauer_Mai_2012.JPG")
-
-  - [Déraciné | プレイステーションオフィシャルサイト](https://www.jp.playstation.com/games/deracine/)
-
   -
-[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:PlayStation_VR用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_VR用ソフト "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink") [Category:妖精を題材にした作品](https://ja.wikipedia.org/wiki/Category:妖精を題材にした作品 "wikilink")
+  - [Déraciné online manual](http://playstation-doc.net/j/deracine/)
 
-1.  『Déraciné』エンディングクレジット-Cast(JAPANESE)-参照。
-2.  「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 3:20.
-3.  「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 3:35.
-4.  『Déraciné』エンディングクレジット-Cast(ENGLISH)-参照。
-5.
-6.
-7.
+[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:PlayStation_VR用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_VR用ソフト "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink") [Category:妖精を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:妖精を題材としたコンピュータゲーム "wikilink")
+
+1.
+2.
+3.
+4.
+5.  『Déraciné』エンディングクレジット-Cast(JAPANESE)-参照。
+6.  「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 3:20.
+7.  「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 3:35.
 8.
-9.
-10.  MIXED.de|Datum=2018-11-06|Online=[https://mixed.de/playstation-vr-deracine-im-test/|Abruf=2018-11-16](https://mixed.de/playstation-vr-deracine-im-test/%7CAbruf=2018-11-16)}}
-11.
+9.  「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 16:15.
+10. 「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 21:07.
+11. 「[フロム・ソフトウェアのPS VRアドベンチャー『Déraciné』ネタバレトーク](https://ja.wikipedia.org/wiki/#IGNJapan_2019 "wikilink")」. 該当時間 21:57.
 12.
+13.
+14. 『Déraciné』エンディングクレジット-Cast(ENGLISH)-参照。
+15. 『Déraciné』エンディングクレジット-Cast(JAPANESE)-参照。
+16. 「発売直前特集 Déraciné」『週刊ファミ通』通号1561、2018年11月15日、109頁。
+17.
+18.
+19.
+20.
+21.
+22.  MIXED.de|Datum=2018-11-06|Online=[https://mixed.de/playstation-vr-deracine-im-test/|Abruf=2018-11-16](https://mixed.de/playstation-vr-deracine-im-test/%7CAbruf=2018-11-16)}}
+23.
+24.
+25.

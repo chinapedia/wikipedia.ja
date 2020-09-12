@@ -66,6 +66,6 @@ HiYO Ribery（ヒヨリベリー）
   -
   -
   -
-[Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:ソニー・ミュージックエンタテインメント_(日本)](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:ソニー・ミュージックエンタテインメント_(日本)](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
 1.

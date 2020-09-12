@@ -13,6 +13,10 @@
 
 ## 参考文献
 
+## 外部リンク
+
+  - [BitChute](https://www.bitchute.com/)
+
 [Category:オルタナ右翼](https://ja.wikipedia.org/wiki/Category:オルタナ右翼 "wikilink") [Category:政治的極右](https://ja.wikipedia.org/wiki/Category:政治的極右 "wikilink") [Category:2017年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2017年開設のウェブサイト "wikilink") [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink")
 
 1.

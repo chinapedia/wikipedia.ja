@@ -1,18 +1,18 @@
 > この記事は[H\&D](https://ja.wikipedia.org/wiki/H\&D)から翻訳されています。
 
 
-**H\&D**（エイチ アンド ディー）は、イ・ハンギョル、ナム・ドヒョンによる[韓国の男性デュオ](../Page/大韓民国.md "wikilink")。
+**H\&D**（エイチ アンド ディー）は、イ・ハンギョル、ナム・ドヒョンによる[韓国の男性デュオ](../Page/大韓民国.md "wikilink")。ハンギョルの「H」とドヒョンの「D」でH\&Dとなった。また2人は元[X1のメンバー](https://ja.wikipedia.org/wiki/X1_\(音楽グループ\) "wikilink")。2020年2月5日にデジタルシングル「Happy Day」でデビュー。
 
 ## 来歴
 
 ### 2019年
 
   - 5月3日 - [Mnet](../Page/Mnet.md "wikilink") オーディション番組『[PRODUCE X 101](https://ja.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")』に出演\[1\]。
-  - 8月27日 - ハンギョル、ドヒョンが「X1」のメンバーとしてデビュー\[2\]。
+  - 8月27日 - ハンギョル、ドヒョンが「[X1](https://ja.wikipedia.org/wiki/X1_\(音楽グループ\) "wikilink")」のメンバーとしてデビュー\[2\]。
 
 ### 2020年
 
-  - 1月6日 - 各メンバーの所属事務所とCJ ENM、SWINGエンターテインメントの協議の結果、「X1」の解散が決定した。
+  - 1月6日 - 各メンバーの所属事務所とCJ ENM、SWINGエンターテインメントの協議の結果、「[X1](https://ja.wikipedia.org/wiki/X1_\(音楽グループ\) "wikilink")」の解散が決定した。
   - 2月2日 - 韓国・慶煕大学にて1stファンミーティング「Happy Day:Birthday」を開催。
   - 2月5日 - デジタルシングル「Happy Day」をリリース。
   - 3月30日 - 先行曲としてデジタルシングル「낯설어」をリリース。
@@ -36,7 +36,7 @@
 <li>所属事務所：MBKエンターテインメント</li>
 <li>「The Unit」最終順位13位</li>
 <li>「PRODUCE X 101」最終順位7位</li>
-<li>「IM」、「X1」のメンバーとして活動していた</li>
+<li>元「IM」、「<a href="https://ja.wikipedia.org/wiki/X1_(音楽グループ)" title="wikilink">X1</a>」のメンバー</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -52,13 +52,13 @@
 <li>ポジション：メインラッパー</li>
 <li>所属事務所：MBKエンターテインメント</li>
 <li>「PRODUCE X 101」最終順位8位</li>
-<li>「X1」のメンバーとして活動していた</li>
+<li>元「<a href="https://ja.wikipedia.org/wiki/X1_(音楽グループ)" title="wikilink">X1</a>」のメンバー</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## ディスコグラフィ
+## ディスコグラフィー
 
 ### ミニアルバム
 
@@ -81,9 +81,9 @@
 <small>（2020年4月21日）</small></p></td>
 <td><ol>
 <li><small>INTRO</small></li>
-<li><small>SOUL</small></li>
+<li><small><strong>SOUL</strong></small></li>
 <li><small>Good Night</small></li>
-<li><small>낯설어 (Unfamiliar)</small></li>
+<li><small><strong>낯설어 (Unfamiliar)</strong></small></li>
 <li><small>빈손</small></li>
 <li><small>날 다른 사람으로 만들어</small></li>
 <li><small>오늘보다 더 나은 내일 (Toward Tomorrow)</small></li>
@@ -102,26 +102,26 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>-</p></th>
+<th><p>No.</p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small>デジタル</small> <small>シングル</small></p></td>
+<td><p><strong>1st</strong></p></td>
 <td><p><strong>Happy Day</strong> <small>(2020年2月5日）</small></p></td>
 <td><ol>
-<li><small>오늘보다 더 나은 내일 (Toward Tomorrow)</small></li>
+<li><small><strong>오늘보다 더 나은 내일 (Toward Tomorrow)</strong></small></li>
 <li><small>오늘보다 더 나은 내일 (Inst.)</small></li>
 </ol></td>
 </tr>
 <tr class="even">
+<td><p><strong>2nd</strong></p></td>
 <td><p><strong>낯설어</strong> <small>(2020年3月30日)</small></p></td>
 <td><ol>
-<li><small>낯설어 (Unfamiliar)</small></li>
+<li><small><strong>낯설어 (Unfamiliar)</strong></small></li>
 </ol></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +149,7 @@
 </tbody>
 </table>
 
-## イベント
+## 公演
 
 ### ショーケース
 
@@ -164,7 +164,7 @@
 | <small>2020年</small>                                            | **<small>1st Fanmeeting 'Happy Day'：Birthday</small>** | <small>2月2日</small>                                              | <small>[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")</small> | <small>[慶煕大学](https://ja.wikipedia.org/wiki/慶煕大学 "wikilink")</small>  |    |
 | **<small>1st Fanmeeting 'Happy Day'：Birthday in JAPAN</small>** | <small>7\~8月開催予定</small>                               | <small>[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")</small> | <small>未定</small>                                                | <small>当初は4/2大阪・堂島リバーフォーラム、4/4東京・豊洲PITで開催予定だったが、コロナウイルスのため延期。</small> |    |
 
-### その他
+### イベント
 
 | 年     | 公演名                                    | 日程   | 国                                                 | 会場                                                                                                                       |
 | ----- | -------------------------------------- | ---- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |

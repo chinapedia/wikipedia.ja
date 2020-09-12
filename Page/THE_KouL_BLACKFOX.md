@@ -59,8 +59,6 @@
 
   - 2019年09月23日 - 「[Music monster](https://ja.wikipedia.org/wiki/Music_monster "wikilink")」
 
-## 脚注
-
 ## 外部リンク
 
   -
@@ -70,4 +68,4 @@
   - [THE KouL BLACKFOX-Youtube](https://www.youtube.com/channel/UCJZ9GV4gDebo4QDCSZCVKJg)
   - [THE KouL BLACKFOX-楽曲](https://music.apple.com/jp/artist/the-koul-blackfox/1357054383)
 
-[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

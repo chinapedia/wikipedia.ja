@@ -13,7 +13,7 @@ CDと、**ガンプラ40周年とLUNA SEA30周年のコラボ企画として1年
 
 ## 記録
 
-オリコン週間シングルチャート(5月11日付)では、初週で6,082枚を売り上げ、1位を獲得\[6\]。LUNA SEAとしては「[gravity](../Page/Gravity_\(LUNA_SEAの曲\).md "wikilink")」以来、**約20年と1ヶ月ぶりとなる首位獲得**を果たした。また、**シングル1位インターバル記録では[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の21年1カ月ぶりに次ぐ歴代2位**となった\[7\]\[8\]ほか、LUNA SEAとしてもアルバムからのリカットシングルでの首位獲得は本作が初となった。
+オリコン週間シングルチャート(5月11日付)では、初週で6,082枚を売り上げ、1位を獲得\[6\]。LUNA SEAとしては「[gravity](../Page/Gravity_\(LUNA_SEAの曲\).md "wikilink")」以来、**約20年と1ヶ月ぶりとなる首位獲得**を果たした。また、**同一名義でのシングル1位インターバル記録では[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の21年1カ月ぶりに次ぐ歴代2位**となった\[7\]\[8\]ほか、LUNA SEAとしてもアルバムからのリカットシングルでの首位獲得は本作が初となった。
 
 ## 収録内容
 
@@ -32,7 +32,7 @@ CDと、**ガンプラ40周年とLUNA SEA30周年のコラボ企画として1年
 
 ## 脚注
 
-[Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

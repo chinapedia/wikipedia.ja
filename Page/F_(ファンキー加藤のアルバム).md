@@ -7,10 +7,10 @@
 
 ### CD
 
-1.  **[希望のWooh](https://ja.wikipedia.org/wiki/希望のWooh "wikilink")** \[3:37\]
+1.  **[希望のWooh](https://ja.wikipedia.org/wiki/希望のWooh "wikilink")** \[3:38\]
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink") ｢ワールドプロレスリング｣ テーマソング
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/サトシ
-2.  **今だけを信じて** \[3:50\]
+2.  **今だけを信じて** \[3:51\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")
 3.  **[終われない歌](https://ja.wikipedia.org/wiki/終われない歌 "wikilink")** \[3:50\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/サトシ/[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")
@@ -20,18 +20,18 @@
       - [KHB東日本放送](https://ja.wikipedia.org/wiki/KHB東日本放送 "wikilink") ｢[もえスポ](https://ja.wikipedia.org/wiki/もえスポ "wikilink")｣ 2020年4月〜9月 エンディングテーマ
       - [KHB東日本放送](https://ja.wikipedia.org/wiki/KHB東日本放送 "wikilink") ｢[熱視戦 KHBスーパーベースボール](https://ja.wikipedia.org/wiki/熱視戦_KHBスーパーベースボール "wikilink")｣ 2020年度 エンディングテーマ
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/大知正紘/[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")
-6.  **八王子キッド** \[3:21\]
+6.  **八王子キッド** \[3:22\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/栗原暁/前田佑
-7.  **死守** \[4:22\]
+7.  **死守** \[4:23\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/Haru.Robinson
 8.  **Be Alright** \[4:13\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/soundbreakers
-9.  **デ・マ** \[2:44\]
+9.  **デ・マ** \[2:45\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")
 10. **[40](https://ja.wikipedia.org/wiki/希望のWooh "wikilink")** \[4:20\]
       - 9枚目のシングル ｢[希望のWooh](https://ja.wikipedia.org/wiki/希望のWooh "wikilink")｣のカップリング曲。
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/久保田真悟/EINSHTEIN
-11. **夢のカケラ Feat.ファンキー加藤&ベリーグッドマン (SC Remix)** \[4:12\]
+11. **夢のカケラ Feat.ファンキー加藤&ベリーグッドマン (SC Remix)** \[4:13\]
       - 作詞 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/[ベリーグッドマン](https://ja.wikipedia.org/wiki/ベリーグッドマン "wikilink") 作曲 : [ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")/[ベリーグッドマン](https://ja.wikipedia.org/wiki/ベリーグッドマン "wikilink")/[SPICY CHOCOLATE](https://ja.wikipedia.org/wiki/SPICY_CHOCOLATE "wikilink")
 
 ### DVD (初回限定盤)

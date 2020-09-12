@@ -34,7 +34,7 @@ heathのソロ・デビュー作となった本作は「失われたtreasure∞l
   - heath - ボーカル、ベース
       - 須貝幸生 - プログラミング
       - 神長弘一 - ギター
-      - [鷹羽仁](https://ja.wikipedia.org/wiki/高橋利光 "wikilink") - マニュピレーター
+      - [鷹羽仁](https://ja.wikipedia.org/wiki/高橋利光 "wikilink") - マニピュレーター
       - 相沢公生 - キーボード
       - [三柴理](../Page/三柴理.md "wikilink") - ピアノ\[2\]\[3\]
       - 小森啓資 - ドラム

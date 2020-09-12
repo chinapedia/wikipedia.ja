@@ -1,13 +1,13 @@
 > この記事は[タトラT3R](https://ja.wikipedia.org/wiki/タトラT3R)から翻訳されています。
 
 
-**タトラT3R**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した鉄道車両メーカーのが製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。同社が展開していた[タトラT3](../Page/タトラT3.md "wikilink")を基に、車体設計や機器の近代化を実施した形式である。
+**タトラT3R**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した鉄道車両メーカーの[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。同社が展開していた[タトラT3](../Page/タトラT3.md "wikilink")を基に、車体設計や機器の近代化を実施した形式である。
 
 ## 概要
 
 ### 開発までの経緯
 
-[ビロード革命](../Page/ビロード革命.md "wikilink")による民主化や[ビロード離婚](../Page/ビロード離婚.md "wikilink")による分割を経た[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")各都市の路面電車は財政難が大きな課題となっており、新型電車の導入と並行して既存の車両の車体や機器の近代化が積極的に行われた。その中で、[チェコ](../Page/チェコ.md "wikilink")・[ブルノ](../Page/ブルノ.md "wikilink")で路面電車（****）を運営する（現：ブルノ公共交通会社）は、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")時代から長期に渡って路面電車車両の製造を行っていたに[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")（単車）の**[タトラT3](../Page/タトラT3.md "wikilink")**の近代化工事を依頼し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に1両の更新が実施された。これを受け、ČKDタトラは当時既に製造を終了していたT3の需要が未だ高いと判断し、この更新車両を元にしたモデルチェンジ車両を新たなラインナップとして展開する事を決定した。これらの車両は纏めて「T3R」と呼ばれる。
+[ビロード革命](../Page/ビロード革命.md "wikilink")による民主化や[ビロード離婚](../Page/ビロード離婚.md "wikilink")による分割を経た[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")各都市の路面電車は財政難が大きな課題となっており、新型電車の導入と並行して既存の車両の車体や機器の近代化が積極的に行われた。その中で、[チェコ](../Page/チェコ.md "wikilink")・[ブルノ](../Page/ブルノ.md "wikilink")で路面電車（****）を運営する（現：ブルノ公共交通会社）は、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")時代から長期に渡って路面電車車両の製造を行っていた[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")に[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")（単車）の**[タトラT3](../Page/タトラT3.md "wikilink")**の近代化工事を依頼し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に1両の更新が実施された。これを受け、ČKDタトラは当時既に製造を終了していたT3の需要が未だ高いと判断し、この更新車両を元にしたモデルチェンジ車両を新たなラインナップとして展開する事を決定した。これらの車両は纏めて「T3R」と呼ばれる。
 
 ### 構造
 
@@ -37,7 +37,7 @@
 
 [Brno,_Joštova,_Tatra_T3RF_č._1669+1670.jpg](https://ja.wikipedia.org/wiki/File:Brno,_Joštova,_Tatra_T3RF_č._1669+1670.jpg "fig:Brno,_Joštova,_Tatra_T3RF_č._1669+1670.jpg")）\]\]
 
-  - **** - 主に[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")向けに8両が製造された形式。タトラT3Rと同型の車体や機器を有するが、集電装置や乗降扉の形状など細部が異なる\[2\]\[3\]。
+  - **[タトラT3RF](../Page/タトラT3RF.md "wikilink")** - 主に[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")向けに8両が製造された形式。タトラT3Rと同型の車体や機器を有するが、集電装置や乗降扉の形状など細部が異なる\[2\]\[3\]。
 
 ## 脚注
 

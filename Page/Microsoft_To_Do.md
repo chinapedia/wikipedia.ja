@@ -12,10 +12,11 @@ Microsoft To Doは[2017年](../Page/2017年.md "wikilink")に、基本的な[機
 ## 対応環境
 
 (この節の出典\[4\])
-[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink") - iOS9以上
-[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink") - [Windows10](https://ja.wikipedia.org/wiki/Windows10 "wikilink")
-[Android](../Page/Android.md "wikilink") - Android OS 4.4以上
-[Web](https://ja.wikipedia.org/wiki/Web "wikilink") - [Safari](../Page/Safari.md "wikilink")、[Internet Explorer 11](https://ja.wikipedia.org/wiki/Internet_Explorer_11 "wikilink")、[Chrome](https://ja.wikipedia.org/wiki/Chrome "wikilink")、[Edge](https://ja.wikipedia.org/wiki/Edge "wikilink")、[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")の最新版
+
+  - [iOS](https://ja.wikipedia.org/wiki/iOS "wikilink") - iOS9以上
+  - [Windows](https://ja.wikipedia.org/wiki/Windows "wikilink") - [Windows10](https://ja.wikipedia.org/wiki/Windows10 "wikilink")
+  - [Android](../Page/Android.md "wikilink") - Android OS 4.4以上
+  - [Web](https://ja.wikipedia.org/wiki/Web "wikilink") - [Safari](../Page/Safari.md "wikilink")、[Internet Explorer 11](https://ja.wikipedia.org/wiki/Internet_Explorer_11 "wikilink")、[Chrome](https://ja.wikipedia.org/wiki/Chrome "wikilink")、[Edge](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")、[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")の最新版
 
 ## 脚注
 
@@ -24,7 +25,7 @@ Microsoft To Doは[2017年](../Page/2017年.md "wikilink")に、基本的な[機
 ## 外部リンク
 
   -
-  - [Microsoft の To Do リスト アプリ | Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365/microsoft-to-do-list-app)
+  - [To Do リスト、タスク、リマインダーのアプリ | Microsoft To Do](https://www.microsoft.com/ja-jp/microsoft-365/microsoft-to-do-list-app)
 
   -
 

@@ -1,9 +1,9 @@
 > この記事は[Reality in BLACK](https://ja.wikipedia.org/wiki/Reality_in_BLACK)から翻訳されています。
 
 
-『**reality in BLACK**』（リアリティー・イン・ブラック）は、[韓国の女性音楽グループ](../Page/大韓民国.md "wikilink")[MAMAMOO](https://ja.wikipedia.org/wiki/MAMAMOO "wikilink")の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に韓国で、 [:ko:RBW](https://ja.wikipedia.org/wiki/:ko:RBW "wikilink")によりフルアルバムとして発売された。11曲が収録され、メンバーも作詞、作曲に参加している。
+『**reality in BLACK**』（リアリティー・イン・ブラック）は、[韓国の女性音楽グループ](../Page/大韓民国.md "wikilink")[MAMAMOO](https://ja.wikipedia.org/wiki/MAMAMOO "wikilink")の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に韓国で、 [:ko:RBW](https://ja.wikipedia.org/wiki/:ko:RBW "wikilink")により2枚目のフルアルバムとして発売された。11曲が収録され、メンバーも作詞、作曲に参加している。
 
-[2020年](../Page/2020年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に日本で、[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")より発売された。タイトル曲「HIP」の日本語版「HIP -Japanese ver. -」と、日本オリジナル曲「Shampoo」の2曲が新たに収録されている。
+[2020年](../Page/2020年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に日本で、[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")より発売された。タイトル曲「HIP」の日本語版「HIP -Japanese ver.-」と、日本オリジナル曲「Shampoo」の2曲が新たに収録されている。
 
 ## 背景
 
@@ -33,18 +33,18 @@
 | [SBS人気歌謡](https://ja.wikipedia.org/wiki/SBS人気歌謡 "wikilink")（[SBS](../Page/SBS_\(韓国\).md "wikilink")）                                                 | 2019-11-24\[9\]                                                                                         |                                                                                                                  |
 | 2019-12-22\[10\]                                                                                                                                     |                                                                                                         |                                                                                                                  |
 | 2019-12-30\[11\]                                                                                                                                     |                                                                                                         |                                                                                                                  |
-| [SHOW CHAMPION](https://ja.wikipedia.org/wiki/SHOW_CHAMPION "wikilink")（[MBC M](https://ja.wikipedia.org/wiki/文化放送_\(韓国\)#ケーブルテレビ・衛星系列局 "wikilink")） | 2019-12-04 \[12\] \<\!--                                                                                | [ショー\!K-POPの中心](https://ja.wikipedia.org/wiki/ショー!K-POPの中心 "wikilink")（[MBC](../Page/文化放送_\(韓国\).md "wikilink")） |
+| [SHOW CHAMPION](https://ja.wikipedia.org/wiki/SHOW_CHAMPION "wikilink")（[MBC M](https://ja.wikipedia.org/wiki/文化放送_\(韓国\)#ケーブルテレビ・衛星系列局 "wikilink")） | 2019-12-04\[12\] \<\!--                                                                                 | [ショー\!K-POPの中心](https://ja.wikipedia.org/wiki/ショー!K-POPの中心 "wikilink")（[MBC](../Page/文化放送_\(韓国\).md "wikilink")） |
 | THE SHOW（） --\>                                                                                                                                      |                                                                                                         |                                                                                                                  |
 
 ## 発売日一覧
 
-| 地域                                                | 情報                             | 規格                                                                       | レーベル                                                                       | 題名                                    |
+| 地域                                                | 情報                             | 規格                                                                       | レーベル                                                                       | タイトル                                  |
 | ------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------- |
 | [韓国](../Page/大韓民国.md "wikilink")                  | 2019年11月14日                    | [CD](../Page/コンパクトディスク.md "wikilink")、[音楽配信](../Page/音楽配信.md "wikilink") | KakaoM                                                                     | *reality in BLACK*                    |
 | 世界                                                | 音楽配信                           | RBW                                                                      |                                                                            |                                       |
 |                                                   |                                |                                                                          |                                                                            |                                       |
 |                                                   |                                |                                                                          |                                                                            |                                       |
-| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink") | 2020年3月11日<small>(日本盤)</small> | CD、音楽配信                                                                  | [JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、RBW | *reality in BLACK -Japanese Edition-* |
+| [日本](https://ja.wikipedia.org/wiki/日本 "wikilink") | 2020年3月11日<small>（日本盤）</small> | CD、音楽配信                                                                  | [JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、RBW | *reality in BLACK -Japanese Edition-* |
 
 ## 脚注
 
@@ -65,8 +65,12 @@
       - （2019年11月14日）
 
       - （2020年2月5日）
-
-[Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink")
+  - 音楽配信
+      -   -
+          -
+      -
+      -
+[Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:韓国のアルバム](https://ja.wikipedia.org/wiki/Category:韓国のアルバム "wikilink")
 
 1.
 2.

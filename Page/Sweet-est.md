@@ -1,7 +1,7 @@
 > この記事は[Sweet-est](https://ja.wikipedia.org/wiki/Sweet-est)から翻訳されています。
 
 
-『**Sweet-est**』（スウィート・イスト）は、[山下久美子](../Page/山下久美子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、[1992年](../Page/1992年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売された。
+『**Sweet-est**』（スウィーテスト）は、[山下久美子](../Page/山下久美子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、[1992年](../Page/1992年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売された。
 
 ## 概要
 

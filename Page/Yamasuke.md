@@ -17,7 +17,9 @@
   - [公式ホームページ yamasukeの部屋](https://yamasukenoheya.jimdofree.com/)
   - [SPACE SHOW MUSIC secret 『幻想とダンス feat.COOR&相宮左弥』](https://spaceshowermusic.com/release/20259479/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:三重県出身の人物](https://ja.wikipedia.org/wiki/Category:三重県出身の人物 "wikilink")
+[Category:三重県出身の人物](https://ja.wikipedia.org/wiki/Category:三重県出身の人物 "wikilink")
+
+[Category:日本のマネジメント事業者](https://ja.wikipedia.org/wiki/Category:日本のマネジメント事業者 "wikilink") [Category:日本のサウンドデザイナー](https://ja.wikipedia.org/wiki/Category:日本のサウンドデザイナー "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:レコーディングエンジニア](https://ja.wikipedia.org/wiki/Category:レコーディングエンジニア "wikilink") [Category:日本のプロテスタント](https://ja.wikipedia.org/wiki/Category:日本のプロテスタント "wikilink") [Category:障害を持つ人物](https://ja.wikipedia.org/wiki/Category:障害を持つ人物 "wikilink")
 
 1.
 2.  [ルーターFM](https://router.fm/lm/label_info/)

@@ -26,51 +26,34 @@
 
   - iTunesデイリーロックアルバムランキング3位を記録。
 
-## 収録曲
+## 収録内容
 
-1.  **PILE DRIVER**\[4:05\]
+## 詳細
+
+1.  **PILE DRIVER**
       -
-        作詞：[田口達也](https://ja.wikipedia.org/wiki/田口達也 "wikilink") 作曲：田口達也 編曲：[鈴木Daichi秀行](../Page/鈴木Daichi秀行.md "wikilink")
         本アルバムのリード曲で本人達いわく、1番の自信作である\[4\]。
         細胞分裂の収録曲のMV第4弾。
-2.  **其ノ他諸々**\[4:13\]
+2.  **其ノ他諸々**
       -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
         細胞分裂収録曲のMV第2弾。
-3.  **排他的王道主義**\[3:43\]
+3.  **排他的王道主義**
+4.  **あなたに私が必要なくても**
       -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
-4.  **あなたに私が必要なくても**\[5:28\]
-      -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系バラエティ番組 『[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")』[2019年](../Page/2019年.md "wikilink")12月度エンディングテーマ。\[5\]\[6\]
         細胞分裂の収録曲のMV第3弾。
-5.  **万事休す**\[4:20\]
+5.  **万事休す**
       -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
         細胞分裂の収録曲のMV第1弾。
         本アルバムにおいてaiai、LINEのうたを除き最初に制作された楽曲。
-6.  **LINEのうた**\[3:51\]
+6.  **LINEのうた**
       -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
         現在のYouTubeチャンネル開設当初にバラエティチャンネルにて投稿された「[LINEの音で曲作ってみた。](https://www.youtube.com/watch?v=tHUoYGEApjU)」のアルバムフルバージョンである。YouTubeバージョンから一部変更されたものが収録されている。
-7.  **Pant Voice**\[4:08\]
+7.  **Pant Voice**
+8.  **aiai**
       -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
-8.  **aiai**\[4:22\]
-      -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
         前作の「いけないんだ、いけないんだ」と「犬のおまわりさん」に続く3作目の童謡のロックアレンジ曲。MVは[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")のみで公開していた。(実際はフルバージョンをYouTubeで公開していたが、前アカウントが停止されてしまった為MVは[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")のショートバージョンのみとなってしまった。)
-9.  **late bloomer**\[4:43\]
-      -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
-10. **二十五の自白**\[4:36\]
-      -
-        作詞：田口達也 作曲：田口達也 編曲：鈴木Daichi秀行
-
-## タイアップ
-
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系バラエティ番組「[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")」2019年12月度エンディングテーマ(\#4)\[7\]
+9.  **late bloomer**
+10. **二十五の自白**
 
 ## クレジット
 
@@ -98,6 +81,3 @@
 2.
 3.
 4.  [Non Stop Rabbit、メンバー全員が「一番の自信作」と語る新曲のMV公開([音楽ナタリー](https://ja.wikipedia.org/wiki/音楽ナタリー "wikilink"))](https://natalie.mu/music/news/358597)
-5.
-6.  [お願い！ランキング公式サイト(2019年12月18日のアーカイブ)](https://web.archive.org/web/20191218033808/https://www.tv-asahi.co.jp/onegai_chosenkyo/)
-7.

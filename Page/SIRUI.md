@@ -5,9 +5,7 @@ SIRUI（シルイ、中国語：思銳）は、[2001年](../Page/2001年.md "wik
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")に機械加工業者として[中華人民共和国](../Page/中華人民共和国.md "wikilink")[広東省](../Page/広東省.md "wikilink")[中山市](../Page/中山市.md "wikilink")で創業。世界各地の[三脚](../Page/三脚.md "wikilink")・[雲台](https://ja.wikipedia.org/wiki/雲台 "wikilink")メーカーなどから製造・加工を請け負っていた。[2006年](../Page/2006年.md "wikilink")より自社製三脚・雲台ブランドを立ち上げ、アジア・欧米各国で販売を開始しており、中国ではベンロと並ぶ大手三脚メーカーとして知られる。\[1\]三脚以外では雲台、防湿庫、カメラ用レンズ、[スタビライザー](https://ja.wikipedia.org/wiki/スタビライザー "wikilink")などを製造販売。
-
-日本での正規輸入総代理店は、常盤写真用品。
+[2001年](../Page/2001年.md "wikilink")に機械加工業者として[中華人民共和国](../Page/中華人民共和国.md "wikilink")[広東省](../Page/広東省.md "wikilink")[中山市](../Page/中山市.md "wikilink")で創業。世界各地の[三脚](../Page/三脚.md "wikilink")・[雲台](https://ja.wikipedia.org/wiki/雲台 "wikilink")メーカーなどから製造・加工を請け負っていた。[2006年](../Page/2006年.md "wikilink")より自社製三脚・雲台ブランドを立ち上げ、アジア・欧米各国で販売を開始しており、中国ではベンロと並ぶ大手三脚メーカーとして知られる。\[1\]三脚以外では雲台、防湿庫、カメラ用レンズ、[スタビライザー](https://ja.wikipedia.org/wiki/スタビライザー "wikilink")などを製造販売。日本での正規輸入総代理店は、常盤写真用品。
 
 ## 製品一覧
 

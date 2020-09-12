@@ -27,7 +27,7 @@
   - MacGrew, Mac, "American Metal Typefaces of the Twentieth Century," Oak Knoll Books, New Castle Delaware, 1993, ISBN 0-938768-34-4.
   - Friedl, Ott, and Stein, Typography: an Encyclopedic Survey of Type Design and Techniques Throughout History. Black Dog & Levinthal Publishers: 1998. ISBN 1-57912-023-7.
 
-[Category:アメリカ合衆国のイラストレーター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のイラストレーター "wikilink") [Category:ボストン出身の人物](https://ja.wikipedia.org/wiki/Category:ボストン出身の人物 "wikilink") [Category:1868年生](https://ja.wikipedia.org/wiki/Category:1868年生 "wikilink") [Category:1962年没](https://ja.wikipedia.org/wiki/Category:1962年没 "wikilink")
+[Category:アメリカ合衆国のイラストレーター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のイラストレーター "wikilink") [Category:ボストン出身の人物](https://ja.wikipedia.org/wiki/Category:ボストン出身の人物 "wikilink") [Category:1868年生](https://ja.wikipedia.org/wiki/Category:1868年生 "wikilink") [Category:1962年没](https://ja.wikipedia.org/wiki/Category:1962年没 "wikilink") [Category:アール・ヌーヴォー・イラストレーター](https://ja.wikipedia.org/wiki/Category:アール・ヌーヴォー・イラストレーター "wikilink")
 
 1.
 2.  Koch, Robert (2002), *Will H. Bradley: An American Artist in Print: A Collector's Guide,* Manchester, Vermont: Hudson Hills Press, LLC. .

@@ -18,7 +18,9 @@
 
 描き下ろしイラストを使用した豪華BOXに全12枚のCDとブックレットに加え、[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売されたシングル「[A song for You\! You? You\!\!](../Page/A_song_for_You!_You?_You!!.md "wikilink")」が収納できるディスクホルダーが付属している。また、法人特典としてオリジナルマルチクロスが1枚付属した。\[2\]
 
-発売にあたり、都内各所で衣装展示やパネル展示\[3\]、JR秋葉原駅の各所（秋葉原駅中央改札内大型シート・秋葉原デジタルシートセット・秋葉原駅集中貼り）に広告を展開していた。\[4\]
+発売にあたり、都内各所で衣装展示やパネル展示\[3\]、JR秋葉原駅の各所（秋葉原駅中央改札内大型シート・秋葉原デジタルシートセット・秋葉原駅集中貼り）に広告を展開していた。\[4\] なお、このCDに収録されている楽曲はあくまでμ's名義でリリースされたものが対象になっているため、[神様と運命革命のパラドクス](https://ja.wikipedia.org/wiki/神様と運命革命のパラドクス "wikilink")サウンドトラック 天使たちの福音 feat.µ’sは収録されていない。
+
+発売後、デジタル配信も開始され、非常に入手困難だったBlu-ray全巻購入特典やプレミアムチケット購入特典の入手難易度が大きく下がっている\[5\]。
 
 ## チャート成績
 
@@ -102,7 +104,7 @@
     <!-- end list -->
       -
         第1期第1話挿入歌
-        ディスク版は本来収録されるべきものとは異なったボーカルテイクVer.の音源が収録されている為お客様センターにて交換を受け付けている\[5\]\[6\]
+        ディスク版は本来収録されるべきものとは異なったボーカルテイクVer.の音源が収録されている為お客様センターにて交換を受け付けている\[6\]\[7\]
 6.  **[START:DASH\!\!](https://ja.wikipedia.org/wiki/ススメ→トゥモロウ/START:DASH!! "wikilink")** \[4:17\]
       - 作曲・編曲：佐々木裕、歌：高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）
     <!-- end list -->
@@ -124,7 +126,7 @@
       -
         第1期第11話挿入歌
 10. **[START:DASH\!\!](https://ja.wikipedia.org/wiki/No_brand_girls/START:DASH!! "wikilink")** \[4:15\]
-      - 作曲・編曲：[佐々木裕」](https://ja.wikipedia.org/wiki/佐々木裕」 "wikilink")、歌：μ's
+      - 作曲・編曲：[佐々木裕](https://ja.wikipedia.org/wiki/佐々木裕 "wikilink")、歌：μ's
     <!-- end list -->
       -
         第1期第13話挿入歌
@@ -251,7 +253,7 @@
       -
         第2期第5巻特典曲
 6.  **好きですが好きですか？** \[4:51\]
-      - 作曲・編曲:[渡辺和紀](../Page/渡辺和紀.md "wikilink")、歌：南ことり (内田彩)、小泉花陽 (\[\[久保ユリカ)
+      - 作曲・編曲:[渡辺和紀](../Page/渡辺和紀.md "wikilink")、歌：南ことり (内田彩)、小泉花陽 (久保ユリカ)
     <!-- end list -->
       -
         第2期第6巻特典曲
@@ -353,7 +355,7 @@
       - 作曲・編曲：[佐々倉有吾](https://ja.wikipedia.org/wiki/佐々倉有吾 "wikilink")、歌：Printemps
     <!-- end list -->
       -
-        Blu-rayゲーマーズ第1期全巻購入特典
+        Blu-ray[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")第1期全巻購入特典
 10. **CheerDay CheerGirl\!**　\[3:59\]
       - 作曲・編曲：[佐々木裕](https://ja.wikipedia.org/wiki/佐々木裕 "wikilink")、歌：Printemps
     <!-- end list -->
@@ -403,7 +405,7 @@
       - 作曲・編曲：[佐々木裕](https://ja.wikipedia.org/wiki/佐々木裕 "wikilink")、歌：BiBi
     <!-- end list -->
       -
-        Blu-rayアニメイト第2期全巻購入特典
+        Blu-ray[アニメイト](../Page/アニメイト.md "wikilink")第2期全巻購入特典
 10. **最低で最高のParadiso**　\[4:22\]
       - 作曲・編曲：[木村有希](https://ja.wikipedia.org/wiki/木村有希 "wikilink")、歌：BiBi
     <!-- end list -->
@@ -448,7 +450,7 @@
       - 作曲・編曲：[渡辺和紀](../Page/渡辺和紀.md "wikilink")、歌：lily white
     <!-- end list -->
       -
-        Blu-rayソフマップ第2期全巻購入特典
+        Blu-ray[ソフマップ](../Page/ソフマップ.md "wikilink")第2期全巻購入特典
 10. ****　\[4:52\]
       - 作曲・編曲：[三浦誠司](https://ja.wikipedia.org/wiki/三浦誠司 "wikilink")、歌：lily white
     <!-- end list -->
@@ -533,14 +535,14 @@
       - 作曲・編曲：[倉内達矢](https://ja.wikipedia.org/wiki/倉内達矢 "wikilink")、歌：μ's
     <!-- end list -->
       -
-        劇場版挿入歌。劇中で使われたバージョンであり、演出的理由で間奏が異なる\[7\]
+        劇場版挿入歌。劇中で使われたバージョンであり、演出的理由で間奏が異なる\[8\]
 5.  **[?←HEARTBEAT](https://ja.wikipedia.org/wiki/SUNNY_DAY_SONG/?←HEARTBEAT "wikilink")** \[3:32\]
       - 作曲・編曲：[本田光史郎](https://ja.wikipedia.org/wiki/本田光史郎 "wikilink")、歌：絢瀬絵里（南條愛乃）、東條希（楠田亜衣奈）、矢澤にこ（徳井青空）
     <!-- end list -->
       -
         劇場版挿入歌
 6.  **[僕たちはひとつの光](https://ja.wikipedia.org/wiki/僕たちはひとつの光/Future_style "wikilink")** \[4:55\]
-      - 作曲：[ZAQ](https://ja.wikipedia.org/wiki/ZAQ "wikilink")、編曲：[EFFY](https://ja.wikipedia.org/wiki/EFFY "wikilink")、歌：μ's
+      - 作曲：[ZAQ](https://ja.wikipedia.org/wiki/ZAQ_\(シンガーソングライター\) "wikilink")、編曲：[EFFY](https://ja.wikipedia.org/wiki/EFFY "wikilink")、歌：μ's
     <!-- end list -->
       -
         劇場版主題歌・挿入歌
@@ -550,7 +552,7 @@
       -
         劇場版挿入歌
 8.  **これから**　\[5:45\]
-      - 作曲：[伊藤真澄](../Page/伊藤真澄.md "wikilink")・[ミト](https://ja.wikipedia.org/wiki/ミト "wikilink")、編曲：TO-MAS SOUNDSIGHT FLUORESCENT FOREST\[8\]、歌：μ's
+      - 作曲：[伊藤真澄](../Page/伊藤真澄.md "wikilink")・[ミト](https://ja.wikipedia.org/wiki/ミト "wikilink")、編曲：TO-MAS SOUNDSIGHT FLUORESCENT FOREST\[9\]、歌：μ's
     <!-- end list -->
       -
         劇場版Blu-ray特典曲
@@ -582,7 +584,8 @@
 2.  [μ's Memorial CD-BOXの店舗特典デザインを発表！](http://www.lovelive-anime.jp/otonokizaka/news.php?id=17185) - ラブライブ！公式サイト
 3.  [μ's｜Memorial CD-BOX「Complete BEST BOX」発売記念、衣装展示＆パネル展示開催！](http://www.lovelive-anime.jp/otonokizaka/news.php?id=17379) - ラブライブ！公式サイト
 4.  [μ'ｓ Memorial CD-BOX「Complete BEST BOX」のリリースを記念して、JR秋葉原駅にて広告を展開中！](http://www.lovelive-anime.jp/otonokizaka/news.php?id=17384) - ラブライブ！公式サイト
-5.
-6.  音楽配信サイトのものは既に修正済み。
-7.
-8.  伊藤真澄、ミト、松井洋平による音楽ユニット。
+5.  CDの分売はなく、デジタル配信だと1曲単位で買えるメリットがある。
+6.
+7.  音楽配信サイトのものは既に修正済み。
+8.
+9.  伊藤真澄、ミト、松井洋平による音楽ユニット。

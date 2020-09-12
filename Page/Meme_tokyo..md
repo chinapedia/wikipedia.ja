@@ -1,36 +1,37 @@
 > この記事は[Meme tokyo.](https://ja.wikipedia.org/wiki/Meme_tokyo.)から翻訳されています。
 
 
-**meme tokyo.**（みーむとうきょう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。マネージメントは[株式会社ディアステージ](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")、レーベルは[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")傘下のMEME TOKYO。
+**meme tokyo.**（みーむ とうきょう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[マネージメント](https://ja.wikipedia.org/wiki/マネージメント "wikilink")は[株式会社ディアステージ](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")、[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")傘下のMEME TOKYO。
 
 ## 概要
 
-でんぱ組虹コンJr.メンバー募集オーディションにより[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")のジュニアユニットとして結成。純粋なオーディション結果としては**SOLI**と**KOROMO**の2人しか合格者が出なかったため、前事務所[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")を辞め、[FA宣言](https://ja.wikipedia.org/wiki/FA宣言 "wikilink")中だった**MEW**（元[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")ミュークラブ）と[店舗出身の](https://ja.wikipedia.org/wiki/秋葉原ディアステージ "wikilink")**ASUKA**（小倉あすか）、**RITO**（天沢璃人）を加えた5人体制で活動をスタート。
+[でんぱ組](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")[虹コン](https://ja.wikipedia.org/wiki/虹のコンキスタドール "wikilink")[Jr.](https://ja.wikipedia.org/wiki/Jr. "wikilink")[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")[募集](https://ja.wikipedia.org/wiki/募集 "wikilink")[オーディション](../Page/オーディション.md "wikilink")により[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")の[ジュニア](../Page/ジュニア.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")として結成。純粋なオーディション結果としては**SOLI**と**KOROMO**の2人しか合格者が出なかったため、第2期[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")解散後[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")から[FA宣言](https://ja.wikipedia.org/wiki/FA宣言 "wikilink")中だった**MEW**（ミュークラブ）と[秋葉原ディアステージ](https://ja.wikipedia.org/wiki/秋葉原ディアステージ "wikilink")出身の**ASUKA**（小倉あすか）、**RITO**（天沢璃人）を加えた5人体制で活動をスタート\[1\]。
 
-現在は学業の為活動休止中の**SOLI**に代わり、でんぱ組.inc[鹿目凛](https://ja.wikipedia.org/wiki/鹿目凛 "wikilink")が期間限定サポートメンバー**PERO**として活動中。
+**SOLI**は[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")在住のため[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")等に参加しながらも、日本国内での[ライブ](../Page/ライブ.md "wikilink")活動は**MEW**、**ASUKA**、**RITO**、**KOROMO**の4人で行なっている\[2\]。
 
-ライブではオリジナル楽曲とでんぱ組.incの楽曲をアレンジしてカバーしている。
+ライブでは[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")楽曲とでんぱ組.incの楽曲を[アレンジ](https://ja.wikipedia.org/wiki/アレンジ "wikilink")して[カバー](../Page/カバー.md "wikilink")している。
 
 ## 沿革
 
 ### 2019年
 
-  - 7月31日 - 「DEARSTAGE新人ユニットお披露目LIVE」でお披露目\[1\]。
-  - 10月5日 - **SOLI**が学業専念のためライブ活動休止、でんぱ組.incの鹿目凛が期間限定サポートメンバー**PERO**として加入することを発表。
-  - 10月11日 - 『でんでんぱっしょん』を配信リリース。
-  - 12月17日 - 『メランコリックサーカス』のミュージックビデオを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に公開。
-  - 12月25日 - 1stシングル『メランコリックサーカス』発売。
+  - 7月31日 - 「DEARSTAGE新人ユニットお披露目LIVE」でお披露目\[3\]。
+  - 10月5日 - **SOLI**が学業専念のためライブ活動休止、でんぱ組.incの鹿目凛が期間限定サポートメンバー**PERO**として加入することを発表\[4\]。
+  - 10月11日 - 『でんでんぱっしょん』を配信リリース\[5\]。
+  - 12月17日 - 『メランコリックサーカス』のミュージックビデオを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に公開\[6\]。
+  - 12月25日 - 1stシングル『メランコリックサーカス』発売\[7\]。
 
 ### 2020年
 
-  - 2月16日 - 3月22日の1stワンマンライブをもって**PERO**がサポート期間を終了することを発表。
-  - 3月6日 - 『レトロフューチャー』のミュージックビデオをYouTubeに公開。
-  - 3月15日 - 新型コロナウイルスの影響により1stワンマンライブの開催を延期を発表。**PERO**のサポート期間は延長された。
-  - 3月18日 - 2ndシングル『レトロフューチャー』発売。
-  - 3月22日 - 1thワンマンライブの延期を受けてYouTubeにを公開。
-  - 5月15日 - 『モラトリアムアクアリウム』のライブ映像をYouTubeに公開。
-  - 5月21日 - 1stワンマンライブの延期公演の中止を発表。
-  - 5月23日 - 1stワンマンライブの中止を受けて有料配信ライブを開催することを発表。この公演をもって**PERO**のサポート期間を終了する。
+  - 2月16日 - Official Fanclub開設\[8\]。
+  - 3月6日 - 『レトロフューチャー』のミュージックビデオをYouTubeに公開\[9\]。
+  - 3月18日 - 2ndシングル『レトロフューチャー』発売\[10\]。
+  - 5月15日 - 『モラトリアムアクアリウム』のライブ映像をYouTubeに公開\[11\]。
+  - 6月2日 - 1stワンマンライブの中止を受けて有料配信ライブ『MEMETIC ALGORHYTHM ONLINE』を開催。**PERO**のサポート期間が終了し、**SOLI**が復帰\[12\]。
+  - 6月19日 - **KOROMO**が[ミスiD](https://ja.wikipedia.org/wiki/ミスiD "wikilink")2021に応募\[13\]。
+  - 6月21日 - **MEW**が新プロジェクト「[ヒルネ逃避行](https://ja.wikipedia.org/wiki/ヒルネ逃避行 "wikilink")」を結成\[14\]。『さめのうた』、『神様みたいな暇つぶし』のライブ映像をYouTubeに公開。
+  - 7月24日 - 『モラトリアムアクアリウム』のミュージックビデオをYouTubeに公開。
+  - 7月29日 - 3rdシングル『モラトリアムアクアリウム』発売
 
 ## メンバー
 
@@ -40,56 +41,66 @@
 <th><p>名前</p></th>
 <th><p>担当色</p></th>
 <th><p>誕生日</p></th>
+<th><p>出身</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong>MEW</strong><br />
-<small>みゅー</small></p></td>
+（みゅー）</p></td>
 <td><p>白</p></td>
 <td></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a>（<a href="https://ja.wikipedia.org/wiki/ミュークラブ" title="wikilink">ミュークラブ</a>）</p></td>
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p>元 <strong><a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a></strong>（<a href="https://ja.wikipedia.org/wiki/ミュークラブ" title="wikilink">ミュークラブ</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/ヒルネ逃避行" title="wikilink">ヒルネ逃避行</a>のギターボーカル</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>ASUKA</strong><br />
-<small>あすか</small></p></td>
+（あすか）</p></td>
 <td><p>ピンク</p></td>
 <td></td>
-<td><p>ディアガール（小倉あすか）</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋葉原ディアステージ#在籍する主な人物" title="wikilink">ディアガール</a>（小倉あすか）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>RITO</strong><br />
-<small>りと</small></p></td>
+（りと）</p></td>
 <td><p>青</p></td>
 <td></td>
-<td><p>ディアボーイ（天沢璃人）</p></td>
+<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋葉原ディアステージ#在籍する主な人物" title="wikilink">ディアボーイ</a>（天沢璃人）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>KOROMO</strong><br />
-<small>ころも</small></p></td>
+（ころも）</p></td>
 <td><p>緑</p></td>
 <td></td>
-<td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者<br />
+<a href="https://ja.wikipedia.org/wiki/ミスiD2021" title="wikilink">ミスiD2021</a>に応募</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>SOLI</strong><br />
-<small>そり</small></p></td>
+（そり）</p></td>
 <td><p>黄色</p></td>
-<td><p><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
-<td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者<br />
-元RARE STAGE（そりちゃん）学業の為活動休止中</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>PERO</strong><br />
-<small>ぺろ</small></p></td>
-<td><p>たまご色</p></td>
 <td></td>
-<td><p>期間限定サポートメンバー<br />
-<a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a>（<a href="https://ja.wikipedia.org/wiki/鹿目凛" title="wikilink">鹿目凛</a>）と兼任</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/韓国" title="wikilink">韓国</a></p></td>
+<td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者<br />
+元 <strong>RARE STAGE</strong>（そりちゃん）<br />
+韓国在住の為日本でのライブ活動には不参加</p></td>
 </tr>
 </tbody>
 </table>
+
+**旧メンバー**
+
+  - **PERO**（[鹿目凛](https://ja.wikipedia.org/wiki/鹿目凛 "wikilink")）
+
+<!-- end list -->
+
+  -
+    たまご色担当。**SOLI**が学業の為活動を休止していた2019年10月6日から2020年6月2日まで期間限定サポートメンバーとして[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")と兼任して活動していた。
 
 ## 作品
 
@@ -101,8 +112,9 @@
 <th><p>#</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
+<th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
-<th><p>規格品番・備考</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -110,7 +122,8 @@
 <td><p>1</p></td>
 <td><p><strong>でんでんぱっしょん</strong></p></td>
 <td><p>2019年10月11日</p></td>
-<td><div class="NavFrame">
+<td><p>TFDS-00564</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="font-weight:normal">
 <p>全1曲</p>
 </div>
@@ -126,13 +139,14 @@
 <td><p>2</p></td>
 <td><p><strong>メランコリックサーカス</strong></p></td>
 <td><p>2019年12月25日</p></td>
-<td><div class="NavFrame">
+<td><p>PPTF-8125</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="font-weight:normal">
 <p>全6曲</p>
 </div>
 <div class="NavContent" style="text-align:left">
 <ol>
-<li></li>
+<li>メランコリックサーカス</li>
 <li>でんでんぱっしょん</li>
 <li>バリ3共和国</li>
 <li>メランコリックサーカス(inst)</li>
@@ -141,19 +155,20 @@
 </ol>
 </div>
 </div></td>
-<td><p>PPTF-8125</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><strong>レトロフューチャー</strong></p></td>
 <td><p>2020年3月18日</p></td>
-<td><div class="NavFrame">
+<td><p>TFCP-89679</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="font-weight:normal">
 <p>全6曲</p>
 </div>
 <div class="NavContent" style="text-align:left">
 <ol>
-<li></li>
+<li>レトロフューチャー</li>
 <li>でんぱれーどJAPAN</li>
 <li>ブランニューワールド</li>
 <li>レトロフューチャー(inst)</li>
@@ -162,7 +177,29 @@
 </ol>
 </div>
 </div></td>
-<td><p>TFCP-89679</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><strong>モラトリアムアクアリウム</strong></p></td>
+<td><p>2020年7月29日</p></td>
+<td><p>TFCP-89682</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="font-weight:normal">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>モラトリアムアクアリウム</li>
+<li>リアリティ・ウォー</li>
+<li>スーサイド ボーダレス</li>
+<li>モラトリアムアクアリウム(inst)</li>
+<li>リアリティ・ウォー(inst)</li>
+<li>スーサイド ボーダレス(inst)</li>
+</ol>
+</div>
+</div></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -171,182 +208,28 @@
 
 ### 単独公演
 
-#### 2019年
-
-| 公演名                     | 公演日       | 会場              | 備考 |
-| ----------------------- | --------- | --------------- | -- |
-| トークイベント                 | 9月27日     | ヴィレッジヴァンガード渋谷本店 |    |
-| ミニライブイベント               | 10月11日    |                 |    |
-| Halloweenコスイベント         | 10月25日    |                 |    |
-| インストアイベント               | 11月8日     |                 |    |
-| インストアイベント               | 11月22日    |                 |    |
-| 「メランコリックサーカス」リリース記念イベント | 12月17日    |                 |    |
-| 12月27日                  |           |                 |    |
-| 12月28日                  | 表参道GROUND |                 |    |
-
-#### 2020年
-
-| 公演名                                  | 公演日                | 会場              | 備考                                                                  |
-| ------------------------------------ | ------------------ | --------------- | ------------------------------------------------------------------- |
-| 「メランコリックサーカス」リリース記念イベント              | 1月12日              | ヴィレッジヴァンガード渋谷本店 |                                                                     |
-| 「レトロフューチャー」リリース記念イベント                | 3月17日              | タワーレコード錦糸町店     | 新型コロナウイルスの影響により中止                                                   |
-| 3月18日                                | HMV\&BOOKS SHIBUYA |                 |                                                                     |
-| 3月19日                                | タワーレコード新宿店         |                 |                                                                     |
-| 3月20日                                | タワーレコード池袋店         |                 |                                                                     |
-| ヴィレッジヴァンガード渋谷本店                      |                    |                 |                                                                     |
-| 1st ONE-MAN LIVE "MEMETIC ALGORITHM" | 3月22日              | 渋谷WWWX          | 新型コロナウイルスの影響により6月2日に延期                                              |
-| 「レトロフューチャー」リリース記念イベント                | 3月28日              | タワーレコード新宿店      | 新型コロナウイルスの影響により中止                                                   |
-| MEMETIC ALGORITHM ONLIINE            | 6月2日               | 渋谷WWW           | 『1st ONE-MAN LIVE "MEMETIC ALGORITHM"』の振替公演だったが中止となったため有料生配信ライブとなった |
+| 公演名                                  | 公演日        | 会場     | 備考                                                                  |
+| ------------------------------------ | ---------- | ------ | ------------------------------------------------------------------- |
+| 1st ONE-MAN LIVE "MEMETIC ALGORITHM" | 2020年3月22日 | 渋谷WWWX | 新型コロナウイルスの影響により6月2日に延期                                              |
+| MEMETIC ALGORITHM ONLIINE            | 2020年6月2日  | 渋谷WWW  | 『1st ONE-MAN LIVE "MEMETIC ALGORITHM"』の振替公演だったが中止となったため有料生配信ライブとなった |
 
 ### イベント出演
 
-#### 2019年
-
-| 公演名                                                                                 | 公演日    | 会場                 | 備考              |
-| ----------------------------------------------------------------------------------- | ------ | ------------------ | --------------- |
-| DEARSTAGE新人ユニットお披露目LIVE                                                             | 7月31日  | 渋谷WWWX             |                 |
-| [TOKYO IDOL FESTIVAL](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") | 8月3日   |                    |                 |
-| iCON DOLL LOUNGE 2019 Autumn Collection                                             | 10月6日  | 神田明神ホール            |                 |
-| LAVILITH 音楽祭儀「Music Magi」 3rd coven                                                 | 10月22日 | 新宿ReNY             |                 |
-| \#DSPM 文化祭                                                                          | 11月4日  | 白金高輪SELENE b2      |                 |
-| でんぱ組.inc 幕張ジャンボリーコンサート                                                              | 12月7日  | 幕張メッセ展示2・3ホール      |                 |
-| 12月8日                                                                               |        |                    |                 |
-| MAD TUESDAY！                                                                        | 12月10日 | 渋谷Glad             |                 |
-| iCON DOLL LOUNGE 2019 Winter Collection                                             | 12月21日 | duo MUSIC EXCHANGE |                 |
-| 『甘いジンジャーブレッド』                                                                       | 12月24日 | 渋谷Glad             |                 |
-| 聖なる☆ディアステージ vol.2                                                                   | 12月25日 | 横浜赤レンガ倉庫 1号館       |                 |
-| でんぱ組.inc presents 大忘年会2019                                                          |        | 12月30日             | 新木場STUDIO COAST |
-
-#### 2020年
-
-<table>
-<thead>
-<tr class="header">
-<th><p>公演名</p></th>
-<th><p>公演日</p></th>
-<th><p>会場</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>秋葉原ディアステージワンマンライブ</p></td>
-<td><p>1月13日</p></td>
-<td><p>川崎Club Citta</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>ぱりぱりぱーりー</p></td>
-<td><p>1月18日</p></td>
-<td><p>SHIBUYA REX</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>ASUKA生誕祭</p></td>
-<td><p>1月26日</p></td>
-<td><p>秋葉原DS</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>ENGAG.ING presents『君が今食べてるチョコ、何が入っていると思う？？』</p></td>
-<td><p>2月14日</p></td>
-<td><p>EXシアター</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DDD~Discovery iDol Depot~</p></td>
-<td><p>2月16日</p></td>
-<td><p>白金高輪SELENE b2</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>#DSPM LIVE</p></td>
-<td><p>2月22日</p></td>
-<td><p>神田明神ホール</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>MARQUEE祭 Vol.53</p></td>
-<td><p>3月5日</p></td>
-<td><p>O-EAST</p></td>
-<td><p>新型コロナウイルスの影響により出演キャンセル</p></td>
-</tr>
-<tr class="even">
-<td><p>グーグールル藤宮コマチ生誕『18→22』</p></td>
-<td><p>3月7日</p></td>
-<td><p>代官山UNIT</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>@ JAM PARTY vol.48</p></td>
-<td><p>3月8日</p></td>
-<td><p>AKIBAカルチャーズ劇場</p></td>
-<td><p>新型コロナウイルスの影響により中止</p></td>
-</tr>
-<tr class="even">
-<td><p>IDORISE</p></td>
-<td><p>FESTIVAL 2020</p></td>
-<td><p>3月14日</p></td>
-<td><p>O-WEST</p></td>
-</tr>
-<tr class="odd">
-<td><p>#DSPM STREAM FESTIVAL</p></td>
-<td><p>3月28日</p></td>
-<td></td>
-<td><p>LINE LIVEで配信</p></td>
-</tr>
-<tr class="even">
-<td><p>BYOB 2</p></td>
-<td><p>4月1日</p></td>
-<td><p>O-nest</p></td>
-<td><p>新型コロナウイルスの影響により中止</p></td>
-</tr>
-<tr class="odd">
-<td><p>#こばとりあ生誕2020</p></td>
-<td><p>4月4日</p></td>
-<td><p>高円寺HIGH</p></td>
-<td><p>新型コロナウイルスの影響により延期</p></td>
-</tr>
-<tr class="even">
-<td><p>INNOCENCE 01</p></td>
-<td><p>4月8日</p></td>
-<td><p>新宿ReNY</p></td>
-<td><p>新型コロナウイルスの影響により中止</p></td>
-</tr>
-<tr class="odd">
-<td><p>ペリ・ウブSPECIAL LIVE</p></td>
-<td><p>4月10日</p></td>
-<td><p>club asia</p></td>
-<td><p>新型コロナウイルスの影響により中止</p></td>
-</tr>
-<tr class="even">
-<td><p>でんぱ組.inc 『THE FAMILY TOUR 2020』</p></td>
-<td><p>5月4日</p></td>
-<td><p>Zepp Nagoya</p></td>
-<td><p>オープニングアクト<br />
-新型コロナウイルスの影響により中止</p></td>
-</tr>
-<tr class="odd">
-<td><p>5月5日</p></td>
-<td><p>Zepp Osaka Bayside</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>MAWA LOOP OSAKA 2020</p></td>
-<td><p>5月6日</p></td>
-<td></td>
-<td><p>新型コロナウイルスの影響により中止</p></td>
-</tr>
-<tr class="odd">
-<td><p>でんぱ組.inc 『THE FAMILY TOUR 2020』</p></td>
-<td><p>5月15日</p></td>
-<td><p>Zepp DiverCity</p></td>
-<td><p>オープニングアクト<br />
-新型コロナウイルスの影響により中止</p></td>
-</tr>
-</tbody>
-</table>
+| 公演名                                         | 公演日         | 会場            | 備考              |
+| ------------------------------------------- | ----------- | ------------- | --------------- |
+| DEARSTAGE新人ユニットお披露目LIVE                     | 2019年7月31日  | 渋谷WWWX        |                 |
+| LAVILITH 音楽祭儀「Music Magi」 3rd coven         | 2019年10月22日 | 新宿ReNY        |                 |
+| \#DSPM 文化祭                                  | 2019年11月4日  | 白金高輪SELENE b2 |                 |
+| でんぱ組.inc 幕張ジャンボリーコンサート                      | 2019年12月7日  | 幕張メッセ展示2・3ホール |                 |
+| 2019年12月8日                                  |             |               |                 |
+| 聖なる☆ディアステージ vol.2                           | 2019年12月25日 | 横浜赤レンガ倉庫 1号館  |                 |
+| でんぱ組.inc presents 大忘年会2019                  |             | 2019年12月30日   | 新木場STUDIO COAST |
+| 秋葉原ディアステージワンマンライブ                           | 2020年1月13日  | 川崎Club Citta  |                 |
+| ASUKA生誕祭                                    | 2020年1月26日  | 秋葉原DS         |                 |
+| ENGAG.ING presents『君が今食べてるチョコ、何が入っていると思う？？』 | 2020年2月14日  | EXシアター        |                 |
+| \#DSPM LIVE                                 | 2020年2月22日  | 神田明神ホール       |                 |
+| \#DSPM STREAM FESTIVAL                      | 2020年3月28日  |               | LINE LIVEにて配信   |
+| でんぱ組.inc「THE FAMILY TOUR 2020 ONLINE 〜夏祭り編  | 〜」          | 2020年7月30日    |                 |
 
 ## 脚注
 
@@ -354,13 +237,19 @@
 
   - [meme tokyo.公式ウェブサイト](https://www.memetokyo.com/)
 
-  -   -
+  - Twitter
+
       -
       -
       -
       -
       -
-  -   -
+      -
+      -
+  - Instagram
+
+      -
+      -
       -
       -
       -
@@ -369,6 +258,19 @@
   -
   - [meme tokyo.](https://live.line.me/channels/4401382) - [LINE LIVE](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 
 1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.

@@ -35,7 +35,7 @@
 
 ### 出典
 
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:スロバキアの路面電車車両](https://ja.wikipedia.org/wiki/Category:スロバキアの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:スロバキアの路面電車車両](https://ja.wikipedia.org/wiki/Category:スロバキアの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:クルィヴィーイ・リーフ市電](https://ja.wikipedia.org/wiki/Category:クルィヴィーイ・リーフ市電 "wikilink")
 
 1.
 2.

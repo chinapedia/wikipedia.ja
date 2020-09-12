@@ -11,21 +11,25 @@
 
 ### CD
 
+  - 全作曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#5, \#6除く） / プロデュース：寺岡呼人
+
+<!-- end list -->
+
 1.  **流星** \[5:06\]
-      - 作詞：[寺岡呼人](../Page/寺岡呼人.md "wikilink")・[山田ひろし](../Page/山田ひろし.md "wikilink") / 作曲・編曲：寺岡呼人
+      - 作詞：寺岡呼人・[山田ひろし](../Page/山田ひろし.md "wikilink") / 編曲：寺岡呼人
     <!-- end list -->
       -
         ドラムは[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[鈴木英哉](../Page/鈴木英哉.md "wikilink")が演奏している。
 2.  **BLOOD, SWEAT & LOVE** \[5:14\]
-      - 作詞：寺岡呼人・山田ひろし / 作曲・編曲：寺岡呼人
+      - 作詞：寺岡呼人・山田ひろし / 編曲：寺岡呼人
     <!-- end list -->
       -
         同じくドラムは鈴木が演奏している。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作された。監督は牧田裕也。
 3.  **バックミラー** \[5:00\]
-      - 作詞・作曲・編曲：寺岡呼人
+      - 作詞・編曲：寺岡呼人
 4.  **[バトン](../Page/バトン_\(寺岡呼人の曲\).md "wikilink")** \[6:06\]
-      - 作詞：寺岡呼人・[桜井和寿](../Page/桜井和寿.md "wikilink") / 作曲・編曲：寺岡呼人
+      - 作詞：寺岡呼人・[桜井和寿](../Page/桜井和寿.md "wikilink") / 編曲：寺岡呼人
     <!-- end list -->
       -
         ライブ会場限定シングル。
@@ -34,36 +38,27 @@
 6.  **Japan As No.1\!\!** \[4:38\]
       - 作詞：山田ひろし / 作曲・編曲：[多保孝一](https://ja.wikipedia.org/wiki/多保孝一 "wikilink")
 7.  **青山通り** \[5:50\]
-      - 作詞・作曲：寺岡呼人 / 編曲：寺岡呼人・[鈴木 “Daichi” 秀行](../Page/鈴木Daichi秀行.md "wikilink")
+      - 作詞：寺岡呼人 / 編曲：寺岡呼人・[鈴木 "Daichi" 秀行](../Page/鈴木Daichi秀行.md "wikilink")
 8.  **Gear ～歯車～** \[4:45\]
-      - 作詞：寺岡呼人・山田ひろし / 作曲：寺岡呼人 / 編曲：寺岡呼人・PABLO
+      - 作詞：寺岡呼人・山田ひろし / 編曲：寺岡呼人・PABLO
 9.  **天職** \[2:56\]
-      - 作詞・作曲・編曲：寺岡呼人
+      - 作詞・編曲：寺岡呼人
 10. **スマイル** \[4:53\]
-      - 作詞・作曲・編曲：寺岡呼人
+      - 作詞・編曲：寺岡呼人
     <!-- end list -->
       -
         ライブ会場限定シングル。
 11. **ご贔屓に** \[6:08\]
-      - 作詞・作曲・編曲：寺岡呼人
+      - 作詞・編曲：寺岡呼人
 
 ### 初回限定盤付属DVD
 
-  -
-    Music Video
-
-<!-- end list -->
+#### Music Video
 
 1.  **バトン**
 2.  **BLOOD, SWEAT & LOVE**
 
-<!-- end list -->
-
-  -
-
-    2012.2.8 「MASTER PIECE」@[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")
-
-<!-- end list -->
+#### 2012.2.8 「MASTER PIECE」@[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")
 
 1.  **[ブランニュージェネレーション](https://ja.wikipedia.org/wiki/ブランニュージェネレーション "wikilink")**
 2.  **[{{Ruby](../Page/競争る為にだけ生まれてきた訳じゃねぇ.md "wikilink")**
@@ -89,7 +84,7 @@
   - [山口隆志](https://ja.wikipedia.org/wiki/山口隆志 "wikilink")：Electric Guitar (\#6)
   - PABLO：Electric Guitar (\#8), Keyboards (\#8)
   - [浜崎快声](https://ja.wikipedia.org/wiki/Be.#メンバー "wikilink")：Electric Sitar (\#3)
-  - 髙田蓮：Steel Guitar (\#11)
+  - [高田漣](../Page/高田漣.md "wikilink")：Steel Guitar (\#11)
   - [森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")：Keyboards (\#5, \#7)
   - [伊東ミキオ](https://ja.wikipedia.org/wiki/GROUND_NUTS#メンバー "wikilink")：Piano (\#6)
   - [三沢またろう](../Page/三沢またろう.md "wikilink")：Percussion (\#3, \#6, \#11)

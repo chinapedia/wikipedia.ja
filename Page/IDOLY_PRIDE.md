@@ -20,7 +20,7 @@
   -
     声 - 夏目ここな\[6\]
   -
-    声 - 佐々木奈緒\[7\]
+    声 - [佐々木奈緒](https://ja.wikipedia.org/wiki/佐々木奈緒 "wikilink")\[7\]
   -
     声 - 宮沢小春\[8\]
   -
@@ -59,7 +59,7 @@
 
 ## テレビアニメ
 
-2019年12月9日の第1回公式生放送にて、本作品のテレビアニメ化が発表された\[21\]。2021年冬より放送予定。
+2019年12月9日の第1回公式生放送にて、本作品のテレビアニメ化が発表された\[21\]。2021年1月より放送予定\[22\]。
 
 ### スタッフ
 
@@ -74,14 +74,14 @@
 
 ## 漫画
 
-コミカライズ版が『コミックNewtype』にて連載予定。
+『**IDOLY PRIDE Stage of Asterism**』のタイトルで『コミックNewtype』にて連載中。
 
 ## イベント
 
 | 開催日            | タイトル                                              | 会場                                                                                                      | 備考                                                                  |
 | -------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2020年2月9日      | ワンダーフェスティバル2020［冬］IDOLY PRIDE スペシャルステージ\[22\]     | 幕張メッセ 国際展示場 ホール1                                                                                        | WONDERFUL HOBBY LIFE FOR YOU                                        |
-| ~~2020年5月10日~~ | ~~IDOLY PRIDE - VENUS STAGE / BEGINNING -\[23\]~~ | ~~[舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")（[千葉県](../Page/千葉県.md "wikilink")）~~ | 新型コロナウイルス感染症に関連する日本政府からの緊急事態宣言の発令対象地域に開催地が含まれた為、イベント中止が発表された\[24\]。 |
+| 2020年2月9日      | ワンダーフェスティバル2020［冬］IDOLY PRIDE スペシャルステージ\[23\]     | 幕張メッセ 国際展示場 ホール1                                                                                        | WONDERFUL HOBBY LIFE FOR YOU                                        |
+| ~~2020年5月10日~~ | ~~IDOLY PRIDE - VENUS STAGE / BEGINNING -\[24\]~~ | ~~[舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")（[千葉県](../Page/千葉県.md "wikilink")）~~ | 新型コロナウイルス感染症に関連する日本政府からの緊急事態宣言の発令対象地域に開催地が含まれた為、イベント中止が発表された\[25\]。 |
 
 ## 出典
 
@@ -94,7 +94,7 @@
   -
   - [「IDOLY PRIDE」公式チャンネル](https://m.youtube.com/channel/UCOuzrlRFF7aSkooORw0XWRA) - YouTube
 
-[Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2021年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2021年のテレビアニメ "wikilink") [Category:スタジオ雲雀](https://ja.wikipedia.org/wiki/Category:スタジオ雲雀 "wikilink") [Category:サイバーエージェントのアニメ作品](https://ja.wikipedia.org/wiki/Category:サイバーエージェントのアニメ作品 "wikilink") [Category:ミュージックレインの映像作品](https://ja.wikipedia.org/wiki/Category:ミュージックレインの映像作品 "wikilink") [Category:アイドルを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたアニメ作品 "wikilink") [Category:ウェブコミック配信サイト掲載漫画作品](https://ja.wikipedia.org/wiki/Category:ウェブコミック配信サイト掲載漫画作品 "wikilink") [Category:角川書店の漫画](https://ja.wikipedia.org/wiki/Category:角川書店の漫画 "wikilink") [Category:アイドルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした漫画作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2021年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2021年のテレビアニメ "wikilink") [Category:スタジオ雲雀](https://ja.wikipedia.org/wiki/Category:スタジオ雲雀 "wikilink") [Category:サイバーエージェントのアニメ作品](https://ja.wikipedia.org/wiki/Category:サイバーエージェントのアニメ作品 "wikilink") [Category:ミュージックレインの映像作品](https://ja.wikipedia.org/wiki/Category:ミュージックレインの映像作品 "wikilink") [Category:アイドルを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたアニメ作品 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:ウェブコミック配信サイト掲載漫画作品](https://ja.wikipedia.org/wiki/Category:ウェブコミック配信サイト掲載漫画作品 "wikilink") [Category:角川書店の漫画](https://ja.wikipedia.org/wiki/Category:角川書店の漫画 "wikilink") [Category:アイドルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした漫画作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.
@@ -120,3 +120,4 @@
 22.
 23.
 24.
+25.

@@ -1,7 +1,7 @@
 > この記事は[コスメティック・ウォー わたしたちがBOOSよ!](https://ja.wikipedia.org/wiki/コスメティック・ウォー_わたしたちがBOOSよ!)から翻訳されています。
 
 
-『**コスメティック・ウォー わたしたちがBOOSよ\!**』（原題:*Like a Boss*）は[2020年](../Page/2020年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コメディ映画](../Page/コメディ映画.md "wikilink")である。監督は[ミゲル・アルテタ](https://ja.wikipedia.org/wiki/ミゲル・アルテタ "wikilink")、主演は[ティファニー・ハディッシュ](https://ja.wikipedia.org/wiki/ティファニー・ハディッシュ "wikilink")と[ローズ・バーン](../Page/ローズ・バーン.md "wikilink")が務めた。本作は日本国内で劇場公開されなかったが、2020年4月22日に[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")で配信される予定である\[1\]。
+『**コスメティック・ウォー わたしたちがBOOSよ\!**』（原題:*Like a Boss*）は[2020年](../Page/2020年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コメディ映画](../Page/コメディ映画.md "wikilink")である。監督は[ミゲル・アルテタ](https://ja.wikipedia.org/wiki/ミゲル・アルテタ "wikilink")、主演は[ティファニー・ハディッシュ](https://ja.wikipedia.org/wiki/ティファニー・ハディッシュ "wikilink")と[ローズ・バーン](../Page/ローズ・バーン.md "wikilink")が務めた。本作は日本国内で劇場公開されなかったが、2020年4月22日に[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")で配信された\[1\]。
 
 ## 概略
 
@@ -40,7 +40,7 @@
 
 ## 興行収入
 
-本作は『*[Underwater](../Page/アンダーウォーター.md "wikilink")*』と同じ週に封切られ、公開初週末に1300万ドル前後を稼ぎ出すと予想されていたが\[14\]、実際の数字はそれを下回るものとなった。2020年1月10日、本作は全米3078館で公開され、公開初週末に1001万ドルを稼ぎ出し、週末興行収入ランキング初登場4位となった\[15\]。
+本作は『[アンダーウォーター](../Page/アンダーウォーター.md "wikilink")』と同じ週に封切られ、公開初週末に1300万ドル前後を稼ぎ出すと予想されていたが\[14\]、実際の数字はそれを下回るものとなった。2020年1月10日、本作は全米3078館で公開され、公開初週末に1001万ドルを稼ぎ出し、週末興行収入ランキング初登場4位となった\[15\]。
 
 ## 評価
 

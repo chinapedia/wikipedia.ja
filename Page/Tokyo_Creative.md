@@ -1,9 +1,9 @@
 > この記事は[Tokyo Creative](https://ja.wikipedia.org/wiki/Tokyo_Creative)から翻訳されています。
 
 
-**Tokyo Creative株式会社**（とうきょうクリエイティブ）は、インターネットに特化した訪日外国人（[インバウンド](../Page/インバウンド.md "wikilink")）向けのコンテンツ企画制作（[デジタル](../Page/デジタル.md "wikilink")[マーケティング](../Page/マーケティング.md "wikilink")、プロモーション）および[タレント](../Page/タレント.md "wikilink")マネジメントなどを行う日本の企業である。
+**Tokyo Creative株式会社**（トウキョウクリエイティブ）は、[インバウンド](../Page/インバウンド.md "wikilink")向けのコンテンツ企画制作、コンサルティングサービス（[デジタル](../Page/デジタル.md "wikilink")[マーケティング](../Page/マーケティング.md "wikilink")、プロモーション）および[タレント](../Page/タレント.md "wikilink")マネジメントなどを行う日本の企業である。
 
-社員の70%以上が外国籍であり、主に欧米豪向けの[インフルエンサー](https://ja.wikipedia.org/wiki/インフルエンサー "wikilink")が多く所属している。
+社員の50%以上が外国籍であり、主に欧米豪向けの[インフルエンサー](https://ja.wikipedia.org/wiki/インフルエンサー "wikilink")が多く所属している。
 
 ## 主な事業
 
@@ -11,9 +11,13 @@
 
 日本在住の主に英語話者のYouTuberを中心としたインフルエンサーマネジメント事業。所属タレント数は20名、所属タレントへのフォロワー数は合計1700万人以上、YouTubeの再生回数は16億回以上である。
 
+### デジタルマーケティング事業
+
+企業・自治体向けに訪日外国人集客の戦略策定から実行までを支援。導入クライアントは100件以上の実績を持つ。
+
 ### 訪日インバウンドメディア
 
-三言語（英語・繁体語・簡体語）で47都道府県の旅に関連した記事を執筆するサービス事業。
+英語・繁体語で47都道府県の旅に関連した記事を執筆するサービス事業。
 
 ### 教育プラットフォーム
 
@@ -23,12 +27,12 @@
 
 ### 代表取締役
 
-  - 髙橋大介
+  - 小野沢 隆
 
 ### YouTuber
 
   - [Abroad In Japan](https://ja.wikipedia.org/wiki/Abroad_in_Japan "wikilink")
-  - AkiDearest
+  - akidearest
   - Tokidoki Traveller
   - [Sharmander](../Page/Sharla.md "wikilink")
   - [Dogen](../Page/Dogen.md "wikilink")
@@ -64,8 +68,9 @@
 
 ### その他
 
-  - ロウしおり（最高執行責任者）\[2\]
-  - 中川智博（事業開発部部長）
+  - 中川智博（COO）
+  - ロウしおり（CCO）\[2\]
+  - Ian Rudd（CTO）
 
 ## 過去の所属者
 

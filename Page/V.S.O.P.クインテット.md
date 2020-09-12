@@ -22,7 +22,7 @@ V.S.O.P.クインテットは、本質的にはライブ・バンドであった
 
 ## 参考
 
-  - 『[ニューポートの追憶](https://ja.wikipedia.org/wiki/ニューポートの追憶 "wikilink")』 - *'V.S.O.P.* (1977年、Columbia) ※[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")のライブ・アルバム
+  - 『[ニューポートの追憶](https://ja.wikipedia.org/wiki/ニューポートの追憶 "wikilink")』 - *V.S.O.P.* (1977年、Columbia) ※[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")のライブ・アルバム
 
 ## 脚注
 

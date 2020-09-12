@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-[Category:オランダの路面電車車両](https://ja.wikipedia.org/wiki/Category:オランダの路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:1981年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1981年製の鉄道車両 "wikilink")
+[Category:オランダの路面電車車両](https://ja.wikipedia.org/wiki/Category:オランダの路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:1981年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1981年製の鉄道車両 "wikilink")
 
 1.
 2.

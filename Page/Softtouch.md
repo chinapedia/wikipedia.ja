@@ -1,7 +1,7 @@
 > この記事は[Softtouch](https://ja.wikipedia.org/wiki/Softtouch)から翻訳されています。
 
 
-**SOFTTOUCH**（**ソフトタッチ**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[昭和音楽大学](../Page/昭和音楽大学.md "wikilink")周辺の仲間を中心に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")で結成し、[2003年](../Page/2003年.md "wikilink")3月に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。[2016年](../Page/2016年.md "wikilink")9月に再始動。
+**SOFTTOUCH**（ソフトタッチ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[昭和音楽大学](../Page/昭和音楽大学.md "wikilink")周辺の仲間を中心に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")で結成し、[2003年](../Page/2003年.md "wikilink")3月に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。[2016年](../Page/2016年.md "wikilink")9月に再始動。
 
 ## メンバー
 

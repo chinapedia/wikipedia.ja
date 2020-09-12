@@ -328,7 +328,7 @@
   - [KKBOX](https://www.kkbox.com/jp/ja/artist/RQzJePTnE8GNPg0F0-YFx08K-index-1.html)
 
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:バップのアーティスト](https://ja.wikipedia.org/wiki/Category:バップのアーティスト "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・バンド "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:バップのアーティスト](https://ja.wikipedia.org/wiki/Category:バップのアーティスト "wikilink")
 
 1.
 2.

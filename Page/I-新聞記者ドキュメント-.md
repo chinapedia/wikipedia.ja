@@ -53,4 +53,4 @@
   - [i -新聞記者ドキュメント-](https://movie.jorudan.co.jp/cinema/38648/) - [映画の時間](https://ja.wikipedia.org/wiki/映画の時間 "wikilink")
 
   -
-[Category:2019年の映画](https://ja.wikipedia.org/wiki/Category:2019年の映画 "wikilink") [Category:日本のドキュメンタリー映画](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー映画 "wikilink") [Category:日本の新聞](https://ja.wikipedia.org/wiki/Category:日本の新聞 "wikilink")
+[Category:2019年の映画](https://ja.wikipedia.org/wiki/Category:2019年の映画 "wikilink") [Category:日本のドキュメンタリー映画](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー映画 "wikilink") [Category:ジャーナリズムを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ジャーナリズムを題材とした映画作品 "wikilink") [Category:日本の新聞](https://ja.wikipedia.org/wiki/Category:日本の新聞 "wikilink")

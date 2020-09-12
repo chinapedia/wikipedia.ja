@@ -18,7 +18,7 @@
 
 ## 脚注
 
-[Category:佐野元春が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:佐野元春が作詞作曲した楽曲 "wikilink") [Category:山下久美子の楽曲](https://ja.wikipedia.org/wiki/Category:山下久美子の楽曲 "wikilink") [Category:1981年の楽曲](https://ja.wikipedia.org/wiki/Category:1981年の楽曲 "wikilink") [Category:楽曲_そ](https://ja.wikipedia.org/wiki/Category:楽曲_そ "wikilink")
+[Category:佐野元春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐野元春が制作した楽曲 "wikilink") [Category:山下久美子の楽曲](https://ja.wikipedia.org/wiki/Category:山下久美子の楽曲 "wikilink") [Category:1981年の楽曲](https://ja.wikipedia.org/wiki/Category:1981年の楽曲 "wikilink") [Category:楽曲_そ](https://ja.wikipedia.org/wiki/Category:楽曲_そ "wikilink")
 
 1.
 2.

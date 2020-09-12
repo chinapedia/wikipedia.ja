@@ -64,6 +64,7 @@
       -
         [嵐への提供曲のセルフカバー](../Page/嵐_\(グループ\).md "wikilink")。嵐バージョンは[ABC](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")[夏の高校野球応援ソングとして制作され](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")、2018年7月に55枚目のシングルとしてリリースされた。すでに2019年の弾き語りドームツアー「ゆずのみ〜拍手喝祭〜」で弾き語りアレンジのセルフカバーが披露されていたが、音源としてはこれが初収録\[9\]。
         北川が嵐の[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")と飲んでいた時に「いつか嵐の曲を作れたらいいね」と話していたら、数ヶ月後に実際に楽曲提供が実現したという。
+        この曲は、ストリーミング配信は行っておらず、[サブスク](https://ja.wikipedia.org/wiki/サブスク "wikilink")等では配信されてはいない。（ダウンロード配信は行われている）
 11. **～Green Town～**
       - Arranged by : TeddyLoid
     <!-- end list -->

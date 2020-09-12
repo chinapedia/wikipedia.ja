@@ -61,8 +61,6 @@
 
 ## 脚注
 
-}}
-
 [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:Hey\!_Say\!_JUMPの楽曲](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMPの楽曲 "wikilink") [Category:テレビ朝日金曜ナイトドラマの主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日金曜ナイトドラマの主題歌 "wikilink")
 
 1.

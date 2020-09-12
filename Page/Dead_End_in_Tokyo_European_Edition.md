@@ -11,15 +11,19 @@
 
 ## 収録曲
 
+※M-7以降はライブ音源。
+
 1.  **Dog Days** \[4:14\]
       -
         作詞：Kamikaze Boy, Jean-Ken Johnny / 作曲：Kamikaze Boy / 編曲：MAN WITH A MISSION, [中野雅之](../Page/BOOM_BOOM_SATELLITES.md "wikilink")
     <!-- end list -->
+      - 新曲
       - [アサヒビール](../Page/アサヒビール.md "wikilink")「[アサヒドライゼロ](https://ja.wikipedia.org/wiki/アサヒドライゼロ "wikilink")」CMソング\[4\]
 2.  **[Dead End in Tokyo](https://ja.wikipedia.org/wiki/Dead_End_in_Tokyo "wikilink")** \[3:41\]
       -
         作詞・作曲：Kamikaze Boy, Jean-Ken Johnny, [Patrick Stump](../Page/パトリック・スタンプ.md "wikilink") / 編曲：MAN WITH A MISSION
     <!-- end list -->
+      - 7thシングル
       - 映画『[新宿スワンⅡ](https://ja.wikipedia.org/wiki/新宿スワン#第2作 "wikilink")』主題歌
 3.  **[Hey Now](https://ja.wikipedia.org/wiki/Hey_Now "wikilink")** \[5:31\]
       -
@@ -31,16 +35,19 @@
       -
         作詞：Kamikaze Boy, Jean-Ken Johnny /作曲：Kamikaze Boy / 編曲：MAN WITH A MISSION
     <!-- end list -->
+      - 7thシングルカップリング
       - スーパーラグビー ヒト・コミュニケーションズ「サンウルブズ」2017年公式テーマソング
 5.  **[Raise your flag](https://ja.wikipedia.org/wiki/Raise_your_flag "wikilink")** \[4:07\]
       -
         作詞：Kamikaze Boy, Jean-Ken Johnny / 作曲：Kamikaze Boy / 編曲：MAN WITH A MISSION, [大島こうすけ](../Page/大島こうすけ.md "wikilink") / ストリングスアレンジ：大島こうすけ, [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->
+      - 5thシングル
       - MBS・TBS系アニメ『[機動戦士ガンダム 鉄血のオルフェンズ](https://ja.wikipedia.org/wiki/機動戦士ガンダム_鉄血のオルフェンズ "wikilink")』第1クールオープニングテーマ
 6.  **[Seven Deadly Sins](https://ja.wikipedia.org/wiki/Seven_Deadly_Sins "wikilink")** \[3:24\]
       -
         作詞：Kamikaze Boy, Jean-Ken Johnny / 作曲：Kamikaze Boy / 編曲：MAN WITH A MISSION, Don Gilmore, [大島こうすけ](../Page/大島こうすけ.md "wikilink")
     <!-- end list -->
+      - 4thシングル
       - [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[七つの大罪](https://ja.wikipedia.org/wiki/七つの大罪_\(漫画\)#テレビアニメ "wikilink")』第2クールオープニングテーマ
 7.  **[Survivor](https://ja.wikipedia.org/wiki/The_World's_On_Fire "wikilink")** - live from [The World’s On Fire Tour](https://ja.wikipedia.org/wiki/狼大全集V "wikilink") \[4:33\]
 8.  **[Give it Away](https://ja.wikipedia.org/wiki/The_World's_On_Fire "wikilink")** – live from The World’s On Fire Tour \[3:17\]

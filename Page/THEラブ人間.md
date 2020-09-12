@@ -707,7 +707,7 @@
 <div class="NavContent" style="text-align:left;">
 <p>＠THEラブ人間決起集会｢下北沢にて'12｣会場 [下北沢Club 251 / 下北沢CAVE-BE / 下北沢MOSAiC / 下北沢DaisyBar / 下北沢Laguna / 下北沢LOFT / 下北沢BASEMENT BAR / shimokitazawa THREE / STUDIO BAYD下北沢]</p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ANIMA" title="wikilink">ANIMA</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ANIMA_(バンド)" title="wikilink">ANIMA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/about_tess" title="wikilink">about tess</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/雨先案内人" title="wikilink">雨先案内人</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/綾部健司" title="wikilink">綾部健司</a> (共演：須藤優)</li>

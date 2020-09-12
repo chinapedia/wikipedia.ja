@@ -9,9 +9,9 @@
 
 ## 外部リンク
 
-  - [Sauropod Vertebra Picture of the Week](http://svpow.wordpress.com)
+  - [Sauropod Vertebra Picture of the Week](http://svpow.wordpress.com/)
 
-[Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:イギリスの古生物学者](https://ja.wikipedia.org/wiki/Category:イギリスの古生物学者 "wikilink") [Category:ハートフォードシャー出身の人物](https://ja.wikipedia.org/wiki/Category:ハートフォードシャー出身の人物 "wikilink") [Category:ブリストル大学の教員](https://ja.wikipedia.org/wiki/Category:ブリストル大学の教員 "wikilink")
+[Category:イギリスの古生物学者](https://ja.wikipedia.org/wiki/Category:イギリスの古生物学者 "wikilink") [Category:ハートフォードシャー出身の人物](https://ja.wikipedia.org/wiki/Category:ハートフォードシャー出身の人物 "wikilink") [Category:ブリストル大学の教員](https://ja.wikipedia.org/wiki/Category:ブリストル大学の教員 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

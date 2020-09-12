@@ -3,8 +3,6 @@
 
 『**DRONE×鬼\!究極の鬼ごっこ\!**』とは、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[2019年](../Page/2019年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")19:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に放送された[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特別番組](../Page/特別番組.md "wikilink")である。
 
-[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から、毎週金曜19:00 - 20:00にレギュラー開始予定。
-
 ## 概要
 
 ## 出演者

@@ -58,7 +58,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/サマーラ.md" title="wikilink">サマーラ</a><br />
-()</p></td>
+(<a href="https://ja.wikipedia.org/wiki/サマーラ市電" title="wikilink">サマーラ市電</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/サンクトペテルブルク.md" title="wikilink">サンクトペテルブルク</a><br />
@@ -69,7 +69,8 @@
 (<a href="../Page/ヴォルゴグラード市電.md" title="wikilink">ヴォルゴグラード市電</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ" title="wikilink">ナーベレジヌイェ・チェルヌイ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ" title="wikilink">ナーベレジヌイェ・チェルヌイ</a><br />
+(<a href="https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ市電" title="wikilink">ナーベレジヌイェ・チェルヌイ市電</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/スモレンスク.md" title="wikilink">スモレンスク</a></p></td>
@@ -79,50 +80,56 @@
 (<a href="https://ja.wikipedia.org/wiki/ハバロフスク市電" title="wikilink">ハバロフスク市電</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ニジネカムスク" title="wikilink">ニジネカムスク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニジネカムスク" title="wikilink">ニジネカムスク</a><br />
+()</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/コロムナ.md" title="wikilink">コロムナ</a><br />
-()</p></td>
+(<a href="../Page/コロムナ市電.md" title="wikilink">コロムナ市電</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/タガンログ.md" title="wikilink">タガンログ</a></p></td>
+<td><p><a href="../Page/ノヴォクズネツク.md" title="wikilink">ノヴォクズネツク</a><br />
+(<a href="https://ja.wikipedia.org/wiki/ノヴォクズネツク市電" title="wikilink">ノヴォクズネツク市電</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ウファ.md" title="wikilink">ウファ</a></p></td>
+<td><p><a href="../Page/タガンログ.md" title="wikilink">タガンログ</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/ウファ.md" title="wikilink">ウファ</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スタールイ・オスコル" title="wikilink">スタールイ・オスコル</a><br />
 (<a href="../Page/スタールイ・オスコル市電.md" title="wikilink">スタールイ・オスコル市電</a>)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ニジニ・ノヴゴロド.md" title="wikilink">ニジニ・ノヴゴロド</a><br />
 (<a href="../Page/ニジニ・ノヴゴロド市電.md" title="wikilink">ニジニ・ノヴゴロド市電</a>)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ノヴォシビルスク.md" title="wikilink">ノヴォシビルスク</a><br />
+(<a href="https://ja.wikipedia.org/wiki/ノヴォシビルスク市電" title="wikilink">ノヴォシビルスク市電</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/チェリャビンスク.md" title="wikilink">チェリャビンスク</a><br />
 ()</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/チェリャビンスク.md" title="wikilink">チェリャビンスク</a></p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/ウクライナ.md" title="wikilink">ウクライナ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/リヴィウ.md" title="wikilink">リヴィウ</a><br />
 ()</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/カザフスタン.md" title="wikilink">カザフスタン</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ラトビア" title="wikilink">ラトビア</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>合計(<a href="../Page/2019年.md" title="wikilink">2019年</a>現在)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
 </tbody>
@@ -133,16 +140,20 @@
 <File:КТМ-23> 1344 на проспекте Победы, Казань.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[カザン](../Page/カザン.md "wikilink")
 （[カザン市電](../Page/カザン市電.md "wikilink")） <File:Трамвай> модели 71-623-01, следующий по маршруту №111 в Хабаровске.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ハバロフスク](../Page/ハバロフスク.md "wikilink")
 （[ハバロフスク市電](https://ja.wikipedia.org/wiki/ハバロフスク市電 "wikilink")） <File:Kolomna> 04-2014 img27 tram.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[コロムナ](../Page/コロムナ.md "wikilink")
-（） <File:Tram> 2005 model 71-623 Chelyabinsk front right.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[チェリャビンスク](../Page/チェリャビンスク.md "wikilink") <File:71-623-Краснодар.jpg>|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[クラスノダール](../Page/クラスノダール.md "wikilink") <File:Moscow> tram 71-623 5601 (9621678319).jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[モスクワ](../Page/モスクワ.md "wikilink")
-（[モスクワ市電](https://ja.wikipedia.org/wiki/モスクワ市電 "wikilink")） <File:Трамвайный> вагон модели 71-623-02 в Набережных Челнах.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink") <File:Трамвайный> вагон 71-623 с номером 133 в городе Нижнекамске.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ニジネカムスク](https://ja.wikipedia.org/wiki/ニジネカムスク "wikilink") <File:Trm> nsk.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ノヴォシビルスク](../Page/ノヴォシビルスク.md "wikilink")
-（） <File:Трамвай> 71-623.JPG|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")
+（[コロムナ市電](../Page/コロムナ市電.md "wikilink")） <File:Tram> 2005 model 71-623 Chelyabinsk front right.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[チェリャビンスク](../Page/チェリャビンスク.md "wikilink")
+（） <File:71-623-Краснодар.jpg>|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[クラスノダール](../Page/クラスノダール.md "wikilink") <File:Moscow> tram 71-623 5601 (9621678319).jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[モスクワ](../Page/モスクワ.md "wikilink")
+（[モスクワ市電](https://ja.wikipedia.org/wiki/モスクワ市電 "wikilink")） <File:Трамвайный> вагон модели 71-623-02 в Набережных Челнах.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")
+（[ナーベレジヌイェ・チェルヌイ市電](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ市電 "wikilink")） <File:Трамвайный> вагон 71-623 с номером 133 в городе Нижнекамске.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ニジネカムスク](https://ja.wikipedia.org/wiki/ニジネカムスク "wikilink")
+（） <File:Trm> nsk.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ノヴォシビルスク](../Page/ノヴォシビルスク.md "wikilink")
+（[ノヴォシビルスク市電](https://ja.wikipedia.org/wiki/ノヴォシビルスク市電 "wikilink")） <File:Трамвай> 71-623.JPG|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")
 （[ニジニ・ノヴゴロド市電](../Page/ニジニ・ノヴゴロド市電.md "wikilink")）
 （試作車） <File:Tram> 71-623-03 in SPB (img1).jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")
 （[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")）
 （71-623-03） <File:71-623.00> (KTM-23) tram (under number 528) in Perm.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ペルミ](../Page/ペルミ.md "wikilink") <File:Promyshlennyy> rayon, Smolensk, Smolenskaya oblast', Russia - panoramio (73).jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[スモレンスク](../Page/スモレンスク.md "wikilink") <File:71-623> (KTM-23) tram in Ufa (on test route).jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ウファ](../Page/ウファ.md "wikilink")
 （試作車） <File:Volgograd> tram 5865 2019-09.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ヴォルゴグラード](../Page/ヴォルゴグラード.md "wikilink")
 （[ヴォルゴグラード・メトロトラム](https://ja.wikipedia.org/wiki/ヴォルゴグラード・メトロトラム "wikilink")）
-（71-623-03） <File:Трамвай> 71-623, Енакиево.jpg|[ウクライナ](../Page/ウクライナ.md "wikilink")： <File:Павлодар> трамвай №148.jpg|[カザフスタン](../Page/カザフスタン.md "wikilink")：[パヴロダル](../Page/パヴロダル.md "wikilink")
+（71-623-03） <File:Трамвай> 71-623, Енакиево.jpg|[ウクライナ](../Page/ウクライナ.md "wikilink")：
+（[イェナーキイェヴェ市電](https://ja.wikipedia.org/wiki/イェナーキイェヴェ市電 "wikilink")） <File:Павлодар> трамвай №148.jpg|[カザフスタン](../Page/カザフスタン.md "wikilink")：[パヴロダル](../Page/パヴロダル.md "wikilink")
 （[パヴロダル市電](../Page/パヴロダル市電.md "wikilink")）
 
 ## 関連項目

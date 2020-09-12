@@ -64,6 +64,7 @@ YouTube Spaceは条件を満たせば完全に無料で使用でき、YouTubeは
   - [世界各地の YouTube Space](https://www.youtube.com/intl/ja/space/)
 
   -
+
 [Category:YouTube](https://ja.wikipedia.org/wiki/Category:YouTube "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/Category:ソーシャル・ネットワーキング・サービス "wikilink") [Category:アメリカ合衆国のインターネット企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインターネット企業 "wikilink") [Category:Googleのサービス](https://ja.wikipedia.org/wiki/Category:Googleのサービス "wikilink") [Category:インターネットテレビ局](https://ja.wikipedia.org/wiki/Category:インターネットテレビ局 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.

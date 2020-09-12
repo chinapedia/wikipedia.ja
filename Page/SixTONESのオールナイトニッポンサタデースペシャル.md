@@ -13,7 +13,9 @@
 
 オールナイトニッポンのプロデューサーの[冨山雄一](https://ja.wikipedia.org/wiki/冨山雄一 "wikilink")は今回の起用について「この『大倉くんと高橋くん』の後番組を始めるには、リスナーの熱狂というか、「始まるの楽しみだな」と思ってもらえることが大事だと思っていました。」とした上で「彼らにはラジオのポテンシャルが非常にあって、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")の数字もすごく良かったですし、とにかくラジオ的な“勘”が良かったのが印象に残りました。彼ら自身がYouTubeでラジオ的な番組を配信していたりと、新しい『オールナイトニッポン』の感じが作れるのではないかという期待も込みでオファーしました」と述べている\[10\]。
 
-2020年4月4日の放送では、番組のハッシュタグである「\#SixTONESANN」がツイッターの日本におけるトレンドの第1位となり、ツイート数も2020年4月5日の1時45分の時点でおよそ50万件となり\[11\]、2019年8月2日未明（2019年8月1日深夜）に放送されたオールナイトニッポン1部のツイート数の17万件越えから大きく上回った。
+2020年4月4日の初回放送時には、番組のハッシュタグである「\#SixTONESANN」がツイッターの日本におけるトレンドの第1位となる。ツイート数も2020年4月5日の1時45分の時点でおよそ50万件となり\[11\]、2019年8月2日未明（2019年8月1日深夜）に放送されたオールナイトニッポン1部のツイート数の17万件越えから大きく上回った。
+
+同年6月27日の放送では、田中のラップによるご当地番宣CMを制作する企画「田中樹全国ラジオ34局ラップチャレンジ」を発表\[12\]。通常は全国共通のCMが流れるところを、全国34局各地域のリスナーからアイデアを募集し、1局ずつリリックを書き下ろした。CMはSixTONESの2ndシングル『[NAVIGATOR](../Page/NAVIGATOR_\(SixTONESの曲\).md "wikilink")』の発売日である同年7月22日より放送開始された\[13\]\[14\]\[15\]。
 
 ## 放送時間
 
@@ -21,7 +23,7 @@
 
 ## パーソナリティ
 
-  - [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（[ジェシー](https://ja.wikipedia.org/wiki/ジェシー_\(俳優\) "wikilink")・[京本大我](https://ja.wikipedia.org/wiki/京本大我 "wikilink")・[松村北斗](https://ja.wikipedia.org/wiki/松村北斗 "wikilink")・[高地優吾](https://ja.wikipedia.org/wiki/高地優吾 "wikilink")・[森本慎太郎](../Page/森本慎太郎.md "wikilink")・[田中樹](https://ja.wikipedia.org/wiki/田中樹 "wikilink")）
+  - [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（[ジェシー](https://ja.wikipedia.org/wiki/ジェシー_\(俳優\) "wikilink")・[京本大我](https://ja.wikipedia.org/wiki/京本大我 "wikilink")・[松村北斗](https://ja.wikipedia.org/wiki/松村北斗 "wikilink")・[髙地優吾](https://ja.wikipedia.org/wiki/髙地優吾 "wikilink")・[森本慎太郎](../Page/森本慎太郎.md "wikilink")・[田中樹](https://ja.wikipedia.org/wiki/田中樹 "wikilink")）
 
 ## 番組テーマ曲
 
@@ -30,16 +32,25 @@
 
 ## 番組内コーナー
 
-  - We are SixTONES\!\!\[12\]
+  - We are SixTONES\!\!\[16\]
     「我こそはSixTONESだ\!」と自負するリスナーが、自己PRを行う。
-  - 週間ワールドワイド報道局\[13\]
+  - 週間ワールドワイド報道局\[17\]
     リスナーがジャーナリストとなって、SixTONESのメンバーが取りこぼしているニュースや情報を提供する。
-  - ウィルサーチ\[14\]
+  - ウィルサーチ\[18\]
     未来において投稿されるかもしれないSNSの投稿をリスナーが調べてSixTONESに対して報告を行う。
+
+### 期間限定コーナー
+
+  - Hey You！！！！！！
+    リスナーの日常を募集し、2ndシングル『NAVIGATOR』の歌詞「Hey you！」で締めて壮大にする。
+    元は2020年7月25日放送回のメールテーマ「全日本Hey You選手権！」であり\[19\]、同年8月1日から8月22日放送回まで実施された。本コーナーを実施している間は「We are SixTONES\!\!」を休止していた。
 
 ## ゲスト
 
-  - 2020年[4月25日](../Page/4月25日.md "wikilink") - [YOSHIKI](../Page/YOSHIKI.md "wikilink")\[15\]
+  - 2020年4月18日 - [京本政樹](../Page/京本政樹.md "wikilink")\[20\]
+  - 2020年[4月25日](../Page/4月25日.md "wikilink") - [YOSHIKI](../Page/YOSHIKI.md "wikilink")\[21\]
+  - 2020年6月13日 - [オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")\[22\]
+  - 2020年9月12日 - [春日俊彰](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")\[23\]
 
 ## ネット局
 
@@ -56,7 +67,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）[16]<br />
+<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）[24]<br />
 <strong>制作局</strong></p></td>
 <td><p>2020年4月4日 -</p></td>
 <td><p>土曜 23:30 - 25:00</p></td>
@@ -113,7 +124,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
-<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）[17]</p></td>
+<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）[25]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,7 +180,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
-<td><p><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ放送</a>（SF）[18]</p></td>
+<td><p><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ放送</a>（SF）[26]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,7 +189,7 @@
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><br />
 <a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/KBS滋賀.md" title="wikilink">KBS滋賀</a><br />
-<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）[19]</p></td>
+<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）[27]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -249,7 +260,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）[20]</p></td>
+<td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）[28]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -293,7 +304,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a>（ROK）[21]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a>（ROK）[29]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -308,6 +319,11 @@
 </tbody>
 </table>
 
+## エピソード
+
+  - 2020年4月18日の放送では、自宅から[テレワーク](../Page/テレワーク.md "wikilink")で出演していた京本大我の元に父親である[俳優](../Page/俳優.md "wikilink")の京本政樹が登場するハプニングが起きた\[30\]。
+  - ネット局であるHBCラジオでこの番組の後に放送されている『ティーンリスナー獲得プログラム\!ワンチャンレディオ\!』では、パーソナリティの[すずらんが冒頭](../Page/すずらん_\(お笑い\).md "wikilink")「SixTONESの皆さんお疲れ様でした」と呼びかけ、SixTONESの話をしている\[31\]\[32\]（当然東京のスタジオに届いているわけではない。なお、HBCラジオはクロスネット局であり、『オードリーのオールナイトニッポン』はNRN単独系列局である[STVラジオ](../Page/STVラジオ.md "wikilink")で放送）。
+
 ## 脚注
 
 ### 注釈
@@ -321,7 +337,7 @@
   - [SixTONESのオールナイトニッポンサタデースペシャル](https://www.allnightnippon.com/sixtones/)
 
   -
-[Category:オールナイトニッポン](https://ja.wikipedia.org/wiki/Category:オールナイトニッポン "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
+[Category:オールナイトニッポン](https://ja.wikipedia.org/wiki/Category:オールナイトニッポン "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
 
 1.
 2.
@@ -338,9 +354,20 @@
 13.
 14.
 15.
-16. NRN系列単独局
+16.
 17.
 18.
 19.
-20. [JRN系列単独局](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
+20.
 21.
+22. 後番組「[オードリーのオールナイトニッポン](https://ja.wikipedia.org/wiki/オードリーのオールナイトニッポン "wikilink")」のパーソナリティ。番組エンディングに乱入。
+23.
+24. NRN系列単独局
+25.
+26.
+27.
+28. [JRN系列単独局](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
+29.
+30.
+31.
+32.

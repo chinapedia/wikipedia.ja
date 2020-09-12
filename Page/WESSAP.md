@@ -57,7 +57,6 @@
   - [明日花美鈴](https://ja.wikipedia.org/wiki/明日花美鈴 "wikilink")
   - [太田敬佑](https://ja.wikipedia.org/wiki/太田敬佑 "wikilink")
   - [瀧永黄葉](https://ja.wikipedia.org/wiki/瀧永黄葉 "wikilink")
-  - [大塚栞](https://ja.wikipedia.org/wiki/大塚栞 "wikilink")
   - [蜜翅](https://ja.wikipedia.org/wiki/蜜翅 "wikilink")
   - [本田明紀奈](https://ja.wikipedia.org/wiki/本田明紀奈 "wikilink")
   - [虎羽美早紀](https://ja.wikipedia.org/wiki/虎羽美早紀 "wikilink")

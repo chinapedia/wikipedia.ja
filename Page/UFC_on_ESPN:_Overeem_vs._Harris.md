@@ -95,5 +95,8 @@
 ## 外部リンク
 
   -
+  - [GONG KAKUTOGIによる試合結果](https://gonkaku.jp/articles/3844)
+
+  -
   -
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのフロリダ州大会](https://ja.wikipedia.org/wiki/Category:UFCのフロリダ州大会 "wikilink") [Category:2020年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:2020年のアメリカ合衆国のスポーツ "wikilink") [Category:2020年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2020年の総合格闘技 "wikilink") [Category:ジャクソンビルのスポーツ](https://ja.wikipedia.org/wiki/Category:ジャクソンビルのスポーツ "wikilink") [Category:2020年5月](https://ja.wikipedia.org/wiki/Category:2020年5月 "wikilink")

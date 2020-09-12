@@ -1,7 +1,7 @@
 > この記事は[MAN WITH A BEST MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_BEST_MISSION)から翻訳されています。
 
 
-『**MAN WITH A "BEST" MISSION**』（マン・ウィズ・ア・ベスト・ミッション）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")2作目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売予定\[1\]。
+『**MAN WITH A "BEST" MISSION**』（マン・ウィズ・ア・ベスト・ミッション）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")2作目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売された\[1\]。
 
 ## 概要
 
@@ -9,16 +9,28 @@
   - CDは初回生産限定盤、通常盤の2形態で発売。
   - MAN WITH A MISSION結成10周年記念アルバム第3弾。
   - 過去10年間に発表した作品のうち、前作ベストアルバム『[5 Years 5 Wolves 5 Souls](https://ja.wikipedia.org/wiki/5_Years_5_Wolves_5_Souls "wikilink")』以後に発売されたシングル表題曲やカップリング、アルバム収録曲を中心にメンバー自身が選曲した楽曲を収録し、更に、本作の発売2週間前に発売予定の自身の12thシングル『[Change the World](../Page/Change_the_World_\(MAN_WITH_A_MISSIONの曲\).md "wikilink")』の収録曲である「Change the World」と「Rock Kingdom feat.布袋寅泰」も収録されている\[3\]。
+  - [iTunes Store等の各配信サイトでのデジタル配信のみ](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、「[Dark Crow](../Page/Dark_Crow.md "wikilink")」「[Find You](https://ja.wikipedia.org/wiki/My_Hero/Find_You "wikilink")」「[Out of Control](../Page/Out_of_Control_\(MAN_WITH_A_MISSION×Zebraheadのアルバム\).md "wikilink")」の3曲を追加収録している<ref>\[<https://www.mwamjapan.info/contents/329239> 7/15「BEST盤」プリオーダースタート、発売日当日特別番組の配信先決定！
+
+7/11-12自宅にて楽しめる「BEST LIVE MISSION」敢行！\]</ref>。
+
   - 初回生産限定盤の特典DVDには、自身のライブツアー『Chasing the Horizon World Tour 2018/2019 \~Japan Extra Shows\~』の2019年5月22日の横浜アリーナ公演の模様を収録。
 
 ## 収録曲
 
 ### CD
 
+※はデジタル配信のみ収録
+
 1.  **[Change the World](../Page/Change_the_World_\(MAN_WITH_A_MISSIONの曲\).md "wikilink")**
+      -
+        作詞・作曲：Jean-Ken Johnny / 編曲：MAN WITH A MISSION, [中野雅之](../Page/BOOM_BOOM_SATELLITES.md "wikilink")
+    <!-- end list -->
       - 12thシングル
       - 2020 [NHKサッカーテーマソング](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
 2.  **[Rock Kingdom feat.布袋寅泰](../Page/Change_the_World_\(MAN_WITH_A_MISSIONの曲\).md "wikilink")**
+      -
+        作詞：Kamikaze Boy, Jean-Ken Johnny / 作曲：Kamikaze Boy / 編曲：MAN WITH A MISSION, 布袋寅泰, 中野雅之
+    <!-- end list -->
       - 12thシングルカップリング
       - フィーチャリングギタリストとして[布袋寅泰](../Page/布袋寅泰.md "wikilink")が参加している。
 3.  **[Remember Me](https://ja.wikipedia.org/wiki/Remember_Me_\(MAN_WITH_A_MISSIONの曲\) "wikilink")** \[4:51\]
@@ -112,6 +124,25 @@
     <!-- end list -->
       - 8thシングルの1曲目
       - [フジテレビ系テレビアニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[いぬやしき](https://ja.wikipedia.org/wiki/いぬやしき#テレビアニメ "wikilink")』オープニングテーマ
+18. **[Dark Crow](../Page/Dark_Crow.md "wikilink")** \[4:38\] ※
+      -
+        作詞：Kamikaze Boy、Jean-Ken Johnny　作曲：Kamikaze Boy　編曲：MAN WITH A MISSION、[大島こうすけ](../Page/大島こうすけ.md "wikilink")
+    <!-- end list -->
+      - 11thシングル
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ヴィンランド・サガ](../Page/ヴィンランド・サガ.md "wikilink")』オープニング・テーマ
+19. **[Find You](https://ja.wikipedia.org/wiki/My_Hero/Find_You "wikilink")** \[5:01\] ※
+      -
+        作詞・作曲：Jean-Ken Johnny / 編曲：MAN WITH A MISSION
+    <!-- end list -->
+      - 8thシングルの2曲目
+      - 映画『[覆面系ノイズ](https://ja.wikipedia.org/wiki/覆面系ノイズ#実写映画 "wikilink")』エンディングテーマ
+20. **[Out of Control](../Page/Out_of_Control_\(MAN_WITH_A_MISSION×Zebraheadのアルバム\).md "wikilink")** / MAN WITH A MISSION×Zeberahead \[3:19\] ※
+      -
+        作詞・作曲：MAN WITH A MISSION×Zebrahead
+    <!-- end list -->
+      - [ZebraheadとのスプリットEP表題曲](../Page/ゼブラヘッド.md "wikilink")
+      - **MAN WITH A MISSION×Zebrahead**名義
+      - 映画『[マッドマックス 怒りのデス・ロード](https://ja.wikipedia.org/wiki/マッドマックス_怒りのデス・ロード "wikilink")』日本版エンディングソング
 
 ### 初回生産限定盤DVD
 

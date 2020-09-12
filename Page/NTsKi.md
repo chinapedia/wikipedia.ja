@@ -37,12 +37,13 @@
 
 <!-- end list -->
 
-  - 6月17日、NTsKiが客演として参加した楽曲「bubbles feat. NTsKi」が収録された、South Penguin初のアナログリリースとなる『bubbles / mad love』が[Pヴァイン](../Page/Pヴァイン.md "wikilink")よりリリース予定。\[13\]
-  - 6月19日、「Labyrinth of Summer (KM Remix)」が収録された、日本のエレクトロニック・プロデューサーCVNによるキュレーションで全12アーティストが参加する、デジタル・リリースがデフォルトの世代を中心にしながら、＜パッケージ版＞を主眼にした2020s新世代コンピレーション『S.D.S =零=』をEM Recordsよりリリース予定。（6月19日にCD/LP/DLの販売開始、6月12日にストリーミング配信開始予定）\[14\]
+  - 6月17日、NTsKiが客演として参加した楽曲「bubbles feat. NTsKi」が収録された、South Penguin初のアナログリリースとなる『bubbles / mad love』が[Pヴァイン](../Page/Pヴァイン.md "wikilink")よりリリース。\[13\]
+  - 6月19日、「Labyrinth of Summer (KM Remix)」が収録された、日本のエレクトロニック・プロデューサーCVNによるキュレーションで全12アーティストが参加する、デジタル・リリースがデフォルトの世代を中心にしながら、＜パッケージ版＞を主眼にした2020s新世代コンピレーション『S.D.S =零=』をEM Recordsよりリリース。\[14\]
+  - 8月6日、7インチレコードの形をしたお皿プロジェクト「PEOPLEAP」が『THE SWEETEST TABOO』と名付けた新シリーズを発表、NTsKiは8〜10月のプレイリスターとして[Seihoや陳暁夏代らと共に参加](https://ja.wikipedia.org/wiki/セイホー "wikilink")。様々なジャンルで活躍するプレイリスターが選曲したプレイリストを、皿裏面のQRコードからSpotifyにてストリーミング可能。皿の盤面は、プレイリストからインスピレーションを受けたデザインが施されている。[波佐見焼](../Page/波佐見焼.md "wikilink")『藍染窯（あいぜんがま）』製のレコード皿と、『岩㟢紙器（いわさきしき）』製オリジナルボックスのセットで、1年間毎月4種類のレコード皿をリリースする全48種、枚数限定のプロダクトとなっている。\[15\]
 
 ## 演奏スタイル
 
-環境はMacBook Pro、Logic Pro X、Native Instrumentsプラグイン等、アナログシンセ、マイクはaudio-technicaのAT4050を使用。BOSS Loop Station RC-30をすぐに使えるよう近くに置き、そこに保存されているボーカルループをLogic Pro X内で再現するという作業をメインに行っている。\[15\]
+環境はMacBook Pro、Logic Pro X、Native Instrumentsプラグイン等、アナログシンセ、マイクはaudio-technicaのAT4050を使用。BOSS Loop Station RC-30をすぐに使えるよう近くに置き、そこに保存されているボーカルループをLogic Pro X内で再現するという作業をメインに行っている。\[16\]
 
 ## ディスコグラフィー
 
@@ -70,18 +71,18 @@
 
 ### 参加作品
 
-| 発売年       | 曲名                                                                            | 収録された作品                                                                                        |
-| --------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 2017年     | Hun Sen                                                                       | Lafidki『Chinabot』（We Be Friends)                                                               |
-| 2017年     | [Foodman](https://ja.wikipedia.org/wiki/食品まつり "wikilink") & NTsKi - Three Man | Various Artists『TAR Class of 2017 Vol.Ⅱ』(TAR)                                                  |
-| 2019年     | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink")『Ride On Time』（Mary Joy Recordings）\[16\]   |
-| 2019年     | 成分 Seibun                                                                     | CVN『I.C.』（[Orange Milk](https://ja.wikipedia.org/wiki/Orange_Milk "wikilink")）                 |
-| 2019年     | Crystal feat. NTsKi                                                           | Xin Seha『1000』（POCLANOS）                                                                       |
-| 2019年     | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink") × KM『More Wave』（Mary Joy Recordings）\[17\] |
-| 2020年     | Hellish View (Disclose cover)                                                 | The Soft Pink Truth『Am I Free To Go?』                                                          |
-| 2020年     | Drippin'                                                                      | te'resa『[Drippin'](https://www.youtube.com/watch?v=TBcDxrHr_e8)』                               |
-| 2020年6月予定 | Labyrinth of Summer (KM Remix)                                                | Various Artists『S.D.S =零= (Subscription Double Suicide =Zero=』（EM Records）\[18\]               |
-| 2020年6月予定 | bubbles feat. NTsKi                                                           | South Penguin『bubbles / mad love』（[P-VINE RECORDS](../Page/Pヴァイン.md "wikilink")）\[19\]         |
+| 発売年   | 曲名                                                                            | 収録された作品                                                                                        |
+| ----- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 2017年 | Hun Sen                                                                       | Lafidki『Chinabot』（We Be Friends)                                                               |
+| 2017年 | [Foodman](https://ja.wikipedia.org/wiki/食品まつり "wikilink") & NTsKi - Three Man | Various Artists『TAR Class of 2017 Vol.Ⅱ』(TAR)                                                  |
+| 2019年 | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink")『Ride On Time』（Mary Joy Recordings）\[17\]   |
+| 2019年 | 成分 Seibun                                                                     | CVN『I.C.』（[Orange Milk](https://ja.wikipedia.org/wiki/Orange_Milk "wikilink")）                 |
+| 2019年 | Crystal feat. NTsKi                                                           | Xin Seha『1000』（POCLANOS）                                                                       |
+| 2019年 | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink") × KM『More Wave』（Mary Joy Recordings）\[18\] |
+| 2020年 | Hellish View (Disclose cover)                                                 | The Soft Pink Truth『Am I Free To Go?』                                                          |
+| 2020年 | Drippin'                                                                      | te'resa『[Drippin'](https://www.youtube.com/watch?v=TBcDxrHr_e8)』                               |
+| 2020年 | bubbles feat. NTsKi                                                           | South Penguin『bubbles / mad love』（[P-VINE RECORDS](../Page/Pヴァイン.md "wikilink")）\[19\]         |
+| 2020年 | Labyrinth of Summer (KM Remix)                                                | Various Artists『S.D.S =零= (Subscription Double Suicide =Zero=』（EM Records）\[20\]               |
 
 ## 外部リンク
 
@@ -99,7 +100,7 @@
 
 <references />
 
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.
@@ -120,3 +121,4 @@
 17.
 18.
 19.
+20.

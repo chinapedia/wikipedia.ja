@@ -239,7 +239,7 @@
 <tr class="odd">
 <td><p>＃37</p></td>
 <td><p>2020年4月14日</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p>放送中止</p></td>
 </tr>
 <tr class="even">
@@ -247,6 +247,30 @@
 <td><p>2020年5月12日</p></td>
 <td><p>なし</p></td>
 <td><p>リモート生放送</p></td>
+</tr>
+<tr class="odd">
+<td><p>＃39</p></td>
+<td><p>2020年6月9日</p></td>
+<td><p>浪川大輔</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>＃40</p></td>
+<td><p>2020年7月7日</p></td>
+<td><p><a href="../Page/東地宏樹.md" title="wikilink">東地宏樹</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>＃41</p></td>
+<td><p>2020年8月4日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>＃42</p></td>
+<td><p>2020年9月1日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/逢坂良太" title="wikilink">逢坂良太</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

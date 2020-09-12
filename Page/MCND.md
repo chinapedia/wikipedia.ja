@@ -18,6 +18,7 @@ WINはオーディション番組『UNDER19』に出場。途中降板
   - [1月2日](../Page/1月2日.md "wikilink")、「TOP GANG」をリリースし、プレデビュー。
   - [2月27日](../Page/2月27日.md "wikilink")、「into the ICE AGE」をリリースし、正式デビュー。
   - [4月9日](../Page/4月9日.md "wikilink")、「떠(Spring)」をリリース。
+  - [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、「EARTH AGE」をリリース。
 
 ## メンバー
 
@@ -85,7 +86,7 @@ WINはオーディション番組『UNDER19』に出場。途中降板
 
 ## ディスコグラフィー
 
-### ミニアルバム
+### アルバム
 
 <table>
 <thead>
@@ -115,6 +116,38 @@ WINはオーディション番組『UNDER19』に出場。途中降板
 [6]</p></td>
 <td><p>14,398枚<br />
 [7]</p></td>
+</tr>
+</tbody>
+</table>
+
+### ミニアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+<th><p>Gaon チャート</p>
+<p>(週間)</p></th>
+<th><p>売上枚数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>EARTH AGE</strong> (2020年8月20日)</p></td>
+<td><ol>
+<li>Intro；푸른별-(Earth Age)</li>
+<li><strong>nanana</strong></li>
+<li>숨쉬어(Breathe)</li>
+<li>Beautiful</li>
+<li>Galaxy</li>
+<li>쾅쾅쾅(Bumpin')</li>
+<li>Outro；외딴별(Kepler1649c)</li>
+</ol></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -167,6 +200,7 @@ WINはオーディション番組『UNDER19』に出場。途中降板
 <li><a href="https://www.youtube.com/watch?v=4fNgJkio31c">TOP GANG</a></li>
 <li><a href="https://www.youtube.com/watch?v=XpIG9dq1PQw">ICE AGE</a></li>
 <li><a href="https://www.youtube.com/watch?v=GpYOfM_PwZg">떠(Spring)</a></li>
+<li><a href="https://www.youtube.com/watch?v=pgxxcrVtNrQ">nanana</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=_kHSyM67-oE">TOP GANG</a></li>

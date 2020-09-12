@@ -22,6 +22,7 @@
   - Apple Podcasts
   - [Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")
   - Google Podcasts
+  - [ラジオクラウド](https://ja.wikipedia.org/wiki/ラジオクラウド "wikilink")
 
 <!-- end list -->
 
@@ -52,14 +53,14 @@
 #### ニッポン放送On Air On
 
   -
-    同局地上波ラジオ放送及び[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")にて配信されているラジオ番組の番組全編では無く、一部のコーナーだけを配信
+    同局地上波ラジオ放送及び[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")にて配信されているラジオ番組の番組全編では無く、一部のコーナーだけを配信。
 
 <!-- end list -->
 
   - [飯田浩司のOK\! Cozy up\!](https://ja.wikipedia.org/wiki/飯田浩司のOK!_Cozy_up! "wikilink")
-      - モーニング ライフ UP\! 今日の早起きドクター※6:15に放送されてるコーナーを番組とは切り離して配信
-  - [辛坊治郎ズーム そこまで言うか\!](https://ja.wikipedia.org/wiki/辛坊治郎ズーム_そこまで言うか! "wikilink")※レギュラー復活に伴い
-  - コロナウィルス・インフォメーション fromニッポン放送※『OK\! Cozy up\!』、『[ザ・フォーカス](https://ja.wikipedia.org/wiki/ザ・フォーカス "wikilink")』、『[DAYS](https://ja.wikipedia.org/wiki/DAYS_\(ラジオ番組\) "wikilink")』に出演した医療や経済の識者のコメントをまとめたコンテンツ
+      - モーニング ライフ UP\! 今日の早起きドクター ※6:15に放送されているコーナーを番組とは切り離して配信。
+  - [辛坊治郎ズーム そこまで言うか\!](https://ja.wikipedia.org/wiki/辛坊治郎ズーム_そこまで言うか! "wikilink") ※レギュラー復活に伴い
+  - コロナウィルス・インフォメーション fromニッポン放送※『OK\! Cozy up\!』、『[ザ・フォーカス](https://ja.wikipedia.org/wiki/ザ・フォーカス "wikilink")』、『[DAYS](https://ja.wikipedia.org/wiki/DAYS_\(ラジオ番組\) "wikilink")』に出演した医療や経済の識者のコメントをまとめたコンテンツ。
   - コラ之輔 参上\!
 
 <!-- end list -->
@@ -80,6 +81,8 @@
       - [佐久間宣行のオールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/佐久間宣行のオールナイトニッポン0\(ZERO\) "wikilink")
       - [水溜りボンドのオールナイトニッポン0(ZERO)](../Page/水溜りボンドのオールナイトニッポン0\(ZERO\).md "wikilink")
       - [霜降り明星のオールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/霜降り明星のオールナイトニッポン0\(ZERO\) "wikilink")
+  - [オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")
+      - [渡辺謙](../Page/渡辺謙.md "wikilink")のオールナイトニッポンGOLD 完全版 ※[山中伸弥](../Page/山中伸弥.md "wikilink")との収録分で放送にて落とした箇所を含む形。
   - 渡邉美樹 5年後の夢を語ろう\!
   - [Lantis Presents 熊田茜音 アカネノ音](../Page/Lantis_Presents_熊田茜音_アカネノ音.md "wikilink")
   - [ニッポンチャレンジドアスリート](https://ja.wikipedia.org/wiki/ニッポンチャレンジドアスリート "wikilink")
@@ -115,7 +118,30 @@
 #### ニッポン放送 Spin Out
 
   - [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")[尾崎世界観](https://ja.wikipedia.org/wiki/尾崎世界観 "wikilink")の野球100% powered by ニッポン放送ショウアップナイター
-  - [トータルテンボスのぬきさしならナイト\! season2](../Page/トータルテンボスのぬきさしならナイト!.md "wikilink")※[NRNの系列局である](../Page/全国ラジオネットワーク.md "wikilink")、[TBCラジオで放送していた番組がPodcast配信のみコンテンツとしてニッポン放送に移籍](https://ja.wikipedia.org/wiki/東北放送#ラジオ "wikilink")
+  - [トータルテンボスのぬきさしならナイト\! season2](../Page/トータルテンボスのぬきさしならナイト!.md "wikilink")
+
+<!-- end list -->
+
+  -
+    [NRNの系列局である](../Page/全国ラジオネットワーク.md "wikilink")、[TBCラジオで放送していた番組がPodcast配信のみコンテンツとしてニッポン放送に移籍](https://ja.wikipedia.org/wiki/東北放送#ラジオ "wikilink")。
+
+<!-- end list -->
+
+  - 有楽町ひとさんぽ
+
+<!-- end list -->
+
+  -
+    同局と[三菱地所](../Page/三菱地所.md "wikilink")が展開する町興し企画「有楽町うたつくり計画」で、街ぐるみの“まちうた”を創り上げていくために有楽町の街に特化した番組。パーソナリティ：上柳昌彦
+
+<!-- end list -->
+
+  - 高円寺ハイパー井戸端ラジオ
+
+<!-- end list -->
+
+  -
+    [杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[高円寺](../Page/高円寺.md "wikilink")在住のアートディレクターの大黒が“まちの相談屋”として、高円寺の街の人と井戸端を繰り広げる番組。パーソナリティ：大黒健嗣（アートディレクター）
 
 ### 過去
 
@@ -126,7 +152,7 @@
   - [大谷ノブ彦 キキマス\!](https://ja.wikipedia.org/wiki/大谷ノブ彦_キキマス! "wikilink")
       - 「[はやぶさ2](../Page/はやぶさ2.md "wikilink")」応援キャンペーン 宇宙の魅力 キキマス\!
   - [杏のAnytime Andante](https://ja.wikipedia.org/wiki/杏のAnytime_Andante "wikilink")
-  - [オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")
+  - オールナイトニッポンGOLD
       - [ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")のオールナイトニッポンGOLD
       - [小島慶子](https://ja.wikipedia.org/wiki/小島慶子 "wikilink")のオールナイトニッポンGOLD
   - [ミュ〜コミ+プラス](https://ja.wikipedia.org/wiki/ミュ〜コミ+プラス "wikilink")
@@ -316,7 +342,7 @@
 <!-- end list -->
 
   -
-    『[西川貴教のオールナイトニッポン](../Page/西川貴教のオールナイトニッポン.md "wikilink")』番組終了後、特番復活編成時の番宣として、[西川貴教](../Page/西川貴教.md "wikilink")は出演せず、同番組の構成作家のみ出演。構成作家陣が継続番組として『[石川・ホンマ・ぶるんのBe-side Your Life](../Page/石川・ホンマ・ぶるんのBe-side_Your_Life.md "wikilink")』を個人配信した
+    『[西川貴教のオールナイトニッポン](../Page/西川貴教のオールナイトニッポン.md "wikilink")』番組終了後、特番復活編成時の番宣として、[西川貴教](../Page/西川貴教.md "wikilink")は出演せず、同番組の構成作家のみ出演。構成作家陣が継続番組として『[石川・ホンマ・ぶるんのBe-side Your Life](../Page/石川・ホンマ・ぶるんのBe-side_Your_Life.md "wikilink")』を個人配信した。
 
 <!-- end list -->
 

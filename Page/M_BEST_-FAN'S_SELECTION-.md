@@ -7,7 +7,7 @@
 
 配信限定としてのアルバムリリースは、2014年リリースのEP盤『[M's X'Mas EP](../Page/M's_X'Mas_EP.md "wikilink")』以来およそ5年ぶりとなる、初の配信限定ベストアルバム。
 
-発売前には2ndベストアルバム『[M BEST II](https://ja.wikipedia.org/wiki/M_BEST_II "wikilink")』をリリースしているが、本ベストの楽曲は事前に、上述ベストから漏れたシングル曲やアルバム人気曲を基準にファンからのリクエスト投票において改めて、15周年に因んで15曲が収録されている。収録内容は上位順に沿っている。また、翌年[11月29日](../Page/11月29日.md "wikilink")には、およそ10年ぶりとなる[日本武道館](../Page/日本武道館.md "wikilink")において、デビュー15周年を締めくくる記念公演「加藤ミリヤ 15th Anniversary MILIYAH BUDOKAN LIVE 2020」を開催される旨も同時に発表した\[3\]。
+発売前には2ndベストアルバム『[M BEST II](https://ja.wikipedia.org/wiki/M_BEST_II "wikilink")』をリリースしているが、本ベストの楽曲は事前に、上述ベストから漏れたシングル曲やアルバム人気曲を基準にファンからのリクエスト投票において改めて、15周年に因んで15曲が収録されている。収録内容は上位順に沿っている。また、翌年[11月29日](../Page/11月29日.md "wikilink")には、およそ10年ぶりとなる[日本武道館](../Page/日本武道館.md "wikilink")において、デビュー15周年を締めくくる記念公演「加藤ミリヤ 15th Anniversary MILIYAH BUDOKAN 2020」を開催される旨も同時に発表した\[3\]。
 
 ## 収録曲
 
@@ -43,8 +43,8 @@
       - 31stシングル『[少年少女](https://ja.wikipedia.org/wiki/少年少女_\(加藤ミリヤの曲\) "wikilink")』カップリング曲、配信EP『[M's X'Mas EP](../Page/M's_X'Mas_EP.md "wikilink")』収録曲
       - 投票数**5位**
       - [SEIKO](https://ja.wikipedia.org/wiki/SEIKO "wikilink")LUKIA「LUCKY PASSPORT」CMソング
-6.  **Only holy** (4:36)
-      - ミュージック・ビデオ集『MILIYAH THE CLIPS 2004-2010』初回生産限定盤ボーナスCD付属曲、配信EP『[M's X'Mas EP](../Page/M's_X'Mas_EP.md "wikilink")』収録曲
+6.  **[Only holy](https://ja.wikipedia.org/wiki/MILIYAH_THE_CLIPS_2004-2010#Disc3_:_CD【初回生産限定盤のみ】 "wikilink")** (4:36)
+      - ミュージック・ビデオ集『[MILIYAH THE CLIPS 2004-2010](https://ja.wikipedia.org/wiki/MILIYAH_THE_CLIPS_2004-2010#Disc3_:_CD【初回生産限定盤のみ】 "wikilink")』初回生産限定盤ボーナスCD付属曲、配信EP『[M's X'Mas EP](../Page/M's_X'Mas_EP.md "wikilink")』収録曲
       - 投票数**6位**
 7.  **[I HATE YOU](https://ja.wikipedia.org/wiki/I_HATE_YOU_-EP- "wikilink")** (3:05)
       -

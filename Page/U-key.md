@@ -56,7 +56,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>R</p></td>
+<td><p>Rリグレット</p></td>
 <td><p>作詞作曲</p></td>
 <td></td>
 </tr>

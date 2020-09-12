@@ -40,6 +40,10 @@
 
 ヘルムライクは、[2019年コロナウイルス感染症が流行中の](../Page/アメリカ合衆国における2019年コロナウイルス感染症の流行状況.md "wikilink") [2020年](../Page/2020年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")で、[2019新型コロナウイルスによる急性呼吸器疾患](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")により、74歳で死去した\[20\]\[21\]。
 
+## 関連項目
+
+  - [2019年コロナウイルス感染症で亡くなった著名人の一覧 (2020年上半期以前)](https://ja.wikipedia.org/wiki/2019年コロナウイルス感染症で亡くなった著名人の一覧_\(2020年上半期以前\) "wikilink")
+
 ## 脚注
 
 [Category:アメリカ合衆国の社会学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の社会学者 "wikilink") [Category:ニューヨーク市立大学シティカレッジの教員](https://ja.wikipedia.org/wiki/Category:ニューヨーク市立大学シティカレッジの教員 "wikilink") [Category:20世紀アメリカ合衆国のノンフィクション作家](https://ja.wikipedia.org/wiki/Category:20世紀アメリカ合衆国のノンフィクション作家 "wikilink") [Category:21世紀アメリカ合衆国のノンフィクション作家](https://ja.wikipedia.org/wiki/Category:21世紀アメリカ合衆国のノンフィクション作家 "wikilink") [Category:イェシーバー大学出身の人物](https://ja.wikipedia.org/wiki/Category:イェシーバー大学出身の人物 "wikilink") [Category:ユダヤ系アメリカ人](https://ja.wikipedia.org/wiki/Category:ユダヤ系アメリカ人 "wikilink") [Category:チューリッヒ出身の人物](https://ja.wikipedia.org/wiki/Category:チューリッヒ出身の人物 "wikilink") [Category:1945年生](https://ja.wikipedia.org/wiki/Category:1945年生 "wikilink") [Category:2020年没](https://ja.wikipedia.org/wiki/Category:2020年没 "wikilink") [Category:2019新型コロナウイルス感染症で亡くなった人物](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症で亡くなった人物 "wikilink")

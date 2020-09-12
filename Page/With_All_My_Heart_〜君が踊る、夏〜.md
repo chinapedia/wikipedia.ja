@@ -11,7 +11,7 @@
 
 [日本レコード協会](../Page/日本レコード協会.md "wikilink")の調査による[着うたフル](../Page/着うたフル.md "wikilink")チャートで最高11位を獲得\[6\]。
 
-楽曲発表後にグループが活動休止し、後に[ジェジュン](../Page/ジェジュン.md "wikilink")・[ユチョン](https://ja.wikipedia.org/wiki/ユチョン "wikilink")・[ジュンス](https://ja.wikipedia.org/wiki/ジュンス "wikilink")が脱退したため、5人編成でのライブで披露されたことはない。楽曲発表から[ユンホ](https://ja.wikipedia.org/wiki/ユンホ "wikilink")・[チャンミン](https://ja.wikipedia.org/wiki/チャンミン "wikilink")の2人での活動再開宣言を経た4年後の[2014年](../Page/2014年.md "wikilink")の「[東方神起 LIVE TOUR 2014 TREE](https://ja.wikipedia.org/wiki/東方神起_LIVE_TOUR_2014_TREE "wikilink")」ツアーでライブ初披露となった。
+楽曲発表後にグループが活動休止し、後に[ジェジュン](../Page/ジェジュン.md "wikilink")・[ユチョン](https://ja.wikipedia.org/wiki/ユチョン "wikilink")・[ジュンス](https://ja.wikipedia.org/wiki/ジュンス "wikilink")が脱退したため、5人編成でのライブで披露されたことはない。楽曲発表から[ユンホ](https://ja.wikipedia.org/wiki/ユンホ "wikilink")・[チャンミン](https://ja.wikipedia.org/wiki/チャンミン "wikilink")の2人での活動再開宣言を経た4年後の2014年の「[東方神起 LIVE TOUR 2014 TREE](https://ja.wikipedia.org/wiki/東方神起_LIVE_TOUR_2014_TREE "wikilink")」ツアーでライブ初披露となった。
 
 ## 演奏参加者
 

@@ -103,7 +103,7 @@
   - [Trava (OAV) - Anime News Network:W](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4019)（英語）
   - [Trava: Fist Planet (Video 2003) - IMDb](https://m.imdb.com/title/tt0426265/)（英語）
 
-[Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:2002年のOVA](https://ja.wikipedia.org/wiki/Category:2002年のOVA "wikilink") [Category:日本のオリジナルアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ作品 "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:小池健監督作品](https://ja.wikipedia.org/wiki/Category:小池健監督作品 "wikilink") [Category:石井克人監督作品](https://ja.wikipedia.org/wiki/Category:石井克人監督作品 "wikilink")
+[Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:2002年のOVA](https://ja.wikipedia.org/wiki/Category:2002年のOVA "wikilink") [Category:日本のオリジナルアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ作品 "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:小池健監督作品](https://ja.wikipedia.org/wiki/Category:小池健監督作品 "wikilink") [Category:石井克人の監督映画](https://ja.wikipedia.org/wiki/Category:石井克人の監督映画 "wikilink")
 
 1.  [ABOUT | Grasshoppa\!](http://www.grasshoppa.jp/about/)
 2.  [石井克人/TRAVA FIST PLANET episode1/Grasshoppa\! Special DVD＜完全生産限定版＞ - TOWER RECORDS ONLINE](https://tower.jp/item/960808)

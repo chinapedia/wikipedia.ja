@@ -9,18 +9,34 @@
 
 ## リリース
 
-  - 2016年「Keep Shakin」
+### アルバム
+
   - 2016年「ANIMAL HACK」
   - 2017年「Boy」
+  - 2018年「GIFT」
+
+### シングル
+
+  - 2016年「Keep Shakin」
   - 2017年「Plastic Night」
   - 2017年「Body」
   - 2017年「Inside」
   - 2017年「Waiting...」
-  - 2018年「GIFT」
   - 2018年「EVIL」
   - 2019年「Days Gone By (feat. SIRUP)」
   - 2019年「グッドバイ・ハイヒール (feat. 真空ホロウ)」
   - 2020年「DIVE (feat. okkaaa) 」
+  - 2020年「Falling Hard (feat. BBY NABE) 」
+
+### リミックス
+
+  - 2018年 4s4ki 「Gender (ANIMAL HACK Remix)」
+  - 2019年 N.I.L 1979「Wave feat. Kouta Kaneko (ANIMAL HACK Remix)」
+
+### 作曲
+
+  - 2019年 4s4ki 「NEMNEM」
+  - 2020年 ヒプノシスマイク 麻天狼 「BLACK OR WHITE」
 
 ## 脚注
 

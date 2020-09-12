@@ -68,4 +68,4 @@
 
   - [番組公式ページ](https://www.gamecity.ne.jp/media/radio/index.htm#outline)
 
-[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink")

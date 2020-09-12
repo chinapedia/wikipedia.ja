@@ -99,16 +99,16 @@ SOO Good FM（そおグッドエフエム）は、曽於市全域を地域対象
 
 ソーセージをモチーフとした、市のキャラクター「そお星人」がいる。
 
+## 脚注
+
+<references/>
+
 ## 外部リンク
 
   - [SOO Good FM](https://soogoodfm.jp/)-公式ウエブサイト
 
   -
   -
-## 脚注
-
-<references/>
-
 [Category:九州地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:九州地方のコミュニティ放送局 "wikilink") [Category:鹿児島県のマスメディア](https://ja.wikipedia.org/wiki/Category:鹿児島県のマスメディア "wikilink")
 
 1.

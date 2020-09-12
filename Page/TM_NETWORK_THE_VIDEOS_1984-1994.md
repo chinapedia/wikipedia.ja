@@ -5,9 +5,9 @@
 
 ## 解説
 
-1984年-1994年までにリリースされた映像作品を[ブルーレイディスクにリマスタリングしたもので](../Page/Blu-ray_Disc.md "wikilink")、完全限定BOXにナンバリングが施されている。 DISC1-DISC7 までは単にBlu-rayリマスタリングのみとなっているが、DISC8の『TMN final live LAST GROOVE 5.19』に既発版では当時カットされていた『GET WILD '89』の映像や、[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")の姿も入ったリメイク仕様となっている。
+1984年-1994年までにリリースされた映像作品を[ブルーレイディスクにリマスタリングしたもので](../Page/Blu-ray_Disc.md "wikilink")、完全限定BOXにナンバリングが施されている。DISC1-DISC7 までは単にBlu-rayリマスタリングのみとなっているが、DISC8の『TMN final live LAST GROOVE 5.19』に既発版では当時カットされていた『GET WILD '89』の映像や、[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")の姿も入ったリメイク仕様となっている。
 
-また特典ディスクとして、1988年8月25日に東京ドームで行われたライヴ『**T-MUE-NEEDS STARCAMP TOKYO 1988.08.25**』と、 1985年10月31日に日本青年館で行われたライヴ『**DRAGON THE FESTIVAL TOUR featuring TM NETWORK 1985.10.31**』の2作品が今回新たにBlu-ray Discとなって同梱されている。
+また特典ディスクとして、1988年8月25日に東京ドームで行われたライヴ『**T-MUE-NEEDS STARCAMP TOKYO 1988.08.25**』と、1985年10月31日に日本青年館で行われたライヴ『**DRAGON THE FESTIVAL TOUR featuring TM NETWORK 1985.10.31**』の2作品が今回新たにBlu-ray Discとなって同梱されている。
 
 ## 収録曲
 

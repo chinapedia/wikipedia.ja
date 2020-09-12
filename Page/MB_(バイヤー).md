@@ -5,15 +5,15 @@
 
 ## 概要
 
-[メールマガジン](../Page/メールマガジン.md "wikilink")【最も早くオシャレになる方法】は2016年に[まぐまぐ！](https://www.mag2.com/m/0001622754.html)大賞受賞。2018年には２位を受賞。\[1\]\[2\][DMMオンラインサロン](https://ja.wikipedia.org/wiki/DMMオンラインサロン "wikilink") 「MBラボ」の運営、オリジナルアイテム「MBアイテム」の販売を行っている。
+[メールマガジン](../Page/メールマガジン.md "wikilink")【最も早くオシャレになる方法】は2016年に『[まぐまぐ！](https://www.mag2.com/m/0001622754.html)』大賞受賞。2018年には2位を受賞\[1\]\[2\]。[DMMオンラインサロン](https://ja.wikipedia.org/wiki/DMMオンラインサロン "wikilink") 「MBラボ」の運営、オリジナルアイテム「MBアイテム」の販売を行っている。
 
 ## ファッションロジック
 
 「[ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")と[カジュアル](https://ja.wikipedia.org/wiki/カジュアル "wikilink")の[バランス](https://ja.wikipedia.org/wiki/バランス "wikilink")は7:3の大原則で誰でも簡単におしゃれになれる。」\[3\]
 
-## TV番組
+## 出演
 
-・[ＭＢの俺のドラ１](https://www.twellv.co.jp/program/documentary/orenodora1/)([BS12](https://ja.wikipedia.org/wiki/Bs12 "wikilink")) 2020〜\[4\]
+  - [ＭＢの俺のドラ１](https://www.twellv.co.jp/program/documentary/orenodora1/)（2020年、[BS12](https://ja.wikipedia.org/wiki/BS12 "wikilink")）\[4\]
 
 ## 書籍
 
@@ -43,7 +43,17 @@
 
 ## 脚注
 
-[Category:ファッション界の人物](https://ja.wikipedia.org/wiki/Category:ファッション界の人物 "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:日本のブロガー](https://ja.wikipedia.org/wiki/Category:日本のブロガー "wikilink") [Category:日本の著作家](https://ja.wikipedia.org/wiki/Category:日本の著作家 "wikilink") [Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+## 外部リンク
+
+  - [Knower Mag](http://www.neqwsnet-japan.info/) - 公式サイト
+
+  -
+  -
+  -
+  -
+  - [MBオフィシャルブログ「今日の服、ユニクロです。」](https://ameblo.jp/mb-uniqlo)
+
+[Category:ファッション界の人物](https://ja.wikipedia.org/wiki/Category:ファッション界の人物 "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:日本のブロガー](https://ja.wikipedia.org/wiki/Category:日本のブロガー "wikilink") [Category:21世紀日本の著作家](https://ja.wikipedia.org/wiki/Category:21世紀日本の著作家 "wikilink") [Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

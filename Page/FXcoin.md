@@ -7,15 +7,15 @@
 
 暗号資産(仮想通貨)の取引サービスを提供。
 
-実需取引拡大のためのSwap市場の創設を目指す
-
 ## 特徴
 
-「暗号資産（仮想通貨）市場の健全な発展と拡大」「日本人の金融リテラシーの向上」を企業理念に掲げる。[ドイツ銀行](../Page/ドイツ銀行.md "wikilink")グループ出身、元[東京外国為替市場委員会](https://ja.wikipedia.org/wiki/東京外国為替市場委員会 "wikilink")副議⻑の大西知生によって設立された\[2\]。長年、金融業界の様々な部門の第一線にて経験を積んだメンバーが集っており、暗号資産（仮想通貨）取引に本当に必要な情報と分析と題して、FXcoin暗号資産(仮想通貨)情報サイトを無料で公開している。株主に[SBIグループ](https://ja.wikipedia.org/wiki/SBIグループ "wikilink")、[マネーパートナーズ](https://ja.wikipedia.org/wiki/マネーパートナーズ "wikilink")グループ、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")などがある。
+「暗号資産（仮想通貨）市場の健全な発展と拡大」「日本人の金融リテラシーの向上」を企業理念に掲げる。[ドイツ銀行](../Page/ドイツ銀行.md "wikilink")グループ出身、元[東京外国為替市場委員会](https://ja.wikipedia.org/wiki/東京外国為替市場委員会 "wikilink")副議⻑の大西知生によって設立された\[2\]。暗号資産（仮想通貨）取引に本当に必要な情報と分析と題して、FXcoin暗号資産(仮想通貨)情報サイトを無料で公開している。株主に[SBIグループ](https://ja.wikipedia.org/wiki/SBIグループ "wikilink")、[マネーパートナーズ](https://ja.wikipedia.org/wiki/マネーパートナーズ "wikilink")グループ、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")などがある。
 
 ## 取扱通貨
 
-[ビットコイン](https://ja.wikipedia.org/wiki/ビットコイン "wikilink")（Bitcoin）
+BTC：Bitcoin（[ビットコイン](https://ja.wikipedia.org/wiki/ビットコイン "wikilink")）
+
+XRP：XRP（[リップル](https://ja.wikipedia.org/wiki/Ripple_\(支払いシステム\) "wikilink")；Ripple）
 
 ## 沿革
 
@@ -28,6 +28,7 @@
   - [2019年](../Page/2019年.md "wikilink") [12月24日](../Page/12月24日.md "wikilink") - 一般社団法人日本暗号資産取引業協会　第一種会員へ会員種別変更
   - [2020年](../Page/2020年.md "wikilink") [4月22日](../Page/4月22日.md "wikilink") - 営業開始　新規口座開設申込み受付開始
   - [2020年](../Page/2020年.md "wikilink") [5月15日](../Page/5月15日.md "wikilink") - ビットコイン（Bitcoin）の取引開始
+  - [2020年](../Page/2020年.md "wikilink") [7月22日](../Page/7月22日.md "wikilink") - XRP（リップル）の取扱い開始
 
 ## 脚注
 

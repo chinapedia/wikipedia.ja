@@ -1,7 +1,7 @@
 > この記事は[RDNA \(マイクロアーキテクチャ\)](https://ja.wikipedia.org/wiki/RDNA_\(マイクロアーキテクチャ\))から翻訳されています。
 
 
-[英語版](https://ja.wikipedia.org/wiki/:en:RDNA_\(microarchitecture\) "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Generic_block_diagram_of_a_GPU.svg "wikilink") **RDNA** (**Radeon DNA**) は[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")[マイクロアーキテクチャ](../Page/マイクロアーキテクチャ.md "wikilink")のコード名である。添付の命令セットは[AMD](https://ja.wikipedia.org/wiki/AMD "wikilink")によって発達した。 [RDNA](https://ja.wikipedia.org/wiki/RDNA "wikilink")を代表としている最初の製品ラインアップは、Radeon RX 5000シリーズ。 [AMD RadeonグラフィックスカードのNaviシリーズで使用されている](../Page/AMD_Radeon.md "wikilink")[TSMC](../Page/TSMC.md "wikilink")の7 nm FinFETグラフィックスチップを使用して製造されている。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Generic_block_diagram_of_a_GPU.svg "wikilink") **RDNA** (**Radeon DNA**) は[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")[マイクロアーキテクチャ](../Page/マイクロアーキテクチャ.md "wikilink")のコード名である。添付の命令セットは[AMD](https://ja.wikipedia.org/wiki/AMD "wikilink")。 RDNAを代表としている最初の製品ラインアップは、Radeon RX 5000シリーズ。 [AMD RadeonグラフィックスカードのNaviシリーズで使用されている](../Page/AMD_Radeon.md "wikilink")[TSMC](../Page/TSMC.md "wikilink")の7 nm FinFETグラフィックスチップを使用して製造されている。
 
 ## アーキテクチャ
 
@@ -29,10 +29,17 @@ Wave32：GCNは、64スレッド（作業項目）の波面サイズを使用し
 
 ## AMD RDNA 2
 
-RDNA 2 （またRDNA2 ）の後継であるRDNA 1マイクロアーキテクチャは2020年にリリースされる予定されている。
+RDNA 1の後継であるRDNA 2(またRDNA2)マイクロアーキテクチャは2020年にリリースされる予定とされている。
 
-RDNA 2の詳細は、2020年3月5日にAMDのFinancial Analyst Dayで公開されている。 AMDは、RDNA 1よりもワットあたりのパフォーマンスが50％向上すると主張している。クロック速度とクロックあたりの命令の増加。AMDが確認した追加機能には、リアルタイムのハードウェア加速レイトレーシングと可変レートシェーディングが含まれる。
+RDNA 2の詳細は、2020年3月5日にAMDのFinancial Analyst Dayで公開されている。AMDは、RDNA 1よりもワットあたりのパフォーマンスが50％向上すると主張している。また、正確な値は提供されていないがクロック速度とクロックあたりの命令の増加している。AMDが確認した追加機能には、リアルタイムのハードウェアレイトレーシングと可変レートシェーディングが含まれる。
 
-・第9世代のゲーム機での使用 RDNA 2は、今後に使用されるグラフィックマイクロアーキテクチャとして確認されている第9世代のゲームコンソール（すなわち、[Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink") [Xbox seriesX](../Page/Xbox_Series_X.md "wikilink") 、および[ソニー](../Page/ソニー.md "wikilink") [PlayStation5](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")）、独自の調整とで異なるGPU構成で各システムの実装。
+・第9世代のゲーム機での使用
+
+  -
+    RDNA 2は、今後独自の調整と異なる構成で第9世代のゲームコンソール（[Xbox seriesXおよび](../Page/Xbox_Series_X.md "wikilink")[PlayStation5](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")）に使用されるグラフィックマイクロアーキテクチャとして確認されている。
+
+## 外部リンク
+
+  - [RDNAアーキテクチャー](https://www.amd.com/ja/technologies/rdna) - AMD
 
 [Category:コンピュータアーキテクチャ](https://ja.wikipedia.org/wiki/Category:コンピュータアーキテクチャ "wikilink") [Category:2019年の作品](https://ja.wikipedia.org/wiki/Category:2019年の作品 "wikilink")

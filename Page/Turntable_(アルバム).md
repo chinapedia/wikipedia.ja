@@ -29,7 +29,7 @@
         デビューアルバム『[BEGINNING](https://ja.wikipedia.org/wiki/BEGINNING_\(竹内まりやのアルバム\) "wikilink")』から収録。竹内が初めて作詞作曲した楽曲で、幼い頃から大好きだったポップスに寄せる思いをテーマにした愛着のある作品。演奏を手掛けた[センチメンタル・シティ・ロマンス](../Page/センチメンタル・シティ・ロマンス.md "wikilink")と箱根のロックウェル・スタジオで合宿レコーディングした思い出が蘇ってくるという\[7\]。
 2.  **オン・ザ・ユニヴァーシティ・ストリート**  \[8\]
       -
-        作詞・作曲：竹内まりや / 編曲：[細井 豊 BAND](../Page/細井豊.md "wikilink") / ホーン編曲：[杉 真理](../Page/杉真理.md "wikilink")
+        作詞・作曲：竹内まりや / 編曲：[細井豊](../Page/細井豊.md "wikilink")BAND / ホーン編曲：[杉真理](../Page/杉真理.md "wikilink")
         2ndアルバム『[UNIVERSITY STREET](https://ja.wikipedia.org/wiki/UNIVERSITY_STREET "wikilink")』から収録。2ndアルバムのコンセプト「大学生活」にちなんで書いたこの曲は、編曲の細井豊に頼んで[ビートルズ](../Page/ビートルズ.md "wikilink")風にしてもらった。最後の会話の相手は友人の[アン・ルイス](../Page/アン・ルイス.md "wikilink")\[9\]。
 3.  **待っているわ**  \[10\]
       -
@@ -37,7 +37,7 @@
         3rdアルバム『[LOVE SONGS](https://ja.wikipedia.org/wiki/LOVE_SONGS_\(竹内まりやのアルバム\) "wikilink")』から収録。遊び上手な男性に振り回される女性が主人公の曲になっている。[ラス・カンケル](https://ja.wikipedia.org/wiki/ラス・カンケル "wikilink")や[リーランド・スカラー](../Page/リーランド・スカラー.md "wikilink")といった一流ミュージシャンに自分の曲を演奏してもらえることに感激もひとしおだったという\[11\]。
 4.  **二人のバカンス**  \[12\]
       -
-        作詞：竹内まりや / 作曲・編曲：[林 哲司](../Page/林哲司.md "wikilink")
+        作詞：竹内まりや / 作曲・編曲：[林哲司](../Page/林哲司.md "wikilink")
         4thアルバム『[Miss M](https://ja.wikipedia.org/wiki/Miss_M "wikilink")』から収録。林哲司との初の共作。[AOR](../Page/AOR.md "wikilink")感の漂うアレンジと明るいメロディからひらめいたのは、飛行機が空に飛んでいくイメージだった。竹内自身は直前に喉を壊して入院していたこともあり、「どこか遠くに逃げたかったのかな?」と当時の心境を回想している\[13\]。
 5.  **Sweetest Music**  \[14\]
       -
@@ -94,7 +94,7 @@
 
 ### DISC 2 (Mariya's Rarities)
 
-山下達郎『[RARITIES](https://ja.wikipedia.org/wiki/RARITIES "wikilink")』の竹内まりや版とも言うべき内容で、アルバム未収録のカップリング曲やレア音源を収録したレア音源集。[岡田有希子](../Page/岡田有希子.md "wikilink")への提供曲「[ファースト・デイト](https://ja.wikipedia.org/wiki/ファースト・デイト_\(岡田有希子の曲\) "wikilink")」、「'[恋、はじめまして](https://ja.wikipedia.org/wiki/-Dreaming_Girl-_恋、はじめまして "wikilink")」、「憧れ」の初セルフカバーなど、新たに録音された音源も収録されている。
+山下達郎『[RARITIES](https://ja.wikipedia.org/wiki/RARITIES_\(山下達郎のアルバム\) "wikilink")』の竹内まりや版とも言うべき内容で、アルバム未収録のカップリング曲やレア音源を収録したレア音源集。[岡田有希子](../Page/岡田有希子.md "wikilink")への提供曲「[ファースト・デイト](https://ja.wikipedia.org/wiki/ファースト・デイト_\(岡田有希子の曲\) "wikilink")」、「'[恋、はじめまして](https://ja.wikipedia.org/wiki/-Dreaming_Girl-_恋、はじめまして "wikilink")」、「憧れ」の初セルフカバーなど、新たに録音された音源も収録されている。
 
 1.  **[戻っておいで・私の時間 {{Resize](https://ja.wikipedia.org/wiki/戻っておいで・私の時間 "wikilink")**  \[40\]
       -
@@ -170,7 +170,7 @@
         アン・ルイスのカバー。山下達郎プロデュースによるアルバムの中でもお気に入りだったためカバーしたくなり、ラジオ・オンエア用に難波弘之と[伊藤広規](https://ja.wikipedia.org/wiki/伊藤広規 "wikilink")の伴奏のみで歌ったもの\[75\]。
 19. **[You & Night & Whisky 〜ウイスキーが、お好きでしょ {{Resize](https://ja.wikipedia.org/wiki/ウイスキーが、お好きでしょ#竹内まりや版（2010年） "wikilink")**  \[76\]
       -
-        作詞：[星野 操](https://ja.wikipedia.org/wiki/スリー・グレイセス "wikilink") / 作曲：杉 真理 / 編曲：服部克久
+        作詞：[星野操](https://ja.wikipedia.org/wiki/スリー・グレイセス "wikilink") / 作曲：杉真理 / 編曲：服部克久
         「ウイスキーが、お好きでしょ」の英語バージョン。服部克久によるオーケストレーションが加えられている。英語詞を手掛けた星野操は竹内が幼少の頃よく聴いていたという[スリー・グレイセス](https://ja.wikipedia.org/wiki/スリー・グレイセス "wikilink")のメンバーの1人\[77\]。
 20. **[Where The Boys Are 〜ボーイ・ハント {{Resize](https://ja.wikipedia.org/wiki/ボーイ・ハント_\(曲\) "wikilink")**  \[78\]
       -
@@ -184,7 +184,7 @@
 1.  **Baby Mine **  \[80\]
       -
         作詞：Ned Washington / 作曲：[Frank Churchill](../Page/フランク・チャーチル.md "wikilink") / 編曲：Anders Dannvik
-        『[ダンボ](../Page/ダンボ.md "wikilink")』の挿入歌のカバーで、実写映画版『[ダンボ](https://ja.wikipedia.org/wiki/ダンボ_\(2019年の映画\) "wikilink")』主題歌の英語バージョン。竹内の娘が幼い頃よく一緒に観たディズニー・アニメが『[ダンボ](../Page/ダンボ.md "wikilink")』だった。母親象のジャンボがこの歌を歌うシーンで決まって涙したという\[81\]。
+        ディズニー映画『[ダンボ](../Page/ダンボ.md "wikilink")』挿入歌のカバーで、実写映画版『[ダンボ](https://ja.wikipedia.org/wiki/ダンボ_\(2019年の映画\) "wikilink")』主題歌の英語バージョン。竹内の娘が幼い頃よく一緒に観たディズニー・アニメが『[ダンボ](../Page/ダンボ.md "wikilink")』だった。母親象のジャンボがこの歌を歌うシーンで決まって涙したという\[81\]。
 2.  **[No Reply](../Page/ノー・リプライ.md "wikilink")**  \[82\]
       -
         作詞・作曲：[John Lennon](../Page/ジョン・レノン.md "wikilink")・[Paul McCartney](../Page/ポール・マッカートニー.md "wikilink")
@@ -729,7 +729,7 @@
 | 山下達郎 : Drum Programming, Computer Programming, Electric Guitar, Acoustic Guitar, Keyboards, Glocken, Percussion & Background Vocal |
 | 難波弘之 : Synth Acoustic Piano                                                                                                        |
 | [佐藤竹善](../Page/佐藤竹善.md "wikilink") : Background Vocal                                                                              |
-| [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美 "wikilink") : Background Vocal                                                         |
+| [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink") : Background Vocal                                             |
 | [高尾"CANDEE"のぞみ](https://ja.wikipedia.org/wiki/高尾のぞみ "wikilink") : Background Vocal                                                 |
 | 竹内まりや : Background Vocal                                                                                                           |
 | 椎名和夫 : Synthsizer Operation                                                                                                        |

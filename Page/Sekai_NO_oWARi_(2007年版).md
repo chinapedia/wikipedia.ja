@@ -7,31 +7,51 @@
 
 SEKAI NO OWARI（当時「世界の終わり」）が2007年に255枚限定で出した、通称「針なし時計」「世界の終わり ファーストオリジナルミニアルバム」「白EARTH」。「黒EARTH」よりも以前のもの。[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")の直筆サインが入っているディスクが混在している。また、メンバーの話し声なども入った。
 
-## 記録曲
+## 収録曲
 
-１．虹色の戦争
+1\. **虹色の戦争** \[5:32\]
 
-　　作曲：深瀬慧
+<div class="NavContent" style="text-align: left;font-size:small;">
 
-　　　　　基本的に、EARTHと同じである。
+作詞：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")
+作曲：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")
 
-２．幻の命
+</div>
 
-　　作曲：藤崎彩織
+基本的に、EARTHと同じである。ラストのDJ LOVEのパートが日本語歌詞である。
 
-　　　　　イントロがギターで始まり、歌詞がすべて日本語である。最後の「君の パパとママの歌」という歌詞がない。
+2\. **幻の命** \[5:01\]
 
-３．青い太陽
+<div class="NavContent" style="text-align: left;font-size:small;">
 
-　　作曲：深瀬慧・中島真一
+作詞：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")
+作曲：[藤崎彩織](https://ja.wikipedia.org/wiki/Saori_\(音楽家\) "wikilink")
 
-　　　　　初めの、EARTHではDJ LOVEが歌っている部分がなく、歌詞がすべて日本語である。曲の長さが7分以上ある。
+</div>
 
-４．白昼の夢
+イントロがギターで始まり、歌詞がすべて日本語である。最後の「君の パパとママの歌」という歌詞がない。
 
-　　作曲：深瀬慧
+3\. **青い太陽** \[7:01\]
 
-　　　　　EARTHと比べ、イントロが違う。
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+作詞：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")
+作曲：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")・[中島真一](https://ja.wikipedia.org/wiki/Nakajin "wikilink")
+
+</div>
+
+EARTHではDJ LOVEが歌っている部分がなく、イントロが日本語歌詞である。
+
+4\. **白昼の夢** \[6:26\]
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+作詞：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")
+作曲：[深瀬慧](https://ja.wikipedia.org/wiki/Fukase "wikilink")
+
+</div>
+
+EARTHと比べ、イントロが違い、キーが高い。
 
 ## 脚注
 

@@ -150,7 +150,7 @@
 <tr class="odd">
 <td><p>015</p></td>
 <td><p>2018年6月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤詩織_(欅坂46)" title="wikilink">佐藤詩織</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤詩織_(アイドル)" title="wikilink">佐藤詩織</a><br />
 （欅坂46）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/秋本帆華" title="wikilink">秋本帆華</a><br />
 <span style="white-space:nowrap">（チームしゃちほこ）</span></p></td>
@@ -217,6 +217,15 @@
 （でんぱ組.inc）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/峯岸みなみ" title="wikilink">峯岸みなみ</a>（AKB48）、大場花菜（=LOVE）、吉井美優（26時のマスカレイド）、プー・ルイ、<a href="https://ja.wikipedia.org/wiki/十束おとは" title="wikilink">十束おとは</a>（フィロソフィーのダンス）、小犬丸ぽち（CY8ER）、茜空（ukka）、冬野あゐく&amp;清乃希子（BLACKNAZARENE）、ゆるめるモ!</p></td>
 </tr>
+<tr class="odd">
+<td><p>023</p></td>
+<td><p>2020年7月31日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/潮紗理菜" title="wikilink">潮紗理菜</a><br />
+（日向坂46）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/齋藤冬優花" title="wikilink">齋藤冬優花</a><br />
+（欅坂46）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/巫まろ" title="wikilink">巫まろ</a>（ZOC）、<a href="https://ja.wikipedia.org/wiki/山﨑夢羽" title="wikilink">山﨑夢羽</a>（BEYOOOOONDS）、<a href="https://ja.wikipedia.org/wiki/松本ももな" title="wikilink">松本ももな</a>（ラストアイドル）、<a href="https://ja.wikipedia.org/wiki/森みはる" title="wikilink">森みはる</a>（26時のマスカレイド）、塩見きら（神宿）、桜井美里（ukka）、高萩千夏（<a href="https://ja.wikipedia.org/wiki/アップアップガールズ（2）" title="wikilink">アップアップガールズ（2）</a>）、<a href="https://ja.wikipedia.org/wiki/佐藤まりあ_(女性アイドル)" title="wikilink">佐藤まりあ</a>（フィロソフィーのダンス）、<a href="https://ja.wikipedia.org/wiki/新倉のあ" title="wikilink">ブラジル</a>（<a href="https://ja.wikipedia.org/wiki/MIGMA_SHELTER" title="wikilink">MIGMA SHELTER</a>）、カミヤサキ</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -254,7 +263,11 @@
 | Vol.26 | 2020年1月28日                                          | MC：里咲りさ、ゲスト：[NILKLY](https://ja.wikipedia.org/wiki/NILKLY "wikilink")（小林潤・蒼山ユーリ）、ふゆのどうぶつえん                                                                                                                                                                                                                                                                                                                                                                              |
 | Vol.27 | 2020年2月19日                                          | MC：里咲りさ、ゲスト：[アップアップガールズ（2）](https://ja.wikipedia.org/wiki/アップアップガールズ（2） "wikilink")（高萩千夏・鍛治島彩）、[クマリデパート](https://ja.wikipedia.org/wiki/クマリデパート "wikilink")                                                                                                                                                                                                                                                                                                              |
 | Vol.28 | 2020年3月25日                                          | MC：宇佐蔵べに、ゲスト：ゆるめるモ\!、[十束おとは](https://ja.wikipedia.org/wiki/十束おとは "wikilink")（[フィロソフィーのダンス](https://ja.wikipedia.org/wiki/フィロソフィーのダンス "wikilink")）                                                                                                                                                                                                                                                                                                                       |
-| Vol.29 | 2020年4月3日                                           | ゲスト：[Aphrodite](https://ja.wikipedia.org/wiki/Aphrodite_\(アイドル\) "wikilink")（倉澤雪乃・ゆら・歩那）、[狂い咲けセンターロード](https://ja.wikipedia.org/wiki/狂い咲けセンターロード "wikilink")（夢咲あいり・来栖萌々花・木田葉音）、棘-おどろ-（田中しろめ・月奏ミサ）                                                                                                                                                                                                                                                                       |
+| Vol.29 | 2020年4月3日                                           | ゲスト：倉澤雪乃・ゆら・歩那（[Aphrodite](https://ja.wikipedia.org/wiki/Aphrodite_\(アイドル\) "wikilink")）、夢咲あいり・来栖萌々花・木田葉音（[狂い咲けセンターロード](https://ja.wikipedia.org/wiki/狂い咲けセンターロード "wikilink")）、田中しろめ・月奏ミサ（棘-おどろ-）                                                                                                                                                                                                                                                                       |
+| Vol.30 | 2020年5月30日                                          | MC：宗像明将、ゲスト：田中紘治（[AqbiRec](../Page/AqbiRec.md "wikilink")）、田家大知（ゆるめるモ\!）                                                                                                                                                                                                                                                                                                                                                                                                |
+| Vol.31 | 2020年6月29日                                          | MC：宗像明将、ゲスト：[月日](https://ja.wikipedia.org/wiki/月日_\(アイドル\) "wikilink")（[RAY](../Page/RAY_\(アイドルグループ\).md "wikilink")）、宮衣紗羽・出雲なる（代代代）、へち・さくら（[EMOE](https://ja.wikipedia.org/wiki/EMOE "wikilink")）                                                                                                                                                                                                                                                                      |
+| Vol.32 | 2020年7月22日                                          | MC：宗像明将、ゲスト：みんなのこどもちゃん、FLAME・MAI（[クロスノエシス](../Page/クロスノエシス.md "wikilink")）、愛成来来・緋鬼籠六花（[プランクスターズ](https://ja.wikipedia.org/wiki/プランクスターズ "wikilink")）                                                                                                                                                                                                                                                                                                                    |
+| Vol.33 | 2020年8月17日                                          | MC：[南波一海](https://ja.wikipedia.org/wiki/南波一海 "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/新倉のあ "wikilink")（MIGMA SHELTER）、星熊南巫・海羽凜（[我儘ラキア](https://ja.wikipedia.org/wiki/我儘ラキア "wikilink")）、内山結愛・白川さやか（RAY）                                                                                                                                                                                                                                                         |
 
 ## ライブ
 
@@ -279,7 +292,7 @@
 <tr class="even">
 <td><p>IDOL AND READ LIVE NEO Vol.1</p></td>
 <td><p>2019年8月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/目黒鹿鳴館" title="wikilink">目黒鹿鳴館</a></p></td>
+<td><p><a href="../Page/目黒鹿鳴館.md" title="wikilink">目黒鹿鳴館</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤなことそっとミュート" title="wikilink">ヤなことそっとミュート</a>（special guest）、<a href="https://ja.wikipedia.org/wiki/avandoned" title="wikilink">avandoned</a>、<a href="https://ja.wikipedia.org/wiki/棘-おどろ-" title="wikilink">棘-おどろ-</a>、<a href="https://ja.wikipedia.org/wiki/SAKA-SAMA" title="wikilink">SAKA-SAMA</a>、<a href="https://ja.wikipedia.org/wiki/LAST_IN_MY_CULT" title="wikilink">LAST IN MY CULT</a></p></td>
 </tr>
 <tr class="odd">
@@ -303,14 +316,14 @@
 <tr class="even">
 <td><p>IDOL AND READ LIVE NEO vol.4</p></td>
 <td><p><del>2020年4月16日</del><br />
-※7月に延期予定[3]</p></td>
+※7月29日に延期予定だったが中止</p></td>
 <td><p>目黒鹿鳴館</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Aphrodite" title="wikilink">Aphrodite</a>、<a href="https://ja.wikipedia.org/wiki/狂い咲けセンターロード" title="wikilink">狂い咲けセンターロード</a>、<a href="https://ja.wikipedia.org/wiki/棘-おどろ-" title="wikilink">棘-おどろ-</a>、<a href="https://ja.wikipedia.org/wiki/始発待ちアンダーグラウンド" title="wikilink">始発待ちアンダーグラウンド</a>、<a href="https://ja.wikipedia.org/wiki/cana÷biss" title="wikilink">cana÷biss</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><nowiki>ROCK and IDOL and READ live</p></td>
 <td><p>vol.3</nowiki></p></td>
-<td><p>2020年6月23日</p></td>
+<td><p><del>2020年6月23日</del>※延期</p></td>
 <td><p>新宿LOFT</p></td>
 </tr>
 </tbody>
@@ -331,4 +344,3 @@
 
 1.
 2.
-3.

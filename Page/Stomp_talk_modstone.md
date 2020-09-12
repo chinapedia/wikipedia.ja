@@ -18,7 +18,7 @@
 
 ## メンバー
 
-**川島剛光 (かわしま たかみつ)** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
+**[川島剛光](https://ja.wikipedia.org/wiki/川島剛光 "wikilink") (かわしま たかみつ)** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
   - [千葉県](../Page/千葉県.md "wikilink")[館山市](../Page/館山市.md "wikilink")出身。
   - STOMP TALK MODSTONEの全楽曲の[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")に加えて[ミックス](../Page/ミックス.md "wikilink")や[マスタリング](../Page/マスタリング.md "wikilink")なども手がける。
@@ -168,6 +168,35 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>8th</p></td>
+<td><p>2020年6月6日</p></td>
+<td><p><strong>Timeline/Lucky</strong></p></td>
+<td><ol>
+<li>Timeline</li>
+<li>Lucky</li>
+</ol></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p>2020年6月27日</p></td>
+<td><p><strong>Gypsophila​/​Wander</strong></p></td>
+<td><ol>
+<li>Gypsophila</li>
+<li>Wander</li>
+</ol></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10th</p></td>
+<td><p>2020年7月25日</p></td>
+<td><p><strong>Hurt</strong></p></td>
+<td><ol>
+<li>Hurt</li>
+</ol></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -576,6 +605,34 @@
 </ol></td>
 </tr>
 <tr class="even">
+<td><p>8th</p></td>
+<td><p>2020年6月17日</p></td>
+<td><p><strong>HOLLOW</strong></p></td>
+<td><p>デジタル・ダウンロード</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全15曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>アンチテーゼ</li>
+<li>不感症</li>
+<li>Hollow</li>
+<li>自覚症状</li>
+<li>カタストロフィー</li>
+<li>特別賞</li>
+<li>(If I Could Be) Who You Wanted</li>
+<li>理由のない</li>
+<li>ep.春色</li>
+<li>異常</li>
+<li>わからない</li>
+<li>Crashin</li>
+<li>シャーベット</li>
+<li>泥な魚</li>
+<li>カイシ</li>
+</ol></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -620,7 +677,7 @@
 
   - 公式アカウント
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:シューゲイザー・バンド](https://ja.wikipedia.org/wiki/Category:シューゲイザー・バンド "wikilink") [Category:ドリーム・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:ドリーム・ポップ・バンド "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 
 1.  STOMP TALK MODSTONE インターネットラジオにて。
 2.  \[[https://harutosyura.wixsite.com/stomp-talk-modstone/band\]STOMP](https://harutosyura.wixsite.com/stomp-talk-modstone/band%5DSTOMP) TALK MODSTONE OFFICIAL WEB SITE

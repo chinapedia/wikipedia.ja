@@ -11,7 +11,7 @@
 
 動力台車、付随台車は共に[軸ばね](https://ja.wikipedia.org/wiki/軸ばね "wikilink")（ゴムばね）と[枕ばね](../Page/枕ばね.md "wikilink")（ゴム製ショックアブソーバーを備えた[コイルばね](https://ja.wikipedia.org/wiki/コイルばね "wikilink")）を備え、振動や騒音の抑制が図られている。動力台車は回転軸を有し、出力80 kwの直流電動機（DK263B）が2基設置されている一方、付随台車は回転軸を持たず、車体に固定されている。制御装置は[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")方式が用いられる。
 
-[2002年](../Page/2002年.md "wikilink")に1両が試作され、[2020年](../Page/2020年.md "wikilink")現在もで使用されている。
+[2002年](../Page/2002年.md "wikilink")に1両が試作され、[2020年](../Page/2020年.md "wikilink")現在も[ミンスク市電](../Page/ミンスク市電.md "wikilink")で使用されている。
 
 <File:Daŭhabrodskaja> Street (Minsk, Belarus) — Улица Долгобродская (Минск, Беларусь) 09.jpg|扉が設置されていない左側面（[2018年](../Page/2018年.md "wikilink")撮影） <File:AKSM-743> in Minsk.jpg|後方には運転台が存在しない（[2019年](../Page/2019年.md "wikilink")撮影）
 
@@ -24,4 +24,4 @@
 ## 外部リンク
 
   -
-[Category:ベルコムンマッシュ製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ベルコムンマッシュ製の鉄道車両 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:2002年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2002年製の鉄道車両 "wikilink")
+[Category:ベルコムンマッシュ製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ベルコムンマッシュ製の鉄道車両 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:2002年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2002年製の鉄道車両 "wikilink")

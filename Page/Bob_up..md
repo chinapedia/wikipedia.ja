@@ -15,9 +15,41 @@
 
 8月1日、「[NEXT IDOL GRANDPRIX 2019](https://ja.wikipedia.org/wiki/NEXT_IDOL_GRANDPRIX#2019年 "wikilink")」に参加を表明、翌2日より[MixChannel](https://ja.wikipedia.org/wiki/MixChannel "wikilink")による配信を開始\[6\]。準決勝リーグを勝ち抜き、10月14日・[渋谷ストリームホール](https://ja.wikipedia.org/wiki/渋谷ストリームホール "wikilink")で行われる決勝大会に出場。なお、出場が決まった時点ではまだ初ライブを行う前だった\[7\]。
 
-2020年3月30日、bob up.ハーフアニバーサリー記念公演をSELENE b2で開催する予定だったが、[2019年コロナウイルス感染症の影響により延期となった](../Page/日本における2019年コロナウイルス感染症の流行状況.md "wikilink")\[8\]。
+2020年3月30日、bob up.ハーフアニバーサリー記念公演をSELENE b2で開催する予定だったが、[2019年コロナウイルス感染症の影響により延期となった](../Page/日本における2019年コロナウイルス感染症の流行状況.md "wikilink")\[8\]（無観客ライブは5月29日より、観客を入れたライブは6月26日より再開）。
+
+2020年8月19日、この日の[MARQUEE Fes.をもって](https://ja.wikipedia.org/wiki/MARQUEE祭#MARQUEE_Fes. "wikilink")[音羽かのん](https://ja.wikipedia.org/wiki/音羽かのん "wikilink")が卒業。それに伴いグループもライブ活動休止\[9\]。
 
 ## メンバー
+
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>生年月日</p></th>
+<th><p>カラー</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>森宮 あい</strong><br />
+<small>もりみや あい</small></p></td>
+<td></td>
+<td><p>青色の波(Trend)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>桃瀬 めぐ</strong><br />
+<small>ももせ めぐ</small></p></td>
+<td></td>
+<td><p>桃色のリボン(Cute)</p></td>
+<td><p>元M!MiC。「須崎芽育」名義で「<a href="https://ja.wikipedia.org/wiki/今日、好きになりました。" title="wikilink">今日、好きになりました。</a>」（<a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>）出演<br />
+<a href="https://ja.wikipedia.org/wiki/サキドルエースSURVIVAL#サキドルエースSURVIVAL_SEASON10" title="wikilink">サキドルエースSURVIVAL SEASON10</a>（<a href="../Page/集英社.md" title="wikilink">集英社</a>）参加[10]</p></td>
+</tr>
+</tbody>
+</table>
+
+### 元メンバー
 
 <table>
 <thead>
@@ -34,22 +66,8 @@
 <span style="white-space:nowrap"><small>おとわ かのん</small></span></p></td>
 <td></td>
 <td><p>赤色のハート(Real)</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/ハコイリムスメ" title="wikilink">ハコイリ♡ムスメ</a>。2019年7月28日、阿部かれんより改名</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>森宮 あい</strong><br />
-<small>もりみや あい</small></p></td>
-<td></td>
-<td><p>青色の波(Trend)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>桃瀬 めぐ</strong><br />
-<small>ももせ めぐ</small></p></td>
-<td></td>
-<td><p>桃色のリボン(Cute)</p></td>
-<td><p>元M!MiC。「須崎芽育」名義で「<a href="https://ja.wikipedia.org/wiki/今日、好きになりました。" title="wikilink">今日、好きになりました。</a>」（<a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>）出演<br />
-<a href="https://ja.wikipedia.org/wiki/サキドルエースSURVIVAL#サキドルエースSURVIVAL_SEASON10" title="wikilink">サキドルエースSURVIVAL SEASON10</a>（<a href="../Page/集英社.md" title="wikilink">集英社</a>）参加[9]</p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/ハコイリ♡ムスメ" title="wikilink">ハコイリ♡ムスメ</a>。2019年7月28日、阿部かれんより改名<br />
+2020年8月19日卒業[11]</p></td>
 </tr>
 </tbody>
 </table>
@@ -70,13 +88,13 @@
 
 ### テレビ
 
-  - 「[NEXT IDOL GRANDPRIX](https://ja.wikipedia.org/wiki/NEXT_IDOL_GRANDPRIX "wikilink") 前夜祭 -伝説を作るのは君だぁ～！スペシャルぅ\!\!-」\#1（[Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink") 2019年10月5日、[チバテレ](../Page/千葉テレビ放送.md "wikilink") 2019年10月6日 ）\[10\]
+  - 「[NEXT IDOL GRANDPRIX](https://ja.wikipedia.org/wiki/NEXT_IDOL_GRANDPRIX "wikilink") 前夜祭 -伝説を作るのは君だぁ～！スペシャルぅ\!\!-」\#1（[Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink") 2019年10月5日、[チバテレ](../Page/千葉テレビ放送.md "wikilink") 2019年10月6日 ）\[12\]
   - 「NEXT IDOL GRANDPRIX 後夜祭」（Kawaiian TV 2019年10月26日、チバテレ 2019年10月27日・11月3日）
   - 「[ダイヤモンド☆コレクション](https://ja.wikipedia.org/wiki/ダイヤモンド☆コレクション "wikilink")〜BRASH UP BOUT\!\!〜\#7」（チバテレ 2020年1月14日（13日深夜））
 
 ### インターネット配信
 
-  - DJ Tomoaki’s Radio Show\!（下北FM、2019年9月26日）
+  - DJ Tomoaki's Radio Show\!（下北FM、2019年9月26日）
   - トライアイドル\#1（[WALLOP](https://ja.wikipedia.org/wiki/WALLOP "wikilink")、2020年1月20日）
 
 ### CM
@@ -134,54 +152,74 @@
 | <span style="white-space:nowrap">12月26・27日</span> |
 | 12月28日                                            |
 
-| 2020年    |
-| -------- |
-| 公演日      |
-| 1月3日     |
-| 1月4日     |
-| 1月4日     |
-| 1月6日     |
-| 1月11日    |
-| 1月16日    |
-| 1月17日    |
-| 1月18日    |
-| 1月18日    |
-| 1月19日    |
-| 1月19日    |
-| 1月20日    |
-| 1月21日    |
-| 1月25日    |
-| 1月25日    |
-| 1月31日    |
-| 2月1日     |
-| 2月1日     |
-| 2月2日     |
-| 2月9日     |
-| 2月10日    |
-| 2月10日    |
-| 2月10日    |
-| 2月11日    |
-| 2月11日    |
-| 2月15日    |
-| 2月16日    |
-| 2月19日    |
-| 2月20日    |
-| 2月22日    |
-| 2月24日    |
-| 2月25日    |
-| 2月27日    |
-| 2月29日    |
-| 2月29日    |
-| 3月2日     |
-| 3月7日     |
-| 3月8日     |
-| 3月8日     |
-| 3月11日    |
-| 3月14日    |
-| 3月15日    |
-| 3月20日    |
-| 3月21・22日 |
-| 3月23日    |
+| 2020年                                            |
+| ------------------------------------------------ |
+| 公演日                                              |
+| 1月3日                                             |
+| 1月4日                                             |
+| 1月4日                                             |
+| 1月6日                                             |
+| 1月11日                                            |
+| 1月16日                                            |
+| 1月17日                                            |
+| 1月18日                                            |
+| 1月18日                                            |
+| 1月19日                                            |
+| 1月19日                                            |
+| 1月20日                                            |
+| 1月21日                                            |
+| 1月25日                                            |
+| 1月25日                                            |
+| 1月31日                                            |
+| 2月1日                                             |
+| 2月1日                                             |
+| 2月2日                                             |
+| 2月9日                                             |
+| 2月10日                                            |
+| 2月10日                                            |
+| 2月10日                                            |
+| 2月11日                                            |
+| 2月11日                                            |
+| 2月15日                                            |
+| 2月16日                                            |
+| 2月19日                                            |
+| 2月20日                                            |
+| 2月22日                                            |
+| 2月24日                                            |
+| 2月25日                                            |
+| 2月27日                                            |
+| 2月29日                                            |
+| 2月29日                                            |
+| 3月2日                                             |
+| 3月7日                                             |
+| 3月8日                                             |
+| 3月8日                                             |
+| 3月11日                                            |
+| 3月14日                                            |
+| 3月15日                                            |
+| 3月20日                                            |
+| <span style="white-space:nowrap">3月21・22日</span> |
+| 3月23日                                            |
+| 5月29日                                            |
+| 6月7日                                             |
+| 6月26日                                            |
+| 6月27日                                            |
+| 6月30日                                            |
+| 7月4日                                             |
+| 7月7日                                             |
+| 7月13日                                            |
+| 7月18日                                            |
+| 7月23日                                            |
+| 7月24日                                            |
+| 7月25日                                            |
+| 7月31日                                            |
+| 8月1日                                             |
+| 8月2日                                             |
+| 8月2日                                             |
+| 8月3日                                             |
+| 8月10日                                            |
+| 8月15日                                            |
+| 8月19日                                            |
 
 ## 脚注
 
@@ -196,8 +234,7 @@
   -
   -
   -
-  -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -209,3 +246,5 @@
 8.
 9.
 10.
+11.
+12.

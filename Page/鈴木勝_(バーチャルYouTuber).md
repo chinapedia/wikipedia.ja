@@ -18,13 +18,14 @@
 ### 2019年
 
   - [2019年](../Page/2019年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")、2ndチャンネルが収益化される。
-  - [1月25日](../Page/1月25日.md "wikilink")、ASMR配信を始める。
-  - [4月1日](../Page/4月1日.md "wikilink")、エイプリルフール企画でバーチャルライバー「Ruco(るこ)」としてバ美肉（バーチャル美少女受肉）した。その後も度々Rucoとして配信を行っている。
+  - [1月25日](../Page/1月25日.md "wikilink")、[ASMR](https://ja.wikipedia.org/wiki/ASMR "wikilink")配信を始める。
+  - [4月1日](../Page/4月1日.md "wikilink")、[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")企画でバーチャルライバー「Ruco(るこ)」として[バ美肉](https://ja.wikipedia.org/wiki/バ美肉 "wikilink")（バーチャル美少女受肉）した。その後も度々Rucoとして配信を行っている。
   - [5月9日](../Page/5月9日.md "wikilink")、1stチャンネルが収益化される。
 
 ### 2020年
 
   - [2020年](../Page/2020年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、にじさんじ公式放送内にて、[ユニバーサルミュージックのレーベル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「[Virgin Music](../Page/Virgin_Music.md "wikilink")」よりメジャーデビュー予定のユニット「**[Rain Drops](https://ja.wikipedia.org/wiki/にじさんじ#Rain_Drops "wikilink")**」メンバーの1人であることが発表された。「\#RainDrops」は[Twitter](../Page/Twitter.md "wikilink")世界トレンド1位、YouTube同時アクセスは5.1万人を記録した\[4\]。
+  - [5月31日](../Page/5月31日.md "wikilink")、[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")にて初配信。
 
 ## 公式プロフィール
 
@@ -36,7 +37,7 @@
 
 好きな食べ物は、[ハンバーグ](../Page/ハンバーグ.md "wikilink")と[プリン](../Page/カスタードプディング.md "wikilink")、[チーズ](../Page/チーズ.md "wikilink")。嫌いな食べ物は[目玉焼き](../Page/目玉焼き.md "wikilink")と[セロリ](../Page/セロリ.md "wikilink")。2019年12月の上京前は[演劇部](https://ja.wikipedia.org/wiki/演劇部 "wikilink")に所属し部長を務めていた。
 
-陶芸シミュレーションゲーム「陶芸マスター」にて脚を作ることを思い立ち、「80デニール改」「AKEMI」などソックスを着用した脚を模した壺を完成させた\[6\]。
+[陶芸](../Page/陶芸.md "wikilink")シミュレーションゲーム「陶芸マスター」にて脚を作ることを思い立ち、「80デニール改」「AKEMI」などソックスを着用した脚を模した壺を完成させた\[6\]。
 
 ### 芸風
 
@@ -77,6 +78,7 @@
 
   - （2ndチャンネル）
 
+  -
   -
   -
   -

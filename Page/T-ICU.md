@@ -14,14 +14,14 @@
 
 ### 「COVID-19プロジェクト」
 
-[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")患者数の増加に伴う医療崩壊が危惧される中で、通常のサービスラインに加えて、重篤なCOVID-19患者に対する「遠隔ICU」を24時間提供できる体制を構築するために新たに集中治療専門医を増員し、全国の医療機関をサポートする「COVID-19プロジェクト」を2020年4月15日に開始する。 \[5\]
+[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")患者数の増加に伴う医療崩壊が危惧される中で、通常のサービスラインに加えて、重篤なCOVID-19患者に対する「遠隔ICU」を24時間提供できる体制を構築するために新たに集中治療専門医を増員し、全国の医療機関をサポートする「COVID-19プロジェクト」を2020年4月15日に開始する。 \[5\]\[6\]
 
 ## 表彰
 
-  - カタパルト・グランプリ優勝（ICCサミット FUKUOKA 2020）\[6\]
-  - 「Microsoft Innovation Lab Award 2019」\[7\]
-  - イギリスの 2020-Global Health & Pharma にて"Cutting-Edge Hospital Communication in 2019" \[8\]
-  - 三菱総合研究所「未来共創イノベーションネットワーク」ビジネス・アクセラレーション・プログラムにて最優秀賞を受賞\[9\]
+  - カタパルト・グランプリ優勝（ICCサミット FUKUOKA 2020）\[7\]
+  - 「Microsoft Innovation Lab Award 2019」\[8\]
+  - イギリスの 2020-Global Health & Pharma にて"Cutting-Edge Hospital Communication in 2019" \[9\]
+  - 三菱総合研究所「未来共創イノベーションネットワーク」ビジネス・アクセラレーション・プログラムにて最優秀賞を受賞\[10\]
 
 ## 脚注
 
@@ -40,7 +40,7 @@
   - [防衛医科大学校](../Page/防衛医科大学校.md "wikilink")
   - [高島市民病院](../Page/高島市民病院.md "wikilink")
   - [フューチャーベンチャーキャピタル](https://ja.wikipedia.org/wiki/フューチャーベンチャーキャピタル "wikilink")
-  - [大和SMBCキャピタル](../Page/大和SMBCキャピタル.md "wikilink")
+  - [SMBCキャピタル](http://www.smbc-vc.co.jp/)
 
 [Category:福祉サービス](https://ja.wikipedia.org/wiki/Category:福祉サービス "wikilink") [Category:2016年設立の企業](https://ja.wikipedia.org/wiki/Category:2016年設立の企業 "wikilink") [Category:芦屋市の企業](https://ja.wikipedia.org/wiki/Category:芦屋市の企業 "wikilink") [Category:兵庫県の企業](https://ja.wikipedia.org/wiki/Category:兵庫県の企業 "wikilink") [Category:兵庫県発祥の企業](https://ja.wikipedia.org/wiki/Category:兵庫県発祥の企業 "wikilink")
 
@@ -49,7 +49,8 @@
 3.  [Japanese T-ICU team meets CCCI leaders in Bangladesh](http://www.edailysun.com/arc/pre_page/2020-02-26/14#tab1/)
 4.  [T-ICUは日本の遠隔医療情報をチッタゴン商工会議所と交換しました](https://www.edainikpurbokone.net/index.php?page=1&date=2020-02-25/)
 5.  [「COVID-19プロジェクト」](https://prtimes.jp/main/html/rd/p/000000022.000033988.html)
-6.  [【速報】カタパルト・グランプリ優勝は、遠隔集中治療“Doctor as a Service”の「T-ICU」](https://industry-co-creation.com/news/52370?fbclid=IwAR0LBWFFbwXzwIn-EI6eecmslekJxpe8o99VErUbphZwizDdY2osZAcZcKE/)
-7.  [ICUの遠隔化で緊急医療体制を進化](https://ascii.jp/elem/000/001/940/1940446/)
-8.  [Technology Awards2019](https://www.ghp-news.com/issues/technology-awards-2019/8/?fbclid=IwAR2HPrHrUCF3v9fbs9Ri8AnwLKQL6BZAY7f9rb9xGJ6QyHuNGJ0HVIgySJk)
-9.  [専門医による遠隔集中治療支援ソリューション（tele-ICU）](https://prtimes.jp/main/html/rd/p/000000004.000033988.html#new_tab/)
+6.  <https://www.sankei.com/economy/news/200812/ecn2008120016-n1.html?fbclid=IwAR3rNl_2HWbLRVdLbaKKRtQVHVpRbZPcsYOAGGYPCYMuf5HQdh5tb9foWZ8/> 神戸の医療機関に「遠隔ＩＣＵシステム」提供　医療ＩＴベンチャーが市と連携
+7.  [【速報】カタパルト・グランプリ優勝は、遠隔集中治療“Doctor as a Service”の「T-ICU」](https://industry-co-creation.com/news/52370?fbclid=IwAR0LBWFFbwXzwIn-EI6eecmslekJxpe8o99VErUbphZwizDdY2osZAcZcKE/)
+8.  [ICUの遠隔化で緊急医療体制を進化](https://ascii.jp/elem/000/001/940/1940446/)
+9.  [Technology Awards2019](https://www.ghp-news.com/issues/technology-awards-2019/8/?fbclid=IwAR2HPrHrUCF3v9fbs9Ri8AnwLKQL6BZAY7f9rb9xGJ6QyHuNGJ0HVIgySJk)
+10. [専門医による遠隔集中治療支援ソリューション（tele-ICU）](https://prtimes.jp/main/html/rd/p/000000004.000033988.html#new_tab/)

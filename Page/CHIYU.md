@@ -45,7 +45,7 @@
 
 ### ラジオ
 
-  - CHIYUの尼ロックやらかします！（放送は毎週月曜日、[FM OH\!](https://ja.wikipedia.org/wiki/FM_OH! "wikilink")）
+  - CHIYUの尼ロックやらかします！（放送は毎週月曜日、[FM OH\!](../Page/エフエム大阪.md "wikilink")）
 
 ### ドラマ・舞台
 

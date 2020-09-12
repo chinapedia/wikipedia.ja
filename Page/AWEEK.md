@@ -148,7 +148,45 @@
 [10]</p></td>
 <td><p>-</p></td>
 </tr>
+</tbody>
+</table>
+
+### シングル
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>No.</strong></p></th>
+<th><p><strong>タイトル</strong></p></th>
+<th><p><strong>収録曲</strong></p></th>
+<th><p>Gaon<br />
+チャート<br />
+（週間）</p></th>
+<th><p>売上枚数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>'''BETTER TODAY '''<br />
+(2020年6月16日)</p></td>
+<td><ol>
+<li>'''말해 뭐해(1.4.3) '''</li>
+<li>여행(Have a Nice Day)(Chawon Solo.)</li>
+<li>말해 뭐해(1.4.3) (Inst.)</li>
+</ol></td>
+<td><p>75位<br />
+[11]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -188,7 +226,7 @@
 
 ## テレビ
 
-  - M COUNTDOWN（2019年11月7日）\[11\]
+  - M COUNTDOWN（2019年11月7日）\[12\]
 
 ## 脚注
 
@@ -211,4 +249,5 @@
 8.  \[<https://www.makestar.co/projects/singer_aweek_01/updates/o/2>　100%感謝メッセージ映像が届きました！1週間の少年たち、AWEEKから届いた感謝メッセージ映像をご覧ください\]2019年1月6日
 9.  [\[重要　AWEEKメンバーの「HYEON」関連・NEWアルバムプロジェクト払い戻し及びキャンセルのお知らせ](https://www.makestar.co/projects/singer_aweek_01/notices)2020年2月5日（2020年2月8日閲覧）
 10. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=47&hitYear=2019&termGbn=week>　Gaonアルバムチャート2019年11月17日\~2019年11月23日\]
-11. \[<https://www.youtube.com/watch?v=zgKp556ehaE&app=desktop>　\[AWEEK - Breathe\] KPOP TV Show | M COUNTDOWN 191107 EP.642\]Mnet　2019年11月7日
+11. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=25&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年6月14日\~2020年6月20日\]
+12. \[<https://www.youtube.com/watch?v=zgKp556ehaE&app=desktop>　\[AWEEK - Breathe\] KPOP TV Show | M COUNTDOWN 191107 EP.642\]Mnet　2019年11月7日

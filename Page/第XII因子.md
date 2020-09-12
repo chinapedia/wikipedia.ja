@@ -1,7 +1,7 @@
 > この記事は[第XII因子](https://ja.wikipedia.org/wiki/第XII因子)から翻訳されています。
 
 
-**第XII因子**（だい12因子、）または**ハーゲマン因子**（Hageman factor）は、[血漿](../Page/血漿.md "wikilink")の[タンパク質](../Page/タンパク質.md "wikilink")である。[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")（またはセリンエンドペプチダーゼ）に分類される[酵素](../Page/酵素.md "wikilink")**第XIIa因子**の[酵素前駆体](../Page/酵素前駆体.md "wikilink")である。ヒトでは、第XII因子は*F12*[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")にコードされる\[1\]。
+**第XII因子**（だい12いんし、）または**ハーゲマン因子**（Hageman factor）は、[血漿](../Page/血漿.md "wikilink")の[タンパク質](../Page/タンパク質.md "wikilink")である。[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")（またはセリンエンドペプチダーゼ）に分類される[酵素](../Page/酵素.md "wikilink")**第XIIa因子**の[酵素前駆体](../Page/酵素前駆体.md "wikilink")である。ヒトでは、第XII因子は*F12*[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")にコードされる\[1\]。
 
 ## 構造
 
@@ -25,7 +25,7 @@
 
 第XII因子欠乏症は、[常染色体劣性遺伝](https://ja.wikipedia.org/wiki/常染色体劣性遺伝 "wikilink")する希少疾患である\[11\]。他の凝固因子欠乏症とは異なり、第XII因子欠乏症は完全に無症候性で、過剰な出血を引き起こすことはない\[12\]。しかし、第XII因子の遺伝子を欠失したマウスは血栓形成に対する感受性が低い。このタンパク質は、血管壁損傷の最初の閉塞よりも血栓形成の後期の段階に関与しているようである\[13\]。
 
-第XII因子は*in vitro*での[活性化部分トロンボプラスチン時間](https://ja.wikipedia.org/wiki/活性化部分トロンボプラスチン時間 "wikilink")の測定における血栓形成に重要な役割を果たす。第XII因子欠乏症患者では活性化部分トロンボプラスチン時間の顕著な延長がみられ、通常[血友病](../Page/血友病.md "wikilink")A、血友病B、第XI因子欠乏症で見られる以上に延長される\[14\]。そのため、第XII因子欠乏症に関する主要な懸念は、不要な検査、ケアの遅れ、不安などであり、通常ではない実験室での結果によっても促される\[15\]。これらはすべて、その遺伝形式も含めて、他の内因系の因子、（フレッチャー因子）とにもあてはまる\[16\]。第XII因子はプラスミノゲンを活性型で線維素溶解性の[プラスミン](https://ja.wikipedia.org/wiki/プラスミン "wikilink")へ転換する触媒の1つであるため、[静脈血栓塞栓症](../Page/静脈血栓塞栓症.md "wikilink")のリスクを高める素因となる可能性がある\[17\]。
+第XII因子は*in vitro*での[活性化部分トロンボプラスチン時間](https://ja.wikipedia.org/wiki/活性化部分トロンボプラスチン時間 "wikilink")の測定における血栓形成に重要な役割を果たす。第XII因子欠乏症患者では活性化部分トロンボプラスチン時間の顕著な延長がみられ、通常[血友病A](https://ja.wikipedia.org/wiki/血友病A "wikilink")、[血友病B](https://ja.wikipedia.org/wiki/血友病B "wikilink")、[第XI因子欠乏症](https://ja.wikipedia.org/wiki/第XI因子欠乏症 "wikilink")で見られる以上に延長される\[14\]。そのため、第XII因子欠乏症に関する主要な懸念は、不要な検査、ケアの遅れ、不安などであり、通常ではない実験室での結果によっても促される\[15\]。これらはすべて、その遺伝形式も含めて、他の内因系の因子、（フレッチャー因子）とにもあてはまる\[16\]。第XII因子はプラスミノゲンを活性型で線維素溶解性の[プラスミン](https://ja.wikipedia.org/wiki/プラスミン "wikilink")へ転換する触媒の1つであるため、[静脈血栓塞栓症](../Page/静脈血栓塞栓症.md "wikilink")のリスクを高める素因となる可能性がある\[17\]。
 
 第XII因子は[エンドトキシン](https://ja.wikipedia.org/wiki/エンドトキシン "wikilink")、特に[リピドA](https://ja.wikipedia.org/wiki/リピドA "wikilink")によっても活性化される。
 

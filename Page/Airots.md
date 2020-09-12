@@ -31,7 +31,7 @@
 <td><p>1</p></td>
 <td><p>みどりのこだま〜echo of Airots〜</p></td>
 <td><p>Airots</p></td>
-<td><p>Iris Song Festa! vol.1～あいりすミスティリア！ボーカルコレクション feat. Airots～[1]</p></td>
+<td><p>Iris Song Festa! vol.1～あいりすミスティリア！ボーカルコレクション feat. Airots～（2019年9月27日発売）[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -99,7 +99,7 @@
 <td><p>12</p></td>
 <td><p>桃幻浪漫</p></td>
 <td><p>Airots</p></td>
-<td><p>～『千の刃濤、桃花染の皇姫 -花あかり-』マキシシングル feat. Airots～[2]</p></td>
+<td><p>～『千の刃濤、桃花染の皇姫 -花あかり-』マキシシングル feat. Airots～（2019年9月27日発売）[2]</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -123,7 +123,7 @@
 <td><p>16</p></td>
 <td><p>ユーグ・ナ・ログ ～世界樹のこだま～</p></td>
 <td><p>Airots</p></td>
-<td><p>あいりすミスティリア！ Original Sound Track Vol.3[4]</p></td>
+<td><p>あいりすミスティリア！ Original Sound Track Vol.3（2020年1月17日発売）[4]</p></td>
 </tr>
 </tbody>
 </table>
@@ -136,7 +136,7 @@
 
 ## イベント
 
-1.  2019年9月28日　『Iris Song Festa\! vol.1～あいりすミスティリア！ボーカルコレクション feat. Airots～』『～『千の刃濤、桃花染の皇姫 -花あかり-』マキシシングル feat. Airots～』インストアイベント\[5\]
+1.  2019年9月28日　『Iris Song Festa\! vol.1～あいりすミスティリア！ボーカルコレクション feat. Airots～』『～『千の刃濤、桃花染の皇姫 -花あかり-』マキシシングル feat. Airots～』インストアイベント（会場：ソフマップAKIBA①号店サブカルモバイル館）\[5\]。
 
 ## 出典
 
@@ -145,7 +145,7 @@
   -
   -
   -
-[Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.
 2.

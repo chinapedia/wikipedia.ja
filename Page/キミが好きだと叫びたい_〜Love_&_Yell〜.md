@@ -25,7 +25,7 @@
 14. [My Revolution](../Page/My_Revolution.md "wikilink") / [渡辺美里](../Page/渡辺美里.md "wikilink")
 15. [浪漫飛行](../Page/浪漫飛行.md "wikilink") / [米米CLUB](../Page/米米CLUB.md "wikilink")
 16. [いつまでも変わらぬ愛を](../Page/いつまでも変わらぬ愛を.md "wikilink") / 織田哲郎
-17. [煌めく瞬間に捕われて](../Page/煌めく瞬間に捕われて.md "wikilink") / [MANISH](../Page/MANISH.md "wikilink")
+17. [煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink") / [MANISH](../Page/MANISH.md "wikilink")
 18. [Mysterious Eyes](../Page/Mysterious_Eyes.md "wikilink") / [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")
 19. [チャンス](../Page/チャンス_\(小松未歩の曲\).md "wikilink") / [小松未歩](../Page/小松未歩.md "wikilink")
 20. [GOING TO THE MOON](https://ja.wikipedia.org/wiki/GOING_TO_THE_MOON "wikilink") / [TRICERATOPS](../Page/TRICERATOPS.md "wikilink")

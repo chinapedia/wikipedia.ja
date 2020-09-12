@@ -48,10 +48,10 @@
 
 ## 外部リンク
 
-  - \[<http://shinnosukejedi.blog.fc2.com/blog-entry-241.html> ●ブログオールドファッション　Old　Fashioned　Men「ノルウェージャンシューズの起源を探る！（1～3）」
+  - [●ブログオールドファッション　Old　Fashioned　Men「ノルウェージャンシューズの起源を探る！（1～3）」](http://shinnosukejedi.blog.fc2.com/blog-entry-241.html)
 
 [Category:靴](https://ja.wikipedia.org/wiki/Category:靴 "wikilink") [Category:履物](https://ja.wikipedia.org/wiki/Category:履物 "wikilink")
 
-1.  shoegazing.comからの引用記事「歴史–スプリットトゥダービー」
+1.  shoegazing.comからの引用記事「歴史–スプリットトゥダービー」．オールドファッション　Old　Fashioned　Men「ノルウェージャンシューズの起源を探る！」http://shinnosukejedi.blog.fc2.com/blog-entry-241.html
 2.  permanentstyle.comに関連記事
 3.  雑誌『2nd』オールデン特集号（2018年8月号）

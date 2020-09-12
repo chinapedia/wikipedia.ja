@@ -80,7 +80,7 @@ Guixシステムは、GNU Shepherdデーモンを[init](https://ja.wikipedia.org
   -
   - [Guixパッケージのリスト](https://www.gnu.org/software/guix/packages)
 
-[Category:GNUプロジェクト](https://ja.wikipedia.org/wiki/Category:GNUプロジェクト "wikilink") [Category:フリーパッケージ管理システム](https://ja.wikipedia.org/wiki/Category:フリーパッケージ管理システム "wikilink")
+[Category:GNUプロジェクト](https://ja.wikipedia.org/wiki/Category:GNUプロジェクト "wikilink") [Category:フリーパッケージ管理システム](https://ja.wikipedia.org/wiki/Category:フリーパッケージ管理システム "wikilink") [Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink")
 
 1.  [Functional Package Management with Guix](https://en.wikisource.org/wiki/Functional_Package_Management_with_Guix)
 2.  Prins, P., Suresh, J. and Dolstra, E., ["Nix fixes dependency hell on all Linux distributions,"](http://www.linux.com/feature/155922) [linux.com](https://ja.wikipedia.org/wiki/linux.com "wikilink"), December 22, 2008

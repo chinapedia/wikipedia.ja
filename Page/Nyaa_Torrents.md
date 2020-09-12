@@ -1,11 +1,11 @@
 > この記事は[Nyaa Torrents](https://ja.wikipedia.org/wiki/Nyaa_Torrents)から翻訳されています。
 
 
-**Nyaa Torrents**は、[東アジア](../Page/東アジア.md "wikilink")（日本、中国、韓国）のメディアを中心にした[BitTorrent](../Page/BitTorrent.md "wikilink")のウェブサイトである。サイト名は猫の鳴き声の日本語のオノマトペに基づいている。 これは、最大の公開[アニメ](../Page/アニメ.md "wikilink")専用トレントインデックスの1つである\[1\]\[2\]。
+**Nyaa Torrents**（ニャートレント）は、[東アジア](../Page/東アジア.md "wikilink")（日本、中国、韓国）のメディアを中心にした[BitTorrent](../Page/BitTorrent.md "wikilink")のウェブサイトである。サイト名は猫の鳴き声の日本語のオノマトペに基づいている。 これは、最大の公開[アニメ](../Page/アニメ.md "wikilink")専用トレントインデックスの1つである\[1\]\[2\]。
 
 ## 歴史
 
-2011年、一部のサイトユーザーは[著作権侵害](../Page/著作権侵害.md "wikilink")の標的となった\[3\]。 このサイトは、2014年9月上旬の大規模な[DDoS攻撃の標的となった](../Page/DoS攻撃.md "wikilink")\[4\]。
+2011年、一部のサイトユーザーは[著作権侵害](../Page/著作権侵害.md "wikilink")の標的となった\[3\]。このサイトは、2014年9月上旬の大規模な[DDoS攻撃の標的となった](../Page/DoS攻撃.md "wikilink")\[4\]。
 
 2017年初頭までにNyaa Torrentは、インターネット上で1000番目に人気のあるWebサイトにランク付けされた\[5\]。
 
@@ -19,7 +19,7 @@
 
 ## 出典
 
-[Category:2005年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2005年開設のウェブサイト "wikilink")
+[Category:2005年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2005年開設のウェブサイト "wikilink") [Category:検索エンジン](https://ja.wikipedia.org/wiki/Category:検索エンジン "wikilink") [Category:BitTorrent](https://ja.wikipedia.org/wiki/Category:BitTorrent "wikilink")
 
 1.
 2.

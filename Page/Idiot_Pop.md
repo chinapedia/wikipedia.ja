@@ -13,7 +13,7 @@
 
 2009 年リリースされた1000 枚限定自主制作の1st アルバムが、無名の新人としては異例の1 ヶ月で完売し、話題となる。
 
-2010 年1st EP「Idiography E.P.」をリリース、渚音楽祭にも出演。2011 年[Square Enix](https://ja.wikipedia.org/wiki/SQUARE_ENIX "wikilink") の名曲Remix シリーズ第3 弾「[More SQ](https://ja.wikipedia.org/wiki/More_SQ "wikilink")」、「キラキラジブリ-RETURNS-」等の話題のコンピにも参加。 そして2011 年11 月「Idiography E.P.2」リリース。2012 年” [禁断の多数決](https://ja.wikipedia.org/wiki/禁断の多数決 "wikilink")” に透明感などの楽曲提供し、同年9 月2nd アルバム「EXWORLD」をリリース。
+2010 年1st EP「Idiography E.P.」をリリース、渚音楽祭にも出演。2011 年[Square Enix](../Page/スクウェア・エニックス.md "wikilink") の名曲Remix シリーズ第3 弾「[More SQ](https://ja.wikipedia.org/wiki/More_SQ "wikilink")」、「キラキラジブリ-RETURNS-」等の話題のコンピにも参加。 そして2011 年11 月「Idiography E.P.2」リリース。2012 年” [禁断の多数決](https://ja.wikipedia.org/wiki/禁断の多数決 "wikilink")” に透明感などの楽曲提供し、同年9 月2nd アルバム「EXWORLD」をリリース。
 
 [フレネシ](https://ja.wikipedia.org/wiki/フレネシ "wikilink")、Hugo Manual a.k.a Chad Valley、PandaBoY など様々なジャンルのゲストを迎え、独自の世界観を作り上げ反響を得る。
 
@@ -343,8 +343,6 @@
 <td><p><strong>参加アーティスト</strong></p>
 <ul>
 <li>Frenesi</li>
-</ul>
-<ul>
 <li>Hugo Manuel (Jonquil)</li>
 <li>KEN Smooth</li>
 <li>Shingo Maeda</li>

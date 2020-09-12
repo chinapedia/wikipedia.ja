@@ -1,7 +1,7 @@
 > この記事は[パズマニー PL-1](https://ja.wikipedia.org/wiki/パズマニー_PL-1)から翻訳されています。
 
 
-**パズマニー PL-1 ラミナー** と **パズマニー PL-2**は、が設計したアメリカ製2人乗りの練習機、個人向け軽飛行機であり、彼の会社であるが[ホームビルト機](https://ja.wikipedia.org/wiki/ホームビルト機 "wikilink")として販売している。この航空機は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華民国](../Page/中華民国.md "wikilink")）でAIDC PL-1B 介寿号（介壽）としてライセンス生産された。その後、改良型の**PL-2**が製造された。1977年に[スリランカ空軍](https://ja.wikipedia.org/wiki/スリランカ空軍 "wikilink")航空技術航空団がPL-2の改良型を開発し、実戦経験はないが航空ショーで使用された。
+**パズマニー PL-1 ラミナー** と **パズマニー PL-2**は、が設計したアメリカ製2人乗りの練習機、個人向け軽飛行機であり、彼の会社である[パズマニー・エアクラフト・コーポレーション](https://ja.wikipedia.org/wiki/パズマニー・エアクラフト・コーポレーション "wikilink")が[ホームビルト機](https://ja.wikipedia.org/wiki/ホームビルト機 "wikilink")として販売している。この航空機は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華民国](../Page/中華民国.md "wikilink")）でAIDC PL-1B 介寿号（介壽）としてライセンス生産された。その後、改良型の**PL-2**が製造された。1977年に[スリランカ空軍](https://ja.wikipedia.org/wiki/スリランカ空軍 "wikilink")航空技術航空団がPL-2の改良型を開発し、実戦経験はないが航空ショーで使用された。
 
 ## 開発
 
@@ -30,7 +30,7 @@ PL-1 ラミナーは、ラディスラオ・パズマニーが最初に設計し
 
 <!-- end list -->
 
-  - インドネシア空軍 - LT-200（PL-2）
+  - [インドネシア空軍](https://ja.wikipedia.org/wiki/インドネシア国軍 "wikilink") - LT-200（PL-2）
 
 <!-- end list -->
 
@@ -68,10 +68,12 @@ PL-1 ラミナーは、ラディスラオ・パズマニーが最初に設計し
   - **総重量:** 1609 lb (730 kg)
   - **エンジン:** 1 × AVCO ライカミング O-320-E2A 水平対向 4気筒, 150 hp (112 kW)
   - **最大速度:** 152 mph (245 km/h)
-  - **滞空時間:** 5 hours  30 min
+  - **滞空時間:** 5時間 30分
   - **実用上昇限度:** 14,995 ft (4570 m)
 
-## 参照
+## 脚注
+
+## 参考文献
 
   - The Illustrated Encyclopedia of Aircraft (Part Work 1982-1985), 1985, Orbis Publishing, Page 2694
 

@@ -104,3 +104,5 @@ LAODIはフランスのアグリコール製法にて酒づくりを行なって
   - [LAODI Official Site](http://www.rhumlaodi.com/)
   - [日本公式代理店 シィクリエイティブインターナショナル ホームページ](https://www.ccinter.jp/)
   - [LAODI 日本公式オンラインショップ](https://ccinter.official.ec/)(シィクリエイティブインターナショナル)
+
+[Category:ラム酒](https://ja.wikipedia.org/wiki/Category:ラム酒 "wikilink") [Category:飲食品ブランド](https://ja.wikipedia.org/wiki/Category:飲食品ブランド "wikilink") [Category:ラオスの食文化](https://ja.wikipedia.org/wiki/Category:ラオスの食文化 "wikilink")

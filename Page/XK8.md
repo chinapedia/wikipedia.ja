@@ -70,15 +70,10 @@ XK8のフレームは[ポリマー素材を使用しており](../Page/重合体
 ## 関連項目
 
   - [小銃・自動小銃等一覧](../Page/小銃・自動小銃等一覧.md "wikilink")
-
-:\*[95式自動歩槍](../Page/95式自動歩槍.md "wikilink")
-
-:\*[SAR21](https://ja.wikipedia.org/wiki/SAR21 "wikilink")
-
-:\*[FAD (アサルトライフル)](https://ja.wikipedia.org/wiki/FAD_\(アサルトライフル\) "wikilink")
-
-:\*[FN F2000](../Page/FN_F2000.md "wikilink")
-
+      - [95式自動歩槍](../Page/95式自動歩槍.md "wikilink")
+      - [SAR21](https://ja.wikipedia.org/wiki/SAR21 "wikilink")
+      - [FAD (アサルトライフル)](https://ja.wikipedia.org/wiki/FAD_\(アサルトライフル\) "wikilink")
+      - [FN F2000](../Page/FN_F2000.md "wikilink")
   - [大韓民国陸軍](../Page/大韓民国陸軍.md "wikilink")
 
 [Category:アサルトライフル](https://ja.wikipedia.org/wiki/Category:アサルトライフル "wikilink") [Category:ブルパップ式小銃](https://ja.wikipedia.org/wiki/Category:ブルパップ式小銃 "wikilink") [Category:韓国の小火器](https://ja.wikipedia.org/wiki/Category:韓国の小火器 "wikilink")

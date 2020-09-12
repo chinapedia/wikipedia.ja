@@ -5,13 +5,11 @@
 
 ## 概要
 
-2015〜16年に[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink") にある[柏高島屋ステーションモール](../Page/柏高島屋ステーションモール.md "wikilink")の映画館「キネマ旬報シアター」に勤務していた[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")は、シネマコンシェルジュを名乗り、毎月発行の公式上映ガイドでの映画解説コラムを連載。また[タブロイド紙](https://ja.wikipedia.org/wiki/タブロイド紙 "wikilink")「朝日まつど」「西柏かわら版」でも上映作品の解説を連載。そのほか、劇場での映画上映の幕間に「でま子のカミングスーンシネマガイド」を実施したほか、上映編成した映画の舞台挨拶に訪れた[映画監督](../Page/映画監督.md "wikilink")の[塚本晋也](../Page/塚本晋也.md "wikilink")や[山内ケンジ](https://ja.wikipedia.org/wiki/山内ケンジ "wikilink")のトークショーの司会進行なども務める。
+2015〜16年に[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink") にある[柏髙島屋ステーションモール](../Page/柏髙島屋ステーションモール.md "wikilink")の映画館「キネマ旬報シアター」に勤務していた[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")は、シネマコンシェルジュを名乗り、毎月発行の公式上映ガイドでの映画解説コラムを連載。また[タブロイド紙](https://ja.wikipedia.org/wiki/タブロイド紙 "wikilink")「朝日まつど」「西柏かわら版」でも上映作品の解説を連載。そのほか、劇場での映画上映の幕間に「でま子のカミングスーンシネマガイド」を実施したほか、上映編成した映画の舞台挨拶に訪れた[映画監督](../Page/映画監督.md "wikilink")の[塚本晋也](../Page/塚本晋也.md "wikilink")や[山内ケンジ](https://ja.wikipedia.org/wiki/山内ケンジ "wikilink")のトークショーの司会進行なども務める。
 
 より映画と観客の接点を繋ぐ取り組みを目的に、紙媒体ではないインターネットでの映画解説の場として、「Cinemarche」をはじめる。2017年からキネマ旬報シアターを退社したメンバーと共に、映画鑑賞の手引きとなる、「感想レビュー」や「考察コラム」を主に掲載。また[邦画](https://ja.wikipedia.org/wiki/邦画 "wikilink")・[洋画](https://ja.wikipedia.org/wiki/洋画 "wikilink")の映画監督や出演者へのインタビュー取材にも力を入れている。その他、映画祭や[自主映画](../Page/自主映画.md "wikilink")などの紹介なども行っている。
 
 2019年には、映画ライターの表記ではなく[シネマダイバー](https://ja.wikipedia.org/wiki/シネマダイバー "wikilink")の造語をつくり、多くの文筆家が連載をしている。
-
-2020年に出町光識が編集長を辞任し、後継者として[詩人](../Page/詩人.md "wikilink")の[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")を就任。
 
 ## 沿革
 
@@ -22,6 +20,8 @@
 2019年2月、オーストラリアの映画雑誌「[Filmink](https://ja.wikipedia.org/wiki/Filmink "wikilink")」との取引を開始。
 
 同年4月、[日本映画大学](https://ja.wikipedia.org/wiki/日本映画大学 "wikilink")の田辺秋守教授と[細野辰興](../Page/細野辰興.md "wikilink")教授（映画監督）、2名による記事連載を開始。
+
+2020年6月、[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")が初代編集長を辞任し、後継者として[詩人](../Page/詩人.md "wikilink")の[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")を2代目編集長に就任。
 
 ## シネマダイバー（執筆者）
 
@@ -67,13 +67,15 @@
 
 ## 主な雑誌・パンフレット・ネット・映像関連
 
-・劇場用パンフレット『[老人ファーム](https://ja.wikipedia.org/wiki/老人ファーム "wikilink")』 金田まこちゃ/[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の映画レビュー掲載（2019年4月13日劇場公開）
+・劇場用パンフレット『[老人ファーム](https://ja.wikipedia.org/wiki/老人ファーム "wikilink")』 金田まこちゃ/[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")による映画レビュー掲載（2019年4月13日劇場公開）
 
 ・劇場用パンフレット『[フェイクプラスティックプラネット](https://ja.wikipedia.org/wiki/フェイクプラスティックプラネット "wikilink")』 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の映画レビュー掲載（2020年2月7日劇場公開）
 
 ・劇場用パンフレット『[凱里ブルース](https://ja.wikipedia.org/wiki/凱里ブルース "wikilink")』 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の[ビー・ガン](https://ja.wikipedia.org/wiki/ビー・ガン "wikilink")監督独占インタビュー掲載（2020年劇場公開）
 
-・劇場用パンフレット『[おろかもの](https://ja.wikipedia.org/wiki/おろかもの "wikilink")』責任編集： [河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")よる芳賀俊監督の独占インタビュー掲載（2020年劇場公開）
+・劇場用パンフレット『[おろかもの](https://ja.wikipedia.org/wiki/おろかもの "wikilink")』責任編集： [河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")よる芳賀俊監督の独占インタビュー、レビュー掲載：西川ちょり（2020年劇場公開）
+
+・劇場用パンフレット『[横須賀綺譚](https://ja.wikipedia.org/wiki/横須賀綺譚 "wikilink")』責任編集：河合のび、レビュー掲載：西川ちょり、テキスト協力：もりのちこ、星野しげみ（2020年劇場公開）
 
 ・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」Cinemarche広告：副編集長[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の詩を掲載
 

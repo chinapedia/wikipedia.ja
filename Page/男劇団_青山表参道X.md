@@ -1,7 +1,7 @@
 > この記事は[男劇団 青山表参道X](https://ja.wikipedia.org/wiki/男劇団_青山表参道X)から翻訳されています。
 
 
-**男劇団 青山表参道X**（おとこげきだんあおやまおもてさんどうえっくす）は、[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")の男性若手俳優・モデルで構成の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[演劇集団](../Page/劇団.md "wikilink")。\[1\]\[2\]。
+**男劇団 青山表参道X**（おとこげきだんあおやまおもてさんどうエックス）は、[オスカープロモーション](../Page/オスカープロモーション.md "wikilink")の男性若手俳優・モデルで構成の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[演劇集団](../Page/劇団.md "wikilink")\[1\]\[2\]。
 
 ## 概要
 
@@ -97,52 +97,38 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/立花裕大" title="wikilink">立花裕大</a></strong><br />
-（たちばな ゆうた）</p></td>
-<td></td>
-<td><p>神奈川県</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>長田翔恩</strong><br />
 （おさだ　しょーん）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハワイ" title="wikilink">ハワイ</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>湯本健一</strong><br />
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/湯本健一" title="wikilink">湯本健一</a></strong><br />
 （ゆもと　けんいち）</p></td>
 <td></td>
 <td><p>茨城県</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>松本健太</strong><br />
 （まつもと けんた）</p></td>
 <td></td>
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>正式メンバー[10]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/沖津海友.md" title="wikilink">沖津海友</a></strong><br />
 （おきつ　みゆ）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>池上翔</strong><br />
 （いけがみ　しょう）</p></td>
 <td></td>
 <td><p>長野県</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>岩田知樹</strong><br />
-（いわた　ともき）</p></td>
-<td></td>
-<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -230,7 +216,7 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [15]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>庄司浩平</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/庄司浩平" title="wikilink">庄司浩平</a></strong><br />
 （しょうじ　こうへい）</p></td>
 <td></td>
 <td><p>東京都</p></td>
@@ -383,10 +369,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/立花裕大" title="wikilink">立花裕大</a></strong><br />
+（たちばな ゆうた）</p></td>
+<td><p>2020年6月30日[23][24]</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>岩田知樹</strong><br />
+（いわた　ともき）</p></td>
+<td><p>2020年6月30日 [25] [26]</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -400,7 +395,7 @@
 
 :\* 演出：[伊藤マサミ](https://ja.wikipedia.org/wiki/伊藤マサミ "wikilink")
 
-:\* 日程・会場：2018年6月14日～17日、東京都 AiiA 2.5 Theater Tokyo \[23\]
+:\* 日程・会場：2018年6月14日～17日、東京都 AiiA 2.5 Theater Tokyo \[27\]
 
   -
 
@@ -410,7 +405,7 @@
 
 :\* 演出：押見泰憲（[犬の心](../Page/犬の心.md "wikilink")）
 
-:\* 日程・会場：2019年3月6日～9日、神保町花月\[24\]
+:\* 日程・会場：2019年3月6日～9日、神保町花月\[28\]
 
   -
 
@@ -418,7 +413,7 @@
 
 :\* 作・演出：[川尻恵太](https://ja.wikipedia.org/wiki/川尻恵太 "wikilink")
 
-:\* 日程・会場：2019年7月20日～28日、東京都 品川プリンスホテル クラブeX \[25\]
+:\* 日程・会場：2019年7月20日～28日、東京都 品川プリンスホテル クラブeX \[29\]
 
   -
 
@@ -428,7 +423,7 @@
 
 :\* 作家：中村元樹、池田亮
 
-:\* 日程・会場：2019年9月6日～8日、神保町花月\[26\]
+:\* 日程・会場：2019年9月6日～8日、神保町花月\[30\]
 
   -
 
@@ -438,16 +433,20 @@
 
 ### イベント
 
-  - 男劇団 青山表参道X 1st Fan Event X’masParty (2017年12月25日、東京・原宿クエストホール)\[27\]
+  - 男劇団 青山表参道X 1st Fan Event X’masParty (2017年12月25日、東京・原宿クエストホール)\[31\]
   - 男劇団 青山表参道X 2nd Fan Event～ファンクラブ結成記念！ここから盛り上がっていくぞー！～　(2018年2月24日、東京・原宿クエストホール)
   - 男劇団 青山表参道X3rd Fan Event ～Happy White Day 2018～ (2018年3月12日、東京・[品川 THE GRAND HALL](../Page/品川グランドセントラルタワー.md "wikilink"))
   - 男劇団 青山表参道Xコラボレーションカフェ (2018年6月23日-7月16日、コラボレーションカフェ原宿竹下店)
   - 男劇団 青山表参道X 4th Fan Event～1周年記念！大人も子供もO-AOX’mas Party～ (2018年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))
-  - 5th Fan Event ～2周年記念！今年は僕たちがサンタクロースだ！～ (2019年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))\[28\]
+  - 5th Fan Event ～2周年記念！今年は僕たちがサンタクロースだ！～ (2019年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))\[32\]
 
 ### 主な個人の出演
 
 個人で単独記事のある者については各記事を参照のこと。
+
+#### テレビドラマ
+
+  - [魔進戦隊キラメイジャー](../Page/魔進戦隊キラメイジャー.md "wikilink")（2020年6月28日 - 、テレビ朝日） - 庄司（クリスタリア宝路 / キラメイシルバー（声） 役）
 
 ## 脚注
 
@@ -487,3 +486,7 @@
 26.
 27.
 28.
+29.
+30.
+31.
+32.

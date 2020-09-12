@@ -451,6 +451,11 @@ function p._chart(args)
 `   local location = mw.ustring.gsub(args.location, 'the ', '')`
 `   location = mw.ustring.upper(mw.ustring.sub(location,1,1)) .. mw.ustring.sub(location,2)`
 
+`   local navbartitle = args.outbreak .. 'データ/症例数の推移/図表/' ..`
+`       (args.location3 and args.location3 .. '/' or '') ..`
+`       (args.location2 and args.location2 .. '/' or '') ..`
+`       location .. ''`
+`   `
 `   -- get duration for toggles`
 `   local duration = 15 -- default if manual togglesbar is last 15 days`
 `   if yesno(args.collapsible) == true and ( not is(args.togglesbar) ) then`
@@ -539,8 +544,8 @@ function p._chart(args)
 
 ' .. (args.pretitle and args.pretitle .. '' or '') ..
 
-`       (args.location3 and '' .. args.location3 or '') ..`
-`       (args.location2 and '' .. args.location2 or '') ..`
+`       (args.location3 and '' .. args.location3 or '') .. (args.postposition3 and args.postposition3 .. '' or '') ..`
+`       (args.location2 and '' .. args.location2 or '') .. (args.postposition2 and args.postposition2 .. '' or '') ..`
 `       args.location .. '' .. i18n.casesIn .. '' .. args.disease ..`
 `       (args.posttitle and 'の症例数' .. args.posttitle or 'の症例数') .. '`<span class="nowrap">`  `</span>`(`
 
@@ -548,7 +553,7 @@ function p._chart(args)
 
 ' ..
 
-`       navbar({[1] = args.navbartitle, titleArg = ':' .. mw.getCurrentFrame():getParent():getTitle(), mini = 1, nodiv = 1}) ..`
+`       navbar({[1] = navbartitle, titleArg = ':' .. mw.getCurrentFrame():getParent():getTitle(), mini = 1, nodiv = 1}) ..`
 `       '`
 
 </div>

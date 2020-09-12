@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-  - 全作詞・作曲・編曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#5, \#11除く）
+  - 全作詞・作曲・編曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#5, \#11除く） / プロデュース：寺岡呼人
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
 3.  **バンドやろうぜ** \[4:35\]
 4.  **リライト** \[4:53\]
 5.  **パパのお弁当** \[5:58\]
-      - 作詞：寺岡呼人 / 作曲：[K](https://ja.wikipedia.org/wiki/K_\(ミュージシャン\) "wikilink") / 編曲：寺岡呼人・K
+      - 作詞：寺岡呼人 / 作曲：[K](../Page/K_\(歌手\).md "wikilink") / 編曲：寺岡呼人・K
 6.  **大人はEぜ\!** \[4:58\]
 7.  **愛ノウタ ～Love Unlimited～** \[4:49\]
 8.  **種まき人** \[6:25\]
@@ -52,10 +52,10 @@
   - [大渡亮](../Page/大渡亮.md "wikilink") ([Do As Infinity](../Page/Do_As_Infinity.md "wikilink"))：Electric Guitar Solo (\#10)
   - [ミトカツユキ](../Page/ミトカツユキ.md "wikilink")：Keyboards (\#1 - \#5, \#7 - \#9, \#11), Chorus (\#1, \#2, \#7)
   - [鈴木秋則](../Page/鈴木秋則.md "wikilink")：Keyboards (\#10)
-  - 髙田蓮：Banjo & pedal steel Guitar (\#9, \#11)
+  - [高田漣](../Page/高田漣.md "wikilink")：Banjo & pedal steel Guitar (\#9, \#11)
   - notch：Percussion (\#1, \#2, \#7)
-  - [三沢またろう](../Page/三沢またろう.md "wikilink")：Percussion (\#5, \#6)
-  - 鈴木圭：Tenor Saxophone (\#4), Alto Flute (\#4), Soprano Saxophone (\#4), Clarinet (\#5), Bass Clarinet (\#5), Flute (\#5), Soprano Recorder (\#9, \#11)
+  - [三沢またろう](../Page/三沢またろう.md "wikilink")：Percussion (\#5, \#8)
+  - 鈴木圭：Tenor Saxophone (\#4), Alto Flute (\#4), Soprano Saxophone Solo (\#4), Clarinet (\#5), Bass Clarinet (\#5), Flute (\#5), Soprano Recorder (\#9, \#11)
   - [中村未来](../Page/中村未来.md "wikilink")：Chorus (\#10)
 
 ## 脚注

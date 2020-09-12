@@ -11,6 +11,10 @@
 
 [東京都](../Page/東京都.md "wikilink")内には[NHK放送センター](../Page/NHK放送センター.md "wikilink")の[NHKスタジオパーク](../Page/NHKスタジオパーク.md "wikilink")（スタパ）や、[愛宕山にある](../Page/愛宕山_\(東京都港区\).md "wikilink")[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")といった展示スペースが存在する。しかし、放送センターの施設の老朽化による改築のため、スタパが[2020年](../Page/2020年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")をもって閉鎖され、スタパで行ってきた放送体験や番組の広報などのイベントの機能を当施設や放送博物館、地域の放送局で代替対応していく方針であるという\[4\]。
 
+## 主な放送番組
+
+  - [ゆうがたパラダイス](https://ja.wikipedia.org/wiki/ゆうがたパラダイス "wikilink")（[NHK-FM](../Page/NHK-FM放送.md "wikilink")） - 不定期に一度実施
+
 ## 出典
 
 ## 外部リンク

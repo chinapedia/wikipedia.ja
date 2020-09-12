@@ -152,7 +152,7 @@
   - [公式サイト](http://www.donutcounty.com)（英語）
 
   -
-[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink")
+[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:Unityを採用したゲームソフト](https://ja.wikipedia.org/wiki/Category:Unityを採用したゲームソフト "wikilink")
 
 1.
 2.

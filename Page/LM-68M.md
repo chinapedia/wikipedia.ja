@@ -92,7 +92,7 @@
 ## 関連項目
 
   - **同時期のソ連向け量産型路面電車車両**
-      - [タトラT3](../Page/タトラT3.md "wikilink") - [チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の製の[電車](../Page/電車.md "wikilink")。
+      - [タトラT3](../Page/タトラT3.md "wikilink") - [チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")製の[電車](../Page/電車.md "wikilink")。
       - [KTM-5](https://ja.wikipedia.org/wiki/KTM-5 "wikilink") - ソビエト連邦（現：ロシア連邦）の[ウスチ＝カタフスキー車両製造工場](https://ja.wikipedia.org/wiki/ウスチ＝カタフスキー車両製造工場 "wikilink")製の電車。
       - [RVZ-6](../Page/RVZ-6.md "wikilink") - [ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink")）の[リガ車両製作工場](https://ja.wikipedia.org/wiki/リガ車両製作工場 "wikilink")製の電車。
 

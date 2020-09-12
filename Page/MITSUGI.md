@@ -1,7 +1,7 @@
 > この記事は[MITSUGI](https://ja.wikipedia.org/wiki/MITSUGI)から翻訳されています。
 
 
-**MITSUGI**（ミツギ・L、[1991年](../Page/1991年.md "wikilink")[6月](../Page/6月.md "wikilink")[27日](https://ja.wikipedia.org/wiki/27日 "wikilink") - ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")である。\[1\]
+**MITSUGI**（ミツギ・L、[1991年](../Page/1991年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")である。\[1\]
 
 ## 人物
 
@@ -77,7 +77,7 @@
 
 [Category:日本の男性モデル](https://ja.wikipedia.org/wiki/Category:日本の男性モデル "wikilink") [Category:日本のロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のロック・ミュージシャン "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:フランスの男性モデル](https://ja.wikipedia.org/wiki/Category:フランスの男性モデル "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:在日フランス人](https://ja.wikipedia.org/wiki/Category:在日フランス人 "wikilink") [Category:日本の外国人タレント](https://ja.wikipedia.org/wiki/Category:日本の外国人タレント "wikilink") [Category:1991年生](https://ja.wikipedia.org/wiki/Category:1991年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  <https://model-bible.com/fashionandbeauty/superbia/>
+1.
 2.  <https://www.journaldujapon.com/2017/10/29/nmy-a-french-japanese-duet-with-varied-sounds/>
 3.  <https://www.keios.co/mitsugi>
 4.  <https://f-w.co.jp/en/catalog/?modelId=10488>

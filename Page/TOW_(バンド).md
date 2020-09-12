@@ -62,4 +62,4 @@ EP
   - [公式サイト](http://www.tow-music.com/)
   - [TOW music](https://www.youtube.com/channel/UCBrpstSB8bohd2MRq2sd2fA) - YouTube
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink")

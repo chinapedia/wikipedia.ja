@@ -1,7 +1,7 @@
 > この記事は[Thunder \(歌手\)](https://ja.wikipedia.org/wiki/Thunder_\(歌手\))から翻訳されています。
 
 
-**Thunder**（本名：パク・サンヒョン、1990年10月7日 - ）は、大韓民国の歌手であり俳優である。
+**Thunder**（本名：パク・サンヒョン、박상현、1990年10月7日 - ）は、大韓民国の歌手であり俳優である。
 
 ## ディスコグラフィ
 
@@ -221,4 +221,4 @@
   - トロピカーナスパークリング
   - [アルバ天国](https://ja.wikipedia.org/wiki/アルバ天国 "wikilink")
 
-[Category:MBLAQ](https://ja.wikipedia.org/wiki/Category:MBLAQ "wikilink") [Category:韓国の俳優](https://ja.wikipedia.org/wiki/Category:韓国の俳優 "wikilink") [Category:韓国の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国の男性ポップ歌手 "wikilink") [Category:JYPエンターテインメント](https://ja.wikipedia.org/wiki/Category:JYPエンターテインメント "wikilink") [Category:釜山広域市出身の人物](https://ja.wikipedia.org/wiki/Category:釜山広域市出身の人物 "wikilink") [Category:1990年生](https://ja.wikipedia.org/wiki/Category:1990年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:MBLAQ](https://ja.wikipedia.org/wiki/Category:MBLAQ "wikilink") [Category:韓国の男優](https://ja.wikipedia.org/wiki/Category:韓国の男優 "wikilink") [Category:韓国の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国の男性ポップ歌手 "wikilink") [Category:釜山広域市出身の人物](https://ja.wikipedia.org/wiki/Category:釜山広域市出身の人物 "wikilink") [Category:1990年生](https://ja.wikipedia.org/wiki/Category:1990年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

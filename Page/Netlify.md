@@ -3,7 +3,7 @@
 
 **Netlify**は[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")をベースとする[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")の企業である。[静的ウェブサイトのための](../Page/静的ウェブページ.md "wikilink")と[サーバーレスの](https://ja.wikipedia.org/wiki/サーバーレス・コンピューティング "wikilink")[バックエンドサービスを提供している](../Page/Platform_as_a_Service.md "wikilink")。
 
-グローバルなを介した[Git](../Page/Git.md "wikilink")からの[継続的デプロイ](https://ja.wikipedia.org/wiki/継続的デプロイ "wikilink")\[1\]\[2\]\[3\]、サーバーレスの[フォームハンドリング](../Page/フォーム_\(ウェブ\).md "wikilink")\[4\]、 functionsのサポート\[5\]、[Let's Encryptとの完全な統合](https://ja.wikipedia.org/wiki/Let's_Encrypt "wikilink")\[6\]を特徴としている。無料プランと有料プランを提供している\[7\]。
+グローバルなを介した[Git](../Page/Git.md "wikilink")からの[継続的デプロイ](https://ja.wikipedia.org/wiki/継続的デプロイ "wikilink")\[1\]\[2\]\[3\]、サーバーレスの[フォームハンドリング](../Page/フォーム_\(ウェブ\).md "wikilink")\[4\]、 functionsのサポート\[5\]、[Let's Encryptとの完全な統合](https://ja.wikipedia.org/wiki/Let's_Encrypt "wikilink")\[6\] を特徴としている。無料プランと有料プランを提供している\[7\]。
 
 Netlifyのユーザーとしては、[Google](../Page/Google.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Verizon](../Page/ベライゾン・コミュニケーションズ.md "wikilink")、[NBC](../Page/NBC.md "wikilink")、[Samsung](../Page/サムスングループ.md "wikilink")、[Cisco](../Page/シスコシステムズ.md "wikilink")、[Atlassian](https://ja.wikipedia.org/wiki/アトラシアン "wikilink")、[Vue.js](https://ja.wikipedia.org/wiki/Vue.js "wikilink")、[Citrix](../Page/シトリックス・システムズ.md "wikilink")、、[Kubernetes](https://ja.wikipedia.org/wiki/Kubernetes "wikilink")、、、[Sequoia Capitalなどがいる](https://ja.wikipedia.org/wiki/セコイア・キャピタル "wikilink")\[8\]\[9\]\[10\]\[11\]\[12\]。
 
@@ -27,7 +27,7 @@ Netlifyのユーザーとしては、[Google](../Page/Google.md "wikilink")、[F
 
 ### JAMstack
 
-JAMstackは、Netlifyがパイオニアとして開発した、[クライアントサイドJavaScript](../Page/JavaScript.md "wikilink")、再利用可能な[API](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[マークアップ](../Page/マークアップ言語.md "wikilink")（markup）\[22\]の3つをベースとしたクラウドネイティブなである\[23\]\[24\]。基本的には、JAMstackは、現在の抽象可能なバックエンドから現在の強力なフロントエンドへの大幅な移行を示したものとなっている\[25\]。
+JAMstackは、Netlifyがパイオニアとして開発した、[クライアントサイドJavaScript](../Page/JavaScript.md "wikilink")、再利用可能な[API](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[マークアップ](../Page/マークアップ言語.md "wikilink")（markup）\[22\] の3つをベースとしたクラウドネイティブなである\[23\]\[24\]。基本的には、JAMstackは、現在の抽象可能なバックエンドから現在の強力なフロントエンドへの大幅な移行を示したものとなっている\[25\]。
 
 ## 受容
 

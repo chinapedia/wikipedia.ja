@@ -9,7 +9,7 @@
 
 表彰および投票の運営は、William Reed Business Mediaが実施する。同社はThe World's 50 Best Restaurants、Asia's 50 Best Restaurants、Latin America's 50 Best Restaurantsもプロデュースしている。投票は、世界の500人以上の[ドリンク専門家によって行われる](https://ja.wikipedia.org/wiki/飲料 "wikilink")\[2\]。
 
-オフィシャルメディアパートナーは、ドリンク業界誌『Drinks International（ドリンクス・インターナショナル）』が務める。同誌はバー業界に最も影響を与える世界の100人のリスト「Bar World 100」を毎年発表しており、このリストに選出された人物が運営するバーは、The World's 50 Best Barsにも多数ランクインしている。日本人のバーでは、[東京の](../Page/東京都.md "wikilink")「High Five」「[The SG Club](../Page/The_SG_Club.md "wikilink")」、[上海の](../Page/上海市.md "wikilink")「Speak Low」「Sober Company」がある\[3\]。
+オフィシャルメディアパートナーは、ドリンク業界誌『Drinks International（ドリンクス・インターナショナル）』が務める。同誌はバー業界に最も影響を与える世界の100人のリスト「Bar World 100」を毎年発表しており、このリストに選出された人物が運営するバーは、The World's 50 Best Barsにも多数ランクインしている。日本人のバーでは、[東京の](../Page/東京都.md "wikilink")「High Five」「[The SG Club](../Page/The_SG_Club.md "wikilink")」、[上海の](../Page/上海市.md "wikilink")「[Speak Low](https://ja.wikipedia.org/wiki/Speak_Low_\(バー\) "wikilink")」「[Sober Company](https://ja.wikipedia.org/wiki/Sober_Company "wikilink")」がある\[3\]。
 
 ## 年間ランキング
 
@@ -233,7 +233,7 @@
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
-<td><p>Speak Low</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Speak_Low_(バー)" title="wikilink">Speak Low</a></p></td>
 <td><p>上海</p></td>
 <td></td>
 </tr>
@@ -293,7 +293,7 @@
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
-<td><p>Sober Company</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Sober_Company" title="wikilink">Sober Company</a></p></td>
 <td><p>上海</p></td>
 <td></td>
 </tr>

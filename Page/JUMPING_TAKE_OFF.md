@@ -17,4 +17,4 @@
 
 ### 出典
 
-[Category:高中正義の楽曲](https://ja.wikipedia.org/wiki/Category:高中正義の楽曲 "wikilink") [Category:キティレコードのシングル](https://ja.wikipedia.org/wiki/Category:キティレコードのシングル "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:マツダのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:マツダのコマーシャルソング "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:高中正義の楽曲](https://ja.wikipedia.org/wiki/Category:高中正義の楽曲 "wikilink") [Category:キティレコードのシングル](https://ja.wikipedia.org/wiki/Category:キティレコードのシングル "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:マツダのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:マツダのコマーシャルソング "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink")

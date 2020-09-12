@@ -284,7 +284,7 @@
   -
   -
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:中国地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:中国地方のローカルアイドル "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:中国地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:中国地方のローカルアイドル "wikilink")
 
 1.
 2.

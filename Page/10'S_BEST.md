@@ -23,7 +23,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトショウ、オカモトコウキ
+        作詞：オカモトショウ
+        作曲：オカモトショウ、オカモトコウキ
         編曲：OKAMOTO'S
 
         </div>
@@ -183,7 +184,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトコウキ
+        作詞：オカモトショウ
+        作曲：オカモトコウキ
         編曲：OKAMOTO'S
 
         </div>
@@ -200,7 +202,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")、オカモトショウ　作曲：オカモトショウ
+        作詞：[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")、オカモトショウ
+        作曲：オカモトショウ
         編曲：OKAMOTO'S
 
         </div>
@@ -217,7 +220,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトコウキ、オカモトショウ
+        作詞：オカモトショウ
+        作曲：オカモトコウキ、オカモトショウ
         編曲：OKAMOTO'S、[田中ユウスケ](../Page/田中ユウスケ.md "wikilink")
 
         </div>
@@ -274,7 +278,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトコウキ
+        作詞：オカモトショウ
+        作曲：オカモトコウキ
         編曲：OKAMOTO'S
 
         </div>
@@ -314,7 +319,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：[ハマ・オカモト](https://ja.wikipedia.org/wiki/ハマ・オカモト "wikilink")、OKAMOTO'S
+        作詞：オカモトショウ
+        作曲：[ハマ・オカモト](https://ja.wikipedia.org/wiki/ハマ・オカモト "wikilink")、OKAMOTO'S
         編曲：OKAMOTO'S
 
         </div>
@@ -351,7 +357,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトショウ、オカモトコウキ
+        作詞：オカモトショウ
+        作曲：オカモトショウ、オカモトコウキ
 
         </div>
     <!-- end list -->
@@ -375,7 +382,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトショウ、オカモトコウキ
+        作詞：オカモトショウ
+        作曲：オカモトショウ、オカモトコウキ
         編曲：OKAMOTO'S、[小林武史](../Page/小林武史.md "wikilink")
 
         </div>
@@ -400,7 +408,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ、[Gottz](https://ja.wikipedia.org/wiki/Gottz "wikilink")、[Tohji](https://ja.wikipedia.org/wiki/Tohji "wikilink")、[Shurkn Pap](https://ja.wikipedia.org/wiki/Shurkn_Pap "wikilink")　作曲：オカモトショウ
+        作詞：オカモトショウ、[Gottz](https://ja.wikipedia.org/wiki/Gottz "wikilink")、[Tohji](https://ja.wikipedia.org/wiki/Tohji "wikilink")、[Shurkn Pap](https://ja.wikipedia.org/wiki/Shurkn_Pap "wikilink")
+        作曲：オカモトショウ
         編曲：OKAMOTO'S、[OBKR](https://ja.wikipedia.org/wiki/小袋成彬 "wikilink")、[Yaffle](https://ja.wikipedia.org/wiki/Yaffle "wikilink")
 
         </div>
@@ -425,6 +434,14 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
+        作詞・作曲：オカモトショウ
+
+        </div>
+    <!-- end list -->
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
         未発表曲
 
         </div>
@@ -433,7 +450,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞・作曲：オカモトショウ
+        作詞：オカモトショウ
+        作曲：オカモトショウ、オカモトコウキ
         編曲：OKAMOTO'S
 
         </div>
@@ -454,6 +472,14 @@
 
         </div>
 6.  **LOVE**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：オカモトショウ
+
+        </div>
+    <!-- end list -->
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -483,7 +509,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ　作曲：オカモトショウ、オカモトコウキ
+        作詞：オカモトショウ
+        作曲：オカモトショウ、オカモトコウキ
         編曲：OKAMOTO'S
 
         </div>
@@ -532,7 +559,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ、[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")　作曲：オカモトコウキ
+        作詞：オカモトショウ、[いしわたり淳治](../Page/いしわたり淳治.md "wikilink")
+        作曲：オカモトコウキ
         編曲：OKAMOTO'S、大久保友裕
 
         </div>
@@ -557,7 +585,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトコウキ、オカモトショウ　作曲：オカモトコウキ
+        作詞：オカモトコウキ、オカモトショウ
+        作曲：オカモトコウキ
         編曲：OKAMOTO'S
 
         </div>
@@ -631,7 +660,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：オカモトショウ、オカモトレイジ　作曲：OKAMOTO'S
+        作詞：オカモトショウ、オカモトレイジ
+        作曲：OKAMOTO'S
         編曲：OKAMOTO'S、大久保友裕
 
         </div>

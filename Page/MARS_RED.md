@@ -54,7 +54,7 @@
 
   -
     2017年11月４日ー５日（会場：[舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")）
-    朗読：[諏訪部順一](../Page/諏訪部順一.md "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[高橋広樹](../Page/高橋広樹.md "wikilink")、[朴璐美](../Page/朴ロ美.md "wikilink")、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、[朝倉あき](../Page/朝倉あき.md "wikilink")、[山路和弘](../Page/山路和弘.md "wikilink")
+    朗読：[諏訪部順一](../Page/諏訪部順一.md "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[高橋広樹](../Page/高橋広樹.md "wikilink")、[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、[朝倉あき](../Page/朝倉あき.md "wikilink")、[山路和弘](../Page/山路和弘.md "wikilink")
     原作・脚本・演出：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")
     音楽監督：[村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")
     舞台監督：諌山 喜由（ISA）
@@ -113,14 +113,13 @@
 
 ### スタッフ
 
-  - 原作 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[29\]
+  - 原作・音響監督 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[29\]
   - 監督 - 羽多野浩平\[30\]
   - シリーズ構成・脚本 - [藤咲淳一](../Page/藤咲淳一.md "wikilink")\[31\]
   - キャラクター原案 - [唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")\[32\]
   - キャラクターデザイン - 竹内由香里\[33\]
-  - 音響監督 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[34\]
-  - 音楽 - [村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")\[35\]
-  - アニメーション制作 - [SIGNAL.MD](https://ja.wikipedia.org/wiki/シグナル・エムディ "wikilink")\[36\]
+  - 音楽 - [村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")\[34\]
+  - アニメーション制作 - [SIGNAL.MD](https://ja.wikipedia.org/wiki/シグナル・エムディ "wikilink")\[35\]
 
 ## 脚注
 
@@ -176,4 +175,3 @@
 33.
 34.
 35.
-36.

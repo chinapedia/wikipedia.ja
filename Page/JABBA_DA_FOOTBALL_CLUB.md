@@ -13,11 +13,11 @@
 
 ・**ROVIN**（ロビン）:[MC](../Page/MC.md "wikilink")
 
-身長は小さいが熱く、尊敬する人物として[矢沢永吉](../Page/矢沢永吉.md "wikilink")・[長渕剛](../Page/長渕剛.md "wikilink")・[吉川晃司](../Page/吉川晃司.md "wikilink")・[尾崎豊](../Page/尾崎豊.md "wikilink")を挙げている。[ゲーム](../Page/ゲーム.md "wikilink")好き\[3\]。
+身長は小さいが熱く、尊敬する人物として[矢沢永吉](../Page/矢沢永吉.md "wikilink")・[長渕剛](../Page/長渕剛.md "wikilink")・[吉川晃司](../Page/吉川晃司.md "wikilink")・[尾崎豊](../Page/尾崎豊.md "wikilink")を挙げている。[ゲーム](../Page/ゲーム.md "wikilink")好き。また、2020年にKick a show らとのグループらとのグループ[Be-Loved](https://ja.wikipedia.org/wiki/Be-Loved "wikilink")を結成。\[3\]。
 
-・**ASHTRAY**(アシュトレイ):[MC](../Page/MC.md "wikilink")
+・**JUQI**(ジュキ):[MC](../Page/MC.md "wikilink")
 
-[イケメン](../Page/イケメン.md "wikilink")担当。お酒好き。[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")のサポーター\[4\]。
+[イケメン](../Page/イケメン.md "wikilink")担当。お酒好き。[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")のサポーター。ASHTRAYというMCネームから改名し、今に至る。\[4\]。
 
 ・**BAOBAB MC**（バオバブエムシー）:[MC](../Page/MC.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
@@ -29,7 +29,7 @@
 
 ### 結成
 
-2014年にNOLOV、BAOBAB MCによって結成され、ASHTRAY、ROVINの加入後、本格的に活動をスタートさせる。
+2014年にNOLOV、BAOBAB MCによって結成され、JUQI、ROVINの加入後、本格的に活動をスタートさせる。
 
 2015年に1stアルバム『QUEST』を500枚限定で発売。同年に開催した初の自主企画イベントには[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")、[Ykiki Beat](https://ja.wikipedia.org/wiki/Ykiki_Beat "wikilink")、[YOUR ROMANCEらが出演](https://ja.wikipedia.org/wiki/YOUR_ROMANCE "wikilink")。
 
@@ -60,7 +60,7 @@
   - メジャー移籍を発表した場所に「OMAKE PARK」を選んだ理由として、ROVINは筋を通したかった\[6\]と語っている。
   - 「FUCKING GOOD MILK SHAKE」をリリースした2018年当時は相当仲が悪く、解散の危機もあった。\[7\]
   - [chelmico](https://ja.wikipedia.org/wiki/chelmico "wikilink")のMAMIKOはジャバのことを「ズッコケ3人組っぽい」と音楽ナタリーの取材で語っている\[8\]。
-  - ASTRAYとNOLOVは同じ大学。\[9\]
+  - JUQIとNOLOVは同じ大学。\[9\]
 
 ## ディスコグラフィー
 
@@ -73,6 +73,7 @@
 | **　　　　　　　[MASTERSIX FOUNDATION](https://ja.wikipedia.org/wiki/MASTERSIX_FOUNDATION "wikilink")（[SonyMusicRecords](https://ja.wikipedia.org/wiki/Sony_Music_Records "wikilink")）** |             |       |            |              |
 | 1st                                                                                                                                                                               | 2019年6月5日   | 新世界   | SRCL-11139 | メジャーデビューシングル |
 | 配信                                                                                                                                                                                | 2019年9月7日   | きみは最高 |            | 配信限定シングル     |
+| 2nd                                                                                                                                                                               | 2020年3月18日  | 国道9号線 |            |              |
 
 ### アルバム・EP
 

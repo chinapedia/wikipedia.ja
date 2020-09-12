@@ -1,7 +1,7 @@
 > この記事は[Xperia PRO](https://ja.wikipedia.org/wiki/Xperia_PRO)から翻訳されています。
 
 
-**Xperia PRO**（エクスペリア プロ）は[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")によって開発されているとされる、[第5世代移動通信システム](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink")（5G）対応の[Android](../Page/Android.md "wikilink")搭載端末である。[Xperia 1 II](../Page/Xperia_1_II.md "wikilink")、[Xperia 10 IIとともにソニーモバイルコミュニケーションズによって](../Page/Xperia_10_II.md "wikilink")、[2020年](../Page/2020年.md "wikilink")2月24日に公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにて発表された。当初の予定ではスペイン・バルセロナの携帯電話展示会「[MWC2020](https://ja.wikipedia.org/wiki/モバイル・ワールド・コングレス "wikilink")」にてソニーモバイルコミュニケーションズより発表される予定であったが、[コロナウイルスの感染防止のため中止された](../Page/2019新型コロナウイルス.md "wikilink")。
+**Xperia PRO**（エクスペリア プロ）は[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")によって開発されているとされる、[第5世代移動通信システム](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink")（5G）対応の[Android](../Page/Android.md "wikilink")搭載端末である。[Xperia 1 II](../Page/Xperia_1_II.md "wikilink")、[Xperia 10 IIとともにソニーモバイルコミュニケーションズによって](../Page/Xperia_10_II.md "wikilink")、[2020年](../Page/2020年.md "wikilink")2月24日に公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにて発表された。当初の予定ではスペイン・バルセロナの携帯電話展示会「[MWC2020](https://ja.wikipedia.org/wiki/モバイル・ワールド・コングレス "wikilink")」にてソニーモバイルコミュニケーションズより発表される予定であったが、[新型コロナウイルスの感染防止のため中止された](../Page/2019新型コロナウイルス.md "wikilink")。
 
 ## 概要
 

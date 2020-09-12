@@ -27,10 +27,10 @@ KDE Slimbook（2017年3月リリース）とKDE SlimbookⅡ（2018年）にはKD
 
 ## 外部リンク
 
-  - [neon Official Website](https://neon.kde.org%7CKDE)
+  - [neon Official Website](https://neon.kde.org/)
 
   -
-[Category:KDE](https://ja.wikipedia.org/wiki/Category:KDE "wikilink") [Category:Ubuntu派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Ubuntu派生ディストリビューション "wikilink") [Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink")
+[Category:KDE](https://ja.wikipedia.org/wiki/Category:KDE "wikilink") [Category:Ubuntu派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Ubuntu派生ディストリビューション "wikilink")
 
 1.
 2.

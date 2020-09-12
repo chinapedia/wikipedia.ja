@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [三代目 J SOUL BROTHERS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")8th[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")『[RAISE THE FLAG](../Page/RAISE_THE_FLAG.md "wikilink")』に収録されている。また、2018年発売の『ウタモノガタリ‐CINEMA FIGHTERS project‐』のボーナスCDに収録されていた。
+  - [三代目 J SOUL BROTHERS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")8th[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")『[RAISE THE FLAG](../Page/RAISE_THE_FLAG.md "wikilink")』に収録されている。また、2018年発売の『[ウタモノガタリ-CINEMA FIGHTERS project-](https://ja.wikipedia.org/wiki/ウタモノガタリ-CINEMA_FIGHTERS_project- "wikilink")』のボーナスCDに収録されていた。
   - 作詞家の[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")は「東京」について、地元ではスターだった若者たちがこの街に来たとたん埋もれてしまい、夢破れる、そんな東京という街への思いを込めたと語っている。また、2013年「[空に住む](https://ja.wikipedia.org/wiki/空に住む〜Living_in_your_sky〜 "wikilink")」という小説を出した頃に書いてずっと温めていた詞である\[1\]。
 
 ## 収録曲
@@ -14,7 +14,7 @@
       -
         作詞：[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")、作曲：Jun Tanaka ([GENTOUKI](../Page/ゲントウキ.md "wikilink"))
     <!-- end list -->
-      - 映画『ウタモノガタリ -CINEMA FIGHTERS project-「ファンキー」』主題歌
+      - 映画『[ウタモノガタリ-CINEMA FIGHTERS project-](https://ja.wikipedia.org/wiki/ウタモノガタリ-CINEMA_FIGHTERS_project- "wikilink")「ファンキー」』主題歌
       - [ディップ](../Page/ディップ_\(企業\).md "wikilink")「バイトルNEXT」CMソング
 
 ## 収録アルバム

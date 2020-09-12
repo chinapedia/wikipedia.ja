@@ -109,4 +109,13 @@
 
 ## 脚注
 
-[Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:ジャニーズWEST](https://ja.wikipedia.org/wiki/Category:ジャニーズWEST "wikilink") [Category:ジャニーズ関連アルバム](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連アルバム "wikilink") [Category:2020年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2020年のオリコンアルバムチャート1位獲得作品 "wikilink")
+## 外部リンク
+
+  - [W trouble特設サイト](https://www.jehp.jp/wtrouble/)
+
+  - [Johnny's Entertainment Recordによる紹介ページ](https://www.jehp.jp/jwest_information/article/3139)
+
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=29&data=2305)
+
+  -
+[Category:ジャニーズWEST](https://ja.wikipedia.org/wiki/Category:ジャニーズWEST "wikilink") [Category:ジャニーズ関連アルバム](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連アルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:2020年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2020年のオリコンアルバムチャート1位獲得作品 "wikilink")

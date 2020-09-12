@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [ジャニーズ](../Page/ジャニーズ.md "wikilink")
+  - [ジャニーズ](../Page/ジャニーズ事務所.md "wikilink")
 
 <!-- end list -->
 
@@ -67,11 +67,12 @@
       - [三日月](https://ja.wikipedia.org/wiki/Japonism "wikilink")（作詞）
       - [Mr. FUNK](https://ja.wikipedia.org/wiki/Japonism "wikilink")（作詞）
       - [5×20](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")（作曲）
+      - [Love so sweet : Reborn](https://ja.wikipedia.org/wiki/Love_so_sweet#Love_so_sweet_:_Reborn "wikilink")（作詞・作曲）
 
 <!-- end list -->
 
-  - [Hey\! Say\! 7](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP#Hey!_Say!_7（期間限定ユニット） "wikilink")
-      - ウタウタウ（作詞・作曲）
+  - [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink")
+      - [ウタウタウ](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")（作詞・作曲）
 
 <!-- end list -->
 

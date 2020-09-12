@@ -13,8 +13,6 @@
 
 ## 来歴
 
-  - ミクスチャーロック・バンド「Fow two.」のメンバーとして活動、2018年3月の自主制作盤「me me glue.」収録の「O.W.A.」が福岡のFMラジオ局内のランキングで上位となり話題となる。
-  - バンド解散後、Mega Shinnosukeへと名義を改める。
   - 2018年11月4日、1st mini EP「momo」をリリース。
   - 2019年3月13日に発売された[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")のアルバム「[MUSiC](https://ja.wikipedia.org/wiki/MUSiC "wikilink")」に、人生5曲目に書き上げた「踊るロクデナシ」が収録。
   - 2019年6月5日、初の全国流通盤となる1st EP「HONNE」をリリース。

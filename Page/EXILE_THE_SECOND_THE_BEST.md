@@ -1,7 +1,7 @@
 > この記事は[EXILE THE SECOND THE BEST](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND_THE_BEST)から翻訳されています。
 
 
-『**EXILE THE SECOND THE BEST**』（エグザイル・ザ・セカンド・ザ・ベスト）は、[EXILE THE SECONDの](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
+『**EXILE THE SECOND THE BEST**』（エグザイル・ザ・セカンド・ザ・ベスト）は、[EXILE THE SECONDの](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2020年2月22日に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
 
 ## 概要
 

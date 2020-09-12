@@ -131,8 +131,8 @@
 </tr>
 <tr class="odd">
 <td><p>ウェブサイト</p></td>
-<td><p><a href="https://store.google.com/jp/product/pixel_4">https://store.google.com/jp/product/pixel_4</a> (Google ストア) <a href="https://www.softbank.jp/mobile/products/google-pixel/google-pixel-4/products/"><a href="https://www.softbank.jp/mob">https://www.softbank.jp/mob</a></a><a href="https://www.softbank.jp/mobile/products/google-pixel/google-pixel-4/products/">ile/products/google-pixel/google-pixel-4/products/</a></p>
-<p>(ソフトバングホームページ)</p></td>
+<td><p><a href="https://store.google.com/jp/product/pixel_4">https://store.google.com/jp/product/pixel_4</a> (Google ストア)<br />
+<a href="https://www.softbank.jp/mobile/products/google-pixel/google-pixel-4/products/">https://www.softbank.jp/mobile/products/google-pixel/google-pixel-4/products/</a> (ソフトバンクホームページ)</p></td>
 </tr>
 </tbody>
 </table>

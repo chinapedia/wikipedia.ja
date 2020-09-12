@@ -13,7 +13,7 @@
 
 今作も前作に引き続き、メンバーの[松島聡](https://ja.wikipedia.org/wiki/松島聡 "wikilink")が突発性[パニック障害](../Page/パニック障害.md "wikilink")の治療に専念するため不参加。　
 
-2020年3月24日にポニーキャニオンから[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")内の新レーベルへ移籍することが発表されたため、ポニーキャニオンからリリースされる最後のアルバムとなる予定。
+2020年3月24日にポニーキャニオンから[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")内の新レーベルへ移籍することが発表されたため、ポニーキャニオンからリリースされた最後のアルバムとなった。
 
 ## 収録曲
 
@@ -31,15 +31,15 @@
         作詞、作曲：[浅利進吾](https://ja.wikipedia.org/wiki/浅利進吾 "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 3.  **禁断の果実**
       -
-        作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")、作曲：KOUDAI IWATSUBO/[Seiji Iwasaki](../Page/岩崎誠司.md "wikilink")、編曲：[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
+        作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")、作曲：[KOUDAI IWATSUBO](../Page/イワツボコーダイ.md "wikilink")/[Seiji Iwasaki](../Page/岩崎誠司.md "wikilink")、編曲：[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
 4.  **[Honey Honey](https://ja.wikipedia.org/wiki/麒麟の子/Honey_Honey "wikilink")**
       -
-        作詞：Kanata Okajima、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：ESME MORI
+        作詞：[Kanata Okajima](https://ja.wikipedia.org/wiki/岡嶋かな多 "wikilink")、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：ESME MORI
     <!-- end list -->
       - 17thシングルの2曲目
 5.  **タイムトラベル**
       -
-        作詞：HIKARI、作曲：Victor Sagfors/HIKARI、編曲：CHOKKAKU
+        作詞：[HIKARI](../Page/HIKARI.md "wikilink")、作曲：Victor Sagfors/HIKARI、編曲：CHOKKAKU
 6.  **Blessed**
       -
         作詞・作曲・編曲：Kai Takahashi (LUCKY TAPES)
@@ -61,7 +61,7 @@
 12. **MELODY**
       -
         作詞・作曲・編曲：[tofubeats](https://ja.wikipedia.org/wiki/tofubeats "wikilink")
-13. **One Abiity**
+13. **One Ability**
       -
         作詞：MiNE、作曲：STEVEN LEE/MiNE/Atushi Shimada、編曲：Atsushi Shimada、ストリングスアレンジ：[田渕夏海](https://ja.wikipedia.org/wiki/田渕夏海 "wikilink")
 14. **それでいいよ**

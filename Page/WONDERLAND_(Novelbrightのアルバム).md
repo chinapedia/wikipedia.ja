@@ -15,14 +15,14 @@
 
 今作は過去に会場限定CDとしてリリースされた「夜空に舞う鷹のように」「スタートライン」「Photo album」なども再収録されている。
 
-## 収録曲\[4\]
+## 収録曲
 
 1.  **ランナーズハイ**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：竹中雄大 作曲：竹中雄大・沖聡次郎
+        作詞：[竹中雄大](https://ja.wikipedia.org/wiki/竹中雄大 "wikilink") 作曲：竹中雄大・[沖聡次郎](https://ja.wikipedia.org/wiki/沖聡次郎 "wikilink")
 
         </div>
 
@@ -32,7 +32,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：竹中雄大 作曲：竹中雄大・山田海斗
+        作詞：竹中雄大 作曲：竹中雄大・[山田海斗](https://ja.wikipedia.org/wiki/山田海斗 "wikilink")
 
         </div>
 
@@ -59,7 +59,7 @@
         </div>
 
           - 会場限定アルバム『BRIGHT1』とアコースティックアルバム『AcoBright1』の収録曲。
-          - Novelbright結成時から存在した楽曲で、本人たちが長らく大切にしてきた楽曲。
+          - Novelbright結成時から存在した楽曲。
 5.  **おはようワールド**
       -
 
@@ -149,7 +149,7 @@
 
 ## 特典
 
-  - ファンクラブ「NOVELCITY」会員限定特典'''\[5\]
+  - ファンクラブ「NOVELCITY」会員限定特典'''\[4\]
 
 <!-- end list -->
 
@@ -157,7 +157,7 @@
 
 <!-- end list -->
 
-  - タワーレコード購入特典\[6\]
+  - タワーレコード購入特典\[5\]
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 
 <!-- end list -->
 
-  - セブンネットショッピング購入特典\[7\]
+  - セブンネットショッピング購入特典\[6\]
 
 <!-- end list -->
 
@@ -189,11 +189,13 @@
 
 ## タイアップ
 
-  - [アサヒビール](../Page/アサヒビール.md "wikilink")「[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")」WEB限定[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)\[8\]\[9\]
-  - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")『[KATE](https://ja.wikipedia.org/wiki/KATE "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#3)\[10\]
+  - [アサヒビール](../Page/アサヒビール.md "wikilink")「[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")」WEB限定[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)\[7\]\[8\]
+  - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「[KATE](https://ja.wikipedia.org/wiki/KATE "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink") (\#3)\[9\]
+  - ABEMA TVドラマ『[恋する❤︎週末ホームステイ 2020夏](https://ja.wikipedia.org/wiki/恋する❤︎週末ホームステイ_2020夏 "wikilink")』挿入歌\[10\] (\#4)
   - スマートフォン向けゲーム『[放置少女](https://ja.wikipedia.org/wiki/放置少女 "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#8)\[11\]
-  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")ドラマ『[僕等の物語](https://ja.wikipedia.org/wiki/僕等の物語 "wikilink")』主題歌\[12\](\#9)
-  - ソニー 『[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")』 Web[CMソング](../Page/コマーシャルソング.md "wikilink")(\#12)\[13\]
+  - ABEMA TVドラマ『恋する❤︎週末ホームステイ 2020夏』主題歌\[12\] (\#8)
+  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")ドラマ『[僕等の物語](https://ja.wikipedia.org/wiki/僕等の物語 "wikilink")』主題歌\[13\](\#9)
+  - [ソニー](../Page/ソニー.md "wikilink")「[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")」Web[CMソング](../Page/コマーシャルソング.md "wikilink")(\#12)\[14\]
 
 ## 脚注
 
@@ -202,7 +204,7 @@
 1.
 2.
 3.
-4.  [タワーレコード - Novelbright/WONDERLAND](https://tower.jp/item/5036655/WONDERLAND)
+4.
 5.
 6.
 7.
@@ -212,3 +214,4 @@
 11.
 12.
 13.
+14.

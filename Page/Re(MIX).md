@@ -5,10 +5,9 @@
 
 ## 解説
 
-リミックスアルバムとしては、『[Koda Kumi Driving Hit's 9 -Special Edition-](https://ja.wikipedia.org/wiki/Koda_Kumi_Driving_Hit's_9_-Special_Edition- "wikilink")』以来約1年振りのリリースとなる。
-倖田來未の17thオリジナルアルバム『[re(CORD)](https://ja.wikipedia.org/wiki/re\(CORD\) "wikilink")』からの楽曲を中心に構成されたリミックスアルバム。
+倖田來未の17枚目のオリジナルアルバム『[re(CORD)](https://ja.wikipedia.org/wiki/re\(CORD\) "wikilink")』をリミックスしたアルバム\[1\]。リミキサーとして、Shadw、KATFYR、KAZBONGO、Adolfo De La Torre Casmartiño、iamSHUM、Toki、Kiyoshi Sugo、MATZ、BUNNY、[DJ Shimamuraが参加している](https://ja.wikipedia.org/wiki/DJ_Shimamura "wikilink")\[2\]。リミックスアルバムとしては『[Koda Kumi Driving Hit's 9 -Special Edition-](https://ja.wikipedia.org/wiki/Koda_Kumi_Driving_Hit's_9_-Special_Edition- "wikilink")』以来約1年振りのリリースとなる。
 
-倖田來未の22枚目、23枚目のライブDVD及びBlu-ray『**[KODA KUMI LIVE TOUR 2019 re(LIVE) 〜Black Cherry〜](https://ja.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_-Black_Cherry-_&_-JAPONESQUE-#KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_〜Black_Cherry〜 "wikilink")**』、『**[KODA KUMI LIVE TOUR 2019 re(LIVE) 〜JAPONESQUE〜](https://ja.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_-Black_Cherry-_&_-JAPONESQUE-#KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_〜JAPONESQUE〜 "wikilink")**』と同時発売である。
+倖田來未の22枚目、23枚目のライブDVD及びBlu-ray『[KODA KUMI LIVE TOUR 2019 re(LIVE) 〜Black Cherry〜](https://ja.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_-Black_Cherry-_&_-JAPONESQUE-#KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_〜Black_Cherry〜 "wikilink")』、『[KODA KUMI LIVE TOUR 2019 re(LIVE) 〜JAPONESQUE〜](https://ja.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_-Black_Cherry-_&_-JAPONESQUE-#KODA_KUMI_LIVE_TOUR_2019_re\(LIVE\)_〜JAPONESQUE〜 "wikilink")』と同時発売である\[3\]。
 
 ## 収録内容
 
@@ -34,3 +33,7 @@
   - [KODA KUMI Official Site - rhythm zone](https://rhythmzone.net/koda/news/detail.php?id=1069706)
 
 [Category:倖田來未のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:倖田來未のリミックス・アルバム "wikilink") [Category:2020年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のリミックス・アルバム "wikilink")
+
+1.
+2.
+3.

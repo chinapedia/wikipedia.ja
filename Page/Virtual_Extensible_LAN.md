@@ -32,7 +32,7 @@ VXLAN はRFC 7348で[IETFによって正式に文書化された](../Page/Intern
   -
   - [VXLANの詳細: パート1](http://www.definethecloud.net/vxlan-deep-dive/)と[パート2](http://www.definethecloud.net/vxlan-deep-divepart-2/)、2012年11月、Joe Onisick著
 
-[Category:トンネリング](https://ja.wikipedia.org/wiki/Category:トンネリング "wikilink")
+[Category:トンネリング](https://ja.wikipedia.org/wiki/Category:トンネリング "wikilink") [Category:RFC](https://ja.wikipedia.org/wiki/Category:RFC "wikilink")
 
 1.
 2.

@@ -26,6 +26,6 @@ STU48のメンバーが、瀬戸内出身の大先輩・田村淳の案内で東
 
   - [公式サイト](https://www.bsfuji.tv/stuhatu/) - BSフジ
 
-[Category:BSフジのバラエティ番組](https://ja.wikipedia.org/wiki/Category:BSフジのバラエティ番組 "wikilink") [Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:STU48](https://ja.wikipedia.org/wiki/Category:STU48 "wikilink")
+[Category:BSフジのバラエティ番組](https://ja.wikipedia.org/wiki/Category:BSフジのバラエティ番組 "wikilink") [Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:STU48](https://ja.wikipedia.org/wiki/Category:STU48 "wikilink") [Category:田村淳](https://ja.wikipedia.org/wiki/Category:田村淳 "wikilink")
 
 1.

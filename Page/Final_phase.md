@@ -9,14 +9,14 @@
 
 表題曲「final phase」はテレビアニメ「[とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")」のオープニングテーマとなっており\[3\]\[4\]、また[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")で撮影されたほか、芸人の[カミナリがゲスト出演している](https://ja.wikipedia.org/wiki/カミナリ_\(お笑いコンビ\) "wikilink")。
 
-## 収録内容
+## 収録曲
 
   - 全作詞・作曲・編曲: 八木沼悟志
 
 <!-- end list -->
 
 1.  **final phase** \[4:02\]
-      - テレビアニメ『[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")T』オープニングテーマ
+      - テレビアニメ『[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")T』前期オープニングテーマ
 2.  **promenade** \[5:56\]
 3.  final phase＜instrumental＞ \[4:02\]
 4.  promenade＜instrumental＞ \[5:57\]
@@ -39,11 +39,13 @@
 
   - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink") (全曲)
 
+## カバー
+
+  - [Poppin'Party](https://ja.wikipedia.org/wiki/BanG_Dream!#Poppin'Party（声優ユニット） "wikilink")［戸山香澄（[愛美](https://ja.wikipedia.org/wiki/愛美 "wikilink")）］ - 『とある科学の超電磁砲T』とのコラボレーションの一環として、2020年6月30日にゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』に収録\[5\]。これに先立つ同年6月19日 - 30日には、第2期fripSide10周年を兼ねて、原曲がゲーム内楽曲として配信された\[6\]。
+
 ## 脚注
 
 ### 出典
-
-<references/>
 
 ## 外部リンク
 
@@ -51,9 +53,11 @@
       - [初回限定盤 CD+DVD](http://db2.nbcuni.co.jp/contents/hp0004/list.php?CNo=4&AgentProCon=40292)
       - [通常盤](http://db2.nbcuni.co.jp/contents/hp0004/list.php?CNo=4&AgentProCon=40291)
 
-[Category:FripSideの楽曲](https://ja.wikipedia.org/wiki/Category:FripSideの楽曲 "wikilink") [Category:八木沼悟志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:八木沼悟志が制作した楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:とある魔術の禁書目録の音楽](https://ja.wikipedia.org/wiki/Category:とある魔術の禁書目録の音楽 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:FripSideの楽曲](https://ja.wikipedia.org/wiki/Category:FripSideの楽曲 "wikilink") [Category:八木沼悟志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:八木沼悟志が制作した楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:とある魔術の禁書目録の音楽](https://ja.wikipedia.org/wiki/Category:とある魔術の禁書目録の音楽 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.
 2.
 3.
 4.
+5.
+6.

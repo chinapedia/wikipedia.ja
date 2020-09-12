@@ -79,7 +79,7 @@
 ## 関連項目
 
   - [グループウェア](../Page/グループウェア.md "wikilink")
-  - [ChatWork](https://ja.wikipedia.org/wiki/ChatWork "wikilink")
+  - [Chatwork](https://ja.wikipedia.org/wiki/Chatwork "wikilink")
   - [サテライトオフィス](https://ja.wikipedia.org/wiki/サテライトオフィス "wikilink")
   - [Office 365](https://ja.wikipedia.org/wiki/Office_365 "wikilink")
   - [G Suite](https://ja.wikipedia.org/wiki/G_Suite "wikilink")

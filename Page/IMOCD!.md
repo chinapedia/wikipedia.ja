@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - **[𝐑𝐢𝐤𝐢𝐣𝐢](https://en.wikipedia.org/wiki/Rikiji)**：[ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")
+  - **[𝐑𝐢𝐤𝐢𝐣𝐢](https://ja.wikipedia.org/wiki/:en:Rikiji "wikilink")**：[ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    自身のバンド𝐁𝐥𝐨𝐨𝐦 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐨𝐮𝐧𝐝で活動。1994年SPAEDのメンバー加入他、[SUGIZO](../Page/SUGIZO.md "wikilink")([LUNA SEA](../Page/LUNA_SEA.md "wikilink"))や[LISA](../Page/LISA_\(歌手\).md "wikilink")([m-flo](https://ja.wikipedia.org/wiki/M-flo "wikilink"))、[貴水博之](../Page/貴水博之.md "wikilink")をサポート。[FAKE?](../Page/FAKE?.md "wikilink")で[INORAN](../Page/INORAN.md "wikilink")脱退後のギターサポートを務める。http://www.pure-records.com/eric/profile.html
+    自身のバンド𝐁𝐥𝐨𝐨𝐦 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐨𝐮𝐧𝐝で活動。1994年SPAEDのメンバー加入他、[SUGIZO](../Page/SUGIZO.md "wikilink")([LUNA SEA](../Page/LUNA_SEA.md "wikilink"))や[LISA](../Page/LISA_\(歌手\).md "wikilink")([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))、[貴水博之](../Page/貴水博之.md "wikilink")をサポート。[FAKE?](../Page/FAKE?.md "wikilink")で[INORAN](../Page/INORAN.md "wikilink")脱退後のギターサポートを務める。http://www.pure-records.com/eric/profile.html
 
 ## サポートメンバー
 
@@ -54,6 +54,7 @@
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、2nd EP 『[Trying to buy my friends](https://www.amazon.co.jp/Trying-to-Buy-My-Friends/dp/B07QR4ZDL7)』 リリース
   - [2020年](../Page/2020年.md "wikilink")
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、Album『Under the Moon, Over the Cloud』をリリース
+      - [8月](../Page/8月.md "wikilink")、3rd EP 『CLOSE ENCOUNER』 リリース
 
 ## 脚注
 

@@ -9,6 +9,8 @@
 
 [強姦](../Page/強姦.md "wikilink")犯に[タックルを食らわし](../Page/タックル_\(フットボール\).md "wikilink")、捕まえたことがある。
 
+## キャリア
+
 ## ディスコグラフィー
 
 | Band                                                                                            | Release date | Title                                                                                           |

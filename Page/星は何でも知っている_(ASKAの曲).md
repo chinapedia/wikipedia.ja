@@ -1,7 +1,7 @@
 > この記事は[星は何でも知っている \(ASKAの曲\)](https://ja.wikipedia.org/wiki/星は何でも知っている_\(ASKAの曲\))から翻訳されています。
 
 
-「**星は何でも知っている**」（ほしはなんでもしっている）は、[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")の配信限定[シングル](../Page/シングル.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に配信された。配信元は[DADAレーベル](https://ja.wikipedia.org/wiki/DADAレーベル "wikilink")。
+「**星は何でも知っている**」（ほしはなんでもしっている）は、[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")の楽曲。[配信](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")として、[2018年](../Page/2018年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に配信された。配信元は[DADAレーベル](https://ja.wikipedia.org/wiki/DADAレーベル "wikilink")。
 
 ## 背景
 

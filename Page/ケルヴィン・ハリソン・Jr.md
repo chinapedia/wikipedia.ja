@@ -126,8 +126,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ja.wikipedia.org/wiki/:en:The_Wolf_Hour" title="wikilink">The Wolf Hour</a></em></p></td>
-<td><p>Freddie</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウルフ・アワー" title="wikilink">ウルフ・アワー</a><br />
+<em>The Wolf Hour</em></p></td>
+<td><p>フレディ</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -154,7 +155,7 @@
 <td><p>rowspan="3” | 2020</p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/:en:The_Photograph_(2020_film)" title="wikilink">The Photograph</a></em></p></td>
 <td></td>
-<td><p>ポスト・プロダクション中</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><em><a href="https://ja.wikipedia.org/wiki/:en:Covers_(film)" title="wikilink">Covers</a></em></p></td>
@@ -163,9 +164,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://ja.wikipedia.org/wiki/:en:The_Trial_of_the_Chicago_7_(film)" title="wikilink">The Trial of the Chicago 7</a></em></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ7裁判" title="wikilink">シカゴ7裁判</a><br />
+<em>The Trial of the Chicago 7</em></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フレッド・ハンプトン" title="wikilink">フレッド・ハンプトン</a></p></td>
 <td><p>ポスト・プロダクション中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

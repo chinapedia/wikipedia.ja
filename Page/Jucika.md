@@ -11,7 +11,9 @@
 
 作品は主に[社会主義](../Page/社会主義.md "wikilink")時代のハンガリーで唯一ユーモアや冗談が載った風刺新聞『』で流通したが、単行本などに関する書誌情報は殆どない。また作者の急逝により作品は未完のまま[1970年](../Page/1970年.md "wikilink")に[絶筆](https://ja.wikipedia.org/wiki/絶筆 "wikilink")となった\[2\]。
 
-その後、他の風刺的なアダルト作品が『ルーダス・マティ』誌で公開されたため、Jucikaの存在は忘れ去られ、ほとんど顧みられなくなった\[3\]。しかし、プシュタイ生誕100周年目の[2019年](../Page/2019年.md "wikilink")11月中旬に[英語圏](../Page/英語圏.md "wikilink")の画像掲示板[4chan](../Page/4chan.md "wikilink")で突如人気が高まり、それが[Tumblr](../Page/Tumblr.md "wikilink")と[Twitter](../Page/Twitter.md "wikilink")に飛び火して多数の[ファンアート](../Page/ファンアート.md "wikilink")が投稿されるなど全世界で再発見的な話題となり、ひとつの[インターネット・ミーム](https://ja.wikipedia.org/wiki/インターネット・ミーム "wikilink")となった\[4\]。
+その後、他の風刺的なアダルト作品が『ルーダス・マティ』誌で公開されたため、Jucikaの存在は忘れ去られ、ほとんど顧みられなくなった\[3\]。
+
+しかし、プシュタイ生誕100周年目の[2019年](../Page/2019年.md "wikilink")11月中旬に[英語圏](../Page/英語圏.md "wikilink")最大の匿名画像掲示板「[4chan](../Page/4chan.md "wikilink")」で突如人気が高まり、それが[Tumblr](../Page/Tumblr.md "wikilink")と[Twitter](../Page/Twitter.md "wikilink")に飛び火して多数の[ファンアート](../Page/ファンアート.md "wikilink")が投稿されるなど全世界で再発見的な話題となり、ひとつの[インターネット・ミーム](https://ja.wikipedia.org/wiki/インターネット・ミーム "wikilink")となった\[4\]。
 
 ハンガリーの文学評論家アコス・コッツォーは「彼女の姿は魅力的であり、非常に人間の感情や現象を表現している」と語った。
 

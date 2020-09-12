@@ -30,7 +30,7 @@
         作詞・作曲：[野田洋次郎](https://ja.wikipedia.org/wiki/野田洋次郎 "wikilink") / 再編曲：[コバソロ](https://ja.wikipedia.org/wiki/コバソロ "wikilink")
 5.  **醒めない**（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ "wikilink")）
       -
-        作詞・作曲：[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 再編曲：前田逸平
+        作詞・作曲：[草野正宗](../Page/草野マサムネ.md "wikilink") / 再編曲：前田逸平
 6.  **Funny Bunny**（[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")）
       -
         作詞・作曲：[山中さわお](../Page/山中さわお.md "wikilink") / 再編曲：前田逸平

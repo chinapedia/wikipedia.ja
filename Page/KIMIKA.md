@@ -1,17 +1,13 @@
 > この記事は[KIMIKA](https://ja.wikipedia.org/wiki/KIMIKA)から翻訳されています。
 
 
-**KIMIKA**（きみか、8月3日-）は、「[Shallow](https://ja.wikipedia.org/wiki/Shallow "wikilink")」を本人と一緒に歌唱する姿がテレビ、SNSで大きな話題の日本の女性歌手。
+**KIMIKA**（きみか、1994年8月3日-）は、「[Shallow](https://ja.wikipedia.org/wiki/Shallow "wikilink")」を本人と一緒に歌唱する姿がテレビ、SNSで大きな話題を呼んだ日本の女性歌手。山梨県で出生し、幼い頃から東京都調布市で育つ。
 
-## 外部リンク
-
-  -
-  -
 ## 経歴
 
-メジャーデビュー前　渋谷109で販売員をしていた。メジャーアーティストの仮歌やバックコーラスなど数多くかかわり。路上で活動。
+メジャーデビュー前　渋谷109で販売員をしていた。メジャーアーティストの仮歌やバックコーラスなど数多くかかわり。路上で活動。ダンスの専門学校に通う。
 
-ダンスの専門学校に通う。
+2017年に[SHOWROOMと](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")が主催した[瀬尾公治](../Page/瀬尾公治.md "wikilink")のバンド漫画『[風夏](https://ja.wikipedia.org/wiki/風夏 "wikilink")』のボーカルオーディションで優勝\[1\]し、翌2018年1月に『風夏』第185話にゲスト出演、2月にはSHOWROOM RECORDSより配信シングル『夏風』でメジャーデビュー\[2\]。
 
 メジャーデビュー以降、2019年4月に1stEP「Dream」を発売。2020年1月29日に自身のオリジナル曲を入れた「WithYou」を発売。リード曲のWalk with youのMVは渋谷を舞台にした映像となっている。
 
@@ -43,4 +39,16 @@ THEカラオケ★バトル - 関ジャニ∞のTheモーツァルト 音楽王N
 
 2020年1月29日SECOND MINI ALBUM「With you」発売
 
+## 脚注・出典
+
+<references />
+
+## 外部リンク
+
+  -
+  -
+
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink")
+
+1.  [【決勝】週刊少年マガジンに登場！？人気漫画「風夏」デビューオーディション](https://www.showroom-live.com/event/fuuka_final) SHOWROOM公式 2020年6月23日 閲覧
+2.  [卒業生 KIMIKAさん　メジャーデビューおめでとう☆](https://stepsarts.com/performance/4284/) TOKYO STEPS ARTS 2020年6月23日 閲覧

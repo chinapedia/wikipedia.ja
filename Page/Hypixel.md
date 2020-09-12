@@ -27,8 +27,6 @@
       - 制限時間内に指定されたテーマの建築をするゲームである。建築が修了した後、プレイヤーは相互に6段階の評価をつけて、プレイヤーの評価の合計が高い順に順位がつく。
   - Cops and Crims
       - 2チームに分かれて行うガンシューティングゲームである。チームデスマッチと、爆弾を設置する側と解除する側に分かれて数ラウンド戦う2つのモードがある。
-  - Crazy Walls
-      - ハテナブロックのようなブロックを破壊する度、サバイバルモードでは手に入ることのない特殊な武器をランダムに手に入れる。プレイヤーはこれらを用いて、十数人の中から最後の1人になるまで戦う。
   - Duels
       - 剣と弓を用いたシンプルな対戦モードである。1対1、2対2、4対4から選び、相手チームを倒した方が勝ちのゲームである。
   - Mega Walls
@@ -92,19 +90,19 @@
 
 2020年4月18日、Minecraft Chinaが2020年6月30日にサービス停止されることが発表された\[12\]。
 
-## 外部リンク
+## 脚注
 
-  - [Hypixel公式](https://hypixel.net/)
-  - [Hypixel Server for Minecraft（YouTube）](https://www.youtube.com/user/Hypixel)
+<references />
 
 ## 関連項目
 
   - [Hytale](https://ja.wikipedia.org/wiki/Hytale "wikilink")
   - [Minecraft](https://ja.wikipedia.org/wiki/Minecraft "wikilink")
 
-### 脚注
+## 外部リンク
 
-<references />
+  - [Hypixel公式](https://hypixel.net/)
+  - [Hypixel Server for Minecraft（YouTube）](https://www.youtube.com/user/Hypixel)
 
 [Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:ギネス世界記録](https://ja.wikipedia.org/wiki/Category:ギネス世界記録 "wikilink")
 

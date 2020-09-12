@@ -1,7 +1,7 @@
 > この記事は[鈴井の巣 presents n×u×k×i](https://ja.wikipedia.org/wiki/鈴井の巣_presents_n×u×k×i)から翻訳されています。
 
 
-**『鈴井の巣 presents n×u×k×i』**（鈴井の巣 プレゼント ヌキ）は、2001年4月から2002年1月まで、[北海道テレビで深夜に放送されていた](../Page/北海道テレビ放送.md "wikilink")、[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")番組。
+**『鈴井の巣 presents n×u×k×i』**（鈴井の巣 プレゼント ヌキ）は、2001年4月から2002年1月まで、[北海道テレビで深夜に放送されていた](../Page/北海道テレビ放送.md "wikilink")、[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、[鈴井貴之](../Page/鈴井貴之.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。
 
 ## 概要
 

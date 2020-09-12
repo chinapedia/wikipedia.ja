@@ -1,7 +1,7 @@
 > この記事は[TCクラクション](https://ja.wikipedia.org/wiki/TCクラクション)から翻訳されています。
 
 
-**TCクラクション**（ティーシークラクション）は、[グレープカンパニー](https://ja.wikipedia.org/wiki/グレープカンパニー "wikilink")所属の日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。
+**TCクラクション**（ティーシークラクション）は、[グレープカンパニー](https://ja.wikipedia.org/wiki/グレープカンパニー "wikilink")所属の日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。
 
 ## メンバー
 
@@ -38,7 +38,7 @@
 
   -
   -
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:グレープカンパニー](https://ja.wikipedia.org/wiki/Category:グレープカンパニー "wikilink")
 
 1.  [準々決勝進出者発表！](http://www.king-of-conte.com/2019/2019/08/post-13.php)
 2.  [元曇天三男坊と元ドリーマーズ坂本のコンビがグレープカンパニーに所属](https://natalie.mu/owarai/news/354930)

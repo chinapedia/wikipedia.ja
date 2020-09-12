@@ -131,6 +131,14 @@ I×L×P× RECORDS（2012年 - 2013年）を経て所属。<br />
 <td><p>シャーロック</p></td>
 <td><p>2020年 -</p></td>
 <td><p>murffin Lab.</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/sherlock/1515544427">リンク</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヤユヨ_(バンド)" title="wikilink">ヤユヨ</a></p></td>
+<td><p>ヤユヨ</p></td>
+<td><p>2020年 -</p></td>
+<td><p>TALTO</p></td>
 <td></td>
 <td></td>
 </tr>

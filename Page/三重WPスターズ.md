@@ -38,7 +38,7 @@
   - [旧・三重WPスターズ(選抜チーム) HP](https://miesuikyu.jimdofree.com/)
   - [旧・三重WPスターズ(選抜チーム) facebookページ](https://www.facebook.com/miewps)
 
-[Category:日本の水球チーム](https://ja.wikipedia.org/wiki/Category:日本の水球チーム "wikilink") [Category:三重県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:三重県のスポーツチーム "wikilink") [Category:三重郡](https://ja.wikipedia.org/wiki/Category:三重郡 "wikilink") [Category:菰野町](https://ja.wikipedia.org/wiki/Category:菰野町 "wikilink") [Category:鈴鹿市](https://ja.wikipedia.org/wiki/Category:鈴鹿市 "wikilink") [Category:四日市市](https://ja.wikipedia.org/wiki/Category:四日市市 "wikilink") [Category:2019年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2019年設立のスポーツチーム "wikilink")
+[Category:日本の水球チーム](https://ja.wikipedia.org/wiki/Category:日本の水球チーム "wikilink") [Category:三重県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:三重県のスポーツチーム "wikilink") [Category:三重郡](https://ja.wikipedia.org/wiki/Category:三重郡 "wikilink") [Category:菰野町](https://ja.wikipedia.org/wiki/Category:菰野町 "wikilink") [Category:鈴鹿市のスポーツ](https://ja.wikipedia.org/wiki/Category:鈴鹿市のスポーツ "wikilink") [Category:四日市市のスポーツ](https://ja.wikipedia.org/wiki/Category:四日市市のスポーツ "wikilink") [Category:2019年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2019年設立のスポーツチーム "wikilink")
 
 1.  [新・三重WPスターズホームページより](https://miewpstars.jimdofree.com/)
 2.  [旧・三重WPスターズホームページより](https://miesuikyu.jimdo.com/)

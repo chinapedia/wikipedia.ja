@@ -57,7 +57,7 @@
 
 [神戸大学](../Page/神戸大学.md "wikilink")
 
-[駒沢大学](https://ja.wikipedia.org/wiki/駒沢大学 "wikilink")
+[駒澤大学](../Page/駒澤大学.md "wikilink")
 
 [芝浦工業大学](../Page/芝浦工業大学.md "wikilink")
 

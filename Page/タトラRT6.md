@@ -1,7 +1,7 @@
 > この記事は[タトラRT6](https://ja.wikipedia.org/wiki/タトラRT6)から翻訳されています。
 
 
-**タトラRT6**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した****が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）。車軸がない独立車輪式台車がある中間車体を有する[3車体連接車で](../Page/連接台車.md "wikilink")、[主電動機](https://ja.wikipedia.org/wiki/主電動機 "wikilink")や[制御装置](../Page/制御装置.md "wikilink")を搭載した動力台車がある車端部分を除いた部分の床上高さが350 mmとなっている[超低床電車](../Page/超低床電車.md "wikilink")（部分超低床電車）として開発された。**RT6N1**と**RT6S**の2形式が製造されたが、双方とも信頼性の低さにより運用を離脱する車両が相次ぎ、[2000年](../Page/2000年.md "wikilink")にČKDタトラが倒産した結果、少数の生産のみに終わった\[1\]。
+**タトラRT6**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した**[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）。車軸がない独立車輪式台車がある中間車体を有する[3車体連接車で](../Page/連接台車.md "wikilink")、[主電動機](https://ja.wikipedia.org/wiki/主電動機 "wikilink")や[制御装置](../Page/制御装置.md "wikilink")を搭載した動力台車がある車端部分を除いた部分の床上高さが350 mmとなっている[超低床電車](../Page/超低床電車.md "wikilink")（部分超低床電車）として開発された。**RT6N1**と**RT6S**の2形式が製造されたが、双方とも信頼性の低さにより運用を離脱する車両が相次ぎ、[2000年](../Page/2000年.md "wikilink")にČKDタトラが倒産した結果、少数の生産のみに終わった\[1\]。
 
 ## RT6N1
 
@@ -28,7 +28,7 @@ RT6N1を基に開発された部分超低床電車。片運転台の車体構造
 
 ### 出典
 
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:1993年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1993年製の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:1993年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1993年製の鉄道車両 "wikilink")
 
 1.
 2.

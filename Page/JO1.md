@@ -17,6 +17,7 @@
 ### 2020年
 
   - 3月4日 - デビューシングル「[PROTOSTAR](../Page/PROTOSTAR.md "wikilink")」をリリース\[7\]。
+  - 8月26日 - 2ndシングル「[STARGAZER](https://ja.wikipedia.org/wiki/STARGAZER_\(JO1のシングル\) "wikilink")」をリリース\[8\]。
 
 ## メンバー
 
@@ -39,7 +40,7 @@
 <td><ul>
 <li>血液型：O型</li>
 <li>出身地：<a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></li>
-<li>メンバーカラー：レッド[8]</li>
+<li>メンバーカラー：レッド[9]</li>
 </ul></td>
 <td><p><span style="display:none">20020530</span></p></td>
 <td><p>173cm</p></td>
@@ -53,7 +54,7 @@
 <td><ul>
 <li>血液型：O型</li>
 <li>出身地：<a href="../Page/福岡県.md" title="wikilink">福岡県</a></li>
-<li>メンバーカラー：ブルー[9]</li>
+<li>メンバーカラー：ブルー[10]</li>
 </ul></td>
 <td><p><span style="display:none">19970302</span></p></td>
 <td><p>173cm</p></td>
@@ -67,7 +68,7 @@
 <td><ul>
 <li>血液型：B型</li>
 <li>出身地：<a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></li>
-<li>メンバーカラー：ピンク[10]</li>
+<li>メンバーカラー：ピンク[11]</li>
 </ul></td>
 <td><p><span style="display:none">19990623</span></p></td>
 <td><p>170cm</p></td>
@@ -81,7 +82,7 @@
 <td><ul>
 <li>血液型：A型</li>
 <li>出身地：<a href="../Page/京都府.md" title="wikilink">京都府</a></li>
-<li>メンバーカラー：イエロー[11]</li>
+<li>メンバーカラー：イエロー[12]</li>
 </ul></td>
 <td><p><span style="display:none">20000413</span></p></td>
 <td><p>176cm</p></td>
@@ -95,7 +96,7 @@
 <td><ul>
 <li>血液型：A型</li>
 <li>出身地：<a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></li>
-<li>メンバーカラー：グレー[12]</li>
+<li>メンバーカラー：グレー[13]</li>
 </ul></td>
 <td><p><span style="display:none">20001211</span></p></td>
 <td><p>178cm</p></td>
@@ -109,7 +110,7 @@
 <td><ul>
 <li>血液型：O型</li>
 <li>出身地：<a href="../Page/東京都.md" title="wikilink">東京都</a></li>
-<li>メンバーカラー：ホワイト[13]</li>
+<li>メンバーカラー：ホワイト[14]</li>
 </ul></td>
 <td><p><span style="display:none">19971119</span></p></td>
 <td><p>175cm</p></td>
@@ -123,7 +124,7 @@
 <td><ul>
 <li>血液型：A型</li>
 <li>出身地：<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></li>
-<li>メンバーカラー：キャメル[14]</li>
+<li>メンバーカラー：キャメル[15]</li>
 </ul></td>
 <td><p><span style="display:none">19980729</span></p></td>
 <td><p>181cm</p></td>
@@ -137,7 +138,7 @@
 <td><ul>
 <li>血液型：A型</li>
 <li>出身地：<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></li>
-<li>メンバーカラー：ライトパープル[15]</li>
+<li>メンバーカラー：ライトパープル[16]</li>
 </ul></td>
 <td><p><span style="display:none">20000405</span></p></td>
 <td><p>171cm</p></td>
@@ -151,8 +152,8 @@
 <td><ul>
 <li>血液型：O型</li>
 <li>出身地：<a href="../Page/奈良県.md" title="wikilink">奈良県</a></li>
-<li>メンバーカラー：ライトブルー[16]</li>
-<li>メインボーカル[17]</li>
+<li>メンバーカラー：ライトブルー[17]</li>
+<li>メインボーカル[18]</li>
 </ul></td>
 <td><p><span style="display:none">19980120</span></p></td>
 <td><p>174cm</p></td>
@@ -166,8 +167,8 @@
 <td><ul>
 <li>血液型：A型</li>
 <li>出身地：<a href="../Page/大阪府.md" title="wikilink">大阪府</a></li>
-<li>メンバーカラー：ブラック[18]</li>
-<li>サブボーカル[19]</li>
+<li>メンバーカラー：ブラック[19]</li>
+<li>サブボーカル[20]</li>
 </ul></td>
 <td><p><span style="display:none">20000506</span></p></td>
 <td><p>178cm</p></td>
@@ -181,8 +182,8 @@
 <td><ul>
 <li>血液型：O型</li>
 <li>出身地：<a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></li>
-<li>メンバーカラー：グリーン[20]</li>
-<li>リーダー[21]、メインボーカル[22]</li>
+<li>メンバーカラー：グリーン[21]</li>
+<li>リーダー[22]、メインボーカル[23]</li>
 </ul></td>
 <td><p><span style="display:none">19951025</span></p></td>
 <td><p>180cm</p></td>
@@ -198,12 +199,15 @@
 
 ### シングル
 
-|                      | リリース日      | タイトル                                             | 最高位 | 規格品番                                                                                         | 形態\<\!--   |
+| \#                   | リリース日      | タイトル                                             | 最高位 | 規格品番                                                                                         | 形態\<\!--   |
 | -------------------- | ---------- | ------------------------------------------------ | --- | -------------------------------------------------------------------------------------------- | ---------- |
 | レーベル--\>             |            |                                                  |     |                                                                                              |            |
 | 1                    | 2020年3月4日  | **[PROTOSTAR](../Page/PROTOSTAR.md "wikilink")** | 1位  | 初回限定盤A（[CD](https://ja.wikipedia.org/wiki/CDDA "wikilink")+[DVD](../Page/DVD.md "wikilink")） | YRCS-90173 |
 | 初回限定盤B（CD+フォトブックレット） | YRCS-90174 |                                                  |     |                                                                                              |            |
 | 通常盤（CD）              | YRCS-90175 |                                                  |     |                                                                                              |            |
+| 2                    | 2020年8月26日 | **STARGAZER**                                    | 1位  | 初回限定盤A（CD+DVD）                                                                               | YRCS-90181 |
+| 初回限定盤B（CD+フォトブックレット） | YRCS-90182 |                                                  |     |                                                                                              |            |
+| 通常盤（CD）              | YRCS-90183 |                                                  |     |                                                                                              |            |
 
 ### ミュージックビデオ
 
@@ -219,18 +223,31 @@
 <tbody>
 <tr class="odd">
 <td><p>2020年</p></td>
-<td><p>PROTOSTAR</p></td>
+<td><p><strong>PROTOSTAR</strong></p></td>
 <td><ul>
 <li>無限大 (INFINITY)</li>
 </ul></td>
 <td><ul>
-<li>無限大(INFINITY) Practice Video</li>
-<li>無限大(INFINITY) Practice Video Costume Ver.</li>
-<li>無限大(INFINITY) MV Performance Ver.</li>
-<li>無限大(INFINITY) Performance VIDEO</li>
-<li>Running Animation Video</li>
-<li>La Pa Pa Pam Performance Video</li>
+<li>無限大(INFINITY) (Practice Video)</li>
+<li>無限大(INFINITY) (Practice Video Costume Ver.)</li>
+<li>無限大(INFINITY) (MV Performance Ver.)</li>
+<li>無限大(INFINITY) (Performance VIDEO)</li>
+<li>無限大(INFINITY) (おうちVer.)</li>
+<li>Running (Animation Video)</li>
+<li>La Pa Pa Pam (Performance Video)</li>
+<li>La Pa Pa Pam (おうち Ver.)</li>
 </ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>STARGAZER</strong></p></td>
+<td><ul>
+<li>OH-EH-OH</li>
+</ul></td>
+<td><ul>
+<li>GO (Performance MOVIE)</li>
+<li>So What (Performance MOVIE)</li>
+</ul></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -240,6 +257,7 @@
 <table>
 <thead>
 <tr class="header">
+<th><p>年</p></th>
 <th><p>楽曲</p></th>
 <th><p>タイアップ</p></th>
 <th><p>収録</p></th>
@@ -247,45 +265,69 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2020年</p></td>
 <td><p><strong>無限大(INFINITY)</strong></p></td>
 <td><p>テレビ朝日系「<a href="https://ja.wikipedia.org/wiki/そんなコト考えた事なかったクイズ!トリニクって何の肉!?" title="wikilink">そんなコト考えた事なかったクイズ!トリニクって何の肉!?</a>」エンディングテーマ<br />
 関西テレビ「<a href="https://ja.wikipedia.org/wiki/千原ジュニアの座王" title="wikilink">千原ジュニアの座王</a>」エンディングテーマ<br />
 <a href="../Page/ABCマート.md" title="wikilink">ABC-MART</a>×<a href="../Page/ナイキ.md" title="wikilink">NIKE</a> TV•CF テーマソング</p></td>
 <td><p>1stシングル「<a href="../Page/PROTOSTAR.md" title="wikilink">PROTOSTAR</a>」</p></td>
 </tr>
+<tr class="even">
+<td><p><strong>OH-EH-OH</strong></p></td>
+<td><p>テレビ朝日系「そんなコト考えた事なかったクイズ！トリニクって何の肉！？」エンディングテーマ<br />
+朝日放送テレビ「<a href="../Page/やすとものいたって真剣です.md" title="wikilink">やすとものいたって真剣です</a>」エンディングテーマ<br />
+関西テレビ「<a href="https://ja.wikipedia.org/wiki/ちゃちゃ入れマンデー" title="wikilink">ちゃちゃ入れマンデー</a>」エンディングテーマ</p></td>
+<td><p>2ndシングル「STARGAZER」</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ## 出演
 
+### テレビ
+
+  - MUSIC ON\! SPECIAL 「JO1」～STARGAZER～（2020年8月26日 - 9月4日、[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）\[24\]
+
 ### ラジオ
 
-  - [文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")スペシャル日本を音楽でアゲる\! JO1 無限大Radio（2020年4月30日、[文化放送](../Page/文化放送.md "wikilink")） - スタジオ出演は與那城奨、白岩瑠姫、河野純喜\[23\]
+  - [文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")スペシャル日本を音楽でアゲる\! JO1 無限大Radio（2020年4月30日、[文化放送](../Page/文化放送.md "wikilink")） - スタジオ出演は與那城奨、白岩瑠姫、河野純喜\[25\]
 
 ### 配信番組
 
-  - JO1 HOUSE（2020年2月27日 - 2020年3月26日、[GYAO\!](../Page/GYAO!.md "wikilink")）-　タイトル公表前は「JO1の新番組（仮）※タイトルは自分たちで考えます！」と表記されていた\[24\]。
+  - JO1 HOUSE（2020年2月27日 - 2020年3月26日、[GYAO\!](../Page/GYAO!.md "wikilink")）-　タイトル公表前は「JO1の新番組（仮）※タイトルは自分たちで考えます！」と表記されていた\[26\]。
+      - season2 （2020年7月30日 - 2020年10月8日、GYAO\!）\[27\]
   - JO1デビュー記念特別生配信（2020年3月4日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")）
+  - JO1 祝！2ndシングル特番『JO1 SCHOOL』重大発表SP （2020年8月22日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）\[28\]
+  - 『STARGAZER』リリース記念YouTubeライブ（2020年8月26日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")）
+
+### 音声ドラマ
+
+  - 「5分後に恋の魔法が解けるまで 一番星見つけた」「5分後に恋の魔法が解けるまで 二度目の初恋」購入特典（2020年10月8日発売）\[29\]
 
 ### CM・広告
 
-  - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ワイモバ学割「BIG Y\!」（2020年2月 - ）\[25\]
+  - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ワイモバ学割「BIG Y\!」（2020年2月 - ）\[30\]
   - [ABC-MART](https://ja.wikipedia.org/wiki/ABC-MART "wikilink")×[NIKE](https://ja.wikipedia.org/wiki/NIKE "wikilink")「NIKE ONE」（2020年3月6日 - ）
-  - [ネスレ日本](../Page/ネスレ日本.md "wikilink")「“[キットカット](../Page/キットカット.md "wikilink")” ひと月遅れの卒業式 with JO1」（2020年3月30日 - ）\[26\]
-  - [ファミリーマート](../Page/ファミリーマート.md "wikilink")ラブフラッペ「JO1 MEETS FRAPPE.」（2020年4月16日 - ）\[27\]\[28\]
+  - [ネスレ日本](../Page/ネスレ日本.md "wikilink")「“[キットカット](../Page/キットカット.md "wikilink")” ひと月遅れの卒業式 with JO1」（2020年3月30日 - ）\[31\]
+  - [ファミリーマート](../Page/ファミリーマート.md "wikilink")ラブフラッペ「JO1 MEETS FRAPPE.」（2020年4月16日 - ）\[32\]\[33\]
+  - [Francfranc](../Page/Francfranc.md "wikilink")「Fun Fun\! Handy Fan\!」（2020年6月10日 - ）\[34\]
 
 ## イベント
 
 ### ファンミーティング
 
-| 年             | 公演名                                         | 日程         | 会場                                                                     |
-| ------------- | ------------------------------------------- | ---------- | ---------------------------------------------------------------------- |
-| 2020年         | **JO1 1ST FANMEETING**                      | 1月31日、2月1日 | 神奈川 [パシフィコ横浜 国立大ホール](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink") |
-| 2月18日、19日、20日 | 大阪 [オリックス劇場](../Page/オリックス劇場.md "wikilink") |            |                                                                        |
+| 年                                           | 公演名                                         | 日程               | 会場                                                                     |
+| ------------------------------------------- | ------------------------------------------- | ---------------- | ---------------------------------------------------------------------- |
+| 2020年                                       | **JO1 1ST FANMEETING**                      | 1月31日、2月1日       | 神奈川 [パシフィコ横浜 国立大ホール](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink") |
+| 2月18日、19日、20日                               | 大阪 [オリックス劇場](../Page/オリックス劇場.md "wikilink") |                  |                                                                        |
+| **JO1 2NDシングル「STARGAZER」リリース記念 ショーケースイベント** | 8月16日                                       | 東京都内近郊 (オンライン開催) |                                                                        |
 
 ### その他
 
-  - [ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")メゾン大阪御堂筋オープンニングイベント（2020年1月29日）\[29\]
+  - [ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")メゾン大阪御堂筋オープンニングイベント（2020年1月29日）\[35\]
+  - [KCON](https://ja.wikipedia.org/wiki/KCON "wikilink"):TACT 2020 SUMMER（2020年6月21日）\[36\] - オンラインコンサート。
+  - Tokyo Virtual Runway Live by [GirlsAward](https://ja.wikipedia.org/wiki/GirlsAward "wikilink")（2020年6月27日）\[37\]
 
 ## 脚注
 
@@ -296,13 +338,14 @@
 ## 外部リンク
 
   -
-  - [JO1オフィシャルファンクラブ](https://fc.produce101.jp/)
+  - [JO1オフィシャルファンクラブ](https://fc.jo1.jp/)
 
   -
   -
   -
   -
-[Category:PRODUCE_101](https://ja.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:TBSの番組発のグループ](https://ja.wikipedia.org/wiki/Category:TBSの番組発のグループ "wikilink")
+  -
+[Category:PRODUCE_101](https://ja.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:TBSの番組発のグループ](https://ja.wikipedia.org/wiki/Category:TBSの番組発のグループ "wikilink")
 
 1.
 2.  \[<https://jo1.jp/>　JO1オフィシャルサイト\]
@@ -320,16 +363,24 @@
 14.
 15.
 16.
-17. [JO1をもっと知りたい♡メンバーの魅力をたっぷりご紹介【河野純喜・金城碧海・與那城奨】- ViVi](https://www.vivi.tv/post105618/)
-18.
+17.
+18. [JO1をもっと知りたい♡メンバーの魅力をたっぷりご紹介【河野純喜・金城碧海・與那城奨】- ViVi](https://www.vivi.tv/post105618/)
 19.
 20.
 21.
 22.
 23.
 24.
-25.  Y\!mobile（ワイモバイル）|url=[https://www.ymobile.jp/sp/ymgakuwari/|website=Y\!mobile|accessdate=2020-01-22](https://www.ymobile.jp/sp/ymgakuwari/%7Cwebsite=Y!mobile%7Caccessdate=2020-01-22)}}
+25.
 26.
 27.
 28.
 29.
+30.  Y\!mobile（ワイモバイル）|url=[https://www.ymobile.jp/sp/ymgakuwari/|website=Y\!mobile|accessdate=2020-01-22](https://www.ymobile.jp/sp/ymgakuwari/%7Cwebsite=Y!mobile%7Caccessdate=2020-01-22)}}
+31.
+32.
+33.
+34.
+35.
+36.
+37.

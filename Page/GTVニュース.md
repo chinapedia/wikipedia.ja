@@ -36,7 +36,7 @@
 
 ## 脚注
 
-[Category:群馬テレビ番組](https://ja.wikipedia.org/wiki/Category:群馬テレビ番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink")
+[Category:群馬テレビの番組](https://ja.wikipedia.org/wiki/Category:群馬テレビの番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink")
 
 1.
 2.

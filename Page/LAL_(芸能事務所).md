@@ -5,7 +5,7 @@
 
 ## 概要
 
-[声優](../Page/声優.md "wikilink")・[女優の](../Page/俳優.md "wikilink")[朴璐美が](../Page/朴ロ美.md "wikilink")[演劇集団 円より独立した](../Page/演劇集団_円.md "wikilink")[2017年](../Page/2017年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に設立\[1\]。
+[声優](../Page/声優.md "wikilink")・[女優の](../Page/俳優.md "wikilink")[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")が[演劇集団 円より独立した](../Page/演劇集団_円.md "wikilink")[2017年](../Page/2017年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に設立\[1\]。
 
 元々は朴の個人事務所であったが、[2018年](../Page/2018年.md "wikilink")3月に朴が開校しているボイススクール「studio Cambria」より3名の女性声優を「LAL Children」として預かり所属させ\[2\]、朴以外の声優も所属するようになった。
 
@@ -24,7 +24,7 @@
   - [河村螢](../Page/河村螢.md "wikilink")
   - [谷口暢子](https://ja.wikipedia.org/wiki/谷口暢子 "wikilink")
   - [中村百伽](https://ja.wikipedia.org/wiki/中村百伽 "wikilink")
-  - [朴璐美](../Page/朴ロ美.md "wikilink")（代表）
+  - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")（代表）
   - [丸山ナオミ](https://ja.wikipedia.org/wiki/丸山ナオミ "wikilink")
   - [八島さらら](https://ja.wikipedia.org/wiki/八島さらら "wikilink")
   - [わかばやしめぐみ](https://ja.wikipedia.org/wiki/わかばやしめぐみ "wikilink")

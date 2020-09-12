@@ -39,8 +39,8 @@
 ### 第2回：[2019年](../Page/2019年.md "wikilink")
 
   -
-    グランプリ：[西永彩奈](https://ja.wikipedia.org/wiki/西永彩奈 "wikilink")、[中崎絵梨奈](../Page/中崎絵梨奈.md "wikilink")\[22\]
-    準グランプリ：[8°25](https://ja.wikipedia.org/wiki/8°25 "wikilink")（ぱつこ）\[23\]
+    グランプリ：[西永彩奈](https://ja.wikipedia.org/wiki/西永彩奈 "wikilink")、[中﨑絵梨奈](../Page/中崎絵梨奈.md "wikilink") \[22\]
+    準グランプリ：[8°25](https://ja.wikipedia.org/wiki/ぱつこ "wikilink")（ぱつこ）\[23\]
     審査員特別賞：[竹川由華](https://ja.wikipedia.org/wiki/竹川由華 "wikilink")\[24\]
     ベストスマイル賞：[水咲優美](https://ja.wikipedia.org/wiki/水咲優美 "wikilink")\[25\]
     ピュアグラマー賞：[未梨一花](../Page/未梨一花.md "wikilink")\[26\]

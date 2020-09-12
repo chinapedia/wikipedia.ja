@@ -1,9 +1,9 @@
 > この記事は[White disc +++](https://ja.wikipedia.org/wiki/White_disc_+++)から翻訳されています。
 
 
-『**White Disc +++**』は、[halca](https://ja.wikipedia.org/wiki/halca "wikilink")の1枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。
+『**white disc +++**』は、[halca](https://ja.wikipedia.org/wiki/halca "wikilink")の1枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。
 
-2017年、『**White Disc**』インディーズ盤のシングルとして発売されて、また2019年08月28日、新録曲4曲を加えて[SACRA MUSICから再版発売された](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[1\]\[2\]\[3\]
+2017年、『**white disc**』インディーズ盤のシングルとして発売されて、また2019年08月28日、新録曲4曲を加えて[SACRA MUSICから再版発売された](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[1\]\[2\]\[3\]
 
 通常盤と同時初回限定盤がリリースされた。初回限定盤特典DVDには初のライブ映像特典として6月23日に渋谷WWWにて開催されたワンマンライブの模様から4曲付属する。
 
@@ -33,7 +33,7 @@
   - [ミュージックレイン](../Page/ミュージックレイン.md "wikilink")
   - [SACRA MUSIC](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")
 
-[Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink")
+[Category:2019年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のミニ・アルバム "wikilink")
 
 1.
 2.

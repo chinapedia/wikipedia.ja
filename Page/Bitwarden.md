@@ -39,12 +39,11 @@
   - クロスプラットフォームのクライアントアプリケーション\[20\]
   - [オンプレミス](https://ja.wikipedia.org/wiki/オンプレミス "wikilink")のBitwardenサーバーをセルフホスト\[21\]
 
+## 脚注
+
 ## 関連項目
 
-  - [パスワードマネージャー](https://ja.wikipedia.org/wiki/パスワードマネージャー "wikilink")
   - [暗号理論](../Page/暗号理論.md "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

@@ -25,13 +25,13 @@
 <!-- end list -->
 
   - [青春ふぁいたーず](https://ja.wikipedia.org/wiki/青春ふぁいたーず "wikilink")
-    2014年6月に単独番組として開始されたが、当番組開始と同時に1コーナーとして吸収された。
+    2014年6月に単独番組として開始されたが、当番組開始と同時に1コーナーとして吸収され2017年まで放送。
 
 ## 脚注
 
 ## 関連項目
 
-  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")
   - [今日ドキッ\!](https://ja.wikipedia.org/wiki/今日ドキッ! "wikilink")
   - [Bravo\!ファイターズR](../Page/ファイターズDEナイト!.md "wikilink")
 

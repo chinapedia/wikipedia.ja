@@ -1,11 +1,11 @@
 > この記事は[CO・MO・RE YOTSUYA](https://ja.wikipedia.org/wiki/CO・MO・RE_YOTSUYA)から翻訳されています。
 
 
-*' CO･MO･RE YOTSUYA*'（こもれよつや *CO・MO・RE YOTSUYA*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[四谷](../Page/四谷.md "wikilink")一丁目の[四谷駅](https://ja.wikipedia.org/wiki/四谷駅 "wikilink")に近接する旧[新宿区立四谷第三小学校](https://ja.wikipedia.org/wiki/新宿区立四谷第三小学校 "wikilink")や、[財務省](https://ja.wikipedia.org/wiki/財務省 "wikilink")[官舎](../Page/官舎.md "wikilink")等の跡地に建設された[市街地再開発事業](https://ja.wikipedia.org/wiki/市街地再開発事業 "wikilink")の[複合](https://ja.wikipedia.org/wiki/複合 "wikilink")市街施設。[オフィス](../Page/オフィス.md "wikilink")施設、[レジデンス](https://ja.wikipedia.org/wiki/レジデンス "wikilink")施設、[商業](../Page/商業.md "wikilink")施設、[教育](../Page/教育.md "wikilink")施設、[公益](https://ja.wikipedia.org/wiki/公益 "wikilink")施設、[駐車場](../Page/駐車場.md "wikilink")等である。
+*' CO･MO･RE YOTSUYA*'（こもれよつや *CO・MO・RE YOTSUYA*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[四谷](../Page/四谷.md "wikilink")一丁目の[四ツ谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")に近接する旧[新宿区立四谷第三小学校](https://ja.wikipedia.org/wiki/新宿区立四谷第三小学校 "wikilink")や、[財務省](https://ja.wikipedia.org/wiki/財務省 "wikilink")[官舎](../Page/官舎.md "wikilink")等の跡地に建設された[市街地再開発事業](https://ja.wikipedia.org/wiki/市街地再開発事業 "wikilink")の[複合](https://ja.wikipedia.org/wiki/複合 "wikilink")市街施設。[オフィス](../Page/オフィス.md "wikilink")施設、[レジデンス](https://ja.wikipedia.org/wiki/レジデンス "wikilink")施設、[商業](../Page/商業.md "wikilink")施設、[教育](../Page/教育.md "wikilink")施設、[公益](https://ja.wikipedia.org/wiki/公益 "wikilink")施設、[駐車場](../Page/駐車場.md "wikilink")等である。
 
 ## 概要
 
-四谷駅一丁目地区は、立地的には[JR](../Page/東日本旅客鉄道.md "wikilink")[中央線快速](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[総武線や](../Page/総武本線.md "wikilink")[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")・[南北線の](../Page/東京メトロ南北線.md "wikilink")[四ツ谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")に近接し、[環状第2号線](https://ja.wikipedia.org/wiki/環状第2号線 "wikilink")・[外堀通り](https://ja.wikipedia.org/wiki/外堀通り "wikilink")に面した好立地にある。[建物](../Page/建物.md "wikilink")の[老朽化](https://ja.wikipedia.org/wiki/老朽化 "wikilink")や[廃校](../Page/廃校.md "wikilink")の跡地利用等の課題を背景に、2004年（平成16年）12月、[新宿区立四谷第三小学校](https://ja.wikipedia.org/wiki/新宿区立四谷第三小学校 "wikilink")の閉校及び財務省官舎の売却計画を契機に、四谷地区にふさわしい健康的で自然に配慮した経済・文化の中心となるようなまちづくりの実現を目的とした「四谷駅前まちづくり協議会」が発足。そこから約15年間の歳月を必要とした。
+四谷駅一丁目地区は、立地的には[JR](../Page/東日本旅客鉄道.md "wikilink")[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")および[中央・総武線や](../Page/中央・総武緩行線.md "wikilink")[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")・[南北線の](../Page/東京メトロ南北線.md "wikilink")[四ツ谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")に近接し、[環状第2号線](../Page/東京都市計画道路幹線街路環状第2号線.md "wikilink")・[外堀通りに面した好立地にある](../Page/東京都道405号外濠環状線.md "wikilink")。[建物](../Page/建物.md "wikilink")の[老朽化](https://ja.wikipedia.org/wiki/老朽化 "wikilink")や[廃校](../Page/廃校.md "wikilink")の跡地利用等の課題を背景に、2004年（平成16年）12月、[新宿区立四谷第三小学校](https://ja.wikipedia.org/wiki/新宿区立四谷第三小学校 "wikilink")の閉校および財務省官舎の売却計画を契機に、四谷地区にふさわしい健康的で自然に配慮した経済・文化の中心となるようなまちづくりの実現を目的とした「四谷駅前まちづくり協議会」が発足。そこから約15年間の歳月を必要とした。
 
 CO･MO･RE YOTSUYA（コモレ四谷）は、四谷駅前地区第一種市街地再開発事業の施行者である独立行政法人[都市再生機構](../Page/都市再生機構.md "wikilink")、事業パートナーである[三菱地所](../Page/三菱地所.md "wikilink")株式会社および第5メック[都市開発](https://ja.wikipedia.org/wiki/都市開発 "wikilink")[特定目的会社](../Page/特定目的会社.md "wikilink")、[地権者](https://ja.wikipedia.org/wiki/地権者 "wikilink")である四谷駅前地区再開発協議会で構成されている。第5メック都市開発特定目的会社は、三菱地所株式会社、[阪急阪神不動産](../Page/阪急阪神不動産.md "wikilink")株式会社、[太陽生命保険](../Page/太陽生命保険.md "wikilink")株式会社が出資する[特別目的事業体](../Page/特別目的事業体.md "wikilink")（CPC）である\[1\]\[2\]\[3\]。
 
@@ -91,8 +91,8 @@ CO･MO･RE YOTSUYA（コモレ四谷）は、四谷駅前地区第一種市街
 
 ## 交通
 
-  - [JR](../Page/東日本旅客鉄道.md "wikilink")[中央快速](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[総武線](../Page/総武本線.md "wikilink") - [四ツ谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")より徒歩約3分
-  - [東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")・[東京メトロ南北線](../Page/東京メトロ南北線.md "wikilink") - 四ツ谷駅より徒歩約3分
+  - [JR](../Page/東日本旅客鉄道.md "wikilink")[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")、[中央・総武線](../Page/中央・総武緩行線.md "wikilink") - [四ツ谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")より徒歩約3分
+  - [東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")・[南北線](../Page/東京メトロ南北線.md "wikilink") - 四ツ谷駅より徒歩約3分
 
 ## 脚注
 
@@ -110,12 +110,12 @@ CO･MO･RE YOTSUYA（コモレ四谷）は、四谷駅前地区第一種市街
 
 1.  『　四谷駅前地区第一種市街地再開発事業 地区名称を「CO･MO･RE YOTSUYA (コモレ四谷)」に決定』、「」、独立行政法人都市再生機構、三菱地所株式会社、第5メック都市開発特定目的会社、四谷駅前地区再開発協議会、2019年3月27日、2010年3月21日閲覧。
 2.
-3.  [『三菱地所news 1/31｢CO･MO･RE YOTSUYA｣竣工/ライフが核店』、商人舎 流通スーパーニュース、2020年1月31日、2020年3月12日閲覧。](https://news.shoninsha.co.jp/store/145788)
+3.
 4.
-5.  [『UR都市機構』、「プロジェクトの特徴」、2020年3月12日閲覧。](https://www.ur-net.go.jp/produce/case/yotsuya/outline/index.html#T1)
+5.
 6.
-7.  [『四谷駅前の再開発、名称が「CO･MO･RE YOTSUYA（コモレ四谷）」に決定』、「名称コンセプト」、officee magazine、2020年3月12日閲覧。](https://officee.jp/magazine/news-comore-yotsuya/)
-8.  [『四谷駅前地区市街地再開発事業（事業中）』、「再開発事業の歩み」、新宿区、2017年12月28日、2020年3月12日閲覧。](https://www.city.shinjuku.lg.jp/kusei/seibi01_001030.html)
+7.
+8.
 9.
 10.
 11.

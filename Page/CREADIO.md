@@ -5,9 +5,9 @@
 
 ## 概要
 
-デザインオフィス「[nendo](https://ja.wikipedia.org/wiki/nendo "wikilink")」代表のデザイナー・佐藤オオキとクリス智子による「デザインを音で楽しむ」をテーマにした、トーク番組。デザイナーなどをゲストに迎えることもある。
+デザインオフィス「[nendo](https://ja.wikipedia.org/wiki/nendo "wikilink")」代表のデザイナー・佐藤オオキとクリス智子による「デザインを音で楽しむ」をテーマにした、トーク番組。デザイナーなどをゲストに迎えることもある。番組名は「クリエイティブ・レイディオ」（）の略\[2\]。
 
-2014年4月6日に放送開始\[2\]。2014年4月はnendoとそごう・西武がコラボ売場をオープンさせた時期で\[3\]、そごう・西武の一社提供番組としてスタートした。 2017年3月26日を以ていったん終了したが、2020年4月改編で深夜に時間帯を移して復活している\[4\]。
+2014年4月6日に放送開始\[3\]。2014年4月はnendoとそごう・西武がコラボ売場をオープンさせた時期で\[4\]、そごう・西武の一社提供番組としてスタートした。 2017年3月26日を以ていったん終了したが、2020年4月改編で深夜に時間帯を移して復活している\[5\]。
 
 ## 放送時間
 
@@ -32,6 +32,7 @@
 [Category:J-WAVEの番組](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組 "wikilink") [Category:JFL系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの一社提供番組 "wikilink") [Category:そごう・西武](https://ja.wikipedia.org/wiki/Category:そごう・西武 "wikilink") [Category:2014年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2014年のラジオ番組_\(日本\) "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
 
 1.  [佐藤オオキが語る「ラジオでデザインを紹介すること」](https://news.j-wave.fm/news/2017/03/post-3435.html)(J-WAVE 2017年3月22日　2020年5月11日閲覧）
-2.
-3.  [そごう・西武、nendoコラボ売場オープン　4月](https://www.rbbtoday.com/article/2014/02/03/116472.html)([RBB TODAY](https://ja.wikipedia.org/wiki/イード_\(企業\) "wikilink") 2014年2月3日　2020年5月11日閲覧）
-4.  [『CREADIO』が3年ぶりに復活！ 佐藤オオキ×クリス智子が軽快なトークを繰り広げる](https://news.j-wave.fm/news/2020/04/post-5671.html)(J-WAVE 2020年4月7日　2020年5月11日閲覧）
+2.  [『CREADIO』が3年ぶりに復活！ 佐藤オオキ×クリス智子が軽快なトークを繰り広げる](https://news.j-wave.fm/news/2020/04/post-5671.html)(J-WAVE 2020年4月7日　2020年5月11日閲覧）
+3.
+4.  [そごう・西武、nendoコラボ売場オープン　4月](https://www.rbbtoday.com/article/2014/02/03/116472.html)([RBB TODAY](https://ja.wikipedia.org/wiki/イード_\(企業\) "wikilink") 2014年2月3日　2020年5月11日閲覧）
+5.

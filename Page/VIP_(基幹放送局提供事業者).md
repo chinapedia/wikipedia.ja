@@ -77,7 +77,7 @@ i-dioは6[広域圏と](../Page/広域放送.md "wikilink")[北海道](https://j
   - 10月12日 - 秦野局が[台風19号の影響による回線障害で放送停止](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")、20日復旧\[26\]
   - 12月25日 - ジャパンマルチメディア放送と[認定基幹放送事業者](https://ja.wikipedia.org/wiki/認定基幹放送事業者 "wikilink")6社は2020年3月31日をもってi-dioを終了\[27\]、但し[喜多方市](../Page/喜多方市.md "wikilink")、[焼津市](../Page/焼津市.md "wikilink")、[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")のV-ALERTは継続\[28\]と発表
 
-## べリカード
+## ベリカード
 
 VIPは[ベリカード](../Page/ベリカード.md "wikilink")を発行している。 受信した場所にかかわらず本社設備部に報告\[29\]する。
 

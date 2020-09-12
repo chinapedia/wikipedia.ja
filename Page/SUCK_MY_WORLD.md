@@ -18,6 +18,7 @@
 2.  **Tonight the silence kills me with your fire** \[2:44\]
       - 4th配信限定シングル。
 3.  **Fantasy** \[4:24\]
+      - [Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")がオリジナルダンスの振り付けをおこなった。
 4.  **Dream In Drive** \[3:31\]
       - 5th配信限定シングル。[バンダイナムコエンターテイメント](https://ja.wikipedia.org/wiki/バンダイナムコエンターテイメント "wikilink")より2020年発売予定のアクションRPG「[SCARLET NEXUS](https://ja.wikipedia.org/wiki/SCARLET_NEXUS "wikilink")」テーマソング。
 5.  **Maze** \[4:00\]

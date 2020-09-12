@@ -1,44 +1,46 @@
 > この記事は[デンマーク国鉄SE型電車](https://ja.wikipedia.org/wiki/デンマーク国鉄SE型電車)から翻訳されています。
 
 
-**SE型**は、[デンマーク国鉄](https://ja.wikipedia.org/wiki/デンマーク国鉄 "wikilink") （DSB）の地域旅客輸送用の4両編成の電車である。
+**デンマーク国鉄SE型電車**は、[デンマーク国鉄](https://ja.wikipedia.org/wiki/デンマーク国鉄 "wikilink") （DSB）の電車。
 
-## 歴史
+## 概要
 
-この形式は、2000年以降、 [Alstom Transportと](../Page/アルストム.md "wikilink")[Siemensによってデンマーク国鉄](https://ja.wikipedia.org/wiki/シーメンス・モビリティ "wikilink")（DSB）の第4世代[S-tog列車として開発された](https://ja.wikipedia.org/wiki/S-Tog "wikilink")。この形式はSA型の派生形式である。
+デンマーク国鉄（DSB）の第4世代[S-tog列車として](https://ja.wikipedia.org/wiki/S-Tog "wikilink")、[2000年](../Page/2000年.md "wikilink")以降に開発が始まり、[2004年](../Page/2004年.md "wikilink")にすべての編成が落成。この形式はの派生形式である。
 
-## 製造と技術
+開発・製造は世界を代表する鉄道車両メーカーである、[Alstom Transportと](../Page/アルストム.md "wikilink")[Siemensによって](https://ja.wikipedia.org/wiki/シーメンス・モビリティ "wikilink") 行われた。
 
-この形式の車両は5基の1軸台車と4車体で構成されており、3つの車体はStadler GTWと同様にはりで前方の車体に乗せられている。エアサスペンションを装備している。最大3編成を連結することができる。SA型電車と連結することができる。
+### 車両構造
+
+地域旅客輸送用として製造され、1編成4両の連接構造を採用。本形式における連接構造は5基の1軸空気ばね台車と4両の車体で構成されており、3つの車体はStadler GTWと同様、はりで隣の車体に乗せられている。
+
+本形式同士では最大で3編成を連結して運用することができ、SA型との連結も可能。
+
+車内の座席配置は、3人掛けの[クロスシート](https://ja.wikipedia.org/wiki/クロスシート "wikilink")が通路を挟んで対になったものであり、 座席は青いモケット生地張りとなっている。
+
+また、車内には[wifi接続による](../Page/Wi-Fi.md "wikilink")[無線インターネットが装備されており](../Page/無線LAN.md "wikilink")、デンマーク国鉄およびTDCネットワークのWebサイトへの接続が無料となっているほか、それら以外のWebサイトも無料で2分間の利用が可能となっている。
+
+ファイル:DSB S-tog banken.JPG|車内 ファイル:DSB S-tog bank.JPG|座席 ファイル:DSB S-tog balkon.JPG|車内乗降扉部分
 
 ### 車番
 
-列車は次のように構成されている。
+編成は次のように構成されている。
 
   - 41xx-43xx-45xx-47xx
 
 -----
 
-  - SE 4101-4131 =運転台のある動力車
-  - SF 4301-4331 =パンタグラフ付きの動力車
-  - SG 4501-4531 =付随車
-  - SH 4701-4731 =運転台のある動力車
+  - SE 4101 - 4131 : 運転台のある動力車
+  - SF 4301 - 4331 : パンタグラフ付きの動力車
+  - SG 4501 - 4531 : 付随車
+  - SH 4701 - 4731 : 運転台のある動力車
 
-## インターネット
+## 運用
 
-この車両には[wifi接続による](../Page/Wi-Fi.md "wikilink")[無線インターネットが装備されている](../Page/無線LAN.md "wikilink")。 DSBおよびTDCネットワークWebサイトへの接続は無料で、他のWebサイトは2分間利用できる。 インターネットを使用するためのDSB1のコストは、24時間以内にインターネットを5時間使用する場合、29クラウンである。
+基本的にコペンハーゲンS-togの「リングバアーン」（[Hellerup – Ny Ellebjerg線](https://ja.wikipedia.org/wiki/:nl:Spoorlijn_Hellerup_-_Vigerslev "wikilink") : F線）において運用されている。
 
-## 運行区間
-
-この車両はコペンハーゲンS-tog、特に「リングバアーン」[Hellerup – Ny Ellebjerg](https://ja.wikipedia.org/wiki/:nl:Spoorlijn_Hellerup_-_Vigerslev "wikilink")（F線）で使われている。
-
-## 文献
+## 参考文献
 
   - *Spoorwegen; diverse jaargangen*. Gerrit Nieuwenhuis, Richard Latten. Uitgeverij de Alk BV, Alkmaar.
-
-## 写真
-
-ファイル:DSB S-tog banken.JPG| ファイル:DSB S-tog bank.JPG| ファイル:DSB S-tog balkon.JPG|
 
 ## 脚注
 

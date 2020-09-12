@@ -1,0 +1,7 @@
+> この記事は[Software Reporter Tool](https://ja.wikipedia.org/wiki/Software_Reporter_Tool)から翻訳されています。
+
+
+Software Reporter Toolは、Google Chromeで不要なまたは悪意のある拡張機能、アプリケーション、スタートページの乗っ取りなどをクリーンアップするために使用されるChromeクリーニングツールです。 Chromeをインストールすると、SwReporterフォルダー中のChromeアプリケーションデータフォルダーにもSoftware_reporter_tool.exeがダウンロードされます。 Software Reporter Toolは、Chromeのインストールを監視し、ブラウザの通常の動作を妨げる追加のコンポーネントがあるかどうかを報告する独立したGoogle Chromeプロセスです。このツールはネットワークに接続されていませんが、主にブラウザで使用され、ツールと衝突する可能性のあるプログラムを特定します。これは、「software_reporter_tool.exe」という名前の54Kb実行ファイルです。このプロセス中に高いCPU使用率に直面している場合、またはGoogle Chromeソフトウェアレポーターツールが機能しなくなったというメッセージが頻繁に表示される場合は、無効にするか削除することができます。 \[1\]\[2\]
+
+1.
+2.

@@ -157,7 +157,7 @@
   - maya：[guitar](../Page/ギター.md "wikilink") (\#1,4,5,7,9,12)
   - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")([MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink"))：guitar (\#2,3)
   - takahiro：guitar (\#6)
-  - ju-ri (vin-PRAD)：[organ](../Page/オルガン.md "wikilink") (\#4)
+  - ju-ri(vin-PRAD)：[organ](../Page/オルガン.md "wikilink") (\#4)
   - mika(vin-PRAD)：vocal (\#4,5)
 
 ## タイアップ

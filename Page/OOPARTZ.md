@@ -137,6 +137,6 @@
   - [公式ブログ](https://lineblog.me/oopartz/)
   - [公式Facebook](https://www.facebook.com/oopartz.official/)
 
-[Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink")
 
 1.  <http://www.oopartz.com/biography/参照>

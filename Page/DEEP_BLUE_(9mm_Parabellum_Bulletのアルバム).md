@@ -1,0 +1,61 @@
+> この記事は[DEEP BLUE \(9mm Parabellum Bulletのアルバム\)](https://ja.wikipedia.org/wiki/DEEP_BLUE_\(9mm_Parabellum_Bulletのアルバム\))から翻訳されています。
+
+
+『**DEEP BLUE**』（ディープ・ブルー）は、日本のバンド・[9mm Parabellum Bulletが](../Page/9mm_Parabellum_Bullet.md "wikilink")2019年9月9日に発売した8枚目のオリジナルアルバムである。
+
+## 概要
+
+前作『[BABEL](https://ja.wikipedia.org/wiki/BABEL_\(9mm_Parabellum_Bulletのアルバム\) "wikilink")』以来、2年4か月ぶりとなるフルアルバム。タイトルは、「一生青春とは、ずっとはしゃいでいることではなく、青を塗り重ねて、**深い青色**になっていくこと」（"SEISYUN"..."YOUTH FOR LIFE"IT DOESN'T MEAN THAT SOMEONE IN HIGH SPIRITS,BUT IT'S LIKE SOMETHING IS PAINTED OVER AND OVER IN BLUE THEN IT BECOMES "***DEEP BLUE***"..）（いずれもアルバム付属の解説より）からきている。本作を発売した2019年はバンド結成15周年ということもあり、通常盤のCDのみ、初回限定盤のCD+DVD（2018年9月9日にLINE LIVEで行われた『9mmの日』スペシャルライブを全編収録）の他に15th Anniversary Boxが発売された（封入内容については後述）。それまでの曲に見られるダークでハードな一面は残しつつも、ポップミュージックとしての一面も覗かせる作品である\[1\]。
+
+## 収録曲
+
+1.  **Beautiful Dreamer**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+        シングルで先行発表されていた曲を除き最初にMVが公開された曲。
+2.  **名もなきヒーロー**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+        シングル「名もなきヒーロー」表題曲。
+3.  **カルマの花環**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+        2018年の『カオスの百年ツアー2018』において、会場限定配布（各都市により色・収録される2018年5月27日開催日比谷野外音楽堂でのライブ音源が異なる。数量限定で各都市での配布CDを他の会場で購入することも可能であった）CD『21g/カルマの花環』の表題曲。
+4.  **Getting Better**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+5.  **夏が続くから**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+        9mmのMVにしては珍しくほとんど全編にわたってボーカル・菅原卓郎のみ出演している。
+6.  **21g**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+        上記のカルマの花環同様、『カオスの百年ツアー2018』の会場限定配布CDの表題曲。構想自体はデビュー当初からあったが、なかなか完成しなかったと菅原がライブで話している。
+7.  **Mantra**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+        ほとんどインストゥルメンタルに近い曲。
+8.  **Ice Cream**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+9.  **DEEP BLUE**
+      -
+        本アルバムの表題曲。
+        （作詞：菅原卓郎 作曲：滝善充）
+10. **君は桜**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+11. **いつまでも**
+      -
+        （作詞：菅原卓郎 作曲：滝善充）
+12. **キャリーオン（Album ver.）**
+      -
+        （作詞：菅原卓郎 作曲：滝善充
+        配信限定の曲。配信開始以前の2018年5月27日、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのライブで、この曲を初披露し、終演後にこのキャリーオンが封入されたCDが配布された。
+
+## 脚注
+
+[Category:9mm_Parabellum_Bulletのアルバム](https://ja.wikipedia.org/wiki/Category:9mm_Parabellum_Bulletのアルバム "wikilink") [Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink")
+
+1.   9mm Parabellum Bullet |accessdate=2019-11-24 |website=ORICON NEWS}}

@@ -5,7 +5,7 @@
 
 ## 概要
 
-2014年より本格的にDJ活動を開始する。 ４つ打ちを軸としたオールミックスのプレイを得意とし、独自のグルーヴでオーディエンスを魅了し続けるDJ。2016年より若くして年間約30万人を収容する東京・渋谷の「[CLUB CAMELOT](../Page/CLUB_CAMELOT.md "wikilink")」のレジデントDJに就任。毎週末は約3,000人を前にDJし、多くの人をロックし、CLUB CAMELOTの中心的存在として活躍中。2018年には[Ultra Japan](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")2018にも初出演を果たし、その年の後半にはDJ MAG JAPAN U-29 DJ部門でランキング2位を獲得し、知名度は全国に広がりを見せる。2019年もUltra Korea2019、[Ultra Japan2019に立て続けに出演し](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")、クラブだけではなく音楽フェスティバルへの出演も精力的に行っている。DJだけではなく楽曲制作にも力を尽くしており、2017年7月には初のオリジナル楽曲"Deja vu"をそして2018年4月には2ndシングルの”In The Place”をリリース。2ndシングルの”In The Place”では日本全国でリリースツアーを行い、東京/大阪/名古屋等の都市の主要ナイトクラブにも出演し、東京のみならず各地域での出演も成功を収める。2018年末に制作した"Ignite"では初の海外レーベル「Peak Hour Music」と契約し、世界的に有名なダンスミュージック専門サイト「[Beatport](../Page/Beatport.md "wikilink")」のジャンル別チャートにてランクインを果たす。2019年にはマイアミ出身のアーティスト兼モデルの[Celine Farach（セリーヌ・ファラッチ）](https://www.universal-music.co.jp/celine-farach/)他、立て続けにコラボレーション楽曲を制作。iamSHUMと制作した" I'm So Happy feat.Yoseek\&HarukiD" では、[iTunesダンスチャートにおいて初登場](../Page/ITunes_Store.md "wikilink")1位を獲得する。
+2014年より本格的にDJ活動を開始する。 ４つ打ちを軸としたオールミックスのプレイを得意とし、独自のグルーヴでオーディエンスを魅了し続けるDJ。2016年より若くして年間約30万人を収容する東京・渋谷の「[CLUB CAMELOT](../Page/CLUB_CAMELOT.md "wikilink")」のレジデントDJに就任。毎週末は約3,000人を前にDJし、多くの人をロックし、CLUB CAMELOTの中心的存在として活躍中。2018年には[Ultra Japan](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")2018にも初出演を果たし、その年の後半にはDJ MAG JAPAN U-29 DJ部門でランキング2位を獲得し、知名度は全国に広がりを見せる。2019年もUltra Korea2019、[Ultra Japan2019に立て続けに出演し](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")、クラブだけではなく音楽フェスティバルへの出演も精力的に行っている。DJだけではなく楽曲制作にも力を尽くしており、2017年7月には初のオリジナル楽曲"Deja vu"をそして2018年4月には2ndシングルの”In The Place”をリリース。2ndシングルの”In The Place”では日本全国でリリースツアーを行い、東京/大阪/名古屋等の都市の主要ナイトクラブにも出演し、東京のみならず各地域での出演も成功を収める。2018年末に制作した"Ignite"では初の海外レーベル「Peak Hour Music」と契約し、世界的に有名なダンスミュージック専門サイト「[Beatport](../Page/Beatport.md "wikilink")」のジャンル別チャートにてランクインを果たす。2019年にはマイアミ出身のアーティスト兼モデルの[Celine Farach（セリーヌ・ファラッチ）](https://www.universal-music.co.jp/celine-farach/)他、立て続けにコラボレーション楽曲を制作。iamSHUMと制作した" I'm So Happy feat.Yoseek\&HarukiD" では、[iTunesダンスチャートにおいて初登場](../Page/ITunes_Store.md "wikilink")1位を獲得する。2020年6月にリリースした7th single "Another Day"にて、2曲連続iTunesダンスチャート初登場第1位を獲得。また、この"Another Day"の売上の一部を、新型コロナウイルス感染症の最前線で活動する医療従事者へ寄付することを発表。
 
 ## 略歴
 
@@ -33,6 +33,11 @@
       - 9月、[Ultra Japan2019に出演](https://ja.wikipedia.org/wiki/ウルトラ・ジャパン "wikilink")。
       - 9月、iamSHUMと共作し、7th Single"I'm So Happy feat.Yoseek & HarukiD"をリリース。iTunesダンスチャートにおいて初登場1位を獲得する。
 
+<!-- end list -->
+
+  - [2020年](../Page/2020年.md "wikilink")
+      - ６月、7th single"Another Day"をリリース。iTunesダンスチャートにおいて初登場1位を獲得する。
+
 ## ディスコグラフィ
 
 ### シングル
@@ -46,6 +51,7 @@
 | Over again (Original Mix)                         | 2019年3月6日  | Yoseek       | 20Music             |
 | I need you now feat. Celine Farach (Original Mix) | 2019年8月30日 | Yoseek & OHC | UNIVERSAL MUSIC LLC |
 | I'm So Happy feat.Yoseek & HarukiD                | 2019年9月25日 | iamSHUM      | CLMX RECORDS        |
+| Another Day (Original Mix)                        | 2020年6月17日 | Yoseek & OHC | 20Music             |
 
 ## 関連項目
 

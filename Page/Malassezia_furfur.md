@@ -15,7 +15,7 @@
 
 ## 治療
 
-[アゾール](../Page/アゾール.md "wikilink")系抗真菌薬、[シクロピロクスオラミン](https://ja.wikipedia.org/wiki/シクロピロクスオラミン "wikilink")、[ピロクトンオラミン](https://ja.wikipedia.org/wiki/ピロクトンオラミン "wikilink")、[ジンクピリチオン](https://ja.wikipedia.org/wiki/ジンクピリチオン "wikilink")、または[硫黄](../Page/硫黄.md "wikilink")化合物などの[抗真菌薬](../Page/抗真菌薬.md "wikilink")の局所適用は、*M. furfur*によって引き起こされる疾患の治療のために一般的に処方される\[8\]。
+[アゾール](../Page/アゾール.md "wikilink")系抗真菌薬、[シクロピロクスオラミン](https://ja.wikipedia.org/wiki/シクロピロクスオラミン "wikilink")、[ピロクトンオラミン](https://ja.wikipedia.org/wiki/ピロクトンオラミン "wikilink")、[ジンクピリチオン](https://ja.wikipedia.org/wiki/ジンクピリチオン "wikilink")、[ケトコナゾール](https://ja.wikipedia.org/wiki/ケトコナゾール "wikilink")、または[硫黄](../Page/硫黄.md "wikilink")化合物などの[抗真菌薬](../Page/抗真菌薬.md "wikilink")の局所適用は、*M. furfur*によって引き起こされる疾患の治療に処方される\[8\]。
 
 ## 出典
 

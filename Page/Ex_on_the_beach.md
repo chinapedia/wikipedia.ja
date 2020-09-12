@@ -1,7 +1,7 @@
 > この記事は[Ex on the beach](https://ja.wikipedia.org/wiki/Ex_on_the_beach)から翻訳されています。
 
 
-エックス・オン・ザ・ビーチ（英国版）はイギリスで放送されるリアリティショーのMTVテレビ番組の一つ。
+**『Ex on the beach』**（エックス・オン・ザ・ビーチ）（英国版）はイギリスで放送されるリアリティショーのMTVテレビ番組の一つ。
 
 放送決定が2014年2月\[1\]、最初の放送は2014年4月22日\[2\]。番組のナレーションは[アンドリュー・マックスウェル氏](https://ja.wikipedia.org/wiki/:en:Andrew_Maxwell "wikilink")。\[3\]
 
@@ -114,6 +114,8 @@
 ケイリン・モリスも2017年のビッグ・ブラザーシリーズ18に出場したが13日目に暴力的行動によってゲームから追放された。同年8月ジェマ・ルーシーとジョーダン・デヴァイスがセレブリティ・ビッグ・ブラザーシリーズ20に出場し、ジェス・インピアツィは同番組のシリーズ21に出演した。
 
 ## 脚注
+
+[Category:リアリティ番組](https://ja.wikipedia.org/wiki/Category:リアリティ番組 "wikilink") [Category:2010年代のテレビ番組](https://ja.wikipedia.org/wiki/Category:2010年代のテレビ番組 "wikilink")
 
 1.
 2.

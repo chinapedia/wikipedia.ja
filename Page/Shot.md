@@ -26,7 +26,7 @@
   -
 ### 脚注
 
-[Category:ラッパー](https://ja.wikipedia.org/wiki/Category:ラッパー "wikilink") [Category:カザフスタンの詩人](https://ja.wikipedia.org/wiki/Category:カザフスタンの詩人 "wikilink") [Category:カザフスタンのミュージシャン](https://ja.wikipedia.org/wiki/Category:カザフスタンのミュージシャン "wikilink") [Category:1989年生](https://ja.wikipedia.org/wiki/Category:1989年生 "wikilink") [Category:2017年没](https://ja.wikipedia.org/wiki/Category:2017年没 "wikilink") [Category:啓蒙思想家](https://ja.wikipedia.org/wiki/Category:啓蒙思想家 "wikilink")
+[Category:ラッパー](https://ja.wikipedia.org/wiki/Category:ラッパー "wikilink") [Category:カザフスタンの詩人](https://ja.wikipedia.org/wiki/Category:カザフスタンの詩人 "wikilink") [Category:カザフスタンのミュージシャン](https://ja.wikipedia.org/wiki/Category:カザフスタンのミュージシャン "wikilink") [Category:21世紀の詩人](https://ja.wikipedia.org/wiki/Category:21世紀の詩人 "wikilink") [Category:1989年生](https://ja.wikipedia.org/wiki/Category:1989年生 "wikilink") [Category:2017年没](https://ja.wikipedia.org/wiki/Category:2017年没 "wikilink")
 
 1.
 2.

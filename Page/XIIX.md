@@ -143,7 +143,7 @@
 <div class="NavContent" style="text-align: left;">
 <dl>
 <dt></dt>
-<dd>1月27日 マイナビBRITZ赤坂
+<dd>1月27日 マイナビBLITZ赤坂
 </dd>
 <dd>1月30日 大阪BIGCAT
 </dd>
@@ -185,7 +185,7 @@
 
   -
 
-[Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
 1.
 2.

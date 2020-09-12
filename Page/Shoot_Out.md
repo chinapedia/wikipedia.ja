@@ -1,7 +1,7 @@
 > この記事は[Shoot Out](https://ja.wikipedia.org/wiki/Shoot_Out)から翻訳されています。
 
 
-「**Shoot Out**」（シュート アウト）は、韓国の男性歌手グループ、[MONSTA Xの楽曲](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")。韓国語バージョンと英語バージョンと日本語バージョンの3バージョンが制作されており、韓国語バージョンは[2018年](../Page/2018年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[LOENエンターテインメント](https://ja.wikipedia.org/wiki/LOENエンターテインメント "wikilink")より2ndフル・アルバム『Take.1 Are You There?』からのリード・シングルとして、英語バージョンは2018年[11月8日](../Page/11月8日.md "wikilink")に配信限定で、日本語バージョンは[2019年](../Page/2019年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に日本での5作目のシングルとして発売された。
+「**Shoot Out**」（シュート アウト）は、韓国の男性歌手グループ、[MONSTA Xの楽曲](https://ja.wikipedia.org/wiki/MONSTA_X "wikilink")。韓国語バージョンと英語バージョンと日本語バージョンの3バージョンが制作されており、韓国語バージョンは2018年10月22日に[LOENエンターテインメント](https://ja.wikipedia.org/wiki/LOENエンターテインメント "wikilink")より2ndフル・アルバム『Take.1 Are You There?』からのリード・シングルとして、英語バージョンは2018年11月8日に配信限定で、日本語バージョンは2019年3月27日に日本での5作目のシングルとして発売された。
 
 作詞はソ・ジウムは手がけ、作曲はダニエル・キムとStereo14の共作で、ラップ部分は[ジュホン](https://ja.wikipedia.org/wiki/ジュホン "wikilink")とI.Mによって書かれた。歌詞は喪失感と迷いの狭間で救いを求めて彷徨うさまを描いたもの\[1\]\[2\]。
 
@@ -9,17 +9,17 @@
 
 ## リリース
 
-[2018年](../Page/2018年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[LOENエンターテインメント](https://ja.wikipedia.org/wiki/LOENエンターテインメント "wikilink")より2ndフル・アルバム『Take.1 Are You There?』からのリード・シングルとして発売され、『Take.1 Are You There?』の3曲目に収録された。同日には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が公開された\[4\]。
+2018年10月22日に[LOENエンターテインメント](https://ja.wikipedia.org/wiki/LOENエンターテインメント "wikilink")より2ndフル・アルバム『Take.1 Are You There?』からのリード・シングルとして発売され、『Take.1 Are You There?』の3曲目に収録された。同日には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が公開された\[4\]。
 
-[11月8日](../Page/11月8日.md "wikilink")には配信限定で英語バージョンが発売された\[5\]。
+11月8日には配信限定で英語バージョンが発売された\[5\]。
 
-[2019年](../Page/2019年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[Mercury Tokyoより日本語バージョンが](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、5作目のシングルとして発売され、カップリング曲として「叶わぬ恋と知りながらも、抑えられない感情」を描いた日本オリジナル楽曲「FLASH BACK」が収録された\[6\]。前作『[LIVIN' IT UP](https://ja.wikipedia.org/wiki/LIVIN'_IT_UP "wikilink")』から約半年ぶりのリリースで、初回限定盤A（[品番](../Page/規格品番.md "wikilink") : UMCE-89400）、初回限定盤B（品番 : UMCE-89401）、通常盤（品番 : UMCE-89402）の3形態でのリリースされた\[7\]。初回限定盤Aに付属のDVDには「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録された。初回限定盤Aには表題曲「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録されたDVDが付属し、初回限定盤Bはアナログサイズジャケット仕様でアナザージャケット全7種のうち1枚がランダムで、通常盤には初回限定特典として全15種のトレーディングカード\[8\]のうち1枚がランダムで封入された\[9\]
+2019年3月27日に[Mercury Tokyoより日本語バージョンが](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、5作目のシングルとして発売され、カップリング曲として「叶わぬ恋と知りながらも、抑えられない感情」を描いた日本オリジナル楽曲「FLASH BACK」が収録された\[6\]。前作『[LIVIN' IT UP](https://ja.wikipedia.org/wiki/LIVIN'_IT_UP "wikilink")』から約半年ぶりのリリースで、初回限定盤A（[品番](../Page/規格品番.md "wikilink") : UMCE-89400）、初回限定盤B（品番 : UMCE-89401）、通常盤（品番 : UMCE-89402）の3形態でのリリースされた\[7\]。初回限定盤Aに付属のDVDには「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録された。初回限定盤Aには表題曲「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録されたDVDが付属し、初回限定盤Bはアナログサイズジャケット仕様でアナザージャケット全7種のうち1枚がランダムで、通常盤には初回限定特典として全15種のトレーディングカード\[8\]のうち1枚がランダムで封入された\[9\]
 
 ## チャート成績
 
 韓国語バージョンは、[Component Download Chartで最高](https://ja.wikipedia.org/wiki/ガオンチャート "wikilink")41位、[ビルボード](../Page/ビルボード.md "wikilink")誌が発表したWorld Digital Song Salesチャートで最高6位を獲得した\[10\]。
 
-日本語バージョンが収録されたシングルは、2019年[4月8日](../Page/4月8日.md "wikilink")付のオリコン週間シングルランキングで初登場2位を獲得\[11\]し、販売枚数10万枚を突破して[日本レコード協会](../Page/日本レコード協会.md "wikilink")からゴールド認定を受けた\[12\]。
+日本語バージョンが収録されたシングルは、2019年4月8日付のオリコン週間シングルランキングで初登場2位を獲得\[11\]し、販売枚数10万枚を突破して[日本レコード協会](../Page/日本レコード協会.md "wikilink")からゴールド認定を受けた\[12\]。
 
 ## 収録内容
 

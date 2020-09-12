@@ -17,7 +17,7 @@
 
   - [デニス・ハール](https://ja.wikipedia.org/wiki/デニス・ハール "wikilink") 2011-2014
 
-  - [レイニール・ロべモント](https://ja.wikipedia.org/wiki/レイニール・ロべモント "wikilink") 2013-2015
+  - [レイニール・ロベモント](https://ja.wikipedia.org/wiki/レイニール・ロベモント "wikilink") 2013-2015
 
   - [マルティン・ハール](https://ja.wikipedia.org/wiki/マルティン・ハール "wikilink") 2015-2018
 

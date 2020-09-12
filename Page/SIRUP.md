@@ -1,7 +1,7 @@
 > この記事は[SIRUP](https://ja.wikipedia.org/wiki/SIRUP)から翻訳されています。
 
 
-**SIRUP**(シラップ)は日本のシンガーソングライター。
+**SIRUP**（シラップ）は日本のシンガーソングライター。以前は**KYOtaro**名義で活動していた。
 
 ## ディスコグラフィー
 
@@ -57,42 +57,155 @@ RZCB-87018:通常盤</p></td>
 </tbody>
 </table>
 
+### 配信限定シングル
+
+| 発売日         | タイトル                             |
+| ----------- | -------------------------------- |
+| 2017年9月27日  | **Synapse**                      |
+| 2018年5月16日  | **LOOP**                         |
+| 2018年7月1日   | YonYon & SIRUP / **Mirror (選択)** |
+| 2018年7月18日  | **Do Well**                      |
+| 2019年11月22日 | **Light**                        |
+| 2020年5月27日  | **HOPELESS ROMANTIC**            |
+| 2020年7月22日  | **Online feat.ROMderful**        |
+|             |                                  |
+
 ### 参加作品
 
 | 発売日        | タイトル                                                                                                                      | 収録曲                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 2018年2月14日 | [大橋トリオ](https://ja.wikipedia.org/wiki/大橋トリオ "wikilink")『STEREO』                                                           | SHE -SIRUP Remix- (Bonus Track)                                  |
+| 2018年8月31日 | [pivilion xool](https://ja.wikipedia.org/wiki/pivilion_xool "wikilink")『pavilion (feat.SIRUP)』                            | (配信限定)                                                           |
+| 2019年1月26日 | [ANIMAL HACK](../Page/ANIMAL_HACK.md "wikilink")『Days Gone By (feat. SIRUP)』                                              | (配信限定)                                                           |
+| 2019年2月27日 | [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")『Midnight Dreamin' (feat.SALU & SIRUP)』                                       | (配信限定)                                                           |
 | 2019年3月6日  | [MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")『[COLLABOLATED](https://ja.wikipedia.org/wiki/COLLABOLATED "wikilink")』 | Million Stars                                                    |
+| 2019年3月13日 | [showmore](https://ja.wikipedia.org/wiki/showmore "wikilink")『now (feat.SIRUP)』                                           | (配信限定)                                                           |
 | 2019年3月20日 | [BOYS meet HARMONY](https://ja.wikipedia.org/wiki/BOYS_meet_HARMONY "wikilink")                                           | [永遠に](https://ja.wikipedia.org/wiki/永遠に_\(ゴスペラーズの曲\) "wikilink") |
+| 2019年4月10日 | [WILYWNKA](https://ja.wikipedia.org/wiki/WILYWNKA "wikilink")『STAY (feat.SIRUP)』                                          | (配信限定)                                                           |
 | 2019年5月15日 | [SHE IS SUMMER](https://ja.wikipedia.org/wiki/SHE_IS_SUMMER "wikilink")『MIRACLE FOOD』                                     | とびきりのおしゃれして別れ話を SIRUP & Mori Zentaro Remix                       |
 | 2019年6月26日 | [BASI](https://ja.wikipedia.org/wiki/BASI "wikilink")『切愛』\[1\]                                                            | RED feat.SIRUP                                                   |
 | 2019年9月20日 | [WILYWNKA](https://ja.wikipedia.org/wiki/WILYWNKA "wikilink")『PAUSE』                                                      | STAY feat. SIRUP                                                 |
+| 2019年9月20日 | [GANMI](../Page/GANMI.md "wikilink")『Feels Like Summer (feat.SIRUP)』                                                      | (配信限定)                                                           |
 | 2020年5月13日 | [Shin Sakiura](https://ja.wikipedia.org/wiki/Shin_Sakiura "wikilink")『Dream』                                              | Cruisin' feat.SIRUP                                              |
+| 2020年6月30日 | [TELE-PLAY](https://ja.wikipedia.org/wiki/TELE-PLAY "wikilink")『あいにいきたい (feat.BASI,Chara,SIRUP,TENDRE\&Ryo Konishi)』      | (配信限定)                                                           |
+| 2020年7月8日  | showmore & [Shin Sakura](https://ja.wikipedia.org/wiki/Shin_Sakura "wikilink")『now (Shin Sakura REMIX) \[feat.SIRUP\]』    | (配信限定)                                                           |
 |            |                                                                                                                           |                                                                  |
 
 ## ミュージックビデオ
 
-| 公開日        | 監督                                                            | 曲名                                                                  | 再生数   | 備考 |
-| ---------- | ------------------------------------------------------------- | ------------------------------------------------------------------- | ----- | -- |
-| 2017/09/27 | Yusuke Kasai                                                  | [Synapse](https://www.youtube.com/watch?v=ZSreMpnqZTU)              | 320万  |    |
-| 2018/05/16 | motherfucko                                                   | [LOOP](https://www.youtube.com/watch?v=mHrjM6oVez0)                 | 1450万 |    |
-| 2018/07/18 | Yusuke Kasai/Tatsunori Kasai                                  | [Do Well](https://www.youtube.com/watch?v=kU8yTuvbmq8)              | 660万  |    |
-| 2018/08/01 | SouSick                                                       | [Rain](https://www.youtube.com/watch?v=UeAGvmvTxLA)                 | 220万  |    |
-| 2019/04/24 | Yusuke Kasai                                                  | [Pool](https://www.youtube.com/watch?v=wxB5lBauG9E)                 | 180万  |    |
-| 2019/05/18 | [Evergreen](https://www.youtube.com/watch?v=kNN1gB0pn68)\[2\] | 70万                                                                 |       |    |
-| 2019/05/29 | [PRAYER](https://www.youtube.com/watch?v=K2Ozf-chILM)         | 60万                                                                 |       |    |
-| 2019/10/24 | Heiyuu                                                        | [Slow Dance feat. BIM](https://www.youtube.com/watch?v=OOvIH_BaNoM) | 50万   |    |
-| 2020/03/14 | Sou Sick                                                      | [Why Can't](https://www.youtube.com/watch?v=l7gqoDPC0U4)            | 20万   |    |
-| 2020/03/25 | Yusuke Kasai                                                  | [Your Love](https://www.youtube.com/watch?v=oufAp6fNPvE)            | 40万   |    |
-|            |                                                               |                                                                     |       |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>公開日</p></th>
+<th><p>監督</p></th>
+<th><p>曲名</p></th>
+<th><p>再生数<br />
+<small>（2020年5月現在）</small></p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017/09/27</p></td>
+<td><p>Yusuke Kasai</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=ZSreMpnqZTU">Synapse</a></p></td>
+<td><p>340万</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018/05/16</p></td>
+<td><p>motherfucko</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=mHrjM6oVez0">LOOP</a></p></td>
+<td><p>1600万</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018/07/18</p></td>
+<td><p>Yusuke Kasai/Tatsunori Kasai</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=kU8yTuvbmq8">Do Well</a></p></td>
+<td><p>660万</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018/08/01</p></td>
+<td><p>SouSick</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=UeAGvmvTxLA">Rain</a></p></td>
+<td><p>220万</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/04/24</p></td>
+<td><p>Yusuke Kasai</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=wxB5lBauG9E">Pool</a></p></td>
+<td><p>190万</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/05/18</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=kNN1gB0pn68">Evergreen</a>[2]</p></td>
+<td><p>70万</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/05/29</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=K2Ozf-chILM">PRAYER</a></p></td>
+<td><p>70万</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/10/24</p></td>
+<td><p>Heiyuu</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=OOvIH_BaNoM">Slow Dance feat. BIM</a></p></td>
+<td><p>60万</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020/03/14</p></td>
+<td><p>Sou Sick</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=l7gqoDPC0U4">Why Can't</a></p></td>
+<td><p>20万</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020/03/25</p></td>
+<td><p>Yusuke Kasai</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=oufAp6fNPvE">Your Love</a></p></td>
+<td><p>40万</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020/06/27</p></td>
+<td><p>Ryoji Yamada</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Gsl-oEN7LJg">HOPELESS ROMANTIC</a></p></td>
+<td><p>10万</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020/07/18</p></td>
+<td><p>Leo Youlagi</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=544ZVUMPsf0">HOPELESS ROMANTIC (English Ver.)</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## タイアップ
 
-| 曲名         | タイアップ                                                                   |
-| ---------- | ----------------------------------------------------------------------- |
-| Maybe      | BAYFLOW 2018 AUTUMN COLLECITON Web CM                                   |
-| Do Well    | ホンダ「[ホンダ・ヴェゼル](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink")」CMソング |
-| Last Lover | AbemaTV「恋愛ドラマな恋がしたい～Bang Ban Love～」主題歌\[3\]                             |
+| 曲名         | タイアップ                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------ |
+| Maybe      | BAYFLOW 2018 AUTUMN COLLECITON Web CM                                                                  |
+| Do Well    | [Honda](../Page/本田技研工業.md "wikilink")「[VEZEL](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink")」CMソング |
+| Last Lover | AbemaTV「恋愛ドラマな恋がしたい～Bang Ban Love～」主題歌\[3\]                                                            |
 
 ## 受賞
 
@@ -102,12 +215,62 @@ RZCB-87018:通常盤</p></td>
 
 ### ワンマンライブ・主催イベント
 
-| 開催日               | タイトル                      | 備考 |
-| ----------------- | ------------------------- | -- |
-| 2019年6月28日〜7月18日  | SIRUP「FEEL GOOD」TOUR 2019 |    |
-| 2019年12月4日〜12月12日 | SIRUP「channel 01」         |    |
-| 2020年9月21日〜11月13日 | SIRUP Playlist TOUR 2020  |    |
-|                   |                           |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>開催日</p></th>
+<th><p>タイトル</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年6月28日〜7月18日</p></td>
+<td><p>SIRUP「FEEL GOOD」TOUR 2019</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>クレジット</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>6/28 梅田CLUB QUATTRO</li>
+<li>6/30 伏見JAMMIN'</li>
+<li>7/05 FUKUOKA BEAT STATION</li>
+<li>7/10 札幌KRAPS HALL</li>
+<li>7/12 LIVE HOUSE enn 2nd</li>
+<li>7/17 恵比寿LIQUIDROOM</li>
+<li>7/18 恵比寿LIQUIDROOM
+</div>
+</div></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月4日〜12月12日</p></td>
+<td><p>SIRUP「channel 01」</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>クレジット</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>12/04 Zepp DiverCity</li>
+<li>12/12 Zepp Namba
+</div>
+</div></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2020年9月21日〜11月13日</p></td>
+<td><p>SIRUP Playlist TOUR 2020</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 出演イベント
 
@@ -137,9 +300,19 @@ RZCB-87018:通常盤</p></td>
   - 2019年08月31日 - Local Green Festival'19
   - 2019年09月08日 - [Sunset Live](https://ja.wikipedia.org/wiki/Sunset_Live "wikilink") 2019
   - 2019年09月15日 - [BAYCAMP](https://ja.wikipedia.org/wiki/BAYCAMP "wikilink") 2019
+  - 2019年09月20日 - 『ピノキオ6』 ～KYOTO MOJO 20th ANNIVERSARY SPECIAL LIVE\!～
+  - 2019年09月28日 - Grand VIEWTY
+  - 2019年10月07日 - BASI RELEASE TOUR 2019 -切愛の時-
   - 2019年10月14日 - FM802 30PARTY MINAMI WHEEL 2019
+  - 2019年10月27日・28日 - ABOUT MUSIC Presents "SIRUP×BIM 2 MAN LIVE in FUK\&KUM"
+  - 2019年11月03日 - DOVETAIL S/N 002
+  - 2019年12月05日 - YouTube FanFest Japan 2019 MUSIC LIVE SHOW
   - 2019年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 19/20
+  - 2019年12月29日 - RADIO GIGA 令和01 HAVE A GREAT NEW YEAR FROM DATE FM
+  - 2020年02月16日 - JFL presents LIVE FOR THE NEXT supported by 日本セーフティー
+  - 2020年06月21日 - LIVE HUMAN 2020
   - 2020年08月10日 - [韻シスト](../Page/韻シスト.md "wikilink")presents OSAKA GOOD VIBES 2020
+  - 2020年09月06日 - GREENROOM FESTIVAL'20
 
 ## 脚注
 

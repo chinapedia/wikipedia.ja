@@ -15,7 +15,7 @@
 
 3日目では、後日3月23日放送の乃木坂46、[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")が出演する音楽バラエティ『[坂道テレビ〜乃木と欅と日向〜](../Page/坂道テレビ〜乃木と欅と日向〜.md "wikilink")』（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）において、欅坂46の[小池美波](https://ja.wikipedia.org/wiki/小池美波 "wikilink")・[守屋茜](https://ja.wikipedia.org/wiki/守屋茜 "wikilink")がライブ会場に潜入してリポートする模様が放送された\[17\]。
 
-本作は、上記公演の模様を収録しており、各公演の模様を収めた「DAY1」から「DAY4」、4公演をコンプリートした「完全生産限定盤」、それぞれDVDとBlu-rayで異なるデザインで、全10種類のジャケットでの発売となり\[18\] 、完全生産限定盤には三方背BOX、豪華フォトブックレット、特典映像（ダンスや歌の確認をするメンバーたちの様子や、舞台裏での素顔を収録した「Making of 7th BIRTHDAY LIVE ～涙の理由は聞かない～」）、パフォーマンス絵柄によるポストカード、全メンバーソロカットのトレーディングカードが封入される\[19\]。
+本作は、上記公演の模様を収録しており、各公演の模様を収めた「DAY1」から「DAY4」、4公演をコンプリートした「完全生産限定盤」、それぞれDVDとBlu-rayで異なるデザインで、全10種類のジャケットでの発売となり\[18\] 、完全生産限定盤には三方背BOX、豪華フォトブックレット、特典映像（ダンスや歌の確認をするメンバーたちの様子や、舞台裏での素顔を収録した「Making of 7th BIRTHDAY LIVE ～涙の理由は聞かない～」）、パフォーマンス絵柄による全43種のうち5枚ランダムのポストカード、全メンバーソロカットの全48種のうち5枚ランダムのトレーディングカードが封入されている\[19\]。
 
 ## プロモーション
 
@@ -31,47 +31,27 @@
 
 #### DVD
 
-#### Blu-ray
+**Day1**\[24\]
 
-### Day1
+**Day2**\[25\]
 
-#### DVD
+**Day3**\[26\]
 
-「完全生産限定盤」[DISC1](https://ja.wikipedia.org/wiki/#DISK1 "wikilink")・[DISC2と同内容](https://ja.wikipedia.org/wiki/#DISK2 "wikilink")\[24\]。
+**Day4**\[27\]
 
-#### Blu-ray
-
-「完全生産限定盤」[DISC1と同内容](https://ja.wikipedia.org/wiki/#DISK10 "wikilink")\[25\]。
-
-### Day2
-
-#### DVD
-
-「完全生産限定盤」[DISC3](https://ja.wikipedia.org/wiki/#DISK3 "wikilink")・[DISC4と同内容](https://ja.wikipedia.org/wiki/#DISK4 "wikilink")\[26\]。
+**完全生産限定盤**
 
 #### Blu-ray
 
-「完全生産限定盤」[DISC2と同内容](https://ja.wikipedia.org/wiki/#DISK11 "wikilink")\[27\]。
+**Day1**\[28\]
 
-### Day3
+**Day2**\[29\]
 
-#### DVD
+**'Day3**\[30\]
 
-「完全生産限定盤」[DISC5](https://ja.wikipedia.org/wiki/#DISK5 "wikilink")・[DISC6と同内容](https://ja.wikipedia.org/wiki/#DISK6 "wikilink")\[28\]。
+**Day4**\[31\]
 
-#### Blu-ray
-
-「完全生産限定盤」[DISC3と同内容](https://ja.wikipedia.org/wiki/#DISK12 "wikilink")\[29\]。
-
-### Day4
-
-#### DVD
-
-「完全生産限定盤」[DISC7](https://ja.wikipedia.org/wiki/#DISK7 "wikilink")・[DISC8と同内容](https://ja.wikipedia.org/wiki/#DISK8 "wikilink")\[30\]。
-
-#### Blu-ray
-
-「完全生産限定盤」[DISC4と同内容](https://ja.wikipedia.org/wiki/#DISK13 "wikilink")\[31\]。
+**完全生産限定盤**
 
 ## 脚注
 

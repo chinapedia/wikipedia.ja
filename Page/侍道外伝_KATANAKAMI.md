@@ -1,7 +1,7 @@
 > この記事は[侍道外伝 KATANAKAMI](https://ja.wikipedia.org/wiki/侍道外伝_KATANAKAMI)から翻訳されています。
 
 
-『**侍道外伝 KATANAKAMI**』（さむらいどうがいでん カタナカミ、刀神、Katana Kami: A Way of the Samurai Story）は、[アクワイアが開発し](../Page/アクワイア_\(ゲーム会社\).md "wikilink")、[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")より[2020年](../Page/2020年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")[20日](https://ja.wikipedia.org/wiki/20日 "wikilink")に発売されたゲームソフト。[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")・[Steam](../Page/Steam.md "wikilink")のマルチプラットフォーム。
+『**侍道外伝 KATANAKAMI**』（さむらいどうがいでん カタナカミ、刀神、Katana Kami: A Way of the Samurai Story）は、[アクワイアが開発し](../Page/アクワイア_\(ゲーム会社\).md "wikilink")、[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")より[2020年](../Page/2020年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に発売されたゲームソフト。[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")・[Steam](../Page/Steam.md "wikilink")のマルチプラットフォーム。
 
 ## 概要
 

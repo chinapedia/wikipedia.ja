@@ -9,7 +9,7 @@
 
 2014年に[Google I/Oの会場外での抗議活動をAnti](https://ja.wikipedia.org/wiki/Google_I/O "wikilink")-Eviction Mapping Projectと共同でRiseup.netのFletesとErin McElroyが主催した\[3\]。
 
-2016年11月中旬にはに関するページが突如エラー表示となった。2017年2月16日、Riseupはこの理由を2つの[FBI](https://ja.wikipedia.org/wiki/FBI "wikilink")からの[召喚令状](https://ja.wikipedia.org/wiki/召喚令状 "wikilink")を受け取ったためと明らかにしたが、この発表により令状のカナリアを維持することが不可能となった。2つの召喚状の内容は「国際的攻撃組織の公開連絡先」と「[ランサムウェア](https://ja.wikipedia.org/wiki/ランサムウェア "wikilink")を用いて人々を金銭的に恐喝する者についての情報」を公開することを求めるもので、ユーザー情報を公開したという事実はハッカーコミュニティーを落胆させた\[4\]。
+2016年11月中旬には[令状のカナリア](https://ja.wikipedia.org/wiki/令状のカナリア "wikilink")に関するページが突如エラー表示となった。2017年2月16日、Riseupはこの理由を2つの[FBI](https://ja.wikipedia.org/wiki/FBI "wikilink")からの[召喚令状](https://ja.wikipedia.org/wiki/召喚令状 "wikilink")を受け取ったためと明らかにしたが、この発表により令状のカナリアを維持することが不可能となった。2つの召喚状の内容は「国際的攻撃組織の公開連絡先」と「[ランサムウェア](https://ja.wikipedia.org/wiki/ランサムウェア "wikilink")を用いて人々を金銭的に恐喝する者についての情報」を公開することを求めるもので、ユーザー情報を公開したという事実はハッカーコミュニティーを落胆させた\[4\]。
 
 ## 主な提供サービス
 

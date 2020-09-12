@@ -93,4 +93,4 @@
 ## 外部リンク
 
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:中部地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:中部地方のローカルアイドル "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:小松市の文化](https://ja.wikipedia.org/wiki/Category:小松市の文化 "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:中部地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:中部地方のローカルアイドル "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:石川県の文化](https://ja.wikipedia.org/wiki/Category:石川県の文化 "wikilink")

@@ -13,7 +13,7 @@
   - [マジすか学園シリーズ](https://ja.wikipedia.org/wiki/マジすか学園シリーズ "wikilink")
       - [マジすか学園](https://ja.wikipedia.org/wiki/マジすか学園 "wikilink")（2010年1月9日 - 3月27日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 主演：前田敦、出演：AKB48（[平嶋夏海](https://ja.wikipedia.org/wiki/平嶋夏海 "wikilink")・絹本桃子・藤本紗羅を除く当時のメンバー全員）+SKE48（[松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink")・[松井玲奈](https://ja.wikipedia.org/wiki/松井玲奈 "wikilink")・[矢神久美](https://ja.wikipedia.org/wiki/矢神久美 "wikilink")）+SDN48（[なちゅ](https://ja.wikipedia.org/wiki/なちゅ "wikilink")）
       - [マジすか学園2](https://ja.wikipedia.org/wiki/マジすか学園2 "wikilink")（2011年4月16日 - 7月2日、テレビ東京） - 主演：前田敦、出演：AKB48（12期研究生除く当時のメンバー全員）+SKE48（松井珠・松井玲・矢神・[木本花音](https://ja.wikipedia.org/wiki/木本花音 "wikilink")）+SDN48（[佐藤由加理](../Page/佐藤由加理.md "wikilink")・なちゅ）
-      - [マジすか学園3](https://ja.wikipedia.org/wiki/マジすか学園3 "wikilink")（2012年7月14日 - 10月6日、テレビ東京） - 主演：[島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink")、出演：北原・[阿部マリア](https://ja.wikipedia.org/wiki/阿部マリア "wikilink")・[市川美織](https://ja.wikipedia.org/wiki/市川美織 "wikilink")・[入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")・[岩田華怜](https://ja.wikipedia.org/wiki/岩田華怜 "wikilink")・[大場美奈](https://ja.wikipedia.org/wiki/大場美奈 "wikilink")・[加藤玲奈](https://ja.wikipedia.org/wiki/加藤玲奈_\(AKB48\) "wikilink")・[川栄李奈](https://ja.wikipedia.org/wiki/川栄李奈 "wikilink")・[島田晴香](https://ja.wikipedia.org/wiki/島田晴香 "wikilink")・[高橋朱里](https://ja.wikipedia.org/wiki/高橋朱里 "wikilink")・[竹内美宥](https://ja.wikipedia.org/wiki/竹内美宥 "wikilink")・[田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink")・[仲俣汐里](https://ja.wikipedia.org/wiki/仲俣汐里 "wikilink")・[永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink")・[中村麻里子](https://ja.wikipedia.org/wiki/中村麻里子 "wikilink")・[山内鈴蘭](https://ja.wikipedia.org/wiki/山内鈴蘭 "wikilink")+SKE48（[木﨑ゆりあ](https://ja.wikipedia.org/wiki/木崎ゆりあ "wikilink")・松井珠・矢神・[高柳明音](https://ja.wikipedia.org/wiki/高柳明音 "wikilink")・木本）+HKT48（[村重杏奈](https://ja.wikipedia.org/wiki/村重杏奈 "wikilink")）
+      - [マジすか学園3](https://ja.wikipedia.org/wiki/マジすか学園3 "wikilink")（2012年7月14日 - 10月6日、テレビ東京） - 主演：[島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink")、出演：北原・[阿部マリア](https://ja.wikipedia.org/wiki/阿部マリア "wikilink")・[市川美織](https://ja.wikipedia.org/wiki/市川美織 "wikilink")・[入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")・[岩田華怜](https://ja.wikipedia.org/wiki/岩田華怜 "wikilink")・[大場美奈](https://ja.wikipedia.org/wiki/大場美奈 "wikilink")・[加藤玲奈](https://ja.wikipedia.org/wiki/加藤玲奈_\(AKB48\) "wikilink")・[川栄李奈](https://ja.wikipedia.org/wiki/川栄李奈 "wikilink")・[島田晴香](https://ja.wikipedia.org/wiki/島田晴香 "wikilink")・[高橋朱里](https://ja.wikipedia.org/wiki/高橋朱里 "wikilink")・[竹内美宥](https://ja.wikipedia.org/wiki/竹内美宥 "wikilink")・[田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink")・[仲俣汐里](https://ja.wikipedia.org/wiki/仲俣汐里 "wikilink")・[永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink")・[中村麻里子](https://ja.wikipedia.org/wiki/中村麻里子 "wikilink")・[山内鈴蘭](https://ja.wikipedia.org/wiki/山内鈴蘭 "wikilink")+SKE48（[木﨑ゆりあ](https://ja.wikipedia.org/wiki/木﨑ゆりあ "wikilink")・松井珠・矢神・[高柳明音](https://ja.wikipedia.org/wiki/高柳明音 "wikilink")・木本）+HKT48（[村重杏奈](https://ja.wikipedia.org/wiki/村重杏奈 "wikilink")）
       - [マジすか学園4](https://ja.wikipedia.org/wiki/マジすか学園4 "wikilink")（2015年1月20日 - 3月31日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 主演：[宮脇咲良](https://ja.wikipedia.org/wiki/宮脇咲良 "wikilink")・島崎\[1\]
       - [マジすか学園5](https://ja.wikipedia.org/wiki/マジすか学園5 "wikilink")（2015年8月25日、日本テレビ） - 主演：島崎
       - [キャバすか学園](https://ja.wikipedia.org/wiki/キャバすか学園 "wikilink")（2016年10月30日 - 2017年1月15日、日本テレビ） - 主演：宮脇\[2\]
@@ -75,6 +75,8 @@
       - [なるほど\!ハイスクール → なるほどHS](https://ja.wikipedia.org/wiki/なるほど!ハイスクール "wikilink")（2010年5月30日\[31\]・10月9日\[32\]・2011年4月21日 - 2012年3月8日）\[33\]
       - [AKB600sec.](https://ja.wikipedia.org/wiki/AKB600sec. "wikilink")（2010年7月6日 - 7月30日）
       - [AKBと××\!](https://ja.wikipedia.org/wiki/AKBと××! "wikilink")（2010年7月14日 - 2016年3月23日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")） - AKB48グループメンバー
+      - [密室謎解きバラエティー　脱出ゲームDERO\!](https://ja.wikipedia.org/wiki/密室謎解きバラエティー_脱出ゲームDERO! "wikilink") - 準レギュラー
+      - [宝探しアドベンチャー　謎解きバトルTORE\!](https://ja.wikipedia.org/wiki/宝探しアドベンチャー_謎解きバトルTORE! "wikilink") - 準レギュラー
       - [ガチガセ](https://ja.wikipedia.org/wiki/ガチガセ "wikilink")（2012年4月20日 - 2013年2月8日）\[34\]
       - [HaKaTa百貨店](https://ja.wikipedia.org/wiki/HaKaTa百貨店 "wikilink")（2012年10月8日 - 2013年1月14日） - HKT48がレギュラー出演で、AKB48からは週替わりで1名がゲスト出演\[35\]。
       - [HaKaTa百貨店 2号館](https://ja.wikipedia.org/wiki/HaKaTa百貨店 "wikilink")（2013年1月27日 - 3月31日） - HKT48がレギュラー出演で、AKB48グループからは週替わりで1名がゲスト出演。
@@ -272,60 +274,62 @@
       - 音楽の日 2017（2017年7月15日・16日）\[134\]
       - 音楽の日 2018（2018年7月14日・15日）\[135\]
       - 音楽の日 2019（2019年7月13日・14日）\[136\]
+      - 音楽の日 2020（2019年7月18日）\[137\]
   - 日テレ系音楽の祭典 音楽のちから2012（2012年3月7日、日本テレビ）
   - [歌でつなごう 〜被災者のみなさんへ〜](https://ja.wikipedia.org/wiki/歌でつなごう_〜被災者のみなさんへ〜 "wikilink")（NHK総合・NHK BSプレミアム）
       - 震災から1年 "明日へ"コンサート（2012年3月10日）
       - 震災から2年 "明日へ"コンサート（2013年3月9日）
       - 震災から3年 "明日へ"コンサート（2014年3月10日）
       - 震災から4年 "明日へ"コンサート（2015年3月9日）
-  - [とんねるずが生放送\!音楽番組全部見せます\!\!-名曲で元気になろう-](https://ja.wikipedia.org/wiki/とんねるずが生放送!音楽番組全部見せます!!-名曲で元気になろう- "wikilink")（2012年3月21日、フジテレビ）\[137\]
+  - [とんねるずが生放送\!音楽番組全部見せます\!\!-名曲で元気になろう-](https://ja.wikipedia.org/wiki/とんねるずが生放送!音楽番組全部見せます!!-名曲で元気になろう- "wikilink")（2012年3月21日、フジテレビ）\[138\]
   - [FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")（フジテレビ）
-      - [2012 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2012_FNSうたの夏まつり "wikilink")（2012年8月8日）\[138\]
-      - [2014 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2014_FNSうたの夏まつり "wikilink")（2014年8月13日）\[139\]
-      - [2015 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2015_FNSうたの夏まつり "wikilink")（2015年7月29日）\[140\]
-      - [2016 FNSうたの夏まつり 〜海の日スペシャル〜](https://ja.wikipedia.org/wiki/2016_FNSうたの夏まつり "wikilink")（2016年7月18日）\[141\]
-      - [2017 FNSうたの夏まつり 〜アニバーサリーSP〜](https://ja.wikipedia.org/wiki/2017_FNSうたの夏まつり "wikilink")（2017年8月2日）\[142\]
-      - [2018 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2018_FNSうたの夏まつり "wikilink")（2018年7月25日）\[143\]
-      - [2019 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2019_FNSうたの夏まつり "wikilink")（2019年7月24日）\[144\]
+      - [2012 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2012_FNSうたの夏まつり "wikilink")（2012年8月8日）\[139\]
+      - [2014 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2014_FNSうたの夏まつり "wikilink")（2014年8月13日）\[140\]
+      - [2015 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2015_FNSうたの夏まつり "wikilink")（2015年7月29日）\[141\]
+      - [2016 FNSうたの夏まつり 〜海の日スペシャル〜](https://ja.wikipedia.org/wiki/2016_FNSうたの夏まつり "wikilink")（2016年7月18日）\[142\]
+      - [2017 FNSうたの夏まつり 〜アニバーサリーSP〜](https://ja.wikipedia.org/wiki/2017_FNSうたの夏まつり "wikilink")（2017年8月2日）\[143\]
+      - [2018 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2018_FNSうたの夏まつり "wikilink")（2018年7月25日）\[144\]
+      - [2019 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2019_FNSうたの夏まつり "wikilink")（2019年7月24日）\[145\]
+      - [2020 FNS歌謡祭 夏](https://ja.wikipedia.org/wiki/2020_FNS歌謡祭_夏 "wikilink")（2020年8月26日）\[146\]
   - [THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")（日本テレビ）
       - THE MUSIC DAY 音楽のちから（2013年7月6日）
       - THE MUSIC DAY 音楽のちから（2014年7月12日）
       - THE MUSIC DAY 音楽は太陽だ。（2015年7月4日）
       - THE MUSIC DAY 夏のはじまり。（2016年7月2日）
-      - THE MUSIC DAY 願いが叶う夏（2017年7月1日）\[145\]
-      - THE MUSIC DAY 2018〜伝えたい歌〜（2018年7月7日）\[146\]
-      - THE MUSIC DAY 2019〜時代〜（2019年7月6日）\[147\]
+      - THE MUSIC DAY 願いが叶う夏（2017年7月1日）\[147\]
+      - THE MUSIC DAY 2018〜伝えたい歌〜（2018年7月7日）\[148\]
+      - THE MUSIC DAY 2019〜時代〜（2019年7月6日）\[149\]
   - [FNS名曲の祭典 秘蔵映像で振り返る55年 -NO MUSIC, NO TV.-](https://ja.wikipedia.org/wiki/FNS名曲の祭典_秘蔵映像で振り返る55年_-NO_MUSIC,_NO_TV.- "wikilink")（2013年11月2日、フジテレビ） - 大島優・北原+HKT48（指原）
   - [テレ東音楽祭](https://ja.wikipedia.org/wiki/テレ東音楽祭 "wikilink")（テレビ東京）
-      - [テレ東音楽祭（初）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭（初） "wikilink")（2014年6月26日）\[148\]
-      - [テレ東音楽祭（2）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭（2） "wikilink")（2015年6月24日）\[149\]
-      - [テレ東音楽祭2016（TV TOKYO MUSIC FESTIVAL 2016）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2016（TV_TOKYO_MUSIC_FESTIVAL_2016） "wikilink")（2016年6月29日）\[150\]
-      - [テレ東音楽祭2017（TV TOKYO MUSIC FESTIVAL 2017）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2017（TV_TOKYO_MUSIC_FESTIVAL_2017） "wikilink")（2017年6月28日）\[151\]
-      - [テレ東音楽祭2018（TV TOKYO MUSIC FESTIVAL 2018）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2018（TV_TOKYO_MUSIC_FESTIVAL_2018） "wikilink")（2018年6月27日）\[152\]
-      - [テレ東音楽祭2019（TV TOKYO MUSIC FESTIVAL 2019）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2019（TV_TOKYO_MUSIC_FESTIVAL_2019） "wikilink")（2019年6月26日）\[153\]
+      - [テレ東音楽祭（初）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭（初） "wikilink")（2014年6月26日）\[150\]
+      - [テレ東音楽祭（2）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭（2） "wikilink")（2015年6月24日）\[151\]
+      - [テレ東音楽祭2016（TV TOKYO MUSIC FESTIVAL 2016）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2016（TV_TOKYO_MUSIC_FESTIVAL_2016） "wikilink")（2016年6月29日）\[152\]
+      - [テレ東音楽祭2017（TV TOKYO MUSIC FESTIVAL 2017）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2017（TV_TOKYO_MUSIC_FESTIVAL_2017） "wikilink")（2017年6月28日）\[153\]
+      - [テレ東音楽祭2018（TV TOKYO MUSIC FESTIVAL 2018）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2018（TV_TOKYO_MUSIC_FESTIVAL_2018） "wikilink")（2018年6月27日）\[154\]
+      - [テレ東音楽祭2019（TV TOKYO MUSIC FESTIVAL 2019）](https://ja.wikipedia.org/wiki/テレ東音楽祭#テレ東音楽祭2019（TV_TOKYO_MUSIC_FESTIVAL_2019） "wikilink")（2019年6月26日）\[155\]
   - [FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり "wikilink")（フジテレビ）
       - [2016 FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり#2016年 "wikilink")（2016年3月28日）
-      - [2017 FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり#2017年 "wikilink")（2017年3月22日）\[154\]
+      - [2017 FNSうたの春まつり](https://ja.wikipedia.org/wiki/FNSうたの春まつり#2017年 "wikilink")（2017年3月22日）\[156\]
   - [ハロウィン音楽祭](https://ja.wikipedia.org/wiki/ハロウィン音楽祭 "wikilink")（TBS）
-      - [ハロウィン音楽祭2016](https://ja.wikipedia.org/wiki/ハロウィン音楽祭#第1回（2016年） "wikilink")（2016年10月31日）\[155\]
-      - [CDTVスペシャル\! ハロウィン音楽祭2017](https://ja.wikipedia.org/wiki/ハロウィン音楽祭#第2回（2017年） "wikilink")（2017年10月25日）\[156\]
+      - [ハロウィン音楽祭2016](https://ja.wikipedia.org/wiki/ハロウィン音楽祭#第1回（2016年） "wikilink")（2016年10月31日）\[157\]
+      - [CDTVスペシャル\! ハロウィン音楽祭2017](https://ja.wikipedia.org/wiki/ハロウィン音楽祭#第2回（2017年） "wikilink")（2017年10月25日）\[158\]
   - [卒業ソング音楽祭](https://ja.wikipedia.org/wiki/卒業ソング音楽祭 "wikilink")（TBS）
-      - [CDTV春スペシャル 卒業ソング音楽祭2017](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第1回（2017年） "wikilink")（2017年3月30日）\[157\]
-      - [CDTV春スペシャル 卒業ソング音楽祭2018](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第2回（2018年） "wikilink")（2018年3月21日）\[158\]
-      - [CDTV春スペシャル 卒業ソング音楽祭2019](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第3回（2019年） "wikilink")（2019年3月21日）\[159\]
-      - [CDTVスペシャル\! 卒業ソング音楽祭2020](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第4回（2020年） "wikilink")（2020年3月16日）\[160\]
+      - [CDTV春スペシャル 卒業ソング音楽祭2017](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第1回（2017年） "wikilink")（2017年3月30日）\[159\]
+      - [CDTV春スペシャル 卒業ソング音楽祭2018](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第2回（2018年） "wikilink")（2018年3月21日）\[160\]
+      - [CDTV春スペシャル 卒業ソング音楽祭2019](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第3回（2019年） "wikilink")（2019年3月21日）\[161\]
+      - [CDTVスペシャル\! 卒業ソング音楽祭2020](https://ja.wikipedia.org/wiki/卒業ソング音楽祭#第4回（2020年） "wikilink")（2020年3月16日）\[162\]
   - [クリスマス音楽祭](https://ja.wikipedia.org/wiki/クリスマス音楽祭 "wikilink")（TBS）
-      - [CDTVスペシャル\! クリスマス音楽祭2017](https://ja.wikipedia.org/wiki/クリスマス音楽祭#第1回 "wikilink")（2017年12月25日）\[161\]
-      - [CDTVスペシャル\! クリスマス音楽祭2018](https://ja.wikipedia.org/wiki/クリスマス音楽祭#第2回 "wikilink")（2018年12月24日）\[162\]
-      - [CDTVスペシャル\! クリスマス音楽祭2019](https://ja.wikipedia.org/wiki/クリスマス音楽祭#第3回 "wikilink")（2019年12月23日）\[163\]
-  - [第4回明石家紅白\!](https://ja.wikipedia.org/wiki/明石家紅白! "wikilink")（2018年4月30日、NHK総合）\[164\]
-  - ガールズ・グループの祭典 RAGAZZE！〜少女たちよ！〜（2020年3月28日、NHK総合）\[165\]\[166\]
-  - 「アイドルのチカラ」第1回（2020年3月29日、CS [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")1） - チーム8\[167\]
+      - [CDTVスペシャル\! クリスマス音楽祭2017](https://ja.wikipedia.org/wiki/クリスマス音楽祭#第1回 "wikilink")（2017年12月25日）\[163\]
+      - [CDTVスペシャル\! クリスマス音楽祭2018](https://ja.wikipedia.org/wiki/クリスマス音楽祭#第2回 "wikilink")（2018年12月24日）\[164\]
+      - [CDTVスペシャル\! クリスマス音楽祭2019](https://ja.wikipedia.org/wiki/クリスマス音楽祭#第3回 "wikilink")（2019年12月23日）\[165\]
+  - [第4回明石家紅白\!](https://ja.wikipedia.org/wiki/明石家紅白! "wikilink")（2018年4月30日、NHK総合）\[166\]
+  - ガールズ・グループの祭典 RAGAZZE！〜少女たちよ！〜（2020年3月28日、NHK総合）\[167\]\[168\]
+  - 「アイドルのチカラ」第1回（2020年3月29日、CS [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")1） - チーム8\[169\]
 
 ## ドキュメンタリー
 
-  - [DOCUMENTARY of AKB48 1ミリ先の未来 The future:1mm ahead](https://ja.wikipedia.org/wiki/ポップジャム・MUSIC_JAPANのスピンオフ特番一覧#アーティスト密着特集 "wikilink")（2011年1月9日 0:00、NHK総合）\[168\]
-  - [DOCUMENTARY of AKB48 AKB48+1](https://ja.wikipedia.org/wiki/ポップジャム・MUSIC_JAPANのスピンオフ特番一覧#アーティスト密着特集 "wikilink")（2012年1月24日 0:15、NHK総合）\[169\]
+  - [DOCUMENTARY of AKB48 1ミリ先の未来 The future:1mm ahead](https://ja.wikipedia.org/wiki/ポップジャム・MUSIC_JAPANのスピンオフ特番一覧#アーティスト密着特集 "wikilink")（2011年1月9日 0:00、NHK総合）\[170\]
+  - [DOCUMENTARY of AKB48 AKB48+1](https://ja.wikipedia.org/wiki/ポップジャム・MUSIC_JAPANのスピンオフ特番一覧#アーティスト密着特集 "wikilink")（2012年1月24日 0:15、NHK総合）\[171\]
   - Documentary of AKB48+1+10（2013年2月1日 1:46、NHK総合）
 
 ## アニメ
@@ -343,28 +347,28 @@
 
 [Category:AKB48](https://ja.wikipedia.org/wiki/Category:AKB48 "wikilink")
 
-1.  [「マジすか学園4」さくら&ぱるるのW主演](http://natalie.mu/music/news/135341).音楽ナタリー (ナターシャ). (2015年1月3日) 2017年4月5日閲覧。
-2.  [宮脇咲良、松井珠理奈らが“キャバ嬢”に 新ドラマ「キャバすか学園」](https://mdpr.jp/news/detail/1622523).モデルプレス (ネットネイティブ). (2016年10月10日) 2016年10月13日閲覧。
-3.  [AKB小栗有以、連ドラ初主演「マジムリ学園」放送決定](https://www.cinematoday.jp/news/N0101257).シネマトゥデイ (2018年6月1日) 2018年6月1日閲覧。
-4.  [AKB48総出演、日テレで9夜連続のSP学園ドラマ](http://www.oricon.co.jp/news/83809/full/).ORICON STYLE (oricon ME). (2011年1月12日) 2017年4月5日閲覧。
-5.  [AKB48大島・篠田・小嶋ら総出演SPドラマ メンバーコメント到着](https://mdpr.jp/news/detail/1220932).モデルプレス (ネットネイティブ). (2013年1月19日) 2017年4月5日閲覧。
-6.  [AKBメンバー主演のOLドラマ、タイトルは『フォーチュンクッキー』](http://www.oricon.co.jp/news/2026223/full/).ORICON STYLE (oricon ME). (2013年7月3日) 2017年4月5日閲覧。
-7.  [AKB48グループの次世代エースユニットがドラマ主演！父親役はリリー・フランキー](http://www.crank-in.net/entertainment/news/27413).クランクイン\! (ハリウッドチャンネル). (2013年10月21日) 2017年4月5日閲覧。
-8.  [AKB48次世代メンバー・大和田南那「スカートめくり」に照れ？『セーラーゾンビ』会見](http://dogatch.jp/news/tx/24465).テレビドガッチ (プレゼントキャスト). (2014年4月17日) 2017年4月5日閲覧。
-9.  [title=横山由依ら「AKB48」11名がヒロインに！『劇場霊』スピンオフドラマ放送決定](http://www.cinemacafe.net/article/2015/10/13/34807.html).シネマカフェ (イード). (2015年10月13日) 2017年4月5日閲覧。
+1.  [“「マジすか学園4」さくら&ぱるるのW主演”](http://natalie.mu/music/news/135341). *音楽ナタリー* (ナターシャ). (2015年1月3日) 2017年4月5日閲覧。
+2.  [“宮脇咲良、松井珠理奈らが“キャバ嬢”に 新ドラマ「キャバすか学園」”](https://mdpr.jp/news/detail/1622523). *モデルプレス* (ネットネイティブ). (2016年10月10日) 2016年10月13日閲覧。
+3.  [“AKB小栗有以、連ドラ初主演「マジムリ学園」放送決定”](https://www.cinematoday.jp/news/N0101257). *シネマトゥデイ* (株式会社シネマトゥデイ). (2018年6月1日) 2018年6月1日閲覧。
+4.  [“AKB48総出演、日テレで9夜連続のSP学園ドラマ”](http://www.oricon.co.jp/news/83809/full/). *ORICON STYLE* (oricon ME). (2011年1月12日) 2017年4月5日閲覧。
+5.  [“AKB48大島・篠田・小嶋ら総出演SPドラマ メンバーコメント到着”](https://mdpr.jp/news/detail/1220932). *モデルプレス* (ネットネイティブ). (2013年1月19日) 2017年4月5日閲覧。
+6.  [“AKBメンバー主演のOLドラマ、タイトルは『フォーチュンクッキー』”](http://www.oricon.co.jp/news/2026223/full/). *ORICON STYLE* (oricon ME). (2013年7月3日) 2017年4月5日閲覧。
+7.  [“AKB48グループの次世代エースユニットがドラマ主演！父親役はリリー・フランキー”](http://www.crank-in.net/entertainment/news/27413). *クランクイン\!* (ハリウッドチャンネル). (2013年10月21日) 2017年4月5日閲覧。
+8.  [“AKB48次世代メンバー・大和田南那「スカートめくり」に照れ？『セーラーゾンビ』会見”](http://dogatch.jp/news/tx/24465). *テレビドガッチ* (プレゼントキャスト). (2014年4月17日) 2017年4月5日閲覧。
+9.  [“横山由依ら「AKB48」11名がヒロインに！『劇場霊』スピンオフドラマ放送決定”](http://www.cinemacafe.net/article/2015/10/13/34807.html). *シネマカフェ* (イード). (2015年10月13日) 2017年4月5日閲覧。
 10.
-11. [AKB48グループ、ホラードラマでメンバー40人が演技対決](http://natalie.mu/music/news/160330).音楽ナタリー (2015年9月17日) 2016年1月8日閲覧。
+11. [“AKB48グループ、ホラードラマでメンバー40人が演技対決”](http://natalie.mu/music/news/160330). *音楽ナタリー* (ナターシャ). (2015年9月17日) 2016年1月8日閲覧。
 12. [ビデオパス](http://www.videopass.jp/unlimited) [KDDI](../Page/KDDI.md "wikilink")が運営するauの契約者向けの動画配信サービス。
-13. [キスシーンあり！AKB48グループメンバーが連ドラ主演を懸けラブバトル](http://natalie.mu/eiga/news/181074).映画ナタリー (ナターシャ).(2016年3月26日) 2016年4月20日閲覧。
-14. [AKBプロレス 宮脇咲良ら女子プロ弟子入りで特訓中](https://www.daily.co.jp/gossip/2016/12/15/0009753834.shtml).デイリースポーツ online (デイリースポーツ). (2016年12月15日) 2016年12月15日閲覧。
-15. [チバテレ「MUSE9」内で、11月よりチーム8出演のドラマがスタート！](http://toyota-team8.jp/news/kanto/20171004-739951630732338.php).AKB48 Team 8公式ホームページ (AKS). (2017年10月4日) 2017年10月6日閲覧。
+13. [“キスシーンあり！AKB48グループメンバーが連ドラ主演を懸けラブバトル”](http://natalie.mu/eiga/news/181074). *映画ナタリー* (ナターシャ).(2016年3月26日) 2016年4月20日閲覧。
+14. [“AKBプロレス 宮脇咲良ら女子プロ弟子入りで特訓中”](https://www.daily.co.jp/gossip/2016/12/15/0009753834.shtml). *デイリースポーツ online* (デイリースポーツ). (2016年12月15日) 2016年12月15日閲覧。
+15. [“チバテレ「MUSE9」内で、11月よりチーム8出演のドラマがスタート！”](http://toyota-team8.jp/news/kanto/20171004-739951630732338.php). *AKB48 Team 8公式ホームページ* (AKS). (2017年10月4日) 2017年10月6日閲覧。
 16. 2016年4月までAKB48メンバー。
 17.
 18.
 19.
 20.
 21. [“AKB48の“怪物”矢作萌夏が「ミライ☆モンスター」新MCに”](https://natalie.mu/music/news/325997). *音楽ナタリー* (ナターシャ). (2019年3月31日) 2019年4月1日閲覧。
-22. [岡部麟がフジテレビ系「ミライ☆モンスター」にレギュラー出演決定！](https://toyota-team8.jp/news/list/20191229-416293779058945.php).AKB48 Team 8ホームページ. (2019年12月29日) 2019年12月29日閲覧。
+22. [“岡部麟がフジテレビ系「ミライ☆モンスター」にレギュラー出演決定！”](https://toyota-team8.jp/news/list/20191229-416293779058945.php). *AKB48 Team 8ホームページ* (AKS). (2019年12月29日) 2019年12月29日閲覧。
 23.
 24.
 25.
@@ -437,34 +441,34 @@
 92.
 93.
 94.
-95. [AKB48向井地美音の“通訳”にウッチャン驚き 世界8都市エースと「恋チュン」＜紅白本番＞](https://mdpr.jp/music/detail/1925328).モデルプレス (ネットネイティブ). (2019年12月31日) 2019年12月31日閲覧。
-96. [CDTV年越しSPにPerfume、aiko、セカオワ、金爆、SMAP他](http://natalie.mu/music/news/61901).ナタリー (ナターシャ). (2012年12月27日) 2017年6月14日閲覧。
-97. [年越しCDTVにフラカン、シド、HY、渡り廊下ら18組追加](http://natalie.mu/music/news/106919).ナタリー (ナターシャ). (2013年12月31日) 2017年6月14日閲覧。
-98. [CDTV年越し特番にaiko、KANA-BOON、乃木坂、Perfumeら追加](http://natalie.mu/music/news/134649).ナタリー (ナターシャ). (2014年12月24日) 2017年6月14日閲覧。
-99. [CDTV年越し特番第1弾は三代目、乃木坂、いきもの、バクナン、金爆ら](http://natalie.mu/music/news/169127).ナタリー (ナターシャ). (2015年12月13日) 2017年6月14日閲覧。
-100. [「CDTV」年越し特番にアレキ、AKB48、乃木坂46、バクナンら](http://natalie.mu/music/news/213826).ナタリー (ナターシャ). (2016年12月19日) 2017年6月14日閲覧。
-101. [「CDTV」年越し特番に星野源、セカオワ、乃木坂46ら55組出演](http://natalie.mu/music/news/262772).ナタリー (ナターシャ). (2017年12月25日) 2018年1月1日閲覧。
-102. [「CDTV」大晦日特番で中居正広が6年ぶりMC、キスマイや三代目ら出演者第1弾も発表](http://natalie.mu/music/news/313609).ナタリー (ナターシャ). (2018年12月24日) 2018年12月25日閲覧。
-103. [「CDTV」年越し特番にジャニーズ5組、E-girls、King Gnu、Foorin、乃木坂、日向坂ら](https://natalie.mu/music/news/360756).ナタリー (ナターシャ). (2019年12月24日) 2019年12月24日閲覧。
-104. [AKB48・乃木坂46・きゃりーらが「ベストヒット歌謡祭」で豪華集結 スペシャル演出繰り出す](https://mdpr.jp/music/detail/1636607).モデルプレス (ネットネイティブ). (2016年11月17日) 2017年3月29日閲覧。
-105. [関ジャニ∞・AKB48・三代目JSB・乃木坂46ら「ベストヒット歌謡祭2017」出演者発表＜全18組＞](https://mdpr.jp/music/detail/1724549).モデルプレス (ネットネイティブ). (2017年11月1日) 2017年11月1日閲覧。
-106. [ベストヒット歌謡祭にDA PUMPら豪華20組](https://www.nikkansports.com/entertainment/news/201810310000674.html).日刊スポーツ (日刊スポーツ新聞社). (2018年11月1日) 2018年11月1日閲覧。
-107. [『ベストヒット歌謡祭』関ジャニ∞、乃木坂46ら出演者24組一挙発表](https://www.oricon.co.jp/news/2147780/full/).ORICON NEWS (oricon ME).(2019年11月1日) 2019年11月1日閲覧。
-108. [明日生放送「FNS歌謡祭」リハ現場で豪華コラボ入念練習](http://natalie.mu/music/news/81036).ナタリー (ナターシャ).(2012年12月4日) 2017年3月29日閲覧。
-109. [全76曲演奏\! FNS歌謡祭コラボ一部判明&フミヤ、秦ら追加](http://natalie.mu/music/news/104195).ナタリー (ナターシャ).(2013年11月22日) 2017年3月29日閲覧。
-110. [「FNS歌謡祭」にセカオワ、ももクロ、Perfume、GLAY、aikoら集結](http://natalie.mu/music/news/130757).ナタリー (ナターシャ).(2014年11月8日) 2017年3月29日閲覧。
-111. [「FNS歌謡祭」第2弾でセカオワ、エビ中、ゲス、℃-ute、欅坂ら追加](http://natalie.mu/music/news/167414).ナタリー (ナターシャ).(2015年11月28日) 2017年3月29日閲覧。
+95. [“AKB48向井地美音の“通訳”にウッチャン驚き 世界8都市エースと「恋チュン」＜紅白本番＞”](https://mdpr.jp/music/detail/1925328). *モデルプレス* (ネットネイティブ). (2019年12月31日) 2019年12月31日閲覧。
+96. [“CDTV年越しSPにPerfume、aiko、セカオワ、金爆、SMAP他”](http://natalie.mu/music/news/61901). *ナタリー* (ナターシャ). (2012年12月27日) 2017年6月14日閲覧。
+97. [“年越しCDTVにフラカン、シド、HY、渡り廊下ら18組追加”](http://natalie.mu/music/news/106919). *ナタリー* (ナターシャ). (2013年12月31日) 2017年6月14日閲覧。
+98. [“CDTV年越し特番にaiko、KANA-BOON、乃木坂、Perfumeら追加”](http://natalie.mu/music/news/134649). *ナタリー* (ナターシャ). (2014年12月24日) 2017年6月14日閲覧。
+99. [“CDTV年越し特番第1弾は三代目、乃木坂、いきもの、バクナン、金爆ら”](http://natalie.mu/music/news/169127). *ナタリー* (ナターシャ). (2015年12月13日) 2017年6月14日閲覧。
+100. [“「CDTV」年越し特番にアレキ、AKB48、乃木坂46、バクナンら”](http://natalie.mu/music/news/213826). *ナタリー* (ナターシャ). (2016年12月19日) 2017年6月14日閲覧。
+101. [“「CDTV」年越し特番に星野源、セカオワ、乃木坂46ら55組出演”](http://natalie.mu/music/news/262772). *ナタリー* (ナターシャ). (2017年12月25日) 2018年1月1日閲覧。
+102. [“「CDTV」大晦日特番で中居正広が6年ぶりMC、キスマイや三代目ら出演者第1弾も発表”](http://natalie.mu/music/news/313609). *ナタリー* (ナターシャ). (2018年12月24日) 2018年12月25日閲覧。
+103. [“「CDTV」年越し特番にジャニーズ5組、E-girls、King Gnu、Foorin、乃木坂、日向坂ら”](https://natalie.mu/music/news/360756). *ナタリー* (ナターシャ). (2019年12月24日) 2019年12月24日閲覧。
+104. [“AKB48・乃木坂46・きゃりーらが「ベストヒット歌謡祭」で豪華集結 スペシャル演出繰り出す”](https://mdpr.jp/music/detail/1636607). *モデルプレス* (ネットネイティブ). (2016年11月17日) 2017年3月29日閲覧。
+105. [“関ジャニ∞・AKB48・三代目JSB・乃木坂46ら「ベストヒット歌謡祭2017」出演者発表＜全18組＞”](https://mdpr.jp/music/detail/1724549). *モデルプレス* (ネットネイティブ). (2017年11月1日) 2017年11月1日閲覧。
+106. [“ベストヒット歌謡祭にDA PUMPら豪華20組”](https://www.nikkansports.com/entertainment/news/201810310000674.html). *日刊スポーツ* (日刊スポーツ新聞社). (2018年11月1日) 2018年11月1日閲覧。
+107. [“『ベストヒット歌謡祭』関ジャニ∞、乃木坂46ら出演者24組一挙発表”](https://www.oricon.co.jp/news/2147780/full/). *ORICON NEWS* (oricon ME). (2019年11月1日) 2019年11月1日閲覧。
+108. [“明日生放送「FNS歌謡祭」リハ現場で豪華コラボ入念練習”](http://natalie.mu/music/news/81036). *ナタリー* (ナターシャ). (2012年12月4日) 2017年3月29日閲覧。
+109. [“全76曲演奏\! FNS歌謡祭コラボ一部判明&フミヤ、秦ら追加”](http://natalie.mu/music/news/104195). *ナタリー* (ナターシャ). (2013年11月22日) 2017年3月29日閲覧。
+110. [“「FNS歌謡祭」にセカオワ、ももクロ、Perfume、GLAY、aikoら集結”](http://natalie.mu/music/news/130757). *ナタリー* (ナターシャ). (2014年11月8日) 2017年3月29日閲覧。
+111. [“「FNS歌謡祭」第2弾でセカオワ、エビ中、ゲス、℃-ute、欅坂ら追加”](http://natalie.mu/music/news/167414). *ナタリー* (ナターシャ). (2015年11月28日) 2017年3月29日閲覧。
 112.
-113. [「FNS歌謡祭」2週連続で計8時間半放送、出演アーティスト第1弾も発表](http://natalie.mu/music/news/209993).ナタリー (ナターシャ).(2016年11月19日) 2017年11月16日閲覧。
-114. [「FNS歌謡祭」第1弾はB'z、嵐、三代目、乃木坂、aiko、バクナン、Perfumeら47組](http://natalie.mu/music/news/256967).ナタリー (ナターシャ).(2017年11月16日) 2017年11月16日閲覧。
-115. [「FNS歌謡祭」に嵐、すみぺ、キンキ、DA PUMP、キンプリ、ミセス、WANIMAら](https://natalie.mu/music/news/308160).音楽ナタリー (ナターシャ).(2018年11月16日) 2018年11月17日閲覧。
-116. [「FNS歌謡祭」第2夜に星野源、鬼龍院翔、B.B.クィーンズら登場](https://natalie.mu/music/news/310969).音楽ナタリー (ナターシャ).(2018年12月5日) 2018年12月8日閲覧。
-117. [嵐・EXILE・AKB48・乃木坂46ら「FNS歌謡祭」出演アーティスト33組発表](https://mdpr.jp/news/detail/1895235).モデルプレス(ネットネイティブ).(2019年11月14日) 2019年11月14日閲覧。
-118. [【AKB48】本日12/4(水) フジテレビ系『2019 FNS歌謡祭 第1夜』](https://ameblo.jp/akihabara48/entry-12552724391.html).AKB48公式ブログ.(2019年12月4日) 2019年12月4日閲覧。
-119. [日テレ「ベストアーティスト」にaiko、三代目、アレキ、イエモンら30組追加](http://natalie.mu/music/news/210052).ナタリー (ナターシャ).(2016年11月19日) 2017年3月29日閲覧。
-120. [日テレ「ベストアーティスト」で嵐×乃木坂46コラボ実現、星野源ら追加6組](http://natalie.mu/music/news/257365).ナタリー (ナターシャ).(2017年11月18日) 2017年11月20日閲覧。
-121. [AKB48、憧れの“ダンス”メンバーは?「ゆきりんさんは魅せ方が上手](https://www.oricon.co.jp/news/2124357/full/).ORICON NEWS (oricon ME).(2018年11月28日) 2018年12月18日閲覧。
-122. [AKB48『ベストアーティスト』で“ハモリ曲”「愛する人」初披露](https://www.oricon.co.jp/news/2149532/full/).ORICON NEWS (oricon ME).(2019年11月25日) 2019年11月27日閲覧。
+113. [“「FNS歌謡祭」2週連続で計8時間半放送、出演アーティスト第1弾も発表”](http://natalie.mu/music/news/209993). *ナタリー* (ナターシャ). (2016年11月19日) 2017年11月16日閲覧。
+114. [“「FNS歌謡祭」第1弾はB'z、嵐、三代目、乃木坂、aiko、バクナン、Perfumeら47組”](http://natalie.mu/music/news/256967). *ナタリー* (ナターシャ). (2017年11月16日) 2017年11月16日閲覧。
+115. [“「FNS歌謡祭」に嵐、すみぺ、キンキ、DA PUMP、キンプリ、ミセス、WANIMAら”](https://natalie.mu/music/news/308160). *音楽ナタリー* (ナターシャ). (2018年11月16日) 2018年11月17日閲覧。
+116. [“「FNS歌謡祭」第2夜に星野源、鬼龍院翔、B.B.クィーンズら登場”](https://natalie.mu/music/news/310969). *音楽ナタリー* (ナターシャ). (2018年12月5日) 2018年12月8日閲覧。
+117. [嵐・EXILE・AKB48・乃木坂46ら「FNS歌謡祭」出演アーティスト33組発表](https://mdpr.jp/news/detail/1895235). *モデルプレス* (ネットネイティブ). (2019年11月14日) 2019年11月14日閲覧。
+118. “[【AKB48】本日12/4(水) フジテレビ系『2019 FNS歌謡祭 第1夜』](https://ameblo.jp/akihabara48/entry-12552724391.html)”. *AKB48公式ブログ*. CyberAgent (2019年12月4日). 2019年12月4日閲覧。
+119. [“日テレ「ベストアーティスト」にaiko、三代目、アレキ、イエモンら30組追加”](http://natalie.mu/music/news/210052). *ナタリー* (ナターシャ). (2016年11月19日) 2017年3月29日閲覧。
+120. [“日テレ「ベストアーティスト」で嵐×乃木坂46コラボ実現、星野源ら追加6組”](http://natalie.mu/music/news/257365). *ナタリー* (ナターシャ). (2017年11月18日) 2017年11月20日閲覧。
+121. [“AKB48、憧れの“ダンス”メンバーは?「ゆきりんさんは魅せ方が上手”](https://www.oricon.co.jp/news/2124357/full/). *ORICON NEWS* (oricon ME). (2018年11月28日) 2018年12月18日閲覧。
+122. [“AKB48『ベストアーティスト』で“ハモリ曲”「愛する人」初披露”](https://www.oricon.co.jp/news/2149532/full/). *ORICON NEWS* (oricon ME). (2019年11月25日) 2019年11月27日閲覧。
 123.
 124.
 125.
@@ -479,8 +483,8 @@
 134.
 135.
 136.
-137. 出演メンバー：大家・柏木・片山・北原・倉持・小嶋陽・佐藤亜・佐藤す・高城・高橋み・仁藤・藤江れ・前田敦・松井咲・峯岸+SKE48（松井玲）
-138.
+137. [“『音楽の日2020』、服部克久追悼企画で谷村新司が「昴 -すばる-」歌唱”](https://www.barks.jp/news/?id=1000185811). *BARKS* (イード). (2020年7月17日) 2020年7月17日閲覧。
+138. 出演メンバー：大家・柏木・片山・北原・倉持・小嶋陽・佐藤亜・佐藤す・高城・高橋み・仁藤・藤江れ・前田敦・松井咲・峯岸+SKE48（松井玲）
 139.
 140.
 141.
@@ -502,13 +506,15 @@
 157.
 158.
 159.
-160. [「CDTV」3・16卒業ソング特番 出演者第1弾は関ジャニ∞、乃木坂46ら13組](https://www.oricon.co.jp/news/2156973/full/).ORICON NEWS (oricon ME).(2020年3月7日) 2020年3月7日閲覧。
+160.
 161.
-162.
+162. [「CDTV」3・16卒業ソング特番 出演者第1弾は関ジャニ∞、乃木坂46ら13組](https://www.oricon.co.jp/news/2156973/full/).ORICON NEWS (oricon ME).(2020年3月7日) 2020年3月7日閲覧。
 163.
 164.
-165. [AKB48×モー娘。×ももクロが10年ぶり共演 NHKにアイドル7組68人が大集結](https://www.oricon.co.jp/news/2158090/full/). ORICON NEWS (oricon ME). (2020年3月23日) 2020年3月23日閲覧。
-166. [AKB48×モー娘×ももクロ共演番組 歌唱曲公開 それぞれの持ち味が全開](https://www.oricon.co.jp/news/2158422/full/). ORICON NEWS (oricon ME). (2020年3月27日) 2020年3月29日閲覧。
-167. [今こそ日本中に届けたい、アイドルのチカラ！AKB48、SKE48、＝LOVE、≠ME、たこ虹がライブさながらのパフォーマンス！特別音楽番組『アイドルのチカラ』放送決定！](https://www.jiji.com/jc/article?k=000001011.000003065&g=prt). 時事ドットコムニュース (時事通信社). (2020年3月25日) 2020年3月26日閲覧。
-168. CS・ファミリー劇場においても数回の再放送。
-169. [「AKB48の2011年に密着したドキュメンタリー、NHKで放送」](http://www.oricon.co.jp/news/movie/2005408/full/) - オリコン（2012年1月5日）
+165.
+166.
+167. [“AKB48×モー娘。×ももクロが10年ぶり共演 NHKにアイドル7組68人が大集結”](https://www.oricon.co.jp/news/2158090/full/). *ORICON NEWS* (oricon ME). (2020年3月23日) 2020年3月23日閲覧。
+168. [“AKB48×モー娘×ももクロ共演番組 歌唱曲公開 それぞれの持ち味が全開”](https://www.oricon.co.jp/news/2158422/full/). *ORICON NEWS* (oricon ME). (2020年3月27日) 2020年3月29日閲覧。
+169.
+170. CS・ファミリー劇場においても数回の再放送。
+171. [「AKB48の2011年に密着したドキュメンタリー、NHKで放送」](http://www.oricon.co.jp/news/movie/2005408/full/) - オリコン（2012年1月5日）

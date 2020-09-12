@@ -1,7 +1,7 @@
 > この記事は[DJ リーサル](https://ja.wikipedia.org/wiki/DJ_リーサル)から翻訳されています。
 
 
-**レアーズ・ディマンツ** （  、  [1972年](../Page/1972年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - ）は、 **DJ Lethal**として知られる[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。[リンプ・ビズキット](../Page/リンプ・ビズキット.md "wikilink")のDJ担当。ラトビア系アメリカ人。
+**レアーズ・ディマンツ**（、、 [1972年](../Page/1972年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - ）は、 **DJ Lethal**として知られる[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。[リンプ・ビズキット](../Page/リンプ・ビズキット.md "wikilink")のDJ担当。ラトビア系アメリカ人。
 
 ## 来歴
 
@@ -22,6 +22,4 @@
   - [Myspaceの公式ページ](http://www.myspace.com/djlethal)
   - [致死量の記録](http://www.lethaldoserecords.com)
 
-## 参考文献
-
-[Category:アメリカ合衆国のテレビプロデューサー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビプロデューサー "wikilink") [Category:アメリカ合衆国のDJ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のDJ "wikilink") [Category:リガ出身の人物](https://ja.wikipedia.org/wiki/Category:リガ出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ユダヤ系ラトビア人](https://ja.wikipedia.org/wiki/Category:ユダヤ系ラトビア人 "wikilink") [Category:ラトビアのミュージシャン](https://ja.wikipedia.org/wiki/Category:ラトビアのミュージシャン "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink")
+[Category:アメリカ合衆国のテレビプロデューサー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビプロデューサー "wikilink") [Category:アメリカ合衆国のDJ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のDJ "wikilink") [Category:ユダヤ系ラトビア人](https://ja.wikipedia.org/wiki/Category:ユダヤ系ラトビア人 "wikilink") [Category:ラトビアのミュージシャン](https://ja.wikipedia.org/wiki/Category:ラトビアのミュージシャン "wikilink") [Category:リガ出身の人物](https://ja.wikipedia.org/wiki/Category:リガ出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

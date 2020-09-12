@@ -1,7 +1,7 @@
 > この記事は[Xbox Series X](https://ja.wikipedia.org/wiki/Xbox_Series_X)から翻訳されています。
 
 
-**Xbox Series X**（エックスボックス シリーズ エックス）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[2020年](../Page/2020年.md "wikilink")末に発売を予定している[家庭用ゲーム機の総称及びその開発プロジェクト](../Page/ゲーム機.md "wikilink")。ゲーム機の名称は単に「**Xbox**」であり、「Series X」の部分は、例えば機種の細分を示す語などと置き換える代名詞である \[1\]。正式名称の発表前は「Project Scarlett」（プロジェクト・スカーレット）と呼ばれていた\[2\]。
+**Xbox Series X**（エックスボックス シリーズ エックス）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[2020年](../Page/2020年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売を予定している[家庭用ゲーム機の総称及びその開発プロジェクト](../Page/ゲーム機.md "wikilink")。ゲーム機の名称は単に「**Xbox**」であり、「Series X」の部分は、例えば機種の細分を示す語などと置き換える代名詞である \[1\]。正式名称の発表前は「Project Scarlett」（プロジェクト・スカーレット）と呼ばれていた\[2\]。
 
 ## 概要
 

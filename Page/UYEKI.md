@@ -15,4 +15,4 @@
 
   - [UYEKI](http://www.uyeki.co.jp/) - 公式サイト
 
-[Category:日本の化学工業メーカー](https://ja.wikipedia.org/wiki/Category:日本の化学工業メーカー "wikilink") [Category:石鹸・洗剤メーカー](https://ja.wikipedia.org/wiki/Category:石鹸・洗剤メーカー "wikilink") [Category:大阪市の企業](https://ja.wikipedia.org/wiki/Category:大阪市の企業 "wikilink") [Category:1981年設立の企業](https://ja.wikipedia.org/wiki/Category:1981年設立の企業 "wikilink")
+[Category:日本の化学工業メーカー](https://ja.wikipedia.org/wiki/Category:日本の化学工業メーカー "wikilink") [Category:石鹸・洗剤メーカー](https://ja.wikipedia.org/wiki/Category:石鹸・洗剤メーカー "wikilink") [Category:淀川区の企業](https://ja.wikipedia.org/wiki/Category:淀川区の企業 "wikilink") [Category:1981年設立の企業](https://ja.wikipedia.org/wiki/Category:1981年設立の企業 "wikilink")

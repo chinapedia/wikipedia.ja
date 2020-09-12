@@ -7,132 +7,39 @@
 
 ## 来歴
 
-[2014年](../Page/2014年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")からYouTubeに動画を投稿し始めた\[2\]。
+[2014年](../Page/2014年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")にYouTubeチャンネルを開設し[8月5日](../Page/8月5日.md "wikilink")から動画を投稿し始めた\[2\]\[3\]。
 
-[大分東名高等学校](../Page/大分東明高等学校・向陽中学校.md "wikilink")\[3\]に進学し、ネットでビジネスを展開しながら医者を目指していたドズルは猛勉強し一浪したが[大分大学](https://ja.wikipedia.org/wiki/大分大学 "wikilink")医学部\[4\]に合格し進学した。在学中に勉強に飽きてしまい大学を休学して新しいビジネスを始めたが将来に不安を感じ再び医者になることを決意し医学部に戻り勉強した。その頃はすでにYouTubeの活動を始めており医者になるかYouTuberになるのか迷っていたがYouTuberになることを決断する\[5\]。
+[大分東明高等学校](../Page/大分東明高等学校・向陽中学校.md "wikilink")\[4\]に進学した。高校在学中、最初に熱中していたゲームは[PSPの](../Page/PlayStation_Portable.md "wikilink")『[モンスターハンター ポータブル](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル "wikilink")』である\[5\]。一浪後[大分大学](https://ja.wikipedia.org/wiki/大分大学 "wikilink")医学部\[6\]に合格。大学2年生のとき学校に行けない時期があった\[7\]。在学中に勉強に飽きてしまい大学を休学して新規ビジネスを始めたが、将来に不安を感たため再び医者になることを決意し復学する。その頃はすでにYouTubeの活動を始めており医者になるかYouTuberになるのか迷った末にYouTuberになることを決断する\[8\]。
 
-[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を始めたきっかけは当時『[クラッシュ・オブ・クラン](https://ja.wikipedia.org/wiki/クラッシュ・オブ・クラン "wikilink")』に、はまっておりクランメンバーにゲームにことを教えることが多くなった\[6\]。さらに、知人に結婚式のムービーを作ってくれと頼まれ初めて動画編集した\[7\]。このことがきっかけとなり動画を撮りYouTubeに実況動画を投稿した。『クラッシュ・オブ・クラン』を始めたきっかけはアプリランキングで見つけ面白そうだと思い、やり始めたと語っている\[8\]。
+ゲーム以外にも中学から大学まで[バレーボール](../Page/バレーボール.md "wikilink")をしており現在でも時々プレイしている\[9\]。
 
-その後、ドズルチャンネルのメインコンテンツとなる『[クラッシュ・ロワイヤル](https://ja.wikipedia.org/wiki/クラッシュ・ロワイヤル "wikilink")』では、プロリーグである『クラロワリーグアジア』や『クラロワリーグイースト』で実況、解説を務めている。
+『クラッシュ・オブ・クラン』を始めたきっかけはアプリランキングの上位のアプリをひたすらプレイしその流れでやり始めたと語っている。『[クラッシュ・ロワイヤル](https://ja.wikipedia.org/wiki/クラッシュ・ロワイヤル "wikilink")』はリリースすると言う情報を聞きつけリリース当日からプレイしている\[10\]。
 
-ぼんじゅうるがYouTubeを始めたきっかけは当時は役者をしていたがオーディションに合格できず、新たなるチャンスを求めて動画投稿を始めた\[9\]。
+その後、ドズルチャンネルのメインコンテンツとなる『[クラッシュ・ロワイヤル](https://ja.wikipedia.org/wiki/クラッシュ・ロワイヤル "wikilink")』では、プロリーグである『クラロワリーグアジア』や『クラロワリーグイースト』で実況、解説を務めている。実況解説の傍ら、主に[ぼんじゅうる](https://ja.wikipedia.org/wiki/ぼんじゅうる "wikilink")とコンビを組みコンテンツ投稿、ならびに『ドズぼんラジオ』を定期的に投稿している。
 
-ドズルとぼんじゅうるが出会ったきっかけは、『クラッシュ・ロワイヤル』のイベントとして毎週月曜日に行われていた『クラロワコロシアム』でゲストがおらず[Twitter](../Page/Twitter.md "wikilink")でゲストを募集した。その後、ぼんじゅうる側から連絡が来て撮影をすることになった\[10\]\[11\]。その後、数回動画に出演した後に『株式会社ドズル』に入社しレギュラーメンバーになった\[12\]\[13\]。
+[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで本業とは別でYouTube活動をしていた\[11\]が、視聴者がスポンサーとして活動支援する『ドズ主』を発足し日本一のゲーム実況者になることを志す\[12\]。
 
-[2018年](../Page/2018年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に投稿した動画で結婚したことを報告した\[14\]。
+[2020年](../Page/2020年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")後半ごろから自身のYouTubeメインチャンネルで広告がつかないバグが発生していることを動画で報告した\[13\]。 同年4月27日このことを受けメインチャンネルを休止し新チャンネルへ移行すると発表した\[14\]。4月28日から緊急対応としてYouTube側で広告をつけているがドズル自身では動画に広告をつけることができない状況が続いている\[15\]。同年5月3日にメインチャンネルで新チャンネルに移行したことを改めて報告した\[16\]。5月10日には新チャンネルの登録者が10万人を突破した。
 
-[2019年](../Page/2019年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に投稿した動画でぼんじゅうるのメインチャンネルである 『[ぼんじゅうるTV/Bonjore TV](https://www.youtube.com/channel/UCIW6CwOxXZE5239TgC9bT3A)』を削除したことを報告した\[15\]。しかし実際はチャンネルを削除したのではなく動画を全て削除したのが事実である。
+同年[6月13日](../Page/6月13日.md "wikilink")に『クラロワ最強決定戦』を開催する為に[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")で資金を募り同月[12日の時点で](../Page/6月12日.md "wikilink")550万円を突破した\[17\]。
 
-[2020年](../Page/2020年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")後半ごろから自身のYouTubeメインチャンネルで広告がつかないバグが発生していることを動画で報告した\[16\]\[17\]。 同年4月27日このことを受けメインチャンネルを休止し新チャンネルへ移行すると発表した\[18\]\[19\]\[20\]\[21\]\[22\]。4月28日から緊急対応としてYouTube側で広告をつけているがドズル自身では動画に広告をつけることができない状況が続いている\[23\]\[24\]\[25\]\[26\]。同年5月3日にメインチャンネルで新チャンネルに移行したことを改めて報告した\[27\]。5月10日には新チャンネルの登録者が10万人を突破した\[28\]\[29\]。
+現在はYouTubeだけではなく[ライブストリーミングサービスである](https://ja.wikipedia.org/wiki/ライブ動画配信サービス "wikilink")『[Mildom（ミルダム）](../Page/闘魚_\(ストリーミングサービス\).md "wikilink")』でも配信している\[18\]。
 
-## メンバー
+## ぼんじゅうるとの関係
 
-<table>
-<thead>
-<tr class="header">
-<th><p>名前</p></th>
-<th><p>プロフィール</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>ドズル</strong></p></td>
-<td><p><br />
- <a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>ぼんじゅうる</strong></p></td>
-<td><p><br />
- <a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
-<td><p>{{Infobox YouTube personality</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+[ぼんじゅうる](https://ja.wikipedia.org/wiki/ぼんじゅうる "wikilink")は役者をしていたがオーディションに合格できず、新たなるチャンスを求めて動画投稿を始めた\[19\]。
 
-### その他
+ドズルとぼんじゅうるが出会ったきっかけは、『クラッシュ・ロワイヤル』のイベントとして毎週月曜日に行われていた『クラロワコロシアム』でゲストがおらず[Twitter](../Page/Twitter.md "wikilink")でゲストを募集した際に、ぼんじゅうる側から連絡が来て撮影をすることになったことである\[20\]。その後、数回動画に出演した後に『株式会社ドズル』に入社しレギュラーメンバーになった\[21\]。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>名前</p></th>
-<th><p>プロフィール</p></th>
-<th><p>チャンネル</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>カズマウント</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>|}}<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>ちるま</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>|}}<br />
-</p></td>
-<td><p>{{Infobox YouTube personality</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>てっぺー</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>|}}<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>ネコおじ</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>11|03}}<br />
-</p></td>
-<td><p>{{Infobox YouTube personality</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>ばっさー</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>|}}<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>はっしー</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>12|01}}<br />
-</p></td>
-<td><p>{{Infobox YouTube personality</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>ponta</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>11|25}}<br />
-</p></td>
-<td><p>{{Infobox YouTube personality</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>みるく<br />
-（ヨメル）</strong></p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>04|08}}<br />
- <a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+## 動画の種類
+
+  - [クラッシュ・ロワイヤル](https://ja.wikipedia.org/wiki/クラッシュ・ロワイヤル "wikilink")
+  - [クラッシュ・オブ・クラン](https://ja.wikipedia.org/wiki/クラッシュ・オブ・クラン "wikilink")
+  - [Minecraft](https://ja.wikipedia.org/wiki/Minecraft "wikilink")
+      - ドズクラ
+      - 視聴者参加型シリーズ
+      - カズクラコラボ
+  - [フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")
 
 ## 脚注
 
@@ -146,6 +53,8 @@
 ## 外部リンク
 
   -
+  - [Studio Coup ドズル](https://studio-coup.thecoo.co.jp/#yt07)
+
   - YouTube
 
       -
@@ -157,6 +66,7 @@
       -
       -
       -
+  -
   -
   -
   -
@@ -183,11 +93,3 @@
 19.
 20.
 21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.

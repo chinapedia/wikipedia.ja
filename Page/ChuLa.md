@@ -184,7 +184,7 @@
 <th><p>タイトル</p></th>
 <th><p>リリース日</p></th>
 <th><p>収録曲</p></th>
-<th><p>順位</p></th>
+<th><p>最高位</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -199,7 +199,7 @@
 <li>閃光8</li>
 <li>完全無敵あいうえお (Instrument)</li>
 </ol></td>
-<td></td>
+<td><p>4位(デイリー1位)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -237,6 +237,7 @@
 
   - (作詞・作編曲:Zactori)
 
+  -
 
 
 ## イベント
@@ -426,55 +427,61 @@
 <td><p>3月3日</p></td>
 </tr>
 <tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>3月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月11日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月14日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>対バンライブ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月15日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月17日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>撮影会</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>リリースイベント,対バンライブ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>対バンライブ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月22日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月4日</p></td>
@@ -483,7 +490,97 @@
 <td><p>7月5日</p></td>
 </tr>
 <tr class="odd">
-<td><p>7月9日</p></td>
+<td><p>7月10日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>対バンライブ</p></td>
+</tr>
+<tr class="even">
+<td><p>7月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月21日</p></td>
+</tr>
+<tr class="odd">
+<td><p>定期公演</p></td>
+</tr>
+<tr class="even">
+<td><p>7月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>対バンライブ</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月26日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月31日</p></td>
+</tr>
+<tr class="odd">
+<td><p>単独公演</p></td>
+</tr>
+<tr class="even">
+<td><p>8月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p>ワンマンライブ</p></td>
+</tr>
+<tr class="even">
+<td><p>8月2日</p></td>
+</tr>
+<tr class="odd">
+<td><p>生誕祭</p></td>
+</tr>
+<tr class="even">
+<td><p>8月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>対バンライブ</p></td>
+</tr>
+<tr class="even">
+<td><p>8月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>8月22日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月23日</p></td>
+</tr>
+<tr class="even">
+<td><p>8月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月5日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>9月19日</p></td>
@@ -498,12 +595,16 @@
   - 「chuLaの ちゅらららじお！」 (Shibuya-Cross FM、2017年5月2日 - ) 月1回程度放送。
   - 「[NON STYLE](../Page/NON_STYLE.md "wikilink")[井上の渋谷ジャック](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")」(Shibuya-Cross FM、2018年10月28日) ゲスト出演
   - 「[上月せれな](https://ja.wikipedia.org/wiki/上月せれな "wikilink")のラジオモンスター」([エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、2019年7月16日) ゲスト出演
+  - 「[キラメキ ミュージック スター「キラスタ」](https://ja.wikipedia.org/wiki/キラメキ_ミュージック_スター「キラスタ」 "wikilink")」([NACK5](../Page/エフエムナックファイブ.md "wikilink")、2020年5月18日) コメント出演
+  - 「rock field 897」([InterFM](../Page/InterFM.md "wikilink")、2020年5月18日)
 
 ### テレビ
 
   - 「[アイドルゾーン20時](https://ja.wikipedia.org/wiki/アイドルゾーン20時 "wikilink")」（[TOKYO MX2](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2019年4月1日 - 6月21日）金曜レギュラー\[10\]
   - 「[この指と〜まれ\!](https://ja.wikipedia.org/wiki/この指と〜まれ! "wikilink")season3」 ([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、2019年7月29日)
   - 「バリふり\!\!\!」（TOKYO MX2、2019年8月18日 -、日曜隔週）
+  - 「13分のステージ」([tvk](../Page/テレビ神奈川.md "wikilink")、2020年5月21日、5月28日)
+  - 「[関内デビル](https://ja.wikipedia.org/wiki/関内デビル "wikilink")」(tvk、2020年6月2日)
 
 ### ウェブテレビ
 

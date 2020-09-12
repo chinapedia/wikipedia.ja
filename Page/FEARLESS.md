@@ -3,7 +3,7 @@
 
 **FEARLESS**（フィアレス）とは、[2017年](../Page/2017年.md "wikilink")10月5日にデビューした日本の男性ダンス&ボーカルグループ。
 
-所属[事務所](../Page/事務所.md "wikilink")はMovingFactory。
+所属[事務所はMovingFactory](../Page/芸能事務所.md "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 ## 特徴
 
-グループ名の**FEARLESS**とは“**恐れを知らない**”、“**怖いもの知らず**”という意味があり、ハイクオリティなパフォーマンスと楽曲で見る者を圧倒するダンス＆ボーカルグループ。ダンスミュージックに特化したサウンドで次世代の頂点を目指す（公式参照）。
+グループ名の**FEARLESS**とは“**恐れを知らない**”、“**怖いもの知らず**”という意味があり、ハイクオリティなパフォーマンスと楽曲で見る者を圧倒するダンス＆ボーカルグループ。ダンスミュージックに特化したサウンドで次世代の頂点を目指す。
 
 グループのイメージカラーは**[赤](../Page/赤.md "wikilink")**。
 
@@ -82,10 +82,14 @@
 
   - Sugar Drops
 
+### ■配信限定曲『Be my self』(2020年7月6日初披露/配信日未定)
+
+  - Be my self
+
 ## 外部リンク
 
   - [公式サイト](https://moving-factory.com/artist/fearless/) - moving factoryによるFEARLESSアーティストページ
   - Twitter - [FEARLESS公式](https://twitter.com/FEARLESS_form)、[KANJU](https://twitter.com/KanjuMf)、[TAIGA](https://twitter.com/TaigaFearless)、[HAYATO](https://twitter.com/FearlessHayato)、[KAZUYA](https://twitter.com/KazuyaFearless)、[SUMIYA](https://twitter.com/FEARLESS_SUMIYA)、[RAiKI](https://twitter.com/RAiKI_FearIess)
   - YouTube - [moving factory公式](https://www.youtube.com/channel/UC8FEQAwQFjOfXE4u3znKzQA)、[FLSチャンネル](https://www.youtube.com/channel/UCRX9BBTBBCsu1-2XDCbURWg)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")

@@ -15,13 +15,15 @@
 
 ### 2020年
 
-  - 1月1日 - 大須TOYSにてデビュー。チケットはsold out。\[3\]
-  - 1月3日 - 名古屋最大規模のサーキットイベント[「でらロックフェスティバル2020」](https://ja.wikipedia.org/wiki/「でらロックフェスティバル2020」 "wikilink")に出演決定。\[4\]
+  - 1月1日 - 大須TOYSにてデビュー。チケットはsold out\[3\]。
+  - 1月3日 - 名古屋最大規模のサーキットイベント[「でらロックフェスティバル2020」](https://ja.wikipedia.org/wiki/「でらロックフェスティバル2020」 "wikilink")に出演決定\[4\]。
   - 1月18日 - デビュー時にお披露目した楽曲RED EYE、Emerald Mist、X.Y.Zの配信開始。
-  - 2月10日 - 浅川ももの除籍を発表。理由は不明。\[5\]
-  - 2月25日 - 椛ゆいの脱退を発表。\[6\]
-  - 2月25日 - 新メンバー桃白みずきの加入を発表。\[7\]
-  - 3月1日 - きらの除籍を発表。\[8\]
+  - 2月10日 - 浅川ももの除籍を発表。理由は不明\[5\]。
+  - 2月25日 - 椛ゆいの脱退を発表\[6\]。
+  - 2月25日 - 新メンバー桃白みずきの加入を発表\[7\]。
+  - 3月1日 - きらの除籍を発表\[8\]。
+  - 5月13日 - 節子の脱退を発表\[9\]。
+  - 6月17日 - じっとの脱退を発表\[10\]。
 
 ## メンバー
 
@@ -117,15 +119,15 @@
 
 ### 2020年
 
-  - 1月1日 - The beginning of everything（[名古屋](../Page/名古屋.md "wikilink")・TOYS）\[9\]
-  - 2月1日 - でらロックフェスティバル2020（[名古屋](../Page/名古屋.md "wikilink")・CLUB Zion）\[10\]
+  - 1月1日 - The beginning of everything（[名古屋](../Page/名古屋.md "wikilink")・TOYS）\[11\]
+  - 2月1日 - でらロックフェスティバル2020（[名古屋](../Page/名古屋.md "wikilink")・CLUB Zion）\[12\]
   - 2月11日 - MUSIC TERRACE（[名古屋](../Page/名古屋.md "wikilink")・伏見ライオンシアター）
 
 ## 出演作品
 
 ### 2020年
 
-  - 2月3日 - ふらくらMAX\!（[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")）\[11\]
+  - 2月3日 - ふらくらMAX\!（[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")）\[13\]
 
 ## 脚注
 
@@ -139,6 +141,8 @@
 6.  <https://twitter.com/20191117mnt/status/1232259420769280000>
 7.  <https://twitter.com/momoshiromizuki/status/1232770520833150976>
 8.  <https://twitter.com/20191117mnt/status/1233948633357176832>
-9.  <https://www.eventernote.com/events/236268>
-10. <http://derarockfes.radcreation.jp/>
-11. <https://live2.nicovideo.jp/watch/lv324133715>
+9.
+10.
+11. <https://www.eventernote.com/events/236268>
+12. <http://derarockfes.radcreation.jp/>
+13. <https://live2.nicovideo.jp/watch/lv324133715>

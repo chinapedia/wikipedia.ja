@@ -142,11 +142,29 @@
 </tbody>
 </table>
 
-#### 配信シングル
+#### 限定シングル
 
-| 発売日                                                                      | タイトル         | 規格                                                                  | 備考                                          |
-| ------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------- | ------------------------------------------- |
-| [2020年](../Page/2020年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") | **あたりまえだから** | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") | 各配信サイトだけではなく、自身のレーベルの通販サイト「きゃにめ」でも限定リリースされる |
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格</p></th>
+<th><p>規格品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
+<td><p><strong>あたりまえだから</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/デジタル・ダウンロード" title="wikilink">デジタル・ダウンロード</a><br />
+シングルCD</p></td>
+<td><p>SCCG-00051（きゃにめ盤）</p></td>
+<td><p>配信及びポニーキャニオン通販サイト「きゃにめ」にて限定リリース</p></td>
+</tr>
+</tbody>
+</table>
 
 ### ミニアルバム
 
@@ -179,6 +197,36 @@
 </tbody>
 </table>
 
+### 映像作品
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
+最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
+<td><p><strong>DIALOGUE＋ LIVE Blu-ray「ぼくたちのかくめい！オンライン」</strong></p></td>
+<td><p>PCXP-50789</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## タイアップ
+
+| 曲名         | タイアップ                                                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| はじめてのかくめい！ | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[超人高校生たちは異世界でも余裕で生き抜くようです\!](https://ja.wikipedia.org/wiki/超人高校生たちは異世界でも余裕で生き抜くようです! "wikilink")』OPテーマ |
+
 ## 出演
 
 ### インターネット放送
@@ -201,6 +249,7 @@
 <th><p>年</p></th>
 <th><p>タイトル</p></th>
 <th><p>公演日程・会場</p></th>
+<th><p>出演者</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -210,23 +259,116 @@
 <td><p>DIALOGUE+JAM</p></td>
 <td><p>1月18日<br />
 池袋harevutai</p></td>
+<td><div class="NavHead" style="text-align: center;">
+<p>バンドメンバー</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>ギター：堀崎翔</li>
+<li>ベース・バンドマスター：<a href="../Page/黒須克彦.md" title="wikilink">黒須克彦</a></li>
+<li>ドラム：鈴木浩之</li>
+<li>キーボード：今井隼</li>
+<li>マニピュレーター：篠崎恭一</li>
+</ul>
+</div>
+</div>
+<div class="NavHead" style="text-align: center;">
+<p>ゲスト</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>昼公演：<a href="https://ja.wikipedia.org/wiki/土屋李央" title="wikilink">土屋李央</a>、<a href="https://ja.wikipedia.org/wiki/安齋由香里" title="wikilink">安齋由香里</a></li>
+<li>夜公演：<a href="https://ja.wikipedia.org/wiki/Gothic×Luck" title="wikilink">Gothic×Luck</a></li>
+</ul>
+</div>
+</div></td>
 <td><p>昼夜2公演</p></td>
 </tr>
 <tr class="even">
-<td><p><del>DIALOGUE+JAM vol.2</del></p></td>
-<td><p><del>5月9日</del>（中止）<br />
-<del>新宿ReNY</del></p></td>
-<td><p>新型ウイルス感染拡大防止及び緊急事態宣言の適用地域に開催地が含まれるため</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1st LIVE「ぼくたちのかくめい！」</p></td>
 <td><p>6月20日<br />
 <del>山野ホール</del>→オンライン<br />
-再演：9月19日<br />
-なかのZERO大ホール</p></td>
-<td><p>会場を使用した形としては日程変更となっているものの、そのものとしては型式をオンラインに変更のうえ開催。<br />
-この模様は全世界配信される</p></td>
+<del>延期公演：9日月19日</del>（中止）（延期）<br />
+<del>なかのZERO大ホール</del></p></td>
+<td><div class="NavHead" style="text-align: center;">
+<p>バンドメンバー</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>ギター：<a href="https://ja.wikipedia.org/wiki/新井弘毅" title="wikilink">新井弘毅</a></li>
+<li>ベース・バンドマスター：黒須克彦</li>
+<li>ドラム：鈴木浩之</li>
+<li>キーボード：今井隼</li>
+<li>マニピュレーター：篠崎恭一</li>
+</ul>
+</div>
+</div>
+<div class="NavHead" style="text-align: center;">
+<p>打ち上げ放送</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>田淵智也</li>
+<li>黒須克彦</li>
+<li>沢口かなみ（ダンス振付）</li>
+<li>野島鉄平（プロデューサー）</li>
+</ul>
+</div>
+</div></td>
+<td><p>新型ウイルス感染拡大防止対策として、会場を使用したライブからオンラインに変更。<br />
+そのうえで日程と会場を再調整し再演を目指したが上記と同様の理由で再度中止、及び再演日未定の延期として発表された。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>新曲発表公演 「走れ！君と曖昧な光のあとで」</p></td>
+<td><p>8月21日、25日<br />
+オンライン</p></td>
+<td><p>マニピュレーター：篠崎恭一</p>
+<div class="NavHead" style="text-align: center;">
+<p>打ち上げ放送</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>田淵智也</li>
+<li><a href="https://ja.wikipedia.org/wiki/eba_(作曲家)" title="wikilink">eba</a>(21日)</li>
+<li><a href="https://ja.wikipedia.org/wiki/伊藤翼" title="wikilink">伊藤翼</a>(21日)</li>
+<li><a href="https://ja.wikipedia.org/wiki/パスピエ_(バンド)" title="wikilink">大胡田なつき</a>(25日)</li>
+<li><a href="https://ja.wikipedia.org/wiki/広川恵一" title="wikilink">広川恵一</a>(25日)</li>
+</ul>
+</div>
+</div></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>DIALOGUE+JAM vol.2</p></td>
+<td><p><del>5月9日</del>（中止）→10月10日<br />
+<del>新宿ReNY</del>→新宿文化センター　大ホール</p></td>
+<td><div class="NavHead" style="text-align: center;">
+<p>バンドメンバー</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li>ギター・バンドマスター：堀崎翔</li>
+<li>ベース：二村学</li>
+<li>ドラム：鈴木浩之</li>
+<li>キーボード：今井隼</li>
+<li>マニピュレーター：篠崎恭一</li>
+</ul>
+</div>
+</div>
+<div class="NavHead" style="text-align: center;">
+<p>ゲスト（夜公演のみ）</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/三森すずこ" title="wikilink">三森すずこ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/鬼頭明里" title="wikilink">鬼頭明里</a></li>
+</ul>
+</div>
+</div></td>
+<td><p>当初予定されていた5月公演は新型ウイルス感染拡大防止対策及び緊急事態宣言適用地域に開催地が含まれるため中止。<br />
+別日にて改めて開催。昼夜2公演。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -245,7 +387,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Animelo_Summer_Live" title="wikilink">Animelo Summer Live</a> 2019 -STORY-」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Animelo_Summer_Live" title="wikilink">Animelo Summer Live</a> 2019 -STORY-</p></td>
 <td><p>8月31日<br />
 <a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a> けやきひろばステージ</p></td>
 </tr>
@@ -256,6 +398,12 @@
 TSUTAYA O-EAST<br />
 TSUTAYA O-WEST<br />
 duo MUSIC EXCHANGE</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL" title="wikilink">TOKYO IDOL FESTIVAL</a> オンライン 2020</p></td>
+<td><p>10月2日 - 4日<br />
+オンライン</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

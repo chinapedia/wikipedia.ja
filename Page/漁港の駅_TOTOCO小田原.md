@@ -1,7 +1,7 @@
 > この記事は[漁港の駅 TOTOCO小田原](https://ja.wikipedia.org/wiki/漁港の駅_TOTOCO小田原)から翻訳されています。
 
 
-**漁港の駅 TOTOCO小田原**（ぎょこうのえき ととこおだわら）とは、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[小田原市](../Page/小田原市.md "wikilink")の[小田原漁港](../Page/小田原漁港.md "wikilink")（早川漁港）の南西部「新港西側エリア」にある小田原市運営の商業施設\[1\]\[2\]。条例上の正式名称は、**小田原漁港交流促進施設**（おだわらぎょこう こうりゅうそくしんしせつ）\[3\]。指定管理者は[株式会社TTC](https://ja.wikipedia.org/wiki/株式会社TTC "wikilink")\[4\]。
+**漁港の駅 TOTOCO小田原**（ぎょこうのえき ととこおだわら）とは、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[小田原市](../Page/小田原市.md "wikilink")の[小田原漁港](../Page/小田原漁港.md "wikilink")（早川漁港）南部の「新港」の南西に位置する「新港西側エリア」にある小田原市の公共施設\[1\]\[2\]。条例上の正式名称は、**小田原漁港交流促進施設**（おだわらぎょこう こうりゅうそくしんしせつ）\[3\]。管理運営を行う指定管理者は[株式会社TTC](https://ja.wikipedia.org/wiki/株式会社TTC "wikilink")\[4\]。
 
 なお、「漁港の駅」とは「小田原漁港交流促進施設」のことを指すオリジナルな言葉であり、小田原市の登録商標となっている\[5\]。また「TOTOCO（ととこ）」とは、一般公募によって決まった愛称であり\[6\]、「小田原が抱く、自然豊かな漁場」を表現すべく、「魚（とと）の宝庫」から名付けられた\[7\]。
 
@@ -17,6 +17,8 @@
 等を整備する事業が進められ、交流促進施設は[2017年](../Page/2017年.md "wikilink")（[平成29年](https://ja.wikipedia.org/wiki/平成29年 "wikilink")）9月に「小田原漁港交流促進施設条例」が公布され、10月に施設建設に着手\[8\]、[2019年](../Page/2019年.md "wikilink")（[令和元年](https://ja.wikipedia.org/wiki/令和元年 "wikilink")）[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に、「漁港の駅 TOTOCO小田原」として開業した\[9\]\[10\]。建設途中の[2018年](../Page/2018年.md "wikilink")（[平成30年](https://ja.wikipedia.org/wiki/平成30年 "wikilink")）7月に、[台風12号の被害を受けたため](https://ja.wikipedia.org/wiki/平成30年台風第12号 "wikilink")、本来の計画からは半年遅れの開業となった\[11\]\[12\]。
 
 開業以来、テレビをはじめとして様々なメディアに取り上げられ\[13\]、行列のできる人気施設となっている\[14\]。
+
+最上階（3階）にある、海鮮食べ放題（おさしみビュッフェレストラン）の店である「おさしみ天国・小田原海鮮ゴーゴー！！」は、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")予防で[3密](https://ja.wikipedia.org/wiki/3密 "wikilink")を避けるために、[2020年](../Page/2020年.md "wikilink")（[令和2年](https://ja.wikipedia.org/wiki/令和2年 "wikilink")）[3月3日](../Page/3月3日.md "wikilink")から臨時休業し、同年[6月20日](../Page/6月20日.md "wikilink")からは「海鮮乗せ放題のテイクアウト丼の販売」として、当面業態を変える形で営業を再開している\[15\]。
 
 ## 構成
 
@@ -90,3 +92,4 @@
 12. [小田原で「漁港の駅」オープン 去年の台風で被災](https://news.tv-asahi.co.jp/news_society/articles/amp/000169762.html) - [テレビ朝日](../Page/テレビ朝日.md "wikilink") 2019/11/22
 13. [メディア掲載情報](https://www.totoco-odawara.com/news/media.html) - 漁港の駅 TOTOCO小田原
 14.
+15. [「おさしみ天国・⼩⽥原海鮮ゴーゴー」営業再開のお知らせ](https://www.totoco-odawara.com/news/index.html#20200618) - 漁港の駅 TOTOCO小田原

@@ -1,7 +1,7 @@
 > この記事は[Club Asia](https://ja.wikipedia.org/wiki/Club_Asia)から翻訳されています。
 
 
-**Club Asia**（クラブ エイジア、clubasia）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[円山町](https://ja.wikipedia.org/wiki/円山町 "wikilink")1-8にあるライブハウス。株式会社カルチャー・オブ・エイジアにより運営されている。この項では、系列店のVUENOS、Glad、LOUNGE NEOについても記述する。
+[Clubasia_outside_from_bunkamura_side_2020.jpg](https://ja.wikipedia.org/wiki/File:Clubasia_outside_from_bunkamura_side_2020.jpg "fig:Clubasia_outside_from_bunkamura_side_2020.jpg") **Club Asia**（クラブ エイジア、clubasia）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[円山町](https://ja.wikipedia.org/wiki/円山町 "wikilink")1-8にある[ライブハウス](../Page/ライブハウス.md "wikilink")。株式会社カルチャー・オブ・エイジアにより運営されている。この項では、系列店のVUENOS、Glad、LOUNGE NEOについても記述する。
 
 ## 沿革概要
 
@@ -11,7 +11,7 @@
   - 2001年4月、渋谷VUENOS入居ビルの2-3階に、渋谷Glad（グラッド）オープン\[5\]。
   - 2002年11月、渋谷VUENOSと渋谷Gladが入居するビルの5-6階に、渋谷LOUNGE NEO（ラウンジネオ）オープン\[6\]。
   - 2016年3月31日から4月3日にかけて、「clubasia 20th Anniversary」を開催\[7\]。
-  - 2020年4月30日、新型コロナウイルス（[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink"))の影響で同年5月31日にVUENOS、Glad、LOUNGE NEOの閉店を発表\[8\]。Club Asiaの存続も危機を迎えていることから、翌5月1日より「[CAMPFIRE](https://ja.wikipedia.org/wiki/CAMPFIRE_\(クラウドファンディング\) "wikilink")」にて[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")を行うことを発表した\[9\]。
+  - 2020年4月30日、新型コロナウイルス（[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink"))の影響で同年5月31日にVUENOS、Glad、LOUNGE NEOの閉店を発表\[8\]。Club Asiaの存続も危機を迎えていることから、翌5月1日より「[CAMPFIRE](https://ja.wikipedia.org/wiki/CAMPFIRE_\(クラウドファンディング\) "wikilink")」にて[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")を行うことを発表\[9\]、6月15日までに6,744人より39,119,565円を集めた\[10\]。
 
 ## 施設概要
 
@@ -54,7 +54,7 @@
 
 ## 会社概要
 
-株式会社カルチャー･オブ･エイジア（Culture of Asia Co., Ltd.）は、渋谷区道玄坂2-21-7第8矢澤ビル4階に本社を置く企業\[10\]。
+株式会社カルチャー･オブ･エイジア（Culture of Asia Co., Ltd.）は、渋谷区道玄坂2-21-7第8矢澤ビル4階に本社を置く企業\[11\]。
 
 ### 業務内容
 
@@ -76,7 +76,7 @@
 
   -
   -
-[Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:道玄坂](https://ja.wikipedia.org/wiki/Category:道玄坂 "wikilink") [Category:円山町](https://ja.wikipedia.org/wiki/Category:円山町 "wikilink")
+[Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:東京都のコンサート会場](https://ja.wikipedia.org/wiki/Category:東京都のコンサート会場 "wikilink") [Category:東京都のホール](https://ja.wikipedia.org/wiki/Category:東京都のホール "wikilink") [Category:渋谷区の建築物](https://ja.wikipedia.org/wiki/Category:渋谷区の建築物 "wikilink")
 
 1.
 2.
@@ -88,3 +88,4 @@
 8.  [【 VUENOS 閉店のお知らせ】](https://twitter.com/VUENOS_DAY/status/1255693356094480384) @VUENOS_DAY 2020年4月30日12:00のTweet
 9.
 10.
+11.

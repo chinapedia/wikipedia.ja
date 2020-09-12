@@ -128,10 +128,6 @@
   - ウール - [板垣李光人](https://ja.wikipedia.org/wiki/板垣李光人 "wikilink")
   - オーラ - [紺野彩夏](https://ja.wikipedia.org/wiki/紺野彩夏 "wikilink")
   - 柔道界の魔王 - [熊野準](https://ja.wikipedia.org/wiki/熊野準 "wikilink")
-  - 草加雅人 / 仮面ライダーカイザ（声） - [村上幸平](../Page/村上幸平.md "wikilink")（友情出演）『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』
-  - 照井竜 / 仮面ライダーアクセル（声） - [木ノ本嶺浩](https://ja.wikipedia.org/wiki/木ノ本嶺浩 "wikilink")（友情出演）『[仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink")』
-  - 伊達明 / 仮面ライダーバース（声） - [岩永洋昭](../Page/岩永洋昭.md "wikilink")（友情出演）『[仮面ライダーオーズ/OOO](https://ja.wikipedia.org/wiki/仮面ライダーオーズ/OOO "wikilink")』
-  - 海東大樹 / 仮面ライダーディエンド（声） - [戸谷公人](../Page/戸谷公人.md "wikilink")（友情出演）『[仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』
   - 常磐ソウゴ / 仮面ライダージオウ（声） - [奥野壮](https://ja.wikipedia.org/wiki/奥野壮 "wikilink")
   - 常磐順一郎 - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")
 
@@ -139,6 +135,13 @@
 
   - オーマジオウ - [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
   - カッシーン - [津田健次郎](../Page/津田健次郎.md "wikilink")
+
+### 友情出演
+
+  - 草加雅人 / 仮面ライダーカイザ（声） - [村上幸平](../Page/村上幸平.md "wikilink")『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』
+  - 照井竜 / 仮面ライダーアクセル（声） - [木ノ本嶺浩](https://ja.wikipedia.org/wiki/木ノ本嶺浩 "wikilink")『[仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink")』
+  - 伊達明 / 仮面ライダーバース（声） - [岩永洋昭](../Page/岩永洋昭.md "wikilink")『[仮面ライダーオーズ/OOO](https://ja.wikipedia.org/wiki/仮面ライダーオーズ/OOO "wikilink")』
+  - 海東大樹 / 仮面ライダーディエンド（声） - [戸谷公人](../Page/戸谷公人.md "wikilink")『[仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")』
 
 ### スーツアクター
 
@@ -183,22 +186,35 @@
 
   - 原作 - [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
   - 脚本 - [毛利亘宏](https://ja.wikipedia.org/wiki/毛利亘宏 "wikilink")
+  - スーパーバイザー - 小野寺章
+  - エグゼクティブプロデューサー - 加藤和夫（[東映ビデオ](../Page/東映ビデオ.md "wikilink")）
   - 音楽 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
-  - 監督 - [諸田敏](../Page/諸田敏.md "wikilink")
   - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")
   - 照明 - 佐々木康雄
   - 美術 - [大嶋修一](https://ja.wikipedia.org/wiki/大嶋修一 "wikilink")
   - 録音 - 堀江二郎
   - 編集 - 金田昌吉
-  - 助監督 - 塩川純平
   - スクリプター - 森みどり
-  - 制作担当 - 中島嘉隆
+  - 助監督 - 塩川純平
+  - 制作担当 - 中島嘉隆、伊場野高嗣
+  - ラインプロデューサー - 下前明弘
+  - 絵コンテ - 伊藤そうあ
+  - カースタント&コーディネイト - 西村信宏（[タケシレーシング](https://ja.wikipedia.org/wiki/タケシレーシング "wikilink")）
+  - クリーチャーデザイン - [篠原保](../Page/篠原保.md "wikilink")
+  - キャラクターデザイン - 田嶋秀樹（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）、小林大祐（[PLEX](../Page/プレックス.md "wikilink")）
+  - プロデューサー補 - 大河原脩一（東映ビデオ）
+  - 製作プロダクション - [東映テレビ・プロダクション](https://ja.wikipedia.org/wiki/東映テレビ・プロダクション "wikilink")
+  - 委員会スタッフ - 安村基（東映ビデオ）、島谷麟太郎（東映ビデオ）、[古谷大輔](https://ja.wikipedia.org/wiki/古谷大輔 "wikilink")（[ADK EM](../Page/ADKホールディングス.md "wikilink")）、石原仁（ADK EM）、金木勲（[バンダイ](../Page/バンダイ.md "wikilink")）
+  - プロデューサー - 中野剛（東映ビデオ）、白倉伸一郎（東映）、武部直美（東映）
+  - アクション監督 - [宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")（[ジャパンアクションエンタープライズ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
+  - 製作 - 東映ビデオ、ADK、BANDAI、東映
+  - 監督 - [諸田敏](../Page/諸田敏.md "wikilink")
   - 配給 - [東映ビデオ](../Page/東映ビデオ.md "wikilink")\[4\]
 
 ## 主題歌
 
   - 「Brand New Day」
-    歌 - [TRIPLANE](../Page/TRIPLANE.md "wikilink")
+    作詞・作曲 - 江畑兵衛 / 編曲 - [TRIPLANE](../Page/TRIPLANE.md "wikilink") / 歌 - TRIPLANE
 
 ## 映像ソフト化
 

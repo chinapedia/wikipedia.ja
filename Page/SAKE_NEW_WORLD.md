@@ -3,7 +3,7 @@
 
 『**SAKE NEW WORLD**』（サケ・ニュー・ワールド）は、[日本酒](https://ja.wikipedia.org/wiki/日本酒 "wikilink")に特化した[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[番組](../Page/ミニ番組.md "wikilink")\[1\]\[2\]。
 
-[2019年](../Page/2019年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")（同年[4月19日](../Page/4月19日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）から[6月29日](../Page/6月29日.md "wikilink")（同年[6月28日](../Page/6月28日.md "wikilink")深夜）に第1期として放送し、[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から、第2期として再開。
+[2019年](../Page/2019年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")（同年[4月19日](../Page/4月19日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）から[6月29日](../Page/6月29日.md "wikilink")（同年[6月28日](../Page/6月28日.md "wikilink")深夜）に第1期として放送し、[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[6月13日](../Page/6月13日.md "wikilink")に、第2期として再開し放送した。
 
 ## 概要
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - 第2期（2020年4月 - ）
+  - 第2期（2020年4月 - 6月）
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 
   - [公式サイト](https://www.tv-asahi.co.jp/sake/)
 
-[Category:中田英寿](https://ja.wikipedia.org/wiki/Category:中田英寿 "wikilink") [Category:日本酒](https://ja.wikipedia.org/wiki/Category:日本酒 "wikilink") [Category:テレビ朝日のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のローカル番組 "wikilink") [Category:テレビ朝日のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のミニ番組 "wikilink") [Category:テレビ朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の情報・ワイドショー番組 "wikilink") [Category:テレビ朝日のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のドキュメンタリー番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史\<\!--第1期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史\<!--第1期に準じたカテゴリ--\> "wikilink") [Category:2019年のテレビ番組_(日本)\<\!--第1期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\)\<!--第1期に準じたカテゴリ--\> "wikilink") [Category:2020年のテレビ番組_(日本)\<\!--第2期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\)\<!--第2期に準じたカテゴリ--\> "wikilink")
+[Category:中田英寿](https://ja.wikipedia.org/wiki/Category:中田英寿 "wikilink") [Category:日本酒](https://ja.wikipedia.org/wiki/Category:日本酒 "wikilink") [Category:テレビ朝日の番組の歴史\<\!--第2期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組の歴史\<!--第2期に準じたカテゴリ--\> "wikilink") [Category:テレビ朝日のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のローカル番組 "wikilink") [Category:テレビ朝日のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のミニ番組 "wikilink") [Category:テレビ朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の情報・ワイドショー番組 "wikilink") [Category:テレビ朝日のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のドキュメンタリー番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史\<\!--第1期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史\<!--第1期に準じたカテゴリ--\> "wikilink") [Category:2019年のテレビ番組_(日本)\<\!--第1期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\)\<!--第1期に準じたカテゴリ--\> "wikilink") [Category:2020年のテレビ番組_(日本)\<\!--第2期に準じたカテゴリ--\>](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\)\<!--第2期に準じたカテゴリ--\> "wikilink")
 
 1.
 2.

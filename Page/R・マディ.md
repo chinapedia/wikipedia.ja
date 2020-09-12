@@ -40,7 +40,7 @@
 ## 外部リンク
 
   -
-[Category:インドの撮影監督](https://ja.wikipedia.org/wiki/Category:インドの撮影監督 "wikilink") [Category:タミル・ナードゥ州出身の人物](https://ja.wikipedia.org/wiki/Category:タミル・ナードゥ州出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
+[Category:インドの撮影監督](https://ja.wikipedia.org/wiki/Category:インドの撮影監督 "wikilink") [Category:タミル・ナードゥ州出身の人物](https://ja.wikipedia.org/wiki/Category:タミル・ナードゥ州出身の人物 "wikilink") [Category:タミル人](https://ja.wikipedia.org/wiki/Category:タミル人 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
 
 1.
 2.

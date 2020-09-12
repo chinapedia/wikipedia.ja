@@ -23,7 +23,7 @@
 
 ## 疾患における役割
 
-第XI因子の欠乏は、稀な疾患である[血友病](../Page/血友病.md "wikilink")Cを引き起こす。この疾患は主に[アシュケナジム](../Page/アシュケナジム.md "wikilink")の[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")にみられ、集団の約8%が影響を受けていると考えられている。頻度はより低いものの、血友病Cは[イラク](../Page/イラク.md "wikilink")にルーツを持つユダヤ人や[イスラエル](../Page/イスラエル.md "wikilink")の[アラブ人](../Page/アラブ人.md "wikilink")にもみられる。他の集団では、血友病症例の約1%が血友病Cである。[常染色体劣性](https://ja.wikipedia.org/wiki/常染色体劣性 "wikilink")の遺伝疾患で、特発性出血は稀であるものの手術時に過剰な失血が生じる可能性があり、予防が必要である\[11\]。
+第XI因子の欠乏は、稀な疾患である[血友病C](https://ja.wikipedia.org/wiki/血友病C "wikilink")を引き起こす。この疾患は主に[アシュケナジム](../Page/アシュケナジム.md "wikilink")の[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")にみられ、集団の約8%が影響を受けていると考えられている。頻度はより低いものの、血友病Cは[イラク](../Page/イラク.md "wikilink")にルーツを持つユダヤ人や[イスラエル](../Page/イスラエル.md "wikilink")の[アラブ人](../Page/アラブ人.md "wikilink")にもみられる。他の集団では、血友病症例の約1%が血友病Cである。[常染色体劣性](https://ja.wikipedia.org/wiki/常染色体劣性 "wikilink")の遺伝疾患で、特発性出血は稀であるものの手術時に過剰な失血が生じる可能性があり、予防が必要である\[11\]。
 
 低レベルの第XI因子は、[ヌーナン症候群](https://ja.wikipedia.org/wiki/ヌーナン症候群 "wikilink")など多くの他の疾患でも見られる。
 

@@ -16,8 +16,8 @@
 1.  **キミの隣**
       - 作詞:宮嶋淳子 作曲/編曲:川崎智哉
       - 1stシングル。テレビアニメ『ヲタクに恋は難しい』エンディングテーマ\[5\]
-2.  **One Another**
-      - 作詞: Halca 作曲/編曲:[Kz](https://ja.wikipedia.org/wiki/livetune "wikilink")
+2.  **one another**
+      - 作詞: halca 作曲/編曲:[Kz](https://ja.wikipedia.org/wiki/livetune "wikilink")
       - halcaが初めて作詞を手掛けた楽曲
 3.  **うそじゃないよ**
       - 作詞:宮嶋淳子 作曲/編曲:SHIBU
@@ -30,7 +30,7 @@
 6.  **あの頃の僕たちを**
       - 作詞: 宮嶋淳子 作曲:[aokado](https://ja.wikipedia.org/wiki/青葉紘季 "wikilink") 編曲:川口圭太
 7.  **HORiZON**
-      - 作詞:宮嶋淳子 作曲:yuma 編曲 :川口圭太
+      - 作詞:宮嶋淳子 作曲:[yuma](https://ja.wikipedia.org/wiki/Yuma_\(作家\) "wikilink") 編曲 :川口圭太
       - 2ndシングルのカップリング
 8.  **サカナイトデイズ**
       - 作詞:宮嶋淳子 作曲:藤井亮太・[小高光太郎](../Page/小高光太郎.md "wikilink") 編曲:川崎智哉

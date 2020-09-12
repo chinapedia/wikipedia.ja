@@ -9,7 +9,7 @@
 
 ## データセンター
 
-  - 中国本土： [北京](../Page/北京市.md "wikilink") 、 [上海](../Page/上海市.md "wikilink") 、 [杭州](../Page/杭州市.md "wikilink") 、 [青島](../Page/青島市.md "wikilink") 、 [深セン](../Page/深セン市.md "wikilink") 、 [張家口](../Page/張家口市.md "wikilink")
+  - 中国本土： [北京](../Page/北京市.md "wikilink") 、 [上海](../Page/上海市.md "wikilink") 、 [杭州](../Page/杭州市.md "wikilink") 、 [青島](../Page/青島市.md "wikilink") 、 [深圳](https://ja.wikipedia.org/wiki/深圳市 "wikilink") 、 [張家口](../Page/張家口市.md "wikilink")
   - 国際地域： [香港](https://ja.wikipedia.org/wiki/香港 "wikilink") 、 [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink") 、 [シドニー](../Page/シドニー.md "wikilink") 、 [東京](../Page/東京.md "wikilink") 、 [シリコンバレー](../Page/シリコンバレー.md "wikilink") 、 [バージニア](../Page/バージニア州.md "wikilink") 、 [フランクフルト](../Page/フランクフルト・アム・マイン.md "wikilink") 、 [ドバイ](../Page/ドバイ.md "wikilink") \[5\]
 
 ## クラウドコンピューティング

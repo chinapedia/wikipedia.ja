@@ -1,11 +1,11 @@
 > この記事は[タトラRT6N1](https://ja.wikipedia.org/wiki/タトラRT6N1)から翻訳されています。
 
 
-**タトラRT6N1**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した****が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）。[バリアフリー](../Page/バリアフリー.md "wikilink")に対応した[部分超低床電車として設計されたが](../Page/超低床電車.md "wikilink")、信頼性の低さやČKDタトラの破産により短期間かつ少数の生産に終わった。
+**タトラRT6N1**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した**[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）。[バリアフリー](../Page/バリアフリー.md "wikilink")に対応した[部分超低床電車として設計されたが](../Page/超低床電車.md "wikilink")、信頼性の低さやČKDタトラの破産により短期間かつ少数の生産に終わった。
 
 ## 概要
 
-[1984年](../Page/1984年.md "wikilink")、[スイス](../Page/スイス.md "wikilink")のに[Be4/6形電車が登場して以降](https://ja.wikipedia.org/wiki/ジュネーヴ市電Be4/6形電車 "wikilink")、ヨーロッパ各地の路面電車では床上高さを低くする事で乗降が容易となる**[超低床電車](../Page/超低床電車.md "wikilink")**が大きな注目を集めていた。その中で、[ビロード離婚](../Page/ビロード離婚.md "wikilink")を経て[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")から分離した[チェコ](../Page/チェコ.md "wikilink")各地の路面電車事業者でも、近代化を行う過程で超低床電車の導入が望まれるようになった。それを受け、チェコスロバキア時代から長年に渡って路面電車車両の製造を行っていた****が開発したのがRT6N1である。
+[1984年](../Page/1984年.md "wikilink")、[スイス](../Page/スイス.md "wikilink")のに[Be4/6形電車が登場して以降](https://ja.wikipedia.org/wiki/ジュネーヴ市電Be4/6形電車 "wikilink")、ヨーロッパ各地の路面電車では床上高さを低くする事で乗降が容易となる**[超低床電車](../Page/超低床電車.md "wikilink")**が大きな注目を集めていた。その中で、[ビロード離婚](../Page/ビロード離婚.md "wikilink")を経て[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")から分離した[チェコ](../Page/チェコ.md "wikilink")各地の路面電車事業者でも、近代化を行う過程で超低床電車の導入が望まれるようになった。それを受け、チェコスロバキア時代から長年に渡って路面電車車両の製造を行っていた**[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")**が開発したのがRT6N1である。
 
 両端に主電動機を有する動力台車が設置された3車体連接車で、運転台は片側のみに設置されている。車体は全溶接構造の鋼製で、先頭部と後方は[ラミネート加工](https://ja.wikipedia.org/wiki/ラミネート加工 "wikilink")によって作られている。車内は動力台車を除いた全体の63％が床上高さ350 mmの低床構造となっており、車体長が短い中間車体には車軸がない独立車輪方式のボギー台車が設置されている。前後車体に3箇所づつ設置された乗降扉のうち低床部には2箇所に両開き式のものが設置されている他、下部には収納式スロープが存在するため、[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")や[ベビーカー](https://ja.wikipedia.org/wiki/ベビーカー "wikilink")でも容易に乗降可能である。デザインは[インダストリアルデザイナー](../Page/インダストリアルデザイナー.md "wikilink")のが手掛けたものである。
 
@@ -58,7 +58,7 @@ RT6N1は試作車を経て[1997年](https://ja.wikipedia.org/wiki/1997年 "wikil
 ## 参考資料
 
   -
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:ポーランドの路面電車車両](https://ja.wikipedia.org/wiki/Category:ポーランドの路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:1993年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1993年製の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:ポーランドの路面電車車両](https://ja.wikipedia.org/wiki/Category:ポーランドの路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:1993年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1993年製の鉄道車両 "wikilink")
 
 1.
 2.

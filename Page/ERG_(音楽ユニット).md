@@ -161,7 +161,7 @@ CD</p></td>
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
 1.  [【ERG Twitter】4.27 starting](https://twitter.com/ERG_OFFICIAL_/status/1122111012138704896?s=20)
 2.  [【ERG Twitter】【ERG Member’s Official Account】](https://twitter.com/ERG_OFFICIAL_/status/1122111511147585536?s=20)

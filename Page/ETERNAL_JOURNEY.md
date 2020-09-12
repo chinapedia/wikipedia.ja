@@ -125,7 +125,7 @@
   - [ETERNAL JOURNEY](http://www.eternaljourney.net/index.html)公式サイト
   - [生島企画室公式サイト](https://www.ikushimakikaku.co.jp/eternal-journey/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2012年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2012年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")
 
 1.
 2.

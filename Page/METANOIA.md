@@ -1,7 +1,7 @@
 > この記事は[METANOIA](https://ja.wikipedia.org/wiki/METANOIA)から翻訳されています。
 
 
-**METANOIA**（メタノイア）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の39枚目の[シングル](../Page/シングル.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")（[キング・アミューズメント・クリエイティブ](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")）から発売された。
+**METANOIA**（メタノイア）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の39枚目の[シングル](../Page/シングル.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")に[キング・アミューズメント・クリエイティブから発売された](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")。
 
 ## 概要
 
@@ -29,7 +29,7 @@
 
   - [METANOIA](https://www.mizukinana.jp/discography/single39.html) - 水樹奈々公式サイト NANA PARTY
 
-[Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:上松範康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:上松範康が制作した楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:戦姫絶唱シンフォギアの音楽](https://ja.wikipedia.org/wiki/Category:戦姫絶唱シンフォギアの音楽 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
+[Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:上松範康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:上松範康が制作した楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:戦姫絶唱シンフォギアの音楽](https://ja.wikipedia.org/wiki/Category:戦姫絶唱シンフォギアの音楽 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
 
 1.
 2.

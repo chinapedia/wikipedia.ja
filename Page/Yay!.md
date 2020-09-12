@@ -1,7 +1,7 @@
 > この記事は[Yay!](https://ja.wikipedia.org/wiki/Yay!)から翻訳されています。
 
 
-**Yay\!（イェイ）**とは、[株式会社ナナメウエが運営する匿名型](https://ja.wikipedia.org/wiki/ナナメウエ "wikilink")[ソーシャルネットワークサービス](https://ja.wikipedia.org/wiki/ソーシャルネットワークサービス "wikilink")の事である。同会社がかつて開発していた学生向けアプリ[ひま部](https://ja.wikipedia.org/wiki/ひま部 "wikilink")のサービス終了と同時に2019年12月27日よりサービス開始となった。
+**Yay\!（イェイ）**とは、[株式会社ナナメウエが運営する匿名型](https://ja.wikipedia.org/wiki/ナナメウエ "wikilink")[ソーシャルネットワークサービス](https://ja.wikipedia.org/wiki/ソーシャルネットワークサービス "wikilink")の事である。同会社がかつて開発していた学生向けアプリ[ひま部](https://ja.wikipedia.org/wiki/ひま部 "wikilink")の2019年12月31日のサービス終了に向け、2019年12月27日よりサービス開始となった。
 
 ## 特徴
 

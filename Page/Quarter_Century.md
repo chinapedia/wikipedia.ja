@@ -37,7 +37,7 @@
 
 ### 結成
 
-2019年に同じステージに立ち意気投合。[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")にQuarter Centuryの結成が発表される\[1\]。同年[2020年](../Page/2020年.md "wikilink")7月にシングル「[SPEED STAR](https://ja.wikipedia.org/wiki/SPEED_STAR "wikilink")」でデビュー。\[2\]\[3\]
+2019年に同じステージに立ち意気投合。[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")にQuarter Centuryの結成が発表される\[1\]。同年[2020年](../Page/2020年.md "wikilink")7月にシングル「[SPEED STAR](https://ja.wikipedia.org/wiki/SPEED_STAR "wikilink")」でデビュー。\[2\]\[3\]\[4\]\[5\]
 
 ## ディスコグラフィ
 
@@ -61,11 +61,27 @@
 <td><p><strong>SPEED STAR</strong></p></td>
 <td><p>AFR-001</p></td>
 <td><ol>
-<li>SPEED STAR 【作詞:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/作曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/編曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>,shinpei】</li>
-<li>ヒーロー　 【作詞:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/作曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/編曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>】</li>
-<li>雨　【作詞:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/作曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/編曲:shinpei,<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>】</li>
+<li>SPEED STAR 【作詞:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/作曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/編曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>,shinpei】
+<dl>
+<dt></dt>
+<dd><a href="https://ja.wikipedia.org/wiki/フジテレビ" title="wikilink">フジテレビ</a>系 音楽情報番組「Tune」エンディングテーマ
+</dd>
+</dl></li>
+<li>ヒーロー　 【作詞:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/作曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/編曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>】
+<dl>
+<dt></dt>
+<dd><a href="https://ja.wikipedia.org/wiki/tvk" title="wikilink">tvk</a>(<a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</a>) 音楽情報バラエティ「<a href="https://ja.wikipedia.org/wiki/関内デビル" title="wikilink">関内デビル</a>」テーマソング
+</dd>
+</dl></li>
+<li>雨　【作詞:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/作曲:<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>/編曲:shinpei,<a href="https://ja.wikipedia.org/wiki/寺田岳史" title="wikilink">寺田岳史</a>】
+<dl>
+<dt></dt>
+<dd><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系 広島ホームテレビ「恋とか愛とか（仮）」エンディングテーマ
+</dd>
+</dl></li>
 </ol></td>
-<td></td>
+<td><p>タワーレコードオンライン デイリーランキング1位 タワーレコード全店総合 デイリーランキング3位</p>
+<p>USEN JPOP総合 週間ランキング3位</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,3 +104,5 @@
 1.
 2.
 3.
+4.
+5.

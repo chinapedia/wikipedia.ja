@@ -9,7 +9,9 @@
 
 ## 収録曲
 
-全作詞・作曲・編曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#11除く）
+  - 全作詞・作曲・編曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#11除く） / プロデュース：寺岡呼人
+
+<!-- end list -->
 
 1.  **キャッチボール** \[4:54\]
       -
@@ -45,13 +47,13 @@
 
 ## 参加ミュージシャン
 
+  - [寺岡呼人](../Page/寺岡呼人.md "wikilink")：Vocal (\#1 - \#11), Bass (\#1 - \#5, \#7 - \#9, \#11), Electric Guitar (\#1 - \#4, \#7, \#8), Acoustic Guitar (\#2, \#4, \#5, \#8 - \#11), Piano (\#1, \#4), Keyboards (\#1 - \#4, \#8 - \#10), Chorus (\#1 - \#11)
   - [桜井和寿](../Page/桜井和寿.md "wikilink") ([Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink"))：Vocal (\#11)
   - 山崎晃平 ([Goodbye holiday](https://ja.wikipedia.org/wiki/Goodbye_holiday "wikilink"))：Drums (\#1)
   - [河村智康](../Page/河村智康.md "wikilink")：Drums (\#2, \#4)
   - [林久悦](https://ja.wikipedia.org/wiki/林久悦 "wikilink")：Drums (\#3, \#7, \#10), Chorus (\#3, \#10)
   - [鈴木英哉](../Page/鈴木英哉.md "wikilink") (Mr.Children)：Drums (\#5, \#8, \#9, \#11)
   - [沼澤尚](../Page/沼澤尚.md "wikilink")：Drums (\#6)
-  - [寺岡呼人](../Page/寺岡呼人.md "wikilink")：Bass (\#1 - \#5, \#7 - \#9, \#11), Electric Guitar (\#1 - \#4, \#7, \#8), Acoustic Guitar (\#2, \#4, \#5, \#8 - \#11), Piano (\#1, \#4), Keyboards (\#1 - \#4, \#8 - \#10), Chorus (\#1 - \#11)
   - [松原秀樹](../Page/松原秀樹.md "wikilink")：Bass (\#6)
   - [林由恭](https://ja.wikipedia.org/wiki/林由恭 "wikilink")：Bass (\#10), Chorus (\#3, \#10)
   - 佐藤健治：Electric Guitar Solo (\#1), Electric Guitar (\#10)
@@ -63,8 +65,8 @@
   - [磯貝サイモン](../Page/磯貝サイモン.md "wikilink")：Electric Guitar (\#11), Piano (\#2, \#9) Keyboards (\#7, \#9), Chorus (\#3, \#7)
   - [鈴木秋則](../Page/鈴木秋則.md "wikilink")：Keyboards (\#3)
   - [森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")：Piano (\#5, \#6), Keyboards (\#6), Mini moog (\#5)
-  - [K](https://ja.wikipedia.org/wiki/K_\(ミュージシャン\) "wikilink")：Piano (\#10)
-  - 髙田蓮：Banjo & pedal steel Guitar (\#2)
+  - [K](../Page/K_\(歌手\).md "wikilink")：Piano (\#10)
+  - [高田漣](../Page/高田漣.md "wikilink")：Banjo & pedal steel guitar (\#2)
   - [三沢またろう](../Page/三沢またろう.md "wikilink")：Percussion (\#5, \#6)
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")：Chorus (\#3)
   - [中村未来](../Page/中村未来.md "wikilink")：Chorus (\#3)

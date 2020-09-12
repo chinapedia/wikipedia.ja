@@ -1,0 +1,253 @@
+> この記事は[艦つく -Warship Craft-](https://ja.wikipedia.org/wiki/艦つく_-Warship_Craft-)から翻訳されています。
+
+
+『**艦つく-Warship Craft-**』（かんつく ウォーシップクラフト）は、株式会社Donutsが開発・運営する[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けゲームアプリ。[2019年](../Page/2019年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")サービス開始。基本プレイ無料（[アイテム課金制](https://ja.wikipedia.org/wiki/アイテム課金制 "wikilink")）。略称は『**艦つく**』。
+
+## 概要
+
+プレイヤーは自分で艦を作成し、それを操作して敵[NPC艦隊と](../Page/ノンプレイヤーキャラクター.md "wikilink")[海戦](../Page/海戦.md "wikilink")を行い、敵艦の耐久値を0にし撃沈することで勝利となる。艦艇を建造するための船体やパーツは戦役でのドロップやショップでの購入、また各種イベントの報酬として入手可能である。燃料制が導入されており、戦闘の際には使用する艦ごとに定められた量の燃料が必要となる。燃料は8時間で全回復するペースで時間経過で回復するほか、アイテムの使用により回復させられる。
+
+過去に[コーエーから発売されていた戦艦アクションゲーム](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")「[鋼鉄の咆哮シリーズ](../Page/鋼鉄の咆哮シリーズ.md "wikilink")」との類似点が多い。艦船の設計システムを始め、設計した艦へのコメント付き評価、さらに5つの技術レベルを上げて兵装を開発するシステムに関しては、その5つともが同じ名称である。
+
+## 海戦
+
+プレイヤー自身が作成した艦艇を使ってNPC艦隊と戦闘を行う。勝利条件はものにより異なるが、基本的には敵艦全艦撃沈で勝利、味方艦隊旗艦を務めるプレイヤー操作艦沈没で敗北と判定される。最大で7隻対7隻の海戦を行うことができる。なお、味方艦隊旗艦以外はすべて自動操縦(NPCによる操艦)となる。
+
+### 戦役
+
+燃料を消費して敵艦隊と戦闘することのできるモード。現在100ステージが用意されている。戦闘後に船体やパーツの購入に使用できる金貨を得られるほか、海戦に勝利すると一定確率でパーツやコンドームを入手することが可能。
+
+### 任務
+
+与えられた条件を達成しつつ、海戦に勝利することで自艦の強化アイテムを得られるモード。このモードでは燃料を消費することはない。
+
+### 演習
+
+他のプレイヤーと海戦を行えるモード。ランキング制となっており、自身より高順位のプレイヤーに勝利することでそのプレイヤーと入れ替わる形で順位を上げられる。毎日23時59分時点での順位に応じて全プレイヤーにアイテムなどの報酬が配布される。一日の間に行える戦闘数の上限が定められており、プレイ状況により変化する。なお、このモードでは燃料を消費することはない。
+
+### 特殊戦役
+
+2019年10月12日に初めて実装された\[1\]、特殊戦役専用の燃料を消費して期間限定海域の敵艦隊と海戦を行えるモード。敵艦隊に勝利すると一定のイベントptが付与され、イベント期間中設置されるイベントショップにてそのイベントptを新実装の船体、パーツや大和などと交換することが可能。
+
+### 連合戦
+
+2020年3月23日より新たに実装された\[2\]、連合戦専用の燃料を消費して他の連合に所属しているプレイヤーの艦隊と海戦を行える期間限定のモード。戦闘後、結果に応じてポイントが付与され、そのポイントの合計に従って各プレイヤーごと、各連合ごとに順位付けされる。毎日23時59分時点での順位に応じて、何らかの連合に所属しているプレイヤーに新実装の船体やパーツ、アイテムなどの報酬が配布される。また、指定されたポイント数をためたり、与えられた条件を達成したりすることでも船体やパーツ、アイテム等の報酬を獲得可能。
+
+### 条約決戦
+
+2020年5月25日より新たに実装された期間限定のモード\[3\]。プレイヤーは「条約」と呼ばれる、あらかじめ定められたルールに従って艦隊を建造・編成し、他プレイヤーの艦隊と海戦を行うことができる。海戦を終了するごとにその戦闘結果に応じてポイントを得ることができ、そのポイントを使用して兵装や設備パーツを購入することが可能。また与えられた条件を達成することでもポイントや兵装・設備パーツを獲得できる。その他に一回の海戦で稼げた最高ポイント数をプレイヤー間で競うランキングも存在する。ランキングにおける順位はイベント終了時に確定し、その時の順位に応じて報酬が配布される。
+
+## 造船
+
+### 主な実装船体
+
+現在実装されている船体は以下の通り。プレイヤーはこれらの船体を用いて、自身が運用する艦を自由に建造することができる。また、それぞれの船体について、その船体の元となった艦の実際の艤装を再現したものが完成艦として密輸されている。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>艦種</p></th>
+<th><p>艦型</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/駆逐艦.md" title="wikilink">駆逐艦</a></p></td>
+<td><p><a href="../Page/磯風型駆逐艦.md" title="wikilink">磯風型</a></p></td>
+<td><p>完成艦として1917年時の<a href="https://ja.wikipedia.org/wiki/磯風_(磯風型駆逐艦)" title="wikilink">磯風が実装されている</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/峯風型駆逐艦.md" title="wikilink">峯風型</a></p></td>
+<td><p>完成艦として1920年時の<a href="https://ja.wikipedia.org/wiki/峯風_(駆逐艦)" title="wikilink">峯風</a>、1922年時の<a href="https://ja.wikipedia.org/wiki/野風_(駆逐艦)" title="wikilink">野風が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/睦月型駆逐艦.md" title="wikilink">睦月型</a></p></td>
+<td><p>完成艦として1926年時の<a href="https://ja.wikipedia.org/wiki/睦月_(駆逐艦)" title="wikilink">睦月</a>、1944年時の<a href="../Page/夕月_(駆逐艦).md" title="wikilink">夕月が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/吹雪型駆逐艦.md" title="wikilink">吹雪型</a></p></td>
+<td><p>完成艦として1928年時の<a href="../Page/吹雪_(吹雪型駆逐艦).md" title="wikilink">吹雪</a>、1936年時の<a href="../Page/綾波_(吹雪型駆逐艦).md" title="wikilink">綾波</a>、1945年時の<a href="../Page/響_(吹雪型駆逐艦).md" title="wikilink">響が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/初春型駆逐艦.md" title="wikilink">初春型</a></p></td>
+<td><p>完成艦として1933年時と1937年時の<a href="../Page/初春_(初春型駆逐艦).md" title="wikilink">初春</a>、1945年時の<a href="../Page/初霜_(初春型駆逐艦).md" title="wikilink">初霜が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陽炎型駆逐艦.md" title="wikilink">陽炎型</a></p></td>
+<td><p>完成艦として1939年時の<a href="https://ja.wikipedia.org/wiki/陽炎_(駆逐艦)" title="wikilink">陽炎</a>、1944年時の<a href="../Page/雪風_(駆逐艦).md" title="wikilink">雪風が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/巡洋艦.md" title="wikilink">巡洋艦</a></p></td>
+<td><p><a href="../Page/天龍型軽巡洋艦.md" title="wikilink">天龍型</a></p></td>
+<td><p>完成艦として1919年時の<a href="../Page/天龍_(軽巡洋艦).md" title="wikilink">天龍が実装されている</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/球磨型軽巡洋艦.md" title="wikilink">球磨型</a></p></td>
+<td><p>完成艦として1941年時の<a href="../Page/球磨_(軽巡洋艦).md" title="wikilink">球磨が実装されている</a>。<br />
+また、この船体とは別に<a href="https://ja.wikipedia.org/wiki/重雷装艦" title="wikilink">重雷装艦</a>としての改装を受けた後の<a href="../Page/北上_(軽巡洋艦).md" title="wikilink">北上</a>、<a href="../Page/大井_(軽巡洋艦).md" title="wikilink">大井の船体が</a>、球磨型重雷装船体として実装されている。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長良型軽巡洋艦.md" title="wikilink">長良型</a></p></td>
+<td><p>完成艦として1935年時と1944年時の<a href="../Page/長良_(軽巡洋艦).md" title="wikilink">長良</a>、1945年時の<a href="../Page/五十鈴_(軽巡洋艦).md" title="wikilink">五十鈴が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/夕張_(軽巡洋艦).md" title="wikilink">夕張型</a></p></td>
+<td><p>特殊戦役の報酬として実装、未販売。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/古鷹型重巡洋艦.md" title="wikilink">古鷹型</a></p></td>
+<td><p>完成艦として1932年時と1942年時の<a href="../Page/古鷹_(重巡洋艦).md" title="wikilink">古鷹が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/青葉型重巡洋艦.md" title="wikilink">青葉型</a></p></td>
+<td><p>完成艦として1927年時と1944年時の<a href="../Page/青葉_(重巡洋艦).md" title="wikilink">青葉が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/妙高型重巡洋艦.md" title="wikilink">妙高型</a></p></td>
+<td><p>完成艦として1929年時と1944年時の<a href="../Page/妙高_(重巡洋艦).md" title="wikilink">妙高が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/高雄型重巡洋艦.md" title="wikilink">高雄型</a></p></td>
+<td><p>完成艦として1932年時と1944年時の<a href="https://ja.wikipedia.org/wiki/高雄_(重巡洋艦)" title="wikilink">高雄</a>、1944年時の<a href="../Page/摩耶_(重巡洋艦).md" title="wikilink">摩耶が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/戦艦" title="wikilink">戦艦</a></p></td>
+<td><p><a href="../Page/敷島型戦艦.md" title="wikilink">敷島型</a></p></td>
+<td><p>完成艦として1900年時の<a href="../Page/敷島_(戦艦).md" title="wikilink">敷島</a>、1902年時の<a href="../Page/三笠_(戦艦).md" title="wikilink">三笠が実装されている</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/薩摩型戦艦.md" title="wikilink">薩摩型</a></p></td>
+<td><p>完成艦として1910年時の<a href="../Page/薩摩_(戦艦).md" title="wikilink">薩摩</a>、1911年時の<a href="../Page/安芸_(戦艦).md" title="wikilink">安芸が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/河内型戦艦.md" title="wikilink">河内型</a></p></td>
+<td><p>完成艦として1912年時の<a href="../Page/河内_(戦艦).md" title="wikilink">河内が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/金剛型戦艦.md" title="wikilink">金剛型</a></p></td>
+<td><p>完成艦として1913年時と1944年時の<a href="https://ja.wikipedia.org/wiki/金剛_(戦艦)" title="wikilink">金剛が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/扶桑型戦艦.md" title="wikilink">扶桑型</a></p></td>
+<td><p>完成艦として1914年時と1944年時の<a href="../Page/扶桑_(戦艦).md" title="wikilink">扶桑が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/伊勢型戦艦.md" title="wikilink">伊勢型</a></p></td>
+<td><p>現在実装されている伊勢型船体は竣工当時のものである。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長門型戦艦.md" title="wikilink">長門型</a></p></td>
+<td><p>完成艦として1920年時と1944年時の<a href="../Page/長門_(戦艦).md" title="wikilink">長門が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大和型戦艦.md" title="wikilink">大和型</a></p></td>
+<td><p>完成艦として1941年時と1945年時の<a href="../Page/大和_(戦艦).md" title="wikilink">大和が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ビスマルク級戦艦.md" title="wikilink">ビスマルク級</a></p></td>
+<td><p>連合戦の報酬として実装、未販売。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/B65型超甲型巡洋艦.md" title="wikilink">B65型</a></p></td>
+<td><p>条約決戦の報酬として実装、未販売。B65型<a href="../Page/巡洋戦艦.md" title="wikilink">巡洋戦艦</a>の名で実装されたが、船体は戦艦型である。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/空母" title="wikilink">空母</a></p></td>
+<td><p><a href="../Page/鳳翔_(空母).md" title="wikilink">鳳翔型</a></p></td>
+<td><p>完成艦として1922年時と1942年時の<a href="../Page/鳳翔_(空母).md" title="wikilink">鳳翔が実装されている</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大鷹型航空母艦.md" title="wikilink">大鷹型</a></p></td>
+<td><p>完成艦として1943年時の<a href="../Page/大鷹_(空母).md" title="wikilink">大鷹が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/瑞鳳型航空母艦.md" title="wikilink">祥鳳型</a></p></td>
+<td><p>完成艦として1942年時の<a href="../Page/祥鳳_(空母).md" title="wikilink">祥鳳が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/龍驤_(空母).md" title="wikilink">龍驤型</a></p></td>
+<td><p>完成艦として1933年時と1944年時の<a href="../Page/龍驤_(空母).md" title="wikilink">龍驤が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/加賀_(空母).md" title="wikilink">加賀型</a></p></td>
+<td><p>完成艦として1935年時の<a href="../Page/加賀_(空母).md" title="wikilink">加賀が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/赤城_(空母).md" title="wikilink">赤城型</a></p></td>
+<td><p>完成艦として1938年時の<a href="../Page/赤城_(空母).md" title="wikilink">赤城が実装されている</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 主な兵装・設備
+
+プレイヤーは以下に示すような兵装や設備を上述の船体に設置してオリジナルの艦艇を建造できる。ただし、各船体に設置できる兵装・設備数はその船体の種類にかかわらず、100個までである。また、各船体に予め設定された最大排水量を超えてパーツを設置することはできない。
+なお、現時点で300種類以上\[4\]のパーツが実装されている。
+
+#### 砲
+
+#### 高角砲
+
+#### 魚雷発射管
+
+#### 機銃
+
+#### 航空機
+
+#### 設備・機関
+
+## コラボレーション
+
+  - [フジミ模型](../Page/フジミ模型.md "wikilink")
+    2019年12月26日から2020年1月19日まで実施された\[5\]。ゲーム内での自艦の撮影に、フジミ模型から発売されている艦船模型シリーズ「艦NEXT」のパッケージをイメージしたフレームを使えるようになったほか、プレイヤーが作成した艦艇の写真を[Twitter](../Page/Twitter.md "wikilink")上に投稿する形式で艦艇コンテストが行われ、入賞者には艦船模型等が贈られた\[6\]。
+
+## 出典
+
+## 外部リンク
+
+  -
+  - [艦つく -Warship Craft-](https://www.donuts.ne.jp/products/kantsuku/) - 株式会社Donuts
+
+  -
+  - [公式twitterアカウント](https://twitter.com/kantsuku_STAFF/)
+
+[Category:サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:サードパーソン・シューティングゲーム "wikilink") [Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:海軍を題材とした作品](https://ja.wikipedia.org/wiki/Category:海軍を題材とした作品 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

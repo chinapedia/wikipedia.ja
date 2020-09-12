@@ -41,6 +41,8 @@
 
 Episode の冒頭や[公式サイト](https://badmood.inc/)の読み込み中に、「All characters and events depicted in this film are entirely fictitious. Any similarity to actual events or persons, living or dead, is purely coincidental.」と前置きにとれる文章が表示され、日本語に約すと、「**この動画に出てくるすべてのキャラクターの生死、イベントは完全に架空のものです。**」となる。
 
+また、2020年9月より[Amazon Prime Videoにこのアニメーションが配信されることを発表](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")。
+
 | 公開日       | 話数 | タイトル               | 脚本     |
 | --------- | -- | ------------------ | ------ |
 | 2020年3月6日 | 0  | BAD MOOD｜Episode ０ | Fukase |
@@ -55,8 +57,11 @@ Episode の冒頭や[公式サイト](https://badmood.inc/)の読み込み中に
 
 atmosとのコラボ商品、**atmos x BAD MOOD Collaboration tee**はatmos千駄ヶ谷、atmos表参道、atmos名古屋、atmos心斎橋、atmos京都、atmos札幌、atmos博多、atmosオンライン、atmos APP、atmos ONLINE STOREにて2020年3月20日(金)より販売を開始する\[3\]。
 
+  - iPhoneケース（黒・TPU）
+  - iPhoneケース（ピンク・シリコン）
+  - ロゴステッカーセット
 
-\== 脚注 ==
+## 脚注
 
 <references />
 

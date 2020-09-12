@@ -30,7 +30,7 @@
 ### DISC 2
 
 1.  [Bad Speed Play](https://ja.wikipedia.org/wiki/1114_\(アルバム\) "wikilink")
-2.  [WHITEOUT](https://ja.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink") (DJ [ALAN](https://ja.wikipedia.org/wiki/白濱亜嵐 "wikilink") Remix)
+2.  [WHITEOUT](https://ja.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink") ([DJ ALAN](https://ja.wikipedia.org/wiki/白濱亜嵐 "wikilink") Remix)
 3.  [Cult of Personality feat. EXILE SHOKICHI](https://ja.wikipedia.org/wiki/360°_ChamberZ "wikilink") (DJ ALAN Remix)
 4.  [BACK TO THE FUTURE](https://ja.wikipedia.org/wiki/BACK_TO_THE_FUTURE_\(曲\) "wikilink")
 5.  [ピンク スパイダー](../Page/ピンク_スパイダー.md "wikilink")
@@ -47,6 +47,10 @@
 <!-- end list -->
 
   - STORY OF 1st SOLO TOUR
+
+## 参考文献
+
+  - EXILE SHOKICHI「EXILE SHOKICHI LIVE TOUR 2019 UNDERDOGG(Blu-ray)【初回生産限定盤】」のブックレット、rhythm zone、 2019年12月25日 / RZXD-86989-90/
 
 ## 脚注
 

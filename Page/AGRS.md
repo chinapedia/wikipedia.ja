@@ -5,7 +5,13 @@
 
 ## 概要
 
-[声優](../Page/声優.md "wikilink")の[杉田智和](../Page/杉田智和.md "wikilink")が[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")を務める[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")の企業である。杉田の社長就任は[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[アトミックモンキー](../Page/アトミックモンキー.md "wikilink")からの移籍と共に発表された\[1\]\[2\]\[3\]\[4\]。顧問[弁護士](../Page/弁護士.md "wikilink")は[伊藤海](https://ja.wikipedia.org/wiki/伊藤海 "wikilink")が務める。企業名の「AGRS」は、杉田がプロデュースしてきた[キャラクター](../Page/キャラクター.md "wikilink")コンテンツに由来する。
+[声優](../Page/声優.md "wikilink")の[杉田智和](../Page/杉田智和.md "wikilink")が[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")を務める[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")の企業である。
+
+杉田の社長就任は[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[アトミックモンキー](../Page/アトミックモンキー.md "wikilink")からの移籍と共に発表された\[1\]\[2\]\[3\]\[4\]。
+
+顧問[弁護士](../Page/弁護士.md "wikilink")は[伊藤海](https://ja.wikipedia.org/wiki/伊藤海 "wikilink")が務める。
+
+企業名の「AGRS」は、杉田がプロデュースしてきた[キャラクター](../Page/キャラクター.md "wikilink")コンテンツに由来する。
 
 [会社法](../Page/会社法.md "wikilink")上の[本店](../Page/本店.md "wikilink")は、もともと[埼玉県](../Page/埼玉県.md "wikilink")[比企郡](../Page/比企郡.md "wikilink")[嵐山町](../Page/嵐山町.md "wikilink")に置かれていたが、その後、東京都新宿区に移転した。
 

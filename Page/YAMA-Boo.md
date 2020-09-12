@@ -90,30 +90,33 @@ CM楽曲・舞台音楽の制作、母校である九州ビジュアルアーツ
   - 「Real×live」\[9\]（音楽プロデュース・ディレクション・作曲・ギター）
   - 「EGO×search」（音楽プロデュース・ディレクション・作曲・ギター）
   - 「青天コンパス」\[10\]（音楽プロデュース・作曲・ギター）
+  - 「うさみみ」\[11\]（作曲）
+  - 「未来」（作曲）
+  - 「prism」（作曲）
 
 **[BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink")**
 
-  - 「Chance for Change　～Ballad Ver.～」\[11\]（ギター）
+  - 「Chance for Change　～Ballad Ver.～」\[12\]（ギター）
   - 「NAGOYA BLUES」（ギター）
 
 **[BOYS AND MEN研究生](https://ja.wikipedia.org/wiki/BOYS_AND_MEN研究生 "wikilink")**
 
-  - 「SING-ALONG」\[12\]（ギター）
-  - シングル「ドドンコDon't worry」\[13\]（アシスタントディレクション）
+  - 「SING-ALONG」\[13\]（ギター）
+  - シングル「ドドンコDon't worry」\[14\]（アシスタントディレクション）
 
 **[BOYS AND MENエリア研究生](https://ja.wikipedia.org/wiki/BOYS_AND_MENエリア研究生 "wikilink")**
 
-  - 「VIVA！サマーウォーズ」\[14\]（音楽プロデュース・ディレクション）
+  - 「VIVA！サマーウォーズ」\[15\]（音楽プロデュース・ディレクション）
   - 「ごっつぁん！エビバデ」（音楽プロデュース・ディレクション・作曲・ギター）
 
 **[祭nine.](https://ja.wikipedia.org/wiki/祭nine. "wikilink")**
 
-  - シングル「嗚呼、夢神輿」\[15\]（アシスタントディレクション）
+  - シングル「嗚呼、夢神輿」\[16\]（アシスタントディレクション）
   - シングル「HARE晴れカーニバル」（アシスタントディレクション）
 
 **[B2takes\!\!](https://ja.wikipedia.org/wiki/B2takes!! "wikilink")**
 
-  - 「GROWING」\[16\]（作曲）
+  - 「GROWING」\[17\]（作曲）
 
 **福田りゅうぞう・小沢かづと・すかんぽ**
 
@@ -124,7 +127,7 @@ CM楽曲・舞台音楽の制作、母校である九州ビジュアルアーツ
 
 **[分島花音](https://ja.wikipedia.org/wiki/分島花音 "wikilink")**
 
-  - 「NEXT」\[17\](ディレクション・ギター)
+  - 「NEXT」\[18\](ディレクション・ギター)
   - 「asteroid」 (ディレクション・ギター)
   - 「altar」 (ディレクション)
 
@@ -146,10 +149,11 @@ CM楽曲・舞台音楽の制作、母校である九州ビジュアルアーツ
 8.  [<https://www.youtube.com/watch?v=QnGUbTVEiDc>](https://www.youtube.com/watch?v=QnGUbTVEiDc/)
 9.  [CROWN POPが1stシングル「Real×live」発売、初のリリイベも決定](https://natalie.mu/music/news/284255/)
 10. [CROWN POP ライブ限定曲「青天コンパス」を5 月 26 日(火)に配信リリース！](http://lopi-lopi.jp/detail/27125/)
-11. [バラードコレクションCD「PRESENT」](https://natalie.mu/music/news/284255/)
-12. [BOYS AND MEN研究生 SING-ALONG](https://store.fent.jp/product/1859/SING-ALONG/)
-13. [BOYS AND MEN研究生 メジャー流通シングル ドドンコDon't worry](http://www.teichiku.co.jp/artist/bmk/discography/TECI-534.html)
-14. [ボイメンエリア研究生 【type A】全エリアver.](https://bak.boysandmen.jp/musics/9306/)
-15. [祭nine. 「嗚呼、夢神輿」](http://www.teichiku.co.jp/artist/matsuri-nine/discography/TECI-574.html)
-16. [B2takes\!\! GROWING](https://mysound.jp/song/4758702/)
-17. [分島花音、「odd sting & intrigue」を配信開始](https://magazine.tunecore.co.jp/newrelease/30190/)
+11. <https://natalie.mu/music/news/385585> CROWN POP初の全国流通盤となるアルバム「LIFE」リリース、表題曲リリックビデオ今夜公開\]
+12. [バラードコレクションCD「PRESENT」](https://natalie.mu/music/news/284255/)
+13. [BOYS AND MEN研究生 SING-ALONG](https://store.fent.jp/product/1859/SING-ALONG/)
+14. [BOYS AND MEN研究生 メジャー流通シングル ドドンコDon't worry](http://www.teichiku.co.jp/artist/bmk/discography/TECI-534.html)
+15. [ボイメンエリア研究生 【type A】全エリアver.](https://bak.boysandmen.jp/musics/9306/)
+16. [祭nine. 「嗚呼、夢神輿」](http://www.teichiku.co.jp/artist/matsuri-nine/discography/TECI-574.html)
+17. [B2takes\!\! GROWING](https://mysound.jp/song/4758702/)
+18. [分島花音、「odd sting & intrigue」を配信開始](https://magazine.tunecore.co.jp/newrelease/30190/)

@@ -5,11 +5,11 @@
 
 ## 概要
 
-AEは[ノーマルポジション](https://ja.wikipedia.org/wiki/ノーマルポジション "wikilink")の低級タイプのLH（*Low-Class Low Noise High-Output*）グレードである。
+AEは音楽録音、および一般録音用途に最適化された[ノーマルポジション](https://ja.wikipedia.org/wiki/ノーマルポジション "wikilink")の低級タイプのLH（*Low-Class Low Noise High-Output*）グレードである。
 AEは、[1984年](../Page/1984年.md "wikilink")（昭和59年）2月から1986年1月まで製造・販売されていた4代目D（ディー、*Dynamic*）、および、1984年2月から1986年1月まで製造・販売されていたDS（ディーエス、*Dynamic Spirit*）の後継として登場した。
 当初は日本国内で生産されていたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）以降より[タイでの国外生産に切り替えられた](https://ja.wikipedia.org/wiki/タイ国 "wikilink")\[1\]ものの、 2011年7月にタイで発生した[大洪水の被害の影響により](https://ja.wikipedia.org/wiki/タイ洪水_\(2011年\) "wikilink")、同年12月末を以ってそのまま製造終了・販売終了となった。
 基本的にAEは日本国内専用の商品名だったが、日本国外では**A**（エー、*Acoustic*）、または**D**（ディー、*Dynamic*）などの商品名として販売されていた。
-このほか、AEをベースとした派生製品として**CDing1**（シーディング・ワン）や**B**（ビー、*Brilliant*）などが存在していた。 [Front_of_TDK_D90_20090119.jpg](https://ja.wikipedia.org/wiki/File:Front_of_TDK_D90_20090119.jpg "fig:Front_of_TDK_D90_20090119.jpg")
+このほか、AEをベースとした派生製品として**Dela**（デラ）や**CDing1**（シーディング・ワン）、**B**（ビー、*Brilliant*）などが存在していた。 [Front_of_TDK_D90_20090119.jpg](https://ja.wikipedia.org/wiki/File:Front_of_TDK_D90_20090119.jpg "fig:Front_of_TDK_D90_20090119.jpg")
 
 ## 注
 

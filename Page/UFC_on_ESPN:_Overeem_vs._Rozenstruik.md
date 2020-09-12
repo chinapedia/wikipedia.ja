@@ -107,4 +107,4 @@
 
   -
   -
-[Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのワシントンD.C.大会](https://ja.wikipedia.org/wiki/Category:UFCのワシントンD.C.大会 "wikilink") [Category:ワシントンD.C.のスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.のスポーツ競技大会 "wikilink") [Category:2019年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2019年の総合格闘技 "wikilink") [Category:2019年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:2019年のアメリカ合衆国のスポーツ "wikilink") [Category:2019年12月](https://ja.wikipedia.org/wiki/Category:2019年12月 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのワシントンD.C.大会](https://ja.wikipedia.org/wiki/Category:UFCのワシントンD.C.大会 "wikilink") [Category:2019年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2019年の総合格闘技 "wikilink") [Category:2019年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:2019年のアメリカ合衆国のスポーツ "wikilink") [Category:2019年12月](https://ja.wikipedia.org/wiki/Category:2019年12月 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

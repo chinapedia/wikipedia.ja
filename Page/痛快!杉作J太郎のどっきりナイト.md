@@ -15,7 +15,7 @@
 
 [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")ラジオで[2017年](../Page/2017年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")の土曜日から放送開始。
 
-「サブカルチャー」のトップランナーとして、幾つもの顔を持つ[杉作J太郎](../Page/杉作J太郎.md "wikilink")がプレゼンターを務める生ワイドラジオ番組。
+愛媛県出身で「サブカルチャー」のトップランナーとして、幾つもの顔を持つ[杉作J太郎](../Page/杉作J太郎.md "wikilink")がプレゼンターを務める生ワイドラジオ番組。
 
 その日の大まかなテーマに関するトークとリスナーからのメールやお便りで構成。杉作の膨大な知識と冴え渡る選曲。番組内番組の充実ぶりが特徴。
 
@@ -96,7 +96,7 @@
 <!-- end list -->
 
   - 土曜日
-      - [井上音生のＮＥＯラジ](https://ja.wikipedia.org/wiki/井上音生のＮＥＯラジ "wikilink")（[井上音生](https://ja.wikipedia.org/wiki/井上音生 "wikilink")）
+      - [井上音生のNEOラジ](https://ja.wikipedia.org/wiki/井上音生のNEOラジ "wikilink")（[井上音生](https://ja.wikipedia.org/wiki/井上音生 "wikilink")）
       - [大森靖子のびっくりせいこりん](https://ja.wikipedia.org/wiki/大森靖子のびっくりせいこりん "wikilink")（[大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")）
       - [内田名人とXE先生の古書店探訪スピリッツ](https://ja.wikipedia.org/wiki/内田名人とXE先生の古書店探訪スピリッツ "wikilink")（[杉作J太郎／内田名人](https://ja.wikipedia.org/wiki/杉作J太郎／内田名人 "wikilink")）
 
@@ -167,10 +167,9 @@ Season2～2020年3月
 
 ## 外部リンク
 
-  - [痛快！杉作J太郎のどっきりナイト ホームページ](https://www.rnb.co.jp/radio/j-taro7/)
+  - [痛快！杉作J太郎のどっきりナイト](https://www.rnb.co.jp/radio/j-taro7/)
 
-  - （番組のハッシュタグは「\#痛快J太郎」）
-
+  -
 [Category:南海放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:南海放送のラジオ番組 "wikilink")
 
-[Category:中国・四国地方のラジオ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のラジオ番組 "wikilink") [Category:2017年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2017年のラジオ番組_\(日本\) "wikilink")
+[Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:2017年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2017年のラジオ番組_\(日本\) "wikilink")

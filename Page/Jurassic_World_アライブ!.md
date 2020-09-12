@@ -1,7 +1,7 @@
 > この記事は[Jurassic World アライブ!](https://ja.wikipedia.org/wiki/Jurassic_World_アライブ!)から翻訳されています。
 
 
-『**Jurassic World アライブ\!**』（ジュラシック・ワールド アライブ、原題: ）は、主に2015年の映画『[ジュラシック・ワールド](https://ja.wikipedia.org/wiki/ジュラシック・ワールド "wikilink")』に基づいた、位置情報ゲーム『[Pokémon Go](https://ja.wikipedia.org/wiki/Pokemon_GO "wikilink")』（ポケモンGO）に類似する[拡張現実](../Page/拡張現実.md "wikilink") (AR) [モバイルゲーム](../Page/携帯電話ゲーム.md "wikilink")。Ludiaが開発してLudinaと[ユニバーサル・スタジオ](../Page/ユニバーサル・スタジオ.md "wikilink")が共同で発表し、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")と[Android](../Page/Android.md "wikilink")で2018年春のリリースが予定された。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")と[オーストラリア](../Page/オーストラリア.md "wikilink")では[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")にリリースされた。100を超える恐竜がリリースされる予定で、定期的なアップデートでの追加が期待される\[1\]\[2\]\[3\]\[4\]。
+『**Jurassic World アライブ\!**』（ジュラシック・ワールド アライブ、原題: ）は、主に2015年の映画『[ジュラシック・ワールド](https://ja.wikipedia.org/wiki/ジュラシック・ワールド "wikilink")』に基づいた、位置情報ゲーム『[Pokémon Go](https://ja.wikipedia.org/wiki/Pokémon_GO "wikilink")』（ポケモンGO）に類似する[拡張現実](../Page/拡張現実.md "wikilink") (AR) [モバイルゲーム](../Page/携帯電話ゲーム.md "wikilink")。Ludiaが開発してLudinaと[ユニバーサル・スタジオ](../Page/ユニバーサル・スタジオ.md "wikilink")が共同で発表し、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")と[Android](../Page/Android.md "wikilink")で2018年春のリリースが予定された。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")と[オーストラリア](../Page/オーストラリア.md "wikilink")では[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")にリリースされた。100を超える恐竜がリリースされる予定で、定期的なアップデートでの追加が期待される\[1\]\[2\]\[3\]\[4\]。
 
 米国時間で2018年5月30日にグローバルリリースがなされ\[5\]、同年6月27日には日本語版がリリースされた\[6\]。
 
@@ -216,11 +216,19 @@
 
 ほか多数
 
+## 製作
+
+恐竜・古生物を3Dで再現するためには文献調査と古生物学者および『ジュラシック・ワールド』製作スタッフの協力が必要とされた。大型の恐竜も登場するため、ARにはオートスケール機能が採用され、スマトーフォンと地面・平面との距離が自動で演算されて画面内に収まるようにグラフィックが表示される仕組みになっている\[126\]。
+
 ## 評価
 
-[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")では5件のレビューに基づいてメタスコア58（最高値100）が、7件の評価に基づいてユーザースコア6.6（最高値10）が算出されている\[126\]。
+[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")では5件のレビューに基づいてメタスコア58（最高値100）が、7件の評価に基づいてユーザースコア6.6（最高値10）が算出されている\[127\]。
 
-[イタリア](../Page/イタリア.md "wikilink")の[オンライン新聞](https://ja.wikipedia.org/wiki/オンライン新聞 "wikilink")サイトである[Multiplayer.it](https://ja.wikipedia.org/wiki/Multiplayer.it "wikilink")は本作の生物の捕獲方法（ダーツによるDNA採取）と生物の管理を称えたが、安定性に欠けることと、課金者の優遇が強いことなどを指摘している\[127\]。
+[イタリア](../Page/イタリア.md "wikilink")の[オンライン新聞](https://ja.wikipedia.org/wiki/オンライン新聞 "wikilink")サイトである[Multiplayer.it](https://ja.wikipedia.org/wiki/Multiplayer.it "wikilink")は本作の生物の捕獲方法（ダーツによるDNA採取）と生物の管理を称えたが、安定性に欠けることと、課金者の優遇が強いことなどを指摘している\[128\]。
+
+## 他プロジェクトとの関連
+
+[2020年](../Page/2020年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")、[Google](../Page/Google.md "wikilink")は Universal Brand Development、Amblin Entertainment、Ludiaの3社と共同でGoogle検索に古生物のARビジョンを実装したと発表した。鳴き声や足音を再現する、指で生物を拡大・回転させるなどゲームと同様の操作が可能であり、採用された生物はティラノサウルス、ヴェロキラプトル（ラプトル）、トリケラトプス、スピノサウルス、ステゴサウルス、ブラキオサウルス、アンキロサウルス、ディロフォサウルス、パラサウロロフスの恐竜9種類にプテラノドンの翼竜1種類。このARに使用されている3Dモデリング、テクスチャリング、アニメーションの技術は Jurassic World アライブ\! のものである\[129\]。表示方法はAndroidとiPhoneで異なる\[130\]。
 
 ## 出典
 
@@ -360,3 +368,6 @@
 125.
 126.
 127.
+128.
+129.
+130.

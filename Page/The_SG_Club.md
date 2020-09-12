@@ -1,7 +1,7 @@
 > この記事は[The SG Club](https://ja.wikipedia.org/wiki/The_SG_Club)から翻訳されています。
 
 
-**The SG Club**（エスジー クラブ）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[神南一丁目にある](https://ja.wikipedia.org/wiki/神南#神南一丁目 "wikilink")[バー](../Page/バー_\(酒場\).md "wikilink")。[バーテンダー](../Page/バーテンダー.md "wikilink")の[後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が率いるSG Groupによって運営され、[上海で営業する](../Page/上海市.md "wikilink")「Speak Low」「Sober Company」に続き展開するものである。2020年の[Asia's 50 Best Bars](../Page/Asia's_50_Best_Bars.md "wikilink") 9位、2019年の[The World's 50 Best Bars](../Page/The_World's_50_Best_Bars.md "wikilink") 24位にランクインしている。
+**The SG Club**（エスジー クラブ）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[神南一丁目にある](https://ja.wikipedia.org/wiki/神南#神南一丁目 "wikilink")[バー](../Page/バー_\(酒場\).md "wikilink")。[バーテンダー](../Page/バーテンダー.md "wikilink")の[後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が率いるSG Groupによって運営され、[上海で営業する](../Page/上海市.md "wikilink")「[Speak Low](https://ja.wikipedia.org/wiki/Speak_Low_\(バー\) "wikilink")」「[Sober Company](https://ja.wikipedia.org/wiki/Sober_Company "wikilink")」に続き展開するものである。2020年の[Asia's 50 Best Bars](../Page/Asia's_50_Best_Bars.md "wikilink") 9位、2019年の[The World's 50 Best Bars](../Page/The_World's_50_Best_Bars.md "wikilink") 24位にランクインしている。
 
 ## 概要
 
@@ -23,7 +23,7 @@
   - Sip
     落ち着いた雰囲気の中“味わって飲む”クラシックスタイルバー。
     侍のストーリーがより色濃く反映された空間になっている。このフロアは一部時間帯で予約が可能である。
-    飲みながら[靴磨き](https://ja.wikipedia.org/wiki/靴磨き "wikilink")のサービスを受けられる一角「Sip & Shine」がある。
+    飲みながら[靴磨き](https://ja.wikipedia.org/wiki/靴磨き "wikilink")のサービスを受けられる一角「Sip & Shine」がある\[3\]。
 
 ### 2F
 
@@ -42,29 +42,35 @@
 
 店舗オープン。「Guzzle」と「Sip」で構成される。
 
+### 2018年11月
+
+[中国](../Page/中華人民共和国.md "wikilink")・[上海に姉妹店](../Page/上海市.md "wikilink")「[The Odd Couple](https://ja.wikipedia.org/wiki/The_Odd_Couple_\(バー\) "wikilink")」がオープン。
+
 ### 2019年1月
 
-「Savor」が加わる。
+2Fの「Savor」が加わる。
 
 ### 2019年5月
 
-ウィリアム・リード・ビジネス・メディアが主催する「[ASIA'S 50 BEST BARS](../Page/Asia's_50_Best_Bars.md "wikilink") 2019」にて13位を受賞\[3\]。
+ウィリアム・リード・ビジネス・メディアが主催する「[ASIA'S 50 BEST BARS](../Page/Asia's_50_Best_Bars.md "wikilink") 2019」にて13位を受賞\[4\]。
 
-同アワードにおいて、後閑は「ALTOS BARTENDERS' BARTENDER」を受賞\[4\]。
+同アワードにおいて、後閑は「ALTOS BARTENDERS' BARTENDER」を受賞\[5\]。
 
 ### 2019年7月
 
-バー業界に最も影響を与える人物100名を選出する「Bar World 100」で、後閑が14人目に挙げられる\[5\]。
+バー業界に最も影響を与える人物100名を選出する「Bar World 100」で、後閑が14人目に挙げられる\[6\]。
 
 ### 2019年10月
 
-ウィリアム・リード・ビジネス・メディアが主催する「[THE WORLD'S 50 BEST BARS](../Page/The_World's_50_Best_Bars.md "wikilink") 2019」にて24位を受賞\[6\]。
+ウィリアム・リード・ビジネス・メディアが主催する「[THE WORLD'S 50 BEST BARS](../Page/The_World's_50_Best_Bars.md "wikilink") 2019」にて24位を受賞\[7\]。
 
 ### 2020年5月
 
-「[ASIA'S 50 BEST BARS](../Page/Asia's_50_Best_Bars.md "wikilink") 2020」にて9位を受賞\[7\]。
+「[ASIA'S 50 BEST BARS](../Page/Asia's_50_Best_Bars.md "wikilink") 2020」にて9位を受賞\[8\]。
 
-また、日本国内最高位にランクしたバーを称える賞「The Best Bar in Japan, sponsored by [Nikka Whisky](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink")」が贈られた\[8\]。
+また、日本国内最高位にランクしたバーを称える賞「The Best Bar in Japan, sponsored by [Nikka Whisky](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink")」が贈られた\[9\]。
+
+同月、渋谷・[宇田川町](../Page/宇田川町.md "wikilink")に姉妹店「[The Bellwood](https://ja.wikipedia.org/wiki/The_Bellwood "wikilink")」がオープン。
 
 ## 脚注
 
@@ -77,7 +83,9 @@
   -
   -
   -
-  - [SG Group（株式会社SGマネジメント）](http://sg-management.jp/)
+  -
+  -
+  - [SG Group（株式会社SGマネジメント）](https://sg-management.jp/)
 
   - [WHOLEDESIGN（株式会社ザ ホールデザイン）](https://thewholedesign.com/)
 
@@ -95,3 +103,4 @@
 6.
 7.
 8.
+9.

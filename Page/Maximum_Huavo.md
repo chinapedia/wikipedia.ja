@@ -31,27 +31,29 @@
 1.  **Mujo Parade ～無情のパレード～** (4:06)
 2.  **U** (3:37)
 3.  **KYONETSU ～狂熱の子～** (3:41)
+      -
+        アルバム発売後の2020年5月27日に公式[SNS上にセッション動画を公開した](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[30\]\[31\]。また、セッション動画とコラボできる動画を一般募集し\[32\]、2020年6月20日に公開した\[33\]\[34\]。コラボ動画にはB'zおよび稲葉のソロでサポートメンバーを務めた[大賀好修](../Page/大賀好修.md "wikilink")が参加している\[35\]。
 4.  **Violent Jungle** (4:23)
 5.  **Boku No Yume Wa** (4:07)
 6.  **Demolition Girl** (3:27)
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")』4月テーマソングに起用された\[30\]。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の撮影はショー・クラブ[バーレスク東京](https://ja.wikipedia.org/wiki/バーレスク東京 "wikilink")にて行われ、所属のダンサーも出演している\[31\]。監督は前作『[CHUBBY GROOVE](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")』収録の「AISHI-AISARE」同様、[東市篤憲](https://ja.wikipedia.org/wiki/東市篤憲 "wikilink")が担当している\[32\]。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")』4月テーマソングに起用された\[36\]。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の撮影はショー・クラブ[バーレスク東京](https://ja.wikipedia.org/wiki/バーレスク東京 "wikilink")にて行われ、所属のダンサーも出演している\[37\]。監督は前作『[CHUBBY GROOVE](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")』収録の「AISHI-AISARE」同様、[東市篤憲](https://ja.wikipedia.org/wiki/東市篤憲 "wikilink")が担当している\[38\]。
 7.  **IRODORI** (3:18)
       -
-        アルバム発売後、[新型コロナウイルスの外出自粛に伴い歌詞を一部変更](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")\[33\]して、セッションしている模様を公式[SNS上に公開した](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[34\]\[35\]\[36\]。
+        アルバム発売後、[新型コロナウイルスの外出自粛に伴い歌詞を一部変更](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")\[39\]して、セッションしている模様を公式SNS上に公開した\[40\]\[41\]\[42\]。
 8.  **You Got Me So Wrong** (3:32)
 9.  **Bloodline** (3:38)
 10. **Take On Your Love** (3:13)
 11. **CELICA** (3:52)
       -
-        タイトルは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[乗用車](../Page/乗用車.md "wikilink")[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")\[37\]を指しており、稲葉がアマチュアバンドだったころ、所属していたギタリストの都合でライブの出演がなくなり、時間だけが余りドラマーが所有していたセリカでドライブをした実体験を歌詞にしている\[38\]。
-        歌い出しについてサラスから「コウシ、エルヴィス、コウシ、エルヴィス」と[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")を目指すようリクエストがあった\[39\]。
+        タイトルは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[乗用車](../Page/乗用車.md "wikilink")[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")\[43\]を指しており、稲葉がアマチュアバンドだったころ、所属していたギタリストの都合でライブの出演がなくなり、時間だけが余りドラマーが所有していたセリカでドライブをした実体験を歌詞にしている\[44\]。
+        歌い出しについてサラスから「コウシ、エルヴィス、コウシ、エルヴィス」と[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")を目指すようリクエストがあった\[45\]。
 12. **CELEBRATION ～歓喜の使者～** (3:58)
 
 ### DVD/Blu-ray Disc (初回限定盤のみ)
 
-『INABA／SALAS “CHUBBY GROOVE TOUR 2017”』[Zepp](../Page/Zepp.md "wikilink")Tokyo公演のライブ映像\[40\]\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]。
+『INABA／SALAS “CHUBBY GROOVE TOUR 2017”』[Zepp](../Page/Zepp.md "wikilink")Tokyo公演のライブ映像\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]\[54\]。
 
 1.  **[SAYONARA RIVER](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")**
 2.  **[苦悩の果てのそれも答えのひとつ](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")**
@@ -94,13 +96,13 @@
   - サム・ポマンティ：シンセサイザー(\#1-4.7-10)、[ピアノ](../Page/ピアノ.md "wikilink")(\#7)、[シンセベース](../Page/シンセベース.md "wikilink")(\#5.11)、プログラミング(\#3.9)、[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")プログラミング
   - ルー・ポマンティ：シンセサイザー(\#1.3-5.10.11)
   - ナード・ベーリングス：シンセサイザー(\#3.8)、プログラミング(\#3.9)、ミキシング
-  - プレクサス・プレイ：シンセサイザー(\#3.4.6-8)
+  - プレクサス・プレイ：シンセサイザー(\#3.4.6-8.12)
   - ベン・ムーア：ピアノ(\#12)、ソニックス(\#7)
   - アルマンド・サバルレッコ：ベース(\#1-6.9-11)、アディショナルアレンジメント(\#2)
   - ダリアン・ハートソング：ベース(\#8)
   - ザ・クリスタル・メソッド：シンセベース(\#6)
   - ロッド・ラモット：アディショナルチャントボーカル(\#2)
-  - ルイス・モンタルベルト・スミス：アディショナルボーカルアレンジメント(\#2.12)
+  - ルイス・モンタルベルト・スミス：シンセサイザー(\#12)、アディショナルボーカルアレンジメント(\#2.12)
   - ティム・パーマー：アディショナルギター(\#6)、ミキシング
   - エース・ハーパー：Heys(\#6)
   - ジャスティン・シャルツ：[マスタリング](../Page/マスタリング.md "wikilink")
@@ -110,7 +112,7 @@
 
   - マット・シェロッド：ドラム
   - アンプ・フィドラー：キーボード
-  - [スチュワート・ゼンダー](https://ja.wikipedia.org/wiki/スチュワート・ゼンダー "wikilink")：ベース
+  - [スチュアート・ゼンダー](https://ja.wikipedia.org/wiki/スチュアート・ゼンダー "wikilink")：ベース
 
 ## 脚注
 
@@ -121,7 +123,7 @@
 ## 外部リンク
 
   -
-[Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:VERMILLION_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:VERMILLION_RECORDSのアルバム "wikilink") [Category:2020年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2020年のオリコンアルバムチャート1位獲得作品 "wikilink")
+[Category:稲葉浩志のアルバム](https://ja.wikipedia.org/wiki/Category:稲葉浩志のアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:VERMILLION_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:VERMILLION_RECORDSのアルバム "wikilink") [Category:2020年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2020年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.
 2.
@@ -155,19 +157,25 @@
 30.
 31.
 32.
-33. 「大事な家さえもなくしてしまう」の部分を「自分の家だけが唯一の居場所」に変更している。
+33.
 34.
-35.
+35. <https://www.instagram.com/p/CBsX1YyHdGY/>
 36.
-37. スペイン語で「天の、天空の、神の」という意味がある。
+37.
 38.
-39.
+39. 「大事な家さえもなくしてしまう」の部分を「自分の家だけが唯一の居場所」に変更している。
 40.
 41.
 42.
-43.
+43. スペイン語で「天の、天空の、神の」という意味がある。
 44.
 45.
 46.
 47.
 48.
+49.
+50.
+51.
+52.
+53.
+54.

@@ -28,6 +28,7 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 | 2nd | [2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")                  | **今を生きて**\[7\]\[8\]\[9\] | 作詞:[JAPANMODELS](https://ja.wikipedia.org/wiki/JAPANMODELS "wikilink") 作曲:[JAPANMODELS](https://ja.wikipedia.org/wiki/JAPANMODELS "wikilink")                                                                                                                                 |
 | 3rd | [2019年](../Page/2019年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")                      | **ワタシイロ**\[10\]          | 作詞:RUNA 作曲:RUNA                                                                                                                                                                                                                                                               |
 | 4th | [2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | **Liar Liar**\[11\]      | 作詞:[荘野ジュリ](../Page/荘野ジュリ.md "wikilink") 作曲:[Jin Nakamura](../Page/Jin_Nakamura.md "wikilink") [USEN](../Page/USEN.md "wikilink")にて配信 (2020年3月14日 ～ 2020年3月20日)\[12\]\[13\] [エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")運営のBIG UP\!にてフル版ダウンロード配信中\[14\] |
+| 5th | [2020年](../Page/2020年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")                      | **You’re My Love**\[15\] | 作詞:Kanata Okajima([岡嶋かな多](https://ja.wikipedia.org/wiki/岡嶋かな多 "wikilink")) 作曲:[Carlos K.](https://ja.wikipedia.org/wiki/Carlos_K. "wikilink") [エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")運営のBIG UP\!にてフル版ダウンロード配信中\[16\]                              |
 
 ## イベント
 
@@ -54,29 +55,39 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a> ～ <a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/8月18日.md" title="wikilink">8月18日</a></p></td>
-<td><p><strong>【レコーディング付】テクノポップ系楽曲オリジナルミニアルバム制作イベント</strong>[15]</p></td>
+<td><p><strong>【レコーディング付】テクノポップ系楽曲オリジナルミニアルバム制作イベント</strong>[17]</p></td>
 <td><p>イベント1位でミニアルバム制作権を獲得</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月2日.md" title="wikilink">12月2日</a> ～ <a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月8日.md" title="wikilink">12月8日</a></p></td>
-<td><p><strong>USENプロモーション付き！楽曲制作権争奪戦bySHOWROOMAWARD2019</strong>[16]</p></td>
+<td><p><strong>USENプロモーション付き！楽曲制作権争奪戦bySHOWROOMAWARD2019</strong>[18]</p></td>
 <td><p>イベント2位で最終審査進出 → グランプリを獲得</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月20日.md" title="wikilink">12月20日</a> ～ <a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
-<td><p><strong>制作陣とオーストラリア合宿で楽曲制作！？日豪ヒットプロデューサーによる楽曲提供権争奪戦</strong>[17]</p></td>
-<td><p>審査員特別賞を獲得 Makuakeプロジェクト(クラウドファンディング)にて目標支援金の100万円を達成｡[18]</p>
+<td><p><strong>制作陣とオーストラリア合宿で楽曲制作！？日豪ヒットプロデューサーによる楽曲提供権争奪戦</strong>[19]</p></td>
+<td><p>審査員特別賞を獲得 Makuakeプロジェクト(クラウドファンディング)にて目標支援金の100万円を達成｡[20]</p>
 <p>オーストラリア合宿にてオリジナル楽曲の制作</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a> ～ <a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月29日.md" title="wikilink">2月29日</a></p></td>
-<td><p><strong>数々の有名アーティストを手がける『U-KIRIN』による楽曲提供権争奪戦</strong>[19]</p></td>
+<td><p><strong>数々の有名アーティストを手がける『U-KIRIN』による楽曲提供権争奪戦</strong>[21]</p></td>
 <td><p>イベント2位で最終審査進出 → グランプリを獲得</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a> ～ <a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月6日.md" title="wikilink">5月6日</a></p></td>
-<td><p><strong>【第2弾】SHOWROOM短編映画　主題歌アーティスト決定戦！</strong>[20]</p></td>
+<td><p><strong>【第2弾】SHOWROOM短編映画　主題歌アーティスト決定戦！</strong>[22]</p></td>
 <td><p>イベント1位で最終審査進出 → グランプリを獲得</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a> ～ <a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
+<td><p><strong>第4弾 短編映画エンディング楽曲提供！！【公式配信者限定】</strong>[23]</p></td>
+<td><p>イベント1位で最終審査進出 → グランプリを獲得</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月6日.md" title="wikilink">7月6日</a> ～ <a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p><strong>【決勝】MY FIRST STORYの「NOB」による楽曲提供&amp;MV制作イベント！！</strong>[24]</p></td>
+<td><p>イベント3位で審査員特別賞を獲得し最終審査進出 → グランプリを獲得</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -85,6 +96,13 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 </tr>
 </tbody>
 </table>
+
+## Mystaイベント経歴
+
+| 期間                                                                                                                                                  | イベント名                                           | 結果                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------- |
+| [2020年](../Page/2020年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") ～ [2020年](../Page/2020年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") | **【決勝】有名音楽クリエイター提供｢楽曲制作\&iTunes配信｣チャレンジ**\[25\] | イベント1位でオリジナル楽曲とiTunes配信の権利を獲得 |
+|                                                                                                                                                     |                                                 |                               |
 
 ## 脚注
 
@@ -119,3 +137,8 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 18.
 19.
 20.
+21.
+22.
+23.
+24.
+25.

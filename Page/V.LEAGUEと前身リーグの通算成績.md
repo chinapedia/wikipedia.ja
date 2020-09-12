@@ -11,13 +11,13 @@
 
   - はプロチームを表す。
 
-  - **太字チーム名**は優勝したことを表す。
+  - **太字チーム名**は優勝したことを表す。チーム名に変遷がある場合は、優勝した時のチーム名のみ**太字**とした。
 
-  - チーム名の変遷は/で区切り、一度この名前になり、別の名前を経由してまたこの名前に戻ったとき^をつけた。この名前は別の名前に二度と使われなくなったらを引いた。
+  - チーム名の変遷は/で区切り、一度この名前になり、別の名前を経由してまたこの名前に戻ったとき^をつけた。この名前は別の名前に二度と使われなくなったらを引いた。2020-21シーズン現在。
 
   - **優**、**準**、**三**には地区優勝の回数も含めた。
 
-  - はV1リーグに、はV2リーグに、はV3リーグ(男子のみ)に所属していることを表す。2020-21シーズン現在。ヴォレアス北海道についてはまだVリーグ機構から新たな最終決定がないので、所属ディビジョンは暫定的である。
+  - はV1リーグに、はV2リーグに、はV3リーグ(男子のみ)に所属していることを表す。2020-21シーズン現在。
 
   - 2019-20シーズン終了時点。
 
@@ -426,7 +426,7 @@
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">電電東海</a>/<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">NTT東海</a>/<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">NTT東海レグリス</a>/<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">NTT西日本レグルス</a></p></td>
+<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">電電東海</a>/<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">NTT東海</a>/<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">NTT東海レグルス</a>/<a href="https://ja.wikipedia.org/wiki/NTT西日本レグルス" title="wikilink">NTT西日本レグルス</a></p></td>
 <td><p>19</p></td>
 <td><p>4</p></td>
 <td><p>15</p></td>
@@ -1126,9 +1126,9 @@
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>17</p></td>
+<td><p><strong>17</strong></p></td>
 <td><p>3</p></td>
-<td><p>14</p></td>
+<td><p><strong>14</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1198,7 +1198,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>style="text-align:left|<strong><a href="https://ja.wikipedia.org/wiki/久光製薬スプリングス" title="wikilink">久光製薬(1)</a></strong>/<strong><a href="https://ja.wikipedia.org/wiki/久光製薬スプリングス" title="wikilink">久光製薬スプリングス</a></strong>^/<a href="https://ja.wikipedia.org/wiki/久光製薬スプリングス" title="wikilink">久光製薬スプリングアタッカーズ</a></p></td>
+<td><p>style="text-align:left|<strong><a href="https://ja.wikipedia.org/wiki/久光スプリングス" title="wikilink">久光製薬(1)</a></strong>/<strong></strong>^/<a href="https://ja.wikipedia.org/wiki/久光スプリングス" title="wikilink">久光製薬スプリングアタッカーズ</a>/<a href="https://ja.wikipedia.org/wiki/久光スプリングス" title="wikilink">久光スプリングス</a></p></td>
 <td><p><strong>46</strong></p></td>
 <td><p>27</p></td>
 <td><p>19</p></td>
@@ -1363,7 +1363,7 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p>style="text-align:left|<strong><a href="https://ja.wikipedia.org/wiki/トヨタ車体クインシーズ" title="wikilink">トヨタ車体</a></strong>/<a href="https://ja.wikipedia.org/wiki/トヨタ車体クインシーズ" title="wikilink">トヨタ車体クインシーズ</a></p></td>
+<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/トヨタ車体クインシーズ" title="wikilink">トヨタ車体</a>/<a href="https://ja.wikipedia.org/wiki/トヨタ車体クインシーズ" title="wikilink">トヨタ車体クインシーズ</a></p></td>
 <td><p>21</p></td>
 <td><p>14</p></td>
 <td><p>7</p></td>
@@ -1573,7 +1573,7 @@
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/柏エンゼルクロス" title="wikilink">柏エンゼルクロス</a></p></td>
+<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/千葉エンゼルクロス" title="wikilink">柏エンゼルクロス</a>/<a href="https://ja.wikipedia.org/wiki/千葉エンゼルクロス" title="wikilink">千葉エンゼルクロス</a></p></td>
 <td><p>18</p></td>
 <td><p>0</p></td>
 <td><p>17</p></td>
@@ -1813,7 +1813,7 @@
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
-<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/久光製薬スプリングス" title="wikilink">久光製薬(2)</a>/<a href="https://ja.wikipedia.org/wiki/久光製薬スプリングス" title="wikilink">久光製薬鳥栖</a></p></td>
+<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/久光スプリングス" title="wikilink">久光製薬(2)</a>/<a href="https://ja.wikipedia.org/wiki/久光スプリングス" title="wikilink">久光製薬鳥栖</a></p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
 <td><p>3</p></td>
@@ -1933,7 +1933,7 @@
 </tr>
 <tr class="odd">
 <td><p>51</p></td>
-<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/ルートインホテルズ_Brilliant_Aries" title="wikilink">ルートインホテルズ Brilliant Aries</a></p></td>
+<td><p>style="text-align:left|<a href="https://ja.wikipedia.org/wiki/ルートインホテルズ_Brilliant_Aries" title="wikilink">ルートインホテルズブリリアントアリーズ</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
@@ -2549,6 +2549,22 @@
 
   - Vプレミアリーグとチャレンジリーグの1967-2018までの各Wikipedia記事
   - V.LEAGUEの2018-の各ディビジョンのWikipedia記事
+
+## 記録
+
+すべて2020-21年シーズン現在
+
+  - 堺、パナソニックとJTのみ全53シーズンに在籍している。その中でJTのみ一度も1部リーグから降格していない。
+  - 女子の東レは現在活動している女子チームの中では唯一一度も1部リーグから降格していない。(過去のチームを含めるとユニチカが最も長く一部に在籍している(33シーズン)。)
+
+<!-- end list -->
+
+  - 最多優勝 堺、日立ベルフィーユ (各18回)
+  - 最多勝 619 (堺)
+  - 最多在籍年数 1部:**53** (堺、パナソニック、**JT**)、2部:24 (旭化成)、3部:5 (奈良、トヨタモビリティ)
+  - 最高勝率 .772 (日立ベルフィーユ)
+  - プレーオフ最多優勝 サントリー (7回)
+  - プレーオフ最多勝 57 (久光製薬)
 
 ## 脚注
 

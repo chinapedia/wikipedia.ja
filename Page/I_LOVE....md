@@ -7,7 +7,7 @@
 
   - 前作『[宿命](https://ja.wikipedia.org/wiki/宿命_\(曲\) "wikilink")』から7ヶ月ぶりのシングルとなる\[1\]。映像作品「Official髭男dism one-man tour 2019 @日本武道館」と同時発売された。
   - 2nd EP収録の「[バッドフォーミー](https://ja.wikipedia.org/wiki/Stand_By_You_EP "wikilink")」以来のドラマ主題歌となった。
-  - 2020年1月15日にMV公開。
+  - 2020年1月15日にMV公開。（出演者：山崎七海ほか）
   - 2020年3月6日には、2月10日に行われた「Official髭男dism Tour 19/20 - Hall Travelers -」の[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")公演の当楽曲の映像が自身がCMにも出演している、[Apple Music限定で配信された](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。
 
 ## 収録曲

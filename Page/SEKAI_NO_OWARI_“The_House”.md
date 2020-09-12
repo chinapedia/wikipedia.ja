@@ -5,7 +5,9 @@
 
 ## 概要
 
-　2020年3月に[TOKYO FMの](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")」内の「[セカオワLOCKS\!](https://ja.wikipedia.org/wiki/セカオワLOCKS! "wikilink")」が閉講した後に同局で放送が始まったラジオ番組\[3\]。パーソナリティは[SEKAI NO OWARIの](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")4人で「いつものリビングで、4人のおしゃべりが始まる」をテーマにしている\[4\]。
+2020年3月に[TOKYO FMの](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")」内の「[セカオワLOCKS\!](https://ja.wikipedia.org/wiki/セカオワLOCKS! "wikilink")」が休講した後に同局で放送が始まったラジオ番組\[3\]。実質的な後継番組となっている。パーソナリティは[SEKAI NO OWARIの](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")4人で「いつものリビングで、4人のおしゃべりが始まる」をテーマにしている\[4\]。
+
+2020年6月19日に、[umbrella / Dropoutの追加特典により](https://ja.wikipedia.org/wiki/umbrella_/_Dropout "wikilink")、特別編 The Houseを試聴可能となった。
 
 ## 脚注
 

@@ -25,7 +25,7 @@ NH農協銀行は韓国農協金融持株会社の子会社で、[大韓民国](
 <!-- end list -->
 
   -
-    主な店舗には[国会議事堂](https://ja.wikipedia.org/wiki/国会議事堂_\(大韓民国\) "wikilink")、政府庁舎管理本部、[ソウル大学](https://ja.wikipedia.org/wiki/ソウル大学 "wikilink")、[青瓦台](../Page/青瓦台.md "wikilink")、[監査院などがある](https://ja.wikipedia.org/wiki/大韓民国監査院 "wikilink")。
+    主な店舗には[国会議事堂](https://ja.wikipedia.org/wiki/国会議事堂_\(大韓民国\) "wikilink")、政府庁舎管理本部、[ソウル大学](https://ja.wikipedia.org/wiki/ソウル大学 "wikilink")、[青瓦台](../Page/青瓦台.md "wikilink")、[監査院](https://ja.wikipedia.org/wiki/監査院 "wikilink")などがある。
 
 <!-- end list -->
 

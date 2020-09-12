@@ -9,6 +9,8 @@
 
 12インチ・アナログ盤ディスクのカラーは今回の企画の為に新たに調合したオリジナル・ピンク。[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")はダブルジャケット仕様。オールカラーブックレット付属。
 
+「BITTER SWEET LOLLIPOPS」「HAPPY SUNDAY」「WITH YOU」「黄色いカーディガン」「白い貝のブローチ」「Forever Love」はBibleシリーズ初収録であり、「大切なあなた」「Forever Love」はアナログ盤初収録である。
+
 ## 収録曲
 
 ### Disc 1
@@ -67,7 +69,11 @@
 5.  **[Forever Love](https://ja.wikipedia.org/wiki/Precious_Moment#収録曲 "wikilink")**　（4：08）
       - 作詞：松田聖子／作曲・編曲：大村雅朗
 
-## 脚注
+## 品番
+
+  - 完全生産限定盤: MHJL-141～142
+
+## 参照
 
 ## 関連項目
 
@@ -75,4 +81,4 @@
 
 [Category:松田聖子のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:松田聖子のベスト・アルバム "wikilink") [Category:2020年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のベスト・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
-1.  <http://www.110107.com/s/oto/page/seiko_40th_bible?ima=2459>
+1.

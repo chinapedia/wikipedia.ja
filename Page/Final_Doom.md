@@ -1,7 +1,7 @@
 > この記事は[Final Doom](https://ja.wikipedia.org/wiki/Final_Doom)から翻訳されています。
 
 
-『**Final Doom**』（**ファイナルドゥーム**）は、TeamTNTが開発し1996年に発売された[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。『[Doom II：Hell on Earth](../Page/Doom_II.md "wikilink")』と同じ武器、アイテム、モンスターが登場する\[1\]本作は、[id Softwareから正式にライセンスされた製品として発売され](https://ja.wikipedia.org/wiki/id_Software "wikilink")、GT Interactive Softwareが供給した。
+『**Final Doom**』（ファイナルドゥーム）は、TeamTNTが開発し1996年に発売された[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。『[Doom II：Hell on Earth](../Page/Doom_II.md "wikilink")』と同じ武器、アイテム、モンスターが登場する\[1\]本作は、[id Softwareから正式にライセンスされた製品として発売され](https://ja.wikipedia.org/wiki/id_Software "wikilink")、GT Interactive Softwareが供給した。
 
 Final Doomは、32ステージのmegawads （ステージファイル）非正史（non-canon）の2つのシナリオ、「TNT：Evilution」と「Plutonia Experiment」で構成されている。TNT：Evilutionは新しいサウンドトラックを特徴としているが、The Plutonia Experimentは[DoomとDoom](../Page/DOOM.md "wikilink") IIの音楽を使用している。Final doomは[PC版に加えて](../Page/パーソナルコンピュータ.md "wikilink")、[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")（PS）向けにも発売された。PS版にはFinal DoomとMaster Levels for Doom IIのステージが一つのゲームとしてまとめられていた。
 
@@ -51,7 +51,11 @@ TNT：Evilutionの4つの[ステージを寄稿したダリオとミロのカザ
 
 GameProのメジャー・マイクは、Final Doomには新しい敵や武器がなく、その上プレイステーション版にはPC版の64ステージと比較して30ステージしか含まれていないと批判したが、彼は「巨大で込み入った、時にはサディスティックなステージ」と新しい風景を気に入った\[6\]。PlayStation Magazineは9/10のスコアを付け、「必須」と呼んだ\[7\]。Next Generationのレビュアーの反応は今ひとつであり、彼はオリジナルのDoomのプレイステーション版との対照比較で、Final Doomの[フレームレート](../Page/フレームレート.md "wikilink")ははるかに低く、操作の精度も低く、テクスチャの継ぎ目がより目立っていたと述べた\[8\]。[エレクトロニック・ゲーミング・マンスリー](https://ja.wikipedia.org/wiki/エレクトロニック・ゲーミング・マンスリー "wikilink")の4人のレビュアーのうち3人は、 Doomの移植作を見るのはうんざりしており、Final Doomは新たなステージのマップを備えた単なる別のそのような移植作であると述べた。彼らはまた、ゲームエンジンはDoomが最初に発売されてからの数年でひどく時代遅れになったと述べた。クリスピン・ボイヤーだけが新ステージのデザインへの熱意を表明した\[9\]。
 
-## ノート
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 参考文献
 
@@ -68,8 +72,7 @@ GameProのメジャー・マイクは、Final Doomには新しい敵や武器が
   - [PlanetDOOMの「Final Doom」ページ](https://web.archive.org/web/20090227002210/http://planetdoom.gamespy.com/static.php?page=Final%20Doom&game=3)
 
   -
-
-[Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Id_Softwareのゲーム](https://ja.wikipedia.org/wiki/Category:Id_Softwareのゲーム "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")
+[Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Id_Softwareのゲーム](https://ja.wikipedia.org/wiki/Category:Id_Softwareのゲーム "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:Doom_(フランチャイズ)](https://ja.wikipedia.org/wiki/Category:Doom_\(フランチャイズ\) "wikilink")
 
 1.
 2.

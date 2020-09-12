@@ -1,7 +1,7 @@
 > この記事は[SECRET NUMBER](https://ja.wikipedia.org/wiki/SECRET_NUMBER)から翻訳されています。
 
 
-**SECRET NUMBER**（シークレットナンバー、）は、[2020年](../Page/2020年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")にデビューした、Vineエンターテインメント所属の[韓国の女性](../Page/大韓民国.md "wikilink")[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。韓国、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")出身の5人で構成されている。
+**SECRET NUMBER**（シークレットナンバー、）は、[2020年](../Page/2020年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")にデビューした、Vineエンターテインメント所属の[大韓民国](../Page/大韓民国.md "wikilink")の女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。韓国、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")出身の5人で構成されている。
 
 ## 来歴
 
@@ -81,7 +81,7 @@ DENISE<br />
 <li>血液型：B型</li>
 <li>出身地： <a href="../Page/テキサス州.md" title="wikilink">テキサス州</a></li>
 <li>ポジション：メインボーカル</li>
-<li>韓国系アメリカ人でアメリカ単独国籍</li>
+<li><a href="../Page/韓国系アメリカ人.md" title="wikilink">韓国系アメリカ人</a>でアメリカ単独国籍</li>
 </ul></td>
 </tr>
 </tbody>

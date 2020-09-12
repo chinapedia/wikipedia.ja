@@ -73,7 +73,7 @@
       -
       -
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2016年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に結成した音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2016年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に結成した音楽グループ "wikilink")
 
 1.
 2.

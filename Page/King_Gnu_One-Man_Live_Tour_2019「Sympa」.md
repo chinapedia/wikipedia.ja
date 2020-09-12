@@ -13,9 +13,25 @@
 
 [2019年](../Page/2019年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")の[新木場STUDIO COAST公演にはボーカルの](https://ja.wikipedia.org/wiki/新木場STUDIO_COAST "wikilink")[井口理](https://ja.wikipedia.org/wiki/井口理 "wikilink")の母親が観覧に来ていた。
 
-同年後半にはオータムウィンターツアーが開催。
+同年後半にはオータムウィンターツアー『[King Gnu Live Tour 2019 AW](../Page/King_Gnu_Live_Tour_2019_AW.md "wikilink")』が開催。
 
 [2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に発売される3rdアルバム「[CEREMONY](../Page/CEREMONY.md "wikilink")」の初回生産限定盤にライブ映像([Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink"))として収録される。
+
+## スケジュール
+
+  - 3月3日(日) 東京都／新木場STUDIO COAST
+  - 3月7日(木) 愛知県／名古屋DIAMOND HALL
+  - 3月9日(土) 福岡県／福岡DRUM LOGOS
+  - 3月17日(日) 大阪府／大阪BIGCAT
+  - 3月18日(月) 大阪府／大阪BIGCAT
+  - 3月21日(木・祝) 香川県／高松MONSTER
+  - 3月22日(金) 広島県／広島CLUB QUATTRO
+  - 3月30日(土) 北海道／札幌cube garden
+  - 3月31日(日) 北海道／札幌cube garden
+  - 4月5日(金) 宮城県／仙台Rensa
+  - 4月12日(金) 東京都／新木場STUDIO COAST
+  - 4月15日(月) 大阪府／なんばHatch【追加公演】
+  - 4月21日(日) 東京都／Zepp DiverCity TOKYO【追加公演】
 
 ## セットリスト
 

@@ -93,33 +93,63 @@ PVでは初めてアニメーションが導入され、アルバムの印象を
 
 ### アーケードゲーム
 
-  - SOUND VOLTEX Ⅲ
-      - Wind of Gold-Happy Δmix
+曲名 / アーティスト名で表記。アーティスト表記が無いものはsky_delta名義。合作等その他表記はアーティスト名義で掲載
 
-**Endorfin.名義**
+**SOUND VOLTEX** **SOUND VOLTEX III GRAVITY WARS**
 
-  - MUSECA（コナミ）
-      - 片翼のディザイア
-      - Replica
-  - ノスタルジア（コナミ）
-      - Replica
-  - crossbeats REV.（カプコム）
-      - Spica
-      - ココロメソッド
-  - pop'n music うさぎと猫と少年の夢（コナミ）
-      - white night story
-  - SOUND VOLTEX IV HEAVENLY HAVEN（コナミ）
-      - Four Leaves
-  - [jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")（コナミ）
-      - Four Leaves
-  - [CHUNITHM AMAZON](https://ja.wikipedia.org/wiki/チュウニズム#CHUNITHM_AMAZON "wikilink") ep.III（SEGA）
-      - Innocent Truth\[11\]
+  - DIABLOSIS::Nāga
+  - REVOLVER\[11\]
+  - The Wind of Gold -HΔPPY MIX-
+
+**SOUND VOLTEX IV HEAVENLY HAVEN**
+
+  - All Clear\!\!\[12\]
+
+**MÚSECA**
+
+  - Ice Petal / sky_delta + daph
+
+**jubeat** **jubeat clan**
+
+  - Midnight City Warfare\[13\]
+
+**jubeat festo**
+
+  - EMOTiON TRiPPER\[14\]
+
+**DanceDanceRevolution A**
+
+  - Jewelry days / ときめきアイドル project\[15\]
+
+### アーケードゲーム (Endorfin.名義)
+
+**MÚSECA**
+
+  - 片翼のディザイア
+  - Replica \[16\]
+
+**pop'n music うさぎと猫と少年の夢**
+
+  - white night story
+
+**SOUND VOLTEX IV HEAVENLY HAVEN**
+
+  - Four Leaves\[17\]
+
+**crossbeats REV.**
+
+  - Spica
+  - ココロメソッド
+
+**CHUNITHM AMAZON**
+
+  - Innocent Truth\[18\]
 
 ### ゲームアプリ
 
 **Endorfin.名義**
 
-  - CROSS×BEATS（カプコム）
+  - CROSS×BEATS（カプコン）
       - Spica
       - dispel
       - Filament Flow
@@ -127,7 +157,7 @@ PVでは初めてアニメーションが導入され、アルバムの印象を
 ## イベント・メディア出演
 
   - 2016年5月21日 crossbeats REV. SUNRISE 稼働記念イベント
-      - プラサカプコン 吉祥寺店で、トークショー出演\[12\]
+      - プラサカプコン 吉祥寺店で、トークショー出演\[19\]
   - 2018年3月31日　EDP presents ULTRA SUPER FES ’18
   - 2018年6月3日　Polyphonix
   - 2019年3月3日　Polyphonix 1st Anniversary\!
@@ -138,7 +168,14 @@ PVでは初めてアニメーションが導入され、アルバムの印象を
 
 ## 外部リンク
 
+  -
+  - [株式会社一二三（Hifumi,inc.）プロフィール](https://hifumi-inc.co.jp/sky_delta/)
+
   - [sky_delta](https://namu.wiki/w/sky_delta) （韓国：[ナムウィキ](https://ja.wikipedia.org/wiki/ナムウィキ "wikilink")）
+
+  - [sky_delta / Endorfin. - YouTube](https://www.youtube.com/c/skydeltajp/featured)
+
+  - [Endorfin. Official Channel - YouTube](https://www.youtube.com/channel/UCobUm50YVLZKIF-sBrr6ToA)
 
 [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:1995年生](https://ja.wikipedia.org/wiki/Category:1995年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
@@ -152,5 +189,12 @@ PVでは初めてアニメーションが導入され、アルバムの印象を
 8.
 9.
 10.
-11.
-12.
+11. FLOOR INFECTION経由でbeatmania IIDX 25 CANNON BALLERSにも移植。以後のシリーズから解禁をするには専用のゲーム内通貨を一定程度消費したうえで、シリーズバージョンにおける旧曲解禁要素(イベント)からアンロックしての解禁となる
+12. 初出はEX Track専用イベント解禁枠である「Ω Dimension」Phase.2の楽曲。通常解禁はされていない
+13. POLICY BREAK経由でSOUND VOLTEX IV HEAVENLY HAVENにも移植。「移植先現在においてはPCB消費での解禁。もしくは家庭用タイトル「コナステ」においてSDVXステーション内でのblock消費による解禁」どちらかで可能である
+14.
+15. 作詞・作曲・編曲を担当。BEMANIシリーズにおいては本機種へ収録が行われ、「恋時雨」に音源が収録された。
+16. 後にノスタルジアにも移植。楽曲交換イベントの一連での移植である為、無条件でプレー可
+17. 後にFLOOR INFECTIONイベント経由でjubeat Qubellにも移植。編集時の最新バージョンであるfestoでは600 emoを消費する事で未解禁の場合、SHOP解禁可能。ただし楽曲（旧曲）が現れるかは完全ランダムであり、また解禁の価格もかなり高めの設定になっている
+18.
+19.

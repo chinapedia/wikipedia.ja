@@ -1,7 +1,7 @@
 > この記事は[Re:product mixes ver.0.1](https://ja.wikipedia.org/wiki/Re:product_mixes_ver.0.1)から翻訳されています。
 
 
-『**Re:product mixes ver.0.1**』（リプロダクト・ミクシーズ・バージョン・ワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")に発売したの[リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")。
+『**Re:product mixes ver.0.1**』（リプロダクト・ミクシーズ・バージョン・ワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")に発売した[リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")。
 
 ## 収録曲
 

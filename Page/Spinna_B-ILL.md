@@ -40,4 +40,5 @@
   -
   -
   -
+  -
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:R\&Bミュージシャン](https://ja.wikipedia.org/wiki/Category:R&Bミュージシャン "wikilink") [Category:島根県出身の人物](https://ja.wikipedia.org/wiki/Category:島根県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:パフォーマンス・アーティスト](https://ja.wikipedia.org/wiki/Category:パフォーマンス・アーティスト "wikilink")

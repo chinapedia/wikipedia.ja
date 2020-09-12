@@ -9,7 +9,23 @@
 
 前半ツアーのセットリストに新曲を数曲組み込み曲順を変えた内容のため演奏曲はほぼ前回と同様となっている。(「破裂」のみ披露されず)
 
-ツアー最終日である[2019年](../Page/2019年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") [Zepp Tokyoの公演ではアンコールの際](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、翌[2020年](../Page/2020年.md "wikilink")にメジャー2ndアルバム「CEREMONY」の発売とツアー開催並びに初のアリーナ公演となる国立代々木第一体育館にて2daysのライブが行われることを発表した。
+ツアー最終日である[2019年](../Page/2019年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") [Zepp Tokyoの公演ではアンコールの際](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、翌[2020年](../Page/2020年.md "wikilink")に3rdアルバム「CEREMONY」の発売とツアー開催並びに初のアリーナ公演となる[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館にて2daysのライブが行われることを発表した。
+
+## スケジュール
+
+  - 10月14日(月・祝) 宮城県／仙台GIGS
+  - 10月20日(日) 京都府／KBSホール
+  - 10月22日(火・祝) 東京都／日比谷野外大音楽堂
+  - 10月27日(日) 北海道／Zepp Sapporo
+  - 10月31日(木) 愛知県／Zepp Nagoya
+  - 11月1日(金) 福岡県／Zepp Fukuoka
+  - 11月3日(日・祝) 広島県／BLUE LIVE HIROSHIMA
+  - 11月4日(月・休) 香川県／高松festhalle
+  - 11月6日(水) 大阪府／Zepp Osaka Bayside
+  - 11月7日(木) 大阪府／Zepp Osaka Bayside
+  - 11月16日(土) 東京都／Zepp DiverCity TOKYO
+  - 11月17日(日) 東京都／Zepp DiverCity TOKYO
+  - 11月26日(火) 東京都／Zepp Tokyo
 
 ## セットリスト
 

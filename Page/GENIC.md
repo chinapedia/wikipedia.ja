@@ -1,7 +1,7 @@
 > この記事は[GENIC](https://ja.wikipedia.org/wiki/GENIC)から翻訳されています。
 
 
-**GENIC**（ジェニック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の7人組男女混合ダンス&ボーカルグループ。\[1\] [2019年](../Page/2019年.md "wikilink")結成。[所属事務所は](../Page/芸能事務所.md "wikilink")[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。[所属レコード会社は](../Page/レコード会社.md "wikilink")[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。 [avexの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")を継承する新ダンス&ボーカルグループ育成プロジェクト**a-genic PROJECT**を経て正式メンバーが選ばれ、**GENIC**となった。
+**GENIC**（ジェニック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の7人組男女混合ダンス&ボーカルグループ。\[1\] 2019年結成。2020年5月27日にアルバム『**GENEX』**で[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[所属事務所は](../Page/芸能事務所.md "wikilink")[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。[所属レコード会社は](../Page/レコード会社.md "wikilink")[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。 [avexの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[DNA](https://ja.wikipedia.org/wiki/DNA "wikilink")を継承する新ダンス&ボーカルグループ育成プロジェクト**a-genic PROJECT**を経て正式メンバーが選ばれ、**GENIC**となった。
 
 ## 略歴
 
@@ -13,11 +13,11 @@
 
 その2週間後には3日間の合宿が行われることに。白浜フローラルホールとその周辺で行われた。合宿ではダンスレッスン、ボイストレーニングなどの様々なトレーニングを行い、オリジナル楽曲を人前で披露できるまでになった。\[4\]\[5\]\[6\]
 
-6月9日　事務所の先輩である**[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")**のベストツアー、Da-iCE BEST TOUR 2019 新潟公演の開場時間にホワイエで**a-genic**ライブデビューを果たした。メンバーは全員ではなく選抜で行った。楽曲はプロジェクト発表の際に与えられたオリジナル楽曲の「**Ready Go**」「**夏恋**」を使用。ライブ前にはまずはお客さんを集めえるために1人60枚のビラを配り、集客した。\[7\]
+6月9日　事務所の先輩である**[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")**のベストツアー、Da-iCE BEST TOUR 2019 新潟公演の開場時間にホワイエで**a-genic**ライブデビューを果たした。メンバーは全員ではなく選抜で行った。楽曲はプロジェクト発表の際に与えられたオリジナル楽曲の「**Ready Go**」「**夏恋**」を使用。ライブ前にはお客さんを集めるために1人60枚のビラを配り、集客した。\[7\]
 
 その後も様々な場所でライブ活動は続いた。また、同事務所（[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")）が主催する国内最大の屋外[フェス](https://ja.wikipedia.org/wiki/フェス "wikilink")の**[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")2019**の各公演[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")としての出演が決定。各ライブごとに選抜メンバーが選ばれた。\[8\]\[9\]
 
-8月17日　**[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")**のメイン公演でもある大阪公演が[ヤンマースタジアム長居](https://ja.wikipedia.org/wiki/ヤンマースタジアム長居 "wikilink")で行われた。大阪公演ではメインステージとは別のコミュニティ・ステージで選抜メンバーのライブを行った後、メインステージに出演した。メインステージでは初めて全員（ATSUKIは別の仕事で休みのため11人）でのパフォーマンスとなった。これが**a-genic**としての活動の集大成だ。**全員仲間、全員ライバル**という関係性ではあったが、最後まで活動し切り、絆も垣間見えた。\[10\]
+8月17日　**[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")**のメイン公演でもある大阪公演が[ヤンマースタジアム長居](https://ja.wikipedia.org/wiki/ヤンマースタジアム長居 "wikilink")で行われた。大阪公演ではメインステージとは別のコミュニティ・ステージで選抜メンバーのライブを行った後、メインステージに出演した。メインステージでは初めて全員（ATSUKIは別の仕事で休みのため11人）でのパフォーマンスとなった。これが**a-genic**としての活動の集大成。**全員仲間、全員ライバル**という関係性ではあったが、最後まで活動し終えた。\[10\]
 
 その数日後、メンバー12人全員が集められ、正式メンバーが発表されることに。まず男女混合7人組という事が発表され、正式メンバーは1人ずつ名前が呼ばれた。そして2019年秋に新ダンス＆ボーカルユニットが始動することも発表された。\[11\]\[12\]
 
@@ -57,11 +57,11 @@
 
 5月8日　GENIC初のライブツアー『**GENIC LIVE TOUR 2020 -GENEX-**』が[新型コロナウイルスによる影響で](../Page/2019新型コロナウイルス.md "wikilink")**全公演中止**となった。\[33\]
 
-5月27日 デビューアルバム『**GENEX**』がリリースされ、**メジャーデビュー**を果たす。
+5月27日 デビューアルバム『**GENEX**』がリリースされ、**[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")**を果たす。\[34\]
 
 ## メンバー
 
-公式サイトにおけるプロフィール\[34\]、過去の実績をもとに記述。
+公式サイトにおけるプロフィール\[35\]、過去の実績をもとに記述。
 
 <table>
 <thead>
@@ -74,7 +74,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/増子敦貴" title="wikilink">増子敦貴</a></strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/増子敦貴" title="wikilink">増子 敦貴</a></strong><br />
 (<em>ATSUKI MASHIKO</em>)</p></td>
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td></td>
@@ -82,22 +82,22 @@
 <a href="https://ja.wikipedia.org/wiki/α‐X&#39;s" title="wikilink">α‐X's</a>のメンバーとして活動した。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>西澤呈</strong><br />
+<td><p><strong>西澤 呈</strong><br />
 (<em>JOE NISHIZAWA</em>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Α‐X&#39;s" title="wikilink">α-X'sのメンバーとして活動した</a>。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>雨宮翔</strong><br />
+<td><p><strong>雨宮 翔</strong><br />
 (<em>KAKERU AMEMIYA</em>)</p></td>
 <td><p>神奈川県</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)#エピソード" title="wikilink">chibikkoAAAで</a><a href="../Page/西島隆弘.md" title="wikilink">西島隆弘</a>役をしていた。<br />
-<a href="https://ja.wikipedia.org/wiki/BE×DUNK" title="wikilink">BE×DUNK</a>のメンバーとして活動した。</p></td>
+<a href="https://ja.wikipedia.org/wiki/BE×DUNK" title="wikilink">BE×DUNK</a>のメンバーとして活動した。 <a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラのメンズモデルとして活動していた</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>西本茉生</strong><br />
+<td><p><strong>西本 茉生</strong><br />
 (<em>MAIKI NISHIMOTO</em>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td></td>
@@ -109,7 +109,9 @@
 (<em>MARIA KANEYA</em>)</p></td>
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/まちあわせハチ公ガールズ" title="wikilink">まちあわせハチ公ガールズ</a>のメンバーとして活動していた。 <a href="https://ja.wikipedia.org/wiki/Questy" title="wikilink">Questy</a>のメンバーとして活動した。<br />
+<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a> <a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレ</a>「<a href="https://ja.wikipedia.org/wiki/Rの法則" title="wikilink">Rの法則</a>」R's９期生として活動していた。</p>
+<p>AbemaTV 人気恋愛リアリティーショー『恋する♥週末ホームステイ-Season7』(恋ステ) 出演</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>小池 竜暉　</strong><br />
@@ -123,28 +125,29 @@
 (''YURARI UI '')</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td></td>
-<td><p>avex artist academy名古屋校公式育成ユニットflapbeatsのメンバーとして活動した。</p></td>
+<td><p>元pinklatte webモデル avex artist academy名古屋校公式育成ユニットflapbeatsのメンバーとして活動した。</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 愛称
 
-| メンバー                                                                                                                                                                             | 愛称                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")</small>                                                                                                             | <small>敦貴 あっちゃん</small>                                             |
-| <small>[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink")</small>                                                                                                               | <small>呈 呈くん</small>                                                |
-| <small>[雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>                                                                                                               | <small>翔 かーくん</small>                                               |
-| <small>[西本茉生](https://ja.wikipedia.org/wiki/西本茉生 "wikilink")</small>                                                                                                             | <small>茉生 まいまい まいたん リーダー</small>                                    |
-| <small>[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink")</small>                                                                                                             | <small>鞠杏 まりあんぬ かねまり</small>                                        |
-| <small>[小池竜暉](https://ja.wikipedia.org/wiki/小池竜暉 "wikilink")</small>                                                                                                             | <small>竜暉 ナン王子 王子 こいけちゃん きゅうり りゅーちゃん りゅーくん りゅーたん りゅう こいけちゃん</small> |
-| <small>[宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                                                                           | <small>優良梨 ぴゅらり ゆらりんご</small>                                       |
-| <small>[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink") [宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                     | <small>うぃんぬ(UinU)</small>                                           |
-| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink") [宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small> | <small>紫トリオ</small>                                                 |
-| <small>[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink") [金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink") [雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>     | <small>じょうかけんぬ</small>                                              |
-| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>                                                         | <small>あつかけ</small>                                                 |
-| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                     | <small>あつゆら 紫兄妹</small>                                             |
-| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [西本茉生](https://ja.wikipedia.org/wiki/西本茉生 "wikilink") [小池竜暉](https://ja.wikipedia.org/wiki/小池竜暉 "wikilink")</small> | <small>年長組 おやじ組</small>                                             |
+| メンバー                                                                                                                                                                             | 愛称                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")</small>                                                                                                             | <small>敦貴 あっちゃん ましまし</small>                                                                                                                     |
+| <small>[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink")</small>                                                                                                               | <small>呈 呈くん おじょう ジョーカー</small>                                                                                                                  |
+| <small>[雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>                                                                                                               | <small>翔 かーくん 翔くん 画面バグ眼鏡 </small>                                                                                                                |
+| <small>[西本茉生](https://ja.wikipedia.org/wiki/西本茉生 "wikilink")</small>                                                                                                             | <small>茉生 まいまい まいたん リーダー</small>                                                                                                                 |
+| <small>[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink")</small>                                                                                                             | <small>鞠杏 まりあんぬ あんぬ かねまり</small>                                                                                                                 |
+| <small>[小池竜暉](https://ja.wikipedia.org/wiki/小池竜暉 "wikilink")</small>                                                                                                             | <small>竜暉 竜暉くん ナン王子 王子 こいけちゃん 小池 きゅうり りゅーちゃん りゅーくん りゅーたん りゅう こいけちゃん お母さん おじいちゃん きゅうりママ ママ王子 歯磨き王子 こらぁぁ王子 早寝王子 ふんっ王子 パンイチ王子 村人王子 パンケーキ王子 </small> |
+| <small>[宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                                                                           | <small>優良梨 ぴゅらり ひゅらり ゆらりんご　優良梨ちゃん ういうい</small>                                                                                                   |
+| <small>[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink")×[宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                     | <small>うぃんぬ(UinU)</small>                                                                                                                        |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")×[雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")×[宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small> | <small>紫トリオ</small>                                                                                                                              |
+| <small>[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink")×[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink")×[雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>     | <small>じょうかけんぬ</small>                                                                                                                           |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")×[雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>                                                         | <small>あつかけ</small>                                                                                                                              |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")×[宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                     | <small>あつゆら 紫兄妹</small>                                                                                                                          |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")×[西本茉生](https://ja.wikipedia.org/wiki/西本茉生 "wikilink")×[小池竜暉](https://ja.wikipedia.org/wiki/小池竜暉 "wikilink")</small> | <small>年長組 おやじ組</small>                                                                                                                          |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")×[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink")</small>                                                         | <small>あつじょう</small>                                                                                                                             |
 
 ## ディスコグラフィー
 
@@ -152,19 +155,19 @@
 
 |                      | 発売日                                                                      | タイトル      | 規格               | 規格品番         | [オリコン](../Page/オリコンチャート.md "wikilink") | [Billboard Japan Hot 100](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100 "wikilink") |
 | -------------------- | ------------------------------------------------------------------------ | --------- | ---------------- | ------------ | -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 1st                  | [2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") | **GENEX** | CD+DVD+PHOTOBOOK | AVCD-96513/B | \-                                     | \-                                                                                          |
+| 1st                  | [2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") | **GENEX** | CD+DVD+PHOTOBOOK | AVCD-96513/B | 16位                                    | 17位                                                                                         |
 | CD+Blu-ray+PHOTOBOOK | AVCD-96514/B                                                             |           |                  |              |                                        |                                                                                             |
 | CD+DVD               | AVCD-96515/B                                                             |           |                  |              |                                        |                                                                                             |
 | CD+Blu-ray           | AVCD-96516/B                                                             |           |                  |              |                                        |                                                                                             |
 | CD                   | AVCD-96517                                                               |           |                  |              |                                        |                                                                                             |
 |                      |                                                                          |           |                  |              |                                        |                                                                                             |
 
-### デジタル・ミニアルバム
+### EP
 
 |     | 配信日                                                                        | 作品名                    | 販売形態                   | 収録アルバム    |
 | --- | -------------------------------------------------------------------------- | ---------------------- | ---------------------- | --------- |
-| 1st | [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[35\]  | サブスクリプション音楽ストリーミングサービス | **GENEX** |
-| 2nd | [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[36\] | サブスクリプション音楽ストリーミングサービス |           |
+| 1st | [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[36\]  | サブスクリプション音楽ストリーミングサービス | **GENEX** |
+| 2nd | [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[37\] | サブスクリプション音楽ストリーミングサービス |           |
 
 ## ライブ/ツアー
 
@@ -235,15 +238,17 @@
 
 ## 出演
 
-### テレビ番組
-
 ### 主な個人の出演
 
 個人で単独記事のある者については各記事を参照のこと。
 
+### テレビドラマ
+
+  - [M 愛すべき人がいて](https://ja.wikipedia.org/wiki/M_愛すべき人がいて#テレビドラマ "wikilink")（2020年7月4日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")・ [ABEMA](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 増子、金谷、宇井
+
 #### 雑誌
 
-  - [BLENDA Japan](../Page/BLENDA.md "wikilink")（2020年 - 、[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")）- BJモデル - 金谷\[37\]
+  - [BLENDA Japan](../Page/BLENDA.md "wikilink")（2020年 - 、[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")）- BJモデル - 金谷\[38\]
 
 ## 脚注
 
@@ -314,7 +319,8 @@
 31.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082558|website=GENIC](http://avex.jp/genic/news/detail.php?id=1082558%7Cwebsite=GENIC) Debut Album『GENEX』5月27日(水)リリース決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
 32.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082582|website=GENIC初のライブツアーがチケット売切続出につき急遽追加公演決定！ツアータイトルも『GENIC](http://avex.jp/genic/news/detail.php?id=1082582%7Cwebsite=GENIC初のライブツアーがチケット売切続出につき急遽追加公演決定！ツアータイトルも『GENIC) LIVE TOUR 2020 -GENEX-』に決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
 33.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1083369|website=【重要](http://avex.jp/genic/news/detail.php?id=1083369%7Cwebsite=【重要)】＜GENIC LIVE TOUR 2020 -GENEX-＞開催中止に関するご案内 - NEWS {{\!}}|accessdate=2020-05-08|language=ja}}
-34.
+34.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082558|website=GENIC](http://avex.jp/genic/news/detail.php?id=1082558%7Cwebsite=GENIC) Debut Album『GENEX』5月27日(水)リリース決定！ - NEWS {{\!}}|accessdate=2020-06-02|language=ja}}
 35.
 36.
 37.
+38.

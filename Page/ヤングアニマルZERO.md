@@ -11,7 +11,6 @@
   - ニラメッコ（世岳）
   - 聴けない夜は亡い（[福山リョウコ](../Page/福山リョウコ.md "wikilink")）
   - 隻影の影人（矢神翔）
-  - 去勢転生（原作：[宮月新](https://ja.wikipedia.org/wiki/宮月新 "wikilink")、作画：おちゃう）
   - FLOWER（[押切蓮介](../Page/押切蓮介.md "wikilink")）
   - 百鬼夜京（松本明澄）
   - 先日助けて頂いた〇〇です！（[稲葉そーへー](https://ja.wikipedia.org/wiki/稲葉そーへー "wikilink")）
@@ -21,6 +20,10 @@
   - テンタクル（岡村星）
   - プリズン・オブ・ヘルランド（杉山惇氏）
   - メテオライト（夕海）
+
+## 連載終了作品
+
+  - 去勢転生（原作：[宮月新](https://ja.wikipedia.org/wiki/宮月新 "wikilink")、作画：おちゃう） ※『[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")』に移籍
 
 ## 脚注
 

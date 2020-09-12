@@ -100,7 +100,7 @@ DVD
 
 <references />
 
-[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:2017年設立](https://ja.wikipedia.org/wiki/Category:2017年設立 "wikilink")
+[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:2017年設立](https://ja.wikipedia.org/wiki/Category:2017年設立 "wikilink") [Category:三遠ネオフェニックス関連人物](https://ja.wikipedia.org/wiki/Category:三遠ネオフェニックス関連人物 "wikilink")
 
 1.   ドリーミュージック|url=[https://dreamusic.co.jp/artist/|website=dreamusic.co.jp|accessdate=2020-01-23](https://dreamusic.co.jp/artist/%7Cwebsite=dreamusic.co.jp%7Caccessdate=2020-01-23)}}
 2.

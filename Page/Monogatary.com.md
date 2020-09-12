@@ -44,6 +44,10 @@
 
 ### 出典
 
+## 関連項目
+
+  - [YOASOBI](../Page/YOASOBI.md "wikilink")
+
 ## 外部リンク
 
   - [monogatary.com 公式サイト](https://monogatary.com/)

@@ -29,7 +29,7 @@
 
 ## 引用
 
-[Category:配位化合物](https://ja.wikipedia.org/wiki/Category:配位化合物 "wikilink") [Category:光化学](https://ja.wikipedia.org/wiki/Category:光化学 "wikilink")
+[Category:配位化合物](https://ja.wikipedia.org/wiki/Category:配位化合物 "wikilink") [Category:ルテニウムの化合物](https://ja.wikipedia.org/wiki/Category:ルテニウムの化合物 "wikilink") [Category:ピリジン](https://ja.wikipedia.org/wiki/Category:ピリジン "wikilink") [Category:光化学](https://ja.wikipedia.org/wiki/Category:光化学 "wikilink")
 
 1.
 2.

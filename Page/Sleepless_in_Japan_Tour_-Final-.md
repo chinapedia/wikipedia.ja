@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-Disc 1
+### Disc 1
 
   - \-Sleepless in Saitama 2019.06.16 Saitama Super Arena
 
@@ -45,9 +45,7 @@ Disc 1
 
  
 
-### Disc2 収録曲
-
-前述のように、[2019年](../Page/2019年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")の金沢公演・[2019年](../Page/2019年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の横浜公演より以下の12曲の映像が収録される。  
+### Disc2
 
   - \-Sleepless in Kanazawa 2019.02.05 KANAZAWA EIGHT HALL
 

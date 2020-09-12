@@ -1,7 +1,6 @@
 > この記事は[OUR BEST \(赤西仁のアルバム\)](https://ja.wikipedia.org/wiki/OUR_BEST_\(赤西仁のアルバム\))から翻訳されています。
 
 
-
 『**OUR BEST**』（アワー ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")の1枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[Go Good Recordsから発売](https://ja.wikipedia.org/wiki/Go_Good_Records "wikilink")。
 
 ## 概要

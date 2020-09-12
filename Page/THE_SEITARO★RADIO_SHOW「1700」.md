@@ -26,12 +26,14 @@
   - 17:00　オープニング
   - 17:03　[NACK5 NEWS](https://ja.wikipedia.org/wiki/NACK5_NEWS "wikilink")（ニュースルームのアナウンサーには任せず大野が自ら担当）
   - 17:05　todayトピックス
-  - 17:12　NACK5 TRAFFIC（パチンコ・スロット 夢らんどグループ提供）
+  - 17:12　NACK5 TRAFFIC（パチンコ・スロット 夢らんどグループ提供：交通管制センター）
   - 17:15　デイリー★1700（日替わりコーナー）
-  - 17:26　NACK5 TRAFFIC（[トヨタ勝又グループ](../Page/トヨタ勝又グループ.md "wikilink")提供）
+  - 17:26　NACK5 TRAFFIC（[トヨタ勝又グループ](../Page/トヨタ勝又グループ.md "wikilink")提供：警視庁スタジオ）
   - 17:29　[佐藤栞菜](../Page/佐藤栞菜.md "wikilink")のLions Report（[プロ野球](../Page/プロ野球.md "wikilink")シーズン中のみ放送）
-  - 17:36　NACK5 TRAFFIC
+  - 17:36　NACK5 TRAFFIC（交通管制センター）
   - 17:45　エンディング（最後に曲のリクエストに応えて終了）
+
+※交通管制センターは、月・火曜が吉田、水・木曜が溝淵が担当。
 
 ## コーナー
 

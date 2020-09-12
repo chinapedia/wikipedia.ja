@@ -11,7 +11,7 @@
 
 D.Tableは、デジタルマーケティングに特化した、広告と分析の統合型プラットフォームであるGoogle マーケティング プラットフォーム（Google Marketing Platform, GMP）と、Google のインフラがクラウド上で提供され大規模データの解析や機械学習などに強みを持つ Google Cloud（Google Cloud Platform, GCP）を総合的にコンサルティングする。
 
-Google Cloud Platformの導入件数日本No1のクラウドエース社と、Google Marketing Platformでの豊富な経験を持つDACの互いの強みを活かし、Googleプラットフォームにおける顧客データ分析のための環境構築からマーケティング活用までを一気通貫でコンサルすることで、デジタルマーケティングに関連する部門の壁を飛び越えた、ワンストップのサービスを提供する。 [代替文=](https://ja.wikipedia.org/wiki/ファイル:D.Table_DAC_CloudAce_About-together.png "wikilink")
+Google Cloud Platformの導入件数日本No1のクラウドエース社と、Google Marketing Platformでの豊富な経験を持つDACの互いの強みを活かし、Googleプラットフォームにおける顧客データ分析のための環境構築からマーケティング活用までを一気通貫でコンサルすることで、デジタルマーケティングに関連する部門の壁を飛び越えた、ワンストップのサービスを提供する。 [代替文=](https://ja.wikipedia.org/wiki/ファイル:D.Table_DAC_CloudAce.png "wikilink")
 
 ## 沿革
 

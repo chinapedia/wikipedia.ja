@@ -1,7 +1,7 @@
 > この記事は[C・J・サポング](https://ja.wikipedia.org/wiki/C・J・サポング)から翻訳されています。
 
 
-**C・J・サポング**（C. J. Sapong、[1988年](../Page/1988年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[同国](../Page/サッカーアメリカ合衆国代表.md "wikilink")[サッカー選手](../Page/サッカー選手.md "wikilink")。[シカゴ・ファイアーFC](../Page/シカゴ・ファイアーFC.md "wikilink")所属。ポジションは[FW](../Page/フォワード_\(サッカー\).md "wikilink")。
+**C・J・サポング**（C. J. Sapong、[1988年](../Page/1988年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[同国代表](../Page/サッカーアメリカ合衆国代表.md "wikilink")[サッカー選手](../Page/サッカー選手.md "wikilink")。[シカゴ・ファイアーFC](../Page/シカゴ・ファイアーFC.md "wikilink")所属。ポジションは[FW](../Page/フォワード_\(サッカー\).md "wikilink")。
 
 ## クラブ経歴
 
@@ -44,7 +44,7 @@
   -
   - [Sacred Seeds](https://www.thesacredseeds.org/)
 
-[Category:アメリカ合衆国のサッカー選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のサッカー選手 "wikilink") [Category:サッカーアメリカ合衆国代表選手](https://ja.wikipedia.org/wiki/Category:サッカーアメリカ合衆国代表選手 "wikilink") [Category:アフリカ系アメリカ人のスポーツ選手](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のスポーツ選手 "wikilink") [Category:スポルティング・カンザスシティの選手](https://ja.wikipedia.org/wiki/Category:スポルティング・カンザスシティの選手 "wikilink") [Category:オーランド・シティSCの選手](https://ja.wikipedia.org/wiki/Category:オーランド・シティSCの選手 "wikilink") [Category:フィラデルフィア・ユニオンの選手](https://ja.wikipedia.org/wiki/Category:フィラデルフィア・ユニオンの選手 "wikilink") [Category:シカゴ・ファイアーの選手](https://ja.wikipedia.org/wiki/Category:シカゴ・ファイアーの選手 "wikilink") [Category:バージニア州の人物](https://ja.wikipedia.org/wiki/Category:バージニア州の人物 "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ジェームズ・マディソン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ジェームズ・マディソン大学出身の人物 "wikilink")
+[Category:アメリカ合衆国のサッカー選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のサッカー選手 "wikilink") [Category:サッカーアメリカ合衆国代表選手](https://ja.wikipedia.org/wiki/Category:サッカーアメリカ合衆国代表選手 "wikilink") [Category:アフリカ系アメリカ人のサッカー選手](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のサッカー選手 "wikilink") [Category:スポルティング・カンザスシティの選手](https://ja.wikipedia.org/wiki/Category:スポルティング・カンザスシティの選手 "wikilink") [Category:オーランド・シティSCの選手](https://ja.wikipedia.org/wiki/Category:オーランド・シティSCの選手 "wikilink") [Category:フィラデルフィア・ユニオンの選手](https://ja.wikipedia.org/wiki/Category:フィラデルフィア・ユニオンの選手 "wikilink") [Category:シカゴ・ファイアーの選手](https://ja.wikipedia.org/wiki/Category:シカゴ・ファイアーの選手 "wikilink") [Category:バージニア州の人物](https://ja.wikipedia.org/wiki/Category:バージニア州の人物 "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ジェームズ・マディソン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ジェームズ・マディソン大学出身の人物 "wikilink")
 
 1.
 2.

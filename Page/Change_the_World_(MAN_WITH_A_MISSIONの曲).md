@@ -1,7 +1,7 @@
 > この記事は[Change the World \(MAN WITH A MISSIONの曲\)](https://ja.wikipedia.org/wiki/Change_the_World_\(MAN_WITH_A_MISSIONの曲\))から翻訳されています。
 
 
-「**Change the World**」（チェンジ・ザ・ワールド）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")12枚目の[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。[2019年](../Page/2019年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売予定\[1\]。
+「**Change the World**」（チェンジ・ザ・ワールド）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")12枚目の[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。[2020年](../Page/2020年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売された\[1\]。
 
 ## 概要
 
@@ -13,8 +13,14 @@
 ## 収録曲
 
 1.  **Change the World**
+      -
+        作詞・作曲：Jean-Ken Johnny / 編曲：MAN WITH A MISSION, [中野雅之](../Page/BOOM_BOOM_SATELLITES.md "wikilink")
+    <!-- end list -->
       - 2020 [NHKサッカーテーマソング](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
 2.  **Rock Kingdom feat.[布袋寅泰](../Page/布袋寅泰.md "wikilink")**
+      -
+        作詞：Kamikaze Boy, Jean-Ken Johnny / 作曲：Kamikaze Boy / 編曲：MAN WITH A MISSION, 布袋寅泰, 中野雅之
+    <!-- end list -->
       - フィーチャリングギタリストとして、[布袋寅泰](../Page/布袋寅泰.md "wikilink")が参加している。
 
 ## 脚注

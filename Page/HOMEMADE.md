@@ -1,7 +1,7 @@
 > この記事は[HOMEMADE](https://ja.wikipedia.org/wiki/HOMEMADE)から翻訳されています。
 
 
-「**HOMEMADE**」（シックスティーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")・[さなり](https://ja.wikipedia.org/wiki/さなり "wikilink")の1枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")よりリリースされた。
+『**HOMEMADE**』（ホームメイド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")・[さなり](https://ja.wikipedia.org/wiki/さなり "wikilink")の1枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")よりリリースされた。
 
 ## 概要
 
@@ -11,13 +11,11 @@
 
 ## 脚注
 
-<references />
-
 ## 外部リンク
 
   - [公式サイトによる紹介ページ](https://sanaridayo.com/music/368)
 
-[Category:さなり](https://ja.wikipedia.org/wiki/Category:さなり "wikilink") [Category:2019年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のミニ・アルバム "wikilink") [Category:A-Sketchのアルバム](https://ja.wikipedia.org/wiki/Category:A-Sketchのアルバム "wikilink")
+[Category:2019年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のミニ・アルバム "wikilink") [Category:A-Sketchのアルバム](https://ja.wikipedia.org/wiki/Category:A-Sketchのアルバム "wikilink")
 
 1.
 2.

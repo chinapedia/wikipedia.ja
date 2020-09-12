@@ -940,7 +940,7 @@
 
 ### 参加作品
 
-  - [Monsta X](https://ja.wikipedia.org/wiki/Monsta_X "wikilink") - RUSH
+  - [MONSTA X](https://ja.wikipedia.org/wiki/MONSTA_X "wikilink") - RUSH
   - SLEEPY - Body Lotion (Feat. [バン・ヨングク](https://ja.wikipedia.org/wiki/B.A.P#メンバー "wikilink")) (Prod. GIRIBOY)
   - Young B - Better man (Feat. Crucial Star)
   - ハン・ヨハン - Your being (Feat. Swings, Kid Milli)

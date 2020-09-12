@@ -1,7 +1,7 @@
 > この記事は[リヒャルト・Z・クルスペ](https://ja.wikipedia.org/wiki/リヒャルト・Z・クルスペ)から翻訳されています。
 
 
-**リヒャルト・Z・クルスペ**（Richard Z. Kruspe、[1967年](../Page/1967年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[ラムシュタイン](https://ja.wikipedia.org/wiki/ラムシュタイン "wikilink")の[ギターリスト](https://ja.wikipedia.org/wiki/ギターリスト "wikilink")。[シュヴェリーン](https://ja.wikipedia.org/wiki/シュヴェリーン "wikilink")出身。身長187cm。
+**リヒャルト・Z・クルスペ**（Richard Z. Kruspe、[1967年](../Page/1967年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[ラムシュタイン](https://ja.wikipedia.org/wiki/ラムシュタイン "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。[シュヴェリーン](https://ja.wikipedia.org/wiki/シュヴェリーン "wikilink")出身。身長187cm。
 
 ## 来歴
 
@@ -18,4 +18,4 @@
 ## 外部リンク
 
   -
-[Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ラムシュタインのメンバー](https://ja.wikipedia.org/wiki/Category:ラムシュタインのメンバー "wikilink")
+[Category:ドイツのギタリスト](https://ja.wikipedia.org/wiki/Category:ドイツのギタリスト "wikilink") [Category:ラムシュタインのメンバー](https://ja.wikipedia.org/wiki/Category:ラムシュタインのメンバー "wikilink") [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

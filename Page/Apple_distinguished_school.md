@@ -1,14 +1,14 @@
 > この記事は[Apple distinguished school](https://ja.wikipedia.org/wiki/Apple_distinguished_school)から翻訳されています。
 
 
-**Apple distinguished school**とは、[Apple](https://ja.wikipedia.org/wiki/Apple "wikilink")社が最新の要件を満たした[教育機関](../Page/教育機関.md "wikilink")を対象にした招待制のプログラムである。認定は[Apple](https://ja.wikipedia.org/wiki/Apple "wikilink")が行う。認定は3年間有効で、認定期間内に更新することができる。\[1\]
+**Apple distinguished school**とは、[Apple](https://ja.wikipedia.org/wiki/Apple "wikilink")社が最新の要件を満たした[教育機関](../Page/教育機関.md "wikilink")を対象にした招待制のプログラムである。認定は[Apple](https://ja.wikipedia.org/wiki/Apple "wikilink")が行う。認定は3年間有効で、認定期間内に更新することができる\[1\]。
 
 ## 認定条件
 
-  - 1人1台プログラムが2年以上にわたって、確立されていること。\[2\]
-  - Appleの製品やサービスを革新的に活用していること。\[3\]
-  - 教職員が[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")または[Mac](https://ja.wikipedia.org/wiki/Mac "wikilink")に習熟していること。教職員の75％がApple Teacherとして認定を受けていること。\[4\]
-  - 成果が記録されていること。\[5\]
+  - 1人1台プログラムが2年以上にわたって、確立されていること\[2\]。
+  - Appleの製品やサービスを革新的に活用していること\[3\]。
+  - 教職員が[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")または[Mac](https://ja.wikipedia.org/wiki/Mac "wikilink")に習熟していること。教職員の75％がApple Teacherとして認定を受けていること\[4\]。
+  - 成果が記録されていること\[5\]。
 
 ## 認定校
 

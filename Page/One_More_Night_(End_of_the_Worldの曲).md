@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - **日本を除く**諸外国の[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[Amazon Musicなどのデジタルミュージックストアで購入できるほか](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")、[Apple Musicに代表される定額制音楽ストリーミングサービスでも聞くことができる](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。また、[SoundCloud](https://ja.wikipedia.org/wiki/SoundCloud "wikilink")でもリミックスを含むすべてのバージョンを聞くことができる。
-  - 日本においては、定額制音楽ストリーミングサービスのなかで[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")のみで聞くことができる。
-  - 通常バージョンと5つリミックスバージョンの合計6種類存在する。
+  - **日本を除く**諸外国の[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[Amazon Musicなどのデジタルミュージックストアで購入できるほか](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")、[Apple Musicに代表される定額制音楽ストリーミングサービスでも聴くことができる](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。また、[SoundCloud](https://ja.wikipedia.org/wiki/SoundCloud "wikilink")でもリミックスを含むすべてのバージョンを聴くことができる。
+  - 日本においては、定額制音楽ストリーミングサービスのなかで[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")のみで聴くことができる。
+  - 通常バージョンと5つのリミックスバージョン、合計6種類存在する。
 
 ## 収録曲
 
@@ -21,32 +21,32 @@
 
 1.  One More Night (Tep No Remix)
 
-[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のトラックメイカーTep Noによるリミックス。
+> [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のトラックメイカーTep Noによるリミックス。
 
 ### One More Night (Gray Remix)
 
 1.  One More Night (Gray Remix)
 
-2017年6月9日発売。兄弟でデュオを組んでいる[アメリカのエレクトリックミュージックグループ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・Grayによるリミックス。
+> 2017年6月9日発売。兄弟でデュオを組んでいる[アメリカのエレクトリックミュージックグループ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・Grayによるリミックス。
 
 ### One More Night (Ryan Riback Remix)
 
 1.  One More Night (Ryan Riback Remix)
 
-2017年6月23日発売。[オーストリア](../Page/オーストリア.md "wikilink")に拠点を置く音楽家Ryan Ribackによるリミックス。
+> 2017年6月23日発売。[オーストリア](../Page/オーストリア.md "wikilink")に拠点を置く音楽家Ryan Ribackによるリミックス。
 
 ### One More Night (Mako Remix)
 
 1.  One More Night (Mako Remix)
 
-2017年7月21日発売。
+> 2017年7月21日発売。
 
 1.
 ### One More Night (Steerner Remix)
 
 1.  One More Night (Steerner Remix)
 
-2017年8月4日発売。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")出身のDJ兼音楽プロデューサーのSteernerによるリミックス。
+> 2017年8月4日発売。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")出身のDJ兼音楽プロデューサーのSteernerによるリミックス。
 
 ### One More Night (Remixes)
 
@@ -56,7 +56,7 @@
 4.  One More Night (Mako Remix)
 5.  One More Night (Steerner Remix)
 
-2017年8月4日発売。すべてのリミックスが収録されている。
+> 2017年8月4日発売。すべてのリミックスが収録されている。
 
 ## 脚注
 

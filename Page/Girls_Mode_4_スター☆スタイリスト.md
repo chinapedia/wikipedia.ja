@@ -116,6 +116,10 @@
   - キャラクターデザイン：[星野リリィ](../Page/星野リリィ.md "wikilink")
   - ムービー：[Spooky graphic](https://ja.wikipedia.org/wiki/Spooky_graphic "wikilink")
 
+## 評価
+
+週刊[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")1508号の[クロスレビュー](../Page/クロスレビュー.md "wikilink")では、4人全員が8点をつけ40点満点中32点でゴールド殿堂入りとなった\[1\]。
+
 ## 脚注
 
 ## 出典
@@ -127,3 +131,5 @@
   -
 
 [Category:2017年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2017年のコンピュータゲーム "wikilink") [Category:ニンテンドー3DS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用ソフト "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:シンソフィアのゲームソフト](https://ja.wikipedia.org/wiki/Category:シンソフィアのゲームソフト "wikilink") [Category:ファッションを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファッションを題材としたコンピュータゲーム "wikilink") [Category:すれちがい通信対応ソフト](https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト "wikilink") [Category:Amiibo対応ソフト](https://ja.wikipedia.org/wiki/Category:Amiibo対応ソフト "wikilink")
+
+1.  [Girls Mode 4 スター☆スタイリストのレビュー・評価・感想](https://www.famitsu.com/games/t/35154/reviews/) ファミ通.com 2020年6月6日閲覧。

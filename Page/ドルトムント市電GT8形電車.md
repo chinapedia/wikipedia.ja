@@ -86,7 +86,7 @@ GT8形は両運転台の[3車体連接車で](../Page/連接台車.md "wikilink"
 
   -
   -
-[Category:デュワグ製の路面電車車両](https://ja.wikipedia.org/wiki/Category:デュワグ製の路面電車車両 "wikilink") [Category:ドイツの路面電車車両](https://ja.wikipedia.org/wiki/Category:ドイツの路面電車車両 "wikilink") [Category:日本の路面電車車両](https://ja.wikipedia.org/wiki/Category:日本の路面電車車両 "wikilink") [Category:ルーマニアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ルーマニアの路面電車車両 "wikilink") [Category:かつて存在した路面電車車両](https://ja.wikipedia.org/wiki/Category:かつて存在した路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:1959年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1959年製の鉄道車両 "wikilink")
+[Category:デュワグ製の路面電車車両](https://ja.wikipedia.org/wiki/Category:デュワグ製の路面電車車両 "wikilink") [Category:ドイツの路面電車車両](https://ja.wikipedia.org/wiki/Category:ドイツの路面電車車両 "wikilink") [Category:日本の路面電車車両](https://ja.wikipedia.org/wiki/Category:日本の路面電車車両 "wikilink") [Category:ルーマニアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ルーマニアの路面電車車両 "wikilink") [Category:かつて存在した路面電車車両](https://ja.wikipedia.org/wiki/Category:かつて存在した路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:1959年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1959年製の鉄道車両 "wikilink")
 
 1.
 2.

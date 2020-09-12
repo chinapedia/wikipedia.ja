@@ -43,7 +43,7 @@
 
 2019年12月18日、本作のティーザー・トレイラーが公開された\[14\]。2020年1月1日、本作のオフィシャル・トレイラーが公開された\[15\]。3月8日、本作は[ニューヨーク](../Page/ニューヨーク.md "wikilink")でプレミア上映された\[16\]。
 
-当初、本作は2020年3月15日に全米公開される予定だったが\[17\]、後に公開日は同月20日に延期された\[18\]。2020年3月12日、[アメリカ合衆国で新型コロナウイルスが流行していることを受けて](../Page/アメリカ合衆国における2019年コロナウイルス感染症の流行状況.md "wikilink")、パラマウント映画は本作の公開を2020年9月4日に延期すると発表した\[19\]\[20\]。
+当初、本作は2020年3月15日に全米公開される予定だったが\[17\]、後に公開日は同月20日に延期された\[18\]。2020年3月12日、[アメリカ合衆国で新型コロナウイルスが流行していることを受けて](../Page/アメリカ合衆国における2019年コロナウイルス感染症の流行状況.md "wikilink")、パラマウント映画は本作の公開を2020年9月4日に延期すると発表した\[19\]\[20\]。その後2021年4月23日に再延期された\[21\]。
 
 ## 出典
 
@@ -75,3 +75,4 @@
 18.
 19.
 20. ['A Quiet Place Part II' Sets New September Release Date](https://www.hollywoodreporter.com/heat-vision/a-quiet-place-part-ii-sets-new-september-2020-release-date-1287096)、[ハリウッド・リポーター](https://ja.wikipedia.org/wiki/ハリウッド・リポーター "wikilink")
+21. [‘A Quiet Place 2,’ ‘Top Gun: Maverick’ Delayed Until 2021](https://variety.com/2020/film/box-office/a-quiet-place-2-top-gun-maverick-release-date-delay-1234709716/)、[バラエティ](../Page/バラエティ_\(アメリカ合衆国の雑誌\).md "wikilink")

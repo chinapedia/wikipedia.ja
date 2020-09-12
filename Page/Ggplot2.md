@@ -1,7 +1,7 @@
 > この記事は[Ggplot2](https://ja.wikipedia.org/wiki/Ggplot2)から翻訳されています。
 
 
-**ggplot2**は、 統計プログラミング言語[Rの](../Page/R言語.md "wikilink") データ視覚化パッケージである。2005年にHadkey Wickhamによって作成されたggplot2は、[リーランド・ウィルキンソン](https://ja.wikipedia.org/wiki/リーランド・ウィルキンソン "wikilink")のGrammar of Graphicsの実装である。これは、グラフをスケールやレイヤーなどのセマンティックコンポーネントに分割するデータ視覚化の一般的なスキームである。
+**ggplot2**は、 統計プログラミング言語[Rのデータ視覚化パッケージである](../Page/R言語.md "wikilink")。2005年にHadkey Wickhamによって作成されたggplot2は、[リーランド・ウィルキンソン](https://ja.wikipedia.org/wiki/リーランド・ウィルキンソン "wikilink")のGrammar of Graphicsの実装である。これは、グラフをスケールやレイヤーなどのセマンティックコンポーネントに分割するデータ視覚化の一般的なスキームである。
 
 ggplot2は、Rの基本グラフィックスの代替として機能し、一般的な縮尺のWebおよび印刷表示のデフォルトが多数含まれている。 2005年以来、ggplot2は最も人気のあるRパッケージの1つになりつつある。 \[1\] \[2\]
 

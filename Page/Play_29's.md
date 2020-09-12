@@ -13,7 +13,7 @@
 
 ## プロデューサー
 
-[プロジェクト](../Page/プロジェクト.md "wikilink")の[プロデューサー](../Page/プロデューサー.md "wikilink")は\[\[韓国|韓国\]\]人\[\[写真家|写真家\]\]の**キム・ドゥハ**が行っている。2019年の9月に撮影した29歳の女性の[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")に、29歳の記念撮影を依頼されたことがきっかけでPlay 29'sのプロジェクトの立ち上げを行っている。
+[プロジェクト](../Page/プロジェクト.md "wikilink")の[プロデューサー](../Page/プロデューサー.md "wikilink")は[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")人[写真家](../Page/写真家.md "wikilink")の**キム・ドゥハ**が行っている。2019年の9月に撮影した29歳の女性の[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")に、29歳の記念撮影を依頼されたことがきっかけでPlay 29'sのプロジェクトの立ち上げを行っている。
 
 ### キム・ドゥハ
 
@@ -41,32 +41,35 @@
   -
     [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の若年層の間で撮影される友情写真の[スタイル](../Page/スタイル.md "wikilink")を元に、複数人で撮影するポートレイト写真
 
+<!-- end list -->
 
+  - **「ポトンソニョ（普女)」
+    **普通の少女、という意味である｢ポトンソニョ｣はプロの[モデル](../Page/モデル_\(職業\).md "wikilink") ではなく、一般の女性が〝今の自分の美しさ〟を[記録](../Page/記録.md "wikilink")するための[ポートレイト写真](https://ja.wikipedia.org/wiki/ポートレイト写真 "wikilink")です。
 
 ## 画像
 
 ## 主な作品
 
-### 写真 ・「ポトンソニョ（普女）
+### 写真 ・「ポトンソニョ（普女)」
 
-### ・ 記憶のカケラ
+### 　　 ・ 記憶のカケラ
 
-### ・ Play29's
+### 　　 ・ Play29's
 
 ### 　　 ・ 農作物
 
 ### 　　 ・ 毛糸
 
-### 本　・「ポトンソニョ（普女）」
+### 本　・「ポトンソニョ（普女)」
 
 
 \== 展示会 ==
 
   - 29歳、[写真](../Page/写真.md "wikilink")と遊ぼう spctacleKITAHAMA 2020.2.28 (fri)-3.31(tue)
   - AiPHT PLUS tokyo 2020.2.17.(mon)-3.21(sat)
-  - アートの風　osaka 2020.4.14(tue)-4.28(tue)
   - Kim Dooha Solo Exhibitions kyoto 5月のときめき　2020.5.26(tue)-6.7(sun)
   - ART OSAKA 2020 osaka 2020.6.27(sat)-6.28(sun)
+  - Kim Dooha Solo Exhibitions BE= Lab ＆ Gallery「もう一人の自画像」2020.7/1wed〜7/12sun
   - ART in PARK HOTEL TOKY O2020 2020.9.26(sat)-9.27(sat)
 
 
@@ -75,7 +78,7 @@
 
 ## 外部リンク
 
-  - [Play29's](https://www.facebook.com/play29s/)
+  - [Play29's](https://www.facebook.com/play29s/) (公式facebook)
   - [LOFT:D](https://kimdooha.loftd.co.jp) （スタジオ公式サイト）
   - [キム・ドゥハ](https://www.instagram.com/kimdooha/?hl=ja)（公式インスタグラム)
   - [GOODDOEIZA](https://good.loftd.co.jp/)

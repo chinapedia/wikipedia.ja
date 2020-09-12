@@ -6,7 +6,7 @@ local function trimArg(arg, i)
 `   arg = mw.text.trim(arg or '')`
 `   if arg == '' then`
 `       if i then`
-`           error('Parameter ' .. i .. ' is missing. See `[`Template:NUMBEROF`](https://ja.wikipedia.org/wiki/Template:NUMBEROF "wikilink")` documentation')`
+`           error('Parameter ' .. i .. ' is missing. See template documentation')`
 `       end`
 `       return nil`
 `   end`
@@ -88,4 +88,37 @@ local function main(frame)
 
 end
 
-return { main = main }
+local function rank(frame)
+
+`   -- Rank sites in a specified sister project by their number of articles.`
+`   local args = frame:getParent().args`
+`   local parm = trimArg(args[1], 1)  -- a number like 12 or a site name like "af" (not "af.wikipedia")`
+`   local base = trimArg(args[2]) or 'wikipedia'  -- base of full site name like "wikipedia" or "wikiquote"`
+`   local wantComma = trimArg(args[3])`
+`   local data = mw.loadData('Module:NUMBEROF/' .. (base == 'wikipedia' and 'rank' or 'other'))`
+`   data = data[base]`
+`   if data then`
+`       local result`
+`       parm = tonumber(parm) or parm`
+`       if type(parm) == 'number' then`
+`           result = data.rankByIndex[parm]`
+`       else`
+`           result = data.rankBySite[parm]`
+`           if result and wantComma then`
+`               result = mw.getContentLanguage():formatNum(result)`
+`           end`
+`       end`
+`       if result then`
+`           return result  -- number or string`
+`       end`
+`   end`
+`   return -1`
+
+end
+
+return {
+
+`   main = main,`
+`   rank = rank,`
+
+}

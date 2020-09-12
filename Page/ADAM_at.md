@@ -554,8 +554,8 @@ VICL-65211</p></td>
 <td><p>'''零</p></td>
 <td><p>CD<br />
 VICL-65384</p></td>
-<td><p>TBA</p></td>
-<td><p>TBA</p></td>
+<td><p>35位</p></td>
+<td><p>2回</p></td>
 <td><div class="NavFrame" style="clear: both; border:0;">
 <div class="NavHead" style="text-align: center;">
 <p>全11曲</p>

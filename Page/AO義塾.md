@@ -50,6 +50,7 @@ AO義塾校舎一覧
   - [青木大和](https://ja.wikipedia.org/wiki/青木大和 "wikilink")
   - [戸村光](https://ja.wikipedia.org/wiki/戸村光 "wikilink")
   - [渡辺夏彦](https://ja.wikipedia.org/wiki/渡辺夏彦 "wikilink")
+  - 与田良介
 
 ## 外部リンク
 

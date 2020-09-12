@@ -40,7 +40,8 @@
 <td><p><a href="../Page/運命の輪.md" title="wikilink">運命の輪</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サイド3" title="wikilink">サイド3</a></p></td>
-<td><p>DS☆ゲーム部</p></td>
+<td><p>DS☆ゲーム部<br />
+DSPM人狼部</p></td>
 <td><p>ソロアイドルとしても活動</p></td>
 </tr>
 <tr class="odd">
@@ -62,7 +63,8 @@
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>DSPM人狼部</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/トリアエズ・ハナ" title="wikilink">トリアエズ・ハナ</a></p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><br />
+（<a href="https://ja.wikipedia.org/wiki/トリアエズ・ハナ" title="wikilink">トリアエズ・ハナ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/佐々木麻衣_(歌手)" title="wikilink">佐々木麻衣</a></strong><br />
@@ -96,8 +98,10 @@
 <th><p>#</p></th>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
+<th><p>販売形態</p></th>
+<th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
-<th><p>規格品番・備考</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -105,6 +109,8 @@
 <td><p>0</p></td>
 <td><p><strong>ACE of WANDS</strong></p></td>
 <td><p>2020年3月25日</p></td>
+<td><p>通常版（CDのみ）</p></td>
+<td><p>LACM-24006</p></td>
 <td><div class="NavFrame">
 <div class="NavHead" style="font-weight:normal">
 <p>全2曲</p>
@@ -116,22 +122,85 @@
 </ol>
 </div>
 </div></td>
-<td><p>LACM-24006</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p><strong>カンパネラ響く空で</strong></p></td>
-<td></td>
+<td><p>2020年9月9日</p></td>
+<td><p>初回限定盤[正位置 ver.]（CD+BD）</p></td>
+<td><p>LACM-34018</p></td>
 <td><div class="NavFrame">
 <div class="NavHead" style="font-weight:normal">
-<p>全1曲</p>
+<p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left">
 <ol>
-<li>カンパネラ響く空で</li>
+<li></li>
+<li></li>
+<li></li>
 </ol>
 </div>
 </div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>初回限定盤[逆位置 ver.]（CD+BD）</p></td>
+<td><p>LACM-34019</p></td>
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+</div>
+</div></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>通常盤（CDのみ）</p></td>
+<td><p>LACM-24018</p></td>
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+</div>
+</div></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>アニメ版（CDのみ）</p></td>
+<td><p>LACM-24019</p></td>
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li></li>
+<li></li>
+</ol>
+</div>
+</div></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

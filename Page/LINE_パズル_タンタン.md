@@ -29,9 +29,7 @@
   - [LINE パズル タンタン : LINE GAME公式ブログ](http://game-blog.line.me/archives/cat_1324381.html)
 
   -
-## カテゴリ
-
-[Category:擬人化キャラクターを主人公にした物語](https://ja.wikipedia.org/wiki/Category:擬人化キャラクターを主人公にした物語 "wikilink") [Category:動物を題材とした作品](https://ja.wikipedia.org/wiki/Category:動物を題材とした作品 "wikilink") [Category:哺乳類を主人公にした物語](https://ja.wikipedia.org/wiki/Category:哺乳類を主人公にした物語 "wikilink")
+[Category:擬人化キャラクターを主人公にした物語](https://ja.wikipedia.org/wiki/Category:擬人化キャラクターを主人公にした物語 "wikilink") [Category:動物を題材とした作品](https://ja.wikipedia.org/wiki/Category:動物を題材とした作品 "wikilink") [Category:哺乳類を主人公にした物語](https://ja.wikipedia.org/wiki/Category:哺乳類を主人公にした物語 "wikilink") [Category:LINEのゲームソフト](https://ja.wikipedia.org/wiki/Category:LINEのゲームソフト "wikilink")
 
 1.  [1](http://apps.apple.com/jp/app/line-パズル-タンタン/id798519009)
 2.  [2](http://play.google.com/store/apps/details?id=com.linecorp.LGPTT&hl=ja)

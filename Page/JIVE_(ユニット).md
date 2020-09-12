@@ -25,4 +25,4 @@
   - [鮎川麻弥公式ホームページ](http://www.ne.jp/asahi/hearty-songs/mami-ayukawa/)
   - [鮎川麻弥公式ブログ『mami's talking』](http://blog.excite.co.jp/mamistalk/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1984年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1984年に結成した音楽グループ "wikilink")
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1984年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1984年に結成した音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

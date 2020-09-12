@@ -1,13 +1,13 @@
 > この記事は[WeeChat](https://ja.wikipedia.org/wiki/WeeChat)から翻訳されています。
 
 
-**WeeChat** (Wee Enhanced Environment for Chat) は、[フリーかつオープンソースの](../Page/FLOSS.md "wikilink")[IRCクライアント](https://ja.wikipedia.org/wiki/IRCクライアント "wikilink")であり、軽量かつ高速に動作するように設計されている。 から開発されており、[GNU GPL v3+の下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。
+**WeeChat**（ウィーチャット、Wee Enhanced Environment for Chat）は、軽量で高速にするように設計されている[FLOSS](../Page/FLOSS.md "wikilink")の[IRCクライアント](https://ja.wikipedia.org/wiki/IRCクライアント "wikilink")である。2003年から開発されており、[GNU GPL v3+で配布されている](../Page/GNU_General_Public_License.md "wikilink")。
 
-WeeChatのデフォルトインタフェースは[ncurses](https://ja.wikipedia.org/wiki/ncurses "wikilink")を利用した[テキストユーザインタフェース](https://ja.wikipedia.org/wiki/テキストユーザインタフェース "wikilink")だが、リレープロトコルを利用することでその他のインタフェースを使用することができる\[1\]。
+WeeChatのデフォルトインタフェースは[ncurses](https://ja.wikipedia.org/wiki/ncurses "wikilink")を利用する[テキストユーザインタフェース](https://ja.wikipedia.org/wiki/テキストユーザインタフェース "wikilink")だが、リレープロトコルでその他のインタフェースが利用できる\[1\]。
 
 ## 機能
 
-WeeChatには及びの実装などの以下のような機能がある\[2\]:
+WeeChatには及びの実装などの以下のような機能がある\[2\]：
 
   - [IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")
   - [TLS](../Page/Transport_Layer_Security.md "wikilink")

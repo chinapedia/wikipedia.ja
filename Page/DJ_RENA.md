@@ -1,9 +1,7 @@
 > この記事は[DJ RENA](https://ja.wikipedia.org/wiki/DJ_RENA)から翻訳されています。
 
 
-**DJ RENA**（ディージェイ レナ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、DJ世界最年少チャンピオン\[1\]の記録を保持するターンテーブリスト。[奈良県](../Page/奈良県.md "wikilink")在住の現在15歳。
-
-
+**DJ RENA**（ディージェイ・レナ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、DJ世界最年少チャンピオン\[1\]の記録を保持するターンテーブリスト。[奈良県](../Page/奈良県.md "wikilink")在住の現在15歳。
 
 ## 受賞歴
 
@@ -38,6 +36,8 @@
   - [デジマート・マガジン「DJ RENAスペシャルインタビュー」株式会社リットーミュージック（2018年3月19日）](https://www.digimart.net/magazine/article/2018031903086.html)
   - [DMC WORLD DJ CHAMPIONSHIP](http://www.dmcdjchamps.com/2017.php)
 
+## 脚注
+
 ## 外部リンク
 
   - [DJ RENA 公式ウェブサイト](https://djrena.com)
@@ -45,8 +45,6 @@
   -
   -
   -
-## 脚注
-
 [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:奈良県出身の人物](https://ja.wikipedia.org/wiki/Category:奈良県出身の人物 "wikilink") [Category:2004年生](https://ja.wikipedia.org/wiki/Category:2004年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

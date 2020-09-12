@@ -17,23 +17,22 @@
   - [ECRO](https://www.ecro.online)
   - [ワイツマン嗅覚グループ　嗅覚トラッカー](https://smelltracker.org/ja)
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
-  - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")
-  - [オープンサイエンス](https://ja.wikipedia.org/wiki/オープンサイエンス "wikilink")
   - [味覚](../Page/味覚.md "wikilink")
   - [嗅覚](../Page/嗅覚.md "wikilink")
   - [五感](../Page/五感.md "wikilink")
 
 ## 外部リンク
 
-[Global Consortium for Chemosensory Research](https://gcchemosensr.org/)
+  - [Global Consortium for Chemosensory Research](https://gcchemosensr.org/)
+  - [Global Consortium for Chemosensory Research](https://gcchemosensr.org/surveys/ja/)
 
-## 脚注
-
-<references />
-
-[Category:コロナウイルス](https://ja.wikipedia.org/wiki/Category:コロナウイルス "wikilink") [Category:味覚](https://ja.wikipedia.org/wiki/Category:味覚 "wikilink") [Category:嗅覚](https://ja.wikipedia.org/wiki/Category:嗅覚 "wikilink") [Category:コンソーシアム](https://ja.wikipedia.org/wiki/Category:コンソーシアム "wikilink") [Category:研究プロジェクト](https://ja.wikipedia.org/wiki/Category:研究プロジェクト "wikilink") [Category:オープンサイエンス](https://ja.wikipedia.org/wiki/Category:オープンサイエンス "wikilink")
+[Category:2019新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症 "wikilink") [Category:味覚](https://ja.wikipedia.org/wiki/Category:味覚 "wikilink") [Category:嗅覚](https://ja.wikipedia.org/wiki/Category:嗅覚 "wikilink") [Category:コンソーシアム](https://ja.wikipedia.org/wiki/Category:コンソーシアム "wikilink") [Category:研究プロジェクト](https://ja.wikipedia.org/wiki/Category:研究プロジェクト "wikilink") [Category:オープンサイエンス](https://ja.wikipedia.org/wiki/Category:オープンサイエンス "wikilink")
 
 1.
 2.

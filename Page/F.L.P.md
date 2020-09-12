@@ -54,6 +54,6 @@
 
 企業理念
 
-[Category:株式会社](https://ja.wikipedia.org/wiki/Category:株式会社 "wikilink") [Category:保険代理店](https://ja.wikipedia.org/wiki/Category:保険代理店 "wikilink") [Category:朝日生命保険](https://ja.wikipedia.org/wiki/Category:朝日生命保険 "wikilink") [Category:保険](https://ja.wikipedia.org/wiki/Category:保険 "wikilink") [Category:保険会社](https://ja.wikipedia.org/wiki/Category:保険会社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink") [Category:保険販売会社](https://ja.wikipedia.org/wiki/Category:保険販売会社 "wikilink")
+[Category:朝日生命保険](https://ja.wikipedia.org/wiki/Category:朝日生命保険 "wikilink") [Category:日本の保険会社](https://ja.wikipedia.org/wiki/Category:日本の保険会社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink") [Category:保険販売会社](https://ja.wikipedia.org/wiki/Category:保険販売会社 "wikilink")
 
 1.

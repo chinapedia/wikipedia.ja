@@ -36,12 +36,13 @@
   - 降臨アルティメットモンスター（2011年8月、[デジマース](https://ja.wikipedia.org/wiki/デジマース "wikilink")より受託開発）
   - 創世クロノドライブ（2011年12月）
   - クロノス未来戦記（2012年7月）
-  - [ボーダーブレイク mobile -疾風のガンフロント-](https://ja.wikipedia.org/wiki/ボーダーブレイク "wikilink")（2013年3月、発売元：[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）
+  - [ボーダーブレイク mobile -疾風のガンフロント-](https://ja.wikipedia.org/wiki/ボーダーブレイク "wikilink")（2013年3月、発売元：[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")→マイネット）
   - [アンジュ・ヴィエルジュ](https://ja.wikipedia.org/wiki/アンジュ・ヴィエルジュ "wikilink")〜ガールズバトル〜（2013年12月、発売元：セガゲームス）
-  - [オルタンシア・サーガ -蒼の騎士団-](https://ja.wikipedia.org/wiki/オルタンシア・サーガ_-蒼の騎士団- "wikilink")（2015年4月、発売元：セガゲームス）
+  - [オルタンシア・サーガ -蒼の騎士団-](https://ja.wikipedia.org/wiki/オルタンシア・サーガ_-蒼の騎士団- "wikilink")（2015年4月、発売元：セガゲームス→自社提供）
   - [マギアレコード 魔法少女まどか☆マギカ外伝](https://ja.wikipedia.org/wiki/マギアレコード_魔法少女まどか☆マギカ外伝 "wikilink")（2017年8月、発売元：[アニプレックス](../Page/アニプレックス.md "wikilink")）
   - [ポポロクロイス物語](../Page/ポポロクロイス物語.md "wikilink")〜ナルシアの涙と妖精の笛（2017年9月、発売元：epics、開発協力）
   - ワンダーグラビティ 〜ピノと重力使い〜（2019年3月、発売元：セガゲームス）
+  - [ディズニー ツイステッドワンダーランド](https://ja.wikipedia.org/wiki/ディズニー_ツイステッドワンダーランド "wikilink")（2020年3月、発売元：アニプレックス）
 
 ## 脚注
 

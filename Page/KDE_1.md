@@ -15,7 +15,7 @@
 
 [KDE_1.0.png](https://ja.wikipedia.org/wiki/File:KDE_1.0.png "fig:KDE_1.0.png")
 
-1998年[7月12日](../Page/7月12日.md "wikilink")、K Desktop Environment 1.0の完成バージョンがリリースされた\[4\]。このバージョンに対する評価は分かれた。多くの批評は、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")ではなかった[Qt](../Page/Qt.md "wikilink")の利用に関するもので、[Motifや](../Page/Motif_\(GUI\).md "wikilink")[LessTif](https://ja.wikipedia.org/wiki/LessTif "wikilink")を代わりに使うようアドバイスしていた。このような批判にも拘わらず、KDEは多くのユーザによって受け入れられ、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")でも用いられた\[5\]。
+1998年[7月12日](../Page/7月12日.md "wikilink")、K Desktop Environment 1.0の完成バージョンがリリースされた\[4\]。このバージョンに対する評価は分かれた。多くの批評は、当時[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")ではなかった[Qt](../Page/Qt.md "wikilink")の利用に関するもので、[Motifや](../Page/Motif_\(GUI\).md "wikilink")[LessTif](https://ja.wikipedia.org/wiki/LessTif "wikilink")を代わりに使うようアドバイスしていた。このような批判にも拘わらず、KDEは多くのユーザによって受け入れられ、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")でも用いられた\[5\]。
 
 ## K Desktop Environment 1.1
 

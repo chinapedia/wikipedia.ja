@@ -19,7 +19,7 @@ TAI Studio | Genre = [J-POP](../Page/J-POP.md "wikilink")
 
 ## 収録曲
 
-  - 全作詞・作曲・編曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#3除く）
+  - 全作詞・作曲・編曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#3除く） / プロデュース：寺岡呼人
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@ TAI Studio | Genre = [J-POP](../Page/J-POP.md "wikilink")
   - [松原正樹](../Page/松原正樹.md "wikilink")：Electric Guitar (\#1, \#6), Acoustic Guitar (\#1)
   - [町田直隆](../Page/町田直隆.md "wikilink") ([BUNGEE JUMP FESTIVAL](../Page/BUNGEE_JUMP_FESTIVAL.md "wikilink"))：Guitar Solo (\#2, \#10)
   - 藤田顕 (PLECTRUM)：Guitar Solo (\#3)
-  - 叶信明：Steel Guitar (\#5)
+  - 叶沢信明：Steel Guitar (\#5)
   - 有田純弘：Banjo (\#5), Mandolin (\#5)
   - [上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")：Acoustic Piano (\#1, \#3 - \#6, \#11), Hammond Organ (\#1, \#3, \#7), Synthesizer (\#2), Vox Organ (\#9)
   - [三沢またろう](../Page/三沢またろう.md "wikilink")：Percussions (\#1, \#6)

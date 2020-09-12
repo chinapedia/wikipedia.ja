@@ -7,27 +7,18 @@
 
 ## 解説
 
-  - [東芝EMI時代の楽曲を中心に収録したベスト盤になっている](../Page/EMIミュージック・ジャパン.md "wikilink")。
+  - [1991年](../Page/1991年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")まで在籍していた[東芝EMI時代の楽曲を中心に](../Page/EMIミュージック・ジャパン.md "wikilink")、収録したベスト盤になっている\[1\]。
+
+## リリース履歴
+
+| No. | 日付                                                                                          | [レーベル](../Page/レコードレーベル.md "wikilink")                 | 規格                                    | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考 |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------- | ---------------------------------- | ---- | -- |
+| 1   | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールド | [CD](../Page/コンパクトディスク.md "wikilink") | TOCT-9956                          | 6位   |    |
 
 ## 収録曲
-
-1.  **Virgin Moon**
-2.  **Black Corvette**
-3.  **せつなさを殺せない**
-4.  **ジェラシーを微笑みにかえて**
-5.  **Brain SUGAR\[Mad Blade Mix\]**
-6.  **KISSに撃たれて眠りたい**
-7.  **Purple Pain**
-8.  **VENUS\~迷い子の未来**
-9.  **Rambling Rose**
-10. **Stripper**
-11. **BOY'S LIFE**
-12. **BOMBERS**
-13. **アクセル**
-14. **SPEED**
-15. **SHADOW BEAT**
-16. **FOREVER ROAD**
 
 ## 脚注
 
 [Category:1997年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1997年のベスト・アルバム "wikilink") [Category:吉川晃司のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:吉川晃司のベスト・アルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")
+
+1.

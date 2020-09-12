@@ -1,7 +1,7 @@
 > この記事は[Tiji Jojo](https://ja.wikipedia.org/wiki/Tiji_Jojo)から翻訳されています。
 
 
-**Tiji Jojo** (ティージー ジョジョ、本名: 吉村 敦也 (よしむら あつや)、[1996年](../Page/1996年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")[12日](https://ja.wikipedia.org/wiki/12日 "wikilink")ー ) は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")である。[BAD HOPのメンバー](https://ja.wikipedia.org/wiki/BAD_HOP "wikilink")。
+**Tiji Jojo** (ティージー ジョジョ、本名: 吉村 敦也 (よしむら あつや)、[1996年](../Page/1996年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")ー ) は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")である。[BAD HOPのメンバー](https://ja.wikipedia.org/wiki/BAD_HOP "wikilink")。
 
 ## 来歴
 

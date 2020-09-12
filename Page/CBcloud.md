@@ -5,7 +5,7 @@
 
 ## 概要
 
-社長の[松本隆一 (起業家)は](https://ja.wikipedia.org/wiki/松本隆一_\(起業家\) "wikilink")[航空保安大学校](../Page/航空保安大学校.md "wikilink")を経て[国土交通省](../Page/国土交通省.md "wikilink")に入省し、[航空管制官](../Page/航空管制官.md "wikilink")として[羽田空港](https://ja.wikipedia.org/wiki/羽田空港 "wikilink")に勤務。2013年に退省し,、義父と起業\[3\]\[4\]\[5\]。
+社長の松本隆一は[航空保安大学校](../Page/航空保安大学校.md "wikilink")を経て[国土交通省](../Page/国土交通省.md "wikilink")に入省し、[航空管制官](../Page/航空管制官.md "wikilink")として[羽田空港](https://ja.wikipedia.org/wiki/羽田空港 "wikilink")に勤務。2013年に退省し,、義父と起業\[3\]\[4\]\[5\]。
 
 ## 沿革
 
@@ -15,8 +15,6 @@
 
 ## 関連項目
 
-  - [PickGo](https://ja.wikipedia.org/wiki/PickGo "wikilink") - 配送マッチングプラットフォーム。旧サービス名は[軽town](https://ja.wikipedia.org/wiki/軽town "wikilink")。
-  - [SmaRyu Post](https://ja.wikipedia.org/wiki/SmaRyu_Post "wikilink") - 宅配効率化システム
   - [ANA Cargo](https://ja.wikipedia.org/wiki/ANA_Cargo "wikilink") - 2020年5月より提携を開始\[6\]。
 
 ## 脚注

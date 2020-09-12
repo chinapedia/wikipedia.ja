@@ -33,15 +33,23 @@
 
 ### 商業作品
 
-  - 『[姫様LOVEライフ！](https://ja.wikipedia.org/wiki/姫様LOVEライフ! "wikilink")』OP主題歌「とある小国のお姫様が、会ったこともない兄の家にやってきて住みついた事情。」（編曲）
+  - 『ぱすてるチャイム Continue』OP主題歌「ぱすてるチャイム」（編曲）
   - 『[翼をください](https://ja.wikipedia.org/wiki/翼をください_\(ゲーム\) "wikilink")』OP主題歌「phantasia ballad」（[新井健史](../Page/新井健史.md "wikilink")と共同作編曲）
+  - 『[姫様LOVEライフ！](https://ja.wikipedia.org/wiki/姫様LOVEライフ! "wikilink")』OP主題歌「とある小国のお姫様が、会ったこともない兄の家にやってきて住みついた事情。」（編曲）
 
 ### 同人作品
 
+  - 『MEGALOMANIA』DANGEROUS MEZASHI CAT　※2曲提供
+  - 『東方幻奏祀典2 "Canon"』Liverne　※1曲提供
   - 『GROUND ZERO ～TOHO ROCK\!\! 2007』C-CLAYS　※1曲提供
   - 『CROWZFEST』CROW'SCLAW　※1曲提供
-  - 『東方幻奏祀典2 "Canon"』Liverne　※1曲提供
-  - 『MEGALOMANIA』DANGEROUS MEZASHI CAT　※2曲提供
+  - 『朧夢紅月 ～Vaguely Dreams of Scarlet Fullmoon～』UI-70　※2曲提供
+  - 『東方ふゅーじょんdemo+4 & 幻視の夜～GhostlyEyes～』UI-70　※1曲提供
+  - 『花詠束 -hanataba-』Unionest.NET　※1曲提供
+  - 『流麗祭彩2』博麗神社例大祭 公式　※1曲提供
+  - 『DystopiaGround \#001』DystopiaGround　※1曲提供
+  - 『DystopiaGround \#004』DystopiaGround　※1曲提供
+  - 『Compilation CD-BOOK 東方万葉集』メロンブックス　※1曲提供
 
 ## 参加作品
 
@@ -59,27 +67,30 @@
 
 ### 同人作品
 
-  - 『ぽぷり』サークル「Primary」（ソロギター）
-  - 『Rotate』サークル「Primary」（ギター／ベース）
+  - 『Riddles covered in flowers』UI-70（九宝時：ミックス）
+  - 『空想マリオネット』Primary（徳南：ギター）
+  - 『ぽぷり』Primary（徳南：ソロギター）
+  - 『Rotate』Primary（徳南：ギター／ベース）
+  - 『法の世に妖の華咲き乱れ』UI-70（九宝時：ミックス）
 
 ## ディスコグラフィー
 
 ### 同人作品
 
-  - 『瑰 狂 鬱 嵂』2018年／[コミックマーケット](../Page/コミックマーケット.md "wikilink")94／東方project楽曲アレンジCD
-  - 『Determinism\&DestruKction』2017年／コミックマーケット92／東方project楽曲アレンジCD
-  - 『Lebenstrieb & Todestrieb』2016年／コミックマーケット91／東方project楽曲アレンジCD
-  - 『愧人贖悪 ～ Evil People as the True Object of Salvation ～』2015年／コミックマーケット88／東方project楽曲アレンジCD
-  - 『le Grimoire De reve』2013年／コミックマーケット85／東方project楽曲アレンジCD
-  - 『Tendre est la Mort』2012年／コミックマーケット83／東方project楽曲アレンジCD
-  - 『BEGIERDE DES ZAUBERER』2011年／コミックマーケット81／東方project楽曲アレンジCD
-  - 『曼 衍 珠 汝 華 ～ Nada Upasana Pundarika』2009年／コミックマーケット77／東方project楽曲アレンジCD
-  - 『闡提宗祀 ～ Offering to The Sukhavati』2008年／コミックマーケット75／東方project楽曲アレンジCD
-  - 『Il Mondo dove e finito il Tempo』2007年／コミックマーケット73／東方project楽曲アレンジCD
-  - 『如臨深遠 ～雨縒煙柳～』2006年／コミックマーケット71／東方project楽曲アレンジCD
-  - 『Shout at The Devil』2006年／コミックマーケット70／東方project楽曲アレンジCD
+  - 『スーパーレゲー』2005年／[コミックマーケット](../Page/コミックマーケット.md "wikilink")68／[レトロゲーム](../Page/レトロゲーム.md "wikilink")楽曲アレンジCD
   - 『彼岸花葬 ～The View of Spiral Riverside』2005年／コミックマーケット69／東方project楽曲アレンジCD　※UI-70と共同制作
-  - 『スーパーレゲー』2005年／コミックマーケット68／[レトロゲーム](../Page/レトロゲーム.md "wikilink")楽曲アレンジCD
+  - 『Shout at The Devil』2006年／コミックマーケット70／東方project楽曲アレンジCD
+  - 『如臨深遠 ～雨縒煙柳～』2006年／コミックマーケット71／東方project楽曲アレンジCD
+  - 『Il Mondo dove e finito il Tempo』2007年／コミックマーケット73／東方project楽曲アレンジCD
+  - 『闡提宗祀 ～ Offering to The Sukhavati』2008年／コミックマーケット75／東方project楽曲アレンジCD
+  - 『曼 衍 珠 汝 華 ～ Nada Upasana Pundarika』2009年／コミックマーケット77／東方project楽曲アレンジCD
+  - 『BEGIERDE DES ZAUBERER』2011年／コミックマーケット81／東方project楽曲アレンジCD
+  - 『Tendre est la Mort』2012年／コミックマーケット83／東方project楽曲アレンジCD
+  - 『le Grimoire De reve』2013年／コミックマーケット85／東方project楽曲アレンジCD
+  - 『愧人贖悪 ～ Evil People as the True Object of Salvation ～』2015年／コミックマーケット88／東方project楽曲アレンジCD
+  - 『Lebenstrieb & Todestrieb』2016年／コミックマーケット91／東方project楽曲アレンジCD
+  - 『Determinism\&DestruKction』2017年／コミックマーケット92／東方project楽曲アレンジCD
+  - 『瑰 狂 鬱 嵂』2018年／コミックマーケット94／東方project楽曲アレンジCD
 
 ## 脚注
 
@@ -89,7 +100,7 @@
   - [寺前,徳南@Demetori](https://twitter.com/tera_demetori)（@tera_Demetori）- Twitter
   - [九宝寺前@Demetori](https://twitter.com/kyuhojimae)（@kyuhojimae）- Twitter
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink")
 
 1.
 2.

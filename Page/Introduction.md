@@ -44,7 +44,7 @@
 
         </div>
 
-        後にメジャー3rdアルバム「[Mrs. GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE_\(アルバム\) "wikilink")」に再録される。
+        後にメジャー2ndアルバム「[Mrs. GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE_\(アルバム\) "wikilink")」に再録される。
 5.  **リスキーゲーム**
       -
 
@@ -74,9 +74,9 @@
 
   - [大森元貴](https://ja.wikipedia.org/wiki/大森元貴 "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") & [Guitar](../Page/ギター.md "wikilink") & [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink")
   - [若井滉斗](../Page/若井滉斗.md "wikilink")：Guitar
-  - 山中綾華：[Drums](../Page/ドラムセット.md "wikilink")
-  - 藤澤涼架：[Keyboard](../Page/キーボード_\(楽器\).md "wikilink")
-  - 松尾拓海：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [山中綾華](https://ja.wikipedia.org/wiki/山中綾華 "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
+  - [藤澤涼架](https://ja.wikipedia.org/wiki/藤澤涼架 "wikilink")：[Keyboard](../Page/キーボード_\(楽器\).md "wikilink")
+  - 髙野清宗：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ## 脚注
 

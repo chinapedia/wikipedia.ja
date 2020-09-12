@@ -118,7 +118,7 @@
     2020年7月23日～8月2日、東京都 ヒューリックホール東京
     2020年8月8日・9日、愛知県 名古屋市公会堂
 
-#### スタッフ（舞台）
+### スタッフ（舞台）
 
 :\* 脚本：吉谷光太郎
 
@@ -138,7 +138,7 @@
 
   -
   -
-[Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:読売テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビドラマ "wikilink") [Category:読売テレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜ドラマ "wikilink") [Category:ダンスを題材とした作品](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした作品 "wikilink") [Category:ダンスを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ダンスを題材としたテレビドラマ "wikilink")
+[Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:読売テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビドラマ "wikilink") [Category:読売テレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜ドラマ "wikilink") [Category:ダンスを題材とした作品](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした作品 "wikilink")
 
 1.
 2.

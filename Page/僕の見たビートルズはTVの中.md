@@ -25,6 +25,6 @@
 
 ## 脚注
 
-[Category:斉藤和義の楽曲](https://ja.wikipedia.org/wiki/Category:斉藤和義の楽曲 "wikilink") [Category:1993年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1993年のデビュー・シングル "wikilink") [Category:ビートルズを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ビートルズを題材とした楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
+[Category:斉藤和義の楽曲](https://ja.wikipedia.org/wiki/Category:斉藤和義の楽曲 "wikilink") [Category:1993年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1993年のデビュー・シングル "wikilink") [Category:ビートルズを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ビートルズを題材とした楽曲 "wikilink") [Category:テレビを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:テレビを題材とした楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
 
 1.

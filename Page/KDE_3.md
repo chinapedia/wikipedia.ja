@@ -33,7 +33,7 @@ KDE 3.2は、ウェブフォームやEメールのインラインのスペルチ
 
 [Kde_3_3_screengrab.png](https://ja.wikipedia.org/wiki/File:Kde_3_3_screengrab.png "fig:Kde_3_3_screengrab.png")
 
-KDE 3.3は他のデスクトップのコンポーネントとの統合に注力した。Kontactは[グループウェア](../Page/グループウェア.md "wikilink")アプリケーションであるKolabとKpilotに統合され、Konquerorは[インスタントメッセージング](https://ja.wikipedia.org/wiki/インスタントメッセージング "wikilink")の連絡先に対するよりよりサポートを提供した。JuKは、[K3b](../Page/K3b.md "wikilink")を用いての音楽CDを焼くことをサポートする\[7\]。
+KDE 3.3は他のデスクトップのコンポーネントとの統合に注力した。Kontactは[グループウェア](../Page/グループウェア.md "wikilink")アプリケーションであるKolabとKpilotに統合され、Konquerorは[インスタントメッセージング](https://ja.wikipedia.org/wiki/インスタントメッセージング "wikilink")の連絡先に対するよりよいサポートを提供した。JuKは、[K3b](../Page/K3b.md "wikilink")を用いての音楽CDを焼くことをサポートする\[7\]。
 
 このリリースには、[Kolourpaint](https://ja.wikipedia.org/wiki/Kolourpaint "wikilink")や、KWordQuiz、KLatin、KTurtleなどの新しいアプリケーションが含まれている。
 

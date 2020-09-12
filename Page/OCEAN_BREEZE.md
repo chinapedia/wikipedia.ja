@@ -26,7 +26,7 @@
 
 :\#\* オリジナルは[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に発売されたアルバム『[BRASILIAN SKIES](https://ja.wikipedia.org/wiki/BRASILIAN_SKIES "wikilink")』に収録されている。
 
-:\# [トーキョーレギー](https://ja.wikipedia.org/wiki/SWEET_AGNES "wikilink")
+:\# トーキョーレギー
 
 :\#\* オリジナルは[1976年](../Page/1976年.md "wikilink")に発売されたアルバム『[SEYCHELLES](https://ja.wikipedia.org/wiki/SEYCHELLES "wikilink")』に収録されている。
 
@@ -58,7 +58,7 @@
 
 :\#\* オリジナルは1976年に発売されたアルバム『SEYCHELLES』に収録されている。
 
-:\# [SWEET AGNES](https://ja.wikipedia.org/wiki/SWEET_AGNES "wikilink")
+:\# SWEET AGNES
 
 :\#\* オリジナルは1977年に発売されたアルバム『TAKANAKA』に収録されている。
 
@@ -66,7 +66,7 @@
 
 :\#\* オリジナルは1979年に発売されたアルバム『JOLLY JIVE』に収録されている
 
-:\# [OH\! TENGO SUERTE](https://ja.wikipedia.org/wiki/マンボNo.5#高中正義のバージョン "wikilink")
+:\# OH\! TENGO SUERTE
 
 :\#\* オリジナルは1976年に発売されたアルバム『SEYCHELLES』に収録されている。
 
@@ -96,7 +96,7 @@
 
 ### B面
 
-1.  **[SOON](https://ja.wikipedia.org/wiki/YOU_CAN_NEVER_COME_TO_THIS_PLACE "wikilink")**
+1.  **SOON**
       - オリジナルは1981年に発売されたアルバム『虹伝説 THE RAINBOW GOBLINS』に収録されている。
 2.  **FINGER DANCIN**'
       - オリジナルは1980年に発売されたミニ・アルバム『FINGER DANCIN'』に収録されている。

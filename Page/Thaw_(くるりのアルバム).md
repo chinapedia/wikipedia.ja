@@ -5,11 +5,11 @@
 
 ## 概要
 
-  - 2020年3月から行う予定だったツアー『特Q』が新型コロナウイルスの影響で中止となったことを受け、3月14日に急遽リリースを決定したアルバム。\[1\]
-  - デビュー後1998年2月から、2018年までの間の未発表の楽曲を11曲（CD盤は15曲）収録。当初は14曲を想定していたが、のちに1曲追加された\[2\]。このうち4曲は、現在入手困難である[2006年](../Page/2006年.md "wikilink")リリースの『[ベスト オブ くるり -TOWER OF MUSIC LOVER-](../Page/ベスト_オブ_くるり_-TOWER_OF_MUSIC_LOVER-.md "wikilink")』初回限定盤CDに付属していた楽曲と重複する。[田中佑司](https://ja.wikipedia.org/wiki/田中佑司 "wikilink")在籍時（第6期）の楽曲が2曲初出となった。
-  - 「evergreen」を除きほとんどが録音当時の録音素材およびミックスにマスタリングを施したものを収録している。\[3\]
-  - タイトルは、「解凍」を意味する"thaw"から。
-  - ジャケットには[リスボン](../Page/リスボン.md "wikilink")の[市街ケーブルカーの](https://ja.wikipedia.org/wiki/トラム_\(リスボン\) "wikilink")[ガントレットの写真が採用されている](../Page/単複線.md "wikilink")。\[4\]
+  - 2020年3月から行う予定だったツアー「特Q」が[新型コロナウイルスの影響で中止となったことを受け](../Page/2019新型コロナウイルス.md "wikilink")、3月14日に急遽リリースを決定したアルバム\[1\]。
+  - デビュー後1998年2月から、2018年までの間の未発表の楽曲を11曲（CD盤は15曲）収録。当初は14曲を想定していたが、のちに1曲追加された\[2\]。このうち4曲は、現在入手困難である[2006年](../Page/2006年.md "wikilink")リリースの『[ベスト オブ くるり -TOWER OF MUSIC LOVER-](../Page/ベスト_オブ_くるり_-TOWER_OF_MUSIC_LOVER-.md "wikilink")』初回限定盤CDに付属していた楽曲と重複する。[田中佑司](https://ja.wikipedia.org/wiki/田中佑司 "wikilink")（現[bonobos](https://ja.wikipedia.org/wiki/bonobos "wikilink")）在籍時（第6期）の楽曲が2曲初出となった。
+  - 「evergreen」を除きほとんどが録音当時の録音素材およびミックスにマスタリングを施したものを収録している\[3\]。
+  - タイトルは「解凍」を意味する"thaw"から。
+  - ジャケットには[リスボン](../Page/リスボン.md "wikilink")の[市街ケーブルカーの](https://ja.wikipedia.org/wiki/トラム_\(リスボン\) "wikilink")[ガントレットの写真が採用されている](../Page/単複線.md "wikilink")\[4\]。
 
 ## 収録曲
 
@@ -83,8 +83,6 @@
         『[又吉直樹のヘウレーカ\!](https://ja.wikipedia.org/wiki/又吉直樹のヘウレーカ! "wikilink")』(NHK Eテレ 2018年)に書き下ろした楽曲。
 
 ## 脚注
-
-__インデックス__
 
 [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:くるりのアルバム](https://ja.wikipedia.org/wiki/Category:くるりのアルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[OOParts](https://ja.wikipedia.org/wiki/OOParts)から翻訳されています。
 
 
-**OOParts（オーパーツ）**とは日本のBlack Inc.が開発・運営しているクラウドゲーミングプラットフォームである。2020年04月24日に月額課金制でサービスを開始した。
+**OOParts**（オーパーツ）とは日本のBlack Inc.が開発・運営しているクラウドゲーミングプラットフォームである。2020年4月24日に月額課金制でサービスを開始した。
 
 ## 沿革
 
@@ -14,15 +14,13 @@
 
 ### 出典
 
-<references />
-
 ## 外部リンク
 
-  - [OOParts](https://oo.parts/)
-  - [OOParts](https://twitter.com/OOParts_JP) (@OOParts_JP) - [Twitter](../Page/Twitter.md "wikilink")
+  -
+  -
   - [Black Inc.](https://by.black/)
-  - [Black Inc.](https://note.com/byblack) - [note](https://ja.wikipedia.org/wiki/Note_\(配信サイト\) "wikilink")
 
+  -
 [Category:クラウドゲーム](https://ja.wikipedia.org/wiki/Category:クラウドゲーム "wikilink") [Category:オンラインゲームサービス](https://ja.wikipedia.org/wiki/Category:オンラインゲームサービス "wikilink")
 
 1.

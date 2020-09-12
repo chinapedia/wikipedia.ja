@@ -16,7 +16,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：竹中雄大 作曲：竹中雄大・山田海斗
+        作詞：[竹中雄大](https://ja.wikipedia.org/wiki/竹中雄大 "wikilink") 作曲：竹中雄大・[山田海斗](https://ja.wikipedia.org/wiki/山田海斗 "wikilink")
 
         </div>
 
@@ -26,7 +26,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：山田海斗 作曲：竹中雄大・沖聡次郎
+        作詞：山田海斗 作曲：竹中雄大・[沖聡次郎](https://ja.wikipedia.org/wiki/沖聡次郎 "wikilink")
 
         </div>
 

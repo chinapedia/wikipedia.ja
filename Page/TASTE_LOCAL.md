@@ -13,7 +13,7 @@
 
 ## 外部リンク
 
-  - [TASTE LOCAL公式ストア](https://taste-local.net/)
+  - [TASTE LOCAL公式ストア](https://tastelocal.jp/)
 
 [Category:2020年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2020年開設のウェブサイト "wikilink") [Category:食品](https://ja.wikipedia.org/wiki/Category:食品 "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[幸せ -EP-](https://ja.wikipedia.org/wiki/幸せ_-EP-)から翻訳されています。
 
 
-『**幸せ -EP-**』（しあわせ イーピー）は、[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")の[EP](../Page/コンパクト盤.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")より発売された。
+『**幸せ -EP-**』（しあわせ イーピー）は、[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")の[EP](../Page/コンパクト盤.md "wikilink")。2019年5月29日に[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")より発売された。
 
 ## 概要
 
@@ -37,7 +37,7 @@
 
 ## 出典
 
-[Category:2020年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のミニ・アルバム "wikilink") [Category:SMEJのアルバム](https://ja.wikipedia.org/wiki/Category:SMEJのアルバム "wikilink")
+[Category:緑黄色社会のアルバム](https://ja.wikipedia.org/wiki/Category:緑黄色社会のアルバム "wikilink") [Category:2019年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のミニ・アルバム "wikilink") [Category:SMEJのアルバム](https://ja.wikipedia.org/wiki/Category:SMEJのアルバム "wikilink")
 
 1.
 2.

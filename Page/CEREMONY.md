@@ -42,6 +42,7 @@
       - スマートフォン用アプリゲーム『[ロマンシング サガ リ・ユニバース](https://ja.wikipedia.org/wiki/ロマンシング_サガ_リ・ユニバース "wikilink")』1周年記念TVCMソング
 5.  **[白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink")**
       - 配信限定2ndシングル
+      - ストリーミング再生2億回以上
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系 [土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[イノセンス 冤罪弁護士](https://ja.wikipedia.org/wiki/イノセンス_冤罪弁護士 "wikilink")』主題歌
 6.  **幕間**
       - 「開会式」同様、『In Tokyo』の一部分。
@@ -93,7 +94,6 @@
   - 井口理：Vocal
   - 新井和輝：Bass, Additional Chorus (4)
   - 勢喜遊：Drums
-
   - 江崎文武 ([WONK](https://ja.wikipedia.org/wiki/WONK "wikilink"))：Piano, Rhodes, Organ, Synthesizer (4,5,7,8,9,10,11)
   - MELRAW：Saxophone (1,2,6,12)
   - 真砂陽地：Trumpet (1,2,6,12)

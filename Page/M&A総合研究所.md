@@ -1,13 +1,13 @@
 > この記事は[M\&A総合研究所](https://ja.wikipedia.org/wiki/M\&A総合研究所)から翻訳されています。
 
 
-**M\&A総合研究所**（エムアンドエーソウゴウケンキュウジョ）は、日本の東京都港区に拠点を置く独立系[M\&A](../Page/M&A.md "wikilink")仲介会社。
+**M\&A総合研究所**（エムアンドエーそうごうけんきゅうじょ）は、日本の東京都港区に拠点を置く独立系[M\&A](../Page/M&A.md "wikilink")仲介会社。
 
 ## 概要
 
 代表自身が会社を売却した経験をもとに、全ての経営者様に満足の行く[M\&A](../Page/M&A.md "wikilink")を提供することを目指し、2018年10月に設立。
 
-譲渡企業に対し、1.着手金、2.中間金、3.月間報酬が無料の「完全成功報酬制」を採用。また、譲渡企業に対する手数料については、負債を含めず株式価値だけをベースに算出する「譲渡価格方式」を採用することで業界最安値水準となっている\[1\]。
+譲渡企業に対し、1.着手金、2.中間金、3.月間報酬が無料の「完全成功報酬制」を採用。また、譲渡企業に対する手数料については、負債を含めず株式価値だけをベースに算出する「譲渡価格方式」を採用\[1\]。
 
 日本最大級のM\&Aサイトを運営しており、M\&Aの情報の非対称性をなくし、M\&Aがより身近になるように情報発信しつつ、日々大量の売買ニーズを取得しスピーディーなマッチングを実施している\[2\]。
 
@@ -30,7 +30,7 @@
 [Category:日本のM\&A仲介サービス業](https://ja.wikipedia.org/wiki/Category:日本のM&A仲介サービス業 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:2018年設立の企業](https://ja.wikipedia.org/wiki/Category:2018年設立の企業 "wikilink")
 
 1.   M\&A・事業承継の仲介会社ならM\&A総合研究所|url=[https://masouken.com/charge|website=masouken.com|accessdate=2020-05-18|language=ja](https://masouken.com/charge%7Cwebsite=masouken.com%7Caccessdate=2020-05-18%7Clanguage=ja)}}
-2.   M\&A・事業承継の理解を深める|url=[https://mastory.jp/strength|website=mastory.jp|accessdate=2020-05-18|language=ja](https://mastory.jp/strength%7Cwebsite=mastory.jp%7Caccessdate=2020-05-18%7Clanguage=ja)}}
+2.
 3.
 4.
 5.

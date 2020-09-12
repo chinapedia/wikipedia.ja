@@ -1,11 +1,11 @@
 > この記事は[BuGG](https://ja.wikipedia.org/wiki/BuGG)から翻訳されています。
 
 
-**buGG**（ばぐ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人組[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[スターレイプロダクション](https://ja.wikipedia.org/wiki/スターレイプロダクション "wikilink")所属。
+**buGG**（ばぐ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[スターレイプロダクション](https://ja.wikipedia.org/wiki/スターレイプロダクション "wikilink")所属。
 
 ## 概要
 
-2018年10月28日青山RizMにて開催された『CHANGE THE TOKYO PiXiON』より前身のTOKYO PiXiONから改名し活動中。キャッチコピーは**ハジけるポップパンク**。
+2018年10月28日、青山RizMにて開催されたワンマンライブ『CHANGE THE TOKYO PiXiON』より前身の**TOKYO PiXiON**から改名し活動中。キャッチコピーは『ハジけるポップパンク』。
 
 ## メンバー
 

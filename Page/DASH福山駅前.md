@@ -36,8 +36,7 @@
 
 ## 外部リンク
 
-  - [DASH福山](http://dash-fukuyama.jp/)
-
+  -
 [Category:場外勝馬投票券発売所](https://ja.wikipedia.org/wiki/Category:場外勝馬投票券発売所 "wikilink") [Category:福山市の建築物](https://ja.wikipedia.org/wiki/Category:福山市の建築物 "wikilink")
 
 1.  [J-PLACE福山駅前における中央競馬の発売レース拡大について](http://www.sonoda-himeji.jp/news/detail.html?id=pSb5vu) 園田・姫路競馬公式サイト 2017年4月7日掲載 2017年4月10日閲覧

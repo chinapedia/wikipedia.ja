@@ -1,11 +1,11 @@
 > この記事は[N体シミュレーション](https://ja.wikipedia.org/wiki/N体シミュレーション)から翻訳されています。
 
 
-**N体シミュレーション** (エヌたいシミュレーション、N-body simulation) とは、[天体物理学](../Page/天体物理学.md "wikilink")および[天文学](../Page/天文学.md "wikilink")において、[重力](../Page/重力.md "wikilink")相互作用する\(N\)個の粒子の[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")的な進化を数値的に計算するシミュレーションのことをいう\[1\]。2体系つまり[ケプラー問題](https://ja.wikipedia.org/wiki/ケプラー問題 "wikilink")は[可積分](https://ja.wikipedia.org/wiki/可積分 "wikilink")であるが、3体以上の系（[重力多体系](https://ja.wikipedia.org/wiki/重力多体系 "wikilink")）は可積分ではなく、その力学的進化を定量的に予測するためには数値シミュレーションが必須である\[2\]。[太陽系](../Page/太陽系.md "wikilink")や[球状星団](../Page/球状星団.md "wikilink")、[銀河](../Page/銀河.md "wikilink")あるいは[宇宙の大規模構造](../Page/宇宙の大規模構造.md "wikilink")など、重力多体系は宇宙のあらゆる領域において重要な役割を果たすため、N体シミュレーションは宇宙に関する理論的研究において極めて重要な役割を果たしている。
+**N体シミュレーション** (エヌたいシミュレーション、N-body simulation) とは、[天体物理学](../Page/天体物理学.md "wikilink")および[天文学](../Page/天文学.md "wikilink")において、[重力](../Page/重力.md "wikilink")相互作用する*N*個の粒子の[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")的な進化を数値的に計算するシミュレーションのことをいう\[1\]。2体系つまり[ケプラー問題](https://ja.wikipedia.org/wiki/ケプラー問題 "wikilink")は[可積分](https://ja.wikipedia.org/wiki/可積分 "wikilink")であるが、3体以上の系（[重力多体系](https://ja.wikipedia.org/wiki/重力多体系 "wikilink")）は可積分ではなく、その力学的進化を定量的に予測するためには数値シミュレーションが必須である\[2\]。[太陽系](../Page/太陽系.md "wikilink")や[球状星団](../Page/球状星団.md "wikilink")、[銀河](../Page/銀河.md "wikilink")あるいは[宇宙の大規模構造](../Page/宇宙の大規模構造.md "wikilink")など、重力多体系は宇宙のあらゆる領域において重要な役割を果たすため、*N*体シミュレーションは宇宙に関する理論的研究において極めて重要な役割を果たしている。
 
 [Galaxy_cluster_sim.png](https://ja.wikipedia.org/wiki/File:Galaxy_cluster_sim.png "fig:Galaxy_cluster_sim.png")における質量分布。\]\]
 
-ナイーブなN体シミュレーションの実装（直接総和法）は重力相互作用の計算に \(\mathcal{O} ( N^2 )\) のコストを要するため、より大規模かつ長時間にわたるシミュレーションを実現することは[計算機科学](../Page/計算機科学.md "wikilink")特に[高性能計算](../Page/高性能計算.md "wikilink") (HPC) の分野においても興味深い問題であり、複数の[ゴードン・ベル賞](../Page/ゴードン・ベル賞.md "wikilink")が\(N\)体シミュレーションの研究に対して与えられた\[3\]\[4\]。現在でも\(N\)体シミュレーションはコンピュータの[ベンチマーク](../Page/ベンチマーク.md "wikilink")のためにしばしば用いられる\[5\]。
+ナイーブなN体シミュレーションの実装（直接総和法）は重力相互作用の計算に *O*(*N*<sup>2</sup>) のコストを要するため、より大規模かつ長時間にわたるシミュレーションを実現することは[計算機科学](../Page/計算機科学.md "wikilink")特に[高性能計算](../Page/高性能計算.md "wikilink") (HPC) の分野においても興味深い問題であり、複数の[ゴードン・ベル賞](../Page/ゴードン・ベル賞.md "wikilink")が*N*体シミュレーションの研究に対して与えられた\[3\]\[4\]。現在でも*N*体シミュレーションはコンピュータの[ベンチマーク](../Page/ベンチマーク.md "wikilink")のためにしばしば用いられる\[5\]。
 
 ## 概要
 
@@ -37,7 +37,7 @@
 
 ### 積分子
 
-\(N\) 体シミュレーションはエネルギーが保存するため、時間積分子として[リープ・フロッグ法](https://ja.wikipedia.org/wiki/リープ・フロッグ法 "wikilink")などのがしばしば採用される。例えば太陽系の高精度シミュレーション\[23\]、宇宙論的構造形成\[24\]など。
+\(N\) 体シミュレーションはエネルギーが保存するため、時間積分子として[リープ・フロッグ法](https://ja.wikipedia.org/wiki/リープ・フロッグ法 "wikilink")などの[シンプレクティック数値積分法](https://ja.wikipedia.org/wiki/シンプレクティック数値積分法 "wikilink")がしばしば採用される。例えば太陽系の高精度シミュレーション\[23\]、宇宙論的構造形成\[24\]など。
 
 衝突系では後述する可変時間刻みと相性の良い[予測子修正子法](https://ja.wikipedia.org/wiki/予測子修正子法 "wikilink")\[25\]や[エルミート積分子](https://ja.wikipedia.org/wiki/エルミート積分子 "wikilink")\[26\]も用いられる。
 
@@ -171,6 +171,9 @@ Burdet-Heggie正則化\[40\]\[41\]\[42\]は、時間座標 \(t\) を近接粒子
   - [計算物理学](../Page/計算物理学.md "wikilink")
   - [多体問題](../Page/多体問題.md "wikilink")
 
+## 外部リンク
+
+  -
 [Category:計算物理学](https://ja.wikipedia.org/wiki/Category:計算物理学 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
 
 1.

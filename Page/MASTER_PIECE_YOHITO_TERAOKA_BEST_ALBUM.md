@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - 全作詞・作曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#2, \#5, \#8, \#14除く）
+  - 全作詞・作曲：[寺岡呼人](../Page/寺岡呼人.md "wikilink")（\#2, \#5, \#8, \#14除く） / プロデュース：寺岡呼人
 
 <!-- end list -->
 
@@ -127,7 +127,7 @@
   - [松原正樹](../Page/松原正樹.md "wikilink")：E. Guitar (\#5, \#12 - \#14, \#19)
   - [磯貝サイモン](../Page/磯貝サイモン.md "wikilink")：E. Guitar (\#1 - \#4, \#6, \#8, \#10, \#16), A. Piano (\#2, \#4 - \#6, \#8 - \#10, \#14, \#16, \#19, \#20), E. Piano (\#2, \#12, \#13), other instruments (\#3 - \#6, \#8, \#10, \#14, \#16, \#19, \#20), Chorus (\#3)
   - [鈴木 "Daichi" 秀行](../Page/鈴木Daichi秀行.md "wikilink")：E. Guitar (\#7, \#18), other instruments (\#1, \#7, \#18)
-  - [橋口靖正](https://ja.wikipedia.org/wiki/橋口靖正 "wikilink")：E. Guitar (\#1, \#7), A. Piano (\#11), other instruments (\#11 - \#13, \#17)
+  - [橋口靖正](https://ja.wikipedia.org/wiki/橋口靖正 "wikilink")：E. Guitar (\#11, \#17), A. Piano (\#11), other instruments (\#11 - \#13, \#17)
   - [山田ひろし](../Page/山田ひろし.md "wikilink")：E. Guitar solo (\#15), Chorus (\#2, \#3, \#7, \#8, \#10, \#12, \#13, \#15, \#17 - \#20)
   - [三沢またろう](../Page/三沢またろう.md "wikilink")：Percussion (\#10, \#12, \#13)
   - [山本拓夫](../Page/山本拓夫.md "wikilink")group：Brass (\#12, \#13)

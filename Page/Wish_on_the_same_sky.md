@@ -1,7 +1,7 @@
 > この記事は[Wish on the same sky](https://ja.wikipedia.org/wiki/Wish_on_the_same_sky)から翻訳されています。
 
 
-「**Wish on the same sky**」（ウィッシュ・オン・ザ・セイム・スカイ）は、[韓国の男性歌手グループ](../Page/大韓民国.md "wikilink")、[MONSTA Xの楽曲](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に[Mercury Tokyoより日本での](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")7作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**Wish on the same sky**」（ウィッシュ・オン・ザ・セイム・スカイ）は、[韓国の男性歌手グループ](../Page/大韓民国.md "wikilink")、[MONSTA Xの楽曲](https://ja.wikipedia.org/wiki/MONSTA_X "wikilink")。2020年4月15日に[Mercury Tokyoより日本での](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")7作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

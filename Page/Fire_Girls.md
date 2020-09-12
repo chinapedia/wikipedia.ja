@@ -15,7 +15,7 @@ Fire Girlsは2008年に[bjリーグ](https://ja.wikipedia.org/wiki/bjリーグ "
 
 メンバーは毎年オーディションで選ばれた数名で構成される。
 
-#### 2019-2020シーズン
+### 2019-2020シーズン
 
 ディレクター：YUKI
 
@@ -23,7 +23,7 @@ Fire Girlsは2008年に[bjリーグ](https://ja.wikipedia.org/wiki/bjリーグ "
 
 メンバー：MIZUKI（キャプテン）、MADOKA（バイスキャプテン）、AKARI、AI、YUNA、MEME、ERIKA、MAMI、NAO、MOMO\[2\]
 
-#### 2018-2019シーズン
+### 2018-2019シーズン
 
 ディレクター：YUKI
 

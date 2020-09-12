@@ -192,7 +192,7 @@ GCER2002</p></td>
   - RANMA - [Twitter](https://twitter.com/RANMA_SELLOUT) - [Instagram](https://www.instagram.com/ranma_sellout/)
   - SELLOUT OFFICIAL YOUTUBE - [YouTube](https://www.youtube.com/channel/UCVNqtN3hXa9wlfJO-6MadDQ)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink")
+[Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink")
 
 1.  \[<https://www.nikkansports.com/entertainment/news/201812190000715.html>　ＳＥＬＬＯＵＴに新メンバー加入「新しい風吹かす」\]日刊スポーツ2018年12月19日
 2.  \[<https://twitter.com/sskingmaster/status/1075387684145704960?s=20>　PaniCrew YOHEY Twitter\]2018年12月19日

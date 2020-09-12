@@ -5,7 +5,7 @@
 
 ## 解説
 
-TM NETWORKデビュー35周年を記念して、ソニーとエイベックスが共同企画したファン投票のリクエストが高かった上位70曲を各々3枚組（35曲+新曲1曲）、計6枚（総合計70曲+新曲2曲）のCDに選曲・構成されたベストアルバム。本項ではエイベックスがリリースする作品について記述する。
+TM NETWORKデビュー35周年を記念して、ソニーとエイベックスが共同企画したファン投票のベスト100曲の内、上位から70位内にランキングされた曲を 各々3枚組（35曲+新曲1曲）、計6枚（総合計70曲+新曲2曲）のCDに選曲・構成されたベストアルバム。本項ではエイベックスがリリースする作品について記述する。
 
 過去に20周年記念時にリリースされた「[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")」ではSME傘下である[EPIC及び](../Page/エピックレコードジャパン.md "wikilink")[TRUE KiSS DiSC](../Page/TRUE_KiSS_DiSC.md "wikilink")（1984-1999年まで）限定であったのに対し、 本作では2012年以降である[エイベックスとレーベルの垣根を越えたベスト](https://ja.wikipedia.org/wiki/avex_trax "wikilink")・アルバムとなっており今回初収録曲も多数あるが、[Rojam Entertainment及び](../Page/Rojam_Entertainment.md "wikilink")[YOSHIMOTO R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")（2000年 - 2008年）の楽曲は本作には収録されておらず、そちらに関してはソニー側がリリースする「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")（以下「T」と表記）」に収録される。
 

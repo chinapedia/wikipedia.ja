@@ -51,6 +51,9 @@ AV女優・[吉根ゆりあ](https://ja.wikipedia.org/wiki/吉根ゆりあ "wiki
 | \#3 | 2月16日            | [宝田もなみ](https://ja.wikipedia.org/wiki/宝田もなみ "wikilink")\[7\] | Iカップインテリ乳   |
 | \#4 | 3月17日            | [優梨まいな](https://ja.wikipedia.org/wiki/優梨まいな "wikilink")\[8\] | Gカップヴィーナス乳  |
 | \#5 | 5月16日            | [麻倉ゆあ](https://ja.wikipedia.org/wiki/麻倉ゆあ "wikilink")\[9\]   | Kカップスフィンクス乳 |
+| \#6 | 6月16日            | 優木なお\[10\]                                                   | Gカップ癒し乳     |
+| \#7 | 7月19日            | 優月まりな\[11\]                                                  | Kカップハレンチ乳   |
+| \#8 | 8月16日            | 優月まりな\[12\]                                                  | Kカップハレンチ乳   |
 
 ## スタッフ
 
@@ -75,3 +78,6 @@ AV女優・[吉根ゆりあ](https://ja.wikipedia.org/wiki/吉根ゆりあ "wiki
 7.
 8.
 9.
+10.
+11.
+12.

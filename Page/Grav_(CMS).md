@@ -11,6 +11,13 @@
   - "[Gravity](../Page/重力.md "wikilink")"を短縮したものが名称の由来となっている。
   - Gravは[GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink")において、PHPで記述されたCMSとしては最多となる11,000以上のスター数を獲得している。\[1\]
 
+## 必要スペック
+
+  - Webサーバーソフトウェア(Apacheなど)
+  - PHP7.1.3以上
+
+なお、Gravはデータベースを使用しないため、MySQLなどは不要である。
+
 ## アワード
 
   - CMS Critic Awards - [Best Flat File CMS 2019](https://www.cmscritic.com/awards/)

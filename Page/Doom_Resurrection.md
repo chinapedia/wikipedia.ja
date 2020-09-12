@@ -9,6 +9,6 @@
 
 ## 参考文献
 
-[Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:2009年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2009年のコンピュータゲーム "wikilink")
+[Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:2009年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2009年のコンピュータゲーム "wikilink") [Category:Doom_(フランチャイズ)](https://ja.wikipedia.org/wiki/Category:Doom_\(フランチャイズ\) "wikilink")
 
 1.

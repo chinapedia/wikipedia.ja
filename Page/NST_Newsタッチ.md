@@ -7,7 +7,7 @@
 
 [2019年](../Page/2019年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2020年](../Page/2020年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")で放送されていた『[NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")』の平日版の後継番組として、[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から放送されている。週末版は引き続き『[NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")』のタイトルで続行される。
 
-なおNSTが夕方ローカルニュースタイトルにキー局[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")の番組タイトル（2020年4月現在は『[イット\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』）が付け加えられずに独自のタイトルとなるのは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に終了した『[NSTワイド6:00](../Page/NSTワイド6:00.md "wikilink")』以来29年半ぶりとなる(週末版だと2001年9月30日に終了した『[NSTニュースコーナー](https://ja.wikipedia.org/wiki/NSTニュースコーナー "wikilink")』以来18年半ぶり)。
+なおNSTが夕方ローカルニュースタイトルにキー局[フジテレビの番組タイトル](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（2020年4月現在は『[イット\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』）が付け加えられずに独自のタイトルとなるのは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に終了した『[NSTワイド6:00](../Page/NSTワイド6:00.md "wikilink")』以来29年半ぶりとなる(週末版だと2001年9月30日に終了した『[NSTニュースコーナー](https://ja.wikipedia.org/wiki/NSTニュースコーナー "wikilink")』以来18年半ぶり)。
 
 キャスターは前番組に引き続き杉本一機、気象予報士の清水祥太が続投し、2007年までNSTアナウンサーで現在はフリーアナウンサーの[松村道子](../Page/松村道子.md "wikilink")が起用された。
 
@@ -15,8 +15,8 @@
 
 ## 放送時間
 
-  - 月曜 - 金曜：18:14-19:00
-      - 16:50 - 18:14は東京・フジテレビから『イット\!』を放送
+  - 月曜 - 金曜：18:14 - 19:00
+      - 16:50 - 18:14はフジテレビ『[イット\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』を放送。
 
 ## キャスター
 

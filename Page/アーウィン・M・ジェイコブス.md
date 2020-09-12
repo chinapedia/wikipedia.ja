@@ -28,7 +28,7 @@
   - 1995年 - [IEEEアレクサンダー・グラハム・ベル・メダル](https://ja.wikipedia.org/wiki/IEEEアレクサンダー・グラハム・ベル・メダル "wikilink")(（リーダーシップ、理論、実践、製品開発など、電気通信への顕著な貢献に対して）\[11\]
   - 2001年 - [ベンジャミン・フランクリン・メダル](https://ja.wikipedia.org/wiki/ベンジャミン・フランクリン・メダル_\(フランクリン協会\) "wikilink")(Bower Award for Business Leadership)\[12\]\[13\]
   - 2007年 - （無線通信の成長を可能にした基本的な貢献、革新、リーダーシップに対して。ビタビと共同受賞）\[14\]
-  - 2011年 - \[15\]
+  - 2011年 - [マルコーニ賞](https://ja.wikipedia.org/wiki/マルコーニ賞 "wikilink")\[15\]
   - 2013年 - [全米発明家殿堂](https://ja.wikipedia.org/wiki/全米発明家殿堂 "wikilink")殿堂入り
   - 2013年 - [IEEE栄誉賞](../Page/IEEE栄誉賞.md "wikilink")\[16\]
   - 2013年 - [国立清華大学](../Page/国立清華大学.md "wikilink") 特別栄誉教授\[17\]\[18\]

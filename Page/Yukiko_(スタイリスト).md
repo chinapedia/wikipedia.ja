@@ -123,55 +123,46 @@
 
   - 2020年（令和2年）
       - YouTube「本格焼酎＆泡盛チャンネル」（色彩監修含む）
-        「焼酎＆泡盛スタイル」動画 美容女子・焼酎女子が六本木に集合！「色と食の旅プロジェクト」本格焼酎イベント――世界4大ミネラルウォーター\*\*「[日田天領水](../Page/日田天領水.md "wikilink")」（色彩監修含む）\[16\]
+        「焼酎＆泡盛スタイル」動画 美容女子・焼酎女子が六本木に集合！「色と食の旅プロジェクト」本格焼酎イベント――世界4大ミネラルウォーター「[日田天領水](../Page/日田天領水.md "wikilink")」（色彩監修含む）\[16\]
 
 ### 対談
 
   - 2016年（平成28年）　[中田英寿](../Page/中田英寿.md "wikilink")（元サッカー選手日本代表）×yukiko
-
-<!-- end list -->
-
   - 2017年（平成29年）　[レスリー・キー](../Page/レスリー・キー.md "wikilink")（ファッションカメラマン）×yukiko
-
-<!-- end list -->
-
   - 2018年（平成30年）　[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")（歌手）×yukiko　　 [カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")（歌手）×yukiko　　 [田上晃吉](../Page/田上晃吉.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")方言指導・俳優）×yukiko
-
-<!-- end list -->
-
   - 2019年（平成31年/令和元年）　[宮下純一](https://ja.wikipedia.org/wiki/宮下純一 "wikilink")（北京オリンピック競泳メダリスト）×yukiko　　 [中孝介](../Page/中孝介.md "wikilink")（歌手）×yukiko
 
 ### 執筆（インタビュー、連載）
 
   - 2013年（平成25年）
-    \*[美容家](https://ja.wikipedia.org/wiki/美容家 "wikilink") [佐伯チズ](../Page/佐伯チズ.md "wikilink")インタビュー
+      - [美容家](https://ja.wikipedia.org/wiki/美容家 "wikilink") [佐伯チズ](../Page/佐伯チズ.md "wikilink")インタビュー
   - 2015年（平成24年）
-    \*Career Groove記事執筆
+      - Career Groove記事執筆
   - 2016年（平成28年）
-    \*企業のHP用記事を取材・執筆
-    \*Career Groove記事執筆
+      - 企業のHP用記事を取材・執筆
+      - Career Groove記事執筆
   - 2017年（平成29年）
-    \*Career Groove記事執筆
-    \*[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
-    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
+      - Career Groove記事執筆
+      - [日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
+      - ウェブマガジン「焼酎＆泡盛スタイル」連載
   - 2018年（平成30年）
-    \*[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
-    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
-    \*[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作者 作家・ [林真理子](../Page/林真理子.md "wikilink")イベント特集記事
-    \*NHK大河ドラマ「西郷どん」原作本『西郷どん！』林真理子×西郷真悠子イベント特集記事
+      - [日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
+      - ウェブマガジン「焼酎＆泡盛スタイル」連載
+      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作者 作家・ [林真理子](../Page/林真理子.md "wikilink")イベント特集記事
+      - NHK大河ドラマ「西郷どん」原作本『西郷どん！』林真理子×西郷真悠子イベント特集記事
   - 2019年（平成31年/令和元年）
-    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
-    \*[鹿児島県](../Page/鹿児島県.md "wikilink")特産品協会 会報誌　新春号に寄稿\[17\]
-    \*コスメティックブランド「FIVEISMｘTHREE」（ファイブイズム バイ スリー）公式サイト寄稿\[18\]
+      - ウェブマガジン「焼酎＆泡盛スタイル」連載
+      - [鹿児島県](../Page/鹿児島県.md "wikilink")特産品協会 会報誌　新春号に寄稿\[17\]
+      - コスメティックブランド「FIVEISMｘTHREE」（ファイブイズム バイ スリー）公式サイト寄稿\[18\]
   - 2020年（令和2年）
-    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
+      - ウェブマガジン「焼酎＆泡盛スタイル」連載
 
 ### その他
 
   - 2009年（平成21年）
-    \*[文部科学省](../Page/文部科学省.md "wikilink")後援 色彩検定において担当した教育機関を「優秀団体賞」に導く
+      - [文部科学省](../Page/文部科学省.md "wikilink")後援 色彩検定において担当した教育機関を「優秀団体賞」に導く
   - 2018年（平成30年）
-    \*[文化庁](../Page/文化庁.md "wikilink")の[日本遺産](https://ja.wikipedia.org/wiki/日本遺産 "wikilink")サイトに「色と食の旅プロジェクト」が紹介される
+      - [文化庁](../Page/文化庁.md "wikilink")の[日本遺産](https://ja.wikipedia.org/wiki/日本遺産 "wikilink")サイトに「色と食の旅プロジェクト」が紹介される
 
 ## 脚注
 
@@ -185,10 +176,10 @@
   - [中小企業・小規模事業者向け支援「ミラサポ」](https://www.mirasapo.jp/specialist/index.html)
   - [『Career Groove』（モッピーバイト）](https://cg.moppy-baito.com)[yukikoインタビュー記事](https://cg.moppy-baito.com/yukiko/)
   - [焼酎スタイリストyukikoの「焼酎＆泡盛Instagram」](https://www.instagram.com/yukiko_shochu.stylist/)
-  - [焼酎スタイリストyukikoのTwitter](https://twitter.com/yukiko_shochu)　
+  - [焼酎スタイリストyukikoのTwitter](https://twitter.com/yukiko_shochu)
   - [焼酎スタイリストyukikoのブログ（ameba）](https://ameblo.jp/color-director/)
 
-[Category:スタイリスト](https://ja.wikipedia.org/wiki/Category:スタイリスト "wikilink") [Category:アドバイザー](https://ja.wikipedia.org/wiki/Category:アドバイザー "wikilink") [Category:ビジネスプロデューサー](https://ja.wikipedia.org/wiki/Category:ビジネスプロデューサー "wikilink") [Category:コンサルタント](https://ja.wikipedia.org/wiki/Category:コンサルタント "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:永谷園](https://ja.wikipedia.org/wiki/Category:永谷園 "wikilink")
+[Category:スタイリスト](https://ja.wikipedia.org/wiki/Category:スタイリスト "wikilink") [Category:アドバイザー](https://ja.wikipedia.org/wiki/Category:アドバイザー "wikilink") [Category:ビジネスプロデューサー](https://ja.wikipedia.org/wiki/Category:ビジネスプロデューサー "wikilink") [Category:日本のコンサルタント](https://ja.wikipedia.org/wiki/Category:日本のコンサルタント "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:永谷園](https://ja.wikipedia.org/wiki/Category:永谷園 "wikilink")
 
 1.  「焼酎スタイリスト」は登録商標となっている。（第5922628号、第5959066号）
 2.  「焼酎スタイリスト」のほか、「泡盛スタイリスト」（商標申請中）、「日本酒スタイリスト」（第5968666号）、「清酒スタイリスト」（第6027093号）も登録商標である。
@@ -205,6 +196,6 @@
 13. 「焼酎＆泡盛スタイル」動画
 14. YouTube「焼酎＆泡盛スタイル」動画
 15. YouTube「本格焼酎＆泡盛チャンネル」
-16. YouTube[「本格焼酎＆泡盛チャンネル」](https://www.youtube.com/watch?v=queWGH9UPX0)
+16.
 17. 『鹿児島県特産品協会だより　第44号』[東京から鹿児島を応援！「ファンづくり、ブランドづくりの基礎知識」](http://www.k-p-a.jp/business-info/magazine/11380/)
 18. 『FIVEISMｘTHREE』[遊び心”を醸すジャパンブランド。「本格焼酎・泡盛」の精神](https://www.fiveism-x-three.com/feature/1190/)

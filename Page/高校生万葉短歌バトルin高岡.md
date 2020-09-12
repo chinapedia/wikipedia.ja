@@ -58,6 +58,15 @@
 （<a href="../Page/富山県立富山中部高等学校.md" title="wikilink">富山中部高校</a>）</p></td>
 </tr>
 <tr class="odd">
+<td><p>第5回<br />
+（2020年）</p></td>
+<td><p><a href="../Page/渋谷教育学園渋谷中学校・高等学校.md" title="wikilink">渋谷教育学園渋谷高校</a></p></td>
+<td><p><a href="../Page/岩手県立盛岡第三高等学校.md" title="wikilink">盛岡第三高校</a></p></td>
+<td><p>夢を見る窓辺の虫と僕は今転生についての授業を終えて</p></td>
+<td><p>工藤鈴音<br />
+（<a href="../Page/太田市立太田中学校・高等学校.md" title="wikilink">太田市立太田高校</a>）</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

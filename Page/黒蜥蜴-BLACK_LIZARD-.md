@@ -66,6 +66,11 @@
   - 脚本 - 長津晴子、[林海象](../Page/林海象.md "wikilink")
   - 演出 - 林海象
   - 音楽 - [サキタハヂメ](../Page/サキタハヂメ.md "wikilink")
+  - 撮影 - [長田勇市](https://ja.wikipedia.org/wiki/長田勇市 "wikilink")
+  - アクション指導 - [横山誠](../Page/横山誠.md "wikilink")
+  - 拳銃指導 - [栩野幸知](../Page/栩野幸知.md "wikilink")
+  - ピアノ指導 - [白川優希](https://ja.wikipedia.org/wiki/白川優希 "wikilink")
+  - マジック指導 - [山下翔吾](https://ja.wikipedia.org/wiki/山下翔吾 "wikilink")
   - 制作統括 - 中村高志（[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")）、髙木敬太（[東映](../Page/東映.md "wikilink")）、[髙橋練](https://ja.wikipedia.org/wiki/高橋練 "wikilink")（[NHK制作局第](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")4ユニット）
   - プロデューサー - 大西文二（東映）
   - 制作 - NHKエンタープライズ

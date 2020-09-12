@@ -161,7 +161,8 @@ Doom Classicという題名でDoomの公式移植作がiOSデバイス向けに2
 
 ## 関連項目
 
-  -
+  - [Doomのソース移植一覧](https://ja.wikipedia.org/wiki/Doomのソース移植一覧 "wikilink")
+
 ## 脚注
 
 ## 外部リンク
@@ -169,7 +170,7 @@ Doom Classicという題名でDoomの公式移植作がiOSデバイス向けに2
   - Doomworldによる[Harry Teasleyへのインタビュー（1998）](http://5years.doomworld.com/interviews/harryteasley/)
   - [据置型ゲーム機、携帯型ゲーム機およびコンピューターのDoomゲームの詳細な比較](http://classicdoom.com/doomcomp.htm)
 
-[Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink")
+[Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:Doom_(フランチャイズ)](https://ja.wikipedia.org/wiki/Category:Doom_\(フランチャイズ\) "wikilink")
 
 1.
 2.  [Photos](http://rome.ro/lee_killough/memorabilia/swastika.shtml)  at John Romero's website.

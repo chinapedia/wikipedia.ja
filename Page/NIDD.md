@@ -1,7 +1,7 @@
 > この記事は[NIDD](https://ja.wikipedia.org/wiki/NIDD)から翻訳されています。
 
 
-**NIDD（Non-IP Data Delivery）**\[1\] \[2\]、非IPデータ配信は[インターネット・プロトコル](https://ja.wikipedia.org/wiki/インターネット・プロトコル "wikilink")を用いない技術である。
+**NIDD**（Non-IP Data Delivery）\[1\] \[2\]、非IPデータ配信は[インターネット・プロトコル](https://ja.wikipedia.org/wiki/インターネット・プロトコル "wikilink")を用いない技術である。
 
 ## 概要
 
@@ -25,7 +25,7 @@
   - [SoftBank 5G | モバイル | ソフトバンク](https://www.softbank.jp/mobile/special/softbank-5g/)
   - [ソフトバンクと村田製作所、ソフトバンクのIoTプラットフォームに対応した世界最小クラスの通信モジュールを共同開発 | 製品情報 | 村田製作所](https://www.murata.com/ja-jp/products/info/connectivitymodule/lpwa/2019/0704)
 
-[Category:5G](https://ja.wikipedia.org/wiki/Category:5G "wikilink") [Category:携帯電話の通信規格](https://ja.wikipedia.org/wiki/Category:携帯電話の通信規格 "wikilink") [Category:モノのインターネット](https://ja.wikipedia.org/wiki/Category:モノのインターネット "wikilink")
+[Category:5G](https://ja.wikipedia.org/wiki/Category:5G "wikilink") [Category:モノのインターネット](https://ja.wikipedia.org/wiki/Category:モノのインターネット "wikilink")
 
 1.
 2.

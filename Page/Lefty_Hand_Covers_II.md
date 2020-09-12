@@ -30,8 +30,6 @@
 
   - [Lefty Hand Cream OfficialWeb](http://leftyhandcream.com/) - 公式サイト
 
-__インデックス__
-
 [Category:2018年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2018年のカバー・アルバム "wikilink")
 
 1.

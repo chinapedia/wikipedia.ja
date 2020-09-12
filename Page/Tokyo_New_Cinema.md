@@ -7,7 +7,7 @@
 
 ## 構成
 
-代表取締役/[木ノ内輝](../Page/木ノ内輝.md "wikilink") 取締役兼最高戦略責任者/武藤康平 取締役/藤村駿 監督/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink")・佐近圭太郎 監査/福井紀之 相談役/石川俊一郎
+代表取締役/[木ノ内輝](../Page/木ノ内輝.md "wikilink") 取締役兼最高戦略責任者/武藤康平 取締役/藤村駿 監督/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink")・[佐近圭太郎](https://ja.wikipedia.org/wiki/佐近圭太郎 "wikilink") 監査/福井紀之 相談役/石川俊一郎
 
 ## 受賞・上映歴
 
@@ -36,7 +36,7 @@
   - 2012年 『雨粒の小さな歴史』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/榊林乃愛・南美櫻
   - 2013年 『Plastic Love Story』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[坂田麻衣](https://ja.wikipedia.org/wiki/坂田麻衣 "wikilink")・高橋愛実
   - 2014年 『[愛の小さな歴史](https://ja.wikipedia.org/wiki/愛の小さな歴史 "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[中村映里子](../Page/中村映里子.md "wikilink")・[光石研](../Page/光石研.md "wikilink")
-  - 2015年 『[走れ、絶望に追いつかれない速さで](https://ja.wikipedia.org/wiki/走れ、絶望に追いつかれない速さで "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[太賀](https://ja.wikipedia.org/wiki/太賀 "wikilink")・[小林竜樹](https://ja.wikipedia.org/wiki/小林竜樹 "wikilink")
+  - 2015年 『[走れ、絶望に追いつかれない速さで](https://ja.wikipedia.org/wiki/走れ、絶望に追いつかれない速さで "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[太賀](https://ja.wikipedia.org/wiki/太賀 "wikilink")・[小林竜樹](https://ja.wikipedia.org/wiki/小林竜樹_\(俳優\) "wikilink")
   - 2015年 『壊れた心』 監督・脚本/ケヴィン・デ・ラ・クルス 出演/[浅野忠信](../Page/浅野忠信.md "wikilink") ・ ナタリア・アセベド
   - 2017年 『[四月の永い夢](https://ja.wikipedia.org/wiki/四月の永い夢 "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[朝倉あき](../Page/朝倉あき.md "wikilink")・[三浦貴大](https://ja.wikipedia.org/wiki/三浦貴大 "wikilink")
   - 2019年 『[わたしは光をにぎっている](https://ja.wikipedia.org/wiki/わたしは光をにぎっている "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[松本穂香](https://ja.wikipedia.org/wiki/松本穂香 "wikilink")・[渡辺大知](https://ja.wikipedia.org/wiki/渡辺大知 "wikilink")

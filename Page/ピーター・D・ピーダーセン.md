@@ -1,7 +1,7 @@
 > この記事は[ピーター・D・ピーダーセン](https://ja.wikipedia.org/wiki/ピーター・D・ピーダーセン)から翻訳されています。
 
 
-**ピーター・D・ピーダーセン**（[英語](../Page/英語.md "wikilink"):Peter David Pedersen、[1967年](../Page/1967年.md "wikilink") - ）は、株式会社[イースクエア](https://ja.wikipedia.org/wiki/イースクエア "wikilink")共同創業者、[リーダーシップ・アカデミーTACL代表](https://ja.wikipedia.org/wiki/リーダーシップ・アカデミーTACL代表 "wikilink")。[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")出身。
+**ピーター・D・ピーダーセン**（[英語](../Page/英語.md "wikilink"):Peter David Pedersen、[1967年](../Page/1967年.md "wikilink") - ）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")出身の[実業家](../Page/実業家.md "wikilink")。株式会社[イースクエア](https://ja.wikipedia.org/wiki/イースクエア "wikilink")共同創業者、[リーダーシップ・アカデミーTACL](https://ja.wikipedia.org/wiki/リーダーシップ・アカデミーTACL "wikilink")代表、一般社団法人NELIS代表理事、学校法人[大学院大学至善館](https://ja.wikipedia.org/wiki/大学院大学至善館 "wikilink")教授。
 
 ## 来歴
 
@@ -29,6 +29,8 @@
 
 [2014年](../Page/2014年.md "wikilink")に[リーダーシップ・アカデミーTACL](https://ja.wikipedia.org/wiki/リーダーシップ・アカデミーTACL "wikilink")代表に就任（株式会社[トランスエージェント](https://ja.wikipedia.org/wiki/トランスエージェント "wikilink")内）。[NELIS－次世代リーダーのグローバルネットワーク](https://ja.wikipedia.org/wiki/NELIS－次世代リーダーのグローバルネットワーク "wikilink")の共同代表。
 
+[2019年](../Page/2019年.md "wikilink")、[大学院大学至善館](https://ja.wikipedia.org/wiki/大学院大学至善館 "wikilink")教授に就任。
+
 ## 著書
 
 ### 単著
@@ -46,6 +48,10 @@
 <!-- end list -->
 
   -
+<!-- end list -->
+
+  - ピーター D. ピーダーセン (著), 竹林 征雄 (著)『SDGsビジネス戦略』　日刊工業新聞、2019年3月。ISBN 978-4-526-07922-1
+
 ### 翻訳
 
   -
@@ -59,4 +65,4 @@
 
   - [ピーター・D・ピーダーセン オフィシャルウェブサイト](http://www.pdplab.jp/about/index.html)
 
-[Category:ローカルニュースキャスター](https://ja.wikipedia.org/wiki/Category:ローカルニュースキャスター "wikilink") [Category:TOKYO_MXの人物](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの人物 "wikilink") [Category:コペンハーゲン大学出身の人物](https://ja.wikipedia.org/wiki/Category:コペンハーゲン大学出身の人物 "wikilink") [Category:デンマーク出身の人物](https://ja.wikipedia.org/wiki/Category:デンマーク出身の人物 "wikilink") [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:デンマークの実業家](https://ja.wikipedia.org/wiki/Category:デンマークの実業家 "wikilink") [Category:ローカルニュースキャスター](https://ja.wikipedia.org/wiki/Category:ローカルニュースキャスター "wikilink") [Category:TOKYO_MXの人物](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの人物 "wikilink") [Category:コペンハーゲン大学出身の人物](https://ja.wikipedia.org/wiki/Category:コペンハーゲン大学出身の人物 "wikilink") [Category:日本留学経験者](https://ja.wikipedia.org/wiki/Category:日本留学経験者 "wikilink") [Category:在日デンマーク人](https://ja.wikipedia.org/wiki/Category:在日デンマーク人 "wikilink") [Category:デンマーク出身の人物](https://ja.wikipedia.org/wiki/Category:デンマーク出身の人物 "wikilink") [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

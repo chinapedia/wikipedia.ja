@@ -21,7 +21,7 @@
 
 ### 出典
 
-[Category:アライアンスTW製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アライアンスTW製の鉄道車両 "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:2008年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2008年製の鉄道車両 "wikilink")
+[Category:アライアンスTW製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アライアンスTW製の鉄道車両 "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:2008年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2008年製の鉄道車両 "wikilink")
 
 1.
 2.

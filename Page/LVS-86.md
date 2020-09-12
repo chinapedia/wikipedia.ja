@@ -50,7 +50,7 @@
 ## 参考資料
 
   -
-[Category:ペテルブルク路面電車機械工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ペテルブルク路面電車機械工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:1987年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1987年製の鉄道車両 "wikilink")
+[Category:ペテルブルク路面電車機械工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ペテルブルク路面電車機械工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:1987年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1987年製の鉄道車両 "wikilink")
 
 1.
 2.

@@ -23,8 +23,9 @@ Version 1.0 was released in 1996.\[11\] The latest version of CANoe is 12.0 SP2\
 
 ## 関連項目
 
-  -
-  -
+  - [CANalyzer](../Page/CANalyzer.md "wikilink")
+  - [CANape](https://ja.wikipedia.org/wiki/CANape "wikilink")
+
 ## 参照
 
 ## 情報源

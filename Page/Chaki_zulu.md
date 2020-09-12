@@ -7,58 +7,69 @@
 
 ## 略歴
 
-  - 2020年 4月 kZm アルバム『DISTORTION』プロデュース
-  - 2020年 2月 JNKMN アルバム『JNKMN NOW』プロデュース
-  - 2020年 1月 Awich アルバム『孔雀』プロデュース
-  - 2019年 9月 PETZ アルバム『COSMOS』をプロデュース
-  - 2018年 10月 Awich EP『Beat』『Heart』を2枚同時プロデュース
-  - 2018年 7月 FUJI ROCK FESTIVAL '18 出演 (一夜限りのDJ復活)
-  - 2018年 4月 kZm アルバム『DIMENSION』をプロデュース
-  - 2018年 3月 ollie magazine 表紙
-  - 2017年 8月 Awich アルバム『8』をプロデュース
-  - 2016年 7月 ANARCHY メジャーアルバム『BLKFLG』をプロデュース
-  - 2015年 5月 DJ引退\*
-  - 2015年 1月 YENTOWN活動開始
-  - 2014年 5月 韓国 WDJF'14 にJNGLFVRメンバーとして出演
-  - 2013年 7月 14年春夏パリ・メンズ・コレクション『ジョンローレンスサリバン』サウンドプロデュース
-  - 2013年 6月 MIYAVI 世界デビュー・アルバム『MIYAVI』をプロデュース
-  - 2013年 1月 13/14年秋冬パリ・メンズ・コレクション『ジョンローレンスサリバン』サウンドプロデュース
-  - 2013年 2月 MIYAVI『Ahead Of The Light』をプロデュース
-  - 2012年 8月 FREEDOMMUNE 0 ＜ZERO＞ A NEW ZERO 2012出演
-  - 2012年 8月 サマーソニック大阪出演
-  - 2012年 9月 BUCK-TICK 25th Anniversary FEST 2012 “ON PARADE"出演
-  - 2012年 7月 Twinkerbell（[AMIAYA](https://ja.wikipedia.org/wiki/AMIAYA "wikilink")）のデビュー楽曲『Dreamer's Dream』をプロデュース
-  - 2011年 5月 5都市フランス・ツアー
-  - 2010年 11月 『EMOTION』リリース
-  - 2010年 1月 セブンスターの年間イメージモデル
-  - 2010年 5月 フランス Nuits sonores フェスティバル 2010出演
-  - 2010年 5月 5カ国ヨーロッパ・ツアー
-  - 2010年 4月 Kaikoo Popwave Festival 2010出演
-  - 2009年 10月 『Danse Macabre』リリース
-  - 2009年 6月 『Dream in the Desert』シングルカット
-  - 2009年 9月 ROCK IN JAPAN FESTIVAL 2009出演
-  - 2008年 8月 サマーソニック東京出演
-  - 2008年 12月 『For Whom The Bell Tolls』リリース
   - 2007年 3月 『THE LOWBROWS E.P.』リリース
+  - 2008年 12月 『For Whom The Bell Tolls』リリース
+  - 2008年 8月 サマーソニック東京出演
+  - 2009年 9月 ROCK IN JAPAN FESTIVAL 2009出演
+  - 2009年 6月 『THE LOWBROWS - Dream in the Desert』シングルカット
+  - 2009年 10月 『THE LOWBROWS - Danse Macabre』リリース
+  - 2010年 4月 Kaikoo Popwave Festival 2010出演
+  - 2010年 5月 5カ国ヨーロッパ・ツアー
+  - 2010年 5月 フランス Nuits sonores フェスティバル 2010出演
+  - 2010年 1月 セブンスターの年間イメージモデル
+  - 2010年 11月 『THE LOWBROWS - EMOTION』リリース
+  - 2011年 5月 5都市フランス・ツアー
+  - 2012年 7月 Twinkerbell（[AMIAYA](https://ja.wikipedia.org/wiki/AMIAYA "wikilink")）のデビュー楽曲『Dreamer's Dream』をプロデュース
+  - 2012年 9月 BUCK-TICK 25th Anniversary FEST 2012 “ON PARADE"出演
+  - 2012年 8月 サマーソニック大阪出演
+  - 2012年 8月 FREEDOMMUNE 0 ＜ZERO＞ A NEW ZERO 2012出演
+  - 2013年 2月 MIYAVI シングル『Ahead Of The Light』をプロデュース
+  - 2013年 1月 13/14年秋冬パリ・メンズ・コレクション『ジョンローレンスサリバン』サウンドプロデュース
+  - 2013年 6月 MIYAVI 世界デビュー・アルバム『MIYAVI』をプロデュース
+  - 2013年 7月 14年春夏パリ・メンズ・コレクション『ジョンローレンスサリバン』サウンドプロデュース
+  - 2014年 5月 韓国 WDJF'14 にJNGLFVRメンバーとして出演
+  - 2015年 1月 YENTOWN活動開始
+  - 2015年 5月 DJ引退
+  - 2016年 7月 ANARCHY メジャーアルバム『BLKFLG』をプロデュース
+  - 2017年 8月 Awich アルバム『8』をプロデュース
+  - 2018年 3月 ollie magazine 表紙
+  - 2018年 4月 kZm アルバム『DIMENSION』をプロデュース
+  - 2018年 7月 FUJI ROCK FESTIVAL '18 出演 (一夜限りのDJ復活)
+  - 2018年 10月 Awich EP『Beat』『Heart』を2枚同時プロデュース
+  - 2019年 9月 PETZ アルバム『COSMOS』をプロデュース
+  - 2020年 1月 Awich アルバム『孔雀』プロデュース
+  - 2020年 2月 JNKMN アルバム『JNKMN NOW』プロデュース
+  - 2020年 4月 kZm アルバム『DISTORTION』プロデュース
+  - 2020年 8月 Awich EP『Partition』プロデュース
 
 ## 作品
 
 ### THE LOWBROWS シングル
 
-  - Dream in the Desert（[2009年](../Page/2009年.md "wikilink")）Bang Gang 12 inches
-  - THE LOWBROWS E.P.（[2007年](../Page/2007年.md "wikilink")）Delicatessen Recordings
+  - Dream in the Desert（2009年）Bang Gang 12 inches
+  - THE LOWBROWS E.P.（2007年）Delicatessen Recordings
 
 ### THE LOWBROWS アルバム
 
-  - Emotion（2010年）ユニバーサルJ
-  - Danse Macabre（[2009年](../Page/2009年.md "wikilink")）[ユニバーサルJ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
-  - For Whom The Bell Tolls（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")
+  - Emotion（2010年）[ユニバーサルJ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+  - Danse Macabre（2009年）[ユニバーサルJ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+  - For Whom The Bell Tolls（2008年）[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")
 
 ### 楽曲提供・編曲等
 
 **【メジャー】**
 
+  - SKY-HI / Shiawase feat. Honey C
+  - Awich / Bad Bad
+  - Awich / Good Bye
+  - Awich / Awake
+  - Awich / Revenge
+  - Awich / Patrona
+  - Awich / Shook Shook
+  - Awich / Sign
+  - TAEYO / Let me down
   - TAEYO / ASHURA
+  - ANARCHY / Promise feat. Awich
   - 香取慎吾 feat SALU / OKAY
   - DOBERMAN INFINITY / まだ足りねぇ
   - SALU / FALLIN'
@@ -120,17 +131,18 @@
 
 **【インディー】**
 
+  - Grace Aimi / Eternal Sunshine (Prod. Chaki Zulu)
   - kZm / Intro – Distortion –
   - kZm / Star Fish
   - kZm / 27CLUB feat. LEX (Prod. SIL V3 R 100 & Chaki Zulu)
   - kZm / Anybody.. feat. 小袋成彬 (Prod. Chaki Zulu & 小袋成彬)
-  - kZm / バグり feat. MonyHorse (Prod. Chaki Zulu)
-  - kZm / G.O.A.T (Prod. Chaki Zulu)
+  - kZm / バグり feat. MonyHorse
+  - kZm / G.O.A.T
   - kZm / Give Me Your Something feat. Daichi Yamamoto (Prod. DISK NAGATAKI & Chaki Zulu)
   - kZm / Fuck U Tokio I Love U\! feat. 5lack (Prod. DISK NAGATAKI & Chaki Zulu)
-  - kZm / 追憶 feat. Yojiro Noda (Prod. Chaki Zulu)
-  - kZm / But She Cries Remix feat. BIM (Prod. Chaki Zulu)
-  - kZm / TEENAGE VIBE feat. Tohji (Prod. Chaki Zulu)
+  - kZm / 追憶 feat. Yojiro Noda
+  - kZm / But She Cries Remix feat. BIM
+  - kZm / TEENAGE VIBE feat. Tohji
   - JNKMN / Letters feat. Awich
   - JNKMN / My Turn
   - JNKMN / 線の上
@@ -234,6 +246,7 @@
 
 ### アルバム監修　
 
+  - Awich / Partition
   - kZm / DISTORTION
   - JNKMN / NOW
   - Awich / 孔雀
@@ -325,55 +338,56 @@
 
 ### ショー・サウンドプロデュース等
 
-  - 2019年 FIBA 3x3 World Tour Utsunomiya Masters Final 2019 世界決勝公式テーマソング
-  - 2019年 春夏『AVALONE - MORE HUMAN THAN HUMAN』 ショウ・ミュージックプロデュース
-  - 2015年 秋冬 東京コレクション『ジョンローレンスサリバン』 サウンドプロデュース
-  - 2015年 秋冬 東京コレクション『D.TT.K』 サウンドプロデュース
-  - 2015年 秋冬『AVALONE - envy』 ムービー・サウンドプロデュース
-  - 2014年 秋冬 パリ・メンズ・コレクション『ジョンローレンスサリバン』 サウンドプロデュース
-  - 2014年 春夏 パリ・メンズ・コレクション『ジョンローレンスサリバン』 サウンドプロデュース
   - 2013年 秋冬 パリ・メンズ・コレクション『ジョンローレンスサリバン』 サウンドプロデュース
+  - 2014年 春夏 パリ・メンズ・コレクション『ジョンローレンスサリバン』 サウンドプロデュース
+  - 2014年 秋冬 パリ・メンズ・コレクション『ジョンローレンスサリバン』 サウンドプロデュース
+  - 2015年 秋冬『AVALONE - envy』 ムービー・サウンドプロデュース
+  - 2015年 秋冬 東京コレクション『D.TT.K』 サウンドプロデュース
+  - 2015年 秋冬 東京コレクション『ジョンローレンスサリバン』 サウンドプロデュース
+  - 2019年 春夏『AVALONE - MORE HUMAN THAN HUMAN』 ショウ・ミュージックプロデュース
+  - 2019年 FIBA 3x3 World Tour Utsunomiya Masters Final 2019 世界決勝公式テーマソング
 
 ### TV・CM等
 
-  - 2020年 Netflix アニメ「ケンガンアシュラ」エンディングテーマ
-  - 2020年 TVCM「DHC クイーンオブセラム」美しき逆転発想 篇
-  - 2019年 日本テレビ系 ドラマ「貴族誕生 -PRINCE OF LEGEND-」テキサス・コールテーマ
-  - 2019年 日本テレビ系 ドラマ「貴族誕生 -PRINCE OF LEGEND-」サンマルチノ・コールテーマ
-  - 2019年 Red Bull Music「RINO LATINA II - 64 Bars recorded in Tokyo」
-  - 2019年 TVCM「洋服の青山」パーティーフォーマル『Day and Night』篇
-  - 2019年 映画「HiGH\&LOW THE WORST」挿入曲
-  - 2019年 映画「WALKING MAN」挿入曲　
-  - 2019年 読売テレビ「キューン！」8月度エンディングテーマ
-  - 2019年 読売テレビ「音力」8月度エンディングテーマ
-  - 2019年 読売テレビ「すもももももも！ピーチCAFE」8月度エンディングテーマ
-  - 2019年 テレビ東京「流派-R since 2001」10月度エンディングレコメンド曲
-  - 2018年 Indeed TVCM「SEARCH FOOTBALL LOVERS」w/ KREVA
-  - 2018年 読売テレビ系 ドラマ「風花凜子の恋」主題歌
-  - 2018年 読売テレビ「キューン！」8月度エンディングテーマ
-  - 2018年 読売テレビ「音力」4月度エンディングテーマ
-  - 2018年 読売テレビ「すもももももも！ピーチCAFE」 4月度エンディングテーマ
-  - 2018年 BMW「X2 UNFOLLOW meets 香取慎吾」
-  - 2018年 Nike「BEHIND THE DESIGN: AIR MAX 1 ATMOS ANIMAL PACK」
-  - 2018年 Reebok「DMX RUN 10 & DMX FUSION」
-  - 2017年 読売テレビ「キューン！」8月度エンディングテーマ
-  - 2017年 読売テレビ「音力」8月度エンディングテーマ
-  - 2017年 読売テレビ「すもももももも！ピーチCAFE」 8月度エンディングテーマ
-  - 2017年 Nike「AIR MAX VOTE FORWARD - TOKYO」
-  - 2017年 映画「HiGH\&LOW THE MOVIE 2 / END OF SKY」挿入曲
-  - 2016年 ASICS TIGER / 30YEARS OF GEL TECHNOLOGY
-  - 2016年 Beats by Dre「Show Your Color ft. E-girls」
-  - 2016年 TVCM ロートＺ！× 登坂広臣
-  - 2016年 TVCM エースコック スーパーカップ×HiGH\&LOW「最高のパフォーマンスCP」篇
-  - 2016年 映画「HiGH\&LOW THE RED RAIN」挿入曲
-  - 2016年 映画「HiGH\&LOW THE MOVIE」挿入曲
-  - 2016年 映画「ROAD TO HiGH\&LOW」挿入曲
-  - 2016年 日本テレビ系 ドラマ「HiGH\&LOWシーズン2」挿入曲
-  - 2015年 日本テレビ系 ドラマ「HiGH\&LOWシーズン1」挿入曲
-  - 2013年 TVCM 日産「エクストレイル」
-  - 2013年 TVCM asics「ASICS A77」TVCM
-  - 2011年 TBS「ガチ相撲」テーマ
   - 2011年 TVCM NTTドコモの2011年春モデル「ドコモスマートフォン MEDIAS N-04C」
+  - 2011年 TBS「ガチ相撲」テーマ
+  - 2013年 TVCM asics「ASICS A77」TVCM
+  - 2013年 TVCM 日産「エクストレイル」
+  - 2015年 日本テレビ系 ドラマ「HiGH\&LOWシーズン1」挿入曲
+  - 2016年 日本テレビ系 ドラマ「HiGH\&LOWシーズン2」挿入曲
+  - 2016年 映画「ROAD TO HiGH\&LOW」挿入曲
+  - 2016年 映画「HiGH\&LOW THE MOVIE」挿入曲
+  - 2016年 映画「HiGH\&LOW THE RED RAIN」挿入曲
+  - 2016年 TVCM エースコック スーパーカップ×HiGH\&LOW「最高のパフォーマンスCP」篇
+  - 2016年 TVCM ロートＺ！× 登坂広臣
+  - 2016年 Beats by Dre「Show Your Color ft. E-girls」
+  - 2016年 ASICS TIGER / 30YEARS OF GEL TECHNOLOGY
+  - 2017年 映画「HiGH\&LOW THE MOVIE 2 / END OF SKY」挿入曲
+  - 2017年 Nike「AIR MAX VOTE FORWARD - TOKYO」
+  - 2017年 読売テレビ「すもももももも！ピーチCAFE」 8月度エンディングテーマ
+  - 2017年 読売テレビ「音力」8月度エンディングテーマ
+  - 2017年 読売テレビ「キューン！」8月度エンディングテーマ
+  - 2018年 Reebok「DMX RUN 10 & DMX FUSION」
+  - 2018年 Nike「BEHIND THE DESIGN: AIR MAX 1 ATMOS ANIMAL PACK」
+  - 2018年 BMW「X2 UNFOLLOW meets 香取慎吾」
+  - 2018年 読売テレビ「すもももももも！ピーチCAFE」 4月度エンディングテーマ
+  - 2018年 読売テレビ「音力」4月度エンディングテーマ
+  - 2018年 読売テレビ「キューン！」8月度エンディングテーマ
+  - 2018年 読売テレビ系 ドラマ「風花凜子の恋」主題歌
+  - 2018年 Indeed TVCM「SEARCH FOOTBALL LOVERS」w/ KREVA
+  - 2019年 テレビ東京「流派-R since 2001」10月度エンディングレコメンド曲
+  - 2019年 読売テレビ「すもももももも！ピーチCAFE」8月度エンディングテーマ
+  - 2019年 読売テレビ「音力」8月度エンディングテーマ
+  - 2019年 読売テレビ「キューン！」8月度エンディングテーマ
+  - 2019年 映画「WALKING MAN」挿入曲　
+  - 2019年 映画「HiGH\&LOW THE WORST」挿入曲
+  - 2019年 TVCM「洋服の青山」パーティーフォーマル『Day and Night』篇
+  - 2019年 Red Bull Music「RINO LATINA II - 64 Bars recorded in Tokyo」
+  - 2019年 日本テレビ系 ドラマ「貴族誕生 -PRINCE OF LEGEND-」サンマルチノ・コールテーマ
+  - 2019年 日本テレビ系 ドラマ「貴族誕生 -PRINCE OF LEGEND-」テキサス・コールテーマ
+  - 2020年 TVCM「DHC クイーンオブセラム」美しき逆転発想 篇
+  - 2020年 Netflix アニメ「ケンガンアシュラ」エンディングテーマ
+  - 2020年 映画 「サイレント・トーキョー」エンディングテーマ監修
 
 ## 脚注
 

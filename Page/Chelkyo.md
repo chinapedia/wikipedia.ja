@@ -119,7 +119,7 @@
   - [chelkyo Twitterアカウント](https://twitter.com/kyo_tracks)（@kyo_tracks） - [Twitter](../Page/Twitter.md "wikilink")
   - [chelkyo TikTokアカウント](https://www.tiktok.com/@kyo_tracks)（@kyo_tracks） - [TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")
 
-[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本のポップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のポップ・ミュージシャン "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:京都市出身の人物](https://ja.wikipedia.org/wiki/Category:京都市出身の人物 "wikilink") [Category:名古屋市立大学出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市立大学出身の人物 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本のポップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のポップ・ミュージシャン "wikilink") [Category:京都外大西高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:京都外大西高等学校出身の人物 "wikilink") [Category:名古屋市立大学出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市立大学出身の人物 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:京都市出身の人物](https://ja.wikipedia.org/wiki/Category:京都市出身の人物 "wikilink")
 
 1.
 2.

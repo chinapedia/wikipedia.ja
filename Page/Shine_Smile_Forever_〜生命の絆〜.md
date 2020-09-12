@@ -1,7 +1,7 @@
 > この記事は[Shine Smile Forever 〜生命の絆〜](https://ja.wikipedia.org/wiki/Shine_Smile_Forever_〜生命の絆〜)から翻訳されています。
 
 
-「**Shine Smile Forever 〜生命の絆〜**」（シャイン スマイル フォーエバー いのちのきずな）は、恋夏。による楽曲。作詞・作曲は栗原将輝。[2019年](../Page/2019年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")にリリースされた\[1\]。
+「**Shine Smile Forever 〜生命の絆〜**」（シャイン スマイル フォーエバー いのちのきずな）は、恋夏。による楽曲。作詞・作曲は[栗原将輝](https://ja.wikipedia.org/wiki/栗原将輝 "wikilink")。[2019年](../Page/2019年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")にリリースされた\[1\]。
 
 ## 背景とリリース
 
@@ -16,6 +16,7 @@
 
   - [SHOWROOM (ストリーミングサービス)](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
   - [森本栞菜](https://ja.wikipedia.org/wiki/森本栞菜 "wikilink")
+  - [栗原将輝](https://ja.wikipedia.org/wiki/栗原将輝 "wikilink")
 
 ## 外部リンク
 

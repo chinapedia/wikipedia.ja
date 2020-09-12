@@ -9,7 +9,7 @@
 
 ## for the Pops\!
 
-2019年11月13日発売\[1\]。 同年9月3日・4日に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された「Special 3chord♪ Comical Pops\!」のテーマ曲「comic cosmic」のほか、新曲2曲収録\[2\]。 CDジャケットのイラストは『アイドルマスターシンデレラガールズ』の他のCDと同様、イラストレーターのくろごまが担当した\[3\]。イラストには「不埒なCANVAS」の歌唱メンバーである輿水幸子、塩見周子、相葉夕美が描かれている。
+2019年11月13日発売\[1\]。 同年9月3日・4日に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された「Special 3chord♪ Comical Pops\!」のテーマ曲「comic cosmic」のほか、新曲2曲収録\[2\]。 CDジャケットのイラストは『アイドルマスターシンデレラガールズ』の他のCDと同様、イラストレーターのくろごまが担当した\[3\]。ジャケットイラストには「不埒なCANVAS」の歌唱メンバーである輿水幸子、塩見周子、相葉夕美が描かれている。
 
   - 収録曲
 
@@ -43,7 +43,7 @@
 
 ## for the Dance\!
 
-2020年2月19日発売。2019年11月9日・10日に[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")で開催された「Special 3chord♪ Funky Dancing\!」のテーマ曲「ミラーボール・ラブ」のほか、新曲2曲収録。イラストには「躍るFLAGSHIP」の歌唱メンバーである小日向美穂、佐藤心、北条加蓮が描かれている。
+2020年2月19日発売。2019年11月9日・10日に[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")で開催された「Special 3chord♪ Funky Dancing\!」のテーマ曲「ミラーボール・ラブ」のほか、新曲2曲収録。ジャケットイラストには「躍るFLAGSHIP」の歌唱メンバーである小日向美穂、佐藤心、北条加蓮が描かれている。
 
   - 収録曲
 
@@ -74,6 +74,40 @@
 :\# ミラーボール・ラブ（GAME VERSION）
 
 :\#: 歌：宮本フレデリカ（髙野麻美）、棟方愛海（藤本彩花）、及川雫（のぐちゆり）、荒木比奈（田辺留依）、姫川友紀（杜野まこ）
+
+## for the Rock\!
+
+2020年7月1日発売。同年2月15日・16日に[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")で開催された「Special 3chord♪ Glowing Rock\!」のテーマ曲「Unlock Starbeat」のほか、新曲2曲収録。ジャケットイラストには「イケナイGO AHEAD」の歌唱メンバーである櫻井桃華、橘ありす、村上巴が描かれている。
+
+  - 収録曲
+
+:\#**イケナイGO AHEAD**
+
+:\#: 歌：櫻井桃華（[照井春佳](https://ja.wikipedia.org/wiki/照井春佳 "wikilink")）、橘ありす（[佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink")）、村上巴（[花井美春](https://ja.wikipedia.org/wiki/花井美春 "wikilink")）
+
+:\#:作詞：只野菜摘、作曲・編曲：やいり
+
+:\#**Driving My Way**
+
+:\#: 歌：黒埼ちとせ（[佐倉薫](https://ja.wikipedia.org/wiki/佐倉薫 "wikilink")）、松永涼（[千菅春香](https://ja.wikipedia.org/wiki/千菅春香 "wikilink")）、木村夏樹（[安野希世乃](https://ja.wikipedia.org/wiki/安野希世乃 "wikilink")）
+
+:\#:作詞：[AJURIKA](https://ja.wikipedia.org/wiki/AJURIKA "wikilink")、作曲：山本真央樹、編曲：山本真央樹・小栢伸五
+
+:\# イケナイGO AHEAD オリジナル・カラオケ
+
+:\# Driving My Way オリジナル・カラオケ
+
+:\#**Unlock Starbeat（M@STER VERSION）**
+
+:\#: 歌：星輝子（[松田颯水](https://ja.wikipedia.org/wiki/松田颯水 "wikilink")）、白雪千夜（[関口理咲](https://ja.wikipedia.org/wiki/関口理咲 "wikilink")）、神崎蘭子（[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")）、五十嵐響子（[種﨑敦美](https://ja.wikipedia.org/wiki/種﨑敦美 "wikilink")）、多田李衣菜（[青木瑠璃子](https://ja.wikipedia.org/wiki/青木瑠璃子 "wikilink")）
+
+:\#:作詞：[磯谷佳江](https://ja.wikipedia.org/wiki/磯谷佳江 "wikilink")、作曲・編曲：IMAJO（[PSYCHIC LOVER](https://ja.wikipedia.org/wiki/PSYCHIC_LOVER "wikilink")）
+
+:\# Unlock Starbeat（M@STER VERSION） オリジナル・カラオケ
+
+:\# Unlock Starbeat（GAME VERSION）
+
+:\#: 歌：星輝子（松田颯水）、白雪千夜（関口理咲）、神崎蘭子（内田真礼）、五十嵐響子（種﨑敦美）、多田李衣菜（青木瑠璃子）
 
 ## 脚注
 

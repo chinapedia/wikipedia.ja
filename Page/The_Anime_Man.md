@@ -1,13 +1,13 @@
 > この記事は[The Anime Man](https://ja.wikipedia.org/wiki/The_Anime_Man)から翻訳されています。
 
 
-**『The Anime Man**（ジ・アニメマン）**』**は、動画総再生回数3億回以上を記録する\[1\][YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")**ジョーイ・ビジンガー**（Joey Bizinger, 1994年9月28日-）による日本の[アニメ](../Page/アニメ.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[ビデオゲーム](../Page/コンピュータゲーム.md "wikilink")・[ライトノベル](../Page/ライトノベル.md "wikilink")・同人誌など、所謂「オタク文化」に分類されるコンテンツに関する紹介・分析・批評・議論のためのYouTubeチャンネル。ジョーイ・ビジンガーはオーストラリア・シドニー出身\[2\]の日豪ハーフYouTuber、声優、ナレーター、ミュージシャン、モデル、ポッドキャストのDJ、アマチュア作家\[3\]。身長182cm\[4\]。
+『**The Anime Man**（ジ・アニメマン）』は、**ジョーイ・ビジンガー**（Joey Bizinger, [1994年](../Page/1994年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - ）による日本の[アニメ](../Page/アニメ.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[ビデオゲーム](../Page/コンピュータゲーム.md "wikilink")・[ライトノベル](../Page/ライトノベル.md "wikilink")・同人誌など、所謂「オタク文化」に分類されるコンテンツに関する紹介・分析・批評・議論のための[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル。動画総再生回数3億回以上を記録する\[1\]。ジョーイ・ビジンガーはオーストラリア・シドニー出身\[2\]の日豪ハーフYouTuber、声優、ナレーター、ミュージシャン、モデル、ポッドキャストのホスト、アマチュア作家\[3\]。身長182cm\[4\]。
 
 ## 来歴
 
 1994年9月28日生まれ。日本人の母親と、[ハンガリー](../Page/ハンガリー.md "wikilink")系[オーストラリア](../Page/オーストラリア.md "wikilink")人（ハンガリーとドイツ人のハーフ）の父親を持つ\[5\]。[シドニー大学](../Page/シドニー大学.md "wikilink")デザインコンピューティングの[学士](../Page/学士.md "wikilink")号を取得している\[6\]。豪州で育つが幼少時から日本人の祖母に録画して貰った日本のアニメやバラエティ番組（『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』『[忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")』『[おじゃる丸](../Page/おじゃる丸.md "wikilink")』『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")』『[ダウンタウンのガキの使いやあらへんで！](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")』）を視聴し\[7\]日本語学習を継続してきたため、豪州のGrade11（日本の高校2年生に相当）で[漢字検定](https://ja.wikipedia.org/wiki/漢字検定 "wikilink")3級を取得\[8\]。日本語はネイティブレベルである。
 
-チャンネル制作は高校の課題で[Webサイト作成の必要に迫られ](../Page/ウェブサイト.md "wikilink")**『theanimeman.com』**\[9\]を制作したことがきっかけ。YouTubeは2013年5月26日に投稿開始。大学在学中は[ウェブデザイナー](../Page/ウェブデザイナー.md "wikilink")を目指していたが\[10\]、2015年6月に投稿した「7 Types of Anime Fans」という動画が好評を得て僅か1カ月で登録者が10万人に到達したことにより、本格的に[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")としての道を歩む決意を固める。チャンネルでは当初、6つの楽器を習得していることから[アニメ音楽](https://ja.wikipedia.org/wiki/アニメ音楽 "wikilink")の演奏やまた大衆的なアニメレビュー動画が投稿されていたが、次第に[同人誌](../Page/同人誌.md "wikilink")など[アンダーグラウンドなカルチャーのレビューなどが数多く投稿されるようになる](../Page/アンダーグラウンド_\(文化\).md "wikilink")。
+チャンネル制作は高校の課題で[Webサイト作成の必要に迫られ](../Page/ウェブサイト.md "wikilink")**『theanimeman.com』**\[9\]を制作したことがきっかけ。YouTubeは大学二回生の2013年5月26日に投稿開始。同年、日本のIT企業でインターンシップを経験する。大学在学中は[ウェブデザイナー](../Page/ウェブデザイナー.md "wikilink")を目指していたが\[10\]、2015年6月に投稿した「7 Types of Anime Fans」という動画が好評を得て僅か1カ月で登録者が10万人に到達したことにより、本格的に[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")としての道を歩む決意を固める。チャンネルでは当初、6つの楽器を習得していることから[アニメ音楽](https://ja.wikipedia.org/wiki/アニメ音楽 "wikilink")の演奏やまた大衆的なアニメレビュー動画が投稿されていたが、次第に[同人誌](../Page/同人誌.md "wikilink")など[アンダーグラウンドなカルチャーのレビューなどが数多く投稿されるようになる](../Page/アンダーグラウンド_\(文化\).md "wikilink")。
 
 2015年10月、アニメの違法ダウンロードによるアニメ制作会社の経営危機問題を世界へ発信。同年11月、日本のアニメ業界に向け、日本語でアニメの違法ダウンロード問題への提案に関する動画を発信。オーストラリアの[Netflix](../Page/Netflix.md "wikilink")導入によって違法ダウンロードが劇的に減少した事例を挙げ、日本のオンラインのアニメ配信の必要性を訴える。
 
@@ -19,7 +19,7 @@
 
 2019年7月、『Anime Expo 2019』にてアニメ『[ダンジョンに出会いを求めるのは間違っているだろうか](https://ja.wikipedia.org/wiki/ダンジョンに出会いを求めるのは間違っているだろうか "wikilink")II』に関するイベントのMCを務める\[15\]。同年同月、[京都アニメーション放火事件の報道を受け](https://ja.wikipedia.org/wiki/京都アニメーション放火殺人事件 "wikilink")、[追悼](https://ja.wikipedia.org/wiki/追悼 "wikilink")と海外の視聴者に企業再建のための募金を呼びかける。同年8月、英語版のライトノベルオーディオブック『戦闘員、派遣します！』（[暁なつめ](https://ja.wikipedia.org/wiki/暁なつめ "wikilink")/著）のナレーションを担当\[16\]。また同年12月21日には「**Ikurru**」名義で自身初のピアノアルバム**『A Picture Frame Full of Memories』**を発表\[17\]。インターネットでの音楽配信を開始。
 
-2020年3月、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")のNone Like Joshua（ジョシュアのようなものなし）のチャンネルにて『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に関する[同人音楽](../Page/同人音楽.md "wikilink")の楽曲づくりに[ラッパーとして参加](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。同年同月、[株式会社ガイナックス所属スタッフより](../Page/ガイナックス.md "wikilink")2011年に新設された[株式会社トリガーの代表取締役桝本和也との対談を行う](https://ja.wikipedia.org/wiki/トリガー_\(アニメ制作会社\) "wikilink")。同年5月、音楽作品の二作目として15歳の頃に制作したアンビエントEP『**FIFTEEN**』を発表。
+2020年3月、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")のNone Like Joshua（ジョシュアのようなものなし）のチャンネルにて『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に関する[同人音楽](../Page/同人音楽.md "wikilink")の楽曲づくりに[ラッパーとして参加](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。同年同月、[株式会社ガイナックス所属スタッフより](../Page/ガイナックス.md "wikilink")2011年に新設された[株式会社トリガーの代表取締役桝本和也との対談を行う](https://ja.wikipedia.org/wiki/トリガー_\(アニメ制作会社\) "wikilink")。同年5月、音楽作品の二作目として15歳の頃に制作したアンビエントEP『**FIFTEEN**』を発表。同年6月、イングランドとウェールズ出身の人気アニメYouTuberガーント・マニータフォとコナー・コルフンを共同ホストに迎え日本のアニメや漫画、日本での生活など日本全般に関して議論するポッドキャスト番組『**TRASH TASTE（トラッシュ・テイスト）**』の配信を開始。初回配信から1週間で視聴回数は60万回を記録している。同年同月、7月に発売予定のPS4／Nintendo Switch用ゲームソフト『**No Straight Roads（ノー・ストレート・ロード）**』で日英2か国語の声優として出演予定であることを報告。同タイトルで共演した声優の[本多真梨子](https://ja.wikipedia.org/wiki/本多真梨子 "wikilink")へインタビューを行う。
 
 2019年11月時点で動画総再生回数は3億回以上、チャンネル登録者数200万人、動画投稿数1100本以上を記録している。取り上げられたメディアは『the japan times』\[18\]『KADOKAWA』\[19\]『アニメ！アニメ！』\[20\]『VERGE』\[21\]『grape』\[22\]『J-Con』\[23\]など多数。
 
@@ -27,7 +27,7 @@
 
 家族は両親と祖母、妹がいる。父親や祖父など男性は6世代続いてファーストネームがJosephであるため「リアルジョジョ」であるとTwitterで明かしている。
 
-動画中の興味の対象となるコンテンツ作品については、80年代以降の大衆的なアニメや漫画から[18禁同人誌まで非常に幅広く](https://ja.wikipedia.org/wiki/成人向け "wikilink")、日本国内ではマイナーな旧作品からほぼ全ての新作アニメまでチェックしている。所蔵する漫画本は約1万冊で、90年代に[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")に掲載された競走馬の育成漫画『[じゃじゃ馬グルーミン★UP\!](../Page/じゃじゃ馬グルーミン★UP!.md "wikilink")』から[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")に掲載の魔法系少女漫画『[赤ずきんチャチャ](../Page/赤ずきんチャチャ.md "wikilink")』などまで広く保持する。[フィギュア](../Page/フィギュア.md "wikilink")は100万円の相当分所持しており、特に「MY WAIFU（俺の嫁）」として溺愛する『＜物語＞シリーズ』の忍野忍のフィギュアが多くみられる。
+動画中の興味の対象となるコンテンツ作品については、80年代以降の大衆的なアニメや漫画から[18禁同人誌まで非常に幅広く](https://ja.wikipedia.org/wiki/成人向け "wikilink")、日本国内ではマイナーな旧作品からほぼ全ての新作アニメまでチェックしている。所蔵する漫画本は約50万円に相当する1万冊程度で、90年代に[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")に掲載された競走馬の育成漫画『[じゃじゃ馬グルーミン★UP\!](../Page/じゃじゃ馬グルーミン★UP!.md "wikilink")』から[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")に掲載の魔法系少女漫画『[赤ずきんチャチャ](../Page/赤ずきんチャチャ.md "wikilink")』などまで広く保持する。[フィギュア](../Page/フィギュア.md "wikilink")は100万円の相当分所持しており、特に「MY WAIFU（俺の嫁）」として溺愛する『＜物語＞シリーズ』の忍野忍のフィギュアが多くみられる。
 
 動画の作風は、あらゆるオタク表現を「芸術」と捉えていると述べており、またサーカズム（皮肉）が数多く使用される点で、所謂日本の「オタク」のイメージとは異なる西洋的なスタイリッシュさと快活さが特徴である。コメディの芸風については「[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")のような父親の皮肉や風刺と日本のTVのコメディがミックスしている」\[24\]とメディアで述べている。
 
@@ -88,7 +88,8 @@ YouTubeサイト内コラボレーションは、「YouTube史上最も成功し
 
 ### ポッドキャスト
 
-  - The Anime Show with Joey & AkiDearest : パーソナリティ (2017-現在)
+  - The Anime Show with Joey & AkiDearest : パーソナリティ (2017-2018)
+  - Trash Taste: パーソナリティ（2020-現在）
 
 ### イベント
 

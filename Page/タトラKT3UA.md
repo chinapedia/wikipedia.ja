@@ -11,7 +11,7 @@
 
 改造元となるのは2両のタトラT3で、車体・車内の改修やデザインを変更した先頭部・後部の新造に加え、前方の車両は後部を、後方に繋がる車両は先頭部を切断し、連節幌の装着などの改造が行われる。この両車体の間には乗降扉付近が低床構造となっている新造中間車体が挿入され、[3車体連接車が完成する](../Page/連接台車.md "wikilink")。電気機器もチェコ・セゲレツ（Cegelec）が展開する[IGBT](https://ja.wikipedia.org/wiki/IGBT "wikilink")素子を用いた[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")方式の**TVプログレス**（TV Progress）に交換され、[回生ブレーキ](../Page/回生ブレーキ.md "wikilink")も搭載される。これらの改造内容はウクライナ特許庁による[特許](../Page/特許.md "wikilink")を得たものであり、[独立国家共同体](../Page/独立国家共同体.md "wikilink")で用いられる[GOST規格](https://ja.wikipedia.org/wiki/GOST規格 "wikilink")に基づき部品の一部には[ウクライナ](../Page/ウクライナ.md "wikilink")製のものが使用される。
 
-[2004年](../Page/2004年.md "wikilink")から改造が始まり、最初の2両は[シュコダの子会社であるパルス](https://ja.wikipedia.org/wiki/シュコダ・トランスポーテーション "wikilink")・ノヴァ（Pars Nova a.s.）で改造が行われたが、以降の車両はクエーサー・プラスと導入先の事業者によって実施されている。[2020年](../Page/2020年.md "wikilink")現在、[キエフ市電](../Page/キエフ市電.md "wikilink")に14両（401 - 414）、[クルィヴィーイ・リーフ・メトロトラム](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ・メトロトラム "wikilink")に2両が導入されている\[1\]\[2\]。
+[2004年](../Page/2004年.md "wikilink")から改造が始まり、最初の2両は[シュコダの子会社であるパルス](https://ja.wikipedia.org/wiki/シュコダ・トランスポーテーション "wikilink")・ノヴァ（Pars Nova a.s.）で改造が行われたが、以降の車両はクエーサー・プラスと導入先の事業者によって実施されている。[2020年](../Page/2020年.md "wikilink")現在、[キエフ市電](../Page/キエフ市電.md "wikilink")（[キエフ・ライトレール](https://ja.wikipedia.org/wiki/キエフ・ライトレール "wikilink")）に14両（401 - 414）、[クルィヴィーイ・リーフ・メトロトラム](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ・メトロトラム "wikilink")に2両が導入されている\[1\]\[2\]。
 
 <File:Tram> K3R-N in Kyiv.jpg|KT3UA（[キエフ](../Page/キエフ.md "wikilink")） [File:KRMetrotram.jpg|KT3UA](File:KRMetrotram.jpg%7CKT3UA)（[クルィヴィーイ・リーフ](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ "wikilink")）
 
@@ -48,7 +48,7 @@
 ## 外部リンク
 
   -
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:2004年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2004年製の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:クルィヴィーイ・リーフ市電](https://ja.wikipedia.org/wiki/Category:クルィヴィーイ・リーフ市電 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:2004年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2004年製の鉄道車両 "wikilink")
 
 1.
 2.

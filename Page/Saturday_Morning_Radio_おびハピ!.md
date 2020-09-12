@@ -18,7 +18,7 @@
 
   - 8:00 オープニング
   - 8:03 nack５ニュース
-  - 8:10 NACK5 WEATHER
+  - 8:10 NACK5 TRAFFIC
   - 8:55 NACK5 TRAFFIC
   - 8:57 NACK5 WEATHER
 

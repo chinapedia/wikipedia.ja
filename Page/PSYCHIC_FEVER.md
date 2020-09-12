@@ -28,7 +28,7 @@
 
 ## 脚注
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:8人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:8人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:8人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:8人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
 1.
 2.

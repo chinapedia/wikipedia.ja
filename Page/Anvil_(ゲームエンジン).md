@@ -5,7 +5,7 @@
 
 ## 機能
 
-ユービーアイソフト モントリオールのテクニカルディレクターであるClaude Langlaisによると、モデリングでは[3ds Maxを](../Page/3ds_Max.md "wikilink")、キャラクターでは[ZBrush](../Page/ZBrush.md "wikilink")を使用している述べている\[1\]。 このエンジンでは、 [AutodeskのHumanIKミドルウェアを使用して](../Page/オートデスク.md "wikilink")、ランタイムに登りや押し出しのアニメーションでキャラクターの手や足を配置している。
+ユービーアイソフト モントリオールのテクニカルディレクターであるClaude Langlaisによると、モデリングでは[3ds Maxを](../Page/3ds_Max.md "wikilink")、キャラクターでは[ZBrush](../Page/ZBrush.md "wikilink")を使用していると述べている\[1\]。 このエンジンでは、 [AutodeskのHumanIKミドルウェアを使用して](../Page/オートデスク.md "wikilink")、ランタイムに登りや押し出しのアニメーションでキャラクターの手や足を配置している。
 
 Anvilは[アサシン クリード II用に改良され](https://ja.wikipedia.org/wiki/アサシン_クリード_II "wikilink")、完全な昼と夜のサイクル、描画距離の強化、 [Far Cry 2で使用されているのと同じ植生技術](https://ja.wikipedia.org/wiki/Far_Cry_2 "wikilink")、改善されたライティング、反射と特殊効果、新しい布システム、新しい[AIとNPCナビゲーションシステムなどの機能が追加された](../Page/人工知能.md "wikilink")\[2\]。*[アサシン クリード リネージ](https://ja.wikipedia.org/wiki/アサシン_クリード_リネージ "wikilink")*では、Anvilのアセットを使用して、生身の俳優が撮影される環境を再現した。
 

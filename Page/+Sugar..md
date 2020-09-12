@@ -177,7 +177,7 @@
   - 上記以外
       - <span style="color:purple">■</span> [松山ごまnote](https://note.com/matsugoma)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink")
 
 1.
 2.

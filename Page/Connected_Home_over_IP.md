@@ -1,7 +1,7 @@
 > この記事は[Connected Home over IP](https://ja.wikipedia.org/wiki/Connected_Home_over_IP)から翻訳されています。
 
 
-**Connected Home over IP**\[1\]、または（Project Connected Home over IP）は、[ホームオートメーション](../Page/ホームオートメーション.md "wikilink")、[スマートホーム](https://ja.wikipedia.org/wiki/スマートホーム "wikilink")、**IoT**（[モノのインターネット](https://ja.wikipedia.org/wiki/モノのインターネット "wikilink")）など様々な [デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")や[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[互換性](../Page/互換性.md "wikilink")を確保する[オープンソース](../Page/オープンソース.md "wikilink")の接続標準化プロジェクト。
+**Connected Home over IP**\[1\]（コネクテッド ホーム オーバー IP）、または**Project Connected Home over IP**（プロジェクト コネクテッド ホーム オーバー IP）は、[ホームオートメーション](../Page/ホームオートメーション.md "wikilink")、[スマートホーム](https://ja.wikipedia.org/wiki/スマートホーム "wikilink")、**IoT**（[モノのインターネット](https://ja.wikipedia.org/wiki/モノのインターネット "wikilink")）など様々な [デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")や[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[互換性](../Page/互換性.md "wikilink")を確保する[オープンソース](../Page/オープンソース.md "wikilink")の接続標準化プロジェクト。
 
 プロジェクトグループは、 [アップル](../Page/アップル_\(企業\).md "wikilink")、[アマゾン](../Page/Amazon.com.md "wikilink")、[グーグルおよび](../Page/Google.md "wikilink")によって発表された\[2\]\[3\]。
 

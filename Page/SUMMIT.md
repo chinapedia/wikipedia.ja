@@ -3,9 +3,9 @@
 
 **SUMMIT** は、日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")・レーベル。
 
-[ファイルレコード](../Page/ファイルレコード.md "wikilink")でA\&Rを担当していた増田岳哉により2011年に設立。社名は「小さくても自分なりの山みたいなのができたらいい」との増田の考えに由来する。\[1\][PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink")、[SIMI LAB](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink")、[THE OTOGIBANASHI'Sなどのほか](https://ja.wikipedia.org/wiki/THE_OTOGIBANASHI'S "wikilink")、過去には[RAU DEFや](https://ja.wikipedia.org/wiki/RAU_DEF "wikilink")[QN](https://ja.wikipedia.org/wiki/QN "wikilink")の音源もリリースしている。
+[ファイルレコード](../Page/ファイルレコード.md "wikilink")でA\&Rを担当していた増田岳哉により2011年に設立。社名は「小さくても自分なりの山みたいなのができたらいい」との増田の考えに由来する。\[1\][PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink")、[SIMI LAB](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink")、[THE OTOGIBANASHI'Sなどのほか](https://ja.wikipedia.org/wiki/THE_OTOGIBANASHI'S "wikilink")、過去には[RAU DEFや](https://ja.wikipedia.org/wiki/RAU_DEF "wikilink")[QN](https://ja.wikipedia.org/wiki/QN "wikilink")の音源もリリースしている。\[2\]
 
-## 所属アーティスト\[2\]
+## 所属アーティスト\[3\]
 
   - [PSG](../Page/PSG.md "wikilink")
   - [PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink")
@@ -25,6 +25,10 @@
   - SUMMIT
   - [TWINKLE+](https://ja.wikipedia.org/wiki/TWINKLE+ "wikilink")
 
+## 沿革
+
+  - CLUB HARLEMとSUMMITが初の合同イベントとなる『CLUB HARLEM & SUMMIT, Inc. Presents. “UNSUNG HEROES”』を有料ライブ配信した。\[4\]
+
 ## 脚注
 
 ## 外部リンク
@@ -37,3 +41,5 @@
 
 1.
 2.
+3.
+4.

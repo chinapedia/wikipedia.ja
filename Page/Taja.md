@@ -63,7 +63,7 @@
   - [nappoと、空を見上げて（Taja菜穂ブログ）](https://blog.goo.ne.jp/tajanappo)
 
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [1](http://www.studio-oahu.com/artist_yuji.html)
 2.  [2](http://www.studio-oahu.com/artist_naho.html)

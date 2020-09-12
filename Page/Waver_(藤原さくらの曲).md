@@ -1,13 +1,17 @@
 > この記事は[Waver \(藤原さくらの曲\)](https://ja.wikipedia.org/wiki/Waver_\(藤原さくらの曲\))から翻訳されています。
 
 
-「**Waver**」（ウエイバー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[藤原さくらの](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")[配信](https://ja.wikipedia.org/wiki/配信 "wikilink")[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")に[SPEEDSTAR RECORDSからリリースされた](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
+「**Waver**」（ウエイバー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[藤原さくらの楽曲](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")。2020年5月6日に[SPEEDSTAR RECORDSより](../Page/SPEEDSTAR_RECORDS.md "wikilink")[配信限定](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")としてリリースされた。
 
 ## 概要
 
-「[Twilight](../Page/Twilight_\(藤原さくらの曲\).md "wikilink")」と「[Ami](../Page/Ami_\(藤原さくらの曲\).md "wikilink")」以来約3ヶ月ぶりの配信リリース。 [作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")は藤原さくら、[サウンド](https://ja.wikipedia.org/wiki/サウンド "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")は[Ovall](https://ja.wikipedia.org/wiki/Ovall "wikilink")の[関口シンゴ](https://ja.wikipedia.org/wiki/関口シンゴ "wikilink")が手がけた\[1\]。ジャケットデザインは[藤田二郎](https://ja.wikipedia.org/wiki/藤田二郎 "wikilink")。 [2020年](../Page/2020年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")に自身のラジオ番組『[HERE COMES THE MOON](../Page/HERE_COMES_THE_MOON.md "wikilink")』（[InterFM897](https://ja.wikipedia.org/wiki/InterFM897 "wikilink")）にて初オンエアされた\[2\]。
+「Waver」は、「[Twilight](../Page/Twilight_\(藤原さくらの曲\).md "wikilink")」と「[Ami](../Page/Ami_\(藤原さくらの曲\).md "wikilink")」以来約3ヶ月ぶりの配信リリース。
 
-[2020年](../Page/2020年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[Youtube](https://ja.wikipedia.org/wiki/Youtube "wikilink")にてMVが公開された。[ディレクションは](../Page/ディレクター.md "wikilink")[イラストレーター](../Page/イラストレーター.md "wikilink") / [アニメーター](../Page/アニメーター.md "wikilink")の雑賀建郎が担当した。初めての[アニメーション](../Page/アニメーション.md "wikilink")MVとなった\[3\]。
+[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")は藤原さくら、[サウンド](https://ja.wikipedia.org/wiki/サウンド "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")は[Ovall](https://ja.wikipedia.org/wiki/Ovall "wikilink")の[関口シンゴ](https://ja.wikipedia.org/wiki/関口シンゴ "wikilink")が手がけた\[1\]。ジャケットデザインは[藤田二郎](https://ja.wikipedia.org/wiki/藤田二郎 "wikilink")。
+
+2020年5月3日に自身のラジオ番組『[HERE COMES THE MOON](../Page/HERE_COMES_THE_MOON.md "wikilink")』（[InterFM897](https://ja.wikipedia.org/wiki/InterFM897 "wikilink")）にて初オンエアされた\[2\]。
+
+2020年5月24日に[Youtube](https://ja.wikipedia.org/wiki/Youtube "wikilink")にてMVが公開された。[ディレクションは](../Page/ディレクター.md "wikilink")[イラストレーター](../Page/イラストレーター.md "wikilink") / [アニメーター](../Page/アニメーター.md "wikilink")の[雑賀建郎](https://ja.wikipedia.org/wiki/雑賀建郎 "wikilink")が担当した。初めての[アニメーション](../Page/アニメーション.md "wikilink")MVとなった\[3\]。
 
 リリース時は新型コロナウイルスの感染拡大防止のために出された緊急事態宣言の発令下にあり、「タイトルのように ゆらゆらと波に揺られるような気分で 楽しんでもらえたら嬉しいです ライブで歌える日を祈って」とコメントしている\[4\]。
 
@@ -19,7 +23,7 @@
 
 ## 参加ミュージシャン
 
-  - [藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")
+  - [藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink") - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [関口シンゴ](https://ja.wikipedia.org/wiki/関口シンゴ "wikilink")（[Ovall](https://ja.wikipedia.org/wiki/Ovall "wikilink")） : サウンドプロデュース 、[ギター](../Page/ギター.md "wikilink")、その他の楽器
 
 ## 脚注

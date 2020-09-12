@@ -115,6 +115,6 @@ November 17, [2017](../Page/2017年.md "wikilink")
   - <https://www.nme.com/news/music/pete-doherty-carl-barat-intimate-hackney-empire-show-videos-setlist-libertines-2545460>
   - <http://blog.soph.net/2017/11/17/massive_attack.html>
 
-[Category:日本の音楽祭](https://ja.wikipedia.org/wiki/Category:日本の音楽祭 "wikilink") [Category:イギリスの音楽祭](https://ja.wikipedia.org/wiki/Category:イギリスの音楽祭 "wikilink") [Category:2019年開始のイベント](https://ja.wikipedia.org/wiki/Category:2019年開始のイベント "wikilink") [Category:ロック](https://ja.wikipedia.org/wiki/Category:ロック "wikilink")
+[Category:日本の音楽祭](https://ja.wikipedia.org/wiki/Category:日本の音楽祭 "wikilink") [Category:イギリスの音楽祭](https://ja.wikipedia.org/wiki/Category:イギリスの音楽祭 "wikilink") [Category:2019年開始のイベント](https://ja.wikipedia.org/wiki/Category:2019年開始のイベント "wikilink") [Category:ロックフェスティバル](https://ja.wikipedia.org/wiki/Category:ロックフェスティバル "wikilink")
 
 1.   International Music Festival {{\!}} London {{\!}} Tokyo|url=[https://www.somewhereimf.com/|website=SOMEWHERE](https://www.somewhereimf.com/%7Cwebsite=SOMEWHERE), - Music|accessdate=2020-02-10|language=en}}

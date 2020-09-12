@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作から約1年ぶりとなるアルバムで、活動休止前最後のスタジオ・アルバムある。
+前作から約1年ぶりとなるアルバム。『**[ロックンロール](../Page/ロックンロール.md "wikilink")3部作**』の3作目として発売され、山下が音楽活動休止前最後のスタジオ・アルバムである。
 
 前作『[POP](../Page/POP_\(山下久美子のアルバム\).md "wikilink")』同様、[布袋寅泰](../Page/布袋寅泰.md "wikilink")がサウンド・プロデュースとして参加した作品である。
 
@@ -56,5 +56,10 @@
 ### 注釈
 
 ### 出典
+
+## 外部リンク
+
+  - [日本コロムビア](../Page/日本コロムビア.md "wikilink")による紹介ページ
+      - [Baby alone](https://columbia.jp/artist-info/yamashitakumiko/discography/CORR-10184.html)
 
 [Category:山下久美子のアルバム](https://ja.wikipedia.org/wiki/Category:山下久美子のアルバム "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink")

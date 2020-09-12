@@ -1,118 +1,49 @@
 > この記事は[Palette Project](https://ja.wikipedia.org/wiki/Palette_Project)から翻訳されています。
 
 
-**Palette Project**(パレットプロジェクト)は、MateReal株式会社が運営する女性[バーチャルアイドル](../Page/バーチャルアイドル.md "wikilink")グループである。
+**Palette Project**（パレットプロジェクト）は、MateReal株式会社が運営する女性[バーチャルアイドル](../Page/バーチャルアイドル.md "wikilink")グループ。略称は「**パレプロ**」。
 
 本項では、その内部ユニットについても扱う。
 
 ## 概要
 
-### 年表
+### 沿革
 
-## メンバー・ユニット
+## メンバー
 
-### メンバー
+出典：\[1\]
 
-#### 現行メンバー
+| 氏名         | 読み       | 誕生日    | 現行メンバーカラー | 加入日         | 加入区分 |
+| ---------- | -------- | ------ | --------- | ----------- | ---- |
+| **暁月クララ**  | あかつき くらら | 5月11日  |           | 2018年7月4日   | 1期生  |
+| **七海ロナ**   | ななみ ろな   | 1月27日  |           | 2018年7月4日   | 1期生  |
+| **遠坂ユラ**   | とおさか ゆら  | 10月19日 |           | 2018年7月4日   | 1期生  |
+| **藤宮コトハ**  | ふじみや ことは | 11月11日 |           | 2019年6月15日  | 2期生  |
+| **常磐カナメ**  | ときわ かなめ  | 7月13日  |           | 2019年7月3日   | 2期生  |
+| **神菜コハネ**  | かみな こはね  | 12月7日  |           | 2019年12月29日 | 3期生  |
+| **江波キョウカ** | えば きょうか  | 4月4日   |           | 2020年2月4日   | 3期生  |
+| **鬼多見アユム** | きたみ あゆむ  | 9月25日  |           | 2020年6月9日   | 4期生  |
+| **香鳴ハノン**  | かなる はのん  | 3月3日   |           | 2020年8月18日  | 4期生  |
 
-出典:\[1\]
+現行メンバー
 
-<table>
-<thead>
-<tr class="header">
-<th><p>氏名</p></th>
-<th><p>誕生日</p></th>
-<th><p>加入日</p></th>
-<th><p>キャラクターデザイン</p></th>
-<th><p>イメージカラー</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>暁月　クララ</strong>(あかつき　くらら)</p></td>
-<td><p>5月11日</p></td>
-<td><p>2018年7月4日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>七海　ロナ</strong>(ななみ　ろな)</p></td>
-<td><p>1月27日</p></td>
-<td><p>2018年7月4日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>遠坂　ユラ</strong>(とおさか　ゆら)</p></td>
-<td><p>10月19日</p></td>
-<td><p>2018年7月4日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>藤宮　コトハ</strong>(ふじみや　ことは)</p></td>
-<td><p>11月11日</p></td>
-<td></td>
-<td><p>くきは</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>常磐　カナメ</strong>(ときわ　かなめ)</p></td>
-<td><p>7月13日</p></td>
-<td></td>
-<td><p>さばみぞれ</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>神菜　コハネ</strong>(かみな　こはね)</p></td>
-<td><p>12月7日</p></td>
-<td><p>2019年12月29日</p></td>
-<td><p>ましゅー</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>雨ヶ崎　笑虹</strong>(あまがさき　えこ)</p></td>
-<td><p>8月10日</p></td>
-<td><p>2019年12月29日</p></td>
-<td><p>tiv</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>江波　キョウカ</strong>(えば　きょうか)</p></td>
-<td><p>4月4日</p></td>
-<td></td>
-<td><p>ねく</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 氏名        | 読み       | 誕生日   | 加入日         | 加入区分 | 引退・解除日     | 引退・解除理由          |
+| --------- | -------- | ----- | ----------- | ---- | ---------- | ---------------- |
+| **白銀ヘレナ** | しろがね へれな | 9月1日  | 2019年7月4日   | 2期生  | 2019年11月6日 | 契約違反による契約解除\[2\] |
+| **雨ヶ崎笑虹** | あまがさき えこ | 8月10日 | 2019年12月29日 | 3期生  | 2020年7月31日 | 卒業               |
 
-#### 過去メンバー
+過去メンバー
 
-  - **白銀　ヘレナ**（しろがね　へれな）（契約違反により契約解除\[2\]）
+## ユニット
 
-### ユニット
-
-#### 現行ユニット
-
-##### Alt\!
-
-**Alt\!**(アルト！)とは、PaletteProjectが発足する前から結成していたユニット。
-
-###### メンバー
-
-  - 暁月クララ
-  - 七海ロナ
-  - 遠坂ユラ
+  - Alt\!\!（アルト！！）
+    PaletteProjectが発足する前から結成していたユニット。メンバーは暁月クララ、七海ロナ、遠坂ユラ。
+  - Altimate\!\!（アルティメット！！）
+    主に[VOCALOID](../Page/VOCALOID.md "wikilink")系の曲を扱う、Alt\!\!の後継にあたるユニット。メンバーは七海ロナ、藤宮コトハ、神菜コハネ。
+  - REGALILIA（レガリリア）
+    主に[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")系の曲を扱うユニット。メンバーは遠坂ユラ、江波キョウカ、鬼多見アユム。
+  - Sputrip（スプートリップ）
+    主に[シティ・ポップ](../Page/シティ・ポップ.md "wikilink")系の曲を扱うユニット。メンバーは暁月クララ、常磐カナメ、香鳴ハノン。
 
 ## 楽曲
 
@@ -122,14 +53,13 @@
 
 ### 出典
 
+## 関連項目
+
 ## 外部リンク
 
-  - [Palette Project](https://matereal.jp/) - 公式サイト
+  - バーチャルアイドルユニット}}
 
-  - [Palette Project(パレプロ)](https://fanicon.net/fancommunities/1988) - 公式ファンクラブ(fanicon)
-
-  - [Palette Project Channel](https://m.youtube.com/channel/UC_cCW1xmXwRFp1tX-RD2X1Q) - 公式YouTubeチャンネル
-
+  -
   -   -
       -
       -
@@ -138,7 +68,10 @@
       -
       -
       -
-[Category:バーチャルアイドル](https://ja.wikipedia.org/wiki/Category:バーチャルアイドル "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+      -
+  -
+  -
+[Category:バーチャルアイドル](https://ja.wikipedia.org/wiki/Category:バーチャルアイドル "wikilink") [Category:バーチャルYouTuber](https://ja.wikipedia.org/wiki/Category:バーチャルYouTuber "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")
 
-1.  [キャラクター紹介](https://matereal.jp/#character) MateReal株式会社 2020年2月17日閲覧
-2.  MateReal株式会社 [白銀ヘレナ契約解除のお知らせ](https://matereal.jp/shiroganeherena_20191106/)
+1.
+2.

@@ -9,7 +9,7 @@
 
 タイトルは[スカイウォーク](https://ja.wikipedia.org/wiki/スカイウォーク "wikilink")のように、聴いてくれたリスナーが、何かと何か、誰かと誰かを繋ぎ合わせることができるような作品にしたいという意味が込められている\[2\]。
 
-メンバーの「勇太郎」脱退前最後のアルバムである。
+当時のメンバー勇太朗が脱退する前の最後のアルバムである。
 
 ## チャート成績
 
@@ -22,13 +22,15 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：雄大 作曲：雄大・勇太朗
+        作詞：[雄大](https://ja.wikipedia.org/wiki/竹中雄大 "wikilink") 作曲：雄大・勇太朗
 
         </div>
 
         </div>
 
-          - Novelbrightの楽曲で初めて各サブスクチャートにてランクインした楽曲。
+          - 本作のリード曲。
+          - 2019年7月に仙台駅前で行われた路上ライブの動画が[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")で拡散したのをきっかけに知名度を上げ、[LINE MUSIC](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")、[AWAなどのストリーミングチャートでトップ](https://ja.wikipedia.org/wiki/AWA_\(音楽配信\) "wikilink")10入りし、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")のバイラルチャートで8週間1位を獲得するなど、大きな広がりを見せている。\[4\]
+          - [2020年](../Page/2020年.md "wikilink")[6月](../Page/6月.md "wikilink")、日本レコード協会よりストリーミングでのゴールド認定を受けた\[5\]。
 2.  **Morning Light**
       -
 
@@ -50,7 +52,7 @@
 
         </div>
 
-          - 海斗曰く「[ピアノ](../Page/ピアノ.md "wikilink")や[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")などのアレンジを特にこだわって制作した」という\[4\]。
+          - 海斗曰く「[ピアノ](../Page/ピアノ.md "wikilink")や[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")などのアレンジを特にこだわって制作した」という\[6\]。
 4.  **Count on me**
       -
 
@@ -74,13 +76,13 @@
 
         </div>
 
-          - 勇太郎はこの楽曲について「ボーカルの雄大の歌声をどれだけ生かせるか」というテーマのもと制作したと語っている\[5\]。
+          - 勇太郎はこの楽曲について「ボーカルの雄大の歌声をどれだけ生かせるか」というテーマのもと制作したと語っている\[7\]。
 6.  **My Savior**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：雄大 作曲：雄大・聡次郎
+        作詞：雄大 作曲：雄大・[聡次郎](https://ja.wikipedia.org/wiki/沖聡次郎 "wikilink")
 
         </div>
 
@@ -109,3 +111,5 @@
 3.
 4.
 5.
+6.
+7.

@@ -21,7 +21,7 @@
 
 ### 臨床所見
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Head_tilt_in_a_rabbit_with_Encephalitozoon_cuniculi.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Rabbit_with_an_eye_infection_caused_by_Encephalitozoon_cuniculi.png "wikilink") \]\] 米国およびヨーロッパのウサギの最大80％が*E. cuniculi*に対して[血清学](https://ja.wikipedia.org/wiki/血清学 "wikilink")的に陽性を示すが、すなわちこれは*E. cuniculi*に既に曝露されたことを示している。 これらの動物の多くは[無症候性であり](../Page/無症候性キャリア.md "wikilink")、病気の症状を示すことはない。 感染したウサギのごく一部のみがエンセファリトゾーン症を発症する。この疾患により引き起こされる臨床徴候としては、中枢神経症状、眼症状、および腎臓疾患が一般的である\[3\]。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Rabbit_with_an_eye_infection_caused_by_Encephalitozoon_cuniculi.png "wikilink") \]\] 米国およびヨーロッパのウサギの最大80％が*E. cuniculi*に対して[血清学](https://ja.wikipedia.org/wiki/血清学 "wikilink")的に陽性を示すが、すなわちこれは*E. cuniculi*に既に曝露されたことを示している。 これらの動物の多くは[無症候性であり](../Page/無症候性キャリア.md "wikilink")、病気の症状を示すことはない。 感染したウサギのごく一部のみがエンセファリトゾーン症を発症する。この疾患により引き起こされる臨床徴候としては、中枢神経症状、眼症状、および腎臓疾患が一般的である\[3\]。
 
 神経学的徴候のある多くのウサギは、 [前庭機能障害のみを示す](../Page/めまい.md "wikilink")。 症状はしばしば突然発症し、 [斜頸](../Page/斜頸.md "wikilink") 、 [運動失調](../Page/失調.md "wikilink") 、 [眼振](../Page/眼球振盪.md "wikilink") 、および旋回が見られる。 このような症状が出ていてもウサギは周囲を認識しており、バランスを失いながらも食事はできる。より重篤な症状を示し、 食事すらできなくなったウサギの[予後](../Page/予後.md "wikilink")は不良である\[4\]。
 

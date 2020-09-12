@@ -7,6 +7,10 @@
 
 [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「キャンレディー」[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")（酒井出演の[CMソング](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")）に採用される。
 
+酒井自身週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")上においては、前作の「[渚のファンタシィ](https://ja.wikipedia.org/wiki/渚のファンタシィ "wikilink")」と同じく、最高第4位まで上昇した（売上記録は6.5万枚）\[1\]。
+
+[TBS系](https://ja.wikipedia.org/wiki/TBS系 "wikilink")[生放送](../Page/生放送.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』では、最高第8位で1週間のみランクイン（1988年9月17日放映分）。
+
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")末の『[第29回日本レコード大賞](https://ja.wikipedia.org/wiki/第29回日本レコード大賞 "wikilink")』新人賞（最優秀新人賞は[立花理佐](../Page/立花理佐.md "wikilink")の『[キミはどんとくらい](https://ja.wikipedia.org/wiki/キミはどんとくらい "wikilink")』）を始め、同年の『第18回[日本歌謡大賞](../Page/日本歌謡大賞.md "wikilink")』優秀放送音楽新人賞など、数々の新人賞を獲得した。
 
 ## 収録曲
@@ -19,3 +23,5 @@
 ## 脚注
 
 [Category:酒井法子の楽曲](https://ja.wikipedia.org/wiki/Category:酒井法子の楽曲 "wikilink") [Category:森浩美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森浩美が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:江崎グリコのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:江崎グリコのコマーシャルソング "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:楽曲_の](https://ja.wikipedia.org/wiki/Category:楽曲_の "wikilink")
+
+1.

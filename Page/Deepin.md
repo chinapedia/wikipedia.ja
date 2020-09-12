@@ -1,7 +1,7 @@
 > この記事は[Deepin](https://ja.wikipedia.org/wiki/Deepin)から翻訳されています。
 
 
-**Deepin**（**deepin**のように表記; 以前は**Linux Deepin**、**Hiweed Linux**としても知られる）は、[Debian](../Page/Debian.md "wikilink")の安定版をベースとした[オープンソース](../Page/オープンソース.md "wikilink")の[OS](../Page/OS.md "wikilink")。DeepinはDDE（Deepin Desktop Environment）を採用しており、これは[Qt](../Page/Qt.md "wikilink")の上にビルドされているほか、[Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink")、[Arch](../Page/Arch.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")などの[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")でも利用することができる。バージョン15.10では、deppinはまた、[KDE](../Page/KDE.md "wikilink") Plasmaのウィンドウ・マネージャにパッチ群を当てたdde-kwinも利用していた\[1\]。[2019年](../Page/2019年.md "wikilink")には、[Huawei](https://ja.wikipedia.org/wiki/Huawei "wikilink")がdeppinのプリインストールされた[Linux](../Page/Linux.md "wikilink")ラップトップの出荷を開始した\[2\]。
+**Deepin**（**deepin**のように表記; 以前は**Linux Deepin**、**Hiweed Linux**としても知られる）は、[Debian](../Page/Debian.md "wikilink")の安定版をベースとした[オープンソース](../Page/オープンソース.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS)。DeepinはDDE (Deepin Desktop Environment) を採用しており、これは[Qt](../Page/Qt.md "wikilink")の上にビルドされているほか、[Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink")、[Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink")、[Fedora](../Page/Fedora.md "wikilink")などの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")でも利用することができる。バージョン15.10では、deppinはまた、[KDE](../Page/KDE.md "wikilink") Plasmaの[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")にパッチ群を当てたdde-kwinも利用していた\[1\]。[2019年](../Page/2019年.md "wikilink")には、[ファーウェイ](../Page/ファーウェイ.md "wikilink")がdeppinのプリインストールされた[Linux](../Page/Linux.md "wikilink")[ラップトップパソコン](../Page/ラップトップパソコン.md "wikilink")の出荷を開始した\[2\]。
 
 ## 概要
 
@@ -9,13 +9,13 @@ deepinの開発は、[中国](../Page/中国.md "wikilink")に本拠を置く、
 
 ## DDE
 
-Deepinは、Deepin DE（DDE）と呼ばれる、[Qt](../Page/Qt.md "wikilink")で書かれた[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を採用している\[6\]。このディストリビューションはまた、dde-kwinと呼ばれる独自のウィンドウマネージャもメンテナンスしている\[7\]。
+Deepinは、Deepin DE（DDE）と呼ばれる、[Qt](../Page/Qt.md "wikilink")で書かれた[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")を採用している\[6\]。このLinuxディストリビューションはまた、dde-kwinと呼ばれる独自のウィンドウマネージャもメンテナンスしている\[7\]。
 
-Deppinのほかにも、[Arch Linuxなどの他の](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink")[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")は、Deepin Desktop Environmentをパッケージレポジトリに含め始めている。また、[Manjaro Linuxは](https://ja.wikipedia.org/wiki/Manjaro_Linux "wikilink")、コミュニティーサポートによるDeepin Desktop Environmentを用いたバージョンを持つ\[8\]。このデスクトップ環境は、[Fedora](../Page/Fedora.md "wikilink") 30のソフトウェアレポジトリでも利用可能である。
+Deppinのほかにも、Arch Linuxなどの他のLinuxディストリビューションは、Deepin Desktop Environmentをパッケージ[リポジトリ](../Page/リポジトリ.md "wikilink")に含め始めている。また、[Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink")は、コミュニティーサポートによるDeepin Desktop Environmentを用いたバージョンを持つ\[8\]。このデスクトップ環境は、Fedora 30のソフトウェアリポジトリでも利用可能である。
 
 ## 歴史
 
-このディストリビューションは、2004年にHiweed Linuxとして開発が始められた\[9\]。
+このLinuxディストリビューションは、2004年にHiweed Linuxとして開発が始められた\[9\]。
 
 [2011年](../Page/2011年.md "wikilink")、Deepinの開発チームは、Wuhan Deepin Technologyと呼ばれる会社を設立した\[10\]。これは、OSの商業的な開発をサポートするためのものである。この会社は、創設の年に事業投資を受けとっている\[11\] 。
 

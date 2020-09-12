@@ -1,11 +1,11 @@
 > この記事は[タトラKT4](https://ja.wikipedia.org/wiki/タトラKT4)から翻訳されています。
 
 
-**タトラKT4**は、かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した****が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の1つ。急カーブや急勾配など厳しい条件下の路面電車路線向けに開発され、[東ドイツ](https://ja.wikipedia.org/wiki/東ドイツ "wikilink")や[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")を始めとする[社会主義](../Page/社会主義.md "wikilink")国家（[東側諸国](../Page/東側諸国.md "wikilink")）に導入された。
+**タトラKT4**は、かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した**[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の1つ。急カーブや急勾配など厳しい条件下の路面電車路線向けに開発され、[東ドイツ](https://ja.wikipedia.org/wiki/東ドイツ "wikilink")や[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")を始めとする[社会主義](../Page/社会主義.md "wikilink")国家（[東側諸国](../Page/東側諸国.md "wikilink")）に導入された。
 
 ## 導入までの経緯
 
-[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で開発された高性能路面電車・[PCCカー](https://ja.wikipedia.org/wiki/PCCカー "wikilink")の技術をライセンス契約の元で取得したによって開発された路面電車車両の総称である。[東側諸国](../Page/東側諸国.md "wikilink")による経済協力機構である[経済相互援助会議](../Page/経済相互援助会議.md "wikilink")（コメコン）の元で大量生産されたタトラカーは[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")や[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")など世界各国へ向けて生産され、[東ドイツ](https://ja.wikipedia.org/wiki/東ドイツ "wikilink")においても[1960年](../Page/1960年.md "wikilink")以降[タトラT3](../Page/タトラT3.md "wikilink")Dや改良型の[タトラT4](../Page/タトラT4.md "wikilink")Dの大量導入が実施された。
+[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")で開発された高性能路面電車・[PCCカー](https://ja.wikipedia.org/wiki/PCCカー "wikilink")の技術をライセンス契約の元で取得した[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")（旧：タトラ国営会社スミーホフ工場）によって開発された路面電車車両の総称である。[東側諸国](../Page/東側諸国.md "wikilink")による経済協力機構である[経済相互援助会議](../Page/経済相互援助会議.md "wikilink")（コメコン）の元で大量生産されたタトラカーは[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")や[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")など世界各国へ向けて生産され、[東ドイツ](https://ja.wikipedia.org/wiki/東ドイツ "wikilink")においても[1960年](../Page/1960年.md "wikilink")以降[タトラT3](../Page/タトラT3.md "wikilink")Dや改良型の[タトラT4](../Page/タトラT4.md "wikilink")Dの大量導入が実施された。
 
 だが、[首都](../Page/首都.md "wikilink")・[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")の[ベルリン市電](https://ja.wikipedia.org/wiki/ベルリン市電 "wikilink")を始めとした東ドイツ各地の路面電車は急カーブや急勾配、狭い[車両限界](https://ja.wikipedia.org/wiki/車両限界 "wikilink")など、従来型のタトラカーを直接導入する事が難しい線路条件であり、1970年代前半までこれらの都市には小型の[2軸車](https://ja.wikipedia.org/wiki/2軸車 "wikilink")が継続して導入される状態となっていた。そこで、タトラ国営会社は東ドイツ政府の指導の元、それらの車両に代わる厳しい条件下でも走行可能な新型電車の開発に着手した。そして複数の試作車を経て[1975年](../Page/1975年.md "wikilink")から量産が開始されたのが**KT4**である。形式名の"KT"は「小型連接式電動車（**K**urzgelenk **T**riebwagen）」と言う意味を持つ。
 
@@ -23,7 +23,7 @@ KT4は2両の車体を繋いだ[2車体連接車だが](../Page/連接台車.md 
 
   - **KT4D** - **[東ドイツ](https://ja.wikipedia.org/wiki/東ドイツ "wikilink")**向けの形式。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")までに試作車を含めて合計1,045両が製造された。[1982年](../Page/1982年.md "wikilink")からは制御装置を[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")方式（サイリスタチョッパ制御）に変更した**KT4Dt**の展開も行われ、[ベルリン市電](https://ja.wikipedia.org/wiki/ベルリン市電 "wikilink")向けに99両が導入された\[2\]。
   - **KT4SU** - **[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")**向けに製造された形式。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にかけて435両が製造された。
-  - **KT4YU** - **[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")**向けの形式で、**KT4-YUB**とも呼ばれる。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にかけて（現：[セルビア](../Page/セルビア.md "wikilink")）に200両、（現：[クロアチア](../Page/クロアチア.md "wikilink")）に51両が導入された。また、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")（[IGBT](https://ja.wikipedia.org/wiki/IGBT "wikilink")素子）を用いた**KT4M-YUB**がベオグラード市電に向けて20両生産されている。
+  - **KT4YU** - **[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")**向けの形式で、**KT4-YUB**とも呼ばれる。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にかけて（現：[セルビア](../Page/セルビア.md "wikilink")）に200両、[ザグレブ市電](../Page/ザグレブ市電.md "wikilink")（現：[クロアチア](../Page/クロアチア.md "wikilink")）に51両が導入された。また、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")（[IGBT](https://ja.wikipedia.org/wiki/IGBT "wikilink")素子）を用いた**KT4M-YUB**がベオグラード市電に向けて20両生産されている。
   - **KT4K** - **[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")**（北朝鮮）の[首都](../Page/首都.md "wikilink")・[平壌](../Page/平壌.md "wikilink")の路面電車である**[平壌市電](../Page/平壌市電.md "wikilink")**の開通に合わせて[1991年](../Page/1991年.md "wikilink")に製造された形式。最終組み立ては[中国](../Page/中国.md "wikilink")で実施された。50両が導入されたが、早期に連接部分が溶接され、以降は全長18 mのボギー車として使用された\[3\]。
 
 <File:Berlin,_Tatra_KT4.jpg>|**KT4D**（[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")） <File:Kaliningrad_town_hall_and_tram424_cropped.jpg>|**KT4SU**（[カリーニングラード](../Page/カリーニングラード.md "wikilink")） <File:Belgrade_tram_(07).jpg>|**KT4YU**（[ベオグラード](../Page/ベオグラード.md "wikilink")） <File:Tatra> KT4M-YUB (Belgrade, Serbia).jpg|**KT4M-YUB**（[ベオグラード](../Page/ベオグラード.md "wikilink")）
@@ -58,10 +58,12 @@ KT4は2両の車体を繋いだ[2車体連接車だが](../Page/連接台車.md 
 <td><p><a href="../Page/プラウエン.md" title="wikilink">プラウエン</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/フランクフルト_(オーダー).md" title="wikilink">フランクフルト (オーダー)</a></p></td>
+<td><p><a href="../Page/フランクフルト_(オーダー).md" title="wikilink">フランクフルト(オーダー)</a><br />
+()</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ツヴィッカウ.md" title="wikilink">ツヴィッカウ</a></p></td>
+<td><p><a href="../Page/ツヴィッカウ.md" title="wikilink">ツヴィッカウ</a><br />
+(<a href="https://ja.wikipedia.org/wiki/ツヴィッカウ市電" title="wikilink">ツヴィッカウ市電</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ブランデンブルク・アン・デア・ハーフェル.md" title="wikilink">ブランデンブルク</a></p></td>
@@ -159,7 +161,7 @@ KT4は2両の車体を繋いだ[2車体連接車だが](../Page/連接台車.md 
   -
   -
   -
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:PCCカー](https://ja.wikipedia.org/wiki/Category:PCCカー "wikilink") [Category:路面電車車両](https://ja.wikipedia.org/wiki/Category:路面電車車両 "wikilink") [Category:ドイツの路面電車車両](https://ja.wikipedia.org/wiki/Category:ドイツの路面電車車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:エストニアの路面電車](https://ja.wikipedia.org/wiki/Category:エストニアの路面電車 "wikilink") [Category:ユーゴスラビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアの路面電車車両 "wikilink") [Category:クロアチアの路面電車車両](https://ja.wikipedia.org/wiki/Category:クロアチアの路面電車車両 "wikilink") [Category:セルビアの路面電車](https://ja.wikipedia.org/wiki/Category:セルビアの路面電車 "wikilink") [Category:朝鮮民主主義人民共和国の路面電車車両](https://ja.wikipedia.org/wiki/Category:朝鮮民主主義人民共和国の路面電車車両 "wikilink") [Category:ポーランドの路面電車車両](https://ja.wikipedia.org/wiki/Category:ポーランドの路面電車車両 "wikilink") [Category:ハンガリーの路面電車車両](https://ja.wikipedia.org/wiki/Category:ハンガリーの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:1972年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1972年製の鉄道車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:PCCカー](https://ja.wikipedia.org/wiki/Category:PCCカー "wikilink") [Category:路面電車車両](https://ja.wikipedia.org/wiki/Category:路面電車車両 "wikilink") [Category:ドイツの路面電車車両](https://ja.wikipedia.org/wiki/Category:ドイツの路面電車車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:エストニアの路面電車](https://ja.wikipedia.org/wiki/Category:エストニアの路面電車 "wikilink") [Category:ユーゴスラビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアの路面電車車両 "wikilink") [Category:クロアチアの路面電車車両](https://ja.wikipedia.org/wiki/Category:クロアチアの路面電車車両 "wikilink") [Category:セルビアの路面電車](https://ja.wikipedia.org/wiki/Category:セルビアの路面電車 "wikilink") [Category:朝鮮民主主義人民共和国の路面電車車両](https://ja.wikipedia.org/wiki/Category:朝鮮民主主義人民共和国の路面電車車両 "wikilink") [Category:ポーランドの路面電車車両](https://ja.wikipedia.org/wiki/Category:ポーランドの路面電車車両 "wikilink") [Category:ハンガリーの路面電車車両](https://ja.wikipedia.org/wiki/Category:ハンガリーの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:1972年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1972年製の鉄道車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink")
 
 1.
 2.

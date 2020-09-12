@@ -43,7 +43,7 @@ LVS-97が導入された都市は以下の通りである\[3\]。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/コロムナ.md" title="wikilink">コロムナ</a><br />
-()</p></td>
+(<a href="../Page/コロムナ市電.md" title="wikilink">コロムナ市電</a>)</p></td>
 <td><p>11両</p></td>
 <td></td>
 <td></td>
@@ -101,7 +101,7 @@ LVS-97が導入された都市は以下の通りである\[3\]。
 
 ### 出典
 
-[Category:ペテルブルク路面電車機械工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ペテルブルク路面電車機械工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:1997年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1997年製の鉄道車両 "wikilink")
+[Category:ペテルブルク路面電車機械工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ペテルブルク路面電車機械工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:1997年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1997年製の鉄道車両 "wikilink")
 
 1.
 2.

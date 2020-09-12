@@ -1,7 +1,7 @@
 > この記事は[Dal★Shabetの作品](https://ja.wikipedia.org/wiki/Dal★Shabetの作品)から翻訳されています。
 
 
-**Dal★Shabetの作品**では[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")「[Dal★Shabet](https://ja.wikipedia.org/wiki/Dal★Shabet "wikilink")」の作品をまとめた一覧。
+**Dal★Shabetの作品**では、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")「[Dal★Shabet](https://ja.wikipedia.org/wiki/Dal★Shabet "wikilink")」の作品をまとめた一覧について述べる。
 
 ## アルバム
 
@@ -114,4 +114,4 @@
   - I love you\! (原題:[カッコ悪い I love you\!](https://ja.wikipedia.org/wiki/カッコ悪い_I_love_you! "wikilink")，TVアニメ「[SKET DANCE](https://ja.wikipedia.org/wiki/SKET_DANCE "wikilink")」韓国語版主題歌）
   - 2013年：SBS 「내 연애의 모든 것 (私の恋愛のすべて)」OST - 「그건 너 (それはあなた)」 (Dal★Shabet)
 
-[Category:韓国の一覧](https://ja.wikipedia.org/wiki/Category:韓国の一覧 "wikilink") [Category:アイドル](https://ja.wikipedia.org/wiki/Category:アイドル "wikilink") [Category:韓国の音楽グループ](https://ja.wikipedia.org/wiki/Category:韓国の音楽グループ "wikilink") [Category:音楽作品の一覧](https://ja.wikipedia.org/wiki/Category:音楽作品の一覧 "wikilink")
+[Category:ディスコグラフィ](https://ja.wikipedia.org/wiki/Category:ディスコグラフィ "wikilink")

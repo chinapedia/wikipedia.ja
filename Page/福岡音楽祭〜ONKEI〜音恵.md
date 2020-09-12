@@ -1,7 +1,7 @@
 > この記事は[福岡音楽祭〜ONKEI〜音恵](https://ja.wikipedia.org/wiki/福岡音楽祭〜ONKEI〜音恵)から翻訳されています。
 
 
-**久原本家presents 福岡音楽祭〜ONKEI〜音恵**（おんけい）は、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")が65周年記念イベントとして[久原本家](../Page/久原本家.md "wikilink")グループの特別協賛のもと2016年に実施した[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")がプロデュースする野外音楽フェスティバルである。
+**久原本家presents 福岡音楽祭〜ONKEI〜音恵**（おんけい）は、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")が65周年記念イベントとして[久原本家](../Page/久原本家.md "wikilink")グループの特別協賛のもと2016年から実施している[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")がプロデュースする野外音楽フェスティバルである。
 
 通称は「音恵」（おんけい）。集客数は約6000人
 

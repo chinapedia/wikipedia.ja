@@ -84,4 +84,4 @@ E\\sum_j \\frac{(\\hat{Y}_j - E(Y_j\\mid X_j))^2}{\\sigma^2} </math>
 3.
 4.
 5.  Giraud, C. (2015), *Introduction to high-dimensional statistics*, Chapman & Hall/CRC,
-6.  Giraud, C. (2015), *Introduction to high-dimensional statistics*, Chapman & Hall/CRC, [ISBN](https://ja.wikipedia.org/wiki/ISBN_\(identifier\) "wikilink") [9781482237948](https://ja.wikipedia.org/wiki/Special:BookSources/9781482237948 "wikilink")
+6.

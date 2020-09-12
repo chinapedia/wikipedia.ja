@@ -91,7 +91,7 @@
 
   - [Trio of OZ公式ウェブサイト](http://www.thetrioofoz.com/)
 
-  - [‎Ozmosys公式ウェブサイト](https://ozmosysband.com/)
+  - [Ozmosys公式ウェブサイト](https://ozmosysband.com/)
 
   - [Bio at Party of the Century](http://potc.giorgiosound.com/index.php?page=rachel%20z)
 

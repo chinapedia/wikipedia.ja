@@ -1,7 +1,7 @@
 > この記事は[LISTENERS リスナーズ](https://ja.wikipedia.org/wiki/LISTENERS_リスナーズ)から翻訳されています。
 
 
-『**LISTENERS リスナーズ**』は、[MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")制作による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")4月より[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』B1ほかにて放送中\[1\]。
+『**LISTENERS リスナーズ**』は、[MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")制作による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")4月から6月まで[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』B1ほかにて放送された\[1\]。
 
 とある少年が身体にインプットジャックが空いた謎の少女であるミュウと出会って、共に世界を旅していくストーリーが描かれる\[2\]。
 
@@ -36,7 +36,7 @@
     名前はイギリスのロックバンド、[ピンクフロイドのメンバー](../Page/ピンク・フロイド.md "wikilink")、[ロジャー・ウォータースから](../Page/ロジャー・ウォーターズ.md "wikilink")。
   - 殿下
     声 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
-    名前は[プリンス](../Page/プリンス.md "wikilink")に対する敬称からで、アメリカのミュージシャン、[プリンスに掛けられている](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")。
+    名前は[プリンス](../Page/プリンス.md "wikilink")に対する敬称からで、アメリカのミュージシャン、[プリンスに掛けられている](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")。身体には特徴的な形状の全身アクセサリーを装着しているが、これはプリンスの14枚目のアルバム「[Love Symbol](https://ja.wikipedia.org/wiki/:en:Love_Symbol_\(Prince_album\) "wikilink")」の[シンボルマークであり](https://ja.wikipedia.org/wiki/:en:File:Prince_logo.svg "wikilink")1993年から1999年までの名前（the Artist Formerly Known As Prince時代）をモチーフとしたものである。
   - リッチー
     声 - [上村祐翔](../Page/上村祐翔.md "wikilink")
     名前は[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")のベーシスト、[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")の本名ジョン・サイモン・リッチーから。
@@ -45,8 +45,10 @@
     名前は[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")のボーカル、[ジョニー・ロットンの本名ジョン](../Page/ジョン・ライドン.md "wikilink")・ライドンから。
   - ジャニス
     声 - [上田麗奈](https://ja.wikipedia.org/wiki/上田麗奈 "wikilink")
+    ジミ・ストーンフリーの妹。名前はアメリカのブルースロックシンガー、[ジャニス・ジョプリン](../Page/ジャニス・ジョプリン.md "wikilink")から。
   - ロバート
     声 - [銀河万丈](../Page/銀河万丈.md "wikilink")
+    ジミ・ストーンフリーとジャニスの祖父。名前はアメリカのブルースシンガー、[ロバート・ジョンソン](../Page/ロバート・ジョンソン.md "wikilink")から。
   - ホール
     声 - [下野紘](../Page/下野紘.md "wikilink")
     名前は[ニルヴァーナのフロントマン](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")・[カートコバーンの妻である](../Page/カート・コバーン.md "wikilink")[コートニーラブの所属バンド](../Page/コートニー・ラブ.md "wikilink")、[ホールから](../Page/ホール_\(バンド\).md "wikilink")。ニルのことを良いように利用している。
@@ -79,7 +81,7 @@
     リバチェスタの町長。過去に起こった出来事をきっかけに、プレイヤーとイクイップメントの存在を毛嫌いしており、ミュウにも冷たい態度を取った。名前は、1983年にイギリスで設立されたインディーズ・レーベル、[クリエイション・レコーズ](../Page/クリエイション・レコーズ.md "wikilink")の設立者[アラン・マッギーから](https://ja.wikipedia.org/wiki/:en:Alan_McGee "wikilink")。
   - サリー・シンプソン
     声 - [島袋美由利](https://ja.wikipedia.org/wiki/島袋美由利 "wikilink")
-    名前はイギリスのロックバンド、[ザ・フー](../Page/ザ・フー.md "wikilink")のアルバムである[トミーの登場人物](../Page/トミー_\(アルバム\).md "wikilink")、サリー・シンプソンから
+    名前はイギリスのロックバンド、[ザ・フー](../Page/ザ・フー.md "wikilink")のアルバム「[トミー](../Page/トミー_\(アルバム\).md "wikilink")」の登場人物、サリー・シンプソンから
   - トミー・ウォーカー
     声 - [中村悠一](../Page/中村悠一.md "wikilink")
     名前はイギリスのロックバンド、[ザ・フー](../Page/ザ・フー.md "wikilink")のアルバム「[トミー](../Page/トミー_\(アルバム\).md "wikilink")」の登場人物、トミー・ウォーカーから。
@@ -100,19 +102,27 @@
 
 通常はAMP（ギターアンプ状の形状）だが、戦闘時にはロボット状のギグフォルムとなる。
 
-**AC-30**
-
-  -
+  - AC-30（エーシー・サーティー）\[6\]
     エコヲとミュウの搭乗機。AMPはVOX社の[AC-30](https://ja.wikipedia.org/wiki/:en:Vox_AC30 "wikilink")。ミュウとの接続プラグを"NORMAL"ジャックから"TOP BOOST"ジャックに接続しなおすことで、大きなエネルギーを開放する"TOP BOOST"を使用することが出来る。
-
-**SUE**
-
-  -
+  - BOGNER ROSA（ボグナー・ローザ）
+    アイン・ノイバウテンの搭乗機。名前はブティック系ギターアンプ製造メーカー[Bogner Amplificationと](https://ja.wikipedia.org/wiki/:en:Bogner_Amplification "wikilink")、ドイツ語でピンク色を意味するRosaから。
+  - FRIEDMAN GRÜN（フリードマン・グルン）
+    シュテュル・ノイバウテンの搭乗機。名前はブティック系ギターアンプ製造メーカーFriedman Amplificationと、ドイツ語で緑色を意味するGrünから。
+  - LEEJACK GELB（リージャック・ゲルプ）
+    ツェンデ・ノイバウテンの搭乗機。名前はギターアンプ改造者であり、MetaltronixやLee Jacksonアンプの開発者であるLee Jacksonと、ドイツ語で黄色を意味するGelb（ゲルプ）から。
+  - SUE（スー）
     ビリンとケヴィンの搭乗機。AMPはHIWATT社のCUSTOM [DR103](https://ja.wikipedia.org/wiki/:en:Hiwatt#DR103_amplifier "wikilink")。名前はマイ・ブラッディ・ヴァレンタインの曲名 "Sueisfine" から。
-
-**DUEL SHOWMAN**
-
-  -
+  - MELVIN（メルヴィン）
+    ニルの搭乗機。名前はアメリカのグランジバンド、[メルヴィンズ](https://ja.wikipedia.org/wiki/メルヴィンズ "wikilink")から。
+  - MESA（メサ）
+    殿下の搭乗機。別名「銀河宮殿」とも呼ばれる、ペイズリー・パークの上空に浮かぶ超巨大イクイップメント。名前はギターアンプ製造メーカー、[メサブギーから](https://ja.wikipedia.org/wiki/:en:Mesa_Boogie "wikilink")。
+  - HONEYMOON EXPRESS（ハネムーン・エキスプレス）
+    ウェンディとリサの搭乗機。名前はアメリカのデュオ[Wendy & Lisaの楽曲](https://ja.wikipedia.org/wiki/:en:Wendy_&_Lisa "wikilink")、Honeymoon Expressから。
+  - THE WALL（ザ・ウォール）
+    ロズの搭乗機。都市型の超巨大イクイップメント。名前はイギリスのロックバンド、[ピンクフロイドのアルバム](../Page/ピンク・フロイド.md "wikilink")「[The Wall](../Page/ザ・ウォール.md "wikilink")」から。
+  - SPITFIRE（スピットファイア）
+    トニー・ウォーカーの搭乗機。名前はイギリスの戦闘機[スーパーマリン スピットファイアと](../Page/スーパーマリン_スピットファイア.md "wikilink")、アメリカのアンプ製造メーカーである[マッチレス・アンプ](https://ja.wikipedia.org/wiki/マッチレス・アンプ "wikilink")社製のギターアンプ「Spitfire」シリーズから。
+  - DUEL SHOWMAN（デュエル・ショウマン）
     ジミ・ストーンフリーの搭乗機。AMPはFENDER社の[Dual Showman](https://ja.wikipedia.org/wiki/:en:Fender_Showman "wikilink")。
 
 ## スタッフ
@@ -123,6 +133,7 @@
   - 監督 - 安藤裕章
   - ストーリー原案 - [じん](https://ja.wikipedia.org/wiki/じん "wikilink")、[佐藤大](../Page/佐藤大.md "wikilink")、橋本太知
   - シリーズ構成 - 佐藤大
+  - 脚本 - じん、佐藤大、宮昌太朗
   - キャラクターデザイン - pomodorosa
   - アニメーションキャラクターデザイン - 鎌田晋平
   - サブキャラクターデザイン - 小泉初栄、高原修司
@@ -149,21 +160,25 @@
 
 ## 主題歌
 
-[じん](https://ja.wikipedia.org/wiki/じん "wikilink")が主題歌全曲の作詞・作曲・プロデュースを手掛けており、エンディングテーマはミュウ（[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")）の歌唱による各話ごとに異なる楽曲となっている\[6\]。
+[じん](https://ja.wikipedia.org/wiki/じん "wikilink")が主題歌全曲の作詞・作曲・プロデュースを手掛けており、エンディングテーマはミュウ（[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")）の歌唱による各話ごとに異なる楽曲となっている\[7\]。
 
-  - 「Into the blue's」\[7\]
+  - 「Into the blue's」\[8\]
     ACCAMERの歌唱によるオープニングテーマ、編曲は[菅波栄純](../Page/菅波栄純.md "wikilink")と[じん](https://ja.wikipedia.org/wiki/じん "wikilink")。
 
-| 話数      | タイトル         | 編曲    |
-| ------- | ------------ | ----- |
-| TRACK02 | Muse         | zukio |
-| TRACK03 | Borders      | じん    |
-| TRACK04 | Slip out\!   |       |
-| TRACK05 | Rainy lain   | zukio |
-| TRACK06 | Top of ocean |       |
-| TRACK07 | Trauma       | じん    |
-| TRACK08 | Dilemma      |       |
-| TRACK09 | Fairy tale   | zukio |
+| 話数      | タイトル                          | 編曲    |
+| ------- | ----------------------------- | ----- |
+| TRACK02 | Muse                          | zukio |
+| TRACK03 | Borders                       | じん    |
+| TRACK04 | Slip out\!                    |       |
+| TRACK05 | Rainy lain                    | zukio |
+| TRACK06 | Top of ocean                  |       |
+| TRACK07 | Trauma                        | じん    |
+| TRACK08 | Dilemma                       |       |
+| TRACK09 | Fairy tale                    | zukio |
+| TRACK10 | Slumber                       |       |
+| TRACK11 | Love song                     | じん    |
+| TRACK12 | Listeners                     |       |
+| TRACK13 | Into the blue's (modern ver.) |       |
 
 エンディングテーマ
 
@@ -175,10 +190,10 @@
 
 ## BD
 
-| 巻 | 発売日\[8\]     | 収録話        | 規格品番      |
-| - | ------------ | ---------- | --------- |
-| 1 | 2020年7月29日予定 | 第1話 - 第6話  | DMPXA-120 |
-| 2 | 2020年8月26日予定 | 第7話 - 第12話 | DMPXA-122 |
+| 巻 | 発売日\[9\]   | 収録話        | 規格品番      |
+| - | ---------- | ---------- | --------- |
+| 1 | 2020年7月29日 | 第1話 - 第6話  | DMPXA-120 |
+| 2 | 2020年8月26日 | 第7話 - 第12話 | DMPXA-122 |
 
 ## 出典
 
@@ -200,3 +215,4 @@
 6.
 7.
 8.
+9.

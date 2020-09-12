@@ -49,7 +49,7 @@
 <tr class="even">
 <td><p><a href="../Page/ベラルーシ.md" title="wikilink">ベラルーシ</a></p></td>
 <td><p><a href="../Page/ミンスク.md" title="wikilink">ミンスク</a><br />
-()</p></td>
+(<a href="../Page/ミンスク市電.md" title="wikilink">ミンスク市電</a>)</p></td>
 <td><p>5両</p></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@
 ## 外部リンク
 
   -
-[Category:ベルコムンマッシュ製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ベルコムンマッシュ製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:2008年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2008年製の鉄道車両 "wikilink")
+[Category:ベルコムンマッシュ製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ベルコムンマッシュ製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:2008年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2008年製の鉄道車両 "wikilink")
 
 1.
 2.

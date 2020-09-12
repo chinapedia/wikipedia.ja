@@ -261,7 +261,7 @@ YRCN-90294</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>2019年12月14日</p></td>
+<td><p>2019年7月10日</p></td>
 <td><p><strong>En-Dolphin</strong></p></td>
 <td><p>【初回盤】CD+DVD<br />
 【通常盤】CD</p></td>
@@ -286,6 +286,29 @@ YRCN-90300</p></td>
 <li>En-Dolphin -Music Clip Making-</li>
 </ol></td>
 <td><p>19位</p></td>
+</tr>
+</tbody>
+</table>
+
+### 配信シングル
+
+<table>
+<thead>
+<tr class="header">
+<th><p>枚数</p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2019年12月11日</p></td>
+<td><p><strong>最初の雪が降る前に</strong></p></td>
+<td><ol>
+<li>最初の雪が降る前に</li>
+</ol></td>
 </tr>
 </tbody>
 </table>
@@ -467,7 +490,7 @@ YRCN-95325</p></td>
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のダンス・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のダンス・ミュージシャン "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")
 
 1.
 2.  [ユニット名決定！！](https://ameblo.jp/mammostar-tv/entry-12512211798.html) - マンモスター+ 2017年12月3日

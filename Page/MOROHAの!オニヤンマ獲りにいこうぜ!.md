@@ -1,7 +1,7 @@
 > この記事は[MOROHAの!オニヤンマ獲りにいこうぜ!](https://ja.wikipedia.org/wiki/MOROHAの!オニヤンマ獲りにいこうぜ!)から翻訳されています。
 
 
-『**MOROHAの\!オニヤンマ獲りにいこうぜ\!**』（もろはの\!おにやんまとりにいこうぜ\!）は、[文化放送](../Page/文化放送.md "wikilink")で[2017年](../Page/2017年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から放送されている[トーク番組](../Page/トーク番組.md "wikilink")である。
+『**MOROHAの\!オニヤンマ獲りにいこうぜ\!**』（もろはの\!おにやんまとりにいこうぜ\!）は、[文化放送](../Page/文化放送.md "wikilink")で[2017年](../Page/2017年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送されていた[トーク番組](../Page/トーク番組.md "wikilink")である。
 
 ## 概要
 
@@ -48,7 +48,7 @@
 ## 放送時間
 
   - 火曜日 21:00 - 21:30（[2017年](../Page/2017年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）
-  - 水曜日 2:30 - 3:00（2018年[4月4日](../Page/4月4日.md "wikilink") - ）\[2\]
+  - 水曜日 2:30 - 3:00（2018年[4月4日](../Page/4月4日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") ）\[2\]
 
 ## 脚注
 

@@ -17,6 +17,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 ### 2020年
 
   - 4月1日、1stミニアルバム「**REASON FOR BEING: 仁**」をリリースしてデビュー。また、MVは前日(3月31日)に公開\[3\]。
+  - 7月15日、2ndミニアルバム「**Running TOOgether**」をリリース\[4\]。
 
 ## メンバー
 
@@ -53,7 +54,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <tr class="odd">
 <td><p><strong>チャン(CHAN、찬)</strong></p></td>
 <td><ul>
-<li>本名：조찬혁 (チョ･チャンニョク)</li>
+<li>本名：조찬혁 (チョ･チャニョク)</li>
 <li>生年月日：</li>
 <li>血液型：O型</li>
 <li>国籍：</li>
@@ -69,11 +70,11 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ダンサー・ボーカル</li>
-<li>担当：知, 水, 北, 黑</li>
+<li>担当：數, 水, 北, 黑</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>ミンス(MIN SU、민수)</strong></p></td>
+<td><p><strong>ミンス(MINSU、민수)</strong></p></td>
 <td><ul>
 <li>本名：김민수 (キム･ミンス)</li>
 <li>生年月日：</li>
@@ -172,9 +173,23 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>You Can't Hurry Love</li>
 </ol></td>
 <td><p>4位<br />
-[4]</p></td>
-<td><p>11,043枚<br />
 [5]</p></td>
+<td><p>11,043枚<br />
+[6]</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>Running TOOgether</strong><br />
+(2020年7月15日)</p></td>
+<td><ol>
+<li><strong>Count 1,2(하나 둘 세고)</strong></li>
+<li>Step By Step</li>
+<li>Better</li>
+<li>Taillight</li>
+<li>Dancing In The Moonlight</li>
+</ol></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 </tr>
 </tbody>
 </table>
@@ -219,5 +234,6 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 1.  [グローバルK-POPアイドルの成長ダイアリー「TO BE WORLD KLASS」Mnetにて10月4日より日韓リアルタイム配信決定](https://news.kstyle.com/m/article.ksn?articleNo=2126779) Kstyle 2020年4月27日閲覧。
 2.  [サバイバル番組「World Klass」デビューグループTOO、10人の最終メンバーがついに決定](https://news.kstyle.com/m/article.ksn?articleNo=2131961) Kstyle 2020年4月27日閲覧。
 3.  [TOO、タイトル曲「Magnolia」MVを先行公開…キレのある群舞に釘付け](https://news.kstyle.com/m/article.ksn?articleNo=2139864) Kstyle 2020年4月27日閲覧。
-4.  \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=14&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年3月29日\~2020年4月4日\]
-5.  \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2020&termGbn=month>　Gaonアルバム月間チャート2020年4月\]
+4.  [TOO、7月15日に2ndミニアルバム「Running TOOgether」をリリース…カムバックスケジューラーを公開](https://news.kstyle.com/m/article.ksn?articleNo=2146075) Kstyle 2020年7月6日閲覧。
+5.  \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=14&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年3月29日\~2020年4月4日\]
+6.  \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2020&termGbn=month>　Gaonアルバム月間チャート2020年4月\]

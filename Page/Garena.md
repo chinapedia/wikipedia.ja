@@ -1,7 +1,7 @@
 > この記事は[Garena](https://ja.wikipedia.org/wiki/Garena)から翻訳されています。
 
 
-**Garena（ガレナ）**は主に東南アジア地域を中心としてゲーム、[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")、[eコマース](https://ja.wikipedia.org/wiki/eコマース "wikilink")およびデジタルファイナンス事業を行うデジタルサービス企業。現在の会長兼グループCEOの[フォレスト・リー](../Page/フォレスト・リー.md "wikilink")が2009年に[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")で同社を設立した\[1\]。Garenaの親会社は**Sea Limited**である。
+**Garena**（ガレナ）は主に東南アジア地域を中心としてゲーム、[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")、[eコマース](https://ja.wikipedia.org/wiki/eコマース "wikilink")およびデジタルファイナンス事業を行うデジタルサービス企業。現在の会長兼グループCEOの[フォレスト・リー](../Page/フォレスト・リー.md "wikilink")が2009年に[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")で同社を設立した\[1\]。Garenaの親会社は**Sea Limited**である。
 
 Seaの製品は、主にGarena（ゲームプラットフォーム）、[Shopee](../Page/Shopee.md "wikilink")（モバイル電子商取引サービス）、AirPay（デジタル決済製品）に分かれている。Garenaの最初の自社開発作品の『Free Fire』はモバイル用の[バトルロイヤルゲーム](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink")であり、2018年にiOSとGoogle Playストアの合計で世界で4番目に多くダウンロードされた。
 

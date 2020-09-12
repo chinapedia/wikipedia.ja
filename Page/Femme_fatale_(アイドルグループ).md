@@ -11,7 +11,7 @@
 
 2018年10月22日、「Idol Lollapalaooza\!\!\!」（新宿ReNY）で初ライブ。しかし、前日に頓知気が突然辞めると言い出して、戦慄から依頼されたミスiD実行委員長の[小林司や同選考委員の](https://ja.wikipedia.org/wiki/小林司_\(編集者\) "wikilink")[吉田豪](../Page/吉田豪.md "wikilink")、[大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")が説得に当たるという一幕もあった\[5\]。
 
-戦慄は初ライブの時点で[ZOCでの活動を既に始めており](https://ja.wikipedia.org/wiki/ZOC_\(アイドルグループ\) "wikilink")、頓知気も2019年より「[青春高校3年C組](https://ja.wikipedia.org/wiki/青春高校3年C組 "wikilink")」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）にレギュラー出演していることからfemme fataleとしてのライブ出演は多くないが、2020年より2人で[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")やネットラジオ、[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")を始めている。
+戦慄は初ライブの時点で[ZOCでの活動を既に始めており](https://ja.wikipedia.org/wiki/ZOC_\(アイドルグループ\) "wikilink")(2020年7月8日に卒業)、頓知気も2019年より「[青春高校3年C組](https://ja.wikipedia.org/wiki/青春高校3年C組 "wikilink")」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）にレギュラー出演していることからfemme fataleとしてのライブ出演は多くないが、2020年より2人で[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")やネットラジオ、[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")を始めている。
 
 ファンの名称は「隠し子」。
 
@@ -21,7 +21,7 @@
       - 可愛い担当
       - 作詞・作曲・振り付け担当
       - [ミスiD2018サバイバル賞](https://ja.wikipedia.org/wiki/ミスiD#ミスiD2018 "wikilink")
-      - [ZOCメンバー](https://ja.wikipedia.org/wiki/ZOC_\(アイドルグループ\) "wikilink")
+      - [ZOC元メンバー](https://ja.wikipedia.org/wiki/ZOC_\(アイドルグループ\) "wikilink")
 
 <!-- end list -->
 
@@ -37,6 +37,7 @@
 
   - down shout leaf（2019年9月3日）
   - after light（2019年12月18日）
+  - フェイズ （2020年6月19日）
 
 ## 出演
 
@@ -63,13 +64,13 @@
 
 ## 外部リンク
 
-  - [【公式通販】femme fatale（戦慄かなの・頓知気さきな）](https://femme-fatale.stores.jp/)
-
   -
   -
   -
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink") [Category:ミスiD](https://ja.wikipedia.org/wiki/Category:ミスiD "wikilink")
+  -
+  -
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink") [Category:ミスiD](https://ja.wikipedia.org/wiki/Category:ミスiD "wikilink")
 
 1.
 2.  「[IDOL AND READ](../Page/IDOL_AND_READ.md "wikilink") 017」（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）p.213

@@ -5,6 +5,8 @@
 
 [2020年](../Page/2020年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")に[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")から発売。
 
+2020年6月19日付で手越祐也がジャニーズ事務所との専属契約を解除したため、4人体制の映像作品としては最後の作品となっている。\[1\]\[2\]
+
 ## 概要
 
 前作から約4か月ぶりとなるライブBlu-ray/DVD。
@@ -60,7 +62,7 @@
 2.  **[ずっと一緒さ](../Page/ずっと一緒さ.md "wikilink")**（増田貴久）
 3.  **DANCIN'☆TO ME**（小山慶一郎）
 4.  **[カカオ](https://ja.wikipedia.org/wiki/NEWS_BEST "wikilink")**（加藤シゲアキ）
-5.  **茜空**（手越祐也）
+5.  **[茜空](https://ja.wikipedia.org/wiki/京本大我 "wikilink")**（手越祐也）
 6.  **[Cascade](https://ja.wikipedia.org/wiki/BLUE_\(NEWSの曲\) "wikilink")**
 7.  **[AVALON](https://ja.wikipedia.org/wiki/EPCOTIA "wikilink")**
 8.  **[EROTICA](https://ja.wikipedia.org/wiki/EPCOTIA "wikilink")**
@@ -102,3 +104,6 @@ Disc 2
   - [1](https://www.jehp.jp/news_information/article/2907) - ジャニーズ・エンタテイメントによる紹介ページ
 
 [Category:NEWSの映像作品](https://ja.wikipedia.org/wiki/Category:NEWSの映像作品 "wikilink") [Category:2019年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2019年のコンサート・ツアー "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink") [Category:ジャニーズ・エンターテイメントの映像作品](https://ja.wikipedia.org/wiki/Category:ジャニーズ・エンターテイメントの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+
+1.  2020年6月19日現在
+2.  手越が最後に参加したライブツアーは2019年の「NEWS LIVE TOUR 2019 WORLDISTA」だが映像作品の発売は未定となっている。

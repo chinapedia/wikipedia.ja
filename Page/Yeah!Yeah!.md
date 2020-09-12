@@ -15,7 +15,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](https://www.adachikana.com/)による紹介ページ
+  - [公式サイト](https://www.adachikana.com/) による紹介ページ
       - [初回生産限定盤](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2335&disco_page=1&disco_now=3)
       - [期間生産限定盤](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2337&disco_page=1&disco_now=4)
       - [通常盤](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2339&disco_page=1&disco_now=5)

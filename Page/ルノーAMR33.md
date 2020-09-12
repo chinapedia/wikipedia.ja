@@ -101,7 +101,7 @@ AMR 33は数台がドイツにより鹵獲され、「Panzerspähwagen VM 701 (f
   - [Chars-francais.net old](https://web.archive.org/web/20051216161104/http://www.chars-francais.net/archives/renault_amr33.htm)
   - [Chars-francais.net](http://www.chars-francais.net/2015/index.php/engins-blindes/automitrailleuses?task=view&id=70)
 
-[Category:フランスの戦車](https://ja.wikipedia.org/wiki/Category:フランスの戦車 "wikilink") [Category:軽戦車](https://ja.wikipedia.org/wiki/Category:軽戦車 "wikilink") [Category:ルノーの車種](https://ja.wikipedia.org/wiki/Category:ルノーの車種 "wikilink")
+[Category:フランスの戦車](https://ja.wikipedia.org/wiki/Category:フランスの戦車 "wikilink") [Category:軽戦車](https://ja.wikipedia.org/wiki/Category:軽戦車 "wikilink") [Category:ルノーの戦車](https://ja.wikipedia.org/wiki/Category:ルノーの戦車 "wikilink")
 
 1.
 2.

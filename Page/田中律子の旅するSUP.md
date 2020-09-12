@@ -435,7 +435,7 @@ Season.3では、地元アナウンサーが田中を案内する「りっちゃ
 <td><p>12</p></td>
 <td><p>島根県 太田市 鞆ヶ浦（島根）</p></td>
 <td><p>琴ヶ浜 &amp; cafeチーナカ豆（島根）</p></td>
-<td><p>原田 笑</p></td>
+<td><p>原田笑（ぎんざんテレビ）</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -495,25 +495,25 @@ Season.3では、地元アナウンサーが田中を案内する「りっちゃ
 <td><p>22</p></td>
 <td><p>秋田 夏瀬渓谷（秋田）</p></td>
 <td><p>御座石神社（秋田）</p></td>
-<td><p>高橋実里</p></td>
+<td><p>高橋実里（秋田ケーブルテレビ）</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>長崎 伊王島（長崎）</p></td>
 <td><p>長崎市内観光（長崎）</p></td>
-<td><p>江藤真悠子</p></td>
+<td><p>江藤真悠子（長崎ケーブルメディア）</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
 <td><p>長崎 九十九島【1】（長崎）</p></td>
 <td><p>長崎くんち（長崎）</p></td>
-<td><p>江藤真悠子</p></td>
+<td><p>江藤真悠子（長崎ケーブルメディア）</p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>長崎 九十九島【2】（長崎）</p></td>
 <td><p>佐世保バーガー（長崎）</p></td>
-<td><p>タナカハルナ</p></td>
+<td><p>タナカハルナ（長崎ケーブルメディア）</p></td>
 </tr>
 </tbody>
 </table>
@@ -524,8 +524,10 @@ Season.3では、地元アナウンサーが田中を案内する「りっちゃ
 | 2                | <small>西表島②うなり崎 (沖縄)</small>   | <small>星砂海岸（星の砂浜）</small>                              | <small>池田卓 (シンガーソングライター)</small> |
 | 3                | <small>西表島③マングローブ (沖縄)</small> | <small>美々・ソーキそば・マンゴージュース</small>                       | <small>徳岡信馬</small>              |
 | 4                | <small>西表島④舟浮エリア (沖縄)</small>  | <small>みんさー織</small>                                   | <small>徳岡信馬</small>              |
-| 5                | <small>宮古島①来間島 (沖縄)</small>    | <small>通り池</small>                                     | <small>竹中美香</small>              |
+| 5                | <small>宮古島①来間島 (沖縄)</small>    | <small>通り池</small>                                     | <small>竹中美香（宮古テレビ）</small>       |
 | 6                | <small>西表島 総集編 (沖縄)</small>    | **<small>―</small>**                                   | <small>―</small>                 |
+| 7                | <small>ブルー特集</small>           | **<small>―</small>**                                   | <small>―</small>                 |
+| 8                | <small>松島①馬の背（宮城）</small>      | <small>円通院</small>                                     | <small>千葉めぐみ（仙台CATV）</small>     |
 
 Season.4
 

@@ -35,7 +35,7 @@
 
 <references responsive="" />
 
-[Category:2012年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2012年のアニメ映画 "wikilink")
+[Category:2012年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2012年のアニメ映画 "wikilink") [Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:ピクサー映画](https://ja.wikipedia.org/wiki/Category:ピクサー映画 "wikilink")
 
 1.
 2.

@@ -1,11 +1,11 @@
 > この記事は[タトラKT4TMR](https://ja.wikipedia.org/wiki/タトラKT4TMR)から翻訳されています。
 
 
-**タトラKT4TMR**は、[エストニア](../Page/エストニア.md "wikilink")の****で使用されている[路面電車](../Page/路面電車.md "wikilink")[車両の](../Page/電車.md "wikilink")1形式。かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）に存在したが製造した**[タトラKT4](../Page/タトラKT4.md "wikilink")**を改造した形式である。
+**タトラKT4TMR**は、[エストニア](../Page/エストニア.md "wikilink")の**[タリン市電](../Page/タリン市電.md "wikilink")**で使用されている[路面電車](../Page/路面電車.md "wikilink")[車両の](../Page/電車.md "wikilink")1形式。かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）に存在した[ČKDタトラ](https://ja.wikipedia.org/wiki/ČKDタトラ "wikilink")が製造した**[タトラKT4](../Page/タトラKT4.md "wikilink")**を改造した形式である。
 
 ## 概要・運用
 
-[エストニア](../Page/エストニア.md "wikilink")の[首都](../Page/首都.md "wikilink")・[タリン](../Page/タリン.md "wikilink")を走るが[2018年](../Page/2018年.md "wikilink")に開業130周年を迎えるのに合わせ、[2車体連接車の](../Page/連接台車.md "wikilink")**[タトラKT4](../Page/タトラKT4.md "wikilink")**のうち6両に対し、15年間の延命も兼ねた近代化工事を実施した車両。種車からは台枠や台車が流用され、車体や電気機器の多くは新規に製造されたものを用い、改造は[チェコ](../Page/チェコ.md "wikilink")の[イネコン・グループの指導の下](https://ja.wikipedia.org/wiki/イネコン・トラム "wikilink")、[2016年](../Page/2016年.md "wikilink")から路面電車車両の近代化や保守事業に参入したGOグループの傘下企業であるÜhinenud Depoodによって行われた\[1\]\[2\]。
+[エストニア](../Page/エストニア.md "wikilink")の[首都](../Page/首都.md "wikilink")・[タリン](../Page/タリン.md "wikilink")を走る[タリン市電](../Page/タリン市電.md "wikilink")が[2018年](../Page/2018年.md "wikilink")に開業130周年を迎えるのに合わせ、[2車体連接車の](../Page/連接台車.md "wikilink")**[タトラKT4](../Page/タトラKT4.md "wikilink")**のうち6両に対し、15年間の延命も兼ねた近代化工事を実施した車両。種車からは台枠や台車が流用され、車体や電気機器の多くは新規に製造されたものを用い、改造は[チェコ](../Page/チェコ.md "wikilink")の[イネコン・グループの指導の下](https://ja.wikipedia.org/wiki/イネコン・トラム "wikilink")、[2016年](../Page/2016年.md "wikilink")から路面電車車両の近代化や保守事業に参入したGOグループの傘下企業であるÜhinenud Depoodによって行われた\[1\]\[2\]。
 
 新造した車体は1940年代から60年代までタリン市電で使用されていた車両を基にしたレトロ調のデザインを用い、塗装も[世界遺産](../Page/世界遺産.md "wikilink")に認定された地域を有するタリンの街との調和が図られている。車内についても[オーク](../Page/オーク.md "wikilink")材を用いた[ロングシートやランプを意識した機材や配色を取り入れた](../Page/鉄道車両の座席.md "wikilink")[LED](https://ja.wikipedia.org/wiki/LED "wikilink")照明など旧型電車を意識した要素を盛り込む一方、通勤客をはじめとした一般利用客の利用し易さにも配慮した設計になっている。
 
@@ -26,7 +26,7 @@
 ## 外部リンク
 
   -
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:エストニアの路面電車](https://ja.wikipedia.org/wiki/Category:エストニアの路面電車 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:エストニアの路面電車](https://ja.wikipedia.org/wiki/Category:エストニアの路面電車 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink")
 
 1.
 2.

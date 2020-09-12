@@ -21,7 +21,7 @@
 
 2020年2月11日、[キューンミュージック](../Page/キューンミュージック.md "wikilink")より配信シングル「Not Youth But You」をリリースしメジャーデビュー\[3\]。
 
-2020年5月13日、1st CD single「new world」をリリース。テレビアニメ「[ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink")」第２期エンディングテーマ。
+2020年7月29日、メジャー1st CD single「new world」をリリース。テレビアニメ「[ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink")」第２期エンディングテーマ。
 
 ## ディスコグラフィー
 

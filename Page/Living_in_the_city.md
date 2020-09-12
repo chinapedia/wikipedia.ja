@@ -1,7 +1,7 @@
 > この記事は[Living in the city](https://ja.wikipedia.org/wiki/Living_in_the_city)から翻訳されています。
 
 
-「**Living in the city**」は、[SCANDALの](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")4作目の[配信限定シングル](https://ja.wikipedia.org/wiki/シングル#ダウンロード・シングル "wikilink")。[2020年](../Page/2020年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")に[ビクターエンターテインメント](https://ja.wikipedia.org/wiki/ビクターエンターテインメント "wikilink")内のプライベートレーベル『her』から配信予定\[1\]。
+「**Living in the city**」は、[SCANDALの](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")4作目の[配信限定シングル](https://ja.wikipedia.org/wiki/シングル#ダウンロード・シングル "wikilink")。[2020年](../Page/2020年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")に[ビクターエンターテインメント](https://ja.wikipedia.org/wiki/ビクターエンターテインメント "wikilink")内のプライベートレーベル『her』から配信された\[1\]。
 
 ## 概要
 

@@ -1,11 +1,13 @@
 > この記事は[国分太一のお気楽さんぽ - Happy Go Lucky -](https://ja.wikipedia.org/wiki/国分太一のお気楽さんぽ_-_Happy_Go_Lucky_-)から翻訳されています。
 
 
-『**国分太一のお気楽さんぽ ～Happy Go Lucky〜**』（こくぶんたいちのおきらくさんぽ～ハッピーゴーラッキー～）は、[フジテレビ系列27局で](../Page/フジネットワーク.md "wikilink")[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から平日午前に放送されている[紀行](../Page/紀行番組.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")であり、[国分太一](../Page/国分太一.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。[楽天カード](https://ja.wikipedia.org/wiki/楽天カード "wikilink")[一社提供](../Page/一社提供.md "wikilink")。
+『**国分太一のお気楽さんぽ ～Happy Go Lucky〜**』（こくぶんたいちのおきらくさんぽ～ハッピーゴーラッキー～）は、[フジテレビ系列27局で](../Page/フジネットワーク.md "wikilink")[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から平日の午前中に放送されている[楽天カード](https://ja.wikipedia.org/wiki/楽天カード "wikilink")の[単独提供による](../Page/一社提供.md "wikilink")[紀行](../Page/紀行番組.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")（[後述する事情で中断期間あり](https://ja.wikipedia.org/wiki/#概要 "wikilink")）。前番組の『[国分太一のおさんぽジャパン](https://ja.wikipedia.org/wiki/国分太一のおさんぽジャパン "wikilink")』に続いて、[国分太一](../Page/国分太一.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として編成されている。
 
 ## 概要
 
-前番組『[国分太一のおさんぽジャパン](https://ja.wikipedia.org/wiki/国分太一のおさんぽジャパン "wikilink")』と同様、[TOKIO](../Page/TOKIO.md "wikilink")のメンバーである[国分太一](../Page/国分太一.md "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")全国の街を歩き、その土地の魅力を紹介する。 タイトル通り[散歩](../Page/散歩.md "wikilink")をテーマにした番組である。
+『国分太一のおさんぽジャパン』に続いて、[TOKIO](../Page/TOKIO.md "wikilink")の[国分太一](../Page/国分太一.md "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")全国の街を[散歩](../Page/散歩.md "wikilink")しながら、その土地の魅力を紹介する番組。当初は、[日本橋 (東京都中央区)で収録したロケの映像を](../Page/日本橋_\(東京都中央区\).md "wikilink")、18回に分けて放送していた。しかし、番組開始のタイミングが[新型コロナウイルスへの感染が拡大している時期と重なったことなどから](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、[2020年](../Page/2020年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")から[5月20日](../Page/5月20日.md "wikilink")（[水曜日](../Page/水曜日.md "wikilink")）まで放送を休止していた。
+
+上記の事情から日本橋以降のロケを見合わせざるを得なくなったため、休止期間中からスタジオ収録へ移行。[2020年](../Page/2020年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")（[木曜日](../Page/木曜日.md "wikilink")）から放送を再開した。当面は、「おうち時間（在宅生活）を楽しむ」というコンセプトで「STAY HOME企画」を実施。「インターネットやアンテナショップなどで取り寄せることが可能な物産品がスタジオに届いた」という設定で、届いた物産品を国分がスタジオで試食・試飲するとともに、その物産品の生産者・販売者とのオンライントークの模様を放送している。
 
 ## 出演者
 
@@ -227,7 +229,7 @@
 
   - チーフ・プロデューサー：[清水泰貴](https://ja.wikipedia.org/wiki/清水泰貴 "wikilink")（フジテレビ第二制作室）
   - プロデューサー：[今野貴之](https://ja.wikipedia.org/wiki/今野貴之 "wikilink")（共同テレビ）、[五十嵐剛](https://ja.wikipedia.org/wiki/五十嵐剛 "wikilink")（フジテレビ第二制作室）、[加藤智章](https://ja.wikipedia.org/wiki/加藤智章_\(プロデューサー\) "wikilink")（フジテレビ第二制作室）
-  - 制作協力：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
+  - 制作協力：[共テレ](../Page/共同テレビジョン.md "wikilink")
 
 ## テーマ曲
 

@@ -120,7 +120,7 @@ DVD付き盤とBlu-ray付き盤、そしてCDのみ盤3形態の、5形態で発
   - [RAINBOW～私は私やねんから～](https://avexnet.jp/contents/music_j/TACOR/discography/1025676/) - avex portal
   - ミュージックビデオ
       -
-[Category:たこやきレインボーの楽曲](https://ja.wikipedia.org/wiki/Category:たこやきレインボーの楽曲 "wikilink") [Category:2017年のシングル](https://ja.wikipedia.org/wiki/Category:2017年のシングル "wikilink") [Category:前山田健一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:前山田健一が制作した楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
+[Category:たこやきレインボーの楽曲](https://ja.wikipedia.org/wiki/Category:たこやきレインボーの楽曲 "wikilink") [Category:2017年のシングル](https://ja.wikipedia.org/wiki/Category:2017年のシングル "wikilink") [Category:前山田健一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:前山田健一が制作した楽曲 "wikilink") [Category:虹を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:虹を題材とした楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
 
 1.  [たこやきレインボー / RAINBOW～私は私やねんから～(TYPE-A) ［CD+DVD］](https://artist.cdjournal.com/d/-/4117031642)CDJournal 2017-05-10
 2.  [たこやきレインボーの新作。“70億人の背中を押せるような曲”に込められた深いメッセージとは？ページ 3/3](https://tokyo.whatsin.jp/78865/3)WHAT's IN tokyo 2017-05-17

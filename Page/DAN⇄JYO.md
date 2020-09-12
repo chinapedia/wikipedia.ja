@@ -9,26 +9,156 @@
 
 ## メンバー
 
-|      | 名前        | よみ              | 生年月日(年齢)                                            | 出身地                                                   | 担当            | 備考 |
-| ---- | --------- | --------------- | --------------------------------------------------- | ----------------------------------------------------- | ------------- | -- |
-| DAN  | 髙松アロハ     | たかまつ　あろは        | 2000年10月26日(19歳)                                    | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | ダンサー/リーダー     |    |
-| 岡田結都 | おかだ　ゆうと   | 2002年5月20日(18歳) | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | ボーカル                                                  |               |    |
-| 石田亮太 | いしだ　りょうた  | 2003年9月14日(16歳) | 神奈川県                                                | ダンサー                                                  | 2018年12月23日加入 |    |
-| 桐山陽向 | きりやま　ひなた  | 2004年1月9日(16歳)  | [埼玉県](../Page/埼玉県.md "wikilink")                    | ダンサー/ラッパー                                             | 2018年9月23日加入  |    |
-| 大橋龍馬 | おおはし　りょうま | 2004年5月20日(16歳) | [東京都](../Page/東京都.md "wikilink")                    | ダンサー                                                  |               |    |
-| JYO  | 飯塚瑠乃      | いいづか　るの         | 2004年2月9日(16歳)                                      | 栃木県                                                   | ダンサー          |    |
-| イーチ  | いーち       | 2005年2月5日(15歳)  | [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")   | ボーカル                                                  |               |    |
-| 桜木心菜 | さくらぎ　ここな  | 2005年9月14日(14歳) | [茨城県](../Page/茨城県.md "wikilink")                    | ダンサー                                                  |               |    |
-| 矢嶋由菜 | やじま　ゆな    | 2006年9月13日(13歳) | [千葉県](../Page/千葉県.md "wikilink")                    | ダンサー                                                  |               |    |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>名前</p></th>
+<th><p>よみ</p></th>
+<th><p>生年月日(年齢)</p></th>
+<th><p>出身地</p></th>
+<th><p>担当</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>DAN</p></td>
+<td><p>髙松アロハ</p></td>
+<td><p>たかまつ　あろは</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
+<td><p>ダンサー/リーダー</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>岡田結都</p></td>
+<td><p>おかだ　ゆうと</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
+<td><p>ボーカル</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>石田亮太</p></td>
+<td><p>いしだ　りょうた</p></td>
+<td></td>
+<td><p>神奈川県</p></td>
+<td><p>ダンサー</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/12月23日.md" title="wikilink">12月23日</a>加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>桐山陽向</p></td>
+<td><p>きりやま　ひなた</p></td>
+<td></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
+<td><p>ダンサー/ラッパー</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/9月23日.md" title="wikilink">9月23日</a>加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>大橋龍馬</p></td>
+<td><p>おおはし　りょうま</p></td>
+<td></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p>ダンサー</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>JYO</p></td>
+<td><p>飯塚瑠乃</p></td>
+<td><p>いいづか　るの</p></td>
+<td></td>
+<td><p>栃木県</p></td>
+<td><p>ダンサー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>イーチ</p></td>
+<td><p>いーち</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a></p></td>
+<td><p>ボーカル</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>桜木心菜</p></td>
+<td><p>さくらぎ　ここな</p></td>
+<td></td>
+<td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
+<td><p>ダンサー</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>矢嶋由菜</p></td>
+<td><p>やじま　ゆな</p></td>
+<td></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p>ダンサー</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **元メンバー**
 
-|       | 名前             | よみ               | 生年月日            | 出身地  | 担当                                                                | 備考            |
-| ----- | -------------- | ---------------- | --------------- | ---- | ----------------------------------------------------------------- | ------------- |
-| DAN   | ジェフリー・タロウ・マローン | じぇふりー・たろう・まろーん   | 2003年5月30日(16歳) | 神奈川県 | ダンサー                                                              | 2018年12月23日卒業 |
-| 桜木雅哉  | さくらぎ　まさや       | 2006年3月19日(13歳)  | 東京都             | ダンサー | 2018年9月23日に桐山陽向と交代 現：[原因は自分にある。](../Page/原因は自分にある。.md "wikilink") |               |
-| 江口シオン | えぐち　しおん        | 2006年11月22日(13歳) | 東京都             | ダンサー | 2018年12月23日卒業 現：えびポン                                              |               |
-| JYO   | 佐藤ひなた          | さとう　ひなた          | 2006年11月8日(13歳) | 千葉県  | ダンサー                                                              | 2020年2月10日卒業  |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>名前</p></th>
+<th><p>よみ</p></th>
+<th><p>生年月日</p></th>
+<th><p>出身地</p></th>
+<th><p>担当</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>DAN</p></td>
+<td><p>ジェフリー・タロウ・マローン</p></td>
+<td><p>じぇふりー・たろう・まろーん</p></td>
+<td></td>
+<td><p>神奈川県</p></td>
+<td><p>ダンサー</p></td>
+<td><p>2018年12月23日卒業</p></td>
+</tr>
+<tr class="even">
+<td><p>桜木雅哉</p></td>
+<td><p>さくらぎ　まさや</p></td>
+<td></td>
+<td><p>東京都</p></td>
+<td><p>ダンサー</p></td>
+<td><p>2018年9月23日に桐山陽向と交代 現：<a href="../Page/原因は自分にある。.md" title="wikilink">原因は自分にある。</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>江口シオン</p></td>
+<td><p>えぐち　しおん</p></td>
+<td></td>
+<td><p>東京都</p></td>
+<td><p>ダンサー</p></td>
+<td><p>2018年12月23日卒業 現：えびポン</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>JYO</p></td>
+<td><p>佐藤ひなた</p></td>
+<td><p>さとう　ひなた</p></td>
+<td></td>
+<td><p>千葉県</p></td>
+<td><p>ダンサー</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月10日.md" title="wikilink">2月10日</a>卒業</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 沿革
 
@@ -706,8 +836,6 @@
   - [DAN⇄JYO](https://www.instagram.com/_dan_jyo_/)(_dan_jyo_)-[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
   - [sturdustdigital](https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw)-Youtube
   - [DAN⇄JYOチャンネル](https://www.youtube.com/channel/UCvvI2OxdYPZSdLDVZlBMJRw/about)-Youtube
-
- __インデックス__
 
 [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink") [Category:9人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:9人組の音楽グループ "wikilink")
 

@@ -7,9 +7,9 @@
 
 オリジナルとしては、前作『[Merry-go-round](https://ja.wikipedia.org/wiki/Merry-go-round_\(松田聖子のアルバム\) "wikilink")』以来、約2年ぶりとなる。松田聖子デビュー40周年イヤーを記念したオリジナル・アルバム\[1\]。
 
-今作は、松本隆が作詞した自身の代表曲「[SWEET MEMORIES](https://ja.wikipedia.org/wiki/SWEET_MEMORIES "wikilink")」のリアレンジ＆リレコーディングバージョン「SWEET MEMORIES ～甘い記憶～」をはじめとした代表曲のリバイバル版、テレビ東京系「ワールドビジネスサテライト」新エンディングテーマの「La La\!\! 明日に向かって」、新曲「40th PARTY」などを収録\[2\]。
+今作は、松本隆が作詞した自身の代表曲「[SWEET MEMORIES](https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES "wikilink")」のリアレンジ＆リレコーディングバージョン「SWEET MEMORIES ～甘い記憶～」をはじめとした代表曲のリバイバル版、テレビ東京系「ワールドビジネスサテライト」新エンディングテーマの「La La\!\! 明日に向かって」、新曲「40th PARTY」などを収録\[2\]。
 
-リリースに先駆け、デビュー日となった4月1日に今作収録の「SWEET MEMORIES ～甘い記憶～」が配信限定として発売された\[3\]。
+リリースに先駆け、デビュー日となった4月1日に本作収録の「SWEET MEMORIES ～甘い記憶～」が配信限定として発売された\[3\]。
 
 本作は[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")とDVDの初回限定盤、CDのみの通常盤、SHM-CDに40周年記念アイテム「応援ハチマキ」を同封したUNIVERSAL MUSIC STORE限定生産盤の3形態で発売される。初回限定盤にはボーナストラックを1曲追加収録。DVDには「SWEET MEMORIES～甘い記憶～」MVの完全版とメイキングシーン、本人インタビューが収められる\[4\]。
 
@@ -20,6 +20,8 @@
   - **「SWEET MEMORIES ～甘い記憶～」**
   - **「La La\!\! 明日に向かって」**
   - **「40th PARTY」**
+  - **「瑠璃色の地球 2020」**
+  - **「いちご畑でFUN×4」**
 
 など他、多数収録予定。
 
@@ -31,10 +33,6 @@
 | 「La La                  | 明日に向かって」                                                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")」エンディングテーマ |
 
 ## 脚注
-
-## 関連項目
-
-  - [2020年の音楽](https://ja.wikipedia.org/wiki/2020年の音楽 "wikilink")
 
 [Category:松田聖子のアルバム](https://ja.wikipedia.org/wiki/Category:松田聖子のアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink")
 

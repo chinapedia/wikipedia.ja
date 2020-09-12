@@ -84,7 +84,7 @@
         </div>
 
         </div>
-7.  **約束のしおり**\[6:16\]
+7.  **[約束のしおり](https://ja.wikipedia.org/wiki/約束のしおり "wikilink")**\[6:16\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -97,7 +97,7 @@
         </div>
     <!-- end list -->
       - [イオンエンターテイメント](https://ja.wikipedia.org/wiki/イオンエンターテイメント "wikilink")配給[映画](../Page/映画.md "wikilink")『[明日、キミのいない世界で](../Page/明日、キミのいない世界で.md "wikilink")』主題歌\[5\]\[6\]\[7\]
-8.  **70億にただ1つの奇跡**\[6:26\]
+8.  **[70億にただ1つの奇跡](https://ja.wikipedia.org/wiki/70億にただ1つの奇跡 "wikilink")**\[6:26\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -110,6 +110,7 @@
         </div>
     <!-- end list -->
       - [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")オリジナルドラマ『[僕だけが17歳の世界で](../Page/僕だけが17歳の世界で.md "wikilink")』主題歌\[8\]\[9\]\[10\]。
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[とくダネ\!](https://ja.wikipedia.org/wiki/とくダネ! "wikilink")』4月度お天気コーナーMONTHLY SONG
       - ミュージック・ビデオには[花柳のぞみ](https://ja.wikipedia.org/wiki/花柳のぞみ "wikilink")が出演。
 
 ## クレジット
@@ -129,7 +130,7 @@
 
 ### 出典
 
-[Category:2020年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のミニ・アルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:ACE_COLLECTIONのアルバム](https://ja.wikipedia.org/wiki/Category:ACE_COLLECTIONのアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
+[Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:2020年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のミニ・アルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:ACE_COLLECTIONのアルバム](https://ja.wikipedia.org/wiki/Category:ACE_COLLECTIONのアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
 
 1.
 2.

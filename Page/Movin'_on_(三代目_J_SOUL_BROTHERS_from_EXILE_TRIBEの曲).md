@@ -8,12 +8,13 @@
   - 前作「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」から約4か月ぶりのCDシングル。デビュー10周年目となる2020年の第一弾シングル。
   - 「CD+DVD」と「CDのみ」の2形態での発売。それぞれ全2曲4トラックを収録。
   - [STY](../Page/STY.md "wikilink")がシングル表題曲を作詞・作曲・プロデュースするのは「[Summer Madness](https://ja.wikipedia.org/wiki/Summer_Madness "wikilink")」以来約5年ぶり。
-  - 「Movin' on」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の広大な荒野や街中で競技用のレーサードローンを駆使し撮影。パフォーマンスでは、ハンドルを回すような振り付けの「ドライブダンス」をメンバーが披露している\[2\]。
+  - 「Movin' on」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の広大な荒野や街中で競技用のレーサードローンを駆使し撮影。パフォーマンスでは、ハンドルを回すような振り付けの「ドライブダンス」をメンバーが披露している\[2\]。
   - 三代目 J SOUL BROTHERSと[トヨタレンタカーによるコラボ動画がYouTubeで公開された](../Page/トヨタレンタリース.md "wikilink")\[3\]。
+  - 2020年8月26日に放送された[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[2020FNS歌謡祭 夏](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")」の"学生の「青春の1ページ」企画" で、"高校ダンス部日本一"[同志社香里](../Page/同志社香里中学校・高等学校.md "wikilink")、ダンススタジアム出場校メンバーなどとダンスコラボした\[4\]。
 
 ## チャート成績
 
-  - 2020年4月20日付の[オリコン週間シングルランキングで](../Page/オリコンチャート.md "wikilink")、初登場1位を獲得した。22枚目のシングル「[J.S.B. HAPPINESS](https://ja.wikipedia.org/wiki/J.S.B._HAPPINESS "wikilink")」以来、2年4か月ぶり、通算7作目の1位となった。デビューシングル「[Best Friend's Girl](https://ja.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")」から26作連続でTOP10入りとなった\[4\]。
+  - 2020年4月20日付の[オリコン週間シングルランキングで](../Page/オリコンチャート.md "wikilink")、初登場1位を獲得した。22枚目のシングル「[J.S.B. HAPPINESS](https://ja.wikipedia.org/wiki/J.S.B._HAPPINESS "wikilink")」以来、2年4か月ぶり、通算7作目の1位となった。デビューシングル「[Best Friend's Girl](https://ja.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")」から26作連続でTOP10入りとなった\[5\]。
 
 ## 収録曲
 
@@ -45,4 +46,5 @@
 1.
 2.
 3.
-4.  [三代目JSB、通算7作目のシングル1位 「ドライブダンス」がSNSで話題【オリコンランキング】](https://www.oricon.co.jp/news/2159874/full/) ORICON NEWS（2020年4月14日）2020年4月14日閲覧。
+4.
+5.  [三代目JSB、通算7作目のシングル1位 「ドライブダンス」がSNSで話題【オリコンランキング】](https://www.oricon.co.jp/news/2159874/full/) ORICON NEWS（2020年4月14日）2020年4月14日閲覧。

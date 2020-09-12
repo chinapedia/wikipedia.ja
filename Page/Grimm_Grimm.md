@@ -47,9 +47,11 @@
 
 ## 外部リンク
 
-  - [公式サイト（英語）](http://grimmgrimm.com/)
+  - [公式サイト](http://grimmgrimm.com/)
 
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:イギリスのシンガーソングライター](https://ja.wikipedia.org/wiki/Category:イギリスのシンガーソングライター "wikilink")
+[カテゴリ:ソロプロジェクト](https://ja.wikipedia.org/wiki/カテゴリ:ソロプロジェクト "wikilink")
+
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:イギリスのシンガーソングライター](https://ja.wikipedia.org/wiki/Category:イギリスのシンガーソングライター "wikilink")
 
 1.
 2.

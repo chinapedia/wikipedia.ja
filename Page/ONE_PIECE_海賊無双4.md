@@ -99,6 +99,12 @@
     声 - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - ☆△[シャーロット・スムージー](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・スムージー "wikilink")
     声 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
+  - ☆△[シャーロット・クラッカー](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・クラッカー "wikilink")
+    声 - [桐本拓哉](../Page/桐本拓哉.md "wikilink")
+  - ☆△[ヴィンスモーク・ジャッジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・ジャッジ "wikilink")
+    声 - 堀秀行
+  - △[X・ドレーク](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#X・ドレーク "wikilink")
+    声 - [竹本英史](../Page/竹本英史.md "wikilink")
 
 ### NPCキャラクター
 
@@ -134,8 +140,6 @@
     声 - [中博史](../Page/中博史.md "wikilink")
   - [センゴク](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#センゴク "wikilink")
     声 - [大川透](../Page/大川透.md "wikilink")
-  - ⭐︎[X・ドレーク](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#X・ドレーク "wikilink")
-    声 - [竹本英史](../Page/竹本英史.md "wikilink")
   - [シルバーズ・レイリー](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#シルバーズ・レイリー "wikilink")
     声 - [園部啓一](../Page/園部啓一.md "wikilink")
   - [バーソロミュー・くま](https://ja.wikipedia.org/wiki/王下七武海#バーソロミュー・くま "wikilink")
@@ -168,8 +172,6 @@
     声 - [水島裕](../Page/水島裕_\(声優\).md "wikilink")
   - ☆[シャーロット・プリン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・プリン "wikilink")
     声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")
-  - ☆[ヴィンスモーク・ジャッジ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ヴィンスモーク・ジャッジ "wikilink")
-    声 - 堀秀行
   - ナレーション
     声 - 大場真人
 

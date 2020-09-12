@@ -19,26 +19,26 @@
 
 1.  Stargazer
 
-2018年2月2日発売。通常バージョン。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で撮影\[2\]したミュージックビデオが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にあり、[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")のみ出演している。\[3\]
+> 2018年2月2日発売。通常バージョン。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で撮影\[2\]したミュージックビデオが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にあり、[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")のみ出演している。\[3\]
 
 ### Stargazer (Kove Remix)
 
 1.  Stargazer (Kove Remix)
 2.  Stargazer (Kove Dance Remix)
 
-2018年3月9日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人の音楽プロデューサー兼DJのKoveによるリミックス。
+> 2018年3月9日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人の音楽プロデューサー兼DJのKoveによるリミックス。
 
 ### Stargazer (Alex Adair Remix)
 
 1.  Stargazer (Alex Adair Remix)
 
-2018年3月23日。イギリス人の音楽家Alex Adairによるリミックス。
+> 2018年3月23日。イギリス人の音楽家Alex Adairによるリミックス。
 
 ### Stargazer (Clean Bandit Remix)
 
 1.  Stargazer (Clean Bandit Remix)
 
-2018年4月6日発売。ケンブリッジ大学で出会ったメンバーで構成されたエレクトロニックグループ、[Clean Banditによるリミックス](https://ja.wikipedia.org/wiki/クリーン・バンディット "wikilink")。日本で行われたClean Banditのライブの後に食事をしたり\[4\]\[5\]、彼らの楽曲『Rockabye』をリミックスする\[6\]、『Baby』のギターフレーズで[Nakajin](https://ja.wikipedia.org/wiki/Nakajin "wikilink")が参加する\[7\]など以前から親交があった。
+> 2018年4月6日発売。ケンブリッジ大学で出会ったメンバーで構成されたエレクトロニックグループ、[Clean Banditによるリミックス](https://ja.wikipedia.org/wiki/クリーン・バンディット "wikilink")。日本で行われたClean Banditのライブの後に食事をしたり\[4\]\[5\]、彼らの楽曲『Rockabye』をリミックスする\[6\]、『Baby』のギターフレーズで[Nakajin](https://ja.wikipedia.org/wiki/Nakajin "wikilink")が参加する\[7\]など以前から親交があった。
 
 ## 脚注
 

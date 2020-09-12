@@ -27,7 +27,7 @@
 <tr class="even">
 <td><p>サブタイトル</p></td>
 <td><p>ミュージックスクエア<br />
-（9:00以降）</p></td>
+（8:20以降）</p></td>
 <td><p>ときめきアフタヌーン</p></td>
 </tr>
 <tr class="odd">
@@ -43,8 +43,8 @@
 </tr>
 <tr class="odd">
 <td><p>曲のリクエスト募集[1]</p></td>
-<td><p>あり</p></td>
-<td><p>なし</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>メッセージテーマ[2]</p></td>

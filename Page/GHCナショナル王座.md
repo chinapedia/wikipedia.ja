@@ -5,11 +5,11 @@
 
 ## 概要
 
-初代王者は初代王者決定戦を行い勝者が初代王者となった。
-
-注：王者が王座返上した場合は、王座決定戦によるタイトル移動。それ以外は、すべて前王者に勝利してのタイトル移動。
+11月2日、プロレスリング・ノア[両国国技館](../Page/両国国技館.md "wikilink")大会において、[杉浦貴](../Page/杉浦貴.md "wikilink")と[マイケル・エルガン](https://ja.wikipedia.org/wiki/マイケル・エルガン "wikilink")の間で初代王者決定戦を行われ、勝利した杉浦が初代王者となった。
 
 ## 歴代王者
+
+注：王者が王座返上した場合は、王座決定戦によるタイトル移動。それ以外は、すべて前王者に勝利してのタイトル移動。
 
 <table>
 <thead>
@@ -37,12 +37,19 @@
 <td><p>第2代</p></td>
 <td><p><a href="../Page/中嶋勝彦.md" title="wikilink">中嶋勝彦</a></p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>2</p></td>
 <td><p>2020年5月9日</p></td>
-<td><p>「ノアTVマッチ」<br />
-杉浦貴</p></td>
+<td><p>ノア特設アリーナ[2]</p></td>
 </tr>
 <tr class="odd">
+<td><p>第3代</p></td>
+<td><p><a href="../Page/拳王_(プロレスラー).md" title="wikilink">拳王</a></p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>2020年8月4日</p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -58,7 +65,7 @@
   - 最多戴冠回数：1回 - 杉浦貴(初代)
   - 最多連続防衛回数：4回 - 杉浦貴（初代王者時代）
   - 最多通算防衛回数：4回 - 杉浦貴
-  - デビュー最短戴冠記録：16年5か月 - 中嶋勝彦（第2代時代）
+  - デビュー最短戴冠記録：12年5か月 - 拳王（第3代時代）
   - デビュー最長戴冠記録：18年1か月 - 杉浦貴（初代王者時代）
   - 最年少戴冠記録：32歳2か月 - 中嶋勝彦（第2代時代）
   - 最年長戴冠記録：49歳6か月 - 杉浦貴（初代時代）
@@ -74,3 +81,4 @@
 [Category:プロレスリング・ノアの王座](https://ja.wikipedia.org/wiki/Category:プロレスリング・ノアの王座 "wikilink") [Category:プロレスのヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのヘビー級王座 "wikilink") [Category:2019年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:2019年開始のスポーツイベント "wikilink")
 
 1.  [ノアに無差別級の赤ベルト『GHCナショナル選手権』誕生、11・2両国「杉浦貴vsマイケル・エルガン」で初代王者決定戦](http://boku-pro.com/news/view/19460) ぼくらのプロレス 2019年10月3日
+2.   PRO-WRESTLING NOAH OFFICIAL SITE|accessdate=2020-06-03}}

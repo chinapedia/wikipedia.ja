@@ -41,7 +41,7 @@
 1.  それでもデミアンは一人なのか？ Still Does Demian Have Only One Brain?（2019年6月発行、ISBN 978-4-06-514537-1）
 2.  神はいつ問われるのか？ When Will God be Questioned?（2019年10月発行、ISBN 978-4-06-517445-6）
 3.  キャサリンはどのように子供を産んだのか？ How Did Catherine Cooper Have a Child?（2020年2月発行、ISBN 978-4-06-518283-3）
-4.  幽霊を創出したのは誰か？ Who Created the Ghost?（2020年6月発行予定）
+4.  幽霊を創出したのは誰か？ Who Created the Ghost?（2020年6月発行、ISBN 978-4-06-519483-6）
 
 ## 関連シリーズ
 

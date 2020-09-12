@@ -1,21 +1,25 @@
 > この記事は[Twilight \(藤原さくらの曲\)](https://ja.wikipedia.org/wiki/Twilight_\(藤原さくらの曲\))から翻訳されています。
 
 
-「**Twilight**」（トワイライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[藤原さくらの楽曲](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[SPEEDSTAR RECORDSから](../Page/SPEEDSTAR_RECORDS.md "wikilink")[配信限定](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")としてリリースされた。
+</ref> | Misc =    }}
+
+「**Twilight**」（トワイライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[藤原さくらの楽曲](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")。2020年2月12日に[SPEEDSTAR RECORDSから](../Page/SPEEDSTAR_RECORDS.md "wikilink")[配信限定](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")としてリリースされた。
 
 ## 解説
 
-[2018年](../Page/2018年.md "wikilink")発売の「[The Moon](https://ja.wikipedia.org/wiki/The_Moon_\(藤原さくらの曲\) "wikilink")」以来の配信限定シングル。
+2018年発売の「[The Moon](https://ja.wikipedia.org/wiki/The_Moon_\(藤原さくらの曲\) "wikilink")』以来の配信限定シングル。
 
-「[Ami](../Page/Ami_\(藤原さくらの曲\).md "wikilink")」との同時リリースで、共に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[ドラマ](../Page/ドラマ.md "wikilink")『100文字アイデアをドラマにした！』の主題歌\[1\]。
+『[Ami](../Page/Ami_\(藤原さくらの曲\).md "wikilink")」との同時リリースで、共に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[ドラマ](../Page/ドラマ.md "wikilink")『100文字アイデアをドラマにした！』の主題歌\[1\]。
 
 ジャケットデザインは[藤田二郎](https://ja.wikipedia.org/wiki/藤田二郎 "wikilink")が担当した。
 
-配信開始日の[2月12日](../Page/2月12日.md "wikilink")に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")がプレミア公開された\[2\]。MVの[ディレクションは芳賀陽平が担当した](../Page/ディレクター.md "wikilink")。
+配信開始日の2月12日に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")がプレミア公開された\[2\]。MVの[ディレクションは芳賀陽平が担当した](../Page/ディレクター.md "wikilink")。
+
+2020年6月3日に、「Twilight / Ami」というタイトルで、7インチのアナログレコードが発売された。
 
 ## 制作背景
 
-[2019年](../Page/2019年.md "wikilink")の夏フェスで共演したYasei Collectiveのメンバーや別所和洋などが[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")に参加\[3\]。
+2019年の夏フェスで共演したYasei Collectiveのメンバーや別所和洋などが[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")に参加\[3\]。
 
 曲の原型はリリースの2年前（2018年）には出来上がっていた\[4\]。制作にあたって新たに"デタラメ英語"で歌った[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")を作り、レコーディングのメンバーとヘッドアレンジで作り上げていった。
 
@@ -34,6 +38,10 @@
   - 沖メイ - コーラスアレンジ
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 [Category:藤原さくらの楽曲](https://ja.wikipedia.org/wiki/Category:藤原さくらの楽曲 "wikilink") [Category:藤原さくらが制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤原さくらが制作した楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 

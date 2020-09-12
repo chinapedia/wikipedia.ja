@@ -185,7 +185,7 @@ Nina Peleaアジアワンマンツアー〜時代を創るのは私だもん〜
   -
   - [Nina Pelea LIVE予約フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGhNGFBaK3NC7d3T3V-aJW1tLoHTJuLL57fSt7iAm6qiJmog/viewform)
 
-[Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink")
+[Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink")
 
 1.
 2.

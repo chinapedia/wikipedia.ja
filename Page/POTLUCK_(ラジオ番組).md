@@ -11,6 +11,8 @@
 
 番組公式ハッシュタグは「**\#POTLUCK863**」\[3\]。
 
+メッセージを送ったリスナーの中から抽選で1人に番組ステッカーをプレゼントしている。
+
 ## 放送時間
 
   - 2020年4月1日 - 、エフエム群馬 毎週月曜 - 水曜 16:00 - 17:50\[4\]
@@ -46,7 +48,7 @@
   - [『POTLUCK』公式ページ](https://www.fmgunma.com/fmg863/potluck/)
 
   -
-[Category:2019年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のラジオ番組_\(日本\) "wikilink") [Category:エフエム群馬の番組](https://ja.wikipedia.org/wiki/Category:エフエム群馬の番組 "wikilink")
+[Category:2019年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のラジオ番組_\(日本\) "wikilink") [Category:エフエム群馬の番組](https://ja.wikipedia.org/wiki/Category:エフエム群馬の番組 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:ラジオの帯番組](https://ja.wikipedia.org/wiki/Category:ラジオの帯番組 "wikilink")
 
 1.
 2.

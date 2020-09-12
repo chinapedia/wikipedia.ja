@@ -19,13 +19,13 @@
 
 ## 収録内容
 
-| arranger6 = Nozomu.S | length6 = 5:02 | title7 = Don't be afraid | writer7 = Hidenori | arranger7 = [渡辺シュンスケ](https://ja.wikipedia.org/wiki/渡辺シュンスケ "wikilink") | length7 = 3:56 | title8 = 頑な | writer8 = Uru | arranger8 = Tomi Yo | length8 = 4:39 | title9 = いい女 | writer9 = Uru | arraner9 = [宗本康兵](https://ja.wikipedia.org/wiki/宗本康兵 "wikilink") | length9 = 4:57 | title10 = PUZZLE | writer10 = Uru | arranger10 = Kan Sano | length10 = 4:52 | title11 = Scenery | writer11 = Uru | arranger11 = rionos | length11 = 5:29 | title12 = 横顔 | writer12 = Hidenori | arranger12 = [橋本幸大](https://ja.wikipedia.org/wiki/橋本幸大 "wikilink") | length12 = 5:26 | title13 = [remember](https://ja.wikipedia.org/wiki/remember_\(Uruの曲\) "wikilink") | writer13 = Uru | arranger13 = Tomi Yo | length13 = 5:50 | title14 = Binary Star | note14 = Special Track / [SawanoHiroyuki](../Page/澤野弘之.md "wikilink")\[nZk\]:Uru | writer14 =  [mpi](https://ja.wikipedia.org/wiki/mpi "wikilink")（作詞）
+| arranger6 = Nozomu.S | length6 = 5:02 | title7 = Don't be afraid | writer7 = Hidenori | arranger7 = [渡辺シュンスケ](https://ja.wikipedia.org/wiki/渡辺シュンスケ "wikilink") | length7 = 3:56 | title8 = 頑な | writer8 = Uru | arranger8 = Tomi Yo | length8 = 4:39 | title9 = いい女 | writer9 = Uru | arraner9 = [宗本康兵](https://ja.wikipedia.org/wiki/宗本康兵 "wikilink") | length9 = 4:57 | title10 = PUZZLE | writer10 = Uru | arranger10 = Kan Sano | length10 = 4:52 | title11 = Scenery | writer11 = Uru | arranger11 = rionos | length11 = 5:29 | title12 = 横顔 | writer12 = Hidenori | arranger12 = [橋本幸太](https://ja.wikipedia.org/wiki/橋本幸太 "wikilink") | length12 = 5:26 | title13 = [remember](https://ja.wikipedia.org/wiki/remember_\(Uruの曲\) "wikilink") | writer13 = Uru | arranger13 = Tomi Yo | length13 = 5:50 | title14 = Binary Star | note14 = Special Track / [SawanoHiroyuki](../Page/澤野弘之.md "wikilink")\[nZk\]:Uru | writer14 =  [mpi](https://ja.wikipedia.org/wiki/mpi "wikilink")（作詞）
 
   - [澤野弘之](../Page/澤野弘之.md "wikilink")（作曲）
 
 }} | arranger14 = 澤野弘之 | length14 = 4:44 }}  Hidenori | writing_credits = yes | total_length = auto
 
-| title1 = [3月9日](../Page/3月9日_\(曲\).md "wikilink") | writer1 = [藤巻亮太](../Page/藤巻亮太.md "wikilink") | length1 = 4:39 | title2 = [カムフラージュ](https://ja.wikipedia.org/wiki/カムフラージュ/Winter_Lovers "wikilink") | writer2 = [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink") | length2 = 5:26 | title3 = [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink") | writer3 = [常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink") | length3 = 4:34 | title4 = [このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink") | writer4 =  | title5 = [Funny Bunny](../Page/HAPPY_BIVOUAC.md "wikilink") | writer5 = [山中さわお](../Page/山中さわお.md "wikilink") | length5 = 3:44 | title6 = [Pretender](https://ja.wikipedia.org/wiki/Pretender "wikilink") | writer6 = 藤原聡 | length6 = 5:27 | title7 = [若者のすべて](https://ja.wikipedia.org/wiki/若者のすべて_\(フジファブリックの曲\) "wikilink") | writer7 = [志村正彦](https://ja.wikipedia.org/wiki/志村正彦 "wikilink") | length7 = 4:53 | title8 = [雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink") | writer8 =  }}
+| title1 = [3月9日](../Page/3月9日_\(曲\).md "wikilink") | writer1 = [藤巻亮太](../Page/藤巻亮太.md "wikilink") | length1 = 4:39 | title2 = [カムフラージュ](https://ja.wikipedia.org/wiki/カムフラージュ/Winter_Lovers "wikilink") | writer2 = [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink") | length2 = 5:26 | title3 = [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink") | writer3 = [常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink") | length3 = 4:34 | title4 = [このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink") | writer4 =  | title5 = [Funny Bunny](https://ja.wikipedia.org/wiki/Funny_Bunny "wikilink") | writer5 = [山中さわお](../Page/山中さわお.md "wikilink") | length5 = 3:44 | title6 = [Pretender](https://ja.wikipedia.org/wiki/Pretender "wikilink") | writer6 = 藤原聡 | length6 = 5:27 | title7 = [若者のすべて](https://ja.wikipedia.org/wiki/若者のすべて_\(フジファブリックの曲\) "wikilink") | writer7 = [志村正彦](https://ja.wikipedia.org/wiki/志村正彦 "wikilink") | length7 = 4:53 | title8 = [雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink") | writer8 =  }}
 
 ## 曲の解説
 
@@ -86,7 +86,7 @@
 4.  **[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")**
       -
         [DEEN](../Page/DEEN.md "wikilink")のカバー曲\[22\]。
-5.  **[Funny Bunny](../Page/HAPPY_BIVOUAC.md "wikilink")**
+5.  **[Funny Bunny](https://ja.wikipedia.org/wiki/Funny_Bunny "wikilink")**
       -
         [the pillowsのカバー曲](https://ja.wikipedia.org/wiki/the_pillows "wikilink")\[23\]。
         [日本コカ・コーラ](../Page/日本コカ・コーラ.md "wikilink")「[アクエリアス](../Page/アクエリアス.md "wikilink")」CMソング\[24\]。

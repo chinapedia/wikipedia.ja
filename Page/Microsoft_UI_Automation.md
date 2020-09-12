@@ -9,7 +9,7 @@ UIAの最新仕様は Microsoft UI Automation [Community Promise Specification](
 
 ## 歴史
 
-[2005年](../Page/2005年.md "wikilink")に、マイクロソフトは  フレームワークの後継として UIA をリリースした。
+[2005年](../Page/2005年.md "wikilink")に、マイクロソフトは [MSAA](../Page/Microsoft_Active_Accessibility.md "wikilink") フレームワークの後継として UIA をリリースした。
 
 [マネージド](https://ja.wikipedia.org/wiki/マネージドコード "wikilink") UI Automation APIは[.NET Framework 3.0の一部としてリリースされた](https://ja.wikipedia.org/wiki/.NET_Framework_3.0 "wikilink")。 ネイティブ UI Automation API (プロバイダ)は[Windows Vista と Windows Server 2008 SDK](../Page/Microsoft_Windows_SDK.md "wikilink") に含まれており、.NET Frameworkと一緒にも配布された。
 

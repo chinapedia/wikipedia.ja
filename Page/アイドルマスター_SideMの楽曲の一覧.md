@@ -293,6 +293,8 @@
   - 夜空を煌めく星のように
     作詞：結城アイラ、作曲：桑原聖 （Arte Refact）、編曲：酒井拓也（Arte Refact）
     CDオリジナル曲。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM 2nd ANNIVERSARY DISC 01 DRAMATIC STARS＆High×Joker
     :\*\* 夜空を煌めく星のように 歌：＆
@@ -325,6 +327,8 @@
   - エウレカダイアリー
     作詞：真崎エリカ、作曲・編曲：本多由紀（Arte Refact）
     CDオリジナル曲。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM 2nd ANNIVERSARY DISC 02 Beit＆S.E.M
     :\*\* エウレカダイアリー 歌：＆
@@ -355,6 +359,8 @@
   - カレイド TOURHYTHM
     作詞：真崎エリカ、作曲：徳田光希、編曲：中土智博
     CDオリジナル曲。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM 2nd ANNIVERSARY DISC 03 Jupiter＆W
     :\*\* カレイド TOURHYTHM 歌：＆
@@ -385,6 +391,8 @@
   - THE FIRST STAR
     作詞：結城アイラ、作曲・編曲：EFFY
     天道輝の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 01
     :\*\* THE FIRST STAR 歌：天道輝
@@ -433,6 +441,8 @@
   - Echoes My Note
     作詞：真崎エリカ、作曲・編曲：田熊知存
     神楽麗の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 02
     :\*\* Echoes My Note 歌：神楽麗
@@ -451,6 +461,8 @@
   - サイコーCOUNT UP\!
     作詞：結城アイラ、作曲：本多友紀（Arte Refact）、編曲：山本恭平（Arte Refact）
     伊瀬谷四季の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 03
     :\*\* サイコーCOUNT UP\! 歌：伊瀬谷四季
@@ -463,6 +475,8 @@
   - ふわもこシフォンなゆめのなか♪
     作詞：真崎エリカ、作曲・編曲：本多友紀（Arte Refact）
     姫野かのんの持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 03
     :\*\* ふわもこシフォンなゆめのなか♪ 歌：姫野かのん
@@ -487,6 +501,8 @@
   - 流るゝ風の如く 〜和敬清寂〜
     作詞：松井洋平、作曲・編曲：原田アツシ
     清澄九郎の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 04
     :\*\* 流るゝ風の如く 〜和敬清寂〜 歌：清澄九郎
@@ -535,6 +551,8 @@
   - HAPPY×HAPPYミーティング
     作詞：真崎エリカ、作曲：原田篤（Arte Refact）、編曲：脇眞富（Arte Refact）
     天ヶ瀬冬馬の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 06
     :\*\* HAPPY×HAPPYミーティング 歌：天ヶ瀬冬馬
@@ -553,6 +571,8 @@
   - 漢一貫ロックン・ロール
     作詞：結城アイラ、作曲・編曲：増田武史
     紅井朱雀の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 06
     :\*\* 漢一貫ロックン・ロール 歌：紅井朱雀
@@ -565,6 +585,8 @@
   - Flowing Freedom
     作詞：松井洋平、作曲：本多友紀（Arte Refact）、編曲：山本恭平（Arte Refact）
     北村想楽の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 06
     :\*\* Flowing Freedom 歌：北村想楽
@@ -583,6 +605,8 @@
   - A CUP OF HAPPINESS
     作詞：松井洋平、作曲・編曲：EFFY
     神谷幸広の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 07
     :\*\* A CUP OF HAPPINESS 歌：神谷幸広
@@ -613,12 +637,16 @@
   - Learning Message
     作詞：松井洋平、作曲：桑原聖（Arte Refact）、編曲：酒井拓也（Arte Refact）
     硲道夫の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 08
     :\*\* Learning Message 歌：硲道夫
   - ハートフル・パトローラー
     作詞：真崎エリカ、作曲：本多友紀（Arte Refact）、編曲：脇眞富（Arte Refact）
     握野英雄の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 08
     :\*\* ハートフル・パトローラー 歌：握野英雄
@@ -643,6 +671,8 @@
   - “W”orldwide Ambitions\!
     作詞：松井洋平、作曲・編曲：渡辺和紀
     蒼井悠介の持ち歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ORIGIN@L PIECES 09
     :\*\* “W”orldwide Ambitions\! 歌：蒼井悠介
@@ -750,6 +780,8 @@
 
   - MEET THE WORLD\!
     作詞：真崎エリカ、作曲・編曲：山口朗彦
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM WORLD TRE@SURE 01
     :\*\*MEET THE WORLD\! \[FRANCE Ver.\] 歌：天道輝・握野英雄・紅井朱雀・葛之葉雨彦
@@ -803,6 +835,8 @@
 
   - PRIDE STAR
     作詞：BNSI(柿埜嘉奈子)、作曲・編曲：本多友紀(Arte Refact)
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM 5th ANNIVERSARY DISC 01 PRIDE STAR
     :\*\*PRIDE STAR 歌：
@@ -886,6 +920,26 @@
       - 収録CD
     :\* THE IDOLM@STER SideM 5th ANNIVERSARY DISC 05 Altessimo&彩\&High×Joker
     :\*\*Singing Explorers 歌：&&
+  - 運命光年
+    作詞：真崎エリカ、作曲：Ryu、編曲：日置江佑一朗
+      - 収録CD
+    :\* THE IDOLM@STER SideM 5th ANNIVERSARY DISC 06 Jupiter\&Beit\&THE 虎牙道
+    :\*\*運命光年 歌：
+  - Avenue Illusion\!
+    作詞：真崎エリカ、作曲・編曲：山口朗彦
+      - 収録CD
+    :\* THE IDOLM@STER SideM 5th ANNIVERSARY DISC 06 Jupiter\&Beit\&THE 虎牙道
+    :\*\*Avenue Illusion\! 歌：
+  - PROOF OF ONESELF
+    作詞：結城アイラ、作曲・編曲：中野領太
+      - 収録CD
+    :\* THE IDOLM@STER SideM 5th ANNIVERSARY DISC 06 Jupiter\&Beit\&THE 虎牙道
+    :\*\*PROOF OF ONESELF 歌：
+  - いつかのトライアングル
+    作詞：結城アイラ、作曲・編曲：山口朗彦
+      - 収録CD
+    :\* THE IDOLM@STER SideM 5th ANNIVERSARY DISC 06 Jupiter\&Beit\&THE 虎牙道
+    :\*\*いつかのトライアングル 歌：&&
 
 ## アニメ関連楽曲
 
@@ -952,6 +1006,8 @@
   - GLORIOUS RO@D
     作詞：松井洋平、作曲・編曲：渡辺拓也
     アニメ『アイドルマスター SideM』第13話挿入歌。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM ANIMATION PROJECT 08 GLORIOUS RO@D
     :\*\* GLORIOUS RO@D 歌：・・・・・
@@ -1018,18 +1074,24 @@
   - LET'S GO\!\!
     作詞：松井洋平、作曲・編曲：no_my
     アニメ『アイドルマスター SideM 理由あってMini\!』エンディングテーマ。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM WakeMini\! MUSIC COLLECTION 01
     :\*\* LET'S GO\!\! 歌：
   - Friendly Smile
     作詞：結城アイラ、作曲・編曲：島崎貴光
     アニメ『アイドルマスター SideM 理由あってMini\!』エンディングテーマ。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM WakeMini\! MUSIC COLLECTION 02
     :\*\* Friendly Smile 歌：
   - POKER FAITH -ポーカーフェイス-
     作詞：真崎エリカ、作曲・編曲：石井健太郎
     アニメ『アイドルマスター SideM 理由あってMini\!』エンディングテーマ。
+      - 収録作品
+    :\* アイドルマスター SideM LIVE ON ST@GE\! - 条件を満たすと使用可能
       - 収録CD
     :\* THE IDOLM@STER SideM WakeMini\! MUSIC COLLECTION 03
     :\*\* Friendly Smile 歌：

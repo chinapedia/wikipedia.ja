@@ -11,6 +11,7 @@
 
 ## ディスコグラフィー
 
+  - Play It Again (2013)
   - Mala Santa (2019)
 
 ## 脚注

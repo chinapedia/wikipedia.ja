@@ -13,7 +13,7 @@
 ※特記以外は作詞、作曲はさかいゆう
 
 1.  **Hey Gaia**
-      - プロデュース：[Stuart Zender](https://ja.wikipedia.org/wiki/スチュワート・ゼンダー "wikilink")
+      - プロデュース：[Stuart Zender](https://ja.wikipedia.org/wiki/スチュアート・ゼンダー "wikilink")
 2.  **Getting To Love You**
       - 作詞・作曲：さかいゆう、Dr.R、Avena Savage
 3.  **She's Gettin' Married**

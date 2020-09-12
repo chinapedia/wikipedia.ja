@@ -1,7 +1,7 @@
 > この記事は[ケネス・R・ワインシュタイン](https://ja.wikipedia.org/wiki/ケネス・R・ワインシュタイン)から翻訳されています。
 
 
-ケネス・Ｒ・ワインシュタイン（*Kenneth R. Weinstein*、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")\[1\] - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治理論家、外交研究者。[ハドソン研究所](https://ja.wikipedia.org/wiki/ハドソン研究所 "wikilink")所長。
+[GovernorWeinstein4x4.jpg](https://ja.wikipedia.org/wiki/File:GovernorWeinstein4x4.jpg "fig:GovernorWeinstein4x4.jpg") **ケネス・R・ワインシュタイン**（*Kenneth R. Weinstein*、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[11月4日](../Page/11月4日.md "wikilink")\[1\] - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治理論家、外交研究者。[ハドソン研究所](https://ja.wikipedia.org/wiki/ハドソン研究所 "wikilink")所長。
 
 ## 人物
 
@@ -11,9 +11,9 @@
 
 2011年にハドソン研究所所長に就任\[4\]。
 
-2018年に日本国を訪問し、[外務大臣](../Page/外務大臣.md "wikilink")・[河野太郎](../Page/河野太郎.md "wikilink")（当時）と幅広く意見交換を実施した\[5\]。
+2018年に日本国を訪問し、当時の[外務大臣](../Page/外務大臣.md "wikilink")・[河野太郎](../Page/河野太郎.md "wikilink")と幅広く意見交換を実施した\[5\]。
 
-2020年3月13日、[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")より[駐日アメリカ合衆国大使](../Page/駐日アメリカ合衆国大使.md "wikilink")に指名された\[6\]\[7\]\[8\]。3月18日、合衆国上院に指名の承認が提出された\[9\]
+2020年3月13日、[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")より[駐日アメリカ合衆国大使](../Page/駐日アメリカ合衆国大使.md "wikilink")に指名された\[6\]\[7\]\[8\]。3月18日、合衆国上院に指名の承認が提出された\[9\]。その後、指名承認の議案は上院外交員会に付託されたものの公聴会など必要な手続きが遅れ\[10\]、8月5日にようやくオンライン形式で公聴会が開かれた\[11\]\[12\]。
 
 ## 脚注
 
@@ -28,7 +28,10 @@
 3.
 4.  [米大統領、駐日大使にワインスタイン氏指名 保守系シンクタンク所長](https://www.jiji.com/jc/article?k=2020031400357&g=int) 時事通信 2020年3月14日発信・閲覧
 5.  [ワインシュタイン・ハドソン研究所所長一行による河野外務大臣表敬](https://www.mofa.go.jp/mofaj/na/na1/us/page3_002464.html) 日本国外務省 2018年5月18日発信・閲覧
-6.  [President Donald J. Trump Announces Intent to Nominate the Following Individual to a Key Administration Post](https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-following-individual-key-administration-post-2/) The White House March 13, 2020
+6.
 7.
-8.
+8.  [President Donald J. Trump Announces Intent to Nominate the Following Individual to a Key Administration Post](https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-following-individual-key-administration-post-2/) The White House March 13, 2020
 9.
+10.
+11.
+12.

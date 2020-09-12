@@ -47,6 +47,10 @@
   - 2018年 - 千葉県・青森県・埼玉県・三重県
   - 2019年 - 神奈川県・岐阜県\[24\]
 
+## 提供番組　
+
+  - [VOICE愛](https://ja.wikipedia.org/wiki/VOICE愛 "wikilink")（[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")）
+
 ## 脚注
 
 ## 外部リンク

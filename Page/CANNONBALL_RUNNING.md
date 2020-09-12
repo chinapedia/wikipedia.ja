@@ -13,7 +13,7 @@
 
 3曲目の「**Love Fight\!**」は、映画『[ナイトメアー・ビフォア・クリスマス](../Page/ナイトメアー・ビフォア・クリスマス.md "wikilink")』のようなダークファンタジーをイメージしたダンス曲\[4\]。
 
-4曲目の「**DAYBREAKERS**」は、[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")のスマートフォンゲーム『[重装戦姫](https://ja.wikipedia.org/wiki/重装戦姫 "wikilink")』の[中国大陸](../Page/中国大陸.md "wikilink")および[繁体字](../Page/繁体字.md "wikilink")版主題歌\[5\]。
+4曲目の「**DAYBREAKERS**」は、[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")のスマートフォンゲーム『[ファイナルギア -重装戦姫-](https://ja.wikipedia.org/wiki/ファイナルギア_-重装戦姫- "wikilink")』の主題歌\[5\]。
 
 5曲目の「**Knock U down**」は[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』の2019年12月度・2020年1月度のオープニングテーマ\[6\]。
 
@@ -33,7 +33,7 @@
 
 15曲目の「**UPSETTER**」は水樹自ら作詞・作曲を行った。プロデューサーの三嶋から「メジャーコードの応援ソング」という「お題」をもとに製作されたが、この曲の製作時期は[ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink")の開催時期であり、曲のアイディアが降りてきたのが日本代表対南アフリカ代表戦の日であったという\[12\]。
 
-16曲目の「**ALL FOR LOVE**」は、2019年11月24日放送の[文化放送](../Page/文化放送.md "wikilink")『[水樹奈々 スマイル・ギャング](../Page/水樹奈々_スマイル・ギャング.md "wikilink")』において水樹は、この曲に出会ったのは「METANOIA」を製作している時期であったが、「デモを聴いて心をわしづかみにされた」というこの曲を「特別なときに形にしたい」として、約半年間暖める形で収録されたと語っている\[13\]。
+16曲目の「**ALL FOR LOVE**」は、2019年11月24日放送の[文化放送](../Page/文化放送.md "wikilink")『[水樹奈々 スマイルギャング](https://ja.wikipedia.org/wiki/水樹奈々_スマイルギャング "wikilink")』において水樹は、この曲に出会ったのは「METANOIA」を製作している時期であったが、「デモを聴いて心をわしづかみにされた」というこの曲を「特別なときに形にしたい」として、約半年間暖める形で収録されたと語っている\[13\]。
 
 17曲目の「**FINAL COMMANDER -Aufwachen Form-**」は、『戦姫絶唱シンフォギアXV』第1話挿入歌および第8話劇中歌。オープニングテーマの「METANOIA」と同じくロングイントロバージョンの「Aufwachen Form」として収録されている。
 

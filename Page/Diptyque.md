@@ -21,11 +21,13 @@ Website https://www.diptyqueparis.com
 
 2005年、 [ロンドン](../Page/ロンドン.md "wikilink")に拠点を置くManzanita Capitalによって同社が買収され[ました](../Page/ロンドン.md "wikilink") 。 \[1\] \[2\]
 
-*Philosykos*と*Ofresiaの*フレグランスは、 Olivia Giacobettiによって作成されました 。  <sup>\[ *[<span title="This claim needs references to reliable sources. (January 2016)">引用が必要</span>](https://ja.wikipedia.org/wiki/Wikipedia:「要出典」をクリックされた方へ "wikilink")* \]</sup> 2019年、ディプティックはフレグランスで複数のFIFI賞を受賞しました。ホリデー/シーズンフレグランスプロダクトオブザイヤー、レジェンドオブザノースコレクション。 \[3\]
+*Philosykos*と*Ofresiaの*フレグランスは、 Olivia Giacobettiによって作成されました 。
+
+2019年、ディプティックはフレグランスで複数のFIFI賞を受賞しました。ホリデー/シーズンフレグランスプロダクトオブザイヤー、レジェンドオブザノースコレクション。 \[3\]
 
 ## 小売店
 
-現在、ディプティックは[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")に数店舗、 [ロンドン](../Page/ロンドン.md "wikilink")に4店舗、 [トゥールーズ](../Page/トゥールーズ.md "wikilink") 、 [ミラノ](../Page/ミラノ.md "wikilink") 、 [東京](../Page/東京都.md "wikilink") 、 [ドーハ](../Page/ドーハ.md "wikilink") 、 [ドバイ](../Page/ドバイ.md "wikilink")に店舗を構えています。 米国では、Diptyqueのブティックは[オースティン](../Page/オースティン_\(テキサス州\).md "wikilink") 、 [ニューヨーク](../Page/ニューヨーク.md "wikilink") 、 [マイアミ](../Page/マイアミ.md "wikilink") 、 [アトランタ](../Page/アトランタ.md "wikilink") 、 [ビバリーヒルズ](../Page/ビバリーヒルズ.md "wikilink") 、 [サンフランシスコ](../Page/サンフランシスコ.md "wikilink") 、 [パロアルト](../Page/パロアルト_\(カリフォルニア州\).md "wikilink") 、 [ラスベガス](../Page/ラスベガス.md "wikilink") 、 [ロサンゼルス](../Page/ロサンゼルス.md "wikilink") 、 [ヒューストン](../Page/ヒューストン.md "wikilink")の リバーオークス地区 、 [ホノルル](../Page/ホノルル.md "wikilink") 、 [マイアミビーチ](https://ja.wikipedia.org/wiki/マイアミビーチ "wikilink") 、 [ダラス](../Page/ダラス.md "wikilink") 、 [シカゴ](../Page/シカゴ.md "wikilink")にあります。 。 各ブティックは、個々の都市の美学に合うように設計されています。
+現在、ディプティックは[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")に数店舗、 [ロンドン](../Page/ロンドン.md "wikilink")に4店舗、 [トゥールーズ](../Page/トゥールーズ.md "wikilink") 、 [ミラノ](../Page/ミラノ.md "wikilink") 、 [東京](../Page/東京都.md "wikilink") 、 [ドーハ](../Page/ドーハ.md "wikilink") 、 [ドバイ](../Page/ドバイ.md "wikilink")に店舗を構えています。 米国では、Diptyqueのブティックは[オースティン](../Page/オースティン_\(テキサス州\).md "wikilink") 、 [ニューヨーク](../Page/ニューヨーク.md "wikilink") 、 [マイアミ](../Page/マイアミ.md "wikilink") 、 [アトランタ](../Page/アトランタ.md "wikilink") 、 [ビバリーヒルズ](../Page/ビバリーヒルズ.md "wikilink") 、 [サンフランシスコ](../Page/サンフランシスコ.md "wikilink") 、 [パロアルト](../Page/パロアルト_\(カリフォルニア州\).md "wikilink") 、 [ラスベガス](../Page/ラスベガス.md "wikilink") 、 [ロサンゼルス](../Page/ロサンゼルス.md "wikilink") 、 [ヒューストン](../Page/ヒューストン.md "wikilink")の リバーオークス地区 、 [ホノルル](../Page/ホノルル.md "wikilink") 、 [マイアミビーチ](https://ja.wikipedia.org/wiki/マイアミビーチ "wikilink") 、 [ダラス](../Page/ダラス.md "wikilink") 、 [シカゴ](../Page/シカゴ.md "wikilink")にあります。 各ブティックは、個々の都市の美学に合うように設計されています。
 
 ## 香り
 

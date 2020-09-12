@@ -115,6 +115,7 @@
 <table>
 <thead>
 <tr class="header">
+<th><p>数</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲</p></th>
@@ -123,6 +124,7 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>1st</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
 <td><p><strong>Light Of The World</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -135,9 +137,10 @@
 </ol>
 </div>
 </div></td>
-<td><p>配信限定</p></td>
+<td><p>3作連続配信リリース第1弾</p></td>
 </tr>
 <tr class="even">
+<td><p>2nd</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月23日.md" title="wikilink">5月23日</a></p></td>
 <td><p><strong>GRIMM</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -150,10 +153,11 @@
 </ol>
 </div>
 </div></td>
-<td><p>配信限定</p></td>
+<td><p>3作連続配信リリース第2弾</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月1日.md" title="wikilink">7月1日</a> (予定)</p></td>
+<td><p>3rd</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
 <td><p><strong>everyday</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -165,7 +169,23 @@
 </ol>
 </div>
 </div></td>
-<td><p>配信限定</p></td>
+<td><p>3作連続配信リリース第3弾</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
+<td><p><strong>羊</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>羊</li>
+</ol>
+</div>
+</div></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -182,6 +202,7 @@
 | 「[week](https://m.youtube.com/watch?v=KvQJ5N99aZE)」                  |
 | 「[Light Of The World](https://m.youtube.com/watch?v=suXe_dMn7Eg)」    |
 | 「[GRIMM](https://m.youtube.com/watch?v=o0lgQsyP7to)」                 |
+| 「[everyday](https://m.youtube.com/watch?v=bsKi2C3se_Q)」              |
 
 ## 脚注
 

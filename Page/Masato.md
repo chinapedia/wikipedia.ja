@@ -1,11 +1,11 @@
 > この記事は[Masato](https://ja.wikipedia.org/wiki/Masato)から翻訳されています。
 
 
-[Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg](https://ja.wikipedia.org/wiki/File:Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg "fig:Coldrain-Rock_im_Park_2014_by_2eight_DSC6259.jpg")  **Masato** （マサト、早川雅人、*Masato David Hayakawa*, [1986年](../Page/1986年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ロックバンド[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")のメンバーであり、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。
+**Masato** （マサト、早川雅人、*Masato David Hayakawa*, [1986年](../Page/1986年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ロックバンド[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")のメンバーであり、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当。
 
 ## 略歴
 
-  - 父親が日本人、母親がアメリカ人を持つ<ref name="intothenetwork">
+  - 父親が日本人、母親がアメリカ人である<ref name="intothenetwork">
 
 </ref>。母親は元々教師であり、強制的に英語を学ばされていた。幼少期の頃から家では母親とは英語で話をする。そのため日本語と英語の両方を話せる\[1\]\[2\]。
 

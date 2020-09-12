@@ -35,7 +35,7 @@
 <td><p><strong>CALL&amp;GOAL!【Prima Porta盤】</strong></p></td>
 <td><p>XNST-10022</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead">
+<div class="NavHead" style="text-align:center;">
 <p>全6曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -55,7 +55,7 @@
 <td><p><strong>CALL&amp;GOAL!【GO GO!ブロンコス盤】</strong></p></td>
 <td><p>XNST-10023</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead">
+<div class="NavHead" style="text-align:center;">
 <p>全6曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -75,11 +75,25 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p>2020年7月22日予定</p></td>
-<td><p>未定 </p></td>
+<td><p>2020年7月22日</p></td>
+<td><p><strong>キャット・ザ・シーフ！</strong></p></td>
 <td><p>XNST-10024</p></td>
-<td><p>全3曲 + 各カラオケ収録予定</p></td>
-<td><p>TBA</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>キャット・ザ・シーフ！</li>
+<li>ねこ中</li>
+<li>負けないミライ</li>
+<li>キャット・ザ・シーフ！(Off Vocal)</li>
+<li>ねこ中(Off Vocal)</li>
+<li>負けないミライ(Off Vocal)
+</div>
+</div></li>
+</ol></td>
+<td><p>20位</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -118,7 +132,7 @@
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
+[Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
 1.
 2.

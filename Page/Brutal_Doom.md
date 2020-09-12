@@ -13,7 +13,7 @@
 
 ## 評価
 
-このModはジョン・ロメロの称賛を受け、彼は[Id SoftwareがBrutal](../Page/Id_Software.md "wikilink") Doomの機能を備えたオリジナルのDoomをリリースしていたら、「ゲーム業界を破壊していた」と冗談交じりに語っている\[10\]。
+このModは[ジョン・ロメロ](https://ja.wikipedia.org/wiki/ジョン・ロメロ "wikilink")の称賛を受け、彼は[Id SoftwareがBrutal](../Page/Id_Software.md "wikilink") Doomの機能を備えたオリジナルのDoomをリリースしていたら、「ゲーム業界を破壊していた」と冗談交じりに語っている\[10\]。
 
 [Polygon](https://ja.wikipedia.org/wiki/Polygon "wikilink")のクリス・プランテは、本modを「吐き気がする」「ヒステリック」と呼んだ\[11\]。[Kotaku](../Page/Kotaku.md "wikilink")のアンドラス・ネルツは、本Modが「大物Modの一つになりつつある」と述べた\[12\]。TechRadarは本Modを「これまでで最も近代化された壮観なDoomのMod」と称した\[13\]。
 
@@ -23,8 +23,9 @@ Brutal Doomは、2012年にMod DBの「Mod of the Year」賞を受賞した\[15\
 
 ## 関連項目
 
-  -
-  -
+  - [Doomの改造](https://ja.wikipedia.org/wiki/Doomの改造 "wikilink")
+  - [Doomのソース移植一覧](https://ja.wikipedia.org/wiki/Doomのソース移植一覧 "wikilink")
+
 ## 脚注
 
 [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink")

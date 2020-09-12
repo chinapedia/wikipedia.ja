@@ -22,7 +22,7 @@
 
 <references />
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:中国のブランド](https://ja.wikipedia.org/wiki/Category:中国のブランド "wikilink")
+[Category:Debian派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Debian派生ディストリビューション "wikilink") [Category:中国のブランド](https://ja.wikipedia.org/wiki/Category:中国のブランド "wikilink")
 
 1.
 2.

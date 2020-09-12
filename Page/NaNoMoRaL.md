@@ -141,7 +141,7 @@
   -
   -
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink")
 
 1.
 2.

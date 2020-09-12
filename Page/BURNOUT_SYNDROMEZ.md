@@ -1,7 +1,7 @@
 > この記事は[BURNOUT SYNDROMEZ](https://ja.wikipedia.org/wiki/BURNOUT_SYNDROMEZ)から翻訳されています。
 
 
-『**BURNOUT SYNDROMEZ**』（バーンアウト・シンドロームズ）は、[BURNOUT SYNDROMESのコンセプト](https://ja.wikipedia.org/wiki/BURNOUT_SYNDROMES "wikilink")・ベストアルバム。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[EPICレコードジャパンから発売予定](../Page/エピックレコードジャパン.md "wikilink")\[1\]。
+『**BURNOUT SYNDROMEZ**』（バーンアウト・シンドロームズ）は、[BURNOUT SYNDROMESのコンセプト](https://ja.wikipedia.org/wiki/BURNOUT_SYNDROMES "wikilink")・ベストアルバム。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[EPICレコードジャパンから発売された](../Page/エピックレコードジャパン.md "wikilink")\[1\]。
 
 ## 概要
 

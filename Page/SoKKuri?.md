@@ -5,7 +5,7 @@
 
 ## 概要
 
-自分が似ていると思う芸能人や有名人同士の[ペア](https://ja.wikipedia.org/wiki/ペア "wikilink")を投稿することができる。投稿したペアは、管理人による[承認](https://ja.wikipedia.org/wiki/承認 "wikilink")後、「新着そっくりさん」に表示される。誰かが投稿したペアに「○ そっくり！」(以下○)もしくは「× 似てない...」(以下×)の判定をすることもでき、判定すると○と×それぞれの票数や、○の票数を○と×の合計票数で[除算](https://ja.wikipedia.org/wiki/除算 "wikilink")して100倍した値(そっくり率)が表示される。また、投稿時には[任意](../Page/任意.md "wikilink")で自分の[ハンドルネーム](../Page/ハンドルネーム.md "wikilink")やサイトの[URL](https://ja.wikipedia.org/wiki/URL "wikilink")などを[設定](https://ja.wikipedia.org/wiki/設定 "wikilink")することもできる。
+自分が似ていると思う芸能人や有名人同士の[ペア](https://ja.wikipedia.org/wiki/ペア "wikilink")を投稿することができる。投稿したペアは、管理人による[承認](https://ja.wikipedia.org/wiki/承認 "wikilink")後、「新着そっくりさん」に表示される。誰かが投稿したペアに「○ そっくり！」（以下○）もしくは「× 似てない...」（以下×）の判定をすることもでき、判定すると○と×それぞれの票数や、○の票数を○と×の合計票数で[除算](https://ja.wikipedia.org/wiki/除算 "wikilink")して100倍した値（そっくり率）が表示される。また、投稿時には[任意](../Page/任意.md "wikilink")で自分の[ハンドルネーム](../Page/ハンドルネーム.md "wikilink")やサイトの[URL](https://ja.wikipedia.org/wiki/URL "wikilink")などを[設定](https://ja.wikipedia.org/wiki/設定 "wikilink")することもできる。
 
 ## 承認されない場合
 
@@ -31,7 +31,7 @@
 
   - [SoKKuri?](https://sokkuri.net)
 
-[Category:2008年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2008年開設のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink")
+[Category:2008年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2008年開設のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:肖像画](https://ja.wikipedia.org/wiki/Category:肖像画 "wikilink") [Category:ポートレート・アート](https://ja.wikipedia.org/wiki/Category:ポートレート・アート "wikilink")
 
 1.
 2.   そっくり?soKKuri?|url=[https://sokkuri.net/cont-info.php|website=そっくり?soKKuri](https://sokkuri.net/cont-info.php%7Cwebsite=そっくり?soKKuri)? 似ている？似てない？|accessdate=2020-04-16}}

@@ -21,4 +21,4 @@ Doom: The Boardgameのプレイヤーはインベーダーとマリーンの2つ
   - [FFGのアーカイブ](https://web.archive.org/web/20121101040641/http://www.fantasyflightgames.com/edge_nrep.asp?eidm=19)、*Doom：The Board Game*セクション
 
   -
-[Category:ボードゲーム](https://ja.wikipedia.org/wiki/Category:ボードゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink")
+[Category:ボードゲーム](https://ja.wikipedia.org/wiki/Category:ボードゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:Doom_(フランチャイズ)](https://ja.wikipedia.org/wiki/Category:Doom_\(フランチャイズ\) "wikilink")

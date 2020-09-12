@@ -1,13 +1,12 @@
 > この記事は[Rupo Time](https://ja.wikipedia.org/wiki/Rupo_Time)から翻訳されています。
 
 
-**Rupo Time**（るぽたいむ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")であり、その[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルの名前。2020年2月に結成された男女混成の歌って踊るアーティストグループ。メンバーそれぞれが個々でも活動している。rupotimeやRupoTimeなどの表記も一部SNS上でされている。
+**Rupo Time**（るぽたいむ）は、2020年2月に結成された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混成の歌って踊るアーティストグループ。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にカバー曲を投稿している。メンバーそれぞれが個々でも活動している。
 
 ## メンバー
 
-**◆　現メンバー**
-
 <table>
+<caption>現メンバー</caption>
 <thead>
 <tr class="header">
 <th><p>名前</p></th>
@@ -31,7 +30,7 @@
 </tr>
 <tr class="odd">
 <td><p>石川 裕太 （いしかわ ゆうた）</p></td>
-<td><p>24歳</p></td>
+<td><p>1995.08.29（25歳）</p></td>
 <td><p>福岡県</p></td>
 <td><p>Vocal Keyboard</p></td>
 </tr>
@@ -43,13 +42,13 @@
 </tr>
 <tr class="odd">
 <td><p>齊藤 賢太 （さいとう けんた）</p></td>
-<td><p>1995.06.11（24歳）</p></td>
+<td><p>1995.06.11（25歳）</p></td>
 <td><p>長野県</p></td>
 <td><p>Vocal Dance</p></td>
 </tr>
 <tr class="even">
 <td><p>佐々木 美來 （ささき みく）</p></td>
-<td><p>2002.06.06（17歳）</p></td>
+<td><p>2002.06.06（18歳）</p></td>
 <td><p>兵庫県</p></td>
 <td><p>Vocal Dance</p></td>
 </tr>
@@ -67,7 +66,7 @@
 </tr>
 <tr class="odd">
 <td><p>杉本 瑠夏 （すぎもと るな）</p></td>
-<td><p>1999.08.05（20歳）</p></td>
+<td><p>1999.08.05（21歳）</p></td>
 <td><p>東京都</p></td>
 <td><p>Vocal Ukulele</p>
 <p>Guitar</p>
@@ -88,13 +87,13 @@
 </tr>
 <tr class="even">
 <td><p>山田 芽依 （やまだ めい）</p></td>
-<td><p>1999.05.13（20歳）</p></td>
+<td><p>1999.05.13（21歳）</p></td>
 <td><p>愛知県</p></td>
 <td><p>Vocal Keyboard</p></td>
 </tr>
 <tr class="odd">
 <td><p>柚木 みいな （ゆずき みいな）</p></td>
-<td><p>1999.08.25（20歳）</p></td>
+<td><p>1999.08.25（21歳）</p></td>
 <td><p>愛知県</p></td>
 <td><p>Vocal Guitar</p>
 <p>Keyboard</p>
@@ -120,9 +119,8 @@
 
 ## 外部リンク
 
-  - [YouTube](https://www.youtube.com/channel/UC_Hfb4t6B-o1E-C6_XQJHzw)
-  - [Instagram](https://www.instagram.com/rupotime_artistgroup/)
-  - [Twitter](https://twitter.com/RupoTime)
-  - [TikTok](https://www.tiktok.com/@rupotime)
-
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:YouTubeの歌い手](https://ja.wikipedia.org/wiki/Category:YouTubeの歌い手 "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
+  -
+  -
+  -
+  -
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:YouTubeの歌い手](https://ja.wikipedia.org/wiki/Category:YouTubeの歌い手 "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")

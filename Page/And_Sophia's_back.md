@@ -32,6 +32,7 @@
 2.  **He's a Lonely Guy**
 3.  **プリテンダー**
 4.  **今宵かぎりのcheek to cheek**
+      - [2013年](../Page/2013年.md "wikilink")にリリースされた[大澤誉志幸](../Page/大澤誉志幸.md "wikilink")とのコラボレーションアルバム『\&Friends』\[1\]にて[セルフカヴァーした](../Page/セルフカバー.md "wikilink")。
 5.  **[Cry For The Moon](../Page/瞳いっぱいの涙.md "wikilink")**
       - シングル「瞳いっぱいの涙」のB面曲。
 
@@ -59,4 +60,11 @@
 
 ### 出典
 
+## 外部リンク
+
+  - [日本コロムビア](../Page/日本コロムビア.md "wikilink")による紹介ページ
+      - [and Sophia's back](https://columbia.jp/artist-info/yamashitakumiko/discography/CORR-10213.html)
+
 [Category:山下久美子のアルバム](https://ja.wikipedia.org/wiki/Category:山下久美子のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:1985年のアルバム](https://ja.wikipedia.org/wiki/Category:1985年のアルバム "wikilink")
+
+1.

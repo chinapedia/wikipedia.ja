@@ -1,0 +1,6 @@
+> この記事は[SHIGA AOI Individual business](https://ja.wikipedia.org/wiki/SHIGA_AOI_Individual_business)から翻訳されています。
+
+
+**SHIGA AOI Individual business**（Shiga Aoi 개인 사업 회사）は建築を基準に世界の家具や家財品、食材等の物資の輸入を中心として多角経営を行っている韓国と日本の会社。
+
+[Category:建築に関するサービス業](https://ja.wikipedia.org/wiki/Category:建築に関するサービス業 "wikilink") [Category:インテリアに関する企業](https://ja.wikipedia.org/wiki/Category:インテリアに関する企業 "wikilink") [Category:日本の家具店](https://ja.wikipedia.org/wiki/Category:日本の家具店 "wikilink") [Category:日本の商社](https://ja.wikipedia.org/wiki/Category:日本の商社 "wikilink") [Category:韓国の企業](https://ja.wikipedia.org/wiki/Category:韓国の企業 "wikilink") [Category:左京区の企業](https://ja.wikipedia.org/wiki/Category:左京区の企業 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:日本の廃棄物処理業者](https://ja.wikipedia.org/wiki/Category:日本の廃棄物処理業者 "wikilink") [Category:日本の製造業](https://ja.wikipedia.org/wiki/Category:日本の製造業 "wikilink") [Category:日本の労働者派遣事業者](https://ja.wikipedia.org/wiki/Category:日本の労働者派遣事業者 "wikilink")

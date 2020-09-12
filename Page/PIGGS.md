@@ -18,9 +18,11 @@
   - 1月6日 - プー・ルイが株式会社WACKの渡辺淳之介出資のもと会社を起ち上げ、社長兼プロデューサー兼メンバーのもと新アイドルグループを結成することを発表。グループ名は「アイドル研究所(仮)」とし、メンバーオーディションを2月2日に開催することも発表した\[6\]。
   - 2月29日 - オーディションの結果3名の合格者が出たが、1名が活動を辞退したことから、追加メンバー募集を行うことになったと発表\[7\]。
   - 3月20日、21日 - 株式会社WACKにて全員面接オーディションを開催\[8\]。
-  - 4月7日 - グループのメンバーと同居することを発表し、メンバーの後ろ姿を公開\[9\]。
-  - 4月19日 - 4月19日 – グループ名を**PIGGS（ピグス）**とすること。メンバーの写真と名前を公開。また、7月1日にデビューアルバムをリリースすることを発表。YouTubeにて毎日生放送を行った\[10\]。
-  - 7月1日 - デビューアルバム「HALLO PIGGS」をリリース\[11\]。
+  - 4月7日 - グループのメンバーと同居することを発表\[9\]し、メンバーの後ろ姿を公開\[10\]。
+  - 4月19日 - グループ名を**PIGGS（ピグス）**とすることと、メンバーの写真と名前を公開し、7月1日にデビューアルバムをリリースすることを発表。同日よりYouTubeにて生配信企画「I HATE PIGGS」がスタート。メンバーが100ある課題に挑んでいき、課題のクリア数によって楽曲が順次先行公開された。またメンバーが企画編集した動画も毎日配信された\[11\]。
+  - 5月1日 - 5月30日 - [CAMPFIREで](https://ja.wikipedia.org/wiki/CAMPFIRE_\(クラウドファンディング\) "wikilink")[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")を実施\[12\]。目標金額を大きく上回る11,761,000円の支援が寄せられた。
+  - 7月1日 - デビューアルバム「HALLO PIGGS」をリリース\[13\]。
+  - 7月25日 - 渋谷O-nestにてお披露目ライブ「はじめましてPIGGSです\!\!〜東京編〜」を開催。1公演35席で2回公演を行った\[14\]\[15\]。
 
 ## メンバー
 
@@ -48,52 +50,50 @@
 <tr class="even">
 <td><p><strong>CHIYO-P</strong><br />
 チヨピー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a>[12]<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a>[16]<br />
 (育ちは埼玉県)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">2月28日</a></p></td>
 <td><p>O型</p></td>
 <td><p>151cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>1次オーデション合格者[13]。</p></td>
+<p>1次オーデション合格者[17]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>SHELLME</strong><br />
 シェルミー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/豊橋市.md" title="wikilink">豊橋市</a>[14]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/豊橋市.md" title="wikilink">豊橋市</a>[18]</p></td>
 <td><p><a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p>O型</p></td>
 <td><p>164cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>追加オーデション合格者[15]。</p>
-<p>モデルのオーディション準グランプリ[16]</p></td>
+<p>追加オーデション合格者[19]。 モデルのオーディション準グランプリ[20]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>UMI</strong><br />
 ウミ</p></td>
-<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a>[17]</p></td>
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a>[21]</p></td>
 <td><p><a href="../Page/11月5日.md" title="wikilink">11月5日</a></p></td>
 <td><p>A型</p></td>
 <td><p>156cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>1次オーデション合格者[18]。</p>
-<p>3人姉妹[19]。</p>
-<p>学生時代はバスケ部[20]。</p></td>
+<p>1次オーデション合格者[22]。 3人姉妹[23]。 学生時代はバスケ部[24]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>BAN-BAN</strong><br />
 バンバン</p></td>
-<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a>[21]</p></td>
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a>[25]</p></td>
 <td><p><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
 <td><p>B型</p></td>
 <td><p>160cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>追加オーデション合格者[22]。</p>
-<p><a href="https://ja.wikipedia.org/wiki/東京大学" title="wikilink">東京大学</a>在学中[23]。</p></td>
+<p>追加オーデション合格者[26]。 <a href="https://ja.wikipedia.org/wiki/東京大学" title="wikilink">東京大学</a>在学中[27]。</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 作品
+
+※順位は[オリコン・ウィークリーランキング最高順位](../Page/オリコンチャート.md "wikilink")\[28\]。
 
 ### アルバム
 
@@ -112,7 +112,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><strong>HALLO PIGGS</strong>[24]</p></td>
+<td><p><strong>HALLO PIGGS</strong>[29]</p></td>
 <td><p>2020年7月1日</p></td>
 <td><p>PIGGS-000001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -136,11 +136,17 @@
 </ol>
 </div>
 </div></td>
-<td></td>
+<td><p>43位</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+## ライブ
+
+| 公演名           | 開催日   | 会場         | 備考                |
+| ------------- | ----- | ---------- | ----------------- |
+| はじめましてPIGGSです | ～東京編～ | 2020年7月25日 | 東京・TSUTAYA O-nest |
 
 ## 脚注
 
@@ -156,7 +162,7 @@
   -
   -
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")
 
 1.
 2.
@@ -166,7 +172,7 @@
 6.
 7.
 8.
-9.
+9.  「I HATE PIGGS」終了後は、SHELLMEとBAN-BANが同居を継続。
 10.
 11.
 12.
@@ -182,3 +188,8 @@
 22.
 23.
 24.
+25.
+26.
+27.
+28.
+29.

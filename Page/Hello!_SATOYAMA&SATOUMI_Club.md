@@ -16,12 +16,12 @@
   - 現在の出演者
     {| class="wikitable"
 
-\!出演者\!\!初出演 |- |[小野瑞歩（つばきファクトリー）](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")||2017年7月1日 |- |[高瀬くるみ（BEYOOOOONDS）](https://ja.wikipedia.org/wiki/BEYOOOOONDS "wikilink")||2019年7月20日 |}
+\!出演者\!\!初出演 |- |[小野瑞歩](https://ja.wikipedia.org/wiki/小野瑞歩 "wikilink")（[つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")）||2017年7月1日 |- |[高瀬くるみ](https://ja.wikipedia.org/wiki/高瀬くるみ "wikilink")（[BEYOOOOONDS](https://ja.wikipedia.org/wiki/BEYOOOOONDS "wikilink")）||2019年7月20日 |}
 
   - 過去の出演者
     {| class="wikitable"
 
-\!出演者\!\!出演期間 |- |[須藤茉麻](../Page/須藤茉麻.md "wikilink")（[Berryz工房](../Page/Berryz工房.md "wikilink")）||2014年4月18日 - 2015年1月31日 |- |[矢島舞美](../Page/矢島舞美.md "wikilink")（[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）||2014年4月25日 - 2017年5月20日 |- |[宮崎由加](https://ja.wikipedia.org/wiki/宮崎由加 "wikilink")（[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")）||2014年4月5日 - 2019年6月15日 |- |[岸本ゆめの（つばきファクトリー）](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")||2019年11月9日 - 2019年11月16日 |}
+\!出演者\!\!出演期間\!\!備考 |- |[須藤茉麻](../Page/須藤茉麻.md "wikilink")（[Berryz工房](../Page/Berryz工房.md "wikilink")）||2014年4月18日 - 2015年1月31日|| |- |[矢島舞美](../Page/矢島舞美.md "wikilink")（[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）||2014年4月25日 - 2017年5月20日|| |- |[宮崎由加](https://ja.wikipedia.org/wiki/宮崎由加 "wikilink")（[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")）||2014年4月5日 - 2019年6月15日|| |- |[岸本ゆめの](https://ja.wikipedia.org/wiki/岸本ゆめの "wikilink")（[つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")）||2019年11月9日 - 2019年11月16日||\[1\] |}
 
 ## 放送局・放送時間
 
@@ -161,8 +161,12 @@
 
 :\* 聞き手：福田良平
 
+## 注釈
+
 ## 外部リンク
 
   -
   -
 [Category:ハロー\!プロジェクト関連の放送番組](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連の放送番組 "wikilink") [Category:2014年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2014年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ日本の番組](https://ja.wikipedia.org/wiki/Category:ラジオ日本の番組 "wikilink") [Category:ラジオ日本ハロプロアワー](https://ja.wikipedia.org/wiki/Category:ラジオ日本ハロプロアワー "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:山梨放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山梨放送のラジオ番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+
+1.  小野瑞歩の代打で出演。

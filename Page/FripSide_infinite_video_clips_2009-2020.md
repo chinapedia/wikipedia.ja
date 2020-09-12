@@ -1,7 +1,7 @@
 > この記事は[FripSide infinite video clips 2009-2020](https://ja.wikipedia.org/wiki/FripSide_infinite_video_clips_2009-2020)から翻訳されています。
 
 
-『**fripSide infinite video clips 2009-2020**』（フリップサイド・インフィニット・ビデオ・クリップス・ツーサウザンドナイン・ツーサウザンドトゥエンティ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")の4枚目の映像作品。[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[NBCユニバーサル・エンターテイメントから発売予定](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")。
+『**fripSide infinite video clips 2009-2020**』（フリップサイド・インフィニット・ビデオ・クリップス・ツーサウザンドナイン・ツーサウザンドトゥエンティ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")の4枚目の映像作品。[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[NBCユニバーサル・エンターテイメントから発売](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")。
 
 ## 概要
 

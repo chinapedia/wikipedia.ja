@@ -28,7 +28,7 @@
       - 作詞：[阿久悠](../Page/阿久悠.md "wikilink")、作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")、編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")、歌：[ヤング・フレッシュ](../Page/ヤング・フレッシュ.md "wikilink")
       - [東京12チャンネル系](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[ピンクレディー物語 栄光の天使たち](https://ja.wikipedia.org/wiki/ピンクレディー物語_栄光の天使たち "wikilink")」エンディングテーマ
 6.  ポプラ通りの家
-      - 作詞：[山川啓介](../Page/山川啓介.md "wikilink")、作、編曲：[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")、歌：[ピーカブー](https://ja.wikipedia.org/wiki/ピーカブー "wikilink")
+      - 作詞：[山川啓介](../Page/山川啓介.md "wikilink")、作、編曲：[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")、歌：[ピーカブー](../Page/藤島新.md "wikilink")
       - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[キャプテンフューチャー](https://ja.wikipedia.org/wiki/キャプテンフューチャー "wikilink")」エンディングテーマ
 7.  さめない夢
       - 作詞：岸田衿子、作、編曲[三善晃](../Page/三善晃.md "wikilink")、歌：[大和田りつこ](../Page/大和田りつこ.md "wikilink")
@@ -44,7 +44,7 @@
       - 東京12チャンネル系「[未来ロボ ダルタニアス](../Page/未来ロボ_ダルタニアス.md "wikilink")」エンディングテーマ
 11. 青い空はポケットさ
       - 作詞：[高田ひろお](../Page/高田ひろお.md "wikilink")、作、編曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink")、歌：[大杉久美子](../Page/大杉久美子.md "wikilink")
-      - テレビ朝日系「[ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")」エンディングテーマ
+      - テレビ朝日系「[ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")」エンディングテーマ\[1\]
 12. さよならサンティー
       - 作詞：[関根栄一](https://ja.wikipedia.org/wiki/関根栄一 "wikilink")、作曲：[穂口雄右](../Page/穂口雄右.md "wikilink")、編曲：青木望、歌：大杉久美子、フィーリング･フリー
       - 東京12チャンネル系「[くじらのホセフィーナ](../Page/くじらのホセフィーナ.md "wikilink")」エンディングテーマ
@@ -56,7 +56,7 @@
       - TBS系「[コラルの探検](https://ja.wikipedia.org/wiki/コラルの探検 "wikilink")」エンディングテーマ
 15. お前がいれば
       - 作詞：山川啓介、作曲：[渡辺岳夫](../Page/渡辺岳夫.md "wikilink")、編曲：[クニ河内](../Page/クニ河内.md "wikilink")、歌：[水木一郎](../Page/水木一郎.md "wikilink")、こおろぎ'73
-      - [よみうりテレビ系](../Page/讀賣テレビ放送.md "wikilink")「[新巨人の星II](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")」イメージソング\[1\]
+      - [よみうりテレビ系](../Page/讀賣テレビ放送.md "wikilink")「[新巨人の星II](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")」イメージソング\[2\]
 16. 花のなかの花
       - 作詞：関根栄一、作曲：菊池俊輔、編曲：[武市昌久](../Page/武市昌久.md "wikilink")、歌：堀江美都子、こおろぎ'73
       - フジテレビ系「[円卓の騎士物語 燃えろアーサー](../Page/円卓の騎士物語_燃えろアーサー.md "wikilink")」エンディングテーマ
@@ -68,7 +68,7 @@
       - 東京12チャンネル系「[森の陽気な小人たちベルフィーとリルビット](../Page/森の陽気な小人たちベルフィーとリルビット.md "wikilink")」エンディングテーマ
 19. 今ほしいものは愛
       - 作詞：[山上路夫](../Page/山上路夫.md "wikilink")、作、編曲：[宮川泰](../Page/宮川泰.md "wikilink")、歌：[福原みどり](https://ja.wikipedia.org/wiki/福原みどり "wikilink")
-      - フジテレビ系「[メーテルリンクの青い鳥 チルチルミチルの冒険旅行](../Page/メーテルリンクの青い鳥_チルチルミチルの冒険旅行.md "wikilink")」挿入歌
+      - フジテレビ系「[メーテルリンクの青い鳥 チルチルミチルの冒険旅行](../Page/メーテルリンクの青い鳥_チルチルミチルの冒険旅行.md "wikilink")」挿入歌\[3\]
 20. 魔法少女ララベル
       - 作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：[いずみたく](../Page/いずみたく.md "wikilink")、編曲：[親泊正昇](https://ja.wikipedia.org/wiki/親泊正昇 "wikilink")、歌：堀江美都子、コロムビアゆりかご会
       - テレビ朝日系「[魔法少女ララベル](../Page/魔法少女ララベル.md "wikilink")」エンディングテーマ
@@ -145,7 +145,7 @@
       - 作詞：高田ひろお、作曲：小林亜星、編曲：筒井広志、歌：こおろぎ'73
       - テレビ朝日系「[フクちゃん](../Page/フクちゃん.md "wikilink")」エンディングテーマ
 19. ドリームシティ・ネオトキオ
-      - 作詞：[康珍化](../Page/康珍化.md "wikilink")、作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")、編曲・歌：[HARRY](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")
+      - 作詞：[康珍化](../Page/康珍化.md "wikilink")、作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")、編曲・歌：[HARRY](../Page/木村昇_\(歌手\).md "wikilink")
       - フジテレビ系「[未来警察ウラシマン](../Page/未来警察ウラシマン.md "wikilink")」エンディングテーマ
 20. ありがとう
       - 作詞：山上路夫、作、編曲：[木森敏之](../Page/木森敏之.md "wikilink")、歌：[99Harmony](https://ja.wikipedia.org/wiki/99Harmony "wikilink")
@@ -174,4 +174,6 @@
 
 [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:テレビアニメ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌集 "wikilink")
 
-1.  エンディングテーマ『行け行け飛雄馬』は[続々・テレビまんが主題歌のあゆみ](https://ja.wikipedia.org/wiki/続々・テレビまんが主題歌のあゆみ "wikilink")に収録。
+1.  シングル盤（SCS-474）B面に同録の「ドラえもん・えかきうた」は未収録
+2.  エンディングテーマ『行け行け飛雄馬』は[続々・テレビまんが主題歌のあゆみ](https://ja.wikipedia.org/wiki/続々・テレビまんが主題歌のあゆみ "wikilink")に収録。
+3.  実際のエンディングテーマの『窓灯り』は未収録（オープニング、エンディングテーマのEPレコードを別々にリリースしたため）

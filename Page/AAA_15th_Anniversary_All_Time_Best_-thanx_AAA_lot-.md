@@ -298,7 +298,7 @@
 10. **[Eighth Wonder](https://ja.wikipedia.org/wiki/Love_Is_In_The_Air "wikilink")** (6:00)
     （作詞：Kenn Kato / 作曲：鈴木大輔 / ラップ詞：日高光啓）
       -
-        37thシングルのカップリング曲。
+        37thシングルのカップリング曲。表記はないが、本作に収録されているのはアルバム『[Eighth Wonder](https://ja.wikipedia.org/wiki/Eighth_Wonder_\(AAAのアルバム\) "wikilink")』収録のアルバムバージョン。
 11. **[風に薫る夏の記憶](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")** (5:05)
     （作詞：森月キャス / 作曲：大西克巳 / 編曲：清水武仁 / ラップ詞：日高光啓）
       -
@@ -338,7 +338,7 @@
 
 1.
 2.
-3.  両A面シングルやトリプルA面シングルについては、1曲目のみを収録しているため、「[キモノジェットガール](https://ja.wikipedia.org/wiki/ソウルエッジボーイ/キモノジェットガール "wikilink")」（8thシングル）、「[SHEの事実](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")」（13thシングル）、「[That's Right](https://ja.wikipedia.org/wiki/唇からロマンチカ/That's_Right "wikilink")」（14thシングル）、「[No End Summer](../Page/夏もの.md "wikilink")」（15thシングル）、「[花火](../Page/夏もの.md "wikilink")」（15thシングル）「[ZERO](https://ja.wikipedia.org/wiki/MUSIC!!!/ZERO "wikilink")」（19thシングル）、「[Break your name](https://ja.wikipedia.org/wiki/Break_Down/Break_your_name/Summer_Revolution "wikilink")」（21stシングル）、「[Summer Revolution](https://ja.wikipedia.org/wiki/Break_Down/Break_your_name/Summer_Revolution "wikilink")」（21stシングル）、「[Dream After Dream 〜夢から醒めた夢〜](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")」（24thシングル）、「[Endless Fighters](https://ja.wikipedia.org/wiki/PARADISE/Endless_Fighters "wikilink")」（26thシングル）、「[Lights](https://ja.wikipedia.org/wiki/Charge_&_Go!/Lights "wikilink")」（30thシングル）は収録されていない。このほか、コラボレーション・シングルとしてリリースされた「[いざゆけ若鷹軍団2007](https://ja.wikipedia.org/wiki/いざゆけ若鷹軍団2007 "wikilink")」と「[Climax Jump](../Page/Climax_Jump.md "wikilink")」も未収録となっている。
+3.  両A面シングルやトリプルA面シングルについては、1曲のみを収録しているため、「[キモノジェットガール](https://ja.wikipedia.org/wiki/ソウルエッジボーイ/キモノジェットガール "wikilink")」（8thシングル）、「[SHEの事実](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")」（13thシングル）、「[That's Right](https://ja.wikipedia.org/wiki/唇からロマンチカ/That's_Right "wikilink")」（14thシングル）、「[No End Summer](../Page/夏もの.md "wikilink")」（15thシングル）、「[花火](../Page/夏もの.md "wikilink")」（15thシングル）「[ZERO](https://ja.wikipedia.org/wiki/MUSIC!!!/ZERO "wikilink")」（19thシングル）、「[Break your name](https://ja.wikipedia.org/wiki/Break_Down/Break_your_name/Summer_Revolution "wikilink")」（21stシングル）、「[Summer Revolution](https://ja.wikipedia.org/wiki/Break_Down/Break_your_name/Summer_Revolution "wikilink")」（21stシングル）、「[Dream After Dream 〜夢から醒めた夢〜](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")」（24thシングル）、「[Endless Fighters](https://ja.wikipedia.org/wiki/PARADISE/Endless_Fighters "wikilink")」（26thシングル）、「[Lights](https://ja.wikipedia.org/wiki/Charge_&_Go!/Lights "wikilink")」（30thシングル）は収録されていない。このほか、コラボレーション・シングルとしてリリースされた「[いざゆけ若鷹軍団2007](https://ja.wikipedia.org/wiki/いざゆけ若鷹軍団2007 "wikilink")」と「[Climax Jump](../Page/Climax_Jump.md "wikilink")」も未収録となっている。
 4.
 5.
 6.

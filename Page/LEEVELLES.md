@@ -5,11 +5,6 @@
 
 ## メンバー
 
-### 安藤 淳(Atsushi Ando)
-
-  - [9月1日](../Page/9月1日.md "wikilink")生まれ。
-  - Vocal & Guitar 担当。
-
 ### 川﨑 純(Jun Kawasaki)
 
   - [4月25日](../Page/4月25日.md "wikilink")生まれ。
@@ -28,6 +23,13 @@
   - Drums 担当。
   - 結成前は[QOOLAND](https://ja.wikipedia.org/wiki/QOOLAND "wikilink")でDrumsを担当。
 
+### ■過去のメンバー
+
+安藤 淳(Atsushi Ando)
+
+  - [9月1日](../Page/9月1日.md "wikilink")生まれ。
+  - Vocal & Guitar 担当。
+
 ## 概要
 
   - [ロック](../Page/ロック_\(音楽\).md "wikilink")、[ポップス](https://ja.wikipedia.org/wiki/ポップ音楽 "wikilink")、[エレクトロ等](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")、多彩なジャンルの要素を盛り込んだ楽曲と、 日常では人に見せることのない心の奥底を晒け出した歌詞を、再現性の高い演奏に乗せて届ける。 日本の音楽シーンに新たなエンターテイメントの風を吹かせる。
@@ -40,7 +42,9 @@
 
 ## 作品
 
-・2019年10月20日「[Oriens](https://music.apple.com/jp/album/1484086754?app=itunes)」配信。
+  - 2019年10月20日「[Oriens](https://music.apple.com/jp/album/1484086754?app=itunes)」配信。
+
+<!-- end list -->
 
   - \-M1 [彗星](https://www.youtube.com/watch?v=mk7jXfyTxP4)
     \-M2 [innocent](https://www.youtube.com/watch?v=syGxtxeBCH8)
@@ -67,7 +71,7 @@
 
 (新型コロナの影響で中止)
 
-  - 2020年5月13日-もしくは夜空のクジラにて[@新宿Zirco Tokyo](https://zirco-tokyo.jp)
+  - 2020年6月21日-もしくは夜空のクジラにて[@新宿Zirco Tokyo](https://zirco-tokyo.jp) ライブ及び配信ライブを実施
 
 ## 脚注
 

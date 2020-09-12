@@ -11,7 +11,7 @@
 
 リストはこのアワードのアカデミー会員による投票で決定する。アカデミーは、アジア各地のバー業界の有識者、[ドリンクメディアのジャーナリスト](https://ja.wikipedia.org/wiki/飲料 "wikilink")、著名な[カクテル](../Page/カクテル.md "wikilink")スペシャリストによって構成される\[2\]。
 
-特別賞は、Michter's、Ketel One、[Campari等のパートナー企業の名を冠し](../Page/カンパリ.md "wikilink")、バーや[バーテンダー](../Page/バーテンダー.md "wikilink")に贈られる個別の賞である。日本人が運営するバーでは「Speak Low」（[上海](../Page/上海市.md "wikilink")）が「Heering Legend of the List 2018」を受賞し、レジェンドとして認定された\[3\]。また日本人バーテンダーでは、個人を対象とする最高賞「Altos Bartenders' Bartender 2019」を[後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が獲得している\[4\]。
+特別賞は、Michter's、Ketel One、[Campari等のパートナー企業の名を冠し](../Page/カンパリ.md "wikilink")、バーや[バーテンダー](../Page/バーテンダー.md "wikilink")に贈られる個別の賞である。日本人が運営するバーでは「[Speak Low](https://ja.wikipedia.org/wiki/Speak_Low_\(バー\) "wikilink")」（[上海](../Page/上海市.md "wikilink")）が「Heering Legend of the List 2018」を受賞し、レジェンドとして認定された\[3\]。また日本人バーテンダーでは、個人を対象とする最高賞「Altos Bartenders' Bartender 2019」を[後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が獲得している\[4\]。
 
 表彰および投票の運営はWilliam Reed Business Mediaが行い、オフィシャルメディアパートナーはドリンク業界誌『Drinks International（ドリンクス・インターナショナル）』が務める。
 
@@ -99,7 +99,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>Sober Company</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Sober_Company" title="wikilink">Sober Company</a></p></td>
 <td><p>上海</p></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p>Speak Low</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Speak_Low_(バー)" title="wikilink">Speak Low</a></p></td>
 <td><p>上海</p></td>
 <td></td>
 </tr>
@@ -255,7 +255,7 @@
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p>The Odd Couple</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/The_Odd_Couple_(バー)" title="wikilink">The Odd Couple</a></p></td>
 <td><p>上海</p></td>
 <td></td>
 </tr>

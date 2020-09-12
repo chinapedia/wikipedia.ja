@@ -1,65 +1,95 @@
 > この記事は[Sarileru Neekevvaru](https://ja.wikipedia.org/wiki/Sarileru_Neekevvaru)から翻訳されています。
 
 
-***Sarileru Neekevvaru*** （意味：Nobody Can Match You、<span style="white-space:nowrap;">あなたの代わりは 誰にもなれない</span> ）2020 年公開予定の[テルグ語](../Page/テルグ語.md "wikilink")の[アクション映画](../Page/アクション映画.md "wikilink")であり、脚本・監督共にアニル・ラビプディ である。 \[1\] 俳優のマヘーシュ・バーブがインド陸軍少佐アジャイ・クリシュナとして主演、 ヒロイン役はラシュミカ・マンダンナが演じる。 Sarileru Neekevvaruには、ビジャヤシャンティ 、 [プラカシュ・ラジ](https://ja.wikipedia.org/wiki/プラカーシュ・ラージ "wikilink") 、 サティヤ・デヴ 、 プラディープ・ラワット 、 ハリ・テジャ 、 サチン・ケーデッカー 、 [ラジェンドラ・プラサド](https://ja.wikipedia.org/wiki/ラージェーンドラ・プラサード "wikilink") 、 [サバーラジュー](https://ja.wikipedia.org/wiki/スッバラージュ "wikilink") 、 ベネラ・キショアとアジャイが出演 。
+『***Sarileru Neekevvaru***』は、[2020年に公開された](../Page/2020年の映画.md "wikilink")[インドの](../Page/インドの映画.md "wikilink")[アクション](../Page/アクション映画.md "wikilink")[コメディ映画](../Page/コメディ映画.md "wikilink")。が監督を務め\[1\]、、、、[プラカーシュ・ラージ](https://ja.wikipedia.org/wiki/プラカーシュ・ラージ "wikilink")、が出演している。2020年1月11日に公開され、興行的な成功を収めた\[2\]。
 
-本映画は、2020年1月11日、 サンクラーンティ（南インドの収穫祭）の祝祭シーズンに劇場公開される予定。 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Sarileru_neekevvaru._jpg.jpg "wikilink")
+## ストーリー
 
 ## キャスト
 
-  - [マヘーシュ・バーブ](https://ja.wikipedia.org/wiki/マヘーシュ・バーブ "wikilink") アジェイ・クリシュナ少佐役
-  - [ヴィジャヤシャンティ](https://ja.wikipedia.org/wiki/ヴィジャヤシャンティ "wikilink") バラティ役
-  - [ラシュミカ・マンダンナ](https://ja.wikipedia.org/wiki/ラシュミカ・マンダンナ "wikilink")
-  - [プラカシュ・ラジ](https://ja.wikipedia.org/wiki/プラカシュ・ラジ "wikilink")
-  - [サティヤ・デブ](https://ja.wikipedia.org/wiki/サティヤデフ・カンチャラナ "wikilink") ジェイデフ役
-  - [ナレシュ](https://ja.wikipedia.org/wiki/ナレシュ_\(actor\) "wikilink")
-  - [ラジェンドラ・プラサド](https://ja.wikipedia.org/wiki/ラジェンドラ・プラサド_\(actor\) "wikilink")
-  - [サンギータ](https://ja.wikipedia.org/wiki/サンギータ・クリシュ "wikilink")
-  - [ハリ・テジャ](https://ja.wikipedia.org/wiki/ハリ・テジャ "wikilink")
-  - [ロヒニ](https://ja.wikipedia.org/wiki/ロヒニ_\(actress\) "wikilink")
-  - [キリーティ・ダマラジュ](https://ja.wikipedia.org/wiki/キリーティ・ダマラジュ "wikilink")
-  - [サチン・ヘデカル](https://ja.wikipedia.org/wiki/サチン・ヘデカル "wikilink")
-  - [プラディープ・ラワット](https://ja.wikipedia.org/wiki/プラディープ・ラワット_\(actor\) "wikilink")
-  - [ラオ・ラメシュ](https://ja.wikipedia.org/wiki/ラオ・ラメシュ "wikilink")
-  - [ラグー・バブ](https://ja.wikipedia.org/wiki/ラグー・バブ "wikilink")
-  - [ヴェネラ・キショア](https://ja.wikipedia.org/wiki/ヴェネラ・キショア "wikilink") アシスタント役
-  - [アジャイ](https://ja.wikipedia.org/wiki/アジャイ_\(actor\) "wikilink")
-  - [スバラージュ](https://ja.wikipedia.org/wiki/スバラージュ "wikilink") コティ役
-  - [パビトラ・ロケシュ](https://ja.wikipedia.org/wiki/パビトラ・ロケシュ "wikilink")
-  - [サティヤム・ラジェシュ](https://ja.wikipedia.org/wiki/サティヤム・ラジェシュ "wikilink")
-  - [バンドラ・ガネーシュ](https://ja.wikipedia.org/wiki/バンドラ・ガネーシュ "wikilink")
-  - [ブラフマナンダム](https://ja.wikipedia.org/wiki/ブラフマナンダム "wikilink") (スペシャルゲストとして登場)
-  - [タマンナー](https://ja.wikipedia.org/wiki/タマンナー "wikilink")
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li>アジャイ・クリシュナ少佐 - </li>
+<li>サンスクルティ - </li>
+<li>バーラティ - </li>
+<li>ナゲンドラ議員 - <a href="https://ja.wikipedia.org/wiki/プラカーシュ・ラージ" title="wikilink">プラカーシュ・ラージ</a></li>
+<li>シヴァ・プラサード - </li>
+<li>サンスクルティの父 - <a href="https://ja.wikipedia.org/wiki/ラオ・ラメシュ" title="wikilink">ラオ・ラメシュ</a></li>
+<li>ナラヤナ - </li>
+<li>ムルダンガ・ラオ - </li>
+<li>大臣 - <a href="https://ja.wikipedia.org/wiki/ブラフマーナンダム" title="wikilink">ブラフマーナンダム</a></li>
+<li>キショール - <a href="../Page/ヴェンネラ・キショール.md" title="wikilink">ヴェンネラ・キショール</a></li>
+<li>アジャイ - </li>
+<li>ナゲンドラの手下 - </li>
+</ul></td>
+<td><ul>
+<li>コーティ - <a href="https://ja.wikipedia.org/wiki/スッバラージュ" title="wikilink">スッバラージュ</a></li>
+<li>アジャイの上官 - <a href="../Page/ムラリ・シャルマ.md" title="wikilink">ムラリ・シャルマ</a></li>
+<li>ナゲンドラの父 - </li>
+<li>ティルパティ・ラオ - </li>
+<li>ラーマクリシュナ - </li>
+<li>ブレード・ガネーシュ - </li>
+<li>スワラージャム - </li>
+<li>スウィッチャ - </li>
+<li>バンガラージュ - </li>
+<li>ジャーナリスト - </li>
+<li><p>- <a href="../Page/クリシュナ_(テルグ俳優).md" title="wikilink">クリシュナ</a>（『<a href="https://ja.wikipedia.org/wiki/:en:Alluri_Seetarama_Raju_(film)" title="wikilink">Alluri Seetarama Raju</a>』のアーカイブ映像）</p></li>
+<li>「Daang Daang」シーン登場 - <a href="https://ja.wikipedia.org/wiki/タマンナー" title="wikilink">タマンナー</a>（<a href="../Page/アイテム・ナンバー.md" title="wikilink">アイテム・ナンバー</a>）[3]</li>
+<li>クレジットシーン登場 - （<a href="../Page/カメオ出演.md" title="wikilink">カメオ出演</a>）</li>
+<li>「Mind Block」シーン登場 - 、（カメオ出演）</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-## プロダクション
-
-### 製作
-
-映画タイトルに関する多くの憶測が流れる中、2019年5月31日、[クリシュナの](../Page/クリシュナ_\(テルグ俳優\).md "wikilink") 75歳の誕生日の日に、*Sarileru Neekevvaru（サリレル・ネキーヴヴァル）*とタイトルが発表され 、\[2\] タイトルのポスターが発表された。 \[3\]シャンプラサド・レディをはじめとする、多くのゲストが、この発表の場を飾った。 \[4\]
-
-### キャスティング
-
-*ラシュミカ・マンダンナ*は、主演女優として映画内では *マヘーシュ・バーブに対抗する*女性役を演じることで契約に署名した。 \[5\] *ヴィジャヤシャンティ*は13年の空白後の復帰作品として、この映画の出演に合意した。\[6\] \[7\] *[タマンナー](https://ja.wikipedia.org/wiki/タマンナー "wikilink")*は、 *マヘシュ*との*特別出演*曲に出演することで合意し、二人は手区別出演局のためのハードな撮影スケジュールのため、スタジオに缶詰め状態となった。 \[8\]
+## 製作
 
 ### 撮影
 
-最初のスケジュールは、2019年7月5日から2019年7月20日までで、[カシミール](../Page/カシミール.md "wikilink")で撮影された。 \[9\] \[10\] 2番目のスケジュールでは、推定費用 を投じた コンダ・レディ・ブルージュのレプリカセットが[ラモジ・フィルム・シティに建設され](https://ja.wikipedia.org/wiki/ラモジ・フィルムシティ "wikilink") \[11\] 2019年11月8日に、 [ケララは映画のトーキー部分の撮影を終了した](../Page/ケーララ州.md "wikilink")。 \[12\]
+2019年5月31日、の26本目の主演映画のタイトルが「Sarileru Neekevvaru」であることが発表され\[4\]、発表イベントにはスタッフ・キャストの他にが出席した\[5\]。ヒロイン役にはが起用され\[6\]、助演女優としてが13年振りに映画出演することが決まった\[7\]\[8\]。[タマンナー](https://ja.wikipedia.org/wiki/タマンナー "wikilink")は[アイテム・ナンバー](../Page/アイテム・ナンバー.md "wikilink")として出演が決まった\[9\]。7月5日から同月20日にかけて[カシミール](../Page/カシミール.md "wikilink")で撮影が行われた\[10\]\[11\]。[ラモジ・フィルムシティ](https://ja.wikipedia.org/wiki/ラモジ・フィルムシティ "wikilink")には4000万ルピーの費用を投じた撮影セットが作られ\[12\]、11月8日までに[ケーララ州](../Page/ケーララ州.md "wikilink")での撮影が終了した\[13\]。
 
-## リリース
+### サウンドトラック
 
-この映画は、2020年1月11日にリリースされる予定。 \[13\]
+サウンドトラックと映画音楽はが作曲している。2020年1月5日にアルバムがデジタルリリースされ、同日には[ハイデラバードの](../Page/ハイデラバード_\(インド\).md "wikilink")でリリースイベントが開催された。
 
-また、日本では、2020年1月12日より公開予定。\[14\]
+## マーケティング
 
-## 脚注
+2019年5月31日に宣伝ポスターが公開され、マヘーシュ・バーブの誕生日である8月9日には彼をフィーチャーした宣伝ポスターと映像が公開された\[14\]。[インド独立記念日の](https://ja.wikipedia.org/wiki/独立記念日_\(インド\) "wikilink")8月15日には[インド陸軍](https://ja.wikipedia.org/wiki/インド陸軍 "wikilink")をフィーチャーした2分間の特別映像が公開された\[15\]。10月7日のに合わせ、マヘーシュ・バーブがの前で斧を持った姿を描いたポスターが公開された\[16\]。[ディーワーリー](../Page/ディーワーリー.md "wikilink")期間中に新たに2枚の宣伝ポスターが公開され、同月25日にはヴィジャヤシャンティをフィーチャーした宣伝ポスター\[17\]、翌26日にはマヘーシュ・バーブが[ロイヤルエンフィールド](https://ja.wikipedia.org/wiki/ロイヤルエンフィールド "wikilink")のバイクに乗った宣伝ポスターが公開された\[18\]。同月27日にはマヘーシュ・バーブとラシュミカ・マンダンナをフィーチャーした宣伝ポスターが公開されている\[19\]。11月22日に予告編が公開され、視聴者から好意的な反応を得た\[20\]。2020年1月5日にはハイデラバードのラール・バハードゥル・シャーストリー・スタジアムでプレリリース・イベントが開催され\[21\]、[チランジーヴィ](../Page/チランジーヴィ.md "wikilink")が特別ゲストとして出席した\[22\]。同イベントでは劇場用予告編も公開されている\[23\]。
+
+## 公開
+
+『Sarileru Neekevvaru』は[中央映画認証委員会](https://ja.wikipedia.org/wiki/中央映画認証委員会 "wikilink")から「U/A」認証を受け、2020年1月11日に公開された\[24\]。衛星放送の権利はが購入し\[25\]、3月25日に初放送された\[26\]。デジタル配信の権利は[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")が購入し、2020年3月1日から配信が開始された\[27\]\[28\]。
+
+## 評価
+
+### 興行収入
+
+『Sarileru Neekevvaru』は公開初日に6億8000万ルピーの興行収入を記録し\[29\]、『[Maharshi](https://ja.wikipedia.org/wiki/:en:Maharshi_\(2019_film\) "wikilink")』の記録（5億9000万ルピー）を塗り替えた\[30\]。公開2日目の累計興行収入は9億3000万ルピーとなり\[31\]、このうち海外市場の配給業者利益は4億6700万ルピーを記録した\[32\]。公開3日目の累計興行収入は10億3000万ルピーとなり\[33\]\[34\]、公開7日目には17億5000万ルピーを記録した\[35\]\[36\]。公開10日目の累計興行収入は20億ルピーとなり\[37\]、公開50日目には26億ルピーを記録した\[38\]\[39\]\[40\]\[41\]。
+
+#### テルグ語圏
+
+テルグ語圏（[アーンドラ・プラデーシュ州](../Page/アーンドラ・プラデーシュ州.md "wikilink")、[テランガーナ州](../Page/テランガーナ州.md "wikilink")）では公開2日目に1億5000万ルピーの興行収入を記録し、公開2日間の累計興行収入は6億1000万ルピーとなった\[42\]。公開4日目の累計興行収入は8億5000万ルピーを記録した\[43\]。公開5日目の興行収入は1億3800万ルピーを記録し、累計興行収入は9億8800万ルピーとなった\[44\]。公開6日目の累計興行収入は11億3000万ルピー\[45\]、公開9日目には14億3000万ルピーを記録した\[46\]。公開10日間で配給業者利益は10億ルピーを超え、『[バーフバリシリーズ](https://ja.wikipedia.org/wiki/バーフバリシリーズ "wikilink")』に迫る記録となった\[47\]。では公開初日に372万ルピーの興行収入を記録し、『[バーフバリ 王の凱旋](https://ja.wikipedia.org/wiki/バーフバリ_王の凱旋 "wikilink")』の記録（361万ルピー）を塗り替えた\[48\]。
+
+#### 海外市場
+
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では、プレミア上映の興行収入が75万9000ドルを記録した\[49\]。公開初日の興行収入は[オーストラリア](../Page/オーストラリア.md "wikilink")で23万6744ドル、[ニュージーランド](../Page/ニュージーランド.md "wikilink")で2万750ドル、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で5万5234ポンドを記録し、アメリカでは公開2日目の累計興行収入が131万ドルを記録している\[50\]。公開3日間目の累計興行収入は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")で6454ドル、アメリカで162万4974ドル、イギリスで7万689ポンドを記録した\[51\]\[52\]。公開9日目の累計興行収入はアメリカで200万ドル、オーストラリアで34万9258ドル、イギリスで9万6218ポンド、ニュージーランドで3万5566ドルを記録している\[53\]。マヘーシュ・バーブ主演作品としてアメリカでの興行収入が200万ドルを超えたのは、『Maharishi』『[Bharat Ane Nenu](https://ja.wikipedia.org/wiki/:en:Bharat_Ane_Nenu "wikilink")』に続き『Sarileru Neekevvaru』が3作目となった\[54\]。
+
+### 批評
+
+[ザ・タイムズ・オブ・インディア](https://ja.wikipedia.org/wiki/ザ・タイムズ・オブ・インディア "wikilink")のニーシター・ニャヤパティは2.5/5の星を与え、「マヘーシュ・バーブは国家に奉仕し、ジョークを嗜む役を良く演じています。の撮影技術も十分な出来ですが、残念ながら低水準のVFXショットのために見劣りする結果になりました」と批評している\[55\]。[インディア・トゥデイ](../Page/インディア・トゥデイ.md "wikilink")のジャーナキ・Kは2/5の星を与え、「マヘーシュ・バーブの主演映画には、全くガッカリさせられた」と批評している\[56\]。[ファーストポスト](https://ja.wikipedia.org/wiki/ファーストポスト "wikilink")のヘマント・クマールは3.25/5の星を与え、「マヘーシュ・バーブは、アニル・ラーヴィプーディのヒロイズムとコメディの見事なブレンドにより、ヒットを飛ばしました」と批評している\[57\]。のマノージュ・クマールは3.5/5の星を与えている\[58\]。[Sifyは](https://ja.wikipedia.org/wiki/:en:Sify "wikilink")3/5の星を与え、映画を「商業的なアクション・エンターテイナー」と表現している\[59\]。は「マヘーシュ・バーブの主演映画は、部分的な面白さがあるミックス・バッグでした」と批評している\[60\]。
+
+ビハインドウッズは3/5の星を与え、「全体として、この映画ではマヘーシュ・バーブの素晴らしい演技を見ることができます。プラカーシュ・ラージは恐ろしい悪役として登場しますが、物語が進むにつれて彼の脅威は薄まっていきます。数々の問題がある中で、鑑賞する価値を生んでいるのはマヘーシュ・バーブの演技です。彼は踊り、演技、闘い、そして重要なことにクリーンな楽しさを提供します。彼はあなたを楽しませてくれます。そして、それが映画の唯一の価値です。助演俳優の中で特筆される演技を見せたのはヴィジャヤシャンティ、ヴェンネラ・キショール、プラカーシュ・ラージでした」と批評している\[61\]。
+
+は3/5の星を与え、「マヘーシュ・バーブの素晴らしい演技は、映画の成功要因の一つです。彼は映画全体を背負っており、その表現方法は上出来でした。ラシュミカ・マンダンナの演技には感銘を受けました。ヴィジャヤシャンティの存在は、まさに映画の財産です。彼女は役柄に100%の力を与え、観客の注目を集めました。アジャイやスッバラージュ、ヴェンネラ・キショールは誠実な演技を、サンギータとハリ・テージャは堅実な演技を見せてくれました。バンドラ・ガネーシュのコメディ・タイミングは非常に上手くいきました。他の俳優もそれぞれ存在感を示していました」と批評している\[62\]。のシュバーム・クルカルニーは、「どんなストーリーを伝えたいのか混乱している映画の中で、マヘーシュ・バーブは私たちの心を勝ち取りました」と批評している\[63\]。
+
+## 出典
 
 ## 外部リンク
 
   -
-  -
-  - [インドエイガジャパン株式会社](http://indoeiga.com)
-
-[Category:テルグ語で製作された映画作品](https://ja.wikipedia.org/wiki/Category:テルグ語で製作された映画作品 "wikilink") [Category:インドの映画作品](https://ja.wikipedia.org/wiki/Category:インドの映画作品 "wikilink") [Category:インドのアクション映画](https://ja.wikipedia.org/wiki/Category:インドのアクション映画 "wikilink")
+[Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:インドのアクション映画](https://ja.wikipedia.org/wiki/Category:インドのアクション映画 "wikilink") [Category:インドのコメディ映画](https://ja.wikipedia.org/wiki/Category:インドのコメディ映画 "wikilink") [Category:テルグ語で製作された映画作品](https://ja.wikipedia.org/wiki/Category:テルグ語で製作された映画作品 "wikilink") [Category:アイテム・ナンバーをフィーチャリングした映画作品](https://ja.wikipedia.org/wiki/Category:アイテム・ナンバーをフィーチャリングした映画作品 "wikilink") [Category:ケーララ州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:ケーララ州で製作された映画作品 "wikilink") [Category:ジャンムー・カシミール州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:ジャンムー・カシミール州で製作された映画作品 "wikilink") [Category:ラモジ・フィルムシティで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ラモジ・フィルムシティで製作された映画作品 "wikilink") [Category:アーンドラ・プラデーシュ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:アーンドラ・プラデーシュ州を舞台とした映画作品 "wikilink")
 
 1.
 2.
@@ -75,3 +105,52 @@
 12.
 13.
 14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.

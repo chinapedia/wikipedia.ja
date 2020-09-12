@@ -29,7 +29,9 @@
   - [Nu Soul Quake | TuneCore Japan](https://www.tunecore.co.jp/artist/NuSoulQuake)
   - [Ameba プロフィールM@SAKI(NuSoulQuake)](https://profile.ameba.jp/ameba/masaki-nusoulquake)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink")
+
+[Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
 1.  [Nu Soul Quake | TuneCore Japan 出身高校が、名門大垣日大、それも野球部](https://www.tunecore.co.jp/artist/NuSoulQuake)
 2.  [Nu Soul Quake | TuneCore Japan ダンス経験を積む。](https://www.tunecore.co.jp/artist/NuSoulQuake)

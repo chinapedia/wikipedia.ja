@@ -7,6 +7,8 @@
 
 2020年7月8日、TWICEJAPANオフィシャルサイトにて、本シングルのリリースを発表した。
 
+6月19日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にてMVが公開された。
+
 ## トラックリスト
 
 ## 脚注

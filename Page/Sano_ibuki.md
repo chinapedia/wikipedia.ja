@@ -17,6 +17,8 @@
 
 2019年11月6日、構想約2年による空想の物語の主題歌たちを収録した1stフルアルバム『STORY TELLER』を[EMI Recordsより発売しメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[4\]。それぞれの楽曲に登場するキャラクターには趣味や性格などが細かく設定されている\[5\]。
 
+[萩原慎一郎](https://ja.wikipedia.org/wiki/萩原慎一郎 "wikilink")の『[歌集 滑走路](https://ja.wikipedia.org/wiki/歌集_滑走路 "wikilink")』を愛読しており、2020年秋に公開予定の映画の主題歌に採用されることが決まった。
+
 ## ディスコグラフィー
 
 ### シングル
@@ -140,7 +142,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月11日.md" title="wikilink">12月11日</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/11月6日.md" title="wikilink">11月6日</a></p></td>
 <td><p><strong>STORY TELLER</strong></p></td>
 <td><p>UPCH-20533</p></td>
 <td><ol>
@@ -175,13 +177,13 @@
 <td><p>初回仕様:UPCH-29355<br />
 通常仕様:UPCH-20544</p></td>
 <td><ol>
-<li>origin (instrumental)</li>
+<li>origin</li>
 <li>emerald city</li>
 <li>Jewelry</li>
 <li>ファーストトイ</li>
 <li>DECOY</li>
 <li>記念碑</li>
-<li>Sága (instrumental)</li>
+<li>Sága</li>
 </ol></td>
 <td><ul>
 <li>初回仕様のみ三方背ケース仕様 &amp; 「emerald city」地図付属</li>
@@ -471,6 +473,14 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 <td><p>マリアロード</p></td>
 <td><p>映画『<a href="https://ja.wikipedia.org/wiki/his〜恋するつもりなんてなかった〜" title="wikilink">his</a>』主題歌</p></td>
 </tr>
+<tr class="even">
+<td><p>紙飛行機</p></td>
+<td><p>映画『<a href="https://ja.wikipedia.org/wiki/歌集_滑走路#映画" title="wikilink">滑走路</a>』主題歌[7]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -493,7 +503,7 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 <td><p>＠渋谷WWW</p></td>
 </tr>
 <tr class="even">
-<td><p>2020年2月24日〜7月17日</p></td>
+<td><p>2020年2月24日～中止</p></td>
 <td><p>Sano ibuki LIVE “NOVEL”</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -502,14 +512,14 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li>2月24日 - 大阪・心斎橋Pangea</li>
-<li><s>2月29日 - 東京・神田明神ホール</s>（中止）</li>
-<li>7月17日 - 東京・神田明神ホール（振替公演）[7]
+<li><s>2月29日 - 東京・神田明神ホール</s>（中止）[8]</li>
+<li><s>7月17日 - 東京・神田明神ホール（振替公演）</s>（中止）[9]
 </div>
 </div></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2020年7月9日</p></td>
+<td><p>中止</p></td>
 <td><p>Cheer up Night Vol.1</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -518,13 +528,13 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li><s>3月26日 - 大阪Live House Anima</s>（中止）</li>
-<li>7月9日 - 大阪Live House Anima（振替公演）
+<li><s>7月9日 - 大阪Live House Anima（振替公演）</s>（中止）
 </div>
 </div></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2020年8月22日～8月31日（予定）</p></td>
+<td><p>中止</p></td>
 <td><p>Sano ibuki LIVE “瑠璃の館”</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -532,10 +542,10 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ul>
-<li>8月22日 - 大阪・心斎橋JANUS</li>
-<li>8月31日 - 東京・SHIBUYA PLEASURE PLEASURE</li>
+<li><s>2020年8月22日 - 大阪・心斎橋JANUS</s>（中止）</li>
+<li><s>2020年8月31日 - 東京・SHIBUYA PLEASURE PLEASURE</s>（中止）</li>
 </ul>
-<p>[8]</p>
+<p>[10][11]</p>
 </div>
 </div></td>
 </tr>
@@ -558,7 +568,7 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
   - 2017年09月17日 - [TOKYO CALLING](../Page/TOKYO_CALLING.md "wikilink") 2017
   - 2017年09月26日 - HOT STUFF presents Ruby Tuesday 25
   - 2017年09月30日 - フジソニック2017
-  - 2017年10月28日 - [武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink") 芸術祭「オトトヒト 2017」\[9\]
+  - 2017年10月28日 - [武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink") 芸術祭「オトトヒト 2017」\[12\]
   - 2018年03月10日 - J-WAVE(81.3FM)主催「J-WAVE TOKYO GUITAR JAMBOREE〜YOUNGBLOOD〜」※ゲストアクト
   - 2018年03月16日 - HOPE\!
   - 2018年05月05日 - J-WAVE & Roppongi Hills present TOKYO M.A.P.S ～YOSHIKI MIZUNO EDITION～
@@ -598,6 +608,9 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 4.  [シンガーソングライターSano ibuki、EMI Recordsよりデビューアルバムリリース - 音楽ナタリー](https://natalie.mu/music/news/346141)
 5.  [＜ライブレポート＞Sano ibuki初ワンマンに見た、パフォーマーとしての瑞々しい英気 | Daily News | Billboard JAPAN](http://www.billboard-japan.com/d_news/detail/82149/2)
 6.  [Sano ibukiがデビューアルバムのスピンアウト作品発表、明日リード曲を先行配信 - 音楽ナタリー](https://natalie.mu/music/news/372349)
-7.  [2月29日 LIVE “NOVEL” 振替公演のご案内｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202003231300/)
-8.  [Sano ibuki LIVEに関するご案内｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202005112100//)
-9.  [ムサビ芸術祭ライブに向井秀徳、吉田凜音、tricot、Nyantora、ノンブラリ - 音楽ナタリー](https://natalie.mu/music/news/249907)
+7.
+8.  [2月29日 LIVE “NOVEL” 振替公演のご案内｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202003231300/)
+9.  [LIVE “NOVEL”（東京振替公演）、“瑠璃の館”（大阪、東京公演） 開催中止のお知らせ｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202006221701/)
+10. [Sano ibuki LIVEに関するご案内｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202005112100//)
+11. [LIVE “NOVEL”（東京振替公演）、“瑠璃の館”（大阪、東京公演） 開催中止のお知らせ｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202006221701/)
+12. [ムサビ芸術祭ライブに向井秀徳、吉田凜音、tricot、Nyantora、ノンブラリ - 音楽ナタリー](https://natalie.mu/music/news/249907)

@@ -5,7 +5,7 @@
 
 ## 解説
 
-シングル作品としては「[チクタク](https://ja.wikipedia.org/wiki/チクタク "wikilink")」以来約3か月ぶりのリリースで、配信限定というフォーマットは初。
+シングル作品としては『[チクタク](https://ja.wikipedia.org/wiki/チクタク "wikilink")』以来約3か月ぶりのリリースで、配信限定というフォーマットは初。
 
 本作は、[2018年](../Page/2018年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")に放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系スペシャルドラマ『[忘却のサチコ](https://ja.wikipedia.org/wiki/忘却のサチコ#スペシャルドラマ "wikilink")』の主題歌に起用されており、ドラマ放送日の翌日にあたる[1月3日](../Page/1月3日.md "wikilink")に音楽配信サイトで配信が開始された\[1\]\[2\]。
 

@@ -1,11 +1,21 @@
 > この記事は[UFC on ESPN: Woodley vs. Burns](https://ja.wikipedia.org/wiki/UFC_on_ESPN:_Woodley_vs._Burns)から翻訳されています。
 
 
-**UFC on ESPN: Woodley vs. Burns**（ユーエフシー￼・オン・イーエスピーエヌ・ウッドリー・バーサス・バーンズ、別名**UFC on ESPN 9**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2020年](../Page/2020年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")のUFC APEXで開催された。
+**UFC on ESPN: Woodley vs. Burns**（ユーエフシー・オン・イーエスピーエヌ：ウッドリー・バーサス・バーンズ、別名**UFC on ESPN 9**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2020年](../Page/2020年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[UFC APEXで開催された](https://ja.wikipedia.org/wiki/UFC#UFCの施設 "wikilink")。
 
 ## 大会概要
 
-本大会では[タイロン・ウッドリー](https://ja.wikipedia.org/wiki/タイロン・ウッドリー "wikilink")とギルバート・バーンズのウェルター級戦が組まれた。
+本大会では[タイロン・ウッドリー](https://ja.wikipedia.org/wiki/タイロン・ウッドリー "wikilink")と[ギルバート・バーンズ](../Page/ギルバート・バーンズ.md "wikilink")のウェルター級戦が組まれた。
+
+## 実施された新型コロナウイルス対策
+
+[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")との協議により、[UFC 249から始まったフロリダ州で開催された](../Page/UFC_249.md "wikilink")3大会で実施された新型コロナウイルス感染予防対策よりも厳格化された対策が実施された\[1\]。
+
+  - 全ての選手及び大会関係者は大会開催地のラスベガスに移動する前に、新型コロナウイルスに関する質問票に回答する必要がある\[2\]。
+  - ホテル到着時に新型コロナウイルス感染検査を受けた後は、大会終了まで施設内で隔離される。施設からの外出はもちろんのこと、感染予防のため関係者以外の部外者との接触が禁止される\[3\]。
+  - 選手及び大会関係者のマスク着用の義務化\[4\]。
+  - 新型コロナウイルス感染検査は最低でも、ホテル到着時と、試合前日の計量時の2回以上実施される\[5\]。
+  - 本大会から6月27日の[UFC on ESPN 12までの](https://ja.wikipedia.org/wiki/UFC_on_ESPN:_Poirier_vs._Hooker "wikilink")[UFC APEXで行われた](https://ja.wikipedia.org/wiki/UFC#UFCの施設 "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")開催の5大会で、2500回以上のコロナウイルス感染症検査が実施され、陽性反応が出たのは11件で、[陽性率](https://ja.wikipedia.org/wiki/陽性率 "wikilink")は0.4％だった\[6\]。
 
 ## 試合結果
 
@@ -56,6 +66,7 @@
   - 第8試合 157.5ポンド契約 5分3R
     ○  ルーズベルト・ロバーツ vs.  ブロク・ウィーバー ×
     2R 3:26 リアネイキドチョーク
+    ※ウィーバーの体重超過によりライト級から変更
 
 <!-- end list -->
 
@@ -71,7 +82,7 @@
 
 <!-- end list -->
 
-  - 第11試合 ウェルター級 5分3R
+  - 第11試合 ウェルター級 5分5R
     ○  [ギルバート・バーンズ](../Page/ギルバート・バーンズ.md "wikilink") vs.  [タイロン・ウッドリー](https://ja.wikipedia.org/wiki/タイロン・ウッドリー "wikilink") ×
     5R終了 判定3-0（50-45、50-44、50-44）
 
@@ -95,5 +106,15 @@
 ## 外部リンク
 
   -
+  - [GONG KAKUTOGIによる試合結果](https://gonkaku.jp/articles/3936)
+
+  -
   -
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのネバダ州大会](https://ja.wikipedia.org/wiki/Category:UFCのネバダ州大会 "wikilink") [Category:2020年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:2020年のアメリカ合衆国のスポーツ "wikilink") [Category:2020年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2020年の総合格闘技 "wikilink") [Category:ラスベガスのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ラスベガスのスポーツ競技大会 "wikilink") [Category:2020年5月](https://ja.wikipedia.org/wiki/Category:2020年5月 "wikilink")
+
+1.  [NSAC approves upcoming UFC, boxing events in Vegas](https://www.espn.com/mma/story/_/id/29230313/nsac-approves-upcoming-ufc-boxing-events-vegas)ESPN 2020年5月28日
+2.
+3.
+4.
+5.
+6.  [UFC Fight Island to feature safe zone, increased testing](https://www.espn.com/mma/story/_/id/29420449/ufc-fight-island-feature-safe-zone-increased-testing)ESPN 2020年7月7日

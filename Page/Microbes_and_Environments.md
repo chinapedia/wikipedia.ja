@@ -11,6 +11,8 @@
 
 2003年より毎年、Microbes and Environmentsに掲載された総説等を除くオリジナル論文の中から、高く評価されたものをM\&E論文賞として表彰し\[5\]、’Most Valuable Paper of The Year’としてHP上で紹介している\[6\]。
 
+{{-}}
+
 ## 脚注
 
 ## 外部リンク

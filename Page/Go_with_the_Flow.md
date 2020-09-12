@@ -66,6 +66,9 @@
 10. **[Your Song](https://ja.wikipedia.org/wiki/Sleepless_in_Brooklyn "wikilink")**［4:35］
       -
         作詞・作曲：川上洋平 (from [\[ALEXANDROS](https://ja.wikipedia.org/wiki/［ALEXANDROS］ "wikilink")\])、編曲：清水俊也
+    <!-- end list -->
+      - 木村が主演として製作に携わったPlayStation4専用ソフト [SEGA](https://ja.wikipedia.org/wiki/SEGA "wikilink") [JUDGE EYES:死神の遺言の挿入歌だった](https://ja.wikipedia.org/wiki/JUDGE_EYES:死神の遺言 "wikilink")［ALEXANDROS］の楽曲のカバー。
+      - 木村拓哉をイメージしてこの楽曲を制作したという。
 11. **My Life**［3:52］
       -
         作詞・作曲：[KUMI](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[NAOKI](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、編曲：[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")

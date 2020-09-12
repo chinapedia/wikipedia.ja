@@ -16,9 +16,10 @@
 1.  **Dropout** \[4:01\]
       -
 
-        <div class="NavContent">
+        <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink") 作曲：[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink") 編曲：SEKAI NO OWARI
+        作詞・作曲：[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")
+        編曲：SEKAI NO OWARI
 
         </div>
 

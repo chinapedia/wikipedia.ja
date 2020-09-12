@@ -1,7 +1,7 @@
 > この記事は[巷のonちゃん](https://ja.wikipedia.org/wiki/巷のonちゃん)から翻訳されています。
 
 
-『**巷のonちゃん**』(ちまたのおんちゃん)は、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")の[紀行番組](../Page/紀行番組.md "wikilink")。
+『**のonちゃん**』(ちまたのおんちゃん)は、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")の[紀行番組](../Page/紀行番組.md "wikilink")。
 
 ## 内容
 
@@ -66,7 +66,7 @@ HTBのマスコットキャラクター「[onちゃん](https://ja.wikipedia.org
 
   - 出演 [onちゃん](https://ja.wikipedia.org/wiki/onちゃん "wikilink")、各市町村の皆さん
   - 題字、語り [嬉野雅道](../Page/嬉野雅道.md "wikilink")([水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")[ディレクター](../Page/ディレクター.md "wikilink"))
-  - テーマソング(onちゃんおはようたいそう～巷編 )編曲 畠山拓也
+  - テーマソング(onちゃんおはようたいそう～編 )編曲 畠山拓也
 
 ※ 海外でロケされた放送では、[アナウンサーの](../Page/日本のアナウンサー.md "wikilink")[大野恵](../Page/大野恵.md "wikilink")が「語り」を担当。
 

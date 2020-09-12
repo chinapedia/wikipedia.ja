@@ -43,6 +43,8 @@
 
 ## Yume Wo Katare（夢を語れ）
 
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Yume_Wo_Katare_Beppu.jpg "wikilink")[別府市](../Page/別府市.md "wikilink")[石垣東にある夢を語れ別府](https://ja.wikipedia.org/wiki/石垣_\(別府市\) "wikilink")\]\]
+
 ### 概要
 
   - その後、2012年10月に西岡津世志は活動の場を海外に広げ、アメリカの**ボストン**（[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")や[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")を始め、大学が100校以上もあるというアメリカ最大級の[学園都市](../Page/学園都市.md "wikilink")）で**Yume Wo Katare（夢を語れ）**を創業した。**二郎系では初めて海外進出**である。

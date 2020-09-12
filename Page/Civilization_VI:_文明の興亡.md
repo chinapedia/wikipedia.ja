@@ -94,7 +94,7 @@
 
   - [Civilizationシリーズの公式ウェブサイト](http://www.civilization.com/)
 
-[Category:ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:ウォー・シミュレーションゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink")
+[Category:ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:ウォー・シミュレーションゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink") [Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink")
 
 1.  [「シドマイヤーズ シヴィライゼーション VI」の最新拡張パック，「Rise & Fall」のアナウンストレイラー公開](https://www.4gamer.net/games/342/G034279/20171129021/)
 2.

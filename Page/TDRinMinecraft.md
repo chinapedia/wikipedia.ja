@@ -26,6 +26,7 @@ TDR in Minecraftは以下の施設を再現している。
 
   - JR舞浜駅
   - 東京ディズニーリゾート・ウェルカムセンター
+  - イクスピアリ
 
 ## 沿革
 
@@ -56,6 +57,8 @@ TDR in Minecraftは以下の施設を再現している。
       - [3月18日](../Page/3月18日.md "wikilink") - ロゴ変更。
       - [3月20日](../Page/3月20日.md "wikilink") - [第29回 マインクラフトサーバー合同マラソン大会](https://tdrinminecraft.jp/?page_id=4092)を開催。
       - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 開園。
+      - [6月23日](../Page/6月23日.md "wikilink") - バージョン変更(1.8.x から 1.12.2)。
+      - [6月28日](../Page/6月28日.md "wikilink") - テスト運営(https://tdrinminecraft.jp/?p=4313)。
 
 (沿革は <https://tdrinminecraft.jp/?page_id=62> から引用)
 

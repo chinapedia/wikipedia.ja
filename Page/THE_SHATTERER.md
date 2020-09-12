@@ -1,14 +1,13 @@
 > この記事は[THE SHATTERER](https://ja.wikipedia.org/wiki/THE_SHATTERER)から翻訳されています。
 
 
-『**THE SHATTERER**』（ザ・シャタラー）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[吉川晃司](../Page/吉川晃司.md "wikilink")の3枚目の[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤である。
+『ORIGINAL SOUNDTRACK ALBUM FROM THE MOTION PICTURE '**THE SHATTERER**'』（ザ・シャタラー）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[吉川晃司](../Page/吉川晃司.md "wikilink")の3枚目の[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤である。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") にSMSよりリリースされた。
 
 ## 解説
 
   - 吉川晃司の主演映画『シャタラー』のサウンドトラックである。
-  - 吉川晃司のシングル曲「[終わらないSun Set](https://ja.wikipedia.org/wiki/終わらないSun_Set "wikilink")」はロングバージョンで収録されている。
 
 ## 収録曲
 

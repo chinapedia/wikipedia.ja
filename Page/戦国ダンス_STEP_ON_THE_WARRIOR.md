@@ -58,7 +58,7 @@
 ## 外部リンク
 
   -
-[Category:戦国時代_(日本)を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台とした漫画作品 "wikilink") [Category:少女漫画](https://ja.wikipedia.org/wiki/Category:少女漫画 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:日本のライトノベル](https://ja.wikipedia.org/wiki/Category:日本のライトノベル "wikilink") [Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink")
+[Category:日本の戦国時代を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台とした漫画作品 "wikilink") [Category:少女漫画](https://ja.wikipedia.org/wiki/Category:少女漫画 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:日本のライトノベル](https://ja.wikipedia.org/wiki/Category:日本のライトノベル "wikilink") [Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:服部半蔵を題材とする作品](https://ja.wikipedia.org/wiki/Category:服部半蔵を題材とする作品 "wikilink")
 
 1.
 2.

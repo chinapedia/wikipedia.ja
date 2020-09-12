@@ -20,25 +20,25 @@
 
 1.  Lost (feat. Clean Bandit)
 
-2019年7月26日発売。通常バージョン。[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")のみ出演の[ミュージックビデオ](../Page/ミュージック・ビデオ.md "wikilink")\[13\]は[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")で撮影された。リリックビデオ\[14\]も存在する。
+> 2019年7月26日発売。通常バージョン。[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")のみ出演の[ミュージックビデオ](../Page/ミュージック・ビデオ.md "wikilink")\[13\]は[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")で撮影された。リリックビデオ\[14\]も存在する。
 
 ### Lost (feat. Clean Bandit)\[Acoustic\]
 
 1.  Lost (feat. Clean Bandit)\[Acoustic\]
 
-2019年9月6日発売。アコースティックバージョン。FukaseとClean Banditが出演しているミュージックビデオ\[15\]がある。
+> 2019年9月6日発売。アコースティックバージョン。FukaseとClean Banditが出演しているミュージックビデオ\[15\]がある。
 
 ### Lost (feat. Clean Bandit)\[Joel Corry Remix\]
 
 1.  Lost (feat. Clean Bandit)\[Joel Corry Remix\]
 
-2019年9月13日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のDJ兼プロデューサー、によるリミックスバージョン。
+> 2019年9月13日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のDJ兼プロデューサー、によるリミックスバージョン。
 
 ### Lost (feat. Clean Bandit)\[Fresh Mode Remix\]
 
 1.  Lost (feat. Clean Bandit)\[Fresh Mode Remix\]
 
-2019年9月20日発売。Fresh Modeによるリミックスバージョン。
+> 2019年9月20日発売。Fresh Modeによるリミックスバージョン。
 
 ## 脚注
 

@@ -115,6 +115,20 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/李天沢" title="wikilink">李天沢</a></p></td>
+<td></td>
+<td><p>2020年3月12日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -124,17 +138,12 @@
   - 鄧恩熙
   - 姚景元
   - 宋文嘉
-  - 李天沢
   - [張芸凡](https://ja.wikipedia.org/wiki/張芸凡 "wikilink")
   - 劉俊昊
 
 ### TF家族練習生
 
-  - 辜聖棵
   - 陳泗旭
-  - 曹俊偉
-  - 殷涌智
-  - 潘政霖
   - 趙冠羽
   - 朱志鑫
   - 左航

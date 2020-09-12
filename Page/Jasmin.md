@@ -20,11 +20,9 @@
 
 [2013年](../Page/2013年.md "wikilink")、2回目の開催では野外で初の[ファッションショーを開催し](../Page/ファッションモデル.md "wikilink")、約1300人を動員。
 
-しかしshowで借金を背負い、借金返済のため
-
 [2014年](../Page/2014年.md "wikilink")に一度看護師になる。
 
-[2015年](../Page/2015年.md "wikilink")借金返済後、やはり身体を動かす仕事に携わりたいと、フィットネスジムに入社。[ヨガ](../Page/ヨーガ.md "wikilink")、[エアロ](../Page/エアロビクスダンス.md "wikilink")、[ZUMBAなど](https://ja.wikipedia.org/wiki/ズンバ "wikilink")[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")資格取得。
+[2015年](../Page/2015年.md "wikilink")やはり身体を動かす仕事に携わりたいと、フィットネスジムに入社。[ヨガ](../Page/ヨーガ.md "wikilink")、[エアロ](../Page/エアロビクスダンス.md "wikilink")、[ZUMBAなど](https://ja.wikipedia.org/wiki/ズンバ "wikilink")[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")資格取得。
 
 同時に太ってしまった身体を変えたいと自信のトレーニングを始める。
 
@@ -46,7 +44,7 @@
 
 2019年、自身の数々のコンテスト、showの経験を経て、個性を大切にする前代未聞のDream girls showを立ち上げ、主催、運営、総合プロデュースを行う。
 
-[2020年](../Page/2020年.md "wikilink")、ベストオブミス福岡、ジャパンウィメンズコレクション福岡という2つの大会の[プロデューサー](../Page/プロデューサー.md "wikilink")及び[ウォーキング](../Page/ウォーキング.md "wikilink")講師、ボディメイク講師、[審査員を務め](../Page/審判員.md "wikilink")、同じく北海道大会も担当。
+[2020年](../Page/2020年.md "wikilink")、ベストオブミス福岡大会・北海道大会、ジャパンウィメンズコレクション福岡大会・北海道大会という2つの大会の[プロデューサー](../Page/プロデューサー.md "wikilink")及び[ウォーキング](../Page/ウォーキング.md "wikilink")講師、ボディメイク講師、[審査員を務め](../Page/審判員.md "wikilink")、同じく北海道大会も担当。
 
 ## 人物
 

@@ -610,7 +610,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:23nd_GLAAD_Media_Awards" title="wikilink">2012年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:23rd_GLAAD_Media_Awards" title="wikilink">2012年</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -956,7 +956,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/STAR_夢の代償" title="wikilink">STAR 夢の代償</a><br />
 <em>Star</em></p></td>
 <td><p><a href="../Page/フォックス放送.md" title="wikilink">Fox</a></p></td>
 <td></td>
@@ -1021,7 +1021,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/STAR_夢の代償" title="wikilink">STAR 夢の代償</a><br />
 <em>Star</em></p></td>
 <td><p><a href="../Page/フォックス放送.md" title="wikilink">Fox</a></p></td>
 <td></td>

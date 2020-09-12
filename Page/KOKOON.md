@@ -94,7 +94,6 @@
 
   - [吉本総合芸能学院](../Page/吉本総合芸能学院.md "wikilink")
   - [吉本興業所属タレント一覧](https://ja.wikipedia.org/wiki/吉本興業所属タレント一覧 "wikilink")
-  - [ネタパレ](https://ja.wikipedia.org/wiki/ネタパレ "wikilink")
 
 ## 脚注
 

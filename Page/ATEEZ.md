@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - 4月3日～4月21日、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")10都市（[ロンドン](../Page/ロンドン.md "wikilink")、[リスボン](../Page/リスボン.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ミラノ](../Page/ミラノ.md "wikilink")、[ブタペスト](https://ja.wikipedia.org/wiki/ブタペスト "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")）にて「The Expedition Tour In Europe」コンサートを開催\[15\]。これら北米5都市・ヨーロッパ10都市での初の海外公演は、全席完売を記録した\[16\]。
+  - 4月3日～4月21日、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")10都市（[ロンドン](../Page/ロンドン.md "wikilink")、[リスボン](../Page/リスボン.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ミラノ](../Page/ミラノ.md "wikilink")、[ブダペスト](../Page/ブダペスト.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")）にて「The Expedition Tour In Europe」コンサートを開催\[15\]。これら北米5都市・ヨーロッパ10都市での初の海外公演は、全席完売を記録した\[16\]。
 
 <!-- end list -->
 
@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 6月20日、音楽番組「[M COUNTDOWN](https://ja.wikipedia.org/wiki/M_COUNTDOWN "wikilink")」にて、楽曲WAVEで初の１位を獲得\[18\]。次いで、6月25日放送の音楽番組「The Show」でも同楽曲で１位を獲得した\[19\]。
+  - 6月20日、音楽番組「[M COUNTDOWN](https://ja.wikipedia.org/wiki/M_COUNTDOWN "wikilink")」にて、楽曲WAVEで初の１位を獲得\[18\]。次いで、6月25日放送の音楽番組「THE SHOW」でも同楽曲で１位を獲得した\[19\]。
 
 <!-- end list -->
 
@@ -87,9 +87,23 @@
 
 <!-- end list -->
 
-  - 3月11日、[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")の影響で、3月14〜29日に開催を予定していた「ATEEZ World Tour The Fellowship：Map The Treasure」の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")7都市（[マドリード](../Page/マドリード.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")）の公演を全て延期することが発表された\[33\]。次いで、4月2〜6日に開催を予定していた同ツアーの日本公演([Zepp](../Page/Zepp.md "wikilink") Osaka Bayside, [Zepp](../Page/Zepp.md "wikilink") Tokyo)の延期\[34\]、4月17〜26日に開催を予定していた[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")5都市（[ニューアーク](https://ja.wikipedia.org/wiki/ニューアーク "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[アトランタ](../Page/アトランタ.md "wikilink")、[ダラス](../Page/ダラス.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")）の公演の延期が発表された\[35\]。
-  - 5月8日、韓国文化を世界に伝える「2020 海外文化広報大使」に任命された\[36\]。
-  - 5月30日、公式[V LIVEチャンネルにて](https://ja.wikipedia.org/wiki/V_LIVE "wikilink")「ATEEZ ONLINE ATINY PARTY 'CRESCENT'」と題した無料オンラインファンミーティングを開催し、リアルタイム視聴者数140万を記録した\[37\]。
+  - 3月11日、[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")の影響で、3月14〜29日に開催を予定していた「ATEEZ World Tour The Fellowship：Map The Treasure」の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")7都市（[マドリード](../Page/マドリード.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")）の公演を全て延期することが発表された\[33\]。次いで、4月2〜6日に開催を予定していた同ツアーの日本公演([Zepp](../Page/Zepp.md "wikilink") Osaka Bayside, [Zepp](../Page/Zepp.md "wikilink") Tokyo)の延期\[34\]、4月17〜26日に開催を予定していた[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")5都市（[ニューアーク](https://ja.wikipedia.org/wiki/ニューアーク "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[アトランタ](../Page/アトランタ.md "wikilink")、[ダラス](../Page/ダラス.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")）の公演の延期が発表された\[35\]。後に、同ツアー日本公演は中止\[36\]、ヨーロッパ・アメリカ公演は2021年開催で調整中である旨追加案内があった\[37\]。
+
+<!-- end list -->
+
+  - 5月8日、韓国文化を世界に伝える「2020 海外文化広報大使」に任命された\[38\]。
+
+<!-- end list -->
+
+  - 5月30日、公式[V LIVEチャンネルにて](https://ja.wikipedia.org/wiki/V_LIVE "wikilink")「ATEEZ ONLINE ATINY PARTY 'CRESCENT'」と題した無料オンラインファンミーティングを開催し、リアルタイム視聴者数140万を記録した\[39\]。
+
+<!-- end list -->
+
+  - 6月26日、オンラインにて開催された「[KCON](https://ja.wikipedia.org/wiki/KCON "wikilink"):TACT 2020 SUMMER」に出演\[40\]。
+
+<!-- end list -->
+
+  - 8月4日、音楽番組「THE SHOW」にて、楽曲INCEPTIONで１位を獲得\[41\]。次いで、8月5日放送の音楽番組「[SHOW CHAMPION](https://ja.wikipedia.org/wiki/SHOW_CHAMPION "wikilink")」でも同楽曲で１位を獲得した\[42\]。
 
 ## メンバー
 
@@ -98,13 +112,13 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>名前[38]</p></th>
-<th><p>名前（韓国語・英語表記）[39][40]</p></th>
-<th><p>ポジション[41]</p></th>
-<th><p>生年月日[42]</p></th>
-<th><p>血液型[43]</p></th>
-<th><p>身長[44]</p></th>
-<th><p>出身地[45]</p></th>
+<th><p>名前[43]</p></th>
+<th><p>名前（韓国語・英語表記）[44][45]</p></th>
+<th><p>ポジション[46]</p></th>
+<th><p>生年月日[47]</p></th>
+<th><p>血液型[48]</p></th>
+<th><p>身長[49]</p></th>
+<th><p>出身地[50]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -125,7 +139,7 @@ Kim Hong Joong</p></td>
 <td><p>リーダー、ラップ、作曲</p></td>
 <td><p>1998年11月7日</p></td>
 <td><p>B型</p></td>
-<td><p>171cm</p></td>
+<td><p>172cm</p></td>
 <td><p><a href="../Page/安養市.md" title="wikilink">安養市</a></p></td>
 </tr>
 <tr class="odd">
@@ -135,7 +149,7 @@ Jeong Yun Ho</p></td>
 <td><p>パフォーマンス、ボーカル</p></td>
 <td><p>1999年3月23日</p></td>
 <td><p>A型</p></td>
-<td><p>184cm</p></td>
+<td><p>186cm[51]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/光州広域市" title="wikilink">光州広域市</a></p></td>
 </tr>
 <tr class="even">
@@ -155,7 +169,7 @@ Choi San</p></td>
 <td><p>ボーカル</p></td>
 <td><p>1999年7月10日</p></td>
 <td><p>B型</p></td>
-<td><p>175cm[46]</p></td>
+<td><p>175cm[52]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南海郡" title="wikilink">南海郡</a></p></td>
 </tr>
 <tr class="even">
@@ -165,7 +179,7 @@ Song Min Gi</p></td>
 <td><p>ラップ、パフォーマンス</p></td>
 <td><p>1999年8月9日</p></td>
 <td><p>B型</p></td>
-<td><p>183cm</p></td>
+<td><p>185cm[53]</p></td>
 <td><p><a href="../Page/仁川広域市.md" title="wikilink">仁川広域市</a></p></td>
 </tr>
 <tr class="odd">
@@ -175,7 +189,7 @@ Jung Woo Young</p></td>
 <td><p>パフォーマンス、ボーカル</p></td>
 <td><p>1999年11月26日</p></td>
 <td><p>A型</p></td>
-<td><p>173cm[47]</p></td>
+<td><p>173cm[54]</p></td>
 <td><p><a href="../Page/高陽市.md" title="wikilink">高陽市</a></p></td>
 </tr>
 <tr class="even">
@@ -191,79 +205,259 @@ Choi Jong Ho</p></td>
 </tbody>
 </table>
 
-## ディスコグラフィー\[48\]\[49\]
+## ディスコグラフィー\[55\]\[56\]
+
+**韓国**
 
 ### フルアルバム
 
-| 発売日        | タイトル                            | 表題曲          | レーベル                                                                                            | 発売国 |
-| ---------- | ------------------------------- | ------------ | ----------------------------------------------------------------------------------------------- | --- |
-| 2019年10月8日 | TREASURE EP.FIN : All To Action | WONDERLAND - | [Stone Music Entertainment](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink") | 韓国  |
-
-### リミックスアルバム
-
-| 発売日        | タイトル                              | 表題曲                     | レーベル                                                                                            | 発売国 |
-| ---------- | --------------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------- | --- |
-| 2019年12月4日 | TREASURE EP.EXTRA : SHIFT THE MAP |                         | [Stone Music Entertainment](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink") | 韓国  |
-| 2019年12月4日 | TREASURE EP.EXTRA : Shift The Map | UTOPIA(Japanese Ver.) - | [日本コロムビア](../Page/日本コロムビア.md "wikilink")                                                        | 日本  |
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>TREASURE EP.FIN : All To Action</strong><br />
+(2019年10月8日)</p></td>
+<td><ol>
+<li>End of the beginning</li>
+<li><strong>WONDERLAND</strong></li>
+<li>Dazzling Night</li>
+<li>안개（霧）</li>
+<li>Precious(overture)</li>
+<li>WIN</li>
+<li>if Without You</li>
+<li>친구(THANK U)</li>
+<li>Sunshine</li>
+<li>걸어가고 있어</li>
+<li>Beginning of the End</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ### ミニアルバム
 
 <table>
 <thead>
 <tr class="header">
-<th><p>発売日</p></th>
+<th><p>No.</p></th>
 <th><p>タイトル</p></th>
-<th><p>表題曲</p></th>
-<th><p>レーベル</p></th>
-<th><p>発売国</p></th>
+<th><p>収録曲</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2018年10月24日</p></td>
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>TREASURE EP.1 : All To Zero</strong><br />
+(2018年10月24日)</p></td>
+<td><ol>
+<li>Intro : Long Journey</li>
+<li><strong>해적왕（海賊王）</strong></li>
+<li>Treasure</li>
+<li>Twilight</li>
+<li>Stay</li>
+<li>My Way</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>TREASURE EP.2 : Zero To One</strong><br />
+(2019年1月15日)</p></td>
+<td><ol>
+<li>HALA HALA (Hearts Awakened, Live Alive)</li>
+<li><strong>Say My Name</strong></li>
+<li>Desire</li>
+<li>Light</li>
+<li>Promise</li>
+<li>From (CD Only)</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p><strong>TREASURE EP.3 : One To All</strong><br />
+(2019年6月10日)</p></td>
+<td><ol>
+<li>UTOPIA</li>
+<li><strong>ILLUSION</strong></li>
+<li><strong>WAVE</strong></li>
+<li>AURORA</li>
+<li>Dancing Like Butterfly Wings</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p><strong>4th</strong></p></td>
+<td><p><strong>TREASURE EPILOGUE : Action To Answer</strong><br />
+(2020年1月6日)</p></td>
+<td><ol>
+<li><strong>Answer</strong></li>
+<li>ILLUSION</li>
+<li>지평선 (Horizon)</li>
+<li>Star 1117</li>
+<li>Precious</li>
+<li>Outro : Long Journey</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5th</strong></p></td>
+<td><p><strong>ZERO : FEVER Part.1</strong><br />
+(2020年7月29日)</p></td>
+<td><ol>
+<li>Dear Diary : 2016.07.29</li>
+<li>FEVER</li>
+<li><strong>THANXX</strong></li>
+<li>춤을 춰 (TO THE BEAT)</li>
+<li><strong>INCEPTION</strong></li>
+<li>Good Lil Boy</li>
+<li>One Day At A Time</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+**日本**
+
+### フルアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>TREASURE EP. EXTRA: Shift The Map</strong><br />
+(2019年12月4日)</p></td>
+<td><ol>
+<li>Hearts Awakened, Live Alive (Expression Revisited)</li>
+<li>HALA HALA (Traditional Treatment Mix)</li>
+<li>Pirate King (Overload Mix)</li>
+<li>Treasure (Soothing Harmonies Mix)</li>
+<li>UTOPIA (Japanese Ver.)</li>
+<li>Say My Name (Flavor of Latin with Juwon Park)[A]</li>
+<li>ILLUSION (Chillin’ With BUDDY Mix)</li>
+<li>WAVE (Ollounder’s Bold Dynamics Mix)</li>
+<li>AURORA (Japanese Ver.)</li>
+<li>Twilight (Classic BUDDY Mix)</li>
+<li>Promise (Notation from Señor Juwon Park)[A]</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### ミニタイトル
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>TREASURE EP.Map To Answer</strong><br />
+(2020年2月13日)</p></td>
+<td><ol>
+<li>Declaration</li>
+<li>Answer (Japanese Ver.)</li>
+<li>Better</li>
+<li>WONDERLAND (SEAN OH's Skrt Mix)</li>
+<li>Sunrise (Atmospheric Mix by SPACECOWBOY)</li>
+<li>Star 1117 (BUDDY's Melodic Mix)</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### ミュージックビデオ
+
+[ATEEZ公式チャンネル](https://www.youtube.com/channel/UC2e4Ukj5Pfr7cb3KpJAFBdQ)
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>作品名</p></th>
+<th><p>MV</p></th>
+<th><p>他</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>2018年</strong></p></td>
 <td><p>TREASURE EP.1 : All To Zero</p></td>
-<td><p>해적왕(Pirate King) -<br />
-Treasure -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Stone_Music_Entertainment" title="wikilink">Stone Music Entertainment</a></p></td>
-<td><p>韓国</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=tLV83ndOwz4">Treasure</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=RqJ1rH9M5G0">해적왕(Pirate King)</a></li>
+</ul></td>
 </tr>
 <tr class="even">
-<td><p>2019年1月15日</p></td>
+<td><p><strong>2019年</strong></p></td>
 <td><p>TREASURE EP.2 : Zero To One</p></td>
-<td><p>HALA HALA (Hearts Awakened, Live Alive) -<br />
-Say My Name -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Stone_Music_Entertainment" title="wikilink">Stone Music Entertainment</a></p></td>
-<td><p>韓国</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=1gQ_-Jp5o7o">Say My Name</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=e6O84iYhtIg">HALA HALA (Hearts Awakened, Live Alive)’</a></li>
+<li><a href="https://www.youtube.com/watch?v=wWhCCXmOl3g">ATEEZ(에이티즈) - 'HALA HALA (Hearts Awakened, Live Alive)' Dance Practice</a></li>
+</ul></td>
 </tr>
 <tr class="odd">
-<td><p>2019年6月10日</p></td>
 <td><p>TREASURE EP.3 : One To All</p></td>
-<td><p>ILLUSION -<br />
-WAVE -<br />
-AURORA -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Stone_Music_Entertainment" title="wikilink">Stone Music Entertainment</a></p></td>
-<td><p>韓国</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=FIInyEWWW-s">WAVE</a></li>
+<li><a href="https://www.youtube.com/watch?v=i_HzsHss94E">ILLUSION</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=rxDk1NuUccQ">AUROLA</a></li>
+</ul></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2020年1月6日</p></td>
-<td><p>TREASURE EPILOGUE : Action To Answer</p></td>
-<td><p>Answer -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Stone_Music_Entertainment" title="wikilink">Stone Music Entertainment</a></p></td>
-<td><p>韓国</p></td>
+<td><p>TREASURE EP.FIN : All To Action</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=Z_BhMhZpAug">WONDERLAND</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=hmWVbmeA3gs">WONDERLAND</a></li>
+</ul></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2020年2月12日</p></td>
-<td><p>TREASURE EP.Map To Answer</p></td>
-<td><p>Answer (Japanese Ver.) -</p></td>
-<td><p><a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a></p></td>
-<td><p>日本</p></td>
+<td><p><strong>2020年</strong></p></td>
+<td><p>TREASURE EPILOGUE : Action To Answer</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=dTT3MRODUsA">Answer</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=gXrmoI8xy28">Answer</a></li>
+<li><a href="https://www.youtube.com/watch?v=Nzw4E-fQoLE">지평선 (Horizon)</a></li>
+</ul></td>
 </tr>
 <tr class="even">
-<td><p>2020年2月13日</p></td>
-<td><p>TREASURE EP.Map To Answer</p></td>
+<td><p>ZERO : FEVER Part.1</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=2NArH91kHoQ">INCEPTION</a></li>
+<li><a href="https://www.youtube.com/watch?v=K7LY9Ta0eiY">THANXX</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=QccLehD5uCA">INCEPTION</a></li>
+</ul></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Stone_Music_Entertainment" title="wikilink">Stone Music Entertainment</a></p></td>
-<td><p>韓国</p></td>
 </tr>
 </tbody>
 </table>
@@ -334,3 +528,10 @@ AURORA -</p></td>
 47.
 48.
 49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.

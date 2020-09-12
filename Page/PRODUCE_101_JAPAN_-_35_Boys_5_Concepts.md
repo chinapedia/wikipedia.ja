@@ -1,7 +1,7 @@
 > この記事は[PRODUCE 101 JAPAN - 35 Boys 5 Concepts](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN_-_35_Boys_5_Concepts)から翻訳されています。
 
 
-『**PRODUCE 101 JAPAN - 35 Boys 5 Concepts**』（プロデュース ワンオーワン　ジャパン　サーティーファイブボーイズ ファイブコンセプツ）は、[2019年](../Page/2019年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")にLAPONE Entertainmentから配信限定でリリースされた[PRODUCE 101 JAPANのミニアルバム](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")。
+『**PRODUCE 101 JAPAN - 35 Boys 5 Concepts**』（プロデュース ワンオーワン　ジャパン　サーティーファイブボーイズ ファイブコンセプツ）は、[2019年](../Page/2019年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[LAPONEエンタテイメント](https://ja.wikipedia.org/wiki/LAPONEエンタテイメント "wikilink")から配信限定でリリースされた[PRODUCE 101 JAPANのミニアルバム](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")。
 
 ## 概要
 
@@ -34,13 +34,13 @@
       - 作曲：Gloryface(Full8loom),Jinli(Full8loom),Jake K
     <!-- end list -->
       -
-        参加メンバー - [キム・ヒチョン](../Page/キム・ヒチョン.md "wikilink"),[大澤駿弥](https://ja.wikipedia.org/wiki/大澤駿弥 "wikilink"),[安藤誠明](../Page/安藤誠明.md "wikilink"),本田康祐,[與那城奨](../Page/與那城奨.md "wikilink"),[金城碧海](../Page/金城碧海.md "wikilink"),佐野文哉
+        参加メンバー - [キム・ヒチョン](../Page/キム・ヒチョン.md "wikilink"),大澤駿弥,[安藤誠明](../Page/安藤誠明.md "wikilink"),[本田康祐](https://ja.wikipedia.org/wiki/本田康祐 "wikilink"),[與那城奨](../Page/與那城奨.md "wikilink"),[金城碧海](../Page/金城碧海.md "wikilink"),佐野文哉
 5.  **やんちゃBOYやんちゃGIRL** (3:21)
       - 作詞:KZ,中村彼方
       - 作曲：KZ,Nthonius,PUYO
     <!-- end list -->
       -
-        参加メンバー - [宮島優心](../Page/宮島優心.md "wikilink"),今西正彦,北川玲叶,小松倖真,福地正,佐藤隆士,[大平祥生](../Page/大平祥生.md "wikilink")
+        参加メンバー - 宮島優心,今西正彦,北川玲叶,小松倖真,福地正,佐藤隆士,[大平祥生](../Page/大平祥生.md "wikilink")
 
 ## 関連項目
 

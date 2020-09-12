@@ -15,7 +15,7 @@ Dazzlerは、『[ポピュラーエレクトロニクス](https://ja.wikipedia.o
 
 [Early_Dazzler_Software.jpg](https://ja.wikipedia.org/wiki/File:Early_Dazzler_Software.jpg "fig:Early_Dazzler_Software.jpg") Dazzlerの当初の広告では、3種類のソフトウェアが販売されていた（[紙テープ](../Page/紙テープ.md "wikilink")で提供されていた）\[9\]。『[Conway's Game of Life](../Page/ライフゲーム.md "wikilink")』、英数字の表示を行うプログラム『Dazzlewriter』、カラフルなパターン生成を行うプログラム『Kaleidoscope』である。
 
-『[バイト](https://ja.wikipedia.org/wiki/バイト_\(雑誌\) "wikilink")』1976年6月号の表紙には、『Conway's Game of Life』を動作させたDazzlerの画像が掲載されており、このソフトウェアの作者がエド・ホール(Ed Hall)であると書かれている。『バイト』誌では、アニメーションツール『Dazzlemation』、およびこのソフトで最初のアニメーション『[Magenta Martini](https://www.youtube.com/watch?v=eJ3JuueLh2Q/)』の作者をスティーブ・ダンピエ(Steve Dompier)としている。ジョージ・テイト（後に[アシュトン・テイト](https://ja.wikipedia.org/wiki/アシュトン・テイト "wikilink")の共同設立者）は、Dazzler用の三目並べゲームの作者としてクレジットされており、（リーチェン・ワン）は『Kaleidoscope』の作者としてクレジットされている\[10\]。
+『[バイト](https://ja.wikipedia.org/wiki/バイト_\(雑誌\) "wikilink")』1976年6月号の表紙には、『Conway's Game of Life』を動作させたDazzlerの画像が掲載されており、このソフトウェアの作者がエド・ホール(Ed Hall)であると書かれている。『バイト』誌では、アニメーションツール『Dazzlemation』、およびこのソフトで最初のアニメーション『[Magenta Martini](https://www.youtube.com/watch?v=eJ3JuueLh2Q/)』の作者をスティーブ・ダンピエ(Steve Dompier)としている。ジョージ・テイト（後に[アシュトン・テイト](https://ja.wikipedia.org/wiki/アシュトン・テイト "wikilink")の共同設立者）は、Dazzler用の三目並べゲームの作者としてクレジットされており、[王理瑱](../Page/王理瑱.md "wikilink")（リーチェン・ワン）は『Kaleidoscope』の作者としてクレジットされている\[10\]。
 
 コンピューター・マート・オブ・ニューヨークのオーナーであるは、1976年初頭にニューヨーク市の5番街と32番街の角にある自身の店のショーウィンドウにカラーテレビを設置し、『Kaleidoscope』で万華鏡の変化するパターンを表示させた。そのときのことをヴァイトは次のように語っている。「車で通りかかった人々は車を止めて見始めました。それは今までに見たことのないものでした。Dazzlerは短時間のうちに5番街の渋滞を引き起こしたのです\!」警察はビルの大家に連絡を取り、テレビの接続を切らせた\[11\]。
 

@@ -31,7 +31,7 @@
 
 ## 関連項目
 
-  - [PCCカー (シカゴ・サーフェス・ライン)](https://ja.wikipedia.org/wiki/PCCカー_\(シカゴ・サーフェス・ライン\) "wikilink") - [シカゴ](../Page/シカゴ.md "wikilink")で路面電車やバスを運営していたのPCCカーに関する項目。試作車のうち2両（4001、7001）はシカゴ・サーフェス・ラインに導入された。
+  - [PCCカー (シカゴ・サーフェス・ライン)](https://ja.wikipedia.org/wiki/PCCカー_\(シカゴ・サーフェス・ライン\) "wikilink") - [シカゴ](../Page/シカゴ.md "wikilink")で路面電車やバスを運営していた[シカゴ・サーフェス・ライン](https://ja.wikipedia.org/wiki/シカゴ・サーフェス・ライン "wikilink")のPCCカーに関する項目。試作車のうち2両（4001、7001）はシカゴ・サーフェス・ラインに導入された。
 
 <!-- end list -->
 

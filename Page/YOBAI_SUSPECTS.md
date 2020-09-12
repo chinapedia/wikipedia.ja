@@ -14,6 +14,7 @@
 
 ## 外部リンク
 
-  -
+  - Akyk(https://www.instagram.com/aki__yuki/?hl=ja)
+
   -
 [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")

@@ -21,7 +21,7 @@
 
 ## カバー
 
-  - 道明寺歌鈴（[新田ひより](https://ja.wikipedia.org/wiki/新田ひより "wikilink")）、浜口あやめ（[田澤茉純](https://ja.wikipedia.org/wiki/田澤茉純 "wikilink")）、脇山珠美（[嘉山未紗](https://ja.wikipedia.org/wiki/嘉山未紗 "wikilink")） - ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』収録曲として[2020年](../Page/2020年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に追加\[6\]。[競技かるた](../Page/競技かるた.md "wikilink")を舞台とした『ちはやふる』のオープニングテーマであったこともあり、歌唱担当キャラクターはゲーム内で和風曲を歌っているユニットである\[7\]。
+  - 道明寺歌鈴（[新田ひより](https://ja.wikipedia.org/wiki/新田ひより "wikilink")）、浜口あやめ（[田澤茉純](https://ja.wikipedia.org/wiki/田澤茉純 "wikilink")）、脇山珠美（[嘉山未紗](https://ja.wikipedia.org/wiki/嘉山未紗 "wikilink")） - ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』収録曲として[2020年](../Page/2020年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に追加\[6\]。同年7月15日発売の『[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 40 バベル](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS_STARLIGHT_MASTER#40_バベル "wikilink")』に収録\[7\]。[競技かるた](../Page/競技かるた.md "wikilink")を舞台とした『ちはやふる』のオープニングテーマであったこともあり、歌唱担当キャラクターはゲーム内で和風曲を歌っているユニットである\[8\]。
 
 ## 脚注
 
@@ -44,3 +44,4 @@
 5.
 6.
 7.
+8.

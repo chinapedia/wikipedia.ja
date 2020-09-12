@@ -1191,7 +1191,7 @@ Gina Alice Redlinger</p></td>
   -
   - [One World：Together at Home＜日本語字幕版＞](https://www.fujitv.co.jp/b_hp/togetherathome/index.html) - フジテレビによる番組公式サイト
 
-[Category:チャリティー・コンサート](https://ja.wikipedia.org/wiki/Category:チャリティー・コンサート "wikilink") [Category:2020年のコンサート](https://ja.wikipedia.org/wiki/Category:2020年のコンサート "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:2020年の音楽](https://ja.wikipedia.org/wiki/Category:2020年の音楽 "wikilink") [Category:2020年4月](https://ja.wikipedia.org/wiki/Category:2020年4月 "wikilink") [Category:2019新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症 "wikilink") [Category:アメリカ合衆国の音楽史](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の音楽史 "wikilink")
+[Category:チャリティー・コンサート](https://ja.wikipedia.org/wiki/Category:チャリティー・コンサート "wikilink") [Category:2020年のコンサート](https://ja.wikipedia.org/wiki/Category:2020年のコンサート "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:2020年の音楽](https://ja.wikipedia.org/wiki/Category:2020年の音楽 "wikilink") [Category:2020年4月](https://ja.wikipedia.org/wiki/Category:2020年4月 "wikilink") [Category:各国・各地域の2019新型コロナウイルス感染症の流行](https://ja.wikipedia.org/wiki/Category:各国・各地域の2019新型コロナウイルス感染症の流行 "wikilink") [Category:アメリカ合衆国の音楽史](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の音楽史 "wikilink")
 
 1.
 2.

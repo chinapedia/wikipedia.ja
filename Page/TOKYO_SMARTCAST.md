@@ -5,7 +5,7 @@
 
 ## 概要
 
-2015年（平成27年）[地上アナログテレビ放送停波後の](../Page/NTSC.md "wikilink")[VHF-Low帯](https://ja.wikipedia.org/wiki/テレビ周波数チャンネル#移動受信用地上基幹放送 "wikilink")（90-108MHz）を利用するi-dioに番組供給するため、[エフエム東京](../Page/エフエム東京.md "wikilink")（TFM）などの[出資](https://ja.wikipedia.org/wiki/出資 "wikilink")によりに設立。
+2015年（平成27年）[地上アナログテレビ放送停波後の](../Page/NTSC.md "wikilink")[VHF-Low帯](https://ja.wikipedia.org/wiki/テレビ周波数チャンネル#移動受信用地上基幹放送 "wikilink")（90-108MHz）を利用するi-dioに番組供給するため、[エフエム東京](../Page/エフエム東京.md "wikilink")（TFM）などの[出資](https://ja.wikipedia.org/wiki/出資 "wikilink")により設立。
 
 2016年（平成28年）i-dioはサービス開始、TSは、**TS ONE**の放送を開始した。
 
@@ -69,8 +69,6 @@ i-dioの基幹チャンネル、「新たな音楽との出会いを、最高音
   - 10月7日 - 解散\[9\]
   - 2020年（令和2年）
       - 2月27日 - [東京地方裁判所](../Page/東京地方裁判所.md "wikilink")から特別清算開始決定を受ける\[10\]。
-
-## 脚注
 
 ## 外部リンク
 

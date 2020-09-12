@@ -8,9 +8,12 @@
 ## 概要
 
   - 自身初の配信限定シングル。
-  - 2018年6月30日に同曲の[MVが公開された](../Page/ミュージック・ビデオ.md "wikilink")\[2\]。その後再生回数を大きく伸ばし、YouTubeでの再生回数は1000万回を突破。
+  - [2018年](../Page/2018年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に同曲の[MVが公開された](../Page/ミュージック・ビデオ.md "wikilink")\[2\]。その後再生回数を大きく伸ばし、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")での再生回数は1000万回を突破。
   - 表題曲「**Flash\!\!\!**」のMVは始めてバンドの演奏シーンをフィーチャーした映像に仕上げられていて、本作のプロデュースを手がけたクリエイティブ集団のPERIMETRONは「彼らのステージを初めてみて感じた『衝撃』をそのままに、純度を落とさず撮影した直球勝負の作品になってます」とコメントしている\[3\]。
-  - また、2020年3月から放送されている [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「5G」のCMソングに起用されている\[4\]\[5\]。
+  - [常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink")曰くこの曲のMVはかなりの自信作だったが、光の点滅が激しい故、TVで放送することが禁止されてしまった\[4\]。（加工を通し放送されたこともある）
+  - メンバーである[常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink")も、「King Gnuを象徴する曲」とインタビューで語っている\[5\]。
+  - この曲は昔からライブで披露されてきた曲で、この曲がライブで演奏される際にはメンバー[勢喜遊](../Page/勢喜遊.md "wikilink")によるドラム、サンプラーソロをイントロに用いることが多い。また、各メンバーのライブアレンジが多い曲でもある。
+  - また、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から放送されている [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「5G」のCMソングに起用されている\[6\]\[7\]。
 
 ## 収録曲
 
@@ -19,7 +22,7 @@
         作詞・作曲：[常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink")　編曲：King Gnu
     <!-- end list -->
       - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")『5G』CMソング
-      - 1stアルバム『[Tokyo Rendez-Vous](https://ja.wikipedia.org/wiki/Tokyo_Rendez-Vous "wikilink")』の制作が落ち着いた後に制作された楽曲で、配信開始以前からライブ等で披露されており、ブラッシュアップを重ね、現在の形になった\[6\]。
+      - 1stアルバム『[Tokyo Rendez-Vous](https://ja.wikipedia.org/wiki/Tokyo_Rendez-Vous "wikilink")』の制作が落ち着いた後に制作された楽曲で、配信開始以前からライブ等で披露されており、ブラッシュアップを重ね、現在の形になった\[8\]。
 
 ## 脚注
 
@@ -36,3 +39,5 @@
 4.
 5.
 6.
+7.
+8.

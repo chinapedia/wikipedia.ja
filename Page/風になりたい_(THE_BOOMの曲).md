@@ -37,7 +37,7 @@ CMソングとしても度々使用されており、これまでに「[DCカー
 
 ### レッドシアターズ
 
-[2009年](../Page/2009年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")、『[爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")』のレギュラー芸人15人で結成された[レッドシアターズが同曲をカヴァーし](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")、シングルとして発売した。[規格品番](../Page/規格品番.md "wikilink")はPCCA-02999。このユニットは[めざせ\!お台場合衆国2009 〜フジがやらなきゃ誰がやる\!〜のイメージキャラクターとして結成され](https://ja.wikipedia.org/wiki/お台場合衆国 "wikilink")、この曲はこのイベントのテーマソングに起用された。また、オリコンチャートではTHE BOOMの原曲では記録できなかったオリコントップ10入りを果たしており、同曲がカヴァーという形でオリコントップ10入りを果たした\[1\]。また、番組MCの[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")が出演していた[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")最終回公開収録での最終演目もこの曲だった。さらに内村は楽曲の参加はしていないが、PVでは番組のキャラで登場し、記者会見ではメンバーが歌っている横で太鼓をたたいていた。
+[2009年](../Page/2009年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")、『[爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")』のレギュラー芸人15人で結成された[レッドシアターズが同曲をカヴァーし](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")、シングルとして発売した。[規格品番](../Page/規格品番.md "wikilink")はPCCA-02999。このユニットは「[めざせ\!お台場合衆国2009 〜フジがやらなきゃ誰がやる\!〜](https://ja.wikipedia.org/wiki/お台場合衆国 "wikilink")」のイメージキャラクターとして結成され、この曲はこのイベントのテーマソングに起用された。また、オリコンチャートではTHE BOOMの原曲では記録できなかったオリコントップ10入りを果たしており、同曲がカヴァーという形でオリコントップ10入りを果たした\[1\]。また、番組MCの[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")が出演していた『[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）最終回公開収録での最終演目もこの曲だった。さらに内村は楽曲の参加はしていないが、PVでは番組のキャラで登場し、記者会見ではメンバーが歌っている横で太鼓をたたいていた。
 
 #### 参加メンバー
 
@@ -77,7 +77,7 @@ CMソングとしても度々使用されており、これまでに「[DCカー
   - [城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink") - アルバム『ミナミカゼ』（[2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")発売。[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink") PCCA-04231。）にてカヴァー。編曲：[ただすけ](../Page/ただすけ.md "wikilink")。
   - [DEEN](../Page/DEEN.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売アルバム[バタフライ](../Page/バタフライ.md "wikilink")にてカヴァー収録。
   - [菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")、[中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink") - 2018年、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[カローラスポーツ](https://ja.wikipedia.org/wiki/トヨタ・カローラスポーツ "wikilink")」のCMでカバー。
-  - 依田芳乃（[高田憂希](https://ja.wikipedia.org/wiki/高田憂希 "wikilink")）、藤原肇（[鈴木みのり](https://ja.wikipedia.org/wiki/鈴木みのり_\(声優\) "wikilink")） - [2019年](../Page/2019年.md "wikilink")9月24日、ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』収録曲として追加\[2\]。同年10月8日から配信販売開始。
+  - 依田芳乃（[高田憂希](https://ja.wikipedia.org/wiki/高田憂希 "wikilink")）、藤原肇（[鈴木みのり](https://ja.wikipedia.org/wiki/鈴木みのり_\(声優\) "wikilink")） - [2019年](../Page/2019年.md "wikilink")9月24日、ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』収録曲として追加\[2\]。同年10月8日から配信販売が行われ、2020年7月15日発売の『[THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 40 バベル](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS_STARLIGHT_MASTER#40_バベル "wikilink")』に収録された。
   - [TABARU](https://ja.wikipedia.org/wiki/TABARU "wikilink") - 2019年7月発売のミニアルバム『TABACAFE』にてカヴァー。
 
 ## 出典

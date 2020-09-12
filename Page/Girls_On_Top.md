@@ -87,9 +87,9 @@
 24.
 25. 　**<span lang="ko">가을편지</span>** （カウルピョンジ）
       -
-        作詞：[<span lang="ko">고은</span>（コウン）](https://ja.wikipedia.org/wiki/高銀 "wikilink")、作曲：[<span lang="ko">김민기</span>（キム・ミンギ）](https://ja.wikipedia.org/wiki/キム・ミンギ "wikilink")
+        作詞：[<span lang="ko">고은</span>（コウン）](https://ja.wikipedia.org/wiki/高銀 "wikilink")、作曲：[<span lang="ko">김민기</span>（キム・ミンギ）](https://ja.wikipedia.org/wiki/金民基 "wikilink")
           -
-            [<span lang="ko">고은</span>（高銀）の詞に](https://ja.wikipedia.org/wiki/高銀 "wikilink")[<span lang="ko">김민기</span>（キム・ミンギ）が曲をつけ](https://ja.wikipedia.org/wiki/キム・ミンギ "wikilink")、[<span lang="ko">양희은</span>（ヤン・ヒウン）](https://ja.wikipedia.org/wiki/ヤン・ヒウン "wikilink")、[<span lang="ko">최양숙</span>（チェ・ヤンス<small>ク</small>）](https://ja.wikipedia.org/wiki/チェ・ヤンスク "wikilink")、[<span lang="ko">박효신</span>（パク・ヒョシン）など数多くの歌手がカバーした](https://ja.wikipedia.org/wiki/パク・ヒョシン "wikilink")[スタンダード・ナンバー](../Page/スタンダード・ナンバー.md "wikilink")。「<span lang="ko">가을편지</span> （カウル・ピョンジ）」は、「秋の手紙」の意。この曲を撮影した[PVが](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、プロモーションで活用された。
+            [<span lang="ko">고은</span>（高銀）の詞に](https://ja.wikipedia.org/wiki/高銀 "wikilink")[<span lang="ko">김민기</span>（キム・ミンギ）が曲をつけ](https://ja.wikipedia.org/wiki/金民基 "wikilink")、[<span lang="ko">양희은</span>（ヤン・ヒウン）](https://ja.wikipedia.org/wiki/ヤン・ヒウン "wikilink")、[<span lang="ko">최양숙</span>（チェ・ヤンス<small>ク</small>）](https://ja.wikipedia.org/wiki/チェ・ヤンスク "wikilink")、[<span lang="ko">박효신</span>（パク・ヒョシン）など数多くの歌手がカバーした](https://ja.wikipedia.org/wiki/パク・ヒョシン "wikilink")[スタンダード・ナンバー](../Page/スタンダード・ナンバー.md "wikilink")。「<span lang="ko">가을편지</span> （カウル・ピョンジ）」は、「秋の手紙」の意。この曲を撮影した[PVが](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、プロモーションで活用された。
 
 ### 香港版・台湾版
 

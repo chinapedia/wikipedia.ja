@@ -22,7 +22,8 @@
       - [RABニュースレーダー](../Page/RABニュースレーダー.md "wikilink")（月-金曜 18:15 - 19:00）
           -
             キャスター：[菅原厚](https://ja.wikipedia.org/wiki/菅原厚 "wikilink")、[猪股南](https://ja.wikipedia.org/wiki/猪股南 "wikilink")
-            フィールドキャスター:[鮫島大史](../Page/鮫島大史.md "wikilink")・[中村香音](https://ja.wikipedia.org/wiki/中村香音 "wikilink")
+            フィールドキャスター:[鮫島大史](../Page/鮫島大史.md "wikilink")・[山谷清和](https://ja.wikipedia.org/wiki/山谷清和 "wikilink")
+            天気コーナー担当：[中村香音](https://ja.wikipedia.org/wiki/中村香音 "wikilink")・[吉崎ちひろ](https://ja.wikipedia.org/wiki/吉崎ちひろ "wikilink")
   - TVI [テレビ岩手](../Page/テレビ岩手.md "wikilink")
       - [ニュースプラス1いわて](../Page/ニュースプラス1いわて.md "wikilink")（月-金曜 18:15 - 18:55・土曜 17:20 - 17:30・日曜 17:25 - 17:30。祝日は「news every.」を15:50より臨時にフルネットし、ローカルニュースを18:40 - 18:54へ枠小する場合あり=祝日は月 - 木15:50 - 17:53枠・金16:25 - 17:53枠で編成の「[5きげんテレビ](../Page/5きげんテレビ.md "wikilink")」を休止し、「news every.」15:50 - 17:53枠を臨時にフルネット）
           -
@@ -52,7 +53,7 @@
   - YBS [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
       - [YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")（月 - 金曜 18:15 - 19:00）
           -
-            キャスター：[酒井康宜](../Page/酒井康宜.md "wikilink")、[水越千尋](https://ja.wikipedia.org/wiki/水越千尋 "wikilink")
+            キャスター：[酒井康宜](../Page/酒井康宜.md "wikilink")、[荒木美穂](https://ja.wikipedia.org/wiki/荒木美穂 "wikilink")
   - TSB [テレビ信州](../Page/テレビ信州.md "wikilink")
       - [news every. (テレビ信州)](https://ja.wikipedia.org/wiki/news_every._\(テレビ信州\) "wikilink") ■（月 - 金曜 17:53 - 19:00、ローカルニュースは18:15 - 19:00）
           -
@@ -178,7 +179,7 @@
   -
 
       -
-        [TVIニュース](https://ja.wikipedia.org/wiki/TVIニュース "wikilink") - [TVIニュースワイド](https://ja.wikipedia.org/wiki/TVIニュースワイド "wikilink") - [TVIニュースToday](https://ja.wikipedia.org/wiki/TVIニュースToday "wikilink") - [テレビ岩手ニュースアイ](https://ja.wikipedia.org/wiki/テレビ岩手ニュースアイ "wikilink")
+        [テレビ岩手ニュース](https://ja.wikipedia.org/wiki/TVIニュース "wikilink") - [ジャストニュース岩手](https://ja.wikipedia.org/wiki/ジャストニュース岩手 "wikilink") - [テレビ岩手ニュースワイド](https://ja.wikipedia.org/wiki/テレビ岩手ニュースワイド "wikilink") - [テレビ岩手ニュースToday](https://ja.wikipedia.org/wiki/テレビ岩手ニュースToday "wikilink") - [テレビ岩手ニュースアイ](https://ja.wikipedia.org/wiki/テレビ岩手ニュースアイ "wikilink")
 
 <!-- end list -->
 
@@ -222,7 +223,7 @@
   -
 
       -
-        [FCTワイドニュース](https://ja.wikipedia.org/wiki/FCTワイドニュース "wikilink") - [FCTニュース](https://ja.wikipedia.org/wiki/FCTニュース "wikilink") - [ふくしまToday](../Page/NNNふくしまToday.md "wikilink") - [ニュースプラス1ふくしま](../Page/NNNニュースプラス1ふくしま.md "wikilink") - [FCTニュースプラス1](https://ja.wikipedia.org/wiki/FCTニュースプラス1 "wikilink") - [ゴジてれシャトル](../Page/ゴジてれシャトル.md "wikilink")
+        [FCTワイドニュース](https://ja.wikipedia.org/wiki/FCTワイドニュース "wikilink") - [FCTニュース](https://ja.wikipedia.org/wiki/FCTニュース "wikilink") - [ふくしまToday](../Page/NNNふくしまToday.md "wikilink") - [NNNふくしまToday](../Page/NNNふくしまToday.md "wikilink") - [ニュースプラス1ふくしま](../Page/NNNニュースプラス1ふくしま.md "wikilink") - [FCTニュースプラス1](https://ja.wikipedia.org/wiki/FCTニュースプラス1 "wikilink") - [ゴジてれシャトル](../Page/ゴジてれシャトル.md "wikilink")
 
 <!-- end list -->
 
@@ -409,7 +410,7 @@
   -
 
       -
-        [RKCニュース](../Page/RKCニュース.md "wikilink") - テレビレポートRKC６時です - [RKCテレビ夕刊](https://ja.wikipedia.org/wiki/RKCテレビ夕刊 "wikilink") - [RKCきょうのニュース](https://ja.wikipedia.org/wiki/RKCきょうのニュース "wikilink") - [こうちtoday](https://ja.wikipedia.org/wiki/こうちtoday "wikilink") - [NNNこうちToday](https://ja.wikipedia.org/wiki/NNNこうちToday "wikilink") - [NNNニュースプラス1こうち](https://ja.wikipedia.org/wiki/ニュースプラス1こうち "wikilink") - [こうちNOW](../Page/こうちNOW.md "wikilink") - [こうちNOW friday](https://ja.wikipedia.org/wiki/こうちNOW_friday "wikilink")（金曜のみ）
+        [RKCニュース](../Page/RKCニュース.md "wikilink") - [テレビレポートRKC6時です](https://ja.wikipedia.org/wiki/テレビレポートRKC6時です "wikilink") - [こうちToday](https://ja.wikipedia.org/wiki/こうちToday "wikilink") - [NNNこうちToday](https://ja.wikipedia.org/wiki/こうちToday "wikilink") - [NNNニュースプラス1こうち](https://ja.wikipedia.org/wiki/ニュースプラス1こうち "wikilink") - [こうちNOW](../Page/こうちNOW.md "wikilink") - [こうちNOW friday](https://ja.wikipedia.org/wiki/こうちNOW_friday "wikilink")（金曜のみ）
 
 <!-- end list -->
 
@@ -442,7 +443,7 @@
   -
 
       -
-        [KKTニュース](../Page/KKTニュース.md "wikilink") - [くまもとNOW](https://ja.wikipedia.org/wiki/くまもとNOW "wikilink") - [ニュースプラス1くまもと](https://ja.wikipedia.org/wiki/ニュースプラス1くまもと "wikilink") - [KKTニュースプラス1](https://ja.wikipedia.org/wiki/KKTニュースプラス1 "wikilink") - [Newsリアルタイムくまもと](https://ja.wikipedia.org/wiki/Newsリアルタイムくまもと "wikilink")
+        [KKTニュース](../Page/KKTニュース.md "wikilink") - [くまもとNOW](https://ja.wikipedia.org/wiki/くまもとNOW "wikilink") - [NNNくまもとNOW](https://ja.wikipedia.org/wiki/NNNくまもとNOW "wikilink") - [ニュースプラス1くまもと](https://ja.wikipedia.org/wiki/ニュースプラス1くまもと "wikilink") - [KKTニュースプラス1](https://ja.wikipedia.org/wiki/KKTニュースプラス1 "wikilink") - [Newsリアルタイムくまもと](https://ja.wikipedia.org/wiki/Newsリアルタイムくまもと "wikilink")
 
 <!-- end list -->
 

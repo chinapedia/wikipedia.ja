@@ -11,7 +11,7 @@
 
 韓国版の場合にはパソコンで使用すると、写真集をダウンロードできるなどの特典が付く。日本版は[CCCD仕様となっており](../Page/コピーコントロールCD.md "wikilink")、[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")として「**No.1** *(English Version)*」が収録されている。
 
-韓国国内版の初回版と現行版および日本版においては、タイトル曲「**No.1**」および「**My Sweetie**」「**Listen To My Heart**」の3曲のアレンジが微妙に異なっており、特に「**No.1**」の初版アレンジは、明らかに日本語現行版との違いが明確である。[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")版においては、韓国初回版のアレンジに準拠するものではあるが、日本版においては日本現行版に見られるアレンジのものが収録されている。収録曲のうち「**No.1**」と「**Realize** - ***Stay with me*** 」は、後に日本語版が制作され、日本において発売された。
+韓国国内版の初回版と現行版および日本版においては、タイトル曲「**No.1**」および「**My Sweetie**」「**Listen To My Heart**」の3曲のアレンジが微妙に異なっており、特に「**No.1**」の初版アレンジは、明らかに日本語現行版との違いが明確である。[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")版においては、韓国初回版のアレンジに準拠するものではあるが、日本版においては韓国現行版に見られるアレンジのものが収録されている。収録曲のうち「**No.1**」と「**Realize** - ***Stay with me*** 」は、後に日本語版が制作され、日本において発売された。
 
 また、当盤収録の「**Realize**」は[BoA](../Page/BoA.md "wikilink")が初めて作詞作曲を行ったものとして知られており、この曲の日本語版は、日本での7thシングル「**VALENTI**」のカップリング曲としても収録されている。
 
@@ -20,11 +20,11 @@
 1.  **No. 1**
       -
         PVは日本で撮影されており、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")などが映っている。監督は「[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART.md "wikilink")」や「[Every Heart -ミンナノキモチ-](../Page/Every_Heart_-ミンナノキモチ-.md "wikilink")」を手がけた[竹石渉](https://ja.wikipedia.org/wiki/竹石渉 "wikilink")。
-        初回版ではDon't start nowの流れを汲むようなキックの強いアレンジとなっている。
+        所謂韓国初回版ではDon't start nowの流れを汲むようなキックの強いアレンジとなっている。
 2.  **My Sweetie**
       -
         作曲: ユ・ヨンジン
-        初回版ではアレンジに大差はないが、ラストの「One,Two」の部分にエコーがかけられているという違いがある。
+        所謂韓国初回版ではアレンジに大差はないが、ラストの「One,Two」の部分にエコーがかけられているという違いがある。
 3.  **<span lang="ko">늘</span>**（ヌル） - ***Waiting***
       -
         作曲: [カンタ](https://ja.wikipedia.org/wiki/安七リョン "wikilink")
@@ -63,7 +63,7 @@
         作曲: キム・ミソン
 15. **Listen To My Heart** (*Bonus Track*)
       -
-        初回版はコーラスがやや過剰気味である。このバージョンは後に「[MIRACLE](../Page/MIRACLE_\(BoAのアルバム\).md "wikilink")」に再録された。
+        所謂韓国初回版はコーラスがやや過剰気味である。このバージョンは後に「[MIRACLE](../Page/MIRACLE_\(BoAのアルバム\).md "wikilink")」に再録された。
 16. **No. 1 (English Version)'' (**日本版 Bonus Track'')
       -
         日本版のみに収録。

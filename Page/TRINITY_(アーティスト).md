@@ -230,4 +230,6 @@
 </tbody>
 </table>
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[カテゴリ:日本のダンス・ミュージシャン](https://ja.wikipedia.org/wiki/カテゴリ:日本のダンス・ミュージシャン "wikilink")
+
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

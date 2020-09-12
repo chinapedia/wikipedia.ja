@@ -273,7 +273,7 @@
 
 [サウンドトラック](../Page/サウンドトラック.md "wikilink")は日本の[オリコン](../Page/オリコンチャート.md "wikilink")、アメリカの[ビルボード](../Page/ビルボード.md "wikilink")で共にTop 5にランクインする大ヒットとなった。
 
-日本ではサウンドトラック収録曲の中でも[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")の「Deeper Underground」がプロモーションに使用されたが、アメリカでは[ザ・ウォールフラワーズの](https://ja.wikipedia.org/wiki/ジェイコブ・ディラン#ザ・ウォールフラワーズ "wikilink")「"Heroes"」（[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のカバー曲）が使用された。また、エンディングに使われた[パフ・ダディ](https://ja.wikipedia.org/wiki/パフ・ダディ "wikilink")と[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")による[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の「[カシミール](../Page/カシミール_\(曲\).md "wikilink")」のカバー曲の録音は、インターネットを利用して、ニューヨークで歌うパフ・ダディにロンドンからジミー・ペイジがギターを被せるという、当時では珍しい方法をとり話題となった。
+日本ではサウンドトラック収録曲の中でも[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")の「[ディーパー・アンダーグラウンド](https://ja.wikipedia.org/wiki/ディーパー・アンダーグラウンド "wikilink")」がプロモーションに使用されたが、アメリカでは[ザ・ウォールフラワーズの](https://ja.wikipedia.org/wiki/ジェイコブ・ディラン#ザ・ウォールフラワーズ "wikilink")「"Heroes"」（[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のカバー曲）が使用された。また、エンディングに使われた[パフ・ダディ](https://ja.wikipedia.org/wiki/パフ・ダディ "wikilink")と[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")による[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の「[カシミール](../Page/カシミール_\(曲\).md "wikilink")」のカバー曲の録音は、インターネットを利用して、ニューヨークで歌うパフ・ダディにロンドンからジミー・ペイジがギターを被せるという、当時では珍しい方法をとり話題となった。
 
 日本のアーティストからは[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」（クレジットでは「LOSE CONTROL」）が提供された。音楽番組『[うたばん](../Page/うたばん.md "wikilink")』にL'Arc〜en〜Cielがゲストとして登場した際に劇中での使用箇所（冒頭の日本漁船のシーンに10秒ほどかかる）を取り上げられているが、クローズアップしてもなお聴き取りにくいほどのボリュームであり、L'Arc〜en〜Cielのメンバーですら初見で聴き取ることはできなかった。
 

@@ -37,7 +37,7 @@
 （上記以外）
 
   - [Pink Primetime](http://www.pinkladyamerica.com/pinkprimetime.html) at [PINK LADY THE WEBSITE](http://www.pinkladyamerica.com/) ：アメリカ人のピンク・レディー・ファンのサイトにおける本番組の紹介。メイン・ライターへのインタビューもある。
-  - [Culture Vulture 2005-02-14 「子供の資本主義」の先兵としてのピンク・レディー](http://d.hatena.ne.jp/d-sakamata/20050214) at [はてなダイアリー](http://www.hatena.ne.jp/) ：本番組の論評。近藤正高による『ZAMDA』第10号（2002年12月号）の記事を、本人が転載したもの。『[週刊新潮](../Page/週刊新潮.md "wikilink")』1980年3月20日号よりの引用も含まれている。
+  - [Culture Vulture 2005-02-14 「子供の資本主義」の先兵としてのピンク・レディー](https://d-sakamata.hatenablog.com/entries/2005/02/14) at [はてなダイアリー](https://www.hatena.ne.jp:443/) ：本番組の論評。近藤正高による『ZAMDA』第10号（2002年12月号）の記事を、本人が転載したもの。『[週刊新潮](../Page/週刊新潮.md "wikilink")』1980年3月20日号よりの引用も含まれている。
   - [Pink Lady](http://www.geocities.co.jp/Hollywood-Miyuki/4222/tvs/pinklady.htm) at  ：アメリカ在住の生盛健のサイトにおける本番組評。
   - [Bad TV is in the 'Pink'](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/10/24/DD197947.DTL) at [San Francisco Chronicle](http://www.sfgate.com/chronicle/) ：[サンフランシスコ・クロニクル](../Page/サンフランシスコ・クロニクル.md "wikilink")紙2001年10月24日号に載った、本番組DVDの批評。
   - [Pink Lady and Jeff](http://www.jumptheshark.com/topic/pink-lady-jeff-general-comments/1556) at [Jump the Shark](http://www.jumptheshark.com/index.jspa) ：一般人のコメントが寄せられたアメリカのサイト。

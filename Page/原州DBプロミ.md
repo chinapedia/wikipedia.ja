@@ -13,17 +13,20 @@
 
 [2007](../Page/2007年.md "wikilink")-[08シーズン](https://ja.wikipedia.org/wiki/2008年 "wikilink")、3シーズンぶり、原州東部としては初の韓国一に輝く。
 
+2020年、[中村太地が韓国プロバスケ初の日本人選手として加入](https://ja.wikipedia.org/wiki/中村太地_\(バスケットボール\) "wikilink")\[1\]
+
 ## 永久欠番
 
   - **9** - [許載](../Page/許載.md "wikilink")
 
 ## 現在の主な所属選手
 
-  - [金鋳城](https://ja.wikipedia.org/wiki/金鋳城_\(バスケットボール\) "wikilink")
+  - [中村太地](https://ja.wikipedia.org/wiki/中村太地_\(バスケットボール\) "wikilink")
 
 ## 主な歴代所属選手
 
   - 許載
+  - [金鋳城](https://ja.wikipedia.org/wiki/金鋳城_\(バスケットボール\) "wikilink")
   - [ジャミール・ワトキンス](https://ja.wikipedia.org/wiki/ジャミール・ワトキンス "wikilink")
   - [ウェンデル・ホワイト](https://ja.wikipedia.org/wiki/ウェンデル・ホワイト "wikilink")
   - [リチャード・ロビー](https://ja.wikipedia.org/wiki/リチャード・ロビー "wikilink")
@@ -34,8 +37,12 @@
   - [レジー・オコーサ](https://ja.wikipedia.org/wiki/レジー・オコーサ "wikilink")
   - [アンソニー・リチャードソン](https://ja.wikipedia.org/wiki/アンソニー・リチャードソン "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [公式HP](http://www.dbpromy.co.kr/)
 
-[Category:韓国のバスケットボールチーム](https://ja.wikipedia.org/wiki/Category:韓国のバスケットボールチーム "wikilink") [Category:江原道_(南)](https://ja.wikipedia.org/wiki/Category:江原道_\(南\) "wikilink")
+[Category:韓国のバスケットボールチーム](https://ja.wikipedia.org/wiki/Category:韓国のバスケットボールチーム "wikilink") [Category:江原道_(南)](https://ja.wikipedia.org/wiki/Category:江原道_\(南\) "wikilink") [Category:1996年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1996年設立のスポーツチーム "wikilink")
+
+1.

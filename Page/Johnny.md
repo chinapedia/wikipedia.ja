@@ -120,12 +120,16 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [1981年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1981年の音楽#デビュー "wikilink") - （ソロデビュー）同じ年にデビューした歌手
+
 ## 外部リンク
 
   - [元銀蝿ジョニーが街頭ライブ](https://web.archive.org/web/20050307112039/http://www.sponichi.co.jp/entertainment/kiji/2001/07/24/05.html) -　スポニチWebarchive
   - [Highway Dancer Johnny](http://page.freett.com/wagainochi/page1/page.html) -　ディスコグラフィ
 
-[Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のロック・ミュージシャン "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:キングレコードの人物](https://ja.wikipedia.org/wiki/Category:キングレコードの人物 "wikilink") [Category:神奈川大学出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川大学出身の人物 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のロック・ミュージシャン "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:キングレコードの人物](https://ja.wikipedia.org/wiki/Category:キングレコードの人物 "wikilink") [Category:神奈川大学出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川大学出身の人物 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:横浜銀蝿](https://ja.wikipedia.org/wiki/Category:横浜銀蝿 "wikilink")
 
 1.  [解禁\!(秘)ストーリー 〜知られざる真実〜](https://ja.wikipedia.org/wiki/解禁!\(秘\)ストーリー_〜知られざる真実〜 "wikilink")(2010年12月7日放送)
 2.

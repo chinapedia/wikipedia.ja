@@ -93,7 +93,7 @@
 <!-- end list -->
 
 1.  [ひとりぼっちの部屋](https://ja.wikipedia.org/wiki/ひとりぼっちの部屋 "wikilink")（[高木麻早](../Page/高木麻早.md "wikilink")） /矢口真里
-2.  [異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")（[久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")）/保田圭
+2.  [異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")（[久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")）/保田圭
 3.  [真夜中のドア～Stay With Me](https://ja.wikipedia.org/wiki/真夜中のドア～Stay_With_Me "wikilink")（[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")）/メロン記念日
 4.  [秋桜](../Page/秋桜_\(山口百恵の曲\).md "wikilink")（[山口百恵](../Page/山口百恵.md "wikilink")）/中澤裕子
 5.  [22才の別れ](../Page/22才の別れ.md "wikilink")（[かぐや姫](../Page/かぐや姫_\(フォークグループ\).md "wikilink")）/矢口真里・保田圭

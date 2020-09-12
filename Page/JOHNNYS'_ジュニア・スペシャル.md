@@ -28,7 +28,7 @@
   - その後、ジュニア・スペシャルには井上純一が加入。すぐに続いて畠山昌久も加入して4人組になるが、井上が脱退し、最終的に「板野・林・畠山」という構成に落ち着いた。 一方、ジャニーズ事務所を辞めた6名のJr.は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")へ移籍し、新グループ「**[メッツ](../Page/メッツ_\(ジャニーズ\).md "wikilink")**」を結成してレコードデビューした。
   - [1975年](../Page/1975年.md "wikilink")2月21日、グループ名も正式に「ジュニア・スペシャル」から「**JOHNNYS' ジュニア・スペシャル**」となり、『ベルサイユのばら』でレコードデビュー。
   - [日本テレビ系の早朝子供番組](../Page/日本テレビ放送網.md "wikilink")『[おはよう\!こどもショー](../Page/おはよう!こどもショー.md "wikilink")』にレギュラー出演。 「JJSの親子ゲームコーナー」というレギュラーコーナーを持ち、板野がレフェリー、林が紅組キャプテン、畠山が白組キャプテンの役だった。 また、番組内で歌も数曲披露しており、持ち歌には『パイの歌』、『らっぱっぱ』、『またですか？』、『ねずみ小僧次郎吉』などがあった。 同番組には、メリー喜多川の愛娘・[藤島ジュリー景子](https://ja.wikipedia.org/wiki/藤島ジュリー景子 "wikilink")も一緒に出演していた。
-  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に解散。その後は「[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")」（後述）として再デビューした。
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")にはJOHNNYS' ジュニア・スペシャルとしてテレビ番組出演等はあったものの、新譜のリリースはなかった。その後同年7月、「[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")」（後述）として再デビューし、JOHNNYS' ジュニア・スペシャルとしての活動は終了した。
 
 ## エピソード
 
@@ -40,7 +40,7 @@
 
 ### テレビドラマ
 
-  - [ボクは恋人](https://ja.wikipedia.org/wiki/ボクは恋人 "wikilink") （[1974年](../Page/1974年.md "wikilink")7月 - 、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [ボクは恋人](https://ja.wikipedia.org/wiki/ボクは恋人 "wikilink") （[1974年](../Page/1974年.md "wikilink") 、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 
 ### バラエティ番組
 
@@ -52,9 +52,10 @@
       - 1975年5月16日・「待ってました五郎刑事」 [桜田淳子](../Page/桜田淳子.md "wikilink")と共演
       - 1975年9月5日・「なに\!金賞?」 [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")、[野口五郎](../Page/野口五郎.md "wikilink")と共演
       - 1977年7月8日・「スター返上」 [石川さゆり](../Page/石川さゆり.md "wikilink")と共演
-  - チビらサンデー （[1976年](../Page/1976年.md "wikilink")7月 - 、テレビ朝日）
+  - チビらサンデー （[1976年](../Page/1976年.md "wikilink") 、テレビ朝日）
   - パクパクコンテスト （1976年、[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")）ゲスト出演で『サタデー・ナイト』を披露
   - [ヤングおー\!おー\!](../Page/ヤングおー!おー!.md "wikilink") （[毎日放送](../Page/毎日放送.md "wikilink")）
+  - [ヤング歌の祭典](../Page/ヤング歌の祭典.md "wikilink") （第1回：[1975年](../Page/1975年.md "wikilink")5月5日、第4回：[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")5月2日、[NHK総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビ "wikilink")）
 
 ### 映画
 
@@ -81,8 +82,8 @@
   - 第55回ウエスタン・カーニバル （1976年3月24日 - 28日、日本劇場）
   - JOE vs JJS ＋ GANGS　1976 サマー・ビッグ・シティ・コンサート （1976年8月9日 - 23日）
   - 第56回ウエスタン・カーニバル （1976年8月24日 - 28日、日本劇場）
-  - ジャニーズ・ジュニア　Jump up スターパレード’77 （1977年冬）
   - ジャニーズ・ジュニア　サマー・フェスティバル （1977年夏）
+  - ジャニーズ・ジュニア　Jump up スターパレード’77 （1977年冬）
 
 ## ディスコグラフィ
 
@@ -156,7 +157,7 @@
 
 ### 概要
 
-  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")より『南十字星』でレコードデビュー。
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")7月に[キングレコード](../Page/キングレコード.md "wikilink")より『南十字星』でレコードデビュー。
   - [1979年](../Page/1979年.md "wikilink")、林・畠山・吉本の3名が脱退を表明。そして、[1979年](../Page/1979年.md "wikilink")5月13日に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて、約4時間に渡る解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")が行われた。
   - 5人組としての「VIP」は解散したが、その後も板野と河村の2人だけでグループを存続させた。そして、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にデュオ曲を1枚だけリリースしたが、やがて自然消滅した。
   - 河村と吉本は「週刊プレイボーイ」（1979年2月13日号）にて水着姿で登場している。
@@ -169,7 +170,7 @@
 
 <!-- end list -->
 
-1.  **南十字星**（1978年7月21日。）
+1.  **南十字星**（1978年7月21日）
       - 南十字星 - 作詞：[竜真知子](../Page/竜真知子.md "wikilink")／作曲：[渡辺岳夫](../Page/渡辺岳夫.md "wikilink")／編曲：[ミッキー吉野](../Page/ミッキー吉野.md "wikilink")
       - たそがれハーバー - 作詞：竜真知子／作曲：渡辺岳夫／編曲：ミッキー吉野
 2.  **青春にかけろ\!**（1978年10月5日）
@@ -199,7 +200,8 @@
 <!-- end list -->
 
   - 畠山は脱退後に事務所を移籍。1980年に「**畠 真之**（はた まさゆき）」に改名して[俳優](../Page/俳優.md "wikilink")として活動。 [1984年](../Page/1984年.md "wikilink")に[劇団四季](../Page/劇団四季.md "wikilink")へ入団すると、再び「畠山昌久」の名に戻して活動していたが、しばらくしてから「**畠山 久**（はたけやま ひさし）」へと改名した。1993年には[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われたロックオペラ「ハムレット」にレアティーズ役で出演し、[X JAPANの](../Page/X_JAPAN.md "wikilink")[TOSHI](https://ja.wikipedia.org/wiki/ToshI "wikilink")（当時）や[デーモン小暮](https://ja.wikipedia.org/wiki/デーモン小暮 "wikilink")（当時）などと共演。[2003年](../Page/2003年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、転移性[胆管癌](../Page/胆管癌.md "wikilink")により死去。45歳没。
-  - 林は[VIP脱退の](https://ja.wikipedia.org/wiki/JOHNNYS%27_ジュニア・スペシャル#VIP "wikilink")1ヶ月後から、プライベートでソロのアコースティックライブ活動を数年間続けていた。その後は結婚して男児を一人もうけ、妻の実家の家業である不動産業を手伝っていた。[2016年](../Page/2016年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[心筋梗塞](../Page/心筋梗塞.md "wikilink")により死去していたことが判明した（死亡月日は未公表）。57歳没。5月28日に[横浜市](../Page/横浜市.md "wikilink")内で葬儀が行われた\[3\]。
+  - 林は[VIP脱退の](https://ja.wikipedia.org/wiki/JOHNNYS%27_ジュニア・スペシャル#VIP "wikilink")1ヶ月後から、プライベートでソロのアコースティックライブ活動を数年間続けていた。その後は結婚して男児を一人もうけ、妻の実家の家業である不動産業を手伝っていた。[2016年](../Page/2016年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[心筋梗塞](../Page/心筋梗塞.md "wikilink")により死去していたことが判明した。57歳没。5月28日に[横浜市](../Page/横浜市.md "wikilink")内で葬儀が行われた\[3\]。
+  - 板野と吉本は[2019年](../Page/2019年.md "wikilink")9月4日、[東京ドーム](../Page/東京ドーム.md "wikilink")で行われた二部制（第一部：芸能関係者、第二部：一般参列者）の[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")「お別れの会」に参列した\[4\]。
 
 ## 出典
 
@@ -211,9 +213,11 @@
   - [ジャニーズJr.解散グループ (1990年以前)](../Page/ジャニーズJr.解散グループ_\(1990年以前\).md "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
   - [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
+  - [1975年の音楽\#デビュー](https://ja.wikipedia.org/wiki/1975年の音楽#デビュー "wikilink") - 同じ年にデビューした歌手
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のジャニーズ所属者](https://ja.wikipedia.org/wiki/Category:過去のジャニーズ所属者 "wikilink")
 
 1.
 2.
 3.
+4.  [今井翼、田中聖も参列　ジャニーさん「お別れの会」主な参列者、元所属タレント一覧](https://www.sponichi.co.jp/entertainment/news/2019/09/04/kiji/20190904s00041000321000c.html)2019年9月4日　スポニチＡｎｎｅｘ（[スポーツニッポン新聞社](https://ja.wikipedia.org/wiki/スポーツニッポン新聞社 "wikilink")）

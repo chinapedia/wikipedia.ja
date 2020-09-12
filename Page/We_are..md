@@ -66,6 +66,6 @@
 
 ## タイアップ
 
-  - パチスロ銀河鉄道999（2012年、[山佐](../Page/山佐.md "wikilink")）。BIG BONUSの時に聞こえる。
+  - パチスロ銀河鉄道999（2012年、[山佐](../Page/山佐.md "wikilink")）
 
 [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:花王のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:花王のコマーシャルソング "wikilink") [Category:化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:化粧品のコマーシャルソング "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:クリスマスソング](https://ja.wikipedia.org/wiki/Category:クリスマスソング "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

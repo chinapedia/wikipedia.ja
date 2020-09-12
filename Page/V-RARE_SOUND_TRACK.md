@@ -3,7 +3,7 @@
 
 **V-RARE SOUND TRACK**（ブイ-レアサウンドトラック）とは、[KONAMIの](../Page/コナミデジタルエンタテインメント.md "wikilink")[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")（[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")）である『[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』、『[beatmaniaIIDX](https://ja.wikipedia.org/wiki/beatmaniaIIDX "wikilink")』の収録楽曲のリミックス、ロングバージョン、初収録音源などレアな音源を収録したCDである。
 
-単体での市販はされておらず、家庭用（主に[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）BEMANIシリーズの一部作品の**特別版**（[コナミスタイル](../Page/コナミスタイル.md "wikilink")でのみ販売・数量限定）に付属している。ゲーム別に分けられておらず、全て通し番号が振られている
+単体での市販はされておらず、家庭用（主に[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）BEMANIシリーズの一部作品の**特別版**（[コナミスタイル](../Page/コナミスタイル.md "wikilink")でのみ販売・数量限定）に付属している。ゲーム別に分けられておらず、全て通し番号が振られている。
 
 ## V-RARE SOUND TRACK
 

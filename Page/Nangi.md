@@ -145,7 +145,7 @@
 
 ## 外部リンク
 
-  - [エピックレコードジャパンによる公式サイト](http://www.nangiweb.com/)(2010年9月更新停止)
+  - (2010年9月更新停止)
 
   - [tearbridge productionによる公式サイト](http://tearbridge.com/nangi/)(2011年1月更新停止)
 

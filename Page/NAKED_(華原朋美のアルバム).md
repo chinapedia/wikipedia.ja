@@ -69,6 +69,6 @@
 
 ## 外部リンク
 
-  - [tomomi kahara UNIVERSAL MUSIC Official Website](http://www.universal-music.co.jp/kahara-tomomi/)
+  - [tomomi kahara UNIVERSAL MUSIC Official Website](https://www.universal-music.co.jp/kahara-tomomi/)
 
 [Category:華原朋美のアルバム](https://ja.wikipedia.org/wiki/Category:華原朋美のアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink")

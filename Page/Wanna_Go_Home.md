@@ -1,7 +1,7 @@
 > この記事は[Wanna Go Home](https://ja.wikipedia.org/wiki/Wanna_Go_Home)から翻訳されています。
 
 
-『**Wanna Go Home**』（ワナ・ゴー・ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")がリリースした2作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**Wanna Go Home**』（ワナ・ゴー・ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")がリリースした2作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 当初はBMGビクターから発売されていたが、後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスへ移行した。
 
@@ -23,7 +23,7 @@
         原曲は、[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")『うるさくてゴメンねLIVE』収録の「Falling Tide」
 6.  **Life II**(4:48)
       -
-        2ndソロシングル「[\#1090 〜Thousand Dreams〜](../Page/1090_〜Thousand_Dreams〜.md "wikilink")」のカップリング「LIFE」の別ヴァージョン。アコースティックギターとパーカッションをメインとしたアレンジとなっている。
+        2ndソロシングル『[\#1090 〜Thousand Dreams〜](../Page/＃1090_〜Thousand_Dreams〜.md "wikilink")』のカップリング「LIFE」の別ヴァージョン。アコースティックギターとパーカッションをメインとしたアレンジとなっている。
 7.  **['88〜Love Story](../Page/'88〜Love_Story.md "wikilink")**(6:36)
       -
         1stソロシングル「'88〜Love Story／Love Ya」の1曲目。特別な表記はないが、アルバムヴァージョン。シングルとはリミックスが異なり、フェードアウトせずに曲が終了する。
@@ -31,7 +31,7 @@
       -
         1stソロシングル「'88〜Love Story／Love Ya」の2曲目。特別な表記はないが、アルバムヴァージョン。シングルとはイントロが異なり、中盤のギターソロのメロディが変更されている。
         終盤に[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")と松本本人による[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")を連想させるような声が入っている。
-9.  **[\#1090 〜Thousand Dreams〜](../Page/1090_〜Thousand_Dreams〜.md "wikilink")**(4:42)
+9.  **[\#1090 〜Thousand Dreams〜](../Page/＃1090_〜Thousand_Dreams〜.md "wikilink")**(4:42)
       -
         2ndソロシングル。特別な表記はないが、アルバムヴァージョン。シングルとは、イントロが多少異なっている。
 10. **Jammin' of The Guitar**(3:43)

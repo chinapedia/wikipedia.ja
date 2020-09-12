@@ -141,7 +141,7 @@
 
 <!-- end list -->
 
-  - [ブリタニー](https://ja.wikipedia.org/wiki/ブリタニー（モデル） "wikilink")（仙台コレクション2008\[28\]、[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")「[Awa\!](https://ja.wikipedia.org/wiki/Awa! "wikilink")」など、[歌手](../Page/歌手.md "wikilink")としても活動\[29\]。）
+  - [ブリタニー](https://ja.wikipedia.org/wiki/ブリタニー_\(モデル\) "wikilink")（仙台コレクション2008\[28\]、[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")「[Awa\!](https://ja.wikipedia.org/wiki/Awa! "wikilink")」など、[歌手](../Page/歌手.md "wikilink")としても活動\[29\]。）
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@
 
 <!-- end list -->
 
-  - [Rico](https://ja.wikipedia.org/wiki/Rico（モデル） "wikilink")（仙台コレクション2008）\[36\]
+  - [Rico](https://ja.wikipedia.org/wiki/Rico_\(モデル\) "wikilink")（仙台コレクション2008）\[36\]
 
 #### メンズ
 
@@ -182,7 +182,7 @@
 
 <!-- end list -->
 
-  - [ゆな](https://ja.wikipedia.org/wiki/ゆな（モデル） "wikilink")（仙台コレクション2012）\[43\]
+  - [ゆな](https://ja.wikipedia.org/wiki/ゆな_\(モデル\) "wikilink")（仙台コレクション2012）\[43\]
 
 <!-- end list -->
 

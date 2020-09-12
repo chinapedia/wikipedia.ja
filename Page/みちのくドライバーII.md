@@ -45,6 +45,7 @@
   - [バイパー](https://ja.wikipedia.org/wiki/バイパー_\(プロレスラー\) "wikilink")
   - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")
   - [ケビン・オーエンズ](https://ja.wikipedia.org/wiki/ケビン・スティーン "wikilink")
+  - [ビオレント・ジャック](https://ja.wikipedia.org/wiki/ビオレント・ジャック "wikilink")
 
 ## 派生技
 

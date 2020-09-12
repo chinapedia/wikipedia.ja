@@ -126,6 +126,5 @@
 
 ## 外部リンク
 
-  - [テレビ朝日 快感MAP](http://www.tv-asahi.co.jp/kaikanmap/)
-
+  -
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:ネオバラエティ](https://ja.wikipedia.org/wiki/Category:ネオバラエティ "wikilink") [Category:テレビ朝日のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のバラエティ番組の歴史 "wikilink") [Category:久本雅美](https://ja.wikipedia.org/wiki/Category:久本雅美 "wikilink") [Category:タカアンドトシ](https://ja.wikipedia.org/wiki/Category:タカアンドトシ "wikilink")

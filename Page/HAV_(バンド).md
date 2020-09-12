@@ -29,28 +29,26 @@
 
 ## 作品
 
-順位は、[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位\[1\]
+順位は[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位\[1\]。
 
 ### シングル
 
 1.  **YOU GONNA FEEL**（[2004年](../Page/2004年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")、PCCA-70069、49位）
     1.  YOU GONNA FEEL
           - 作詞・作曲・編曲：HAV
-          - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[アニメ](../Page/アニメ.md "wikilink")『[PEACE MAKER鐵](../Page/新撰組異聞PEACE_MAKER.md "wikilink")』オープニングテーマ
+          - [テレビ朝日](../Page/テレビ朝日.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[PEACE MAKER鐵](../Page/新撰組異聞PEACE_MAKER.md "wikilink")』オープニングテーマ
     2.  HEY\!JIMMY
           - 作詞・作曲・編曲：HAV
-          - テレビ朝日系アニメ『PEACE MAKER鐵』エンディングテーマ
-          - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『旅ダチ\!』、『[あんグラ☆NOW\!](https://ja.wikipedia.org/wiki/あんグラ☆NOW! "wikilink")』、『[√f](https://ja.wikipedia.org/wiki/√f "wikilink")』2004年2月エンディングテーマ
+          - テレビ朝日アニメ『PEACE MAKER鐵』エンディングテーマ
 2.  **GETTING A RUDDER**（2004年6月16日、PCCA-70096、圏外）
     1.  GETTING A RUDDER
           - 作詞・作曲・編曲：HAV
-          - 日本テレビ系『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY \#62
     2.  Rock da whole nation
           - 作詞・作曲・編曲：HAV
 3.  **列島パーティ騎士（ナイト）**（2005年2月16日、PCCA-70105、195位）
     1.  列島パーティ騎士
           - 作詞・作曲・編曲：HAV
-          - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[特撮](../Page/特撮.md "wikilink")『[幻星神ジャスティライザー](https://ja.wikipedia.org/wiki/幻星神ジャスティライザー "wikilink")』エンディングテーマ
+          - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[特撮](../Page/特撮.md "wikilink")『[幻星神ジャスティライザー](https://ja.wikipedia.org/wiki/幻星神ジャスティライザー "wikilink")』エンディングテーマ
     2.  ワンウェイDRIVE
           - 作詞・作曲・編曲：HAV
 
@@ -64,6 +62,6 @@
 ## 外部リンク
 
   -
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のライジングプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のライジングプロダクション所属者 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
 1.

@@ -23,19 +23,17 @@
 
 ## 収録アルバム
 
-＃1、＃2
-
-  - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink") （1997.12.17･MVCD-34）
-
-＃1のみ
-
-  - [STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")　(1996.04.22･MVCD-34)
-  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
-  - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
-
-＃2のみ
-
-  - [SLOW](https://ja.wikipedia.org/wiki/SLOW "wikilink") （2005.3.23･UPCH-1394）
+  - **IN SILENCE**
+      - [STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")
+  - **Ray**
+      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
 
 ## 備考
 

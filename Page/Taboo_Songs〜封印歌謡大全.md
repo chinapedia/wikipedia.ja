@@ -64,7 +64,7 @@
 
 ## 外部リンク
 
-  - [Taboo Songs2 蘇る封印歌謡（TBSラジオ番組サイト）](http://www.tbs.co.jp/radio/utamaru/taboo/)
+  - [Taboo Songs2 蘇る封印歌謡（TBSラジオ番組サイト）](https://www.tbs.co.jp/radio/utamaru/taboo/)
   - [ラジオ修行日記](https://take44.hatenadiary.org/) - 担当プロデューサー・三条毅史のブログ
 
 [Category:TBSラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの音楽番組の歴史 "wikilink") [Category:放送禁止となった楽曲](https://ja.wikipedia.org/wiki/Category:放送禁止となった楽曲 "wikilink")

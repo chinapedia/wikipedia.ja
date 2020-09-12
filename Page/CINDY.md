@@ -40,7 +40,7 @@
       - 作詞：康珍化　作曲：鳴海寛
       - C/W　Christmas Time
       - 作詞：Eddie Cole　作曲：Eddie Cole
-      - 翌年[中山美穂](../Page/中山美穂.md "wikilink")がアルバム『[De eaya](../Page/De_eaya.md "wikilink")』でカバーしている。
+      - 1991年に[中山美穂](../Page/中山美穂.md "wikilink")が『[De eaya](../Page/De_eaya.md "wikilink")』でカバーしている。
 6.  **愛がさびしい時**（1991年8月25日）
       - 作詞：戸沢暢美 / 作曲：Cindy
       - C/W　テル・ミー・ホワイ
@@ -57,11 +57,14 @@
 3.  GARDEN OF LOVE（北海道の百貨店[丸井今井](../Page/丸井今井.md "wikilink")イメージソング）
 4.  INSIDE OF YOUR LOVE （1991年の[YAWARA\!](../Page/YAWARA!.md "wikilink")アニメーション挿入歌）
 5.  SKIN DEEP
+      - 1987年に[Cherが](../Page/シェール.md "wikilink")『Cher』でカバー
 6.  SPREAD THE LOVE
 7.  THINK YOUR LOVE AWAY
 8.  TRY YOUR LUCK AGAIN
 9.  YOU\&I
+      - 1989年に中山美穂が『[ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")』でカバー
 10. SOMETHING IN THE AIR ～AURA
+      - 1986年に[佐藤博が](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")『[SOUND OF SCIENCE](https://ja.wikipedia.org/wiki/SOUND_OF_SCIENCE "wikilink")』でセルフカバー
 
 <!-- end list -->
 
@@ -72,12 +75,12 @@
 1.  Surprise
 2.  せつなくて
 3.  Destiny
-      - 中山美穂への提供曲の[セルフカバー](../Page/セルフカバー.md "wikilink")の歌詞違い
+      - 中山美穂への提供曲の改詞セルフカバー
 4.  When Tomorrow Comes
 5.  天使の気持ち
       - 中山美穂への提供曲のセルフカバー
 6.  Special Ever Happened
-      - 後に中山美穂がアルバム『[De eaya](../Page/De_eaya.md "wikilink")』でカバー
+      - 1991年に中山美穂が『[De eaya](../Page/De_eaya.md "wikilink")』でカバー
 7.  私達を信じていて
 8.  Candle Lights
 9.  Fall In Love
@@ -93,8 +96,8 @@
 1.  テル・ミー・ホワイ
 2.  ソー・ロング,グッドバイ
 3.  イン・ザ・レイン
-4.  [ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")
-      - 中山美穂への提供曲のセルフカバー
+4.  [Rose Color](../Page/ROSECOLOR.md "wikilink")
+      - 中山美穂への提供曲「ROSÉCOLOR」の改題セルフカバー
 5.  リヴ・ソー・ファースト
 6.  バレリー・フレンズ
 7.  リトル・ラヴ
@@ -111,15 +114,15 @@
       - 作詞：[康珍化](../Page/康珍化.md "wikilink")　作曲：Cindy　編曲：[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")・[鳴海寛](https://ja.wikipedia.org/wiki/鳴海寛 "wikilink")
 2.  Destiny
       - 作詞：康珍化　作曲：Cindy　編曲：Rod Antoon
-      - 中山美穂への提供曲のセルフカバーの歌詞違い
+      - 中山美穂への提供曲の改詞セルフカバー
 3.  Special Ever Happened
       - 作詞：康珍化　作曲：鳴海寛　編曲：鳴海寛
-      - 中山美穂がアルバム『[De eaya](../Page/De_eaya.md "wikilink")』でカバー
+      - 1991年に中山美穂が『[De eaya](../Page/De_eaya.md "wikilink")』でカバー
 4.  Live So Fast
       - 作詞：K.Inojo　作曲：鳥山雄司　編曲：鳥山雄司
-5.  [ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")
+5.  [Rose Color](../Page/ROSECOLOR.md "wikilink")
       - 作詞：康珍化　作曲：Cindy　編曲：[氷室昌之](https://ja.wikipedia.org/wiki/氷室昌之 "wikilink")・鳴海寛
-      - 中山美穂への提供曲のセルフカバー
+      - 中山美穂への提供曲「ROSÉCOLOR」の改題セルフカバー
 6.  私達を信じていて
       - 作詞：康珍化　作曲：Cindy・鳴海寛　編曲：鳴海寛
 7.  Tell Me Why
@@ -182,13 +185,21 @@
 
 「YOU AND I」 「Destiny」 「SMILE AGAIN 」
 
+・ 井上麻衣
+
+「Fare-Well Good-Bye」
+
+・THE MOON DOGS
+
+「so long my girl」「Linda My Love」
+
 ## コーラス参加
 
   - [松任谷由実](../Page/松任谷由実.md "wikilink")『[DA・DI・DA](../Page/DA・DI・DA.md "wikilink")』
   - [南佳孝](../Page/南佳孝.md "wikilink")『DAILY NEWS』
-  - 佐藤博『SAILING BLASTER』『THIS BOY』『SOUND OF SCIENCE』
+  - 佐藤博『[SAILING BLASTER](https://ja.wikipedia.org/wiki/SAILING_BLASTER "wikilink")』『[THIS BOY](https://ja.wikipedia.org/wiki/THIS_BOY "wikilink")』『[SOUND OF SCIENCE](https://ja.wikipedia.org/wiki/SOUND_OF_SCIENCE "wikilink")』
   - 村田和人『In The Southern Sky』
-  - 山下達郎『JOY』『ON THE STREET CORNER 2』『CM全集 Vol.2』
+  - 山下達郎『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』『[ON THE STREET CORNER 2](../Page/ON_THE_STREET_CORNER_2.md "wikilink")』『[CM全集 Vol.2](https://ja.wikipedia.org/wiki/山下達郎CM全集_Vol.2 "wikilink")』
   - 上田正樹『REAL GROOVE』『PRIVATE FILE』
   - 安藤まさひろ『MELODY GO ROUND』
   - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")『[FENCE OF DEFENSE III 2235 ZERO GENERATION](../Page/FENCE_OF_DEFENSE_III_2235_ZERO_GENERATION.md "wikilink")』
@@ -198,6 +209,11 @@
   - [櫻井哲夫](../Page/櫻井哲夫.md "wikilink")『DEWDROPS』
   - [少年隊](../Page/少年隊.md "wikilink")『FUNKY FLUSHIN'』(with山下達郎)
   - [浅井ひろみ](https://ja.wikipedia.org/wiki/浅井ひろみ "wikilink")『南風に抱かれて』
+  - [崎谷健次郎](../Page/崎谷健次郎.md "wikilink")『[Realism](https://ja.wikipedia.org/wiki/Realism "wikilink")』
+  - [秋元薫](../Page/秋元薫.md "wikilink")『Cologne』
+  - Michelle Hart『MISH』
+  - エディ山本『This Guy』
+  - [鈴木雄大](../Page/鈴木雄大.md "wikilink")『君のハートが聴こえる』
 
 ## ヴォーカル参加
 
@@ -211,6 +227,7 @@
   - [井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")「ENDLESS BLUE」（1990年 / 涙よりも Merry Xmas）
   - [P.J.](https://ja.wikipedia.org/wiki/P.J. "wikilink")「INTIMACY」（1991年 / THE CLOSER I GET TO YOU）
   - V.A.「TOWER OF LOVE」（1991年 / TOUCH THE SKY）
+  - Cosmic Surf 「primitive」（1995年 / Soshu Yakyoku---I'll give yoiu love , Hana）
 
 ## ラジオ
 

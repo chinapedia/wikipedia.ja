@@ -66,12 +66,14 @@
   - 痴漢電車３～孕ませオトリ捜査官～ （[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")発売\[51\]）
   - 痴漢電車３ ～孕ませ復讐オトリ捜査官～ 拡張KIT （[2020年](../Page/2020年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")発売\[52\]）
   - 黒ビッチギャルがキモオタに堕ちるまで 〜監禁凌辱配信日記〜 （[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")発売\[53\]）
+  - 姉ちゃんがオレの性玩具になっちゃうまで\!? （[2020年](../Page/2020年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")発売\[54\]）
+  - 寝取られ三角関係 ～初恋の幼なじみがセフレにされた～ （[2020年](../Page/2020年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")発売\[55\]）
 
 ### TRYSET MADレーベル
 
-  - 懺悔島 純潔～処女の血をもって償え\! （[2018年](../Page/2018年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売\[54\]）
-  - 愛欲MAD催眠 （[2014年](../Page/2014年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")発売\[55\]）
-  - 妹欲MAD催眠 （2014年[9月26日](../Page/9月26日.md "wikilink")発売\[56\]）
+  - 懺悔島 純潔～処女の血をもって償え\! （[2018年](../Page/2018年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")発売\[56\]）
+  - 愛欲MAD催眠 （[2014年](../Page/2014年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")発売\[57\]）
+  - 妹欲MAD催眠 （2014年[9月26日](../Page/9月26日.md "wikilink")発売\[58\]）
 
 ## 主なスタッフ
 
@@ -101,9 +103,9 @@
 
   - 第5作目の『淫乱病棟24時』以降、予約特典として「TRYSET Mix」という主題歌のフルコーラスバージョン等様々なデータが入った[CD-ROM](../Page/CD-ROM.md "wikilink")が購入時に添付されている。
   - [2007年](../Page/2007年.md "wikilink")、『TRYSET5周年記念ダイジェストパック』として、『スピリチュアル・バインド』から『パクッちゃうぞ\!\!』までのイベントシーンの一部をダイジェストで収録したソフトが、同年[6月30日](../Page/6月30日.md "wikilink")まで[ダウンロード形式で限定販売された](../Page/ダウンロード販売.md "wikilink")。
-  - [2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")、『TRYSET10周年限定記念パック』として、『[WHITE×RED](https://ja.wikipedia.org/wiki/WHITE×RED "wikilink")』から『ろーるぷれいんぐがーる\!\!』までの全10作品をまとめた商品が発売された。1000本限定生産\[57\]で既に[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")。
+  - [2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")、『TRYSET10周年限定記念パック』として、『[WHITE×RED](https://ja.wikipedia.org/wiki/WHITE×RED "wikilink")』から『ろーるぷれいんぐがーる\!\!』までの全10作品をまとめた商品が発売された。1000本限定生産\[59\]で既に[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")。
   - [2013年](../Page/2013年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")、『やらせてっ\!てぃーちゃー Premium Edition2013』として、『やらせてっ\!てぃーちゃー』・『新やらせてっ\!てぃーちゃー』・『やらせてっ\!てぃーちゃー学園旅行』・『やらせてっ\!てぃーちゃーTreasure story』の計4作品をまとめた商品が発売された。
-  - 『改やらせてっ\!てぃーちゃー』は、2003年の作品『やらせてっ\!てぃーちゃー』のリメイク版である。旧作では640×480[ピクセル](../Page/ピクセル.md "wikilink")の[VGAモードだった](../Page/Video_Graphics_Array.md "wikilink")[画像サイズが](../Page/画面解像度.md "wikilink")、800×600[ピクセル](../Page/ピクセル.md "wikilink")の[SVGAモードへ改良されている](../Page/Super_Video_Graphics_Array.md "wikilink")\[58\]。当初は[2011年](../Page/2011年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")発売の『新やらせてっ\!てぃーちゃー』パッケージ版に予約特典として付属。同年[12月27日](../Page/12月27日.md "wikilink")発売の同作DL版と同時発売で『新・改やらせてっ\!てぃーちゃー ダブルパック』がリリースされ購入が可能となった。さらに後の2012年[3月2日](../Page/3月2日.md "wikilink")には、ダウンロード専売で単品販売が開始された。
+  - 『改やらせてっ\!てぃーちゃー』は、2003年の作品『やらせてっ\!てぃーちゃー』のリメイク版である。旧作では640×480[ピクセル](../Page/ピクセル.md "wikilink")の[VGAモードだった](../Page/Video_Graphics_Array.md "wikilink")[画像サイズが](../Page/画面解像度.md "wikilink")、800×600[ピクセル](../Page/ピクセル.md "wikilink")の[SVGAモードへ改良されている](../Page/Super_Video_Graphics_Array.md "wikilink")\[60\]。当初は[2011年](../Page/2011年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")発売の『新やらせてっ\!てぃーちゃー』パッケージ版に予約特典として付属。同年[12月27日](../Page/12月27日.md "wikilink")発売の同作DL版と同時発売で『新・改やらせてっ\!てぃーちゃー ダブルパック』がリリースされ購入が可能となった。さらに後の2012年[3月2日](../Page/3月2日.md "wikilink")には、ダウンロード専売で単品販売が開始された。
 
 ## 脚注
 
@@ -179,5 +181,7 @@
 54.
 55.
 56.
-57. [TRYSET10周年限定記念パック （TRYSET） （18禁） ［ゲーム］ - Getchu.com](http://www.getchu.com/soft.phtml?id=734453) - [げっちゅ屋](../Page/げっちゅ屋.md "wikilink") 商品紹介ページ
-58. [NETRIDE（「商品名『改やらせてっ\!てぃーちゃーDL版』商品番号0006M0047」商品詳細参照）](http://www.net-ride.com/shopping/index.php?R_km_url=tryset&dw_week=20140405134040) - TRYSETオフィシャル通販（ダウンロード版）／株式会社ラッセル[2](http://www.net-ride.com/legal.php?R_km_url=tryset)（2014年4月5日閲覧）
+57.
+58.
+59. [TRYSET10周年限定記念パック （TRYSET） （18禁） ［ゲーム］ - Getchu.com](http://www.getchu.com/soft.phtml?id=734453) - [げっちゅ屋](../Page/げっちゅ屋.md "wikilink") 商品紹介ページ
+60. [NETRIDE（「商品名『改やらせてっ\!てぃーちゃーDL版』商品番号0006M0047」商品詳細参照）](http://www.net-ride.com/shopping/index.php?R_km_url=tryset&dw_week=20140405134040) - TRYSETオフィシャル通販（ダウンロード版）／株式会社ラッセル[2](http://www.net-ride.com/legal.php?R_km_url=tryset)（2014年4月5日閲覧）

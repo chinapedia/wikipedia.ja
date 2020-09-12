@@ -21,6 +21,8 @@
 
 [2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、次回作の制作に向け、一時活動休止。
 
+[2019年](../Page/2019年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")、渡會将士JAPAN?TOUR 東京公演にて、一夜限り？の復活(Dr.吉澤響)
+
 ## メンバー
 
   - **渡會将士**（わたらい まさし、 - ）

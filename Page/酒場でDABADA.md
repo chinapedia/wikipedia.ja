@@ -12,7 +12,7 @@
 
 ## 収録曲
 
-1.  **酒場でDABADA（粵：葉振棠——《酒場》）**
+1.  **酒場でDABADA（粤：葉振棠——《酒場》）**
       - 作詞：[阿久悠](../Page/阿久悠.md "wikilink")／作曲:[鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")／編曲:[沢健一](https://ja.wikipedia.org/wiki/沢健一 "wikilink")
 2.  **嘘はつけない**
       - 作詞：[糸井重里](../Page/糸井重里.md "wikilink")／作曲：[沢田研二](../Page/沢田研二.md "wikilink")／編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")

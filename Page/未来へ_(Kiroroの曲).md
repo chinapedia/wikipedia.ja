@@ -22,15 +22,16 @@
 
 ## カバー
 
-  - 2000年、[劉若英](../Page/劉若英.md "wikilink")がカバーアルバム『[我等你](https://ja.wikipedia.org/wiki/我等你 "wikilink")』でカバーした。曲名「後來」。
-  - 2005年、[Sofia Källgrenがカバーアルバム](https://ja.wikipedia.org/wiki/:en:Sofia_Källgren "wikilink")『東方西方』でカバーした。曲名「Life」。
+  - 1999年、[婷婷がカバーアルバム](https://ja.wikipedia.org/wiki/:zh:郭婷婷 "wikilink")『愛的勝利』でカバーした。中国語版の曲名は「右手」。
+  - 2000年、[劉若英](../Page/劉若英.md "wikilink")がカバーアルバム『我等你』でカバーした。中国語版の曲名は「後來」。
+  - 2005年、[Sofia Källgrenがカバーアルバム](https://ja.wikipedia.org/wiki/:en:Sofia_Källgren "wikilink")『東方西方』でカバーした。英語版の曲名は「Life」。
   - 2009年、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")が『[ココロノウタ](https://ja.wikipedia.org/wiki/ココロノウタ "wikilink")』でカバーした（ライブ音源）。
   - 2010年、[茉奈 佳奈がカバーアルバム](https://ja.wikipedia.org/wiki/茉奈_佳奈 "wikilink")『[ふたりうた3](https://ja.wikipedia.org/wiki/ふたりうた3 "wikilink")』でカバーした。
   - 2010年、[徳永英明](../Page/徳永英明.md "wikilink")がカバーアルバム『[VOCALIST 4](https://ja.wikipedia.org/wiki/VOCALIST_4 "wikilink")』でカバーした。
   - 2013年、[クリス・ハート](https://ja.wikipedia.org/wiki/クリス・ハート "wikilink")がカバーアルバム『Heart Song』でカバーした。
   - 2015年、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")がカバーアルバム『[こううたう](https://ja.wikipedia.org/wiki/こううたう "wikilink")』でカバーした。
   - 2017年、[Via Vallenがアルバム](https://ja.wikipedia.org/wiki/:en:Via_Vallen "wikilink")『Sayang』でカバーした。曲名「Sayang」。\[3\]
-  - 東山奈央『月がきれい11話の挿入歌』
+  - 東山奈央 TVアニメ『月がきれい』11話の挿入歌
 
 ## 脚注
 

@@ -6,9 +6,22 @@
 ## 解説
 
   - 『[ARASHIC](../Page/ARASHIC.md "wikilink")』以来約1年ぶりに発売されたオリジナルアルバム。シングル「[アオゾラペダル](../Page/アオゾラペダル.md "wikilink")」「[Love so sweet](../Page/Love_so_sweet.md "wikilink")」「[We can make it\!](../Page/We_can_make_it!.md "wikilink")」が収録されている。
-  - 初回限定盤のDISC2には各メンバー5人のソロ楽曲、通常盤にはボーナストラックとして「Everybody前進」が収録されている。
+
+<!-- end list -->
+
+  - 初回限定盤のDISC2には各メンバー5人のソロ楽曲、通常盤にはボーナストラックとして「**Everybody前進**」が収録されている。
+
+<!-- end list -->
+
   - タイトルは、櫻井の作詞したラップの中に時を表す言葉が多かったため、それにちなんで櫻井本人が提案し決定したという。
-  - 前作に引き続き[オリコンアルバム週間チャートで](../Page/オリコンチャート.md "wikilink")1位を獲得。初動売上は前作から増加し、この時点での売上が嵐のアルバムとしてはデビューアルバム『[ARASHI No.1〜嵐は嵐を呼ぶ〜](../Page/ARASHI_No.1〜嵐は嵐を呼ぶ〜.md "wikilink")』に次いで2番目となり、2ndアルバム『[HERE WE GO\!](../Page/HERE_WE_GO!.md "wikilink")』から前作『ARASHIC』及びベストアルバム2枚の累計売上を初動売上のみで一気に上回る結果となった。なお、デビューアルバム『ARASHI No.1〜嵐は嵐を呼ぶ〜』以来に累計売上が25万枚を突破し、累計売上もこの時点で2番目となった。
+
+<!-- end list -->
+
+  - 前作に引き続き[オリコンアルバム週間チャートで](../Page/オリコンチャート.md "wikilink")1位を獲得。初動売上は前作から増加し、この時点での売上が嵐のアルバムとしてはデビューアルバム『[ARASHI No.1〜嵐は嵐を呼ぶ〜](../Page/ARASHI_No.1〜嵐は嵐を呼ぶ〜.md "wikilink")』に次いで2番目となり、2ndアルバム『[HERE WE GO\!](../Page/HERE_WE_GO!.md "wikilink")』から前作『[ARASHIC](../Page/ARASHIC.md "wikilink")』及びベストアルバム2枚の累計売上を初動売上のみで一気に上回る結果となった。なお、デビューアルバム『[ARASHI No.1〜嵐は嵐を呼ぶ〜](../Page/ARASHI_No.1〜嵐は嵐を呼ぶ〜.md "wikilink")』以来に累計売上が25万枚を突破し、累計売上もこの時点で2番目となった。
+
+<!-- end list -->
+
+  - 2020年2月7日より、通常盤収録曲のデジタル配信、及びサブスクリプション配信が解禁された。
 
 ## 収録曲
 
@@ -113,6 +126,11 @@
 ## 出典
 
 <references />
+
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/time)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=96)
 
 [Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

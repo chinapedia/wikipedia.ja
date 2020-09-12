@@ -72,6 +72,7 @@
   - [全国高等学校ゴルフ選手権大会](https://ja.wikipedia.org/wiki/全国高等学校ゴルフ選手権大会 "wikilink")
   - ジャパンゴルフツアー年間表彰式
   - LPGAアワード
+  - [韓国女子プロゴルフ選手権（KLPGAチャンピオンシップ）](https://ja.wikipedia.org/wiki/韓国女子プロゴルフ協会 "wikilink")
 
 <!-- end list -->
 
@@ -110,7 +111,7 @@
 ## 外部リンク
 
   - [スカイ・A sports+・ゴルフトーナメント](http://www.sky-a.co.jp/prgsports/golf.html)
-  - [全部見せます\!ゴルフ通信](http://www.skyablog.jp/golf/)
+  - [スカイAゴルフLIVE](https://skya-golf.live)
 
 [Category:テレビのゴルフ番組](https://ja.wikipedia.org/wiki/Category:テレビのゴルフ番組 "wikilink")
 

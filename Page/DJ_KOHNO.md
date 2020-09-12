@@ -1,7 +1,7 @@
 > この記事は[DJ KOHNO](https://ja.wikipedia.org/wiki/DJ_KOHNO)から翻訳されています。
 
 
-**DJ KOHNO**（ディージェイ コウノ、[1977年](../Page/1977年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）は、日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ、[ケツメイシ](../Page/ケツメイシ.md "wikilink")や[ミニ塾。](https://ja.wikipedia.org/wiki/ミニ塾。 "wikilink")のメンバーで、[DJを担当する](../Page/ディスクジョッキー.md "wikilink")。[広島県](../Page/広島県.md "wikilink")[廿日市市](../Page/廿日市市.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は河野 健太（こうの けんた）。
+**DJ KOHNO**（ディージェイ コウノ、[1977年](../Page/1977年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）は、日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ、[ケツメイシ](../Page/ケツメイシ.md "wikilink")や[ミニ塾。](https://ja.wikipedia.org/wiki/ミニ塾。 "wikilink")のメンバーで、[DJを担当する](../Page/ディスクジョッキー.md "wikilink")。[広島県](../Page/広島県.md "wikilink")[廿日市市](../Page/廿日市市.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は河野 健太（こうの けんた）。既婚。
 
 ## 来歴
 

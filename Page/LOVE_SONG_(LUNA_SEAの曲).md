@@ -33,17 +33,17 @@
 
 ## 収録アルバム
 
-＃1
-
-  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000年12月23日、UUCH-1012）
-  - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink") （2005年3月23日、UPCH-1394）
-  - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink") （2008年3月26日、POCS-21005/6）
-  - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")（2014.5.28・UPCH-1982/3）
-  - [NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")（2014.5.28、UPCH-1980/1）
-
-＃2、3
-
-  - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink") （2002年3月6日、UUCH-1045）
+  - **LOVE SONG**
+      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")
+      - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")
+      - [NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")
+  - **INTO THE SUN**
+      - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink")
+  - **UNTIL THE DAY I DIE**
+      - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink")
 
 ## 参考文献
 

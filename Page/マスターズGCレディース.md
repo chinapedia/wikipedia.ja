@@ -7,7 +7,7 @@
 
 [大阪府](../Page/大阪府.md "wikilink")内で[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")店や[レストラン](../Page/レストラン.md "wikilink")を運営している[延田グループ及び](https://ja.wikipedia.org/wiki/延田エンタープライズ "wikilink")[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")新聞社、[IMGの主催により行われており](../Page/インターナショナル・マネジメント・グループ.md "wikilink")、大会の会場も延田グループ直営の[兵庫県](../Page/兵庫県.md "wikilink")[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")にあるマスターズゴルフ倶楽部で開催されている。
 
-2019年現在、賞金総額2億円、優勝賞金3600万円\[2\]\[3\]。なお2005年から2012年までは主催者の延田グループが運営するパチンコ・[パチスロ](../Page/パチスロ.md "wikilink")店「123」にちなみ、賞金総額1億2300万円、優勝賞金2214万円で行われていた\[4\]。[2005年](../Page/2005年.md "wikilink")までは日本の女子大会では最高の賞金額を誇っていた\[5\]。
+2020年現在、賞金総額2億4000万円、優勝賞金4320万円\[2\]\[3\]。なお2005年から2012年までは主催者の延田グループが運営するパチンコ・[パチスロ](../Page/パチスロ.md "wikilink")店「123」にちなみ、賞金総額1億2300万円、優勝賞金2214万円で行われていた\[4\]。[2005年](../Page/2005年.md "wikilink")までは日本の女子大会では最高の賞金額を誇っていた\[5\]。
 
 ## 歴代優勝者
 
@@ -142,9 +142,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><p>第18回</p></td>
+<td><p>2020年</p></td>
+<td><p>新型コロナウイルス感染拡大の影響により大会中止[14]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -153,7 +153,7 @@
 
 ## テレビ中継
 
-  - 地上波のテレビ中継は[毎日放送を制作局として](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。ただしJNN基幹局を中心とした放送となる（2019年はMBS・TBSの他、[北海道放送](../Page/北海道放送.md "wikilink")・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")・[あいテレビ](../Page/あいテレビ.md "wikilink")の7局で放送。MBS以外は最終日のみ放送）\[14\]。また地上波放送が行われない地域でも[CS放送の](../Page/日本における衛星放送.md "wikilink")[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で視聴可能\[15\]。
+  - 地上波のテレビ中継は[毎日放送を制作局として](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。ただしJNN基幹局を中心とした放送となる（2019年はMBS・TBSの他、[北海道放送](../Page/北海道放送.md "wikilink")・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")・[あいテレビ](../Page/あいテレビ.md "wikilink")の7局で放送。MBS以外は最終日のみ放送）\[15\]。また地上波放送が行われない地域でも[CS放送の](../Page/日本における衛星放送.md "wikilink")[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で視聴可能\[16\]。
 
 ## 脚注
 
@@ -188,5 +188,6 @@
 11.
 12. [アン・ソンジュ今季5勝 生涯獲得賞金10億円突破](https://www.nikkansports.com/sports/golf/news/201810210000538.html) - 日刊スポーツ、2018年10月21日配信、同日閲覧
 13. [柏原明日架、逆転で2勝目「自分に自信がついた」／国内女子](https://www.sanspo.com/golf/news/20191027/jlp19102716490006-n1.html) - サンケイスポーツ、2019年10月27日配信、同日閲覧
-14. [マスターズGCレディース・テレビ放送](https://www.lpga.or.jp/tournament/info/20192010/9#anchor-tv) - 日本女子プロゴルフ協会、2018年10月27日閲覧
-15.
+14. [２０２０年NOBUTA GROUP マスターズGCレディース開催中止について](https://www.lpga.or.jp/news/info/40534) - （一社）日本女子プロゴルフ協会、2020年6月3日配信、同日閲覧
+15. [マスターズGCレディース・テレビ放送](https://www.lpga.or.jp/tournament/info/20192010/9#anchor-tv) - 日本女子プロゴルフ協会、2018年10月27日閲覧
+16.

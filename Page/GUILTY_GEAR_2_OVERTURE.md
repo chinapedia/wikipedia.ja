@@ -261,7 +261,9 @@
   - ギルティギア2 オーヴァチュア 設定資料集
     2008年10月発売。ソフトバンククリエイティブからのリリース。ISBN 978-4-7973-4890-3
 
-## 参考資料
+## 脚注
+
+## 参考文献
 
   - 「カフェ・ド・アーク」　東京ゲームショウ2007公開収録（9月22日･23日）
   - 「GUILTY GEAR MAGAZINE 1st GIG」　ISBN 4-7973-4520-9
@@ -272,13 +274,10 @@
   - 「[まんたんブロード](../Page/まんたんブロード.md "wikilink")」　2007年9月号号外
   - 「GUILTY GEAR2 OVERTURE 設定資料集」　ISBN 978-4-7973-4890-3
 
-## 脚注
-
 ## 関連項目
 
   - [GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")
   - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")
-  - [パチスロ ギルティギア ヴァステッジ](https://ja.wikipedia.org/wiki/パチスロ_ギルティギア_ヴァステッジ "wikilink") - ストーリーは実質的にGG2の後日談として設定されている。
   - [GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink") - 同上。
   - [対戦アクションゲーム一覧](https://ja.wikipedia.org/wiki/対戦アクションゲーム一覧 "wikilink")
 

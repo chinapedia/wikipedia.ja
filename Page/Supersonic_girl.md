@@ -36,7 +36,7 @@
 7.  **[TRANSMIGRATION](https://ja.wikipedia.org/wiki/VINTAGE "wikilink")** \[5:04\]
       -
         作詞：[奥井雅美](../Page/奥井雅美.md "wikilink")、作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
-8.  **[LOOKING ON THE MOON](../Page/The_place_of_happiness.md "wikilink")** \[3:51\]
+8.  **[LOOKING ON THE MOON](https://ja.wikipedia.org/wiki/LOOKING_ON_THE_MOON "wikilink")** \[3:51\]
       -
         作詞：村野直球、作曲・編曲：牧野信博
 9.  **真冬の観覧車** \[4:51\]
@@ -47,7 +47,7 @@
         作詞：麻生光咲、作曲：南部栄作、編曲：牧野信博
     <!-- end list -->
       - [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『ワガまんまキッチン』[エンディングテーマ](../Page/主題歌.md "wikilink")
-11. **[水中の青空](../Page/The_place_of_happiness.md "wikilink")** \[3:44\]
+11. **[水中の青空](https://ja.wikipedia.org/wiki/水中の青空 "wikilink")** \[3:44\]
       -
         作詞：村野直球、作曲：住吉中、編曲：牧野信博
 12. **WINDOW OF HEART** \[4:45\]

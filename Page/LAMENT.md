@@ -7,12 +7,12 @@
 
 ## 収録曲
 
-1.  **PREY -remix-／[SHIHO](../Page/SHIHO_\(ボーカリスト\).md "wikilink")**
+1.  **PREY -Remix-／[SHIHO](../Page/SHIHO_\(ボーカリスト\).md "wikilink")**
       - 作詞・作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
 2.  **SNOW -Album Mix-／[島宮えい子](https://ja.wikipedia.org/wiki/島宮えい子 "wikilink")**
       - 作詞：Studio Mebius／作曲・編曲：高瀬一矢
 3.  **Face of Fact／[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")**
-      - 作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：[C.G mix](../Page/C.G_mix.md "wikilink")／編曲：C.G mix、FISH TONE
+      - 作詞：KOTOKO／作曲：[C.G mix](../Page/C.G_mix.md "wikilink")／編曲：C.G mix、[FISH TONE](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")
 4.  **SAVE YOUR HEART -Album Mix-／KOTOKO to [詩月カオリ](../Page/詩月カオリ.md "wikilink")**
       - 作詞：KOTOKO／作曲・編曲：高瀬一矢
 5.  **遮光 ～かげり～ -Album Mix-／KOTOKO**
@@ -20,7 +20,7 @@
 6.  **僕らが見守る未来／[詩月カオリ](../Page/詩月カオリ.md "wikilink")**
       - 作詞：KOTOKO（訳詞：[wata](../Page/渡部真也.md "wikilink")）作曲・編曲：中沢伴行／コーラス：KOTOKO
 7.  **GREEDY／[MOMO](../Page/モモイヒトミ.md "wikilink")**
-      - 作詞：木内亜矢／作曲・編曲：高瀬一矢／コーラス：島みやえい子
+      - 作詞：木内亜矢／作曲・編曲：高瀬一矢／コーラス：[島みやえい子](../Page/島みやえい子.md "wikilink")
 8.  **Feel in tears／KOTOKO**
       - 作詞：KOTOKO／作曲・編曲：高瀬一矢
 9.  **夏草の線路 -Album Mix-／KOTOKO to 詩月カオリ**

@@ -13,7 +13,7 @@
 
 1.  **残光のガイア** \[4:04\]
       -
-        作詞：[HIBIKI](https://ja.wikipedia.org/wiki/Hibiki "wikilink")、作曲・編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+        作詞：[Hibiki](https://ja.wikipedia.org/wiki/Hibiki "wikilink")、作曲・編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     <!-- end list -->
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")『セレクションX』[エンディングテーマ](../Page/主題歌.md "wikilink")
 2.  **Faith** \[4:19\]
@@ -70,5 +70,9 @@
 2.  HYBRID UNIVERSE MAKING MOVIE
 
 ## 脚注
+
+## 外部リンク
+
+  - [公式サイトによる紹介ページ](https://www.mizukinana.jp/discography/album05.html)
 
 [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:水樹奈々のアルバム](https://ja.wikipedia.org/wiki/Category:水樹奈々のアルバム "wikilink")

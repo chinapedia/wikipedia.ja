@@ -54,7 +54,7 @@
   - [ディスカス](../Page/松竹梅_\(お笑い\).md "wikilink") - 5週目で敗退
   - らんぶるふぃっしゅ - 初戦敗退
   - [U2ROCKET](https://ja.wikipedia.org/wiki/U2ROCKET "wikilink") - 3週目で敗退
-  - 当たって砕けろ（現:ヴィスタ） - 3週目で敗退
+  - 当たって砕けろ（現:[ヴィスタ](../Page/ランナァズハイ.md "wikilink")） - 3週目で敗退
   - キッコリーズ - 2週目で敗退
   - [生きる](https://ja.wikipedia.org/wiki/吉村くん "wikilink") - 初戦敗退
   - [ジョーダンズ](../Page/ジョーダンズ.md "wikilink") - 不明

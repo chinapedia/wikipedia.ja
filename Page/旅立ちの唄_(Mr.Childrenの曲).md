@@ -55,7 +55,17 @@
   -
     テレビ初披露となる「[ひびき](https://ja.wikipedia.org/wiki/しるし_\(Mr.Childrenの曲\)#収録曲 "wikilink")」と共に披露された。
 
-## 収録アルバム
+## ライブ映像作品
+
+**旅立ちの唄**
+
+| 作品名                                                                                                                                 | 備考         |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") | 半音下げて演奏された |
+| [Mr.Children Dome Tour 2019 Against All GRAVITY](../Page/Mr.Children_Dome_Tour_2019_Against_All_GRAVITY.md "wikilink")              |            |
+
+
+\== 収録アルバム ==
 
   - 『[SUPERMARKET FANTASY](https://ja.wikipedia.org/wiki/SUPERMARKET_FANTASY "wikilink")』 (\#1,\#2)
   - 『[Mr.Children 2005-2010 <macro>](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』 (\#1)

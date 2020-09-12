@@ -53,6 +53,4 @@
   - [Hitman2: Silent Assassin 公式サイト](http://www.hitman2.com/)
   - [アイドス公式サイト](http://www.eidos.co.uk/)
 
-[he:Hitman (סדרת משחקים)](https://ja.wikipedia.org/wiki/he:Hitman_\(סדרת_משחקים\) "wikilink")
-
-[Category:ヒットマン](https://ja.wikipedia.org/wiki/Category:ヒットマン "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:日本を舞台とした作品](https://ja.wikipedia.org/wiki/Category:日本を舞台とした作品 "wikilink")
+[Category:ヒットマン](https://ja.wikipedia.org/wiki/Category:ヒットマン "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:日本を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本を舞台としたコンピュータゲーム "wikilink")

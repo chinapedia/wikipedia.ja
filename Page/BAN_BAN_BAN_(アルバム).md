@@ -1,7 +1,7 @@
 > この記事は[BAN BAN BAN \(アルバム\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(アルバム\))から翻訳されています。
 
 
-『**BAN BAN BAN**』（バン・バン・バン）は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")のメジャー2枚目のアルバム。通算3枚目のアルバムにあたる。
+『**BAN BAN BAN**』（バン・バン・バン）は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")のメジャー2枚目（通算3枚目）のアルバム。2007年3月7日に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より発売された。
 
 ## 解説
 

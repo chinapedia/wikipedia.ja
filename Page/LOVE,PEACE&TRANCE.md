@@ -39,4 +39,4 @@
     11. HASH-A MANDALA NI PALI
     12. AINA
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アンビエント・ミュージシャン](https://ja.wikipedia.org/wiki/Category:アンビエント・ミュージシャン "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:アンビエント・ミュージシャン](https://ja.wikipedia.org/wiki/Category:アンビエント・ミュージシャン "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink")

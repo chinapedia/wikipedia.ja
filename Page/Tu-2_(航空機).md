@@ -1,12 +1,22 @@
 > この記事は[Tu-2 \(航空機\)](https://ja.wikipedia.org/wiki/Tu-2_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=[22x20px](https://ja.wikipedia.org/wiki/画像:Flag_of_the_Soviet_Union_1923.svg "wikilink")  | 画像=Image:Tu-2.jpg | キャプション=モニノの[ロシア連邦空軍中央博物館に展示されるTu](https://ja.wikipedia.org/wiki/モニノ空軍博物館 "wikilink")-2 | 用途=[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")・[偵察機](../Page/偵察機.md "wikilink") | 分類=[前線爆撃機](../Page/爆撃機.md "wikilink")・[前線偵察機](https://ja.wikipedia.org/wiki/前線偵察機 "wikilink") | 設計者=[アンドリェーイ・トゥーパリェフ](../Page/アンドレーイ・トゥーポレフ.md "wikilink") | 製造者=[トゥーパリェフ設計局](../Page/ツポレフ.md "wikilink") | 運用者 more=
-\*\* [労農赤軍](../Page/赤軍.md "wikilink")
+{{ Infobox 航空機 | 名称=Tu-2 /  | 画像=<File:Tupolev> Tu-2 23Jun1945.jpg | キャプション=[モスクワ](../Page/モスクワ.md "wikilink")市[中央区](https://ja.wikipedia.org/wiki/中央区 "wikilink")[ヤキマンカ](https://ja.wikipedia.org/wiki/ヤキマンカ "wikilink")地区上空を飛行する
+Tu-2 ([1945年](../Page/1945年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")撮影) | 用途=[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")・[偵察機](../Page/偵察機.md "wikilink") | 分類=[前線爆撃機](../Page/爆撃機.md "wikilink")・[前線偵察機](../Page/偵察機.md "wikilink")（軽爆撃機） | 設計者=[トゥーパリェフ設計局](../Page/ツポレフ.md "wikilink") | 製造者=第166工場、カザン工場 | 運用者 more=
+\*\* [労働者・農民赤色空軍](../Page/赤色空軍.md "wikilink")
 
   -   - 他
 
-| 初飛行年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink") | 生産数=2527機 | 生産開始年月日=1941年 | 運用開始年月日=[1942年](../Page/1942年.md "wikilink") | 退役年月日= | 運用状況=退役 | ユニットコスト= }}  **Tu-2**([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>トゥー・ドヴァー</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ツポレフ](../Page/ツポレフ.md "wikilink")設計局で開発された[爆撃機](../Page/爆撃機.md "wikilink")である。[前線爆撃機](https://ja.wikipedia.org/wiki/前線爆撃機 "wikilink")として開発が始められ、基本量産型が[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として使用されたほか、前線[偵察機](../Page/偵察機.md "wikilink")としても運用された。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)では、[英語](../Page/英語.md "wikilink")で「[蝙蝠](https://ja.wikipedia.org/wiki/コウモリ "wikilink")」を意味する「バット」("Bat")という[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")を使用した。
+| 初飛行年月日=[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[1月29日](../Page/1月29日.md "wikilink") | 生産数=2,257機 | 生産開始年月日=1941年 | 運用開始年月日=[1942年](../Page/1942年.md "wikilink") | 退役年月日 more=
+\*\* [1950年](../Page/1950年.md "wikilink")（ソ連空軍）
+
+  -   - [1970年代](../Page/1970年代.md "wikilink")（人民解放軍空軍）
+
+| 運用状況=退役 | ユニットコスト= }}
+
+**Tu-2**（*Tupolev Tu-2* ティーユー2 / [露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):**** ）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[トゥーパリェフ設計局が開発し](../Page/ツポレフ.md "wikilink")、[赤色空軍](../Page/赤色空軍.md "wikilink")などで運用された[爆撃機](../Page/爆撃機.md "wikilink")。
+
+[前線爆撃機](https://ja.wikipedia.org/wiki/前線爆撃機 "wikilink")として開発が始められたが、用途変更により基本量産型は[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")となった。[偵察機](../Page/偵察機.md "wikilink")としても運用された。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)で使用された「バット ("Bat")」は、「[蝙蝠](https://ja.wikipedia.org/wiki/コウモリ "wikilink")」の意。
 
 ## 概要
 
@@ -145,13 +155,11 @@ Tu-2の後継機としては、[ジェット機](../Page/ジェット機.md "wik
       - 固定武装：20 mm機関砲ShVAK ×2、12.7 mm機銃UBT ×2
       - 爆弾搭載量：通常1,000 kg、最大2,000 kg、過積載3,000 kg
 
-## 運用国
-
-[thumbに展示されるTu](https://ja.wikipedia.org/wiki/画像:PL_MWP_Tu2.JPG "wikilink")-2\]\]
+## 運用者
 
   - [ソ連](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")
 
-      - [労農赤軍空軍](../Page/赤軍.md "wikilink")(1946年まで)
+      - [労働者・農民赤色空軍](../Page/赤色空軍.md "wikilink")(1946年まで)
       - [空軍](../Page/ソ連空軍.md "wikilink")(1946年から)
       - [海軍航空隊](https://ja.wikipedia.org/wiki/ソ連海軍航空隊 "wikilink")
 
@@ -167,10 +175,27 @@ Tu-2の後継機としては、[ジェット機](../Page/ジェット機.md "wik
 
   - [朝鮮民主主義人民共和国](../Page/朝鮮人民軍.md "wikilink")
 
+## 現存する機体
+
+| 型名    | 番号      | 機体写真                                                                                                                                                                                                                                                           | 所在地            | 所有者                                                                                                                              | 公開状況 | 状態   | 備考                                                                                                                                                                                                                                                                                                       |
+| ----- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tu-2  |         | [写真](https://live.staticflickr.com/8586/15956690409_5fb725af37_k.jpg)                                                                                                                                                                                          | 中国 北京          | [北京航空航天博物館](https://ja.wikipedia.org/wiki/:en:Beijing_Air_and_Space_Museum "wikilink")[1](http://airandspacemuseum.buaa.edu.cn/) | 公開   | 静態展示 |                                                                                                                                                                                                                                                                                                          |
+| Tu-2S | ‘44792’ | [写真](https://live.staticflickr.com/65535/49232314958_45f67ca8fc_5k.jpg)                                                                                                                                                                                        | 中国 北京          | [中国人民革命軍事博物館](../Page/中国人民革命軍事博物館.md "wikilink")                                                                                 | 公開   | 静態展示 |                                                                                                                                                                                                                                                                                                          |
+| Tu-2S |         | [写真](https://live.staticflickr.com/4915/45702642382_c8790e0050_b.jpg)                                                                                                                                                                                          | 中国 北京          | [中国空軍航空博物館](../Page/中国空軍航空博物館.md "wikilink")                                                                                     | 公開   | 静態展示 | 2015年ころまで展示されていた「0462」号機と同一のものと思われる。                                                                                                                                                                                                                                                                     |
+| Tu-2  | ‘20’    | [CHINA_AVIATION_MUSEUM_AT_DATANSHAN_CHINA_OCT_2012_(8916447662).jpg](https://ja.wikipedia.org/wiki/File:CHINA_AVIATION_MUSEUM_AT_DATANSHAN_CHINA_OCT_2012_\(8916447662\).jpg "fig:CHINA_AVIATION_MUSEUM_AT_DATANSHAN_CHINA_OCT_2012_(8916447662).jpg") | 中国 北京          | 中国空軍航空博物館                                                                                                                        | 公開   | 静態展示 |                                                                                                                                                                                                                                                                                                          |
+| Tu-2S |         | [TU-2S.jpg](https://ja.wikipedia.org/wiki/File:TU-2S.jpg "fig:TU-2S.jpg")                                                                                                                                                                                      | 中国 北京          | 中国空軍航空博物館                                                                                                                        | 公開   | 静態展示 |                                                                                                                                                                                                                                                                                                          |
+| Tu-2T | ‘27’    | [Aviation_Museum_in_Plovdiv_47.jpg](https://ja.wikipedia.org/wiki/File:Aviation_Museum_in_Plovdiv_47.jpg "fig:Aviation_Museum_in_Plovdiv_47.jpg")                                                                                                          | ブルガリア プロヴディフ州  | 航空博物館[2](http://www.airmuseum-bg.com/eng/)                                                                                       | 公開   | 静態展示 | [3](http://www.airmuseum-bg.com/eng/Kolekcii/LetAparat_samolet.html)                                                                                                                                                                                                                                     |
+| Tu-2S |         | [Tupolev_Tu-2S_-ID_unknown-_(15960489246).jpg](https://ja.wikipedia.org/wiki/File:Tupolev_Tu-2S_-ID_unknown-_\(15960489246\).jpg "fig:Tupolev_Tu-2S_-ID_unknown-_(15960489246).jpg")                                                                       | ポーランド マウォポルスカ県 | [クラクフ・ポーランド航空博物館](https://ja.wikipedia.org/wiki/:en:Polish_Aviation_Museum "wikilink")                                           | 公開   | 静態展示 |                                                                                                                                                                                                                                                                                                          |
+| Tu-2S | ‘8’     | [Muzeum_Wojska_Polskiego_50_Tu-2S.jpg](https://ja.wikipedia.org/wiki/File:Muzeum_Wojska_Polskiego_50_Tu-2S.jpg "fig:Muzeum_Wojska_Polskiego_50_Tu-2S.jpg")                                                                                                 | ポーランド マゾフシェ県   | [ポーランド軍博物館](https://ja.wikipedia.org/wiki/:en:Polish_Army_Museum "wikilink")                                                     | 公開   | 静態展示 |                                                                                                                                                                                                                                                                                                          |
+| Tu-2S | ‘103’   | [Tupolev_Tu-2S_‘103_white’_(27282694979).jpg](https://ja.wikipedia.org/wiki/File:Tupolev_Tu-2S_‘103_white’_\(27282694979\).jpg "fig:Tupolev_Tu-2S_‘103_white’_(27282694979).jpg")                                                                          | ロシア モスクワ州      | [連邦文化芸術研究所中央空軍博物館](https://ja.wikipedia.org/wiki/モニノ空軍博物館 "wikilink")                                                            | 公開   | 静態展示 | 旧塗装[Tupolev_Tu-2S_Bat_(unmarked)_(9735935419).jpg](https://ja.wikipedia.org/wiki/File:Tupolev_Tu-2S_Bat_\(unmarked\)_\(9735935419\).jpg "fig:Tupolev_Tu-2S_Bat_(unmarked)_(9735935419).jpg")                                                                                                         |
+| Tu-2  |         |                                                                                                                                                                                                                                                                | ロシア モスクワ市      | 勝利の翼の記憶軍事史財団                                                                                                                     | 非公開  | 修復中  | もともと[ウォー・イーグルス航空博物館](https://ja.wikipedia.org/wiki/ウォー・イーグルス航空博物館 "wikilink")が所有していた機体。[ノヴォシビルスク国立総合大学の協力のもと修復作業が行われている](../Page/ノヴォシビルスク大学.md "wikilink")。[旧塗装1](https://www.flickr.com/photos/kensaviation/1283208834/sizes/l/)[旧塗装2](https://live.staticflickr.com/935/43673696992_3abacf9d7d_6k.jpg) |
+| Tu-2  |         | [写真](https://www.flickr.com/photos/nahcco/5182109398/sizes/4k/)                                                                                                                                                                                                | アメリカ フロリダ州     | [ファンタジー・オヴ・フライト](https://ja.wikipedia.org/wiki/:en:Fantasy_of_Flight "wikilink")                                                 | 公開   | 保管中  |                                                                                                                                                                                                                                                                                                          |
+|       |         |                                                                                                                                                                                                                                                                |                |                                                                                                                                  |      |      |                                                                                                                                                                                                                                                                                                          |
+
 ## 関連項目
 
-  - [アンドレーイ・トゥーポレフ](../Page/アンドレーイ・トゥーポレフ.md "wikilink")
-  - [アレクサンドル・アルハーンゲリスキイ](https://ja.wikipedia.org/wiki/アレクサンドル・アルハーンゲリスキイ "wikilink")
+  - [アンドリェーイ・ニカラーイェヴィチ・トゥーパリェフ](../Page/アンドレーイ・トゥーポレフ.md "wikilink")
+  - [アレクサーンドル・アレクサーンドロヴィチ・アルハーンギェリスキイ](https://ja.wikipedia.org/wiki/アレクサンドル・アルハーンゲリスキイ "wikilink")
 
 ## 外部リンク
 

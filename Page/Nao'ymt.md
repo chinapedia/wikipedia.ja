@@ -156,7 +156,7 @@
   - [Nao'ymt](http://www.naoymt.com/) - 公式サイト
   - [Jine Online](http://www.jine.asia/) - ジャイン公式サイト
   - [歌ネット「言葉の達人」Nao'ymt](http://www.uta-net.com/user/sakushika/01_100/63.html) - 無料歌詞検索サイト
-  - [Nao'ymt (ユニバーサルミュージック)](http://www.universal-music.co.jp/naoymt/)
+  - [Nao'ymt (ユニバーサルミュージック)](https://www.universal-music.co.jp/naoymt/)
 
 [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

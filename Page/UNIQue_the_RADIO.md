@@ -66,7 +66,7 @@
 など。
 
   - 文化放送制作アニラジ番組の[サイマルプログラム](../Page/サイマル放送.md "wikilink")
-      - [水樹奈々スマイルギャング](https://ja.wikipedia.org/wiki/水樹奈々スマイルギャング "wikilink")（[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後[文化放送プラス](https://ja.wikipedia.org/wiki/文化放送プラス "wikilink")でのデジタルラジオ配信スタートまでは地上波のみで放送。）
+      - [水樹奈々 スマイルギャング](https://ja.wikipedia.org/wiki/水樹奈々_スマイルギャング "wikilink")（[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後[文化放送プラス](https://ja.wikipedia.org/wiki/文化放送プラス "wikilink")でのデジタルラジオ配信スタートまでは地上波のみで放送。）
       - [堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")（[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")～[8月](../Page/8月.md "wikilink")。その後文化放送プラスでのデジタルラジオ配信スタートまでは地上波のみで放送。）
 
 <!-- end list -->

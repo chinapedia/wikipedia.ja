@@ -17,7 +17,7 @@
   - 「サヨナラリフレイン」は、[JR東日本の駅](../Page/東日本旅客鉄道.md "wikilink")[発車メロディ](../Page/発車メロディ.md "wikilink")を[サンプリング](../Page/サンプリング.md "wikilink")している。
   - 2008年6月25日、メンバーの[Akico](https://ja.wikipedia.org/wiki/Akico "wikilink")より本人の妊娠が発表された。妊婦をしながらアーティストとしても活動していく志のもと、Akico単独での新たなブログも始まった。
 
-[マザニンAboo a.k.a. Akicoの妊婦奮闘記 1+1=3 〜one plus one is three〜](http://ameblo.jp/akico-ninblo/)
+[マザニンAboo a.k.a. Akicoの妊婦奮闘記 1+1=3 〜one plus one is three〜](https://ameblo.jp/akico-ninblo/)
 
   - デビューミニアルバム以降、CDのリリースがないが、My Spaceや着うたの配信、ラジオなどで未発表曲を多数公開している。
   - 2010年3月31日をもって活動休止をすると公式サイトなどで表明した。
@@ -100,4 +100,4 @@
   - [Mother NinjaオフィシャルMySpace](http://www.myspace.com/motherninjaspace)
   - [マザニンAboo a.k.a. Akicoの妊婦奮闘ブログ 1+1=3 〜one plus one is three〜](https://ameblo.jp/akico-ninblo/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

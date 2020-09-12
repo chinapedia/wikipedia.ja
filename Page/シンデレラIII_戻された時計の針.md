@@ -167,4 +167,9 @@
 
 [ヘイデン・パネッティーア](../Page/ヘイデン・パネッティーア.md "wikilink")が歌う『*I Still Believe*』がエンドクレジットで流されるとともに、同曲のミュージック・クリップがDVDの特典として収録されている。公式の[サウンドトラック](../Page/サウンドトラック.md "wikilink")は未発売。
 
+## 外部リンク
+
+  - [シンデレラIII 戻された時計の針](https://www.disney.co.jp/studio/animation/0750.html)
+
+  -
 [Category:シンデレラ_(ディズニー)](https://ja.wikipedia.org/wiki/Category:シンデレラ_\(ディズニー\) "wikilink") [Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ディズニートゥーン・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ディズニートゥーン・スタジオの映画作品 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:タイムトラベルを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたアニメ映画 "wikilink") [Category:2007年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2007年のアニメ映画 "wikilink") [Category:ジョエル・マクニーリーの作曲映画](https://ja.wikipedia.org/wiki/Category:ジョエル・マクニーリーの作曲映画 "wikilink") [Category:時計を題材とした作品](https://ja.wikipedia.org/wiki/Category:時計を題材とした作品 "wikilink")

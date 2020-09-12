@@ -19,16 +19,14 @@
 
 ## 収録アルバム
 
-＃1
-
-  - [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")　(1998.07.23･MVCD-34)
-  - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink") （1999.5.29･MVCH-30007）
-  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
-  - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
-  - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
-
-＃2
-
-  - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink") （2002.3.6･UUCH-1045）
+  - **STORM**
+      - [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")
+      - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink")
+      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+  - **この世界の果てで**
+      - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink")
 
 [Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:嵐を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:嵐を題材とした楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

@@ -17,6 +17,8 @@ EZチャンネルは動画フォーマットに[MPEG-4](../Page/MPEG-4.md "wikil
 
   - [対応機種一覧](http://www.au.kddi.com/ez_channel_plus/taiou.html)を参照。
 
+## 脚注
+
 ## 関連項目
 
   - [EZチャンネル](../Page/EZチャンネル.md "wikilink")
@@ -26,14 +28,12 @@ EZチャンネルは動画フォーマットに[MPEG-4](../Page/MPEG-4.md "wikil
   - [BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink")
   - [GYAO\!](../Page/GYAO!.md "wikilink")（旧・Yahoo\!動画）
 
-## 脚注
-
 ## 外部リンク
 
   - [EZチャンネルプラス](http://www.au.kddi.com/ez_channel_plus/index.html)
   - [EZチャンネルプラス - KDDI用語集](http://www.kddi.com/yogo/KDDI%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/EZ%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%97%E3%83%A9%E3%82%B9.html)
 
-[Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:EZチャンネル](https://ja.wikipedia.org/wiki/Category:EZチャンネル "wikilink")
+[Category:EZチャンネル](https://ja.wikipedia.org/wiki/Category:EZチャンネル "wikilink")
 
 1.
 2.

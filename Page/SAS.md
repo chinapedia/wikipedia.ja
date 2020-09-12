@@ -25,7 +25,7 @@
   - 音楽バンド
       - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") () - 日本のバンド。
       - [ストレッチアームストロング](https://ja.wikipedia.org/wiki/ストレッチアームストロング "wikilink") () - アメリカのバンド。
-  - [Serial Attached SCSI](../Page/Serial_Attached_SCSI.md "wikilink") - コンピュータ周辺機器接続規格。
+  - [Serial Attached SCSI](../Page/Serial_Attached_SCSI.md "wikilink") - [コンピュータ](../Page/コンピュータ.md "wikilink")に[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")等の[デバイスを接続するための](../Page/ハードウェア.md "wikilink")[インターフェース](https://ja.wikipedia.org/wiki/インターフェース "wikilink")。
   - SAS規格(Stainless Steel Association Standard) - [ステンレス](https://ja.wikipedia.org/wiki/ステンレス "wikilink")協会による工業規格。
   - [佐賀を表す](../Page/佐賀県.md "wikilink")[国際ナンバープレート](https://ja.wikipedia.org/wiki/国際ナンバープレート "wikilink")の符号。
   - [上海アメリカンスクール](https://ja.wikipedia.org/wiki/上海アメリカンスクール "wikilink")() - 中国のアメリカンスクール。
@@ -47,7 +47,6 @@
       - [宇宙酔い](../Page/宇宙酔い.md "wikilink") ()
   - [クモ膜下腔](../Page/クモ膜下腔.md "wikilink") () - 中枢神経系内の部位。
   - [二次空気導入装置](https://ja.wikipedia.org/wiki/二次空気導入装置 "wikilink") () - 内燃機関の機構。
-  - [Serial Attached SCSI](../Page/Serial_Attached_SCSI.md "wikilink") - [コンピュータ](../Page/コンピュータ.md "wikilink")に[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")等の[デバイスを接続するための](../Page/ハードウェア.md "wikilink")[インターフェース](https://ja.wikipedia.org/wiki/インターフェース "wikilink")。
 
 ## 脚注
 

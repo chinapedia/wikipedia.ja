@@ -11,7 +11,7 @@
 
 ## 作用
 
-EcoRIはIIP型に分類される制限酵素であり、[DNA中の](../Page/デオキシリボ核酸.md "wikilink")　5'-GAATTC-3'　という[パリンドロームになっている](https://ja.wikipedia.org/wiki/回文#生物の回文 "wikilink")6[塩基配列](../Page/塩基配列.md "wikilink")を認識し、GとAの間に切れ目を入れ、切り口に[付着末端を作り出す](https://ja.wikipedia.org/wiki/粘着末端 "wikilink")。この時、酵素との結合部でDNAを直角に屈曲させることが分かっている。なお、大腸菌自身の遺伝子は、この配列の部分が[メチル化されているため](https://ja.wikipedia.org/wiki/DNAメチル化 "wikilink")、切断される心配はない。
+EcoRIはIIP型に分類される制限酵素であり、[DNA中の](../Page/デオキシリボ核酸.md "wikilink")　5'-GAATTC-3'　という[パリンドロームになっている](https://ja.wikipedia.org/wiki/回文配列 "wikilink")6[塩基配列](../Page/塩基配列.md "wikilink")を認識し、GとAの間に切れ目を入れ、切り口に[付着末端を作り出す](https://ja.wikipedia.org/wiki/粘着末端 "wikilink")。この時、酵素との結合部でDNAを直角に屈曲させることが分かっている。なお、大腸菌自身の遺伝子は、この配列の部分が[メチル化されているため](https://ja.wikipedia.org/wiki/DNAメチル化 "wikilink")、切断される心配はない。
 
 <span style="text-decoration:underline;">EcoRIの切断パターン</span>
 切断前の配列 　　　切断後の配列

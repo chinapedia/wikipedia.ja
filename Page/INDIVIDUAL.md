@@ -38,7 +38,7 @@
 7.  **[眠らない街に流されて](../Page/眠らない街に流されて.md "wikilink")**
       -
         作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")　作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲：明石昌夫
-8.  **[君が欲しい 全部欲しい(Album Version)](https://ja.wikipedia.org/wiki/君が欲しい全部欲しい "wikilink")**
+8.  **[君が欲しい 全部欲しい(Album Version)](https://ja.wikipedia.org/wiki/君が欲しい_全部欲しい "wikilink")**
       -
         作詞：大黒摩季　作曲：織田哲郎　編曲：明石昌夫
 9.  **いつでも君に会いたかった**

@@ -11,6 +11,8 @@
 
 シングルカットである「[Never Stop\!](https://ja.wikipedia.org/wiki/Shapes_Of_Love/Never_Stop! "wikilink")」を除くオリジナルシングルとしては、持田が初の作詞を担当している。また、これまでのシングルは、ほぼ五十嵐が全ての楽曲製作をしていたが、本作からは持田や伊藤が楽曲製作に参加している。
 
+最高位3位、累計25万枚。
+
 ## 収録曲
 
   - 全作詞：[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")

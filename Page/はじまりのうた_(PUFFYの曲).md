@@ -9,7 +9,7 @@
   - 前作から1年半ぶりのシングルであり、引き続き[アンディ・スターマー](https://ja.wikipedia.org/wiki/アンディ・スターマー "wikilink")がプロデュース。
   - 「はじまりのうた」は、アニメ映画『[劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ.md "wikilink")』の主題歌。
       - 曲調は非常にポップで、歌詞には[ポケモンのタイプが羅列されていたり](https://ja.wikipedia.org/wiki/ポケットモンスター_\(架空の生物\)#タイプと相性 "wikilink")、子供に分かりやすい内容である。
-      - この曲のPVは、[愛・地球博とともに](../Page/2005年日本国際博覧会.md "wikilink")[名古屋](../Page/名古屋.md "wikilink")で期間限定開園された「[ポケパーク](https://ja.wikipedia.org/wiki/ポケパーク "wikilink")」で撮影された。
+      - この曲のPVは、[愛・地球博とともに](../Page/2005年日本国際博覧会.md "wikilink")[名古屋](../Page/名古屋.md "wikilink")で期間限定開園された「[ポケパーク](https://ja.wikipedia.org/wiki/Pokémon_The_Park_2005 "wikilink")」で撮影された。
       - 作曲はアンディとBleuとなっており、Bleuは2002年の北米ツアーでほとんどの[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")を務めた。
   - カップリングの「ナイスバディ」は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[ムーヴラテ](../Page/ダイハツ・ムーヴラテ.md "wikilink")」のCMソング。
       - この曲のPVは、[潮来市](../Page/潮来市.md "wikilink")のショッピングセンター「アイモア」で撮影された。

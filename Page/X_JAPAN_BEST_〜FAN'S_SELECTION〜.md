@@ -1,7 +1,7 @@
 > この記事は[X JAPAN BEST 〜FAN\'S SELECTION〜](https://ja.wikipedia.org/wiki/X_JAPAN_BEST_〜FAN\'S_SELECTION〜)から翻訳されています。
 
 
-『**X JAPAN BEST 〜FAN'S SELECTION〜**』（エックス・ジャパン・ベスト 〜ファンズ・セレクション〜）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**X JAPAN BEST 〜FAN'S SELECTION〜**』（エックス・ジャパン・ベスト ファンズ・セレクション）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 [2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[ポリドールよりリリース](../Page/ポリドール・レコード.md "wikilink")。
 
@@ -9,9 +9,9 @@
 
 [TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")オンライン上にてファンからの投票において選曲された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。総得票数は201,434票。
 
-『**[PERFECT BEST](../Page/PERFECT_BEST_\(X_JAPANのアルバム\).md "wikilink")**』のような盤権障害もなく、「紅」「Silent Jealousy」「ENDLESS RAIN」「Say Anything」のようなソニーが権利を保有する曲もオリジナル音源で収録された。
+『[PERFECT BEST](../Page/PERFECT_BEST_\(X_JAPANのアルバム\).md "wikilink")』のような盤権障害もなく、「紅」「Silent Jealousy」「ENDLESS RAIN」「Say Anything」のようなソニーが権利を保有する曲もオリジナル音源で収録された。
 
-曲順はすべて投票順となっている。また、[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")の『**[ターボ](https://ja.wikipedia.org/wiki/ターボ_\(アルバム\) "wikilink")**』なども手がけたビル・ドゥーリーによって全曲リマスターも施された。
+曲順はすべて投票順となっている。また、[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")の『[ターボ](https://ja.wikipedia.org/wiki/ターボ_\(アルバム\) "wikilink")』なども手がけたビル・ドゥーリーによって全曲リマスターも施された。
 
 ちなみに本作のみ、曲名が英語のものは全て大文字で表記されている。
 
@@ -22,21 +22,25 @@
 <!-- end list -->
 
 1.  **[紅](../Page/紅_\(Xの曲\).md "wikilink")**
-    （作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")/編曲:X）
       -
-        アルペジオの前にオーケストラのイントロがある『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』収録テイク。
+        （作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")/編曲:X）
+        アルペジオの前にオーケストラのイントロがある『[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")』収録テイク。
 2.  **[Silent Jealousy](../Page/Silent_Jealousy.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X）
-3.  **[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X）
-4.  **[Rusty Nail](../Page/Rusty_Nail.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X JAPAN）
-5.  **[Tears](../Page/Tears_\(X_JAPANの曲\).md "wikilink")**
-    （作詞:白鳥瞳\&YOSHIKI/作曲:YOSHIKI/編曲:X JAPAN）
       -
+        （作詞・作曲:YOSHIKI/編曲:X）
+3.  **[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")**
+      -
+        （作詞・作曲:YOSHIKI/編曲:X）
+4.  **[Rusty Nail](../Page/Rusty_Nail.md "wikilink")**
+      -
+        （作詞・作曲:YOSHIKI/編曲:X JAPAN）
+5.  **[Tears](../Page/Tears_\(X_JAPANの曲\).md "wikilink")**
+      -
+        （作詞:白鳥瞳\&YOSHIKI/作曲:YOSHIKI/編曲:X JAPAN）
         シングルバージョン。
 6.  **[ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X JAPAN）
+      -
+        （作詞・作曲:YOSHIKI/編曲:X JAPAN）
 
 <!-- end list -->
 
@@ -45,21 +49,25 @@
 <!-- end list -->
 
 1.  **[DAHLIA](../Page/DAHLIA_\(X_JAPANの曲\).md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X JAPAN）
       -
+        （作詞・作曲:YOSHIKI/編曲:X JAPAN）
         アルバム『[DAHLIA](../Page/DAHLIA_\(アルバム\).md "wikilink")』同様に[ノイズ](../Page/ノイズ.md "wikilink")が混じっているものがあることが確認されている。
 2.  **[Say Anything](../Page/Say_Anything.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X）
-3.  **[Forever Love (Single Ver.)](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X JAPAN）
-4.  **[Longing 〜跡切れたmelody〜](../Page/Longing_〜跡切れたmelody〜.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:X JAPAN）
-5.  **[SCARS](../Page/SCARS_\(X_JAPANの曲\).md "wikilink")**
-    （作詞・作曲:[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")/編曲:X JAPAN）
       -
+        （作詞・作曲:YOSHIKI/編曲:X）
+3.  **[Forever Love (Single Ver.)](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink")**
+      -
+        （作詞・作曲:YOSHIKI/編曲:X JAPAN）
+4.  **[Longing 〜跡切れたmelody〜](../Page/Longing_〜跡切れたmelody〜.md "wikilink")**
+      -
+        （作詞・作曲:YOSHIKI/編曲:X JAPAN）
+5.  **[SCARS](../Page/SCARS_\(X_JAPANの曲\).md "wikilink")**
+      -
+        （作詞・作曲:[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")/編曲:X JAPAN）
         本作で唯一のHIDEによる楽曲。
 6.  **[CRUCIFY MY LOVE](../Page/CRUCIFY_MY_LOVE.md "wikilink")**
-    （作詞・作曲:YOSHIKI/編曲:YOSHIKI）
+      -
+        （作詞・作曲:YOSHIKI/編曲:YOSHIKI）
 
 ## 投票結果
 
@@ -202,7 +210,7 @@
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">X</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">X</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:56px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -229,7 +237,7 @@
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">ROSE OF PAIN</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">ROSE OF PAIN</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:42px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -247,7 +255,7 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">CELEBRATION</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">CELEBRATION</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:41px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -256,7 +264,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">BLUE BLOOD</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">BLUE BLOOD</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:40px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -283,7 +291,7 @@
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">オルガスム</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">オルガスム</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:28px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -319,7 +327,7 @@
 </tr>
 <tr class="even">
 <td><p>28</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">WEEK END</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">WEEK END</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:24px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -328,7 +336,7 @@
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">UNFINISHED</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">UNFINISHED</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:24px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -409,7 +417,7 @@
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">EASY FIGHT RAMBLING</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">EASY FIGHT RAMBLING</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:17px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -436,7 +444,7 @@
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">PROLOGUE (〜WORLD ANTHEM)</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">PROLOGUE (〜WORLD ANTHEM)</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:13px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">
@@ -454,7 +462,7 @@
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲" title="wikilink">XCLAMATION</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BLUE_BLOOD_(Xのアルバム)#収録曲" title="wikilink">XCLAMATION</a></p></td>
 <td><div style="display: inline-block; _display: inline;width:12px;height:16px;background:#b0c4de">
 </div>
 <div style="display: inline-block; _display: inline;">

@@ -18,8 +18,8 @@
   - ☆[並木晃一](../Page/並木晃一.md "wikilink") - Mickey（ギター）
   - ☆[松前公高](https://ja.wikipedia.org/wiki/松前公高 "wikilink") - [Harrier](../Page/スペースハリアー.md "wikilink")（シンセサイザー&プログラミング）
   - ☆[斉藤昌人](https://ja.wikipedia.org/wiki/斉藤昌人 "wikilink") - [Turbo君](../Page/ターボアウトラン.md "wikilink")（ベース）
-  - [今井義頼](https://ja.wikipedia.org/wiki/今井義頼 "wikilink")（ドラム）
   - [森藤晶司](https://ja.wikipedia.org/wiki/森藤晶司 "wikilink") - [Rally](../Page/セガラリーチャンピオンシップ.md "wikilink")（キーボード）
+  - [今井義頼](https://ja.wikipedia.org/wiki/今井義頼 "wikilink") - [Sonic](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")\[1\]（ドラム）
 
 ### 旧メンバー
 
@@ -111,19 +111,19 @@ PlotData=
 
 ## 来歴
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月に稼働開始した[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")のアーケードゲーム『[アフターバーナー](../Page/アフターバーナー_\(ゲーム\).md "wikilink")』に関連し、同年12月に[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")でイベント「アフターバーナーパニック」を開催。そのイベントにて、セガのサウンド開発者によるバンドがライブを行い、これが同バンドの前身となる\[1\]。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月に稼働開始した[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")のアーケードゲーム『[アフターバーナー](../Page/アフターバーナー_\(ゲーム\).md "wikilink")』に関連し、同年12月に[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")でイベント「アフターバーナーパニック」を開催。そのイベントにて、セガのサウンド開発者によるバンドがライブを行い、これが同バンドの前身となる\[2\]。
 
 ### S.S.T.BAND
 
-[1988年](../Page/1988年.md "wikilink")7月発売のアルバム『GALAXY FORCE -G.S.M.SEGA 1-』にてデビュー。ただしこの時は松前と並木の2人のみ\[2\]で、その2人も名は前面に出していなかった。翌[1989年](../Page/1989年.md "wikilink")2月、セガがイベント「[メガドライブ](../Page/メガドライブ.md "wikilink") スパークリング1989」を[東京・名古屋・大阪で開催](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")、そのステージでバンドとしてデビューを果たす。松前は飯島・小森・田辺をバンドに誘い（イベントのパンフレットには松前含むこの4名のコードネームしか書かれていない）、それにセガ社員のHiroと並木が加わる編成となった\[3\]。同年11月の[MZA有明公演においては](https://ja.wikipedia.org/wiki/ディファ有明#MZA有明 "wikilink")、7人目のメンバーとして塚原がステージに立ったが、この公演のみの加入となった。
+[1988年](../Page/1988年.md "wikilink")7月発売のアルバム『GALAXY FORCE -G.S.M.SEGA 1-』にてデビュー。ただしこの時は松前と並木の2人のみ\[3\]で、その2人も名は前面に出していなかった。翌[1989年](../Page/1989年.md "wikilink")2月、セガがイベント「[メガドライブ](../Page/メガドライブ.md "wikilink") スパークリング1989」を[東京・名古屋・大阪で開催](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")、そのステージでバンドとしてデビューを果たす。松前は飯島・小森・田辺をバンドに誘い（イベントのパンフレットには松前含むこの4名のコードネームしか書かれていない）、それにセガ社員のHiroと並木が加わる編成となった\[4\]。同年11月の[MZA有明公演においては](https://ja.wikipedia.org/wiki/ディファ有明#MZA有明 "wikilink")、7人目のメンバーとして塚原がステージに立ったが、この公演のみの加入となった。
 
-その後もライブ活動を重ねるが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に本来[プログラマ](../Page/プログラマ.md "wikilink")であった小森が多忙のため脱退\[4\]。後任に斉藤が加入し、アルバム『HYPER DRIVE -G.S.M.SEGA 4-』にてデビュー。バンドは同年開催の[ゲームミュージックフェスティバル](../Page/ゲームミュージックフェスティバル.md "wikilink")'90で、[ZUNTATA](../Page/ZUNTATA.md "wikilink")とともにステージを踏んだ。
+その後もライブ活動を重ねるが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に本来[プログラマ](../Page/プログラマ.md "wikilink")であった小森が多忙のため脱退\[5\]。後任に斉藤が加入し、アルバム『HYPER DRIVE -G.S.M.SEGA 4-』にてデビュー。バンドは同年開催の[ゲームミュージックフェスティバル](../Page/ゲームミュージックフェスティバル.md "wikilink")'90で、[ZUNTATA](../Page/ZUNTATA.md "wikilink")とともにステージを踏んだ。
 
-翌[1991年](../Page/1991年.md "wikilink")、光吉がHiroと入れ替わりキーボードを担当（Hiro自身は「遅刻が多かったため交代させられた」と述懐\[5\]）。さらに田辺が[気胸](../Page/気胸.md "wikilink")を発症し、代役として熊丸がドラムを担当、のち正式メンバーとなる\[6\]。[1992年](../Page/1992年.md "wikilink")発売の完全オリジナルアルバム『BLIND SPOT』からは、全員がサングラスを外し、本名を名乗る。
+翌[1991年](../Page/1991年.md "wikilink")、光吉がHiroと入れ替わりキーボードを担当（Hiro自身は「遅刻が多かったため交代させられた」と述懐\[6\]）。さらに田辺が[気胸](../Page/気胸.md "wikilink")を発症し、代役として熊丸がドラムを担当、のち正式メンバーとなる\[7\]。[1992年](../Page/1992年.md "wikilink")発売の完全オリジナルアルバム『BLIND SPOT』からは、全員がサングラスを外し、本名を名乗る。
 
-しかし、セガの所属レコード会社が[東芝EMIに移ることとなり](../Page/EMIミュージック・ジャパン.md "wikilink")、サイトロン・レーベルから離脱するにあたり、[1993年](../Page/1993年.md "wikilink")の「ゲームミュージックライブ 電撃'93」でのライブを最後に解散した\[7\]。
+しかし、セガの所属レコード会社が[東芝EMIに移ることとなり](../Page/EMIミュージック・ジャパン.md "wikilink")、サイトロン・レーベルから離脱するにあたり、[1993年](../Page/1993年.md "wikilink")の「ゲームミュージックライブ 電撃'93」でのライブを最後に解散した\[8\]。
 
-その後セガは、1993年に並木と光吉によるユニット「[B-univ](https://ja.wikipedia.org/wiki/B-univ "wikilink")」を結成するも、翌年活動停止。[2001年](../Page/2001年.md "wikilink")には、Hiroや光吉らによるオフィシャルサウンドユニット「[H.](https://ja.wikipedia.org/wiki/H. "wikilink")」を結成している。また[2003年](../Page/2003年.md "wikilink")にベストアルバムが発売され、10年ぶりにメンバーが集結して座談会を行う（光吉は不参加）。本来は再結成ライブも視野に入っていたが、このとき再結成は実現しなかった\[8\]。
+その後セガは、1993年に並木と光吉によるユニット「[B-univ](https://ja.wikipedia.org/wiki/B-univ "wikilink")」を結成するも、翌年活動停止。[2001年](../Page/2001年.md "wikilink")には、Hiroや光吉らによるオフィシャルサウンドユニット「[H.](https://ja.wikipedia.org/wiki/H. "wikilink")」を結成している。また[2003年](../Page/2003年.md "wikilink")にベストアルバムが発売され、10年ぶりにメンバーが集結して座談会を行う（光吉は不参加）。本来は再結成ライブも視野に入っていたが、このとき再結成は実現しなかった\[9\]。
 
 ### Blind Spot
 
@@ -133,11 +133,11 @@ PlotData=
 
 2013年10月、飯島が脱退。一時はギター新メンバー募集が告知され、実際にオーディションも行われたが、その後も新メンバーは加入していない。
 
-[2017年](../Page/2017年.md "wikilink")4月29日の東京公演をもって、松前がライブへの参加を終了（脱退はしていない）\[9\]。
+[2017年](../Page/2017年.md "wikilink")4月29日の東京公演をもって、松前がライブへの参加を終了（脱退はしていない）\[10\]。
 
 [2018年](../Page/2018年.md "wikilink")2月12 - 17日、S.S.T.BANDから数えて30周年を記念した[東名阪ツアー](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")「Sanju Shunen Tour」を開催。大阪および名古屋公演では松前がゲスト出演、東京公演では初代ベースの小森・初代ドラムの田辺・2013年に脱退した飯島がゲスト出演した。また同年12月には、30周年を記念した[CD\&DVD-BOX](../Page/ボックス・セット.md "wikilink")『S.S.T.BAND -30th Anniversary Box-』がリリースされた。
 
-[2019年](../Page/2019年.md "wikilink")6月10日、熊丸が脱退\[10\]。新ドラマーに[今井義頼](https://ja.wikipedia.org/wiki/今井義頼 "wikilink")が加入\[11\]。
+[2019年](../Page/2019年.md "wikilink")6月10日、熊丸が脱退\[11\]。新ドラマーに[今井義頼](https://ja.wikipedia.org/wiki/今井義頼 "wikilink")が加入\[12\]。
 
 ## 作品
 
@@ -193,38 +193,38 @@ PlotData=
 
 ### その他
 
-  - 『From Ula』1991年4月24日（自主制作）\[12\]
+  - 『From Ula』1991年4月24日（自主制作）\[13\]
       -
-        渋谷TAKE OFF7で同日開催された、プライベートライブでのみ販売されたカセットテープ。60本限定。タイトルは同時期のアルバム『Formula』の[アナグラム](../Page/アナグラム.md "wikilink")である\[13\]。
+        渋谷TAKE OFF7で同日開催された、プライベートライブでのみ販売されたカセットテープ。60本限定。タイトルは同時期のアルバム『Formula』の[アナグラム](../Page/アナグラム.md "wikilink")である\[14\]。
         内容は各メンバーによる楽器講座やコント、各自のアレンジによるデモ楽曲、コンサートで使用されたオープニングSEなど。
   - 『ゲームミュージックライブ夏'93 〜公認海賊版カセット〜』1993年（ポニーキャニオン）
       -
         サイトロンの[ノベルティ](../Page/ノベルティ.md "wikilink")で作られたカセットテープ（非売品）。「ゲームミュージックライブ 電撃 '93」より「EARTH FRAME G」「SWORD OF VERMILION」「AFTER BURNER」を収録。
   - 『From Ula 2』2017年2月24日（自主制作）
       -
-        2017年開催の[東名阪](https://ja.wikipedia.org/wiki/東名阪 "wikilink")ツアーおよび東京ゲーム音楽ショー2017以降に販売された、会場限定CD-R\[14\]\[15\]。
-        内容は新アレンジ3曲および、『アウトラン』の仮想新作をイメージした森藤書き下ろしオリジナル曲\[16\]。
-        同年7月2日より[インターネット配信開始](../Page/音楽配信.md "wikilink")\[17\]。
+        2017年開催の[東名阪](https://ja.wikipedia.org/wiki/東名阪 "wikilink")ツアーおよび東京ゲーム音楽ショー2017以降に販売された、会場限定CD-R\[15\]\[16\]。
+        内容は新アレンジ3曲および、『アウトラン』の仮想新作をイメージした森藤書き下ろしオリジナル曲\[17\]。
+        同年7月2日より[インターネット配信開始](../Page/音楽配信.md "wikilink")\[18\]。
   - 『From Ula 3』2017年4月29日（自主制作）
       -
-        2017年開催の[ゲーマデリック](https://ja.wikipedia.org/wiki/ゲーマデリック "wikilink")アルバム発売記念公演「祝ってやるRe:birth」以降に販売された、会場限定CD-R\[18\]。
-        内容はライブ開始時のSE3曲、新アレンジ2曲、およびアルバム『BLIND SPOT』のデモ音源より2曲\[19\]。
-        同年7月13日よりインターネット配信開始。配信版のみリミックス1曲、[カラオケ](../Page/カラオケ.md "wikilink")2曲を追加収録\[20\]。
+        2017年開催の[ゲーマデリック](https://ja.wikipedia.org/wiki/ゲーマデリック "wikilink")アルバム発売記念公演「祝ってやるRe:birth」以降に販売された、会場限定CD-R\[19\]。
+        内容はライブ開始時のSE3曲、新アレンジ2曲、およびアルバム『BLIND SPOT』のデモ音源より2曲\[20\]。
+        同年7月13日よりインターネット配信開始。配信版のみリミックス1曲、[カラオケ](../Page/カラオケ.md "wikilink")2曲を追加収録\[21\]。
   - 『S.S.T.BAND -30th Anniversary Box-』2018年12月15日（[ウェーブマスター](../Page/ウェーブマスター.md "wikilink")）
       -
         結成30周年記念CD\&DVD-BOX。過去に公式発表した全楽曲（[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")、[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")、ノベルティカセットテープ含む）をリマスタリングしCD5枚に収録。また過去のライブ映像を中心とした映像をDVD1枚に収録。
   - 『From Ula 4』2019年9月14日（自主制作）
       -
-        2019年開催のライブ「Blind Spot 新入社員歓迎会」より販売された、会場限定CD-R\[21\]。
-        内容は新メンバー・今井義頼の生ドラムによる、既存曲の新録音バージョン4曲\[22\]。
+        2019年開催のライブ「Blind Spot 新入社員歓迎会」より販売された、会場限定CD-R\[22\]。
+        内容は新メンバー・今井義頼の生ドラムによる、既存曲の新録音バージョン4曲\[23\]。
 
 ## 備考
 
-  - 「アフターバーナーパニック」では[林克洋](../Page/林克洋.md "wikilink")もキーボードで参加していたが、S.S.T.BANDには参加していない\[23\]。
-  - ステージデビュー当初は全員サングラスをかけ、コードネームを名乗っていた。これは先に出来ていたアーティストのイメージ写真に合わせる必要があったためだが、他社からの引き抜き防止策の意味もあった\[24\]。
-  - ギターとキーボードが2人ずついるのは、セガ社員である並木（ギター）とHiro（キーボード）が仕事の都合でライブに出られなかったとしても、演奏ができるようにとの配慮から。しかし、活動期は最後まで6人が欠けることなくステージに立ち続けた\[25\]。
-  - 1990年のアルバム『AFTER BURNER』は、小森の脱退後・斉藤の加入前にレコーディングされており、ベースはJaco渡辺なる人物が担当している。S.S.T.BANDと関わったのはこの一作のみで、ライブには参加しておらずコードネームもない\[26\]。
-  - 光吉はセガの入社試験を受けた際、面接で「S.S.T.BANDをやりたい」と発言。後にそれが現実のものとなった\[27\]。また、Blind Spotより加入した森藤もS.S.T.BANDおよびセガの熱烈なファンである。
+  - 「アフターバーナーパニック」では[林克洋](../Page/林克洋.md "wikilink")もキーボードで参加していたが、S.S.T.BANDには参加していない\[24\]。
+  - ステージデビュー当初は全員サングラスをかけ、コードネームを名乗っていた。これは先に出来ていたアーティストのイメージ写真に合わせる必要があったためだが、他社からの引き抜き防止策の意味もあった\[25\]。
+  - ギターとキーボードが2人ずついるのは、セガ社員である並木（ギター）とHiro（キーボード）が仕事の都合でライブに出られなかったとしても、演奏ができるようにとの配慮から。しかし、活動期は最後まで6人が欠けることなくステージに立ち続けた\[26\]。
+  - 1990年のアルバム『AFTER BURNER』は、小森の脱退後・斉藤の加入前にレコーディングされており、ベースはJaco渡辺なる人物が担当している。S.S.T.BANDと関わったのはこの一作のみで、ライブには参加しておらずコードネームもない\[27\]。
+  - 光吉はセガの入社試験を受けた際、面接で「S.S.T.BANDをやりたい」と発言。後にそれが現実のものとなった\[28\]。また、Blind Spotより加入した森藤もS.S.T.BANDおよびセガの熱烈なファンである。
 
 ## 出典
 
@@ -237,7 +237,6 @@ PlotData=
   - [GAMADELIC](https://ja.wikipedia.org/wiki/ゲーマデリック "wikilink") - [データイースト](../Page/データイースト.md "wikilink")のサウンドチームおよびバンド
   - [ALPH LYLA](../Page/ALPH_LYLA.md "wikilink")（旧名はアルフ・ライラ・ワ・ライラ） - [カプコン](../Page/カプコン.md "wikilink")の楽曲を演奏する[ガールズバンド](../Page/ガールズバンド.md "wikilink")
   - [J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink") - [日本ファルコム](../Page/日本ファルコム.md "wikilink")の楽曲を演奏するバンド
-  - [C.S.T.BAND](../Page/C.S.T.BAND.md "wikilink") - [コンパイルのサウンドチームの総称](../Page/コンパイル_\(企業\).md "wikilink")
   - [SNK新世界楽曲雑技団](https://ja.wikipedia.org/wiki/SNK新世界楽曲雑技団 "wikilink") - [SNKのサウンドチームおよびバンド](../Page/SNK_\(1978年設立の企業\).md "wikilink")
   - [サイトロン・レーベル](../Page/サイトロン・レーベル.md "wikilink") - S.S.T.BANDのCDを発売していた[レコードレーベル](../Page/レコードレーベル.md "wikilink")
 
@@ -245,10 +244,10 @@ PlotData=
 
   -
   -
-[Category:セガの人物](https://ja.wikipedia.org/wiki/Category:セガの人物 "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink")
+[Category:セガの人物](https://ja.wikipedia.org/wiki/Category:セガの人物 "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
 
-1.  アルバム『MEGA SELECTION II』ライナーノーツ「The Lineage of S.S.T.BAND」より
-2.
+1.
+2.  アルバム『MEGA SELECTION II』ライナーノーツ「The Lineage of S.S.T.BAND」より
 3.
 4.
 5.
@@ -274,3 +273,4 @@ PlotData=
 25.
 26.
 27.
+28.

@@ -1,16 +1,20 @@
 > この記事は[LaLaLa](https://ja.wikipedia.org/wiki/LaLaLa)から翻訳されています。
 
 
-**LaLaLa**（ラララ）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属していた[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1992年](../Page/1992年.md "wikilink")結成、[1999年](../Page/1999年.md "wikilink")[8月](../Page/8月.md "wikilink")に解散。[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")を拠点として活動していた。共に[大阪府立和泉高等学校](../Page/大阪府立和泉高等学校.md "wikilink")の卒業生である。高校生の時からコンビを組んで、文化祭などに出ていた。 「ラ・ラ・ラ」とも表記されていた。
+**LaLaLa**（ラララ）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属していた[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1992年](../Page/1992年.md "wikilink")結成、[1999年](../Page/1999年.md "wikilink")[8月](../Page/8月.md "wikilink")解散。
 
 ## メンバー
 
-  - 大北貴洋（おおきた たかひろ、[1973年](../Page/1973年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）
+  - 大北 貴洋（おおきた たかひろ、[1973年](../Page/1973年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink") - ）
     [ボケ](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")、ネタ作り担当。[大阪府](../Page/大阪府.md "wikilink")[岸和田市](../Page/岸和田市.md "wikilink")出身。[大阪府立和泉高等学校](../Page/大阪府立和泉高等学校.md "wikilink")卒業。大阪[NSC](../Page/吉本総合芸能学院.md "wikilink")11期生。
     コンビ解散後二人は音信不通になったが、[2007年](../Page/2007年.md "wikilink")1月31日放送の『[ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")』に出演した。これは[陣内智則](../Page/陣内智則.md "wikilink")芸能生活14周年大感謝祭という企画によるもの（二人はNSC時代の同期である）。陣内とは大北の芸人引退後も親交が深い。
-  - [田村憲司](../Page/たむらけんじ.md "wikilink")（たむら けんじ、[1973年](../Page/1973年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）
+  - [田村 憲司](../Page/たむらけんじ.md "wikilink")（たむら けんじ、[1973年](../Page/1973年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当。[大阪府](../Page/大阪府.md "wikilink")[阪南市](https://ja.wikipedia.org/wiki/阪南市 "wikilink")出身。大阪NSC11期生。
     コンビ解散後は、[ピン芸人](../Page/ピン芸人.md "wikilink")として活動している。詳しくは[たむらけんじ](../Page/たむらけんじ.md "wikilink")を参照。
+
+## 概要
+
+[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")を拠点として活動していた。共に[大阪府立和泉高等学校](../Page/大阪府立和泉高等学校.md "wikilink")の卒業生である。高校生の時からコンビを組んで、文化祭などに出ていた。「ラ・ラ・ラ」とも表記されていた。
 
 ## エピソード
 
@@ -47,4 +51,4 @@
 
   - [マンスリーよしもと](../Page/マンスリーよしもと.md "wikilink")編 『2丁目ワチャチャBOOK』 データハウス、[1993年](../Page/1993年.md "wikilink")
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink")

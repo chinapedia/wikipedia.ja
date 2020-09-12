@@ -16,6 +16,7 @@
   - [小川糸](https://ja.wikipedia.org/wiki/小川糸 "wikilink")『喋々喃々』
   - [小手鞠るい](../Page/小手鞠るい.md "wikilink")『アップルソング』
   - [小路幸也](../Page/小路幸也.md "wikilink")『花咲小路一丁目の刑事』『花咲小路二丁目の花乃子さん』『花咲小路四丁目の聖人』
+  - [寺地はるな](https://ja.wikipedia.org/wiki/寺地はるな "wikilink")、飛鳥井千砂、[島本理生](../Page/島本理生.md "wikilink")、[加藤千恵](../Page/加藤千恵_\(歌人\).md "wikilink")、[藤岡陽子](https://ja.wikipedia.org/wiki/藤岡陽子 "wikilink")、[大山淳子](https://ja.wikipedia.org/wiki/大山淳子 "wikilink")『[リアルプリンセス](https://ja.wikipedia.org/wiki/リアルプリンセス "wikilink")』
   - [野中ともそ](https://ja.wikipedia.org/wiki/野中ともそ "wikilink")『チェリー』
   - [初野晴](../Page/初野晴.md "wikilink")『ノーマジーン』
   - [原田マハ](../Page/原田マハ.md "wikilink")『翔ぶ少女』

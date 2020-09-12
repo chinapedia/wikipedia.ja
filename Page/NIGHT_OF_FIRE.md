@@ -48,8 +48,7 @@
 
 ## BGMとして起用されたゲーム
 
-  - [頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink") Ver.2、7 AA X
-  - [頭文字D Special Stage](../Page/頭文字D_ARCADE_STAGE.md "wikilink") - オリジナルサウンドトラックにも収録された。
+  - [頭文字D Arcade Stage](../Page/頭文字D_ARCADE_STAGE.md "wikilink") Ver.2、Special Stage、7 AAX。
   - [ParaParaParadise](../Page/ParaParaParadise.md "wikilink")
   - [beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink") - 6th styleに本楽曲が収録された。
 

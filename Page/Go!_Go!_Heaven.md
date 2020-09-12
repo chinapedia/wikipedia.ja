@@ -35,4 +35,4 @@
 
 [Category:SPEEDの楽曲](https://ja.wikipedia.org/wiki/Category:SPEEDの楽曲 "wikilink") [Category:伊秩弘将が制作した楽曲](https://ja.wikipedia.org/wiki/Category:伊秩弘将が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:天国を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:天国を題材とした楽曲 "wikilink")
 
-1.  [SPEEDさよならツアー涙、涙…](http://web.archive.org/web/20010316014911/www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [SPEEDさよならツアー涙、涙…](https://web.archive.org/web/20010316014911/www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

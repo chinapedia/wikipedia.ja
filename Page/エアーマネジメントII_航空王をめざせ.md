@@ -1,11 +1,15 @@
 > この記事は[エアーマネジメントII 航空王をめざせ](https://ja.wikipedia.org/wiki/エアーマネジメントII_航空王をめざせ)から翻訳されています。
 
 
-『**エアーマネジメントII 航空王をめざせ**』（エアーマネジメントツー こうくうおうをめざせ、*Aerobiz Supersonic*）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）のビジネス[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")で発売された後、[メガドライブ](../Page/メガドライブ.md "wikilink")と[PC-9801に移植されたが](../Page/PC-9800シリーズ.md "wikilink")、PC-98版は若干の改良が加えられている。なお、[2004年](../Page/2004年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にはPC-98版を復刻収録した[Windows用](../Page/Microsoft_Windows_XP.md "wikilink")「[コーエー25周年パックVol](../Page/コーエー25周年記念パック.md "wikilink").7」が発売され、その後、単品販売もされている。
+『**エアーマネジメントII 航空王をめざせ**』（エアーマネジメントツー こうくうおうをめざせ）は、[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に日本の[光栄から発売された](../Page/コーエー.md "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[経営シミュレーションゲーム](../Page/経営シミュレーションゲーム.md "wikilink")。北米では『*Aerobiz Supersonic*』のタイトルで発売された。
 
-前作『[エアーマネジメント](../Page/エアーマネジメント.md "wikilink")』との最大の相違点として、現在の航空ビジネスで主流になっている「ハブ&スポーク」の概念をゲームに導入。[東南アジア](../Page/東南アジア.md "wikilink")・[中東](../Page/中東.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")・[北アメリカ](../Page/北アメリカ.md "wikilink")・[南アメリカ](../Page/南アメリカ.md "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")の7エリア中、本社を置くエリアを含む6エリアでトップシェアを獲得するのが目的。
+同社の『[エアーマネジメント 大空に賭ける](../Page/エアーマネジメント.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）の続編。前作との最大の相違点として、後の航空ビジネスで主流となった「ハブ&スポーク」の概念をゲームに導入。[東南アジア](../Page/東南アジア.md "wikilink")・[中東](../Page/中東.md "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")・[北アメリカ](../Page/北アメリカ.md "wikilink")・[南アメリカ](../Page/南アメリカ.md "wikilink")・[オセアニア](../Page/オセアニア.md "wikilink")の7エリア中、本社を置くエリアを含む6エリアでトップシェアを獲得するのが目的。
 
-## 概要
+開発は光栄が行い、プロデューサーは[シブサワ・コウ](../Page/シブサワ・コウ.md "wikilink")、音楽は前作に引き続き岩崎琢が担当している。
+
+同年に[PC-9801に移植されたが](../Page/PC-9800シリーズ.md "wikilink")、若干の改良が加えられた。[1994年](../Page/1994年.md "wikilink")には[メガドライブ](../Page/メガドライブ.md "wikilink")に移植された。なお、[2004年](../Page/2004年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にはPC-98版を復刻収録した[Windows XP用](../Page/Microsoft_Windows_XP.md "wikilink")『[コーエー25周年パック](../Page/コーエー25周年記念パック.md "wikilink") Vol.7』が発売され、その後、『[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")』として単品販売もされている。
+
+## ゲーム内容
 
   - 国との友好度（4段階）がパラメータで設定されており、シナリオ1開始時には西側陣営（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")など）と東側陣営（[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・[東ドイツなど](../Page/ドイツ民主共和国.md "wikilink")）は敵対関係にあるためスロットの交渉すらままならない。
   - ゲーム中、各国の政府が援助を求めて来ることがあり、これに応じると友好度がアップする。援助した国によっては[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")を待たなくても、東側または西側の機体が買えるようになる場合がある。
@@ -429,33 +433,114 @@ PC-98版のみの追加要素
 | 超音速旅客機系 | A700     | 350席     | 6000km  | $15500万 | 2010年   |       |
 | A720    | 200席     | 4500km   | $12500万 |         |         |       |
 
-## 他機種版
+## 移植版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+<th><p>Ref.</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>エアーマネジメントII 航空王をめざせ</p></td>
+<td></td>
+<td><p><a href="../Page/PC-9800シリーズ.md" title="wikilink">PC-9801</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>5インチ<a href="../Page/フロッピーディスク.md" title="wikilink">フロッピーディスク</a><br />
+3.5インチフロッピーディスク</p></td>
+<td><p><strong>5インチ：</strong>KN10511010<br />
+<strong>3.5インチ：</strong>KN10511020</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/メガドライブ.md" title="wikilink">メガドライブ</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>8メガビットロムカセット<ref>{{Cite book|和書</p></td>
+<td><p>author = 前田尋之</p></td>
+<td><p>date = 2018-06-29</p></td>
+<td><p>chapter = Chapter 2 メガドライブソフトオールカタログ 1994年</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエー25周年パック" title="wikilink">コーエー25周年パック</a>Vol.7</p></td>
+<td></td>
+<td><p><a href="../Page/Microsoft_Windows_98.md" title="wikilink">Windows 98</a> - <a href="../Page/Microsoft_Windows_XP.md" title="wikilink">XP</a></p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
+<td><p>KOEI-19500</p></td>
+<td><p>PC-9801版の移植</p></td>
+<td><p>[1][2][3][4]</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ" title="wikilink">コーエー定番シリーズ</a><br />
+エアーマネジメントII 航空王をめざせ</p></td>
+<td></td>
+<td><p>Windows 98 - XP</p></td>
+<td><p>コーエー</p></td>
+<td><p>コーエー</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>KOEI-21787</p></td>
+<td><p>PC-9801版の移植</p></td>
+<td><p>[5][6]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 評価
 
   - スーパーファミコン版
+    ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では8・5・7・7の合計27点（満40点）\[7\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.45点（満30点）となっている\[8\]。この得点はスーパーファミコン全ソフトの中で228位（323本中、1993年時点）となっている\[9\]。また、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」では、前作と比較して都市数が約4倍になった事によりさらに高度な企業戦略が必要となった事を指摘、またシナリオ数が4つになっている事で「長くゲームを楽しめるようになっている」と肯定的に評価した\[10\]。
 
-ゲーム誌『ファミコン通信』の「クロスレビュー」では8・5・7・7の合計27点（満40点）、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.45点（満30点）となっている\[1\]。この得点はスーパーファミコン全ソフトの中で228位（323本中、1993年時点）となっている\[2\]。また、『SUPER FAMICOM Magazine』1993年8月情報号特別付録の「スーパーファミコンオールカタログ'93」では、「前作22あった都市が89と約4倍になって、より高度な企業戦略が必要になった。また、シナリオの数も4つになっていて、長くゲームを楽しめるようになっている」と紹介されている\[3\]。
+<!-- end list -->
 
-| 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
-| -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
-| 得点 | 3.17  | 3.25 | 3.34 | 3.37 | 2.85 | 3.48    | 19.45 |
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || 操作性 || 熱中度 || お買得度 || オリジナリティ \! 総合 |- \! 得点 | 3.17 || 3.25 || 3.34 || 3.37 || 2.85 || 3.48 \! 19.45 |}
 
   - メガドライブ版
 
-<!-- end list -->
+:\*ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では、7・6・6・5の合計24点（満40点）となっている\[11\]。
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では、7・6・6・5の合計24点（満40点）となっている\[4\]。
+:\*ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.8点（満30点）となっている\[12\]。
 
-<!-- end list -->
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
 
-  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.8点（満30点）となっている\[5\]。
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 3.4 || 3.0 || 2.9 || 3.4 || 2.9 || 3.2 \! 18.8 |}
 
-| 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
-| -- | ----- | --- | ---- | --- | --- | ------- | ---- |
-| 得点 | 3.4   | 3.0 | 2.9  | 3.4 | 2.9 | 3.2     | 18.8 |
-
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「今回からはハブ拠点都市が設定され、ハブに乗り入れないと地方都市への航路が開けないところがよりリアルになっている。操作性も向上、ボリュームもアップした正当進化版と言える」と評されている\[6\]。
+:\*ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、本作よりハブ拠点都市が設定された事により、ハブに乗り入れないと地方都市への航路が開けなくなった事に関して「よりリアルになっている」と評価、さらに操作性の向上やボリュームアップした事で「正当進化版と言える」と肯定的に評価した\[13\]。
 
 ## 脚注
 
@@ -467,7 +552,7 @@ PC-98版のみの追加要素
 
   - （英語）
 
-[Category:1993年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1993年のパソコンゲーム "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:経営シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:経営シミュレーションゲーム "wikilink") [Category:コーエーのシミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:コーエーのシミュレーションゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:世界各地を舞台としたゲーム作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台としたゲーム作品 "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
+[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:経営シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:経営シミュレーションゲーム "wikilink") [Category:コーエーのシミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:コーエーのシミュレーションゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:世界各地を舞台としたゲーム作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台としたゲーム作品 "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:飛行機を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:飛行機を題材としたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.
 2.
@@ -475,3 +560,10 @@ PC-98版のみの追加要素
 4.
 5.
 6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.

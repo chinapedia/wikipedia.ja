@@ -13,26 +13,30 @@
 
 ## 内容
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")
-
-<!-- end list -->
+（全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")）
 
 1.  **unsteady** \[4:31\]
-      - 編曲：五島翔
+      -
+        編曲：五島翔
+    <!-- end list -->
       - TBS系アニメーション『[無敵王トライゼノン](../Page/無敵王トライゼノン.md "wikilink")』オープニングテーマ
 2.  **lost in you** \[4:22\]
-      - 編曲：堀隆
+      -
+        編曲：堀隆
+    <!-- end list -->
       - TBS系アニメーション『無敵王トライゼノン』エンディングテーマ
-3.  **unsteady**（OFF VOCAL VERSION）
-4.  **lost in you**（OFF VOCAL VERSION）
+3.  unsteady（OFF VOCAL VERSION）
+4.  lost in you（OFF VOCAL VERSION）
 
 ## 収録アルバム
 
-  - **unsteady**
-      -
-        『[feel well](https://ja.wikipedia.org/wiki/feel_well "wikilink")』
-  - **lost in you**
-      -
-        『feel well』
+| 曲名          | 収録アルバム                                                                     | 発売日                                                                      | 製造番号     |
+| ----------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------- |
+| unsteady    | 『**[feel well](https://ja.wikipedia.org/wiki/feel_well "wikilink")**』\[1\] | [2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") | KICS-955 |
+| lost in you |                                                                            |                                                                          |          |
+
+## 脚注
 
 [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:佐藤英敏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤英敏が制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:TBSのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビアニメ主題歌 "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:CBCテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビアニメ主題歌 "wikilink")
+
+1.

@@ -1,201 +1,295 @@
 > この記事は[Limited Express \(has gone\?\)](https://ja.wikipedia.org/wiki/Limited_Express_\(has_gone\?\))から翻訳されています。
 
 
-**Limited Express(has gone?)**（リミテッド・エキスプレス・ハズ・ゴーン）は、[京都府](../Page/京都府.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。現在はその活動の拠点を[東京](../Page/東京.md "wikilink")に移し\[1\]、YUKARI(VO)、JJ(Gt)、もんでんやすのり(Dr)、[LessThanTV](http://www.lessthan.tv/)の谷ぐち順(B)の４人を中心に、サポートメンバーに小森良太(SAX)などをむかえ活動している\[2\]。
+**Limited Express(has gone?)**（リミテッド・エキスプレス・ハズ・ゴーン）は、[京都府](../Page/京都府.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。現在はその活動の拠点を[東京](../Page/東京.md "wikilink")に移し\[1\]、YUKARI(VO)、JJ(Gt)、もんでんやすのり(Dr)、[Less Than TVの谷ぐち順](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")(B)の４人を中心に、サポートメンバーに小森良太(SAX)などをむかえ活動している\[2\]。
 
 ## 来歴
 
-《1998年》
+### 1998年
 
-[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")の音楽サークル「ロックコミューン」にて結成。(サークルの先輩に[くるり](../Page/くるり.md "wikilink")や[越後屋](https://ja.wikipedia.org/wiki/越後屋 "wikilink")等)
+  - [立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")の音楽サークル「ロックコミューン」にて結成。(サークルの先輩に[くるり](../Page/くるり.md "wikilink")や[越後屋](https://ja.wikipedia.org/wiki/越後屋 "wikilink")等)
 
-《2000年》
+### 2000年
 
-YUKARI ni-hao\!を結成する。
+  - YUKARIが「[ni-hao\!](https://ja.wikipedia.org/wiki/ni-hao! "wikilink")」を結成する。
 
-《2001年》
+### 2001年
 
-3月 自主レーベルClickを立ち上げ、1st demo CD-R『NEO22op.1』リリース。
+  - 3月、自主レーベル「Click」を立ち上げ、1st demo CD-R『NEO22op.1』リリース。
 
-11月 コンピレーション・アルバム『CRAZYS』に参加。([folk enough](https://ja.wikipedia.org/wiki/folk_enough "wikilink") / [bossston cruizing mania等参加](https://ja.wikipedia.org/wiki/bossston_cruizing_mania "wikilink"))
+<!-- end list -->
 
-《2002年》
+  - 11月、コンピレーション・アルバム『CRAZYS』に参加。([folk enough](https://ja.wikipedia.org/wiki/folk_enough "wikilink") / [bossston cruizing mania等参加](https://ja.wikipedia.org/wiki/bossston_cruizing_mania "wikilink"))
 
-4月 関西と福岡のコンピレーション・アルバム『ColourblockS』を制作する。(folk enough / [ガロリンズ](https://ja.wikipedia.org/wiki/ガロリンズ "wikilink")等参加)
+### 2002年
 
-6月 ニーハオ！が『ニーハオ\!VSガロリンズ』をリリース。
+  - 4月、関西と福岡のコンピレーション・アルバム『ColourblockS』を制作する。(folk enough / [ガロリンズ](https://ja.wikipedia.org/wiki/ガロリンズ "wikilink")等参加)
 
-10月 [京大西部講堂](https://ja.wikipedia.org/wiki/京大西部講堂 "wikilink")で[ボロフェスタ](https://ja.wikipedia.org/wiki/ボロフェスタ "wikilink")をはじめる(以降、毎年10月開催。京都の名物イベントに)。
+<!-- end list -->
 
-《2003年》
+  - 6月、ニーハオ！が『ニーハオ\!VSガロリンズ』をリリース。
 
-3月 1st album『Feeds You\!』を[ジョン・ゾーン](../Page/ジョン・ゾーン.md "wikilink")の[TZADIK RECORDSからリリース](https://ja.wikipedia.org/wiki/TZADIK_RECORDS "wikilink")。
+<!-- end list -->
 
-7月 [FUJI ROCK FESTIVALに出演](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")。
+  - 10月、JJが主宰メンバーのひとりでもある[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「[ボロフェスタ](https://ja.wikipedia.org/wiki/ボロフェスタ "wikilink")」を[京大西部講堂](https://ja.wikipedia.org/wiki/京大西部講堂 "wikilink")にて初開催(以降、毎年10月開催)。
 
-8月 『Spiritual Noise vol.2』に参加。
+### 2003年
 
-10月 1st シングル『功夫少女～カンフー・ガール」』をリリース。カップリングは、[The La'sの](https://ja.wikipedia.org/wiki/The_La's "wikilink")「[There She Goes](https://ja.wikipedia.org/wiki/There_She_Goes "wikilink")」。
+  - 3月、1st album『Feeds You\!』を[ジョン・ゾーン](../Page/ジョン・ゾーン.md "wikilink")の[TZADIK RECORDSからリリース](https://ja.wikipedia.org/wiki/TZADIK_RECORDS "wikilink")。
 
-《2004年》
+<!-- end list -->
 
-2月 [小野島大](https://ja.wikipedia.org/wiki/小野島大 "wikilink")監修『Fine Time: A Tribute To New Wave』に参加。([clammbon](https://ja.wikipedia.org/wiki/clammbon "wikilink")、[Buffalo Daughter](../Page/Buffalo_Daughter.md "wikilink")、[ROVO](../Page/ROVO.md "wikilink")等)
+  - 7月、[FUJI ROCK FESTIVALに出演](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")。
 
-3月 [會田茂一](../Page/會田茂一.md "wikilink")監修『FLOWERS OF ERROR』に参加。([EL-MALO](../Page/EL-MALO.md "wikilink")、[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")、[KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink")等)
+<!-- end list -->
 
-3月 初のUSA TOURを決行(w/[Experimental Dental School](https://ja.wikipedia.org/wiki/Experimental_Dental_School "wikilink"))。[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink")04に出演。
+  - 8月、『Spiritual Noise vol.2』に参加。
 
-4月 Experimental Dental Schoolとのスプリット・アルバム『EXPERIMENTAL EXPRESS EXPLORER』をリリース。ニーハオ！が『RED』を[UMMO Recordsからリリース](https://ja.wikipedia.org/wiki/UMMO_Records "wikilink")。
+<!-- end list -->
 
-7月 ニーハオ！が『BLUE』をUMMO Recordsからリリース。
+  - 10月、1st シングル『功夫少女～カンフー・ガール」』をリリース。カップリングは、[The La'sの](https://ja.wikipedia.org/wiki/The_La's "wikilink")「[There She Goes](https://ja.wikipedia.org/wiki/There_She_Goes "wikilink")」。
 
-11月 初のAustralia、New Zealand TOURを行う。Australiaの101 barでのショウは、そのベニューの年間ベスト・ライヴに選ばれ、その模様は、『Limited Ex Live at 101 bar』として収録される。
+### 2004年
 
-《2005年》
+  - 2月、[小野島大](https://ja.wikipedia.org/wiki/小野島大 "wikilink")監修『Fine Time: A Tribute To New Wave』に参加。([clammbon](https://ja.wikipedia.org/wiki/clammbon "wikilink")、[Buffalo Daughter](../Page/Buffalo_Daughter.md "wikilink")、[ROVO](../Page/ROVO.md "wikilink")等)
 
-1月 音楽評論家の[高橋健太郎が主宰するレーベルMEMORY](https://ja.wikipedia.org/wiki/高橋健太郎_\(音楽評論家\) "wikilink") LABからセカンド・アルバム『MAKES YOU DANCE』発表。
+<!-- end list -->
 
-4月 初のKOREA TOURを行う(4か所)。
+  - 3月、[會田茂一](../Page/會田茂一.md "wikilink")監修『FLOWERS OF ERROR』に参加([EL-MALO](../Page/EL-MALO.md "wikilink")、[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")、[KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink")等)。初のUSA TOURを決行(w/[Experimental Dental School](https://ja.wikipedia.org/wiki/Experimental_Dental_School "wikilink"))。[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink")04に出演。
 
-5月 Limited ExのAustraliaのレーベル「tenzenmen Records」から『Limited Ex Live at 101 bar』を発売。2004年11月20日から12月2日まで回った初のAustraliaでのショウをライブ盤としてコンパイル。2週間に渡る2度目のAustralia TOURを行う。[岡村詩野](https://ja.wikipedia.org/wiki/岡村詩野 "wikilink")監修のkittenの表紙を飾る。
+<!-- end list -->
 
-9月 約1か月に渡る2度目のUSA TOURを行う。[Numbers](https://ja.wikipedia.org/wiki/Numbers "wikilink")と一緒にツアーし、[Deerhoof](https://ja.wikipedia.org/wiki/Deerhoof "wikilink")、[Mika Miko](https://ja.wikipedia.org/wiki/Mika_Miko "wikilink")、[xbxrx](https://ja.wikipedia.org/wiki/xbxrx "wikilink")、[WHY?](https://ja.wikipedia.org/wiki/WHY? "wikilink")等と共演する。
+  - 4月、Experimental Dental Schoolとのスプリット・アルバム『EXPERIMENTAL EXPRESS EXPLORER』をリリース。ニーハオ！が『RED』を[UMMO Recordsからリリース](https://ja.wikipedia.org/wiki/UMMO_Records "wikilink")。
 
-11月 約1か月に渡る初のEurope TOURを行う。
+<!-- end list -->
 
-《2006年》
+  - 7月、ニーハオ！が『BLUE』をUMMO Recordsからリリース。
 
-1月 『生け贄のJesus Child』のシングル・リリース。Riow Arai、DODDODO、RUBYORLAのリミックス入り。
+<!-- end list -->
 
-2月 ドラマー奈良崎幸司が脱退する。松下隆也が加入。
+  - 11月、初のAustralia、New Zealand TOURを行う。Australiaの101 barでのショウは、そのベニューの年間ベスト・ライヴに選ばれ、その模様は『Limited Ex Live at 101 bar』として収録される。
 
-4月 [十代暴動社](https://ja.wikipedia.org/wiki/十代暴動社 "wikilink")が「関西ゼロ世代」を中心にセレクトした『十代暴動ナイトDVD』に参加。
+### 2005年
 
-7月 3度目のAustralia、2度目のKOREA TOURを行う。
+  - 1月、音楽評論家の[高橋健太郎が主宰するレーベルMEMORY](https://ja.wikipedia.org/wiki/高橋健太郎_\(音楽評論家\) "wikilink") LABからセカンド・アルバム『MAKES YOU DANCE』発表。
 
-10月 US盤リリース用にコンプリートしたベスト盤『The Best is Coming\!』をリリース。結局、そのベスト盤がUSからでることはなかった。
+<!-- end list -->
 
-11月 [みやこ音楽祭](../Page/みやこ音楽祭.md "wikilink")監修『みやこ★音楽』に参加。
+  - 4月、計4か所にて、初の韓国ツアーを行う。
 
-12月 みやこ音楽祭に出演。
+<!-- end list -->
 
-12月31日 Limited Express (has gone?)解散
+  - 5月、Limited Expressのオーストラリアのレーベル「tenzenmen Records」から『Limited Ex Live at 101 bar』を発売。2004年11月20日から12月2日まで行われたオーストラリアでの初めてのショウをライブ盤としてコンパイル。2週間に渡る2度目のオーストラリアツアーを行う。[岡村詩野](https://ja.wikipedia.org/wiki/岡村詩野 "wikilink")監修のkittenの表紙を飾る。
 
-《2007年》
+<!-- end list -->
 
-3月 『Less Than TV BASIC CONCEPTS「STRANGE」』に参加。
+  - 9月、約1か月に渡る2度目のアメリカツアーを行う。[Numbers](https://ja.wikipedia.org/wiki/Numbers "wikilink")と一緒にツアーし、[Deerhoof](https://ja.wikipedia.org/wiki/Deerhoof "wikilink")、[Mika Miko](https://ja.wikipedia.org/wiki/Mika_Miko "wikilink")、[xbxrx](https://ja.wikipedia.org/wiki/xbxrx "wikilink")、[WHY?](https://ja.wikipedia.org/wiki/WHY? "wikilink")等と共演する。
 
-7月24日 復活を発表し、ドラマーとしてTDKが加入。
+<!-- end list -->
 
-9月 復活後初ライヴは、山形DO IT。
+  - 11月、約1か月に渡る初のヨーロッパツアーを行う。
 
-10月 BOROFESTAは、2007年を最後に、西部講堂での開催に幕を閉じる。復活後東京初ライブ＠渋谷O-nest w/[younGSounds](https://ja.wikipedia.org/wiki/younGSounds "wikilink")(初ライブ)
+### 2006年
 
-11月 [西村道男](https://ja.wikipedia.org/wiki/西村道男 "wikilink")と共に、ライヴとDJの融合パーティー『eetee』をスタート。後に『PACKaaaN\!\!\!』と改名。
+  - 1月、『生け贄のJesus Child』のシングル・リリース。Riow Arai、DODDODO、RUBYORLAのリミックス入り。
 
-《2008年》
+<!-- end list -->
 
-3月 大阪にてSAL CULTUREを開催。
+  - 2月、ドラマー奈良崎幸司が脱退する。松下隆也が加入。
 
-6月 スプリット・アルバム『Limited Express (has gone?)×DODDODO』を[Less Than TVからリリース](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")。
+<!-- end list -->
 
-7月 DODDODOと『Limited Express (has gone?)×DODDODO』のrelease tourを決行。
+  - 4月、[十代暴動社](https://ja.wikipedia.org/wiki/十代暴動社 "wikilink")が「関西ゼロ世代」を中心にセレクトした『十代暴動ナイトDVD』に参加。
 
-9月 『テレビの中の音楽より隣で鳴っている音楽の方がメチャクチャカッコいい』と掲げたDO IT 2008@山形シネマ旭跡地経出演。
+<!-- end list -->
 
-10月 BOROFESTA 2008、1週間連続開催。会場には、鴨川も。death sentence: PANDA\!とのカップリング・ツアーを決行。JJ、JUNK Lab Recordsをゆーきゃんと共にスタート。
+  - 7月、3度目のAustralia、2度目の韓国ツアーを行う。
 
-11月 JJ、JUNK Lab RecordsのMY DISCOのJAPAN TOURを決行。
+<!-- end list -->
 
-《2009年》
+  - 10月、US盤リリース用にコンプリートしたベスト盤『The Best is Coming\!』をリリース。結局、そのベスト盤がUSからでることはなかった。
 
-6月 TOKYO BOREDOMに参加。
+<!-- end list -->
 
-5月 JJがキュレーターを務めた[廃校フェス](https://ja.wikipedia.org/wiki/廃校フェス "wikilink")2009に参加。
+  - 11月、[みやこ音楽祭](../Page/みやこ音楽祭.md "wikilink")監修『みやこ★音楽』に参加。
 
-9月 JJが、主催メンバーとして関わる東京BOREDOM \#3 in [東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に参加。
+<!-- end list -->
 
-10月 3rdアルバム『LTD』リリース。[西澤裕郎](https://ja.wikipedia.org/wiki/西澤裕郎 "wikilink")監修のSTORY WRITERの表紙を飾る。BOROFESTAが京都 KBS HALLにて開催される。4度目のAustralia Tourを決行(w/Ni-Hao\!)。
+  - 12月、みやこ音楽祭に出演。
 
-11月 Australia tour diary『HOW TO MAKE THE TOUR HAPPY WITH YOUR KIDS』〜IN AUSTRALIA 2009\~ 販売開始 （recommuniから[OTOTOY](https://ja.wikipedia.org/wiki/OTOTOY "wikilink")へ・ボロフェスタKBSホール移行後1回目）。SuperDeluxeにて、『LTD』release party開催。
+<!-- end list -->
 
-12月 みやこ音楽祭に出演。
+  - 12月31日、突然の解散発表。
 
-《2010年》
+### 2007年
 
-6月 LIVE JUNKのLIVE音源をototoyサイトにて24bit 48kの高音質で発売。
+  - 3月、『Less Than TV BASIC CONCEPTS「STRANGE」』に参加。
 
-8月 主催メンバーとして関わるLess Than TV presents METEO NIGHTに参加。
+<!-- end list -->
 
-9月 福岡アンダーグラウンドを支え続けたガロリンズへ捧げるトリビュート・アルバム『4-DIMENSION MUSIC THERAPY\~Tribute to GARORINZ』を監修する。
+  - 7月24日、復活を発表し、ドラマーとしてTDKが加入。
 
-10月 JJが主催メンバーとして関わる東京BOREDOM in 東京大学 2010に参加。
+<!-- end list -->
 
-12月 -藤井よしえ追悼ライブ-騒ごうぜ@O-nestを開催する。
+  - 9月、[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「山形DO IT」にて復活後初ライヴ。
 
-《2011年》
+<!-- end list -->
 
-3月 JJがOTOTOYにて震災コンピレーション『PLAY FOR JAPAN』を監修する。
+  - 10月、BOROFESTAは、2007年を最後に、西部講堂での開催に幕を閉じる。復活後東京初ライブ＠渋谷O-nest w/[younGSounds](https://ja.wikipedia.org/wiki/younGSounds "wikilink")(初ライブ)
 
-4月 仙台にて『Play for Japan in Sendai』を開催する。
+<!-- end list -->
 
-7月 China Tourを決行。China tour diary『HOW TO MAKE THE TOUR HAPPY WITH YOUR KIDS』〜IN CHINA 2011\~ 販売開始
+  - 11月、[西村道男](https://ja.wikipedia.org/wiki/西村道男 "wikilink")と共に、ライヴとDJの融合パーティー『eetee』をスタート。後に『PACKaaaN\!\!\!』と改名。
 
-8月 ニーハオ！が2人ニーハオ！の初作『MARVELOUS』をリリース。主催メンバーとして関わるLess Than TV presents METEO NIGHT 2011に参加。
+### 2008年
 
-《2012年》
+  - 3月、大阪にてSAL CULTUREを開催。
 
-1月 「we love this country like banana」とフリー・ダウンロード。また、そのPVを公開(制作 : [大石規湖](https://ja.wikipedia.org/wiki/大石規湖 "wikilink"))。
+<!-- end list -->
 
-2月 Reclashチームと共催する『G / R / L / Z』をSuperDeluxeにて開催。
+  - 6月、スプリット・アルバム『Limited Express (has gone?)×DODDODO』を[Less Than TVからリリース](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")。
 
-4月 『東京BOREDOM in E.K.\!\!\!\!\!』に参加。
+<!-- end list -->
 
-6月 新宿歌舞伎町風林会館にて『PACKaaaN\!\!\!』を開催。新録「Halation」をフリー・ダウンロード。また、そのPVを公開(制作 : Akashic)。
+  - 7月、DODDODOと『Limited Express (has gone?)×DODDODO』のrelease tourを決行。
 
-8月 主催メンバーとして関わる『Less Than TV presents METEO NIGHT 2012』に参加。
+<!-- end list -->
 
-9月 JJがキュレーターを勤める『ぐるぐる回る 2012』に参加。
+  - 9月、『テレビの中の音楽より隣で鳴っている音楽の方がメチャクチャカッコいい』と掲げたDO IT 2008@山形シネマ旭跡地経出演。
 
-11月 『東京BOREDOM\#9-THE ROLLING BOREDOM-』に参加。
+<!-- end list -->
 
-《2013年》
+  - 10月、BOROFESTA 2008、1週間連続開催。会場には、鴨川も。death sentence: PANDA\!とのカップリング・ツアーを決行。JJ、JUNK Lab Recordsをゆーきゃんと共にスタート。
 
-8月 4thアルバム『JUST IMAGE』を発売。
+<!-- end list -->
 
-《2014年》
+  - 11月、JJ、JUNK Lab RecordsのMY DISCOのJAPAN TOURを決行。
 
-1月 ドラマーのTDKが脱退、新ドラマーにもんでんやすのりが加入。同時にLessThanTVの谷ぐち順もベーシストとして加入。またサポート・メンバーとしてSAXに小森良太を迎え第3期がスタート。\[3\]
+### 2009年
 
-《2015年》
+  - 6月、TOKYO BOREDOMに参加。
 
-[Have a Nice Day\!とのスプリット音源](https://ja.wikipedia.org/wiki/Have_a_Nice_Day! "wikilink")『Heaven Discharge Hells Delight』をLess Than TV × [omochi recordsからリリース](https://ja.wikipedia.org/wiki/omochi_records "wikilink")。
+<!-- end list -->
 
-《2016年》
+  - 5月、JJがキュレーターを務めた[廃校フェス](https://ja.wikipedia.org/wiki/廃校フェス "wikilink")2009に参加。
 
-[2MUCH CREWとのスプリットアルバム](https://ja.wikipedia.org/wiki/2MUCH_CREW "wikilink")『CHAMPURU OF DOOM』をLessThanTVからリリース。
+<!-- end list -->
 
-5th album『ALL AGES』をリリース。
+  - 9月、JJが、主催メンバーとして関わる東京BOREDOM \#3 in [東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")に参加。
 
-《2017年》
+<!-- end list -->
 
-新代田FEVERにてワンマンライヴ。
+  - 10月、3rdアルバム『LTD』リリース。[西澤裕郎](https://ja.wikipedia.org/wiki/西澤裕郎 "wikilink")監修のSTORY WRITERの表紙を飾る。BOROFESTAが京都 KBS HALLにて開催される。4度目のAustralia Tourを決行(w/Ni-Hao\!)。
 
-ボロフェスタにて、[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")と「[カラダイデオロギー](https://www.youtube.com/watch?v=5LaZvuef5RE)」のコラボライヴ。
+<!-- end list -->
 
-《2018年》
+  - 11月、Australia tour diary『HOW TO MAKE THE TOUR HAPPY WITH YOUR KIDS』〜IN AUSTRALIA 2009\~ 販売開始
 
-[ロベルト吉野](https://ja.wikipedia.org/wiki/ロベルト吉野 "wikilink")と合体し『Escape from the scaffold』をLessThanTVからリリース。
+（recommuniから[OTOTOY](https://ja.wikipedia.org/wiki/OTOTOY "wikilink")へ・ボロフェスタKBSホール移行後1回目）。SuperDeluxeにて、『LTD』release party開催。
 
-《2019年》
+  - 12月 、みやこ音楽祭に出演。
 
-2MUCH CREWのメンバー・Yo\!マイキーの追悼EP『マイ マイキー！ユア マイキー！～Yo\! マイキー Tribute EP～』をリリース。
+### 2010年
 
-「[フォーメーション](https://www.youtube.com/watch?v=US0DYIR5FsY)」のミュージック・ビデオをリリース。
+  - 6月、LIVE JUNKのLIVE音源をototoyサイトにて24bit 48kの高音質で発売。
 
-6th album『perfect ME』をリリース。
+<!-- end list -->
 
+  - 8月、主催メンバーとして関わるLess Than TV presents METEO NIGHTに参加。
 
+<!-- end list -->
+
+  - 9月、[GARORINZ](https://ja.wikipedia.org/wiki/GARORINZ "wikilink")のトリビュート・アルバム『4-DIMENSION MUSIC THERAPY\~Tribute to GARORINZ』を監修する。
+
+<!-- end list -->
+
+  - 10月、JJが主催メンバーとして関わる東京BOREDOM in 東京大学 2010に参加。
+
+<!-- end list -->
+
+  - 12月、藤井よしえ追悼ライブ「騒ごうぜ@O-nest」を開催する。
+
+### 2011年
+
+  - 3月、JJがOTOTOYにて震災コンピレーション『PLAY FOR JAPAN』を監修する。
+
+<!-- end list -->
+
+  - 4月、仙台にて『Play for Japan in Sendai』を開催する。
+
+<!-- end list -->
+
+  - 7月、中国ツアーを決行。China tour diary『HOW TO MAKE THE TOUR HAPPY WITH YOUR KIDS』〜IN CHINA 2011\~ 販売開始
+
+<!-- end list -->
+
+  - 8月、ニーハオ！が2人ニーハオ！の初作『MARVELOUS』をリリース。主催メンバーとして関わるLess Than TV presents METEO NIGHT 2011に参加。
+
+### 2012年
+
+  - 1月、「we love this country like banana」を[フリー](../Page/フリー.md "wikilink")・[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")にてリリースし、PVを公開(制作 : [大石規湖](https://ja.wikipedia.org/wiki/大石規湖 "wikilink"))。
+
+<!-- end list -->
+
+  - 2月、Reclashチームと共催する『G/ R/L/Z』をSuperDeluxeにて開催。
+
+<!-- end list -->
+
+  - 4月、『東京BOREDOM in E.K.\!\!\!\!\!』に参加。
+
+<!-- end list -->
+
+  - 6月、[新宿](../Page/新宿.md "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")[風林会館](https://ja.wikipedia.org/wiki/風林会館 "wikilink")にて『PACKaaaN\!\!\!』を開催。新録「Halation」をフリー・ダウンロード。また、そのPVを公開(制作 : Akashic)。
+
+<!-- end list -->
+
+  - 8月、主催メンバーとして関わる『Less Than TV presents METEO NIGHT 2012』に参加。
+
+<!-- end list -->
+
+  - 9月、JJがキュレーターを勤める『ぐるぐる回る 2012』に参加。
+
+<!-- end list -->
+
+  - 11月、『東京BOREDOM\#9-THE ROLLING BOREDOM-』に参加。
+
+### 2013年
+
+  - 8月、4thアルバム『JUST IMAGE』を発売。
+
+### 2014年
+
+  - 1月、ドラマーのTDKが脱退。新ドラマーに[もんでんやすのり](https://ja.wikipedia.org/wiki/もんでんやすのり "wikilink")が加入。同時にLessThanTVの[谷ぐち順](https://ja.wikipedia.org/wiki/谷ぐち順 "wikilink")もベーシストとして加入。さらにサポートメンバーとしてSAXに小森良太を迎え第3期がスタート\[3\]。
+
+### 2015年
+
+  - [Have a Nice Day\!とのスプリット音源](https://ja.wikipedia.org/wiki/Have_a_Nice_Day! "wikilink")『Heaven Discharge Hells Delight』をLess Than TV × [omochi recordsからリリース](https://ja.wikipedia.org/wiki/omochi_records "wikilink")。
+
+### 2016年
+
+  - [2MUCH CREWとのスプリットアルバム](https://ja.wikipedia.org/wiki/2MUCH_CREW "wikilink")『CHAMPURU OF DOOM』をLessThanTVからリリース。
+  - 5th album『ALL AGES』をリリース。
+
+### 2017年
+
+  - 1月、[新代田FEVER](https://ja.wikipedia.org/wiki/新代田FEVER "wikilink")にてワンマンライヴ。
+  - ボロフェスタにて、[BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")と「[カラダイデオロギー](https://www.youtube.com/watch?v=5LaZvuef5RE)」のコラボライヴ。
+
+### 2018年
+
+  - [ロベルト吉野](https://ja.wikipedia.org/wiki/ロベルト吉野 "wikilink")と制作したミニアルバム『Escape from the scaffold』をLessThanTVからリリース。
+
+### 2019年
+
+  - 2MUCH CREWのメンバー・Yo\!マイキーの追悼EP『マイ マイキー！ユア マイキー！～Yo\! マイキー Tribute EP～』をリリース。
+
+<!-- end list -->
+
+  - 「[フォーメーション](https://www.youtube.com/watch?v=US0DYIR5FsY)」のミュージックビデオをリリース。
+
+<!-- end list -->
+
+  - 6th album『perfect ME』をリリース。
 
 ## メンバー
 

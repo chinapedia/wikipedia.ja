@@ -230,7 +230,7 @@
 ## 外部リンク
 
   -
-  - [BRICK ブリック DVD](http://web.archive.org/web/20090316195158/http://www.dex-et.jp/Ncontents/dvd/dex_dvd0079.html) - DVD公式サイト（2009年3月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [BRICK ブリック DVD](https://web.archive.org/web/20090316195158/http://www.dex-et.jp/Ncontents/dvd/dex_dvd0079.html) - DVD公式サイト（2009年3月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
   -
   -

@@ -1,32 +1,66 @@
 > この記事は[ROMANC∃](https://ja.wikipedia.org/wiki/ROMANC∃)から翻訳されています。
 
 
-「**ROMANC∃**」（ロマンス）は、[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売した通算20枚目となるシングル。
+「**ROMANC∃**」（ロマンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")20作目の[シングル](../Page/シングル.md "wikilink")。
 
-## 解説
+## 概要
 
-  - メジャーデビュー5周年記念3週連続リリース第2弾シングル。
-  - タイトルは本当のロマンスでないという意味であり、最後の「E」が反転してこのようなタイトルになった。
-  - この曲で『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演した際、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[松本人志](../Page/松本人志.md "wikilink")から「売れたのは今作だけ」と皮肉られた。しかし次のシングル「[BLACK JACK](https://ja.wikipedia.org/wiki/BLACK_JACK_\(Janne_Da_Arcの曲\) "wikilink")」は順位が落ちたものの、その次のシングル「[Love is Here](../Page/Love_is_Here.md "wikilink")」以降の作品は全てTOP3入りさせている。また、現時点では「HEY\!HEY\!HEY\!」に出演したのはこれが最後となっている。
-  - ちなみに、この曲のジャケットの目は、女優[杉本彩](../Page/杉本彩.md "wikilink")の目である。
-  - 連続リリースで生産枚数が限られていたにもかかわらず、Janne Da Arc初のオリコンチャートトップ3入りを果たした。
+  - 前作「[DOLLS](../Page/DOLLS_\(Janne_Da_Arcの曲\).md "wikilink")」から1週間ぶり、[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")5周年記念3週連続[シングル](../Page/シングル.md "wikilink")の第2弾作品。5万枚限定の390円で発売された\[1\]。
+  - 3作連続のノン[タイアップ](../Page/タイアップ.md "wikilink")シングルとなった。
+  - [オリコンチャート](../Page/オリコンチャート.md "wikilink")初登場3位を獲得。シングル・アルバム通じて自身初のトップ3入りを果たした。
 
 ## 収録曲
 
 1.  **ROMANC∃**
-      - 作詞・作曲:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
-    <!-- end list -->
       -
-        [イントロや間奏など](../Page/導入部.md "wikilink")、曲のいたるところに[スラップが散りばめられており](../Page/スラップ奏法.md "wikilink")、その結果、[ベースが終始忙しくなっている](../Page/ベース_\(弦楽器\).md "wikilink")。このことを[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")は[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")に謝ったが、ka-yuは「この曲は[ライブでテンション上がるからいい](../Page/演奏会.md "wikilink")」と許した、というエピソードがある。
-2.  **OASIS -Live at Hirakata West High School November 18th,2003-**
-      - 作詞:yasu、作曲you
-    <!-- end list -->
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
+        編曲：Janne Da Arc
+
+        </div>
+
+        </div>
+2.  **[OASIS](../Page/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\).md "wikilink") -Live at Hirakata West High School November 18th,2003-**
       -
-        4thアルバム『[ANOTHER STORY](../Page/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\).md "wikilink")』に収録されている同曲の[ライブ](../Page/ライブ.md "wikilink")バージョン。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu、[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")
+        作曲：[you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")
+        編曲：Janne Da Arc、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")
+
+        </div>
+
+        </div>
+
+        [2003年](../Page/2003年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")、統廃合に伴い閉校したメンバーの出身校・大阪府立枚方西高等学校にて開催されたシークレット[ライブからのライブ音源](../Page/演奏会.md "wikilink")。
+
+## 参加ミュージシャン
+
+  - Janne Da Arc
+
+<!-- end list -->
+
+  - [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink")
+  - [ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+  - [shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
 
 ## 収録アルバム
 
   - [ARCADIA](../Page/ARCADIA_\(Janne_Da_Arcのアルバム\).md "wikilink") (\#1)
   - [SINGLES 2](../Page/SINGLES_2_\(Janne_Da_Arcのアルバム\).md "wikilink") (\#1)
+  - [Janne Da Arc MAJOR DEBUT 10th ANNIVERSARY COMPLETE BOX](https://ja.wikipedia.org/wiki/Janne_Da_Arc_MAJOR_DEBUT_10th_ANNIVERSARY_COMPLETE_BOX "wikilink") (\#1)
+
+## 脚注
+
+## 外部リンク
+
+  - [エイベックスによる紹介ページ](https://avexnet.jp/contents/music_j/JANNE/discography/1004497)
 
 [Category:Janne_Da_Arcの楽曲](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:yasuが制作した楽曲](https://ja.wikipedia.org/wiki/Category:yasuが制作した楽曲 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")
+
+1.

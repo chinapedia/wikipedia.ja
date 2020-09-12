@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **児嶋亮介**（こじま りょうすけ、[1979年](../Page/1979年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）元[P2H](../Page/P2H.md "wikilink")（PICK 2 HAND）、現INSIDE ME
+  - **児嶋亮介**（こじま りょうすけ、[1979年](../Page/1979年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）元[P2H](../Page/P2H.md "wikilink")（PICK 2 HAND）、現在は「INSIDE ME」として活動中。
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[千葉県](../Page/千葉県.md "wikilink")出身。血液型B型。
   - **梶谷雅弘**（かじたに まさひろ、[1982年](../Page/1982年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - ）元[KOHL](../Page/KOHL.md "wikilink")、現[nano sound museum](https://ja.wikipedia.org/wiki/nano_sound_museum "wikilink")
       - [ドラム担当](../Page/ドラムセット.md "wikilink")。[鳥取県](../Page/鳥取県.md "wikilink")[東伯郡](../Page/東伯郡.md "wikilink")[北栄町](../Page/北栄町.md "wikilink")出身。血液型A型。

@@ -1,9 +1,9 @@
 > この記事は[Mac OS X v10.1](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.1)から翻訳されています。
 
 
-**Mac OS X v10.1**（マック オーエス テン バージョンじってんいち）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売していた、[Mac OS Xの](https://ja.wikipedia.org/wiki/macOS "wikilink")2番目のバージョンである。バージョンナンバーは10.1。コードネームは**Puma**（ピューマ）。[Mac OS X v10.0のリリースから僅か半年後の](../Page/Mac_OS_X_v10.0.md "wikilink")[2001年](../Page/2001年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に公式リリースされた。
+**Mac OS X v10.1**（マック オーエス テン バージョンじってんいち）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売した[Mac OS Xの](https://ja.wikipedia.org/wiki/macOS "wikilink")2番目のバージョンである。バージョンナンバーは10.1。コードネームは**Puma**（ピューマ）。[Mac OS X v10.0のリリースから半年後の](../Page/Mac_OS_X_v10.0.md "wikilink")[2001年](../Page/2001年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に公式リリースされた。
 
-Mac OS Xの中では初期のバージョンであり、リリース当初はv10.0ユーザ向けに無償でアップグレードできるCD-ROM"Mac OS X v10.1 Instant Up-To-Date"が配布された\[1\]。
+リリース当初はv10.0ユーザ向けに無償でアップグレードできるCD-ROM “Mac OS X v10.1 Instant Up-To-Date” が配布された\[1\]。
 
 2004年1月26日にリリースされたセキュリティアップデート\[2\]以降、アップデータはリリースされておらず、サポートは終了している。
 

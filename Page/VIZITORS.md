@@ -32,6 +32,6 @@
   - [RENDEZ-VOUS IN SPACE](http://www.legalsounds.com/InspectAlbum?__key=34218)ダウンロードサイト（海外）
   - [Jarre TK Vizitors Okinawa - My Name Is Arthur](https://www.youtube.com/watch?v=oBpwIi4Lb1s)VIZITORS公認[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")配信動画
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:日本のニューエイジ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のニューエイジ・ミュージシャン "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:日本のニューエイジ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のニューエイジ・ミュージシャン "wikilink")
 
 1.  [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊「[ザッピィ](https://ja.wikipedia.org/wiki/ザッピィ "wikilink")」2001年3月号15Pより。

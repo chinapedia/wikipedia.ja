@@ -1,9 +1,7 @@
 > この記事は[J・K・シモンズ](https://ja.wikipedia.org/wiki/J・K・シモンズ)から翻訳されています。
 
 
-**J・K・シモンズ**（J K Simmons、本名：Jonathan Kimble Simmons、[1955年](../Page/1955年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")出身の俳優。
-
-『[スパイダーマン](../Page/スパイダーマン_\(映画\).md "wikilink")』シリーズのJ・ジョナ・ジェイムソン役で知られている。
+**J・K・シモンズ**（J K Simmons、本名：Jonathan Kimble Simmons、[1955年](../Page/1955年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")出身の俳優。『[スパイダーマン](../Page/スパイダーマン_\(映画\).md "wikilink")』シリーズのJ・ジョナ・ジェイムソン役で知られている。
 
 ## 来歴
 
@@ -11,7 +9,7 @@
 
 2014年の映画『[セッション](https://ja.wikipedia.org/wiki/セッション_\(映画\) "wikilink")』で厳格な音楽教師を演じ、「2014年公開の映画の中で、最も記憶に残った演技」と絶賛され\[7\]、映画賞の助演男優賞を多数受賞。[第87回アカデミー賞](https://ja.wikipedia.org/wiki/第87回アカデミー賞 "wikilink")助演男優部門にも初ノミネートされ、受賞を果たした\[8\]\[9\]。
 
-テレビ出演も非常に多く、『[ER緊急救命室](../Page/ER緊急救命室.md "wikilink")』『[LAW & ORDER:性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:性犯罪特捜班 "wikilink")』『[LAW & ORDER:クリミナル・インテント](https://ja.wikipedia.org/wiki/LAW_&_ORDER:犯罪心理捜査班 "wikilink")』『[NIP/TUCK マイアミ整形外科医](https://ja.wikipedia.org/wiki/NIP/TUCK_マイアミ整形外科医 "wikilink")』『[FBI 失踪者を追え\!](https://ja.wikipedia.org/wiki/FBI_失踪者を追え! "wikilink")』『[NUMBERS 天才数学者の事件ファイル](../Page/NUMBERS_天才数学者の事件ファイル.md "wikilink")』『[ザ・ホワイトハウス](../Page/ザ・ホワイトハウス.md "wikilink")』などにゲスト出演している。
+テレビ出演も非常に多く、『[クローザー](https://ja.wikipedia.org/wiki/クローザー "wikilink")』『[ER緊急救命室](../Page/ER緊急救命室.md "wikilink")』『[LAW & ORDER:性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER:性犯罪特捜班 "wikilink")』『[LAW & ORDER:クリミナル・インテント](https://ja.wikipedia.org/wiki/LAW_&_ORDER:犯罪心理捜査班 "wikilink")』『[NIP/TUCK マイアミ整形外科医](https://ja.wikipedia.org/wiki/NIP/TUCK_マイアミ整形外科医 "wikilink")』『[FBI 失踪者を追え\!](https://ja.wikipedia.org/wiki/FBI_失踪者を追え! "wikilink")』『[NUMBERS 天才数学者の事件ファイル](../Page/NUMBERS_天才数学者の事件ファイル.md "wikilink")』『[ザ・ホワイトハウス](../Page/ザ・ホワイトハウス.md "wikilink")』などにゲスト出演している。
 
 ## 主な出演作品
 
@@ -90,7 +88,7 @@
 <tr class="even">
 <td><p><br />
 <em>I Lost My M in Vegas</em></p></td>
-<td><p><em>Yellow</em></p></td>
+<td><p>Yellow</p></td>
 <td><p>短編映画、声の出演</p></td>
 <td></td>
 <td></td>
@@ -172,7 +170,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/平成狸合戦ぽんぽこ" title="wikilink">平成狸合戦ぽんぽこ</a><br />
 <em>Pom Poko</em></p></td>
 <td><p>青左衛門</p></td>
-<td><p>声の出演、英語版吹き替え</p></td>
+<td><p>声の出演（英語版吹き替え）</p></td>
 <td><p><a href="../Page/三木のり平.md" title="wikilink">三木のり平</a>（原語の声優）</p></td>
 <td></td>
 </tr>
@@ -397,7 +395,7 @@
 <em>Murder of a Cat</em></p></td>
 <td><p>ホイル保安官</p></td>
 <td></td>
-<td></td>
+<td><p>（吹き替え版なし）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -521,16 +519,24 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/21ブリッジズ.md" title="wikilink">21ブリッジズ</a>（原題）<br />
+<em>21 Bridges</em></p></td>
+<td><p>Captain Matt McKenna</p></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2020</p></td>
+<td><p><em>Palm Springs</em></p></td>
+<td><p>ロイ</p></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### テレビシリーズ
+### テレビドラマ
 
 <table>
 <thead>
@@ -545,7 +551,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1994 - 2010</p></td>
+<td><p>1994-2010</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロー&amp;オーダー" title="wikilink">ロー&amp;オーダー</a><br />
 <em>Law &amp; Order</em></p></td>
 <td><p>エミール・スコダ博士</p></td>
@@ -565,11 +571,11 @@
 <td><p><a href="../Page/スピン・シティ.md" title="wikilink">スピン・シティ</a><br />
 <em>Spin City</em></p></td>
 <td><p>ケヴィン</p></td>
-<td><p>1話出演</p></td>
+<td><p>第1シーズン第21話「おたまじゃくしを返せ！」</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1997 - 2003</p></td>
+<td><p>1997-2003</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/OZ/オズ" title="wikilink">OZ/オズ</a><br />
 <em>Oz</em></p></td>
 <td><p>ヴァーノン・シリンガー</p></td>
@@ -578,14 +584,14 @@
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サードウォッチ" title="wikilink">サードウォッチ</a><br />
+<td><p><a href="../Page/サード・ウォッチ.md" title="wikilink">サード・ウォッチ</a><br />
 <em>Third Watch</em></p></td>
 <td><p>フランク・ハゴノン</p></td>
-<td><p>1話出演</p></td>
+<td><p>第1シーズン第10話「別れの破壊」</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2000 - 2001</p></td>
+<td><p>2000-2001</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LAW_&amp;_ORDER:性犯罪特捜班" title="wikilink">LAW &amp; ORDER:性犯罪特捜班</a><br />
 <em>Law &amp; Order: Special Victims Unit</em></p></td>
 <td><p>エミール・スコダ博士</p></td>
@@ -596,16 +602,16 @@
 <td><p>2002</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LAW_&amp;_ORDER:犯罪心理捜査班" title="wikilink">LAW &amp; ORDER:犯罪心理捜査班</a><br />
 <em>Law &amp; Order: Criminal Intent</em></p></td>
-<td><p>1話出演</p></td>
+<td><p>第1シーズン第12話「ラストチャンス」</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
 <td><p><a href="../Page/エバーウッド_遥かなるコロラド.md" title="wikilink">エバーウッド 遥かなるコロラド</a><br />
-'' Everwood''</p></td>
+<em>Everwood</em></p></td>
 <td><p>フィル</p></td>
-<td><p>1話出演</p></td>
+<td><p>第2シーズン第8話「重い真実」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -614,13 +620,13 @@
 <em>ER</em></p></td>
 <td><p>ガス・ルーマー</p></td>
 <td><p>第10シーズン第14話「労務管理」</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/たかお鷹" title="wikilink">たかお鷹</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FBI_失踪者を追え!" title="wikilink">FBI 失踪者を追え!</a><br />
 <em>Without a Trace</em></p></td>
 <td><p>マーク・ウィルソン</p></td>
-<td><p>1話出演</p></td>
+<td><p>第2シーズン第21話「ふたつの家族」</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -628,7 +634,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/NIP/TUCK_マイアミ整形外科医" title="wikilink">NIP/TUCK マイアミ整形外科医</a><br />
 <em>Nip/Tuck</em></p></td>
 <td><p>アイク・コナーズ</p></td>
-<td><p>1話出演</p></td>
+<td><p>第2シーズン第10話「キンバー・ヘンリー」</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -637,7 +643,7 @@
 <td><p><a href="../Page/アレステッド・ディベロプメント_(テレビドラマ).md" title="wikilink">アレステッド・ディベロプメント</a><br />
 <em>Arrested Development</em></p></td>
 <td><p>アンダーソン</p></td>
-<td><p>1話出演</p></td>
+<td><p>第2シーズン第7話「ジョブ、ライバル会社に就職!?」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -649,7 +655,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2005 - 2012</p></td>
+<td><p>2005-2012</p></td>
 <td><p><a href="../Page/クローザー_(テレビドラマ).md" title="wikilink">クローザー</a><br />
 <em>The Closer</em></p></td>
 <td><p>ウィル・ポープ</p></td>
@@ -661,7 +667,7 @@
 <td><p><a href="../Page/ザ・ホワイトハウス.md" title="wikilink">ザ・ホワイトハウス</a><br />
 '' The West Wing''</p></td>
 <td><p>ハリー・ラヴィッチ</p></td>
-<td><p>1話出演</p></td>
+<td><p>第7シーズン第12話「メルトダウンの危機」</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -669,22 +675,23 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/シングルパパの育児奮闘記" title="wikilink">シングルパパの育児奮闘記</a><br />
 <em>Raising Hope</em></p></td>
 <td><p>ブルース</p></td>
-<td><p>1話出演</p></td>
+<td><p>第1シーズン第16話「カルトの罠」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017 – 2019</p></td>
+<td><p>2017-2019</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カウンターパート/暗躍する分身" title="wikilink">カウンターパート/暗躍する分身</a><br />
-<em>Counterpart</em></p></td>
+<em><a href="https://ja.wikipedia.org/wiki/:en:Counterpart_(TV_series)" title="wikilink">Counterpart</a></em></p></td>
 <td><p>ハワード・シルク</p></td>
-<td><p>19話出演</p></td>
+<td><p>20話出演</p></td>
 <td><p>壤晴彦</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェイコブを守るため" title="wikilink">ジェイコブを守るため</a><br />
+<em>Defending Jacob</em></p></td>
+<td><p>ビリー・バーバー</p></td>
+<td><p>5話出演</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -705,7 +712,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2004 - 2006</p></td>
+<td><p>2004-2006</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャスティス・リーグ・アンリミテッド" title="wikilink">ジャスティス・リーグ・アンリミテッド</a><br />
 <em>Justice League Unlimited</em></p></td>
 <td><p>General Wade Eiling、Mantis<br />
@@ -714,7 +721,7 @@ German Agent、Bystander</p></td>
 <td><p>（吹き替え版なし）</p></td>
 </tr>
 <tr class="even">
-<td><p>2006 - 2007</p></td>
+<td><p>2006-2007</p></td>
 <td><p><a href="../Page/ザ・シンプソンズ.md" title="wikilink">ザ・シンプソンズ</a><br />
 '' The Simpsons''</p></td>
 <td><p>J・ジョナ・ジェイムソン</p></td>
@@ -722,7 +729,7 @@ German Agent、Bystander</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2007 - 2008、2011</p></td>
+<td><p>2007-2008,2011</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・ダッド" title="wikilink">アメリカン・ダッド</a><br />
 '' American Dad!''</p></td>
 <td><p>マクリーリー、他</p></td>
@@ -732,7 +739,7 @@ German Agent、Bystander</p></td>
 <tr class="even">
 <td><p>2007</p></td>
 <td><p><a href="../Page/キム・ポッシブル.md" title="wikilink">キム・ポッシブル</a><br />
-'' Kim Possible''</p></td>
+<em>Kim Possible</em></p></td>
 <td></td>
 <td><p>3話出演</p></td>
 <td></td>
@@ -762,7 +769,7 @@ German Agent、Bystander</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2010 - 2013</p></td>
+<td><p>2010-2013</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェネレーター・レックス" title="wikilink">ジェネレーター・レックス</a><br />
 <em>Generator Rex</em></p></td>
 <td><p>ホワイト・ナイト</p></td>
@@ -781,13 +788,13 @@ German Agent、Bystander</p></td>
 <tr class="even">
 <td><p>2012</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アベンジャーズ_地球最強のヒーロー" title="wikilink">アベンジャーズ 地球最強のヒーロー</a><br />
-''The Avengers: Earth's Mightiest Heroes</p></td>
+<em>The Avengers: Earth's Mightiest Heroes</em></p></td>
 <td><p>J・ジョナ・ジェイムソン</p></td>
 <td><p>1話出演</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2012 - 2015</p></td>
+<td><p>2012-2015</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルティメット・スパイダーマン" title="wikilink">アルティメット・スパイダーマン</a><br />
 <em>Ultimate Spider-Man</em></p></td>
 <td><p>39話出演</p></td>
@@ -795,7 +802,7 @@ German Agent、Bystander</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013 - 2015</p></td>
+<td><p>2013-2015</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アベンジャーズ・アッセンブル_(テレビアニメ)" title="wikilink">アベンジャーズ・アッセンブル</a><br />
 <em>Avengers Assemble</em></p></td>
 <td><p>4話出演</p></td>
@@ -811,7 +818,7 @@ German Agent、Bystander</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2014 - 2019</p></td>
+<td><p>2014-2019</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボージャック・ホースマン" title="wikilink">ボージャック・ホースマン</a><br />
 <em>BoJack Horseman</em></p></td>
 <td><p>Lenny Turteltaub</p></td>
@@ -819,19 +826,12 @@ German Agent、Bystander</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2015 - 2016</p></td>
+<td><p>2015-2016</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/怪奇ゾーン_グラビティフォールズ" title="wikilink">怪奇ゾーン グラビティフォールズ</a><br />
 <em>Gravity Falls</em></p></td>
 <td><p>スタンフォード・パインズ</p></td>
 <td><p>7話出演</p></td>
 <td><p><a href="../Page/宇垣秀成.md" title="wikilink">宇垣秀成</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -868,18 +868,8 @@ German Agent、Bystander</p></td>
 <td><p>ケイブ・ジョンソン</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
-
-## 日本語吹き替え
-
-[立川三貴](../Page/立川三貴.md "wikilink")が最も多く担当している。
 
 ## 参照
 

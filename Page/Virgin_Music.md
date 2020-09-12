@@ -1,13 +1,13 @@
 > この記事は[Virgin Music](https://ja.wikipedia.org/wiki/Virgin_Music)から翻訳されています。
 
 
-**Virgin Music**（ヴァージン ミュージック）は、[ユニバーサル ミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") (UMJ) 内の[社内カンパニー](../Page/社内カンパニー.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")。かつて存在していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽会社[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")（以下EMIJ）のレーベルの一つでもあった。
+**Virgin Music**（ヴァージン ミュージック）は、[ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（UMJ）内の[社内カンパニー](../Page/社内カンパニー.md "wikilink")にあたる[レコードレーベル](../Page/レコードレーベル.md "wikilink")。かつて存在していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽会社東芝EMI→[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")（以下EMIJ）のレーベルの一つでもあった。
 
 ## 概要
 
-元々は[英](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")の全額出資で設立された「ヴァージン・ジャパン」が元であるが、英[EMI](../Page/EMI.md "wikilink")によるヴァージン・レコードの買収に伴い東芝EMI（EMIJの旧社名）に統合され、同社の一レーベルとなった（なおこの際、法人としての「ヴァージン・ジャパン」は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")が買収し、[メディア・レモラス](../Page/メディア・レモラス.md "wikilink")となった（1997年解散））。
+元々は[英](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")の全額出資で設立された「ヴァージン・ジャパン」が元であるが、英[EMI](../Page/EMI.md "wikilink")によるヴァージン・レコードの買収に伴い東芝EMIに統合され、同社の一レーベルとなった（なおこの際、法人としての「ヴァージン・ジャパン」は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")が買収し、[メディア・レモラス](../Page/メディア・レモラス.md "wikilink")となった（1997年解散））。
 
-なお、洋楽のヴァージン・レコードの日本盤の製品番号は「VJ」で始まるが、本レーベルの場合は統合以前は「TO」から始まっていた。（CDの場合、「TOCT-」となる）この「TO」とは東芝EMI→EMIJ時代の名残り。現在は「TY」\[1\]、「UI」等から始まる。
+なお、洋楽のヴァージン・レコードの日本盤の製品番号は「VJ」で始まるが、本レーベルの場合は統合以前は「TO」から始まっていた（CDの場合、「TOCT-」となる）。この「TO」とは東芝EMI（**TO**SHIBA EMI）の名残り。現在は「TY」\[1\]、「UI」等から始まる。
 
 邦楽のセクションとしてはかつては、Virgin Domestic（二部形式）、Virgin TOKYO、Virgin DCT（[DREAMS COME TRUEの専用レーベル](../Page/DREAMS_COME_TRUE.md "wikilink")）の3つのレーベルが存在しており、各セクションごとに運営を行っていた。[2002年](../Page/2002年.md "wikilink")にDREAMS COME TRUEの移籍を機にVirgin DCTは運営を終了し、[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")をもって他3セクションも現在のVirgin Musicに吸収統合された。またその後も[RESERVOIR RECORDSが設立されたが](https://ja.wikipedia.org/wiki/RESERVOIR_RECORDS "wikilink")、[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")をもって本レーベルの傘下（実質的には吸収統合）となる。[2012年](../Page/2012年.md "wikilink")、EMIJの親会社である英EMIの音楽ソフト部門が[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユニバーサル ミュージック グループに買収されたため](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、EMIJは[2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって解散。翌[4月1日](../Page/4月1日.md "wikilink")にUMJの一制作部門・EMI Records Japanに集約され、Virgin Music自体も一旦消滅した。
 
@@ -27,20 +27,23 @@
   - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")
   - [Toshl](https://ja.wikipedia.org/wiki/Toshl "wikilink")
   - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
+  - [八代亜紀](../Page/八代亜紀.md "wikilink")
   - [MIYAVI](../Page/MIYAVI.md "wikilink")
   - [MYNAME](https://ja.wikipedia.org/wiki/MYNAME_\(音楽グループ\) "wikilink")
-  - MonsterZ MATE
+  - [MonsterZ MATE](https://ja.wikipedia.org/wiki/MonsterZ_MATE "wikilink")
   - [ラストアイドル](https://ja.wikipedia.org/wiki/ラストアイドル "wikilink")
   - [番匠谷紗衣](https://ja.wikipedia.org/wiki/番匠谷紗衣 "wikilink")
+  - [三浦祐太郎](https://ja.wikipedia.org/wiki/三浦祐太朗 "wikilink")
   - [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")
   - [YOSHI](https://ja.wikipedia.org/wiki/Yoshi226 "wikilink")
   - [横浜流星](https://ja.wikipedia.org/wiki/横浜流星 "wikilink")
-  - [TOMORROW X TOGETHER](https://ja.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
   - [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")
   - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBERJAPAN_DANCERS "wikilink")
+  - [SHE'S](https://ja.wikipedia.org/wiki/SHE'S "wikilink")
   - [そらる](https://ja.wikipedia.org/wiki/そらる "wikilink")
   - [Sou](https://ja.wikipedia.org/wiki/Sou "wikilink")
   - [じん](https://ja.wikipedia.org/wiki/じん "wikilink")
+  - [Haruka Hummingbird](https://ja.wikipedia.org/wiki/ハルカハミングバード "wikilink")
 
 ### Delicious Deli Records
 
@@ -59,6 +62,10 @@
   - [MACO](https://ja.wikipedia.org/wiki/MACO "wikilink")
   - [リン・ユーチュン](https://ja.wikipedia.org/wiki/リン・ユーチュン "wikilink")
 
+Republic Records
+
+  - [TOMORROW X TOGETHER](https://ja.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
+
 ## 過去所属していたアーティスト
 
 ## 関連項目
@@ -75,4 +82,4 @@
 
 [Category:EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパン "wikilink") [Category:ユニバーサルミュージックジャパン](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパン "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:社内カンパニー](https://ja.wikipedia.org/wiki/Category:社内カンパニー "wikilink")
 
-1.  かつては東芝EMIのアニメ・特撮専門レーベルだった[ユーメックス](../Page/ユーメックス.md "wikilink")で使用されていた。
+1.  かつては東芝EMIのアニメ・特撮専門レーベルだった[ユーメックス](../Page/ユーメックス.md "wikilink")（**T**OSHIBA **Y**OUMEX）で使用されていた。

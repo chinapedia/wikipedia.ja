@@ -60,6 +60,8 @@ SAPIX中学部を経営しているサピエンス研究所が経営している
 
 ## 外部リンク
 
-  - [SAPIX中学部](http://www.sapix.co.jp/)
+  - [SAPIX中学部](https://www.sapix.co.jp/)
 
+  -
+  -
 [Category:代々木ゼミナール](https://ja.wikipedia.org/wiki/Category:代々木ゼミナール "wikilink") [Category:学習塾](https://ja.wikipedia.org/wiki/Category:学習塾 "wikilink")

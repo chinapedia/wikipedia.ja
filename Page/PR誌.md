@@ -65,6 +65,7 @@
   - 一般財団法人キリスト教文書センター 『本のひろば』
   - [日本ペイント](../Page/日本ペイント.md "wikilink") 『可視光』
   - [TOTO](https://ja.wikipedia.org/wiki/TOTO "wikilink") 『TOTO通信』\[6\]
+  - [富士ゼロックス](../Page/富士ゼロックス.md "wikilink") 『[グラフィケーション](https://ja.wikipedia.org/wiki/グラフィケーション "wikilink")』
 
 ## 脚注
 

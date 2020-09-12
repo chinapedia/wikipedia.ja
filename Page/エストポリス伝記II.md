@@ -1,15 +1,13 @@
 > この記事は[エストポリス伝記II](https://ja.wikipedia.org/wiki/エストポリス伝記II)から翻訳されています。
 
 
-『**エストポリス伝記II**』（エストポリスでんきツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。『[エストポリス伝記](../Page/エストポリス伝記.md "wikilink")』シリーズ3部作として発表されたうちの2作目にあたる。略称は「エストII」。
+『**エストポリス伝記II**』（エストポリスでんきツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に日本の[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。略称は「エストII」。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")よりニンテンドーDS版『**[エストポリス](../Page/エストポリス.md "wikilink")**』が発売。DS版は本作『II』のストーリーをベースとした大幅なリメイクで、3Dポリゴンを使用したアクションRPGに変貌を遂げた。
+同社の『[エストポリス伝記シリーズ](https://ja.wikipedia.org/wiki/エストポリス伝記シリーズ "wikilink")』第2作目。シリーズ3部作として発表されたうちの2作目にあたる。第一作『[エストポリス伝記](../Page/エストポリス伝記.md "wikilink")』（[1993年](../Page/1993年.md "wikilink")）の中の節々で語られていた英雄マキシムの“虚空島戦役”における人間と神々の戦いをストーリーとした作品で、ゲーム内の年表では「エストポリス伝記」から100年溯る時代を舞台としている。
 
-## 概要
+開発は第一作と同じく[ネバーランドカンパニー](../Page/ネバーランドカンパニー.md "wikilink")が行い、ディレクター、シナリオは[宮田正英](https://ja.wikipedia.org/wiki/宮田正英 "wikilink")。また、楽曲は[塩生康範](https://ja.wikipedia.org/wiki/塩生康範 "wikilink")が担当している。欧米版『Lufia II』は4ヶ国語（[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")）に翻訳され発売された。
 
-第一作『エストポリス伝記』の中の節々で語られていた英雄マキシムの“虚空島戦役”における人間と神々の戦いをストーリーとしたロールプレイングゲームで、ゲーム内の年表では「エストポリス伝記」から100年溯る時代を舞台としている。
-
-制作も第一作と同じく[ネバーランドカンパニー](../Page/ネバーランドカンパニー.md "wikilink")。ディレクター、シナリオは[宮田正英](https://ja.wikipedia.org/wiki/宮田正英 "wikilink")。また、楽曲は[塩生康範](https://ja.wikipedia.org/wiki/塩生康範 "wikilink")が担当している。欧米版『Lufia II』は4ヶ国語（[英語](../Page/英語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")）に翻訳され発売された。
+[2003年](../Page/2003年.md "wikilink")には本作のダンジョンのみをゲーム化した[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")が配信された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")よりニンテンドーDS版『**[エストポリス](../Page/エストポリス.md "wikilink")**』が発売。DS版は本作『II』のストーリーをベースとした大幅なリメイクで、3Dポリゴンを使用したアクションRPGに変貌を遂げた。
 
 ## ストーリー
 
@@ -49,32 +47,156 @@
   - デュアルブレード
     持つものの精神波動に呼応し共鳴することで行使者の潜在能力を飛躍的に高める。このデュアルブレードの共鳴から物語は始まった。
 
-## 攻略本
+## 移植版
 
-  - 『エストポリス伝記II 必勝攻略法』 （スーパーファミコン完璧攻略シリーズ 99）
-    [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")より1995年4月1日発売（ISBN 4-575-28432-7）。編：ファイティングスタジオ。
+本作のダンジョンのひとつである「古の洞窟（いにしえのどうくつ）」の部分のみを独立したゲームとして移植した携帯電話アプリが3作配信されている。いずれも基本的な内容は共通だが、グラフィックやBGM、収録アイテムなどの量が異なる（『Light』が軽量版、『DX』が豪華版に相当）。
 
-## サウンドトラック
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+<th><p>出典</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>エストポリス伝記　いにしえの洞窟</p></td>
+<td></td>
+<td><p><a href="../Page/Yahoo!ケータイ.md" title="wikilink">J-スカイ</a><br />
+（<a href="../Page/S!アプリ.md" title="wikilink">Javaアプリ</a>）</p></td>
+<td><p>タイトー</p></td>
+<td><p>タイトー</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+（タイトーGameセレクションEX）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[1][2]</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>エストポリス伝記Light</p></td>
+<td></td>
+<td><p><a href="../Page/Yahoo!ケータイ.md" title="wikilink">ボーダフォンライブ!</a><br />
+（<a href="../Page/S!アプリ.md" title="wikilink">Vアプリ</a>）</p></td>
+<td><p>タイトー</p></td>
+<td><p>タイトー</p></td>
+<td><p>ダウンロード<br />
+（タイトーGameセレクションEX）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[3][4]</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>エストポリス伝記DX</p></td>
+<td></td>
+<td><p>ボーダフォンライブ!<br />
+（Vアプリ）</p></td>
+<td><p>タイトー</p></td>
+<td><p>タイトー</p></td>
+<td><p>ダウンロード<br />
+（ウリキリゲーム♪タイトー）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[5]</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>エストポリス伝記 古の洞窟</p></td>
+<td></td>
+<td><p><a href="../Page/FOMA.md" title="wikilink">FOMA</a>900iシリーズ<br />
+（<a href="https://ja.wikipedia.org/wiki/iアプリ" title="wikilink">iアプリ</a>）</p></td>
+<td><p>タイトー</p></td>
+<td><p>タイトー</p></td>
+<td><p>ダウンロード<br />
+（タイトーG@meパーク）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[6]</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>エストポリス伝記DX 古の洞窟</p></td>
+<td></td>
+<td><p><a href="../Page/BREW.md" title="wikilink">BREW</a>対応機種<br />
+（<a href="https://ja.wikipedia.org/wiki/EZアプリ" title="wikilink">EZアプリ</a>）</p></td>
+<td><p>タイトー</p></td>
+<td><p>タイトー</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 音楽
+
+  - サウンドトラック
+
+<!-- end list -->
 
   - 『GAME SOUND LEGEND CONSUMER SERIES エストポリス伝記 サウンドトラック』
-    [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より[2006年](../Page/2006年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")発売。CD4枚組（SCDC-00486 - 9）。
-    『エストポリス伝記』、『エストポリス伝記II』、『エストポリス伝記 よみがえる伝説』のオリジナルサウンドトラック。ボーナストラックとして、『エストポリス伝記』の楽曲のアレンジバージョンが2曲収録されている。
+      -
+        [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より[2006年](../Page/2006年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")発売。CD4枚組（SCDC-00486 - 9）。
+
+\-: 『エストポリス伝記』、『エストポリス伝記II』、『エストポリス伝記 よみがえる伝説』のオリジナルサウンドトラック。ボーナストラックとして、『エストポリス伝記』の楽曲のアレンジバージョンが2曲収録されている。
+
   - 『エストポリス オリジナル・サウンドトラック』
-    [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")発売。CD2枚組（SQEX-10187 - 8）。
-    リメイク版であるニンテンドーDS版『エストポリス』のオリジナルサウンドトラックに加え、新規アレンジトラック14曲とドラマCD（6話分）を収録。
+      -
+        [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")発売。CD2枚組（SQEX-10187 - 8）。
+        リメイク版であるニンテンドーDS版『エストポリス』のオリジナルサウンドトラックに加え、新規アレンジトラック14曲とドラマCD（6話分）を収録。
   - 『エストポリス伝記I・II -SUPER Rom Cassette Disc In TAITO Vol.1-』
-    [シティコネクションのレーベル](https://ja.wikipedia.org/wiki/シティコネクション_\(企業\) "wikilink")・クラリスディスクより[2017年](../Page/2017年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売。CD3枚組（CDST-10053）。
-    『エストポリス伝記』、『エストポリス伝記II』のオリジナルサウンドトラック。2作品からの収録楽曲は上記『GAME SOUND LEGEND』と同じ（アレンジバージョンは未収録）だが、すべて新規デジタル録音で再録されており、『I』の楽曲がDISC 1、『II』がDISC 2・3に振り分けられている。
+      -
+        [シティコネクションのレーベル](https://ja.wikipedia.org/wiki/シティコネクション_\(企業\) "wikilink")・クラリスディスクより[2017年](../Page/2017年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売。CD3枚組（CDST-10053）。
+        『エストポリス伝記』、『エストポリス伝記II』のオリジナルサウンドトラック。2作品からの収録楽曲は上記『GAME SOUND LEGEND』と同じ（アレンジバージョンは未収録）だが、すべて新規デジタル録音で再録されており、『I』の楽曲がDISC 1、『II』がDISC 2・3に振り分けられている。
 
-## 携帯電話アプリ
+## スタッフ
 
-本作のダンジョンのひとつである「古の洞窟（いにしえのどうくつ）」の部分のみを独立したゲームとして移植した携帯電話アプリが3作配信されている。
+  - シナリオ、ディレクター：宮田正英
+  - メイン・プログラマー：すずきあきひろ
+  - バトル・プログラマー：永見卓也
+  - キャンプ・プログラマー：わたなべきよちか
+  - XLIONエンジニア：受田直之
+  - カジノ・プログラマー：しらぬいあすか
+  - 音楽、効果音：[塩生康範](https://ja.wikipedia.org/wiki/塩生康範 "wikilink")
+  - モンスター・デザイナー：まつもとともなり
+  - ダンジョン・デザイナー：すぎうらさみち
+  - キャラクター・デザイナー、マジック・エフェクト：くるがみ龍
+  - シティ・デザイナー：すずきたけひと
+  - マップ・コンストラクター：みやさかたかし
+  - トリック・コンストラクター：受田直之、わたなべきよちか、しらぬいあすか、すずきあきひろ、Say.M
+  - バトル・システム：しらぬいあすか、まつもとともなり
+  - プログラム・ディレクター：高田誠
+  - イメージ・イラスト：安藤謙次
+  - [サイトロン・アンド・アート](../Page/サイトロン・アンド・アート.md "wikilink")：大野善寛、あんどうふゆき
 
-  - エストポリス伝記 古の洞窟（2003年9月1日）
-  - エストポリス伝記Light（2003年10月15日）
-  - エストポリス伝記DX 古の洞窟（2004年7月8日）
+## 評価
 
-いずれも基本的な内容は共通だが、グラフィックやBGM、収録アイテムなどの量が異なる（『Light』が軽量版、『DX』が豪華版に相当）。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では7・8・7・8の合計30点（満40点）でシルバー殿堂を獲得\[7\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、22.7点（満30点）となっている\[8\]。また、1998年に刊行されたゲーム誌『超絶 大技林 '98年春版』（[徳間書店](../Page/徳間書店.md "wikilink")）では、ダンジョンの仕掛けやキャラクターのアクションが豊富であるとして肯定的に評価された\[9\]。
+
+| 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
+| -- | ----- | --- | ---- | --- | --- | ------- | ---- |
+| 得点 | 3.8   | 3.6 | 3.8  | 3.8 | 3.9 | 3.7     | 22.7 |
+
+## 関連商品
+
+  - 攻略本
+
+<!-- end list -->
+
+  - 『エストポリス伝記II 必勝攻略法』 （スーパーファミコン完璧攻略シリーズ 99）
+      -
+        [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")より1995年4月1日発売（ISBN 4-575-28432-7）。編：ファイティングスタジオ。
 
 ## 脚注
 
@@ -84,7 +206,21 @@
 
 ## 関連項目
 
-  - [エストポリス伝記](../Page/エストポリス伝記.md "wikilink") - シリーズ全般についてはこちらを参照。
+  - [エストポリス伝記シリーズ](https://ja.wikipedia.org/wiki/エストポリス伝記シリーズ "wikilink") - シリーズ全般についてはこちらを参照。
   - [エストポリス](../Page/エストポリス.md "wikilink") - 本作のアクションRPGリメイク。
 
-[Category:エストポリス伝記](https://ja.wikipedia.org/wiki/Category:エストポリス伝記 "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
+## 外部リンク
+
+  - （英語）
+
+[Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:エストポリス伝記](https://ja.wikipedia.org/wiki/Category:エストポリス伝記 "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.

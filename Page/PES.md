@@ -5,7 +5,7 @@
 
 ## 来歴
 
-生まれてまもなく両親は離婚。父親とは一度も会っておらず、再婚しているかも腹違いの兄弟がいるかもわからないという。一人っ子。母親が自営業をしており、小学生時代には何回もの転校を繰り返していた。自称「小卒」。転校が多く、母親が忙しいためホテル住まいの時期もあった。中学1年のときは母親の知りあいにギタリストがいたためギターをよく弾くようになりバンドなども組む。中学2年からは一人暮らしをしていた。中学3年からは[サーフィン](../Page/サーフィン.md "wikilink")に夢中になり、[サーファー](https://ja.wikipedia.org/wiki/サーファー "wikilink")を目指すが断念する。その後、ジャパンインターナショナルスクールで知り合った[ILMARI](../Page/ILMARI.md "wikilink")に誘われRIP SLYMEに加入。またSUとともにMEP SLOWNというグループを結成していた。
+生まれてまもなく両親は離婚。父親とは一度も会っておらず、再婚しているかも腹違いの兄弟がいるかもわからないという。一人っ子。母親が自営業をしており、小学生時代には何回もの転校を繰り返していた。自称「小卒」。転校が多く、母親が忙しいためホテル住まいの時期もあった。中学1年のときは母親の知りあいにギタリストがいたためギターをよく弾くようになりバンドなども組む。中学2年からは一人暮らしをしていた。中学3年からは[サーフィン](../Page/サーフィン.md "wikilink")に夢中になり、[サーファー](https://ja.wikipedia.org/wiki/サーファー "wikilink")を目指すが断念する。その後、ジャパンインターナショナルスクールで知り合った[ILMARI](../Page/ILMARI.md "wikilink")に誘われRIP SLYMEに加入。また[SUとともにMEP](../Page/SU_\(RIP_SLYME\).md "wikilink") SLOWNというグループを結成していた。
 
 2012年に、PES from RIP SLYME名義でソロデビューを果たす。ドラマ『[リーガルハイ](https://ja.wikipedia.org/wiki/リーガルハイ "wikilink")』の主題歌に起用された。
 
@@ -189,7 +189,7 @@ WPCL-11198:通常盤</p></td>
       - [高中正義](../Page/高中正義.md "wikilink")『REMIX LAGOON\~高中正義REMIXES\~』収録
   - A Song feat. PES & SU from RIP SLYME（2005年5月18日）
       - [breakthrough](https://ja.wikipedia.org/wiki/breakthrough "wikilink")『BREAKTHROUGH』収録
-  - ウィークエンド・シャッフル feat. [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), CHANNEL, [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), SU, LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), PES, KIN, [童子-T](../Page/童子-T.md "wikilink")（2006年3月6日）
+  - ウィークエンド・シャッフル feat. [MCU](../Page/MCU_\(ラッパー\).md "wikilink"), [RYO-Z](../Page/RYO-Z.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](../Page/SU_\(RIP_SLYME\).md "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), PES, [KIN](../Page/KIN.md "wikilink"), [童子-T](../Page/童子-T.md "wikilink")（2006年3月6日）
       - [RHYMESTER](../Page/RHYMESTER.md "wikilink")『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』収録
   - white sonata no.8 featuring PES
       - [SBK](../Page/スケボーキング.md "wikilink")『RETURNS』収録
@@ -253,6 +253,7 @@ RIP SLYMEのPV出演は除く
 
   - [Optimystik](http://www.optimystik.jp/)
 
+  -
   -
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 

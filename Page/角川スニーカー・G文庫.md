@@ -34,6 +34,6 @@ TRPGの文庫版ルールブックや[サプリメント](https://ja.wikipedia.o
 
   - [文庫レーベル一覧](../Page/文庫レーベル一覧.md "wikilink")
 
-[Category:角川スニーカー・G文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー・G文庫 "wikilink") [Category:KADOKAWAの文庫本](https://ja.wikipedia.org/wiki/Category:KADOKAWAの文庫本 "wikilink") [Category:廃刊した文庫](https://ja.wikipedia.org/wiki/Category:廃刊した文庫 "wikilink") [Category:1994年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1994年刊行開始の刊行物 "wikilink") [Category:1997年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:1997年刊行終了の刊行物 "wikilink")
+[Category:角川スニーカー・G文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー・G文庫 "wikilink") [Category:角川書店の出版物](https://ja.wikipedia.org/wiki/Category:角川書店の出版物 "wikilink") [Category:KADOKAWAの文庫本](https://ja.wikipedia.org/wiki/Category:KADOKAWAの文庫本 "wikilink") [Category:廃刊した文庫](https://ja.wikipedia.org/wiki/Category:廃刊した文庫 "wikilink") [Category:1994年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1994年刊行開始の刊行物 "wikilink") [Category:1997年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:1997年刊行終了の刊行物 "wikilink")
 
 1.  [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")当時は[社内カンパニー](../Page/社内カンパニー.md "wikilink")で、「角川書店富士見事業部」が正式名称であった。その後[2005年](../Page/2005年.md "wikilink")の再分社化、[2013年](../Page/2013年.md "wikilink")のブランドカンパニー化を経て、[2015年](../Page/2015年.md "wikilink")よりKADOKAWAのブランドとなっている。

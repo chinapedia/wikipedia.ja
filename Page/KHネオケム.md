@@ -16,7 +16,7 @@
 ## 沿革
 
   - [1948年](../Page/1948年.md "wikilink") - 日本で初めて、糖蜜から[発酵](../Page/発酵.md "wikilink")法により[アセトン](../Page/アセトン.md "wikilink")・[ブタノール](https://ja.wikipedia.org/wiki/ブタノール "wikilink")の大量生産を開始。
-  - [1949年](../Page/1949年.md "wikilink")7月 - 協和醱酵工業（現：[協和発酵キリン](https://ja.wikipedia.org/wiki/協和発酵キリン "wikilink")）設立。
+  - [1949年](../Page/1949年.md "wikilink")7月 - 協和醱酵工業（現：[協和キリン](../Page/協和キリン.md "wikilink")）設立。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - 大協石油（現：[コスモ石油](../Page/コスモ石油.md "wikilink")）と合弁で、大協和石油化学設立。[発酵](../Page/発酵.md "wikilink")法から[合成](https://ja.wikipedia.org/wiki/合成 "wikilink")法へ製法転換。
   - [1966年](../Page/1966年.md "wikilink")11月 - 協和醱酵工業の化学品製造子会社として、協和油化設立。大協和石油化学の関連事業を統合。
   - [2004年](../Page/2004年.md "wikilink") - 協和醱酵工業の化学品事業部門を協和油化へ統合、社名を協和発酵ケミカル（旧）へ変更。
@@ -31,6 +31,7 @@
   - 大阪支店：大阪府大阪市北区芝田1-1-4　阪急ターミナルビル
   - 千葉工場：千葉県市原市五井南海岸11-1
   - 四日市工場・R\&D総合センター：三重県四日市市大協町2-3
+  - KH i-Lab：神奈川県川崎市新川崎7　AIRBIC
   - 堺物流センター：大阪府堺市西区築港新町3-39
 
 ## グループ会社

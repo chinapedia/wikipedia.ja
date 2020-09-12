@@ -1,7 +1,7 @@
 > この記事は[DJクオールズ](https://ja.wikipedia.org/wiki/DJクオールズ)から翻訳されています。
 
 
-**ドナルド・ジョセフ・クオールズ**（**Donald Joseph Qualls**,[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[6月12日](../Page/6月12日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テネシー州](../Page/テネシー州.md "wikilink")[ナッシュビル](https://ja.wikipedia.org/wiki/ナッシュビル "wikilink")出身の[俳優](../Page/俳優.md "wikilink")である。
+**ドナルド・ジョセフ・クオールズ**（**Donald Joseph Qualls**,[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[6月10日](../Page/6月10日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テネシー州](../Page/テネシー州.md "wikilink")[ナッシュビル](https://ja.wikipedia.org/wiki/ナッシュビル "wikilink")出身の[俳優](../Page/俳優.md "wikilink")である。
 
 5人兄弟の1人として[テネシー州](../Page/テネシー州.md "wikilink")[マンチェスター](../Page/マンチェスター.md "wikilink")で育つ。彼が14歳の時に、[ホジキンリンパ腫](../Page/ホジキンリンパ腫.md "wikilink")と診断される。2年の手術、[化学療法](../Page/化学療法.md "wikilink")と放射線処置の後、[ガンは寛解期にはいった](../Page/悪性腫瘍.md "wikilink")。[ロンドン大学](../Page/ロンドン大学.md "wikilink")に通った後、[テネシー州](../Page/テネシー州.md "wikilink")に戻り、[ベルモント大学](https://ja.wikipedia.org/wiki/ベルモント大学 "wikilink")に入学する。その時に弁護士補助員として働く。
 
@@ -39,7 +39,7 @@
   - メンフィス・ビート 〜南部警察 人情派〜 *Memphis Beat* (Season1-2) (2010-2011)
   - [スーパーナチュラル](https://ja.wikipedia.org/wiki/スーパーナチュラル "wikilink") *Supernatural* (Season7-9) (2011-2014)
   - [Hawaii Five-0](https://ja.wikipedia.org/wiki/Hawaii_Five-0 "wikilink") *Hawaii Five-0* (Season4) (2013-2014)
-  - Zネーション *Z Nation* (Season1-present) (2014-present)
+  - [Zネーション](https://ja.wikipedia.org/wiki/Zネーション "wikilink") *Z Nation* (2014-2018)
   - [高い城の男](https://ja.wikipedia.org/wiki/高い城の男_\(テレビドラマ\) "wikilink") *The Man in the High Castle* (2015-)
   - [ファーゴ](https://ja.wikipedia.org/wiki/ファーゴ_\(テレビドラマ\) "wikilink") *Fargo* (2017)
 

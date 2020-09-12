@@ -1,7 +1,7 @@
 > この記事は[Mac OS X v10.2](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.2)から翻訳されています。
 
 
-**Mac OS X v10.2 Jaguar**（マック オーエス テン バージョンじってんに ジャガー）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売していた、[Mac OS Xの](https://ja.wikipedia.org/wiki/macOS "wikilink")3番目のバージョンである。バージョンナンバーは10.2。コードネームは**“Jaguar”**（ジャガー）。[Mac OS X v10.1の後継版として開発され](../Page/Mac_OS_X_v10.1.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に公式にリリースされた。海外では製品名として初めて開発コード名が添付されたMac OS Xであるが、日本国内では"Jaguar"は製品名に採用されず、Mac OS X 10.2が正式名称。
+**Mac OS X v10.2 Jaguar**（マック オーエス テン バージョンじってんに ジャガー）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売した[Mac OS Xの](https://ja.wikipedia.org/wiki/macOS "wikilink")3番目のバージョンである。バージョンナンバーは10.2。コードネームは**“Jaguar”**（ジャガー）。[Mac OS X v10.1の後継として開発され](../Page/Mac_OS_X_v10.1.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に公式にリリースされた。海外では製品名として初めて開発コード名が添付されたが、日本国内では"Jaguar"は製品名に採用されず、Mac OS X v10.2とされた。
 
 システムの起動時間や画面描画などのパフォーマンスが従来のバージョンより向上している。[Classic環境も改良され](../Page/Classic_\(ソフトウェア\).md "wikilink")、Classic環境の起動時間が数秒、長くても十数秒程度と大幅に短縮された。
 
@@ -16,8 +16,8 @@
 ## 新機能
 
   - [Finder](../Page/Finder.md "wikilink")
-    スプリングフォルダ/スプリングウィンドウが復活。シンプルFinderモードの追加。[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")機能を応用し、ファイル名やアプリケーション名を言語モードごとに切り替え可能に(ローカライズドフォルダ)。「情報を見る」ウィンドウの改良。
-    項目をドロップしたウィンドウが自動的に前面に現れる機能が追加されたり、ファイル名をクリックした後すぐにカーソルを動かすと選択状態になる機能が復活するなど、細かい部分での使い勝手に多くの改善が見られた。
+    スプリングフォルダ/スプリングウインドウが復活。シンプルFinderモードの追加。[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")機能を応用し、ファイル名やアプリケーション名を言語モードごとに切り替え可能に（ローカライズドフォルダ）。「情報を見る」ウインドウの改良。
+    項目をドロップしたウインドウが自動的に前面に現れる機能が追加されたほか、ファイル名をクリックした後すぐにカーソルを動かすと選択状態になる機能が復活するなど、細かい部分での使い勝手に多くの改善が見られた。
   - [iChat](https://ja.wikipedia.org/wiki/iChat "wikilink")
     AOL Instant Messenger互換クライアントとしての機能のみを備える。
   - [プレビュー](../Page/プレビュー_\(ソフトウェア\).md "wikilink")
@@ -35,7 +35,7 @@
   - [Rendezvous(Bonjour)](../Page/Bonjour.md "wikilink")
     [TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")と[DNS](https://ja.wikipedia.org/wiki/DNS "wikilink")の欠点を補う、ゼロ・コンフィグレーションネットワークを実装。[AppleTalk](../Page/AppleTalk.md "wikilink")及び[SLPの後継技術](../Page/サービス・ロケーション・プロトコル.md "wikilink")。
   - [Quartz Extreme](https://ja.wikipedia.org/wiki/Quartz_Extreme "wikilink")
-    [GPUのジオメトリエンジンを利用してウィンドウの合成を行う機能](../Page/Graphics_Processing_Unit.md "wikilink")。2Dグラフィックと[OpenGL](../Page/OpenGL.md "wikilink")との混在描画が可能に。
+    [GPUのジオメトリエンジンを利用してウインドウの合成を行う機能](../Page/Graphics_Processing_Unit.md "wikilink")。2Dグラフィックと[OpenGL](../Page/OpenGL.md "wikilink")との混在描画が可能に。
   - [Inkwell](https://ja.wikipedia.org/wiki/Inkwell "wikilink")
     タブレットからの入力をサポート。英語の手書き入力が可能になった
   - 印刷機能の改善
@@ -43,7 +43,7 @@
   - 開発環境
     [Project Builder (Xcode)](../Page/Xcode.md "wikilink") がgcc3.1コンパイラに対応
   - その他
-    Windowsとのファイル共有機能強化、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")への対応、[ファイアウォール](../Page/ファイアウォール.md "wikilink")機能、インターネット接続の共有、システムサウンドの復活、ユニバーサルアクセスの機能向上など。付属アプリケーションではないが、後に標準Webブラウザとなった[Safari](../Page/Safari.md "wikilink")が登場したのもこのバージョンからである。
+    Windowsとのファイル共有機能強化、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")への対応、[ファイアウォール](../Page/ファイアウォール.md "wikilink")機能、インターネット接続の共有、システムサウンドの復活、ユニバーサルアクセスの機能向上など。付属アプリケーションではないが、後に標準[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")となった[Safari](../Page/Safari.md "wikilink")が登場したのもこのバージョンからである。
 
 ## 脚注
 

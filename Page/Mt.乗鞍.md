@@ -34,7 +34,7 @@
 
   - [Mt.乗鞍・乗鞍高原温泉スキー場](http://www.norikura.co.jp/)
 
-[Category:長野県のスキー場](https://ja.wikipedia.org/wiki/Category:長野県のスキー場 "wikilink") [Category:松本市のスポーツ](https://ja.wikipedia.org/wiki/Category:松本市のスポーツ "wikilink") [Category:北アルプス](https://ja.wikipedia.org/wiki/Category:北アルプス "wikilink")
+[Category:長野県のスキー場](https://ja.wikipedia.org/wiki/Category:長野県のスキー場 "wikilink") [Category:松本市のスポーツ施設](https://ja.wikipedia.org/wiki/Category:松本市のスポーツ施設 "wikilink") [Category:北アルプス](https://ja.wikipedia.org/wiki/Category:北アルプス "wikilink")
 
 1.
 2.

@@ -50,4 +50,4 @@
 
 [fr:KAWAI](https://ja.wikipedia.org/wiki/fr:KAWAI "wikilink")
 
-[Category:コミックソング](https://ja.wikipedia.org/wiki/Category:コミックソング "wikilink")
+[Category:コミックバンド](https://ja.wikipedia.org/wiki/Category:コミックバンド "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

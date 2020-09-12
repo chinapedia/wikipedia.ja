@@ -13,20 +13,17 @@
 
 ## 日本での販売製品
 
-  - Vectorworks Designer with Renderworks
   - Vectorworks Designer
-  - Vectorworks Architect with Renderworks
   - Vectorworks Architect
-  - Vectorworks Landmark with Renderworks
   - Vectorworks Landmark
-  - Vectorworks Spotlight with Renderworks
   - Vectorworks Spotlight
-  - Vectorworks Fundamentals with Renderworks
   - Vectorworks Fundamentals
+
+（レンダリングモジュールRenderworksは全製品に標準搭載）
 
 ## 歴史
 
-Diehl Graphsoft Inc（その後Nemetschek AG（ドイツ）に買収され、Nemetschek North Americaに改称。現在の名称はNemetscheck Vectorworks）によって、"MiniCad"という商品名で開発された。当初は[Macintosh](../Page/Macintosh.md "wikilink")版のみであったが、のちに[Windows版も登場した](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。また、比較的安価に導入でき、個人事業主や小企業でも導入しやすい製品であった。ユーザー同士の交流も盛んで、プラグイン開発の情報を扱うサイトも多かった
+Diehl Graphsoft Inc（その後Nemetschek AG（ドイツ）に買収され、Nemetschek North Americaに改称。現在の名称はVectorworks, Inc.）によって、"MiniCad"という商品名で開発された。当初は[Macintosh](../Page/Macintosh.md "wikilink")版のみであったが、のちに[Windows版も登場した](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。また、比較的安価に導入でき、個人事業主や小企業でも導入しやすい製品であった。ユーザー同士の交流も盛んで、プラグイン開発の情報を扱うサイトも多かった
 
 1998年、バージョン８より現在のVectorWorks（バージョン2009よりVectorworksと表記）に改称。
 
@@ -34,7 +31,7 @@ Diehl Graphsoft Inc（その後Nemetschek AG（ドイツ）に買収され、Nem
 
 2008年、バージョン名を年号に。NVの意向をより反映した現行のラインナップへ。同時に高額化が進み、個人事業主や小企業では導入が難しくなった。プラグインオブジェクトも販売されるものが主流となった。Vectorworks サービスセレクトがスタート、実質的な年間契約制に。有料セミナーも頻繁に行われるようになる。
 
-2015年3月現在、最新バージョンは2015（Version 20.0に相当）。Mac版はVersion 12.5以降で[Intel Mac](../Page/Intel_Mac.md "wikilink")（[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製[プロセッサ](../Page/プロセッサ.md "wikilink")を搭載したMac）にも対応している。
+2020年1月現在、最新バージョンは2020（Version 25.0に相当）。Mac版はVersion 12.5以降で[Intel Mac](../Page/Intel_Mac.md "wikilink")（[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製[プロセッサ](../Page/プロセッサ.md "wikilink")を搭載したMac）にも対応している。
 
 ## レンダラー
 

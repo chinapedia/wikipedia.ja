@@ -1,9 +1,9 @@
 > この記事は[Disintegration](https://ja.wikipedia.org/wiki/Disintegration)から翻訳されています。
 
 
-**disintegration**（ディスインテグレーション）は、[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された[I've](../Page/I've.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")アルバム。
+**Disintegration**（ディスインテグレーション）は、[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された[I've](../Page/I've.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")アルバム。
 
-I've Girls Compilationシリーズ第3弾。価格は2,940円。品番はICD-66005。前作同様ソフトウェアを取り扱っている店舗のみでの発売となった。disintegrationとは日本語で「崩壊」という意味で、ジャケットは大きくI'veのロゴマークが崩壊しそうな様に映っている。 またこのCDのブックレットと裏ジャケットに記載されている収録曲名がI've公式サイトに記載されている収録曲名と数多く間違いがある。 主な誤字脱字は以下の通りである。
+I've Girls Compilationシリーズ第3弾。価格は2,940円。品番はICD-66005。前作同様ソフトウェアを取り扱っている店舗のみでの発売となった。アルバムタイトルの「Disintegration」とは日本語で「崩壊」という意味で、ジャケットは大きくI'veのロゴマークが崩壊しそうな様に描かれている。 またこのCDのブックレットと裏ジャケットに記載されている収録曲名がI've公式サイトに記載されている収録曲名と数多く間違いがある。 主な誤字脱字は以下の通りである。
 
 1.  涙の誓い -Album Mix- ／ブックレットと裏ジャケットには「-Album mix-」と記載されていない。
 2.  Wing my Way -Album Mix- ／ブックレットと裏ジャケットには「-Album mix-」と記載されていない。
@@ -42,8 +42,8 @@ I've Girls Compilationシリーズ第3弾。価格は2,940円。品番はICD-660
       - 作詞：[元長柾木](../Page/元長柾木.md "wikilink")／作曲・編曲：高瀬一矢
 12. **Disintegration／[Lia](../Page/Lia.md "wikilink")**
       - 作詞：Ben／作曲・編曲：高瀬一矢
-13. **王子よ-月の裏から-／[島宮えい子](../Page/島みやえい子.md "wikilink")**
-      - 作詞：[MELL](https://ja.wikipedia.org/wiki/MELL "wikilink")／作曲・編曲：[中坪淳彦](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")
+13. **王子よ-月の裏から-／島宮えい子**
+      - 作詞：MELL／作曲・編曲：[中坪淳彦](https://ja.wikipedia.org/wiki/中坪淳彦 "wikilink")
 
 ## タイアップ
 

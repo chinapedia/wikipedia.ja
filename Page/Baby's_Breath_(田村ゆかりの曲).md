@@ -1,7 +1,7 @@
 > この記事は[Baby\'s Breath \(田村ゆかりの曲\)](https://ja.wikipedia.org/wiki/Baby\'s_Breath_\(田村ゆかりの曲\))から翻訳されています。
 
 
-「**Baby's Breath**」（ベイビーズ・ブレス）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") 、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
+「**Baby's Breath**」（ベイビーズ・ブレス）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）。
 
 ## 解説
 

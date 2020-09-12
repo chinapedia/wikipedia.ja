@@ -43,7 +43,7 @@
 
   - [Hytera Communications Corp.Ltd](http://hyteraems.com)（中国）
 
-  - [沖電気工業](https://www.oki.com/jp/Advanced-ems/)\[10\](日本)
+  - [沖電気工業](../Page/沖電気工業.md "wikilink")\[10\](日本)
 
 ## 地域性
 

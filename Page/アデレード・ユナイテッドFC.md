@@ -63,11 +63,13 @@
 
 ## 歴代監督
 
+  - [ジョン・コズミーナ](https://ja.wikipedia.org/wiki/ジョン・コズミーナ "wikilink") 2003-2007
+
   - [アウレリオ・ヴィドマー](../Page/アウレリオ・ヴィドマー.md "wikilink") 2007-2010
 
   - [リニ・クーレン](https://ja.wikipedia.org/wiki/リニ・クーレン "wikilink") 2010-2011
 
-  - [ジョン・コズミーナ](https://ja.wikipedia.org/wiki/ジョン・コズミーナ "wikilink") 2011-2013
+  - ジョン・コズミーナ 2011-2013
 
   - [ジョセフ・ゴンボウ](https://ja.wikipedia.org/wiki/ジョセフ・ゴンボウ "wikilink") 2013-2015
 
@@ -75,7 +77,7 @@
 
   - [マルコ・クルツ](https://ja.wikipedia.org/wiki/マルコ・クルツ "wikilink") 2017-2019
 
-  - [ヘルトヤン・フェルベーク](https://ja.wikipedia.org/wiki/ヘルトヤン・フェルベーク "wikilink") 2019-
+  - [ヘルトヤン・フェルベーク](https://ja.wikipedia.org/wiki/ヘルトヤン・フェルベーク "wikilink") 2019-2020
 
 ## 歴代所属選手
 

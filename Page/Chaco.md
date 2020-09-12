@@ -24,10 +24,8 @@
   - ひまわり（スターツ出版、2008年6月）ISBN 978-4-88381-078-9
   - 3LDKの城（[小学館](../Page/小学館.md "wikilink")、2008年12月）ISBN 978-4-09386-242-4
   - ティアラ（スターツ出版、2009年2月 - 2010年10月）
-
-:\# ISBN 978-4-88381-094-9
-
-:\# ISBN 978-4-88381-127-4
+    1.  ISBN 978-4-88381-094-9
+    2.  ISBN 978-4-88381-127-4
 
 ### web連載作品
 
@@ -36,15 +34,8 @@
 ### コミック
 
   - 天使がくれたもの（[講談社](../Page/講談社.md "wikilink")、2007年7月 - 11月）画：[木村文子](https://ja.wikipedia.org/wiki/木村文子 "wikilink")
-
-:\# ISBN 4-06-372325-9
-
-:\# ISBN 4-06-372385-2
-
+    1.  ISBN 4-06-372325-9
+    2.  ISBN 4-06-372385-2
   - 空-sora（小学館、2007年9月）画：[水谷愛](https://ja.wikipedia.org/wiki/水谷愛 "wikilink") ISBN 4-09-131398-1
-
-## 外部リンク
-
-  - [Chacoオフィシャルサイト](http://www.chaco285.jp/)
 
 [Category:21世紀日本の女性著作家](https://ja.wikipedia.org/wiki/Category:21世紀日本の女性著作家 "wikilink") [Category:日本の女性小説家](https://ja.wikipedia.org/wiki/Category:日本の女性小説家 "wikilink") [Category:ケータイ小説家](https://ja.wikipedia.org/wiki/Category:ケータイ小説家 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

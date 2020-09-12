@@ -35,6 +35,247 @@
   - **[ジョアン・ガンペール杯](https://ja.wikipedia.org/wiki/ジョアン・ガンペール杯 "wikilink")：1回**
       - 1989
 
+## 過去の成績
+
+| シーズン    | ディビジョン                                                                    | プレーオフ | [ベルギーカップ](https://ja.wikipedia.org/wiki/ベルギーカップ "wikilink") |
+| ------- | ------------------------------------------------------------------------- | ----- | ----------------------------------------------------------- |
+| リーグ     | 試                                                                         | 勝     | 分                                                           |
+| 2007-08 | [ジュピラー・プロ・リーグ](../Page/ベルギー・ファースト・ディビジョンA.md "wikilink")                  | 34    | 10                                                          |
+| 2008-09 | ジュピラー・プロ・リーグ                                                              | 34    | 12                                                          |
+| 2009-10 | ジュピラー・プロ・リーグ                                                              | 28    | 12                                                          |
+| 2010-11 | ジュピラー・プロ・リーグ                                                              | 30    | 13                                                          |
+| 2011-12 | ジュピラー・プロ・リーグ                                                              | 30    | 10                                                          |
+| 2012-13 | ジュピラー・プロ・リーグ                                                              | 30    | 12                                                          |
+| 2013-14 | ジュピラー・プロ・リーグ                                                              | 30    | 8                                                           |
+| 2014-15 | ジュピラー・プロ・リーグ                                                              | 30    | 10                                                          |
+| 2015-16 | ジュピラー・プロ・リーグ                                                              | 30    | 10                                                          |
+| 2016-17 | ジュピラー・プロ・リーグ                                                              | 30    | 14                                                          |
+| 2017-18 | ジュピラー・プロ・リーグ                                                              | 30    | 6                                                           |
+| 2018-19 | [プロキシマス・リーグ](https://ja.wikipedia.org/wiki/ベルギー・ファースト・ディビジョンB "wikilink") | 28    | 17                                                          |
+| 2019-20 | ジュピラー・プロ・リーグ                                                              | 29    | 13                                                          |
+| 2020-21 | ジュピラー・プロ・リーグ                                                              | 30    |                                                             |
+
+## 欧州の成績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>シーズン</p></th>
+<th><p>大会</p></th>
+<th><p>ラウンド</p></th>
+<th><p>対戦相手</p></th>
+<th><p>ホーム</p></th>
+<th><p>アウェー</p></th>
+<th><p>合計</p></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1987-88</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1987-88" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="../Page/FCディナモ・ブカレスト.md" title="wikilink">ディナモ・ブカレスト</a></p></td>
+<td><p>1-0</p></td>
+<td><p>2-0</p></td>
+<td><p>'''3-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2回戦</p></td>
+<td><p><a href="../Page/セント・ミレンFC.md" title="wikilink">セント・ミレン</a></p></td>
+<td><p>0-0</p></td>
+<td><p>2-0</p></td>
+<td><p>'''2-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td><p><a href="../Page/FCディナモ・ミンスク.md" title="wikilink">ディナモ・ミンスク</a></p></td>
+<td><p>1-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>準決勝</p></td>
+<td><p><a href="../Page/アタランタBC.md" title="wikilink">アタランタ</a></p></td>
+<td><p>2-1</p></td>
+<td><p>2-1</p></td>
+<td><p>'''4-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>決勝</p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
+<td><p>'''1-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1988</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAスーパーカップ_1988" title="wikilink">UEFAスーパーカップ</a></p></td>
+<td><p>決勝</p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
+<td><p>3-0</p></td>
+<td><p>0-1</p></td>
+<td><p>'''3-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1988-89</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1988-89" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCアヴェニール・ベッゲン" title="wikilink">アヴェニール・ベッゲン</a></p></td>
+<td><p>5-0</p></td>
+<td><p>3-1</p></td>
+<td><p>'''8-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2回戦</p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
+<td><p>1-0</p></td>
+<td><p>2-0</p></td>
+<td><p>'''3-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p>1-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''1-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>準決勝</p></td>
+<td><p><a href="../Page/UCサンプドリア.md" title="wikilink">サンプドリア</a></p></td>
+<td><p>2-1</p></td>
+<td><p>0-3</p></td>
+<td><p>'''2-4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1989-90</p></td>
+<td><p><a href="../Page/UEFAチャンピオンズカップ_1989-90.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="../Page/ローゼンボリBK.md" title="wikilink">ローゼンボリ</a></p></td>
+<td><p>5-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''5-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2回戦</p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
+<td><p>4-1</p></td>
+<td><p>0-0</p></td>
+<td><p>'''4-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ACミラン" title="wikilink">ミラン</a></p></td>
+<td><p>0-0</p></td>
+<td><p>0-2<br />
+(<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
+<td><p>'''0-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1990-91</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1990-91" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
+<td><p>2-2</p></td>
+<td><p>0-1</p></td>
+<td><p>'''2-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>1991-92</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1991-92" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PAOK_FC" title="wikilink">PAOK</a></p></td>
+<td><p>0-1</p></td>
+<td><p>1-1</p></td>
+<td><p>'''1-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1992-93</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1992-93" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エーレブルーSK" title="wikilink">エーレブルーSK</a></p></td>
+<td><p>2-1</p></td>
+<td><p>0-0</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2回戦</p></td>
+<td><p><a href="../Page/フィテッセ.md" title="wikilink">フィテッセ</a></p></td>
+<td><p>0-1</p></td>
+<td><p>0-1</p></td>
+<td><p>'''0-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1993-94</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1993-94" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/IFKノルシェーピン" title="wikilink">IFKノルシェーピン</a></p></td>
+<td><p>1-1<br />
+(a.e.t.)</p></td>
+<td><p>1-0</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2回戦</p></td>
+<td><p><a href="../Page/MTKブダペストFC.md" title="wikilink">MTKブダペスト</a></p></td>
+<td><p>5-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''6-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3回戦</p></td>
+<td><p><a href="../Page/カリアリ・カルチョ.md" title="wikilink">カリアリ</a></p></td>
+<td><p>1-3</p></td>
+<td><p>0-2</p></td>
+<td><p>'''1-5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 現所属メンバー
 
 ## 歴代監督
@@ -78,6 +319,8 @@
   - [マルク・ヴィルモッツ](../Page/マルク・ヴィルモッツ.md "wikilink") 1988-1991
 
   - [アドリエ・ボヘルス](https://ja.wikipedia.org/wiki/アドリエ・ボヘルス "wikilink") 1990-1992
+
+  - [トム・カルウェー](https://ja.wikipedia.org/wiki/トム・カルウェー "wikilink") 1996-2000
 
   - [ホセ・デル・ソラール](https://ja.wikipedia.org/wiki/ホセ・デル・ソラール "wikilink") 2000-2001
 

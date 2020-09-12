@@ -9,6 +9,10 @@ TBS系ドラマ「青い鳥」主題歌である。
 
 タイトルの意味は「さまよえる運命」で、一緒になりたくてもなれない男女をうたった楽曲である。 小室が脚本を読んで、物語に沿って作詞した。
 
+当時、小室哲哉と[エイベックスが対立して内部分裂状態だったため](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、きちんとしたPVは制作されておらず、テレビでのプロモーション活動も行われなかった。
+
+約88万枚を売り上げる自身6番目のヒットとなったが、オリコン2位となっている。（1位は[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の最大ヒット曲「[White Love](../Page/White_Love_\(SPEEDの曲\).md "wikilink")」）
+
 ## 収録曲
 
 1.  **Wanderin' Destiny (STRAIGHT RUN)**

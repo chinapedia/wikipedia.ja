@@ -881,7 +881,7 @@ dヒッツ 「夜の街」 篇</p></td>
   - [坂本龍一](../Page/坂本龍一.md "wikilink")（[SC-01B](https://ja.wikipedia.org/wiki/SC-01B "wikilink")） - 同社のソフトバンクモバイル向け端末のCMにも出演していた。
   - デビッド・ベッカム（[GALAXY S III](https://ja.wikipedia.org/wiki/SC-06D "wikilink")） - [ロンドンオリンピック開催中に期間限定でグローバルイメージキャラクターとして起用されていた](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")。
   - [長瀬智也](../Page/長瀬智也.md "wikilink") (Galaxy S7 Edge)
-  - [山崎賢人](https://ja.wikipedia.org/wiki/山崎賢人 "wikilink")
+  - [山﨑賢人](https://ja.wikipedia.org/wiki/山﨑賢人 "wikilink")
 
 <!-- end list -->
 

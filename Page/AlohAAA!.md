@@ -1,7 +1,7 @@
 > この記事は[AlohAAA!](https://ja.wikipedia.org/wiki/AlohAAA!)から翻訳されています。
 
 
-『**alohAAA\!**』（アロハ\!）は、[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")3枚目の[ミニアルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**alohAAA\!**』（アロハ\!）は、[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")3枚目の[ミニ・アルバム](../Page/コンパクト盤.md "wikilink")。
 
 ## 解説
 

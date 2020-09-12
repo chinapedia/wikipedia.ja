@@ -29,21 +29,7 @@
   - [2019年](../Page/2019年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - [真田哲弥](../Page/真田哲弥.md "wikilink")が社長を退任し取締役会長に就任。後任として専務取締役CCO\[26\]だった[森田英克](https://ja.wikipedia.org/wiki/森田英克 "wikilink")が代表取締役社長CEOに就任\[27\]\[28\]
   - 2019年[11月20日](../Page/11月20日.md "wikilink") - シンガポールの100％出資連結子会社KLab Global Pte. Ltd.を解散及び清算\[29\]
   - [2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink") - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")PRキャラクター「[くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")」を使用したゲーム開発に関するグローバルライセンス契約を締結\[30\]
-
-## 役員
-
-**[真田 哲弥](../Page/真田哲弥.md "wikilink")**（さなだ てつや、[1964年](../Page/1964年.md "wikilink")生 - ）、取締役会長。前代表取締役CEO、[大阪星光学院高等学校](https://ja.wikipedia.org/wiki/大阪星光学院高等学校 "wikilink")卒、[関西学院大学経済学部](https://ja.wikipedia.org/wiki/関西学院大学経済学部 "wikilink")中退。
-
-  - [1986年](../Page/1986年.md "wikilink") 合宿制の運転免許学校の斡旋所マイライセンスを開業
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") マイライセンスを法人化し株式会社[リョーマ設立](../Page/リョーマ_\(ベンチャー\).md "wikilink")、代表取締役社長
-  - [1989年](../Page/1989年.md "wikilink") 株式会社[ダイヤルキューネットワーク](https://ja.wikipedia.org/wiki/ダイヤルキューネットワーク "wikilink")設立、代表取締役専務
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") 株式会社アクセス（現[ACCESS](../Page/ACCESS_\(企業\).md "wikilink")）入社
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") 株式会社[サイバードを設立](https://ja.wikipedia.org/wiki/サイバードホールディングス "wikilink")、取締役副社長＆CTO
-  - [2000年](../Page/2000年.md "wikilink") サイバードのR＆D部門として株式会社ケイ・ラボラトリー（現KLab株式会社）を設立、当初は取締役副社長(社長は畠田喜丈)
-  - [2001年](../Page/2001年.md "wikilink") 株式会社ケイ・ラボラトリー代表取締役社長＆CEO
-  - [2005年](../Page/2005年.md "wikilink") 電子金券開発株式会社取締役会長、KLabセキュリティ株式会社取締役会長に就任
-  - [2018年](../Page/2018年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 代表取締役会長兼社長CEOに就任
-  - [2019年](../Page/2019年.md "wikilink")3月 取締役会長に就任（現任）
+  - [2020年](../Page/2020年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - 岡山事業所を株式会社[まかねソフト](https://ja.wikipedia.org/wiki/まかねソフト "wikilink")として分社化し、翌8月1日付でまかねソフト全株式を株式会社さくらソフトへ譲渡する予定\[31\]。
 
 ## 開発実績
 
@@ -60,7 +46,7 @@
   - [KLab Entertainment](http://www.klabentertainment.com/index.html)
 
   -
-[Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:オンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:オンラインゲーム運営元 "wikilink") [Category:2011年上場の企業](https://ja.wikipedia.org/wiki/Category:2011年上場の企業 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:六本木](https://ja.wikipedia.org/wiki/Category:六本木 "wikilink")
+[Category:KLab](https://ja.wikipedia.org/wiki/Category:KLab "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:オンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:オンラインゲーム運営元 "wikilink") [Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:2011年上場の企業](https://ja.wikipedia.org/wiki/Category:2011年上場の企業 "wikilink") [Category:六本木](https://ja.wikipedia.org/wiki/Category:六本木 "wikilink")
 
 1.   KLab株式会社|accessdate=2019年3月27日|publisher=}}
 2.
@@ -92,3 +78,4 @@
 28. “[第19回定時株主総会決議ご通知](https://ssl4.eir-parts.net/doc/3656/ir_material5/114054/00.pdf)”. 2019年7月12日閲覧。
 29. "[連結子会社の解散及び清算並びに債権の取立不能に関するお知らせ](https://ssl4.eir-parts.net/doc/3656/tdnet/1773012/00.pdf)". 2020年2月12日閲覧。
 30. "[KLab、「くまモン」を使用したゲーム開発に関するグローバルライセンス契約を締結](https://www.klab.com/jp/press/detail/id=6617?date=2020)". 2020年2月12日閲覧。
+31. [会社分割（簡易新設分割）及び新設会社の株式譲渡に関するお知らせ](https://ssl4.eir-parts.net/doc/3656/tdnet/1849884/00.pdf)2020年6月18日閲覧

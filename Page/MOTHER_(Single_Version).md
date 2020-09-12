@@ -25,11 +25,15 @@
 ## 収録アルバム
 
   - **MOTHER**
-      - [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink") （1994年10月26日、MVCD-15）
-      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink") （1997年12月17日、MVCD-34）
-      - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink") （1999年5月29日、MVCH-30007）
-      - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink") （2005年3月23日、UPCH-1394）
-      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")（2014.5.28・UPCH-1982/3）
+      - [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink")
+      - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")
+  - **Déjàvu (Live Version)**
+      - [NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")
 
 ## 参考文献・出典
 

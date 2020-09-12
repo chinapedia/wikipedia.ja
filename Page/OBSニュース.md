@@ -7,11 +7,11 @@
 
 ### 放送時間
 
-2017年時点での放送スケジュール。
+2020年時点での放送スケジュール。
 
 #### 平日
 
-  - 7:41頃（[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")に内包）
+  - 7:57頃（[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")に内包）
   - 10:15頃（[おはようナイスキャッチ](../Page/おはようナイスキャッチ.md "wikilink")に内包）
   - 11:50 - 11:53.25（[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")に内包）
   - 15:46 - 15:50

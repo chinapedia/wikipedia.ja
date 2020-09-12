@@ -1,7 +1,7 @@
 > この記事は[MOVING FILE](https://ja.wikipedia.org/wiki/MOVING_FILE)から翻訳されています。
 
 
-**MOVING FILE**（ムービング ファイル）は、[エフエム京都](../Page/エフエム京都.md "wikilink")（α-STATION）で平日の夕方に放送されている[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[DJは](../Page/ディスクジョッキー.md "wikilink")[秋田美幸](https://ja.wikipedia.org/wiki/秋田美幸 "wikilink")。[2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の番組改編に伴い、一旦終了したが、2016年4月の番組改編で復活。
+**MOVING FILE**（ムービング ファイル）は、[エフエム京都](../Page/エフエム京都.md "wikilink")（α-STATION）で平日の夕方に放送されている[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[DJは](../Page/ディスクジョッキー.md "wikilink")[西田育弘](https://ja.wikipedia.org/wiki/西田育弘_\(DJ\) "wikilink")([月](../Page/月曜日.md "wikilink")・[火](../Page/火曜日.md "wikilink"))と[秋田美幸](https://ja.wikipedia.org/wiki/秋田美幸 "wikilink")([水](../Page/水曜日.md "wikilink")・[木](../Page/木曜日.md "wikilink"))。 [2012年](../Page/2012年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の番組改編に伴い、一旦終了したが、2016年4月の番組改編で復活。
 
 ## 放送時間
 

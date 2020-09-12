@@ -1,13 +1,13 @@
 > この記事は[スズキ・XL7](https://ja.wikipedia.org/wiki/スズキ・XL7)から翻訳されています。
 
 
-[1st_Suzuki_XL-7.jpg](https://ja.wikipedia.org/wiki/File:1st_Suzuki_XL-7.jpg "fig:1st_Suzuki_XL-7.jpg") [2004.suzuki.grand.vitara.2point0td.arp.jpg](https://ja.wikipedia.org/wiki/File:2004.suzuki.grand.vitara.2point0td.arp.jpg "fig:2004.suzuki.grand.vitara.2point0td.arp.jpg") **XL7**（初代はXL-7）は[スズキが日本国外で製造](../Page/スズキ_\(企業\).md "wikilink")・販売している3列シート[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。
+**XL7**（初代はXL-7）は[スズキが日本国外で製造](../Page/スズキ_\(企業\).md "wikilink")・販売している3列シート[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。 {{-}}
 
 ## 歴史
 
 ### 初代（1998年-2006年）
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に2代目[エスクードをベースにホイールベースを延長し](../Page/スズキ・エスクード.md "wikilink")、[H27A型](https://ja.wikipedia.org/wiki/スズキ・H型エンジン "wikilink")[V型6気筒](../Page/V型6気筒.md "wikilink")2.7Lエンジンを搭載した3列シートSUVとして登場。日本では[グランドエスクードとして発売された](../Page/スズキ・グランドエスクード.md "wikilink")。
+[1st_Suzuki_XL-7.jpg](https://ja.wikipedia.org/wiki/File:1st_Suzuki_XL-7.jpg "fig:1st_Suzuki_XL-7.jpg") [2004-06_Suzuki_XL-7.jpg](https://ja.wikipedia.org/wiki/File:2004-06_Suzuki_XL-7.jpg "fig:2004-06_Suzuki_XL-7.jpg") [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に2代目[エスクードをベースにホイールベースを延長し](../Page/スズキ・エスクード.md "wikilink")、[H27A型](https://ja.wikipedia.org/wiki/スズキ・H型エンジン "wikilink")[V型6気筒](../Page/V型6気筒.md "wikilink")2.7Lエンジンを搭載した3列シートSUVとして登場。日本では[グランドエスクードとして発売された](../Page/スズキ・グランドエスクード.md "wikilink")。 {{-}}
 
 ### 2代目（2006年-2009年）
 
@@ -19,13 +19,13 @@
 
 [2007年](../Page/2007年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[CAMIオートモーティブ](../Page/CAMIオートモーティブ.md "wikilink")で製造開始。但しエンジンは相良工場（[静岡県](../Page/静岡県.md "wikilink")[牧之原市](../Page/牧之原市.md "wikilink")）製 \[1\]。
 
-しかし、同年からの原油価格高騰に伴うガソリン価格上昇や[世界金融危機の影響による大型車の販売不振の影響で](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、XL7の販売台数も大幅に減少していることから、同社では2008年中にXL7の生産を休止した。生産再開の予定は当初「未定」とされてきたが\[2\]、[2009年](../Page/2009年.md "wikilink")12月に生産拠点であったCAMIオートモーティブの全株式をGMが取得することが発表されたため\[3\]、これにより事実上XL7の生産中止が決定した。
+しかし、同年からの原油価格高騰に伴うガソリン価格上昇や[世界金融危機の影響による大型車の販売不振の影響で](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、XL7の販売台数も大幅に減少していることから、同社では2008年中にXL7の生産を休止した。生産再開の予定は当初「未定」とされてきたが\[2\]、[2009年](../Page/2009年.md "wikilink")12月に生産拠点であったCAMIオートモーティブの全株式をGMが取得することが発表されたため\[3\]、これにより事実上XL7の生産中止が決定した。 {{-}}
 
 ### 3代目（2020年 - ）
 
 [2020年](../Page/2020年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に、スズキの[インドネシア](../Page/インドネシア.md "wikilink")子会社であるスズキ・インドモービル・モーターがXL7を発表\[4\]。約11年ぶりとなる車名復活となった。
 
-2代目[エルティガをベースにフロントフェイスが刷新され](https://ja.wikipedia.org/wiki/スズキ・エルティガ "wikilink")、フェンダーモールなどSUVの要素を持つデザインと多彩なシートアレンジやゆとりのある室内空間といったMPVの利便性を融合させたクロスオーバーモデルとなり、3列シート・7人乗りとなる。なお、[インド](../Page/インド.md "wikilink")の[マルチ・スズキ・インディア](../Page/マルチ・スズキ・インディア.md "wikilink")では同型のモデルが「XL6」の車名で2019年秋より先行して販売されている。
+2代目[エルティガをベースにフロントフェイスが刷新され](https://ja.wikipedia.org/wiki/スズキ・エルティガ "wikilink")、フェンダーモールなどSUVの要素を持つデザインと多彩なシートアレンジやゆとりのある室内空間といったMPVの利便性を融合させたクロスオーバーモデルとなり、3列シート・7人乗りとなる。なお、[インド](../Page/インド.md "wikilink")の[マルチ・スズキ・インディア](../Page/マルチ・スズキ・インディア.md "wikilink")では同型のモデルが高級車チャネル「ネクサ」にて「XL6」の車名で2019年秋より先行して販売されている。
 
 2代目モデルと比べボディサイズ・エンジン共に[ダウンサイジング](../Page/ダウンサイジング.md "wikilink")され、エンジンは1.5Lガソリンの[K15B型を搭載](../Page/スズキ・K型エンジン.md "wikilink")\[5\]（ただし、2代目エルティガに搭載されている仕様よりも出力・トルク共に向上されている）。トランスミッションは4速ATに加え、5速[MTが設定された](../Page/マニュアルトランスミッション.md "wikilink")。プラットフォームには軽量・高剛性設計の「HEARTECT（ハーテクト）」を採用している。
 

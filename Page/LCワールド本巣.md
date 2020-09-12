@@ -9,7 +9,7 @@
 
 ## 概要
 
-[1992年](../Page/1992年.md "wikilink")（平成4年）[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に当時の[本巣郡](../Page/本巣郡.md "wikilink")[真正町](../Page/真正町.md "wikilink")に開店。2階建の本館のほか、[フィットネスクラブ](../Page/フィットネスクラブ.md "wikilink")や医療専門のウェルネスモール、その他の単独店舗で構成され、敷地面積は100,000[m<sup>2</sup>](../Page/平方メートル.md "wikilink")、延床面積は36,000m<sup>2</sup>、売場面積は26,175m<sup>2</sup>。近くにある[リバーサイドモール](../Page/リバーサイドモール.md "wikilink")と合わせて6,400台の無料駐車場があった（なお、リバーサイドモールの敷地[差押](../Page/差押.md "wikilink")えにより縮小されている）。
+[1992年](../Page/1992年.md "wikilink")（平成4年）[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に当時の[本巣郡](../Page/本巣郡.md "wikilink")[真正町](../Page/真正町.md "wikilink")に開店。2階建の本館のほか、[フィットネスクラブ](../Page/フィットネスクラブ.md "wikilink")や医療専門のウェルネスモール、その他の単独店舗で構成され、敷地面積は100,000[m<sup>2</sup>](../Page/平方メートル.md "wikilink")、延床面積は36,000m<sup>2</sup>、売場面積は26,175m<sup>2</sup>。近くにある[リバーサイドモール](../Page/リバーサイドモール.md "wikilink")と合わせて6,400台の無料駐車場があった。なお、リバーサイドモールの敷地[差押](../Page/差押.md "wikilink")えにより縮小されている。
 
 当初の[キーテナント](https://ja.wikipedia.org/wiki/キーテナント "wikilink")は[イズミヤ](../Page/イズミヤ.md "wikilink")で、後に[食料品](https://ja.wikipedia.org/wiki/食料品 "wikilink")は[トミダヤ](../Page/トミダヤ.md "wikilink")に変更され、イズミヤは[衣料品](https://ja.wikipedia.org/wiki/衣料品 "wikilink")等のみに縮小。さらに[2009年](../Page/2009年.md "wikilink")（平成21年）[1月31日](../Page/1月31日.md "wikilink")をもってイズミヤは全面撤退した。同年[4月26日](../Page/4月26日.md "wikilink")にイズミヤが撤退した場所を利用して「平成[楽市楽座](https://ja.wikipedia.org/wiki/楽市楽座 "wikilink")」が開店したが、その後閉店している。
 
@@ -19,9 +19,9 @@
 
 [2016年](../Page/2016年.md "wikilink")（平成28年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")でトミダヤも営業規模を大幅に縮小し、[タマネギ](../Page/タマネギ.md "wikilink")の無人販売所が残るのみになっていた。これは運営会社との取り決めで、最低でもひとつは商品を売る必要があったためで、無人販売に適したタマネギを売っていたという\[4\]\[5\]。[2016年](../Page/2016年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")付で無人販売も撤退し、本館は閉鎖された\[6\]。
 
-[2017年](../Page/2017年.md "wikilink")に本館は解体された。なお、ウェルネスモールおよび西エリアには、2017年現在も営業している店舗がある。また、西エリアの一部は[東海環状自動車道](../Page/東海環状自動車道.md "wikilink")が通る予定のため、用地確保のため本館閉鎖前に解体されび更地にされた場所がある</ref name-akind />。
+[2017年](../Page/2017年.md "wikilink")に本館は解体された。なお、ウェルネスモールおよび西エリアには、2017年現在も営業している店舗がある。また、西エリアの一部は[東海環状自動車道](../Page/東海環状自動車道.md "wikilink")が通る予定のため、用地確保のため本館閉鎖前に解体されび更地にされた場所がある\[7\]。
 
-[2018年](../Page/2018年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に本館跡地に、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")の[大黒天物産](../Page/大黒天物産.md "wikilink")が運営する[ディスカウントショップ](https://ja.wikipedia.org/wiki/ディスカウントショップ "wikilink")「[ラ・ムー](https://ja.wikipedia.org/wiki/ラ・ムー "wikilink")本巣店」\[7\]と[セリアLCワールド本巣店](../Page/セリア_\(100円ショップ\).md "wikilink")\[8\]をオープンし、**LCワールド本巣（2代目）**として再始動した。同年5月には[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")、7月には[ドラッグストア](../Page/ドラッグストア.md "wikilink")の[ゲンキー](../Page/ゲンキー.md "wikilink")がそれぞれオープンした。
+[2018年](../Page/2018年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に本館跡地に、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")の[大黒天物産](../Page/大黒天物産.md "wikilink")が運営する[ディスカウントショップ](https://ja.wikipedia.org/wiki/ディスカウントショップ "wikilink")「[ラ・ムー](https://ja.wikipedia.org/wiki/ラ・ムー "wikilink")本巣店」\[8\]と[セリアLCワールド本巣店](../Page/セリア_\(100円ショップ\).md "wikilink")\[9\]をオープンし、**LCワールド本巣（2代目）**として再始動した。同年5月には[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")、7月には[ドラッグストア](../Page/ドラッグストア.md "wikilink")の[ゲンキー](../Page/ゲンキー.md "wikilink")がそれぞれオープンした。
 
 ## 主なテナント
 
@@ -91,5 +91,6 @@
 4.  [巨大モール「LCワールド本巣」廃墟っぷりが大注目 残ったのは「タマネギ無人販売」](http://www.j-cast.com/2016/09/12277878.html)J-CASTニュース、2016年9月12日
 5.  [【大人の事情か】玉ねぎの無人販売所となったショッピングモールの怪](https://new.akind.center/201809/tamanegi/) 商売人×ECを考えるWebメディア ニューアキンドセンター、2018年9月11日
 6.  [Twitter](https://twitter.com/yogoren/status/792656863032545280)
-7.  [【開店】ラ・ムー本巣店 岐阜県本巣市 2018年4月19日（木）オープン](https://kaiten-heiten.com/lamu-motosu-2/) 開店閉店.com、2018-04-18
-8.  [店舗検索 - LCワールド本巣店](https://www.seria-group.com/shop/detail.html?code=000002076) セリア公式サイト
+7.
+8.  [【開店】ラ・ムー本巣店 岐阜県本巣市 2018年4月19日（木）オープン](https://kaiten-heiten.com/lamu-motosu-2/) 開店閉店.com、2018-04-18
+9.  [店舗検索 - LCワールド本巣店](https://www.seria-group.com/shop/detail.html?code=000002076) セリア公式サイト

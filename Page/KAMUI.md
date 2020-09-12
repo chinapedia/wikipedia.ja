@@ -33,7 +33,7 @@
   - 蓮見空穂
     声：森川智之 / 少年時代：[宮野真守](../Page/宮野真守.md "wikilink")
   - 虎杖丸
-    声：[朴璐美](../Page/朴ロ美.md "wikilink")
+    声：[朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")
     お子様カムイ。
   - 鈴村杏
     声：[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")

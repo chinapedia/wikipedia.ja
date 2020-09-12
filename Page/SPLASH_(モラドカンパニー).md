@@ -1212,7 +1212,7 @@ CDデビュー前に、既に持ち歌が4曲あった。
   - ARU （[葛岡有](http://morado.jp/girls/kuzuokaaru.html)）
   - MAYA （[渥美摩弥](http://morado.jp/girls/atsumimaya.html)）
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:東北地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:東北地方のローカルアイドル "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:東北地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:東北地方のローカルアイドル "wikilink")
 
 1.
 2.

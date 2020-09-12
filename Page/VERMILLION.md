@@ -3,7 +3,7 @@
 
 **VERMILLION**（バーミリオン）は、[ビーイング](../Page/ビーイング.md "wikilink")傘下の[芸能事務所](../Page/芸能事務所.md "wikilink")で[B'z](../Page/B'z.md "wikilink")の個人事務所。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に当社の前身であるB'zの個人事務所[B.U.M](https://ja.wikipedia.org/wiki/B'z#B+U+M "wikilink")\[1\]を設立。
+1990年11月16日に当社の前身であるB'zの個人事務所[B.U.M](https://ja.wikipedia.org/wiki/B'z#B+U+M "wikilink")\[1\]\[2\]を設立。
 
 専用レコードレーベルに[VERMILLION RECORDSがある](../Page/VERMILLION_RECORDS.md "wikilink")。
 
@@ -26,3 +26,4 @@
 [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:B'z](https://ja.wikipedia.org/wiki/Category:B'z "wikilink")
 
 1.
+2.

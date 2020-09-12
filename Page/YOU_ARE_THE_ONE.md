@@ -1,7 +1,7 @@
 > この記事は[YOU ARE THE ONE](https://ja.wikipedia.org/wiki/YOU_ARE_THE_ONE)から翻訳されています。
 
 
-「**YOU ARE THE ONE**」（ユー・アー・ザ・ワン）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に発売された**TK presents こねっと**\[1\]のシングル。発売元は[こねっとプラン事務局](../Page/電通.md "wikilink")\[2\]。規格品番は、KPDD-*20171\[3\]*
+「**YOU ARE THE ONE**」（ユー・アー・ザ・ワン）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に発売された**TK presents こねっと**\[1\]のシングル。発売元は[こねっとプラン事務局](../Page/電通.md "wikilink")\[2\]。規格品番はKPDD-*20171\[3\]*。
 
 ## 概要
 

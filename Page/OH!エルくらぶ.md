@@ -393,7 +393,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.tv-asahi.co.jp/olclub/)
+  - [公式サイト](https://www.tv-asahi.co.jp/olclub/)
 
 [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組の歴史 "wikilink") [Category:テレビ朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の情報・ワイドショー番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:セクシャルハラスメントを題材とした作品](https://ja.wikipedia.org/wiki/Category:セクシャルハラスメントを題材とした作品 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:草彅剛](https://ja.wikipedia.org/wiki/Category:草彅剛 "wikilink") [Category:井森美幸](https://ja.wikipedia.org/wiki/Category:井森美幸 "wikilink")
 

@@ -33,18 +33,18 @@
 
 #### 4月7日放送（1995年）
 
-| 曲名                                                                        | アーティスト                                                                                     | 概要                                                                           |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| **[光と影を抱きしめたまま](https://ja.wikipedia.org/wiki/光と影を抱きしめたまま "wikilink")**   | [田村直美](../Page/田村直美.md "wikilink")                                                         | TVアニメ「[魔法騎士レイアース](../Page/魔法騎士レイアース.md "wikilink")」3代目OP                     |
-| **[煌めく瞬間に捕われて](../Page/煌めく瞬間に捕われて.md "wikilink")**                        | [MANISH](../Page/MANISH.md "wikilink")                                                     | TVアニメ「[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")」3代目ED                     |
-| **[MASK](https://ja.wikipedia.org/wiki/MASK_\(奥井雅美/松村香澄の曲\) "wikilink")** | [奥井雅美](../Page/奥井雅美.md "wikilink")、松村香澄                                                    | TVアニメ「[爆れつハンター](../Page/爆れつハンター.md "wikilink")」ED                            |
-| **[JUST COMMUNICATION](../Page/JUST_COMMUNICATION.md "wikilink")**        | [TWO-MIX](../Page/TWO-MIX.md "wikilink")                                                   | TVアニメ「[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")」初代OP                    |
-| **[Get along](../Page/Get_along.md "wikilink")**                          | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、[奥井雅美](../Page/奥井雅美.md "wikilink") | TVアニメ「[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")」OP   |
-| **[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")**                          | [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")                                                  | TVアニメ「[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")」OP |
-| **この遊歩道が終わるまでに**                                                          | [久川綾](../Page/久川綾.md "wikilink")                                                           | ラジオ「[久川綾のSHINY NIGHT](../Page/久川綾のSHINY_NIGHT.md "wikilink")」ED              |
-| **[カントリーロード](../Page/カントリー・ロード_\(本名陽子の曲\).md "wikilink")**                | [本名陽子](../Page/本名陽子.md "wikilink")                                                         | 映画「[耳をすませば](../Page/耳をすませば.md "wikilink")」ED                                 |
-| **元気を出して節**                                                               | [国本武春](../Page/国本武春.md "wikilink")                                                         | TVアニメ「[クマのプー太郎](../Page/クマのプー太郎.md "wikilink")」ED                            |
-|                                                                           |                                                                                            |                                                                              |
+| 曲名                                                                             | アーティスト                                                                                     | 概要                                                                           |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| **[光と影を抱きしめたまま](https://ja.wikipedia.org/wiki/光と影を抱きしめたまま "wikilink")**        | [田村直美](../Page/田村直美.md "wikilink")                                                         | TVアニメ「[魔法騎士レイアース](../Page/魔法騎士レイアース.md "wikilink")」3代目OP                     |
+| **[煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")** | [MANISH](../Page/MANISH.md "wikilink")                                                     | TVアニメ「[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")」3代目ED                     |
+| **[MASK](https://ja.wikipedia.org/wiki/MASK_\(奥井雅美/松村香澄の曲\) "wikilink")**      | [奥井雅美](../Page/奥井雅美.md "wikilink")、松村香澄                                                    | TVアニメ「[爆れつハンター](../Page/爆れつハンター.md "wikilink")」ED                            |
+| **[JUST COMMUNICATION](../Page/JUST_COMMUNICATION.md "wikilink")**             | [TWO-MIX](../Page/TWO-MIX.md "wikilink")                                                   | TVアニメ「[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")」初代OP                    |
+| **[Get along](../Page/Get_along.md "wikilink")**                               | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、[奥井雅美](../Page/奥井雅美.md "wikilink") | TVアニメ「[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")」OP   |
+| **[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")**                               | [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")                                                  | TVアニメ「[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")」OP |
+| **この遊歩道が終わるまでに**                                                               | [久川綾](../Page/久川綾.md "wikilink")                                                           | ラジオ「[久川綾のSHINY NIGHT](../Page/久川綾のSHINY_NIGHT.md "wikilink")」ED              |
+| **[カントリーロード](../Page/カントリー・ロード_\(本名陽子の曲\).md "wikilink")**                     | [本名陽子](../Page/本名陽子.md "wikilink")                                                         | 映画「[耳をすませば](../Page/耳をすませば.md "wikilink")」ED                                 |
+| **元気を出して節**                                                                    | [国本武春](../Page/国本武春.md "wikilink")                                                         | TVアニメ「[クマのプー太郎](../Page/クマのプー太郎.md "wikilink")」ED                            |
+|                                                                                |                                                                                            |                                                                              |
 
 #### 4月14日放送（1996年）
 

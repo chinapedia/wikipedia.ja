@@ -143,12 +143,12 @@
 
   - [GALACTICA GOLDENBALL（レギュラーラジオ番組公式サイト）](https://web.archive.org/web/20120112082919/http://goldenball.fmfuji.co.jp/)
 
-[Category:日本の放送作家](https://ja.wikipedia.org/wiki/Category:日本の放送作家 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:熊本県出身の人物](https://ja.wikipedia.org/wiki/Category:熊本県出身の人物 "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:熊本学園大学出身の人物](https://ja.wikipedia.org/wiki/Category:熊本学園大学出身の人物 "wikilink")
+[Category:日本の放送作家](https://ja.wikipedia.org/wiki/Category:日本の放送作家 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:熊本県出身の人物](https://ja.wikipedia.org/wiki/Category:熊本県出身の人物 "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:熊本学園大学出身の人物](https://ja.wikipedia.org/wiki/Category:熊本学園大学出身の人物 "wikilink") [Category:生年不明](https://ja.wikipedia.org/wiki/Category:生年不明 "wikilink")
 
 1.  公式ブログ上では自身の名前「IQ」にかけて[1919年](../Page/1919年.md "wikilink")生と設定。
 2.
-3.  [Official Blogヨロシク☆ＩＱ「聖プレシャス学園開校」](http://ameblo.jp/iq-kanagawa/entry-11516403078.html)
+3.  [Official Blogヨロシク☆ＩＱ「聖プレシャス学園開校」](https://ameblo.jp/iq-kanagawa/entry-11516403078.html)
 4.  [ロケットニュース「【急募】アイドルユニットが Twitter で名称を募集しているぞ！ 採用されればご褒美があるぞ」](http://rocketnews24.com/2013/04/22/320210/)
-5.  [Official Blogヨロシク☆ＩＱ「あけましておめでとうございます！」」](http://ameblo.jp/iq-kanagawa/entry-11741164293.html)
+5.  [Official Blogヨロシク☆ＩＱ「あけましておめでとうございます！」」](https://ameblo.jp/iq-kanagawa/entry-11741164293.html)
 6.
 7.  2011年4月改編でNEVERMIND\!\!が終了し、金曜夜の単独枠になった。

@@ -44,9 +44,8 @@
 
   - [NTT-ATシステムズ](http://www.ntt-ats.com/)
   - [NTT-ATテクノコミュニケーションズ](http://www.ntt-atc.co.jp/)
-  - [NTT-ATアイピーシェアリング](http://www.ntt-atips.co.jp/)
-  - [NTT-ATクリエイティブ](http://www.ntt-at.co.jp/nttatcr/)
-  - [NTT-ATナノファブリケーション](http://www.ntt-at.co.jp/nttatn/)
+  - [NTT-ATアイピーエス](http://www.ntt-atips.co.jp/)
+  - [NTT-ATクリエイティブ](https://www.ntt-atcr.co.jp/)
   - [NTT-ATエムタック](http://www.mtack.co.jp/)
 
 ## 脚注

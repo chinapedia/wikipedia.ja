@@ -32,8 +32,7 @@
   -
   - [フミの株が好き！](http://www.fumie-w.com/index.html)
 
-  - [バンダイレーベル 公式サイト](http://www.bandaigames.channel.or.jp/)
-
+  -
   - [イー・トレード証券 公式サイト](https://newtrading.etrade.ne.jp/ETGate)
 
   - [松井証券 公式サイト](http://www.matsui.co.jp/)

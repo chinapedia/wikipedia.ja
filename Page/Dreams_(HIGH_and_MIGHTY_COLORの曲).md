@@ -11,17 +11,17 @@
 
 ## 収録曲
 
-1.  Dreams
+1.  **Dreams**
       -
         作詞:マーキー&ユウスケ　作曲:HIGH and MIGHTY COLOR　編曲:[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")、HIGH and MIGHTY COLOR
         [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[DARKER THAN BLACK -黒の契約者-](../Page/DARKER_THAN_BLACK_-黒の契約者-.md "wikilink")』のエンディングテーマ。
         今まで主に[ラップ](../Page/ラップ.md "wikilink")や[コーラスなどに徹していたユウスケが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、この曲ではマーキーとの[デュエット](../Page/デュエット.md "wikilink")を披露している。
         [PV内で](../Page/ミュージック・ビデオ.md "wikilink")、ボーカルのマーキーがスタイリストによって髪型をセットされている、また散髪するシーンがあり、ドラムのSASSYは[ドラムセット](../Page/ドラムセット.md "wikilink")がない状況でスティックだけを使って演奏するシーンがある。
-2.  Feel Like Dance
+2.  **Feel Like Dance**
       -
         作詞:マーキー&ユウスケ　作曲:HIGH and MIGHTY COLOR　編曲:[渡辺未来](../Page/渡辺未来.md "wikilink")、HIGH and MIGHTY COLOR
         前曲とは対照的に、ユウスケはラップに徹している。
-3.  マッシュルーム
+3.  **マッシュルーム**
       -
         作詞:MEG\&mACKAz&ユウスケ　作曲:MEG　編曲:HIGH and MIGHTY COLOR
         最後にある[ゲップ](https://ja.wikipedia.org/wiki/ゲップ "wikilink")音は、[ベーシスト](../Page/ベーシスト.md "wikilink")のmACKAzがやっている。また、曲中で｢マッシュルーム｣の数は、49回である。

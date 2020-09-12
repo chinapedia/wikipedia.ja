@@ -33,4 +33,4 @@ RIP SLYMEが[京都](../Page/京都.md "wikilink")にくるりのライブを観
   - [Juice SPEEDSTAR RECORDS](http://www.jvcmusic.co.jp/speedstar/-/Discography/A012067/VICL-36079.html)
   - [くるりとリップスライム「Juice」](http://www.jvcmusic.co.jp/quruli/juice/)
 
-[Category:くるりの楽曲](https://ja.wikipedia.org/wiki/Category:くるりの楽曲 "wikilink") [Category:RIP_SLYMEの楽曲](https://ja.wikipedia.org/wiki/Category:RIP_SLYMEの楽曲 "wikilink") [Category:2006年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2006年のコラボレーション・シングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:くるりの楽曲](https://ja.wikipedia.org/wiki/Category:くるりの楽曲 "wikilink") [Category:RIP_SLYMEの楽曲](https://ja.wikipedia.org/wiki/Category:RIP_SLYMEの楽曲 "wikilink") [Category:2006年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2006年のコラボレーション・シングル "wikilink") [Category:飲み物を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:飲み物を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

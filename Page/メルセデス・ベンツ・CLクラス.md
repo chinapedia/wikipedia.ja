@@ -11,7 +11,7 @@
 
 ## 歴史
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:W140_CL500.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_C140_CL500.jpg "wikilink")
 
 ### 初代（1996年-1998年） C140
 

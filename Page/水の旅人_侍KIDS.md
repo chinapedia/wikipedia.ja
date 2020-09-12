@@ -66,7 +66,6 @@
 
 その他
 
-  - [増沢美和子](../Page/増沢美和子.md "wikilink")
   - [由利徹](../Page/由利徹.md "wikilink")
 
 ## スタッフ

@@ -289,7 +289,7 @@
 
 ## 裏技集
 
-今作は特にエディタールームでの作成中にいろいろな裏ワザができる。しかし一歩間違えるとフリーズすることがあるので注意が必要。
+今作は特にエディタールームでの作成中にいろいろな裏技ができる。しかし一歩間違えるとフリーズすることがあるので注意が必要。
 
   - 1：カラーブリッジの上にゴールを置く
     まず、ゴールの真上にブロックやコインを1個設置する。次に、どこかに赤か青のカラーブリッジを置く（黄色はこの方法では不可能）。そして、ゴールとブロック（コイン）をいっしょにつかんでカラーブリッジの上に移動させる。するとなぜか置けてしまう。動かしたいときは、下のカラーブリッジを動かすか、ゴールをブロック（コイン）をいっしょにつかんで移動させるとよい。
@@ -322,4 +322,4 @@
   - [マリオvs.ドンキーコング2 ミニミニ大行進\!](https://www.nintendo.co.jp/ds/amqj/)（公式サイト）
   - [マリオvs.ドンキーコング2 ミニミニ大行進\!](https://www.nintendo.co.jp/titles/20010000017167) - Wii Uバーチャルコンソール
 
-[Category:ドンキーコングシリーズ](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズ "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink")
+[Category:マリオシリーズのパズルゲーム](https://ja.wikipedia.org/wiki/Category:マリオシリーズのパズルゲーム "wikilink") [Category:ドンキーコングシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドンキーコングシリーズのコンピュータゲーム "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink")

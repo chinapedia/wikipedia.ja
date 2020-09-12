@@ -26,7 +26,7 @@
 
 ### CMナレーション
 
-  - 常盤薬品 「舞妓はん」 OL2人の掛け合い篇（A子役）
+  - [常盤薬品](../Page/常盤薬品.md "wikilink")「舞妓はん」 OL2人の掛け合い篇（A子役）
 
 ## 脚注
 
@@ -44,4 +44,4 @@
 
 1.  南沢道義編「女性キャストの部」『日本音声製作者名鑑2007』[小学館](../Page/小学館.md "wikilink")、2007年3月25日、ISBN 978-4-09-526302-1、141頁。
 2.
-3.  [本人のブログ2009年6月26日より](http://web.archive.org/web/20090627171938/http://blog.livedoor.jp/hearty0803/archives/2009-06.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+3.  [本人のブログ2009年6月26日より](https://web.archive.org/web/20090627171938/http://blog.livedoor.jp/hearty0803/archives/2009-06.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

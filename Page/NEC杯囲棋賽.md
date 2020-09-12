@@ -18,7 +18,7 @@
 （左が優勝者）
 
 1.  1996年 [曹大元](../Page/曹大元.md "wikilink") - [鄭弘](https://ja.wikipedia.org/wiki/鄭弘 "wikilink")
-2.  1997年 [邵煒剛](https://ja.wikipedia.org/wiki/邵煒剛 "wikilink") - 曹大元
+2.  1997年 [邵煒剛](../Page/邵煒剛.md "wikilink") - 曹大元
 3.  1998年 [常昊](../Page/常昊.md "wikilink") - 曹大元
 4.  1999年 [周鶴洋](../Page/周鶴洋.md "wikilink") - 常昊
 5.  2000年 邵煒剛 - 常昊

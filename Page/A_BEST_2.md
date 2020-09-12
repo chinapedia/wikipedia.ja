@@ -36,69 +36,69 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
 
 全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
-1.  **[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")**
+1.  **[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")** (5:33)
       -
         作曲: CREA + [D･A･I](../Page/長尾大.md "wikilink") / 編曲: [Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")
         24thシングル
-2.  **[CAROLS](../Page/CAROLS.md "wikilink")**
+2.  **[CAROLS](../Page/CAROLS.md "wikilink")** (5:30)
       -
         作曲: [Tomoya Kinoshita](https://ja.wikipedia.org/wiki/木下智哉 "wikilink") / 編曲: [CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
         34thシングル
-3.  **[No way to say](../Page/No_way_to_say.md "wikilink")**
+3.  **[No way to say](../Page/No_way_to_say.md "wikilink")** (4:45)
       -
         作曲: [BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 編曲: [HΛL](../Page/HΛL.md "wikilink")
         31stシングル
-4.  **[HANABI](../Page/H_\(シングル\).md "wikilink")**
+4.  **[HANABI](../Page/H_\(シングル\).md "wikilink")** (4:54)
       -
         作曲: CREA + D･A･I / 編曲: CMJK
         27thシングル「H」収録曲
-5.  **[walking proud](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
+5.  **[walking proud](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")** (5:15)
       -
         作曲: [Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / 編曲: [HIKARI](../Page/HIKARI.md "wikilink")
         6thアルバム『MY STORY』収録曲
-6.  **[Free & Easy](../Page/Free&Easy.md "wikilink")**
+6.  **[Free & Easy](../Page/Free&Easy.md "wikilink")** (4:59)
       -
         作曲: CREA + D･A･I / 編曲: HΛL
         26thシングル
-7.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink")**
+7.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink")** (5:29)
       -
         作曲: CREA / 編曲: CMJK + [Junichi Matsuda](../Page/松田純一.md "wikilink")
         22ndシングル
         オリジナルとしてはアルバム初収録。
-8.  **[Because of You](../Page/Memorial_address.md "wikilink")**
+8.  **[Because of You](../Page/Memorial_address.md "wikilink")** (5:21)
       -
         作曲: BOUNCEBACK / 編曲: HΛL
         1stミニアルバム『Memorial address』収録曲
-9.  **[About You](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
+9.  **[About You](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")** (3:58)
       -
         作曲: [Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / 編曲: tasuku
         6thアルバム『MY STORY』収録曲
-10. **[GAME](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")**
+10. **[GAME](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")** (4:13)
       -
         作曲: BOUNCEBACK / 編曲: HΛL
         33rdシングルのカップリング
-11. **[is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
+11. **[is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")** (4:51)
       -
         作曲: [Miki Watanabe](../Page/渡辺未来.md "wikilink") / 編曲: HΛL
         35thシングル
-12. **[HANABI ～episode II～](../Page/&_\(シングル\).md "wikilink")**
+12. **[HANABI ～episode II～](../Page/&_\(シングル\).md "wikilink")** (4:55)
       -
         作曲: CREA + D･A･I / 編曲: [tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
         29thシングル「&」収録曲
-13. **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")**
+13. **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")** (4:42)
       -
         作曲: CREA / 編曲: [CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
         21stシングル
-14. **[HEAVEN](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")**
+14. **[HEAVEN](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")** (4:18)
       -
         作曲: Kazuhito Kikuchi / 編曲: [Yuta Nakano](../Page/中野雄太.md "wikilink") & KZB
         37thシングル
-15. **part of Me**
+15. **part of Me** (8:20)
       -
         作曲：Tetsuya Yukumi / 編曲：HΛL
         [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") [LUMIX](../Page/LUMIX.md "wikilink") FX30 CMソング
     <!-- end list -->
-      - **[Memorial address](../Page/Memorial_address.md "wikilink") (take 2 version)** ※Secret Track
+      - **[Memorial address](../Page/Memorial_address.md "wikilink") (take 2 version)** (3:57) ※Secret Track
     <!-- end list -->
       -
         作曲：Tetsuya Yukumi / 編曲：tasuku
@@ -157,64 +157,64 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
 
 全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
 
-1.  **[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")**
+1.  **[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")** (4:42)
       -
         作曲:CREA / 編曲:HAL
         20thシングル
-2.  **[Greatful days](../Page/&_\(シングル\).md "wikilink")**
+2.  **[Greatful days](../Page/&_\(シングル\).md "wikilink")** (4:39)
       -
         作曲:BOUNCEBACK / 編曲:HAL
         29thシングル「&」収録曲
-3.  **[independent](../Page/H_\(シングル\).md "wikilink")**
+3.  **[independent](../Page/H_\(シングル\).md "wikilink")** (4:58)
       -
         作曲:CREA+D.A.I / 編曲:tasuku
         27thシングル「H」収録曲
         完全なオリジナルはアルバム初収録。
-4.  **[Humming 7/4](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
+4.  **[Humming 7/4](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")** (4:25)
       -
         作曲:CREA / 編曲:kotaro Kubota
         6thアルバム『MY STORY』収録曲
-5.  **[UNITE\!](../Page/UNITE!.md "wikilink")**
+5.  **[UNITE\!](../Page/UNITE!.md "wikilink")** (5:00)
       -
         作曲:CREA / 編曲:HAL
         23rdシングル
-6.  **[Real me](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")**
+6.  **[Real me](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")** (5:26)
       -
         作曲:D.A.I / 編曲:CMJK
         5thアルバム『RAINBOW』収録曲
-7.  **[my name's WOMEN](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
+7.  **[my name's WOMEN](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")** (5:40)
       -
         作曲:BOUNCEBACK / 編曲:HAL
         6thアルバム『MY STORY』収録曲
-8.  **[ourselves](../Page/&_\(シングル\).md "wikilink")**
+8.  **[ourselves](../Page/&_\(シングル\).md "wikilink")** (4:33)
       -
         作曲:BOUNCEBACK / 編曲:CMJK
         29thシングル「&」収録曲
-9.  **[INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")**
+9.  **[INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")** (4:33)
       -
         作曲:Tetsuya Yukumi / 編曲:HAL
         33rdシングル
-10. **[STEP you](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")**
+10. **[STEP you](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")** (4:25)
       -
         作曲:Kazuhiro Hara / 編曲:CMJK
         35thシングル
-11. **[July 1st](../Page/H_\(シングル\).md "wikilink")**
+11. **[July 1st](../Page/H_\(シングル\).md "wikilink")** (4:21)
       -
         作曲:CREA+D.A.I / 編曲:tasuku
         27thシングル「H」収録曲
-12. **[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")**
+12. **[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")** (5:17)
       -
         作曲:tasuku / 編曲:HAL
         36thシングル
-13. **[Voyage](../Page/Voyage_\(浜崎あゆみの曲\).md "wikilink")**
+13. **[Voyage](../Page/Voyage_\(浜崎あゆみの曲\).md "wikilink")** (5:06)
       -
         作曲:CREA+D.A.I / 編曲:Ken Shima
         28thシングル
-14. **[Moments](../Page/Moments.md "wikilink")**
+14. **[Moments](../Page/Moments.md "wikilink")** (5:30)
       -
         作曲:Tetsuya Yukumi / 編曲:HIKARI
         32ndシングル
-15. **[A Song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")**
+15. **[A Song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")** (6:18)
       -
         作曲:[Tetsuya Komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")/ 編曲:Tetsuya Komuro
         4thアルバム『[I am...](../Page/I_am....md "wikilink")』収録曲

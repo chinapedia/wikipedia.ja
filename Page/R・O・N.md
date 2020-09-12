@@ -26,6 +26,7 @@
 | 4th        | [2016年](../Page/2016年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")   | **Genesis**  | CD                                    | LACM-14434 | 55位  |
 | LACM-14435 |                                                                            |              |                                       |            |      |
 | |5th       | [2019年](../Page/2019年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") | **Chronos**  | CD                                    | LACM-14936 | 97位  |
+| |配信限定      | [2020年](../Page/2020年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")   | **Session**  | [音楽配信](../Page/音楽配信.md "wikilink")    | LZC-1698   |      |
 |            |                                                                            |              |                                       |            |      |
 
 STEREO DIVE FOUNDATION
@@ -304,7 +305,7 @@ STEREO DIVE FOUNDATION\[2\]
       - モンテーニュ（作曲・編曲）
   - Wake Up, May'n\!
       - One In A Billion（編曲）
-  - [ZAQ](https://ja.wikipedia.org/wiki/ZAQ "wikilink")
+  - [ZAQ](https://ja.wikipedia.org/wiki/ZAQ_\(シンガーソングライター\) "wikilink")
       - Serendipity（編曲）
   - [LAGOON](https://ja.wikipedia.org/wiki/LAGOON "wikilink")
       - プラチナのシークレット（作曲・編曲）
@@ -325,6 +326,10 @@ STEREO DIVE FOUNDATION\[2\]
       - JUNES（作詞・作曲・編曲）
   - [上坂すみれ](https://ja.wikipedia.org/wiki/上坂すみれ "wikilink")
       - 予感(Extra stage)（作曲・編曲）
+  - アメフラっシ
+      - メタモルフォーズ（作曲・編曲）
+  - [佐久間貴生](../Page/佐久間貴生.md "wikilink")
+      - Chase the core（作詞・作曲・編曲）
   - [はみらじ\!\!](https://ja.wikipedia.org/wiki/はみらじ!! "wikilink")
       - Melty Heart Magic（作曲・編曲）
       - ふわり☆ぶらんにゅーでい（作曲・編曲）
@@ -433,8 +438,6 @@ STEREO DIVE FOUNDATION\[2\]
   - [働くお兄さん\!の2\!](https://ja.wikipedia.org/wiki/働くお兄さん!の2! "wikilink")
       - Piece of my life（作詞・作曲・編曲）
       - LOVE YOUR LIFE（作詞・作曲・編曲）
-  - [佐久間貴生](../Page/佐久間貴生.md "wikilink")
-      - Chase the core（作詞・作曲・編曲）
   - [BNA ビー・エヌ・エー](../Page/BNA_ビー・エヌ・エー.md "wikilink")
       - Ready to（編曲）
   - [フットサルボーイズ\!\!\!\!\!](https://ja.wikipedia.org/wiki/フットサルボーイズ!!!!! "wikilink")
@@ -442,6 +445,7 @@ STEREO DIVE FOUNDATION\[2\]
       - Grab for victory（作詞・作曲・編曲）
       - WE ARE FUN☆TASISTA（作詞・作曲・編曲）
       - Maverick（作詞・作曲・編曲）
+      - King's Roar（作詞・作曲・編曲）
   - REZZ
       - Black Bird（作詞・作曲・編曲）
   - FORBIDDEN☆STAR
@@ -458,6 +462,8 @@ STEREO DIVE FOUNDATION\[2\]
       - Eccentric Party Night\!\!（作曲・編曲）
   - [プリンセスコネクト！Re:Dive](https://ja.wikipedia.org/wiki/プリンセスコネクト! "wikilink")
       - in flames（作曲・編曲）
+  - [Re:ゼロから始める異世界生活 Lost in Memories](https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活_Lost_in_Memories "wikilink")
+      - Reloaded（作曲・編曲）
   - [A3\!](https://ja.wikipedia.org/wiki/A3! "wikilink")
       - oneXone（作詞・作曲・編曲）
       - スーパーウルトライージーモード（作詞・作曲・編曲）
@@ -469,6 +475,7 @@ STEREO DIVE FOUNDATION\[2\]
       - T.D.D LEGEND（作曲・編曲）（Kohei by SIMONSAYZとの共作曲）
   - [ラブライブ\!サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!サンシャイン!! "wikilink")
       - Guilty Night, Guilty Kiss\!（作曲・編曲）
+      - After The Rain（作曲・編曲）
   - [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
       - Best Friend (Version Azusa)（編曲）
   - [THE IDOLM@STER STATION\!\!\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")
@@ -491,12 +498,13 @@ STEREO DIVE FOUNDATION\[2\]
   - 2007年10月～放送中 日テレ系「[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")」
   - 2010年10月～12月[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")「[心霊探偵 八雲](../Page/心霊探偵_八雲.md "wikilink")」
   - 2012年4月～9月 [MBS他](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[UHF局](../Page/UHFアニメ.md "wikilink")「[黒子のバスケ](https://ja.wikipedia.org/wiki/黒子のバスケ_\(アニメ\) "wikilink")」（第1期のみ）
-  - 2015年1月～3月 [TBS他](../Page/TBSテレビ.md "wikilink")「[銃皇無尽のファフニール](https://ja.wikipedia.org/wiki/銃皇無尽のファフニール "wikilink")」
+  - 2015年1月～3月 [TBS他](../Page/TBSテレビ.md "wikilink")「[銃皇無尽のファフニール](https://ja.wikipedia.org/wiki/銃皇無尽のファフニール "wikilink")」\[4\]
   - 2015年7月～12月 [TOKYO MX他UHF局](../Page/東京メトロポリタンテレビジョン.md "wikilink")「[アクエリオンロゴス](https://ja.wikipedia.org/wiki/アクエリオンロゴス "wikilink")」
   - 2018年1月～3月 TOKYO MX他「[働くお兄さん\!](https://ja.wikipedia.org/wiki/働くお兄さん! "wikilink")」
   - 2018年7月～ TOKYO MX他「働くお兄さん\!の２\!」(11話「カラオケ屋のお兄さん！」では声優としても出演)
-  - 2019年1月〜3月 「[魔法少女特殊戦あすか](https://ja.wikipedia.org/wiki/魔法少女特殊戦あすか "wikilink")」\[4\]
+  - 2019年1月〜3月 「[魔法少女特殊戦あすか](https://ja.wikipedia.org/wiki/魔法少女特殊戦あすか "wikilink")」\[5\]
   - 2019年7月〜10月 「[トライナイツ](https://ja.wikipedia.org/wiki/トライナイツ "wikilink")」
+  - 2020年10月〜 「[『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima](https://ja.wikipedia.org/wiki/『ヒプノシスマイク_-Division_Rap_Battle-』Rhyme_Anima "wikilink")」
   - 2021年4月〜 「[転スラ日記 転生したらスライムだった件](https://ja.wikipedia.org/wiki/転スラ日記_転生したらスライムだった件 "wikilink")」
 
 ### 映画
@@ -538,6 +546,7 @@ STEREO DIVE FOUNDATION\[2\]
 ## 外部リンク
 
   -
+  -
   - [オフィシャルブログ](http://stereodive.blog54.fc2.com/)
 
   - [ロザリーヒルオフィシャルサイト](http://rosaryhill.net/)
@@ -546,9 +555,10 @@ STEREO DIVE FOUNDATION\[2\]
 
   - [STEREO DIVE FOUNDATION](https://www.lantis.jp/artist/stereodivefoundation/)
 
-[Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [OLDCODEX Official Website|BIO](http://www.oldcodex.com/bio.php)
 2.  R・O・N名義の[サウンドトラック](../Page/サウンドトラック.md "wikilink")は含まない。
 3.  楽曲が起用された年ではなく、音源化された年で明記。
 4.
+5.

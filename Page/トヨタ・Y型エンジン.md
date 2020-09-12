@@ -15,7 +15,7 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[8月21日](../Page/8月21日.md "wikilink")に、[クラウンコンフォートを含む](../Page/トヨタ・クラウンコンフォート.md "wikilink")[クラウンセダン](https://ja.wikipedia.org/wiki/トヨタ・クラウンセダン "wikilink")、[コンフォートなどに使われていた](../Page/トヨタ・コンフォート.md "wikilink")3Y-PEは、[平成17年排出ガス規制](https://ja.wikipedia.org/wiki/平成17年排出ガス規制 "wikilink")を達成するが低排出ガス認定制度に対応していないため、[ガス液体噴射方式に対応した](../Page/燃料噴射装置.md "wikilink")[1TR-FPEに置き換えられた](../Page/トヨタ・TRエンジン.md "wikilink")。
 
-[2014年](../Page/2014年.md "wikilink")（平成26年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")現在、[豊田自動織機](../Page/豊田自動織機.md "wikilink")製フォークリフト「ジェネオ 8FG」用の4Y-E型のみが製造されている。 　
+[2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")現在、[豊田自動織機](../Page/豊田自動織機.md "wikilink")製フォークリフト「ジェネオ 8FG」用の4Y-E型のみが製造されている。 　
 
 ## 系譜
 

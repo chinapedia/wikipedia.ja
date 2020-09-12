@@ -24,6 +24,6 @@
 
 ## 外部リンク
 
-  - [HIGH G.K LOW 〜ハジケロ〜](http://www.universal-music.co.jp/greeeen/upch80012.html)
+  - [HIGH G.K LOW 〜ハジケロ〜](https://www.universal-music.co.jp/greeeen/products/upch-80012/)
 
 [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:GReeeeNの楽曲](https://ja.wikipedia.org/wiki/Category:GReeeeNの楽曲 "wikilink") [Category:炭酸飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:炭酸飲料のコマーシャルソング "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

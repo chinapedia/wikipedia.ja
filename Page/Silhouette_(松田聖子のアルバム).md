@@ -40,6 +40,46 @@
 5.  **愛の神話**　（4:22）
       - 作詞：三浦徳子／作曲：小田裕一郎／編曲：信田かずお
 
+## クレジット
+
+Producer: M.Wakamatsu(CBS/SONY), Engineer: T.Suzuki Assitant Engineer: A.Saida Photographer: T.Mutoh / Designer: M.Yamada / Recorging Date: March, April 1981 Recording Place: CBS SONY Shinanomachi Studio
+
+### Side A
+
+1.  **Summer Beach～オレンジの香り～**
+      -
+        Drums 広瀬徳志 E.Bass 富倉安生 E.Guitar 松下誠 三畑貞二 Percussions 中島御 Chorus 信田かずお 松下誠
+2.  **白い貝のブローチ**
+      -
+        Drums 島村英二 E.Bass 長岡道夫 E.Guitar 芳野藤丸 F.Guitar 吉川忠英 Keyboards 戸塚修 栗林稔 Percussions 中島御 Strings JOEグループ
+3.  **Sailing**
+      -
+        Drums 滝本季延 E.Bass 美久月千春 E.Guitar 矢島賢 F.Guitar 笛吹利明 Keyboards 西本明 Percussions 浜口茂外也 Chorus BUZZ 広松美和 Strings OHNO STRINGS
+4.  **ナイーブ～傷つきやすい午後～**
+      -
+        Drums 滝本季延 E.Bass 美久月千春 E.Guitar 矢島賢 F.Guitar 吉川忠英 Keyboards 西本明 Percussions 浜口茂外也 F.Horn 数原晋 Strings OHNO STRINGS
+5.  **[チェリーブラッサム](../Page/チェリーブラッサム.md "wikilink")**
+      -
+        Drums 菊地丈夫 E.Bass 岡沢茂 E.Guitar 今剛 F.Guitar 笛吹利明 Keyboards 山田秀俊 田代真紀子 Percussions PECKER Chorus 梅垣達志 尾形道子 広松美和 Strings OHNO STRINGS
+
+### Side B
+
+1.  **あ・な・たの手紙**
+      -
+        Drums 広瀬徳志 E.Bass 富倉安生 E.Guitar 松下誠 F.Guitar 吉川忠英 Keyboards 信田かずお Percussions 穴井忠臣 Strings TOMATOグループ
+2.  **Je t'aime**
+      -
+        Drums 滝本季延 E.Bass 美久月千春 E.Guitar 矢島賢 F.Guitar 吉川忠英 Keyboards 西本明 Percussions 浜口茂外也 Trumpet 数原晋 岸義和 Trombone 新井英治 T.Sax JAKE.H.CONCEPTION Chorus BUZZ 広松美和
+3.  **[夏の扉](../Page/夏の扉.md "wikilink")**
+      -
+        Drums 滝本季延 E.Bass 富倉安生 E.Guitar 今剛 鈴木茂 Keyboards 田代真紀子 Percussions PECKER Chorus BUZZ 広松美和 Strings OHNO STRINGS
+4.  **花びら**
+      -
+        Drums 滝本季延 E.Bass 美久月千春 E.Guitar 矢島賢 F.Guitar 笛吹利明 Keyboards 西本明 田代真紀子 Percussions 浜口茂外也 Strings OHNO STRINGS
+5.  **愛の神話**
+      -
+        Drums 広瀬徳志 E.Bass 富倉安生 E.Guitar 松下誠 松宮幹彦 Keyboards 信田かずお Percussions 中島御 F.Horn 数原晋 Flute 小出道也 Chorus 信田かずお 松下誠 Strings TOMATOグループ
+
 ## 関連作品
 
   - **Summer Beach ～オレンジの香り～**

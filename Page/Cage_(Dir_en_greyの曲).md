@@ -5,9 +5,9 @@
 
 ## 概説
 
-  - この曲でも『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演。パフォーマンスは前回程過激ではなかったので、苦情は寄せられなかったという。虐待をテーマにした歌詞ではある。
+  - この曲でも『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演\[1\]。パフォーマンスは前回程過激ではなかったので、苦情は寄せられなかったという。虐待をテーマにした歌詞ではある。
   - 本作と次作「[予感](../Page/予感_\(Dir_en_greyの曲\).md "wikilink")」、そして1stアルバム『[GAUZE](../Page/GAUZE.md "wikilink")』の、[イーストウェストジャパンからの生産分は](../Page/ワーナーミュージック・ジャパン.md "wikilink")、CDの記録層が真っ赤なデザインとなっている。
-  - 前作までは4人の中に最初から完成した楽曲のイメージがあって、[YOSHIKI](../Page/YOSHIKI.md "wikilink")と一緒に近づいていく様にレコーディングしていたが、本作ではアレンジのアイディア等根本的な部分からYOSHIKIと一緒に作っていく方針をとった\[1\]。
+  - 前作までは4人の中に最初から完成した楽曲のイメージがあって、[YOSHIKI](../Page/YOSHIKI.md "wikilink")と一緒に近づいていく様にレコーディングしていたが、本作ではアレンジのアイディア等根本的な部分からYOSHIKIと一緒に作っていく方針をとった\[2\]。
 
 ## 曲目
 
@@ -18,10 +18,11 @@
 2.  **「S」(Z-Z Mix)**
       -
         『[MISSA](../Page/MISSA.md "wikilink")』収録曲「S」の[リミックス](../Page/リミックス.md "wikilink")。
-        リミックスは元[Nine Inch Nails](https://ja.wikipedia.org/wiki/Nine_Inch_Nails "wikilink")、現[Marilyn Mansonの](https://ja.wikipedia.org/wiki/Marilyn_Manson "wikilink")[クリス・バンナ](https://ja.wikipedia.org/wiki/クリス・バンナ "wikilink")が担当。
+        リミックスは元[Nine Inch Nails](https://ja.wikipedia.org/wiki/Nine_Inch_Nails "wikilink")、元[Marilyn Mansonの](https://ja.wikipedia.org/wiki/マリリン・マンソン_\(バンド\) "wikilink")[クリス・バンナ](https://ja.wikipedia.org/wiki/クリス・バンナ "wikilink")が担当。
 
 ## 脚注
 
 [Category:DIR_EN_GREYの楽曲](https://ja.wikipedia.org/wiki/Category:DIR_EN_GREYの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")
 
-1.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](../Page/月刊カドカワ.md "wikilink")」1999年7月号90Pより。
+1.
+2.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](../Page/月刊カドカワ.md "wikilink")」1999年7月号90Pより。

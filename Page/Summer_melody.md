@@ -1,9 +1,9 @@
 > この記事は[Summer melody](https://ja.wikipedia.org/wiki/Summer_melody)から翻訳されています。
 
 
-「**summer melody**」（サマー・メロディー）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
+「**summer melody**」（サマー・メロディー）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）。
 
-尚、田村は本作以前にも[ポリグラム](../Page/ポリグラム.md "wikilink")から4枚のシングルを出している。しかしそれらは[キャラクターソング](../Page/キャラクターソング.md "wikilink")扱いのため、本作が事実上の1作目のシングルとなる。
+なお、田村は本作以前にも[ポリグラム](../Page/ポリグラム.md "wikilink")から4枚のシングルを出している。しかしそれらは[キャラクターソング](../Page/キャラクターソング.md "wikilink")扱いのため、本作が事実上の1作目のシングルとなる。
 
 ## 解説
 

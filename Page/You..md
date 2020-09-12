@@ -19,7 +19,7 @@
 
 一時期「ゆう.」（ゆうどっと）に改名した[一ノ瀬悠](../Page/一ノ瀬悠.md "wikilink")や、[@YOU](../Page/@YOU.md "wikilink")（あっとゆう）は別人。
 
-[2006年](../Page/2006年.md "wikilink")9月以降、引退状態であったが2008年7月から[海馬ゆう](https://ja.wikipedia.org/wiki/海馬ゆう "wikilink")として着エロやAV女優活動を再開
+[2006年](../Page/2006年.md "wikilink")9月以降、引退状態であったが2008年7月から[海馬ゆう](https://ja.wikipedia.org/wiki/海馬ゆう "wikilink")として着エロやAV女優活動を再開。
 
 ## 出演
 
@@ -60,13 +60,13 @@
   - S+CONTENTS 4時間 お嬢ギャルとお姉Gal SP（2006年11月5日、ワープエンタテインメント）
   - ワープエンタテインメント 1年まるごと特別総集編 06/07 4時間（2006年12月5日、ワープエンタテインメント）
   - S+CONTENTS 4時間 一撃（2007年8月5日、ワープエンタテインメント）
-  - オペラ5周年記念DVD24時間6枚組 （2010年12月25日、[オペラ](../Page/オペラ_\(アダルトビデオ\).md "wikilink")）他多数出演
+  - オペラ5周年記念DVD24時間6枚組 （2010年12月25日、[オペラ](../Page/オペラ_\(アダルトビデオ\).md "wikilink")）
 
 #### テレビ番組
 
-  - [美女と湯けむり](../Page/美女と湯けむり.md "wikilink")（第1回[洲の崎温泉](https://ja.wikipedia.org/wiki/洲の崎温泉 "wikilink")）（[旅チャンネル](../Page/旅チャンネル.md "wikilink")）
+  - 美女と湯けむり（第1回[洲の崎温泉](https://ja.wikipedia.org/wiki/洲の崎温泉 "wikilink")）（[旅チャンネル](../Page/旅チャンネル.md "wikilink")）
   - 美女と湯けむり（第2回[南房総白浜温泉](../Page/白浜温泉_\(千葉県\).md "wikilink")）（旅チャンネル）
-  - [サバドル](https://ja.wikipedia.org/wiki/サバドル "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - サバドル（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [夜美女](../Page/夜美女.md "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")）
 
 ### 海馬ゆう名義
@@ -90,11 +90,11 @@
   - 女子校生痴漢バス（3月5日、[ピュアネスプラネット](../Page/ソフト・オン・デマンド.md "wikilink")）
   - 無理ヤリ解禁\!イカされまくって騙し中出し\!（4月4日、ピュアネスプラネット）
   - うぶ 〜はじめてのゆう ほんとうのゆう〜（5月7日 ピュアネスプラネット）
-  - 手コキ&性交クリニック ファン感謝祭スペシャル（7月9日 SODクリエイト）共演:後藤ひろみ、[さくらひなこ](../Page/若葉ひな.md "wikilink")、倉木杏奈、小橋紗良、米山愛
+  - 手コキ&性交クリニック ファン感謝祭スペシャル（7月9日 SODクリエイト）
   - WATER POLE 78（7月10日 [プレステージ](../Page/プレステージ_\(アダルトビデオ\).md "wikilink")）
   - 働くオンナ Vol.45（7月22日 プレステージ）
-  - 女子校生「介護福祉」のお仕事体験（9月5日、SODクリエイト）共演:[宝部ゆき](https://ja.wikipedia.org/wiki/宝部ゆき "wikilink") ほか
-  - コスプレイヤー:破（12月25日 [TMA](https://ja.wikipedia.org/wiki/トータルメディアエージェンシー "wikilink")）共演:浅香ゆき、石原ここ、[みづなれい](https://ja.wikipedia.org/wiki/みづなれい "wikilink")、[紗奈](https://ja.wikipedia.org/wiki/紗奈 "wikilink")、小泉梨菜、[水城奈緒](../Page/水城奈緒.md "wikilink")
+  - 女子校生「介護福祉」のお仕事体験（9月5日、SODクリエイト）
+  - コスプレイヤー:破（12月25日 [TMA](https://ja.wikipedia.org/wiki/トータルメディアエージェンシー "wikilink")）
 
 <!-- end list -->
 
@@ -102,10 +102,10 @@
 
 <!-- end list -->
 
-  - ショートパンツ MANIAX（1月8日 TMA）共演:みづなれい、石原ここ、紗奈、小泉梨菜、水城奈緒、浅香ゆき
-  - ガールズトーク 〜オンナの本音聞かせてあげる〜（3月19日、[クリスタル映像](../Page/クリスタル映像.md "wikilink")）共演:[倖田李梨](https://ja.wikipedia.org/wiki/倖田李梨 "wikilink")、和希あい、小沢夕希、相田理沙
-  - 競泳水着 ローション 尻コキ（4月1日、[Fetishist/妄想族](https://ja.wikipedia.org/wiki/妄想族 "wikilink")）他出演:[灘坂舞](../Page/灘坂舞.md "wikilink")、[花井メイサ](../Page/花井メイサ.md "wikilink")、[篠めぐみ](https://ja.wikipedia.org/wiki/篠めぐみ "wikilink")、みづなれい、紗奈、[あのあるる](https://ja.wikipedia.org/wiki/あのあるる "wikilink")、小泉梨菜、水城奈緒、浅香ゆき
-  - 姉妹犯（4月23日、クリスタル映像）共演:[辻本りょう](https://ja.wikipedia.org/wiki/辻本りょう "wikilink") 他出演:[相田紗耶香](https://ja.wikipedia.org/wiki/相田紗耶香 "wikilink")、[鈴仲いずみ](https://ja.wikipedia.org/wiki/福原さやか "wikilink")
+  - ショートパンツ MANIAX（1月8日 TMA）
+  - ガールズトーク 〜オンナの本音聞かせてあげる〜（3月19日、[クリスタル映像](../Page/クリスタル映像.md "wikilink")）
+  - 競泳水着 ローション 尻コキ（4月1日、[Fetishist/妄想族](https://ja.wikipedia.org/wiki/妄想族 "wikilink")）
+  - 姉妹犯（4月23日、クリスタル映像）共演:[辻本りょう](https://ja.wikipedia.org/wiki/辻本りょう "wikilink")
 
 ## 脚注
 

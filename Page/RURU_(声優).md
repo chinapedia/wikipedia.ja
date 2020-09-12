@@ -3,7 +3,7 @@
 
 **RURU**（**Ruru**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")に出演。
 
-## 出演作品
+## 出演
 
 ### アニメ
 
@@ -16,6 +16,12 @@
   - [Angel's Feather](https://ja.wikipedia.org/wiki/Angel's_Feather "wikilink") （風間 真理）
 
 ### ゲーム
+
+  - 2001年
+
+<!-- end list -->
+
+  - [復讐 〜陵辱の刃〜](../Page/復讐_〜陵辱の刃〜.md "wikilink")（保田 凪）
 
 **2002年**
 

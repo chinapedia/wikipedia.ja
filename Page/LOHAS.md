@@ -15,7 +15,7 @@
 
 アメリカの調査機関NMIが、LOHAS層を「環境と健康に関心、社会に対する問題意識、自己啓発・精神性の向上に関心が高く、実際の行動に移す人々」と定義し、2002年よりその割合を調査している。この調査にはカルチュアル・クリエイティブズを提唱したレイもアドバイザーとして協力している。2005年の調査によるとアメリカの成人人口の23％がLOHAS層だという（他、LOHAS層に近いが行動に至らない NOMADICS: 39％、価値観を特に持たないCENTRISTS: 27％、日々の生活に追われる INDIFFERENTS: 12％）。
 
-  - アメリカでは「LOHAS」という言葉はビジネス用語として普及しており、一般消費者にはほとんど知られていない。一般消費者向けの「LOHAS」という言葉は、日本で最も普及しており、次いでアジア各国（韓国、台湾など）から発信されていると言える。
+  - アメリカでは「LOHAS」という言葉はビジネス用語として普及しており、一般消費者にはほとんど知られていない。一般消費者向けの「LOHAS」という言葉は、日本で最も普及しており、次いでアジア各国と地域（韓国、台湾など）から発信されていると言える。
 
 ### 日本におけるロハス
 
@@ -39,7 +39,7 @@
   - Alternative Healthcare（[代替医療](../Page/代替医療.md "wikilink")）
     [ホメオパシー](../Page/ホメオパシー.md "wikilink")、[アーユルヴェーダ](../Page/アーユルヴェーダ.md "wikilink")、[自然治療](https://ja.wikipedia.org/wiki/自然治療 "wikilink")、[東洋医学](https://ja.wikipedia.org/wiki/東洋医学 "wikilink")、[鍼治療](https://ja.wikipedia.org/wiki/鍼治療 "wikilink")、[レイキ](../Page/レイキ.md "wikilink")等。
   - Personal Development（自己開発）
-    [メンタルトレーニング](https://ja.wikipedia.org/wiki/メンタルトレーニング "wikilink")、[スピリチュアル](../Page/スピリチュアル.md "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")、[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")、[瞑想](../Page/瞑想.md "wikilink")法、[自己啓発](../Page/自己啓発.md "wikilink")、アート、能力開発等。
+    [メンタルトレーニング](https://ja.wikipedia.org/wiki/メンタルトレーニング "wikilink")、[スピリチュアル](../Page/スピリチュアル.md "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")、[ピラティス](../Page/ピラティス・メソッド.md "wikilink")、[瞑想](../Page/瞑想.md "wikilink")法、[自己啓発](../Page/自己啓発.md "wikilink")、アート、能力開発等。
   - Ecological Lifestyle（エコなライフスタイル）
     [リフォーム](../Page/リフォーム.md "wikilink")、[環境配慮住宅](https://ja.wikipedia.org/wiki/環境配慮住宅 "wikilink")、家庭用品、[エコツーリズム](../Page/エコツーリズム.md "wikilink")等。
 
@@ -200,7 +200,7 @@
 
   -   -
       -
-[カテゴリ:環境思想](https://ja.wikipedia.org/wiki/カテゴリ:環境思想 "wikilink") [カテゴリ:環境倫理学](https://ja.wikipedia.org/wiki/カテゴリ:環境倫理学 "wikilink") [カテゴリ:ライフスタイル](https://ja.wikipedia.org/wiki/カテゴリ:ライフスタイル "wikilink") [カテゴリ:流行語](https://ja.wikipedia.org/wiki/カテゴリ:流行語 "wikilink") [カテゴリ:登録商標](https://ja.wikipedia.org/wiki/カテゴリ:登録商標 "wikilink")
+[Category:環境思想](https://ja.wikipedia.org/wiki/Category:環境思想 "wikilink") [Category:環境倫理学](https://ja.wikipedia.org/wiki/Category:環境倫理学 "wikilink") [Category:ライフスタイル](https://ja.wikipedia.org/wiki/Category:ライフスタイル "wikilink") [Category:流行語](https://ja.wikipedia.org/wiki/Category:流行語 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.  [島田 2011.](https://ja.wikipedia.org/wiki/#shimada "wikilink")
 2.  [加藤 2006.](https://ja.wikipedia.org/wiki/#kato "wikilink")

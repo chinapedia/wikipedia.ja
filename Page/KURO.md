@@ -19,8 +19,8 @@
 
 ## ディスコグラフィー
 
-  - 「Time Attack」[SEAMO](../Page/SEAMO.md "wikilink") feat. KURO, MICRO from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")（2005年10月26日発売）
-  - 「ほんの少しだけ」[槇原敬之](../Page/槇原敬之.md "wikilink") feat. KURO from HOME MADE 家族（2006年2月1日発売）
+  - 「Time Attack」 / [SEAMO](../Page/SEAMO.md "wikilink") feat. KURO, MICRO from [HOME MADE 家族](../Page/HOME_MADE_家族.md "wikilink")（2005年10月26日発売）
+  - 「ほんの少しだけ」 / [槇原敬之](../Page/槇原敬之.md "wikilink") feat. KURO from HOME MADE 家族（2006年2月1日発売）
   - 「ANTI HERO」SEAMO feat. KURO from HOME MADE 家族（2006年9月20日発売）
   - 「Do it\!」SEAMO feat. KURO, MICRO from HOME MADE 家族（2007年10月31日発売）
   - 「Minus To Plus」[SOFFet](../Page/SOFFet.md "wikilink") with KURO from HOME MADE 家族（2008年2月27日発売）
@@ -30,9 +30,11 @@
   - 「サヨナラ」[Missing Link](../Page/Missing_Link.md "wikilink") feat. KURO from HOME MADE 家族（2010年7月14日配信限定発売）
   - 「Wait For You」[アリル](https://ja.wikipedia.org/wiki/アリル_\(歌手\) "wikilink") feat. KURO HOME MADE 家族（2012年6月13日発売）
   - 「Taboo」[紗羅マリー](https://ja.wikipedia.org/wiki/紗羅マリー "wikilink") with KURO from HOME MADE 家族（2013年1月30日発売）
-  - 「Play Back」Feat.SEAMO.KURO（from HOME MADE 家族）（2017年2月15日発売「Music has no borders」（DJ SANCON名義）収録）
-  - 「ON＆恩」SEAMO×CrystalBoy×KURO×SOCKS（2017年6月7日発売デジタルEP「ON×恩×音」（[SEAMO](../Page/SEAMO.md "wikilink")名義）収録）
-  - 「続・ON＆恩」SEAMO×CrystalBoy×KURO×SOCKS（2017年11月19日発売デジタルEP「続・ON×恩×音」（[SEAMO](../Page/SEAMO.md "wikilink")名義）収録）
+  - 「Play Back」Feat.SEAMO KURO（from HOME MADE 家族）（2017年2月15日発売「Music has no borders」（DJ SANCON名義）収録）
+  - 「ON＆恩」 / SEAMO×Crystal Boy×KURO×SOCKS（2017年6月7日発売デジタルEP「ON×恩×音」（SEAMO名義）収録）
+  - 「続・ON＆恩」 / SEAMO×Crystal Boy×KURO×SOCKS（2017年11月19日発売デジタルEP「続・ON×恩×音」（SEAMO名義）収録）
+  - 「Glory」 / SEAMO×Crystal Boy×KURO×SOCKS×[Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")（2019年2月20日発売「Glory」（SEAMO名義）収録）
+  - 「Wave Your Flag」 / SEAMO×Crystal Boy×KURO×SOCKS（2019年10月9日発売「Wave My Flag」（SEAMO名義）収録）
 
 ## 歌詞提供
 
@@ -58,6 +60,10 @@
 
   - 「マン・イン・ザ・ミラー　「僕」はマイケル・ジャクソンに殺された」（「サミュエル・サトシ」名義）（2019年3月18日発売）
 
-　　[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")のインパーソネーター（ある歌手や俳優、コメディアンになりきってパフォーマンスをするエンターテイナーの呼称）として、その半生を捧げた実在の日本人を主人公のモデルしたエンターテインメントノベル。
+　　[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")のインパーソネーター（ある歌手や俳優になりきってパフォーマンスをするエンターテイナーの呼称）として、その半生を捧げた実在の日本人を主人公のモデルしたエンターテインメントノベル。
+
+  - 「ブラインドから君の歌が聴こえる」（「サミュエル・サトシ」名義）（2020年5月27日発売）
+
+　　人気HIP HOPグループのDJがメジャーデビューを前に病で失明をしてしまい絶望のどん底のなか、幼なじみに連れられて[ブラインドサッカー](https://ja.wikipedia.org/wiki/ブラインドサッカー "wikilink")と出合い仲間との交流で少しずつ自分の居場所を見つけてゆく物語。
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:シカゴ出身の人物](https://ja.wikipedia.org/wiki/Category:シカゴ出身の人物 "wikilink") [Category:南山大学出身の人物](https://ja.wikipedia.org/wiki/Category:南山大学出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

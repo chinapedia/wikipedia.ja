@@ -139,7 +139,7 @@
       -
         作詞：[谷亜ヒロコ](https://ja.wikipedia.org/wiki/谷亜ヒロコ "wikilink")、作曲：[浅田直](https://ja.wikipedia.org/wiki/浅田直 "wikilink")、編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")
     <!-- end list -->
-      - Coming Century 1stシングル
+      - 1stシングル（Coming Century）
 7.  **[EASY SHOW TIME](https://ja.wikipedia.org/wiki/over/EASY_SHOW_TIME "wikilink")**※※ (4:44)
       -
         作詞：[Lucy E](https://ja.wikipedia.org/wiki/Lucy_E "wikilink")、作曲：[川上明彦](https://ja.wikipedia.org/wiki/川上明彦 "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")・[ミラクルK](https://ja.wikipedia.org/wiki/ミラクルK "wikilink")
@@ -149,12 +149,12 @@
       -
         作詞・作曲・編曲：[小幡英之](../Page/小幡英之.md "wikilink")
     <!-- end list -->
-      - 20th Century 1stシングル
+      - 1stシングル（20th Century）
 9.  **[You'll Be in My Heart](https://ja.wikipedia.org/wiki/WISHES〜I'll_be_there〜/You'll_Be_in_My_Heart "wikilink")**※ (4:18) - [Marsa Sakamoto](../Page/坂本昌行.md "wikilink")
       -
         作詞・作曲：[Phil Collins](../Page/フィル・コリンズ.md "wikilink")、日本語詞：[湯川れい子](../Page/湯川れい子.md "wikilink")
     <!-- end list -->
-      - Marsa Sakamoto 1stシングル
+      - 1stシングル（Marsa Sakamoto）
 10. **[Life goes on](../Page/MILLENNIUM_GREETING.md "wikilink")**※※ (4:45)
       -
         作詞・作曲：[片岡大志](../Page/片岡大志.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
@@ -174,7 +174,7 @@
       -
         作詞：[U-sky](https://ja.wikipedia.org/wiki/U-sky "wikilink")、作曲：[笹本安詞](https://ja.wikipedia.org/wiki/笹本安詞 "wikilink")、編曲：[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
     <!-- end list -->
-      - 20th Century 2ndシングル
+      - 2ndシングル（20th Century）
 14. **[CHANGE THE WORLD](../Page/CHANGE_THE_WORLD_\(V6の曲\).md "wikilink")** 2001（“Very best” LIMITED VERSION）(4:41)
       -
         作詞：[松本理恵](../Page/松本理恵.md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：HITOSHI HARUKAWA

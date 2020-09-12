@@ -1,7 +1,7 @@
 > この記事は[WINDING ROAD \(絢香×コブクロの曲\)](https://ja.wikipedia.org/wiki/WINDING_ROAD_\(絢香×コブクロの曲\))から翻訳されています。
 
 
-『**WINDING ROAD**』（ウィンディング ロード）は、[絢香×コブクロ](../Page/絢香×コブクロ.md "wikilink")の1枚目のシングル。[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売。
+『**WINDING ROAD**』（ワインディング ロード）は、[絢香×コブクロ](../Page/絢香×コブクロ.md "wikilink")の1枚目のシングル。[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売。
 
 ## 解説
 

@@ -26,13 +26,10 @@
       - [辻希美](../Page/辻希美.md "wikilink")と[加護亜依](../Page/加護亜依.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")がそれぞれモーニング娘。を卒業する際にほぼソロで歌われた。
       - 『[The Best\!〜Updated モーニング娘。〜](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")』では9期、10期、11期メンバーによりカバーされているが、こちらは[EDM調であり](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")、テンポアップせずに終始冒頭のテンポで曲が進行する。
       - このほか、[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")には[KDDI](../Page/KDDI.md "wikilink")と[KDDI総合研究所](https://ja.wikipedia.org/wiki/KDDI総合研究所 "wikilink")との共同制作で[当楽曲のUpdated版](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")、および[モーニング娘。](../Page/モーニング娘。.md "wikilink")'18\[1\]を起用した「[音のVR](https://ja.wikipedia.org/wiki/バーチャルリアリティー "wikilink")」に対応したコンテンツを制作した\[2\]\[3\]\[4\]\[5\]。なお、当楽曲のUpdated版とモーニング娘。'18を起用したこのコンテンツは一般向けには2018年3月31日から4月1日まで[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で開催された[ハロー\!プロジェクトのイベント会場で出展](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")、および同年4月以降よりKDDI直営店の一部や、[HMV](../Page/HMV.md "wikilink")の一部の店頭でも体験コーナーが展開されたほか、更に同年5月31日から9月30日までの期間限定でスマートフォン・タブレット用の音のVR体験アプリ（[iOS専用](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")）も一般向けアプリとして配信された。
-
-<!-- end list -->
-
-1.  **あこがれ My Boy**
+2.  **あこがれ My Boy**
       -
         編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
-2.  I WISH (Instrumental)
+3.  I WISH (Instrumental)
 
 ## 参加メンバー
 

@@ -70,10 +70,6 @@
 
 ## 脚注
 
-## 外部リンク
-
-  - [The Flipper's Guitar "Dr. Head's World Tower"（ヘッド博士の世界塔）](http://freett.com/fizzpop/music/90s/drhead.html) ※サンプリング使用楽曲の解説。
-
 [Category:フリッパーズ・ギターのアルバム](https://ja.wikipedia.org/wiki/Category:フリッパーズ・ギターのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:ポリスターのアルバム](https://ja.wikipedia.org/wiki/Category:ポリスターのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.

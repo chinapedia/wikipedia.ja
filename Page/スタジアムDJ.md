@@ -5,11 +5,11 @@
 
 ## 概要
 
-日本では、[Jリーグや](../Page/日本プロサッカーリーグ.md "wikilink")[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")管轄の[プロ野球の試合に多い](../Page/日本プロ野球.md "wikilink")。スタジアムDJがアナウンスを務めるのは、主に担当チームがホームゲーム開催のときである。最近では、プロ野球[独立リーグ](../Page/独立リーグ.md "wikilink")にもスタジアムDJを置いている。また、プロバスケットボール等のインドアスポーツでは「アリーナDJ」「アリーナMC」ともいわれる場合もある。
+日本では、[Jリーグや](../Page/日本プロサッカーリーグ.md "wikilink")[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")管轄の[プロ野球の試合に多い](../Page/日本プロ野球.md "wikilink")。基本的に本拠地でのホームゲームを担当する。最近では、プロ野球[独立リーグ](../Page/独立リーグ.md "wikilink")にもスタジアムDJを置いている。また、プロバスケットボール等のインドアスポーツでは「アリーナDJ」「アリーナMC」ともいわれる場合もある。
 
 日本で初めてスタジアムDJを採用したのは、オリックス・ブルーウェーブ（現・[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")）。球団が[グリーンスタジアム神戸](../Page/神戸総合運動公園野球場.md "wikilink")（現：ほっともっとフィールド神戸）に移転した際に、[DJ KIMURA](https://ja.wikipedia.org/wiki/DJ_KIMURA "wikilink")（木村芳生）がブルーウェーブのボールパーク事業部チーフプロデューサーであった[大前一樹](../Page/大前一樹.md "wikilink")とともに、そのスタイルや「スタジアムDJ」という言葉を生み出した\[1\] 。
 
-チームによっては[ヒーローインタビュー](../Page/ヒーローインタビュー.md "wikilink")のインタビュアーも担当する場合もある。
+チームによって活動内容は異なり、試合進行は全てウグイス嬢に任せるチームからスタンド内で応援の煽りまで行うチームなどもある。[ヒーローインタビュー](../Page/ヒーローインタビュー.md "wikilink")のインタビュアーも担当する場合もある。
 
 ## Jリーグ試合でのスタジアムDJ
 
@@ -50,9 +50,10 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
-<td><p>伊藤ユキヒコ、山内智香子</p></td>
-<td></td>
-<td><p>過去に千葉マサトが担当</p></td>
+<td><p>伊藤ユキヒコ 松浦彩</p></td>
+<td><p>2013年(伊藤)</p>
+<p>2020年(松浦)</p></td>
+<td><p>過去に千葉マサト、山内智香子(1996年-2019年)が担当。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福島ユナイテッドFC.md" title="wikilink">福島ユナイテッドFC</a></p></td>
@@ -70,7 +71,7 @@
 <td><p><a href="../Page/鹿島アントラーズ.md" title="wikilink">鹿島アントラーズ</a></p></td>
 <td><p>松本浩之</p></td>
 <td><p>2014年</p></td>
-<td><p>1993年から務めていたダニー石尾が2013年末に肝臓がんの診断を受け、2014年開幕直前に休養することを発表したが、同年4月15日に逝去[2]。<br />
+<td><p>1993年から務めていた<a href="https://ja.wikipedia.org/wiki/フォー・セインツ" title="wikilink">ダニー石尾が</a>2013年末に肝臓がんの診断を受け、2014年開幕直前に休養することを発表したが、同年4月15日に逝去[2]。<br />
 4月19日のJ1第8節・神戸戦から石尾は無期限休養扱いとなり、休養期間中の代行（事実上の後任）を前シーズンまでサブDJだった松本が担当。</p></td>
 </tr>
 <tr class="odd">
@@ -133,7 +134,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス</a></p></td>
-<td><p><a href="../Page/宮沢光邦.md" title="wikilink">光邦</a>、<a href="../Page/柴田聡.md" title="wikilink">柴田聡</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/光邦" title="wikilink">光邦</a>、<a href="../Page/柴田聡.md" title="wikilink">柴田聡</a></p></td>
 <td><p>2006年</p></td>
 <td><p>土日は光邦、月～金は柴田が担当（どちらも、担当日以外は<a href="../Page/横浜エフエム放送.md" title="wikilink">FMヨコハマの番組がある</a>）</p></td>
 </tr>
@@ -169,9 +170,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府" title="wikilink">ヴァンフォーレ甲府</a></p></td>
-<td><p><a href="../Page/高杉&#39;Jay&#39;二郎.md" title="wikilink">DJ JIRO</a></p></td>
-<td><p>2004年</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/奏佑" title="wikilink">奏佑</a></p></td>
+<td><p>2019年</p></td>
+<td><p>過去には<a href="../Page/高杉&#39;Jay&#39;二郎.md" title="wikilink">高杉'Jay'二郎</a>(2004年-2018年)が担当。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a></p></td>
@@ -249,7 +250,7 @@
 <tr class="odd">
 <td><p><a href="../Page/セレッソ大阪.md" title="wikilink">セレッソ大阪</a></p></td>
 <td><p><a href="../Page/西川大介.md" title="wikilink">西川大介</a></p></td>
-<td></td>
+<td><p>2001年</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -286,12 +287,12 @@
 <tr class="odd">
 <td><p><a href="../Page/徳島ヴォルティス.md" title="wikilink">徳島ヴォルティス</a></p></td>
 <td><p>平野智一</p></td>
-<td><p>2015年</p></td>
+<td><p>2019年</p></td>
 <td><p>過去には2011年までは林周一が、2012年から2014年は<a href="../Page/板東道生.md" title="wikilink">板東道生</a>が担当。2015年から2018年は福士幹朗が担当。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/カマタマーレ讃岐.md" title="wikilink">カマタマーレ讃岐</a></p></td>
-<td><p><code>DJハイロアンドーモ</code></p></td>
+<td><p>DJハイロアンドーモ</p></td>
 <td></td>
 <td><p>過去には<a href="https://ja.wikipedia.org/wiki/藤澤翼" title="wikilink">藤澤翼</a></p></td>
 </tr>
@@ -318,7 +319,7 @@
 <td><p><a href="../Page/YUYA.md" title="wikilink">YUYA</a></p></td>
 <td><p>1997年</p></td>
 <td><p>サガン設立前に鳥栖市に存在したプロサッカークラブ、<a href="../Page/鳥栖フューチャーズ.md" title="wikilink">鳥栖フューチャーズ</a>（1997年1月解散）ホームゲームでもスタジアムDJを担当していた。<br />
-2017年をもって、一旦担当を退くも、2018年途中から復帰。</p></td>
+2017年をもって一旦担当を退くも、2018年途中から復帰。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
@@ -328,9 +329,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
-<td><p><a href="../Page/小林弘記.md" title="wikilink">小林弘記</a>（DJコバ）</p></td>
-<td><p>2010年</p></td>
-<td><p>小林はロアッソで現役を引退した元GK。2011年は小林のアシスタントとして<a href="https://ja.wikipedia.org/wiki/田邊美穂" title="wikilink">田邊美穂</a>、魚返沙織里もホームゲームのスタジアムDJを担当している。</p></td>
+<td><p>スガッシュ</p></td>
+<td><p>2018年</p></td>
+<td><p>2010年から2017年まではロアッソで現役を引退した元GK<a href="../Page/小林弘記.md" title="wikilink">小林弘記</a>（DJコバ）が担当。2011年は小林のアシスタントとして<a href="https://ja.wikipedia.org/wiki/田邊美穂" title="wikilink">田邊美穂</a>、魚返沙織里もホームゲームのスタジアムDJを担当している。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分トリニータ</a></p></td>
@@ -392,13 +393,13 @@
 <td><p>リスケ</p></td>
 <td><p>2012年</p></td>
 <td><p>企画物として<a href="../Page/斉藤一美.md" title="wikilink">斉藤一美</a>、<a href="../Page/松島茂.md" title="wikilink">松島茂</a>、<a href="../Page/鈴木光裕.md" title="wikilink">鈴木光裕</a>らの<a href="../Page/文化放送.md" title="wikilink">文化放送</a><a href="https://ja.wikipedia.org/wiki/アナウンサー" title="wikilink">アナウンサー</a>が担当したり2008年開幕三試合は<a href="../Page/戸谷真人.md" title="wikilink">戸谷真人</a>が務めたこともあった。<br />
-2011年は<a href="https://ja.wikipedia.org/wiki/山蔭ヒーロ" title="wikilink">山蔭ヒーロ</a>、リスケの二人体制で担当。2012年よりリスケが務める。</p></td>
+2011年は<a href="https://ja.wikipedia.org/wiki/山蔭ヒーロ" title="wikilink">山蔭ヒーロ</a>、リスケの二人体制で担当。2012年よりリスケが務める。ビジターチームは主にウグイス嬢が担当。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/千葉ロッテマリーンズ.md" title="wikilink">千葉ロッテマリーンズ</a></p></td>
-<td><p><a href="../Page/KOUSAKU.md" title="wikilink">KOUSAKU</a>、<a href="../Page/島村幸男.md" title="wikilink">島村幸男</a>、<a href="https://ja.wikipedia.org/wiki/谷保恵美" title="wikilink">谷保恵美</a></p></td>
+<td><p><a href="../Page/KOUSAKU.md" title="wikilink">KOUSAKU</a>、<a href="../Page/島村幸男.md" title="wikilink">島村幸男</a></p></td>
 <td></td>
-<td></td>
+<td><p>場内アナウンスは主に<a href="https://ja.wikipedia.org/wiki/谷保恵美" title="wikilink">谷保恵美</a>が担当。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/オリックス・バファローズ.md" title="wikilink">オリックス・バファローズ</a></p></td>
@@ -487,9 +488,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/仙台89ERS.md" title="wikilink">仙台89ERS</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山蔭ヒーロ" title="wikilink">山蔭ヒーロ</a></p></td>
-<td></td>
-<td></td>
+<td><p>佐藤清一郎</p></td>
+<td><p>2019年</p></td>
+<td><p>2018-19シーズンまでは<a href="https://ja.wikipedia.org/wiki/山蔭ヒーロ" title="wikilink">山蔭ヒーロ</a>が担当。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/パスラボ山形ワイヴァンズ" title="wikilink">山形ワイヴァンズ</a></p></td>
@@ -716,6 +717,13 @@
 <td><p>同じ東京を冠したチームとして<a href="../Page/東京アパッチ.md" title="wikilink">東京アパッチ</a>がかつて存在しており、<a href="https://ja.wikipedia.org/wiki/Vance_K" title="wikilink">Vance Kが担当</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ベルテックス静岡" title="wikilink">ベルテックス静岡</a></p></td>
+<td><p><a href="../Page/ケチャップ_(タレント).md" title="wikilink">ケチャップ</a> /ワタナベユウスケ/<a href="../Page/Roni.md" title="wikilink">Roni</a></p></td>
+<td><p>2019年</p></td>
+<td><p>基本的にケチャップかワタナベどちらかが担当<br />
+Roniが担当の際は主にケチャップとのダブルMCとなる</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/鹿児島レブナイズ.md" title="wikilink">鹿児島レブナイズ</a></p></td>
 <td><p><a href="../Page/岡田祐介.md" title="wikilink">岡田祐介</a>/ありまゆき</p></td>
 <td></td>

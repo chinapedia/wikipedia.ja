@@ -19,7 +19,7 @@
 
 初めは意固地にホークを拒絶していたデイジーだったが、根負けしてついにホークが運転する車に乗り込む。彼女がホークを嫌がっていたのは、自分が嫌味な成金であると周囲に思われるのを危惧していたからだった。しかしホークの真面目な仕事振りと正直な人柄に感銘を受けたデイジーは、やがて何処へ行くにもホークの運転する車に乗ることになる。
 
-[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")の[クリスマス](../Page/クリスマス.md "wikilink")に、デイジーは読み書きの出来ないホークに簡単な参考書をプレゼントする。デイジーは[アラバマ州](../Page/アラバマ州.md "wikilink")[モービルに住む兄弟の](../Page/モービル_\(アラバマ州\).md "wikilink")90歳の誕生日を祝うため、ホークの運転するキャデラックに乗って遠出することになる。既に70歳近い高齢のホークだが、州外に出るのはこれが生まれて初めてだという。道中で路肩に止めた車の中で食事をする二人だが、その際の[警察官](../Page/警察官.md "wikilink")の対応に、デイジーはいまだ法のもとで[人種差別](../Page/人種差別.md "wikilink")が容認されているアメリカ南部に根強く残る、黒人に対する人種的偏見を実感する。
+[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")の[クリスマス](../Page/クリスマス.md "wikilink")に、デイジーは読み書きの出来ないホークに簡単な参考書をプレゼントする。デイジーは[アラバマ州](../Page/アラバマ州.md "wikilink")[モービルに住む兄弟の](../Page/モービル_\(アラバマ州\).md "wikilink")90歳の誕生日を祝うため、ホークの運転するキャデラックに乗って遠出することになる。既に70歳近い高齢のホークだが、州外に出るのはこれが生まれて初めてだという。道中で路肩に止めた車の中で食事をする二人だが、その際の[警察官](../Page/警察官.md "wikilink")の対応に、デイジーはいまだ法のもとで[人種差別](../Page/人種差別.md "wikilink")が容認されているアメリカ南部に根強く残る、黒人に対する人種的偏見を実感する。また警察官の対応に、ユダヤ人に対する人種的偏見も判る。
 
 [1963年](../Page/1963年.md "wikilink")の或る日、デイジーに長年仕えてきた家政婦であるアイデラが[テレビ](../Page/テレビ.md "wikilink")を観てる最中に急死してしまう。アイデラの死後一人で家を切り盛りしなくてはならなくなったデイジーは、万事にそつが無いホークをより一層重宝するようになる。
 
@@ -119,6 +119,6 @@
   -
   -
   -
-[Category:1989年の映画](https://ja.wikipedia.org/wiki/Category:1989年の映画 "wikilink") [Category:アメリカ合衆国のコメディドラマ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディドラマ映画 "wikilink") [Category:アトランタを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:アトランタを舞台とした映画作品 "wikilink") [Category:舞台劇の映画化作品](https://ja.wikipedia.org/wiki/Category:舞台劇の映画化作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:アカデミー賞作品賞受賞作](https://ja.wikipedia.org/wiki/Category:アカデミー賞作品賞受賞作 "wikilink") [Category:ゴールデングローブ賞受賞作](https://ja.wikipedia.org/wiki/Category:ゴールデングローブ賞受賞作 "wikilink") [Category:配偶者と死別した人物に関する映画作品](https://ja.wikipedia.org/wiki/Category:配偶者と死別した人物に関する映画作品 "wikilink") [Category:人種差別を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした映画作品 "wikilink") [Category:自動車を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:自動車を題材とした映画作品 "wikilink") [Category:ハンス・ジマーの作曲映画](https://ja.wikipedia.org/wiki/Category:ハンス・ジマーの作曲映画 "wikilink")
+[Category:1989年の映画](https://ja.wikipedia.org/wiki/Category:1989年の映画 "wikilink") [Category:アメリカ合衆国のコメディドラマ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディドラマ映画 "wikilink") [Category:アトランタを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:アトランタを舞台とした映画作品 "wikilink") [Category:舞台劇の映画化作品](https://ja.wikipedia.org/wiki/Category:舞台劇の映画化作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:アカデミー賞作品賞受賞作](https://ja.wikipedia.org/wiki/Category:アカデミー賞作品賞受賞作 "wikilink") [Category:ゴールデングローブ賞受賞作](https://ja.wikipedia.org/wiki/Category:ゴールデングローブ賞受賞作 "wikilink") [Category:老人を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:老人を題材とした映画作品 "wikilink") [Category:人種差別を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした映画作品 "wikilink") [Category:自動車を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:自動車を題材とした映画作品 "wikilink") [Category:ハンス・ジマーの作曲映画](https://ja.wikipedia.org/wiki/Category:ハンス・ジマーの作曲映画 "wikilink")
 
 1.

@@ -639,4 +639,4 @@
 
   - [街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")
 
-[Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:日本各地を舞台としたゲーム作品](https://ja.wikipedia.org/wiki/Category:日本各地を舞台としたゲーム作品 "wikilink")
+[Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:元気のゲームソフト](https://ja.wikipedia.org/wiki/Category:元気のゲームソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:日本各地を舞台としたゲーム作品](https://ja.wikipedia.org/wiki/Category:日本各地を舞台としたゲーム作品 "wikilink")

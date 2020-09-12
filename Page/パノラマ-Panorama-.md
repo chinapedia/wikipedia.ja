@@ -1,7 +1,7 @@
 > この記事は[パノラマ-Panorama-](https://ja.wikipedia.org/wiki/パノラマ-Panorama-)から翻訳されています。
 
 
-「**パノラマ-Panorama-**」は、[水樹奈々](../Page/水樹奈々.md "wikilink")の楽曲で、9作目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+「**パノラマ-Panorama-**」は、[水樹奈々](../Page/水樹奈々.md "wikilink")の楽曲で、9作目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に[キングレコードから発売された](../Page/キングレコード第三クリエイティブ本部.md "wikilink")。
 
 ## 解説
 
@@ -49,6 +49,6 @@
 
 ## 脚注・出典
 
-[Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:本間昭光が制作した楽曲](https://ja.wikipedia.org/wiki/Category:本間昭光が制作した楽曲 "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:本間昭光が制作した楽曲](https://ja.wikipedia.org/wiki/Category:本間昭光が制作した楽曲 "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  『ナナ☆スタ』掲載「NANA'S ディスクレビュー SPECIAL\!」、60頁。

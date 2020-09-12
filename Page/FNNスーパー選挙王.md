@@ -9,7 +9,7 @@
 
 [NNNの](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[選挙特別番組](../Page/選挙特別番組.md "wikilink")『[ZERO×選挙](../Page/ZERO×選挙.md "wikilink")』を放送する[クロスネット局](../Page/クロスネット局.md "wikilink")の[テレビ大分](../Page/テレビ大分.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除き、[FNN系列全国](../Page/フジニュースネットワーク.md "wikilink")26局ネットで放送した。[BSフジ](../Page/BSフジ.md "wikilink")では選挙特番の放送を行わなかった。
 
-当初は2007年[7月22日](../Page/7月22日.md "wikilink")に投開票が実施され、特番が編成される予定だったが、国会延長により1週遅れたため『[27時間テレビ](../Page/FNS27時間テレビ_\(2007年\).md "wikilink")』との兼ね合いから午後9時15分から放送した（『27時間テレビ』から[ステブレレスで接続](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")）。このため午後8時からの[出口速報は](../Page/出口調査.md "wikilink")『27時間テレビ』内（通常は[日曜](https://ja.wikipedia.org/wiki/日曜 "wikilink")の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")が[日本テレビ系であるにもかかわらず](../Page/日本テレビ放送網.md "wikilink")、『27時間テレビ』を優先したために『ZERO×選挙』を[飛び乗りしたテレビ宮崎も含む](https://ja.wikipedia.org/wiki/飛び乗り_\(放送\) "wikilink")）で放送した。
+当初は2007年[7月22日](../Page/7月22日.md "wikilink")に投開票が実施され、特番が編成される予定だったが、国会延長により1週遅れたため『[27時間テレビ](../Page/FNS27時間テレビ_\(2007年\).md "wikilink")』との兼ね合いから午後9時15分から放送した（『27時間テレビ』から[ステブレレスで接続](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")）。このため午後8時からの[出口速報は](../Page/出口調査.md "wikilink")『27時間テレビ』内（通常は[日曜の](../Page/日曜日.md "wikilink")[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")が[日本テレビ系であるにもかかわらず](../Page/日本テレビ放送網.md "wikilink")、『27時間テレビ』を優先したために『ZERO×選挙』を[飛び乗りしたテレビ宮崎も含む](https://ja.wikipedia.org/wiki/飛び乗り_\(放送\) "wikilink")）で放送した。
 
 『27時間テレビ』と直結した 第1部は、[民放横並びトップの視聴率](../Page/民間放送.md "wikilink")12.4%を記録した。
 
@@ -90,7 +90,7 @@
 
 例年通り、開票速報中や東京選挙区中継時間にローカル枠が設けられた。
 
-  - [北海道文化放送](../Page/北海道文化放送.md "wikilink")では、『[uhbスーパーニュース](https://ja.wikipedia.org/wiki/uhbスーパーニュース "wikilink")』の[京谷和央](https://ja.wikipedia.org/wiki/京谷和央 "wikilink")と[松本裕子](../Page/松本裕子_\(アナウンサー\).md "wikilink")、[北海道新聞](../Page/北海道新聞.md "wikilink")の解説委員が出演した。
+  - [北海道文化放送](../Page/北海道文化放送.md "wikilink")では、『[uhbスーパーニュース](https://ja.wikipedia.org/wiki/uhbスーパーニュース "wikilink")』の[京谷和央](../Page/京谷和央.md "wikilink")と[松本裕子](../Page/松本裕子_\(アナウンサー\).md "wikilink")、[北海道新聞](../Page/北海道新聞.md "wikilink")の解説委員が出演した。
   - [東海テレビでは](../Page/東海テレビ放送.md "wikilink")、『[東海テレビスーパーニュース](../Page/東海テレビスーパーニュース.md "wikilink")』の中村と宮沢が司会を、コメンテーターを[大谷昭宏](../Page/大谷昭宏.md "wikilink")が担当した。地域の話題だけでなく全国的な情勢の分析も行った。
   - [関西テレビでは](../Page/関西テレビ放送.md "wikilink")、『[FNNスーパーニュースアンカー](../Page/FNNスーパーニュースアンカー.md "wikilink")』をベースにした番組を展開した。メインキャスターは[山本浩之](../Page/山本浩之_\(アナウンサー\).md "wikilink")、キャスターは[村西利恵](https://ja.wikipedia.org/wiki/村西利恵 "wikilink")と[豊田康雄](../Page/豊田康雄.md "wikilink")、コメンテーターは[青山繁晴](../Page/青山繁晴.md "wikilink")と[江川達也](../Page/江川達也.md "wikilink")が担当した。
   - [岡山放送](../Page/岡山放送.md "wikilink")では21時台の大半をローカル枠に充てた。これは自民党の[大物議員が落選](../Page/片山虎之助.md "wikilink")（放送時点では苦戦）した[岡山](../Page/岡山県選挙区.md "wikilink")・[香川両選挙区の動向を詳しく伝えたためである](../Page/香川県選挙区.md "wikilink")。『FNNスーパー選挙王』が終了した後は、午前2時 - 午前2時30分に『OHKスーパー選挙王』を放送した。

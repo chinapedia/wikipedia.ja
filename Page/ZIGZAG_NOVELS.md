@@ -66,4 +66,4 @@
   - ドリームダイバー（ゆらい千白/薄葉カゲロー）
   - [魔王降臨\!](https://ja.wikipedia.org/wiki/魔王降臨! "wikilink")（[吉野匠](https://ja.wikipedia.org/wiki/吉野匠 "wikilink")/藤井利秋）
 
-[Category:ノベルズ](https://ja.wikipedia.org/wiki/Category:ノベルズ "wikilink") [Category:廃刊したライトノベル_(レーベル別)](https://ja.wikipedia.org/wiki/Category:廃刊したライトノベル_\(レーベル別\) "wikilink")
+[Category:ノベルズ](https://ja.wikipedia.org/wiki/Category:ノベルズ "wikilink") [Category:廃刊したライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:廃刊したライトノベルレーベル "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink") [Category:2007年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行終了の刊行物 "wikilink")

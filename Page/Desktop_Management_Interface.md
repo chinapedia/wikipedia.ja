@@ -32,4 +32,4 @@ DMTF は [Common Information Model](../Page/Common_Information_Model.md "wikilin
 
 [Category:ネットワーク管理](https://ja.wikipedia.org/wiki/Category:ネットワーク管理 "wikilink")
 
-1.  [DMTF Announces End of Life for DMI](http://web.archive.org/web/20050206074338/http://www.dmtf.org/standards/dmi/self_cert)（2005年2月6日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+1.  [DMTF Announces End of Life for DMI](https://web.archive.org/web/20050206074338/http://www.dmtf.org/standards/dmi/self_cert)（2005年2月6日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

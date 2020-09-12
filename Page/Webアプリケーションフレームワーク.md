@@ -3,7 +3,7 @@
 
 **Web アプリケーションフレームワーク**（ウェブアプリケーションフレームワーク、[英](../Page/英語.md "wikilink"): *Web Application Framework*）は、動的な [ウェブサイト](../Page/ウェブサイト.md "wikilink")、[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")、[Webサービス](../Page/Webサービス.md "wikilink")の[開発をサポートするために設計された](../Page/Webプログラミング.md "wikilink")[アプリケーションフレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")である。 フレームワークの目的は、Web開発で用いられる共通した作業に伴う労力を軽減することである。たとえば、多数のフレームワークが[データベース](../Page/データベース.md "wikilink")へのアクセスのためのライブラリや、[テンプレートエンジン](../Page/テンプレートエンジン.md "wikilink")（→[Webテンプレート](https://ja.wikipedia.org/wiki/Webテンプレート "wikilink")）、[セッション](../Page/セッション.md "wikilink")管理を提供し、[コードの再利用](https://ja.wikipedia.org/wiki/コードの再利用 "wikilink")を促進させるものもある。
 
-## Webアプリケーションフレームワークの発展
+## Webアプリケーションフレームワークの発展の歴史
 
 ### Common Gateway Interface (CGI)
 

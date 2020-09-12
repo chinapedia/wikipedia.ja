@@ -105,7 +105,7 @@
 
 ## 外部リンク
 
-  - [ドラマ版『失踪HOLIDAY』公式サイト](http://www.tv-asahi.co.jp/s-holiday/)
+  -
   - [ドラマ版『失踪HOLIDAY』公式ブログ 「菅原家の疾走日記」](http://blog.tv-asahi.co.jp/s-holiday/)
 
 

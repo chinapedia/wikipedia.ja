@@ -49,7 +49,7 @@
         過去にはリスナーから「食」や「農」に関する質問メールの募集を行っており、JAさいたま主催の[作文](../Page/作文.md "wikilink")コンクールで入賞した作文の朗読をしたこともある。
   - ライオンズレポート
       -
-        11:40頃 - [サタデー&サンデーライオンズのライオンズナビゲーター](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")）・[吉野麻子](../Page/吉野麻子.md "wikilink")（2005年～2011年度は[千代綾香](../Page/千代綾香.md "wikilink")が、2012年度は[工藤むつみ](https://ja.wikipedia.org/wiki/工藤むつみ "wikilink")）が[プロ野球](../Page/プロ野球.md "wikilink")球団の[西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")の試合直前の最新情報を伝える。
+        11:40頃 - [サタデー&サンデーライオンズのライオンズナビゲーター](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")）・[吉野麻子](../Page/吉野麻子.md "wikilink")（2005年～2011年度は[千代綾香](../Page/千代綾香.md "wikilink")が、2012年度は[工藤むつみ](https://ja.wikipedia.org/wiki/工藤むつみ "wikilink")）が[プロ野球](../Page/プロ野球.md "wikilink")球団の[西武ライオンズの試合直前の最新情報を伝える](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")。
 
 ## 終了コーナー
 

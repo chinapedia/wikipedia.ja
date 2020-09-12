@@ -25,7 +25,7 @@
       - [PlayStation 2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[エルヴァンディアストーリー](../Page/エルヴァンディアストーリー.md "wikilink")」主題歌。
 8.  **True Name**
       - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲：米倉千尋、編曲：高山和芽
-      - [朴璐美の](../Page/朴ロ美.md "wikilink")1st[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")「ぼくとキミと果てなき空」収録曲の[セルフカバー](../Page/セルフカバー.md "wikilink")である。
+      - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")の1st[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")「ぼくとキミと果てなき空」収録曲の[セルフカバー](../Page/セルフカバー.md "wikilink")である。
 9.  **恋の時間**
       - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲・編曲：高山和芽
 10. **胸いっぱいの愛**

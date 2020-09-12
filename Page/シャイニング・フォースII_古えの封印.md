@@ -3,15 +3,13 @@
 
 『**シャイニング・フォースII 古えの封印**』（シャイニング・フォースツー いにしえのふういん、*Shining Force II*）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本の[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")から発売された[メガドライブ](../Page/メガドライブ.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
-## 概要
-
 同社が展開している『[シャイニング・シリーズ](../Page/シャイニング・シリーズ.md "wikilink")』（[1991年](../Page/1991年.md "wikilink") - ）第6作目。プレイヤーは主人公「ボウイ」を操作し、封印を解かれた魔王ゼオンを倒しグランシール王国を救出する事を主な目的としてプレイすることになる。
 
-前作『[シャイニング・フォース 神々の遺産](../Page/シャイニング・フォース_神々の遺産.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")。以下「前作」と記載する場合あり）とほぼ同じシステムであるが、登場キャラクターを一新。物語については前作と同一世界だが異なる大陸を舞台としているとされる。前作との詳しい関連性についてはゲーム本編では殆ど触れられないが、のちに刊行された小説版『シャイニング・フォース 神竜の血脈』では、前作と今作の登場人物が登場し関連性が書かれ、前作のその後の物語であることが明記されている\[1\]。
+前作『[シャイニング・フォース 神々の遺産](../Page/シャイニング・フォース_神々の遺産.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")。以下「前作」と記載する場合あり）とほぼ同じシステムであるが、登場キャラクターを一新。物語については前作と同一世界だが異なる大陸を舞台としているとされる。前作との詳しい関連性についてはゲーム本編ではほとんど触れられないが、のちに刊行された小説版『シャイニング・フォース 神竜の血脈』では、前作と今作の登場人物が登場し関連性が書かれ、前作のその後の物語であることが明記されている\[1\]。
 
 開発は[クライマックスおよび](../Page/クライマックス_\(ゲーム会社\).md "wikilink")[ソニック](../Page/キャメロット_\(ゲーム会社\).md "wikilink")（現：キャメロット）\[2\]が行い、プロデューサーは前作に続き[高橋宏之](../Page/高橋宏之.md "wikilink")、ディレクターは前作を手掛けた田口泰宏および[ゲームギア](../Page/ゲームギア.md "wikilink")用ソフト『[シャイニング・フォース外伝 遠征・邪神の国へ](https://ja.wikipedia.org/wiki/シャイニング・フォース外伝_遠征・邪神の国へ "wikilink")』（[1992年](../Page/1992年.md "wikilink")）を手掛けた[高橋秀五](../Page/高橋秀五.md "wikilink")、音楽は『シャイニング・フォース外伝 遠征・邪神の国へ』を手掛けた武内基朗、キャラクター・デザインはイラストレーターの[SUEZEN](../Page/SUEZEN.md "wikilink")が担当している。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2019年](../Page/2019年.md "wikilink")まで[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。欧米では[PlayStation 3および](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Xbox 360用ソフト](../Page/Xbox_360.md "wikilink")『*Sonic's Ultimate Genesis Collection*』（[2009年](../Page/2009年.md "wikilink")）などのオムニバスソフトに収録された。（より細かい他機種展開については、本項の副節「[\#移植版](https://ja.wikipedia.org/wiki/#移植版 "wikilink")」を参照）
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2019年](../Page/2019年.md "wikilink")まで[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。欧米では[PlayStation 3および](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Xbox 360用ソフト](../Page/Xbox_360.md "wikilink")『*Sonic's Ultimate Genesis Collection*』（[2009年](../Page/2009年.md "wikilink")）などのオムニバスソフトに収録された（他機種展開についての詳細は「[\#移植版](https://ja.wikipedia.org/wiki/#移植版 "wikilink")」を参照）。
 
 ## ゲーム内容
 
@@ -288,7 +286,7 @@
 ソニック</p></td>
 <td><p>セガ</p></td>
 <td><p>ダウンロード<br />
-(<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>)</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td></td>
 <td><p>2019年1月31日 配信・販売終了</p></td>
 </tr>
@@ -362,11 +360,11 @@
 <td><p>セガ</p></td>
 <td><p>ダウンロード<br />
 (Steam)</p></td>
-<td></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>12</p></td>
+<td><p>8</p></td>
 <td><p>光明與黑暗續戰篇II 古代的封印</p></td>
 <td><p>日本を除く東アジア圏<br />
 2019年9月19日<br />
@@ -432,12 +430,6 @@
   - [Wii版（バーチャルコンソール） 本作紹介ページ](http://vc.sega.jp/vc_shiningforce2/)
 
   -   - 掲載されている説明書は日本版。
-
-※ 下記リンクはファンによる非公式サイト。一応閲覧注意。（すべて英語表記）
-
-  - [SHINING FORCE CENTRAL](http://www.shiningforcecentral.com/)
-
-  - （英語）
 
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:シャイニング・シリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:シャイニング・シリーズのコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 

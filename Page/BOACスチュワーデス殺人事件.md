@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Zenpukuji_river,_from_miyashita_bridge.JPG](https://ja.wikipedia.org/wiki/File:Zenpukuji_river,_from_miyashita_bridge.JPG "fig:Zenpukuji_river,_from_miyashita_bridge.JPG") 1959年（昭和34年）3月10日の午前7時40分頃、東京都杉並区の[善福寺川](../Page/善福寺川.md "wikilink")（[大宮八幡宮](https://ja.wikipedia.org/wiki/大宮八幡宮 "wikilink")近くの宮下橋）下流で、[英国海外航空](../Page/英国海外航空.md "wikilink")（現ブリティッシュ・エアウェイズ）の日本人女性客室乗務員（当時27歳）が水死体で発見された。はじめは自殺と認定されたが、翌11日慶応病院での司法解剖の結果、他殺(扼殺)の疑いが高いとして捜査が開始された\[1\]。
+[Zenpukuji_river,_from_miyashita_bridge.JPG](https://ja.wikipedia.org/wiki/File:Zenpukuji_river,_from_miyashita_bridge.JPG "fig:Zenpukuji_river,_from_miyashita_bridge.JPG") 1959年（昭和34年）3月10日の午前7時40分頃、東京都杉並区の[善福寺川](../Page/善福寺川.md "wikilink")（[大宮八幡宮](https://ja.wikipedia.org/wiki/大宮八幡宮 "wikilink")近くの宮下橋）下流で、[英国海外航空](../Page/英国海外航空.md "wikilink")（現ブリティッシュ・エアウェイズ）の日本人女性客室乗務員（当時27歳）が水死体で発見された。はじめは自殺と認定されたが、翌11日に[慶應義塾大学病院](../Page/慶應義塾大学病院.md "wikilink")での司法解剖の結果、他殺（扼殺）の疑いが高いとして捜査が開始された\[1\]。
 
 [被害者](../Page/被害者.md "wikilink")の交友関係から、[カソリック](https://ja.wikipedia.org/wiki/カソリック "wikilink")杉並ドンボスコ[修道院](../Page/修道院.md "wikilink")の会計主任でベルメルシュ・ルイズ[神父](../Page/神父.md "wikilink")\[2\]（[ベルギー人](../Page/ベルギー人.md "wikilink")、当時38歳 ）が[捜査](../Page/捜査.md "wikilink")線上に浮かんだ。警察は、重要参考人が外国人で神父であることから、マスコミに知られて騒がれると捜査の障害になるという理由で、極秘に捜査を進めていた。だが、1959年4月12日、NHKのドキュメンタリー番組「[日本の素顔](https://ja.wikipedia.org/wiki/日本の素顔 "wikilink")」で、横浜出入国管理事務所（現[東京出入国在留管理局横浜支局](../Page/東京出入国在留管理局横浜支局.md "wikilink")）の壁に貼っている複数の顔写真の中の神父の写真がクローズアップされ\[3\]、これをきっかけに重要参考人の顔と名前がマスコミに漏れてしまうこととなる\[4\]。
 
@@ -44,7 +44,7 @@
 
 [Category:昭和時代戦後の殺人事件](https://ja.wikipedia.org/wiki/Category:昭和時代戦後の殺人事件 "wikilink") [Category:日本の未解決殺人事件](https://ja.wikipedia.org/wiki/Category:日本の未解決殺人事件 "wikilink") [Category:杉並区の歴史](https://ja.wikipedia.org/wiki/Category:杉並区の歴史 "wikilink") [Category:1959年の日本の事件](https://ja.wikipedia.org/wiki/Category:1959年の日本の事件 "wikilink") [Category:ブリティッシュ・エアウェイズ](https://ja.wikipedia.org/wiki/Category:ブリティッシュ・エアウェイズ "wikilink") [Category:戦後の東京](https://ja.wikipedia.org/wiki/Category:戦後の東京 "wikilink") [Category:1959年3月](https://ja.wikipedia.org/wiki/Category:1959年3月 "wikilink")
 
-1.  集英社編「ベルメルシュ神父のアリバイ」『週刊明星』集英社、1959年6月14日号(No.23)。p. 66－70.
+1.  集英社編「ベルメルシュ神父のアリバイ」『週刊明星』集英社、1959年6月14日号(No.23)。p. 66-70.
 2.  2017年3月17日死去。
 3.  これは、神父の出国をおさえるための手配写真であった。
 4.

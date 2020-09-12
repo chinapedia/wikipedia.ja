@@ -1,7 +1,10 @@
 > この記事は[NIL](https://ja.wikipedia.org/wiki/NIL)から翻訳されています。
 
 
-『**NIL**』（ニル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[the GazettEの通算](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")8作目の[アルバム](../Page/アルバム.md "wikilink")。the GazettE 2枚目の[フルアルバム](https://ja.wikipedia.org/wiki/フルアルバム "wikilink")。
+</ref> | Certification = | Last album = [蛾蟇](../Page/蛾蟇.md "wikilink")
+（2005年） | This album = **NIL**
+（2006年） | Next album = [大日本異端芸者的脳味噌逆回転絶叫音源集](../Page/大日本異端芸者的脳味噌逆回転絶叫音源集.md "wikilink")
+（2006年） | Misc = }} 『**NIL**』（ニル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[the GazettEの通算](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")8作目の[アルバム](../Page/アルバム.md "wikilink")。the GazettE 2枚目の[フルアルバム](https://ja.wikipedia.org/wiki/フルアルバム "wikilink")。\[1\]\[2\]
 
 ## 概要
 
@@ -76,3 +79,6 @@
 ## 脚注
 
 [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:The_GazettEのアルバム](https://ja.wikipedia.org/wiki/Category:The_GazettEのアルバム "wikilink")
+
+1.   the GazettE|url=[https://www.jame-world.com/br/release/12598-nil-the-gazette-album-cd.html|website=JaME|accessdate=2020-08-18](https://www.jame-world.com/br/release/12598-nil-the-gazette-album-cd.html%7Cwebsite=JaME%7Caccessdate=2020-08-18)}}
+2.

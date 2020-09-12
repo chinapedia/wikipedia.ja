@@ -54,7 +54,8 @@
 1.  **[For the future](../Page/For_the_future.md "wikilink")**
       -
         作詞：[大渡亮](../Page/大渡亮.md "wikilink")　作曲：[D・A・I](../Page/長尾大.md "wikilink")　編曲：D・A・I & [Seiji Kameda](../Page/亀田誠治.md "wikilink")
-        先行シングルとなった19枚目のシングルタイトル曲。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』テーマソング。
+        19thシングル。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』テーマソング。
 2.  **Blue**
       -
         作詞：大渡亮　作曲：D・A・I　編曲：D・A・I & Seiji Kameda
@@ -66,7 +67,8 @@
 4.  **[楽園](../Page/楽園_\(Do_As_Infinityの曲\).md "wikilink")**
       -
         作詞：大渡亮　作曲：D・A・I　編曲：D・A・I & Seiji Kameda
-        18枚目のシングルタイトル曲。全国[東宝](../Page/東宝.md "wikilink")系公開劇場版アニメ映画『[犬夜叉 紅蓮の蓬莱島](https://ja.wikipedia.org/wiki/犬夜叉_紅蓮の蓬莱島 "wikilink")』主題歌。
+        18thシングル。
+        全国[東宝](../Page/東宝.md "wikilink")系公開劇場版アニメ映画『[犬夜叉 紅蓮の蓬莱島](https://ja.wikipedia.org/wiki/犬夜叉_紅蓮の蓬莱島 "wikilink")』主題歌。
 5.  **Ever...**
       -
         作詞：[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")　作曲：D・A・I　編曲：D・A・I & Seiji Kameda
@@ -99,7 +101,7 @@
         [ロッテ](../Page/ロッテ.md "wikilink")『フレッシュミストガム』[CMソング](../Page/コマーシャルソング.md "wikilink")。
 12. **[柊](../Page/柊_\(Do_As_Infinityの曲\).md "wikilink") -acoustic ver.-**
       -
-        Tシャツ付き初回限定生産盤及びCD・CD+DVDの初回生産分のみに収録された[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")。[2003年](../Page/2003年.md "wikilink")発表の17枚目のシングルタイトル曲の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョン。ボーカルも新録されている。
+        Tシャツ付き初回限定生産盤及びCD・CD+DVDの初回生産分のみに収録された[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")。[2003年](../Page/2003年.md "wikilink")発表の17thシングルの[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョン。ボーカルも新録されている。
 
 ### DVD Side
 

@@ -46,7 +46,7 @@
 キー局となった文化放送と東海ラジオ・ABCラジオ（番組終了時）はコナミがスポンサーとなっていた。また、ネット局においては途中からの放送開始や打ち切りに伴う局数の変動があった。
 
   - [文化放送](../Page/文化放送.md "wikilink")
-  - [ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")
+  - [ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
   - [福井放送](../Page/福井放送.md "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [山口放送](../Page/山口放送.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")（アニメマインド内にて放送）

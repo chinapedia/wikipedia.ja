@@ -29,6 +29,5 @@
 
 ## 外部リンク
 
-  - [ケータイ新製品SHOW CASE J-SH51（アストロネイビー）](http://k-tai.impress.co.jp/cda/article/showcase_top/8429.html)
-
+  -
 [Category:携帯電話端末_(ソフトバンク_第二世代)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(ソフトバンク_第二世代\) "wikilink") [Category:携帯電話端末_(シャープ)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(シャープ\) "wikilink")

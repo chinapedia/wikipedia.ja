@@ -86,4 +86,4 @@
   - [MENSOUL ディスコの鉄人\!](http://blog.excite.co.jp/men-soul/)
   - [MEN☆SOULのGROOVE交際～今夜もE-FUNK～](http://www.air-g.co.jp/men/main.html) - [エフエム北海道](../Page/エフエム北海道.md "wikilink")土曜日20:30-21:00(JST) 2005年11月開始
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ファンク](https://ja.wikipedia.org/wiki/Category:ファンク "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:ファンク](https://ja.wikipedia.org/wiki/Category:ファンク "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink")

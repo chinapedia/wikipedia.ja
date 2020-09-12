@@ -13,7 +13,7 @@
 
 [2013年](../Page/2013年.md "wikilink")、エイベックス傘下のインディーズレーベルbinyl records／dive in\! discと契約し、アルバム『The Fact Is』をリリース。それに伴い、23本のジャパンツアーを開催する。[2015年](../Page/2015年.md "wikilink")7月には、[2004年](../Page/2004年.md "wikilink")以来11年振りにFile 13 Recordsよりアルバム『SHIT\!』を全世界リリース。また、[2016年](../Page/2016年.md "wikilink")からは元[M-AGE](../Page/M-AGE.md "wikilink")/THE MORTALの三代堅率いるバンド青天の霹靂とのツーマンツアー「青天のmyway」を定期的に開催している。
 
-[2020年](../Page/2020年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")、公式SNSにてベーシスト[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")の加入を発表\[1\]。加えて、File 13 RecordsよりEP『BALL & CHAIN』が3月27日に発売されることがアナウンスされている\[2\]。
+[2020年](../Page/2020年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")、公式SNSにてベーシスト[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")の加入を発表\[1\]。加えて、活動20周年を記念して海外進出の足掛かりとなった音源『BOOT BUM』シリーズに特典音源を追加した『BOOT BUM BOX』、File 13 RecordsよりEP『BALL & CHAIN』、『Fantasize for another day』、『Tentacle Entertain』を発表するなど、精力的な活動を続けている。
 
 ## メンバー
 
@@ -448,106 +448,18 @@ BLWT-004:UK</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
-<td><p>my way my casette</p></td>
-<td></td>
-<td><ol>
-<li>earthly heavenly</li>
-<li>book2<br />
-</li>
-</ol>
-<p>初音源のカセットテープ・非売品</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
-<td><p>A WAKE</p></td>
-<td></td>
-<td><ol>
-<li>A WAKE<br />
-</li>
-</ol>
-<p>限定80本のカセットテープ音源。大阪扇町DICEにて、桂田5主催『多摩川日記』発売記念ライブ出演時に配付</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
 <td><p>ACUPUNCTURE MAN</p></td>
 <td><p>BLWT-003</p></td>
 <td><ol>
 <li>Acupuncture Man (Dirty Version)</li>
 <li>Kill Your Idol</li>
-</ol></td>
-<td><p>BLOWOUT(UK), Graveyard Label(日本) 45RPM ビニール</p></td>
+</ol>
+<p>7インチシングル盤のレコードで販売</p></td>
+<td><p>BLOWOUT(UK),<br />
+Graveyard Label(日本)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a></p></td>
-<td><p>Demo CD "Angel"</p></td>
-<td></td>
-<td><ol>
-<li>Sweet Bitter Sweet</li>
-<li>The Crack of Dawn</li>
-<li>This Time</li>
-<li>The Last Apple on the Tree (Demo)</li>
-<li>China Moon (Demo)</li>
-<li>Good Days &amp; Bad Days<br />
-</li>
-</ol>
-<p>ライブ会場限定発売(完売)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月17日.md" title="wikilink">2月17日</a></p></td>
-<td><p>Demo CD "D"</p></td>
-<td></td>
-<td><ol>
-<li>Let It Drive</li>
-<li>Panty Lydia<br />
-</li>
-</ol>
-<p>100枚限定。ライブ会場限定販売(完売)</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
-<td><p>Demo CD "D" part3</p></td>
-<td></td>
-<td><ol>
-<li>Black Alien</li>
-<li>One Eye<br />
-</li>
-</ol>
-<p>ライブ会場限定販売(完売)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
-<td><p>Demo CD "D"</p></td>
-<td></td>
-<td><ol>
-<li>Pizza Baby</li>
-<li>Rocket Boy</li>
-<li>Black Alien</li>
-<li>One Eye</li>
-<li>Panty Lydia</li>
-<li>Let It Drive<br />
-</li>
-</ol>
-<p>ライブ会場限定発売(完売)</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
-<td><p>INVISIBLE MAN (Demo CD)</p></td>
-<td></td>
-<td><ol>
-<li>INVISIBLE MAN (Demo)<br />
-</li>
-</ol>
-<p>ライブ会場、オフィシャルHPにて販売(完売)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td><p>Blue</p></td>
 <td><p>FT-87</p></td>
@@ -556,21 +468,23 @@ BLWT-004:UK</p></td>
 <li>she sky my heart with blue</li>
 <li>This Time</li>
 <li>Blue Tape</li>
-</ol></td>
-<td><p>File13 Records(US) カセット</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
-<td><p>Romance (Demo CD)</p></td>
-<td></td>
-<td><ol>
-<li>Romance (Demo)<br />
-</li>
 </ol>
-<p>ライブ会場限定発売(完売)</p></td>
-<td></td>
+<p>カセットで販売</p></td>
+<td><p>File13 Records(US)</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/8月11日.md" title="wikilink">8月11日</a></p></td>
+<td><p>SPRIT</p></td>
+<td><p>FT-90</p></td>
+<td><ol>
+<li>The Poison Arrows / Why we study history</li>
+<li><strong>my way my love</strong> / HONEY<br />
+</li>
+</ol>
+<p>The Poison Arrowsとのスプリットシングル。配信およびカセットで販売</p></td>
+<td><p>File13 Records(US)</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
 <td><p>BALL &amp; CHAIN</p></td>
 <td><p>FT-97</p></td>
@@ -580,13 +494,22 @@ BLWT-004:UK</p></td>
 </ol></td>
 <td><p>File 13 Records(US)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月2日.md" title="wikilink">5月2日</a></p></td>
 <td><p>Fantasize for Another Day</p></td>
-<td><p>FT-</p></td>
+<td><p>FT-98</p></td>
 <td><ol>
 <li>Fantasize for Another Day</li>
 <li>Diamond Sky is Swallowing My Storage</li>
+</ol></td>
+<td><p>File 13 Records(US)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
+<td><p>Tentacle Entertain</p></td>
+<td><p>FT-103</p></td>
+<td><ol>
+<li>Tentacle Entertain</li>
 </ol></td>
 <td><p>File 13 Records(US)</p></td>
 </tr>
@@ -655,6 +578,160 @@ BLWT-004:UK</p></td>
 <td><p>Graveyard Label</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### デモ音源
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>販売元</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
+<td><p>my way my casette</p></td>
+<td></td>
+<td><ol>
+<li>earthly heavenly</li>
+<li>book2<br />
+</li>
+</ol>
+<p>初音源のカセットテープ・非売品</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
+<td><p>A WAKE</p></td>
+<td></td>
+<td><ol>
+<li>A WAKE<br />
+</li>
+</ol>
+<p>限定80本のカセットテープ音源。大阪扇町DICEにて、桂田5主催『多摩川日記』発売記念ライブ出演時に配付</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a></p></td>
+<td><p>Demo CD "Angel"</p></td>
+<td></td>
+<td><ol>
+<li>Sweet Bitter Sweet</li>
+<li>The Crack of Dawn</li>
+<li>This Time</li>
+<li>The Last Apple on the Tree (Demo)</li>
+<li>China Moon (Demo)</li>
+<li>Good Days &amp; Bad Days<br />
+</li>
+</ol>
+<p>ライブ会場限定発売(完売)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月17日.md" title="wikilink">2月17日</a></p></td>
+<td><p>Demo CD "D"</p></td>
+<td></td>
+<td><ol>
+<li>Let It Drive</li>
+<li>Panty Lydia<br />
+</li>
+</ol>
+<p>100枚限定。ライブ会場限定販売(完売)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
+<td><p>Demo CD "D" part3</p></td>
+<td></td>
+<td><ol>
+<li>Black Alien</li>
+<li>One Eye<br />
+</li>
+</ol>
+<p>ライブ会場限定販売(完売)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
+<td><p>Demo CD "D"</p></td>
+<td></td>
+<td><ol>
+<li>Pizza Baby</li>
+<li>Rocket Boy</li>
+<li>Black Alien</li>
+<li>One Eye</li>
+<li>Panty Lydia</li>
+<li>Let It Drive<br />
+</li>
+</ol>
+<p>ライブ会場限定発売(完売)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td><p>INVISIBLE MAN (Demo CD)</p></td>
+<td></td>
+<td><ol>
+<li>INVISIBLE MAN (Demo)<br />
+</li>
+</ol>
+<p>ライブ会場、オフィシャルHPにて販売(完売)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
+<td><p>Romance (Demo CD)</p></td>
+<td></td>
+<td><ol>
+<li>Romance (Demo)<br />
+</li>
+</ol>
+<p>ライブ会場限定発売(完売)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月15日.md" title="wikilink">8月15日</a></p></td>
+<td><p>SECRET NOISE_1</p></td>
+<td><p>056</p></td>
+<td><ol>
+<li>Let's Go</li>
+<li>Beat Glue</li>
+<li>Halleluja</li>
+<li>crystalized</li>
+<li>ダレモイナイ</li>
+<li>sweet bitter sweet</li>
+</ol>
+<p>未発表音源を含む、過去のデモ音源をリマスターした限定盤の第一弾</p></td>
+<td><p>motto records</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月29日.md" title="wikilink">8月29日</a></p></td>
+<td><p>SECRET NOISE_2</p></td>
+<td></td>
+<td><ol>
+<li>Good days &amp; Bad Days</li>
+<li>A Man Of Loser</li>
+<li>Panty Lydia</li>
+<li>PIZZA BABY</li>
+<li>PIG</li>
+<li>夜</li>
+</ol>
+<p>未発表音源を含む、過去のデモ音源をリマスターした限定盤の第二弾</p></td>
+<td><p>motto records</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -790,18 +867,6 @@ BLWT-004:UK</p></td>
 <td><p>ブロードウェイ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/8月11日.md" title="wikilink">8月11日</a></p></td>
-<td><p>SPRIT</p></td>
-<td><p>FT-90</p></td>
-<td><ol>
-<li>The Poison Arrows / Why we study history</li>
-<li><strong>my way my love</strong> / HONEY<br />
-</li>
-</ol>
-<p>The Poison Arrowsとのスプリットシングル。配信およびカセットにて販売</p></td>
-<td><p>File13 Records</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -872,6 +937,10 @@ BLWT-004:UK</p></td>
 <tr class="odd">
 <td></td>
 <td><p>アルバム「I'll Cure You With Electricity」収録。監督: 上野コオイチ</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>シングル「TENTACLE ENTERTAIN」のMV</p></td>
 </tr>
 </tbody>
 </table>
@@ -3358,4 +3427,3 @@ BLWT-004:UK</p></td>
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:シューゲイザー・バンド](https://ja.wikipedia.org/wiki/Category:シューゲイザー・バンド "wikilink") [Category:ポスト・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・ハードコア・バンド "wikilink") [Category:ノイズロック・バンド](https://ja.wikipedia.org/wiki/Category:ノイズロック・バンド "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink")
 
 1.  <https://twitter.com/mywaymylove/status/1237945266717618176?s=20> MY WAY MY LOVE 公式Twitterより
-2.  <http://file-13.com/home/14293128> File 13 Records 公式サイトより

@@ -67,6 +67,6 @@
 ## 外部リンク
 
   - [i-revo内武装神姫RADIO RONDO 公式ページ](http://www.i-revo.jp/busou/)
-  - [インターネットラジオステーション＜音泉＞](http://www.onsen.ag/)
+  - [インターネットラジオステーション＜音泉＞](https://www.onsen.ag/)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:コナミのラジオ番組](https://ja.wikipedia.org/wiki/Category:コナミのラジオ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

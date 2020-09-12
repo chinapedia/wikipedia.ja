@@ -12,7 +12,7 @@
 ## 外部リンク
 
   - [公式サイト（英語）](http://www.thefratellis.com/)
-  - [ユニバーサル･ミュージックのザ･フラテリスのページ（日本語）](http://www.universal-music.co.jp/u-pop/artist/fratellis/index.html)
+  - [ユニバーサル･ミュージックのザ･フラテリスのページ（日本語）](https://www.universal-music.co.jp/fratellis/)
   - [The Fratellis On Myspace](http://www.myspace.com/littlebabyfratelli)
 
 [Category:2007年の楽曲](https://ja.wikipedia.org/wiki/Category:2007年の楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

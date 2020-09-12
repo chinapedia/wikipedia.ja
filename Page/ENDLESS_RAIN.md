@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作「[紅](../Page/紅_\(Xの曲\).md "wikilink")」に続き、メジャー・デビュー・アルバム『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』からのリカット・シングル。
+前作「[紅](../Page/紅_\(Xの曲\).md "wikilink")」に続き、メジャー・デビュー・アルバム『[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")』からのリカット・シングル。
 
 ライブではほぼ必ず演奏され、ファンとの合唱が行われる。
 
@@ -29,7 +29,7 @@
 ## 収録アルバム
 
   - **\#1**
-      - [BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")（スタジオアルバム、\#6）
+      - [BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")（スタジオアルバム、\#6）
       - [X SINGLES](../Page/X_SINGLES.md "wikilink")（ベストアルバム、\#3）
       - [B.O.X 〜Best of X〜](../Page/B.O.X_〜Best_of_X〜.md "wikilink")（ベストアルバム、\#6）
       - [BALLAD COLLECTION](../Page/BALLAD_COLLECTION_\(X_JAPANのアルバム\).md "wikilink")（ベストアルバム、\#3）

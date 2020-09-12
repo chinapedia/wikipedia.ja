@@ -52,7 +52,7 @@
 
 SCOPEにおいて平成14年度に採択された「次世代P2P型コンテンツ流通高度化技術に関する研究開発」に基づいて開発されたシステム。「次世代P2P型コンテンツ流通高度化技術に関する研究開発」は[CRL(代表研究者:苫米地英人)](http://www.crl.co.jp/)により提案されたものである。
 
-[総務省 戦略的情報通信研究開発推進制度(SCOPE) 平成14年度採択者一覧](http://www.soumu.go.jp/main_sosiki/joho_tsusin/scope/subject/s_h14.html)
+[総務省 戦略的情報通信研究開発推進制度(SCOPE) 平成14年度採択者一覧](https://www.soumu.go.jp/main_sosiki/joho_tsusin/scope/subject/s_h14.html)
 
 ## 脚注
 

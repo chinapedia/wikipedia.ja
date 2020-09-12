@@ -55,18 +55,18 @@
 
 ## 日本語吹替
 
-| 役名          | 俳優                                                                                       | 日本語吹替                                |
-| ----------- | ---------------------------------------------------------------------------------------- | ------------------------------------ |
-| ソフト版        | [フジテレビ版](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                              | 機内上映版                                |
-| ベル          | [クイーン・ラティファ](https://ja.wikipedia.org/wiki/クイーン・ラティファ "wikilink")                        | [朴璐美](../Page/朴ロ美.md "wikilink")     |
-| ウォッシュバーン    | [ジミー・ファロン](https://ja.wikipedia.org/wiki/ジミー・ファロン "wikilink")                            | [桐本琢也](../Page/桐本拓哉.md "wikilink")   |
-| ヴァネッサ       | [ジゼル・ブンチェン](../Page/ジゼル・ブンチェン.md "wikilink")                                             | [安藤麻吹](../Page/安藤麻吹.md "wikilink")   |
-| マータ・ロビンス    | [ジェニファー・エスポジート](../Page/ジェニファー・エスポジート.md "wikilink")                                     | [本田貴子](../Page/本田貴子.md "wikilink")   |
-| ジェシー        | [ヘンリー・シモンズ](https://ja.wikipedia.org/wiki/ヘンリー・シモンズ "wikilink")                          | [黒田崇矢](../Page/黒田崇矢.md "wikilink")   |
-| ウォッシュバーンのママ | [アン＝マーグレット](../Page/アン＝マーグレット.md "wikilink")                                             | [一城みゆ希](../Page/一城みゆ希.md "wikilink") |
-| マリンズ捜査官     | [クリスチャン・ケイン](https://ja.wikipedia.org/wiki/クリスチャン・ケイン "wikilink")                        | [咲野俊介](../Page/咲野俊介.md "wikilink")   |
-| レッドヘッド      | [アナ・クリスティーナ・デ・オリベイラ](https://ja.wikipedia.org/wiki/:en:Ana_Cristina_Oliveira "wikilink") |                                      |
-|             |                                                                                          |                                      |
+| 役名          | 俳優                                                                                       | 日本語吹替                                               |
+| ----------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| ソフト版        | [フジテレビ版](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")                              | 機内上映版                                               |
+| ベル          | [クイーン・ラティファ](https://ja.wikipedia.org/wiki/クイーン・ラティファ "wikilink")                        | [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink") |
+| ウォッシュバーン    | [ジミー・ファロン](https://ja.wikipedia.org/wiki/ジミー・ファロン "wikilink")                            | [桐本琢也](../Page/桐本拓哉.md "wikilink")                  |
+| ヴァネッサ       | [ジゼル・ブンチェン](../Page/ジゼル・ブンチェン.md "wikilink")                                             | [安藤麻吹](../Page/安藤麻吹.md "wikilink")                  |
+| マータ・ロビンス    | [ジェニファー・エスポジート](../Page/ジェニファー・エスポジート.md "wikilink")                                     | [本田貴子](../Page/本田貴子.md "wikilink")                  |
+| ジェシー        | [ヘンリー・シモンズ](https://ja.wikipedia.org/wiki/ヘンリー・シモンズ "wikilink")                          | [黒田崇矢](../Page/黒田崇矢.md "wikilink")                  |
+| ウォッシュバーンのママ | [アン＝マーグレット](../Page/アン＝マーグレット.md "wikilink")                                             | [一城みゆ希](../Page/一城みゆ希.md "wikilink")                |
+| マリンズ捜査官     | [クリスチャン・ケイン](https://ja.wikipedia.org/wiki/クリスチャン・ケイン "wikilink")                        | [咲野俊介](../Page/咲野俊介.md "wikilink")                  |
+| レッドヘッド      | [アナ・クリスティーナ・デ・オリベイラ](https://ja.wikipedia.org/wiki/:en:Ana_Cristina_Oliveira "wikilink") |                                                     |
+|             |                                                                                          |                                                     |
 
   - ソフト版：[VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")・[BD収録](../Page/Blu-ray_Disc.md "wikilink")
   - フジテレビ版：初回放送2008年3月22日『[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")』

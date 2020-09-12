@@ -5,7 +5,7 @@
 
 ## 概要
 
-会員数は[2011年](../Page/2011年.md "wikilink")1月現在で約2,100万人と\[1\]、日本国内では[日本航空と同グループが提供する](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")「[JALマイレージバンク](../Page/JALマイレージバンク.md "wikilink") (JMB)」（会員数約2,300万人）に次ぐ会員数を有する\[2\]。
+会員数は[2018年](../Page/2018年.md "wikilink")9月現在で約3360万人\[1\]\[2\]と、日本国内のマイレージサービスとしては最大の会員数を有する。
 
 [電子マネー](../Page/電子マネー.md "wikilink")「[Edy](../Page/楽天Edy.md "wikilink")」(現・楽天Edy、以下同じ)を運営する[ビットワレット](../Page/楽天Edy_\(企業\).md "wikilink")(現・楽天Edy)の事業初期に出資し、2003年4月より従来のANAマイレージクラブカードに替わり、Edyを搭載した「ANAマイレージクラブ(楽天)Edyカード」の発行を開始し、市内・空港カウンターでの国内線航空券販売やANA FESTA（[全日空商事](https://ja.wikipedia.org/wiki/全日空商事 "wikilink")）店舗でEdy決済の取り扱いを開始した。その後、個人向けの[ANAカード](../Page/ANAカード.md "wikilink")（提携[クレジットカード](../Page/クレジットカード.md "wikilink")）においてもEdyを搭載したものが発行開始され、その後発行している全ての個人向けAMCカード\[3\]にEdyが標準搭載されていた（2017年7月3日までに発行手続きが完了した場合。以降は、再発行を含め、楽天Edyは付かない新様式のカードとなった）。
 
@@ -201,7 +201,7 @@ ANAグループおよび[スターアライアンス](../Page/スターアライ
 
 [Category:全日本空輸](https://ja.wikipedia.org/wiki/Category:全日本空輸 "wikilink") [Category:マイレージサービス](https://ja.wikipedia.org/wiki/Category:マイレージサービス "wikilink")
 
-1.  「使えるマイレージに『ためても制約が…』改善」 『東京新聞』 2011年1月11日付朝刊
+1.
 2.
 3.  [みずほマイレージクラブ](https://ja.wikipedia.org/wiki/みずほマイレージクラブ "wikilink")ANAのようなAMC機能が一体化されたクレジットカードも含む
 4.

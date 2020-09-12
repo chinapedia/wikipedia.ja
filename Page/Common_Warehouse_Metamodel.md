@@ -59,4 +59,4 @@ CWM準拠のツール間で連携がうまくできるかどうかは CWM の規
   - [OMG CWM Specification](http://www.omg.org/technology/cwm/)
   - [OMG技術 CWM](http://www.otij.org/omginfo/technology/primer/cwm.html) オブジェクトテクノロジー研究所
 
-[Category:データベース](https://ja.wikipedia.org/wiki/Category:データベース "wikilink")
+[Category:データベース](https://ja.wikipedia.org/wiki/Category:データベース "wikilink") [Category:データウェアハウス](https://ja.wikipedia.org/wiki/Category:データウェアハウス "wikilink")

@@ -33,6 +33,7 @@ ttp://とする以外にも、以下のような手段が使われている。
   - h ttpとする
   - （h）ttpとする
   - hxxpとする
+      - 特にセキュリティ界隈で使われるということで、hxxpsと併せてIETFドラフトとして提案されている\[1\]。
   - h++pとする
   - h\*\*pとする
   - htpとする
@@ -57,7 +58,6 @@ ttp://とする以外にも、以下のような手段が使われている。
 
 ## h抜きの弊害
 
-  - **<http://>**までを抜いた方が[コピー&ペーストして](https://ja.wikipedia.org/wiki/コピペ "wikilink")[アドレスバー](https://ja.wikipedia.org/wiki/アドレスバー "wikilink")へ入力する際、利用者に親切であるため、h抜きに対しては非難も少なくない。
   - ttpとすることで、
       - IE6までのブラウザでftp://と誤認識される。
       - アドレスバー検索ツールが反応したりする。
@@ -66,6 +66,8 @@ ttp://とする以外にも、以下のような手段が使われている。
         等の弊害がある。
   - [亜種の場合](https://ja.wikipedia.org/wiki/#h抜きの亜種 "wikilink")、http自体を省略した場合には問題が無いが、他のパターンでは[デッドリンクになったり](../Page/リンク切れ.md "wikilink")、思いがけないサイトにアクセスされる場合がある。
 
+## 脚注
+
 ## 関連項目
 
   - [HTML要素](../Page/HTML要素.md "wikilink")
@@ -73,3 +75,5 @@ ttp://とする以外にも、以下のような手段が使われている。
   - [無断リンク](../Page/無断リンク.md "wikilink")
 
 [Category:インターネットの文化](https://ja.wikipedia.org/wiki/Category:インターネットの文化 "wikilink") [Category:Uniform_Resource_Locator](https://ja.wikipedia.org/wiki/Category:Uniform_Resource_Locator "wikilink")
+
+1.

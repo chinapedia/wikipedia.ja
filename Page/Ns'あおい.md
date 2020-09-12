@@ -280,6 +280,6 @@
 ## 外部リンク
 
   - [モーニング マンガ.com](http://morningmanga.com/)
-  - [Ns'あおいのブログ](http://etou.exblog.jp/) - 作者による『Ns'あおい』の情報ブログ
+  - [Ns'あおいのブログ](https://etou.exblog.jp/) - 作者による『Ns'あおい』の情報ブログ
 
 [Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:モーニングの漫画作品](https://ja.wikipedia.org/wiki/Category:モーニングの漫画作品 "wikilink") [Category:医療漫画](https://ja.wikipedia.org/wiki/Category:医療漫画 "wikilink") [Category:看護師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:看護師を主人公とした漫画作品 "wikilink")

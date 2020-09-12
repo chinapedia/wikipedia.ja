@@ -214,8 +214,11 @@ SONARを中核とした、専用ハードウェアによる音楽製作システ
   - Version 2019.05
   - Version 2019.07
   - Version 2019.09
+  - Version 2019.11
   - Version 2019.12
-  - Version 2020.01\[49\]
+  - Version 2020.01
+  - Version 2020.04
+  - Version 2020.05\[49\]
 
 ## 引用文献
 

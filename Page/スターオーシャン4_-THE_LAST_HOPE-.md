@@ -40,8 +40,7 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
     前作のバトルコレクションの発展型に当たる「アーツコレクション」、いわゆる図鑑的な要素である「ウェポンコレクション」「アイテムコレクション」「モンスターコレクション」「スペースシップコレクション」がある。
     アーツコレクションはキャラクター毎に100項目ずつ（合計900個）用意されており、一定数達成することにより戦闘ボイスパターンの増加やレベルの上限の引き上げ（200→255）などの特典がある。
     モンスターコレクションは撃破数によって解析率が上昇するようになっており、100%に達したモンスターは「モンスタージュエル」というアクセサリーに宿す事でステータス強化を得られるようになる。
-    コレクションはいずれも実績の解除条件となっており、特にアーツコレクションのコンプリートは、その数の膨大さや一部の達成困難な項目などの存在もあり鬼門となっている。
-    コレクションの内容はXbox 360版は[ゲーマータグ](https://ja.wikipedia.org/wiki/Xbox_Live#ゲーマータグ "wikilink")、PS3版以降はシステムデータに記録され、異なるセーブデータ間で共有される。ただし、一部のアーツコレクションの達成に必要な回数は保持されず、同じセーブデータで達成する必要がある。
+    コレクションはいずれも実績の解除条件となっており、特にアーツコレクションのコンプリートはその数の膨大さや一部の達成困難な項目などの存在も鬼門となっている。
 
 ## 登場人物
 
@@ -53,7 +52,7 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
     武器 - [片手剣](../Page/剣.md "wikilink")
     男性 / 生年月日 - 2076年7月30日 / 身長 - 178.5cm / 体重 - 66kg
     本作の主人公。第1期宇宙開拓隊（SRF）に志願した青年。どんな時も前向きな青年。宇宙船カルナスのクルーだったが、惑星エイオスへのワープ事故がきっかけで同艦の艦長になる。仲間を信頼し、思いやる気持ちは人一倍で、クルーからも全幅の信頼を寄せられている。
-    優秀な人物だが、自分以上に優秀なクロウをライバル視しており、彼に追いつくことが目標。
+    優秀な人物だが、自分以上に優秀なクロウをライバル視しており、彼に追いつくことが目標。幼少に科学者である父親のアーノルドを魔物の襲撃に付いた負傷で亡くしている。
     フォーチュンベイビーと呼ばれるムーア人の遺伝子を持つ存在。右手の甲に紋章を持っている。能力は過酷な環境に対する耐性と直感力、紋章術の3つ。
     習得する必殺技は相手が1体の時に性能を発揮するものが多い。銃を利用した射撃は苦手らしい。物語の序盤で紋章術も使えるようになる。
   - レイミ / レイミ・サイオンジ（西園寺 麗美/デフォルト名/変更可）
@@ -69,7 +68,7 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
     種族 - エルダー人
     武器 - [レイピア](../Page/レイピア.md "wikilink")
     男性 / 生年月日 - 2078年2月3日 / 身長 - 166cm / 体重 - 55kg
-    惑星エルダーの星間調査団に所属する少年。惑星エイオスで出会ったエッジを尊敬し、彼に追いつくことを目標にしている。丁寧な物腰で他人と接するが、リムルを相手にすると感情的になるという一面もある。とある理由からエイルマットと交代する形で離脱する。
+    惑星エルダーの星間調査団に所属する少年。左利き。惑星エイオスで出会ったエッジを尊敬し、彼に追いつくことを目標にしている。丁寧な物腰で他人と接するが、リムルを相手にすると感情的になるという一面もある。とある理由からエイルマットと交代する形で離脱する。
     接近戦もある程度はこなせるが、バトルスキルは主に地と闇と無の呪紋のみで必殺技は習得しない。
   - リムル / リムル・レムリ・ファイ（デフォルト名/変更可）
     声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")
@@ -78,7 +77,6 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
     女性 / 生年月日 - 2081年6月20日 / 身長 - 123.6cm（成長した姿 - 154cm） / 体重 - 34kg
     惑星レムリックに住む少女。紋章術に関しては天性の才能があり、“わんわ”と名付けた[ケルベロス](../Page/ケルベロス.md "wikilink")と契約している。年の割には幼い容姿と言動をしているがこれはケルベロスとの契約に至った経緯と関係がある。いつも無表情ではあるが、人並みの感情は持っている。フェイズとは、喧嘩するほど仲がいい。一人称は「リム」。メンバーをあだ名で呼ぶが、フェイズだけは呼び捨てになっている。トリオム村の村長を務める祖父のギムド（声 - 茶風林）がいる。
     主に火の呪紋とケルベロスを召喚して繰り出す強力な必殺技があり、回復や補助の呪紋も習得可能となる。
-    エンディングでは彼女の成長した姿が登場しており、ある人物と再開している。
   - バッカス / バッカス・D-79（デフォルト名/変更可）
     声 - [安元洋貴](../Page/安元洋貴.md "wikilink")
     種族 - モーフィス
@@ -183,7 +181,7 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
     種族 - 遊牧民
     武器 - 弓
     女性 / 生年月日 - 2079年5月17日 / 身長 - 不明 / 体重 - 不明
-    遊牧民族の少女。エルダーですら実用には程遠い転送呪紋を容易に扱う。彼女がシュドネイ教に一族共々誘拐されてしまった事がきっかけで、とある人物の運命を大きく変えることになる。
+    遊牧民族の少女。エルダーですら実用には程遠い転送呪紋を容易に扱う。彼女がシュドネイ教に一族共々誘拐されてしまうが、後にエッジ達に助け出される。
   - タミエル
     声 - [佐藤晴男](../Page/佐藤晴男.md "wikilink")
     魔王アスモデウス復活を企むシュドネイ教の教祖で、魔王復活の儀式の生贄とするために、黒き民の人々とフェザーフォルクのサラを誘拐する。人間の姿をとっているグリゴリか完全にグリゴリに支配されてしまった人間かのどちらかであり、その精神は完全に破綻している。
@@ -259,7 +257,7 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
 
 ## インターナショナル版
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にインターナショナル版が[PlayStation 3で発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にインターナショナル版が[PlayStation 3で発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[12\]。
 
 ### システムの変更点
 
@@ -308,7 +306,7 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
       - [PS3版公式サイト](http://www.eternalsphere.com/so4/international/top.html)
       - [PS4版/PC版公式サイト](http://www.jp.square-enix.com/so4/)
 
-[Category:スターオーシャン](https://ja.wikipedia.org/wiki/Category:スターオーシャン "wikilink") [Category:2009年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2009年のコンピュータゲーム "wikilink") [Category:2010年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2010年のコンピュータゲーム "wikilink") [Category:2017年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2017年のコンピュータゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Microsoft_Windows用ソフト](https://ja.wikipedia.org/wiki/Category:Microsoft_Windows用ソフト "wikilink")
+[Category:スターオーシャン](https://ja.wikipedia.org/wiki/Category:スターオーシャン "wikilink") [Category:2009年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2009年のコンピュータゲーム "wikilink") [Category:2010年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2010年のコンピュータゲーム "wikilink") [Category:2017年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2017年のコンピュータゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")
 
 1.  ファミ通.com.『[『スターオーシャン4』の初週販売本数は16万6027本、Xbox 360用ソフトではトップクラスの出足に](http://www.famitsu.com/game/news/1222262_1124.html)』2009/2/24
 2.  エッジが離れることが前提の遊びである。
@@ -321,3 +319,4 @@ PlayStation 3版が『**スターオーシャン4 -THE LAST HOPE- INTERNATIONAL*
 9.  『スターオーシャン4 -THE LAST HOPE- INTERNATIONAL 公式コンプリートガイド』700ページより。
 10. このエンディングで同時に本項にも書かれている事実とは繋がっていることが判明している。
 11. 攻略本での表記。
+12.

@@ -223,7 +223,7 @@
   - 第142回：[長嶋はるか](https://ja.wikipedia.org/wiki/長嶋はるか "wikilink")
   - 第143回：[飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")
   - 第144回：アフィリア・サーガ・イースト
-  - 第145回：[marble](https://ja.wikipedia.org/wiki/marble "wikilink")
+  - 第145回：[marble](https://ja.wikipedia.org/wiki/marble_\(音楽ユニット\) "wikilink")
   - 第146回：近江知永
   - 第147回：奥井雅美
   - 第148回：宮崎羽衣

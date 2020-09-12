@@ -67,7 +67,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/MIO_(女優)" title="wikilink">MIO</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/YAE" title="wikilink">YAE</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/YAE_(モデル)" title="wikilink">YAE</a></li>
 <li>澤田園子</li>
 <li>東條咲子</li>
 <li>新井優花</li>
@@ -84,6 +84,7 @@
 <li>浅野夕海</li>
 <li>NANA（hair make up artist）</li>
 <li><a href="../Page/小山留生.md" title="wikilink">小山留生</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/外山史織" title="wikilink">外山史織</a></li>
 </ul></td>
 </tr>
 </tbody>

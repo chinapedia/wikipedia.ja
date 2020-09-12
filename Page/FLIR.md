@@ -17,6 +17,7 @@
 
   - [捜索](../Page/捜索.md "wikilink")、[救難活動](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")\[2\]
       - 消防活動において[煙](../Page/煙.md "wikilink")や壁を透過して生存者を探す
+  - [エンハンスト・ビジョン・システム](https://ja.wikipedia.org/wiki/エンハンスト・ビジョン・システム "wikilink")
   - 流域の温度や[野生動物](../Page/野生動物.md "wikilink")の生息地のモニタリング\[3\]
   - [エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")損失の検出や[省エネルギー](../Page/省エネルギー.md "wikilink")のための断熱性の検証
   - [軍用機](../Page/軍用機.md "wikilink")における標的捕捉と追尾

@@ -26,7 +26,7 @@ Blendtec社の創設者 [トーマス・ディクソン](https://ja.wikipedia.or
               - [iPhone 5](https://ja.wikipedia.org/wiki/iPhone_5 "wikilink") - [サムスン電子](../Page/サムスン電子.md "wikilink")の[Galaxy S3と同時にブレンドされる](https://ja.wikipedia.org/wiki/Samsung_Galaxy_S_III "wikilink")。
               - [iPhone 5sと](https://ja.wikipedia.org/wiki/iPhone_5s "wikilink")[iPhone 5c](https://ja.wikipedia.org/wiki/iPhone_5c "wikilink")
               - [iPhone 6 Plusと](https://ja.wikipedia.org/wiki/iPhone_6_Plus "wikilink")[Galaxy Note 3](https://ja.wikipedia.org/wiki/Galaxy_Note_3 "wikilink")
-              - [iPhone SE](https://ja.wikipedia.org/wiki/iPhone_SE "wikilink")
+              - [iPhone SE](https://ja.wikipedia.org/wiki/iPhone_SE_\(第1世代\) "wikilink")
               - [iPhone 7](https://ja.wikipedia.org/wiki/iPhone_7 "wikilink")
               - [iPhone X](https://ja.wikipedia.org/wiki/iPhone_X "wikilink")
           - 部下の[携帯電話](../Page/携帯電話.md "wikilink")

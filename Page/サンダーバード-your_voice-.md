@@ -10,7 +10,6 @@
 <!-- end list -->
 
   - V6最後の[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")での発売である。
-  - Cメロの[ラップ](../Page/ラップ.md "wikilink")パートはComing Centuryメンバー([森田](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、[三宅](../Page/三宅健.md "wikilink")、[岡田](../Page/岡田准一.md "wikilink"))が歌っている。[長野](../Page/長野博.md "wikilink")、[井ノ原のソロパートは存在しない](../Page/井ノ原快彦.md "wikilink")。
 
 <!-- end list -->
 
@@ -22,7 +21,7 @@
 
 ※（カラオケ）は通常盤のみ収録。
 
-1.  **サンダーバード-your voice-**
+1.  **サンダーバード -your voice-**
       -
         作詞：[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")、作曲：[RAM RIDER](../Page/RAM_RIDER.md "wikilink")、編曲：[RAM RIDER CREW](https://ja.wikipedia.org/wiki/RAM_RIDER_CREW "wikilink")・[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
 2.  **Brand-New World**
@@ -51,4 +50,4 @@
   - 『[Very best II](../Page/Very_best_II.md "wikilink")』（\#1, 2）
   - 『[SUPER Very best](https://ja.wikipedia.org/wiki/SUPER_Very_best "wikilink")』（\#1）
 
-[Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:サンダーバード](https://ja.wikipedia.org/wiki/Category:サンダーバード "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:motsuが制作した楽曲](https://ja.wikipedia.org/wiki/Category:motsuが制作した楽曲 "wikilink") [Category:鳥を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:鳥を題材とした楽曲 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:富山GRNサンダーバーズ](https://ja.wikipedia.org/wiki/Category:富山GRNサンダーバーズ "wikilink")
+[Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:サンダーバード](https://ja.wikipedia.org/wiki/Category:サンダーバード "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:motsuが制作した楽曲](https://ja.wikipedia.org/wiki/Category:motsuが制作した楽曲 "wikilink") [Category:雷を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:雷を題材とした楽曲 "wikilink") [Category:鳥を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:鳥を題材とした楽曲 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:富山GRNサンダーバーズ](https://ja.wikipedia.org/wiki/Category:富山GRNサンダーバーズ "wikilink")

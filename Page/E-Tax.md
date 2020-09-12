@@ -17,7 +17,7 @@ e-Taxの利用時間は、月曜日-金曜日の午前8時30分から24時（祝
 
 ## 長所（メリット）
 
-特にその迅速性・効率性から、[法人](../Page/法人.md "wikilink")や[税理士](../Page/税理士.md "wikilink")等による利用が増加している。
+特にその迅速性・効率性から、[法人](../Page/法人.md "wikilink")や[税理士](../Page/税理士.md "wikilink")による利用が増加している。
 
   - [医療費](../Page/医療費.md "wikilink")の[領収書](../Page/領収書.md "wikilink")や[源泉徴収票](../Page/源泉徴収票.md "wikilink")等については、記載内容を[電子申請](https://ja.wikipedia.org/wiki/電子申請 "wikilink")で送信することにより、原本の提出または提示に代えられる。ただし、後日[税務署](../Page/税務署.md "wikilink")から提出または提示を求められる場合があり、これに応じなかった場合は「確定申告書への添付または提示がなかったもの」として取り扱われるため、申告期限後7年間は保管することが望ましい。
   - e-Taxを利用して[所得税](../Page/所得税.md "wikilink")の[確定申告](../Page/確定申告.md "wikilink")を行った場合、平成19年（2007年）分から平成24年（2012年）分までの申告に限り、電子証明書等特別控除という[税額控除](https://ja.wikipedia.org/wiki/税額控除 "wikilink")（最高5,000円〜3,000円）があった\[7\]。また、[年末調整](../Page/年末調整.md "wikilink")で過不足精算が完了した[給与所得者](https://ja.wikipedia.org/wiki/給与所得者 "wikilink")も適用可能。ただし、いずれにせよ[公的個人認証サービス](../Page/公的個人認証サービス.md "wikilink")を受けた[住民基本台帳カード](../Page/住民基本台帳カード.md "wikilink")による個人認証（電子署名）が必要で、[会計事務所](https://ja.wikipedia.org/wiki/会計事務所 "wikilink")や税理士などに委託し、本人以外の電子署名した代理送信による申告では、税額控除を受ける事ができない（[租税特別措置法](../Page/租税特別措置法.md "wikilink")第41条の19の5）。
@@ -65,7 +65,7 @@ e-Taxの利用時間は、月曜日-金曜日の午前8時30分から24時（祝
 
   - ダウンロードコーナーにて、e-Taxソフトウェアなどのダウンロードを行い、コンピュータにインストールする\[21\]。
   - e-Tax ソフト（WEB版）よりも申告できる税目が広い。
-  - [Windows 7](../Page/Microsoft_Windows_7.md "wikilink")・[8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")・[10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") （いずれも日本語版）等が必要\[22\]。
+  - [Windows 7](../Page/Microsoft_Windows_7.md "wikilink")・[8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")・[10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") （いずれも日本語版）が必要\[22\]。
   - [MacOS](../Page/MacOS.md "wikilink")・[Linux](../Page/Linux.md "wikilink")・[FreeBSD](../Page/FreeBSD.md "wikilink")・[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")([Solaris](../Page/Solaris.md "wikilink")・[OpenIndiana](https://ja.wikipedia.org/wiki/OpenIndiana "wikilink"))・[Android](../Page/Android.md "wikilink")・[iPhoneは未対応](https://ja.wikipedia.org/wiki/Iphone "wikilink")。
 
 ### 周辺機器など

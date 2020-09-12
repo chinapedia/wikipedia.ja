@@ -410,7 +410,7 @@
   - 3月〜4月 - 「MERRY IN NEPAL」（ネパール）
   - 5月〜10月 - 「MERRY ART GARDEN 2017」（東京・港区）
   - 10月28日 - 「MERRY SMILE MINATO for 2020」（東京都・港区／港区立芝公園）
-  - 11月3日 - 「MERRY SMILE SHIBUYA for 2020」（東京都・渋谷区／渋谷ヒカリエ）
+  - 11月3日 - 「MERRY SMILE SHIBUYA for 2020」（東京都・渋谷区／渋谷ヒカリエ）主催：渋谷区 ／ 企画・運営：MERRY PROJECT
 
 <!-- end list -->
 
@@ -419,7 +419,7 @@
 <!-- end list -->
 
   - 3月 - 「MERRY IN SRILANKA」（スリランカ／コロンボ・クルネーガラ）
-  - 8月25日 - 「MERRY SMILE SHIBUYA for 2020」（東京都・渋谷区／国連大学）
+  - 8月25日 - 渋谷区東京2020文化プログラム「MERRY SMILE SHIBUYA for 2020」（東京都・渋谷区／国連大学）主催：渋谷区 ／ 企画・運営：MERRY PROJECT
   - 9月 - 「MERRY IN CAMBODIA」（カンボジア／プノンペン・シェムリアップ）
 
 <!-- end list -->
@@ -428,7 +428,18 @@
 
 <!-- end list -->
 
-  - 3月9日 - 「MERRY SMILE MINATO」（東京都・港区／増上寺）
+  - 3月9日 - 港区東京2020応援プログラム「MERRY SMILE MINATO」（東京都・港区／増上寺）
+  - 8月24日 - 渋谷区東京2020文化プログラム「MERRY SMILE SHIBUYA for 2020」（東京都・渋谷区／国連大学）主催：渋谷区 ／ 企画・運営：MERRY PROJECT
+  - 9月 - 「MERRY IN VIETNAM」（ベトナム／ホーチミン）
+
+<!-- end list -->
+
+  - [2020年](../Page/2020年.md "wikilink")
+
+<!-- end list -->
+
+  - 2月9日 - 港区東京2020応援プログラム「MERRY SMILE MINATO」（東京都・港区／スポーツセンター）
+  - 3月 - 「MERRY IN TOKYO 2020」（東京・オリンピックミュージアム周辺）
 
 ## 受賞歴
 

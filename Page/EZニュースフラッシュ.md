@@ -1,7 +1,7 @@
 > この記事は[EZニュースフラッシュ](https://ja.wikipedia.org/wiki/EZニュースフラッシュ)から翻訳されています。
 
 
-**EZニュースフラッシュ**（イージーニュースフラッシュ）とは[auブランドを展開の](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")及び[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink") が[BCMCS技術を利用してau携帯電話に最新ニュース](https://ja.wikipedia.org/wiki/CDMA2000_1x#BCMCS "wikilink")・天気などを配信していたサービス。2019年12月16日にサービス終了した\[1\]。
+**EZニュースフラッシュ**（イージーニュースフラッシュ）とは[auブランドを展開の](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink") が[BCMCS技術を利用してau携帯電話に最新ニュース](https://ja.wikipedia.org/wiki/CDMA2000_1x#BCMCS "wikilink")・天気などを配信していたサービス。2019年12月16日にサービス終了した\[1\]。
 
 ## 概要
 
@@ -65,7 +65,7 @@
 
   - [EZニュースフラッシュ](https://www.au.com/mobile/service/news-flash/)
 
-[Category:携帯電話](https://ja.wikipedia.org/wiki/Category:携帯電話 "wikilink") [Category:携帯電話関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:携帯電話関連のスタブ項目 "wikilink") [Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:携帯電話アプリ](https://ja.wikipedia.org/wiki/Category:携帯電話アプリ "wikilink")
+[Category:携帯電話関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:携帯電話関連のスタブ項目 "wikilink") [Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:携帯電話アプリ](https://ja.wikipedia.org/wiki/Category:携帯電話アプリ "wikilink")
 
 1.
 2.

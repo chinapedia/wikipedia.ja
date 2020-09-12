@@ -346,6 +346,11 @@ Navy SEALsが登場する著名な作品。
   - 『[ネイビーシールズ ナチスの金塊を奪還せよ\!](https://ja.wikipedia.org/wiki/ネイビーシールズ_ナチスの金塊を奪還せよ! "wikilink")』
     [ボスニア・ヘルツェゴビナ紛争](../Page/ボスニア・ヘルツェゴビナ紛争.md "wikilink")下の[サラエヴォ](../Page/サラエヴォ.md "wikilink")で作戦を展開するNavy SEALsが、湖に眠る[ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")の金塊の引き揚げ作戦を展開する。
 
+### ドラマ
+
+  - 『[SEAL Team/シール・チーム](https://ja.wikipedia.org/wiki/SEAL_Team/シール・チーム "wikilink")』
+    エリートが所属するNavy SEALs精鋭部隊ブラボー・チームの命がけの任務を描くアクションドラマ。
+
 ### 漫画・アニメ
 
   - 『[D-LIVE](https://ja.wikipedia.org/wiki/D-LIVE "wikilink")』
@@ -357,8 +362,7 @@ Navy SEALsが登場する著名な作品。
 
   - 『[SOCOM： U.S. NAVY SEALs](https://ja.wikipedia.org/wiki/SOCOM：_U.S._NAVY_SEALs "wikilink")』
     『[SOCOM: U.S. Navy SEALs Portable](https://ja.wikipedia.org/wiki/SOCOM:_U.S._Navy_SEALs_Portable "wikilink")』
-    『[コール オブ デューティシリーズ](../Page/コール_オブ_デューティシリーズ.md "wikilink")』
-    各作品の随所にNavy SEALsが登場する。
+    『[コール オブ デューティシリーズ](../Page/コール_オブ_デューティシリーズ.md "wikilink")』 - シリーズの随所にNavy SEALsが登場する。
 
 ## 脚注
 
@@ -377,6 +381,7 @@ Navy SEALsが登場する著名な作品。
   - [心理戦](../Page/心理戦.md "wikilink")
   - [不正規戦争](https://ja.wikipedia.org/wiki/不正規戦争 "wikilink")
   - [CQB](../Page/CQB.md "wikilink")
+  - [フロッグマン](../Page/フロッグマン.md "wikilink")
   - [ブラックウォーターUSA](../Page/ブラックウォーターUSA.md "wikilink") - Navy SEALs出身者が所属する[民間軍事会社](../Page/民間軍事会社.md "wikilink")。
   - [ルミノックス](../Page/ルミノックス.md "wikilink") - 同社の腕時計がNavy SEALsで採用されている。
 

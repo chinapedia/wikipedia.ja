@@ -46,7 +46,7 @@
         作詞：工藤哲雄、作曲：都志見隆、編曲：白井良明
     <!-- end list -->
       - 5thシングル
-      - [山口達也](../Page/山口達也.md "wikilink")主演 TBS系ドラマ『[夏\!デパート物語](../Page/夏!デパート物語.md "wikilink")』予告編挿入歌
+      - [山口達也主演](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink") TBS系ドラマ『[夏\!デパート物語](../Page/夏!デパート物語.md "wikilink")』予告編挿入歌
 9.  **[涙のウェディングベル](../Page/風になって_\(TOKIOの曲\).md "wikilink")**
       -
         作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")、作曲：槁一郎、編曲：白井良明

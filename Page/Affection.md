@@ -5,7 +5,7 @@
 
 ## 解説
 
-[Thunderpuss（サンダーパス）が](https://ja.wikipedia.org/wiki/:en:Thunderpuss "wikilink")[リミックス](../Page/リミックス.md "wikilink")を手がけた英語バージョンが[全米](https://ja.wikipedia.org/wiki/全米 "wikilink")[Billboard](https://ja.wikipedia.org/wiki/Billboard "wikilink")（ビルボード）誌の所謂クラブミュージックのみを対象としたチャート"Club Play Chart"（あくまで主戦チャートではなく、[ジャンル](../Page/ジャンル.md "wikilink")ごとに細分化された数あるチャートの1つ）にランクインした1stシングル「[TAKE BACK](../Page/TAKE_BACK.md "wikilink")」と2ndシングル「[Trust Your Love](../Page/Trust_Your_Love.md "wikilink")」をはじめ、既発表曲5曲を含む全14（初回盤は16）曲が収録されている。
+[Thunderpuss（サンダーパス）が](https://ja.wikipedia.org/wiki/:en:Thunderpuss "wikilink")[リミックス](../Page/リミックス.md "wikilink")を手がけた英語バージョンが[全米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Billboard](https://ja.wikipedia.org/wiki/Billboard "wikilink")（ビルボード）誌の所謂クラブミュージックのみを対象としたチャート"Club Play Chart"（あくまで主戦チャートではなく、[ジャンル](../Page/ジャンル.md "wikilink")ごとに細分化された数あるチャートの1つ）にランクインした1stシングル「[TAKE BACK](../Page/TAKE_BACK.md "wikilink")」と2ndシングル「[Trust Your Love](../Page/Trust_Your_Love.md "wikilink")」をはじめ、既発表曲5曲を含む全14（初回盤は16）曲が収録されている。
 
 初回盤はスリーブケース仕様、[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")には「TAKE BACK」と「Trust Your Love」の英語バージョンが収録されている。なお初回盤に限っては現在入手困難となっている。
 

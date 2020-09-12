@@ -1,7 +1,7 @@
 > この記事は[ITIS](https://ja.wikipedia.org/wiki/ITIS)から翻訳されています。
 
 
-**ITIS**（Integrated Taxonomic Information System）は[米国連邦政府の呼びかけにより](https://ja.wikipedia.org/wiki/アメリカ合衆国の政治#連邦制・連邦政府 "wikilink")、[米国商務省を中心に関連省庁および実務機関として指定された](../Page/アメリカ合衆国商務省.md "wikilink")[スミソニアン博物館](../Page/スミソニアン博物館.md "wikilink")からなるグループにより設置された統合分類学情報システムである。米国では[1996年](../Page/1996年.md "wikilink")に設置されたが、その後[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")合衆国の政府関連機関も参加し、主に[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")大陸に生息する生物種の分類データベースを構築している。現在、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")も参加しており、世界的に適用範囲を広げてきており、国際的な関係機関との共同作業を進めている。
+[ITIS_logo.svg](https://ja.wikipedia.org/wiki/File:ITIS_logo.svg "fig:ITIS_logo.svg") **ITIS**（Integrated Taxonomic Information System）は[米国連邦政府の呼びかけにより](https://ja.wikipedia.org/wiki/アメリカ合衆国の政治#連邦制・連邦政府 "wikilink")、[米国商務省を中心に関連省庁および実務機関として指定された](../Page/アメリカ合衆国商務省.md "wikilink")[スミソニアン博物館](../Page/スミソニアン博物館.md "wikilink")からなるグループにより設置された統合分類学情報システムである。米国では[1996年](../Page/1996年.md "wikilink")に設置されたが、その後[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")合衆国の政府関連機関も参加し、主に[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")大陸に生息する生物種の分類データベースを構築している。現在、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")も参加しており、世界的に適用範囲を広げてきており、国際的な関係機関との共同作業を進めている。
 
 ## 概要
 

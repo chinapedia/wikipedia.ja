@@ -1,7 +1,7 @@
 > この記事は[流山おおたかの森 S・C](https://ja.wikipedia.org/wiki/流山おおたかの森_S・C)から翻訳されています。
 
 
-**流山おおたかの森 S・C**（ながれやまおおたかのもり ショッピングセンター）は、[千葉県](../Page/千葉県.md "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")おおたかの森南一丁目に所在する[高島屋](../Page/高島屋.md "wikilink")子会社の[東神開発](https://ja.wikipedia.org/wiki/東神開発 "wikilink")株式会社が運営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
+**流山おおたかの森 S・C**（ながれやまおおたかのもり ショッピングセンター）は、[千葉県](../Page/千葉県.md "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")おおたかの森南一丁目に所在する[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")子会社の[東神開発](https://ja.wikipedia.org/wiki/東神開発 "wikilink")株式会社が運営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 ### 核店舗
 
-  - [タカシマヤ フードメゾン](https://ja.wikipedia.org/wiki/高島屋#関東圏 "wikilink") おおたかの森店（1階） - [高島屋](../Page/高島屋.md "wikilink")初の食料品販売に特化した店舗\[7\]。コンセプトは「あなたの街に[デパ地下](../Page/デパ地下.md "wikilink")を」\[8\]。
+  - [タカシマヤ フードメゾン](https://ja.wikipedia.org/wiki/髙島屋#関東圏 "wikilink") おおたかの森店（1階） - [髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")初の食料品販売に特化した店舗\[7\]。コンセプトは「あなたの街に[デパ地下](../Page/デパ地下.md "wikilink")を」\[8\]。
   - [イトーヨーカドー](../Page/イトーヨーカ堂.md "wikilink") 食品館おおたかの森店（1階） - 食料品販売に特化、イトーヨーカドーとしては175店舗目（千葉県内21店舗目）の出店となる\[9\]。
   - [紀伊國屋書店 / 紀伊國屋書店Forest](../Page/紀伊國屋書店.md "wikilink")（2階） - 開業時点では千葉県内最大級の規模を有する\[10\]。CD・DVD販売エリアは「Forest」の名称で営業する\[11\]。
   - 流山[ロフト](../Page/ロフト_\(雑貨店\).md "wikilink")（2階） - 千葉県内3店舗目の出店\[12\]。
@@ -50,7 +50,7 @@
   - [JINS](https://ja.wikipedia.org/wiki/ジンズ "wikilink")
   - [ABC-MART](../Page/ABCマート.md "wikilink")
   - [CIQUETO LBC](../Page/コックス_\(衣料品\).md "wikilink")
-  - [MARY QUANT](../Page/マリー・クワント.md "wikilink")
+  - [MARY QUANT](https://ja.wikipedia.org/wiki/マリー・クヮント "wikilink")
   - [DHC 直営店](https://ja.wikipedia.org/wiki/DHC "wikilink")
   - [中央コンタクト](https://ja.wikipedia.org/wiki/中央コンタクト "wikilink")
 
@@ -101,7 +101,7 @@
 
 ## 関連項目
 
-  - [高島屋](../Page/高島屋.md "wikilink")
+  - [髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")
   - [日本のショッピングセンター一覧](https://ja.wikipedia.org/wiki/日本のショッピングセンター一覧 "wikilink")
 
 ## 外部リンク
@@ -117,7 +117,7 @@
   - [セントラルウェルネスクラブ おおたかの森](http://www.central.co.jp/club/ootakanomori/index.html)
   - [流山市つくばエクスプレス沿線整備事業](http://www.city.nagareyama.chiba.jp/section/toshiseibi/tukuba.htm)
 
-[Category:千葉県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:千葉県のショッピングセンター "wikilink") [Category:高島屋](https://ja.wikipedia.org/wiki/Category:高島屋 "wikilink") [Category:紀伊國屋書店](https://ja.wikipedia.org/wiki/Category:紀伊國屋書店 "wikilink") [Category:流山市の建築物](https://ja.wikipedia.org/wiki/Category:流山市の建築物 "wikilink") [Category:2007年開業の施設](https://ja.wikipedia.org/wiki/Category:2007年開業の施設 "wikilink") [Category:2007年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2007年竣工の日本の建築物 "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink")
+[Category:千葉県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:千葉県のショッピングセンター "wikilink") [Category:髙島屋](https://ja.wikipedia.org/wiki/Category:髙島屋 "wikilink") [Category:紀伊國屋書店](https://ja.wikipedia.org/wiki/Category:紀伊國屋書店 "wikilink") [Category:流山市の建築物](https://ja.wikipedia.org/wiki/Category:流山市の建築物 "wikilink") [Category:2007年開業の施設](https://ja.wikipedia.org/wiki/Category:2007年開業の施設 "wikilink") [Category:2007年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2007年竣工の日本の建築物 "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink")
 
 1.  [つくばエクスプレス沿線整備事業の概要 新市街地地区](http://www.city.nagareyama.chiba.jp/section/toshiseibi/tukuba/sinsigai.htm) - 流山市役所
 2.  [事業所一覧 流山おおたかの森　S・C](http://www.toshin-dev.co.jp/business/bus_07.html) - 東神開発株式会社

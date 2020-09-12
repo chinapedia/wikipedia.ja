@@ -52,7 +52,7 @@ Cy-Rim rev.の活動休止から1週間後、2010年6月25日に発売されたP
 
   -   - [公式ブログ](https://ameblo.jp/cy-rim/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ドワンゴのアーティスト](https://ja.wikipedia.org/wiki/Category:ドワンゴのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ドワンゴのアーティスト](https://ja.wikipedia.org/wiki/Category:ドワンゴのアーティスト "wikilink")
 
 1.  [アニカン](../Page/アニカン.md "wikilink") vol.38 [奥井雅美](../Page/奥井雅美.md "wikilink")、[栗林みな実](../Page/栗林みな実.md "wikilink")、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")、Cy-Rim rev.インタビュー
 2.

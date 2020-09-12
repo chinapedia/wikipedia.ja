@@ -7,6 +7,7 @@
 
   - 初回生産限定盤と通常盤ではジャケットが異なる。初回生産限定盤にはキャンペーン応募券が封入されていた。通常盤はブックレット付き。
   - メンバーの[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")が、初めて[Rap詞を手掛けた曲が収録されている](../Page/ラップ.md "wikilink")。
+  - 2020年2月7日より、通常盤収録曲のデジタル配信、及びサブスクリプション配信が解禁された。
 
 ## 収録曲
 
@@ -18,7 +19,7 @@
         作詞：戸沢暢美、作曲：Michael Clauss・Clas Wrigsell、編曲：鈴木雅也
     <!-- end list -->
       - 本作のリードトラック
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[第33回 春の高校バレー](../Page/全国高等学校バレーボール選抜優勝大会.md "wikilink")』イメージソング
+      - [フジテレビ系](../Page/フジテレビ系列.md "wikilink")『[第33回 春の高校バレー](../Page/全国高等学校バレーボール選抜優勝大会.md "wikilink")』イメージソング
 3.  **君は少しも悪くない** (4:50)
       -
         作詞：戸沢暢美、作曲・編曲：岩田雅之
@@ -30,7 +31,7 @@
         作詞・作曲・編曲：[SHUN・SHUYA](../Page/スケボーキング.md "wikilink")
     <!-- end list -->
       - 7thシングル
-      - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")出演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink")』主題歌
+      - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")出演 [TBS系ドラマ](../Page/TBS系列.md "wikilink")『[木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink")』主題歌
       - 櫻井翔出演 映画『[木更津キャッツアイ 日本シリーズ](../Page/木更津キャッツアイ_日本シリーズ.md "wikilink")』・『[木更津キャッツアイ ワールドシリーズ](../Page/木更津キャッツアイ_ワールドシリーズ.md "wikilink")』主題歌
       - TBS系『[USO\!?ジャパン](../Page/USO!?ジャパン.md "wikilink")』テーマソング
 6.  **[ALL or NOTHING](https://ja.wikipedia.org/wiki/ALL_or_NOTHING "wikilink")** Ver.1.02 (5:08)
@@ -83,6 +84,11 @@
 
 <references />
 
-[Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink")
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/here-we-go)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=104)
+
+[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink")
 
 1.  『嵐 楽曲完全ガイド2016』（鉄人社、2015年11月14日発売、31頁）

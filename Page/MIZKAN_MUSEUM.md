@@ -45,8 +45,9 @@
 
 ## 外部リンク
 
-  - [MIZKAN MUSEUM（ミツカンミュージアム）](http://www.mizkan.co.jp/mim/)
+  -
   - [世界各地の酢の博物館（英語）](http://www.cjvlang.com/Spicks/vinegarmuseum.html)
+
   - \[<https://www.aichi-now.jp/spots/detail/30/>　愛知の公式観光ガイド AICHI NOW　MIZKAN MUSEUM\]
 
 [Category:半田市の教育](https://ja.wikipedia.org/wiki/Category:半田市の教育 "wikilink") [Category:愛知県の博物館](https://ja.wikipedia.org/wiki/Category:愛知県の博物館 "wikilink") [Category:日本の企業博物館](https://ja.wikipedia.org/wiki/Category:日本の企業博物館 "wikilink") [Category:食文化博物館](https://ja.wikipedia.org/wiki/Category:食文化博物館 "wikilink") [Category:ミツカングループ](https://ja.wikipedia.org/wiki/Category:ミツカングループ "wikilink") [Category:第58回BCS賞](https://ja.wikipedia.org/wiki/Category:第58回BCS賞 "wikilink") [Category:1986年開設の博物館](https://ja.wikipedia.org/wiki/Category:1986年開設の博物館 "wikilink") [Category:半田市の建築物](https://ja.wikipedia.org/wiki/Category:半田市の建築物 "wikilink")

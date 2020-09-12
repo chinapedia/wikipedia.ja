@@ -38,14 +38,10 @@
   - 武部秀明 : Electric Bass
   - 市原ヤスシ : Drums
   - [瀬尾一三](../Page/瀬尾一三.md "wikilink") : [Bell Tree](https://ja.wikipedia.org/wiki/:en:Bell_tree "wikilink")
-
-:\* 村岡健 : Saxophone
-
-:\* 新井英治 : Trombone
-
-:\* 伊勢正三 : Background Vocal
-
-:\* 大久保一久 : Background Vocal
+      - 村岡健 : Saxophone
+      - 新井英治 : Trombone
+      - 伊勢正三 : Background Vocal
+      - 大久保一久 : Background Vocal
 
 **3号線を左に折れ**
 
@@ -56,14 +52,10 @@
   - 森谷順 : Drums
   - 瀬尾一三 : Solina & Percussion
   - 渋井博 : Mini Moog
-
-:\* 新井英治 : Trombone Section
-
-:\* 伊勢正三 : Background Vocal
-
-:\* 大久保一久 : Background Vocal
-
-:\* 内山修 : Background Vocal
+      - 新井英治 : Trombone Section
+      - 伊勢正三 : Background Vocal
+      - 大久保一久 : Background Vocal
+      - 内山修 : Background Vocal
 
 **旅の午後**
 

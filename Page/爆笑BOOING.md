@@ -58,7 +58,7 @@
 <tr class="even">
 <td><p>三代</p></td>
 <td><p><a href="../Page/ジャリズム.md" title="wikilink">ジャリズム</a></p></td>
-<td><p>相馬ひろみ、<a href="../Page/杉岡みどり.md" title="wikilink">杉岡みどり</a>、やるじゃねぇかーず、らんぶるふぃっしゅ</p></td>
+<td><p><a href="../Page/杉岡みどり.md" title="wikilink">杉岡みどり</a>、相馬ひろみ、やるじゃねぇかーず、らんぶるふぃっしゅ</p></td>
 </tr>
 <tr class="odd">
 <td><p>四代</p></td>
@@ -110,7 +110,7 @@
 
 ### 3週勝ち抜き
 
-[-4℃](../Page/-4℃.md "wikilink")、[G★MEN'S](../Page/G★MENS.md "wikilink")、[やぶからボー](https://ja.wikipedia.org/wiki/こうのきよし "wikilink")、コッキー、ギャオス、ぷかぽん、[原田おさむ](https://ja.wikipedia.org/wiki/原田おさむ "wikilink")
+[-4℃](../Page/-4℃.md "wikilink")、[G★MEN'S](../Page/G★MENS.md "wikilink")、[やぶからボー](https://ja.wikipedia.org/wiki/こうのきよし "wikilink")、コッキー、ギャオス、ぷかぽん
 
 ### 2週勝ち抜き
 

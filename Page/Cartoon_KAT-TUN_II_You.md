@@ -66,7 +66,7 @@
       -
         作詞：kenko-p、Rap詞：JOKER、作曲：SAKOSHIN、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
-      - 亀梨和也出演 [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[サプリ](../Page/サプリ_\(テレビドラマ\).md "wikilink")』オープニングテーマ
+      - 亀梨和也主演 [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[サプリ](../Page/サプリ_\(テレビドラマ\).md "wikilink")』オープニングテーマ
     <!-- end list -->
       -
         通常盤・通常盤/初回プレスのみ収録。

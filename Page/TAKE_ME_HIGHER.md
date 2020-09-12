@@ -23,9 +23,10 @@ V6全員で担当する初のドラマタイアップでもあり、ウルトラ
 1.  **TAKE ME HIGHER**
       -
         作詞：鈴木計見、作曲：[Giancarlo Pasquini](../Page/デイブ・ロジャース.md "wikilink")-[Jennifer Batten](../Page/ジェニファー・バトゥン.md "wikilink")-Alberto Contini、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、ストリングス・アレンジ：[萩田光雄](../Page/萩田光雄.md "wikilink")、コーラス・アレンジ：鈴木弘明
-        『[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")』のオープニングテーマとして使用され、主演した[長野博](../Page/長野博.md "wikilink")は後に「1年間テレビで流してもらえてありがたく思っている」と語っている\[1\]。
-        [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の主題歌アルバムでは、レコード会社間の権利問題から、[前田達也](../Page/前田達也.md "wikilink")・[石原慎一](../Page/石原慎一.md "wikilink")・[風雅なおと](../Page/風雅なおと.md "wikilink")（[コロムビア](../Page/日本コロムビア.md "wikilink")、編曲：[米光亮](../Page/米光亮.md "wikilink")）やTREE BOYS（[EMI](../Page/EMIミュージック・ジャパン.md "wikilink")、編曲：山中紀昌）によるカヴァー版が収録されていた。2002年以降のコロムビアのアルバムではこの問題は解消され、V6のバージョンが収録されるようになったが、その後再びV6のバージョンが収録されないケースが発生している\[2\]。しかし直近に出されたアルバムでは、V6のバージョンが収録されているケースが多い\[3\]。
-        ソロパートは存在せず、全体を通して[ユニゾン](https://ja.wikipedia.org/wiki/ユニゾン "wikilink")で歌い繋いでいる。
+    <!-- end list -->
+      - 『[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")』のオープニングテーマとして使用され、主演した[長野博](../Page/長野博.md "wikilink")は後に「1年間テレビで流してもらえてありがたく思っている」と語っている\[1\]。
+      - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の主題歌アルバムでは、レコード会社間の権利問題から、[前田達也](../Page/前田達也.md "wikilink")・[石原慎一](../Page/石原慎一.md "wikilink")・[風雅なおと](../Page/風雅なおと.md "wikilink")（[コロムビア](../Page/日本コロムビア.md "wikilink")、編曲：[米光亮](../Page/米光亮.md "wikilink")）やTREE BOYS（[EMI](../Page/EMIミュージック・ジャパン.md "wikilink")、編曲：山中紀昌）によるカヴァー版が収録されていた。2002年以降のコロムビアのアルバムではこの問題は解消され、V6のバージョンが収録されるようになったが、その後再びV6のバージョンが収録されないケースが発生している\[2\]。しかし直近に出されたアルバムでは、V6のバージョンが収録されているケースが多い\[3\]。
+      - ソロパートは存在せず、全員で歌唱している。
 2.  **スキさ すっきゃねん** - Coming Century
       - 作詞：[Coming Century](../Page/V6_\(グループ\).md "wikilink")&永岡昌憲、作曲/編曲：星野靖彦
 3.  TAKE ME HIGHER（カラオケ）

@@ -33,16 +33,16 @@ CDジャーナルは、「パワフルなヴォーカルが気持ちいい。徹
       -
         作詞：村野直球、作曲：住吉中、編曲：牧野信博
     <!-- end list -->
-      - [PS2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ジェネレーションオブカオス](../Page/ジェネレーションオブカオス.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
+      - [PS2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[GENERATION OF CHAOS](https://ja.wikipedia.org/wiki/GENERATION_OF_CHAOS "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 4.  **[LOVE & HISTORY](../Page/LOVE_&_HISTORY.md "wikilink")** \[4:32\]
       -
         作詞：村野直球、作曲：住吉中、編曲：牧野信博
     <!-- end list -->
-      - PS2ゲーム『[GENERATION OF CHAOS NEXT](../Page/ジェネレーションオブカオス.md "wikilink")』主題歌
+      - PS2ゲーム『[GENERATION OF CHAOS Next 〜失われし絆〜](https://ja.wikipedia.org/wiki/GENERATION_OF_CHAOS_Next_〜失われし絆〜 "wikilink")』主題歌
 5.  **[POWER GATE](../Page/POWER_GATE.md "wikilink")** \[4:32\]
       - 作詞・作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
       - [テレビ大阪](../Page/テレビ大阪.md "wikilink")『M-VOICE』エンディングテーマ
-6.  **[suddenly 〜巡り合えて〜](https://ja.wikipedia.org/wiki/suddenly_〜巡り合えて〜/Brilliant_Star "wikilink")** \[4:30\]
+6.  **[suddenly 〜巡り合えて〜](https://ja.wikipedia.org/wiki/suddenly_〜巡り合えて〜 "wikilink")** \[4:30\]
       -
         作詞・作曲・編曲：矢吹俊郎
     <!-- end list -->
@@ -82,15 +82,15 @@ CDジャーナルは、「パワフルなヴォーカルが気持ちいい。徹
         作詞・作曲：水樹奈々、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
     <!-- end list -->
       - [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[やぐちひとり](../Page/やぐちひとり.md "wikilink")』エンディングテーマ
-14. **[Justice to Believe](https://ja.wikipedia.org/wiki/Justice_to_Believe/アオイイロ "wikilink") （MUSEUM STYLE）** \[7:10\]
+14. **[Justice to Believe](https://ja.wikipedia.org/wiki/Justice_to_Believe "wikilink")（MUSEUM STYLE）** \[7:10\]
       -
         作詞：水樹奈々、作曲・編曲：上松範康（Elements Garden）
 15. **Crystal Letter** \[5:02\] - 新曲
       -
-        作詞：[HIBIKI](https://ja.wikipedia.org/wiki/Hibiki "wikilink")、作曲：[藤末樹](https://ja.wikipedia.org/wiki/藤末樹 "wikilink")、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
+        作詞：[Hibiki](https://ja.wikipedia.org/wiki/Hibiki "wikilink")、作曲：[藤末樹](https://ja.wikipedia.org/wiki/藤末樹 "wikilink")、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
         [PVは全てスタジオで撮影され](../Page/ミュージック・ビデオ.md "wikilink")、[人工雪](https://ja.wikipedia.org/wiki/人工雪 "wikilink")を降らせる等の試みが行われた\[3\]。
     <!-- end list -->
-      - PS2用ゲームソフト『[WILD ARMS the Vth Vanguard](../Page/ワイルドアームズ_ザ_フィフスヴァンガード.md "wikilink")』エンディングテーマ
+      - PS2用ゲームソフト『[WILD ARMS the Vth Vanguard](https://ja.wikipedia.org/wiki/WILD_ARMS_the_Vth_Vanguard "wikilink")』エンディングテーマ
 16. **[TRANSMIGRATION](https://ja.wikipedia.org/wiki/supersonic_girl "wikilink") 2007** \[5:04\]
       -
         作詞：[奥井雅美](../Page/奥井雅美.md "wikilink")、作曲・編曲：矢吹俊郎

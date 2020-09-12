@@ -233,7 +233,7 @@ AVCD-16093</p></td>
 ## 外部リンク
 
   -
-[Category:HINOIチーム](https://ja.wikipedia.org/wiki/Category:HINOIチーム "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:過去のライジングプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のライジングプロダクション所属者 "wikilink")
+[Category:HINOIチーム](https://ja.wikipedia.org/wiki/Category:HINOIチーム "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ライジングプロダクションのアイドル](https://ja.wikipedia.org/wiki/Category:ライジングプロダクションのアイドル "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
 
 1.
 2.

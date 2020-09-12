@@ -80,7 +80,7 @@
       - [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink") - 「[17才](../Page/17才_\(南沙織の曲\).md "wikilink")」「[潮風のメロディ](../Page/潮風のメロディ.md "wikilink")」
       - [甲斐バンド](../Page/甲斐バンド.md "wikilink") - 「[HERO（ヒーローになる時、それは今）](https://ja.wikipedia.org/wiki/HERO（ヒーローになる時、それは今） "wikilink")」「[安奈](https://ja.wikipedia.org/wiki/安奈 "wikilink")」
       - [渡辺真知子](../Page/渡辺真知子.md "wikilink") - 「[かもめが翔んだ日](https://ja.wikipedia.org/wiki/かもめが翔んだ日 "wikilink")」「[唇よ、熱く君を語れ](https://ja.wikipedia.org/wiki/唇よ、熱く君を語れ "wikilink")」
-      - [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink") - 「[異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")」「オレンジ・エアメール・スペシャル」
+      - [久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink") - 「[異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")」「オレンジ・エアメール・スペシャル」
       - [南佳孝](../Page/南佳孝.md "wikilink") - 「[モンロー・ウォーク](https://ja.wikipedia.org/wiki/モンロー・ウォーク "wikilink")」「[スローなブギにしてくれ](../Page/スローなブギにしてくれ.md "wikilink")」
       - [ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink") - 「[五番街のマリーへ](../Page/五番街のマリーへ.md "wikilink")」「[ジョニィへの伝言](../Page/ジョニィへの伝言.md "wikilink")」
       - [さだまさし](../Page/さだまさし.md "wikilink") - 「[線香花火](https://ja.wikipedia.org/wiki/線香花火_\(さだまさしの曲\) "wikilink")」「[秋桜](../Page/秋桜_\(山口百恵の曲\).md "wikilink")」

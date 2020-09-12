@@ -96,22 +96,24 @@
   - 2017年2月28日 - [VRカノジョ](https://ja.wikipedia.org/wiki/VRカノジョ "wikilink")【DL販売専用】
   - 2017年10月13日 - プレイホーム 家族崩壊
       - 2018年1月19日 - プレイホーム 追加データ+スタジオ
-  - 2018年4月27日 - コイカツ！
-      - 2018年7月27日- コイカツ！-性格追加パック-【DL版】
-      - 2018年8月31日\[3\] - コイカツ！-性格追加パック-【DVD版】
-      - 2018年12月21日 - コイカツ！ アフタースクール
-  - 2019年4月26日 - エモーション・クリエイターズ
-  - 2019年10月25日\[4\] - AI\*少女
-      - 2019年12月13日- AI\*少女 追加データ 狐巫女セット-【DL専売】
-      - 2020年1月17日- AI\*少女 追加データ サキュバスセット-【DL専売】
-  - 2020年5月29日 - ハニーセレクト2 リビドー
+  - 2018年4月27日 - [コイカツ！](https://ja.wikipedia.org/wiki/コイカツ！ "wikilink")
+      - 2018年7月27日 - [コイカツ！](https://ja.wikipedia.org/wiki/コイカツ！ "wikilink")-性格追加パック-【DL版】
+      - 2018年8月31日\[3\] - [コイカツ！](https://ja.wikipedia.org/wiki/コイカツ！ "wikilink")-性格追加パック-【DVD版】
+      - 2018年12月21日 - [コイカツ！ アフタースクール](https://ja.wikipedia.org/wiki/コイカツ！ "wikilink")
+  - 2019年4月26日 - [エモーション・クリエイターズ](https://ja.wikipedia.org/wiki/エモーション・クリエイターズ "wikilink")
+  - 2019年10月25日\[4\] - [AI\*少女](https://ja.wikipedia.org/wiki/AI*少女 "wikilink")
+      - 2019年12月13日 - [AI\*少女 追加データ 狐巫女セット-](https://ja.wikipedia.org/wiki/AI*少女 "wikilink")【DL専売】
+      - 2020年1月17日 - [AI\*少女 追加データ サキュバスセット-](https://ja.wikipedia.org/wiki/AI*少女 "wikilink")【DL専売】
+  - 2020年5月29日 - [ハニーセレクト リビドー](https://ja.wikipedia.org/wiki/ハニーセレクト "wikilink")2
+      - 2020年6月5日- [AI\*少女 追加データ シスターセット-](https://ja.wikipedia.org/wiki/AI*少女 "wikilink")/ハニーセレクト2【DL専売】
+      - 2020年10月30日 - [ハニーセレクト リビドー DX](https://ja.wikipedia.org/wiki/ハニーセレクト "wikilink")2\[5\]
 
 ### IVR
 
-  - 2018年8月1日\[5\] - Vカツ（[バーチャルキャスト](https://ja.wikipedia.org/wiki/バーチャルキャスト "wikilink")、[バーチャルYoutuber](https://ja.wikipedia.org/wiki/バーチャルYoutuber "wikilink")支援ソフト、コイカツと非互換性）
-  - 2018年8月1日\[6\] - つんつんVR
+  - 2018年8月1日\[6\] - [Vカツ](https://ja.wikipedia.org/wiki/Vカツ "wikilink")（[Virtual Cast](https://ja.wikipedia.org/wiki/Virtual_Cast "wikilink")、[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")支援ソフト、コイカツと非互換性）
+  - 2018年8月1日\[7\] - つんつんVR
   - 夏予定 - VRカノジョSUMMER VACATION
-  - 2020年初頭予定\[7\] - [VRカレシ](../Page/VRカレシ.md "wikilink")
+  - 2020年初頭予定\[8\] - [VRカレシ](../Page/VRカレシ.md "wikilink")
 
 ### Vision
 
@@ -158,12 +160,12 @@
 
 ## 主なスタッフ
 
-  - 平井雄一 - キャラクターモデラーで、後にIVR設立に参加。『俺が主人公』にてディレクターデビューし、『VRカノジョ』リードキャラクターアーティストを務めた\[8\]。
+  - 平井雄一 - キャラクターモデラーで、後にIVR設立に参加。『俺が主人公』にてディレクターデビューし、『VRカノジョ』リードキャラクターアーティストを務めた\[9\]。
   - 大鶴尚之 - 『VRカノジョ』開発メンバー。
 
 ## 問題
 
-2006年に発売された[レイプレイ](https://ja.wikipedia.org/wiki/レイプレイ "wikilink")に対し、2009年2月に[Amazon.com](../Page/Amazon.com.md "wikilink")でディーラーズ販売([Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")における[マーケットプレイス](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonマーケットプレイス "wikilink")）されていた本作を[イギリス国会議員の](../Page/イギリスの議会.md "wikilink")[キース・ヴァズ](https://ja.wikipedia.org/wiki/キース・ヴァズ "wikilink")が自らの不祥事の話題をそらす為に取り上げ\[9\]\[10\] Amazon.comでの販売が中止となった。この段階では日本国内での報道は一部の海外ゲーム系ニュースサイトに限られていた\[11\]が、同年5月には[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラディカル・フェミニズム](https://ja.wikipedia.org/wiki/ラディカル・フェミニズム "wikilink")団体「イクオリティ・ナウ」が日本での販売中止を求める抗議活動を起こし日本国内でも大々的に報道された。同団体は会員3万人に、日本政府の要人らに向けた「性暴力ゲーム」規制要求の抗議文を出すよう呼びかけている\[12\]。
+2006年に発売された[レイプレイ](https://ja.wikipedia.org/wiki/レイプレイ "wikilink")に対し、2009年2月に[Amazon.com](../Page/Amazon.com.md "wikilink")でディーラーズ販売([Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")における[マーケットプレイス](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonマーケットプレイス "wikilink")）されていた本作を[イギリス国会議員の](../Page/イギリスの議会.md "wikilink")[キース・ヴァズ](https://ja.wikipedia.org/wiki/キース・ヴァズ "wikilink")が自らの不祥事の話題をそらす為に取り上げ\[10\]\[11\] Amazon.comでの販売が中止となった。この段階では日本国内での報道は一部の海外ゲーム系ニュースサイトに限られていた\[12\]が、同年5月には[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラディカル・フェミニズム](https://ja.wikipedia.org/wiki/ラディカル・フェミニズム "wikilink")団体「イクオリティ・ナウ」が日本での販売中止を求める抗議活動を起こし日本国内でも大々的に報道された。同団体は会員3万人に、日本政府の要人らに向けた「性暴力ゲーム」規制要求の抗議文を出すよう呼びかけている\[13\]。
 
 ## 脚注
 
@@ -201,10 +203,11 @@
 3.
 4.
 5.
-6.  [美少女につつかれる感触まで再現する「つんつんVR」リリース](https://www.moguravr.com/tsun-tsun-vr/)
-7.
+6.
+7.  [美少女につつかれる感触まで再現する「つんつんVR」リリース](https://www.moguravr.com/tsun-tsun-vr/)
 8.
-9.  [Exclusive: Amazon selling rape simulation game - Local & National, News - Belfasttelegraph.co.uk](https://www.belfasttelegraph.co.uk/business/technology/exclusive-amazon-selling-rape-simulation-game-rapelay-28533501.html)
-10. [コンテンツ文化研究会 / Institute of Contents Culture: イギリスにおけるレイプレイ事件とその社会的背景について](http://icc-japan.blogspot.com/2009/06/blog-post_14.html)
-11. [イギリスの議員が、アマゾンで売られる日本の18禁ゲーム『レイプレイ』を国会で追及](https://www.gamespark.jp/article/2009/02/12/17924.html) Game\*Spark 2009年2月12日
-12. [日本製「性暴力ゲーム」欧米で販売中止、人権団体が抗議活動](http://www.yomiuri.co.jp/national/news/20090507-OYT1T01111.htm?from=navr) 読売新聞 2009年5月8日
+9.
+10. [Exclusive: Amazon selling rape simulation game - Local & National, News - Belfasttelegraph.co.uk](https://www.belfasttelegraph.co.uk/business/technology/exclusive-amazon-selling-rape-simulation-game-rapelay-28533501.html)
+11. [コンテンツ文化研究会 / Institute of Contents Culture: イギリスにおけるレイプレイ事件とその社会的背景について](http://icc-japan.blogspot.com/2009/06/blog-post_14.html)
+12. [イギリスの議員が、アマゾンで売られる日本の18禁ゲーム『レイプレイ』を国会で追及](https://www.gamespark.jp/article/2009/02/12/17924.html) Game\*Spark 2009年2月12日
+13. [日本製「性暴力ゲーム」欧米で販売中止、人権団体が抗議活動](http://www.yomiuri.co.jp/national/news/20090507-OYT1T01111.htm?from=navr) 読売新聞 2009年5月8日

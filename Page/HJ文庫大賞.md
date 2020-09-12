@@ -517,8 +517,9 @@
 </tr>
 <tr class="even">
 <td><p>奨励賞</p></td>
-<td><p><em>勇者は魔王の門番人</em></p></td>
-<td><p><em>鉄乃蜘蛛</em></p></td>
+<td><p>勇者は魔王の門番人<br />
+（<a href="https://ja.wikipedia.org/wiki/勇者は魔王の門番人_〜ブラックな勇者業辞めて、ホワイトな魔王の下で働きます〜" title="wikilink">勇者は魔王の門番人 〜ブラックな勇者業辞めて、ホワイトな魔王の下で働きます〜</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鉄乃蜘蛛" title="wikilink">鉄乃蜘蛛</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -538,8 +539,8 @@
 </tr>
 <tr class="odd">
 <td><p>金賞</p></td>
-<td><p><em>紙山さんの紙袋の中には</em></p></td>
-<td><p><em>江ノ島アビス</em></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/紙山さんの紙袋の中には" title="wikilink">紙山さんの紙袋の中には</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江ノ島アビス" title="wikilink">江ノ島アビス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -618,7 +619,7 @@
 ## 読者グランプリ
 
   - 第1回（[2014年](../Page/2014年.md "wikilink")開催）
-      - [ハイスクール・シークレット・サービス！](https://ja.wikipedia.org/wiki/ハイスクール・シークレット・サービス！ "wikilink") 著者：[水円花帆](https://ja.wikipedia.org/wiki/水円花帆 "wikilink")
+      - [ハイスクール・シークレット・サービス！](https://ja.wikipedia.org/wiki/ハイスクール・シークレット・サービス! "wikilink") 著者：[水円花帆](https://ja.wikipedia.org/wiki/水円花帆 "wikilink")
   - 第2回（[2015年](../Page/2015年.md "wikilink")開催）
       - [リベンジ・オンライン](https://ja.wikipedia.org/wiki/リベンジ・オンライン "wikilink") 著者：[アカバコウヨウ](https://ja.wikipedia.org/wiki/アカバコウヨウ "wikilink")
   - 第3回（[2016年](../Page/2016年.md "wikilink")開催）

@@ -9,7 +9,7 @@
 
 ## 沿革
 
-  - [2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") -山崎恵人がサイト設立\[8\]。当初は個人運営のサイトだった。
+  - [2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 山崎恵人がサイト設立\[8\]。当初は個人運営のサイトだった。
   - [2006年](../Page/2006年.md "wikilink")
       - [3月31日](../Page/3月31日.md "wikilink") - ブログ形式に移行。本格的にニュースサイトとなる。サイトには2000年より運営されているとあるが、2006年以前の記事を閲覧することはできない。ただし、[InternetArchive](https://ja.wikipedia.org/wiki/InternetArchive "wikilink")にて以前の記事を確認することができる\[9\]が現在のサイト構成とは大きく異なっている。編集長、その下に各スタッフが並ぶという組織となっている\[10\]。
   - [2006年](../Page/2006年.md "wikilink")7月 - 複数人で記事を執筆する体制に移行。
@@ -63,9 +63,9 @@ CEDEC2012を主催した[コンピュータエンタテインメント協会](ht
 4.  [GIGAZINEについて](http://gigazine.net/index.php?/news/about/) [2012年](../Page/2012年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")閲覧。
 5.
 6.  [ISP規制情報Wiki](http://isp.oshietekun.net/index.php)
-7.  [InternetArchiveのログ](http://web.archive.org/web/20071007184304/http://gigazine.net/)
+7.  [InternetArchiveのログ](https://web.archive.org/web/20071007184304/http://gigazine.net/)
 8.  山崎恵人『GIGAZINE 未来への暴言』朝日新聞出版、2010年
-9.  [InternetArchiveのログ](http://web.archive.org/web/*/http://gigazine.net/)
+9.  [InternetArchiveのログ](https://web.archive.org/web/*/http://gigazine.net/)
 10.
 11.
 12.

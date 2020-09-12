@@ -34,7 +34,7 @@
 
 ## リミックス・シングル
 
-同年[7月2日](../Page/7月2日.md "wikilink")に、12インチEP(12AH2070)、CT(12KH1910)で発売。名称は「**シーズン・イン・ザ・サン (Special Remixed Seaside Version)**」。
+1986年[7月2日](../Page/7月2日.md "wikilink")に、12インチEP(12AH2070)、CT(12KH1910)で発売。名称は「**シーズン・イン・ザ・サン (Special Remixed Seaside Version)**」。
 
   - 収録曲
 

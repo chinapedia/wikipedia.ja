@@ -9,6 +9,7 @@
       - 元INFECTION。
   - YD（ワイディー、宮本雄大、*Yudai "YD" Miyamoto*） - [ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - Shinya（シンヤ、*Shinya Hori*） - [ギター](../Page/ギター.md "wikilink")
+      - 2020年7月より一身上の都合により活動休止。
 
 ### サポートメンバー
 
@@ -21,7 +22,7 @@
 
 ### 旧メンバー
 
-  - Kentaro - [ボーカル](../Page/ベース_\(弦楽器\).md "wikilink")（2002年 - 2011年6月）
+  - Kentaro（別名：Veron） - [ボーカル](../Page/ベース_\(弦楽器\).md "wikilink")（2002年 - 2011年6月）
   - Yusuke - [ドラム](../Page/ベース_\(弦楽器\).md "wikilink")（2002年 - 2012年3月）
   - Yasuyuki Kotaka - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（不明 - 2015年8月）
 
@@ -122,9 +123,15 @@
   - 11月 台湾HEARTTOWN FESTIVAL 2016へ2年連続出演する。また、30日には通算4枚目となるフル・アルバム『TRUE NORTH』をCUBE RECORDSより発売。
   - 12月 2日に『TRUE NORTH』アメリカ盤をArtery Recordingsから、また現状デジタル配信ではあるがイギリスJPU Recordsからも発売された。
 
+**[2020年](../Page/2020年.md "wikilink")**
+
+  - 6月 過去の3作品(『Freewill』『Dimension』『Into The Great Beyond』)から9曲を選曲・現体制で再録音したアルバム『The Voyages』の発売、そしてその中から1曲に[MVを制作することを発表](../Page/ミュージック・ビデオ.md "wikilink")。ちなみにこの企画には「コロナの影響で人と人との距離がある状況だからこそ、手法を変えてファンと共に作品を創ること」というテーマがあり、両方とも制作には[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")が利用されたが、これにも「クラウドファンディングを利用することでファンとの一体感を持ち音楽を発信する」という、バンド側の思いが込められているとのこと。支援者へのリターンとして、「アルバム・ブックレット及びミュージック・ビデオのエンドロールに支援者の名前を記載する一体型コンテンツ」や「『The Voyages』レコード盤・限定Tシャツ・4枚組スペシャルCD BOX」など、クラウドファンディングのみの完全限定コースも用意された\[4\]。最終的には1700人もの支援があって、目標金額300万円の5倍近く上回る1447万円が集まったため、プロジェクトは遂行された\[5\]。
+  - 7月 8日にシングル「WATCH ME BURN」リリース。オリコンチャートではキャリア最高となる12位を獲得\[6\]、そしてShinyaのアーティストとしての活動休止を発表\[7\]。
+  - 8月 アルバム『The Voyages』より「Into The Great Beyond」のMVを公開\[8\]。
+
 ## ディスコグラフィ
 
-### CD
+### アルバム
 
 <table>
 <thead>
@@ -139,7 +146,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1stアルバム</p></td>
+<td><p>1st</p></td>
 <td><p>2006年07月05日</p></td>
 <td><p><strong>Dimension</strong></p></td>
 <td><p>DDCI-3001</p></td>
@@ -161,20 +168,7 @@
 <td><p>IMPERIUM</p></td>
 </tr>
 <tr class="even">
-<td><p>スプリット</p></td>
-<td><p>2008年5月24日</p></td>
-<td><p><strong>Crystal Lake, Cleave</strong></p></td>
-<td><p>HGR-003</p></td>
-<td><ol>
-<li>Daylight / Crystal Lake</li>
-<li>Blinded By Fear[original by AT THE GATES] / Crystal Lake</li>
-<li>Refuse To Fall / CLEAVE</li>
-<li>One[original by U2] / CLEAVE</li>
-</ol></td>
-<td><p>HGR</p></td>
-</tr>
-<tr class="odd">
-<td><p>2ndアルバム</p></td>
+<td><p>2nd</p></td>
 <td><p>2010年11月03日</p></td>
 <td><p><strong>Into The Great Beyond</strong></p></td>
 <td><p>IMPR-007</p></td>
@@ -193,38 +187,8 @@
 </ol></td>
 <td><p>IMPERIUM RECORDINGS</p></td>
 </tr>
-<tr class="even">
-<td><p>1stシングル</p></td>
-<td><p>2012年9月5日</p></td>
-<td><p><strong>The Fire Inside / Overcome</strong></p></td>
-<td><p>CL-01</p></td>
-<td><ol>
-<li>The Fire Inside</li>
-<li>Overcome</li>
-</ol></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>EP</p></td>
-<td><p>2014年08月06日<br />
-2015年03月18日</p></td>
-<td><p><strong>Cubes</strong></p></td>
-<td><p>CUBE-1001:CD<br />
-CUBE-1002:LP</p></td>
-<td><ol>
-<li>Ups &amp; Downs [4:42]</li>
-<li>Beloved (feat. Kenta Koie from <a href="https://ja.wikipedia.org/wiki/Crossfaith" title="wikilink">Crossfaith</a>) [4:38]</li>
-<li>Mahakala [3:44]</li>
-<li>See This Through - Acoustic ver. [4:29]</li>
-<li>Rollin’ (feat. Senta from NUMB) [3:45]</li>
-<li>The Fire Inside [4:08]</li>
-<li>Cubes [0:33]</li>
-</ol></td>
-<td><p>CUBE RECORDS<br />
-オリコン最高45位、登場回数3回</p></td>
-</tr>
-<tr class="even">
-<td><p>3rdアルバム</p></td>
+<td><p>3rd</p></td>
 <td><p>2015年10月7日 (Japan)</p></td>
 <td><p><strong>The Sign</strong></p></td>
 <td><p>CUBE-1003</p></td>
@@ -243,8 +207,8 @@ CUBE-1002:LP</p></td>
 <td><p>CUBE RECORDS<br />
 オリコン最高36位、登場回数3回</p></td>
 </tr>
-<tr class="odd">
-<td><p>4thアルバム</p></td>
+<tr class="even">
+<td><p>4th</p></td>
 <td><p>2016年11月30日 (Japan)<br />
 2016年12月2日 (North America/UK/Euro)</p></td>
 <td><p><strong>True North</strong></p></td>
@@ -264,8 +228,144 @@ CUBE-1002:LP</p></td>
 <td><p>CUBE RECORDS<br />
 オリコン最高39位</p></td>
 </tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2018年11月28日 (Japan)<br />
+2019年2月15日 (USA)</p></td>
+<td><p><strong>HELIX</strong></p></td>
+<td><p>CUBE-1010</p></td>
+<td><ol>
+<li>Helix</li>
+<li>Aeon feat. AJ(<a href="https://ja.wikipedia.org/wiki/ISSUES" title="wikilink">ISSUES</a>)</li>
+<li>Agony</li>
+<li>+81</li>
+<li>Lost In Forever feat. Daniel &amp; Tyler(Gideon)</li>
+<li>Outgrow</li>
+<li>Ritual</li>
+<li>Hail To The Fire</li>
+<li>Devilcry</li>
+<li>Just Confusing</li>
+<li>Apollo</li>
+<li>Sanctuary</li>
+</ol></td>
+<td><p>CUBE RECORDS<br />
+オリコン最高23位</p></td>
+</tr>
+</tbody>
+</table>
+
+### ミニアルバム・EP
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1stDemo</p></td>
+<td><p>2003年9月11日</p></td>
+<td><p><strong>Freewill</strong></p></td>
+<td></td>
+<td><ol>
+<li>The Light</li>
+<li>Not Our War</li>
+<li>Unbeliever</li>
+<li>Freewill</li>
+</ol></td>
+<td></td>
+</tr>
 <tr class="even">
-<td><p>2ndシングル</p></td>
+<td><p>1st</p></td>
+<td><p>2014年08月06日<br />
+2015年03月18日</p></td>
+<td><p><strong>Cubes</strong></p></td>
+<td><p>CUBE-1001:CD<br />
+CUBE-1002:LP</p></td>
+<td><ol>
+<li>Ups &amp; Downs [4:42]</li>
+<li>Beloved (feat. Kenta Koie from <a href="https://ja.wikipedia.org/wiki/Crossfaith" title="wikilink">Crossfaith</a>) [4:38]</li>
+<li>Mahakala [3:44]</li>
+<li>See This Through - Acoustic ver. [4:29]</li>
+<li>Rollin’ (feat. Senta from NUMB) [3:45]</li>
+<li>The Fire Inside [4:08]</li>
+<li>Cubes [0:33]</li>
+</ol></td>
+<td><p>CUBE RECORDS<br />
+オリコン最高45位、登場回数3回</p></td>
+</tr>
+</tbody>
+</table>
+
+### 企画アルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>再録ベスト</p></td>
+<td><p>2020年8月5日</p></td>
+<td><p><strong>The Voyages</strong></p></td>
+<td><p>CUBE-1013</p></td>
+<td><ol>
+<li>Freewill (from 1st Demo『Freewill』/2003年)</li>
+<li>Fabricated Refuge (from 1st Album『Dimension』/2006年)</li>
+<li>The Passage (from 1st Album『Dimension』/2006年)</li>
+<li>Innocence (from 1st Album『Dimension』/2006年)</li>
+<li>The Burden (from 1st Album『Dimension』/2006年)</li>
+<li>Twisted Fate (from 2nd Album『Into the Great Beyond』/2010年)</li>
+<li>Open Water (from 2nd Album『Into the Great Beyond』/2010年)</li>
+<li>Daylight (from 2nd Album『Into the Great Beyond』/2010年)</li>
+<li>Into the Great Beyond (from 2nd Album『Into the Great Beyond』/2010年)</li>
+</ol></td>
+<td><p>CUBE RECORDS<br />
+オリコン最高40位</p></td>
+</tr>
+</tbody>
+</table>
+
+### シングル
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2012年9月5日</p></td>
+<td><p><strong>The Fire Inside / Overcome</strong></p></td>
+<td><p>CL-01</p></td>
+<td><ol>
+<li>The Fire Inside</li>
+<li>Overcome</li>
+</ol></td>
+<td><p>枚数限定販売(完売)</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
 <td><p>2017年10月11日</p></td>
 <td><p><strong>Apollo</strong></p></td>
 <td><p>CUBE-1008</p></td>
@@ -290,7 +390,7 @@ CUBE-1002:LP</p></td>
 オリコン最高26位</p></td>
 </tr>
 <tr class="odd">
-<td><p>3rdシングル</p></td>
+<td><p>3rd</p></td>
 <td><p>2018年8月8日</p></td>
 <td><p><strong>THE CIRCLE</strong></p></td>
 <td><p>CUBE-1009</p></td>
@@ -303,27 +403,50 @@ CUBE-1002:LP</p></td>
 オリコン最高44位</p></td>
 </tr>
 <tr class="even">
-<td><p>5thアルバム</p></td>
-<td><p>2018年11月28日 (Japan)<br />
-2019年2月15日 (USA)</p></td>
-<td><p><strong>HELIX</strong></p></td>
-<td><p>CUBE-1010</p></td>
-<td><ol>
-<li>Helix</li>
-<li>Aeon feat. AJ(<a href="https://ja.wikipedia.org/wiki/ISSUES" title="wikilink">ISSUES</a>)</li>
-<li>Agony</li>
-<li>+81</li>
-<li>Lost In Forever feat. Daniel &amp; Tyler(Gideon)</li>
-<li>Outgrow</li>
-<li>Ritual</li>
-<li>Hail To The Fire</li>
-<li>Devilcry</li>
-<li>Just Confusing</li>
-<li>Apollo</li>
-<li>Sanctuary</li>
+<td><p>4th</p></td>
+<td><p>2020年7月8日</p></td>
+<td><p><strong>WATCH ME BURN</strong></p></td>
+<td><p>CUBE-1012</p></td>
+<td><p><strong>CD</strong></p>
+<ol>
+<li>WATCH ME BURN</li>
+<li>DISOBEY</li>
+</ol>
+<p><strong>DVD</strong></p>
+<ol>
+<li>Live at Resurrection Fest EG 2019[Full Show with Audio Commentary] (Commentary Film)</li>
+<li>Interview &amp; Guest Comments (Commentary Film)</li>
 </ol></td>
 <td><p>CUBE RECORDS<br />
-オリコン最高23位</p></td>
+オリコン最高12位</p></td>
+</tr>
+</tbody>
+</table>
+
+### スプリットシングル
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2008年5月24日</p></td>
+<td><p><strong>Crystal Lake, Cleave</strong></p></td>
+<td><p>HGR-003</p></td>
+<td><ol>
+<li>Daylight / Crystal Lake</li>
+<li>Blinded By Fear[original by AT THE GATES] / Crystal Lake</li>
+<li>Refuse To Fall / CLEAVE</li>
+<li>One[original by U2] / CLEAVE</li>
+</ol></td>
+<td><p>HGR</p></td>
 </tr>
 </tbody>
 </table>
@@ -444,27 +567,41 @@ WPZL-31635/37/75/77</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/INNI_VISION" title="wikilink">INNI VISION</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=Fw74pypwbC0">Beloved (feat.Kenta Koie from Crossfaith)</a>」<br />
-「<a href="https://www.youtube.com/watch?v=CvJQ1pFBi8A">Omega</a>」<br />
+<td><p>「<a href="https://www.youtube.com/watch?v=CKHsfceVK2g">AEON</a>」<br />
+「<a href="https://www.youtube.com/watch?v=Fw74pypwbC0">Beloved (feat.Kenta Koie from Crossfaith)</a>」<br />
+「<a href="https://www.youtube.com/watch?v=DuB2kyN8wzI">THE CIRCLE</a>」<br />
+「<a href="https://www.youtube.com/watch?v=6BFgs2PloFI">Lost In Forever</a>」<br />
 「<a href="https://www.youtube.com/watch?v=6OnOXCu-BCI">Matrix</a>」<br />
+「<a href="https://www.youtube.com/watch?v=CvJQ1pFBi8A">Omega</a>」<br />
 「<a href="https://www.youtube.com/watch?v=bROQ9Lse9ns">Prometheus</a>」<br />
 「<a href="https://www.youtube.com/watch?v=a9kz9e487mA">Sanctuary</a>」</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/池田圭_(映像作家)" title="wikilink">池田圭</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=_pLBl4IKjD8">Twisted Fate</a>」<br />
-「<a href="https://www.youtube.com/watch?v=6WyZ2GcdmCM">Rollin</a>」<br />
+<td><p>「<a href="https://www.youtube.com/watch?v=Z4z756LQVOc">Black And Blue feat. JESSE</a>」<br />
 「<a href="https://www.youtube.com/watch?v=rAcDTMIAh98">Mercury</a>」<br />
-「<a href="https://www.youtube.com/watch?v=Z4z756LQVOc">Black And Blue feat. JESSE</a>」</p></td>
+「<a href="https://www.youtube.com/watch?v=6WyZ2GcdmCM">Rollin</a>」<br />
+「<a href="https://www.youtube.com/watch?v=7jv_TXeMXI4">True North</a>」<br />
+「<a href="https://www.youtube.com/watch?v=_pLBl4IKjD8">Twisted Fate</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Isao_Takano" title="wikilink">Isao Takano</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=8119XHDKTLk">Ups &amp; Downs</a>」</p></td>
 </tr>
 <tr class="odd">
+<td><p>KOH YAMADA / KAZUKI END</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=tmUEwyRCJ9I">Watch Me Burn</a>」</p></td>
+</tr>
+<tr class="even">
+<td><p>THINGS.</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=oIJuygxblSc">Into The Great Beyond</a>」</p></td>
+</tr>
+<tr class="odd">
 <td><p>不明</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=6IOEO1xPAFU">THE SIGN</a>」<br />
-「<a href="https://www.youtube.com/watch?v=d1S5-QfwsCk">The Fire Inside(Live)</a>」</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=yjr9TZjTqIM">Devilcry</a>」<br />
+「<a href="https://www.youtube.com/watch?v=d1S5-QfwsCk">The Fire Inside(Live)</a>」<br />
+「<a href="https://www.youtube.com/watch?v=VYPJPgo24-s">Hail To The Fire</a>」<br />
+「<a href="https://www.youtube.com/watch?v=6IOEO1xPAFU">THE SIGN</a>」</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -592,3 +729,8 @@ WPZL-31635/37/75/77</p></td>
 1.
 2.  <https://www.facebook.com/crystallake777/posts/10152243711862842>
 3.
+4.
+5.
+6.
+7.
+8.

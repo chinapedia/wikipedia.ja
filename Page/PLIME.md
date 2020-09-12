@@ -125,4 +125,4 @@ PLIME feat. OMA(オマスガ)として参加。
 
   - [所属事務所GPS](http://www.j-gps.com/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:徳間ジャパンコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:徳間ジャパンコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアーティスト "wikilink")

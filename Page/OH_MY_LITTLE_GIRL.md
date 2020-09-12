@@ -41,6 +41,7 @@
   - [城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink") - 2015年1月21日発売のカバーアルバム『サクラナガシ』に収録。編曲：[ただすけ](../Page/ただすけ.md "wikilink")。
   - [高橋克典](../Page/高橋克典.md "wikilink") - 2016年の『[SINGS \~Cover Theme Songs\~](https://ja.wikipedia.org/wiki/SINGS_~Cover_Theme_Songs~ "wikilink")』に収録。
   - [言承旭](../Page/言承旭.md "wikilink") - 2017年7月5日発売のシングル。
+  - Toshiカバーアルバム『 IM A SINGER VOL. 2 』に収録
 
 ## シングル収録曲
 

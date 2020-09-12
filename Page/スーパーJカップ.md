@@ -94,7 +94,7 @@
 ### その他の参加選手
 
   - [エル・サムライ](../Page/エル・サムライ.md "wikilink")（新日本プロレス）
-  - [ケンドー・カシン](../Page/石澤常光.md "wikilink")（新日本プロレス）
+  - [ケンドー・カシン](https://ja.wikipedia.org/wiki/ケンドー・カシン "wikilink")（新日本プロレス）
   - [田中稔](../Page/田中稔_\(プロレスラー\).md "wikilink")（新日本プロレス）
   - [望月成晃](../Page/望月成晃.md "wikilink")（闘龍門JAPAN）
   - [アビスモ・ネグロ](../Page/アビスモ・ネグロ.md "wikilink")（[AAA](../Page/AAA_\(プロレス\).md "wikilink")）
@@ -253,7 +253,7 @@
   - [内藤哲也](../Page/内藤哲也.md "wikilink")（新日本プロレス）
   - [海野翔太](https://ja.wikipedia.org/wiki/海野翔太 "wikilink")（新日本プロレス）
   - [成田蓮](https://ja.wikipedia.org/wiki/成田蓮 "wikilink")（新日本プロレス）
-  - [ジュース・ロビンソン](https://ja.wikipedia.org/wiki/ジョー・ロビンソン "wikilink")（新日本プロレス）
+  - [ジュース・ロビンソン](https://ja.wikipedia.org/wiki/ジュース・ロビンソン "wikilink")（新日本プロレス）
   - [ジェイ・ホワイト](https://ja.wikipedia.org/wiki/ジェイ・ホワイト "wikilink")（新日本プロレス）
   - [カール・フレドリックス](https://ja.wikipedia.org/wiki/カール・フレドリックス "wikilink")（新日本プロレスLA道場）
   - [アレックス・コグリン](https://ja.wikipedia.org/wiki/アレックス・コグリン "wikilink")（新日本プロレスLA道場）

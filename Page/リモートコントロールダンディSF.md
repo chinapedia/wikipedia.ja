@@ -1,7 +1,7 @@
 > この記事は[リモートコントロールダンディSF](https://ja.wikipedia.org/wiki/リモートコントロールダンディSF)から翻訳されています。
 
 
-**リモートコントロールダンディSF**は、[2005年](../Page/2005年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロボット](../Page/ロボット.md "wikilink")操縦[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
+**リモートコントロールダンディSF**は、[2005年](../Page/2005年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation 2専用のオリジナル](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロボット](../Page/ロボット.md "wikilink")操縦[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
 
 基本的に[リモートコントロールダンディ](../Page/リモートコントロールダンディ.md "wikilink")と同じで、ロボットを[リモートコントロール](https://ja.wikipedia.org/wiki/リモートコントロール "wikilink")して戦う。ただし、前作の開発を行った[サンドロット](../Page/サンドロット.md "wikilink")が関わっていないため演出や操作性などは継承されていない。
 

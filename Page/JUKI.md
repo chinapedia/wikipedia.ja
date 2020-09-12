@@ -7,7 +7,7 @@
 
 創設は[1938年](../Page/1938年.md "wikilink")12月。[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中に[陸軍](../Page/陸軍.md "wikilink")が使用する[九二式重機関銃](../Page/九二式重機関銃.md "wikilink")および[九九式短小銃](../Page/九九式短小銃.md "wikilink")を生産するために東京重機製造工業組合として設立され、[1943年](../Page/1943年.md "wikilink")に東京重機工業株式会社に改称。戦後に武器製造は中止し、使用していた工作機械を活用しミシンを作り始めた。\[1\]。
 
-1947年に家庭用[ミシン](../Page/ミシン.md "wikilink")を発売。その性能が高く評価され通産大臣賞を受賞。[1950年](../Page/1950年.md "wikilink")の第一回[お年玉付郵便はがき](../Page/お年玉付郵便はがき.md "wikilink")の特等賞品に採用され、その後[1952年](../Page/1952年.md "wikilink")から[1955年](../Page/1955年.md "wikilink")まで連続して特等賞品に採用されている。\[2\]。
+1947年に家庭用[ミシン](../Page/ミシン.md "wikilink")を発売。その性能が高く評価され通商産業大臣賞を受賞。[1950年](../Page/1950年.md "wikilink")の第一回[お年玉付郵便はがき](../Page/お年玉付郵便はがき.md "wikilink")の特等賞品に採用され、その後[1952年](../Page/1952年.md "wikilink")から[1955年](../Page/1955年.md "wikilink")まで連続して特等賞品に採用されている。\[2\]。
 
 [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に工業用ミシン事業に参入。同時に世界への輸出も推進し、現在では子会社のJUKI販売に分社化したものの、JUKI直営当時より[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")や[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")など、日本の主要都市に営業部門の拠点を置いている他、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アジア](../Page/アジア.md "wikilink")、[中国](../Page/中国.md "wikilink")にグループ企業を展開し、180カ国で使用されている。
 

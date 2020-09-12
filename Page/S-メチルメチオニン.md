@@ -1,7 +1,7 @@
 > この記事は[S-メチルメチオニン](https://ja.wikipedia.org/wiki/S-メチルメチオニン)から翻訳されています。
 
 
-***S*-メチルメチオニン** (*S*-methylmethionine) は、化学式が\[([CH<sub>3</sub>](../Page/メチル基.md "wikilink"))<sub>3</sub>S(CH<sub>2</sub>)<sub>2</sub>CH(NH<sub>2</sub>)CO<sub>2</sub>H\]<sup>+</sup>で表される[メチオニン](https://ja.wikipedia.org/wiki/メチオニン "wikilink")誘導体である。**塩化メチルメチオニンスルホニウム**（MMSC）。別名に**ビタミンU**がある。
+***S*-メチルメチオニン** (*S*-methylmethionine) は、化学式が\[([CH<sub>3</sub>](../Page/メチル基.md "wikilink"))<sub>2</sub>S(CH<sub>2</sub>)<sub>2</sub>CH(NH<sub>2</sub>)CO<sub>2</sub>H\]<sup>+</sup>で表される[メチオニン](https://ja.wikipedia.org/wiki/メチオニン "wikilink")誘導体である。**塩化メチルメチオニンスルホニウム**（MMSC）。別名に**ビタミンU**がある。
 
 ## 概要
 

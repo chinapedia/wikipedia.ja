@@ -49,7 +49,7 @@
   -
 [Category:2003年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2003年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:スペースプロジェクト](https://ja.wikipedia.org/wiki/Category:スペースプロジェクト "wikilink")
 
-1.  [CANDY TOYS - スペースプロジェクト（旧公式サイト）](http://web.archive.org/web/20131014233203/http://sp-janis.com/soft/candytoys.shtml)
+1.  [CANDY TOYS - スペースプロジェクト（旧公式サイト）](https://web.archive.org/web/20131014233203/http://sp-janis.com/soft/candytoys.shtml)
 2.
 3.
 4.

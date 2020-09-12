@@ -17,7 +17,7 @@
 
 ## 企画
 
-  - [1996年](../Page/1996年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、本誌と連動企画のガールズユニット**[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")**が結成され、シングル「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY.md "wikilink")」で[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
+  - [1996年](../Page/1996年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、本誌と連動企画のガールズユニット**[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")**が結成され、シングル「[AS TIME GOES BY](https://ja.wikipedia.org/wiki/AS_TIME_GOES_BY_\(HIM-eggの曲\) "wikilink")」で[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、『egg』の人気[読者モデル](../Page/読者モデル.md "wikilink")だったCHIKAを中心に、AKI、HIROの3人で「[deeps](https://ja.wikipedia.org/wiki/deeps "wikilink")」が結成され、シングル「Love is Real」でデビュー。
 
 ## モデル
@@ -42,6 +42,8 @@
   - [遠藤裕美](https://ja.wikipedia.org/wiki/遠藤裕美 "wikilink")（えんひろ）
   - [畑沢葵](https://ja.wikipedia.org/wiki/畑沢葵 "wikilink")
   - [HiROMi](https://ja.wikipedia.org/wiki/HiROMi_\(モデル\) "wikilink")
+  - [青木のあ](../Page/青木のあ.md "wikilink")
+  - [堀越まり](https://ja.wikipedia.org/wiki/堀越まり "wikilink")
   - [今井華](https://ja.wikipedia.org/wiki/今井華 "wikilink")
   - [細井宏美](https://ja.wikipedia.org/wiki/細井宏美 "wikilink")
   - [根本弥生](https://ja.wikipedia.org/wiki/根本弥生 "wikilink")
@@ -102,7 +104,7 @@
   -
   -
   -
-[Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1995年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1995年創刊の雑誌 "wikilink")
+[Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1995年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1995年創刊の雑誌 "wikilink")
 
 1.
 2.

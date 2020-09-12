@@ -1,7 +1,7 @@
 > この記事は[SECRET AMBITION](https://ja.wikipedia.org/wiki/SECRET_AMBITION)から翻訳されています。
 
 
-「**SECRET AMBITION**」（シークレット・アンビション）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
+「**SECRET AMBITION**」（シークレット・アンビション）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。2007年4月18日に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
 
 ## 解説
 
@@ -61,7 +61,7 @@
 
   - [キングレコードによる紹介ページ](http://www.kingrecords.co.jp/cs/g/gKICM-1199/)
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:志倉千代丸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:志倉千代丸が制作した楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:魔法少女リリカルなのはの音楽](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはの音楽 "wikilink") [Category:秘密を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:秘密を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:志倉千代丸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:志倉千代丸が制作した楽曲 "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:魔法少女リリカルなのはの音楽](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはの音楽 "wikilink") [Category:秘密を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:秘密を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.
 2.  ちなみに両シングルともに『[魔法少女リリカルなのは](../Page/魔法少女リリカルなのは.md "wikilink")』シリーズのオープニングテーマとなっている。

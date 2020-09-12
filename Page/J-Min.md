@@ -183,6 +183,6 @@
 
 ## 外部リンク
 
-  - [J-Min 公式サイト](http://www.universal-music.co.jp/j-min/) – 日本語 (NAYUTAWAVE RECORDS)
+  - [J-Min 公式サイト](https://www.universal-music.co.jp/j-min/) – 日本語 (NAYUTAWAVE RECORDS)
 
 [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:韓国のポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国のポップ歌手 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

@@ -26,13 +26,14 @@ L'Arc〜en〜Cielの2007年第4弾シングルであり、5ヶ月連続リリー
         発売当初はノン[タイアップ](../Page/タイアップ.md "wikilink")であったが、2007年11月23日から[福岡県](../Page/福岡県.md "wikilink")の[天神で行われたイベント](../Page/天神_\(福岡市\).md "wikilink")「天神のクリスマスへ行こう2007」のテーマソングとして起用された。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の再発売に際し、2008年11月末から「[NEXUS 4](https://ja.wikipedia.org/wiki/NEXUS_4/SHINE "wikilink")」の後を継いで、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")「[スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink")」の[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
         [2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")から行われたホールツアー「Are you ready? 2007 またハートに火をつけろ\!」では開催時期が夏ということもあり演奏はされていなかったが、イントロ部分をオープニングS.E.として使用していた。tetsuyaは「きっとみんな、普通のありものの曲を流していると思っていたんじゃないですかね\[1\]」と述べている。
         クリスマスを意識した初めての楽曲で、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も[サンタクロース](../Page/サンタクロース.md "wikilink")に扮した[エキストラ](../Page/エキストラ.md "wikilink")が行う[パーティ](../Page/パーティ.md "wikilink")の中でメンバーが[演奏](../Page/演奏.md "wikilink")するというユニークな物である。
-        [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[ホーン](../Page/管楽器.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")、[コーラスを用いた](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")テイストの[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")で、[ガットギターによる](../Page/クラシック・ギター.md "wikilink")[ソロが導入された初めてのシングルでもある](../Page/ソロ_\(音楽\).md "wikilink")。また、当初hydeは[ブライアン・セッツァー・オーケストラ](https://ja.wikipedia.org/wiki/ブライアン・セッツァー・オーケストラ "wikilink")をイメージしており、デモ音源はバンドとアコーディオンのみのサウンドだったが、制作途中で[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")などを加えたゴージャスなアレンジとなった\[2\]。また、制作にあたり各メンバーは演奏面で苦労したと述べており、kenは「聴く人は楽しいかもしれないけど、演奏は大変でした\[3\]」、tetsuyaは「この曲は運指っていうよりも、フレーズを間違えないで弾くっていうことが難しい。ずっと動いてるから一度間違えると戻れない\[4\]」と語っており、アルバム収録曲の中で本楽曲に限りベース録りが最後に行われたという。
-        2007年に実施された[オリコンの](../Page/オリコンチャート.md "wikilink")「今年聴きたいクリスマスソングランキング」で、全体で5位、高校生部門では1位を獲得した\[5\]。以後も各媒体で実施された、クリスマスをテーマにした楽曲のランキングにランクインしている\[6\]\[7\]。
+        [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[ホーン](../Page/管楽器.md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")、[コーラスを用いた](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")テイストの[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")で、[ガットギターによる](../Page/クラシック・ギター.md "wikilink")[ソロが導入された初めてのシングルでもある](../Page/ソロ_\(音楽\).md "wikilink")。また、当初hydeの制作したデモ音源はアコーディオンとジャズバンドの音のみのシンプルなサウンドだったが、制作途中でメンバーの意見も入り[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")などを加えたゴージャスなアレンジとなった\[2\]。アレンジでは様々なアイデアがあったといい、デモ音源のようなシンプルなジャズにする案や、骨太な[ロカビリー](../Page/ロカビリー.md "wikilink")的なアプローチにする案、[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")映画の雰囲気にする案があった\[3\]。hyde曰く「最終的には少し[ブライアン・セッツァー・オーケストラ](https://ja.wikipedia.org/wiki/ブライアン・セッツァー・オーケストラ "wikilink")みたいなニュアンスが出ればいいと思って録りました\[4\]」と述べている。
+        制作にあたり各メンバーは演奏面で苦労したと述べており、kenは「聴く人は楽しいかもしれないけど、演奏は大変でした\[5\]」、tetsuyaは「この曲は運指っていうよりも、フレーズを間違えないで弾くっていうことが難しい。ずっと動いてるから一度間違えると戻れない\[6\]」と語っており、アルバム収録曲の中で本楽曲に限りベース録りが最後に行われた。
+        2007年に実施された[オリコンの](../Page/オリコンチャート.md "wikilink")「今年聴きたいクリスマスソングランキング」で、全体で5位、高校生部門では1位を獲得した\[7\]。以後も各媒体で実施された、クリスマスをテーマにした楽曲のランキングにランクインしている\[8\]\[9\]。
 2.  **I Wish 2007** / [P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")
       - 作詞：hyde / 作曲：[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲：[TETSU P'UNK](https://ja.wikipedia.org/wiki/tetsuya "wikilink")
     <!-- end list -->
       -
-        4thアルバム『[True](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の収録曲「I Wish」のカバー。[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")の「My Way」を意識したアレンジにしたという\[8\]。
+        4thアルバム『[True](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の収録曲「I Wish」のカバー。[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")の「My Way」を意識したアレンジにしたという\[10\]。
         P'UNK〜EN〜CIELのカバー楽曲で唯一[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作された。MVは初回生産限定盤に付属しているDVDに収録している。
         2010年盤は、作曲：tetsuya / 編曲：T.E.Z P'UNK 表記
 3.  **Hurry Xmas -Silent Night version-**
@@ -123,9 +124,11 @@ L'Arc〜en〜Cielの2007年第4弾シングルであり、5ヶ月連続リリー
 
 1.  『WHAT's IN?』、p.38、ソニー・マガジンズ、2007年12月号
 2.  『WORDSⅡ L'Arc〜en〜Ciel』角川書店、2010年
-3.  『WHAT's IN?』、p.37、ソニー・マガジンズ、2007年12月号
-4.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.73、2010年
-5.  [今年聴きたいクリスマスソング、若い世代はL'Arc～en～Cielが人気](http://www.oricon.co.jp/news/ranking/50657/full/)
-6.  [あなたが1番好きな「クリスマスソング」は？ ランキングTOP20](https://ddnavi.com/news/271487/a/) - ダ・ヴィンチニュース（2015/11/24）
-7.  [Xmasソング人気ランキングから、男女のXmas観の違いを分析してみた！](https://cancam.jp/archives/97731) - CanCam（2017/11/17）
-8.
+3.
+4.
+5.  『WHAT's IN?』、p.37、ソニー・マガジンズ、2007年12月号
+6.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.73、2010年
+7.  [今年聴きたいクリスマスソング、若い世代はL'Arc～en～Cielが人気](http://www.oricon.co.jp/news/ranking/50657/full/)
+8.  [あなたが1番好きな「クリスマスソング」は？ ランキングTOP20](https://ddnavi.com/news/271487/a/) - ダ・ヴィンチニュース（2015/11/24）
+9.  [Xmasソング人気ランキングから、男女のXmas観の違いを分析してみた！](https://cancam.jp/archives/97731) - CanCam（2017/11/17）
+10.

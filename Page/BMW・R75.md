@@ -18,7 +18,7 @@
   - 側車の車輪を駆動するベアリングシャフトは後輪に固定されていて、本車の後輪には[サスペンション](../Page/サスペンション.md "wikilink")がなく、サドルにコイルスプリングが付けられている。側車の舟（乗車部分）は、フレームに板バネを介して懸架されている。
   - マフラー下部側面に排気ガスを取り出す管が付けられ、チューブを繋いでハンドル付近に導くことで、排気ガスを利用して手元を暖房できる。
 
-BMW・R75は、が、。
+BMW・R75は、が、少なくとも1929年には英国の[:en:Baughan](https://ja.wikipedia.org/wiki/:en:Baughan "wikilink")により二輪駆動型[サイドカー](../Page/サイドカー.md "wikilink")が生産されている。[1](https://sites.google.com/site/vmccsc/about-us/home/scotswoldbikes)
 
 ## 外部リンク
 

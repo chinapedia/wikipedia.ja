@@ -9,7 +9,7 @@
 
 ## 出演者
 
-### 現在の出演者
+### 放送終了時点での出演者
 
   - 番組公式サポーター
       - [梅本まどか](https://ja.wikipedia.org/wiki/梅本まどか "wikilink")（[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")）

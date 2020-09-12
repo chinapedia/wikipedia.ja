@@ -26,7 +26,7 @@
   - 芝雅之 「UG美女を探せ！」 『ハッカージャパン vol.1』 ＜白夜ムック34＞ 白夜書房 1998年10月1日 ISBN 978-4893675750 p.113
   - 佐々木俊尚 「[［電子の森を歩く］ネットアイドル　現実感が希薄に（毎日新聞1999年5月7日、地方版／東京）](https://bunshun.jp/articles/-/8616?page=3)」 \[<https://bunshun.jp/articles/-/8616>? 「あめぞうリンク」は日本のインターネット文化の底流だ | 集まれ「インターネット老人会」 | 文春オンライン\]で再掲
 
-[Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:ウェブ上の有名人](https://ja.wikipedia.org/wiki/Category:ウェブ上の有名人 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:ウェブ上の有名人](https://ja.wikipedia.org/wiki/Category:ウェブ上の有名人 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  『ハッカージャパン vol.1』 p.113

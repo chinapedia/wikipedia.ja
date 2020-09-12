@@ -15,7 +15,7 @@
 
   - [DASH\!ザスパ｜スポーツ｜番組情報｜群馬テレビ](http://www.gtv.co.jp/program/sports/dash-thespa/)
 
-[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:群馬テレビ番組](https://ja.wikipedia.org/wiki/Category:群馬テレビ番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:ザスパクサツ群馬](https://ja.wikipedia.org/wiki/Category:ザスパクサツ群馬 "wikilink")
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:群馬テレビの番組](https://ja.wikipedia.org/wiki/Category:群馬テレビの番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:ザスパクサツ群馬](https://ja.wikipedia.org/wiki/Category:ザスパクサツ群馬 "wikilink")
 
 1.
 2.

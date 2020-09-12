@@ -23,6 +23,7 @@
 4.  **未青年**
       - （作詞：田口トモロヲ 作曲：ばちかぶり 編曲：ばちかぶり・中山努）
       - ばちかぶりのカバー。
+      - のちに大槻とバンド・[特撮を結成する](../Page/特撮_\(バンド\).md "wikilink")[NARASAKI](../Page/NARASAKI.md "wikilink")率いる[COALTAR OF THE DEEPERSが演奏を担当](../Page/COALTAR_OF_THE_DEEPERS.md "wikilink")。
 5.  **[ロマンチスト](../Page/ロマンチスト_\(曲\).md "wikilink")**
       - （作詞：[遠藤みちろう](../Page/遠藤ミチロウ.md "wikilink") 作曲：遠藤みちろう 編曲：THE STALIN・中山努）
       - [ザ・スターリン](../Page/ザ・スターリン.md "wikilink")のカバー。

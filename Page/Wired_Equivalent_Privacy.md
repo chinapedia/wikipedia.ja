@@ -7,7 +7,7 @@
 
 2001年以降、[暗号解読](../Page/暗号解読.md "wikilink")者らによって深刻な弱点がいくつか明らかとなり、最終的には容易に入手可能なソフトウェアを使って数分でWEPコネクションを解読可能な状態となっている\[2\]。数カ月以内に[IEEE](../Page/IEEE.md "wikilink")は新たなタスクフォース[802.11iを立ち上げ](https://ja.wikipedia.org/wiki/IEEE_802.11i "wikilink")、この問題の対策を検討し始めた。
 
-2003年には、802.11iによってまとめられつつあった改正案のサブセットである [Wi-Fi Protected Access](../Page/Wi-Fi_Protected_Access.md "wikilink") (WPA) でWEPを置き換えることを [Wi-Fi Alliance](../Page/Wi-Fi_Alliance.md "wikilink") が発表した。2004年には802.11iのまとめた規格 (WPA2) が承認され、IEEEは正式に WEP-40 と WEP-104 が「本来のセキュリティ目標を達成できなかったため、置換される」ことを宣言した\[3\]。
+2003年には、802.11iによってまとめられつつあった改正案のサブセットである [Wi-Fi Protected Access](../Page/Wi-Fi_Protected_Access.md "wikilink") (WPA) でWEPを置き換えることを [Wi-Fi Alliance](../Page/Wi-Fi_Alliance.md "wikilink") が発表した。2004年には802.11iのまとめた規格 ([WPA2](https://ja.wikipedia.org/wiki/WPA2 "wikilink")) が承認され、IEEEは正式に WEP-40 と WEP-104 が「本来のセキュリティ目標を達成できなかったため、置換される」ことを宣言した\[3\]。
 
 脆弱性が明らかになっているにも関わらず、WEPはその後しばらく広く使われていた\[4\]。WEPは安価で旧式なパーソナル用途向け無線LANルーターでも使用可能な暗号化手段で、通りすがりの他人に安易に無線ネットワークを使用されることは防げるものの、悪意を持って意図的に盗聴しようという試みに対しては無防備であるため、どんな形であれ使うべきではない\[5\]。
 

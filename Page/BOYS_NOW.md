@@ -9,7 +9,7 @@
 
 ## メンバー
 
-  - [角張渉](https://ja.wikipedia.org/wiki/角張渉 "wikilink")
+  - [角張渉](../Page/角張渉.md "wikilink")
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。
     元[snotty](https://ja.wikipedia.org/wiki/snotty "wikilink")のメンバー。
   - チン中村

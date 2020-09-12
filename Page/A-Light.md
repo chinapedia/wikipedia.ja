@@ -39,7 +39,7 @@
   - [久保田賢治](https://ja.wikipedia.org/wiki/久保田賢治 "wikilink")
   - [醍醐虎汰朗](https://ja.wikipedia.org/wiki/醍醐虎汰朗 "wikilink")
   - [三谷眞由](https://ja.wikipedia.org/wiki/三谷眞由 "wikilink")
-  - [黄升炫](https://ja.wikipedia.org/wiki/黄升ゲン "wikilink")
+  - [黄升炫](https://ja.wikipedia.org/wiki/黄升炫 "wikilink")
   - [三谷麟太郎](https://ja.wikipedia.org/wiki/三谷麟太郎 "wikilink")
   - 土屋慶太
   - [櫻井勝海](https://ja.wikipedia.org/wiki/櫻井勝海 "wikilink")

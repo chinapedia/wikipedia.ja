@@ -59,7 +59,8 @@
 ## 外部リンク
 
   - [公式サイト](http://www.mary-go-round.net/)
-  - [鶴谷崇](http://tsurutanitakashi.com/)
-  - [プロフィール](http://www2.odn.ne.jp/jiminy/mary2.html)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+  - [鶴谷崇](http://tsurutanitakashi.com/)
+
+  -
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

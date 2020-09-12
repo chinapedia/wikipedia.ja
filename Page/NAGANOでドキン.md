@@ -40,4 +40,4 @@
   - [やじうまNAGANO](https://ja.wikipedia.org/wiki/やじうまNAGANO "wikilink") （[長野朝日放送](../Page/長野朝日放送.md "wikilink")）
   - [DEEN](../Page/DEEN.md "wikilink") [Almost in Paradise](https://ja.wikipedia.org/wiki/DEEN_Almost_in_Paradise "wikilink") （[FM長野](../Page/長野エフエム放送.md "wikilink")）
 
-[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ信州番組](https://ja.wikipedia.org/wiki/Category:テレビ信州番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink")
+[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ信州の番組](https://ja.wikipedia.org/wiki/Category:テレビ信州の番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink")

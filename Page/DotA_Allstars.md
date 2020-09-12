@@ -1,7 +1,7 @@
 > この記事は[DotA Allstars](https://ja.wikipedia.org/wiki/DotA_Allstars)から翻訳されています。
 
 
-『**DotA Allstars**』は、[ウォークラフトIIIのカスタムマップ機能を用いて作られた](https://ja.wikipedia.org/wiki/ウォークラフト#Warcraft_III_.E3.80.8CReign_of_Chaos.E3.80.8D "wikilink")、チームストラテジーゲーム、[Defense of the Ancientsの一つである](https://ja.wikipedia.org/wiki/Defense_of_the_Ancients "wikilink")。ゲームの目的は、敵基地に攻め込んで本拠地となる建物を破壊することである。この目的を達成するため、最大で10人のプレイヤーが5対5に分かれてチームを組み（12人で6対6ができるよう改造されたものもある）、力を合わせて戦うことになる。一回のゲーム時間は30～90分程度。
+『**DotA Allstars**』は、[Warcraft IIIのカスタムマップ機能を用いて作られた](https://ja.wikipedia.org/wiki/ウォークラフト#Warcraft_III_「Reign_of_Chaos」 "wikilink")、チームストラテジーゲーム、の一つである。ゲームの目的は、敵基地に攻め込んで本拠地となる建物を破壊することである。この目的を達成するため、最大で10人のプレイヤーが5対5に分かれてチームを組み（12人で6対6ができるよう改造されたものもある）、力を合わせて戦うことになる。一回のゲーム時間は30～90分程度。
 
 ## ゲーム内容
 

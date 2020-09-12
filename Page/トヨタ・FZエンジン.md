@@ -5,8 +5,7 @@
 
 ## 概要
 
-  - 生産期間（国内向け）
-      - [1992年](../Page/1992年.md "wikilink")8月 -
+[1990年代](../Page/1990年代.md "wikilink")初頭の時点で既に旧態化した[F型エンジンを置き換える事を前提とした直列](../Page/トヨタ・F型エンジン.md "wikilink")6気筒のガソリンエンジンで、1992年に開発された。
 
 ## 系譜
 
@@ -16,7 +15,7 @@
 
 ### 1FZ-FE
 
-  - 種類：[DOHC](../Page/DOHC.md "wikilink") [24バルブ](../Page/マルチバルブ.md "wikilink")
+  - 種類：[DOHC](../Page/DOHC.md "wikilink") [24バルブ](../Page/マルチバルブ.md "wikilink")（[ハイメカツインカム](https://ja.wikipedia.org/wiki/ハイメカツインカム "wikilink")）
   - [排気量](../Page/排気量.md "wikilink")：4.476L
   - [内径](https://ja.wikipedia.org/wiki/ボア "wikilink")×[行程](../Page/ストローク.md "wikilink")：100.0×95.0(mm)
   - [圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")：9.0
@@ -37,7 +36,7 @@
 
 **高速型**
 
-  - 種類：[DOHC](../Page/DOHC.md "wikilink") 24バルブ
+  - 種類：DOHC 24バルブ（ハイメカツインカム）
   - 排気量：4.476L
   - 内径×行程：100.0×95.0(mm)
   - 圧縮比：9.0

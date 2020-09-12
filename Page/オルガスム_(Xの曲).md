@@ -32,19 +32,19 @@ CBSソニーでのオーディションでも「紅」とともに**いつもの
 **SIDE-A**
 
 1.  **オルガスム** - 3:02
-    (作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")　編曲:[X](../Page/X_JAPAN.md "wikilink"))
       -
-        後に[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』に収録されたものとは、[歌詞](../Page/歌詞.md "wikilink")の一部や[ギター](../Page/ギター.md "wikilink")[ソロが若干異なり](../Page/ソロ_\(音楽\).md "wikilink")、本作の歌詞はより性描写が直接的である。ギターソロで[ハウリング](../Page/ハウリング.md "wikilink")している。
+        （作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")　編曲:X）
+        後にメジャーデビュー・アルバム『[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")』に収録されたものとは、歌詞の一部や[ギター](../Page/ギター.md "wikilink")[ソロが若干異なり](../Page/ソロ_\(音楽\).md "wikilink")、本作の歌詞はより性描写が直接的である。ギターソロで[ハウリング](../Page/ハウリング.md "wikilink")している。
 2.  **Time Trip Loving** - 3:44
-    (作詞:[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")　作曲:[JUN](../Page/高井寿.md "wikilink")　編曲:X)
       -
-        JUNが作曲を手掛けた曲では、唯一リリースされた曲である。[ライブでは](../Page/演奏会.md "wikilink")、『夢を両手に抱え街を渡り 幸せに背を向ける』という[歌詞](../Page/歌詞.md "wikilink")が追加されている。
+        （作詞:[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")　作曲:[JUN](../Page/高井寿.md "wikilink")　編曲:X）
+        JUNが作曲を手掛けた曲では、唯一リリースされた曲である。ライブでは、「夢を両手に抱え街を渡り 幸せに背を向ける」という歌詞が追加されている。
 
 **SIDE-B**
 
 1.  **X** - 5:37
-    (作詞・作曲:YOSHIKI　編曲:X)
       -
+        （作詞・作曲:YOSHIKI　編曲:X）
         後に『BLUE BLOOD』に収録されたものとは、歌詞がわずかに異なるほか、ギターソロと[アウトロ](../Page/アウトロ.md "wikilink")が大幅に異なる。
 
 ## パーソネル

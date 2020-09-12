@@ -67,7 +67,7 @@
 
   - [水戸駅ビル EXCEL](http://www.excel-mito.com/)
 
-[Category:関東地方の駅ビル](https://ja.wikipedia.org/wiki/Category:関東地方の駅ビル "wikilink") [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:茨城県の商業施設](https://ja.wikipedia.org/wiki/Category:茨城県の商業施設 "wikilink") [Category:水戸市の建築物](https://ja.wikipedia.org/wiki/Category:水戸市の建築物 "wikilink") [Category:水戸駅](https://ja.wikipedia.org/wiki/Category:水戸駅 "wikilink")
+[Category:茨城県の駅ビル](https://ja.wikipedia.org/wiki/Category:茨城県の駅ビル "wikilink") [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:茨城県の商業施設](https://ja.wikipedia.org/wiki/Category:茨城県の商業施設 "wikilink") [Category:水戸市の建築物](https://ja.wikipedia.org/wiki/Category:水戸市の建築物 "wikilink") [Category:水戸駅](https://ja.wikipedia.org/wiki/Category:水戸駅 "wikilink")
 
 1.
 2.

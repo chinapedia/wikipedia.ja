@@ -23,4 +23,4 @@
 
   - [1985年の音楽](../Page/1985年の音楽.md "wikilink")
 
-[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:吉田美奈子が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美奈子が作詞作曲した楽曲 "wikilink") [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
+[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:吉田美奈子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美奈子が制作した楽曲 "wikilink") [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

@@ -62,7 +62,7 @@
 ## カバーした歌手
 
   - [吳佩慈](https://ja.wikipedia.org/wiki/ペース・ウー "wikilink") （[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")） - 中国語版「閃著淚光的決定」、広東語版「懷着笑意的決定」
-  - [misono](https://ja.wikipedia.org/wiki/misono "wikilink") （[2006年](../Page/2006年.md "wikilink")） - シングル『[ラブリー{{JIS2004フォント](../Page/ラブリーキャッツアイ.md "wikilink")』に収録。
+  - [misono](https://ja.wikipedia.org/wiki/misono "wikilink") （[2006年](../Page/2006年.md "wikilink")） - シングル『[ラブリー♡キャッツアイ](https://ja.wikipedia.org/wiki/ラブリー♡キャッツアイ "wikilink")』に収録。
   - [タイナカサチ](https://ja.wikipedia.org/wiki/タイナカサチ "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")） - シングル『[また明日ね/code](https://ja.wikipedia.org/wiki/また明日ね/code "wikilink")』に収録。
   - [今井ゆうぞう](../Page/今井ゆうぞう.md "wikilink") （NHK[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")10代目[うたのおにいさん](../Page/うたのおにいさん.md "wikilink")）（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） - カバーアルバム『君と歩いた時間』に収録。
   - [稲垣潤一](../Page/稲垣潤一.md "wikilink") （2010年）- カバーアルバム『[男と女3](https://ja.wikipedia.org/wiki/男と女3 "wikilink")』に玉城千春（[Kiroro](../Page/Kiroro.md "wikilink")）とのデュエットでカバー。

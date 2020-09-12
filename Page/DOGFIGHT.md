@@ -6,6 +6,7 @@
 ## 概要
 
   - アニメ「[頭文字D](../Page/頭文字D.md "wikilink") Fourth Stage」の主題歌（ACT1～ACT10まで）
+  - PSP版 頭文字D Street Stage オープニングテーマ
   - motsuが、[筑波サーキット](../Page/筑波サーキット.md "wikilink")へ見に行った時の感想を詞にしたもの。
   - ランキングは、やや低めだが、moveのシングルの中で最大のロングヒットを記録した。また、力強い曲調が頭文字Dの世界観とマッチしているため、Gamble Rumbleに続くmoveのもう一つの代表曲でもある。
 

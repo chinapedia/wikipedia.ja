@@ -48,6 +48,9 @@ KIHACHI-1a.jpg|キハチ青山本店（2017年4月29日撮影） Chocolates of K
 
 ## 外部リンク
 
-  - [KIHACHI](http://www.kihachi.jp/)
+  - [KIHACHI](https://www.kihachi.jp/)
 
+  -
+  -
+  -
 [Category:洋菓子店](https://ja.wikipedia.org/wiki/Category:洋菓子店 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink")

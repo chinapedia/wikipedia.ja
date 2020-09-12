@@ -6,7 +6,8 @@
 ## 概説
 
   - アルバム『[GAUZE](../Page/GAUZE.md "wikilink")』の先行シングル。読売テレビ・日本テレビ系ドラマ『[女医](../Page/女医_\(テレビドラマ\).md "wikilink")』エンディングテーマに起用された。
-  - この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』に出演して、注目を集めた。『ミュージックステーション』出演時、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")の[京は](../Page/京_\(ミュージシャン\).md "wikilink")「今まで出した[シングル](../Page/シングル.md "wikilink")の中で1番メロディアスな曲。みんなも歌いやすいと思う」と語っていた。
+  - この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』\[1\]、『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』に出演して、注目を集めた。『ミュージックステーション』出演時、[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")の[京は](../Page/京_\(ミュージシャン\).md "wikilink")「今まで出した[シングル](../Page/シングル.md "wikilink")の中で1番メロディアスな曲。みんなも歌いやすいと思う」と語っていた。
+  - バンドにとって、8cmシングル最後の作品となった。
 
 ## 曲目
 
@@ -20,4 +21,8 @@
         前シングル曲「Cage」のリミックス。
         リミックスは元[Nine Inch Nailsの](https://ja.wikipedia.org/wiki/Nine_Inch_Nails "wikilink")[クリス・バンナ](https://ja.wikipedia.org/wiki/クリス・バンナ "wikilink")が担当。
 
+## 脚注
+
 [Category:DIR_EN_GREYの楽曲](https://ja.wikipedia.org/wiki/Category:DIR_EN_GREYの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:読売テレビ月曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ主題歌 "wikilink") [Category:楽曲_よ](https://ja.wikipedia.org/wiki/Category:楽曲_よ "wikilink")
+
+1.

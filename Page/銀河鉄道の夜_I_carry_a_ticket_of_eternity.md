@@ -35,4 +35,4 @@
   - [公式サイト](http://www.kaerucafe.co.jp/ginga/)
 
   -
-[Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:宮沢賢治の童話を題材とした作品](https://ja.wikipedia.org/wiki/Category:宮沢賢治の童話を題材とした作品 "wikilink")
+[Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:宮沢賢治の童話を題材とした作品](https://ja.wikipedia.org/wiki/Category:宮沢賢治の童話を題材とした作品 "wikilink") [Category:秋原正俊の監督映画](https://ja.wikipedia.org/wiki/Category:秋原正俊の監督映画 "wikilink")

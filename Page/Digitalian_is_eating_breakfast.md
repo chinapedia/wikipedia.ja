@@ -256,7 +256,7 @@ ESTB-1013 (CT)</p></td>
 7.
 8.
 9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1991年7月号19Pより。
-10. [角川書店](../Page/角川書店.md "wikilink")刊『[CDでーた](../Page/CD&DLでーた.md "wikilink")』1989年12月20日号4Pより。
+10. [角川書店](../Page/角川書店.md "wikilink")刊『[CDでーた](../Page/CD&DLでーた.md "wikilink")』1989年12月20日号「1stソロ『Digitalian is eating breakfast』発表\!」4Pより。
 11.
 12.
 13.

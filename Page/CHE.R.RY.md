@@ -13,11 +13,13 @@
 
 初回生産限定盤には、「CHE.R.RYステッカー」が封入されており、付属の[DVD](../Page/DVD.md "wikilink")には、「CHE.R.RY Video Clip 〜LISMO\! Version〜」が収録されている。
 
-[オリコンチャート](../Page/オリコンチャート.md "wikilink")で当時の自己最高位タイである2位を記録。初動売上は前作を上回り、当時の自己最高記録となった\[1\]。アルバムからの先行シングルではあるが、YUIのシングルでは「[Good-bye days](../Page/Good-bye_days.md "wikilink")」、「[Rolling star](../Page/Rolling_star.md "wikilink")」に次いで3番目に高い売上を記録している。また、[着うたフル](../Page/着うたフル.md "wikilink")では75万DLを突破し、YUIのシングルの中では最多となっている。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")で当時の自己最高位タイである2位を記録。初動売上は前作を上回り、当時の自己最高記録となった\[1\]。アルバムからの先行シングルではあるが、YUIのシングルでは「[Good-bye days](../Page/Good-bye_days.md "wikilink")」、「[Rolling star](../Page/Rolling_star.md "wikilink")」に次いで3番目に高い売上を記録している。また、配信ダウンロード売上はミリオンを突破しており、YUIの楽曲の中では最多となっている。
 
 [トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である『[SHE LOVES YOU](https://ja.wikipedia.org/wiki/SHE_LOVES_YOU_\(トリビュート・アルバム\) "wikilink")』には[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")風にアレンジされてセルフカバーしたものがライブ音源で収録されている。
 
 2018年、yuiの活動しているバンド「[FLOWER FLOWER](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")」のツアーライヴやイベントの中でも、この曲がセットリストの中に組み込まれていて、当時のファンを沸かせた。
+
+「[ReLIFE](https://ja.wikipedia.org/wiki/ReLIFE "wikilink") 完結編」15話ED
 
 ## 収録曲
 

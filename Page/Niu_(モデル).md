@@ -27,7 +27,7 @@
 ## 外部リンク
 
   - [now fashion agency - niŭ](http://www.nowfashion.co.jp/models/2362)
-  - [公式ブログ「日々のhour」（〜2012年 10月）](http://hibino-hour.blog.so-net.ne.jp/)
+  - [公式ブログ「日々のhour」（〜2012年 10月）](https://hibino-hour.blog.ss-blog.jp/)
   - [niŭ official web site / COLORS & SHAPES](http://niu-official.com)
 
 [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

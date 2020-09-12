@@ -79,7 +79,7 @@
 ## 過去に番組を放送していた放送局
 
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（2008年3月30日でネット[打ち切り](../Page/打ち切り.md "wikilink")）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（2010年3月28日でネット[打ち切り](../Page/打ち切り.md "wikilink")）
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（2010年3月28日でネット[打ち切り](../Page/打ち切り.md "wikilink")）
 
 ## 関連項目
 

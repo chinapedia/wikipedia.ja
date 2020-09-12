@@ -1,7 +1,7 @@
 > この記事は[SaiNet Vision](https://ja.wikipedia.org/wiki/SaiNet_Vision)から翻訳されています。
 
 
-**SaiNet Vision**（サイネットビジョン）は[埼玉高速鉄道](../Page/埼玉高速鉄道.md "wikilink")所有の車両の車内客用ドア上部に設置されている液晶ディスプレイ、およびそれを用いた動画PRサービスである。
+**SaiNet Vision**（サイネットビジョン）は、[埼玉高速鉄道](../Page/埼玉高速鉄道.md "wikilink")所有の車両の車内客用ドア上部に設置されている液晶ディスプレイ、およびそれを用いた動画PRサービスである。
 
 ## 概要
 
@@ -28,9 +28,9 @@
 
 ## 関連項目
 
-  - [TOQビジョン](../Page/TOQビジョン.md "wikilink") - 直通先の[東急目黒線](https://ja.wikipedia.org/wiki/東急目黒線 "wikilink")・及び[東横線と](../Page/東急東横線.md "wikilink")[田園都市線の](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")[5000系に装備されている](../Page/東急5000系電車_\(2代\).md "wikilink")。
-  - [トレインチャンネル](../Page/トレインチャンネル.md "wikilink") - [駒込駅](https://ja.wikipedia.org/wiki/駒込駅 "wikilink")・[目黒駅](https://ja.wikipedia.org/wiki/目黒駅 "wikilink")で接続する[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")の[E231系と](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")[E235系](https://ja.wikipedia.org/wiki/JR東日本E235系電車 "wikilink")、[王子駅](https://ja.wikipedia.org/wiki/王子駅 "wikilink")で接続する[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")ならびに[四ッ谷駅](https://ja.wikipedia.org/wiki/四ッ谷駅 "wikilink")で接続する[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")、[武蔵小杉駅](https://ja.wikipedia.org/wiki/武蔵小杉駅 "wikilink")で接続する[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")・[相鉄・JR直通線](https://ja.wikipedia.org/wiki/相鉄・JR直通線 "wikilink")の[E233系に装備されている](../Page/JR東日本E233系電車.md "wikilink")。
-  - [Tokyo Metro ビジョン](https://ja.wikipedia.org/wiki/Tokyo_Metro_ビジョン "wikilink") - 直通先の[南北線の](../Page/東京メトロ南北線.md "wikilink")[9000系(B修車)](../Page/営団9000系電車.md "wikilink")、[有楽町線](../Page/東京メトロ有楽町線.md "wikilink")・[副都心線の](../Page/東京メトロ副都心線.md "wikilink")[10000系](https://ja.wikipedia.org/wiki/東京メトロ1000系電車 "wikilink")、[東西線の](https://ja.wikipedia.org/wiki/東京メトロ東西線 "wikilink")[15000系](https://ja.wikipedia.org/wiki/東京メトロ15000系電車 "wikilink")、[千代田線の](../Page/東京メトロ千代田線.md "wikilink")[16000系などに装備されている](https://ja.wikipedia.org/wiki/東京メトロ16000系電車 "wikilink")。
+  - [TOQビジョン](../Page/TOQビジョン.md "wikilink") - 直通先の[東急目黒線](https://ja.wikipedia.org/wiki/東急目黒線 "wikilink")および[東横線と](../Page/東急東横線.md "wikilink")[田園都市線の](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")[5000系に装備されている](../Page/東急5000系電車_\(2代\).md "wikilink")。
+  - [トレインチャンネル](../Page/トレインチャンネル.md "wikilink") - [駒込駅](https://ja.wikipedia.org/wiki/駒込駅 "wikilink")・[目黒駅](https://ja.wikipedia.org/wiki/目黒駅 "wikilink")で接続する[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")の[E231系と](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")[E235系](https://ja.wikipedia.org/wiki/JR東日本E235系電車 "wikilink")、[王子駅](https://ja.wikipedia.org/wiki/王子駅 "wikilink")で接続する[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")ならびに[四ツ谷駅](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")で接続する[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")、[武蔵小杉駅](https://ja.wikipedia.org/wiki/武蔵小杉駅 "wikilink")で接続する[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")・[相鉄・JR直通線](https://ja.wikipedia.org/wiki/相鉄・JR直通線 "wikilink")の[E233系に装備されている](../Page/JR東日本E233系電車.md "wikilink")。
+  - [Tokyo Metro ビジョン](https://ja.wikipedia.org/wiki/Tokyo_Metro_ビジョン "wikilink") - 直通先の[南北線の](../Page/東京メトロ南北線.md "wikilink")[9000系（B修車）](../Page/営団9000系電車.md "wikilink")、[有楽町線](../Page/東京メトロ有楽町線.md "wikilink")・[副都心線の](../Page/東京メトロ副都心線.md "wikilink")[10000系](https://ja.wikipedia.org/wiki/東京メトロ1000系電車 "wikilink")、[東西線の](https://ja.wikipedia.org/wiki/東京メトロ東西線 "wikilink")[15000系](https://ja.wikipedia.org/wiki/東京メトロ15000系電車 "wikilink")、[千代田線の](../Page/東京メトロ千代田線.md "wikilink")[16000系などに装備されている](https://ja.wikipedia.org/wiki/東京メトロ16000系電車 "wikilink")。
   - [西武スマイルビジョン](https://ja.wikipedia.org/wiki/西武スマイルビジョン "wikilink")
   - [WESTビジョン](https://ja.wikipedia.org/wiki/WESTビジョン "wikilink")
   - [地下っ都ビジョン](https://ja.wikipedia.org/wiki/地下っ都ビジョン "wikilink")

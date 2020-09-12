@@ -647,4 +647,4 @@
   -
   - [月刊GFantasyオフィシャルサイト](http://www.square-enix.co.jp/magazine/gfantasy/)
 
-[Category:月刊Gファンタジー](https://ja.wikipedia.org/wiki/Category:月刊Gファンタジー "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:杉並区を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:杉並区を舞台とした漫画作品 "wikilink")
+[Category:月刊Gファンタジー](https://ja.wikipedia.org/wiki/Category:月刊Gファンタジー "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:2001年の漫画](https://ja.wikipedia.org/wiki/Category:2001年の漫画 "wikilink") [Category:杉並区を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:杉並区を舞台とした漫画作品 "wikilink") [Category:エクソシスム・悪霊ばらいを題材とした作品](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材とした作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")

@@ -11,19 +11,16 @@
 
 飲食店や小売店舗群は主に下層階および[地下街](../Page/地下街.md "wikilink")に位置する。また、13階の展示ホールはバーゲン会場や展示会場、[私立大学](../Page/私立大学.md "wikilink")の[入学試験](https://ja.wikipedia.org/wiki/入学試験 "wikilink")における校外受験会場や[新司法試験](https://ja.wikipedia.org/wiki/新司法試験 "wikilink")の受験会場などとして用いられる。中層階にはショールームや卸売業の店舗、事務所等が多く入居している。その他、資格試験[予備校](../Page/予備校.md "wikilink")、[郵便局](../Page/郵便局.md "wikilink")、[診療所](../Page/診療所.md "wikilink")など入居する施設は様々である。屋上には[ゴルフ](../Page/ゴルフ.md "wikilink")練習場（フタバゴルフガーデン）の他、[神社](https://ja.wikipedia.org/wiki/神社 "wikilink")（「氷川神社」）がある。テーオーシー本社も入居する。
 
-第2TOCビルから第5TOCビルおよびフロントビルも周囲に存在する。敷地内には[星薬科大学](../Page/星薬科大学.md "wikilink")発祥の地を記念する石碑がある。
+第2TOCビルから第5TOCビルおよびフロントビルも周囲に存在する。敷地内には[星薬科大学](../Page/星薬科大学.md "wikilink")発祥の地を記念する石碑がある。2016年1月、[首都高速2号目黒線](../Page/首都高速2号目黒線.md "wikilink")を挟んだ北西側にコンベンションセンター「TOC五反田メッセ」を開設した。
 
   - 地下3階地上13階建て、延べ床面積174,013.32m<sup>2</sup>。
   - 展示場・会議室（全8室）、最も広い「グランドホール」は延べ床面積5,236.72m<sup>2</sup>。
   - [駐車場](../Page/駐車場.md "wikilink") 750台
 
-<!-- end list -->
-
-  - 入居店舗
-
-<!-- end list -->
+### 主要入居店舗
 
   - [ユニクロ](../Page/ユニクロ.md "wikilink") - 都内最大級の店舗が、平成22年4月23日にリニューアルオープン
+  - [アカチャンホンポ](../Page/赤ちゃん本舗.md "wikilink")
   - [ナチュラルローソン](../Page/ローソン.md "wikilink")
   - [ABCマート](../Page/ABCマート.md "wikilink")
   - [キャンドゥ](../Page/キャンドゥ.md "wikilink") - かつては[ショップ99](https://ja.wikipedia.org/wiki/ショップ99 "wikilink")が入居していた。
@@ -50,6 +47,7 @@
 
   - [アライドテレシス](../Page/アライドテレシス.md "wikilink") - 第2TOCビルに本社が所在
   - [東急バス荏原営業所](../Page/東急バス荏原営業所.md "wikilink") - シャトルバス「TOC EXPRESS」を運行受託
+  - [2児拉致事件](https://ja.wikipedia.org/wiki/2児拉致事件 "wikilink") - 発生現場
 
 ## 外部リンク
 

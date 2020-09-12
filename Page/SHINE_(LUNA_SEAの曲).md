@@ -22,14 +22,13 @@
 
 ## 収録アルバム
 
-＃1
-
-  - [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")　(1998.07.23･MVCD-34)
-  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
-  - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
-
-＃2
-
-  - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink") （2002.3.6･UUCH-1045）
+  - **SHINE**
+      - [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")
+      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")
+  - **Looper**
+      - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink")
 
 [Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

@@ -50,7 +50,7 @@
 | ニュースアナ         | [クリスティアン・ゲルボス](https://ja.wikipedia.org/wiki/クリスティアン・ゲルボス "wikilink")         | [牧薫子](https://ja.wikipedia.org/wiki/牧薫子 "wikilink")   |
 |                |                                                                               |                                                       |
 
-  - テレビ東京版：2003年9月18日『[木曜洋画劇場](../Page/木曜洋画劇場.md "wikilink")』
+  - テレビ東京版：2004年9月23日『[木曜洋画劇場](../Page/木曜洋画劇場.md "wikilink")』
   - その他：[中村大樹](../Page/中村大樹.md "wikilink")、[加藤亮夫](../Page/加藤亮夫.md "wikilink")、[小森創介](../Page/小森創介.md "wikilink")、[奥田啓人](../Page/奥田啓人.md "wikilink")、[野島裕史](../Page/野島裕史.md "wikilink")、[土田大](../Page/土田大.md "wikilink")、[高瀬右光](../Page/高瀬右光.md "wikilink")、[河本邦弘](../Page/河本邦弘.md "wikilink")
 
 ## リメイク
@@ -72,4 +72,4 @@
   -
   -
   -
-[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:ドイツのサイコスリラー映画](https://ja.wikipedia.org/wiki/Category:ドイツのサイコスリラー映画 "wikilink") [Category:ドイツのドラマ映画](https://ja.wikipedia.org/wiki/Category:ドイツのドラマ映画 "wikilink") [Category:オリヴァー・ヒルシュビーゲルの監督映画](https://ja.wikipedia.org/wiki/Category:オリヴァー・ヒルシュビーゲルの監督映画 "wikilink") [Category:実際の出来事に基づいた映画作品](https://ja.wikipedia.org/wiki/Category:実際の出来事に基づいた映画作品 "wikilink") [Category:大学を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:大学を舞台とした映画作品 "wikilink") [Category:刑務所を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:刑務所を舞台とした映画作品 "wikilink") [Category:小説を原作とする映画](https://ja.wikipedia.org/wiki/Category:小説を原作とする映画 "wikilink") [Category:ギャガの映画作品](https://ja.wikipedia.org/wiki/Category:ギャガの映画作品 "wikilink")
+[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:ドイツのサイコスリラー映画](https://ja.wikipedia.org/wiki/Category:ドイツのサイコスリラー映画 "wikilink") [Category:ドイツのドラマ映画](https://ja.wikipedia.org/wiki/Category:ドイツのドラマ映画 "wikilink") [Category:オリヴァー・ヒルシュビーゲルの監督映画](https://ja.wikipedia.org/wiki/Category:オリヴァー・ヒルシュビーゲルの監督映画 "wikilink") [Category:実際の出来事に基づいた映画作品](https://ja.wikipedia.org/wiki/Category:実際の出来事に基づいた映画作品 "wikilink") [Category:大学を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:大学を舞台とした映画作品 "wikilink") [Category:刑務所を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:刑務所を舞台とした映画作品 "wikilink") [Category:小説を原作とする映画](https://ja.wikipedia.org/wiki/Category:小説を原作とする映画 "wikilink") [Category:ギャガの映画作品](https://ja.wikipedia.org/wiki/Category:ギャガの映画作品 "wikilink") [Category:ドイツで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ドイツで製作された映画作品 "wikilink") [Category:ケルンで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ケルンで製作された映画作品 "wikilink")

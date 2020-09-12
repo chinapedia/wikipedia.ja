@@ -198,7 +198,7 @@ KENJI氏は同時に複数の作品や会社に関与し、現在も活動中
 
 ## 参考文献
 
-  - [Bi_List](http://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Bi_List](https://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 ## 関連項目
 

@@ -70,11 +70,23 @@
 
 ## 過去の所属選手
 
+  - [ニック・イースター](https://ja.wikipedia.org/wiki/ニック・イースター "wikilink")(Nick Easter)…イングランド代表54キャップ、2007・2011・2015W杯3大会連続出場。
+
   - [ティト・テバルディ](../Page/ティト・テバルディ.md "wikilink")(Tito Tebaldi)…イタリア代表36キャップ、現在は[ベネットン・ラグビー](../Page/ベネットン・ラグビー.md "wikilink")に所属。
+
+  - [オリー・リンゼイ＝ヘイグ](https://ja.wikipedia.org/wiki/オリー・リンゼイ＝ヘイグ "wikilink")(Ollie Lindsay-Hague)…[リオ五輪の](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピック "wikilink")[7人制イギリス代表で銀メダル獲得](https://ja.wikipedia.org/wiki/7人制ラグビー男子イギリス代表 "wikilink")。
 
   - [ニック・メイヒュー](../Page/ニック・メイヒュー.md "wikilink")(Nic Mayhew)…現在は[サンウルブズ](https://ja.wikipedia.org/wiki/サンウルブズ "wikilink")に所属。
 
+  - [アサエリ・ティコイロトマ](https://ja.wikipedia.org/wiki/アサエリ・ティコイロトマ "wikilink")(Asaeli Tikoirotuma)…フィジー代表30キャップ、現在はフィジアン・ラトゥイに所属。
+
+  - [ネタニ・タレイ](https://ja.wikipedia.org/wiki/ネタニ・タレイ "wikilink")(Netani Talei)…フィジー代表33キャップ、2007・2011・2015年W杯3大会出場。
+
+  - [ジェイミー・ロバーツ](https://ja.wikipedia.org/wiki/ジェイミー・ロバーツ "wikilink")(Jamie Roberts)…ウェールズ代表94キャップ、現在は[ストーマーズに所属](https://ja.wikipedia.org/wiki/ストーマーズ_\(ラグビー\) "wikilink")。
+
   - [ジェームズ・ホーウィル](https://ja.wikipedia.org/wiki/ジェームズ・ホーウィル "wikilink")(James Horwill)…オーストラリア代表62キャップ、2011W杯出場。
+
+  - [ティム・ビッサー](https://ja.wikipedia.org/wiki/ティム・ビッサー "wikilink")(Tim Visser)…スコットランド代表33キャップ、2015年W杯出場。
 
 ## 脚注
 

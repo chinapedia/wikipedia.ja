@@ -107,7 +107,6 @@
 ## 関連項目
 
   - [S.S.T.BAND](../Page/S.S.T.BAND.md "wikilink") - セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")並びに[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の楽曲を演奏するバンド
-  - [C.S.T.BAND](../Page/C.S.T.BAND.md "wikilink") - [コンパイルのサウンドチームの総称](../Page/コンパイル_\(企業\).md "wikilink")
   - [ZUNTATA](../Page/ZUNTATA.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のサウンドチームの総称
   - [コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink") - [コナミのサウンドチームの総称](../Page/コナミホールディングス.md "wikilink")
   - [GAMADELIC](https://ja.wikipedia.org/wiki/ゲーマデリック "wikilink") - [データイースト](../Page/データイースト.md "wikilink")のサウンドチームおよびバンド

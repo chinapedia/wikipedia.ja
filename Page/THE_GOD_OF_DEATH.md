@@ -130,7 +130,7 @@
 
 <references/>
 
-[Category:2005年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:死神を題材とした作品](https://ja.wikipedia.org/wiki/Category:死神を題材とした作品 "wikilink") [Category:近親相姦を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:近親相姦を題材としたコンピュータゲーム "wikilink")
+[Category:2005年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2005年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:死神を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:死神を題材としたコンピュータゲーム "wikilink") [Category:近親相姦を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:近親相姦を題材としたコンピュータゲーム "wikilink")
 
 1.
 2.

@@ -1,9 +1,13 @@
 > この記事は[スーパー桃太郎電鉄II](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄II)から翻訳されています。
 
 
-『**スーパー桃太郎電鉄II**』（スーパーももたろうでんてつツー）は、[ハドソン](../Page/ハドソン.md "wikilink")が発売したコンピュータボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第3作目。[1991年](../Page/1991年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[PCエンジン](../Page/PCエンジン.md "wikilink")版、[1992年](../Page/1992年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版、[1994年](../Page/1994年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版が発売された。
+『**スーパー桃太郎電鉄II**』（スーパーももたろうでんてつツー）は、[1991年](../Page/1991年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に日本の[ハドソン](../Page/ハドソン.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用[コンピュータボードゲーム](../Page/ボードゲーム.md "wikilink")。
 
-ハドソンを吸収合併し、同社の制作コンテンツの著作権を保有している[KDEから](../Page/コナミデジタルエンタテインメント.md "wikilink")2020年3月19日に発売されたテレビゲーム機・[PCエンジン miniに本作のPCエンジン版が収録されている](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")。
+同社の『[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")』第3作目。基本的なゲームシステムは前作『[スーパー桃太郎電鉄](../Page/スーパー桃太郎電鉄.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）と同様であるが、本作から「キングボンビー」が登場するようになった事や、空港のマスが設置され海外への移動が可能となった点などを特徴としている。
+
+開発はハドソンが行い、スタッフは前作に続き総監督は[さくまあきら](../Page/さくまあきら.md "wikilink")、キャラクター・デザインは[土居孝幸](../Page/土居孝幸.md "wikilink")、音楽は[関口和之](../Page/関口和之.md "wikilink")が担当している他、プロデューサーは『[ファイナルソルジャー](https://ja.wikipedia.org/wiki/ファイナルソルジャー "wikilink")』（1991年）を手掛けた浦敏治、ディレクターは『[桃太郎伝説](https://ja.wikipedia.org/wiki/桃太郎伝説 "wikilink")ターボ』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）を手掛けた飛田雅宏が担当している。
+
+[1992年](../Page/1992年.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")、[1994年](../Page/1994年.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")に移植された他、ハドソンを吸収合併し、同社の制作コンテンツの著作権を保有している[KDEから](../Page/コナミデジタルエンタテインメント.md "wikilink")[2020年](../Page/2020年.md "wikilink")に発売されたテレビゲーム機、[PCエンジン miniに本作のPCエンジン版が収録されている](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")。
 
 ## 概要
 
@@ -11,7 +15,9 @@
 
 なお、作者の[さくまあきら](../Page/さくまあきら.md "wikilink")が『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』誌上で担当していた読者コーナー『[ジャンプ放送局](../Page/ジャンプ放送局.md "wikilink")』の単行本第20巻の巻末漫画において、今作のマイナーチェンジ版として「95年度版（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")度版）」を制作している、とのさくまの落書きコメントが記載されていたが、発売されることはなかった。
 
-## 前作からの変更点
+## ゲーム内容
+
+### 前作からの変更点
 
   - 本作より、サイコロを振った後で指定した駅に行けるルートの有無を検索できる「いけるかな?」コマンドが追加された。
   - 本作より、目的地候補以外の物件駅にも、駅名プレートが掲示されるようになった\[1\]。
@@ -34,6 +40,10 @@
   - 本作より、セリフと列車の速度を4段階に調節出来るようになった。速度「ほんき」に設定すると、かなり速いペースでゲームが進む。なお、列車の速度の調節ができるようになったのはこの作品から。
   - 前作に引き続きプログラムの制約上、全ての物件を購入することは不可能である。
   - 初登場のカード：[ゴールドカード](../Page/ゴールドカード.md "wikilink")、キングデビルカード、[刀狩](../Page/刀狩.md "wikilink")りカード、モモトラマンカード、「も」「く」「て」「き」「ち」カード、ブロックカード、ダビングカード、なきおとしカードなど
+
+### その他
+
+「オークション」というイベントが収録される予定であったが、システムのわかりづらさのため没となった。またオークションは唯一浦島が登場する予定のイベントだったためにPCエンジン版には浦島が登場していない\[4\]。スーパーファミコン版とゲームボーイ版では目的地抽選画面に浦島が登場するようになっている。
 
 ## 登場駅
 
@@ -170,7 +180,7 @@
 
 </div>
 
-## 対応機種
+## 移植版
 
 <table>
 <thead>
@@ -184,6 +194,7 @@
 <th><p>メディア</p></th>
 <th><p>型式</p></th>
 <th><p>備考</p></th>
+<th><p>出典</p></th>
 </tr>
 </thead>
 <tbody>
@@ -191,29 +202,17 @@
 <td><p>1</p></td>
 <td><p>スーパー桃太郎電鉄II</p></td>
 <td></td>
-<td><p><a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a></p></td>
-<td><p><a href="../Page/ハドソン.md" title="wikilink">ハドソン</a><br />
-<a href="https://ja.wikipedia.org/wiki/サマープロジェクト" title="wikilink">サマープロジェクト</a></p></td>
-<td><p>ハドソン</p></td>
-<td><p><a href="../Page/HuCARD.md" title="wikilink">HuCARD</a></p></td>
-<td><p>HC91050</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p>スーパー桃太郎電鉄II</p></td>
-<td></td>
 <td><p><a href="../Page/スーパーファミコン.md" title="wikilink">スーパーファミコン</a></p></td>
 <td><p>ハドソン<br />
 サマープロジェクト</p></td>
 <td><p>ハドソン</p></td>
-<td><p><a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a></p></td>
-<td><p>SHVC-H4<br />
-SHVC-H4-I</p></td>
-<td></td>
+<td><p>8メガビット+64キロRAM<a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a><ref name="famimaga102">{{Cite journal |和書</p></td>
+<td><p>author =</p></td>
+<td><p>authorlink =</p></td>
+<td><p>title = 8月情報号特別付録 スーパーファミコンオールカタログ'93</p></td>
 </tr>
-<tr class="odd">
-<td><p>3</p></td>
+<tr class="even">
+<td><p>2</p></td>
 <td><p>スーパー桃太郎電鉄II</p></td>
 <td></td>
 <td><p><a href="../Page/ゲームボーイ.md" title="wikilink">ゲームボーイ</a></p></td>
@@ -223,9 +222,10 @@ SHVC-H4-I</p></td>
 <td><p>ロムカセット</p></td>
 <td><p>DMG-G9J</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
-<td><p>4</p></td>
+<tr class="odd">
+<td><p>3</p></td>
 <td><p>桃太郎コレクション</p></td>
 <td></td>
 <td><p>ゲームボーイ</p></td>
@@ -235,33 +235,36 @@ SHVC-H4-I</p></td>
 <td><p>ロムカセット</p></td>
 <td><p>DMG-AMDJ-JPN</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/桃太郎電劇" title="wikilink">桃太郎電劇</a>』と共にゲームボーイ版を収録。</p></td>
+<td></td>
 </tr>
-<tr class="odd">
-<td><p>5</p></td>
+<tr class="even">
+<td><p>4</p></td>
 <td><p>スーパー桃太郎電鉄II</p></td>
 <td></td>
 <td><p>スーパーファミコン</p></td>
 <td><p>ハドソン<br />
 サマープロジェクト</p></td>
 <td><p>ハドソン</p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/フラッシュメモリ.md" title="wikilink">フラッシュロムカセット</a></p></td>
+<td><p>-</p></td>
 <td><p><a href="../Page/ニンテンドウパワー.md" title="wikilink">ニンテンドウパワー</a>配信サービス。</p></td>
+<td></td>
 </tr>
-<tr class="even">
-<td><p>6</p></td>
+<tr class="odd">
+<td><p>5</p></td>
 <td><p>スーパー桃太郎電鉄II</p></td>
 <td></td>
 <td><p>ゲームボーイ</p></td>
 <td><p>ハドソン<br />
 サマープロジェクト</p></td>
 <td><p>ハドソン</p></td>
-<td></td>
-<td></td>
+<td><p>フラッシュロムカセット</p></td>
+<td><p>-</p></td>
 <td><p>ニンテンドウパワー配信サービス。</p></td>
+<td></td>
 </tr>
-<tr class="odd">
-<td><p>7</p></td>
+<tr class="even">
+<td><p>6</p></td>
 <td><p>スーパー桃太郎電鉄II</p></td>
 <td></td>
 <td></td>
@@ -271,15 +274,95 @@ SHVC-H4-I</p></td>
 <td><p><a href="../Page/プリインストール.md" title="wikilink">プリインストール</a></p></td>
 <td></td>
 <td><p>PCエンジン版を収録。</p></td>
+<td><p>[5][6][7][8][9]</p></td>
 </tr>
 </tbody>
 </table>
 
-## その他
+## スタッフ
 
-「オークション」というイベントが収録される予定であったが、システムのわかりづらさのため没となった。またオークションは唯一浦島が登場する予定のイベントだったためにPCエンジン版には浦島が登場していない\[4\]。スーパーファミコン版とゲームボーイ版では目的地抽選画面に浦島が登場するようになっている。
+  - PCエンジン版
+
+<!-- end list -->
+
+  - 総監督：[さくまあきら](../Page/さくまあきら.md "wikilink")
+  - キャラクター・デザイン：[土居孝幸](../Page/土居孝幸.md "wikilink")
+  - 音楽：[関口和之](../Page/関口和之.md "wikilink")
+  - メイン・プログラマー：青山光
+  - マップ／イベント・デザイン：伊藤真希、向井由美、高岡史江、関口暁信
+  - 音楽アシスタント：椰子の実かちる、笹沢一宏、永田茂
+  - シナリオ・アシスタント：増田景子、運馬知男、名畑良一
+  - ヘルプ：松本修一（[スタジオ・ハード](https://ja.wikipedia.org/wiki/スタジオ・ハード "wikilink")）、山口宏（スタジオ・ハード）
+  - 協力：[桝田省治](../Page/桝田省治.md "wikilink")、井沢寛、[薮野てんや](https://ja.wikipedia.org/wiki/薮野てんや "wikilink")、早瀬竜太郎、[榎本38才](../Page/榎本一夫.md "wikilink")、[横山智佐](../Page/横山智佐.md "wikilink")、戸田圭祐、あきもとのぶひこ、和気正則、三上哲、松尾宏之、ちありいなかた、川田忠之、高津敏之、菊池賢次、若林哲也、かんべまさのり、いしばしたくじ、さとうたかし、いしいかい
+  - サウンド・プログラマー：滝本利昭、谷藤真紀子、成田修
+  - ディレクター：飛田雅宏
+  - プロデューサー：浦敏治
+
+<!-- end list -->
+
+  - スーパーファミコン版
+
+<!-- end list -->
+
+  - 総監督：さくまあきら
+  - キャラクター・デザイン：土居孝幸
+  - 音楽：関口和之
+  - メイン・プログラマー：小坂恭洋
+  - サブ・プログラマー：室屋勇治
+  - マップ／イベント・デザイン：佐々木みか、山口もと、田中和恵
+  - 音楽アレンジャー：谷藤真紀子
+  - サウンド・エフェクター：成田修、佐藤昭洋
+  - シナリオ・アシスタント：増田景子、名畑良一、松本修一（スタジオ・ハード）、山口宏（スタジオ・ハード）
+  - 協力：桝田省治、和気正則、佐久間真理、椰子の実かちる、笹沢一宏、永田茂、戸田圭祐、千葉達也、さとうけんすけ、山田真木、三上哲
+  - スペシャル・サンクス：青山光
+  - プロデューサー：浦敏治
+
+## 評価
+
+  - PCエンジン版
+
+<!-- end list -->
+
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計29点（満40点）\[10\]、『[月刊PCエンジン](../Page/月刊PCエンジン.md "wikilink")』では95・90・85・90・85の平均89点（満100点）、『[マル勝PCエンジン](../Page/マル勝PCエンジン.md "wikilink")』では9・10・8・9の合計36点（満40点）、『[PC Engine FAN](../Page/PC_Engine_FAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、25.67点（満30点）となっている\[11\]。また、この得点はPCエンジン全ソフトの中で9位（485本中、1993年時点）となっている。同雑誌1993年10月号特別付録の「PCエンジンオールカタログ'93」では、コンピュータ側のレベルなど詳細設定が変更できるようになった点や海外エリアが追加された事に関して肯定的に評価した\[12\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%;text-align:center;width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || 操作性 || 熱中度 || お買得度 || オリジナリティ \! 総合 |- \! 得点 | 4.44 || 3.92 || 4.46 || 4.46 || 4.33 || 4.06 \! 25.67 |}
+
+  - スーパーファミコン版
+
+<!-- end list -->
+
+  - ゲーム誌『ファミコン通信』の「クロスレビュー」では、5・7・7・8の合計27点（満40点）\[13\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、23.76点（満30点）となっている\[14\]。また、この得点はスーパーファミコン全ソフトの中で23位（323本中、1993年時点）となっている。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%;text-align:center;width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || 操作性 || 熱中度 || お買得度 || オリジナリティ \! 総合 |- \! 得点 | 4.26 || 3.78 || 3.96 || 4.21 || 3.74 || 3.81 \! 23.76 |}
+
+  - ゲームボーイ版
+
+<!-- end list -->
+
+  - ゲーム誌『ファミコン通信』の「クロスレビュー」では、7・7・7・5の合計26点（満40点）\[15\]、『ファミリーコンピュータMagazine』の読者投票による「ゲーム通信簿」での評価は以下の通り、22.5点（満30点）となっている\[16\]。
+
+<!-- end list -->
+
+  -
+    {|class="wikitable" style="font-size:85%;text-align:center;width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 4.1 || 3.6 || 3.6 || 3.6 || 4.0 || 3.6 \! 22.5 |}
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 関連書籍
 
@@ -296,9 +379,23 @@ SHVC-H4-I</p></td>
 
   - )
 
-[Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink")
+  - （英語）
+
+[Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:桃太郎電鉄シリーズ](https://ja.wikipedia.org/wiki/Category:桃太郎電鉄シリーズ "wikilink")
 
 1.  GB版各種作品および、GG版『III』を除く。
 2.  GB版を除く。
-3.  以後の作品では、『[III](../Page/スーパー桃太郎電鉄III.md "wikilink")』でのサウンドテストで聴くことができるほか、『[HAPPY](../Page/桃太郎電鉄HAPPY.md "wikilink")』のサウンドテストでタイトルだけ確認可能。
+3.  以後の作品では、『[スーパー桃太郎電鉄III](../Page/スーパー桃太郎電鉄III.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）でのサウンドテストで聴くことができるほか、『[桃太郎電鉄HAPPY](../Page/桃太郎電鉄HAPPY.md "wikilink")』（[1996年](../Page/1996年.md "wikilink")）のサウンドテストでタイトルだけ確認可能。
 4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.

@@ -119,7 +119,7 @@
 
   - [4D-JAM公式サイト](http://4d-jam.com/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink")
 
 1.  [GIZA studio Masterpiece BLEND 2001](https://ja.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2001 "wikilink")、weekly ぴあ 11.15号
 2.  [Biography of TheBlueFilms OFFICIAL WEBSITE](http://www.thebluefilms.com/Biography.html)

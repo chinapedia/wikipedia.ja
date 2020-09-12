@@ -38,23 +38,23 @@
 
   - \[<http://axis98c.wix.com/axis>　AXIS official web\]
 
-  - [AXIS official blog](http://ameblo.jp/axis-7)
+  - [AXIS official blog](https://ameblo.jp/axis-7)
 
   -
   -
-  - [あーみん blog](http://ameblo.jp/amixh)
+  - [あーみん blog](https://ameblo.jp/amixh)
 
   -
-  - [Erikaru blog](http://ameblo.jp/tanmeeen/)
+  - [Erikaru blog](https://ameblo.jp/tanmeeen/)
 
   -
-  - [maossan blog](http://ameblo.jp/maossan5)
+  - [maossan blog](https://ameblo.jp/maossan5)
 
   -
-  - [chiaki blog](http://ameblo.jp/chia10-1005)
+  - [chiaki blog](https://ameblo.jp/chia10-1005)
 
   -
-  - [Mayu blog](http://ameblo.jp/hachi-0801)
+  - [Mayu blog](https://ameblo.jp/hachi-0801)
 
   -
   - [ゆっこ blog](http://ameblo.jp/1997-0311/)

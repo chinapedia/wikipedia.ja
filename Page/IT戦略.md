@@ -38,6 +38,6 @@ IT戦略は、情報技術を企業の事業（ビジネス）にいかに利用
 
 ## 外部リンク
 
-  - [高度情報通信ネットワーク社会推進戦略本部（IT戦略本部）（日本政府）](http://www.kantei.go.jp/jp/singi/it2/)
+  - [高度情報通信ネットワーク社会推進戦略本部（IT戦略本部）（日本政府）](https://www.kantei.go.jp/jp/singi/it2/)
 
 [Category:経営戦略論](https://ja.wikipedia.org/wiki/Category:経営戦略論 "wikilink") [Category:情報技術](https://ja.wikipedia.org/wiki/Category:情報技術 "wikilink") [Category:情報社会](https://ja.wikipedia.org/wiki/Category:情報社会 "wikilink") [Category:IT戦略](https://ja.wikipedia.org/wiki/Category:IT戦略 "wikilink")

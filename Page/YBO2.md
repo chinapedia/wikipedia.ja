@@ -5,7 +5,7 @@
 
 ## 来歴
 
-雑誌『[FOOL'S MATE](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")』を創刊し、初代編集長を務めた[北村昌士](https://ja.wikipedia.org/wiki/北村昌士 "wikilink")らによって[1984年](../Page/1984年.md "wikilink")に結成された。
+雑誌『[FOOL'S MATE](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")』を創刊し、初代編集長を務めた[北村昌士](../Page/北村昌士.md "wikilink")らによって[1984年](../Page/1984年.md "wikilink")に結成された。
 
 [1986年](../Page/1986年.md "wikilink")に、北村自らが主宰するインディーズ・レーベルである[トランス・レコード](https://ja.wikipedia.org/wiki/トランス・レコード "wikilink")より、1st.シングル『Doglamagla』、12インチ・シングル『太陽の皇子』、1st.アルバム『ALIENATION』、2nd.アルバム『Kingdom Of Family Dream』、シングル『空が墜ちる』などを立て続けにリリース。
 
@@ -13,7 +13,7 @@
 
 [1988年](../Page/1988年.md "wikilink")に、3rd.アルバム『Pale Face, Pale Skin』、ビデオ『Heavymetal Master』をリリース後に、トランス・レコードは閉鎖。
 
-[1989年](../Page/1989年.md "wikilink")には、アルバム『STARSHIP』でメジャー・デビューするが、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に活動停止。ただし、活動停止後も1991～92年に復活ライブが単発で行われている。
+[1989年](../Page/1989年.md "wikilink")には、4th.アルバム『STARSHIP』でメジャー・デビューするが、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に活動停止。ただし、活動停止後も1991～92年に復活ライブが単発で行われている。
 
 [2000年](../Page/2000年.md "wikilink")に再結成したが、中心メンバーの北村は[2006年](../Page/2006年.md "wikilink")6月17日に49歳の若さで早世した。
 
@@ -21,9 +21,9 @@
 
 ## メンバー
 
-  - ボーカル、ベース、[メロトロン](../Page/メロトロン.md "wikilink")：[北村昌士](https://ja.wikipedia.org/wiki/北村昌士 "wikilink")
+  - ボーカル、ベース、[メロトロン](../Page/メロトロン.md "wikilink")：[北村昌士](../Page/北村昌士.md "wikilink")
   - ギター：[栗原ミチオ](https://ja.wikipedia.org/wiki/栗原ミチオ "wikilink")（[ゴースト](../Page/ゴースト_\(バンド\).md "wikilink")、[The Stars](https://ja.wikipedia.org/wiki/The_Stars "wikilink")、[White Heaven他](https://ja.wikipedia.org/wiki/White_Heaven "wikilink")）→[KK NULL](https://ja.wikipedia.org/wiki/KK_Null "wikilink")（[ZENI GEVA](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")）→[森川誠一郎](https://ja.wikipedia.org/wiki/森川誠一郎 "wikilink")（[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")）→[河本英樹](https://ja.wikipedia.org/wiki/河本英樹 "wikilink")（[ルインズ](../Page/ルインズ.md "wikilink")）→浅沼隆→解散、一時再結成時、KK NULL、[田畑マラ](https://ja.wikipedia.org/wiki/田畑満 "wikilink")（[ZENI GEVA](https://ja.wikipedia.org/wiki/ZENI_GEVA "wikilink")）→2000年に復活、栗原道夫、KK NULL、森川誠一郎→[藤井政英](https://ja.wikipedia.org/wiki/藤井政英 "wikilink")
-  - ドラマー：[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")→[長谷川洋](https://ja.wikipedia.org/wiki/長谷川洋 "wikilink")([ASTRO](https://ja.wikipedia.org/wiki/ASTRO "wikilink"))→[吉田達也](../Page/吉田達也.md "wikilink")→解散後、一時再結成時、[佐藤カツ](https://ja.wikipedia.org/wiki/佐藤カツ_\(ミュージシャン\) "wikilink")→2000年に復活、[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")、[吉田達也](../Page/吉田達也.md "wikilink")→[岸沢光正](https://ja.wikipedia.org/wiki/岸沢光正 "wikilink")
+  - ドラマー：[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")→[長谷川洋](https://ja.wikipedia.org/wiki/長谷川洋 "wikilink")(ASTRO)→[吉田達也](../Page/吉田達也.md "wikilink")→解散後、一時再結成時、[佐藤カツ](https://ja.wikipedia.org/wiki/佐藤カツ_\(ミュージシャン\) "wikilink")→2000年に復活、[上野山好紀](https://ja.wikipedia.org/wiki/上野山好紀 "wikilink")、[吉田達也](../Page/吉田達也.md "wikilink")→[岸沢光正](https://ja.wikipedia.org/wiki/岸沢光正 "wikilink")
 
 ※結成時1984年内のみ北村がVo兼Key.でBassに野沢美香がいた。
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - STARSHIP（1989年6月21日） - メジャーデビューアルバム
+  - STARSHIP（1989年6月21日） - 4th.アルバム（メジャーデビューアルバム）
 
 <!-- end list -->
 
@@ -152,19 +152,8 @@
   - Heavymetal Master（1988年）
   - 大蜩琳　DAEJOHW-LING（2000年）
 
-### 主な関連作品
-
-  - I（1988年）CANIS LUPUS - 12'ミニアルバム
-  - II（1989年）CANIS LUPUS - 12'ミニアルバム
-  - aqua perspective（1990年）CANIS LUPUS - アルバム
-  - ROAR（2019年）CANIS LUPUS - 1989年頃のライブ音源を収録したアルバム
-  - Night Crash（1994年）DIFFERANCE - アルバム
-  - AFFINITY（1995年）DIFFERANCE - アルバム
-  - All Along the Night～Paint It Black\!（1995年）DIFFERANCE - アルバム
-  - SKYBURIAL（鳥葬）（1999年）DIFFERANCE - アルバム
-
 ## 外部リンク
 
   - [FOOL'S MATE channel](http://ch.nicovideo.jp/fools-mate)
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:1984年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1984年に結成した音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:1984年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1984年に結成した音楽グループ "wikilink")

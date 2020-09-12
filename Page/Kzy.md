@@ -78,13 +78,19 @@ Kzy欠場中の2015年1月、王者フラミータのベルト受け取り拒否
     [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")のように、主に飛びつき式で行う。
   - [スワントーンボム](https://ja.wikipedia.org/wiki/トペ・コン・ヒーロ "wikilink")
     フォームが非常に美しい
-  - **ライク・ア・ドラゴン**
+  - [ドリル・ア・ホール・パイルドライバー](https://ja.wikipedia.org/wiki/ドリル・ア・ホール・パイルドライバー "wikilink")
+    [ダブルアームDDT](../Page/DDT_\(プロレス技\).md "wikilink")
+    **ライク・ア・ドラゴン**
     膝をついている相手に仕掛ける変形のドラゴンスリーパー
   - **ミッションインポッシブル**
     セカンドロープを踏み台にした[トペ・コン・ヒーロ](https://ja.wikipedia.org/wiki/トペ・コン・ヒーロ "wikilink")。
     2017年に入ってから使用し始めた技であり、前年に退団した[戸澤陽](../Page/戸澤陽.md "wikilink")を意識したものである。滞空時間が長くフォームも綺麗である。
 
 ## タイトル歴
+
+  - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
+
+<!-- end list -->
 
   - [オープン・ザ・ブレイブゲート王座](../Page/オープン・ザ・ブレイブゲート王座.md "wikilink")（第26代）
   - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")（第26代、第33代、第49代、第61代、第63代）

@@ -300,7 +300,7 @@
 ## 外部リンク
 
   -
-[Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:2007年の漫画](https://ja.wikipedia.org/wiki/Category:2007年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:歴史漫画](https://ja.wikipedia.org/wiki/Category:歴史漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:ダルタニャン物語をベースとしたフィクション作品](https://ja.wikipedia.org/wiki/Category:ダルタニャン物語をベースとしたフィクション作品 "wikilink") [Category:フランスの歴史を題材とした作品](https://ja.wikipedia.org/wiki/Category:フランスの歴史を題材とした作品 "wikilink") [Category:Jコミ](https://ja.wikipedia.org/wiki/Category:Jコミ "wikilink")
+[Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:2007年の漫画](https://ja.wikipedia.org/wiki/Category:2007年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:歴史漫画](https://ja.wikipedia.org/wiki/Category:歴史漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:ダルタニャン物語をベースとしたフィクション作品](https://ja.wikipedia.org/wiki/Category:ダルタニャン物語をベースとしたフィクション作品 "wikilink") [Category:フランスの歴史を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:フランスの歴史を題材とした漫画作品 "wikilink") [Category:Jコミ](https://ja.wikipedia.org/wiki/Category:Jコミ "wikilink")
 
 1.  計37人の作家による作品。
 2.

@@ -13,7 +13,7 @@
 
 ''' ダイハツ '''
 
-  - [CB型](https://ja.wikipedia.org/wiki/ダイハツ・CB型エンジン "wikilink")（[1977年](../Page/1977年.md "wikilink")）→ [EJ型](https://ja.wikipedia.org/wiki/ダイハツ・EJ型エンジン "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")） → **<big>KR型</big>**（2004年）
+  - [CB型](https://ja.wikipedia.org/wiki/ダイハツ・CB型エンジン "wikilink")（[1977年](../Page/1977年.md "wikilink")）→ [EJ型](https://ja.wikipedia.org/wiki/ダイハツ・EJ型エンジン "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")） → **KR型**（2004年）
 
 ## 概要
 
@@ -103,7 +103,7 @@
 <!-- end list -->
 
   - 搭載車種（車両型式）
-      - [プロドゥア・べザ](https://ja.wikipedia.org/wiki/プロドゥア・べザ "wikilink")(A)
+      - [プロドゥア・ベザ](https://ja.wikipedia.org/wiki/プロドゥア・ベザ "wikilink")(A)
       - [トヨタ・アギア](https://ja.wikipedia.org/wiki/トヨタ・アギア "wikilink")/ウィゴ（いずれも後期型以降）(B)
 
 2016年7月に発売された[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")最大手の自動車メーカー・[プロドゥア](../Page/プロドゥア.md "wikilink")史上初にして唯一の小型ノッチバックセダン「ベザ」に初めて搭載された。このエンジンも先述の1KR-DE同様、0.1mmストロークが異なる表示となっているほか、厳密にはトヨタ名義ではなくダイハツ名義のエンジンであるため、型式名の-（ハイフン）後の記号がトヨタ式ではなくダイハツ式の表記になっている。日本国内向けを除くダイハツからのOEM供給車種、もしくは日本国内向けを除く主な開発作業と生産をダイハツに委託した車種、プロドゥアの一部車種などに限られている。

@@ -53,6 +53,6 @@
 
 <references/>
 
-[Category:漫画作品_ら](https://ja.wikipedia.org/wiki/Category:漫画作品_ら "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink")
+[Category:漫画作品_ら](https://ja.wikipedia.org/wiki/Category:漫画作品_ら "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:悪魔を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした漫画作品 "wikilink") [Category:ダーク・ファンタジー](https://ja.wikipedia.org/wiki/Category:ダーク・ファンタジー "wikilink") [Category:ブラック・コメディ](https://ja.wikipedia.org/wiki/Category:ブラック・コメディ "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:ロー・ファンタジー作品](https://ja.wikipedia.org/wiki/Category:ロー・ファンタジー作品 "wikilink")
 
 1.  「199」は、刑法199条の殺人罪からきている。また、七雲のセリフは第8話は199\!（ワンナインナイン）」だったが、第9話では「199\!（ワン・ダブナイン）」 に変更されていた。

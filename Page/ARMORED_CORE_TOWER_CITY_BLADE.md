@@ -130,7 +130,8 @@
 
 ## 外部リンク
 
-  - [ARMORED CORE WEB SITE](http://www.armoredcore.net/top/)
-  - [TUKIBUTO](http://www.h4.dion.ne.jp/~tukiyo-b/)（作者サイト）
+  - [ARMORED CORE WEB SITE](https://www.armoredcore.net/top/)
+
+  - （作者サイト）
 
 [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊ドラゴンエイジ](https://ja.wikipedia.org/wiki/Category:月刊ドラゴンエイジ "wikilink") [Category:2007年の漫画](https://ja.wikipedia.org/wiki/Category:2007年の漫画 "wikilink") [Category:アーマード・コア](https://ja.wikipedia.org/wiki/Category:アーマード・コア "wikilink")

@@ -33,6 +33,7 @@
       - [楠芽吹は勇者である](https://ja.wikipedia.org/wiki/楠芽吹は勇者である "wikilink")（著：朱白あおい / 電撃G's magazine）
   - クロニクル・レギオン（著：[丈月城](https://ja.wikipedia.org/wiki/丈月城 "wikilink") / [ダッシュエックス文庫](https://ja.wikipedia.org/wiki/ダッシュエックス文庫 "wikilink")）\[3\] 全7巻
   - [神域のカンピオーネス](https://ja.wikipedia.org/wiki/神域のカンピオーネス "wikilink")（著：丈月城 / ダッシュエックス文庫）\[4\]既刊5巻
+  - [カンピオーネ\! ロード・オブ・レルムズ](https://ja.wikipedia.org/wiki/カンピオーネ! "wikilink")（著：丈月城 / ダッシュエックス文庫）単巻
   - [キミラノ](https://ja.wikipedia.org/wiki/キミラノ "wikilink") 皐月レオン（KADOKAWA）\[5\]
 
 #### 漫画
@@ -61,6 +62,8 @@
 #### アニメ
 
   - [俺の妹がこんなに可愛いわけがない](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない_\(アニメ\) "wikilink")（第1話 エンディングイラスト、第8話 劇中作「妹都市」挿絵）
+  - [STAR DRIVER 輝きのタクト](https://ja.wikipedia.org/wiki/STAR_DRIVER_輝きのタクト "wikilink") [TOKYO MX放送版](https://ja.wikipedia.org/wiki/TOKYO_MX "wikilink")（第16話 エンドカードイラスト）
+  - [問題児たちが異世界から来るそうですよ?](https://ja.wikipedia.org/wiki/問題児たちが異世界から来るそうですよ? "wikilink")（第8話 エンドカードイラスト）
   - [Fate/kaleid liner プリズマ☆イリヤ](https://ja.wikipedia.org/wiki/Fate/kaleid_liner_プリズマ☆イリヤ "wikilink")（第2話 エンドカードイラスト）
   - [結城友奈は勇者である](https://ja.wikipedia.org/wiki/結城友奈は勇者である "wikilink")（キャラクター原案）
       - 結城友奈は勇者である -鷲尾須美の章-（キャラクター原案）

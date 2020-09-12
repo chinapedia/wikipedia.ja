@@ -208,4 +208,4 @@ Def Tech//nobody knows+//HOME MADE家族//ET-KING//EAST END//KREVA（ex KICK THE
   - [Mセットラッパーズ\!\!公式サイト](http://msetrappers.com/)
   - [Mセットラッパーズ\!\!ブログ](http://msr.buzzlog.jp/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")

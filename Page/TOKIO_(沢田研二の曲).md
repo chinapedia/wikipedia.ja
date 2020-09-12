@@ -32,7 +32,7 @@
   - きゅぅ〜\!\! - [2002年](../Page/2002年.md "wikilink")、『全国ハモネプリーグ LIVE\! VOL.2』収録。
   - [Daカルロス喜田造](https://ja.wikipedia.org/wiki/Daカルロス喜田造 "wikilink") - [2003年](../Page/2003年.md "wikilink")にシングル発売。
   - [ドクター・ゾイル](https://ja.wikipedia.org/wiki/ドクター・ゾイル "wikilink") - 2003年、『Riviera Boogie』の日本盤[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録。『[新トーキョー人の選択](../Page/新トーキョー人の選択.md "wikilink")』、2007年4月 - 6月の『[イタリア語会話](../Page/イタリア語会話.md "wikilink")』、2008年10月 - 2009年3月の『[テレビでイタリア語](https://ja.wikipedia.org/wiki/テレビでイタリア語 "wikilink")』のオープニングテーマとして使われた。
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink") - [2006年](../Page/2006年.md "wikilink")、韓国語でカバー。『[Pop Up\! SMAP](../Page/Pop_Up!_SMAP.md "wikilink")』収録。
+  - [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink") - [2006年](../Page/2006年.md "wikilink")、韓国語でカバー。『[Pop Up\! SMAP](../Page/Pop_Up!_SMAP.md "wikilink")』収録。
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")） - 2013年の[AAAイベント](../Page/アクト・アゲインスト・エイズ.md "wikilink")『昭和八十八年度\!第二回ひとり紅白歌合戦』でカバーし、本家さながらに赤と白の縞模様の[パラソル](https://ja.wikipedia.org/wiki/パラソル "wikilink")を背負って歌い、[フライング](https://ja.wikipedia.org/wiki/フライング "wikilink")を披露した。
   - [森重樹一](../Page/森重樹一.md "wikilink")（[ZIGGY](../Page/ZIGGY.md "wikilink")）- 2011年8月3日発売 果てしなきグラムロック歌謡の世界アルバムにて 収録
   - [ザ・ワイルドワンズ](../Page/ザ・ワイルドワンズ.md "wikilink") - 2004年のライブアルバム『加瀬邦彦&ザ・ワイルド・ワンズライブ〜Live at SHIBUYA AX/GINZA KENNEDY HOUSE〜』（ダイキサウンド）収録。2006年の40周年記念武道館ライブ（DVD『加瀬邦彦&ザ・ワイルドワンズ in 武道館』）・2010年の「JULIE WITH THE WILD ONES」ツアー（DVD『JULIE with THE WILD ONES LIVE 僕達ほとんどいいんじゃあない』）では沢田とのコラボレーション版を披露している。
@@ -57,7 +57,7 @@
 ## 外部リンク
 
   -
-[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が作詞した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が制作した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が制作した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.
 2.

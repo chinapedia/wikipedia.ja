@@ -7,15 +7,15 @@
 
 [大阪市](../Page/大阪市.md "wikilink")[北区出身](../Page/北区_\(大阪市\).md "wikilink")。中学生になって[バンド活動を始める](../Page/バンド_\(音楽\).md "wikilink")。当初は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")を担当していた。
 
-志望大学のスポーツ推薦にうからず、その1年後上京、兄の住宅で一緒に生活した。その兄と兄弟ユニットを結成し、ある音楽コンテストに出場したところ優勝。世界大会にも出場し、ベストキーボーディスト賞を受賞した。
+志望大学のスポーツ推薦で不合格となり、その1年後に上京、兄の住宅で一緒に生活した。その兄と兄弟ユニットを結成し、とある音楽コンテストに出場したところ優勝。世界大会にも出場し、ベストキーボーディスト賞を受賞した。
 
 その後、[東京パノラママンボボーイズ](../Page/東京パノラママンボボーイズ.md "wikilink")のツアーにベーシストとして参加。[1992年](../Page/1992年.md "wikilink")にバンドを結成し、都内の[ライブハウス](../Page/ライブハウス.md "wikilink")で活動していた。
 
-[1993年](../Page/1993年.md "wikilink")、元[ザ・シャムロック](../Page/ザ・シャムロック.md "wikilink")の山森"Jeff"正之が結成した[THE ORANGESに加入](https://ja.wikipedia.org/wiki/THE_ORANGES "wikilink")。ここで「SUNNY」と名付けられた。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")脱退。同年、[サエキけんぞうのプロデュースのもと](../Page/パール兄弟.md "wikilink")、本名名義での[ソロユニット](../Page/一人バンド.md "wikilink")、[2moody](https://ja.wikipedia.org/wiki/2moody "wikilink")としての活動を開始。時を同じくして寺岡呼人のサポートを行うようになる。
+[1993年](../Page/1993年.md "wikilink")、元[ザ・シャムロック](../Page/ザ・シャムロック.md "wikilink")の山森 "Jeff" 正之が結成したTHE ORANGESに加入。ここで**SUNNY**と名付けられた。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")脱退。同年、[サエキけんぞうのプロデュースのもと](../Page/パール兄弟.md "wikilink")、本名名義での[ソロユニット](../Page/一人バンド.md "wikilink")・2moodyとしての活動を開始。時を同じくして[寺岡呼人](../Page/寺岡呼人.md "wikilink")のサポートを行うようになる。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")、[30日のゆずのライブ](../Page/5月30日.md "wikilink")「ゆず渋谷公園通り劇場LIVE2Days」をサポート。同年[9月](../Page/9月.md "wikilink")からのゆずのツアーにも参加した。その後もサポートキーボーディストとしての活動を展開し、[1999年](../Page/1999年.md "wikilink")の「"DISCOVERY" TOUR'99」よりMr.Childrenのツアー、[2000年](../Page/2000年.md "wikilink")には寺岡呼人のツアーにも参加。同年、ゆずの横浜スタジアムでのライブではギターの演奏も披露した。 また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[My Little Loverのライブサポートやアルバムにおいてキーボードを演奏している](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")。また、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")の2007年、2009年と2010年のライブツアーでキーボードを務める。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")、[30日の](../Page/5月30日.md "wikilink")[ゆずのライブ](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")『ゆず渋谷公園通り劇場LIVE2Days』をサポート。同年9月からのゆずのツアーにも参加した。その後もサポートキーボーディストとしての活動を展開し、[1999年](../Page/1999年.md "wikilink")の『[Mr.Children TOUR '99 "DISCOVERY"](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")』より[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のツアー、[2000年](../Page/2000年.md "wikilink")には寺岡呼人のツアーにも参加。同年、ゆずの[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのライブではギターの演奏も披露した。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[My Little Loverのライブサポートやアルバムにおいてキーボードを演奏している](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")。また、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")の[2007年](../Page/2007年.md "wikilink")、[2009年](../Page/2009年.md "wikilink")と[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")のライブツアーでキーボードを務めた。 [2014年](../Page/2014年.md "wikilink")よりMr.Childrenの[桜井和寿](../Page/桜井和寿.md "wikilink")が所属するユニット・[ウカスカジー](https://ja.wikipedia.org/wiki/ウカスカジー "wikilink")の[バンドマスター](https://ja.wikipedia.org/wiki/バンドマスター "wikilink")を務めるようになる。その流れもあり同年には[2006年](../Page/2006年.md "wikilink")を最後に離れていたMr.Childrenのサポートメンバーに復帰。両グループともにライブのみならず[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")にも参加するようになる。
 
-[1999年](../Page/1999年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")、SUNNY名義でソロデビュー。ミニアルバムを発表した。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にメジャーデビューを果たし、以降2枚のアルバム、4枚のシングルを発表している。
+ソロシンガーとしては1999年[12月25日](../Page/12月25日.md "wikilink")にSUNNY名義でデビュー、[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink")を発表した。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にメジャーデビューを果たし、以降2枚のアルバム、4枚のシングルを発表している。
 
 ## ディスコグラフィー
 

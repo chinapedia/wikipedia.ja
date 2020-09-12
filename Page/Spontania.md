@@ -945,7 +945,7 @@ the message 03 Feat. Hi-Timez</p></td>
 
 ## 外部リンク
 
-  - [ユニバーサルミュージックによる公式サイト](http://www.universal-music.co.jp/spontania/)
+  - [ユニバーサルミュージックによる公式サイト](https://www.universal-music.co.jp/spontania/)
 
   - [Spontania MASSATTACK Official Blog](https://ameblo.jp/spontaniam/)
 
@@ -954,4 +954,4 @@ the message 03 Feat. Hi-Timez</p></td>
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:ニューヨーク市出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヨーク市出身の人物 "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:ニューヨーク市出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヨーク市出身の人物 "wikilink")

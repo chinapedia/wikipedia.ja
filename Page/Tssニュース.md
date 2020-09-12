@@ -30,9 +30,9 @@
 
 ## 外部リンク
 
-  - [広島ニュースTSS](http://www.tss-tv.co.jp/tssnews/) - テレビ新広島
+  - [広島ニュースTSS](https://www.tss-tv.co.jp/tssnews/) - テレビ新広島
   - [Yahoo\!ニュース テレビ新広島](https://news.yahoo.co.jp/media/tssv)
 
-[Category:テレビ新広島番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート11:30 "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")
+[Category:テレビ新広島の番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート11:30 "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")
 
 1.

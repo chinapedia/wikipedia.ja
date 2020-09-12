@@ -41,6 +41,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ 番組基本情報](http://www.fujitv.co.jp/b_hp/satmidch/)
+  - [フジテレビ 番組基本情報](https://www.fujitv.co.jp/b_hp/satmidch/)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:IVSテレビ制作](https://ja.wikipedia.org/wiki/Category:IVSテレビ制作 "wikilink")

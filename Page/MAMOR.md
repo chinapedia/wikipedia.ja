@@ -13,20 +13,20 @@
 
 ## 特徴
 
-防衛省は休刊した広報誌『[セキュリタリアン](../Page/セキュリタリアン.md "wikilink")』（[財団法人](../Page/財団法人.md "wikilink")防衛弘済会発刊）の後継として扱っており、編集協力をしている。自衛隊や防衛問題について、一般国民の関心・理解を深めてもらうことを目指しているのは従来と同じだが、本誌は出版社に構成や編集を任せることで、より親しみやすい情報発信を行うこととした。なお『セキュリタリアン』自体も「読まれる広報誌」を目指した誌面づくりを目指していたが\[10\]、。
+防衛省は休刊した広報誌『[セキュリタリアン](../Page/セキュリタリアン.md "wikilink")』（[財団法人](../Page/財団法人.md "wikilink")防衛弘済会発刊）の後継として扱っており、編集協力をしている。。
 
 ### 編集方針
 
-創刊当初から軍事マニアではなく一般向けを意識しており、コラムなども「メジャー感」を出すため自衛隊とは関係のない者に依頼している\[11\]。またこれまでの広報誌は特殊な装備の紹介や防衛政策などに記事が多かったが、MAMORでは[自衛官](../Page/自衛官.md "wikilink")に焦点を当てている\[12\]。
+創刊当初から軍事マニアではなく一般向けを意識しており、コラムなども「メジャー感」を出すため自衛隊とは関係のない者に依頼している\[10\]。またこれまでの広報誌は特殊な装備の紹介や防衛政策などに記事が多かったが、MAMORでは[自衛官](../Page/自衛官.md "wikilink")に焦点を当てている\[11\]。
 
-あくまで広報が目的であり、志願者募集などのリクルート活動は目的としていない\[13\]。
+あくまで広報が目的であり、志願者募集などのリクルート活動は目的としていない\[12\]。
 
 ### 特徴的な企画
 
-  - 一般読者向けの企画としてはこの他好きな装備のアンケートがあり、1位は[90式戦車](../Page/90式戦車.md "wikilink")だった\[14\]。
-  - [2009年](../Page/2009年.md "wikilink")8月号では現役自衛官へのアンケート調査結果を公開し、「生まれ変わっても自衛官になりますか?」という設問に回答者の7割が「ならない」と回答した。際どい内容であったため『[J-CAST](https://ja.wikipedia.org/wiki/J-CAST "wikilink")』でも取り上げられている。なお、理由としては社会的地位の低さを指摘する回答が多く、他になりたい職業としては医療職や警察官など公的で安定志向の職業が上位に入っている。[江畑謙介](../Page/江畑謙介.md "wikilink")はこの結果を「妥当」と評した\[15\]。
-  - 2009年11月号では編集部の発案で独身自衛官向けの[婚活](https://ja.wikipedia.org/wiki/婚活 "wikilink")企画を掲載した\[16\]。この企画の反響が大きかったため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月号から連載化された\[17\]。
-  - [2011年](../Page/2011年.md "wikilink")7月には[ファミリーマート](../Page/ファミリーマート.md "wikilink")とのコラボレーション企画で「オリジナル自衛隊グッズブランド」として[Tシャツ](../Page/Tシャツ.md "wikilink")を発売した\[18\]。翌8月には第2弾企画としてオリジナルミリタリーバッグを発売した\[19\]。
+  - 一般読者向けの企画としてはこの他好きな装備のアンケートがあり、1位は[90式戦車](../Page/90式戦車.md "wikilink")だった\[13\]。
+  - [2009年](../Page/2009年.md "wikilink")8月号では現役自衛官へのアンケート調査結果を公開し、「生まれ変わっても自衛官になりますか?」という設問に回答者の7割が「ならない」と回答した。際どい内容であったため『[J-CAST](https://ja.wikipedia.org/wiki/J-CAST "wikilink")』でも取り上げられている。なお、理由としては社会的地位の低さを指摘する回答が多く、他になりたい職業としては医療職や警察官など公的で安定志向の職業が上位に入っている。[江畑謙介](../Page/江畑謙介.md "wikilink")はこの結果を「妥当」と評した\[14\]。
+  - 2009年11月号では編集部の発案で独身自衛官向けの[婚活](https://ja.wikipedia.org/wiki/婚活 "wikilink")企画を掲載した\[15\]。この企画の反響が大きかったため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月号から連載化された\[16\]。
+  - [2011年](../Page/2011年.md "wikilink")7月には[ファミリーマート](../Page/ファミリーマート.md "wikilink")とのコラボレーション企画で「オリジナル自衛隊グッズブランド」として[Tシャツ](../Page/Tシャツ.md "wikilink")を発売した\[17\]。翌8月には第2弾企画としてオリジナルミリタリーバッグを発売した\[18\]。
 
 ## 主な内容
 
@@ -34,7 +34,7 @@
     当初は自衛隊の装備だけを映していたが、後に[カバーガール](https://ja.wikipedia.org/wiki/カバーガール "wikilink")“防人たちの女神”に変更した。
   - Monthly Venus [防人たちの女神](https://ja.wikipedia.org/wiki/#歴代「防人たちの女神」一覧 "wikilink")
     創刊準備号から続いている巻頭グラビア。[女性アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")（後述のように例外あり）が[自衛官](../Page/自衛官.md "wikilink")の制服を着用し、自衛隊の施設で装備品と共に撮影。表紙は常に[敬礼をするポーズ](https://ja.wikipedia.org/wiki/敬礼#自衛隊礼式 "wikilink")。
-    着用する制服の階級は[3尉](https://ja.wikipedia.org/wiki/3尉 "wikilink")に固定されているが、陸海空や職種、礼装や迷彩服などの種類は特集記事の内容と連動することもあり不定である\[20\]。
+    着用する制服の階級は[3尉](https://ja.wikipedia.org/wiki/3尉 "wikilink")に固定されているが、陸海空や職種、礼装や迷彩服などの種類は特集記事の内容と連動することもあり不定である\[19\]。
   - 特集
     今日の日本・国際社会が抱える防衛・安全保障問題、及び、それに対する防衛省・自衛隊の取り組みについての情報を、自衛隊員・軍事専門家のインタビュー・寄稿を交えて発信する。
   - ミリ・レポ
@@ -46,7 +46,7 @@
   - 隊員食堂
     旧陸・海軍のレシピを忠実に再現し、当時の雰囲気を舌で味わう、料理のコーナー。
   - マモルの[婚活](https://ja.wikipedia.org/wiki/婚活 "wikilink")
-    自衛官の婚活をテーマにした連載。実際に婚約が成立したケースもあるという\[21\]。男性だけでなく女性自衛官も登場する\[22\]
+    自衛官の婚活をテーマにした連載。実際に婚約が成立したケースもあるという\[20\]。男性だけでなく女性自衛官も登場する\[21\]
   - Gallery Arms
     自衛隊の装備品をカラー写真で紹介。
   - 技本レポート
@@ -54,7 +54,7 @@
   - MONTHLY GEAR
     軍用衣料から生まれたファッションアイテムを紹介。
   - 佐久間かつえ写真館　―女性自衛官を訪ねて―
-    写真家の[佐久間かつえ](https://ja.wikipedia.org/wiki/佐久間かつえ "wikilink")\[23\]\[24\]が、女性自衛官を取材（2007年6月号〜）。
+    写真家の[佐久間かつえ](https://ja.wikipedia.org/wiki/佐久間かつえ "wikilink")\[22\]\[23\]が、女性自衛官を取材（2007年6月号〜）。
   - おしえてじえい隊\!
     自衛隊はいつ、どんな目的でつくられたか、自衛官の階級、自衛隊への入隊、自衛官の生活について等、自衛官への直接質問による、Q\&Aコーナー。
   - 新東方見聞録
@@ -99,14 +99,14 @@
   - 2008年
       - [小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")（1月号）
       - [矢吹春奈](https://ja.wikipedia.org/wiki/矢吹春奈 "wikilink")（2月号）
-      - [ほしのあき](../Page/ほしのあき.md "wikilink")（3月号）\[25\]
+      - [ほしのあき](../Page/ほしのあき.md "wikilink")（3月号）\[24\]
       - [岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")（4月号）
       - [松本若菜](../Page/松本若菜.md "wikilink")（5月号）
       - [川村ゆきえ](../Page/川村ゆきえ.md "wikilink")（6月号）
       - [和希沙也](https://ja.wikipedia.org/wiki/和希沙也 "wikilink")（7月号）
       - [里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")（8月号）
       - [山崎真実](https://ja.wikipedia.org/wiki/山崎真実 "wikilink")（9月号）
-      - [徳重聡](../Page/徳重聡.md "wikilink")（10月号）\[26\]
+      - [徳重聡](../Page/徳重聡.md "wikilink")（10月号）\[25\]
       - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")（11月号）
       - [小阪由佳](https://ja.wikipedia.org/wiki/小阪由佳 "wikilink")（12月号）
 
@@ -270,7 +270,7 @@
 \* 2019年
 
   -   - [小宮有紗](https://ja.wikipedia.org/wiki/小宮有紗 "wikilink")（1月号）
-      - [ガーリー・エアフォース](https://ja.wikipedia.org/wiki/ガーリー・エアフォース "wikilink")（2月号）\[27\]\[28\]
+      - [ガーリー・エアフォース](https://ja.wikipedia.org/wiki/ガーリー・エアフォース "wikilink")（2月号）\[26\]\[27\]
       - [岡崎紗絵](https://ja.wikipedia.org/wiki/岡崎紗絵 "wikilink")（3月号）
       - [長谷川眞優](https://ja.wikipedia.org/wiki/長谷川眞優 "wikilink")（4月号）
       - [華村あすか](https://ja.wikipedia.org/wiki/華村あすか "wikilink")（5月号）
@@ -290,7 +290,7 @@
       - [鈴木奈々](https://ja.wikipedia.org/wiki/鈴木奈々 "wikilink")（3月号）
       - [福田愛依](https://ja.wikipedia.org/wiki/福田愛依 "wikilink")（4月号）
       - [水原ゆか](https://ja.wikipedia.org/wiki/水原ゆか "wikilink")（5月号）
-      - [バービー](https://ja.wikipedia.org/wiki/バービー_\(お笑い芸人\) "wikilink")＆[村上佳菜子](https://ja.wikipedia.org/wiki/村上佳菜子 "wikilink")（6月号）\[29\]
+      - [バービー](https://ja.wikipedia.org/wiki/バービー_\(お笑い芸人\) "wikilink")＆[村上佳菜子](https://ja.wikipedia.org/wiki/村上佳菜子 "wikilink")（6月号）\[28\]
 
 ## 脚注
 
@@ -304,7 +304,7 @@
 ## 外部リンク
 
   - [MAMOR](http://www.fusosha.co.jp/mamor/) - 扶桑社の公式サイト
-  - [MAMOR（情報誌）](http://www.mod.go.jp/j/publication/kohoshiryo/mamor/index.html) - 防衛省による紹介
+  - [MAMOR（情報誌）](https://www.mod.go.jp/j/publication/kohoshiryo/mamor/index.html) - 防衛省による紹介
       - [編集者プロフィール](http://www.mod.go.jp/j/publication/kohoshiryo/mamor/prof.html#hentonasatoru) - 編集スタッフの紹介
 
 [Category:日本の月刊誌](https://ja.wikipedia.org/wiki/Category:日本の月刊誌 "wikilink") [Category:軍事関連の雑誌](https://ja.wikipedia.org/wiki/Category:軍事関連の雑誌 "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:自衛隊の広報](https://ja.wikipedia.org/wiki/Category:自衛隊の広報 "wikilink") [Category:防衛省](https://ja.wikipedia.org/wiki/Category:防衛省 "wikilink") [Category:扶桑社](https://ja.wikipedia.org/wiki/Category:扶桑社 "wikilink")
@@ -318,23 +318,22 @@
 7.
 8.
 9.
-10. 「防衛庁が広報誌を一新」 『[読売新聞](../Page/読売新聞.md "wikilink")』 [1992年](../Page/1992年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")東京朝刊2面
+10.
 11.
 12.
-13.
-14. [好きな自衛隊の装備品は?-防衛省編集協力誌で結果発表](http://ichigaya.keizai.biz/headline/576/) 『市谷経済新聞』 [2009年](../Page/2009年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")
-15. [自衛官「懲り懲り」が7割 日本の防衛、大ピンチ?](http://www.j-cast.com/2009/06/26044134.html) 『[J-CAST](https://ja.wikipedia.org/wiki/J-CAST "wikilink")』 2009年[6月26日](../Page/6月26日.md "wikilink")20時8分配信
-16. 「[防衛省公認、自衛官「婚活」企画-雑誌「マモル」で誌上展開](http://ichigaya.keizai.biz/headline/636/)」『市谷経済新聞』 2009年[7月23日](../Page/7月23日.md "wikilink")
-17.
-18. 「[防衛省オフィシャルマガジン「MAMOR」とコラボレーション\!「MAMOR×専守防衛」オリジナルTシャツ予約受付開始\!](https://prtimes.jp/main/html/rd/p/000000073.000002217.html)」 『株式会社ファミマ・ドット・コム』（現[UFI FUTECH](https://ja.wikipedia.org/wiki/UFI_FUTECH "wikilink")） [2011年](../Page/2011年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")リリース
-19. 「[防衛省オフィシャルマガジン「MAMOR」とのコラボレーション第2弾\!「MAMOR×専守防衛」オリジナルミリタリーバッグ予約受付開始\!](https://prtimes.jp/main/html/rd/p/000000077.000002217.html)」 [UFI FUTECH](https://ja.wikipedia.org/wiki/UFI_FUTECH "wikilink") 2011年[8月19日](../Page/8月19日.md "wikilink")11時5分配信
-20. AKB48の3人の場合は本省大臣官房勤務という設定で2尉だった
+13. [好きな自衛隊の装備品は?-防衛省編集協力誌で結果発表](http://ichigaya.keizai.biz/headline/576/) 『市谷経済新聞』 [2009年](../Page/2009年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")
+14. [自衛官「懲り懲り」が7割 日本の防衛、大ピンチ?](http://www.j-cast.com/2009/06/26044134.html) 『[J-CAST](https://ja.wikipedia.org/wiki/J-CAST "wikilink")』 2009年[6月26日](../Page/6月26日.md "wikilink")20時8分配信
+15. 「[防衛省公認、自衛官「婚活」企画-雑誌「マモル」で誌上展開](http://ichigaya.keizai.biz/headline/636/)」『市谷経済新聞』 2009年[7月23日](../Page/7月23日.md "wikilink")
+16.
+17. 「[防衛省オフィシャルマガジン「MAMOR」とコラボレーション\!「MAMOR×専守防衛」オリジナルTシャツ予約受付開始\!](https://prtimes.jp/main/html/rd/p/000000073.000002217.html)」 『株式会社ファミマ・ドット・コム』（現[UFI FUTECH](https://ja.wikipedia.org/wiki/UFI_FUTECH "wikilink")） [2011年](../Page/2011年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")リリース
+18. 「[防衛省オフィシャルマガジン「MAMOR」とのコラボレーション第2弾\!「MAMOR×専守防衛」オリジナルミリタリーバッグ予約受付開始\!](https://prtimes.jp/main/html/rd/p/000000077.000002217.html)」 [UFI FUTECH](https://ja.wikipedia.org/wiki/UFI_FUTECH "wikilink") 2011年[8月19日](../Page/8月19日.md "wikilink")11時5分配信
+19. AKB48の3人の場合は本省大臣官房勤務という設定で2尉だった
+20.
 21.
-22.
-23. [略歴 ―写真家　佐久間かつえ―](http://sky.geocities.jp/photokatsue/history.html)
-24. [「女性自衛官の写真展・・」・・新潟出身の写真家・佐久間かつえさん](http://www.kumamoto-keizai.co.jp/content/asp/dejikame/dejikame_detail.asp?PageID=20&Knum=8875&PageType=list) くまもと経済新聞2007年7月18日
-25. 今号より表紙と連動する。
-26. 創刊以来、唯一の男性起用例
-27.
-28. 表紙はアニメ「ガーリー・エアフォース」のグリペンとイーグル。「防人たちの女神」コーナーは休止され、担当声優である[森嶋優花](https://ja.wikipedia.org/wiki/森嶋優花 "wikilink")と[大和田仁美](https://ja.wikipedia.org/wiki/大和田仁美 "wikilink")の対談を掲載。
-29. [FOD](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")『[バービー&村上佳菜子の編集長私、イイ女になりたいの。](https://ja.wikipedia.org/wiki/バービー&村上佳菜子の編集長私、イイ女になりたいの。 "wikilink")』との[タイアップ](../Page/タイアップ.md "wikilink")。
+22. [略歴 ―写真家　佐久間かつえ―](http://sky.geocities.jp/photokatsue/history.html)
+23. [「女性自衛官の写真展・・」・・新潟出身の写真家・佐久間かつえさん](http://www.kumamoto-keizai.co.jp/content/asp/dejikame/dejikame_detail.asp?PageID=20&Knum=8875&PageType=list) くまもと経済新聞2007年7月18日
+24. 今号より表紙と連動する。
+25. 創刊以来、唯一の男性起用例
+26.
+27. 表紙はアニメ「ガーリー・エアフォース」のグリペンとイーグル。「防人たちの女神」コーナーは休止され、担当声優である[森嶋優花](https://ja.wikipedia.org/wiki/森嶋優花 "wikilink")と[大和田仁美](https://ja.wikipedia.org/wiki/大和田仁美 "wikilink")の対談を掲載。
+28. [FOD](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")『[バービー&村上佳菜子の編集長私、イイ女になりたいの。](https://ja.wikipedia.org/wiki/バービー&村上佳菜子の編集長私、イイ女になりたいの。 "wikilink")』との[タイアップ](../Page/タイアップ.md "wikilink")。

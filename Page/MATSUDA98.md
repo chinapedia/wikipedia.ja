@@ -18,7 +18,7 @@
   - 『〜優駿乙女〜 サラブレドール』原作：[あかほりさとる](../Page/あかほりさとる.md "wikilink")、漫画：伊藤大育 [月刊コンプエース](../Page/月刊コンプエース.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）連載 キャラクター原案
   - 『[鉄道むすめ Memory〜](https://ja.wikipedia.org/wiki/鉄道むすめ "wikilink")〜Terminal』 原案：[トミーテック](../Page/トミーテック.md "wikilink")、ストーリー協力：明科実祐 [月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")（メディアワークス）連載
   - 『[パパのいうことを聞きなさい\!](https://ja.wikipedia.org/wiki/パパのいうことを聞きなさい! "wikilink")〜うさぎのまぁく〜』 原作：[松智洋](https://ja.wikipedia.org/wiki/松智洋 "wikilink") [Cobalt](../Page/Cobalt_\(雑誌\).md "wikilink")（[集英社](../Page/集英社.md "wikilink")）連載
-  - 『未満アイドル、ハジメます。』 [@vitamin](https://ja.wikipedia.org/wiki/ComicWalker "wikilink")([KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink"))連載
+  - 『未満アイドル、ハジメます。』 [@vitamin](https://ja.wikipedia.org/wiki/@vitamin "wikilink")([KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink"))連載
 
 #### 読切
 

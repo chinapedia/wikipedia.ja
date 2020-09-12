@@ -32,6 +32,6 @@
   - [Rebellion Official Site](http://www.rebellion.co.uk/)
   - [*Miami Vice: The Game* at IMDB](http://www.imdb.com/title/tt0829477/)
 
-[Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:マイアミを舞台とした作品](https://ja.wikipedia.org/wiki/Category:マイアミを舞台とした作品 "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink")
+[Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:マイアミを舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:マイアミを舞台としたコンピュータゲーム "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink")
 
 1.  [ファミ通.comの紹介ページ](http://www.famitsu.com/game/coming/2006/06/30/104,1151673496,55932,0,0.html)

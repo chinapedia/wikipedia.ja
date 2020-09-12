@@ -1,7 +1,7 @@
 > この記事は[Janne Da Arc 10th Anniversary INDIES COMPLETE BOX](https://ja.wikipedia.org/wiki/Janne_Da_Arc_10th_Anniversary_INDIES_COMPLETE_BOX)から翻訳されています。
 
 
-『**Janne Da Arc 10th Anniversary INDIES COMPLETE BOX**』（ジャンヌダルクテンスアニバーサリーインディーズコンプリートボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ボックス・セット](../Page/ボックス・セット.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")（[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")）。
+『**Janne Da Arc 10th Anniversary INDIES COMPLETE BOX**』（ジャンヌダルク・テンス・アニバーサリー・インディーズ・コンプリート・ボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[motorodから発売した](https://ja.wikipedia.org/wiki/avex_trax#レーベル "wikilink")[ボックスセットである](https://ja.wikipedia.org/wiki/ボックス・セット#CD-BOX "wikilink")。
 
 ## 内容
 

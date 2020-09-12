@@ -1,13 +1,11 @@
 > この記事は[Yasu](https://ja.wikipedia.org/wiki/Yasu)から翻訳されています。
 
 
-**yasu**（ヤス、本名：林 保徳（はやし やすのり）、[1975年](../Page/1975年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャンで](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・**[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")**の元[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")でリーダー。ソロプロジェクト名は**[Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")**。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長は165cm。
-
-[Janne Da Arcの楽曲の多くの作詞](../Page/Janne_Da_Arc.md "wikilink")・作曲を手がけるほか、他のメンバー作曲のものに詞をつけることも多い。自身のソロプロジェクトである[Acid Black Cherryでは](../Page/Acid_Black_Cherry.md "wikilink")、全ての楽曲を作詞・作曲・編曲・セルフプロデュースしている。
+**yasu**（ヤス、[1975年](../Page/1975年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。本名は**林保徳**。[Janne Da Arcの元メンバーで](../Page/Janne_Da_Arc.md "wikilink")、[ソロプロジェクト](../Page/一人バンド.md "wikilink")・[Acid Black Cherryのメンバー](../Page/Acid_Black_Cherry.md "wikilink")。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はアップライズ・プロダクト。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 人物
 
-漫画が大好きな少年であったが、中学3年生の頃に[BOØWYのライブ映像を見たことがきっかけで音楽に目覚め](../Page/BOOWY.md "wikilink")\[1\]、直後にyou、ka-yuと[X JAPANのコピーバンド](../Page/X_JAPAN.md "wikilink")**『結膜炎』**を結成。以来youとはずっと同じバンドで活動している（ka-yuはこのバンドから一時脱退するも、その後呼び戻された）。その後、高校時代に[DEAD ENDの音楽に触れ](../Page/DEAD_END_\(バンド\).md "wikilink")、自身の目指す音楽性が分かったという。[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")とは高校時代に出会い、当時kiyoが組んでいたバンドと殴り合いの喧嘩をして、yasuが引き抜いてメンバーとなった。当時のkiyoについて「当然その時は下手だったんだけど、こいつとだったらメジャーデビュー出来ると思っていた」と語っている。そのためkiyoが何も告げずに脱退しようとした時のことは「腹は立ったけどkiyoは必要だった」と語っている。脱退しようとしていたジャズが好きなkiyoを引き止める為に、ジャズ調の楽曲「Lady」を作った。
+漫画が大好きな少年であったが、中学3年生の頃に[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のライブ映像を見たことがきっかけで音楽に目覚め\[1\]、直後にyou、ka-yuと[X JAPANのコピーバンド](../Page/X_JAPAN.md "wikilink")**『結膜炎』**を結成。以来youとはずっと同じバンドで活動している（ka-yuはこのバンドから一時脱退するも、その後呼び戻された）。その後、高校時代に[DEAD ENDの音楽に触れ](../Page/DEAD_END_\(バンド\).md "wikilink")、自身の目指す音楽性が分かったという。[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")とは高校時代に出会い、当時kiyoが組んでいたバンドと殴り合いの喧嘩をして、yasuが引き抜いてメンバーとなった。当時のkiyoについて「当然その時は下手だったんだけど、こいつとだったらメジャーデビュー出来ると思っていた」と語っている。そのためkiyoが何も告げずに脱退しようとした時のことは「腹は立ったけどkiyoは必要だった」と語っている。脱退しようとしていたジャズが好きなkiyoを引き止める為に、ジャズ調の楽曲「Lady」を作った。
 
 2009年9月、声帯のう胞を発症。年末に手術を受けている。同じく10年前に[Janne Da Arcで活動していた時も同じ手術を受けている](../Page/Janne_Da_Arc.md "wikilink")。ノドを酷使するライブツアー中はライブ中以外大声を出したり騒いだりしないように気を使っている。
 
@@ -29,13 +27,13 @@
 
 中学時代、[漫画家](../Page/漫画家.md "wikilink")になる夢があり、自作の漫画に音楽をつけたり学校に原稿を持ってきて描いていた（絵は[鳥山明](../Page/鳥山明.md "wikilink")風）。Janne Da Arcで上京後、実家に原稿をベッドの下に入れていたが、部屋を掃除した母親が一緒にしまってあったJanne Da Arcの昔のデモテープごと全て捨ててしまい、帰宅した際異変に気付いて母親を問い質した事でそれを知り、激怒した。
 
-## その他の活動
+## 提供楽曲
 
-  - 2003年に小説「ANOTHER STORY」を著作。2万5千部の売り上げを記録した。
-  - 「R-指定」、「Glorious Night」の曲を[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")に楽曲提供。
-  - [jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")のアルバム『[ROSES](../Page/ROSES.md "wikilink")』に収録されている「D.D.D」にゲストボーカルとして参加。
-  - [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")のアルバム『[ARTISAN OF PLEASURE](../Page/ARTISAN_OF_PLEASURE.md "wikilink")』に収録されている「tears」にゲストボーカルとして参加。
-  - ラジオ番組『[ネプチューンのallnightnippon SUPER\!](https://ja.wikipedia.org/wiki/ネプチューンのallnightnippon_SUPER! "wikilink")』に「[Stop it love](https://ja.wikipedia.org/wiki/Stop_it_love "wikilink")」を楽曲提供。番組にyouと共に出演した際に、アナウンサーやタレントを目指す人達を育てるコーナーに提供したが、企画がお蔵入りして楽曲もお蔵入りしてしまった。後に2012年、[Acid Black Cherryの](../Page/Acid_Black_Cherry.md "wikilink")15thシングル「[イエス](https://ja.wikipedia.org/wiki/イエス_\(Acid_Black_Cherryの曲\) "wikilink")」のカップリングに「Recreation Track」としてセルフカバーして初音源化が実現した。
+  -   -
+  - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")
+
+      - [R-指定](https://ja.wikipedia.org/wiki/R-指定 "wikilink")（作曲）
+      - [Glorious Night](https://ja.wikipedia.org/wiki/REBORN_\(相川七瀬のアルバム\) "wikilink")（共作詞・作曲）
 
 ## 交友関係
 

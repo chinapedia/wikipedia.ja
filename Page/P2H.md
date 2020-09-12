@@ -6,6 +6,7 @@
 ## メンバー
 
   - 児島亮介（こじまりょうすけ、[1979年](../Page/1979年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - ）ボーカル・ギター。[千葉県](../Page/千葉県.md "wikilink")出身
+      - 解散後は2009年10月まで「[KELUN](../Page/KELUN.md "wikilink")」として活動。現在は「INSIDE ME」として活動中。
   - 椎名洋輔（しいなようすけ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）ギター。千葉県出身
   - 酒井勇也（さかいゆうや、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）ベース。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")出身
   - ハゼ（大宮洋介、[1979年](../Page/1979年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") - ）ドラム。千葉県出身

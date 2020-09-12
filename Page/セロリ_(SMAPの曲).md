@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 表題曲は、[草彅剛主演のドラマ](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")『[いいひと。](../Page/いいひと。.md "wikilink")』主題歌に起用された。草彅主演のドラマにSMAPの楽曲が使われるのは初めてのことである。
+  - 表題曲は、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")主演のドラマ『[いいひと。](../Page/いいひと。.md "wikilink")』主題歌に起用された。草彅主演のドラマにSMAPの楽曲が使われるのは初めてのことである。
 
 <!-- end list -->
 

@@ -27,7 +27,7 @@
 
 ## 脚注
 
-[Category:フリーペーパー](https://ja.wikipedia.org/wiki/Category:フリーペーパー "wikilink") [Category:パチンコ・パチスロ情報誌](https://ja.wikipedia.org/wiki/Category:パチンコ・パチスロ情報誌 "wikilink")
+[Category:フリーペーパー](https://ja.wikipedia.org/wiki/Category:フリーペーパー "wikilink") [Category:パチンコ・パチスロ情報誌](https://ja.wikipedia.org/wiki/Category:パチンコ・パチスロ情報誌 "wikilink") [Category:日本の雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の雑誌_\(休廃刊\) "wikilink")
 
 1.  [ぱっちGuu　フリーペーパー・ナビ　2011年8月1日](http://www.freepapernavi.jp/index.cgi?mode=cup&n=500)
 2.  [「ぱっちGuu」の収録(取材)リポート てつやんの日記～ブログ～　2013年10月1日](http://ameblo.jp/tetsuyan-2/entry-11625576190.html)

@@ -14,7 +14,7 @@
 ## 登場人物
 
   - 岩崎 圭介（いわさき けいすけ）
-    演：[沖田浩之](../Page/沖田浩之.md "wikilink")、[声](../Page/声優.md "wikilink")：[堀内賢雄](../Page/堀内賢雄.md "wikilink")
+    演：[沖田浩之](../Page/沖田浩之.md "wikilink")、[速水健二](https://ja.wikipedia.org/wiki/速水健二 "wikilink")、[声](../Page/声優.md "wikilink")：[堀内賢雄](../Page/堀内賢雄.md "wikilink")
     本編の主人公、レイプマン。表の職業は、女子高・私立桃園学園の実直そうな青年[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")で、それなりに生徒にも人気がある。しかしレイプ稼業のための覆面を着用すると、人格が豹変する。[巨人ファン](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")（第6巻『Target5 千恵美』より）。
     性技の達人で、レイプに際しては相手に快楽を与えることを重要視している。拘束具として手錠を、口封じのために粘着シート・粘着テープを用いるが、その裏側に手錠の鍵を秘めておく優しさも持ち合わせている。レイプのプロであることに誇りを持っており、商売敵やプロの名を汚す者には容赦しない。本職が教育者であるせいか、しばしばターゲットに説教をすることもある。
     ビルを素手でよじ登る驚異的な身体能力、長ドスで襲撃してくるヤクザ集団を素手で撃退する戦闘能力、[読唇術](../Page/読唇術.md "wikilink")などの特殊技能を持つが、どこでそれらを体得したのかは不明。
@@ -26,6 +26,7 @@
 
 ## オリジナルビデオ
 
+  - THE レイプマン　狙われた女達（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、監督：[実相寺昭雄](../Page/実相寺昭雄.md "wikilink")、[北浦嗣己](https://ja.wikipedia.org/wiki/北浦嗣己 "wikilink")、[服部光則](https://ja.wikipedia.org/wiki/服部光則 "wikilink")）
   - THE レイプマン（[1993年](../Page/1993年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")公開、監督：[長石多可男](../Page/長石多可男.md "wikilink")、脚本：古庄淳）
   - THE レイプマン2（[1994年](../Page/1994年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")公開、監督：長石多可男、脚本：古庄淳）
   - THE レイプマン3（1994年3月11日公開、監督：長石多可男、脚本：古庄淳）
@@ -108,7 +109,7 @@
   - [長石多可男](../Page/長石多可男.md "wikilink")
   - [実相寺昭雄](../Page/実相寺昭雄.md "wikilink") - 円谷映像、コダイグループ制作の第2話「竜子」を演出。
 
-[Category:漫画作品](https://ja.wikipedia.org/wiki/Category:漫画作品 "wikilink") [Category:リイドコミック](https://ja.wikipedia.org/wiki/Category:リイドコミック "wikilink") [Category:成人向け漫画](https://ja.wikipedia.org/wiki/Category:成人向け漫画 "wikilink") [Category:レイプを題材とした漫画](https://ja.wikipedia.org/wiki/Category:レイプを題材とした漫画 "wikilink") [Category:レイプを題材とした作品](https://ja.wikipedia.org/wiki/Category:レイプを題材とした作品 "wikilink") [Category:アニメ作品_れ](https://ja.wikipedia.org/wiki/Category:アニメ作品_れ "wikilink") [Category:1994年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:1994年の成人向けOVA "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:教師を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:教師を主人公としたアニメ作品 "wikilink") [Category:教師を主人公とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:教師を主人公とした映画・オリジナルビデオ "wikilink")
+[Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:リイドコミック](https://ja.wikipedia.org/wiki/Category:リイドコミック "wikilink") [Category:成人向け漫画](https://ja.wikipedia.org/wiki/Category:成人向け漫画 "wikilink") [Category:レイプを題材とした漫画](https://ja.wikipedia.org/wiki/Category:レイプを題材とした漫画 "wikilink") [Category:レイプを題材とした作品](https://ja.wikipedia.org/wiki/Category:レイプを題材とした作品 "wikilink") [Category:アニメ作品_れ](https://ja.wikipedia.org/wiki/Category:アニメ作品_れ "wikilink") [Category:1994年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:1994年の成人向けOVA "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:教師を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:教師を主人公としたアニメ作品 "wikilink") [Category:教師を主人公とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:教師を主人公とした映画・オリジナルビデオ "wikilink")
 
 1.
 2.

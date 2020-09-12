@@ -30,7 +30,7 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞：[森浩美](../Page/森浩美.md "wikilink")、作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")、編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
-      - V6 5thアルバム「"HAPPY" Coming Century, 20th Century forever」収録曲
+      - 5thアルバム「"HAPPY" Coming Century, 20th Century forever」収録曲（V6）
 3.  **[Knock me Real](../Page/ROAD_\(20th_Centuryのアルバム\).md "wikilink")**
       -
         作詞：[山田ひろし](../Page/山田ひろし.md "wikilink")、作曲：[浅田直](https://ja.wikipedia.org/wiki/浅田直 "wikilink")、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
@@ -40,7 +40,7 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞・作曲・編曲：[石井妥師](../Page/石井妥師.md "wikilink")
     <!-- end list -->
-      - V6 3rdアルバム「A JACK IN THE BOX」収録曲
+      - 3rdアルバム「A JACK IN THE BOX」収録曲（V6）
 5.  **[ジンクス](../Page/ROAD_\(20th_Centuryのアルバム\).md "wikilink")**
       -
         作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、編曲：[新井理生](https://ja.wikipedia.org/wiki/新井理生 "wikilink")・[高良勝治](https://ja.wikipedia.org/wiki/高良勝治 "wikilink")
@@ -55,7 +55,7 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞・作曲：[山上ジュン](https://ja.wikipedia.org/wiki/山上ジュン "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
-      - V6 4thアルバム「"LUCKY" 20th Century, Coming Century to be continued...」収録曲
+      - 4thアルバム「"LUCKY" 20th Century, Coming Century to be continued...」収録曲（V6）
 8.  **[Working Man](../Page/!_-attention-.md "wikilink")**
       -
         作詞：[20th Century](../Page/V6_\(グループ\).md "wikilink")、作曲：[KEN\&SIN](https://ja.wikipedia.org/wiki/KEN&SIN "wikilink")、編曲：[米光亮](../Page/米光亮.md "wikilink")
@@ -65,12 +65,12 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞：[土生京子](https://ja.wikipedia.org/wiki/土生京子 "wikilink")、作曲・編曲：[日高智](https://ja.wikipedia.org/wiki/日高智 "wikilink")（[GTS](https://ja.wikipedia.org/wiki/GTS "wikilink")）
     <!-- end list -->
-      - V6 1stミニアルバム「GREETING」収録曲
+      - 1stミニアルバム「GREETING」収録曲（V6）
 10. **[OPEN THE GATE](../Page/Believe_Your_Smile.md "wikilink")**
       -
         作詞：[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")、作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")・[小西貴雄](../Page/小西貴雄.md "wikilink")、編曲：小西貴雄
     <!-- end list -->
-      - V6 12thシングル「Believe Your Smile」カップリング
+      - 12thシングル「Believe Your Smile」カップリング（V6）
 11. **[Take it easy](../Page/Precious_Love_\(20th_Centuryの曲\).md "wikilink")**※
       -
         作詞・作曲・編曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、Brass Arrangement：[金子隆博](../Page/金子隆博.md "wikilink")
@@ -80,7 +80,7 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞：[小林和子](https://ja.wikipedia.org/wiki/小林和子 "wikilink")、作曲：[Eddy Blues](../Page/織田哲郎.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
     <!-- end list -->
-      - V6 2ndアルバム「NATURE RHYTHM」収録曲
+      - 2ndアルバム「NATURE RHYTHM」収録曲（V6）
 13. **[WISHES 〜I'll be there〜](https://ja.wikipedia.org/wiki/WISHES〜I'll_be_there〜/You'll_Be_in_My_Heart "wikilink")**
       -
         作詞・作曲・編曲：[小幡英之](../Page/小幡英之.md "wikilink")
@@ -118,17 +118,17 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞：[mavie](https://ja.wikipedia.org/wiki/mavie "wikilink")、作曲：[森広隆](../Page/森広隆.md "wikilink")、編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")
     <!-- end list -->
-      - V6 22ndシングル「メジルシの記憶」カップリング
+      - 22ndシングル「メジルシの記憶」カップリング（V6）
 7.  **[お前がいる](../Page/SUPER_HEROES_\(V6のアルバム\).md "wikilink")** - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
       -
         作詞・作曲：[SION](../Page/SION.md "wikilink")、編曲：[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")
     <!-- end list -->
-      - V6 2ndミニアルバム「SUPER HEROES」収録曲
+      - 2ndミニアルバム「SUPER HEROES」収録曲（V6）
 8.  **[days -tears of the world-](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")**
       -
         作詞・作曲・編曲：浅田直
     <!-- end list -->
-      - V6 7thアルバム「seVen」収録曲
+      - 7thアルバム「seVen」収録曲（V6）
 9.  **[Traveler](../Page/ROAD_\(20th_Centuryのアルバム\).md "wikilink")**
       -
         作詞：[谷亜ヒロコ](https://ja.wikipedia.org/wiki/谷亜ヒロコ "wikilink")、作曲：[谷本新](https://ja.wikipedia.org/wiki/谷本新 "wikilink")、編曲：CHOKKAKU
@@ -138,7 +138,7 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞・作曲：[片岡大志](../Page/片岡大志.md "wikilink")、編曲：[冬野竜彦](https://ja.wikipedia.org/wiki/冬野竜彦 "wikilink")
     <!-- end list -->
-      - V6 1stミニアルバム収録曲
+      - 1stミニアルバム収録曲（V6）
 11. **[Going Back 2 R・e・a・l](../Page/ROAD_\(20th_Centuryのアルバム\).md "wikilink")**
       -
         作詞[MOTOMY](https://ja.wikipedia.org/wiki/MOTOMY "wikilink")、作曲・編曲：[ZAKI](https://ja.wikipedia.org/wiki/ZAKI "wikilink")
@@ -148,12 +148,12 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       -
         作詞：六ツ見純代、作曲：浅田直、編曲 石塚知生
     <!-- end list -->
-      - V6 6thアルバム「Volume 6」収録曲
+      - 6thアルバム「Volume 6」収録曲（V6）
 13. **[光り射す場所へ](../Page/Darling_\(V6の曲\).md "wikilink")**※
       -
         作詞：[柚木美祐](https://ja.wikipedia.org/wiki/柚木美祐 "wikilink")、作曲：[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink")、編曲：CHOKKAKU
     <!-- end list -->
-      - V6 23rdシングル「Darling」カップリング
+      - 23rdシングル「Darling」カップリング（V6）
 
 ### 通常盤
 
@@ -176,13 +176,13 @@ CD二枚組のスペシャル盤と、通常盤の二種類が発売された。
       - 2ndアルバム収録曲
     <!-- end list -->
       -
-        表記はないが、一部カットされている。
+        表記はないが、ベストアルバムバージョンである。
 10. クロール
 11. **[Lookin’ The World](../Page/SUPER_HEROES_\(V6のアルバム\).md "wikilink")** - 長野博
       -
         作詞・作曲：[DJ KOO](../Page/DJ_KOO.md "wikilink")、編曲：[west 87](https://ja.wikipedia.org/wiki/west_87 "wikilink")
     <!-- end list -->
-      - V6 2ndミニアルバム収録曲
+      - 2ndミニアルバム収録曲（V6）
 12. Lonely Holy Night
 13. 光り射す場所へ
 14. WISHES 〜I'll be there〜

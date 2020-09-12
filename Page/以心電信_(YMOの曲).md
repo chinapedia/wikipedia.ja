@@ -30,6 +30,6 @@
 
 ## 脚注
 
-[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:細野晴臣が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣が作詞作曲した楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:高橋幸宏が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が作詞作曲した楽曲 "wikilink") [Category:ピーター・バラカンが作詞した楽曲](https://ja.wikipedia.org/wiki/Category:ピーター・バラカンが作詞した楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:細野晴臣が制作した楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣が制作した楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:高橋幸宏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が制作した楽曲 "wikilink") [Category:ピーター・バラカンが作詞した楽曲](https://ja.wikipedia.org/wiki/Category:ピーター・バラカンが作詞した楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.  [1979年](../Page/1979年.md "wikilink")国際児童年キャンペーンソングとして使用された「[ビューティフル・ネーム](../Page/ビューティフル・ネーム.md "wikilink")」と比較して

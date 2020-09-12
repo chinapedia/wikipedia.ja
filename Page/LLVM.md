@@ -1,7 +1,7 @@
 > この記事は[LLVM](https://ja.wikipedia.org/wiki/LLVM)から翻訳されています。
 
 
-**LLVM**とは、コンパイル時、[リンク時](../Page/リンケージエディタ.md "wikilink")、実行時などあらゆる時点でプログラムを最適化するよう設計された、任意の[プログラミング言語](../Page/プログラミング言語.md "wikilink")に対応可能な[コンパイラ](../Page/コンパイラ.md "wikilink")基盤である。当初は、LLVMの名称の由来は、Low Level Virtual Machine (低水準[仮想機械](../Page/仮想機械.md "wikilink")) の[略であるとしていたが](../Page/頭字語.md "wikilink")\[1\]、現在は、何の頭文字でもないとしている\[2\]。
+**LLVM**（エルエルヴィーエム、 またはエルエルブイエム）とは、コンパイル時、[リンク時](../Page/リンケージエディタ.md "wikilink")、実行時などあらゆる時点でプログラムを最適化するよう設計された、任意の[プログラミング言語](../Page/プログラミング言語.md "wikilink")に対応可能な[コンパイラ](../Page/コンパイラ.md "wikilink")基盤である。当初は、LLVMの名称の由来は、Low Level Virtual Machine (低水準[仮想機械](../Page/仮想機械.md "wikilink")) の[略であるとしていたが](../Page/頭字語.md "wikilink")\[1\]、現在は、何の頭文字でもないとしている\[2\]。
 
 ## 概要
 

@@ -63,6 +63,6 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.universal-music.co.jp/wish/)
+  - [公式サイト](https://www.universal-music.co.jp/wish/)
 
 [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink")

@@ -49,7 +49,7 @@
       - 32ndシングルのアルバムバージョン
 11. **愛の灯 〜君とメリークリスマス〜**
       -
-        作詞:[ERIKO](../Page/北川悦吏子.md "wikilink") / 作曲:[堀込高樹](../Page/キリンジ.md "wikilink") / 編曲:[富田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")
+        作詞:[ERIKO](../Page/北川悦吏子.md "wikilink") / 作曲:[堀込高樹](../Page/キリンジ.md "wikilink") / 編曲:[冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")
 
 ## 関連項目
 

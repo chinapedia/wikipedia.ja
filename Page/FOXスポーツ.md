@@ -68,7 +68,6 @@
 <!-- end list -->
 
   - [パシフィック12カンファレンス](../Page/パシフィック12カンファレンス.md "wikilink")バスケットボール選手権（2014年以降偶数年にて2022年まで放送、奇数年はESPNで放送)
-  - [FOX USGA](../Page/全米ゴルフ協会.md "wikilink")（2015年-2026年、[全米オープン](../Page/全米オープン_\(ゴルフ\).md "wikilink")、[全米女子オープン](../Page/全米女子オープン.md "wikilink")などの主要大会）
   - [FOX PBA](../Page/全米プロボウラーズ協会.md "wikilink")
 
 ### 過去に放送されていた番組
@@ -77,6 +76,7 @@
   - [NFLヨーロッパ](../Page/NFLヨーロッパ.md "wikilink")（1997年 - 2005年、2006年から[NFLネットワーク](../Page/NFLネットワーク.md "wikilink")で放送）
   - [ボウル・チャンピオンシップ・シリーズ](https://ja.wikipedia.org/wiki/ボウル・チャンピオンシップ・シリーズ "wikilink")（[ローズボウル](../Page/ローズボウル.md "wikilink")を除く。[2007年](../Page/2007年.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")。2011年より[ESPN](../Page/ESPN.md "wikilink")で放送）
   - [F1](../Page/フォーミュラ1.md "wikilink")（[2007年](../Page/2007年.md "wikilink") - 2012年）
+  - [FOX USGA](../Page/全米ゴルフ協会.md "wikilink")（2015年-2019年、[全米オープン](../Page/全米オープン_\(ゴルフ\).md "wikilink")、[全米女子オープン](../Page/全米女子オープン.md "wikilink")などの主要大会）
 
 ## 米FOXのスポーツ専門チャンネル
 

@@ -327,7 +327,7 @@ Merienda（2000年～2004年）
 NANOPHONICA（1998年～2009年）
 
   - [Cicada](https://ja.wikipedia.org/wiki/Cicada "wikilink") (2002年)2016年にメジャーデビューした[CICADAとは異なる](https://ja.wikipedia.org/wiki/CICADA_\(日本のバンド\) "wikilink")。
-  - [DMBQ](../Page/DMBQ.md "wikilink") (1998年〜2002年)LESS THAN TV→NANOPHONICA→[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")→ツクモガミ
+  - [DMBQ](../Page/DMBQ.md "wikilink") (1998年〜2002年)[Less Than TV](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")→NANOPHONICA→[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")→ツクモガミ
   - [KIRIHITO](https://ja.wikipedia.org/wiki/KIRIHITO "wikilink") (2000年,2009年)
   - [ON OFF](https://ja.wikipedia.org/wiki/ON_OFF "wikilink") (1999年)
   - [POP-OFF TUESDAY](https://ja.wikipedia.org/wiki/POP-OFF_TUESDAY "wikilink") (1998年)

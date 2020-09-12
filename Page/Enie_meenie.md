@@ -288,7 +288,7 @@
 
   - [Loft-Project](http://www.loft-prj.co.jp/interview/0502/03.html)
 
-  - [enie meenie official blog](http://peacesign.exblog.jp/)(更新停止)
+  - [enie meenie official blog](https://peacesign.exblog.jp/)(更新停止)
 
   -
   -

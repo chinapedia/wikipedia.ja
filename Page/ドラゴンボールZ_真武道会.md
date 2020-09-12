@@ -153,7 +153,7 @@ PlayStation Porable初の『[ドラゴンボール](https://ja.wikipedia.org/wik
 
 ## 外部リンク
 
-  - [『ドラゴンボールZ 真武道会』バンダイ公式](http://www.bandaigames.channel.or.jp/list/psp_dbz/)
+  -
   - [『ドラゴンボールZ 真武道会』ディンプス公式](http://www.dimps.co.jp/dbz_psp/)
 
 [Category:対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:対戦型格闘ゲーム "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ディンプスのゲームソフト](https://ja.wikipedia.org/wiki/Category:ディンプスのゲームソフト "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink")

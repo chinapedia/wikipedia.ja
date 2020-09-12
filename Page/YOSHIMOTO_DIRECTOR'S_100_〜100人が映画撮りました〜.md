@@ -215,7 +215,7 @@
 <td><p>はりせ<br />
 山田ナビスコ</p></td>
 <td><p>ヒデ（ペナルティ）</p></td>
-<td><p>レギュラー、西野亮廣（<a href="../Page/キングコング_(お笑いコンビ).md" title="wikilink">キングコング</a>）、林克治（<a href="../Page/カリカ_(お笑いコンビ).md" title="wikilink">カリカ</a>）、近藤春菜（ハリセンボン）、<a href="../Page/馬場裕之.md" title="wikilink">馬場裕之</a>（<a href="../Page/ロバート_(お笑いトリオ).md" title="wikilink">ロバート</a>）、<a href="../Page/チャド・マレーン.md" title="wikilink">チャド・マレーン</a>（ジパング上陸作戦）、<a href="../Page/ですよ。.md" title="wikilink">ですよ。</a>、<a href="https://ja.wikipedia.org/wiki/シソンヌ" title="wikilink">シソンヌ</a>、<a href="../Page/斉藤慎二.md" title="wikilink">斉藤慎二</a>（<a href="../Page/ジャングルポケット_(お笑いトリオ).md" title="wikilink">ジャングルポケット</a>）、<a href="../Page/藤森慎吾.md" title="wikilink">藤森慎吾</a>（オリエンタルラジオ）、<a href="https://ja.wikipedia.org/wiki/アイパー滝沢" title="wikilink">アイパー滝沢</a>（<a href="../Page/えんにち.md" title="wikilink">えんにち</a>）、<a href="../Page/川田広樹.md" title="wikilink">川田広樹</a>（<a href="../Page/ガレッジセール.md" title="wikilink">ガレッジセール</a>）、<a href="https://ja.wikipedia.org/wiki/ワッキー" title="wikilink">ワッキー</a>（ペナルティ）</p></td>
+<td><p>レギュラー、西野亮廣（<a href="../Page/キングコング_(お笑いコンビ).md" title="wikilink">キングコング</a>）、林克治（<a href="../Page/カリカ_(お笑いコンビ).md" title="wikilink">カリカ</a>）、近藤春菜（ハリセンボン）、<a href="../Page/馬場裕之.md" title="wikilink">馬場裕之</a>（<a href="../Page/ロバート_(お笑いトリオ).md" title="wikilink">ロバート</a>）、<a href="../Page/チャド・マレーン.md" title="wikilink">チャド・マレーン</a>（ジパング上陸作戦）、<a href="../Page/ですよ。.md" title="wikilink">ですよ。</a>、<a href="https://ja.wikipedia.org/wiki/シソンヌ_(お笑いコンビ)" title="wikilink">シソンヌ</a>、<a href="../Page/斉藤慎二.md" title="wikilink">斉藤慎二</a>（<a href="../Page/ジャングルポケット_(お笑いトリオ).md" title="wikilink">ジャングルポケット</a>）、<a href="../Page/藤森慎吾.md" title="wikilink">藤森慎吾</a>（オリエンタルラジオ）、<a href="https://ja.wikipedia.org/wiki/アイパー滝沢" title="wikilink">アイパー滝沢</a>（<a href="../Page/えんにち.md" title="wikilink">えんにち</a>）、<a href="../Page/川田広樹.md" title="wikilink">川田広樹</a>（<a href="../Page/ガレッジセール.md" title="wikilink">ガレッジセール</a>）、<a href="https://ja.wikipedia.org/wiki/ワッキー" title="wikilink">ワッキー</a>（ペナルティ）</p></td>
 </tr>
 <tr class="even">
 <td><p>デリバリー？</p></td>
@@ -898,7 +898,7 @@ OHRYS BIRD</p></td>
 <td><p><a href="../Page/諸岡立身.md" title="wikilink">諸岡立身</a><br />
 河本準一</p></td>
 <td><p>中井良</p></td>
-<td><p>河本準一、川島邦裕（野性爆弾）、<a href="../Page/水田芙美子.md" title="wikilink">水田芙美子</a>、<a href="https://ja.wikipedia.org/wiki/吉崎莉愛" title="wikilink">吉崎莉愛</a>、カラテカ、砂金秀明（<a href="../Page/オープンスペース.md" title="wikilink">オープンスペース</a>）、細野哲平（ありがとう）、大河原次郎（<a href="https://ja.wikipedia.org/wiki/シソンヌ" title="wikilink">シソンヌ</a>）、先川栄蔵（<a href="https://ja.wikipedia.org/wiki/キューティーブロンズ" title="wikilink">キューティーブロンズ</a>）、富所哲平（<a href="https://ja.wikipedia.org/wiki/アンカンミンカン" title="wikilink">アンカンミンカン</a>）</p></td>
+<td><p>河本準一、川島邦裕（野性爆弾）、<a href="../Page/水田芙美子.md" title="wikilink">水田芙美子</a>、<a href="https://ja.wikipedia.org/wiki/吉崎莉愛" title="wikilink">吉崎莉愛</a>、カラテカ、砂金秀明（<a href="../Page/オープンスペース.md" title="wikilink">オープンスペース</a>）、細野哲平（ありがとう）、大河原次郎（<a href="https://ja.wikipedia.org/wiki/シソンヌ_(お笑いコンビ)" title="wikilink">シソンヌ</a>）、先川栄蔵（<a href="https://ja.wikipedia.org/wiki/キューティーブロンズ" title="wikilink">キューティーブロンズ</a>）、富所哲平（<a href="https://ja.wikipedia.org/wiki/アンカンミンカン" title="wikilink">アンカンミンカン</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -909,7 +909,7 @@ OHRYS BIRD</p></td>
 <td><p>マッスル坂井<br />
 佐高美智代</p></td>
 <td><p><a href="../Page/村上ショージ.md" title="wikilink">村上ショージ</a></p></td>
-<td><p><a href="../Page/KINYA_(タレント).md" title="wikilink">KINYA</a>、<a href="../Page/杉本彩.md" title="wikilink">杉本彩</a>、<a href="../Page/川原ひろし.md" title="wikilink">川原ひろし</a>、<a href="../Page/今林久弥.md" title="wikilink">今林久弥</a>、<a href="https://ja.wikipedia.org/wiki/美月凛音" title="wikilink">美月凛音</a>、<a href="../Page/松野行秀.md" title="wikilink">ゴージャス松野</a>、<a href="../Page/平田敦子.md" title="wikilink">平田敦子</a>、<a href="https://ja.wikipedia.org/wiki/福田麻衣" title="wikilink">福田麻衣</a></p></td>
+<td><p><a href="../Page/KINYA_(タレント).md" title="wikilink">KINYA</a>、<a href="../Page/杉本彩.md" title="wikilink">杉本彩</a>、<a href="../Page/川原ひろし.md" title="wikilink">川原ひろし</a>、<a href="../Page/今林久弥.md" title="wikilink">今林久弥</a>、<a href="https://ja.wikipedia.org/wiki/美月凛音" title="wikilink">美月凛音</a>、<a href="https://ja.wikipedia.org/wiki/ゴージャス松野" title="wikilink">ゴージャス松野</a>、<a href="../Page/平田敦子.md" title="wikilink">平田敦子</a>、<a href="https://ja.wikipedia.org/wiki/福田麻衣" title="wikilink">福田麻衣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>指輪</p></td>

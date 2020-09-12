@@ -11,13 +11,13 @@
 
 ## 型式
 
-[2000年](../Page/2000年.md "wikilink")登場（欧州向けでの場合。ちなみに日本国内向けは[2002年](../Page/2002年.md "wikilink")に登場している）
+欧州向けとして[2000年](../Page/2000年.md "wikilink")に登場。日本国内向けは[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）。
 
-直噴式[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")
+[直噴式](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")
 
-[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")8バルブ（1気筒あたり2バルブ(吸気：1・排気：1)）
+[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")8バルブ（1気筒あたり吸気：1・排気：1の2バルブ）
 
-このエンジンでは[オイルフィルター](../Page/オイルフィルター.md "wikilink")の小型化が行われ、フィルター容量0.3Lというディーゼルエンジンとしては非常に小型のオイルフィルターが採用されている。部品的には、ガソリンエンジンの[2代目G型](../Page/トヨタ・G型エンジン_\(2代目\).md "wikilink")・[JZ型](../Page/トヨタ・JZエンジン.md "wikilink")・[RZ型](../Page/トヨタ・RZエンジン.md "wikilink")・[TZ型](../Page/トヨタ・TZエンジン.md "wikilink")・[VZ型と共通部品である](../Page/トヨタ・VZエンジン.md "wikilink")。このオイルフィルターの小型化は、[ハイエース](https://ja.wikipedia.org/wiki/トヨタ・ハイエース#5代目_H200系（2004年_-_現在） "wikilink")200系用の[KD型エンジン](../Page/トヨタ・KDエンジン.md "wikilink")（オイルフィルターは本エンジンと共通部品）でも行われた。
+このエンジンでは[オイルフィルター](../Page/オイルフィルター.md "wikilink")の小型化が行われ、フィルター容量0.3 Lというディーゼルエンジンとしては非常に小型のものが採用されている。これは、ガソリンエンジンの[2代目G型](../Page/トヨタ・G型エンジン_\(2代目\).md "wikilink")・[JZ型](../Page/トヨタ・JZエンジン.md "wikilink")・[RZ型](../Page/トヨタ・RZエンジン.md "wikilink")・[TZ型](../Page/トヨタ・TZエンジン.md "wikilink")・[VZ型と共通](../Page/トヨタ・VZエンジン.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")である。オイルフィルターの小型化は、[ハイエース](https://ja.wikipedia.org/wiki/トヨタ・ハイエース#5代目_H200系（2004年_-_現在） "wikilink")200系用の[KD型エンジン](../Page/トヨタ・KDエンジン.md "wikilink")（オイルフィルターは本エンジンと共通部品）でも行われた。
 
 ## バリエーション
 

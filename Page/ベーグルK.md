@@ -19,7 +19,7 @@
   - 天満橋店（大阪市[中央区](../Page/中央区_\(大阪市\).md "wikilink")、[京阪シティモール デリスタ内](../Page/京阪シティモール.md "wikilink")）
   - くずは店（[くずはモール](../Page/くずはモール.md "wikilink")内）
   - 東京駅店（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")八重洲[大丸](../Page/大丸.md "wikilink")東京店内）
-  - 日本橋店（東京都[中央区日本橋](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[高島屋](../Page/高島屋.md "wikilink")東京店内）
+  - 日本橋店（東京都[中央区日本橋](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")東京店内）
   - 二子玉川店（東京都[世田谷区](../Page/世田谷区.md "wikilink")、高島屋玉川店内）
   - 立川店（東京都[立川市](../Page/立川市.md "wikilink")、[伊勢丹](../Page/伊勢丹.md "wikilink")立川店内）
   - 相模原店（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")、伊勢丹相模原店内）
@@ -36,4 +36,4 @@
   - 2000年9月にはアメリカのビジネス誌である[Crain's](https://ja.wikipedia.org/wiki/Crain's "wikilink")誌がベーグルKの日本での展開を紹介した。
   - 2000年11月、アメリカの経済誌である[FORBESが創業者の](../Page/フォーブス_\(雑誌\).md "wikilink")[北村寛治](https://ja.wikipedia.org/wiki/北村寛治 "wikilink")を取り上げ、ニューヨークのベーグルを日本で広めたと報道した。FORBES誌は北村について「No one makes a Bagel like a New Yorker」と述べている。
 
-[Category:日本の卸売企業](https://ja.wikipedia.org/wiki/Category:日本の卸売企業 "wikilink") [Category:日本の外食事業者](https://ja.wikipedia.org/wiki/Category:日本の外食事業者 "wikilink") [Category:都島区の企業](https://ja.wikipedia.org/wiki/Category:都島区の企業 "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")
+[Category:日本の食品卸売業者](https://ja.wikipedia.org/wiki/Category:日本の食品卸売業者 "wikilink") [Category:日本の外食事業者](https://ja.wikipedia.org/wiki/Category:日本の外食事業者 "wikilink") [Category:都島区の企業](https://ja.wikipedia.org/wiki/Category:都島区の企業 "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")

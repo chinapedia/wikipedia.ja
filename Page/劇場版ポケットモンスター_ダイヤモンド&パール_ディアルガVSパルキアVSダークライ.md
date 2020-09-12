@@ -329,7 +329,7 @@
 ## 外部リンク
 
   - [2007年映画紹介ページ（ポケモン公式サイト）](https://www.pokemon.co.jp/anime/movie/2007/)
-  - [Pokémon: The Rise of Darkrai | Pokemon.com](https://www.pokemon.com/uk/pokemon-episodes/pokemon-movies/pokemon-the-rise-of-darkrai-2008)
+  - [Pokémon: The Rise of Darkrai | Pokemon.com](https://www.pokemon.com/us/pokemon-episodes/pokemon-movies/pokemon-the-rise-of-darkrai-2008)
 
 [Category:劇場版ポケットモンスター](https://ja.wikipedia.org/wiki/Category:劇場版ポケットモンスター "wikilink") [Category:2007年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2007年のアニメ映画 "wikilink") [Category:メディアファクトリーのアニメ映画](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 

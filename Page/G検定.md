@@ -7,11 +7,11 @@
 
 ピアソンのカイ二乗検定統計量は
 
-\(\chi^2 = \sum_{i} {(O_i - E_i)^2 \over E_i}\)
+\[\chi^2 = \sum_{i} {(O_i - E_i)^2 \over E_i}\]
 
 ここで O<sub>i</sub> は分割表の各マス目における出現頻度、Eは[帰無仮説](https://ja.wikipedia.org/wiki/帰無仮説 "wikilink")で期待される頻度で、すべてのマス目を合計する。それに対応する*G* は
 
-\(G = 2\sum_{i} {O_i \cdot \ln(O_i/E_i) }\)
+\[G = 2\sum_{i} {O_i \cdot \ln(O_i/E_i) }\]
 
 観察された頻度が、ある期待される頻度をもつ分布から抽出した[無作為](https://ja.wikipedia.org/wiki/無作為 "wikilink")[標本にもとづくものであるという帰無仮説を立てれば](../Page/標本_\(統計学\).md "wikilink")、*G* の分布はカイ二乗（[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")は同じ）で近似される。
 

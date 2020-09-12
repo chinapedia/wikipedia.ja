@@ -1,7 +1,7 @@
 > この記事は[MBM \(ビルメンテナンス会社\)](https://ja.wikipedia.org/wiki/MBM_\(ビルメンテナンス会社\))から翻訳されています。
 
 
-**株式会社MBM**（エムビーエム、英：MBM Co.,Ltd）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[美浜に本社を置く](https://ja.wikipedia.org/wiki/美浜_\(浦安市\) "wikilink")[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループ・[京成グループ](../Page/京成グループ.md "wikilink") の企業の一つである。旧称・**舞浜ビルメンテナンス**。
+**株式会社MBM**（エムビーエム、英：MBM Co.,Ltd）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[美浜に本社を置く](https://ja.wikipedia.org/wiki/美浜_\(浦安市\) "wikilink")[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループ・[京成グループ](../Page/京成グループ.md "wikilink")の[ビルメン事業者である](../Page/建築物管理.md "wikilink")。旧称・**舞浜ビルメンテナンス**。
 
 主に親会社であるOLCから[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")（TDR）内の警備・清掃・施設管理業務の一部を受託している。[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")（TDL）、[東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")（TDS）の両[ディズニーパーク](../Page/ディズニーパーク.md "wikilink")内の夜間清掃（ナイトカストーディアル）のほか、OLC本社区域の警備、TDRの外周警備、TDRの閉園中警備（グレーブヤード・パトロール）を行っていることで知られている。またTDR内ホテルで、ハウスキーピング業務、リネン類の集配業務（ランナー）等を行っている。
 

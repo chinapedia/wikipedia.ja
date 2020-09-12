@@ -38,7 +38,7 @@
 
   - 城島由紀：[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")
   - 滝田丈一郎：[永澤俊矢](../Page/永澤俊矢.md "wikilink")
-  - 沢島隆：[清水紘治](../Page/清水紘治.md "wikilink")
+  - 沢島隆：[清水綋治](https://ja.wikipedia.org/wiki/清水綋治 "wikilink")
   - ペンギン：[野村祐人](../Page/野村祐人.md "wikilink")
   - 鏑木達哉：[松山鷹志](../Page/松山鷹志.md "wikilink")
   - 小久保冴子：[高橋しゅり](https://ja.wikipedia.org/wiki/高橋しゅり "wikilink")

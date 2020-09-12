@@ -45,7 +45,7 @@
       - VERBALは「[Till Morning Comes](https://ja.wikipedia.org/wiki/affection "wikilink")」以来5年ぶりに倖田來未とコラボレーション。
   - Picture Perfect Love
       - [スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink") [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink") エンディングテーマ
-      - MONKEY MAJIK＋m-floのシングル「Picture Perfect」（2007年）のm-floバージョン。シングルよりもBPMが速くタテノリの曲となっている。
+      - MONKEY MAJIK＋m-floのシングル「[Picture Perfect](https://ja.wikipedia.org/wiki/Picture_Perfect "wikilink")」（2007年）のm-floバージョン。シングルよりもBPMが速くタテノリの曲となっている。
   - Music Monopoly
       - [クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")が出演。
   - she loves the CREAM

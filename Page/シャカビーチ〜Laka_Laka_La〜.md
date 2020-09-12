@@ -22,13 +22,13 @@
 1.  **シャカビーチ〜Laka Laka La〜**
     :\***<small>作詞:TAKUYA∞　/　作曲:UVERworld　/　編曲:UVERworld , [平出悟](https://ja.wikipedia.org/wiki/平出悟 "wikilink")</small>**
       -
-        UVERworldでは珍しくサンバ調のリズムが含まれている曲である。PVではファンクラブから募集したエキストラ80人と撮影。撮影時間は、約18時間と最長となった。PVの撮影場所は、由比ガ浜と横須賀である。バーの演奏では、倉庫を利用している。Laka Laka La（ラカラカラ）と歌詞で言っている所は実際は「Laka Laka Love」（ラカラカラブ）と歌っている。最後の無音部分に聞こえる場所の音量をあげると裏歌詞が入っている。この曲は、真太郎をイメージして作曲したとインタビューでTAKUYA∞は語っている。「シャカビーチ」のシャカはハワイの挨拶であると同時に英語の混ぜる「シェイク」からも来ており、ビーチを「揺らせ」という意味もある。
+        UVERworldでは珍しく[サンバ調のリズムが含まれている曲である](../Page/サンバ_\(ブラジル\).md "wikilink")。PVではファンクラブから募集したエキストラ80人と撮影。撮影時間は、約18時間と最長となった。PVの撮影場所は、[由比ガ浜](https://ja.wikipedia.org/wiki/由比ガ浜 "wikilink")と[横須賀である](../Page/横須賀市.md "wikilink")。バーの演奏では、倉庫を利用している。Laka Laka La（ラカラカラ）と歌詞で言っている所は実際は「Laka Laka Love」（ラカラカラブ）と歌っている。最後の無音部分に聞こえる場所の音量をあげると裏歌詞が入っている。この曲は、真太郎をイメージして作曲したとインタビューでTAKUYA∞は語っている。「シャカビーチ」のシャカは[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")の挨拶であると同時に英語の混ぜる「シェイク」からも来ており、ビーチを「揺らせ」という意味もある。
         雑誌のインタビューでTAKUYA∞は、「UVERworldのファンは低年齢層が多いから、シャカビーチ以上の過激な歌詞は書かない」と語っている。
         仮タイトルは「samba」
 2.  **Rainy**
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
-        冒頭のピアノはTAKUYA∞自身が弾いており、TAKUYA∞自らピアノの伴奏をするのは、4thシングル「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「一人じゃないから」（2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』にも収録）以来2度目である。また、TAKUYA∞はUVER家のTVで「冒頭のピアノは適当に弾いているから、また弾けといわれても弾けない」と語っている。
+        冒頭の[ピアノ](../Page/ピアノ.md "wikilink")はTAKUYA∞自身が弾いており、TAKUYA∞自らピアノの伴奏をするのは、4thシングル「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「一人じゃないから」（2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』にも収録）以来2度目である。また、TAKUYA∞はUVER家のTVで「冒頭のピアノは適当に弾いているから、また弾けといわれても弾けない」と語っている。
 3.  **sorrow\[file named “moment”\]**
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:TAKUYA∞</small>**
       -

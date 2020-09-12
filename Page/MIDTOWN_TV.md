@@ -22,8 +22,8 @@
       - 「[月刊SS501](../Page/月刊SS501.md "wikilink")」MC：[SS501](../Page/SS501.md "wikilink")（2007年11月5日 - 2008年）
       - 「月刊PARAN」MC：[PARAN](https://ja.wikipedia.org/wiki/PARAN "wikilink")（2007年12月3日 - 2008年）
   - 「[アジアンビューティーボーイズ](https://ja.wikipedia.org/wiki/アジアンビューティーボーイズ "wikilink")」（2008年1月7日 - 2008年）
-      - [FT Island](https://ja.wikipedia.org/wiki/FT_Island "wikilink")（2008年1月7日 - 2008年）
-      - [BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")（2008年2月11日 - 2008年）
+      - [FTISLAND](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")（2008年1月7日 - 2008年）
+      - [BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")（2008年2月11日 - 2008年）
 
 ### 火曜日
 
@@ -59,7 +59,7 @@
 
 ## スタッフ・ディレクター
 
-  - 総合演出　望月真喜　
+  - 総合演出　望月真喜
   - ディレクター　望月真喜　中島大輔　中原大輔　武井康一郎　草刈忠弘　他
   - プロデューサー　栗尾和真　吉田康子　鎌田敦子　福枡賢一　他
 

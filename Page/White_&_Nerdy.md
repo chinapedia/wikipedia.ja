@@ -1,7 +1,7 @@
 > この記事は[White \& Nerdy](https://ja.wikipedia.org/wiki/White_\&_Nerdy)から翻訳されています。
 
 
-**White & Nerdy**（ホワイト・アンド・ナーディ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[パロディ](../Page/パロディ.md "wikilink")音楽家[ウィアード・アル・ヤンコビック](https://ja.wikipedia.org/wiki/ウィアード・アル・ヤンコビック "wikilink")が発表した楽曲。ラッパーの[カミリオネア](../Page/カミリオネア.md "wikilink")の曲「Ridin'」の替え歌である。収録アルバムは『Straight Outta Lynwood』で、冒頭の第1曲に配置された。[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")にリリースされ、[Billboard Hot 100のトップ](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")10に入った。このアルバムの日本版は発売されていない。
+**White & Nerdy**（ホワイト・アンド・ナーディ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[パロディ](../Page/パロディ.md "wikilink")音楽家[ウィアード・アル・ヤンコビック](https://ja.wikipedia.org/wiki/ウィアード・アル・ヤンコビック "wikilink")が発表した楽曲。ラッパーの[カミリオネア](../Page/カミリオネア.md "wikilink")の曲「Ridin'」の替え歌である。収録アルバムは『Straight Outta Lynwood』で、冒頭の第1曲に配置された。[2006年](../Page/2006年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")にリリースされ、[Billboard Hot 100のトップ](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")10に入った。このアルバムの日本盤は発売されていない。
 
 ## 概要
 

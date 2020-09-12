@@ -33,9 +33,11 @@
 | [広島](../Page/広島県.md "wikilink")（[広](../Page/広島東洋カープ.md "wikilink")）                                                                                                                                                                                                                           | [RCC](../Page/RCCカープナイター.md "wikilink")                                                           |                                              |     |   |
 | [福岡](../Page/福岡県.md "wikilink")（[ソ](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）                                                                                                                                                                                                   | [RKB](../Page/RKBエキサイトホークス.md "wikilink")                                                         | [KBC](../Page/KBCホークスナイター.md "wikilink")     |     |   |
 
-<references group="*" />
-
 ## 脚注
+
+## 関連項目
+
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（BSNテレビ）
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:新潟放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:新潟放送のラジオ番組 "wikilink")
 

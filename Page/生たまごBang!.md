@@ -35,7 +35,7 @@
   - [近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink")（2018年4月 - ）
   - [森谷佳奈](https://ja.wikipedia.org/wiki/森谷佳奈 "wikilink")（☆、2019年4月 - ） - tabetterナレーション担当。2019年4月からMC。
   - [山田ちゃーはん](https://ja.wikipedia.org/wiki/山田ちゃーはん "wikilink") - 米子市出身。よしもとクリエイティブ・エージェンシー
-  - [三島遥香](https://ja.wikipedia.org/wiki/三島遥香 "wikilink") (2020年4月 - ) - 松江市出身。元[STU48](https://ja.wikipedia.org/wiki/STU48 "wikilink")のグループメンバー。
+  - [三島遥香](https://ja.wikipedia.org/wiki/三島遥香 "wikilink") (2020年4月 - ) - 松江市出身。元[STU48](https://ja.wikipedia.org/wiki/STU48 "wikilink")メンバー。
 
 #### ナレーション
 
@@ -77,7 +77,7 @@
 ### 現在
 
   - 特集
-  - あすメシ（2020年1月～）（担当：森田初実・中島早也佳）
+  - あすメシ（2020年1月～）（担当:中島早也佳）ナレーション（桑本みつよし）
 
 ### 過去
 

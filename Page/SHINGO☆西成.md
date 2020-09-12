@@ -6,7 +6,7 @@
 
 ## 来歴
 
-  - [1972年](../Page/1972年.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[釜ヶ崎](../Page/釜ヶ崎.md "wikilink")の三角公園近くの長屋で生まれ育つ。\[1\][大阪府立今宮高等学校](https://ja.wikipedia.org/wiki/大阪府立今宮高等学校 "wikilink")卒業。
+  - [1972年](../Page/1972年.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[釜ヶ崎](../Page/釜ヶ崎.md "wikilink")の三角公園近くの長屋で生まれ育つ\[1\]。[大阪府立今宮高等学校](https://ja.wikipedia.org/wiki/大阪府立今宮高等学校 "wikilink")卒業。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[天理大学](../Page/天理大学.md "wikilink")卒業を控えた同年に発生した[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")のボランティアを通して助け合いの大切さを感じたことにより、高齢者福祉施設に就職する。\[2\]
   - [1996年](../Page/1996年.md "wikilink")、ライブ活動を開始する。
   - [2002年](../Page/2002年.md "wikilink")、ラップへの情熱を捨て切れず、西成のおじさんの「人生を後悔するな」「今やりたいことをやれ」という言葉の後押しを受け施設を退職し、本格的にプロを目指す。\[3\]
@@ -607,7 +607,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
   - [公式ブログ](https://ameblo.jp/shingo-nishinari/)
   - [公式 Twitter](http://twitter.com/shingo_ghetto)
 
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:天理大学出身の人物](https://ja.wikipedia.org/wiki/Category:天理大学出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:天理大学出身の人物](https://ja.wikipedia.org/wiki/Category:天理大学出身の人物 "wikilink") [Category:西成区](https://ja.wikipedia.org/wiki/Category:西成区 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  2ndアルバム『I・N・G』内のライナーノーツ
 2.  日本経済新聞 夕刊 2012年4月20日付け

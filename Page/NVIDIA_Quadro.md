@@ -458,16 +458,24 @@ OpenGLアプリケーションに最適化されたシリーズ。GeForceシリ�
 
 #### GM107ベース
 
-  - Quadro K620
+  - **Quadro K620**
       - CUDAコア数364、メモリ２GB／128bit DDR3。
       - OpenGL 4.4、 DirectX 11(Shader Model 5.0) / DirectX 10.1
       - デュアルリンクDVI-I (×1)、DisplayPort 1.2 (×１)。
       - 消費電力は41W。DPI1.2対応でマルチストリームにより最大4画面
-  - Quadro K1200
+  - **Quadro K1200**
       - CUDAコア数512、メモリ4GB／128bit DDR5。
       - OpenGL 4.4、 DirectX 11(Shader Model 5.0)
       - MiniDisplayPort(×4)(ver.1.2対応)。
       - 消費電力は46W。
+  - **Quadro K2200**
+      - CUDAコア数640、メモリ4GB／128bit DDR5。
+      - OpenGL 4.5、 DirectX 11(Shader Model 5.0)
+      - DisplayPort(×2)(ver.1.2対応)、デュアルリンクDVI-I (×1)。
+      - 消費電力は68W。
+
+<!-- end list -->
+
   -
 ### GM2xxベース
 
@@ -678,13 +686,112 @@ Quadro4のノートPC向けシリーズ。
 
 [Turingアーキテクチャを採用することで](https://ja.wikipedia.org/wiki/:en:Turing_\(microarchitecture\) "wikilink")、リアルタイム レイ トレーシングに対応。\[67\][NVLink](https://ja.wikipedia.org/wiki/NVLink "wikilink")の接続には2つの同じGPUが必要です
 
-| 製品名                                | コア名(12nm) | コアクロック | コア数  | メモリ | [FLOPS](../Page/FLOPS.md "wikilink") | [NVLink](https://ja.wikipedia.org/wiki/NVLink "wikilink") | [VR](../Page/バーチャル・リアリティ.md "wikilink") | 消費電力        | 接続          | グラフィックAPI    |
-| ---------------------------------- | --------- | ------ | ---- | --- | ------------------------------------ | --------------------------------------------------------- | --------------------------------------- | ----------- | ----------- | ------------ |
-| [CUDA](../Page/CUDA.md "wikilink") | Tensor    | RT     |      | 容量  | バス幅                                  | 帯域                                                        | 単精度                                     | Tensor      | 帯域 (双方向)    | 対応           |
-| Quadro RTX 4000\[68\]\[69\]        |           |        | 2304 | 288 | 36                                   | GDDR6                                                     | 8GB                                     | 256bit      | 416GB/s     | 7.1 TFLOPS   |
-| Quadro RTX 5000\[70\]\[71\]        |           |        | 3072 | 384 | 48                                   | 16GB                                                      | 448GB/s                                 | 11.2 TFLOPS | 89.2 TFLOPS | 50GB/s       |
-| Quadro RTX 6000\[72\]\[73\]        |           |        | 4608 | 576 | 72                                   | 24GB                                                      | 384bit                                  | 672GB/s     | 16.3 TFLOPS | 130.5 TFLOPS |
-| Quadro RTX 8000\[74\]\[75\]        |           |        | 48GB | 4.6 | 1.1                                  |                                                           |                                         |             |             |              |
+<table>
+<caption>デスクトップワークステーション向け</caption>
+<thead>
+<tr class="header">
+<th><p>製品名</p></th>
+<th><p>コア名</p></th>
+<th><p>コアクロック base</p>
+<p>[boost]</p></th>
+<th><p>コア数</p></th>
+<th><p>メモリ</p></th>
+<th><p><a href="../Page/FLOPS.md" title="wikilink">FLOPS</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/NVLink" title="wikilink">NVLink</a></p></th>
+<th><p><a href="../Page/バーチャル・リアリティ.md" title="wikilink">VR</a></p></th>
+<th><p>消費電力</p></th>
+<th><p>接続</p></th>
+<th><p>グラフィックAPI</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>SM</p></td>
+<td><p><a href="../Page/CUDA.md" title="wikilink">CUDA</a></p></td>
+<td><p>Tensor</p></td>
+<td><p>RT</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Texture_mapping_unit" title="wikilink">TMU</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Render_output_unit" title="wikilink">ROP</a></p></td>
+<td><p>L1 [L2]</p></td>
+<td></td>
+<td><p>容量</p></td>
+<td><p>バス幅</p></td>
+<td><p>帯域</p></td>
+</tr>
+<tr class="even">
+<td><p>Quadro RTX 4000[68][69][70]</p></td>
+<td><p>TU104</p>
+<p>12nm</p></td>
+<td><p>1005</p>
+<p>[1545]</p>
+<p>MHz</p></td>
+<td><p>36</p></td>
+<td><p>2304</p></td>
+<td><p>288</p></td>
+<td><p>36</p></td>
+<td><p>144</p></td>
+<td><p>64</p></td>
+<td><p>64KB [4MB]</p></td>
+<td><p>GDDR6 13GHz</p></td>
+</tr>
+<tr class="odd">
+<td><p>Quadro RTX 5000[71][72][73]</p></td>
+<td><p>1620</p>
+<p>[1815]</p>
+<p>MHz</p></td>
+<td><p>48</p></td>
+<td><p>3072</p></td>
+<td><p>384</p></td>
+<td><p>48</p></td>
+<td><p>192</p></td>
+<td><p>64</p></td>
+<td><p>16GB</p></td>
+<td><p>448GB/s</p></td>
+<td><p>11.2 TFLOPS</p></td>
+</tr>
+<tr class="even">
+<td><p>Quadro RTX 6000[74][75][76]</p></td>
+<td><p>TU102</p>
+<p>12nm</p></td>
+<td><p>1440</p>
+<p>[1770]</p>
+<p>MHz</p></td>
+<td><p>72</p></td>
+<td><p>4608</p></td>
+<td><p>576</p></td>
+<td><p>72</p></td>
+<td><p>288</p></td>
+<td><p>96</p></td>
+<td><p>64KB [6MB</p></td>
+<td><p>GDDR6 14GHz</p></td>
+</tr>
+<tr class="odd">
+<td><p>Quadro RTX 8000[77][78][79]</p></td>
+<td><p>1395</p>
+<p>[1770]</p>
+<p>MHz</p></td>
+<td><p>48GB</p></td>
+<td><p>4.6</p></td>
+<td><p>1.1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+| 製品名                                | コア名 (12nm) | コアクロック | コア数  | メモリ | [FLOPS](../Page/FLOPS.md "wikilink") | [NVLink](https://ja.wikipedia.org/wiki/NVLink "wikilink") | [VR](../Page/バーチャル・リアリティ.md "wikilink") | 消費電力       | 接続          | グラフィックAPI   |
+| ---------------------------------- | ---------- | ------ | ---- | --- | ------------------------------------ | --------------------------------------------------------- | --------------------------------------- | ---------- | ----------- | ----------- |
+| [CUDA](../Page/CUDA.md "wikilink") | Tensor     | RT     |      | 容量  | バス幅                                  | 帯域                                                        | 単精度                                     | Tensor     | 帯域 (双方向)    | 対応          |
+| Quadro RTX 3000                    |            |        | 1920 | 240 | 30                                   | GDDR6                                                     | 6GB                                     | 192bit     | 336GB/s     | 5.4 TFLOPS  |
+| Quadro RTX 4000                    |            |        | 2560 | 320 | 40                                   | 8GB                                                       | 256bit                                  | 416GB/s    | 8 TFLOPS    | 63.9 TFLOPS |
+| Quadro RTX 5000                    |            |        | 3072 | 384 | 48                                   | 16GB                                                      | 448GB/s                                 | 9.4 TFLOPS | 75.2 TFLOPS |             |
+| Quadro RTX 6000                    |            |        | 4608 | 576 | 72                                   | 24GB                                                      | 384bit                                  | 672GB/s    | 14.9 TFLOPS | 119 TFLOPS  |
+
+　モバイルワークステーション向け\[80\]
 
 ## 脚注
 
@@ -770,9 +877,14 @@ Quadro4のノートPC向けシリーズ。
 67.
 68. <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/quadro-rtx-4000-data-sheet-us-nvidia-830682-r6-web.pdf>
 69. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/high_end_2/nvidia-quadro-rtx-4000/>
-70. <https://www.nvidia.com/content/dam/en-zz/ja/Solutions/design-visualization/productspage/quadro/quadro-desktop/quadro-rtx-5000-data-sheet-a4-704120-r4-JP.pdf>
-71. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/ultra_high_end_2/nvidia-quadro-rtx_5000/>
-72. <https://www.nvidia.com/content/dam/en-zz/ja/Solutions/design-visualization/productspage/quadro/quadro-desktop/quadro-rtx-6000-a4-nvidia-704093-r4-JP.pdf>
-73. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/ultra_high_end_2/nvidia-quadro-rtx-6000/>
-74. <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/quadro-rtx-8000-us-nvidia-946977-r1-web.pdf>
-75. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/ultra_high_end_2/nvidia-quadro-rtx-8000/>
+70. <https://www.techpowerup.com/gpu-specs/quadro-rtx-4000.c3336>
+71. <https://www.nvidia.com/content/dam/en-zz/ja/Solutions/design-visualization/productspage/quadro/quadro-desktop/quadro-rtx-5000-data-sheet-a4-704120-r4-JP.pdf>
+72. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/ultra_high_end_2/nvidia-quadro-rtx_5000/>
+73. <https://www.techpowerup.com/gpu-specs/quadro-rtx-5000.c3308>
+74. <https://www.nvidia.com/content/dam/en-zz/ja/Solutions/design-visualization/productspage/quadro/quadro-desktop/quadro-rtx-6000-a4-nvidia-704093-r4-JP.pdf>
+75. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/ultra_high_end_2/nvidia-quadro-rtx-6000/>
+76. <https://www.techpowerup.com/gpu-specs/quadro-rtx-6000.c3307>
+77. <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/quadro-rtx-8000-us-nvidia-946977-r1-web.pdf>
+78. <http://www.elsa-jp.co.jp/products/products-top/graphicsboard_pro/quadro/ultra_high_end_2/nvidia-quadro-rtx-8000/>
+79. <https://www.techpowerup.com/gpu-specs/quadro-rtx-8000.c3306>
+80. <https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/documents/quadro-rtx-mobile-line-card-us-nvidia-r7-web.pdf>

@@ -1,7 +1,7 @@
 > この記事は[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA)から翻訳されています。
 
 
-**HΛLNA**（ハルナ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。音楽ユニット[HΛL](../Page/HΛL.md "wikilink")の元ボーカリスト。本名は**浜田 春菜**（はまだ はるな）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**HΛLNA**（ハルナ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。音楽ユニット[HΛL](../Page/HΛL.md "wikilink")の元ボーカリスト。本名は**浜田 春菜**（はまだ はるな）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")出身。水瓶座、[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長153cm、B83・W58・H83。所属事務所[スーパースタープロモーション](https://ja.wikipedia.org/wiki/スーパースタープロモーション "wikilink")→[アクシヴ](https://ja.wikipedia.org/wiki/アクシヴ "wikilink")。
 
 ## 来歴
 
@@ -11,6 +11,16 @@
   - 2002年、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")のチャリティ企画「song+nation」で初のソロ楽曲「DO OVER AGAIN」を発表。
   - 2003年2月、HΛLのベストアルバムを発売後バンドを脱退し、芸能活動を休止。その後は一切の活動がなく、事実上の引退とみられる。
   - 2016年9月、活動当時のHΛL担当者の[Twitter投稿](https://twitter.com/takky1976/status/777606906336600064?s=20)にHΛLNAが登場する。
+
+## 出演
+
+テレビ
+
+  - [BIKINI](https://ja.wikipedia.org/wiki/BIKINI "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [金髪先生](../Page/金髪先生.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）
+  - [女子高校生ロマン](https://ja.wikipedia.org/wiki/女子高校生ロマン "wikilink")
+  - [グラビアの美少女](https://ja.wikipedia.org/wiki/グラビアの美少女 "wikilink")（[パーフェクトTV](https://ja.wikipedia.org/wiki/パーフェクトTV "wikilink")）
 
 ## ディスコグラフィ
 

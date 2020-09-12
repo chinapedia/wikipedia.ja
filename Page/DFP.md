@@ -3,7 +3,7 @@
 
 **DFP**(Digital Flat Panel Port)は、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")と[パソコンの間における信号伝送方式で](../Page/パーソナルコンピュータ.md "wikilink")、[デジタル](../Page/デジタル.md "wikilink")[インタフェース](../Page/インタフェース_\(情報技術\).md "wikilink")[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")のひとつである。
 
-DFPは、ATI、Compaq、Appleなどから成るDFPグループによって策定され、1999年3月に[VESA](../Page/VESA.md "wikilink")で正式に採用された。
+DFPは、[ATI](../Page/ATI_Technologies.md "wikilink")、[Compaq](../Page/コンパック.md "wikilink")、[Appleなどから成るDFPグループによって策定され](../Page/アップル_\(企業\).md "wikilink")、1999年3月に[VESA](../Page/VESA.md "wikilink")で正式に採用された。
 
 ## 概要
 

@@ -9,13 +9,14 @@
 
 この作品で取り上げられた航空機事故は次のとおり（各エピソードは上演順）：
 
-  - [アメリカン航空](../Page/アメリカン航空.md "wikilink")[1572便](https://ja.wikipedia.org/wiki/:w:American_Airlines_Flight_1572 "wikilink") [コネチカット州](../Page/コネチカット州.md "wikilink")イーストグランビー [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月12日](../Page/11月12日.md "wikilink")
+  - [コネチカット州](../Page/コネチカット州.md "wikilink")イーストグランビー [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月12日](../Page/11月12日.md "wikilink")
+
   - [アメリカン・イーグル航空](https://ja.wikipedia.org/wiki/アメリカン・イーグル航空 "wikilink")4184便 [インディアナ州](../Page/インディアナ州.md "wikilink")ローズローン [1994年](../Page/1994年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")
 
 <!-- end list -->
 
   -
-    →「[アメリカン・イーグル航空4184便墜落事故](https://ja.wikipedia.org/wiki/アメリカン・イーグル航空4184便墜落事故 "wikilink")」参照
+    →「[アメリカン・イーグル4184便墜落事故](https://ja.wikipedia.org/wiki/アメリカン・イーグル4184便墜落事故 "wikilink")」参照
 
 <!-- end list -->
 

@@ -57,6 +57,6 @@
 
 ## 外部リンク
 
-  - [mihimarhythm GT（ユニバーサルミュージック）](http://www.universal-music.co.jp/mihimaruGT/upch1364.html)
+  - [mihimarhythm GT（ユニバーサルミュージック）](https://store.universal-music.co.jp/product/upch1364/)
 
 [Category:Mihimaru_GTのアルバム](https://ja.wikipedia.org/wiki/Category:Mihimaru_GTのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")

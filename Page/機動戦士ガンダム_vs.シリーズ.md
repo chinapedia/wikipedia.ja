@@ -61,7 +61,7 @@
   - [機動戦士ガンダム エクストリームバーサス2](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス2 "wikilink")（[System BNA1](https://ja.wikipedia.org/wiki/System_BNA1 "wikilink")、2018年[10月30日](../Page/10月30日.md "wikilink")稼働開始）
     通称「エクバ2」「EXVS.2」など。システム基板がSystem BNA1に変更されたことによりグラフィックが従来のエクストリームバーサスシリーズよりも更に向上している。
     家庭用からシリーズに入ったユーザーのためにパッド型コントローラー搭載型筐体に変更されている。登場機体はアーケード版『マキシブーストON』からほぼ全ての機体\[3\]に加え、さらに本作からの登場となる機体が加わっている。
-    『[ガンダムビルドファイターズトライ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ "wikilink")』が初登場し、アップデートで『[SDガンダム外伝](../Page/SDガンダム外伝_ジークジオン編.md "wikilink")』、『[機動戦士ガンダムNT](https://ja.wikipedia.org/wiki/機動戦士ガンダムNT "wikilink")』が初登場した。
+    『[ガンダムビルドファイターズトライ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ "wikilink")』が初登場し、アップデートで『[SDガンダム外伝](../Page/SDガンダム外伝_ジークジオン編.md "wikilink")』、『[機動戦士ガンダムNT](https://ja.wikipedia.org/wiki/機動戦士ガンダムNT "wikilink")』、『[ガンダムビルドダイバーズ](https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズ "wikilink")』が初登場した。
 
 #### 架空の作品
 
@@ -122,7 +122,7 @@
     追加DLCとして『[MSV](../Page/モビルスーツバリエーション.md "wikilink")』が初参戦した。
   - [機動戦士ガンダム エクストリームバーサス フォース](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_フォース "wikilink")（[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、2015年12月23日発売）
     『エクストリームバーサス』シリーズとしては初の家庭用オリジナル作品として発売された。『[ガンダム Gのレコンギスタ](https://ja.wikipedia.org/wiki/ガンダム_Gのレコンギスタ "wikilink")』と『[機動戦士ガンダム 鉄血のオルフェンズ](https://ja.wikipedia.org/wiki/機動戦士ガンダム_鉄血のオルフェンズ "wikilink")』が初参戦した。
-  - [機動戦士ガンダム エクストリームバーサス マキシブースト ON](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト_ON "wikilink")（[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、2020年発売予定）
+  - [機動戦士ガンダム エクストリームバーサス マキシブースト ON](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス_マキシブースト_ON "wikilink")（[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、2020年7月30日）
     [ガンダムバーサス](https://ja.wikipedia.org/wiki/ガンダムバーサス "wikilink")から3年ぶりに発売されるPS4版のVSシリーズ2作目。エクストリームバーサス10周年記念作品。
 
 #### ガンダムバーサスシリーズ

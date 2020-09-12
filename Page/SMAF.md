@@ -26,7 +26,7 @@
   - PSMplayer - MIDI、WAVEサウンドをSMAFファイルに変換できる。
   - [MidRadio Player](https://ja.wikipedia.org/wiki/MidRadio_Player "wikilink") - MP3 WAV MIDIなどのファイルも再生できる。
   - [Wave Sound Decorator](https://ja.wikipedia.org/wiki/Wave_Sound_Decorator "wikilink") - WAV,AIFFファイルをSMAFファイルに変換できる。
-  - [FFmpeg](../Page/FFmpeg.md "wikilink") - Wave Sound Decorator等で変換されたSMAFファイルをMP3等に変換できるが、SMFのような演奏情報やMA-3以降のSMAFファイルにはバージョンN-77953-gcc83177では対応していない。(変換しようとすると、「MIDI like format found, unsupported」と表示され、変換できない。)
+  - [FFmpeg](../Page/FFmpeg.md "wikilink") - ADPCMストリームのみを持つ(SMFのような演奏情報をもたない)タイプのMA-2形式のSMAFファイルを入力とすることができる。SMFのような演奏情報でADPCMストリームを制御することがMA-3以降のSMAFファイルでは必須となっているため、MA-3以降のSMAFファイルには対応していない。また、SMAFファイルを出力することも可能だが、ファイル末尾のCRCチェックサムが出力されないなど不完全な実装となっており、携帯電話などで再生できないファイルが生成される。
 
 ## 関連項目
 

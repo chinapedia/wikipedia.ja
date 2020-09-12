@@ -30,27 +30,28 @@
 
 1.  **Love so sweet**
       -
-        作詞：SPIN / 作曲：[youth case](https://ja.wikipedia.org/wiki/youth_case "wikilink") / 編曲：Mugen
+        作詞：SPIN、作曲：[youth case](https://ja.wikipedia.org/wiki/youth_case "wikilink")、編曲：Mugen
     <!-- end list -->
       - [松本潤](../Page/松本潤.md "wikilink")出演 [TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
       - [キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」CMソング
+      - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")「5Gバーチャル大合唱」CMソング\[8\]
     <!-- end list -->
       -
-        この曲が嵐の[大ブレイクを決定づけ](../Page/流行.md "wikilink")、嵐のメジャー化の原点となった\[8\]。また、発売から時間が経っても人気曲の一つである\[9\]
+        この曲が嵐の[大ブレイクを決定づけ](../Page/流行.md "wikilink")、嵐のメジャー化の原点となった\[9\]。また、発売から時間が経っても人気曲の一つである\[10\]
         [GLAY](../Page/GLAY.md "wikilink")の[TERU](../Page/TERU.md "wikilink")が、嵐の楽曲の中で最も気に入っており、TERUと松本がカラオケバーで初めて会った際、この楽曲を一緒に歌った。2011年、GLAYのファンクラブ会員限定ライブ「[We Love Happy Swing](https://ja.wikipedia.org/wiki/HAPPY_SWING_15th_Anniversary_SPECIAL_LIVE_〜We_Love_Happy_Swing〜_in_MAKUHARI "wikilink")」で披露されたカヴァーは、その時に松本からの承諾を得ている。
 2.  **いつまでも**
       -
-        作詞：SPIN / Rap詞：[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink") / 作曲：[多田慎也](https://ja.wikipedia.org/wiki/多田慎也 "wikilink") / 編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")
+        作詞：SPIN、Rap詞：[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")、作曲：[多田慎也](https://ja.wikipedia.org/wiki/多田慎也 "wikilink")、編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")
     <!-- end list -->
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[まごまご嵐](https://ja.wikipedia.org/wiki/まごまご嵐 "wikilink")」エンディング・テーマ
 3.  **ファイトソング**
       -
-        作詞：嵐 / 作曲：[二宮和也](../Page/二宮和也.md "wikilink") / 編曲：北川吟
+        作詞：嵐、作曲：[二宮和也](../Page/二宮和也.md "wikilink")、編曲：北川吟
     <!-- end list -->
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[Gの嵐\!](../Page/Gの嵐!.md "wikilink")』公式応援歌
     <!-- end list -->
       -
-        原曲は二宮のソロ曲「楽園」\[10\]であり、自身のラジオ「[BAY STORM](../Page/BAY_STORM.md "wikilink")」で披露したこともある。
+        原曲は二宮のソロ曲「楽園」\[11\]であり、自身のラジオ「[BAY STORM](../Page/BAY_STORM.md "wikilink")」で披露したこともある。
         [2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売されたDVD「C×D×G no ARASHI\! Vol.2」の特典映像にPVのような映像が収録されている。
 
 ### 通常盤
@@ -75,7 +76,9 @@
 
 ### 概要
 
-「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」、「[One Love](../Page/One_Love_\(嵐の曲\).md "wikilink")」に続く、嵐の過去のシングル曲をリプロダクションする"Reborn"企画の第4弾。\[11\]
+「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」、「[One Love](../Page/One_Love_\(嵐の曲\).md "wikilink")」に続く、嵐の過去のシングル曲をリプロダクションする"Reborn"企画の第4弾である\[12\]。
+
+リリックビデオが配信日と同日に公開されている。メンバーカラーの車が走るポップでキュートな世界観で名曲を彩っている\[13\]。
 
 ### 楽曲
 
@@ -89,12 +92,15 @@
 
 ## 外部リンク
 
-  - [Johnny's netによる紹介ページ](../Page/ジャニーズ事務所.md "wikilink")
-      - [Love so sweet](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=138)
-      - [Love so sweet : Reborn](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=2329)
   - [J Stormによる紹介ページ](../Page/ジェイ・ストーム.md "wikilink")
       - [Love so sweet](https://www.j-storm.co.jp/arashi/discography/love-so-sweet)
       - [Love so sweet : Reborn](https://www.j-storm.co.jp/arashi/discography/love-sweet-reborn)
+
+<!-- end list -->
+
+  - [Johnny's netによる紹介ページ](../Page/ジャニーズ事務所.md "wikilink")
+      - [Love so sweet](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=138)
+      - [Love so sweet : Reborn](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=2329)
 
 [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:花より男子](https://ja.wikipedia.org/wiki/Category:花より男子 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
@@ -105,7 +111,9 @@
 5.
 6.
 7.  [第22回日本ゴールドディスク大賞](http://www.golddisc.jp/award/22/Prize_1.html#gd22_06) 日本ゴールドディスク大賞 2017年3月18日閲覧
-8.  『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』7月号、[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")、2015年、67頁3段目。
-9.  [嵐の人気曲ランキング](https://www.joysound.com/web/search/artist/6944/ranking) ジョイサウンド 2018年3月23日閲覧
-10. 11thアルバム『[Popcorn](https://ja.wikipedia.org/wiki/Popcorn "wikilink")』収録の[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")のソロ曲とは無関係である。
-11. [嵐のReborn企画第4弾は「Love so sweet」](https://natalie.mu/music/news/378525) 音楽ナタリー 2020年5月11日閲覧
+8.
+9.  『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』7月号、[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")、2015年、67頁3段目。
+10. [嵐の人気曲ランキング](https://www.joysound.com/web/search/artist/6944/ranking) ジョイサウンド 2018年3月23日閲覧
+11. 11thアルバム『[Popcorn](https://ja.wikipedia.org/wiki/Popcorn "wikilink")』収録の[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")のソロ曲とは無関係である。
+12.
+13.

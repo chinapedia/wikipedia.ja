@@ -14,7 +14,7 @@
 
 ## 収録曲
 
-全作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") & [亀田誠治](../Page/亀田誠治.md "wikilink")、弦編曲:亀田誠治 (\#9,12)
+全作詞・作曲:[草野正宗](../Page/草野マサムネ.md "wikilink") / 編曲:[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") & [亀田誠治](../Page/亀田誠治.md "wikilink")、弦編曲:亀田誠治 (\#9,12)
 
 1.  **僕のギター** (3:18)
       -
@@ -92,7 +92,7 @@ D Side
   - 草野マサムネ：Vocals, Guitars
   - 三輪テツヤ：Guitars
   - 田村明浩：Bass Guitar
-  - 崎山龍男：Drums, Percussion
+  - 﨑山龍男：Drums, Percussion
   - 植村花菜, 大橋卓弥 (スキマスイッチ)：Backing Vocal (3)
   - 亀田誠治：Programming (7.9.12), Glockenspiel (3)
   - 川瀬正人：Programming (11)

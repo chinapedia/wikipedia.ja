@@ -26,8 +26,4 @@
   - 2-4 PLAYERS GAME（2～4人用、DSダウンロードプレイ対応）
   - BALLOON TRIP（1人用）
 
-## 外部リンク
-
-[en:Balloon Fight\#Ports, sequels, and references](https://ja.wikipedia.org/wiki/en:Balloon_Fight#Ports,_sequels,_and_references "wikilink")
-
-[Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:ゼルダの伝説](https://ja.wikipedia.org/wiki/Category:ゼルダの伝説 "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink")
+[Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:ゼルダの伝説のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ゼルダの伝説のコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:風船を題材とした作品](https://ja.wikipedia.org/wiki/Category:風船を題材とした作品 "wikilink")

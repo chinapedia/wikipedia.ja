@@ -67,7 +67,7 @@
 <td><p>JOAB</p></td>
 <td><p>693kHz</p></td>
 <td><p>500kW</p></td>
-<td><p><a href="../Page/全国放送.md" title="wikilink">全国放送</a></p></td>
+<td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -77,7 +77,7 @@
 
 ### 概要
 
-  - パワーエレクトロニクスの進歩により、局用の大出力送信機のソリッドステート化が20世紀末頃から進んでいるが、当所は国内最大の大出力局であり、[真空管](../Page/真空管.md "wikilink")を使っていた\[5\]。しかし2009年、新中期経営計画に盛り込まれた放送施設の[温室効果ガス](../Page/温室効果ガス.md "wikilink")削減の一環として、大電力送信設備を、真空管を[MOSFET](../Page/MOSFET.md "wikilink")に置換えた送信機などを含むデジタル処理を取り入れた設備に換装することを、[プレスリリース](../Page/プレスリリース.md "wikilink")で発表した\[6\]。これにより、電力効率を大幅に引き上げ、消費電力の削減による温室効果ガスの削減に貢献できるとしている（→[NHK地球エコ](https://ja.wikipedia.org/wiki/NHK地球エコ "wikilink")・[NHK教育テレビジョン\#地球温暖化対策](https://ja.wikipedia.org/wiki/NHK教育テレビジョン#地球温暖化対策 "wikilink")を参照）。
+  - パワーエレクトロニクスの進歩により、局用の大出力送信機のソリッドステート化が20世紀末頃から進んでいるが、当所は国内最大の大出力局であり、[真空管](../Page/真空管.md "wikilink")を使っていた\[5\]。しかし2009年、新中期経営計画に盛り込まれた放送施設の[温室効果ガス](../Page/温室効果ガス.md "wikilink")削減の一環として、大電力送信設備を、真空管を[MOSFET](../Page/MOSFET.md "wikilink")に置換えた送信機などを含むデジタル処理を取り入れた設備に換装することを、[プレスリリース](../Page/プレスリリース.md "wikilink")で発表した\[6\]。これにより、電力効率を大幅に引き上げ、消費電力の削減による温室効果ガスの削減に貢献できるとしている（→[NHK地球エコ](https://ja.wikipedia.org/wiki/NHK地球エコ "wikilink")・[NHK教育テレビジョン\#エコキャンペーン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン#エコキャンペーン "wikilink")を参照）。
   - ラジオ第1放送は、24時間放送が本格的に開始した[1992年](../Page/1992年.md "wikilink")4月から[2000年](../Page/2000年.md "wikilink")6月までは、一斉放送点検日（当初毎週月曜深夜、のちに[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月より毎月第2・4月曜深夜+春季・秋季の特定期間）は、全国共通で午前1時から5時を[停波](../Page/停波.md "wikilink")したが、同年7月以後は一応の点検日を設けているものの[事件](../Page/事件.md "wikilink")・[事故](../Page/事故.md "wikilink")などの大規模有事が起きた場合や[地震](../Page/地震.md "wikilink")・[台風](../Page/台風.md "wikilink")・[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")などの天災による[災害対策基本法](../Page/災害対策基本法.md "wikilink")が発生した場合の処置として、休止をするか否かは各局任意判断となった。そのため、菖蒲久喜放送所からの東京第1放送は停波はせず、予備の送信機（200kW、または状況により10kW）を利用しての[減力放送](../Page/減力放送.md "wikilink")で24時間放送を維持した。しかし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")深夜（[9月23日](../Page/9月23日.md "wikilink")未明）3時から5時、及び同[12月9日](../Page/12月9日.md "wikilink")深夜（[12月10日](../Page/12月10日.md "wikilink")）1時から3時にかけて、停波を伴う放送停止を行った。
   - ラジオ第2放送は、[2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）による節電に協力するため、同年[3月19日](../Page/3月19日.md "wikilink")から当面の間、10時-16時まで連日減力放送（2台ある250kW送信機の片方のみ稼動）を行う措置が採られていた（それ以外の時間帯は通常の500kW）。同年[7月1日](../Page/7月1日.md "wikilink")から[9月22日](../Page/9月22日.md "wikilink")までは、平日（祝日と重なる日も含む）のみ減力放送の時間帯を、8時50分-20時10分の間に拡大されていた（土日は10時-16時で変更はなかった）。
 

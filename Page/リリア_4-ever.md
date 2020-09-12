@@ -28,7 +28,7 @@
 
   -
   -
-[Category:スウェーデンの映画作品](https://ja.wikipedia.org/wiki/Category:スウェーデンの映画作品 "wikilink") [Category:2002年の映画](https://ja.wikipedia.org/wiki/Category:2002年の映画 "wikilink") [Category:スウェーデンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:スウェーデンを舞台とした映画作品 "wikilink")
+[Category:スウェーデンの映画作品](https://ja.wikipedia.org/wiki/Category:スウェーデンの映画作品 "wikilink") [Category:2002年の映画](https://ja.wikipedia.org/wiki/Category:2002年の映画 "wikilink") [Category:スウェーデンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:スウェーデンを舞台とした映画作品 "wikilink") [Category:エストニアで製作された映画作品](https://ja.wikipedia.org/wiki/Category:エストニアで製作された映画作品 "wikilink") [Category:スウェーデンで製作された映画作品](https://ja.wikipedia.org/wiki/Category:スウェーデンで製作された映画作品 "wikilink")
 
 1.
 2.

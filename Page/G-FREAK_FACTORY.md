@@ -26,6 +26,9 @@
 ## メンバー
 
   - **茂木洋晃**（ボーカル・ハープ）　　[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[碓氷郡](../Page/碓氷郡.md "wikilink")[松井田町](../Page/松井田町.md "wikilink")出身。
+
+1974年11月9日生まれ BRAHMANのTOSHI-lowと同じ生年月日で同じ血液型である。
+
   - **原田季征**（ギター・コーラス）　　群馬県碓氷郡[松井田町](../Page/松井田町.md "wikilink")出身。
   - **吉橋"yossy"伸之**（ベース・コーラス）2001年脱退2008.6.18正式復帰　　[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")出身。
   - **渡部“PxOxN”寛之**（ドラム・コーラス）

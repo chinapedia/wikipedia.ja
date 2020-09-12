@@ -40,4 +40,4 @@
   - 生まれも育ちも[ロンドン](../Page/ロンドン.md "wikilink")。衣装には[ユニオンジャック](https://ja.wikipedia.org/wiki/ユニオンジャック "wikilink")があしらわれていることが多かった。
   - ファンに「様」付けで呼ぶことを強制するなど、かなり高飛車で乱暴な性格。
 
-[Category:浅倉大介](https://ja.wikipedia.org/wiki/Category:浅倉大介 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:浅倉大介](https://ja.wikipedia.org/wiki/Category:浅倉大介 "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

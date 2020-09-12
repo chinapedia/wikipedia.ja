@@ -32,7 +32,7 @@
         作詞：太志　作曲：太志、大介、OKP-STAR
     <!-- end list -->
       - ミニアルバム『[「七色の落書き」](../Page/「七色の落書き」.md "wikilink")』収録の「Mr.ロードランナー」のリミックスバージョン。
-4.  **ALONES (Insrumental Mix)** \[4:18\]
+4.  **ALONES (Instrumental Mix)** \[4:18\]
 
 ## 収録アルバム
 

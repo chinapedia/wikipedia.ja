@@ -89,7 +89,7 @@
 ## 外部リンク
 
   -
-  - [中森明菜 「BEST FINGER」 ライナーノート](http://wagamamakorin.client.jp/bestfinger.html)
+  - [中森明菜 「BEST FINGER」 ライナーノート](https://wagamamakorin.client.jp/bestfinger.html)
 
 [Category:2006年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のベスト・アルバム "wikilink") [Category:中森明菜のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:中森明菜のベスト・アルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 

@@ -612,7 +612,8 @@
 ## 外部リンク
 
   - [キューティーハニー THE LIVE 公式サイト](https://www.tv-tokyo.co.jp/anime/honey-thelive/)
-  - [キューティーハニー THE LIVE 特報](http://www.ocn.ne.jp/game/og/14-hangyaku/press.html)
+
+  -
   - [キューティーハニー THE LIVE 特集](http://www.dot-anime.com/feature/027.html)
 
 [Category:キューティーハニーシリーズ](https://ja.wikipedia.org/wiki/Category:キューティーハニーシリーズ "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink") [Category:テレビ東京の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜ドラマ "wikilink") [Category:テレビ東京の特撮番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の特撮番組 "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:永井豪の実写作品](https://ja.wikipedia.org/wiki/Category:永井豪の実写作品 "wikilink") [Category:井上敏樹脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:井上敏樹脚本のテレビドラマ "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:アクションドラマ](https://ja.wikipedia.org/wiki/Category:アクションドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:ロボットを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロボットを題材としたテレビドラマ "wikilink")

@@ -67,21 +67,21 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - **[稚内](../Page/稚内市.md "wikilink")**
-  - [旭川](../Page/旭川市.md "wikilink")
-  - [網走](../Page/網走市.md "wikilink")
-  - **[釧路](../Page/釧路市.md "wikilink")**
-  - [池田](../Page/池田町_\(北海道\).md "wikilink")（初登場）
+  - **[稚内](https://ja.wikipedia.org/wiki/稚内駅 "wikilink")**
+  - [旭川](../Page/旭川駅.md "wikilink")
+  - [網走](../Page/網走駅.md "wikilink")
+  - **[釧路](../Page/釧路駅.md "wikilink")**
+  - [池田](../Page/池田駅_\(北海道\).md "wikilink")（初登場）
   - [トマム](../Page/トマム駅.md "wikilink")
   - [富良野](../Page/富良野市.md "wikilink")
-  - **[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")**
-  - [小樽](../Page/小樽市.md "wikilink")
-  - [ニセコ](../Page/ニセコ町.md "wikilink")
-  - [苫小牧](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")
+  - **[札幌](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")**
+  - [小樽](../Page/小樽駅.md "wikilink")
+  - [ニセコ](../Page/ニセコ駅.md "wikilink")
+  - [苫小牧](../Page/苫小牧駅.md "wikilink")
   - **[襟裳](../Page/えりも町.md "wikilink")**
-  - [登別](../Page/登別市.md "wikilink")（初登場）
-  - [長万部](../Page/長万部町.md "wikilink")
-  - [函館](../Page/函館市.md "wikilink")
+  - [登別](../Page/登別駅.md "wikilink")（初登場）
+  - [長万部](../Page/長万部駅.md "wikilink")
+  - [函館](https://ja.wikipedia.org/wiki/函館駅 "wikilink")
   - **[青森](../Page/青森駅.md "wikilink")**
   - [弘前](../Page/弘前駅.md "wikilink")
   - [秋田](../Page/秋田駅.md "wikilink")
@@ -90,82 +90,82 @@
   - [山形](../Page/山形駅.md "wikilink")
   - [米沢](../Page/米沢駅.md "wikilink")（初登場）
   - **[仙台](../Page/仙台駅.md "wikilink")**
-  - [松島](../Page/松島町.md "wikilink")（初登場）
+  - [松島](../Page/松島駅.md "wikilink")（初登場）
   - [福島](../Page/福島駅_\(福島県\).md "wikilink")
   - [那須](../Page/那須町.md "wikilink")
   - [宇都宮](../Page/宇都宮駅.md "wikilink")（初登場）
   - [水戸](../Page/水戸駅.md "wikilink")
   - [上野](https://ja.wikipedia.org/wiki/上野駅 "wikilink")
-  - [千葉](../Page/千葉市.md "wikilink")
+  - [千葉](https://ja.wikipedia.org/wiki/千葉駅 "wikilink")
   - **[東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")**
-  - [新宿](../Page/新宿.md "wikilink")（初登場）
+  - [新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")（初登場）
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - **[勝浦](../Page/勝浦市.md "wikilink")**
+  - **[勝浦](https://ja.wikipedia.org/wiki/勝浦駅 "wikilink")**
   - [横浜](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")
   - **[新潟](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")**
   - [佐渡](../Page/佐渡市.md "wikilink")
   - [湯沢](../Page/湯沢町.md "wikilink")
   - [甲府](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")
-  - [小淵沢](../Page/小淵沢町.md "wikilink")（初登場）
+  - [小淵沢](https://ja.wikipedia.org/wiki/小淵沢駅 "wikilink")（初登場）
   - [清里](../Page/清里駅.md "wikilink")（初登場）
   - [長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")
-  - [軽井沢](../Page/軽井沢町.md "wikilink")
-  - **[松本](../Page/松本市.md "wikilink")**
-  - [白馬](../Page/白馬村.md "wikilink")
-  - [熱海](https://ja.wikipedia.org/wiki/熱海市 "wikilink")
+  - [軽井沢](../Page/軽井沢駅.md "wikilink")
+  - **[松本](https://ja.wikipedia.org/wiki/松本駅 "wikilink")**
+  - [白馬](../Page/白馬駅.md "wikilink")
+  - [熱海](https://ja.wikipedia.org/wiki/熱海駅 "wikilink")
   - [静岡](../Page/静岡駅.md "wikilink")
   - [木曽](../Page/木曽町.md "wikilink")
   - [浜松](https://ja.wikipedia.org/wiki/浜松駅 "wikilink")
   - **[名古屋](../Page/名古屋駅.md "wikilink")**
-  - [高山](../Page/高山市.md "wikilink")
+  - [高山](https://ja.wikipedia.org/wiki/高山駅 "wikilink")
   - [岐阜](https://ja.wikipedia.org/wiki/岐阜駅 "wikilink")
   - [松阪](../Page/松阪駅.md "wikilink")
-  - [伊勢](../Page/伊勢市.md "wikilink")
-  - **[新宮](../Page/新宮市.md "wikilink")**
+  - [伊勢](../Page/伊勢市駅.md "wikilink")
+  - **[新宮](../Page/新宮駅.md "wikilink")**
   - [富山](https://ja.wikipedia.org/wiki/富山駅 "wikilink")
   - [金沢](https://ja.wikipedia.org/wiki/金沢駅 "wikilink")
-  - [敦賀](../Page/敦賀市.md "wikilink")
-  - [長浜](../Page/長浜市.md "wikilink")（初登場）
-  - [京都](../Page/京都市.md "wikilink")
-  - **[大阪](../Page/大阪市.md "wikilink")**
-  - [奈良](https://ja.wikipedia.org/wiki/奈良市 "wikilink")
-  - [白浜](../Page/白浜町.md "wikilink")
+  - [敦賀](https://ja.wikipedia.org/wiki/敦賀駅 "wikilink")
+  - [長浜](https://ja.wikipedia.org/wiki/長浜駅 "wikilink")（初登場）
+  - [京都](https://ja.wikipedia.org/wiki/京都駅 "wikilink")
+  - **[大阪](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")**
+  - [奈良](https://ja.wikipedia.org/wiki/奈良駅 "wikilink")
+  - [白浜](https://ja.wikipedia.org/wiki/白浜駅 "wikilink")
   - [和歌山](../Page/和歌山駅.md "wikilink")
-  - [神戸](../Page/神戸市.md "wikilink")
+  - [神戸](https://ja.wikipedia.org/wiki/神戸駅 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [姫路](../Page/姫路市.md "wikilink")
+  - [姫路](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")
   - [鳥取](../Page/鳥取駅.md "wikilink")
   - [岡山](https://ja.wikipedia.org/wiki/岡山駅 "wikilink")
   - [倉敷](../Page/倉敷駅.md "wikilink")（初登場）
-  - [松江](https://ja.wikipedia.org/wiki/松江駅 "wikilink")（初登場）
-  - **[出雲](../Page/出雲.md "wikilink")**
+  - [松江](https://ja.wikipedia.org/wiki/松江駅 "wikilink")
+  - **[出雲](https://ja.wikipedia.org/wiki/出雲市駅 "wikilink")**
   - [尾道](https://ja.wikipedia.org/wiki/尾道駅 "wikilink")
   - [広島](https://ja.wikipedia.org/wiki/広島駅 "wikilink")
-  - [萩](../Page/萩市.md "wikilink")
+  - [萩](../Page/萩駅.md "wikilink")
   - [下関](../Page/下関駅.md "wikilink")
   - [高松](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")
   - [徳島](https://ja.wikipedia.org/wiki/徳島駅 "wikilink")
   - **[高知](https://ja.wikipedia.org/wiki/高知駅 "wikilink")**
-  - [宇和島](../Page/宇和島市.md "wikilink")
-  - [松山](../Page/松山市.md "wikilink")
+  - [宇和島](https://ja.wikipedia.org/wiki/宇和島駅 "wikilink")
+  - [松山](https://ja.wikipedia.org/wiki/松山駅 "wikilink")
   - **[博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")**
   - [小倉](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")
-  - [有田](../Page/有田町.md "wikilink")（初登場）
-  - [佐世保](../Page/佐世保市.md "wikilink")
+  - [有田](https://ja.wikipedia.org/wiki/有田駅 "wikilink")（初登場）
+  - [佐世保](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")
   - **[長崎](../Page/長崎駅.md "wikilink")**
-  - [別府](../Page/別府市.md "wikilink")
+  - [別府](https://ja.wikipedia.org/wiki/別府駅 "wikilink")
   - [大分](https://ja.wikipedia.org/wiki/大分駅 "wikilink")
   - [熊本](https://ja.wikipedia.org/wiki/熊本駅 "wikilink")
   - [宮崎](https://ja.wikipedia.org/wiki/宮崎駅 "wikilink")
-  - **[鹿児島](../Page/鹿児島市.md "wikilink")**
+  - **[鹿児島](https://ja.wikipedia.org/wiki/鹿児島駅 "wikilink")**
   - [沖縄](../Page/沖縄県.md "wikilink")
   - [グアム](../Page/グアム.md "wikilink")
   - **[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")**

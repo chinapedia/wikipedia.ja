@@ -1,15 +1,18 @@
 > この記事は[MTO福山FC](https://ja.wikipedia.org/wiki/MTO福山FC)から翻訳されています。
 
 
-**MTO福山FC**（エムティーオーふくやまエフシー）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")を拠点とするサッカークラブである。旧名NKK福山サッカー部、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")西日本サッカー部。
+**MTO福山FC**（エムティーオーふくやまエフシー）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")を拠点とするサッカークラブである。旧名**NKK福山サッカー部**、**[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")西日本サッカー部**。
 
 ## 概要
 
   - 1997年　[中国サッカーリーグ](../Page/中国サッカーリーグ.md "wikilink")昇格。
   - 1999年　[広島県社会人サッカーリーグ](../Page/広島県社会人サッカーリーグ.md "wikilink")へ降格。
-  - 2003年　中国リーグへ再昇格。[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")と[川崎製鉄](../Page/川崎製鉄.md "wikilink")の合併に伴い、「NKK福山サッカー部」から「JFEスチール西日本サッカー部」へ名称変更。
+  - 2003年　中国リーグへ再昇格。[日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")と[川崎製鉄](../Page/川崎製鉄.md "wikilink")の合併に伴い、「**NKK福山サッカー部**」から「**JFEスチール西日本サッカー部**」へ名称変更。
   - 2010年　広島県リーグへ再降格。
-  - 2011年　「JFEスチール西日本サッカー部」から「MTO福山FC」へ名称変更。
+  - 2011年　「JFEスチール西日本サッカー部」から「**MTO福山FC**」へ名称変更。
+  - 2017年　広島県東部地区リーグに降格。2018年以降はリーグに登録していない。
+
+福山市を拠点とする少年サッカーチーム「**MTO福山Jr.FC**」にその名を残している。
 
 ## チーム成績・歴代監督
 

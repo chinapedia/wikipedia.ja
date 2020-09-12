@@ -1,7 +1,7 @@
 > この記事は[ジョン・E・ウォーカー](https://ja.wikipedia.org/wiki/ジョン・E・ウォーカー)から翻訳されています。
 
 
-サー・**ジョン・アーネスト・ウォーカー**（Sir John Ernest Walker、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - ）は、イギリス人の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")で1997年度の[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")受賞者である。
+サー・**ジョン・アーネスト・ウォーカー**（Sir John Ernest Walker、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - ）は、イギリス人の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")で、1997年度の[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")受賞者である。
 
 ## 経歴
 
@@ -23,6 +23,6 @@
 
   - [John E. Walker - Biographical](http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1997/walker-bio.html)
 
-[Category:20世紀イギリスの化学者](https://ja.wikipedia.org/wiki/Category:20世紀イギリスの化学者 "wikilink") [Category:21世紀イギリスの化学者](https://ja.wikipedia.org/wiki/Category:21世紀イギリスの化学者 "wikilink") [Category:イングランドの化学者](https://ja.wikipedia.org/wiki/Category:イングランドの化学者 "wikilink") [Category:ノーベル化学賞受賞者](https://ja.wikipedia.org/wiki/Category:ノーベル化学賞受賞者 "wikilink") [Category:イギリスのノーベル賞受賞者](https://ja.wikipedia.org/wiki/Category:イギリスのノーベル賞受賞者 "wikilink") [Category:コプリ・メダル受賞者](https://ja.wikipedia.org/wiki/Category:コプリ・メダル受賞者 "wikilink") [Category:米国科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:米国科学アカデミー会員 "wikilink") [Category:王立協会フェロー](https://ja.wikipedia.org/wiki/Category:王立協会フェロー "wikilink") [Category:ウィスコンシン大学マディソン校の教員](https://ja.wikipedia.org/wiki/Category:ウィスコンシン大学マディソン校の教員 "wikilink") [Category:MRC分子生物学研究所の人物](https://ja.wikipedia.org/wiki/Category:MRC分子生物学研究所の人物 "wikilink") [Category:オックスフォード大学出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード大学出身の人物 "wikilink") [Category:ハリファクス_(イングランド)出身の人物](https://ja.wikipedia.org/wiki/Category:ハリファクス_\(イングランド\)出身の人物 "wikilink") [Category:1941年生](https://ja.wikipedia.org/wiki/Category:1941年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:20世紀イギリスの化学者](https://ja.wikipedia.org/wiki/Category:20世紀イギリスの化学者 "wikilink") [Category:21世紀イギリスの化学者](https://ja.wikipedia.org/wiki/Category:21世紀イギリスの化学者 "wikilink") [Category:イングランドの化学者](https://ja.wikipedia.org/wiki/Category:イングランドの化学者 "wikilink") [Category:ノーベル化学賞受賞者](https://ja.wikipedia.org/wiki/Category:ノーベル化学賞受賞者 "wikilink") [Category:イギリスのノーベル賞受賞者](https://ja.wikipedia.org/wiki/Category:イギリスのノーベル賞受賞者 "wikilink") [Category:コプリ・メダル受賞者](https://ja.wikipedia.org/wiki/Category:コプリ・メダル受賞者 "wikilink") [Category:米国科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:米国科学アカデミー会員 "wikilink") [Category:王立協会フェロー](https://ja.wikipedia.org/wiki/Category:王立協会フェロー "wikilink") [Category:ウィスコンシン大学マディソン校の教員](https://ja.wikipedia.org/wiki/Category:ウィスコンシン大学マディソン校の教員 "wikilink") [Category:MRC分子生物学研究所の人物](https://ja.wikipedia.org/wiki/Category:MRC分子生物学研究所の人物 "wikilink") [Category:オックスフォード大学出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード大学出身の人物 "wikilink") [Category:イングランド・ハリファクス出身の人物](https://ja.wikipedia.org/wiki/Category:イングランド・ハリファクス出身の人物 "wikilink") [Category:1941年生](https://ja.wikipedia.org/wiki/Category:1941年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

@@ -51,4 +51,4 @@ HYPER GO号プロは本来、[テレビ愛知](../Page/テレビ愛知.md "wikil
   - テレビ[CM](../Page/コマーシャルメッセージ.md "wikilink")『[ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ "wikilink") / [YRV](../Page/ダイハツ・YRV.md "wikilink")』 (HYPER GO号2 (メインは郷ひろみ)、2000年)
   - CDシングル「Paradise a gogo」 (HYPER GO号2、2000年10月12日、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink"))
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:エイベックス・グループ](https://ja.wikipedia.org/wiki/Category:エイベックス・グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:エイベックス・グループ](https://ja.wikipedia.org/wiki/Category:エイベックス・グループ "wikilink")

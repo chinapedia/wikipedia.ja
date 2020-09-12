@@ -18,23 +18,24 @@
   - [2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部に上場。
   - [2007年](../Page/2007年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - 東京証券取引所1部に指定替え。
   - [2009年](../Page/2009年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - 株式交換により、株式会社クリエイトエス・ディーは株式会社クリエイトSDホールディングスの完全子会社となった。株式会社クリエイトSDホールディングスが東京証券取引所1部に上場。
-  - [2009年](../Page/2009年.md "wikilink")4月 ウェルライフ株式会社を完全子会社化。
+  - 2009年4月 ウェルライフ株式会社を完全子会社化。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月](../Page/6月.md "wikilink") 株式会社サロンデイを100％子会社として設立。
   - 2013年10月 - ニュードラッグを買収\[1\]。
+  - [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ゆりストアを買収\[2\]。
 
 ## 店舗
 
-  - 現在646店舗（うちFC店 2店舗、調剤併設 109店舗）（2019年5月末現在）
-  - 単独調剤薬局30店舗
+  - 現在613店舗（うちFC店 2店舗、調剤併設 109店舗）（2019年11月末現在）
+  - 単独調剤薬局34店舗
   - 2019年現在、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")を除く全ての[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の都県と[静岡県](../Page/静岡県.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")に出店している。
 
 <!-- end list -->
 
-1.  神奈川県 351店舗
+1.  神奈川県 346店舗
 2.  東京都 100店舗
-3.  静岡県 87店舗
-4.  千葉県 43店舗
-5.  愛知県 16店舗
+3.  静岡県 84店舗
+4.  千葉県 42店舗
+5.  愛知県 15店舗
 6.  埼玉県 15店舗
 7.  茨城県 6店舗
 8.  群馬県 5店舗
@@ -43,7 +44,7 @@
 
 ## テーマソング
 
-店内で流れているテーマソングはインディーズバンドの[エイプリルズ](https://ja.wikipedia.org/wiki/エイプリルズ "wikilink")による。2015年10月に伴奏・ボーカルが録り直され、歌詞に2番が追加されている\[2\]。
+店内で流れているテーマソングはインディーズバンドの[エイプリルズ](https://ja.wikipedia.org/wiki/エイプリルズ "wikilink")による。2015年10月に伴奏・ボーカルが録り直され、歌詞に2番が追加されている\[3\]。
 
 ## プリペイドカード
 
@@ -59,4 +60,5 @@
 [Category:ニチリウグループ](https://ja.wikipedia.org/wiki/Category:ニチリウグループ "wikilink") [Category:日本のドラッグストア](https://ja.wikipedia.org/wiki/Category:日本のドラッグストア "wikilink") [Category:横浜市青葉区の企業](https://ja.wikipedia.org/wiki/Category:横浜市青葉区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1983年設立の企業](https://ja.wikipedia.org/wiki/Category:1983年設立の企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink")
 
 1.  [M\&Aニュース クリエイトＳＤ(３１４８)ニュードラッグを買収 2013年9月30日](https://www.ma-cp.com/news/5789.html)
-2.  エイプリルズのホームページ\[[http://aprils.jp/\]2016年2月閲覧](http://aprils.jp/%5D2016年2月閲覧)。
+2.  [クリエイトSDnews｜2/7川崎市のゆりストア5店舗を買収して子会社化 2020年1月20日](https://news.shoninsha.co.jp/m-and-a/144782)
+3.  エイプリルズのホームページ\[[http://aprils.jp/\]2016年2月閲覧](http://aprils.jp/%5D2016年2月閲覧)。

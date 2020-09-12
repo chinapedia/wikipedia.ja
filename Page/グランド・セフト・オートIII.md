@@ -3,29 +3,29 @@
 
 [Grand_Theft_Auto_III.svg](https://ja.wikipedia.org/wiki/File:Grand_Theft_Auto_III.svg "fig:Grand_Theft_Auto_III.svg") **『グランド・セフト・オートIII』**（グランド・セフト・オートスリー、英名:**Grand Theft Auto III**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")にある[ロックスター・ゲームズ社](../Page/Rockstar_Games.md "wikilink")（GTAIIIの制作は[スコットランド](../Page/スコットランド.md "wikilink")の[ロックスター・ノース](../Page/Rockstar_North.md "wikilink")）から発売された[オープンワールド](../Page/オープンワールド.md "wikilink")型[クライムアクションゲーム](../Page/クライムアクションゲーム.md "wikilink")である。[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の第3作目(メインタイトルでは第3作目、ナンバリングタイトルでも第3作目)にあたる作品である。略称は『**GTAIII**』『**グラセフIII**』。
 
-前作『[グランド・セフト・オート2](../Page/グランド・セフト・オート2.md "wikilink")』などは、[アラビア数字](../Page/アラビア数字.md "wikilink")(『GTAII』とは書かれない)だったが、今作『GTAIII』から、今後のナンバリングタイトルの作品(『[グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")』、『[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』など)は、全て**[ローマ数字](../Page/ローマ数字.md "wikilink")**に、統一された。また、『[GTA](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』、『GTA2』は見下ろし型となっていたが、今作から現在のGTAの様に[TPS](https://ja.wikipedia.org/wiki/TPS "wikilink")視点(一部例外あり)となった。今作の[パッケージ](../Page/パッケージ.md "wikilink")の[タイトルロゴ](https://ja.wikipedia.org/wiki/タイトルロゴ "wikilink")は今後のGTAシリーズ、全てに使用されてる事になった。また、次回作から現在まで、『GTAIII』を基本とし、今後のGTAシリーズが構築されていく事になった。
+前作『[グランド・セフト・オート2](../Page/グランド・セフト・オート2.md "wikilink")』などは、[アラビア数字](../Page/アラビア数字.md "wikilink")(『GTAII』とは書かれない)だったが、今作『GTAIII』から今後のナンバリングタイトルの作品(『[グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")』、『[グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』など)は、全て**[ローマ数字](../Page/ローマ数字.md "wikilink")**に統一された。また、『[GTA](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』、『GTA2』は見下ろし型となっていたが、今作から現在のGTAの様に[TPS](https://ja.wikipedia.org/wiki/TPS "wikilink")視点(一部例外あり)となった。今作の[パッケージ](../Page/パッケージ.md "wikilink")の[タイトルロゴ](https://ja.wikipedia.org/wiki/タイトルロゴ "wikilink")は今後のGTAシリーズ、全てに使用されてる事になった。また、次回作から現在まで『GTAIII』を基本とし、今後のGTAシリーズが構築されていく事になった。
 
-[PS2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、北米版は[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売され、その後、[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に日本版が発売された。
+[PS2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、北米版が[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売され、その後[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に日本版が発売された。
 
-[PC版は](../Page/パーソナルコンピュータ.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に北米版が発売され、日本版が2003年9月25日とPS2版と同時発売された。
+[PC版は](../Page/パーソナルコンピュータ.md "wikilink")、[2002年](../Page/2002年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に北米版が発売され、日本版は2003年9月25日にPS2版と同時発売された。
 
-[Xbox版は](../Page/Xbox_\(ゲーム機\).md "wikilink")、2003年[10月31日](../Page/10月31日.md "wikilink")に北米版が発売された。日本版は、[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売された。
+[Xbox版は](../Page/Xbox_\(ゲーム機\).md "wikilink")、2003年[10月31日](../Page/10月31日.md "wikilink")に北米版が発売された。日本版は[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売された。
 
-[PS3](https://ja.wikipedia.org/wiki/PS3 "wikilink")版は、北米版は、[2012年](../Page/2012年.md "wikilink")9月25日に発売されたが、日本版は未定である。
+[ios](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")/[Android](../Page/Android.md "wikilink")版は、[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に全世界同時有料配信となった。
 
-[ios版](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Android](../Page/Android.md "wikilink")版は、[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に、全世界同時有料配信となった。
+[PS3](https://ja.wikipedia.org/wiki/PS3 "wikilink")版は、北米版が[2012年](../Page/2012年.md "wikilink")9月25日に発売されたが、日本版は未定である。
 
 ## 概要
 
-[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")において[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。後に[PCや](../Page/パーソナルコンピュータ.md "wikilink")[Xboxにも移植され](../Page/Xbox_\(ゲーム機\).md "wikilink")、世界中で1450万本を売り上げる大ヒット作となった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[2003年](../Page/2003年.md "wikilink")秋に[カプコン](../Page/カプコン.md "wikilink")より[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")18歳以上対象ソフトとしてPlayStation 2版とXbox版（続編である[GTA:VCとのセットでのみ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")）が発売され、当時の海外製ゲーム（所謂[洋ゲー](../Page/洋ゲー.md "wikilink")）としては異例の30万本、[廉価版](../Page/廉価版.md "wikilink")を含めて40万本のヒットを記録した。
+[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")において[2001年](../Page/2001年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。後に[PCや](../Page/パーソナルコンピュータ.md "wikilink")[Xboxにも移植され](../Page/Xbox_\(ゲーム機\).md "wikilink")、世界中で1450万本を売り上げる大ヒット作となった。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[2003年](../Page/2003年.md "wikilink")秋に[カプコン](../Page/カプコン.md "wikilink")より[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")18歳以上対象ソフトとしてPlayStation 2版とXbox版（続編である[GTA:VCとのセットでのみ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")）が発売\[1\]\[2\]され、当時の海外製ゲーム（所謂[洋ゲー](../Page/洋ゲー.md "wikilink")）としては異例の30万本、[廉価版](../Page/廉価版.md "wikilink")を含めて40万本のヒットを記録\[3\]した。
 
-シリーズで初めて3Dシステムを採用している。街全体が[オープンワールド](../Page/オープンワールド.md "wikilink")で構築され、前作、前々作に比べ自由度は大幅に向上した。[架空の街](https://ja.wikipedia.org/wiki/ヴァーチャルリアリティ "wikilink")「[リバティーシティ](../Page/リバティーシティ.md "wikilink")」の中をプレイヤーが自由に行動できることが人気の要因となった。同時に、[暴力](../Page/暴力.md "wikilink")描写、特に[チート](../Page/チート.md "wikilink")を使用することで体がバラバラになる描写が話題となり\[1\]、青少年による暴力や無差別殺人事件を誘発したとして批判され、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")では[有害図書](../Page/有害図書.md "wikilink")に認定されている。
+シリーズで初めて3Dシステムを採用している。街全体が[オープンワールド](../Page/オープンワールド.md "wikilink")で構築され、前作、前々作に比べ自由度は大幅に向上した。[架空の街](https://ja.wikipedia.org/wiki/ヴァーチャルリアリティ "wikilink")「[リバティーシティ](../Page/リバティーシティ.md "wikilink")」の中をプレイヤーが自由に行動できることが人気の要因となった。同時に、[暴力](../Page/暴力.md "wikilink")描写、特に[チート](../Page/チート.md "wikilink")を使用することで体がバラバラになる描写が話題となり\[4\]、青少年による暴力や無差別殺人事件を誘発したとして批判され、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")では[有害図書](../Page/有害図書.md "wikilink")に認定されている。また、発売された同年リバティーシティのモデルであるニューヨークでは[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")発生したため、作中内で飛行機が高層ビルに近いところを飛ばないようにするなどの修正を行った\[5\]。
 
 日本版と[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")版は一部表現が規制されたバージョンであるが、しばらくして解除パッチが非公式に出回った。
 
 『GTAIV』や『GTAV』、『[GTACTW](https://ja.wikipedia.org/wiki/グランド・セフト・オート・チャイナタウンウォーズ "wikilink")』とは世界観が全く違う。
 
-発売から10周年を記念して、[2011年](../Page/2011年.md "wikilink")12月にAndroid版、iOS版がリリースされた。
+発売から10周年を記念して、[2011年](../Page/2011年.md "wikilink")12月にAndroid版、iOS版がリリース\[6\]\[7\]された。
 
 ## CEROレーティング制度において
 
@@ -55,7 +55,7 @@ iOS向けでは**チートコードは使用不可**であるが、Android版は
 
 登場するマフィアの国籍は、[イタリアン・マフィアを始め](../Page/マフィア.md "wikilink")、[コロンビア人](https://ja.wikipedia.org/wiki/コロンビア人 "wikilink")マフィア、中国人マフィア、[ヒスパニック](../Page/ヒスパニック.md "wikilink")、[ジャマイカ](../Page/ジャマイカ.md "wikilink")、[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")などである。彼らの職業は映画などのメディアで表現されるような[ステレオタイプ](../Page/ステレオタイプ.md "wikilink")に基づいている。日本人は[ヤクザ](../Page/ヤクザ.md "wikilink")（Yakuza）として登場している。
 
-PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page/MP3.md "wikilink")ファイルを取り込んでBGMとして再生することが可能となっている\[3\]。
+PC版限定の要素として、リプレイ再生や保存\[8\]、[MP3](../Page/MP3.md "wikilink")ファイルを取り込んでBGMとして再生することが可能となっている\[9\]。
 
 ## サイドミッション
 
@@ -121,7 +121,7 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 <!-- end list -->
 
   -
-    『SA』や『[グランド・セフト・オート・リバティーシティ・ストーリーズ](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink")（以下LCS）』にも登場しているサルバトーレの愛人。毎日を遊んで暮らしており、またドラッグを常用している。卑劣なサルバトーレに愛想を尽かしてクロードに好意を持つようになるが、それが原因でサルバトーレに命を狙われる事となり、友人のアスカを頼ってクロードと共にポートランドを脱出することになる。その後はアスカのマンションで暮らしていたが、ミゲールの監禁されている建設現場に顔を出したことでクロードが不在の隙を突いたカタリーナによって誘拐されてしまい、最終的にはクロードに救出される。最終ミッションクリア後は延々と喋り続けたところを銃声が遮るという演出になる（映像はなく音声のみ）が、クロードによって撃ち殺されたかクロードがただひたすらしゃべる自身を黙らせるために威嚇発砲したものと思われる\[4\]。
+    『SA』や『[グランド・セフト・オート・リバティーシティ・ストーリーズ](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink")（以下LCS）』にも登場しているサルバトーレの愛人。毎日を遊んで暮らしており、またドラッグを常用している。卑劣なサルバトーレに愛想を尽かしてクロードに好意を持つようになるが、それが原因でサルバトーレに命を狙われる事となり、友人のアスカを頼ってクロードと共にポートランドを脱出することになる。その後はアスカのマンションで暮らしていたが、ミゲールの監禁されている建設現場に顔を出したことでクロードが不在の隙を突いたカタリーナによって誘拐されてしまい、最終的にはクロードに救出される。最終ミッションクリア後は延々と喋り続けたところを銃声が遮るという演出になる（映像はなく音声のみ）が、クロードによって撃ち殺されたかクロードがただひたすらしゃべる自身を黙らせるために威嚇発砲したものと思われる\[10\]。
 
   - ルイージ・ゴトレッリ *Luigi Goterelli*（[ジョー・パントリアーノ](../Page/ジョー・パントリアーノ.md "wikilink")）
 
@@ -201,7 +201,7 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 <!-- end list -->
 
   -
-    ヤクザの若頭で、アスカの兄であり、『LCS』に登場したカズキ・カサイの弟でもある。礼儀を重んじており、クロードに仕事の依頼をする時も礼に始まり、礼で終わるが、ヤーディーズとカルテルが同盟を結んだ際に面会に来たクロードの礼を無視して詰め寄るなど激怒すると礼儀を忘れてしまう事があり、またこの失態をクロードに押し付けて後始末をつけさせようとする等の無責任な一面を見せていた。また、トレントンにてカジノ（元はカズキの物）を経営しており、ヤーディーズやカルテルと抗争している。アスカの紹介でクロードと出会い、彼に色々な仕事を任せる。その後、ニューポートの立体駐車場で会合中にドナルドの依頼を受けてカルテルの車に乗ったクロードによって暗殺される\[5\]。
+    ヤクザの若頭で、アスカの兄であり、『LCS』に登場したカズキ・カサイの弟でもある。礼儀を重んじており、クロードに仕事の依頼をする時も礼に始まり、礼で終わるが、ヤーディーズとカルテルが同盟を結んだ際に面会に来たクロードの礼を無視して詰め寄るなど激怒すると礼儀を忘れてしまう事があり、またこの失態をクロードに押し付けて後始末をつけさせようとする等の無責任な一面を見せていた。また、トレントンにてカジノ（元はカズキの物）を経営しており、ヤーディーズやカルテルと抗争している。アスカの紹介でクロードと出会い、彼に色々な仕事を任せる。その後、ニューポートの立体駐車場で会合中にドナルドの依頼を受けてカルテルの車に乗ったクロードによって暗殺される\[11\]。
 
   - ミゲール *Miguel*（アル・エスピノーザ）
 
@@ -250,7 +250,7 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 <!-- end list -->
 
   -
-    [LCPD本部の](https://ja.wikipedia.org/wiki/本部 "wikilink")[汚職](../Page/汚職.md "wikilink")[警官](../Page/警察官.md "wikilink")。性格の卑劣さのせいか、相棒に裏切られている\[6\]。[ヤクザ](../Page/ヤクザ.md "wikilink")の[スパイとしてアスカに雇われているが](https://ja.wikipedia.org/wiki/工作員 "wikilink")、[CIAに目をつけられている為に公園の公衆便所でクロードに保身の為の仕事を依頼する](../Page/中央情報局.md "wikilink")。その後はCIAに追われ、クロードの助けを借りて[マイアミ](../Page/マイアミ.md "wikilink")に逃げる\[7\]。
+    [LCPD本部の](https://ja.wikipedia.org/wiki/本部 "wikilink")[汚職](../Page/汚職.md "wikilink")[警官](../Page/警察官.md "wikilink")。性格の卑劣さのせいか、相棒に裏切られている\[12\]。[ヤクザ](../Page/ヤクザ.md "wikilink")の[スパイとしてアスカに雇われているが](https://ja.wikipedia.org/wiki/工作員 "wikilink")、[CIAに目をつけられている為に公園の公衆便所でクロードに保身の為の仕事を依頼する](../Page/中央情報局.md "wikilink")。その後はCIAに追われ、クロードの助けを借りて[マイアミ](../Page/マイアミ.md "wikilink")に逃げる\[13\]。
 
   - エル・ブッロ *El Burro*（Chris Phillips）
 
@@ -261,7 +261,7 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 <!-- end list -->
 
   -
-    ヘップバーン・ハイツを仕切るヒスパニック系ギャング「ディアブロ」のボス。過去作『[グランド・セフト・オート](../Page/グランド・セフト・オート.md "wikilink")』にも名前のみだが、ボスとして登場している。また、本編に姿こそ現さないものの、[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は用意されており、体中に[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")をし、また世界観は異なる今後の作品の『[グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")』では壁に書かれた[落書き](../Page/落書き.md "wikilink")として登場している。自身が制作や監督のポルノ映画に出演しており\[8\]、その仕事を邪魔する者たちの始末を姿を現すことなく電話のみでクロードに依頼する。
+    ヘップバーン・ハイツを仕切るヒスパニック系ギャング「ディアブロ」のボス。過去作『[グランド・セフト・オート](../Page/グランド・セフト・オート.md "wikilink")』にも名前のみだが、ボスとして登場している。また、本編に姿こそ現さないものの、[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は用意されており、体中に[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")をし、また世界観は異なる今後の作品の『[グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")』では壁に書かれた[落書き](../Page/落書き.md "wikilink")として登場している。自身が制作や監督のポルノ映画に出演しており\[14\]、その仕事を邪魔する者たちの始末を姿を現すことなく電話のみでクロードに依頼する。
 
   - キング・コートニー *King Courtney*（Walter Mudu）
 
@@ -272,7 +272,7 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 <!-- end list -->
 
   -
-    ニューポート付近を縄張りとするジャマイカ系ギャング「ヤーディーズ」のボス。ミッションは何故か車に関係するものばかりである。また、『[グランド・セフト・オート・アドバンス](../Page/グランド・セフト・オート・アドバンス.md "wikilink")』にも登場している。エル・ブッロと同じく姿は見せず、電話で主人公にコンタクトを取る。その後、最後のミッション「Kingdom Come」では指令どおりに指定された車に乗ろうとすると、実はカタリーナの罠だったことが判明\[9\]し、このため電話は本人ではない、あるいはカタリーナに雇われてクロードを始末しようとしたと思われる\[10\]が、真相は定かではない。
+    ニューポート付近を縄張りとするジャマイカ系ギャング「ヤーディーズ」のボス。ミッションは何故か車に関係するものばかりである。また、『[グランド・セフト・オート・アドバンス](../Page/グランド・セフト・オート・アドバンス.md "wikilink")』にも登場している。エル・ブッロと同じく姿は見せず、電話で主人公にコンタクトを取る。その後、最後のミッション「Kingdom Come」では指令どおりに指定された車に乗ろうとすると、実はカタリーナの罠だったことが判明\[15\]し、このため電話は本人ではない、あるいはカタリーナに雇われてクロードを始末しようとしたと思われる\[16\]が、真相は定かではない。
 
   - D-アイス *D-Ice*（Walter Mudu）
 
@@ -283,7 +283,7 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 <!-- end list -->
 
   -
-    ウィチタ・ガーデンのローカルギャング「レッドジャックス」のリーダー。同じくフーズでスパンクに手を出している「ナインズ」に対し、ライバル意識を抱いている。また、刑務所に服役中である\[11\]が、どうやって電話でクロードに依頼していたのかは不明である。やはり電話のみで主人公に仕事の依頼をする。
+    ウィチタ・ガーデンのローカルギャング「レッドジャックス」のリーダー。同じくフーズでスパンクに手を出している「ナインズ」に対し、ライバル意識を抱いている。また、刑務所に服役中である\[17\]が、どうやって電話でクロードに依頼していたのかは不明である。やはり電話のみで主人公に仕事の依頼をする。
 
   - ミスティ *Misty*（Kim Gurney）
 
@@ -421,10 +421,6 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 
 ## GTAIIIのラジオ局・サウンドトラック
 
-## 関連項目
-
-・[護送車](https://ja.wikipedia.org/wiki/護送車 "wikilink") ・[残酷ゲーム](../Page/残酷ゲーム.md "wikilink")
-
 ## 脚注・出典
 
 <references/>
@@ -438,14 +434,20 @@ PC版限定の要素として、リプレイ再生や保存\[2\]、[MP3](../Page
 
 [Category:Grand_Theft_Auto](https://ja.wikipedia.org/wiki/Category:Grand_Theft_Auto "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:ロックスター・ゲームスのゲームソフト](https://ja.wikipedia.org/wiki/Category:ロックスター・ゲームスのゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink")
 
-1.  [「グランド・セフト・オート3」を有害図書類指定へ――神奈川県](http://www.itmedia.co.jp/games/articles/0505/30/news029.html)[ITMedia](https://ja.wikipedia.org/wiki/ITMedia "wikilink")2005年5月30日、2015年4月16日観覧
-2.  [リプレイの保存方法は？？](http://gta3.zoo.co.jp/support_question.html#no006)ZOO版GTA3公式サイト
-3.  [好きな音楽をゲーム中に再生できますか？](http://gta3.zoo.co.jp/support_question.html#no003)ZOO版GTA3公式サイト
-4.  <http://www.rockstargames.com/newswire/article/741/updated-asked-answered-re-vice-city-red-dead-redemption-and-chin.html>
-5.  アスカ含む残されたヤクザ達はケンジ殺しをカルテルによるものと思い込み、カルテルに復讐を誓うことになる。
-6.  後のミッションで殺害する。
-7.  その際にクロードに今までのお礼として倉庫の鍵を渡しており、その中には報酬の金や複数の武器、防弾パトリオットが入っている。
-8.  『[VC](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』においてリカルド・ディアスがビデオを所持していた。
-9.  この車に乗ってしまうと体に[爆弾](../Page/爆弾.md "wikilink")をつけたジャンキーが襲って自爆するが、乗った時点で死亡することはない。
-10. ゲーム終盤のアスカのミッションでカルテルとヤーディーズが繋がっていることを示す描写がある。
-11. 最後のミッションのムービーシーンで「俺は仮釈放の審査がある」と言っている。
+1.
+2.
+3.
+4.  [「グランド・セフト・オート3」を有害図書類指定へ――神奈川県](http://www.itmedia.co.jp/games/articles/0505/30/news029.html)[ITMedia](https://ja.wikipedia.org/wiki/ITMedia "wikilink")2005年5月30日、2015年4月16日観覧
+5.
+6.
+7.
+8.  [リプレイの保存方法は？？](http://gta3.zoo.co.jp/support_question.html#no006)ZOO版GTA3公式サイト
+9.  [好きな音楽をゲーム中に再生できますか？](http://gta3.zoo.co.jp/support_question.html#no003)ZOO版GTA3公式サイト
+10. <http://www.rockstargames.com/newswire/article/741/updated-asked-answered-re-vice-city-red-dead-redemption-and-chin.html>
+11. アスカ含む残されたヤクザ達はケンジ殺しをカルテルによるものと思い込み、カルテルに復讐を誓うことになる。
+12. 後のミッションで殺害する。
+13. その際にクロードに今までのお礼として倉庫の鍵を渡しており、その中には報酬の金や複数の武器、防弾パトリオットが入っている。
+14. 『[VC](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』においてリカルド・ディアスがビデオを所持していた。
+15. この車に乗ってしまうと体に[爆弾](../Page/爆弾.md "wikilink")をつけたジャンキーが襲って自爆するが、乗った時点で死亡することはない。
+16. ゲーム終盤のアスカのミッションでカルテルとヤーディーズが繋がっていることを示す描写がある。
+17. 最後のミッションのムービーシーンで「俺は仮釈放の審査がある」と言っている。

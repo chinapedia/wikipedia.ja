@@ -1,7 +1,7 @@
 > この記事は[ANOTHER STORY \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
-『**ANOTHER STORY**』（アナザーストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")、また同バンドの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")による、同名のファンタジー小説。アルバムは[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")より、小説は[エイベックスより](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")同時発売。
+『**ANOTHER STORY**』（アナザー・ストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に[motorodから発売したメジャー](https://ja.wikipedia.org/wiki/avex_trax#レーベル "wikilink")4枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -13,50 +13,197 @@
 
 ## 収録曲
 
-1.  **『1/5の音箱』**
+1.  **「1/5の音箱」** \[0:44\]
+2.  **in the story** \[4:56\]
       -
-        この曲と「『少女と氷の女王』」の女声は[井上あずみ](../Page/井上あずみ.md "wikilink")が担当。
-2.  **in the story** (作詞:yasu　作曲:[you](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink"))
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
+        作曲：[you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")
+        編曲：Janne Da Arc、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")
+        ストリングスアレンジ：[村山](https://ja.wikipedia.org/wiki/村山達哉 "wikilink")/桐山ストリングス
+        補ストリングスアレンジ：[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")
+
+        </div>
+
+        </div>
+3.  **[マリアの爪痕](https://ja.wikipedia.org/wiki/マリアの爪痕 "wikilink")** \[4:40\]
       -
-        [マリンバ](../Page/マリンバ.md "wikilink")が使用されているが、マリンバは借りてきた物を使用し、[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")が担当した。
-3.  **[マリアの爪痕](https://ja.wikipedia.org/wiki/マリアの爪痕 "wikilink")** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+
+        13thシングルの表題曲。
+4.  **OASIS** \[4:21\]
       -
-        13thシングル。
-4.  **OASIS** (作詞:yasu　作曲:you)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu、[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")
+        作曲：you
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+5.  **赤い月** \[4:00\]
       -
-        闇をテーマとした曲。
-5.  **赤い月** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+6.  **「奪われた知恵」** \[0:20\]
+7.  **suicide note** \[3:28\]
       -
-        冒頭の[裏声](https://ja.wikipedia.org/wiki/裏声 "wikilink")はyasuによるもの。
-6.  **『奪われた知恵』**
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：kiyo
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+8.  **What's up\!** \[5:02\]
       -
-        他の2つのインストゥメンタルとは違い、ノイズのような構成になっている。また、前後の曲と繋がっている。
-7.  **suicide note** (作詞:yasu　作曲:[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink"))
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu、ka-yu
+        作曲：ka-yu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+9.  **PARADISE** \[4:02\]
       -
-        学校内などにおける[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")をテーマとした歌。
-8.  **What's up\!** (作詞:yasu＆[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")　作曲:ka-yu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：kiyo
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+10. **explosion** \[4:12\]
       -
-        一番はメンバー（yasu以外）のことを歌った歌。二番はファンに向けて歌っている。ファンの歓声で終わり、そのまま次曲に繋がっていく。
-9.  **PARADISE** (作詞・作曲:kiyo)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：you
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+11. **[霞ゆく空背にして](https://ja.wikipedia.org/wiki/霞ゆく空背にして "wikilink")** \[3:43\]
       -
-        初めて[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")[ベースに挑戦した曲](../Page/ベース_\(弦楽器\).md "wikilink")。この曲だけ歌詞カードで赤文字表記の歌詞がない。
-10. **explosion** (作詞:yasu　作曲:you)
-11. **[霞ゆく空背にして](https://ja.wikipedia.org/wiki/霞ゆく空背にして "wikilink")** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+
+        14thシングルの表題曲。
+12. **ヴァンパイア** \[4:26\]
       -
-        14thシングル。
-12. **ヴァンパイア** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+13. **「少女と氷の女王」** \[0:54\]
+14. **rasen** \[5:39\]
       -
-        アルバム曲だが、Janne Da Arcの中でも知名度が高い曲。ライブではyasuが観客を抱く演出をするのが恒例となっている。
-13. **『少女と氷の女王』**
-14. **rasen** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+15. **[Rainy〜愛の調べ〜](https://ja.wikipedia.org/wiki/Rainy〜愛の調べ〜 "wikilink")** \[8:02\]
       -
-        「生」をテーマとした曲。歌詞中に「LUNAの鏡」が登場する。
-15. **[Rainy 〜愛の調べ〜](https://ja.wikipedia.org/wiki/Rainy_〜愛の調べ〜 "wikilink")** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+        ストリングスアレンジ：村山/桐山ストリングス
+        補ストリングスアレンジ：kiyo
+
+        </div>
+
+        </div>
+
+        15thシングルの表題曲。
+16. **[Shining ray](https://ja.wikipedia.org/wiki/Shining_ray "wikilink")** \[4:03\]
       -
-        約8分に及ぶ曲。問い合わせが殺到したため、後に15thシングルとしてシングル化が決定した。シングルバージョンでは歌詞が一部異なっている。理由は発売した季節が違うため。また、約5分に短く編集されている。
-16. **[Shining ray](https://ja.wikipedia.org/wiki/Shining_ray "wikilink")** (作詞・作曲:yasu)
-      -
-        12thシングル。アニメ『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』エンディングテーマ。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：Janne Da Arc、岡野ハジメ
+
+        </div>
+
+        </div>
+
+        12thシングルの表題曲。
+
+## 参加ミュージシャン
+
+  - Janne Da Arc
+
+<!-- end list -->
+
+  - [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink")
+  - [ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+  - [shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
+
+<!-- end list -->
+
+  - Additional Musician
+
+<!-- end list -->
+
+  - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink")：[Tambourine](../Page/タンバリン.md "wikilink") & Additional Keyboards
+  - [井上あずみ](../Page/井上あずみ.md "wikilink")：Additional Vocal (\#1,13)
+  - 中道風花：Additional Vocal (\#13)
+  - 平林和音：Additional Vocal (\#13)
+
+## タイアップ
+
+  - [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[アソボット戦記五九](https://ja.wikipedia.org/wiki/アソボット戦記五九#アニメ "wikilink")』第2期[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディング曲 "wikilink") (\#11)
+  - [フジテレビ系列アニメ](../Page/フジネットワーク.md "wikilink")『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』第8期エンディングテーマ (\#16)
 
 ## 小説「ANOTHER STORY」
 
@@ -66,8 +213,6 @@
   - ISBN 978-4-344-99049-4（再版ソフトカバー版）
 
 ## 脚注
-
-<references />
 
 [Category:Janne_Da_Arcのアルバム](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink")
 

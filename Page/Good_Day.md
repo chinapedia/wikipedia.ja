@@ -15,6 +15,8 @@
   - [Good day (足立佳奈の曲)](../Page/Good_day_\(足立佳奈の曲\).md "wikilink") - [足立佳奈](https://ja.wikipedia.org/wiki/足立佳奈 "wikilink")のシングル曲。
   - [グッデイ\!\!](../Page/グッデイ!!.md "wikilink") - [V6のシングル曲](../Page/V6_\(グループ\).md "wikilink")。
   - [Good-Day 〜思い出に変わるならば〜](../Page/Good-Day_〜思い出に変わるならば〜.md "wikilink") - [岡村孝子](../Page/岡村孝子.md "wikilink")のシングル曲。
+  - Good day - [東京メトロ副都心線](../Page/東京メトロ副都心線.md "wikilink")[千川駅](https://ja.wikipedia.org/wiki/千川駅 "wikilink")4番線の[発車メロディ](../Page/発車メロディ.md "wikilink")。[谷本貴義](../Page/谷本貴義.md "wikilink")作曲。
+  - Good day - [るぅと](https://ja.wikipedia.org/wiki/るぅと "wikilink")の楽曲。アルバム「[君と僕の秘密基地](https://ja.wikipedia.org/wiki/君と僕の秘密基地 "wikilink")」収録。
 
 ## 企業名
 

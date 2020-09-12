@@ -442,7 +442,7 @@ U23・ジュニア及びユースのポイント有効期限は次の通り\[14\
 
   - [FIVB公式サイト - FIVB VOLLEYBALL WORLD RANKINGS（英語）](https://www.fivb.org/en/volleyball/Rankings.asp)
   - [JVA公式サイト - FIVB世界ランキング算出システム](https://www.jva.or.jp/worldranking/)
-  - [Stay Foolish - FIVBランキングについてまとめてみる](http://d.hatena.ne.jp/sputnik0829/20100613/p1)
+  - [Stay Foolish - FIVBランキングについてまとめてみる](https://sputnik0829.hatenadiary.com/entry/20100613/p1)
 
 [Category:バレーボール統括団体](https://ja.wikipedia.org/wiki/Category:バレーボール統括団体 "wikilink") [Category:スポーツのランキング](https://ja.wikipedia.org/wiki/Category:スポーツのランキング "wikilink")
 

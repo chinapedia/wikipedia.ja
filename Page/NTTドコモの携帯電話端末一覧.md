@@ -1,7 +1,7 @@
 > この記事は[NTTドコモの携帯電話端末一覧](https://ja.wikipedia.org/wiki/NTTドコモの携帯電話端末一覧)から翻訳されています。
 
 
-本記事では、**[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（各地域分社時代を含む）の[携帯電話](../Page/携帯電話.md "wikilink")端末**について詳細に説明する。
+**NTTドコモの携帯電話端末一覧**（NTTドコモのけいたいでんわたんまついちらん）では、**[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（各地域分社時代を含む）の[携帯電話](../Page/携帯電話.md "wikilink")端末**について詳細に説明する。
 
 ## 携帯電話端末と型番ルール（1996年 - 2008年夏）
 
@@ -2108,7 +2108,7 @@
 <em><a href="https://ja.wikipedia.org/wiki/F-02H" title="wikilink">F-02H</a></em></p></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/Nexus_5X" title="wikilink">Nexus 5X</a></em></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/SC-01H" title="wikilink">SC-01H</a></em></p></td>
@@ -2657,7 +2657,7 @@
 
   - [BF-01C](https://ja.wikipedia.org/wiki/BF-01C "wikilink")（[バッファロー製](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink")） - 2011年5月に開発を発表し、発売を予定していたが、「十分な品質を担保するため」として発売を延期した。その後2012年1月に仕様を変更したBF-01Dの発売が発表され、BF-01Cは発売中止となった。\[8\]。
 
-  - （[サムスン電子](../Page/サムスン電子.md "wikilink")製） - 海外でバッテリーの発火事故が相次ぎ、販売停止になったことから取り扱いが見送られた\[9\]。
+  - （[サムスン電子](../Page/サムスン電子.md "wikilink")製） - 海外でバッテリーの発火事故が相次ぎ、販売停止になったことから取り扱いが見送られた\[9\]。そのため、2017年の機種の型番は「SC-01J」が欠番となった。
 
   - [Galaxy S20+ 5G Olympic Games Edition](../Page/Samsung_Galaxy_S20.md "wikilink") [SC-52A](https://ja.wikipedia.org/wiki/SC-52A "wikilink")（サムスン電子製） - [2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")・[2020年東京パラリンピック](https://ja.wikipedia.org/wiki/2020年東京パラリンピック "wikilink")が[新型コロナウイルスの影響によって](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")[2021年](../Page/2021年.md "wikilink")に延期になったことを受け、2020年4月22日に発売中止を発表\[10\]。
 
@@ -2667,7 +2667,7 @@
 
 ### 出典
 
-[Category:携帯電話_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(NTTドコモ\) "wikilink") [Category:PHS_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:PHS_\(NTTドコモ\) "wikilink") [Category:携帯電話端末_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(NTTドコモ\) "wikilink") [Category:NTTドコモ](https://ja.wikipedia.org/wiki/Category:NTTドコモ "wikilink") [Category:製品の一覧](https://ja.wikipedia.org/wiki/Category:製品の一覧 "wikilink") [Category:スマートフォン](https://ja.wikipedia.org/wiki/Category:スマートフォン "wikilink")
+[Category:PHS_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:PHS_\(NTTドコモ\) "wikilink") [Category:携帯電話端末_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(NTTドコモ\) "wikilink") [Category:製品の一覧](https://ja.wikipedia.org/wiki/Category:製品の一覧 "wikilink") [Category:スマートフォン](https://ja.wikipedia.org/wiki/Category:スマートフォン "wikilink")
 
 1.  2010年春までは[日本電気](../Page/日本電気.md "wikilink")製、2011年夏以降はNECブランドとカシオブランドが共存する。
 2.  2011年冬までは[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")製、2012年春以降は[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")製。

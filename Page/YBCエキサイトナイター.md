@@ -162,6 +162,7 @@
 
 ## 関連項目
 
+  - [DRAMATIC BASEBALL](https://ja.wikipedia.org/wiki/DRAMATIC_BASEBALL "wikilink")（YBCテレビ）
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:山形放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山形放送のラジオ番組 "wikilink")

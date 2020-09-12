@@ -1,7 +1,7 @@
 > この記事は[FANTA ZERO COASTER](https://ja.wikipedia.org/wiki/FANTA_ZERO_COASTER)から翻訳されています。
 
 
-**FANTA ZERO COASTER**（**ファンタ・ゼロ・コースター**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年12月結成。2000年9月[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")よりメジャーデビュー。2003年[プライムディレクション](https://ja.wikipedia.org/wiki/プライムディレクション "wikilink")[HiBOOM](https://ja.wikipedia.org/wiki/HiBOOM "wikilink")に移籍。2004年3月27日より活動休止。結成20周年を目前にして15年振りの再集結ワンマンライブを2019/7/6(土)・7(日)、代官山LOOPで2days決行。
+**FANTA ZERO COASTER**（**ファンタ・ゼロ・コースター**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年12月結成。2000年9月[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")よりメジャーデビュー。2003年[プライムディレクション](https://ja.wikipedia.org/wiki/プライムディレクション "wikilink")[HiBOOM](https://ja.wikipedia.org/wiki/HiBOOM "wikilink")に移籍。2004年3月27日より活動休止。結成20周年を目前にして15年振りの再集結ワンマンライブを、2019年7月6日・7日に代官山LOOPで開催。
 
 ## メンバー
 
@@ -54,4 +54,4 @@
   - [.Sam Official Web Site](http://mitsubaco.com/sam/pc/index.html)（閉鎖）
   - [公式Twitter](https://twitter.com/fanzeco)
 
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去のトライストーン・エンタテイメント所属者](https://ja.wikipedia.org/wiki/Category:過去のトライストーン・エンタテイメント所属者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink")

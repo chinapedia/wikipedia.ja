@@ -3,13 +3,11 @@
 
 『**SAKON（左近） -戦国風雲録-**』（さこん せんごくふううんろく）は、原作：[隆慶一郎](../Page/隆慶一郎.md "wikilink")、脚本：[二橋進吾](https://ja.wikipedia.org/wiki/二橋進吾 "wikilink")、漫画：[原哲夫](../Page/原哲夫.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、1997年5月号から2000年5月号まで連載された。
 
-原は隆慶一郎の小説・「[影武者徳川家康](../Page/影武者徳川家康.md "wikilink")」を漫画化し『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』で連載したものの、打ち切りとなった。その後、島左近を主人公として大幅にアレンジしたものが、本作である。
+原は隆の小説『[影武者徳川家康](../Page/影武者徳川家康.md "wikilink")』を漫画化して『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』で連載したものの、打ち切りとなった。その後、主人公を変更すると共にバトル漫画として大幅にアレンジしたものが本作であり、刀の一撃で数十人の敵を倒す場面や、超能力に類する必殺技、原の過去作品『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』を思わせる奇妙な断末魔などが多数登場する。
 
 ## あらすじ
 
 [石田三成](../Page/石田三成.md "wikilink")から[豊臣秀頼](../Page/豊臣秀頼.md "wikilink")の安泰を託された戦国の豪勇であり義人・[島左近が](../Page/島清興.md "wikilink")、家臣の甲斐の六郎や[徳川家康](../Page/徳川家康.md "wikilink")の影武者である世良田二郎三郎元信と共に、真実を知り日本を支配しようとする[徳川秀忠](../Page/徳川秀忠.md "wikilink")らの勢力と対決する。
-
-『影武者徳川家康』よりバトル漫画としてのアレンジが強まっており、刀の一撃で数十人の敵を倒す場面や、風魔不動雷電を始めとする超能力に類する必殺技、[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")を思わせる奇妙な断末魔などが多数登場する。
 
 ## 登場人物
 

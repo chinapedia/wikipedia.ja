@@ -27,25 +27,15 @@
 
 ### 映画
 
-:; 『[プライベート・ライアン](../Page/プライベート・ライアン.md "wikilink")』
-
-  -
-
-      -
-        [武装親衛隊](../Page/武装親衛隊.md "wikilink")の装備として登場。[ティーガーI](../Page/ティーガーI.md "wikilink")に取り付いた[アメリカ兵たちに水平](../Page/アメリカ軍.md "wikilink")[射撃](../Page/射撃.md "wikilink")を加えて排除し、高い威力を見せつける。
+  - 『[プライベート・ライアン](../Page/プライベート・ライアン.md "wikilink")』
+    [武装親衛隊](../Page/武装親衛隊.md "wikilink")の装備として登場。[ティーガーI](../Page/ティーガーI.md "wikilink")に取り付いた[アメリカ兵たちに水平](../Page/アメリカ軍.md "wikilink")[射撃](../Page/射撃.md "wikilink")を加えて排除し、高い威力を見せつける。
 
 ### ゲーム
 
-:; 『[バトルフィールド1942](../Page/バトルフィールド1942.md "wikilink")』
-
-:: [ドイツ軍](../Page/ドイツ国防軍.md "wikilink")・[日本軍](../Page/日本軍.md "wikilink")の[対空](../Page/対空砲.md "wikilink")[機関砲](../Page/機関砲.md "wikilink")として登場する。
-
-:;『[バトルフィールドV](https://ja.wikipedia.org/wiki/バトルフィールドV "wikilink")』
-
-  -
-
-      -
-        固定対空砲としてマップに配置されている。
+  - 『[バトルフィールド1942](../Page/バトルフィールド1942.md "wikilink")』
+    [ドイツ軍](../Page/ドイツ国防軍.md "wikilink")・[日本軍](../Page/日本軍.md "wikilink")の[対空](../Page/対空砲.md "wikilink")[機関砲](../Page/機関砲.md "wikilink")として登場する。
+  - 『[バトルフィールドV](https://ja.wikipedia.org/wiki/バトルフィールドV "wikilink")』
+    固定対空砲としてマップに配置されている。
 
 ## 関連項目
 

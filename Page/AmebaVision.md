@@ -21,7 +21,7 @@ AmebaVisionも[アメーバブログ](../Page/アメーバブログ.md "wikilink
 
 ## サービス終了
 
-[有名人](https://ja.wikipedia.org/wiki/有名人 "wikilink")・[著名人](https://ja.wikipedia.org/wiki/著名人 "wikilink")らが投稿した動画で注目を集めたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[3月31日](../Page/3月31日.md "wikilink")に原宿の番組収録用スタジオ「アメーバスタジオ」が運営を終了し、[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）[3月27日](../Page/3月27日.md "wikilink")にAmebaVisionの終了が発表された。投稿は同年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")で受付を終了し、[6月6日](../Page/6月6日.md "wikilink")以降は動画再生や投稿者自身が行う保存目的のダウンロードのみとなり、動画の公開と保存目的のダウンロードも[2013年](../Page/2013年.md "wikilink")（[平成](../Page/平成.md "wikilink")25年）[1月22日](../Page/1月22日.md "wikilink")で終了し、動画は消去された\[3\]。
+[有名人](https://ja.wikipedia.org/wiki/有名人 "wikilink")・[著名人](https://ja.wikipedia.org/wiki/著名人 "wikilink")らが投稿した動画で注目を集めたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）[3月31日](../Page/3月31日.md "wikilink")に[原宿](../Page/原宿.md "wikilink")の番組収録用スタジオ「アメーバスタジオ」が運営を終了し、[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）[3月27日](../Page/3月27日.md "wikilink")にAmebaVisionの終了が発表された。投稿は同年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")で受付を終了し、[6月6日](../Page/6月6日.md "wikilink")以降は動画再生や投稿者自身が行う保存目的のダウンロードのみとなり、動画の公開と保存目的のダウンロードも[2013年](../Page/2013年.md "wikilink")（[平成](../Page/平成.md "wikilink")25年）[1月22日](../Page/1月22日.md "wikilink")で終了し、動画は消去された\[3\]。
 
 ## 脚注・出典
 

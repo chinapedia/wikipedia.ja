@@ -5,7 +5,7 @@
 
 ## 概要
 
-[シャープ](../Page/シャープ.md "wikilink")が[905SH等に](../Page/Vodafone_905SH.md "wikilink")、同社の[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")「[AQUOS](https://ja.wikipedia.org/wiki/AQUOS "wikilink")」ブランドを載せて「[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")」と銘打って販売しているのと同様、[ソニー](../Page/ソニー.md "wikilink")のデジタルハイビジョンテレビ「[BRAVIA](https://ja.wikipedia.org/wiki/BRAVIA "wikilink")」のブランドを銘打ったものである。
+[シャープ](../Page/シャープ.md "wikilink")が[905SH等に](../Page/Vodafone_905SH.md "wikilink")、同社の[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")「[AQUOS](../Page/アクオス.md "wikilink")」ブランドを載せて「[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")」と銘打って販売しているのと同様、[ソニー](../Page/ソニー.md "wikilink")のデジタルハイビジョンテレビ「[BRAVIA](https://ja.wikipedia.org/wiki/BRAVIA "wikilink")」のブランドを銘打ったものである。
 
 なお、AQUOSケータイに比肩しうる奇抜な機構を搭載した[W44S](../Page/W44S.md "wikilink")についてはこの名は冠されていない。
 

@@ -212,4 +212,4 @@
   -
   -
   -
-[Category:1998年の映画](https://ja.wikipedia.org/wiki/Category:1998年の映画 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:パリを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:パリを舞台とした映画作品 "wikilink") [Category:ユナイテッド・アーティスツの作品](https://ja.wikipedia.org/wiki/Category:ユナイテッド・アーティスツの作品 "wikilink") [Category:ジョン・フランケンハイマーの監督映画](https://ja.wikipedia.org/wiki/Category:ジョン・フランケンハイマーの監督映画 "wikilink")
+[Category:1998年の映画](https://ja.wikipedia.org/wiki/Category:1998年の映画 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:パリを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:パリを舞台とした映画作品 "wikilink") [Category:パリで製作された映画作品](https://ja.wikipedia.org/wiki/Category:パリで製作された映画作品 "wikilink") [Category:ユナイテッド・アーティスツの作品](https://ja.wikipedia.org/wiki/Category:ユナイテッド・アーティスツの作品 "wikilink") [Category:ジョン・フランケンハイマーの監督映画](https://ja.wikipedia.org/wiki/Category:ジョン・フランケンハイマーの監督映画 "wikilink")

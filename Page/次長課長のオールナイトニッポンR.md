@@ -204,4 +204,4 @@
   - [オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")
   - [オールナイトニッポンR スペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンR_スペシャルナイト "wikilink")
 
-[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink")
+[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink")

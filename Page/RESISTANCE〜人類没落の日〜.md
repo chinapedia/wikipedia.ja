@@ -187,7 +187,7 @@ PS3の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")
   - [RESISTANCE2 公式サイト](http://www.jp.playstation.com/scej/title/resistance2/)
   - [RESISTANCE〜報復の刻〜 公式サイト](http://www.jp.playstation.com/scej/title/resistance_psp/)
 
-[Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")
+[Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:RESISTANCE](https://ja.wikipedia.org/wiki/Category:RESISTANCE "wikilink")
 
 1.  [英国国教会がPS3用ゲームソフトの販売停止を要求](http://www.afpbb.com/article/environment-science-it/it/2237480/1679721)（[AFP](../Page/フランス通信社.md "wikilink")）
 2.  [英国国教会、銃撃ゲームめぐりソニーに「献金」要請へ](http://www.afpbb.com/article/environment-science-it/it/2237995/1683600)(AFP)

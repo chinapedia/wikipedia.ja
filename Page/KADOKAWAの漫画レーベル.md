@@ -117,9 +117,13 @@
 
   - ニコニコCA COMICS - [キャラアニ](https://ja.wikipedia.org/wiki/キャラアニ "wikilink")発行の「[ニコニコ静画](https://ja.wikipedia.org/wiki/ニコニコ静画 "wikilink")」のコンテンツを書籍化するコミックレーベル。
 
-## バンダイビジュアル発行
+## 他グループ発行・販売受託
 
-[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")は[KADOKAWAグループ](../Page/KADOKAWAグループ.md "wikilink")でなく[バンダイナムコグループ](../Page/バンダイナムコグループ.md "wikilink")の企業であるが、[ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/ウェブコミック配信サイト "wikilink")『[Webコミックゲッキン](https://ja.wikipedia.org/wiki/Webコミックゲッキン "wikilink")』（旧『YOMBAN』）掲載作品の単行本を角川GPより発売していた。
+[KADOKAWAグループ](../Page/KADOKAWAグループ.md "wikilink")外の企業からKADOKAWAが受託して、販売している例
+
+### バンダイビジュアル発行
+
+[バンダイナムコグループ](../Page/バンダイナムコグループ.md "wikilink")の[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")（現[バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")）は、かつて[ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/ウェブコミック配信サイト "wikilink")『[Webコミックゲッキン](https://ja.wikipedia.org/wiki/Webコミックゲッキン "wikilink")』（旧『YOMBAN』）掲載作品の単行本を角川GPより発売していた。
 
   - エモーションコミックス
 
@@ -127,6 +131,13 @@
 
   -
     2011年3月までは子会社の[エモーションが発行元であったが](https://ja.wikipedia.org/wiki/エモーション_\(バンダイナムコグループ\) "wikilink")2011年4月にバンダイビジュアルがエモーションを吸収合併して新たに発行元となっている。
+
+### ブシロードメディア発行
+
+[ブシロードグループ](https://ja.wikipedia.org/wiki/ブシロードグループ "wikilink")の[ブシロードメディア](https://ja.wikipedia.org/wiki/ブシロードメディア "wikilink")が発行する[月刊ブシロード](https://ja.wikipedia.org/wiki/月刊ブシロード "wikilink")の発売をKADOKAWAで受託しており、その連載作品のコミックス単行本などは「KADOKAWAコミックス」の表記でKADOKAWAより発売される。
+
+  -
+    ただし、KADOKAWAのサイトでは、「コミックス（その他）」に分類されている。
 
 ## 脚注
 

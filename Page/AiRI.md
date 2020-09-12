@@ -3,7 +3,7 @@
 
 **AiRI**（あいり、[9月13日](../Page/9月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。
 
-[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")出身。[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")及びSTUDIO696所属。旧名は**UR@N**（URAN / うらん）。主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")や[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の主題歌、挿入歌、イメージソングを歌っており、[OVERDRIVE](https://ja.wikipedia.org/wiki/OVERDRIVE "wikilink")のPCゲーム『[キラ☆キラ](../Page/キラ☆キラ.md "wikilink")』の劇中に登場する架空の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「**[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")**」では、現実においてのライブ活動で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の椎野きらり役を担当している。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[1\]。身長160[cm](../Page/センチメートル.md "wikilink")\[2\]。
+[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")出身。[Lantis](https://ja.wikipedia.org/wiki/Lantis "wikilink")、STUDIO696所属。旧名は**UR@N**（URAN / うらん）。主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")や[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の主題歌、挿入歌、イメージソングを歌っており、PCゲーム『[キラ☆キラ](../Page/キラ☆キラ.md "wikilink")』に登場する架空の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「**[第二文芸部](https://ja.wikipedia.org/wiki/第二文芸部 "wikilink")**」では、現実においてのライブ活動で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の椎野きらり役を担当している。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[1\]。身長160[cm](../Page/センチメートル.md "wikilink")\[2\]。
 
 ## 人物
 

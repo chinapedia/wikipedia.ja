@@ -33,7 +33,7 @@
 
 [2013年](../Page/2013年.md "wikilink")7月21日、[第23回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第23回参議院議員通常選挙 "wikilink")に幸福実現党の[比例代表](https://ja.wikipedia.org/wiki/比例代表 "wikilink")として出馬した。 また、[2014年](../Page/2014年.md "wikilink")12月14日に行われた[第47回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第47回衆議院議員総選挙 "wikilink")にも同様に幸福実現党の比例代表として出馬。
 
-[2016年](../Page/2016年.md "wikilink")[第24回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第24回参議院議員通常選挙 "wikilink")に幸福実現党の[東京都選挙区](../Page/東京都選挙区.md "wikilink")の候補として出馬した\[10\]が落選した。その後、TOKMAの応援演説をした見返りに、現金5万円を受け取るなどしたとして[警視庁](../Page/警視庁.md "wikilink")にタレントの[テレンス・リー](https://ja.wikipedia.org/wiki/テレンス・リー "wikilink")と関係者2人が逮捕され、幸福実現党本部が、公選法違反（買収）容疑で家宅捜索された\[11\]\[12\]。
+[2016年](../Page/2016年.md "wikilink")[第24回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第24回参議院議員通常選挙 "wikilink")に幸福実現党の[東京都選挙区](../Page/東京都選挙区.md "wikilink")の候補として出馬した\[10\]。その後、TOKMAの応援演説をした見返りに、現金5万円を受け取るなどしたとして[警視庁](../Page/警視庁.md "wikilink")にタレントの[テレンス・リー](https://ja.wikipedia.org/wiki/テレンス・リー "wikilink")と関係者2人が逮捕され、幸福実現党本部が、公選法違反（買収）容疑で家宅捜索された\[11\]\[12\]。
 
 ### 政策
 

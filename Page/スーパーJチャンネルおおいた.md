@@ -1,7 +1,7 @@
 > この記事は[スーパーJチャンネルおおいた](https://ja.wikipedia.org/wiki/スーパーJチャンネルおおいた)から翻訳されています。
 
 
-『**スーパーJチャンネルおおいた**』（スーパージェイチャンネルおおいた）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で平日 18:25 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
+『**スーパーJチャンネルおおいた**』（スーパージェイチャンネルおおいた）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で平日 18:25 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
@@ -107,4 +107,4 @@
 
   - [スーパーJチャンネルおおいた│OAB番組制作｜番組案内｜OAB 大分朝日放送](http://www.oab.co.jp/programguide/oab_jchannel.html)
 
-[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:大分朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分朝日放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:大分朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分朝日放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

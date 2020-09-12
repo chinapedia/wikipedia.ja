@@ -50,7 +50,7 @@ NGO能力強化・ネットワーク整備 [1](http://www.jccp.gr.jp/biz/oversea
 
 <!-- end list -->
 
-  - [近衛忠煇](https://ja.wikipedia.org/wiki/近衛忠てる "wikilink")（[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")社長）
+  - [近衛忠煇](https://ja.wikipedia.org/wiki/近衞忠煇 "wikilink")（[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")社長）
   - [明石康](../Page/明石康.md "wikilink")（元国際連合事務次長）
 
 <!-- end list -->
@@ -93,9 +93,9 @@ NGO能力強化・ネットワーク整備 [1](http://www.jccp.gr.jp/biz/oversea
 
 ## 外部リンク
 
-  - [特定非営利活動法人　Reach Alternatives](http://www.jccp.gr.jp/)
-  - [紛争地のアンテナ](http://ameblo.jp/seyarumi/)（[瀬谷ルミ子](https://ja.wikipedia.org/wiki/瀬谷ルミ子 "wikilink")ブログ）
+  - [特定非営利活動法人　Reach Alternatives](https://reals.org/)
+  - [紛争地のアンテナ](https://ameblo.jp/seyarumi/)（[瀬谷ルミ子](https://ja.wikipedia.org/wiki/瀬谷ルミ子 "wikilink")ブログ）
 
 [Category:認定特定非営利活動法人](https://ja.wikipedia.org/wiki/Category:認定特定非営利活動法人 "wikilink") [Category:人道援助関連の組織](https://ja.wikipedia.org/wiki/Category:人道援助関連の組織 "wikilink")
 
-1.  [公式HP](http://www.jccp.gr.jp/)
+1.  [公式HP](https://reals.org/)

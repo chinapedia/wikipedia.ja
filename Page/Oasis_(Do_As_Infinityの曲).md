@@ -53,4 +53,4 @@
 
 1.  **Oasis \[2 of Us\]**
 
-[Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:水を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:水を題材とした楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

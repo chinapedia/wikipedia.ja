@@ -222,7 +222,7 @@
 <td><p>プロμマッハGOGOGO車検320R九州</p></td>
 <td><p><a href="../Page/玉中哲二.md" title="wikilink">玉中哲二</a><br />
  <a href="https://ja.wikipedia.org/wiki/筒井克彦" title="wikilink">筒井克彦</a><br />
- <a href="https://ja.wikipedia.org/wiki/渡辺明" title="wikilink">渡辺明</a>（Rd.6）</p></td>
+ <a href="../Page/渡辺明_(レーシングドライバー).md" title="wikilink">渡辺明</a>（Rd.6）</p></td>
 <td><p>TEAM マッハ</p></td>
 <td></td>
 </tr>

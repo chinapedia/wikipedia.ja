@@ -189,6 +189,7 @@
   - 4月24日(金)、1stフルアルバム『Pink』がリリースに先駆けApple Music、Spotify、OTOTOYなど各種サブスク、配信サービスから配信開始。
   - 4月26日(日)、ライブ活動ができない状態だからこそできることをRAYメンバーが考えた「おうちcollectionシリーズ」をメンバー4人同時に発表。
   - 5月1日(金)、RAYお披露目1周年を記念して、「[RAY - RAY001 the beginning of the dream 2019/5/1 at 渋谷チェルシーホテル](https://www.youtube.com/watch?v=PFM0LmWn83Y&feature=youtu.be)」を公式YouTubeアカウントにて配信。
+  - 7月14日(火)、1stアルバム『Pink』リリース記念60分無料配信ライブを開催。本来オフラインで実施されたであろうリリースイベントをオンラインで実施。新曲「愛はどこいったの?」初披露。
 
 ## メンバー
 
@@ -443,6 +444,15 @@
 <td><p>みきれちゃん、ジム</p></td>
 <td></td>
 <td><p>新バージョン。 2020年4月15日 <a href="https://www.youtube.com/watch?v=Yc-riJnvqWY&amp;feature=youtu.be">RAY 1st Album “Pink” 期間限定アルバムフル視聴</a>にて初公開。</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年7月14日(火)</p></td>
+<td><p>愛はどこいったの?</p></td>
+<td><p>ハタユウスケ (<a href="https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom" title="wikilink">cruyff in the bedroom</a>)</p></td>
+<td><p>ハタユウスケ (<a href="https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom" title="wikilink">cruyff in the bedroom</a>)</p></td>
+<td><p>ハタユウスケ (<a href="https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom" title="wikilink">cruyff in the bedroom</a>)</p></td>
+<td></td>
+<td><p>2020年7月14日 <a href="https://www.youtube.com/watch?time_continue=1550&amp;v=gTni48FnqVM&amp;feature=emb_title">RAY 1stアルバム『Pink』リリース記念60分無料配信ライブ</a>にてライブ初披露。</p></td>
 </tr>
 </tbody>
 </table>
@@ -2967,7 +2977,7 @@
   - [collections 公式HP](http://collections.id): <http://collections.id>
   - collections Twitter: [@collections_cf](https://twitter.com/collections_cf)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
 1.
 2.

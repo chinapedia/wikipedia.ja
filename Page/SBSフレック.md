@@ -27,6 +27,6 @@
 
 ## 外部リンク
 
-  - [SBSフレック株式会社](http://www.sbs-flec.co.jp/)
+  - [SBSフレック株式会社](https://www.sbs-flec.co.jp/)
 
 [Category:墨田区の企業](https://ja.wikipedia.org/wiki/Category:墨田区の企業 "wikilink") [Category:日本の陸運業者](https://ja.wikipedia.org/wiki/Category:日本の陸運業者 "wikilink") [Category:SBSホールディングス](https://ja.wikipedia.org/wiki/Category:SBSホールディングス "wikilink") [Category:雪印メグミルク](https://ja.wikipedia.org/wiki/Category:雪印メグミルク "wikilink") [Category:1956年設立の企業](https://ja.wikipedia.org/wiki/Category:1956年設立の企業 "wikilink")

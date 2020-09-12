@@ -85,7 +85,7 @@
   - night clubbers (舛井功)
   - lightin' grooves (清水俊也)
   - [DJ ME-YA (水谷智明)](../Page/DJ_ME-YA.md "wikilink")
-  - [knock-out 70 (大島こうすけ)](../Page/大島こうすけ.md "wikilink") - [WANDS](../Page/WANDS.md "wikilink")（第1期）メンバー。[SO-FI](../Page/SO-FI.md "wikilink")メンバー。
+  - [knock-out 70 (大島こうすけ)](../Page/大島こうすけ.md "wikilink") - [WANDS](../Page/WANDS.md "wikilink")（第1期・第4期）メンバー。[SO-FI](../Page/SO-FI.md "wikilink")メンバー。
   - Bootee
   - [Dr.Terachi (寺地秀行)](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")
   - Pierrot Le Fou (窪田博之)

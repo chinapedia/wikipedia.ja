@@ -284,6 +284,13 @@
 <td></td>
 <td><p><a href="../Page/ユタ・ジャズ.md" title="wikilink">Utah Jazz</a></p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヤニス・アデトクンボ" title="wikilink">ヤニス・アデトクンボ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バスケットボール#フォワード（F）" title="wikilink">Forward</a></p></td>
+<td></td>
+<td><p><a href="../Page/ミルウォーキー・バックス.md" title="wikilink">Milwaukee Bucks</a></p></td>
+</tr>
 </tbody>
 </table>
 

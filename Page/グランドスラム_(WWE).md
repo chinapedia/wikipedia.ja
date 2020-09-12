@@ -9,16 +9,29 @@
 
 しかし、2015年から[US王座がヨーロピアン王座の代用として認められ](../Page/WWE・ユナイテッドステイツ王座.md "wikilink")、認められる前に獲得した選手もグランドスラムの称号を得られるようになった。その後、2016年のブランド再分割により、WWE・タッグチーム王座は[WWE・ロウ・タッグチーム王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink")に改称されて、新たに[WWEユニバーサル王座](https://ja.wikipedia.org/wiki/WWEユニバーサル王座 "wikilink")、[WWE・スマックダウン・タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン・タッグチーム王座 "wikilink")が新設されたが、これらの王座も同格とみなされグランドスラムの資格を得ることができる。
 
-女子は[NXT女子王座](https://ja.wikipedia.org/wiki/NXT女子王座 "wikilink")、[WWE女子王座（現ロウ女子王座）](https://ja.wikipedia.org/wiki/WWE・ロウ女子王座 "wikilink")、[スマックダウン女子王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン女子王座 "wikilink")、[女子タッグチーム王座の](https://ja.wikipedia.org/wiki/WWE・女子タッグチーム王座 "wikilink")4タイトルの獲得経験がある選手に送られる栄誉である\[1\]\[2\]\[3\]\[4\]。2019年5月の[マネー・イン・ザ・バンクで](https://ja.wikipedia.org/wiki/WWEマネー・イン・ザ・バンク "wikilink")[ベイリーがスマックダウン女子王座を奪取したため](https://ja.wikipedia.org/wiki/パメラ・マルティネス "wikilink")、女子初のグランドスラムを達成している。また、2020年5月には[ASUKAがロウ女子王座を獲得し](../Page/華名.md "wikilink")、史上2人目の達成者となった。
+女子は[ロウ女子王座](https://ja.wikipedia.org/wiki/WWE・ロウ女子王座 "wikilink")、[スマックダウン女子王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン女子王座 "wikilink")、[NXT女子王座](https://ja.wikipedia.org/wiki/NXT女子王座 "wikilink")、[女子タッグチーム王座の](https://ja.wikipedia.org/wiki/WWE・女子タッグチーム王座 "wikilink")4タイトルの獲得経験がある選手に送られる栄誉である\[1\]\[2\]\[3\]\[4\]。2019年5月の[マネー・イン・ザ・バンクで](https://ja.wikipedia.org/wiki/WWEマネー・イン・ザ・バンク "wikilink")[ベイリーがスマックダウン女子王座を奪取したため](https://ja.wikipedia.org/wiki/パメラ・マルティネス "wikilink")、女子初のグランドスラムを達成している。また、2020年5月には[ASUKAがロウ女子王座を獲得し](https://ja.wikipedia.org/wiki/ASUKA_\(プロレスラー\) "wikilink")、史上2人目の達成者となった。
 
 ## 達成に必要な王座
 
-  - [WWE王座](https://ja.wikipedia.org/wiki/WWE王座 "wikilink")、[WWEユニバーサル王座](https://ja.wikipedia.org/wiki/WWEユニバーサル王座 "wikilink")([世界ヘビー級王座](https://ja.wikipedia.org/wiki/WWE・世界ヘビー級王座 "wikilink"))
-  - [WWE・ロウ・タッグチーム王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink")、[WWE・スマックダウン・タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン・タッグチーム王座 "wikilink")([WWE世界タッグ王座](../Page/WWE・世界タッグチーム王座.md "wikilink")、[WWE・タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・タッグチーム王座 "wikilink"))
+※カッコは既に廃止された王座
+
+### 男子
+
+  - [WWE王座](https://ja.wikipedia.org/wiki/WWE王座 "wikilink")、[WWEユニバーサル王座](https://ja.wikipedia.org/wiki/WWEユニバーサル王座 "wikilink")([WWE世界ヘビー級王座](https://ja.wikipedia.org/wiki/WWE・世界ヘビー級王座 "wikilink"))
+  - [WWE・ロウ・タッグチーム王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink")、[WWE・スマックダウン・タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン・タッグチーム王座 "wikilink")([WWE世界タッグ王座](../Page/WWE・世界タッグチーム王座.md "wikilink"))
   - [インターコンチネンタル王座](../Page/WWE・インターコンチネンタル王座.md "wikilink")
   - [US王座](../Page/WWE・ユナイテッドステイツ王座.md "wikilink")([ヨーロピアン王座](https://ja.wikipedia.org/wiki/WWE・ヨーロピアン王座 "wikilink")、[ハードコア王座](../Page/WWE・ハードコア王座.md "wikilink"))
 
+### 女子
+
+  - [ロウ女子王座](https://ja.wikipedia.org/wiki/WWE・ロウ女子王座 "wikilink")
+  - [スマックダウン女子王座](https://ja.wikipedia.org/wiki/WWE・スマックダウン女子王座 "wikilink")
+  - [NXT女子王座](https://ja.wikipedia.org/wiki/NXT女子王座 "wikilink")
+  - [女子タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・女子タッグチーム王座 "wikilink")
+
 ## 歴代達成者
+
+### 2015年度以前
 
   - [ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")
   - [トリプルH](../Page/トリプルH.md "wikilink")
@@ -27,17 +40,17 @@
   - [カート・アングル](../Page/カート・アングル.md "wikilink")
   - [エディ・ゲレロ](../Page/エディ・ゲレロ.md "wikilink")
   - [ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")
+  - [エッジ](../Page/アダム・コープランド.md "wikilink")
   - [ブッカー・T](https://ja.wikipedia.org/wiki/ブッカー・ハフマン "wikilink")
   - [ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")
   - [ジョン "ブラッドショー" レイフィールド](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")
   - [クリスチャン](../Page/ジェイソン・リソ.md "wikilink")
-  - [ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")
-  - [エッジ](../Page/アダム・コープランド.md "wikilink")
-
-#### 2015年度以降
-
   - [ドルフ・ジグラー](https://ja.wikipedia.org/wiki/ドルフ・ジグラー "wikilink")
+  - [ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")
   - [ザ・ミズ](../Page/ザ・ミズ.md "wikilink")
+
+### 2015年度以降
+
   - [ダニエル・ブライアン](https://ja.wikipedia.org/wiki/ダニエル・ブライアン "wikilink")
   - [ディーン・アンブローズ](https://ja.wikipedia.org/wiki/ディーン・アンブローズ "wikilink")
   - [ロマン・レインズ](https://ja.wikipedia.org/wiki/ロマン・レインズ "wikilink")
@@ -46,7 +59,7 @@
   - [コフィ・キングストン](../Page/コフィ・キングストン.md "wikilink")
   - [レイ・ミステリオ](https://ja.wikipedia.org/wiki/レイ・ミステリオ "wikilink")
 
-#### 女子
+### 女子
 
   - ベイリー
   - ASUKA

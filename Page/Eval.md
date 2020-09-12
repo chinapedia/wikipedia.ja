@@ -1,7 +1,7 @@
 > この記事は[Eval](https://ja.wikipedia.org/wiki/Eval)から翻訳されています。
 
 
-**eval**（イーバル）はいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")が持つ、[文字列](../Page/文字列.md "wikilink")を[式として評価する](../Page/式_\(プログラミング\).md "wikilink")[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")、または複数の[文を](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")[プログラム中のあるコンテキストで実行する](../Page/プログラム_\(コンピュータ\).md "wikilink")[サブルーチン](../Page/サブルーチン.md "wikilink")である。
+**eval**（イーバル）はいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")が持つ、[文字列](../Page/文字列.md "wikilink")を[式として評価](../Page/式_\(プログラミング\).md "wikilink")(evaluate)する[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")、または複数の[文を](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")[プログラム中のあるコンテキストで実行する](../Page/プログラム_\(コンピュータ\).md "wikilink")[サブルーチン](../Page/サブルーチン.md "wikilink")である。
 
 evalの類の機能は[コンパイラ](../Page/コンパイラ.md "wikilink")言語よりも[インタプリタ](../Page/インタプリタ.md "wikilink")言語でより一般的である。なぜならコンパイラ言語でこのような機能を実現するには、プログラム自体に言語[処理系](https://ja.wikipedia.org/wiki/処理系 "wikilink")や（変数名などの）実行時情報を埋め込む必要があるからである。evalに近い機能を実現しているコンパイラ言語も存在する。
 

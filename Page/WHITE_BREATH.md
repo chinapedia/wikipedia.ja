@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 累計売上は102.9万枚を記録\[1\]。自身初、またシングルでは唯一の[ミリオンヒット](https://ja.wikipedia.org/wiki/ミリオンヒット "wikilink")作品。
+  - 累計売上は102.9万枚を記録\[1\]。自身初のシングルでは最大かつ唯一の[ミリオンヒット](https://ja.wikipedia.org/wiki/ミリオンヒット "wikilink")作品。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")及び[2005年](../Page/2005年.md "wikilink")の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に、この曲で出場した（2005年は『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』バージョン）。なお、2005年の紅白出演者選考に際して行われた「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」では14位にランクインした。1997年の出場時には翌1998年の[干支](../Page/干支.md "wikilink")にちなんで[虎のコスチュームで歌った](../Page/トラ.md "wikilink")。
   - 『UNDER:COVER』の人気投票では「WHITE BREATH」は7位、「OH\! MY GIRL,OH MY GOD\!」は44位にランクインした。
   - [PVでは](../Page/ミュージック・ビデオ.md "wikilink")、吹雪の中「上半身裸にジャケット+ネクタイ」という衣装を披露した。なお、CDジャケットにおいてもこの衣装の写真が使用されている。

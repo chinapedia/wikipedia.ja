@@ -11,7 +11,7 @@
 
 ## DSL-N
 
-DSLの亜種にDSL-Nというものも存在する。開発者曰く、「DSL-NはDSLではない」という。 主な違いは
+[KnoppixFamilyTree1210.svg](https://ja.wikipedia.org/wiki/File:KnoppixFamilyTree1210.svg "fig:KnoppixFamilyTree1210.svg") DSLの亜種にDSL-Nというものも存在する。開発者曰く、「DSL-NはDSLではない」という。 主な違いは
 
   - カーネルを2.4から2.6へ
   - サイズを80Mほどに

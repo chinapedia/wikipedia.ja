@@ -3,7 +3,7 @@
 
 『**with**』（ウィズ）は、[講談社](../Page/講談社.md "wikilink")から刊行されている20代〜30代女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[1981年](../Page/1981年.md "wikilink")8月創刊\[1\]。
 
-発売日は毎月28日で、『[CanCam](../Page/CanCam.md "wikilink")』や『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』などの「[赤文字系](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")」ファッション雑誌と比べると、購読層は若干上の世代である。同じ毎月28日発売の『[MORE](../Page/MORE_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）とは同じ世代を対象としており、発行部数も互角となっている（マガジンデータ2013によると、MOREが35.6万部、withが33万部） 。
+発売日は毎月28日で、『[CanCam](../Page/CanCam.md "wikilink")』や『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』などの「[赤文字系](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")」ファッション雑誌と比べると、購読層は若干上の世代である。同じ毎月28日発売の『[MORE](../Page/MORE_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）とは同じ世代を対象としており、発行部数も互角となっている（マガジンデータ2013によると、MOREが35.6万部、withが33万部）。
 
 ## with models
 
@@ -11,16 +11,17 @@
 
 ### 専属モデル
 
-  - [宮田聡子](https://ja.wikipedia.org/wiki/宮田聡子 "wikilink")(2009年1月号～)
-  - [舟山久美子](https://ja.wikipedia.org/wiki/舟山久美子 "wikilink")(2014年11月号 - )
-  - [山崎あみ](https://ja.wikipedia.org/wiki/山崎あみ "wikilink")\[2\](2015年1月号 - )
+  - [宮田聡子](https://ja.wikipedia.org/wiki/宮田聡子 "wikilink")（2009年1月号 - ）
+  - [舟山久美子](https://ja.wikipedia.org/wiki/舟山久美子 "wikilink")（2014年11月号 - ）
+  - [山崎あみ](https://ja.wikipedia.org/wiki/山崎あみ "wikilink")\[2\]（2015年1月号 - ）
   - [小林由依](https://ja.wikipedia.org/wiki/小林由依_\(アイドル\) "wikilink")（2018年9月号 - ）\[3\]
   - [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink")（2019年4月号 - ）
   - [梅澤美波](https://ja.wikipedia.org/wiki/梅澤美波 "wikilink")（2019年5月号 - ）
 
-*<big>**レギュラーモデル**</big>*
+### レギュラーモデル
 
-  - [広瀬アリス](https://ja.wikipedia.org/wiki/広瀬アリス "wikilink")(2018年6月号 - )
+  - [広瀬アリス](https://ja.wikipedia.org/wiki/広瀬アリス "wikilink")（2018年6月号 - ）
+  - [小倉優香](https://ja.wikipedia.org/wiki/小倉優香 "wikilink")（2019年7月号 - ）
 
 ### 登場モデル
 

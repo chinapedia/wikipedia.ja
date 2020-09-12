@@ -1,7 +1,7 @@
 > この記事は[HAPPY Coming Century, 20th Century Forever](https://ja.wikipedia.org/wiki/HAPPY_Coming_Century,_20th_Century_Forever)から翻訳されています。
 
 
-『**"HAPPY" Coming Century,20th Century Forever**』（ハッピー カミングセンチュリー、トウェンティースセンチュリー フォーエヴァー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[5th](https://ja.wikipedia.org/wiki/フィフス "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に発売された。
+『**"HAPPY" Coming Century,20th Century Forever**』（ハッピー カミングセンチュリー、トウェンティースセンチュリー フォーエヴァー）は、[V6の](../Page/V6_\(グループ\).md "wikilink")5th[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に発売された。
 
 ## 概要
 

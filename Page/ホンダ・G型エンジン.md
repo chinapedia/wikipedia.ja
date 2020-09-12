@@ -1,7 +1,7 @@
 > この記事は[ホンダ・G型エンジン](https://ja.wikipedia.org/wiki/ホンダ・G型エンジン)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HONDA_G20AEngine_FrontView.JPG "wikilink") **G型エンジン**（Gがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[大型車種用の](../Page/Eセグメント.md "wikilink")[直列5気筒](../Page/直列5気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HONDA_G20AEngine_FrontView.JPG "wikilink") **G型エンジン**（Gがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[大型車種用の](../Page/Eセグメント.md "wikilink")[直列5気筒](../Page/直列5気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。すべてSOHCの20バルブ。
 
 ## 機構
 

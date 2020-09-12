@@ -5,9 +5,7 @@
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に半蔵とKOMEが出会い結成。その後ナオトが加入。2004年末ごろにサポートメンバーだったMORIKIが正式加入する。現在[ライブを中心に精力的に活動](../Page/演奏会.md "wikilink")。
-
-2008年12月をもって活動休止
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に半蔵とKOMEが出会い結成。その後ナオトが加入。2004年末ごろにサポートメンバーだったMORIKIが正式加入する。2008年12月をもって活動休止。
 
 ## エピソード
 
@@ -204,4 +202,4 @@
   - [KOMEブログ](https://ameblo.jp/blog-kome/) (2008年12月15日更新停止)
   - [Soul Campワーナーミュージック](https://wmg.jp/soulcamp/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

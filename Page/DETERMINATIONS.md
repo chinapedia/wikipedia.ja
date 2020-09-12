@@ -1,7 +1,7 @@
 > この記事は[DETERMINATIONS](https://ja.wikipedia.org/wiki/DETERMINATIONS)から翻訳されています。
 
 
-**DETERMINATIONS**（デタミネーションズ）は[大阪府](../Page/大阪府.md "wikilink")出身の9人組[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1990年結成。1999年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりメジャーデビュー。2004年8月解散。バンド名は[スカタライツ](../Page/スカタライツ.md "wikilink")の曲名に由来し、「結束」という意味。
+**DETERMINATIONS**（デタミネーションズ）は[大阪府](../Page/大阪府.md "wikilink")出身の9人組[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1990年結成。2002年[ユニバーサルミュージックよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2004年8月解散。バンド名は[スカタライツ](../Page/スカタライツ.md "wikilink")の曲名に由来し、「結束」という意味。
 
 ## メンバー
 
@@ -19,7 +19,7 @@
 
 ### アルバム
 
-1.  **Ska Champion**（1996年7月21日）
+1.  **Ska Champion**（1996年7月21日）Olive Disk & Records
     1.  SKA CHAMPION
     2.  LOVE ME DO
     3.  RESPONSIBLE
@@ -28,7 +28,7 @@
     6.  JUDO SECT
     7.  SILVER MIST
     8.  GOODY GOODY
-2.  **This is DETERMINATIONS**（1999年3月20日/2001年9月14日）ソニーレコード
+2.  **This is DETERMINATIONS**（1999年3月20日/2001年9月14日）Zion Records
     1.  NEW DAY
     2.  YIN & YANG
     3.  SAYONARA
@@ -48,7 +48,7 @@
     6.  LONE GAZER
     7.  BABY WHY
     8.  THE PRESENT POSITION
-4.  **Chat Chat Determination**（2002年9月27日）ユニバーサルJ
+4.  **Chat Chat Determination**（2002年9月27日）ユニバーサルミュージック
     1.  BAYON
     2.  JUDGE-MENTO
     3.  RIVER
@@ -74,7 +74,6 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.universal-music.co.jp/determinations/)
-  - [bounce.com](http://www.bounce.com/interview/article.php/431/)
+  - [OVERHEAT](http://www.overheat.com/artist_new/determi/determi.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:9人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:9人組の音楽グループ "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink")

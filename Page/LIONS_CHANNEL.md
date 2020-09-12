@@ -182,6 +182,10 @@
   - スーパースター（ピーターパンJr.、2019年2月4日 - 2019年3月25日）\[14\]
   - Believe（[ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink")、2019年4月1日 - ）\[15\]
 
+### 挿入歌(シーズン中)
+
+  - 君の声 ([Rhythmic Toy World](https://ja.wikipedia.org/wiki/Rhythmic_Toy_World "wikilink")、2019年シーズン - )
+
 ## 特記事項
 
   - 2012年10月15日放送回は、当日に[クライマックスシリーズファーストステージ第3戦をテレビ埼玉で中継していたため](https://ja.wikipedia.org/wiki/2012年のパシフィック・リーグクライマックスシリーズ "wikilink")、[西武ドーム](../Page/西武ドーム.md "wikilink")の放送席からファーストステージ全戦を振り返る企画を生放送した。進行は中継を担当していた上野晃、[辻発彦](https://ja.wikipedia.org/wiki/辻発彦 "wikilink")の二人で行い、永田怜奈は番組の終盤に出演した。

@@ -1,7 +1,7 @@
 > この記事は[DENGEKI 電撃](https://ja.wikipedia.org/wiki/DENGEKI_電撃)から翻訳されています。
 
 
-『**DENGEKI 電撃**』（***Exit Wounds***）は[2001年の](../Page/2001年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。
+『**DENGEKI 電撃**』（でんげき、*Exit Wounds*）は[2001年の](../Page/2001年の映画.md "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")。監督は[アンジェイ・バートコウィアク](../Page/アンジェイ・バートコウィアク.md "wikilink")、出演は[スティーヴン・セガール](../Page/スティーヴン・セガール.md "wikilink")と[DMXなど](https://ja.wikipedia.org/wiki/DMX_\(ラッパー\) "wikilink")。バートコウィアク監督によるヒップ・ホップ・カンフー[三部作](../Page/三部作.md "wikilink")の第2作である。他の2作は『[ロミオ・マスト・ダイ](https://ja.wikipedia.org/wiki/ロミオ・マスト・ダイ "wikilink")』『[ブラック・ダイヤモンド](https://ja.wikipedia.org/wiki/ブラック・ダイヤモンド "wikilink")』。
 
 ## ストーリー
 
@@ -9,7 +9,7 @@
 
 ある日、ボイドは偶然麻薬の密売現場を目撃して売人を逮捕するが、それは囮捜査官のモンティーニだった。この失敗により、ボイドは交通整理に格下げされてしまうが、独断で事件の捜査を始め、買人ラトレルの情報を集めるため情報管理庫を訪れる。しかし、そこで覆面をした襲撃犯たちに遭遇し、ボイドは事務室に取り残されていた事務員トリシュを救出する。襲撃犯たちは保管されていた大量の麻薬を強奪し、ボイドは事件に関係があるものと考える。
 
-マイケルヒーに訴えて刑事に復帰したボイドは、新しい相棒のジョージと共に捜査を進め、買人の一人T.Kの経営するクラブに乗り込む。そこにはラトレルもおり、ボイドは二人を逮捕しようとするが逃げられてしまう。ラトレルが収監中の麻薬買人ショーンと面会していたことを突き止め、ボイドは警察内部の人間がラトレルに麻薬を横流ししていると判断し、セミナーで知り合ったテレビ番組司会者ヘンリーにラトレルの情報を集めるように依頼し、同時にマイケルヒーにも事実を伝える。同じころ、ラトレルはモンティーニと共に麻薬の取引場所に向かい、黒幕のストラット巡査部長と取引の方法を確認する。
+マイケルヒーに訴えて刑事に復帰したボイドは、新しい相棒のジョージと共に捜査を進め、買人の一人T.Kの経営するクラブに乗り込む。そこにはラトレルもおり、ボイドは二人を逮捕しようとするが逃げられてしまう。ラトレルが収監中の麻薬買人ショーンと面会していたことを突き止め、ボイドは警察内部の人間がラトレルに麻薬を横流ししていると判断した。ボイドはセミナーで知り合ったテレビ番組司会者ヘンリーにラトレルの情報を集めるように依頼し、同時にマイケルヒーにも事実を伝える。同じころ、ラトレルはモンティーニと共に麻薬の取引場所に向かい、黒幕のストラット巡査部長と取引の方法を確認する。
 
 ヘンリーから、ラトレルの正体がショーンの兄だと聞かされたボイドはラトレル逮捕に向かうが、モンティーニに拉致されて殺されそうになる。ボイドは反撃して脱出に成功し、ラトレルを逮捕しようとするが、彼から「警察の不正を暴く証拠を集めるために買人を装っていた」と聞かされる。ラトレルは密売の罪を擦り付けられたショーンを助けるため、T.Kやトリシュと共に警官の不正の証拠を集めていた。ボイドはラトレルに協力することに決め、マイケルヒーに事実を伝える。しかし、モンティーニの仲間から襲撃され、逃走途中に車の事故でマイケルヒーが死んでしまう。脱出に成功したボイドはフランクに応援を求め、取引場所に向かう。
 
@@ -73,13 +73,13 @@
 </tr>
 <tr class="even">
 <td><p>モンティーニ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイビッド・バディム" title="wikilink">デイビッド・バディム</a></p></td>
+<td></td>
 <td><p><a href="../Page/井上倫宏.md" title="wikilink">井上倫宏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>トリシュ</p></td>
 <td><p><a href="../Page/エヴァ・メンデス.md" title="wikilink">エヴァ・メンデス</a></p></td>
-<td><p><a href="../Page/朴ロ美.md" title="wikilink">朴ロ美</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ユーセルディンガー</p></td>
@@ -88,7 +88,7 @@
 </tr>
 <tr class="odd">
 <td><p>セラピストのリンダ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェニファー・アーウィン" title="wikilink">ジェニファー・アーウィン</a></p></td>
+<td></td>
 <td><p><a href="../Page/伊藤美紀_(声優).md" title="wikilink">伊藤美紀</a></p></td>
 </tr>
 <tr class="even">
@@ -167,16 +167,11 @@
 </tbody>
 </table>
 
-## スタッフ
+## 作品の評価
 
-  - 製作：[ジョエル・シルバー](../Page/ジョエル・シルバー.md "wikilink")/ダン・クラッキオーロ
-  - 監督：[アンジェイ・バートコウィアク](../Page/アンジェイ・バートコウィアク.md "wikilink")
-  - 原作：ジョン・ウェスタマン
-  - 脚本：エド・ホロウィッツ/リチャード・ドービディオ
-  - 撮影：[グレン・マクファーソン](https://ja.wikipedia.org/wiki/グレン・マクファーソン "wikilink")
-  - 音楽：[ジェフ・ローナ](https://ja.wikipedia.org/wiki/ジェフ・ローナ "wikilink")/[デイモン"グリース"ブラックマン](https://ja.wikipedia.org/wiki/デイモン"グリース"ブラックマン "wikilink")
+[Rotten Tomatoesによれば](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")、66件の評論のうち、33%にあたる22件が高く評価しており、平均して10点満点中4.39点を得ている\[1\]。 [Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")によれば、9件の評論のうち、高評価は1件、賛否混在は4件、低評価は4件で、平均して100点満点中39点を得ている\[2\]。
 
-## 脚注
+## 出典
 
 ## 外部リンク
 
@@ -184,4 +179,7 @@
   -
   -
   -
-[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:アメリカ合衆国の刑事映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の刑事映画 "wikilink") [Category:デトロイトを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:デトロイトを舞台とした映画作品 "wikilink") [Category:トロントで製作された映画作品](https://ja.wikipedia.org/wiki/Category:トロントで製作された映画作品 "wikilink") [Category:小説を原作とする映画](https://ja.wikipedia.org/wiki/Category:小説を原作とする映画 "wikilink") [Category:トレヴァー・ラビンの作曲映画](https://ja.wikipedia.org/wiki/Category:トレヴァー・ラビンの作曲映画 "wikilink") [Category:シルバー・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:シルバー・ピクチャーズの作品 "wikilink") [Category:ヴィレッジ・ロードショー・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:ヴィレッジ・ロードショー・ピクチャーズの作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink")
+[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:アメリカ合衆国の刑事映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の刑事映画 "wikilink") [Category:デトロイトを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:デトロイトを舞台とした映画作品 "wikilink") [Category:トロントで製作された映画作品](https://ja.wikipedia.org/wiki/Category:トロントで製作された映画作品 "wikilink") [Category:小説を原作とする映画](https://ja.wikipedia.org/wiki/Category:小説を原作とする映画 "wikilink") [Category:トレヴァー・ラビンの作曲映画](https://ja.wikipedia.org/wiki/Category:トレヴァー・ラビンの作曲映画 "wikilink") [Category:シルバー・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:シルバー・ピクチャーズの作品 "wikilink") [Category:ヴィレッジ・ロードショー・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:ヴィレッジ・ロードショー・ピクチャーズの作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink")
+
+1.
+2.

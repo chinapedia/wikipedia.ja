@@ -1,7 +1,7 @@
 > この記事は[EZチャンネルのチャンネル一覧](https://ja.wikipedia.org/wiki/EZチャンネルのチャンネル一覧)から翻訳されています。
 
 
-**EZチャンネルのチャンネル一覧**は、[EZチャンネル](../Page/EZチャンネル.md "wikilink")・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")で配信されていたチャンネルの一覧。
+**EZチャンネルのチャンネル一覧**（イージーチャンネルのチャンネルいちらん）は、[EZチャンネル](../Page/EZチャンネル.md "wikilink")・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")で配信されていたチャンネルの一覧。
 
 ## 配信中のチャンネル
 
@@ -18,8 +18,11 @@
 7.  [マガジン・コミック](https://ja.wikipedia.org/wiki/#マガジン・コミック "wikilink")
 8.  [ニュース・ライフ・ホビー](https://ja.wikipedia.org/wiki/#ニュース・ライフ・ホビー "wikilink")
 
+<!-- end list -->
 
-;<span id="無料チャンネル">無料チャンネル</span>
+  - <span id="無料チャンネル">無料チャンネル</span>
+
+
 ;<span id="音楽・映画">音楽・映画</span>
 ;<span id="ドラマ・エンタメ・ホラー">ドラマ・エンタメ・ホラー</span>
 ;<span id="アニメ">アニメ</span>
@@ -54,4 +57,4 @@
       - [KDDI au: EZチャンネル \> コンテンツ一覧](http://www.au.kddi.com/ezweb/service/ez_channel/contents/index.html)
   - [KDDI au: 映像 \> EZチャンネルプラス](http://www.au.kddi.com/ezweb/service/ez_channel_plus/index.html)
 
-[Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:EZチャンネル](https://ja.wikipedia.org/wiki/Category:EZチャンネル "wikilink") [Category:放送関連一覧](https://ja.wikipedia.org/wiki/Category:放送関連一覧 "wikilink")
+[Category:EZチャンネル](https://ja.wikipedia.org/wiki/Category:EZチャンネル "wikilink") [Category:放送関連一覧](https://ja.wikipedia.org/wiki/Category:放送関連一覧 "wikilink")

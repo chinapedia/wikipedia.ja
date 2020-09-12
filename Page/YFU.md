@@ -223,5 +223,6 @@ YFU日本では主に以下のプログラムを運営している。
   - [公益財団法人YFU日本国際交流財団](http://yfu.or.jp/)
   - [YFU International](http://www.yfu.org) (英語)
   - [YFU USA](http://www.yfu-usa.org) (英語）
+  - [日米親善に一役 -YFU-（昭和57年8月13日公開） - 中日ニュース1436号（動画）](https://www.youtube.com/watch?v=t_BaKu71Swc)・[中日映画社](http://chunichieigasha.co.jp/)
 
 [Category:留学](https://ja.wikipedia.org/wiki/Category:留学 "wikilink") [Category:公益財団法人_(内閣総理大臣認定)](https://ja.wikipedia.org/wiki/Category:公益財団法人_\(内閣総理大臣認定\) "wikilink") [Category:国際交流](https://ja.wikipedia.org/wiki/Category:国際交流 "wikilink") [Category:東京都港区の公益法人](https://ja.wikipedia.org/wiki/Category:東京都港区の公益法人 "wikilink")

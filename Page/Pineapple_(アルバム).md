@@ -48,6 +48,49 @@
 5.  **SUNSET BEACH**　（5:09）
       - 作詞：松本隆／作曲：来生たかお／編曲：大村雅朗
 
+## クレジット
+
+  - Producer: M.Wakamatsu（CBS/SONY)
+  - Engineer: T.Suzuki Assistant Engineer: A.Saida
+  - Photographer: T.Mutoh Designer: M.Yamada Stylist: Y.Miyake
+  - Recording Date: March, April 1982 Recording Place: CBS/SONY Shinanomachi-studio
+
+### pineapple side
+
+1.  **P・R・E・S・E・N・T**
+      -
+        Drums 滝本季延 E.Bass 高木健司 E.Guitar 松原正樹 F.Guitar 笛吹利明 Keyboards 山田秀俊 西本明 Horn 沖田グループ Chorus 山田秀俊
+2.  **パイナップル・アイランド**
+      -
+        E.Bass 伊藤広規 E.Guitar 松原正樹 Keyboards 山田秀俊 Flute 衛藤幸雄
+3.  **ひまわりの丘**
+      -
+        Drums 菊地丈夫 E.Bass 岡沢茂 E.Guitar 青山徹 F.Guitar 安田裕美 Keyboards 大谷和夫 Chorus バズ Strings 多グループ
+4.  **LOVE SONG**
+      -
+        Drums 渡嘉敷祐一 E.Bass 岡沢章 E.Guitar 青山徹 F.Guitar 笛吹利明 Keyboards 倉田信雄 Percussions ペッカー Chorus 広松美和子 尾形道子 バズ Strings 加藤グループ
+5.  **[渚のバルコニー](../Page/渚のバルコニー.md "wikilink")**
+      -
+        Drums 渡嘉敷祐一 E.Bass 高水健司 E.Guitar 松原正樹 椎名和夫 F.Guitar 吉川忠英 Keyboards 松任谷正隆 Percussions 浜口茂外也 Chorus 須藤薫 バズ Strings トマトグループ
+
+### orange side
+
+1.  **ピンクのスクーター**
+      -
+        Drums 滝本季延 E.Bass 高水健司 E.Guitar 松原正樹 Keyboards & Chorus 山田秀俊
+2.  **[レモネードの夏](../Page/渚のバルコニー.md "wikilink")**
+      -
+        Drums 島村英二 E.Bass 美久月千晴 E.Guitar 青山徹 F.Guitar 吉川忠英 Keyboards 新川博 Percussions 斉藤ノブ Flute 衛藤幸雄 Chorus バズ Strings 加藤グループ
+3.  **[赤いスイートピー](../Page/赤いスイートピー.md "wikilink")**
+      -
+        Drums 林立夫 E.Bass 高水健司 E.Guitar 松原正樹 F.Guitar 吉川忠英 Keyboards 松任谷正隆 Percussions 斉藤ノブ Flute 衛藤幸雄 Harp 山川恵子 Chorus バズ Strings トマトグループ
+4.  **水色の朝**
+      -
+        Drums 滝本季延 E.Bass 伊藤広規 E.Guitar 松原正樹 F.Guitar 笛吹利明 G.Guitar 吉川忠英 Keyboards 山田秀俊 西本明 Chorus 山田秀俊 Strings 多グループ
+5.  **SUNSET BEACH**
+      -
+        Drums 滝本季延 E.Bass 高水健司 E.Guitar 松原正樹 F.Guitar 笛吹利明 F.Mandolin 吉川忠英 Keyboards 山田秀俊 西本明 Accordion 風間文彦 Harmonica 八木伸朗 Strings 多グループ
+
 ## 関連作品
 
   - **P・R・E・S・E・N・T**

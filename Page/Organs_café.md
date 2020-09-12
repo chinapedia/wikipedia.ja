@@ -124,4 +124,4 @@
   - [organs cafe official website](http://www.organscafe.org/) - 公式サイト
   - [organ's log ～今日の日～ - livedoor Blog（ブログ）](http://blog.livedoor.jp/organs_log/) - メンバーによる公式ブログ
 
-[Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink")

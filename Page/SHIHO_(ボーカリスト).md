@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    prey-remix-（作詞・作曲・編曲：高瀬一矢）
+    PREY -Remix-（作詞・作曲・編曲：高瀬一矢）
 
 <!-- end list -->
 

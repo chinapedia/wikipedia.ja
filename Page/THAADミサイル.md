@@ -33,7 +33,7 @@ THAADミサイルは主契約社である[ロッキード・マーティン](../
 
 ### 日本
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")も、[北朝鮮が](../Page/朝鮮民主主義人民共和国.md "wikilink")2009年に行った[ミサイル発射実験を受け](https://ja.wikipedia.org/wiki/北朝鮮によるミサイル発射実験_\(2009年\) "wikilink")、[全国瞬時警報システム](../Page/全国瞬時警報システム.md "wikilink")（Jアラート）に加えて、ミサイル防衛力強化のためにTHAADの導入を検討していると[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")が報じたが、[防衛省](../Page/防衛省.md "wikilink")は導入の具体的な検討はしていないと発表している\[1\]\[2\]。しかし、その後の相次ぐ北朝鮮のミサイル発射実験や発射技術向上を受け、[稲田朋美](../Page/稲田朋美.md "wikilink")[防衛大臣](../Page/防衛大臣.md "wikilink")が2017年1月13日に[グアム](../Page/グアム.md "wikilink")の[アンダーセン空軍基地](../Page/アンダーセン空軍基地.md "wikilink")を訪問し、THAADの視察を行った\[3\]。一方、2017年2月には、[エヴゲーニー・ウラジーミロヴィッチ・アファナシエフ](https://ja.wikipedia.org/wiki/エヴゲーニー・ウラジーミロヴィッチ・アファナシエフ "wikilink")駐日本ロシア連邦[特命全権大使](../Page/特命全権大使.md "wikilink")から、日本への導入を行わないよう警告がなされた\[4\]。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")も、[北朝鮮が](../Page/朝鮮民主主義人民共和国.md "wikilink")2009年に行った[ミサイル発射実験を受け](https://ja.wikipedia.org/wiki/北朝鮮によるミサイル発射実験_\(2009年\) "wikilink")、[全国瞬時警報システム](../Page/全国瞬時警報システム.md "wikilink")（Jアラート）に加えて、ミサイル防衛力強化のためにTHAADの導入を検討していると[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")が報じたが、[防衛省](../Page/防衛省.md "wikilink")は導入の具体的な検討はしていないと発表している\[1\]\[2\]。しかし、その後の相次ぐ北朝鮮のミサイル発射実験や発射技術向上を受け、[稲田朋美](../Page/稲田朋美.md "wikilink")[防衛大臣](../Page/防衛大臣.md "wikilink")が2017年1月13日に[グアム](../Page/グアム.md "wikilink")の[アンダーセン空軍基地](../Page/アンダーセン空軍基地.md "wikilink")を訪問し、THAADの視察を行った\[3\]。一方、2017年2月にはエヴゲーニー・ウラジーミロヴィッチ・アファナシエフ駐日本ロシア連邦[特命全権大使](../Page/特命全権大使.md "wikilink")から、日本への導入を行わないよう警告がなされた\[4\]。
 
 ### 大韓民国
 
@@ -68,39 +68,41 @@ THAADミサイルは主契約社である[ロッキード・マーティン](../
 ## 関連項目
 
   - [ミサイル防衛](../Page/ミサイル防衛.md "wikilink")
+
   - [パトリオットミサイル](../Page/パトリオットミサイル.md "wikilink")
 
+  -
 ## 外部リンク
 
   - [アメリカ陸軍ホームページ](http://www.army-technology.com/projects/thaad/)
   - [THAAD ロッキード・マーティン公式サイト](http://www.lockheedmartin.com/products/thaad/)
 
-[Category:アメリカ合衆国の地対空ミサイル](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の地対空ミサイル "wikilink") [Category:自走地対空ミサイル](https://ja.wikipedia.org/wiki/Category:自走地対空ミサイル "wikilink") [Category:ミサイル防衛](https://ja.wikipedia.org/wiki/Category:ミサイル防衛 "wikilink") [Category:中国の反朝感情](https://ja.wikipedia.org/wiki/Category:中国の反朝感情 "wikilink") [Category:中韓関係](https://ja.wikipedia.org/wiki/Category:中韓関係 "wikilink") [Category:ロッキード・マーティン](https://ja.wikipedia.org/wiki/Category:ロッキード・マーティン "wikilink")
+[Category:アメリカ合衆国の地対空ミサイル](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の地対空ミサイル "wikilink") [Category:自走地対空ミサイル](https://ja.wikipedia.org/wiki/Category:自走地対空ミサイル "wikilink") [Category:ミサイル防衛](https://ja.wikipedia.org/wiki/Category:ミサイル防衛 "wikilink") [Category:中国の反朝感情](https://ja.wikipedia.org/wiki/Category:中国の反朝感情 "wikilink") [Category:中韓関係](https://ja.wikipedia.org/wiki/Category:中韓関係 "wikilink") [Category:ロッキード・マーティン](https://ja.wikipedia.org/wiki/Category:ロッキード・マーティン "wikilink") [Category:在韓米軍](https://ja.wikipedia.org/wiki/Category:在韓米軍 "wikilink")
 
 1.
-2.  [次官会見概要](http://www.mod.go.jp/j/kisha/2009/07/j_06.html) 防衛省 2009年7月6日
-3.  [稲田氏、ＴＨＡＡＤ視察　ミサイル防衛の強化検討　グアムの米軍基地](http://www.sankei.com/smp/politics/news/170113/plt1701130014-s1.html) 産経ニュース 2017年1月13日付
-4.  [「駐日ロシア大使のアファナシエフ氏　ＴＨＡＡＤめぐり日本に警告」](http://www.sankei.com/world/news/170209/wor1702090079-n1.html)産経ニュース2017.2.9
+2.  [次官会見概要](https://web.archive.org/20090710023608/http://www.mod.go.jp/j/kisha/2009/07/j_06.html) 防衛省 2009年7月6日
+3.
+4.
 5.
 6.
 7.
 8.
-9.  [1](http://japanese.yonhapnews.co.kr/Politics2/2016/11/16/0900000000AJP20161116001800882.HTML) ＴＨＡＡＤ配備用地　国有地と交換し取得へ＝韓国国防部 総合ニュース 2016年11月16日付
+9.
 10.
-11. [中国、自国民の韓国観光を全面統制 中央日報　2017/03/03](http://japanese.joins.com/article/409/226409.html?servcode=A00&sectcode=A30)
-12. [米議会がＴＨＡＡＤ報復を非難するというのに、被害当事者の韓国国会は中国の顔色をうかがうのか 東亜日報 March. 25, 2017](http://japanese.donga.com/Home/3/all/27/880612/1)
-13. [中国のＴＨＡＡＤ報復　韓国国会が中断求める決議可決 聯合ニュース　 2017/03/30](http://japanese.yonhapnews.co.kr/Politics2/2017/03/30/0900000000AJP20170330004200882.HTML)
-14. [ＴＨＡＡＤの核心装備を星州ゴルフ場に奇襲配備…“主権に対する暴挙” ハンギョレ 2017/04/26](http://japan.hani.co.kr/arti/politics/27183.html)
-15. [韓国、ＴＨＡＡＤ本格運用を環境評価完了まで延期](https://jp.reuters.com/article/south-korea-thaad-idJPKBN18Z04P) ロイター 2017/06/07
-16. [大統領府関係者「ＴＨＡＡＤ発射台4基、星州基地に臨時配備…中国に通知」 ハンギョレ 2017/07/29](http://japan.hani.co.kr/arti/politics/28059.html)
-17. [ＴＨＡＡＤ発射台４基の配備地搬入が完了　本格運用へ＝韓国」 聯合ニュース 2017/09/07](http://japanese.yonhapnews.co.kr/Politics2/2017/09/07/0900000000AJP20170907000900882.HTML)
-18. [「キムチばかり食べて頭おかしくなったのか」　中国がＴＨＡＡＤ配備で韓国罵倒　報復の経済損失は８５００億円もなすすべなく](http://www.sankei.com/smp/world/news/170913/wor1709130054-s1.html)産経新聞 2017年9月13日
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
 19.
 20.
 21.
 22.
-23. [韓米国防長官　ＴＨＡＡＤ配備用地確保を評価](http://m.yna.co.kr/mob2/jp/contents_jp.jsp?cid=AJP20170301000900882&site=0900000000&mobile) 聯合ニュース 2017年3月1日付
-24. [中国で「ロッテは出ていけ」…不買運動で苦境に](http://www.yomiuri.co.jp/world/20170302-OYT1T50116.html) 読売新聞 2017年3月2日付
-25. [中国検疫がロッテ菓子を廃棄処分　「ＴＨＡＡＤ」で報復措置か](http://www.sankei.com/world/news/170302/wor1703020053-n1.html) 産経ニュース 2017年3月2日付
-26. \[[http://news.naver.com/main/ranking/read.nhn?rankingType=popular_day\&oid=001\&aid=0010080197\&date=20180511\&type=1\&rankingSectionId=101\&rankingSeq=2\]2018-05-12,ロッテマート上海50以上の店舗売却](http://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0010080197&date=20180511&type=1&rankingSectionId=101&rankingSeq=2%5D2018-05-12,ロッテマート上海50以上の店舗売却)... 11年ぶりに中国で撤退
-27. [ＴＨＡＡＤ報復に耐えられず…１１年で中国から撤退することになったロッテマート](http://japanese.joins.com/article/310/241310.html?servcode=A00&sectcode=A30)2018-05-12
+23.
+24.
+25.
+26.
+27.

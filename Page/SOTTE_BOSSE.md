@@ -478,7 +478,7 @@ KICA-93240</p></td>
 
   -
   -
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [J-POPのカバーで脅威の70万枚ヒット\! 「Sotte Bosse」の人気のワケは？](http://trendy.nikkeibp.co.jp/article/pickup/20071130/1004924/)、日経トレンディネット、2007年12月3日。
 2.

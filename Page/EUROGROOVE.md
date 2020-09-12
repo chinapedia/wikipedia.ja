@@ -41,9 +41,9 @@ EUROGROOVEの盤はヨーロッパ各国とアメリカ、[カナダ](https://ja
 
 1.  [MOVE YOUR BODY BABY](https://ja.wikipedia.org/wiki/MOVE_YOUR_BODY_BABY "wikilink") ([1994年](../Page/1994年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")) EUROGROOVE feat. [FINAL TOUCH](https://ja.wikipedia.org/wiki/FINAL_TOUCH "wikilink")
 2.  [DIVE TO PARADISE](https://ja.wikipedia.org/wiki/DIVE_TO_PARADISE "wikilink") ([1994年](../Page/1994年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink"))
-3.  [RESCUE ME](https://ja.wikipedia.org/wiki/RESCUE_ME "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")) EUROGROOVE guest vocal [DANNI MINOGUE](../Page/ダニー・ミノーグ.md "wikilink")
+3.  [RESCUE ME](https://ja.wikipedia.org/wiki/レスキュー・ミー_\(EUROGROOVEの曲\) "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")) EUROGROOVE guest vocal [DANNI MINOGUE](../Page/ダニー・ミノーグ.md "wikilink")
 4.  [RESCUE ME〜奪回愛恋〜](https://ja.wikipedia.org/wiki/RESCUE_ME〜奪回愛恋〜 "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")) EUROGROOVE featuring CUILING ([翠玲](../Page/翠玲.md "wikilink"))
-5.  [BOOGIE WOOGIE](https://ja.wikipedia.org/wiki/BOOGIE_WOOGIE "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")) EUROGROOVE guest vocal [DANNI MINOGUE](../Page/ダニー・ミノーグ.md "wikilink")
+5.  [BOOGIE WOOGIE](https://ja.wikipedia.org/wiki/ブギ・ウギ_\(EUROGROOVEの曲\) "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")) EUROGROOVE guest vocal [DANNI MINOGUE](../Page/ダニー・ミノーグ.md "wikilink")
 6.  [Let's Go](https://ja.wikipedia.org/wiki/Let's_Go_\(EUROGROOVEの曲\) "wikilink") ([1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月18日](../Page/10月18日.md "wikilink"))
 
 ### アルバム

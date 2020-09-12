@@ -30,7 +30,7 @@
 ### 解説
 
   - オリジナル・シングルのリリースから10年後、[新海誠](../Page/新海誠.md "wikilink")・監督によるアニメーション映画『[秒速5センチメートル](https://ja.wikipedia.org/wiki/秒速5センチメートル "wikilink")』の主題歌として、新海監督から「One more time, One more chance」の楽曲使用の依頼があり、山崎サイドが快諾したのを機に発売された。オリジナル版がシングルベスト『[BLUE PERIOD](../Page/BLUE_PERIOD.md "wikilink")』（2005年9月21日）リリースの際に生産中止となったため、リニューアルされて新発売されたシングルが本作品である。オリジナル盤発売元のポリドールが[ユニバーサルミュージックに吸収合併されたため](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、本作はユニバーサルからのリリースとなっている。制作は[ナユタウェイブレコーズ](https://ja.wikipedia.org/wiki/ナユタウェイブレコーズ "wikilink")。
-  - タイアップとなった『秒速5センチメートル』の内容に[JR小山駅が登場したことに合わせて](../Page/小山駅.md "wikilink")、実際に小山駅の[両毛線](https://ja.wikipedia.org/wiki/両毛線 "wikilink")の発車メロディーとして[2018年](../Page/2018年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")〜[6月30日](../Page/6月30日.md "wikilink")の期間内に「One more time, One more chance（PIANO Ver.）」として起用された\[7\]。
+  - タイアップとなった『秒速5センチメートル』の内容に[JR小山駅が登場したことに合わせて](../Page/小山駅.md "wikilink")、実際に小山駅の[両毛線](https://ja.wikipedia.org/wiki/両毛線 "wikilink")ホームでBGMとして[2018年](../Page/2018年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")〜[6月30日](../Page/6月30日.md "wikilink")の期間内に「One more time, One more chance（PIANO Ver.）」が起用された\[7\]。
 
 ### 収録曲
 

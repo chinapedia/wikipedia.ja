@@ -75,4 +75,4 @@
   - [ガンブレードNY](../Page/ガンブレードNY.md "wikilink")
   - [MODEL3](../Page/MODEL3.md "wikilink")
 
-[Category:1998年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1998年のアーケードゲーム "wikilink") [Category:ガンシューティングゲーム](https://ja.wikipedia.org/wiki/Category:ガンシューティングゲーム "wikilink") [Category:セガのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:セガのアーケードゲーム "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:ロサンゼルスを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした作品 "wikilink")
+[Category:1998年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1998年のアーケードゲーム "wikilink") [Category:ガンシューティングゲーム](https://ja.wikipedia.org/wiki/Category:ガンシューティングゲーム "wikilink") [Category:セガのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:セガのアーケードゲーム "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:ロサンゼルスを舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台としたコンピュータゲーム "wikilink")

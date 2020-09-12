@@ -37,6 +37,12 @@
 
 2019年9月、LITEのオフィシャルアプリ「The Room」をリリース。
 
+2020年4月 ライブハウス支援プロジェクトのコンピレーションアルバムへ新曲『Colum』を提供。
+
+2020年5月 メンバー各自の自宅からの生演奏配信を行いメディアより注目を集める。
+
+2020年9月 [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") トリビュートアルバム 「CHAOSMOLOGY」にて"次の駅まで”のカバーで参加。
+
 ## メンバー
 
   - **Guitar: 武田信幸**（Nobuyuki Takeda）
@@ -621,4 +627,4 @@ IWTM-1009:CD+12inchアナログ盤</p></td>
 
   - [indiesmusic](http://www.indiesmusic.com/ArtistView.aspx?id=17085)
 
-[Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:マスロック・バンド](https://ja.wikipedia.org/wiki/Category:マスロック・バンド "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
+[Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:マスロック・バンド](https://ja.wikipedia.org/wiki/Category:マスロック・バンド "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:インストゥルメンタルの音楽グループ](https://ja.wikipedia.org/wiki/Category:インストゥルメンタルの音楽グループ "wikilink")

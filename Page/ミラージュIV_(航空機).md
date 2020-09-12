@@ -81,17 +81,16 @@
   - 搭載重量：31,600kg
   - 最大離陸重量：33,475kg
   - 最高速度：マッハ2.2(高度 11,000 m)
-  - エンジン：[スネクマ アター 9K50](https://ja.wikipedia.org/wiki/スネクマ_アター "wikilink") 2基
-      - 出力：65kN
-      - 推力重量比：0.46
+  - エンジン：[スネクマ アター 9K-50ターボジェットエンジン](https://ja.wikipedia.org/wiki/スネクマ_アター "wikilink")×2基　推力ドライ時49.03 kN・アフターバーナー点火時70.61 kN　推力重量比0.46
   - 航続距離：4,000km(増槽使用時)
   - 戦闘行動半径：1,240km
   - 実用上昇限度：20,000m
   - 上昇速度：43.1m/s
   - 乗員：2人
   - 武装
-      - 胴体： [AN-11または](https://ja.wikipedia.org/wiki/AN-11_\(核爆弾\) "wikilink")[AN-22核爆弾](https://ja.wikipedia.org/wiki/AN-22_\(核爆弾\) "wikilink")、CT-52偵察ポッド、ASMP（IV P改造後）
-      - 翼下： 増槽、ECMポッド、通常爆弾など6,800kgまで
+      - 爆弾：[AN-11核爆弾](https://ja.wikipedia.org/wiki/AN-11_\(核爆弾\) "wikilink")×1発・[AN-22核爆弾](https://ja.wikipedia.org/wiki/AN-22_\(核爆弾\) "wikilink")×1発・454kg自由落下爆弾×16発のいずれかを搭載。
+      - ミサイル：ASMP空対地核ミサイル×1発（IV P改造後）
+      - その他： CT-52偵察ポッド、ECMポッド、増槽
 
 ## 関連項目
 

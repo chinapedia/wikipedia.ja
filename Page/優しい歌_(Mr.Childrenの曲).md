@@ -20,6 +20,7 @@
         [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「[WONDA](../Page/WONDA.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。
         [歌詞](../Page/歌詞.md "wikilink")には[ファン](../Page/ファン.md "wikilink")への思いやエール、過去のMr.Childrenへのメッセージ、これからのMr.Childrenの音楽性の変化への決意が込められている。
         イントロの[アコーディオン](../Page/アコーディオン.md "wikilink")は小林の演奏である。
+        桜井の歌は自宅のスタジオで録ったものが採用されている。
         演奏時間はシングル曲で最も短い。
         ライブツアー『[Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")』で未発表曲として初披露された。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 <micro>](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹修一](../Page/丹修一.md "wikilink")。
@@ -51,6 +52,67 @@
 
   - [Bank Band](../Page/Bank_Band.md "wikilink") - セルフカバー。カバーアルバム『[沿志奏逢](../Page/沿志奏逢.md "wikilink")』収録。
 
+## テレビ出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>日付</p></th>
+<th><p>放送局</p></th>
+<th><p>演奏曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a></p></td>
+<td><p>2001年8月20日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p><strong>優しい歌</strong>[1]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージックステーション" title="wikilink">ミュージックステーション</a></p></td>
+<td><p>2001年8月24日</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
+<td><p><strong>優しい歌</strong>[2]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></p></td>
+<td><p>2001年9月1日</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
+<td><p><strong>優しい歌</strong>[3]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージック・カクテル" title="wikilink">ミュージック・カクテル</a></p></td>
+<td><p>2002年5月2日</p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/youthful_days" title="wikilink">youthful days</a><br />
+<strong>優しい歌</strong>[4]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## ライブ映像作品
+
+**優しい歌**
+
+| 作品名                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")                  |    |
+| [Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜 "wikilink") |    |
+
+**花**
+
+| 作品名                                                                                                      | 備考      |
+| -------------------------------------------------------------------------------------------------------- | ------- |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink") | 2回演奏された |
+
 ## 収録アルバム
 
   - 『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』 (\#1)
@@ -58,7 +120,16 @@
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』 (\#1)
   - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2)
 
+## 脚注
+
+<references />
+
 ## 外部リンク
 
   -
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:アサヒグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アサヒグループのコマーシャルソング "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:2000年代のオリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年代のオリコン月間シングルチャート1位獲得作品 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
+
+1.
+2.
+3.
+4.

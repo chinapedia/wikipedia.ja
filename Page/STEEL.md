@@ -1,7 +1,7 @@
 > この記事は[STEEL](https://ja.wikipedia.org/wiki/STEEL)から翻訳されています。
 
 
-**STEEL**（スティール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループである。2001年に結成され、同年[フォーライフよりデビュー](../Page/フォーライフミュージックエンタテイメント.md "wikilink")。翌年活動停止。
+**STEEL**（スティール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループである。2001年に結成され、同年[フォーライフよりデビュー](../Page/フォーライフミュージックエンタテイメント.md "wikilink")。翌年活動停止。 2020年4月20日の[柏原収史](../Page/柏原収史.md "wikilink")のTwitterにて、19年ぶりに二人で『CALLING YOU』を演奏歌唱したコラボ動画がアップされた。\[1\]
 
 ## メンバー
 
@@ -42,6 +42,8 @@
     8.  Every night, Every time -MALAWI ROCKS Mix- \[11:11\]
     9.  (エンハンスド)「Every night,Every time」PV
 
+## 脚注
+
 ## 関連項目
 
   - [ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")
@@ -56,3 +58,5 @@
   - [STEEL | FOR LIFE MUSIC ENTERTAINMENT,INC.](http://www.forlife.co.jp/artist/fl00225/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink")
+
+1.  <https://twitter.com/shuji6931/status/1252142256754061313?s=20久しぶりにコラボしてみました>

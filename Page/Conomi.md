@@ -290,7 +290,7 @@
 
   - [早慶外語ゼミCM](https://web.archive.org/web/*/http://www.soukeigaigo.co.jp/media/sk2007.wmv)（30秒CM） - 2007年8月13日時点のアーカイブ
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:東北地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:東北地方のローカルアイドル "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:東北地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:東北地方のローカルアイドル "wikilink")
 
 1.
 2.

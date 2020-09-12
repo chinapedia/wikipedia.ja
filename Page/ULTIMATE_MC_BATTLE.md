@@ -566,7 +566,9 @@
   - UMB2020 GUERRILLA AREA 北陸・甲信越優勝：開催中止
   - UMB2020 GUERRILLA AREA 関東優勝：開催中止
   - ULTIMATE MC BATTLE® 2020 THE CHOICE IS YOURS Vol4優勝：11月8日開催予定\[23\]
-  - 茨城予選優勝：未定\[24\]
+  - 茨城予選優勝：中止\[24\]
+
+コロナウイルスの影響を受けて、今年の予選は全て中止となった。本戦の出場方法は検討中である。
 
 ## DVD
 
@@ -821,13 +823,13 @@ OSAKA NAMBA HATCH</strong></p></td>
 
   - [UMB ニコニコチャンネル](http://ch.nicovideo.jp/channel/umb)
 
-  - [ULTIMATE MC BATTLE 2006 OFFICIAL WEBLOG](http://mcbattle.exblog.jp/)
+  - [ULTIMATE MC BATTLE 2006 OFFICIAL WEBLOG](https://mcbattle.exblog.jp/)
 
-  - [ULTIMATE MC BATTLE 2007 OFFICIAL WEBLOG](http://umb2007.exblog.jp/)
+  - [ULTIMATE MC BATTLE 2007 OFFICIAL WEBLOG](https://umb2007.exblog.jp/)
 
-  - [ULTIMATE MC BATTLE 2008 OFFICIAL WEBLOG](http://umb2008.exblog.jp/)
+  - [ULTIMATE MC BATTLE 2008 OFFICIAL WEBLOG](https://umb2008.exblog.jp/)
 
-  - [ULTIMATE MC BATTLE 2009 OFFICIAL WEBLOG](http://umb2009.exblog.jp/)
+  - [ULTIMATE MC BATTLE 2009 OFFICIAL WEBLOG](https://umb2009.exblog.jp/)
 
   - [ULTIMATE MC BATTLE 2010 公式サイト](http://www.libra-ltd.net/umb.html)
 
@@ -858,4 +860,4 @@ OSAKA NAMBA HATCH</strong></p></td>
 21. 岡山予選優勝者の紅桜が一身上の都合により出場出来なくなった為、準優勝のBUCHIが岡山代表として繰り上げ出場する形になった
 22.
 23.
-24. コロナウイルスの影響を考慮し、開催延期
+24. コロナウイルスの影響を考慮し、開催中止

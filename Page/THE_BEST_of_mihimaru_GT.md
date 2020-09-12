@@ -72,7 +72,7 @@
 
 ## 外部リンク
 
-  - [ユニバーサルミュージック](http://www.universal-music.co.jp/mihimaruGT/upch1543.html)
-  - [公式ページ](http://www.mihimaru-gt.com/discography/#album)
+  - [ユニバーサルミュージック](https://www.universal-music.co.jp/p/upcy-9396/)
+  - [公式ページ](https://www.mihimaru-gt.com/discography/#album)
 
 [Category:Mihimaru_GTのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:Mihimaru_GTのベスト・アルバム "wikilink") [Category:2007年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のベスト・アルバム "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink")

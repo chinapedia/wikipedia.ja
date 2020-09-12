@@ -32,7 +32,7 @@ A線は1980年に開通するも、2019年5月現在、[バルベリーニ駅](.
 | [スパーニャ駅](../Page/スパーニャ駅.md "wikilink")                                                 | *Spagna*                              |
 | [バルベリーニ駅](../Page/バルベリーニ駅.md "wikilink")【無期閉鎖中】                                        | *Barberini Fontana di Trevi*          |
 | [レプッブリカ駅](../Page/レプッブリカ駅_\(ローマ地下鉄\).md "wikilink")                                    | *Repubblica Teatro dell'Opera*        |
-| [テルミニ駅](https://ja.wikipedia.org/wiki/テルミニ駅 "wikilink")                                | *Termini-Cotral*                      |
+| [テルミニ駅](../Page/テルミニ駅_\(ローマ地下鉄\).md "wikilink")                                        | *Termini-Cotral*                      |
 | [ヴィットーリオ・エマヌエーレ駅](https://ja.wikipedia.org/wiki/ヴィットーリオ・エマヌエーレ駅_\(ローマ地下鉄\) "wikilink") | *Vittorio Emanuele*                   |
 | [マンゾーニ駅](../Page/マンゾーニ駅.md "wikilink")                                                 | *Manzoni Museo della Liberazione*     |
 | [サン・ジョヴァンニ駅](../Page/サン・ジョヴァンニ駅.md "wikilink")                                         | *S. Giovanni*                         |

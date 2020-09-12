@@ -159,12 +159,22 @@
       - 「Parallel Contrast」作編曲
   - 『[アイドルマスター ミリオンライブ\!](https://ja.wikipedia.org/wiki/アイドルマスター_ミリオンライブ! "wikilink")』
       - 北上麗花（[平山笑美](https://ja.wikipedia.org/wiki/平山笑美 "wikilink")）「[FIND YOUR WIND\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_PERFORMANCE#06 "wikilink")」作編曲
-      - 最上静香（[田所あずさ](https://ja.wikipedia.org/wiki/田所あずさ "wikilink")）「[Catch my dream](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#03 "wikilink")」作詞:Mine 作編曲:中土智博
-      - 百瀬莉緒(山口 立花子)「[WHY?](https://ja.wikipedia.org/wiki/WHY? "wikilink")」作編曲
-      - 矢吹可奈( 木戸衣吹)「[おまじない](https://ja.wikipedia.org/wiki/おまじない "wikilink")」作編曲
-      - ARRIVE「[STANDING ALIVE](https://ja.wikipedia.org/wiki/STANDING_ALIVE "wikilink")」作編曲
-      - 永吉昴(斉藤佑圭)「[HOME RUN SONG♪](https://ja.wikipedia.org/wiki/HOME_RUN_SONG♪ "wikilink")」作編曲
-      - EScape「[I.D \~EScape from Utopia\~](https://ja.wikipedia.org/wiki/I.D_~EScape_from_Utopia~ "wikilink")」作編曲
+
+      - 最上静香（[田所あずさ](https://ja.wikipedia.org/wiki/田所あずさ "wikilink")）「[Catch my dream](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#03 "wikilink")」作編曲
+
+      - 三浦あずさ（[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")）「[月のほとりで](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#07 "wikilink")」作編曲
+
+      - 萩原雪歩（[浅倉杏美](../Page/浅倉杏美.md "wikilink")）「[Ｉｍｐｅｒｖｉｏｕｓ　Ｒｅｓｏｌｕｔｉｏｎ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#07 "wikilink")」作編曲
+
+      - 矢吹可奈（[木戸衣吹](https://ja.wikipedia.org/wiki/木戸衣吹 "wikilink")）「[おまじない](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#07 "wikilink")」作編曲
+
+      - 「[STANDING ALIVE](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#10 "wikilink")」作編曲
+
+      - 百瀬莉緒（[山口立花子](../Page/山口立花子.md "wikilink")）「[WHY?](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_HARMONY#10 "wikilink")」作編曲
+
+      - 永吉昴（[斉藤佑圭](https://ja.wikipedia.org/wiki/斉藤佑圭 "wikilink")）「[HOME RUN SONG♪](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MILLION_LIVE!_M@STER_SPARKLE#02 "wikilink")」作編曲
+
+      - 「[I.D \~EScape from Utopia\~](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MILLION_THE@TER_GENERATION#08_EScape "wikilink")」作編曲
   - [Printemps](https://ja.wikipedia.org/wiki/Printemps "wikilink")
       - [永遠フレンズ](https://ja.wikipedia.org/wiki/永遠フレンズ "wikilink")
   - [渕上舞](https://ja.wikipedia.org/wiki/渕上舞 "wikilink")

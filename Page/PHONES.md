@@ -191,7 +191,7 @@
 <li>Words of the Rain [5:21]</li>
 <li>Eternal Ring (instrumental) [4:45]</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤田千章" title="wikilink">藤田千章</a>（<a href="https://ja.wikipedia.org/wiki/Sing_Like_Talking" title="wikilink">Sing Like Talking</a>）プロデュース</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤田千章" title="wikilink">藤田千章</a>（<a href="https://ja.wikipedia.org/wiki/SING_LIKE_TALKING" title="wikilink">SING LIKE TALKING</a>）プロデュース</p></td>
 </tr>
 <tr class="odd">
 <td><p>フルアルバム</p></td>

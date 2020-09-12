@@ -5,9 +5,9 @@
 
 ## 歴史
 
-創刊時より[高河ゆん](../Page/高河ゆん.md "wikilink")、[なるしまゆり](../Page/なるしまゆり.md "wikilink")の2人を看板に擁して[ファンタジー](../Page/ファンタジー.md "wikilink")系[少女漫画](../Page/少女漫画.md "wikilink")誌という方向性を打ち出し、その後さらに『[月刊コミックPocke](../Page/月刊コミックNORA.md "wikilink")』休刊による[くさなぎ俊祈](../Page/くさなぎ俊祈.md "wikilink")の移籍、本誌新人賞出身の[石動あゆま](../Page/石動あゆま.md "wikilink")の台頭\[1\]と充実してきたかのようにも思われた。しかし売り上げは今ひとつだったらしく、[2003年](../Page/2003年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")発売の7月号（通算32号）をもって休刊となった。休刊の決定から最終号の発売まであまり時間がなかったらしく、ある[漫画家](../Page/漫画家.md "wikilink")が自身の[ホームページ](../Page/ホームページ.md "wikilink")でグチったほか、連載中の多数の作品で最終巻に描き下ろしが追加された（なるしまゆり「[プラネット・ラダー](https://ja.wikipedia.org/wiki/プラネット・ラダー "wikilink")」のように、移籍の誘いを断り1冊丸ごと描き下ろしたものもある）\[2\]。
+創刊時より[高河ゆん](../Page/高河ゆん.md "wikilink")、[なるしまゆり](../Page/なるしまゆり.md "wikilink")の2人を看板に擁して[ファンタジー](../Page/ファンタジー.md "wikilink")系[少女漫画](../Page/少女漫画.md "wikilink")誌という方向性を打ち出し、その後さらに『[月刊コミックPocke](../Page/月刊コミックNORA.md "wikilink")』休刊による[くさなぎ俊祈](../Page/くさなぎ俊祈.md "wikilink")の移籍、本誌新人賞出身の[石動あゆま](../Page/石動あゆま.md "wikilink")の台頭\[1\]と充実してきたかのようにも思われた。しかし売り上げは今ひとつだったらしく、[2003年](../Page/2003年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")発売の7月号（通算32号）をもって休刊となった。休刊の決定から最終号の発売まであまり時間がなかったらしく、ある漫画家が自身の[ホームページ](../Page/ホームページ.md "wikilink")でグチったほか、連載中の多数の作品で最終巻に描き下ろしが追加された（なるしまゆり『[プラネット・ラダー](https://ja.wikipedia.org/wiki/プラネット・ラダー "wikilink")』のように、移籍の誘いを断り1冊丸ごと描き下ろしたものもある）\[2\]。
 
-なお、本誌及び単行本（クリムゾン・コミックス）の発売は[集英社](../Page/集英社.md "wikilink")が行なっていた。
+なお、本誌及び単行本（クリムゾン・コミックス）の発売は[集英社](../Page/集英社.md "wikilink")が行っていた。
 
 ## 主な連載作
 
@@ -49,7 +49,7 @@
   - [COMIC Crimson-コミッククリムゾン-](http://crimson.shueisha.co.jp/sobisha/)
   - [「コミック クリムゾン」総目次](http://www.hmx-12.net/nac/gcom/db_mag/db_crimson_idx.html)
 
-[Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:1998年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1998年創刊の雑誌 "wikilink") [Category:2003年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年休廃刊の雑誌 "wikilink")
+[Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:1998年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1998年創刊の雑誌 "wikilink") [Category:2003年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年休廃刊の雑誌 "wikilink") [Category:集英社の歴史](https://ja.wikipedia.org/wiki/Category:集英社の歴史 "wikilink")
 
 1.  石動は第1回新人賞で佳作を受賞。この他に新人賞受賞者では、[谷澤みき](https://ja.wikipedia.org/wiki/谷澤みき "wikilink")などが後に連載を持った。
-2.  「プラネット・ラダー」7巻カバー下に、その旨の記載がある。
+2.  『プラネット・ラダー』7巻カバー下に、その旨の記載がある。

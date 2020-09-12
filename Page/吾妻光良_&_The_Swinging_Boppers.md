@@ -71,7 +71,7 @@
   - [Mitsuyoshi Azuma & The Swinging Boppers](http://www.hotriver.jp/Boppers_top.php) （HOT RIVER RECORDS 公式サイト）
   - [Swinging Boppers & Other Events](http://s-boppers.com)（高齢者に優しい大きなフォントを使っています。）
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ブルース・ミュージシャン](https://ja.wikipedia.org/wiki/Category:ブルース・ミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1979年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1979年に結成した音楽グループ "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:ブルース・ミュージシャン](https://ja.wikipedia.org/wiki/Category:ブルース・ミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1979年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1979年に結成した音楽グループ "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink")
 
 1.  [ディレクター湯川治往が語る“バッパーズ”祝27年](http://www.jvcmusic.co.jp/boppers/yukawa.html)
 2.  本来の相撲用語としては「取組」が正しいが、曲名としては「取り組み」が正確な表記。

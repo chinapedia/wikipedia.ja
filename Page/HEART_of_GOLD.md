@@ -18,11 +18,11 @@
         作詞：[永山耕三](../Page/永山耕三.md "wikilink") / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")
     <!-- end list -->
       - 舞台『HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜』テーマソング
-2.  **Good Dayz** - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink") \[4:19\]
+2.  **Good Dayz** \[4:19\] - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")
       -
         作詞：MAKIDAI & USA & SOHJIN & [MICHICO](../Page/MICHICO.md "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/T.Kura "wikilink") & MICHICO / 編曲：MICHICO
-3.  HEART of GOLD (instrumental)
-4.  Good Dayz (instrumental)
+3.  HEART of GOLD（instrumental）
+4.  Good Dayz（instrumental）
 
 ## 収録アルバム
 

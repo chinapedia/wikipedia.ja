@@ -15,6 +15,7 @@
   - 次作「ピンク スパイダー」のリリース直前にhideが[急逝](https://ja.wikipedia.org/wiki/急逝 "wikilink")した為、本作品がhideが生前のうちにリリースされた最後の楽曲となった。
   - [2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")化され、再発売された。
   - [2012年](../Page/2012年.md "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列のお笑い番組「[ロケットライブ](https://ja.wikipedia.org/wiki/ロケットライブ "wikilink")」のテーマソングに起用された。
+  - [2018年](../Page/2018年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")、[NHK総合の](../Page/NHK総合テレビジョン.md "wikilink")[志村けん](../Page/志村けん.md "wikilink")主演のドラマ風単発コント「[スペシャルコント 志村けん in 探偵佐平60歳](../Page/スペシャルコント_志村けん_in_探偵佐平60歳.md "wikilink")」のオープニング/エンディングテーマに起用された。
   - [2018年](../Page/2018年.md "wikilink")[6月](../Page/6月.md "wikilink")、hideの最新のトリビュート・アルバム『hide TRIBUTE IMPULSE』が発売、そのアルバムの中でhideの後輩にあたるミクスチャー・ロックバンドの[Dragon Ashが本作をカバー](../Page/Dragon_Ash.md "wikilink")
   - [2018年](../Page/2018年.md "wikilink")[6月](../Page/6月.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")で開催される[2018 FIFAワールドカップのテレビ朝日系の中継テーマソングとしてhide](../Page/2018_FIFAワールドカップ.md "wikilink") with Spread Beaverバージョン及び、Dragon Ashバージョンの本作が公式テーマソングとして採用された\[3\]\[4\]\[5\]\[6\]。
 

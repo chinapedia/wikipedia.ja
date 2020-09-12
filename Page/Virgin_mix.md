@@ -47,7 +47,7 @@
 
 ## 外部リンク
 
-  - [DJ Lilly a.k.a. DOUBLE](http://www.universal-music.co.jp/u-pop/artist/djlilly/) DJ Lilly a.k.a. DOUBLEのオフィシャルサイト
+  - [DJ Lilly a.k.a. DOUBLE](https://www.universal-music.co.jp/dj-lilly/) DJ Lilly a.k.a. DOUBLEのオフィシャルサイト
   - [DOUBLE SPECIAL SITE](http://www.forlife.co.jp/summertime/) 「[SUMMERTIME feat.VERBAL](https://ja.wikipedia.org/wiki/SUMMERTIME_feat.VERBAL "wikilink")」&「virgin mix」 Ｗ購入キャンペーン
 
 [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ミックスCD](https://ja.wikipedia.org/wiki/Category:ミックスCD "wikilink")

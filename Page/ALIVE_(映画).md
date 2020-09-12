@@ -1,7 +1,7 @@
 > この記事は[ALIVE \(映画\)](https://ja.wikipedia.org/wiki/ALIVE_\(映画\))から翻訳されています。
 
 
-『**ALIVE**』（アライブ）は[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。漫画家の[高橋ツトム](../Page/高橋ツトム.md "wikilink")が[1999年](../Page/1999年.md "wikilink")に『週刊ヤングジャンプ』に発表したコミックを『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』監督の[北村龍平](../Page/北村龍平.md "wikilink")が映画化したSFソリッド・サバイバル・アクション。主演は『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』など北村常連組のひとりでもある俳優、[榊英雄](../Page/榊英雄.md "wikilink")。
+『**ALIVE**』（アライブ）は[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。漫画家の[髙橋ツトム](https://ja.wikipedia.org/wiki/髙橋ツトム "wikilink")が[1999年](../Page/1999年.md "wikilink")に『週刊ヤングジャンプ』に発表したコミックを『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』監督の[北村龍平](../Page/北村龍平.md "wikilink")が映画化したSFソリッド・サバイバル・アクション。主演は『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』など北村常連組のひとりでもある俳優、[榊英雄](../Page/榊英雄.md "wikilink")。
 
 ## ストーリー
 
@@ -11,7 +11,7 @@
 
   - 監督：[北村龍平](../Page/北村龍平.md "wikilink")
   - 脚本：北村龍平 [山口雄大](../Page/山口雄大.md "wikilink") [桐山勲](https://ja.wikipedia.org/wiki/桐山勲 "wikilink")
-  - 原作：[高橋ツトム](../Page/高橋ツトム.md "wikilink")
+  - 原作：[髙橋ツトム](https://ja.wikipedia.org/wiki/髙橋ツトム "wikilink")
   - 撮影：[古谷巧](../Page/古谷巧.md "wikilink")
   - 音楽：[森野宣彦](https://ja.wikipedia.org/wiki/森野宣彦 "wikilink") [矢野大介](https://ja.wikipedia.org/wiki/矢野大介 "wikilink")
   - VFXスーパーバイザー：進威志

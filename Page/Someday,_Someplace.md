@@ -7,7 +7,9 @@
 
 前作「[Over and Over](../Page/Over_and_Over.md "wikilink")」より約2ヶ月振りのリリースとなり、Every Little Thingにとって最後の8cmシングル。
 
-この年に発売された[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』の先行シングル。
+この1ヶ月後に発売された初の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』の先行シングル。
+
+最高位4位、累計売上18万枚。累計20万枚を下回るのは2ndシングル「[Future World](../Page/Future_World.md "wikilink")」以来2年半ぶり。
 
 ## 収録曲
 

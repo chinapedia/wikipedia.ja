@@ -1,7 +1,7 @@
 > この記事は[ZTE](https://ja.wikipedia.org/wiki/ZTE)から翻訳されています。
 
 
-**中興通訊**（ちゅうこうつうじん、）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[深圳市に本社を置く](../Page/深セン市.md "wikilink")、通信設備および通信端末の開発および生産を事業とする会社である。
+**中興通訊**（ちゅうこうつうしん、）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[深圳市](https://ja.wikipedia.org/wiki/深圳市 "wikilink")に本社を置く、通信設備および通信端末の開発および生産を事業とする会社である。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 ## 沿革
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")：設立。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")：[深圳証券取引所への上場](https://ja.wikipedia.org/wiki/深セン証券取引所 "wikilink")。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")：[深圳証券取引所](https://ja.wikipedia.org/wiki/深圳証券取引所 "wikilink")への上場。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")：[テキサス州](../Page/テキサス州.md "wikilink")・[ダラス](../Page/ダラス.md "wikilink")に米国法人を設立。
   - [2004年](../Page/2004年.md "wikilink")：[アテネオリンピックのプレス](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")・センターおよび16の開催地で[ADSL](../Page/ADSL.md "wikilink")の広帯域アクセスのプロジェクトを引き受けた。
   - [2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：[チャイナ・ユニコム](https://ja.wikipedia.org/wiki/チャイナ・ユニコム "wikilink")（中国聯通）の低価格CDMA携帯電話端末を受注。
@@ -83,7 +83,80 @@
 
 さらに2016年からは、新たな[ウェブサイト](../Page/ウェブサイト.md "wikilink")の立ち上げや新製品発表会、[ソフトバンクホークス](https://ja.wikipedia.org/wiki/ソフトバンクホークス "wikilink")へのスポンサーなど多額な広告予算を投じ、新たに[ダイワボウ情報システム](../Page/ダイワボウ情報システム.md "wikilink")を通じて携帯大手3社や大手MVNO、大手小売店で自社ブランドのSIMフリースマートフォン端末を販売を開始。2016年には社長自ら「シェアナンバー4をターゲットにする」と明言するなど、日本を戦略マーケティング拠点とした活動を強化。また、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[au](../Page/Au_\(携帯電話\).md "wikilink")、ソフトバンクの大手3社に携帯電話端末を供給するほか、[イオンモバイルや](../Page/イオン_\(企業\).md "wikilink")[楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")、[LINEモバイルなどの大手MVNOにもスマートフォン端末を供給していた](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")。
 
-2019年以降、端末販売での動きはないが、通信インフラなどの設備事業で堅調な業績を上げている。
+2020年現在、KDDIやソフトバンク向けに5G対応スマートフォンを発売するだけでなく、通信インフラなどの設備事業で堅調な業績を上げている。
+
+#### 携帯端末・通信モジュール搭載端末
+
+多数なので日本国内でも規格上使える端末のみを
+
+##### ソフトバンクモバイル向け
+
+  - [かんたん携帯 840Z](https://ja.wikipedia.org/wiki/SoftBank_840Z "wikilink")（2010年10月29日発売）
+  - [みまもりカメラ Z001](https://ja.wikipedia.org/wiki/SoftBank_Z001 "wikilink")（2011年1月発売）
+  - [みまもりカメラ Z002](https://ja.wikipedia.org/wiki/SoftBank_Z002 "wikilink")（2011年1月発売）
+  - [Libero 003Z](https://ja.wikipedia.org/wiki/SoftBank_003Z "wikilink")（2010年12月24日発売）
+  - [SoftBank 004Z](https://ja.wikipedia.org/wiki/SoftBank_004Z "wikilink")（2011年2月25日発売）
+  - [みまもりケータイ 005Z](https://ja.wikipedia.org/wiki/SoftBank_005Z "wikilink")（2011年3月26日発売）
+  - [006Z](https://ja.wikipedia.org/wiki/SoftBank_006Z "wikilink")（2011年6月18日発売）
+  - [ULTRA WiFi 007Z](https://ja.wikipedia.org/wiki/SoftBank_007Z "wikilink")（2011年7月8日発売）
+  - [シンプルスマートフォン 008Z](https://ja.wikipedia.org/wiki/SoftBank_008Z "wikilink")（2011年8月17日発売） - [ソフトバンクショップ](https://ja.wikipedia.org/wiki/ソフトバンクショップ "wikilink")等で、[SIMロック](../Page/SIMロック.md "wikilink")をはずすことが可能となる、ソフトバンクモバイルとしては初のモデルとなる。SIMロックをはずすと、[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")のバンド1/8、GSMクワッドバンドに対応したエリア、UIMカードが利用可能となる。
+  - [STAR7 009Z](https://ja.wikipedia.org/wiki/SoftBank_009Z "wikilink") - 008Z同様、ショップでSIMロックをはずすことが可能。7色展開で、ワンセグ・防水に対応。
+  - [みまもりケータイ2 101Z](https://ja.wikipedia.org/wiki/SoftBank_101Z "wikilink")
+  - [ULTRA WiFi 4G 102Z](https://ja.wikipedia.org/wiki/SoftBank_102Z "wikilink") - [モバイルWi-Fiルーター](https://ja.wikipedia.org/wiki/モバイルWi-Fiルーター "wikilink")
+  - [みまもりGPS 201Z](https://ja.wikipedia.org/wiki/SoftBank_201Z "wikilink")
+  - [みまもりケータイ3 202Z](https://ja.wikipedia.org/wiki/SoftBank_202Z "wikilink")
+  - [Pocket WiFi 203Z](https://ja.wikipedia.org/wiki/SoftBank_203Z "wikilink") - ソフトバンクモバイル初の[Pocket WiFiブランド製品](https://ja.wikipedia.org/wiki/Pocket_WiFi "wikilink")。[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")の[LTE](https://ja.wikipedia.org/wiki/LTE "wikilink")網にも加えて対応し、事実上eAで販売された[GL09P](https://ja.wikipedia.org/wiki/GL09P "wikilink")をSBM向けにリモデルした、[4G端末](https://ja.wikipedia.org/wiki/SoftBank_4G "wikilink")（2013年8月9日発売）
+  - [301Z](https://ja.wikipedia.org/wiki/SoftBank_301Z "wikilink") - [プリモバイル](https://ja.wikipedia.org/wiki/プリモバイル "wikilink")専用端末
+  - [Pocket WiFi 303ZT](https://ja.wikipedia.org/wiki/SoftBank_303ZT "wikilink") - AXGPによるキャリア・アグリゲーションに対応した、[Pocket WiFi製品](https://ja.wikipedia.org/wiki/Pocket_WiFi "wikilink")（305ZTのリモデル）
+  - [Pocket WiFi SoftBank 304ZT](https://ja.wikipedia.org/wiki/SoftBank_304ZT "wikilink") - SoftBank 303ZTの、3Gにおける周波数違いバージョン（303ZTはワイモバイル網、304ZTは、自社Bands 1/8対応版）
+  - [かんたん携帯8](https://ja.wikipedia.org/wiki/かんたん携帯8 "wikilink")
+  - ZTE Axon 10 Pro 5G - ZTEジャパン初の5G対応スマートフォン。
+
+##### KDDI・沖縄セルラー電話（各au）向け
+
+  - [PHOTO-U TV ZTS11](https://ja.wikipedia.org/wiki/ZTS11 "wikilink") - ワンセグ/フルセグチューナーを搭載した[au 3G](https://ja.wikipedia.org/wiki/au_3G "wikilink")（旧名称[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")。[CDMA2000 1xEV-DO Rel.0](https://ja.wikipedia.org/wiki/CDMA2000_1xEV-DO_Rel.0 "wikilink")）対応・防水機能付デジタルフォトフレーム。（2013年12月14日発売）
+  - [PHOTO-U TV ZTS12](https://ja.wikipedia.org/wiki/ZTS11 "wikilink") - 内部メモリーを8GBに増やしたZTS11のマイナーチェンジモデル。（2015年6月5日発売）
+  - [mamorino Watch](https://ja.wikipedia.org/wiki/mamorino_Watch "wikilink") (ZTF31) - 小学二年生以下の児童を対象とした[au VoLTE対応](https://ja.wikipedia.org/wiki/au_VoLTE "wikilink")・[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")機能付スマートウォッチ\[37\]。（2016年3月18日発売）
+  - ZTE a1 ZTG01
+
+##### NTTドコモ向け
+
+  - [MO-01J](https://ja.wikipedia.org/wiki/MO-01J "wikilink") - 同社オリジナルブランド「MONO」第1号製品。
+  - Z-01K - 折りたたみ2画面スマートフォン。
+  - MO-01K - 同社オリジナルブランド 「MONO」第2号製品。
+
+##### 旧Y\!mobile(現 ソフトバンクモバイルY\!mobileブランド)向け
+
+  - [305ZT](https://ja.wikipedia.org/wiki/305ZT "wikilink") - AXGPによるキャリア・アグリゲーションに対応した、Pocket WiFi製品。
+  - Libero S10
+
+#### [NTTレゾナント](../Page/NTTレゾナント.md "wikilink")向け
+
+eiYAAAが販売元となり、**gooのスマホ**として発売。
+
+  - g01（グーマルイチ）…Blade L03がベース
+  - g02（グーマルニ）…Blade S Liteがベース
+  - g03（グーマルサン）…Blade Sがベース
+  - g05（グーマルゴ）…Blade S7がベース
+
+#### SIMフリー端末
+
+  - MF98N
+  - MF920S
+  - Blade V6
+  - Blade E01
+  - Blade E02
+  - Axon mini
+  - Blade V580
+  - Blade V7 Lite
+  - Blade V7 Max
+  - Blade V8
+  - Axon 7 mini
+  - Axon 7
+
+##### nubiaブランド端末
+
+  - nubia Red Magic 5
 
 ## 脚注
 
@@ -103,7 +176,7 @@
   -
   -
   -
-[Category:中国の携帯電話メーカー](https://ja.wikipedia.org/wiki/Category:中国の携帯電話メーカー "wikilink") [Category:香港証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:香港証券取引所上場企業 "wikilink") [Category:深セン証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:深セン証券取引所上場企業 "wikilink") [Category:深センの企業](https://ja.wikipedia.org/wiki/Category:深センの企業 "wikilink") [Category:コンピュータ・ネットワークの企業](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワークの企業 "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink") [Category:南山区_(深セン市)](https://ja.wikipedia.org/wiki/Category:南山区_\(深セン市\) "wikilink")
+[Category:中国の携帯電話メーカー](https://ja.wikipedia.org/wiki/Category:中国の携帯電話メーカー "wikilink") [Category:香港証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:香港証券取引所上場企業 "wikilink") [Category:深圳証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:深圳証券取引所上場企業 "wikilink") [Category:深圳の企業](https://ja.wikipedia.org/wiki/Category:深圳の企業 "wikilink") [Category:コンピュータ・ネットワークの企業](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワークの企業 "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink") [Category:南山区_(深圳市)](https://ja.wikipedia.org/wiki/Category:南山区_\(深圳市\) "wikilink")
 
 1.
 2.  <http://www.zte.com.cn/cn/about/corporate_information/history/>
@@ -141,3 +214,4 @@
 34.
 35. [中興通訊（ZTE）とウィルコム「XGP」技術に関する共同検討の覚書締結について](http://www.willcom-inc.com/ja/corporate/press/2009/02/18/) - ウィルコムプレスリリース・2009年2月18日
 36. [ZTE初の国内向け音声端末はベーシックな“かんたん携帯”――「840Z」](http://plusd.itmedia.co.jp/mobile/articles/1005/18/news044.html) - ITmedia +Dmobile・2010年5月18日
+37. 基本的に[ウェアラブル端末であるが先述の通りVoLTE対応FD](../Page/ウェアラブルコンピュータ.md "wikilink")-LTE専用モジュールを搭載し、更に音声通話機能に対応することから実質的には[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")扱いとなる。

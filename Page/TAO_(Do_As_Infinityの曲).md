@@ -43,6 +43,7 @@ DAIはこのシングル発売から2ヵ月後の[9月13日](../Page/9月13日.m
 
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
+  - 『[Anime and Game COLLECTION](https://ja.wikipedia.org/wiki/Anime_and_Game_COLLECTION "wikilink")』
   - 『\[\[2_of_Us\#2_of_Us_RED_-14_Re:SINGLES-|2 of Us \[RED\] -14 Re:SINGLES-\]\]』（アレンジ、新録音して収録）
 
 <!-- end list -->

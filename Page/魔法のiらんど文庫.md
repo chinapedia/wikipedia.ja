@@ -418,114 +418,120 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p>美那</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桜龍" title="wikilink">桜龍</a></p></td>
+<td><p>2010年6月</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td><p>みなづき未来</p></td>
 <td><p>嘘つきなリップ</p></td>
 <td><p>2009年7月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>水嶋利子</p></td>
 <td><p>理由。</p></td>
 <td><p>2007年12月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>村崎紫</p></td>
 <td><p>恋情ブラスト</p></td>
 <td><p>2010年4月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>元田有</p></td>
 <td><p>11号-世界一のピュア・ラブストーリー</p></td>
 <td><p>2008年8月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ももしろ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/S彼氏上々" title="wikilink">S彼氏上々</a></p></td>
 <td><p>2007年11月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ももしろ</p></td>
 <td><p>純情スロットル</p></td>
 <td><p>2010年8月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ももしろ</p></td>
 <td><p>アイドルをねらえ!?</p></td>
 <td><p>2011年11月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>や行</p></td>
 <td><p>―</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>山田誉</p></td>
 <td><p>シュガーラブ</p></td>
 <td><p>2010年12月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/結衣_(ケータイ小説家).md" title="wikilink">結衣</a></p></td>
 <td><p><a href="../Page/あいつ等だけのお姫様!?.md" title="wikilink">あいつ等だけのお姫様!?</a></p></td>
 <td><p>2007年10月</p></td>
 <td><p>表紙挿画:<a href="https://ja.wikipedia.org/wiki/上条衿" title="wikilink">上条衿</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>結衣</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/恋愛約束" title="wikilink">恋愛約束</a></p></td>
 <td><p>2010年7月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ゆう</p></td>
 <td><p>ワイルドビースト</p></td>
 <td><p>2013年3月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ら行</p></td>
 <td><p>―</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>らりさ</p></td>
 <td><p>そよ風に乗って 出会い編</p></td>
 <td><p>2008年3月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>りん</p></td>
 <td><p>Kiss</p></td>
 <td><p>2010年1月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>りん</p></td>
 <td><p>pianissimo 秘密の恋</p></td>
 <td><p>2010年5月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Link_(小説家)" title="wikilink">Link</a></p></td>
 <td><p>サディスティック・プリンス</p></td>
 <td><p>2013年3月</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>わ行</p></td>
 <td><p>―</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>わたあめ</p></td>
 <td><p>Sカレ!のMカノ?</p></td>
 <td><p>2011年10月</p></td>
@@ -582,7 +588,7 @@
   - [魔法のiらんど](http://company.maho.jp/) [同・プレスリリース](http://company.maho.jp/press/press_release/20070612mediaworks_nobel.pdf)（2007年6月12日）
   - [メディアワークス](http://www.mediaworks.co.jp/)
 
-[Category:KADOKAWAの文庫本](https://ja.wikipedia.org/wiki/Category:KADOKAWAの文庫本 "wikilink") [Category:アスキー・メディアワークスの出版物](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークスの出版物 "wikilink") [Category:ケータイ小説](https://ja.wikipedia.org/wiki/Category:ケータイ小説 "wikilink") [Category:文学のウェブサイト](https://ja.wikipedia.org/wiki/Category:文学のウェブサイト "wikilink")
+[Category:KADOKAWAの文庫本](https://ja.wikipedia.org/wiki/Category:KADOKAWAの文庫本 "wikilink") [Category:アスキー・メディアワークスの出版物](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークスの出版物 "wikilink") [Category:廃刊した文庫](https://ja.wikipedia.org/wiki/Category:廃刊した文庫 "wikilink") [Category:ケータイ小説](https://ja.wikipedia.org/wiki/Category:ケータイ小説 "wikilink") [Category:文学のウェブサイト](https://ja.wikipedia.org/wiki/Category:文学のウェブサイト "wikilink") [Category:2007年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行開始の刊行物 "wikilink") [Category:2018年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2018年刊行終了の刊行物 "wikilink")
 
 1.  [魔法のiらんど ｉらんどレンアイ部](http://ip.tosp.co.jp/p.asp?I=RENAI_09) - （2012年1月閲覧）
 2.  [Novelite×魔法のiらんど文庫　小説コンテスト「ノベ文庫」 \> 応募要項](https://novel.maho.jp/special/pickup/novebunko-youkou/) - （2019年5月閲覧）

@@ -1,7 +1,7 @@
 > この記事は[Melma!](https://ja.wikipedia.org/wiki/Melma!)から翻訳されています。
 
 
-**melma\!**（メルマ！）とは、ユニティが運営している、[メールマガジン](../Page/メールマガジン.md "wikilink")を配信するサービスである。
+**melma\!**（メルマ！）とは、ユニティが運営していた[メールマガジン](../Page/メールマガジン.md "wikilink")を配信するサービスである。
 
 当記事では、melma\!の前身であり、かつてサイバーエージェントと[オン・ザ・エッヂ](https://ja.wikipedia.org/wiki/オン・ザ・エッヂ "wikilink")が運営していたサービス、「クリックインカム」と、「あるあるネット」についても詳述する。
 
@@ -27,7 +27,7 @@
   - [1999年](../Page/1999年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") - オン・ザ・エッヂと共同で、「あるあるネット」を開始。
   - [2000年](../Page/2000年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") - 「クリックインカム」と「あるあるネット」を統合し、新たに「melma\!」を立ち上げ。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")がユニティに事業譲渡。\[3\]
-  - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") - サービス終了（予定）\[4\]
+  - [2020年](../Page/2020年.md "wikilink")[3月13日](../Page/1月31日.md "wikilink") - サービス終了\[4\]
 
 ## 脚注
 

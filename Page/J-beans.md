@@ -7,7 +7,7 @@
 
 ## 主な所属俳優・タレント
 
-2020年1月29日 (水) 05:00 (UTC)現在
+2020年8月11日 (火) 11:13 (UTC)現在
 
 ### 女性
 
@@ -15,21 +15,25 @@
 
 <!-- end list -->
 
-  - [大沢菜々子](https://ja.wikipedia.org/wiki/大沢菜々子 "wikilink")
-  - [石橋綾実](https://ja.wikipedia.org/wiki/石橋綾実 "wikilink")
-  - [氏江美憂](https://ja.wikipedia.org/wiki/氏江美憂 "wikilink")
+  - [奥山琴夏](https://ja.wikipedia.org/wiki/奥山琴夏 "wikilink")
   - [赤川すもも](https://ja.wikipedia.org/wiki/赤川すもも "wikilink")
   - [橘音羽](https://ja.wikipedia.org/wiki/橘音羽 "wikilink")
+  - [加賀屋涼夏](https://ja.wikipedia.org/wiki/加賀屋涼夏 "wikilink")
   - [南場聖奈](https://ja.wikipedia.org/wiki/南場聖奈 "wikilink")
+  - [北爪さくら](https://ja.wikipedia.org/wiki/北爪さくら "wikilink")
   - [赤川みかん](https://ja.wikipedia.org/wiki/赤川みかん "wikilink")
 
 **Ladies**
 
+  - [小林渚沙](https://ja.wikipedia.org/wiki/朝日奈咲季 "wikilink")
   - [朝日奈咲季](https://ja.wikipedia.org/wiki/朝日奈咲季 "wikilink")
   - [伊藤奏恵](https://ja.wikipedia.org/wiki/伊藤奏恵 "wikilink")
-  - [小林渚沙](https://ja.wikipedia.org/wiki/小林渚沙 "wikilink")
-  - [南場美結](https://ja.wikipedia.org/wiki/南場美結 "wikilink")
   - [山口有紀奈](https://ja.wikipedia.org/wiki/山口有紀奈 "wikilink")
+  - [南場美結](https://ja.wikipedia.org/wiki/南場美結 "wikilink")
+  - [大澤菜々子](https://ja.wikipedia.org/wiki/大澤菜々子 "wikilink")
+  - [石橋綾実](https://ja.wikipedia.org/wiki/石橋綾実 "wikilink")
+  - [KARIN](https://ja.wikipedia.org/wiki/KARIN "wikilink")
+  - [氏江美憂](https://ja.wikipedia.org/wiki/氏江美憂 "wikilink")
 
 ### 男性
 
@@ -60,16 +64,11 @@
 
   - [久松りょうた](https://ja.wikipedia.org/wiki/久松りょうた "wikilink")
   - [熊田健太郎](https://ja.wikipedia.org/wiki/熊田健太郎 "wikilink")
+  - [未有楽ヒロト](https://ja.wikipedia.org/wiki/未有楽_ヒロト "wikilink")
   - [安田一大](https://ja.wikipedia.org/wiki/安田一大 "wikilink")
   - [柿澤崇之](https://ja.wikipedia.org/wiki/柿澤崇之 "wikilink")
   - [柿澤司](https://ja.wikipedia.org/wiki/柿澤司 "wikilink")
   - [畠山留佳](https://ja.wikipedia.org/wiki/畠山留佳 "wikilink")
-
-<hr />
-
-  - 注釈
-
-事務所内[音楽ユニット](../Page/音楽ユニット.md "wikilink")\[1\]\[2\]
 
 ## 過去の主な所属タレント
 
@@ -87,6 +86,3 @@
   - [オーディション情報関連雑誌である「Deview」のウェブ版によるJ-beansの概要](https://deview.co.jp/Audition/Overview?am_audition_id=21775)
 
 [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:モデルエージェンシー](https://ja.wikipedia.org/wiki/Category:モデルエージェンシー "wikilink") [Category:中野区の企業](https://ja.wikipedia.org/wiki/Category:中野区の企業 "wikilink")
-
-1.
-2.

@@ -54,7 +54,7 @@
   - [旧candyman official website](http://candyman.nomaki.jp/first/menu.htm)
   - [INTERSTELLAR PRODUCTIONのShop](http://lit-hum.com/Interstellar_Production/Shop/Shop.html) ※アルバム「Laughingstock」のみ、現在でも購入可能
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink")
 
 1.  [CANDYMAN Official Blog:2008年03月17日](http://blog.livedoor.jp/candymanofficial/archives/1018028.html)より
 2.  [candymanblog](http://candyman.nomaki.jp/first/blog.htm) ※「THANK YOU ALL \!\!」(2005年6月3日)参照

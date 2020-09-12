@@ -25,7 +25,6 @@
     (作詞・作曲:小渕健太郎)
 7.  **[赤い糸](https://ja.wikipedia.org/wiki/時の足音 "wikilink")**
     (作詞・作曲:小渕健太郎)
-
-「赤い糸」は後のシングル「[蒼く 優しく](../Page/蒼く_優しく.md "wikilink")」にライブバージョンで収録され、「[時の足音](https://ja.wikipedia.org/wiki/時の足音 "wikilink")」、「[CALLING](https://ja.wikipedia.org/wiki/CALLING "wikilink")」にも収録されている。また、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")がカバーしており、コブクロ版のPVにも新垣結衣が出演している。
+      - 「赤い糸」は後のシングル「[蒼く 優しく](../Page/蒼く_優しく.md "wikilink")」にライブバージョンで収録され、「[時の足音](https://ja.wikipedia.org/wiki/時の足音 "wikilink")」、「[CALLING](https://ja.wikipedia.org/wiki/CALLING "wikilink")」にも収録されている。また、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")がカバーしており、コブクロ版のPVにも新垣結衣が出演している。
 
 [Category:コブクロのアルバム](https://ja.wikipedia.org/wiki/Category:コブクロのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")

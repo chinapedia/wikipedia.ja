@@ -1,7 +1,7 @@
 > この記事は[H部隊](https://ja.wikipedia.org/wiki/H部隊)から翻訳されています。
 
 
-**H部隊**（Hぶたい 英：Force H）は、[イギリス海軍](../Page/イギリス海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に編成した[任務部隊](https://ja.wikipedia.org/wiki/任務部隊 "wikilink")の一つ。ただし、H部隊それ自体が「任務部隊（Task Force）」と呼称されていたわけではない。[1940年](../Page/1940年.md "wikilink")に[イタリア](../Page/イタリア.md "wikilink")が[枢軸国](../Page/枢軸国.md "wikilink")側として参戦し、[地中海](../Page/地中海.md "wikilink")の中央部を抑えられてしまった事により、地中海西部の海軍力の空白を埋める為に編成された。[地中海艦隊の主力は](../Page/地中海艦隊_\(イギリス\).md "wikilink")[エジプト](../Page/エジプト.md "wikilink")の[アレクサンドリア](../Page/アレクサンドリア.md "wikilink")にあり、終戦まで地中海東部の制海権を確保している。イタリアの降伏まで地中海西部をH部隊が、東部を地中海艦隊が活動する事になる。
+**H部隊**（Hぶたい 英：Force H）は、[イギリス海軍](../Page/イギリス海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に編成した[任務部隊の一つ](../Page/タスクフォース.md "wikilink")。ただし、H部隊それ自体が「任務部隊（Task Force）」と呼称されていたわけではない。[1940年](../Page/1940年.md "wikilink")に[イタリア](../Page/イタリア.md "wikilink")が[枢軸国](../Page/枢軸国.md "wikilink")側として参戦し、[地中海](../Page/地中海.md "wikilink")の中央部を抑えられてしまった事により、地中海西部の海軍力の空白を埋める為に編成された。[地中海艦隊の主力は](../Page/地中海艦隊_\(イギリス\).md "wikilink")[エジプト](../Page/エジプト.md "wikilink")の[アレクサンドリア](../Page/アレクサンドリア.md "wikilink")にあり、終戦まで地中海東部の制海権を確保している。イタリアの降伏まで地中海西部をH部隊が、東部を地中海艦隊が活動する事になる。
 
 H部隊はイギリス海軍の指揮系統において一風変わった位置にあった。通常のイギリス海軍部隊のあり方から考えると、[ジブラルタル](../Page/ジブラルタル.md "wikilink")を基地とするH部隊は、その地域を管轄するジブラルタルの司令（北大西洋戦域司令官、Flag Officer North Atlantic）を間に挟んで、[第一海軍卿](../Page/第一海軍卿.md "wikilink")の指揮下におかれることとなる。しかし実際のところH部隊は間に誰も通さず、第一海軍卿の直接指揮下におかれていた。
 
@@ -68,12 +68,12 @@ H部隊の最初の作戦は、H部隊が編成された理由と深く関わる
 
 ### 1941年
 
-  - [エクセス作戦](https://ja.wikipedia.org/wiki/エクセス作戦 "wikilink") - 1月
+  - [MC4作戦](../Page/MC4作戦.md "wikilink")（エクセス作戦） - 1月
   - [ピケット作戦](https://ja.wikipedia.org/wiki/ピケット作戦_\(1941年\) "wikilink") - 1月、2月
   - [グロッグ作戦](../Page/グロッグ作戦.md "wikilink") - 2月
   - [ウィンチ作戦](https://ja.wikipedia.org/wiki/ウィンチ作戦 "wikilink") - 4月
   - [ダンロップ作戦、セイリエント作戦](https://ja.wikipedia.org/wiki/ダンロップ作戦とセイリエント作戦 "wikilink") - 4月
-  - [MD.4作戦](https://ja.wikipedia.org/wiki/MD.4作戦 "wikilink") - 5月
+  - [MD4作戦](../Page/MD4作戦.md "wikilink")（タイガー作戦） - 5月
   - [スプライス作戦](https://ja.wikipedia.org/wiki/スプライス作戦 "wikilink") - 5月
   - [ロケット作戦](https://ja.wikipedia.org/wiki/ロケット作戦 "wikilink") - 6月
   - [トレイサー作戦](https://ja.wikipedia.org/wiki/トレイサー作戦 "wikilink") - 6月

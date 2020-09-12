@@ -47,4 +47,4 @@
 
   - [LEXY公式サイト](http://www.bluemusic.co.jp/lexy/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink")

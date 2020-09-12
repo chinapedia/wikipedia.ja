@@ -51,4 +51,4 @@
   - [公式サイト](http://yoheyokamoto.jp/)
   - [ユニバーサルミュージック](http://www.universal-music.co.jp/universal-gear/yoheyokamoto/index.html)
 
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink")

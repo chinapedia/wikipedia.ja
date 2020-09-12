@@ -1,7 +1,7 @@
 > この記事は[D・N・A](https://ja.wikipedia.org/wiki/D・N・A)から翻訳されています。
 
 
-『**D・N・A**』（ディー・エヌ・エー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Janne Da Arcのメジャーデビュー後](../Page/Janne_Da_Arc.md "wikilink")、初の[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。発売元は[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
+『**D・N・A**』（ディー・エヌ・エー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[motorodから発売したメジャー](https://ja.wikipedia.org/wiki/cutting_edge#かつて存在したサブレーベル "wikilink")1枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -11,42 +11,187 @@
 
 ## 収録曲
 
-1.  **Deja-vu** (作曲:kiyo)
+1.  **Deja-vu**
       -
-        [インスト曲](../Page/器楽曲.md "wikilink")。
-2.  **Vanity** (作詞・作曲:[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink"))
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作曲：[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")
+        編曲：kiyo、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+2.  **[Vanity](https://ja.wikipedia.org/wiki/Heaven's_Place/Vanity "wikilink")**
       -
-        後に4thシングル「[Heaven's Place/Vanity](https://ja.wikipedia.org/wiki/Heaven's_Place/Vanity "wikilink")」として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
-        [アウトロ](../Page/アウトロ.md "wikilink")が次曲へと繋がっている。
-3.  **ファントム** (作詞:yasu 作曲:kiyo\&yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
+        編曲：yasu、Janne Da Arc、[明石昌夫](../Page/明石昌夫.md "wikilink")
+
+        </div>
+
+        </div>
+
+        [両A面からなる](https://ja.wikipedia.org/wiki/A面/B面#両A面シングル・両B面シングル "wikilink")、4thシングルの表題2曲目。
+3.  **ファントム**
       -
-        映画『[リング](../Page/リング_\(1998年の映画\).md "wikilink")』に出てくる[山村貞子](../Page/山村貞子.md "wikilink")がモチーフになっている。
-        本来なら英語表記だったが分りにくいという事でカタカナ表記になっている。
-4.  **[EDEN 〜君がいない〜](https://ja.wikipedia.org/wiki/EDEN_〜君がいない〜 "wikilink")** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：kiyo、yasu
+        編曲：kiyo、Janne Da Arc、明石昌夫、秦野猛行
+
+        </div>
+
+        </div>
+4.  **[EDEN〜君がいない〜](https://ja.wikipedia.org/wiki/EDEN〜君がいない〜 "wikilink")**
       -
-        3rdシングル。
-5.  **child vision 〜絵本の中の綺麗な魔女〜**
-    (作詞:yasu 作曲:kiyo)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、明石昌夫、秦野猛行
+
+        </div>
+
+        </div>
+
+        3rdシングルの表題曲。
+5.  **child vision〜絵本の中の綺麗な魔女〜**
       -
-        [歌詞](../Page/歌詞.md "wikilink")は[幼児虐待](https://ja.wikipedia.org/wiki/幼児虐待 "wikilink")や[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")、[家庭内暴力](../Page/家庭内暴力.md "wikilink")がテーマになっている。ギターソロ前に長めのベースソロがある。
-6.  **Stranger** (作詞:yasu 作曲:yasu&[you](../Page/You_\(Janne_Da_Arc\).md "wikilink"))
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：kiyo
+        編曲：kiyo、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+6.  **Stranger**
       -
-        変拍子やソロ部分が非常に難解であることから、Janne Da Arcの曲の中で最も演奏が難しい曲とされている。
-7.  **桜** (作詞:yasu 作曲:[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink"))
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：[you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")、yasu
+        編曲：you、Janne Da Arc、明石昌夫、秦野猛行
+
+        </div>
+
+        </div>
+7.  **桜**
       -
-        歌詞は、[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")の実話である。17thシングル「[FREEDOM](../Page/FREEDOM_\(Janne_Da_Arcの曲\).md "wikilink")」に、シークレットトラックとしてこの曲の別アレンジバージョンが収録されている。
-8.  **[Lunatic Gate](https://ja.wikipedia.org/wiki/Lunatic_Gate "wikilink")** (作詞:yasu 作曲:you\&yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")
+        編曲：ka-yu、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+8.  **[Lunatic Gate](https://ja.wikipedia.org/wiki/Lunatic_Gate "wikilink")**
       -
-        2ndシングル。
-9.  **Junky Walker** (作詞:yasu 作曲:kiyo\&yasu)
-10. **[RED ZONE](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink") (Album Mix)** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：you、yasu
+        編曲：you、Janne Da Arc、明石昌夫
+
+        </div>
+
+        </div>
+
+        2ndシングルの表題曲。
+9.  **Junky Walker**
       -
-        デビューシングルのアルバムバージョン。
-11. **ring** (作詞:ka-yu 作曲:ka-yu\&yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：kiyo、yasu
+        編曲：kiyo、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+10. **[RED ZONE](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink") (Album Mix)**
       -
-        ka-yuの実体験をもとにして製作された。
-12. **Heaven's Place** (作詞・作曲:yasu)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、明石昌夫
+
+        </div>
+
+        </div>
+
+        1stシングルの表題曲のアルバムバージョン。
+11. **ring**
       -
-        後に4thシングル「[Heaven's Place/Vanity](https://ja.wikipedia.org/wiki/Heaven's_Place/Vanity "wikilink")」として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：ka-yu
+        作曲：ka-yu、yasu
+        編曲：ka-yu、Janne Da Arc、明石昌夫
+
+        </div>
+
+        </div>
+12. **[Heaven's Place](https://ja.wikipedia.org/wiki/Heaven's_Place/Vanity "wikilink")**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+
+        両A面からなる4thシングルの表題1曲目。
+
+## 参加ミュージシャン
+
+  - Janne Da Arc
+
+<!-- end list -->
+
+  - [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink")、Left Side Guitar Solo (\#6)
+  - [ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+  - [shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
+
+<!-- end list -->
+
+  - Additional Musician
+
+<!-- end list -->
+
+  - [石原愼一郎](https://ja.wikipedia.org/wiki/石原愼一郎 "wikilink")：Right Side Guitar Solo (\#6)
+
+## タイアップ
+
+  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』[オープニングテーマ](../Page/主題歌.md "wikilink") (\#2)
+  - [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディング曲 "wikilink") (\#4)
+  - [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[討論バラエティ番組](../Page/討論番組.md "wikilink")『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ (\#8)
+  - テレビ朝日系列バラエティ番組『[ネプいっ\!](../Page/おネプ!.md "wikilink")』エンディングテーマ (\#10)
+  - テレビ東京系列[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』エンディングテーマ (\#12)
+  - アイディアファクトリー製PlayStation 2専用ゲームソフト『スカイサーファー』エンディングテーマ (\#12)
+
+## 外部リンク
+
+  - [エイベックスによる紹介ページ](https://avexnet.jp/contents/music_j/JANNE/discography/1004461)
 
 [Category:Janne_Da_Arcのアルバム](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")

@@ -51,7 +51,7 @@
 ## 周辺
 
   - 青葉ヶ丘公園
-  - [森駅](../Page/森駅_\(北海道\).md "wikilink")
+  - [森駅](../Page/森駅_\(北海道\).md "wikilink")（[JR北海道](../Page/北海道旅客鉄道.md "wikilink")・[函館本線](https://ja.wikipedia.org/wiki/函館本線 "wikilink")）
   - [濁川温泉](../Page/濁川温泉.md "wikilink")
   - 鳥崎渓谷
 

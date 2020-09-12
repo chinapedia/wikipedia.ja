@@ -13,13 +13,14 @@
 
 ### CD
 
-1.  **〜PHASE〜** (Inst.) (2:41)
+1.  **〜PHASE〜**（Inst.）(2:41)
       -
         作曲・編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 2.  **[EVOLUTION](../Page/Everything_\(EXILEの曲\).md "wikilink")** (4:55)
       -
         作詞：[michico](../Page/MICHICO.md "wikilink") / 作曲：[T.Kura](https://ja.wikipedia.org/wiki/GIANT_SWING_PRODUCTIONS "wikilink")、michico / 編曲：T.Kura
     <!-- end list -->
+      - 本作の表題曲
       - 21stシングルカップリング
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")』テーマソング
 3.  **[Everything](../Page/Everything_\(EXILEの曲\).md "wikilink")** (4:40)
@@ -49,10 +50,12 @@
       -
         作詞・作曲：Bro.KORN / 編曲：h-wonder
     <!-- end list -->
-      - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")とのコラボレーションシングル新録バージョン
+      - EXILE&[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")のコラボレーションシングルの新録バージョン
       - [バブルガムブラザーズ](https://ja.wikipedia.org/wiki/バブルガムブラザーズ "wikilink")のカバー
-      - 倖田のパートを[TAKAHIROが歌っている](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")\[4\]。
-8.  **DANCER'S ANTHEM** (Inst.) (2:30)
+    <!-- end list -->
+      -
+        倖田のパートを[TAKAHIROが歌っている](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")\[4\]。
+8.  **DANCER'S ANTHEM**（Inst.）(2:30)
       -
         作曲・編曲：原田憲
 9.  **No Other Man** feat. [NaNa](../Page/NaNa_\(歌手\).md "wikilink") (3:24)
@@ -78,8 +81,7 @@
 13. **Dream Catcher** (4:13)
       -
         作詞：TAKAHIRO / 作曲：[藤澤慶昌](https://ja.wikipedia.org/wiki/藤澤慶昌 "wikilink") / 編曲：h-wonder
-    <!-- end list -->
-      - TAKAHIROが初めて作詞した曲。
+        TAKAHIRO初作詞曲。
 14. **[道](../Page/道_\(EXILEの曲\).md "wikilink")** (4:39)
       -
         作詞：樫田正剛 / 作曲：miwa furuse / 編曲：華原大輔 / ストリングスアレンジ：前嶋康明
@@ -91,31 +93,32 @@
       -
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲：ATSUSHI / 編曲：大野裕一
     <!-- end list -->
-      - フジテレビ系『LIFE IS BEAUTIFUL～小さないのちの詩～』テーマ曲\[5\]
-16. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink") -Orchestra Version-** (5:26)
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『LIFE IS BEAUTIFUL～小さないのちの詩～』テーマ曲\[5\]
+16. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")** -Orchestra Version- (5:26)
       -
         作詞：ATSUSHI / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：中野雄太
     <!-- end list -->
       - 14thシングルの2曲目のオーケストラバージョン
-      - 初回盤のみ収録
+    <!-- end list -->
+      -
+        初回盤のみ収録。
 
 ### DVD
 
 #### DISC1
 
-**Video Clip**
+※CD+DVD、CD+2DVDのみ
 
-1.  **EVOLUTION**
-2.  **Everything**
-3.  **Lovers Again**
-4.  **道**
-
-**Bonus映像**
-
-1.  EVOLUTION (Making)
-2.  Everything (Making)
-3.  Lovers Again (Making)
-4.  道 (Making)
+  - Video Clip
+    1.  **EVOLUTION**
+    2.  **Everything**
+    3.  **Lovers Again**
+    4.  **道**
+  - Bonus映像
+    1.  EVOLUTION（Making）
+    2.  Everything（Making）
+    3.  Lovers Again（Making）
+    4.  道（Making）
 
 #### DISC3「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜 9.22 最終決戦 at 日本武道館」
 
@@ -126,19 +129,18 @@
 3.  **[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")**
 4.  **[DIAMOND](../Page/EXIT_\(EXILEの曲\).md "wikilink")**
 5.  **Lovers Again** - [TAKA](../Page/DEEP_\(歌手グループ\).md "wikilink")/WARNER/[田﨑敬浩](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")/[前田雄一郎](../Page/DEEP_\(歌手グループ\).md "wikilink")/[施鐘泰](../Page/JONTE.md "wikilink")/[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")
-6.  **[ROCK DA HOUSE](../Page/ASIA_\(アルバム\).md "wikilink")** feat. FATMAN SCOOP (with NEVER LAND)
-7.  **One for A11 A11 for One** (with NEVER LAND)
+6.  **[ROCK DA HOUSE](../Page/ASIA_\(アルバム\).md "wikilink")** feat. FATMAN SCOOP（with NEVER LAND）
+7.  **One for A11 A11 for One**（with NEVER LAND）
 8.  **[ただ…逢いたくて](../Page/ただ…逢いたくて.md "wikilink")**
-9.  **[style](https://ja.wikipedia.org/wiki/style_\(EXILEの曲\) "wikilink")** (with WARNER)
-10. **[STAY](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")** (with 前田雄一郎)
-11. **[永遠](../Page/ASIA_\(アルバム\).md "wikilink")** (with 施鐘泰)
-12. **運命のヒト** (with 田﨑敬浩)
-13. **[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")** (with TAKA)
-14. **[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")** (with Nesmith)
-15. **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")**
+9.  **[style](https://ja.wikipedia.org/wiki/style_\(EXILEの曲\) "wikilink")**（with WARNER）
+10. **[STAY](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")**（with 前田雄一郎）
+11. **[永遠](../Page/ASIA_\(アルバム\).md "wikilink")**（with 施鐘泰）
+12. **運命のヒト**（with 田﨑敬浩）
+13. **[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")**（with TAKA）
+14. **[Fly Away](https://ja.wikipedia.org/wiki/Fly_away_\(J_Soul_Brothersの曲\)#EXILEによるカバー "wikilink")**（with Nesmith）
+15. **[Choo Choo TRAIN](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILEのシングル\) "wikilink")**
 16. The Document Movie of **EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜**
-      -
-        ナレーション：[窪田等](../Page/窪田等.md "wikilink")
+      - ナレーション：[窪田等](../Page/窪田等.md "wikilink")
 
 ## 脚注
 

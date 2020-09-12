@@ -78,6 +78,6 @@
 
 ## 外部リンク
 
-  - [スーパーヒーローMAX｜テレ朝チャンネル](http://www.tv-asahi.co.jp/ch/superheromax/)
+  - [スーパーヒーローMAX｜テレ朝チャンネル](https://www.tv-asahi.co.jp/ch/superheromax/)
 
 [Category:特撮](https://ja.wikipedia.org/wiki/Category:特撮 "wikilink") [Category:テレビドラマ・時代劇放送枠](https://ja.wikipedia.org/wiki/Category:テレビドラマ・時代劇放送枠 "wikilink") [Category:テレ朝チャンネル](https://ja.wikipedia.org/wiki/Category:テレ朝チャンネル "wikilink") [Category:ファミリー劇場](https://ja.wikipedia.org/wiki/Category:ファミリー劇場 "wikilink") [Category:東映特撮作品](https://ja.wikipedia.org/wiki/Category:東映特撮作品 "wikilink") [Category:仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズ "wikilink") [Category:スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズ "wikilink")

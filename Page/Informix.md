@@ -73,4 +73,4 @@ Informixでヨーロッパを任されていたWalter Königsederも同様に起
 
 [Category:かつて存在したアメリカ合衆国のソフトウェア会社](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国のソフトウェア会社 "wikilink")
 
-1.  記事のアーカイブ [HP's Secret Software Weapon](http://web.archive.org/web/20050719075914/http://www.interex.org/hpworldnews/hpw207/features5.jsp)、[出典](http://www.interex.org/hpworldnews/hpw207/features5.jsp)
+1.  記事のアーカイブ [HP's Secret Software Weapon](https://web.archive.org/web/20050719075914/http://www.interex.org/hpworldnews/hpw207/features5.jsp)、[出典](http://www.interex.org/hpworldnews/hpw207/features5.jsp)

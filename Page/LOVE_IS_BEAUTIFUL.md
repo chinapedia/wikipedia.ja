@@ -99,6 +99,15 @@
 6.  **[100万回のKISS](../Page/100万回のKISS.md "wikilink")**
 7.  **LOVE IS BEAUTIFUL ROAD MOVIE**
 
+## 参加ミュージシャン
+
+  - 永井利光 - ドラム演奏
+  - 佐久間正英 - ピアノ、キーボード
+  - [金原千恵子](../Page/金原千恵子.md "wikilink") - ストリングス(\#4)
+  - 原田憲 - シンセサイザー、プログラミング(\#10)
+  - [眞木大輔](https://ja.wikipedia.org/wiki/眞木大輔 "wikilink") - ターンテーブル(\#10)
+  - Yoshinori Kadoya - コンピュータープログラミング(\#12)
+
 ## 脚注
 
 ## 関連項目

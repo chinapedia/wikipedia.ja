@@ -137,7 +137,7 @@
 </tbody>
 </table>
 
-『咲-Saki-』(さき)は、小林立による日本の麻雀漫画。主人公を含めた多くの主要登場人物は女子高生。麻雀がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。2006年より雑誌連載が開始され、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在も連載中。
+『**咲-Saki-**』（さき）は、[小林立](../Page/小林立.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[麻雀漫画](../Page/麻雀漫画.md "wikilink")。主人公を含めた多くの主要登場人物は[女子高生](../Page/女子高生.md "wikilink")。[麻雀](../Page/麻雀.md "wikilink")がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。[2006年](../Page/2006年.md "wikilink")より雑誌連載が開始され、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在も連載中。
 
 ## 概要
 
@@ -284,23 +284,23 @@
 
 ### 咲reの主な登場人物
 
-  - 宮長 咲基（みやなが さき）
+  - 宮永 咲（みやなが さき）
 
 <!-- end list -->
 
-  - 原邑 和加（はらむら のどか）
+  - 原村 和（はらむら のどか）
 
 <!-- end list -->
 
-  - 片丘 優季（かたおか ゆうき）
+  - 片岡 優希（かたおか ゆうき）
 
 <!-- end list -->
 
-  - 竹居 久史（たけい ひさし）
+  - 竹井 久（たけい ひさ）
 
 <!-- end list -->
 
-  - 染屋 真工（そめや まこう）
+  - 染谷 まこ（そめや まこ）
 
 ## 作中での競技ルール
 
@@ -1649,7 +1649,7 @@ Kim Myoung Hyun</p></td>
 
 :; 「[この手が奇跡を選んでる 永水女子高校 ver.](https://ja.wikipedia.org/wiki/この手が奇跡を選んでる "wikilink")」（第4局、第6局、第10局）
 
-:: 作詞・作曲・編曲 - ZAQ / 歌 - 永水女子高校［神代小蒔（[早見沙織](../Page/早見沙織.md "wikilink")）、狩宿巴（[赤﨑千夏](https://ja.wikipedia.org/wiki/赤崎千夏 "wikilink")）、滝見春（[水橋かおり](../Page/水橋かおり.md "wikilink")）、薄墨初美（[辻あゆみ](../Page/辻あゆみ.md "wikilink")）、石戸霞（[大原さやか](../Page/大原さやか.md "wikilink")）］
+:: 作詞・作曲・編曲 - ZAQ / 歌 - 永水女子高校［神代小蒔（[早見沙織](../Page/早見沙織.md "wikilink")）、狩宿巴（[赤﨑千夏](https://ja.wikipedia.org/wiki/赤﨑千夏 "wikilink")）、滝見春（[水橋かおり](../Page/水橋かおり.md "wikilink")）、薄墨初美（[辻あゆみ](../Page/辻あゆみ.md "wikilink")）、石戸霞（[大原さやか](../Page/大原さやか.md "wikilink")）］
 
 :; 「[この手が奇跡を選んでる 姫松高校 ver.](https://ja.wikipedia.org/wiki/この手が奇跡を選んでる "wikilink")」（第5局、第12局）
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-敷地面積は約31,000[平米](../Page/平方メートル.md "wikilink")、延べ床面積約12,000[平米](../Page/平方メートル.md "wikilink")。約200人の研究スタッフが働く。フロンティアサービス研究所・先端鉄道システム開発センター・安全研究所・テクニカルセンター・防災研究所・環境技術研究所の6研究所からなる。
+敷地面積は約31,000[平方メートル](../Page/平方メートル.md "wikilink")、延べ床面積約12,000[平方メートル](../Page/平方メートル.md "wikilink")。約200人の研究スタッフが働く。フロンティアサービス研究所・先端鉄道システム開発センター・安全研究所・テクニカルセンター・防災研究所・環境技術研究所の6研究所からなる。
 
 ## 歴史
 
@@ -36,6 +36,6 @@
 
 ## 所在地
 
-  - 埼玉県さいたま市北区[日進町](https://ja.wikipedia.org/wiki/日進町_\(さいたま市\) "wikilink")2丁目479
+  - 埼玉県さいたま市北区[日進町二丁目](https://ja.wikipedia.org/wiki/日進町_\(さいたま市\) "wikilink")479番地
 
 [Category:東日本旅客鉄道](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道 "wikilink") [Category:日本の研究所](https://ja.wikipedia.org/wiki/Category:日本の研究所 "wikilink") [Category:さいたま市北区の建築物](https://ja.wikipedia.org/wiki/Category:さいたま市北区の建築物 "wikilink")

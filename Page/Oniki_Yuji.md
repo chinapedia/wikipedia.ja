@@ -108,4 +108,4 @@
   - [公式サイト](http://yujioniki.com/)
   - [ANGEL'S EGG](http://www.angelsegg.jp.org/yujioniki/)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:マンハッタン出身の人物](https://ja.wikipedia.org/wiki/Category:マンハッタン出身の人物 "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:マンハッタン出身の人物](https://ja.wikipedia.org/wiki/Category:マンハッタン出身の人物 "wikilink")

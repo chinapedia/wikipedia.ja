@@ -40,3 +40,7 @@
 
   - [Puma(プラットフォーム)](https://ja.wikipedia.org/wiki/:en:AMD_mobile_platform#Puma_platform_.282008.29 "wikilink") - [AMDが](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")2008年に発表した、[Turion 64](../Page/Turion_64.md "wikilink") X2 UltraとAMD 7シリーズチップセットなどから構成されるノートパソコン向けプラットフォームの名称。
   - [Puma(マイクロアーキテクチャ)](https://ja.wikipedia.org/wiki/:en:Puma_\(microarchitecture\) "wikilink") - AMDの省電力CPU向け[マイクロアーキテクチャ](../Page/マイクロアーキテクチャ.md "wikilink")[Jaguarを改良したもの](https://ja.wikipedia.org/wiki/:en:Jaguar_\(microarchitecture\) "wikilink")。
+
+## その他
+
+  - [Puma (Webサーバ)](https://ja.wikipedia.org/wiki/Puma_\(Webサーバ\) "wikilink")

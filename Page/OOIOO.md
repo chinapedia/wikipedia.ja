@@ -15,16 +15,16 @@
 
 ## メンバー
 
-  - **Yoshimi**（ヨシミ）：[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・Guitar・Trumpet
+  - **YoshimiO**（ヨシミ）：[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・Guitar・Trumpet
 
 <!-- end list -->
 
   -
-    [ボアダムス](../Page/ボアダムス.md "wikilink")・SAICOBAB
+    [ボアダムス](../Page/ボアダムス.md "wikilink")・SAICOBAB・Free Kitten・YoshimiOizumikiYoshiduO
 
-<!-- end list -->
+Free Kitten
 
-  - **KayaN**（カヤノ）：[Guitar](../Page/ギター.md "wikilink")・Vo
+  - **KayaN**（カヤン）：[Guitar](../Page/ギター.md "wikilink")・Vo
 
 <!-- end list -->
 

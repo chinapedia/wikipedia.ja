@@ -19,6 +19,7 @@ YOSHIKIがMIDIのプログラミングを含めて[DAW](https://ja.wikipedia.org
 2.  **compass**
       -
         作詞：[KEIKO](../Page/KEIKO.md "wikilink")　作曲・編曲：小室哲哉　Rap詞：MARC PANTHER
+        この楽曲を収録したアルバム『[LEVEL 4](../Page/LEVEL_4_\(globeのアルバム\).md "wikilink")』ではアレンジがやや異なる。
 3.  **seize the light(Instrumental)**
 4.  **compass(Instrumental)**
 
@@ -32,7 +33,7 @@ YOSHIKIがMIDIのプログラミングを含めて[DAW](https://ja.wikipedia.org
 
 **compass**
 
-  - [LEVEL 4](../Page/LEVEL_4_\(globeのアルバム\).md "wikilink")
+  - [LEVEL 4](../Page/LEVEL_4_\(globeのアルバム\).md "wikilink")（アルバムバージョン）
 
 ## 脚注
 

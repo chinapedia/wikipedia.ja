@@ -46,4 +46,4 @@
 
   - ヴィーナスD-4（ブロッコリー・TDKコア）出演：麻生、北沢、原田、田中
 
-[Category:ワンギャル](https://ja.wikipedia.org/wiki/Category:ワンギャル "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:グラビアアイドル](https://ja.wikipedia.org/wiki/Category:グラビアアイドル "wikilink")
+[Category:ワンギャル](https://ja.wikipedia.org/wiki/Category:ワンギャル "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:アイドルユニット](https://ja.wikipedia.org/wiki/Category:アイドルユニット "wikilink") [Category:グラビアアイドル](https://ja.wikipedia.org/wiki/Category:グラビアアイドル "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

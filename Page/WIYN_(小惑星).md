@@ -13,4 +13,4 @@
 
   - [WIYNの軌道要素](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=4299)（JPL、英語）
 
-[Category:フローラ族](https://ja.wikipedia.org/wiki/Category:フローラ族 "wikilink") [Category:S型小惑星](https://ja.wikipedia.org/wiki/Category:S型小惑星 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink") [Category:1950年代発見の天体](https://ja.wikipedia.org/wiki/Category:1950年代発見の天体 "wikilink")
+[Category:フローラ族](https://ja.wikipedia.org/wiki/Category:フローラ族 "wikilink") [Category:S型小惑星](https://ja.wikipedia.org/wiki/Category:S型小惑星 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink") [Category:1952年発見の天体](https://ja.wikipedia.org/wiki/Category:1952年発見の天体 "wikilink")

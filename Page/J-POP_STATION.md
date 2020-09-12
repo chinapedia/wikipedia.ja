@@ -61,7 +61,7 @@
 | -- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------- | --------- |
 | 01 | [恋におちて -Fall in love-](../Page/恋におちて_-Fall_in_love-.md "wikilink")        | [小林明子](../Page/小林明子.md "wikilink")                                              | 1985年8月31日  | BMG JAPAN |
 | 02 | [サイレント・イヴ](../Page/サイレント・イヴ.md "wikilink")                                | [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")                         | 1990年11月7日  |           |
-| 03 | [Spirit Of Love](https://ja.wikipedia.org/wiki/Spirit_Of_Love "wikilink") | [Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink") | 1995年11月25日 |           |
+| 03 | [Spirit Of Love](https://ja.wikipedia.org/wiki/Spirit_Of_Love "wikilink") | [SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink") | 1995年11月25日 |           |
 | 04 | [青いイナズマ](../Page/青いイナズマ.md "wikilink")                                    | [林田健司](../Page/林田健司.md "wikilink")                                              | 1994年4月21日  |           |
 | 05 | [Virgin Emotion](../Page/Virgin_Emotion.md "wikilink")                    | [access](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")            | 1992年11月26日 |           |
 | 06 | [ミラクル・ガール](https://ja.wikipedia.org/wiki/ミラクル・ガール "wikilink")             | [永井真理子](../Page/永井真理子.md "wikilink")                                            | 1989年10月1日  |           |
@@ -72,7 +72,7 @@
 | 11 | [夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")      | [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")                         | 1976年3月25日  |           |
 | 12 | [心の扉](https://ja.wikipedia.org/wiki/心の扉_\(陣内大蔵\) "wikilink")              | [陣内大蔵](../Page/陣内大蔵.md "wikilink")                                              | 1992年7月22日  |           |
 | 13 | [土曜の夜はパラダイス](https://ja.wikipedia.org/wiki/土曜の夜はパラダイス "wikilink")         | [EPO](../Page/EPO.md "wikilink")                                                | 1982年10月    |           |
-| 14 | [SHOW ME](https://ja.wikipedia.org/wiki/SHOW_ME "wikilink")               | [森川由加里](../Page/森川由加里.md "wikilink")                                            | 1987年10月26日 |           |
+| 14 | [SHOW ME](https://ja.wikipedia.org/wiki/ショウ・ミー#森川由加里によるカバー "wikilink")    | [森川由加里](../Page/森川由加里.md "wikilink")                                            | 1987年10月26日 |           |
 | 15 | [それが大事](../Page/それが大事_\(大事MANブラザーズバンドの曲\).md "wikilink")                  | [大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")                            | 1991年8月25日  |           |
 | 16 | [ズルい女](../Page/ズルい女.md "wikilink")                                        | [シャ乱Q](../Page/シャ乱Q.md "wikilink")                                              | 1995年5月3日   |           |
 | 17 | [セクシャルバイオレットNo.1](../Page/セクシャルバイオレットNo.1.md "wikilink")                  | [桑名正博](../Page/桑名正博.md "wikilink")                                              | 1979年7月21日  |           |

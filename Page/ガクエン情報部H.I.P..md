@@ -57,7 +57,7 @@
 
   - 原作：富沢順
   - 脚本：[高屋敷英夫](../Page/高屋敷英夫.md "wikilink")
-  - オープニングテーマ：[スウィンギング・ブルー・ジーンズ](https://ja.wikipedia.org/wiki/スウィンギング・ブルー・ジーンズ "wikilink")「ヒッピー・ヒッピー・シェイク」
+  - オープニングテーマ：[スウィンギング・ブルー・ジーンズ](https://ja.wikipedia.org/wiki/スウィンギング・ブルー・ジーンズ "wikilink")「[ヒッピー・ヒッピー・シェイク](https://ja.wikipedia.org/wiki/ザ・ヒッピー・ヒッピー・シェイク "wikilink")」
   - 企画：[岡正](https://ja.wikipedia.org/wiki/岡正 "wikilink")、[宅間秋史](../Page/宅間秋史.md "wikilink")
   - プロデューサー：[三宅川敬輔](https://ja.wikipedia.org/wiki/三宅川敬輔 "wikilink")
   - 演出：[高野正雄](https://ja.wikipedia.org/wiki/高野正雄 "wikilink")

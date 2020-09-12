@@ -48,7 +48,7 @@ PP-19の最大の特徴として、「[スパイラルマガジン](https://ja.w
 ### ゲーム
 
   - 『[Alliance of Valiant Arms](https://ja.wikipedia.org/wiki/Alliance_of_Valiant_Arms "wikilink")』
-    「Bizon PP-19」という名称で登場。ゲーム内[兵科](../Page/兵科.md "wikilink")「ポイントマン」の主[武器](../Page/武器.md "wikilink")として使用可。
+    「Bizon PP-19」という名称で、ゲーム内[兵科](../Page/兵科.md "wikilink")「ポイントマン」の主[武器](../Page/武器.md "wikilink")として登場。デフォルトでは装弾数64発の[9x18mmマカロフ弾](https://ja.wikipedia.org/wiki/9x18mmマカロフ弾 "wikilink")を使用するマガジンを、カスタマイズで装弾数53発の[9x19mmパラべラム弾](https://ja.wikipedia.org/wiki/9x19mmパラべラム弾 "wikilink")を使用するマガジンに変更可能。
 
     また、「Bizon Arachne」という名称で強化版をゲーム内ガチャで入手可能。
 
@@ -70,9 +70,11 @@ PP-19の最大の特徴として、「[スパイラルマガジン](https://ja.w
   - 『[Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")』
     威力は低めだが、連射力が高いという設定になっている。弾数が50発になっている。現在では調整が入って弱体化されたが、弱体化前は最強武器の一角として猛威を振るっていた。
 
-    **『[PUBG](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』**
-
+  - 『[PLAYERUNKNOWN'S BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』
     「PP-19 Bizon」という名称で登場。装弾数53発。サイトやマズルアクセサリーが装着可能。
+
+  - 『[SOCOM: U.S. Navy SEALs Portable](https://ja.wikipedia.org/wiki/SOCOM:_U.S._Navy_SEALs_Portable "wikilink")』
+    「BIZON」という名称で登場。
 
   - 『[WarRock](../Page/WarRock.md "wikilink")』
     「BIZON」という名称で登場。AIパッケージで購入できる。
@@ -80,11 +82,18 @@ PP-19の最大の特徴として、「[スパイラルマガジン](https://ja.w
   - 『[ゴーストリコン フューチャーソルジャー](https://ja.wikipedia.org/wiki/ゴーストリコン_フューチャーソルジャー "wikilink")』
     「PP19」という名称で登場。[ロシア軍](https://ja.wikipedia.org/wiki/ロシア軍 "wikilink")特殊部隊「ボダーク」の短機関銃である。装弾数64発。
 
-  - 『[コール オブ デューティ ゴースト](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ゴースト "wikilink")』
-    「Bizon」という名称で登場。マルチプレイモードにて新規開始時から使用できる。
+  - 『[コール オブ デューティシリーズ](../Page/コール_オブ_デューティシリーズ.md "wikilink")』
 
-  - 『[コール オブ デューティ モダン・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア "wikilink")』
-    「PP19 Bizon」という名称で登場。
+:; 『[CoD:ゴースト](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ゴースト "wikilink")』
+
+:: 「Bizon」という名称で登場。マルチプレイモードにて新規開始時から使用できる。
+
+:; 『[CoD:MW](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア "wikilink")』
+
+  -
+
+      -
+        「PP19 Bizon」という名称で登場。
 
   - 『[サイフォンフィルター](https://ja.wikipedia.org/wiki/サイフォンフィルター "wikilink")』
     「BIZ-2」の名称で登場する。

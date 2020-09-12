@@ -57,6 +57,5 @@
 ## 外部リンク
 
   - [Lavaflow Recordsオフィシャルウェブサイト](http://www.lavaflowrecords.com/2plagues.html)
-  - [PLAGUES WEB ユニバーサルミュージックによるオフィシャルウェブサイト(リンク切れ)](http://www.universal-music.co.jp/kittymme/artist/plagues/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")

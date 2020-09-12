@@ -21,17 +21,50 @@
       -
         アルバムバージョンは次曲「ゆりかごのある丘から」とシームレスに繋がっており、アウトロへ[ヘリコプター](../Page/ヘリコプター.md "wikilink")のプロペラ音が被さっていたが、本テイクでは削除されている。
         5thアルバム『[深海](../Page/深海_\(アルバム\).md "wikilink")』収録曲の「臨時ニュース」でも少し登場するが、冒頭の歌詞は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の夏にフランスが世界中の反対を押し切って[核実験](https://ja.wikipedia.org/wiki/核実験 "wikilink")を強行した出来事に由来する。
-        [1996年](../Page/1996年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")放送の[FAN](../Page/FAN.md "wikilink")で、本楽曲を一度だけテレビで演奏している。
+        [1996年](../Page/1996年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")放送の[FAN](../Page/FAN.md "wikilink")で、本楽曲を一度だけテレビで演奏している\[1\]。
         ライブツアー『[Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")』以降は一切演奏されなかったが、2016年に行われたホールツアー『Mr.Children Hall Tour 2016 虹』で14年ぶりに演奏され、その翌年行われたホールツアー『Mr.Children Hall Tour 2017 ヒカリノアトリエ』でも演奏された。
         長らく、ベストアルバムへの収録がされていなかったが、デビュー25周年を記念して[5月10日](../Page/5月10日.md "wikilink")にリリースされた配信限定ベストアルバム『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』に、同じくリカットシングルでシングルバージョンがアルバムに一度も収録されていなかった17thシングル「[I'LL BE](../Page/I'LL_BE_\(Mr.Childrenの曲\).md "wikilink")」と共に、ベストアルバム初収録となった。その際、サブタイトルが追加されており、本作と同じタイトルに統一されている。
-        後に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では25位に選ばれた\[1\]。
+        後に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では25位に選ばれた\[2\]。
 2.  **Love is Blindness** \[3:28\]
       -
         後に、ドキュメンタリー映画『[Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")』のCDに再レコーディングしたバージョンが収録された。それまでのライブツアーでは、本楽曲が演奏されることは一切なかったが、これにより、ライブ初披露となった。
 3.  **旅人** \[3:21\]
       -
         ライブで一切演奏されなかった前曲とは異なり、こちらは本作発売後に行われた2本のライブツアー『Mr.Children TOUR REGRESS OR PROGRESS '96-'97』『[Mr.Children TOUR REGRESS OR PROGRESS '96～'97 FINAL](../Page/Regress_or_progress_'96-'97_tour_final_IN_TOKYO_DOME.md "wikilink")』で披露された。
-        後に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では3位に選ばれ\[2\]、実際に演奏もされている。その後に開催されたライブツアー『[Mr.Children TOUR 2015 REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION｛Live&Film｝ "wikilink")』でも演奏された。
+        後に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では3位に選ばれ\[3\]、実際に演奏もされている。その後に開催されたライブツアー『[Mr.Children TOUR 2015 REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION｛Live&Film｝ "wikilink")』でも演奏された。
+
+## テレビ出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>日付</p></th>
+<th><p>放送局</p></th>
+<th><p>演奏曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/FAN.md" title="wikilink">FAN</a></p></td>
+<td><p>1996年6月28日</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/深海_(アルバム)#収録曲" title="wikilink">ありふれたLove Story ～男女問題はいつも面倒だ～</a><br />
+<a href="https://ja.wikipedia.org/wiki/深海_(アルバム)#収録曲" title="wikilink">So Let's Get Truth</a><br />
+<strong>マシンガンをぶっ放せ</strong><br />
+<a href="../Page/花_-Memento-Mori-.md" title="wikilink">花 -Mémento-Mori-</a>[4]</p></td>
+</tr>
+</tbody>
+</table>
+
+## ライブ映像作品
+
+**マシンガンをぶっ放せ** ** **旅人**
+
+| 作品名                                                                                                                                                   | 備考                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [regress or progress '96-'97 tour final IN TOKYO DOME](https://ja.wikipedia.org/wiki/regress_or_progress_'96-'97_tour_final_IN_TOKYO_DOME "wikilink") |                                                                                                                                         |
+| [Mr.Children REFLECTION｛Live\&Film｝](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION｛Live&Film｝ "wikilink")                                      | Mr.Children TOUR 2015 REFLECTIONと映画『[Mr.Children REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink")』の両方で演奏された |
 
 ## 収録アルバム
 
@@ -43,7 +76,9 @@
 
 <references />
 
-[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:核戦争と核兵器に関連する楽曲](https://ja.wikipedia.org/wiki/Category:核戦争と核兵器に関連する楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
-1.  映画「[Mr.Children REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink")」 劇場公開パンフレット
+1.
 2.  映画「[Mr.Children REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink")」 劇場公開パンフレット
+3.  映画「[Mr.Children REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink")」 劇場公開パンフレット
+4.

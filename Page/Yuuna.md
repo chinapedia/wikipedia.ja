@@ -3,7 +3,7 @@
 
 **yuuna** （ゆうな、[1994年](../Page/1994年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデル](../Page/モデル_\(職業\).md "wikilink")、元[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")。[エンジェルプロダクション](../Page/エンジェルプロダクション.md "wikilink")所属。女優活動では**外原 裕菜**（そとはら ゆうな）名義で活動している。
 
-妹の[miyu](../Page/Miyu_\(ジュニアアイドル\).md "wikilink")（外原未結）、shuri（外原朱梨）も同じ[事務所](../Page/事務所.md "wikilink")に所属している。
+妹の[miyu](../Page/Miyu_\(ジュニアアイドル\).md "wikilink")（外原未結）、shuri（外原朱梨）も同じ[事務所に所属している](../Page/芸能事務所.md "wikilink")。
 
 ## 人物
 

@@ -146,7 +146,7 @@
   - [池袋西武](../Page/西武百貨店.md "wikilink")（2002/8/31～2006/8/21）
   - 福岡[岩田屋](../Page/岩田屋.md "wikilink")本店（～2006/8/22）
   - [広島そごう](../Page/そごう広島店.md "wikilink")（～2006/8/27）
-  - 難波[高島屋](../Page/高島屋.md "wikilink")（2005/8/31～2006/10/15）
+  - 難波[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")（2005/8/31～2006/10/15）
   - [渋谷東急東横店](https://ja.wikipedia.org/wiki/東急百貨店東横店 "wikilink")（2004/9/30～2007/1/29）
   - [神戸そごう](https://ja.wikipedia.org/wiki/そごう神戸店 "wikilink")（2002/9/7～2007/2/26）
   - [新宿高島屋](../Page/タカシマヤタイムズスクエア.md "wikilink")（2003/9/27～2007/2/28）

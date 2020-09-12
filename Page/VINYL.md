@@ -5,7 +5,7 @@
 
 ## 概要・来歴
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の二代目ヴォーカリストで元[STRAWBERRY FIELDSの福井祥史と](../Page/STRAWBERRY_FIELDS.md "wikilink")、元[黒夢](../Page/黒夢.md "wikilink")のギタリスト鈴木新によって、VINYL結成\[1\]\[2\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の二代目ヴォーカリストで元[STRAWBERRY FIELDSの福井祥史と](../Page/STRAWBERRY_FIELDS.md "wikilink")、元[黒夢](../Page/黒夢.md "wikilink")のギタリスト鈴木新によって、VINYLを結成\[1\]\[2\]。
 
 黒夢脱退後、鈴木はソロ活動を模索していたが、デモを録り終えた直後にディレクターからヴォーカリストを探すことを勧められ、STRAWBERRY FIELDSを解散したばかりの福井に声を掛ける\[3\]。そのことを当時の所属事務所HEADWAX社長の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")に話したところ「すぐ一緒にやれ」と言われ、VINYL結成に至ったという\[4\]。
 
@@ -15,7 +15,7 @@
 
 [1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")、VINYLの活動を停止。シングル3枚、オリジナルアルバム1枚を残す。
 
-[2012年](../Page/2012年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、病気を克服した旧友の呼びかけに応え、活動停止後初めて鈴木新とのLIVEを行い、一日限りの復活が実現した\[7\]\[8\]。
+[2012年](../Page/2012年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、福井が病気を克服した旧友の呼びかけに応え、活動停止後初めて鈴木新とのLIVEを行い、一日限りの復活が実現した\[7\]\[8\]。
 
 ## メンバー
 

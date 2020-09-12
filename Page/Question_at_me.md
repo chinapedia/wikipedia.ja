@@ -15,15 +15,13 @@
 
 ## 収録曲
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")
-
-<!-- end list -->
+（全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")）
 
 1.  **question at me** \[4:22\]
       -
         編曲：五島翔
     <!-- end list -->
-      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[千年王国III銃士ヴァニーナイツ](https://ja.wikipedia.org/wiki/千年王国III銃士ヴァニーナイツ "wikilink")』主題歌（エンディングテーマ）
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系特撮テレビドラマ『[千年王国III銃士ヴァニーナイツ](https://ja.wikipedia.org/wiki/千年王国III銃士ヴァニーナイツ "wikilink")』主題歌（エンディングテーマ）
 2.  **〜それから〜** \[4:54\]
       -
         編曲：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")
@@ -32,12 +30,16 @@
 
 ## 収録アルバム
 
-  - **question at me**
-      -
-        オリジナル・アルバム『[ふわり](../Page/ふわり_\(林原めぐみのアルバム\).md "wikilink")』（冒頭の演奏をカットし、ややアレンジを加えたAlbum Versionとして収録）
-  - **〜それから〜**
-      -
-        オリジナル・アルバム『ふわり』
-        ベスト・アルバム『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』
+| 曲名                                                      | 収録アルバム                                                                   | 発売日                                         | 製造番号     | 備考                                      |
+| ------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- | -------- | --------------------------------------- |
+| question at me                                          | 『**[ふわり](../Page/ふわり_\(林原めぐみのアルバム\).md "wikilink")**』\[1\]               | 1999年[10月27日](../Page/10月27日.md "wikilink") | KICS-755 | 冒頭の演奏をカットし、ややアレンジを加えたAlbum Versionとして収録 |
+| 〜それから〜                                                  | 『**[ふわり](../Page/ふわり_\(林原めぐみのアルバム\).md "wikilink")**』\[2\]               | 1999年10月27日                                 | KICS-755 |                                         |
+| 『**[VINTAGE S](../Page/VINTAGE_S.md "wikilink")**』\[3\] | [2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") | KICS-790                                    |          |                                         |
+
+## 脚注
 
 [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:佐藤英敏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤英敏が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ朝日のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ主題歌 "wikilink")
+
+1.
+2.
+3.

@@ -35,7 +35,7 @@
 
 ## 脚注
 
-[Category:ピンク・レディー](https://ja.wikipedia.org/wiki/Category:ピンク・レディー "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:バーニングプロダクション系列](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列 "wikilink")
+[Category:ピンク・レディー](https://ja.wikipedia.org/wiki/Category:ピンク・レディー "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:バーニングプロダクション系列](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列 "wikilink")
 
 1.
 2.  [二代目ピンクレディー11月にデビュー](https://web.archive.org/web/20040205140013/http://www.zakzak.co.jp/geino/n_August/nws39.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

@@ -1,7 +1,7 @@
 > この記事は[RADIO K.A.O.S.](https://ja.wikipedia.org/wiki/RADIO_K.A.O.S.)から翻訳されています。
 
 
-**Radio K.A.O.S.**（レディオ・ケイオス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表された[ロジャー・ウォーターズ](../Page/ロジャー・ウォーターズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。前年の[1986年](../Page/1986年.md "wikilink")にはアニメ映画『[風が吹くとき](../Page/風が吹くとき.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を手掛けているが、本作は[1984年](../Page/1984年.md "wikilink")発表の『[ヒッチハイクの賛否両論](../Page/ヒッチハイクの賛否両論.md "wikilink")』に続くセカンド・ソロアルバムと位置づけられている。
+『**Radio K.A.O.S.**』\[1\]（レディオ・ケイオス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表された[ロジャー・ウォーターズ](../Page/ロジャー・ウォーターズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。前年の[1986年](../Page/1986年.md "wikilink")にはアニメ映画『[風が吹くとき](../Page/風が吹くとき.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を手掛けているが、本作は[1984年](../Page/1984年.md "wikilink")発表の『[ヒッチハイクの賛否両論](../Page/ヒッチハイクの賛否両論.md "wikilink")』に続くセカンド・ソロ・アルバムと位置づけられている。
 
 ## 概要
 
@@ -15,13 +15,17 @@
 
 ## 収録曲
 
-1.  ラジオ・ウェイヴ　　　*Radio Waves*
-2.  誰がそんな情報を必要としてるんだい?　　　*Who Needs Information?*
-3.  彼か、もしくは私が…　　　*Me Or Him*
-4.  予知能力　　　*The Power That Be*
-5.  サンセット通りにて　　　*Sunset Strip*
-6.  ホーム〜誰にでも国は存在する〜　　　*Home*
-7.  4分間のシミュレーション・ゲーム　　　*Four Minutes*
-8.  流れが変わる時〜ライブ・エイドが終わって〜　　　*The Tide Is Turning (After Live Aid)*
+1.  ラジオ・ウェイヴ - "Radio Waves"
+2.  誰がそんな情報を必要としてるんだい? - "Who Needs Information?"
+3.  彼か、もしくは私が… - "Me Or Him"
+4.  予知能力 - "The Power That Be"
+5.  サンセット通りにて - "Sunset Strip"
+6.  ホーム〜誰にでも国は存在する〜 - "Home"
+7.  4分間のシミュレーション・ゲーム - "Four Minutes"
+8.  流れが変わる時〜ライブ・エイドが終わって〜 - "The Tide Is Turning (After Live Aid)"
+
+## 脚注
 
 [Category:ロジャー・ウォーターズのアルバム](https://ja.wikipedia.org/wiki/Category:ロジャー・ウォーターズのアルバム "wikilink") [Category:1984年のアルバム](https://ja.wikipedia.org/wiki/Category:1984年のアルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink")
+
+1.  初期の邦題は『**RADIO K.A.O.S. 〜混乱の周波数〜**』であった。

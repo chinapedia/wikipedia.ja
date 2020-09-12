@@ -10,7 +10,7 @@
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")でも、『NBC50ニュース』として、長崎と同内容を放送することが多い。後半枠は長崎発のニュース（佐賀新聞ニュースを含む）を放送する時間帯も多いが、一部の時間帯は佐賀ローカルの番組に差し替えている。
       - [2019年](../Page/2019年.md "wikilink")4月より、平日において帯ニュース番組「[NBC Lスタチャージ\!](https://ja.wikipedia.org/wiki/NBCラジオ_ザ・チャージ! "wikilink")」（17:44 - 18:20）を開始。3月以前も同時間帯で放送されていた交通情報（17:45 - 17:50）および50ニュース（この時間帯は10分間ローカルニュース）を放送したのちに、全国ニュースや日替わりコーナーを放送している。
   - [テレビ](../Page/テレビ.md "wikilink")：
-      - 朝：月曜 - 金曜 『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』内 7:41、土曜 - 日曜 6:54
+      - 朝：月曜 - 金曜 『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』内 7:57、土曜 - 日曜 6:54
       - 昼：月曜 - 金曜 『[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")』内 11:49、土曜 11:54、日曜 11:35（全曜日『[JNNニュース](../Page/JNNニュース.md "wikilink")』に内包）。
       - 夕方：土曜 17:44頃（『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』 に内包）、日曜 17:45 - 17:54（『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』に内包）
       - 夜：月曜 - 木曜 『[news23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』内 23:50 - 23:52、金曜 24:15 - 24:18

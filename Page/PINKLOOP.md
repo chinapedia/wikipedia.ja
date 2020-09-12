@@ -491,11 +491,11 @@ TKCA-73442:通常盤</p></td>
 
 ## 外部リンク
 
-  - [公式ウェブサイト](http://pinkloop.net/)
+  - [公式ウェブサイト](http://pinkloop.xyz/)
 
-  - [indiesmusic](http://indiesmusic.com/ArtistView.aspx?id=7139)
+  - [indiesmusic](https://www.indiesmusic.com/smp/artist/?id=7139/)
 
   -
   -
   -
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink")
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink")

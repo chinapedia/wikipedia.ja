@@ -126,4 +126,4 @@
   - [フェイスブック](https://www.facebook.com/onetrackmind.bagi/)
   - [ツイッター](https://twitter.com/onetrackmind_jp)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:8人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:8人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")

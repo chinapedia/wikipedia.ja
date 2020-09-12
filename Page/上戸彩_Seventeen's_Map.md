@@ -19,14 +19,14 @@
 
 ## 放送局と放送期間
 
-全国20[局でネット放送されていた](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")。ただし、全期間通じてのネット局はニッポン放送と[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")のみで、各々のシーズンのネット局は10局前後。
+全国20[局でネット放送されていた](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")。ただし、全期間通じてのネット局はニッポン放送と[山陽放送のみで](../Page/RSK山陽放送.md "wikilink")、各々のシーズンのネット局は10局前後。
 
-ネット局のほとんどはニッポン放送系列の[NRN](../Page/全国ラジオネットワーク.md "wikilink")。ただし上戸彩の母の出身地である[沖縄県](../Page/沖縄県.md "wikilink")では、NRNの[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")ではなく、[JRNの](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")で放送された。
+ネット局のほとんどはニッポン放送系列の[NRN](../Page/全国ラジオネットワーク.md "wikilink")。ただし上戸彩の母の出身地である[沖縄県](../Page/沖縄県.md "wikilink")では、NRNの[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")ではなく、[JRNの](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")で放送された。
 
 便宜上、改変を4月1日、10月1日からとして表記し、シリーズ全放送の局は**太字**である。
 
   - **ニッポン放送** - 2002年10月～2007年3月（4年6ヶ月）'''制作・基幹局 '''
-  - **[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")** - 2002年10月～2007年3月（4年6ヶ月）
+  - **[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")** - 2002年10月～2007年3月（4年6ヶ月）
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") - 2005年10月～2007年3月（1年6ヶ月）
   - [山形放送](../Page/山形放送.md "wikilink") - 2002年10月～2003年3月（1年）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") - 2002年10月～2003年3月、2004年10月～2005年3月（計1年）

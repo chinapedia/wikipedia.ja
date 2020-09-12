@@ -1,7 +1,7 @@
 > この記事は[Tフェイス](https://ja.wikipedia.org/wiki/Tフェイス)から翻訳されています。
 
 
-**T-FACE**（ティーフェイス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")[若宮町](../Page/若宮町_\(豊田市\).md "wikilink")1丁目および[西町](../Page/西町_\(豊田市\).md "wikilink")6丁目（[豊田市駅](../Page/豊田市駅.md "wikilink")前）にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。**豊田市駅西口市街地再開発事業**によって建設された「豊田市駅西口市街地再開発ビル」のA館7〜9階、B館1〜11階に構成されている。A館1〜6階には[松坂屋豊田店](../Page/松坂屋豊田店.md "wikilink")が入居している。
+**T-FACE**（ティーフェイス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")[若宮町](../Page/若宮町_\(豊田市\).md "wikilink")1丁目および[西町](../Page/西町_\(豊田市\).md "wikilink")6丁目（[豊田市駅](../Page/豊田市駅.md "wikilink")前）にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。**豊田市駅西口市街地再開発事業**によって建設された「豊田市駅西口市街地再開発ビル」のA館7〜9階、B館1〜11階で構成されている。A館1〜6階には[松坂屋豊田店](../Page/松坂屋豊田店.md "wikilink")が入居している。
 
 ## 概要
 
@@ -14,15 +14,11 @@
   - [2001年](../Page/2001年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - [松坂屋豊田店](../Page/松坂屋豊田店.md "wikilink")が豊田そごう撤退部分の一部（A館1〜6階）にて開店。それまでの間にA館7〜9階部分もT-FACEとして順次オープン。
   - [2021年](../Page/2021年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink") - 松坂屋豊田店が閉店予定\[1\]\[2\]。\[3\]。
 
-## ビルの特徴
+## 構造
 
-A館1〜6階と8階の一部は松坂屋豊田店となっており、ここはTフェイスではない。ただ、同じビルに入居することや、これまでのそごうの縮小と撤退の影響もあり、利用者の多くは、Tフェイスと旧そごう・現松坂屋について、明確に区別をしていないようである。例えばそごうのテナント街をTフェイスと呼ぶのだと思っていたり、そごう自体がTフェイスの一テナントであると思っていたなど。この誤解はそごう撤退時に顕著で、Tフェイス全体の廃業（駅前ビルの廃墟化）と勘違いする人が続出した。
+A館の1階から6階と8階の一部は百貨店のフロアとなっている。
 
-A・B両館は、[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[豊田線](https://ja.wikipedia.org/wiki/名鉄豊田線 "wikilink")・[三河線](https://ja.wikipedia.org/wiki/名鉄三河線 "wikilink") [豊田市駅](../Page/豊田市駅.md "wikilink")と[愛知環状鉄道](../Page/愛知環状鉄道.md "wikilink")・[愛知環状鉄道線](https://ja.wikipedia.org/wiki/愛知環状鉄道線 "wikilink") [新豊田駅](https://ja.wikipedia.org/wiki/新豊田駅 "wikilink")を結ぶ[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")によって接続されている。
-
-[会員カード](../Page/会員カード.md "wikilink")があり、利用者は無料で発行を受けられる。[クレジット機能付きはなく](../Page/クレジットカード.md "wikilink")、[ポイントカード](https://ja.wikipedia.org/wiki/ポイントサービス "wikilink")1種類であるが、各店共通のポイントプログラムとなっており、レジ精算時に購入額によってポイントが積算される。累計金額10000円で100ポイントとなり、100円分の商品券（T-CLUBチケット）へ交換が可能。また、各種[イベント](../Page/イベント.md "wikilink")やセールの招待、DMの送付、買い物しなくても（当日のレシートがなくても）駐車場の3時間無料サービス、[名鉄グループ](../Page/名鉄グループ.md "wikilink")や市内の店舗と提携した割引サービスなどがある。
-
-3[時間](../Page/時間.md "wikilink")無料になるフリーパーキングに加盟している。
+A・B両館は、[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[豊田線](https://ja.wikipedia.org/wiki/名鉄豊田線 "wikilink")・[三河線の](https://ja.wikipedia.org/wiki/名鉄三河線 "wikilink")[豊田市駅](../Page/豊田市駅.md "wikilink")と[愛知環状鉄道線](https://ja.wikipedia.org/wiki/愛知環状鉄道線 "wikilink")の[新豊田駅](https://ja.wikipedia.org/wiki/新豊田駅 "wikilink")を結ぶ[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")によって連絡している。
 
 ## 店舗
 

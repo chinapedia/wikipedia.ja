@@ -8,11 +8,11 @@
 ## メンバー
 
   - **[山森大輔](https://ja.wikipedia.org/wiki/山森大輔_\(ミュージシャン\) "wikilink")**（やまもり だいすけ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月3日](../Page/10月3日.md "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")出身。東京大学[法学部](../Page/法学部.md "wikilink")卒業。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")出身。[東京大学法学部](https://ja.wikipedia.org/wiki/東京大学法学部 "wikilink")卒業。
   - **畠山拓也**（はたけやま たくや、1978年[11月27日](../Page/11月27日.md "wikilink") - ）
-      - [トロンボーン](../Page/トロンボーン.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・その他。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。東京大学[工学部](../Page/工学部.md "wikilink")[建築学科](../Page/建築学科.md "wikilink")卒業。
+      - [トロンボーン](../Page/トロンボーン.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・その他。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[東京大学工学部](https://ja.wikipedia.org/wiki/東京大学工学部 "wikilink")[建築学科](../Page/建築学科.md "wikilink")卒業。
   - **河原真**（かわはら しん、[1981年](../Page/1981年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）
-      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")[豊田郡](../Page/豊田郡.md "wikilink")[瀬戸田町](../Page/瀬戸田町.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。短大卒業を経て[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")卒業。元[What's Love?](../Page/What's_Love?_\(バンド\).md "wikilink")。
+      - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")[豊田郡](../Page/豊田郡.md "wikilink")[瀬戸田町](../Page/瀬戸田町.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。[武田高等学校](../Page/武田中学校・高等学校.md "wikilink")、短大卒業を経て[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")卒業。元[What's Love?](../Page/What's_Love?_\(バンド\).md "wikilink")。
   - **豊田ヒロユキ**（とよだ ひろゆき、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") - ）
       - ギター・[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")。[西東京市](../Page/西東京市.md "wikilink")出身
   - **[オータケハヤト](https://ja.wikipedia.org/wiki/オータケハヤト "wikilink")**（おおたけはやと、1978年[11月17日](../Page/11月17日.md "wikilink") - ）

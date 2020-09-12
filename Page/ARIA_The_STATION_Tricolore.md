@@ -247,7 +247,7 @@
 <tr class="even">
 <td><p>27</p></td>
 <td><p>ローマ帝国の流れを組む東ローマ帝国最後の皇帝は一体誰?</p></td>
-<td><p><a href="../Page/コンスタンティノス11世.md" title="wikilink">コンスタンティノス11世</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コンスタンティノス11世パレオロゴス" title="wikilink">コンスタンティノス11世パレオロゴス</a></p></td>
 <td><p>なし（とも蔵のみ正解）</p></td>
 <td></td>
 </tr>
@@ -624,8 +624,7 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://onsen.ag/)
-
+  -
   -
   - [Supporters community site BEWE](http://www.bewe.sc/index.php)
 

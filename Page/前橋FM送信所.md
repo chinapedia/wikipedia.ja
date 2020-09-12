@@ -5,9 +5,9 @@
 
 ## 概要
 
-  - 当送信所は、高崎市吉井町多比良字一郷第1番の[牛伏山にある](https://ja.wikipedia.org/wiki/牛伏山_\(群馬県\) "wikilink")。
-  - 当送信所には群馬県域FM局である[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")[FM放送と](../Page/NHK-FM放送.md "wikilink")[FMぐんまの前橋送信所が置局されている](../Page/エフエム群馬.md "wikilink")。かつて放送大学のFM中継局が設置されていた。
-  - 群馬県の広い範囲に電波を発射している他、FMぐんまは埼玉県北部地域\[1\]、埼玉県利根地域の一部\[2\]や栃木県[足利市](../Page/足利市.md "wikilink")、[栃木市](../Page/栃木市.md "wikilink")他が放送エリアになる\[3\]。
+  - 当送信所は、高崎市吉井町多比良の[牛伏山にある](https://ja.wikipedia.org/wiki/牛伏山_\(群馬県\) "wikilink")\[1\]。
+  - 当送信所には群馬県域FM局である[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")[FM放送と](../Page/NHK-FM放送.md "wikilink")[FMぐんまの前橋送信所が置局されている](../Page/エフエム群馬.md "wikilink")。かつて放送大学のFM中継局が設置されていた\[2\]。
+  - 群馬県の広い範囲に電波を発射している他、FMぐんまは埼玉県北部地域\[3\]、埼玉県利根地域の一部\[4\]や栃木県[足利市](../Page/足利市.md "wikilink")、[栃木市](../Page/栃木市.md "wikilink")他が放送エリアになる\[5\]。
 
 ## 送信所設備概要
 
@@ -26,20 +26,20 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a><a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
-<td><p>JOTP-FM</p></td>
-<td><p>81.6MHz[4]</p></td>
-<td><p>1kW</p></td>
-<td><p>5.4kW</p></td>
+<a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a><a href="../Page/NHK-FM放送.md" title="wikilink">FM</a>[6]</p></td>
+<td><p>JOTP-FM[7]</p></td>
+<td><p>81.6MHz[8]</p></td>
+<td><p>1kW[9][10]</p></td>
+<td><p>5.4kW[11]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>FMG<br />
-<a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a></p></td>
-<td><p>JORU-FM</p></td>
-<td><p>86.3MHz[5]</p></td>
-<td><p>5.5kW</p></td>
+<a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>[12]</p></td>
+<td><p>JORU-FM[13]</p></td>
+<td><p>86.3MHz[14]</p></td>
+<td><p>5.5kW[15]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -64,11 +64,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/放送大学_(基幹放送)#廃局あるいは編成変更となった過去の放送波" title="wikilink">放送大学</a></p></td>
-<td><p>JOUD-FM</p></td>
-<td><p>78.8MHz[6]</p></td>
-<td><p>1kW</p></td>
-<td><p>5.4kW</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/放送大学_(基幹放送)#廃局あるいは編成変更となった過去の放送波" title="wikilink">放送大学</a>[16]</p></td>
+<td><p>（中継局）</p></td>
+<td><p>78.8MHz[17]</p></td>
+<td><p>1kW[18]</p></td>
+<td><p>5.4kW[19]</p></td>
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a><br />
 （授業実施予定地域）</p></td>
 <td><p>不明</p></td>
@@ -85,9 +85,22 @@
 
 [Category:高崎市の建築物](https://ja.wikipedia.org/wiki/Category:高崎市の建築物 "wikilink") [Category:群馬県の放送送信所](https://ja.wikipedia.org/wiki/Category:群馬県の放送送信所 "wikilink") [Category:NHK前橋](https://ja.wikipedia.org/wiki/Category:NHK前橋 "wikilink") [Category:エフエム群馬](https://ja.wikipedia.org/wiki/Category:エフエム群馬 "wikilink") [Category:放送大学学園](https://ja.wikipedia.org/wiki/Category:放送大学学園 "wikilink")
 
-1.  [北部地域振興センター（埼玉県）](http://www.pref.saitama.lg.jp/soshiki/b0110/index.html)
-2.  [利根地域振興センター（埼玉県）](http://www.pref.saitama.lg.jp/soshiki/b0109/index.html)
-3.  [FM GUNMA RATINGS](http://www.fmgunma.com/sales/02.php)
-4.  [無線局免許状等情報（NHK-FM）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033454&DD=1&styleNumber=01)
-5.  [無線局免許状等情報（エフエム群馬）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000034895&DD=1&styleNumber=01)
-6.  [無線局免許状等情報（放送大学学園）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000034855&DD=1&styleNumber=01)
+1.
+2.  国立国会図書館インターネット資料収集保存事業 2020年5月6日現在のアーカイブ 2020年6月28日閲覧
+3.  [北部地域振興センター（埼玉県）](http://www.pref.saitama.lg.jp/soshiki/b0110/index.html)
+4.  [利根地域振興センター（埼玉県）](http://www.pref.saitama.lg.jp/soshiki/b0109/index.html)
+5.  [FM GUNMA RATINGS](http://www.fmgunma.com/sales/02.php)
+6.
+7.
+8.  [無線局免許状等情報（NHK-FM）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033454&DD=1&styleNumber=01)
+9.
+10.
+11.
+12.
+13.
+14. [無線局免許状等情報（エフエム群馬）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000034895&DD=1&styleNumber=01)
+15.
+16.
+17. 総務省電波利用ホームページ 無線局免許状等情報 放送大学学園 2020年6月28日閲覧
+18.
+19.

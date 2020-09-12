@@ -155,4 +155,4 @@ ArchiCAD 13で革命的な改良がなされた新しいチームワーク機能
 
 [Category:CADソフト](https://ja.wikipedia.org/wiki/Category:CADソフト "wikilink") [Category:データモデリング](https://ja.wikipedia.org/wiki/Category:データモデリング "wikilink")
 
-1.  [MAXON CineRender Integration Adds High-End Render Quality to ARCHICAD 18](http://web.archive.org/web/20140826115330/http://www.maxon.net/en/news/singleview-default/article/maxon-cinerender-integration-adds-high-end-render-quality-to-archicadR-18.html) MAXON 2014年5月6日
+1.  [MAXON CineRender Integration Adds High-End Render Quality to ARCHICAD 18](https://web.archive.org/web/20140826115330/http://www.maxon.net/en/news/singleview-default/article/maxon-cinerender-integration-adds-high-end-render-quality-to-archicadR-18.html) MAXON 2014年5月6日

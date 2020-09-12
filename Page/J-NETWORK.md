@@ -1410,7 +1410,7 @@ J-NET主催興行は以下の4カテゴリが存在する。
 
 ## 外部リンク
 
-  - [J-NETWORK公式サイト](http://www.kickboxing.co.jp/)（更新されていない古い情報が多い）
+  - [J-NETWORK公式サイト](https://www.kickboxing.co.jp/)（更新されていない古い情報が多い）
   - [J-GIRLS公式サイト](http://www.jg-kickboxing.jp/)
 
 [Category:日本のキックボクシング団体](https://ja.wikipedia.org/wiki/Category:日本のキックボクシング団体 "wikilink") [Category:スポーツ関連企業](https://ja.wikipedia.org/wiki/Category:スポーツ関連企業 "wikilink") [Category:世田谷区の企業](https://ja.wikipedia.org/wiki/Category:世田谷区の企業 "wikilink") [Category:スカイ・エー](https://ja.wikipedia.org/wiki/Category:スカイ・エー "wikilink")

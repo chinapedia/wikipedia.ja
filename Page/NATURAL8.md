@@ -85,6 +85,6 @@
 
 ## 外部リンク
 
-NATURAL8特設ページ <http://www.chermside.co.jp/natural8/> オフィシャルブログ　http://ameblo.jp/nl8/
+NATURAL8特設ページ <http://www.chermside.co.jp/natural8/> オフィシャルブログ　https://ameblo.jp/nl8/
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")

@@ -122,6 +122,8 @@
   - [川村壱馬](https://ja.wikipedia.org/wiki/川村壱馬 "wikilink") ([THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink"))
   - [カイワレハンマー](https://ja.wikipedia.org/wiki/カイワレハンマー "wikilink") ([ワタナベマホト](https://ja.wikipedia.org/wiki/ワタナベマホト "wikilink")、[imiga](https://ja.wikipedia.org/wiki/imiga "wikilink"))
   - [漢 a.k.a. GAMI](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink") ([MSC](../Page/MSC_\(音楽グループ\).md "wikilink"))
+  - [がーどまん](https://ja.wikipedia.org/wiki/がーどまん "wikilink")(恵川　守)(宮本　優弥)
+  - kzm
 
 ### き
 
@@ -226,6 +228,7 @@
 
 ### し
 
+  - [しあ](https://ja.wikipedia.org/wiki/しあ "wikilink")
   - GS ([DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink"))
   - G.O (Ice Dynasty)
   - CQ ([BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink"), ILLMATIC BUDDHA MC's, [キエるマキュウ](../Page/キエるマキュウ.md "wikilink"), BUDDHA MAFIA)
@@ -247,7 +250,7 @@
   - JAGGLA (TORNADO)
   - Shalla
   - SHU (North Coast Bad Boyz)
-  - JUDAI ([Flowback](https://ja.wikipedia.org/wiki/Flowback "wikilink"))
+  - JUDAI ([FlowBack](https://ja.wikipedia.org/wiki/FlowBack "wikilink"))
   - SOHJIN (ex. [INNOSENCE](../Page/INNOSENCE.md "wikilink"))
   - [SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink") ([EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink"))
   - SHOICHIRO
@@ -259,6 +262,7 @@
   - [SHO](https://ja.wikipedia.org/wiki/SHO_\(ラッパー\) "wikilink")
   - JP THE WAVY
   - CMD (DAZZLE 4 LIFE)
+  - [J'Da Skit](https://ja.wikipedia.org/wiki/J'Da_Skit "wikilink")
 
 ### す
 
@@ -341,7 +345,7 @@
   - [T-Pablow](https://ja.wikipedia.org/wiki/T-Pablow "wikilink") ([BAD HOP](https://ja.wikipedia.org/wiki/BAD_HOP "wikilink")、[2WIN](https://ja.wikipedia.org/wiki/2WIN_\(音楽ユニット\) "wikilink"))
   - DyyPRIDE ([SIMI LAB](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink"))
   - T-BLOWER (Ice Dynasty)
-  - Diggy-MO' (ex. [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink"))
+  - [Diggy-MO'](../Page/Diggy-MO'.md "wikilink") (ex. [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink"))
   - Ticky"D"Tac (NORA)
   - Dix-T
   - D.D.S (N.E.N)
@@ -354,7 +358,7 @@
   - TERU
   - T-TRIPPEN (DAZZLE 4 LIFE)
   - D.u.g. (enmaku)
-  - テークエム(\[梅田サイファー\])
+  - [テークエム](https://ja.wikipedia.org/wiki/テークエム "wikilink")(\[梅田サイファー\])
 
 ### と
 
@@ -424,12 +428,14 @@
   - [PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink") ([PSG](https://ja.wikipedia.org/wiki/PSG_\(ヒップホップユニット\) "wikilink"))
   - HI-KING TAKASE
   - HARDY
+  - ハハノシキュウ
 
 ### ひ
 
   - B.S.C ([KANDYTOWN](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink"), BANKROLL)
   - P-CHO ([DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink"))
   - BIGZAM ([NITRO MICROPHONE UNDERGROUND](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink"))
+  - PizzaLove(Tajyusaimboyz)
   - [HIDA](../Page/HIDA.md "wikilink")DDY ([韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink"), HEAD BANGERZ)
   - HIDE (Sound Luck)
   - HIDDEN FISH ([nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink"))
@@ -484,6 +490,7 @@
   - MAR (MASK)
   - [MARS MANIE](https://ja.wikipedia.org/wiki/MARS_MANIE "wikilink") ([TEAM 44 BLOX](../Page/TEAM_44_BLOX.md "wikilink"))
   - マイクアキラ ([四街道ネイチャー](../Page/四街道ネイチャー.md "wikilink"))
+  - microM (スタジオなごみ, 塩山の残党)
   - MAKA
   - MACCHO ([OZROSAURUS](../Page/OZROSAURUS.md "wikilink"))
   - [MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink") ([NITRO MICROPHONE UNDERGROUND](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink"), 東京弐拾伍時)
@@ -565,7 +572,6 @@
   - YOSHI ([餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink"), ULTRA NANIWATIC MC’S)
   - [ヨシピィ・ダ・ガマ](https://ja.wikipedia.org/wiki/ヨシピィ・ダ・ガマ "wikilink") ([KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink"))
   - YOZE (NORA)
-  - [吉幾三](../Page/吉幾三.md "wikilink")
 
 ## ら行
 
@@ -575,6 +581,7 @@
   - [RAU DEF](https://ja.wikipedia.org/wiki/RAU_DEF "wikilink") (MUTANTANERS)
   - RAGA
   - RACK
+  - ralph
   - LANCE ([ONE☆DRAFT](../Page/ONE☆DRAFT.md "wikilink"))
 
 ### り
@@ -585,6 +592,7 @@
   - [LITTLE](../Page/LITTLE.md "wikilink") ([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))
   - [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink") ([KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink"), Lamp Eye)
   - [LIBRO](../Page/LIBRO.md "wikilink")
+  - 龍鬼
   - 龍道
   - [RYO-Z](../Page/RYO-Z.md "wikilink") ([RIP SLYME](../Page/RIP_SLYME.md "wikilink"))
   - 呂布 ([KANDYTOWN](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink"), BANKROLL, [ズットズレテルズ](https://ja.wikipedia.org/wiki/ズットズレテルズ "wikilink"))
@@ -592,6 +600,7 @@
   - Lil Azian-A
   - LiL KEN (MADSTA)
   - LIN ([MADKID](https://ja.wikipedia.org/wiki/MADKID "wikilink"))
+  - RIN音
 
 ### る
 

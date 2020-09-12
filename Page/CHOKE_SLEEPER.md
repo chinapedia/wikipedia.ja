@@ -134,7 +134,15 @@
 <td><p>2003年9月20日</p></td>
 <td><p><strong>STAR OF THE DAY</strong></p></td>
 <td><p>NPCC-001</p></td>
-<td></td>
+<td><ol>
+<li>FREAK ON</li>
+<li>ONE NATION</li>
+<li>LOVE LOVE SUMMER</li>
+<li>KILLA BEAT</li>
+<li>ONE STEP BACK</li>
+<li>SWING MY SOUL</li>
+<li>LEAVE ME ALONE</li>
+</ol></td>
 <td><p>ナチュラルプログレッションプロダクション</p></td>
 </tr>
 <tr class="even">

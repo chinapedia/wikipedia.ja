@@ -138,4 +138,4 @@
   - [Red Orchestra: Ostfront 41-45 公式サイト](http://www.redorchestragame.com/)
   - [Red Orchestra J](http://dod.xrea.jp/_ro/)
 
-[Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:独ソ戦を題材とした作品](https://ja.wikipedia.org/wiki/Category:独ソ戦を題材とした作品 "wikilink")
+[Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:独ソ戦を題材とした作品](https://ja.wikipedia.org/wiki/Category:独ソ戦を題材とした作品 "wikilink")

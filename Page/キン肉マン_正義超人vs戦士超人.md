@@ -78,21 +78,21 @@
 
   - [キン肉マン](../Page/キン肉スグル.md "wikilink") - [神谷明](../Page/神谷明.md "wikilink")
   - [ミート君](../Page/アレキサンドリア・ミート.md "wikilink") - [松島みのり](../Page/松島みのり.md "wikilink")
-  - 中野さん - [はせさん治](../Page/はせさん治.md "wikilink")
-  - ナチグロン - [山本圭子](../Page/山本圭子.md "wikilink")
-  - [キン肉大王](https://ja.wikipedia.org/wiki/キン肉真弓 "wikilink") - [岸野一彦](../Page/岸野一彦.md "wikilink")
-  - キン肉王妃 - [山口奈々](../Page/山口奈々.md "wikilink")
+  - [中野さん](https://ja.wikipedia.org/wiki/キン肉マンの登場人物#中野和雄（なかの_かずお） "wikilink") - [はせさん治](../Page/はせさん治.md "wikilink")
+  - [ナチグロン](https://ja.wikipedia.org/wiki/キン肉マンの登場人物#ナチグロン "wikilink")、[キン骨オババ](https://ja.wikipedia.org/wiki/キン肉マンの登場人物#キン骨オババ（キンこつオババ） "wikilink")\[8\] - [山本圭子](../Page/山本圭子.md "wikilink")
+  - [キン肉大王](https://ja.wikipedia.org/wiki/キン肉真弓 "wikilink")、[ネプチューンマン](../Page/ネプチューンマン.md "wikilink") - [岸野一彦](../Page/岸野一彦.md "wikilink")
+  - [キン肉王妃](https://ja.wikipedia.org/wiki/キン肉マンの登場人物#キン肉小百合（キンにく_さゆり） "wikilink") - [山口奈々](../Page/山口奈々.md "wikilink")
   - [委員長](https://ja.wikipedia.org/wiki/ハラボテ・マッスル "wikilink") - [北川米彦](../Page/北川米彦.md "wikilink")
   - [テリーマン](../Page/テリーマン.md "wikilink") - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
   - [ウォーズマン](../Page/ウォーズマン.md "wikilink") - [堀秀行](../Page/堀秀行.md "wikilink")
   - [ジェロニモ](../Page/ジェロニモ_\(キン肉マン\).md "wikilink") - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
   - [ロビンマスク](../Page/ロビンマスク.md "wikilink") - [郷里大輔](../Page/郷里大輔.md "wikilink")
   - [ラーメンマン](../Page/ラーメンマン.md "wikilink") - [銀河万丈](../Page/銀河万丈.md "wikilink")
-  - [バッファローマン](../Page/バッファローマン.md "wikilink")、イワオ\[8\] - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
+  - [バッファローマン](../Page/バッファローマン.md "wikilink")、イワオ\[9\] - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - [リキシマン](../Page/ウルフマン_\(キン肉マン\).md "wikilink") - [広瀬正志](../Page/広瀬正志.md "wikilink")
   - [キン骨マン](../Page/キン骨マン.md "wikilink") - [二又一成](../Page/二又一成.md "wikilink")
-  - [ブロッケンJr.](../Page/ブロッケンJr..md "wikilink")、与作さん\[9\] - [水鳥鉄夫](../Page/水鳥鐵夫.md "wikilink")
-  - 五分刈刑事 - [戸谷公次](../Page/戸谷公次.md "wikilink")
+  - [ブロッケンJr.](../Page/ブロッケンJr..md "wikilink")、与作さん\[10\] - [水鳥鉄夫](../Page/水鳥鐵夫.md "wikilink")
+  - [五分刈刑事](https://ja.wikipedia.org/wiki/キン肉マンの登場人物#赤岩（あかいわ）刑事_/_五分刈（ごぶがり）刑事 "wikilink") - [戸谷公次](../Page/戸谷公次.md "wikilink")
   - ナツコ - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
   - マリさん - [中島千里](../Page/中島千里.md "wikilink")
   - 戦士超人ミョウオウ - [田中和実](../Page/田中和実.md "wikilink")
@@ -183,5 +183,6 @@
 5.
 6.
 7.  ゆでたまご「仮面を脱ぎしロビンの痛恨\!\!」『キン肉マンII世 29』集英社〈スーパー・プレイボーイ・コミックス〉、2005年8月24日、ISBN 978-4-08-857450-9、109頁。
-8.  DVD『キン肉マン THE MOVIE』解説書より。
-9.
+8.
+9.  DVD『キン肉マン THE MOVIE』解説書より。
+10.

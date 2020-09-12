@@ -33,7 +33,7 @@
 ### 嗜好
 
   - 邦楽無知で、洋楽以外はほとんど聞かない。また[プロレス](../Page/プロレス.md "wikilink")と[アニメ](../Page/アニメ.md "wikilink")好き\[8\]。
-  - 趣味は、バス[フィッシング](../Page/釣り.md "wikilink")・[ボディーボード](https://ja.wikipedia.org/wiki/ボディーボード "wikilink")・[スキー](../Page/スキー.md "wikilink")・[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")・[ホットヨガ](https://ja.wikipedia.org/wiki/ホットヨガ "wikilink")・トレーニング・ドライブ・温泉・食べ歩き。かなりアクティブな一面をTwitterにて公表している。
+  - 趣味は、バス[フィッシング](../Page/釣り.md "wikilink")・[ボディーボード](https://ja.wikipedia.org/wiki/ボディーボード "wikilink")・[スキー](../Page/スキー.md "wikilink")・[ピラティス](../Page/ピラティス・メソッド.md "wikilink")・[ホットヨガ](https://ja.wikipedia.org/wiki/ホットヨガ "wikilink")・トレーニング・ドライブ・温泉・食べ歩き。かなりアクティブな一面をTwitterにて公表している。
   - 愛猫の名前は、『マオ』『愛』。
 
 ## 代表作品
@@ -499,7 +499,7 @@
 
 <!-- end list -->
 
-  - 「Smile.」
+  - 「[Smile.](https://ja.wikipedia.org/wiki/Smile. "wikilink")」
 
 <!-- end list -->
 
@@ -946,7 +946,7 @@
 
 1.  Satomi個人によるTwitterでの発言（2013年3月16日）
 2.  Satomi氏個人によるTwitterでの発言（2011年10月7日）
-3.  Satomi氏個人によるTwitterでの発言（2011年10月7日）
+3.
 4.  Satomi氏個人によるTwitterでの発言（2013年3月7日）
 5.  Satomi氏個人によるTwitterでの発言（2011年2月22日）
 6.  [中京テレビ ピンクパパラッチ](http://www.ctv.co.jp/pinkpaparazzi/) 2001年1月14日放送内

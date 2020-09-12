@@ -89,6 +89,8 @@
 
   - 　低親和性神経成長因子受容体 (p75)に関する解説。
 
+  - 　Trkファミリー受容体に関する解説。
+
 [Category:神経科学](https://ja.wikipedia.org/wiki/Category:神経科学 "wikilink") [Category:脳](https://ja.wikipedia.org/wiki/Category:脳 "wikilink") [Category:神経](https://ja.wikipedia.org/wiki/Category:神経 "wikilink") [Category:細胞生物学](https://ja.wikipedia.org/wiki/Category:細胞生物学 "wikilink") [Category:シグナル伝達](https://ja.wikipedia.org/wiki/Category:シグナル伝達 "wikilink") [Category:膜貫通受容体](https://ja.wikipedia.org/wiki/Category:膜貫通受容体 "wikilink") [Category:EC_2.7.10](https://ja.wikipedia.org/wiki/Category:EC_2.7.10 "wikilink")
 
 1.

@@ -10,7 +10,7 @@
 ## 登場人物
 
   - アリタ＝フォーランド（第一話のみ - ファリス）
-    声 - [朴璐美](../Page/朴ロ美.md "wikilink")
+    声 - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")
     主人公にしてメインヒロイン。ドクター・アカマシによるクーデターで死亡したフォーランド国王の娘、フォーランド王姫。ドクター・アカマシの襲撃から逃亡中に、偶然出会ったファリスと、死の瞬間を共にしたため、輸魂の法儀によって、魂が入れ替わってしまう。以降、魂の入れ替わったファリスが、アリタ＝フォーランドとして国を治めることになる。
     竜を殺し、死神を従えるといわれる史上最凶の賞金稼ぎ、ファリスの魂が宿っているため、高い戦闘力を誇り、愛刀の[姫鶴一文字](https://ja.wikipedia.org/wiki/姫鶴一文字 "wikilink")（実在の同名の[日本刀](../Page/日本刀.md "wikilink")と同じ形状の刀、実在の刀は伝では上杉謙信の愛刀）を振るうその一騎当千の戦いぶりから『虐殺姫』（MURDER PRINCESS）の名で呼ばれている。
     戦いの中で遠い幼い頃の記憶が甦り過去に魔術師セシリアにファリスの家族から村人全て殺害され村は壊滅。最後に生き残ったファリスの父は最後までセシリアに対抗するが魔力の力に息絶える。父が残した形見である愛刀の[姫鶴一文字](https://ja.wikipedia.org/wiki/姫鶴一文字 "wikilink")を手に取り、忌わしい記憶は片隅に残り父の宿敵を探し出す為賞金稼ぎとなった。アニメ版の最終回では他国に対する全面戦争に自ら赴く。
@@ -70,7 +70,7 @@
   - オープニングテーマ「[ヒカリサスホウ (FK Metal ver.)](https://ja.wikipedia.org/wiki/NEW_WORLD_\(BACK-ONのアルバム\) "wikilink")」
     作詞 - TEEDA & KENJI03 / 作曲 - BACK-ON / 編曲 - BACK-ON / 歌 - [BACK-ON](../Page/BACK-ON.md "wikilink")
   - エンディングテーマ「Naked Flower」
-    作詞 - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") / 作曲 - 三留一純 / 編曲 - [梅堀淳](../Page/梅堀淳.md "wikilink") / 歌 - [朴璐美](../Page/朴ロ美.md "wikilink")
+    作詞 - [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") / 作曲 - 三留一純 / 編曲 - [梅堀淳](../Page/梅堀淳.md "wikilink") / 歌 - [朴璐美](https://ja.wikipedia.org/wiki/朴璐美 "wikilink")
 
 ### 各巻リスト
 

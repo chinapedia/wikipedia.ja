@@ -19,12 +19,12 @@
       - 表記はされていないが、アルバムバージョンである。
 2.  **[19才](../Page/19才_\(スガシカオの曲\).md "wikilink")**
       - 19thシングル「19才」収録
-      - [TBS系アニメ](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[xxxHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC#テレビアニメ "wikilink")』オープニングテーマ
+      - [TBS系アニメ](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")『[xxxHOLiC](https://ja.wikipedia.org/wiki/XXXHOLiC#テレビアニメ "wikilink")』オープニングテーマ
 3.  **38分15秒**
 4.  **斜陽**
 5.  **夏陰〜なつかげ〜**
       - 18thシングル「奇跡/夏陰/サナギ」収録
-      - [テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[熱闘甲子園](../Page/熱闘甲子園.md "wikilink")』エンディングテーマ
+      - [テレビ朝日系](../Page/オールニッポン・ニュースネットワーク.md "wikilink")『[熱闘甲子園](../Page/熱闘甲子園.md "wikilink")』エンディングテーマ
       - [フジテレビ系アニメ](../Page/フジネットワーク.md "wikilink")『[ハチミツとクローバー](../Page/ハチミツとクローバー.md "wikilink")II』挿入歌
 6.  **タイムマシーン**
 7.  **Rush**

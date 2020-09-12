@@ -1,13 +1,13 @@
 > この記事は[The 5.6.7.8\'s](https://ja.wikipedia.org/wiki/The_5.6.7.8\'s)から翻訳されています。
 
 
-**The 5.6.7.8's**（ザ・ファイブ・シックス・セブン・エイツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")。通称はゴロッパチ\[1\]。
+**The 5.6.7.8's**（ザ・ファイブ・シックス・セブン・エイツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")。通称は**ゴロッパチ**\[1\]。
 
 ## 概要
 
-1986年に[東京](../Page/東京.md "wikilink")で結成。現在はYoshiko Fujiyama (ギター&リードボーカル)、Sachiko (ドラム)、Chellio Panther Omo (ベース)の女性3人組で活動\[2\]。元々は[イカ天出身バンドで](../Page/三宅裕司のいかすバンド天国.md "wikilink")、当初から海外を視野に入れた活動を行なっていたが、[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")『[キル・ビル Vol.1](https://ja.wikipedia.org/wiki/キル・ビル#キル・ビル_Vol.1 "wikilink")』に出演したことにより、国際的な人気を不動のものにした\[3\]\[4\]。
+[1986年](../Page/1986年.md "wikilink")に[東京](../Page/東京.md "wikilink")で結成。現在はYoshiko Fujiyama (ギター&リードボーカル)、Sachiko (ドラム)、Chellio Panther Omo (ベース)の女性3人組で活動\[2\]。元々は[イカ天出身バンドで](../Page/三宅裕司のいかすバンド天国.md "wikilink")、当初から海外進出を視野に入れた活動を行なっていたが、[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")『[キル・ビル Vol.1](https://ja.wikipedia.org/wiki/キル・ビル#キル・ビル_Vol.1 "wikilink")』に出演したことにより、国際的な人気を不動のものにした\[3\]\[4\]。
 
-[1950年代](../Page/1950年代.md "wikilink")、[1960年代](../Page/1960年代.md "wikilink")、[1970年代](../Page/1970年代.md "wikilink")、および[1980年代](../Page/1980年代.md "wikilink")のロックを演奏するというのがコンセプトで、そこからこのようなバンド名となった\[5\]。[アメリカのサーフミュージックと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ガレージロック](../Page/ガレージロック.md "wikilink")を思わせる音楽性を持ち、アメリカのロックの曲のカバーも行う。
+[1950年代](../Page/1950年代.md "wikilink")、[1960年代](../Page/1960年代.md "wikilink")、[1970年代](../Page/1970年代.md "wikilink")、および[1980年代](../Page/1980年代.md "wikilink")の[ロックを演奏するというのがコンセプトで](../Page/ロック_\(音楽\).md "wikilink")、そこからこのようなバンド名となった\[5\]。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サーフ・ミュージック](https://ja.wikipedia.org/wiki/サーフ・ミュージック "wikilink")と[ガレージロック](../Page/ガレージロック.md "wikilink")を思わせる音楽性を持ち、それらアメリカンロックの[カバー](../Page/カバー.md "wikilink")も行う。
 
 ### 海外での活動
 

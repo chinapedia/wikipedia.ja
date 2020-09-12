@@ -56,7 +56,7 @@ Flybe　運航機材
 
   - [Flybe](https://www.flybe.com/)
 
-[Category:かつて存在したイギリスの航空会社](https://ja.wikipedia.org/wiki/Category:かつて存在したイギリスの航空会社 "wikilink") [Category:イギリスのブランド](https://ja.wikipedia.org/wiki/Category:イギリスのブランド "wikilink") [Category:かつて存在した格安航空会社](https://ja.wikipedia.org/wiki/Category:かつて存在した格安航空会社 "wikilink") [Category:ロンドン証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:ロンドン証券取引所上場企業 "wikilink") [Category:ヨーロッパ低運賃航空会社協会](https://ja.wikipedia.org/wiki/Category:ヨーロッパ低運賃航空会社協会 "wikilink") [Category:経営破綻した企業](https://ja.wikipedia.org/wiki/Category:経営破綻した企業 "wikilink") [Category:1979年設立の航空会社](https://ja.wikipedia.org/wiki/Category:1979年設立の航空会社 "wikilink")
+[Category:かつて存在したイギリスの航空会社](https://ja.wikipedia.org/wiki/Category:かつて存在したイギリスの航空会社 "wikilink") [Category:イギリスのブランド](https://ja.wikipedia.org/wiki/Category:イギリスのブランド "wikilink") [Category:かつて存在した格安航空会社](https://ja.wikipedia.org/wiki/Category:かつて存在した格安航空会社 "wikilink") [Category:ロンドン証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:ロンドン証券取引所上場企業 "wikilink") [Category:ヨーロッパ低運賃航空会社協会](https://ja.wikipedia.org/wiki/Category:ヨーロッパ低運賃航空会社協会 "wikilink") [Category:経営破綻した企業](https://ja.wikipedia.org/wiki/Category:経営破綻した企業 "wikilink") [Category:1979年設立の航空会社](https://ja.wikipedia.org/wiki/Category:1979年設立の航空会社 "wikilink") [Category:2020年廃止の企業](https://ja.wikipedia.org/wiki/Category:2020年廃止の企業 "wikilink")
 
 1.
 2.  [Collapsed Flybe tells passengers not to travel to airports](https://www.bbc.com/news/business-51746564) -BBC NEWS 2020年3月5日

@@ -25,18 +25,22 @@
         作詞：ATSUSHI / 作曲：[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink") / 編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")
     <!-- end list -->
       - 映画『きみに届く声』主題歌
-3.  SUMMER TIME LOVE (Instrumental)
-4.  響 〜HIBIKI〜 (Instrumental)
-5.  **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")**
+3.  SUMMER TIME LOVE（Instrumental）
+4.  響 〜HIBIKI〜（Instrumental）
+5.  **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEのシングル\).md "wikilink")**
       -
         作詞：[佐藤ありす](../Page/佐藤ありす.md "wikilink") / 作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")
     <!-- end list -->
       - 10thシングルの再録バージョン
-      - 初回限定盤のみ収録
+    <!-- end list -->
+      -
+        初回限定盤のみ収録。
 
 ### DVD
 
-1.  SUMMER TIME LOVE (Video Clip)
+※CD+DVDのみ
+
+1.  **SUMMER TIME LOVE**（Video Clip）
 2.  EXILE関連のインフォメーション
 
 ## 脚注

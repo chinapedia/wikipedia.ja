@@ -50,9 +50,21 @@
 
   - [アラン・シモンセン](../Page/アラン・シモンセン.md "wikilink") 1991-1994
 
-  - Nicolai Wael 2011-2013
+  - [ニコライ・ワエル](https://ja.wikipedia.org/wiki/ニコライ・ワエル "wikilink") 2011-2013
 
-  - [Adolfo Sormani](https://ja.wikipedia.org/wiki/:en:Adolfo_Sormani "wikilink") 2017-
+  - [キム・ブリンク](https://ja.wikipedia.org/wiki/キム・ブリンク "wikilink") 2013
+
+  - [トニー・ヘルマンセン](https://ja.wikipedia.org/wiki/トニー・ヘルマンセン "wikilink") 2013-2014
+
+  - [クレベール・サーレンパー](https://ja.wikipedia.org/wiki/クレベール・サーレンパー "wikilink") 2014-2016
+
+  - [スティーン・ティコセン](https://ja.wikipedia.org/wiki/スティーン・ティコセン "wikilink") 2016
+
+  - [アンドレアス・アルム](https://ja.wikipedia.org/wiki/アンドレアス・アルム "wikilink") 2016-2017
+
+  - [Adolfo Sormani](https://ja.wikipedia.org/wiki/:en:Adolfo_Sormani "wikilink") 2017-2019
+
+  - [コンスタンティン・ガルカ](https://ja.wikipedia.org/wiki/コンスタンティン・ガルカ "wikilink") 2019-
 
 ## 歴代所属選手
 

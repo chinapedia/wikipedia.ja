@@ -1,11 +1,11 @@
 > この記事は[LADY NAVIGATION](https://ja.wikipedia.org/wiki/LADY_NAVIGATION)から翻訳されています。
 
 
-「**LADY NAVIGATION**」(レディ・ナビゲーション) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")8作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**LADY NAVIGATION**」(レディ・ナビゲーション) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。1991年3月27日に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")8作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-前作『[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")』より約5ヶ月ぶりのリリースで、デビューの頃より使用していた初代B'zロゴが使用された最後のシングル。発売日の[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")は松本の30歳の誕生日であり、当時のインタビューで松本は「僕の生誕30周年記念シングル」と冗談めかして語っていた\[1\]。
+前作『[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")』より約5ヶ月ぶりのリリースで、デビューの頃より使用していた初代B'zロゴが使用された最後のシングル。発売日の1991年3月27日は松本の30歳の誕生日であり、当時のインタビューで松本は「僕の生誕30周年記念シングル」と冗談めかして語っていた\[1\]。
 
 オリコン集計では、B'z初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成したシングルである\[2\]\[3\]。そして本作より、20thシングル『[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")』まで13作連続ミリオンセラーの記録を作ることとなる。チャートインは計56週 (再発盤含む) を記録し、B'zのシングルとしては最多である。オリコン集計による累計売上はミリオンを突破した。[日本レコード協会](../Page/日本レコード協会.md "wikilink")からはトリプル・プラチナ\[4\]認定を受けた\[5\]。
 
@@ -21,7 +21,7 @@
         前2作とは異なり、再びデジタル・ナンバーとなっている。
         原曲は[オリジナル・アルバムには収録されておらず](../Page/スタジオ・アルバム.md "wikilink")、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』で収録された。バージョン違いも存在する(後述)。
         マスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』を制作時にリミックスされたバージョンも制作したが、ベスト・アルバム『B'z The Best "Pleasure"』に収録されているため未収録となった\[8\]。
-        ライブでは滅多に[演奏](../Page/演奏.md "wikilink")されることがなく、[2003年](../Page/2003年.md "wikilink")のシークレットライブ『B'z SHOWCASE 2003 "IT'S SHOWCASE\!\!"』のオープニングナンバーとして9年ぶり (オリジナルバージョンとしては『B'z LIVE-GYM '91〜'92 "IN THE LIFE"』以来11年ぶり) に演奏され、「(演奏したのは) イントロで皆がビックリすると思ったから、SHOWCASEっぽい曲だよね。」と述べている。その後2013年まで一切演奏されず、ファンクラブ会報内のインタビューでスタッフから「LADY NAVIGATIONは何でライブでやらないのですか？」と聞かれた際にメンバーは、「(ファンレター等に) LADY NAVIGATIONを演奏してくださいと書かれていないから」と返答していたが、2013年のデビュー25周年記念に開催されたツアー『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』で (レギュラーメニューとしては) 21年ぶりにオリジナルバージョンで演奏された。
+        ライブでは滅多に[演奏](../Page/演奏.md "wikilink")されることがなく、2003年のシークレットライブ『B'z SHOWCASE 2003 "IT'S SHOWCASE\!\!"』のオープニングナンバーとして9年ぶり (オリジナルバージョンとしては『B'z LIVE-GYM '91〜'92 "IN THE LIFE"』以来11年ぶり) に演奏され、「(演奏したのは) イントロで皆がビックリすると思ったから、SHOWCASEっぽい曲だよね。」と述べている。その後2013年まで一切演奏されず、ファンクラブ会報内のインタビューでスタッフから「LADY NAVIGATIONは何でライブでやらないのですか？」と聞かれた際にメンバーは、「(ファンレター等に) LADY NAVIGATIONを演奏してくださいと書かれていないから」と返答していたが、2013年のデビュー25周年記念に開催されたツアー『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』で (レギュラーメニューとしては) 21年ぶりにオリジナルバージョンで演奏された。
 2.  **Pleasure'91 〜人生の快楽〜** (4:25)
       -
         [2nd beatでありながら](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")、[ファン](../Page/ファン.md "wikilink")からの人気が高い楽曲。

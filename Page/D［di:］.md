@@ -50,4 +50,4 @@
   - [D\[diː\]のFBページ](http://www.facebook.com/pages/Ddi%CB%90/389478771113470)（旧：[D{di:}のDはドジだからのD{di:}に決まってんだろ？逆切れ日記（ブログ）](http://blog.livedoor.jp/deeth/)）
   - [PUBLIC-IMAGE.ORG インタビュー](http://www.public-image.org/interview/2010/04/26/di.html)
 
-[Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本の女性イラストレーター](https://ja.wikipedia.org/wiki/Category:日本の女性イラストレーター "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")
+[Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本の女性イラストレーター](https://ja.wikipedia.org/wiki/Category:日本の女性イラストレーター "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

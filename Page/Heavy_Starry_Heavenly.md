@@ -11,7 +11,7 @@
 
 前作のアルバム「[Tommy heavenly<sup>6</sup>](../Page/Tommy_heavenly6_\(アルバム\).md "wikilink")」は[グランジ](../Page/グランジ.md "wikilink")や[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")が中心で構成されたアルバムであるが、今作は[ハードロック](../Page/ハードロック.md "wikilink")、[ゴシックメタル](../Page/ゴシックメタル.md "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")などの曲で構成されたアルバムになっている。先行シングルは[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")にリリースされた「I'm Gonna SCREAM+」から[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")発売の「Heavy Starry Chain」まで1～2ヶ月おきの5枚連続リリースとなった。またアルバムに収録されているシングル・カップリング曲の一部は新たにリアレンジされて収録されている。
 
-今作のアルバムコンセプトは「怖いけど可愛い」、略して「**こわカワイイ**」がテーマである。川瀬智子は2006年の[秋](../Page/秋.md "wikilink")頃から[池田理代子](../Page/池田理代子.md "wikilink")著作の「[ベルサイユのばら](../Page/ベルサイユのばら.md "wikilink")」や、[ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")が監督した映画「[マリー･アントワネット](../Page/マリー・アントワネット_\(映画\).md "wikilink")」などに影響され、ジャケット、ブックレットの写真のセットと「**Heavy Starry Chain**」のPVのセットに豪華なケーキや人形などを小道具として使用している（当初は「**I LOVE XMAS**」のPVから豪華な[ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")を着て制作したかったが、レンタル料金が高かったので断念した）。また初回限定盤・通常盤の[CDケースには収録曲のタイトルが記載されている](../Page/コンパクトディスク.md "wikilink")。シングル曲のタイトルの文字にはデザインの飾り文字の施されており、アルバム用の新曲4曲とシングルのC/W曲３曲は通常の字体で記載されている。
+今作のアルバムコンセプトは「怖いけど可愛い」、略して「**こわカワイイ**」がテーマである。川瀬智子は2006年の[秋](../Page/秋.md "wikilink")頃から[池田理代子](../Page/池田理代子.md "wikilink")著作の「[ベルサイユのばら](../Page/ベルサイユのばら.md "wikilink")」や、[ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")が監督した映画「[マリー･アントワネット](../Page/マリー・アントワネット_\(映画\).md "wikilink")」などに影響され、ジャケット、ブックレットの写真のセットと「**Heavy Starry Chain**」のPVのセットに豪華なケーキや人形などを小道具として使用している（当初は「**I ♥ XMAS**」のPVから豪華な[ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")を着て制作したかったが、レンタル料金が高かったので断念した）。また初回限定盤・通常盤の[CDケースには収録曲のタイトルが記載されている](../Page/コンパクトディスク.md "wikilink")。シングル曲のタイトルの文字にはデザインの飾り文字の施されており、アルバム用の新曲4曲とシングルのC/W曲３曲は通常の字体で記載されている。
 
 このアルバムを引き連れてソロ活動では初めての全国ツアー「**Tommy heavenly<sup>6</sup>　Heavy Starry tour'07**」が[福岡県](../Page/福岡県.md "wikilink")・[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[大阪府](../Page/大阪府.md "wikilink")・[東京都](../Page/東京都.md "wikilink")の4都市で開催され、サプライズゲストで今まで謎だった作曲者（the brilliant greenのメンバーの奥田俊作と松井亮）がゲストで登場した。
 
@@ -32,18 +32,18 @@
 5.  **DOOR MAT**
       -
         アルバム収録曲。
-6.  **[Lollipop Candy♥BAD♥girl](../Page/Lollipop_Candy_BAD_girl.md "wikilink")\[album version\]**
+6.  **[Lollipop Candy♥BAD♥girl](https://ja.wikipedia.org/wiki/Lollipop_Candy♥BAD♥girl "wikilink")\[album version\]**
       -
         [ハロウィン](../Page/ハロウィン.md "wikilink")シングル。ハロウィーンを記念して製作し記念日の[10月31日](../Page/10月31日.md "wikilink")にあやかり、総合時間が10分31秒の[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")曲である。元々この「Tommy heavenly<sup>6</sup>」プロジェクトはハロウィンの日にスタートしたかったが、時間の都合上出来なかったのいつか実現したいと考えていたようで、[2006年](../Page/2006年.md "wikilink")に丁度チャンスが巡って来たので製作に着手したが思ったより難航したようで「何であんな事言ったんだろ」と何度も会議等で愚痴を零して後悔しては諦めそうになったがどうにかして完成した逸話がある。
         フルver.は「[マーチング](../Page/行進曲.md "wikilink")→[ワルツ](../Page/ワルツ.md "wikilink")→[ハード・ロック](https://ja.wikipedia.org/wiki/ハード・ロック "wikilink")→ワルツ→ハード・ロック」パートの順で構成されているがショートver.は1番のワルツパートが外されている。なおアルバムヴァージョンはハード・ロックパートを集め雨音や雷音など[SEを外したアレンジで](../Page/効果音.md "wikilink")、このアレンジはシングル盤宣伝で出演した「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」にて披露している（ただし途中までしか披露していない）。
         川瀬は後のインタビューで「良い経験になったけどもう二度とやりたくないです(笑)」と語る。
 7.  **THE CASE**
       -
-        シングル「I♥XMAS」のC/W曲、なお川瀬智子はC/W曲の歌詞に関しては基本的にファンへの感謝の思い、その日を出来事を綴っている。
+        シングル「I ♥ XMAS」のC/W曲、なお川瀬智子はC/W曲の歌詞に関しては基本的にファンへの感謝の思い、その日を出来事を綴っている。
 8.  **ABOUT U**
       -
         シングル「Pray」のC/W曲。ちなみに、ABOUT UのUはYOUの略。
-9.  **[I♥XMAS](https://ja.wikipedia.org/wiki/I♥XMAS "wikilink")**
+9.  **[I ♥ XMAS](https://ja.wikipedia.org/wiki/I_♥_XMAS "wikilink")**
       -
         クリスマスを記念したシングル曲。[日本テレビ系列で放送している](../Page/日本テレビ放送網.md "wikilink")2時間[ドラマ](../Page/ドラマ.md "wikilink")「[火曜ドラマゴールド](../Page/火曜ドラマゴールド.md "wikilink")」の主題歌。歌詞はドラマ制作側から「働く女性のクリスマス」というテーマで要請されて制作された。
 10. **[Pray](../Page/Pray_\(Tommy_heavenly6の曲\).md "wikilink")**
@@ -73,7 +73,7 @@
 
 初回限定盤に付属している特典DVD、収録曲はシングル5曲、前作のアルバム「Tommy heavenly<sup>6</sup>」収録曲「+gothic Pink+」のPVとメイキング映像が収録。なおシングル曲のPVはシングル盤の初回限定盤にも付属している。 製作は川瀬智子本人が企画・構成。監督は[セキ☆リュウジ](https://ja.wikipedia.org/wiki/セキ☆リュウジ "wikilink")と共同撮影し、編集作業は川瀬自らが自宅で自身所有の[Macintosh](../Page/Macintosh.md "wikilink")を用い編集。PVに着用している衣装も川瀬本人がイメージに合う服を探して購入して使用。なお副音声で川瀬智子とセキ☆リュウジの解説と苦労話が収録。
 
-「I'm Gonna SCREAM+」「pray」「Heavy Starry Chain」の三作のPVは川瀬智子が[死神](../Page/死神.md "wikilink")に扮して活躍する「**死神3部作**」として製作として収録、この三部作構想は「Lollipop Candy ♥BAD♥ girl」の製作が難航して一旦は断念したが、「Heavy Starry Chain」のPVの撮影前に思い出し、「I'm Gonna SCREAM+」で使用した[鎌](../Page/鎌.md "wikilink")が急遽使用された。
+「I'm Gonna SCREAM+」「pray」「Heavy Starry Chain」の三作のPVは川瀬智子が[死神](../Page/死神.md "wikilink")に扮して活躍する「**死神3部作**」として製作として収録、この三部作構想は「Lollipop Candy♥BAD♥girl」の製作が難航して一旦は断念したが、「Heavy Starry Chain」のPVの撮影前に思い出し、「I'm Gonna SCREAM+」で使用した[鎌](../Page/鎌.md "wikilink")が急遽使用された。
 
 ### 収録作品
 

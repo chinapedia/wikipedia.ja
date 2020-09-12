@@ -19,7 +19,7 @@ Jeff Beckleyは、以下のように説明している\[4\]。
 
 PenelopeはThunderbirdの拡張プラグインであり、[Eudoraオープンソース版はThunderbirdに変更を加えた商標化バージョンである](https://ja.wikipedia.org/wiki/Eudora#Eudora_OSE "wikilink")。Eudoraの機能を実現する中で、拡張機能上にしか実装できないものあれば、Thundebirdのコードのコア部分に対する変更が必要なものもある。
 
-#### 命名の変遷
+### 命名の変遷
 
 そもそも[Eudoraオープンソース版の計画は](https://ja.wikipedia.org/wiki/Eudora#Eudora_OSE "wikilink")、[Mozilla Thunderbird用の拡張プラグインPenelopeの実験から生まれた](../Page/Mozilla_Thunderbird.md "wikilink")\[5\]。
 

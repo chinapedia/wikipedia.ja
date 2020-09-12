@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a>（NST）</p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a>（NST）</p></td>
 <td><p>2007年4月15日</p></td>
 <td><p>日曜日 14:30～14:55</p></td>
 <td><p>14日遅れ</p></td>
@@ -241,7 +241,7 @@
 
 ## 外部リンク
 
-  - [ザ・NIPPON検定（フジテレビ公式）](http://www.fujitv.co.jp/b_hp/nipponkentei/)
+  - [ザ・NIPPON検定（フジテレビ公式）](https://www.fujitv.co.jp/b_hp/nipponkentei/)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:藤井隆](https://ja.wikipedia.org/wiki/Category:藤井隆 "wikilink") [Category:日本の文化](https://ja.wikipedia.org/wiki/Category:日本の文化 "wikilink")
 

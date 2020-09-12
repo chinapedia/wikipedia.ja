@@ -1,7 +1,7 @@
 > この記事は[YANAGIMAN](https://ja.wikipedia.org/wiki/YANAGIMAN)から翻訳されています。
 
 
-**YANAGIMAN**（ヤナギマン、[1960年](../Page/1960年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）は、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である。[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[FUNKY MONKEY BABYSを始めとする様々なアーティストのプロデュース](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、作曲、作詞、編曲を手がけている。[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")・[バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")卒業。[燦々ぬまづ大使](https://ja.wikipedia.org/wiki/燦々ぬまづ大使 "wikilink")（静岡県沼津市PR大使）。[長浜ブランドアンバサダー（滋賀県長浜市PR大使）](../Page/長浜市.md "wikilink")\[1\]。[奄美観光大使（鹿児島県奄美大島PR大使）](../Page/奄美大島.md "wikilink")。JOIN大使（一般社団法人 移住交流推進機構PR大使）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。35才から東京に上京、遅咲きの成功者。
+**YANAGIMAN**（ヤナギマン、[1960年](../Page/1960年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）は、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、である。[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[FUNKY MONKEY BABYSを始めとする様々なアーティストのプロデュース](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")、作曲、作詞、編曲を手がけている。[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")・[バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")卒業。[燦々ぬまづ大使](https://ja.wikipedia.org/wiki/燦々ぬまづ大使 "wikilink")（静岡県沼津市PR大使）。[長浜ブランドアンバサダー（滋賀県長浜市PR大使）](../Page/長浜市.md "wikilink")\[1\]。[奄美観光大使（鹿児島県奄美大島PR大使）](../Page/奄美大島.md "wikilink")。JOIN大使（一般社団法人 移住交流推進機構PR大使）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。35才から東京に上京、遅咲きの成功者。
 
 ## 概要
 
@@ -16,8 +16,6 @@
 [2007年](../Page/2007年.md "wikilink")にはBoA『[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")』でレコード大賞金賞\[3\]、2011年にはFUNKY MONKEY BABYS『[それでも信じてる](https://ja.wikipedia.org/wiki/それでも信じてる/ラブレター "wikilink")』\[4\]でレコード大賞優秀作品賞を受賞した。
 
 [2013年](../Page/2013年.md "wikilink")までに関わってきた作品の累積出荷枚数が2,000万枚以上に達している\[5\]。
-
-[2018年](../Page/2018年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")、YouTube『桜坂ちゃんねる』を開始。[高木豊](../Page/高木豊.md "wikilink")と[飯野雅がMCを務める野球番組や](https://ja.wikipedia.org/wiki/AKB48#元メンバー "wikilink")、自身もミュージシャンオーディション番組などに出演し配信している。
 
 [2019年](../Page/2019年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")、カンボジアの孤児院への寄付を熱望するYANAGIMANは、その趣旨に賛同してくれた[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")に新譜を書き下ろし。2万人強の[パシフィコ横浜で](../Page/横浜国際平和会議場.md "wikilink")『サイクル』を披露する\[6\]。
 
@@ -110,6 +108,7 @@
   - ITBOYS\[50\]
   - [伊禮麻乃](../Page/伊禮麻乃.md "wikilink")
   - [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")
+  - [AIDS チャリティ Project](https://ja.wikipedia.org/wiki/AIDS_チャリティ_Project "wikilink")
   - EDEN\[51\]
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
   - [Ella Koon](https://ja.wikipedia.org/wiki/エラ・クーン "wikilink")
@@ -278,11 +277,7 @@
   - [YANAGIMAN - Facebook](https://www.facebook.com/man.yanagi)
 
   -
-  - [YANAGIMAN GREE](http://gree.jp/yanagiman/)
-
-  - [桜坂ちゃんねる](https://www.youtube.com/channel/UCnl43sY9AyA_ikYX9Z0Ligw) - YouTube
-
-[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:鹿児島県出身の人物](https://ja.wikipedia.org/wiki/Category:鹿児島県出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:ウクレレ奏者](https://ja.wikipedia.org/wiki/Category:ウクレレ奏者 "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:鹿児島県出身の人物](https://ja.wikipedia.org/wiki/Category:鹿児島県出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [【長浜市公式サイト】長浜ブランドアンバサダー（長浜市PR大使）制度](https://www.city.nagahama.lg.jp/0000003165.html)
 2.  [日刊スゴイ人！関わった作品の累積出荷枚数2,000万枚以上に達する音楽プロデューサーのスゴい人！](http://sugoihito.or.jp/2015/08/12187/)

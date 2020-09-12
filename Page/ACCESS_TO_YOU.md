@@ -1,7 +1,7 @@
 > この記事は[ACCESS TO YOU](https://ja.wikipedia.org/wiki/ACCESS_TO_YOU)から翻訳されています。
 
 
-**NACK5 ACCESS TO YOU**（ナックファイブ アクセス トゥー ユー）は、[NACK5が放送している](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2005年](../Page/2005年.md "wikilink")4月より放送開始。2011年3月27日の放送をもって終了した。NACK5のスタジオ・アルシェ（大宮スタジオ）から公開生放送をしていた。hithit.comで生中継動画を視聴できる。番組名がスポンサーにより変わる。
+**NACK5 ACCESS TO YOU**（ナックファイブ アクセス トゥー ユー）は、[NACK5が放送していた](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2005年](../Page/2005年.md "wikilink")4月より放送開始。2011年3月27日の放送をもって終了した。NACK5のスタジオ・アルシェ（大宮スタジオ）から公開生放送をしていた。hithit.comで生中継動画を視聴できる。番組名がスポンサーにより変わる。
 
   - 2005年4月-[2009年](../Page/2009年.md "wikilink")9月 - [au](../Page/Au_\(携帯電話\).md "wikilink") Presents NACK5 ACCESS TO YOU
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月-2010年3月 - [UR都市機構](../Page/都市再生機構.md "wikilink") Presents NACK5 ACCESS TO YOU
@@ -30,7 +30,7 @@
       - 毎週日曜日 16:00-20:00
   - プロ野球・シーズン期
       - 毎週日曜日
-          - 16:00-21:00（[ライオンズ戦デーゲームの場合](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")・[野球中継終了後の番組開始のため](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")、短縮の場合あり。遅くとも17:00スタート）
+          - 16:00-21:00（[ライオンズ戦デーゲームの場合](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")・[野球中継終了後の番組開始のため](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")、短縮の場合あり。遅くとも17:00スタート）
           - 12:55-16:55（ライオンズ戦ナイトゲームの場合）
 
 終了時間は、2008年6月まで20:30、2010年6月まで20:00、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月から21:00となった。
@@ -210,4 +210,4 @@
 
   - 　[hithit.com](http://www.nack5.co.jp/hithit.com/)
 
-[Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:独立系FMラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:埼玉ブロンコス](https://ja.wikipedia.org/wiki/Category:埼玉ブロンコス "wikilink") [Category:大宮区の歴史](https://ja.wikipedia.org/wiki/Category:大宮区の歴史 "wikilink")
+[Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:独立系FMラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:埼玉ブロンコス](https://ja.wikipedia.org/wiki/Category:埼玉ブロンコス "wikilink") [Category:大宮区の歴史](https://ja.wikipedia.org/wiki/Category:大宮区の歴史 "wikilink") [Category:KDDI一社提供番組](https://ja.wikipedia.org/wiki/Category:KDDI一社提供番組 "wikilink")

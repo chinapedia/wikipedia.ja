@@ -1,7 +1,7 @@
 > この記事は[Sd Kfz 231 \(6-Rad\)](https://ja.wikipedia.org/wiki/Sd_Kfz_231_\(6-Rad\))から翻訳されています。
 
 
-**Sd Kfz 231 (6-Rad)** は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に採用された[ドイツの](../Page/ナチス・ドイツ.md "wikilink")[6輪重装甲偵察車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。1932～37年にビュッシング-NAG、マギルス、ダイムラーベンツの三社がそれぞれに、無線車型の**Sd Kfz 232 (6-Rad)** を含め、計123輌が生産された。ドイツ語では Schwerer Panzerspähwagen Sd.Kfz.231 (6-Rad) が制式名称である。本車の後継として、同じ制式番号を持つ本格的な8輪重装甲車シリーズが作られ、こちらは[Sd Kfz 231](https://ja.wikipedia.org/wiki/Sd_kfz_231 "wikilink") (8-Rad)と呼ばれる。また本車をベースとした装甲無線車型である[Sd Kfz 232 (6-Rad)および](../Page/Sd_Kfz_232_\(6-Rad\).md "wikilink")[Sd Kfz 263 (6-Rad)も生産された](https://ja.wikipedia.org/wiki/Sd_Kfz_263_\(6-Rad\) "wikilink")。
+**Sd Kfz 231 (6-Rad)** は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に採用された[ドイツの](../Page/ナチス・ドイツ.md "wikilink")[6輪重装甲偵察車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。1932～37年に[ビュッシング-NAG](https://ja.wikipedia.org/wiki/MAN_Truck_&_Bus "wikilink")、[マギルス](https://ja.wikipedia.org/wiki/マギルス "wikilink")、[ダイムラー・ベンツ](../Page/ダイムラー・ベンツ.md "wikilink")の三社がそれぞれに、無線車型の**Sd Kfz 232 (6-Rad)** を含め、計123輌が生産された。ドイツ語では Schwerer Panzerspähwagen Sd.Kfz.231 (6-Rad) が制式名称である。本車の後継として、同じ制式番号を持つ本格的な8輪重装甲車シリーズが作られ、こちらは[Sd Kfz 231](https://ja.wikipedia.org/wiki/Sd_kfz_231 "wikilink") (8-Rad)と呼ばれる。また本車をベースとした装甲無線車型である[Sd Kfz 232 (6-Rad)および](../Page/Sd_Kfz_232_\(6-Rad\).md "wikilink")[Sd Kfz 263 (6-Rad)も生産された](https://ja.wikipedia.org/wiki/Sd_Kfz_263_\(6-Rad\) "wikilink")。
 
 ## 概要
 

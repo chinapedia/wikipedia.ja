@@ -68,12 +68,17 @@ Steve Morse Band - Barbary Coast
   - 2007年より、デーゲームも含めた四国アイランドリーグplus・徳島インディゴソックスのホームゲームを「ラジオを持ってスタジアムへ行こう\!徳島インディゴソックス戦中継」として一部自主制作で中継している（2009年は実績なし）\[5\]。週末のJRNナイター廃止後からは、週末夜にも中継が行われている。
       - 2014年度以降は、プロ野球中継を予備カードに廻して、平日ナイター中継も行われている\[6\]。中継の際はオープニング曲は同球団の応援歌、エンディング曲として[春畑道哉](../Page/春畑道哉.md "wikilink") ([TUBE](../Page/TUBE.md "wikilink")) の「JAGUAR」を使用している。
       - 実況・リポーターはJRTのアナウンサーが、解説は[住友健人](https://ja.wikipedia.org/wiki/住友健人 "wikilink")・[松村高明](../Page/松村高明.md "wikilink")などの徳島県出身のプロ野球経験者が主に起用されている。
+      - 2020年シーズンは[新型コロナウイルスによる影響により開幕直後は無観客試合で行われることが決定しており](../Page/2019年コロナウイルス感染症による社会・経済的影響.md "wikilink")、これを受けて無観客試合の実況中継はタイトルを『ラジオを聴いてエールを送ろう\!徳島インディゴソックス戦中継』と変更して放送する。
 
 ## 脚注
 
 ## 関連項目
 
-  - [DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")（JRTテレビ）
+  - [DRAMATIC BASEBALL](https://ja.wikipedia.org/wiki/DRAMATIC_BASEBALL "wikilink")（JRTテレビ）
+
+## 関連リンク
+
+  - [JRTラジオ公式サイト](http://www.jrt.co.jp/radio/)（「特別番組」欄に徳島インディゴソックス戦の中継予定掲載あり）
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:四国放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:四国放送のラジオ番組 "wikilink") [Category:徳島ヴォルティス](https://ja.wikipedia.org/wiki/Category:徳島ヴォルティス "wikilink") [Category:徳島インディゴソックス](https://ja.wikipedia.org/wiki/Category:徳島インディゴソックス "wikilink")
 

@@ -64,5 +64,5 @@
 
 [Category:今井美樹のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:今井美樹のベスト・アルバム "wikilink") [Category:1989年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1989年のベスト・アルバム "wikilink") [Category:フォーライフ・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフ・レコードのアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [今井美樹ベストアルバム50万枚突破](http://web.archive.org/web/20010315021849/http://www.sanspo.com/enter/music/m0004/top2000042809.html)、SANSPO.COM、2000年4月27日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [今井美樹ベストアルバム50万枚突破](https://web.archive.org/web/20010315021849/http://www.sanspo.com/enter/music/m0004/top2000042809.html)、SANSPO.COM、2000年4月27日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  [Miki's Affections アンソロジー 1986-2011ライナーノーツより](https://ja.wikipedia.org/wiki/Miki's_Affections_アンソロジー_1986-2011 "wikilink")

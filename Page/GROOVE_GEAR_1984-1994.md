@@ -139,7 +139,7 @@
       - 作詞：小室みつ子　作曲：小室哲哉　編曲：[ピート・ハモンド](https://ja.wikipedia.org/wiki/ピート・ハモンド "wikilink")
     <!-- end list -->
       -
-        19thシングル。リミックスアルバム『[CLASSIX 1](../Page/TMN_CLASSIX.md "wikilink")』に収録されているバージョンだが、本作ではイントロが6秒ほど短くなっている。
+        19thシングル。リミックスアルバム『[CLASSIX 1](../Page/TMN_CLASSIX.md "wikilink")』に収録されているバージョンだが、本作ではイントロが6秒ほど短くなっている。これに関して「CLASSIX 1」では前曲（DIVE INTO YOUR BODY -extended 12' version mix-）と繋がっている関係があった為の処置である。
 2.  **[LOVE TRAIN](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")**
       - 作詞・作曲・編曲：小室哲哉
     <!-- end list -->

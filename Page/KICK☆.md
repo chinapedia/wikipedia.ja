@@ -1,7 +1,7 @@
 > この記事は[KICK☆](https://ja.wikipedia.org/wiki/KICK☆)から翻訳されています。
 
 
-**キック**（きっく、[1979年](../Page/1979年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のお笑い芸人。元・[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")社員（[2002年](../Page/2002年.md "wikilink") - [2003年](../Page/2003年.md "wikilink")）\[1\]。本名、**菊田 悠**（きくた ゆう）。
+**キック**（きっく、[1979年](../Page/1979年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")。元・[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")社員（[2002年](../Page/2002年.md "wikilink") - [2003年](../Page/2003年.md "wikilink")）\[1\]。本名、**菊田 悠**（きくた ゆう）。
 
 [東京都](../Page/東京都.md "wikilink")出身。[ホリプロコム](../Page/ホリプロコム.md "wikilink")所属を経てフリー。[桐朋中学校・高等学校](../Page/桐朋中学校・高等学校.md "wikilink")、[日本大学藝術学部](https://ja.wikipedia.org/wiki/日本大学藝術学部 "wikilink")写真学科卒業。
 
@@ -69,7 +69,7 @@
 
 フジテレビの社員だった頃、多忙と仕事のミスで疲労困憊になり、ある日起床したら2日も寝ていたため怒られる事を怖れて高級ホテルに2週間隠れていたが頭を丸め上司に謝罪して再び仕事をした。しかしお笑い芸人になるため退社をした。
 
-近年占い師としても活動しているがその的中率は同業者達にも驚くほど高いと評価されている。
+近年、[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")としても活動しているがその的中率は同業者達にも驚くほど高いと評価されている。
 
 ## 出演
 
@@ -146,7 +146,7 @@
 
 ## 連載
 
-  - [TOCANA](http://tocana.jp/)「芸人キックの第三の目で見るニュース」(2014年4月3日-)
+  - [TOCANA](https://tocana.jp/)「芸人キックの第三の目で見るニュース」(2014年4月3日-)
 
 ## 脚注
 
@@ -155,7 +155,7 @@
   - [公式プロフィール](http://com.horipro.co.jp/talent/キック/index.html)
   - [キックオフィシャルブログ『チャランボ日記 ※チャランボとは日本語で膝げりの意。』](https://ameblo.jp/kickhoshi)
 
-[Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink") [Category:GyaOジョッキー](https://ja.wikipedia.org/wiki/Category:GyaOジョッキー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ムエタイ](https://ja.wikipedia.org/wiki/Category:ムエタイ "wikilink") [Category:フジテレビの人物](https://ja.wikipedia.org/wiki/Category:フジテレビの人物 "wikilink") [Category:日本大学出身の人物](https://ja.wikipedia.org/wiki/Category:日本大学出身の人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ニコジョッキー](https://ja.wikipedia.org/wiki/Category:ニコジョッキー "wikilink")
+[Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:占い師](https://ja.wikipedia.org/wiki/Category:占い師 "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink") [Category:GyaOジョッキー](https://ja.wikipedia.org/wiki/Category:GyaOジョッキー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ムエタイ](https://ja.wikipedia.org/wiki/Category:ムエタイ "wikilink") [Category:フジテレビの人物](https://ja.wikipedia.org/wiki/Category:フジテレビの人物 "wikilink") [Category:日本大学出身の人物](https://ja.wikipedia.org/wiki/Category:日本大学出身の人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ニコジョッキー](https://ja.wikipedia.org/wiki/Category:ニコジョッキー "wikilink")
 
 1.
 2.

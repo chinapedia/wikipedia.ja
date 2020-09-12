@@ -36,6 +36,7 @@
 
 ## 外部リンク
 
-  - [AABニュース](http://www.aab-tv.co.jp/news/aab_shownews.php)
+  - [AABニュース](https://www.aab-tv.co.jp/news/) - 秋田朝日放送
+  - [Yahoo\!ニュース 秋田朝日放送](https://news.yahoo.co.jp/media/aab)
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:秋田朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:秋田朝日放送のテレビ番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:600ステーション・530ステーション](https://ja.wikipedia.org/wiki/Category:600ステーション・530ステーション "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

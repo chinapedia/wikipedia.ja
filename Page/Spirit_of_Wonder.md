@@ -32,11 +32,11 @@
 
 :\*脚本：[島田満](../Page/島田満.md "wikilink")
 
-:\*設定：[西村博之](https://ja.wikipedia.org/wiki/西村博之 "wikilink")、[梅谷敏久](https://ja.wikipedia.org/wiki/梅谷敏久 "wikilink")
+:\*設定：[西村博之](../Page/西村博之_\(イラストレーター\).md "wikilink")、[梅谷敏久](https://ja.wikipedia.org/wiki/梅谷敏久 "wikilink")
 
 :\*キャラクターデザイン・作画監督：[柳田義明](../Page/柳田義明.md "wikilink")
 
-:\*原画：[西村博之](https://ja.wikipedia.org/wiki/西村博之 "wikilink")、[梅谷敏久](https://ja.wikipedia.org/wiki/梅谷敏久 "wikilink")、[柴田晃宏](https://ja.wikipedia.org/wiki/柴田晃宏 "wikilink")、[藤森雅也](../Page/藤森雅也.md "wikilink")、[江口摩吏介](https://ja.wikipedia.org/wiki/江口摩吏介 "wikilink")、[村田充範](https://ja.wikipedia.org/wiki/村田充範 "wikilink")、[高倉佳彦](https://ja.wikipedia.org/wiki/高倉佳彦 "wikilink")、[斎藤哲人](https://ja.wikipedia.org/wiki/斎藤哲人 "wikilink")、[吉野高夫](https://ja.wikipedia.org/wiki/吉野高夫 "wikilink")、[藤川太](https://ja.wikipedia.org/wiki/藤川太_\(アニメーター\) "wikilink")、[大原泰志](https://ja.wikipedia.org/wiki/大原泰志 "wikilink")
+:\*原画：[西村博之](../Page/西村博之_\(イラストレーター\).md "wikilink")、[梅谷敏久](https://ja.wikipedia.org/wiki/梅谷敏久 "wikilink")、[柴田晃宏](https://ja.wikipedia.org/wiki/柴田晃宏 "wikilink")、[藤森雅也](../Page/藤森雅也.md "wikilink")、[江口摩吏介](https://ja.wikipedia.org/wiki/江口摩吏介 "wikilink")、[村田充範](https://ja.wikipedia.org/wiki/村田充範 "wikilink")、[高倉佳彦](https://ja.wikipedia.org/wiki/高倉佳彦 "wikilink")、[斎藤哲人](https://ja.wikipedia.org/wiki/斎藤哲人 "wikilink")、[吉野高夫](https://ja.wikipedia.org/wiki/吉野高夫 "wikilink")、[藤川太](https://ja.wikipedia.org/wiki/藤川太_\(アニメーター\) "wikilink")、[大原泰志](https://ja.wikipedia.org/wiki/大原泰志 "wikilink")
 
 :\*原画協力：[めがてんスタジオ](https://ja.wikipedia.org/wiki/めがてんスタジオ "wikilink")
 
@@ -76,7 +76,7 @@
 
 :\*メカ設定：[楠部工](../Page/楠部工.md "wikilink")
 
-:\*原画：[木村文代](https://ja.wikipedia.org/wiki/木村文代 "wikilink")、[川口博史](../Page/川口博史.md "wikilink")、[中村裕之](https://ja.wikipedia.org/wiki/中村裕之 "wikilink")、[千葉ゆみ](https://ja.wikipedia.org/wiki/千葉ゆみ "wikilink")、[加納みずほ](https://ja.wikipedia.org/wiki/加納みずほ "wikilink")、[大杉宣弘](https://ja.wikipedia.org/wiki/大杉宣弘 "wikilink")、[津幡佳明](https://ja.wikipedia.org/wiki/津幡佳明 "wikilink")、[中原久史](https://ja.wikipedia.org/wiki/中原久史 "wikilink")、[佐藤卓志](https://ja.wikipedia.org/wiki/佐藤卓志 "wikilink")、[浅井義之](https://ja.wikipedia.org/wiki/浅井義之 "wikilink")、[関根昌之](../Page/関根昌之.md "wikilink")、[船越英之](../Page/船越英之.md "wikilink")
+:\*原画：[木村文代](https://ja.wikipedia.org/wiki/木村文代 "wikilink")、[川口博史](../Page/川口博史.md "wikilink")、[中村裕之](https://ja.wikipedia.org/wiki/中村裕之 "wikilink")、[千葉ゆみ](https://ja.wikipedia.org/wiki/千葉ゆみ "wikilink")、[加納みずほ](https://ja.wikipedia.org/wiki/加納みずほ "wikilink")、[大杉宜弘](https://ja.wikipedia.org/wiki/大杉宜弘 "wikilink")、[津幡佳明](https://ja.wikipedia.org/wiki/津幡佳明 "wikilink")、[中原久史](https://ja.wikipedia.org/wiki/中原久史 "wikilink")、[佐藤卓志](https://ja.wikipedia.org/wiki/佐藤卓志 "wikilink")、[浅井義之](https://ja.wikipedia.org/wiki/浅井義之 "wikilink")、[関根昌之](../Page/関根昌之.md "wikilink")、[船越英之](../Page/船越英之.md "wikilink")
 
 :\*色彩設定・色指定：[長谷川一美](https://ja.wikipedia.org/wiki/長谷川一美 "wikilink")
 
@@ -118,7 +118,7 @@
 
 :\*メカ設定：[柴田外郎](https://ja.wikipedia.org/wiki/柴田外郎 "wikilink")
 
-:\*原画：川口博史、中村裕之、[本山浩司](https://ja.wikipedia.org/wiki/本山浩司 "wikilink")、[柴田外郎](https://ja.wikipedia.org/wiki/柴田外郎 "wikilink")、[鷲田敏弥](https://ja.wikipedia.org/wiki/鷲田敏弥 "wikilink")、[島田英明](https://ja.wikipedia.org/wiki/島田英明 "wikilink")、[津幡佳明](https://ja.wikipedia.org/wiki/津幡佳明 "wikilink")、中原久史、佐藤卓志、[才木康寛](https://ja.wikipedia.org/wiki/才木康寛 "wikilink")、[赤尾良太郎](https://ja.wikipedia.org/wiki/赤尾良太郎 "wikilink")、[谷口繁則](https://ja.wikipedia.org/wiki/谷口繁則 "wikilink")、[佐々木淳子](../Page/佐々木淳子.md "wikilink")、[東美帆](https://ja.wikipedia.org/wiki/東美帆 "wikilink")、[浅野文彰](https://ja.wikipedia.org/wiki/浅野文彰 "wikilink")、[大杉宣弘](https://ja.wikipedia.org/wiki/大杉宣弘 "wikilink")、[六崎光幸](https://ja.wikipedia.org/wiki/六崎光幸 "wikilink")、[関根昌之](../Page/関根昌之.md "wikilink")、[浅井義之](https://ja.wikipedia.org/wiki/浅井義之 "wikilink")、[石川武文](https://ja.wikipedia.org/wiki/石川武文 "wikilink")、[興石暁](https://ja.wikipedia.org/wiki/興石暁 "wikilink")、[田村晃](https://ja.wikipedia.org/wiki/田村晃 "wikilink")、[高橋祐一](https://ja.wikipedia.org/wiki/高橋祐一 "wikilink")
+:\*原画：川口博史、中村裕之、[本山浩司](https://ja.wikipedia.org/wiki/本山浩司 "wikilink")、[柴田外郎](https://ja.wikipedia.org/wiki/柴田外郎 "wikilink")、[鷲田敏弥](https://ja.wikipedia.org/wiki/鷲田敏弥 "wikilink")、[島田英明](https://ja.wikipedia.org/wiki/島田英明 "wikilink")、[津幡佳明](https://ja.wikipedia.org/wiki/津幡佳明 "wikilink")、中原久史、佐藤卓志、[才木康寛](https://ja.wikipedia.org/wiki/才木康寛 "wikilink")、[赤尾良太郎](https://ja.wikipedia.org/wiki/赤尾良太郎 "wikilink")、[谷口繁則](https://ja.wikipedia.org/wiki/谷口繁則 "wikilink")、[佐々木淳子](../Page/佐々木淳子.md "wikilink")、[東美帆](https://ja.wikipedia.org/wiki/東美帆 "wikilink")、[浅野文彰](https://ja.wikipedia.org/wiki/浅野文彰 "wikilink")、[大杉宜弘](https://ja.wikipedia.org/wiki/大杉宜弘 "wikilink")、[六崎光幸](https://ja.wikipedia.org/wiki/六崎光幸 "wikilink")、[関根昌之](../Page/関根昌之.md "wikilink")、[浅井義之](https://ja.wikipedia.org/wiki/浅井義之 "wikilink")、[石川武文](https://ja.wikipedia.org/wiki/石川武文 "wikilink")、[興石暁](https://ja.wikipedia.org/wiki/興石暁 "wikilink")、[田村晃](https://ja.wikipedia.org/wiki/田村晃 "wikilink")、[高橋祐一](https://ja.wikipedia.org/wiki/高橋祐一 "wikilink")
 
 :\*レイアウト協力：[児山昌弘](https://ja.wikipedia.org/wiki/児山昌弘 "wikilink")、[中山大介](https://ja.wikipedia.org/wiki/中山大介 "wikilink")
 
@@ -255,4 +255,4 @@
 
   - [Spirit of Wonder -WONDER BOX-](http://www.bandaivisual.co.jp/sow/)（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")）
 
-[Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:モーニングの漫画作品](https://ja.wikipedia.org/wiki/Category:モーニングの漫画作品 "wikilink") [Category:月刊アフタヌーン](https://ja.wikipedia.org/wiki/Category:月刊アフタヌーン "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:1992年のOVA](https://ja.wikipedia.org/wiki/Category:1992年のOVA "wikilink") [Category:2001年のOVA](https://ja.wikipedia.org/wiki/Category:2001年のOVA "wikilink") [Category:2004年のOVA](https://ja.wikipedia.org/wiki/Category:2004年のOVA "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:亜細亜堂](https://ja.wikipedia.org/wiki/Category:亜細亜堂 "wikilink") [Category:ガイナックス](https://ja.wikipedia.org/wiki/Category:ガイナックス "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:モーニングKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:モーニングKCのアニメ作品 "wikilink")
+[Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink") [Category:1986年の漫画](https://ja.wikipedia.org/wiki/Category:1986年の漫画 "wikilink") [Category:モーニングの漫画作品](https://ja.wikipedia.org/wiki/Category:モーニングの漫画作品 "wikilink") [Category:月刊アフタヌーン](https://ja.wikipedia.org/wiki/Category:月刊アフタヌーン "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:1992年のOVA](https://ja.wikipedia.org/wiki/Category:1992年のOVA "wikilink") [Category:2001年のOVA](https://ja.wikipedia.org/wiki/Category:2001年のOVA "wikilink") [Category:2004年のOVA](https://ja.wikipedia.org/wiki/Category:2004年のOVA "wikilink") [Category:亜細亜堂](https://ja.wikipedia.org/wiki/Category:亜細亜堂 "wikilink") [Category:ガイナックス](https://ja.wikipedia.org/wiki/Category:ガイナックス "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:モーニングKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:モーニングKCのアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink")

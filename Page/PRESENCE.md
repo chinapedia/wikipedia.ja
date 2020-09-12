@@ -13,7 +13,7 @@
 
 1989年11月9日、[MZA有明](https://ja.wikipedia.org/wiki/MZA有明 "wikilink")でのラストライヴを行い解散。
 
-2006年11月、BAHAMAが閉店することになり再結成、11月3日[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")、11月11日・12日BAHAMAにてライブを行なう。
+2006年11月、BAHAMAが閉店することになり再結成、11月3日[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")、11月11日・12日BAHAMAにてライブを行なう。
 
 2015年3月18日リリースのソングブック『イタズラなKiss Songs』に参加のためメンバーが再集結し、書き下ろし新曲「ANGEL RUSH ～再会の唄～」を収録\[1\]。
 

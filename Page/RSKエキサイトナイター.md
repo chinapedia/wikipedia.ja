@@ -1,17 +1,17 @@
 > この記事は[RSKエキサイトナイター](https://ja.wikipedia.org/wiki/RSKエキサイトナイター)から翻訳されています。
 
 
-**RSKエキサイトナイター**（アールエスケーエキサイトナイター）は[RSK山陽放送ラジオのナイター中継](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")。
+**RSKエキサイトナイター**（アールエスケーエキサイトナイター）は[RSKラジオ](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")のナイター中継。
 
 ## 概要
 
-全国向けに制作されている[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")主体のカードを主に放送している。そのため、隣県の[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦中継専門の[中国放送](../Page/中国放送.md "wikilink")（RCC）や、[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の[ABCラジオや](../Page/朝日放送ラジオ.md "wikilink")[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")と放送内容がかち合うことが少ない（ただ、[ラジオ関西](../Page/ラジオ関西.md "wikilink")とかち合うことはある。同様の例が[山口放送](../Page/山口放送.md "wikilink")の[KRYエキサイトナイター](../Page/KRYエキサイトナイター.md "wikilink")）。
+全国向けに制作されている[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")主体のカードを主に放送している。そのため、隣県の[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦中継専門の[中国放送](../Page/中国放送.md "wikilink")や、[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")や[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")と放送内容がかち合うことが少ない（ただ、[ラジオ関西](../Page/ラジオ関西.md "wikilink")とかち合うことはある。同様の例が[山口放送](../Page/山口放送.md "wikilink")の[KRYエキサイトナイター](../Page/KRYエキサイトナイター.md "wikilink")）。
 
-なお、[倉敷マスカットスタジアム](https://ja.wikipedia.org/wiki/倉敷マスカットスタジアム "wikilink")（過去には[岡山県野球場](../Page/岡山県野球場.md "wikilink")）で阪神タイガースが主催試合を行うことがあるが、岡山県内にABCやMBSを直接受信できる地域が多いことや、2012年以前は[山陽新聞社](https://ja.wikipedia.org/wiki/山陽新聞社 "wikilink")以外の新聞社が主催していたため、全国放送カードにならない限り、RSKラジオでの当該カードの差し替え放送は行っていない。
+なお、[倉敷マスカットスタジアム](https://ja.wikipedia.org/wiki/倉敷マスカットスタジアム "wikilink")（過去には[岡山県野球場](../Page/岡山県野球場.md "wikilink")）で阪神タイガースが主催試合を行うことがあるが、岡山県内に朝日放送ラジオやMBSラジオを直接受信できる地域が多いことや、2012年以前は[山陽新聞社](https://ja.wikipedia.org/wiki/山陽新聞社 "wikilink")以外の新聞社が主催していたため、全国放送カードにならない限り、RSKラジオでの当該カードの差し替え放送は行っていない。
 
-過去に同球場で行われた広島東洋カープ主催の試合は山陽新聞社が主催していたが、全国放送カードを優先した年度と、特別にRCCからネット受けした年度とがあった。
+過去に同球場で行われた広島東洋カープ主催の試合は山陽新聞社が主催していたが、全国放送カードを優先した年度と、特別に中国放送からネット受けした年度があった。
 
-読売ジャイアンツが同球場で主催ゲームを行う場合は、平日開催時は全国ネット本番となることが多いため、巨人戦中継の放送権料を節減する関係で他カード（LF=主にヤクルト主催、TBS＝主にDeNA・阪神・中日主催。まれに広島主催も）を本番としない限り、ネットされる機会が多い。
+読売ジャイアンツが同球場で主催ゲームを行う場合は、平日開催時は全国ネット本番となることが多いため、巨人戦中継の放送権料を節減する関係で他カード（ニッポン放送=ヤクルト主催、TBSラジオ=DeNA・阪神・中日主催。まれに広島主催も）を本番としない限り、ネットされる機会が多い。
 
 現在のタイトルに改題される以前は、『**RSKラジオナイター**（アールエスケイラジオナイター）』というタイトルで放送していた（現タイトルに改題された時期については不明）。
 
@@ -23,24 +23,24 @@
 
 なお、[2009年](../Page/2009年.md "wikilink")までは土曜・日曜もJRNナイターを放送していたが、原則廃止となったことを受けてRSKでの週末ナイターの放送も[日本シリーズを除いて休止となった](../Page/日本選手権シリーズ.md "wikilink")。
 
-放送時間は18:00から最大延長の場合2009年までは23:00までだったが、2010年以降は22:00に変更された。RSKの新編成により2015年度は18:20から21:50までの放送となる。
+放送時間は18:00から最大延長の場合2009年までは23:00までだったが、2010年以降は22:00に変更された。RSKラジオの新編成により2015年度は18:20から21:50までの放送となる。
 
-2017年までは火曜日にも放送されていたが、TBSが2017年限りでプロ野球中継関連の業務から撤退したため、2018年から火曜日の中継を廃止。廃止後は、「[アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")」の同時ネットを実施する。
+2017年までは火曜日にも放送されていたが、TBSが2017年限りでプロ野球中継関連の業務から撤退したため、2018年から火曜日の中継を終了。終了後は、「[アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")」の同時ネットを実施する。
 
-日本シリーズ中継は、2010年以降も土・日開催分はJRNラインでネットする。それ以外はレギュラーシーズンと同じだが、NRN受けの第4・5戦のうち片方が関東発の場合文化放送制作となり、関西発が第3戦のみMBS発でそれ以外の試合はABC発になっていた。2017年度限りで中継のネットを廃止している。
+日本シリーズ中継は、2010年以降も土・日開催分はJRNラインでネットする。それ以外はレギュラーシーズンと同じだが、NRN受けの第4・5戦のうち片方が関東発の場合文化放送制作となり、関西発が第3戦のみMBSラジオ発でそれ以外の試合は朝日放送ラジオ発になっていた。2017年度限りで中継のネットを廃止している。
 
-### 制作担当局（2017年時点）
+### 制作担当局（2018年から）
 
-| 地域（球団）／曜日                                                                                                                                                                                                                                                                                     | 火                                                                                                | 水                                            | 木   | 金 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------- | --- | - |
-| 基本系列                                                                                                                                                                                                                                                                                          | [JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")                              | [NRN](../Page/全国ラジオネットワーク.md "wikilink")     |     |   |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[日](../Page/北海道日本ハムファイターズ.md "wikilink")）                                                                                                                                                                                                 | [HBC](../Page/HBCファイターズナイター.md "wikilink")                                                       | [STV](../Page/STVファイターズLIVE.md "wikilink")   |     |   |
-| [宮城](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（[楽](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）                                                                                                                                                                              | [TBC](../Page/TBCパワフルベースボール.md "wikilink")                                                       |                                              |     |   |
-| [関東](../Page/広域放送.md "wikilink")（[巨](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")\[1\]・[横](../Page/横浜DeNAベイスターズ.md "wikilink")・[西](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")・[ロ](../Page/千葉ロッテマリーンズ.md "wikilink")） | [TBS](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")/[RF](../Page/ラジオ日本ジャイアンツナイター.md "wikilink")\[2\] | [LF](../Page/ニッポン放送ショウアップナイター.md "wikilink") |     |   |
-| [東海](../Page/広域放送.md "wikilink")（[中](../Page/中日ドラゴンズ.md "wikilink")）                                                                                                                                                                                                                          | [CBC](../Page/CBCドラゴンズナイター.md "wikilink")                                                        | [SF](../Page/東海ラジオ_ガッツナイター.md "wikilink")    |     |   |
-| [近畿](../Page/広域放送.md "wikilink")（[神](../Page/阪神タイガース.md "wikilink")・[オ](../Page/オリックス・バファローズ.md "wikilink")）                                                                                                                                                                                  | [ABC](../Page/ABCフレッシュアップベースボール.md "wikilink")                                                   | [MBS](../Page/MBSベースボールパーク.md "wikilink")    | ABC |   |
-| [広島](../Page/広島県.md "wikilink")（[広](../Page/広島東洋カープ.md "wikilink")）                                                                                                                                                                                                                           | [RCC](../Page/RCCカープナイター.md "wikilink")                                                          |                                              |     |   |
-| [福岡](../Page/福岡県.md "wikilink")（[ソ](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）                                                                                                                                                                                                   | [RKB](../Page/RKBエキサイトホークス.md "wikilink")                                                        | [KBC](../Page/KBCホークスナイター.md "wikilink")     |     |   |
+| 地域（球団）／曜日                                                                                                                                                                                                                                                                                     | 水                                            | 木                                              | 金 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------- | - |
+| 基本系列                                                                                                                                                                                                                                                                                          | [NRN](../Page/全国ラジオネットワーク.md "wikilink")     |                                                |   |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[日](../Page/北海道日本ハムファイターズ.md "wikilink")）                                                                                                                                                                                                 | [STV](../Page/STVファイターズLIVE.md "wikilink")   |                                                |   |
+| [宮城](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（[楽](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）                                                                                                                                                                              | [TBC](../Page/TBCパワフルベースボール.md "wikilink")   |                                                |   |
+| [関東](../Page/広域放送.md "wikilink")（[巨](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")\[1\]・[横](../Page/横浜DeNAベイスターズ.md "wikilink")・[西](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")・[ロ](../Page/千葉ロッテマリーンズ.md "wikilink")） | [LF](../Page/ニッポン放送ショウアップナイター.md "wikilink") |                                                |   |
+| [東海](../Page/広域放送.md "wikilink")（[中](../Page/中日ドラゴンズ.md "wikilink")）                                                                                                                                                                                                                          | [SF](../Page/東海ラジオ_ガッツナイター.md "wikilink")    |                                                |   |
+| [近畿](../Page/広域放送.md "wikilink")（[神](../Page/阪神タイガース.md "wikilink")・[オ](../Page/オリックス・バファローズ.md "wikilink")）                                                                                                                                                                                  | [MBS](../Page/MBSベースボールパーク.md "wikilink")    | [ABC](../Page/ABCフレッシュアップベースボール.md "wikilink") |   |
+| [広島](../Page/広島県.md "wikilink")（[広](../Page/広島東洋カープ.md "wikilink")）                                                                                                                                                                                                                           | [RCC](../Page/RCCカープナイター.md "wikilink")      |                                                |   |
+| [福岡](../Page/福岡県.md "wikilink")（[ソ](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）                                                                                                                                                                                                   | [KBC](../Page/KBCホークスナイター.md "wikilink")     |                                                |   |
 
 <references group="*" />
 
@@ -52,11 +52,10 @@
 
 ## 関連項目
 
-  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（RSKテレビのプロ野球中継タイトル）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（RSKテレビのプロ野球中継タイトル）
   - [エキサイトナイター](https://ja.wikipedia.org/wiki/エキサイトナイター "wikilink")
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:RSK山陽放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:RSK山陽放送のラジオ番組 "wikilink")
 
-1.  JRN（TBSラジオ）ネットの時は東京ヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")。JRNに放送権のあった1978年までと、巨人と大洋→横浜の対戦時の裏カードに限定されて解放された1992年 - 2001年には中継を実施）。
-2.  2016年より巨人主催ゲームの一部で[RFラジオ日本制作中継をJRNナイターとして放送している](../Page/アール・エフ・ラジオ日本.md "wikilink")。
+1.  2017年までのJRN（TBSラジオ）ネット時代は東京ヤクルト主催ゲームの中継はなし（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")。JRNに放送権のあった1978年までと、巨人と大洋→横浜の対戦時の裏カードに限定されて解放された1992年 - 2001年には中継を実施）。

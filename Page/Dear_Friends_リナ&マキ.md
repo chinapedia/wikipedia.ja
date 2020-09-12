@@ -76,7 +76,7 @@
   - 脚本：両沢和幸、[三浦有為子](https://ja.wikipedia.org/wiki/三浦有為子 "wikilink")
   - 音楽：[藤原いくろう](../Page/藤原いくろう.md "wikilink")
   - 主題歌：[SOULHEAD](../Page/SOULHEAD.md "wikilink")「Dear Friends」
-  - 挿入歌：[今日の日はさようなら](../Page/今日の日はさようなら.md "wikilink") （作詞・作曲 [金子詔一](https://ja.wikipedia.org/wiki/金子詔一 "wikilink")）
+  - 挿入歌：[今日の日はさようなら](../Page/今日の日はさようなら.md "wikilink") （作詞・作曲 [金子詔一](../Page/金子詔一.md "wikilink")）
   - 製作プロダクション：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
   - 製作：「Dear Friends」製作委員会（[東映](../Page/東映.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")、[星光堂](https://ja.wikipedia.org/wiki/星光堂 "wikilink")、ビッグショット、[スターダストピクチャーズ](../Page/スターダストピクチャーズ.md "wikilink")、ダブルス）
   - 配給：東映

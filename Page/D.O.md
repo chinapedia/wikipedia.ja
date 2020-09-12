@@ -1,31 +1,22 @@
 > この記事は[D.O](https://ja.wikipedia.org/wiki/D.O)から翻訳されています。
 
 
-**D.O**(ディー・オー、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - )は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")在住。[練マザファッカー](https://ja.wikipedia.org/wiki/練マザファッカー "wikilink")の元リーダー。本名は君塚 慈容（きみづか しげやす）、旧姓は須藤（すどう）。
-
-## 人物
-
-3つ編みにサングラスを掛け、全身に入った刺青と云う特殊な風貌と、上ずった鼻声でのラップを組み合わせた奇怪なキャラクター設定で、音楽活動を行う。雷ではサイドMC的な役割を担っている。
-
-  - 東京都練馬区[大泉学園](https://ja.wikipedia.org/wiki/大泉学園 "wikilink")を溺愛しており、地元で老舗の個人経営レストランである[サンロイヤル](http://tabelog.com/tokyo/A1321/A132103/13041861/)は子供の頃から常連客として通っている。\[1\]
+**D.O**(ディー・オー、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月3日](../Page/7月3日.md "wikilink") - )は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")在住。[練マザファッカー](https://ja.wikipedia.org/wiki/練マザファッカー "wikilink")の元リーダー。本名は君塚 慈容（きみづか しげやす）、旧姓は須藤（すどう）。3つ編みにサングラスを掛け、全身に入った刺青と云う特殊な風貌と、上ずった鼻声でのラップを組み合わせた奇怪なキャラクター設定で、音楽活動を行う。雷ではサイドMC的な役割を担っている。東京都練馬区[大泉学園](https://ja.wikipedia.org/wiki/大泉学園 "wikilink")を溺愛しており、地元で老舗の個人経営レストランであったサンロイヤル\[1\]に、子供の頃から常連客として通っていた\[2\]。
 
 ## 略歴
 
-  - 2006年、初のソロアルバム『JUST HUSTLIN' NOW』をリリース。
-  - 2007年、[TBSのバラエティー番組](../Page/TBSテレビ.md "wikilink")『[リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")』内のコーナー「ウルリン滞在記」に出演、[中川剛にラップを指南した](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")。語尾に「メ〜ン」をつける独特のしゃべり方が話題を呼んだ。
-  - 同年、「ジャパニーズ・レゲエやHIPHOPの各界における実力者・注目株が、[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")の名の下に大集合」という名目の音楽プロジェクトSETAGAYA MUSIC BASEに卍LINE（[窪塚洋介](../Page/窪塚洋介.md "wikilink")）、[山本"KID"徳郁らと共に参加](../Page/山本徳郁.md "wikilink")\[2\]。
-  - 2009年、不祥事を起こし、予定されていた2ndアルバムの発売が中止になる（[後述](https://ja.wikipedia.org/wiki/#事件 "wikilink")）。
-  - 2010年9月8日、ソロ活動再開のシングルとして、『I'm Back』を発売。
-  - 2011年1月19日、約4年振りのアルバム『ネリル\&JO』を発売。
-  - 2012年9月5日、BOOT STREET限定でMIX CD『THE STREET OF DOGG』を発売。
-
-## 犯罪・逮捕歴
-
-2009年2月4日、[コカイン](../Page/コカイン.md "wikilink")を所持・使用したとして[麻薬取締法](https://ja.wikipedia.org/wiki/麻薬取締法 "wikilink")違反の容疑で逮捕された。練マザファッカーのメンバーがCDショップ店舗にて[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")を売り逮捕された事件に関連し、1月30日にD.Officeの事務所に[家宅捜索](https://ja.wikipedia.org/wiki/家宅捜索 "wikilink")が入り[若麒麟真一とD](../Page/鈴川真一.md "wikilink").Office社員で練マザファッカーのメンバーであるPIT GObが逮捕された際、自身も後から現場に現れ、定期入れの中に微量のコカインを所持しており、「我慢できなかったんスよ、勘弁してくださいよお巡りさん・・・」と供述したための逮捕された。同年4月20日、この事件で、懲役1年・執行猶予3年の有罪判決が言い渡された。
-
-この逮捕に関連し、同年2月5日には、翌週の2月11日に発売が予定されていた2ndアルバム『JUST BALLIN' NOW』の発売中止が発表され、[エイベックスは](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、D.Oが参加している全ての楽曲を配信停止した\[3\]。2008年10月に発表された又吉\&D.Oのアルバム『なめんなよ』の発売および配信も中止され、3月18日にリリースされる[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")の日本武道館ライブDVD『ZEEBRA 20th ANNIVERSARY THE LIVE ANIMAL in 武道館』は、D.Oの出演シーンを編集でカットしてリリースされる\[4\]。
-
-2018年には乾燥大麻やコカインなど数百グラムを所持していた容疑で再び逮捕され\[5\]、懲役三年の実刑判決が確定した\[6\]。
+  - [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、初のソロアルバム『JUST HUSTLIN' NOW』をリリース。
+  - [2007年](../Page/2007年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")、[TBSのバラエティー番組](../Page/TBSテレビ.md "wikilink")『[リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")』内のコーナー「ウルリン滞在記」に出演、[中川剛にラップを指南した](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")。語尾に「メ〜ン」をつける独特のしゃべり方が話題を呼んだ\[3\]。
+  - [2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")、「ジャパニーズ・レゲエやHIPHOPの各界における実力者・注目株が、[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")の名の下に大集合」という名目の音楽プロジェクトSETAGAYA MUSIC BASEに卍LINE（[窪塚洋介](../Page/窪塚洋介.md "wikilink")）、[山本"KID"徳郁らと共に参加](../Page/山本徳郁.md "wikilink")\[4\]。
+  - [2009年](../Page/2009年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")、[コカイン](../Page/コカイン.md "wikilink")を所持・使用したとして[麻薬及び向精神薬取締法](../Page/麻薬及び向精神薬取締法.md "wikilink")違反の容疑で逮捕された。練マザファッカーのメンバーがCDショップ店舗にて[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")を売り逮捕された事件に関連し、[1月30日](../Page/1月30日.md "wikilink")に[D.Office](https://ja.wikipedia.org/wiki/D.Office "wikilink")の事務所に[家宅捜索](https://ja.wikipedia.org/wiki/家宅捜索 "wikilink")が入り[若麒麟真一とD](../Page/鈴川真一.md "wikilink").Office社員で練マザファッカーのメンバーであるPIT GObが逮捕された際、自身も後から現場に現れ、定期入れの中に微量のコカインを所持しており、「我慢できなかったんスよ、勘弁してくださいよお巡りさん・・・」と供述したため逮捕された。
+  - [2009年](../Page/2009年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")、翌週の[2月11日](../Page/2月11日.md "wikilink")に発売が予定されていた2ndアルバム『JUST BALLIN' NOW』の発売中止が発表され、[エイベックスは](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、D.Oが参加している全ての楽曲を配信停止した\[5\]。2008年10月に発表された又吉\&D.Oのアルバム『なめんなよ』の発売および配信も中止。
+  - [2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")の日本武道館ライブDVD『ZEEBRA 20th ANNIVERSARY THE LIVE ANIMAL in 武道館』は、D.Oの出演シーンを編集によってカットしてリリースされた\[6\]。
+  - [2009年](../Page/2009年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、懲役1年・執行猶予3年の有罪判決が言い渡された。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")、ソロ活動再開のシングルとして、『I'm Back』を発売。
+  - [2011年](../Page/2011年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")、約4年振りのアルバム『ネリル\&JO』を発売。
+  - [2012年](../Page/2012年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")、BOOT STREET限定でMIX CD『THE STREET OF DOGG』を発売。
+  - [2018年](../Page/2018年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")、乾燥大麻や[コカイン](../Page/コカイン.md "wikilink")など数百グラムを所持していた容疑で再び逮捕\[7\]。
+  - [2019年](../Page/2019年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、懲役3年の実刑判決が確定したため、11月からは服役することが明らかになった\[8\]。
 
 ## ディスコグラフィー
 
@@ -628,7 +619,7 @@
 
 ## 著書
 
-  - 悪党の詩 D.O自伝（2019年9月、[彩図社](../Page/彩図社.md "wikilink")）\[7\]
+  - 悪党の詩 D.O自伝\[9\] 彩図社 2019年
 
 ## 出演
 
@@ -645,6 +636,8 @@
 
   - 『[エクステ専門](../Page/ヘアーエクステンション.md "wikilink")・女性専用[美容室](../Page/美容所.md "wikilink") Extentions （エクステンションズ）』（2008年） [松本莉緒](../Page/松本莉緒.md "wikilink")と共演
 
+## 脚注
+
 ## 関連項目
 
   - [ツインテール](../Page/ツインテール.md "wikilink")
@@ -654,14 +647,14 @@
 
   - [漢たちとおさんぽ](https://freshlive.tv/9sari)
 
-## 脚注・出典
-
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  [BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink") 第109回「バズーカゆかりの人に聞く流行予想2015」（2015年1月12日放送）より
-2.  [SETAGAYA MUSIC BASE](http://avexnet.jp/id/sgmbx/discography/product/AVCD-23470.html) - avex network
-3.  [D.Oに関する報道について](http://cache.avex.jp/static/090205/index.html) - avex network
-4.  [練マザD.O逮捕でソロアルバムほか発売中止](http://natalie.mu/news/show/id/13172) - ナタリー
-5.
-6.
+1.
+2.  [BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink") 第109回「バズーカゆかりの人に聞く流行予想2015」（2015年1月12日放送）より
+3.
+4.
+5.  [D.Oに関する報道について](http://cache.avex.jp/static/090205/index.html) - avex network
+6.  [練マザD.O逮捕でソロアルバムほか発売中止](http://natalie.mu/news/show/id/13172) - ナタリー
 7.
+8.
+9.

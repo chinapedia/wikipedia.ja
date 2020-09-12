@@ -1,27 +1,27 @@
 > この記事は[CRAVING](https://ja.wikipedia.org/wiki/CRAVING)から翻訳されています。
 
 
-『**CRAVING**』（クレイヴィン）は、[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")にリリースされた[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の1stアルバム。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")。
+『**CRAVING**』（クレイヴィン）は、[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")にリリースされた[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の1枚目のアルバム。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")。
 
 ## 概要
 
-オリコン最高位10位にランクインし、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の作品ではシングル、アルバムを通じて初のトップ10入りを果たした。累計売上は7.6万枚を記録\[1\]。収録曲「[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")」は後にシングルカットされた。「UNTOUCHABLE GIRLS」は[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の9thシングル「[THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink")」のカップリング曲「アンタッチャブルGirls」のカバー。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
+オリコン最高位10位にランクインし、Fayrayの作品ではシングル、アルバムを通じて初のトップ10入りを果たした。累計売上は7.6万枚を記録\[1\]。収録曲「[Same night, Same face](../Page/Same_night,_Same_face.md "wikilink")」は後にシングルカットされた。「UNTOUCHABLE GIRLS」は[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の9thシングル「[THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink")」のカップリング曲「アンタッチャブルGirls」のカバー。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
 ## 収録曲
 
-1.  **in four～Love　Always，**
+1.  **in four〜Love　Always，**
       - 作曲/編曲：[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")
 2.  **[太陽のグラヴィティー](../Page/太陽のグラヴィティー.md "wikilink")**
       - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲/編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
 3.  **Neon Tetra**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
-4.  **[Daydream Cafe](../Page/Daydream_Cafe.md "wikilink")**
+4.  **[Daydream Café](../Page/Daydream_Café.md "wikilink")**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
 5.  **PURE WHITE**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
-6.  **[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")**
+6.  **[Same night, Same face](../Page/Same_night,_Same_face.md "wikilink")**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
-7.  **[YURA・YURA～Vibration](https://ja.wikipedia.org/wiki/YURA・YURA～Vibration "wikilink")**
+7.  **[YURA・YURA〜Vibration](../Page/YURA・YURA〜Vibration.md "wikilink")**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介　ブラスアレンジ：[数原晋](../Page/数原晋.md "wikilink")
 8.  **UNTOUCHABLE GIRLS**
       - 作詞：井上秋緒　作曲/編曲：浅倉大介
@@ -93,8 +93,6 @@
 
 ## 脚注
 
-<references/>
-
-[Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:アンティノスレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アンティノスレコードのアルバム "wikilink") [Category:Fayrayのアルバム](https://ja.wikipedia.org/wiki/Category:Fayrayのアルバム "wikilink")
+[Category:Fayrayのアルバム](https://ja.wikipedia.org/wiki/Category:Fayrayのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:アンティノスレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アンティノスレコードのアルバム "wikilink")
 
 1.

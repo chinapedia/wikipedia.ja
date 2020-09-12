@@ -1,7 +1,7 @@
 > この記事は[SBI大学院大学](https://ja.wikipedia.org/wiki/SBI大学院大学)から翻訳されています。
 
 
-[通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")の[大学院大学](../Page/大学院大学.md "wikilink")である。初代[学長](https://ja.wikipedia.org/wiki/学長 "wikilink")は[SBIホールディングス](../Page/SBIホールディングス.md "wikilink")代表取締役執行役員[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")の[北尾吉孝](../Page/北尾吉孝.md "wikilink")。
+[通信制の](../Page/通信教育.md "wikilink")[大学院大学](../Page/大学院大学.md "wikilink")である。初代[学長は](https://ja.wikipedia.org/wiki/校長#日本 "wikilink")[SBIホールディングス](../Page/SBIホールディングス.md "wikilink")代表取締役執行役員[CEOの](../Page/最高経営責任者.md "wikilink")[北尾吉孝](../Page/北尾吉孝.md "wikilink")。
 
 設置者は[学校法人SBI大学](https://ja.wikipedia.org/wiki/#運営法人 "wikilink")。申請者は「学校法人SBI大学設立準備委員会」。
 
@@ -48,7 +48,7 @@
 ### 研究科
 
   - [経営管理研究科](https://ja.wikipedia.org/wiki/経営管理研究科 "wikilink")
-      - [アントレプレナー](https://ja.wikipedia.org/wiki/アントレプレナー "wikilink")専攻（専門職学位課程）（通信教育）
+      - [アントレプレナー専攻](https://ja.wikipedia.org/wiki/起業家 "wikilink")（専門職学位課程）（通信教育）
 
 ## 運営法人
 
@@ -57,14 +57,14 @@
 <!-- end list -->
 
   - 法人概要
-      - 所在地：〒 00-6209　東京都千代田区丸の内1-11-1パシフィックセンチュリープレイス丸の内９F
+      - 所在地：〒100-6209 東京都千代田区丸の内1-11-1 パシフィックセンチュリープレイス丸の内9F
 
 ## 関係者
 
 ### 著名な教員
 
-  - 　[池田信夫](../Page/池田信夫.md "wikilink")
-  - 　[守屋洋](https://ja.wikipedia.org/wiki/守屋洋 "wikilink")
+  - [池田信夫](../Page/池田信夫.md "wikilink")
+  - [守屋洋](https://ja.wikipedia.org/wiki/守屋洋 "wikilink")
 
 ### 出身者
 

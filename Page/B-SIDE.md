@@ -89,6 +89,10 @@
       -
         14thシングル「ニシエヒガシエ」収録曲。
 
+## ライブ映像作品
+
+**フラジャイル** ** **旅人** ** **デルモ** ** **独り言** ** **Heavenly kiss** ** **1999年、夏、沖縄** ** **花** ** **妄想満月** ** **ひびき** **
+
 ## 脚注
 
 [Category:Mr.Childrenのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:Mr.Childrenのベスト・アルバム "wikilink") [Category:小林武史がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:小林武史がプロデュースしたアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:B面集](https://ja.wikipedia.org/wiki/Category:B面集 "wikilink")

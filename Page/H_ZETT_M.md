@@ -17,7 +17,7 @@
 
 ## 名義
 
-### ヒイズミマサユ機
+### ヒイズミマサユキ
 
 [PE'Z](../Page/PE'Z.md "wikilink")としての活動、及び他のアーティストをサポートする際に使用される。
 
@@ -35,13 +35,13 @@
 
 ### H ZETT Mとヒイズミマサユ機
 
-H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「**お友達**」\[8\]・「**知り合い**」であくまで**別人**だと主張し、同一人物だということをやんわりと否定している。そのため、お互いの作品を宣伝するときには「お友達（知り合い）のH ZETT Mくんが…」「お友達（知り合い）のヒイズミマサユ機くんが…」という言い方をする。また、東京事変時代のバンド名義「H是都M」を名乗っていたときには、まだ別人だという設定はなかった\[9\]ため、椎名林檎は[ROCKIN'ON JAPAN誌上でH](../Page/ROCKIN'ON_JAPAN.md "wikilink") ZETT Mのことを「ヒイズミ君が…」と発言している。インタビューでH ZETT Mが「ヒイズミという名前がファーストとしてあり、僕はセカンド。本当の自分は多分サード」と表現したこともある\[10\]。2012年7月のnicoradioでH ZETT Mが「ヒイズミマサユ機ははとこ、H是都Mはいとこ」と発言している。
+H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「**お友達**」\[8\]・「**知り合い**」であくまで**別人**だと主張し、同一人物だということをやんわりと否定している。そのため、お互いの作品を宣伝するときには「お友達（知り合い）のH ZETT Mくんが…」「お友達（知り合い）のヒイズミマサユ機くんが…」という言い方をする。また、東京事変時代のバンド名義「H是都M」を名乗っていたときには、まだ別人だという設定はなかった\[9\] ため、椎名林檎は[ROCKIN'ON JAPAN誌上でH](../Page/ROCKIN'ON_JAPAN.md "wikilink") ZETT Mのことを「ヒイズミ君が…」と発言している。インタビューでH ZETT Mが「ヒイズミという名前がファーストとしてあり、僕はセカンド。本当の自分は多分サード」と表現したこともある\[10\]。2012年7月のnicoradioでH ZETT Mが「ヒイズミマサユ機ははとこ、H是都Mはいとこ」と発言している。
 
 ## 来歴
 
 物心がつく前から自宅にあった[足踏みオルガン](https://ja.wikipedia.org/wiki/足踏みオルガン "wikilink")で遊んでいたが、4歳になって[ピアノ](../Page/ピアノ.md "wikilink")教室へ通うようになり、小学校の低学年の頃には自分で曲を作るようになる\[11\]。次に教室にあった[エレクトーン](../Page/エレクトーン.md "wikilink")に興味を持ち始め、頭の中で思い描いた音のイメージを具体的に再現できる[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")にも熱中するようになる\[12\]。
 
-1992年2月2日、中学2年生で「ジュニアエレクトーンフェスティバル'91」\[13\]全日本大会に関東甲信越地区から出場し、自作曲「ILLUSION」を演奏して中学生部門銅賞を受賞した\[14\]。
+1992年2月2日、中学2年生で「ジュニアエレクトーンフェスティバル'91」\[13\] 全日本大会に関東甲信越地区から出場し、自作曲「ILLUSION」を演奏して中学生部門銅賞を受賞した\[14\]。
 
 高校入試を経て音楽大学の付属高校に進学し、数少ない男子の中でクラシック以外の音楽も好きな人たちと意気投合してバンドを組み、ジャズやフュージョンを中心に演奏し、時々オリジナル曲もやるようになる\[15\]。
 
@@ -70,7 +70,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 <!-- end list -->
 
   - [7月18日](../Page/7月18日.md "wikilink")、新宿ロフトにてJIGHEADレコ発ライブにシークレットで出演する[東京事変](../Page/東京事変.md "wikilink")に**ヒーズミマサユ季**名義で参加する。
-  - [8月23日](../Page/8月23日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")実演ツアー「[雙六エクスタシー](../Page/Electric_Mole.md "wikilink")」\[17\]にバックバンド東京事変のメンバーとして出演する。
+  - [8月23日](../Page/8月23日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")実演ツアー「[雙六エクスタシー](../Page/Electric_Mole.md "wikilink")」\[17\] にバックバンド東京事変のメンバーとして出演する。
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
 <!-- end list -->
 
-  - [1月10日](../Page/1月10日.md "wikilink")、**H ZETT M**名義で1stアルバム『[5+2=11](https://ja.wikipedia.org/wiki/5+2=11 "wikilink")』を発売し、ソロとしてメジャーデビュー\[18\]する。
+  - [1月10日](../Page/1月10日.md "wikilink")、**H ZETT M**名義で1stアルバム『[5+2=11](https://ja.wikipedia.org/wiki/5+2=11 "wikilink")』を発売し、ソロとしてメジャーデビュー\[18\] する。
 
 <!-- end list -->
 
@@ -126,7 +126,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
   - [2月3日](../Page/2月3日.md "wikilink")、**H ZETT M**名義の活動を再開、DVD「**弾きまくりDESTROY**」を発売する。
   - 3月3日、3ピースバンドmimittoがH ZETT M初プロデュース作となるアルバム『3x3=10』をリリース。
   - [3月24日](../Page/3月24日.md "wikilink")、[ショパン](https://ja.wikipedia.org/wiki/ショパン "wikilink")生誕200周年記念企画の[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")『JAMMIN’ with CHOPIN 〜トリビュート・トゥ・ショパン〜』に『[ポロネーズ第3番イ長調Op.40-1「軍隊」](https://ja.wikipedia.org/wiki/ポロネーズ第3番_\(ショパン\) "wikilink")』の演奏で参加する。
-  - [6月10日](../Page/6月10日.md "wikilink")、パフォーマンス・シンセサイザーKORG PS60とコラボレーション[2](http://www.korg.co.jp/News/2010/0610/)。
+  - [6月10日](../Page/6月10日.md "wikilink")、パフォーマンス・シンセサイザーKORG PS60とコラボレーション [1](http://www.korg.co.jp/News/2010/0610/)。
   - [10月17日](../Page/10月17日.md "wikilink")、台湾でストリート・ゲリラライブを決行し、約1000人の現地観客を集める。その模様は[USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")で全世界に生配信された。
   - [11月1日](../Page/11月1日.md "wikilink")、[KORG](https://ja.wikipedia.org/wiki/KORG "wikilink")のシンセサイザー**PS60**とコラボしたアルバム『きらきら☆すたんだーど with PS60』を発売する。
 
@@ -138,7 +138,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 
   - 7月15日、台湾で初のホールワンマンライブを行う。
   - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、フジテレビ系列の音楽番組「[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")」にて[BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")と共演し、福山雅治の「桜坂」を演奏した\[20\]。
-  - [12月16日](../Page/12月16日.md "wikilink")、発売開始わずか1分で完売した初のピアノソロコンサート「ピアノ独演会2012」を[USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")で生放送\[21\]する。
+  - [12月16日](../Page/12月16日.md "wikilink")、発売開始わずか1分で完売した初のピアノソロコンサート「ピアノ独演会2012」を[USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")で生放送\[21\] する。
 
 <!-- end list -->
 
@@ -186,7 +186,7 @@ H ZETT Mとヒイズミマサユ機は同一人物であるが、設定上は「
 <!-- end list -->
 
   - 1月16日にヤマハミュージックメディアよりH ZETT Mピアノスコア第1弾発刊
-  - 8月21日（現地時間）に行われた[リオデジャネイロオリンピックの閉会式](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピックの閉会式 "wikilink")で、椎名林檎が音楽監督とスーパーバイザーを務めた[リオ五輪](https://ja.wikipedia.org/wiki/リオ五輪 "wikilink")から[東京五輪への](https://ja.wikipedia.org/wiki/2020年夏季オリンピック "wikilink")「[五輪旗の引き継ぎ式](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピックの閉会式#五輪旗の引き継ぎ式 "wikilink")」で流された映像の中で、[スーパーマリオがトンネルを通って](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")に向かうシーンまでのバックに、H ZETTRIOの楽曲が起用された\[29\]。
+  - 8月21日（現地時間）に行われた[2016年リオデジャネイロオリンピックの閉会式](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの閉会式 "wikilink")で、椎名林檎が音楽監督とスーパーバイザーを務めた[リオ五輪](https://ja.wikipedia.org/wiki/リオ五輪 "wikilink")から[東京五輪への](https://ja.wikipedia.org/wiki/2020年夏季オリンピック "wikilink")「[五輪旗の引き継ぎ式](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの閉会式#オリンピック旗授受 "wikilink")」で流された映像の中で、[スーパーマリオがトンネルを通って](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")に向かうシーンまでのバックに、H ZETTRIOの楽曲が起用された\[29\]。
   - 10月18日-11月17日、**ヒイズミマサユ機**が木村カエラの全国ツアー「KAELA presents PUNKY TOUR 2016-2017」の前半戦となるライブハウスツアー「STUDS TOUR supported by クラシエ naive」に参加。
   - 10月19日、**H ZETT M**が楽曲提供したナンバーを収録した木村カエラのアルバム『[PUNKY](https://ja.wikipedia.org/wiki/PUNKY "wikilink")』がリリース\[30\]。
   - 11月2日、**ヒイズミマサユ機**がゲストプレイヤーとして参加した[Nothing's Carved In Stoneのシングル](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")「Adventures」がリリース。15日には彼らのライブ「Live on Novemver 15th」にも出演。
@@ -1182,7 +1182,7 @@ OVERHEADSとコラボレーション</p>
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>グランドピアノ一台を基盤とした独演会。彼ならではの予想がつかないトリッキーな演奏スタイルを見せつけた。[38]<br />
-またその模様については<a href="https://ja.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a>のオフィシャルチャンネル[39]で視聴可能である。</p>
+またその模様については<a href="https://ja.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a>のオフィシャルチャンネル[39] で視聴可能である。</p>
 </div>
 </div></td>
 <td></td>
@@ -1480,7 +1480,7 @@ OVERHEADSとコラボレーション</p>
 5.
 6.
 7.
-8.  株式会社KORGホームページ SOUNDBYTES ヒイズミマサユ機(PE'Z)インタビュー[1](http://www.korg.co.jp/SoundMakeup/SoundBytes/HiizumiMasayuki/index.html)
+8.  [株式会社KORGホームページ SOUNDBYTES ヒイズミマサユ機(PE'Z)インタビュー](http://www.korg.co.jp/SoundMakeup/SoundBytes/HiizumiMasayuki/index.html)
 9.  映像作品『[Dynamite in](../Page/Dynamite_in.md "wikilink")』には、椎名が彼に話しかけたり呼びかけたりする時に「ヒイちゃん」や「ヒイズミ君」と言っている場面が収録されている。しかし、ライブ中の呼称はあくまでバンド名義の「H是都M」である。
 10.
 11.
@@ -1492,10 +1492,10 @@ OVERHEADSとコラボレーション</p>
 17. 全国10公演+追加1公演。
 18. キャッチフレーズは「*謎のピアノ絶叫マシーン*」。
 19.
-20. きくちPの音組収録日記[3](http://otogumi.fujitv.co.jp/lovekp/E20111023001.html)
-21. H ZETT M、初のピアノソロコンサートをUst生放送[4](http://www.musicman-net.com/artist/14055.html)
-22. きくちPの音組収録日記[5](http://otogumi.fujitv.co.jp/lovekp/E20120417001.html)
-23. きくちPの音組収録日記[6](http://otogumi.fujitv.co.jp/lovekp/E20121026002.html)
+20. [きくちPの音組収録日記](http://otogumi.fujitv.co.jp/lovekp/E20111023001.html)
+21. [H ZETT M、初のピアノソロコンサートをUst生放送](http://www.musicman-net.com/artist/14055.html)
+22. [きくちPの音組収録日記](http://otogumi.fujitv.co.jp/lovekp/E20120417001.html)
+23. [きくちPの音組収録日記](http://otogumi.fujitv.co.jp/lovekp/E20121026002.html)
 24.
 25. 本番は録音音源使用のため、本職ではない[コントラバス](../Page/コントラバス.md "wikilink")奏者としての出演だった。
 26.
@@ -1510,14 +1510,14 @@ OVERHEADSとコラボレーション</p>
 35. テレビドラマ『[カルテット](https://ja.wikipedia.org/wiki/カルテット_\(2017年のテレビドラマ\) "wikilink")』に出演する[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")、[満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")、[高橋一生](../Page/高橋一生.md "wikilink")、[松田龍平](../Page/松田龍平.md "wikilink")による番組限定ユニット。
 36. サブタイトルの読み方は「ザオ\!タイワン ツーパオラメイ?」である。
 37. 読み方は「ザオ\!ジャパボエ?」である。
-38. H ZETT M、圧倒的な演奏と笑いの渦でツアー閉幕！[7](http://mfound.jp/news/2012/08/013564.html)
-39. H ZETT M OFFICIAL CHANNEL[8](http://www.youtube.com/user/HZETTMOFFICIAL)
+38. [H ZETT M、圧倒的な演奏と笑いの渦でツアー閉幕！](http://mfound.jp/news/2012/08/013564.html)
+39. [H ZETT M OFFICIAL CHANNEL](http://www.youtube.com/user/HZETTMOFFICIAL)
 40. [台湾の若者1000人が殺到！](http://www.inmusic.jp/ano/news/h_zett_m100022realive_pez.php)
 41. [RISING SUN ROCK FESTIVAL 2011 in EZO](http://rsr.wess.co.jp/2011/index.html) [RSR2011 H ZETT M ビデオメッセージ](http://www.youtube.com/watch?feature=player_embedded&v=ETzlILPio48)
 42. [viBirth × CINRA presents exPoP\!\!\!\!\! volume54レポート](http://mag.vibirth.com/2011/10/expop-vol54rep.php)
 43. ベーシスト日向秀和を中心に催されているイベント　[HINATABOCCO Blog](http://www.newaudiogram.com/blog/20110311/2011/12/20111220_hinatabocco_session_f.php)
 44. [CDJournal](http://www.cdjournal.com/main/news/miyavi/43268)
-45. ステージアクトを務める　\[<http://superadrianme.com/2012/04/21/h-zett-m-mens-fashion-week-singapore-2012/?utm_source=feedburner&utm_medium=twitter&=Feed%3A+superadrianme%2FSvwx+%28SUPERADRIANME.com+-+Lifestyle%2C+Travel%2C+Technology%2C+Fashion+and+Sports%29>　superadrianme.com\]
+45. \[<http://superadrianme.com/2012/04/21/h-zett-m-mens-fashion-week-singapore-2012/?utm_source=feedburner&utm_medium=twitter&=Feed%3A+superadrianme%2FSvwx+%28SUPERADRIANME.com+-+Lifestyle%2C+Travel%2C+Technology%2C+Fashion+and+Sports%29>　superadrianme.com ステージアクトを務める\]
 46. 二回目の出演　[HINATABOCCO Blog](http://www.newaudiogram.com/blog/20110311/2012/06/20120613_live_hinatabocco_06_f.php)
 47. [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[nishi-ken](https://ja.wikipedia.org/wiki/nishi-ken "wikilink")とともにシンセサイザー・コンテストの審査員も務めた。
 48. [ニコファーレでH ZETT M、紅い流星、まらしぃが何でもありの豪華セッション](http://www.musicman-net.com/artist/19197.html)

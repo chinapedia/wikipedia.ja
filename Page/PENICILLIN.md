@@ -110,7 +110,7 @@ east west japan（現[ワーナーミュージック・ジャパン](../Page/ワ
 
 [1994年](../Page/1994年.md "wikilink")12月、ファーストフルアルバム『Missing Link』をリリース。レコ発ライヴで初めてソールドアウトとなる。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、2月から7月にかけて[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で「マンスリーライブ」を行い、全公演即日ソールドアウト。9月30日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で初のホールワンマンLIVEを行い\[6\]、チケットは発売日に即ソールドアウトした。インディーズながらレコード会社3社（[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")、[日本クラウン](../Page/日本クラウン.md "wikilink")、[VAP](../Page/バップ.md "wikilink")）から同時にCDを発表する。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、2月から7月にかけて[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")で「マンスリーライブ」を行い、全公演即日ソールドアウト。9月30日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で初のホールワンマンLIVEを行い\[6\]、チケットは発売日に即ソールドアウトした。インディーズながらレコード会社3社（[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")、[日本クラウン](../Page/日本クラウン.md "wikilink")、[VAP](../Page/バップ.md "wikilink")）から同時にCDを発表する。
 
 [1996年](../Page/1996年.md "wikilink")3月、[PIONEER LDCよりシングル](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")「Blue Moon / 天使よ目覚めて」でメジャーデビュー。7月25日・26日、当時としては異例の新人バンドによる[日本武道館](../Page/日本武道館.md "wikilink")公演を敢行。武道館公演直後、ソロ活動の開始を発表。千聖のタイでの人気に伴い、アジアでの認知度が高まった。テレビ埼玉（現・テレ玉）で「[ペニシリンSHOCK](https://ja.wikipedia.org/wiki/ペニシリンSHOCK "wikilink")」放送開始。
 
@@ -1635,11 +1635,11 @@ Type-B<br />
   -
 ## 外部リンク
 
-  - [PENICILLIN Official Website](http://www.penicillin.jp)
+  - [PENICILLIN Official Website](https://www.penicillin.jp/)
 
   -
   -
-  - [DDJincMusicVideo - YouTube](http://www.youtube.com/user/DDJincMusicVideo)
+  - [DDJincMusicVideo - YouTube](https://www.youtube.com/user/DDJincMusicVideo)
 
   - [PENICILLIN mixiページ](http://page.mixi.jp/view_page.pl?page_id=284763)
 
@@ -1649,7 +1649,7 @@ Type-B<br />
 
 <!-- end list -->
 
-  - [PENICILLIN HAKUEIオフィシャルブログ『「HAKUEI パンチ\!\!」』by Ameba](http://ameblo.jp/hakuei-blog) （2009年4月23日〜）
+  - [PENICILLIN HAKUEIオフィシャルブログ『「HAKUEI パンチ\!\!」』by Ameba](https://ameblo.jp/hakuei-blog) （2009年4月23日〜）
 
   -
   - [machine Official Website](http://www.machineproject.jp)
@@ -1660,10 +1660,10 @@ Type-B<br />
 
 <!-- end list -->
 
-  - [PENICILLIN 千聖オフィシャルブログ『「週刊千聖」』by Ameba](http://ameblo.jp/chisatochang) （2009年4月1日〜）
+  - [PENICILLIN 千聖オフィシャルブログ『「週刊千聖」』by Ameba](https://ameblo.jp/chisatochang) （2009年4月1日〜）
 
   -
-  - [Crack6 Official Website](http://www.crack6.jp/)
+  - [Crack6 Official Website](https://www.crack6.jp/)
 
 <!-- end list -->
 

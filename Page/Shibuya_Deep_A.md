@@ -428,7 +428,7 @@
   - [森田美位子](https://ja.wikipedia.org/wiki/森田美位子 "wikilink")（お天気お姉さん）
   - [小林さり](https://ja.wikipedia.org/wiki/小林さり "wikilink")
   - [宇野実彩子](../Page/宇野実彩子.md "wikilink")（[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")）
-  - [京本有加](../Page/京本有加.md "wikilink")（[中野風女シスターズ](../Page/中野風女シスターズ.md "wikilink")）
+  - [京本有加](../Page/京本有加.md "wikilink")（当時：[中野風女シスターズ](../Page/中野風女シスターズ.md "wikilink")）
   - [横山ルリカ](../Page/横山ルリカ.md "wikilink")（当時：[アイドリング\!\!\!](../Page/アイドリング!!!.md "wikilink")）
   - [森田涼花](../Page/森田涼花.md "wikilink")（同上）
   - [遠藤舞](../Page/遠藤舞.md "wikilink")（同上）
@@ -513,7 +513,7 @@
   - [Shibuya Deep A](http://www.nhk.or.jp/deep/index.html)
 
   -
-[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:NHKワンセグ2](https://ja.wikipedia.org/wiki/Category:NHKワンセグ2 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:ケンドーコバヤシ](https://ja.wikipedia.org/wiki/Category:ケンドーコバヤシ "wikilink")
+[Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:NHKワンセグ2](https://ja.wikipedia.org/wiki/Category:NHKワンセグ2 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:田村淳](https://ja.wikipedia.org/wiki/Category:田村淳 "wikilink") [Category:ケンドーコバヤシ](https://ja.wikipedia.org/wiki/Category:ケンドーコバヤシ "wikilink")
 
 1.  公式サイトより。
 2.  総合テレビでの放送は、夏休みスペシャルやクリスマススペシャルなど季節ごとに深夜に録画放送されたことはあったが、生放送は2010年度まで実施されたことはなかった。

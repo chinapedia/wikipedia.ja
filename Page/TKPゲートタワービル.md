@@ -56,8 +56,8 @@
 
   - [梅田](../Page/梅田.md "wikilink")
   - [オオサカガーデンシティ](../Page/オオサカガーデンシティ.md "wikilink")
-  - [姫路市営モノレール大将軍駅](https://ja.wikipedia.org/wiki/姫路市企業局交通事業部#駅一覧とその現状 "wikilink") - モノレールがビルを貫く
-  - [重慶軌道交通2号線](https://ja.wikipedia.org/wiki/重慶軌道交通2号線 "wikilink")[李子壩駅](https://ja.wikipedia.org/wiki/李子ハ駅 "wikilink") - 鉄道がマンションを貫く
+  - [姫路市営モノレール大将軍駅](https://ja.wikipedia.org/wiki/姫路市交通局モノレール線#駅一覧とその現状 "wikilink") - モノレールがビルを貫く
+  - [重慶軌道交通2号線](https://ja.wikipedia.org/wiki/重慶軌道交通2号線 "wikilink")[李子壩駅](https://ja.wikipedia.org/wiki/李子壩駅 "wikilink") - 鉄道がマンションを貫く
   - [私市円山古墳](https://ja.wikipedia.org/wiki/私市円山古墳 "wikilink")・[大代古墳](https://ja.wikipedia.org/wiki/大代古墳 "wikilink")・[塚原古墳群 (熊本市)](https://ja.wikipedia.org/wiki/塚原古墳群_\(熊本市\) "wikilink") - 高速道路が古墳をくぐる
 
 ## 外部リンク

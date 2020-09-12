@@ -5,8 +5,9 @@
 
 ## 解説
 
+  - それまで[英語](../Page/英語.md "wikilink")詞を貫いてきたthe brilliant greenとしては初めての[日本語](../Page/日本語.md "wikilink")詞の楽曲。日本語詞は、ドラマ主題歌に起用されるにあたってのテレビ局側からの条件だった。
   - [オリコンシングルチャートでは](../Page/オリコンチャート.md "wikilink")1週目でTOP20入り（14位）、2週目でTOP10入り、3週目でTOP3入り、そして4週目にしてグループ初の1位を記録した。シングルとしては自己最大の売上87.6万枚を記録している(2017年時点)。
-  - カップリング曲は当時同じ[研音](https://ja.wikipedia.org/wiki/研音 "wikilink")に所属していた[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")が出演していたクレジットカード会社のCMソングだった。
+  - カップリング曲は当時同じ[研音](https://ja.wikipedia.org/wiki/研音 "wikilink")に所属していた[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")が出演していた、[クレジットカード会社](https://ja.wikipedia.org/wiki/クレジットカード会社 "wikilink")の[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")だった。
 
 ## 収録曲
 

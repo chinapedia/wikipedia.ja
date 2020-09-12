@@ -1,7 +1,7 @@
 > この記事は[TV program Making language](https://ja.wikipedia.org/wiki/TV_program_Making_language)から翻訳されています。
 
 
-**TVML ()** は、[テレビ番組](../Page/テレビ番組.md "wikilink")を記述する特別な言語である。この言語で記述されたテレビ番組[台本](../Page/台本.md "wikilink")をTVMLプレイヤーと呼ばれる[ソフトウェア](../Page/ソフトウェア.md "wikilink")で再生すると、リアルタイム[CG](https://ja.wikipedia.org/wiki/CG "wikilink")や[音声合成](../Page/音声合成.md "wikilink")などにより作られた映像音声を即座に見ることができる。
+**TVML**（）は、[テレビ番組](../Page/テレビ番組.md "wikilink")を記述する特別な言語である。この言語で記述されたテレビ番組[台本](../Page/台本.md "wikilink")をTVMLプレイヤーと呼ばれる[ソフトウェア](../Page/ソフトウェア.md "wikilink")で再生すると、リアルタイム[CG](https://ja.wikipedia.org/wiki/CG "wikilink")や[音声合成](../Page/音声合成.md "wikilink")などにより作られた映像音声を即座に見ることができる。
 
 TVMLは[NHK放送技術研究所](../Page/NHK放送技術研究所.md "wikilink")が1996年に提案し、以降、当所を中心に言語仕様の[アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")およびTVMLプレイヤーの開発が進められている。TVMLプレイヤーは[フリーウェア](../Page/フリーウェア.md "wikilink")で配布されており、大学、教育機関などでの利用が多い。また、NHK番組制作での利用のほか、いくらかの商用利用もされている。
 

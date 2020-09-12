@@ -46,4 +46,4 @@
   - [上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")
   - [コラボレーション](../Page/コラボレーション.md "wikilink")
 
-[Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
+[Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

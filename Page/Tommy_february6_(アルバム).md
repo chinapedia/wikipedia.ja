@@ -32,7 +32,7 @@
         3rdシングル
         フレンチユーロを基調に部活シリーズ第三弾で[テニス](../Page/テニス.md "wikilink")をテーマした楽曲、この曲のPVは童話「[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")」をモチーフにした凝った作りで屋内と屋外ロケが敢行。
 5.  **HEY BAD BOY**
-6.  **[♥KISS♥ ONE MORE TIME](https://ja.wikipedia.org/wiki/KISS_ONE_MORE_TIME "wikilink")**
+6.  **[♥KISS♥ ONE MORE TIME](https://ja.wikipedia.org/wiki/♥KISS♥_ONE_MORE_TIME "wikilink")**
       -
         2ndシングル
         部活シリーズ第二弾で[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をテーマにした楽曲。歌詞は失恋をテーマにPVはサッカーをテーマに演出、PVはスタジオ撮影と渋谷にあるビルの屋上にある[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")コートでロケ撮影、前半は[電子楽器](../Page/電子楽器.md "wikilink")を手にしたバンドメンバーと歌い、後半はコート上でTommy february<sup>6</sup>が審判の衣装を着て歌唱。
@@ -51,7 +51,7 @@
         [フランキー・ヴァリのカヴァー曲を](https://ja.wikipedia.org/wiki/:en:Frankie_Valli "wikilink")、フレンチユーロ調にアレンジ。
         ダイハツMAX CMソング
 11. **I'LL BE YOUR ANGEL**
-12. **[★CANDY POP IN LOVE★](https://ja.wikipedia.org/wiki/KISS_ONE_MORE_TIME "wikilink")**
+12. **[★CANDY POP IN LOVE★](https://ja.wikipedia.org/wiki/♥KISS♥_ONE_MORE_TIME "wikilink")**
       -
         2ndシングルのカップリング。
         この曲は[集英社](../Page/集英社.md "wikilink")が出版している[雑誌](../Page/雑誌.md "wikilink")「[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")」のイメージソングに起用。

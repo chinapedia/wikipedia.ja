@@ -30,19 +30,19 @@
 ## 収録アルバム
 
   - **ROSIER**
-      - [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink") （1994年10月26日、MVCD-15）
-      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink") （1997年12月17日、MVCD-34）
-      - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink") （1999年5月29日、MVCH-30007）
-      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000年12月23日、UUCH-1012）
-      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink") （2008年3月26日、POCS-21005/6）
-      - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
-      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink") （2013年3月27日、POCS-20005/7）
-      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")（2014年5月28日、UPCH-1982/3）
-      - [NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink") （2014年5月28日、UPCH-1980/1）
+      - [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [NEVER SOLD OUT](../Page/NEVER_SOLD_OUT.md "wikilink")
+      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")
+      - [NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")
   - **RAIN**
-      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink") （1997年12月17日、MVCD-34）
-      - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink") （2005年3月23日、UPCH-1394）
-      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink") （2013年3月27日、POCS-20005/7）
+      - [SINGLES](../Page/SINGLES_\(LUNA_SEAのアルバム\).md "wikilink")
+      - [SLOW](https://ja.wikipedia.org/wiki/SLOW_\(LUNA_SEAのアルバム\) "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
 
 ## 参考文献・出典
 

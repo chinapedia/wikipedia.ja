@@ -159,4 +159,4 @@
     一生懸命だがどん臭く屈折したネガティブ思考。周囲からかなりいじめられていた。果心居士の下での修行の後は幻術をマスターした河童として河童の里では英雄扱いされている（しかし相変わらず外ではいじめられている）。
     作者のほかの作品にもこの河童のキャラは登場しており、[スター・システムでの起用だと思われる](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")。
 
-[Category:森下裕美](https://ja.wikipedia.org/wiki/Category:森下裕美 "wikilink") [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:忍者を題材にした漫画](https://ja.wikipedia.org/wiki/Category:忍者を題材にした漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink")
+[Category:森下裕美](https://ja.wikipedia.org/wiki/Category:森下裕美 "wikilink") [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:忍者を題材にした漫画](https://ja.wikipedia.org/wiki/Category:忍者を題材にした漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:服部半蔵を題材とする作品](https://ja.wikipedia.org/wiki/Category:服部半蔵を題材とする作品 "wikilink")

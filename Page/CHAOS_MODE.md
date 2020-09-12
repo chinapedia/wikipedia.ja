@@ -1,39 +1,99 @@
 > この記事は[CHAOS MODE](https://ja.wikipedia.org/wiki/CHAOS_MODE)から翻訳されています。
 
 
-『**CHAOS MODE**』（カオス・モード）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")3rd[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink") 。[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売。
+『**CHAOS MODE**』（カオス・モード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に[motorodから発売したインディーズ](https://ja.wikipedia.org/wiki/cutting_edge#かつて存在したサブレーベル "wikilink")3枚目の[ミニアルバムである](../Page/コンパクト盤.md "wikilink")。
 
 ## 内容
 
-1999年3月17日に発売されたミニアルバム。[インディーズ](../Page/インディーズ.md "wikilink")時代に作成された6曲が収録されている。今作がインディーズで発売された最後の作品である。
+前作『[Resist](../Page/Resist.md "wikilink")』から約3ヶ月ぶりの[ミニアルバムで](../Page/コンパクト盤.md "wikilink")、最後の[インディーズ](https://ja.wikipedia.org/wiki/インディーズ#映画・音楽産業におけるインディーズ "wikilink")[レーベルからの作品](../Page/レコードレーベル.md "wikilink")。
+
+今作よりメンバーのクレジット表記が[大文字](../Page/大文字.md "wikilink")から[小文字](../Page/小文字.md "wikilink")に変更された。
 
 ## 収録曲
 
-1.  **Desperate**
-    (作詞:[YASU](https://ja.wikipedia.org/wiki/yasu "wikilink") 作曲:[KIYO](https://ja.wikipedia.org/wiki/kiyo "wikilink"))
+1.  **Desperate** \[5:40\]
       -
-        書くことが無かったということを書いた歌。
-2.  **-R-TYPE ｢瞳の色｣**
-    (作詞・作曲:YASU)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
+        作曲：[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")
+        編曲：kiyo、Janne Da Arc
+
+        </div>
+
+        </div>
+2.  **-R-TYPE ｢瞳の色｣** \[4:30\]
       -
-        曲名の由来は[アイレムの](../Page/アピエス.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")「[R-TYPE](../Page/R-TYPE.md "wikilink")」から。[PVが存在する](../Page/ミュージック・ビデオ.md "wikilink")。
-3.  **Psycho Dance**
-    (作詞:YASU 作曲:Janne Da Arc)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc
+
+        </div>
+
+        </div>
+3.  **Psycho Dance** \[4:55\]
       -
-        作曲がJanne Da Arcとなっているが、本当は[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")加入前のベーシストが作曲した。
-4.  **....song**
-    (作詞:YASU 作曲:KIYO)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲・編曲：Janne Da Arc
+
+        </div>
+
+        </div>
+4.  **....song** \[5:39\]
       -
-        ライヴハウスの人に「ラヴソングは作らないのか?」と言われ作った歌。"...."には"LOVE"が入る。
-5.  **Labyrinth**
-    (作詞・作曲:YASU)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：kiyo
+        編曲：kiyo、Janne Da Arc
+
+        </div>
+
+        </div>
+5.  **Labyrinth** \[4:12\]
       -
-        yasuが獣という[Hがしたいということを考えていてできた歌](https://ja.wikipedia.org/wiki/性行為 "wikilink")。ちなみに歌詞を考え付いたのが中学生の時らしい。
-6.  **Strange Voice**
-    (作詞・作曲:YASU)
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc
+
+        </div>
+
+        </div>
+6.  **Strange Voice** \[4:56\]
       -
-        サビにはいる前の部分は本当は英語だったが、分りにくいということで日本語になった。
-        曲の最後に囁いてる言葉を書き記したメモがあったが、実家の母親に昔のデモテープと一緒に処分されてしまったらしい。
-        デモでこの曲を聞いた際にkiyoは「（yasuに対して）怖い曲を作る人やな」と思ったという。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc
+
+        </div>
+
+        </div>
+
+## 参加ミュージシャン
+
+  - Janne Da Arc
+
+<!-- end list -->
+
+  - [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink")
+  - [ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+  - [shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
+
+## 外部リンク
+
+  - [エイベックスによる紹介ページ](https://avexnet.jp/contents/music_j/JANNE/discography/1004456)
 
 [Category:1999年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のミニ・アルバム "wikilink") [Category:Janne_Da_Arcのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのミニ・アルバム "wikilink")

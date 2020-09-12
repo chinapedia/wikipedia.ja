@@ -170,7 +170,7 @@
 
 ### 『R』の系譜
 
-ゲームソフトには[R戦闘機](https://ja.wikipedia.org/wiki/R戦闘機 "wikilink")の系譜らしき色紙が付属している。書かれている機体は、R-9、R-9CUSTOM、R-9 LEO、R-11（[GALLOP](../Page/GALLOP.md "wikilink")の機体）、R-9S、R-9Ø。
+ゲームソフトには[R戦闘機の系譜らしき色紙が付属している](../Page/R-9.md "wikilink")。書かれている機体は、R-9、R-9CUSTOM、R-9 LEO、R-11（[GALLOP](../Page/GALLOP.md "wikilink")の機体）、R-9S、R-9Ø。
 
 それによるとR-9Øは、R-9Sのフレームを流用したR-9CUSTOM(R-9C)のアッパーバージョン及び直系機であることが記されている（R-9CUSTOMとR-11は書かれている機体中、最もサイズダウンされた機体である）。
 
@@ -182,8 +182,8 @@
 <code> ┃    ┃   ┃</code><br />
 <code> ┃    ┃   ：</code><br />
 <code> ：    ┃</code><br />
-<code>       ┣━ R-9CUSTOM ━ R-9S ━━ </code><strong><code>R-9Ø</code></strong><code> ━…‥</code></p>
-<p>　　　　┗…… R-9Leo ━━…‥ 　　　　┗…(RX-10)… R-11━━…‥</p></td>
+<code>       ┣━ R-9CUSTOM ━ R-9S ━━ </code><strong><code>R-9Ø</code></strong><code> ━…‥</code><br />
+<code>       ┗…… R-9Leo ━━…‥       ┗… (RX-10)…R-11 ━━…‥</code></p></td>
 </tr>
 </tbody>
 </table>

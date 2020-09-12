@@ -67,6 +67,6 @@ PCLinuxOS としての最初のリリースは、2003年10月。当時 Mandrake 
   - [PCLinuxOS Forum](http://www.pclinuxos.com/forum/)
   - [PCLOS Gnome](http://linuxgator.org/)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink")
+[Category:Mandriva_Linux派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Mandriva_Linux派生ディストリビューション "wikilink")
 
 1.  <http://distrowatch.com/index.php?distribution=pclinuxos>

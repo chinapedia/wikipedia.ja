@@ -26,7 +26,7 @@ NFLの戦力均衡策として考案され、[1936年](../Page/1936年.md "wikil
 
 ## 指名順位
 
-前シーズンの成績下位球団から順番に選手を指名する[完全ウェーバー方式が採用されている](https://ja.wikipedia.org/wiki/ウェーバー方式 "wikilink")。まずプレーオフに進出できなかった20球団に対し、レギュラーシーズンの成績が悪かった順に優先指名権が与えられ、その後は、プレーオフで早く負けた順、そして最後に[スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")優勝球団となる。プレーオフの同じラウンドで負けたチーム間では、プレーオフ進出と同様のタイブレークが適用され、成績の悪い順に優先指名権が与えられる。
+前シーズンの成績下位球団から順番に選手を指名する[完全ウェーバー方式が採用されている](https://ja.wikipedia.org/wiki/ウェーバー方式 "wikilink")。まずプレーオフに進出できなかった球団に対し、レギュラーシーズンの成績が悪かった順に優先指名権が与えられ、その後は、プレーオフで早く負けた順、そして最後に[スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")優勝球団となる。プレーオフの同じラウンドで負けたチーム間では、プレーオフ進出と同様のタイブレークが適用され、成績の悪い順に優先指名権が与えられる。
 
 だが、選手の[トレード](../Page/トレード.md "wikilink")の代償としてしばしば指名権が移動する。また、Non-exclusiveフランチャイズ・タグをつけた選手やRestricted [フリーエージェントの選手を失った球団には代償として指名権が譲渡される](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")。
 
@@ -50,7 +50,7 @@ NFLの戦力均衡策として考案され、[1936年](../Page/1936年.md "wikil
 
 [1987年には](https://ja.wikipedia.org/wiki/1987年のNFL "wikilink")[シアトル・シーホークス](../Page/シアトル・シーホークス.md "wikilink")が1巡で[ブライアン・ボズワース](https://ja.wikipedia.org/wiki/ブライアン・ボズワース "wikilink")を指名、当時の新人最高額の契約を結んだが期待はずれに終わった。また[フィラデルフィア・イーグルス](../Page/フィラデルフィア・イーグルス.md "wikilink")が4巡で[クリス・カーターを指名している](https://ja.wikipedia.org/wiki/クリス・カーター_\(ワイドレシーバー\) "wikilink")\[5\]。
 
-[1989年には](https://ja.wikipedia.org/wiki/1989年のNFL "wikilink")[ダラス・カウボーイズ](../Page/ダラス・カウボーイズ.md "wikilink")がその年就任した[ジミー・ジョンソンの教え子である](https://ja.wikipedia.org/wiki/ジミー・ジョンソン_\(アメリカンフットボールコーチ\) "wikilink")[スティーブ・ウォルシュ](https://ja.wikipedia.org/wiki/スティーブ・ウォルシュ "wikilink")を指名した。また[デンバー・ブロンコス](../Page/デンバー・ブロンコス.md "wikilink")が1巡で[ボビー・ハンフリー](https://ja.wikipedia.org/wiki/ボビー・ハンフリー "wikilink")を指名、彼はその年1,000ヤードラッシャーとなり、チームは[第24回スーパーボウル](https://ja.wikipedia.org/wiki/第24回スーパーボウル "wikilink")へ出場した\[6\]。
+[1989年には](https://ja.wikipedia.org/wiki/1989年のNFL "wikilink")[ダラス・カウボーイズ](../Page/ダラス・カウボーイズ.md "wikilink")がその年就任した[ジミー・ジョンソンの教え子である](https://ja.wikipedia.org/wiki/ジミー・ジョンソン_\(アメリカンフットボールコーチ\) "wikilink")[スティーブ・ウォルシュ](https://ja.wikipedia.org/wiki/スティーブ・ウォルシュ "wikilink")を指名した。また[デンバー・ブロンコス](../Page/デンバー・ブロンコス.md "wikilink")が1巡で[ボビー・ハンフリーを指名](https://ja.wikipedia.org/wiki/ボビー・ハンフリー_\(ランニングバック\) "wikilink")、彼はその年1,000ヤードラッシャーとなり、チームは[第24回スーパーボウル](https://ja.wikipedia.org/wiki/第24回スーパーボウル "wikilink")へ出場した\[6\]。
 
 2009年には[ワシントン・レッドスキンズ](../Page/ワシントン・レッドスキンズ.md "wikilink")が[ジェレミー・ジャーモン](https://ja.wikipedia.org/wiki/ジェレミー・ジャーモン "wikilink")を3巡目で指名した\[7\]。
 

@@ -7,9 +7,13 @@
 
 1996年、アマチュアクラブのロジーナ () とノヴァトール () が合併して創設された。3部リーグに昇格した1997年にプロクラブとなった。
 
-2005年には[ロシア・ファーストディビジョン](https://ja.wikipedia.org/wiki/ロシア・ファーストディビジョン "wikilink")所属ながら[ロシア・カップ決勝に達したが](../Page/ロシア・カップ_\(サッカー\).md "wikilink")、[ロシア・プレミアリーグの](../Page/ロシアサッカー・プレミアリーグ.md "wikilink")[CSKAモスクワに](../Page/PFC_CSKAモスクワ.md "wikilink")1-0で敗れた。2006年のロシア・ファーストディビジョンで優勝を収めたことにより、2007年にロシア・プレミアリーグへ初昇格した。
+2005年には[ロシア・ファーストディビジョン](https://ja.wikipedia.org/wiki/ロシア・ファーストディビジョン "wikilink")（実質2部）所属ながら[ロシア・カップ決勝に達したが](../Page/ロシア・カップ_\(サッカー\).md "wikilink")、[ロシア・プレミアリーグの](../Page/ロシアサッカー・プレミアリーグ.md "wikilink")[CSKAモスクワに](../Page/PFC_CSKAモスクワ.md "wikilink")0-1で敗れた。2006年のロシア・ファーストディビジョンで優勝を収めたことにより、2007年にロシア・プレミアリーグへ初昇格した。
 
 2008年12月、経済事情を理由に[サトゥルン・ラメンスコーエ](../Page/サトゥルン・ラメンスコーエ.md "wikilink")との合併を発表、メンバーは半々ずつ引き継がれ、チーム名はサトゥルンに統一されることが決定していたが、この件は白紙となり、引き続きロシア・プレミアリーグでプレーすることになったが、2009年シーズンは、開幕から低空飛行を続け、初勝利を挙げたのは、2009年7月10日の[サトゥルン・ラメンスコーエ](../Page/サトゥルン・ラメンスコーエ.md "wikilink")戦だった。同年8月2日の[FCディナモ・モスクワ](../Page/FCディナモ・モスクワ.md "wikilink")戦から連敗を重ね、10月24日の[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")戦で敗戦したことを機に、シーズン終了を待たずにロシア・ファーストディビジョン降格が決定した。最終的には、最終節の[FCロコモティフ・モスクワ](../Page/FCロコモティフ・モスクワ.md "wikilink")戦でも敗北を喫し、リーグ戦15連敗と不名誉な記録を残して、ロシア・プレミアリーグを後にする。
+
+その後は下部リーグでの闘いが続き、2012–13シーズンには[ナショナル・フットボールリーグ](https://ja.wikipedia.org/wiki/ロシア・ナショナル・フットボールリーグ "wikilink")（実質2部）で17チーム中16位に沈み2000年シーズン以来となる[ロシア・セカンドディビジョン](https://ja.wikipedia.org/wiki/ロシア・セカンドディビジョン "wikilink")（実質3部）降格が決定。3シーズンの間セカンドディビジョンに在籍した後、2016-17シーズンに再びナショナル・フットボールリーグへの昇格が決まった。
+
+2019-20シーズン、[新型コロナウイルス感染拡大の影響で第](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")27節時点をもって最終成績とし、シーズン打ち切りを正式に発表。この結果第27節時点で2位だったヒムキは、2009年シーズン以来のプレミアリーグ復帰を果たした。2020年7月25日、2005年以来2度目となるロシア・カップ決勝に達したが、[FCゼニト・サンクトペテルブルク](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")に0-1で敗れ悲願の初優勝はならなかった。
 
 ## タイトル
 
@@ -17,11 +21,14 @@
 
 ### 国内タイトル
 
-なし
+  - **[ロシア・ナショナル・フットボールリーグ](https://ja.wikipedia.org/wiki/ロシア・ナショナル・フットボールリーグ "wikilink")：1回**
+      - 2006
+  - **[ロシア・セカンドディビジョン](https://ja.wikipedia.org/wiki/ロシア・セカンドディビジョン "wikilink")：2回**
+      - 2000, 2015–16
 
 ### 国際タイトル
 
-なし
+  - なし
 
 ## 過去の成績
 
@@ -418,17 +425,47 @@
 </tr>
 <tr class="odd">
 <td><p>2018-19</p></td>
-<td><p>''' '''</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>9</strong></p></td>
+<td><p>38</p></td>
+<td><p>14</p></td>
+<td><p>11</p></td>
+<td><p>13</p></td>
+<td><p>47</p></td>
+<td><p>49</p></td>
+<td><p>53</p></td>
+<td><p>ベスト32</p></td>
 <td><p>—</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019-20</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>27</p></td>
+<td><p>16</p></td>
+<td><p>6</p></td>
+<td><p>5</p></td>
+<td><p>50</p></td>
+<td><p>19</p></td>
+<td><p>54</p></td>
+<td><p>準優勝</p></td>
+<td><p>—</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p>プレミア</p></td>
+<td><p>''' '''</p></td>
+<td><p>30</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>''' '''</p></td>
+<td></td>
+<td><p>—</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -444,53 +481,35 @@
 
   - [ウラジーミル・マミノフ](https://ja.wikipedia.org/wiki/ウラジーミル・マミノフ "wikilink") 2014-2015
 
-  - [イーゴリ・シャリモフ](https://ja.wikipedia.org/wiki/イーゴリ・シャリモフ "wikilink") 2018-
+  - [イーゴリ・シャリモフ](https://ja.wikipedia.org/wiki/イーゴリ・シャリモフ "wikilink") 2018-2019
+
+  - [アンドレイ・タララエフ](https://ja.wikipedia.org/wiki/アンドレイ・タララエフ "wikilink") 2019-2020
+
+  - [セルゲイ・ユラン](https://ja.wikipedia.org/wiki/セルゲイ・ユラン "wikilink") 2020
+
+  - [ドミトリー・グンコ](https://ja.wikipedia.org/wiki/ドミトリー・グンコ "wikilink") 2020-
 
 ## 歴代所属選手
 
   - [パヴェル・ポグレブニャク](../Page/パヴェル・ポグレブニャク.md "wikilink") 2004
 
-  - [アレクセイ・イワノフ](https://ja.wikipedia.org/wiki/アレクセイ・イワノフ_\(サッカー選手\) "wikilink") 2004
-
   - [レナト・ヤンバエフ](../Page/レナト・ヤンバエフ.md "wikilink") 2005
 
   - [オレグ・イワノフ](../Page/オレグ・イワノフ.md "wikilink") 2005
 
-  - [ウラジミール・ベスチャツニフ](https://ja.wikipedia.org/wiki/ウラジミール・ベスチャツニフ "wikilink") 2006-2007
-
-  - / [ロベルト・ゼベリャン](https://ja.wikipedia.org/wiki/ロベルト・ゼベリャン "wikilink") 2007
+  -  [ロベルト・ゼベリャン](https://ja.wikipedia.org/wiki/ロベルト・ゼベリャン "wikilink") 2007
 
   - [ロマン・シロコフ](../Page/ロマン・シロコフ.md "wikilink") 2007
 
   - [ロマン・ヴォロビオフ](../Page/ロマン・ヴォロビオフ.md "wikilink") 2007
 
-  - [エルダル・ニザムトディノフ](https://ja.wikipedia.org/wiki/エルダル・ニザムトディノフ "wikilink") 2008-
-
   - [イゴール・ティトフ](../Page/イェーゴリ・チトフ.md "wikilink") 2008
-
-  - [アレクセイ・ブガイェフ](https://ja.wikipedia.org/wiki/アレクセイ・ブガイェフ "wikilink") 2008
-
-<!-- end list -->
-
-  - [レナト・サビトフ](https://ja.wikipedia.org/wiki/レナト・サビトフ "wikilink") 2008
 
   - [ラドゥ・レベヤ](https://ja.wikipedia.org/wiki/ラドゥ・レベヤ "wikilink") 2008
 
-  - [フェドル・クドリャショフ](https://ja.wikipedia.org/wiki/フェドル・クドリャショフ "wikilink") 2008
-
-  - [ヴィクトル・ブディアンスキ](https://ja.wikipedia.org/wiki/ヴィクトル・ブディアンスキ "wikilink") 2009
-
-  - [ドミトリ・ボロディン](https://ja.wikipedia.org/wiki/ドミトリ・ボロディン "wikilink") 2009
-
   - [ロマン・ベレゾフスキー](https://ja.wikipedia.org/wiki/ロマン・ベレゾフスキー "wikilink") 2006-
 
-  - [ガブリエル](https://ja.wikipedia.org/wiki/ガブリエル・フェルナンド・アトズ "wikilink") 2008
-
   - [アンドレイ・ステパノフ](../Page/アンドレイ・ステパノフ.md "wikilink") 2007-2008
-
-  - [フローリン・ショアヴァ](https://ja.wikipedia.org/wiki/フローリン・ショアヴァ "wikilink") 2008
-
-  - [ナスティヤ・チェフ](https://ja.wikipedia.org/wiki/ナスティヤ・チェフ "wikilink") 2007-2008
 
   - [ウラジミール・バイラモフ](https://ja.wikipedia.org/wiki/ウラジミール・バイラモフ "wikilink") 2008
 

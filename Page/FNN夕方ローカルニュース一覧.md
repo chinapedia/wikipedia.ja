@@ -46,7 +46,7 @@
           -
             キャスター：[白田貴彦](https://ja.wikipedia.org/wiki/白田貴彦 "wikilink")・[岩渕葵](../Page/岩渕葵.md "wikilink")（月 - 金曜）、シフト勤務（土・日曜）
   - FTV [福島テレビ](../Page/福島テレビ.md "wikilink")
-      - [テレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")■（月 - 金曜 16:45 - 19:00【ローカルニュース枠は月-金曜 16:45 - 16:50、17:12 - 17:53、18:14 - 19:00】、土曜 17:30 - 18:25【ローカルニュース枠は17:48 - 18:25】）
+      - [テレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")■（月 - 金曜 16:45 - 19:00【ローカルニュース枠は月-金曜 16:45 - 16:50、17:12 - 17:53、18:14 - 18:50 ※一部祝日編成に限り、17:12 - 17:53と18:14 - 18:50がない代わりに、18:50 - 19:00だけになる事もある。】、土曜 17:30 - 18:25【ローカルニュース枠は17:48 - 18:25】）
           -
             キャスター：[浜中順子](../Page/浜中順子.md "wikilink")・[坂井有生](../Page/坂井有生.md "wikilink")・[菅家ひかる](https://ja.wikipedia.org/wiki/菅家ひかる "wikilink")（月 - 水）、[小田島愛](https://ja.wikipedia.org/wiki/小田島愛 "wikilink")・[日野佑希人](https://ja.wikipedia.org/wiki/日野佑希人 "wikilink")・[伊藤亮太](https://ja.wikipedia.org/wiki/伊藤亮太 "wikilink")・[我如古梨乃](../Page/我如古梨乃.md "wikilink")（木・金）
             気象キャスター：[斎藤恭紀](../Page/斎藤恭紀.md "wikilink")
@@ -67,7 +67,7 @@
   - [長野放送](../Page/長野放送.md "wikilink")（NBS）
       - [NBSみんなの信州](https://ja.wikipedia.org/wiki/NBSみんなの信州 "wikilink")■（月 - 金曜 17:53 - 19:00【ローカルニュース枠は18:14 - 19:00（NBSみんなの信州）】）
           -
-            キャスター：[重盛赳男](https://ja.wikipedia.org/wiki/重盛赳男 "wikilink")・[坂本麻子](https://ja.wikipedia.org/wiki/坂本麻子 "wikilink")
+            キャスター：[重盛赳男](https://ja.wikipedia.org/wiki/重盛赳男 "wikilink")・[坂本麻子](https://ja.wikipedia.org/wiki/坂本麻子_\(アナウンサー\) "wikilink")
       - NBS Live News it\!■（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
             キャスター：シフト勤務
@@ -80,7 +80,7 @@
           -
             キャスター：シフト勤務
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")（BBT）
-      - [報道ライブBBT](https://ja.wikipedia.org/wiki/報道ライブBBT "wikilink")■ （月 - 金曜 16:25 - 18:55【ローカルニュース枠は、16:25 - 16:50（ライブBBT）、18:14 - 18:55（報道ライブBBT）】、土曜 17:30 - 18:00【ローカルニュース枠は17:48 - 18:00】）
+      - [ライブBBT](https://ja.wikipedia.org/wiki/報道ライブBBT "wikilink")■（月 - 金曜 16:25 - 19:00【ローカルニュース枠は、16:25 - 16:50、18:14 - 18:50 ※毎年7月第3金曜は「北陸オープンゴルフトーナメント」（16:00 - 17:53）を放送する為に、17:53 - 19:00のみとなる】、土曜 17:30 - 18:00【ローカルニュース枠は17:48 - 18:00】）
           -
             キャスター：谷優子・伊藤恵祐、矢野美沙（月 - 水曜）・岡部里香（木・金）
             キャスター：シフト勤務（土曜）
@@ -103,7 +103,7 @@
           -
             キャスター：シフト勤務
   - [東海テレビ](../Page/東海テレビ放送.md "wikilink")（THK）
-      - [ニュースOne](https://ja.wikipedia.org/wiki/ニュースOne "wikilink")■（月 - 金曜 16:49 - 19:00【ローカルニュース枠は16:49 - 16:50、17:12 - 17:53、18:14 - 19:00 ※不定期で16:49 - 17:53までになる日もある】）
+      - [ニュースOne](https://ja.wikipedia.org/wiki/ニュースOne "wikilink")■（月 - 金曜 16:49 - 19:00【ローカルニュース枠は16:49 - 16:50、17:12 - 17:53、18:14 - 19:00 ※不定期で16:49 - 17:53まで及び、18:14 - 18:50になる日もある。また、プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
           -
             キャスター：[高井一](../Page/高井一_\(アナウンサー\).md "wikilink")・[上山真未](https://ja.wikipedia.org/wiki/上山真未 "wikilink")、[村上佳菜子](https://ja.wikipedia.org/wiki/村上佳菜子 "wikilink")（月）
             フィールドキャスター:[福島智之](../Page/福島智之.md "wikilink")
@@ -118,7 +118,7 @@
 ## 関西
 
   - [関西テレビ](../Page/関西テレビ放送.md "wikilink")（KTV）
-      - [報道ランナー](https://ja.wikipedia.org/wiki/報道ランナー "wikilink")■（月 - 金曜 16:45 - 19:00【ローカルニュース枠は16:45 - 17:53、18:14 - 19:00 ※特別編成の日に限り、16:45 - 16:50に縮小し、その後の部分（16:50 - 17:53まで）がない日もあり、不定期に16:45 - 16:50がない日や、18:14 - 18:50になる日もある。また、プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
+      - [報道ランナー](https://ja.wikipedia.org/wiki/報道ランナー "wikilink")■（月 - 金曜 16:45 - 19:00【ローカルニュース枠は16:45 - 17:53、18:14 - 19:00 ※特別編成の日に限り、16:45 - 16:50に縮小し、その後の部分（16:50 - 17:53まで）がない日もあり、不定期で16:45 - 16:50なし及び、17:12 - 17:53及び、18:14 - 18:50になる日もある。また、プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
           -
             キャスター：[新実彰平](https://ja.wikipedia.org/wiki/新実彰平 "wikilink")
       - FNN Live News it\!■（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
@@ -140,12 +140,9 @@
           -
             キャスター：シフト勤務
   - [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")（tss）
-      - [TSSプライムニュース](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")（月 - 木曜 16:50 - 19:00【ローカルニュース枠は18:14 - 18:50 ※プロ野球シーズン中は（野球中継をする日に限り）、17:12 - 17:53にもローカルニュースを設け、18:16から野球中継をする】）
+      - [TSSプライムニュース](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")（月 - 金曜 16:50 - 19:00【ローカルニュース枠は18:14 - 18:50 ※プロ野球シーズン中は（野球中継をする日に限り）、17:12 - 17:53にもローカルニュースを設け、18:16から野球中継をする】）
           -
             キャスター：[若木憲子](https://ja.wikipedia.org/wiki/若木憲子 "wikilink")・[深井瞬](../Page/深井瞬.md "wikilink")
-      - [TSSプライムフライデー](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")（金曜 16:50 - 19:00【ローカルニュース枠は17:12 - 17:53、18:14 - 18:50 ※プロ野球シーズン中は（野球中継をする日に限り）、17:12 - 17:53がない日もあり、18:16から野球中継をする】）
-          -
-            キャスター：若木憲子・深井瞬
       - FNN TSS Live News it\!（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
             キャスター：シフト勤務
@@ -158,7 +155,7 @@
       - [プライムこうち](https://ja.wikipedia.org/wiki/プライムこうち "wikilink")（月 - 木曜 18:14 - 18:50）
           -
             キャスター：[遠藤圭介](https://ja.wikipedia.org/wiki/遠藤圭介 "wikilink")・[野村舞](../Page/野村舞.md "wikilink")（月・火）、[藤尾悠](https://ja.wikipedia.org/wiki/藤尾悠 "wikilink")・[正木麻由](https://ja.wikipedia.org/wiki/正木麻由 "wikilink")（水・木）
-      - [プライムこうちF](https://ja.wikipedia.org/wiki/プライムこうちF "wikilink")（金曜 15:50 - 19:00【ローカルニュース枠は18:14 - 18:50】）
+      - [プライムこうちF](https://ja.wikipedia.org/wiki/プライムこうちF "wikilink")（金曜 18:14 - 19:00）
           -
             キャスター：[玉井新平](../Page/玉井新平.md "wikilink")・[石井愛子](../Page/石井愛子.md "wikilink")
       - FNN Live News it\!（土・日曜 17:30 - 17:55【ローカルニュース枠は17:48頃 - 17:55】）
@@ -184,7 +181,8 @@
   - [テレビ長崎](../Page/テレビ長崎.md "wikilink")（KTN）
       - [KTN Live News it\!](https://ja.wikipedia.org/wiki/KTN_Live_News_it! "wikilink") ■（月 - 金曜 16:50 - 19:00 ※不定期で、17:53 - 19:00になる日もある【ローカルニュース枠は18:14 - 18:50】、土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
-            キャスター：[磯部翔](https://ja.wikipedia.org/wiki/磯部翔 "wikilink")・[琴岡美紅](https://ja.wikipedia.org/wiki/琴岡美紅 "wikilink")
+            キャスター： [磯部翔](https://ja.wikipedia.org/wiki/磯部翔 "wikilink")（月曜 - 水曜) ・ [平仙浩教](https://ja.wikipedia.org/wiki/平仙浩教 "wikilink")（木曜 - 金曜）・[琴岡美紅](https://ja.wikipedia.org/wiki/琴岡美紅 "wikilink")
+            気象キャスター : [吉村壮史](https://ja.wikipedia.org/wiki/吉村壮史 "wikilink")（金曜）
             キャスター：シフト勤務（土・日曜）
   - [テレビ熊本](../Page/テレビ熊本.md "wikilink")【TKU】
       - [TKU Live News](https://ja.wikipedia.org/wiki/TKU_Live_News "wikilink") ■（月 - 金曜 16:50 - 19:00【ローカルニュース枠は18:14 - 18:50】、土・日曜 17:30 - 18:00【ローカルニュース枠は17:48 - 18:00】）
@@ -311,7 +309,7 @@
 
 <!-- end list -->
 
-  - 新潟総合テレビ（NST）
+  - NST新潟総合テレビ（NST）
 
 <!-- end list -->
 
@@ -428,7 +426,7 @@
   -
 
       -
-        [tssローカルニュース](https://ja.wikipedia.org/wiki/tssローカルニュース "wikilink") - [こんばんは\!tss6:30](../Page/こんばんは!tss6:30.md "wikilink") - [tssワイドニュース](https://ja.wikipedia.org/wiki/tssワイドニュース "wikilink") - [tssスーパータイム](https://ja.wikipedia.org/wiki/tssスーパータイム "wikilink") - tss FNNザ・ヒューマン - [tssスーパーニュース FNN](../Page/TSSスーパーニュース.md "wikilink") - [tss みんなのテレビ](https://ja.wikipedia.org/wiki/tss_みんなのテレビ "wikilink") - [FNN TSS プライムニュース イブニング](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")（土・日曜のみ）
+        [tssローカルニュース](https://ja.wikipedia.org/wiki/tssローカルニュース "wikilink") - [こんばんは\!tss6:30](../Page/こんばんは!tss6:30.md "wikilink") - [tssワイドニュース](https://ja.wikipedia.org/wiki/tssワイドニュース "wikilink") - [tssスーパータイム](https://ja.wikipedia.org/wiki/tssスーパータイム "wikilink") - tss FNNザ・ヒューマン - [tssスーパーニュース FNN](../Page/TSSスーパーニュース.md "wikilink") - [tss みんなのテレビ](https://ja.wikipedia.org/wiki/tss_みんなのテレビ "wikilink") - [FNN TSS プライムニュース イブニング](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")（土・日曜のみ） - TSSプライムフライデー（金曜のみ）
 
 <!-- end list -->
 

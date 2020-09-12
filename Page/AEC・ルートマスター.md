@@ -29,7 +29,7 @@
 
 ## 仕様
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Arriva_London_RML_901.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Sandenkotsubus_Routemaster_rear_view.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/画像:Arriva_Heritage_Fleet_RML901_WLT_901_2.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Sandenkotsubus_Routemaster_rear_view.jpg "wikilink")
 
   - 全長：8.4m（27フィート6インチ） ※RMLは9.1m（30フィート）
   - 全高：4.4m（14フィート4 1/2インチ）

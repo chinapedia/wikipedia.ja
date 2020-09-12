@@ -23,7 +23,7 @@
 
 ローカルタレントがリポーターを務めている。TVhのアナウンサーは基本的に出演しないが、2014年1月11日放送の2時間30分スペシャルでは[千葉真澄](https://ja.wikipedia.org/wiki/千葉真澄 "wikilink")・[磯田彩実](https://ja.wikipedia.org/wiki/磯田彩実 "wikilink")の両アナウンサーが出演している。
 
-### 主な出演者一覧
+### 主な歴代出演者一覧
 
   - [相川紗登士](../Page/相川紗登士.md "wikilink")
   - [奈良愛美](../Page/奈良愛美.md "wikilink")
@@ -33,6 +33,8 @@
   - [森崎博之](../Page/森崎博之.md "wikilink")
   - [音尾琢真](../Page/音尾琢真.md "wikilink")
   - [安藤麻実](https://ja.wikipedia.org/wiki/安藤麻実 "wikilink")
+  - [市原](https://ja.wikipedia.org/wiki/市原_\(お笑い\) "wikilink")
+  - [小山めぐみ](https://ja.wikipedia.org/wiki/小山めぐみ "wikilink")
 
 ## 脚注
 
@@ -41,7 +43,7 @@
   - [TVh テレビ北海道](http://www.tv-hokkaido.co.jp/info/jalan_de_go/index.html)
   - [旅コミ北海道 じゃらん de GO\!](http://www.recruit-hokkaido-jalan.jp/jalan_de_go/) - 【北海道じゃらん】
 
-[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ北海道の番組](https://ja.wikipedia.org/wiki/Category:テレビ北海道の番組 "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink") [Category:じゃらん](https://ja.wikipedia.org/wiki/Category:じゃらん "wikilink")
+[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ北海道の番組](https://ja.wikipedia.org/wiki/Category:テレビ北海道の番組 "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink") [Category:じゃらん](https://ja.wikipedia.org/wiki/Category:じゃらん "wikilink") [Category:音尾琢真](https://ja.wikipedia.org/wiki/Category:音尾琢真 "wikilink") [Category:継続中にタイトルが変更された作品](https://ja.wikipedia.org/wiki/Category:継続中にタイトルが変更された作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  2013年3月の放送では1週分のみGUCHYに代わり、[遊びなDJ](https://ja.wikipedia.org/wiki/遊びなDJ "wikilink")のMCを務める[テツヤが担当](https://ja.wikipedia.org/wiki/テツヤ_\(ディスクジョッキー\) "wikilink")。
 2.  [2012年11月6日に放送された特番](http://www.tv-hokkaido.co.jp/special/tabicomi201211/index.php)

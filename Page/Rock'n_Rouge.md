@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **Rock'n Rouge** (4:14)
-    （作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[呉田軽穂](../Page/松任谷由実.md "wikilink")（松任谷由実）／編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")）
+    （作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[呉田軽穂](../Page/松任谷由実.md "wikilink")（松任谷由実）／編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")）（広東語：林憶蓮）
       -
         本人出演の[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「レディ80BIO リップスティック」「84年春のバザール」CM曲
         作曲の[呉田軽穂は](../Page/松任谷由実.md "wikilink")、今回は[ABBA](../Page/ABBA.md "wikilink")のような[ヨーロピアン・ディスコ調の楽曲を松田に提供したいという考えがあった](https://ja.wikipedia.org/wiki/ユーロポップ "wikilink")。それがプロデューサーサイドの「春らしい曲」というイメージと合致したため、すんなり完成に至ったという。聖子自身も、前作「[瞳はダイアモンド](https://ja.wikipedia.org/wiki/瞳はダイアモンド "wikilink")」がバラードだったため、アップテンポな曲を希望していた。

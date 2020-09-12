@@ -25,6 +25,10 @@
 
 ## 出典
 
+## 外部リンク
+
+  - ミュージック・ビデオ
+      -
 [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:ハウス食品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ハウス食品のコマーシャルソング "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:マーク・パンサーが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マーク・パンサーが制作した楽曲 "wikilink") [Category:ドラゴン・竜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ドラゴン・竜を題材とした楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1997年8月号110P-111Pより。

@@ -41,7 +41,7 @@
 1.  **星のかけらを探しに行こう Again**
     （作詞:[K・Y・O・K・O](../Page/杏子_\(ミュージシャン\).md "wikilink") 作曲:[馬場一嘉](https://ja.wikipedia.org/wiki/馬場一嘉 "wikilink") 編曲:福耳Project 弦編曲:[森英治](../Page/森英治.md "wikilink")）
       -
-        NHKBS 10周年 イメージソング
+        [NHK](https://ja.wikipedia.org/wiki/NHK "wikilink") [BS](../Page/NHK-BS.md "wikilink") 10周年 イメージソング
         もともと[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に杏子のシングルとしてリリースされた「星のかけらを探しに行こう」をリメイクしたもの。
         当時、この曲が披露されたのは[TBS系](../Page/TBSテレビ.md "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』（1999年8月19日放送）に出演時のみである。
 2.  **Happy Birthday (Live at Zepp Sapporo '98.4.12)**

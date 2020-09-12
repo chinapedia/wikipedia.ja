@@ -5,7 +5,7 @@
 
 ## 概要
 
-Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")で結成される。[2000年](../Page/2000年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で1作の[シングル](../Page/シングル.md "wikilink")を発表したのち、[2001年](../Page/2001年.md "wikilink")にシングル『雨』でメジャーデビューを果たす。デビュー時、メンバー全員が現役の[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")であった。このデビューを機に彼らは活動の拠点を北海道から東京に移す。同じく2001年、シングル『[ボクらの冒険](https://ja.wikipedia.org/wiki/ボクらの冒険 "wikilink")』がヒットし、[オリコンによる](../Page/オリコンチャート.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")で30位を記録する。翌年の2002年には彼らの唯一のアルバムとなる『3 Colors Infinity』を発表した。2003年、シングル『ふたりの季節〜North Point〜』を発表後、活動休止となった。
+Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")で結成される。[2000年](../Page/2000年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で1作の[シングル](../Page/シングル.md "wikilink")を発表したのち、[2001年](../Page/2001年.md "wikilink")にシングル『雨』でメジャーデビューを果たす。デビュー時、メンバー全員が現役の[高校生であった](../Page/在籍者_\(学習者\).md "wikilink")。このデビューを機に彼らは活動の拠点を北海道から東京に移す。同じく2001年、シングル『[ボクらの冒険](https://ja.wikipedia.org/wiki/ボクらの冒険 "wikilink")』がヒットし、[オリコンによる](../Page/オリコンチャート.md "wikilink")[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")で30位を記録する。翌年の2002年には彼らの唯一のアルバムとなる『3 Colors Infinity』を発表した。2003年、シングル『ふたりの季節〜North Point〜』を発表後、活動休止となった。
 
 ## メンバー
 
@@ -157,4 +157,4 @@ Akihiro、Yuta、Keijiの3人からなるバンドで、[1998年](https://ja.wik
 
   - [★KidsAlive★avex official website](http://www.avexnet.or.jp/kidsalive/index.htm) 公式サイト
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink")

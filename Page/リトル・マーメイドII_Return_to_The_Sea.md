@@ -1,9 +1,9 @@
 > この記事は[リトル・マーメイドII Return to The Sea](https://ja.wikipedia.org/wiki/リトル・マーメイドII_Return_to_The_Sea)から翻訳されています。
 
 
-『**リトル・マーメイドII Return to The Sea**』（リトル・マーメイドツー リターン・トゥー・ザ・シー、原題：The Little Mermaid II: Return to the Sea）は、[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")』の続編として作られた[OVA](../Page/OVA.md "wikilink")である。全米では、[2000年](../Page/2000年.md "wikilink")の制作作品。
+『**リトル・マーメイドII Return to The Sea**』（リトル・マーメイドツー リターン・トゥー・ザ・シー、原題：*The Little Mermaid II: Return to the Sea*）は、[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")』の続編として作られた[OVA](../Page/OVA.md "wikilink")である。全米では、[2000年](../Page/2000年.md "wikilink")の制作作品。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[ウォルト・ディズニー・スタジオ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")より期間限定生産DVD（VWDS-5190）が発売されている。ミュージック・クリップやオリジナル・テーマソングなど映像特典を収録されている。日本では、ディズニートゥーンスタジオ作品としては最後のレーザーディスク版発売作品となった。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[ウォルト・ディズニー・スタジオ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")より期間限定生産[DVD](../Page/DVD.md "wikilink")（VWDS-5190）が発売されている。ミュージック・クリップやオリジナル・テーマソングなど映像特典を収録されている。日本では、ディズニートゥーンスタジオ作品としては最後のレーザーディスク版発売作品となった。
 
 ## ストーリー
 
@@ -278,8 +278,13 @@
 
 ## 外部リンク
 
-  - [リトル・マーメイドII Return to The Sea - ディズニー映画／ブルーレイ\&DVD](http://disney-studio.jp/product/index.jsp?cid=17)
+  - [リトル・マーメイドII ～RETURN TO THE SEA～](https://www.disney.co.jp/studio/animation/0017.html)
 
+  -
+  -
+  -
+  -
+  -
 [Category:2000年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2000年のアニメ映画 "wikilink")
 
 [Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ディズニートゥーン・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ディズニートゥーン・スタジオの映画作品 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アニメ作品_り](https://ja.wikipedia.org/wiki/Category:アニメ作品_り "wikilink") [Category:リトル・マーメイド](https://ja.wikipedia.org/wiki/Category:リトル・マーメイド "wikilink") [Category:人魚姫を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人魚姫を題材とした映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:久本雅美](https://ja.wikipedia.org/wiki/Category:久本雅美 "wikilink")

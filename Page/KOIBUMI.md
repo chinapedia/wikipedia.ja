@@ -58,34 +58,38 @@
 
 ## 収録曲
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲・編曲：[たかはしごう](../Page/たかはしごう.md "wikilink")
-
-<!-- end list -->
+（全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲・編曲：[たかはしごう](../Page/たかはしごう.md "wikilink")）
 
 1.  **KOIBUMI** \[4:54\]
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[朝霧の巫女](../Page/朝霧の巫女.md "wikilink")』エンディング主題歌
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[朝霧の巫女](../Page/朝霧の巫女.md "wikilink")』エンディングテーマ
 2.  **朝未き・夜渡り** \[5:00\]
       - テレビアニメ『朝霧の巫女』挿入歌（最終回のエンディングとしても起用）
 3.  **faint love** \[4:14\]
-      - テレビアニメ『朝霧の巫女』オープニング主題歌
+      - テレビアニメ『朝霧の巫女』オープニングテーマ
 4.  KOIBUMI （OFF VOCAL VERSION）
 5.  朝未き・夜渡り （OFF VOCAL VERSION）
 6.  faint love （OFF VOCAL VERSION）
 
 ## 収録アルバム
 
-  - **KOIBUMI**
-      -
-        『[center color](https://ja.wikipedia.org/wiki/center_color "wikilink")』（remix versionで収録）、『[Plain](../Page/Plain.md "wikilink")』、『[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")』
-  - **朝未き・夜渡り**
-      -
-        『center color』、『VINTAGE White』
-  - **faint love**
-      -
-        『center color』
+| 曲名                                                                                 | 収録アルバム                                                                           | 発売日                                                                    | 製造番号      | 備考                |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ----------------- |
+| KOIBUMI                                                                            | 『**[center color](https://ja.wikipedia.org/wiki/center_color "wikilink")**』\[1\] | [2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") | KICS-1070 | remix versionで収録。 |
+| 『**[Plain](../Page/Plain.md "wikilink")**』\[2\]                                    | [2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")         | KICS-1303                                                              |           |                   |
+| 『**[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")**』\[3\] | [2011年](../Page/2011年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")         | KICS-91670〜91671                                                       |           |                   |
+| 朝未き・夜渡り                                                                            | 『**center color**』\[4\]                                                          | 2004年1月7日                                                              | KICS-1070 |                   |
+| 『**VINTAGE White**』\[5\]                                                           | 2011年6月11日                                                                       | KICS-91670〜91671                                                       |           |                   |
+| faint love                                                                         | 『**center color**』\[6\]                                                          | 2004年1月7日                                                              | KICS-1070 |                   |
 
 ## 脚注
 
 <references />
 
 [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

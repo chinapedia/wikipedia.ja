@@ -1,7 +1,7 @@
 > この記事は[Proof of Myself](https://ja.wikipedia.org/wiki/Proof_of_Myself)から翻訳されています。
 
 
-『**Proof of Myself**』（プルーフ オブ マイセルフ）は、1998年10月23日にリリースされた林原めぐみの [シングル](../Page/シングル.md "wikilink")。
+「**Proof of Myself**」（プルーフ オブ マイセルフ）は、1998年10月23日にリリースされた林原めぐみの [シングル](../Page/シングル.md "wikilink")。
 
 発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-170）。
 
@@ -16,26 +16,30 @@
 
 ## 収録曲
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")
-
-<!-- end list -->
+（全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")）
 
 1.  **Proof of Myself** \[5:45\]
-      - 編曲：添田啓二
+      -
+        編曲：添田啓二
+    <!-- end list -->
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[セイバーマリオネット to X](../Page/セイバーマリオネット.md "wikilink")J』オープニング主題歌
 2.  **Lively Motion** \[4:35\]
-      - 編曲：五島翔
+      -
+        編曲：五島翔
+    <!-- end list -->
       - テレビ東京系テレビアニメ『セイバーマリオネットJ to X』エンディング主題歌（ Ver.1 - 1～19、21話 / Ver.2 - 24話 ）
 3.  Proof of Myself （カラオケ）
 4.  Lively Motion （カラオケ）
 
 ## 収録アルバム
 
-  - **Proof of Myself**
-      -
-        『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』（オリジナルアルバム未収録）
-  - **Lively Motion**
-      -
-        『VINTAGE S』（オリジナルアルバム未収録）
+| 曲名              | 収録アルバム                                                  | 発売日                                                                      | 製造番号     |
+| --------------- | ------------------------------------------------------- | ------------------------------------------------------------------------ | -------- |
+| Proof of Myself | 『**[VINTAGE S](../Page/VINTAGE_S.md "wikilink")**』\[1\] | [2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") | KICS-790 |
+| Lively Motion   |                                                         |                                                                          |          |
+
+## 脚注
 
 [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:佐藤英敏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤英敏が制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink")
+
+1.

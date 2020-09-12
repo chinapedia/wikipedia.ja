@@ -1,39 +1,67 @@
 > この記事は[AMD Am2900](https://ja.wikipedia.org/wiki/AMD_Am2900)から翻訳されています。
 
 
-**Am2900** は、[AMDが](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")1975年に発売した[集積回路](../Page/集積回路.md "wikilink")（ICチップ）のファミリである。機能的には[ビットスライス](../Page/ビットスライス.md "wikilink")方式で[プロセッサ](../Page/プロセッサ.md "wikilink")のセットを構成するものであり、プロセステクノロジは[バイポーラトランジスタ](../Page/バイポーラトランジスタ.md "wikilink")である。ビットスライス方式であるため、データ/アドレス/命令のビット幅などを任意の幅に設計できる（要するに必要なだけ並べればよい、ということである）。
+**Am2900** は、[AMDが](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")1975年に発売した[集積回路](../Page/集積回路.md "wikilink")（ICチップ）のファミリである\[1\]。これらのICは、機能的には[ビットスライス](../Page/ビットスライス.md "wikilink")方式で[プロセッサ](../Page/プロセッサ.md "wikilink")のセットを構成するものであり、プロセステクノロジは[バイポーラトランジスタ](../Page/バイポーラトランジスタ.md "wikilink")である。それぞれがコンピュータ[制御装置](../Page/制御装置.md "wikilink") (CCU) の異なる側面を表すモジュラーコンポーネントとして使用できるように設計された。Am2900ファミリは、ビットスライス方式であるため、データ/アドレス/命令を4ビットの任意の倍数になるようにCCUを実装することができた。このモジュール方式の大きな欠点は、単一のCPU ICでできることを実装するために、より多くのICを必要とすることであった。Am2901チップは、[演算論理ユニット](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")(ALU)であり、シリーズのコアである。4ビットでカウントし、バイナリ操作やさまざまな[ビットシフト演算を実装していた](../Page/ビット演算.md "wikilink")。
+
+2901とファミリの他のいくつかのチップは、1975年のMotorolaとRaytheonを皮切りに、Cypress Semiconductor、National Semiconductor、NEC、Thomson、およびSigneticsなど、非常に多くの他のメーカーから[セカンド・ソースとして供給された](../Page/セカンドソース.md "wikilink")。ソビエト連邦とその後のロシアでは、Am2900ファミリーは1804シリーズとして製造されていた (例: Am2901はKR1804VS1と指定/) が\[2\]\[3\]、2016年現在も生産されている\[4\]。
 
 ## 採用例
 
 例えばALUのみ使用、というものもあれば、システム全体として本系列を採用しているものもある。以下では特に識別はしていない。
 
-  - 木星探査機[ガリレオの姿勢制御コンピュータやNASA製航空機で使われた](../Page/ガリレオ_\(探査機\).md "wikilink") [Itek](https://ja.wikipedia.org/wiki/:en:Itek "wikilink") Advanced Technology Airborne Computer (ATAC)。Am2900ファミリを使った16ビットで16本のレジスタを持つコンピュータである。ガリレオに搭載されたATACには4つの特殊な命令が追加され、2901の放射線耐性を強化したバージョンも使われた\[1\]。
+  - [アポロ・コンピュータ](../Page/アポロコンピュータ.md "wikilink") Tern ファミリー: DN460, DN660, DSP160. すべて同じシステムボードを使用しておりMC68010命令セットをエミュレートする\[5\]。
 
-  - [データゼネラル](../Page/データゼネラル.md "wikilink") Nova 4: Am2901 [ALUを並列に構成して](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")16ビットワードを扱えるようにしていた。基板には15個の Am2901 ALU が搭載されたものもある。\[2\]
+  - 木星探査機[ガリレオの姿勢制御コンピュータやNASA製航空機で使われた](../Page/ガリレオ_\(探査機\).md "wikilink") [Itek](https://ja.wikipedia.org/wiki/:en:Itek "wikilink") Advanced Technology Airborne Computer (ATAC)。Am2900ファミリを使った16ビットで16本のレジスタを持つコンピュータである。ガリレオに搭載されたATACには4つの特殊な命令が追加され、2901の放射線耐性を強化したバージョンも使われた\[6\]。
 
-  - [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") [PDP-11](../Page/PDP-11.md "wikilink")の機種 PDP-11/23、PDP-11/34、PDP-11/44 の浮動小数点オプション（それぞれ FPF11、FP11-A、FP11-F）\[3\]\[4\]
+  - [データゼネラル Nova 4](https://ja.wikipedia.org/wiki/データゼネラルNova "wikilink"): Am2901 [ALUを並列に構成して](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")16ビットワードを扱えるようにしていた。基板には15個の Am2901 ALU が搭載されたものもある\[7\]。
 
-  - [ゼロックス](../Page/ゼロックス.md "wikilink") Dandelion: [Xerox Star](../Page/Xerox_Star.md "wikilink") と[LISPマシン](../Page/LISPマシン.md "wikilink") Xerox 1108 で使われた。\[5\]
+  - [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") [PDP-11](../Page/PDP-11.md "wikilink")の機種 PDP-11/23、PDP-11/34、PDP-11/44 の浮動小数点オプション（それぞれ FPF11、FP11-A、FP11-F）\[8\]\[9\]
 
-  - イギリスの GEC 4060/4150/4160（いずれもAm2901を使った16ビット構成）と 4090/418x/419x（Am2901を18個使って、32ビット整数ALUと64ビット倍精度FPUを構成）\[6\]
+  - DEC [VAX 11/730](https://ja.wikipedia.org/wiki/VAX#VAXシステム "wikilink"): CPUにAM2901を8個使用した\[10\]。
 
-  - [DEC](https://ja.wikipedia.org/wiki/デジタル・イクイップメント・コーポレーション "wikilink") [PDP-10](../Page/PDP-10.md "wikilink") の KS10 モデル\[7\]
+  - [Hewlett-Packard](https://ja.wikipedia.org/wiki/Hewlett-Packard "wikilink") (現在は[Keysight](https://ja.wikipedia.org/wiki/:en:Keysight "wikilink")) HP 1000 [A-series](https://ja.wikipedia.org/wiki/:en:HP_2100#1000_series "wikilink") model A600: 16ビットプロセッサに4つのAM2901 ALUを使用した\[11\]。
+
+  - [ゼロックス](../Page/ゼロックス.md "wikilink") Dandelion: [Xerox Star](../Page/Xerox_Star.md "wikilink") と[LISPマシン](../Page/LISPマシン.md "wikilink") Xerox 1108 で使われた。\[12\]
+
+  - イギリスの [GEC 4000シリーズミニコンピュータ](https://ja.wikipedia.org/wiki/:en:GEC_4000_series "wikilink"): 4060/4150/4160（いずれもAm2901を使った16ビット構成）と 4090/418x/419x（Am2901を18個使って、32ビット整数ALUと64ビット倍精度FPUを構成）\[13\]
+
+  - [DEC](https://ja.wikipedia.org/wiki/デジタル・イクイップメント・コーポレーション "wikilink") [PDP-10](../Page/PDP-10.md "wikilink") の KS10 モデル\[14\]
 
   - NCRの [Joel McCormack](https://ja.wikipedia.org/wiki/:en:Joel_McCormack "wikilink") が設計した [UCSD Pascal](../Page/UCSD_p-System.md "wikilink") P-machine プロセッサ
 
-  - [MAI Basic Four](https://ja.wikipedia.org/wiki/:en:MAI_Basic_Four "wikilink") の一部マシン\[8\]
+  - [MAI Basic Four](https://ja.wikipedia.org/wiki/:en:MAI_Basic_Four "wikilink") の一部マシン\[15\]
 
   - グラフィックスコンピュータ
 
-  - [SM-1420](https://ja.wikipedia.org/wiki/:en:SM-1420 "wikilink") - ソ連のPDP-11クローン\[9\]。他のクローンでも使われていたと見られている\[10\]。
+  - [SM-1420](https://ja.wikipedia.org/wiki/:en:SM-1420 "wikilink") - ソ連のPDP-11クローン\[16\]。他のクローンでも使われていたと見られている\[17\]。
 
   - [Lilith](../Page/Lilith.md "wikilink") - [ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")（[チューリッヒ工科大学](../Page/チューリッヒ工科大学.md "wikilink")）
 
-  - [AT\&T](../Page/AT&T.md "wikilink") [3B20D](https://ja.wikipedia.org/wiki/:en:3B_series_computers "wikilink") コンピュータ\[11\]
+  - [アタリの](../Page/アタリ_\(企業\).md "wikilink")[ベクターグラフィックス](https://ja.wikipedia.org/wiki/ベクターグラフィックス "wikilink")・[アーケードマシン](../Page/アーケードゲーム.md "wikilink"): [Tempest](https://ja.wikipedia.org/wiki/:en:Tempest_\(arcade_game\) "wikilink"), [Battlezone](https://ja.wikipedia.org/wiki/:en:Battlezone_\(1980_video_game\) "wikilink"), [Red Baron](https://ja.wikipedia.org/wiki/:en:Red_Baron_\(arcade_game\) "wikilink") ではそれぞれ数学ボックスの補助回路基板に4個のAm2901 ICが使用された。
+
+  - アタリのラスターグラフィックス・アーケードマシン: [I, Robot](https://ja.wikipedia.org/wiki/:en:I,_Robot_\(video_game\) "wikilink") はポリゴンを塗りつぶした最初の商用ゲームで\[18\]、4個のAMD 2901チップを中心に構築された演算プロセッサを搭載した\[19\]。
+
+  - [Pixar Image Computer](https://ja.wikipedia.org/wiki/Pixar_Image_Computer "wikilink"): それぞれ4つのAm2900を搭載した4つのチャネルプロセッサ
+
+  - Simulation Excel (Sim-X), [Oslo, Norway](https://ja.wikipedia.org/wiki/:en:Oslo,_Norway "wikilink"): 文字書体ワークステーション/タイプセッター。4つのプロセッサのうちの1つは、4つの2901スライスと1つの2910アドレスシーケンサから構築された16ビットマイクロコード化された計算・変換エンジンであった。Sim-Xマシンは、16ビットの整数乗算器を使用してグラフィカル変換を最適化した\[20\]。
+
+  - Eventide H949 Harmonizer: 4つのAm2901チップ(といくつかのマイクロコードPROM)がアドレス生成とDACシステムの基準電圧の生成に使用された。オーディオは2901 ALUセクションでは処理されなかった。
+
+  - 多くのSiemens TelepermとS5 PLCは、産業用制御で使用され、2900シリーズを使用して構築された。
+
+  - [AT\&T](../Page/AT&T.md "wikilink") [3B20D](https://ja.wikipedia.org/wiki/3Bシリーズ_\(コンピュータ\) "wikilink") : 通信制御用の多重化された高可用性プロセッサで、4個のAMD 2901を用いた\[21\]。
+
+  - Metheus / Barco Omega 400および500シリーズのグラフィックシステム: 1982年のディスプレイプロセッサで、4つのAm2901チップ(および8個のマイクロコードPROM)が使用された。
+
+  - [Geac Computer Corporation](https://ja.wikipedia.org/wiki/:en:Geac_Computer_Corporation "wikilink") 2000, 6000, 8000, 9000はすべて4個のAM2901チップをベースとした。2000は薬局で、その他のモデルは図書館、銀行、保険の自動化に使用された。
+
+  - [Ferranti Argus 700](https://ja.wikipedia.org/wiki/:en:Ferranti_Argus#Argus%20600%20and%20700 "wikilink") (700F、700G): AM2901デバイスが使用され、A700の周辺チャネルコントローラの一部ではハードドライブやフロッピードライブなどに使用された。
+
+  - [High Level Hardware Limited Orion](https://ja.wikipedia.org/wiki/:en:HLH_Orion "wikilink"): Unixが動作するユーザ・マイクロコード可能なミニコンピュータ。書き込み可能なマイクロコードで、命令セットを再定義してカスタマイズできた\[22\]。
 
 ## ファミリ
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_2901.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_Am2903.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ic-photo-AMD--AM2909DC-\(AM2900\).png "wikilink") Am2900 Family Data Book に掲載されているものは以下の通り\[12\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_2901.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_Am2903.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ic-photo-AMD--AM2909DC-\(AM2900\).png "wikilink") Am2900 Family Data Book に掲載されているものは以下の通り\[23\]。
 
   - Am2901 – 4ビットスライス[ALU](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")（1975年）
   - Am2902 – [ルックアヘッド・キャリー生成器](https://ja.wikipedia.org/wiki/加算器#キャリー先読み "wikilink")
@@ -97,15 +125,26 @@
 
 [Category:アドバンスト・マイクロ・デバイセズの製品](https://ja.wikipedia.org/wiki/Category:アドバンスト・マイクロ・デバイセズの製品 "wikilink") [Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink")
 
-1.  ["Computers in Spaceflight: The NASA Experience" - Chapter Six - - Distributed Computing On Board Voyager and Galileo -](http://history.nasa.gov/computers/Ch6-3.html)
+1.
 2.
 3.
 4.
 5.
-6.
+6.  ["Computers in Spaceflight: The NASA Experience" - Chapter Six - - Distributed Computing On Board Voyager and Galileo -](http://history.nasa.gov/computers/Ch6-3.html)
 7.
 8.
 9.
 10.
 11.
 12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22. <http://hlhco.info/OrionBrochure.pdf>
+23.

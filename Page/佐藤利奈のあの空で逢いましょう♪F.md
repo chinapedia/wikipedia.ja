@@ -603,8 +603,8 @@
 
 ## 外部リンク
 
-  - **\[<http://www.onsen.ag/program/frina/>? 佐藤利奈のあの空で逢いましょう♪F（番組紹介ページ）\] **
-      - **[インターネットラジオステーション＜音泉＞](http://onsen.ag/#thu) **
+  - ** **
+      - **[インターネットラジオステーション＜音泉＞](https://www.onsen.ag/#thu) **
   - ** **
   - [Supporters community site BEWE](https://web.archive.org/web/20161214093734/http://www.bewe.sc/)
   - [フロンティアワークス](http://www.fwinc.co.jp/)
@@ -612,7 +612,7 @@
       - [チェンバースレコーズ](http://www.chambers.co.jp/)
   - **[Full Books](https://ameblo.jp/fullbooks/) ** - （スパイシーブログ([2007年](../Page/2007年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") 〜 、『スパイシーの「あの空」こぼれ話』から移転)）
       - [「佐藤利奈のあの空で逢えたら」](http://www.chambers.co.jp/radio/ssj2.html)  - （チェンバースレコーズ内サイト(2007年1月1日まで)）
-  - **[あの空便り♪F（番組公式楽屋ブログ）](http://rinanosora.exblog.jp/) **
+  - **[あの空便り♪F（番組公式楽屋ブログ）](https://rinanosora.exblog.jp/) **
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:アニメイトTV](https://ja.wikipedia.org/wiki/Category:アニメイトTV "wikilink") [Category:佐藤利奈](https://ja.wikipedia.org/wiki/Category:佐藤利奈 "wikilink")
 

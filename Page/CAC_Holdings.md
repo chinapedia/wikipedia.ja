@@ -5,7 +5,7 @@
 
 ## 会社沿革
 
-  - [1966年](../Page/1966年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")41年）8月 - **株式会社コンピュータアプリケーションズ**（CAC）設立。
+  - [1966年](../Page/1966年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")41年）8月 - **株式会社コンピュータアプリケーションズ**（CAC）設立。創業者は大久保茂。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）3月 - 日本システムサービス株式会社（SSK）に35%出資、関連会社とする。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）10月 - 株式会社システムユティリティ（SUC）を100%出資により設立。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）12月 - [通産省の](../Page/経済産業省.md "wikilink")「システムインテグレーター認定企業」の認定を受ける。
@@ -44,7 +44,7 @@
   - [株式会社きざしカンパニー](https://ja.wikipedia.org/wiki/kizasi "wikilink")
   - [株式会社アークシステム](http://www.arksystems.co.jp/)
   - [株式会社シーエーシーナレッジ](http://www.cac-k.jp/)
-  - [株式会社CACマルハニチロシステムズ](http://www.cac.co.jp/cac-maruhanichiro/index.html)
+  - [株式会社CACマルハニチロシステムズ](https://www.cacmns.co.jp/)
   - [株式会社ハイテックシステムズ](http://hitecsys.co.jp/)
   - [株式会社クリニカルトラスト](http://www.clinical-trust.com/)
   - [株式会社CAC エクシケア](http://www.exicare.com/)

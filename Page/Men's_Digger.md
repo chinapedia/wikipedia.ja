@@ -1,7 +1,7 @@
 > この記事は[Men\'s Digger](https://ja.wikipedia.org/wiki/Men\'s_Digger)から翻訳されています。
 
 
-『**men's Digger**』（メンズディガー）は[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")、[お兄系](../Page/お兄系.md "wikilink")などの服装を紹介する男性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。フェミワイルドな男性ファッションを紹介している。通称は「メンディグ」。プロデューサーはホスト業界でカリスマと言われている**真樹京介**。編集長は[山田ゴメス](https://ja.wikipedia.org/wiki/山田ゴメス "wikilink")。株式会社[コアマガジン](../Page/コアマガジン.md "wikilink")より発行されていた。4号で休刊。
+『**men's Digger**』（メンズディガー）は[ギャル男](https://ja.wikipedia.org/wiki/ギャル男 "wikilink")、[お兄系](../Page/お兄系.md "wikilink")などの服装を紹介する男性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。フェミワイルドな男性ファッションを紹介している。通称は「メンディグ」。プロデューサーは[真樹京介](https://ja.wikipedia.org/wiki/真樹京介 "wikilink")。編集長は[山田ゴメス](https://ja.wikipedia.org/wiki/山田ゴメス "wikilink")。株式会社[コアマガジン](../Page/コアマガジン.md "wikilink")より発行されていた。4号で休刊。
 
 ## 概説
 

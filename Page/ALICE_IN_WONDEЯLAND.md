@@ -40,6 +40,6 @@
 
 <references />
 
-[Category:2005年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のミニ・アルバム "wikilink") [Category:A9のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:A9のミニ・アルバム "wikilink")
+[Category:2005年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のミニ・アルバム "wikilink") [Category:A9のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:A9のミニ・アルバム "wikilink") [Category:不思議の国のアリスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:不思議の国のアリスを題材とした楽曲 "wikilink")
 
 1.  全ての曲の原曲は『FOOL'S MATE』2005年8月号より。

@@ -520,7 +520,7 @@
   - 撮影監督 - 桑良人
   - 編集 - 松村正宏
   - アフレコ演出 - [三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")
-  - 音楽 - [4-EVER](https://ja.wikipedia.org/wiki/4-EVER "wikilink")
+  - 音楽 - [4-EVER](../Page/4-EVER.md "wikilink")
   - 音楽プロデューサー - 堤健一郎
   - プロデューサー - 並木俊治、守屋秀樹、難波秀行
   - アニメーションプロデューサー - 山口克巳、大倉宏俊、吉田悟、吉澤隆
@@ -539,7 +539,7 @@
 
 :; 「ワラゲッチャーVのテーマ」
 
-:: 作詞 - [えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink") / 作曲 - [小池雅也](../Page/小池雅也.md "wikilink") / 編曲 - [4-EVER](https://ja.wikipedia.org/wiki/4-EVER "wikilink") / 歌 - [金田朋子](../Page/金田朋子.md "wikilink") & クローバー
+:: 作詞 - [えんどうてつや](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink") / 作曲 - [小池雅也](../Page/小池雅也.md "wikilink") / 編曲 - [4-EVER](../Page/4-EVER.md "wikilink") / 歌 - [金田朋子](../Page/金田朋子.md "wikilink") & クローバー
 
 :; 「ワンダフルワールド マスター オブ エピック」
 

@@ -76,8 +76,11 @@
 
 ## 関連項目
 
-  - [BINGO PARTY SPLASH SP](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")
+  - [BINGO PARTY](../Page/BINGO_PARTY.md "wikilink")
+  - [BINGO PARTY MULTICARD](https://ja.wikipedia.org/wiki/BINGO_PARTY_MULTICARD "wikilink")
+  - [BINGO PARTY PHOENIX](../Page/BINGO_PARTY_PHOENIX.md "wikilink")
   - [BINGO PARTY SPLASH](../Page/BINGO_PARTY_SPLASH.md "wikilink")
+  - [BINGO PARTY SPLASH SP](../Page/BINGO_PARTY_SPLASH_SP.md "wikilink")
 
 ## 外部リンク
 

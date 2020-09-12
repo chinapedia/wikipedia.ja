@@ -184,24 +184,24 @@
 
 ## ネット局と放送時間
 
-| 放送対象地域                                                                               | 放送局                                                         | 放送日時               | 備考      |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------ | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")  | 月曜 24時45分 - 25時10分 | **制作局** |
-| [岩手県](../Page/岩手県.md "wikilink")                                                     | [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")                | 同時ネット              |         |
-| [広島県](../Page/広島県.md "wikilink")                                                     | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")   |                    |         |
-| [長野県](../Page/長野県.md "wikilink")                                                     | [長野放送](../Page/長野放送.md "wikilink")                          | 月曜 24時35分 - 25時00分 | 14日遅れ   |
-| [福岡県](../Page/福岡県.md "wikilink")                                                     | [テレビ西日本](../Page/テレビ西日本.md "wikilink")                      | 火曜 24時50分 - 25時15分 | 15日遅れ   |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [テレビ熊本](../Page/テレビ熊本.md "wikilink")                        | 木曜 25時35分 - 26時00分 | 17日遅れ   |
-| [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink") | 水曜 24時35分 - 25時00分 | 23日遅れ   |
-| [長崎県](../Page/長崎県.md "wikilink")                                                     | [テレビ長崎](../Page/テレビ長崎.md "wikilink")                        | 火曜 24時35分 - 25時00分 | 29日遅れ   |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道文化放送](../Page/北海道文化放送.md "wikilink")                    | 火曜 24時45分 - 25時10分 |         |
-| [沖縄県](../Page/沖縄県.md "wikilink")                                                     | [沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")                      | 金曜 14時35分 - 15時00分 | 32日遅れ   |
-| [山形県](../Page/山形県.md "wikilink")                                                     | [さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")               | 木曜 24時35分 - 25時00分 | 38日遅れ   |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [富山テレビ](../Page/富山テレビ放送.md "wikilink")                      | 月曜 25時35分 - 26時00分 | 56日遅れ   |
-| [静岡県](../Page/静岡県.md "wikilink")                                                     | [テレビ静岡](../Page/テレビ静岡.md "wikilink")                        | 木曜 25時15分 - 25時40分 | 59日遅れ   |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [仙台放送](../Page/仙台放送.md "wikilink")                          | 水曜 25時13分 - 25時38分 | 途中打ち切り  |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [岡山放送](../Page/岡山放送.md "wikilink")                          | 火曜 25時40分 - 26時05分 | 106日遅れ  |
-| [関西広域圏](https://ja.wikipedia.org/wiki/関西広域圏 "wikilink")                              | [関西テレビ](../Page/関西テレビ放送.md "wikilink")                      | 月曜 24時35分 - 25時00分 | 175日遅れ  |
+| 放送対象地域                                                                               | 放送局                                                        | 放送日時               | 備考      |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------ | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") | 月曜 24時45分 - 25時10分 | **制作局** |
+| [岩手県](../Page/岩手県.md "wikilink")                                                     | [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")               | 同時ネット              |         |
+| [広島県](../Page/広島県.md "wikilink")                                                     | [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")  |                    |         |
+| [長野県](../Page/長野県.md "wikilink")                                                     | [長野放送](../Page/長野放送.md "wikilink")                         | 月曜 24時35分 - 25時00分 | 14日遅れ   |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [テレビ西日本](../Page/テレビ西日本.md "wikilink")                     | 火曜 24時50分 - 25時15分 | 15日遅れ   |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [テレビ熊本](../Page/テレビ熊本.md "wikilink")                       | 木曜 25時35分 - 26時00分 | 17日遅れ   |
+| [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")                | 水曜 24時35分 - 25時00分 | 23日遅れ   |
+| [長崎県](../Page/長崎県.md "wikilink")                                                     | [テレビ長崎](../Page/テレビ長崎.md "wikilink")                       | 火曜 24時35分 - 25時00分 | 29日遅れ   |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道文化放送](../Page/北海道文化放送.md "wikilink")                   | 火曜 24時45分 - 25時10分 |         |
+| [沖縄県](../Page/沖縄県.md "wikilink")                                                     | [沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")                     | 金曜 14時35分 - 15時00分 | 32日遅れ   |
+| [山形県](../Page/山形県.md "wikilink")                                                     | [さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")              | 木曜 24時35分 - 25時00分 | 38日遅れ   |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [富山テレビ](../Page/富山テレビ放送.md "wikilink")                     | 月曜 25時35分 - 26時00分 | 56日遅れ   |
+| [静岡県](../Page/静岡県.md "wikilink")                                                     | [テレビ静岡](../Page/テレビ静岡.md "wikilink")                       | 木曜 25時15分 - 25時40分 | 59日遅れ   |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [仙台放送](../Page/仙台放送.md "wikilink")                         | 水曜 25時13分 - 25時38分 | 途中打ち切り  |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [岡山放送](../Page/岡山放送.md "wikilink")                         | 火曜 25時40分 - 26時05分 | 106日遅れ  |
+| [関西広域圏](https://ja.wikipedia.org/wiki/関西広域圏 "wikilink")                              | [関西テレビ](../Page/関西テレビ放送.md "wikilink")                     | 月曜 24時35分 - 25時00分 | 175日遅れ  |
 
   - ほとんどのネット局では、サッカー中継などで番組が休止になり、番組開始当初より遅れが拡大していた。
   - テレビ新広島では基本的に同時ネットであるが、あくまでローカル枠で番販ネットをしている関係で3度未放送（振替放送なし）となり、2007年9月17日放送分の最終回も代替放送を行わず、9月10日が実質的な最終回となった。

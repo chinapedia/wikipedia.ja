@@ -925,7 +925,7 @@ AVCD-23907</p></td>
 
   - [「Let's enjoy DAISHI DANCE DJ play」 DAISHI DANCE公認ファンサイト](http://daishidance-fan.com/)
 
-  - [DAISHI DANCE - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/daishidance/)
+  - [DAISHI DANCE - UNIVERSAL MUSIC JAPAN](https://www.universal-music.co.jp/daishidance/)
 
   - [DAISHI DANCE - SPACE SHOWER MUSIC](http://spaceshowermusic.com/lb/artist/648/)
 

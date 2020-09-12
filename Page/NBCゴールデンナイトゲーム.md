@@ -43,6 +43,10 @@
 
   - [日本シリーズは原則として開催曜日に合わせたネットワークで放送される](../Page/日本選手権シリーズ.md "wikilink")（2010年も土・日開催分のJRNネットは継続）が、[2007年](../Page/2007年の日本シリーズ.md "wikilink")（中日対日本ハム）は例外的に全5試合JRNネット（[北海道放送](../Page/HBCラジオ.md "wikilink")・[中部日本放送制作](../Page/CBCラジオ.md "wikilink")）により放送された。
 
+## 関連項目
+
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（NBCテレビ）
+
 [Category:長崎放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:長崎放送のラジオ番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink")
 
 1.  TBSラジオが自社およびJRNネットワーク番組としての野球中継を廃止した2018年以降は、厳密には（NRNとのクロスネットを含む）JRN加盟局間他との個別ネット扱いとなる。

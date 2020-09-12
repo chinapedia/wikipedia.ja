@@ -13,7 +13,7 @@
 
 ### 総合格闘技 - プロレスデビュー
 
-[2003年](../Page/2003年.md "wikilink")1月、総合格闘技団体[ZST](../Page/ZST.md "wikilink")における水野健次戦で総合デビューを果たす。[2004年](../Page/2004年.md "wikilink")にはジェネシス・[ライト級](../Page/ライト級.md "wikilink")トーナメントで優勝を飾るなど、総合では無敗を誇る活躍を見せた。結果を残したことで、総合格闘技界からは多数のオファーが来ていたが、当初の目標であった「プロレスラーになりたい」という思いは変わらず、全てのオファーを断ると、[2005年](../Page/2005年.md "wikilink")に[専修大学](../Page/専修大学.md "wikilink")を1年間休学し、プロレス修行のために自費で単身[メキシコ](../Page/メキシコ.md "wikilink")へと出た\[4\]。[オリエンタルが主宰するアステカ](https://ja.wikipedia.org/wiki/オリエンタル_\(プロレスラー\) "wikilink")・ブドウカン道場でトレーニングを積み、9月16日のアレナ・ネサ大会のブラック・スパイダー & カン・スタン組を相手にプロレス・デビュー戦を果たす。また、現地では[覆面レスラー](../Page/覆面レスラー.md "wikilink")、**YUJIRO**としても活動した。
+[2003年](../Page/2003年.md "wikilink")1月、総合格闘技団体[ZST](../Page/ZST.md "wikilink")における水野健次戦で総合デビューを果たす。[2004年](../Page/2004年.md "wikilink")にはジェネシス・[ライト級](../Page/ライト級.md "wikilink")トーナメントで優勝を飾るなど、総合では無敗を誇る活躍を見せた。結果を残したことで、総合格闘技界からは多数のオファーが来ていたが、当初の目標であった「プロレスラーになりたい」という思いは変わらず、全てのオファーを断ると、[2005年](../Page/2005年.md "wikilink")に[専修大学](../Page/専修大学.md "wikilink")を1年間休学し、プロレス修行のために自費で単身[メキシコ](../Page/メキシコ.md "wikilink")へ渡った\[4\]。[オリエンタルが主宰するアステカ](https://ja.wikipedia.org/wiki/オリエンタル_\(プロレスラー\) "wikilink")・ブドウカン道場でトレーニングを積み、9月16日のアレナ・ネサ大会のブラック・スパイダー & カン・スタン組を相手にプロレス・デビュー戦を果たす。また、現地では[覆面レスラー](../Page/覆面レスラー.md "wikilink")、**YUJIRO**としても活動した。
 
 ### ハッスル
 
@@ -71,7 +71,7 @@
 
 #### 2017年
 
-1月4日、[レッスルキングダム11にて](https://ja.wikipedia.org/wiki/レッスルキングダム_\(プロレス興行\)#WRESTLE_KINGDOM_11_in_東京ドーム "wikilink")[高橋ヒロムに敗れ](https://ja.wikipedia.org/wiki/高橋広夢 "wikilink")、[IWGPジュニアヘビー級王座](../Page/IWGPジュニアヘビー級王座.md "wikilink")から陥落。その後、3ヶ月の時を経て、[SAKURA GENESIS 2017にてジュニア王座を保持するヒロムと再戦](https://ja.wikipedia.org/wiki/サクラ・ジェネシス#2017年 "wikilink")。序盤からホバーボードロックを仕掛けて短期決戦を狙ったが、[高橋ヒロムのサンセットフリップ](https://ja.wikipedia.org/wiki/高橋広夢 "wikilink")・パワーボムで場外に叩きつけられ失速。最後はTIME BOMBでピンフォールを奪われ、1分56秒という短時間で敗れた。
+1月4日、[レッスルキングダム11にて](https://ja.wikipedia.org/wiki/レッスルキングダム_\(プロレス興行\)#WRESTLE_KINGDOM_11_in_東京ドーム "wikilink")[高橋ヒロム](https://ja.wikipedia.org/wiki/高橋ヒロム "wikilink")に敗れ、[IWGPジュニアヘビー級王座](../Page/IWGPジュニアヘビー級王座.md "wikilink")から陥落。その後、3ヶ月の時を経て、[SAKURA GENESIS 2017にてジュニア王座を保持するヒロムと再戦](https://ja.wikipedia.org/wiki/サクラ・ジェネシス#2017年 "wikilink")。序盤からホバーボードロックを仕掛けて短期決戦を狙ったが、[高橋ヒロム](https://ja.wikipedia.org/wiki/高橋ヒロム "wikilink")のサンセットフリップ・パワーボムで場外に叩きつけられ失速。最後はTIME BOMBでピンフォールを奪われ、1分56秒という短時間で敗れた。
 
 5月、ROHと新日本による北米ツアー、WAR OF THE WORLDSに参戦。同月7日のトロント大会にて[ジェイ・リーサル](https://ja.wikipedia.org/wiki/ジェイ・リーサル "wikilink")と対戦し、新技のスモールパッケージ・ドライバーで勝利した\[10\]。ツアー最終戦となる14日の[2300アリーナ](https://ja.wikipedia.org/wiki/2300アリーナ "wikilink")大会では、[ROH世界TV王座](https://ja.wikipedia.org/wiki/ROH世界TV王座 "wikilink")を保持する[マーティ・スカル](https://ja.wikipedia.org/wiki/マーティ・スカル "wikilink")と対戦し、スモールパッケージ・ドライバーで勝利を収めた\[11\]。
 
@@ -107,17 +107,17 @@
 
 #### 2019年
 
-1月末で新日本プロレスを退団したことを発表\[14\]。2月20日に一般人女性との結婚及び長女誕生を発表した\[15\]。ニューヨーク時間・4月5日に記者会見を行い[WWE](../Page/WWE.md "wikilink")への入団、[NXTブランドとの契約を発表した](https://ja.wikipedia.org/wiki/WWE・NXT "wikilink")\[16\]。
+1月末で新日本プロレスを退団したことを発表\[14\]。2月20日に一般人女性との結婚および長女誕生を発表した\[15\]。ニューヨーク時間・4月5日に記者会見を行い[WWE](../Page/WWE.md "wikilink")への入団、[NXTブランドとの契約を発表した](https://ja.wikipedia.org/wiki/WWE・NXT "wikilink")\[16\]。
 
 ## 人物・エピソード
 
-  - 根っからのプロレス好き。家では毎日のように、兄・建太郎を相手にプロレスごっこで勤しんでいた程で、6～7歳の頃には既に[ムーンサルトプレス](../Page/ムーンサルトプレス.md "wikilink")をマスターしていた\[17\]。
+  - 根っからのプロレス好き。家では毎日のように、兄・建太郎を相手にプロレスごっこをしていた程で、6～7歳の頃には既に[ムーンサルトプレス](../Page/ムーンサルトプレス.md "wikilink")をマスターしていた\[17\]。
   - 母・幸子の証言によると、少年時代のKUSHIDAは全く手が掛からず、反抗期もなかったという。小中高を通じて成績は上位で、スポーツ万能。学級委員長を務めることもしばしばで、通信簿のコメント欄にも賛辞ばかりが並んでいたほどの模範的な優等生だった。ただしKUSHIDA自身が揉め事を嫌う性格であったことから、優等生を演じていた部分が少なからずあったことを明らかにしている\[18\]。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の春、[高田延彦](../Page/高田延彦.md "wikilink")が主宰する[高田道場](../Page/高田道場.md "wikilink")が、自宅からは徒歩圏内で、電車に乗っても一駅という至近の距離で設立されたことに心ときめいたという。プロレスラーを志していた当時のKUSHIDAは、「これは、運命に違いない」と、述懐している\[19\]。
   - [専修大学](../Page/専修大学.md "wikilink")在学中は、[東京スポーツ](../Page/東京スポーツ.md "wikilink")（以下「東スポ」）編集局で[アルバイト](../Page/アルバイト.md "wikilink")をしていた。東スポからは、正社員としての内定も得ていたが、プロレスラーとしての夢を捨てきれず、内定を辞退している\[20\]。
   - 東スポ勤務時代、同紙の「風俗男セン」の現場に駆り出され、[SMイメクラ取材の写真モデルとしてメディアデビューを果たしている](../Page/イメージクラブ.md "wikilink")。KUSHIDA自身はこの経験について、「人前に出ることの恥ずかしさというものは、あれでなくなりました」と思い述べている\[21\]。
   - 映画『[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャー.md "wikilink")』の大ファンであることを公言しており、[アレックス・シェリー](https://ja.wikipedia.org/wiki/アレックス・シェリー "wikilink")とのタッグチーム名を[タイム・スプリッターズ](https://ja.wikipedia.org/wiki/タイム・スプリッターズ "wikilink")と名付けたのも、同作品をこよなく愛しているからということが関わっている。2014年1月4日の東京ドーム大会では、怪我から復帰したシェリーを、怪我する元の状態から連れてくるという意味を込めて、劇中に登場するタイムマシン『[デロリアン](../Page/デロリアン_\(タイムマシン\).md "wikilink")』に乗って入場するという演出をやってのけている。また、この頃から同作品の主人公、[マーティ・マクフライが着用している](https://ja.wikipedia.org/wiki/バック・トゥ・ザ・フューチャーシリーズの登場人物#主要人物 "wikilink")[デニムジャケット](../Page/ジャケット.md "wikilink")・[ダウンベストを着込んで入場するようになった](https://ja.wikipedia.org/wiki/ダウンジャケット#Vest（ベスト）型 "wikilink")。
-  - 　2014年から3年連続で9月のビッグマッチである[DESTRUCTIONにてIWGPジュニアヘビー級王座の防衛に失敗し](https://ja.wikipedia.org/wiki/ディストラクション_\(プロレス興行\) "wikilink")、王座から陥落してしまうというジンクスを背負っていたが、2017年の大会では[エル・デスペラード](https://ja.wikipedia.org/wiki/エル・デスペラード "wikilink")相手に防衛に成功しジンクスを払拭した。
+  - 2014年から3年連続で9月のビッグマッチである[DESTRUCTIONにてIWGPジュニアヘビー級王座の防衛に失敗し](https://ja.wikipedia.org/wiki/ディストラクション_\(プロレス興行\) "wikilink")、王座から陥落してしまうというジンクスを背負っていたが、2017年の大会では[エル・デスペラード](https://ja.wikipedia.org/wiki/エル・デスペラード "wikilink")相手に防衛に成功しジンクスを払拭した。
   - 2019年のインタビューでは「[BULLET CLUB入りが叶わなかったのを理由に新日本を退団した](https://ja.wikipedia.org/wiki/BULLET_CLUB "wikilink")」というインターネット上の噂に対して「憶測、妄想があたかも事実のように広まるのは本意ではない」とファン層へ訴えつつも、プロレスを隅から隅まで見たいという好奇心から退団したのだと、希望が通らなかったという説を否定。「好奇心があるとはいえ決断するには相当な勇気が必要だったのでは?」というインタビュアーからの質問には、新日本時代に「チャンピオンになどなれない」と言われたり、学生時代に「小さいからプロレスラーになれるわけがない」と言われたりして、そのたびに反骨精神が燃えたものだ、と答えている。そして、WWE入りが濃厚視されている中で「ネガティブな噂を口にするレスラーは大体インターネットから情報を仕入れているものであり、WWEの経験は実際にそこに入団したものしか話せない」と説いた。これらのことから、KUSHIDAにはインターネットを信用しない傾向があると言える\[22\]。
 
 ## 戦績
@@ -135,7 +135,7 @@
   - **バック・トゥ・ザ・フューチャー**
     2017年5月のアメリカ遠征中に初公開された技で、所謂**スモールパッケージ・ドライバー**で現在のフィニッシャー。
     [フィッシャーマンズ・スープレックス](../Page/フィッシャーマンズ・スープレックス.md "wikilink")の体勢で捉えた相手の体を宙に浮かせ、同時に自らも飛び上がりながら空中で相手の右足を自らの両足で挟み込み、そのまま左半身から落下しながら相手の頭部をマットに叩きつけ、手足のフックを解かずに、そのまま首固めの体勢で固めてフォールに移行する。日本での初公開は2017年5月22日のBEST OF THE SUPER Jr.[BUSHI](../Page/BUSHI.md "wikilink")戦。
-    技名の由来は、自身が大ファンである事を公言している映画『[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")』から。年頭より[高橋ヒロムに連敗を喫したことで](https://ja.wikipedia.org/wiki/高橋広夢 "wikilink")、ジュニア戦線から大きく後退してしまったことから、「ヒロムによって破壊された未来に戻って見せる」という意味合いが込められている。
+    技名の由来は、自身が大ファンである事を公言している映画『[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")』から。年頭より[高橋ヒロム](https://ja.wikipedia.org/wiki/高橋ヒロム "wikilink")に連敗を喫したことで、ジュニア戦線から大きく後退してしまったことから、「ヒロムによって破壊される前の未来に戻って見せる」という意味合いが込められている。
   - [ミッドナイト・エクスプレス](https://ja.wikipedia.org/wiki/ムーンサルトプレス#派生技 "wikilink")
     [ムーンサルトプレス](../Page/ムーンサルトプレス.md "wikilink")の体勢で後方宙返り中に360°錐揉み回転を加えて、自らの体重を浴びせて相手の体の上に落下する。ホバーボードロック開発後は、大一番でのみ解禁している。
     技名の由来は、[沢木耕太郎](../Page/沢木耕太郎.md "wikilink")の著書『[深夜特急](../Page/深夜特急.md "wikilink")』から来ている。
@@ -147,7 +147,7 @@
     [逆水平チョップ](https://ja.wikipedia.org/wiki/手刀打ち#逆水平チョップ "wikilink")
     [エレファントキック](https://ja.wikipedia.org/wiki/サッカーボールキック#派生技 "wikilink")
     前かがみとなった相手に対して、勢いよく振り上げた右足で相手の顔面目掛けて蹴り上げていく。
-    劣勢に立たせれた状態から反撃に転じるキッカケとなる技のひとつ。
+    劣勢に立たされた状態から反撃に転じるキッカケとなる技のひとつ。
   - **バズソーキック**
     中腰の相手に対して放つ側頭部への回し蹴り。KUSHIDAの師である[TAJIRI](../Page/TAJIRI.md "wikilink")の代名詞的な技。
   - [ハンドスプリング・エルボー](https://ja.wikipedia.org/wiki/エルボー・バット#ハンド・スプリング式バック・エルボー "wikilink")
@@ -207,7 +207,7 @@
   - [ジャパニーズ・レッグロール・クラッチ・ホールド](https://ja.wikipedia.org/wiki/フォール技#ジャパニーズ・レッグロール・クラッチ "wikilink")
     KUSHIDAがコンスタントに使用している[クイック技のひとつ](../Page/フォール技.md "wikilink")。[タッグマッチ](../Page/タッグマッチ.md "wikilink")や[トリプルスレットマッチ](../Page/トリプルスレットマッチ.md "wikilink")の時は、相手を転がしてブリッジで押さえ込む段階でカットに入ってきた相手の攻撃をかわし、背後から腰に手を回して、[ジャーマン・スープレックス](../Page/ジャーマン・スープレックス.md "wikilink")で投げつけ、二人同時にフォールを奪う型が存在する。
 
-## タイトル履歴
+## タイトル歴
 
 [KUSHIDA_IWGP_Junior_Heavyweight_Champion.JPG](https://ja.wikipedia.org/wiki/File:KUSHIDA_IWGP_Junior_Heavyweight_Champion.JPG "fig:KUSHIDA_IWGP_Junior_Heavyweight_Champion.JPG")を腰に巻くKUSHIDA\]\]
 
@@ -324,7 +324,7 @@
   - [KUSHIDAオフィシャルブログ「KUSHIDAのプロレス浪漫飛行」](https://ameblo.jp/ts-kushida/) - Powered by Ameba
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:新日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:新日本プロレスに所属したプロレスラー "wikilink") [Category:CMLLに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:CMLLに参戦したプロレスラー "wikilink") [Category:NWAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:NWAに参戦したプロレスラー "wikilink") [Category:ROHに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:ROHに参戦したプロレスラー "wikilink") [Category:SMASHに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:SMASHに所属したプロレスラー "wikilink") [Category:全日本プロレスの元関係者](https://ja.wikipedia.org/wiki/Category:全日本プロレスの元関係者 "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:専修大学出身の人物](https://ja.wikipedia.org/wiki/Category:専修大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:WWEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:WWEに参戦したプロレスラー "wikilink") [Category:在アメリカ合衆国日本人のプロレスラー](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のプロレスラー "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:新日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:新日本プロレスに所属したプロレスラー "wikilink") [Category:CMLLに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:CMLLに参戦したプロレスラー "wikilink") [Category:NWAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:NWAに参戦したプロレスラー "wikilink") [Category:ROHに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:ROHに参戦したプロレスラー "wikilink") [Category:SMASHに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:SMASHに所属したプロレスラー "wikilink") [Category:全日本プロレスの元関係者](https://ja.wikipedia.org/wiki/Category:全日本プロレスの元関係者 "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:WWEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:WWEに参戦したプロレスラー "wikilink") [Category:在アメリカ合衆国日本人のプロレスラー](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のプロレスラー "wikilink") [Category:専修大学出身の人物](https://ja.wikipedia.org/wiki/Category:専修大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  参考文献『週刊プロレス』2010年11月24日号、頁63 - 66掲載 「レスラーヒューマンストーリー\<19\>～KUSHIDA編」より。
 2.

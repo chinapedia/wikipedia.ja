@@ -1,6 +1,8 @@
 > この記事は[Windows Server](https://ja.wikipedia.org/wiki/Windows_Server)から翻訳されています。
 
 
+**Windows Server**（ウィンドウズ サーバ）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[サーバ](../Page/サーバ.md "wikilink")用[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。
+
 ## 概要
 
 [Windows NTは元来サーバ向けに開発されたOSである](../Page/Windows_NT系.md "wikilink")。[Windows NT 3.5からは](../Page/Microsoft_Windows_NT.md "wikilink")[ワークステーション](../Page/ワークステーション.md "wikilink")版が登場し、[Windows 2000 Professional以降はコンシューマも利用できるOSとして開発されたが](../Page/Microsoft_Windows_2000.md "wikilink")、サーバ版も引き続き存続した。

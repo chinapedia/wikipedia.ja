@@ -43,6 +43,6 @@
   -
   -
   -
-[Category:1981年の映画](https://ja.wikipedia.org/wiki/Category:1981年の映画 "wikilink") [Category:ドイツの伝記映画](https://ja.wikipedia.org/wiki/Category:ドイツの伝記映画 "wikilink") [Category:ドイツの社会派映画](https://ja.wikipedia.org/wiki/Category:ドイツの社会派映画 "wikilink") [Category:実際の出来事に基づいた映画作品](https://ja.wikipedia.org/wiki/Category:実際の出来事に基づいた映画作品 "wikilink") [Category:ノンフィクションを原作とする映画作品](https://ja.wikipedia.org/wiki/Category:ノンフィクションを原作とする映画作品 "wikilink") [Category:売春を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:売春を題材とした映画作品 "wikilink") [Category:ベルリンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ベルリンを舞台とした映画作品 "wikilink") [Category:ドラッグ・カルチャーの映画](https://ja.wikipedia.org/wiki/Category:ドラッグ・カルチャーの映画 "wikilink")
+[Category:1981年の映画](https://ja.wikipedia.org/wiki/Category:1981年の映画 "wikilink") [Category:ドイツの伝記映画](https://ja.wikipedia.org/wiki/Category:ドイツの伝記映画 "wikilink") [Category:ドイツの社会派映画](https://ja.wikipedia.org/wiki/Category:ドイツの社会派映画 "wikilink") [Category:実際の出来事に基づいた映画作品](https://ja.wikipedia.org/wiki/Category:実際の出来事に基づいた映画作品 "wikilink") [Category:ノンフィクションを原作とする映画作品](https://ja.wikipedia.org/wiki/Category:ノンフィクションを原作とする映画作品 "wikilink") [Category:売春を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:売春を題材とした映画作品 "wikilink") [Category:ベルリンで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ベルリンで製作された映画作品 "wikilink") [Category:ベルリンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ベルリンを舞台とした映画作品 "wikilink") [Category:ドラッグ・カルチャーの映画](https://ja.wikipedia.org/wiki/Category:ドラッグ・カルチャーの映画 "wikilink")
 
 1.  独シュテルン紙 1989年51号より

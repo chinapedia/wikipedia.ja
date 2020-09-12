@@ -5,11 +5,11 @@
 
 ## 概要
 
-スターリング・サブマシンガンは[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")を使用し、構造の単純な[シンプル・ブローバック方式と](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")[オープン・ボルト撃発を採用した典型的な](https://ja.wikipedia.org/wiki/:en:open_bolt "wikilink")[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用[サブマシンガンで](../Page/短機関銃.md "wikilink")、同じ軍用型の[UZIと同様](../Page/UZI_\(SMG\).md "wikilink")、[銃剣](../Page/銃剣.md "wikilink")を取り付ける着剣装置が存在する。
+スターリング・サブマシンガンは[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")を使用し、構造の単純な[シンプル・ブローバック方式と](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")[オープン・ボルト撃発を採用した典型的な](https://ja.wikipedia.org/wiki/:en:open_bolt "wikilink")[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用[サブマシンガンで](../Page/短機関銃.md "wikilink")、同じ軍用型の[UZIと同様](../Page/UZI_\(SMG\).md "wikilink")、[銃剣](../Page/銃剣.md "wikilink")を取り付ける着剣装置が存在する。照準器は保護用のガードを備え、フロントサイトは固定式、リアサイトは100ヤードと200ヤードの二段階切換式となっている。
 
 円筒形の本体や[銃口](https://ja.wikipedia.org/wiki/銃口 "wikilink")から見て右側に突き出た[マガジンなど](../Page/弾倉.md "wikilink")、[ステン短機関銃](../Page/ステン短機関銃.md "wikilink")との類似点も多い。事実、この銃は可能な限りステンの生産施設・治具類を流用可能なように設計されており、[鉄パイプ](../Page/鉄パイプ.md "wikilink")製のフレームはステンと同寸である。
 
-しかし、[引き金の直後に存在する独立したグリップ](https://ja.wikipedia.org/wiki/トリガー_\(銃\) "wikilink")、前方に回転させて[銃身下へ折りたためる](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[金属](../Page/金属.md "wikilink")製[銃床](../Page/銃床.md "wikilink")、引き金近くに装着し本体との固定を強固にした[バナナ型マガジン](https://ja.wikipedia.org/wiki/弾倉#ボックスマガジン "wikilink")（ステン用マガジンも流用可能）、[ボルト](https://ja.wikipedia.org/wiki/ボルト_\(銃\) "wikilink")（遊底）の一部に螺旋状の溝を掘って、[砂](../Page/砂.md "wikilink")などの異物を自動排除する設計など、ステンより遥かに洗練された設計になっている。
+しかし、[引き金の直後に存在する独立したグリップ](https://ja.wikipedia.org/wiki/トリガー_\(銃\) "wikilink")、グリップとユニット化され一体で取り外せる機関部、前方に回転させて[銃身下へ折りたためる](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[金属](../Page/金属.md "wikilink")製[銃床](../Page/銃床.md "wikilink")、引き金近くに位置し本体との固定を強固にした弾倉挿入口、スムーズに作動するよう可動式ローラーを内蔵した[バナナ型マガジン](https://ja.wikipedia.org/wiki/弾倉#ボックスマガジン "wikilink")（ステン用マガジンも流用可能）、[ボルト](https://ja.wikipedia.org/wiki/ボルト_\(銃\) "wikilink")（遊底）の一部に螺旋状の溝を掘って、[砂](../Page/砂.md "wikilink")などの異物を自動排除する設計など、ステンより遥かに洗練された設計になっている。また撃発はボルトが完全に前進し切る前に行われるため、射撃にともなう反動をまずボルトの残った前進運動、次いでリコイルスプリングが受けることで、射手に伝わる反動が緩和されている。
 
 ## 歴史
 

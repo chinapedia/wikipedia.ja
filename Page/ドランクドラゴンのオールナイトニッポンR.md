@@ -120,7 +120,7 @@
   - 初代ディレクター 木村
       - 2007年のオールナイトニッポン武道館でオープニングに登場。鈴木とケンカするVTRが流れた。
       - 2008年7月に新ディレクターに交代（新ディレクターは不明）
-  - 構成作家 宮澤一彰(ソース [ライター集団Reezent](http://www12.ocn.ne.jp/~espresso/reezent/4p.html))
+  - 構成作家 宮澤一彰(ソース )
       - かつて「ダビッツのメガネ」のペンネームでハガキ職人をしていた。
 
 ## 関連項目
@@ -132,4 +132,4 @@
   - [ドランクドラゴンのドラゴンアワー](https://ja.wikipedia.org/wiki/ドランクドラゴンのドラゴンアワー "wikilink")
   - ドランクドラゴンのドラゴンタイム
 
-[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink")
+[Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

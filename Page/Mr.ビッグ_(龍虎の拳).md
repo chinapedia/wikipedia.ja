@@ -125,7 +125,7 @@
   - [家弓家正](../Page/家弓家正.md "wikilink") - アニメ『[バトルスピリッツ 龍虎の拳](../Page/バトルスピリッツ_龍虎の拳.md "wikilink")』
   - [小野友樹](../Page/小野友樹.md "wikilink") - 実写映画版『ザ・キング・オブ・ファイターズ』日本語吹き替え
   - [荒井勇樹](https://ja.wikipedia.org/wiki/荒井勇樹 "wikilink") - 3DCGアニメ『THE KING OF FIGHTERS:DESTINY』、アプリ『THE KING OF FIGHTERS ALLSTAR』
-  - [齋藤綾](https://ja.wikipedia.org/wiki/齋藤綾 "wikilink") - アプリ『THE KING OF FIGHTERS ALLSTAR』：プリティー・ビッグ
+  - [齋藤綾](https://ja.wikipedia.org/wiki/齋藤綾 "wikilink") - アプリ『THE KING OF FIGHTERS ALLSTAR』：プリティー・ビッグ\[5\]）
 
 ### 担当俳優
 
@@ -166,3 +166,4 @@
 2.  [『'96 公式ガイドブック』](https://ja.wikipedia.org/wiki/#参考文献 "wikilink") 198-199頁。
 3.
 4.
+5.

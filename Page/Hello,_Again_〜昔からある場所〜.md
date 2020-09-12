@@ -80,4 +80,4 @@
 1.
 2.  「消滅都市」第8話、第12話(最終話)エンディングテーマとして起用。ネット局の[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")では「終らない夏」放送終了以来、タイアップとして24年振りにこの曲が流れた。
 3.
-4.  [JUJUが歌う「ギルティ」主題歌、発売前に2冠達成](http://web.archive.org/web/20101125012656/http://fmvs.jp/news/music/archive/eid4185.html)、meVIEWsa radio、2010年11月12日 0時37分。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+4.  [JUJUが歌う「ギルティ」主題歌、発売前に2冠達成](https://web.archive.org/web/20101125012656/http://fmvs.jp/news/music/archive/eid4185.html)、meVIEWsa radio、2010年11月12日 0時37分。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

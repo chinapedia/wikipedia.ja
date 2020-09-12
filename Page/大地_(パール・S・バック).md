@@ -9,7 +9,13 @@
 
 ## 王龍の娘とパール・S・バックの娘
 
-小説の中に王龍の娘が2人出てくるが、そのうちの1人は[知的障害者](https://ja.wikipedia.org/wiki/知的障害者 "wikilink")であった。実はパール・S・バックの娘も知的障害者であり、彼女に特殊教育を受けさせるための金銭を手に入れることが動機のひとつとなってこの小説を書いたと言われている。王龍は他の子供たちから受けるストレスを、知的障害者の娘を可愛がることによって発散した。王龍は非常にこの娘を可愛がり、使用人に「私が死んだらこの子はどうなるのか? 私はこの子の将来が恐ろしい、しかし自分の手で殺すのももっと恐ろしい」という趣旨のことを話す。パール・S・バックは自らを王龍に見立てて、この小説の一部を書いたものと思われる。
+小説の中に王龍の娘が2人出てくるが、そのうちの1人は[知的障害者](https://ja.wikipedia.org/wiki/知的障害者 "wikilink")であった。実はパール・S・バックの娘も知的障害者であり、彼女に特殊教育を受けさせるための金銭を手に入れることが動機のひとつとなってこの小説を書いたと言われている。王龍は他の子供たちから受けるストレスを、知的障害者の娘を可愛がることによって発散した。王龍は非常にこの娘を可愛がり、使用人に「私が死んだらこの子はどうなるのか? 私はこの子の将来が恐ろしい、しかし自分の手で殺すのももっと恐ろしい」という趣旨のことを話す。
+
+## 政治的影響
+
+一部の学者は、『大地』を、迫り来る日本との戦争において中国への同情を生んだと見ている。「もし中国がアメリカの想像力をかき立てることがなければ、もっと満足のいく極東政策が可能だったかもしれない。」とある者は言う。しかし、『大地』のような作品は、「苦しんでいる中国人への理解ある思いやりをもたらしても、アジアにおける自分たちの限定的な選択肢をアメリカ人に知らせることはほとんどなかった。」という\[1\]。しかし、外交史家のウォルター・ラフェバーは、アメリカ人がバックのような作家により描かれた英雄的な中国人に夢中になったことには同意するものの、「こうした中国観は1937年以降のアメリカの政策を形作るものではなかった。もしそうであれば、アメリカ人は1941年よりずっと前からアジアで戦っていただろう。」と結論づけている\[2\]。
+
+コロンビア大学の政治学者は、の著書『中国のパール・バック：大地への旅（*Pearl Buck in China: Journey to The Good Earth）*』を絶賛した。読者を感動させ、革命的な中国と米国の相互作用を洞察する源としてバックの仕事を再発見するはずだと述べている。スパーリングは、バックがアメリカ人宣教師の娘であったことを観察し、この本が単に人種差別的なステレオタイプを集めたものという非難に対して、この本を擁護している。彼女の見解では、バックは中国の貧困層の生活を深く掘り下げ、「宗教原理主義、人種的偏見、ジェンダー抑圧、性的抑圧、障害者差別」に反対している\[3\]。
 
 ## 日本語訳
 
@@ -28,4 +34,10 @@
 
   - 『大地』（原題：*The Good Earth*、1937年） - 監督：[シドニー・フランクリン](https://ja.wikipedia.org/wiki/シドニー・フランクリン "wikilink")、出演者：[ポール・ムニ](../Page/ポール・ムニ.md "wikilink")、[ルイーゼ・ライナー](../Page/ルイーゼ・ライナー.md "wikilink")、[ウォルター・コノリー](https://ja.wikipedia.org/wiki/ウォルター・コノリー "wikilink")
 
+## 脚注
+
 [Category:アメリカ合衆国の歴史小説](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の歴史小説 "wikilink") [Category:1931年の小説](https://ja.wikipedia.org/wiki/Category:1931年の小説 "wikilink") [Category:中国の歴史を題材とした作品](https://ja.wikipedia.org/wiki/Category:中国の歴史を題材とした作品 "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink")
+
+1.  William L. O'Neill, [*A Democracy At War: America's Fight At Home and Abroad in World War II*](https://books.google.com/books?id=JoUpt-M2eJIC&pg=PA57&dq=O'Neill+Democracy+at+War+The+Good+Earth&hl=en&sa=X&ei=0jMbUdqYC-bmyQGqn4DgCw&ved=0CDgQ6AEwAA#v=onepage&q=O'Neill%20Democracy%20at%20War%20The%20Good%20Earth&f=false), (Harvard University Press, 1997), p 57.
+2.  Walter Lafeber. *The Clash: U.S.-Japanese Relations Throughout History.* (New York; London: Norton, 1997), p. 206.
+3.

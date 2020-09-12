@@ -154,7 +154,7 @@
       - 8月1日 - ライブドアホールディングスを『**株式会社LDH**』（）へ商号変更。[フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")から、旧[証券取引法](https://ja.wikipedia.org/wiki/証券取引法 "wikilink")18条・19条に基づき345億492万円の損害賠償とその[遅延損害金](https://ja.wikipedia.org/wiki/遅延損害金 "wikilink")の支払いを求める訴えを提起される。
       - 8月11日 - 旧経営陣・元[会計監査人](../Page/会計監査人.md "wikilink")[社員](../Page/社員.md "wikilink")らの民事責任について、35億2330万3120円の損害賠償請求訴訟を提起。
   - 2009年（平成21年）
-      - 1月22日 - [フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")に、損害賠償金として310億5442万8000円を支払うことで、[裁判上の和解](https://ja.wikipedia.org/wiki/裁判上の和解 "wikilink")が成立。賠償金は、平成21年3月期決算に[特別損失](https://ja.wikipedia.org/wiki/特別損失 "wikilink")として計上する予定。
+      - 1月22日 - [フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")に、損害賠償金として310億5442万8000円を支払うことで、[裁判上の和解](../Page/裁判上の和解.md "wikilink")が成立。賠償金は、平成21年3月期決算に[特別損失](https://ja.wikipedia.org/wiki/特別損失 "wikilink")として計上する予定。
       - 2月10日 - フジ・メディア・ホールディングスとの裁判上の和解成立を受けて、旧経営陣・元会計監査人社員らに対する損害賠償請求について、35億2330万3120円の支払いから345億7773万1120円の支払いに請求の趣旨を拡張する申立て。
       - 3月17日 - [練馬文化センター](https://ja.wikipedia.org/wiki/練馬文化センター "wikilink")で開かれた[臨時株主総会](https://ja.wikipedia.org/wiki/臨時株主総会 "wikilink")において、[資本金](../Page/資本金.md "wikilink")を1億円、[資本準備金](https://ja.wikipedia.org/wiki/資本準備金 "wikilink")を0円とすることを決議（効力発生日2009年3月31日）。資本金861億円と資本準備金871億円（計1732億円）は、[資本剰余金](https://ja.wikipedia.org/wiki/資本剰余金 "wikilink")に振り替え。
       - 11月24日 - 本店所在地を「赤坂ツインタワー」から「住友不動産西新宿ビル」に移転。

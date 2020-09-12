@@ -1,7 +1,7 @@
 > この記事は[RWE](https://ja.wikipedia.org/wiki/RWE)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:RWE_Logo_2018.svg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:RWE_Turm_Essen.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Rwegewerbegebiet.jpg "wikilink") **RWE AG**（エル・ヴェー・エー、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")までの社名は*Rheinisch-Westfälisches Elektrizitätswerk AG*、ライン・ヴェストファーレン電力会社）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[エッセン](https://ja.wikipedia.org/wiki/エッセン "wikilink")に本社を置く大手エネルギー会社。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Rwegewerbegebiet.jpg "wikilink") **RWE AG**（エル・ヴェー・エー、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")までの社名は*Rheinisch-Westfälisches Elektrizitätswerk AG*、ライン・ヴェストファーレン電力会社）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[エッセン](https://ja.wikipedia.org/wiki/エッセン "wikilink")に本社を置く大手エネルギー会社。
 
 [E.ON](../Page/E.ON.md "wikilink")に次ぐドイツ第二位の[電力会社](https://ja.wikipedia.org/wiki/電力会社 "wikilink")で、ドイツほか、ドイツ国外では[中欧](../Page/中央ヨーロッパ.md "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で[電力](../Page/電力.md "wikilink")・[ガス](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")・[水道](../Page/水道.md "wikilink")会社の大型買収を進め、世界有数の公益事業（パブリック・ユーティリティ）会社となった。ドイツを代表する大企業として、[ドイツ株価指数](../Page/ドイツ株価指数.md "wikilink")（DAX）の30銘柄のひとつに選ばれ、[フランクフルト証券取引所](../Page/フランクフルト証券取引所.md "wikilink")に上場している。
 
@@ -48,7 +48,7 @@ RWEの主な子会社は以下のものがある。
 
 ## 外部リンク
 
-  - [コーポレートサイト](http://www.rwe.com/web/cms/en/8/rwe/)
+  - [コーポレートサイト](https://www.group.rwe/en)
 
   -
   -

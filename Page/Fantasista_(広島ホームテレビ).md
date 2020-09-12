@@ -16,6 +16,6 @@
 
 ## 外部リンク
 
-  - [ファンタジスタ](http://web.archive.org/web/20070216124227/http://www.home-tv.co.jp/fantasista/fantasista.html)（インターネット・アーカイブ保存データ）
+  - [ファンタジスタ](https://web.archive.org/web/20070216124227/http://www.home-tv.co.jp/fantasista/fantasista.html)（インターネット・アーカイブ保存データ）
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方の深夜テレビ番組 "wikilink") [Category:中国・四国地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:サンフレッチェ広島F.C](https://ja.wikipedia.org/wiki/Category:サンフレッチェ広島F.C "wikilink")

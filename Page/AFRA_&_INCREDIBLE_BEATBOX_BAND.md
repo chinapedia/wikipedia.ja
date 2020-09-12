@@ -6,8 +6,8 @@
 ## メンバー
 
   - [AFRA](../Page/AFRA.md "wikilink")
-  - [啓](https://ja.wikipedia.org/wiki/啓_\(ヒューマンビートボクサー\) "wikilink")
-  - [K-MOON](https://ja.wikipedia.org/wiki/K-MOON "wikilink")
+  - 啓
+  - K-MOON
 
 ## 来歴
 
@@ -28,7 +28,7 @@
 
 ## CM
 
-  - [コカコーラ](https://ja.wikipedia.org/wiki/コカコーラ "wikilink")「KREVA＋I.B.B. in ビーチ編」 - [KREVA](../Page/KREVA.md "wikilink")と共演。
+  - [コカコーラ](../Page/コカ・コーラ.md "wikilink")「KREVA＋I.B.B. in ビーチ編」 - [KREVA](../Page/KREVA.md "wikilink")と共演。
 
 ## TV
 
@@ -42,4 +42,4 @@
   - [ODDJOB　RECORD](http://www.oddjob.jp/) - 所属レコード会社のサイト
   - [PUBLIC-IMAGE.ORG インタビュー](http://www.public-image.org/interview/2008/10/14/arfa-ibb.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

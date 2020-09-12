@@ -1,7 +1,7 @@
 > この記事は[Just be conscious](https://ja.wikipedia.org/wiki/Just_be_conscious)から翻訳されています。
 
 
-『**Just be conscious**』（ジャスト ビー コンシャス）は、1996年7月5日にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。
+「**Just be conscious**」（ジャスト ビー コンシャス）は、1996年7月5日にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。
 
 発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-136）。
 
@@ -28,12 +28,26 @@
 
 ## 収録アルバム
 
-| 曲名                                                   | 収録アルバム                                                                                      | 発売日                                                                                       | 備考                                               |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Just be conscious                                    | [Iravati](../Page/Iravati.md "wikilink")                                                    | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") | 8枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
-| [スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink") | 『[スレイヤーズ](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』関連のセレクション・アルバム         |                                                  |
-| RUN ALL THE WAY\! (Fire Ball Groove Mix)             | スレイヤーズRETURN THE MOTION PICTURE"R"                                                          | [1996年](../Page/1996年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")                  | 『スレイヤーズRETURN』サウンドトラック                           |
-| Iravati                                              | 1997年8月6日                                                                                   | 8枚目のオリジナルアルバム                                                                             |                                                  |
-| RUN ALL THE WAY\!                                    | スレイヤーズMEGUMIX                                                                               | 2008年6月25日                                                                                | 『スレイヤーズ』関連のセレクション・アルバム                           |
+| 曲名                                                                  | 収録アルバム                                                                                    | 発売日                                                                      | 製造番号                      | 備考                        |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------- | ------------------------- |
+| Just be conscious                                                   | 『**スレイヤーズRETURN THE MOTION PICTURE"R"**』\[1\]                                             | [1996年](../Page/1996年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") | KICA-314                  |                           |
+| 『**[Iravati](../Page/Iravati.md "wikilink")**』\[2\]                 | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") | KICS-640                                                                 |                           |                           |
+| 『**[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")**』\[3\]     | 2008年6月25日                                                                                | KICA-916〜918                                                             |                           |                           |
+| 『**[スレイヤーズMEGUMIXXX](../Page/スレイヤーズMEGUMIXXX.md "wikilink")**』\[4\] | 2020年3月25日                                                                                | KICA-2573〜2575                                                           |                           |                           |
+| RUN ALL THE WAY\!                                                   | 『**スレイヤーズRETURN THE MOTION PICTURE"R"**』\[5\]                                             | 1996年8月21日                                                               | KICA-314                  | Fire Ball Groove Mixとして収録 |
+| 『**[Iravati](../Page/Iravati.md "wikilink")**』\[6\]                 | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") | KICS-640                                                                 | Fire Ball Groove Mixとして収録 |                           |
+| 『**[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")**』\[7\]     | 2008年6月25日                                                                                | KICA-916〜918                                                             |                           |                           |
+| 『**[スレイヤーズMEGUMIXXX](../Page/スレイヤーズMEGUMIXXX.md "wikilink")**』\[8\] | 2020年3月25日                                                                                | KICA-2573〜2575                                                           |                           |                           |
+
+## 脚注
 
 [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:佐藤英敏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤英敏が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.

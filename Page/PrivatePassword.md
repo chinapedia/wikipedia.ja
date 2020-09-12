@@ -90,4 +90,4 @@
   - [プラパスVo ヒトリゴト](http://diary5.cgiboy.com/2/prapass/)
   - [PrivatePassword HomePage](http://www.aa.alpha-net.ne.jp/prapass/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

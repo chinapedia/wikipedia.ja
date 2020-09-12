@@ -1,7 +1,7 @@
 > この記事は[Kimeru](https://ja.wikipedia.org/wiki/Kimeru)から翻訳されています。
 
 
-**KIMERU**（きめる、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[歌手](../Page/歌手.md "wikilink")・[俳優](../Page/俳優.md "wikilink")である。所属事務所は（株）デルファイサウンド。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。身長 、[血液型](../Page/血液型.md "wikilink")は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**KIMERU**（きめる、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[歌手](../Page/歌手.md "wikilink")・[俳優](../Page/俳優.md "wikilink")である。所属事務所は（株）デルファイサウンド。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。身長、[血液型](../Page/血液型.md "wikilink")は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。KIMERU←Kimeru(現事務所に所属したタイミングで全大文字に改名)
 
 ## 来歴
 
@@ -281,6 +281,7 @@
 
   - [ナンバカ](https://ja.wikipedia.org/wiki/ナンバカ "wikilink")（2016年、テレビアニメ） - 三葉キジ 役\[1\]
   - [プレカトゥスの天秤](https://ja.wikipedia.org/wiki/プレカトゥスの天秤 "wikilink")（2019年、ゲーム） - アントン・ザイフリート 役
+  - しょうぐん 天晴れェド！(2020年、ボイスドラマ） - 六代 家宣 役
 
 ### 舞台（シリーズ作品）
 
@@ -337,8 +338,8 @@
       - Live Musical『SHOW BY ROCK\!\!』-深淵のCrossAmbivalence-（2017年10月19日 - 29日、AiiA 2.5 Theater Tokyo） - アダム 役
       - [Live Musical『SHOW BY ROCK\!\!』〜THE FES 2018〜](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!!#舞台 "wikilink")（2018年6月26日 - 27日、Zeep DiverCity） - アダム 役
   - [家庭教師ヒットマンREBORN\! the STAGE](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!#舞台 "wikilink")（2018年9月21日 - 30日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")/10月3日 - 6日、メルパルクホール大阪） - [ランボ](../Page/ランボ.md "wikilink") 役\[4\]
-      - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part I-（2019年6月14日 - 23日、[シアター1010](../Page/シアター1010.md "wikilink") / 6月27日 - 30日、柏原市民文化会館 リビエールホール）\[5\]
-      - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part Ⅱ-（2020年1月6日 -13日 天王洲 銀河劇場 /1月17日 - 19日 梅田芸術劇場ドラマシティ）\[6\]
+      - the STAGE -vs VARIA part I-（2019年6月14日 - 23日、[シアター1010](../Page/シアター1010.md "wikilink") / 6月27日 - 30日、柏原市民文化会館 リビエールホール）\[5\]
+      - the STAGE -vs VARIA part II-（2020年1月6日 -13日 天王洲 銀河劇場 /1月17日 - 19日 梅田芸術劇場ドラマシティ）\[6\]
 
 ### 舞台（シリーズ作品以外）
 
@@ -373,8 +374,8 @@
   - 朗読劇「NO TRAVEL, NO LIFE」（2019年1月13日 - 14日、渋谷シダックスカルチャーホール） - 主演・須田誠/語り手 役
   - 舞台『Get Back\!\!』（2019年9月23日・28日、俳優座劇場） - 日替わりゲスト
   - 舞台「夜明け～spirit～」(2020年2月23日、ウッディシアター中目黒)　- 日替わりゲスト
-  - 舞台『リバースヒストリカ』(2020年5月27日 - 31日、新宿村LIVE)
   - GEKIIKE本公演第11回「HIT LIST」(2020年8月26日 - 30日、こくみん共済coopホール（全労済ホール/スペース・ゼロ) / 9月4日 - 6日、ABC Hall、2020年9月11日 - 13日、北九州芸術劇場 小ホール)
+  - 舞台「リバースヒストリカ」(2021年1月13日 - 17日、新宿村LIVE)
 
 ### ドラマ
 
@@ -419,7 +420,7 @@
   -
   - [GEMINIDS](http://www.geminids666.com/)
 
-[Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:熊本県出身の人物](https://ja.wikipedia.org/wiki/Category:熊本県出身の人物 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:熊本県出身の人物](https://ja.wikipedia.org/wiki/Category:熊本県出身の人物 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

@@ -81,6 +81,5 @@
 
 ## 外部リンク
 
-  - [バンダイ：PS2「サムライチャンプルー」](http://www.bandaigames.channel.or.jp/list/ps2_champloo/)
-
-[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:グラスホッパー・マニファクチュアのゲームソフト](https://ja.wikipedia.org/wiki/Category:グラスホッパー・マニファクチュアのゲームソフト "wikilink")
+  -
+[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:グラスホッパー・マニファクチュアのゲームソフト](https://ja.wikipedia.org/wiki/Category:グラスホッパー・マニファクチュアのゲームソフト "wikilink") [Category:侍を題材とした作品](https://ja.wikipedia.org/wiki/Category:侍を題材とした作品 "wikilink")

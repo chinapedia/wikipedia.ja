@@ -192,6 +192,6 @@ ZE 5xxx00</p></td>
 
 [Category:中国の高速鉄道車両](https://ja.wikipedia.org/wiki/Category:中国の高速鉄道車両 "wikilink") [Category:中国の電車](https://ja.wikipedia.org/wiki/Category:中国の電車 "wikilink") [Category:中華人民共和国鉄道部の鉄道車両](https://ja.wikipedia.org/wiki/Category:中華人民共和国鉄道部の鉄道車両 "wikilink") [Category:ペンドリーノ](https://ja.wikipedia.org/wiki/Category:ペンドリーノ "wikilink") [Category:2006年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2006年製の鉄道車両 "wikilink") [Category:アルストム製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アルストム製の鉄道車両 "wikilink")
 
-1.  [《中国铁路总公司关于印发动车组型号、车号和坐席号编号规则的通知](http://www.ditiezu.com/thread-375095-1-1.html) 2017年10月29日閲覧
-2.  [坐动车出行迎来“卧铺时代”](http://ccwb.1news.cc/html/2016-11/12/content_498175.htm)长春晚报.
-3.  [耐高寒抗风沙CRH5G型技术提升动车组亮相西安](https://www.chinanews.com/tp/hd2011/2017/07-06/753695.shtml)中新网. 2017年10月29日閲覧
+1.
+2.
+3.

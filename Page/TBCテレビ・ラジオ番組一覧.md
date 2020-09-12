@@ -9,12 +9,12 @@
 
 #### ブロックネット
 
-  - [サンドのぼんやり〜ぬTV](../Page/サンドのぼんやり〜ぬTV.md "wikilink")（金曜 24:20 - 24:50、再放送：土曜 17:00 - 17:30）※HV
+  - [サンドのぼんやり〜ぬTV](../Page/サンドのぼんやり〜ぬTV.md "wikilink")（土曜 17:00 - 17:30、再放送：金曜 24:15 - 24:45）※HV\[1\]
 
 <!-- end list -->
 
   -
-    現在はTBC・[ATV](../Page/青森テレビ.md "wikilink")\[1\]・[IBC](../Page/IBC岩手放送.md "wikilink")・[TUY](../Page/テレビユー山形.md "wikilink")・[TUF](../Page/テレビユー福島.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[TUT](../Page/チューリップテレビ.md "wikilink")、[CBCの](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")8局ネット。過去には[HBC](https://ja.wikipedia.org/wiki/HBC北海道放送 "wikilink")・[ABSでも放送されていた](../Page/秋田放送.md "wikilink")（HBCは2016年3月まで放送、ABSは2009年2月〜3月に放送。なお、終了したHBCを含め、いくつかのTBS系列局で不定期あるいは単発で放送することがある）。
+    現在はTBC・[ATV](../Page/青森テレビ.md "wikilink")\[2\]・[IBC](../Page/IBC岩手放送.md "wikilink")・[TUY](../Page/テレビユー山形.md "wikilink")・[TUF](../Page/テレビユー福島.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[TUT](../Page/チューリップテレビ.md "wikilink")、[CBCの](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")8局ネット。過去には[HBC](https://ja.wikipedia.org/wiki/HBC北海道放送 "wikilink")・[ABSでも放送されていた](../Page/秋田放送.md "wikilink")（HBCは2016年3月まで放送、ABSは2009年2月〜3月に放送。なお、終了したHBCを含め、いくつかのTBS系列局で不定期あるいは単発で放送することがある）。
 
 <!-- end list -->
 
@@ -37,10 +37,11 @@
 #### 県域放送
 
   - [Nスタみやぎ](https://ja.wikipedia.org/wiki/Nスタみやぎ "wikilink")（月曜 - 金曜 15:50 - 18:55）※HV
+      - Nスタみやぎ早版（月曜 - 金曜 15:40 - 15:49)
   - [ウォッチン\!みやぎ](../Page/ウォッチン!みやぎ.md "wikilink")（月曜 - 金曜 7:30頃 - 8:00）
   - 直球勝負\!イーグルスLIVE （→[S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")）※HV
       - 水曜ゴールデン枠（[水トク\!](https://ja.wikipedia.org/wiki/水トク! "wikilink")枠）、または土・日（デーゲームのみ）に放送される。また、2007年はホーム最終戦を18:16 - 20:00のゴールデンタイムで放送。
-  - [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")ホームゲーム中継（随時）※HV(2017年シーズンまで、[スカパー！](https://ja.wikipedia.org/wiki/スカイパーフェクTV "wikilink")・[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")での中継制作も手がけてきた。)
+  - [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")ホームゲーム中継※HV(2017年シーズンまで、[スカパー！](https://ja.wikipedia.org/wiki/スカイパーフェクTV "wikilink")・[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")での中継制作も手がけてきた。2018年-は中継実績無し。)
   - [ベガルタ仙台レディース](https://ja.wikipedia.org/wiki/ベガルタ仙台レディース "wikilink")ホームゲーム中継（随時、2014年-2016年は中継実績無し。）
   - [河北新報ニュース](../Page/河北新報ニュース.md "wikilink")（月曜 - 木曜 23:44 - 23:46、金曜 22:54 - 23:00、土曜 15:54 - 16:00、日曜 13:54 - 14:00）※HV
   - [TBCニュース](../Page/TBCニュース.md "wikilink")（土曜 18:50 - 18:55、日曜 17:45、土曜・日曜 21:54 - 22:00）
@@ -56,16 +57,6 @@
   - こちらTBCです（不定期放送）
   - 祭り及びイベント中継（[仙台七夕](../Page/仙台七夕.md "wikilink")、[定禅寺ストリートジャズフェスティバル](../Page/定禅寺ストリートジャズフェスティバル_in_仙台.md "wikilink")、[TBC夏まつり](https://ja.wikipedia.org/wiki/TBC夏まつり "wikilink")など）
 
-### 衛星放送向け
-
-  - [Jリーグクラブ応援番組セレクション](https://ja.wikipedia.org/wiki/Jリーグクラブ応援番組セレクション "wikilink")「ベガルタTV」（[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）
-
-<!-- end list -->
-
-  -
-    [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")提供の番組で、同クラブよりTBCに製作を委託している。
-    2013年オフは製作していない。
-
 ### TBS以外のJNN系列制作の番組
 
 JNN28局同時ネット番組については省略。
@@ -73,6 +64,7 @@ JNN28局同時ネット番組については省略。
   - [ゴゴスマ -GO GO\!Smile\!-](https://ja.wikipedia.org/wiki/ゴゴスマ_-GO_GO!Smile!- "wikilink")（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、月曜 - 金曜 13:55 - 15:40 同時ネット）
   - [JNNドキュメンタリー ザ・フォーカス](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（JNN各局制作のドキュメント番組、隔週火曜 26:10 - 26:40）
   - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")（MBS制作、水曜 23:56 - 24:55 同時ネット）
+  - 金曜アニメ・[炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊 "wikilink")　弐ノ章（MBS制作、金曜 25:55 - 26:25 同時ネット）
   - [皇室アルバム](../Page/皇室アルバム.md "wikilink")（MBS制作、日曜 6:30 - 6:45）
   - [キユーピー3分クッキング](../Page/キユーピー3分クッキング.md "wikilink")（CBC制作、月曜 - 金曜 11:20 - 11:30・土曜 12:00 - 12:10）※HV
   - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（MBS制作、土曜 25:28 - 26:28）
@@ -80,16 +72,18 @@ JNN28局同時ネット番組については省略。
 ### TBS系列深夜番組
 
   - [テッペン\!](https://ja.wikipedia.org/wiki/テッペン! "wikilink")（月、木曜 23:56 - 24:55）
-      - [中居くん決めて\!](https://ja.wikipedia.org/wiki/中居くん決めて! "wikilink")（月曜）
-      - [その他の人に会ってみた](https://ja.wikipedia.org/wiki/その他の人に会ってみた "wikilink")（火曜）
-      - [ダブルベッド SEVEN DAYS LOVER](../Page/ダブルベッド_\(テレビ番組\).md "wikilink")（木曜）
+      - [バナナサンド](../Page/バナナサンド.md "wikilink")（月曜）
+      - [パパジャニWEST](../Page/パパジャニWEST.md "wikilink")（火曜 同時ネット）
+      - [中居大輔と本田翼と夜な夜なラブ子さん](https://ja.wikipedia.org/wiki/中居大輔と本田翼と夜な夜なラブ子さん "wikilink")（木曜 同時ネット）
+  - [寝られなアニメ](https://ja.wikipedia.org/wiki/寝られなアニメ "wikilink")・[波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ "wikilink")（火曜 25:00 - 25:30）
   - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（木曜 25:00 - 25:30）
   - [KAT-TUNの世界一タメになる旅\!](https://ja.wikipedia.org/wiki/KAT-TUNの世界一タメになる旅! "wikilink")+（木曜 25:30 - 26:00）
-  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")（金曜 24:55 - 25:25）
+  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")II　ジロジロ有吉（金曜 24:50 - 25:20）
   - [スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")（日曜 24:55 - 25:25）
 
 ### テレビ東京系列の番組
 
+  - 寝られなドラマ・[レンタルなんもしない人](../Page/レンタルなんもしない人のなんもしなかった話.md "wikilink")（月曜 25:00 - 25:40）
   - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（水曜 25:00 - 25:30）
   - [流派-R SINCE2001](../Page/流派-R.md "wikilink")（木曜 26:10 - 26:40）
   - [YOUは何しに日本へ?](https://ja.wikipedia.org/wiki/YOUは何しに日本へ? "wikilink")（土曜 15:00 - 15:54 - 休止の場合あり）
@@ -119,7 +113,7 @@ JNN28局同時ネット番組については省略。
 
 <!-- end list -->
 
-  - [内村さまぁ〜ず](../Page/内村さまぁ〜ず.md "wikilink")（金曜 25:55 - 26:25）
+  - [内村さまぁ〜ず](../Page/内村さまぁ〜ず.md "wikilink")（金曜 26:25 - 26:55）
 
 ## 現在放送中の主なラジオ番組
 
@@ -127,7 +121,7 @@ JNN28局同時ネット番組については省略。
 
 番組表郵送希望の場合、1部につき返信用120円切手を同封して「TBCラジオ番組表係」に申し込む（3か月単位で更新）。
 
-○ - 2020年春の新番組\[2\]、● - 2020年春から放送時間が変更になった番組
+○ - 2020年春の新番組\[3\]、● - 2020年春から放送時間が変更になった番組
 
 ### 自社制作(五十音順)
 
@@ -221,7 +215,7 @@ JNN28局同時ネット番組については省略。
   - [現場の東海林です。斉藤安弘アンコーです。](https://ja.wikipedia.org/wiki/現場の東海林です。斉藤安弘アンコーです。 "wikilink")([エスケープロダクツ](../Page/佐藤健一_\(ラジオパーソナリティー\).md "wikilink"))（2018年10月6日開始、土曜7時10分〜7時30分）●
   - [さまぁ〜ず三村マサカズと小島瑠璃子の「みむこじラジオ\!」](https://ja.wikipedia.org/wiki/さまぁ〜ず三村マサカズと小島瑠璃子の「みむこじラジオ!」 "wikilink")(LF)（2019年10月6日開始、日曜17時00分〜17時30分）
   - [サンスター 文化の泉 ラジオで語る昭和のはなし](https://ja.wikipedia.org/wiki/サンスター_文化の泉_ラジオで語る昭和の文化 "wikilink")(TBS)（2019年4月7日開始、日曜19時00分〜20時00分）
-  - [サンデー競馬実況中継](../Page/中央競馬実況中継_\(日経ラジオ社\).md "wikilink")([ラジオNIKKEI第1](../Page/日経ラジオ社.md "wikilink"))（日曜15時00分〜16時00分）　※永らく日曜午後のワイド番組に内包されていたが、2014年10月5日より独立番組化。2015年4月5日よりワイド番組に再び含まれる。2018年10月7日より再び独立番組化。2020年3月29日まではレース実況部分のみラジオNIKKEIからのネット\[3\]だったが、2020年4月5日より全編ラジオNIKKEIからのネット受けとなった。
+  - [サンデー競馬実況中継](../Page/中央競馬実況中継_\(日経ラジオ社\).md "wikilink")([ラジオNIKKEI第1](../Page/日経ラジオ社.md "wikilink"))（日曜15時00分〜16時00分）　※永らく日曜午後のワイド番組に内包されていたが、2014年10月5日より独立番組化。2015年4月5日よりワイド番組に再び含まれる。2018年10月7日より再び独立番組化。2020年3月29日まではレース実況部分のみラジオNIKKEIからのネット\[4\]だったが、2020年4月5日より全編ラジオNIKKEIからのネット受けとなった。
   - [サンドウィッチマンの東北魂](https://ja.wikipedia.org/wiki/サンドウィッチマンの東北魂 "wikilink")(LF)（月曜16時40分〜16時50分頃）
   - [柴田阿弥](https://ja.wikipedia.org/wiki/柴田阿弥 "wikilink")とオテンキのりのジャパン5.0(QR)（2020年4月6日開始、日曜10時15分〜10時30分）○
   - [志の輔&雷鳥のなんでか?ニッポン](https://ja.wikipedia.org/wiki/志の輔&雷鳥のなんでか?ニッポン "wikilink")([KNB](../Page/北日本放送.md "wikilink"))（2018年4月8日開始、日曜18時00分〜18時30分）
@@ -244,7 +238,7 @@ JNN28局同時ネット番組については省略。
 
 <!-- end list -->
 
-  - [東北あさのことば](https://ja.wikipedia.org/wiki/東北あさのことば "wikilink")（[日本キリスト改革派教会](../Page/日本キリスト改革派教会.md "wikilink")）（2007年10月開始\[4\]、土曜5時55分〜6時00分）※[RAB](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（2017年9月まで）、IBC（2015年3月まで）にネット
+  - [東北あさのことば](https://ja.wikipedia.org/wiki/東北あさのことば "wikilink")（[日本キリスト改革派教会](../Page/日本キリスト改革派教会.md "wikilink")）（2007年10月開始\[5\]、土曜5時55分〜6時00分）※[RAB](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（2017年9月まで）、IBC（2015年3月まで）にネット
   - TOYOTA presents [おぎやはぎのクルマびいき](https://ja.wikipedia.org/wiki/おぎやはぎのクルマびいき "wikilink")(TBS)（2013年4月7日開始、日曜10時00分〜10時15分）●
   - [ドラマってムジカ](https://ja.wikipedia.org/wiki/ドラマってムジカ "wikilink")（2015年4月4日-2018年3月31日、2020年4月4日-　土曜16時00分〜16時30分）○
   - [問わず語りの神田伯山](https://ja.wikipedia.org/wiki/問わず語りの神田伯山 "wikilink")(TBS)（2020年4月5日開始、日曜22時30分〜23時00分）○
@@ -398,6 +392,15 @@ JNN28局同時ネット番組については省略。
   - 超\!音楽通
   - Music PV
   - ふかづめ
+
+#### 衛星放送向け
+
+  - [Jリーグクラブ応援番組セレクション](https://ja.wikipedia.org/wiki/Jリーグクラブ応援番組セレクション "wikilink")「ベガルタTV」（[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")提供の番組で、同クラブよりTBCに製作を委託していた。
 
 #### その他
 
@@ -764,7 +767,7 @@ JNN28局同時ネット番組については省略。
   - [お笑い頭の体操](../Page/お笑い頭の体操.md "wikilink")→☆[クイズダービー](../Page/クイズダービー.md "wikilink")
   - [世界まるごとHOWマッチ\!\!](https://ja.wikipedia.org/wiki/世界まるごとHOWマッチ!! "wikilink")（毎日放送制作）
   - [必殺シリーズ](../Page/必殺シリーズ.md "wikilink")（腸捻転解消前。解消後は金曜深夜（4月〜6月）→日曜深夜（7月〜9月）→KHBへ移行）
-  - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")\[5\]
+  - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")\[6\]
   - [野生の王国](../Page/野生の王国.md "wikilink")（毎日放送制作。1971年10月 - 1975年3月はミヤギテレビでネット）
   - [兼高かおる世界の旅](https://ja.wikipedia.org/wiki/兼高かおる世界の旅 "wikilink")（1970年12月 - 1977年3月、1978年10月からは同時ネット。それ以外は別時間帯での放送）
   - [まんがはじめて物語](../Page/まんがはじめて物語.md "wikilink")→[まんがどうして物語](https://ja.wikipedia.org/wiki/まんがどうして物語 "wikilink")など、TBS土曜日夕方5時30分枠アニメ（土曜日夕方5時30分に自社制作番組「クイズみやぎ東西南北」があったため、別時間帯に放送）
@@ -774,12 +777,12 @@ JNN28局同時ネット番組については省略。
 ### フジテレビ系の番組(仙台放送開局まで)
 
   - [スター千一夜](../Page/スター千一夜.md "wikilink")
-  - [鉄腕アトム](../Page/鉄腕アトム_\(実写版\).md "wikilink")（実写版。1962年に放送\[6\]）
-  - [少年ジェット](../Page/少年ジェット.md "wikilink")\[7\]
-  - [変幻三日月丸](https://ja.wikipedia.org/wiki/変幻三日月丸 "wikilink")\[8\]
-  - [快傑鷹の羽](https://ja.wikipedia.org/wiki/快傑鷹の羽 "wikilink")\[9\]
-  - [怪獣マリンコング](../Page/怪獣マリンコング.md "wikilink")\[10\]
-  - 天馬天平\[11\]
+  - [鉄腕アトム](../Page/鉄腕アトム_\(実写版\).md "wikilink")（実写版。1962年に放送\[7\]）
+  - [少年ジェット](../Page/少年ジェット.md "wikilink")\[8\]
+  - [変幻三日月丸](https://ja.wikipedia.org/wiki/変幻三日月丸 "wikilink")\[9\]
+  - [快傑鷹の羽](https://ja.wikipedia.org/wiki/快傑鷹の羽 "wikilink")\[10\]
+  - [怪獣マリンコング](../Page/怪獣マリンコング.md "wikilink")\[11\]
+  - 天馬天平\[12\]
 
 ### テレビ朝日系の番組(ミヤギテレビ、もしくは東日本放送開局まで)
 
@@ -787,38 +790,38 @@ JNN28局同時ネット番組については省略。
   - [アフタヌーンショー](../Page/アフタヌーンショー.md "wikilink")
   - [ナショナルゴールデン劇場](../Page/ナショナルゴールデン劇場.md "wikilink")（ミヤギテレビ開局後も1975年9月までは火曜22時に放送）
   - [特別機動捜査隊](https://ja.wikipedia.org/wiki/特別機動捜査隊 "wikilink")
-  - [七色仮面](https://ja.wikipedia.org/wiki/七色仮面 "wikilink")\[12\]
-  - [白馬童子](https://ja.wikipedia.org/wiki/白馬童子 "wikilink")\[13\]
-  - [ナショナルキッド](../Page/ナショナルキッド.md "wikilink")\[14\]
-  - [少年ケニヤ](https://ja.wikipedia.org/wiki/少年ケニヤ "wikilink")\[15\]
-  - [魔女はホットなお年頃](../Page/魔女はホットなお年頃.md "wikilink")（毎日放送制作）\[16\]
+  - [七色仮面](https://ja.wikipedia.org/wiki/七色仮面 "wikilink")\[13\]
+  - [白馬童子](https://ja.wikipedia.org/wiki/白馬童子 "wikilink")\[14\]
+  - [ナショナルキッド](../Page/ナショナルキッド.md "wikilink")\[15\]
+  - [少年ケニヤ](https://ja.wikipedia.org/wiki/少年ケニヤ "wikilink")\[16\]
+  - [魔女はホットなお年頃](../Page/魔女はホットなお年頃.md "wikilink")（毎日放送制作）\[17\]
   - [仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・腸捻転時代。テレビ朝日製作の平成・令和シリーズは東日本放送で放送）
-      - [仮面ライダー](../Page/仮面ライダー.md "wikilink")から[仮面ライダーアマゾン](../Page/仮面ライダーアマゾン.md "wikilink")まで日曜 9:00 - 9:30に放送\[17\]。
-  - [狼少年ケン](../Page/狼少年ケン.md "wikilink")\[18\]
-  - [宇宙パトロールホッパ](https://ja.wikipedia.org/wiki/宇宙パトロールホッパ "wikilink")\[19\]
-  - [ハッスルパンチ](https://ja.wikipedia.org/wiki/ハッスルパンチ "wikilink")\[20\]
-  - [レインボー戦隊ロビン](../Page/レインボー戦隊ロビン.md "wikilink")\[21\]
-  - [海賊王子](https://ja.wikipedia.org/wiki/海賊王子 "wikilink")\[22\]
-  - [魔法使いサリー](../Page/魔法使いサリー.md "wikilink")（第1作）\[23\]
-  - [ひみつのアッコちゃん](../Page/ひみつのアッコちゃん.md "wikilink")（第1作）\[24\]
-  - [花のピュンピュン丸](../Page/ピュンピュン丸.md "wikilink")\[25\]
-  - [もーれつア太郎](https://ja.wikipedia.org/wiki/もーれつア太郎#第1作 "wikilink")（第1作）\[26\]
-  - [佐武と市捕物控](https://ja.wikipedia.org/wiki/佐武と市捕物控#アニメ "wikilink")\[27\] - テレビドラマ版の十手野郎捕物控（TBS制作）も同局で放送\[28\]
-  - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")（1975年10月に東日本放送に移行）\[29\] - [超者ライディーン](../Page/超者ライディーン.md "wikilink")（テレビ東京制作）も同局で放送\[30\]
+      - [仮面ライダー](../Page/仮面ライダー.md "wikilink")から[仮面ライダーアマゾン](../Page/仮面ライダーアマゾン.md "wikilink")まで日曜 9:00 - 9:30に放送\[18\]。
+  - [狼少年ケン](../Page/狼少年ケン.md "wikilink")\[19\]
+  - [宇宙パトロールホッパ](https://ja.wikipedia.org/wiki/宇宙パトロールホッパ "wikilink")\[20\]
+  - [ハッスルパンチ](https://ja.wikipedia.org/wiki/ハッスルパンチ "wikilink")\[21\]
+  - [レインボー戦隊ロビン](../Page/レインボー戦隊ロビン.md "wikilink")\[22\]
+  - [海賊王子](https://ja.wikipedia.org/wiki/海賊王子 "wikilink")\[23\]
+  - [魔法使いサリー](../Page/魔法使いサリー.md "wikilink")（第1作）\[24\]
+  - [ひみつのアッコちゃん](../Page/ひみつのアッコちゃん.md "wikilink")（第1作）\[25\]
+  - [花のピュンピュン丸](../Page/ピュンピュン丸.md "wikilink")\[26\]
+  - [もーれつア太郎](https://ja.wikipedia.org/wiki/もーれつア太郎#第1作 "wikilink")（第1作）\[27\]
+  - [佐武と市捕物控](https://ja.wikipedia.org/wiki/佐武と市捕物控#アニメ "wikilink")\[28\] - テレビドラマ版の十手野郎捕物控（TBS制作）も同局で放送\[29\]
+  - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")（1975年10月に東日本放送に移行）\[30\] - [超者ライディーン](../Page/超者ライディーン.md "wikilink")（テレビ東京制作）も同局で放送\[31\]
   - [象印スターものまね大合戦](../Page/象印スターものまね大合戦.md "wikilink")（ミヤギテレビ開局後も東日本放送開局まで引き続き放送）
   - [俺は用心棒](../Page/俺は用心棒.md "wikilink")
   - [待っていた用心棒](../Page/待っていた用心棒.md "wikilink")
   - [鬼平犯科帳](../Page/鬼平犯科帳.md "wikilink")（NETテレビ版第1作のみ）
-  - [新婚さんいらっしゃい\!](../Page/新婚さんいらっしゃい!.md "wikilink")（1975年9月27日まで、腸捻転解消後は土曜15時から放送\[31\]）
-  - [ブンブンバンバン](../Page/ブンブンバンバン.md "wikilink")（[名古屋テレビ制作](../Page/名古屋テレビ放送.md "wikilink")）\[32\]
-  - [とべとべパンポロリン](https://ja.wikipedia.org/wiki/パンポロリン "wikilink") - 1975年4月から9月まで放送。1975年10月に東日本放送に移行\[33\]。
+  - [新婚さんいらっしゃい\!](../Page/新婚さんいらっしゃい!.md "wikilink")（1975年9月27日まで、腸捻転解消後は土曜15時から放送\[32\]）
+  - [ブンブンバンバン](../Page/ブンブンバンバン.md "wikilink")（[名古屋テレビ制作](../Page/名古屋テレビ放送.md "wikilink")）\[33\]
+  - [とべとべパンポロリン](https://ja.wikipedia.org/wiki/パンポロリン "wikilink") - 1975年4月から9月まで放送。1975年10月に東日本放送に移行\[34\]。
 
 ### テレビ東京系の番組
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [プレイガール](../Page/プレイガール_\(テレビドラマ\).md "wikilink")\[34\]
-  - [おさな妻](https://ja.wikipedia.org/wiki/おさな妻#テレビドラマ "wikilink")\[35\]
+  - [プレイガール](../Page/プレイガール_\(テレビドラマ\).md "wikilink")\[35\]
+  - [おさな妻](https://ja.wikipedia.org/wiki/おさな妻#テレビドラマ "wikilink")\[36\]
   - [愛ラブSMAP\!](../Page/愛ラブSMAP!.md "wikilink")
   - [あばれ八州御用旅](../Page/あばれ八州御用旅.md "wikilink")
   - [あぶない少年](../Page/あぶない少年.md "wikilink")
@@ -830,15 +833,15 @@ JNN28局同時ネット番組については省略。
   - [クイズところ変れば\!?](../Page/クイズところ変れば!?.md "wikilink")
   - [クエスファイブ](https://ja.wikipedia.org/wiki/クエスファイブ "wikilink")
   - [シンデレラ男](https://ja.wikipedia.org/wiki/シンデレラ男 "wikilink")
-  - [世界の料理ショー](../Page/世界の料理ショー.md "wikilink")\[36\]
+  - [世界の料理ショー](../Page/世界の料理ショー.md "wikilink")\[37\]
   - [スキーNOW](../Page/SKINOW.md "wikilink")
   - [日曜特番](../Page/月曜エンタぁテイメント.md "wikilink")
   - [にっぽんの歌](../Page/にっぽんの歌.md "wikilink")
   - [パソコンサンデー](../Page/パソコンサンデー.md "wikilink")
   - [ハッピー 愛と感動の物語](../Page/ハッピー_愛と感動の物語.md "wikilink")
   - プロ野球オールスター大運動会
-  - [忍者キャプター](../Page/忍者キャプター.md "wikilink")\[37\]
-  - [スパイダーマン](../Page/スパイダーマン_\(東映\).md "wikilink")\[38\]
+  - [忍者キャプター](../Page/忍者キャプター.md "wikilink")\[38\]
+  - [スパイダーマン](../Page/スパイダーマン_\(東映\).md "wikilink")\[39\]
   - [三菱ダイヤモンド・サッカー](../Page/三菱ダイヤモンド・サッカー.md "wikilink")
   - [キネマ地球座](https://ja.wikipedia.org/wiki/キネマ地球座 "wikilink")
   - [大調査\!\! なるほど日本人](../Page/大調査!!_なるほど日本人.md "wikilink")
@@ -898,27 +901,27 @@ JNN28局同時ネット番組については省略。
 
 #### アニメ
 
-  - [グロイザーX](../Page/グロイザーX.md "wikilink")\[39\]
-  - [UFO戦士ダイアポロン](../Page/UFO戦士ダイアポロン.md "wikilink")II\[40\]
-  - [超スーパーカー ガッタイガー](../Page/超スーパーカー_ガッタイガー.md "wikilink")\[41\]
-  - [未来ロボダルタニアス](https://ja.wikipedia.org/wiki/未来ロボダルタニアス "wikilink")\[42\]
-  - [森の陽気な小人たちベルフィーとリルビット](../Page/森の陽気な小人たちベルフィーとリルビット.md "wikilink")\[43\]
-  - [宇宙大帝ゴッドシグマ](../Page/宇宙大帝ゴッドシグマ.md "wikilink")\[44\]
-  - [宇宙戦士バルディオス](../Page/宇宙戦士バルディオス.md "wikilink")\[45\]
-  - [百獣王ゴライオン](../Page/百獣王ゴライオン.md "wikilink")\[46\]
-  - [まんが 水戸黄門](../Page/まんが_水戸黄門.md "wikilink")\[47\]
-  - [機甲艦隊ダイラガーXV](../Page/機甲艦隊ダイラガーXV.md "wikilink")\[48\]
-  - [新みつばちマーヤの冒険](https://ja.wikipedia.org/wiki/新みつばちマーヤの冒険 "wikilink")\[49\]
-  - [光速電神アルベガス](../Page/光速電神アルベガス.md "wikilink")\[50\]
+  - [グロイザーX](../Page/グロイザーX.md "wikilink")\[40\]
+  - [UFO戦士ダイアポロン](../Page/UFO戦士ダイアポロン.md "wikilink")II\[41\]
+  - [超スーパーカー ガッタイガー](../Page/超スーパーカー_ガッタイガー.md "wikilink")\[42\]
+  - [未来ロボ ダルタニアス](../Page/未来ロボ_ダルタニアス.md "wikilink")\[43\]
+  - [森の陽気な小人たちベルフィーとリルビット](../Page/森の陽気な小人たちベルフィーとリルビット.md "wikilink")\[44\]
+  - [宇宙大帝ゴッドシグマ](../Page/宇宙大帝ゴッドシグマ.md "wikilink")\[45\]
+  - [宇宙戦士バルディオス](../Page/宇宙戦士バルディオス.md "wikilink")\[46\]
+  - [百獣王ゴライオン](../Page/百獣王ゴライオン.md "wikilink")\[47\]
+  - [まんが 水戸黄門](../Page/まんが_水戸黄門.md "wikilink")\[48\]
+  - [機甲艦隊ダイラガーXV](../Page/機甲艦隊ダイラガーXV.md "wikilink")\[49\]
+  - [新みつばちマーヤの冒険](https://ja.wikipedia.org/wiki/新みつばちマーヤの冒険 "wikilink")\[50\]
+  - [光速電神アルベガス](../Page/光速電神アルベガス.md "wikilink")\[51\]
   - [桃太郎伝説 PEACHBOY LEGEND](../Page/桃太郎伝説_\(アニメ\).md "wikilink")→[PEACH COMMAND 新桃太郎伝説](https://ja.wikipedia.org/wiki/PEACH_COMMAND_新桃太郎伝説 "wikilink")
   - [ジャングル大帝](../Page/ジャングル大帝.md "wikilink")（第3作）
   - [三つ目がとおる](../Page/三つ目がとおる.md "wikilink")
-  - [機甲警察メタルジャック](../Page/機甲警察メタルジャック.md "wikilink")\[51\]
+  - [機甲警察メタルジャック](../Page/機甲警察メタルジャック.md "wikilink")\[52\]
   - [炎の闘球児 ドッジ弾平](../Page/炎の闘球児_ドッジ弾平.md "wikilink")
   - [マッハGoGoGo](https://ja.wikipedia.org/wiki/マッハGoGoGo#マッハGoGoGo（第2作） "wikilink")（第2作）
   - [超魔神英雄伝ワタル](../Page/超魔神英雄伝ワタル.md "wikilink")
   - [レレレの天才バカボン](../Page/レレレの天才バカボン.md "wikilink")（本放送終了後、2001年の夏休み期間中に放映 。但し、放映されたのは一部のみ。）
-  - [幻想魔伝 最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ#テレビアニメ『幻想魔伝_最遊記』 "wikilink")(セレクションと称して一部話数のみ放送\[52\])
+  - [幻想魔伝 最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ#テレビアニメ『幻想魔伝_最遊記』 "wikilink")(セレクションと称して一部話数のみ放送\[53\])
   - [超GALS\!寿蘭](https://ja.wikipedia.org/wiki/超GALS!寿蘭 "wikilink")
   - [ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")
   - [SAMURAI DEEPER KYO](../Page/SAMURAI_DEEPER_KYO.md "wikilink")
@@ -933,11 +936,11 @@ JNN28局同時ネット番組については省略。
 ### 日本テレビ系の番組(ミヤギテレビ開局まで)
 
   - 読売テレビ制作土曜夜7時枠作品（[よみうりテレビ製作](../Page/讀賣テレビ放送.md "wikilink")）
-      - [頓馬天狗](https://ja.wikipedia.org/wiki/頓馬天狗 "wikilink")\[53\]から[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")\[54\]（1970年10月に宮城テレビに移行）まで
-  - 矢車剣之助\[55\]
-  - [快傑ハリマオ](../Page/快傑ハリマオ.md "wikilink")\[56\]
-  - [恐怖のミイラ](../Page/恐怖のミイラ.md "wikilink")\[57\]
-  - [坊主拳法](https://ja.wikipedia.org/wiki/坊主拳法 "wikilink")\[58\]
+      - [頓馬天狗](https://ja.wikipedia.org/wiki/頓馬天狗 "wikilink")\[54\]から[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")\[55\]（1970年10月に宮城テレビに移行）まで
+  - 矢車剣之助\[56\]
+  - [快傑ハリマオ](../Page/快傑ハリマオ.md "wikilink")\[57\]
+  - [恐怖のミイラ](../Page/恐怖のミイラ.md "wikilink")\[58\]
+  - [坊主拳法](https://ja.wikipedia.org/wiki/坊主拳法 "wikilink")\[59\]
   - [レ・ガールズ](https://ja.wikipedia.org/wiki/レ・ガールズ "wikilink")
   - [全日本歌謡選手権](../Page/全日本歌謡選手権.md "wikilink")
   - [健康増進時代](../Page/健康増進時代.md "wikilink")（極初期のみ放送）
@@ -960,22 +963,31 @@ JNN28局同時ネット番組については省略。
 <!-- end list -->
 
   - [比叡の光](../Page/比叡の光.md "wikilink")（[KBS京都](../Page/京都放送.md "wikilink")）
+  - [演歌百撰](https://ja.wikipedia.org/wiki/演歌百撰 "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")）
+  - [戦国鍋TV 〜なんとなく歴史が学べる映像〜](https://ja.wikipedia.org/wiki/戦国鍋TV_〜なんとなく歴史が学べる映像〜 "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[チバテレ](../Page/千葉テレビ放送.md "wikilink")・サンテレビ）
+  - [TV・局中法度\!](https://ja.wikipedia.org/wiki/TV・局中法度! "wikilink")（tvk）
+
+<!-- end list -->
+
+  - [UHFアニメ](../Page/UHFアニメ.md "wikilink")
+
+<!-- end list -->
+
   - [涼宮ハルヒの憂鬱](../Page/涼宮ハルヒの憂鬱_\(アニメ\).md "wikilink")（2006年版、2009年版は[OXで放送](../Page/仙台放送.md "wikilink")）
   - [吉宗](../Page/吉宗_\(パチスロ\).md "wikilink")
   - [らき☆すた](https://ja.wikipedia.org/wiki/らき☆すた_\(アニメ\) "wikilink")
   - [鉄腕バーディー DECODE](https://ja.wikipedia.org/wiki/鉄腕バーディー_DECODE "wikilink")
   - [かんなぎ](https://ja.wikipedia.org/wiki/かんなぎ_\(漫画\)#テレビアニメ "wikilink")
-  - [日常](https://ja.wikipedia.org/wiki/日常_\(漫画\)#テレビアニメ "wikilink")
-  - [演歌百撰](https://ja.wikipedia.org/wiki/演歌百撰 "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")）
-  - [戦国鍋TV 〜なんとなく歴史が学べる映像〜](https://ja.wikipedia.org/wiki/戦国鍋TV_〜なんとなく歴史が学べる映像〜 "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[チバテレ](../Page/千葉テレビ放送.md "wikilink")・サンテレビ）
-  - [AKB0048](https://ja.wikipedia.org/wiki/AKB0048 "wikilink")（tvk）
-  - [TV・局中法度\!](https://ja.wikipedia.org/wiki/TV・局中法度! "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
-  - [ジョジョの奇妙な冒険](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink")
-  - [ジョジョの奇妙な冒険](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink") [スターダストクルセイダース](../Page/スターダストクルセイダース.md "wikilink")
-  - [ジョジョの奇妙な冒険](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink") [ダイヤモンドは砕けない](../Page/ダイヤモンドは砕けない.md "wikilink")
-  - [ラブライブ\!](https://ja.wikipedia.org/wiki/ラブライブ!_\(テレビアニメ\) "wikilink")（後にNHK Eテレ・[仙台で再放送](../Page/NHK仙台放送局.md "wikilink")）
-  - [ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")
-  - [Free\!](https://ja.wikipedia.org/wiki/Free!_\(アニメ\) "wikilink")
+  - [日常](https://ja.wikipedia.org/wiki/日常_\(漫画\)#テレビアニメ "wikilink")（後にNHK Eテレ・[仙台で再放送](../Page/NHK仙台放送局.md "wikilink")）
+  - [AKB0048](https://ja.wikipedia.org/wiki/AKB0048 "wikilink")（tvk他）
+  - [ジョジョの奇妙な冒険シリーズ](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink")（第3期まで、第4部[黄金の風](../Page/黄金の風.md "wikilink")は県内未放送）
+      - 第1期（[ファントムブラッド](https://ja.wikipedia.org/wiki/ファントムブラッド "wikilink")・[戦闘潮流](../Page/戦闘潮流.md "wikilink")）
+      - [スターダストクルセイダース](../Page/スターダストクルセイダース.md "wikilink")
+      - [ダイヤモンドは砕けない](../Page/ダイヤモンドは砕けない.md "wikilink")
+  - [ラブライブ\!シリーズ](https://ja.wikipedia.org/wiki/ラブライブ!_\(テレビアニメ\) "wikilink")（後にNHK Eテレ・仙台で再放送）
+      - ラブライブ\!
+      - [ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")
+  - [Free\!](https://ja.wikipedia.org/wiki/Free!_\(アニメ\) "wikilink")（[朝日放送](../Page/朝日放送テレビ.md "wikilink")→[ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink")）
   - [Dr.STONE](https://ja.wikipedia.org/wiki/Dr.STONE "wikilink")
 
 <!-- end list -->
@@ -998,61 +1010,62 @@ JNN28局同時ネット番組については省略。
 
 [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink") [Category:ラジオ番組一覧](https://ja.wikipedia.org/wiki/Category:ラジオ番組一覧 "wikilink") [Category:東北放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:東北放送のテレビ番組 "wikilink") [Category:東北放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:東北放送のラジオ番組 "wikilink") [Category:宮城県のマスメディア](https://ja.wikipedia.org/wiki/Category:宮城県のマスメディア "wikilink")
 
-1.  ATVでは2009年2月〜3月まで一時ネットし、2017年4月からネット再開。
-2.  [TBCラジオタイムテーブル（番組面）](http://www.tbc-sendai.co.jp/02radio/new_timetable/2020timetable_spr.pdf)
-3.  2007年1月より。2016年12月までは[ラジオ日本からのネットだった](../Page/ラジオ日本_土曜・日曜競馬実況中継.md "wikilink")。
-4.  [RCJメディア・ミニストリーについて](http://www.jesus-web.org/about/about_rcjmm.htm)
-5.  東北放送からの中継は[鈴木俊光](../Page/鈴木俊光.md "wikilink")→[福井弘文](https://ja.wikipedia.org/wiki/福井弘文 "wikilink")→[石川太郎](../Page/石川太郎.md "wikilink")が追っかけマンを担当。放送当時[TBS系列局のなかった山形県の中継も担当した](../Page/テレビユー山形.md "wikilink")。また、87年10月1日放送の仙台からの公開生放送に製作協力。ラジオ総合ベスト10には、[ざ・にちようび](https://ja.wikipedia.org/wiki/ざ・にちようび "wikilink")(てるてるリクエスト)→[サンデーテレフォンリクエスト](https://ja.wikipedia.org/wiki/サンデーテレフォンリクエスト "wikilink")のランキングデータを提供していた。
-6.  『福島民報』1962年8月13日付朝刊、テレビ欄。
-7.  『福島民報』1960年12月12日付朝刊、テレビ欄。
-8.  『[福島民報](../Page/福島民報.md "wikilink")』1961年1月14日付朝刊、テレビ欄。
-9.  『福島民報』1961年2月9日付朝刊、テレビ欄。
-10. 『福島民報』1961年2月3日付朝刊、テレビ欄。
-11. 『福島民報』1961年6月21日付朝刊、テレビ欄。
-12. 『福島民報』1960年2月21日付朝刊、テレビ欄。
-13. 『福島民報』1960年2月16日付朝刊、テレビ欄。
-14. 『福島民報』1960年10月7日付朝刊、テレビ欄。
-15. 『福島民報』1961年5月4日付朝刊、テレビ欄。
-16. 『河北新報』1971年1月6日朝刊、テレビ欄。
-17. 『河北新報』1971年4月25日 - 1975年4月20日朝刊、テレビ欄。
-18. 『福島民報』1964年5月3日付朝刊、テレビ欄。
-19. 『福島民報』1965年2月22日付朝刊、テレビ欄。
-20. 『福島民報』1965年12月27日付朝刊、テレビ欄。
-21. 『福島民報』1966年5月5日付朝刊、テレビ欄。
-22. 『河北新報』1966年10月5日付朝刊、テレビ欄。
-23. 『福島民報』1967年3月1日付朝刊、テレビ欄。
-24. 『河北新報』1969年3月12日付朝刊、テレビ欄。
-25. 『福島民報』1967年12月13日付朝刊、テレビ欄。
-26. 『福島民報』1969年7月13日付朝刊、テレビ欄。
-27. 『福島民報』1969年1月5日付朝刊、テレビ欄。
-28. 『河北新報』1971年10月6日付朝刊、テレビ欄。
-29. 『河北新報』1975年9月28日付朝刊、テレビ欄。
-30. 『福島民報』1996年10月6日付朝刊、テレビ欄。
-31. 出典:1975年』9月と10月の河北新報テレビ欄。
-32. 『福島民報』1973年10月6日付朝刊、テレビ欄。
-33. 『河北新報』1975年4月5日 - 9月27日付朝刊、テレビ欄。
-34. 『福島民報』1969年6月6日付朝刊、テレビ欄。
-35. 『福島民報』1970年10月27日付朝刊、テレビ欄。
-36. 『福島民報』1977年7月2日付朝刊、テレビ欄。
-37. 『河北新報』1976年4月25日付朝刊、テレビ欄。
-38. 『福島民報』1979年2月24日付朝刊、テレビ欄。
-39. 『河北新報』1976年8月27日付朝刊、テレビ欄。
-40. 『福島民報』1976年11月12日付朝刊、テレビ欄。
-41. 『河北新報』1977年10月7日付朝刊、テレビ欄。
-42. 『福島民報』1979年4月14日付朝刊、テレビ欄。
-43. 『福島民報』1980年2月23日付朝刊、テレビ欄。
-44. 『福島民報』1980年5月2日付朝刊、テレビ欄。
-45. 『福島民報』1980年7月26日付朝刊、テレビ欄。
-46. 『福島民報』1981年3月27日付朝刊、テレビ欄。
-47. 『福島民報』1981年9月30日付朝刊、テレビ欄。
-48. 『福島民報』1983年1月29日付朝刊、テレビ欄。
-49. 『福島民報』19年月日付朝刊、テレビ欄。
-50. 『福島民報』1983年8月6日付朝刊、テレビ欄。
-51. 『福島民報』1991年4月19日付朝刊、テレビ欄。
-52. <http://www.geocities.co.jp/Playtown-Bingo/8060/news/200106/saiyuki.html>
-53. 『福島民報』1960年4月17日付朝刊、テレビ欄。
-54. 『河北新報』1970年9月26日付朝刊、テレビ欄。
-55. 『福島民報』1960年2月26日付朝刊、テレビ欄。
-56. 『福島民報』1960年4月5日付朝刊、テレビ欄。
-57. 『福島民報』1961年7月4日付朝刊、テレビ欄。
-58. 『河北新報』1965年5月2日付朝刊、テレビ欄。
+1.  2020年7月より本放送と再放送の時間を入れ替え
+2.  ATVでは2009年2月〜3月まで一時ネットし、2017年4月からネット再開。
+3.  [TBCラジオタイムテーブル（番組面）](http://www.tbc-sendai.co.jp/02radio/new_timetable/2020timetable_spr.pdf)
+4.  2007年1月より。2016年12月までは[ラジオ日本からのネットだった](../Page/ラジオ日本_土曜・日曜競馬実況中継.md "wikilink")。
+5.  [RCJメディア・ミニストリーについて](http://www.jesus-web.org/about/about_rcjmm.htm)
+6.  東北放送からの中継は[鈴木俊光](../Page/鈴木俊光.md "wikilink")→[福井弘文](https://ja.wikipedia.org/wiki/福井弘文 "wikilink")→[石川太郎](../Page/石川太郎.md "wikilink")が追っかけマンを担当。放送当時[TBS系列局のなかった山形県の中継も担当した](../Page/テレビユー山形.md "wikilink")。また、87年10月1日放送の仙台からの公開生放送に製作協力。ラジオ総合ベスト10には、[ざ・にちようび](https://ja.wikipedia.org/wiki/ざ・にちようび "wikilink")(てるてるリクエスト)→[サンデーテレフォンリクエスト](https://ja.wikipedia.org/wiki/サンデーテレフォンリクエスト "wikilink")のランキングデータを提供していた。
+7.  『福島民報』1962年8月13日付朝刊、テレビ欄。
+8.  『福島民報』1960年12月12日付朝刊、テレビ欄。
+9.  『[福島民報](../Page/福島民報.md "wikilink")』1961年1月14日付朝刊、テレビ欄。
+10. 『福島民報』1961年2月9日付朝刊、テレビ欄。
+11. 『福島民報』1961年2月3日付朝刊、テレビ欄。
+12. 『福島民報』1961年6月21日付朝刊、テレビ欄。
+13. 『福島民報』1960年2月21日付朝刊、テレビ欄。
+14. 『福島民報』1960年2月16日付朝刊、テレビ欄。
+15. 『福島民報』1960年10月7日付朝刊、テレビ欄。
+16. 『福島民報』1961年5月4日付朝刊、テレビ欄。
+17. 『河北新報』1971年1月6日朝刊、テレビ欄。
+18. 『河北新報』1971年4月25日 - 1975年4月20日朝刊、テレビ欄。
+19. 『福島民報』1964年5月3日付朝刊、テレビ欄。
+20. 『福島民報』1965年2月22日付朝刊、テレビ欄。
+21. 『福島民報』1965年12月27日付朝刊、テレビ欄。
+22. 『福島民報』1966年5月5日付朝刊、テレビ欄。
+23. 『河北新報』1966年10月5日付朝刊、テレビ欄。
+24. 『福島民報』1967年3月1日付朝刊、テレビ欄。
+25. 『河北新報』1969年3月12日付朝刊、テレビ欄。
+26. 『福島民報』1967年12月13日付朝刊、テレビ欄。
+27. 『福島民報』1969年7月13日付朝刊、テレビ欄。
+28. 『福島民報』1969年1月5日付朝刊、テレビ欄。
+29. 『河北新報』1971年10月6日付朝刊、テレビ欄。
+30. 『河北新報』1975年9月28日付朝刊、テレビ欄。
+31. 『福島民報』1996年10月6日付朝刊、テレビ欄。
+32. 出典:1975年』9月と10月の河北新報テレビ欄。
+33. 『福島民報』1973年10月6日付朝刊、テレビ欄。
+34. 『河北新報』1975年4月5日 - 9月27日付朝刊、テレビ欄。
+35. 『福島民報』1969年6月6日付朝刊、テレビ欄。
+36. 『福島民報』1970年10月27日付朝刊、テレビ欄。
+37. 『福島民報』1977年7月2日付朝刊、テレビ欄。
+38. 『河北新報』1976年4月25日付朝刊、テレビ欄。
+39. 『福島民報』1979年2月24日付朝刊、テレビ欄。
+40. 『河北新報』1976年8月27日付朝刊、テレビ欄。
+41. 『福島民報』1976年11月12日付朝刊、テレビ欄。
+42. 『河北新報』1977年10月7日付朝刊、テレビ欄。
+43. 『福島民報』1979年4月14日付朝刊、テレビ欄。
+44. 『福島民報』1980年2月23日付朝刊、テレビ欄。
+45. 『福島民報』1980年5月2日付朝刊、テレビ欄。
+46. 『福島民報』1980年7月26日付朝刊、テレビ欄。
+47. 『福島民報』1981年3月27日付朝刊、テレビ欄。
+48. 『福島民報』1981年9月30日付朝刊、テレビ欄。
+49. 『福島民報』1983年1月29日付朝刊、テレビ欄。
+50. 『福島民報』19年月日付朝刊、テレビ欄。
+51. 『福島民報』1983年8月6日付朝刊、テレビ欄。
+52. 『福島民報』1991年4月19日付朝刊、テレビ欄。
+53. <http://www.geocities.co.jp/Playtown-Bingo/8060/news/200106/saiyuki.html>
+54. 『福島民報』1960年4月17日付朝刊、テレビ欄。
+55. 『河北新報』1970年9月26日付朝刊、テレビ欄。
+56. 『福島民報』1960年2月26日付朝刊、テレビ欄。
+57. 『福島民報』1960年4月5日付朝刊、テレビ欄。
+58. 『福島民報』1961年7月4日付朝刊、テレビ欄。
+59. 『河北新報』1965年5月2日付朝刊、テレビ欄。

@@ -14,12 +14,14 @@
 下記の製品群が感染症の検査としてLoopampシリーズとして[栄研化学](../Page/栄研化学.md "wikilink")により商品化されている。
 
   - [結核菌](../Page/結核菌.md "wikilink")群検出試薬キット
-  - [マイコプラズマ](../Page/マイコプラズマ.md "wikilink")P検出試薬キット
+  - [百日咳菌](https://ja.wikipedia.org/wiki/百日咳菌 "wikilink")検出試薬キットＤ
+  - [マイコプラズマP検出試薬キット](https://ja.wikipedia.org/wiki/マイコプラズマ肺炎 "wikilink")
   - [レジオネラ](../Page/レジオネラ.md "wikilink")検出試薬キットC
-  - H1 pdm 2009[インフルエンザ](../Page/インフルエンザ.md "wikilink")[ウイルス](../Page/ウイルス.md "wikilink")検出試薬キット
-  - A型インフルエンザウイルス検出試薬キット
-  - H5亜型インフルエンザウイルス検出試薬キット
-  - [SARS](https://ja.wikipedia.org/wiki/SARS "wikilink")[コロナウイルス](../Page/コロナウイルス.md "wikilink")検出試薬キット
+  - [H1 pdm 2009インフルエンザウイルス検出試薬キット](https://ja.wikipedia.org/wiki/インフルエンザウイルスA\(H1N1\)pdm09 "wikilink")
+  - [A型インフルエンザウイルス](../Page/A型インフルエンザウイルス.md "wikilink")検出試薬キット
+  - [H5亜型インフルエンザウイルス検出試薬キット](../Page/H5N1亜型.md "wikilink")
+  - [SARSコロナウイルス](../Page/SARSコロナウイルス.md "wikilink")検出試薬キット
+  - [新型コロナウイルス2019(SARS-CoV-2)検出試薬キット](https://ja.wikipedia.org/wiki/SARS-CoV-2 "wikilink")
 
 ### 環境衛生検査
 
@@ -27,21 +29,23 @@
   - [クリプトスポリジウム](../Page/クリプトスポリジウム.md "wikilink")検出試薬キット
   - [ジアルジア](../Page/ジアルジア.md "wikilink")検出試薬キット
 
-## 外部リンク
-
-  - [栄研化学　LAMP法HP](http://loopamp.eiken.co.jp/lamp/index.html)
-  - [LAMP法プライマー設計支援ソフトウェアPrimerExplorer](http://primerexplorer.jp/)
-  - [テラメックス　リアルタイム濁度測定装置](http://www.teramecs.com/index.html)
-
-## 文献
+## 脚注
 
 <references />
+
+## 参考文献
 
   - [高野弘、酒井栄一、佐々木泰治：「LAMP(Loop-mediated isothermal amplification)法の原理と応用」，モダンメディア、60巻、7号 (2014年) 【医学検査のあゆみ】，pp.211-231.](http://www.eiken.co.jp/modern_media/backnumber/pdf/MM1407_01.pdf)
 
 ## 関連項目
 
   - [PCR法](https://ja.wikipedia.org/wiki/PCR法 "wikilink")
+
+## 外部リンク
+
+  - [栄研化学　LAMP法HP](http://loopamp.eiken.co.jp/lamp/index.html)
+  - [LAMP法プライマー設計支援ソフトウェアPrimerExplorer](http://primerexplorer.jp/)
+  - [テラメックス　リアルタイム濁度測定装置](http://www.teramecs.com/index.html)
 
 [Category:生化学的技法](https://ja.wikipedia.org/wiki/Category:生化学的技法 "wikilink") [Category:分子生物学的技法](https://ja.wikipedia.org/wiki/Category:分子生物学的技法 "wikilink") [Category:生物学の研究技術](https://ja.wikipedia.org/wiki/Category:生物学の研究技術 "wikilink") [Category:診断と治療](https://ja.wikipedia.org/wiki/Category:診断と治療 "wikilink") [Category:バイオテクノロジー](https://ja.wikipedia.org/wiki/Category:バイオテクノロジー "wikilink") [Category:EC_2.7.7](https://ja.wikipedia.org/wiki/Category:EC_2.7.7 "wikilink")
 

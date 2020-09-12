@@ -135,7 +135,7 @@
 
 ## 外部リンク
 
-  - [中森明菜 「Femme Fatale」|Warner Music Japan](https://wmg.jp/sakamoto-ryuichi/discography/561/)
+  - [中森明菜 「Femme Fatale」|Warner Music Japan](https://wmg.jp/akina/discography/11263/)
 
 [Category:中森明菜のアルバム](https://ja.wikipedia.org/wiki/Category:中森明菜のアルバム "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:1988年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

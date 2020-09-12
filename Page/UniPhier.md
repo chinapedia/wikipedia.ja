@@ -1,7 +1,7 @@
 > この記事は[UniPhier](https://ja.wikipedia.org/wiki/UniPhier)から翻訳されています。
 
 
-**UniPhier**（ユニフィエ）とは、松下電器（現[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）が開発した[デジタル家電向けの統合プラットフォームの名称で](../Page/デジタル家庭電化製品.md "wikilink")、[株式会社ソシオネクスト](https://ja.wikipedia.org/wiki/株式会社ソシオネクスト "wikilink")の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である（日本第4810847号。ただし読みは「ユニフィアー，ユニファイアー」で登録）。
+**UniPhier**（ユニフィエ）とは、松下電器（現[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）が開発した[デジタル家電向けの統合プラットフォームの名称で](../Page/デジタル家庭電化製品.md "wikilink")、株式会社[ソシオネクスト](https://ja.wikipedia.org/wiki/ソシオネクスト "wikilink")の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である（日本第4810847号。ただし読みは「ユニフィアー，ユニファイアー」で登録）。
 
 ## 概要
 

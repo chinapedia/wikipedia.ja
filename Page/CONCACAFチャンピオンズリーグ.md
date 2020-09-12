@@ -163,7 +163,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1975" title="wikilink">1975</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アトレティコ・エスパニョール" title="wikilink">アトレティコ・エスパニョール</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アトレティコ・エスパニョールFC" title="wikilink">アトレティコ・エスパニョール</a></strong></p></td>
 <td><p><strong>2 - 0</strong><br />
 <strong>1 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SVトランスファール" title="wikilink">トランスファール</a></p></td>

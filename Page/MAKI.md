@@ -1,7 +1,7 @@
 > この記事は[MAKI](https://ja.wikipedia.org/wiki/MAKI)から翻訳されています。
 
 
-**MAKI**（まき、[2月10日](../Page/2月10日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")[浦添市](../Page/浦添市.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")。主にスタジオボーカリストとして活動中。
+**MAKI**（まき、[2月10日](../Page/2月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。[沖縄県](../Page/沖縄県.md "wikilink")[浦添市](../Page/浦添市.md "wikilink")出身。主にスタジオ・ボーカリストとして活動中。
 
 [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")（主に『[GuitarFreaks](../Page/GUITARFREAKS.md "wikilink")』、『[DrumMania](https://ja.wikipedia.org/wiki/drummania "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』）で歌った楽曲がよく知られている。同シリーズで活動した[スカ](../Page/スカ.md "wikilink")ユニット、[亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")と組んで（[フィーチャーされて](../Page/フィーチャリング.md "wikilink")）発表した楽曲も多い。
 
@@ -67,4 +67,4 @@
 
 ## 外部リンク
 
-[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

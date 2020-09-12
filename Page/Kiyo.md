@@ -1,7 +1,7 @@
 > この記事は[Kiyo](https://ja.wikipedia.org/wiki/Kiyo)から翻訳されています。
 
 
-**kiyo**（キヨ、[1974年](../Page/1974年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[キーボディスト](https://ja.wikipedia.org/wiki/キーボディスト "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[Janne Da Arcの元メンバー](../Page/Janne_Da_Arc.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身。[大阪府立枚方西高等学校](https://ja.wikipedia.org/wiki/大阪府立枚方西高等学校 "wikilink")卒業。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長159cm。
+**kiyo**（キヨ、[1974年](../Page/1974年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[キーボディスト](https://ja.wikipedia.org/wiki/キーボディスト "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[Janne Da Arcの元メンバー](../Page/Janne_Da_Arc.md "wikilink")。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[KeyHolder](../Page/KeyHolder.md "wikilink")傘下のゼスト。[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")出身。[大阪府立枚方西高等学校](https://ja.wikipedia.org/wiki/大阪府立枚方西高等学校 "wikilink")卒業。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長159cm。
 
 ## 概要
 
@@ -16,6 +16,7 @@
   - ka-yu、youと比べて少ないがコーラス、ライブでのサイドボーカルを担当することがある。
   - 電車に乗る際に、手をあげて乗っているらしい。これは、父に教わった技と番組で言っている。理由は、父が昔チカンに間違えられたことがあったからと言っている。
   - 2009年4月1日発売の[SINCREA](https://ja.wikipedia.org/wiki/SINCREA "wikilink")のシングル「桜舞い散る季節に君が夢見たこと」で初のプロデュースを果たした。
+  - 2020年発売予定の[FEST VAINQUEURのアルバム](https://ja.wikipedia.org/wiki/FEST_VAINQUEUR "wikilink")「ReGENERATION」4曲目収録「STELLA」にシンセトラックで約11年ぶりに当時SINCREAだったメンバーと共演を果たした。
 
 ## 影響
 

@@ -60,4 +60,4 @@
 
   - [公式サイト](http://www.sakaeshalom.org/lyre/)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本の福音派](https://ja.wikipedia.org/wiki/Category:日本の福音派 "wikilink") [Category:キリスト教音楽](https://ja.wikipedia.org/wiki/Category:キリスト教音楽 "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本の福音派](https://ja.wikipedia.org/wiki/Category:日本の福音派 "wikilink") [Category:キリスト教音楽家](https://ja.wikipedia.org/wiki/Category:キリスト教音楽家 "wikilink")

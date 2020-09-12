@@ -3,7 +3,7 @@
 
 {{Infobox Single | Name = WIND | Artist = [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") | Album = [BEST〜second session〜](https://ja.wikipedia.org/wiki/BEST〜second_session〜 "wikilink") | A-side = | B-side = | Released = [2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") | Format = | Recorded = 2005年 | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = | Label = [rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink") | Writer = 倖田來未、[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink") | Producer = | Certification = | Chart position = \*3位（[オリコン](../Page/オリコンチャート.md "wikilink")） | Last single = [KAMEN feat.石井竜也](../Page/KAMEN_feat.石井竜也.md "wikilink")
 ([2006年](../Page/2006年.md "wikilink")) | This single = **WIND**
-([2006年](../Page/2006年.md "wikilink")) | Next single = \[\[Someday/Boys_Girls|Someday／
+([2006年](../Page/2006年.md "wikilink")) | Next single = \[\[Someday/Boys♥Girls|Someday／
 Boys 「**WIND**」（ウインド）は、[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に発売された[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の29枚目のシングルである。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 解説

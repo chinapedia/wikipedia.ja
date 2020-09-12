@@ -22,9 +22,10 @@
         作詞：N.B.Comics、Rap詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：zero-rock、編曲：Gin.K
     <!-- end list -->
       - [田中聖](../Page/田中聖.md "wikilink")主演 [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[特急田中3号](../Page/特急田中3号.md "wikilink")』主題歌
-      - 全員にソロパートが与えられているが、[田口のパートは](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")[亀梨がハモっているため純粋なソロパートが与えられているのは田口以外のメンバーである](../Page/亀梨和也.md "wikilink")。
-      - 田中が作詞したラップ詞の一部に、これまで発売したシングル『[Real Face](../Page/Real_Face.md "wikilink")』『[SIGNAL](../Page/SIGNAL_\(KAT-TUNの曲\).md "wikilink")』『[僕らの街で](../Page/僕らの街で.md "wikilink")』のタイトルが出てくる。
-      - 当初『特急田中3号』では5人でレコーディングしたものを使用していたが、前述の再レコーディングに伴い、第3話よりCDに収録されているものに差し替えられた。
+    <!-- end list -->
+      -
+        田中が作詞したラップ詞の一部に、これまで発売したシングル『[Real Face](../Page/Real_Face.md "wikilink")』『[SIGNAL](../Page/SIGNAL_\(KAT-TUNの曲\).md "wikilink")』『[僕らの街で](../Page/僕らの街で.md "wikilink")』のタイトルが出てくる。
+        当初『特急田中3号』では5人でレコーディングしたものを使用していたが、前述の再レコーディングに伴い、第3話よりCDに収録されているものに差し替えられた。
 2.  **Your side**
       -
         作詞：N.B.Comics、Rap詞：JOKER、作曲：[Shusui](https://ja.wikipedia.org/wiki/canna_\(音楽グループ\) "wikilink"),Stefan Engblom,Axel Bellinder、編曲：FLYING GRIND

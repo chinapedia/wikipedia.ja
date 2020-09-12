@@ -27,7 +27,7 @@ RIP SLYME外での活動としては[1998年](https://ja.wikipedia.org/wiki/1998
 
 英語が堪能である。吹き替え無しで感動的な洋画を観ていた際に英語がわからないRYO-Zに和訳しながら観ていたが、感動のあまり泣いてしまい途中から通訳をしてくれなくなったため、RYO-Zは意味がわからず泣けなかったエピソードがある。
 
-ダンス経験者であり、[FANCASTIC](https://ja.wikipedia.org/wiki/FANCASTIC "wikilink")のカットされたPVで全員でダンスを踊っている。
+ダンス経験者であり、[FANKASTIC](https://ja.wikipedia.org/wiki/FANKASTIC "wikilink")のカットされたPVで全員でダンスを踊っている。
 
 [フィンランド](../Page/フィンランド.md "wikilink")にはあまり訪れていないため、フィンランドの食べ物はあまり詳しくない。オフィシャルブックでフィンランドの食べ物を試食する企画があり、わからないため母親に確認していた。フィンランド名物の[シュールストレミング](../Page/シュールストレミング.md "wikilink")を食べたが受け付けられなかった。
 
@@ -50,6 +50,9 @@ RIP SLYME, Steady\&Co., TERIYAKI BOYZの作品は除く
 
 ## 脚注
 
+## 外部リンク
+
+  -
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:フィンランド系日本人](https://ja.wikipedia.org/wiki/Category:フィンランド系日本人 "wikilink") [Category:ヘルシンキ出身の人物](https://ja.wikipedia.org/wiki/Category:ヘルシンキ出身の人物 "wikilink") [Category:帰国子女](https://ja.wikipedia.org/wiki/Category:帰国子女 "wikilink")
 
 1.

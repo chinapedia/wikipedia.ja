@@ -127,7 +127,7 @@
 16. **[少年](../Page/少年_\(黒夢の曲\).md "wikilink")** (5:26)
       -
         11thシングル。
-17. **[Like A Angel](../Page/Like_@_Angel.md "wikilink") -NEW TAKE-** (4:48)
+17. **[Like @ Angel](../Page/Like_@_Angel.md "wikilink") -NEW TAKE-** (4:48)
       -
         8thシングル。5thアルバム『Drug TReatment』収録バージョンにて収録。
 18. **S.O.S** (3:19)

@@ -1,12 +1,13 @@
 > この記事は[Clover \(hiroの曲\)](https://ja.wikipedia.org/wiki/Clover_\(hiroの曲\))から翻訳されています。
 
 
-**clover**（クローバー）は、[hiroの](../Page/島袋寛子.md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。
+**clover**（クローバー）は、[hiroの](../Page/島袋寛子.md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[SONIC GROOVEから発売された](../Page/SONIC_GROOVE.md "wikilink")。
 
 ## 解説
 
-  - 2005年8月3日に、[SONIC GROOVEから発売された](../Page/SONIC_GROOVE.md "wikilink")。
-  - 「clover」は、テレビアニメ『[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")』第2期エンディングテーマ。その影響で、このCDのジャケットはアニメ絵のhiroが[ピノコ](../Page/ピノコ.md "wikilink")と一緒に映っているというデザインになっている。
+  - 前作から10ヶ月ぶりのリリース。
+  - 本作は、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・[日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")』の第2期エンディングテーマに起用された。
+  - ジャケットはアニメ化されたhiroが[ピノコ](../Page/ピノコ.md "wikilink")と一緒に映っているというデザインになっている。
   - 今作は初めてCD+DVD、CDのみの2形態で発売された。
 
 ## 収録曲

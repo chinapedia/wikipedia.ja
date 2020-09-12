@@ -15,7 +15,7 @@
 
 [2009年](../Page/2009年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")主催で開催された「[SUPER J-CUP](../Page/スーパーJカップ.md "wikilink")」に出場。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月から6月、新日本プロレスで開催された「[BEST OF THE SUPER Jr.](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")」に出場。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月から6月、新日本プロレスで開催された「[BEST OF THE SUPER Jr.](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")」に出場\[1\]。
 
 [2009年](../Page/2009年.md "wikilink")8月、「鉄人」に出場して優勝。11月、[プロレスリングZERO1で開催された](../Page/ZERO1.md "wikilink")「[天下一Jr.](../Page/天下一Jr..md "wikilink")」に出場。
 
@@ -29,7 +29,12 @@
 
 [2018年](../Page/2018年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")、みちのくプロレス[仙台ヒルズホテル](https://ja.wikipedia.org/wiki/仙台ヒルズホテル "wikilink")みちのくホール大会に来場し、脊髄腫瘍髄内腫瘍上衣腫によるガンが発見されて闘病中であることを告白。
 
-[2019年](../Page/2019年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、みちのくプロレス後楽園ホール大会において、[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")を相手に2年8ヶ月ぶりに一夜限りの復帰戦をおこなった\[1\]。
+[2019年](../Page/2019年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、みちのくプロレス後楽園ホール大会において、[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")を相手に2年8ヶ月ぶりに一夜限りの復帰戦をおこなった\[2\]。
+
+## 人物
+
+  - 乳幼児期から自立しており、[ミルクも自分で飲んでいた](../Page/粉ミルク.md "wikilink")。
+  - 愛煙家でしかもヘビースモーカーである。
 
 ## 得意技
 
@@ -78,4 +83,5 @@
 
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:アマチュアレスリング出身のプロレスラー](https://ja.wikipedia.org/wiki/Category:アマチュアレスリング出身のプロレスラー "wikilink") [Category:みちのくプロレスに所属するプロレスラー](https://ja.wikipedia.org/wiki/Category:みちのくプロレスに所属するプロレスラー "wikilink") [Category:DRAGON_GATEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに参戦したプロレスラー "wikilink") [Category:ZERO1](https://ja.wikipedia.org/wiki/Category:ZERO1 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.
+1.  ベースボールマガジン社「週刊プロレス」2020年6月27日号No.2067 57頁
+2.

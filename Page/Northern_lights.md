@@ -12,9 +12,7 @@
 
 ## 収録曲
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")　作曲・編曲：[たかはしごう](../Page/たかはしごう.md "wikilink")
-
-<!-- end list -->
+（全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")　作曲・編曲：[たかはしごう](../Page/たかはしごう.md "wikilink")）
 
 1.  **Northern lights** \[3:31\]
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[シャーマンキング](https://ja.wikipedia.org/wiki/シャーマンキング "wikilink")』後期オープニングテーマ\[4\]
@@ -25,27 +23,29 @@
 3.  Northern lights（[instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 4.  おもかげ（instrumental）
 
-## 収録作品
+## 収録アルバム
 
-  - 『[center color](https://ja.wikipedia.org/wiki/center_color "wikilink")』（\#1、\#2、Ballade Version）
-  - 『[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")』（\#1）
-  - 「[恐山ル・ヴォワール 〜prologue to shaman〜](https://ja.wikipedia.org/wiki/シャーマンキング#CD "wikilink")」（\#1）
+| 曲名                                                                                                | 収録アルバム                                                                           | 発売日                                                                    | 製造番号                      | 備考                        |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------- | ------------------------- |
+| Northern lights                                                                                   | 『**[center color](https://ja.wikipedia.org/wiki/center_color "wikilink")**』\[6\] | [2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") | KICS-1070                 | オリジナルとBallade Versionが収録。 |
+| 『**[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")**』\[7\]                | [2011年](../Page/2011年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")         | KICS-91670〜91671                                                       |                           |                           |
+| 『**[恐山ル・ヴォワール 〜prologue to shaman〜](https://ja.wikipedia.org/wiki/シャーマンキング#CD "wikilink")**』\[8\] | 2002年10月23日                                                                      | KICA-581                                                               | オリジナルとBallade Versionが収録。 |                           |
+| おもかげ                                                                                              | 『**[center color](https://ja.wikipedia.org/wiki/center_color "wikilink")**』\[9\] | [2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") | KICS-1070                 |                           |
 
 ## カバー
 
-| 曲名                                                                               | アーティスト                                                                                                          | 収録アルバム                                                                                      | 発売日                                                                    | 備考      |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------- |
-| Northern lights                                                                  | [奥井雅美](../Page/奥井雅美.md "wikilink")                                                                              | 『[マサミコブシ](../Page/マサミコブシ.md "wikilink")』                                                    | [2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") | カバーアルバム |
-| [彩音](../Page/彩音.md "wikilink")×[飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink") | 『[Animelo Summer Live 2010-evolution-8.28](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#2010年 "wikilink")』 | [2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | ライブBlu-ray\&DVD                                                        |         |
-| [巽悠衣子](https://ja.wikipedia.org/wiki/巽悠衣子 "wikilink")                            | 『[新・百歌声爛II 女性声優編](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編II（新） "wikilink")』                                    | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                      | カバーコンピレーションアルバム                                                        |         |
+| 曲名                                                                               | アーティスト                                                                                                                      | 収録アルバム                                                                                      | 発売日                                                                    | 製造番号            | 備考      |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------- | ------- |
+| Northern lights                                                                  | [奥井雅美](../Page/奥井雅美.md "wikilink")                                                                                          | 『**[マサミコブシ](../Page/マサミコブシ.md "wikilink")**』\[10\]                                          | [2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") | KICS-1167       | カバーアルバム |
+| [彩音](../Page/彩音.md "wikilink")×[飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink") | 『**[Animelo Summer Live 2010 -evolution- 8.29](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#2010年 "wikilink")**』\[11\] | [2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | KIBM-1061〜3                                                            | ライブDVD          |         |
+| KIXM-1014〜5                                                                      | ライブBlu-ray                                                                                                                  |                                                                                             |                                                                        |                 |         |
+| [巽悠衣子](https://ja.wikipedia.org/wiki/巽悠衣子 "wikilink")                            | 『**[新・百歌声爛II 女性声優編](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編II（新） "wikilink")**』\[12\]                                      | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                      | ESCL-3811                                                              | カバーコンピレーションアルバム |         |
 
 ## 脚注
 
-  - 出典
+### 注釈
 
-<!-- end list -->
-
-  - 注釈
+### 出典
 
 [Category:楽曲_の](https://ja.wikipedia.org/wiki/Category:楽曲_の "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:シャーマンキング](https://ja.wikipedia.org/wiki/Category:シャーマンキング "wikilink")
 
@@ -54,3 +54,10 @@
 3.
 4.  第三十五廻 - 第六十四廻
 5.  第三十五廻 - 第六十三廻
+6.
+7.
+8.
+9.
+10.
+11.
+12.

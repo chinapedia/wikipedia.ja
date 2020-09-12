@@ -66,6 +66,6 @@
   - [KAI (1982年生の歌手)](https://ja.wikipedia.org/wiki/KAI_\(1982年生の歌手\) "wikilink")
   - [MEG](https://ja.wikipedia.org/wiki/MEG "wikilink")
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
 1.  [人気声優・小松未可子のニューアルバム「e′tuis」の音質をめぐりマスタリングに立ち会ったクリエイターが声明を出す騒動に発展](http://news.livedoor.com/article/detail/8841757/)

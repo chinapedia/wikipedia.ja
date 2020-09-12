@@ -88,4 +88,9 @@
       - 6thシングルカップリング
       - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系「[USO\!?ジャパン](../Page/USO!?ジャパン.md "wikilink")」テーマソング
 
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/single_collection_1999_2001)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=105)
+
 [Category:嵐のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:嵐のベスト・アルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink")

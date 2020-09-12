@@ -1,7 +1,7 @@
 > この記事は[おはようCBC](https://ja.wikipedia.org/wiki/おはようCBC)から翻訳されています。
 
 
-**おはようCBC**（おはようシービーシー）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")終了。
+**おはようCBC**（おはようシービーシー）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1974年](../Page/1974年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")放送開始\[1\]、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")終了。
 
 ## 放送時間
 
@@ -37,4 +37,12 @@
   - [朝の歳時記](../Page/朝の歳時記.md "wikilink")
   - 見たり聞いたり試したり
 
+## 脚注・出典
+
+` `
+
+### 出典
+
 [Category:1974年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のラジオ番組_\(日本\) "wikilink") [Category:CBCラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")
+
+1.  三才ブックス ラジオライフ 1981年9月号 56P

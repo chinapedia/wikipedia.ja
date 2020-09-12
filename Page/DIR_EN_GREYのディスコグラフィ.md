@@ -390,10 +390,24 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>31st</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月3日.md" title="wikilink">8月3日</a></p></td>
 <td><p><strong><a href="../Page/落ちた事のある空.md" title="wikilink">落ちた事のある空</a></strong></p></td>
 <td><p>DIGITAL</p></td>
 <td><p>–</p></td>
+</tr>
+<tr class="odd">
+<td><p>CD+DVD</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>CD+Blu-ray</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

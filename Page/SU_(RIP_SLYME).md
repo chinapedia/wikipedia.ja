@@ -42,7 +42,7 @@
   - MORE FUN?(CUSTOMIZED FOR FTR) / [PENPALS](../Page/PENPALS.md "wikilink")
   - A Song feat. PES & SU from RIP SLYME / [breakthrough](https://ja.wikipedia.org/wiki/breakthrough "wikilink")
   - dance dance dance dance feat. SU (RIP SLYME) / [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")
-  - ウィークエンド・シャッフルfeat. [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink"), RYO-Z, [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), SU, [LITTLE](../Page/LITTLE.md "wikilink"), ILMARI, GAKU-MC, [SONOMI](https://ja.wikipedia.org/wiki/SONOMI "wikilink"), PES, [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), [童子-T](../Page/童子-T.md "wikilink") / [RHYMESTER](../Page/RHYMESTER.md "wikilink")
+  - ウィークエンド・シャッフル feat. [MCU](../Page/MCU_\(ラッパー\).md "wikilink"), RYO-Z, [KREVA](../Page/KREVA.md "wikilink"), [CUEZERO](../Page/CUEZERO.md "wikilink"), [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), SU, [LITTLE](../Page/LITTLE.md "wikilink"), ILMARI, GAKU-MC, [SONOMI](https://ja.wikipedia.org/wiki/SONOMI "wikilink"), PES, [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), [童子-T](../Page/童子-T.md "wikilink") / [RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - Hey girl\! feat. SU(RIP SLYME) / [WISE](../Page/WISE.md "wikilink")
   - aisu×time / 大塚 愛 × SU from RIP SLYME
   - a world of difference / Q;indivi+SU
@@ -76,6 +76,9 @@
 
 <references />
 
+## 外部リンク
+
+  -
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

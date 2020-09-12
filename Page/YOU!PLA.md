@@ -5,7 +5,7 @@
 
 ## 概要 
 
-1F - 4Fに各種専門店が入居し、5F以上が核テナントである[シネマサンシャイン](../Page/シネマサンシャイン.md "wikilink")となっている。[京成](https://ja.wikipedia.org/wiki/京成本線 "wikilink")[ユーカリが丘駅](../Page/ユーカリが丘駅.md "wikilink")とは、ウィシュトンホテル・ユーカリ経由で、2F部分が[コンコース](https://ja.wikipedia.org/wiki/コンコース "wikilink")で接続している。
+1F - 4Fに各種専門店が入居し、5F以上が核テナントである[シネマサンシャイン](../Page/シネマサンシャイン.md "wikilink")となっている。[京成](https://ja.wikipedia.org/wiki/京成本線 "wikilink")[ユーカリが丘駅](../Page/ユーカリが丘駅.md "wikilink")とは、ウィシュトンホテル・ユーカリ経由で、2F部分が[コンコース](../Page/コンコース.md "wikilink")で接続している。
 
 「ユーカリが丘・シネマビル」として企画され\[2\]、1999年（平成11年）3月6日にユーカリが丘[サティの](https://ja.wikipedia.org/wiki/サティ_\(チェーンストア\) "wikilink")「2番街」として開業した\[3\]。
 

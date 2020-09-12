@@ -1,9 +1,11 @@
 > この記事は[Wolfenstein: Enemy Territory](https://ja.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory)から翻訳されています。
 
 
-『**Wolfenstein:Enemy Territory**』（**ウルフェンシュタイン エネミーテリトリー**）はマルチプレイ専用のフリーソフトとしてリリースされた[FPSで](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")、「W:ET」と略記される（2007年まではETでもこのゲームを指すことが多かったが、[Enemy Territory: Quake Wars](../Page/Enemy_Territory:_Quake_Wars.md "wikilink")』の発表と共に「W:ET」でないと混同するようになった）。
+『**Wolfenstein:Enemy Territory**』（**ウルフェンシュタイン エネミーテリトリー**）は、[マルチプレイ専用の](../Page/MMOFPS.md "wikilink")[フリーソフトとしてリリースされた](../Page/フリーウェア.md "wikilink")[FPSゲームで](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")、[Wolfenstein](../Page/Wolfenstein.md "wikilink")シリーズのひとつ。「**W:ET**」と略記される（2007年まではETでもこのゲームを指すことが多かったが、『[Enemy Territory: Quake Wars](../Page/Enemy_Territory:_Quake_Wars.md "wikilink")』の発表と共に「W:ET」でないと混同するようになった）。
 
-2003年に発表され、Return to Castle Wolfenstein（RtCW）の拡張パックとして開発が進んでいたが、シングルプレイのAI実装が困難を極めたため開発は中止。完成していたマルチプレイ部分だけが無料で公開された。[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")には[id Softwareが](https://ja.wikipedia.org/wiki/id_Software "wikilink")[Quake III Arenaのために開発し](https://ja.wikipedia.org/wiki/Quake_III_Arena "wikilink")、後の2005年にオープンソース化された[:en:id Tech 3が採用されている](https://ja.wikipedia.org/wiki/:en:id_Tech_3 "wikilink")。2010年8月には全ソースコードが[GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")のもと公開された。[1](http://www.splashdamage.com/content/wolfenstein-enemy-territory-goes-open-source)
+## 概要
+
+2003年に発表され、Return to Castle Wolfenstein（RtCW）の拡張パックとして開発が進んでいたが、シングルプレイのAI実装が困難を極めたため開発は中止。完成していたマルチプレイ部分だけが無料で公開された。[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")には[id Softwareが](https://ja.wikipedia.org/wiki/id_Software "wikilink")[Quake III Arenaのために開発し](https://ja.wikipedia.org/wiki/Quake_III_Arena "wikilink")、後の2005年にオープンソース化された[id Tech 3](https://ja.wikipedia.org/wiki/:en:id_Tech_3 "wikilink")が採用されている。2010年8月には全ソースコードが[GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")のもと公開された\[1\]。
 
 RtCWの基本システムとは別に、新システムとしてXPによるスキルシステムを導入、戦闘に変化がもたらされた。それにともない、クラス制にも若干の変化が加えられている。
 
@@ -552,6 +554,8 @@ HPが0になるとその場に倒れる。この時Medicから注射を受けれ
   -
     リアル系のトータルコンバージョンMOD。日本で人気がある。
 
+## 脚注
+
 ## 関連項目
 
   - [Wolfenstein](../Page/Wolfenstein.md "wikilink")
@@ -563,3 +567,5 @@ HPが0になるとその場に倒れる。この時Medicから注射を受けれ
   - [Wolfenstein: Enemy Territory - GUNDAM SERVER](https://gundamserver.xyz/)
 
 [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:フリーゲーム](https://ja.wikipedia.org/wiki/Category:フリーゲーム "wikilink")
+
+1.  <http://www.splashdamage.com/content/wolfenstein-enemy-territory-goes-open-source>

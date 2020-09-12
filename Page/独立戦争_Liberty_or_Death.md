@@ -1,25 +1,31 @@
 > この記事は[独立戦争 Liberty or Death](https://ja.wikipedia.org/wiki/独立戦争_Liberty_or_Death)から翻訳されています。
 
 
-『**独立戦争 Liberty or Death**』（どくりつせんそう リバティオアデス）は、[1993年](../Page/1993年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）が発売した[PC用](../Page/パーソナルコンピュータ.md "wikilink")[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。[アメリカ独立戦争](../Page/アメリカ独立戦争.md "wikilink")をテーマにしている。[1994年](../Page/1994年.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用としても移植された。海外では[ジェネシス](../Page/メガドライブ.md "wikilink")（メガドライブ）にも移植されている。元々は海外向けにDOS用に発売したゲームで、日本で発売されたのはその移植版である。難易度はアメリカ側は比較的低く、イギリス側は高くなっている。
+『**独立戦争 Liberty or Death**』（どくりつせんそう リバティ・オア・デス）は、[1993年](../Page/1993年.md "wikilink")に日本の[光栄から発売された](../Page/コーエー.md "wikilink")[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。副題の「Liberty or Death」は、北米版のタイトルであり、[パトリック・ヘンリー](../Page/パトリック・ヘンリー.md "wikilink")の演説の一節に由来する。
 
-副題の「Liberty or Death」は、海外版のタイトルであり、[パトリック・ヘンリー](../Page/パトリック・ヘンリー.md "wikilink")の演説の一節に由来する。
+[アメリカ独立戦争](../Page/アメリカ独立戦争.md "wikilink")をテーマにしており、プレイヤーは[ジョージ・ワシントン](../Page/ジョージ・ワシントン.md "wikilink")もしくは[トーマス・ゲージのどちらかを選択して独立戦争において戦う事を目的としている](../Page/トマス・ゲイジ.md "wikilink")。行動はターン毎にコマンドで指示を与える[ターン制ストラテジー](https://ja.wikipedia.org/wiki/ターン制ストラテジー "wikilink")となっている。難易度はアメリカ側は比較的低く、イギリス側は高くなっている。
 
-## 概要
+開発は光栄が行い、ゲーム・デザインは[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『[ジ・ウーズ](../Page/ジ・ウーズ.md "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）を手掛けたが担当している。
+
+元々は北米にて発売された作品であり、日本で発売されたのはその移植版である。同年に[PC-9801に移植され](../Page/PC-9800シリーズ.md "wikilink")、[1994年](../Page/1994年.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用としても移植された。北米では[メガドライブ](../Page/メガドライブ.md "wikilink")にも移植されている。
+
+## ゲーム内容
+
+### システム
 
 プレイヤーはアメリカ軍の最高司令官[ジョージ・ワシントン](../Page/ジョージ・ワシントン.md "wikilink")か、イギリス軍の最高司令官[トーマス・ゲージのどちらかになってアメリカ独立戦争を戦う](../Page/トマス・ゲイジ.md "wikilink")。政府フェイズ、地区フェイズ、戦争フェイズの3つのフェイズがあり、ターン毎にコマンドを与える。敵の正規軍を全滅させることが目標で、自身が死亡・捕虜になった場合や、信任投票で政治家から信任が得られず罷免された場合はゲームオーバーとなる。
 
 アメリカ・イギリス軍の正規軍の他に、各陣営に味方する市民軍が存在し、それぞれ独自に行動する。独立宣言、フランスやスペインの参戦といった歴史イベントがあり、イベント発生後に外国の軍隊が登場することもある。
 
-## マップ
+### マップ
 
 ゲームの戦場となるアメリカ東部は、当時植民地だった13の州と、2つの英領で構成され、北部・中部・南部の3つの地方に分かれている。各州はいくつかの地区で構成されている。
 
-## 地勢
+### 地勢
 
 各地区の戦争フェイズでの地勢は、海に面していたり、川が多く流れて居たり、砦が多く設置されていたり街だけの地区もあるなど、それぞれで大きく異なる。 どの軍も支配していない地区や、自軍や味方の市民軍が支配する地区は、地区フェイズの「情報」→「地区」→「地勢」で見る事が出来る。また、敵軍や敵の市民軍が支配する地区の地勢を見るには、 「情報」→「スパイ」で予め地区司令官以外の将校を1人スパイとして送り込み、情報を探る必要がある。
 
-## 兵種
+### 兵種
 
 戦争フェイズでは、歩兵・騎兵・砲兵・ゲリラの4種類の兵科があり、各兵科には特性がある。
 
@@ -39,7 +45,62 @@
 
 移動力と奇襲攻撃に特化した兵科で、移動力は騎兵に次いで高く、地上ではどこでも移動が可能である。大砲は持つことは出来るが、使用することが出来ない。 夜になると攻撃力が増す。また、森や山岳に部隊を留めた場合、隣に敵部隊が居ない場合は騎兵同様に伏兵し、後で隣に移動してきた敵部隊に奇襲攻撃を仕掛けることも出来る。 （敵部隊に気付かれて攻撃を受けた場合、伏兵の状態を解かれるのも騎兵同様）
 
-## 機種による違い
+## 移植版
+
+### 一覧
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>独立戦争 Liberty or Death</p></td>
+<td></td>
+<td><p><a href="../Page/PC-9800シリーズ.md" title="wikilink">PC-9801</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>5インチフロッピーディスク</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>独立戦争 Liberty or Death</p></td>
+<td></td>
+<td><p><a href="../Page/スーパーファミコン.md" title="wikilink">スーパーファミコン</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>16<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a><ref>{{Cite book|和書</p></td>
+<td><p>author = 前田尋之</p></td>
+<td><p>date = 2019-09-28</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>Liberty or Death</p></td>
+<td></td>
+<td><p><a href="../Page/メガドライブ.md" title="wikilink">メガドライブ</a></p></td>
+<td><p>光栄</p></td>
+<td><p>光栄</p></td>
+<td><p>ロムカセット</p></td>
+<td><p>T-76106</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 機種による特徴
 
 |                                    | PC版         | SFC版                                                       |
 | ---------------------------------- | ----------- | ---------------------------------------------------------- |
@@ -57,9 +118,23 @@ PC版とスーパーファミコン版との違い
 
 その他の違いとして、実行コマンドの変更（「徴収」「資金援助要請」と「借金」）、将校の能力が変更（例：ジョージ・ワシントン：戦術58（PC版）→98（SFC版）。特にトーマス・ゲージは大きく変更されている）などがある。
 
+## 評価
+
+  - スーパーファミコン版
+
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、6・5・5・5の合計21点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通り、19.6点（満30点）となっている\[2\]。
+
+| 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
+| -- | ----- | --- | ---- | --- | --- | ------- | ---- |
+| 得点 | 3.4   | 3.3 | 3.1  | 3.1 | 3.3 | 3.4     | 19.6 |
+
+## 脚注
+
 ## 外部リンク
 
-  - [「独立戦争・Liberty or Death」の世界](http://odds.mond.jp/dokuritsusensou/)
-  - [レトロゲームの供養寺](http://www.geocities.jp/gurafsander/gamedera.retrogamehonbo.Dokuritsu_Sensou.html)-
+  - （英語）
 
-[Category:歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:歴史シミュレーションゲーム "wikilink") [Category:コーエーのシミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:コーエーのシミュレーションゲーム "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:アメリカ独立戦争](https://ja.wikipedia.org/wiki/Category:アメリカ独立戦争 "wikilink")
+[Category:1993年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1993年のパソコンゲーム "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:アメリカ合衆国を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたコンピュータゲーム "wikilink") [Category:アメリカ独立戦争](https://ja.wikipedia.org/wiki/Category:アメリカ独立戦争 "wikilink") [Category:コーエーのシミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:コーエーのシミュレーションゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:戦争ゲーム](https://ja.wikipedia.org/wiki/Category:戦争ゲーム "wikilink") [Category:ターン制ストラテジーゲーム](https://ja.wikipedia.org/wiki/Category:ターン制ストラテジーゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:歴史シミュレーションゲーム "wikilink")
+
+1.
+2.

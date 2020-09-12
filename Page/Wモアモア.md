@@ -48,4 +48,4 @@
 
 [Category:過去の太田プロ所属者](https://ja.wikipedia.org/wiki/Category:過去の太田プロ所属者 "wikilink")
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:漫才真打](https://ja.wikipedia.org/wiki/Category:漫才真打 "wikilink") [Category:W一門](https://ja.wikipedia.org/wiki/Category:W一門 "wikilink")

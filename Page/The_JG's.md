@@ -5,17 +5,68 @@
 
 ## メンバー
 
-|                                                                   |                    |  |                                                                                                                                                                                                                                 |
-| ----------------------------------------------------------------- | ------------------ |  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **大場次一**                                                          | リーダー兼リミックス         |  |                                                                                                                                                                                                                                 |
-| **[dj honda](https://ja.wikipedia.org/wiki/dj_honda "wikilink")** | リミックス              |  | [1992年](../Page/1992年.md "wikilink") DJ Battle World Supremacy 準優勝。ファッションブランド "**h**" も展開している。                                                                                                                                  |
-| **[DJ KOO](../Page/DJ_KOO.md "wikilink")**                        | リミックス              |  | [TRF](../Page/TRF.md "wikilink")でリーダー，DJ，サウンドクリエイター。バラエティ番組でも活動中                                                                                                                                                                |
-| **三好史**                                                           | エンジニア              |  | いぬ名義で[エディット](https://ja.wikipedia.org/wiki/エディット "wikilink")を多用するアニソンDJとして活動中。                                                                                                                                                  |
-| **[鈴木昇治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink")**       | プロデューサー            |  |                                                                                                                                                                                                                                 |
-| **高橋一男**                                                          | プロデューサー            |  |                                                                                                                                                                                                                                 |
-| 浅野ユウジ                                                             |                    |  |                                                                                                                                                                                                                                 |
-| 斉藤成人                                                              | マネジメントプロデューサー      |  | 現在の活動                                                                                                                                                                                                                           |
-| **[火口秀幸](https://ja.wikipedia.org/wiki/火口秀幸 "wikilink")**         | パフォーマー（ラップ，タップダンス） |  | タップダンサー，振付師として活動中。[2003年](../Page/2003年.md "wikilink")には[北野武監督による映画](../Page/ビートたけし.md "wikilink")「[座頭市](../Page/座頭市.md "wikilink")」の振付を行う。[2015年](../Page/2015年.md "wikilink")には振付師のダンスコンテスト"Legend Tokyo Chapter.5"にて4部門同時受賞。 |
+<table>
+<thead>
+<tr class="header">
+<th><p>メンバー</p></th>
+<th><p>パート</p></th>
+<th><p>現在の活動</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>大場次一</p></td>
+<td><p>リーダー<br />
+リミックス</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/dj_honda" title="wikilink">dj honda</a></p></td>
+<td><p>リミックス</p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a> DJ Battle World Supremacy 準優勝。<br />
+ファッションブランド "<strong>h</strong>" も展開している。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/DJ_KOO.md" title="wikilink">DJ KOO</a></p></td>
+<td><p>リミックス</p></td>
+<td><p><a href="../Page/TRF.md" title="wikilink">TRF</a>でリーダー、DJ、サウンドクリエイター。<br />
+バラエティ番組でも活動中</p></td>
+</tr>
+<tr class="even">
+<td><p>三好史</p></td>
+<td><p>エンジニア</p></td>
+<td><p>いぬ名義で<a href="https://ja.wikipedia.org/wiki/エディット" title="wikilink">エディット</a>を多用するアニソンDJとして活動中。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木しょう治" title="wikilink">鈴木昇治</a></p></td>
+<td><p>プロデューサー</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>高橋一男</p></td>
+<td><p>プロデューサー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>浅野ユウジ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>斉藤成人</p></td>
+<td><p>マネジメントプロデューサー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/火口秀幸" title="wikilink">火口秀幸</a></p></td>
+<td><p>パフォーマー<br />
+（ラップ、タップダンス）</p></td>
+<td><p>タップダンサー、振付師として活動中。<br />
+<a href="../Page/2003年.md" title="wikilink">2003年</a>には<a href="../Page/ビートたけし.md" title="wikilink">北野武監督による映画</a>「<a href="../Page/座頭市.md" title="wikilink">座頭市</a>」の振付を行う。<br />
+<a href="../Page/2015年.md" title="wikilink">2015年</a>には振付師のダンスコンテスト"Legend Tokyo Chapter.5"にて4部門同時受賞。</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 来歴
 

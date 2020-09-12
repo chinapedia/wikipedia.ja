@@ -114,7 +114,7 @@
 
 1993年、[Jリーグが開幕すると](../Page/日本プロサッカーリーグ.md "wikilink")、すべてのJリーグクラブは育成組織を持つことが必須となった。サンフレッチェ広島では当初ハード面で遅れており、特にユースは広島市内で練習グラウンドの確保すらままならなかった。そこへ[高田郡](../Page/高田郡.md "wikilink")[吉田町](../Page/吉田町_\(広島県\).md "wikilink")(現安芸高田市)がサッカーを中心としたスポーツで町おこしをする「若者定住促進等緊急プロジェクト」の一環として全面協力することが決定、ユースは育成拠点を吉田町内に置き、町内の[吉田運動公園](https://ja.wikipedia.org/wiki/吉田運動公園 "wikilink")を練習拠点として活動を開始した。
 
-[right](https://ja.wikipedia.org/wiki/ファイル:Yoshidapark2.JPG "wikilink") [right展望台からみる吉田町](https://ja.wikipedia.org/wiki/ファイル:Yoshidamachi.JPG "wikilink")。手前の建物が吉田高校。\]\] ほぼゼロからのスタートであったが、前身の東洋工業/マツダSC時代から若手を育てることがクラブとして生きる道だという思いから、若手育成のノウハウができつつあり、その後の試行錯誤から以下のような発展を遂げた
+[right](https://ja.wikipedia.org/wiki/ファイル:Yoshidapark2.JPG "wikilink") [right展望台からみる吉田町](https://ja.wikipedia.org/wiki/ファイル:Yoshidamachi.JPG "wikilink")。手前の建物が吉田高校。\]\] ほぼゼロからのスタートであったが、前身の東洋工業/マツダSC時代から若手を育てることがクラブとして生きる道だという思いから、若手育成のノウハウができつつあり、その後の試行錯誤から以下のような発展を遂げた。
 
   - トップクラスの環境（[吉田サッカー公園](../Page/吉田サッカー公園.md "wikilink")、全寮制）
 
@@ -225,6 +225,8 @@
   - 1種アマチュア・女子
 
 2015年時点で、女子チームを創設する予定は全くなく地元の[アンジュヴィオレ広島](https://ja.wikipedia.org/wiki/アンジュヴィオレ広島 "wikilink")とともに広島サッカー界を盛り上げていくと明示しているが、正式な提携までには至っていない。更に、1種アマチュアチーム、いわゆるセカンドチームも創設する予定もないと明示している。
+
+2020年8月1日、女子チームを新たに設立したうえで2021年秋に開幕を予定している[WEリーグ](https://ja.wikipedia.org/wiki/WEリーグ "wikilink")（日本女子プロサッカーリーグ）への参加を申請したことが明らかになった。\[1\]
 
 ### 昇格実績
 
@@ -998,7 +1000,7 @@
       - [吉村修平](../Page/吉村修平.md "wikilink") - Y
   - 1986年度生まれ
       - [大屋翼](../Page/大屋翼.md "wikilink") - Y,JY
-      - [桒田慎一朗](../Page/桑田慎一朗.md "wikilink") - Y,みJY 初のみろくの里JYからトップ昇格
+      - [桒田慎一朗](https://ja.wikipedia.org/wiki/桒田慎一朗 "wikilink") - Y,みJY 初のみろくの里JYからトップ昇格
       - [佐藤昭大](../Page/佐藤昭大.md "wikilink") - Y
       - [高萩洋次郎](../Page/高萩洋次郎.md "wikilink") - Y、初のプロの高校生Jリーガー
       - [高柳一誠](../Page/高柳一誠.md "wikilink") - Y,JY
@@ -1060,21 +1062,13 @@
       - [岡本洵](https://ja.wikipedia.org/wiki/岡本洵 "wikilink") - Y
   - 1993年度生まれ
       - [石坂元気](https://ja.wikipedia.org/wiki/石坂元気 "wikilink") - Y
-
       - [大野哲煥](https://ja.wikipedia.org/wiki/大野哲煥 "wikilink") - Y
-
       - [亀島周](https://ja.wikipedia.org/wiki/亀島周 "wikilink") - Y,JY
-
       - [藤井貴之](https://ja.wikipedia.org/wiki/藤井貴之 "wikilink") - Y
-
       - [増谷幸祐](https://ja.wikipedia.org/wiki/増谷幸祐 "wikilink") - びJY
-
       - [本藤理佐](https://ja.wikipedia.org/wiki/本藤理佐 "wikilink") - Jr,S 初のJr出身のなでしこリーガー
-
-      - \- Y,JY,Jr
-
+      - [森保圭悟](https://ja.wikipedia.org/wiki/森保圭悟 "wikilink") - Y,JY,Jr
       - [脇本晃成](https://ja.wikipedia.org/wiki/脇本晃成 "wikilink") - Y,JY
-
       - [米沢健吾](https://ja.wikipedia.org/wiki/米沢健吾 "wikilink") - びJY
   - 1994年度生まれ
       - [大谷真史](../Page/大谷真史.md "wikilink") - Y,JY
@@ -1242,3 +1236,5 @@
   - [中国クラブユースサッカー連盟](http://www.sportsonline.jp/tycfa/)
 
 [Category:サンフレッチェ広島F.C](https://ja.wikipedia.org/wiki/Category:サンフレッチェ広島F.C "wikilink") [Category:サンフレッチェ広島F.Cの選手](https://ja.wikipedia.org/wiki/Category:サンフレッチェ広島F.Cの選手 "wikilink") [Category:日本のサッカーアカデミー](https://ja.wikipedia.org/wiki/Category:日本のサッカーアカデミー "wikilink")
+
+1.  [WEリーグ、17団体の入会申請を受理　広島などが新たに参入…今秋に参加チーム発表](https://www.football-zone.net/archives/275221) football zone web 2020年8月1日

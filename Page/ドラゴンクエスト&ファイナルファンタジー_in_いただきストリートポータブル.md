@@ -363,6 +363,6 @@
 ## 外部リンク
 
   - [いたストポータブル公式サイト（スクウェア・エニックス）](http://www.square-enix.co.jp/itastpsp/)
-  - [いたストポータブル公式ブログ](http://itasuto-psp.cocolog-nifty.com/)
 
+  -
 [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:ドラゴンクエストのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンクエストのコンピュータゲーム "wikilink") [Category:ドラゴンクエストのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ドラゴンクエストのスピンオフ作品 "wikilink") [Category:ファイナルファンタジーのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファイナルファンタジーのコンピュータゲーム "wikilink") [Category:ファイナルファンタジーシリーズのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ファイナルファンタジーシリーズのスピンオフ作品 "wikilink") [Category:スクウェア・エニックスのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスのクロスオーバー作品 "wikilink") [Category:いただきストリート](https://ja.wikipedia.org/wiki/Category:いただきストリート "wikilink") [Category:アドホック・パーティー対応ソフト](https://ja.wikipedia.org/wiki/Category:アドホック・パーティー対応ソフト "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

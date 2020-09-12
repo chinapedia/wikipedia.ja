@@ -5,7 +5,7 @@
 
 ## 概要
 
-チーム名は、[立山連峰](../Page/立山連峰.md "wikilink")に生息する[富山県の鳥](https://ja.wikipedia.org/wiki/都道府県のシンボルの一覧 "wikilink")、[ライチョウ](../Page/ライチョウ.md "wikilink")（雷鳥）から命名された。ただし、ライチョウの英名は「Ptarmigan」もしくは「Grouse（[Bリーグ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")・[富山グラウジーズ](../Page/富山グラウジーズ.md "wikilink")はここからの命名）」であり、「雷」と「鳥」からの直訳で付けた[和製英語](../Page/和製英語.md "wikilink")である。なお英語の「Thunderbird」は、ライチョウとは無関係な伝説の鳥「[サンダーバード](../Page/サンダーバード_\(伝説の生物\).md "wikilink")」を意味する。発足当時のチーム名は**富山サンダーバーズ**であったが、後述の通り[2015年](../Page/2015年.md "wikilink")に命名権契約を結んだことから、「GRN」が入った名称となった。
+チーム名は、[立山連峰](../Page/立山連峰.md "wikilink")に生息する[富山県の鳥](https://ja.wikipedia.org/wiki/都道府県のシンボルの一覧 "wikilink")、[ライチョウ](../Page/ライチョウ.md "wikilink")（雷鳥）から命名された。ただし、ライチョウの英名は「ptarmigan」もしくは「grouse（[Bリーグ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")・[富山グラウジーズ](../Page/富山グラウジーズ.md "wikilink")はここからの命名）」であり、「雷」と「鳥」からの直訳で付けた[和製英語](../Page/和製英語.md "wikilink")である。発足当時のチーム名は**富山サンダーバーズ**であったが、後述の通り[2015年](../Page/2015年.md "wikilink")に命名権契約を結んだことから、「GRN」が入った名称となった。
 
 リーグが6球団制だった[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2014年](../Page/2014年.md "wikilink")までは[北陸地区](../Page/北陸地方.md "wikilink")、8球団制となった2015年からは西地区に属する。
 

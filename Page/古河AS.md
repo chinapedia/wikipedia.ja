@@ -87,7 +87,7 @@
   - FASV（ベトナム／[ベンチェ省](../Page/ベンチェ省.md "wikilink")）
   - FAPD（[中国](../Page/中華人民共和国.md "wikilink")／[東莞市](../Page/東莞市.md "wikilink")）
   - FAPHK（中国／[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")）
-  - FESZ（中国／[深圳](../Page/深セン市.md "wikilink")）
+  - FESZ（中国／[深圳](https://ja.wikipedia.org/wiki/深圳市 "wikilink")）
   - CFGH（中国／[長春](../Page/長春市.md "wikilink")）
   - FASP（[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")／[ラグナ州](../Page/ラグナ州.md "wikilink")）
   - FEAP（[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")／[ラグナ州](../Page/ラグナ州.md "wikilink")）

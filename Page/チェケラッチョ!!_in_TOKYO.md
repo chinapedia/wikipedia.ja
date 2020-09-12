@@ -50,8 +50,8 @@ ROM-4「Keep It Goin'On」\[1\]
 
 ## 外部リンク
 
-  - [＜青春★ENERGY＞ バックナンバー一覧](http://www.fujitv.co.jp/b_hp/energy/backnumber/list.html) - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")
-  - [TV チェケラッチョ\!\! in TOKYO](http://www.allcinema.net/prog/show_c.php?num_c=325422) - [allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")
+  - [＜青春★ENERGY＞ バックナンバー一覧](https://www.fujitv.co.jp/b_hp/energy/backnumber/list.html) - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")
+  - [TV チェケラッチョ\!\! in TOKYO](https://www.allcinema.net/cinema/325422) - [allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")
   - [チェケラッチョ\!\! in Tokyo - ドラマ詳細データ](http://www.tvdrama-db.com/drama_info/p/id-39088) - [テレビドラマデータベース](https://ja.wikipedia.org/wiki/テレビドラマデータベース "wikilink")
 
 [Category:フジテレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink")

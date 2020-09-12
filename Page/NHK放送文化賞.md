@@ -112,11 +112,11 @@
 </tr>
 <tr class="even">
 <td><p>第24回（1972年度）</p></td>
-<td><p><a href="../Page/巌本真理.md" title="wikilink">巌本真理</a>、<a href="https://ja.wikipedia.org/wiki/小野田勇" title="wikilink">小野田勇</a>、<a href="../Page/海音寺潮五郎.md" title="wikilink">海音寺潮五郎</a>、<a href="../Page/古今亭今輔_(5代目).md" title="wikilink">古今亭今輔</a>、<a href="../Page/小西得郎.md" title="wikilink">小西得郎</a>、<a href="https://ja.wikipedia.org/wiki/高木純一" title="wikilink">高木純一</a>、<a href="https://ja.wikipedia.org/wiki/鶴澤寛治" title="wikilink">鶴澤寛治</a>、<a href="../Page/中島健蔵.md" title="wikilink">中島健蔵</a>、<a href="../Page/我妻栄.md" title="wikilink">我妻栄</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/巖本真理" title="wikilink">巖本真理</a>、<a href="https://ja.wikipedia.org/wiki/小野田勇" title="wikilink">小野田勇</a>、<a href="../Page/海音寺潮五郎.md" title="wikilink">海音寺潮五郎</a>、<a href="../Page/古今亭今輔_(5代目).md" title="wikilink">古今亭今輔</a>、<a href="../Page/小西得郎.md" title="wikilink">小西得郎</a>、<a href="https://ja.wikipedia.org/wiki/高木純一" title="wikilink">高木純一</a>、<a href="https://ja.wikipedia.org/wiki/鶴澤寛治" title="wikilink">鶴澤寛治</a>、<a href="../Page/中島健蔵.md" title="wikilink">中島健蔵</a>、<a href="../Page/我妻栄.md" title="wikilink">我妻栄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第25回（1973年度）</p></td>
-<td><p><a href="../Page/朝比奈隆.md" title="wikilink">朝比奈隆</a>、<a href="../Page/川上正光.md" title="wikilink">川上正光</a>、<a href="../Page/佐伯達夫.md" title="wikilink">佐伯達夫</a>、<a href="../Page/中村歌右衛門_(6代目).md" title="wikilink">中村歌右衛門</a>、<a href="../Page/出羽ノ花國市.md" title="wikilink">武蔵川喜偉</a>、<a href="../Page/棟方志功.md" title="wikilink">棟方志功</a>、<a href="../Page/蝋山政道.md" title="wikilink">蝋山政道</a></p></td>
+<td><p><a href="../Page/朝比奈隆.md" title="wikilink">朝比奈隆</a>、<a href="../Page/川上正光.md" title="wikilink">川上正光</a>、<a href="../Page/佐伯達夫.md" title="wikilink">佐伯達夫</a>、<a href="../Page/中村歌右衛門_(6代目).md" title="wikilink">中村歌右衛門</a>、<a href="../Page/出羽ノ花國市.md" title="wikilink">武蔵川喜偉</a>、<a href="../Page/棟方志功.md" title="wikilink">棟方志功</a>、<a href="https://ja.wikipedia.org/wiki/蠟山政道" title="wikilink">蠟山政道</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第26回（1974年度）</p></td>

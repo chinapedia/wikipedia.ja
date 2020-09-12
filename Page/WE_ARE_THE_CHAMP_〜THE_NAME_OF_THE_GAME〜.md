@@ -39,7 +39,6 @@ Jリーグ発足前に、[ロッテオリオンズの応援団が演奏してい
 
   - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")
   - [応援歌](../Page/応援歌.md "wikilink")
-  - [CAMPIONE NIPPON](https://ja.wikipedia.org/wiki/CAMPIONE_NIPPON "wikilink")
   - [Olé, Olé, Olé](https://ja.wikipedia.org/wiki/:en:Olé,_Olé,_Olé "wikilink")
 
 [Category:サッカー音楽](https://ja.wikipedia.org/wiki/Category:サッカー音楽 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

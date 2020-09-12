@@ -1,7 +1,7 @@
 > この記事は[SeVen \(V6のアルバム\)](https://ja.wikipedia.org/wiki/SeVen_\(V6のアルバム\))から翻訳されています。
 
 
-『**seVen**』（セブン）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[7th](https://ja.wikipedia.org/wiki/セヴンス "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")に、[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**seVen**』（セブン）は、[V6の](../Page/V6_\(グループ\).md "wikilink")7th[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")に、[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -110,7 +110,7 @@
 <td><p>21st両A面シングル。</p></td>
 </tr>
 <tr class="odd">
-<td><p>Feel your breeze</p></td>
+<td><p>Feel your breeze（G･S･N version）</p></td>
 <td><p>日本テレビ系列ドラマ『<a href="../Page/ごくせん_(テレビドラマ).md" title="wikilink">ごくせん</a>』主題歌</p></td>
 <td><p>21st両A面シングル。</p></td>
 </tr>

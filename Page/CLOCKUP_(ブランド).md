@@ -59,6 +59,7 @@ CLOCKUPというブランド名は、コンピュータにおける[オーバー
   - 2019年9月27日 - [フラテルニテ HDリマスター版](https://ja.wikipedia.org/wiki/フラテルニテ "wikilink")
   - 2019年6月28日 - [僕と彼女の淫らな宴](https://ja.wikipedia.org/wiki/僕と彼女の淫らな宴 "wikilink")
   - 2019年12月20日 - [健全\!変態公僕のツトメ](https://ja.wikipedia.org/wiki/健全!変態公僕のツトメ "wikilink")
+  - 2020年6月26日 - [黒の歌姫 HDリマスター](https://ja.wikipedia.org/wiki/黒の歌姫 "wikilink")
 
 <!-- end list -->
 

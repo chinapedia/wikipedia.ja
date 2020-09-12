@@ -7,8 +7,6 @@
 
 カップリングの「Remember」は『[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")』唯一の挿入歌。
 
-[坂本と](../Page/坂本昌行.md "wikilink")[井ノ原にソロパートが与えられている](../Page/井ノ原快彦.md "wikilink")。
-
 ## 収録曲
 
 1.  **愛のMelody**

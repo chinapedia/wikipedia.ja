@@ -21,7 +21,7 @@
 
 **元メンバー**
 
-  - 内山朋子（うちやま ともこ、初代ドラム&ボーカル、[1960年](../Page/1960年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）　結成当時のメンバー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで在籍。
+  - 内山朋子（うちやま ともこ、初代ドラム&ボーカル ）　結成当時のメンバー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで在籍。
   - 田中舘寿江（たなかだて ひさえ、2代目ドラム&ボーカル、[1974年](../Page/1974年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - ）　[2004年](../Page/2004年.md "wikilink")まで在籍。現在は同じ[INGレーベル](https://ja.wikipedia.org/wiki/INGレーベル "wikilink")所属の[深海ソサエティ](https://ja.wikipedia.org/wiki/深海ソサエティ "wikilink")で活動中。
   - [宍戸佑名](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink")（ししど ゆうな、3代目[ドラム](../Page/ドラマー.md "wikilink")&ボーカル、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月23日](../Page/6月23日.md "wikilink") - ）[2009年](../Page/2009年.md "wikilink")まで在籍。現在は[シシド・カフカ](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink")名義でソロ活動。
 

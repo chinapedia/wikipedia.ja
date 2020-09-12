@@ -7,7 +7,8 @@
 
   - 当中継局は、[東北自動車道](../Page/東北自動車道.md "wikilink")[小坂IC付近に置かれ](../Page/小坂インターチェンジ.md "wikilink")、小坂町内に向けて電波を発射している。
 
-  -
+  - 。
+
 ## 中継局送信設備概要
 
 [NHK_kosaka_radio_station2.JPG](https://ja.wikipedia.org/wiki/File:NHK_kosaka_radio_station2.JPG "fig:NHK_kosaka_radio_station2.JPG")
@@ -43,7 +44,8 @@
 
 ## 備考
 
-  -
+  - 。
+
 ## 脚注
 
 ## 関連項目

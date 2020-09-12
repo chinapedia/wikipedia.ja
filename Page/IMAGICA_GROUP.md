@@ -31,7 +31,6 @@
   - 株式会社[IMAGICA Lab.](../Page/IMAGICA_Lab..md "wikilink")
   - 株式会社[イマジカデジタルスケープ](../Page/イマジカデジタルスケープ.md "wikilink") - データ可視化ソリューションを開発するデジタルリアリティラボを設立している。
   - 株式会社[コスモ・スペース](../Page/コスモ・スペース.md "wikilink")
-  - 株式会社イマジカ角川エディトリアル
   - 株式会社[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")
 
 ### 映像システム事業
@@ -48,6 +47,7 @@
 ### 過去
 
   - 株式会社IMAGICAティーヴィ - 現・[WOWOWプラス](https://ja.wikipedia.org/wiki/WOWOWプラス "wikilink")。[WOWOW](../Page/WOWOW.md "wikilink")グループ入りに伴い離脱。
+  - 株式会社イマジカ角川エディトリアル - 現・パーソルメディアスイッチ株式会社。[パーソルプロセス&テクノロジー](https://ja.wikipedia.org/wiki/パーソルプロセス&テクノロジー "wikilink")と[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")の共同出資会社。
 
 ## 脚注
 

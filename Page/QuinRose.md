@@ -28,7 +28,7 @@
   - 2007年12月25日 - [クローバーの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/クローバーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")
   - 2008年12月13日 - [クリムゾン・エンパイア〜Circumstance to serve a noble〜](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア〜Circumstance_to_serve_a_noble〜 "wikilink")
   - 2009年 8月08日 - [クリムゾン・ロワイヤル〜Circumstance to serve a noble〜](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア〜Circumstance_to_serve_a_noble〜 "wikilink")
-  - 2009年10月31日 - [ジョーカーの国のアリス〜Wonderful Wonder World〜](../Page/ハートの国のアリス〜Wonderful_Wonder_World〜.md "wikilink")
+  - 2009年10月31日 - [ジョーカーの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/ダイヤの国のアリス〜Wonderful_Wonder_World〜#ジョーカーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")
   - 2010年 3月14日 - [アニバーサリーの国のアリス〜Wonderful Wonder World〜](../Page/ハートの国のアリス〜Wonderful_Wonder_World〜.md "wikilink")
   - 2010年 7月31日 - [魔法使いとご主人様 New Ground 〜Wizard and The Master〜](https://ja.wikipedia.org/wiki/魔法使いとご主人様 "wikilink")
 
@@ -51,7 +51,7 @@
       - 7月28日 - [ハートの国のアリス・アニバーサリーVer.〜Wonderful Wonder World〜](../Page/ハートの国のアリス〜Wonderful_Wonder_World〜.md "wikilink")
       - 8月25日 - [クリムゾン・エンパイア〜Circumstance to serve a noble〜](https://ja.wikipedia.org/wiki/クリムゾン・エンパイア〜Circumstance_to_serve_a_noble〜 "wikilink")（PSP版）
       - 10月06日 - [お菓子な島のピーターパン 〜Sweet Never Land〜](https://ja.wikipedia.org/wiki/お菓子な島のピーターパン_〜Sweet_Never_Land〜 "wikilink")
-      - 10月27日 - [ジョーカーの国のアリス〜Wonderful Wonder World〜](../Page/ハートの国のアリス〜Wonderful_Wonder_World〜.md "wikilink")（PSP版）
+      - 10月27日 - [ジョーカーの国のアリス〜Wonderful Wonder World〜](https://ja.wikipedia.org/wiki/ダイヤの国のアリス〜Wonderful_Wonder_World〜#ジョーカーの国のアリス〜Wonderful_Wonder_World〜 "wikilink")（PSP版）
       - 11月17日 - [マザーグースの秘密の館 ～BLUE LABEL～](https://ja.wikipedia.org/wiki/マザーグースの秘密の館 "wikilink")
       - 11月23日 - [魔法使いとご主人様 New Ground 〜Wizard and The Master〜](https://ja.wikipedia.org/wiki/魔法使いとご主人様 "wikilink")（PSP版）
       - 12月22日 - [おもちゃ箱の国のアリス〜Wonderful Wonder World〜](../Page/ハートの国のアリス〜Wonderful_Wonder_World〜.md "wikilink")

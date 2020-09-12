@@ -267,6 +267,14 @@
 <td><p>2019-20</p></td>
 <td><p>チャンピオン</p></td>
 <td><p>46</p></td>
+<td><p>16</p></td>
+<td><p>8</p></td>
+<td><p>22</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p>チャンピオン</p></td>
+<td><p>46</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -42,10 +42,18 @@
 
 ## パーソナリティー
 
+  - 現在
+
+<!-- end list -->
+
   - [丸山隆之](../Page/丸山隆之.md "wikilink")（[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 、月・火\[2\]、報道部員）
   - [久保正彰](https://ja.wikipedia.org/wiki/久保正彰_\(アナウンサー\) "wikilink") (2016年[3月30日](../Page/3月30日.md "wikilink") - 、水〜金\[3\])
 
-## 以前のパーソナリティー
+<!-- end list -->
+
+  - 過去
+
+<!-- end list -->
 
   - 舩戸導洋
   - [小林万利子](https://ja.wikipedia.org/wiki/小林万利子 "wikilink")

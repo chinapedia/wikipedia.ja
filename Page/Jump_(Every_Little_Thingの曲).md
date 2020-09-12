@@ -1,13 +1,15 @@
 > この記事は[Jump \(Every Little Thingの曲\)](https://ja.wikipedia.org/wiki/Jump_\(Every_Little_Thingの曲\))から翻訳されています。
 
 
-「**jump**」（ジャンプ）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")19thシングル。[2001年](../Page/2001年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売された。
+「**jump**」（ジャンプ）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")19枚目のシングル。[2001年](../Page/2001年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売された。
 
 ## 解説
 
 前作「[Graceful World](../Page/Graceful_World.md "wikilink")」より約8ヶ月振りのリリースとなり、シングルでは初めて[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")が作曲を手掛けた。
 
 持田は本楽曲について挑戦的な意味合いで制作したと語っている\[1\]。
+
+前作「Graceful World」同様、B面曲は存在しない。
 
 ## 収録曲
 

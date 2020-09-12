@@ -31,6 +31,24 @@
         知人の言い争いを思い出して書かれた曲で、[鈴木英哉](../Page/鈴木英哉.md "wikilink")はその歌詞に笑ってしまい、レコーディング当初はまともに演奏できなかったという。
         桜井は「**かなりハチャメチャな曲**」「**この曲と「[雨のち晴れ remix version](https://ja.wikipedia.org/wiki/【es】_〜Theme_of_es〜#収録曲 "wikilink")」だけは本当のミスチルファンじゃないと聴いて欲しくない**」と語っている\[2\]。
 
+## テレビ出演
+
+| 番組名                                                                   | 日付         | 放送局                                  | 演奏曲          |
+| --------------------------------------------------------------------- | ---------- | ------------------------------------ | ------------ |
+| [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink") | 2002年7月5日  | [テレビ朝日](../Page/テレビ朝日.md "wikilink") | **Any**\[3\] |
+| [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")                  | 2002年7月13日 | [TBS](../Page/TBSテレビ.md "wikilink")  | **Any**\[4\] |
+
+## ライブ映像作品
+
+**Any**
+
+| 作品名                                                                                                                                 | 備考 |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                   |    |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                  |    |
+| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                  |    |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") |    |
+
 ## 収録アルバム
 
   - 『[シフクノオト](../Page/シフクノオト.md "wikilink")』 (\#1)
@@ -47,3 +65,5 @@
 
 1.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
 2.  『[B-SIDE](../Page/B-SIDE.md "wikilink")』歌詞カードのコメントより
+3.
+4.

@@ -6,7 +6,7 @@
 ## メンバー
 
   - **[藤田タカシ](../Page/藤田タカシ.md "wikilink")**（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")）
-  - **PAZZ**（[ドラム](../Page/ドラムセット.md "wikilink")） [GASTUNK](../Page/GASTUNK.md "wikilink")、[I love you... OK?](http://iloveyouok.web.fc2.com/)、ex:[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")、Shell Shock
+  - **PAZZ**（[ドラム](../Page/ドラムセット.md "wikilink")） [I love you... OK?](http://iloveyouok.web.fc2.com/)、ex:[GASTUNK](../Page/GASTUNK.md "wikilink")、[Z.O.A](https://ja.wikipedia.org/wiki/Z.O.A "wikilink")、Shell Shock
       - 広川の後任ドラマーとして加入。PAZZも白塗りメイクをしていた時期があった。
   - **アベ ユキヤ**（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）[セウ](http://sewu.jp/),[GOOFYSTYLE](https://www.facebook.com/GoofyStyle/)
       - 諸田コウに師事していた

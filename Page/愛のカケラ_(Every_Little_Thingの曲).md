@@ -9,6 +9,8 @@
 
 本作の歌詞はメンバーの一人だった五十嵐が脱退した当時の持田の心境が反映されたものとなっており、持田は当時の事を振り返って「何が正解で、何をもって終わりとなるのか、本当に分からないなと思いました。本当に頑張っていきたい一心で書いた曲だと思う。」と語っている。\[1\]
 
+最高位2位、累計売上20.6万枚。
+
 この曲で年末の[NHK紅白歌合戦に出場](../Page/第51回NHK紅白歌合戦.md "wikilink")（対戦相手は2回目となる[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")で「[ブルースカイブルー](../Page/ブルースカイブルー.md "wikilink")」）。
 
 [若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")が後年[曲名と作曲者が同じ楽曲を発表しているが](https://ja.wikipedia.org/wiki/愛のカケラ_\(若槻千夏の曲\) "wikilink")、曲自体は全く別のものである（同名異曲を同じ作曲者が作曲した例）。
@@ -35,7 +37,7 @@
 
   - 『[4 FORCE](../Page/4_FORCE.md "wikilink")』
   - 『[Every Ballad Songs](../Page/Every_Ballad_Songs.md "wikilink")』
-  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』
+  - 『[Every Best Single 2](../Page/Every_Best_Single_2.md "wikilink")』※愛のカケラ 〜Steppin' Hard Enough Mix〜
   - 『[ACOUSTIC:LATTE](../Page/ACOUSTIC:LATTE.md "wikilink")』※アレンジ、新録音して収録
   - 『[Every Best Single 〜COMPLETE〜](https://ja.wikipedia.org/wiki/Every_Best_Single_〜COMPLETE〜 "wikilink")』
   - 『[Every Best Single 2 〜MORE COMPLETE〜](https://ja.wikipedia.org/wiki/Tabitabi+Every_Best_Single_2_〜MORE_COMPLETE〜 "wikilink")』
@@ -60,7 +62,7 @@
 
   - [愛のカケラ](http://avex.jp/elt/discography/detail.php?id=1002319) - Every Little Thing 公式サイト
 
-[Category:Every_Little_Thingの楽曲](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingの楽曲 "wikilink") [Category:2000年の楽曲](https://ja.wikipedia.org/wiki/Category:2000年の楽曲 "wikilink") [Category:Every_Little_Thingの映像作品](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingの映像作品 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:2001年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2001年の音楽関連の映像作品 "wikilink") [Category:資生堂のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:資生堂のコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:持田香織が制作した楽曲](https://ja.wikipedia.org/wiki/Category:持田香織が制作した楽曲 "wikilink") [Category:多胡邦夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:多胡邦夫が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:Every_Little_Thingの楽曲](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:資生堂のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:資生堂のコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:持田香織が制作した楽曲](https://ja.wikipedia.org/wiki/Category:持田香織が制作した楽曲 "wikilink") [Category:多胡邦夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:多胡邦夫が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [ELT持田香織「何が正解なのか…」 メンバー脱退時の苦悩と秘話明かす](https://s-rbbtoday-com.cdn.ampproject.org/v/s/s.rbbtoday.com/article/2015/09/18/135392.amp.html?amp_js_v=a2&amp_gsa=1&usqp=mq331AQHCAFYAYABAQ%3D%3D#referrer=https%3A%2F%2Fwww.google.com&amp_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s)
 2.  [PROFILE](http://avex.jp/elt/profile/) Every Little Thing 公式サイト

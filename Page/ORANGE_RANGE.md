@@ -1,7 +1,7 @@
 > この記事は[ORANGE RANGE](https://ja.wikipedia.org/wiki/ORANGE_RANGE)から翻訳されています。
 
 
-**ORANGE RANGE**（オレンジ・レンジ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[沖縄県](../Page/沖縄県.md "wikilink")を拠点に活動する男性5人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は**RANGE**（レンジ）。所属プロダクションは[スパイスミュージック](https://ja.wikipedia.org/wiki/スパイスミュージック "wikilink")（業務提携先は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")）。レコード会社は自主レーベル「SUPER((ECHO))LABEL」（業務提携先は[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")の社内レーベル[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")）。公式ファンクラブは「RANGE AID+」。
+| 活動期間 = [2001年](../Page/2001年.md "wikilink") - | レーベル =  | 事務所 = [Spice Music](https://ja.wikipedia.org/wiki/スパイスミュージック "wikilink")（業務提携先は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")） | 共同作業者 = [シライシ紗トリ](../Page/シライシ紗トリ.md "wikilink")（2003年 - 2010年） | 公式サイト =  | メンバー =  | 旧メンバー = [KATCHAN](../Page/北尾一人.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")） }} **ORANGE RANGE**（オレンジ・レンジ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[沖縄県](../Page/沖縄県.md "wikilink")を拠点に活動する男性5人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。略称は**RANGE**（レンジ）。所属プロダクションは[スパイスミュージック](https://ja.wikipedia.org/wiki/スパイスミュージック "wikilink")（業務提携先は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")）。レコード会社は自主レーベル「SUPER((ECHO))LABEL」（業務提携先は[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")の社内レーベル[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")）。公式ファンクラブは「RANGE AID+」。
 
 ## 概要
 
@@ -181,7 +181,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\* [2月10日](../Page/2月10日.md "wikilink") - [4月9日](../Page/4月9日.md "wikilink")、全国ツアー「LIVE TOUR 005 “musiQ” supported by au by KDDI」を開催。
 
-:\* [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、シングル「[＊〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")」を発売。
+:\* [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、シングル「[\*〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")」を発売。
 
 :\* [4月27日](../Page/4月27日.md "wikilink")、DVD『ヴィデヲ・DE・リサイタル』を発売。
 
@@ -543,7 +543,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\* [8月1日](../Page/8月1日.md "wikilink")、国営ひたち海浜公園で行われた、「rockin'on presents ROCK IN JAPAN FESTIVAL 2015」に出演。
 
-:\*[8月8日](../Page/8月8日.md "wikilink")、新木場ageHaで開催する「Tokyo WonderNight -SUMMER CARNIVAL-」に、RYO from ORANGE RANGEとしてボーカルＲＹＯが出演。
+:\*[8月8日](../Page/8月8日.md "wikilink")、新木場ageHaで開催する「Tokyo WonderNight -SUMMER CARNIVAL-」に、RYO from ORANGE RANGEとしてボーカルRYOが出演。
 
 :\*[8月19日](../Page/8月19日.md "wikilink")、「UKFC on the Road 2015」に出演。
 
@@ -581,7 +581,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[3月17日](../Page/3月17日.md "wikilink") - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、「RANGE AID+ presents ORANGE RANGE FC TOUR 016」を開催。
 
-:\*[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、「LightningDASH\!2016 TOKYO」にnaotohiroyama（ＮＡＯＴＯ）がDJとして出演。
+:\*[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、「LightningDASH\!2016 TOKYO」にnaotohiroyama(NAOTO)がDJとして出演。
 
 :\*[4月1日](../Page/4月4日.md "wikilink")、沖縄県内でオンエアのバヤリースCM”バヤガール篇”に、ORANGE RANGEの楽曲「センチメンタル」が起用。
 
@@ -589,7 +589,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[4月24日](../Page/4月24日.md "wikilink")、「島ぜんぶでおーきな祭 第8回沖縄国際映画祭」にHIROKI & RYOが出演。
 
-:\*[5月2日](../Page/5月2日.md "wikilink")、Zepp Fukuokaにて「Zepp Fukuoka ～FINAL WEEK～ "博多騒動 橙VS蒼VS忘"」に出演。
+:\*[5月2日](../Page/5月2日.md "wikilink")、Zepp Fukuokaにて「Zepp Fukuoka 〜FINAL WEEK〜 "博多騒動 橙VS蒼VS忘"」に出演。
 
 :\*[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、幕張海浜公園JAPAN JAM BEACH特設会場にて開催する「JAPAN JAM BEACH 2016」に出演。
 
@@ -597,11 +597,11 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[5月14日](../Page/5月14日.md "wikilink")、静岡県御殿場市 富士山樹空の森にて開催するアクティビティ型アウトドアイベント「ACO CHILL（アコチル）」に出演。
 
-:\*[5月29日](../Page/5月29日.md "wikilink")、「山嵐」が主催するイベント「路地裏 -山嵐 & F.A.D 20th Anniversary\!\!- ～山嵐Presents～」に出演。
+:\*[5月29日](../Page/5月29日.md "wikilink")、「山嵐」が主催するイベント「路地裏 -山嵐 & F.A.D 20th Anniversary\!\!- 〜山嵐Presents〜」に出演。
 
 :\*[6月2日](../Page/6月2日.md "wikilink")、愛知・名古屋CLUB QUATTROにて開催する対バンイベント「縁舞 -vol.13-」を主催。
 
-:\*[6月4日](../Page/6月4日.md "wikilink")、北陸最大級のアリーナフェス「百万石音楽祭2016～ミリオンロックフェスティバル」に出演。
+:\*[6月4日](../Page/6月4日.md "wikilink")、北陸最大級のアリーナフェス「百万石音楽祭2016〜ミリオンロックフェスティバル」に出演。
 
 :\*[6月18日](../Page/6月18日.md "wikilink")、「MIYAKO ISLAND ROCK FESTIVAL 2016 〜SAVE THE SEA, SAVE THE SKY〜 海に優しく、空に優しい、南の島のロックフェス」に出演。
 
@@ -613,7 +613,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[7月20日](../Page/7月20日.md "wikilink")、15周年記念コラボレーションアルバム「[縁盤](https://ja.wikipedia.org/wiki/縁盤 "wikilink")」をリリース。
 
-:\*[7月24日](../Page/7月24日.md "wikilink")、宮崎・シーガイアスクエア1で開催の野外フェス「UMK SEAGAIA JamNight 2016 ～40th anniversary～ "Juke Night ～J-ROCK & POPS～"」に出演。
+:\*[7月24日](../Page/7月24日.md "wikilink")、宮崎・シーガイアスクエア1で開催の野外フェス「UMK SEAGAIA JamNight 2016 〜40th anniversary〜 "Juke Night 〜J-ROCK & POPS〜"」に出演。
 
 :\*[7月30日](../Page/7月30日.md "wikilink")、「OGA NAMAHAGE ROCK FESTIVAL vol.7」に出演。
 
@@ -627,11 +627,11 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[8月21日](../Page/8月21日.md "wikilink")、香川・国営讃岐まんのう公園で開催される「MONSTER baSH 2016」に出演。
 
-:\*[8月2７日](../Page/8月27日.md "wikilink")、「SPACE SHOWER SWEET LOVE SHOWER 2016」に出演。
+:\*[8月27日](../Page/8月27日.md "wikilink")、「SPACE SHOWER SWEET LOVE SHOWER 2016」に出演。
 
 :\*[9月10日](../Page/9月10日.md "wikilink") - [3月20日](../Page/3月20日.md "wikilink")、全国ツアー「LIVE TOUR 016-017 “おかげさまで15周年\!47都道府県DEカーニバル”」を開催。
 
-:\*[9月14日](../Page/9月14日.md "wikilink")、ベースＹＯＨが「ATELIER Z presents YOH(ORANGE RANGE)ベースサウンドセミナー 〜YOHシグネチャーモデル発表会〜」を開催。
+:\*[9月14日](../Page/9月14日.md "wikilink")、ベースYOHが「ATELIER Z presents YOH(ORANGE RANGE)ベースサウンドセミナー 〜YOHシグネチャーモデル発表会〜」を開催。
 
 :\*[12月28日](../Page/12月28日.md "wikilink")、「COUNTDOWN JAPAN 16/17」に出演。
 
@@ -649,7 +649,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[4月16日](../Page/4月16日.md "wikilink")、台湾・台北Legacyにて「ORANGE RANGE LIVE 017 カーニバル EXTRA 〜台北 DE カーニバル〜」を開催。
 
-:\*[4月21日](../Page/4月21日.md "wikilink")、「アオイトリ」が、法廷サスペンス映画『ありえなさ過ぎる女 ～被告人しえ～』の主題歌に起用。
+:\*[4月21日](../Page/4月21日.md "wikilink")、「アオイトリ」が、法廷サスペンス映画『ありえなさ過ぎる女 〜被告人しえ〜』の主題歌に起用。
 
 :\*[4月23日](../Page/4月23日.md "wikilink")、「島ぜんぶでおーきな祭 第9回沖縄国際映画祭」に出演。
 
@@ -657,11 +657,11 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[6月6日](../Page/6月6日.md "wikilink")、「ROCK KIDS 802 -OCHIKEN Goes ON\!\!- SPECIAL LIVE HIGH\! HIGH\! HIGH\!」に出演。
 
-:\*[7月16日](https://ja.wikipedia.org/wiki/7月16日_\(旧暦\) "wikilink")－[8月26日](../Page/8月26日.md "wikilink")、『ORANGE RANGE』の再現をコンセプトに掲げ、2017年7月〜8月にかけて全国11都市13公演を巡るライブツアー「RWD← SCREAM 017」開催。
+:\*[7月16日](https://ja.wikipedia.org/wiki/7月16日_\(旧暦\) "wikilink")–[8月26日](../Page/8月26日.md "wikilink")、『ORANGE RANGE』の再現をコンセプトに掲げ、2017年7月〜8月にかけて全国11都市13公演を巡るライブツアー「RWD← SCREAM 017」開催。
 
 :\*[10月14日](../Page/10月14日.md "wikilink")、「ORANGE RANGE presents テレビズナイト017 in 闘牛場 FINAL」を開催。
 
-:\*[10月25日](../Page/10月25日.md "wikilink")、YAMATOがボーカルを務めるバンドNEE NEE、2枚目のアルバム「Ｎ２」をリリース。
+:\*[10月25日](../Page/10月25日.md "wikilink")、YAMATOがボーカルを務めるバンドNEE NEE、2枚目のアルバム「N2」をリリース。
 
 :\*[11月1日](../Page/11月1日.md "wikilink") 、オリジナル作品としては2年3か月ぶりとなるEP作品『UNITY』をリリース。
 
@@ -699,9 +699,9 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[9月21日](../Page/9月21日.md "wikilink")、小泉今日子主演映画『食べる女』にRYOが”米坂トキヲ”役で出演。
 
-:\*[9月28日](../Page/9月28日.md "wikilink")、全国ツアー「ORANGE RANGE LIVE TOUR 018-019 ～ELEVEN PIECE～」を開催（2019年2月8日まで）。
+:\*[9月28日](../Page/9月28日.md "wikilink")、全国ツアー「ORANGE RANGE LIVE TOUR 018-019 〜ELEVEN PIECE〜」を開催（2019年2月8日まで）。
 
-:\*[10月1日](../Page/10月1日.md "wikilink")、NHK「みんなのうた」に「Family」が起用。（10月～11月にかけて放送）。
+:\*[10月1日](../Page/10月1日.md "wikilink")、NHK「みんなのうた」に「Family」が起用。（10月〜11月にかけて放送）。
 
 :\*[10月3日](../Page/10月3日.md "wikilink")、配信シングル「Family」をリリース。
 
@@ -719,7 +719,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[3月30日](../Page/3月30日.md "wikilink")、「-LIVE HOLIC 5th ANNIVERSARY- uP\!\!\! SPECIAL LIVE HOLIC extra vol.3 supported by SPACE SHOWER TV」に出演。
 
-:\*[3月31日](../Page/3月31日.md "wikilink")、テレビ朝日チャンネル1「ORANGE RANGE LIVE TOUR 018-019 ～ELEVEN PIECE～ at NHKホール完全版＆台湾密着SP」放送。
+:\*[3月31日](../Page/3月31日.md "wikilink")、テレビ朝日チャンネル1「ORANGE RANGE LIVE TOUR 018-019 〜ELEVEN PIECE〜 at NHKホール完全版＆台湾密着SP」放送。
 
 :\*[4月5日](../Page/4月5日.md "wikilink")、「s60 & Xmas Eileen DJ Presents ZASSO.」に出演。
 
@@ -775,16 +775,19 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[10月6日](../Page/10月6日.md "wikilink")、「THE GREAT SATSUMANIAN HESTIVAL 2019」出演。
 
-  - [10月19日](../Page/10月19日.md "wikilink")、「Town Full Music Toyonaka 〜命を救おうプロジェクト〜」出演。
-  - [11月2日](../Page/11月2日.md "wikilink")、「関西学院大学 新月祭2019「ORANGE RANGE ライブ2019 〜K.G.PIECE 無限に広がるレンジ〜」出演。
-  - [11月2日](../Page/11月2日.md "wikilink")、「西日本工業大学 第52回 美夜古祭「ORANGE RANGE 学園祭LIVE」出演。
-  - [11月7日](../Page/11月7日.md "wikilink")、 RYO from ORANGE RANGE「Shinjuku club SCIENCE presents AMBITIOUS\!\! Episode 46 ～Shinjuku club SCIENCE 4th anniversary Day6～」出演。
+:\*[10月19日](../Page/10月19日.md "wikilink")、「Town Full Music Toyonaka 〜命を救おうプロジェクト〜」出演。
+
+:\*[11月2日](../Page/11月2日.md "wikilink")、「関西学院大学 新月祭2019「ORANGE RANGE ライブ2019 〜K.G.PIECE 無限に広がるレンジ〜」出演。
+
+:\*[11月2日](../Page/11月2日.md "wikilink")、「西日本工業大学 第52回 美夜古祭「ORANGE RANGE 学園祭LIVE」出演。
+
+:\*[11月7日](../Page/11月7日.md "wikilink")、 RYO from ORANGE RANGE「Shinjuku club SCIENCE presents AMBITIOUS\!\! Episode 46 〜Shinjuku club SCIENCE 4th anniversary Day6〜」出演。
 
 :\*[11月10日](../Page/11月10日.md "wikilink")、「沖縄キリスト教学院大学・沖縄キリスト教短期大学「第55回 キリ学祭」」
 
 :\*[11月20日](../Page/11月20日.md "wikilink")、オリオンビール「WATTA」のCMソングとして書き下ろした新曲「Enjoy\!」リリース。
 
-:\*[11月21日](../Page/11月21日.md "wikilink")、同年12月22日までの12公演全国ホールツアー「ORANGE RANGE LIVE TOUR 019 ～What a DE\! What a Land\!～」を開催。
+:\*[11月21日](../Page/11月21日.md "wikilink")、同年12月22日までの12公演全国ホールツアー「ORANGE RANGE LIVE TOUR 019 〜What a DE\! What a Land\!〜」を開催。
 
 :\*[12月21日](../Page/12月21日.md "wikilink")、「縁舞 -vol.15-」を主催。渋谷CLUB QUATTROにてSUPER BEAVERとの対バンを行なった。
 
@@ -802,7 +805,7 @@ NAOTOが高校2年生の時、周りにいた[ダンサーと](../Page/ヒップ
 
 :\*[4月11日](../Page/4月11日.md "wikilink")、「ORANGE RANGE presents “テレビズナイト020”」を主催。ウルフルズなど出演予定だったが、コロナウイルスの影響で開催中止。
 
-:\*[4月29日](../Page/4月29日.md "wikilink")、「KONOHOSHI」を配信リリース。「世界のあるべき姿」をテーマに、ABCテレビ「おはよう朝日です」の40周年を記念した特別番組「おはよう朝日です 40周年記念特別番組 THE挑戦 ～みんな第一歩を踏み出そうSP～」のために書き下ろした楽曲。
+:\*[4月29日](../Page/4月29日.md "wikilink")、「KONOHOSHI」を配信リリース。「世界のあるべき姿」をテーマに、ABCテレビ「おはよう朝日です」の40周年を記念した特別番組「おはよう朝日です 40周年記念特別番組 THE挑戦 〜みんな第一歩を踏み出そうSP〜」のために書き下ろした楽曲。
 
 ## 受賞歴
 
@@ -948,7 +951,7 @@ SRCL-5642</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
-<td><p><strong><a href="../Page/*〜アスタリスク〜.md" title="wikilink">＊〜アスタリスク〜</a></strong></p></td>
+<td><p><strong><a href="../Page/*〜アスタリスク〜.md" title="wikilink">*〜アスタリスク〜</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>12cmCD</p></td>
 <td><p>SRCL-5885</p></td>
@@ -1134,7 +1137,7 @@ VICL-36761</p></td>
   - **Family**　　
       -
         [2018年](../Page/2018年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")発売（配信）
-        [ＮＨＫ](../Page/NHK放送センター.md "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」（2018年10月・11月放送）　
+        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」（2018年10月・11月放送）　
     <!-- end list -->
     1.  Family
     2.  Family (instrumental)
@@ -1152,6 +1155,10 @@ VICL-36761</p></td>
       -
         [2020年](../Page/2020年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")発売（配信）
         [ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")「おはよう朝日です」の40周年を記念した特別番組「おはよう朝日です 40周年記念特別番組 THE挑戦 ～みんな第一歩を踏み出そうSP～」のために書き下ろした楽曲。
+  - **気分上々**　
+      -
+        [2020年](../Page/2020年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")発売（配信）
+        [アイダ設計](../Page/アイダ設計.md "wikilink")「BRAVO ZNEXT」CMソングとして書き下ろした楽曲。
 
 #### EP
 
@@ -1879,6 +1886,27 @@ AICL-3501<br />
 AICL-3502<br />
 AICL-3503<br />
 AICL-3504</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月10日.md" title="wikilink">6月10日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FlowBack" title="wikilink">FlowBack</a></p></td>
+<td><p><strong>MUKIDASHIラブ</strong></p></td>
+<td><p>ミニアルバム「<a href="https://ja.wikipedia.org/wiki/Connect_(FlowBackのアルバム)" title="wikilink">Connect</a>」収録曲<br />
+HIROKIがプロデュース、NAOTOが作曲</p></td>
+<td><p>CD+Blu-ray<br />
+CD+DVD<br />
+CD</p></td>
+<td><p>KSCL-3250〜3251<br />
+KSCL-3252〜3253<br />
+KSCL-3254</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -3266,7 +3294,7 @@ RANGE AID+ presents ORANGE RANGE FC TOUR 018 〜今夜もSTAY UCHINANTUNE〜（2
 | **花**                                                     |                                                                                | 映画『[いま、会いにゆきます](../Page/いま、会いにゆきます.md "wikilink")』主題歌                                                                                              | 「[花](../Page/花_\(ORANGE_RANGEの曲\).md "wikilink")」                                 |                |
 |                                                           | 『[au by KDDI](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")』CMソング      |                                                                                                                                                    |                                                                                   |                |
 | **[以心電信](../Page/以心電信_\(ORANGE_RANGEの曲\).md "wikilink")** |                                                                                | 『au by KDDI』CMソング                                                                                                                                  | 『[musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")』                         |                |
-| **＊〜アスタリスク〜**                                             |                                                                                | テレビ東京系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』オープニングテーマ                                                              | 「[＊〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")」                                    |                |
+| **\*〜アスタリスク〜**                                            |                                                                                | テレビ東京系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』オープニングテーマ                                                              | 「[\*〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")」                                   |                |
 | **ラヴ・パレード**                                               |                                                                                | 映画『[電車男](../Page/電車男.md "wikilink")』主題歌                                                                                                            | 「[ラヴ・パレード](../Page/ラヴ・パレード_\(ORANGE_RANGEの曲\).md "wikilink")」                     |                |
 | **お願い\!セニョリータ**                                           |                                                                                | 大塚ベバレジ『MATCH』CMソング                                                                                                                                 | 「[お願い\!セニョリータ](../Page/お願い!セニョリータ.md "wikilink")」                                 |                |
 | **キズナ**                                                   |                                                                                | [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[いま、会いにゆきます](../Page/いま、会いにゆきます.md "wikilink")』主題歌                                                         | 「[キズナ](../Page/キズナ_\(ORANGE_RANGEの曲\).md "wikilink")」                             |                |
@@ -3297,12 +3325,13 @@ RANGE AID+ presents ORANGE RANGE FC TOUR 018 〜今夜もSTAY UCHINANTUNE〜（2
 | **今すぐMy way**                                             |                                                                                | TBS系『[キングオブチェアー](https://ja.wikipedia.org/wiki/キングオブチェアー "wikilink")』エンディングテーマ                                                                     | 『[orcd](https://ja.wikipedia.org/wiki/orcd "wikilink")』                           |                |
 | **サディスティックサマー**                                           |                                                                                | 日本テレビ系『[PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")』7〜9月度テーマソング                                                                          |                                                                                   |                |
 | **Special Summer Sale**                                   |                                                                                | [モスバーガー](../Page/モスバーガー.md "wikilink")『ナン・タコス』TV-CMソング                                                                                             | 『[spark](https://ja.wikipedia.org/wiki/spark_\(ORANGE_RANGEのアルバム\) "wikilink")』   |                |
-| **アオイトリ**                                                 |                                                                                | 映画『[ありえなさ過ぎる女 ～被告人よしえ～](https://ja.wikipedia.org/wiki/ありえなさ過ぎる女_～被告人よしえ～ "wikilink")』主題歌                                                           | 『UNITY』                                                                           |                |
+| **アオイトリ**                                                 |                                                                                | 映画『[ありえなさ過ぎる女 〜被告人よしえ〜](https://ja.wikipedia.org/wiki/ありえなさ過ぎる女_〜被告人よしえ〜 "wikilink")』主題歌                                                           | 『UNITY』                                                                           |                |
 | **チラチラリズム**                                               |                                                                                | 沖縄[ファミリーマート](../Page/ファミリーマート.md "wikilink")創立30周年記念TV-CMソング（沖縄県のみ）                                                                                | 『チラチラリズム』                                                                         |                |
-| **Family**                                                |                                                                                | ＮＨＫ『[みんなのうた](../Page/みんなのうた.md "wikilink")』　（2018年　10月・11月放送）                                                                                      | 『Family』                                                                          |                |
+| **Family**                                                |                                                                                | NHK『[みんなのうた](../Page/みんなのうた.md "wikilink")』　（2018年　10月・11月放送）                                                                                      | 『Family』                                                                          |                |
 | **センチメンタル**                                               |                                                                                | [アサヒオリオン飲料](https://ja.wikipedia.org/wiki/アサヒオリオン飲料 "wikilink")『[バヤリース](../Page/沖縄バヤリース.md "wikilink") オレンジ』TV-CMソング（沖縄県のみ）                        | 『ELEVEN PIECE』                                                                    |                |
 | **Enjoy\!**                                               |                                                                                | [オリオンビール](../Page/オリオンビール.md "wikilink")『WATTA＜ワッタ＞』TV-CMソング（沖縄県のみ）                                                                                | 『Enjoy』                                                                           |                |
-| **靁 the Party**                                           |                                                                                | 映画『闇金クイーン』オープニングテーマ                                                                                                                                |                                                                                   |                |
+| **雷 the Party**                                           |                                                                                | 映画『[闇金クイーン](https://ja.wikipedia.org/wiki/闇金クイーン "wikilink")』オープニングテーマ                                                                             | 『NAKED×REFINISHED -3 mics and back sounds-』                                       |                |
+| **気分上々**                                                  |                                                                                | [アイダ設計](../Page/アイダ設計.md "wikilink")『BRAVO ZNEXT』CMソング                                                                                             | 『気分上々』                                                                            |                |
 
 ## ミュージックビデオ
 
@@ -3374,7 +3403,7 @@ RANGE AID+ presents ORANGE RANGE FC TOUR 018 〜今夜もSTAY UCHINANTUNE〜（2
   - [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")
     ボーカルのダイスケはん、ドラムのナヲが『ORANGE RANGE ラジオ〜コンタクト』にゲスト出演した事がある他に、『笑っていいとも』のコーナー「テレフォンショッキング」出演時にメンバーから花を送られていた。ちなみにナヲの結婚式にレンジのメンバーがメッセージを送っている。
   - [GEEKS](https://ja.wikipedia.org/wiki/GEEKS "wikilink")
-    ボーカルのエンドウ.とはプライベート一緒に旅行するほど仲が良く、『ORANGE RANGE ラジオ〜コンタクト』にも度々出演している。
+    ボーカルのエンドウ.とはプライベートで一緒に旅行するほど仲が良く、『ORANGE RANGE ラジオ〜コンタクト』にも度々出演している。
 
 ## 脚注
 
@@ -3408,7 +3437,7 @@ RANGE AID+ presents ORANGE RANGE FC TOUR 018 〜今夜もSTAY UCHINANTUNE〜（2
 
   - [ORANGE RANGE](https://stardust.co.jp/profile/orangerange.html) - [スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")による公式ページ
 
-[Category:ORANGE_RANGE](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:Gr8\!recordsのアーティスト](https://ja.wikipedia.org/wiki/Category:Gr8!recordsのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:盗作論争に関する人物](https://ja.wikipedia.org/wiki/Category:盗作論争に関する人物 "wikilink")
+[Category:ORANGE_RANGE](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGE "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:Gr8\!recordsのアーティスト](https://ja.wikipedia.org/wiki/Category:Gr8!recordsのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:盗作論争に関する人物](https://ja.wikipedia.org/wiki/Category:盗作論争に関する人物 "wikilink")
 
 1.  NAOTO・兼田達矢『First 10years』enterbrain刊、2012年12月19日発行（176、177ページ）
 2.  HIROKI・兼田達矢『First 10years』enterbrain刊、2012年12月19日発行（217ページ）

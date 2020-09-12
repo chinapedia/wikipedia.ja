@@ -182,11 +182,11 @@ LATAM ブラジル　運航機材一覧\[9\]
   - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_Estado_RiodeJaneiro_Brasil2.svg "wikilink") **[リオ・デ・ジャネイロ](https://ja.wikipedia.org/wiki/リオデジャネイロ市 "wikilink")**
       - [アルベルト・サントス・デュモン空港](https://ja.wikipedia.org/wiki/アルベルト・サントス・デュモン空港 "wikilink")
       - [アントニオ・カルロス・ジョビン国際空港](../Page/アントニオ・カルロス・ジョビン国際空港.md "wikilink")
-  - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_Estado_de_São_Paulo.svg "wikilink") **[サンパウロ](../Page/サンパウロ.md "wikilink")**
+  - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_estado_de_São_Paulo.svg "wikilink") **[サンパウロ](../Page/サンパウロ.md "wikilink")**
       - [コンゴーニャス空港](../Page/コンゴーニャス空港.md "wikilink")（ハブ空港）
       - [グアルーリョス国際空港](../Page/グアルーリョス国際空港.md "wikilink")（メインハブ空港）
-  - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_Estado_de_São_Paulo.svg "wikilink") [カンピーナス](../Page/カンピーナス.md "wikilink")（[ヴィラコッポス国際空港](../Page/ヴィラコッポス国際空港.md "wikilink")）
-  - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_Estado_de_São_Paulo.svg "wikilink") [サン・ジョゼー・ド・リオ・プレト](https://ja.wikipedia.org/wiki/サン・ジョゼー・ド・リオ・プレト "wikilink")
+  - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_estado_de_São_Paulo.svg "wikilink") [カンピーナス](../Page/カンピーナス.md "wikilink")（[ヴィラコッポス国際空港](../Page/ヴィラコッポス国際空港.md "wikilink")）
+  - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_estado_de_São_Paulo.svg "wikilink") [サン・ジョゼー・ド・リオ・プレト](https://ja.wikipedia.org/wiki/サン・ジョゼー・ド・リオ・プレト "wikilink")
 
 </div>
 
@@ -294,7 +294,7 @@ LATAM ブラジル　運航機材一覧\[9\]
   - [2001年](../Page/2001年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")、フォッカー100のエンジンが故障した際、その部品が機内に飛び込み乗客1名が死亡した。
   - [2002年](../Page/2002年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")、燃料切れによりフォッカー100がサンパウロ州アラサツトゥバ近郊の農場に不時着した。乗客に死者・負傷者は出なかったものの、着陸時に農場の牛1頭が犠牲となった。同日、同じくTAM航空のフォッカー100が[ヴィラコッポス国際空港](../Page/ヴィラコッポス国際空港.md "wikilink")に緊急着陸するという出来事があったため、TAMはフォッカー100の退役を早め、3年以内に同機種を完全に退役させるとの声明を出す事態となった。（実際には実現しなかった）
   - [2006年](../Page/2006年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")、フォッカー100の搭乗用ドアがコンゴニャス空港を離陸した直後に脱落し、脱落したドアはサンパウロ市内のスーパーマーケット近くに落下した。同機はすぐさま同空港に引き返した。落下したドアがスーパーマーケットの日よけを破壊したものの、地上も含め負傷者は出なかった。
-  - [2007年](../Page/2007年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")、[コンゴーニャス空港](../Page/コンゴーニャス空港.md "wikilink")で[エアバスA320](../Page/エアバスA320.md "wikilink")型機が着陸に失敗、空港外のTAMエクスプレス（TAM航空子会社）の建物に激突し炎上した。乗客乗員と地上の死者の合計は199名にものぼり、TAM航空にとっては、エアバス機による初の死亡事故かつ同社最悪の航空事故となり、さらには南米でも史上最悪の航空事故となった。A320ファミリーにおいても、[メトロジェット航空9268便爆破事件に次いで死者が多い](https://ja.wikipedia.org/wiki/コガリムアビア航空9268便 "wikilink")。
+  - [2007年](../Page/2007年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")、[コンゴーニャス空港](../Page/コンゴーニャス空港.md "wikilink")で[エアバスA320](../Page/エアバスA320.md "wikilink")型機が着陸に失敗、空港外のTAMエクスプレス（TAM航空子会社）の建物に激突し炎上した。乗客乗員と地上の死者の合計は199名にものぼり、TAM航空にとっては、エアバス機による初の死亡事故かつ同社最悪の航空事故となり、さらには南米でも史上最悪の航空事故となった。A320ファミリーにおいても、[メトロジェット9268便爆破事件に次いで死者が多い](https://ja.wikipedia.org/wiki/コガリムアビア航空9268便 "wikilink")。
 
 ## 脚注
 

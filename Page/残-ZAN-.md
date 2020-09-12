@@ -8,6 +8,7 @@
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")」エンディングテーマ。
   - [PVの監督は近藤廣行](../Page/ミュージック・ビデオ.md "wikilink")。[演劇実験室◎万有引力](https://ja.wikipedia.org/wiki/演劇実験室◎万有引力 "wikilink")のメンバーや、子役時代の[藤岡みなみ](https://ja.wikipedia.org/wiki/藤岡みなみ "wikilink")が出演している。[京が](../Page/京_\(ミュージシャン\).md "wikilink")[生首](https://ja.wikipedia.org/wiki/生首 "wikilink")のように見えるトリック映像があり、その部分に規制がかかっている。新バージョンのPVもある。
   - 14万枚以上売り上げ、彼らのシングルとしては3番目に多いセールスを記録した。
+  - この曲で[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演を果たした\[1\]。
 
 ## 曲目
 
@@ -22,4 +23,8 @@
       -
         「ゆらめき」の[リミックス](../Page/リミックス.md "wikilink")。
 
+## 脚注
+
 [Category:DIR_EN_GREYの楽曲](https://ja.wikipedia.org/wiki/Category:DIR_EN_GREYの楽曲 "wikilink") [Category:1999年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1999年のデビュー・シングル "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+
+1.

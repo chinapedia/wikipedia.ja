@@ -18,28 +18,27 @@
       -
         作詞:ゆかり美和 / 作曲:野戸久嗣 / 編曲:岡雄三 / ホーンアレンジ:[村田陽一](../Page/村田陽一.md "wikilink")
     <!-- end list -->
-      - 30thシングル表題曲のアルバム・バージョン
-5.  **NATSU〜夏〜** / [木村拓哉](../Page/木村拓哉.md "wikilink")
+      - 30thシングルのアルバム・バージョン
+5.  **NATSU 〜夏〜** - [木村拓哉](../Page/木村拓哉.md "wikilink")
       -
         作詞・作曲:ナンバキイチロウ / 編曲:松浦恵
-6.  **涙のかけら** / [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
+6.  **涙のかけら** - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")
       -
         作詞:コヤナギミチコ / 作曲・編曲:松浦恵
-7.  **"BLUES MASTER" Kill** / 木村拓哉
+7.  **"BLUES MASTER" Kill**
       -
         作詞・作曲・編曲:オンガシューヘイ
-8.  **逢いたくなって** / [中居正広](../Page/中居正広.md "wikilink")・稲垣吾郎
+8.  **逢いたくなって** - [中居正広](../Page/中居正広.md "wikilink")・稲垣吾郎
       -
         作詞:安部純 / 作曲・編曲:[武藤星児](https://ja.wikipedia.org/wiki/武藤星児 "wikilink")
-9.  **君を好きになって** / 中居正広・草彅剛・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
+9.  **君を好きになって** - 中居正広・草彅剛・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
       -
         作詞:園田有吾 / 作曲・編曲:武藤星児 / コーラスアレンジ:佐々木久美
-        中居はサビ部分のみ歌っている。
 10. **[朝日を見に行こうよ](../Page/朝日を見に行こうよ.md "wikilink")**（mellow session take）
       -
         作詞・作曲:[安田信二](../Page/安田信二.md "wikilink") / 編曲:[佐山雅弘](../Page/佐山雅弘.md "wikilink")
     <!-- end list -->
-      - 29thシングル表題曲のアルバム・バージョン
+      - 29thシングルのアルバム・バージョン
 11. **BIRDMAN**（inst.）
       -
         作曲・編曲:野戸久嗣・岡雄三
@@ -49,7 +48,10 @@
 13. **Five True Love**
       -
         作詞:[N.マッピー](../Page/中居正広.md "wikilink")・[しんご](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")・[土生京子](https://ja.wikipedia.org/wiki/土生京子 "wikilink") / 作曲:N.マッピー・日高智 / 編曲:日高智
-        メンバー紹介のナンバー。
+    <!-- end list -->
+      - メンバー紹介曲
+    <!-- end list -->
+      -
         6thベストアルバム「[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")」にも収録されている。
 
 ## レコーディング・メンバー
@@ -60,7 +62,7 @@
 
 ### idea
 
-  - Chorus: [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美 "wikilink"), [河合夕子](../Page/河合夕子.md "wikilink"), 斉藤妙子
+  - Chorus: [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink"), [河合夕子](../Page/河合夕子.md "wikilink"), 斉藤妙子
   - Manipulate: 日高智
 
 ### living large

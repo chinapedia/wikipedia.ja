@@ -1,11 +1,17 @@
 > この記事は[Mystia](https://ja.wikipedia.org/wiki/Mystia)から翻訳されています。
 
 
-『**mystia**』（ミスティア）とは、[モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")が開発し[ジー・モード](../Page/ジー・モード.md "wikilink") (G-mode)より配信された[携帯電話](../Page/携帯電話.md "wikilink")向けの[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")、およびシリーズ名である。
+『**mystia**』（ミスティア）とは、[モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")が開発し[ジー・モード](../Page/ジー・モード.md "wikilink")より配信された[携帯電話](../Page/携帯電話.md "wikilink")向けの[RPG](../Page/コンピュータRPG.md "wikilink")、およびシリーズ名である。
 
 ## 概要
 
-「mystia」は、[2002年](../Page/2002年.md "wikilink")9月にJ-phone（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）で[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")初の100円RPGとして配信をはじめ、わずか一か月で10万ダウンロードを記録。その後[2004年](../Page/2004年.md "wikilink")9月にボーダフォン（現ソフトバンクモバイル）で、「mystia2前編・後編」と2つのアプリに分かれた続編と同時に、「mystiaハイクオリティー版」という前作のグラフィック強化版が配信される。その後[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auへの提供](../Page/Au_\(携帯電話\).md "wikilink")。[2005年](../Page/2005年.md "wikilink")には「mystia2完全版」がボーダフォンソフトバンクモバイルで配信。[2006年](../Page/2006年.md "wikilink")3月にはボーダフォン（現ソフトバンクモバイル）で、「mystia3」が配信されソフトバンクモバイルのみで50万ダウンロードを記録する。
+『mystia』は[2002年](../Page/2002年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[J-PHONE](https://ja.wikipedia.org/wiki/J-PHONE "wikilink")用アプリ販売サイト「ゲームマーケット」の「100円RPGシリーズ」の第1弾として配信され、わずか一か月で10万ダウンロードを記録した\[1\]\[2\]。[2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")にはグラフィックやシステムの向上を図った「ハイクオリティーバージョン」も[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")向けに発売、2005年5月1日には[au端末向けにも発売された](../Page/Au_\(携帯電話\).md "wikilink")。
+
+『mystia』ハイクオリティーバージョンの配信と同日には続編となる『mystia2』の前編・後編がボーダフォン向けに発売、その後[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")とauの端末向けにもそれぞれ[2005年](../Page/2005年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")・[7月1日](../Page/7月1日.md "wikilink")に発売された。また、同年[12月14日](../Page/12月14日.md "wikilink")には、前編・後編を一つにまとめイベントグラフィックやおまけシナリオを追加した「完全版」がボーダフォン向けに発売された\[3\]。
+
+[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")にはシリーズ3作目『mystia3』がボーダフォン向けに配信、[2007年](../Page/2007年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")にはNTTドコモ向けにも配信された。
+
+ジー・モードが[Nintendo Switch向けに](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")用ソフトを[移植するシリーズ](../Page/移植_\(ソフトウェア\).md "wikilink")「G-MODEアーカイブス」の第14弾ソフトとして、シリーズ1作目『mystia』が[2020年](../Page/2020年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")に発売予定\[4\]。
 
 ## システム
 
@@ -15,13 +21,13 @@
 
 メインキャラ：ミーナ
 
-舞台は北ミスティアと南ミスティアの中間に位置する国境の村。その村に住む魔法剣士の少女ミーナが、村の危機を救う物語。村の生命線である川の水が、突如枯れてしまった。いつもなら、村1番の魔法使いにして村長の娘であるルクミニが調査にでるのだが、放浪癖の彼女は数週間前から行方不明に。そこで村長は、娘の親友であり、同等の力をもつミーナに調査を依頼する。原因を突き止めるべく、ミーナは川の上流の谷へ。そこでミーナが見たのは、川をせき止める巨大な氷の壁だった……。
+舞台は北ミスティアと南ミスティアの中間に位置する国境の村。その村に住む魔法剣士の少女ミーナが、村の危機を救う物語。村の生命線である川の水が、突如枯れてしまった。いつもなら、村1番の魔法使いにして村長の娘であるルクミニが調査にでるのだが、放浪癖の彼女は数週間前から行方不明に。そこで村長は、娘の親友であり、同等の力をもつミーナに調査を依頼する。原因を突き止めるべく、ミーナは川の上流の谷へ。そこでミーナが見たのは、川をせき止める巨大な氷の壁だった。
 
 ### mystia2
 
 メインキャラ：レン、ルクミニ
 
-舞台は南ミスティアと前作の国境の村。国境の村で起こった事件より1年。南ミスティアの西の漁村に一人の剣士が降り立った。キュベリアから来たレンと名乗る剣士、彼の目的はミスティア大陸の伝説にある王の剣を探し出し、国に持ち帰る事。同じ頃、火の神が祭られている神殿に一人の少女が訪れた。少女の名はルクミニ。彼女は火の神を説得の末、自分の身体に宿し、自らが火の神となることに成功する。しかし、時を同じくして、政情が悪化した南ミスティア国が、北ミスティア国に攻め入るため伝説の「王の剣」と、神々を操るとされる「威光の石」を探し始める。様々な思惑が絡み合う「王の剣」をめぐる物語が始まる……。
+舞台は南ミスティアと前作の国境の村。国境の村で起こった事件より1年。南ミスティアの西の漁村に一人の剣士が降り立った。キュベリアから来たレンと名乗る剣士、彼の目的はミスティア大陸の伝説にある王の剣を探し出し、国に持ち帰る事。同じ頃、火の神が祭られている神殿に一人の少女が訪れた。少女の名はルクミニ。彼女は火の神を説得の末、自分の身体に宿し、自らが火の神となることに成功する。しかし、時を同じくして、政情が悪化した南ミスティア国が、北ミスティア国に攻め入るため伝説の「王の剣」と、神々を操るとされる「威光の石」を探し始める。様々な思惑が絡み合う「王の剣」をめぐる物語が始まる。
 
 ### mystia3
 
@@ -126,10 +132,18 @@
   - [鈴木香織](https://ja.wikipedia.org/wiki/鈴木香織 "wikilink")（キャラクターデザイン）
   - 早坂匠（サウンド）
 
+## 脚注
+
 ## 外部リンク
 
   - [mystia 公式サイト](https://web.archive.org/web/20111013002308/http://g-mode.jp/title/mystia/mystia1.html)（アーカイブ）
   - [mystia2 公式サイト](https://web.archive.org/web/20111124224836/http://g-mode.jp/title/mystia/mystia2.html)（アーカイブ）
   - [mystia3 公式サイト](https://web.archive.org/web/20130223055756/http://www.g-mode.jp/title/mystia/)（アーカイブ）
+  - [mystia G-MODEアーカイブス公式サイト](https://gmodecorp.com/gmodearchives/mystia/)
 
-[Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ジー・モードのゲームソフト](https://ja.wikipedia.org/wiki/Category:ジー・モードのゲームソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
+[Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ジー・モードのゲームソフト](https://ja.wikipedia.org/wiki/Category:ジー・モードのゲームソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
+
+1.
+2.
+3.
+4.

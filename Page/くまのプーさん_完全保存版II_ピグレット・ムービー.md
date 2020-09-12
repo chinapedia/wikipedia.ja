@@ -38,6 +38,9 @@
 
 ## 外部リンク
 
+  - [くまのプーさん／完全保存版II ピグレット・ムービー](https://www.disney.co.jp/studio/animation/0465.html)
+
+  -
   -
   -
   -

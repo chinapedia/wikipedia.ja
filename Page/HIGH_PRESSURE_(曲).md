@@ -7,7 +7,7 @@
 
   - [ロッテ](../Page/ロッテ.md "wikilink")「Sweetieアイス」CMソングに起用され、シングルでは初のオリコントップ10入りを果たし、6枚目のシングル「[WHITE BREATH](../Page/WHITE_BREATH.md "wikilink")」に次ぐ78.7万枚のセールスを記録した\[1\]。
   - この曲で[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した。
-  - [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は大がかりな野外セットを組んで撮影に臨んだ。撮影カットでは西川やセットという表舞台だけでなく、カメラクレーンやスタッフなどいわゆる裏舞台も映し出している。
+  - [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[豊洲](../Page/豊洲.md "wikilink")で撮影され、大がかりな野外セットを組んで撮影に臨んだ。撮影カットでは西川やセットという表舞台だけでなく、カメラクレーンやスタッフなどいわゆる裏舞台も映し出している。
   - [コタニキンヤ.](../Page/コタニキンヤ..md "wikilink")は、この曲を発売当時に聴いた際「大変感動した」という。コタニは後に「コタニキンヤ」名義で当時T.M.R.が所属していたアンティノスレコードより[Mad Soldiers](../Page/Mad_Soldiers.md "wikilink")（[浅倉大介](../Page/浅倉大介.md "wikilink")）プロデュースでデビュー。その後キンヤ名義を経て現在はコタニキンヤ.名義で活動している。
   - 表題曲は、[TBS系](../Page/TBSテレビ.md "wikilink")『[B'T-X](https://ja.wikipedia.org/wiki/B'T-X "wikilink")』の台湾・中国版にてオープニングテーマになっている(日本国内版は「[遥か〜SAILING FOR MY DREAM〜](https://ja.wikipedia.org/wiki/遥か〜SAILING_FOR_MY_DREAM〜 "wikilink")」/ 歌 - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")・[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink"))
 

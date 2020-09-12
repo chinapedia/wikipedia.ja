@@ -300,4 +300,4 @@ OTHER
 
   - [CHATANIX 公式サイト](http://www.chatanix.com)
 
-[Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:奈良県出身の人物](https://ja.wikipedia.org/wiki/Category:奈良県出身の人物 "wikilink")
+[Category:日本のテクノミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のテクノミュージシャン "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:奈良県出身の人物](https://ja.wikipedia.org/wiki/Category:奈良県出身の人物 "wikilink")

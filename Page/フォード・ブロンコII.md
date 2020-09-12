@@ -1,7 +1,7 @@
 > この記事は[フォード・ブロンコII](https://ja.wikipedia.org/wiki/フォード・ブロンコII)から翻訳されています。
 
 
-**ブロンコII**(*BRONCO II*)は、[1984年](../Page/1984年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで[フォードで製造](../Page/フォード・モーター.md "wikilink")・販売していた自動車である
+**ブロンコII**(*BRONCO II*)は、[1984年](../Page/1984年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで[フォードが製造](../Page/フォード・モーター.md "wikilink")・販売していた自動車である。
 
 ## 概要
 

@@ -245,7 +245,7 @@ XP対応版以降、タイトルから「新」の文字が外されたがゲー
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - ジョアンナ（[永島由子](../Page/永島由子.md "wikilink")）
+  - ジョアンナ（永島由子）
   - ラップじいさん（[塩屋浩三](../Page/塩屋浩三.md "wikilink")）
   - レバス（[林延年](../Page/神奈延年.md "wikilink")）
 

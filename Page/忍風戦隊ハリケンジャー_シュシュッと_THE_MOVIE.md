@@ -34,40 +34,40 @@
 
 ## キャスト
 
-  - 椎名鷹介 / ハリケンレッド（声）：[塩谷瞬](https://ja.wikipedia.org/wiki/塩谷瞬 "wikilink")
-  - 野乃七海 / ハリケンブルー（声）：[長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")
-  - 尾藤吼太 / ハリケンイエロー（声）：[山本康平](../Page/山本康平.md "wikilink")
-  - 霞一甲 / カブトライジャー（声）：[白川裕二郎](../Page/白川裕二郎.md "wikilink")
-  - 霞一鍬 / クワガライジャー（声）：[姜暢雄](../Page/姜暢雄.md "wikilink")
-  - 日向無限斎 / ハムスター館長（声）：[西田健](../Page/西田健.md "wikilink")
-  - 日向おぼろ / おぼろ博士：[高田聖子](../Page/高田聖子.md "wikilink")
-  - 一の槍フラビージョ：[山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")
-  - 四の槍ウェンディーヌ：[福澄美緒](../Page/福澄美緒.md "wikilink")
-  - ライーナ姫：[吉野紗香](../Page/吉野紗香.md "wikilink")
+  - 椎名鷹介 / ハリケンレッド（声） - [塩谷瞬](https://ja.wikipedia.org/wiki/塩谷瞬 "wikilink")
+  - 野乃七海 / ハリケンブルー（声） - [長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")
+  - 尾藤吼太 / ハリケンイエロー（声） - [山本康平](../Page/山本康平.md "wikilink")
+  - 霞一甲 / カブトライジャー（声） - [白川裕二郎](../Page/白川裕二郎.md "wikilink")
+  - 霞一鍬 / クワガライジャー（声） - [姜暢雄](../Page/姜暢雄.md "wikilink")
+  - 日向無限斎 / ハムスター館長（声） - [西田健](../Page/西田健.md "wikilink")
+  - 日向おぼろ / おぼろ博士 - [高田聖子](../Page/高田聖子.md "wikilink")
+  - 一の槍フラビージョ - [山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")
+  - 四の槍ウェンディーヌ - [福澄美緒](../Page/福澄美緒.md "wikilink")
+  - ライーナ姫 - [吉野紗香](../Page/吉野紗香.md "wikilink")
 
 ### 声の出演
 
-  - シュリケンジャー：[松野太紀](../Page/松野太紀.md "wikilink")
-  - 首領タウ・ザント：[梁田清之](../Page/梁田清之.md "wikilink")
-  - 三の槍マンマルバ：[今村卓博](../Page/今村卓博.md "wikilink")
-  - 五の槍サーガイン：[岡本美登](../Page/岡本美登.md "wikilink")（兼スーツアクター）
-  - 六の槍サタラクラ：[島田敏](../Page/島田敏.md "wikilink")
-  - ナックル：[宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
-  - 宇宙忍猿ヒザール / 合体宇宙忍猿アシュラザール：[古田新太](../Page/古田新太.md "wikilink")
-  - 宇宙忍猿ブリザール：[村岡弘之](../Page/村岡弘之.md "wikilink")（兼スーツアクター）
-  - 下忍マゲラッパ、再生ヒゲナマ頭巾：[塩野勝美](../Page/塩野勝美.md "wikilink")
-  - 下忍マゲラッパ：[大村亨](../Page/大村亨.md "wikilink")、[穴井勇輝](../Page/穴井勇輝.md "wikilink")
+  - シュリケンジャー - [松野太紀](../Page/松野太紀.md "wikilink")
+  - 首領タウ・ザント - [梁田清之](../Page/梁田清之.md "wikilink")
+  - 三の槍マンマルバ - [今村卓博](../Page/今村卓博.md "wikilink")
+  - 五の槍サーガイン - [岡本美登](../Page/岡本美登.md "wikilink")（兼スーツアクター）
+  - 六の槍サタラクラ - [島田敏](../Page/島田敏.md "wikilink")
+  - ナックル - [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
+  - 宇宙忍猿ヒザール / 合体宇宙忍猿アシュラザール - [古田新太](../Page/古田新太.md "wikilink")
+  - 宇宙忍猿ブリザール - [村岡弘之](../Page/村岡弘之.md "wikilink")（兼スーツアクター）
+  - 下忍マゲラッパ、再生ヒゲナマ頭巾 - [塩野勝美](../Page/塩野勝美.md "wikilink")
+  - 下忍マゲラッパ - [大村亨](../Page/大村亨.md "wikilink")、[穴井勇輝](../Page/穴井勇輝.md "wikilink")
 
 ### スーツアクター
 
-  - ハリケンレッド\[9\]、轟雷神\[10\]：[福沢博文](../Page/福沢博文.md "wikilink")
-  - ハリケンブルー\[11\]：[小野友紀](../Page/小野友紀.md "wikilink")
-  - ハリケンイエロー\[12\]：[竹内康博](../Page/竹内康博.md "wikilink")
-  - カブトライジャー\[13\]、天雷旋風神\[14\]：[日下秀昭](../Page/日下秀昭.md "wikilink")
-  - クワガライジャー\[15\]、ヒザール\[16\]、分身イエロー\[17\]：[今井靖彦](../Page/今井靖彦.md "wikilink")
-  - シュリケンジャー\[18\]、天空神\[19\]、分身イエロー\[20\]：[三村幸司](../Page/三村幸司.md "wikilink")
-  - サタラクラ\[21\]：[魁将馬](https://ja.wikipedia.org/wiki/甲斐将馬 "wikilink")
-  - マンバルバ\[22\]、分身イエロー\[23\]：[蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
+  - ハリケンレッド\[9\]、轟雷神\[10\] - [福沢博文](../Page/福沢博文.md "wikilink")
+  - ハリケンブルー\[11\] - [小野友紀](../Page/小野友紀.md "wikilink")
+  - ハリケンイエロー\[12\] - [竹内康博](../Page/竹内康博.md "wikilink")
+  - カブトライジャー\[13\]、天雷旋風神\[14\] - [日下秀昭](../Page/日下秀昭.md "wikilink")
+  - クワガライジャー\[15\]、ヒザール\[16\]、分身イエロー\[17\] - [今井靖彦](../Page/今井靖彦.md "wikilink")
+  - シュリケンジャー\[18\]、天空神\[19\]、分身イエロー\[20\] - [三村幸司](../Page/三村幸司.md "wikilink")
+  - サタラクラ\[21\] - [魁将馬](https://ja.wikipedia.org/wiki/甲斐将馬 "wikilink")
+  - マンバルバ\[22\]、分身イエロー\[23\] - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
   - [石垣広文](../Page/石垣広文.md "wikilink")
   - [神尾直子](../Page/神尾直子.md "wikilink")
   - [水谷健](https://ja.wikipedia.org/wiki/水谷健 "wikilink")
@@ -76,7 +76,7 @@
 
 ## スタッフ
 
-  - 原作：[八手三郎](../Page/八手三郎.md "wikilink")
+  - 原作 - [八手三郎](../Page/八手三郎.md "wikilink")
   - プロデューサー - [日笠淳](../Page/日笠淳.md "wikilink")・[塚田英明](../Page/塚田英明.md "wikilink")（東映）、松田佐栄子（テレビ朝日）、矢田晃一（東映エージエンシー）
   - 監督 - [渡辺勝也](../Page/渡辺勝也.md "wikilink")
   - 脚本 - [宮下隼一](../Page/宮下隼一.md "wikilink")

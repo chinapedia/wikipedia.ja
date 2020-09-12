@@ -5,7 +5,7 @@
 
 日本では1986年以後[ホビージャパン](../Page/ホビージャパン.md "wikilink")による第2版および第5版の翻訳が、また、2003年よりは[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）から『**クトゥルフ神話TRPG**』と改題された第6版、『**新クトゥルフ神話TRPG**』と改題された第7版の翻訳が発売されている。なお、[d20システム](https://ja.wikipedia.org/wiki/d20システム "wikilink")をつかった[スピンオフ](../Page/スピンオフ.md "wikilink")作品である『**コール・オブ・クトゥルフ d20**』という製品も[新紀元社](../Page/新紀元社.md "wikilink")より翻訳されており、それについてもこの項目で併せて扱う。
 
-ゲームデザインは『[ルーンクエスト](../Page/ルーンクエスト.md "wikilink")』などにも関わっている[サンディ・ピーターセン](https://ja.wikipedia.org/wiki/サンディ・ピーターセン "wikilink")（[Sandy Petersen](https://ja.wikipedia.org/wiki/:en:Sandy_Petersen "wikilink")）や『[ストームブリンガー](../Page/ストームブリンガー_\(TRPG\).md "wikilink")』などにも関わっている[リン・ウィリス](https://ja.wikipedia.org/wiki/リン・ウィリス "wikilink")（[Lynn Willis](https://ja.wikipedia.org/wiki/:en:Lynn_Willis "wikilink")）らが担当している。
+ゲームデザインは『[ルーンクエスト](../Page/ルーンクエスト.md "wikilink")』などにも関わっている[サンディ・ピーターセン](https://ja.wikipedia.org/wiki/サンディ・ピーターセン "wikilink")や『[ストームブリンガー](../Page/ストームブリンガー_\(TRPG\).md "wikilink")』などにも関わっている[リン・ウィリス](https://ja.wikipedia.org/wiki/リン・ウィリス "wikilink")（[Lynn Willis](https://ja.wikipedia.org/wiki/:en:Lynn_Willis "wikilink")）らが担当している。
 
 ## 版の歴史と日本語版の関係
 
@@ -300,6 +300,15 @@
 :\*安針塚京 - [村川梨衣](https://ja.wikipedia.org/wiki/村川梨衣 "wikilink")
 
 :\*城ヶ崎武志 - [矢野正明](https://ja.wikipedia.org/wiki/矢野正明 "wikilink")
+
+#### コミック（第二期）
+
+  - クトゥルフ神話TRPGリプレイ るるいえあんてぃーく
+    同名リプレイのコミカライズ。2017年8月3日にKADOKAWA（エンターブレイン）より発売。ISBN 978-4-04-734797-7。連載元は[ComicWalker](https://ja.wikipedia.org/wiki/ComicWalker "wikilink")。作画は[結ゆい](https://ja.wikipedia.org/wiki/結ゆい "wikilink")。
+  - クトゥルフ神話TRPG4コマ ゆるるいえ\!
+    るるいえシリーズのキャラクターを用いたコミカライズ。2017年9月30日にKADOKAWA（エンターブレイン）より発売。ISBN 978-4-04-734841-7。連載元はComicWalker。作画は[坂井サチ](https://ja.wikipedia.org/wiki/坂井サチ "wikilink")。
+  - クトゥルフ神話TRPGリプレイ るるいえはいすくーる
+    同名リプレイのコミカライズ。2017年12月28日にKADOKAWA（エンターブレイン）より発売。ISBN 978-4-04-734956-8。連載元はComicWalker。作画は結ゆい。
 
 ## 脚注
 

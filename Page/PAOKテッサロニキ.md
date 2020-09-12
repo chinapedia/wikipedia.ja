@@ -437,6 +437,12 @@
 <tr class="odd">
 <td><p>2019-20</p></td>
 <td><p>ギリシャ・スーパーリーグ</p></td>
+<td><div style="background:silver;">
+<p><strong>2位</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p>ギリシャ・スーパーリーグ</p></td>
 <td><p><strong>位</strong></p></td>
 </tr>
 </tbody>
@@ -1629,6 +1635,8 @@
 ## 歴代所属選手
 
   - [テオドロス・ザゴラキス](../Page/テオドロス・ザゴラキス.md "wikilink") 1993-1998, 2005-2007
+
+  - [ディミトリオス・サルピンギディス](https://ja.wikipedia.org/wiki/ディミトリオス・サルピンギディス "wikilink") 1999-2006, 2010-2015
 
   - [ヨアンニス・オッカス](https://ja.wikipedia.org/wiki/ヨアンニス・オッカス "wikilink") 2000-2003
 

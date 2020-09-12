@@ -33,7 +33,7 @@
 
 ## 脚注
 
-[Category:福島テレビ番組](https://ja.wikipedia.org/wiki/Category:福島テレビ番組 "wikilink") [Category:ローカル局の番組の企画](https://ja.wikipedia.org/wiki/Category:ローカル局の番組の企画 "wikilink")
+[Category:福島テレビの番組](https://ja.wikipedia.org/wiki/Category:福島テレビの番組 "wikilink") [Category:ローカル局の番組の企画](https://ja.wikipedia.org/wiki/Category:ローカル局の番組の企画 "wikilink")
 
 1.
 2.

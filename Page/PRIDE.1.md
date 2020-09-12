@@ -5,7 +5,7 @@
 
 ## 大会概要
 
-もともと[高田延彦](../Page/高田延彦.md "wikilink")と[ヒクソン・グレイシー](../Page/ヒクソン・グレイシー.md "wikilink")の一戦を実現させる為に立ち上げられたイベントであり、「PRIDE.1」という大会名称も当初は一回限りの開催という趣旨でつけられたイベント名であった。またリングサイドのVIP席のチケット価格が、格闘技イベントとしては高額の10万円（大会終了後のフェアウェルパーティー参加権付き）という事も話題になった。大会の目玉となったメインイベントで高田は大きな抵抗も出来ず、ヒクソンの[腕ひしぎ十字固めの前に一本負けを喫した](../Page/腕挫十字固.md "wikilink")。
+もともと[高田延彦](../Page/高田延彦.md "wikilink")と[ヒクソン・グレイシー](../Page/ヒクソン・グレイシー.md "wikilink")の一戦を実現させる為に立ち上げられたイベントであり、「PRIDE.1」という大会名称も当初は一回限りの開催という趣旨でつけられたイベント名であった。またリングサイドのVIP席のチケット価格が、格闘技イベントとしては高額の10万円（大会終了後のフェアウェルパーティー参加権付き）という事も話題になった。大会の目玉となったメインイベントで高田は為す術もなく、ヒクソンの[腕ひしぎ十字固めの前に一本負けを喫した](../Page/腕挫十字固.md "wikilink")。
 
 ## 試合結果
 
@@ -34,6 +34,30 @@
     ○  [ヒクソン・グレイシー](../Page/ヒクソン・グレイシー.md "wikilink") vs.  [高田延彦](../Page/高田延彦.md "wikilink") ×
     1R 4:47 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
 
+## ルール
+
+1997年7月22日、『PRIDE.1』の開催発表記者会見で発表された当初の「ヒクソン・グレイシー対高田延彦」の特別ルールは以下のとおりだった。
+1）全ラウンド数：12ラウンド
+2）各ラウンド時間：1ラウンド=5分
+3）各ラウンドのインターバル：2分
+4）ロープブレイク：禁止 5）グローブ：所定のものを着用
+6）勝敗の判断：A.TKO　B.ドクターストップ　C.選手本人の意思による棄権・試合放棄（A.B.C以外の勝敗判断は別途協議）
+7）キック：相手がダウンしている状態では禁止
+8）脊椎への攻撃：禁止
+9）目つぶし：禁止
+10）急所攻撃：禁止
+11）頭突き：禁止
+12）髪を掴む：禁止
+13）リングアウト：禁止
+14）オイル又はワセリンの使用：禁止
+15）体重制限：なし
+16）シューズ：着用時はキックの使用禁止
+17）ヒザパッド：着用・未着用どちらでも可。但しヒザでの攻撃は不可
+18）ヒジパッド：着用・未着用どちらでも可。但しヒジでの攻撃は不可
+19）ロープを掴んだ状態での対処：相手の攻撃を回避する目的で、故意にロープを掴んだり抱え込むことは禁止とし、レフリーより注意・警告・罰則が与えられる。
+20）レフリーは、他の試合とは別に、特別レフリーを予定
+21）リング：4本ロープのスクエア。大会オリジナルリングを使用
+
 ## 関連項目
 
   - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
@@ -44,4 +68,4 @@
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/pride1.html)
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/PRIDE-1-46)
 
-[Category:PRIDEの大会](https://ja.wikipedia.org/wiki/Category:PRIDEの大会 "wikilink") [Category:1997年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1997年の総合格闘技 "wikilink") [Category:1997年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1997年の日本のスポーツ "wikilink") [Category:東京ドームで開催された総合格闘技の大会](https://ja.wikipedia.org/wiki/Category:東京ドームで開催された総合格闘技の大会 "wikilink") [Category:1997年10月](https://ja.wikipedia.org/wiki/Category:1997年10月 "wikilink")
+[Category:PRIDEの大会](https://ja.wikipedia.org/wiki/Category:PRIDEの大会 "wikilink") [Category:1997年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1997年の総合格闘技 "wikilink") [Category:1997年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1997年の日本のスポーツ "wikilink") [Category:東京ドームで開催された総合格闘技の大会](https://ja.wikipedia.org/wiki/Category:東京ドームで開催された総合格闘技の大会 "wikilink") [Category:1997年10月](https://ja.wikipedia.org/wiki/Category:1997年10月 "wikilink") [Category:電通](https://ja.wikipedia.org/wiki/Category:電通 "wikilink")

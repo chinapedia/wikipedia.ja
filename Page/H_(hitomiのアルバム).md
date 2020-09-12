@@ -9,6 +9,7 @@
   - 初回限定盤はデジパック仕様。
   - リマスターされており、音量が大きくなっている。
   - 『[by myself](https://ja.wikipedia.org/wiki/by_myself "wikilink")』以来の[オリコン](../Page/オリコン.md "wikilink")1位を獲得した。
+  - 初回限定盤と通常盤でジャケットが異なる
 
 ## 収録曲
 

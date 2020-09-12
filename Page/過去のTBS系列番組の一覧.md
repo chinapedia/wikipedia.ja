@@ -984,7 +984,7 @@
   - [TBS水曜10時枠の連続ドラマ](../Page/TBS水曜10時枠の連続ドラマ.md "wikilink")
       - [ハンドク\!\!\!](../Page/ハンドク!!!.md "wikilink")
       - [刑事☆イチロー](../Page/刑事☆イチロー.md "wikilink")
-  - [高島屋バラ劇場](https://ja.wikipedia.org/wiki/高島屋バラ劇場 "wikilink")
+  - [髙島屋バラ劇場](https://ja.wikipedia.org/wiki/髙島屋バラ劇場 "wikilink")
   - [水ドラ\!\!](https://ja.wikipedia.org/wiki/水ドラ!! "wikilink")
   - [TBS木曜7時30分枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS木曜7時30分枠の連続ドラマ "wikilink")
       - [ケンちゃんシリーズ](../Page/ケンちゃんシリーズ.md "wikilink")

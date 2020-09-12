@@ -15,7 +15,7 @@
 
 初のトップリーグとなった2008-09シーズンの序盤は、アウェイで[ニューカッスル](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")、[アーセナル](../Page/アーセナルFC.md "wikilink")、[トッテナムを破った他](../Page/トッテナム・ホットスパーFC.md "wikilink")、これまたアウェイで敗れはしたものの[マンチェスターU相手に](../Page/マンチェスター・ユナイテッドFC.md "wikilink")3-4と好勝負を演じるなど旋風を巻き起こし、一時は3位まで上り詰めた。しかし、選手層の薄さや対戦相手に研究され始めたことから、シーズン中盤から後半戦はほとんど勝つことができず、残り2試合の時点で降格圏内の18位にまで順位を落とした。更に、勝てば残留となるホームでの最終節でも敗れた。しかし、序盤に獲得した勝ち点と残留を争っていたニューカッスルと[ミドルスブラが共に敗戦という状況にも助けられ](https://ja.wikipedia.org/wiki/ミドルスブラFC "wikilink")、辛うじて残留を果たすことができた。ところが、翌2009-10シーズンは19位となり、2部に降格した。
 
-2010年末より[エジプト人](https://ja.wikipedia.org/wiki/エジプト人 "wikilink")の[アッセム・アラム](https://ja.wikipedia.org/wiki/アッセム・アラム "wikilink")がオーナーに就任。徐々にチーム力を高め、2013-14シーズンには4季ぶりにプレミアリーグへ復帰した。2013年にオーナーのアラムが独断に基づき「ビジネス的に響きがいい」という理由でクラブ名を「ハル・タイガーズ」に改名する申請を行ったが\[2\]、伝統を重んじるサポーターから猛反発を受けた。2014年4月9日、[FAは名称変更を求めたハル](../Page/フットボール・アソシエーション.md "wikilink")・シティの申請を棄却したことを発表した\[3\]。同年5月17日には110年のクラブ史における初の主要タイトル獲得をかけ、[アーセナルと](../Page/アーセナルFC.md "wikilink")[FAカップ](../Page/FAカップ.md "wikilink")決勝を戦ったが、2点のリードを守りきれず3－2で敗れ準優勝に終わった\[4\]。
+2010年末より[エジプト人](https://ja.wikipedia.org/wiki/エジプト人 "wikilink")の[アッセム・アラム](https://ja.wikipedia.org/wiki/アッセム・アラム "wikilink")がオーナーに就任。徐々にチーム力を高め、2013-14シーズンには4季ぶりにプレミアリーグへ復帰した。2013年にオーナーのアラムが独断に基づき「ビジネス的に響きがいい」という理由でクラブ名を「ハル・タイガーズ」に改名する申請を行ったが\[2\]、伝統を重んじるサポーターから猛反発を受けた。2014年4月9日、[FAは名称変更を求めたハル](../Page/フットボール・アソシエーション.md "wikilink")・シティの申請を棄却したことを発表した\[3\]。同年5月17日には110年のクラブ史における初の主要タイトル獲得をかけ、[アーセナルと](../Page/アーセナルFC.md "wikilink")[FAカップ](../Page/FAカップ.md "wikilink")決勝を戦ったが、2点のリードを守りきれず2-3で敗れ準優勝に終わった\[4\]。
 
 2014-15シーズンは18位となり、チャンピオンシップ降格が決まった。2015-16シーズンはチャンピオンシップを4位で終えたが、昇格プレーオフで5位ダービー、6位シェフィールド・ウェンズデーを相次いで破り、1年でプレミアリーグ復帰を果たした。2016-17シーズンは18位となり、プレミアリーグからの降格が決定した後の2017年5月25日、マルコ・シウバ監督が辞任した。\[5\]2017-18シーズンは6月9日、[レオニード・スルツキー](https://ja.wikipedia.org/wiki/レオニード・スルツキー "wikilink")が就任したが、\[6\]低迷が続き、12月3日、双方の合意により、アシスタントコーチの[オレグ・ヤロヴィンスキー](https://ja.wikipedia.org/wiki/オレグ・ヤロヴィンスキー "wikilink")と共にクラブを退団した。\[7\]12月7日、[ナイジェル・アドキンス](https://ja.wikipedia.org/wiki/ナイジェル・アドキンス "wikilink")がアシスタントコーチの[アンディ・クロスビー](https://ja.wikipedia.org/wiki/アンディ・クロスビー "wikilink")と共に1年半契約で監督に就任し、\[8\]\[9\]最終的に18位でシーズンを終えた。
 
@@ -267,6 +267,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020" title="wikilink">2019-20</a></p></td>
 <td><p>チャンピオン</p></td>
 <td><p>46</p></td>
+<td><p>12</p></td>
+<td><p>9</p></td>
+<td><p>25</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/EFLリーグ1_2020-2021" title="wikilink">2020-21</a></p></td>
+<td><p>リーグ1</p></td>
+<td><p>46</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -282,7 +290,7 @@
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - [2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")現在\[10\]
+  - 2020年2月1日現在\[10\]
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Iran.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink"))
 
@@ -340,9 +348,9 @@
 
   - [ケン・ホイトン](https://ja.wikipedia.org/wiki/ケン・ホイトン "wikilink") 1978.4 - 1979.12
 
-  - [マイク・スミス](https://ja.wikipedia.org/wiki/マイク・スミス（サッカー選手） "wikilink") 1979.12 - 1982.3
+  - [マイク・スミス](https://ja.wikipedia.org/wiki/マイク・スミス_\(サッカー選手\) "wikilink") 1979.12 - 1982.3
 
-  - [ボビー・ブラウン](https://ja.wikipedia.org/wiki/ボビー・ブラウン（サッカー選手） "wikilink") 1982.3 - 1982.6
+  - [ボビー・ブラウン](https://ja.wikipedia.org/wiki/ボビー・ブラウン_\(サッカー選手\) "wikilink") 1982.3 - 1982.6
 
   - [コリン・アップルトン](https://ja.wikipedia.org/wiki/:en:Colin_Appleton "wikilink") 1982.6 - 1984.5
 

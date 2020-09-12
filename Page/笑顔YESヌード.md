@@ -35,12 +35,12 @@
 
 ## 参加ミュージシャン
 
-  - 松井寛 - プログラミング&キーボード (1)
-  - [是永巧一](../Page/是永巧一.md "wikilink") - ギター (1)
-  - 竹内浩明 - コーラス (1)
-  - つんく♂ - コーラス (1)
-  - 鈴木Daichi秀行 - プログラミング&ギター (2)
-  - CHINO - コーラス (2)
+  - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")：Chorus (\#1)
+  - [松井寛](https://ja.wikipedia.org/wiki/松井寛 "wikilink")：Programming (\#1), Keyboard (\#1)
+  - [是永巧一](../Page/是永巧一.md "wikilink")：Guitar (\#1)
+  - 竹内浩明：Chorus (\#1)
+  - [鈴木 "Daichi" 秀行](../Page/鈴木Daichi秀行.md "wikilink")：Programming (\#2), Guitar (\#2)
+  - CHINO：Chorus (\#2)
 
 ## 脚注
 

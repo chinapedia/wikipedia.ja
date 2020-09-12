@@ -48,4 +48,4 @@ INSEEはまた、次のリストを管理する :
 
   - [INSEE](http://www.insee.fr/fr/region/accueil_region.htm)
 
-[Category:フランスの行政](https://ja.wikipedia.org/wiki/Category:フランスの行政 "wikilink") [Category:フランスの研究所](https://ja.wikipedia.org/wiki/Category:フランスの研究所 "wikilink") [Category:政府統計機関](https://ja.wikipedia.org/wiki/Category:政府統計機関 "wikilink") [Category:国民識別番号](https://ja.wikipedia.org/wiki/Category:国民識別番号 "wikilink")
+[Category:フランスの行政](https://ja.wikipedia.org/wiki/Category:フランスの行政 "wikilink") [Category:フランスの研究所](https://ja.wikipedia.org/wiki/Category:フランスの研究所 "wikilink") [Category:政府統計機関](https://ja.wikipedia.org/wiki/Category:政府統計機関 "wikilink") [Category:国民識別番号](https://ja.wikipedia.org/wiki/Category:国民識別番号 "wikilink") [Category:1946年設立の政府機関](https://ja.wikipedia.org/wiki/Category:1946年設立の政府機関 "wikilink")

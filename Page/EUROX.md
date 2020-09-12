@@ -108,7 +108,7 @@
 
   - [Lu7](http://lu7.biz/)、[crysta](http://www.crysta.jp/)（**栗原務**所属）
   - [Deafening Daphne](http://sound.jp/d-d/)（**岡野治雄**、**根本博**所属）
-  - [MNEMOTOPOLOGY](http://blog.so-net.ne.jp/mnemosyneoforion/)（**根本博**blog）
+  - [MNEMOTOPOLOGY](https://mnemosyneoforion.blog.ss-blog.jp/)（**根本博**blog）
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
 

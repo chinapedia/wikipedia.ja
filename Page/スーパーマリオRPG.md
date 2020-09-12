@@ -1,7 +1,7 @@
 > この記事は[スーパーマリオRPG](https://ja.wikipedia.org/wiki/スーパーマリオRPG)から翻訳されています。
 
 
-『**スーパーマリオRPG**』（スーパーマリオアールピージー、英題: **[Super Mario RPG: Legend of the Seven Stars](https://ja.wikipedia.org/wiki/:en:Super_Mario_RPG:_Legend_of_the_Seven_Stars "wikilink")**）は、[任天堂](../Page/任天堂.md "wikilink")から発売された[アクションRPGである](../Page/アクションロールプレイングゲーム.md "wikilink")。任天堂と[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）が共同制作した。
+『**スーパーマリオRPG**』（スーパーマリオアールピージー、SUPER MARIO RPG、 英題: **[Super Mario RPG: Legend of the Seven Stars](https://ja.wikipedia.org/wiki/:en:Super_Mario_RPG:_Legend_of_the_Seven_Stars "wikilink")**）は、[任天堂](../Page/任天堂.md "wikilink")から発売された[アクションRPGである](../Page/アクションロールプレイングゲーム.md "wikilink")。任天堂と[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）が共同制作した。
 
 ## 概要
 
@@ -419,7 +419,7 @@
 
   -
   -
-[Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:マリオシリーズ](https://ja.wikipedia.org/wiki/Category:マリオシリーズ "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
+[Category:マリオシリーズのRPG](https://ja.wikipedia.org/wiki/Category:マリオシリーズのRPG "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
 
 1.  本作以後の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のスーパーファミコンの[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")の新作は[ニンテンドウパワー](../Page/ニンテンドウパワー.md "wikilink")で配信をした。
 2.

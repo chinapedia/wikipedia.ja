@@ -7,9 +7,7 @@
 
 プロデューサーは[大西輝門](../Page/輝門.md "wikilink")。
 
-[2013年](../Page/2013年.md "wikilink")に一度活動を停止したが、[2015年](../Page/2015年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に「**AIRA**」へと名義を変更しての活動再開が予定されている\[1\]。
-
-アイラミツキ名義で復活。サウンドプロデューサーにアイズマック(NUXX)を迎え、2015年9月21日に配信シングル「LIGHTSAVER -Single-」をリリース。カップリングは、「I'LL AGAIN..」iTunes Store, Amazon Music, Google Play Musicにてダウンロード販売する。\[2\]
+[2013年](../Page/2013年.md "wikilink")に一度活動を停止したが、[2015年](../Page/2015年.md "wikilink")にアイラミツキ名義で活動再開した。サウンドプロデューサーにアイズマック(NUXX)を迎え、2015年9月21日に配信シングル「LIGHTSAVER -Single-」をリリース。カップリングは、「I'LL AGAIN..」iTunes Store, Amazon Music, Google Play Musicにてダウンロード販売する。\[1\]
 
 ## 略歴
 
@@ -37,8 +35,8 @@
   - 2011年4月20日、DVD+CD『Aira Mitsuki LiVE TOUR 2011 「？？？」in LIQUIDROOM』をリリース。6都市ツアー「Aira Mitsuki LiVE TOUR 2011 『？？？』」のツアーファイナルの映像とニューシングルCDも入った2枚組仕様。
   - 2011年12月7日、[Saori@destiny](https://ja.wikipedia.org/wiki/Saori@destiny "wikilink")とのコラボアルバム「×〜PARK OF THE SAFARI』をリリース。
   - 2013年8月20日、ラストアルバム「I'LL BE BACK」をリリース。
-  - 2013年9月29日、この日のワンマンライブをもって活動休止\[3\]\[4\]。
-  - 2015年9月21日、アイラミツキ名義での復帰作第一弾シングル「LIGHTSAVER」をデジタル配信リリース\[5\]。
+  - 2013年9月29日、この日のワンマンライブをもって活動休止\[2\]\[3\]。
+  - 2015年9月21日、アイラミツキ名義での復帰作第一弾シングル「LIGHTSAVER」をデジタル配信リリース\[4\]。
 
 ## ディスコグラフィー
 
@@ -235,8 +233,7 @@
   -
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:テクノポップ](https://ja.wikipedia.org/wiki/Category:テクノポップ "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  “[テクノポップアイコン・AIRAが復活、ゆよゆっぺ提供の新曲でライブ敢行](http://natalie.mu/music/news/147351)”.[ナタリー](https://ja.wikipedia.org/wiki/ナタリー "wikilink")（2015年5月15日）
-2.  “[アイラミツキ、復帰後初の楽曲リリース決定](http://natalie.mu/music/news/159345)”.[ナタリー](https://ja.wikipedia.org/wiki/ナタリー "wikilink")（2015年9月7日）
+1.  “[アイラミツキ、復帰後初の楽曲リリース決定](http://natalie.mu/music/news/159345)”.[ナタリー](https://ja.wikipedia.org/wiki/ナタリー "wikilink")（2015年9月7日）
+2.
 3.
 4.
-5.

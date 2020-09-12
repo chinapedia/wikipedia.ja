@@ -160,7 +160,7 @@ NHKマイルカップの中継日には[大河ドラマ](../Page/大河ドラマ
 
 2011年4月に衛星第1、BSハイビジョンからBS1に移行。
 
-  - [桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")（総合テレビ：1954年〜[1955年](../Page/1955年.md "wikilink")、[1958年](../Page/1958年.md "wikilink")〜[1960年](../Page/1960年.md "wikilink")　BSハイビジョン：2001年〜2010年　BS1：2011年〜2019年）\[15\]
+  - [桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")（総合テレビ：1954年〜[1955年](../Page/1955年.md "wikilink")、[1958年](../Page/1958年.md "wikilink")〜[1960年](../Page/1960年.md "wikilink")　BSハイビジョン：[2001年](../Page/2001年.md "wikilink")〜2010年　BS1：[2011年](../Page/2011年.md "wikilink")〜2019年）\[15\]
   - [オークス](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")（BSハイビジョン：2001年〜2010年　BS1：2011年〜）
   - [ジャパンカップ](https://ja.wikipedia.org/wiki/ジャパンカップ "wikilink")（2011年〜）
   - [ジャパンカップダート→チャンピオンズカップ](../Page/チャンピオンズカップ_\(中央競馬\).md "wikilink")（BSハイビジョン：2001年〜2010年　BS1：2019年〜）
@@ -169,17 +169,13 @@ NHKマイルカップの中継日には[大河ドラマ](../Page/大河ドラマ
 
 #### 総合テレビ
 
-  - [金盃](../Page/中山金杯.md "wikilink")（1958年〜1959年）
+  - [金盃](../Page/中山金杯.md "wikilink")（1958年〜[1959年](../Page/1959年.md "wikilink")）
   - [中山改築記念](../Page/中山記念.md "wikilink")（1956年）
-
-<!-- end list -->
-
+  - [金鯱賞](../Page/金鯱賞.md "wikilink")（[1957年](../Page/1957年.md "wikilink")）\[16\]
   - [阪神大賞典](../Page/阪神大賞典.md "wikilink")（1954年〜1955年）
   - [中山大障害（春）](https://ja.wikipedia.org/wiki/中山大障害#中山大障害（春） "wikilink")（1953年〜1955年、1957年〜1961年）
   - [NHK盃→NHK杯](../Page/NHK杯_\(競馬\).md "wikilink")（1954年〜[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）
-
-<!-- end list -->
-
+  - [北海道三歳ステークス](../Page/札幌2歳ステークス.md "wikilink")（1958年）\[17\]
   - [カブトヤマ記念](../Page/カブトヤマ記念.md "wikilink")（1953年）
   - [中山大障害](../Page/中山大障害.md "wikilink")（秋）（1953年〜1954年、1957年、1959年〜1962年）
 
@@ -187,7 +183,7 @@ NHKマイルカップの中継日には[大河ドラマ](../Page/大河ドラマ
 
 ★は2000年まで旧BS1で放送されていた競走。
 
-  - [高松宮記念](https://ja.wikipedia.org/wiki/高松宮記念_\(競馬\) "wikilink")（衛星第1：[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")〜[2001年](../Page/2001年.md "wikilink")、[2003年](../Page/2003年.md "wikilink")〜[2011年](../Page/2011年.md "wikilink")　BSハイビジョン：[2002年](../Page/2002年.md "wikilink")　BS1：2012年〜2018年）★
+  - [高松宮記念](https://ja.wikipedia.org/wiki/高松宮記念_\(競馬\) "wikilink")（衛星第1：[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")〜[2001年](../Page/2001年.md "wikilink")、[2003年](../Page/2003年.md "wikilink")〜2011年　BSハイビジョン：[2002年](../Page/2002年.md "wikilink")　BS1：2012年〜[2018年](../Page/2018年.md "wikilink")）★
   - [中山グランドジャンプ](../Page/中山グランドジャンプ.md "wikilink")（衛星第1：2000年　BSハイビジョン：2001年〜2010年　BS1：2012年〜[2017年](../Page/2017年.md "wikilink")）★
   - [ヴィクトリアマイル](../Page/ヴィクトリアマイル.md "wikilink")（BSハイビジョン：[2006年](../Page/2006年.md "wikilink")〜2010年）
   - [安田記念](https://ja.wikipedia.org/wiki/安田記念 "wikilink")（衛星第1：[1999年](../Page/1999年.md "wikilink")〜2000年　BSハイビジョン：2001年〜2010年）★
@@ -207,7 +203,7 @@ NHKマイルカップの中継日には[大河ドラマ](../Page/大河ドラマ
   - [清水敬亮](https://ja.wikipedia.org/wiki/清水敬亮 "wikilink")（[大阪](../Page/NHK大阪放送局.md "wikilink")）
   - [白崎義彦](../Page/白崎義彦.md "wikilink")（[札幌](../Page/NHK札幌放送局.md "wikilink")） - シニア職
   - [高木修平](../Page/高木修平.md "wikilink")（[G-メディア出向](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink")）
-  - [高木優吾](https://ja.wikipedia.org/wiki/高木優吾 "wikilink")（[仙台](../Page/NHK仙台放送局.md "wikilink")）\[16\]\[17\]
+  - [高木優吾](https://ja.wikipedia.org/wiki/高木優吾 "wikilink")（[仙台](../Page/NHK仙台放送局.md "wikilink")）\[18\]\[19\]
   - [福澤浩行](../Page/福澤浩行.md "wikilink")（東京アナウンス室） - エグゼクティブ職
   - [藤井康生](../Page/藤井康生.md "wikilink")（東京アナウンス室） - エグゼクティブ職
   - [三浦拓実](../Page/三浦拓実.md "wikilink")（東京アナウンス室） - [ラジオNIKKEI主催](../Page/日経ラジオ社.md "wikilink")[レースアナウンサー養成講座](https://ja.wikipedia.org/wiki/レースアナウンサー養成講座 "wikilink")・第1期生
@@ -273,5 +269,7 @@ NHKマイルカップの中継日には[大河ドラマ](../Page/大河ドラマ
 13. 2011年は[国会中継](../Page/国会中継.md "wikilink")（[第177通常国会](https://ja.wikipedia.org/wiki/第177回国会 "wikilink")[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")[予算委員会](../Page/予算委員会.md "wikilink")平成23年度第1次補正予算審議）の為、[放送法](../Page/放送法.md "wikilink")4条二号の規定により放送中止。2020年は緊急事態宣言の影響で中継取りやめ。
 14. この年のみ「中山グランプリ」。
 15. 2020年は緊急事態宣言の影響で急遽中継取りやめ。
-16. [アナウンスルーム・高木優吾](http://www2.nhk.or.jp/a-room/search/detail.cgi?id=585)
-17. [競馬「第76回桜花賞」（発走 3:40）〜阪神競馬場から中継〜](http://tv.yahoo.co.jp/program/15004146/) ヤフーテレビ 2016年4月8日閲覧
+16. 当時はオープンクラスの競走。
+17.
+18. [アナウンスルーム・高木優吾](http://www2.nhk.or.jp/a-room/search/detail.cgi?id=585)
+19. [競馬「第76回桜花賞」（発走 3:40）〜阪神競馬場から中継〜](http://tv.yahoo.co.jp/program/15004146/) ヤフーテレビ 2016年4月8日閲覧

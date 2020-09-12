@@ -1,19 +1,15 @@
 > この記事は[Ikoman](https://ja.wikipedia.org/wiki/Ikoman)から翻訳されています。
 
 
-**Ikoman** （イコマン 、[1976年](../Page/1976年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[マルチプレイヤー](../Page/マルチプレイヤー_\(音楽\).md "wikilink")。本名:生駒 龍之介（いこま りゅうのすけ）\[2\]。
+**Ikoman** （イコマン 、[1976年](../Page/1976年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[マルチプレイヤー](../Page/マルチプレイヤー_\(音楽\).md "wikilink")。本名:**生駒 龍之介**（いこま りゅうのすけ）\[2\]。
 
 ## 来歴・人物
 
-[香川県](../Page/香川県.md "wikilink")[観音寺市](../Page/観音寺市.md "wikilink")出身。[香川県立観音寺第一高等学校](../Page/香川県立観音寺第一高等学校.md "wikilink")卒業。高校時代はギター同好会に所属していた\[3\]。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[4\]。
+[香川県](../Page/香川県.md "wikilink")出身\[3\]。。高校時代はギター同好会に所属していた\[4\]。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[5\]。
 
-[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")、[FLOW](../Page/FLOW.md "wikilink")、[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[Rie fu](../Page/Rie_fu.md "wikilink")、[WILD FLOWER](https://ja.wikipedia.org/wiki/WILD_FLOWER "wikilink")、[YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")、[Younha](https://ja.wikipedia.org/wiki/Younha "wikilink")、[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")、[ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")、[紗希](../Page/紗希.md "wikilink")、[外川陽子](https://ja.wikipedia.org/wiki/外川陽子 "wikilink")、Leno、[RYTHEM](../Page/RYTHEM.md "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")、[藤田麻衣子](../Page/藤田麻衣子.md "wikilink")、[杉恵ゆりか](https://ja.wikipedia.org/wiki/杉恵ゆりか "wikilink")、[wacci](https://ja.wikipedia.org/wiki/wacci "wikilink")、[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")…等のサウンドプロデュース、コンポーズ、アレンジ、マニピュレートなどを手がける。
+[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")\[6\]、[FLOW](../Page/FLOW.md "wikilink")、[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[Rie fu](../Page/Rie_fu.md "wikilink")\[7\]、[WILD FLOWER](https://ja.wikipedia.org/wiki/WILD_FLOWER "wikilink")、[YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")\[8\]、[Younha](https://ja.wikipedia.org/wiki/Younha "wikilink")、[DUSTZ](https://ja.wikipedia.org/wiki/DUSTZ "wikilink")、[ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")、[紗希](../Page/紗希.md "wikilink")\[9\]、[外川陽子](https://ja.wikipedia.org/wiki/外川陽子 "wikilink")、Leno、[RYTHEM](../Page/RYTHEM.md "wikilink")\[10\]、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")、[藤田麻衣子](../Page/藤田麻衣子.md "wikilink")、[杉恵ゆりか](https://ja.wikipedia.org/wiki/杉恵ゆりか "wikilink")、[wacci](https://ja.wikipedia.org/wiki/wacci "wikilink")、[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")…等のサウンドプロデュース、楽曲提供、アレンジ、マニピュレートなどを手掛ける。
 
-出身地である香川県観音寺市の[伊吹島](../Page/伊吹島.md "wikilink")のテーマソングを手がけた\[5\]。
-
-母校小学校の統合後の香川県観音寺市立観音寺小学校校歌を制作した\[6\]。
-
-地元香川県観音寺市の香川県立観音寺総合高等学校校歌を制作した。
+観音寺市の[伊吹島](../Page/伊吹島.md "wikilink")のテーマソング\[11\]、母校小学校の統合後の観音寺市立観音寺小学校の[校歌](../Page/校歌.md "wikilink")\[12\]、[香川県立観音寺総合高等学校](https://ja.wikipedia.org/wiki/香川県立観音寺総合高等学校 "wikilink")の校歌など、地元観音寺市に関わる楽曲の制作も担当した。
 
 ## 主な作品
 
@@ -59,7 +55,7 @@
   - [Ikomanオフィシャルブログ「オワラナイユメ」](https://ameblo.jp/ikoman-music/)
   - [Facebook](https://m.facebook.com/ikoman3969)
 
-[Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:香川県出身の人物](https://ja.wikipedia.org/wiki/Category:香川県出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:香川県出身の人物](https://ja.wikipedia.org/wiki/Category:香川県出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  『四国新聞』2013年（平成25年）3月17日付日刊（18面）
@@ -67,3 +63,9 @@
 4.
 5.
 6.
+7.
+8.
+9.
+10.
+11.
+12.

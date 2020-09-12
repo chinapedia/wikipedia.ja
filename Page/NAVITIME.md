@@ -1,11 +1,11 @@
 > この記事は[NAVITIME](https://ja.wikipedia.org/wiki/NAVITIME)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Nt_logo.gif "wikilink") **NAVITIME**（ナビタイム）は、[ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")社が提供する、電車や車、徒歩などを使った経路を一度に検索できる総合[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")サービス。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nt_logo.gif "wikilink") **NAVITIME**（ナビタイム）は、[ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")社が提供する総合[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")サービス。
 
 ## 概要
 
-NAVITIMEは、様々な移動手段を組み合わせて最適な経路を探すことのできる経路探索エンジンを特徴とする。
+様々な移動手段を組み合わせて最適な経路を探すことのできる経路探索エンジンを特徴とする。
 
 携帯電話向けには、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ワイモバイル](../Page/ワイモバイル.md "wikilink")に提供中で、[KDDI](../Page/KDDI.md "wikilink")の[EZナビウォーク](../Page/EZナビウォーク.md "wikilink")のエンジンとしても利用されている。PC、アクトビラ（テレビインターネット)、携帯電話向けのサービスと、履歴や登録情報を共有できることが特徴となっている。主な機能は有料である。
 

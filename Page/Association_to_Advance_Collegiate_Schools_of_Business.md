@@ -50,7 +50,9 @@
 | 8  | [国立台湾科技大学](../Page/国立台湾科技大学.md "wikilink") | [2013年](../Page/2013年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")     |                                                              |
 | 9  | [逢甲大学](../Page/逢甲大学.md "wikilink")         | [2014年](../Page/2014年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")     |                                                              |
 | 10 | [国立雲林科技大学](../Page/国立雲林科技大学.md "wikilink") | [2014年](../Page/2014年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")     |                                                              |
-| 11 | 国立高雄科技大学                                   | 2019年7月                                                                                   |                                                              |
+| 11 | [国立中正大学](../Page/国立中正大学.md "wikilink")     | [2016年](../Page/2016年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")     |                                                              |
+| 11 | [長庚大学](../Page/長庚大学.md "wikilink")         | [2016年](../Page/2016年.md "wikilink")[8月](../Page/8月.md "wikilink")                        |                                                              |
+| 13 | 国立高雄科技大学                                   | 2019年7月                                                                                   |                                                              |
 
 ### 中華人民共和国
 

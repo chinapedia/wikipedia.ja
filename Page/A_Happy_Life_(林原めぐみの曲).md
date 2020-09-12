@@ -25,15 +25,22 @@
 
 ## 収録アルバム
 
-| 曲名                                                                           | 収録アルバム                                                                 | 発売日                                                                                                    | 備考                                                |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| A Happy Life                                                                 | [CHOICE](https://ja.wikipedia.org/wiki/CHOICE "wikilink")              | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")            | 13枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
-| [with you](https://ja.wikipedia.org/wiki/with_you_\(林原めぐみのアルバム\) "wikilink") | [2017年](../Page/2017年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink") | [岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink") |                                                   |
-| Lucky & Happy                                                                | CHOICE                                                                 | 2010年7月21日                                                                                             | 13枚目のオリジナルアルバム                                    |
-| with you                                                                     | 2017年5月3日                                                              | 岡崎律子のトリビュート・アルバム                                                                                       |                                                   |
+| 曲名                                                                                      | 収録アルバム                                                                 | 発売日                                                                                         | 製造番号      |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------- |
+| A Happy Life                                                                            | 『**[CHOICE](https://ja.wikipedia.org/wiki/CHOICE "wikilink")**』\[1\]   | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月21日](../Page/7月21日.md "wikilink") | KICS-1548 |
+| 『**[with you](https://ja.wikipedia.org/wiki/with_you_\(林原めぐみのアルバム\) "wikilink")**』\[2\] | [2017年](../Page/2017年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink") | KICS-93489〜93490                                                                            |           |
+| Lucky & Happy                                                                           | 『**CHOICE**』\[3\]                                                      | 2010年7月21日                                                                                  | KICS-1548 |
+| 『**with you**』\[4\]                                                                     | 2017年5月3日                                                              | KICS-93489〜93490                                                                            |           |
 
 ## 関連項目
 
   - [がくえんゆーとぴあ まなびストレート\!のアルバムの一覧](https://ja.wikipedia.org/wiki/がくえんゆーとぴあ_まなびストレート!のアルバムの一覧 "wikilink")
 
+## 脚注
+
 [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:岡崎律子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岡崎律子が制作した楽曲 "wikilink")
+
+1.
+2.
+3.
+4.

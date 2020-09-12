@@ -1,7 +1,7 @@
 > この記事は[Z-HARD](https://ja.wikipedia.org/wiki/Z-HARD)から翻訳されています。
 
 
-『**Z-HARD**』（ジハード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Janne Da Arcのメジャー](../Page/Janne_Da_Arc.md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")発売。発売元は[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
+『**Z-HARD**』（ジ・ハード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[motorodから発売したメジャー](https://ja.wikipedia.org/wiki/cutting_edge#かつて存在したサブレーベル "wikilink")2枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -14,40 +14,164 @@
 
 ## 収録曲
 
-1.  **Nightmare**（作曲：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")）
+1.  **Nightmare** \[0:53\]
       -
-        [インスト曲](../Page/器楽曲.md "wikilink")。
-2.  **-救世主 メシア-**（作詞・作曲：yasu）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作曲：[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")
+        編曲：yasu、[成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")
+
+        </div>
+
+        </div>
+2.  **-救世主 メシア-** \[4:42\]
       -
-        [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の英雄[ジャンヌ・ダルク](../Page/ジャンヌ・ダルク.md "wikilink")のことを歌っている。インディーズ時代の曲を除いて古い曲は[ライブであまり歌わない彼らだがこの曲はライブでの定番曲である](../Page/演奏会.md "wikilink")。
-3.  **prism**（作詞・作曲：[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、成田忍
+
+        </div>
+
+        </div>
+3.  **prism** \[3:40\]
       -
-        ベースソロで始まる。全体的に低音で構成されていて、サビはyasuの高音と低音のダブルヴォイスで収録されている。
-4.  **[Dry?](https://ja.wikipedia.org/wiki/Dry? "wikilink") ＜Album Mix＞**（作詞・作曲：yasu）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")
+        編曲：kiyo、Janne Da Arc、成田忍
+
+        </div>
+
+        </div>
+4.  **[Dry?](https://ja.wikipedia.org/wiki/Dry? "wikilink") (Album Mix)** \[3:56\]
       -
-        7thシングル。[アルバム](../Page/アルバム.md "wikilink")バージョンで、一部、ギターとドラムのリテイクが行われている。また、ラストサビ前のギャップが消され、終わり方も少し異なっている。
-5.  **7-seven-**（作詞・作曲：yasu）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+
+        7thシングルの表題曲のアルバムバージョン。
+5.  **7-seven-** \[4:11\]
       -
-        [ドメスティックバイオレンス](../Page/ドメスティックバイオレンス.md "wikilink")を題材にした曲。もとは6thシングルになる予定だったが、他メンバーの『「[Mysterious](../Page/Mysterious_\(Janne_Da_Arcの曲\).md "wikilink")」のほうがいいじゃない?』ということによりアルバムに収録されることになった。
-6.  **[NEO VENUS](https://ja.wikipedia.org/wiki/NEO_VENUS "wikilink")**（作詞：yasu　作曲：kiyo）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+6.  **[NEO VENUS](https://ja.wikipedia.org/wiki/NEO_VENUS "wikilink")** \[4:34\]
       -
-        後に8thシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
-7.  **[will 〜地図にない場所〜](https://ja.wikipedia.org/wiki/will_〜地図にない場所〜 "wikilink") ＜Album Mix＞**（作詞・作曲：yasu）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：kiyo
+        編曲：kiyo、Janne Da Arc、成田忍
+
+        </div>
+
+        </div>
+
+        8thシングルの表題曲。
+7.  **[will〜地図にない場所〜](https://ja.wikipedia.org/wiki/will〜地図にない場所〜 "wikilink") (Album Mix)** \[6:10\]
       -
-        5thシングル。[アルバム](../Page/アルバム.md "wikilink")バージョンで、[イントロが多少異なるほか](../Page/導入部.md "wikilink")、[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")などの音量が全面的に上がっている。また、最後の[スキャット](../Page/スキャット.md "wikilink")の部分も変更されている。
-8.  **WARNING**（作詞：kiyo＆yasu　作曲：kiyo＆[you](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink")）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、秦野猛行
+
+        </div>
+
+        </div>
+
+        5thシングルの表題曲のアルバムバージョン。
+8.  **WARNING** \[4:13\]
       -
-        [ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")で始まる曲。
-9.  **Liar**（作詞：yasu＆[shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")　作曲：kiyo）
-10. **Dear my....**（作詞：yasu　作曲：ka-yu）
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：kiyo、yasu
+        作曲：kiyo、[you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")
+        編曲：kiyo、you、Janne Da Arc、[明石昌夫](../Page/明石昌夫.md "wikilink")
+
+        </div>
+
+        </div>
+9.  **Liar** \[4:07\]
       -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu、[shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")
+        作曲：kiyo
+        編曲：kiyo、Janne Da Arc、成田忍
+
+        </div>
+
+        </div>
+10. **Dear my....** \[4:14\]
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：yasu
+        作曲：ka-yu
+        編曲：ka-yu、Janne Da Arc、成田忍
+
+        </div>
+
+        </div>
+
         後に11thシングル「[feel the wind](https://ja.wikipedia.org/wiki/feel_the_wind "wikilink")」のカップリング曲として、アレンジされ収録された。
-11. **[Mysterious](../Page/Mysterious_\(Janne_Da_Arcの曲\).md "wikilink") ＜Album Mix＞**（作詞・作曲：yasu）
+11. **[Mysterious](../Page/Mysterious_\(Janne_Da_Arcの曲\).md "wikilink") (Album Mix)** \[4:13\]
       -
-        6thシングル。[アルバム](../Page/アルバム.md "wikilink")バージョンで収録されており、[キーボードなどの音量が上がっている](../Page/キーボード_\(楽器\).md "wikilink")。
 
-## 関連項目
+        <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
+        作詞・作曲：yasu
+        編曲：yasu、Janne Da Arc、[HΛL](../Page/HΛL.md "wikilink")
+
+        </div>
+
+        </div>
+
+        6thシングルの表題曲のアルバムバージョン。[キーボードなどの音量が上がっている](../Page/キーボード_\(楽器\).md "wikilink")。
+
+## 参加ミュージシャン
+
+  - Janne Da Arc
+
+<!-- end list -->
+
+  - [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - [you](https://ja.wikipedia.org/wiki/you_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink")
+  - [ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
+  - [shuji](https://ja.wikipedia.org/wiki/shuji "wikilink")：[Drums](../Page/ドラムセット.md "wikilink")
+
+<!-- end list -->
+
+  - Additional Musician
+
+<!-- end list -->
+
+  - [三沢またろう](../Page/三沢またろう.md "wikilink")：[Percussion](../Page/パーカッション.md "wikilink") (\#9,10)
+
+## 外部リンク
+
+  - [エイベックスによる紹介ページ](https://avexnet.jp/contents/music_j/JANNE/discography/1004469)
 
 [Category:Janne_Da_Arcのアルバム](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのアルバム "wikilink") [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink")

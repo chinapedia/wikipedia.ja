@@ -1,7 +1,7 @@
 > この記事は[Malbolge](https://ja.wikipedia.org/wiki/Malbolge)から翻訳されています。
 
 
-**Malbolge**は1998年にBen Olmsteadによって開発された、[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")の[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")である。名前は、[ダンテの](../Page/ダンテ・アリギエーリ.md "wikilink")[神曲](../Page/神曲.md "wikilink")地獄篇における地獄の第8圏であるMalebolgeにちなんで名付けられた。
+**Malbolge**は1998年にBen Olmsteadによって開発された、[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")の[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")である。名前は、[ダンテの](../Page/ダンテ・アリギエーリ.md "wikilink")[神曲](../Page/神曲.md "wikilink")地獄篇における地獄の第8圏であるマーレボルジェ(Malebolge)にちなんで名付けられた。
 
 Malbolgeは[チューリング完全](../Page/チューリング完全.md "wikilink")である\[1\]\[2\]が、実用言語ではない。Malbolgeの異常な点は、最悪の、すなわち最も扱いにくく難解であるプログラミング言語となるべく設計されたことである。Malbolgeは[INTERCAL](../Page/INTERCAL.md "wikilink")、[機械語](../Page/機械語.md "wikilink")、[Brainfuck](../Page/Brainfuck.md "wikilink")の最悪な部分を組み合わせたものであるという\[3\]。しかし、理解を困難にするために用いたトリックのいくつかはごく単純化することができる。
 

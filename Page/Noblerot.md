@@ -106,6 +106,5 @@
 
 ## 外部リンク
 
-  - [公式サイトによるNoblerot紹介ページ](http://www5b.biglobe.ne.jp/~alipro/noblerot2.html)
-
+  -
 [Category:ALI_PROJECTのアルバム](https://ja.wikipedia.org/wiki/Category:ALI_PROJECTのアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink")

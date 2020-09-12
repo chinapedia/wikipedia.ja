@@ -1,7 +1,7 @@
 > この記事は[Graceful World](https://ja.wikipedia.org/wiki/Graceful_World)から翻訳されています。
 
 
-「**Graceful World**」（グレイスフル・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")18thシングル。[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。
+「**Graceful World**」（グレイスフル・ワールド）は、[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")18枚目のシングル。[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 [PVは前作](https://ja.wikipedia.org/wiki/プロモーション・ビデオ "wikilink")「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」の続編となっている。PVはビデオシングル「[fragile〜Graceful World](https://ja.wikipedia.org/wiki/fragile/JIRENMA#fragile〜Graceful_World_\(映像作品\) "wikilink")」やビデオクリップ集『[BEST CLIPS](https://ja.wikipedia.org/wiki/BEST_CLIPS "wikilink")』に収録されている。なお、ビデオクリップ集『THE VIDEO COMPILATION』シリーズには収録されていない。
 
-本作では、**Every Little Thing**の表記が**EVERY LITTLE THING**となっており、本作以降からは、アルバム、シングル含め、異なる表記がなされた作品もいくつか発表するようになる。
+本作では、「**Every Little Thing**」の表記が「**EVERY LITTLE THING**」となっており、本作以降からは、アルバム、シングル含め、異なる表記がなされた作品もいくつか発表するようになる。
 
 本作のB面曲は存在しない。
 

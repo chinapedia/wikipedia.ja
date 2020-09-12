@@ -280,7 +280,7 @@ L∞P-Divide Neo Abomination-</p></td>
 
 ## 外部リンク
 
-  - [D'espairsRay](http://www.universal-music.co.jp/despairsray) - UNIVERSAL MUSIC JAPAN
+  - [D'espairsRay](https://www.universal-music.co.jp/despairsray/) - UNIVERSAL MUSIC JAPAN
 
   -
   - [D'espairsRay オフィシャルブログ「D'espairsRay」](https://ameblo.jp/sw-despairsray/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")

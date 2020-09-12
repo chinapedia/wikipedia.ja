@@ -41,7 +41,7 @@
 
 ## 派生型
 
-[thumbのAV](https://ja.wikipedia.org/wiki/画像:020108-N-6610T-532_navy_AV-8B.jpg "wikilink")-8B（ナイトアタック型）\]\] [thumbのTAV](https://ja.wikipedia.org/wiki/画像:Italian_TAV-8B_Harrier_II.jpg "wikilink")-8B\]\] [thumb](https://ja.wikipedia.org/wiki/画像:Bae_harrier_gr9_zg502_takeoff_arp.jpg "wikilink")
+[thumbのAV](https://ja.wikipedia.org/wiki/画像:020108-N-6610T-532_navy_AV-8B.jpg "wikilink")-8B（ナイトアタック型）\]\] [thumbのTAV](https://ja.wikipedia.org/wiki/画像:Italian_TAV-8B_Harrier_II.jpg "wikilink")-8B\]\] [thumb](https://ja.wikipedia.org/wiki/画像:BAe_Harrier_GR9_ZG502_landing_arp.jpg "wikilink")
 
   - AV-8B ハリアー II
     基本型。後期型は機首に[FLIR](../Page/FLIR.md "wikilink")を装備し、夜間攻撃能力を得たナイトアタック型となった。一部はプラス仕様へ改修。

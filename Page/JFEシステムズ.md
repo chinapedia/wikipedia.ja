@@ -36,7 +36,7 @@
 
 **BI（経営可視化）**
 
-  - ビジネスインテリジェンスツール SAP BusinessObjects（SAP社製）
+  - ビジネスインテリジェンスツール [SAP BusinessObjects](https://ja.wikipedia.org/wiki/BusinessObjects "wikilink")（SAP社製）
   - データウェアハウスソリューション SAP IQ（SAP社製）
   - ETLツール SAP BusinessObjects DataServices（SAP社製）
   - SAP ユーザー向け経営分析支援システム KPIMart

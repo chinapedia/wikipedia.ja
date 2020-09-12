@@ -56,7 +56,7 @@
 
 1.  <http://www.scope.ne.jp/designer/sano_kenjiro/>　2015年11月25日閲覧。
 2.  <https://twitter.com/utadahikaru/status/554318502052757504>
-3.  [宇多田「着うた」発売前に200万件](http://web.archive.org/web/20070302075218/http://www.sponichi.co.jp/entertainment/news/2007/02/28/06.html)、スポーツニッポン、2007年2月28日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のミラー）
+3.  [宇多田「着うた」発売前に200万件](https://web.archive.org/web/20070302075218/http://www.sponichi.co.jp/entertainment/news/2007/02/28/06.html)、スポーツニッポン、2007年2月28日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のミラー）
 4.  [女王復活！宇多田ヒカル新記録達成](http://www.daily.co.jp/gossip/2007/04/19/0000307763.shtml)、デイリースポーツ、2007年4月19日。
 5.  [宇多田ヒカルの「Flavor Of Life」、デジタルシングル売上で世界一に](http://internet.watch.impress.co.jp/cda/news/2007/07/19/16391.html)、インプレス、2007年7月19日。
 6.  [日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink") 2008年1月号。

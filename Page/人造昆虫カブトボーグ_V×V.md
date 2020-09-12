@@ -704,7 +704,7 @@
   - アニメーションプロデューサー - Jung Du Yeol、杉山敦夫（第1話 - 第3話）→麻生一宏（第4話 - 第52話）、木川田清一
   - プロデューサー - Jung kwang myung、成毛克憲、山崎立士
   - プロデューサー補 - 馬場晶子
-  - エグゼクティブ・プロデューサー - Lim Jai Boem、望月敬一郎、滝山雅夫、松下洋子、沢田雅也
+  - エグゼクティブ・プロデューサー - Lim Jai Boem、望月敬一郎、[滝山雅夫](https://ja.wikipedia.org/wiki/滝山雅夫 "wikilink")、松下洋子、沢田雅也
   - アニメーション制作 - G\&G（[G\&G Entertainment](../Page/G&G_Entertainment.md "wikilink")、[G\&G Direction](../Page/G&G_Direction.md "wikilink")）
   - アニメーション制作協力 - [NAS](../Page/日本アドシステムズ.md "wikilink")
   - 製作 - カブトボーグ製作委員会（RYUNI、[ソニー・ピクチャーズエンタテインメント](../Page/ソニー・ピクチャーズ_エンタテインメント_\(日本\).md "wikilink")、[NAS](../Page/日本アドシステムズ.md "wikilink")、[タカラトミー](../Page/タカラトミー.md "wikilink")）

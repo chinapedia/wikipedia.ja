@@ -104,7 +104,7 @@
   - [高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")（2016年）※
   - [水樹奈々](../Page/水樹奈々.md "wikilink")（2016年）※
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")（2017年）
-  - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")（2017年）
+  - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")（2017年）※
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")（2017年）※
   - [生田絵梨花](https://ja.wikipedia.org/wiki/生田絵梨花 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）（2017年）
   - [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")（2018年）※

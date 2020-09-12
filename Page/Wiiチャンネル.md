@@ -1,7 +1,7 @@
 > この記事は[Wiiチャンネル](https://ja.wikipedia.org/wiki/Wiiチャンネル)から翻訳されています。
 
 
-**Wii**（ウィーチャンネル）とは、[任天堂](../Page/任天堂.md "wikilink")より販売されていた家庭用ゲーム機・[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")に内蔵もしくは追加可能な[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の総称である。各々のソフトは**チャンネル**と呼ばれる。
+**Wiiチャンネル**（ウィーチャンネル）とは、[任天堂](../Page/任天堂.md "wikilink")より販売されていた家庭用ゲーム機・[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")に内蔵もしくは追加可能な[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")の総称である。各々のソフトは**チャンネル**と呼ばれる。
 
 ## 概要
 

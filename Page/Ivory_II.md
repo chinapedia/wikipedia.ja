@@ -67,5 +67,5 @@
 [Category:今井美樹のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:今井美樹のベスト・アルバム "wikilink") [Category:1993年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1993年のベスト・アルバム "wikilink") [Category:フォーライフ・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフ・レコードのアルバム "wikilink") [Category:1993年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1993年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  [Miki's Affections アンソロジー 1986-2011ライナーノーツより](https://ja.wikipedia.org/wiki/Miki's_Affections_アンソロジー_1986-2011 "wikilink")
-2.  [今井美樹ベストアルバム50万枚突破](http://web.archive.org/web/20010315021849/http://www.sanspo.com/enter/music/m0004/top2000042809.html)、SANSPO.COM、2000年4月27日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+2.  [今井美樹ベストアルバム50万枚突破](https://web.archive.org/web/20010315021849/http://www.sanspo.com/enter/music/m0004/top2000042809.html)、SANSPO.COM、2000年4月27日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 3.  [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) の[作品データベース検索サービス](http://www2.jasrac.or.jp/eJwid/)（作品コード:0Q7-1097-0）による。TOM JOBIM とは[アントニオ・カルロス・ジョビン](../Page/アントニオ・カルロス・ジョビン.md "wikilink")の別名である。ジョビンの「ESTE SEU OLHAR」という楽曲のカバーと思われる。本アルバム及びアルバム『Lluvia』、シングル「PIECE OF MY WISH」には「作詞: 今井美樹、作曲:[かまやつひろし](../Page/かまやつひろし.md "wikilink")、編曲:佐藤準」と記載されていた。

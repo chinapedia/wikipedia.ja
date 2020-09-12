@@ -14,11 +14,16 @@
 ## 外部リンク
 
   - [HOSHIGAMI 公式サイト](http://www.arcsystemworks.jp/hg/)
+
   - [バトルファンタジア 公式サイト](http://www.arcsystemworks.jp/bf/)
+
   - [戦国絵札遊戯 不如帰-HOTOTOGISU-乱 公式サイト](http://www.irem.co.jp/official/hototogisu_ran/)
+
   - [スタジオPJ](http://www.studiopj.co.jp/index.html)
-  - [Yellow Tune Tracks ホームページ](http://yellowtunetracks.syncl.jp/)
+
+  -
   - [JAM STATION くまちゃんのアニメチックランド WEBラジオ番組](http://www.jam-st.ne.jp/ch0/ch0-kuma.html)
+
   - [まあちゅのてんぴぼし\~声優 大河内雅子のうふふな毎日\~ オフィシャルブログ](http://maachu.meblog.biz/)
 
 [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink")

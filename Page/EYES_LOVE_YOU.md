@@ -17,6 +17,8 @@
 
 1.  EYES LOVE YOU
     （作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") 作曲：[hide](https://ja.wikipedia.org/wiki/hide "wikilink")）
+      - hideが自宅で打ち込んできたリズムパターンをベーシックに制作が進められた\[1\]。
+      - 楽曲のアイディアが浮かんでも、打ち込んでいる時にアイディアが消えてしまうため、制作が進まないことに苛立ちを覚えたhideは本作を最後にhideが打ち込みに着手することはなくなった\[2\]。
 2.  OBLAAT
     （作詞・作曲：hide）
 3.  \- 91. (トラックごとに数秒間の無音)
@@ -34,3 +36,6 @@
 ## 脚注・出典
 
 [Category:1993年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1993年のデビュー・シングル "wikilink") [Category:Hideの楽曲](https://ja.wikipedia.org/wiki/Category:Hideの楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:hideが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hideが制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+
+1.  [ヤマハミュージックエンタテインメントホールディングス](../Page/ヤマハミュージックエンタテインメントホールディングス.md "wikilink")刊「君のいない世界 hideと過ごした2486日間の軌跡」[I.N.A](../Page/I.N.A.md "wikilink")著 26P-27P,55Pより。
+2.

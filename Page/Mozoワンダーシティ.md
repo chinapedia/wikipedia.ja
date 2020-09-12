@@ -7,15 +7,15 @@
 
 ## 概要
 
-1994年（平成6年）開業の**ワンダーシティ**（後の**[イオンモール名古屋ワンダーシティ](https://ja.wikipedia.org/wiki/イオンモール名古屋ワンダーシティ "wikilink")**、以下「イオン名古屋WC」と表記）の建て替え・改装店舗として、2009年にオープン\[1\]。イオン名古屋WCと同じく[三菱商事](../Page/三菱商事.md "wikilink")グループとイオンモール（[イオングループ](../Page/イオングループ.md "wikilink")）の共同で建て替えが行われた。
+[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）開業の**ワンダーシティ**（後の**[イオンモール名古屋ワンダーシティ](https://ja.wikipedia.org/wiki/イオンモール名古屋ワンダーシティ "wikilink")**、以下「イオン名古屋WC」と表記）の建て替え・改装店舗として、2009年にオープン\[1\]。イオン名古屋WCと同じく[三菱商事](../Page/三菱商事.md "wikilink")グループとイオンモール（[イオングループ](../Page/イオングループ.md "wikilink")）の共同で建て替えが行われた。
 
-10万[平方メートル](../Page/平方メートル.md "wikilink")を超す敷地に、[イオンと約](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")230の専門店からなる**本棟**（**店舗棟**）、[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")などからなる**シネマ棟**、[グンゼスポーツクラブ](https://ja.wikipedia.org/wiki/グンゼスポーツクラブ "wikilink")などからなる**スポーツ棟**で構成され、愛知県内の郊外型SCとして最大級の規模を誇る。2013年（平成25年）2月現在の総賃貸面積は101,000mであり、2013年（平成25年）末時点でイオンモールの中ではレイクタウン、幕張新都心に次ぐ3番目と、最大クラスのグループに入る\[2\]。
+10万[平方メートル](../Page/平方メートル.md "wikilink")を超す敷地に、[イオンと約](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")230の専門店からなる**本棟**（**店舗棟**）、[イオンシネマ](https://ja.wikipedia.org/wiki/イオンシネマ "wikilink")などからなる**シネマ棟**、[グンゼスポーツクラブ](https://ja.wikipedia.org/wiki/グンゼスポーツクラブ "wikilink")などからなる**スポーツ棟**で構成され、愛知県内の郊外型SCとして最大級の規模を誇る。[2013年](../Page/2013年.md "wikilink")（平成25年）2月現在の総賃貸面積は101,000mであり、2013年（平成25年）末時点でイオンモールの中ではレイクタウン、幕張新都心に次ぐ3番目と、最大クラスのグループに入る\[2\]。
 
-開設時からLED光源の積極活用や壁面緑化など、環境配慮の設備を取り入れており、2010年（平成22年）9月には、壁面緑化で都市緑化技術開発機構の第9回屋上・壁面・特殊緑化技術コンクールの国土交通大臣賞を受賞している\[3\]。また、2014年（平成26年）11月11日には商業施設REITで初の"DBJ Green Building"認証を取得した\[4\]。
+開設時からLED光源の積極活用や壁面緑化など、環境配慮の設備を取り入れており、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）9月には、壁面緑化で都市緑化技術開発機構の第9回屋上・壁面・特殊緑化技術コンクールの国土交通大臣賞を受賞している\[3\]。また、2014年（平成26年）11月11日には商業施設REITで初の"DBJ Green Building"認証を取得した\[4\]。
 
 ### 周辺環境
 
-[名古屋環状2号線](../Page/名古屋環状2号線.md "wikilink")（[名古屋第二環状自動車道](https://ja.wikipedia.org/wiki/名古屋第二環状自動車道 "wikilink")および[国道302号](../Page/国道302号.md "wikilink")）に隣接しているほか、[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")・[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink") [上小田井駅](../Page/上小田井駅.md "wikilink")から徒歩5分、[東海交通事業](../Page/東海交通事業.md "wikilink")[城北線](https://ja.wikipedia.org/wiki/東海交通事業城北線 "wikilink") [小田井駅](../Page/小田井駅.md "wikilink")より徒歩7分の場所にある。
+[名古屋環状2号線](../Page/名古屋環状2号線.md "wikilink")（[名古屋第二環状自動車道](https://ja.wikipedia.org/wiki/名古屋第二環状自動車道 "wikilink")および[国道302号](../Page/国道302号.md "wikilink")）に隣接しているほか、[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")・[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink") [上小田井駅](../Page/上小田井駅.md "wikilink")から徒歩5分、[東海交通事業](../Page/東海交通事業.md "wikilink")[城北線](https://ja.wikipedia.org/wiki/東海交通事業城北線 "wikilink") [小田井駅](../Page/小田井駅.md "wikilink")より徒歩7分の場所にある。
 
 周辺にはマンションや住宅地が多く、元来は工業地域であるため、[山崎製パン](../Page/山崎製パン.md "wikilink")の名古屋工場などとも隣接・近接している。
 
@@ -29,7 +29,7 @@
 
 ## 歴史
 
-  - 2007年（平成19年）
+  - 2007年（[平成](../Page/平成.md "wikilink")19年）
 
 <!-- end list -->
 
@@ -100,14 +100,17 @@
 
 <!-- end list -->
 
-  - 2020年（令和2年）
+  - 2020年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）
 
 <!-- end list -->
 
   - 3月2日 - この日より営業時間が短縮される\[17\]。
 
 
-\== 店舗構成 == [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_06.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_05.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_04.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AEON_Wonder_City_Shopping_Center_03.JPG "wikilink") [Mozo_Wondercity-Westentrance.jpg](https://ja.wikipedia.org/wiki/File:Mozo_Wondercity-Westentrance.jpg "fig:Mozo_Wondercity-Westentrance.jpg")
+
+## 店舗構成
+
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_06.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_05.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_04.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AEON_Wonder_City_Shopping_Center_03.JPG "wikilink") [Mozo_Wondercity-Westentrance.jpg](https://ja.wikipedia.org/wiki/File:Mozo_Wondercity-Westentrance.jpg "fig:Mozo_Wondercity-Westentrance.jpg")
 
 本棟はイオンスタイルワンダーシティ店を核店舗として、準核店舗に[東急ハンズ](../Page/東急ハンズ.md "wikilink") 、[OPA](../Page/OPA.md "wikilink")（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink")・[島村楽器](../Page/島村楽器.md "wikilink")・[新星堂](../Page/新星堂.md "wikilink")などが入居）、[ACTUS](https://ja.wikipedia.org/wiki/アクタス_\(家具・インテリア\) "wikilink")、[ZARA](../Page/ザラ_\(ファッションブランド\).md "wikilink")、[PETEMO](https://ja.wikipedia.org/wiki/イオンペット "wikilink") 、[セガ](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ユニクロ](../Page/ユニクロ.md "wikilink")、[niko and...](https://ja.wikipedia.org/wiki/niko_and... "wikilink")、[無印良品](https://ja.wikipedia.org/wiki/良品計画 "wikilink")、[Francfranc](../Page/Francfranc.md "wikilink")、[スポーツデポ](https://ja.wikipedia.org/wiki/スポーツDEPO "wikilink")、[ザ・ダイソーなどが入居している](https://ja.wikipedia.org/wiki/大創産業 "wikilink")。専門店街は各階層ごとに業種や取扱い品目が分けられ、1階が衣料品・食品、2階は衣料品、3階は子供・家族関連、4階はスポーツや文化関連となっている。
 
@@ -127,7 +130,7 @@
 
 パークアンドライドを推進。名鉄・地下鉄各駅周辺の指定駐車場から公共交通を利用した場合、買い物金額に応じて駐車料金を助成する制度を実施している。また、[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")で上小田井駅まで公共交通を利用した場合は「mozoエコポイント」を進呈し、基準数に達した場合は交通費を助成する制度も実施している。
 
-  - [名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")・[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink")
+  - [名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")[犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")・[名古屋市営地下鉄](../Page/名古屋市営地下鉄.md "wikilink")[鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink")
 
 <!-- end list -->
 
@@ -177,9 +180,7 @@
 
 ### 名古屋市届出関係
 
-  - 大規模小売店舗立地法による届出公示
-
-<!-- end list -->
+#### 大規模小売店舗立地法による届出公示
 
   - [平成19年度1＝シネマ棟のみ仮店舗として営業](http://www.city.nagoya.jp/shiminkeizai/page/0000000245.html)
   - [平成19年度2＝旧SC廃止](http://www.city.nagoya.jp/shiminkeizai/page/0000000429.html)
@@ -190,11 +191,7 @@
   - [平成21年度2＝旧ワンダーシティシネマ棟新SCのシネマ棟として統合](http://www.city.nagoya.jp/shiminkeizai/page/0000008379.html)
   - [平成21年度3＝新SC営業時間変更](http://www.city.nagoya.jp/shiminkeizai/page/0000008380.html)
 
-<!-- end list -->
-
-  - 地域貢献実施状況報告書
-
-<!-- end list -->
+#### 地域貢献実施状況報告書
 
   -
 [Category:名古屋市のショッピングセンター](https://ja.wikipedia.org/wiki/Category:名古屋市のショッピングセンター "wikilink") [Category:名古屋市西区の建築物](https://ja.wikipedia.org/wiki/Category:名古屋市西区の建築物 "wikilink") [Category:三菱商事](https://ja.wikipedia.org/wiki/Category:三菱商事 "wikilink") [Category:イオンモール](https://ja.wikipedia.org/wiki/Category:イオンモール "wikilink") [Category:2009年開業の施設](https://ja.wikipedia.org/wiki/Category:2009年開業の施設 "wikilink")

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")の[博士課程](https://ja.wikipedia.org/wiki/博士課程 "wikilink")に在籍していた[ラリー・ペイジ](../Page/ラリー・ペイジ.md "wikilink")と[セルゲイ・ブリン](../Page/セルゲイ・ブリン.md "wikilink")によって創業され、現在でも2人合わせて16％の株式を保有している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月27日に非公開の会社として設立され、2004年8月19日に最初の[株式公開](../Page/株式公開.md "wikilink")がされた。「世界中の情報を整理し、世界中の人々がアクセスできて使えるようにすること」を経営理念（ミッション・ステートメント）に掲げている\[6\]。非公式なスローガン（従業員行動基準）には「邪悪になるな (Don't be evil.)」がある\[7\]。[2006年](../Page/2006年.md "wikilink")、本社を[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[マウンテンビュー](../Page/マウンテンビュー.md "wikilink")に移した。移転後の本社は[Googleplex](https://ja.wikipedia.org/wiki/Googleplex "wikilink")（グーグルプレックス）という愛称で呼ばれている。
+[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")の[博士課程](https://ja.wikipedia.org/wiki/博士課程 "wikilink")に在籍していた[ラリー・ペイジ](../Page/ラリー・ペイジ.md "wikilink")と[セルゲイ・ブリン](../Page/セルゲイ・ブリン.md "wikilink")によって創業され、現在でも2人合わせて16％の株式を保有している。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月27日に非公開の会社として設立され、2004年8月19日に最初の[株式公開](../Page/株式公開.md "wikilink")がされた。「世界中の情報を整理し、世界中の人々がアクセスできて使えるようにすること」を経営理念（ミッション・ステートメント）に掲げている\[6\]。非公式なスローガン（従業員行動基準）には「邪悪になるな（Don't be evil.）」がある\[7\]。[2006年](../Page/2006年.md "wikilink")、本社を[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[マウンテンビュー](../Page/マウンテンビュー.md "wikilink")に移した。移転後の本社は[Googleplex](https://ja.wikipedia.org/wiki/Googleplex "wikilink")（グーグルプレックス）という愛称で呼ばれている。
 
 検索エンジン以外の分野に踏み出す一連の製品、[M\&A](../Page/M&A.md "wikilink")、パートナーシップを開始したときから急激な成長が始まったとされ、プロダクティビティ・ソフトであるEメール ([Gmail](../Page/Gmail.md "wikilink"))、オンライン・[オフィススイート](../Page/オフィススイート.md "wikilink")（[Google ドキュメント](../Page/Google_ドキュメント.md "wikilink")）、[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")製品である[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")（[Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")）、写真管理・編集ソフトウェア、[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")といった[アプリケーションが含まれている](../Page/アプリケーションソフトウェア.md "wikilink")。また、[モバイルOSの](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")[Android](../Page/Android.md "wikilink")と、 [Chromebook](https://ja.wikipedia.org/wiki/Chromebook "wikilink")として知られている[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")用のブラウザに特化した[Google Chrome OS](https://ja.wikipedia.org/wiki/Google_Chrome_OS "wikilink")\[8\] の開発をリードしている。
 
@@ -31,7 +31,7 @@
 
 当初、ペイジとブリンは「広告収入に頼る検索エンジン」に反対する姿勢を示していたが、2000年にGoogleは検索されたキーワードと関係のある広告を表示するサービスを開始した\[47\]\[48\]。整然としたページデザインを維持するため、表示されるのはテキストベースの広告のみとされた\[49\]。
 
-検索キーワードに応じた広告を表示し、広告収入を得るというビジネスモデルを最初に開拓したのは、が設立したGoTo.comだった\[50\]\[51\]。GoTo.comの後身であるOverture Services社は、同社が保有する[ペイ・パー・クリック](https://ja.wikipedia.org/wiki/ペイ・パー・クリック "wikilink")技術ならびに各キーワードごとに広告をオークション形式で販売する技法について、Googleが特許を侵害しているとして訴訟を起こした。その後、Overture Services社はYahoo\! によって買収され、「」と改称された。2004年8月9日、両社は和解に至り、Yahoo\!がGoogleに問題の特許を無期限でライセンスする見返りとして、GoogleはYahoo\!に対して270万株のクラスA普通株を発行することに合意した\[52\]。
+検索キーワードに応じた広告を表示し、広告収入を得るというビジネスモデルを最初に開拓したのは、が設立した[GoTo.com](https://GoTo.com)だった\[50\]\[51\]。GoTo.comの後身であるOverture Services社は、同社が保有する[ペイ・パー・クリック](https://ja.wikipedia.org/wiki/ペイ・パー・クリック "wikilink")技術ならびに各キーワードごとに広告をオークション形式で販売する技法について、Googleが特許を侵害しているとして訴訟を起こした。その後、Overture Services社はYahoo\! によって買収され、「」と改称された。2004年8月9日、両社は和解に至り、Yahoo\!がGoogleに問題の特許を無期限でライセンスする見返りとして、GoogleはYahoo\!に対して270万株のクラスA普通株を発行することに合意した\[52\]。
 
 2001年、Googleの[PageRank](https://ja.wikipedia.org/wiki/PageRank "wikilink")技術についての特許申請が受理された\[53\]。PageRankについての特許は公式にスタンフォード大学に帰属するものとされ、ローレンス・ペイジ （ラリー・ペイジの本名）が発明者として記載された。会社の規模が成長し、従来の2つの拠点では不十分となったことで、Googleは2003年、カリフォルニア州[マウンテンビュー](../Page/マウンテンビュー.md "wikilink")アンフィシアター・パークウェイ1600番に位置する[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")所有のオフィスビルをリースした\[54\]。このオフィスビルは「[Googleplex](https://ja.wikipedia.org/wiki/Googleplex "wikilink")（グーグルプレックス）」と呼ばれるようになったが、この名称は[グーゴルプレックス](../Page/グーゴルプレックス.md "wikilink")（googolplex）という数の単位（1グーゴルプレックスは1の後に0が1[グーゴル](../Page/グーゴル.md "wikilink")個連なった値）の言葉遊びだった。2006年、Googleはこの物件を3億1900万ドルでシリコングラフィックス社から買い取った\[55\]。
 
@@ -129,7 +129,7 @@ IPO後、Googleの株価は順調に上昇し、2007年10月31日には株価が
       - [4月13日](../Page/4月13日.md "wikilink") - 広告会社の[ダブルクリック社を](../Page/ダブルクリック_\(企業\).md "wikilink")31億ドル（約2800億円）で買収した\[122\]\[123\]\[124\]。
       - 5月 - 画像共有サイト[Panoramio](https://ja.wikipedia.org/wiki/Panoramio "wikilink")を買収した\[125\]。
       - [6月1日](../Page/6月1日.md "wikilink") - RSSサービスの[FeedBurner](https://ja.wikipedia.org/wiki/FeedBurner "wikilink")社を買収した\[126\]。
-      - [10月9日](../Page/10月9日.md "wikilink") - モバイルサービス企業のJaikuを買収した\[127\]。
+      - [10月9日](../Page/10月9日.md "wikilink") - ミニブログサービスの[Jaiku](https://ja.wikipedia.org/wiki/Jaiku "wikilink")を買収した\[127\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月24日](../Page/1月24日.md "wikilink") - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と提携した\[128\]。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - [1月14日](../Page/1月14日.md "wikilink") - Googleは、[Googleビデオ](https://ja.wikipedia.org/wiki/Googleビデオ "wikilink")、Google Notebook、Google Catalog Search、Jaiku、Dodgeball、Mashup Editorのサービスを終了する事を発表した\[129\]。
@@ -190,7 +190,7 @@ IPO後、Googleの株価は順調に上昇し、2007年10月31日には株価が
 <!-- end list -->
 
   - 2019年
-      - 6月6日-データ分析会社lockerを26億ドルで買収。\[181\]
+      - 6月6日-データ分析会社lookerを26億ドルで買収。\[181\]
 
 ### 社風
 
@@ -388,7 +388,7 @@ Googleが開発したAndroidが、[オラクルのプログラミング言語](.
 
 ### 重労働
 
-米[ブルームバーグ](https://ja.wikipedia.org/wiki/ブルームバーグ "wikilink")・ビジネスウィークのインタビューで､Googleの20人目の従業員である[マリッサ･メイヤーは](https://ja.wikipedia.org/wiki/マリッサ・メイヤー "wikilink")､Googleを語る上でハードワークの価値が無視されがちであると述べた\[287\]｡彼女によると､Googleは｢週130時間働けるか?｣という世界であり､寝る時間とシャワーの時間､トイレに行く回数をコントロールすれば可能だという｡また､Googleにナップルームがある理由として､午後3時に家に歩いて帰るよりも会社にいるほうが安全という理由を挙げて､自身も1週間に1度は徹夜をしていたことを明かした｡
+米[ブルームバーグ](../Page/ブルームバーグ_\(企業\).md "wikilink")・ビジネスウィークのインタビューで､Googleの20人目の従業員である[マリッサ･メイヤーは](https://ja.wikipedia.org/wiki/マリッサ・メイヤー "wikilink")､Googleを語る上でハードワークの価値が無視されがちであると述べた\[287\]｡彼女によると､Googleは｢週130時間働けるか?｣という世界であり､寝る時間とシャワーの時間､トイレに行く回数をコントロールすれば可能だという｡また､Googleにナップルームがある理由として､午後3時に家に歩いて帰るよりも会社にいるほうが安全という理由を挙げて､自身も1週間に1度は徹夜をしていたことを明かした｡
 
 ### 競合製品への妨害行為
 
@@ -397,6 +397,10 @@ Googleが開発するウェブブラウザのChromeと、Mozillaが開発するF
 ### 2020年の「トランプ的状況」阻止のためのGoogle社幹部の共謀計画の内部告発
 
 プロジェクト・ベリタスはGoogle幹部の隠し撮りビデオ、リーク文章、Google内部関係者の証言が含まれるレポートを公開した\[292\]。その内部関係者の告発によると、Googleはドナルド・トランプのような者を再び権力の座に就かせまいと躍起になっている状況で、グーグルがどのようにニュースを公開するかを決める「編集」方針を示しているとみられるリーク文章では、「機械学習の公正さ」と検索結果を「公正かつ公平」にするためのグーグルの活動を強調している。また、PragerU（プレガー・ユニバーシティ）とデイブ・ルービンのコンテンツは、「右翼」として標的にされ抑制されている。しかし、これらは230条の通信品位法(Communications Decency Act)の「法律の条文」と「法律の精神」に違反していると内部関係者は言う。
+
+### Epic Gamesからの訴訟問題
+
+[2020年](../Page/2020年.md "wikilink")[8月](../Page/8月.md "wikilink")に[Apple](../Page/アップル_\(企業\).md "wikilink")、Googleが規約違反として[App Store](../Page/App_Store.md "wikilink")、[Google Playから](https://ja.wikipedia.org/wiki/Google_Play "wikilink")[Fortnite](https://ja.wikipedia.org/wiki/Fortnite "wikilink")を削除した事から始まる。その後、[Epic GamesがAppleとGoogleに対し訴訟を起こした](../Page/Epic_Games.md "wikilink")。\[293\]\[294\]
 
 ## その他
 
@@ -413,24 +417,24 @@ Googleが開発するウェブブラウザのChromeと、Mozillaが開発するF
 #### 英語
 
   -
-    英語圏では「（広義では他の含めたすべての）検索エンジンで検索する」という意味の[動詞](../Page/動詞.md "wikilink")として使われることが多くなっている（[:en:Google (verb)](https://ja.wikipedia.org/wiki/:en:Google_\(verb\) "wikilink")）。2003年には、アメリカ方言学会が、この単語が広く使われている動詞であると正式に認めた\[293\] 。2006年7月6日、Merriam-Websterが発表した辞書の最新版では、動詞としての意味「WWWの情報を得るためにGoogleの検索エンジンを利用する」で掲載された。なお、Google側は[商標の普通名称化](../Page/商標の普通名称化.md "wikilink")を招くとしてこの用法に抗議していた\[294\]が、2015年のロゴ変更時にYouTubeで公開されたオフィシャル動画では、動詞となったGoogleを紹介している[1](https://www.youtube.com/watch?v=olFEpeMwgHk)。
+    英語圏では「（広義では他の含めたすべての）検索エンジンで検索する」という意味の[動詞](../Page/動詞.md "wikilink")として使われることが多くなっている（[:en:Google (verb)](https://ja.wikipedia.org/wiki/:en:Google_\(verb\) "wikilink")）。2003年には、アメリカ方言学会が、この単語が広く使われている動詞であると正式に認めた\[295\] 。2006年7月6日、Merriam-Websterが発表した辞書の最新版では、動詞としての意味「WWWの情報を得るためにGoogleの検索エンジンを利用する」で掲載された。なお、Google側は[商標の普通名称化](../Page/商標の普通名称化.md "wikilink")を招くとしてこの用法に抗議していた\[296\]が、2015年のロゴ変更時にYouTubeで公開されたオフィシャル動画では、動詞となったGoogleを紹介している[1](https://www.youtube.com/watch?v=olFEpeMwgHk)。
 
   -
 
-    として名詞化された言葉は、もともとの「検索する」という意味合いから派生し、特に「他人の氏名で検索する」場合を指すことが多くなった\[295\]。
+    として名詞化された言葉は、もともとの「検索する」という意味合いから派生し、特に「他人の氏名で検索する」場合を指すことが多くなった\[297\]。
 
 #### スウェーデン語
 
   -
-    「検索エンジンを使っても目的のものを見つけられない」という意味である\[296\]。
+    「検索エンジンを使っても目的のものを見つけられない」という意味である\[298\]。
 
 #### 日本語
 
 **ググる**（[五段活用](../Page/五段活用.md "wikilink")動詞）
 
   -
-    基本的には、「googleを使って検索する」という意味で使用される\[297\]が、その他検索エンジンを使った検索においても使われる場合がある。[Yahoo\! JAPANで検索する場合は](../Page/Yahoo!_JAPAN.md "wikilink")「ヤフる」を用いる場合があるが、「[ヤフーでググって](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")」という言い方も[ジョーク](../Page/ジョーク.md "wikilink")で言われていた。また、「普通にウェブ検索しろという」意味で、一般動詞として使われるようになっているが、これに対しては、上記の[英語での派生語の使用と同様](https://ja.wikipedia.org/wiki/#英語 "wikilink")『[商標の普通名称化](../Page/商標の普通名称化.md "wikilink")の懸念』から、google側は「グーグルとその関連サービスのみに使うべきである」と明言している\[298\]。
-    また、そこから派生した語に[2ちゃんねる用語](https://ja.wikipedia.org/wiki/2ちゃんねる用語 "wikilink")で「ググれカス」がある（子音だけを並べて「ggrks」と略表記されることもある）\[299\]。元来は[電子掲示板](../Page/電子掲示板.md "wikilink")の[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")上で、つまらない質問に対する返信として書き込まれたものである。
+    基本的には、「googleを使って検索する」という意味で使用される\[299\]が、その他検索エンジンを使った検索においても使われる場合がある。[Yahoo\! JAPANで検索する場合は](../Page/Yahoo!_JAPAN.md "wikilink")「ヤフる」を用いる場合があるが、「[ヤフーでググって](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")」という言い方も[ジョーク](../Page/ジョーク.md "wikilink")で言われていた。また、「普通にウェブ検索しろという」意味で、一般動詞として使われるようになっているが、これに対しては、上記の[英語での派生語の使用と同様](https://ja.wikipedia.org/wiki/#英語 "wikilink")『[商標の普通名称化](../Page/商標の普通名称化.md "wikilink")の懸念』から、google側は「グーグルとその関連サービスのみに使うべきである」と明言している\[300\]。
+    また、そこから派生した語に[2ちゃんねる用語](https://ja.wikipedia.org/wiki/2ちゃんねる用語 "wikilink")で「ググれカス」がある（子音だけを並べて「ggrks」と略表記されることもある）\[301\]。元来は[電子掲示板](../Page/電子掲示板.md "wikilink")の[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")上で、つまらない質問に対する返信として書き込まれたものである。
 
 ## 脚注
 
@@ -461,12 +465,11 @@ Googleが開発するウェブブラウザのChromeと、Mozillaが開発するF
   - [検索連動型広告](../Page/検索連動型広告.md "wikilink")
   - [コンテンツ連動型広告](https://ja.wikipedia.org/wiki/コンテンツ連動型広告 "wikilink")
   - [Amazon.com](../Page/Amazon.com.md "wikilink")
+  - [:en:Dragonfly (search engine)](https://ja.wikipedia.org/wiki/:en:Dragonfly_\(search_engine\) "wikilink") - Googleがかつて提供していた[中国](../Page/中国.md "wikilink")向けの[検閲](../Page/検閲.md "wikilink")機能付き[検索エンジン](../Page/検索エンジン.md "wikilink")のプロトタイプ
 
 ## 外部リンク
 
   - [Google](https://www.google.co.jp/)
-
-  - [概要 | Google](https://about.google/)
 
   - [The Keyword | Google](https://blog.google/)
 
@@ -774,10 +777,12 @@ Googleが開発するウェブブラウザのChromeと、Mozillaが開発するF
 290.
 291.
 292.
-293. 『プラネット・グーグル』
+293.
 294.
-295.
-296. <http://www.itworld.com/it-management/349757/swedish-language-council-removes-ogooglebar-after-pressure-google>
-297. 実際の使用例として[2](http://web.archive.org/web/20200401094256/http://www.asahi.com/articles/ASN306G4LN30ULZU00Y.html)
-298.
-299.
+295. 『プラネット・グーグル』
+296.
+297.
+298. <http://www.itworld.com/it-management/349757/swedish-language-council-removes-ogooglebar-after-pressure-google>
+299. 実際の使用例として[2](http://web.archive.org/web/20200401094256/http://www.asahi.com/articles/ASN306G4LN30ULZU00Y.html)
+300.
+301.

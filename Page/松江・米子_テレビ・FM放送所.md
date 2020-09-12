@@ -9,7 +9,7 @@
 
 またNHKはそれぞれ松江放送局（親局）が鳥取県境港市の全域並びに松江市、出雲市、安来市、雲南市及び鳥取県米子市の各一部17万8660世帯で、鳥取放送局（米子中継局）が鳥取県境港市及び日吉津村の全域並びに鳥取県米子市、大山町、伯耆町、島根県松江市及び安来市の各一部、1万6836世帯である。
 
-NHKは[県域放送](../Page/県域放送.md "wikilink")となっていることから、ここに置かれているNHK松江・鳥取のデジタルテレビはそれぞれ相手県に電波が飛ばないよう、指向性が設けられている。しかし[松江と米子の電波事情もあり完全なものではないため島根県安来市や松江市の](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")[中海](../Page/中海.md "wikilink")沿岸、鳥取県境港市や米子市周辺ではNHK松江・鳥取両局が視聴でき、周辺の[CATV局のうち](../Page/ケーブルテレビ.md "wikilink")[やすぎどじょっこテレビと](../Page/山陰ケーブルビジョン.md "wikilink")[中海テレビ放送](../Page/中海テレビ放送.md "wikilink")に至ってはその両局の[総合テレビを](../Page/NHK総合テレビジョン.md "wikilink")[パススルー再送信する程である](https://ja.wikipedia.org/wiki/ケーブルテレビ#パススルー方式 "wikilink")（[NHK総合の2局再放送](https://ja.wikipedia.org/wiki/区域外再放送#NHK総合の2局再放送 "wikilink")）。
+NHKは[県域放送](../Page/県域放送.md "wikilink")となっていることから、ここに置かれているNHK松江・鳥取のデジタルテレビはそれぞれ相手県に電波が飛ばないよう、指向性が設けられている。しかし[松江と米子の電波事情もあり完全なものではないため島根県安来市や松江市の](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")[中海](../Page/中海.md "wikilink")沿岸、鳥取県境港市や米子市周辺ではNHK松江・鳥取両局が視聴でき、周辺の[CATV局のうち](../Page/ケーブルテレビ.md "wikilink")、[やすぎどじょっこテレビと](../Page/山陰ケーブルビジョン.md "wikilink")[中海テレビ放送](../Page/中海テレビ放送.md "wikilink")に至ってはその両局の[総合テレビを](../Page/NHK総合テレビジョン.md "wikilink")[パススルー再送信する程である](https://ja.wikipedia.org/wiki/ケーブルテレビ#パススルー方式 "wikilink")（[NHK総合の2局再放送](https://ja.wikipedia.org/wiki/区域外再放送#NHK総合の2局再放送 "wikilink")）。
 
 ## 歴史
 
@@ -197,13 +197,13 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 <td><p>081<br />
 082<br />
 681</p></td>
-<td><p>TSK<a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a></p></td>
+<td><p>TSK<a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">さんいん中央テレビ</a></p></td>
 <td><p>JOMI-DTV</p></td>
 <td><p>43</p></td>
 <td><p>6kW</p></td>
-<td><p>山陰中央テレビ×</p></td>
+<td><p>さんいん中央テレビ×</p></td>
 <td></td>
-<td><p>山陰中央テレビ携帯</p></td>
+<td><p>さんいん中央テレビ携帯</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -368,7 +368,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
   - [山陰中央テレビジョン放送](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")
   - [エフエム山陰](../Page/エフエム山陰.md "wikilink")
 
-[Category:島根県の山](https://ja.wikipedia.org/wiki/Category:島根県の山 "wikilink") [Category:島根県の放送送信所](https://ja.wikipedia.org/wiki/Category:島根県の放送送信所 "wikilink") [Category:鳥取県の放送送信所](https://ja.wikipedia.org/wiki/Category:鳥取県の放送送信所 "wikilink") [Category:域外中継局](https://ja.wikipedia.org/wiki/Category:域外中継局 "wikilink") [Category:松江市の建築物](https://ja.wikipedia.org/wiki/Category:松江市の建築物 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:日本海テレビ](https://ja.wikipedia.org/wiki/Category:日本海テレビ "wikilink") [Category:山陰放送](https://ja.wikipedia.org/wiki/Category:山陰放送 "wikilink") [Category:山陰中央テレビジョン放送](https://ja.wikipedia.org/wiki/Category:山陰中央テレビジョン放送 "wikilink") [Category:エフエム山陰](https://ja.wikipedia.org/wiki/Category:エフエム山陰 "wikilink")
+[Category:島根県の放送送信所](https://ja.wikipedia.org/wiki/Category:島根県の放送送信所 "wikilink") [Category:鳥取県の放送送信所](https://ja.wikipedia.org/wiki/Category:鳥取県の放送送信所 "wikilink") [Category:域外中継局](https://ja.wikipedia.org/wiki/Category:域外中継局 "wikilink") [Category:松江市の建築物](https://ja.wikipedia.org/wiki/Category:松江市の建築物 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:日本海テレビ](https://ja.wikipedia.org/wiki/Category:日本海テレビ "wikilink") [Category:山陰放送](https://ja.wikipedia.org/wiki/Category:山陰放送 "wikilink") [Category:山陰中央テレビジョン放送](https://ja.wikipedia.org/wiki/Category:山陰中央テレビジョン放送 "wikilink") [Category:エフエム山陰](https://ja.wikipedia.org/wiki/Category:エフエム山陰 "wikilink")
 
 1.  [BSS松江FM開局（10月1日～）/山陰放送](http://www.bss.jp/util/entry/23654.html)、2018年10月5日閲覧。
 2.

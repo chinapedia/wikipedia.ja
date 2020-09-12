@@ -158,6 +158,6 @@
 
 ## 外部リンク
 
-  - [たまソフト公式ページ内『LOST CHILD』紹介ページのInternet Archiveキャッシュ](http://web.archive.org/web/20081209104227/www.tama-soft.com/products/lost_child/) ※18歳未満閲覧禁止
+  - [たまソフト公式ページ内『LOST CHILD』紹介ページのInternet Archiveキャッシュ](https://web.archive.org/web/20081209104227/www.tama-soft.com/products/lost_child/) ※18歳未満閲覧禁止
 
 [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink")

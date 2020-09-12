@@ -7,7 +7,7 @@
 
 ## 概要
 
-今作は、the brilliant greenのボーカル、川瀬智子が展開する「Tommy february<sup>6</sup>」のダークサイドキャラクター「Tommy heavenly<sup>6</sup>」のファースト・フルアルバムである。今作の構想はTommy february<sup>6</sup>でリリースしたシングル「[je t'aime★je t'aime](https://ja.wikipedia.org/wiki/je_t'aime★je_t'aime "wikilink")」の製作時から考えられており、「[♥KISS♥ ONE MORE TIME](https://ja.wikipedia.org/wiki/KISS_ONE_MORE_TIME "wikilink")」のリリース以降に発売したシングルは切ない曲調が続き、デビューシングル「[EVERYDAY AT THE BUS STOP](../Page/EVERYDAY_AT_THE_BUS_STOP.md "wikilink")」の様な明るいポップな曲調をリリースしたいと構想を練っていた。 川瀬自身もTommy february<sup>6</sup>とは違うもう一つのプロジェクトをしたいと考えていたので「Tommy february<sup>6</sup>」のダークサイド「Tommy heavenly<sup>6</sup>」プロジェクトをスタートした。
+今作は、the brilliant greenのボーカル、川瀬智子が展開する「Tommy february<sup>6</sup>」のダークサイドキャラクター「Tommy heavenly<sup>6</sup>」のファースト・フルアルバムである。今作の構想はTommy february<sup>6</sup>でリリースしたシングル「[je t'aime★je t'aime](https://ja.wikipedia.org/wiki/je_t'aime★je_t'aime "wikilink")」の製作時から考えられており、「[♥KISS♥ ONE MORE TIME](https://ja.wikipedia.org/wiki/♥KISS♥_ONE_MORE_TIME "wikilink")」のリリース以降に発売したシングルは切ない曲調が続き、デビューシングル「[EVERYDAY AT THE BUS STOP](../Page/EVERYDAY_AT_THE_BUS_STOP.md "wikilink")」の様な明るいポップな曲調をリリースしたいと構想を練っていた。 川瀬自身もTommy february<sup>6</sup>とは違うもう一つのプロジェクトをしたいと考えていたので「Tommy february<sup>6</sup>」のダークサイド「Tommy heavenly<sup>6</sup>」プロジェクトをスタートした。
 
 「Tommy heavenly<sup>6</sup>」のコンセプトは自身もファンである[マリリン・マンソン](../Page/マリリン・マンソン.md "wikilink")のゴシックなイメージをヴィジュアルに、曲に関しては[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")の様な[グランジ](../Page/グランジ.md "wikilink")や[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")な曲調で展開したく、[作曲者](https://ja.wikipedia.org/wiki/作曲者 "wikilink")にはそういった要望を出していた。
 

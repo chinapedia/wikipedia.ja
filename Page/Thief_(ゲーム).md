@@ -16,11 +16,11 @@ Eidos Montrealより最新作**Thief**が発売。プラットフォームはPS4
 ## 作品一覧
 
   - Thief: The Dark Project
-    1998年11月30日に発売したコンピュータゲームで本シリーズの第一作である。
+    1998年11月30日に発売したコンピュータゲームで本シリーズの第一作である。日本ではアイドスインタラクティブより日本語マニュアル付きのEIDOS AIR版が発売された。
   - Thief: Gold
     The Dark Projectの拡張版。3つの新たなマップが追加されている。本編のMapのグラフィックなどにも若干の改良が加えられている。日本では2000年12月1日に[メディアカイト](../Page/メディアカイト.md "wikilink")より日本語マニュアル付き(ソフト自体は英語版)が発売された。
   - Thief:2 The Metal Age
-    2000年2月29日に発売したコンピュータゲームで『Thief: The Dark Project』の続編。
+    2000年2月29日に発売したコンピュータゲームで『Thief: The Dark Project』の続編。日本では2000年5月26日にアイドスインタラクティブより日本語マニュアル付きのEIDOS AIR版が発売された。
   - Thief: The Deadly Shadows
     2004年5月25日に発売したコンピュータゲーム。
   - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")

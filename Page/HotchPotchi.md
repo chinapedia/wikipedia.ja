@@ -133,7 +133,7 @@
 
 <references />
 
-[Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
 
 1.  [オフィシャルブログ 2007年7月3日付記事「お知らせ」](http://ameblo.jp/hotch-potchi/entry-10038631050.html)
 2.  [スターダスト「ボーイズユニット」オーディション Vol.5](http://stardust-web.net/pc/news/07100101/07100101.html)

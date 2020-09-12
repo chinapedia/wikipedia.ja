@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作「[Fly Away](../Page/Fly_Away_\(EXILEの曲\).md "wikilink")」から2ヶ月ぶりのシングル。コーラスには[Skoop On Somebodyの](../Page/Skoop_On_Somebody.md "wikilink")[TAKEが参加](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")。なおヴォーカルディレクションも行っていた。
+前作『[Fly Away](https://ja.wikipedia.org/wiki/Fly_away_\(J_Soul_Brothersの曲\)#EXILEによるカバー "wikilink")』から2ヶ月ぶりのシングル。コーラスには[Skoop On Somebodyの](../Page/Skoop_On_Somebody.md "wikilink")[TAKEが参加](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")。なおヴォーカルディレクションも行っていた。
 
 ミュージックビデオにはTBS系『[学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")』のB-RAPハイスクールで人気を博した[軟式globe](../Page/軟式globe.md "wikilink")の[パーク・マンサーが出演している](../Page/三箇一稔.md "wikilink")。
 
@@ -20,17 +20,17 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE BALLAD BEST
         作詞：Kenn Kato / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
     <!-- end list -->
       - [Kanebo](../Page/カネボウ化粧品.md "wikilink")「REVUE」TVCMイメージソング
-2.  **song for you (Jonathan Peter's Club Mix)** \[8:47\]
+2.  **song for you**（Jonathan Peter's Club Mix） \[8:47\]
       -
         編曲：Jonathan Peters
     <!-- end list -->
       - 表題曲のリミックスバージョン
-3.  **song for you (Hex Hector Main Radio Mix)** \[4:21\]
+3.  **song for you**（Hex Hector Main Radio Mix） \[4:21\]
       -
         編曲：[Hex Hector](../Page/ヘックス・ヘクター.md "wikilink")
     <!-- end list -->
       - 表題曲のリミックスバージョン
-4.  **song for you (Hex Hector Main Club Mix)** \[8:55\]
+4.  **song for you**（Hex Hector Main Club Mix） \[8:55\]
       -
         編曲：Hex Hector
     <!-- end list -->

@@ -406,6 +406,10 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 </div>
 
+### 配信
+
+  - LIVE×ONLINE IMAGINATION（2020年9月25日、ABEMA）
+
 ## 出演
 
 ### テレビ
@@ -433,7 +437,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 ### ラジオ
 
-  - [GIRLS・GIRLS・GIRLS](https://ja.wikipedia.org/wiki/GIRLS・GIRLS・GIRLS "wikilink") =FULL BOOST=「Happy Talk」（2011年10月 - 2017年3月、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
+  - [GIRLS♥GIRLS♥GIRLS](https://ja.wikipedia.org/wiki/GIRLS♥GIRLS♥GIRLS "wikilink") =FULL BOOST=「Happy Talk」（2011年10月 - 2017年3月、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
 
 ## 脚注
 
@@ -449,7 +453,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
   -
   - [Happiness 公式ブログ - GREE](http://gree.jp/happiness_g)（2011年6月 - 2013年9月）
 
-[Category:Happiness](https://ja.wikipedia.org/wiki/Category:Happiness "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2008年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に結成した音楽グループ "wikilink")
+[Category:Happiness](https://ja.wikipedia.org/wiki/Category:Happiness "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:2008年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に結成した音楽グループ "wikilink")
 
 1.
 2.

@@ -38,7 +38,7 @@
 
 曲が完成した際にKREVAは音色を求めて街を彷徨う風景が浮かんだという。そこが[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではなくどこか[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の街だったといい、そのことをスタッフにそのことを話をした後に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")の街中での[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")の撮影が実現した。[大喜多正毅](../Page/大喜多正毅.md "wikilink")が監督を担当し、撮影は音源発売後の2019年2月の頭に行われ、2月の終わりに公開された\[3\]。
 
-2019年[3月3日](../Page/3月3日.md "wikilink")に[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")にて[生放送](../Page/生放送.md "wikilink")で配信された『[7.2 新しい別の窓](https://ja.wikipedia.org/wiki/7.2_新しい別の窓 "wikilink") \#12』にゲスト出演。[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")とコラボし、音色 〜2019 Ver.〜を披露した\[4\]。
+2019年[3月3日](../Page/3月3日.md "wikilink")に[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")にて[生放送](../Page/生放送.md "wikilink")で配信された『[7.2 新しい別の窓](https://ja.wikipedia.org/wiki/7.2_新しい別の窓 "wikilink") \#12』にゲスト出演。[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")とコラボし、音色 〜2019 Ver.〜を披露した\[4\]。
 
   - 収録曲
 

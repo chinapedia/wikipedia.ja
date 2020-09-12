@@ -50,7 +50,4 @@
 ## 外部リンク
 
   -
-  -
-  - [Focus on Athletes article](http://www.iaaf.org/news/athletes/newsid=45811.html) from IAAF
-
 [Category:南アフリカのハードル選手](https://ja.wikipedia.org/wiki/Category:南アフリカのハードル選手 "wikilink") [Category:南アフリカの男子陸上競技選手](https://ja.wikipedia.org/wiki/Category:南アフリカの男子陸上競技選手 "wikilink") [Category:オリンピック陸上競技南アフリカ代表選手](https://ja.wikipedia.org/wiki/Category:オリンピック陸上競技南アフリカ代表選手 "wikilink") [Category:世界陸上選手権南アフリカ代表選手](https://ja.wikipedia.org/wiki/Category:世界陸上選手権南アフリカ代表選手 "wikilink") [Category:世界陸上選手権メダリスト](https://ja.wikipedia.org/wiki/Category:世界陸上選手権メダリスト "wikilink") [Category:コモンウェルスゲームズ陸上競技メダリスト](https://ja.wikipedia.org/wiki/Category:コモンウェルスゲームズ陸上競技メダリスト "wikilink") [Category:南アフリカのコモンウェルスゲームズ金メダリスト](https://ja.wikipedia.org/wiki/Category:南アフリカのコモンウェルスゲームズ金メダリスト "wikilink") [Category:南アフリカのコモンウェルスゲームズ銀メダリスト](https://ja.wikipedia.org/wiki/Category:南アフリカのコモンウェルスゲームズ銀メダリスト "wikilink") [Category:男子ハードル選手](https://ja.wikipedia.org/wiki/Category:男子ハードル選手 "wikilink") [Category:オランダ系南アフリカ共和国人](https://ja.wikipedia.org/wiki/Category:オランダ系南アフリカ共和国人 "wikilink") [Category:フリーステイト州出身の人物](https://ja.wikipedia.org/wiki/Category:フリーステイト州出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

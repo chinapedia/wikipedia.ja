@@ -510,11 +510,11 @@ Cage Rageでは、以下の行為が反則とされている。[3](http://www.ca
 
 ## 外部リンク
 
-  - [公式サイト](http://web.archive.org/web/20071021102616/http://cagerage.tv/index.htm)（2007年10月21日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [公式サイト](https://web.archive.org/web/20071021102616/http://cagerage.tv/index.htm)（2007年10月21日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [SHERDOG 大会データ](http://www.sherdog.com/organizations/Cage-Rage-232)
 
 [Category:現在活動していない総合格闘技団体](https://ja.wikipedia.org/wiki/Category:現在活動していない総合格闘技団体 "wikilink") [Category:イングランドのスポーツ](https://ja.wikipedia.org/wiki/Category:イングランドのスポーツ "wikilink") [Category:イギリスのスポーツ組織](https://ja.wikipedia.org/wiki/Category:イギリスのスポーツ組織 "wikilink") [Category:EliteXC](https://ja.wikipedia.org/wiki/Category:EliteXC "wikilink")
 
 1.  ATAQUE「新格闘世界情勢」『[Sports Graphic Number](../Page/Sports_Graphic_Number.md "wikilink")』No.658、2006年、[文藝春秋](../Page/文藝春秋.md "wikilink")
 2.  [ケージレイジ 4.21 ロンドン：サップまたも急遽欠場。代役アボット](http://www.boutreview.com/data/news05/070421cagerage.html) BoutReview 2005年4月20日
-3.  [EliteXC and Cage Rage Championships Join Forces](http://web.archive.org/web/20080119202117/http://mmajunkie.com/2007/09/06/elitexc-and-cage-rage-championships-join-forces/) 2007年9月6日（2008年1月19日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+3.  [EliteXC and Cage Rage Championships Join Forces](https://web.archive.org/web/20080119202117/http://mmajunkie.com/2007/09/06/elitexc-and-cage-rage-championships-join-forces/) 2007年9月6日（2008年1月19日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

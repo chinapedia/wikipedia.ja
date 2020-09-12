@@ -55,25 +55,25 @@
 
 ## クレジット
 
-|                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Recording Staff                                                                                                                                    |
-| Director : [Ryuzo Kosugi](../Page/小杉理宇造.md "wikilink")                                                                                             |
-| Recording & Re-mix Engineer : [Tamotsu Yoshida](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")                                     |
-| Musician Contractor : Kozo Araki                                                                                                                   |
-| Recording Studio                                                                                                                                   |
-| Sound City 1st. & 2nd. Studio    RCA 1st. Studio                                                                                                   |
-| [Onkio Haus](https://ja.wikipedia.org/wiki/音響ハウス "wikilink") 1st. & 2nd. Studio                                                                    |
-| Recording Date : Feb. 26 '77 〜Apr. 18 '77                                                                                                          |
-|                                                                                                                                                    |
-| ※Notes                                                                                                                                             |
-| "Inenakatta Kotoba O" : [Charly Callelo](https://ja.wikipedia.org/wiki/チャーリー・カレロ "wikilink")'s Score was used in the brass parts of the interlude. |
-| This composition was recorded in New York last year, but the recording was not issued.                                                             |
-| So we made a new recording of it this time.                                                                                                        |
-| All Lyrics Written by [Minako Yoshida](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") except A-5,B-3 Written by Tatsuro Yamashita.                |
-| All Songs Composed by Tatsuro Yamashita.                                                                                                           |
-| ※thanks to Minako Yoshida for production coordinate.                                                                                               |
-| All Songs Publoshed by © 1977 [P.M.P.](../Page/フジパシフィックミュージック.md "wikilink")                                                                       |
+|                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Recording Staff                                                                                                                                   |
+| Director : [Ryuzo Kosugi](../Page/小杉理宇造.md "wikilink")                                                                                            |
+| Recording & Re-mix Engineer : [Tamotsu Yoshida](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")                                    |
+| Musician Contractor : Kozo Araki                                                                                                                  |
+| Recording Studio                                                                                                                                  |
+| Sound City 1st. & 2nd. Studio    RCA 1st. Studio                                                                                                  |
+| [Onkio Haus](https://ja.wikipedia.org/wiki/音響ハウス "wikilink") 1st. & 2nd. Studio                                                                   |
+| Recording Date : Feb. 26 '77 〜Apr. 18 '77                                                                                                         |
+|                                                                                                                                                   |
+| ※Notes                                                                                                                                            |
+| "Ienakatta Kotoba O" : [Charly Callelo](https://ja.wikipedia.org/wiki/チャーリー・カレロ "wikilink")'s Score was used in the brass parts of the interlude. |
+| This composition was recorded in New York last year, but the recording was not issued.                                                            |
+| So we made a new recording of it this time.                                                                                                       |
+| All Lyrics Written by [Minako Yoshida](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") except A-5,B-3 Written by Tatsuro Yamashita.               |
+| All Songs Composed by Tatsuro Yamashita.                                                                                                          |
+| ※thanks to Minako Yoshida for production coordinate.                                                                                              |
+| All Songs Publoshed by © 1977 [P.M.P.](../Page/フジパシフィックミュージック.md "wikilink")                                                                      |
 
 ## BVCR-17014
 
@@ -494,7 +494,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>{{Nowrap|</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/THE_RCA/AIR_YEARS_LP_BOX_1976-1982" title="wikilink">THE RCA/AIR YEARS LP BOX 1976-1982</a>』の一枚。本人監修によるデジタル・リマスタリング音源使用。レーベルはオリジナル・デザインを使用。</p></td>

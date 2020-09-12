@@ -26,6 +26,6 @@
   - [週刊エフ](http://www.sankaido.jp/f/) - 倒産後一部ブログが更新されていたが、現在は閉鎖されている。
   - [STINGER](http://www.f1-stinger.com/)
 
-[Category:日本のスポーツ雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌_\(休廃刊\) "wikilink") [Category:日本の自動車雑誌](https://ja.wikipedia.org/wiki/Category:日本の自動車雑誌 "wikilink") [Category:1987年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1987年創刊の雑誌 "wikilink") [Category:フォーミュラ1](https://ja.wikipedia.org/wiki/Category:フォーミュラ1 "wikilink") [Category:2001年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2001年休廃刊の雑誌 "wikilink")
+[Category:日本のスポーツ雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌_\(休廃刊\) "wikilink") [Category:1987年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1987年創刊の雑誌 "wikilink") [Category:フォーミュラ1](https://ja.wikipedia.org/wiki/Category:フォーミュラ1 "wikilink") [Category:2001年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2001年休廃刊の雑誌 "wikilink") [Category:日本のモータースポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ雑誌 "wikilink")
 
 1.  [連載コラム「9人の提言」第8の提言：第1回 レースのどこが面白いのか](http://gazoo.com/racing/column/relay_column/yamaguchi01.asp) - GAZOO Racing

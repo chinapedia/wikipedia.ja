@@ -35,4 +35,4 @@
 
 ` `
 
-[Category:カリフォルニア州知事](https://ja.wikipedia.org/wiki/Category:カリフォルニア州知事 "wikilink") [Category:ニューアーク出身の人物](https://ja.wikipedia.org/wiki/Category:ニューアーク出身の人物 "wikilink") [Category:アメリカ合衆国陸軍の軍人](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国陸軍の軍人 "wikilink") [Category:米墨戦争](https://ja.wikipedia.org/wiki/Category:米墨戦争 "wikilink") [Category:1794年生](https://ja.wikipedia.org/wiki/Category:1794年生 "wikilink") [Category:1848年没](https://ja.wikipedia.org/wiki/Category:1848年没 "wikilink") [Category:オレゴン・トレイル](https://ja.wikipedia.org/wiki/Category:オレゴン・トレイル "wikilink")
+[Category:アメリカ合衆国陸軍の軍人](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国陸軍の軍人 "wikilink") [Category:米墨戦争](https://ja.wikipedia.org/wiki/Category:米墨戦争 "wikilink") [Category:カリフォルニア州知事](https://ja.wikipedia.org/wiki/Category:カリフォルニア州知事 "wikilink") [Category:オレゴン・トレイル](https://ja.wikipedia.org/wiki/Category:オレゴン・トレイル "wikilink") [Category:ニューアーク出身の人物](https://ja.wikipedia.org/wiki/Category:ニューアーク出身の人物 "wikilink") [Category:1794年生](https://ja.wikipedia.org/wiki/Category:1794年生 "wikilink") [Category:1848年没](https://ja.wikipedia.org/wiki/Category:1848年没 "wikilink")

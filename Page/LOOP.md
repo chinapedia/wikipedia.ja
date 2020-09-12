@@ -9,7 +9,7 @@
 
 代表取締役：升田年則
 
-社長は『トーマス』と呼ばれ、トーマスコールがかかるほど名物MCを展開している。 また創業者の[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が退任後[ビーイング](../Page/ビーイング.md "wikilink")グループの代表取締役社長も務めている。
+升田氏が社長になる以前、倉木麻衣のマネージャーとして有名で『トーマス』と呼ばれ、ライブ会場の出待ちではトーマスコールがかかるほど名物MCを展開していた。 また創業者の[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が退任後[ビーイング](../Page/ビーイング.md "wikilink")グループの代表取締役社長も務めている。
 
 [White Dreamに出資している](../Page/White_Dream.md "wikilink")。
 

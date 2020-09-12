@@ -67,7 +67,7 @@
   - [浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")：Synth Programmer（\#2,3,4,5,6,8,9,10）
   - 井上鑑：Synth Solo（\#3）、Keyboards（\#7）
   - [佐久間正英](../Page/佐久間正英.md "wikilink")：Sound Adviser（\#5）
-  - LINDA HENNRICK：Chorus（\#10）
+  - [Linda Hennrick](https://ja.wikipedia.org/wiki/Linda_Hennrick "wikilink")：Chorus（\#10）
 
 <!-- end list -->
 

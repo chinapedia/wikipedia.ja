@@ -854,6 +854,8 @@
 
   - [リュシアン・ファーヴル](https://ja.wikipedia.org/wiki/リュシアン・ファーヴル "wikilink") 2003.7-2007.6
 
+  - [ウルス・フィッシャー](https://ja.wikipedia.org/wiki/ウルス・フィッシャー "wikilink") 2010-2012
+
   - [サミ・ヒーピア](../Page/サミ・ヒーピア.md "wikilink") 2015-2016
 
   - [ウリ・フォルテ](https://ja.wikipedia.org/wiki/ウリ・フォルテ "wikilink") 2016-2018
@@ -870,9 +872,13 @@
 
 ### DF
 
+  - [ジョアン・ガンペール](../Page/ジョアン・ガンペール.md "wikilink") 1896-1897
+
+  - [ウルス・フィッシャー](https://ja.wikipedia.org/wiki/ウルス・フィッシャー "wikilink") 1984-1987, 1996-2003
+
   - [マルティン・シュトックラサ](https://ja.wikipedia.org/wiki/マルティン・シュトックラサ "wikilink") 1999-2002
 
-  - [アラン・ネフ](https://ja.wikipedia.org/wiki/アラン・ネフ "wikilink") 2002-2006, 2013-
+  - [アラン・ネフ](https://ja.wikipedia.org/wiki/アラン・ネフ "wikilink") 2002-2006, 2013-2019
 
   - [イウリアン・フィリペスク](https://ja.wikipedia.org/wiki/イウリアン・フィリペスク "wikilink") 2003-2006
 
@@ -885,6 +891,8 @@
   - [リュドヴィク・マニャン](../Page/リュドヴィク・マニャン.md "wikilink") 2010.1-2012
 
   - [リカルド・ロドリゲス](https://ja.wikipedia.org/wiki/リカルド・イヴァン・ロドリゲス・アラジャ "wikilink") 2010-2012
+
+  - [ニコ・エルヴェディ](https://ja.wikipedia.org/wiki/ニコ・エルヴェディ "wikilink") 2014-2015
 
 ### MF
 
@@ -910,13 +918,17 @@
 
   - [オニェカチ・オコンクウォ](https://ja.wikipedia.org/wiki/オニェカチ・オコンクウォ "wikilink") 2007-2010
 
-  - [ヤシン・シハウィ](https://ja.wikipedia.org/wiki/ヤシン・シハウィ "wikilink") 2007-
+  - [ヤシン・シハウィ](https://ja.wikipedia.org/wiki/ヤシン・シハウィ "wikilink") 2007-2015
 
-  - [ダヴィデ・キウミエント](https://ja.wikipedia.org/wiki/ダヴィデ・キウミエント "wikilink") 2012-
+  - [アドミル・メーメディ](https://ja.wikipedia.org/wiki/アドミル・メーメディ "wikilink") 2008-2012
+
+  - [ダヴィデ・キウミエント](https://ja.wikipedia.org/wiki/ダヴィデ・キウミエント "wikilink") 2012-2017
 
 ### FW
 
   - [ウィントン・ルーファー](../Page/ウィントン・ルーファー.md "wikilink") 1982-1986
+
+  - [アベディ・ペレ](../Page/アベディ・ペレ.md "wikilink") 1983-1984
 
   - [ヨルン・アンデルセン](https://ja.wikipedia.org/wiki/ヨルン・アンデルセン "wikilink") 1995-1997
 
@@ -926,6 +938,8 @@
 
   - [トマス・ブロリン](../Page/トマス・ブロリン.md "wikilink") 1996
 
+  - [シャバニ・ノンダ](../Page/シャバニ・ノンダ.md "wikilink") 1996-1998
+
   - [ラシディ・イエキニ](../Page/ラシディ・イエキニ.md "wikilink") 1997-1998
 
   - [マリオ・フリック](https://ja.wikipedia.org/wiki/マリオ・フリック "wikilink") 1999-2000
@@ -934,13 +948,17 @@
 
   - [アドリアン・イリエ](../Page/アドリアン・イリエ.md "wikilink") 2004-2005
 
-  - [フランシレウド・サントス](https://ja.wikipedia.org/wiki/フランシレウド・サントス "wikilink") 2007-2008
+  - [ラファエウ](https://ja.wikipedia.org/wiki/ラファエウ・カエターノ・デ・アラウージョ "wikilink") 2005-2007
 
-  - [アドミル・メーメディ](https://ja.wikipedia.org/wiki/アドミル・メーメディ "wikilink") 2008-2012
+  - [アレクサンドル・アルフォンス](https://ja.wikipedia.org/wiki/アレクサンドル・アルフォンス "wikilink") 2005-2012
+
+  - [フランシレウド・サントス](https://ja.wikipedia.org/wiki/フランシレウド・サントス "wikilink") 2007-2008
 
   - [ヨハン・フォンランテン](../Page/ヨハン・フォンランテン.md "wikilink") 2009-2010
 
-  - [アミン・シェルミティ](../Page/アミン・シェルミティ.md "wikilink") 2010-
+  - [ヨジップ・ドルミッチ](https://ja.wikipedia.org/wiki/ヨジップ・ドルミッチ "wikilink") 2009-2013
+
+  - [アミン・シェルミティ](../Page/アミン・シェルミティ.md "wikilink") 2010-2015
 
   - [ハマゾッチ](https://ja.wikipedia.org/wiki/ハファエル・ハマゾッチ・デ・クアドロス "wikilink") 2012
 

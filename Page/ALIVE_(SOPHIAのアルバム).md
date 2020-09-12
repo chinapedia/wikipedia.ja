@@ -1,15 +1,16 @@
 > この記事は[ALIVE \(SOPHIAのアルバム\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOPHIAのアルバム\))から翻訳されています。
 
 
-『**ALIVE**』（アライブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[SOPHIA](../Page/SOPHIA.md "wikilink")の5枚目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
+『**ALIVE**』（アライブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[SOPHIA](../Page/SOPHIA.md "wikilink")の5枚目の[アルバム](../Page/アルバム.md "wikilink")（フルアルバムでは2枚目）。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
 
 ## 概要
 
-本作品は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりリリースされた。全13曲収録。初回盤はピクチャーレーベル仕様・三方背BOX仕様・ALIVEイメージ写真集([舞山秀一](https://ja.wikipedia.org/wiki/舞山秀一 "wikilink")の作品)
-
-コンセプトはストレートに「生きる」ということ。ちなみに前作『[little circus](https://ja.wikipedia.org/wiki/little_circus "wikilink")』は人生をサーカスに置き換えている。シングル『[君と揺れていたい](https://ja.wikipedia.org/wiki/君と揺れていたい "wikilink")』『[ゴキゲン鳥 〜crawler is crazy〜](https://ja.wikipedia.org/wiki/ゴキゲン鳥_〜crawler_is_crazy〜 "wikilink")』のスマッシュヒットをうけ、オリコン初登場2位を記録。
-
-重く大きなテーマを掲げたこの作品で新境地を開くが、それまでのSOPHIAの楽曲にみられた[ポップな雰囲気が薄くなっているためファンの中での評価は分かれている](../Page/ポピュラー音楽.md "wikilink")。この作品はアルバムの他、映像作品化、写真集と様々な活動の契機となる。
+  - 前作から1年ぶりのリリースとなった。
+  - ジャケットは外国人の女の子が写っている。
+  - 初回生産分のみスリーブケース、ALIVEイメージ写真集([舞山秀一](https://ja.wikipedia.org/wiki/舞山秀一 "wikilink")の作品)付き。
+  - コンセプトはストレートに「生きる」ということ。ちなみに前作『[little circus](https://ja.wikipedia.org/wiki/little_circus "wikilink")』は人生をサーカスに置き換えている。
+  - シングル『[君と揺れていたい](https://ja.wikipedia.org/wiki/君と揺れていたい "wikilink")』『[ゴキゲン鳥 〜crawler is crazy〜](https://ja.wikipedia.org/wiki/ゴキゲン鳥_〜crawler_is_crazy〜 "wikilink")』のスマッシュヒットを受け、オリコン初登場2位を記録している。
+  - 重く大きなテーマを掲げたこの作品で新境地を開くが、それまでのSOPHIAの楽曲にみられた[ポップな雰囲気が薄くなっているためファンの中での評価は分かれている](../Page/ポピュラー音楽.md "wikilink")。この作品はアルバムの他、映像作品化、写真集と様々な活動の契機となる。
 
 ## 収録曲
 

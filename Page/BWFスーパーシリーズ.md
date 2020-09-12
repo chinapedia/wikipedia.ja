@@ -112,7 +112,7 @@
 <tr class="even">
 <td><p>2014[7]<br />
 <a href="../Page/ドバイ.md" title="wikilink">ドバイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チェン龍" title="wikilink">諶龍</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/諶龍" title="wikilink">諶龍</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/戴資穎" title="wikilink">戴資穎</a></p></td>
 <td><p><a href="../Page/李龍大.md" title="wikilink">李龍大</a><br />
  <a href="https://ja.wikipedia.org/wiki/柳延星" title="wikilink">柳延星</a></p></td>
@@ -125,7 +125,7 @@
 <td><p>2013[8]<br />
 <a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a></p></td>
 <td><p><a href="../Page/リー・チョンウェイ.md" title="wikilink">リー・チョンウェイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/李雪ゼイ" title="wikilink">李雪芮</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/李雪芮" title="wikilink">李雪芮</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘンドラ・セティアワン" title="wikilink">ヘンドラ・セティアワン</a><br />
  <a href="https://ja.wikipedia.org/wiki/ムハマド・アッサン" title="wikilink">ムハマド・アッサン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリスティナ・ペデルセン" title="wikilink">クリスティナ・ペデルセン</a><br />
@@ -136,8 +136,8 @@
 <tr class="even">
 <td><p>2012[9]<br />
 <a href="https://ja.wikipedia.org/wiki/深圳市" title="wikilink">深圳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チェン龍" title="wikilink">諶龍</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/李雪ゼイ" title="wikilink">李雪芮</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/諶龍" title="wikilink">諶龍</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/李雪芮" title="wikilink">李雪芮</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マシアス・ボー" title="wikilink">マシアス・ボー</a><br />
  <a href="https://ja.wikipedia.org/wiki/カーステン・モーゲンセン" title="wikilink">カーステン・モーゲンセン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/王暁理" title="wikilink">王暁理</a><br />

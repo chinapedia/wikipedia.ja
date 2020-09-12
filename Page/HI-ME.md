@@ -20,4 +20,4 @@
         作詞・作曲：[つボイノリオ](../Page/つボイノリオ.md "wikilink")　編曲：藤原いくろう
         ラストシングル。[つボイノリオ](../Page/つボイノリオ.md "wikilink")の同名曲のカヴァー。つボイノリオのアルバム『[あっ超ー](https://ja.wikipedia.org/wiki/あっ超ー "wikilink")』では彼女らの解散にふれている。本曲のカラオケ化（ちなみにHI-ME本人らが出演している）がきっかけで、本曲の知名度がアップしたといわれている。
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")

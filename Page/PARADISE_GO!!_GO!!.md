@@ -18,14 +18,6 @@
   - 2006年7月26日、ライブツアーの模様を収録したライブDVD『PARADISE GO\!\! GO\!\! LIVE TOUR 2006 "Dear my friends"』を発売。
   - 2006年8月6日、ライブDVDリリース記念のパーティを東京・港区の竹芝D ASH-Gで開催。その後活動休止。
 
-### 解散後
-
-  - 松本と伊藤は女性5人組ダンスパフォーマンスユニット「REAL FORCE」に参加。松本はボーカル、伊藤はダンスパフォーマンス。ブログも公開した。
-  - 吉原は同じ事務所の[眞木大輔](https://ja.wikipedia.org/wiki/眞木大輔 "wikilink")が出演している2007年3月公開の映画『[渋谷区円山町](../Page/渋谷区円山町.md "wikilink")』に主演の[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")が演じる加藤由紀江の親友明日香役として出演した。その後はメディア露出の情報はない。
-  - 森田は[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")のチアダンスグループ[DDSのメンバーとして活動した](https://ja.wikipedia.org/wiki/DDS_\(ユニット\) "wikilink")。
-  - REAL FORCEはブログ閉鎖と同時期に活動も休止した。その後、松本がREAL FORCEでボーカルを務めていたステファニーと[LDH所属の女性](../Page/LDH_\(芸能プロダクション\).md "wikilink")[デュオ](../Page/二人組.md "wikilink")「[Love](https://ja.wikipedia.org/wiki/Love_\(音楽グループ\) "wikilink")」を結成しメジャーデビューすることになったので、PARADISE GO\!\! GO\!\!は事実上解散となった。
-  - 過去メンバーの藤田は「ハルカ」として歌手･モデル･女優として活動した。
-
 ## メンバー
 
 <table>
@@ -250,7 +242,7 @@ AVCD-17769</p></td>
 
 ## 外部リンク
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
 
 1.  かつて[フジテレビにて放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")』の略称も『パラGo\!\!』であったが、当ユニットとは無関係。
 2.

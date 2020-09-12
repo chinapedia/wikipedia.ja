@@ -7,7 +7,7 @@
 
 ### 現メンバー
 
-  - **[MASASHI](https://ja.wikipedia.org/wiki/MASASHI "wikilink")**（マサシ　[11月30日](../Page/11月30日.md "wikilink") - ）ギター・ボーカル。元[CASCADE](../Page/CASCADE.md "wikilink")
+  - **[MASASHI](https://ja.wikipedia.org/wiki/MASASHI "wikilink")**（マサシ　[11月30日](../Page/11月30日.md "wikilink") - ）ギター・ボーカル。[CASCADE](../Page/CASCADE.md "wikilink")
   - **[SOH](https://ja.wikipedia.org/wiki/SOH "wikilink")**（ソウ）ギター
   - **[TOSHIYA](https://ja.wikipedia.org/wiki/GUCCHO "wikilink")**（トシヤ）マニピュレイター・プログラミング・ギター
   - **[山口篤志](https://ja.wikipedia.org/wiki/山口実篤 "wikilink")**（ヤマグチ アツシ）ドラム

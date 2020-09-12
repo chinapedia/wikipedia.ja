@@ -5,7 +5,7 @@
 
 ## 解説
 
-デビュー以来所属していた[EPICソニーから](../Page/エピックレコードジャパン.md "wikilink")[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現[ユニバーサル・ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）内の、[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")を中心とした[パブリック・イメージ](https://ja.wikipedia.org/wiki/パブリック・イメージ "wikilink")所属アーティストの専門レーベルであるPrimitive Recordsに移籍しての第1弾アルバム。
+デビュー以来所属していた[EPICソニーから](../Page/エピックレコードジャパン.md "wikilink")[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現[ユニバーサル・ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）内の、[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")を中心とした[パブリック・イメージ](https://ja.wikipedia.org/wiki/パブリック・イメージ "wikilink")所属アーティストの専門レーベルであるPrimitiveレーベルに移籍しての第1弾アルバム。
 
 タイトルのXは[ローマ数字](../Page/ローマ数字.md "wikilink")の**10**を意味し、リリースがバンドのデビュー10周年に当たることと10枚目のオリジナルアルバムであることに掛けている。3つ並んでいるのは前のオリジナルアルバム『[hot dogs](https://ja.wikipedia.org/wiki/hot_dogs "wikilink")』同様、メンバーの人数に掛けているためで、ジャケットは「見ざる言わざる聞かざる」を模している。この時期のLIVEも10周年記念として、新曲以外にも代表曲を網羅したベスト的な選曲で実施されている。
 

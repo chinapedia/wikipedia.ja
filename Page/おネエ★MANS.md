@@ -206,7 +206,7 @@
 
 :\*[おもいっきりイイテレビ](https://ja.wikipedia.org/wiki/おもいっきりイイテレビ "wikilink")収録スタジオ前で、ネットに興味を持った[みのもんた](../Page/みのもんた.md "wikilink")が[平澤隆司](../Page/平澤隆司.md "wikilink")を捕獲。
 
-:\*ごくせん収録スタジオで[高木雄也](../Page/高木雄也.md "wikilink")が[如月音流](../Page/如月音流.md "wikilink")から捕獲ネットを奪い取り上記のニセヤンクミを捕獲。
+:\*ごくせん収録スタジオで[髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")が[如月音流](../Page/如月音流.md "wikilink")から捕獲ネットを奪い取り上記のニセヤンクミを捕獲。
 
 :\*[如月音流](../Page/如月音流.md "wikilink")が[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")と[美波](../Page/美波.md "wikilink")を捕獲しようとしたところ、あらかじめプロデューサから持たされていた捕獲ネットによって逆に捕獲される。
 

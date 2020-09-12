@@ -15,11 +15,11 @@
 
 <!-- end list -->
 
-1.  RUN☆RUN☆RUN
+1.  **RUN☆RUN☆RUN**
       -
         作曲（メロディ作り）はユウスケである\[2\]。
         PVは初の屋外撮影となっている。
-2.  Hopelessness
+2.  **Hopelessness**
       -
         元々のメロディは、カズトからであり、その後ユウスケと話し合って決めた\[3\]。
 3.  RUN☆RUN☆RUN-Instrumental-

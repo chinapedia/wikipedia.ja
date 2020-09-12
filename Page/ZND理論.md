@@ -1,7 +1,7 @@
 > この記事は[ZND理論](https://ja.wikipedia.org/wiki/ZND理論)から翻訳されています。
 
 
-**ZND理論**（ZNDりろん、Zeldovich von Neumann Doering detonation model）とは、1940年代に[ジョン・フォン・ノイマン](../Page/ジョン・フォン・ノイマン.md "wikilink")によって考え出された[火薬](../Page/火薬.md "wikilink")の[爆轟](https://ja.wikipedia.org/wiki/爆轟 "wikilink")現象を予測する理論である。 同年代に[ソビエト](../Page/ソビエト.md "wikilink")の[ヤーコフ・ゼルドビッチ](../Page/ヤーコフ・ゼルドビッチ.md "wikilink")も同様の理論を考え出し、ソビエトの[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")開発に役立てたと言われている。
+**ZND理論**（ZNDりろん、Zeldovich von Neumann Doering detonation model）とは、1940年代に[ジョン・フォン・ノイマン](../Page/ジョン・フォン・ノイマン.md "wikilink")によって考え出された[火薬](../Page/火薬.md "wikilink")の[爆轟](../Page/爆轟.md "wikilink")現象を予測する理論である。 同年代に[ソビエト](../Page/ソビエト.md "wikilink")の[ヤーコフ・ゼルドビッチ](../Page/ヤーコフ・ゼルドビッチ.md "wikilink")も同様の理論を考え出し、ソビエトの[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")開発に役立てたと言われている。
 
 この理論では有限率[化学反応](https://ja.wikipedia.org/wiki/化学反応 "wikilink")を認め、[爆発](../Page/爆発.md "wikilink")を発熱化学反応の地帯が続く無限に薄い非連続な[衝撃波](../Page/衝撃波.md "wikilink")（実際には[平均自由行程](../Page/平均自由行程.md "wikilink")の数倍程度の厚み）としてモデル化し、衝撃波による熱量の増大が爆薬自身の[断熱圧縮](https://ja.wikipedia.org/wiki/断熱圧縮 "wikilink")によるものであると捉え、実質的に、爆薬の持つ温度などの化学エネルギーも全て、前方へ衝撃波を伝播するために利用されることを示し、**ZNDモデル**として理論化されている。 まとめると以下の4点を前提条件としている。
 

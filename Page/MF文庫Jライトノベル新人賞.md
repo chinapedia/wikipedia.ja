@@ -40,8 +40,10 @@
     さがら総・志瑞祐・三浦勇雄・MF文庫J編集部
   - 第14回（[2018年](../Page/2018年.md "wikilink")） - 第15回（[2019年](../Page/2019年.md "wikilink")）
     さがら総・志瑞祐・[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(作家\) "wikilink")・三浦勇雄・MF文庫J編集部
-  - 第16回（[2020年](../Page/2020年.md "wikilink")） -
+  - 第16回（[2020年](../Page/2020年.md "wikilink")）
     [榎宮祐](../Page/榎宮祐.md "wikilink")・さがら総・志瑞祐・鈴木大輔・三浦勇雄・MF文庫J編集部
+  - 第17回（[2021年](../Page/2021年.md "wikilink")） -
+    榎宮祐・さがら総・志瑞祐・鈴木大輔・MF文庫J編集部
 
 ## 入賞作品一覧
 
@@ -718,6 +720,32 @@
 <td><p>端木基樹<br />
 （<a href="https://ja.wikipedia.org/wiki/五月什一" title="wikilink">五月什一</a>）</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第16回<br />
+（<a href="../Page/2020年.md" title="wikilink">2020年</a>）</p></td>
+<td><p>最優秀賞</p></td>
+<td><p>姉と俺とでチヨダク王国裁判所</p></td>
+<td><p>緑青漠</p></td>
+</tr>
+<tr class="odd">
+<td><p>優秀賞</p></td>
+<td><p>殺したガールと他殺志願者</p></td>
+<td><p>森林梢</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>審査員<br />
+特別賞</p></td>
+<td><p>PAY DAY〜青春時代を賭けた生存戦争〜</p></td>
+<td><p>達間涼</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>佳作</p></td>
+<td><p>先輩と呼んでくれる女の子は後輩だけとは限らない</p></td>
+<td><p>凪の彼方</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -9,7 +9,7 @@
 
 1982年9月、[新宿ロフトで行われた](../Page/ロフト_\(ライブハウス\).md "wikilink")『消毒GIG特別篇ハードコアパンク2DAYS』に[GAUZE](../Page/GAUZE_\(バンド\).md "wikilink")、THE EXECUTE、[THE COMES](https://ja.wikipedia.org/wiki/THE_COMES "wikilink")、[MASTURBATION](../Page/MASTURBATION.md "wikilink")、[LAUGHIN' NOSE等と出演](../Page/LAUGHIN'_NOSE.md "wikilink")。同年10月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ヤングTOUCH](https://ja.wikipedia.org/wiki/ヤングTOUCH "wikilink")』の[じゃがたら](https://ja.wikipedia.org/wiki/じゃがたら "wikilink")のライブ本番生録りに横山SAKEVIら[パンクスが乱入し乱闘騒ぎとなる](https://ja.wikipedia.org/wiki/パンク_\(サブカルチャー\) "wikilink")。
 
-1983年4月、[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")で行われた『消毒GIG Vol.11』に出演。同年11月、音楽雑誌『[DOLL](https://ja.wikipedia.org/wiki/DOLL_MAGAZINE "wikilink")』が設立したハードコア専門レーベル・ドグマレコードから1stミニアルバム『DETESTation』を発売。日本の[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")黎明期にリリースされた1stミニアルバムは、後のバンドに多大な影響を及ぼしたとされる。また[徳間ジャパンから発売されたオムニバスアルバム](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")『GREAT PUNK HITS』\[3\]に参加し、当時の日本のハードコアシーンの衝撃的な音源をメジャーレーベルを通じて知らしめる一端を担った。
+1983年4月、[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")で行われた『消毒GIG Vol.11』に出演。同年11月、音楽雑誌『[DOLL](https://ja.wikipedia.org/wiki/DOLL_MAGAZINE "wikilink")』が設立したハードコア専門レーベル・ドグマレコードから1stミニアルバム『DETESTation』を発売。日本の[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")黎明期にリリースされた1stミニアルバムは、後のバンドに多大な影響を及ぼしたとされる。また[徳間ジャパンから発売されたオムニバスアルバム](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")『GREAT PUNK HITS』\[3\]に参加し、当時の日本のハードコアシーンの衝撃的な音源をメジャーレーベルを通じて知らしめる一端を担った。
 
 1984年8月、AAレコードから発売されたオムニバスアルバム『ハードコア不法集会』にLAUGHIN' NOSE、[COBRA](../Page/COBRA_\(バンド\).md "wikilink")、[Lip Cream等と参加](https://ja.wikipedia.org/wiki/Lip_Cream "wikilink")。同アルバムは日本のハードコア・オムニバスの金字塔的作品とみなされている。
 

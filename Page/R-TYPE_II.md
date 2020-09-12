@@ -1,9 +1,7 @@
 > この記事は[R-TYPE II](https://ja.wikipedia.org/wiki/R-TYPE_II)から翻訳されています。
 
 
-『**R-TYPE II**』（アール・タイプ ツー）は、[1989年](../Page/1989年.md "wikilink")に[アイレムより発売された](../Page/アピエス.md "wikilink")、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用の
-
-オリジナルメカ横スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。「[R-TYPE](../Page/R-TYPE.md "wikilink")」シリーズの第2作。
+『**R-TYPE II**』（アール・タイプ ツー）は、[1989年](../Page/1989年.md "wikilink")に[アイレムより発売された](../Page/アピエス.md "wikilink")、[アーケード用横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。「[R-TYPE](../Page/R-TYPE.md "wikilink")」シリーズの第2作。
 
 ## 概要
 

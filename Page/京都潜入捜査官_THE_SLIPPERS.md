@@ -210,8 +210,4 @@
 </tbody>
 </table>
 
-## 外部リンク
-
-  - [京都潜入捜査官 THE SLIPPERS - 東映](http://tvarc.toei.co.jp/tv/user/program/read_story3.asp?Command=Old&SID=134)
-
 [Category:木曜ミステリー](https://ja.wikipedia.org/wiki/Category:木曜ミステリー "wikilink") [Category:テレビ朝日の刑事ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の刑事ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:京都府警察を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:京都府警察を舞台としたテレビドラマ "wikilink")

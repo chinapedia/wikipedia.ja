@@ -1,13 +1,13 @@
 > この記事は[IMZ・ウラル](https://ja.wikipedia.org/wiki/IMZ・ウラル)から翻訳されています。
 
 
-**IMZ・ウラル**(, )は、[ロシア](../Page/ロシア.md "wikilink")のIMZ社が製造している[オートバイ](../Page/オートバイ.md "wikilink")および[サイドカー](../Page/サイドカー.md "wikilink")のブランドである。
+**IMZ-ウラル**(, )は、[ロシア](../Page/ロシア.md "wikilink")のIMZ社(英:Irbit Motorcycle Plant 露:Ирбитский мотоциклетный завод\[*Irbitskiy Mototsikletniy Zavod*\])が製造している[オートバイ](../Page/オートバイ.md "wikilink")および[サイドカー](../Page/サイドカー.md "wikilink")のブランドである。
 
-本来サイドカーのバイク部分を「本車」というが、当該該当車種の代名詞も「本車」と表現するため、以下本文便宜上、バイク部分を「[単車](https://ja.wikipedia.org/wiki/単車 "wikilink")」と表現している。
+本来サイドカーのバイク部分を「本車」というが、言語表現上「当該車種」の意味においても「本車」と表現するため、以下本文便宜上、バイク部分を「[単車](https://ja.wikipedia.org/wiki/単車 "wikilink")」と表現している。
 
 ## 概要
 
-IMZ・ウラルは第二次世界大戦にドイツ軍が使用していた[BMW-R71](https://ja.wikipedia.org/wiki/BMW-R71 "wikilink")型の[コピー](../Page/コピー.md "wikilink")バイクが源流で、製造元のIMZ社もこの事実を認めている。IMZ社が最初期に製造した「ウラル」の名を冠する以前の車種であるIMZ-M72型\[1\]や、その改良型から現在に至るまでの車種なども、基本的なエンジン設計はBMW-R71や、その後継車種[BMW-R75](https://ja.wikipedia.org/wiki/BMW-R75 "wikilink")の[水平対向二気筒エンジンの発展改良型である](../Page/水平対向エンジン.md "wikilink")。
+IMZ-ウラルは第二次世界大戦にドイツ軍が使用していた[BMW-R71](https://ja.wikipedia.org/wiki/BMW-R71 "wikilink")型の[コピー](../Page/コピー.md "wikilink")バイクが源流で、製造元のIMZ社もこの事実を認めている。IMZ社が最初期に製造した「ウラル」の名を冠する以前の車種であるIMZ-M72型\[1\]や、その改良型から現在に至るまでの車種なども、基本的なエンジン設計はBMW-R71や、その後継車種[BMW-R75](https://ja.wikipedia.org/wiki/BMW-R75 "wikilink")の[水平対向二気筒エンジンの発展改良型である](../Page/水平対向エンジン.md "wikilink")。
 
 IMZ社の製造する製品は、最新鋭の[テクノロジー](../Page/テクノロジー.md "wikilink")を駆使した[スピード](../Page/スピード.md "wikilink")や[パワー](../Page/パワー.md "wikilink")を重視するオートバイというよりも、懐古主義的かつミリタリー指向の強いオートバイとして世界中から需要がある。また、自社製のサイドカーを主力商品として展開していて、他のサイドカーメーカーの製品よりも安価である。日本ではマイナーなオートバイであるが、本シリーズは世界で320万台余もの販売実績を持っており、2007年現在、世界で最も多く稼動するサイドカーの一つでもある\[2\]。
 
@@ -279,8 +279,8 @@ IMZ社の製造する製品は、最新鋭の[テクノロジー](../Page/テク
 
 ## 外部リンク
 
-  - [ウラルモト社（IMZ社）](https://www.ural.com/)
-  - [ウラルジャパン株式会社（ウラルモト日本支社）](https://www.ural-jp.com/)
+  - [Irbit MotorWorks of America(IMWA)](https://www.imz-ural.com/)
+  - [ウラル・ジャパン株式会社（IMWA日本支社）](https://www.ural-jp.com/)
   - [ウラルに関する運転免許区分内閣府令](https://www8.cao.go.jp/kisei-kaikaku/oto/otodb/japanese/kujyou/kobetu/OTO608.html)
 
 <!-- end list -->

@@ -51,11 +51,9 @@
   - 大場咲弥
   - 福西美佳
   - 橋本楓生
-  - 長谷川瑞（[つりビット](https://ja.wikipedia.org/wiki/つりビット "wikilink")）
-  - 竹内夏紀（つりビット）
-  - 聞間彩（つりビット）
-  - 安藤咲桜（つりビット）
-  - 小西杏優（つりビット）
+  - [竹内夏紀](https://ja.wikipedia.org/wiki/竹内夏紀 "wikilink")（元[つりビット](https://ja.wikipedia.org/wiki/つりビット "wikilink")）
+  - [聞間彩](https://ja.wikipedia.org/wiki/聞間彩 "wikilink")（元つりビット）
+  - [小西杏優](https://ja.wikipedia.org/wiki/小西杏優 "wikilink")（元つりビット）
 
 ## 過去の所属タレント
 
@@ -69,6 +67,8 @@
   - [橋本くるみ](../Page/橋本来留美.md "wikilink")
   - [三吉彩花](../Page/三吉彩花.md "wikilink")
   - [森田彩華](../Page/森田彩華.md "wikilink")
+  - [安藤咲桜](https://ja.wikipedia.org/wiki/安藤咲桜 "wikilink")（元つりビット）
+  - [長谷川瑞](https://ja.wikipedia.org/wiki/長谷川瑞 "wikilink")（元つりビット）
 
 ## 外部リンク
 

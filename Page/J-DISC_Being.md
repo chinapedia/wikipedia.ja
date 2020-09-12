@@ -3,6 +3,8 @@
 
 **J-DISC Being**（ジェイディスクビーイング）は、かつて存在した[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、主に[ビーイング](../Page/ビーイング.md "wikilink")グループが発売する音楽ソフトの販売を担当する企業であった。
 
+営業開始に際し、全国に7か所に営業拠点（札幌・仙台・東京・名古屋・大阪・中国\[1\]・福岡）を設けていたが、2000年以降に東京(東日本)と大阪（西日本）の2か所に営業拠点を集約させている。
+
 2007年にビーイングが当社とB-Gram RECORDSとVERMILLION RECORDSを事実上吸収した。
 
 ## 沿革
@@ -65,8 +67,14 @@
 
   - リクナビ「[リクナビ：株式会社　ジェイディスク ビーイング](http://www.rikunabi2007.com/RN/cgi-bin/KDBG00100.cgi?SEDAI_CD=07&KOKYAKU_ID=1541745001&MAGIC=)」　[リクナビ](../Page/リクナビ.md "wikilink")、2006年5月12日。
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
 [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:かつて存在した日本の情報通信業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の情報通信業者 "wikilink")
+
+1.  大阪営業所と同じ所在地

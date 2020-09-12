@@ -1555,11 +1555,22 @@
 </tr>
 <tr class="even">
 <td><p>122</p></td>
-<td><p><span style="display:none;">めいたんていこなんせつかいのふらいへえとあい</span><strong><a href="https://ja.wikipedia.org/wiki/名探偵コナン_絶海の探偵" title="wikilink">名探偵コナン 絶海の探偵</a></strong></p></td>
+<td><p><span style="display:none;">めいたんていこなんせつかいのふらいへえとあい</span><a href="https://ja.wikipedia.org/wiki/名探偵コナン_絶海の探偵" title="wikilink">名探偵コナン 絶海の探偵</a></p></td>
 <td><p><span style="display:none"> あへ ゆたか まる てんしろう</span> <a href="https://ja.wikipedia.org/wiki/阿部ゆたか" title="wikilink">阿部ゆたか</a>・<br />
 <a href="https://ja.wikipedia.org/wiki/丸伝次郎" title="wikilink">丸伝次郎</a></p></td>
 <td><p><span style="display:none"> あおやま こうしよう </span> <a href="../Page/青山剛昌.md" title="wikilink">青山剛昌</a></p></td>
 <td><p>2020.03</p></td>
+<td><p>2020.10</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>123</p></td>
+<td><p><span style="display:none;">かなかな</span><strong><a href="https://ja.wikipedia.org/wiki/カナカナ" title="wikilink">カナカナ</a></strong></p></td>
+<td><p><span style="display:none">にしもり ひろゆき</span><a href="../Page/西森博之.md" title="wikilink">西森博之</a></p></td>
+<td><p>—</p></td>
+<td><p>2020.08</p></td>
 <td><p>連載中</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -1584,9 +1595,9 @@
 | 2017年 | 14,333 部 | 16,500 部 | 14,000 部 | 12,000 部 |
 | 2018年 | 12,000 部 | 60,667 部 | 53,333 部 | 27,333 部 |
 | 2019年 | 24,000 部 | 21,333 部 | 18,667 部 | 15,333 部 |
-| 2020年 | 14,333 部 |          |          |          |
+| 2020年 | 14,333 部 | 12,667 部 |          |          |
 
-発行部数（2008年4月以降）（[社団法人日本雑誌協会](https://web.archive.org/web/20120226141842/http://www.j-magazine.or.jp/magdata/index.php?module=list&action=list)）
+発行部数(2008年4月以降)([社団法人日本雑誌協会](https://web.archive.org/web/20120226141842/http://www.j-magazine.or.jp/magdata/index.php?module=list&action=list))
 
 ## 隔月刊発行化以前の主な連載作品
 
@@ -1641,7 +1652,7 @@
   - **1985年連載開始**
       - [絶態メタモ](https://ja.wikipedia.org/wiki/絶態メタモ "wikilink")（[石田まさよし](https://ja.wikipedia.org/wiki/石田まさよし "wikilink")）1985.1
       - [鉄腕バーディー](../Page/鉄腕バーディー.md "wikilink")（[ゆうきまさみ](../Page/ゆうきまさみ.md "wikilink")）1985.1（連載中断後未完のまま再開断念、後年[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")連載で完全新作としてリメイク版を連載）
-      - [黄門☆じごく変](https://ja.wikipedia.org/wiki/黄門☆じごく変 "wikilink")（[中津賢也](../Page/中津賢也.md "wikilink")）1985.2
+      - [黄門★じごく変](https://ja.wikipedia.org/wiki/黄門★じごく変 "wikilink")（[中津賢也](../Page/中津賢也.md "wikilink")）1985.2
       - [人類ネコ科](https://ja.wikipedia.org/wiki/人類ネコ科 "wikilink")（[みず谷なおき](../Page/みず谷なおき.md "wikilink")）1985.2
       - [THE GOOD MEN](https://ja.wikipedia.org/wiki/THE_GOOD_MEN "wikilink")（[里見桂](../Page/里見桂.md "wikilink")）1985.4
       - [蒼い妖魔たち](https://ja.wikipedia.org/wiki/蒼い妖魔たち "wikilink")（[鈴宮和由](../Page/鈴宮和由.md "wikilink")）1985.8

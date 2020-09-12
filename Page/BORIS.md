@@ -137,7 +137,8 @@
 
 ### 配信
 
-  - **Eternity** (2018年3月）<small>2017年代官山UNITでのライブ音源をハイレゾにてOTOTOY独占配信</small>
+  - **Eternity** (2018年3月）<small>2017年代官山UNITでのライブ音源をハイレゾにて[OTOTOY](https://ja.wikipedia.org/wiki/OTOTOY "wikilink")独占配信</small>
+  - **NO** (2020年7月3日）<small>[Bandcamp](https://ja.wikipedia.org/wiki/Bandcamp "wikilink")のみでデジタルアルバムを発売</small>
 
 ## 脚注
 
@@ -159,7 +160,7 @@
 
 1.  [Boris - アーティストプロフィール](http://artist.cdjournal.com/a/boris/129379) CDJournal.com
 2.  [Boris - アーティストプロフィール](http://artist.cdjournal.com/a/boris/129379) CDJournal.com
-3.  [大文字〈BORIS〉が2年ぶりの新作フル・アルバム『Smile』を3月7日にリリース](http://web.archive.org/web/20111111005155/http://oops-music.com/news.php?nid=35634) oops\! 2008/01/26
+3.  [大文字〈BORIS〉が2年ぶりの新作フル・アルバム『Smile』を3月7日にリリース](https://web.archive.org/web/20111111005155/http://oops-music.com/news.php?nid=35634) oops\! 2008/01/26
 4.  [Staff Lists: Top 50 Albums of 2006](http://pitchfork.com/features/staff-lists/6510-top-50-albums-of-2006/5/) Pitchfork 2006年12月19日
 5.  [Top Heatseekers - *Smile*](http://web.archive.org/20081204005658/www.billboard.com/bbcom/esearch/chart_display.jsp?cfi=324&cfgn=Albums&cfn=Top+Heatseekers&ci=3095047&cdi=9771153&cid=05/17/2008) billboard.com
 6.  [Boris、久々の単独音源は3ヵ月連続リリース！](http://www.cdjournal.com/main/news/boris/26175) CDJournal.com 2009年9月11日

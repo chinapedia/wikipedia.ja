@@ -218,7 +218,7 @@ Carrerモードに登場するレースのカテゴリは以下の通り。
 
   - [公式サイト](http://forzamotorsport.net/)
 
-[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:マイクロソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフトのゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink")
+[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:マイクロソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフトのゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink")
 
 1.  <http://assets.xbox.com/ja-jp/others/forzamotorsport2/Forza2_MultiScreen.pdf>
 2.  [みんな、オラにディスプレイとXbox 360を分けてくれ――5画面プレイを頑張って実現してみました](http://plusd.itmedia.co.jp/games/articles/0706/28/news006.html)（[ITmedia](../Page/ITmedia.md "wikilink") 2007年06月28日）

@@ -18,17 +18,17 @@
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Kazuhiro Hara](../Page/原一博.md "wikilink")
     <!-- end list -->
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ『[東京庭付き一戸建て](../Page/東京庭付き一戸建て.md "wikilink")』挿入歌
-2.  **Cross 〜never say die〜 (LA 2002 REMIX)** \[5:19\]
+2.  **Cross 〜never say die〜**（LA 2002 REMIX）\[5:19\]
       -
         編曲：[813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")
     <!-- end list -->
       - 表題曲のリミックスバージョン
-3.  **Cross 〜never say die〜 (FUTURE LOUNGE @ AFRICA MIX)** \[6:36\]
+3.  **Cross 〜never say die〜**（FUTURE LOUNGE @ AFRICA MIX）\[6:36\]
       -
         編曲：[KOUTAROU.A](https://ja.wikipedia.org/wiki/DJ_KOUTAROU.A "wikilink")
     <!-- end list -->
       - 表題曲のリミックスバージョン
-4.  Cross 〜never say die〜 (INSTRUMENTAL)'''
+4.  Cross 〜never say die〜（INSTRUMENTAL）
 
 ## 収録アルバム
 

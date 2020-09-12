@@ -274,6 +274,6 @@
 
 ## 外部リンク
 
-  - [e-radio HotStuff](http://www.e-radio.co.jp/hot_stuff/index.html)
+  - [e-radio HotStuff](https://www.e-radio.co.jp/hotstuff/)
 
 [Category:エフエム滋賀](https://ja.wikipedia.org/wiki/Category:エフエム滋賀 "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:ローカル局の番組の企画](https://ja.wikipedia.org/wiki/Category:ローカル局の番組の企画 "wikilink")

@@ -9,12 +9,12 @@
 
 ## 収録曲
 
-1.  STYLE 〜get glory in this hand〜
+1.  **STYLE 〜get glory in this hand〜**
       -
         [スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")・[PS2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[忍道 戒](../Page/忍道_戒.md "wikilink")』のイメージソング。CMではメンバーも特別出演している。
         2005年初頭には制作されており、以前からライブで盛り上がる曲として存在していた。
         作曲はカズトであり、作詞はユウスケが担当した。
-2.  energy
+2.  **energy**
       -
         『[The songs for DEATH NOTE the movie 〜the Last name TRIBUTE〜](../Page/The_songs_for_DEATH_NOTE_the_movie_〜the_Last_name_TRIBUTE〜.md "wikilink")』にも収録されている。
         作詞はマーキーが担当。1stアルバム『G∞VER』の制作後に作られた楽曲。

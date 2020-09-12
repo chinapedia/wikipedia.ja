@@ -11,7 +11,7 @@
 
 ## 外部リンク
 
-  - [以前のAKIBAX公式サイト](http://web.archive.org/web/*/http://www.akibax.com)（[Internet Archiveによるキャッシュ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
+  - [以前のAKIBAX公式サイト](https://web.archive.org/web/*/http://www.akibax.com)（[Internet Archiveによるキャッシュ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
   - [AKIBAX2006](http://www.akiba.or.jp/akibax2006/news/news.html)
   - [AKIBAX2010](http://akiba-agf.jp/akibax2010/)
 

@@ -99,15 +99,18 @@
   - [2015年](../Page/2015年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - [サノバウィッチ](https://ja.wikipedia.org/wiki/サノバウィッチ "wikilink")（ゆずソフト）
   - [2016年](../Page/2016年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink") - [千恋\*万花](https://ja.wikipedia.org/wiki/千恋*万花 "wikilink")（ゆずソフト）
   - [2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [RIDDLE JOKER](https://ja.wikipedia.org/wiki/RIDDLE_JOKER "wikilink")（ゆずソフト）
+  - [2019年](../Page/2019年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink") - [ココロネ=ペンデュラム\!](https://ja.wikipedia.org/wiki/ココロネ=ペンデュラム! "wikilink")（Clochette）
+  - [2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [スタディ§ステディ](https://ja.wikipedia.org/wiki/スタディ§ステディ "wikilink")（ま～まれぇど）
+  - [2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - [喫茶ステラと死神の蝶](https://ja.wikipedia.org/wiki/喫茶ステラと死神の蝶 "wikilink")（ゆずソフト）
 
 ## 脚注
 
 ## 外部リンク
 
-  - [J+　J.Sairo official homepage](http://www.din.or.jp/~sairo/)
+  - [J+　J.Sairo official homepage](https://web.archive.org/web/20130714055658/http://www.din.or.jp/~sairo/)（2013年7月14日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
   -
-[Category:アダルトゲームライター](https://ja.wikipedia.org/wiki/Category:アダルトゲームライター "wikilink") [Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:日本のライトノベル作家](https://ja.wikipedia.org/wiki/Category:日本のライトノベル作家 "wikilink") [Category:日本の小説家](https://ja.wikipedia.org/wiki/Category:日本の小説家 "wikilink") [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アダルトゲームライター](https://ja.wikipedia.org/wiki/Category:アダルトゲームライター "wikilink") [Category:日本のコンピュータゲームデザイナー](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームデザイナー "wikilink") [Category:日本のライトノベル作家](https://ja.wikipedia.org/wiki/Category:日本のライトノベル作家 "wikilink") [Category:日本の小説家](https://ja.wikipedia.org/wiki/Category:日本の小説家 "wikilink") [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本テレネットの人物](https://ja.wikipedia.org/wiki/Category:日本テレネットの人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  宮本直穀『エロゲー文化研究概論』総合科学出版、171頁、2013年

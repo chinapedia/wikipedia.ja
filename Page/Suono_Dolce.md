@@ -7,11 +7,11 @@
 
 2007年2月23日、ニッポン放送は[BSデジタルラジオ](../Page/BSデジタル音声放送.md "wikilink")、インターネットラジオ局として[LFX mudigiをサービス展開していたが](../Page/LFX_mudigi.md "wikilink")、[地上デジタルラジオ開始に辺り](../Page/地上デジタル音声放送.md "wikilink")、リブランディングの為、同年4月1日にLFX mudigiを閉局をする事を発表し、翌4月2日から[D-JOLF](../Page/D-JOLF.md "wikilink")のメインチャンネルの扱いで、新たに「丸の内発の[ラブソング](https://ja.wikipedia.org/wiki/ラブソング "wikilink")専門局」として、新ステーション名である「**Suono Dolce**」として開局\[1\]する事を発表した。
 
-キャッチコピーは「Love songs from Marunocuhi」で前述のラブソング専門局を謳っており、同局の当時：同局デジタル&イベント局デジタルコンテンツ部長で現：代表取締役社長である檜原麻希は開局当時、頻りに「AMっぽく（トークメイン）では無く、FMの（優雅な雰囲気で音楽メインの番組構成）様に」と演者、スタッフに求めていた。 チャンネルの語彙の意味は[イタリア語](../Page/イタリア語.md "wikilink")で「甘い音楽 (Sweet Sound)」である。また、地上波ラジオ放送しているニッポン放送では同局が所在する[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")をアピールしているが、当該インターネットラジオ局では、キャッチコピーに記されている有楽町の北隣に所在する[丸の内](../Page/丸の内.md "wikilink")を前面に推しており、一部番組では丸の内に所在する企業とのタイアップ企画を積極的推し進めていた。
+キャッチコピーは「Love songs from Marunocuhi」で前述のラブソング専門局を謳っており、同局の当時：同局デジタル&イベント局デジタルコンテンツ部長で現：代表取締役社長である[檜原麻希](https://ja.wikipedia.org/wiki/檜原麻希 "wikilink")は開局当時、頻りに「**More Misic,Less Talk. AMっぽく（トークメイン）では無く、FMの（優雅な雰囲気で音楽メインの番組構成）様に**」と演者、スタッフに求めていた\[2\]。 チャンネルの語彙の意味は[イタリア語](../Page/イタリア語.md "wikilink")で「甘い音楽 (Sweet Sound)」である。また、地上波ラジオ放送しているニッポン放送では同局が所在する[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")をアピールしているが、当該インターネットラジオ局では、キャッチコピーに記されている有楽町の北隣に所在する[丸の内](../Page/丸の内.md "wikilink")を前面に推しており、一部番組では丸の内に所在する企業とのタイアップ企画を積極的推し進めていた。
 
-番組は同局9階に所在する旧：スタジオXを改装し、名称を変更した「Studio Dolce」から放送しており\[2\]、一部番組は動画も併用配信している。開局から2011年3月31日にて地上デジタルラジオ実用化試験放送終了に伴い、電波での放送は終了。翌4月1日以降、インターネット配信のみとなった。
+番組は同局9階に所在する旧：スタジオXを改装し、名称を変更した「Studio Dolce」から放送しており\[3\]、一部番組は動画も併用配信している。開局から2011年3月31日にて地上デジタルラジオ実用化試験放送終了に伴い、電波での放送は終了。翌4月1日以降、インターネット配信のみとなった。
 
-その後、2017年12月8日に開局10年を持って、インターネット配信環境の発展的解消のため、2018年1月26日の23:59で配信終了が決定した事をチャンネル公式[Twitter](../Page/Twitter.md "wikilink")アカウントで告知\[3\]\[4\]。配信終了日の特番では、過去同チャンネルでパーソナリティを務めたタレント、アナウンサーが出演する事となった。
+その後、2017年12月8日に開局10年を持って、インターネット配信環境の発展的解消のため、2018年1月26日の23:59で配信終了が決定した事をチャンネル公式[Twitter](../Page/Twitter.md "wikilink")アカウントで告知\[4\]\[5\]。配信終了日の特番では、過去同チャンネルでパーソナリティを務めたタレント、アナウンサーが出演する事となった。
 
 ## 利用方法
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - オリジナルアプリケーション「Suono Dolce by ニッポン放送\[5\]\[6\]」 ※[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")\[7\]
+  - オリジナルアプリケーション「Suono Dolce by ニッポン放送\[6\]\[7\]」 ※[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[Windows Phone](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")\[8\]
   - W＋Radio※[W-ZERO3](../Page/W-ZERO3.md "wikilink")（[WILLCOM](../Page/ウィルコム.md "wikilink")）専用アプリ
 
 ## 放送時間
@@ -46,13 +46,13 @@
 ### 過去
 
   -
-    2011年3月11日に発災した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴い、ニッポン放送の地上波で放送した報道特別番組をサイマル放送。そのため、同年3月11日から14日の午後迄通常編成を休止した\[8\]
+    2011年3月11日に発災した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴い、ニッポン放送の地上波で放送した報道特別番組をサイマル放送。そのため、同年3月11日から14日の午後迄通常編成を休止した\[9\]
 
   - 地上波デジタルラジオ
 
 <!-- end list -->
 
-  - 月 - 土曜：6:00 - 3:00\[9\]日曜：6:00 - 1:00 - 2010年4月26日 - 2011年3月31日
+  - 月 - 土曜：6:00 - 3:00\[10\]日曜：6:00 - 1:00 - 2010年4月26日 - 2011年3月31日
   - 月 - 土曜：8:00 - 翌3:00、日曜：8:00 - 1:00 - 2008年3月31日 - 2010年4月25日
   - 月 - 土曜：9:00 - 2:00、日曜：9:00 - 1:00 - 2007年10月1日 - 2008年3月30日
   - 全日：9:00 - 0:00 - 2007年4月2日 - 9月30日
@@ -66,7 +66,7 @@
 <!-- end list -->
 
   -
-    平日：6:00 - 13:00\[10\]、\[11\]14:00 - 18:00、1:00 - 3:00
+    平日：6:00 - 13:00\[11\]、\[12\]14:00 - 18:00、1:00 - 3:00
     土曜：6:00 - 13:00、14:00 - 21:00、1:00 - 3:00
     日曜：6:00 - 13:00、14:00 - 21:00
     パーソナリティー： [Catherine Kobayashi](https://ja.wikipedia.org/wiki/キャサリン小林 "wikilink")（タレント）、David Shaw
@@ -124,7 +124,7 @@
     水曜：行達也（[CDショップ大賞](https://ja.wikipedia.org/wiki/CDショップ大賞 "wikilink")実行委員、モナレコード店長）
     木曜：金子厚武（音楽ライター） - 2015年1月 - 2016年3月、原田竜太 - 2014年5月 - 2015年4月、塩澤彩 - 2014年5月 - 2015年4月、[BounDEE宣伝担当](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink") - 2012年6月 - 2016年3月
     金曜：月替わりアーティストSP
-    （[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")（音楽プロデューサー） - 2012年6月、9月、2013年1月、11月、2014年2月、5月、9月、12月、2015年3月、7月、[Paris match](../Page/Paris_match.md "wikilink") - 2012年7月、11月、2013年1月、8月、2014年3月、6月、10月、2015年2月、6月、ナカムラヒロシ（音楽プロデューサー） - 2012年8月、12月、2014年11月、2016年2月、[ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")、[増田みのり](../Page/増田みのり.md "wikilink")（当時：ニッポン放送アナウンサー） - 2012年10月、2013年5月\[12\]、Cana（[SOTTE BOSSE](../Page/SOTTE_BOSSE.md "wikilink")） - 2013年4月、6月、9月、2014年7月、[バニラビーンズ](../Page/バニラビーンズ.md "wikilink") - 2013年7月、[藤澤ノリマサ](https://ja.wikipedia.org/wiki/藤澤ノリマサ "wikilink") - 2013年10月、[山崎あおい](https://ja.wikipedia.org/wiki/山崎あおい "wikilink") - 2014年1月、池川兄弟（[フラメンコ](../Page/フラメンコ.md "wikilink")ギターデュオ） - 2014年8月、[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink") - 2015年1月、[Fried Pride](../Page/Fried_Pride.md "wikilink") - 2015年4月、名渡山遼、Tomoki Sato（[ウクレレ](../Page/ウクレレ.md "wikilink")演奏者） - 2015年8月）
+    （[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")（音楽プロデューサー） - 2012年6月、9月、2013年1月、11月、2014年2月、5月、9月、12月、2015年3月、7月、[Paris match](../Page/Paris_match.md "wikilink") - 2012年7月、11月、2013年1月、8月、2014年3月、6月、10月、2015年2月、6月、ナカムラヒロシ（音楽プロデューサー） - 2012年8月、12月、2014年11月、2016年2月、[ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")、[増田みのり](../Page/増田みのり.md "wikilink")（当時：ニッポン放送アナウンサー） - 2012年10月、2013年5月\[13\]、Cana（[SOTTE BOSSE](../Page/SOTTE_BOSSE.md "wikilink")） - 2013年4月、6月、9月、2014年7月、[バニラビーンズ](../Page/バニラビーンズ.md "wikilink") - 2013年7月、[藤澤ノリマサ](https://ja.wikipedia.org/wiki/藤澤ノリマサ "wikilink") - 2013年10月、[山崎あおい](https://ja.wikipedia.org/wiki/山崎あおい "wikilink") - 2014年1月、池川兄弟（[フラメンコ](../Page/フラメンコ.md "wikilink")ギターデュオ） - 2014年8月、[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink") - 2015年1月、[Fried Pride](../Page/Fried_Pride.md "wikilink") - 2015年4月、名渡山遼、Tomoki Sato（[ウクレレ](../Page/ウクレレ.md "wikilink")演奏者） - 2015年8月）
 
 <!-- end list -->
 
@@ -170,14 +170,15 @@
 [Category:ニッポン放送の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の歴史 "wikilink") [Category:かつて存在した日本のラジオ局](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のラジオ局 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink")
 
 1.
-2.  一部番組は同局6階の第4スタジオから配信
-3.
+2.
+3.  一部番組は同局6階の第4スタジオから配信
 4.
 5.
 6.
 7.
 8.
-9.  2011年3月31日は放送免許の有効期限満了のため、23:59で終了
-10. 金曜のみ12:00迄
-11. 金曜のみ15:00から
-12. ミッツ単独では無く、[星屑スキャット](https://ja.wikipedia.org/wiki/星屑スキャット "wikilink")メンバーで出演
+9.
+10. 2011年3月31日は放送免許の有効期限満了のため、23:59で終了
+11. 金曜のみ12:00迄
+12. 金曜のみ15:00から
+13. ミッツ単独では無く、[星屑スキャット](https://ja.wikipedia.org/wiki/星屑スキャット "wikilink")メンバーで出演

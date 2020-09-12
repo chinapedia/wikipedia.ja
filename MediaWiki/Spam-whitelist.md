@@ -3,12 +3,14 @@
 
 `#  `
 
-    # External URLs matching this list will *not* be blocked even if they would
-    # have been blocked by blacklist entries.
+    # このリストに含まれる外部URLはブラックリストに含まれても*ブロックされません*。
+    # なお、このリストはウィキペディア日本語版でのみ有効です。
     #
-    # Syntax is as follows:
-    #   * Everything from a "#" character to the end of the line is a comment
-    #   * Every non-blank line is a regex fragment which will only match hosts inside URLs
+    # ショートカット：WP:WLIST、WP:WHITELIST
+    #
+    # 書式：
+    #   * "#"から一行の終わりまではコメント
+    #   * それ以外は正規表現の断片であり、URLのホスト名およびそれ以降にマッチします
 
     # FC2ブログの除外指定
     \b38timo3\.blog50\.fc2\.com\b #りょーちも
@@ -30,6 +32,7 @@
     \bdoubutusan2009\.blog42\.fc2\.com\b #DISTANCE (漫画家) [[Special:Diff/64560429|Special:Diff/64560429]]
     \benuma37\.blog\.fc2\.com\b #ゆきみ [[Special:Diff/72020877|Special:Diff/72020877]]
     \beriko0601\.blog83\.fc2\.com\b #マイケル・ジャクソン裁判
+    \bgairo4\.blog133\.fc2\.com\b #Sennzai [[Special:Diff/78176324|Special:Diff/78176324]]
     \bgris2\.blog70\.fc2\.com\b #コープスパーティー（の制作チーム公式ブログ）
     \bhaluna1215\.blog44\.fc2\.com\b #池澤春菜
     \bharlemgo10\.blog62\.fc2\.com\b #西山優里子
@@ -39,6 +42,7 @@
     \bisami53\.blog137\.fc2\.com\b #[[Special:PermaLink/49422582|Special:PermaLink/49422582]]
     \bishikari210\.blog\.fc2\.com\b #札幌市営地下鉄6000系電車 [[Special:Diff/75571558|Special:Diff/75571558]]
     \bishiwatarishintaro55\.blog113\.fc2\.com\b #石渡伸太郎
+    \bj2000\.blog\.fc2\.com\b #守屋博昭 [[Special:Diff/78332780|Special:Diff/78332780]]
     \bjabf0\.blog\.fc2\.com\b #日本ボクシング連盟 [[Special:Diff/69436637|Special:Diff/69436637]]
     \bkaeru6262\.blog94\.fc2\.com\b #田辺青蛙 [[Special:Diff/56745789|Special:Diff/56745789]]
     \bkanagawa2010\.blog6\.fc2\.com\b #横浜ビー・コルセアーズ [[Special:Diff/77356040|Special:Diff/77356040]]
@@ -49,6 +53,7 @@
     \bkorie0202\.blog36\.fc2\.com\b #梱枝りこ
     \bkorie2006\.blog49\.fc2\.com\b #梱枝りこ
     \bkosaka4\.blog68\.fc2\.com\b #小坂俊史
+    \bryousuke1976\.blog123\.fc2\.com\b #中村亮介 (アニメ演出家) [[Special:Diff/77546321|Special:Diff/77546321]]
     \bmasachan4994\.blog116\.fc2\.com\b #篠崎正嗣
     \bmikirinno00\.blog\.fc2\.com\b #厘のミキ [[Special:Diff/51464561|Special:Diff/51464561]]
     \bmin35\.blog109\.fc2\.com\b #水無瀬さんご
@@ -97,6 +102,7 @@
     \bbookjungle\.ti-da\.net\b #榕樹書林
     \bfmkoza\.ti-da\.net\b #FMコザ [[Special:PermaLink/46025632|Special:PermaLink/46025632]]
     \bkiiyama\.ti-da\.net\b #ドゥマンギテ [[Special:Diff/64519080|Special:Diff/64519080]]
+    \bminokazu\.ti-da\.net\b #箕田和男 [[Special:Diff/78044910|Special:Diff/78044910]]
     \bterukan\.ti-da\.net\b #照屋寛徳
     \btetsutaroyoshida\.ti-da\.net\b #伊波邦准、伊波伴准 [[Special:Diff/71516828|Special:Diff/71516828]]
 
@@ -113,4 +119,4 @@
     \btelegraph\.co\.uk\b # [[Special:Diff/59207290|Special:Diff/59207290]]
     \baliexpress\.com\/index\.html\b #AliExpress [[Special:Diff/76190660|Special:Diff/76190660]]
     \bbusiness-sale\.com\b #コスタコーヒー [[Special:Diff/76740080|Special:Diff/76740080]]
-    #
+     #

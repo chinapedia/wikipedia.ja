@@ -99,13 +99,11 @@
   - 小説
     2007年[12月27日](../Page/12月27日.md "wikilink")に[ホビージャパン](../Page/ホビージャパン.md "wikilink")・[HJ文庫](../Page/HJ文庫.md "wikilink")よりノベライズ作品「AIKa R-16:TURNING MISSION」が刊行された。著者は[すずきあきら](https://ja.wikipedia.org/wiki/すずきあきら "wikilink")、画は山内則康が担当。
     なお、[コミックとらのあな](../Page/コミックとらのあな.md "wikilink")を始めとする一部店舗では限定版『**Special Panties Version**』が発売された（[藍華のパンツ（本物）付\!? HJ文庫「AIKa R-16」特別版発売](http://hobby-channel.net/content/view/3924/64/)）。
-      -
-        通常版 ISBN 978-4-89425-651-4
-        限定版 ISBN 978-4-89425-672-9
+      - 通常版 ISBN 978-4-89425-651-4
+      - 限定版 ISBN 978-4-89425-672-9
   - コミック
     『[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて、『**AIKa R-16: SCHOOL MISSION**』のタイトルで連載された。作画は[藤島真ノ介](https://ja.wikipedia.org/wiki/藤島真ノ介 "wikilink")が担当。
-      -
-        [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")発売 ISBN 978-4-253-23214-2
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")発売 ISBN 978-4-253-23214-2
   - ムック
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")11月に[一迅社](../Page/一迅社.md "wikilink")から『**アイカ コンプリートファンブック**』のタイトルで発売された。
 

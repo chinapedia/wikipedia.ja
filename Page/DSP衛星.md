@@ -61,7 +61,7 @@ DSP衛星計画は、2008年より後継の[宇宙空間赤外線システム (S
 
   - 英語版Wikipedia "[Defense Support Program](https://ja.wikipedia.org/wiki/:en:Defense_Support_Program "wikilink")"
   - アメリカ空軍宇宙軍団発行のデータシート 2004年4月発行版（英語）
-  - アメリカ空軍宇宙軍団発行の[データシート](http://web.archive.org/web/20031009035107/http://www.af.mil/factsheets/factsheet.asp?fsID=96) 2007年3月発行版（英語）
+  - アメリカ空軍宇宙軍団発行の[データシート](https://web.archive.org/web/20031009035107/http://www.af.mil/factsheets/factsheet.asp?fsID=96) 2007年3月発行版（英語）
   - [Spacecraft Systems Overview](http://www.aero.org/publications/gilmore/gilmore-1.html)（英語）
 
 ## 関連項目

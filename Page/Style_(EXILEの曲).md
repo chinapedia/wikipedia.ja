@@ -14,24 +14,24 @@
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
     <!-- end list -->
       - テレビ東京系『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』エンディングテーマ
-2.  **Style** (ajapai Remix) \[5:24\]
+2.  **Style**（ajapai Remix） \[5:24\]
       -
         編曲：[ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink") for ajapai entertainment
     <!-- end list -->
       - 表題曲のリミックスバージョン
-3.  **[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")** (Eric Kupper Classic Mix) \[3:50\]
+3.  **[Your eyes only 〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")**（Eric Kupper Classic Mix）\[3:50\]
       -
         作詞：Kenn Kato / 作曲：Face 2 fAKE / 編曲： Eric Kupper for Hysteria Productions
     <!-- end list -->
       - 1stシングルのリミックスバージョン
       - 1stシングルアナログ盤収録曲
-4.  **Your eyes only** (Junior's Transpacific Mix) \[8:57\]
+4.  **Your eyes only**（Junior's Transpacific Mix） \[8:57\]
       -
         編曲：Junior Vasquez
     <!-- end list -->
       - 1stシングルのリミックスバージョン
       - 1stシングルアナログ盤収録曲
-5.  Style (Instrumental) \[4:41\]
+5.  Style（Instrumental）\[4:41\]
 
 ## 脚注
 

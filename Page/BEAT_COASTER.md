@@ -1,13 +1,15 @@
 > この記事は[BEAT COASTER](https://ja.wikipedia.org/wiki/BEAT_COASTER)から翻訳されています。
 
 
-**BEAT COASTER**（ビート・コースター）は、月曜～木曜 16:00～20:00に[FM PORTでシティサイドスタジオにて](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJは](https://ja.wikipedia.org/wiki/ディスク・ジョッキー "wikilink")[島村仁](../Page/島村仁.md "wikilink")が担当。
+**BEAT COASTER**（ビート・コースター）は毎週月曜から木曜の間、[FM PORTのシティサイドスタジオから](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
 2004年9月まで放送されていた情報番組「イブニング・クルーズ」に替わってスタート。時期を同じくして金曜日にも当番組の金曜版・「[BEAT COASTER〜FRIDAY EDITION〜](../Page/BEAT_COASTER〜FRIDAY_EDITION〜.md "wikilink")」（DJ:[高橋佳奈子](../Page/高橋佳奈子.md "wikilink")）が開始した。オール[リクエスト番組](../Page/リクエスト番組.md "wikilink")で、選曲はほぼ[リスナー](../Page/リスナー.md "wikilink")からのリクエストによるもの。この他に番組1押しの楽曲「パワー・グルーブ」や、懐かしい曲を届ける「バック・イン・ザ・デイ」などがある。
 
-それまで平日夕方の時間帯には、ニュース番組「スタンピン・グラウンド」や先述した「イブニング・クルーズ」など、サラリーマンや主婦向けの情報番組を放送していたが、この番組で一転することとなった。なお、2020年4月現在で夕方の番組では一番長く放送されている。
+それまで平日夕方の時間帯には、ニュース番組「スタンピン・グラウンド」や先述した「イブニング・クルーズ」など、サラリーマンや主婦向けの情報番組を放送していたが、この番組から一転して音楽番組へと刷新された。
+
+2020年6月30日のFM PORT閉局に伴い、同局最後に放送されたレギュラー番組であった\[1\]。
 
 ## パーソナリティ
 
@@ -74,7 +76,7 @@
 <!-- end list -->
 
   -
-    写真家・渡部佳則氏が自らが撮影した写真について「とりとめのない」話をする。コーナー自体は開局から続いており、「ウィークエンド・マガジン」→「にいがた探検隊」→ 「ポレポレ」→「イブニング・クルーズ」の中で放送されていた。
+    写真家・渡部佳則氏が自らが撮影した写真について「とりとめのない」話をする。コーナー自体は開局から続いており、「ウィークエンド・マガジン」→「にいがた探検隊」→ 「ポレポレ」→「イブニング・クルーズ」の中で放送されていた。2020年7月にこのコーナーをまとめた書籍が発売された\[2\]。
 
 ### 過去のコーナー
 
@@ -102,12 +104,19 @@
 
   - [2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")には、「MORNING GATE」、「Paraiso Omelette」、「TOWN CROSSING」、「BEAT COASTER」の4番組合同企画「FM PORT NEW YEAR SPECIAL 『DASH07』」を開催。BEAT COASTERでは、「BC初リク！やったァスペシャル！ずこー」を企画。
 
+## 脚注
+
 ## 関連項目
 
   - [Jin Rock Festival](https://ja.wikipedia.org/wiki/Jin_Rock_Festival "wikilink")
+  - [PORT COUNT DOWN 40](https://ja.wikipedia.org/wiki/PORT_COUNT_DOWN_40 "wikilink") - 島村がナビゲーターを担当した、もう一つのFM PORTの番組。
+  - [JIN'S RADIO SHOW](https://ja.wikipedia.org/wiki/JIN'S_RADIO_SHOW "wikilink") - 2020年7月8日から放送されている島村がパーソナリティを担当する[FM新潟の番組](../Page/エフエムラジオ新潟.md "wikilink")。
 
 ## 外部リンク
 
   -
   -
 [Category:FM_PORTの番組](https://ja.wikipedia.org/wiki/Category:FM_PORTの番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")
+
+1.
+2.

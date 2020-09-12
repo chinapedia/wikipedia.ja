@@ -330,7 +330,7 @@
 <li>Snow man featuring Ripslyme</li>
 <li>Super love</li>
 <li>Love with you a merry christmas</li>
-<li>いつかのメリークリスマス</li>
+<li><a href="../Page/いつかのメリークリスマス.md" title="wikilink">いつかのメリークリスマス</a></li>
 <li>If-もしも僕がこの空の星になれたら</li>
 <li>Luv Merry X’mas</li>
 <li>星空を見上げて (reprise)</li>
@@ -487,17 +487,17 @@
 <td><p>TFCC-86419</p></td>
 <td><ol>
 <li>JUPITER[a cappella]</li>
-<li>PRIDE</li>
-<li>星のかけらを探しに行こう Again＜DUET WITH SAY＞</li>
-<li>時の描片 ～トキノカケラ～</li>
-<li>未来予想図II[a cappella]</li>
-<li>栄光の架橋</li>
-<li>ここにしか咲かない花</li>
-<li>小さな恋のうた[a cappella]</li>
+<li><a href="../Page/PRIDE_(今井美樹の曲).md" title="wikilink">PRIDE</a></li>
+<li><a href="../Page/星のかけらを探しに行こう_Again.md" title="wikilink">星のかけらを探しに行こう Again</a>＜DUET WITH SAY＞</li>
+<li><a href="https://ja.wikipedia.org/wiki/時の描片_〜トキノカケラ〜/24karats_-type_EX-" title="wikilink">時の描片 ～トキノカケラ～</a></li>
+<li><a href="../Page/未来予想図II.md" title="wikilink">未来予想図II</a>[a cappella]</li>
+<li><a href="../Page/栄光の架橋.md" title="wikilink">栄光の架橋</a></li>
+<li><a href="../Page/ここにしか咲かない花.md" title="wikilink">ここにしか咲かない花</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/小さな恋のうた" title="wikilink">小さな恋のうた</a>[a cappella]</li>
 <li>はじめてのチュウ＜DUET WITH JOY＞</li>
-<li>ORION</li>
-<li>Story＜DUET WITH 4you＞</li>
-<li>ENDLESS STORY</li>
+<li><a href="https://ja.wikipedia.org/wiki/ORION_(中島美嘉の曲)" title="wikilink">ORION</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Story_(AIの曲)" title="wikilink">Story</a>＜DUET WITH 4you＞</li>
+<li><a href="../Page/ENDLESS_STORY.md" title="wikilink">ENDLESS STORY</a></li>
 </ol></td>
 <td><p>J-POPカヴァーアルバム<br />
 オリコン最高107位</p></td>

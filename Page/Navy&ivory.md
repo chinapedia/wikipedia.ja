@@ -1,10 +1,9 @@
 > この記事は[Navy\&ivory](https://ja.wikipedia.org/wiki/Navy\&ivory)から翻訳されています。
 
 
-**navy\&ivory**（ネイビー・アンド・アイボリー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。それぞれソロ活動中にライブハウスでの[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")で知り合う。吾郷の作り出す詩曲と下地の声による歌唱、というお互いの才能を合わせ2000年にユニットを結成した。
+**navy\&ivory**（ネイビー・アンド・アイボリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。それぞれソロ活動中にライブハウスでの[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")で知り合う。吾郷の作り出す詩曲と下地の声による歌唱、というお互いの才能を合わせ2000年にユニットを結成した。
 
-2013年2月17日にオフィシャルHP及びメンバーブログにて2013年よりの無期限活動休止を発表。
-あわせて所属事務所Thumb Pickとの契約終了も発表され、事実上の解散となり今後はソロ活動を行なう事となった。
+2013年2月17日にオフィシャルHPおよびメンバーブログにて2013年よりの無期限活動休止を発表。あわせて所属事務所Thumb Pickとの契約終了も発表され、事実上の解散となり今後はソロ活動を行うこととなった。
 
 ## メンバー
 
@@ -67,4 +66,4 @@
   - \[<https://ameblo.jp/mikio-ago/>　 吾郷水木生　オフィシャルブログ\]
   - \[<https://ameblo.jp/masaaki-shimoji/>　下地正晃 オフィシャルブログ\]
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink")
+[Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink")

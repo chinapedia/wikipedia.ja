@@ -1,9 +1,9 @@
 > この記事は[L\'Arc〜en〜Cielのディスコグラフィ](https://ja.wikipedia.org/wiki/L\'Arc〜en〜Cielのディスコグラフィ)から翻訳されています。
 
 
-L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")がこれまでに発売した全作品についてまとめた項。
+L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエルのディスコグラフィ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")である[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")がこれまでに発売した全作品についてまとめた項。
 
-  - [CD等の発売元の](../Page/コンパクトディスク.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")は、特記事項がない限り[キューンミュージック](../Page/キューンミュージック.md "wikilink")からの発売となる。
+  - [CD等の発売元の](../Page/コンパクトディスク.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")は、特記事項がない限り[キューンミュージック](../Page/キューンミュージック.md "wikilink")（Ki/oon Music）からの発売となる\[1\]。
   - 書籍はオフィシャルで出版されたもののみを記載。
 
 ## シングル
@@ -878,13 +878,13 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 
 ### 配信限定シングル
 
-| 発売日                                                                                           | タイトル                                                                                                  | 規格                                                                  | 備考                                                                            |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 2010年3月31日                                                                                    | [I Love Rock'n Roll](https://ja.wikipedia.org/wiki/I_Love_Rock'n_Roll_\(L'Arc〜en〜Cielの曲\) "wikilink") | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") | [THE ARROWSの楽曲のカバー](https://ja.wikipedia.org/wiki/:en:The_Arrows "wikilink")。 |
-| 2012年5月23日                                                                                    | [X X X -English version-](https://ja.wikipedia.org/wiki/X_X_X "wikilink")                             | デジタル・ダウンロード                                                         | 38thシングルの表題曲の全英語詞バージョン。                                                       |
-| [CHASE -English version-](https://ja.wikipedia.org/wiki/CHASE_\(L'Arc〜en〜Cielの曲\) "wikilink") | デジタル・ダウンロード                                                                                           | 39thシングルの表題曲の全英語詞バージョン。                                             |                                                                               |
-| 2016年11月25日                                                                                   | [Don't be Afraid -English version-](https://ja.wikipedia.org/wiki/Don't_be_Afraid "wikilink")         | デジタル・ダウンロード                                                         | 41stシングルの表題曲の全英語詞バージョン。                                                       |
-|                                                                                               |                                                                                                       |                                                                     |                                                                               |
+| 発売日                                                                                           | タイトル                                                                                                  | 規格                                                                  | 備考                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2010年3月31日                                                                                    | [I Love Rock'n Roll](https://ja.wikipedia.org/wiki/I_Love_Rock'n_Roll_\(L'Arc〜en〜Cielの曲\) "wikilink") | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") | [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")である[アローズの楽曲のカバー](https://ja.wikipedia.org/wiki/:en:Arrows_\(British_band\) "wikilink")。 |
+| 2012年5月23日                                                                                    | [X X X -English version-](https://ja.wikipedia.org/wiki/X_X_X "wikilink")                             | デジタル・ダウンロード                                                         | 38thシングルの表題曲の全英語詞バージョン。                                                                                                                                                                          |
+| [CHASE -English version-](https://ja.wikipedia.org/wiki/CHASE_\(L'Arc〜en〜Cielの曲\) "wikilink") | デジタル・ダウンロード                                                                                           | 39thシングルの表題曲の全英語詞バージョン。                                             |                                                                                                                                                                                                  |
+| 2016年11月25日                                                                                   | [Don't be Afraid -English version-](https://ja.wikipedia.org/wiki/Don't_be_Afraid "wikilink")         | デジタル・ダウンロード                                                         | 41stシングルの表題曲の全英語詞バージョン。                                                                                                                                                                          |
+|                                                                                               |                                                                                                       |                                                                     |                                                                                                                                                                                                  |
 
 ## アルバム
 
@@ -917,7 +917,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>CD</p></td>
 <td><p><a href="../Page/デンジャークルー・レコード.md" title="wikilink">HML</a>-008</p></td>
 <td><Div Align="center">
-<p>1位[1]</p>
+<p>1位[2]</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1474,7 +1474,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 ## 映像作品
 
   - オリコン最高順位が**太字**の作品は[オリコン](../Page/オリコン.md "wikilink")映像総合チャート首位獲得作品。
-  - 「"」はVHSチャートの最高順位、「\*」はDVD音楽チャートの最高順位、「^」はBD音楽若しくは映画チャートの最高順位を示す。
+  - 「(V)」は[VHS](../Page/VHS.md "wikilink")チャートの最高順位、「(D)」は[DVD](../Page/DVD.md "wikilink")音楽チャートの最高順位、「(B)」は[BD音楽もしくは映画チャートの最高順位を示す](../Page/Blu-ray_Disc.md "wikilink")。
 
 ### ミュージック・クリップ
 
@@ -1502,7 +1502,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p><a href="../Page/VHS.md" title="wikilink">VHS</a></p></td>
 <td><p>HMV-003</p></td>
 <td><Div Align="center">
-<p>1位"[2]</p>
+<p>1位(V)[3]</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1512,7 +1512,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5046</p></td>
 <td><Div Align="center">
-<p>1位"</p>
+<p>1位(V)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1530,7 +1530,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5056</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1548,7 +1548,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5832</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1558,7 +1558,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5888</p></td>
 <td><Div Align="center">
-<p>1位*</p>
+<p>1位(D)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1568,7 +1568,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5889</p></td>
 <td><Div Align="center">
-<p>3位*</p>
+<p>3位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1606,7 +1606,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5037</p></td>
 <td><Div Align="center">
-<p>1位"</p>
+<p>1位(V)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1657,7 +1657,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5014</p></td>
 <td><Div Align="center">
-<p>5位"</p>
+<p>5位(V)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1720,7 +1720,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5026</p></td>
 <td><Div Align="center">
-<p>3位"</p>
+<p>3位(V)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1754,7 +1754,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5041</p></td>
 <td><Div Align="center">
-<p>1位"</p>
+<p>1位(V)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1788,7 +1788,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5047</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1814,7 +1814,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5058</p></td>
 <td><Div Align="center">
-<p>5位*</p>
+<p>5位(D)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1840,7 +1840,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5753</p></td>
 <td><Div Align="center">
-<p>3位*</p>
+<p>3位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1858,7 +1858,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5792</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1876,7 +1876,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5066</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1894,7 +1894,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-5815</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1912,7 +1912,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5830〜5831</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1930,7 +1930,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5847〜5848</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1948,7 +1948,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5907〜5908</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1966,7 +1966,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5909〜5910</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -1984,7 +1984,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5913〜5914</p></td>
 <td><Div Align="center">
-<p><strong>1位*</strong></p>
+<p><strong>1位(D)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -2002,7 +2002,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5937〜5938</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -2029,7 +2029,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-6009〜6010</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 <td></td>
 </tr>
@@ -2047,7 +2047,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-6011〜6012</p></td>
 <td><Div Align="center">
-<p>3位*</p>
+<p>3位(D)</p>
 </Div></td>
 <td></td>
 </tr>
@@ -2066,7 +2066,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)+CD(2枚組)</p></td>
 <td><p>KSBL-6041〜6044</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -2092,7 +2092,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)+CD(2枚組)</p></td>
 <td><p>KSBL-6050〜6053</p></td>
 <td><Div Align="center">
-<p>1位^</p>
+<p>1位(B)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -2198,7 +2198,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)+<a href="https://ja.wikipedia.org/wiki/ブルースペックCD" title="wikilink">Blu-spec CD2</a>(2枚組)</p></td>
 <td><p>KSBL-6161〜6165</p></td>
 <td><Div Align="center">
-<p><strong>1位^</strong></p>
+<p><strong>1位(B)</strong></p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -2232,7 +2232,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-6235〜6236</p></td>
 <td><Div Align="center">
-<p>2位^</p>
+<p>2位(B)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -2266,7 +2266,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-6307〜6308</p></td>
 <td><Div Align="center">
-<p><strong>1位^</strong></p>
+<p><strong>1位(B)</strong></p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -2292,7 +2292,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-6352〜6353</p></td>
 <td><Div Align="center">
-<p><strong>1位^</strong></p>
+<p><strong>1位(B)</strong></p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -2338,7 +2338,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD</p></td>
 <td><p>KSBL-6020</p></td>
 <td><Div Align="center">
-<p>2位*</p>
+<p>2位(D)</p>
 </Div></td>
 </tr>
 </tbody>
@@ -2370,7 +2370,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(5枚組)</p></td>
 <td><p>KSBL-5833〜5837</p></td>
 <td><Div Align="center">
-<p>4位*</p>
+<p>4位(D)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -2380,7 +2380,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(5枚組)</p></td>
 <td><p>KSBL-6000〜6004</p></td>
 <td><Div Align="center">
-<p>1位*</p>
+<p>1位(D)</p>
 </Div></td>
 </tr>
 <tr class="odd">
@@ -2390,7 +2390,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>Blu-ray(18枚組)+CD(31枚組)</p></td>
 <td><p>KSXL-100〜149</p></td>
 <td><Div Align="center">
-<p>3位^</p>
+<p>3位(B)</p>
 </Div></td>
 </tr>
 </tbody>
@@ -2422,7 +2422,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-5911〜5912</p></td>
 <td><Div Align="center">
-<p>4位*</p>
+<p>4位(D)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -2440,7 +2440,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>DVD(2枚組)</p></td>
 <td><p>KSBL-6180</p></td>
 <td><Div Align="center">
-<p>1位^</p>
+<p>1位(B)</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -3123,6 +3123,10 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 </tbody>
 </table>
 
+## サブスクリプション
+
+2019年12月11日、[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[LINE MUSIC](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")、[Amazon Music Unlimited](https://ja.wikipedia.org/wiki/Amaozn_Music "wikilink")、[AWA](https://ja.wikipedia.org/wiki/AWA "wikilink")、[KKBOX](https://ja.wikipedia.org/wiki/KKBOX "wikilink")、Rakuten Musicの各種[サブスクリプションサービス](https://ja.wikipedia.org/wiki/サブスクリプション方式 "wikilink")（[定額制音楽配信](https://ja.wikipedia.org/wiki/音楽配信#定額制音楽配信 "wikilink")）にて、これまで発表した全楽曲、全ミュージック・クリップのストリーミング配信を全世界で、これまでに発表した計428曲の全音源と計51作の全ミュージック・クリップを解禁した\[4\]。
+
 ## 外部リンク
 
   - [L'Arc-en-Ciel Official Web Site](http://www.larc-en-ciel.com/jp/)
@@ -3132,5 +3136,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 
 [Category:L'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Ciel "wikilink") [Category:ディスコグラフィ](https://ja.wikipedia.org/wiki/Category:ディスコグラフィ "wikilink")
 
-1.  [オリコン](../Page/オリコン.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")チャートでの順位。
-2.
+1.  当該レーベルは、過去に名称を「キューン・ソニーレコード」（1992年4月 - 1998年3月）、「キューンレコード」（1998年4月 - 2012年3月）、「キューンミュージック」（2012年4月 - ）と変更している。
+2.  [オリコン](../Page/オリコン.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")チャートでの順位。
+3.
+4.  [L'Arc-en-Ciel全楽曲＆全ミュージックビデオ、世界で一斉サブスク解禁](https://natalie.mu/music/news/358979) - ナタリー

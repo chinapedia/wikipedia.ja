@@ -105,7 +105,7 @@ U-ZIPPLAIN aka U-CHANG aka U-ZIPP（ユージップレイン） [MC](https://ja.
 
   - [grooveman spot](https://ameblo.jp/groovemanspot/)grooveman spot BLOG
 
-  - [blogrooveman](http://grooveman.exblog.jp/) 旧ブログ
+  - [blogrooveman](https://grooveman.exblog.jp/) 旧ブログ
 
   - [U-ZIPPLAIN from ENBULL "From the cradle to the grave"](http://blog.livedoor.jp/zipplain/) 旧ブログ
 

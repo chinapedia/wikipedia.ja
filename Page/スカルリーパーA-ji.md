@@ -83,7 +83,7 @@
   - [スカルリーパーA-ji事務所のブログ](https://ameblo.jp/skullaji/)
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:覆面レスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:プロレス・エグゼクティブ](https://ja.wikipedia.org/wiki/Category:プロレス・エグゼクティブ "wikilink") [Category:自由党の人物_(日本_2016-2019)](https://ja.wikipedia.org/wiki/Category:自由党の人物_\(日本_2016-2019\) "wikilink") [Category:大分市議会議員](https://ja.wikipedia.org/wiki/Category:大分市議会議員 "wikilink") [Category:大分県出身の人物](https://ja.wikipedia.org/wiki/Category:大分県出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:覆面レスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:プロレス・エグゼクティブ](https://ja.wikipedia.org/wiki/Category:プロレス・エグゼクティブ "wikilink") [Category:自由党の人物_(日本_2016-2019)](https://ja.wikipedia.org/wiki/Category:自由党の人物_\(日本_2016-2019\) "wikilink") [Category:大分市議会議員](https://ja.wikipedia.org/wiki/Category:大分市議会議員 "wikilink") [Category:大分県出身の人物](https://ja.wikipedia.org/wiki/Category:大分県出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のスポーツ選手出身の政治家](https://ja.wikipedia.org/wiki/Category:日本のスポーツ選手出身の政治家 "wikilink")
 
 1.
 2.

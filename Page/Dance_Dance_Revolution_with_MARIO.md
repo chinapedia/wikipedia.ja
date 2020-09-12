@@ -166,4 +166,4 @@
 
   - [Dance Dance Revolution with MARIO](http://www.nintendo.co.jp/ngc/gwzj/index.html) - 任天堂公式サイト
 
-[Category:ダンスゲーム](https://ja.wikipedia.org/wiki/Category:ダンスゲーム "wikilink") [Category:マリオシリーズ](https://ja.wikipedia.org/wiki/Category:マリオシリーズ "wikilink") [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink")
+[Category:ダンスゲーム](https://ja.wikipedia.org/wiki/Category:ダンスゲーム "wikilink") [Category:マリオシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:マリオシリーズのコンピュータゲーム "wikilink") [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink")

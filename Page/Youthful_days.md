@@ -29,9 +29,65 @@
         福岡県の[那珂川の土手で散歩中に美しい景色を前にして](../Page/那珂川_\(九州\).md "wikilink")「うまく絵が描けたらなあ」と思ったことからこの曲が作られたと語っている。
         『Mr.Children 2001-2005 <micro>』にも収録されており、初出がカップリング曲となっている楽曲で唯一『[B-SIDE](../Page/B-SIDE.md "wikilink")』以外のベストアルバムに収録された。
 
+## テレビ出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>日付</p></th>
+<th><p>放送局</p></th>
+<th><p>演奏曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></p></td>
+<td><p>2001年11月17日</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
+<td><p><strong>youthful days</strong>[2]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a></p></td>
+<td><p>2001年11月19日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p><strong>youthful days</strong>[3]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージックステーション" title="wikilink">ミュージックステーション</a></p></td>
+<td><p>2001年12月28日</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
+<td><p><strong>youthful days</strong><br />
+<a href="../Page/君が好き_(Mr.Childrenの曲).md" title="wikilink">君が好き</a>[4]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージック・カクテル" title="wikilink">ミュージック・カクテル</a></p></td>
+<td><p>2002年5月2日</p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a></p></td>
+<td><p><strong>youthful days</strong><br />
+<a href="../Page/優しい歌_(Mr.Childrenの曲).md" title="wikilink">優しい歌</a>[5]</p></td>
+</tr>
+<tr class="odd">
+<td><p>ミュージックステーション</p></td>
+<td><p>2002年5月10日</p></td>
+<td><p>テレビ朝日</p></td>
+<td><p><strong>youthful days</strong><br />
+<a href="https://ja.wikipedia.org/wiki/IT&#39;S_A_WONDERFUL_WORLD#収録曲" title="wikilink">蘇生</a>[6]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/僕らの音楽_Our_Music.md" title="wikilink">僕らの音楽</a></p></td>
+<td><p>2012年5月11日</p></td>
+<td><p>フジテレビ</p></td>
+<td><p><a href="../Page/名もなき詩.md" title="wikilink">名もなき詩</a><br />
+<strong>youthful days</strong><br />
+<a href="https://ja.wikipedia.org/wiki/祈り_〜涙の軌道/End_of_the_day/pieces" title="wikilink">祈り ～涙の軌道</a>[7]</p></td>
+</tr>
+</tbody>
+</table>
+
 ## ライブ映像作品
 
-### youthful days
+**youthful days**
 
 | 作品名                                                                                                                       | 備考 |
 | ------------------------------------------------------------------------------------------------------------------------- | -- |
@@ -42,7 +98,7 @@
 | [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink")                 |    |
 | [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")               |    |
 
-### Drawing
+**Drawing**
 
 | 作品名                                                                                                                                                                       | 備考 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
@@ -66,3 +122,9 @@
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")
 
 1.  リリースから10年半経過した2012年4月から、『Mr.Children 2001-2005 <micro>』の発売に合わせて使用。なお、このCMに出演するのは[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")のキャプテンで、Mr.Childrenの大ファンであると公言している[長谷部誠](../Page/長谷部誠.md "wikilink")。
+2.
+3.
+4.
+5.
+6.
+7.

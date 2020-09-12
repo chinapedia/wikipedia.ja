@@ -3,17 +3,7 @@
 
 {{Infobox Album | Name = never+land | Type = [スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink") | Artist = [misono](https://ja.wikipedia.org/wiki/misono "wikilink") | Released = [2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") | Recorded = [2006年](../Page/2006年.md "wikilink") - [2007年](../Page/2007年.md "wikilink") | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 52分13秒 | Label = [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink") | Producer = [Max Matsuura](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink") | Reviews = | Chart position = \* 週間20位（[オリコン](../Page/オリコンチャート.md "wikilink")） | Certification = | Last album = | This album = never+land
 （2007年） | Next album = [生-say-](../Page/生-say-.md "wikilink")
-（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")） | Misc = {{Singles
-
-` | Name           = never+land`
-` | Type           = スタジオ・アルバム`
-` | Single 1       = `[`VS`](../Page/VS_\(misonoの曲\).md "wikilink")
-` | Single 1 date  = 2006年3月29日`
-` | Single 2       = `[`個人授業`](../Page/個人授業_\(曲\).md "wikilink")
-` | Single 2 date  = 2006年5月10日`
-` | Single 3       = `[`スピードライブ`](../Page/スピードライブ.md "wikilink")
-` | Single 3 date  = 2006年7月12日`
-` | Single 4       = [[ラブリーキャッツアイ|ラブリー`
+（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")） | Misc =
 
 『**never+land**』（ネバー・ランド）は、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")の1枚目のオリジナルアルバムである。[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
@@ -37,7 +27,7 @@
       -
         作曲：[日暮愛葉](../Page/日暮愛葉.md "wikilink")
         歌詞はあるがブックレットに歌詞は記載されておらず、[インスト](https://ja.wikipedia.org/wiki/インスト "wikilink")扱いの曲である。
-2.  **[ラブリー♡キャッツアイ〜ネコはコタツで丸くならないの巻〜](../Page/ラブリーキャッツアイ.md "wikilink")**
+2.  **[ラブリー♡キャッツアイ](https://ja.wikipedia.org/wiki/ラブリー♡キャッツアイ "wikilink")〜ネコはコタツで丸くならないの巻〜**
       -
         作曲: [西川進](../Page/西川進.md "wikilink") / 編曲：西川進&[イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
         4thシングルのアレンジ。[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")社ゲーム「[テイルズ オブ ザ テンペスト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_テンペスト "wikilink")」イメージ・ソング

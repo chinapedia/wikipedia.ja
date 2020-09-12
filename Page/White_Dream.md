@@ -12,16 +12,19 @@
   - [松村龍之介](https://ja.wikipedia.org/wiki/松村龍之介 "wikilink")
   - [小野匠](https://ja.wikipedia.org/wiki/小野匠 "wikilink")
   - [宮元英光](https://ja.wikipedia.org/wiki/宮元英光 "wikilink")
+  - [秀光](https://ja.wikipedia.org/wiki/秀光 "wikilink") ([劇団プレステージ](https://ja.wikipedia.org/wiki/劇団プレステージ "wikilink"))
+  - [長尾卓也](https://ja.wikipedia.org/wiki/長尾卓也 "wikilink")([劇団プレステージ](https://ja.wikipedia.org/wiki/劇団プレステージ "wikilink"))
   - [村山和実](https://ja.wikipedia.org/wiki/村山和実 "wikilink")
   - [深堀圭一郎](../Page/深堀圭一郎.md "wikilink")(プロゴルファー)
   - エレーナ・アン
   - 千疋隼斗
   - 灰塚宗史
+  - [RIMA](https://ja.wikipedia.org/wiki/RIMA "wikilink")
 
 ## 過去の所属アーティスト・タレント
 
   - [滴草由実](../Page/滴草由実.md "wikilink")（ビーイングへ移籍）
-  - [azusa](https://ja.wikipedia.org/wiki/azusa_\(シンガーソングライター\) "wikilink")
+  - [azusa](https://ja.wikipedia.org/wiki/azusa_\(シンガーソングライター\) "wikilink")（活動休止）
   - [中村祐美子](https://ja.wikipedia.org/wiki/中村祐美子 "wikilink")
   - [真中潤](../Page/真中潤.md "wikilink")
   - [白洲迅](https://ja.wikipedia.org/wiki/白洲迅 "wikilink")([キューブへ移籍](../Page/キューブ_\(芸能プロダクション\).md "wikilink"))
@@ -32,7 +35,7 @@
   - [本田恭子](https://ja.wikipedia.org/wiki/本田恭子_\(タレント\) "wikilink")
   - [栗咲寛子](https://ja.wikipedia.org/wiki/栗咲寛子 "wikilink")
   - [三上翔平](https://ja.wikipedia.org/wiki/三上翔平 "wikilink")
-  - [麻亜里](../Page/麻亜里.md "wikilink")
+  - [麻亜里](../Page/麻亜里.md "wikilink")（引退）
   - [内田衣津子](https://ja.wikipedia.org/wiki/内田衣津子 "wikilink")(Itsco名義で歌手活動していた)
 
 ## 外部リンク

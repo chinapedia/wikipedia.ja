@@ -111,6 +111,10 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（SBCテレビ）
+
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:信越放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:信越放送のラジオ番組 "wikilink")
 
 1.  『[スポーツ伝説](https://ja.wikipedia.org/wiki/スポーツ伝説 "wikilink")』（ニッポン放送制作）を後枠で編成していた2015年度までは、最大で21:50まで延長。

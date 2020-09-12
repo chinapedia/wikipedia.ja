@@ -44,7 +44,7 @@
 ## 主題歌
 
   - 「GIRLS SUNSHINE」
-    作詞 - [工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink") / 作曲 - [都志見隆](../Page/都志見隆.md "wikilink") / 編曲 - 見良津健雄 / 歌 - [NINJ GIRLS](https://ja.wikipedia.org/wiki/NINJ_GIRLS "wikilink")
+    作詞 - [工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink") / 作曲 - [都志見隆](../Page/都志見隆.md "wikilink") / 編曲 - 見良津健雄 / 歌 - [NINJA GIRLS](https://ja.wikipedia.org/wiki/NINJA_GIRLS "wikilink")
 
 ## 小説
 

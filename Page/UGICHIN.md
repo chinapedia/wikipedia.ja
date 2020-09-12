@@ -5,7 +5,7 @@
 
 ## 概要
 
-[和光高等学校を卒業](../Page/学校法人和光学園.md "wikilink")、[1992年](../Page/1992年.md "wikilink")にSPACE SHOWER TVに入社→株式会社SEP。[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて番組「PUNK ROCK TV」を始める。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")「GROWING UP」のPVで監督デビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に独立し、フリーのディレクターとして活躍。
+[和光高等学校を卒業](../Page/学校法人和光学園.md "wikilink")、[1992年](../Page/1992年.md "wikilink")にSPACE SHOWER TVに入社→株式会社SEP。[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて番組「PUNK ROCK TV」を始める。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")「GROWING UP」のPVで監督デビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に独立し、フリーのディレクターとして活躍。SPACE SHOWER MUSIC VIDEO AWARDS 2004 BEST DIRECTOR受賞。
 
 現在は株式会社FOOLISH GLORY STUDIO代表、PUNK・LOUD ROCKの動画配信/情報サイト[VAM-VIDEO ADDICT MADNESSや子ども向けプログラム](https://ja.wikipedia.org/wiki/VAM-VIDEO_ADDICT_MADNESS "wikilink")[BRICK\&GLORY](https://ja.wikipedia.org/wiki/BRICK&GLORY "wikilink")なども企画・運営する。
 

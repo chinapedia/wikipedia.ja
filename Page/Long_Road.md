@@ -17,7 +17,6 @@
 
 1.  **Long Road**
       - 作詞:[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")　作曲:[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")　編曲:[中野定博](https://ja.wikipedia.org/wiki/中野定博 "wikilink")
-      - Cメロには[龍一](../Page/緒方龍一.md "wikilink")、[涼平がそれぞれラップパートを担当しているが涼平のラップパートは極端に短い](../Page/千葉涼平.md "wikilink")。
 2.  **NEVER MIND**
       - 作詞:shungo.　作曲:[Remy](https://ja.wikipedia.org/wiki/AN-J "wikilink")　編曲:[中西亮輔](../Page/中西亮輔.md "wikilink")
 3.  **Long Road (Instrumental)**

@@ -99,7 +99,7 @@
   - [だがしかし2](https://ja.wikipedia.org/wiki/だがしかし2 "wikilink") （制作元請：[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")、各話制作協力、2018年）
   - [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 "wikilink")シリーズ
       - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 （制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、各話制作協力、2019年）
-      - かぐや様は告らせたい？ （制作元請：A-1 Pictures、各話制作協力、2020年）
+      - かぐや様は告らせたい？〜天才たちの恋愛頭脳戦〜 （制作元請：A-1 Pictures、各話制作協力、2020年）
   - High Guardian Spice （制作元請：エレーション・スタジオ、各話制作協力、2019年-）\[3\]\[4\]\[5\]\[6\]
   - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな! "wikilink") （制作元請：[サイエンスSARU](https://ja.wikipedia.org/wiki/サイエンスSARU "wikilink")、制作協力、2020年）
 
@@ -118,22 +118,24 @@
 
 #### テレビアニメ
 
-  - [カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")（制作元請: サンライズ, 仕上, 1998年）
-  - [妖しのセレス](../Page/妖しのセレス.md "wikilink")（制作元請: スタジオぴえろ, 美術, 2000年）
-  - [ゲートキーパーズ](../Page/ゲートキーパーズ.md "wikilink")（制作元請: GONZO, 美術・動画・仕上、2000年）
-  - [ナジカ電撃作戦](../Page/ナジカ電撃作戦.md "wikilink")（制作元請: [スタジオファンタジア](https://ja.wikipedia.org/wiki/スタジオファンタジア "wikilink"), 原画・動画・仕上, 2001年）
+  - [南海奇皇](../Page/南海奇皇.md "wikilink") （制作元請: [スタジオぴえろ](https://ja.wikipedia.org/wiki/スタジオぴえろ "wikilink"), 動画, 1998年）
+  - [カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink") （制作元請: [サンライズ](../Page/サンライズ.md "wikilink"), 仕上, 1998年）
+  - [妖しのセレス](../Page/妖しのセレス.md "wikilink") （制作元請: スタジオぴえろ, 美術, 2000年）
+  - [ゲートキーパーズ](../Page/ゲートキーパーズ.md "wikilink") （制作元請: [GONZO](https://ja.wikipedia.org/wiki/GONZO "wikilink"), 美術・動画・仕上、2000年）
+  - [ナジカ電撃作戦](../Page/ナジカ電撃作戦.md "wikilink") （制作元請: [スタジオファンタジア](https://ja.wikipedia.org/wiki/スタジオファンタジア "wikilink"), 原画・動画・仕上, 2001年）
   - [それいけ\!アンパンマン](https://ja.wikipedia.org/wiki/それいけ!アンパンマン "wikilink") （制作元請：トムス・エンタテインメント、背景→動画・仕上、2003年-不明、2016年-）
-  - [創聖のアクエリオン](https://ja.wikipedia.org/wiki/創聖のアクエリオン "wikilink")（制作元請：[サテライト](../Page/サテライト.md "wikilink")、動画・仕上, 2004年）
-  - [ノエイン もうひとりの君へ](../Page/ノエイン_もうひとりの君へ.md "wikilink")（制作元請：サテライト、動画・仕上, 2005年）
-  - [ガン×ソード](../Page/ガン×ソード.md "wikilink")（制作元請：[AIC A.S.T.A.](../Page/アニメインターナショナルカンパニー.md "wikilink")、仕上、2005年）
-  - [トランスフォーマー ギャラクシーフォース](../Page/トランスフォーマー_ギャラクシーフォース.md "wikilink")（制作元請: GONZO, 美術, 2005年）
+  - [クロノクルセイド](../Page/クロノクルセイド.md "wikilink") （制作元請: GONZO、原画、2003年)
+  - [創聖のアクエリオン](https://ja.wikipedia.org/wiki/創聖のアクエリオン "wikilink") （制作元請：[サテライト](../Page/サテライト.md "wikilink")、動画・仕上, 2004年）
+  - [ノエイン もうひとりの君へ](../Page/ノエイン_もうひとりの君へ.md "wikilink") （制作元請：サテライト、動画・仕上, 2005年）
+  - [ガン×ソード](../Page/ガン×ソード.md "wikilink") （制作元請：[AIC A.S.T.A.](../Page/アニメインターナショナルカンパニー.md "wikilink")、仕上、2005年）
+  - [トランスフォーマー ギャラクシーフォース](../Page/トランスフォーマー_ギャラクシーフォース.md "wikilink") （制作元請: GONZO, 美術, 2005年）
   - [交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink") (制作元請：[ボンズ](../Page/ボンズ_\(アニメ制作会社\).md "wikilink"), 動画, 2005年-2006年)
-  - [天元突破グレンラガン](../Page/天元突破グレンラガン.md "wikilink")（制作元請: [ガイナックス](../Page/ガイナックス.md "wikilink")、仕上、2007年）
-  - [神霊狩](https://ja.wikipedia.org/wiki/神霊狩 "wikilink")（制作元請: [Production I.G](../Page/プロダクション・アイジー.md "wikilink")、動画、2007年-2008年）
-  - [学園黙示録 HIGHSCHOOL OF THE DEAD](../Page/学園黙示録_HIGHSCHOOL_OF_THE_DEAD.md "wikilink")（制作元請：マッドハウス、第二原画・動画・仕上げ、2010年）
-  - [ヨルムンガンド](../Page/ヨルムンガンド.md "wikilink")（制作元請:[WHITE FOX](../Page/WHITE_FOX.md "wikilink")、第二原画, 2012年）
-  - [フォトカノ](https://ja.wikipedia.org/wiki/フォトカノ "wikilink")（制作元請：マッドハウス、原画・動画・仕上げ、2013年）
-  - [スペース☆ダンディ](https://ja.wikipedia.org/wiki/スペース☆ダンディ "wikilink")（制作元請：ボンズ/MAPPA、第二原画・動画・仕上、2014年）
+  - [天元突破グレンラガン](../Page/天元突破グレンラガン.md "wikilink") （制作元請: [ガイナックス](../Page/ガイナックス.md "wikilink")、仕上、2007年）
+  - [神霊狩](https://ja.wikipedia.org/wiki/神霊狩 "wikilink") （制作元請: [Production I.G](../Page/プロダクション・アイジー.md "wikilink")、動画、2007年-2008年）
+  - [学園黙示録 HIGHSCHOOL OF THE DEAD](../Page/学園黙示録_HIGHSCHOOL_OF_THE_DEAD.md "wikilink") （制作元請：マッドハウス、第二原画・動画・仕上げ、2010年）
+  - [ヨルムンガンド](../Page/ヨルムンガンド.md "wikilink") （制作元請:[WHITE FOX](../Page/WHITE_FOX.md "wikilink")、第二原画, 2012年）
+  - [フォトカノ](https://ja.wikipedia.org/wiki/フォトカノ "wikilink") （制作元請：マッドハウス、原画・動画・仕上げ、2013年）
+  - [スペース☆ダンディ](https://ja.wikipedia.org/wiki/スペース☆ダンディ "wikilink") （制作元請：ボンズ/MAPPA、第二原画・動画・仕上、2014年）
   - [クロスアンジュ 天使と竜の輪舞](https://ja.wikipedia.org/wiki/クロスアンジュ_天使と竜の輪舞 "wikilink") （制作元請：サンライズ、動画・仕上、2015年）
   - [ワンパンマン](https://ja.wikipedia.org/wiki/ワンパンマン "wikilink") （制作元請：マッドハウス、作画協力、2015年）
   - [ALL OUT\!\!](https://ja.wikipedia.org/wiki/ALL_OUT!! "wikilink") （制作元請：マッドハウス/トムス・エンタテインメント, 原画・第二原画・動画・仕上、2016年）
@@ -142,9 +144,14 @@
   - [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink") （制作元請：トムス・エンタテインメント、動画・仕上、2016年-）
   - [ACCA13区監察課](https://ja.wikipedia.org/wiki/ACCA13区監察課 "wikilink") （制作元請：マッドハウス、作画協力、2017年）
   - [サクラクエスト](https://ja.wikipedia.org/wiki/サクラクエスト "wikilink")（制作元請：[P.A. WORKS](../Page/ピーエーワークス.md "wikilink")、原画・第二原画・動画・仕上、2017年）
+  - [Dies irae To the ring reincarnation](https://ja.wikipedia.org/wiki/Dies_irae_-Also_sprach_Zarathustra- "wikilink")（制作元請：[エー・シー・ジー・ティー](../Page/エー・シー・ジー・ティー.md "wikilink")、動画・仕上、2017年)
   - [グランブルーファンタジー](https://ja.wikipedia.org/wiki/グランブルーファンタジー "wikilink") ジ・アニメーション（制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink"), 美術・動画・仕上、2017年）
   - [クロックワーク・プラネット](https://ja.wikipedia.org/wiki/クロックワーク・プラネット "wikilink")（制作元請：[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")、美術、2017年）
-  - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… "wikilink")（制作元請：[SILVER LINK.](https://ja.wikipedia.org/wiki/SILVER_LINK. "wikilink")、作画監督、2020年）
+  - [メガロボクス](https://ja.wikipedia.org/wiki/メガロボクス "wikilink") （制作元請：マッドハウス/トムス・エンタテインメント, 美術, 2018年）
+  - [ゴブリンスレイヤー](https://ja.wikipedia.org/wiki/ゴブリンスレイヤー "wikilink") (制作元請：WHITE FOX, 美術, 2018年）
+  - [ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink") （制作元請：マッドハウス、原画・第二原画・動画・仕上、2019年-2020年)
+  - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… "wikilink")（制作元請：[SILVER LINK.](https://ja.wikipedia.org/wiki/SILVER_LINK. "wikilink")、作画監督、2020年)
+  - [天晴爛漫\!](../Page/天晴爛漫!.md "wikilink") （制作元請：P.A. Works、第二原画・動画・仕上、2020年)
 
 #### 劇場アニメ
 

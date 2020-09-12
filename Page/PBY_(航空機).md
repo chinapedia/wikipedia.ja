@@ -438,7 +438,7 @@ FAB 6552</p></td>
 <td><p><a href="https://cdn.jetphotos.com/full/5/20995_1494201497.jpg">写真</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラジル" title="wikilink">ブラジル</a><br />
 <a href="../Page/パラー州.md" title="wikilink">パラー州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Val_de_Cans_International_Airport" title="wikilink">べレン空軍基地</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Val_de_Cans_International_Airport" title="wikilink">ベレン空軍基地</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 2007。飛行登録番号 PP-PEB。</p></td>

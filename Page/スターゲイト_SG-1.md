@@ -819,7 +819,7 @@
 
 <!-- end list -->
 
-  - セス ([Seth](https://ja.wikipedia.org/wiki/:en:Seth_\(Stargate\) "wikilink")) - ロバート・ダンカン（[Robert Duncan](https://ja.wikipedia.org/wiki/:en:Robert_Duncan_\(actor\) "wikilink")）（声:[長克己](https://ja.wikipedia.org/wiki/長克己 "wikilink")）
+  - セス ([Seth](https://ja.wikipedia.org/wiki/:en:Seth_\(Stargate\) "wikilink")) - ロバート・ダンカン（[Robert Duncan](https://ja.wikipedia.org/wiki/:en:Robert_Duncan_\(actor\) "wikilink")）（声:[長克巳](../Page/長克巳.md "wikilink")）
 
 <!-- end list -->
 
@@ -886,7 +886,7 @@
 
   -
   -
-[Category:スターゲイト](https://ja.wikipedia.org/wiki/Category:スターゲイト "wikilink") [Category:SFテレビドラマ](https://ja.wikipedia.org/wiki/Category:SFテレビドラマ "wikilink") [Category:特撮テレビ番組](https://ja.wikipedia.org/wiki/Category:特撮テレビ番組 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:コロラド州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:コロラド州を舞台としたテレビ番組 "wikilink") [Category:ショウタイム](https://ja.wikipedia.org/wiki/Category:ショウタイム "wikilink") [Category:AXN](https://ja.wikipedia.org/wiki/Category:AXN "wikilink") [Category:Syfy](https://ja.wikipedia.org/wiki/Category:Syfy "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:バンクーバーで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作されたテレビ番組 "wikilink")
+[Category:スターゲイト](https://ja.wikipedia.org/wiki/Category:スターゲイト "wikilink") [Category:SFテレビドラマ](https://ja.wikipedia.org/wiki/Category:SFテレビドラマ "wikilink") [Category:特撮テレビ番組](https://ja.wikipedia.org/wiki/Category:特撮テレビ番組 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:コロラド州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:コロラド州を舞台としたテレビ番組 "wikilink") [Category:Showtime](https://ja.wikipedia.org/wiki/Category:Showtime "wikilink") [Category:AXN](https://ja.wikipedia.org/wiki/Category:AXN "wikilink") [Category:Syfy](https://ja.wikipedia.org/wiki/Category:Syfy "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:バンクーバーで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作されたテレビ番組 "wikilink")
 
 1.  なお、映画版ではクリークマウンテンとなっている
 2.  スターゲイト SG-1 シーズン1 第10話参照

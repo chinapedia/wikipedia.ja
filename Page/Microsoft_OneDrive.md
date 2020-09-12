@@ -103,7 +103,7 @@ Office 2007でGrooveとして登場し、2010でSharePoint Workspaceに名称変
 
   - [Microsoft OneDrive](https://www.microsoft.com/ja-jp/microsoft-365/onedrive/online-cloud-storage)
 
-  - [OneDrive のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/onedrive)
+  - [OneDrive のヘルプとラーニング - Office サポート](https://support.microsoft.com/ja-jp/onedrive)
 
   - [App Store - Microsoft OneDrive](http://itunes.apple.com/jp/app/onedrive/id477537958?mt=8)
 

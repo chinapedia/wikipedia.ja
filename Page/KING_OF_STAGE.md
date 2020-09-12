@@ -72,11 +72,11 @@
 
 ## King of Stage vol.7
 
-2007年3月31日に[日本武道館](../Page/日本武道館.md "wikilink")で行なわれた単体でのKING OF STAGE。自身のベストアルバム「[メイドインジャパン〜THE BEST OF RHYMESTER〜](../Page/メイドインジャパン〜THE_BEST_OF_RHYMESTER〜.md "wikilink")」のリリースを受けて公演されたのだが、[RHYMESTER](../Page/RHYMESTER.md "wikilink")として活動休止に入る前の最後のKING OF STAGEとなる。ここ数年ではリリースしたアルバムの曲を中心に公演していたのだが、ベストアルバムのリリースをうけての公演ということと、活動休止前の最後の単体ライブということもあり、内容は過去の曲から最新の曲まで幅広く取り扱い、時間にして3時間半という大規模な公演となった。公演では12年ぶりの顔合わせとなった「[口からでまかせ](https://ja.wikipedia.org/wiki/口からでまかせ "wikilink")　feat.[KING GIDDRA](../Page/KGDR.md "wikilink") & [SOUL SCREAM](../Page/SOUL_SCREAM.md "wikilink") 」をはじめ、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")や[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")の[横山剣](../Page/横山剣.md "wikilink")など、いままでなかなか実現しなかったフィーチャリング曲がオリジナルメンバーで歌われた。
+2007年3月31日に[日本武道館](../Page/日本武道館.md "wikilink")で行なわれた単体でのKING OF STAGE。自身のベストアルバム『[メイドインジャパン〜THE BEST OF RHYMESTER〜](../Page/メイドインジャパン〜THE_BEST_OF_RHYMESTER〜.md "wikilink")』のリリースを受けて公演されたのだが、[RHYMESTER](../Page/RHYMESTER.md "wikilink")として活動休止に入る前の最後のKING OF STAGEとなる。ここ数年ではリリースしたアルバムの曲を中心に公演していたのだが、ベストアルバムのリリースをうけての公演ということと、活動休止前の最後の単体ライブということもあり、内容は過去の曲から最新の曲まで幅広く取り扱い、時間にして3時間半という大規模な公演となった。公演では12年ぶりの顔合わせとなった「[口からでまかせ](https://ja.wikipedia.org/wiki/口からでまかせ "wikilink")　feat.[KING GIDDRA](../Page/KGDR.md "wikilink") & [SOUL SCREAM](../Page/SOUL_SCREAM.md "wikilink")」をはじめ、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")や[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")の[横山剣](../Page/横山剣.md "wikilink")など、いままでなかなか実現しなかったフィーチャリング曲がオリジナルメンバーで歌われた。
 
-公演では観客が歌い手である[RHYMESTER](../Page/RHYMESTER.md "wikilink")を驚かせようと、アンコールで彼らが再登場する際に、観客全員が赤色の「[サリウムライト](https://ja.wikipedia.org/wiki/サリウムライト "wikilink")（発光ライト）」を腕に巻いて、アルバム「[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")」のイメージカラーで会場を真っ赤に染める「ライムスターサプライズ2007」が、ファンの有志により企画された。そのときの様子を書いた[RHYMESTER](../Page/RHYMESTER.md "wikilink")ブログの[Mummy-D](../Page/Mummy-D.md "wikilink")の記事によると、暗転サイレントだったためにリアクション出来ずじまいだったが感動した、という旨のコメントをしている。
+公演では観客が歌い手である[RHYMESTER](../Page/RHYMESTER.md "wikilink")を驚かせようと、アンコールで彼らが再登場する際に、観客全員が赤色の「[サリウムライト](https://ja.wikipedia.org/wiki/サリウムライト "wikilink")（発光ライト）」を腕に巻いて、アルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』のイメージカラーで会場を真っ赤に染める「ライムスターサプライズ2007」が、ファンの有志により企画された。そのときの様子を書いた[RHYMESTER](../Page/RHYMESTER.md "wikilink")ブログの[Mummy-D](../Page/Mummy-D.md "wikilink")の記事によると、暗転サイレントだったためにリアクション出来ずじまいだったが感動した、という旨のコメントをしている。
 
-2007年12月5日にDVD「**[KING OF STAGE VOL.7〜メイドインジャパン at 日本武道館〜](https://ja.wikipedia.org/wiki/KING_OF_STAGE_VOL.7〜メイドインジャパン_at_日本武道館〜 "wikilink")**」が発売される。
+2007年12月5日にDVD『**[KING OF STAGE VOL.7〜メイドインジャパン at 日本武道館〜](https://ja.wikipedia.org/wiki/KING_OF_STAGE_VOL.7〜メイドインジャパン_at_日本武道館〜 "wikilink")**』が発売される。
 
 **開催地**
 
@@ -101,7 +101,7 @@
   - [キングギドラ](../Page/KGDR.md "wikilink")
   - [SOUL SCREAM](../Page/SOUL_SCREAM.md "wikilink")
   - [WACK WACK RHYTHM BAND](https://ja.wikipedia.org/wiki/WACK_WACK_RHYTHM_BAND "wikilink")
-  - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")（[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
+  - [MCU](../Page/MCU_\(ラッパー\).md "wikilink")（[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
   - [KREVA](../Page/KREVA.md "wikilink")（[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
   - [LITTLE](../Page/LITTLE.md "wikilink")（[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）
   - [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink")（[MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink")）
@@ -165,4 +165,4 @@
 
   - [スガシカオ](../Page/スガシカオ.md "wikilink")　東京公演
 
-[Category:コンサート](https://ja.wikipedia.org/wiki/Category:コンサート "wikilink") [Category:コンサート・ツアーの一覧](https://ja.wikipedia.org/wiki/Category:コンサート・ツアーの一覧 "wikilink")
+[Category:日本のコンサート](https://ja.wikipedia.org/wiki/Category:日本のコンサート "wikilink") [Category:コンサート・ツアーの一覧](https://ja.wikipedia.org/wiki/Category:コンサート・ツアーの一覧 "wikilink")

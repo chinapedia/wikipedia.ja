@@ -16,82 +16,50 @@
 ## ディスコグラフィー
 
   - Reflecting Seyelence (2002)
+    1.  "Your Shadow"
+    2.  "Tears From the Moon"
+    3.  "My 2nd Skin"
+    4.  "Love = Creepy"
+    5.  "Lane Navachi"
+    6.  "Sin for Me"
+    7.  "Love Leather"
+    8.  "Sequoia"
+    9.  "Yairo"
+    10. "Inferno"
+    11. "Mourning Star"
+    12. "Dream Scenario"
 
-:\#"Your Shadow"
-
-:\#"Tears From the Moon"
-
-:\#"My 2nd Skin"
-
-:\#"Love = Creepy"
-
-:\#"Lane Navachi"
-
-:\#"Sin for Me"
-
-:\#"Love Leather"
-
-:\#"Sequoia"
-
-:\#"Yairo"
-
-:\#"Inferno"
-
-:\#"Mourning Star"
-
-:\#"Dream Scenario"
+<!-- end list -->
 
   - Mindstalking (2004)
+    1.  "Praise Me"
+    2.  "Right to Be Wrong"
+    3.  "Mindstalking"
+    4.  "Mute Emotion"
+    5.  "Perfume Recalling"
+    6.  "Feigned Affair"
+    7.  "Masquerade"
+    8.  "State of Mind"
+    9.  "Daydream History"
+    10. "Nude Nature"
+    11. "SOS Planet"
 
-:\#"Praise Me"
-
-:\#"Right to Be Wrong"
-
-:\#"Mindstalking"
-
-:\#"Mute Emotion"
-
-:\#"Perfume Recalling"
-
-:\#"Feigned Affair"
-
-:\#"Masquerade"
-
-:\#"State of Mind"
-
-:\#"Daydream History"
-
-:\#"Nude Nature"
-
-:\#"SOS Planet"
+<!-- end list -->
 
   - Reminiscence (2005)
-
-:\#"Mindstalking"
-
-:\#"Praise Me"
-
-:\#"Tears From the Moon"
-
-:\#"Your Shadow"
-
-:\#"Lane Navachi"
-
-:\#"State of Mind"
-
-:\#"Carolyn"
-
-:\#"Yairo"
-
-:\#"Sequoia"
-
-:\#"Inferno"
-
-:\#"Severed Heart"
-
-:\#"SOS Planet"
-
-:\#\[untitled\]
+    1.  "Mindstalking"
+    2.  "Praise Me"
+    3.  "Tears From the Moon"
+    4.  "Your Shadow"
+    5.  "Lane Navachi"
+    6.  "State of Mind"
+    7.  "Carolyn"
+    8.  "Yairo"
+    9.  "Sequoia"
+    10. "Inferno"
+    11. "Severed Heart"
+    12. "SOS Planet"
+    13. \[untitled\]
 
 ## 外部リンク
 

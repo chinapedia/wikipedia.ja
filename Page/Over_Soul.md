@@ -16,11 +16,9 @@
 
 ## 収録曲
 
-  - 全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲・編曲：[たかはしごう](../Page/たかはしごう.md "wikilink")
+（全作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲・編曲：[たかはしごう](../Page/たかはしごう.md "wikilink")）
 
-<!-- end list -->
-
-1.  **Over Soul** \[3:54\]
+1.  **Over Soul** \[3:53\]
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系テレビアニメ『[シャーマンキング](https://ja.wikipedia.org/wiki/シャーマンキング "wikilink")』前期オープニングテーマ\[3\]。
       - [PlayStation用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『シャーマンキング スピリット オブ シャーマンズ』オープニングテーマ。
       - [ドラマCD](../Page/ドラマCD.md "wikilink")『[シャーマンキング 恐山ル・ヴォワール](https://ja.wikipedia.org/wiki/恐山ル・ヴォワール "wikilink")』オープニングテーマ。
@@ -31,21 +29,22 @@
 
 ## 収録アルバム
 
-  - 『[feel well](https://ja.wikipedia.org/wiki/feel_well "wikilink")』（\#1、\#2）
-      - \#2は「2002 New Arrange Version」として収録。
-  - 『[Plain](../Page/Plain.md "wikilink")』（\#2）
-  - 『[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")』（\#1）
-      - シングルの音源とは僅かに異なる。
-  - 『[シャーマンキング ボーカルコレクション 〜歌の万辞苑〜](https://ja.wikipedia.org/wiki/シャーマンキング#CD "wikilink")』（\#1、\#2）
-
-## 関連項目
-
-  - [brave heart](https://ja.wikipedia.org/wiki/brave_heart_\(林原めぐみの曲\) "wikilink")
-  - [Northern lights](../Page/Northern_lights.md "wikilink")
+| 曲名                                                                                                                              | 収録アルバム                                                                                        | 発売日                                                                      | 製造番号             | 備考                             |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------- | ------------------------------ |
+| Over Soul                                                                                                                       | 『**[feel well](https://ja.wikipedia.org/wiki/feel_well "wikilink")**』\[5\]                    | [2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") | KICS-955         |                                |
+| 『**[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")**』\[6\]                                              | [2011年](../Page/2011年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")                      | KICS-91670〜91671                                                         | シングルの音源とは僅かに異なる。 |                                |
+| 『**[シャーマンキング ボーカルコレクション 〜歌の万辞苑〜](https://ja.wikipedia.org/wiki/シャーマンキング#CD "wikilink")**』\[7\]                                  | [2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")                      | KICA-570                                                                 | TVサイズとフルサイズが収録。  |                                |
+| 『**[「林原めぐみ 1st LIVE -あなたに会いに来て-」配信限定アルバム](https://ja.wikipedia.org/wiki/林原めぐみ_1st_LIVE_-あなたに会いに来て-#配信限定アルバム "wikilink")**』\[8\] | [2017年](../Page/2017年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | NOPA-1644                                                                |                  |                                |
+| trust you                                                                                                                       | 『**feel well**』\[9\]                                                                          | 2002年6月26日                                                               | KICS-955         | 2002 New Arrange Versionとして収録。 |
+| 『**[Plain](../Page/Plain.md "wikilink")**』\[10\]                                                                                | [2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")                      | KICS-1303                                                                |                  |                                |
+| 『**[シャーマンキング ボーカルコレクション 〜歌の万辞苑〜](https://ja.wikipedia.org/wiki/シャーマンキング#CD "wikilink")**』\[11\]                                 | 2002年3月27日                                                                                    | KICA-570                                                                 | TVサイズとフルサイズが収録。  |                                |
+| 『**「林原めぐみ 1st LIVE -あなたに会いに来て-」配信限定アルバム**』\[12\]                                                                                | 2017年12月13日                                                                                   | NOPA-1644                                                                |                  |                                |
 
 ## 脚注
 
-<references/>
+### 注釈
+
+### 出典
 
 [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:シャーマンキング](https://ja.wikipedia.org/wiki/Category:シャーマンキング "wikilink")
 
@@ -53,3 +52,11 @@
 2.
 3.  第一廻 - 第三十四廻、なお第六十二廻では挿入歌として使用された。
 4.  第一廻 - 第三十四廻
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.

@@ -31,9 +31,9 @@ WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "
   - 旧・WILLER EXPRESS北信越
       - 千葉営業所：〒289-1605 [千葉県](../Page/千葉県.md "wikilink")[山武郡](../Page/山武郡.md "wikilink")[芝山町](../Page/芝山町.md "wikilink")大台2566-1
       - 新潟営業所：〒950-0064 [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[東区松島](https://ja.wikipedia.org/wiki/東区_\(新潟市\) "wikilink")2-6-3
-      - 長野営業所：〒388-8014 [長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")篠ノ井塩崎6944-1
+      - 長野営業所：〒388-8014 [長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")小島田町字北村沖269-1
   - 旧・WILLER EXPRESS東海（時刻表等ではTで記載・愛知県バス協会加盟）
-      - 名古屋営業所：〒454-0026 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[港区築盛町](../Page/港区_\(名古屋市\).md "wikilink")2-25
+      - 名古屋営業所：〒454-0026 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[港区築盛町](../Page/港区_\(名古屋市\).md "wikilink")1
   - 旧・WILLER EXPRESS西日本（時刻表等ではWで記載・大阪府バス協会加盟）
       - 大阪オフィス：〒531-6006 [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区大淀中](../Page/北区_\(大阪市\).md "wikilink")1-1-88-600 梅田スカイビルタワーイースト6階
       - 大阪営業所：〒599-8234 大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[中区土塔町](../Page/中区_\(堺市\).md "wikilink")62-3

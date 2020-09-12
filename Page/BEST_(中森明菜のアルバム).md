@@ -52,6 +52,7 @@
   - 2012年8月22日 - [SACD](https://ja.wikipedia.org/wiki/SACD "wikilink"): WPCL-11143（紙ジャケット仕様完全生産限定盤）\[16\]
   - 2018年7月25日 - CD: WPCL-12904（廉価盤、青帯）
   - 2019年8月7日 - [ハイレゾ](https://ja.wikipedia.org/wiki/ハイレゾ "wikilink")CD: WPCL-13073 （MQA-CD × UHQCD）(完全生産限定盤)
+  - 2020年11月3日 - アナログ盤: BRIDGE307-08 (2枚組完全生産限定盤)
 
 ## 参照
 

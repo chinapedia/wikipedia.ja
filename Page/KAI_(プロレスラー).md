@@ -175,7 +175,7 @@
   - [トラースキック](https://ja.wikipedia.org/wiki/トラースキック "wikilink")
     [垂直落下式ブレーンバスター](../Page/ブレーンバスター.md "wikilink")
 
-## タイトル履歴
+## タイトル歴
 
   - [全日本プロレス](../Page/全日本プロレス.md "wikilink")
 

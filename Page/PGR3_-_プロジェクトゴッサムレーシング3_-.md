@@ -187,4 +187,4 @@
 
   - [PGR3 - プロジェクト ゴッサム レーシング 3 –](http://www.xbox.com/ja-JP/games/p/projectgothamracing3/)、Xbox.com
 
-[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:マイクロソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフトのゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink")
+[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:マイクロソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフトのゲームソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink")

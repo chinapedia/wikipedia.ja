@@ -108,7 +108,7 @@
 
 ## 出典・脚注
 
-[Category:カシオペアのアルバム](https://ja.wikipedia.org/wiki/Category:カシオペアのアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:アルファレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アルファレコードのアルバム "wikilink")
+[Category:カシオペアのアルバム](https://ja.wikipedia.org/wiki/Category:カシオペアのアルバム "wikilink") [Category:アルファレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アルファレコードのアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink")
 
 1.
 2.

@@ -70,7 +70,7 @@
       -
         初回盤のみ収録。前作『[LOVE COOK](../Page/LOVE_COOK.md "wikilink")』収録曲のPV。
 
-## 出典・参考
+## 脚注
 
 <references />
 

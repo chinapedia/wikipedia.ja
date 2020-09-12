@@ -1,7 +1,7 @@
 > この記事は[DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築](https://ja.wikipedia.org/wiki/DOCOMOMO_JAPAN選定_日本におけるモダン・ムーブメントの建築)から翻訳されています。
 
 
-**DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築**（ドコモモ ジャパンせんてい にほんにおけるモダン・ムーブメントのけんちく）は、[DOCOMOMO](../Page/DOCOMOMO.md "wikilink") Japanが現存する[近代建築](../Page/近代建築.md "wikilink")として選定した216件の建築である。
+**DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築**（ドコモモ ジャパンせんてい にほんにおけるモダン・ムーブメントのけんちく）は、[DOCOMOMO](../Page/DOCOMOMO.md "wikilink") Japanが現存する[近代建築](../Page/近代建築.md "wikilink")として選定した226件の建築である。
 
 ## 概要
 
@@ -14,9 +14,10 @@ DOCOMOMO Japanでは、[1999年](../Page/1999年.md "wikilink")に**日本の近
   - 2009年追加選定（150選）
   - 2016年（2015年度）追加選定（197選）
   - 2017年（2016年度）追加選定（208選）
-  - 2018年（2017年度）追加選定（216選）
+  - 2018年（2017年度）追加選定（216選）\[1\]
+  - 2019年（2018年度）追加選定（226選）\[2\]
 
-2018年現在、216件の建築が選定されている。
+2019年現在、226件の建築が選定されている。
 
 ## 日本におけるDOCOMOMO選一覧
 
@@ -45,7 +46,7 @@ DOCOMOMO Japanでは、[1999年](../Page/1999年.md "wikilink")に**日本の近
 1929年（三ノ輪）</p></td>
 <td><p>東京都台東区（上野下）<br />
 東京都荒川区（三ノ輪）</p></td>
-<td><p>現存せず [1]</p></td>
+<td><p>現存せず [3]</p></td>
 <td><p>1999年</p></td>
 </tr>
 <tr class="even">
@@ -62,7 +63,7 @@ DOCOMOMO Japanでは、[1999年](../Page/1999年.md "wikilink")に**日本の近
 </tr>
 <tr class="odd">
 <td><p>003</p></td>
-<td><p>聴竹居</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/聴竹居" title="wikilink">聴竹居</a></p></td>
 <td></td>
 <td><p><a href="../Page/藤井厚二.md" title="wikilink">藤井厚二</a></p></td>
 <td><p>1928年</p></td>
@@ -88,7 +89,7 @@ DOCOMOMO Japanでは、[1999年](../Page/1999年.md "wikilink")に**日本の近
 <td><p><a href="https://ja.wikipedia.org/wiki/逓信省営繕課" title="wikilink">逓信省営繕課</a>（<a href="https://ja.wikipedia.org/wiki/吉田鉄郎" title="wikilink">吉田鉄郎</a>）</p></td>
 <td><p>1931年</p></td>
 <td><p>東京都千代田区</p></td>
-<td><p>現存せず[2]</p></td>
+<td><p>現存せず[4]</p></td>
 <td><p>1999年</p></td>
 </tr>
 <tr class="even">
@@ -307,7 +308,7 @@ U研究室</p></td>
 <td><p>026</p></td>
 <td><p>森五商店東京支店<br />
 （現・<a href="https://ja.wikipedia.org/wiki/近三ビルヂング" title="wikilink">近三ビルヂング</a>）</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Kinsan_building.jpg" title="wikilink">120x120px</a></p></td>
 <td><p>村野藤吾</p></td>
 <td><p>1931年</p></td>
 <td><p>東京都中央区</p></td>
@@ -352,7 +353,7 @@ U研究室</p></td>
 <td><p><a href="../Page/ウィリアム・メレル・ヴォーリズ.md" title="wikilink">ウィリアム・メレル・ヴォーリズ</a></p></td>
 <td><p>1933年</p></td>
 <td><p>大阪府大阪市</p></td>
-<td></td>
+<td><p>現存せず</p></td>
 <td><p>2003年</p></td>
 </tr>
 <tr class="odd">
@@ -648,7 +649,7 @@ U研究室</p></td>
 </tr>
 <tr class="even">
 <td><p>058</p></td>
-<td><p><a href="../Page/羽島市.md" title="wikilink">羽島市</a>庁舎</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/羽島市庁舎" title="wikilink">羽島市庁舎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Hashima_City_Hall.jpg" title="wikilink">120x120px</a></p></td>
 <td><p>坂倉準三</p></td>
 <td><p>1958年</p></td>
@@ -763,7 +764,7 @@ U研究室</p></td>
 </tr>
 <tr class="odd">
 <td><p>069</p></td>
-<td><p><a href="../Page/NCR_(企業).md" title="wikilink">NCRビル</a><br />
+<td><p><a href="../Page/日本NCR.md" title="wikilink">NCRビル</a><br />
 （現・<a href="https://ja.wikipedia.org/wiki/日本財団ビル" title="wikilink">日本財団ビル</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Nippon_Foundation_(2009.09).jpg" title="wikilink">120x120px</a></p></td>
 <td><p>吉村順三</p></td>
@@ -1191,7 +1192,7 @@ U研究室</p></td>
 <td><p><a href="../Page/新潟市体育館.md" title="wikilink">新潟市体育館</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Niigata_City_Gymnasium.JPG" title="wikilink">120x120px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮川英二" title="wikilink">宮川英二</a><br />
-<a href="https://ja.wikipedia.org/wiki/加藤渉" title="wikilink">加藤渉</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/加藤渉_(建築学者)" title="wikilink">加藤渉</a></p></td>
 <td><p>1958年</p></td>
 <td><p>新潟県新潟市中央区</p></td>
 <td></td>
@@ -1334,7 +1335,7 @@ U研究室</p></td>
 </tr>
 <tr class="even">
 <td><p>124</p></td>
-<td><p>反住器</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/反住器" title="wikilink">反住器</a></p></td>
 <td></td>
 <td><p><a href="../Page/毛綱毅曠.md" title="wikilink">毛綱毅曠</a></p></td>
 <td><p>1972年</p></td>
@@ -1722,7 +1723,7 @@ U研究室</p></td>
 <tr class="odd">
 <td><p>159</p></td>
 <td><p><a href="../Page/塩野義製薬.md" title="wikilink">塩野義製薬</a>研究所<br />
-（現・塩野義製薬中央研究所本館）</p></td>
+（のちの<a href="https://ja.wikipedia.org/wiki/塩野義製薬中央研究所" title="wikilink">塩野義製薬中央研究所</a>本館）</p></td>
 <td></td>
 <td><p>坂倉準三建築研究所（西澤文隆）</p></td>
 <td><p>1961年</p></td>
@@ -1859,7 +1860,7 @@ U研究室</p></td>
 <tr class="odd">
 <td><p>171</p></td>
 <td><p>武蔵嵐山カントリークラブ<br />
-（現・嵐山カントリークラブ）</p></td>
+（現・<a href="https://ja.wikipedia.org/wiki/嵐山カントリークラブ" title="wikilink">嵐山カントリークラブ</a>）</p></td>
 <td></td>
 <td><p>天野太郎研究室</p></td>
 <td><p>1961年</p></td>
@@ -1975,12 +1976,12 @@ U研究室</p></td>
 <td><p>1958年</p></td>
 <td><p>福岡県北九州市</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yahata_city_hall.JPG" title="wikilink">120x120px</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>181</p></td>
 <td><p>常滑市立陶芸研究所本館<br />
-（現・とこなめ陶の森陶芸研究所）</p></td>
+（現・<a href="https://ja.wikipedia.org/wiki/とこなめ陶の森" title="wikilink">とこなめ陶の森</a>陶芸研究所）</p></td>
 <td><p>堀口研究室（堀口捨己）</p></td>
 <td><p>1961年</p></td>
 <td><p>愛知県常滑市</p></td>
@@ -2066,7 +2067,7 @@ U研究室</p></td>
 <tr class="even">
 <td><p>188</p></td>
 <td><p>東京日仏学院<br />
-（現・アンスティチュ・フランセ東京）</p></td>
+（現・<a href="https://ja.wikipedia.org/wiki/アンスティチュ・フランセ東京" title="wikilink">アンスティチュ・フランセ東京</a>）</p></td>
 <td><p>坂倉準三建築研究所</p></td>
 <td><p>1951年</p></td>
 <td><p>東京都新宿区</p></td>
@@ -2206,12 +2207,12 @@ U研究室</p></td>
 </tr>
 <tr class="even">
 <td><p>201</p></td>
-<td><p>宮津市庁舎</p></td>
+<td><p><a href="../Page/宮津市.md" title="wikilink">宮津市</a>庁舎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/沖種郎" title="wikilink">沖種郎</a>（連合設計社）</p></td>
 <td><p>1962年</p></td>
 <td><p>京都府宮津市</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Miyazu_City_Hall_ac_(2).jpg" title="wikilink">120x120px</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>202</p></td>
@@ -2225,12 +2226,12 @@ U研究室</p></td>
 </tr>
 <tr class="even">
 <td><p>203</p></td>
-<td><p>親和銀行大波止支店</p></td>
+<td><p><a href="../Page/親和銀行.md" title="wikilink">親和銀行</a>大波止支店</p></td>
 <td><p>白井晟一</p></td>
 <td><p>1963年</p></td>
 <td><p>長崎県長崎市</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:親和銀行_大波止支店.jpg" title="wikilink">120x120px</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>204</p></td>
@@ -2239,7 +2240,7 @@ U研究室</p></td>
 <td><p>1964年</p></td>
 <td><p>東京都新宿区</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Books_Kinokuniya_2019a.jpg" title="wikilink">100x100px</a></p></td>
 </tr>
 <tr class="even">
 <td><p>205</p></td>
@@ -2276,7 +2277,215 @@ U研究室</p></td>
 <td><p>1977年</p></td>
 <td><p>熊本県熊本市中央区</p></td>
 <td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Kumamoto-Prefectural_Museum_of_Art_main_1.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+</tbody>
+</table>
+
+### 2018年（2017年度）追加選定（216選）
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>名称（現名称）</p></th>
+<th><p>建築家名義</p></th>
+<th><p>竣工年</p></th>
+<th><p>所在地</p></th>
+<th><p>状態</p></th>
+<th><p>画像</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>209</p></td>
+<td><p>清心高等女学校<br />
+（現：<a href="../Page/ノートルダム清心女子大学.md" title="wikilink">ノートルダム清心女子大学</a>　ノートルダムホール本館・東棟）</p></td>
+<td><p>アントニン・レーモンド</p></td>
+<td><p>1929年</p></td>
+<td><p>岡山県岡山市北区</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>210</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/千住郵便局電話事務室" title="wikilink">千住郵便局電話事務室</a><br />
+（現：NTT東日本　千住ビル）</p></td>
+<td><p>逓信省営繕課</p></td>
+<td><p>1929年</p></td>
+<td><p>東京都足立区</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:NTT_Senju_Building.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>211</p></td>
+<td><p>沼津市本通防火建築帯</p></td>
+<td><p>建設工学研究会（池辺陽，今泉善一，坪井善勝(構造)　他）</p></td>
+<td><p>1953年、1954年</p></td>
+<td><p>静岡県沼津市</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>212</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/倉吉市立明倫小学校" title="wikilink">倉吉市立明倫小学校</a><br />
+（現：<a href="https://ja.wikipedia.org/wiki/円形劇場くらよしフィギュアミュージアム" title="wikilink">円形劇場くらよしフィギュアミュージアム</a>）</p></td>
+<td><p>坂本鹿名夫</p></td>
+<td><p>1955年</p></td>
+<td><p>鳥取県倉吉市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Former_Meirin_Primary_School_Round-shaped_Building.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>213</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜市役所#歴代市庁舎" title="wikilink">横浜市庁舎</a></p></td>
+<td><p>村野藤吾</p></td>
+<td><p>1959年</p></td>
+<td><p>神奈川県横浜市中区</p></td>
+<td><p>市庁舎としての業務を終了し、ホテルに再生予定</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yokohama_City_Hall_2009.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="even">
+<td><p>214</p></td>
+<td><p>ルーテル神学大学<br />
+（現：<a href="../Page/ルーテル学院大学.md" title="wikilink">ルーテル学院大学</a>）</p></td>
+<td><p>村野藤吾</p></td>
+<td><p>1963年</p></td>
+<td><p>東京都三鷹市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:ルーテル学院チャペル外観.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>215</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/埼玉会館" title="wikilink">埼玉会館</a></p></td>
+<td><p>前川國男</p></td>
+<td><p>1966年</p></td>
+<td><p>埼玉県さいたま市浦和区</p></td>
+<td></td>
+<td><p>　<a href="https://ja.wikipedia.org/wiki/ファイル:Saitamakaikan_1.JPG" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="even">
+<td><p>216</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鳴門市文化会館" title="wikilink">鳴門市文化会館</a>、鳴門市勤労青少年ホーム・鳴門市老人福祉センター<br />
+（現：鳴門市健康福祉交流センター）</p></td>
+<td><p>増田友也</p></td>
+<td><p>1975年</p></td>
+<td><p>徳島県鳴門市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Naruto_Bunka_Kaikan.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+</tbody>
+</table>
+
+### 2019年（2018年度）追加選定（226選）
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>名称（現名称）</p></th>
+<th><p>建築家名義</p></th>
+<th><p>竣工年</p></th>
+<th><p>所在地</p></th>
+<th><p>状態</p></th>
+<th><p>画像</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>217</p></td>
+<td><p>京都帝国大学阿蘇火山研究所<br />
+（現・京都大学大学院理学研究科附属地球熱学研究施設　火山研究センター）</p></td>
+<td><p>永瀬狂三、京大技術課</p></td>
+<td><p>1928年</p></td>
+<td><p>熊本県阿蘇市</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>218</p></td>
+<td><p><a href="../Page/不二家.md" title="wikilink">不二家</a>洋菓子舗（現・<a href="https://ja.wikipedia.org/wiki/不二家横浜センター店" title="wikilink">不二家横浜センター店</a>）</p></td>
+<td><p>アントニン・レーモンド</p></td>
+<td><p>1937年</p></td>
+<td><p>神奈川県横浜市中区</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Fujiya_Isezaki-chōo.JPG" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>219</p></td>
+<td><p><a href="../Page/関西大学.md" title="wikilink">関西大学</a>千里山キャンパスにおける村野藤吾建物群</p></td>
+<td><p>村野藤吾</p></td>
+<td><p>1949年～1980年</p></td>
+<td><p>大阪府吹田市</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>220</p></td>
+<td><p>垂水町役場庁舎（現・垂水市役所庁舎）</p></td>
+<td><p>衛藤右三郎</p></td>
+<td><p>1956年</p></td>
+<td><p>鹿児島県垂水市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Tarumizu_City_Hall_2015.JPG" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>221</p></td>
+<td><p>倉吉市庁舎<br />
+（現・<a href="https://ja.wikipedia.org/wiki/倉吉市役所" title="wikilink">倉吉市役所</a>本庁舎）</p></td>
+<td><p>岸田日出刀・丹下健三</p></td>
+<td><p>1957年</p></td>
+<td><p>鳥取県倉吉市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Kurayoshi_City_Hall.JPG" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="even">
+<td><p>222</p></td>
+<td><p>タテシナクラブ山荘</p></td>
+<td><p>武藤章</p></td>
+<td><p>1965年</p></td>
+<td><p>長野県北佐久郡立科町</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>223</p></td>
+<td><p>大阪ビルヂング八重洲<br />
+（現・<a href="https://ja.wikipedia.org/wiki/八重洲ダイビル" title="wikilink">八重洲ダイビル</a>）</p></td>
+<td><p>村野藤吾</p></td>
+<td><p>1967年</p></td>
+<td><p>東京都中央区</p></td>
+<td></td>
+<td><p>　<a href="https://ja.wikipedia.org/wiki/ファイル:Daibiru_Yaesu_2009.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="even">
+<td><p>224</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金沢工業大学" title="wikilink">金沢工業大学</a>本館<br />
+（（現・金沢工業大学1号館）</p></td>
+<td><p>大谷幸夫</p></td>
+<td><p>1969年</p></td>
+<td><p>石川県野々市市</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>225</p></td>
+<td><p><a href="../Page/佐倉市.md" title="wikilink">佐倉市</a>庁舎</p></td>
+<td><p>黒川紀章</p></td>
+<td><p>1971年</p></td>
+<td><p>千葉県佐倉市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Sakura_City_Office.jpg" title="wikilink">120x120px</a></p></td>
+</tr>
+<tr class="even">
+<td><p>226</p></td>
+<td><p>金沢市立図書館<br />
+（現・<a href="../Page/金沢市立玉川図書館.md" title="wikilink">金沢市立玉川図書館</a>・近世史料館）</p></td>
+<td><p>谷口吉郎・谷口吉生</p></td>
+<td><p>1978年</p></td>
+<td><p>石川県金沢市</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Kanazawa_Tamagawa_Library.jpg" title="wikilink">120x120px</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -2294,5 +2503,7 @@ U研究室</p></td>
 
 [Category:日本におけるモダン・ムーブメントの建築選](https://ja.wikipedia.org/wiki/Category:日本におけるモダン・ムーブメントの建築選 "wikilink") [Category:日本の建築](https://ja.wikipedia.org/wiki/Category:日本の建築 "wikilink") [Category:近代建築](https://ja.wikipedia.org/wiki/Category:近代建築 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
-1.  選定時には存在していた三ノ輪アパートは2009年、上野下アパートは2013年に取壊され、同潤会アパートは姿を消した。
-2.  再開発を経て、東京駅側の一部分が[JPタワー](https://ja.wikipedia.org/wiki/JPタワー "wikilink")の低層棟として保存された。
+1.
+2.
+3.  選定時には存在していた三ノ輪アパートは2009年、上野下アパートは2013年に取壊され、同潤会アパートは姿を消した。
+4.  再開発を経て、東京駅側の一部分が[JPタワー](https://ja.wikipedia.org/wiki/JPタワー "wikilink")の低層棟として保存された。

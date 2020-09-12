@@ -1006,7 +1006,7 @@ iTunes Store・moraなどで配信。</p></td>
 4.
 5.
 6.  [「沿志奏逢 ３」Release Special　櫻井和寿Interview（前編） - FEATURE - エコレゾ ウェブ](http://archive.eco-reso.jp/feature/bankband/20100630_3848.php)
-7.  その後、Bank Band再始動後の[2016年](../Page/2016年.md "wikilink")、『Reborn-Art Festival × ap bank fes 2016』にて「[ロストマン](https://ja.wikipedia.org/wiki/ロストマン "wikilink")」をカバー。
+7.  その後、Bank Band再始動後の[2016年](../Page/2016年.md "wikilink")、『Reborn-Art Festival × ap bank fes 2016』にて「[ロストマン](https://ja.wikipedia.org/wiki/ロストマン/sailing_day "wikilink")」をカバー。
 8.
 9.
 10.

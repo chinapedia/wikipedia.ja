@@ -42,7 +42,7 @@
 
 ## 外部リンク
 
-  - [ジェイキューブ カンサイ](http://web.archive.org/web/20021215175051/http://www.ktv.co.jp/bs/j-cube/index.html) - 関西テレビ放送（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [ジェイキューブ カンサイ](https://web.archive.org/web/20021215175051/http://www.ktv.co.jp/bs/j-cube/index.html) - 関西テレビ放送（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:BSフジのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:BSフジのバラエティ番組の歴史 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:関ジャニ∞](https://ja.wikipedia.org/wiki/Category:関ジャニ∞ "wikilink")
 

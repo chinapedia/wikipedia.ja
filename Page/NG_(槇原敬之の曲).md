@@ -18,4 +18,14 @@
 1.  **NG**
 2.  **RAIN DANCE MUSIC**
 
+## カバー
+
+**NG**
+
+  - （1993年、広東語版「我真的不知道」、アルバム『如此這般想你』に収録）
+
+**RAIN DANCE MUSIC**
+
+  - （1993年、広東語版「情沒有十分」、アルバム『秋怡』に収録）
+
 [Category:槇原敬之の楽曲](https://ja.wikipedia.org/wiki/Category:槇原敬之の楽曲 "wikilink") [Category:槇原敬之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:槇原敬之が制作した楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:1990年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1990年のデビュー・シングル "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:失恋を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:失恋を題材とした楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

@@ -57,7 +57,14 @@
       - 作詞・作曲・編曲：hide
       - 未発表曲
 16. **COMMENT(Aug 10th,1995) (5:37)**
-      - 生前にhideが出演していたラジオでの本人のトークが収録されている。
-      - BGMに当時製作途中だったZilchの「Electric Cucumber」が使われてる。
+      - [ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")のギターリフ・[ヒップホップ系のドラムループ](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")・[インダストリアル](../Page/インダストリアル.md "wikilink")風の[シンセベース](../Page/シンセベース.md "wikilink")・DJスクラッチで構成された[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")にhideが出演していたラジオでの本人のトークが乗せられた\[1\]。
+      - 1995年10月に開催された「X JAPAN写真展」のhideのコメントビデオ用のBGMに使用された\[2\]。
+      - 後のZilchの「Electric Cucumber」の原型となった\[3\]。
+
+## 脚注
 
 [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink") [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink") [Category:Hideのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:Hideのベスト・アルバム "wikilink")
+
+1.
+2.
+3.  [ヤマハミュージックエンタテインメントホールディングス](../Page/ヤマハミュージックエンタテインメントホールディングス.md "wikilink")刊「君のいない世界 hideと過ごした2486日間の軌跡」[I.N.A](../Page/I.N.A.md "wikilink")著168Pより。

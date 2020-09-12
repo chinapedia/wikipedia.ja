@@ -83,11 +83,11 @@
 
 出張ホストとなった熱海康介がいろいろな女性の所に寄り、彼女らの心の乾きを癒していく。一話完結。康介と静香は結婚したという設定だが、静香は出てこない。
 
-  - 静香はdelivery.8（8話）の最後の4ページに登場。マドンナ先生も1話だけ登場したが前作とは全く別人になって登場した。
+  - 静香はdelivery.8（8話）の最後の4ページに登場。マドンナ先生も登場したが前作とは全く別人になって登場した。
 
 ### あらすじ（続編）
 
-熱海康介は無事に静香と結婚したが、34歳になっても性欲を抑えきれず、連夜の女遊びと[リストラ](../Page/リストラ.md "wikilink")で静香から[離婚](../Page/離婚.md "wikilink")を言い渡される。絶望の淵に立った康介は、すがりつくように出張ホストで身銭を稼ぐ。
+熱海康介は無事に静香と結婚したが、34歳になっても性欲を抑えきれず、連夜の女遊びと[リストラ](../Page/リストラ.md "wikilink")で静香から[離婚](../Page/離婚.md "wikilink")を言い渡される。絶望の淵に立った康介は、すがりつくように出張ホストで身銭を稼ぐ。様々な女性たちの心と身体を癒していくことで最後はマネージャーの作ったきっかけにより別人になりすました静香が康介に依頼し一夜をともにして康介に正体が静香自身である事を見破られ互いにもう一度やり直す事を決め康介は出張ホストをやめ2人で幸せに暮らす。
 
 ## OVA版
 
@@ -112,5 +112,5 @@
 [Category:遊人](https://ja.wikipedia.org/wiki/Category:遊人 "wikilink") [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:漫画ゴラク](https://ja.wikipedia.org/wiki/Category:漫画ゴラク "wikilink") [Category:有害指定された漫画作品](https://ja.wikipedia.org/wiki/Category:有害指定された漫画作品 "wikilink") [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:成人向けOVA](https://ja.wikipedia.org/wiki/Category:成人向けOVA "wikilink") [Category:アームス](https://ja.wikipedia.org/wiki/Category:アームス "wikilink") [Category:1993年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1993年のアダルトゲーム "wikilink") [Category:1995年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1995年のアダルトゲーム "wikilink") [Category:F\&Cのゲームソフト](https://ja.wikipedia.org/wiki/Category:F&Cのゲームソフト "wikilink")
 
 1.  竹内オサム『戦後マンガ50年史』筑摩書房、1995年、p.186
-2.  [これまでの作品ー純愛系](http://web.archive.org/web/20010419152707/http://www.a-rms.co.jp/work/list/junai.html)
+2.  [これまでの作品ー純愛系](https://web.archive.org/web/20010419152707/http://www.a-rms.co.jp/work/list/junai.html)
 3.  [新・エンジェル - アダルトアニメ ch - DMM.R18](http://www.dmm.co.jp/monthly/animech/-/list/=/article=series/id=6924/)

@@ -10,7 +10,7 @@
 
 ## 記録
 
-「林原めぐみ」名義のシングル\[1\]としては、初めてオリコンシングルチャートのトップ10入りを果たし、それまでの自己最高位（前作『[Going History](../Page/Going_History.md "wikilink")』の25位）を更新した。オリコンチャート登場回数は13回。
+「林原めぐみ」名義のシングル\[1\]としては、初めてオリコンシングルチャートのトップ10入りを果たし、それまでの自己最高位（前作「[Going History](../Page/Going_History.md "wikilink")」の25位）を更新した。オリコンチャート登場回数は13回。
 
 林原めぐみの代表曲であり、自身名義のシングルとしては歴代1位の売上枚数（約23万枚）を記録している（オリコン調べ）。
 
@@ -22,49 +22,97 @@
 
 ## 収録曲
 
-1.  **Give a reason** \[4:24\]
-      - 歌：[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
-      - 作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[大平勉](../Page/大平勉.md "wikilink")
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スレイヤーズNEXT](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』オープニングテーマ
-2.  **邪魔はさせない** \[4:38\]
-      - 歌：奥井雅美
-    <!-- end list -->
+1.  **Give a reason** \[4:26\]
       -
+        歌：[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
+        作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[大平勉](../Page/大平勉.md "wikilink")
+    <!-- end list -->
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スレイヤーズNEXT](https://ja.wikipedia.org/wiki/スレイヤーズ_\(アニメ\) "wikilink")』オープニングテーマ
+2.  **邪魔はさせない** \[4:41\]
+      -
+        歌：奥井雅美
         作詞：[奥井雅美](../Page/奥井雅美.md "wikilink")、作曲：奥井雅美・[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")、編曲：矢吹俊郎
     <!-- end list -->
       - 『スレイヤーズNEXT』エンディングテーマ
-3.  Give a reason <OFF VOCAL VERSION>
-4.  邪魔はさせない <OFF VOCAL VERSION>
+3.  Give a reason <OFF VOCAL VERSION> \[4:26\]
+4.  邪魔はさせない <OFF VOCAL VERSION> \[4:40\]
 
 ## 収録アルバム
 
-  - **Give a reason**
-      -
-        『[bertemu](https://ja.wikipedia.org/wiki/bertemu "wikilink")』、『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』、『[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")』、『[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")』、『スターチャイルドSELECTION音楽編 \[TV作品集\]』
-  - **邪魔はさせない**
-      -
-        『[V-sit](../Page/V-sit.md "wikilink")』（live rock-on（※）にて収録）「[S-mode \#2](../Page/S-mode_2.md "wikilink")」 、『スターチャイルドSELECTION音楽編 \[TV作品集\]』
-        （※）コンサートを意識したアレンジで収録されている。
+| 曲名                                                                                                                              | 収録アルバム                                                                                        | 発売日                                                                      | 製造番号                                       | 備考                       |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------ | ------------------------ |
+| Give a reason                                                                                                                   | 『**[bertemu](https://ja.wikipedia.org/wiki/bertemu "wikilink")**』\[5\]                        | [1996年](../Page/1996年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") | KICS-590                                   |                          |
+| 『**[VINTAGE S](../Page/VINTAGE_S.md "wikilink")**』\[6\]                                                                         | [2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")                      | KICS-790                                                                 |                                            |                          |
+| 『**[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")**』\[7\]                                                                 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")   | KICA-916〜918                                                             |                                            |                          |
+| 『**[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")**』\[8\]                                              | [2011年](../Page/2011年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")                      | KICS-91670〜91671                                                         |                                            |                          |
+| 『**[「林原めぐみ 1st LIVE -あなたに会いに来て-」配信限定アルバム](https://ja.wikipedia.org/wiki/林原めぐみ_1st_LIVE_-あなたに会いに来て-#配信限定アルバム "wikilink")**』\[9\] | [2017年](../Page/2017年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") | NOPA-1644                                                                |                                            |                          |
+| 『**[スレイヤーズMEGUMIXXX](../Page/スレイヤーズMEGUMIXXX.md "wikilink")**』\[10\]                                                            | [2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")   | KICA-2573〜2575                                                           |                                            |                          |
+| 『**スレイヤーズNEXT SOUND BIBLE I**』\[11\]                                                                                            | 1996年[6月21日](../Page/6月21日.md "wikilink")                                                     | KICA-307                                                                 | REMIX VERSIONとして収録。                        |                          |
+| 『**スレイヤーズNEXT SOUND BIBLE II**』\[12\]                                                                                           | 1996年[10月2日](../Page/10月2日.md "wikilink")                                                     | KICA-317                                                                 | オリジナル、TV Size VERSION、GIGA-MIX VERSIONが収録。 |                          |
+| 『**the BEST of SLAYERS \[from TV & RADIO\]**』\[13\]                                                                             | [1999年](../Page/1999年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")                        | KICA-454〜455                                                             |                                            |                          |
+| 『**スターチャイルドSELECTION音楽編 \[TV作品集\]**』\[14\]                                                                                      | [2000年](../Page/2000年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                      | KICA-497〜8                                                               |                                            |                          |
+| 『**スタまにシリーズ●スレイヤーズ**』\[15\]                                                                                                     | [2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")                    | KICA-726                                                                 |                                            |                          |
+| 『**スタ☆リミ**』\[16\]                                                                                                               | [2009年](../Page/2009年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")                    | KICA-3108                                                                | iXUS PASSiON REMiXとして収録。                   |                          |
+| 邪魔はさせない                                                                                                                         | 『**[V-sit](../Page/V-sit.md "wikilink")**』\[17\]                                              | 1996年[9月21日](../Page/9月21日.md "wikilink")                                | KICS-586                                   | live rock-onとして収録\[18\]。 |
+| 『**[S-mode \#2](../Page/S-mode_2.md "wikilink")**』\[19\]                                                                        | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                      | KICS-1068〜9                                                              |                                            |                          |
+| 『**スレイヤーズNEXT SOUND BIBLE I**』\[20\]                                                                                            | 1996年6月21日                                                                                    | KICA-307                                                                 |                                            |                          |
+| 『**スレイヤーズNEXT SOUND BIBLE II**』\[21\]                                                                                           | 1996年10月2日                                                                                    | KICA-317                                                                 | live rock-on、TV Size VERSIONが収録。           |                          |
+| 『**the BEST of SLAYERS \[from TV & RADIO\]**』\[22\]                                                                             | 1999年6月4日                                                                                     | KICA-454〜455                                                             |                                            |                          |
+| 『**スターチャイルドSELECTION音楽編 \[TV作品集\]**』\[23\]                                                                                      | 2000年1月28日                                                                                    | KICA-497〜8                                                               |                                            |                          |
+| 『**スタまにシリーズ●スレイヤーズ**』\[24\]                                                                                                     | 2005年11月23日                                                                                   | KICA-726                                                                 |                                            |                          |
 
 ## カバー
 
-| 曲名                                                          | アーティスト                                                                                                                           | 収録アルバム                                                                                                         | 発売日                                                                                         | 備考        |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------- |
-| Give a reason                                               | [松村香澄](https://ja.wikipedia.org/wiki/松村香澄 "wikilink")                                                                            | 『KASUMI the serious joker』                                                                                     | [1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | オリジナルアルバム |
-| [奥井雅美](../Page/奥井雅美.md "wikilink")                          | 『[マサミコブシ](../Page/マサミコブシ.md "wikilink")』                                                                                         | [2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")                                         | カバーアルバム                                                                                     |           |
-| [喜多村英梨](../Page/喜多村英梨.md "wikilink")                        | 『[百歌声爛 女性声優編II](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編II "wikilink")』                                                          | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | カバーコンピレーションアルバム                                                                             |           |
-| [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")       | 『[Ever After](../Page/Ever_After_\(アルバム\).md "wikilink")』                                                                        | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")                    | カバーアルバム                                                                                     |           |
-| [桃井はるこ](../Page/桃井はるこ.md "wikilink")                        | 『[more\&more quality RED 〜Anime song cover〜](https://ja.wikipedia.org/wiki/more&more_quality_RED_〜Anime_song_cover〜 "wikilink")』 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")                    | カバーアルバム                                                                                     |           |
-| [新谷良子](../Page/新谷良子.md "wikilink")                          | 『[百歌声爛 女性声優編III](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編III "wikilink")』                                                        | [2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")                                       | カバーコンピレーションアルバム                                                                             |           |
-| [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink") | 『[anim.o.v.e 01](https://ja.wikipedia.org/wiki/anim.o.v.e_01 "wikilink")』                                                        | [2009年](../Page/2009年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")                                       | カバーアルバム                                                                                     |           |
-| [日高莉花](https://ja.wikipedia.org/wiki/日高莉花 "wikilink")       | 『ブチアゲ♂パランス 10★SPECIAL』                                                                                                           | [2009年](../Page/2009年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")                                       | カバーコンピレーションアルバム                                                                             |           |
-| [中川翔子](../Page/中川翔子.md "wikilink")                          | 『[しょこたん☆かばー3 〜アニソンは人類をつなぐ〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー3_〜アニソンは人類をつなぐ〜 "wikilink")』                                  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")                    | カバーアルバム                                                                                     |           |
+| 曲名                                                          | アーティスト                                                                                                                                     | 収録アルバム                                                                                                         | 発売日                                                                                         | 製造番号            | 備考        |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------- | --------- |
+| Give a reason                                               | [松村香澄](https://ja.wikipedia.org/wiki/松村香澄 "wikilink")                                                                                      | 『**KASUMI the serious joker**』\[25\]                                                                           | [1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | KICS-714        | オリジナルアルバム |
+| [奥井雅美](../Page/奥井雅美.md "wikilink")                          | 『**[マサミコブシ](../Page/マサミコブシ.md "wikilink")**』\[26\]                                                                                         | [2003年](../Page/2003年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")                                         | KICS-1167                                                                                   | カバーアルバム         |           |
+| [喜多村英梨](../Page/喜多村英梨.md "wikilink")                        | 『**[百歌声爛 女性声優編II](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編II "wikilink")**』\[27\]                                                          | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | SVWC-7526                                                                                   | カバーコンピレーションアルバム |           |
+| [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")       | 『**[Ever After](../Page/Ever_After_\(アルバム\).md "wikilink")**』\[28\]                                                                        | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")                    | KICS-1366                                                                                   | カバーアルバム         |           |
+| [桃井はるこ](../Page/桃井はるこ.md "wikilink")                        | 『**[more\&more quality RED 〜Anime song cover〜](https://ja.wikipedia.org/wiki/more&more_quality_RED_〜Anime_song_cover〜 "wikilink")**』\[29\] | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月3日](../Page/12月3日.md "wikilink")                    | AVCA-26991                                                                                  | カバーアルバム         |           |
+| [新谷良子](../Page/新谷良子.md "wikilink")                          | 『**[百歌声爛 女性声優編III](https://ja.wikipedia.org/wiki/百歌声爛#女性声優編III "wikilink")**』\[30\]                                                        | [2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")                                       | SVWC-7608                                                                                   | カバーコンピレーションアルバム |           |
+| [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink") | 『**[anim.o.v.e 01](https://ja.wikipedia.org/wiki/anim.o.v.e_01 "wikilink")**』\[31\]                                                        | [2009年](../Page/2009年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")                                       | AVCT-10170〜1                                                                                | カバーアルバム         |           |
+| [日高莉花](https://ja.wikipedia.org/wiki/日高莉花 "wikilink")       | 『**ブチアゲ♂パランス 10★SPECIAL**』\[32\]                                                                                                           | [2009年](../Page/2009年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")                                       | VIZP-84                                                                                     | カバーコンピレーションアルバム |           |
+| [中川翔子](../Page/中川翔子.md "wikilink")                          | 『**[しょこたん☆かばー3 〜アニソンは人類をつなぐ〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー3_〜アニソンは人類をつなぐ〜 "wikilink")**』\[33\]                                  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")                    | SRCL-7218〜9                                                                                 | カバーアルバム         |           |
 
 ## 脚注
 
-[Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:有森聡美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:有森聡美が制作した楽曲 "wikilink") [Category:佐藤英敏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤英敏が制作した楽曲 "wikilink") [Category:1996年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:1996年のスプリット・シングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink")
+### 注釈
+
+### 出典
+
+[Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:有森聡美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:有森聡美が制作した楽曲 "wikilink") [Category:佐藤英敏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤英敏が制作した楽曲 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink") [Category:1996年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:1996年のスプリット・シングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  扱いの上では、林原めぐみのシングルであるが、作品の性質上、「林原めぐみ・奥井雅美」のシングルとの見方も少なからずある。オリコンなどでは林原めぐみのシングルとして扱われている。
 2.  日本レコード協会『THE RECORD』 No.442（1996年9月号） より
 3.  2003年7月度以降の認定基準とは異なり、当時のゴールド認定基準は出荷枚数20万枚以上が基準となっている。
 4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18. コンサートを意識したアレンジになっている。
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.

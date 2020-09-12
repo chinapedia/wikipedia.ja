@@ -27,7 +27,7 @@
   - [ブラスレイター](../Page/ブラスレイター.md "wikilink") - キャラクター・メカニカルデザイン原案
   - [百花繚乱 サムライガールズ・百花繚乱 サムライブライド](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink") - キャラクター原案
   - [武装神姫](../Page/武装神姫.md "wikilink") - 神姫デザイン
-  - [ガリレイドンナ](https://ja.wikipedia.org/wiki/ガリレイドンナ "wikilink") - メカニックデザイン
+  - [ガリレイドンナ](https://ja.wikipedia.org/wiki/ガリレイドンナ "wikilink") - メカニックデザイン\[1\]
   - [sin 七つの大罪](https://ja.wikipedia.org/wiki/sin_七つの大罪 "wikilink") - キャラクター原案
   - [七つの美徳](https://ja.wikipedia.org/wiki/七つの美徳 "wikilink") - キャラクター原案
 
@@ -50,9 +50,9 @@
   - 斬魔大聖デモンベイン-軍神強襲（鋼屋ジン原作、古橋秀之著）
   - 斬魔大聖デモンベイン-ド・マリニーの時計（鋼屋ジン原作、古橋秀之著）
   - 続々・殺戮のジャンゴ害伝 地獄のビッチハイカー（[虚淵玄](../Page/虚淵玄.md "wikilink")原作、[佐藤大](../Page/佐藤大.md "wikilink")とストーリーライダーズ著）
-  - [百花繚乱 SAMURAI GIRLS](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink")（[すずきあきら](https://ja.wikipedia.org/wiki/鈴木ドイツ "wikilink")）既刊16巻
+  - [百花繚乱 SAMURAI GIRLS](https://ja.wikipedia.org/wiki/百花繚乱_SAMURAI_GIRLS "wikilink")（[すずきあきら](https://ja.wikipedia.org/wiki/鈴木ドイツ "wikilink")）\[2\]既刊16巻
   - ソード＆ウィザーズ（柑橘ゆすら）既刊4巻
-  - デッド・エンド・リローデッド（オギャ本バブ美）既刊1巻
+  - デッド・エンド・リローデッド（オギャ本バブ美）既刊2巻
 
 ### 画集
 
@@ -71,6 +71,8 @@
   - 武装神姫シリーズ "プロキシマ""マリーセレス"原画デザイン
   - 凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION コラボキャラ "エヴァ・ロマノワ" 原画デザイン
 
+## 脚注
+
 ## 関連項目
 
   - [ニトロプラス](../Page/ニトロプラス.md "wikilink")
@@ -82,4 +84,7 @@
   - [NIΘぶろぐ](http://blog.livedoor.jp/syonborilife/index.html)
   - [ニトロプラス](http://www.nitroplus.co.jp/pc/)
 
-[Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:メカニックデザイナー](https://ja.wikipedia.org/wiki/Category:メカニックデザイナー "wikilink") [Category:ニトロプラスの人物](https://ja.wikipedia.org/wiki/Category:ニトロプラスの人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:メカニックデザイナー](https://ja.wikipedia.org/wiki/Category:メカニックデザイナー "wikilink") [Category:ニトロプラスの人物](https://ja.wikipedia.org/wiki/Category:ニトロプラスの人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.

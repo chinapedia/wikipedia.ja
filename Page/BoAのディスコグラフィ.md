@@ -3,7 +3,21 @@
 
 BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表した[CD](https://ja.wikipedia.org/wiki/CD "wikilink")・[DVD](../Page/DVD.md "wikilink")などを解説。
 
-## 日本盤シングル
+{{ Infobox Artist Discography | Artist = BoA
+
+| Singles = 40 | Option name = シングル | Singles link = 日本シングル
+
+| Studio = 21 \[1\] | Studio link = オリジナルアルバム
+
+| Best = 3 | Best link = ベストアルバム
+
+| EP = 3 \[2\] | EPs link = ミニアルバム
+
+| Option = 6 | Option name = ダウンロード・シングル | Option link = デジタルシングル
+
+| Video = 18 | Video link = 映像作品 }}
+
+## 日本シングル
 
 ### CDシングル
 
@@ -478,7 +492,7 @@ AVCK-79311/B</p></td>
 CD+DVD</p></td>
 <td><p>AVCK-79541<br />
 AVCK-79540/B</p></td>
-<td></td>
+<td><p>未公表</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -560,7 +574,7 @@ AVCK-79540/B</p></td>
 </tbody>
 </table>
 
-## 日本盤アルバム
+## 日本アルバム
 
 ### オリジナルアルバム
 
@@ -825,13 +839,14 @@ AVCD-23830～1/B～C</p></td>
 </tbody>
 </table>
 
-## 韓国盤アルバム
+## 韓国アルバム
 
   - 特記が無い限りは全て韓国語で歌っている。また、曲名が韓国語である場合には英語名も併記されている。これは、アジアで人気のあるBoAにとっては、韓国語を母語としない人々をターゲットにしているからだと考えられている。
+  - レーベルは[S.M. ENTERTAINMENT](../Page/SMエンターテインメント.md "wikilink")。
 
 ### オリジナルアルバム
 
-  - 後に日本で発売されたアルバムについては下で記す。
+  - 後に日本で発売されたアルバムについては[後述](https://ja.wikipedia.org/wiki/BoAのディスコグラフィ#日本盤 "wikilink")。
 
 <table>
 <thead>
@@ -967,7 +982,7 @@ SMCD-207</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/WOMAN_(BoAのアルバム)" title="wikilink">WOMAN</a></strong></p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
 <td><p>CD</p></td>
-<td></td>
+<td><p>SMK-1037</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1002,7 +1017,7 @@ SMCD-207</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ONE_SHOT,_TWO_SHOT" title="wikilink">ONE SHOT, TWO SHOT</a></strong></p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a></p></td>
 <td><p>CD</p></td>
-<td></td>
+<td><p>SMK-1000</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1012,15 +1027,15 @@ SMCD-207</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Starry_Night" title="wikilink">Starry Night</a></strong></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月11日.md" title="wikilink">12月11日</a></p></td>
 <td><p>CD</p></td>
-<td></td>
+<td><p>SMK-1120</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### 日本輸入盤
+### 日本盤
 
-  - 2.5集、3集、3.5集の日本盤は発売されていない。
+  - 2.5集、3集、3.5集、6集、7集、8集の日本盤は発売されていない。
 
 <table>
 <thead>
@@ -1113,8 +1128,7 @@ SMCD-207</p></td>
 <tr class="header">
 <th><p>CDタイトル</p></th>
 <th><p>曲名</p></th>
-<th><p>発売日</p></th>
-<th><p>季節</p></th>
+<th><p>発売</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -1124,9 +1138,6 @@ SMCD-207</p></td>
 <td><p>Christmas Time<br />
 Merry Christmas</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1134,9 +1145,6 @@ Merry Christmas</p></td>
 <td><p>Feliz Navidad<br />
 Winter Wind</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/12月4日.md" title="wikilink">12月4日</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1144,36 +1152,24 @@ Winter Wind</p></td>
 <td><p>My Boy<br />
 Amazing Kiss</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><center>
-<p>夏</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>WINTER VACATION IN SMTOWN.COM '02 ～Angel Eyes～</p></td>
 <td><p>Jewel Song</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>'03 SUMMER VACATION IN SMTOWN.COM</p></td>
 <td><p>ROMEO</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><center>
-<p>夏</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2003 WINTER VACATION IN SMTOWN.COM</p></td>
 <td><p>Feel the same</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1181,9 +1177,6 @@ Amazing Kiss</p></td>
 <td><p>Lollipop<br />
 Midnight Parade</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><center>
-<p>夏</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1191,46 +1184,32 @@ Midnight Parade</p></td>
 <td><p>TOUCH</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006 WINTER SMTOWN　～SNOW DREAM～</p></td>
 <td><p>DOTCH</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007 SUMMER SMTOWN</p></td>
 <td><p>イブの警告</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><center>
-<p>夏</p>
-</center></td>
 <td><p>BoA feat. <a href="https://ja.wikipedia.org/wiki/スーパージュニア#シンドン" title="wikilink">シンドン</a> 名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007 WINTER SMTOWN ONLY LOVE</p></td>
 <td><p>12月27日</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011 SMTOWN Winter: The Warmest Gift</p></td>
 <td><p>Distance</p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
-<td><center>
-<p>冬</p>
-</center></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1440,7 +1419,23 @@ AVXK-79607</p></td>
 <td><p>DVD<br />
 Blu-ray</p></td>
 </tr>
+<tr class="even">
+<td><center>
+<p>LIVE</p>
+</center></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BoA_LIVE_TOUR_2019_#mood" title="wikilink">BoA LIVE TOUR 2019 #mood</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月19日.md" title="wikilink">2月19日</a></p></td>
+<td><p>DVD<br />
+Blu-ray</p></td>
+<td><p>AVBK-79647<br />
+AVXK-79648</p></td>
+<td><p>DVD<br />
+Blu-ray</p></td>
+</tr>
 </tbody>
 </table>
 
 [Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:ディスコグラフィ](https://ja.wikipedia.org/wiki/Category:ディスコグラフィ "wikilink")
+
+1.  韓国盤アルバムも含む。
+2.  韓国盤ミニアルバムも含む。

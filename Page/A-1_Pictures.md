@@ -9,7 +9,7 @@
 
 2006年、[ノーサイドと共同制作した](../Page/ノーサイド_\(企業\).md "wikilink")『[ぜんまいざむらい](../Page/ぜんまいざむらい.md "wikilink")』より元請制作を開始し、同年10月には[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")に本社兼阿佐ヶ谷スタジオを設立。[2007年](../Page/2007年.md "wikilink")に制作した『[おおきく振りかぶって](../Page/おおきく振りかぶって.md "wikilink")』より自社単独での元請制作を開始した。[2012年](../Page/2012年.md "wikilink")には高円寺スタジオが稼動開始した。
 
-2018年4月1日、高円寺スタジオを**[CloverWorks](https://ja.wikipedia.org/wiki/CloverWorks "wikilink")**へ改称し、ブランド化\[2\]。同年10月1日、同ブランドをアニプレックス子会社として会社分割した\[3\]
+2018年4月1日、高円寺スタジオを**[CloverWorks](https://ja.wikipedia.org/wiki/CloverWorks "wikilink")**へ改称し、ブランド化\[2\]。同年10月1日、同ブランドをアニプレックス子会社として会社分割した\[3\]。
 
 ## 作風
 
@@ -19,13 +19,7 @@
 
 ## 評価
 
-『[THE IDOLM@STERシリーズ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_\(アニメ\) "wikilink")』では多くの賞を受賞し、TVアニメ版では[2011年](../Page/2011年.md "wikilink")に『[Newtype](../Page/月刊ニュータイプ.md "wikilink")×[マチ★アソビ](https://ja.wikipedia.org/wiki/マチ★アソビ "wikilink") アニメアワード2011』でCM部門を受賞、2012年には同じく『Newtype×マチ★アソビ アニメアワード2012』で監督賞・脚本賞など7部門を受賞してスタジオ賞では2位にランクインし、劇場版では2014年に『Newtype×マチ★アソビ アニメアワード2014』においてスタジオ賞・監督賞など6部門を受賞した。
-
-2015年に『Newtype×マチ★アソビ アニメアワード2015』において、スタジオ賞を2年連続で受賞し、『[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_\(アニメ\) "wikilink")』でキャラクターデザイン賞を、[TROYCA](https://ja.wikipedia.org/wiki/TROYCA "wikilink")と共同制作した『[アルドノア・ゼロ](https://ja.wikipedia.org/wiki/アルドノア・ゼロ "wikilink")』でメカデザイン賞・サウンド賞を受賞し計4冠を達成した。
-
-2017年に『Newtype×マチ★アソビ アニメアワード2017』において、『[劇場版 ソードアート・オンライン -オーディナル・スケール-](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")』で作品賞（劇場上映）など4部門、『[Fate/Apocrypha](https://ja.wikipedia.org/wiki/Fate/Apocrypha "wikilink")』で作品賞（テレビ放送）など2部門を受賞して計6冠を達成し、スタジオ賞では2位にランクインした。
-
-2018年に『Newtype×マチ★アソビ アニメアワード2017 - 2018』において、『[アイドルマスター SideM](https://ja.wikipedia.org/wiki/アイドルマスター_SideM "wikilink")』で作品賞（TV・配信作品部門）やスタジオ賞など計7冠を達成した。
+雑誌「月刊ニュータイプ」が主催する「Newtypeアワード」での受賞が多い。『[THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_\(アニメ\) "wikilink")』が[2011年](../Page/2011年.md "wikilink")にCM部門、翌2012年に監督賞・脚本賞など7部門を受賞（スタジオ賞では2位）2014年には、劇場版がスタジオ賞・監督賞など6部門を受賞した。翌2015年にスタジオ賞を2年連続で受賞し、『[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_\(アニメ\) "wikilink")』でキャラクターデザイン賞を、[TROYCA](https://ja.wikipedia.org/wiki/TROYCA "wikilink")と共同制作した『[アルドノア・ゼロ](https://ja.wikipedia.org/wiki/アルドノア・ゼロ "wikilink")』でメカデザイン賞・サウンド賞を受賞。2017年に『[劇場版 ソードアート・オンライン -オーディナル・スケール-](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")』で作品賞（劇場上映）など4部門、『[Fate/Apocrypha](https://ja.wikipedia.org/wiki/Fate/Apocrypha "wikilink")』で作品賞（テレビ放送）など2部門を受賞、スタジオ賞では2位に選出。2018年に『[アイドルマスター SideM](https://ja.wikipedia.org/wiki/アイドルマスター_SideM "wikilink")』で作品賞（TV・配信作品部門）やスタジオ賞など7部門で受賞。
 
 ## 作品
 
@@ -67,13 +61,13 @@
 </tr>
 <tr class="odd">
 <td><p>7月 - 9月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鉄腕バーディー_DECODE" title="wikilink">鉄腕バーディー DECODE</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鉄腕バーディー_DECODE" title="wikilink">鉄腕バーディー DECODE</a>[4]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月 - 2008年12月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かんなぎ_(漫画)" title="wikilink">かんなぎ</a>[4]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かんなぎ_(漫画)" title="wikilink">かんなぎ</a>[5]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -247,7 +241,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月 - 9月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サーバント×サービス" title="wikilink">サーバント×サービス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サーバント×サービス" title="wikilink">サーバント×サービス</a>[6]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -282,7 +276,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/世界征服〜謀略のズヴィズダー〜" title="wikilink">世界征服〜謀略のズヴィズダー〜</a>[5]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/世界征服〜謀略のズヴィズダー〜" title="wikilink">世界征服〜謀略のズヴィズダー〜</a>[7]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -403,7 +397,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月 - 12月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/学戦都市アスタリスク" title="wikilink">学戦都市アスタリスク</a> (1st Season)[6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/学戦都市アスタリスク" title="wikilink">学戦都市アスタリスク</a> (1st Season)[8]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -614,18 +608,24 @@
 </tr>
 <tr class="even">
 <td><p>7月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/『ヒプノシスマイク_-Division_Rap_Battle-』Rhyme_Anima" title="wikilink">『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>ソードアート・オンライン アリシゼーション War of Underworld<br />
 (THE LAST SEASON)</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>10月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/『ヒプノシスマイク_-Division_Rap_Battle-』Rhyme_Anima" title="wikilink">『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/戦翼のシグルドリーヴァ.md" title="wikilink">戦翼のシグルドリーヴァ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>時期未定</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/86-エイティシックス-" title="wikilink">86-エイティシックス-</a></p></td>
 <td></td>
@@ -660,7 +660,7 @@
 | 2020年  | 1月18日                                                                                                          | [劇場版 ハイスクール・フリート](https://ja.wikipedia.org/wiki/劇場版_ハイスクール・フリート "wikilink")                                |    |
 | 5月29日  | [思い、思われ、ふり、ふられ](https://ja.wikipedia.org/wiki/思い、思われ、ふり、ふられ "wikilink")                                        |                                                                                                            |    |
 
-### OVA
+### OVA / Webアニメ
 
 | 発売日                     | タイトル                                                                                                                     | 備考                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -669,6 +669,8 @@
 | 2011年6月29日 - 8月31日      | [戦場のヴァルキュリア3 誰がための銃瘡](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア3_誰がための銃瘡 "wikilink")                                      |                                                                  |
 | 2012年12月3日 - 2013年8月23日 | [聖☆おにいさん](../Page/聖☆おにいさん.md "wikilink")                                                                                 |                                                                  |
 | 2015年1月28日 - 2月25日      | [黒執事 Book of Murder](https://ja.wikipedia.org/wiki/黒執事_Book_of_Murder "wikilink")                                        |                                                                  |
+| 2016年3月31日 - 9月17日      | [BROTHERHOOD FINAL FANTASY XV](https://ja.wikipedia.org/wiki/BROTHERHOOD_FINAL_FANTASY_XV "wikilink")                    |                                                                  |
+| 2018年12月31日             | [マンガで分かる\! Fate/Grand Order](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")                                  |                                                                  |
 | 2019年1月16日              | [エロマンガ先生](https://ja.wikipedia.org/wiki/エロマンガ先生 "wikilink")                                                              |                                                                  |
 
 ### ゲーム
@@ -748,7 +750,7 @@
 <td><p>2017年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ららマジ" title="wikilink">ららマジ</a></p></td>
 <td><p>Android、iOS</p></td>
-<td><p>原作</p></td>
+<td><p>原作、キャラクター監修</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ラジアントヒストリア" title="wikilink">ラジアントヒストリア パーフェクトクロノロジー</a></p></td>
@@ -785,13 +787,12 @@ Android、iOS</p></td>
   - [時季は巡る 〜TOKYO STATION〜](https://ja.wikipedia.org/wiki/時季は巡る_〜TOKYO_STATION〜 "wikilink")（2014年）
   - [ARASHI LIVE TOUR 2015 Japonism](https://ja.wikipedia.org/wiki/ARASHI_LIVE_TOUR_2015_Japonism "wikilink") オープニング映像（2015年）
   - ARASHI "Japonism Show" in ARENA オープニング映像（2016年）
-  - [BROTHERHOOD FINAL FANTASY XV](https://ja.wikipedia.org/wiki/BROTHERHOOD_FINAL_FANTASY_XV "wikilink")（2016年）
 
 ## 事件・不祥事
 
 ### 社員の過労自殺と「ブラック企業大賞」受賞
 
-2010年10月、同社で[制作進行](../Page/制作進行.md "wikilink")を務めていた当時28歳の男性が[自殺](../Page/自殺.md "wikilink")し、2014年4月11日付けで新宿[労働基準監督署](../Page/労働基準監督署.md "wikilink")が過労による[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")が原因として[労災認定した](../Page/労働災害.md "wikilink")（[過労自殺](https://ja.wikipedia.org/wiki/過労自殺 "wikilink")）。通院した医療施設の[診療録](../Page/診療録.md "wikilink")には「月600時間労働」との記載があったが、残業代が支払われた形跡は無いとされている\[7\]。この事件がきっかけとなり、その劣悪な労働環境が[メディアに](../Page/メディア_\(媒体\).md "wikilink")『[ブラック企業](../Page/ブラック企業.md "wikilink")』として取り上げられ、『[ブラック企業大賞 業界賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")2014』を受賞した。
+2010年10月、同社で[制作進行](../Page/制作進行.md "wikilink")を務めていた当時28歳の男性が[自殺](../Page/自殺.md "wikilink")し、2014年4月11日付けで新宿[労働基準監督署](../Page/労働基準監督署.md "wikilink")が過労による[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")が原因として[労災認定した](../Page/労働災害.md "wikilink")（[過労自殺](https://ja.wikipedia.org/wiki/過労自殺 "wikilink")）。通院した医療施設の[診療録](../Page/診療録.md "wikilink")には「月600時間労働」との記載があったが、残業代が支払われた形跡は無いとされている\[9\]。この事件がきっかけとなり、その劣悪な労働環境が[メディアに](../Page/メディア_\(媒体\).md "wikilink")『[ブラック企業](../Page/ブラック企業.md "wikilink")』として取り上げられ、『[ブラック企業大賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")2014 業界賞』を受賞した。
 
 過労自殺した28歳の男性は、在職中は『おおきく振りかぶって』『かんなぎ』などの制作進行を担当。残業時間は多い時で月344時間に上った。7日間連続で会社に泊まったり、3か月休みがなかったこともあった。
 
@@ -809,4 +810,6 @@ Android、iOS</p></td>
 4.
 5.
 6.
-7.  アニメ制作で過労自殺　カルテに「月600時間」　28歳男性、労災認定 スポニチアネックス 2014年4月18日 17:02 [1](http://www.sponichi.co.jp/society/news/2014/04/18/kiji/K20140418007998030.html)
+7.
+8.
+9.  アニメ制作で過労自殺　カルテに「月600時間」　28歳男性、労災認定 スポニチアネックス 2014年4月18日 17:02 [1](https://www.sponichi.co.jp/society/news/2014/04/18/kiji/K20140418007998030.html)

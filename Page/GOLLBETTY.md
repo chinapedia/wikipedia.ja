@@ -13,7 +13,7 @@
   - **MISSY**（ミッシー、1983年[12月29日](../Page/12月29日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ギター](../Page/ギター.md "wikilink")
   - **CLASSY**（クラッシー、1983年[4月30日](../Page/4月30日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **MUSH**（ムッシュ、[1984年](../Page/1984年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ドラム](../Page/ドラムセット.md "wikilink")
-  - **TAKA-P**（タカピー、1983年[7月9日](../Page/7月9日.md "wikilink") [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
+  - **TAKA-P**（タカピー、1985年[12月21日](../Page/12月21日.md "wikilink") [AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
   - **SHODAI**（ショーダイ、1984年、[8月11日](../Page/8月11日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[トランペット](../Page/トランペット.md "wikilink")
   - **HIROAKI**（ヒロアキ、1983年[9月10日](../Page/9月10日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[トロンボーン](../Page/トロンボーン.md "wikilink")
 

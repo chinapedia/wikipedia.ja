@@ -1,7 +1,7 @@
 > この記事は[ALEXANDER](https://ja.wikipedia.org/wiki/ALEXANDER)から翻訳されています。
 
 
-**ALEXANDER**（アレクサンダー、[1982年](../Page/1982年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動している[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")・[トルヒーリョ出身の](https://ja.wikipedia.org/wiki/トルヒーリョ_\(ペルー\) "wikilink")[俳優](../Page/俳優.md "wikilink")、男性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。旧名義、**エンリケ**、**坂本エンリケ**（さかもと エンリケ）。愛称は「**アレク**」。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。既婚。妻は元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")でタレント・実業家の[川崎希](../Page/川崎希.md "wikilink")。
+**ALEXANDER**（アレクサンダー、[1982年](../Page/1982年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動している[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")・[トルヒーリョ出身の](https://ja.wikipedia.org/wiki/トルヒーリョ_\(ペルー\) "wikilink")[俳優](../Page/俳優.md "wikilink")、男性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。旧名義、**エンリケ**、**坂本エンリケ**（さかもと エンリケ）。愛称は「**アレク**」。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。既婚。妻は元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")でタレント・実業家の[川崎希](../Page/川崎希.md "wikilink")\[1\]。
 
 ## 略歴
 
@@ -15,18 +15,18 @@
 
 ### 改名後のテレビ出演を機に大ブレイク
 
-2013年2月に、元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の一期生で、アパレルブランド「ANTIMINSS」のプロデューサーである[川崎希](../Page/川崎希.md "wikilink")と結婚していたことをテレビ番組（[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")）にて発表したと同時に名前も「**坂本エンリケ**」から「**ALEXANDER**」に改名した。 その[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")への出演をきっかけに全国的にブレイクし、以降はほぼ毎週、同番組に出演するようになり、人気が定着した。 妻である川崎のブログによると、その「有吉反省会」収録後に、川崎の所属事務所である「[スカイコーポレーション](../Page/スカイコーポレーション_\(芸能事務所\).md "wikilink")」のスタッフにスカウトされてアレクも川崎と同じスカイコーポレーション所属タレントとなった。 2014年1月からは川崎と共に大手芸能事務所の「[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")」に移籍。 一方でモデル系事務所の「[ブルーベアハウス](https://ja.wikipedia.org/wiki/ブルーベアハウス "wikilink")」にも所属\[1\]。 2017年8月には川崎との間に一児（男児）をもうけている。
+2013年2月に、元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の一期生で、アパレルブランド「ANTIMINSS」のプロデューサーである[川崎希](../Page/川崎希.md "wikilink")と結婚していたことをテレビ番組（[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")）にて発表したと同時に名前も「**坂本エンリケ**」から「**ALEXANDER**」に改名した。 その[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")への出演をきっかけに全国的にブレイクし、以降はほぼ毎週、同番組に出演するようになり、人気が定着した。 妻である川崎のブログによると、その「有吉反省会」収録後に、川崎の所属事務所である「[スカイコーポレーション](../Page/スカイコーポレーション_\(芸能事務所\).md "wikilink")」のスタッフにスカウトされてアレクも川崎と同じスカイコーポレーション所属タレントとなった。 2014年1月からは川崎と共に大手芸能事務所の「[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")」に移籍。 一方でモデル系事務所の「[ブルーベアハウス](https://ja.wikipedia.org/wiki/ブルーベアハウス "wikilink")」にも所属\[2\]。 2017年8月には川崎との間に一児（男児）をもうけている。また、2020年8月20日、妻である川崎が第二子を妊娠したことがわかった。
 
 ## 人物
 
   - 趣味は音楽鑑賞。特技は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[ギター](../Page/ギター.md "wikilink")。
   - 川崎がプロデュースするアパレルブランド「Antiminss」のイメージモデルとして支援し、店頭に立つこともある。
-  - 父親が日系人で母親が[ペルー人](https://ja.wikipedia.org/wiki/ペルー人 "wikilink")。父親はかつて外国でプロの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")選手をやっていた\[2\]\[3\]。また[タマラ](https://ja.wikipedia.org/wiki/タマラ "wikilink")という名前の妹が１人居る\[4\]。
+  - 父親が日系人で母親が[ペルー人](https://ja.wikipedia.org/wiki/ペルー人 "wikilink")。父親はかつて外国でプロの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")選手をやっていた\[3\]\[4\]。また[タマラ](https://ja.wikipedia.org/wiki/タマラ "wikilink")という名前の妹が１人居る\[5\]。
   - テレビでは「ヒモ」や「働かないキャラ」として定着しているが、料理がうまく、料理が下手な妻の代わりにいつも料理を作っている。
   - デビュー当時の「エンリケ」のスペルは"Enrique"だったが、のちにスペルが"ENRIKE"になった。
-  - ネコ好きで知られ、昔からブログには頻繁にネコが登場する。また妻の川崎希もネコ好きであり、二人の結婚記念日（2013年2月22日）もわざわざ語呂合わせでネコにちなんだ日（にゃんにゃんの日）にしたほどである\[5\]。
+  - ネコ好きで知られ、昔からブログには頻繁にネコが登場する。また妻の川崎希もネコ好きであり、二人の結婚記念日（2013年2月22日）もわざわざ語呂合わせでネコにちなんだ日（にゃんにゃんの日）にしたほどである\[6\]。
   - TV番組等の本人の発言によると、結婚後は社長(希夫人)の秘書兼運転手としての仕事がメインになっている。
-  - 妻とは[国際結婚](../Page/国際結婚.md "wikilink")であるため、[夫婦別姓](https://ja.wikipedia.org/wiki/夫婦別姓 "wikilink")が原則であり、結婚後も川崎とは別姓である\[6\]。
+  - 妻とは[国際結婚](../Page/国際結婚.md "wikilink")であるため、[夫婦別姓](https://ja.wikipedia.org/wiki/夫婦別姓 "wikilink")が原則であり、結婚後も川崎とは別姓である\[7\]。
   - 2018年11月6日放送のテレビ朝日「ソノサキ」内にて、[川崎希](../Page/川崎希.md "wikilink")と入籍した翌日にアレクサンダーが浮気したことが明かされ、反省文を書かされる。[川崎希](../Page/川崎希.md "wikilink")が浮気した場合を問われると、アレクサンダーは「離婚でしょ」と発言した。
   - よくルックスが似ていると言われる俳優の[水嶋ヒロ](https://ja.wikipedia.org/wiki/水嶋ヒロ "wikilink")とは、かつて同じ時期に同じモデル事務所（[GIG MANAGEMENT JAPAN](https://ja.wikipedia.org/wiki/GIG_MANAGEMENT_JAPAN "wikilink")）に所属しており、友人であることがTV番組等の本人の発言によって明らかになっている。
   - [タレント](../Page/タレント.md "wikilink")の[ハリー杉山](../Page/ハリー杉山.md "wikilink")や[俳優](../Page/俳優.md "wikilink")の[東出昌大](../Page/東出昌大.md "wikilink")とモデル時代からの友人である。
@@ -128,11 +128,12 @@
   - [アレクサンダーオフィシャルブログ「ねこのしっぽ欲しいな」- 公式ブログ](https://ameblo.jp/alexander1203/)
   - [ANTIMINSS](https://www.antiminss.jp/)
 
-[Category:日本の男性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の男性ファッションモデル "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:渡辺プロ系列所属者 "wikilink") [Category:日系ペルー人](https://ja.wikipedia.org/wiki/Category:日系ペルー人 "wikilink") [Category:ペルー系日本人](https://ja.wikipedia.org/wiki/Category:ペルー系日本人 "wikilink") [Category:日本に帰化した人物](https://ja.wikipedia.org/wiki/Category:日本に帰化した人物 "wikilink") [Category:トルヒーリョ_(ペルー)出身の人物](https://ja.wikipedia.org/wiki/Category:トルヒーリョ_\(ペルー\)出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の男性ファッションモデル "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:渡辺プロ系列所属者 "wikilink") [Category:日系ペルー人](https://ja.wikipedia.org/wiki/Category:日系ペルー人 "wikilink") [Category:ペルー系日本人](https://ja.wikipedia.org/wiki/Category:ペルー系日本人 "wikilink") [Category:日本に帰化した人物](https://ja.wikipedia.org/wiki/Category:日本に帰化した人物 "wikilink") [Category:ペルー・トルヒーリョ出身の人物](https://ja.wikipedia.org/wiki/Category:ペルー・トルヒーリョ出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  [あけましておめでとうございます^ ^](http://ameblo.jp/kawasaki-nozomi/entry-11740742394.html)（2014年1月1日、川崎希オフィシャルブログ）
-2.  [自己紹介です 2013年09月11日](https://ameblo.jp/alexander1203/entry-11611713064.html)
-3.  [地元のスターサッカー選手時代の親父 2015年11月13日](https://ameblo.jp/alexander1203/entry-12095093896.html)
-4.  [ブラジルにいる妹からlineが来た〜の巻 2016年08月18日](https://ameblo.jp/alexander1203/entry-12191339049.html)
-5.  [\*ご報告\*](http://ameblo.jp/kawasaki-nozomi/entry-11609543095.html)
-6.  [「アレク＆川崎希は『夫婦別姓』」、デイリースポーツ、2015年12月16日](http://www.daily.co.jp/newsflash/gossip/2015/12/16/0008652642.shtml)
+1.
+2.  [あけましておめでとうございます^ ^](http://ameblo.jp/kawasaki-nozomi/entry-11740742394.html)（2014年1月1日、川崎希オフィシャルブログ）
+3.  [自己紹介です 2013年09月11日](https://ameblo.jp/alexander1203/entry-11611713064.html)
+4.  [地元のスターサッカー選手時代の親父 2015年11月13日](https://ameblo.jp/alexander1203/entry-12095093896.html)
+5.  [ブラジルにいる妹からlineが来た〜の巻 2016年08月18日](https://ameblo.jp/alexander1203/entry-12191339049.html)
+6.  [\*ご報告\*](http://ameblo.jp/kawasaki-nozomi/entry-11609543095.html)
+7.  [「アレク＆川崎希は『夫婦別姓』」、デイリースポーツ、2015年12月16日](http://www.daily.co.jp/newsflash/gossip/2015/12/16/0008652642.shtml)

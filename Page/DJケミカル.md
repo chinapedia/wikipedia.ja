@@ -13,7 +13,7 @@
 
 ## 人物
 
-テレビ、ライブ、[PVの中ではDJプレイはほとんどせず](../Page/ミュージック・ビデオ.md "wikilink")、後ろで即興的な[ダンス](../Page/ダンス.md "wikilink")や手拍子をしている（ただし「涙」などのバラードでは、派手なパフォーマンスが出来ず直立不動になってしまう）。これは、彼がDJプレイをすると真顔になり暗くなってしまうのを避けるためで、DJプレイが出来ないからではなく、[スクラッチやトラック制作にはしっかり参加している](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")（「[西日と影法師](https://ja.wikipedia.org/wiki/ALWAYS_\(FUNKY_MONKEY_BABYSの曲\) "wikilink")」は彼がトラックを作成。プロデュースは[NAOKI-T](../Page/NAOKI-T.md "wikilink")）。また、サビの部分のコーラスに参加したり（「あなたへ」など）、曲中で[台詞](../Page/台詞.md "wikilink")を言ったり（「[勝負パンツ](https://ja.wikipedia.org/wiki/ファンキーモンキーベイビーズ_\(アルバム\) "wikilink")」など）、「[君の手の平でダンス'09](https://ja.wikipedia.org/wiki/桜_\(FUNKY_MONKEY_BABYSの曲\) "wikilink")」では[ラップ](../Page/ラップ.md "wikilink")にも挑戦している。そのほか、「[僕はサンタクロース](../Page/もう君がいない.md "wikilink")」を[リミックス](../Page/リミックス.md "wikilink")した事もある。ライブでは、演奏中にDJブースで食事をするパフォーマンスをした事もある。
+テレビ、ライブ、[PVの中ではDJプレイはほとんどせず](../Page/ミュージック・ビデオ.md "wikilink")、後ろで即興的な[ダンス](../Page/ダンス.md "wikilink")や手拍子をしている\[1\]。これは、彼がDJプレイをすると真顔になり暗くなってしまうのを避けるためで、DJプレイが出来ないからではなく、[スクラッチやトラック制作にはしっかり参加している](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")（「[西日と影法師](https://ja.wikipedia.org/wiki/ALWAYS_\(FUNKY_MONKEY_BABYSの曲\) "wikilink")」は彼がトラックを作成。プロデュースは[NAOKI-T](../Page/NAOKI-T.md "wikilink")）。また、サビの部分のコーラスに参加したり（「あなたへ」など）、曲中で[台詞](../Page/台詞.md "wikilink")を言ったり（「[勝負パンツ](https://ja.wikipedia.org/wiki/ファンキーモンキーベイビーズ_\(アルバム\) "wikilink")」など）、「[君の手の平でダンス'09](https://ja.wikipedia.org/wiki/桜_\(FUNKY_MONKEY_BABYSの曲\) "wikilink")」では[ラップ](../Page/ラップ.md "wikilink")にも挑戦している。そのほか、「[僕はサンタクロース](../Page/もう君がいない.md "wikilink")」を[リミックス](../Page/リミックス.md "wikilink")した事もある。ライブでは、演奏中にDJブースで食事をするパフォーマンスをした事もある。
 
 同グループのメジャーデビュー後に発売されたアルバムのジャケットは全てケミカルが飾っており、メンバー全員で写っているアーティスト写真では立ち位置が中央および一番手前が多い。さらに、公式携帯サイト「ファンモンモバイル」や[ドワンゴ](../Page/ドワンゴ.md "wikilink")で配信されているメンバーの着信ボイスも、彼のものが最も多い。
 
@@ -38,8 +38,8 @@
   - [2007年](../Page/2007年.md "wikilink")2月末、FUNKY MONKEY BABYS4枚目のシングル「[Lovin' Life](../Page/Lovin'_Life.md "wikilink")」発表時に『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）に初出演した際、DJプレイをせずに、曲中はずっと[桜の木の枝を手に持って踊っていた](../Page/サクラ.md "wikilink")。曲終了後司会の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")にその事についてつっこまれる。番組へは「彼は一体何者なんだ」や「DJプレイは出来るのか？」などの問合せが殺到した。そこで同番組は翌週にもう一度FUNKY MONKEY BABYSを出演させ、同番組内のコーナー「Mトピ」で取り上げて紹介した。タモリに「DJは今日こそDJをしてくれますか？」と聞かれて彼は、「今日は練習してきたので」と答えたが、曲が始まると同時に[ヘッドホンをくるくるとしまい込み](../Page/ヘッドフォン.md "wikilink")、曲が終わるまで踊るだけだった。その2週とも赤いTシャツを着て踊っていたため、ファンから**赤Tシャツ王子（赤T）**と呼ばれるようになる。ちなみにケミカルが赤いTシャツを着たのはこの時が初めてである。この件にちなみオフィシャル通販では、「FMB」の[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")やイラストがプリントされた赤いTシャツを[ファンクラブ](../Page/ファンクラブ.md "wikilink")会員限定で販売していた。
   - 2008年夏、プライベートで[バヌアツ](../Page/バヌアツ.md "wikilink")に行き、現地の真水で胃腸を壊し、帰国後、原因不明の高熱で倒れた。
   - FUNKY MONKEY BABYS3枚目のアルバム『[ファンキーモンキーベイビーズ3](https://ja.wikipedia.org/wiki/ファンキーモンキーベイビーズ3 "wikilink")』の[コマーシャル](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")には、メンバーからは彼だけが出演していた。同CMは彼がDJを引退するというストーリーで、初回限定版のジャケット写真で着ている服装と同じ恰好で登場し、車の窓から投げキッスを披露した。
-  - 2011年11月より八王子市内で運行されている「ファンモンバス」（[西東京バス](../Page/西東京バス.md "wikilink")）では、彼が描いたイラストが掲出されているほか、車内アナウンスも彼が担当していた\[1\]。
-  - 2012年4月8日、5年前から交際を続けてきた一般の女性と[結婚](../Page/結婚.md "wikilink")。ケミカルは公式ブログで妻の事を「不動明王のような厳しさと慈悲深さを兼ね備えている」と記述している。[4月8日](../Page/4月8日.md "wikilink")を選んだのは、実家の寺の副住職でもあるケミカルが、[釈迦](https://ja.wikipedia.org/wiki/釈迦 "wikilink")が誕生したとされる[花まつりの日にちなんでである](../Page/灌仏会.md "wikilink")\[2\]。
+  - 2011年11月より八王子市内で運行されている「ファンモンバス」（[西東京バス](../Page/西東京バス.md "wikilink")）では、彼が描いたイラストが掲出されているほか、車内アナウンスも彼が担当していた\[2\]。
+  - 2012年4月8日、5年前から交際を続けてきた一般の女性と[結婚](../Page/結婚.md "wikilink")。ケミカルは公式ブログで妻の事を「不動明王のような厳しさと慈悲深さを兼ね備えている」と記述している。[4月8日](../Page/4月8日.md "wikilink")を選んだのは、実家の寺の副住職でもあるケミカルが、[釈迦](https://ja.wikipedia.org/wiki/釈迦 "wikilink")が誕生したとされる[花まつりの日にちなんでである](../Page/灌仏会.md "wikilink")\[3\]。
 
 ## 書籍
 
@@ -47,11 +47,16 @@
 
 ## 脚注
 
+### 注釈
+
+### 脚注
+
 ## 外部リンク
 
   - [FUNKY MONKEY BABYS公式ホームページ](http://www.funkymonkeybabys.com/index.html)
 
 [Category:日本のポップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のポップ・ミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:時宗の僧](https://ja.wikipedia.org/wiki/Category:時宗の僧 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.
+1.  ただし「涙」などのバラードでは、派手なパフォーマンスが出来ず直立不動になってしまう
 2.
+3.

@@ -19,7 +19,7 @@
 
 1.  **SUMMER DREAM**
       - 作詞:[亜蘭知子](../Page/亜蘭知子.md "wikilink")／作曲・編曲:織田哲郎
-      - [キリン](../Page/キリンビバレッジ.md "wikilink") 「[キリンレモン](../Page/キリンレモン.md "wikilink")」CMソング
+      - [麒麟麦酒](../Page/麒麟麦酒.md "wikilink") 「[キリンレモン](../Page/キリンレモン.md "wikilink")」CMソング
 2.  **真夏の夜はROCK'n ROLL** (未CD化)
       - 作詞・作曲：[前田亘輝](../Page/前田亘輝.md "wikilink")／編曲:[TUBE](../Page/TUBE.md "wikilink")
 

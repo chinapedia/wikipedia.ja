@@ -1,9 +1,7 @@
 > この記事は[PVTV](https://ja.wikipedia.org/wiki/PVTV)から翻訳されています。
 
 
-『**PVTV**』（ピーブイティービー）は、[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[音楽番組](../Page/音楽番組.md "wikilink")。放送時間は木曜25:00～25:30。
-
-[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")は[Sascha](../Page/Sascha.md "wikilink")。
+『**PVTV**』（ピーブイティービー）は、[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[音楽番組](../Page/音楽番組.md "wikilink")。放送時間は木曜25:00～25:30。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")は[Sascha](../Page/Sascha.md "wikilink")。
 
 ## 概要
 
@@ -84,7 +82,7 @@
 | 2008年8月  | 「[夏恋](https://ja.wikipedia.org/wiki/夏恋_\(曲\) "wikilink")」SKELT 8 BAMBINO                                                                                           | 「[Summer Memories](https://ja.wikipedia.org/wiki/Summer_Memories "wikilink")」上木彩矢                                                            |
 | 2008年9月  | 「[灼熱](https://ja.wikipedia.org/wiki/世界は踊る/灼熱 "wikilink")」[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")                                             | 「[生きてることが辛いなら](../Page/生きてることが辛いなら.md "wikilink")」[森山直太朗](../Page/森山直太朗.md "wikilink")                                                       |
 | 2008年10月 | 「[陽はまた昇る](https://ja.wikipedia.org/wiki/陽はまた昇る_\(DOESの曲\) "wikilink")」[DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")                                        | 「[記念日](https://ja.wikipedia.org/wiki/記念日・home "wikilink")」SoulJa×[Misslim](../Page/松任谷由実.md "wikilink")                                      |
-| 2008年11月 | 「[Mysterious](https://ja.wikipedia.org/wiki/Mysterious_\(Naifuの曲\) "wikilink")」Naifu                                                                               | 「[episode Ⅴ featuring Kj](https://ja.wikipedia.org/wiki/RETURNS "wikilink")」[スケボーキング](../Page/スケボーキング.md "wikilink")                         |
+| 2008年11月 | 「[Mysterious](https://ja.wikipedia.org/wiki/Mysterious_\(Naifuの曲\) "wikilink")」Naifu                                                                               | 「[episode Ⅴ featuring Kj](https://ja.wikipedia.org/wiki/RETURNS_\(スケボーキングのアルバム\) "wikilink")」[スケボーキング](../Page/スケボーキング.md "wikilink")        |
 | 2008年12月 | 「[もう二度と…](https://ja.wikipedia.org/wiki/もう二度と… "wikilink")」[BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")                                                   | 「[Friend](https://ja.wikipedia.org/wiki/Friend/素顔のまま "wikilink")」[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")                       |
 | 2009年1月  | 「[stay with me](https://ja.wikipedia.org/wiki/stay_with_me_\(倖田來未の曲\) "wikilink")」[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")                            | 「[2℃目の彼女](https://ja.wikipedia.org/wiki/2℃目の彼女 "wikilink")」[シド](../Page/シド_\(バンド\).md "wikilink")                                            |
 | 2009年2月  | 「[いのちの歌](https://ja.wikipedia.org/wiki/いのちの歌 "wikilink")」[茉奈 佳奈](https://ja.wikipedia.org/wiki/茉奈_佳奈 "wikilink")                                                   | 「[flyaway](https://ja.wikipedia.org/wiki/flyaway "wikilink")」[BACK-ON](../Page/BACK-ON.md "wikilink")                                        |

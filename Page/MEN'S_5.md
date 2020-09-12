@@ -10,18 +10,18 @@
   - [今田太郎](https://ja.wikipedia.org/wiki/岡田陽助 "wikilink")（こんだたろう、ギター、[1959年](../Page/1959年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")生、別名[岡田陽助](https://ja.wikipedia.org/wiki/岡田陽助 "wikilink")）
   - 陣次郎（じんじろう、ベース、1959年[5月25日](../Page/5月25日.md "wikilink")生、別名[西嶋正巳](https://ja.wikipedia.org/wiki/西嶋正巳 "wikilink")）
   - [淡谷三治](https://ja.wikipedia.org/wiki/淡谷三治 "wikilink")（あわやさんじ、ボーカル、[1963年](../Page/1963年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")生、別名佐藤公彦）
-  - 盆帆与四（ぼんぼよよん、キーボード、[1960年](../Page/1960年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")生、別名[大久保治信](https://ja.wikipedia.org/wiki/大久保治信 "wikilink")）
-  - 館一五六七(たちいちごろしち、ドラム、[1964年](../Page/1964年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")生、別名[吉原誠](https://ja.wikipedia.org/wiki/吉原誠 "wikilink")）
+  - [盆帆与四](https://ja.wikipedia.org/wiki/盆帆与四 "wikilink")（ぼんぼよよん、キーボード、[1960年](../Page/1960年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")生、別名[大久保治信](https://ja.wikipedia.org/wiki/大久保治信 "wikilink")）
+  - 館一五六七（たちいちごろしち、ドラム、[1964年](../Page/1964年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")生、別名[吉原誠](https://ja.wikipedia.org/wiki/吉原誠 "wikilink")）
 
 ## 元メンバー
 
-  - キャット・ミキ(きゃっとみき,ボーカル）
+  - キャット・ミキ（きゃっとみき、ボーカル）
 
 ## 略歴
 
   - 1989年 結成。
   - 1991年 アルバム「[裏メンズ5](https://ja.wikipedia.org/wiki/裏メンズ5 "wikilink")」（インディーズ）
-  - 1991年12月シングル「サンディー（本名はヨシヲ）」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
+  - 1991年12月 シングル「サンディー（本名はヨシヲ）」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）
   - 1994年 有線放送大賞新人賞『[“ヘーコキ”ましたね](https://ja.wikipedia.org/wiki/“ヘーコキ”ましたね "wikilink")』発売。
   - 1996年 「とってもウマナミ」（[君の瞳に恋してる](../Page/君の瞳に恋してる.md "wikilink")、[ジンギスカン等のフレーズ引用アリ](../Page/ジンギスカン_\(曲\).md "wikilink")）が「[みどりのマキバオー](../Page/みどりのマキバオー.md "wikilink")」のエンディング曲として使われ大ヒット。
   - 1997年 [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[東芝EMIに移籍](../Page/EMIミュージック・ジャパン.md "wikilink")。
@@ -83,6 +83,6 @@
 
   - [公式ホームページ](http://members3.jcom.home.ne.jp/thelas/mens5gogo/5.html)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:コミックバンド](https://ja.wikipedia.org/wiki/Category:コミックバンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 
 1.  <http://www.ishikura.co.jp/shasa/>

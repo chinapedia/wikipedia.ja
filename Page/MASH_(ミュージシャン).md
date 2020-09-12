@@ -55,7 +55,11 @@
 
 2019年(令和元年）7月10日にCD盤のシングルとしては約10年ぶりの発売となるCDシングル「たった16小節の夢」がavexより発売。「星が綺麗な夜に」を含む3曲を収録。
 
-2019年6月より「たった16小節の夢」リリース記念ツアー『MASH HOUR「この道の先で待ってて」』が開催。名古屋、京都、ポートランド、東京を回るツアーを敢行し、自身初となるアメリカ・ポートランドでのワンマンも成功させる。
+2019年6月より慣行した「たった16小節の夢」リリース記念ツアー『MASH HOUR「この道の先で待ってて」』が開催。名古屋、京都、ポートランド、東京を回るツアーを敢行し、自身初となるアメリカ・ポートランドでのワンマンも成功させる。
+
+2020年(令和2年）2月9日名古屋ダイアモンドホールにて、ライブ活動休止前のワンマンライブ「奇跡の夜」を開催。ライブ中、ファンの前で上京宣言を行う。
+
+2020年(令和2年）3月31日キャリア初となるライブアルバム「奇跡の夜」を配信リリース。
 
 ## ディスコグラフィ
 
@@ -499,6 +503,8 @@ M.A.R.V.I.N／H.O.Z.E./MASH/Smells Good</p></td>
 | [パレード](https://www.youtube.com/watch?v=CloVA1vQj_A)        | 鷲尾友公                           |
 | [笑顔が似合う人](https://www.youtube.com/watch?v=050TeVoNEbU)     | 佐藤智也                           |
 | [Lovers](https://www.youtube.com/watch?v=j20qsTPL2gQ)      | 名取哲                            |
+| [たった16小節の夢](https://www.youtube.com/watch?v=ww85wbIYxds)   | 名取哲                            |
+| [マイホームタウン](https://www.youtube.com/watch?v=Zaxw4mZg6xU)    | 東放学園プロモーション映像科                 |
 |                                                            |                                |
 
 ## 主なライブ
@@ -550,6 +556,7 @@ M.A.R.V.I.N／H.O.Z.E./MASH/Smells Good</p></td>
   - 2019年7月15日 - MASH HOUR「この道の先で待ってて」at Roasting Coffee（Portland, OR U.S.A）
   - 2019年8月3日 - MASH HOUR「この道の先で待ってて」at 三軒茶屋GRAPEFRUIT MOON
   - 2019年10月2日 - MASH HOUR「今夜だけは好きに歌わせてくれないか」at TOKUZO
+  - 2020年2月9日 - MASH HOUR「奇跡の夜」at DIAMOND HALL
 
 ## 出典
 
@@ -563,7 +570,7 @@ M.A.R.V.I.N／H.O.Z.E./MASH/Smells Good</p></td>
   - [公式ブログ](https://ameblo.jp/blog-mash)
   - [公式サイト（エイベックス内）](http://avex.jp/mash/index.html)
 
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  公式サイトより
 2.

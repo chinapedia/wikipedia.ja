@@ -1089,6 +1089,11 @@ Leones</p></td>
 </tbody>
 </table>
 
+## シーズン別大会名
+
+  - Liga Águila（2015-2019）
+  - Liga BetPlay Dimayor（2019-現在）
+
 ## 脚注
 
 [Category:コロンビアのサッカー](https://ja.wikipedia.org/wiki/Category:コロンビアのサッカー "wikilink") [Category:国内の最上位サッカーリーグ](https://ja.wikipedia.org/wiki/Category:国内の最上位サッカーリーグ "wikilink")

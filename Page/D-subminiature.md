@@ -1,7 +1,7 @@
 > この記事は[D-subminiature](https://ja.wikipedia.org/wiki/D-subminiature)から翻訳されています。
 
 
-**D-subminiature**（ディー・サブミニチュア、通称: **D-sub**; ディー・サブ）とは、広く普及している[コネクタ](../Page/コネクタ.md "wikilink")の規格の一種で、主として[コンピュータ](../Page/コンピュータ.md "wikilink")と[周辺機器](../Page/周辺機器.md "wikilink")を接続するために用いられる。
+[AUI_connector_DA-15.jpg](https://ja.wikipedia.org/wiki/File:AUI_connector_DA-15.jpg "fig:AUI_connector_DA-15.jpg") **D-subminiature**（ディー・サブミニチュア、通称: **D-sub**; ディー・サブ）とは、広く普及している[コネクタ](../Page/コネクタ.md "wikilink")の規格の一種で、主として[コンピュータ](../Page/コンピュータ.md "wikilink")と[周辺機器](../Page/周辺機器.md "wikilink")を接続するために用いられる。
 
 D-subコネクタは2 - 3列に並んだピンコンタクトまたはソケットコンタクトがアルファベットの[D](../Page/D.md "wikilink")の字に似た形状の金属シールドに囲まれた形状（画像参照）をしており、この形状が名前の由来ともなっている。
 

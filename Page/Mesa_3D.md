@@ -17,7 +17,5 @@
 
 ## 外部リンク
 
-  - [The Mesa 3D Graphics Library](https://www.mesa3d.org/)
-  - [Homepage at Sourceforge](http://mesa3d.sourceforge.net/)
-
+  -
 [Category:3DCGソフトウェア](https://ja.wikipedia.org/wiki/Category:3DCGソフトウェア "wikilink") [Category:X_Window_System](https://ja.wikipedia.org/wiki/Category:X_Window_System "wikilink") [Category:Freedesktop.org](https://ja.wikipedia.org/wiki/Category:Freedesktop.org "wikilink") [Category:グラフィックライブラリ](https://ja.wikipedia.org/wiki/Category:グラフィックライブラリ "wikilink") [Category:1993年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1993年のソフトウェア "wikilink") [Category:OpenGL](https://ja.wikipedia.org/wiki/Category:OpenGL "wikilink")

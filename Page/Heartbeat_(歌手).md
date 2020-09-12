@@ -110,7 +110,7 @@
 
 ## 外部リンク
 
-  - [ユニバーサルミュージック](http://www.universal-music.co.jp/heartbeat/)
+  - [ユニバーサルミュージック](https://www.universal-music.co.jp/heartbeat/)
   - [ハービー オフィシャルブログ](https://ameblo.jp/heartbeat-blog/)
 
 [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

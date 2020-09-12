@@ -56,6 +56,10 @@
 
 導入に際しては「[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")の搭載が可能」という点がマスメディア等によって強調されたため、[革新政党](https://ja.wikipedia.org/wiki/革新政党 "wikilink")と[市民団体](../Page/市民団体.md "wikilink")による反対運動が展開され、[裁判](../Page/裁判.md "wikilink")により導入の是非が争われた（[長沼ナイキ事件](../Page/長沼ナイキ事件.md "wikilink")を参照） {{-}}
 
+## NHK-1 白熊（ペッコム）
+
+韓国が、ナイキ・ハーキュリーズを、アメリカに無断で分解し、リバース・エンジニアリングによって国産化した、地対空ミサイル。
+
 ## 仕様
 
 ### MIM-14B
@@ -108,6 +112,7 @@
   - [オルガー・N・トフトイ](../Page/オルガー・トフトイ.md "wikilink")
   - [アメリカ合衆国のミサイル一覧](../Page/アメリカ合衆国のミサイル一覧.md "wikilink")
   - [玄武](https://ja.wikipedia.org/wiki/玄武_\(ミサイル\) "wikilink")
+  - [長沼ナイキ事件](../Page/長沼ナイキ事件.md "wikilink")
 
 [Category:アメリカ合衆国の地対空ミサイル](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の地対空ミサイル "wikilink") [Category:航空自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:航空自衛隊の装備品 "wikilink")
 

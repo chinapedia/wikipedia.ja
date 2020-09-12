@@ -121,7 +121,7 @@
   - [公式ウェブサイト](https://www.facebook.com/superjunkymonkey/)
 
   -
-  - [メモリアルサイト](http://www.h3.dion.ne.jp/~rock-1/sjm.html) - かわいしのぶウェブサイト内
+  - \- かわいしのぶウェブサイト内
 
   - [所属事務所の公式ウェブサイト](https://www.facebook.com/9totheUniverse/)
 

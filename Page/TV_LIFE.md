@@ -1,13 +1,13 @@
 > この記事は[TV LIFE](https://ja.wikipedia.org/wiki/TV_LIFE)から翻訳されています。
 
 
-『**TV LIFE**』（テレビライフ）は、[学研プラス](https://ja.wikipedia.org/wiki/学研プラス "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。隔週水曜日発売。販売定価は330円\[1\]（2017年4月現在）
+『**TV LIFE**』（テレビライフ）は、[ワン・パブリッシング](https://ja.wikipedia.org/wiki/ワン・パブリッシング "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。隔週水曜日発売。販売定価は330円\[1\]（2017年4月現在）
 
 ## 概要
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")、学習研究社（現・[学研ホールディングス](../Page/学研ホールディングス.md "wikilink")）より週刊誌として創刊。当時は関東地区のみ発売でFMラジオの番組表も掲載していた。[1993年](../Page/1993年.md "wikilink")7月から隔週刊に変更、同時に関西版を創刊。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に各地方版を創刊。[2005年](../Page/2005年.md "wikilink")から誌面をオールカラー化した。
 
-[2009年](../Page/2009年.md "wikilink")、学研グループの組織再編に伴い発行元が学研パブリッシングに、[2015年](../Page/2015年.md "wikilink")には学研パブリッシングが学研マーケティング他と合併したことに伴い学研プラスとなる。
+[2009年](../Page/2009年.md "wikilink")、学研グループの組織再編に伴い発行元が学研パブリッシングに、[2015年](../Page/2015年.md "wikilink")には学研パブリッシングが学研マーケティング他と合併したことに伴い[学研プラス](https://ja.wikipedia.org/wiki/学研プラス "wikilink")となる。2020年7月に学研プラス メディア事業の会社分割により[ワン・パブリッシング](https://ja.wikipedia.org/wiki/ワン・パブリッシング "wikilink")の発行となる
 
 年末年始号の表紙は、[1994年](../Page/1994年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで16年連続[SMAP](../Page/SMAP.md "wikilink")が飾った後、2010年からは[嵐が](../Page/嵐_\(グループ\).md "wikilink")7年連続表紙を飾っている。
 

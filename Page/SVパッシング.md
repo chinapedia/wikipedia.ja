@@ -1,7 +1,7 @@
 > この記事は[SVパッシング](https://ja.wikipedia.org/wiki/SVパッシング)から翻訳されています。
 
 
-**SVパッシング**（）は、かつて[オーストリア](../Page/オーストリア.md "wikilink")の北部、[オーバーエスターライヒ州](../Page/オーバーエスターライヒ州.md "wikilink")の[パッシング](https://ja.wikipedia.org/wiki/パッシング_\(オーバーエスターライヒ州\) "wikilink")（[リンツ](../Page/リンツ.md "wikilink")の郊外）を本拠地としていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。正式クラブ名は**ASKÖパッシング** (ASKÖ Pasching)。またスポンサーだった投資会社スーパーフンド (Superfund) がクラブ名に冠されており、クラブのロゴなどでは**FCスーパーフンド** (FC Superfund) という表記も用いられていた。
+**SVパッシング**（）は、かつて[オーストリア](../Page/オーストリア.md "wikilink")の北部、[オーバーエスターライヒ州](../Page/オーバーエスターライヒ州.md "wikilink")の[パッシング](https://ja.wikipedia.org/wiki/パッシング_\(オーバーエスターライヒ州\) "wikilink")<small>（[英語版](https://ja.wikipedia.org/wiki/:en:Pasching "wikilink")）</small>（[リンツ](../Page/リンツ.md "wikilink")の郊外）を本拠地としていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。正式クラブ名は**ASKÖパッシング** (ASKÖ Pasching)。またスポンサーだった投資会社スーパーフンド (Superfund) がクラブ名に冠されており、クラブのロゴなどでは**FCスーパーフンド** (FC Superfund) という表記も用いられていた。
 
 ## 歴史
 

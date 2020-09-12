@@ -1,13 +1,13 @@
 > この記事は[ワンダーJAPAN](https://ja.wikipedia.org/wiki/ワンダーJAPAN)から翻訳されています。
 
 
-**ワンダーJAPAN**（ワンダージャパン）は、2005年12月に創刊された[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")が発行した[雑誌](../Page/雑誌.md "wikilink")。三才ムックの中での発行。発売は当初3・6・9・12月の17日だったが、17号（2010年12月刊行）より6月と12月の年2回刊行となった。20号（2012年6月）の刊行を最後に休刊。現在、復刊に向け準備中。
+**ワンダーJAPAN**（ワンダージャパン）は、2005年12月に創刊された[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")が発行した[雑誌](../Page/雑誌.md "wikilink")。三才ムックの中での発行。発売は当初3・6・9・12月の17日だったが、17号（2010年12月刊行）より6月と12月の年2回刊行となった。20号（2012年6月）の刊行を最後に休刊。2020年6月24日、1文字違いの「ワンダーJAPON」として復刊。
 
 ## 概要
 
 [珍スポット](https://ja.wikipedia.org/wiki/珍スポット "wikilink")、巨大建造物、[大仏](../Page/大仏.md "wikilink")、珍建築、[B級グルメ](../Page/B級グルメ.md "wikilink")、[工場](../Page/工場.md "wikilink")、[ダム](../Page/ダム.md "wikilink")、珍寺、地下空間、[水門](../Page/水門.md "wikilink")、[廃墟](../Page/廃墟.md "wikilink")、[戦争遺跡](../Page/戦争遺跡.md "wikilink")など、通常の旅行ガイドブックが取り上げない日本の姿を紹介する雑誌。「日本の《異空間》探険マガジン」がキャッチコピー。
 
-2008年6月にはその海外版である『ワンダーWORLD』を刊行。2010年6月から[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[MONDO TVでTV版である](../Page/MONDO_TV.md "wikilink")『日本の《異空間》探検番組 ワンダーJAPAN TV』が放送された（全26回 & [軍艦島](https://ja.wikipedia.org/wiki/軍艦島 "wikilink")SPECIAL）。
+2008年6月にはその海外版である『ワンダーWORLD』を刊行。2010年6月から[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[MONDO TVでTV版である](../Page/MONDO_TV.md "wikilink")『日本の《異空間》探検番組 ワンダーJAPAN TV』が放送された（全26回 & [軍艦島](https://ja.wikipedia.org/wiki/軍艦島 "wikilink")SPECIAL）。テーマ曲は Hybrid の「Just For Today」。
 
 ## 関係誌
 

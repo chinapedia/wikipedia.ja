@@ -32,8 +32,8 @@
 
 ### 大沢誉志幸のセルフカバー
 
-  - コラージュバージョン　（3分56秒） - 編曲：大沢誉志幸
-      - 『[Collage](https://ja.wikipedia.org/wiki/Collage_\(大沢誉志幸のアルバム\) "wikilink")』（1994年）に収録。
+  - Collageバージョン　（3分56秒） - 編曲：大沢誉志幸
+      - 『[Collage](https://ja.wikipedia.org/wiki/Collage "wikilink")』（1994年）に収録。
   - 水月鏡花バージョン　（4分44秒） - 編曲：URU
       - 『水月鏡花』（2011年）に収録。
 

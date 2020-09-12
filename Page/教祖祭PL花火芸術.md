@@ -17,7 +17,7 @@
 
 かつては7月末ないし8月初旬に開催されていたが、現在は開催日が8月1日に固定されており、雨天でも中止とはなっていない（教団のホームページに「天候により中止の場合もある」と記載されているが、かつては[昭和57年台風第10号](https://ja.wikipedia.org/wiki/昭和57年台風第10号 "wikilink")の[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")の中でも開催されている）なお開催日が8月1日の理由として、「[初代教祖の命日だから](../Page/御木徳一.md "wikilink")」という説があるが、実際の命日は[7月6日](../Page/7月6日.md "wikilink")で誤りである（統計上雨の少ない日を選んだという説がある）。
 
-2020年は新型コロナウイルスの流行により史上初の開催中止が決まった\[2\]。
+2020年は[新型コロナウイルス流行の影響で史上初の開催中止が決まった](../Page/2019新型コロナウイルス.md "wikilink")\[2\]。
 
 関西では「PL教団=花火」というイメージが定着しており、[桂米朝](../Page/桂米朝.md "wikilink")の落語『[地獄八景亡者戯](../Page/地獄八景亡者戯.md "wikilink")』の中にも「今、バーンと花火が上がりましたが…」「ああ、ありゃPL教」というくだりがある。
 
@@ -81,8 +81,8 @@
 
 [Category:パーフェクト_リバティー教団](https://ja.wikipedia.org/wiki/Category:パーフェクト_リバティー教団 "wikilink") [Category:富田林市](https://ja.wikipedia.org/wiki/Category:富田林市 "wikilink") [Category:8月](https://ja.wikipedia.org/wiki/Category:8月 "wikilink") [Category:大阪府の花火大会](https://ja.wikipedia.org/wiki/Category:大阪府の花火大会 "wikilink") [Category:1953年開始のイベント](https://ja.wikipedia.org/wiki/Category:1953年開始のイベント "wikilink")
 
-1.  [一大会で7・5億円、ジャニーズも打ち上げる\! 花火大会が儲かるカラクリ](http://biz-journal.jp/2015/09/post_11395.html) - ビジネスジャーナル
-2.  \[<https://www.sankei.com/west/news/200403/wst2004030017-n1.html>　ＰＬ花火を中止　６８年の歴史で初　新型コロナ\]産経新聞2020年4月3日付記事
+1.
+2.
 3.  河内長野発の電車を含む。
 4.  [交通規制 - 教祖祭ＰＬ花火芸術](http://www.kohkyu.co.jp/hanabi/traffic.html) - 株式会社光丘
 5.

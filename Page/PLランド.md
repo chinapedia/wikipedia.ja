@@ -27,7 +27,7 @@
 ## 関連項目
 
   - [近鉄玉手山遊園地](../Page/近鉄玉手山遊園地.md "wikilink")・[さやま遊園](../Page/さやま遊園.md "wikilink") - 開園当時に近傍にあった遊園地。いずれも来園者の減少で相次いで閉園した。
-  - [みさき公園](../Page/みさき公園.md "wikilink") – 南大阪地域で唯一現在も営業継続している遊園地。
+  - [みさき公園](../Page/みさき公園.md "wikilink")
   - [大平和祈念塔](https://ja.wikipedia.org/wiki/大平和祈念塔 "wikilink")
   - [教祖祭PL花火芸術](../Page/教祖祭PL花火芸術.md "wikilink")
   - [劇団カッパ座](../Page/劇団カッパ座.md "wikilink")

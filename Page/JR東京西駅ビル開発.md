@@ -47,7 +47,7 @@
 
 [八王子大丸が](https://ja.wikipedia.org/wiki/大丸#過去に存在した店舗 "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に閉店し、忠実屋のショッピングセンター「FAM」た後は、八王子を代表する[百貨店](../Page/百貨店.md "wikilink")の一つとして、[西武百貨店八王子店や](https://ja.wikipedia.org/wiki/西武百貨店#過去に存在した店舗 "wikilink")[丸井八王子店](https://ja.wikipedia.org/wiki/丸井#東京都_2 "wikilink")（現：八王子ツインタワー）としのぎを削っていた。
 
-駅周辺での競合店は他に、[京王八王子ショッピングセンター](../Page/京王八王子ショッピングセンター.md "wikilink")、[八王子東急スクエア](../Page/八王子東急スクエア.md "wikilink")、[長崎屋八王子店](https://ja.wikipedia.org/wiki/過去に存在した長崎屋の店舗#東京都 "wikilink")（現：[ドン・キホーテ](../Page/ドン・キホーテ_\(企業\).md "wikilink")）八王子駅前店）、[ダイエー八王子店](https://ja.wikipedia.org/wiki/ダイエー八王子店 "wikilink")などがあった。
+駅周辺での競合店は他に、[京王八王子ショッピングセンター](../Page/京王八王子ショッピングセンター.md "wikilink")、[八王子東急スクエア](https://ja.wikipedia.org/wiki/八王子オクトーレ "wikilink")（現：八王子オクトーレ）、[長崎屋八王子店](https://ja.wikipedia.org/wiki/過去に存在した長崎屋の店舗#東京都 "wikilink")（現：[ドン・キホーテ](../Page/ドン・キホーテ_\(企業\).md "wikilink")）八王子駅前店）、[ダイエー八王子店](https://ja.wikipedia.org/wiki/ダイエー八王子店 "wikilink")（現：イオンフードスタイル八王子店）などがあった。
 
 [2007年](../Page/2007年.md "wikilink")から「**新生・八王子計画 2007 - 2009**」のスローガンのもとで改装工事を行い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に2・3・8階が、同年[5月14日](../Page/5月14日.md "wikilink")に1階がリニューアルオープンした。
 

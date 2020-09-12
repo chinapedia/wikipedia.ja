@@ -44,7 +44,7 @@ CRH2Eまでの派生型には[スノープラウ](https://ja.wikipedia.org/wiki/
   - 5号車に[食堂車](../Page/食堂車.md "wikilink")があり、軽食等を販売している (CRH2A、CRH2C) 。
   - 各先頭車の屋根上には、中華人民共和国仕様の[無線機器が取り付けられている](../Page/列車無線.md "wikilink")。
   - 中華人民共和国の[架線](../Page/架線.md "wikilink")の高さに合わせ大型のパンタグラフ (DSA250) を装備する。
-  - 営業運転の最高速度は 250 km/h (CRH2A/B/E) 、350 km/h (CRH2C) である。
+  - 営業運転の最高速度は 250 km/h (CRH2A/B/E) 、300 km/h (CRH2C) である。
   - 白地に青の線がはいる[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")の配色に近い。運転席窓の下を青で塗り、窓を大きく見せスマートなイメージも出している。
   - 2061では車体前方につり目調の[前照灯](../Page/前照灯.md "wikilink")を装備。
   - 2061一等車には客席通路上方に液晶TVを装備。
@@ -365,7 +365,7 @@ ZE 2xxx00</p></td>
 
 **CRH2B型電車**は、16両編成を組む最高速度250km/hのグループ。 上海、武漢の各鉄道局に配備されている。
 
-[File:CRH2B%E5%9E%8B%E7%94%B5%E5%8A%9B%E5%8A%A8%E8%BD%A6%E7%BB%84%E8%A1%8C%E9%A9%B6%E5%9C%A8%E8%90%A7%E7%94%AC%E9%93%81%E8%B7%AF%E4%B8%8A.jpg|CRH2B](File:CRH2B%E5%9E%8B%E7%94%B5%E5%8A%9B%E5%8A%A8%E8%BD%A6%E7%BB%84%E8%A1%8C%E9%A9%B6%E5%9C%A8%E8%90%A7%E7%94%AC%E9%93%81%E8%B7%AF%E4%B8%8A.jpg%7CCRH2B)
+<File:201806> CRH2B-2466 at Hangzhoudong Station.jpg|CRH2B
 
   - 編成表
 

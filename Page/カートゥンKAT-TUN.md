@@ -1587,8 +1587,7 @@ DAT-TUN5敗者:武田修宏・大沢あかね</p></td>
 
 ## 外部リンク
 
-  - [カートゥンKAT-TUN](http://www.ntv.co.jp/cartoonkat-tun/)
-
+  -
 [Category:KAT-TUN](https://ja.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:プラチナイト](https://ja.wikipedia.org/wiki/Category:プラチナイト "wikilink") [Category:日本テレビのトーク番組](https://ja.wikipedia.org/wiki/Category:日本テレビのトーク番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")
 
 1.  2007年[10月3日](../Page/10月3日.md "wikilink")から3分繰り下げ。

@@ -11,23 +11,23 @@
 
 [インディーズ](../Page/インディーズ.md "wikilink")時代から唄われている曲で、[アルバム](../Page/アルバム.md "wikilink")に収録されるたびに[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")かつリメイクされている。インディーズでは「Melty Case」「Promise Eve」、メジャーでは「GOLD SUN AND SILVER MOON」「1993 - 2000 OLDIES」にて収録されている。インディーズ時代からの変化は以下の通り。
 
-  - 「**Melty Case**」（1996年）収録・・・CD音源では最も古いバージョン。[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")は[IZAM](../Page/IZAM.md "wikilink")の「Melty Love…」という繰り返し、AOIの[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")から成る。後に再録されたバージョンとは歌詞が所々違う。テンポはメジャーデビュー以降のものに近い。
+  - 「**Melty Case**」（1996年）収録・・・CD音源では最も古いバージョン。[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")は[IZAM](../Page/IZAM.md "wikilink")の「Melty Love…」という繰り返し、AOIの[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")から成る。後発のバージョンとは歌詞が所々違う。テンポはメジャーデビュー版以降のものに近い。
 
 <!-- end list -->
 
-  - 「**Promise Eve**」（1997年）収録・・・始まり方は原曲とほぼ同じだが、[テンポ](../Page/テンポ.md "wikilink")は最も遅めであり、女声[コーラスもないため](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、他のヴァージョンと比べるとシンプルな構成である。
+  - 「**Promise Eve**」（1997年）収録・・・始まり方は前作とほぼ同じだが、[テンポ](../Page/テンポ.md "wikilink")は最も遅めであり、女声[コーラスもないため](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、他のバージョンと比べるとシンプルな構成である。
 
 <!-- end list -->
 
-  - **1st シングルヴァージョン・**・・イントロに[ドラムと](../Page/ドラムセット.md "wikilink")[シンセサイザー](../Page/シンセサイザー.md "wikilink")が加わった。前作よりキーが高くなり、ドラムの音も甲高くスピード感がでている。また[歌詞](../Page/歌詞.md "wikilink")の一部「～綺麗な～」（前作まで）が「～大きな～」に変更された。テンポも「Melty Case」版に近いものになった。
+  - **1st シングルヴァージョン・**・・イントロに[ドラムと](../Page/ドラムセット.md "wikilink")[シンセサイザー](../Page/シンセサイザー.md "wikilink")が加わった。前作よりキーが高くなり、ドラムの音も大きくスピード感がでている。また、[歌詞](../Page/歌詞.md "wikilink")の一部「～綺麗な～」（前作まで）が「～大きな～」に変更され、テンポも「Melty Case」版に近いものに戻った。
 
 <!-- end list -->
 
-  - 「**[GOLD SUN AND SILVER MOON](https://ja.wikipedia.org/wiki/GOLD_SUN_AND_SILVER_MOON "wikilink")**」（1998年）収録・・・アルバムヴァージョンとして再レコーディングされた。出だしはエフェクトがかかった女性コーラスの「I Love You…」から始まる。そしてシングル同様に展開していくが、ドラムに重みが出ている。さらにAOIのギターソロにアレンジが加わりメロディラインがかわっている。収録は次の曲「Romance」にすぐ続く形になっている。
+  - 「**[GOLD SUN AND SILVER MOON](https://ja.wikipedia.org/wiki/GOLD_SUN_AND_SILVER_MOON "wikilink")**」（1998年）収録・・・アルバムヴァージョンとして再レコーディングされた。出だしは幻想的なメロディーとエフェクトがかかった女性コーラスの「I Love You…」から始まる。そしてシングル版同様に展開していくが、ドラムに重みが出ている。さらにAOIのギターソロにアレンジが加わりメロディラインが変わっている。収録は次の曲「Romance」にすぐ続く形になっている。
 
 <!-- end list -->
 
-  - 「**1993 - 2000 OLDIES**」（2000年）収録・・・今までのなかでは最もアップテンポ。さらにイントロ部分に長めの[アレンジが加わった](../Page/編曲.md "wikilink")。IZAMの歌い方が変わり、キーも更に高くなった他にAOI、NIYの[ギター](../Page/ギター.md "wikilink")・[ベースの音もそれぞれ大きくなった](../Page/ベース_\(弦楽器\).md "wikilink")。[サビ](../Page/サビ.md "wikilink")やブリッジ部分ではライブ版同様、女性コーラスが本格的になっている。後に「SINGLE BEST SHAZNA\&IZAM」（2007年）にもデビューヴァージョンとともに収録された。
+  - 「**1993 - 2000 OLDIES**」（2000年）収録・・・「Melty Love（New Version）」の名で収録されており、今までのなかで最もアップテンポ。さらにイントロ部分に長めの[アレンジが加わった](../Page/編曲.md "wikilink")。IZAMの歌い方が変わり、キーも更に高くなった他にAOI、NIYの[ギター](../Page/ギター.md "wikilink")・[ベースの音もそれぞれ大きくなった](../Page/ベース_\(弦楽器\).md "wikilink")。また、曲のフェードアウト部分が前作までは静かに終わっていたが、本バージョンでは「Promise Eve」版のメロディーを激しくしたものになった。[サビ](../Page/サビ.md "wikilink")やブリッジ部分ではライブ版同様、女性コーラスが本格的になっている。後に「SINGLE BEST SHAZNA\&IZAM」（2007年）にもデビューヴァージョンとともに収録された。
 
 カップリング曲の「Raspberry Time」は、1996年に発売されたアルバム「Raspberry Time」に収録されている音源の再録音源。こちらも後に「1993 - 2000 OLDIES」にてニューバージョンとして再録された。
 

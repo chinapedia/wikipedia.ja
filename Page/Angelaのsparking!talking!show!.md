@@ -19,7 +19,7 @@ atsukoは体調不良により一時期（[2006年](../Page/2006年.md "wikilink
 
 キングレコード一社提供の他の番組と異なり、angela以外の楽曲が流されることは少ない（ゲストがいる場合は除く）。
 
-2017年3月まで放送局に[山陽放送ラジオ](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")が入っており、同放送局の放映域からの視聴者より[ふつおた](https://ja.wikipedia.org/wiki/ふつおた "wikilink")が届いた場合、時々かなり濃い[岡山市](../Page/岡山市.md "wikilink")ネタ（特に同市[中区や](../Page/中区_\(岡山市\).md "wikilink")[東区](../Page/東区_\(岡山市\).md "wikilink")[西大寺周辺域のネタ](../Page/西大寺_\(旧市域\).md "wikilink")）がトークに使われる事がある（同地がパーソナリティー2人の出身地であるため）。
+2017年3月まで放送局に[山陽放送が入っており](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、同放送局の放映域からの視聴者より[ふつおた](https://ja.wikipedia.org/wiki/ふつおた "wikilink")が届いた場合、時々かなり濃い[岡山市](../Page/岡山市.md "wikilink")ネタ（特に同市[中区や](../Page/中区_\(岡山市\).md "wikilink")[東区](../Page/東区_\(岡山市\).md "wikilink")[西大寺周辺域のネタ](../Page/西大寺_\(旧市域\).md "wikilink")）がトークに使われる事がある（同地がパーソナリティー2人の出身地であるため）。
 
 2017年3月をもってラジオ関西と東海ラジオを除いてネット局での放送を打ち切った。
 
@@ -386,7 +386,7 @@ angelaの楽曲「[蒼い春](https://ja.wikipedia.org/wiki/蒼い春 "wikilink"
       -
         直前に『[堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")』、直後に『[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")』・『[野中藍 ラリルれ、サタデーナイト。](../Page/野中藍_ラリルれ、サタデーナイト。.md "wikilink")』が組まれており、2時間半にわたって続いていた。ただし、2015年4月の改編で『Heartful Station』『ラリルれ』が終了し、『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』が入って1時間半に縮小。2016年10月の改編では『天使のたまご』がラジオ関西のネット終了で1時間に縮小した。
     <!-- end list -->
-      - [RSKラジオ](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
+      - [RSKラジオ](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
     <!-- end list -->
       -
         直後に『林原めぐみのTokyo Boogie Night』があり、さらに一般番組を挟んで組まれている『堀江由衣の天使のたまご』も含めると、延べ1時間半続いていた。ただし、2016年10月の改編で『Tokyo Boogie Night』『天使のたまご』ともネット終了となった。

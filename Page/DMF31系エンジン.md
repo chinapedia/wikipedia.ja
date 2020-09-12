@@ -74,11 +74,11 @@
 <thead>
 <tr class="header">
 <th></th>
-<th><p>DMF31S</p></th>
+<th><p>DMF31S[3]。</p></th>
 <th><p>DMF31S-G</p></th>
 <th><p>DMF31HSA</p></th>
-<th><p>DMF31SB-R</p></th>
-<th><p>DMF31SB</p></th>
+<th><p>DMF31SB-R[4]</p></th>
+<th><p>DMF31SB[5]</p></th>
 <th><p>DMF31SBI</p></th>
 <th><p>DMF31SZ</p></th>
 <th><p>DMF31SD</p></th>
@@ -106,7 +106,7 @@ KD55 102</p></td>
 <tr class="even">
 <td><p>形式</p></td>
 <td><p>過給<br />
-予燃焼室式</p></td>
+予燃焼室式[6]</p></td>
 <td><p>過給<br />
 予燃焼室式</p></td>
 <td><p>横形<br />
@@ -115,7 +115,7 @@ KD55 102</p></td>
 <td><p>過給<br />
 予燃焼室式</p></td>
 <td><p>過給<br />
-予燃焼室式</p></td>
+予燃焼室式[7]</p></td>
 <td><p>過給<br />
 予燃焼室式</p></td>
 <td><p>過給<br />
@@ -130,11 +130,11 @@ KD55 102</p></td>
 </tr>
 <tr class="odd">
 <td><p>シリンダ径×行程 (mm)</p></td>
+<td><p>180×200[8]</p></td>
 <td><p>180×200</p></td>
 <td><p>180×200</p></td>
-<td><p>180×200</p></td>
-<td><p>180×200</p></td>
-<td><p>180×200</p></td>
+<td><p>180×200[9]</p></td>
+<td><p>180×200[10]</p></td>
 <td><p>180×200</p></td>
 <td><p>180×200</p></td>
 <td><p>180×200</p></td>
@@ -142,11 +142,11 @@ KD55 102</p></td>
 </tr>
 <tr class="even">
 <td><p>排気量 (cc)</p></td>
+<td><p>30536[11]</p></td>
 <td><p>30536</p></td>
 <td><p>30536</p></td>
 <td><p>30536</p></td>
-<td><p>30536</p></td>
-<td><p>30536</p></td>
+<td><p>30536[12]</p></td>
 <td><p>30536</p></td>
 <td><p>30536</p></td>
 <td><p>30536</p></td>
@@ -154,11 +154,11 @@ KD55 102</p></td>
 </tr>
 <tr class="odd">
 <td><p>圧縮比</p></td>
-<td><p>14.3</p></td>
+<td><p>14.3[13]</p></td>
 <td><p>14.3</p></td>
 <td></td>
-<td><p>14.8</p></td>
-<td><p>14.8</p></td>
+<td><p>14.8[14]</p></td>
+<td><p>14.8[15]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -166,11 +166,11 @@ KD55 102</p></td>
 </tr>
 <tr class="even">
 <td><p>定格出力 (PS/rpm)</p></td>
-<td><p>370/1300</p></td>
+<td><p>370/1300[16]</p></td>
 <td><p>340/1200</p></td>
 <td><p>400/1500</p></td>
 <td><p>500/1500</p></td>
-<td><p>500/1500</p></td>
+<td><p>500/1500[17]</p></td>
 <td><p>600</p></td>
 <td><p>550</p></td>
 <td><p>500</p></td>
@@ -178,11 +178,11 @@ KD55 102</p></td>
 </tr>
 <tr class="odd">
 <td><p>定格時ピストン平均速度 (m/s)</p></td>
-<td><p>8.67</p></td>
+<td><p>8.67[18]</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>10</p></td>
+<td><p>10[19]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -190,11 +190,11 @@ KD55 102</p></td>
 </tr>
 <tr class="even">
 <td><p>定格時平均有効圧力 (kg/cm<sup>2</sup>)</p></td>
-<td><p>8.39</p></td>
+<td><p>8.39[20]</p></td>
 <td><p>8.4</p></td>
 <td></td>
 <td></td>
-<td><p>9.8</p></td>
+<td><p>9.8[21]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -202,7 +202,7 @@ KD55 102</p></td>
 </tr>
 <tr class="odd">
 <td><p>定格時燃料消費率 (g/PS/h)</p></td>
-<td><p>180</p></td>
+<td><p>180[22]</p></td>
 <td><p>185</p></td>
 <td></td>
 <td></td>
@@ -214,7 +214,7 @@ KD55 102</p></td>
 </tr>
 <tr class="even">
 <td><p>最大出力 (PS/rpm)</p></td>
-<td><p>420/1500</p></td>
+<td><p>420/1500[23]</p></td>
 <td><p>390/1500</p></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@ KD55 102</p></td>
 </tr>
 <tr class="odd">
 <td><p>起動電動機</p></td>
-<td><p>10PS</p></td>
+<td><p>10PS[24]</p></td>
 <td><p>MLK1000 10PS</p></td>
 <td></td>
 <td></td>
@@ -266,8 +266,8 @@ KD55 102</p></td>
 <td><p>PAG1<br />
 （発電機）</p></td>
 <td><p>DW1</p></td>
-<td><p>DS1.2/1.35</p></td>
-<td><p>DS1.2/1.35</p></td>
+<td><p>DS1.2/1.35[25]</p></td>
+<td><p>DS1.2/1.35[26]</p></td>
 <td><p>DS1.2/1.35</p></td>
 <td></td>
 <td></td>
@@ -275,7 +275,7 @@ KD55 102</p></td>
 </tr>
 <tr class="odd">
 <td><p>長さ×幅×高さ (mm)</p></td>
-<td><p>2640×960×1460</p></td>
+<td><p>2640×960×1460[27]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -287,11 +287,11 @@ KD55 102</p></td>
 </tr>
 <tr class="even">
 <td><p>乾燥重量 (kg)</p></td>
-<td><p>3260</p></td>
+<td><p>3260[28]</p></td>
 <td><p>3100</p></td>
 <td></td>
 <td></td>
-<td><p>3100</p></td>
+<td><p>3100[29]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -324,3 +324,30 @@ KD55 102</p></td>
 
 1.  [岡田誠一](https://ja.wikipedia.org/wiki/岡田誠一_\(鉄道研究家\) "wikilink")『キハ07ものがたり（上）』（2002年 ネコ・パブリッシング）p34-p35における、当時の開発担当者の北畠顕正の証言。
 2.  [2001年](../Page/2001年.md "wikilink")（平成13年）に[汎用の](https://ja.wikipedia.org/wiki/汎用エンジン "wikilink")[三菱重工業](../Page/三菱重工業.md "wikilink")S6A3-TAを搭載する60 t級機である[京葉臨海鉄道KD60形の初号機が落成して以降は](https://ja.wikipedia.org/wiki/京葉臨海鉄道#車両 "wikilink")、DMF31S系機関の採用は完全に絶えた。
+3.  浜原一、竹田俊彦、杉本光昭「定山渓鉄道株式社納　740HP液圧式ディーゼル機関車」、『日立評論1957年 別冊20号』、日立製作所、1957年、pp.40
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.

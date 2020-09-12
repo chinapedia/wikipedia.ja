@@ -1,7 +1,9 @@
 > この記事は[B.L.T.](https://ja.wikipedia.org/wiki/B.L.T.)から翻訳されています。
 
 
-「**B.L.T.**」（ビー・エル・ティー）は、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。「B.L.T.」は「**B**EAUTIFUL **L**ady & **T**ELEVISION」の略。表紙には**月刊ビー・エル・ティー**（げっかんビー・エル・ティー）と記載されている。
+「**B.L.T.**」（ビー・エル・ティー）は、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。同社の[週刊TVガイド](../Page/週刊TVガイド.md "wikilink")の姉妹誌。
+
+「B.L.T.」は「**B**EAUTIFUL **L**ady & **T**ELEVISION」の略。表紙には**月刊ビー・エル・ティー**（げっかんビー・エル・ティー）と記載されている。
 
 ## 概要
 

@@ -9,7 +9,7 @@
   - [石橋貴明](../Page/石橋貴明.md "wikilink")が振り付きのモノマネでいじったことから、サビの「ズバッと」というフレーズは有名である。
   - [ニューハーフ](../Page/ニューハーフ.md "wikilink")[タレント](../Page/タレント.md "wikilink")・[はるな愛](../Page/はるな愛.md "wikilink")が松浦のライブ音源を流して[口パク](../Page/口パク.md "wikilink")と振り付けで[物真似](../Page/物真似.md "wikilink")（エアあやや）をする際は当楽曲が使われることが多い。
   - [高橋書店](../Page/高橋書店.md "wikilink")の「手帳は高橋」[2009年](../Page/2009年.md "wikilink")版のCM曲としても使われた。
-  - [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")では、「[桃色片想い](../Page/桃色片想い.md "wikilink")」で登場したぬいぐるみのモモゾーとピーコが出演している。
+  - [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")では、「[♡桃色片想い♡](https://ja.wikipedia.org/wiki/♡桃色片想い♡ "wikilink")」で登場したぬいぐるみのモモゾーとピーコが出演している。
 
 ## 収録曲
 

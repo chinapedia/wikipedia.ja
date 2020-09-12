@@ -29,7 +29,7 @@
 
 ## 外部リンク
 
-  - [CALIGULA公式サイト](http://web.archive.org/web/20121018141956/http://www.caligulasoft.net/) - 閉鎖。（2012年10月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） ※18歳未満閲覧禁止
+  - [CALIGULA公式サイト](https://web.archive.org/web/20121018141956/http://www.caligulasoft.net/) - 閉鎖。（2012年10月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） ※18歳未満閲覧禁止
 
 [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink")
 

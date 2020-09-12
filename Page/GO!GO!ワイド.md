@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - **[伊藤透浩](https://ja.wikipedia.org/wiki/伊藤透浩 "wikilink")**
+  - **[伊賀透浩](../Page/伊賀透浩.md "wikilink")**
   - **[川島恵](../Page/川島恵.md "wikilink")**
 
 <!-- end list -->

@@ -7,7 +7,7 @@
 
 1993年4月発売の1stアルバム『[DUNE](../Page/DUNE_\(アルバム\).md "wikilink")』に収録された楽曲のミュージック・クリップ集。
 
-1万本限定でリリースされ、[オリコンのインディーズビデオチャートでは](../Page/オリコンチャート.md "wikilink")1位を獲得している。2018年現在まで再発されていない。
+1万本限定でリリースされ、[オリコンのインディーズビデオチャートでは](../Page/オリコンチャート.md "wikilink")1位を獲得している。現在まで再発されていない。
 
 出演している当時のメンバーは[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")、[sakuraの四人である](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")。
 

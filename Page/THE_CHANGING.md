@@ -1,7 +1,7 @@
 > この記事は[THE CHANGING](https://ja.wikipedia.org/wiki/THE_CHANGING)から翻訳されています。
 
 
-『**THE CHANGING**』（ザ チェンジング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") にリリースした、3作目の[シングル](../Page/シングル.md "wikilink")。
+『**THE CHANGING**』（ザ チェンジング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")の楽曲。1999年3月25日に3作目の[シングル](../Page/シングル.md "wikilink")賭して発売された。
 
 ## 内容
 

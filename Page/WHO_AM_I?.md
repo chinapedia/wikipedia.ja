@@ -73,30 +73,12 @@ CIA香港支局員ジャッキー</p></td>
 
 ## スタッフ
 
-  - 監督/[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、[ベニー・チャン](../Page/ベニー・チャン.md "wikilink")
-  - 脚本/[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、スーザン・チャン、リー・レイノルズ
-  - 製作総指揮/レナード・ホー
-  - 製作/バービー・タン
-  - 音楽/ネイサン・ウォン
-  - 撮影/プーン・ハンサン
-
-<!-- end list -->
-
-  - 日本語版スタッフ
-
-|         |                                                          |                                       |
-| ------- | -------------------------------------------------------- | ------------------------------------- |
-| ソフト版    | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版 | [テレビ朝日](../Page/テレビ朝日.md "wikilink")版 |
-| 演出      |                                                          | 春日一伸                                  |
-| 翻訳      |                                                          | 徐賀世子                                  |
-| 調整      |                                                          |                                       |
-| 効果      |                                                          |                                       |
-| プロデューサー |                                                          |                                       |
-| 担当      |                                                          |                                       |
-| 配給      |                                                          |                                       |
-| 制作協力    |                                                          |                                       |
-| 製作      |                                                          | ACクリエイト                               |
-| 初回放送    |                                                          |                                       |
+  - 監督：[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、[ベニー・チャン](../Page/ベニー・チャン.md "wikilink")
+  - 脚本：[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")、スーザン・チャン、リー・レイノルズ
+  - 製作総指揮：レナード・ホー
+  - 製作：バービー・タン
+  - 音楽：ネイサン・ウォン
+  - 撮影：プーン・ハンサン
 
 ## ロケ地
 
@@ -108,4 +90,4 @@ CIA香港支局員ジャッキー</p></td>
   -
   -
   -
-[Category:1998年の映画](https://ja.wikipedia.org/wiki/Category:1998年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:オランダを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:オランダを舞台とした映画作品 "wikilink") [Category:南アフリカ共和国を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:南アフリカ共和国を舞台とした映画作品 "wikilink") [Category:ジャッキー・チェンの監督映画](https://ja.wikipedia.org/wiki/Category:ジャッキー・チェンの監督映画 "wikilink") [Category:ベニー・チャンの監督映画](https://ja.wikipedia.org/wiki/Category:ベニー・チャンの監督映画 "wikilink") [Category:健忘を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:健忘を題材とした映画作品 "wikilink") [Category:スーザン・チャンのシナリオ作品](https://ja.wikipedia.org/wiki/Category:スーザン・チャンのシナリオ作品 "wikilink") [Category:香港電影金像奨_最佳動作設計受賞作](https://ja.wikipedia.org/wiki/Category:香港電影金像奨_最佳動作設計受賞作 "wikilink") [Category:CIAを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:CIAを題材とした映画作品 "wikilink")
+[Category:1998年の映画](https://ja.wikipedia.org/wiki/Category:1998年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:オランダを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:オランダを舞台とした映画作品 "wikilink") [Category:南アフリカ共和国を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:南アフリカ共和国を舞台とした映画作品 "wikilink") [Category:ジャッキー・チェンの監督映画](https://ja.wikipedia.org/wiki/Category:ジャッキー・チェンの監督映画 "wikilink") [Category:ベニー・チャンの監督映画](https://ja.wikipedia.org/wiki/Category:ベニー・チャンの監督映画 "wikilink") [Category:健忘を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:健忘を題材とした映画作品 "wikilink") [Category:スーザン・チャンのシナリオ作品](https://ja.wikipedia.org/wiki/Category:スーザン・チャンのシナリオ作品 "wikilink") [Category:香港電影金像奨_最佳動作設計受賞作](https://ja.wikipedia.org/wiki/Category:香港電影金像奨_最佳動作設計受賞作 "wikilink") [Category:CIAを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:CIAを題材とした映画作品 "wikilink") [Category:オランダで製作された映画作品](https://ja.wikipedia.org/wiki/Category:オランダで製作された映画作品 "wikilink") [Category:ナミビアで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ナミビアで製作された映画作品 "wikilink")

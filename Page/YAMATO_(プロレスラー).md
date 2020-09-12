@@ -95,15 +95,16 @@
 
 持ち技が豊富。バックボーンが[総合格闘技](../Page/総合格闘技.md "wikilink")のためか、DRAGON GATEでは珍しいグラウンド技が主である。
 
-**フィニッシュホールド**
+### フィニッシュ・ホールド
 
   - [ギャラリア](https://ja.wikipedia.org/wiki/みちのくドライバーII#みちのくドライバーβ（ベロ） "wikilink")
     リバースの[ブレーンバスター](../Page/ブレーンバスター.md "wikilink")の体勢から持ち上げての開脚式[ツームストーン・パイルドライバー](https://ja.wikipedia.org/wiki/パイルドライバー#ツームストーン・パイルドライバー "wikilink")。
     [TAKAみちのく](../Page/TAKAみちのく.md "wikilink")の**みちのくドライバーβ**と同型であり、YAMATOの代表的なフィニッシュ技。走ってきた相手をカウンター式で持ち上げて、**旋回式**で放つバージョン、**[ファイヤーマンズキャリー](../Page/ファイヤーマンズキャリー.md "wikilink")**の体勢から決める**ギャラリア**（こちらは[鷹木信悟](../Page/鷹木信悟.md "wikilink")を意識したもの）3種類使用する。
   - **ラグナロク**
-    リバースの**シュバイン**の体勢で自分のサイドに相手持ち上げそのまま頭頂部から落とす技。変形のギャラリアではない。技名は北欧神話の終末の日より。
-    暁に所属していた頃に対[CIMA用の技として開発されたが](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")、当時の筋力では重量のあるレスラーを持ち上げるのが難しかったため半ば封印状態であった（練習は比較的軽量な[富永千浩](https://ja.wikipedia.org/wiki/富永千浩 "wikilink")で行われていた）。KOBEプロレスフェスティバル2017の対 [T-Hawk戦にて](https://ja.wikipedia.org/wiki/苫小牧卓也 "wikilink")、**ギャラリア**を返された際に奥の手として披露。[1](https://ameblo.jp/yamato-oldtype/entry-12295623595.html)
-  - **CBV**（Cross Bone Vanguard）
+    リバース・ブレーンバスターの体勢で相手を担ぎ上げ、シットダウンと同時に左サイドに後頭部から突き刺すギャラリアの進化型。元々は対CIMA用の技として6年前に開発し、半ば封印状態にあったが2017年のT-Hawk戦で奥の手として初披露。
+    技名は北欧神話の終末の日より。
+    元々は、暁に所属していた頃に対[CIMA用の技として開発されたが](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")、当時の筋力では重量のあるレスラーを持ち上げるのが難しかったため半ば封印状態であった（練習は比較的軽量な[富永千浩](https://ja.wikipedia.org/wiki/富永千浩 "wikilink")で行われていた）。KOBEプロレスフェスティバル2017の対 [T-Hawk戦にて](https://ja.wikipedia.org/wiki/苫小牧卓也 "wikilink")、**ギャラリア**を返された際に奥の手として披露。[1](https://ameblo.jp/yamato-oldtype/entry-12295623595.html)
+  - [CBV](https://ja.wikipedia.org/wiki/クリップラー・クロスフェイス#CBV "wikilink")（Cross Bone Vanguard）
     うつぶせの相手をサイドから片羽締めの体勢で、片腕を巻き込んで締め上げる[フェイスロック](https://ja.wikipedia.org/wiki/フェイスロック "wikilink")。TAKAみちのくのジャストフェイスロックのように、相手の体を強引にのけぞらせつつきめる。技名は[機動戦士ガンダムF91](../Page/機動戦士ガンダムF91.md "wikilink")に登場する[敵組織の名前から](https://ja.wikipedia.org/wiki/ブッホ・コンツェルン#クロスボーン・バンガード "wikilink")。
   - [スリーパーホールド](../Page/裸絞.md "wikilink")
     総合格闘技のスキルが反映された技。大一番で奥の手として使用され、CIMAや望月もこの技で絞め落として勝利したことがある。また、この技で意識が遠のいた相手をスープレックスで後ろへ叩きつける「逆落とし」も繰り出す。
@@ -112,7 +113,7 @@
   - [全知全能のフランケンシュタイナー](../Page/フランケンシュタイナー.md "wikilink")
     **ウラカン・ラナ**のように丸め込む。[MAD BLANKEY加入後は](https://ja.wikipedia.org/wiki/MAD_BLANKEY "wikilink")「**全知全能のフランケンシュタイナー**」として使うようになった（加入前は**フランケン・シュタイナー**と言うそのままの名前だった）。どんな劣勢からでも一発でひっくり返すフィニッシュ・ホールドである。大体はギャラリアを放ってから決める技。MAD BLANKEYの時はセコンドがボックスを放ってから使用していた。
 
-**その他得意技**
+### その他得意技
 
   - [エルボー](https://ja.wikipedia.org/wiki/エルボー・バット "wikilink")
     左右連続でたたみかけるパターンを多く使用する。
@@ -138,7 +139,7 @@
   - **ノータッチ・トペ・コン・ヒーロ**
     ハルクとのタッグで使用することがある。使用する時はハルクと同時に飛ぶことが多い。
 
-## タイトル履歴
+## タイトル歴
 
   - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
 
@@ -218,7 +219,7 @@
   - [恐怖の味噌汁](https://ameblo.jp/dragon-gate-deli/)
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:DRAGON_GATE所属のプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATE所属のプロレスラー "wikilink") [Category:岩手県出身の人物](https://ja.wikipedia.org/wiki/Category:岩手県出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:DRAGON_GATE所属のプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATE所属のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:岩手県出身の人物](https://ja.wikipedia.org/wiki/Category:岩手県出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  「2014プロレスラー カラー写真名鑑」p.12、週刊プロレスNo.1714、2013年12月5日増刊、ベースボール・マガジン社
 2.  [DRAGON GATE データベース\> オープン・ザ・トライアングル・ゲート](http://www.gaora.co.jp/dragongate/data/title/tag.html)2014.5.8閲覧

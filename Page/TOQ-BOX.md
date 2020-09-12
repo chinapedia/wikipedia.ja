@@ -92,4 +92,4 @@ AO237号車の廃車を皮切りに、ほかのTOQ-BOX車もすべて解除（20
   - [きかんしゃトーマス](https://ja.wikipedia.org/wiki/きかんしゃトーマス "wikilink")（9013Fが生誕60周年記念車両となった）
   - [ふたりはプリキュア Max Heart](https://ja.wikipedia.org/wiki/ふたりはプリキュア_Max_Heart "wikilink")（9013Fが映画宣伝車両となり、[試写会](https://ja.wikipedia.org/wiki/試写会 "wikilink")への[臨時列車](../Page/臨時列車.md "wikilink")にもなった）
 
-[Category:東京急行電鉄](https://ja.wikipedia.org/wiki/Category:東京急行電鉄 "wikilink") [Category:東急バス](https://ja.wikipedia.org/wiki/Category:東急バス "wikilink") [Category:鉄道広告](https://ja.wikipedia.org/wiki/Category:鉄道広告 "wikilink") [Category:東急グループの歴史](https://ja.wikipedia.org/wiki/Category:東急グループの歴史 "wikilink")
+[Category:東急電鉄](https://ja.wikipedia.org/wiki/Category:東急電鉄 "wikilink") [Category:東急バス](https://ja.wikipedia.org/wiki/Category:東急バス "wikilink") [Category:鉄道広告](https://ja.wikipedia.org/wiki/Category:鉄道広告 "wikilink") [Category:東急グループの歴史](https://ja.wikipedia.org/wiki/Category:東急グループの歴史 "wikilink")

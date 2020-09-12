@@ -33,4 +33,4 @@
 
   - [ミニモニ。](../Page/ミニモニ。.md "wikilink")（P-chicksと同様、「身長150cm以下」との条件があった（後に制限解除）女性アイドルグループ。[アップフロントエージェンシー](../Page/アップフロントプロモーション.md "wikilink")（現：アップフロントプロモーション）所属）
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink")

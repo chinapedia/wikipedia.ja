@@ -68,6 +68,8 @@
 
 シングルリリース直後の[2007年](../Page/2007年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")（8日深夜）、「マキシシングル発売記念」として「ave;new feat.初音ミク」名義での「true my heart」の音源が[ブログ](../Page/ブログ.md "wikilink")で発表された。ヴォーカルパートをヴァーチャル[シンガー](../Page/歌手.md "wikilink")（[音声合成](../Page/音声合成.md "wikilink")システムを搭載したソフトウェア音源）「[初音ミク](../Page/初音ミク.md "wikilink")」に歌わせたものである。
 
+テレビアニメ「[冴えない彼女の育てかた](https://ja.wikipedia.org/wiki/冴えない彼女の育てかた "wikilink")♭」のキャラクターボーカルアルバム「ギャルゲーカバーソングコレクション」で、登場キャラクターである波島出海(cv.[赤崎千夏](https://ja.wikipedia.org/wiki/赤﨑千夏 "wikilink"))がカバーしている。
+
 ## 脚注
 
 ## 外部リンク

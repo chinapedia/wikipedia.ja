@@ -34,6 +34,9 @@
       - コスメちっく☆パラダイス
       - コスメちっく☆パラダイス 〜メイクのキセキ〜
       - [コスメちっく☆パラダイス 〜キレイのマホウ〜](https://ja.wikipedia.org/wiki/コスメちっく☆パラダイス_〜キレイのマホウ〜 "wikilink")
+      - コスメちっく☆パラダイス 〜プリンセスライフ〜
+  - [ダンジョンメーカー](https://ja.wikipedia.org/wiki/ダンジョンメーカー "wikilink")シリーズ
+      - [ダテにガメついワケじゃねェ\!](https://ja.wikipedia.org/wiki/ダテにガメついワケじゃねェ! "wikilink")
   - [びっくり\! とびだす\! 魔法のペン](https://ja.wikipedia.org/wiki/びっくり!_とびだす!_魔法のペン "wikilink")
   - [幻想水滸伝 紡がれし百年の時](https://ja.wikipedia.org/wiki/幻想水滸伝_紡がれし百年の時 "wikilink")（発売：[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）
 

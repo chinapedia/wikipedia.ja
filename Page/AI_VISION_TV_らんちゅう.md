@@ -19,7 +19,7 @@
 
 ## 外部リンク
 
-  - [らんちゅう | TNC テレビ西日本](http://web.archive.org/web/20071022100636/http://www.telebeam.jp/home/program/ranchu/)（インターネット・アーカイブ保存データ）
+  - [らんちゅう | TNC テレビ西日本](https://web.archive.org/web/20071022100636/http://www.telebeam.jp/home/program/ranchu/)（インターネット・アーカイブ保存データ）
   - [らんちゅう 福岡で生活する全ての人に役立つ情報を「ランキング」形式でお届けする情報プロファイリング番組](http://ran-chu.tv/)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の深夜番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink")

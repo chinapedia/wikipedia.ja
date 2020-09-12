@@ -1,7 +1,7 @@
 > この記事は[Acid Black Cherry](https://ja.wikipedia.org/wiki/Acid_Black_Cherry)から翻訳されています。
 
 
-**Acid Black Cherry**（アシッド・ブラック・チェリー）は、[Janne Da Arcのボーカリスト](../Page/Janne_Da_Arc.md "wikilink")[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")\[1\][ソロプロジェクト](../Page/一人バンド.md "wikilink")。所属[レーベルは](../Page/レコードレーベル.md "wikilink")[motorod](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。[略称](https://ja.wikipedia.org/wiki/略称 "wikilink")は**ABC**\[2\]。
+**Acid Black Cherry**（アシッド・ブラック・チェリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ソロプロジェクト](../Page/一人バンド.md "wikilink")。[2007年](../Page/2007年.md "wikilink")始動。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はアップライズ・プロダクト。所属[レコード会社](../Page/レコード会社.md "wikilink")は[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")で、所属[レーベルは](../Page/レコードレーベル.md "wikilink")[motorod](https://ja.wikipedia.org/wiki/avex_trax#レーベル "wikilink")。[2017年](../Page/2017年.md "wikilink")より活動休止。略称は**ABC**。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
 「エロ」をコンセプトにしているが、生(性)と死、恋愛、犯罪、ファンタジーなど様々な世界観を持った歌詞がある。 音楽は激しい[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、ポップ、バラードなど、幅広い楽曲を揃えているのが特徴。 オリジナル楽曲（カバー、企画アルバム以外の楽曲）は全曲をyasuが作詞･作曲･編曲しており、キーボード＆プログラミング、曲によってギターのリフの考案等も手がける。 Janne Da Arc後期よりもヴィジュアル系を意識した濃いアイメイク・服装をしている。青や緑のカラコンも着用。 ライヴは[バンド形式で行っているが](../Page/バンド_\(音楽\).md "wikilink")、あくまでもソロプロジェクトとしている。サポートメンバーは流動的であり、レコーディング、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")及びライブには、yasu自身が一番合うと思ったミュージシャンを選抜している。
 
-公式ファンクラブは、[Janne Da ArcのFC](../Page/Janne_Da_Arc.md "wikilink")『マドモアゼルなあなた達』に含まれていたものの、Janne Da Arc解散によりファンクラブも解散となる。ファンクラブ解散後の再開設等についてはJanne Da Arc解散発表時点では不明である。
+公式ファンクラブは、Janne Da ArcのFC『マドモアゼルなあなた達』に含まれていたものの、Janne Da Arc解散によりファンクラブも解散となる。ファンクラブ解散後の再開設等についてはJanne Da Arc解散発表時点では不明である。
 
 ## 来歴
 
@@ -155,14 +155,14 @@
       - 8月21日、SUMMER SONIC 2016 OSAKAに出演。
       - 8月27日、「[音楽と髭達](https://ja.wikipedia.org/wiki/音楽と髭達 "wikilink")」に出演。
       - 8月28日、「[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") stadium fes.」に出演。
-      - 10月4日、yasuの出血性声帯炎により、カバーアルバム『Recreation 4』の発売延期が発表される\[3\]。
+      - 10月4日、yasuの出血性声帯炎により、カバーアルバム『Recreation 4』の発売延期が発表される\[1\]。
 
 <!-- end list -->
 
   - [2017年](../Page/2017年.md "wikilink")
       - 1月25日、カバーアルバム「Recreation 4」発売。
       - 6月21日、スピンオフ企画アルバム「Acid BLOOD Cherry」発売。
-      - 8月3日、14日より開催を予定していた全国ツアー「Acid Black Cherry 2017 tour Blood History“BLACK×BLOOD”」が自身の頚椎損傷や起因する身体各所への痛みなど、複合的な症状の併発により、すべての公演を中止する事が自身の公式ホームページにて直筆を公開。また、活動も当面の間休止をする事も発表をした\[4\]\[5\]\[6\]。
+      - 8月3日、14日より開催を予定していた全国ツアー「Acid Black Cherry 2017 tour Blood History“BLACK×BLOOD”」が自身の頚椎損傷や起因する身体各所への痛みなど、複合的な症状の併発により、すべての公演を中止する事が自身の公式ホームページにて直筆を公開。また、活動も当面の間休止をする事も発表をした\[2\]\[3\]\[4\]。
 
 ## サポートメンバー
 
@@ -2615,5 +2615,3 @@ AVXD-32269〜71</p></td>
 2.
 3.
 4.
-5.
-6.

@@ -5,7 +5,7 @@
 
 　[2006年](../Page/2006年.md "wikilink")7月、[NEXUS](https://ja.wikipedia.org/wiki/NEXUS_\(学習塾\) "wikilink")（旧SAPIX高等部NEXUS渋谷→現Y-SAPIX高校生コース）の代表であった中山伸幸がNEXUSを辞し、その後、「知の力を活かせる人に」をスローガンにGnobleを創立。
 
-　本部は新宿（新宿駅南口2分、Z会のすぐ手前）、校舎は新宿、渋谷及びお茶の水の3校。2013年からは、大学受験の他に中学受験Gnoble・個別指導Gnolink・英会話Gnokidsを開校し、0歳児の英会話教育から大学受験にわたる教育を行うGnobleグループとして存在している。
+　本部は新宿（JR新宿駅南口２分）、校舎は新宿、渋谷、お茶の水及びたまプラーザの4校。2013年からは、大学受験の他に中学受験Gnoble・個別指導Gnolink・英会話Gnokidsを開校し、0歳児の英会話教育から大学受験にわたる教育を行うGnobleグループとして存在している。
 
 　Gnobleとは、独自の造語である。Gnoは「知」、‐bleは「力」を表している。Gnoは、knowを意味するギリシャ語、‐bleは、ableに由来し、oは「知識のつながり」、「人と人とのつながり」を意味している。
 
@@ -17,7 +17,7 @@
 
 　指導教科は、中学生（英語・数学）、高校生（英語・数学・国語）と主要教科に特化しており、それぞれ入室テストの結果によって、クラス分けされる。また、高校2年生以降は物理・化学・生物、大学受験学年（高校3年生・既卒生）では小論文も開講している。
 
-　指定校制はとっていないが、これまでの体験記等から、[筑駒](https://ja.wikipedia.org/wiki/筑波大学附属駒場中学校・高等学校 "wikilink")、[学附](https://ja.wikipedia.org/wiki/東京学芸大学附属高等学校 "wikilink")、[開成](../Page/開成中学校・高等学校.md "wikilink")、[麻布](https://ja.wikipedia.org/wiki/麻布中学校・高等学校 "wikilink")、[駒東](https://ja.wikipedia.org/wiki/駒場東邦中学校・高等学校 "wikilink")、[海城](../Page/海城中学校・高等学校.md "wikilink")、[桜蔭](../Page/桜蔭中学校・高等学校.md "wikilink")、[豊島岡](../Page/豊島岡女子学園中学校・高等学校.md "wikilink")、[女子学院](../Page/女子学院中学校・高等学校.md "wikilink")、[雙葉](../Page/雙葉中学校・高等学校.md "wikilink")、[浦和明の星](../Page/浦和明の星女子中学校・高等学校.md "wikilink")、[鴎友](../Page/鴎友学園女子中学校・高等学校.md "wikilink")、[吉祥女子](../Page/吉祥女子中学校・高等学校.md "wikilink")、[渋幕](../Page/渋谷教育学園幕張中学校・高等学校.md "wikilink")、[渋渋](../Page/渋谷教育学園渋谷中学校・高等学校.md "wikilink")、[本郷](https://ja.wikipedia.org/wiki/本郷中学校・高等学校 "wikilink")、[聖光](../Page/聖光学院中学校・高等学校.md "wikilink")、[浅野](../Page/浅野中学校・高等学校.md "wikilink")、[日比谷などのいわゆる首都圏の難関校の生徒が多いことがうかがえる](../Page/東京都立日比谷高等学校.md "wikilink")。
+　指定校制はとっていないが、これまでの体験記等から、[筑駒](https://ja.wikipedia.org/wiki/筑波大学附属駒場中学校・高等学校 "wikilink")、[学附](https://ja.wikipedia.org/wiki/東京学芸大学附属高等学校 "wikilink")、[開成](../Page/開成中学校・高等学校.md "wikilink")、[麻布](https://ja.wikipedia.org/wiki/麻布中学校・高等学校 "wikilink")、[駒東](https://ja.wikipedia.org/wiki/駒場東邦中学校・高等学校 "wikilink")、[海城](../Page/海城中学校・高等学校.md "wikilink")、[桜蔭](../Page/桜蔭中学校・高等学校.md "wikilink")、[豊島岡](../Page/豊島岡女子学園中学校・高等学校.md "wikilink")、[女子学院](../Page/女子学院中学校・高等学校.md "wikilink")、[雙葉](../Page/雙葉中学校・高等学校.md "wikilink")、[浦和明の星](../Page/浦和明の星女子中学校・高等学校.md "wikilink")、[鷗友](https://ja.wikipedia.org/wiki/鷗友学園女子中学校・高等学校 "wikilink")、[吉祥女子](../Page/吉祥女子中学校・高等学校.md "wikilink")、[渋幕](../Page/渋谷教育学園幕張中学校・高等学校.md "wikilink")、[渋渋](../Page/渋谷教育学園渋谷中学校・高等学校.md "wikilink")、[本郷](https://ja.wikipedia.org/wiki/本郷中学校・高等学校 "wikilink")、[聖光](../Page/聖光学院中学校・高等学校.md "wikilink")、[浅野](../Page/浅野中学校・高等学校.md "wikilink")、[日比谷などのいわゆる首都圏の難関校の生徒が多いことがうかがえる](../Page/東京都立日比谷高等学校.md "wikilink")。
 
 　全学年、全教科とも個別添削指導を行っている。添削は◯✖️だけでなく、解法の導き方のポイントおよび生徒へのコメントが記されており、Gnoble指導法の柱のひとつとなっている。卒業生たちの『合格者の声』などにも個別添削への感謝がたくさんつづられている。
 

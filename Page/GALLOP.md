@@ -1,7 +1,7 @@
 > この記事は[GALLOP](https://ja.wikipedia.org/wiki/GALLOP)から翻訳されています。
 
 
-『**GALLOP**』（ギャロップ）は、[1991年](../Page/1991年.md "wikilink")に[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルはオリジナルメカ[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。タイトルでは、「**ARMED POLICE UNIT GALLOP**」と表記される。
+『**GALLOP**』（ギャロップ）は、[1991年](../Page/1991年.md "wikilink")に[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルは[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。タイトルでは、「**ARMED POLICE UNIT GALLOP**」と表記される。
 
 シューティングゲームと[レースゲーム](../Page/レースゲーム.md "wikilink")のタイムアタックを融合させた作品。
 
@@ -9,7 +9,7 @@
 
 当時のアイレムのシューティングゲームは、『[R-TYPE](../Page/R-TYPE.md "wikilink")』に始まって『[Xマルチプライ](../Page/Xマルチプライ.md "wikilink")』や『[ドラゴンブリード](https://ja.wikipedia.org/wiki/ドラゴンブリード "wikilink")』など、多彩な特殊オプションのアイデアを数多く盛り込んできた。 この『GALLOP』では、異なるジャンルである[レースゲーム](../Page/レースゲーム.md "wikilink")とシューティングに融合させるという新たなアイデアを取り入れて変化を持たせた。
 
-本作は『[R-TYPE](../Page/R-TYPE.md "wikilink")』の外伝的な作品とされており、自機「R-11」は『R-TYPE』の自機「[R-9](../Page/R-9.md "wikilink")」の系譜に属する事が『R-TYPE3』の付属色紙に記載されている。 本来は『[R-TYPE](../Page/R-TYPE.md "wikilink")』とはまったく異なる世界観で進行された作品であるが、シリーズの正史を現在のものに書き換えた際に、[後付け設定](https://ja.wikipedia.org/wiki/後付け設定 "wikilink")で『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』と同時期に起こった物とされている。
+本作は『[R-TYPE](../Page/R-TYPE.md "wikilink")』の外伝的な作品とされており、自機「R-11」は『R-TYPE』の自機「[R-9](../Page/R-9.md "wikilink")」の系譜に属する事が『R-TYPE III』の付属色紙に記載されている。 本来は『[R-TYPE](../Page/R-TYPE.md "wikilink")』とはまったく異なる世界観で進行された作品であるが、シリーズの正史を現在のものに書き換えた際に、[後付け設定](https://ja.wikipedia.org/wiki/後付け設定 "wikilink")で『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』と同時期に起こった物とされている。
 
 ストーリーは、軍が『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』の劇中で暴走した局地殲滅兵器「モリッツG」を初めとした軍の兵器や工作機の対応に追われている最中、何らかの理由で地表に落着した「バイドの種子」による大型兵器の暴走事件を鎮圧するために出動した、民間運営の武装警察組織と其処に配備された[R-11](https://ja.wikipedia.org/wiki/R-11 "wikilink")の活躍を描いた物となっている。
 

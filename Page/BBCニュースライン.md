@@ -40,6 +40,6 @@
 
 ## 外部リンク
 
-  - [BBCニュースライン](http://web.archive.org/web/20051001062421/http://bbc-tv.co.jp/hensei/news_line/index.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [BBCニュースライン](https://web.archive.org/web/20051001062421/http://bbc-tv.co.jp/hensei/news_line/index.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:びわ湖放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:びわ湖放送のテレビ番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:近畿地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのミニ番組 "wikilink") [Category:近畿地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビの帯番組 "wikilink")

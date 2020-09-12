@@ -47,7 +47,7 @@
 
 ## 脚注
 
-[Category:日本のお笑いグループ](https://ja.wikipedia.org/wiki/Category:日本のお笑いグループ "wikilink")
+[Category:日本のお笑いトリオ](https://ja.wikipedia.org/wiki/Category:日本のお笑いトリオ "wikilink")
 
 1.  [プライム・トーク](http://primetalk.seesaa.net/article/419277540.html)
 2.

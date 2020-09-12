@@ -249,7 +249,7 @@
   - [「absorb MySpace」](http://www.myspace.com/absorb)
   - [「absorb official Blog」](https://ameblo.jp/absorbweb/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:VOCALOIDを用いている音楽家](https://ja.wikipedia.org/wiki/Category:VOCALOIDを用いている音楽家 "wikilink") [Category:ニコニコ動画の音楽](https://ja.wikipedia.org/wiki/Category:ニコニコ動画の音楽 "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:VOCALOIDを用いている音楽家](https://ja.wikipedia.org/wiki/Category:VOCALOIDを用いている音楽家 "wikilink") [Category:ニコニコ動画の音楽](https://ja.wikipedia.org/wiki/Category:ニコニコ動画の音楽 "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.  『DTM magazine』通巻172号（平成20年7月）、p.45
 2.  [新人ユニット「absorb」デビュー曲…中高から合唱オファー殺到](http://hochi.yomiuri.co.jp/entertainment/news/20081102-OHT1T00004.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")

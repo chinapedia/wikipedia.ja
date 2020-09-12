@@ -14,7 +14,7 @@
   - [RPM (カナダの音楽雑誌)](https://ja.wikipedia.org/wiki/RPM_\(カナダの音楽雑誌\) "wikilink") - 1964年から2000年まで存続したカナダの音楽雑誌、その発行社。
   - RPM (日本パレットレンタル) - [日本パレットレンタル](../Page/日本パレットレンタル.md "wikilink")の[タイ王国](../Page/タイ王国.md "wikilink")現地[法人](../Page/法人.md "wikilink")。**R**ETURNABLE **P**ACKAGING **M**ATERIAL MANAGEMENT CO., LTD. の略。
   - アールピーエム - [Tony](../Page/Tony.md "wikilink")が代表を務めるソフトウェア企画・開発・販売会社。
-  - RPM (台湾のオートバイ部品メーカー) - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")に本社を置く、[スクーター](../Page/スクーター.md "wikilink")を中心とする[レース](https://ja.wikipedia.org/wiki/レース "wikilink")向けの[カスタム](../Page/カスタム.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")メーカー。
+  - RPM (台湾のオートバイ部品メーカー) - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")に本社を置く、[スクーター](../Page/スクーター.md "wikilink")を中心とする[レース向けの](https://ja.wikipedia.org/wiki/オートバイ競技 "wikilink")[カスタム](../Page/カスタム.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")メーカー。
   - RPM (村島製作所) - 村島製作所として、1960年代前半に創業したレーシング部品ビルダー。ブランドは、**R**acing **P**roject **M**urashima の略。排気効率を向上させてエンジン性能に寄与する「4in2in1集合マフラー」を開発したが、後に経営難に陥り倒産した。
   - RPM (株式会社ア－ルピ－エム) - 倒産した村島製作所のブランド及び事業継承会社として、新たに発足した[オートバイ](../Page/オートバイ.md "wikilink")の[マフラーメーカー](https://ja.wikipedia.org/wiki/消音器 "wikilink")。主にストリート向けのマフラーを扱い、村島製作所時代のレーシング部品の取り扱いは、継承されなかった。
 

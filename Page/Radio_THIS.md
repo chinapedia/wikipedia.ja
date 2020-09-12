@@ -5,13 +5,13 @@
 
 ## 概要
 
-1988年4月に、前番組『[ミュージックホットメール](https://ja.wikipedia.org/wiki/ミュージックホットメール "wikilink")』を内容はほぼそのままでタイトル変更してスタート。この時に、パーソナリティは[白藤丈二](https://ja.wikipedia.org/wiki/白藤丈二 "wikilink")はそのままで、その相手役が[茂木栗子](https://ja.wikipedia.org/wiki/茂木栗子 "wikilink")から[鳥居睦子](../Page/鳥居睦子.md "wikilink")に替わった。当初はタウン情報やレジャー情報、[オリコンチャート](../Page/オリコンチャート.md "wikilink")紹介（後述）などの音楽情報（特に[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")情報）などを扱いながら進行する内容の番組となっていた。
+1988年4月に、前番組『[ミュージックホットメール](https://ja.wikipedia.org/wiki/ミュージックホットメール "wikilink")』を内容はほぼそのままでタイトル変更してスタート。この時に、パーソナリティは[白藤丈二](https://ja.wikipedia.org/wiki/白藤丈二 "wikilink")はそのままで、その相手役が[茂木栗子](https://ja.wikipedia.org/wiki/茂木栗子 "wikilink")から[鳥居睦子](../Page/鳥居睦子.md "wikilink")に替わった。当初はタウン情報やレジャー情報、[オリコンチャート](../Page/オリコンチャート.md "wikilink")紹介（後述）などの音楽情報（特に[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")情報）などを扱いながら進行する内容の番組となっていた\[1\]。
 
 番組の内容に変化が見られ始めるのは[1989年](../Page/1989年.md "wikilink")4月からで、メインパーソナリティの白藤が降板。この時に3月まで日曜日の21時00分から21時25分の枠で放送されていた、[小川範子](../Page/小川範子.md "wikilink")の『**範ちゃん通信**』が15分番組となって本番組の内包番組となり、その後[星野由妃](../Page/星野由妃.md "wikilink")、[乙女塾](../Page/乙女塾.md "wikilink")、[少年隊](../Page/少年隊.md "wikilink")など次々に内包番組が本番組内にスタートし、[コンプレックス番組のような色合いが濃くなっていく](../Page/コンプレックス_\(番組形式\).md "wikilink")。大阪に来たアイドルタレントたちが頻繁にこの番組にゲスト出演し、またアイドル情報を伝える番組専属のレポーターを置いたこともあり、より一層アイドル色を強化して行った。
 
 [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")のタイトルコールとともに、[ミュージックリサーチ](https://ja.wikipedia.org/wiki/ミュージックリサーチ "wikilink")（後に[オリコンに代わる](../Page/オリコンチャート.md "wikilink")）の最新チャートを発表するコーナーもあった。
 
-[1991年](../Page/1991年.md "wikilink")4月からは、前年[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")10月から6か月間、[金曜日](../Page/金曜日.md "wikilink")21時00分から21時30分の枠で放送されていた番組『[アイドル茶屋町学園](https://ja.wikipedia.org/wiki/アイドル茶屋町学園 "wikilink")』を吸収する形で『**Radio THIS 茶屋町学園**』とタイトルを変更。
+[1991年](../Page/1991年.md "wikilink")4月からは、前年[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")10月から6か月間、[金曜日](../Page/金曜日.md "wikilink")21時00分から21時30分の枠で放送されていた番組『[アイドル茶屋町学園](https://ja.wikipedia.org/wiki/アイドル茶屋町学園 "wikilink")』を吸収する形で『**Radio THIS 茶屋町学園**』とタイトルを変更。1991年夏には、当番組中で『アイドル候補生オーディション』を行い、約2万名の応募の中から[神子雅](https://ja.wikipedia.org/wiki/神子雅 "wikilink")、山坂美智子（[乙女塾](../Page/乙女塾.md "wikilink")6期生出身）など6名が選ばれた\[2\]。
 
 [1992年](../Page/1992年.md "wikilink")4月から同年9月までは、[ribbonがパーソナリティの](https://ja.wikipedia.org/wiki/ribbon_\(アイドルグループ\) "wikilink")『**Radio THIS 茶屋町学園土曜BAN**』を毎週日曜（土曜深夜） 3時00から3時30分に編成し、本番組の派生的な新番組も誕生した。
 
@@ -74,4 +74,9 @@
       -
         （「ヤンタン茶屋町学園」とほぼ同じコーナー形式で放送され、[よゐこ](../Page/よゐこ.md "wikilink")とは1コーナーで共演していた。）
 
+## 脚注
+
 [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:毎日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送ラジオ番組の歴史 "wikilink") [Category:毎日放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜ラジオ番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")
+
+1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年7月号 71頁
+2.  [明星](../Page/Myojo.md "wikilink") 1991年10月号 107頁

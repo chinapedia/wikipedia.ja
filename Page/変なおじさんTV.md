@@ -558,7 +558,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ公式サイト内 変なおじさんTV 番組情報ページ](http://www.fujitv.co.jp/b_hp/hennaoji/)
+  - [フジテレビ公式サイト内 変なおじさんTV 番組情報ページ](https://www.fujitv.co.jp/b_hp/hennaoji/)
   - [変なおじさんTV](http://www.fami-geki.com/detail/index.php?fami_id=01523) - ファミリー劇場
 
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:志村けんのだいじょうぶだぁ](https://ja.wikipedia.org/wiki/Category:志村けんのだいじょうぶだぁ "wikilink")

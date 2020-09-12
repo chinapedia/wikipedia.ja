@@ -24,7 +24,7 @@
       - [植村花菜](https://ja.wikipedia.org/wiki/植村花菜 "wikilink")「[光と影](../Page/光と影_\(植村花菜の曲\).md "wikilink")」（オープニングテーマ）
       - 植村花菜「[紙ヒコーキ](../Page/紙ヒコーキ_\(植村花菜の曲\).md "wikilink")」（エンディングテーマ）
   - 『[テイルズ オブ ザ テンペスト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_テンペスト "wikilink")』
-      - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")「[ラブリー{{JIS2004フォント](../Page/ラブリーキャッツアイ.md "wikilink")」（イメージソング）
+      - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")「[ラブリー♡キャッツアイ](https://ja.wikipedia.org/wiki/ラブリー♡キャッツアイ "wikilink")」（イメージソング）
   - 『[テイルズ オブ コモンズ](../Page/テイルズ_オブ_コモンズ.md "wikilink")』
       - 植村花菜「[キセキ](https://ja.wikipedia.org/wiki/キセキ/恋の魔法 "wikilink")」
   - 『[テイルズ オブ ヴァールハイト](../Page/テイルズ_オブ_ヴァールハイト.md "wikilink")』

@@ -44,6 +44,6 @@
 14. [レディ・マドンナ](https://ja.wikipedia.org/wiki/レディ・マドンナ "wikilink") -Lady Madonna
 15. [アイ・ソー・ハー・スタンディング・ゼア](../Page/アイ・ソー・ハー・スタンディング・ゼア.md "wikilink") -I Saw Her Standing There
 16. [イエスタデイ](../Page/イエスタデイ.md "wikilink") -Yesterday
-17. [サージェント・ペパー](../Page/サージェント・ペパーズ・ロンリー・ハーツ・クラブ・バンド_\(リプライズ\).md "wikilink")〜[ジ・エンド](../Page/ジ・エンド_\(ビートルズの曲\).md "wikilink") -Sgt. Pepper/The End
+17. [サージェント・ペパー](https://ja.wikipedia.org/wiki/サージェント・ペパーズ・ロンリー・ハーツ・クラブ・バンド#リプライズ "wikilink")〜[ジ・エンド](../Page/ジ・エンド_\(ビートルズの曲\).md "wikilink") -Sgt. Pepper/The End
 
 [Category:ポール・マッカートニーのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:ポール・マッカートニーのライブ・アルバム "wikilink") [Category:2002年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のライブ・アルバム "wikilink")

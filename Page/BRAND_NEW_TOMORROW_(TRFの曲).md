@@ -16,9 +16,9 @@
 
 作詞・作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 
-1.  **BRAND NEW TOMORROW \[ORIGINAL MIX\]**
-2.  **BRAND NEW TOMORROW \[J.V.N. MIX\]**
-3.  **BRAND NEW TOMORROW \[TV MIX\]**
+1.  **BRAND NEW TOMORROW \[ORIGINAL MIX\] (5:29)**
+2.  **BRAND NEW TOMORROW \[J.V.N. MIX\] (8:15)**
+3.  **BRAND NEW TOMORROW \[TV MIX\] (5:27)**
 
 ## 出典
 

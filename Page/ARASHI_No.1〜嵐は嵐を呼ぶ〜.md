@@ -10,6 +10,7 @@
   - シングルが4曲入っているが、両A面扱いだった「[HORIZON](https://ja.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")」は唯一収録されていない。
   - PVは存在しないが「ココロチラリ」が本作のリードトラックとなる。
   - 現在は[廃盤](../Page/廃盤.md "wikilink")となっているため、[ネットオークションサイトなどで高値で取引されていることがある](../Page/インターネットオークション.md "wikilink")。また、ポニーキャニオンにおける唯一のアルバムであり、次作から[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")にレーベルを移籍した。
+  - 2020年2月7日より、収録曲のデジタル配信、及びサブスクリプション配信が解禁された。CDはポニーキャニオンから発売されたが、配信元はJ Stormとなっている。
 
 ## 収録曲
 
@@ -25,7 +26,7 @@
 3.  **DANGAN-LINER** (4:07)
       -
         作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、作曲：谷本新、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
-4.  **[SUNRISE日本](https://ja.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")**(4:45)
+4.  **[SUNRISE日本](https://ja.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")** (4:45)
       -
         作詞：F\&T、作曲：馬飼野康二、編曲：CHOKKAKU
     <!-- end list -->
@@ -40,10 +41,10 @@
     <!-- end list -->
       - 4thシングル
       - [二宮和也](../Page/二宮和也.md "wikilink")出演 フジテレビ系水曜ドラマ「[涙をふいて](../Page/涙をふいて_\(テレビドラマ\).md "wikilink")」オープニングテーマ
-7.  **愛と勇気とチェリーパイ** (5:18)
+7.  **愛と勇気とチェリーパイ** (5:17)
       -
         作詞：戸沢暢美、作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")
-8.  **Deepな冒険** (4:38)
+8.  **Deepな冒険** (4:37)
       -
         作詞：戸沢暢美、作曲：[飯田建彦](https://ja.wikipedia.org/wiki/飯田建彦 "wikilink")、編曲：CHOKKAKU
 9.  **helpless** (5:10)
@@ -77,6 +78,10 @@
 
 ## 脚注
 
-[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2001年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink")
+## 外部リンク
 
-1.  [嵐の初アルバム、“嵐を呼ぶ”80万枚](http://web.archive.org/web/20010312174152/http://www.sanspo.com/enter/music/m0101/top2001012507.html)、SANSPO.COM。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=106)
+
+[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink") [Category:2001年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンアルバムチャート1位獲得作品 "wikilink")
+
+1.  [嵐の初アルバム、“嵐を呼ぶ”80万枚](https://web.archive.org/web/20010312174152/http://www.sanspo.com/enter/music/m0101/top2001012507.html)、SANSPO.COM。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

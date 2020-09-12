@@ -5,7 +5,7 @@
 
 [シューティングゲーム](../Page/シューティングゲーム.md "wikilink")としてはシリーズ最終作として製作された『[R-TYPE FINAL](../Page/R-TYPE_FINAL.md "wikilink")』に登場した多数の[R戦闘機](https://ja.wikipedia.org/wiki/R戦闘機 "wikilink")の設定が活かされ、様々なRタイプ戦闘機が宇宙や異星、異次元空間を舞台にグロテスクなバイド帝国のユニットと戦闘を繰り広げるSFシミュレーションゲームとなっている。
 
-店頭チラシでは、世界観を別解釈で再構築と記載されており、本編（『I』～『Final』まで）とはパラレル的な設定が見て取れる。
+店頭チラシでは、世界観を別解釈で再構築と記載されており、本編（『I』から『Final』まで）とはパラレル的な設定が見て取れる。
 
 北米では『R-TYPE COMMAND』（アール・タイプ コマンド）として販売。販売は[アトラスの米国法人が担当](../Page/アトラス_\(ゲーム会社\).md "wikilink")。なお、COMMAND版では年表設定が少し異なって表記されている。
 
@@ -239,7 +239,5 @@
     バイド軍の基地に潜入するミッション。ミッションAとは違い、狭い通路になっており、通路の影の敵には対空レーザーなどの地形を貫通しない武器は届かない。
 
 また、同じくアイレムから発売されているパズルゲーム『[マワスケス](https://ja.wikipedia.org/wiki/マワスケス "wikilink")』の体験版も同時収録されている。
-
-## 外部リンク
 
 [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:ウォー・シミュレーションゲーム "wikilink") [Category:R-TYPE](https://ja.wikipedia.org/wiki/Category:R-TYPE "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink")

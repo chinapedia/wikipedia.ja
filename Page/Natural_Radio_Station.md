@@ -142,6 +142,6 @@
 ## 外部リンク
 
   - 公式サイト:
-  - 公式ブログ: [Natural Radio Station Blog](http://nrs.syncl.jp/)
+  - 公式ブログ:
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

@@ -63,4 +63,6 @@
 
   - [Petty Booka公式サイト](http://sister.co.jp/pettybooka/index-j.html)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[カテゴリ:2人組の音楽グループ](https://ja.wikipedia.org/wiki/カテゴリ:2人組の音楽グループ "wikilink")
+
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink")

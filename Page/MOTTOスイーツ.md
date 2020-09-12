@@ -14,4 +14,4 @@
 3.  MOTTOスイーツ (backtracks)
 4.  Love Your Name (backtracks)
 
-[Category:椎名へきるの楽曲](https://ja.wikipedia.org/wiki/Category:椎名へきるの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:木根尚登が制作した楽曲](https://ja.wikipedia.org/wiki/Category:木根尚登が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_も](https://ja.wikipedia.org/wiki/Category:楽曲_も "wikilink")
+[Category:椎名へきるの楽曲](https://ja.wikipedia.org/wiki/Category:椎名へきるの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:木根尚登が制作した楽曲](https://ja.wikipedia.org/wiki/Category:木根尚登が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:菓子を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:菓子を題材とした楽曲 "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_も](https://ja.wikipedia.org/wiki/Category:楽曲_も "wikilink")

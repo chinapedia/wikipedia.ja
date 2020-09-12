@@ -82,8 +82,9 @@
 
 ## 外部リンク
 
-  - [インターネットラジオステーション＜音泉＞](http://onsen.ag/)
+  -
   - [Supporters community site BEWE](http://bewe.sc/)
-  - [TBSアニメーション「ウィンターガーデン」公式HP](http://www.tbs.co.jp/anime/wintergarden/)
+
+  - [TBSアニメーション「ウィンターガーデン」公式HP](https://www.tbs.co.jp/anime/wintergarden/)
 
 [Category:デ・ジ・キャラット](https://ja.wikipedia.org/wiki/Category:デ・ジ・キャラット "wikilink") [Category:ブロッコリーのラジオ番組](https://ja.wikipedia.org/wiki/Category:ブロッコリーのラジオ番組 "wikilink") [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink")

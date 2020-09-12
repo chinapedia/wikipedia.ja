@@ -316,8 +316,7 @@
 
 ## 外部リンク
 
-  - [DRAGONBALL Z 爆烈IMPACT](http://www.carddas.com/dbzbakuretsu/)
-
+  -
 [en:List of Dragon Ball video games\#Dragon Ball Z: Bakuretsu Impact](https://ja.wikipedia.org/wiki/en:List_of_Dragon_Ball_video_games#Dragon_Ball_Z:_Bakuretsu_Impact "wikilink")
 
 [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:データカードダス](https://ja.wikipedia.org/wiki/Category:データカードダス "wikilink") [Category:ディンプスのゲームソフト](https://ja.wikipedia.org/wiki/Category:ディンプスのゲームソフト "wikilink")

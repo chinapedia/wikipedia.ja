@@ -14,7 +14,6 @@
           - [フロイド・ローズ](../Page/フロイド・ローズ.md "wikilink")を装備したシグネイチャーモデル"Mockingbird SL"は生産を終了したが、スペックやルックスを継承したSTシリーズがラインナップされている。
       - [リック・デリンジャー](../Page/リック・デリンジャー.md "wikilink")
       - [布袋寅泰](../Page/布袋寅泰.md "wikilink")（10代の頃に使用）
-      - [HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")（[X JAPAN](../Page/X_JAPAN.md "wikilink")）
       - [ジョー・ペリー](../Page/ジョー・ペリー.md "wikilink")（[エアロスミス](../Page/エアロスミス.md "wikilink")）
       - [藤井麻輝](../Page/藤井麻輝.md "wikilink")（[SOFT BALLET](../Page/SOFT_BALLET.md "wikilink")）:2002年に再結成したSOFT BALLETのライヴにて、hideモデルのアクリル製透明モデルを使用。
       - [新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）

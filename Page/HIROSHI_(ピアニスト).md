@@ -17,7 +17,7 @@
 
 2001年、[第43回日本レコード大賞企画賞受賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞#企画賞 "wikilink")。
 
-1999年７月以降、クラシックの殿堂・東京文化会館大ホールにて毎年、ソロ・リサイタルを開催し、2020年10月15日には第22回を迎える。
+1999年７月以降、クラシックの殿堂・東京文化会館大ホールにて毎年、ソロ・リサイタルを開催し、2020年10月15日には第22回を迎える予定だったところ、コロナ感染予防の観点から中止となり、記録は21年連続で途絶える結果となった。
 
 ## 作品リスト
 
@@ -42,7 +42,7 @@
 
 ## 外部リンク
 
-  - [サンミュージック公式サイト](https://www.sunmusic.org/profile/HIROSHI.html)
+  - [サンミュージック公式サイト](http://www.sunmusic.org/profile/HIROSHI.html)
   - [FBページ（非公式ファンサイト）](https://www.facebook.com/Pianistar.hiroshi/)
 
 [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本のピアニスト](https://ja.wikipedia.org/wiki/Category:日本のピアニスト "wikilink") [Category:東京芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京芸術大学出身の人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

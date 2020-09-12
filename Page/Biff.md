@@ -35,7 +35,7 @@
 
 **biff**は[BSD](../Page/BSD.md "wikilink")から発祥し、[バークレーの開発者によって知られていた](../Page/カリフォルニア大学バークレー校.md "wikilink")[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")にちなんで名付けられた。
 
-いくつかの文献[1](http://www.mcsr.olemiss.edu/unixhelp/didyou/biff.html)\[[http://www.unixguide.net/unix/faq/1.3.shtml\]は、郵便配達人に吠えていた犬であり、そこからメール通知システムの名前を選ぶことは自然の選択である、と記している](http://www.unixguide.net/unix/faq/1.3.shtml%5Dは、郵便配達人に吠えていた犬であり、そこからメール通知システムの名前を選ぶことは自然の選択である、と記している)。[ジャーゴンファイル](../Page/ジャーゴンファイル.md "wikilink")はこの説明を否定する\[[http://www.catb.org/jargon/html/B/biff.html\]が、少なくとも犬が存在していたことは間違いないようである](http://www.catb.org/jargon/html/B/biff.html%5Dが、少なくとも犬が存在していたことは間違いないようである)。
+いくつかの文献[1](http://www.mcsr.olemiss.edu/unixhelp/didyou/biff.html)\[[https://www.unixguide.net/unix/faq/1.3.shtml\]は、郵便配達人に吠えていた犬であり、そこからメール通知システムの名前を選ぶことは自然の選択である、と記している](https://www.unixguide.net/unix/faq/1.3.shtml%5Dは、郵便配達人に吠えていた犬であり、そこからメール通知システムの名前を選ぶことは自然の選択である、と記している)。[ジャーゴンファイル](../Page/ジャーゴンファイル.md "wikilink")はこの説明を否定する\[[http://www.catb.org/jargon/html/B/biff.html\]が、少なくとも犬が存在していたことは間違いないようである](http://www.catb.org/jargon/html/B/biff.html%5Dが、少なくとも犬が存在していたことは間違いないようである)。
 
 [ピーター・H. サルスの著した](https://ja.wikipedia.org/wiki/:en:Peter_H._Salus "wikilink")『UNIX の 1/4 世紀』 ISBN 4-7561-3659-1 や、BSD 系 OS の[マニュアル](../Page/Manページ.md "wikilink") biff(1) には、その犬は[1993年](../Page/1993年.md "wikilink")の8月に、15歳で亡くなったことが記されている。 \[1\] \[2\] \[3\]
 

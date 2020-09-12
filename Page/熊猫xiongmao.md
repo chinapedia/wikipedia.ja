@@ -50,8 +50,8 @@
 ## 外部リンク
 
   - [熊猫xiongmao](http://sound.jp/xiongmao/)
-  - [ユニバーサルミュージック 熊猫xiongmao](http://www.universal-music.co.jp/xiongmao/)
-  - [ユニバーサルミュージック](http://www.universal-music.co.jp/)
+  - [ユニバーサルミュージック 熊猫xiongmao](https://www.universal-music.co.jp/xiongmao/)
+  - [ユニバーサルミュージック](https://www.universal-music.co.jp/)
   - [￥0TV！うた力の旅](http://www.tvi.jp/0tv/index.html)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")

@@ -17,6 +17,8 @@
 
 アルバムタイトルは、[松本潤](../Page/松本潤.md "wikilink")考案によるもの\[1\]。
 
+2020年2月7日より、通常盤収録曲のデジタル配信、及びサブスクリプション配信が解禁された。
+
 ## 収録曲
 
 ### CD
@@ -150,6 +152,11 @@
 |                                                                                                                                                                                 |                                                                                                                                        |
 
 ## 脚注
+
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/one)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=99)
 
 [Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

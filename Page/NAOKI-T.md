@@ -28,9 +28,9 @@
   - [嵐](../Page/嵐_\(グループ\).md "wikilink")
   - [ET-KING](../Page/ET-KING.md "wikilink")
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")
-  - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")
+  - [MCU](../Page/MCU_\(ラッパー\).md "wikilink")
   - [辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")
-  - [K](https://ja.wikipedia.org/wiki/K "wikilink")
+  - [K](../Page/K_\(歌手\).md "wikilink")
   - [ケツメイシ](../Page/ケツメイシ.md "wikilink")
   - [CODE-V](https://ja.wikipedia.org/wiki/CODE-V "wikilink")
   - [阪本奨悟](../Page/阪本奨悟.md "wikilink")
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - **[MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")**
+  - **[MCU](../Page/MCU_\(ラッパー\).md "wikilink")**
 
 <!-- end list -->
 

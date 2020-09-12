@@ -26,7 +26,7 @@
 
 8.  [マカレナ](https://ja.wikipedia.org/wiki/恋のマカレナ "wikilink")　Macarena　歌：2 ロコス・イン・ア・ルーム
 
-9.  　New York City Boy　歌：ニューヨーク・ラッパーズ
+9.  [ニューヨーク・シティ・ボーイ](https://ja.wikipedia.org/wiki/ニューヨーク・シティ・ボーイ "wikilink")　New York City Boy　歌：ニューヨーク・ラッパーズ
 
 10. ファイヤー　Fire　歌：コンバインド
 

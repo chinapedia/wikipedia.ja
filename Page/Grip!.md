@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作「[UNTITLED 4 ballads](../Page/UNTITLED_4_ballads.md "wikilink")」より約3ヶ月振りのシングル。曲名の由来は愛人を**握りしめる**という意味からである。ジャケットのイメージは持田が青空の下、草原を自転車で走っているというものである。
+前作「[UNTITLED 4 ballads](../Page/UNTITLED_4_ballads.md "wikilink")」より約3ヶ月振りのシングル。
 
 [CD EXTRA仕様になっているため](../Page/CD_EXTRA.md "wikilink")、[CCCDではない](../Page/コピーコントロールCD.md "wikilink")。
 

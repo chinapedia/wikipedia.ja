@@ -33,9 +33,6 @@
 5.  **純愛**
       -
         （作詞：松本隆 / 作曲：[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink") / 編曲：[船山基紀](../Page/船山基紀.md "wikilink")）
-6.  **マッスル・ピーチ**
-      -
-        （作詞：[佐伯健三](https://ja.wikipedia.org/wiki/佐伯健三 "wikilink") / 作曲：[矢野顕子](../Page/矢野顕子.md "wikilink") / 編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")）
 
 <!-- end list -->
 
@@ -43,20 +40,23 @@
 
 <!-- end list -->
 
-1.  **[常夏娘](../Page/常夏娘.md "wikilink") \[Album Version\]**
+1.  **マッスル・ピーチ**
+      -
+        （作詞：[佐伯健三](https://ja.wikipedia.org/wiki/佐伯健三 "wikilink") / 作曲：[矢野顕子](../Page/矢野顕子.md "wikilink") / 編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")）
+2.  **[常夏娘](../Page/常夏娘.md "wikilink") \[Album Version\]**
       -
         （作詞：[緑一二三](https://ja.wikipedia.org/wiki/緑一二三 "wikilink") / 作曲：[幸耕平](https://ja.wikipedia.org/wiki/幸耕平 "wikilink")/ 編曲：[矢野立美](../Page/矢野立美.md "wikilink")）
           - 14thシングル。
-2.  **片想い**
+3.  **片想い**
       -
         （作詞：[麻生圭子](../Page/麻生圭子.md "wikilink") / 作曲：[山川恵津子](../Page/山川恵津子.md "wikilink") / 編曲：山川恵津子）
-3.  **Free**
+4.  **Free**
       -
         （作詞：松本隆 / 作曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink") / 編曲：馬飼野康二）
-4.  **Someday**
+5.  **Someday**
       -
         （作詞：[美夏夜](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink") / 作曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink") / 編曲：[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")）
-5.  **二人**
+6.  **二人**
       -
         （作詞・作曲：[飯島真理](../Page/飯島真理.md "wikilink") / 編曲：飯島真理）
 

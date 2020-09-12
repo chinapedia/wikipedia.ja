@@ -1,29 +1,31 @@
 > この記事は[STV開発センター](https://ja.wikipedia.org/wiki/STV開発センター)から翻訳されています。
 
 
-**株式会社エス・テー・ビー開発センター**（エス・テー・ビーかいはつセンター、略称：STV開発センター）は、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")の完全子会社で、通信販売事業（札幌テレビショッピング）、番組制作（[テレビ](../Page/テレビショッピング.md "wikilink")・[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")）、[音楽出版](../Page/音楽出版.md "wikilink")、広告事業を手掛けている。STVのロゴは1959年の開局時のものを使用している。
+**株式会社エス・テー・ビー開発センター**（エス・テー・ビーかいはつセンター）は、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）の完全子会社で、通信販売事業（札幌テレビショッピング）、番組制作（[テレビ](../Page/テレビショッピング.md "wikilink")・[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")）、[音楽出版](../Page/音楽出版.md "wikilink")、広告事業を手掛けている。STVのロゴは1959年の開局時のものを使用している。
 
 ## 沿革
 
-  - [1982年](../Page/1982年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")、創立（北海道札幌市）（資本金500万円）
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、増資（1000万円）
-  - [1986年](../Page/1986年.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")プロジェクトとの提携により[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組を開始。（[STVラジオ](../Page/STVラジオ.md "wikilink")、北海道エリア）
-  - [1993年](../Page/1993年.md "wikilink")、「[どさんこワイド](../Page/どさんこワイド.md "wikilink")」の「丸得情報ベストショッピング」に参入。\[1\]
-  - [1994年](../Page/1994年.md "wikilink")、[テレビショッピング](../Page/テレビショッピング.md "wikilink")番組「[喜瀬ひろしと幸代のこれは五つ星](../Page/喜瀬浩.md "wikilink")\!」スタート（[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")）\[2\]
-  - [1996年](../Page/1996年.md "wikilink")、年末特別テレビショッピング番組「[冬の釧路&根室は魚がうまい\!〜海の幸ショッピング〜](../Page/冬の釧路&根室は魚がうまい!〜海の幸ショッピング〜.md "wikilink")」スタート）
-  - [2006年](../Page/2006年.md "wikilink")、インターネット通販サイト「どさんこ広場」を開始\[3\]
-  - [2009年](../Page/2009年.md "wikilink")、株式会社STVメディアフィールズ21と合併。[音楽出版](../Page/音楽出版.md "wikilink")、広告事業を引き継ぐ。
-  - [2009年](../Page/2009年.md "wikilink")、年末特別テレビ番組「[あき竹城の北海道 味の物産市\!](https://ja.wikipedia.org/wiki/あき竹城の北海道_味の物産市! "wikilink")」スタート\[4\]
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、テレビショッピング番組「ぞっこん\!ほっかいどう情熱市場」スタート（札幌テレビ放送）\[5\]
-  - [2013年](../Page/2013年.md "wikilink")、テレビショッピング番組「Sチョイス\!」スタート（札幌テレビ放送）
-  - [2014年](../Page/2014年.md "wikilink")、[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組「喜瀬の日曜ショッピング」スタート（[STVラジオ](../Page/STVラジオ.md "wikilink")）
+  - [1982年](../Page/1982年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") - 北海道札幌市にて創立、資本金500万円。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 資本金を1000万円に増資。
+  - [1986年](../Page/1986年.md "wikilink")4月 - [ニッポン放送](../Page/ニッポン放送.md "wikilink")プロジェクトとの提携によりSTVラジオにて[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組を開始。
+  - [1993年](../Page/1993年.md "wikilink") - 「[どさんこワイド](../Page/どさんこワイド.md "wikilink")」の「丸得情報ベストショッピング」に参入。当初は単発だったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から月曜日を担当し番組終了の2007年9月まで続いた。
+  - [1994年](../Page/1994年.md "wikilink") - STVにて[テレビショッピング](../Page/テレビショッピング.md "wikilink")番組「[喜瀬ひろしと](../Page/喜瀬浩.md "wikilink")[幸代のこれは五つ星](../Page/高山幸代.md "wikilink")\!」スタート。後に「喜瀬ひろしのこれは五つ星\!」に改題され、[2012年](../Page/2012年.md "wikilink")まで毎月2回放送された。
+  - [1996年](../Page/1996年.md "wikilink") - 年末特別テレビショッピング番組「冬の釧路&根室は魚がうまい\!〜海の幸ショッピング〜」スタート。
+  - [2006年](../Page/2006年.md "wikilink") - インターネット通販サイト「どさんこ広場」を開始。当初は複数の販売会社が参加するポータルサイトだったが、後に自社販売専用に変更された。
+  - [2009年](../Page/2009年.md "wikilink")
+      - 10月1日 - 株式会社STVメディアフィールズ21と合併。[音楽出版](../Page/音楽出版.md "wikilink")・広告事業を引き継ぐ。
+      - 11月 - カタログ通販「北海道味の物産市」開始。
+      - STVにて年末特別テレビ番組「[あき竹城の北海道 味の物産市\!](https://ja.wikipedia.org/wiki/あき竹城の北海道_味の物産市! "wikilink")」スタート。あき竹城降板に伴い[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")よりタイトルを「北海道 味の物産市\!」に変え、現在も放送中。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - STVにてテレビショッピング番組「ぞっこん\!ほっかいどう情熱市場」スタート。後に[BS日テレ](../Page/BS日本.md "wikilink")「北海道すたいる」内でも放送されている。
+  - [2013年](../Page/2013年.md "wikilink") - STVにてテレビショッピング番組「Sチョイス\!」スタート。
+  - [2014年](../Page/2014年.md "wikilink") - STVラジオにて[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組「喜瀬の日曜ショッピング」スタート。
 
 ## 通信販売事業
 
 ### テレビ
 
-  - Sチョイス\!（金曜日）[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（北海道エリア）
-  - ぞっこん\!ほっかいどう情熱市場
+  - どさんこ市場（金曜日）[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（北海道エリア） 10:55-11:25
+  - STVほっかいどう情熱市場
       - （月 - 木曜日）札幌テレビ放送　10:25 -10:29
       - （月 - 金曜日）札幌テレビ放送「[どさんこワイド](../Page/どさんこワイド.md "wikilink")」内（北海道エリア）
       - （土曜日）[BS日テレ](../Page/BS日本.md "wikilink")「北海道すたいる」内
@@ -82,9 +84,3 @@
 
   -
 [Category:札幌テレビ放送](https://ja.wikipedia.org/wiki/Category:札幌テレビ放送 "wikilink") [Category:STVラジオ](https://ja.wikipedia.org/wiki/Category:STVラジオ "wikilink") [Category:通信販売業](https://ja.wikipedia.org/wiki/Category:通信販売業 "wikilink") [Category:電子商取引サイト](https://ja.wikipedia.org/wiki/Category:電子商取引サイト "wikilink") [Category:テレビの通販番組](https://ja.wikipedia.org/wiki/Category:テレビの通販番組 "wikilink") [Category:ラジオの通販番組](https://ja.wikipedia.org/wiki/Category:ラジオの通販番組 "wikilink") [Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:テレビ制作会社](https://ja.wikipedia.org/wiki/Category:テレビ制作会社 "wikilink") [Category:音楽出版](https://ja.wikipedia.org/wiki/Category:音楽出版 "wikilink")
-
-1.  当初は単発だったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から月曜日を担当し、番組終了の2007年9月まで続いた。
-2.  後にタイトルが「[喜瀬ひろしのこれは五つ星](../Page/喜瀬浩.md "wikilink")\!」に変わり、[2012年](../Page/2012年.md "wikilink")の番組終了まで毎月2回放送
-3.  当初は複数の販売会社が参加するポータルサイトだったが、後に自社販売専用に変更された
-4.  あき竹城降板に伴い[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")よりタイトルを「北海道 味の物産市\!」に変え、現在も放送中
-5.  後に[BS日テレ](../Page/BS日本.md "wikilink")「北海道すたいる」内でもコーナースタート

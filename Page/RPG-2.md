@@ -7,7 +7,7 @@
 
 ## 概要
 
-この[兵器](../Page/兵器.md "wikilink")は、モデルとなった[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[パンツァーファウスト250のように](https://ja.wikipedia.org/wiki/パンツァーファウスト#種類 "wikilink")、[無反動砲](../Page/無反動砲.md "wikilink")式に[対戦車擲弾](https://ja.wikipedia.org/wiki/対戦車擲弾 "wikilink")を発射するもので、後継である[RPG-7](../Page/RPG-7.md "wikilink")と異なり、[弾頭](../Page/弾頭.md "wikilink")後部と発射用推進薬の間にロケットチューブは内蔵されていない。このため、RPG-7に比べ有効射程は100mと短く、[弾道](../Page/弾道.md "wikilink")も弧を描き、特に移動目標への命中には熟練を要する。また、差し込まれた弾頭のストッパーが無いため、装填したRPG-2を前傾させると抜け落ちた弾頭が地面に落下し、[信管](../Page/信管.md "wikilink")が破損するといった事案が多く見られた（なお、[爆発](../Page/爆発.md "wikilink")したと言う話も良く聞くが、実際は信管の発射後[安全装置](../Page/安全装置.md "wikilink")（アーミング）により爆発はほとんど無かった）。
+この[兵器](../Page/兵器.md "wikilink")は、モデルとなった[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[パンツァーファウスト250のように](https://ja.wikipedia.org/wiki/パンツァーファウスト#種類 "wikilink")、[無反動砲](../Page/無反動砲.md "wikilink")式に[対戦車擲弾](https://ja.wikipedia.org/wiki/対戦車擲弾 "wikilink")を発射するもので、後継である[RPG-7](../Page/RPG-7.md "wikilink")と異なり、[弾頭](../Page/弾頭.md "wikilink")後部と発射用推進薬の間にロケットチューブは内蔵されていない。このため、RPG-7に比べ有効射程は100mと短く、[弾道](../Page/弾道.md "wikilink")も弧を描き、特に移動目標への命中には熟練を要する。また、差し込まれた弾頭のストッパーが無いため、装填したRPG-2を前傾させると抜け落ちた弾頭が地面に落下し、[信管](../Page/信管.md "wikilink")が破損するといった事案が多く見られた。なお、その際に[爆発](../Page/爆発.md "wikilink")したと言う話も良く聞くが、実際は信管の発射後[安全装置](../Page/安全装置.md "wikilink")（アーミング）により、射手の手元・足元での爆発事故はほとんど無かった。
 
 ## 運用
 

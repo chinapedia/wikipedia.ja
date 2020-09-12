@@ -1,7 +1,7 @@
 > この記事は[FCグロッセートSSD](https://ja.wikipedia.org/wiki/FCグロッセートSSD)から翻訳されています。
 
 
-**フットボール・クラブ・グロッセート・ソチェタ・スポルティーヴァ・ディレッタンティスティカ**（**Football Club Grosseto Società Sportiva Dilettantistica a r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[トスカーナ州](../Page/トスカーナ州.md "wikilink")[グロッセート](../Page/グロッセート.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2016-17シーズンは[セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネEに所属している。
+**フットボール・クラブ・グロッセート・ソチェタ・スポルティーヴァ・ディレッタンティスティカ**（**Football Club Grosseto Società Sportiva Dilettantistica a r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[トスカーナ州](../Page/トスカーナ州.md "wikilink")[グロッセート](../Page/グロッセート.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2020-21シーズンは[セリエC](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")
 
 ## 歴史
 
@@ -73,7 +73,7 @@
 
 <!-- end list -->
 
-  - ** : 2回**
+  - **[プロモツィオーネ](https://ja.wikipedia.org/wiki/プロモツィオーネ "wikilink") : 2回**
 
 <!-- end list -->
 

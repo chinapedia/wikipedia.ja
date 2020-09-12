@@ -61,93 +61,70 @@ ACRはまた、[モジュール](../Page/モジュール.md "wikilink")化して
 
 ### 映画
 
-:; 『[S.W.A.T.: Firefight](https://ja.wikipedia.org/wiki/:en:S.W.A.T.:_Firefight "wikilink")』
-
-:: 主人公のポール・カトラーがメインアームとして使用。
-
-:; 『[トランスフォーマー/ダークサイド・ムーン](https://ja.wikipedia.org/wiki/トランスフォーマー/ダークサイド・ムーン "wikilink")』
-
-  -
-
-      -
-        レノックスやその他のNEST隊員が使用する。
+  - 『[S.W.A.T.: Firefight](https://ja.wikipedia.org/wiki/:en:S.W.A.T.:_Firefight "wikilink")』
+    主人公のポール・カトラーがメインアームとして使用。
+  - 『[トランスフォーマー/ダークサイド・ムーン](https://ja.wikipedia.org/wiki/トランスフォーマー/ダークサイド・ムーン "wikilink")』
+    レノックスやその他のNEST隊員が使用する。
 
 ### 漫画・アニメ
 
-:; 『[緋弾のアリアAA](https://ja.wikipedia.org/wiki/緋弾のアリアAA "wikilink")』
-
-:: 火野ライカが使用。
-
-:; 『[ヨルムンガンド](../Page/ヨルムンガンド_\(漫画\).md "wikilink")』
-
-  -
-
-      -
-        物語中盤から[弾薬](../Page/弾薬.md "wikilink")を統一する目的でココの[部隊](../Page/部隊.md "wikilink")の制式銃となる。劇中ではレミントンACRではなくマグプルのMASADAと表記されている。
+  - 『[緋弾のアリアAA](https://ja.wikipedia.org/wiki/緋弾のアリアAA "wikilink")』
+    火野ライカが使用。
+  - 『[ヨルムンガンド](../Page/ヨルムンガンド_\(漫画\).md "wikilink")』
+    物語中盤から[弾薬](../Page/弾薬.md "wikilink")を統一する目的でココの[部隊](../Page/部隊.md "wikilink")の制式銃となる。劇中ではレミントンACRではなくマグプルのMASADAと表記されている。
 
 ### ゲーム
 
-:; 『[Crysis 2](https://ja.wikipedia.org/wiki/Crysis_2 "wikilink")』
+  - 『[Crysis 2](https://ja.wikipedia.org/wiki/Crysis_2 "wikilink")』
+    「Grendel」という名で[6.8×43mm SPC弾のものが登場](https://ja.wikipedia.org/wiki/6.8×43mm_SPC "wikilink")。
 
-:: 「Grendel」という名で[6.8×43mm SPC弾のものが登場](https://ja.wikipedia.org/wiki/6.8×43mm_SPC "wikilink")。
+  - 『[HOME FRONT](https://ja.wikipedia.org/wiki/HOME_FRONT_\(ゲーム\) "wikilink")』
+    『[MASSIVE ACTION GAME](https://ja.wikipedia.org/wiki/MASSIVE_ACTION_GAME "wikilink")』
+    [DLC第](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")4弾において「M31 CIR」の名称で追加された。
 
-:; 『[HOME FRONT](https://ja.wikipedia.org/wiki/HOME_FRONT_\(ゲーム\) "wikilink")』
+  - 『[Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")』
+    [ドットサイト付きで登場](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
 
-:; 『[MASSIVE ACTION GAME](https://ja.wikipedia.org/wiki/MASSIVE_ACTION_GAME "wikilink")』
+  - 『[ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")』
+    『[ゴーストリコンフューチャーソルジャー](../Page/ゴーストリコンシリーズ.md "wikilink")』
+    『[コール オブ デューティシリーズ](../Page/コール_オブ_デューティシリーズ.md "wikilink")』
 
-:: [DLC第](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")4弾において「M31 CIR」の名称で追加された。
+:; 『[CoD:MW2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア2 "wikilink")』
 
-:; 『[Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")』
+:: TF141のメインアームの1つとして[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用のレミントンACRが登場。本来登場の予定はなかったが、[レミントン社からの熱烈なマーケティングによって急遽登場が決定した](../Page/レミントン・アームズ.md "wikilink")。なお、プレイヤー視点からはレミントン社のロゴが目立つようにモデリングされている。
 
-:: [ドットサイト付きで登場](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
-
-:; 『[ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")』
-
-:; 『[ゴーストリコンフューチャーソルジャー](../Page/ゴーストリコンシリーズ.md "wikilink")』
-
-:; 『[コール オブ デューティシリーズ](../Page/コール_オブ_デューティシリーズ.md "wikilink")』
-
-::; 『[CoD:MW2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア2 "wikilink")』
-
-::: TF141のメインアームの1つとして[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")用のレミントンACRが登場。本来登場の予定はなかったが、[レミントン社からの熱烈なマーケティングによって急遽登場が決定した](../Page/レミントン・アームズ.md "wikilink")。なお、プレイヤー視点からはレミントン社のロゴが目立つようにモデリングされている。
-
-::; 『[CoD:MW3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア3 "wikilink")』
+:; 『[CoD:MW3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア3 "wikilink")』
 
   -
 
       -
         主人公ら[デルタフォース](../Page/デルタフォース.md "wikilink")が使用する。
 
-:; 『[サドンアタック](https://ja.wikipedia.org/wiki/サドンアタック "wikilink")』
+  - 『[サドンアタック](https://ja.wikipedia.org/wiki/サドンアタック "wikilink")』
+    色はデザートカラーになっている。
 
-:: 色はデザートカラーになっている。
+  - 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
 
-:; 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
+:; 『[BF3](https://ja.wikipedia.org/wiki/バトルフィールド3 "wikilink")』
 
-::; 『[BF3](https://ja.wikipedia.org/wiki/バトルフィールド3 "wikilink")』
+:: DLC「Close Quarters」にて、「ACW-R」の名称で実装。ハンドガードの短さが特徴。
 
-::: DLC「Close Quarters」にて、「ACW-R」の名称で実装。ハンドガードの短さが特徴。
+:; 『[BF4](https://ja.wikipedia.org/wiki/バトルフィールド4 "wikilink")』
 
-::; 『[BF4](https://ja.wikipedia.org/wiki/バトルフィールド4 "wikilink")』
+:: 全[兵科](../Page/兵科.md "wikilink")共通の[カービン](../Page/カービン.md "wikilink")ライフルとして『BF3』同様に「ACW-R」の名称で登場。
 
-::: 全[兵科](../Page/兵科.md "wikilink")共通の[カービン](../Page/カービン.md "wikilink")ライフルとして『BF3』同様に「ACW-R」の名称で登場。
-
-::; 『[BFH](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
-
-:; 『[BulletForce](https://ja.wikipedia.org/wiki/BulletForce "wikilink")』
-
-:: 「ACR」の名称で登場。
-
-:; 『[荒野行動](https://ja.wikipedia.org/wiki/荒野行動 "wikilink")』
-
-:: 「S-ACR」の名称で登場。
-
-:; 『mugnum3.0』
+:; 『[BFH](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
 
   -
 
-      -
-        「REMINGTON ARMS ACR」の名称で登場。
+  - 『[BulletForce](https://ja.wikipedia.org/wiki/BulletForce "wikilink")』
+    「ACR」の名称で登場。
+
+  - 『[荒野行動](https://ja.wikipedia.org/wiki/荒野行動 "wikilink")』
+    「S-ACR」の名称で登場。
+
+  - 『mugnum3.0』
+    「REMINGTON ARMS ACR」の名称で登場。
 
 ## 外部リンク
 

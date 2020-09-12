@@ -13,7 +13,7 @@
 
 2014年12月17日には『**LA-MULANA EX**』が[PlayStation Vita用ダウンロード専用ソフトとして発売された](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")（開発・販売 [ピグミースタジオ](https://ja.wikipedia.org/wiki/ピグミースタジオ "wikilink")）。モンスター図鑑の追加、トロフィーやリーダーボードにも対応。その他、新たなファンの獲得の為に、ピグミースタジオとNIGOROが共同で様々な部分を再チューニング。またイメージイラストは[寺田克也](../Page/寺田克也.md "wikilink")の描き下ろしイラストに一新した\[2\]\[3\]。
 
-2020年春には[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One版が発売予定](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")。Wiiウェア版をベースに『EX』でのチューニング内容も考慮されている\[4\]\[5\]。
+2020年8月6日には[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One版が発売予定](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")。Wiiウェア版をベースに『EX』でのチューニング内容も考慮されている\[4\]。また、Nintendo Switch向けに本作と『LA-MULANA 2』をセットにし、攻略本と6枚組サントラを同梱した初回限定版も発売予定\[5\]。
 
 ## ゲーム概要
 

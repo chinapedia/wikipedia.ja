@@ -21,7 +21,7 @@
 
 ## メンバー
 
-  - [源学](https://ja.wikipedia.org/wiki/源学 "wikilink") （[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[1967年](../Page/1967年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）
+  - [源学](https://ja.wikipedia.org/wiki/源学 "wikilink")(Gen) （[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[1967年](../Page/1967年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）
   - 尾方茂樹 （[ギター](../Page/ギタリスト.md "wikilink")）
   - 中村ゆういち （[ベース](../Page/ベーシスト.md "wikilink")、後に[ZEPPET STOREへ加入](../Page/ZEPPET_STORE.md "wikilink")）
   - 中島よしのぶ （[ドラム](../Page/ドラマー.md "wikilink")、現[人間椅子](https://ja.wikipedia.org/wiki/人間椅子_\(バンド\) "wikilink")）

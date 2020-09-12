@@ -63,7 +63,7 @@ YOU ARE THE ONE FEATURING IMAJIN
     <!-- end list -->
       - オリジナル『**[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")**』
           - 表記されていないが、ラップ入り（RAP詞：Jasper Cameron）のアルバムヴァージョンで収録。
-      - ベスト『**[LOVE ENHANCED {{Color](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink")**』(new vocal)
+      - ベスト『**[LOVE ENHANCED ♥ single collection](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_♥_single_collection "wikilink")**』(new vocal)
           - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を再レコーディング、サビでの英語コーラスがないバージョンで収録。
     <!-- end list -->
       - 映像作品

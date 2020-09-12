@@ -29,4 +29,4 @@
       -
         ※表題曲の「**×××(Kiss Kiss Kiss)**」は[WOWOW](../Page/WOWOW.md "wikilink")アニメ『[ああっ女神さまっ 小っちゃいって事は便利だねっ](https://ja.wikipedia.org/wiki/ああっ女神さまっ#ああっ女神さまっ_小っちゃいって事は便利だねっ "wikilink")』のED主題歌として使用された。
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink")

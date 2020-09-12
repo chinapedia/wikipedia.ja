@@ -35,6 +35,8 @@
 
 2020年、[新型コロナウイルスの感染拡大防止のため](../Page/2019新型コロナウイルス.md "wikilink")、政府の感染症対策本部の方針に鑑み、2月28日夜公演より、3月10日公演までの休演が発表された\[41\]。3月11日より公演が再開される予定だったが、15日までの延長\[42\]、さらに、政府の新たな自粛要請を鑑み、16日から19日までの休演が発表された\[43\]。20日よりサーモグラフィーの設置、劇場内の換気強化等の対策を講じ再開するとしていたが\[44\]、20日の公演は当日に急遽中止が発表され\[45\]、さらに政府の対策本部会合後の午後8時に21日から31日までの全公演の休演が発表された\[46\]。休演により3月31日（千秋楽）に予定されていた1800回記念公演は持ち越しとなった\[47\]。なお、3月21日に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて放送した](../Page/フジネットワーク.md "wikilink")『[緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")』にて、19日にショーを事前収録した上で披露した\[48\]\[49\]。その翌日の22日にはスタッフやキャストの意向で公式[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")による一部演目のライブ配信が\[50\]2時間以上にわたって帝国劇場で行われた\[51\]。帝国劇場でのライブ配信は1911年の開業以来史上初めてで、視聴者は6万人を超えて注目を集めた\[52\]。
 
+同年9月15日から10月12日に、スピンオフ公演として『Endless　SHOCK－Eternal－』が大阪・梅田芸術劇場で上演される\[53\]。客席を半分に抑え、フライング、階段落ち、殺陣を封印\[54\]。シリーズの通算上演回数には含まない\[55\]。
+
 ## MILLENNIUM SHOCK （2000年）
 
 読みは「ミレニアム・ショック」
@@ -160,14 +162,14 @@
 ### 公演期間
 
   - 2005年1月8日 - 2月28日（全76公演）
-  - 2006年2月6日 - 3月29日\[53\]（全76公演）
+  - 2006年2月6日 - 3月29日\[56\]（全76公演）
   - 2007年1月6日 - 2月28日（全81公演）
-  - 2008年1月6日 - 2月26日\[54\]（全76公演）
+  - 2008年1月6日 - 2月26日\[57\]（全76公演）
   - 2009年2月5日 - 3月30日（全76公演）
   - 2010年2月14日 ‐ 3月30日、7月4日 - 7月31日 (全100公演）※Endless SHOCKとしては初の夏期公演が行われた
   - 2011年2月5日 - 3月10日 (全48公演)
-  - 2012年1月7日 - 31日（[博多座](../Page/博多座.md "wikilink")）\[55\]（全34公演）※SHOCK史上初の地方公演
-  - 2012年2月7日 - 4月30日\[56\]（全105公演）
+  - 2012年1月7日 - 31日（[博多座](../Page/博多座.md "wikilink")）\[58\]（全34公演）※SHOCK史上初の地方公演
+  - 2012年2月7日 - 4月30日\[59\]（全105公演）
   - 2013年2月4日 - 3月31日（全76公演）
   - 2013年4月8日 - 30日（博多座）（全29公演）
   - 2013年9月2日 - 29日（[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")）（全35公演）※SHOCK初の大阪公演
@@ -181,10 +183,10 @@
   - 2017年2月1日 - 3月31日（全78公演）
   - 2017年9月8日 - 30日（梅田芸術劇場）（全30公演）
   - 2017年10月8日 - 31日（博多座）（全30公演）
-  - 2018年2月4日 - 3月31日（全70公演）\[57\]
-  - 2019年2月4日 - 3月31日（全70公演）\[58\]
-  - 2019年9月11日 - 10月5日（梅田芸術劇場）（全31公演）\[59\]
-  - 2020年2月4日 - 2月26日（全29公演）※新型コロナウイルス感染拡大防止のため2月28日、29日公演、および、3月の全公演が中止された\[60\]。
+  - 2018年2月4日 - 3月31日（全70公演）\[60\]
+  - 2019年2月4日 - 3月31日（全70公演）\[61\]
+  - 2019年9月11日 - 10月5日（梅田芸術劇場）（全31公演）\[62\]
+  - 2020年2月4日 - 2月26日（全29公演）※新型コロナウイルス感染拡大防止のため2月28日、29日公演、および、3月の全公演が中止された\[63\]。
 
 ### ストーリー
 
@@ -205,7 +207,7 @@
   - [戸塚祥太](../Page/戸塚祥太.md "wikilink")（A.B.C.）
   - [塚田僚一](https://ja.wikipedia.org/wiki/塚田僚一 "wikilink")（A.B.C.）
   - [河合郁人](../Page/河合郁人.md "wikilink")（A.B.C.）
-  - [高木雄也](../Page/高木雄也.md "wikilink")
+  - [髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")
   - [中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")
   - [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")
   - [石川直](../Page/石川直.md "wikilink")
@@ -299,9 +301,9 @@
 
 #### Endless SHOCK 2012
 
-  - [堂本光一](../Page/堂本光一.md "wikilink")\[61\]
-  - [内博貴](../Page/内博貴.md "wikilink")\[62\]
-  - [植草克秀](../Page/植草克秀.md "wikilink")（特別出演）\[63\]
+  - [堂本光一](../Page/堂本光一.md "wikilink")\[64\]
+  - [内博貴](../Page/内博貴.md "wikilink")\[65\]
+  - [植草克秀](../Page/植草克秀.md "wikilink")（特別出演）\[66\]
   - [神田沙也加](../Page/神田沙也加.md "wikilink")
   - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -345,7 +347,7 @@
 #### Endless SHOCK 15th Anniversary
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - マエダ ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")（9月18日夜公演まで。骨折により降板\[64\]）：オーナー
+  - マエダ ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")（9月18日夜公演まで。骨折により降板\[67\]）：オーナー
   - ウエクサ - [植草克秀](../Page/植草克秀.md "wikilink")（9月19日以降。前田降板による代役）：オーナー
   - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）：ライバル
   - ウチ - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）：ライバル
@@ -396,48 +398,52 @@
 
 #### Endless SHOCK 2018
 
-  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")\[65\]
-  - [久野綾希子](../Page/久野綾希子.md "wikilink")：オーナー\[66\]
-  - **ユウマ** - [中山優馬](../Page/中山優馬.md "wikilink")：ライバル\[67\]
-  - **リカ** - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")：ヒロイン\[68\]
-  - [福田悠太](../Page/福田悠太.md "wikilink")\[69\]
-  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[70\]
-  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[71\]
-  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")\[72\]
-  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[73\]
-  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[74\]
-  - [石川直](../Page/石川直.md "wikilink")\[75\]
+  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")\[68\]
+  - [久野綾希子](../Page/久野綾希子.md "wikilink")：オーナー\[69\]
+  - **ユウマ** - [中山優馬](../Page/中山優馬.md "wikilink")：ライバル\[70\]
+  - **リカ** - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")：ヒロイン\[71\]
+  - [福田悠太](../Page/福田悠太.md "wikilink")\[72\]
+  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[73\]
+  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[74\]
+  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")\[75\]
+  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[76\]
+  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[77\]
+  - [石川直](../Page/石川直.md "wikilink")\[78\]
 
 #### Endless SHOCK 2019
 
-  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")：主人公\[76\]
-  - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー\[77\]
-  - [内博貴](../Page/内博貴.md "wikilink")（東京公演）：ライバル\[78\]
-  - [中山優馬](../Page/中山優馬.md "wikilink")（大阪公演）：ライバル\[79\]
-  - [梅田彩佳](../Page/梅田彩佳.md "wikilink")：ヒロイン\[80\]
-  - [福田悠太](../Page/福田悠太.md "wikilink")\[81\]
-  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（東京公演）\[82\]
-  - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（大阪公演）\[83\]
-  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（大阪公演）\[84\]
-  - [川島如恵留](../Page/川島如恵留.md "wikilink")\[85\]
-  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[86\]
-  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[87\]
-  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")（東京公演）\[88\]
-  - [石川直](../Page/石川直.md "wikilink")\[89\]
+  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")：主人公\[79\]
+  - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー\[80\]
+  - [内博貴](../Page/内博貴.md "wikilink")（東京公演）：ライバル\[81\]
+  - [中山優馬](../Page/中山優馬.md "wikilink")（大阪公演）：ライバル\[82\]
+  - [梅田彩佳](../Page/梅田彩佳.md "wikilink")：ヒロイン\[83\]
+  - [福田悠太](../Page/福田悠太.md "wikilink")\[84\]
+  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（東京公演）\[85\]
+  - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（大阪公演）\[86\]
+  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（大阪公演）\[87\]
+  - [川島如恵留](../Page/川島如恵留.md "wikilink")\[88\]
+  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[89\]
+  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[90\]
+  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")（東京公演）\[91\]
+  - [石川直](../Page/石川直.md "wikilink")\[92\]
 
 #### Endless SHOCK 20th Anniversary
 
-  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")：主人公\[90\]
-  - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー\[91\]
-  - **タツヤ** - [上田竜也](../Page/上田竜也.md "wikilink")：ライバル\[92\]
-  - **リカ** - [梅田彩佳](../Page/梅田彩佳.md "wikilink")：ヒロイン。オーナーの娘。\[93\]
-  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[94\]
-  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[95\]
-  - 寺西拓人\[96\]
-  - [高田翔](../Page/高田翔.md "wikilink")\[97\]
-  - [椿泰我](../Page/椿泰我.md "wikilink")\[98\]
-  - 松井奏\[99\]
-  - [石川直](../Page/石川直.md "wikilink")\[100\]
+  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")：主人公\[93\]
+  - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー\[94\]
+  - **タツヤ** - [上田竜也](../Page/上田竜也.md "wikilink")：ライバル\[95\]
+  - **リカ** - [梅田彩佳](../Page/梅田彩佳.md "wikilink")：ヒロイン。オーナーの娘。\[96\]
+  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[97\]
+  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[98\]
+  - 寺西拓人\[99\]
+  - [高田翔](../Page/高田翔.md "wikilink")\[100\]
+  - [椿泰我](../Page/椿泰我.md "wikilink")\[101\]
+  - 松井奏\[102\]
+  - [石川直](../Page/石川直.md "wikilink")\[103\]
+
+## スピンオフ Endless SHOCK -Eternal- （2020年）
+
+  - 2020年9月15日 - 10月12日）（梅田芸術劇場）\[104\]
 
 ## 劇中劇
 
@@ -568,7 +574,7 @@
 
   - [帝国劇場『Endless SHOCK』](https://www.tohostage.com/shock/) - 東宝
 
-[Category:堂本光一](https://ja.wikipedia.org/wiki/Category:堂本光一 "wikilink") [Category:日本のミュージカル作品](https://ja.wikipedia.org/wiki/Category:日本のミュージカル作品 "wikilink") [Category:ジャニーズ事務所](https://ja.wikipedia.org/wiki/Category:ジャニーズ事務所 "wikilink") [Category:2000年代のミュージカル](https://ja.wikipedia.org/wiki/Category:2000年代のミュージカル "wikilink") [Category:2000年の舞台作品](https://ja.wikipedia.org/wiki/Category:2000年の舞台作品 "wikilink") [Category:演劇を題材とした作品](https://ja.wikipedia.org/wiki/Category:演劇を題材とした作品 "wikilink") [Category:ニューヨーク市を舞台とした舞台作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした舞台作品 "wikilink")
+[Category:堂本光一](https://ja.wikipedia.org/wiki/Category:堂本光一 "wikilink") [Category:日本のミュージカル作品](https://ja.wikipedia.org/wiki/Category:日本のミュージカル作品 "wikilink") [Category:ジャニーズ事務所](https://ja.wikipedia.org/wiki/Category:ジャニーズ事務所 "wikilink") [Category:2000年代のミュージカル](https://ja.wikipedia.org/wiki/Category:2000年代のミュージカル "wikilink") [Category:2000年の舞台作品](https://ja.wikipedia.org/wiki/Category:2000年の舞台作品 "wikilink") [Category:演劇を題材とした作品](https://ja.wikipedia.org/wiki/Category:演劇を題材とした作品 "wikilink") [Category:ニューヨーク市を舞台とした舞台作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした舞台作品 "wikilink") [Category:舞台芸術作品のシリーズ](https://ja.wikipedia.org/wiki/Category:舞台芸術作品のシリーズ "wikilink")
 
 1.
 2.
@@ -670,3 +676,7 @@
 98.
 99.
 100.
+101.
+102.
+103.
+104.

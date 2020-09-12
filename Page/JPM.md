@@ -3,7 +3,7 @@
 
 **JPM**（ジェイピーエム）は、[台湾の男性アイドルグループ](../Page/中華民国.md "wikilink")。
 
-バラエティ番組「[模範棒棒堂](https://ja.wikipedia.org/wiki/模範棒棒堂 "wikilink")」出身のアイドルユニット・バンバンタン（LOLLIPOP/棒棒堂）の元メンバー[廖俊傑](https://ja.wikipedia.org/wiki/廖俊傑 "wikilink")（小傑/ブライアン・リャオ）と邱勝翊（王子/プリンス・チウ）に、邱勝翊の弟・邱翊橙（毛弟/モーディー・チウ）を加えた3人組。2011年1月11日に結成。
+バラエティ番組「[模範棒棒堂](https://ja.wikipedia.org/wiki/模範棒棒堂 "wikilink")」出身のアイドルユニット・バンバンタン（LOLLIPOP/棒棒堂）の元メンバー[廖俊傑](https://ja.wikipedia.org/wiki/廖俊傑 "wikilink")（小傑/ブライアン・リャオ）と[邱勝翊](../Page/邱勝翊.md "wikilink")（王子/プリンス・チウ）に、邱勝翊の弟・邱翊橙（毛弟/モーディー・チウ）を加えた3人組。2011年1月11日に結成。
 
 [台湾索尼音楽娯楽と](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")[傳奇星娯楽股份有限公司](https://ja.wikipedia.org/wiki/傳奇星娯楽股份有限公司 "wikilink")所属。
 

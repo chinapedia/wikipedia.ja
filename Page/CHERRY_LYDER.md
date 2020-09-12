@@ -1,7 +1,7 @@
 > この記事は[CHERRY LYDER](https://ja.wikipedia.org/wiki/CHERRY_LYDER)から翻訳されています。
 
 
-**CHERRY LYDER** （ちぇりー らいだー）は、[1986年](../Page/1986年.md "wikilink")[宮崎県](../Page/宮崎県.md "wikilink")生まれの女性[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。
+**CHERRY LYDER** （ちぇりー らいだー）は、[1986年](../Page/1986年.md "wikilink")大阪府出身[宮崎県](../Page/宮崎県.md "wikilink")育ちの女性[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。本名は沖 千恵理(オキ チエリ)。
 
 ## 来歴
 

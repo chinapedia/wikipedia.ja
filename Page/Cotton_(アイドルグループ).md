@@ -119,7 +119,7 @@
 
   - [女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:モモコクラブ](https://ja.wikipedia.org/wiki/Category:モモコクラブ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:モモコクラブ](https://ja.wikipedia.org/wiki/Category:モモコクラブ "wikilink")
 
 1.  [『Momoco（学研）』1990年7月号（知誕Wiki）](http://www.tisen.jp/pukiwiki/?Momoco)
 2.  [全日本女優年鑑別館 Yuma Wiki（参考）](http://210.230.1.142/yujina/?%C1%B4%C6%FC%CB%DC%BD%F7%CD%A5%C7%AF%B4%D5%CA%CC%B4%DB%2FAudition%2F%A5%E2%A5%E2%A5%B3%A5%AF%A5%E9%A5%D6%2FCotton)

@@ -82,7 +82,13 @@ AML 60/90は、以下の[戦争](../Page/戦争.md "wikilink")や地域[紛争](
 
 ## 登場作品
 
-### 漫画・アニメ
+### 映画　
+
+  - 『[ジャッカルの日](https://ja.wikipedia.org/wiki/ジャッカルの日#映画 "wikilink")』
+    フランス陸軍所属のAML 60が登場。[パリ解放記念式典の](../Page/パリの解放.md "wikilink")[パレード](../Page/パレード.md "wikilink")に参加している。
+    作中では、実際のパレードに参加する実物を撮影した映像が映されている。
+
+### アニメ・漫画　
 
   - 『[KILLER APE（キラーエイプ）](https://ja.wikipedia.org/wiki/KILLER_APE（キラーエイプ） "wikilink")』
     主人公の坂本哲平の敵のWSECと[アルゼンチン軍](https://ja.wikipedia.org/wiki/アルゼンチン軍 "wikilink")の装備として登場。

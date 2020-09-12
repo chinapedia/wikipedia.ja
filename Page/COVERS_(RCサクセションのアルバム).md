@@ -108,7 +108,7 @@ RCは、『カバーズ』発売中止に対する怒りを込めたライヴ盤
 
 ## 外部リンク
 
-  - [COVERS【SHM-CD】](http://www.universal-music.co.jp/rc-succession/products/upcy-6510/) - [UNIVERSAL MUSIC](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+  - [COVERS【SHM-CD】](https://www.universal-music.co.jp/rc-succession/products/upcy-6510/) - [UNIVERSAL MUSIC](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 
 [Category:RCサクセションのアルバム](https://ja.wikipedia.org/wiki/Category:RCサクセションのアルバム "wikilink") [Category:1988年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1988年のカバー・アルバム "wikilink") [Category:キティレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キティレコードのアルバム "wikilink") [Category:1988年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:日本の原子力関連作品](https://ja.wikipedia.org/wiki/Category:日本の原子力関連作品 "wikilink") [Category:東芝の歴史](https://ja.wikipedia.org/wiki/Category:東芝の歴史 "wikilink")
 

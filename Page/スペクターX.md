@@ -24,4 +24,4 @@
   -
   -
   -
-[Category:1986年の映画](https://ja.wikipedia.org/wiki/Category:1986年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:スパイ映画](https://ja.wikipedia.org/wiki/Category:スパイ映画 "wikilink") [Category:テクノスリラー映画](https://ja.wikipedia.org/wiki/Category:テクノスリラー映画 "wikilink") [Category:ニュージーランドを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニュージーランドを舞台とした映画作品 "wikilink") [Category:リンゴ・ラムの監督映画](https://ja.wikipedia.org/wiki/Category:リンゴ・ラムの監督映画 "wikilink")
+[Category:1986年の映画](https://ja.wikipedia.org/wiki/Category:1986年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:スパイ映画](https://ja.wikipedia.org/wiki/Category:スパイ映画 "wikilink") [Category:テクノスリラー映画](https://ja.wikipedia.org/wiki/Category:テクノスリラー映画 "wikilink") [Category:ニュージーランドを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニュージーランドを舞台とした映画作品 "wikilink") [Category:ニュージーランドで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ニュージーランドで製作された映画作品 "wikilink") [Category:リンゴ・ラムの監督映画](https://ja.wikipedia.org/wiki/Category:リンゴ・ラムの監督映画 "wikilink")

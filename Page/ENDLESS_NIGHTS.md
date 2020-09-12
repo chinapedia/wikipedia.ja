@@ -25,12 +25,11 @@
 
 ## クレジット
 
-  - 『Back Streets of Tokyo』
   - OFF COURSE
-  - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") [KAZUMASA ODA](../Page/小田和正.md "wikilink")
-  - [Bass](../Page/ベース_\(弦楽器\).md "wikilink") [HITOSHI SHIMIZU](../Page/清水仁.md "wikilink")
-  - [Drums](../Page/ドラムセット.md "wikilink") & [Percussion](../Page/パーカッション.md "wikilink") [JIRO OMA](../Page/大間ジロー.md "wikilink")
-  - [Guitars](../Page/ギター.md "wikilink") & [Harmonica](../Page/ハーモニカ.md "wikilink") [KAZUHIKO MATSUO](../Page/松尾一彦.md "wikilink")
+  - [synthesizers](../Page/キーボード_\(楽器\).md "wikilink") [KAZUMASA ODA](../Page/小田和正.md "wikilink")
+  - [bass](../Page/ベース_\(弦楽器\).md "wikilink") [HITOSHI SHIMIZU](../Page/清水仁.md "wikilink")
+  - [drums](../Page/ドラムセット.md "wikilink") [JIRO OMA](../Page/大間ジロー.md "wikilink")
+  - [guitars](../Page/ギター.md "wikilink") & [harmonica](../Page/ハーモニカ.md "wikilink") [KAZUHIKO MATSUO](../Page/松尾一彦.md "wikilink")
   - Produced by [Bill Schnee](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink") and OFF COURSE
   - Arranged by Peter Wolf and OFF COURSE
   - Engineered by Bill Schnee, Shiro Kimura, Junji Matsumoto
@@ -47,9 +46,9 @@
   - Graphic Concept Hiroyuki Fukuzato
   - Designer Mika Ito
   - Illustrator Nobuyuki Tanaka + MANNA. Inc.
-  - Keyboards [Peter Wolf](https://ja.wikipedia.org/wiki/:en:Peter_Wolf_\(producer\) "wikilink")
-  - [Sax](../Page/サクソフォーン.md "wikilink") Jerry Peterson
-  - Background Vocals Tom Kelly, Tommy Funderburg
+  - synthesizers [Peter Wolf](https://ja.wikipedia.org/wiki/:en:Peter_Wolf_\(producer\) "wikilink")
+  - [saxophone](../Page/サクソフォーン.md "wikilink") Jerry Peterson
+  - backing vocals Tom Kelly, Tommy Funderburg
   - Special Thanks to
       - Philip. H. Rhodes (Interpreter.)
       - Nonaka Boeki Co., LTD. (importing [Ludwig](../Page/ラディック・ムッサー.md "wikilink") & [Zildjian](../Page/ジルジャン.md "wikilink"))

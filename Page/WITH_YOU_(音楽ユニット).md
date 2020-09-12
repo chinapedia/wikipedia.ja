@@ -72,16 +72,13 @@
 <!-- end list -->
 
   - 真冬の流れ星
+      - ベース：[小原礼](../Page/小原礼.md "wikilink")
+      - ドラム：[島村英二](../Page/島村英二.md "wikilink")
+      - ギター：[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
+      - キーボード：[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")
+      - シンセサイザープログラマー：[松武秀樹](../Page/松武秀樹.md "wikilink")
 
-:\*ベース：[小原礼](../Page/小原礼.md "wikilink")
-
-:\*ドラム：[島村英二](../Page/島村英二.md "wikilink")
-
-:\*ギター：[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
-
-:\*キーボード：[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")
-
-:\*シンセサイザープログラマー：[松武秀樹](../Page/松武秀樹.md "wikilink")
+<!-- end list -->
 
   - スタッフ
 

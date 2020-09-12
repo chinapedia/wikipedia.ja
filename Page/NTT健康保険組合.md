@@ -31,7 +31,7 @@
 
   - [山中湖](../Page/山中湖.md "wikilink")保養所「[パノラマイン山中湖](https://ja.wikipedia.org/wiki/パノラマイン山中湖 "wikilink")」 （[山梨県](../Page/山梨県.md "wikilink")）※2019年現在営業中
   - [志賀高原](../Page/志賀高原.md "wikilink")保養所「望雲閣」（[長野県](../Page/長野県.md "wikilink")）
-  - [諏訪](../Page/諏訪.md "wikilink")保養所「鵞湖荘」（[長野県](../Page/長野県.md "wikilink")）
+  - [諏訪保養所](../Page/諏訪地域.md "wikilink")「鵞湖荘」（[長野県](../Page/長野県.md "wikilink")）
   - [熱海保養所](../Page/熱海温泉.md "wikilink")「一碧荘」（[静岡県](../Page/静岡県.md "wikilink")）
   - [蒲郡保養所](../Page/蒲郡市.md "wikilink")「観海荘」（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")）
   - *[宇奈月保養所](../Page/宇奈月温泉.md "wikilink")「*越山荘」（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")）

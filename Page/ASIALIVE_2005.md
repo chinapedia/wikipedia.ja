@@ -200,7 +200,7 @@ DIVE TO BLUE<br />
 
 ## ライブビデオ
 
-『**ASIALIVE 2005**』（アジアライブ にせんご）は、日本のバンド、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/Ki/oon_Records "wikilink")。
+『**ASIALIVE 2005**』（アジアライブ にせんご）は、日本のバンド、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ### 解説
 

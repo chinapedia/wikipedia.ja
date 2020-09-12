@@ -25,9 +25,6 @@
 ### メインキャスター（司会）
 
   - [金澤聡](../Page/金澤聡.md "wikilink")（仙台放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
-
-<!-- end list -->
-
   - [西ノ入菜月](https://ja.wikipedia.org/wiki/西ノ入菜月 "wikilink") （仙台放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")） [2018年](../Page/2018年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から）2018年度入社。
 
 <!-- end list -->
@@ -241,7 +238,7 @@
 
 ## 休止
 
-  - [春の高校バレー](https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会 "wikilink")[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")大会・決勝が行われる日が[土曜](https://ja.wikipedia.org/wiki/土曜 "wikilink")の場合、人員・機材の関係で放送が休止となる。その際、前週のエンディングで金澤が『来週のスポルたん\!LIVEはお休みさせていただきます』と断りのコメントを入れる（理由説明なし）。代替番組は[フジテレビで同時間に放送されている](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[もしもツアーズ](../Page/もしもツアーズ.md "wikilink")』が同時ネットされるケースが多い。
+  - [春の高校バレー](https://ja.wikipedia.org/wiki/全日本バレーボール高等学校選手権大会 "wikilink")[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")大会・決勝が行われる日が[土曜の場合](../Page/土曜日.md "wikilink")、人員・機材の関係で放送が休止となる。その際、前週のエンディングで金澤が『来週のスポルたん\!LIVEはお休みさせていただきます』と断りのコメントを入れる（理由説明なし）。代替番組は[フジテレビで同時間に放送されている](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[もしもツアーズ](../Page/もしもツアーズ.md "wikilink")』が同時ネットされるケースが多い。
   - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の影響で、[3月12日](../Page/3月12日.md "wikilink")から[4月9日](../Page/4月9日.md "wikilink")までの5回分の放送を休止した。そのため、アシスタントMCであった[新海史子](https://ja.wikipedia.org/wiki/新海史子 "wikilink")の最後の出演予定日の放送も無くなり、降板のあいさつが出来なかった。また、新アシスタントMCである[渕上彩夏](https://ja.wikipedia.org/wiki/渕上彩夏 "wikilink")の最初の出演予定日の放送も無くなり、[2011年](../Page/2011年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")の放送再開日にあいさつをした。
 
 ※ プロ野球・Jリーグ各中継があった場合は通常通り放送、中継試合を当日中継解説者とともに振り返る。

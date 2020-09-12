@@ -1,15 +1,17 @@
 > この記事は[HBX爆薬](https://ja.wikipedia.org/wiki/HBX爆薬)から翻訳されています。
 
 
-**HBX爆薬**（HBXばくやく、High Blasting Explosive)とは[TNT](../Page/トリニトロトルエン.md "wikilink")、[ワックス](https://ja.wikipedia.org/wiki/ワックス "wikilink")、[アルミニウム](../Page/アルミニウム.md "wikilink")粉、[塩化カルシウム](../Page/塩化カルシウム.md "wikilink")などからなる[混合爆薬](https://ja.wikipedia.org/wiki/混合爆薬 "wikilink")である。現在では[PBX爆薬](../Page/PBX爆薬.md "wikilink")に置き換えられている。
+**HBX爆薬**（HBXばくやく、High Blasting Explosive)とは[TNT](../Page/トリニトロトルエン.md "wikilink")、[ワックス](https://ja.wikipedia.org/wiki/ワックス "wikilink")、[アルミニウム](../Page/アルミニウム.md "wikilink")粉、[塩化カルシウム](../Page/塩化カルシウム.md "wikilink")などからなる[混合爆薬](https://ja.wikipedia.org/wiki/混合爆薬 "wikilink")である。
 
 ## 概要
 
-[魚雷](../Page/魚雷.md "wikilink")、[爆雷](../Page/爆雷.md "wikilink")、[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")の炸薬として特に水中で威力を発揮するように[爆速](../Page/爆速.md "wikilink")よりも[猛度](https://ja.wikipedia.org/wiki/猛度 "wikilink")が大きくなるように作られている。[ヘス猛度試験](https://ja.wikipedia.org/wiki/ヘス猛度試験 "wikilink")ではTNTの160%の値が出る。これは、水中においては爆発そのものの衝撃波によって破壊するよりも、[バブルパルス](../Page/バブルパルス.md "wikilink")（水中で爆薬が爆発した場合に生成される衝撃波）によって圧壊させる方が艦船などに対する破壊効果が高くなるためである。そのため、逆に空気中での使用には不向きである。
+[魚雷](../Page/魚雷.md "wikilink")、[爆雷](../Page/爆雷.md "wikilink")、[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")の炸薬として特に水中で威力を発揮するように[爆速](../Page/爆速.md "wikilink")よりも[猛度](https://ja.wikipedia.org/wiki/猛度 "wikilink")が大きくなるように作られている。[ヘス猛度試験](https://ja.wikipedia.org/wiki/ヘス猛度試験 "wikilink")ではTNTの160%の値が出る。これは、水中においては爆発そのものの衝撃波によって破壊するよりも、[バブルパルス](../Page/バブルパルス.md "wikilink")（水中で爆薬が爆発した場合に生成される衝撃波）によって圧壊させる方が艦船などに対する破壊効果が高くなるためである。 そのため、逆に空気中での使用には不向きである。
 
 [1942年](../Page/1942年.md "wikilink")に作られた[トーペックス](https://ja.wikipedia.org/wiki/トーペックス "wikilink")（トルペックス）の改良品として1940年代にアメリカで開発された。第二次世界大戦では欧米の魚雷や爆雷に搭載されて使用された。
 
 正式には、イギリス王立兵器工廠の規格で作られたイギリス製がトーペックス（トルペックス）、[MIL規格](../Page/MIL規格.md "wikilink")：MIL-E-22267に従って作られたアメリカ製をHBX爆薬である。しかし、イギリス軍がアメリカから供与されたHBX爆薬をトーペックスと呼ぶなどしたこともあり、書籍や資料によってはトーペックス、トルペックス、HBX爆薬が混同されている。実際、HBX爆薬はイギリスで開発されたトーペックスのアメリカ版改良品であり、組成や使用目的も同じであるため、ほとんど同じ物であるとも言える。
+
+現在では[PBX爆薬](../Page/PBX爆薬.md "wikilink")に置き換えられている。
 
 ## 規格
 

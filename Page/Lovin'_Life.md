@@ -6,21 +6,9 @@
 ## 解説
 
   - 発売当初はチャートの順位が21位だったが、じわじわと順位を上げ6週目で初のTOP10入りを果たし、彼らの知名度を一気に上げた曲となった。
-
-<!-- end list -->
-
   - PVに[中嶋朋子](../Page/中嶋朋子.md "wikilink")が出演しており、ジャケットの写真にも出ている。また[窪田正孝](../Page/窪田正孝.md "wikilink")も男子生徒役で出演している。
-
-<!-- end list -->
-
   - [CD EXTRAとして](../Page/CD_EXTRA.md "wikilink")、「Lovin' Life」のPVが収録されている。
-
-<!-- end list -->
-
   - この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演した。
-
-<!-- end list -->
-
   - [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[脇谷亮太](https://ja.wikipedia.org/wiki/脇谷亮太 "wikilink")の2007年のテーマ曲だった（脇谷は2010年、2011年に「[夢](https://ja.wikipedia.org/wiki/涙/夢 "wikilink")」で再びFUNKY MONKEY BABYSを使用している）。
 
 ## 収録曲

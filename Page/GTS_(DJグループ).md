@@ -77,6 +77,6 @@ DJ GEEはマネージメント事務所[ARTIMAGE](../Page/ARTIMAGE.md "wikilink"
   - [GTS Official Web Site](http://www.artimage.co.jp/gts/)
   - [ARTIMAGE OFFICIAL WEBSITE](http://www.artimage.co.jp/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
 
 1.  1996年5月に[エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")から発売された[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[ハウスレボリューション](https://ja.wikipedia.org/wiki/SUPER_DANCE_FREAK "wikilink") Vol.45』にも収録されている。

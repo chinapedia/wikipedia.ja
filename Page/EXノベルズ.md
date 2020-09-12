@@ -96,4 +96,4 @@
 
   - [GAME BOOKS ONLINE](http://www.square-enix.co.jp/magazine/gamebooks/)
 
-[Category:スクウェア・エニックスの出版物](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスの出版物 "wikilink") [Category:ノベルズ](https://ja.wikipedia.org/wiki/Category:ノベルズ "wikilink") [Category:廃刊したライトノベル_(レーベル別)](https://ja.wikipedia.org/wiki/Category:廃刊したライトノベル_\(レーベル別\) "wikilink")
+[Category:スクウェア・エニックスの出版物](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスの出版物 "wikilink") [Category:ノベルズ](https://ja.wikipedia.org/wiki/Category:ノベルズ "wikilink") [Category:廃刊したライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:廃刊したライトノベルレーベル "wikilink") [Category:2000年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2000年刊行開始の刊行物 "wikilink") [Category:2005年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2005年刊行終了の刊行物 "wikilink")

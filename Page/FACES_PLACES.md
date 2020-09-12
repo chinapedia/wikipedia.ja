@@ -9,19 +9,19 @@
 
 小室哲哉が作曲した全楽曲の中で最もハイトーンな曲であり、KEIKOの限界声域を用いているため、本人も体調が万全な状態でなければ歌えないという。\[1\]
 
-小室がギターを弾いていたら「C-G-C-G」から「Bm-F\#m-Bm-F\#m」と鍵盤では絶対使わないコード進行に計算無しで自然に行き着いた\[2\]。
+小室がギターを弾いていたら「C-G-C-G」から「Bm-F\#m-Bm-F\#m」と鍵盤では絶対使わないコード進行に計算無しで自然に行き着いた\[2\]。\[3\]
 
-歌詞中に出てくる年号（[1970年](../Page/1970年.md "wikilink")、[1981年](../Page/1981年.md "wikilink")、[1984年](../Page/1984年.md "wikilink")、[1994年](../Page/1994年.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）について小室は2015年にTwitterで「全部僕の大事な年号」と発言している\[3\]。 その後インタビューで「大事な」理由を発言した\[4\]。
+歌詞中に出てくる年号（[1970年](../Page/1970年.md "wikilink")、[1981年](../Page/1981年.md "wikilink")、[1984年](../Page/1984年.md "wikilink")、[1994年](../Page/1994年.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）について小室は2015年にTwitterで「全部僕の大事な年号」と発言している\[4\]。 その後インタビューで「大事な」理由を発言した\[5\]。
 
   - 1970年-[大阪万博](../Page/日本万国博覧会.md "wikilink")（[冨田勲](../Page/冨田勲.md "wikilink")・[シンセサイザー](../Page/シンセサイザー.md "wikilink")・[マルチモニター](../Page/マルチモニター.md "wikilink")の存在を知る）。
-  - 1981年-[SPEEDWAY](../Page/SPEEDWAY.md "wikilink")\[5\]に加入。
+  - 1981年-[SPEEDWAY](../Page/SPEEDWAY.md "wikilink")\[6\]に加入。
   - 1984年-[TM NETWORKデビュー](../Page/TM_NETWORK.md "wikilink")。
   - 1994年-[TMN活動終了](../Page/TM_NETWORK.md "wikilink")。自分のプロデュースワークの始まり。
   - 1997年-精神的なスイッチングの年
 
 [1999年](../Page/1999年.md "wikilink")発売のリミックスアルバム『[FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")』収録のライブバージョンでは最後の年号を「In 1999」に置き換えた。[2005年](../Page/2005年.md "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")向けに配信された『iTunes Originals』では同様に「In 2005」と歌われており、[2015年](../Page/2015年.md "wikilink")の『[Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")』でもこのボーカルが用いられている。
 
-2016年には「MUSIC VIDEOドラマプロジェクト」で本曲をモチーフにしたMVドラマが制作され、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")が主演した\[6\]。
+2016年には「MUSIC VIDEOドラマプロジェクト」で本曲をモチーフにしたMVドラマが制作され、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")が主演した\[7\]。
 
 ## 収録曲
 
@@ -60,7 +60,8 @@
 
 1.
 2.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』1997年5月号110Pより。
-3.  [2015年5月27日14:26のツイート](https://twitter.com/Tetsuya_Komuro/status/603431966566817792) - Tetsuya Komuro(@Tetsuya_Komuro)
-4.  [小室哲哉、globe20周年の“真実”　過去の葛藤と「FACES PLACES」の意味を初告白　モデルプレスインタビュー](http://mdpr.jp/interview/detail/1509015)
-5.  当時[小室本人は](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")**SPEED**と呼んだことがあった。
-6.
+3.  2020.8.3 TK NEXT \#013 配信にて小室の最新作[Route 246が最初に転調することに通じるとして本作が挙げられた](https://ja.wikipedia.org/wiki/Route_246 "wikilink")。久保こーじ曰く、マリブの白いピアノで作っていたのをアコギでやるんだよね。もっと評価されなきゃいけない曲だと思うな。溝口和彦いわく、譜面に書くとすごくシンプル、何のテンションもないようにみえる。最初の４小節で転調してる。木村建いわく、あまりにも自然で当時転調していると思っていなかった、最近メロを弾く機会があってはじめて気がついた。サビがどこかわからない、二十何小節かの一塊で、ずっと展開し続けてる感じ。コードが弾ける人はぜひひとまわしやってみて最初に戻ったときの感動をやってほしい、同じところを繰り返してると思えない、ほんと不思議。とのこと。
+4.  [2015年5月27日14:26のツイート](https://twitter.com/Tetsuya_Komuro/status/603431966566817792) - Tetsuya Komuro(@Tetsuya_Komuro)
+5.  [小室哲哉、globe20周年の“真実”　過去の葛藤と「FACES PLACES」の意味を初告白　モデルプレスインタビュー](http://mdpr.jp/interview/detail/1509015)
+6.  当時[小室本人は](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")**SPEED**と呼んだことがあった。
+7.

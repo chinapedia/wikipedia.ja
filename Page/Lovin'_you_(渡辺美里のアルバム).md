@@ -1,7 +1,7 @@
 > この記事は[Lovin\' you \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Lovin\'_you_\(渡辺美里のアルバム\))から翻訳されています。
 
 
-『**Lovin' you**』（ラヴィン・ユー）は[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた渡辺美里の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
+『**Lovin' you**』（ラヴィン・ユー）は[1986年](../Page/1986年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 岡村靖幸、[TM NETWORKがコーラスで参加している](../Page/TM_NETWORK.md "wikilink")。「19才の秘かな欲望」は[岡村靖幸](../Page/岡村靖幸.md "wikilink")がアルバム『[DATE](../Page/DATE.md "wikilink")』にてセルフカバーしている。
 
-メインジャケットのデザインは[帽子](../Page/帽子.md "wikilink")をかぶった渡辺の横顔の写真。その帽子にはアルファベットがランダムに装飾されているが、「M」「B」「S」のみ目立つようなカラーで配置されている。これは当時、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で番組を担当していたことから、その番組スタッフへの感謝の気持ちを表したものだといわれている。
+メインジャケットのデザインは[帽子](../Page/帽子.md "wikilink")をかぶった渡辺の横顔の写真。その帽子にはアルファベットがランダムに装飾されているが、「M」「B」「S」のみ目立つようなカラーで配置されている。これは当時、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で番組『[ヤングタウン](../Page/MBSヤングタウン.md "wikilink")』を担当していたことから、その番組スタッフへの感謝の気持ちを表したものだといわれている。
 
 2016年11月30日に、同アルバム発売から30年を迎え、前年にリリースされた『eyes -30th Anniversary Edition-』に続き、最新技術のリマスタリングを施した『**Lovin' you -30th Anniversary Edition-**』と題して発売された\[2\]。
 

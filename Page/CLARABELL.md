@@ -18,7 +18,7 @@ AcidPlanet主催の[ビースティー・ボーイズ](https://ja.wikipedia.org/
 
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")
       -
-        「**Easy come, Easy go**」(配信Single / 2019)
+        「**Easy come, Easy go**」(洋服の青山 CMソング / 2019)
         「**Making Life\!**」(Album "E.G.11" / 2018) [UHA味覚糖](../Page/味覚糖.md "wikilink")「e-maのど飴」CMソング
         「**CANDY SMILE (New Version)**」(Album "E.G.11" / 2018)
         「**ごめんなさいのKissing You (New Version)**」(Album "E.G.11" / 2018)
@@ -83,10 +83,13 @@ AcidPlanet主催の[ビースティー・ボーイズ](https://ja.wikipedia.org/
   - [ARIA](../Page/ARIA_\(歌手\).md "wikilink")
       -
         「**Beautiful Life (CLARABELL ELEKTRO CRASH MIX)**」(CW / 2006年)
+  - [ukka](https://ja.wikipedia.org/wiki/ukka "wikilink")
+      -
+        「**Poppin’love\!\!\!**」(CW / 2020年)
 
 ### サウンドトラック
 
-  - 映画『[FASHION STORY -Model-](https://ja.wikipedia.org/wiki/FASHION_STORY_-Model- "wikilink")』（2012年11月公開）
+  - 本田翼 主演 映画『[FASHION STORY -Model-](https://ja.wikipedia.org/wiki/FASHION_STORY_-Model- "wikilink")』（2012年11月公開）
       -
         劇中歌「velvet」「prism」「haze」の作曲を担当。
 

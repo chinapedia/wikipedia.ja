@@ -65,7 +65,7 @@
   - [中村優](../Page/中村優.md "wikilink") (2009年)
   - [野川さくら](../Page/野川さくら.md "wikilink") (2007年〜2011年)
   - [Noria](../Page/Noria.md "wikilink") (2009年)
-  - [BACKDRAFT SMITHS](../Page/荒川優.md "wikilink") (2013年)
+  - [BACKDRAFT SMITHS](https://ja.wikipedia.org/wiki/BACKDRAFT_SMITHS "wikilink") (2013年)
   - [Hero Music All Stars](https://ja.wikipedia.org/wiki/情熱_〜We_are_Brothers〜 "wikilink") (2012年)
       - Hero Music All Stars Z (2013年)
   - [BeForU](../Page/BeForU.md "wikilink") (2007年)

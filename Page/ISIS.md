@@ -22,6 +22,7 @@
   - ミュージシャン
       - [イーシス](https://ja.wikipedia.org/wiki/イーシス "wikilink") （isis+）- 日本のストリートミュージシャン。
       - [アイシス (バンド)](https://ja.wikipedia.org/wiki/アイシス_\(バンド\) "wikilink") - アメリカのバンド。
+      - [ISIS](https://ja.wikipedia.org/wiki/ISIS_\(日本のバンド\) "wikilink")（日本のバンド） - 90年代に活動していた日本のロックバンド。
 
 ## 関連項目
 

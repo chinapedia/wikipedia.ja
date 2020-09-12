@@ -18,7 +18,7 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 北海道大学より [農学博士](https://ja.wikipedia.org/wiki/農学博士 "wikilink")。論文の題は「形質転換によるジャガイモ葉巻ウイルス抵抗性ジャガイモに関する研究 」\[2\]。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 標高2750mのネパール・ムスタン・ティニ村で世界最高地の稲作に成功。
   - [2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 特定非営利活動法人(NPO) ネパール・ムスタン地域開発協力会設立、現在、ムスタン・ガミ村（標高3600m）の高地に病院を建設。病院運営に邁進した。
-  - [2016年](../Page/2016年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - [肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")のため[東京都](../Page/東京都.md "wikilink")[青梅市](../Page/青梅市.md "wikilink")の病院で死去\[3\]。94歳没。[ムスタン](https://ja.wikipedia.org/wiki/ムスタン郡 "wikilink")・ガミ村の病院に分骨された[墓がある](https://ja.wikipedia.org/wiki/日本人墓地 "wikilink")\[4\]。
+  - [2016年](../Page/2016年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - [肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")のため[東京都](../Page/東京都.md "wikilink")[青梅市](../Page/青梅市.md "wikilink")の病院で死去\[3\]、94歳。[ムスタン](https://ja.wikipedia.org/wiki/ムスタン郡 "wikilink")・ガミ村の病院に分骨された[墓がある](https://ja.wikipedia.org/wiki/日本人墓地 "wikilink")\[4\]。
 
 ## 主な受賞歴
 

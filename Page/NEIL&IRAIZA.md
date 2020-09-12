@@ -434,7 +434,7 @@ ESC-009</p></td>
   - [キーボード・トリオの派生バンド](https://ja.wikipedia.org/wiki/キーボード・トリオの派生バンド "wikilink")
   - [裸の王様](https://ja.wikipedia.org/wiki/裸の王様_\(LOVE_PSYCHEDELICOの曲\) "wikilink")（[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")） - 収録曲の「This is a love song」は「This is not a love song」に対するアンサーソング
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink")
 
 1.  [松田chabe岳二インタビュー](http://kilikilivilla.com/post/145298166499/magazine-2016-06-02-%E6%9D%BE%E7%94%B0chabe%E5%B2%B3%E4%BA%8C%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC) Kilikilivilla (2016年6月2日)
 2.  [KONCOS, "FIVE IDLE RAINMANS" 9/21 Osaka & 10/11 Tokyo](http://www.niwrecords.com/news/2015/07/koncos-five-idle-rainmans-921-osaka-1011-tokyo.html) Niw\! Records (2015年7月10日)

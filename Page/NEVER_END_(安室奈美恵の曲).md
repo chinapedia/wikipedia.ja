@@ -28,10 +28,10 @@
 ## 収録アルバム
 
   - オリジナル『**[break the rules](https://ja.wikipedia.org/wiki/break_the_rules "wikilink")**』(Album Mix)
-  - ベスト『**[LOVE ENHANCED <span style="color:#ff0066">♥</span> single collection](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink")**』(new vocal)
+  - ベスト『**[LOVE ENHANCED ♥ single collection](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_♥_single_collection "wikilink")**』(new vocal)
       - 楽曲を[リアレンジ](../Page/編曲.md "wikilink")、再録して収録。
   - ベスト『**[Ballada](https://ja.wikipedia.org/wiki/Ballada "wikilink")**』
-      - 表記されていないが、「LOVE ENHANCED <span style="color:#ff0066">♥</span> single collection」収録のテイクを元に、大サビと最後のコーラス部分を、カットして収録。
+      - 表記されていないが、「LOVE ENHANCED ♥ single collection」収録のテイクを元に、大サビと最後のコーラス部分を、カットして収録。
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）
       - 楽曲を再録・ニューレコーディングで収録。
 

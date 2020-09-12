@@ -40,6 +40,7 @@
         [千手](https://ja.wikipedia.org/wiki/千手 "wikilink")：[野村総合研究所](../Page/野村総合研究所.md "wikilink")
         [OpenView](../Page/OpenView.md "wikilink")：[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")(HP)
         [Hinemos](https://ja.wikipedia.org/wiki/Hinemos "wikilink")：[NTTデータ](../Page/NTTデータ.md "wikilink")
+        [WebSAM](https://jpn.nec.com/websam/index.html)：[NEC](../Page/日本電気.md "wikilink")
 
 ## 脚注
 

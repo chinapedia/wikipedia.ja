@@ -44,7 +44,7 @@
 
 1.
 2.
-3.  [ANZENグループ概要](http://web.archive.org/web/20110621043439/http://www.anzentaxi.com/outline/index.htm) ANZENグループ株式会社 2011年6月19日閲覧（2011年6月21日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+3.  [ANZENグループ概要](https://web.archive.org/web/20110621043439/http://www.anzentaxi.com/outline/index.htm) ANZENグループ株式会社 2011年6月19日閲覧（2011年6月21日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 4.  [東京無線加盟の同盟交通社長も兼任していたが](../Page/東京無線協同組合.md "wikilink")、同社は国際自動車グループ加入時に経営分離され、境交通（[チェッカーキャブ](../Page/チェッカーキャブ無線.md "wikilink")）傘下となった。
 5.  全発行株数の約90％を保有していたとされる。
 6.  タクシーの再編が加速　『日本経済新聞』 2011年6月17日東京夕刊

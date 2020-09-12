@@ -7,7 +7,9 @@
 
 ## 解説
 
-アース・ウィンド・アンド・ファイアーのメンバーである[モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")とアル・マッケイおよびアリー・ウィリスの共作。アリーは、同バンドの[1979年](../Page/1979年.md "wikilink")のアルバム『[黙示録](../Page/黙示録_\(アルバム\).md "wikilink")』でもソングライターとして関わっている。オリジナル・アルバムには未収録で、ベスト・アルバム『ベスト・オブ・EW & F Vol.1』等に収録。アース・ウィンド・アンド・ファイアーを代表する楽曲として、また最も代表的な[ディスコソングの](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")1つとして世界的に知られている。[1999年](../Page/1999年.md "wikilink")には、[リミックス](../Page/リミックス.md "wikilink")・ヴァージョンの「セプテンバー'99」も発表された。
+アース・ウィンド・アンド・ファイアーのメンバーである[モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")とアル・マッケイおよびアリー・ウィリスの共作。アリーは、同バンドの[1979年](../Page/1979年.md "wikilink")のアルバム『[黙示録](../Page/黙示録_\(アルバム\).md "wikilink")』でもソングライターとして関わっている。歌詞は、12月の[クリスマス](../Page/クリスマス.md "wikilink")の時に9月のことを思い出す内容になっている。オリジナル・アルバムには未収録で、ベスト・アルバム『ベスト・オブ・EW & F Vol.1』等に収録。
+
+アース・ウィンド・アンド・ファイアーを代表する楽曲として、また最も代表的な[ディスコソングの](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")1つとして世界的に知られている。[1999年](../Page/1999年.md "wikilink")には、[リミックス](../Page/リミックス.md "wikilink")・ヴァージョンの「セプテンバー'99」も発表された。
 
 [2002年](../Page/2002年.md "wikilink")、日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[続・平成夫婦茶碗](../Page/平成夫婦茶碗.md "wikilink")』の主題歌に起用された。[2003年](../Page/2003年.md "wikilink")、[GAPの](../Page/ギャップ_\(企業\).md "wikilink")[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として使用された\[1\]。[2006年](../Page/2006年.md "wikilink")、アメリカ映画『[バベル](../Page/バベル_\(映画\).md "wikilink")』のサウンドトラックで使用された\[2\]。
 
@@ -51,7 +53,7 @@
 
 ## 脚注
 
-[Category:アース・ウィンド・アンド・ファイアーの楽曲](https://ja.wikipedia.org/wiki/Category:アース・ウィンド・アンド・ファイアーの楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:コロムビア・レコードのシングル](https://ja.wikipedia.org/wiki/Category:コロムビア・レコードのシングル "wikilink") [Category:Billboard_Hot_R\&B/ヒップホップ・ソングス1位獲得作品](https://ja.wikipedia.org/wiki/Category:Billboard_Hot_R&B/ヒップホップ・ソングス1位獲得作品 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
+[Category:アース・ウィンド・アンド・ファイアーの楽曲](https://ja.wikipedia.org/wiki/Category:アース・ウィンド・アンド・ファイアーの楽曲 "wikilink") [Category:12月を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:12月を題材とした楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:ディスコの楽曲](https://ja.wikipedia.org/wiki/Category:ディスコの楽曲 "wikilink") [Category:コロムビア・レコードのシングル](https://ja.wikipedia.org/wiki/Category:コロムビア・レコードのシングル "wikilink") [Category:Billboard_Hot_R\&B/ヒップホップ・ソングス1位獲得作品](https://ja.wikipedia.org/wiki/Category:Billboard_Hot_R&B/ヒップホップ・ソングス1位獲得作品 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
 
 1.  [CDJournal.com リサーチ](http://www.cdjournal.com/main/research/research.php?rno=850)
 2.  [Babel(2006)-Soundtracks-(IMDb)](http://www.imdb.com/title/tt0449467/soundtrack)

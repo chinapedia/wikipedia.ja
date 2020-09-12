@@ -37,7 +37,7 @@ Shockwave 3D向けのモデル形式としてW3D (Web 3D)形式 (.w3d) があり
 
 1.
 2.  [Macromedia Director 8.5 Shockwave Studio Now Available](https://www.awn.com/news/macromedia-director-85-shockwave-studio-now-available) Animation World Network 2001年4月25日
-3.  [Internet 3D Graphics Software](http://web.archive.org/web/20000817091330/http://www.intel.com/IAL/3d/index.htm) Intel
+3.  [Internet 3D Graphics Software](https://web.archive.org/web/20000817091330/http://www.intel.com/IAL/3d/index.htm) Intel
 4.  [ADOBE DIRECTOR BASICS (11.5)](https://help.adobe.com/archive/en_US/director/Beginners/director_11.5_help.pdf) P.11 Adobe 2014年3月24日
 5.  [Using ADOBE DIRECTOR 11.5](https://help.adobe.com/archive/en_US/director/UsingDirector/director_11.5_help.pdf) P.305-306 Adobe 2011年9月28日
 6.  『Special Edition Using Director 8.5』 P.750 Gary Rosenzweig 2001年11月13日 ISBN 978-0789726674

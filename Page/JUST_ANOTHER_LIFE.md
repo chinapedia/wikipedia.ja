@@ -1,30 +1,32 @@
 > この記事は[JUST ANOTHER LIFE](https://ja.wikipedia.org/wiki/JUST_ANOTHER_LIFE)から翻訳されています。
 
 
-『**JUST ANOTHER LIFE**』（ジャスト・アナザー・ライフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1991年](../Page/1991年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")にリリースした2作目の映像作品（2作目の[VHS](../Page/VHS.md "wikilink")・[LD](../Page/レーザーディスク.md "wikilink")）で、初のライブ・ビデオ。この作品は、後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスに移行している\[1\]。
+『**JUST ANOTHER LIFE**』（ジャスト・アナザー・ライフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が1991年12月11日にリリースした2作目の映像作品（2作目の[VHS](../Page/VHS.md "wikilink")・[LD](../Page/レーザーディスク.md "wikilink")）で、初のライブ・ビデオ。この作品は、後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスに移行している\[1\]。
 
 [ジャケットなどのB](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")'zロゴマークは、シングル『[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")』から『[裸足の女神](../Page/裸足の女神.md "wikilink")』まで使用された物であるが、実際は「Pleasure'91」の頃はまだデビューした頃から使用していた汎用タイプのロゴだった（映像でも確認可能）。
 
 なお、現在VHS・レーザーディスク共に製造中止になっており、[DVD](../Page/DVD.md "wikilink")・[Blu-ray Discでの再発売はされていない](../Page/Blu-ray_Disc.md "wikilink")。
 
-## メンバー
+## 概要
+
+初のアリーナ公演及びPleasureツアー\[2\]となった『B'z LIVE-GYM Pleasure'91』から[大阪城ホール](../Page/大阪城ホール.md "wikilink")と[日本武道館](../Page/日本武道館.md "wikilink")の模様を中心に収録され、[ヤマハリゾート合歓の郷でのリハーサルの模様を一部収録されている](https://ja.wikipedia.org/wiki/NEMU_RESORT "wikilink")。現在と大きく異なるデジタルサウンドを駆使したライブスタイルである。
+
+演奏曲には「[HOLY NIGHTにくちづけを](https://ja.wikipedia.org/wiki/RISKY_\(アルバム\)#収録曲 "wikilink")」「[STARDUST TRAIN](https://ja.wikipedia.org/wiki/BREAK_THROUGH#収録曲 "wikilink")」「[ROSY](https://ja.wikipedia.org/wiki/OFF_THE_LOCK#収録曲 "wikilink")」「[Nothing To Change](https://ja.wikipedia.org/wiki/B'z_\(1988年のアルバム\)#収録曲 "wikilink")」「[君の中で踊りたい](../Page/君の中で踊りたい.md "wikilink")」「[BE THERE](../Page/BE_THERE.md "wikilink")」もあったが、本作には未収録となった。
+
+タイトルは同時期に発売されたアルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』をもじったもの。
+
+## 演奏
+
+### メンバー
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")・[プロデュース](../Page/音楽プロデューサー.md "wikilink")
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
 
-## サポートメンバー
+### サポートメンバー
 
   - [明石昌夫](../Page/明石昌夫.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[マニピュレート](../Page/マニピュレーター.md "wikilink")
   - [広本葉子](https://ja.wikipedia.org/wiki/広本葉子 "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
-
-## 内容
-
-初のアリーナ公演及びPleasureツアー\[2\]となった「B'z LIVE-GYM Pleasure'91」から[大阪城ホール](../Page/大阪城ホール.md "wikilink")と[日本武道館](../Page/日本武道館.md "wikilink")の模様を中心に収録され、[ヤマハリゾート合歓の郷でのリハーサルの模様を一部収録されている](https://ja.wikipedia.org/wiki/NEMU_RESORT "wikilink")。現在と大きく異なるデジタルサウンドを駆使したライブスタイルである。
-
-演奏曲には「[HOLY NIGHTにくちづけを](../Page/RISKY_\(アルバム\).md "wikilink")」「[STARDUST TRAIN](../Page/BREAK_THROUGH.md "wikilink")」「[ROSY](../Page/OFF_THE_LOCK.md "wikilink")」「[Nothing To Change](../Page/B'z_\(1988年のアルバム\).md "wikilink")」「[君の中で踊りたい](../Page/君の中で踊りたい.md "wikilink")」「[BE THERE](../Page/BE_THERE.md "wikilink")」もあったが、本作には未収録となった。
-
-タイトルは同時期に発売されたアルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』をもじったもの。
 
 ## 収録映像曲
 
@@ -35,7 +37,7 @@
       -
         日本語詞ではあるが、『[MARS](../Page/MARS_\(B'zのアルバム\).md "wikilink")』に収録の英語バージョン「LADY NAVIGATION 〜Cookie & Car Stereo Style〜」のアレンジに近いものとなっている。
         ライブとドキュメントシーン交互に切り替わる。オープニングでは稲葉がツアータイトルが書かれた紙を破って登場していたが、その場面はカットされている。
-3.  **[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")**
+3.  **[BAD COMMUNICATION](https://ja.wikipedia.org/wiki/BAD_COMMUNICATION#収録曲 "wikilink")**
       -
         2番からのショートバージョン。電子ドラムなどにより原曲に限りなく近いアレンジとなっている。
 4.  **[Loving All Night 〜Octopus Style〜](https://ja.wikipedia.org/wiki/MARS_\(B'zのアルバム\)#収録曲 "wikilink")**
@@ -59,7 +61,7 @@
 9.  **[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")**
       -
         ここからは完全にライブ映像だけとなる。
-        当時のライブの起爆剤となっていた曲。[2013年](../Page/2013年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")発売『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤DVD、2017年に発売された『B'z COMPLETE SINGLE BOX』の特典DVDに収録。
+        当時のライブの起爆剤となっていた曲。2013年6月12日発売『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤DVD、2017年に発売された『B'z COMPLETE SINGLE BOX』の特典DVDに収録。
 10. **[孤独のRunaway](https://ja.wikipedia.org/wiki/MARS_\(B'zのアルバム\)#収録曲 "wikilink")**
       -
         前曲から続けての披露。

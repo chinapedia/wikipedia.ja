@@ -56,7 +56,7 @@
 | 自遊空間CMソング                                                                                                                        |            |                                                                               |
 | M-4                                                                                                                              | エレクトロワールド  | 携帯音楽プレイヤー「サウンドキャリアneo・ストリート篇」CMソング                                            |
 | M-11                                                                                                                             | Perfume    | [関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")「南パラZ\!」オープニングテーマ      |
-| [CBCラジオ](../Page/CBCラジオ.md "wikilink")「[Perfumeのパンパカパーティー](https://ja.wikipedia.org/wiki/Perfumeのパンパカパーティー "wikilink")」オープニングテーマ |            |                                                                               |
+| [CBCラジオ](../Page/CBCラジオ.md "wikilink")「[Perfumeのパンパカパーティー](https://ja.wikipedia.org/wiki/Perfumeのパンパカパーティー "wikilink")」オープニングテーマ |            | [ニコニコ動画流星群](https://ja.wikipedia.org/wiki/ニコニコ動画流星群 "wikilink")の一部            |
 
 ## 脚注
 

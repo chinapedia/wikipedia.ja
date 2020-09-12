@@ -31,6 +31,26 @@
   - 安川刑事：[大鷹明良](https://ja.wikipedia.org/wiki/大鷹明良 "wikilink")
   - 藤原本部長：[大杉漣](../Page/大杉漣.md "wikilink")
   - 精神科医：[河東燈士](https://ja.wikipedia.org/wiki/河東燈士 "wikilink")
+  - [中山俊](https://ja.wikipedia.org/wiki/中山俊 "wikilink")、[鈴木省吾](../Page/鈴木省吾.md "wikilink")、[諏訪太朗](../Page/諏訪太朗.md "wikilink")、[掛田誠](https://ja.wikipedia.org/wiki/掛田誠 "wikilink")、[田村泰二郎](https://ja.wikipedia.org/wiki/田村泰二郎 "wikilink")、[三上剛史](https://ja.wikipedia.org/wiki/三上剛史 "wikilink")、[冨樫真](../Page/冨樫真.md "wikilink")、[田中哲司](../Page/田中哲司.md "wikilink")　ほか
+
+## スタッフ
+
+  - 監督・脚本：[黒沢清](../Page/黒沢清.md "wikilink")
+  - 音楽：[ゲイリー芦屋](../Page/ゲイリー芦屋.md "wikilink")
+  - 撮影：[喜久村徳章](https://ja.wikipedia.org/wiki/喜久村徳章 "wikilink")
+  - 編集：[鈴木歓](https://ja.wikipedia.org/wiki/鈴木歓 "wikilink")
+  - 照明：金沢正夫
+  - 美術：丸尾知行
+  - 録音：郡弘道
+  - 助監督：[吉村達矢](https://ja.wikipedia.org/wiki/吉村達矢 "wikilink")
+  - 特殊造型：[松井祐一](../Page/松井祐一.md "wikilink")
+  - MA：[映広](../Page/映広.md "wikilink")、[アオイスタジオ](../Page/アオイスタジオ.md "wikilink")
+  - 現像：[東京現像所](../Page/東京現像所.md "wikilink")
+  - プロデューサー：土川勉、下田淳行
+  - 企画：池田哲也、神野智
+  - 製作者：加藤博之
+  - 製作協力：ツインズ
+  - 製作：大映
 
 ## 関連商品
 
@@ -53,7 +73,7 @@
   -
   -
   -
-[Category:1997年の映画](https://ja.wikipedia.org/wiki/Category:1997年の映画 "wikilink") [Category:日本のホラー映画](https://ja.wikipedia.org/wiki/Category:日本のホラー映画 "wikilink") [Category:日本のサイコスリラー映画](https://ja.wikipedia.org/wiki/Category:日本のサイコスリラー映画 "wikilink") [Category:日本のサスペンス映画](https://ja.wikipedia.org/wiki/Category:日本のサスペンス映画 "wikilink") [Category:黒沢清の監督映画](https://ja.wikipedia.org/wiki/Category:黒沢清の監督映画 "wikilink") [Category:日本の刑事映画](https://ja.wikipedia.org/wiki/Category:日本の刑事映画 "wikilink") [Category:シリアルキラーを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:シリアルキラーを題材とした映画作品 "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink")
+[Category:1997年の映画](https://ja.wikipedia.org/wiki/Category:1997年の映画 "wikilink") [Category:日本のホラー映画](https://ja.wikipedia.org/wiki/Category:日本のホラー映画 "wikilink") [Category:日本のサイコスリラー映画](https://ja.wikipedia.org/wiki/Category:日本のサイコスリラー映画 "wikilink") [Category:日本のサスペンス映画](https://ja.wikipedia.org/wiki/Category:日本のサスペンス映画 "wikilink") [Category:黒沢清の監督映画](https://ja.wikipedia.org/wiki/Category:黒沢清の監督映画 "wikilink") [Category:日本の刑事映画](https://ja.wikipedia.org/wiki/Category:日本の刑事映画 "wikilink") [Category:シリアルキラーを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:シリアルキラーを題材とした映画作品 "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:大映製作の映画作品](https://ja.wikipedia.org/wiki/Category:大映製作の映画作品 "wikilink")
 
 1.
 2.  近藤康太郎はこの作品が[夢野久作](../Page/夢野久作.md "wikilink")の『[ドグラ・マグラ](../Page/ドグラ・マグラ.md "wikilink")』と似ていると指摘している（[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")2014年7月19日be）。

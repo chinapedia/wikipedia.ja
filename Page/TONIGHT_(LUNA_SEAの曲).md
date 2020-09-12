@@ -25,17 +25,18 @@
 
 ## 収録アルバム
 
-＃1
-
-  - [LUNACY](../Page/LUNACY.md "wikilink")　(2000.07.12･MVCH-29047)
-  - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink") （2000.12.23･UUCH-1012）
-  - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
-  - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
-  - NEVER SOLD OUT 2 （2014.5.28、UPCH-1980/1）
-
-＃2、3
-
-  - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink") （2002.3.6･UUCH-1045）
+  - **TONIGHT**
+      - [LUNACY](../Page/LUNACY.md "wikilink")　
+      - [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")
+      - [LUNA SEA COMPLETE BEST](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink")
+      - [LUNA SEA COMPLETE BEST -ASIA LIMITED EDITION-](https://ja.wikipedia.org/wiki/LUNA_SEA_COMPLETE_BEST "wikilink")
+      - [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")
+      - [NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")
+  - **be gone**
+      - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink")
+  - **be in agony**
+      - [another side of SINGLES II](https://ja.wikipedia.org/wiki/another_side_of_SINGLES_II "wikilink")
 
 ## 脚注
 

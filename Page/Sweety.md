@@ -9,8 +9,8 @@
 
 ## メンバー
 
-  - [劉品言](https://ja.wikipedia.org/wiki/劉品言 "wikilink")（言言, Esther，[1988年](../Page/1988年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")–）
-  - [曾之喬](https://ja.wikipedia.org/wiki/曾之喬 "wikilink")（喬喬, Joanne，[1988年](../Page/1988年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")–）
+  - 劉品言（言言, Esther，[1988年](../Page/1988年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")–）
+  - 曾之喬（喬喬, Joanne，[1988年](../Page/1988年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")–）
 
 ## 音楽作品
 

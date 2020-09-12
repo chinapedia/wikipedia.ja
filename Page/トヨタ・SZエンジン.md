@@ -9,7 +9,7 @@
 
 このうち、1SZ-FEは[インターナショナル・エンジン・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/:en:International_Engine_of_the_Year "wikilink")1999を受賞している。
 
-なお、[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）9月現在では、ダイハツ名義で開発された3SZ-VEのみが製造されている。
+なお、[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）9月現在の時点において、ダイハツ名義で開発された3SZ-VEのみが製造されていたが、2020年6月にグランマックスとそのOEMのタウンエースの各マイナーチェンジに伴い、搭載エンジンが3SZ-VEからその後継にあたる[2NR-VEに変更されたのに伴い](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン#2NR-VE "wikilink")、名実共にSZエンジンは製造終了となり、登場から**21年6か月**の歴史に幕を下ろすこととなった。
 
 ## 系譜
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [FA型](https://ja.wikipedia.org/wiki/ダイハツ・FAエンジン "wikilink")（[1962年](../Page/1962年.md "wikilink")） - [HE型](https://ja.wikipedia.org/wiki/ダイハツ・HEエンジン "wikilink")（[1993年](../Page/1993年.md "wikilink")） - 3SZ型（[2005年](../Page/2005年.md "wikilink")）
+  - [FA型](https://ja.wikipedia.org/wiki/ダイハツ・FAエンジン "wikilink")（[1962年](../Page/1962年.md "wikilink")） - [HE型](https://ja.wikipedia.org/wiki/ダイハツ・HEエンジン "wikilink")（[1993年](../Page/1993年.md "wikilink")） - 3SZ-VE型（[2005年](../Page/2005年.md "wikilink")） - [2NR-VE型](https://ja.wikipedia.org/wiki/トヨタ・NRエンジン#2NR-VE "wikilink")（[2015年](../Page/2015年.md "wikilink")）
 
 
 
@@ -108,13 +108,13 @@
 厳密にはトヨタ名義ではなくダイハツ名義のエンジンであるため、型式名の-（ハイフン）後の記号が[トヨタ式ではなくダイハツ式の表記になっている](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則#例外 "wikilink")。搭載するトヨタ車も、1SZ-FEや2SZ-FEと異なり、ダイハツからの[OEM供給車種](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")、もしくは主な開発作業と生産をダイハツに委託した車種に限られている。構造的にも[ダイハツ・K3型エンジン](../Page/ダイハツ・K3型エンジン.md "wikilink")の行程拡大版という性格の機種であり、K3型同様フロントへの[縦置きや](../Page/縦置きエンジン.md "wikilink")[キャブオーバー](../Page/キャブオーバー.md "wikilink")型車への搭載にも対応している。
 
   - 搭載車種（車両型式）
-      - [ラッシュ](../Page/トヨタ・ラッシュ.md "wikilink")（J200E/J210E/F800RE/850RE）
+      - [ラッシュ](../Page/トヨタ・ラッシュ.md "wikilink")（J200E/J210E/F700RE/F710RE）
       - 2代目[bB](../Page/トヨタ・bB.md "wikilink")（QNC21）
       - [ビーゴ](../Page/ダイハツ・ビーゴ.md "wikilink")（J200G/J210G）
-      - [テリオス](../Page/ダイハツ・テリオス.md "wikilink")（J200RG/210RG/F700RG/800RG/850RE）
+      - [テリオス](../Page/ダイハツ・テリオス.md "wikilink")（J200RG/210RG/F700RG/F710RG）
       - [クー](https://ja.wikipedia.org/wiki/ダイハツ・クー "wikilink")（M402S）
       - [ルクシオ](https://ja.wikipedia.org/wiki/ダイハツ・ルクシオ "wikilink")（S402RG）
-      - [グランマックス](https://ja.wikipedia.org/wiki/ダイハツ・グランマックス "wikilink")（S401RP/401RV）
+      - [グランマックス](https://ja.wikipedia.org/wiki/ダイハツ・グランマックス "wikilink")（S402RP/402RV）
       - [タウンエース](../Page/トヨタ・タウンエース.md "wikilink")（S402P/402V/412P/412V）
       - [ライトエース](../Page/トヨタ・ライトエース.md "wikilink")（S402P/402V/412P/412V）
       - [パッソセッテ](https://ja.wikipedia.org/wiki/トヨタ・パッソセッテ "wikilink")（M502E/M512E）

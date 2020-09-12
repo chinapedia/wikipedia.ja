@@ -7,8 +7,6 @@
 
 反響の大きさから、[キネマ旬報社](../Page/キネマ旬報社.md "wikilink")の配給により全国4ヵ所で劇場公開された。[新宿武蔵野館](../Page/新宿武蔵野館.md "wikilink")の[10月5日](../Page/10月5日.md "wikilink")を皮切りに、[11月9日](../Page/11月9日.md "wikilink")に[動物園前シネフェスタ](../Page/フェスティバルゲート.md "wikilink")、[11月30日](../Page/11月30日.md "wikilink")に[名古屋ピカデリー4](https://ja.wikipedia.org/wiki/中日本興業 "wikilink")・[札幌ディノスシネマで公開された](https://ja.wikipedia.org/wiki/ゲオディノス "wikilink")。劇場公開版には未放送のシーンが追加され、121分になっている。同年[9月17日](../Page/9月17日.md "wikilink")から、渋谷[ハチ公前の大型ビジョンで](../Page/忠犬ハチ公.md "wikilink")15分間のダイジェスト・ビデオが放映されていた。[2003年](../Page/2003年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")が発売されている。
 
-## あらすじ
-
 ## キャスト
 
   - [藤原竜也](../Page/藤原竜也.md "wikilink") - 栄二

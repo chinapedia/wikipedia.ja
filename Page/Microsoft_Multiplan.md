@@ -1,7 +1,7 @@
 > この記事は[Microsoft Multiplan](https://ja.wikipedia.org/wiki/Microsoft_Multiplan)から翻訳されています。
 
 
-**Microsoft Multiplan**（マイクロソフト マルチプラン）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した初期の[表計算ソフト](../Page/表計算ソフト.md "wikilink")の名称である。
+**Microsoft Multiplan**（マイクロソフト マルチプラン）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した初期の[表計算ソフト](../Page/表計算ソフト.md "wikilink")の名称である。[Microsoft Excelの前身](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")。
 
 ## 概要
 
@@ -35,7 +35,7 @@ VisiCalcやLotus 1-2-3では“/”（スラッシュ）を押すことによっ
 
 Macintosh版は初代機（[Macintosh 128K](https://ja.wikipedia.org/wiki/Macintosh_128K "wikilink")）の発売日1984年1月24日と同時に出荷された\[6\]、サードパーティー製としては唯一のアプリケーションソフトウェアであった（プログラミング言語である[Microsoft BASICも同時出荷](../Page/Microsoft_BASIC.md "wikilink")）。アップルよりMacintoshの開発段階から移植を依頼され、発売前から開発環境が整えられていた為にそれが可能だった。基本となる部分のプログラムはコンバーターを通して変換でき、また当初よりマウス操作を考慮したデザインであったことからGUI対応も容易であった。アップルおよびロータス・デベロップメントが力を入れていた[Lotus Jazzは市場に受け入れられず](https://ja.wikipedia.org/wiki/Lotus_Jazz "wikilink")、初期のMacintosh市場においてはMultiplanが標準的な表計算ソフトの地位を確保した。
 
-しかし、マイクロソフトにおいては、最重要拠点である北米市場において[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となったIBM PC/ATおよびその互換機市場で1-2-3との競争に敗れたことを問題視していた。マイクロソフトは、後にGUIに特化した表計算ソフトとしてMicrosoft Excelを生み出すこととなった（Macintosh版は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）。
+しかし、マイクロソフトにおいては、最重要拠点である北米市場において[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となったIBM PC/ATおよびその互換機市場で1-2-3との競争に敗れたことを問題視していた。マイクロソフトは、後にGUIに特化した表計算ソフトとして[Microsoft Excelを生み出すこととなった](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（Macintosh版は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）。
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Multiplan.jpg "wikilink")。[表計算ソフト](../Page/表計算ソフト.md "wikilink")を意味する語として現在一般的な“Spreadsheet”（スプレッドシート）ではなく、“Electronic Worksheet Program”と記載されている。\]\]
 

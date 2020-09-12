@@ -1,7 +1,7 @@
 > この記事は[WiiConnect24](https://ja.wikipedia.org/wiki/WiiConnect24)から翻訳されています。
 
 
-**WiiConnect24**（ウィー コネクト-）とは、[任天堂](../Page/任天堂.md "wikilink")の[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けのネットワークサービスであった。[2013年](../Page/2013年.md "wikilink")（平成25年）[6月28日](../Page/6月28日.md "wikilink")に、サービスを終了した。
+**WiiConnect24**（ウィー コネクト24）とは、[任天堂](../Page/任天堂.md "wikilink")の[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けのネットワークサービスであった。[2013年](../Page/2013年.md "wikilink")（平成25年）[6月28日](../Page/6月28日.md "wikilink")に、サービスを終了した。
 
 ## 概要
 

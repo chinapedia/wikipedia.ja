@@ -1,23 +1,23 @@
 > この記事は[ミュウ \(AV女優\)](https://ja.wikipedia.org/wiki/ミュウ_\(AV女優\))から翻訳されています。
 
 
-**ミュウ** (みゅう、女性、[1977年](../Page/1977年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ) \[1\]は、主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動する実業家、[AV女優](../Page/AV女優.md "wikilink")（企画単体女優）、[AV監督](../Page/AV監督.md "wikilink")、元[ストリッパーである](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。
+**ミュウ** (みゅう、女性、[1977年](../Page/1977年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ) \[1\]は、主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動する実業家、元[AV女優](../Page/AV女優.md "wikilink")（企画単体女優）\[2\]、[AV監督](../Page/AV監督.md "wikilink")、元[ストリッパーである](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。
 
 ## 来歴
 
   - [2001年](../Page/2001年.md "wikilink")、AVデビュー。
   - [2005年](../Page/2005年.md "wikilink")10月、『素人女性がレズAV女優に？』で監督デビューを果たした。
   - [2007年](../Page/2007年.md "wikilink")3月、株式会社オフィスミュウ設立
-  - [2015年](../Page/2015年.md "wikilink")3月、モデルプロダクション・GREEN (合同会社ヴィータ)設立。共同代表。のちにCEO\[2\]。
-  - [2018年](../Page/2018年.md "wikilink")現在、東京都豊島区にある「池袋駅前ライフクリニック」にて広報を担当している。
+  - [2015年](../Page/2015年.md "wikilink")3月、モデルプロダクション・GREEN (合同会社ヴィータ)設立。共同代表。のちにCEO\[3\]。
+  - [2018年](../Page/2018年.md "wikilink")現在、東京都豊島区にある「池袋駅前ライフクリニック」にて広報を担当している\[4\]。
 
 ## 人物
 
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
-  - [株式会社Hustler](https://ja.wikipedia.org/wiki/ハスラー_\(芸能事務所\) "wikilink")（ハスラー）の「代表」\[3\]。
-  - [国立大学](../Page/国立大学.md "wikilink")を卒業後、一部上場企業に就職。二年後に退職。その後、AVデビューした\[4\]。
+  - [株式会社Hustler](https://ja.wikipedia.org/wiki/ハスラー_\(芸能事務所\) "wikilink")（ハスラー）の「代表」\[5\]。
+  - [国立大学](../Page/国立大学.md "wikilink")を卒業後、一部上場企業に就職。二年後に退職。その後、AVデビューした\[6\]。職業を選んだのは親戚が残した借金のため\[7\]。
   - 代表的な作品群に、[SODクリエイト](../Page/SODクリエイト.md "wikilink")のいわゆる『[SOD女子社員シリーズ](https://ja.wikipedia.org/wiki/SOD女子社員シリーズ "wikilink")』の司会がある。[レズもの作品の出演も多い](../Page/レズビアン.md "wikilink")。
-  - koyuki名義で米国などのポルノビデオに出演もしており、合計2000本以上の作品に出演している\[5\]。
+  - koyuki名義で米国などのポルノビデオに出演もしており、合計2000本以上の作品に出演している\[8\]。
   - 素人ナンパやレズ作品で活躍している。
   - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink"):B型、身長:164cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink"):B84cm(C-70)・W59cm・H83cm 、靴:23.5cm 、服:9号
 
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - SOD社内ザーメン制裁（1月6日 SODクリエイト）共演:岡部美緒([逢乃うさぎ](../Page/逢乃うさぎ.md "wikilink")）、水村有美(みずなあんり）、長瀬成美(七瀬くるみ）、宇野裕子(相田春香）、相沢香(乙女梨緒）
+  - SOD社内ザーメン制裁（1月6日 SODクリエイト）共演:岡部美緒(逢乃うさぎ）、水村有美(みずなあんり）、長瀬成美(七瀬くるみ）、宇野裕子(相田春香）、相沢香(乙女梨緒）
   - 現役看護師とお医者様ごっこゲーム（2月4日 SODクリエイト）共演:吹石恵、一ノ瀬もえ、[小峰由衣](../Page/小峰由衣.md "wikilink")、鮎本りん、牧野あかね、若菜
   - 性感ペット調教エステ ROOM337 森咲小雪（2月8日 ウエストメディア）共演:[森咲小雪](../Page/森咲小雪.md "wikilink")
   - 第二回 SOD的ねるとん紅○団 バレンタインデースペシャル（2月17日 SODクリエイト）
@@ -178,7 +178,7 @@
 ### 成人映画
 
   - 老人と美人ヘルパー 助平な介護（2007年4月27日公開 制作:フィルムハウス）共演:[葉月菜穂](https://ja.wikipedia.org/wiki/葉月菜穂 "wikilink")、[日高ゆりあ](../Page/日高ゆりあ.md "wikilink")
-  - 変態シンドローム　わいせつ白昼夢（2008年8月22日、オーピー映画）須山ちとせ役\[6\]
+  - 変態シンドローム　わいせつ白昼夢（2008年8月22日、オーピー映画）須山ちとせ役\[9\]
 
 ## 監督作品
 
@@ -210,7 +210,7 @@
 ### インターネット
 
   - 女だらけのけしからん放送（2013年1月-、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")）
-  - [給与明細](../Page/給与明細_\(テレビ番組\).md "wikilink")（2019年11月18日\[7\]、AbemaTV）
+  - [給与明細](../Page/給与明細_\(テレビ番組\).md "wikilink")（2019年11月18日\[10\]、AbemaTV）
 
 ### テレビ
 
@@ -251,4 +251,7 @@
 4.
 5.
 6.
-7.   動画視聴は【Abemaビデオ(AbemaTV)】|url=[https://abema.tv/video/episode/90-978_s1_p74|website=AbemaTV|accessdate=2019-11-18|language=ja](https://abema.tv/video/episode/90-978_s1_p74%7Cwebsite=AbemaTV%7Caccessdate=2019-11-18%7Clanguage=ja)}}
+7.
+8.
+9.
+10.  動画視聴は【Abemaビデオ(AbemaTV)】|url=[https://abema.tv/video/episode/90-978_s1_p74|website=AbemaTV|accessdate=2019-11-18|language=ja](https://abema.tv/video/episode/90-978_s1_p74%7Cwebsite=AbemaTV%7Caccessdate=2019-11-18%7Clanguage=ja)}}

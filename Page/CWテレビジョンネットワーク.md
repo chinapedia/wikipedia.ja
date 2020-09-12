@@ -116,7 +116,7 @@ The CW（以下、便宜上「CW」）の前身である[The WB](https://ja.wiki
 
   - [cwtv.com - 公式サイト](https://www.cwtv.com/)
 
-[Category:CWテレビジョンネットワーク](https://ja.wikipedia.org/wiki/Category:CWテレビジョンネットワーク "wikilink") [Category:ワーナー・ブラザース](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザース "wikilink") [Category:アメリカ合衆国のテレビ局](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビ局 "wikilink")
+[Category:CWテレビジョンネットワーク](https://ja.wikipedia.org/wiki/Category:CWテレビジョンネットワーク "wikilink") [Category:ワーナー・ブラザース](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザース "wikilink") [Category:バイアコムCBS](https://ja.wikipedia.org/wiki/Category:バイアコムCBS "wikilink") [Category:アメリカ合衆国のテレビ局](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビ局 "wikilink")
 
 1.  トリビューン社が持つ旧WB加盟ローカル局が16局。CBSコーポレーションが持つ旧UPN加盟ローカル局は10局、CWネットワークと10年間の契約を結んでいる。
 2.  アメリカのテレビネットワークは通常、18-49歳層の視聴率を最重視しているが、CWの場合は18-34歳層をターゲットにしている[1](http://www.cwtv.com/page/topmodel_tyra.html)[2](http://articles.latimes.com/2011/apr/29/business/la-fi-ct-cw-20110429)[3](https://www.thewrap.com/tv/article/fall-tv-forecast-cw-grows-ringer-30912/)。

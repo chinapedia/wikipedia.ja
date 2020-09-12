@@ -13,7 +13,7 @@
 
 ### テレビ
 
-  - 朝：月曜 - 金曜 『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』内 7:40、土曜 6:54、日曜 6:54
+  - 朝：月曜 - 金曜 『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』内 7:57、土曜 6:54、日曜 6:54
   - 昼：月曜 - 金曜『[JNNニュース](../Page/JNNニュース.md "wikilink")』内11:50、土曜11:54、日曜11:35（月曜 - 金曜は『[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")』に内包）
   - 夕方：日曜17:45（『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』に内包）
   - 夜：月曜 - 金曜22:54（いずれも独立番組として放送）

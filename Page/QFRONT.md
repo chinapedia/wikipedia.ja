@@ -15,15 +15,15 @@
 
 ## テナント
 
-中核テナントは1・2階に[スターバックス コーヒー](../Page/スターバックス.md "wikilink")\[1\]、地下2階から地上6階まで[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")の[旗艦店](https://ja.wikipedia.org/wiki/旗艦店 "wikilink")である「SHIBUYA TSUTAYA」が入店している。7階には「TSUTAYA」と「WIRED CAFE」のコラボ店舗である「WIRED TOKYO 1999」、8階にはダイニング・バー「ぷん楽」が入店している。
+中核テナントは1・2階に[スターバックス コーヒー](../Page/スターバックス.md "wikilink")\[1\]、地下2階から地上6階まで[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")の[旗艦店](https://ja.wikipedia.org/wiki/旗艦店 "wikilink")である「SHIBUYA TSUTAYA」が入店している。7階には「TSUTAYA」と「WIRED CAFE」のコラボ店舗である「WIRED TOKYO 1999」が営業している。 8階には開館当時からダイニング・バー「ぷん楽」が入店・営業していたが2020年に閉店し、現在はTSUTAYAの業務スペースとなっている。
 
-開業時から東宝グループ運営のミニシアター「シネフロント」が営業していたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")をもって閉館し、跡地にはSHIBUYA TSUTAYAのコミックフロアが同年[4月23日](../Page/4月23日.md "wikilink")から営業開始した。
+開業時から東宝グループ運営のミニシアター「シネフロント」が営業していたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")をもって閉館し、跡地にはSHIBUYA TSUTAYAのコミックフロアが同年[4月23日](../Page/4月23日.md "wikilink")から営業開始。
 
 ### フロア構成
 
-  - 8F　SHIBUYA DINING ぷん楽
+  - 8F　TSUTAYA（業務スペース）
   - 7F　TSUTAYA（BOOK）、WIRED TOKYO 1999
-      - QFRONTオープン当初は[渋谷シネフロント](../Page/渋谷シネフロント.md "wikilink")([TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")直営の[東宝](../Page/東宝.md "wikilink")洋画系映画館が入店していた。同地にはかつて「**渋谷宝塚劇場**」<東宝邦画系映画館>があった)だったが、2010年1月22日をもって閉館。改装の後、TSUTAYAが入居、コミックフロアとして同年4月23日から営業開始した。
+      - QFRONTオープン当初は[渋谷シネフロント](../Page/渋谷シネフロント.md "wikilink")([TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")直営の[東宝](../Page/東宝.md "wikilink")洋画系映画館が入店していた。同地にはかつて「**渋谷宝塚劇場**」<東宝邦画系映画館>があった)だったが、2010年1月22日をもって閉館。改装の後、TSUTAYAが入居、コミックフロアとして同年4月23日から営業開始した。1階にあった映画館券売窓口はこれに伴い閉鎖し、スターバックスのテイクアウト専用売り場として営業。
   - 6F　TSUTAYA（BOOK）
   - 5F　TSUTATA（DVDレンタル/洋画・海外TVドラマ・アダルト）
   - 4F　TSUTAYA（DVD・CDレンタル/邦画・国内TVドラマ・アニメ・ジャズ・サントラ）

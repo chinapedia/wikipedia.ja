@@ -560,7 +560,7 @@ USSEx, 第6世代TBDR\[3\]
 
 ### 家庭用ゲーム機およびアーケードゲーム機
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:DreamcastConsole.jpg "wikilink")
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:Dreamcast-Console-Set.png "wikilink")
 
   - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")
   - [NAOMI](../Page/NAOMI.md "wikilink")

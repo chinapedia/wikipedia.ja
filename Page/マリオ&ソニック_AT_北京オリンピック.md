@@ -22,13 +22,13 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 ### マリオシリーズ
 
   - [マリオ](https://ja.wikipedia.org/wiki/マリオ_\(ゲームキャラクター\) "wikilink")
-    声 : [チャールズ･マーティネー](https://ja.wikipedia.org/wiki/チャールズ･マーティネー "wikilink")
+    声 : [チャールズ・マーティネー](../Page/チャールズ・マーティネー.md "wikilink")
     バランスタイプ
   - [ルイージ](../Page/ルイージ_\(ゲームキャラクター\).md "wikilink")
-    声 : チャールズ･マーティネー
+    声 : チャールズ・マーティネー
     バランスタイプ
   - [ピーチ](../Page/ピーチ_\(ゲームキャラクター\).md "wikilink")
-    声 : [ジェン・テイラー](https://ja.wikipedia.org/wiki/ジェン・テイラー "wikilink")
+    声 :
     テクニックタイプ
   - [デイジー](../Page/デイジー_\(ゲームキャラクター\).md "wikilink")
     声 : [ディアナ・マスタード](https://ja.wikipedia.org/wiki/ディアナ・マスタード "wikilink")
@@ -37,10 +37,10 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
     声 : [戸高一生](../Page/戸高一生.md "wikilink")
     スピードタイプ
   - [ワリオ](../Page/ワリオ.md "wikilink")
-    声 : チャールズ･マーティネー
+    声 : チャールズ・マーティネー
     パワータイプ
   - [ワルイージ](../Page/ワルイージ.md "wikilink")
-    声 : チャールズ･マーティネー
+    声 : チャールズ・マーティネー
     テクニックタイプ
   - [クッパ](../Page/クッパ_\(ゲームキャラクター\).md "wikilink")
     声 : [ケニー・ジェームズ](https://ja.wikipedia.org/wiki/ケニー・ジェームズ "wikilink")

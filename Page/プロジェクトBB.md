@@ -42,7 +42,8 @@
   - [Lisa S.](https://ja.wikipedia.org/wiki/Lisa_S. "wikilink")
   - 輸送車運転手A　- [ニコラス・ツェー](../Page/ニコラス・ツェー.md "wikilink") （[浪川大輔](../Page/浪川大輔.md "wikilink")）
   - 輸送車運転手B　- [ダニエル・ウー](https://ja.wikipedia.org/wiki/ダニエル・ウー "wikilink") （[三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")）
-  - 日本語吹替版その他出演 - [藤本譲](../Page/藤本譲.md "wikilink")／[火野カチコ](https://ja.wikipedia.org/wiki/火野カチコ "wikilink")／[山野井仁](../Page/山野井仁.md "wikilink")／[内田夕夜](../Page/内田夕夜.md "wikilink")／[相沢正輝](../Page/相沢まさき.md "wikilink")／[平川大輔](../Page/平川大輔.md "wikilink")／[藤井啓輔](../Page/藤井啓輔.md "wikilink")／[加納千秋](../Page/加納千秋.md "wikilink")／[御園行洋](../Page/御園行洋.md "wikilink")／[櫛田泰道](../Page/櫛田泰道.md "wikilink")／[中村浩太郎](../Page/中村浩太郎.md "wikilink")／[丸山壮史](../Page/丸山壮史.md "wikilink")／[武虎](../Page/武虎.md "wikilink")／[宇乃音亜季](../Page/宇乃音亜季.md "wikilink")／[沢城みゆき](../Page/沢城みゆき.md "wikilink")／[瀬尾恵子](https://ja.wikipedia.org/wiki/瀬尾恵子 "wikilink")
+
+:\*日本語吹替版その他出演 - [藤本譲](../Page/藤本譲.md "wikilink")／[火野カチコ](https://ja.wikipedia.org/wiki/火野カチコ "wikilink")／[山野井仁](../Page/山野井仁.md "wikilink")／[内田夕夜](../Page/内田夕夜.md "wikilink")／[相沢正輝](../Page/相沢まさき.md "wikilink")／[平川大輔](../Page/平川大輔.md "wikilink")／[藤井啓輔](../Page/藤井啓輔.md "wikilink")／[加納千秋](../Page/加納千秋.md "wikilink")／[御園行洋](../Page/御園行洋.md "wikilink")／[櫛田泰道](../Page/櫛田泰道.md "wikilink")／[中村浩太郎](../Page/中村浩太郎.md "wikilink")／[丸山壮史](../Page/丸山壮史.md "wikilink")／[武虎](../Page/武虎.md "wikilink")／[宇乃音亜季](../Page/宇乃音亜季.md "wikilink")／[沢城みゆき](../Page/沢城みゆき.md "wikilink")／[瀬尾恵子](https://ja.wikipedia.org/wiki/瀬尾恵子 "wikilink")
 
 ## スタッフ
 
@@ -71,6 +72,6 @@
   -
   -
   -
-[Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:香港のコメディ映画](https://ja.wikipedia.org/wiki/Category:香港のコメディ映画 "wikilink") [Category:ベニー・チャンの監督映画](https://ja.wikipedia.org/wiki/Category:ベニー・チャンの監督映画 "wikilink") [Category:誘拐を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:誘拐を題材とした映画作品 "wikilink") [Category:アラン・ユンのシナリオ作品](https://ja.wikipedia.org/wiki/Category:アラン・ユンのシナリオ作品 "wikilink") [Category:中国を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:中国を舞台とした映画作品 "wikilink")
+[Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:香港のコメディ映画](https://ja.wikipedia.org/wiki/Category:香港のコメディ映画 "wikilink") [Category:ベニー・チャンの監督映画](https://ja.wikipedia.org/wiki/Category:ベニー・チャンの監督映画 "wikilink") [Category:誘拐を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:誘拐を題材とした映画作品 "wikilink") [Category:アラン・ユンのシナリオ作品](https://ja.wikipedia.org/wiki/Category:アラン・ユンのシナリオ作品 "wikilink") [Category:中国を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:中国を舞台とした映画作品 "wikilink") [Category:ジャッキー・チェン](https://ja.wikipedia.org/wiki/Category:ジャッキー・チェン "wikilink")
 
 1.  [香港ジャッキー映画が復活――「プロジェクトBB」 - ITmedia NEWS](https://www.itmedia.co.jp/lifestyle/articles/0709/18/news025.html)

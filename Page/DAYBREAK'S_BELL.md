@@ -1,7 +1,7 @@
 > この記事は[DAYBREAK\'S BELL](https://ja.wikipedia.org/wiki/DAYBREAK\'S_BELL)から翻訳されています。
 
 
-「**DAYBREAK'S BELL**」（デイブレイクス・ベル）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の32作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
+「**DAYBREAK'S BELL**」（デイブレイクス・ベル）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の32作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -18,6 +18,7 @@ L'Arc〜en〜Cielの2007年第3弾シングルであり、5か月連続リリー
     <!-- end list -->
       -
         [MBS](../Page/毎日放送.md "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』（1stシーズン）第1期（第1話～第13話まで）[オープニングテーマ](../Page/主題歌.md "wikilink")\[2\]、及び[エムティーアイ](../Page/エムティーアイ.md "wikilink")「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。
+        2007年6月8日に[戸田市文化会館](../Page/戸田市文化会館.md "wikilink")で行われた、ホールツアー「Are you ready? 2007 またハートに火をつけろ\!」の初日公演で初披露されていた楽曲。
         作曲を手掛けたkenは「若さを迸る、[インディの匂いがする曲を書きたいと思って書きました](../Page/インディーズ.md "wikilink")」とコメントしている。hydeは「コードの展開の仕方とか、kenのクレバーさが活きている\[3\]」と述べている。また、kenの考えてきた[ドラムの](../Page/ドラムセット.md "wikilink")[リズム](../Page/リズム.md "wikilink")が独特かつ複雑で、yukihiroは「これ、どうやって叩くんだろ？\[4\]」と思ったといい、演奏に非常に苦労したという。
         タイアップが決まったことを受け、kenは「正直に言うと、"いいのかなぁ？"って。ドラムがある種複雑にも聴こえるから、僕の中ではどうでもいいんですが、もっとシンプルなリズムの方が"ポップ"であると捉える人たちもいるから\[5\]」「自分の心配じゃなくて人の心配をしてました（笑）\[6\]」と述べている。
         歌詞は「[『ガンダム00』のヒロインの心境を表しているのではないか](https://ja.wikipedia.org/wiki/機動戦士ガンダム00の登場人物#マリナ・イスマイール "wikilink")」とする声もあるが、制作時に楽曲を初めて聴いたhydeのイメージは「暗い夜の海に立つ女性を、丘から眺めているもの」だった\[7\]。タイアップを受け、前述の情景を踏まえた上で、戦争に駆り出される男性を想う女性の目線になって作詞したという。

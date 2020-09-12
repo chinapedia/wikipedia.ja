@@ -21,7 +21,7 @@
       -
         [東宝](../Page/東宝.md "wikilink")配給[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『タッチ3　君が通り過ぎたあとに』[主題歌](../Page/主題歌.md "wikilink")
 2.  **FOR THE BRAND-NEW DREAM**
-      - 作詞：高見沢俊彦　訳詞：Linda Hennrick　作曲：高見沢俊彦　編曲：ALFEE
+      - 作詞：高見沢俊彦　訳詞：[Linda Hennrick](https://ja.wikipedia.org/wiki/Linda_Hennrick "wikilink")　作曲：高見沢俊彦　編曲：ALFEE
     <!-- end list -->
       -
         東宝配給アニメ映画『タッチ3　君が通り過ぎたあとに』エンディングテーマ

@@ -7,7 +7,7 @@
 
 BMC時代の[ミニを](../Page/ミニ_\(BMC\).md "wikilink")[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")として2001年に発売された新型モデル。BMWブランド以外では初の[FF車で](../Page/前輪駆動.md "wikilink")、BMWグループの狙うプレミアムのスモールの位置付けとなる\[1\]。旧型との区別が必要な際には、BMCを「先代ミニ」「クラシックミニ」「ローバーミニ」、2001年以降を「BMWミニ」「ニューミニ」「大きいミニ」と呼称される事がある。
 
-ボディサイズは、[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")規格より小さかった先代と比べて大幅に拡大された。各種ボディカラー、インテリアカラー、オプション装備を組み合わせることにより、バリエーションは約10万通りにも及ぶ。デザイナーは、[フランク・ステファンソン](../Page/フランク・ステファンソン.md "wikilink")\[2\]。先代が40年間キープコンセプトで生産していたのと同様、モデルチェンジを経てもほぼ同じデザインを継承している\[3\]。
+ボディサイズは、[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")規格より小さかった先代と比べて大幅に拡大された。各種ボディカラー、インテリアカラー、オプション装備を組み合わせることにより、バリエーションは約10万通りにも及ぶ。先代が40年間キープコンセプトで生産していたのと同様、モデルチェンジを経てもほぼ同じデザインを継承している\[2\]。
 
 日本への正規輸入車種は[ATのみの設定が多い中](../Page/オートマチックトランスミッション.md "wikilink")、全車種全グレードで[MTが選択可能であったが](../Page/マニュアルトランスミッション.md "wikilink")、カントリーマンのマイナーチェンジ（2014年9月8日）より、AT限定が設定されるようになった。
 
@@ -17,13 +17,13 @@ BMC時代の[ミニを](../Page/ミニ_\(BMC\).md "wikilink")[モチーフ](http
 
 しかし、ローバーの経営は悪化の一途を辿り、BMWはローバーを切り離すこととなったため、ほぼ開発の終わっていたミニは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に開発拠点を移し、[インチ](../Page/インチ.md "wikilink")サイズの[ヤード・ポンド法](../Page/ヤード・ポンド法.md "wikilink")から、[ミリを用いる](../Page/ミリメートル.md "wikilink")[メートル法](../Page/メートル法.md "wikilink")での再設計を行うこととなった。紆余曲折の末、2001年に発表され、日本ではBMW JAPANが[3月2日](../Page/3月2日.md "wikilink")を「ミニの日」と名づけ、2002年3月2日に発売された。
 
-[BMW_MINI_pressings_plant_Swindon.jpg](https://ja.wikipedia.org/wiki/File:BMW_MINI_pressings_plant_Swindon.jpg "fig:BMW_MINI_pressings_plant_Swindon.jpg") BMWは生産に当たり、[オックスフォード](../Page/オックスフォード.md "wikilink")近郊にある旧[ローバーのカウリー工場を本社とする生産子会社の](../Page/ローバー_\(自動車\).md "wikilink")“BMW (UK) Manufacturing Ltd”を設立し、オックスフォード工場として2001年4月から生産を開始。BMWグループとなった後もMINIの伝統を守る方針から、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")ではなくイギリスで生産されているが、カントリーマンとペースマンは[オーストリア](../Page/オーストリア.md "wikilink")の[マグナ・シュタイア](https://ja.wikipedia.org/wiki/マグナ・シュタイア "wikilink")が生産している\[4\]。
+[BMW_MINI_pressings_plant_Swindon.jpg](https://ja.wikipedia.org/wiki/File:BMW_MINI_pressings_plant_Swindon.jpg "fig:BMW_MINI_pressings_plant_Swindon.jpg") BMWは生産に当たり、[オックスフォード](../Page/オックスフォード.md "wikilink")近郊にある旧[ローバーのカウリー工場を本社とする生産子会社の](../Page/ローバー_\(自動車\).md "wikilink")“BMW (UK) Manufacturing Ltd”を設立し、オックスフォード工場として2001年4月から生産を開始。BMWグループとなった後もMINIの伝統を守る方針から、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")ではなくイギリスで生産されているが、カントリーマンとペースマンは[オーストリア](../Page/オーストリア.md "wikilink")の[マグナ・シュタイア](https://ja.wikipedia.org/wiki/マグナ・シュタイア "wikilink")が生産している\[3\]。
 
 増産対応のため、2006年9月12日よりミニプロダクション・トライアングル (通称:トライアングル) と称される英国内3工場での生産が開始された。ボディパネルのプレス、[シャーシコンポーネントとサブ](../Page/シャシ_\(自動車\).md "wikilink")[ASSY](../Page/ASSY.md "wikilink")は[スウィンドン](../Page/スウィンドン.md "wikilink")工場、シャーシ、塗装、組立は[オックスフォード](../Page/オックスフォード.md "wikilink")工場、以前ブラジルで行っていたミニ専用ガソリンエンジンは、バーミンガム近郊のハムス・ホール工場が担当している。 {{-}}
 
 ## 初代 （2001年 - 2006年） R50/52/53 R16
 
-2001年3月2日発売開始。ボディは3ドアハッチバックとコンバーチブルで、型式の**R50**はハッチバックのワンとクーパー、**R52**はコンバーチブル、**R53**はハッチバックのクーパーSを表す。基本グレードは3種類で、90psのワン、エンジン制御プログラムの変更により116psに出力を高めたクーパー、[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")を装着した163ps\[5\]のクーパーS。
+2001年3月2日発売開始。ボディは3ドアハッチバックとコンバーチブルで、型式の**R50**はハッチバックのワンとクーパー、**R52**はコンバーチブル、**R53**はハッチバックのクーパーSを表す。基本グレードは3種類で、90psのワン、エンジン制御プログラムの変更により116psに出力を高めたクーパー、[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")を装着した163ps\[4\]のクーパーS。デザイナーは、[フランク・ステファンソン](../Page/フランク・ステファンソン.md "wikilink")\[5\]。
 
 ### メカニズム
 
@@ -156,13 +156,13 @@ WRCと同じく2011年から、これまで[BMW・X3](../Page/BMW・X3.md "wikil
   - [ミニ公式サイト (英語)](http://www.miniusa.com/)
   - [ミニ公式サイト (日本語)](http://www.mini.jp/)
 
-[Category:ドイツの自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:ドイツの自動車メーカー・ブランド "wikilink") [Category:BMWの車種](https://ja.wikipedia.org/wiki/Category:BMWの車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:オープンカー](https://ja.wikipedia.org/wiki/Category:オープンカー "wikilink") [Category:クロスオーバーSUV](https://ja.wikipedia.org/wiki/Category:クロスオーバーSUV "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:クリーンディーゼル車](https://ja.wikipedia.org/wiki/Category:クリーンディーゼル車 "wikilink")
+[Category:ドイツの自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:ドイツの自動車メーカー・ブランド "wikilink") [Category:BMWの車種](https://ja.wikipedia.org/wiki/Category:BMWの車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:オープンカー](https://ja.wikipedia.org/wiki/Category:オープンカー "wikilink") [Category:クロスオーバーSUV](https://ja.wikipedia.org/wiki/Category:クロスオーバーSUV "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:クリーンディーゼル車](https://ja.wikipedia.org/wiki/Category:クリーンディーゼル車 "wikilink") [Category:クロスカントリーラリーカー](https://ja.wikipedia.org/wiki/Category:クロスカントリーラリーカー "wikilink")
 
 1.  2007年時点でのBMWグループは、「プレミアム (Premium - and nothing else)」と位置付けられる、BMW、[ロールス・ロイス](https://ja.wikipedia.org/wiki/ロールス・ロイス・モーター・カーズ "wikilink")、ミニの3ブランドを展開する。
-2.  2002年7月からフェラーリ・マセラティ・グループのコンセプトデザイン担当役員を務め、2005年2月より[フィアット](../Page/フィアット.md "wikilink")、2007年6月よりアルファロメオに在籍している。
-3.  一例として、ホワイトルーフ、ホワイトミラー、フェンダーとサイドステップ部分がマットブラックとなっていることなどが挙げられる。
-4.
-5.  マイナーチェンジ後は170ps。
+2.  一例として、ホワイトルーフ、ホワイトミラー、フェンダーとサイドステップ部分がマットブラックとなっていることなどが挙げられる。
+3.
+4.  マイナーチェンジ後は170ps。
+5.  2002年7月からフェラーリ・マセラティ・グループのコンセプトデザイン担当役員を務め、2005年2月より[フィアット](../Page/フィアット.md "wikilink")、2007年6月よりアルファロメオに在籍。
 6.  ペンタゴン・エンジンとも呼ばれる。
 7.  クーパーSのATは2005年のマイナーチェンジで追加。
 8.  ワンの販売は海外のみ。

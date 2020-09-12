@@ -12,23 +12,23 @@
 
 ### PV
 
-1.  [PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")
-2.  [OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")
-3.  [RUN☆RUN☆RUN](../Page/RUN☆RUN☆RUN.md "wikilink")
-4.  [Days](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")
+1.  **[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")**
+2.  **[OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")**
+3.  **[RUN☆RUN☆RUN](../Page/RUN☆RUN☆RUN.md "wikilink")**
+4.  **[Days](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")**
 
 ### TV SPOT
 
-1.  PRIDE-TV SPOT-
-2.  OVER-TV SPOT-
-3.  RUN☆RUN☆RUN-TV SPOT-
-4.  Days-TV SPOT-
+1.  **PRIDE-TV SPOT-**
+2.  **OVER-TV SPOT-**
+3.  **RUN☆RUN☆RUN-TV SPOT-**
+4.  **Days-TV SPOT-**
 
 ### BONUS TRACK
 
-1.  OVER-PRECIOUS VERSION-
-2.  Days-DIRECTOR'S CUT-
-3.  2005.9.14 PUT ON HAPPINESS -OPENING MOVIE-
+1.  **OVER-PRECIOUS VERSION-**
+2.  **Days-DIRECTOR'S CUT-**
+3.  **2005.9.14 PUT ON HAPPINESS -OPENING MOVIE-**
       -
         レコ発ライブで流れたアンチノブナガ時代の映像から、G∞VER発売までの映像が収録されている。
 

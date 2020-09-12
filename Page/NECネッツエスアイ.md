@@ -87,18 +87,19 @@ NECグループの企業や[住友グループ](../Page/住友グループ.md "w
   - 本社　〒112-8560 [東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")[後楽](../Page/後楽.md "wikilink")2-6-1 飯田橋ファーストタワー
   - 関西支社　〒540-8551 [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区城見](../Page/中央区_\(大阪市\).md "wikilink")1-4-24 [NEC関西ビル](https://ja.wikipedia.org/wiki/NEC関西ビル "wikilink")
   - 北海道支店　〒060-0042 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区大通西](../Page/中央区_\(札幌市\).md "wikilink")4丁目1 新大通ビル
-  - 東日本支社・東北支店　〒984-0075 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[若林区](../Page/若林区.md "wikilink")[清水小路](https://ja.wikipedia.org/wiki/清水小路 "wikilink")6-1 東日本不動産仙台ファーストビル
-  - 甲信越支店　〒950-0084 [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区明石](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")1-6-6 木山17明石ビル
-  - 関東支店　〒330-0854 [埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")[桜木町](https://ja.wikipedia.org/wiki/桜木町 "wikilink")1-10-17 シーノ大宮サウスウィング
+  - 東日本支社・東北支店　〒980-6025 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区中央](../Page/青葉区_\(仙台市\).md "wikilink")4-6-1 SS30
+  - 関東甲信越支社・関東支店　〒330-0854 [埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")[桜木町](https://ja.wikipedia.org/wiki/桜木町 "wikilink")1-10-17 シーノ大宮サウスウィング
   - 神奈川支店　〒220-6207 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[西区](https://ja.wikipedia.org/wiki/西区_\(横浜市\) "wikilink")[みなとみらい](../Page/みなとみらい.md "wikilink")2-3-5 [クイーンズタワー](https://ja.wikipedia.org/wiki/クイーンズタワー "wikilink")C棟
+  - 新潟支店　〒950-0084 [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区明石](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")1-6-6 木山17明石ビル
+  - 甲信支店　〒390-0815 [長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")深志2-1-9
   - 静岡支店　〒420-0851 [静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[葵区](../Page/葵区.md "wikilink")黒金町3 シャンソンビル
-  - 中部支店　〒460-0003 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区錦](../Page/中区_\(名古屋市\).md "wikilink")1-17-1 NEC中部ビル
+  - 中日本支社・中部支店　〒460-0003 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区錦](../Page/中区_\(名古屋市\).md "wikilink")1-17-1 NEC中部ビル
   - 北陸支店　〒920-0901 [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")彦三町1-2-1 アソルティ金沢彦三
   - 京滋支店　〒600-8008 [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[下京区](../Page/下京区.md "wikilink")[四条通](../Page/四条通.md "wikilink")烏丸東入ル長刀鉾町8 京都三井ビルディング
   - 神戸支店　〒650-0031 [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区東町](../Page/中央区_\(神戸市\).md "wikilink")126 神戸シルクセンタービル
-  - 西日本支社・中国支店　〒730-0013 [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区八丁堀](../Page/中区_\(広島市\).md "wikilink")16-11 スタートラム広島
-  - 四国支店　〒760-0008 [香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")[中野町](https://ja.wikipedia.org/wiki/中野町_\(高松市\) "wikilink")29-2 住友生命高松パークビル
-  - 九州支店　〒812-0037 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")御供所町1-1 西鉄祇園ビル
+  - 中国支店　〒730-0013 [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区八丁堀](../Page/中区_\(広島市\).md "wikilink")16-11 スタートラム広島
+  - 四国支店　〒760-0008 [香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")[中野町](https://ja.wikipedia.org/wiki/中野町_\(高松市\) "wikilink")29-2 高松パークビル
+  - 西日本支社・九州支店　〒812-0037 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")御供所町1-1 西鉄祇園ビル
 
 ## グループ会社
 

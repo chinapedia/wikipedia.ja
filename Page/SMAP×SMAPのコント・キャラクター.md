@@ -9,7 +9,7 @@
 
 ## あ行
 
-  - 愛点（香取・[草彅](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[石田純一](../Page/石田純一.md "wikilink")・[大澄賢也](../Page/大澄賢也.md "wikilink")）
+  - 愛点（香取・[草彅](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・[石田純一](../Page/石田純一.md "wikilink")・[大澄賢也](../Page/大澄賢也.md "wikilink")）
       -
         [2007年](../Page/2007年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")初放送。『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』のパロディ。司会は香取扮する**円LOVE**（元ネタは[三遊亭圓楽](../Page/三遊亭圓楽_\(5代目\).md "wikilink")）。笑えないけど愛のある大喜利。
 

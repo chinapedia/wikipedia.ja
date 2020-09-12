@@ -5,14 +5,11 @@
 
 ## 解説
 
-  - m-floの楽曲としては「[Yours only,](https://ja.wikipedia.org/wiki/Yours_only,_/_Lies "wikilink")」（[2001年](../Page/2001年.md "wikilink")） 以来の[バラード](../Page/バラード.md "wikilink")である。当時メジャーデビュー前の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[YOSHIKA](../Page/YOSHIKA.md "wikilink")をフィーチャリングしている
-  - YOSHIKAの[インディーズ](../Page/インディーズ.md "wikilink")アルバム『Straight Ahead』（[2003年](../Page/2003年.md "wikilink")） を聴いて、m-floがオファーした\[1\]
-  - 楽曲のテーマは "let go = 自分の中にある見えないものを解き放つ"
-  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") [FOMA](../Page/FOMA.md "wikilink")901i [TVCM](../Page/コマーシャルメッセージ.md "wikilink") 「m-floが・・・」篇のタイアップ曲であり、20万枚を超えるロングヒットシングルになった
-  - c/w 曲は[坂本龍一](../Page/坂本龍一.md "wikilink") featuring [Sister M](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink") の楽曲のカバー「The Other Side of Love」(m-flo loves [Sister E](../Page/Emyli.md "wikilink"))。[ドラムンベース](../Page/ドラムンベース.md "wikilink")アレンジ
-  - 「let go」および「The Other Side of Love」はm-floの4thアルバム『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")） に収録されている
-  - [2013年](../Page/2013年.md "wikilink")には、テレビドラマ「[ビブリア古書堂の事件手帖](https://ja.wikipedia.org/wiki/ビブリア古書堂の事件手帖_\(テレビドラマ\) "wikilink")」の挿入曲に採用されて、再び脚光を浴びた
-  - 「let go」の続編として[2014年](../Page/2014年.md "wikilink")発売の[Flowerのアルバム](https://ja.wikipedia.org/wiki/Flower_\(グループ\) "wikilink")『[Flower](https://ja.wikipedia.org/wiki/Flower_\(Flowerのアルバム\) "wikilink")』に「let go again」が収録された
+m-floの[バラード](../Page/バラード.md "wikilink")楽曲としては「[Yours only,](https://ja.wikipedia.org/wiki/Yours_only,_/_Lies "wikilink")」（[2001年](../Page/2001年.md "wikilink")） 以来である。当時メジャーデビュー前の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[YOSHIKA](../Page/YOSHIKA.md "wikilink")をフィーチャリングしている。YOSHIKAの[インディーズ](../Page/インディーズ.md "wikilink")アルバム『Straight Ahead』（[2003年](../Page/2003年.md "wikilink")） を聴いて、m-floがオファーした\[1\]。楽曲のテーマは "let go = 自分の中にある見えないものを解き放つ"。カップリング曲は[坂本龍一](../Page/坂本龍一.md "wikilink") featuring [Sister M](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink") の楽曲のカバー「The Other Side of Love」(m-flo loves [Sister E](../Page/Emyli.md "wikilink"))の[ドラムンベース](../Page/ドラムンベース.md "wikilink")アレンジ。これら「let go」および「The Other Side of Love」はm-floの4thアルバム『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")） に収録されている。「let go」続編として[Flowerのアルバム](https://ja.wikipedia.org/wiki/Flower_\(グループ\) "wikilink")『[Flower](https://ja.wikipedia.org/wiki/Flower_\(Flowerのアルバム\) "wikilink")』（[2014年](../Page/2014年.md "wikilink")発売）に「let go again」が収録された。
+
+## タイアップ
+
+[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") [FOMA](../Page/FOMA.md "wikilink")901i [TVCM](../Page/コマーシャルメッセージ.md "wikilink") 「m-floが・・・」篇のタイアップ曲であり、20万枚を超えるロングヒットシングルになった。[2013年](../Page/2013年.md "wikilink")には、テレビドラマ「[ビブリア古書堂の事件手帖](https://ja.wikipedia.org/wiki/ビブリア古書堂の事件手帖_\(テレビドラマ\) "wikilink")」の挿入曲に採用されて、再び脚光を浴びた。
 
 ## 収録曲
 

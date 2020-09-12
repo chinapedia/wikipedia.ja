@@ -5,7 +5,7 @@
 
 ## ソロ
 
-### 配信限定シングル
+### 配信リリース
 
 |                                       |               |                  |       |
 | ------------------------------------- | ------------- | ---------------- | ----- |
@@ -24,7 +24,7 @@
 
 ## ユニット
 
-### 配信限定シングル
+### 配信リリース
 
 |                                                                                   |             |                 |       |
 | --------------------------------------------------------------------------------- | ----------- | --------------- | ----- |
@@ -35,9 +35,9 @@
 | [DISCO HARDAYZ BAND](https://ja.wikipedia.org/wiki/DISCO_HARDAYZ_BAND "wikilink") | 2015年12月8日  | **Disco Light** | 作曲/編曲 |
 | **Let's Dance**                                                                   | 作曲/編曲       |                 |       |
 
-## プロデュース・楽曲提供
+## プロデュース・楽曲提供・演奏参加
 
-### シングル
+### CDシングル
 
 <table>
 <tbody>
@@ -63,81 +63,95 @@
 <td><p>8位[2]</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></p></td>
+<td><p>2018年7月25日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/care_(井上陽水の曲)" title="wikilink">care</a></strong></p></td>
+<td><p>Addtional Strings</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/indigo7" title="wikilink">indigo7</a></p></td>
 <td><p>2011年8月3日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/on_your_way" title="wikilink">on your way</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>圏外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年11月23日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/沈まない太陽" title="wikilink">沈まない太陽</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>圏外</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012年3月14日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/いつも君だった" title="wikilink">いつも君だった</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>圏外</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宇都宮隆" title="wikilink">宇都宮隆</a></p></td>
 <td><p>2010年11月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Love_chase_〜夢を越えて〜" title="wikilink">Love chase 〜夢を越えて〜</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>129位[3]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年9月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CROSS_(宇都宮隆の曲)" title="wikilink">CROSS</a></strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>77位[4]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012年9月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/One_Of_A_Kind" title="wikilink">One Of A Kind</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>圏外</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/A9_(バンド)" title="wikilink">A9</a></p></td>
 <td><p>2017年2月28日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/MEMENTO" title="wikilink">MEMENTO</a></strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年8月2日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Re:Born" title="wikilink">Re:Born</a></strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ODOROOM" title="wikilink">ODOROOM</a></p></td>
 <td><p>2014年3月19日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/WAY_TO_GO!" title="wikilink">WAY TO GO!</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>144位[5]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北沢綾香" title="wikilink">北沢綾香</a></p></td>
 <td><p>2013年11月6日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/君とのなくしもの" title="wikilink">君とのなくしもの</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>28位[6]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/GReeeeN" title="wikilink">GReeeeN</a></p></td>
+<td><p>2013年8月21日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/愛し君へ_(GReeeeNの曲)" title="wikilink">愛し君へ</a></strong></p></td>
+<td><p>Piano</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2016年7月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Beautiful_days_(GReeeeNの曲)" title="wikilink">beautiful days</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>43位[7]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ケツメイシ.md" title="wikilink">ケツメイシ</a></p></td>
@@ -190,174 +204,181 @@
 <td><p>10位[12]</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/SECONDWALL" title="wikilink">SECONDWALL</a></p></td>
+<td><p>2017年9月23日</p></td>
+<td><p><strong>ゼロ</strong></p></td>
+<td><p>共作・編曲</p></td>
+<td><p>会場限定</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ダイスケ" title="wikilink">ダイスケ</a></p></td>
 <td><p>2015年5月20日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/せかいにひとつのフタリ" title="wikilink">せかいにひとつのフタリ</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>40位[13]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年2月3日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/birthday_(ダイスケの曲)" title="wikilink">birthday</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>28位[14]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/玉置成実.md" title="wikilink">玉置成実</a></p></td>
 <td><p>2007年8月29日</p></td>
 <td><p><strong><a href="../Page/Brightdown.md" title="wikilink">Brightdown</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>8位[15]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年4月17日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/REAL_(玉置成実の曲)" title="wikilink">REAL</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>75位[16]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/D☆DATE" title="wikilink">D☆DATE</a></p></td>
 <td><p>2012年2月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/JOKER_(D☆DATEの曲)" title="wikilink">JOKER</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>7位[17]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DISACODE" title="wikilink">DISACODE</a></p></td>
 <td><p>2014年2月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ARCO∞IRIS" title="wikilink">ARCO∞IRIS</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>182位[18]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/TEMPURA_KIDZ" title="wikilink">TEMPURA KIDZ</a></p></td>
 <td><p>2013年3月6日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ONE_STEP" title="wikilink">ONE STEP</a></strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>83位[19]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年7月10日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/はっぴぃ夏祭り" title="wikilink">はっぴぃ夏祭り</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>96位[20]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></p></td>
 <td><p>2008年1月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/snow_tears" title="wikilink">snow tears</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>2位[21]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年8月6日</p></td>
 <td><p><strong><a href="../Page/Shiny_GATE.md" title="wikilink">Shiny GATE</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>8位[22]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年9月10日</p></td>
 <td><p><strong><a href="../Page/続く世界.md" title="wikilink">続く世界</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>5位[23]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年4月29日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/涙の種、笑顔の花" title="wikilink">涙の種、笑顔の花</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>4位[24]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>背景コンビ（<a href="../Page/水原薫.md" title="wikilink">水原薫</a>・<a href="../Page/相沢舞.md" title="wikilink">相沢舞</a>）</p></td>
 <td><p>2007年10月31日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.009_背景コンビ" title="wikilink">“ラ”はらき☆すたの“ラ”</a></strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>17位[25]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/VALS" title="wikilink">VALS</a></p></td>
 <td><p>2017年8月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/消滅彼女" title="wikilink">消滅彼女</a></strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年10月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/mosh" title="wikilink">mosh</a></strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>柊かがみ（<a href="../Page/加藤英美里.md" title="wikilink">加藤英美里</a>）</p></td>
 <td><p>2007年9月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.002_柊かがみ" title="wikilink">ケンカ予報の時間だよ</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>9位[26]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>柊つかさ（<a href="../Page/福原香織.md" title="wikilink">福原香織</a>）</p></td>
 <td><p>2007年9月5日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/らき☆すた_キャラクターソング#Vol.003_柊つかさ" title="wikilink">寝・逃・げでリセット!</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>11位[27]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/平野綾.md" title="wikilink">平野綾</a></p></td>
 <td><p>2007年10月10日</p></td>
 <td><p><strong><a href="../Page/LOVE★GUN.md" title="wikilink">LOVE★GUN</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>6位[28]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007年12月5日</p></td>
 <td><p><strong><a href="../Page/MonStAR.md" title="wikilink">MonStAR</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>11位[29]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年4月23日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Unnamed_world" title="wikilink">Unnamed world</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>20位[30]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年4月29日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Set_me_free/Sing_a_Song!" title="wikilink">Set me free</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>13位[31]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/PLIME.md" title="wikilink">PLIME</a></p></td>
 <td><p>2007年5月23日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Faraway_(PLIMEの曲)" title="wikilink">Faraway</a></strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>圏外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フラチナリズム" title="wikilink">フラチナリズム</a></p></td>
 <td><p>2015年12月9日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/KAN&amp;PAI-THE_WORLD-" title="wikilink">KAN&amp;PAI-THE WORLD-</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>35位[32]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年11月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ズコ☆バコ/涙の雨がやむ頃に" title="wikilink">ズコ☆バコ/涙の雨がやむ頃に</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>62位[33]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ブラック☆スター・中務椿<br />
 （<a href="../Page/小林由美子.md" title="wikilink">小林由美子</a>・<a href="../Page/名塚佳織.md" title="wikilink">名塚佳織</a>）</p></td>
 <td><p>2008年9月3日</p></td>
@@ -365,40 +386,61 @@
 <td><p>編曲</p></td>
 <td><p>圏外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FLOW.md" title="wikilink">FLOW</a></p></td>
 <td><p>2015年8月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/虹の空" title="wikilink">虹の空</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>34位[34]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/PAGE" title="wikilink">PAGE</a></p></td>
 <td><p>2012年7月18日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/You_topia" title="wikilink">You topia</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>196位[35]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年5月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/MY_NAME_IS_xxxx" title="wikilink">MY NAME IS xxxx</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>181位[36]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/放課後プリンセス" title="wikilink">放課後プリンセス</a></p></td>
 <td><p>2015年10月28日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/消えて、白雪姫" title="wikilink">消えて、白雪姫</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>10位[37]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マオ_(シド)" title="wikilink">マオ from SID</a></p></td>
 <td><p>2016年6月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/月/星" title="wikilink">月/星</a></strong></p></td>
 <td><p>編曲</p></td>
 <td><p>4位[38]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミオヤマザキ" title="wikilink">ミオヤマザキ</a></p></td>
+<td><p>2020年4月29日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/いまどうしてる？" title="wikilink">いまどうしてる？</a></strong></p></td>
+<td><p>Piano</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年6月30日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/DIY_(ミオヤマザキの曲)" title="wikilink">DIY</a></strong></p></td>
+<td><p>Piano</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年8月28日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/メンヘラ幸福論" title="wikilink">メンヘラ幸福論</a></strong></p></td>
+<td><p>Piano＆Keyboard</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/mini_(モデル)" title="wikilink">mini</a></p></td>
@@ -473,30 +515,31 @@
 </tbody>
 </table>
 
-### 配信限定シングル
+### 配信リリース
 
-|                                                                             |                                         |                               |          |
-| --------------------------------------------------------------------------- | --------------------------------------- | ----------------------------- | -------- |
-| アーティスト                                                                      | 発売日                                     | タイトル                          | 関わり      |
-| [ASH DA HERO](https://ja.wikipedia.org/wiki/ASH_DA_HERO "wikilink")         | 2019年10月17日                             | **未完成ストーリー**                  | 編曲       |
-| 2019年10月19日                                                                 | **Starting Now**                        | 編曲                            |          |
-| 2019年11月24日                                                                 | **Gatekeeper**                          | 編曲                            |          |
-| [おっぱい先生](https://ja.wikipedia.org/wiki/おっぱい先生 "wikilink")                   | 2009年3月4日                               | **スクール・オブ・おっぱい**              | 作曲/編曲    |
-| [GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")                 | 2015年3月4日                               | **タンポポ**                      | 編曲       |
-| [GAYSHA GALs](https://ja.wikipedia.org/wiki/GAYSHA_GALs "wikilink")         | 2019年1月22日                              | **ドント・クライ・ボーイズ ～ブスに涙は似合わない～** | MIX      |
-| 2019年5月28日                                                                  | **キラキラ☆MAKE UP**                        | MIX                           |          |
-| [Kentaro Nishida](https://ja.wikipedia.org/wiki/Kentaro_Nishida "wikilink") | 2018年5月20日                              | **Sky Cruising**              | 作詞/作曲/編曲 |
-| 2018年12月12日                                                                 | **CHANMERY**                            | 作詞/作曲/編曲                      |          |
-| 2019年3月16日                                                                  | **SARA（Midnight City MiXXX）** \[Cover\] | 編曲                            |          |
-| 2020年5月1日                                                                   | **君がくれる優しい日々**                          | 作詞/作曲/編曲                      |          |
-| [すず from SUGARS](https://ja.wikipedia.org/wiki/すず_from_SUGARS "wikilink")   | 2013年6月3日                               | **いいことあるかも♡**                 | 作詞/作曲/編曲 |
-| [STARDUST PLANET](https://ja.wikipedia.org/wiki/STARDUST_PLANET "wikilink") | 2018年7月21日                              | **We Are “STAR”**             | 編曲       |
-| [Purple Days](https://ja.wikipedia.org/wiki/Purple_Days "wikilink")         | 2012年8月22日                              | **READY STEADY GO**           | 編曲       |
-| [Vimclip](https://ja.wikipedia.org/wiki/Vimclip "wikilink")                 | 2011年11月2日                              | **恋心**                        | 作曲/編曲    |
-| [マオ from SID](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")           | 2017年3月29日                              | **違う果実**                      | 作曲/編曲    |
-| **不埒な体温**                                                                   | 作曲/編曲                                   |                               |          |
-| [mini](https://ja.wikipedia.org/wiki/mini_\(モデル\) "wikilink")               | 2011年3月2日                               | **Two of Us**                 | 作詞/作曲/編曲 |
-| 2011年10月12日                                                                 | **CANDY GIRL 2011**\[Cover\]            | 作曲/編曲                         |          |
+|                                                                             |                                         |                                                               |          |
+| --------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------- | -------- |
+| アーティスト                                                                      | 発売日                                     | タイトル                                                          | 関わり      |
+| [ASH DA HERO](https://ja.wikipedia.org/wiki/ASH_DA_HERO "wikilink")         | 2019年10月17日                             | **未完成ストーリー**                                                  | 編曲       |
+| 2019年10月19日                                                                 | **Starting Now**                        | 編曲                                                            |          |
+| 2019年11月24日                                                                 | **Gatekeeper**                          | 編曲                                                            |          |
+| [おっぱい先生](https://ja.wikipedia.org/wiki/おっぱい先生 "wikilink")                   | 2009年3月4日                               | **スクール・オブ・おっぱい**                                              | 作曲/編曲    |
+| [GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")                 | 2015年3月4日                               | **タンポポ**                                                      | 編曲       |
+| [GAYSHA GALs](https://ja.wikipedia.org/wiki/GAYSHA_GALs "wikilink")         | 2019年1月22日                              | **ドント・クライ・ボーイズ ～ブスに涙は似合わない～**                                 | MIX      |
+| 2019年5月28日                                                                  | **キラキラ☆MAKE UP**                        | MIX                                                           |          |
+| [Kentaro Nishida](https://ja.wikipedia.org/wiki/Kentaro_Nishida "wikilink") | 2018年5月20日                              | **Sky Cruising**                                              | 作詞/作曲/編曲 |
+| 2018年12月12日                                                                 | **CHANMERY**                            | 作詞/作曲/編曲                                                      |          |
+| 2019年3月16日                                                                  | **SARA（Midnight City MiXXX）** \[Cover\] | 編曲                                                            |          |
+| 2020年5月1日                                                                   | **君がくれる優しい日々**                          | 作詞/作曲/編曲                                                      |          |
+| [すず from SUGARS](https://ja.wikipedia.org/wiki/すず_from_SUGARS "wikilink")   | 2013年6月3日                               | **いいことあるかも♡**                                                 | 作詞/作曲/編曲 |
+| [STARDUST PLANET](https://ja.wikipedia.org/wiki/STARDUST_PLANET "wikilink") | 2018年7月21日                              | **We Are “STAR”**                                             | 編曲       |
+| [Purple Days](https://ja.wikipedia.org/wiki/Purple_Days "wikilink")         | 2012年8月22日                              | **READY STEADY GO**                                           | 編曲       |
+| [Vimclip](https://ja.wikipedia.org/wiki/Vimclip "wikilink")                 | 2011年11月2日                              | **恋心**                                                        | 作曲/編曲    |
+| [マオ from SID](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")           | 2017年3月29日                              | **違う果実**                                                      | 作曲/編曲    |
+| **不埒な体温**                                                                   | 作曲/編曲                                   |                                                               |          |
+| [mini](https://ja.wikipedia.org/wiki/mini_\(モデル\) "wikilink")               | 2011年3月2日                               | **Two of Us**                                                 | 作詞/作曲/編曲 |
+| 2011年10月12日                                                                 | **CANDY GIRL 2011**\[Cover\]            | 作曲/編曲                                                         |          |
+| [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")                | 2013年1月1日                               | **[イロトリドリ](https://ja.wikipedia.org/wiki/イロトリドリ "wikilink")** | Piano    |
 
 ### カップリング・アルバム曲
 
@@ -573,13 +616,20 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Ange☆Reve" title="wikilink">Ange☆Reve</a></p></td>
+<td><p>2020年2月19日</p></td>
+<td><p><strong>泣かないよ</strong></p></td>
+<td><p>Piano</p></td>
+<td><p>Al「Ange★Reve」</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/家入レオ" title="wikilink">家入レオ</a></p></td>
 <td><p>2018年2月21日</p></td>
 <td><p><strong>ファンタジー</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「TIME」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>泉こなた（平野綾）</p></td>
 <td><p>2007年9月5日</p></td>
 <td><p><strong>Dドライヴ/ラヴ</strong></p></td>
@@ -587,7 +637,7 @@
 <td><p>Sg「<a href="../Page/らき☆すた_キャラクターソング.md" title="wikilink">らき☆すた キャラクターソング<br />
 Vol.001 泉こなた</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>泉こなた・柊かがみ・<br />
 柊つかさ・高良みゆき<br />
 （平野綾・加藤英美里<br />
@@ -597,154 +647,154 @@ Vol.001 泉こなた</a>」</p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="../Page/もってけ!セーラーふく.md" title="wikilink">もってけ!セーラーふく</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年3月5日</p></td>
 <td><p><strong>なんてったって☆伝説</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/ハマってサボっておーまいがっ!" title="wikilink">ハマってサボっておーまいがっ!</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/伊東歌詞太郎" title="wikilink">伊東歌詞太郎</a></p></td>
 <td><p>2015年4月8日</p></td>
 <td><p><strong>ポプラの丘に風が吹く</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/二律背反_(伊東歌詞太郎のアルバム)" title="wikilink">二律背反</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>さくら</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>親愛なるフランツ・カフカに捧ぐ</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>I Can Stop Fall in Love</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>パラボラ 〜ガリレオの夢〜</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年10月4日</p></td>
 <td><p><strong>鏡の国のアリス</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「二天一流」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>誰かと誰かが出会うとき</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>S.O.S</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/indigo7" title="wikilink">indigo7</a></p></td>
 <td><p>2011年8月3日</p></td>
 <td><p><strong>7min.</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/on_your_way" title="wikilink">on your way</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年11月23日</p></td>
 <td><p><strong>Higher Higher</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/沈まない太陽" title="wikilink">沈まない太陽</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012年3月14日</p></td>
 <td><p><strong>Runnin' the night</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/いつも君だった" title="wikilink">いつも君だった</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宇都宮隆" title="wikilink">宇都宮隆</a></p></td>
 <td><p>2010年11月24日</p></td>
 <td><p><strong>Dance w/z Me</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Love_chase_〜夢を越えて〜" title="wikilink">Love chase 〜夢を越えて〜</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>feedback</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年9月21日</p></td>
 <td><p><strong>Times mile</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/CROSS_(宇都宮隆の曲)" title="wikilink">CROSS</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Bad Gentleman</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012年9月5日</p></td>
 <td><p><strong>インディゴの彼方</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/TRILOGY" title="wikilink">TRILOGY</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>必然の夢</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>TRILOGY -Interlude-</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Parallel Dream</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>TRILOGY</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012年9月8日</p></td>
 <td><p><strong>Tweet Sweet<br />
 -In Production-</strong></p></td>
@@ -752,21 +802,21 @@ Vol.001 泉こなた</a>」</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/One_Of_A_Kind" title="wikilink">One Of A Kind</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年2月28日</p></td>
 <td><p><strong>思秋期</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「mile stone」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>どうにもとまらない</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>エヴァンジェリン・<br />
 A・K・マクダウェル<br />
 （<a href="../Page/松岡由貴.md" title="wikilink">松岡由貴</a>）</p></td>
@@ -775,28 +825,28 @@ A・K・マクダウェル<br />
 <td><p>作曲</p></td>
 <td><p>Al「ネギま!?うたのCD（1）」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>オカダユータ</p></td>
 <td><p>2016年11月16日</p></td>
 <td><p><strong>Your Song</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「シリウス」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ON/OFF" title="wikilink">ON/OFF</a></p></td>
 <td><p>2007年11月21日</p></td>
 <td><p><strong>忘られぬ瞳</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/永遠の刹那" title="wikilink">永遠の刹那</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/仮面ライダーGIRLS" title="wikilink">仮面ライダーGIRLS</a></p></td>
 <td><p>2019年9月4日</p></td>
 <td><p><strong>Next New Wφrld／仮面ライダーGIRLS 01 Ver.</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/030804-01" title="wikilink">030804-01</a>」※オリジナル：RIDER CHIPS</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ガレット・クリスティナ<br />
 （<a href="../Page/戸松遥.md" title="wikilink">戸松遥</a>・<a href="../Page/名塚佳織.md" title="wikilink">名塚佳織</a>）</p></td>
 <td><p>2008年11月26日</p></td>
@@ -805,60 +855,81 @@ A・K・マクダウェル<br />
 <td><p>Al「シャイナ・ダルク〜黒き月の王と<br />
 蒼碧の月の姫君〜 ボーカルアルバム」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/川村ゆみ.md" title="wikilink">川村ゆみ</a></p></td>
 <td><p>2008年7月2日</p></td>
 <td><p><strong>Found Me</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="../Page/ペルソナ_〜トリニティ・ソウル〜.md" title="wikilink">ペルソナ~トリニティ・ソウル~ オリジナル・サウンドトラック</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>キケチャレ！feat. Negicco</p></td>
 <td><p>2017年2月15日</p></td>
 <td><p>'''ONE NIGHT SENSATION</p></td>
 <td><p>!'''</p></td>
 <td><p>編曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/喜多修平.md" title="wikilink">喜多修平</a></p></td>
 <td><p>2008年2月7日</p></td>
 <td><p><strong>キミの記憶</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Breakin&#39;_through" title="wikilink">Breakin' through</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008年7月16日</p></td>
 <td><p><strong>TOUGH BOY</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/キタポニクス" title="wikilink">キタポニクス</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年8月27日</p></td>
 <td><p><strong>Rain of mind</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/一斉の声" title="wikilink">一斉の声</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Cluster'S(岸尾大輔)</p></td>
 <td><p>2006年2月22日</p></td>
 <td><p><strong>君の声が聞こえる</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「クラスターエッジ キャラクターコレクション」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/GReeeeN" title="wikilink">GReeeeN</a></p></td>
+<td><p>2011年6月22日</p></td>
+<td><p><strong>pray</strong></p></td>
+<td><p>Piano</p></td>
+<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/花唄_(GReeeeNの曲)" title="wikilink">花唄</a>」</p></td>
+</tr>
+<tr class="odd">
 <td><p>2012年6月27日</p></td>
 <td><p><strong>恋文〜アナタへのラブレター〜</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/歌うたいが歌うたいに来て_歌うたえと言うが_歌うたいが歌うたうだけうたい切れば_歌うたうけれども_歌うたいだけ_歌うたい切れないから_歌うたわぬ!?" title="wikilink">歌</a>」</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2013年2月27日</p></td>
 <td><p><strong>陽の光</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/桜color" title="wikilink">桜color</a>」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年6月19日</p></td>
+<td><p><strong>フタリ</strong></p></td>
+<td><p>Piano</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/いいね!(´・ω・｀)☆" title="wikilink">いいね!(´・ω・`)☆</a>」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>両親への手紙</strong></p></td>
+<td><p>Piano</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -905,6 +976,13 @@ A・K・マクダウェル<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年9月25日</p></td>
+<td><p><strong>2/7の順序なき純情</strong></p></td>
+<td><p>Organ</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/第九_(GReeeeNのアルバム)" title="wikilink">第九</a>」</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
 <td><p>2015年12月16日</p></td>
 <td><p><strong>FACE</strong></p></td>
@@ -912,84 +990,84 @@ A・K・マクダウェル<br />
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST-" title="wikilink">globe20th<br />
 -SPECIAL COVER BEST-</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KTMusic" title="wikilink">KTMusic</a></p></td>
 <td><p>2015年2月18日</p></td>
 <td><p><strong>時代</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/KTMusic" title="wikilink">KTMusic</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Kentaro_Nishida" title="wikilink">Kentaro Nishida</a></p></td>
 <td><p>2018年12月20日</p></td>
 <td><p><strong>Beginning</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/Cassette" title="wikilink">Cassette</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Update</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Once more</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Answer</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Sky Cruising（TeddyLoid Remix）</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/五條真由美.md" title="wikilink">五條真由美</a></p></td>
 <td><p>2005年11月23日</p></td>
 <td><p><strong>Crystal</strong></p></td>
 <td><p>作曲</p></td>
 <td><p>Sg「<a href="../Page/ギャグ100回分愛してください.md" title="wikilink">ギャグ100回分愛してください</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/小松未可子" title="wikilink">小松未可子</a></p></td>
 <td><p>2013年2月13日</p></td>
 <td><p><strong>THEE Futures</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/THEE_Futures" title="wikilink">THEE Futures</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>アンブレラ</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年2月22日</p></td>
 <td><p><strong>Salvage</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Sail_away" title="wikilink">Sail away</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年5月14日</p></td>
 <td><p><strong>Sky message</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/e&#39;tuis" title="wikilink">e'tuis</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/小室哲哉" title="wikilink">小室哲哉</a></p></td>
 <td><p>2012年3月21日</p></td>
 <td><p><strong>Ayrton<br />
@@ -997,56 +1075,56 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>Remix</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/Digitalian_is_remixing" title="wikilink">Digitalian is remixing</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Psycho_le_Cemu.md" title="wikilink">Psycho le Cému</a></p></td>
 <td><p>2016年8月17日</p></td>
 <td><p><strong>LOVE IS DEAD</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「NOW AND THEN ~ THE WORLD ~」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>奇跡を知る僕らは五線譜に咲く希望を唄う</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>愛の唄</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/椎名慶治" title="wikilink">椎名慶治</a></p></td>
 <td><p>2014年11月12日</p></td>
 <td><p><strong>コンティニュー?</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/I_&amp;_key_EN_II" title="wikilink">I &amp; key EN II</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/シクラメン.md" title="wikilink">シクラメン</a></p></td>
 <td><p>2015年6月24日</p></td>
 <td><p><strong>エンドレスサマー</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/こんにちは羽田" title="wikilink">こんにちは羽田</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Sabão" title="wikilink">Sabão</a></p></td>
 <td><p>2013年10月31日</p></td>
 <td><p><strong>ta chi ma chi</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>配信限定Al「Alliance Vol.1」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ZYUN.</p></td>
 <td><p>2016年11月16日</p></td>
 <td><p><strong>ganbare</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「Monster」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物" title="wikilink">涼宮ハルヒ</a>（平野綾）</p></td>
 <td><p>2009年1月21日</p></td>
 <td><p><strong>空前未満は見せないで</strong></p></td>
@@ -1054,7 +1132,7 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>Al「<a href="../Page/涼宮ハルヒの激動.md" title="wikilink">涼宮ハルヒの激動<br />
 ボーカルミニアルバム</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年9月30日</p></td>
 <td><p><strong>その日空はきっと青い</strong></p></td>
 <td><p>作曲/編曲</p></td>
@@ -1062,12 +1140,47 @@ feat. Naoya Urata(AAA)</strong></p></td>
 ソング Vol.1 涼宮ハルヒ</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SPEED" title="wikilink">SPEED</a></p></td>
 <td><p>2010年9月1日</p></td>
 <td><p><strong>Tracks</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/指環_(SPEEDの曲)" title="wikilink">指環</a>」</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/SECONDWALL" title="wikilink">SECONDWALL</a></p></td>
+<td><p>2016年4月13日</p></td>
+<td><p><strong>恋の終わりに、桜舞い散る</strong></p></td>
+<td><p>編曲</p></td>
+<td><p>Al「OVER」</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>OVER</strong></p></td>
+<td><p>作曲/編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>S.I.N</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>何よりも透明で</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>君の世界を</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/焚吐" title="wikilink">焚吐</a></p></td>
@@ -1102,6 +1215,34 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p><strong>Lost and Found</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="../Page/CROSS_SEASON.md" title="wikilink">CROSS SEASON</a>」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a></p></td>
+<td><p>2015年8月5日</p></td>
+<td><p><strong>UTAGE（Re:boot）</strong></p></td>
+<td><p>Additional Synthesizer</p></td>
+<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/DOUBLE-DEAL" title="wikilink">DOUBLE - DEAL</a>」</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Naked arms（Re:boot）</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>The party must go on（Re:boot）</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年4月6日</p></td>
+<td><p><strong>Inherit the Force-インへリット・ザ・フォース- [Re:boot]</strong></p></td>
+<td><p>Additional Synthesizer</p></td>
+<td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Committed_RED/Inherit_the_Force_-インヘリット・ザ・フォース-" title="wikilink">COMMITTED RED INHERIT THE FORCE</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1263,20 +1404,27 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/中島美嘉" title="wikilink">中島美嘉</a></p></td>
+<td><p>2017年3月22日</p></td>
+<td><p><strong>TOUGH</strong></p></td>
+<td><p>Synth Programming</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/TOUGH_(中島美嘉のアルバム)" title="wikilink">TOUGH</a>」</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEWS_(グループ)" title="wikilink">NEWS</a></p></td>
 <td><p>2010年9月15日</p></td>
 <td><p><strong>LIVE</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/LIVE_(NEWSのアルバム)" title="wikilink">LIVE</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年3月4日</p></td>
 <td><p><strong>戀</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="../Page/STORY_(NEWSのアルバム).md" title="wikilink">STORY</a>」（通常盤）（<a href="../Page/増田貴久.md" title="wikilink">増田貴久</a>ソロ）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEKO_PUNCH" title="wikilink">NEKO PUNCH</a></p></td>
 <td><p>2015年7月8日</p></td>
 <td><p><strong>大人ならわかるでしょ</strong></p></td>
@@ -1284,35 +1432,35 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>配信限定Sg<br />
 「<a href="https://ja.wikipedia.org/wiki/GO_BABY!_&#39;SUPER&#39;_EDITION" title="wikilink">GO BABY! 'SUPER' EDITION</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/野村義男.md" title="wikilink">野村義男</a></p></td>
 <td><p>2020年2月29日</p></td>
 <td><p><strong>星降る愛のTOKYO</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/440Hz_with〈LIFE_OF_JOY〉" title="wikilink">440Hz with〈LIFE OF JOY〉</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Purple_Days" title="wikilink">Purple Days</a></p></td>
 <td><p>2012年3月14日</p></td>
 <td><p><strong>Sucker Punch</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/Sucker_Punch" title="wikilink">Sucker Punch</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>LIVmoments</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ユラユラLady -オドル恋-</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>背景コンビ<br />
 （水原薫・相沢舞）</p></td>
 <td><p>2007年10月31日</p></td>
@@ -1321,21 +1469,21 @@ feat. Naoya Urata(AAA)</strong></p></td>
 <td><p>Sg「<a href="../Page/らき☆すた_キャラクターソング.md" title="wikilink">らき☆すた キャラクターソング<br />
 Vol.009 背景コンビ</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/High_Speed_Boyz" title="wikilink">High Speed Boyz</a></p></td>
 <td><p>2010年7月7日</p></td>
 <td><p><strong>Story</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/are_u_docono_Softpunk!?" title="wikilink">are u docono Softpunk!?</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>KRASH KRASH</strong></p></td>
 <td><p>Remix</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>LONLEY NIGHT<br />
 -FM80'z All night boyz RMX</strong></p></td>
 <td><p>Remix</p></td>
@@ -1343,235 +1491,242 @@ Vol.009 背景コンビ</a>」</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Hyde" title="wikilink">HYDE</a></p></td>
 <td><p>2018年6月27日</p></td>
 <td><p><strong>MIDNIGHT CELEBRATION II</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「WHO’S GONNA SAVE US」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハッピー!クラッピー" title="wikilink">ハッピー!クラッピー</a></p></td>
 <td><p>2008年3月19日</p></td>
 <td><p><strong>ピッピケレケレ</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>DVD「ハッピー!ソング ベスト」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/VALS" title="wikilink">VALS</a></p></td>
 <td><p>2017年6月21日</p></td>
 <td><p><strong>Breakthrough</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「シルエット」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年10月25日</p></td>
 <td><p><strong>Be As You Are</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「mosh」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/hide" title="wikilink">hide</a> TRIBUTE Ⅵ -Female SPIRITS-</p></td>
 <td><p>2013年12月18日</p></td>
 <td><p><strong>In motion</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「hide TRIBUTE Ⅵ -Female SPIRITS-」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/HIMEKA" title="wikilink">HIMEKA</a></p></td>
 <td><p>2010年5月26日</p></td>
 <td><p><strong>Winding Road</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/未来へ..." title="wikilink">未来へ...</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/平野綾.md" title="wikilink">平野綾</a></p></td>
 <td><p>2007年10月10日</p></td>
 <td><p><strong>GLITTER</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="../Page/LOVE★GUN.md" title="wikilink">LOVE★GUN</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008年7月16日</p></td>
 <td><p><strong>HERO</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="../Page/RIOT_GIRL.md" title="wikilink">RIOT GIRL</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>曖昧スクリーム</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>RIOT GIRL</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年11月18日</p></td>
 <td><p><strong>stereotype 〜inst〜</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/スピード☆スター" title="wikilink">スピード☆スター</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>OH! My Darlin</strong>'</p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Kiss♥me</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>LocK-oN</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>スピード☆スター</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/PLIME.md" title="wikilink">PLIME</a></p></td>
 <td><p>2007年5月23日</p></td>
 <td><p><strong>HORIZON</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Faraway_(PLIMEの曲)" title="wikilink">Faraway</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フラチナリズム" title="wikilink">フラチナリズム</a></p></td>
 <td><p>2016年8月3日</p></td>
 <td><p><strong>Body &amp; Soul</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/ハーフ&amp;ハーフ_(フラチナリズムのアルバム)" title="wikilink">ハーフ＆ハーフ</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>懐かしき友よ</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Don't Stop My Love～アイツはドスマラ～</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>小さな恋のうた</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年5月17日</p></td>
 <td><p><strong>やってらんねぇ</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/ハーフ&amp;ハーフ2_(フラチナリズムのアルバム)" title="wikilink">ハーフ＆ハーフ2</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>恋愛レボリューション21</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>アイアイアイラブユー</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>君がいるだけで</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>帰っておいで</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>MUGO・ん…色っぽい</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>テトテ</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年4月22日</p></td>
 <td><p><strong>いきなりステキ</strong></p></td>
 <td><p>編曲</p></td>
-<td><p>Al「いきなりステキ」</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/いきなりステキ_(フラチナリズムのアルバム)" title="wikilink">いきなりステキ</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>シグナル</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ふんどし男の夢花道</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>物怪ダンス</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>思い出と白い花</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>単純にイエイ</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年6月17日</p></td>
+<td><p><strong>話したいこと</strong></p></td>
+<td><p>編曲</p></td>
+<td><p>Al「＆」</p></td>
 <td></td>
 </tr>
 <tr class="odd">

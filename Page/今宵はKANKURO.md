@@ -69,7 +69,7 @@
 | [宮崎県](../Page/宮崎県.md "wikilink")                       | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）       |                                                                      |                    |       |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                     | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）     |                                                                      |                    |       |         |
 | [沖縄県](../Page/沖縄県.md "wikilink")                       | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                          |                                                                      |                    |       |         |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")    | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       | 月曜 0時20分 - 0時50分（月曜深夜）                                               | 110分遅れ             |       |         |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")    | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       | 月曜 0時20分 - 0時50分（日曜深夜）                                               | 110分遅れ             |       |         |
 
 ## 脚注
 

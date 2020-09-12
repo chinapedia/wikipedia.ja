@@ -13,6 +13,8 @@
 
 今作以降、嵐のアルバムはすべてオリコン1位を獲得している。
 
+2020年2月7日より、収録曲のデジタル配信、及びサブスクリプション配信が解禁された。
+
 ## 収録曲
 
 ### CD
@@ -97,7 +99,12 @@
 
 <references />
 
-[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink")
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/いざッ、now)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=101)
+
+[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  「[嵐・相葉雅紀のレコメン\!アラシリミックス](../Page/嵐・相葉雅紀のレコメン!アラシリミックス.md "wikilink")」2004年6月26日放送分
 2.  コンサート「[2004 嵐\!いざッ、Now Tour\!\!](https://ja.wikipedia.org/wiki/2004_嵐!いざッ、Now_Tour!! "wikilink")」大阪公演のMCでメンバー談

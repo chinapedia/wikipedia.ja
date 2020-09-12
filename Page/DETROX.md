@@ -184,7 +184,7 @@
 
   - \- メンバーの[栄喜](../Page/栄喜.md "wikilink")による個人ブログだった。現在はバンドのニュース記事を掲載。
 
-  - [K-A-Z W-E-B](http://www.h4.dion.ne.jp/~k-a-z/) - メンバーの[K-A-Z](https://ja.wikipedia.org/wiki/K-A-Z "wikilink")による公式ウェブサイト。
+  - \- メンバーの[K-A-Z](https://ja.wikipedia.org/wiki/K-A-Z "wikilink")による公式ウェブサイト。
 
   - [kazuyoshi nagai officiail web site](http://www.101-union.com/k_nagai/) - 元メンバーの[MJ nagaiによる公式ウェブサイト](https://ja.wikipedia.org/wiki/MJ_nagai "wikilink")。閉鎖中。
 

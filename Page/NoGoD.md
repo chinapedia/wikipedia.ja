@@ -74,7 +74,7 @@
 
   -
     10月19日生まれ　O型
-    KANA、Dagger Remainのメンバーであるアンドゥと共にPIECElangで活動後、[-dist-](http://dist.syncl.jp/)も脱退。
+    KANA、Dagger Remainのメンバーであるアンドゥと共にPIECElangで活動後、[-dist-](https://web.archive.org/20101106170637/http://dist.syncl.jp/)も脱退。
     2013年、個人で活動している（アキセッション）。
 
 **KANA**（Bass）2005年10月脱退

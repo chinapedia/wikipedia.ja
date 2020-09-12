@@ -1,9 +1,11 @@
 > この記事は[Jag山本](https://ja.wikipedia.org/wiki/Jag山本)から翻訳されています。
 
 
-**Jag山本**（**ジャグ ヤマモト**、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - ）は、日本の[ライター](../Page/著作家.md "wikilink")/[ソフトウェアプロデューサー](https://ja.wikipedia.org/wiki/ソフトウェアプロデューサー "wikilink")/[編集者](../Page/編集者.md "wikilink")/[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。2009年9月現在[G DATA Software日本法人の代表取締役社長である](../Page/G_DATA_Software.md "wikilink")。
+**Jag山本**（**ジャグ ヤマモト**、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - ）は、日本の[ライター](../Page/著作家.md "wikilink")/[ソフトウェアプロデューサー](https://ja.wikipedia.org/wiki/ソフトウェアプロデューサー "wikilink")/[編集者](../Page/編集者.md "wikilink")/[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[G DATA Software日本法人の代表取締役社長を務めたのちJag](../Page/G_DATA_Software.md "wikilink") project,LLCを設立。武蔵野美術大学大学院講師。
 
 ニッチなテクノロジーに精通し特にビデオ圧縮の世界では「圧縮師」と呼ばれ[フォーカス誌などで特集されたこともある](../Page/FOCUS.md "wikilink")。
+
+雑誌編集長、商品企画などで未踏ジャンルを開拓。多くの商品が受賞、ヒット商品となっている。
 
 [DVD-Video](../Page/DVD-Video.md "wikilink")と[DVD](../Page/DVD.md "wikilink")-ROMのハイブリッドDVD(Clonez)や、QuicktimeMPG、[BeOS](../Page/BeOS.md "wikilink")専門誌などを世界で最初に製品化したことでも知られる。
 
@@ -50,6 +52,7 @@
   - 「GIGAZINE」(寄稿)
   - 「新IT時代への提言2011」([アスキー総合研究所](https://ja.wikipedia.org/wiki/アスキー総合研究所 "wikilink") 執筆)
   - 「クチコミ信者の銭失い」(月刊MONOQLO 連載)
+  - VALED.Press 編集人
 
 ## 音楽
 
@@ -60,12 +63,15 @@
 
 ## 外部リンク
 
-  - BeatBroker
-      - [EP"BeatBroker"](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=330995517)
+  - バレッドプレス
 
-<!-- end list -->
+[1](http://valed.press)
+
+  - 武蔵野美術大学
+
+[2](http://musabi.ac.jp/course/undergraduate/faculty/)
 
   - 公式サイト
-      - [ネット犯罪者なんていらない](https://ameblo.jp/antiviruslab/)
+      - [3](https://jagproject.com)
 
 [Category:日本の映像作家](https://ja.wikipedia.org/wiki/Category:日本の映像作家 "wikilink") [Category:日本の情報技術者](https://ja.wikipedia.org/wiki/Category:日本の情報技術者 "wikilink") [Category:日本の編集者](https://ja.wikipedia.org/wiki/Category:日本の編集者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

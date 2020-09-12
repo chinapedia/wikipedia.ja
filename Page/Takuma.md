@@ -1,7 +1,7 @@
 > この記事は[Takuma](https://ja.wikipedia.org/wiki/Takuma)から翻訳されています。
 
 
-**TAKUMA**（たくま、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月17日](../Page/11月17日.md "wikilink") - ）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長172-173cmくらい、体重は57kgくらい、靴の大きさは、27.0cm。
+**TAKUMA**（たくま）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長172-173cmくらい、体重は57kgくらい、靴の大きさは、27.0cm。
 
 ## 略歴
 

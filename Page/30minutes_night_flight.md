@@ -15,23 +15,52 @@
 
 ## 収録曲
 
-1.  **30minutes night flight**
-      - 作詞：坂本真綾、作曲：[山田稔明](../Page/GOMES_THE_HITMAN.md "wikilink")、編曲：[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
-2.  **ドリーミング**
-      -
-        前曲と[クロスフェード](https://ja.wikipedia.org/wiki/クロスフェード "wikilink")している。
-    <!-- end list -->
-      - 作詞：坂本真綾、作曲：[奥田健介](../Page/ノーナ・リーヴス.md "wikilink")、編曲：森俊之
-3.  **記憶-there's no end**
-      - 作詞・作曲、[鈴木祥子](../Page/鈴木祥子.md "wikilink")、編曲：森俊之
-4.  **僕たちが恋をする理由**
-      - 作詞：坂本真綾、作曲：[高田みち子](../Page/高田みち子.md "wikilink")、編曲：森俊之
-5.  **セツナ**
-      - 作詞・作曲：山田稔明、編曲：森俊之
-6.  **ユニバース**
-      - 作詞：坂本真綾、作曲：鈴木祥子、編曲：森俊之
-7.  **30minutes night flight〜sound of a new day**
-      - 作曲・編曲：森俊之
+  - （全曲）編曲：[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
+
+## 参加ミュージシャン
+
+**30minutes night flight**
+
+  - E.Bass：[沖山優司](../Page/沖山優司.md "wikilink")
+  - Guitar：[古川昌義](../Page/古川昌義.md "wikilink")
+  - All Other Instruments：森俊之
+
+**ドリーミング**
+
+  - Drums：[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")
+  - E.Bass：[松原秀樹](../Page/松原秀樹.md "wikilink")
+  - Guitars：古川昌義
+  - Percussion：浜口茂外也
+  - Fender Rhode＆Hammond Organ：森俊之
+
+**記憶-there's no end**
+
+  - All Instruments：森俊之
+
+**僕たちが恋をする理由**
+
+  - A.Piano：[塩谷哲](../Page/塩谷哲.md "wikilink")
+  - Synthesizer Programming：森俊之
+
+**セツナ**
+
+  - Drums＆Tambourine：[河村"カースケ"智康](../Page/河村智康.md "wikilink")
+  - E.Bass：[亀田誠治](../Page/亀田誠治.md "wikilink")
+  - Guitar：[西川進](../Page/西川進.md "wikilink")
+  - A.Piano,Hammond Organ＆Mini moog：森俊之
+
+**ユニバース**
+
+  - E.Bass：沖山優司
+  - Grand Harp：[朝川朋之](../Page/朝川朋之.md "wikilink")
+  - Oboe：庄司知史
+  - Percussion：山田信正
+  - Strings：金原千恵子ストリングズ
+  - All Other Instruments：森俊之
+
+**30minutes night flight〜sound of a new day**
+
+  - All Instruments：森俊之
 
 ## 概要
 

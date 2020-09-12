@@ -31,4 +31,4 @@ MySQL ABのためのほかの財源は、サポート・コンサルティング
   - 2006年 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[レッドハット](../Page/レッドハット.md "wikilink")、SAP AGその他による資金調達
   - 2008年 [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")に買収され消滅
 
-[Category:かつて存在したスウェーデンの企業](https://ja.wikipedia.org/wiki/Category:かつて存在したスウェーデンの企業 "wikilink") [Category:クパチーノの企業](https://ja.wikipedia.org/wiki/Category:クパチーノの企業 "wikilink") [Category:サン・マイクロシステムズ](https://ja.wikipedia.org/wiki/Category:サン・マイクロシステムズ "wikilink") [Category:ウプサラ](https://ja.wikipedia.org/wiki/Category:ウプサラ "wikilink")
+[Category:かつて存在したスウェーデンの企業](https://ja.wikipedia.org/wiki/Category:かつて存在したスウェーデンの企業 "wikilink") [Category:クパチーノの企業](https://ja.wikipedia.org/wiki/Category:クパチーノの企業 "wikilink") [Category:サン・マイクロシステムズ](https://ja.wikipedia.org/wiki/Category:サン・マイクロシステムズ "wikilink") [Category:ウプサラの歴史](https://ja.wikipedia.org/wiki/Category:ウプサラの歴史 "wikilink")

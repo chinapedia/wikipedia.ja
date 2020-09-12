@@ -13,7 +13,7 @@
 
 麟太郎は苦しみながらも、ロードレース選手としての肉体を競輪選手としての肉体に改造することに成功し、競輪学校を卒業、晴れて競輪選手としてのデビューを迎えた。しかし麟太郎の金銭的負担は当初の目論見よりも更に増えていた。
 
-麟太郎は当初、競輪を単なる金儲けのための手段としか思っていなかったが、競輪学校の仲間や先輩たちと研鑽を重ね競輪の魅力を肌で感じ、本格的に競輪に取り込むことを決意。終生のライバル藤沢悠はロードレース界の、麟太郎は競輪界の頂上「[ラルプ・デュエズ](../Page/ラルプ・デュエズ.md "wikilink")」を目指すことを共に誓い合い、麟太郎はバンクを駆け抜けるのだった。
+麟太郎は当初、競輪を単なる金儲けのための手段としか思っていなかったが、競輪学校の仲間や先輩たちと研鑽を重ね競輪の魅力を肌で感じ、本格的に競輪に取り組むことを決意。終生のライバル藤沢悠はロードレース界の、麟太郎は競輪界の頂上「[ラルプ・デュエズ](../Page/ラルプ・デュエズ.md "wikilink")」を目指すことを共に誓い合い、麟太郎はバンクを駆け抜けるのだった。
 
 ## 主な登場人物
 
@@ -116,7 +116,7 @@
   - [Odds -オッズ- 登場人物紹介](http://keirin.jp/pc/dfw/portal/guest/Odds/character.html)
   - [Odds -オッズ- 毎号のあらすじ](http://keirin.jp/pc/dfw/portal/guest/Odds/odds.html)
 
-[Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:自転車を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:自転車を題材にした漫画作品 "wikilink") [Category:競輪を題材とした作品](https://ja.wikipedia.org/wiki/Category:競輪を題材とした作品 "wikilink") [Category:石渡治](https://ja.wikipedia.org/wiki/Category:石渡治 "wikilink") [Category:漫画のシリーズ](https://ja.wikipedia.org/wiki/Category:漫画のシリーズ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:自転車を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:自転車を題材にした漫画作品 "wikilink") [Category:競輪を題材とした作品](https://ja.wikipedia.org/wiki/Category:競輪を題材とした作品 "wikilink") [Category:石渡治](https://ja.wikipedia.org/wiki/Category:石渡治 "wikilink") [Category:漫画のシリーズ](https://ja.wikipedia.org/wiki/Category:漫画のシリーズ "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink")
 
 1.  [ヤングサンデー連載作品の今後についてのお知らせ](http://www.youngsunday.com/sakuhin.html)
 2.  石渡治『Odds GP\! 3』（双葉社、2010年）収録「その男、危険につき」

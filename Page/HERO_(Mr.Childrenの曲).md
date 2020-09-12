@@ -32,6 +32,48 @@
 
   - [Bank Band](../Page/Bank_Band.md "wikilink") - セルフカバー。カバーアルバム『[沿志奏逢](../Page/沿志奏逢.md "wikilink")』収録。
 
+## テレビ出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>日付</p></th>
+<th><p>放送局</p></th>
+<th><p>演奏曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2008_FNS歌謡祭" title="wikilink">2008 FNS歌謡祭</a></p></td>
+<td><p>2008年12月3日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p><strong>HERO</strong><br />
+<a href="https://ja.wikipedia.org/wiki/HANABI_(Mr.Childrenの曲)" title="wikilink">HANABI</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## ライブ映像作品
+
+**HERO**
+
+| 作品名                                                                                                                                               | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                 |    |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                |    |
+| [ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")                                                                       |    |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")               |    |
+| [Mr.Children TOUR 2011 "SENSE"](https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_"SENSE" "wikilink")                                           |    |
+| [Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink") |    |
+| \[\[Mr.Children［(an_imitation)_blood_orange］Tour|Mr.Children \[(an imitation) blood orange\] Tour\]\]                                          |    |
+
+**空風の帰り道**
+
+| 作品名                                                                         | 備考 |
+| --------------------------------------------------------------------------- | -- |
+| [ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink") |    |
+
 ## 収録アルバム
 
   - 『[シフクノオト](../Page/シフクノオト.md "wikilink")』 (\#1,\#2)

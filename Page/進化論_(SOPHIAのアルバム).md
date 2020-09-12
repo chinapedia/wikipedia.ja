@@ -1,7 +1,7 @@
 > この記事は[進化論 \(SOPHIAのアルバム\)](https://ja.wikipedia.org/wiki/進化論_\(SOPHIAのアルバム\))から翻訳されています。
 
 
-『**進化論**』（しんかろん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[SOPHIA](../Page/SOPHIA.md "wikilink")の4枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
+『**進化論**』（しんかろん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[SOPHIA](../Page/SOPHIA.md "wikilink")の7枚目の[アルバム](../Page/スタジオ・アルバム.md "wikilink")（フルアルバムでは4枚目）。[2001年](../Page/2001年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
 
 ## 概要
 

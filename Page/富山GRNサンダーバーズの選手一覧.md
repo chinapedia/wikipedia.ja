@@ -7,11 +7,38 @@
 
 ## 首脳陣
 
-| 背番号 | 名前                                                    | 役職        |
-| --- | ----------------------------------------------------- | --------- |
-| 39  | [田畑一也](../Page/田畑一也.md "wikilink")                    | 監督        |
-| 37  | [長江翔太](https://ja.wikipedia.org/wiki/長江翔太 "wikilink") | コーチ       |
-| 38  | [吉田凌太](https://ja.wikipedia.org/wiki/吉田凌太 "wikilink") | アシスタントコーチ |
+<table>
+<thead>
+<tr class="header">
+<th><p>背番号</p></th>
+<th><p>名前</p></th>
+<th><p>役職</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p><a href="../Page/田畑一也.md" title="wikilink">田畑一也</a></p></td>
+<td><p>監督</p></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/永森大士" title="wikilink">永森大士</a></p></td>
+<td><p>野手総合コーチ<br />
+登録名「大士」</p></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長江翔太" title="wikilink">長江翔太</a></p></td>
+<td><p>野手コーチ</p></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉田凌太" title="wikilink">吉田凌太</a></p></td>
+<td><p>アシスタントコーチ</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 所属選手
 
@@ -43,68 +70,67 @@
 <td><p>投手主将</p></td>
 </tr>
 <tr class="odd">
-<td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田康平" title="wikilink">武田康平</a></p></td>
+<td><p>12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/下沢慎吾" title="wikilink">下沢慎吾</a></p></td>
 <td><p>右</p></td>
-<td></td>
+<td><p>右</p></td>
 <td><p>2020年新入団</p></td>
 </tr>
 <tr class="even">
-<td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牧野圭佑" title="wikilink">牧野圭佑</a></p></td>
-<td></td>
-<td></td>
+<td><p>14</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武田康平" title="wikilink">武田康平</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
 <td><p>2020年新入団</p></td>
 </tr>
 <tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/牧野圭佑" title="wikilink">牧野圭佑</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="even">
 <td><p>16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松永健二郎" title="wikilink">松永健二郎</a></p></td>
 <td><p>右</p></td>
 <td><p>右</p></td>
 <td><p>2020年新入団</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有馬昌宏" title="wikilink">有馬昌宏</a></p></td>
 <td><p>左</p></td>
 <td><p>左</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カム・ウーター" title="wikilink">カム・ウーター</a></p></td>
 <td><p>右</p></td>
 <td><p>右</p></td>
 <td><p>登録名「ウーター」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/早瀬翔馬" title="wikilink">早瀬翔馬</a></p></td>
 <td><p>右</p></td>
 <td><p>左</p></td>
 <td><p>2020年新入団</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャレット・ブラウン" title="wikilink">ジャレット・ブラウン</a></p></td>
 <td><p>左</p></td>
 <td><p>右</p></td>
 <td><p>登録名「ブラウン」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山川晃司" title="wikilink">山川晃司</a></p></td>
 <td><p>右</p></td>
 <td><p>右</p></td>
 <td><p>元：<a href="https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ" title="wikilink">東京ヤクルトスワローズ</a><br />
-2020年新入団</p></td>
-</tr>
-<tr class="odd">
-<td><p>23</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファビアン・ローマン" title="wikilink">ファビアン・ローマン</a></p></td>
-<td><p>右</p></td>
-<td><p>右</p></td>
-<td><p>登録名「ローマン」<br />
 2020年新入団</p></td>
 </tr>
 <tr class="even">
@@ -156,8 +182,8 @@
 <tr class="even">
 <td><p>13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/後藤大葵" title="wikilink">後藤大葵</a></p></td>
-<td></td>
-<td></td>
+<td><p>右</p></td>
+<td><p>左</p></td>
 <td><p>2020年新入団</p></td>
 </tr>
 <tr class="odd">
@@ -185,8 +211,8 @@
 <tr class="even">
 <td><p>44</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石田宝輝" title="wikilink">石田宝輝</a></p></td>
-<td></td>
-<td></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
 <td><p>2020年新入団</p></td>
 </tr>
 </tbody>

@@ -7,7 +7,7 @@
 
 3ヶ月連続シングルリリースの第2弾。「CD+DVD」「CDのみ」の2形態で発売。
 
-表題曲は、メンバーの[TAKAHIROがグループ加入を決めた](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")2006年開催のオーディション「[VOCAL BATTLE AUDITION](https://ja.wikipedia.org/wiki/VOCAL_BATTLE_AUDITION#EXILE_VOCAL_BATTLE_AUDITION_2006_〜ASIAN_DREAM〜 "wikilink")」の2次審査課題曲であった\[1\]。
+表題曲は、メンバーの[TAKAHIROがグループ加入を決めた](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")2006年開催のEXILE新ボーカルオーディション「[VOCAL BATTLE AUDITION](https://ja.wikipedia.org/wiki/VOCAL_BATTLE_AUDITION#EXILE_VOCAL_BATTLE_AUDITION_2006_〜ASIAN_DREAM〜 "wikilink")」の2次審査課題曲であった\[1\]。
 
 「au×EXILE」キャンペーンソングとしてauユーザー向けに「Lovers Again」auバージョンのビデオクリップ、着うた／待ちうたを1曲無料でプレゼント、「Lovers Again」auバージョンのCDをオンライン販売サイト「au Records」で限定発売された。\[2\]
 
@@ -28,14 +28,17 @@
         作詞：ATSUSHI / 作曲：和田耕平 / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       - music.jp TVCFソング\[11\]
-3.  Lovers Again (Instrumental)
-4.  Change My Mind (Instrumental)
-5.  **Lovers Again (The Finalist Version)**
-      - 初回限定盤のみ収録
+3.  Lovers Again（Instrumental）
+4.  Change My Mind（Instrumental）
+5.  **Lovers Again**（The Finalist Version）
+      -
+        初回限定盤のみ収録。
 
 ### DVD
 
-1.  Lovers Again (Video Clip)
+※CD+DVDのみ
+
+1.  **Lovers Again**（Video Clip）
 2.  EXILE関連のインフォメーション
 
 ## カバー

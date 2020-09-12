@@ -1,7 +1,7 @@
 > この記事は[ベレッタCx4](https://ja.wikipedia.org/wiki/ベレッタCx4)から翻訳されています。
 
 
-**ベレッタCx4**は、[イタリア](../Page/イタリア.md "wikilink")の[ベレッタ社により](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")、民間市場および[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")向けに開発された[自動小銃](../Page/自動小銃.md "wikilink")である。カテゴリーこそ自動小銃に位置するものの、[実包](../Page/実包.md "wikilink")は[ライフル弾ではなく](../Page/小銃.md "wikilink")[ピストル弾を使用する](../Page/拳銃.md "wikilink")。Stormファミリーで最初に発表された。デザイナーは[ベレッタ9000Sも担当した](https://ja.wikipedia.org/wiki/:en:Beretta_9000 "wikilink")[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")。前述の通り、民間市場および法執行機関向けの銃であるため、フルオート機能は初めから無い(誤射による第三者、[人質](../Page/人質.md "wikilink")および味方の被害を防ぐため、法執行機関は(最近は[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")も)[市街地](../Page/市街地.md "wikilink")でフルオート機能は使わない。
+**ベレッタCx4**（）は、[イタリア](../Page/イタリア.md "wikilink")の[ベレッタ社により](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")、民間市場および[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")向けに開発された[自動小銃](../Page/自動小銃.md "wikilink")である。カテゴリーこそ自動小銃に位置するものの、[実包](../Page/実包.md "wikilink")は[ライフル弾ではなく](../Page/小銃.md "wikilink")[ピストル弾を使用する](../Page/拳銃.md "wikilink")。Stormファミリーで最初に発表された。デザイナーは[ベレッタ9000Sも担当した](https://ja.wikipedia.org/wiki/:en:Beretta_9000 "wikilink")[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")。前述の通り、民間市場および法執行機関向けの銃であるため、フルオート（連射）機能はMx4を除き、初めから無い\[1\]。
 
 ## 概要
 
@@ -56,12 +56,16 @@ Cx4の「C」は「Caliber（[口径](../Page/口径.md "wikilink")）」（「[
   - 『[レインボーシックス シージ](https://ja.wikipedia.org/wiki/レインボーシックス_シージ "wikilink")』
     DLC第9弾「OPERATION PARA BELLUM(オペレーション・パラベラム)」で登場した防衛オペレーター「アリバイ」の武器として登場。低反動高レート低ダメージ。
 
+## 脚注
+
 ## 関連項目
 
+  - [短機関銃](../Page/短機関銃.md "wikilink")
   - [小銃](../Page/小銃.md "wikilink")
   - [自動小銃](../Page/自動小銃.md "wikilink")
   - [カービン](../Page/カービン.md "wikilink")
   - [ベレッタ](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")
+  - [ベレッタ92](https://ja.wikipedia.org/wiki/ベレッタ92 "wikilink")
   - [Px4 Storm](../Page/ベレッタPx4.md "wikilink")
   - [Tx4 Storm](https://ja.wikipedia.org/wiki/ベレッタTx4 "wikilink")
   - [Rx4 Storm](../Page/ベレッタRx4.md "wikilink")
@@ -73,3 +77,5 @@ Cx4の「C」は「Caliber（[口径](../Page/口径.md "wikilink")）」（「[
   - [Modern Firearms](http://world.guns.ru/civil/civ003-e.htm)
 
 [Category:半自動小銃](https://ja.wikipedia.org/wiki/Category:半自動小銃 "wikilink") [Category:9mmパラベラム弾使用銃](https://ja.wikipedia.org/wiki/Category:9mmパラベラム弾使用銃 "wikilink") [Category:イタリアの小火器](https://ja.wikipedia.org/wiki/Category:イタリアの小火器 "wikilink")
+
+1.  誤射による第三者、[人質](../Page/人質.md "wikilink")および味方の被害を防ぐためだけではなく弾薬の節約などの理由がある。また、法執行機関では（最近は[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")も）[市街地](../Page/市街地.md "wikilink")でフルオート（連射）機能はあまり使われずセミオート（単射）機能での射撃が基本である。

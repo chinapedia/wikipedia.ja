@@ -31,7 +31,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 <!-- end list -->
 
   -
-    ドラム担当。[1977年](../Page/1977年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")生まれ。初期からのメンバー。2006年12月14日、渋谷club asia「流\[ryu\] TOUR FINAL」のアンコールのみの演奏が最後のステージとなり同日付で脱退。アンコール部分がMACCHINのために行われた事実上の引退ライブであった。現在は有吉やマツコの番組、アンジャッシュ渡部のおすすめ等で多数のメディアに度々取り上げられる、築地の人気老舗蕎麦屋「長生庵」の二代目店主\[5\]。
+    ドラム担当。[1977年](../Page/1977年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")生まれ。初期からのメンバー。2006年12月14日、渋谷club asia「流\[ryu\] TOUR FINAL」のアンコールのみの演奏が最後のステージとなり同日付で脱退。アンコール部分がMACCHINのために行われた事実上の引退ライブであった。現在は有吉やマツコの番組等で多数のメディアに度々取り上げられる、築地の人気老舗蕎麦屋「長生庵」の二代目店主\[5\]。
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 
 2018年9月29日より、中国語セルフカバー「黑色小丑 ～Clown～」が2018年１０月２６日より、「夢想～Carry on～」が、中華圏の配信サブスクリプションサービスにて配信開始し、本格的に中華圏での活動を広げている。
 
-『[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")』、『[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")』や『[lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") 』などのアイドルグループや、『[EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")』、テレビアニメ『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』主題歌などの幅広いジャンルにも、楽曲提供を行っている。
+『[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")』、『[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")』や『[lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") 』などのアイドルグループや、『[EXILE SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")』、テレビアニメ『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink") (アニメ)』主題歌などの幅広いジャンルにも、楽曲提供を行っている。
 
 ## 主な経歴
 
@@ -243,7 +243,10 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
       - [1月21日](../Page/1月21日.md "wikilink")に、原宿ストロボカフェにて1月22日にデジタルミニアルバム「rebirth」リリースを記念して、メンバーによるトークイベントを開催。
       - [2月11日](../Page/2月11日.md "wikilink")から、[2月22日](../Page/2月22日.md "wikilink")の[渋谷O-WEST](https://ja.wikipedia.org/wiki/渋谷O-WEST "wikilink")まで、東京、名古屋、大阪の3都市をまわる、東名阪ワンマンツアー＜rebirth TOUR＞を開催。
       - [4月26日](../Page/4月26日.md "wikilink")より、2020年の15周年イヤーを機に、有料ファンコミュニティ「BACK-ON CLAN」を開設。
-      - [6月14日](../Page/6月14日.md "wikilink")に代官山SPACE ODDにて、BACK-ON主催イベント「Bring the Noise Vol.2」を開催。新型コロナウイルスの影響を受け、観客を入れず生配信になり、BACK-ONのワンマンライブへと変更。配信はファンコミュニティ「BACK-ON CLAN」にて全編、冒頭から30分をYouTube内のBACKONch にてライブ公開。
+      - [6月14日](../Page/6月14日.md "wikilink")に代官山SPACE ODDにて、BACK-ON主催イベント「Bring the Noise Vol.2」を開催。新型コロナウイルスの影響を受け、観客を入れず生配信になり、BACK-ONのワンマンライブへと変更。配信はファンコミュニティ「BACK-ON CLAN」にて全編、冒頭から30分をYouTube内のBACKONch にてライブ公開。ほぼシングル曲＋タイアップ曲でのセットリストだった。ラストのDepartureの間奏でGReeeeNとのユニットBAReeeeeeeeeeNの楽曲「足跡」のサビをライブ初歌唱したレアなライブとなった。
+      - 8月7日から8月9日まで上海の国家会展中心にて開催された、3日間で延べ15万人の動員を記録しオンラインでは950万視聴された、大型イベント「BilibiliWorld 2020」にて、東京よりリモートライブ出演。BACK-ONの出演時は162万視聴されて注目を集めた。
+      - 8月15日から16日まで、カナダのバンクーバーで開催されるオンラインフェスティバル「OTAKUTHON 2020」にオンラインライブ出演。
+      - 8月29日に開催された、「a-nation online 2020」に出演。
 
 ## ディスコグラフィ
 

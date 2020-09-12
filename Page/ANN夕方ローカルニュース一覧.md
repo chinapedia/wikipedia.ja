@@ -30,7 +30,7 @@
       - リポーター： [重信友里](https://ja.wikipedia.org/wiki/重信友里 "wikilink")
       - 放送時間：平日16:35 - 19:00（ローカルニュース枠は16:35 - 16:40、17:33 - 17:50、18:15 - 19:00）
   - AAB [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")
-      - 『[スーパーJチャンネルトレタテ\!](https://ja.wikipedia.org/wiki/スーパーJチャンネルトレタテ! "wikilink")』■
+      - 『[トレタテ\!](https://ja.wikipedia.org/wiki/トレタテ! "wikilink")』■
       - キャスター：[高橋正和](https://ja.wikipedia.org/wiki/高橋正和 "wikilink")、[永井華子](https://ja.wikipedia.org/wiki/永井華子 "wikilink")
       - 放送時間：平日16:48 - 19:00（ローカルニュース枠は16:48 - 16:50、金曜17:10頃 - 17:53、18:15 - 19:00）
   - YTS [山形テレビ](../Page/山形テレビ.md "wikilink")
@@ -104,7 +104,8 @@
       - 放送時間 : 平日 18:15 - 19:00
   - ncc [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")
       - 『[NCCスーパーJチャンネル長崎](../Page/NCCスーパーJチャンネル長崎.md "wikilink")』■
-      - キャスター：[溝田浩司](https://ja.wikipedia.org/wiki/溝田浩司 "wikilink")、[藤坂奈央](https://ja.wikipedia.org/wiki/藤坂奈央 "wikilink")、[野仲郁宏](https://ja.wikipedia.org/wiki/野仲郁宏 "wikilink") (気象予報士)
+      - キャスター：[大嶋真由子](https://ja.wikipedia.org/wiki/大嶋真由子 "wikilink")、[玉置佑規](https://ja.wikipedia.org/wiki/玉置佑規 "wikilink")、[佐藤綾子](https://ja.wikipedia.org/wiki/佐藤綾子_\(アナウンサー\) "wikilink")、[川越智子](https://ja.wikipedia.org/wiki/川越智子 "wikilink")、[藤坂奈央](https://ja.wikipedia.org/wiki/藤坂奈央 "wikilink")
+      - お天気キャスター : [野仲郁宏](https://ja.wikipedia.org/wiki/野仲郁宏 "wikilink")（気象予報士）
       - 放送時間：月曜 18:15 - 18:30、火曜 - 金曜　18:15 - 19:00
   - KAB [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")
       - 『[くまパワJ](https://ja.wikipedia.org/wiki/くまパワJ "wikilink")』

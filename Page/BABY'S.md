@@ -90,4 +90,4 @@
 
   - 時の宝石 Mouvement de Menuet（大型本 1992年4月 [伊藤隼也](https://ja.wikipedia.org/wiki/伊藤隼也 "wikilink")・アルカディアブックス出版）
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:オスカープロモーション所属者のグループ](https://ja.wikipedia.org/wiki/Category:オスカープロモーション所属者のグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:オスカープロモーション所属者のグループ](https://ja.wikipedia.org/wiki/Category:オスカープロモーション所属者のグループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

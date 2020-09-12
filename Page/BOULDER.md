@@ -15,6 +15,7 @@
 1.  **[How To See You Again](https://ja.wikipedia.org/wiki/How_To_See_You_Again/Noizy_Tribe "wikilink")**
 2.  **[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")**
       - アニメ「[頭文字D](../Page/頭文字D.md "wikilink") Forth stage」オープニング曲（ACT1～ACT10）
+      - PSP版 頭文字D Street Stage オープニング曲
 3.  **無礼講ナイト ～bring Your Mic～**
 4.  **Nobody reason ～ノアの方舟**
       - アニメ「頭文字D Forth stage」エンディング曲（ACT11～）

@@ -1,15 +1,15 @@
 > この記事は[Tron \(バンド\)](https://ja.wikipedia.org/wiki/Tron_\(バンド\))から翻訳されています。
 
 
-**tron**（トロン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。2004年に自主レーベル「st.romantic high record」を設立。2007年[avex traxよりメジャーデビュー](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+**tron**（トロン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。2004年に自主レーベル「st.romantic high record」を設立。2007年[avex traxよりメジャーデビュー](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。 2009年1月に解散。
+
+## 概要
 
 honeydipのメンバーと、catenineの山崎の5人によりtronの母体となるバンドsugarcoatを結成。
-その後、名義をthe tronへ変更。
-ギターの市原が脱退。
-KULU/KULUの高橋がヘルプで加入し現在のメンバーとなる。
-avaxからのメジャーデビューの際に名義をtronへ変更。
-2009年1月に解散。
 
+その後、名義をthe tronへ変更。ギターの市原が脱退。KULU/KULUの高橋がヘルプで加入し現在のメンバーとなる。
+
+avaxからのメジャーデビューの際に名義をtronへ変更。
 
 ## メンバー
 
@@ -79,4 +79,4 @@ avaxからのメジャーデビューの際に名義をtronへ変更。
   - [BURNS 高橋道晃所属](http://burns.main.jp/)
   - [CQ 渋谷潤所属](http://cqband-jp.com/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")

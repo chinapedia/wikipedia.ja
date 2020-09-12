@@ -60,9 +60,10 @@
 ## 外部リンク
 
   - [A-bike](http://www.a-bike.co.uk/)
-  - \[<http://item.rakuten.co.jp/myfriend/c/0000000429/>　ディアマイフレンド(A-bike日本正規代理店)\]
-  - [A-bike JAPANオフィシャルサイト](http://www.abike-uk.com/)
 
+  - \[<http://item.rakuten.co.jp/myfriend/c/0000000429/>　ディアマイフレンド(A-bike日本正規代理店)\]
+
+  -
 [Category:自転車の車種](https://ja.wikipedia.org/wiki/Category:自転車の車種 "wikilink")
 
 1.  [小径タイヤの折りたたみ自転車（A-RideX）の強度不足に注意\!（国民生活センター）](http://www.kokusen.go.jp/news/data/n-20100922_1.html)

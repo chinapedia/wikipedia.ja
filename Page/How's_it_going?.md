@@ -9,6 +9,7 @@
   - また、このアルバム収録曲を中心に構成された2003年夏のツアー「ARASHI SUMMER CONCERT 2003 How's it going?」の模様が収められたDVD『[How's it going? SUMMER CONCERT 2003](https://ja.wikipedia.org/wiki/How's_it_going?_SUMMER_CONCERT_2003 "wikilink")』も発売された。
   - 本作のリード曲「**Lucky Man**」にはPVが存在しており、2ndベストアルバム『[5×5 THE BEST SELECTION OF 2002←2004](../Page/5×5_THE_BEST_SELECTION_OF_2002←2004.md "wikilink")』初回限定盤特典DVDと『[5×10 All the BEST\! CLIPS 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_CLIPS_1999-2009 "wikilink")』、『[5×20 All the BEST\!\! CLIPS 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_CLIPS_1999-2019 "wikilink")』初回限定盤に収録されている。PVの監督は、「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」「[SUNRISE日本](https://ja.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")」「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」「[ナイスな心意気](../Page/ナイスな心意気.md "wikilink")」も手がけた[川村ケンスケ](../Page/川村ケンスケ.md "wikilink")。
   - このアルバムには、シングル曲が2曲収録されているが、2曲ともAlbum Versionとなっている。
+  - 2020年2月7日より、収録曲のデジタル配信、及びサブスクリプション配信が解禁された。
 
 ## 収録曲
 
@@ -77,6 +78,11 @@
 
 <references />
 
-[Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink")
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/hows-it-going)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=102)
+
+[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")
 
 1.  『嵐 楽曲完全ガイド2016』（鉄人社、2015年11月14日発売、38頁）

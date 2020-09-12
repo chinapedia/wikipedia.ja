@@ -10,4 +10,4 @@
   - [VGガス](../Page/VGガス.md "wikilink")
   - [VXガス](../Page/VXガス.md "wikilink")
 
-[Category:神経ガス](https://ja.wikipedia.org/wiki/Category:神経ガス "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:有機硫黄化合物](https://ja.wikipedia.org/wiki/Category:有機硫黄化合物 "wikilink")
+[Category:化学兵器](https://ja.wikipedia.org/wiki/Category:化学兵器 "wikilink") [Category:神経ガス](https://ja.wikipedia.org/wiki/Category:神経ガス "wikilink") [Category:有機リン化合物](https://ja.wikipedia.org/wiki/Category:有機リン化合物 "wikilink") [Category:有機硫黄化合物](https://ja.wikipedia.org/wiki/Category:有機硫黄化合物 "wikilink") [Category:コリンエステラーゼ阻害薬](https://ja.wikipedia.org/wiki/Category:コリンエステラーゼ阻害薬 "wikilink") [Category:V剤](https://ja.wikipedia.org/wiki/Category:V剤 "wikilink")

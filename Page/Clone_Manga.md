@@ -56,6 +56,6 @@
 ## 外部リンク
 
   - [Clone Mangaのサイト](http://manga.clone-army.org/)（英語、一部のページは日本語などに対応）
-  - [Akiba Angels 特別インタビュー： ダン・キム(Dan Kim)](http://web.archive.org/web/20101203151106/http://www.akibaangels.com/articles/10_2006/dankim_int_j.php)（日本語版、2006、[ウェブアーカイブ](../Page/ウェブアーカイブ.md "wikilink")）
+  - [Akiba Angels 特別インタビュー： ダン・キム(Dan Kim)](https://web.archive.org/web/20101203151106/http://www.akibaangels.com/articles/10_2006/dankim_int_j.php)（日本語版、2006、[ウェブアーカイブ](../Page/ウェブアーカイブ.md "wikilink")）
 
 [Category:ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/Category:ウェブコミック配信サイト "wikilink")

@@ -51,4 +51,4 @@
   - [NHK公式ホームページ『ドラマDモード「FLY 航空学園グラフィティ 」』](https://web.archive.org/web/20070702123940/http://www.nhk.or.jp/drama/archives/fly/)
   - [ドラマＤモード　ＦＬＹ～航空学園グラフィティ～ - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009050169_00000)
 
-[Category:ドラマDモード](https://ja.wikipedia.org/wiki/Category:ドラマDモード "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:航空を題材とした作品](https://ja.wikipedia.org/wiki/Category:航空を題材とした作品 "wikilink") [Category:養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:養成学校を舞台とした作品 "wikilink")
+[Category:ドラマDモード](https://ja.wikipedia.org/wiki/Category:ドラマDモード "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:航空ドラマ](https://ja.wikipedia.org/wiki/Category:航空ドラマ "wikilink") [Category:養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:養成学校を舞台とした作品 "wikilink")

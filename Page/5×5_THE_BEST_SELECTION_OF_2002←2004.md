@@ -139,4 +139,9 @@
 15. **Hero**
 16. **Lucky Man**
 
-[Category:嵐のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:嵐のベスト・アルバム "wikilink") [Category:2004年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のベスト・アルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+## 外部リンク
+
+  - [J Stormによる紹介ページ](https://www.j-storm.co.jp/arashi/discography/5x5%E3%80%80the-best-selection-2002←2004)
+  - [Johnny's netによる紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=100)
+
+[Category:嵐のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:嵐のベスト・アルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2004年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のベスト・アルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

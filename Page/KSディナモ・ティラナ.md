@@ -248,9 +248,9 @@
 </tbody>
 </table>
 
-## 歴代監督
+## 現所属メンバー
 
-  - [イグリ・アルムチャ](https://ja.wikipedia.org/wiki/イグリ・アルムチャ "wikilink") 2015-
+\[1\]
 
 ## 歴代在籍選手
 
@@ -277,3 +277,5 @@
 ## 外部リンク
 
 [Category:アルバニアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:アルバニアのサッカークラブ "wikilink") [Category:ティラナ](https://ja.wikipedia.org/wiki/Category:ティラナ "wikilink")
+
+1.

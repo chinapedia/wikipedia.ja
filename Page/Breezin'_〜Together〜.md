@@ -19,8 +19,11 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
       -
         作詞：EXILE & [Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
+      - 本作の表題曲
       - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系ドラマ『[ホットマン](../Page/ホットマン.md "wikilink")』主題歌
-      - 14thシングル「[Carry On/運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")」にはドラマで使用されたバージョンが収録
+    <!-- end list -->
+      -
+        14thシングル「[Carry On/運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")」にはドラマバージョンが収録されている。
 2.  **Time** \[4:58\]
       -
         作詞：Kenn Kato / 作曲・編曲：原一博
@@ -36,21 +39,23 @@ EXILE第二章以降に発売されたベストアルバム『[EXILE CATCHY BEST
         作詞：maR / 作曲・編曲：MONK
     <!-- end list -->
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』エンディングテーマ
-      - 2014年3月12日発売のATSUSHIの2ndアルバム『[Music](https://ja.wikipedia.org/wiki/Music_\(ATSUSHIのアルバム\) "wikilink")』の[ボーナスディスクにてセルフカバー](https://ja.wikipedia.org/wiki/Music_\(ATSUSHIのアルバム\)#BONUS_DISC（初回生産限定豪華盤のみ） "wikilink")\[1\]
-5.  **Together -a cappella version-** \[1:49\]
+    <!-- end list -->
+      -
+        2014年3月12日発売のATSUSHIの2ndアルバム『[Music](https://ja.wikipedia.org/wiki/Music_\(ATSUSHIのアルバム\) "wikilink")』初回生産限定豪華盤BOUNS DISCにてセルフカバー\[1\]されている。
+5.  **Together** -a cappella version- \[1:49\]
       - 表題曲のアカペラバージョン
 
 ### アナログ盤
 
 #### SIDE-A
 
-1.  **Together "R.Yamaki's Roller Mix"**
+1.  **Together** "R.Yamaki's Roller Mix"
       - 表題曲のリミックスバージョン
-2.  Together "R.Yamaki's Roller Mix Instrumental"
+2.  Together "R.Yamaki's Roller Mix"（Instrumental）
 
 #### SIDE-B
 
-1.  Together (Original mix)
+1.  Together（Original mix）
 
 ## 収録アルバム
 

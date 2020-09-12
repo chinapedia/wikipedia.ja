@@ -1,7 +1,7 @@
 > この記事は[J・J・レディック](https://ja.wikipedia.org/wiki/J・J・レディック)から翻訳されています。
 
 
-**J・J・レディック**（**Jonathan Clay Redick**, [1984年](../Page/1984年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テネシー州](../Page/テネシー州.md "wikilink")出身の[バスケットボール](../Page/バスケットボール.md "wikilink")選手。[NBA](../Page/NBA.md "wikilink")の[ニューオーリンズ・ペリカンズ](../Page/ニューオーリンズ・ペリカンズ.md "wikilink")に所属している。ポジションは[シューティングガード](https://ja.wikipedia.org/wiki/シューティングガード "wikilink")。193cm、86kg。
+**ジョナサン・クレイ・レディック**（Jonathan Clay Redick、[1984年](../Page/1984年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[テネシー州](../Page/テネシー州.md "wikilink")出身の[バスケットボール](../Page/バスケットボール.md "wikilink")選手。[NBA](../Page/NBA.md "wikilink")の[ニューオーリンズ・ペリカンズ](../Page/ニューオーリンズ・ペリカンズ.md "wikilink")に所属している。ポジションは[シューティングガード](https://ja.wikipedia.org/wiki/シューティングガード "wikilink")。193cm、86kg。
 
 ## 経歴
 
@@ -50,7 +50,7 @@
   -
   -
   -
-[Category:アメリカ合衆国の男子バスケットボール選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男子バスケットボール選手 "wikilink") [Category:オーランド・マジックの選手](https://ja.wikipedia.org/wiki/Category:オーランド・マジックの選手 "wikilink") [Category:ミルウォーキー・バックスの選手](https://ja.wikipedia.org/wiki/Category:ミルウォーキー・バックスの選手 "wikilink") [Category:ロサンゼルス・クリッパーズの選手](https://ja.wikipedia.org/wiki/Category:ロサンゼルス・クリッパーズの選手 "wikilink") [Category:フィラデルフィア・セブンティシクサーズの選手](https://ja.wikipedia.org/wiki/Category:フィラデルフィア・セブンティシクサーズの選手 "wikilink") [Category:デューク大学出身のバスケットボール選手](https://ja.wikipedia.org/wiki/Category:デューク大学出身のバスケットボール選手 "wikilink") [Category:テネシー州の人物](https://ja.wikipedia.org/wiki/Category:テネシー州の人物 "wikilink") [Category:1984年生](https://ja.wikipedia.org/wiki/Category:1984年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アメリカ合衆国の男子バスケットボール選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男子バスケットボール選手 "wikilink") [Category:オーランド・マジックの選手](https://ja.wikipedia.org/wiki/Category:オーランド・マジックの選手 "wikilink") [Category:ミルウォーキー・バックスの選手](https://ja.wikipedia.org/wiki/Category:ミルウォーキー・バックスの選手 "wikilink") [Category:ロサンゼルス・クリッパーズの選手](https://ja.wikipedia.org/wiki/Category:ロサンゼルス・クリッパーズの選手 "wikilink") [Category:フィラデルフィア・セブンティシクサーズの選手](https://ja.wikipedia.org/wiki/Category:フィラデルフィア・セブンティシクサーズの選手 "wikilink") [Category:ニューオーリンズ・ペリカンズの選手](https://ja.wikipedia.org/wiki/Category:ニューオーリンズ・ペリカンズの選手 "wikilink") [Category:アメリカ合衆国出身の双子](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国出身の双子 "wikilink") [Category:双子のスポーツ選手](https://ja.wikipedia.org/wiki/Category:双子のスポーツ選手 "wikilink") [Category:デューク大学出身のバスケットボール選手](https://ja.wikipedia.org/wiki/Category:デューク大学出身のバスケットボール選手 "wikilink") [Category:テネシー州パットナム郡出身の人物](https://ja.wikipedia.org/wiki/Category:テネシー州パットナム郡出身の人物 "wikilink") [Category:1984年生](https://ja.wikipedia.org/wiki/Category:1984年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

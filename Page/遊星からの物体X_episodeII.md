@@ -1,25 +1,21 @@
 > この記事は[遊星からの物体X episodeII](https://ja.wikipedia.org/wiki/遊星からの物体X_episodeII)から翻訳されています。
 
 
-『**遊星からの物体X episodeII**』（ゆうせいからのぶったいエックス エピソード2）は、映画『[遊星からの物体X](../Page/遊星からの物体X.md "wikilink")』の続編として発売されたゲーム。プラットフォームは[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")。
-
-日本では、2003年2月27日に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された。
+『**遊星からの物体X episodeII**』（ゆうせいからのぶったいエックス エピソード2、原題：The Thing）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のゲーム開発スタジオComputer Artworksが開発した[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")。日本では、[コナミより](../Page/コナミデジタルエンタテインメント.md "wikilink")[PlayStation 2版が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2003年2月27日に発売された。
 
 ## 概要
 
-映画『[遊星からの物体X](../Page/遊星からの物体X.md "wikilink")』の3か月後を舞台にプレイヤーが[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")救助隊[隊長](https://ja.wikipedia.org/wiki/隊長 "wikilink")ブレイクの視点で、味方の隊員と協力して[エイリアン](https://ja.wikipedia.org/wiki/エイリアン "wikilink")を倒していく内容である\[1\]。映画の舞台となったアメリカ基地は、その終盤の状況が忠実に再現されている\[2\]。
-
-[兵士](../Page/兵士.md "wikilink")や[衛生兵](../Page/衛生兵.md "wikilink")や[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")に命令し、協力して物語を進めていく内容となっている。
+映画『[遊星からの物体X](../Page/遊星からの物体X.md "wikilink")』の3か月後を舞台としており、プレイヤーが[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")救助隊隊長ブレイクとなり味方の隊員である[兵士](../Page/兵士.md "wikilink")、[衛生兵](../Page/衛生兵.md "wikilink")、[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")と協力して[エイリアン](https://ja.wikipedia.org/wiki/エイリアン "wikilink")を倒していく内容である\[1\]。映画の舞台となったアメリカ基地は、その終盤の状況が忠実に再現されている\[2\]。
 
 兵士は[射撃](../Page/射撃.md "wikilink")の腕が良く主人公の援護射撃を主に行い、衛生兵は射撃の腕は劣るが医療キットを活用して負傷した主人公や味方を治療する役割を果たし、エンジニアは壊れたヒューズや電源装置を修理して物語を進めるのに必要となるなど、いかに味方を助けて互いに協力するかで人物の生死が決まり、ゲームにおける緊張感を高めている\[3\]。
 
-映画と同様に、味方が[死体](../Page/死体.md "wikilink")や[グロテスク](../Page/グロテスク.md "wikilink")な場面を目撃すると[恐怖](../Page/恐怖.md "wikilink")メーターが高くなり、[発狂](https://ja.wikipedia.org/wiki/発狂 "wikilink")したり[自殺](../Page/自殺.md "wikilink")したりするなど、[人間性](https://ja.wikipedia.org/wiki/人間性 "wikilink")を取り入れている点が特徴である。他にも[信頼](../Page/信頼.md "wikilink")度メーターが存在し、味方を誤射したりエイリアンだと思い射撃したりすると信頼度が下がり、味方を助けたり武器を渡したりすると逆に上がるなど、映画を原作とした作品ならではの要素も含まれている\[4\]。
+映画と同様に、味方が死体やグロテスクな場面を目撃すると恐怖メーターが高くなり、発狂したり自殺したりするなど、人間性を取り入れている点が特徴である。他にも信頼度メーターが存在し、味方を誤射したりエイリアンだと思い射撃したりすると信頼度が下がり、味方を助けたり武器を渡したりすると逆に上がるなど、映画を原作とした作品ならではの要素も含まれている\[4\]。
 
-細かいところでは、映画で描写された場所がゲーム中にも出てきたり、エイリアン以外にも[武装](../Page/武装.md "wikilink")した兵士との銃撃戦や潜入戦などのアクション的要素が取り入れられている。
+細かいところでは、映画で描写された場所がゲーム中にも出てきたり、エイリアン以外にも武装した兵士との銃撃戦や潜入戦などのアクション的要素が取り入れられている。
 
 ## あらすじ
 
-[南極の米国科学調査隊からの連絡が途絶え](../Page/南極観測基地の一覧.md "wikilink")、[米陸軍救助隊が](../Page/アメリカ陸軍.md "wikilink")[南極](../Page/南極.md "wikilink")へと[救助](https://ja.wikipedia.org/wiki/救助 "wikilink")に向かう。破壊された[基地を探索していると](../Page/南極観測基地の一覧.md "wikilink")[テープレコーダー](../Page/テープレコーダー.md "wikilink")を発見。再生してみると謎の生物が人間に同化する事が記録されており、録音者は[RJ マクレディと名乗っていた](https://ja.wikipedia.org/wiki/遊星からの物体X#キャスト "wikilink")。そして探索を進めていくと[UFOのような物体を発見](../Page/未確認飛行物体.md "wikilink")。更に人間に同化する謎の生物と遭遇、[戦闘](../Page/戦闘.md "wikilink")することになる。そこから主人公達の[サバイバル](../Page/サバイバル.md "wikilink")が始まっていく。
+南極の米国科学調査隊からの連絡が途絶え、[米陸軍救助隊が](../Page/アメリカ陸軍.md "wikilink")[南極](../Page/南極.md "wikilink")へと救助に向かう。破壊された南極観測基地を探索していると[テープレコーダー](../Page/テープレコーダー.md "wikilink")を発見。再生してみると謎の生物が人間に同化する事が記録されており、録音者は[RJ マクレディと名乗っていた](https://ja.wikipedia.org/wiki/遊星からの物体X#キャスト "wikilink")。そして探索を進めていくと[UFOのような物体を発見](../Page/未確認飛行物体.md "wikilink")。更に人間に同化する謎の生物と遭遇、戦闘することになる。そこから主人公達のサバイバルが始まっていく。
 
 ## 登場人物
 
@@ -30,16 +26,16 @@
 
   - ブレイク（J.F. Blake）
     声 - パー・ソリ/[岸尾だいすけ](../Page/岸尾だいすけ.md "wikilink")
-    今回の事件で[隊長](https://ja.wikipedia.org/wiki/隊長 "wikilink")の役割を果たすことになる主人公。気障な性格。
+    今回の事件で隊長の役割を果たすことになる主人公。気障な性格。
   - ホイットリー（R.C. Whitley）
     声 - [ウィリアム・B・デイヴィス](https://ja.wikipedia.org/wiki/ウィリアム・B・デイヴィス "wikilink")/[津田英三](../Page/津田英三.md "wikilink")
-    [司令官](../Page/司令官.md "wikilink")で階級は[大佐](../Page/大佐.md "wikilink")。主人公に[無線](../Page/無線.md "wikilink")で任務を伝える。物語中盤から連絡が途絶える。その後は敵対し、自身に[ウイルス](../Page/ウイルス.md "wikilink")を[注射](../Page/注射.md "wikilink")し本作の[ラスボス](https://ja.wikipedia.org/wiki/ラスボス "wikilink")として戦うことになる。
+    [司令官](../Page/司令官.md "wikilink")で階級は[大佐](../Page/大佐.md "wikilink")。主人公に[無線](../Page/無線.md "wikilink")で任務を伝える。物語中盤から連絡が途絶える。その後は敵対し、自身に[ウイルス](../Page/ウイルス.md "wikilink")を注射し本作の[ラスボス](https://ja.wikipedia.org/wiki/ラスボス "wikilink")として戦うことになる。
   - ファラディ博士（Shaun Faraday）
     声 [ジョン・カーペンター](../Page/ジョン・カーペンター.md "wikilink")/[小谷津央典](../Page/小谷津央典.md "wikilink")
     [エイリアン](https://ja.wikipedia.org/wiki/エイリアン "wikilink")を研究している[博士](../Page/博士.md "wikilink")で[衛生兵](../Page/衛生兵.md "wikilink")のように医療キットを所持している。
   - [R,J マクレディ](https://ja.wikipedia.org/wiki/遊星からの物体X#キャスト "wikilink")（R.J. MacReady）
     声 - /[平井誠一](../Page/平井誠一.md "wikilink")
-    [映画で登場した人物](../Page/遊星からの物体X.md "wikilink")。映画の中で彼が残していたテープが、エイリアンの存在を知らせた。なぜ今まで生き延びていられたのかは不明だが、物語終盤にホイットリーと対峙する際、[ヘリコプター](../Page/ヘリコプター.md "wikilink")に乗って登場しブレイクを助ける。
+    『遊星からの物体X』で登場した人物。彼が残していたテープが、エイリアンの存在を知らせた。なぜ今まで生き延びていられたのかは不明だが、物語終盤にホイットリーと対峙する際、[ヘリコプター](../Page/ヘリコプター.md "wikilink")に乗って登場しブレイクを助ける。
 
 ### ブラボーチーム
 
@@ -117,13 +113,13 @@
 ### 謎の人物・その他
 
   - [ノルウェー](../Page/ノルウェー.md "wikilink")人（Norwegian）
-    隊員達に攻撃したり、逃げまどうなど[発狂](https://ja.wikipedia.org/wiki/発狂 "wikilink")をしている。[無線](../Page/無線.md "wikilink")を所持しているため行方を追っていくと[感染](../Page/感染.md "wikilink")してエイリアン（ボス）に変身する。
+    隊員達に攻撃したり、逃げまどうなど発狂をしている。無線を所持しているため行方を追っていくと感染してエイリアン（ボス）に変身する。
   - ホイットリー調査隊員（Whitley's Black Ops）
     声 - / 今村卓博、保村真
-    エイリアンを外に持ち出そうとしている[武装](../Page/武装.md "wikilink")した兵士。
+    エイリアンを外に持ち出そうとしている武装した兵士。
   - チャイルズ（Childs）
-    映画の登場人物。映画のラストで炎上する基地から脱出したマクレディと再会、事態の行く末を呆然と見つめるという結末を迎えた（マクレディを除いた）唯一の生存者。今作冒頭で、ラストシーンの場所で凍死しているのが確認された。
-  - 映画の登場人物たち
+    『遊星からの物体X』のラストシーンで炎上する基地から脱出してマクレディと再会し事態の行く末を呆然と見つめるという結末を迎えた生存者。今作冒頭では、ラストシーンの場所で凍死しているのが確認された。
+  - 『遊星からの物体X』の登場人物たち
     ウィンドウズ（Windows）やギャリー（Garry）のものと思われる遺体が、基地の随所で確認される。
 
 ## 武器
@@ -137,7 +133,7 @@
   - [火炎放射器](../Page/火炎放射器.md "wikilink")
     大型のエイリアンを殺すには炎による攻撃が必要。この武器は攻撃の継続時間がとても長いが近距離でしか攻撃が当たらないのでほとんどが接近戦になってしまう。
   - ジェットバーナー
-    火炎放射器の小型版で[物語](../Page/物語.md "wikilink")の前半にしか登場しない武器。この武器は後退しながら使わないと自分にも引火するので注意が必要。味方に渡せない。
+    火炎放射器の小型版で物語の前半にしか登場しない武器。この武器は後退しながら使わないと自分にも引火するので注意が必要。味方に渡せない。
   - [スタンガン](../Page/スタンガン.md "wikilink")
     敵兵士や信頼度の低い味方を戦闘不能にするのに最適な武器。無限に使うことはできるが攻撃力はない。
   - [スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")
@@ -164,10 +160,10 @@
   - 消火器
     一般家庭にもある[消火器](../Page/消火器.md "wikilink")で、炎を消火する事ができる。
   - [血液検査](../Page/血液検査.md "wikilink")キット
-    中に科学溶液が入っており味方や自分から[採血](https://ja.wikipedia.org/wiki/採血 "wikilink")することで[感染](../Page/感染.md "wikilink")しているかがわかる、唯一の検査[アイテム](../Page/アイテム.md "wikilink")。
+    中に科学溶液が入っており味方や自分から[採血](https://ja.wikipedia.org/wiki/採血 "wikilink")することで感染しているかがわかる、唯一の検査アイテム。
     自分に使用して感染していないことを味方に証明する事もできる。
   - [アドレナリン](../Page/アドレナリン.md "wikilink")注射器
-    [恐怖](../Page/恐怖.md "wikilink")で怯えている味方を安心させることができ、しばらくの間恐怖を感じなくさせることができる。
+    恐怖で怯えている味方を安心させることができ、しばらくの間恐怖を感じなくさせることができる。
   - 医療キット
     自分や味方の体力を約半分回復させることができる医療器具。
   - [C4爆弾](https://ja.wikipedia.org/wiki/C4爆弾 "wikilink")
@@ -175,8 +171,8 @@
   - [鍵](https://ja.wikipedia.org/wiki/鍵 "wikilink")
     鍵の掛かった扉を開ける事ができる。
   - カードキー
-    [セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink") [ロックを解除する事ができる](https://ja.wikipedia.org/wiki/鍵 "wikilink")[カード](../Page/カード.md "wikilink")。
-  - [ファイル](https://ja.wikipedia.org/wiki/ファイル "wikilink")
+    セキュリティロックを解除する事ができる[カード](../Page/カード.md "wikilink")。
+  - ファイル
     [レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")や[日記](../Page/日記.md "wikilink")などがあり、中には重要なことが書いてあることも。
 
 ## 敵
@@ -189,23 +185,21 @@
     四足歩行のエイリアンは、突進してきたり緑色の液体をかけてくるうえ、噛みついてくる。死ぬと小型のエイリアンが出現する。
     隊員の服を着ている元味方のエイリアンは、引っ掻いてきたり緑色の液体をかけてくるが、死んでも小型のエイリアンは出現しない。
   - 武装した兵士
-    [ピストル](../Page/ピストル.md "wikilink")や[マシンガン](https://ja.wikipedia.org/wiki/マシンガン "wikilink")、[ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")や[火炎放射器](../Page/火炎放射器.md "wikilink")、そして[スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")を装備した敵[兵士](../Page/兵士.md "wikilink")は、主人公や主人公の味方を発見すると即時に撃ってくる。エイリアンに対しても、発見すると即時に攻撃する。
+    [ピストル](../Page/ピストル.md "wikilink")や[マシンガン](https://ja.wikipedia.org/wiki/マシンガン "wikilink")、[ショットガン](https://ja.wikipedia.org/wiki/ショットガン "wikilink")や[火炎放射器](../Page/火炎放射器.md "wikilink")、そして[スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")を装備した敵兵士は、主人公や主人公の味方を発見すると即時に撃ってくる。エイリアンに対しても、発見すると即時に攻撃する。
     頭をスナイパーライフルで撃てば、即死する。[スタンガン](../Page/スタンガン.md "wikilink")で攻撃すれば、[武装](../Page/武装.md "wikilink")を解除させることができる。
 
 ## 脚注
 
 ## 関連事項
 
-  - [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")
-  - [遊星からの物体X](../Page/遊星からの物体X.md "wikilink")
   - [影が行く](https://ja.wikipedia.org/wiki/影が行く "wikilink") - 映画の原作小説
 
 ## 外部リンク
 
-  - [遊星からの物体X episodeⅡ(KONAMI)](http://www.konami.jp/gs/ps2/yusei-x/)
+  - [遊星からの物体X episodeII コナミ公式サイト](https://web.archive.org/web/20051118220252/http://www.konami.jp/gs/ps2/yusei-x/)（アーカイブ）
 
   -
-[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:南極を舞台とした作品](https://ja.wikipedia.org/wiki/Category:南極を舞台とした作品 "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink")
+[Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:イギリスで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:イギリスで開発されたコンピュータゲーム "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:サードパーソン・シューティングゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:南極を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:南極を舞台としたコンピュータゲーム "wikilink")
 
 1.
 2.

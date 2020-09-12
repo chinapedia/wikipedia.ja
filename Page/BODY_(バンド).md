@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - **[瀧川一郎](../Page/瀧川一郎.md "wikilink")** ： ギター
+  - **[瀧川一郎](../Page/瀧川一郎.md "wikilink")** ： ギター, バッキング・ヴォーカル
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - **岡田基樹** ： ベース
+  - **岡田基樹** ： ベース, バッキング・ヴォーカル
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - **[菊地哲](../Page/菊地哲.md "wikilink")** ： ドラムス
+  - **[菊地哲](../Page/菊地哲.md "wikilink")** ： ドラムス, パーカッション
 
 <!-- end list -->
 
@@ -48,6 +48,8 @@
 ### 過去に所属したボーカリスト
 
   - 中込広和 - 1993年5月3日 [ZI:KILL](../Page/ZI:KILL.md "wikilink")、[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")らとの[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")での[ロッキンfイベントライブ](https://ja.wikipedia.org/wiki/We_ROCK/ロッキンf "wikilink")「サブリナミル・ビジョン」のみ。
+  - サポートメンバー
+  - けんじ しみず : キーボード、ピアノ
 
 ## ディスコグラフィ
 

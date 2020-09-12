@@ -177,7 +177,7 @@
 
 ここでは当時のバックバンドとしての東京事変を紹介。なおメンバー名は途中までカタカナになり最後の一文字が漢字になっている。
 
-  - [シーナリン湖](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")：[ウタ](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")
+  - [シーナリン瑚](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")：[ウタ](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")
   - [カメダセー時](../Page/亀田誠治.md "wikilink")：[ベース](https://ja.wikipedia.org/wiki/エレキベース "wikilink")
   - [ヒラマミキ緒](../Page/ヒラマミキオ.md "wikilink")：[ギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")
   - [ヒーズミマサユ季](../Page/H_ZETT_M.md "wikilink")：[ピアノ](../Page/ピアノ.md "wikilink")

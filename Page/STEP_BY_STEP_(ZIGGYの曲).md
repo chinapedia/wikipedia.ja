@@ -15,27 +15,4 @@
 
 ## 収録曲
 
-1.  **STEP BY STEP**
-      -
-        作詞、作曲：[森重樹一](../Page/森重樹一.md "wikilink")　編曲：[ZIGGY](../Page/ZIGGY.md "wikilink")
-        [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』第1期エンディングテーマ
-2.  **HAPPY END**
-      -
-        作詞、作曲：森重樹一　編曲：ZIGGY
-3.  STEP BY STEP （カラオケ）
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a><br />
-<a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/1月8日.md" title="wikilink">1月8日</a> - <a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
-</tr>
-<tr class="even">
-<td><p>前作:<br />
--<br />
-</p></td>
-</tr>
-</tbody>
-</table>
-
-[Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ZIGGYの楽曲](https://ja.wikipedia.org/wiki/Category:ZIGGYの楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
+[Category:ZIGGYのアルバム](https://ja.wikipedia.org/wiki/Category:ZIGGYのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink")

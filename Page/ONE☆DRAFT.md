@@ -707,7 +707,7 @@ Bee Alive vol.13
 
   - [徳間ジャパンコミュニケーションズによるページ](http://www.tkma.co.jp/onedraft/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:帝京高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:帝京高等学校出身の人物 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:帝京高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:帝京高等学校出身の人物 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink")
 
 1.  2008年4月号『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』インタビューより
 2.

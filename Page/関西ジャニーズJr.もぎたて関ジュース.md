@@ -1,7 +1,7 @@
 > この記事は[関西ジャニーズJr.もぎたて関ジュース](https://ja.wikipedia.org/wiki/関西ジャニーズJr.もぎたて関ジュース)から翻訳されています。
 
 
-『**関西ジャニーズJr.もぎたて関ジュース**』（かんさいジャニーズジュニアもぎたてかんジュース）は、[ラジオ関西](../Page/ラジオ関西.md "wikilink")で2007年4月から放送されていた、[関西ジャニーズJr.が月替わりで](https://ja.wikipedia.org/wiki/ジャニーズJr.#関西ジャニーズJr. "wikilink")[パーソナリティーを務める初のレギュラーラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")\[1\]。ラジオ番組『[JAM×JAM](../Page/JAM×JAM.md "wikilink")』内で放送されている。当初はスポーツ紙『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』のコラムと連動した番組として開始された\[2\]。
+『**関西ジャニーズJr.もぎたて関ジュース**』（かんさいジャニーズジュニアもぎたてかんジュース）は、[CRKで](../Page/ラジオ関西.md "wikilink")2007年4月から放送されていた、[関西ジャニーズJr.が月替わりで](https://ja.wikipedia.org/wiki/ジャニーズJr.#関西ジャニーズJr. "wikilink")[パーソナリティーを務める初のレギュラーラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")\[1\]。ラジオ番組『[JAM×JAM](../Page/JAM×JAM.md "wikilink")』内で放送されている。当初は神戸新聞社が発行するスポーツ紙『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』のコラムと連動した番組として開始された\[2\]。なお、CRKは、神戸新聞社の連結子会社である。
 
 番組放送当初から出演していた[桐山照史](../Page/桐山照史.md "wikilink")、[中間淳太](../Page/中間淳太.md "wikilink")が[2014年](../Page/2014年.md "wikilink")に[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")のメンバーに選ばれ\[3\]、番組名も『**ジャニーズWEST もぎたて関ジュース**』に変更された。また、本項目では同じ『JAM×JAM』内で2016年7月からレギュラー放送されている『**関西ジャニーズJr. とれたて関ジュース**』\[4\]についても扱う。
 
@@ -20,6 +20,7 @@
       - 毎週日曜日、23:45 - 24:00の15分放送\[11\]。
     2019年1月にリニューアルし、レギュラーはなにわ男子の西畑大吾が務め、毎週ゲストに関西ジャニーズJr.のメンバー1人を迎えての対談形式に変更\[12\]。
       - 毎週日曜日、23:30 - 24:00の30分放送\[13\]。
+      - 2020年4月1日より日本国全域が放送対象エリアである、ラジオNIKKEI第1放送でも放送されるようになる\[14\]。（毎週水曜日、18:30 - 19:00より遅れネット放送）
 
 ## 出演
 
@@ -27,19 +28,19 @@
 
 :\* 関西ジャニーズJr.
 
-:\*\* [B.A.D.](../Page/B.A.D..md "wikilink")\[14\]
+:\*\* [B.A.D.](../Page/B.A.D..md "wikilink")\[15\]
 
 :\*\*\* [桐山照史](../Page/桐山照史.md "wikilink")、[中間淳太](../Page/中間淳太.md "wikilink")
 
-:\*\* [BOYS](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#BOYS "wikilink")\[15\]
+:\*\* [BOYS](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#BOYS "wikilink")\[16\]
 
 :\*\*\* [濱田崇裕](../Page/濱田崇裕.md "wikilink")、[中田大智](../Page/中田大智.md "wikilink")、[室龍太](https://ja.wikipedia.org/wiki/室龍太 "wikilink")、山崎薫太
 
-:\*\* [OSSaN](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#OSSaN "wikilink")\[16\]
+:\*\* [OSSaN](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#OSSaN "wikilink")\[17\]
 
 :\*\*\* 大田裕明、千崎涼太、佐竹滉輝、長尾宥希
 
-:\*\* [チームべてらん](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#Veteran "wikilink")\[17\]
+:\*\* [チームべてらん](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#Veteran "wikilink")\[18\]
 
 :\*\*\* 伊藤政氏、[浜中文一](../Page/浜中文一.md "wikilink")、[室龍規](https://ja.wikipedia.org/wiki/室龍規 "wikilink")、菊岡正展
 
@@ -55,11 +56,11 @@
 
   - 関西ジャニーズJr. とれたて関ジュース
 
-:\* 2016年7月 - 2018年12月\[18\]
+:\* 2016年7月 - 2018年12月\[19\]
 
-:\*\* 関西ジャニーズJr.（[西畑大吾](https://ja.wikipedia.org/wiki/西畑大吾 "wikilink")、[向井康二](https://ja.wikipedia.org/wiki/向井康二 "wikilink")、[大西流星](https://ja.wikipedia.org/wiki/大西流星 "wikilink")、[室龍太](https://ja.wikipedia.org/wiki/室龍太 "wikilink")など）から3人が毎月交代で出演\[19\]
+:\*\* 関西ジャニーズJr.（[西畑大吾](https://ja.wikipedia.org/wiki/西畑大吾 "wikilink")、[向井康二](https://ja.wikipedia.org/wiki/向井康二 "wikilink")、[大西流星](https://ja.wikipedia.org/wiki/大西流星 "wikilink")、[室龍太](https://ja.wikipedia.org/wiki/室龍太 "wikilink")など）から3人が毎月交代で出演\[20\]
 
-:\* 2019年1月 - \[20\]
+:\* 2019年1月 - \[21\]
 
 :\*\* 西畑大吾（[なにわ男子](https://ja.wikipedia.org/wiki/ジャニーズJr.#なにわ男子 "wikilink")）
 
@@ -79,7 +80,7 @@
 1.
 2.
 3.
-4.  ラジオ関西『JAM×JAM』スタッフ公式Twitter
+4.  CRK『JAM×JAM』スタッフ公式Twitter
 5.
 6.
 7.
@@ -96,3 +97,4 @@
 18.
 19.
 20.
+21.

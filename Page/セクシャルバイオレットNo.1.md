@@ -57,7 +57,7 @@
 ## 外部リンク
 
   -
-[Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:1979年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1979年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:松本隆が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が作詞した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
+[Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:1979年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1979年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:松本隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
 
 1.
 2.

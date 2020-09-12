@@ -246,7 +246,7 @@
 
 ## 外部リンク
 
-  - [CRF大ヤマト2](http://web.archive.org/web/20100818090032/http://www.sankyo-fever.co.jp/pachinko/2004/daiyamato_2)（2010年8月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [CRF大ヤマト2](https://web.archive.org/web/20100818090032/http://www.sankyo-fever.co.jp/pachinko/2004/daiyamato_2)（2010年8月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:SANKYO](https://ja.wikipedia.org/wiki/Category:SANKYO "wikilink")
 

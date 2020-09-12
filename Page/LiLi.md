@@ -17,27 +17,27 @@
 
 2008年4月分[キャンシステム](../Page/キャンシステム.md "wikilink")月間お問い合わせチャート6位に「あなたのうた」がランクイン。
 
-2008年12月　初のワンマンライブ「 LiLi’s Cafe Befor Xmas」を開催。
+2008年12月、初のワンマンライブ「LiLi's Cafe Befor Xmas」を開催。
 
-2009年2月　5周年記念ライブを関内7th AVENUEにて行う。
+2009年2月、5周年記念ライブを関内7th AVENUEにて行う。
 
-2009年10月　[エフエム戸塚](https://ja.wikipedia.org/wiki/エフエム戸塚 "wikilink")よりレギュラー番組「LiLiのLink with entertainment」放送開始！
+2009年10月、[エフエム戸塚](https://ja.wikipedia.org/wiki/エフエム戸塚 "wikilink")よりレギュラー番組「LiLiのLink with entertainment」放送開始！
 
-2009年11月　「LiLiワンマンライブ at ランドマークホール 〜Link with U〜 LiLi色に染まる日」開催。チケットSold outで大成功に納める
+2009年11月、「LiLiワンマンライブ at ランドマークホール 〜Link with U〜 LiLi色に染まる日」開催。チケットSold outで大成功に納める
 
 2010年2月27日の関内7th AVENUEでの6周年記念ワンマンライブ
 
-2010年7月7日　2nd mini Album 「Garden」発売。
+2010年7月7日、2nd mini Album 「Garden」発売。
 
-2011年 3rd mini Album「Style」を発売。 （収録曲「シアワセ」は[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")「[YOKOHAMA TOP30](https://ja.wikipedia.org/wiki/YOKOHAMA_TOP30 "wikilink")」で4週連続ランクイン）
+2011年、 3rd mini Album「Style」を発売。 （収録曲「シアワセ」は[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")「[YOKOHAMA TOP30](https://ja.wikipedia.org/wiki/YOKOHAMA_TOP30 "wikilink")」で4週連続ランクイン）
 
 9月には初のSingle「旅人/step by step」を発売。 （収録曲「旅人」はFMヨコハマ「[YOKOHAMA TOP30](https://ja.wikipedia.org/wiki/YOKOHAMA_TOP30 "wikilink")」で4週連続ランクイン）
 
 10月よりFMヨコハマにてレギュラー番組「Link with U」を放送開始。
 
-11月19日　横浜BLITZにてワンマンライブを成功させた。
+11月19日、横浜BLITZにてワンマンライブを成功させた。
 
-2012年 2月26日　【LiLi8周年記念ワンマンライブ】@関内7th AVENUE　開催決定。
+2012年2月26日、関内7th AVENUEにてLiLi8周年記念ワンマンライブ開催。
 
 ## ディスコグラフィー
 

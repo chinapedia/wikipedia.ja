@@ -11,12 +11,13 @@
 
   - [ドン・キホーテ](../Page/ドン・キホーテ_\(企業\).md "wikilink") - ディスカウント・ストア
   - [サーティワンアイスクリーム](https://ja.wikipedia.org/wiki/サーティワンアイスクリーム "wikilink")
-  - [日本一たい焼き](https://ja.wikipedia.org/wiki/日本一たい焼き "wikilink")
-  - [築地 銀だこ](https://ja.wikipedia.org/wiki/築地_銀だこ "wikilink")
+  - [日本一たい焼](https://ja.wikipedia.org/wiki/日本一たい焼 "wikilink")
+  - [築地銀だこ](../Page/築地銀だこ.md "wikilink")
   - [ダイナマイトカレー](https://ja.wikipedia.org/wiki/ダイナマイトカレー "wikilink")
   - [パサール](https://ja.wikipedia.org/wiki/パサール "wikilink")
   - [モバイルステーション](https://ja.wikipedia.org/wiki/モバイルステーション "wikilink")
   - [コロッケ倶楽部](https://ja.wikipedia.org/wiki/コロッケ倶楽部 "wikilink")
+  - [くら寿司](https://ja.wikipedia.org/wiki/くら寿司 "wikilink")
 
 ### 閉店店舗
 

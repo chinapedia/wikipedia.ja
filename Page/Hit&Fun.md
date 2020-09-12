@@ -5,6 +5,7 @@
 
 ## 解説
 
+  - デビュー10周年記念作品。
   - 通常盤のほかに初回生産限定盤が発売された。
   - 一部CDショップなどで特製Tシャツプレゼントのキャンペーンが行われた。
   - Bonus Discに収録の「Call Me What You Like」は「Shall We Dance?」、「Go Baby Power Now」は「女マシンガン」の英語バージョンである。

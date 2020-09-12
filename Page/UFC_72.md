@@ -1,7 +1,7 @@
 > この記事は[UFC 72](https://ja.wikipedia.org/wiki/UFC_72)から翻訳されています。
 
 
-**UFC 72: Victory**（ユーエフシー・セブンティツー：ヴィクトリー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[北アイルランド](../Page/北アイルランド.md "wikilink")・[アントリム州](../Page/アントリム州.md "wikilink")[ベルファスト](../Page/ベルファスト.md "wikilink")の[オデッセイ・アリーナ](https://ja.wikipedia.org/wiki/オデッセイ・アリーナ "wikilink")で開催された。
+**UFC 72: Victory**（ユーエフシー・セブンティツー：ヴィクトリー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、[北アイルランド](../Page/北アイルランド.md "wikilink")・[アントリム県](https://ja.wikipedia.org/wiki/アントリム県 "wikilink")[ベルファスト](../Page/ベルファスト.md "wikilink")の[オデッセイ・アリーナ](https://ja.wikipedia.org/wiki/オデッセイ・アリーナ "wikilink")で開催された。
 
 本大会はUFC初の北アイルランド大会である。
 

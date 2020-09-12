@@ -6,7 +6,7 @@
 ## 解説
 
   - 表題曲「魔法の言葉 〜Would you marry me?〜」は結婚をモチーフとして作られている。Would you marry me?は「私と結婚しませんか?」という意味をもつ。
-      - [TBSテレビ](../Page/TBSテレビ.md "wikilink")「[サンデー・ジャポン](https://ja.wikipedia.org/wiki/サンデー・ジャポン "wikilink")」では、しばしば結婚報道のBGMに使われている\[1\]。
+      - [TBSテレビ](../Page/TBSテレビ.md "wikilink")「[サンデージャポン](https://ja.wikipedia.org/wiki/サンデージャポン "wikilink")」では、しばしば結婚報道のBGMに使われている\[1\]。
   - このシングルから｢CDのみ｣｢CD+DVD｣の2パターンで発売となった。また、それぞれジャケットも異なる。
   - 「魔法の言葉 ～Would you marry me?～」のPVでは[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")が[ウェディングドレス](../Page/ウェディングドレス.md "wikilink")を着ている。
 

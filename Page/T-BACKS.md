@@ -73,4 +73,4 @@
   - [女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")
   - [浅草キッドの土曜メキ突撃\!ちんちん電車\!](../Page/浅草キッドの土曜メキ突撃!ちんちん電車!.md "wikilink")
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")

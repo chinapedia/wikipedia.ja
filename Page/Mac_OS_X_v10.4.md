@@ -1,20 +1,20 @@
 > この記事は[Mac OS X v10.4](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.4)から翻訳されています。
 
 
-**Mac OS X v10.4 Tiger**（マック オーエス テン バージョンじってんよん タイガー）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売していた、[Mac OS Xの](../Page/MacOS.md "wikilink")5番目のバージョンである。バージョンナンバーは10.4。愛称は、コードネームでもある“**Tiger**”（タイガー）。[Mac OS X v10.3の後継であり](../Page/Mac_OS_X_v10.3.md "wikilink")、PowerPC版で[Classic環境が使える最後のOSとなった](../Page/Classic_\(ソフトウェア\).md "wikilink")。
+**Mac OS X v10.4 Tiger**（マック オーエス テン バージョンじってんよん タイガー）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売した[Mac OS Xの](https://ja.wikipedia.org/wiki/macOS "wikilink")5番目のバージョンである。バージョンナンバーは10.4。愛称は、コードネームでもある“**Tiger**”（タイガー）。[Mac OS X v10.3の後継であり](../Page/Mac_OS_X_v10.3.md "wikilink")、PowerPC版で[Classic環境が使える最後のOSとなった](../Page/Classic_\(ソフトウェア\).md "wikilink")。
 
 [2005年](../Page/2005年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")公式発表され、同年[4月29日](../Page/4月29日.md "wikilink")に発売開始された。最終セキュリティアップデートは、2009年9月10日にリリースされた Security Update 2009-005\[1\]\[2\]\[3\]である。対応するSafariのセキュリティアップデートは、2010年11月のSafari 4.1.3まで提供された\[4\]。
 
 ## 新機能
 
   - [Spotlight](../Page/Spotlight.md "wikilink")
-    高速なメタデータ検索を提供し、様々なアプリケーションが恩恵を受けることができる。[メニューバー](https://ja.wikipedia.org/wiki/メニューバー "wikilink")から利用できるほか、[Finder](../Page/Finder.md "wikilink")、[Mail](../Page/メール_\(アップル\).md "wikilink")、[アドレスブック](https://ja.wikipedia.org/wiki/連絡先_\(アップル\) "wikilink")、システム環境設定に統合されている。
+    高速なメタデータ検索を提供し、さまざまなアプリケーションが恩恵を受けることができる。[メニューバー](https://ja.wikipedia.org/wiki/メニューバー "wikilink")から利用できるほか、[Finder](../Page/Finder.md "wikilink")、[Mail](../Page/メール_\(アップル\).md "wikilink")、[アドレスブック](https://ja.wikipedia.org/wiki/連絡先_\(アップル\) "wikilink")、システム環境設定に統合されている。
   - [Dashboard](../Page/Dashboard.md "wikilink")
     [ウィジェット](https://ja.wikipedia.org/wiki/ウィジェット "wikilink")を利用できる機能。[Exposéと同様に](../Page/Mission_Control.md "wikilink")、特定のキーを押すか、マウスのボタンやデスクトップのコーナーに機能を割り当てることでデスクトップに現れる。
   - [Safari](../Page/Safari.md "wikilink") [RSS](../Page/RSS.md "wikilink")
     SafariがRSSを組み込み対応、独自の記事リストを作成する。
   - [Mail](../Page/メール_\(アップル\).md "wikilink")
-    Spotlightを統合。インターフェースが大きく変更された。写真のスライドショー、アカウント設定アシスタント、接続診断機能などが新たに追加された。
+    Spotlightを統合。インターフェイスが大きく変更された。写真のスライドショー、アカウント設定アシスタント、接続診断機能などが新たに追加された。
   - [Automator](https://ja.wikipedia.org/wiki/Automator "wikilink")
     かねて存在した[AppleScript](../Page/AppleScript.md "wikilink")の操作を視覚的に扱うことができるワークフロー作成ソフト。
   - [QuickTime](../Page/QuickTime.md "wikilink") 7
@@ -48,9 +48,9 @@
 
 インストール可能な最低限のハードウェア環境は下記の通りであるが、システムにコンポーネントされた機能の全てを使用するにはPowerPC G4 1GHz以上が必要である\[5\]。Core Image非対応のマシンではDashboardの表示が簡略化されるが、機能に差はない。
 
-  - プロセッサ-[PowerPC G3](../Page/PowerPC_G3.md "wikilink")、[PowerPC G4](../Page/PowerPC_G4.md "wikilink")、[PowerPC G5](../Page/PowerPC_970.md "wikilink")、[Intel Core](../Page/Intel_Core.md "wikilink")、[Intel Core 2](../Page/Intel_Core_2.md "wikilink")、[Xeon](../Page/Xeon.md "wikilink")
+  - プロセッサ - [PowerPC G3](../Page/PowerPC_G3.md "wikilink")、[PowerPC G4](../Page/PowerPC_G4.md "wikilink")、[PowerPC G5](../Page/PowerPC_970.md "wikilink")、[Intel Core](../Page/Intel_Core.md "wikilink")、[Intel Core 2](../Page/Intel_Core_2.md "wikilink")、[Xeon](../Page/Xeon.md "wikilink")
   - [FireWireが内蔵](https://ja.wikipedia.org/wiki/IEEE1394 "wikilink")
-  - [RAM](../Page/Random_Access_Memory.md "wikilink")-256MB以上
+  - [RAM](../Page/Random_Access_Memory.md "wikilink") - 256MB以上
   - ビデオカードが内蔵
   - ハードディスクが3GB以上
 

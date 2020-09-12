@@ -11,6 +11,7 @@
   - [HALO (バンド)](https://ja.wikipedia.org/wiki/HALO_\(バンド\) "wikilink") - 日本の音楽ユニット
   - [Halo (アルバム)](https://ja.wikipedia.org/wiki/Halo_\(アルバム\) "wikilink") - [チューリップのアルバム](../Page/チューリップ_\(バンド\).md "wikilink")
   - Halo - [androp](https://ja.wikipedia.org/wiki/androp "wikilink")の楽曲。アルバム『[anew](https://ja.wikipedia.org/wiki/anew "wikilink")』に収録されている。
+  - halo - [ナユタン星人](../Page/ナユタン星人.md "wikilink")の楽曲。アルバム『ナユタン星からの物体Z 初回限定盤』に収録されている
   - Halo - アメリカの補聴器メーカー[スターキー](https://ja.wikipedia.org/wiki/スターキー "wikilink")の[MFI](https://ja.wikipedia.org/wiki/MFI "wikilink")対応補聴器
   - [HALO (音楽グループ)](https://ja.wikipedia.org/wiki/HALO_\(音楽グループ\) "wikilink") - 韓国のアイドルグループ
   - [Halo (フォーミュラカー)](https://ja.wikipedia.org/wiki/Halo_\(フォーミュラカー\) "wikilink") - [フォーミュラカー](../Page/フォーミュラカー.md "wikilink")に設置される頭部保護パーツ。

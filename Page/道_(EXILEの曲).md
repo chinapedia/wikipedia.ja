@@ -25,16 +25,18 @@
 2.  **道** -Piano Version-
       -
         編曲：[中野雄太](../Page/中野雄太.md "wikilink")
-3.  道 (Instrumental)
-4.  道 -Piano Version- (Instrumental)
+3.  道（Instrumental）
+4.  道 -Piano Version-（Instrumental）
 5.  合唱 **道**
       -
         編曲：[若松歓](../Page/若松歓.md "wikilink") / 混声三部合唱：[NHK東京児童合唱団](../Page/NHK東京児童合唱団.md "wikilink")ザ・ユースクラス/栗友会ユースクワイア
-6.  合唱 道 (Instrumental)
+6.  合唱 道（Instrumental）
 
 ### DVD
 
-1.  **道** (Video Clip)
+※CD+DVDのみ
+
+1.  **道**（Video Clip）
 2.  EXILE関連のインフォメーション
       - ナレーション：[ケイ・グラント](../Page/ケイ・グラント.md "wikilink")
 

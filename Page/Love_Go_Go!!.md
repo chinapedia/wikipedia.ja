@@ -96,7 +96,7 @@
   - Trumpet：[荒木敏夫](https://ja.wikipedia.org/wiki/荒木敏夫 "wikilink")
   - Trombone：村田陽一
   - Synthesizer Programming：橋本茂昭
-  - Background Vocal：[葛城哲哉](../Page/葛城哲哉.md "wikilink")・斎藤有太・山本拓夫・[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美 "wikilink")・田中利江・有賀啓雄・Misato
+  - Background Vocal：[葛城哲哉](../Page/葛城哲哉.md "wikilink")・斎藤有太・山本拓夫・[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(ミュージシャン\) "wikilink")・田中利江・有賀啓雄・Misato
 
 **十六夜の月〜izayoino tsuki〜**
 

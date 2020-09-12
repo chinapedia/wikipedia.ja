@@ -21,6 +21,7 @@
   - 2017年、OpenText | Gupta Team Developer 7.0がリリースされる。
   - 2018年、OpenText | Gupta Team Developer 7.1がリリースされる。
   - 2019年、OpenText | Gupta Team Developer 7.2がリリースされる。
+  - 2020年、OpenText | Gupta Team Developer 7.3がリリースされる。
 
 ## 外部リンク
 

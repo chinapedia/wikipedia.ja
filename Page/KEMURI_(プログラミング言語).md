@@ -16,7 +16,7 @@ KEMURIは[スタックマシン](../Page/スタックマシン.md "wikilink")で
 1.  `^` XOR スタックの先頭2つをpopし、xorを計算してpushする。
 2.  `~` NOT スタックの先頭をpopし、notを計算してpushする。(必要性が疑問視されている)
 3.  `"` DUP スタックの先頭をpopし、それを2回pushする。スタック先頭の複製(duplicate)である。
-4.  `'` ROT スタックの先頭3つをpopし、並び替えてpushする。先頭から順にx y zという順に並んでいたのなら、y z xという順番に変わる。
+4.  `'` ROT スタックの先頭3つをpopし、並べ替えてpushする。先頭から順にx y zという順に並んでいたのなら、y z xという順番に変わる。
 5.  `` ` `` スタックに\[72, 101, 108, 108, 111, 44, 32, 119, 111, 114, 108, 100, 33\]を積む。これは[ASCIIコード](https://ja.wikipedia.org/wiki/ASCIIコード "wikilink")とみなすと"Hello, world\!"に相当する。
 6.  `|` スタックの中身を文字コードだと見なして出力する。スタックの中身すべてを出力するのでスタックは空になる。プログラムの最後で一度だけ使うことが推奨されている。
 
@@ -26,10 +26,10 @@ KEMURIは[スタックマシン](../Page/スタックマシン.md "wikilink")で
 
 ## 外部リンク
 
-  - <http://d.hatena.ne.jp/earth2001y/20060925/p1> KEMURIの最適化コンパイラ
+  - <https://earth2001y.hatenablog.com/entry/20060925/p1> KEMURIの最適化コンパイラ
   - <http://www.phys.cs.is.nagoya-u.ac.jp/~watanabe/sample/kemuri.html> JavaScriptによる実装(ブラウザ上で動きます)
-  - [KEMURIで任意の文字列を表示するプログラムを生成するプログラム](http://d.hatena.ne.jp/Unkun/20070303)
+  - [KEMURIで任意の文字列を表示するプログラムを生成するプログラム](https://unkun-2.hatenadiary.org/entries/2007/03/03)
   - [解説ページ（日本語、KEMURIインタプリタ）](http://www.nishiohirokazu.org/blog/2006/09/kemuri.html)
-  - [解説ページ](http://d.hatena.ne.jp/keyword/KEMURI?kid=185319)
+  - [解説ページ](https://d.hatena.ne.jp:443/keyword/KEMURI?kid=185319)
 
 [Category:難解プログラミング言語](https://ja.wikipedia.org/wiki/Category:難解プログラミング言語 "wikilink") [Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink")

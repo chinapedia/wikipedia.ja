@@ -25,6 +25,8 @@ MMOFPS の具体的な例としては[2001年](../Page/2001年.md "wikilink")に
   - [Huxley](https://ja.wikipedia.org/wiki/Huxley "wikilink")
   - [JUNKMETAL](../Page/JUNKMETAL.md "wikilink")
   - [DUST514](https://ja.wikipedia.org/wiki/DUST514 "wikilink")
+  - [Destiny](https://ja.wikipedia.org/wiki/Destiny "wikilink")
+  - [Destiny 2](https://ja.wikipedia.org/wiki/Destiny_2 "wikilink")
 
 ## 関連項目
 

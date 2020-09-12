@@ -113,4 +113,6 @@
 
   - [公式サイト](http://therainbook.com/)
 
+[カテゴリ:ソロプロジェクト](https://ja.wikipedia.org/wiki/カテゴリ:ソロプロジェクト "wikilink")
+
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

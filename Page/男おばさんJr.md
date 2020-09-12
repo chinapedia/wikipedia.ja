@@ -99,6 +99,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/index.html)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビの情報・ワイドショー番組 "wikilink") [Category:アナウンサー番組](https://ja.wikipedia.org/wiki/Category:アナウンサー番組 "wikilink") [Category:フジテレビの番組の企画](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の企画 "wikilink")

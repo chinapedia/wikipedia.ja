@@ -5,7 +5,7 @@
 
 ## 概要
 
-[メガドライブ](../Page/メガドライブ.md "wikilink")での『[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")』の3作目。主人公のソニックを操作し、惑星「リトルプラネット」の巨大な湖「ネバーレイク」を占拠しているDr.エッグマンを倒して世界征服の野望を阻止する事を目的としている。この作品でエミー・ローズとメタルソニックが初めて登場した（キャラクターの詳しい説明は「[ソニックシリーズに登場するキャラクターの一覧](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧 "wikilink")」を参照）。なおOP及びEDアニメーションは東映動画（後の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が担当した。販売本数は150万本（全世界）。
+[メガドライブ](../Page/メガドライブ.md "wikilink")での『[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")』の3作目。主人公のソニックを操作し、惑星「リトルプラネット」の巨大な湖「ネバーレイク」を占拠しているDr.エッグマンを倒して世界征服の野望を阻止する事を目的としている。この作品でエミー・ローズとメタルソニックが初めて登場した（キャラクターの詳しい説明は「[ソニックシリーズに登場するキャラクターの一覧](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧 "wikilink")」を参照）。なおOP及びEDアニメーションは東映動画（後の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が担当したとされて来たが、実際は[スタジオジュニオ](https://ja.wikipedia.org/wiki/スタジオジュニオ "wikilink")に4か月という少ない制作期間と低賃金というかなりの悪条件で丸投げしていた事を[江口寿志](../Page/江口寿志.md "wikilink")に暴露されてしまった\[2\]。販売本数は150万本（全世界）。
 
 開発は[ソニックCDチームおよびH](../Page/ソニックチーム.md "wikilink").I.Cが行い、プロデューサーは後にメガドライブ用ソフト『[リスター・ザ・シューティングスター](https://ja.wikipedia.org/wiki/リスター・ザ・シューティングスター "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）を手掛けた金成実およびメガドライブ用ソフト『Jリーグプロストライカー2』（[1994年](../Page/1994年.md "wikilink")）を手掛けた押谷誠、ディレクターはメガドライブ用ソフト『[ソニック・ザ・ヘッジホッグ](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）にてキャラクター・デザインを手掛けた[大島直人](https://ja.wikipedia.org/wiki/大島直人 "wikilink")、音楽は[ゲームギア](../Page/ゲームギア.md "wikilink")用ソフト『[ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）を手掛けた尾形雅史および幡谷尚史が担当している。
 
@@ -25,7 +25,7 @@
 
 また、[セーブ](../Page/セーブ_\(コンピュータ\).md "wikilink")（[バックアップ](../Page/バックアップ.md "wikilink")）機能も初搭載された。この機能を使用することで、再プレイ時に前回のステージの続きからプレイできる。さらに、一度クリアしたステージは、現代の時代のみだが、自由に選択してタイムアタックを行う事ができる。
 
-ゲーム中3分間程度なにもしない（ボタンを押さない）とソニックが「I'm outer here.」\[2\]と言って、ステージから飛び降り一気に残機がなくなりゲームオーバーになる。
+ゲーム中3分間程度なにもしない（ボタンを押さない）とソニックが「I'm outer here.」\[3\]と言って、ステージから飛び降り一気に残機がなくなりゲームオーバーになる。
 
 北米で発売された時にはエミー・ローズ（ロージー・ザ・ラスカル）の名前がプリンセス・サリー、リトルプラネットの名前が惑星モビウスに差し替えられている。欧州版ではリトルプラネットの名前を惑星モビウスに変更したのみで、エミー・ローズ（ロージー・ザ・ラスカル）の名前は変更なし。
 
@@ -60,7 +60,7 @@
 
 ### ストーリー
 
-小さく美しい星「**リトルプラネット**」。その星は1年の内1ヶ月の間巨大な湖「ネバーレイク」の上空にやってくる。リトルプラネットには時間を自由に支配し、時をこえた出来事\[3\]を起こす不思議な石「**タイムストーン**」が眠っている。
+小さく美しい星「**リトルプラネット**」。その星は1年の内1ヶ月の間巨大な湖「ネバーレイク」の上空にやってくる。リトルプラネットには時間を自由に支配し、時をこえた出来事\[4\]を起こす不思議な石「**タイムストーン**」が眠っている。
 
 タイムストーンの力に目をつけたDr.エッグマンはリトルプラネットをネバーレイク上空に固定し、巨大要塞の建設を開始し、タイムストーンの力で世界征服を達成するべく行動を起こした。
 
@@ -233,7 +233,7 @@ H.I.C</p></td>
 
 ## 音楽
 
-『ソニック1』及び『ソニック2』の[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")は地域による違いがなく日本国外版も含めて[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")が作曲していたが、今作におけるBGMや[テーマ曲は発売された地域によって大きく異なっており](../Page/主題歌.md "wikilink")、その違いから「**日本・欧州版**」と「**北米版**」の2種類がある。ただし、メガCDの[内蔵音源](../Page/内蔵音源.md "wikilink")による「過去（Past）」のステージのBGM\[4\]など一部は共通である。また、日本でも発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版は地域によらず「北米版」のBGMとなっている。
+『ソニック1』及び『ソニック2』の[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")は地域による違いがなく日本国外版も含めて[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")が作曲していたが、今作におけるBGMや[テーマ曲は発売された地域によって大きく異なっており](../Page/主題歌.md "wikilink")、その違いから「**日本・欧州版**」と「**北米版**」の2種類がある。ただし、メガCDの[内蔵音源](../Page/内蔵音源.md "wikilink")による「過去（Past）」のステージのBGM\[5\]など一部は共通である。また、日本でも発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版は地域によらず「北米版」のBGMとなっている。
 
 ### 日本・欧州版
 
@@ -268,7 +268,7 @@ H.I.C</p></td>
 
 前述のソニックCD（日本・欧州版）サウンドトラック『SONIC THE HEDGEHOG CD ORIGINAL SOUNDTRACK 20th Anniversary Edition』では、[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")として「Sonic Boom」など北米版の数曲が収録されている。また、同じく前述のソニックシリーズテーマソング集『TRUE BLUE:THE BEST OF SONIC THE HEDGEHOG』には、「Sonic Boom」も収録されている。
 
-2017年に発売された『[ソニック フォース](https://ja.wikipedia.org/wiki/ソニック_フォース "wikilink")』では、メタルソニック戦のBGMとして、北米版のメタルソニックのテーマの[床井健一](https://ja.wikipedia.org/wiki/床井健一 "wikilink")によるアレンジ版が使用されている\[5\]。
+2017年に発売された『[ソニック フォース](https://ja.wikipedia.org/wiki/ソニック_フォース "wikilink")』では、メタルソニック戦のBGMとして、北米版のメタルソニックのテーマの[床井健一](https://ja.wikipedia.org/wiki/床井健一 "wikilink")によるアレンジ版が使用されている\[6\]。
 
 #### 主題歌
 
@@ -330,17 +330,17 @@ H.I.C</p></td>
 
 ## 評価
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では9・8・7・8の合計32点（満40点）でゴールド殿堂入りを獲得\[6\]、レビュアーからはCDメディアになった事でサウンド面が強化されたという意見や、前作よりも仕掛けが増加しソニックのスピード感も増したという意見、スピード感がより強調されたなど肯定的な意見が多く挙げられたが、一方でステージをクリアするよりも適当に走り回りリングを集めるというゲーム性になっており好みが分かれるといった意見や、じっくり遊びたい人には向かないといった意見も挙げられた\[7\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では9・8・7・8の合計32点（満40点）でゴールド殿堂入りを獲得\[7\]、レビュアーからはCDメディアになった事でサウンド面が強化されたという意見や、前作よりも仕掛けが増加しソニックのスピード感も増したという意見、スピード感がより強調されたなど肯定的な意見が多く挙げられたが、一方でステージをクリアするよりも適当に走り回りリングを集めるというゲーム性になっており好みが分かれるといった意見や、じっくり遊びたい人には向かないといった意見も挙げられた\[8\]。
 
 <!-- end list -->
 
-  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.0点（満30点）となっている\[8\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.0点（満30点）となっている\[9\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
 | 得点 | 4.6   | 4.5 | 3.8  | 4.2 | 4.0 | 3.8     | 25.0 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、本作がソニックチームの制作ではない事を指摘した上で「本家には引けを取らない」と称賛、CD音源によるBGMが素晴らしいとした上で「宇徳敬子ボーカルの主題歌は疾走感あふれる」と肯定的に評価した\[9\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、本作がソニックチームの制作ではない事を指摘した上で「本家には引けを取らない」と称賛、CD音源によるBGMが素晴らしいとした上で「宇徳敬子ボーカルの主題歌は疾走感あふれる」と肯定的に評価した\[10\]。
 
 {{-}}
 
@@ -359,11 +359,12 @@ H.I.C</p></td>
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ソニックシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ソニックシリーズのコンピュータゲーム "wikilink") [Category:タイムトラベルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.
-2.  [当時の声担当者によるTwitterでの発言](https://twitter.com/Mazin__/status/597905450147819520?p=v)
-3.  砂漠がジャングルに、汚染された湖が美しい湖に変わるなど。
-4.  現在や未来（Future）のBGMはCD音源による。
-5.
+2.  [江口のツイートより](https://mobile.twitter.com/eguchi_1203/status/1275397776776417280)
+3.  [当時の声担当者によるTwitterでの発言](https://twitter.com/Mazin__/status/597905450147819520?p=v)
+4.  砂漠がジャングルに、汚染された湖が美しい湖に変わるなど。
+5.  現在や未来（Future）のBGMはCD音源による。
 6.
 7.
 8.
 9.
+10.

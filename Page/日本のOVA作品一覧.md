@@ -198,7 +198,7 @@
   - [OL改造講座](https://ja.wikipedia.org/wiki/OL改造講座 "wikilink")
   - [お金がないっ](../Page/お金がないっ.md "wikilink")
   - [おがみ松吾郎](https://ja.wikipedia.org/wiki/おがみ松吾郎 "wikilink")
-  - [臆病なヴィーナス](https://ja.wikipedia.org/wiki/臆病なヴィーナス "wikilink")
+  - [憶病なヴィーナス](https://ja.wikipedia.org/wiki/憶病なヴィーナス "wikilink")
   - [おざなりダンジョン 風の塔](https://ja.wikipedia.org/wiki/おざなりダンジョン#OVA_「おざなりダンジョン_風の塔」 "wikilink")
   - [おジャ魔女どれみ](https://ja.wikipedia.org/wiki/おジャ魔女どれみ "wikilink")ナ・イ・ショ
   - [お嬢様捜査網](https://ja.wikipedia.org/wiki/お嬢様捜査網 "wikilink")

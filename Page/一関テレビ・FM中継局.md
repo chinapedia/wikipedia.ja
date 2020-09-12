@@ -540,7 +540,7 @@ ID</a></p></th>
 
 ## 外部リンク
 
-  - [受信障害対策中継放送を行う放送局に免許-岩手県内15局目のギャップフィラー開局による地デジ難視聴の解消-](http://www.soumu.go.jp/soutsu/tohoku/hodo/h2307-09/0817a1001.html) - 総務省 東北総合通信局（2011年8月17日付）
+  - [受信障害対策中継放送を行う放送局に免許-岩手県内15局目のギャップフィラー開局による地デジ難視聴の解消-](https://www.soumu.go.jp/soutsu/tohoku/hodo/h2307-09/0817a1001.html) - 総務省 東北総合通信局（2011年8月17日付）
 
   - [一関厳美テレビ中継局無線局免許状情報](http://www.info.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=I&DFCD=0001110783&DD=1&styleNumber=01) - 電波利用ホームページ（総務省）
 

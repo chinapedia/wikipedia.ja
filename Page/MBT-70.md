@@ -107,7 +107,7 @@ MBT-70とKPz.70では[エンジン](../Page/エンジン.md "wikilink")および
 
 :; 『[メタルギアソリッド ピースウォーカー](https://ja.wikipedia.org/wiki/メタルギアソリッド_ピースウォーカー "wikilink")』
 
-:: プレイヤーの前に立ちはだかる敵戦車として登場。[アメリカ仕様のMBT](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")-70と[西ドイツ](../Page/西ドイツ.md "wikilink")仕様のKPz.70が登場する（アメリカ仕様のゲーム内での名称は「MBTK70」）。
+:: プレイヤーに立ちはだかる[CIA](https://ja.wikipedia.org/wiki/CIA "wikilink")[傭兵](../Page/傭兵.md "wikilink")の戦車としてエクストラミッションに登場。[アメリカ仕様のMBT](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")-70と[西ドイツ](../Page/西ドイツ.md "wikilink")仕様のKPz.70が登場する（アメリカ仕様のゲーム内での名称は「MBTK70」）。全ボス戦共通で車体側面に弱点として燃料タンクが装備されている。(東側の戦車、装甲車は車体後部)
 
 :; 『[メタルマックス3](https://ja.wikipedia.org/wiki/メタルマックス3 "wikilink")』
 

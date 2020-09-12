@@ -26,7 +26,7 @@
 
 ## 外部リンク
 
-  - [ENERGY CHARGE](http://web.archive.org/web/20080916171403/http://www.tss-tv.co.jp/energy_charge/) - テレビ新広島。閉鎖（2008年9月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [エナジーチャージ](http://web.archive.org/web/20080405214248/http://www.energia.co.jp/pr/ad2b.html) - 中国電力（2008年4月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [ENERGY CHARGE](https://web.archive.org/web/20080916171403/http://www.tss-tv.co.jp/energy_charge/) - テレビ新広島。閉鎖（2008年9月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [エナジーチャージ](https://web.archive.org/web/20080405214248/http://www.energia.co.jp/pr/ad2b.html) - 中国電力（2008年4月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ新広島番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:日本のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー番組 "wikilink") [Category:中国電力の歴史](https://ja.wikipedia.org/wiki/Category:中国電力の歴史 "wikilink") [Category:ローカルテレビ局の一社提供番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の一社提供番組 "wikilink")
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ新広島の番組](https://ja.wikipedia.org/wiki/Category:テレビ新広島の番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:日本のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本のドキュメンタリー番組 "wikilink") [Category:中国電力の歴史](https://ja.wikipedia.org/wiki/Category:中国電力の歴史 "wikilink") [Category:ローカルテレビ局の一社提供番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の一社提供番組 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[夕やけTV編集局](https://ja.wikipedia.org/wiki/夕やけTV編集局)から翻訳されています。
 
 
-**夕やけTV編集局**（ゆうやけてれびへんしゅうきょく）とは、[1994年](../Page/1994年.md "wikilink")10月から[1996年](../Page/1996年.md "wikilink")11月まで[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の[仙台放送](../Page/仙台放送.md "wikilink")が放送していた夕方の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。略称は『**夕やけ**』。
+**夕やけTV編集局**（ゆうやけてれびへんしゅうきょく）とは、[1994年](../Page/1994年.md "wikilink")10月から[1996年](../Page/1996年.md "wikilink")11月まで[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の[仙台放送](../Page/仙台放送.md "wikilink")が放送していた夕方の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。
 
 仙台[一番町のファッションビル](../Page/一番町_\(仙台市\).md "wikilink")[仙台フォーラス](../Page/仙台フォーラス.md "wikilink")スタジオ・サンクの[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")から[公開生放送](https://ja.wikipedia.org/wiki/公開生放送 "wikilink")されていた。新番組当時のキャッチコピーは「*こころはいつも夕やけ*」。
 

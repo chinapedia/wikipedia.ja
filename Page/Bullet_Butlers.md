@@ -155,6 +155,13 @@
   - 挿入歌『**Enemy Within**』
       - 歌：Antistar
 
+## ノベライズ
+
+[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")より刊行。全2巻。原作ゲームと同じく、東出祐一郎が執筆し中央東口がイラストを担当した外伝小説\[2\]。
+
+  - Bullet Butlers 〜虎は弾丸のごとく疾駆する〜1（2007年11月16日発売）
+  - Bullet Butlers 〜黒騎士は弾丸のごとく駆け抜ける〜2（2008年1月18日発売）
+
 ## 関連項目
 
   - [警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-](https://ja.wikipedia.org/wiki/警視庁_特務部_特殊凶悪犯対策室_第七課_-トクナナ- "wikilink")
@@ -170,3 +177,4 @@
 [Category:2007年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2007年のアダルトゲーム "wikilink") [Category:ガガガ文庫](https://ja.wikipedia.org/wiki/Category:ガガガ文庫 "wikilink") [Category:ウィルプラスのゲームソフト](https://ja.wikipedia.org/wiki/Category:ウィルプラスのゲームソフト "wikilink")
 
 1.  [美少女ゲームアワード2007](http://moe-gameaward.com/prize/2007/result.html)
+2.

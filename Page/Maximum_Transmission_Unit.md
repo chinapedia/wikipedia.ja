@@ -1,7 +1,7 @@
 > この記事は[Maximum Transmission Unit](https://ja.wikipedia.org/wiki/Maximum_Transmission_Unit)から翻訳されています。
 
 
-**Maximum Transmission Unit** (MTU)は、ネットワークにおいて1回の転送（1[フレーム](../Page/パケット.md "wikilink")）で送信できるデータの最大値を示す伝送単位のこと。
+**Maximum Transmission Unit** (MTU：最大送信単位)は、ネットワークにおいて1回の転送（1[フレーム](../Page/パケット.md "wikilink")）で送信できるデータの最大値を示す伝送単位のこと。
 
 MTUの値は利用される通信メディアや[カプセル化の有無などによって変わる](https://ja.wikipedia.org/wiki/カプセル化_\(通信\) "wikilink")。たとえば[イーサネット](../Page/イーサネット.md "wikilink")では最大1,500[バイト](../Page/バイト_\(情報\).md "wikilink")（[オクテット](../Page/8ビット.md "wikilink")）が[IP通信に利用できる](../Page/Internet_Protocol.md "wikilink")。[PPPoE](../Page/PPPoE.md "wikilink")を使うとカプセル化のために8バイトを使うため、1,492バイトとなる。[WANではさらに別の制約が入る場合もあり](../Page/Wide_Area_Network.md "wikilink")、たとえば[NTT東日本および](../Page/東日本電信電話.md "wikilink")[NTT西日本が提供する](../Page/西日本電信電話.md "wikilink")[フレッツ](../Page/フレッツ.md "wikilink")シリーズのIP網は1,454バイトとなっている\[1\]。 MTUを超えた場合、断片化（[フラグメンテーション](../Page/フラグメンテーション.md "wikilink")、[IPフラグメンテーション](https://ja.wikipedia.org/wiki/IPフラグメンテーション "wikilink")）して通信を行う。
 

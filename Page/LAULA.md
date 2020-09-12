@@ -41,6 +41,6 @@
 ## 外部リンク
 
   - [LauLaオフィシャルホームページ](http://www.laula-kealoha.com/)
-  - [レーベル公式サイト](http://www.universal-music.co.jp/laula/index.html)
+  - [レーベル公式サイト](https://www.universal-music.co.jp/laula/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

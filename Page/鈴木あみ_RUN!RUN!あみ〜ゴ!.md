@@ -23,10 +23,10 @@
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（金）23:30-24:00
   - [和歌山放送](../Page/和歌山放送.md "wikilink")（土）24:00-24:30
   - [AM KOBE](../Page/ラジオ関西.md "wikilink")（土）20:00-20:30
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（土）22:30-23:00
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（土）22:30-23:00
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（日）22:00-22:30
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（日）24:00-24:30
-  - [西日本放送](../Page/西日本放送.md "wikilink")（日）22:30-22:59
+  - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")（日）22:30-22:59
   - [大分放送](../Page/大分放送.md "wikilink")（木）23:00-23:30
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（金）23:00-23:30
 

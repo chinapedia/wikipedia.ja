@@ -66,7 +66,7 @@
 
 ## 外部リンク
 
-  - [番組オフィシャルサイト](http://www.fujitv.co.jp/otn/char_guitarmuseum/)
+  - [番組オフィシャルサイト](https://otn.fujitv.co.jp/char_guitarmuseum/)
   - [OAスケジュール](https://otn.fujitv.co.jp/b_hp/100000007.html)
 
 ## 脚注

@@ -133,12 +133,7 @@
 ## 関連項目
 
   - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")
-  - [資生堂インターナショナル](https://ja.wikipedia.org/wiki/資生堂インターナショナル "wikilink")
-  - [ザ・スキンケア](https://ja.wikipedia.org/wiki/The_Skincare "wikilink")
   - [インウイID](../Page/INOUI_ID.md "wikilink")
-  - [S\&Co.](https://ja.wikipedia.org/wiki/S&Co. "wikilink")
-  - [ディック・ページ](https://ja.wikipedia.org/wiki/ディック・ページ "wikilink")
-  - [トム・ペシュー](https://ja.wikipedia.org/wiki/トム・ペシュー "wikilink")
 
 ## 外部リンク
 

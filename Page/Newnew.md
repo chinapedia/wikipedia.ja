@@ -1,7 +1,7 @@
 > この記事は[Newnew](https://ja.wikipedia.org/wiki/Newnew)から翻訳されています。
 
 
-**newnew**（にゅうにゅう）は、[関西テレビのテレビ番組](../Page/関西テレビ放送.md "wikilink")、[南パラZ\!](../Page/南パラZ!.md "wikilink")に出演する女性らで結成されたユニットである。
+**newnew**（にゅうにゅう）は、[関西テレビのテレビ番組](../Page/関西テレビ放送.md "wikilink")、[南パラZ\!](../Page/南パラZ!.md "wikilink")に出演する女性らで結成されたアイドルユニットである。
 
 ## 概要
 
@@ -68,4 +68,4 @@
 
   - [番組によるメンバープロフィール](http://ktv.jp/paradise/profile.html)
 
-[Category:Newnew](https://ja.wikipedia.org/wiki/Category:Newnew "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+[Category:Newnew](https://ja.wikipedia.org/wiki/Category:Newnew "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:アイドルユニット](https://ja.wikipedia.org/wiki/Category:アイドルユニット "wikilink")

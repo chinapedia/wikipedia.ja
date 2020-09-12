@@ -11,7 +11,7 @@
 
 その後、マカオの行政管理権が中華人民共和国へ返還される数か月前の[1999年](../Page/1999年.md "wikilink")7月に、信徳集団有限公司と香港中旅国際投資有限公司により設立された「信徳中旅船務管理有限公司」による運航に組織変更され、「TurboJET」の[ブランド](../Page/ブランド.md "wikilink")名を冠された。
 
-他にも、上環と[九龍](../Page/九龍.md "wikilink")の[尖沙咀](../Page/尖沙咀.md "wikilink")中港客運碼頭（China Hong Kong Terminal）と深圳の間を結ぶ路線、マカオから深圳の間を結ぶ路線と、[香港国際空港](../Page/香港国際空港.md "wikilink")のスカイピアとマカオ、[中華人民共和国](../Page/中華人民共和国.md "wikilink")本土の[深圳の間を結ぶ路線](../Page/深セン市.md "wikilink")（TurboJET Sea Express/機場噴射飛航のブランド名で運航）を運航している。
+他にも、上環と[九龍](../Page/九龍.md "wikilink")の[尖沙咀](../Page/尖沙咀.md "wikilink")中港客運碼頭（China Hong Kong Terminal）と深圳の間を結ぶ路線、マカオから深圳の間を結ぶ路線と、[香港国際空港](../Page/香港国際空港.md "wikilink")のスカイピアとマカオ、[中華人民共和国](../Page/中華人民共和国.md "wikilink")本土の[深圳の間を結ぶ路線](https://ja.wikipedia.org/wiki/深圳市 "wikilink")（TurboJET Sea Express/機場噴射飛航のブランド名で運航）を運航している。
 
 香港・マカオ・[珠海市](../Page/珠海市.md "wikilink")を結ぶ全長55kmの[港珠澳大橋](../Page/港珠澳大橋.md "wikilink")が[2018年](../Page/2018年.md "wikilink")10月23日に開通。高速バス運行による輸送量減少に呼応し、就航時期の早い船舶について定員減少を伴う改装を施す等、サービス面のグレードアップを進めている。
 
@@ -41,7 +41,7 @@
 
 ### 深圳（深圳空港/蛇口）-マカオ線
 
-中華人民共和国本土の一部の省からのマカオへの事実上の渡航自由化を受けて、マカオと中華人民共和国本土の[深圳の](../Page/深セン市.md "wikilink")[蛇口クルーズセンター](https://ja.wikipedia.org/wiki/蛇口クルーズセンター "wikilink")、[深セン宝安国際空港](../Page/深セン宝安国際空港.md "wikilink")を結ぶ3航路が開設された。マカオ-深圳間は約60分である。
+中華人民共和国本土の一部の省からのマカオへの事実上の渡航自由化を受けて、マカオと中華人民共和国本土の[深圳の](https://ja.wikipedia.org/wiki/深圳市 "wikilink")[蛇口クルーズセンター](https://ja.wikipedia.org/wiki/蛇口クルーズセンター "wikilink")、[深圳宝安国際空港](https://ja.wikipedia.org/wiki/深圳宝安国際空港 "wikilink")を結ぶ3航路が開設された。マカオ-深圳間は約60分である。
 
   - **外港 - 深圳空港（[福永](https://ja.wikipedia.org/wiki/福永フェリーターミナル "wikilink"))**
   - **外港 - 蛇口**
@@ -266,4 +266,4 @@ Premier JetFoil の登場により、客席グレードが追加された。
 4.  Damen Shipyard([シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink"))製。2011年12月、新世界第一渡輪から購入。定員368人
 5.  Pequot River Shipworks([米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink"))製。2005年に中古購入。定員328人
 6.
-7.  佐渡汽船初のジェットフォイル
+7.  日本初就航かつ佐渡汽船初のジェットフォイル

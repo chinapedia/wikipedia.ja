@@ -1,7 +1,7 @@
 > この記事は[日清焼そばU.F.O.](https://ja.wikipedia.org/wiki/日清焼そばU.F.O.)から翻訳されています。
 
 
-**日清焼そばU.F.O.**（にっしんやきそばユーフォー）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")が製造・販売する[カップ焼きそば](../Page/カップ焼きそば.md "wikilink")、およびカップ汁なし中華麺（[油そば](../Page/油そば.md "wikilink")、[まぜそば](https://ja.wikipedia.org/wiki/まぜそば "wikilink")）の商品名。
+**日清焼そばU.F.O.**（にっしんやきそばユーホー）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")が製造・販売する[カップ焼きそば](../Page/カップ焼きそば.md "wikilink")、およびカップ汁なし中華麺（[油そば](../Page/油そば.md "wikilink")、[まぜそば](https://ja.wikipedia.org/wiki/まぜそば "wikilink")）の商品名。
 
 ## 概要
 
@@ -80,9 +80,9 @@
 ### 過去
 
   - 桂三枝（現・[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）
-  - [松鶴家千とせ](../Page/松鶴家千とせ.md "wikilink")（1976年、1999ヤキソバオデッセイ)
+  - [松鶴家千とせ](../Page/松鶴家千とせ.md "wikilink")（1976年、1999ヤキソバオデッセイ\[14\]）
   - [ピンク・レディー](../Page/ピンク・レディー.md "wikilink")（1977年 - 1978年）
-  - [川崎麻世](../Page/川崎麻世.md "wikilink")（1978年、1999ヤキソバオデッセイ）
+  - [川崎麻世](../Page/川崎麻世.md "wikilink")（1978年、1999ヤキソバオデッセイ\[15\]）
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")（1979年）
   - [島田紳助](../Page/島田紳助.md "wikilink")
   - 三原順子（現・[三原じゅん子](../Page/三原じゅん子.md "wikilink")）
@@ -95,7 +95,7 @@
   - U.F.O.BAND（1997年）
   - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")（1997年 - 1998年）
   - 1999ヤキソバオデッセイ（ターボ湯切り編）
-      - [中山仁](../Page/中山仁.md "wikilink")、[増田惠子](../Page/増田恵子.md "wikilink")（ピンク・レディー）、[伊集院光](../Page/伊集院光.md "wikilink")
+      - [中山仁](../Page/中山仁.md "wikilink")、[増田惠子](../Page/増田恵子.md "wikilink")（ピンク・レディー）、[伊集院光](../Page/伊集院光.md "wikilink")\[16\]
   - [トータス松本](../Page/トータス松本.md "wikilink")（[ウルフルズ](../Page/ウルフルズ.md "wikilink")、トータス本人の顔を[電気ポット](../Page/電気ポット.md "wikilink")に見立てたCMが有名）
   - [広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")
   - [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")、[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")
@@ -106,8 +106,8 @@
   - [長瀬智也](../Page/長瀬智也.md "wikilink")
   - [KELLY](https://ja.wikipedia.org/wiki/KELLY "wikilink")（長瀬智也と共演）
   - [生田斗真](../Page/生田斗真.md "wikilink")
-  - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")（広瀬アリスと共演）\[14\]
-  - [広瀬アリス](https://ja.wikipedia.org/wiki/広瀬アリス "wikilink")（北乃きいと共演）\[15\]
+  - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")（広瀬アリスと共演）\[17\]
+  - [広瀬アリス](https://ja.wikipedia.org/wiki/広瀬アリス "wikilink")（北乃きいと共演）\[18\]
   - [椎名桔平](../Page/椎名桔平.md "wikilink")
   - [桐谷健太](https://ja.wikipedia.org/wiki/桐谷健太 "wikilink")
   - エクストリーム\!編（2016年3月24日- ）
@@ -118,7 +118,7 @@
       - [Mr.マリック](../Page/Mr.マリック.md "wikilink")
   - [徳井義実](../Page/徳井義実.md "wikilink")
   - [山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink")
-  - [U.F.O.仮面ヤキソボーイ](https://ja.wikipedia.org/wiki/U.F.O.仮面ヤキソボーイ "wikilink") - エクストリーム\!ヤキソボーイ編（2017年3月10日～）\[16\]
+  - [U.F.O.仮面ヤキソボーイ](https://ja.wikipedia.org/wiki/U.F.O.仮面ヤキソボーイ "wikilink") - エクストリーム\!ヤキソボーイ編（2017年3月10日～）\[19\]
       - [中川大志](https://ja.wikipedia.org/wiki/中川大志_\(俳優\) "wikilink")（ソース（青年期） / U.F.O.仮面ヤキソボーイ役） 、[藤岡弘、](../Page/藤岡弘、.md "wikilink")（レジェンド・クロオビ役）
   - [内田裕也](../Page/内田裕也.md "wikilink")（2018年「ファッションモンスター編」「淋しい熱帯魚編」）
   - [ジェッターマルス](../Page/ジェッターマルス.md "wikilink")（1978年）
@@ -131,17 +131,17 @@
   - [広谷順子](https://ja.wikipedia.org/wiki/広谷順子 "wikilink")「UFO」（1981年制作） - 作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：[多羅尾伴内（大瀧詠一）](../Page/大瀧詠一.md "wikilink")、編曲：[村松邦男](../Page/村松邦男.md "wikilink")（未使用、『[NIAGARA CM SPECIAL Vol.2](../Page/NIAGARA_CM_SPECIAL_Vol.2.md "wikilink")』『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』に収録）。
   - [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")「ウーパーダンシング（Wuper Dancing）」（1985年） - 1980年代のウーパールーパーが登場したCMで使用された。
   - U.F.O.BAND「愛の使者U.F.O.BAND」（1997年）
-  - SPEED「[ナマイキ](https://ja.wikipedia.org/wiki/White_Love_\(SPEEDの曲\)#収録曲 "wikilink")」（1997年）「[my graduation](https://ja.wikipedia.org/wiki/my_graduation "wikilink")」（1998年）\[17\]
+  - SPEED「[ナマイキ](https://ja.wikipedia.org/wiki/White_Love_\(SPEEDの曲\)#収録曲 "wikilink")」（1997年）「[my graduation](https://ja.wikipedia.org/wiki/my_graduation "wikilink")」（1998年）\[20\]
   - [きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")「[ファッションモンスター](https://ja.wikipedia.org/wiki/ファッションモンスター "wikilink")」（2018年） - 内田裕也の出演CMで使用
-  - [Wink](../Page/Wink.md "wikilink")「[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")」（2018年） - 内田裕也の出演CMで使用\[18\]。
+  - [Wink](../Page/Wink.md "wikilink")「[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")」（2018年） - 内田裕也の出演CMで使用\[21\]。
 
 ## その他
 
-  - かつて、キャンペーン賞品として[浮き袋が存在した](../Page/浮き輪.md "wikilink")。中でも[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")のキャンペーンでは、当選数の1万5000名に対して\[19\]、154万通もの応募があった\[20\]。なお、この浮き袋は、1個2000円で[通信販売](../Page/通信販売.md "wikilink")での購入も可能であった\[21\]。
+  - かつて、キャンペーン賞品として[浮き袋が存在した](../Page/浮き輪.md "wikilink")。中でも[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")のキャンペーンでは、当選数の1万5000名に対して\[22\]、154万通もの応募があった\[23\]。なお、この浮き袋は、1個2000円で[通信販売](../Page/通信販売.md "wikilink")での購入も可能であった\[24\]。
 
 ## 関連項目
 
-  - [やきそばできました。](../Page/やきそばできました。.md "wikilink") - 同社による[北海道限定販売のカップ焼きそば](../Page/北海道限定品.md "wikilink")。2009年3月をもって一時的に販売終了し、同年4月20日に『「北海道の新定番\!」をお手ごろな価格で\!』という新コンセプトにて[オープンプライスなどの変更を行いリニューアル発売された](../Page/オープン価格.md "wikilink")\[22\]。
+  - [やきそばできました。](../Page/やきそばできました。.md "wikilink") - 同社による[北海道限定販売のカップ焼きそば](../Page/北海道限定品.md "wikilink")。2009年3月をもって一時的に販売終了し、同年4月20日に『「北海道の新定番\!」をお手ごろな価格で\!』という新コンセプトにて[オープンプライスなどの変更を行いリニューアル発売された](../Page/オープン価格.md "wikilink")\[25\]。
   - [日清北の焼そば](https://ja.wikipedia.org/wiki/日清北の焼そば "wikilink") - 「やきそばできました。」と同じく、同社による北海道限定販売のカップ焼きそば。
   - [ゴリパラ見聞録](https://ja.wikipedia.org/wiki/ゴリパラ見聞録 "wikilink") - 同番組の名物として[納豆](../Page/納豆.md "wikilink")をのせた「納豆U.F.O.」を食べるシーンが登場する。
 
@@ -168,12 +168,15 @@
 11. [1](http://www.nissin-ufo.jp/nissan_nissen_nissin/)
 12. [＜新発売のご案内＞"豚 (トン) ガリペッパー" ってなに味? ガッツリ食べると納得の味\!\! 「日清焼そばU.F.O.極太 豚ガリペッパー」 を2016年5月9日(月)に新発売](https://www.nissin.com/jp/news/5159) - 日清食品ニュースリリース、2016年4月25日
 13. [＜新発売のご案内＞"大人気の元祖わさびマヨ焼そばが復活\! 「日清焼そばU.F.O. わさびマヨ焼そば」 を2016年5月30日(月)に新発売](https://www.nissin.com/jp/news/5200) - 日清食品ニュースリリース、2016年5月16日
-14.
+14. [―　革新的容器を開発・具材キャベツ50％増量　― 皿形カップ焼そば「日清焼そば Ｕ.Ｆ.Ｏ.」「日清焼そば Ｕ.Ｆ.Ｏ.大盛り」リニューアル新発売のご案内](https://web.archive.org/web/20000522180651/http://www.nissinfoods.co.jp/new/99release/990202.html)、日清食品、1999年2月2日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 15.
 16.
-17. [Profile](https://avex.jp/speed/profile/) - SPEED Official Web Site。 - 2019年4月7日閲覧。
-18. [内田裕也が出演する「日清焼そばU.F.O.」のCMソングは？](https://www.cdjournal.com/main/research/wink/5143)、CDジャーナル、2018年8月21日。
-19. 『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』1978年30号（7月23日号）裏表紙の広告より。
-20. [安藤宏基](../Page/安藤宏基.md "wikilink")『カップヌードルをぶっつぶせ！　創業者を激怒させた二代目社長のマーケティング流儀』[中央公論新社](../Page/中央公論新社.md "wikilink")（[中公文庫](../Page/中公文庫.md "wikilink")）、2010年、71頁。ISBN 978-4-12-205398-4。
-21.
-22. [＜リニューアル発売のご案内＞-北海道の新定番\!カップ焼そばをお手ごろな価格で\!-カップ焼そば「日清 やきそばできました。」地区限定 リニューアル発売のご案内](http://www.nissinfoods.co.jp/com/news/news_release.html?nid=1579) 日清食品ニューリリース 2009年4月6日
+17.
+18.
+19.
+20. [Profile](https://avex.jp/speed/profile/) - SPEED Official Web Site。 - 2019年4月7日閲覧。
+21. [内田裕也が出演する「日清焼そばU.F.O.」のCMソングは？](https://www.cdjournal.com/main/research/wink/5143)、CDジャーナル、2018年8月21日。
+22. 『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』1978年30号（7月23日号）裏表紙の広告より。
+23. [安藤宏基](../Page/安藤宏基.md "wikilink")『カップヌードルをぶっつぶせ！　創業者を激怒させた二代目社長のマーケティング流儀』[中央公論新社](../Page/中央公論新社.md "wikilink")（[中公文庫](../Page/中公文庫.md "wikilink")）、2010年、71頁。ISBN 978-4-12-205398-4。
+24.
+25. [＜リニューアル発売のご案内＞-北海道の新定番\!カップ焼そばをお手ごろな価格で\!-カップ焼そば「日清 やきそばできました。」地区限定 リニューアル発売のご案内](http://www.nissinfoods.co.jp/com/news/news_release.html?nid=1579) 日清食品ニューリリース 2009年4月6日

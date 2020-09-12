@@ -1,7 +1,7 @@
 > この記事は[ETERNAL BLAZE](https://ja.wikipedia.org/wiki/ETERNAL_BLAZE)から翻訳されています。
 
 
-「**ETERNAL BLAZE**」（エターナル・ブレイズ）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
+「**ETERNAL BLAZE**」（エターナル・ブレイズ）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。2005年10月19日に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
 
 ## 解説
 
@@ -98,7 +98,7 @@
 
   - [キングレコードによる紹介ページ](http://www.kingrecords.co.jp/cs/g/gKICM-1148/)
 
-[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:上松範康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:上松範康が制作した楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:魔法少女リリカルなのはの音楽](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはの音楽 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:上松範康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:上松範康が制作した楽曲 "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:魔法少女リリカルなのはの音楽](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはの音楽 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.  トークのみ、歌唱なし
 2.  [水樹奈々、投げキス３回　笑顔の全国ツアー最終公演](http://www.nikkansports.com/entertainment/news/1540891.html),日刊スポーツ,2015年9月20日

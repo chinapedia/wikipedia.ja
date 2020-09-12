@@ -11,11 +11,15 @@
 
 ## ICI時代
 
-デュポンは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インペリアル・ケミカル・インダストリーズ](../Page/インペリアル・ケミカル・インダストリーズ.md "wikilink")(ICI)と[1929年](../Page/1929年.md "wikilink")に特許ライセンスと研究開発について世界的な市場のテリトリー分けをおこなった\[2\]。これはのちに、海外共同事業に米国での独禁法違反の司法判断が下され、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に解消されている\[3\]。しかしながら、Ducoという商標はICIがICI Autocolor事業部で使い続けていた。　
+デュポンは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インペリアル・ケミカル・インダストリーズ](../Page/インペリアル・ケミカル・インダストリーズ.md "wikilink") (ICI) と[1929年](../Page/1929年.md "wikilink")に特許ライセンスと研究開発について世界的な市場のテリトリー分けをおこなった\[2\]。これはのちに、海外共同事業に米国での独禁法違反の司法判断が下され、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に解消されている\[3\]。しかしながら、Ducoという商標はICIがICI Autocolor事業部で使い続けていた。　
 
 ## PPG時代
 
 現在Ducoという名は、世界的な自動車塗料メーカーであり北米の大手建築塗料メーカーである[PPGインダストリーズ](../Page/PPGインダストリーズ.md "wikilink")（米国[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")）が[Nexa Autocolor部門で自動車塗料の商標として使用している](https://ja.wikipedia.org/wiki/Nexa_Autocolor "wikilink")。Nexa Autocolorは、英国ICI社からICI Autocolor事業部を[1999年](../Page/1999年.md "wikilink")に買収しPPGの傘下事業部として継続使用していた名前を、買収後の総仕上げとして[2002年](../Page/2002年.md "wikilink")に変更したもの\[4\]。
+
+## その他
+
+Ducoは元々DuPontが商標を取得していた[ニトロセルロース](../Page/ニトロセルロース.md "wikilink")家庭用接着剤のブランドでもあり、現在は米国では[ITW Devconによって販売されている](https://ja.wikipedia.org/wiki/イリノイ・ツール・ワークス "wikilink")。
 
 ## 脚注
 

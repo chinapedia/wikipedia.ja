@@ -14,6 +14,7 @@
   - [UP (音楽グループ)](../Page/UP_\(音楽グループ\).md "wikilink") - かつてあった[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の音楽グループ。
   - [NHK奈良放送局](../Page/NHK奈良放送局.md "wikilink")の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JO**UP**-DTV / -FM）
   - [結いの党](https://ja.wikipedia.org/wiki/結いの党 "wikilink")の英文略称 (Unity Party)
+  - [ユニバーサル・ピクチャーズ](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ "wikilink") (Universal Pictures)
   - UP - [東京大学出版会](../Page/東京大学出版会.md "wikilink")の月刊PR誌。大学出版部を意味するUniversity Pressの略に由来。
   - [不飽和ポリエステル](https://ja.wikipedia.org/wiki/不飽和ポリエステル "wikilink") (unsaturate polyester)
 

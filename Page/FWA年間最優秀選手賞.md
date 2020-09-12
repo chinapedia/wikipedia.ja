@@ -376,6 +376,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ラヒーム・スターリング" title="wikilink">ラヒーム・スターリング</a></p></td>
 <td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2019-2020" title="wikilink">2019-20</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョーダン・ヘンダーソン" title="wikilink">ジョーダン・ヘンダーソン</a></p></td>
+<td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
+</tr>
 </tbody>
 </table>
 

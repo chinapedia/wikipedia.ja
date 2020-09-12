@@ -43,7 +43,7 @@
 
 ## 関連項目
 
-  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（OBSテレビ）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/S☆1_BASEBALL "wikilink")（OBSテレビ）
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:大分放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:大分放送のラジオ番組 "wikilink")
 

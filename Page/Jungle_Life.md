@@ -11,4 +11,4 @@
 2.  **Jungle Life (JUNGLE 2001 MIX)**
 3.  Jungle Life (backtracks)
 
-[Category:椎名へきるの楽曲](https://ja.wikipedia.org/wiki/Category:椎名へきるの楽曲 "wikilink") [Category:田中花乃が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田中花乃が制作した楽曲 "wikilink") [Category:木根尚登が制作した楽曲](https://ja.wikipedia.org/wiki/Category:木根尚登が制作した楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:椎名へきるの楽曲](https://ja.wikipedia.org/wiki/Category:椎名へきるの楽曲 "wikilink") [Category:田中花乃が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田中花乃が制作した楽曲 "wikilink") [Category:木根尚登が制作した楽曲](https://ja.wikipedia.org/wiki/Category:木根尚登が制作した楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:森を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:森を題材とした楽曲 "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

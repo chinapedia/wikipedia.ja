@@ -214,7 +214,7 @@
 
 ## 登場昆虫：「BUGS LAND」
 
-  - [タランチュラ](../Page/タランチュラ.md "wikilink")ブラックベルベット
+  - [タランチュラ](../Page/タランチュラ.md "wikilink")/ブラックベルベット
     コンテナ内に飼育場がある。
 
   - [タランチュラホーク](https://ja.wikipedia.org/wiki/タランチュラホーク "wikilink")
@@ -222,11 +222,11 @@
     [アサギマダラ](../Page/アサギマダラ.md "wikilink")
     [ジョロウグモ](../Page/ジョロウグモ.md "wikilink")
     [オオカマキリ](../Page/オオカマキリ.md "wikilink")
-    [スジモンヒトリ](https://ja.wikipedia.org/wiki/スジモンヒトリ "wikilink")
+    [スジモンヒトリ](../Page/ヒトリガ.md "wikilink")
     [アシダカグモ](../Page/アシダカグモ.md "wikilink")
     [キリギリス](../Page/キリギリス.md "wikilink")
     [トゲアリ](https://ja.wikipedia.org/wiki/トゲアリ "wikilink")
-    [トンボ](../Page/トンボ.md "wikilink")ギンヤンマ
+    [トンボ](../Page/トンボ.md "wikilink")/ギンヤンマ
     その他の虫。「黎明のバグズランド」の時点で、日本中の山側から様々な巨大な虫の大発生が確認されている。
     [オオスズメバチ](../Page/オオスズメバチ.md "wikilink")
     [ガ](../Page/ガ.md "wikilink")

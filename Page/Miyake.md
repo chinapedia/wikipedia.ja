@@ -1,9 +1,7 @@
 > この記事は[Miyake](https://ja.wikipedia.org/wiki/Miyake)から翻訳されています。
 
 
-**miyake**（みやけ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月2日](../Page/10月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、ミュージシャン。本名、**三宅 光幸**（みやけ みつゆき）。[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")出身。
-
-初期には "**mitsu**" とも表記、メンバー紹介などでは単に "miyake"、愛称「ミックン」（本人曰く名字の「ミヤケ」から）、「ミツオ」「[ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")」（[ラジオ番組でつけられたが](https://ja.wikipedia.org/wiki/mihimaru_GTのラジマルGT "wikilink")、本人は否定）。既婚者。
+**miyake**（ミヤケ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月2日](../Page/10月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。本名は**三宅 光幸**で、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")出身。[mihimaru GTのメンバー](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")。ビートニックス株式会社代表取締役社長。既婚者。
 
 ## 来歴
 

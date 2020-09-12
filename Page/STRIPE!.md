@@ -9,7 +9,7 @@
 
 本作から[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")内で[Sony Recordsから](../Page/ソニー・ミュージックレコーズ.md "wikilink")[SME Records](../Page/エスエムイーレコーズ.md "wikilink")（当時はソニー・ミュージックレコーズ内のレーベル）へレーベル移籍をしている。
 
-ジャケットは[フリスク](https://ja.wikipedia.org/wiki/フリスク "wikilink")のパッケージのパロディ。
+ジャケットは[フリスクのパッケージのパロディ](../Page/FRISK.md "wikilink")。
 
 [スキー](../Page/スキー.md "wikilink")をテーマにした、ウインタースポーツ用品の[アルペンのCMソング](../Page/アルペン_\(企業\).md "wikilink")。
 

@@ -21,7 +21,7 @@
 
 テレビのローカルニュースでは[福岡県](../Page/福岡県.md "wikilink")のみならず[佐賀県](../Page/佐賀県.md "wikilink")のニュースも一部取材・報道している（佐賀県にある県域テレビ局は[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（SAGA TV/sts）と[NHK佐賀のみ](../Page/NHK佐賀放送局.md "wikilink")。[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）・[NHK福岡以外の在福局](../Page/NHK福岡放送局.md "wikilink")=RKB・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBC）・[福岡放送](../Page/福岡放送.md "wikilink")（FBS）・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")は佐賀県のニュースも一部取材・報道）。
 
-ラジオでは、佐賀県内ニュースを[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")・[NRN系列で全国報道する際の取材担当局はRKBや九州朝日放送ではなく](../Page/全国ラジオネットワーク.md "wikilink")、[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")となっている。
+ラジオでは、佐賀県内ニュースを[JRN](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")・[NRN系列で全国報道する際の取材担当局はRKBや九州朝日放送ではなく](../Page/全国ラジオネットワーク.md "wikilink")、[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")となっている。
 
 さらにRKBの天気予報では、地域区分を福岡県のみならず[山口](../Page/山口県.md "wikilink")・佐賀・[大分](../Page/大分県.md "wikilink")・[長崎](../Page/長崎県.md "wikilink")・[熊本の各県も含める形で](https://ja.wikipedia.org/wiki/熊本県 "wikilink")「九州北部地方」と表現。最低・最高気温を発表する都市名は[県庁所在地](https://ja.wikipedia.org/wiki/県庁所在地 "wikilink")である[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")の他に[下関市](../Page/下関市.md "wikilink")・[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")も加えられている。ただし、地元の[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")は下関に隣接していることから省かれている。
 
@@ -104,8 +104,8 @@ RKBラジオの公式タイムテーブルに基づく。
 
 **朝**
 
-  - 平日 6:18頃、6:39頃、7:41頃（『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』に内包）
-  - 土曜 6:24頃（『JNN NEWS』に内包）
+  - 平日 6:03頃、6:39頃、7:57頃（『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』に内包）
+  - 土曜 6:54頃（『JNN NEWS』に内包）
   - 日曜 6:54頃（『[JNN NEWS](../Page/JNNニュース.md "wikilink")』に内包）
 
 **昼**

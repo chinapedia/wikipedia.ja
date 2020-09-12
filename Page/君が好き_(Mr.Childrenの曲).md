@@ -26,6 +26,76 @@
         当初は発売日（1月1日）にちなんで[松任谷由実](../Page/松任谷由実.md "wikilink")の「[A HAPPY NEW YEAR](https://ja.wikipedia.org/wiki/昨晩お会いしましょう#収録曲 "wikilink")」のカバーを[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")にする予定でレコーディングもされたが、上手くいかなかったため新たにこの曲が制作された。
         [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発生した[アメリカ同時多発テロ](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ "wikilink")を意識しており、桜井によると、「A HAPPY NEW YEAR」をカバーしようとしたのは、歌詞中の「今年もいいことがありますように」が皮肉にも、わかりやすい祈りにも聴こえるからとのこと。
 
+## テレビ出演
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>日付</p></th>
+<th><p>放送局</p></th>
+<th><p>演奏曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージックステーション" title="wikilink">ミュージックステーション</a></p></td>
+<td><p>2001年12月28日</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/youthful_days" title="wikilink">youthful days</a><br />
+<strong>君が好き</strong>[1]</p></td>
+</tr>
+<tr class="even">
+<td><p>ミュージックステーション</p></td>
+<td><p>2002年1月18日</p></td>
+<td><p>テレビ朝日</p></td>
+<td><p><strong>君が好き</strong>[2]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></p></td>
+<td><p>2002年1月26日</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
+<td><p><strong>君が好き</strong>[3]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a></p></td>
+<td><p>2002年2月4日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
+<td><p><strong>君が好き</strong>[4]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/うたばん.md" title="wikilink">うたばん</a></p></td>
+<td><p>2002年2月14日</p></td>
+<td><p>TBS</p></td>
+<td><p><strong>君が好き</strong>[5]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FUN.md" title="wikilink">FUN</a></p></td>
+<td><p>2002年5月10日</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
+<td><p><strong>君が好き</strong><br />
+<a href="https://ja.wikipedia.org/wiki/IT&#39;S_A_WONDERFUL_WORLD#収録曲" title="wikilink">蘇生</a><br />
+<a href="https://ja.wikipedia.org/wiki/IT&#39;S_A_WONDERFUL_WORLD#収録曲" title="wikilink">ファスナー</a>[6]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミュージック・カクテル" title="wikilink">ミュージック・カクテル</a></p></td>
+<td><p>2002年5月16日</p></td>
+<td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a></p></td>
+<td><p><strong>君が好き</strong>[7]</p></td>
+</tr>
+</tbody>
+</table>
+
+## ライブ映像作品
+
+**君が好き**
+
+| 作品名                                                                                                                                                              | 備考              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                |                 |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") | 特典映像、弾き語りで演奏された |
+| [Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink")                |                 |
+
 ## 収録アルバム
 
   - 『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』 (\#1)
@@ -33,9 +103,19 @@
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』 (\#1)
   - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2)
 
+## 脚注
+
 ## 外部リンク
 
   -
 [it:Kimi Ga Suki](https://ja.wikipedia.org/wiki/it:Kimi_Ga_Suki "wikilink")
 
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.

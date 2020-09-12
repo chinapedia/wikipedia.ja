@@ -26,7 +26,7 @@
         『SUPER EUROBEAT VOL.163』収録。VOL.170のリクエストカウントダウン(Disc-2)で1位を獲得。
   - LOOKA BOMBA
       -
-        『SUPER EUROBEAT VOL.164』収録。のちにVOL.193でGO GO GIRLSがカヴァー。
+        『SUPER EUROBEAT VOL.164』収録。のちにVOL.193でGO GO GIRLSがカヴァー. 頭文字D Arcade Stage 5 秋名湖のBGM
   - MUSIC COME ON\!
       -
         『SUPER EUROBEAT VOL.167』収録。
@@ -56,7 +56,7 @@
         『SUPER EUROBEAT VOL.193 -REVIVAL HITS- 』収録。GO GO GIRLSのカヴァー。
   - DON'T TURN IT OFF
       -
-        『SUPER EUROBEAT VOL.197 -KING OF EUROBEAT- 』にノンストップ収録。VOL.202ではロックテイストのHEADRUSH VERSIONも収録された。
+        『SUPER EUROBEAT VOL.197 -KING OF EUROBEAT- 』にノンストップ収録。VOL.202ではロックテイストのHEADRUSH VERSIONも収録された。頭文字D Arcade Stage 6 AA 秋名湖のBGM
   - SUPERSTAR
       -
         [DJ BOSSとのコラボレーション](../Page/横田商会_\(DJユニット\).md "wikilink")。『SUPER EUROBEAT VOL.199 -COLLABORATION OF EUROBEAT- 』にノンストップ収録。

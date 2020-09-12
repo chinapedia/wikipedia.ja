@@ -5,11 +5,17 @@
 
 ## 解説
 
-  - バンド初のコンプリートベストアルバムで、同年[11月18日](../Page/11月18日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")でライブが行われる為、復習の為に完成されたアルバム。
-  - ファンの人気投票（投票人数は約6000人）によって選ばれた全30曲（順位・投票数は後述）を2枚組に分けて収録されている（ただし、30位以内に入っていない曲も収録されている）。
-  - 2枚のCDの他、DVDも付いてくる。
-  - 「HEART OF ROCK」は、ライブのタイトルにかけており、「心からロックを愛し続ける」という意味がある。
-  - 初回版には、LIVE先行予約チラシが封入されている。
+バンド初のコンプリートベストアルバムで、同年[11月18日](../Page/11月18日.md "wikilink")に[日本武道館](../Page/日本武道館.md "wikilink")でライブが行われる為、復習の為に制作されたアルバム。
+
+ファンの人気投票（投票人数は約6000人）によって選ばれた全30曲（順位・投票数は[後述](https://ja.wikipedia.org/wiki/SIAM_SHADE_XI_COMPLETE_BEST_〜HEART_OF_ROCK〜#ランキング "wikilink")）を2枚組に分けて収録されている（ただし、30位以内に入っていない曲も収録されている）。
+
+2枚のCDの他、DVDも付いてくる。
+
+サブタイトルにある「HEART OF ROCK」は、ライブのタイトルにかけており、「心からロックを愛し続ける」という意味がある。
+
+初回盤には、LIVE先行予約チラシが封入されている。
+
+累計売上枚数は、約1.3万枚\[1\]。
 
 ## 収録曲
 
@@ -156,6 +162,9 @@
 | 28位 | **PRIDE**                     | 390                        | 2ndアルバム『**SIAM SHADE III**』                                                                |
 | 29位 | 誰かの気持ちを考えたことがありますか?           | 383                        | 3rdアルバム『**SIAM SHADE IV・Zero**』                                                            |
 | 30位 | if 〜ひとりごと〜                    | 381                        | 3rdアルバム『**SIAM SHADE IV・Zero**』                                                            |
-|     |                               |                            |                                                                                            |
+
+## 脚注
 
 [Category:SIAM_SHADEのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:SIAM_SHADEのベスト・アルバム "wikilink") [Category:2007年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のベスト・アルバム "wikilink") [Category:エスエムイーレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+
+1.

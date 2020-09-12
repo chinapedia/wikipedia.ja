@@ -1,7 +1,7 @@
 > この記事は[A JACK IN THE BOX](https://ja.wikipedia.org/wiki/A_JACK_IN_THE_BOX)から翻訳されています。
 
 
-『**A JACK IN THE BOX**』（ア・ジャック・イン・ザ・ボックス）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[3rd](https://ja.wikipedia.org/wiki/サード "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**A JACK IN THE BOX**』（ア・ジャック・イン・ザ・ボックス）は、[V6の](../Page/V6_\(グループ\).md "wikilink")3rd[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

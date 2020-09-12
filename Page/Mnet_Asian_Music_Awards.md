@@ -136,7 +136,7 @@
 
 ### 2008年
 
-  - **今年の歌手賞＝[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")**
+  - **今年の歌手賞＝[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")**
   - **今年の歌賞＝[Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")** 『Nobody』
   - **今年のアルバム賞＝[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")** 『The 4th Album 'MIROTIC'』
   - 最優秀男性歌手賞＝[ソ・テジ](../Page/ソ・テジ.md "wikilink")「Moai」
@@ -164,14 +164,14 @@
   - オークション ネチズン人気賞＝東方神起
   - オークション スタイル賞＝東方神起
   - モバイル人気賞＝東方神起
-  - ミュージックポータルエムネット賞＝[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")
-  - デジタル音源賞＝BIG BANG
+  - ミュージックポータルエムネット賞＝[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")
+  - デジタル音源賞＝BIGBANG
 
 ### 2009年
 
   - **今年の歌手賞＝[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")**
   - **今年の歌賞＝[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink") 『I Don't Care』**
-  - **今年のアルバム賞＝G-DRAGON（BIG BANG）『HEARTBREAKER』**
+  - **今年のアルバム賞＝G-DRAGON（BIGBANG）『HEARTBREAKER』**
   - 最優秀男性歌手賞＝[Drunken Tiger](https://ja.wikipedia.org/wiki/Drunken_Tiger "wikilink")
   - 最優秀女性歌手賞＝ペク・チヨン
   - 最優秀男性グループ賞＝2PM
@@ -235,8 +235,8 @@
   - Best Choreography of the Year＝キム･ファヨン（김화영）
   - 最優秀スタイル賞＝ヤン･スンホ（양승호）
   - 最優秀コンサート賞＝2010 チサン･バリー･ロックフェスティバル（지산밸리록페스티발 2010）
-  - Best Adult Contemporary Song＝テ･ジナ([태진아](https://ja.wikipedia.org/wiki/:ko:태진아 "wikilink")）
-  - Discovery of the Year＝10cm([십센치](https://ja.wikipedia.org/wiki/:ko:십센치 "wikilink")）
+  - Best Adult Contemporary Song＝テ･ジナ（[태진아](https://ja.wikipedia.org/wiki/:ko:태진아 "wikilink")）
+  - Discovery of the Year＝10cm（[십센치](https://ja.wikipedia.org/wiki/:ko:십센치 "wikilink")）
 
 ### 2011年
 
@@ -267,7 +267,7 @@
 
 ### 2012年
 
-  - **今年の歌手賞=[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")**
+  - **今年の歌手賞=[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")**
   - **今年の歌賞=[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")『[江南スタイル](https://ja.wikipedia.org/wiki/江南スタイル "wikilink")』**
   - **今年のアルバム賞=[スーパージュニア](../Page/スーパージュニア.md "wikilink")『Sexy, Free & Single』**
   - 最優秀男性歌手賞＝G-DRAGON
@@ -309,7 +309,7 @@
 
 出典：\[17\]
 
-  - **BC-UnionPay今年の歌手賞=G-DRAGON（[BIG BANG](https://ja.wikipedia.org/wiki/BIG_BANG "wikilink")）**
+  - **BC-UnionPay今年の歌手賞=G-DRAGON（[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")）**
   - **BC-UnionPay今年の歌賞=[チョー・ヨンピル](../Page/チョー・ヨンピル.md "wikilink")『Bounce』**
   - **BC-UnionPay今年のアルバム賞=[EXO](https://ja.wikipedia.org/wiki/EXO "wikilink")『[XOXO](https://ja.wikipedia.org/wiki/XOXO "wikilink")』**
   - 最優秀男性歌手賞＝G-DRAGON
@@ -333,7 +333,7 @@
   - 最優秀アジアアーティスト賞・ベトナム部門＝Thu Minh
   - 最優秀アジアアーティスト賞・タイ部門＝ToR+ Saksit
   - 最優秀アジアアーティスト賞・インドネシア部門＝SM\*SH
-  - 最優秀OST賞＝TASHA（ユン・ミレ)「Touch Love（太陽的主人 OST）」
+  - 最優秀OST賞＝TASHA（ユン・ミレ）「Touch Love（太陽的主人 OST）」
   - 最優秀発見賞＝[ペチギ](https://ja.wikipedia.org/wiki/ペチギ "wikilink")
   - スタイル･イン･ミュージック賞＝[SISTAR](https://ja.wikipedia.org/wiki/SISTAR "wikilink")
   - Sony MDRワールドワイド・パフォーマー賞＝INFINITE 『1stワールドツアー「ONE GREAT STEP」』
@@ -419,7 +419,7 @@
   - 最優秀公演賞・タイ部門＝Vit Suthithavil
   - 国際ファンチョイス賞男性部門＝[EXO](https://ja.wikipedia.org/wiki/EXO "wikilink")
   - 国際ファンチョイス賞女性部門＝f(x)
-  - 次世代アジアンアーティスト賞＝[Monsta X](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")
+  - 次世代アジアンアーティスト賞＝[MONSTA X](https://ja.wikipedia.org/wiki/MONSTA_X "wikilink")
   - 最優秀アジアスタイル賞＝[EXO](https://ja.wikipedia.org/wiki/EXO "wikilink")
   - 国際直感賞＝Pet Shop Boys
 
@@ -449,7 +449,7 @@
   - 最優秀ミュージックビデオ賞＝BLACKPINK「WHISTLE」
   - 最優秀OST賞＝イ・ジョク「Don't Worry (応答せよ1988)」
   - iQIY国際的有名アーティスト賞＝GOT7
-  - 次世代アジアアーティスト賞男性部門＝Monsta X
+  - 次世代アジアアーティスト賞男性部門＝MONSTA X
   - 次世代アジアアーティスト賞女性部門＝BLACKPINK
   - 最優秀アジアスタイル賞＝[EXO](https://ja.wikipedia.org/wiki/EXO "wikilink")
   - 最優秀アジアアーティスト賞・日本部門＝Sekai No Owari
@@ -539,8 +539,8 @@
   - FAVORITE VOCAL ARTIST：[MAMAMOO](https://ja.wikipedia.org/wiki/MAMAMOO "wikilink")
   - FAVORITE DANCE ARTIST MALE：防弾少年団
   - FAVORITE DANCE ARTIST FEMALE：TWICE
-  - KISS ME STYLE IN MUSIC：[Monsta X](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")
-  - WORLDWIDE FANS' CHOICE TOP10：防弾少年団、Wanna One、TWICE、[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")、[NU'EST W](https://ja.wikipedia.org/wiki/NU'EST "wikilink")、[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")、SEVENTEEN、Monsta X、[NCT 127](https://ja.wikipedia.org/wiki/NCT_127 "wikilink")、Mamamoo
+  - KISS ME STYLE IN MUSIC：[MONSTA X](https://ja.wikipedia.org/wiki/MONSTA_X "wikilink")
+  - WORLDWIDE FANS' CHOICE TOP10：防弾少年団、Wanna One、TWICE、[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")、[NU'EST W](https://ja.wikipedia.org/wiki/NU'EST "wikilink")、[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")、SEVENTEEN、MONSTA X、[NCT 127](https://ja.wikipedia.org/wiki/NCT_127 "wikilink")、Mamamoo
   - ベスト・ニュー・アジアン・アーティスト：The TOYS（タイ）、Orange（ベトナム）
   - ベスト・プロデューサー賞：Pdogg
   - ベスト振付師賞：ソン・ソンドゥク（防弾少年団「IDOL」）
@@ -561,16 +561,47 @@
   - ベスト・アジアン・スタイル：防弾少年団
   - ベスト・アジアン・アーティスト・マンダリン：JJ LIN
 
+### 2019年
+
+出典：\[23\]
+
+  - **今年の歌手賞＝防弾少年団**
+  - **今年の歌賞＝防弾少年団**「Boy With Luv (Feat. Halsey)」
+  - **今年のアルバム＝防弾少年団**「MAP OF THE SOUL : PERSONA」
+  - **Worldwide Icon of the Year＝防弾少年団**
+  - 男性新人賞＝TOMORROW X TOGETHER
+  - 女性新人賞＝ITZY
+  - 男性グループ賞＝防弾少年団
+  - 女性グループ賞＝TWICE
+  - 男性歌手賞＝ベクヒョン（EXO）
+  - 女性歌手賞＝チョンハ
+  - ソロベストダンスパフォーマンス＝チョンハ「Gotta Go」
+  - 男性グループベストダンスパフォーマンス＝防弾少年団「Boy With Luv (Feat. Halsey)」
+  - 女性グループベストダンスパフォーマンス＝TWICE「FANCY」
+  - ソロベストボーカルパフォーマンス＝テヨン
+  - グループベストボーカルパフォーマンス＝BOL4
+  - ベストバンドパフォーマンス＝JANNABI
+  - ベスト・ヒップホップ・アンド・アーバン・ミュージック＝Heize
+  - ベストコラボレーション＝イ・ソラ＆SUGA
+  - ベストOST賞＝GUMMY
+  - ベストミュージックビデオ＝防弾少年団
+  - Worldwide Fans' Choice＝[ATEEZ](../Page/ATEEZ.md "wikilink")、BLACKPINK、EXO、GOT7、TOMORROW X TOGETHER、TWICE、MONSTA X、防弾少年団、SEVENTEEN、X1
+  - World performer＝MONSTA X
+  - Favorite Vocal Performance＝MAMAMOO
+  - Favorite Dance Performance＝GOT7
+  - Qoo10 Favorite Male Artist＝防弾少年団
+  - Qoo10 Favorite Female Artist＝TWICE
+
 ## 日本のアーティスト出演者一覧
 
-  - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink") - 2004年・2007年\[23\]
-  - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - 2006年\[24\]
-  - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink") - 2009年・2017年\[25\]\[26\]
-  - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink") - 2010年\[27\]
-  - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") - 2010年\[28\]
-  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - 2011年\[29\]
-  - [けやき坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")（現・[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")） - 2018年\[30\]
-  - [超特急](https://ja.wikipedia.org/wiki/超特急_\(音楽グループ\) "wikilink") - 2018年\[31\]
+  - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink") - 2004年・2007年\[24\]
+  - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - 2006年\[25\]
+  - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink") - 2009年・2017年\[26\]\[27\]
+  - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink") - 2010年\[28\]
+  - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") - 2010年\[29\]
+  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - 2011年\[30\]
+  - [けやき坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")（現・[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")） - 2018年\[31\]
+  - [超特急](https://ja.wikipedia.org/wiki/超特急_\(音楽グループ\) "wikilink") - 2018年\[32\]
 
 ## 脚注
 
@@ -615,7 +646,7 @@
 20.
 21. [2017 MAMA 受賞者一覧](http://jp.mnet.com/news/newsdetail.m?searchNewsVO.news_id=20171205175549&category=special)
 22.
-23.
+23. <https://www.mwave.me/jp/mama/history/winners/list?years=2019>
 24.
 25.
 26.
@@ -624,3 +655,4 @@
 29.
 30.
 31.
+32.

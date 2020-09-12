@@ -108,4 +108,4 @@
   - [船瀬唯のゆいずむ。](https://ameblo.jp/funase-yui/)
   - [船瀬唯×seestarscrew](https://twitter.com/funaseyui)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:MASTERSIX_FOUNDATIONのアーティスト](https://ja.wikipedia.org/wiki/Category:MASTERSIX_FOUNDATIONのアーティスト "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:MASTERSIX_FOUNDATIONのアーティスト](https://ja.wikipedia.org/wiki/Category:MASTERSIX_FOUNDATIONのアーティスト "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[トヨタ・K型エンジン](https://ja.wikipedia.org/wiki/トヨタ・K型エンジン)から翻訳されています。
 
 
-**トヨタ・K型エンジン**（トヨタ・Kがたエンジン）は、[1966年](../Page/1966年.md "wikilink")（昭和41年）から[2013年](../Page/2013年.md "wikilink")（平成25年）まで製造されていた[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。
+**トヨタ・K型エンジン**（トヨタ・Kがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、および[豊田自動織機](../Page/豊田自動織機.md "wikilink")が[1966年](../Page/1966年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")41年）から[2013年](../Page/2013年.md "wikilink")（[平成](../Page/平成.md "wikilink")25年）まで製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。
 
-長期に渡って生産が続けられていたがその後、自動車用は最終的に平成20年排出ガス規制に適応することができず、[2007年](../Page/2007年.md "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")を以って生産終了となったが、一方の[豊田自動織機](../Page/豊田自動織機.md "wikilink")製の[フォークリフト](../Page/フォークリフト.md "wikilink")「プチランナーG」用の5K型に限り、作業車用・産業用として2013年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで継続生産されていた。
+長期に渡って生産が続けられていたがその後、自動車用は最終的に平成20年排出ガス規制に適応することができず、[2007年](../Page/2007年.md "wikilink")（平成19年）[6月](../Page/6月.md "wikilink")を以って生産終了となったが、一方の豊田自動織機製の[フォークリフト](../Page/フォークリフト.md "wikilink")「プチランナーG」用の5K型に限り、作業車用・産業用として2013年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで継続生産されていた。
 
 ## 概要
 
@@ -97,7 +97,9 @@
       - 初代[パブリカスターレット](../Page/トヨタ・スターレット.md "wikilink")（KP42 / KP47）\[2\]
       - 初代ライトエース（KM10）
       - 初代タウンエースバン（KR10）
-      - 初代[ダイハツ・シャルマン](../Page/ダイハツ・シャルマン.md "wikilink")／シャルマンバン（前期型・最初期モデル）
+      - [ダイハツ・コンソルテ](../Page/ダイハツ・コンソルテ.md "wikilink")（EP31 / EP47）
+      - [ダイハツ・デルタ](../Page/ダイハツ・デルタ.md "wikilink")750（EM10）
+      - 初代[ダイハツ・シャルマン](../Page/ダイハツ・シャルマン.md "wikilink")／シャルマンバン（A10S / A10V）
 
 ### 3K-D
 

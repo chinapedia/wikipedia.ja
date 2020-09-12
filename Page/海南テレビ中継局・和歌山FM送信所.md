@@ -1,7 +1,7 @@
 > この記事は[海南テレビ中継局・和歌山FM送信所](https://ja.wikipedia.org/wiki/海南テレビ中継局・和歌山FM送信所)から翻訳されています。
 
 
-'''海南テレビ中継局・和歌山FM送信所 '''（かいなんてれびちゅうけいきょく・わかやまえふえむそうしんじょ）は、[和歌山県](../Page/和歌山県.md "wikilink")[海南市](../Page/海南市.md "wikilink")の[岩屋山](https://ja.wikipedia.org/wiki/岩屋山 "wikilink")\[1\]\[2\]\[3\]に所在するテレビ放送の[中継局](../Page/中継局.md "wikilink")と[FM放送の](../Page/超短波.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。
+'''海南テレビ中継局・和歌山FM送信所 '''（かいなんてれびちゅうけいきょく・わかやまえふえむそうしんじょ）は、[和歌山県](../Page/和歌山県.md "wikilink")[海南市](../Page/海南市.md "wikilink")の岩屋山\[1\]\[2\]\[3\]に所在するテレビ放送の[中継局](../Page/中継局.md "wikilink")と[FM放送の](../Page/超短波.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 ## 所在地
 
   -
-    和歌山県海南市（[岩屋山](https://ja.wikipedia.org/wiki/岩屋山 "wikilink")）
+    和歌山県海南市（岩屋山）
 
 ## 地上デジタルテレビジョン放送送信設備
 

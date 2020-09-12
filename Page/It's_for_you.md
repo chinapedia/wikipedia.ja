@@ -41,4 +41,4 @@
 
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:三枝夕夏_IN_dbの楽曲](https://ja.wikipedia.org/wiki/Category:三枝夕夏_IN_dbの楽曲 "wikilink") [Category:三枝夕夏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:三枝夕夏が制作した楽曲 "wikilink") [Category:川島だりあが制作した楽曲](https://ja.wikipedia.org/wiki/Category:川島だりあが制作した楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:天使な小生意気](https://ja.wikipedia.org/wiki/Category:天使な小生意気 "wikilink")
 
-1.  [Music Freak Magazineによる記事 (WebArchive)](http://web.archive.org/web/20031224013040/http://www.mfmagazine.com/Neo_top_page2/other_contents/backnumber/previous_year/2003/03_02/0302_tokushu2.html)
+1.  [Music Freak Magazineによる記事 (WebArchive)](https://web.archive.org/web/20031224013040/http://www.mfmagazine.com/Neo_top_page2/other_contents/backnumber/previous_year/2003/03_02/0302_tokushu2.html)

@@ -7,9 +7,9 @@
 
 ポーランド戦には親衛隊特務部隊は一つとしてまとまった形ではなく、いくつかの陸軍部隊に分散されて最初の戦火を経験した。ポーランド戦が終了した[1939年](../Page/1939年.md "wikilink")10月10日、ようやく[親衛隊特務部隊](../Page/親衛隊特務部隊.md "wikilink")は一つにまとめられ、SS-VT 師団（SS特務師団）が設立された。その構成はSS連隊ドイッチュラント(*SS-Standarte Deutschland*)、SS連隊ゲルマニア(*SS-Standarte Germania*)、SS連隊デア・フューラー(*SS-Standarte Der Führer*)、通信大隊、偵察大隊である。
 
-[フランス戦にSS](https://ja.wikipedia.org/wiki/ナチスドイツのフランス侵攻 "wikilink")-VT 師団として[ロッテルダム](../Page/ロッテルダム.md "wikilink")攻撃に加わり、ロッテルダム攻略後、師団は他の師団とともに、連合軍をオランダ・[ゼーラント周辺に押し込む任務を受けた](../Page/ゼーラント州.md "wikilink")。次に、陸軍部隊が制圧した地域で一部残る抵抗拠点を潰す任務を受けた。師団は、フランスに移され、強固に防御された運河を突破する支援を行い、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")への進軍に参加した。戦いの終わりには、部隊は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")との国境近くまで前進していた。
+[フランス戦にSS](../Page/ナチス・ドイツのフランス侵攻.md "wikilink")-VT 師団として[ロッテルダム](../Page/ロッテルダム.md "wikilink")攻撃に加わり、ロッテルダム攻略後、師団は他の師団とともに、連合軍をオランダ・[ゼーラント周辺に押し込む任務を受けた](../Page/ゼーラント州.md "wikilink")。次に、陸軍部隊が制圧した地域で一部残る抵抗拠点を潰す任務を受けた。師団は、フランスに移され、強固に防御された運河を突破する支援を行い、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")への進軍に参加した。戦いの終わりには、部隊は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")との国境近くまで前進していた。
 
-フランス戦後に、部隊は名称をSS-VT 師団から、**SS師団ライヒ**(*SS-Division "Reich"*)と変更した。フランス降伏後、師団は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")英本土侵攻のためにフランスに留まったが、[英本土侵攻作戦の延期により](../Page/アシカ作戦.md "wikilink")、1941年、師団は[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")・[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")侵攻のための[マリータ作戦準備に](../Page/バルカン半島の戦い.md "wikilink")[ルーマニア](../Page/ルーマニア.md "wikilink")へ移動した。
+フランス戦後に、部隊は名称をSS-VT 師団から、**SS師団ライヒ**(*SS-Division "Reich"*)と変更した。フランス降伏後、師団は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")英本土侵攻のためにフランスに留まったが、[英本土侵攻作戦の延期により](../Page/アシカ作戦.md "wikilink")、1941年、師団は[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")・[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")侵攻のための[マリータ作戦準備に](https://ja.wikipedia.org/wiki/バルカン戦線_\(第二次世界大戦\) "wikilink")[ルーマニア](../Page/ルーマニア.md "wikilink")へ移動した。
 
 ## ユーゴスラビア占領
 

@@ -1,13 +1,14 @@
 > この記事は[MORAL+3](https://ja.wikipedia.org/wiki/MORAL+3)から翻訳されています。
 
 
-『**MORAL+3**』（モラル・プラス・スリー）は、日本のロックバンド、[BOØWYのアルバム](../Page/BOOWY.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")にビクターインビテーションよりリリースされた。
+『**MORAL+3**』（モラル・プラス・スリー）は、日本のロックバンド、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のアルバム。[1988年](../Page/1988年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")にビクターインビテーションよりリリースされた。
 
 ## 解説
 
   - 1982年にリリースされたファーストアルバム『[MORAL](../Page/MORAL.md "wikilink")』の復刻版。
   - ジャケットがリニューアルされた他、当時の未発表曲が3曲追加されている。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブで解散宣言をし、[1988年](../Page/1988年.md "wikilink")に[東京ドーム](../Page/東京ドーム.md "wikilink")での最後のライブが予定されていたBOØWYだが、人気は益々高まっていき、それとともに過去の作品群も急激に売上を伸ばしつつあった。そんな状況下で既にCD、LP共に再発されていたアルバム『MORAL』に、当時の所属事務所の所有する音源を加え『MORAL+3』としてリリース、解散発表後の話題の中かなりのヒット商品となった。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブで解散宣言をし、[1988年](../Page/1988年.md "wikilink")に[東京ドーム](../Page/東京ドーム.md "wikilink")での最後のライブが予定されていたBOØWYだが、人気は益々高まっていき、それとともに過去の作品群も急激に売上を伸ばしつつあった。そんな状況下で既にCD、LP共に再発されていたアルバム『MORAL』に、当時の所属してた[ビーイング](../Page/ビーイング.md "wikilink")が所有する音源を加え『MORAL+3』としてリリース、解散発表後の話題の中かなりのヒット商品となった。
+  - 本作はビーイングが制作した作品の中で、初めてオリコン1位を獲得した作品である。
 
 ## リリース履歴
 
@@ -79,10 +80,10 @@ VCF-10347 (CT)</p></td>
 3.  SCHOOL OUT (2:30)
 4.  ÉLITE (2:18)
 5.  GIVE IT TO ME (2:43)
-6.  [NO N.Y.](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink") (3:30)
-7.  **[OUT\!\!](../Page/DAKARA_\(BOOWYの曲\).md "wikilink")** (2:06)
+6.  [NO N.Y.](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink") (3:30)
+7.  **[OUT\!\!](https://ja.wikipedia.org/wiki/DAKARA_\(BOØWYの曲\) "wikilink")** (2:06)
       - 作詞・作曲：[氷室狂介](https://ja.wikipedia.org/wiki/氷室狂介 "wikilink") / 編曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
-8.  **[LET'S THINK](../Page/DAKARA_\(BOOWYの曲\).md "wikilink")** (4:50)
+8.  **[LET'S THINK](https://ja.wikipedia.org/wiki/DAKARA_\(BOØWYの曲\) "wikilink")** (4:50)
       - 作詞：氷室狂介 / 作曲・編曲：布袋寅泰
 
 ### B面
@@ -105,7 +106,7 @@ VCF-10347 (CT)</p></td>
 
 7.  ENDLESS (1:26)
 
-8.  **[DAKARA](../Page/DAKARA_\(BOOWYの曲\).md "wikilink")** (3:51)
+8.  **[DAKARA](https://ja.wikipedia.org/wiki/DAKARA_\(BOØWYの曲\) "wikilink")** (3:51)
 
       - 作詞・作曲：氷室狂介 / 編曲：布袋寅泰
 

@@ -1,7 +1,7 @@
 > この記事は[MASSIVE WONDERS](https://ja.wikipedia.org/wiki/MASSIVE_WONDERS)から翻訳されています。
 
 
-「**MASSIVE WONDERS**」（マッシヴ・ワンダーズ）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
+「**MASSIVE WONDERS**」（マッシヴ・ワンダーズ）は、[水樹奈々](../Page/水樹奈々.md "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。2007年8月22日に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。
 
 ## 解説
 
@@ -71,6 +71,6 @@
 
   - [キングレコードによる紹介ページ](http://www.kingrecords.co.jp/cs/g/gKICM-1211/)
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:矢吹俊郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:矢吹俊郎が制作した楽曲 "wikilink") [Category:魔法少女リリカルなのはの音楽](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはの音楽 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:水樹奈々が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々が制作した楽曲 "wikilink") [Category:矢吹俊郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:矢吹俊郎が制作した楽曲 "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:魔法少女リリカルなのはの音楽](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはの音楽 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
 1.  メンバー内に声優がいるユニットでは[TWO-MIX](../Page/TWO-MIX.md "wikilink")が[TRUE NAVIGATIONで獲得している](../Page/TRUE_NAVIGATION.md "wikilink")。

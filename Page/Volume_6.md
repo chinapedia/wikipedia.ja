@@ -7,6 +7,8 @@
 
 初回限定盤は六角形型のアクセサリー付、[ボーナストラックとして](../Page/ボーナス・トラック.md "wikilink")『**N.S Latin Disco Edit**』を収録。
 
+アルバムのタイトルを決める際「Volume 6」と「TO THE FUTURE」が最終選考となりTV番組「プレゼンタイガー」で決定させた。
+
 次のアルバム『[seVen](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")』、8枚目のアルバム『[∞ INFINITY 〜LOVE & LIFE〜](../Page/∞_INFINITY_〜LOVE_&_LIFE〜.md "wikilink")』は[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")規格で発売された。
 
 ## 収録曲

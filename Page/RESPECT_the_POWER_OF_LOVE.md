@@ -31,7 +31,7 @@ track2 Remix & Re-production: Roland Clark
 
   - オリジナル『**[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")**』
       - 表記されていないが、アルバム・ヴァージョンで収録（フェード・インせず、最後まで流れる終わり方となる）。
-  - ベスト『**[LOVE ENHANCED {{Color](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_single_collection "wikilink")**』(new mix)
+  - ベスト『**[LOVE ENHANCED ♥ single collection](https://ja.wikipedia.org/wiki/LOVE_ENHANCED_♥_single_collection "wikilink")**』(new mix)
       - [アレンジを変更して収録](../Page/編曲.md "wikilink")
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』（レンタル限定・豪華盤）
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）

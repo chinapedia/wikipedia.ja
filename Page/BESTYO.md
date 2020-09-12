@@ -12,35 +12,31 @@
 
 ## 収録曲
 
-  - 作詞は全て一青窈のため省略する。
+全作詞：一青窈
 
-<!-- end list -->
-
-1.  **ハナミズキ**
+1.  **[ハナミズキ](../Page/ハナミズキ_\(曲\).md "wikilink")**
       - 作曲：[マシコタツロウ](../Page/マシコタツロウ.md "wikilink")／編曲：[武部聡志](../Page/武部聡志.md "wikilink")
       - 5枚目のシングル『ハナミズキ』および12枚目のシングル『はじめて』および2枚目のアルバム『[一青想](../Page/一青想.md "wikilink")（ひとおもい）』収録。
-      - 詳細は[ハナミズキ (曲)参照](../Page/ハナミズキ_\(曲\).md "wikilink")。
 2.  **翡翠（ひすい）**
       - 作曲・編曲：武部聡志
       - デビューシングル『もらい泣き』収録。
       - 曲名は一青窈の父親が母親に贈った[翡翠の](../Page/ヒスイ.md "wikilink")[ピアス](../Page/ピアス.md "wikilink")から。
       - オリジナルアルバム未収録ながらライブでは必ず歌われる曲。
-3.  **もらい泣き**
+3.  **[もらい泣き](../Page/もらい泣き.md "wikilink")**
       - 作曲：武部聡志、マシコタツロウ、[溝渕大智](https://ja.wikipedia.org/wiki/溝渕大智 "wikilink")／編曲：武部聡志
       - デビューシングル『もらい泣き』および1枚目のアルバム『月天心（つきてんしん）』収録。
-      - 詳細は[もらい泣き](../Page/もらい泣き.md "wikilink")参照。
 4.  **一思案（ひとしあん）**
       - 作曲：[井上陽水](../Page/井上陽水.md "wikilink")／編曲：[星勝](../Page/星勝.md "wikilink")
-      - 2枚目のアルバム『一青想』収録。
+      - 2枚目のアルバム『[一青想](../Page/一青想.md "wikilink")』収録。
       - [松竹](../Page/松竹.md "wikilink")配給[映画](../Page/映画.md "wikilink")『[珈琲時光](../Page/珈琲時光.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")（本人初主演）。
-5.  **月天心**
+5.  **[月天心](https://ja.wikipedia.org/wiki/月天心 "wikilink")**
       - 作曲・編曲：武部聡志
       - 1枚目のアルバム『月天心』収録。
       - 収録アルバム『月天心』発売の2年前に[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の武部聡志と初めて作った曲。
       - 詞は姉の[一青妙](https://ja.wikipedia.org/wiki/一青妙 "wikilink")が結婚式の夜に一青窈に送ったメールから着想された。
-6.  **影踏み**
+6.  **[影踏み](https://ja.wikipedia.org/wiki/影踏み_\(一青窈の曲\) "wikilink")**
       - 作曲：[都志見隆](../Page/都志見隆.md "wikilink")／編曲：[山内薫](https://ja.wikipedia.org/wiki/山内薫 "wikilink")、[弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")
-      - 6枚目のシングル『影踏み』および3rdアルバム『&』収録。
+      - 6枚目のシングル『影踏み』および3rdアルバム『[&](https://ja.wikipedia.org/wiki/&_\(一青窈のアルバム\) "wikilink")』収録。
       - 「[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")」[2005年](../Page/2005年.md "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink")。
       - 友人の結婚式の時に読まれた友人の父親の手紙から着想された曲。
 7.  **うれしいこと。**
@@ -48,17 +44,17 @@
       - 6枚目のシングル『影踏み』および3rdアルバム『&』収録。
       - [ボシュロム・ジャパン](../Page/ボシュロム・ジャパン.md "wikilink")「レニュー マルチプラス」CMソング。
       - 芸術家・[岡本太郎](../Page/岡本太郎.md "wikilink")の作品「坐る事を拒否する椅子」に触発され作った曲で歌詞中にも「座るのをこばんだイス」として登場する。ちなみに一青窈は「[明日の神話](../Page/明日の神話.md "wikilink")再生プロジェクト」を支援する「[太郎の船団 TARO'S BOATS](http://www.1101.com/asunoshinwa/)」に参加していた。
-8.  **江戸ポルカ**
+8.  **[江戸ポルカ](https://ja.wikipedia.org/wiki/江戸ポルカ/夢なかば "wikilink")**
       - 作曲・編曲：武部聡志
       - 4枚目のシングル『江戸ポルカ／夢なかば』および2枚目のアルバム『一青想』収録。
       - [東京国際ファンタスティック映画祭](../Page/東京国際ファンタスティック映画祭.md "wikilink")2003公式イメージソング。
       - コンセプトは「[歌舞伎](../Page/歌舞伎.md "wikilink")」と「[ネコ](../Page/ネコ.md "wikilink")」。[平成中村座](../Page/平成中村座.md "wikilink")に触発され作った曲。
       - 歌詞中にある「てとしゃん」という言葉は歌舞伎に使われる[擬音語](../Page/擬声語.md "wikilink")。
       - ライブではサビ歌唱時「[招き猫](../Page/招き猫.md "wikilink")ダンス」を披露する。「BESTYO Free CONCERTYO」では観客へのダンス指導も行った。
-9.  **大家（ダージャー）**
+9.  **[大家（ダージャー）](https://ja.wikipedia.org/wiki/大家_\(曲\) "wikilink")**
       - 作曲：マシコタツロウ／編曲：武部聡志
       - 2枚目のシングル『大家』および2ndアルバム『一青想』収録。
-      - 映画『風を聴く〜台湾・[九份物語](../Page/九フン.md "wikilink")〜』挿入歌。
+      - 映画『風を聴く〜台湾・[九份](https://ja.wikipedia.org/wiki/九份 "wikilink")物語〜』挿入歌。
       - 亡くなった父親への想いを歌った曲。歌詞中に登場するよみうりランドは父親との思い出の場所であり、「BESTYO Free CONCERTYO」の[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")となった。
       - ちなみにシングル盤では「よみうりランド」が「あの遊園地」に変更されていた（発売はシングル『大家』の方が先だが歌詞自体は『一青想』収録版が本来のもの）。
       - プロモーションビデオの撮影は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[基隆市](../Page/基隆市.md "wikilink")の情人湖と[桃園県](https://ja.wikipedia.org/wiki/桃園県 "wikilink")[大渓鎮](https://ja.wikipedia.org/wiki/大渓鎮 "wikilink")の[大渓老街で行われた](https://ja.wikipedia.org/wiki/:zh:大溪老街 "wikilink")。
@@ -70,7 +66,7 @@
       - [ミサワホーム](../Page/ミサワホーム.md "wikilink")「CENTURY」CMソング。
       - 2006年のライブツアー「Yo\&U Tour '06」では観客全員に歌詞中に登場する[クチナシ](../Page/クチナシ.md "wikilink")の苗木を贈った。
       - 本作のプロモーションで「めざましテレビ」に生出演した際には、この曲を披露した。
-11. **指切り**
+11. **[指切り](https://ja.wikipedia.org/wiki/指切り_\(一青窈の曲\) "wikilink")**
       - 作曲・編曲：[小林武史](../Page/小林武史.md "wikilink")
       - 8枚目のシングル『指切り』および3枚目のアルバム『&』収録。
       - [PVで披露した](../Page/ミュージック・ビデオ.md "wikilink")[コンテンポラリー・ダンス](../Page/コンテンポラリー・ダンス.md "wikilink")が話題になった。PVは「[SPACE SHOWER Music Video Awards 06](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」・「FEMALE VIDEO WINNER」受賞。
@@ -80,7 +76,7 @@
       - 作曲：山内薫／編曲：[富田素弘](https://ja.wikipedia.org/wiki/富田素弘 "wikilink")
       - デビューシングル『もらい泣き』および1枚目のアルバム『月天心』収録。
       - 両親への感謝の気持ちが歌われた楽曲。
-13. **かざぐるま**
+13. **[かざぐるま](https://ja.wikipedia.org/wiki/かざぐるま_\(一青窈の曲\) "wikilink")**
       - 作曲・編曲：武部聡志
       - 7枚目のシングル『かざぐるま』および3rdアルバム『&』収録。
       - [東宝](../Page/東宝.md "wikilink")系映画『[蝉しぐれ](https://ja.wikipedia.org/wiki/蝉しぐれ#映画 "wikilink")』イメージソング。
@@ -88,7 +84,7 @@
       - 2005年[日本有線大賞](../Page/日本有線大賞.md "wikilink")・優秀賞受賞。
       - [野口五郎](../Page/野口五郎.md "wikilink")プロデュースのカバーアルバム『PARADOX〜NEWCOVER〜』に[市原利夏](../Page/市原利夏.md "wikilink")が[美空ひばり](../Page/美空ひばり.md "wikilink")風に歌った「かざぐるま」が収録してある。
       - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の歌手・[蔡淳佳が](https://ja.wikipedia.org/wiki/:zh:蔡淳佳 "wikilink")[北京語](../Page/北京語.md "wikilink")で『等一個晴天』として歌っているが、歌詞は別人物作で一青窈は本来の作曲者である武部聡志とともに作曲者にクレジットされている。
-14. '''金魚すくい '''
+14. **[金魚すくい](https://ja.wikipedia.org/wiki/金魚すくい_\(一青窈の曲\) "wikilink")**
       - 作曲・編曲：富田素弘
       - 3枚目のシングル『金魚すくい』および2枚目のアルバム『一青想』収録。
       - マスタリングには[ブライアン・ガードナーを起用](https://ja.wikipedia.org/wiki/:en:Brian_Gardner "wikilink")。

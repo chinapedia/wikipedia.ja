@@ -50,7 +50,7 @@
 
 ## 外部リンク
 
-  - **[インターネットラジオステーション＜音泉＞](http://www.onsen.ag/)**
+  - **[インターネットラジオステーション＜音泉＞](https://www.onsen.ag/)**
   - [Supporters community site BEWE](http://www.bewe.sc/)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:コナミのラジオ番組](https://ja.wikipedia.org/wiki/Category:コナミのラジオ番組 "wikilink")

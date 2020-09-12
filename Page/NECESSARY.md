@@ -7,6 +7,8 @@
 
 前作「[FOREVER YOURS](../Page/FOREVER_YOURS.md "wikilink")」から3ヶ月振りのリリースとなる。PVには、タレントの[坂本三佳](../Page/坂本三佳.md "wikilink")が出演している。
 
+最高位2位（1位は[Globe](../Page/Globe.md "wikilink")の「[Sweet heart](../Page/Sweet_heart_\(globeの曲\).md "wikilink")」）、累計23万枚。3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」でブレイク以来、初の40万枚割れとなった。
+
 2005年に発売された『[ACOUSTIC:LATTE](../Page/ACOUSTIC:LATTE.md "wikilink")』にアコースティックにアレンジして収録されたものにオリジナルとは別のビデオクリップが存在する。
 
 ## 収録曲

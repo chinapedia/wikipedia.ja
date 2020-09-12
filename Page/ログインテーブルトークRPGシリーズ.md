@@ -75,4 +75,8 @@
   - [レジェンド・オブ・フェアリーアース](../Page/レジェンド・オブ・フェアリーアース.md "wikilink")
   - [ローズ・トゥ・ロード](../Page/ローズ・トゥ・ロード.md "wikilink")（新版）
 
+## 外部リンク
+
+  - [eb\! ログインテーブルトークRPGシリーズ - エンターブレイン](https://www.enterbrain.co.jp/hobby/trpg/index.html)
+
 [Category:エンターブレインの出版物](https://ja.wikipedia.org/wiki/Category:エンターブレインの出版物 "wikilink") [Category:エンターブレインのテーブルトークRPG](https://ja.wikipedia.org/wiki/Category:エンターブレインのテーブルトークRPG "wikilink") [Category:テーブルトークRPG関連の文庫・叢書](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG関連の文庫・叢書 "wikilink")

@@ -47,6 +47,6 @@ SWIMOは3両固定[編成で](https://ja.wikipedia.org/wiki/編成_\(鉄道\) "w
       - [SWIMOが完成](http://www.khi.co.jp/khi_news/2007data/c3071119-1.htm) - 2007年11月19日
   - [台車近影:SWIMOを見る（A）](http://rail.hobidas.com/bogie/archives/2007/11/lrvswimo.html)[（B）](http://rail.hobidas.com/bogie/archives/2007/11/swimob.html) - 鉄道ホビダス（[ネコ・パブリッシング](../Page/ネコ・パブリッシング.md "wikilink")）。SWIMO主要諸元表も掲載。
 
-[Category:路面電車車両](https://ja.wikipedia.org/wiki/Category:路面電車車両 "wikilink") [Category:試作車_(鉄道)](https://ja.wikipedia.org/wiki/Category:試作車_\(鉄道\) "wikilink") [Category:川崎重工業製の電車](https://ja.wikipedia.org/wiki/Category:川崎重工業製の電車 "wikilink") [Category:蓄電池電車](https://ja.wikipedia.org/wiki/Category:蓄電池電車 "wikilink")
+[Category:路面電車車両](https://ja.wikipedia.org/wiki/Category:路面電車車両 "wikilink") [Category:連接式の路面電車車両](https://ja.wikipedia.org/wiki/Category:連接式の路面電車車両 "wikilink") [Category:試作車_(鉄道)](https://ja.wikipedia.org/wiki/Category:試作車_\(鉄道\) "wikilink") [Category:川崎重工業製の電車](https://ja.wikipedia.org/wiki/Category:川崎重工業製の電車 "wikilink") [Category:蓄電池電車](https://ja.wikipedia.org/wiki/Category:蓄電池電車 "wikilink")
 
 1.  [両備グループ 代表メッセージ](http://www.ryobi.gr.jp/message/message_100506.html)

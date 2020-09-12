@@ -143,9 +143,12 @@
 
 ## 外部リンク
 
-  - [公式サイト GEISAI](http://www.geisai.net/g12/)
+  - [公式サイト GEISAI](http://www.geisai.net/)
+
   - [GEISAITV さんのチャンネル - YouTube](http://www.youtube.com/user/GEISAITV)
 
+  -
+  -
 [Category:日本の美術展覧会](https://ja.wikipedia.org/wiki/Category:日本の美術展覧会 "wikilink")
 
 1.  「[AKB48の皆さんがステージゲストに決定いたしました！](http://www.geisai.net/news/2008/08/akb48.php)」　GEISAI OFFICIAL WEBSITE、2008年8月8日。

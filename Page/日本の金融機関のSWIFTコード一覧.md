@@ -142,14 +142,14 @@
 
 ### 信託銀行 (0280 - 0329)
 
-  - 0287　(旧)[三井信託銀行](https://ja.wikipedia.org/wiki/三井信託銀行 "wikilink")　MTRBJPJT
+  - 0287　（旧）[三井信託銀行](https://ja.wikipedia.org/wiki/三井信託銀行 "wikilink")　MTRBJPJT
   - **0288**　[三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")　**MTBCJPJT**
   - **0289**　[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")　**YTBCJPJT**
-  - 0290 (旧)[UFJ信託銀行](../Page/UFJ信託銀行.md "wikilink")　TOYOJPJT
-  - 0291　(旧)[中央三井信託銀行](../Page/中央三井信託銀行.md "wikilink")　MTRBJPJT
-      - 0291　(旧)[中央信託銀行](https://ja.wikipedia.org/wiki/中央信託銀行 "wikilink")　CHUOJPJT
+  - 0290 （旧）[UFJ信託銀行](../Page/UFJ信託銀行.md "wikilink")　TOYOJPJT
+  - 0291　（旧）[中央三井信託銀行](../Page/中央三井信託銀行.md "wikilink")　MTRBJPJT
+      - 0291　（旧）[中央信託銀行](https://ja.wikipedia.org/wiki/中央信託銀行 "wikilink")　CHUOJPJT
   - **0294**　[三井住友信託銀行](https://ja.wikipedia.org/wiki/三井住友信託銀行 "wikilink")　**STBCJPJT**
-      - 0294　(旧)[住友信託銀行](../Page/住友信託銀行.md "wikilink")　STBCJPJT
+      - 0294　（旧）[住友信託銀行](../Page/住友信託銀行.md "wikilink")　STBCJPJT
   - **0295** [ニューヨークメロン信託銀行](https://ja.wikipedia.org/wiki/バンク・オブ・ニューヨーク・メロン "wikilink")
       - 0295 （旧）JPモルガン信託銀行
       - 0295 （旧）チェース信託銀行
@@ -171,16 +171,17 @@
   - **0310**　[GMOあおぞらネット銀行](../Page/GMOあおぞらネット銀行.md "wikilink")　未定
       - 0310 （旧）あおぞら信託銀行
   - **0311**　[農中信託銀行](../Page/農中信託銀行.md "wikilink")　**NCTBJPJ1**
-  - 0314 (旧)[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")　DKFTJPJT
-      - 0314 (旧)[第一勧業富士信託銀行](https://ja.wikipedia.org/wiki/第一勧業富士信託銀行 "wikilink")　DKFTJPJT
-      - 0314 (旧)[第一勧業信託銀行](https://ja.wikipedia.org/wiki/第一勧業信託銀行 "wikilink")　
-  - 0315　(旧)[三井アセット信託銀行](https://ja.wikipedia.org/wiki/三井アセット信託銀行 "wikilink")
-  - 0316 (旧)[富士信託銀行](https://ja.wikipedia.org/wiki/富士信託銀行 "wikilink")　
+  - 0314 （旧）[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")　DKFTJPJT
+      - 0314 （旧）[第一勧業富士信託銀行](https://ja.wikipedia.org/wiki/第一勧業富士信託銀行 "wikilink")　DKFTJPJT
+      - 0314 （旧）[第一勧業信託銀行](https://ja.wikipedia.org/wiki/第一勧業信託銀行 "wikilink")　
+  - 0315　（旧）[三井アセット信託銀行](https://ja.wikipedia.org/wiki/三井アセット信託銀行 "wikilink")
+  - 0316 （旧）[富士信託銀行](https://ja.wikipedia.org/wiki/富士信託銀行 "wikilink")　
   - **0320**　[新生信託銀行](../Page/新生信託銀行.md "wikilink")　**SHTCJPJ1**
   - **0321**　[日証金信託銀行](../Page/日証金信託銀行.md "wikilink")　**JSTCJPJ1**
-  - 0322　(旧)[新銀行東京](../Page/新銀行東京.md "wikilink")　SGTKJPJT
-  - **0324**　[日本トラスティ・サービス信託銀行](../Page/日本トラスティ・サービス信託銀行.md "wikilink")　**JTSBJPJT**
-  - **0325**　[資産管理サービス信託銀行](../Page/資産管理サービス信託銀行.md "wikilink")　**TCSBJPJT**
+  - 0322　（旧）[新銀行東京](../Page/新銀行東京.md "wikilink")　SGTKJPJT
+  - **0324**　[日本カストディ銀行](https://ja.wikipedia.org/wiki/日本カストディ銀行 "wikilink")
+      - 0324　（旧）[日本トラスティ・サービス信託銀行](../Page/日本トラスティ・サービス信託銀行.md "wikilink")　JTSBJPJT
+  - 0325　（旧）[資産管理サービス信託銀行](../Page/資産管理サービス信託銀行.md "wikilink")　TCSBJPJT
   - 0326 （旧）[りそな信託銀行](../Page/りそな信託銀行.md "wikilink")
       - 0326 （旧）大和銀信託銀行
 

@@ -13,4 +13,4 @@
 
 ## 収録曲
 
-[Category:SADSの楽曲](https://ja.wikipedia.org/wiki/Category:SADSの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink") [Category:清春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清春が制作した楽曲 "wikilink")
+[Category:SADSの楽曲](https://ja.wikipedia.org/wiki/Category:SADSの楽曲 "wikilink") [Category:2001年のクアトロA面シングル](https://ja.wikipedia.org/wiki/Category:2001年のクアトロA面シングル "wikilink") [Category:清春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清春が制作した楽曲 "wikilink")

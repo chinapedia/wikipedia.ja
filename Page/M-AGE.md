@@ -580,18 +580,19 @@ RSN LP29</p></td>
 ## 外部リンク
 
   - [M-AGE オフィシャルサイト](http://m-age.tokyo/)
-  - [M-AGE 公式Twitterアカウント](https://twitter.com/MAGE_INFO)
-  - [三代堅 Twitterアカウント](https://twitter.com/ucrackirigaru34/)
-      - [青天の霹靂 Twitterアカウント](https://twitter.com/seitenhekireki1/)
-      - [青天の霹靂 facebookアカウント](https://www.facebook.com/%E9%9D%92%E5%A4%A9%E3%81%AE%E9%9C%B9%E9%9D%82-489563504728504/)
-      - [u crack irigaru 公式サイト](http://ucrackirigaru.com/)
-      - [u crack irigaru facebookアカウント](https://www.facebook.com/U-crack-irigaru-1025526850886048/)
-      - [THE MORTAL 公式サイト](https://the-mortal.com/)
-  - [岡崎達成 facebookアカウント](https://www.facebook.com/profile.php?id=100009223657597/)
-  - [岡崎達成 Instagramアカウント](https://www.instagram.com/norhythm.nolife_0222/)
-      - [AGE of PUNK facebookアカウント](https://www.facebook.com/AgeOfPunkOfficial/)
-  - [DJ PEAH 公式サイト](https://djpeah.wixsite.com/dj-peah/)
-  - [DJ PEAH Twitterアカウント](https://twitter.com/DjPeah/)
-  - [DJ PEAH Instagramアカウント](https://www.instagram.com/djpeah_/)
 
+  -
+  -   -
+      -
+      -
+      -
+      -
+      - [THE MORTAL 公式サイト](https://the-mortal.com/)
+
+  -
+  -   -
+  - [DJ PEAH 公式サイト](https://djpeah.wixsite.com/dj-peah/)
+
+  -
+  -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")

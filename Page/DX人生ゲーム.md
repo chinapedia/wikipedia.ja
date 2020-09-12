@@ -1,7 +1,7 @@
 > この記事は[DX人生ゲーム](https://ja.wikipedia.org/wiki/DX人生ゲーム)から翻訳されています。
 
 
-**DX人生ゲーム**（デラックスじんせいゲーム）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")用、[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[プレイステーション用が発売されたソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。発売元は[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）。SUPER人生ゲームIIIの続編である。
+**DX人生ゲーム**（デラックスじんせいゲーム）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")用、[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に[プレイステーション用が発売されたソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。発売元は[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）。SUPER人生ゲームIIの続編である。
 
 ## 概要
 

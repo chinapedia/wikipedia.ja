@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")リリース。アルバム「[Nine cubes](../Page/Nine_cubes.md "wikilink")」の先行シングル。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")リリース。3rdアルバム「[Nine cubes](../Page/Nine_cubes.md "wikilink")」の先行シングル。
   - 本人出演 [JT](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング。
   - 初の[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")で値段は8cmシングルより高いが、収録曲数は少ない。
-  - 本人が夏に海に行ったことから生まれた曲であり、不景気な世の中を明るくしようというコンセプトの楽曲である。
-  - PVはイラストで描かれた街並みで戯れる映像だが、商品化はされていない。
+  - 本人が同年夏に海に行ったことから生まれた曲であり、不景気な世の中を明るくしようというコンセプトの楽曲である。
+  - PVはイラストで描かれた街並みをバックに華原が出演するシンプルな映像でショートサイズで制作されたが、前作同様に商品化はされていない。
   - 1998年[紅白歌合戦での歌唱曲](../Page/NHK紅白歌合戦.md "wikilink")。
 
 ## 収録曲
@@ -55,5 +55,9 @@
 
   -
     **daily news \[Straight Run\]**
+
+[ALL TIME SINGLES BEST](https://ja.wikipedia.org/wiki/ALL_TIME_SINGLES_BEST "wikilink")
+
+daily news \[Staright Run\]
 
 [Category:華原朋美の楽曲](https://ja.wikipedia.org/wiki/Category:華原朋美の楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:桃の天然水のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:桃の天然水のコマーシャルソング "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")

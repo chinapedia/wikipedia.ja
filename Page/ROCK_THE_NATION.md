@@ -13,19 +13,19 @@
 
 全て毎週土曜の放送で、放送時間の早い順から記載。
 
-★は2020年2月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアムを含む）で聴取可能な放送局。
+全局、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink").jp」や「radikoプレミアム」で全国聴取可能。
 
 ### 現在
 
-| 放送対象地域                                              | 放送局名                                                   | 放送日時          | 備考      |
+| 放送対象地域                                              | 放送局名                                                   | 放送時間          | 備考      |
 | --------------------------------------------------- | ------------------------------------------------------ | ------------- | ------- |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [エフエム仙台](../Page/エフエム仙台.md "wikilink")（Date fm）★       | 25:00 - 26:00 | **製作局** |
-| [山形県](../Page/山形県.md "wikilink")                    | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station） | 24:00 - 25:00 |         |
-| [福島県](../Page/福島県.md "wikilink")                    | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）★        |               |         |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）★      | 25:00 - 26:00 |         |
-| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）★           | 26:00 - 27:00 |         |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [エフエム仙台](../Page/エフエム仙台.md "wikilink")（Date fm）        | 25:00 - 26:00 | **製作局** |
+| [福島県](../Page/福島県.md "wikilink")                    | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）         | 24:00 - 25:00 |         |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）       | 25:00 - 26:00 |         |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）            | 26:00 - 27:00 |         |
 | [秋田県](../Page/秋田県.md "wikilink")                    | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）            |               |         |
-| [広島県](../Page/広島県.md "wikilink")                    | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）★       |               |         |
+| [山形県](../Page/山形県.md "wikilink")                    | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station） | \[1\]         |         |
+| [広島県](../Page/広島県.md "wikilink")                    | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）        |               |         |
 
 ### 過去
 
@@ -49,4 +49,8 @@
   - 仙台で番組のイベントを開催したこともある。
   - 当番組のネット局は全局とも[Heavy Metal Syndicateを放送していた](../Page/Heavy_Metal_Syndicate.md "wikilink")。
 
+## 脚注
+
 [Category:Date_fmの番組](https://ja.wikipedia.org/wiki/Category:Date_fmの番組 "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:ハードロック](https://ja.wikipedia.org/wiki/Category:ハードロック "wikilink") [Category:ヘヴィメタル](https://ja.wikipedia.org/wiki/Category:ヘヴィメタル "wikilink")
+
+1.  2020年3月までは24:00 - 25:00に放送していた。

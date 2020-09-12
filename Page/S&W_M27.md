@@ -44,7 +44,7 @@ M27やM28はフレームが前述の通り大柄なN-フレームである分、
 ### 漫画・アニメ
 
   - 『[シティーハンター](../Page/シティーハンター.md "wikilink")』
-    [冴羽獠が所持](../Page/冴羽りょう.md "wikilink")。使用というよりも分解して隠し持っている。
+    [冴羽獠](https://ja.wikipedia.org/wiki/冴羽獠 "wikilink")が所持。使用というよりも分解して隠し持っている。
   - 『[ルパン三世](../Page/ルパン三世.md "wikilink")シリーズ』
     主に劇場版作品にて[次元大介](../Page/次元大介.md "wikilink")が所持し、同社製の[M19に変わって使用している](../Page/S&W_M19.md "wikilink")（実銃のM19は[.357マグナム弾](https://ja.wikipedia.org/wiki/.357マグナム弾 "wikilink")を撃つのに適していない）。
 

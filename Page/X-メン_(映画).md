@@ -191,8 +191,8 @@
 </tbody>
 </table>
 
-  - 本作の映像ソフト版の吹き替えではウルヴァリン、マグニートー、ストームの声優が続編『X-MEN2』以降とは異なっている。また、テレビ朝日版でマグニートーの声を担当した家弓家正は、続編の劇場公開版を担当していた[有川博](../Page/有川博.md "wikilink")の没後に役を引き継ぐ形で、『[ウルヴァリン: SAMURAI](https://ja.wikipedia.org/wiki/ウルヴァリン:_SAMURAI "wikilink")』と『[X-MEN: フューチャー&パスト](https://ja.wikipedia.org/wiki/X-MEN:_フューチャー&パスト "wikilink")』の劇場公開版に出演した。
-  - 20世紀フォックス ホーム エンターテイメント ジャパンより、上記の全2種類の吹替版を収録した4K ULTRA HD Blu-ray＋Blu-ray Discが2019年5月24日に発売された。\[2\]
+  - 本作の映像ソフト版の吹き替えではウルヴァリン、マグニートー、ストームの声優が続編『X-MEN2』以降とは異なっている。また、テレビ朝日版でプロフェッサーの声を担当した麦人は劇場公開版を担当していた大木民夫から引き継ぐ形で『[LOGAN/ローガン](https://ja.wikipedia.org/wiki/LOGAN/ローガン "wikilink")』に、マグニートーの声を担当した家弓家正は、続編の劇場公開版を担当していた[有川博](../Page/有川博.md "wikilink")の没後に役を引き継ぐ形で、『[ウルヴァリン: SAMURAI](https://ja.wikipedia.org/wiki/ウルヴァリン:_SAMURAI "wikilink")』と『[X-MEN: フューチャー&パスト](https://ja.wikipedia.org/wiki/X-MEN:_フューチャー&パスト "wikilink")』の劇場公開版に出演した。
+  - 20世紀フォックス ホーム エンターテイメント ジャパンより、上記の全2種類の吹替版を収録した4K ULTRA HD Blu-ray＋Blu-ray Discが2019年5月24日に発売された\[2\]。
 
 ## スタッフ
 

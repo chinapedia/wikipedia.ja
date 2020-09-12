@@ -43,7 +43,7 @@
   - [吉村涼](../Page/吉村涼.md "wikilink")
   - [勇静華](../Page/勇静華.md "wikilink")
   - [服部ジュン](https://ja.wikipedia.org/wiki/服部ジュン "wikilink")
-  - 吉田愛歩
+  - [吉田愛歩](https://ja.wikipedia.org/wiki/吉田愛歩 "wikilink")
   - [石橋桂](https://ja.wikipedia.org/wiki/石橋桂 "wikilink")
 
 <!-- end list -->
@@ -67,7 +67,7 @@
   - [前田愛](../Page/前田愛_\(女優\).md "wikilink")
   - 御手洗リカ
   - [安藤希](../Page/安藤希.md "wikilink")
-  - [中野美穂](https://ja.wikipedia.org/wiki/中野美穂 "wikilink")
+  - [中野美穂](https://ja.wikipedia.org/wiki/中野美穂_\(子役\) "wikilink")
   - 谷井里衣
   - 行方麻衣
   - [松井友香](../Page/松井友香.md "wikilink")

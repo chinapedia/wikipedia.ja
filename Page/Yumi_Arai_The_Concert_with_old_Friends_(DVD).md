@@ -42,7 +42,7 @@
   - ギター:[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
   - キーボード:[松任谷正隆](../Page/松任谷正隆.md "wikilink")、[武部聡志](../Page/武部聡志.md "wikilink")
   - サックス:Jake H. Conception
-  - コーラス:[東郷昌和 (BUZZ)](../Page/バズ_\(バンド\).md "wikilink")、[小出博志 (BUZZ)](../Page/バズ.md "wikilink")、松岡奈穂美
+  - コーラス:東郷昌和 ([BUZZ](../Page/バズ_\(バンド\).md "wikilink"))、小出博志 (BUZZ)、松岡奈穂美
   - シンセサイザー・プログラミング：山中雅文
   - ゲスト：[山本潤子](../Page/山本潤子.md "wikilink")（\#4）、[高中正義](../Page/高中正義.md "wikilink")（\#8）、[高橋幸宏](../Page/高橋幸宏.md "wikilink")（\#7,\#8）、[ミカ](../Page/福井ミカ.md "wikilink")（\#8）
 

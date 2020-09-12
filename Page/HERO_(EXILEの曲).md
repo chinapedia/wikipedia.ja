@@ -21,8 +21,8 @@
 2.  **FIND YOU** - [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")
       -
         作詞：[Michico](https://ja.wikipedia.org/wiki/Michico "wikilink") / 作曲：Michico & [T.Kura](https://ja.wikipedia.org/wiki/T.Kura "wikilink")
-3.  HERO (Instrumental)
-4.  FIND YOU (Instrumental)
+3.  HERO（Instrumental）
+4.  FIND YOU（Instrumental）
 
 ## 脚注
 

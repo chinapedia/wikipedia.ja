@@ -51,4 +51,4 @@
   - [公式サイト](http://hayabusafamily.com/pc-index.html)
   - [フォーライフ](http://www.forlife.co.jp/hayabusa/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
+[Category:日本の男性音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の男性音楽グループ "wikilink") [Category:日本の男性歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の男性歌手グループ "wikilink")

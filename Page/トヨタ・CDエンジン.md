@@ -1,14 +1,14 @@
 > この記事は[トヨタ・CDエンジン](https://ja.wikipedia.org/wiki/トヨタ・CDエンジン)から翻訳されています。
 
 
-**トヨタ・CDエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
+**トヨタ・CDエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
 
 [3代目C型エンジンを基に](../Page/トヨタ・C型エンジン_\(3代目\).md "wikilink")、[直噴化と](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")[コモンレール](https://ja.wikipedia.org/wiki/コモンレール "wikilink")化を行い、厳しくなりつつある[ディーゼル車の](../Page/ディーゼル自動車.md "wikilink")[排出ガス規制に対応させたもの](../Page/自動車排出ガス規制.md "wikilink")。また、コモンレール方式はトヨタ製エンジンでは初となる\[1\]。
 
 ## 概要
 
   - 生産期間
-      - [2000年](../Page/2000年.md "wikilink")8月 - （海外向け）
+      - [2000年](../Page/2000年.md "wikilink")8月 - [2012年](../Page/2012年.md "wikilink")12月（海外向け）
 
 ## 系譜
 
@@ -39,6 +39,7 @@
 
 ## 関連項目
 
+  - [トヨタ・ADエンジン](../Page/トヨタ・ADエンジン.md "wikilink") - 当型式の後継となる自動車用ディーゼルエンジン
   - [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
   - [トヨタのエンジン系列名](../Page/トヨタのエンジン系列名.md "wikilink")
   - [トヨタのエンジン型式一覧](../Page/トヨタのエンジン型式一覧.md "wikilink")

@@ -7,7 +7,7 @@
 
 ## 経歴
 
-[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")に生まれる\[4\]。漫画を読む父親の影響で小学生の頃より漫画に親しみ、絵を描くようになる\[5\]。高校生の頃には画塾に通うようになり、漫画よりも絵を描くことの方が多かった\[6\]。将来は歴史の教師になろうとも考えたが、やはり絵を描きたいとの思いから芸術科のある東京の大学に進学する\[7\]。大学生時代に友人の同人活動に携わった事がきっかけでストーリーのある漫画を描く事に惹かれるようになり、自身も同人誌活動を始める\[8\]。大学卒業後は就職し会社の研修を受けていたが、その頃に参加していた同人誌即売会で出版社より実録漫画を描かないかと誘われた事がきっかけで会社を辞め、漫画家としてデビューする\[9\]。以後、漫画家及びイラストレーターとして活動。現在に至る。
+[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")に生まれる\[4\]。漫画を読む父親の影響で小学生の頃より漫画に親しみ、絵を描くようになる\[5\]。高校生の頃には画塾に通うようになり、漫画よりも絵を描くことのほうが多かった\[6\]。将来は歴史の教師になろうとも考えたが、やはり絵を描きたいとの思いから芸術科のある東京の大学に進学する\[7\]。大学生時代に友人の同人活動に携わったことがきっかけでストーリーのある漫画を描くことに惹かれるようになり、自身も同人誌活動を始める\[8\]。大学卒業後は就職し会社の研修を受けていたが、その頃に参加していた同人誌即売会で出版社より実録漫画を描かないかと誘われたことがきっかけで会社を辞め、漫画家としてデビューする\[9\]。以後、漫画家及びイラストレーターとして活動。現在に至る。
 
 ## 作品リスト
 
@@ -22,8 +22,10 @@
   - [ぎふと](https://ja.wikipedia.org/wiki/ぎふと "wikilink")（『[コミックエール\!](../Page/コミックエール!.md "wikilink")』Vol.5（2008年3月） - Vol.10（2009年1月）→『[月刊ドラゴンエイジ](../Page/月刊ドラゴンエイジ.md "wikilink")』2009年6月号 - 12月号）
   - [ひぐらしの哭く頃に 雀〜燕返し編〜](https://ja.wikipedia.org/wiki/ひぐらしの哭く頃に_雀 "wikilink")（『[近代麻雀](../Page/近代麻雀.md "wikilink")』2010年1月1日号 - 2011年2月1日号） - 原作：[竜騎士07](../Page/竜騎士07.md "wikilink")・[07th Expansion](../Page/07th_Expansion.md "wikilink")/[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")
   - [蒼界のイヴ](https://ja.wikipedia.org/wiki/蒼界のイヴ "wikilink")（『[WEBコミックハイ\!](https://ja.wikipedia.org/wiki/WEBコミックハイ! "wikilink")』2011年1月20日 - 2012年7月20日）
-  - [UN-GO 敗戦探偵・結城新十郎](https://ja.wikipedia.org/wiki/UN-GO "wikilink")（『[ニュータイプエース](https://ja.wikipedia.org/wiki/ニュータイプエース "wikilink")』Vol.1（2011年9月） - **連載中**） - 原作：「UN-GO」制作委員会 監修：[ボンズ](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")・「UN-GO」製作委員会、単行本未発行
+  - [UN-GO 敗戦探偵・結城新十郎](https://ja.wikipedia.org/wiki/UN-GO "wikilink")（『[ニュータイプエース](https://ja.wikipedia.org/wiki/ニュータイプエース "wikilink")』Vol.1（2011年9月） - Vol.21（2013年5月） - 原作：「UN-GO」制作委員会 監修：[ボンズ](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")・「UN-GO」製作委員会
+  - [王様ゲーム 起源](https://ja.wikipedia.org/wiki/王様ゲーム_\(小説\) "wikilink")（『[月刊アクション](https://ja.wikipedia.org/wiki/月刊アクション "wikilink")』2013年7月号 - 2016年3月号） - 原作：[金沢伸明](https://ja.wikipedia.org/wiki/金沢伸明 "wikilink")
   - [異能メイズ](https://ja.wikipedia.org/wiki/異能メイズ "wikilink")（『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』2016年7月号 - 2018年5月号） - 原作：[岡田伸一](https://ja.wikipedia.org/wiki/岡田伸一 "wikilink")
+  - [JKハルは異世界で娼婦になった](../Page/JKハルは異世界で娼婦になった.md "wikilink")（『[まんが王国](https://ja.wikipedia.org/wiki/まんが王国 "wikilink")』2019年6月14日 - 連載中） - 原作：[平鳥コウ](../Page/平鳥コウ.md "wikilink")
   - [エコエコアザラク REBORN](../Page/エコエコアザラク.md "wikilink")（『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』2020年5月号 - 連載中） - 原作：[古賀新一](../Page/古賀新一.md "wikilink")
 
 ### 読み切り
@@ -51,6 +53,10 @@
   - 『[ぎふと](https://ja.wikipedia.org/wiki/ぎふと "wikilink")』、発行：[富士見書房](../Page/富士見書房.md "wikilink") / 発売：角川グループパブリッシング 〈[カドカワコミックス・ドラゴンJr.](https://ja.wikipedia.org/wiki/カドカワコミックス・ドラゴンJr. "wikilink")〉→〈[ドラゴンコミックスエイジ](https://ja.wikipedia.org/wiki/カドカワコミックス#ドラゴンコミックスエイジ "wikilink")〉 2009年 - 2010年、全2巻
   - 『[ひぐらしの哭く頃に 雀〜燕返し編〜](https://ja.wikipedia.org/wiki/ひぐらしの哭く頃に_雀 "wikilink")』、[竹書房](../Page/竹書房.md "wikilink") 〈近代麻雀コミックス〉 2010年 - 2011年、全2巻（上下巻）
   - 『[蒼界のイヴ](https://ja.wikipedia.org/wiki/蒼界のイヴ "wikilink")』、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink") （[アクションコミックス コミックハイブランド](https://ja.wikipedia.org/wiki/コミックハイ!#コミックハイブランド "wikilink")） 2011年 - 2012年、全3巻
+  - 『[UN-GO 敗戦探偵・結城新十郎](https://ja.wikipedia.org/wiki/UN-GO "wikilink")』、[角川書店](../Page/角川書店.md "wikilink")〈[カドカワコミックス・エース](https://ja.wikipedia.org/wiki/カドカワコミックス・エース "wikilink")〉 2012年 - 2013年、全3巻
+  - 『[王様ゲーム 起源](https://ja.wikipedia.org/wiki/王様ゲーム_\(小説\) "wikilink")』、双葉社〈アクションコミックス〉 2014年 - 2016年、全6巻
+  - 『[異能メイズ](https://ja.wikipedia.org/wiki/異能メイズ "wikilink")』スクウェア・エニックス〈[ガンガンコミックス](https://ja.wikipedia.org/wiki/ガンガンコミックス "wikilink")〉 2017年 - 2018年、全4巻
+  - 『[JKハルは異世界で娼婦になった](../Page/JKハルは異世界で娼婦になった.md "wikilink")』新潮社〈バンチコミックス〉2019年 - 刊行中、既刊2巻
 
 #### 小説挿絵
 

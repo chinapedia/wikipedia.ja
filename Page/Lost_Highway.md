@@ -38,6 +38,6 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [Lost Highway](http://yuming.co.jp/discography/single/single32/)
 
-[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")
+[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:自動車を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:自動車を題材とした楽曲 "wikilink") [Category:道を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:道を題材とした楽曲 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")
 
 1.

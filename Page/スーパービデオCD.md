@@ -5,7 +5,7 @@
 
 ## 概要
 
-スーパービデオCDは、[ビデオCD](../Page/ビデオCD.md "wikilink")より高画質、高音質な動画を扱える規格として、[中国で開発された](../Page/中華人民共和国.md "wikilink")。ビデオCDと同様に映像は[デジタル](../Page/デジタル.md "wikilink")形式で格納されているため画像の劣化が少なく、特に[ジッター](../Page/ジッター.md "wikilink")と呼ばれる映像の横揺れはほとんど存在せず、アナログビデオ特有の色むらなども少ないという特徴を持つ。
+スーパービデオCDは、[ビデオCD](../Page/ビデオCD.md "wikilink")より高画質、高音質な動画を扱える規格として、[中国で開発され](../Page/中華人民共和国.md "wikilink")、後に規格書「ホワイトブック」に追加された\[1\] 。ビデオCDと同様に映像は[デジタル](../Page/デジタル.md "wikilink")形式で格納されているため画像の劣化が少なく、特に[ジッター](../Page/ジッター.md "wikilink")と呼ばれる映像の横揺れはほとんど存在せず、アナログビデオ特有の色むらなども少ないという特徴を持つ。
 
 一部の[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")はスーパービデオCDの再生に対応しているものがあるが、一般的なDVDプレーヤーでは再生できず、対応機器はDVDはおろかビデオCDと比べても少ない。しかし、開発国である中国製のDVDプレーヤーでは再生可能な機種が多い。
 
@@ -23,6 +23,10 @@
 
 音声はMPEG-1 LayerII で、[固定ビットレート](https://ja.wikipedia.org/wiki/固定ビットレート "wikilink")となっている。
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [ビデオCD](../Page/ビデオCD.md "wikilink")
@@ -30,3 +34,5 @@
   - [miniDVD](https://ja.wikipedia.org/wiki/miniDVD "wikilink") - CDにDVDと同様の形式で収録する規格
 
 [Category:コンパクトディスク](https://ja.wikipedia.org/wiki/Category:コンパクトディスク "wikilink") [Category:ビデオディスク](https://ja.wikipedia.org/wiki/Category:ビデオディスク "wikilink") [Category:ビデオストレージ](https://ja.wikipedia.org/wiki/Category:ビデオストレージ "wikilink")
+
+1.

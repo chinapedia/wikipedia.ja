@@ -5,9 +5,9 @@
 
 ## 解説
 
-ミリオンセラーシングル2曲『[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")』、『[FACE](../Page/FACE_\(globeの曲\).md "wikilink")』を含む、6thシングル『[Is this love](../Page/Is_this_love.md "wikilink")』から10thシングル『[Anytime smokin' cigarette](../Page/Anytime_smokin'_cigarette.md "wikilink")』までのシングル5曲を収録。
+ミリオンセラーシングル2曲『[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")』、『[FACE](../Page/FACE_\(globeの曲\).md "wikilink")』を含む、6thシングル『[Is this love](../Page/Is_this_love.md "wikilink")』から後にシングルカットされた10thシングル『[Anytime smokin' cigarette](../Page/Anytime_smokin'_cigarette.md "wikilink")』までのシングル5曲を収録。
 
-初週で164万枚を売り上げ、オリコン初登場1位を記録し翌週も1位を獲得した。累積売上は323.9万枚。
+初週で164万枚を売り上げ、オリコン初登場1位を記録し翌週も1位を獲得した。累積売上は323.9万枚で日本の歴代アルバム売上16位、オリジナルアルバムに限ると歴代10位の売上を誇る。
 
 [カート・コバーン](../Page/カート・コバーン.md "wikilink")が亡くなった時に本作の原点となるメロディのみのデモテープをロンドンで作っていたので、[ニルヴァーナの作風に非常に傾倒しながら制作した](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")\[1\]\[2\]。
 

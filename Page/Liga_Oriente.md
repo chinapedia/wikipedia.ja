@@ -63,7 +63,8 @@
 ## 外部リンク
 
   - [公式サイト](http://www.ligaoriente.com/)
-  - [所属レーベル](http://peninsula.syncl.jp/)
+
+  -
   - [所属事務所](http://www.peninsula.st/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

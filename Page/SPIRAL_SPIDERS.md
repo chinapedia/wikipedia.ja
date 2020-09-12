@@ -164,4 +164,4 @@ TOUR FINAL SHIBUYA AX</a></strong></p></td>
   - [SPIRAL SPIDERS 無期限活動休止のお知らせ。](http://www.spiralspiders.net/message.html/)
   - [Smash Room School 奥沢 - 前田 祐樹（まえだ・ゆうき）](http://www.smashroomschool.com/okusawa/lecture/teacher.php?no=19/)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
+[Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")

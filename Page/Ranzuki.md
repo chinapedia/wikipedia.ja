@@ -100,7 +100,7 @@
 
   -
   -
-[Category:ぶんか社](https://ja.wikipedia.org/wiki/Category:ぶんか社 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink")
+[Category:ぶんか社](https://ja.wikipedia.org/wiki/Category:ぶんか社 "wikilink") [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1998年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1998年創刊の雑誌 "wikilink") [Category:2016年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2016年休廃刊の雑誌 "wikilink")
 
 1.  \[<http://mdpr.jp/gal/detail/1291508>　『ギャル誌「Ranzuki」新装刊で大幅路線変更「髪も暗いしメイクもうすい」\] 2013年10月23日 *[モデルプレス](https://ja.wikipedia.org/wiki/モデルプレス "wikilink")*
 2.

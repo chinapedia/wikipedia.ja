@@ -21,6 +21,7 @@
   - 「[ぞうのそうぞう](https://ja.wikipedia.org/wiki/ぞうのそうぞう "wikilink")」
   - 「あんしんセエメエ」（[東京海上日動あんしん生命](https://ja.wikipedia.org/wiki/東京海上日動あんしん生命 "wikilink")のキャラクター）
   - 「あくび猫」（[みんなのうた](../Page/みんなのうた.md "wikilink")2010年2月・3月）
+  - 「かんがえがあるカンガルー」（2016年2月）
   - 「[ソラカラちゃん](https://ja.wikipedia.org/wiki/ソラカラちゃん "wikilink")」（[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")の公式キャラクター）
 
-[Category:日本の絵本作家](https://ja.wikipedia.org/wiki/Category:日本の絵本作家 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:日本のグラフィックデザイナー](https://ja.wikipedia.org/wiki/Category:日本のグラフィックデザイナー "wikilink") [Category:CMプランナー](https://ja.wikipedia.org/wiki/Category:CMプランナー "wikilink") [Category:博報堂](https://ja.wikipedia.org/wiki/Category:博報堂 "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
+[Category:日本の絵本作家](https://ja.wikipedia.org/wiki/Category:日本の絵本作家 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:日本のグラフィックデザイナー](https://ja.wikipedia.org/wiki/Category:日本のグラフィックデザイナー "wikilink") [Category:CMプランナー](https://ja.wikipedia.org/wiki/Category:CMプランナー "wikilink") [Category:博報堂の人物](https://ja.wikipedia.org/wiki/Category:博報堂の人物 "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")

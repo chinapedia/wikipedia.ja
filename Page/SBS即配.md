@@ -39,10 +39,6 @@
 
   - [SBSホールディングス](../Page/SBSホールディングス.md "wikilink")
 
-## 外部リンク
-
-  - [SBS即配便](http://www.sbs-sokuhai.co.jp/)
-
 [Category:1988年設立の企業](https://ja.wikipedia.org/wiki/Category:1988年設立の企業 "wikilink") [Category:2015年廃止の企業](https://ja.wikipedia.org/wiki/Category:2015年廃止の企業 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:SBSホールディングス](https://ja.wikipedia.org/wiki/Category:SBSホールディングス "wikilink")
 
 1.  グループ内に、別会社として同名の株式会社関東即配（1987年12月設立、本社・東京都江東区、現在のSBSホールディングス株式会社）がある。

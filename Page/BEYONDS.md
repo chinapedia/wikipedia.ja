@@ -117,7 +117,7 @@
 
 ### コンピレーション
 
-1.  **TVVA - Less Than TV Sampler**（1992年11月）Less Than TV
+1.  **TVVA - Less Than TV Sampler**（1992年11月）[Less Than TV](https://ja.wikipedia.org/wiki/Less_Than_TV "wikilink")
       -
         2\. Surf Nazis Must Die　（オリジナルメンバーでの録音）
 2.  **Kill The Flippers With Guitar**（1992年12月）Vinyl Japan (UKメロディックとのコンピ)
@@ -147,7 +147,7 @@
 
 1.  **WE HAD BEEN THERE～A tribute to Beyonds～**（2002年5月24日）Libra records
       -
-        [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink"),[NAHT](../Page/NAHT.md "wikilink"),[cowpers](https://ja.wikipedia.org/wiki/cowpers "wikilink")[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")らが参加
+        [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink"),[NAHT](../Page/NAHT.md "wikilink"),[cowpers](https://ja.wikipedia.org/wiki/cowpers "wikilink"),[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")らが参加
 
 ## 脚注
 

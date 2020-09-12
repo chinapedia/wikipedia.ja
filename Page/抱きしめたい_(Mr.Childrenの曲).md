@@ -43,6 +43,19 @@ Mr.Childrenのシングルでは初めて横向きのデザインのジャケッ
   - [河村隆一](../Page/河村隆一.md "wikilink")（2007年、アルバム『[evergreen anniversary edition](https://ja.wikipedia.org/wiki/evergreen_anniversary_edition "wikilink")』）
   - [杏里](../Page/杏里.md "wikilink")（2008年、アルバム『[tears of anri 2](https://ja.wikipedia.org/wiki/tears_of_anri_2 "wikilink")』）
 
+## ライブ映像作品
+
+**抱きしめたい**
+
+| 作品名                                                                                                                                                                       | 備考              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [regress or progress '96-'97 tour final IN TOKYO DOME](https://ja.wikipedia.org/wiki/regress_or_progress_'96-'97_tour_final_IN_TOKYO_DOME "wikilink")                     |                 |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                                                                        |                 |
+| [Mr.Children CONCERT TOUR POPSAURUS 2001](../Page/Mr.Children_CONCERT_TOUR_POPSAURUS_2001.md "wikilink")                                                                  |                 |
+| [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink")          | 特典映像、弾き語りで演奏された |
+| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") | 特典映像            |
+| \[\[Mr.Children［(an_imitation)_blood_orange］Tour|Mr.Children \[(an imitation) blood orange\] Tour\]\]                                                                  |                 |
+
 ## 収録アルバム
 
   - 『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』 (\#1)

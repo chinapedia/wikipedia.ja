@@ -131,6 +131,10 @@
 
 :\* [A・イアン・スコット](https://ja.wikipedia.org/wiki/:en:A._Ian_Scott "wikilink") – 2001年[デービーメダル](../Page/デービーメダル.md "wikilink")・2003年[ナカニシプライズ](https://ja.wikipedia.org/wiki/ナカニシプライズ "wikilink")など
 
+:\* [佃良彦](https://ja.wikipedia.org/wiki/佃良彦 "wikilink") - [東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")名誉教授、元日本金融・証券計量・工学学会会長
+
+:\* [松林哲也](https://ja.wikipedia.org/wiki/松林哲也 "wikilink") - [大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")栄誉教授
+
   -
 
   - その他

@@ -9,6 +9,8 @@
 
 [F-BLOOD](../Page/F-BLOOD.md "wikilink")による提供曲で、自身のアルバムでセルフカバーしている。
 
+坂本と井ノ原にソロパートがある。
+
 ## 収録曲
 
 1.  **GENERATION GAP**

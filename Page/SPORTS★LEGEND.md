@@ -128,7 +128,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.ntv.co.jp/thelegend/)
+  - [公式サイト](https://www.ntv.co.jp/thelegend/)
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:日本テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのスポーツ番組 "wikilink") [Category:日本テレビのクイズ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのクイズ番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:モクスペ](https://ja.wikipedia.org/wiki/Category:モクスペ "wikilink") [Category:くりぃむしちゅー](https://ja.wikipedia.org/wiki/Category:くりぃむしちゅー "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 

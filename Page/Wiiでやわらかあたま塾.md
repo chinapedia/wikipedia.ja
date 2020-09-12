@@ -59,11 +59,6 @@
 
 入塾や退塾、塾生ブックの閲覧などをすることができる。
 
-## その他の話題
-
-  - [大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")
-      - シールに、このゲーム出典のハカリ先生がある。
-
 ## 注釈
 
 <div class="references-small">
@@ -76,4 +71,4 @@
 
   - [Wiiでやわらかあたま塾](https://www.nintendo.co.jp/wii/rywj/)
 
-[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:ミニゲーム集](https://ja.wikipedia.org/wiki/Category:ミニゲーム集 "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink")
+[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:ミニゲーム集](https://ja.wikipedia.org/wiki/Category:ミニゲーム集 "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:脳力トレーニングソフト](https://ja.wikipedia.org/wiki/Category:脳力トレーニングソフト "wikilink")

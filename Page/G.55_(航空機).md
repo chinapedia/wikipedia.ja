@@ -26,7 +26,7 @@ G.55は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")製[ダイ
 
 G.55は同じDB605系エンジンを搭載した[MC.205ベルトロや](../Page/MC.205_\(航空機\).md "wikilink")[Re.2005サジタリオ](../Page/Re.2005_\(航空機\).md "wikilink")（MC.205、Re.2005、G.55を総称して「serie5」と呼ぶ）に比べて武装の面で優れていた。量産型の[MG151](https://ja.wikipedia.org/wiki/MG151 "wikilink")/20（20mm機関砲）×3、[ブレダSAFAT12.7mm機銃](https://ja.wikipedia.org/wiki/ブレダSAFAT機関銃 "wikilink")×2は、M.C.205（MG151/20×2、ブレダSAFA12.7mm×2）より強力でRe.2005 （MG151/20×3、ブレダSAFA12.7mm×2）と同等、装弾数はブレダSAFA12.7mm各300発、MG151/20は軸内250発、翼内各200発であった。
 
-イタリアでは戦局の悪化に伴い北[アフリカ](../Page/アフリカ.md "wikilink")から[B-17や](https://ja.wikipedia.org/wiki/B-17_\(航空機\) "wikilink")[B-24といった連合軍の大型](../Page/B-24_\(航空機\).md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")が頻繁に来襲するようになった。それまでのイタリア戦闘機、例えば大戦期に於けるイタリア主力戦闘機である[MC.202 フォルゴーレのブレダSAFAT](../Page/MC.202_\(航空機\).md "wikilink")7.7mm×2、ブレダSAFAT12.7mm×2という程度の武装では火力的に対応することが難しく、また高高度性能も劣っていた。
+イタリアでは戦局の悪化に伴い北[アフリカ](../Page/アフリカ.md "wikilink")から[B-17や](https://ja.wikipedia.org/wiki/B-17_\(航空機\) "wikilink")[B-24といった連合軍の大型](../Page/B-24_\(航空機\).md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")が頻繁に来襲するようになった。それまでのイタリア戦闘機は爆撃機を迎撃するには武装が貧弱で火力に乏しく（例えば大戦期に於けるイタリア主力戦闘機である[MC.202 フォルゴーレはブレダSAFAT](../Page/MC.202_\(航空機\).md "wikilink")7.7mm×2、ブレダSAFAT12.7mm×2であり、列国の戦闘機と比べると見劣りしてしまう）、加えて高高度性能も劣っていた。
 
 G.55はその点強力な武装を有し、また実用上昇限度が12,500mと比較的高く、優れた迎撃戦闘機であった。
 
